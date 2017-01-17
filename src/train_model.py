@@ -163,6 +163,7 @@ def run_train(model_name, w2v_path, trn_path, dev_path, model_path, lex_path_lis
                     l1_reg_lambda=l1_reg_lambda)
 
             elif model_name == 'W2V_LEX_CNN_CONCAT_A2V':
+                print x_train.shape[1]
                 cnn = W2V_LEX_CNN_CONCAT_A2V(
                     sequence_length=x_train.shape[1],
                     num_classes=num_classes,
@@ -414,7 +415,7 @@ def get_lex_file_list(lexfile_path):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     # python train_model.py - v w2v-400.bin - t train_data - d dev_data - l lex_config.txt - m model_file
-    parser.add_argument('-v', default='../data/w2v/w2v-400.bin', type=str) # w2v-400.bin
+    parser.add_argument('-v', default='../data/w2v/w2v-50.bin', type=str) # w2v-400.bin
     parser.add_argument('-t', default='../data/dataset/trn', type=str) # train_data
     parser.add_argument('-d', default='../data/dataset/dev', type=str) # dev_data
     parser.add_argument('-l', default='../data/lex_config.txt', type=str) # lex_config.txt

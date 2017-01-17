@@ -68,7 +68,7 @@ def load_data_and_labels(dataset, rottenTomato=False):
     else:
         for line in open(pathtxt, "r").readlines():
             senti=line.split('\t')[1]
-            if  senti == 'objective':
+            if  senti == 'neutral':
                 y.append([0, 1, 0])
 
             elif senti == 'positive':
