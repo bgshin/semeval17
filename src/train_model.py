@@ -163,7 +163,6 @@ def run_train(model_name, w2v_path, trn_path, dev_path, model_path, lex_path_lis
                     l1_reg_lambda=l1_reg_lambda)
 
             elif model_name == 'W2V_LEX_CNN_CONCAT_A2V':
-                print x_train.shape[1]
                 cnn = W2V_LEX_CNN_CONCAT_A2V(
                     sequence_length=max_len,
                     num_classes=num_classes,
