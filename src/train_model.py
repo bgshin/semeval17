@@ -142,7 +142,7 @@ def run_train(model_name, w2v_path, trn_path, dev_path, model_path, lex_path_lis
 
             if model_name == 'w2v':
                 cnn = W2V_CNN(
-                    sequence_length=x_train.shape[1],
+                    sequence_length=max_len,
                     num_classes=num_classes,
                     embedding_size=w2vdim,
                     filter_sizes=list(map(int, FLAGS.filter_sizes.split(","))),
@@ -152,7 +152,7 @@ def run_train(model_name, w2v_path, trn_path, dev_path, model_path, lex_path_lis
 
             elif model_name == 'W2V_LEX_CNN':
                 cnn = W2V_LEX_CNN(
-                    sequence_length=x_train.shape[1],
+                    sequence_length=max_len,
                     num_classes=num_classes,
                     embedding_size=w2vdim,
                     embedding_size_lex=lexdim,
@@ -165,7 +165,7 @@ def run_train(model_name, w2v_path, trn_path, dev_path, model_path, lex_path_lis
             elif model_name == 'W2V_LEX_CNN_CONCAT_A2V':
                 print x_train.shape[1]
                 cnn = W2V_LEX_CNN_CONCAT_A2V(
-                    sequence_length=x_train.shape[1],
+                    sequence_length=max_len,
                     num_classes=num_classes,
                     embedding_size=w2vdim,
                     filter_sizes=list(map(int, FLAGS.filter_sizes.split(","))),
@@ -178,7 +178,7 @@ def run_train(model_name, w2v_path, trn_path, dev_path, model_path, lex_path_lis
 
             else:
                 cnn = W2V_LEX_CNN(
-                    sequence_length=x_train.shape[1],
+                    sequence_length=max_len,
                     num_classes=num_classes,
                     embedding_size=w2vdim,
                     embedding_size_lex=lexdim,
