@@ -144,6 +144,7 @@ def run_test(model_name, model_path, w2v_path, lex_path_list, input_path):
                     }
 
                 predictions = sess.run([cnn.predictions], feed_dict)
+                print 'len(predictions)', len(predictions)
                 return predictions[0]
 
             if model_name == 'w2v':
@@ -175,7 +176,7 @@ if __name__ == "__main__":
     parser.add_argument('-mp', default='../data/bestmodel/model-5600', type=str)
     parser.add_argument('-v', default='../data/w2v/w2v-400.bin', type=str)  # w2v-400.bin
     parser.add_argument('-l', default='../data/lex_config.txt', type=str)
-    parser.add_argument('-i', default='../data/dataset/tst', type=str)
+    parser.add_argument('-i', default='../data/dataset/dev', type=str)
     parser.add_argument('-m', default='W2V_LEX_CNN_CONCAT_A2V', type=str)  # model_file
     args = parser.parse_args()
     program = os.path.basename(sys.argv[0])
