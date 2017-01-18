@@ -387,7 +387,7 @@ def run_train(model_name, w2v_path, trn_path, dev_path, model_path, lex_path_lis
                         print best_model_path
                         print model_path
                         for fn in best_model_path_list:
-                            copyfile(fn, model_path)
+                            copyfile(fn, model_path+fn.split('/')[-1])
 
 
                     if rt_data == True:
