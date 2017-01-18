@@ -381,6 +381,8 @@ def run_train(model_name, w2v_path, trn_path, dev_path, model_path, lex_path_lis
                         path = saver.save(sess, checkpoint_prefix, global_step=current_step)
                         best_model_path = path
                         print("Saved model checkpoint to {}\n".format(path))
+                        print best_model_path
+                        print model_path
                         copyfile(best_model_path, model_path)
 
                     if rt_data == True:
