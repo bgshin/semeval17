@@ -174,7 +174,7 @@ if __name__ == "__main__":
     # python decode.py -m model_file -l lex_config.txt -i input_data
     parser.add_argument('-mp', default='../data/bestmodel/model-5600', type=str)
     parser.add_argument('-v', default='../data/w2v/w2v-400.bin', type=str)  # w2v-400.bin
-    parser.add_argument('-l', default='none', type=str)
+    parser.add_argument('-l', default='../data/lex_config.txt', type=str)
     parser.add_argument('-i', default='../data/dataset/tst', type=str)
     parser.add_argument('-m', default='W2V_LEX_CNN_CONCAT_A2V', type=str)  # model_file
     args = parser.parse_args()
