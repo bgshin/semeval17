@@ -187,9 +187,9 @@ if __name__ == "__main__":
     else:
         lex_list = get_lex_file_list(args.l)
 
-    if not os.path.isfile(args.mp):
-        print 'wrong model path name\n%s' % args.mp
-        exit()
+    # if not os.path.isfile(args.mp):
+    #     print 'wrong model path name\n%s' % args.mp
+    #     exit()
 
     if not os.path.isfile(args.v):
         print 'wrong file name for the w2v binary\n%s' % args.v
