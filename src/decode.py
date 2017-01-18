@@ -156,7 +156,7 @@ def run_test(model_name, model_path, w2v_path, lex_path_list, input_path):
             # print '%s\n'*len(x_sample) % tuple(labels[l] for l in predictions)
             with open('output.txt', 'wt') as out:
                 for idx in range(len(x_sample)):
-                    out.write( '%s\t%s' % (ids[idx], labels[predictions[idx]]) )
+                    out.write( '%s\t%s\n' % (ids[idx], labels[predictions[idx]]) )
 
 
 def get_lex_file_list(lexfile_path):
