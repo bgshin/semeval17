@@ -125,7 +125,7 @@ def run_test(model_name, model_path, w2v_path, lex_path_list, input_path):
                     l2_reg_lambda=l2_reg_lambda,
                     l1_reg_lambda=l1_reg_lambda)
 
-            saver = tf.train.Saver(tf.all_variables())
+            saver = tf.train.Saver(tf.global_variables())
             saver.restore(sess, model_path)
 
             def get_prediction(x_batch, x_batch_lex=None):
@@ -172,7 +172,7 @@ def get_lex_file_list(lexfile_path):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     # python decode.py -m model_file -l lex_config.txt -i input_data
-    parser.add_argument('-mp', default='../data/bestmodel/', type=str)
+    parser.add_argument('-mp', default='../data/bestmodel/model-5600', type=str)
     parser.add_argument('-v', default='../data/w2v/w2v-400.bin', type=str)  # w2v-400.bin
     parser.add_argument('-l', default='none', type=str)
     parser.add_argument('-i', default='../data/dataset/tst', type=str)
