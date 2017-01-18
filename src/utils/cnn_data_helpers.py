@@ -47,7 +47,7 @@ def load_data_and_labels(dataset, rottenTomato=False):
     pathtxt = dataset
 
     x_text=[line.split('\t')[2] for line in open(pathtxt, "r").readlines()]
-    x_text = [s.split(" ") for s in x_text]
+    x_text = [s.split(" ")[0:60] for s in x_text]
 
     y = []
     if rottenTomato:

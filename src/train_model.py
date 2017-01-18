@@ -76,7 +76,7 @@ def run_train(model_name, w2v_path, trn_path, dev_path, model_path, lex_path_lis
 
     best_model_path = None
 
-    max_len = 60
+    max_len = 1
 
     multichannel = False
     multichannel_a2v = False
