@@ -65,7 +65,7 @@ print("")
 # run_train(args.w2vnumfilters, args.lexnumfilters, args.randomseed,
 #           args.num_epochs, args.l2_reg_lambda, args.l1_reg_lambda,
 #           simple_run=False)
-def run_train(model_name, w2v_path, trn_path, dev_path, model_path, lex_path_list, w2vnumfilters, lexnumfilters, randomseed,
+def run_train(model_name, w2v_path, trn_path, dev_path, tst_path, model_path, lex_path_list, w2vnumfilters, lexnumfilters, randomseed,
               num_epochs, l2_reg_lambda, l1_reg_lambda, simple_run=True):
     if simple_run == True:
         print '======================================[simple_run]======================================'
@@ -114,6 +114,8 @@ def run_train(model_name, w2v_path, trn_path, dev_path, model_path, lex_path_lis
                                                                    rottenTomato=rt_data, multichannel=multichannel)
         x_dev, y_dev, x_lex_dev, _ = cnn_data_helpers.load_data(dev_path, w2vmodel, unigram_lexicon_model, max_len,
                                                              rottenTomato=rt_data, multichannel=multichannel)
+        x_tst, y_tst, x_lex_tst, _ = cnn_data_helpers.load_data(tst_path, w2vmodel, unigram_lexicon_model, max_len,
+                                                                rottenTomato=rt_data, multichannel=multichannel)
 
     del (w2vmodel)
     del (norm_model)
@@ -389,6 +391,11 @@ def run_train(model_name, w2v_path, trn_path, dev_path, model_path, lex_path_lis
                         for fn in best_model_path_list:
                             copyfile(fn, model_path+fn.split('/')[-1])
 
+                        best_f1_tst = dev_step(x_tst, y_tst, x_lex_tst, writer=tst_summary_writer,
+                                                score_type=score_type, multichannel=multichannel)
+                        print("Test:")
+                        print 'Test Score (%f) \n' % best_f1_tst
+
 
                     if rt_data == True:
                         print 'Status: [%d] Max Acc for dev (%f)\n' % (
@@ -396,6 +403,8 @@ def run_train(model_name, w2v_path, trn_path, dev_path, model_path, lex_path_lis
                     else:
                         print 'Status: [%d] Max f1 for dev (%f)\n' % (
                             index_at_max_af1_dev, max_af1_dev)
+
+
 
                     sys.stdout.flush()
 
@@ -424,6 +433,7 @@ if __name__ == "__main__":
     parser.add_argument('-v', default='../data/w2v/w2v-400.bin', type=str) # w2v-400.bin
     parser.add_argument('-t', default='../data/dataset/trn', type=str) # train_data
     parser.add_argument('-d', default='../data/dataset/dev', type=str) # dev_data
+    parser.add_argument('-s', default='../data/dataset/tst', type=str)  # dev_data
     parser.add_argument('-l', default='../data/lex_config.txt', type=str) # lex_config.txt
     parser.add_argument('-mp', default='../data/bestmodel/', type=str) # model_file
     parser.add_argument('-m', default='W2V_LEX_CNN_CONCAT_A2V', type=str)  # model_file
@@ -468,7 +478,7 @@ if __name__ == "__main__":
     for l in lex_list:
         print l
 
-    run_train(args.m, args.v, args.t, args.d, args.mp, lex_list, args.w2vnumfilters, args.lexnumfilters, args.randomseed,
+    run_train(args.m, args.v, args.t, args.d, args.s, args.mp, lex_list, args.w2vnumfilters, args.lexnumfilters, args.randomseed,
               args.num_epochs, args.l2_reg_lambda, args.l1_reg_lambda,
               simple_run=False)
 
