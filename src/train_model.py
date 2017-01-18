@@ -391,7 +391,7 @@ def run_train(model_name, w2v_path, trn_path, dev_path, tst_path, model_path, le
                         for fn in best_model_path_list:
                             copyfile(fn, model_path+fn.split('/')[-1])
 
-                        best_f1_tst = dev_step(x_tst, y_tst, x_lex_tst, writer=tst_summary_writer,
+                        best_f1_tst = dev_step(x_tst, y_tst, x_lex_tst, writer=test_summary_writer,
                                                 score_type=score_type, multichannel=multichannel)
                         print("Test:")
                         print 'Test Score (%f) \n' % best_f1_tst
