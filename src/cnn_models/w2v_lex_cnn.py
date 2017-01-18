@@ -337,8 +337,12 @@ class W2V_LEX_CNN_CONCAT_A2V(object):
             U_shape = [embedding_size_lex, attention_depth_lex]  # (15, 60)
             self.U_lex = tf.Variable(tf.truncated_normal(U_shape, stddev=0.1), name="U_lex")
 
-            self.embedded_chars_tr = tf.batch_matrix_transpose(self.embedded_chars)
-            self.embedded_chars_lexicon_tr = tf.batch_matrix_transpose(self.embedded_chars_lexicon)
+            self.embedded_chars_tr = tf.transpose(self.embedded_chars, perm=[0, 2, 1])
+            self.embedded_chars_lexicon_tr = tf.transpose(self.embedded_chars_lexicon, perm=[0, 2, 1])
+
+            # self.embedded_chars_tr = tf.batch_matrix_transpose(self.embedded_chars)
+            # self.embedded_chars_lexicon_tr = tf.batch_matrix_transpose(self.embedded_chars_lexicon)
+            print '[self.embedded_chars_tr]', self.embedded_chars_tr
             print '[self.embedded_chars_lexicon_tr]', self.embedded_chars_lexicon_tr
 
             def fn_matmul_w2v(previous_output, current_input):
