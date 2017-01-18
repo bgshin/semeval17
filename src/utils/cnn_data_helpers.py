@@ -315,10 +315,11 @@ def load_test_data(dataset, w2vmodel, lexiconModel, padlen=None, rottenTomato=Fa
         sentences_padded = pad_sentences(sentences, padlen)
     else:
         # sentences = load_test_data_and_labels(dataset)
-        sentences = load_data_and_labels(dataset)
+        sentences, labels = load_data_and_labels(dataset)
         sentences_padded = pad_sentences(sentences, padlen)
 
-    x, x_lex = build_test_input_data_with_w2v(sentences_padded, w2vmodel, lexiconModel)
+    x, y, x_lex = build_input_data_with_w2v(sentences_padded, labels, w2vmodel, lexiconModel)
+    # x, x_lex = build_test_input_data_with_w2v(sentences_padded, w2vmodel, lexiconModel)
 
 
     if multichannel==True:
