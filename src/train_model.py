@@ -418,7 +418,7 @@ if __name__ == "__main__":
     parser.add_argument('-t', default='../data/dataset/trn', type=str) # train_data
     parser.add_argument('-d', default='../data/dataset/dev', type=str) # dev_data
     parser.add_argument('-l', default='../data/lex_config.txt', type=str) # lex_config.txt
-    parser.add_argument('-mn', default='../data/mymodel', type=str) # model_file
+    parser.add_argument('-mn', default='./mymodel', type=str) # model_file
     parser.add_argument('-m', default='W2V_LEX_CNN_CONCAT_A2V', type=str)  # model_file
 
     parser.add_argument('-w2vnumfilters', default=64, type=int)
@@ -434,8 +434,9 @@ if __name__ == "__main__":
     print 'ADDITIONAL PARAMETER\n w2vnumfilters: %d\n lexnumfilters: %d\n ' \
           'randomseed: %d\n num_epochs: %d\n' \
           'l2_reg_lambda: %f\n l2_reg_lambda: %f\n' \
+          'w2v: %s\n' \
           % (args.w2vnumfilters, args.lexnumfilters, args.randomseed,
-             args.num_epochs, args.l2_reg_lambda, args.l1_reg_lambda)
+             args.num_epochs, args.l2_reg_lambda, args.l1_reg_lambda, args.v)
 
     if args.l == 'none':
         lex_list = []
