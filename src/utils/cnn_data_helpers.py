@@ -252,6 +252,8 @@ def build_test_input_data_with_w2v(sentences, w2vmodel, lexiconModel):
     def get_index_of_vocab_lex(lexiconModel, word):
         lexiconList = np.empty([0, 1])
         for index, eachModel in enumerate(lexiconModel):
+            print eachModel["<PAD/>"]
+            print word
             if word in eachModel:
                 temp = np.array(np.float32(eachModel[word]))
             else:
