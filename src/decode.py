@@ -25,7 +25,7 @@ import sys
 from utils import cnn_data_helpers
 from utils.butils import Timer
 from cnn_models.w2v_cnn import W2V_CNN
-from cnn_models.w2v_lex_cnn import W2V_LEX_CNN
+from cnn_models.w2v_lex_cnn import W2V_LEX_CNN, W2V_LEX_CNN_CONCAT_A2V
 import utils.word2vecReaderUtils as utils
 
 from utils.cnn_data_helpers import load_w2v_withpath
@@ -52,17 +52,13 @@ FLAGS._parse_flags()
 # print("")
 
 # run_test(args.m, args.v, args.l, args.i)
-def run_test(model_path, w2v_path, lex_path_list, input_path):
+def run_test(model_name, model_path, w2v_path, lex_path_list, input_path):
     max_len = 60
     w2vnumfilters = 64
     lexnumfilters = 9
     l2_reg_lambda = 2.0
     l1_reg_lambda = 0.0
 
-    if len(lex_path_list) == 0:
-        model_name = 'w2v'
-    else:
-        model_name = 'w2vlex'
 
     w2vdim = 0
     lexdim = 0
@@ -104,6 +100,19 @@ def run_test(model_path, w2v_path, lex_path_list, input_path):
                     l2_reg_lambda=l2_reg_lambda,
                     l1_reg_lambda=l1_reg_lambda)
 
+            elif model_name == 'W2V_LEX_CNN_CONCAT_A2V':
+                cnn = W2V_LEX_CNN_CONCAT_A2V(
+                    sequence_length=max_len,
+                    num_classes=3,
+                    embedding_size=w2vdim,
+                    filter_sizes=list(map(int, FLAGS.filter_sizes.split(","))),
+                    num_filters=w2vnumfilters,
+                    embedding_size_lex=lexdim,
+                    attention_depth_w2v=50,
+                    attention_depth_lex=20,
+                    l2_reg_lambda=l2_reg_lambda,
+                    l1_reg_lambda=l1_reg_lambda)
+
             else: # w2vlexatt
                 cnn = W2V_LEX_CNN(
                     sequence_length=x_sample.shape[1],
@@ -116,9 +125,8 @@ def run_test(model_path, w2v_path, lex_path_list, input_path):
                     l2_reg_lambda=l2_reg_lambda,
                     l1_reg_lambda=l1_reg_lambda)
 
-
             saver = tf.train.Saver(tf.all_variables())
-            saver.restore(sess,model_path)
+            saver.restore(sess, model_path)
 
             def get_prediction(x_batch, x_batch_lex=None):
                 if x_batch_lex is None:
@@ -164,10 +172,11 @@ def get_lex_file_list(lexfile_path):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     # python decode.py -m model_file -l lex_config.txt -i input_data
-    parser.add_argument('-m', default='./model_test', type=str)
-    parser.add_argument('-v', default='../data/emory_w2v/w2v-50.bin', type=str)  # w2v-400.bin
+    parser.add_argument('-mp', default='../data/bestmodel/', type=str)
+    parser.add_argument('-v', default='../data/emory_w2v/w2v-400.bin', type=str)  # w2v-400.bin
     parser.add_argument('-l', default='none', type=str)
     parser.add_argument('-i', default='./input', type=str)
+    parser.add_argument('-m', default='W2V_LEX_CNN_CONCAT_A2V', type=str)  # model_file
     args = parser.parse_args()
     program = os.path.basename(sys.argv[0])
 
@@ -178,8 +187,8 @@ if __name__ == "__main__":
     else:
         lex_list = get_lex_file_list(args.l)
 
-    if not os.path.isfile(args.m):
-        print 'wrong model file name\n%s' % args.m
+    if not os.path.isfile(args.mp):
+        print 'wrong model path name\n%s' % args.mp
         exit()
 
     if not os.path.isfile(args.v):
@@ -196,6 +205,6 @@ if __name__ == "__main__":
     for l in lex_list:
         print l
 
-    run_test(args.m, args.v, lex_list, args.i)
+    run_test(args.m, args.mp, args.v, lex_list, args.i)
 
     # python decode.py -m ./mymodel2 -v ../data/emory_w2v/w2v-50.bin  -l lex_config2.txt -i ../data/tweets/sample

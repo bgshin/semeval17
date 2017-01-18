@@ -421,11 +421,11 @@ def get_lex_file_list(lexfile_path):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     # python train_model.py - v w2v-400.bin - t train_data - d dev_data - l lex_config.txt - m model_file
-    parser.add_argument('-v', default='../data/w2v/w2v-50.bin', type=str) # w2v-400.bin
+    parser.add_argument('-v', default='../data/w2v/w2v-400.bin', type=str) # w2v-400.bin
     parser.add_argument('-t', default='../data/dataset/trn', type=str) # train_data
     parser.add_argument('-d', default='../data/dataset/dev', type=str) # dev_data
     parser.add_argument('-l', default='../data/lex_config.txt', type=str) # lex_config.txt
-    parser.add_argument('-mn', default='../data/bestmodel/', type=str) # model_file
+    parser.add_argument('-mp', default='../data/bestmodel/', type=str) # model_file
     parser.add_argument('-m', default='W2V_LEX_CNN_CONCAT_A2V', type=str)  # model_file
 
     parser.add_argument('-w2vnumfilters', default=64, type=int)
@@ -468,7 +468,7 @@ if __name__ == "__main__":
     for l in lex_list:
         print l
 
-    run_train(args.m, args.v, args.t, args.d, args.mn, lex_list, args.w2vnumfilters, args.lexnumfilters, args.randomseed,
+    run_train(args.m, args.v, args.t, args.d, args.mp, lex_list, args.w2vnumfilters, args.lexnumfilters, args.randomseed,
               args.num_epochs, args.l2_reg_lambda, args.l1_reg_lambda,
               simple_run=False)
 
