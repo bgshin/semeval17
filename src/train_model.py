@@ -201,7 +201,7 @@ def run_train(model_name, w2v_path, trn_path, dev_path, model_path, lex_path_lis
                     sparsity_summary = tf.summary.scalar("{}/grad/sparsity".format(v.name), tf.nn.zero_fraction(g))
                     grad_summaries.append(grad_hist_summary)
                     grad_summaries.append(sparsity_summary)
-            grad_summaries_merged = tf.merge_summary(grad_summaries)
+            grad_summaries_merged = tf.summary.merge(grad_summaries)
 
             # Output directory for models and summaries
             timestamp = str(int(time.time()))
@@ -216,24 +216,24 @@ def run_train(model_name, w2v_path, trn_path, dev_path, model_path, lex_path_lis
             # Train Summaries
             train_summary_op = tf.summary.merge([loss_summary, acc_summary, f1_summary, grad_summaries_merged])
             train_summary_dir = os.path.join(out_dir, "summaries", "train")
-            train_summary_writer = tf.summary.FileWriter(train_summary_dir, sess.graph_def)
+            train_summary_writer = tf.summary.FileWriter(train_summary_dir, sess.graph)
 
             # Dev summaries
             dev_summary_op = tf.summary.merge([loss_summary, acc_summary, f1_summary])
             dev_summary_dir = os.path.join(out_dir, "summaries", "dev")
-            dev_summary_writer = tf.summary.FileWriter(dev_summary_dir, sess.graph_def)
+            dev_summary_writer = tf.summary.FileWriter(dev_summary_dir, sess.graph)
 
             # Test summaries
             test_summary_op = tf.summary.merge([loss_summary, acc_summary, f1_summary])
             test_summary_dir = os.path.join(out_dir, "summaries", "test")
-            test_summary_writer = tf.summary.FileWriter(test_summary_dir, sess.graph_def)
+            test_summary_writer = tf.summary.FileWriter(test_summary_dir, sess.graph)
 
             # Checkpoint directory. Tensorflow assumes this directory already exists so we need to create it
             checkpoint_dir = os.path.abspath(os.path.join(out_dir, "checkpoints"))
             checkpoint_prefix = os.path.join(checkpoint_dir, "model")
             if not os.path.exists(checkpoint_dir):
                 os.makedirs(checkpoint_dir)
-            saver = tf.train.Saver(tf.all_variables())
+            saver = tf.train.Saver(tf.global_variables())
 
             # Initialize all variables
             sess.run(tf.global_variables_initializer())
@@ -295,7 +295,6 @@ def run_train(model_name, w2v_path, trn_path, dev_path, model_path, lex_path_lis
                             cnn.input_y: y_batch,
                             cnn.dropout_keep_prob: 1.0
                         }
-                        print 111
                     else:
                         feed_dict = {
                             cnn.input_x_2c: x_batch_fat,
@@ -304,7 +303,6 @@ def run_train(model_name, w2v_path, trn_path, dev_path, model_path, lex_path_lis
                             cnn.input_x_lexicon: x_batch_lex,
                             cnn.dropout_keep_prob: 1.0
                         }
-                        print 222
 
                 else:
                     if x_batch_lex is None:
@@ -313,16 +311,14 @@ def run_train(model_name, w2v_path, trn_path, dev_path, model_path, lex_path_lis
                             cnn.input_y: y_batch,
                             cnn.dropout_keep_prob: 1.0
                         }
-                        print 333
                     else:
                         feed_dict = {
-                            cnn.input_x: x_batch,
-                            cnn.input_y: y_batch,
+                            cnn.input_x: np.array(x_batch),
+                            cnn.input_y: np.array(y_batch),
                             # lexicon
-                            cnn.input_x_lexicon: x_batch_lex,
+                            cnn.input_x_lexicon: np.array(x_batch_lex),
                             cnn.dropout_keep_prob: 1.0
                         }
-                        print 444
 
                 step, summaries, loss, accuracy, neg_r, neg_p, f1_neg, f1_pos, avg_f1 = sess.run(
                     [global_step, dev_summary_op, cnn.loss, cnn.accuracy,
