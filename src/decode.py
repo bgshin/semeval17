@@ -78,7 +78,7 @@ def run_test(model_name, model_path, w2v_path, lex_path_list, input_path):
 
     unigram_lexicon_model = norm_model
 
-    x_sample, x_lex_sample, _ = cnn_data_helpers.load_test_data(input_path, w2vmodel, unigram_lexicon_model, max_len)
+    x_sample, x_lex_sample, ids = cnn_data_helpers.load_test_data(input_path, w2vmodel, unigram_lexicon_model, max_len)
 
     del(w2vmodel)
     gc.collect()
@@ -153,7 +153,11 @@ def run_test(model_name, model_path, w2v_path, lex_path_list, input_path):
                 predictions = get_prediction(x_sample, x_lex_sample)
 
             labels={0:'negative', 1:'objective', 2:'positive'}
-            print '%s\n'*len(x_sample) % tuple(labels[l] for l in predictions)
+            # print '%s\n'*len(x_sample) % tuple(labels[l] for l in predictions)
+            with open('output.txt', 'wt') as out:
+                for idx in range(len(x_sample)):
+                    out.write('%s\t%s' % (ids[idx], labels[predictions[idx])])
+
 
 def get_lex_file_list(lexfile_path):
     lex_file_list = []

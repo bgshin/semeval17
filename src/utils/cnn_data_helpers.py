@@ -32,11 +32,18 @@ def load_test_data_and_labels(dataset, rottenTomato=False):
     Returns split sentences and labels.
     """
     pathtxt = dataset
+    x_text = []
+    labels = []
+    ids = []
+    for line in open(pathtxt, "r").readlines():
+        splited_line = line.split('\t')
+        x_text.append(splited_line[2])
+        labels.append(splited_line[1])
+        ids.append(splited_line[0])
 
-    x_text=[line.split('\t')[0] for line in open(pathtxt, "r").readlines()]
-    x_text = [s.split(" ") for s in x_text]
+    x_text = [s.split(" ")[0:60] for s in x_text]
 
-    return x_text
+    return x_text, labels, ids
 
 
 def load_data_and_labels(dataset, rottenTomato=False):
@@ -314,8 +321,8 @@ def load_test_data(dataset, w2vmodel, lexiconModel, padlen=None, rottenTomato=Fa
         sentences, labels = load_data_and_labels(dataset, True)
         sentences_padded = pad_sentences(sentences, padlen)
     else:
-        # sentences = load_test_data_and_labels(dataset)
-        sentences, labels = load_data_and_labels(dataset)
+        sentences, labels, ids = load_test_data_and_labels(dataset)
+        # sentences, labels = load_data_and_labels(dataset)
         sentences_padded = pad_sentences(sentences, padlen)
 
     x, y, x_lex = build_input_data_with_w2v(sentences_padded, labels, w2vmodel, lexiconModel)
@@ -335,7 +342,7 @@ def load_test_data(dataset, w2vmodel, lexiconModel, padlen=None, rottenTomato=Fa
         x_fat = np.array(new_x_batch)
         return [x, x_lex, x_fat]
 
-    return [x, x_lex, None]
+    return [x, x_lex, ids]
 
 def batch_iter(data, batch_size, num_epochs, shuffle=True):
     """
