@@ -379,11 +379,12 @@ def run_train(model_name, w2v_path, trn_path, dev_path, model_path, lex_path_lis
                         index_at_max_af1_dev = current_step
 
                         path = saver.save(sess, checkpoint_prefix, global_step=current_step)
-                        best_model_path = path
+                        best_model_path = path+'.*'
                         print("Saved model checkpoint to {}\n".format(path))
                         print best_model_path
                         print model_path
                         copyfile(best_model_path, model_path)
+                        
 
                     if rt_data == True:
                         print 'Status: [%d] Max Acc for dev (%f)\n' % (
@@ -420,7 +421,7 @@ if __name__ == "__main__":
     parser.add_argument('-t', default='../data/dataset/trn', type=str) # train_data
     parser.add_argument('-d', default='../data/dataset/dev', type=str) # dev_data
     parser.add_argument('-l', default='../data/lex_config.txt', type=str) # lex_config.txt
-    parser.add_argument('-mn', default='./mymodel', type=str) # model_file
+    parser.add_argument('-mn', default='../bestmodel/', type=str) # model_file
     parser.add_argument('-m', default='W2V_LEX_CNN_CONCAT_A2V', type=str)  # model_file
 
     parser.add_argument('-w2vnumfilters', default=64, type=int)
