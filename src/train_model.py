@@ -362,7 +362,7 @@ def run_train(model_name, w2v_path, trn_path, dev_path, tst_path, model_path, le
                 else:
                     x_batch, y_batch, x_batch_lex = zip(*batch)
 
-                if model_name == 'w2v' or model_name == 'w2vrt':
+                if model_name == 'W2V' or model_name == 'W2VATT':
                     train_step(x_batch, y_batch)
 
                 else:
@@ -382,7 +382,7 @@ def run_train(model_name, w2v_path, trn_path, dev_path, tst_path, model_path, le
                     else:
                         score_type = 'f1'
 
-                    if model_name == 'w2v' or model_name == 'w2vrt':
+                    if model_name == 'W2V' or model_name == 'W2VATT':
                         curr_af1_dev = dev_step(x_dev, y_dev, writer=dev_summary_writer, score_type=score_type)
 
                     else:
@@ -403,8 +403,13 @@ def run_train(model_name, w2v_path, trn_path, dev_path, tst_path, model_path, le
                         for fn in best_model_path_list:
                             copyfile(fn, model_path+fn.split('/')[-1].split('.')[-1])
 
-                        best_f1_tst = dev_step(x_tst, y_tst, x_lex_tst, writer=test_summary_writer,
+                        if model_name == 'W2V' or model_name == 'W2VATT':
+                            best_f1_tst = dev_step(x_tst, y_tst, writer=test_summary_writer,
                                                 score_type=score_type, multichannel=multichannel)
+                        else:
+                            best_f1_tst = dev_step(x_tst, y_tst, x_lex_tst, writer=test_summary_writer,
+                                                   score_type=score_type, multichannel=multichannel)
+
                         print("Test:")
                         print 'Test Score (%f) \n' % best_f1_tst
 
@@ -444,7 +449,7 @@ if __name__ == "__main__":
     parser.add_argument('-s', default='../data/dataset/tst', type=str)  # dev_data
     parser.add_argument('-l', default='../data/lex_config.txt', type=str) # lex_config.txt
     parser.add_argument('-mp', default='../data/bestmodel/', type=str) # model_file
-    parser.add_argument('-m', default='W2VLEXATT', choices=['W2V', 'W2VLEX', 'W2VATT', 'W2VLEXATT'], type=str)  # model_file
+    parser.add_argument('-m', default='W2VLEXATT', choices=['W2V', 'W2VATT', 'W2VLEX', 'W2VLEXATT'], type=str)  # model_file
     parser.add_argument('-c', default='0', type=str)  # model_file
 
     parser.add_argument('-w2vnumfilters', default=64, type=int)
