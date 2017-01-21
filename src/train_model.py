@@ -494,8 +494,6 @@ if __name__ == "__main__":
             args.m, args.v.split('/')[-1].replace('.bin', ''))
 
     print model_file_name
-    exit()
-
     with Timer("train..."):
         run_train(args.m, args.v, args.t, args.d, args.s, args.mp, lex_list, args.w2vnumfilters, args.lexnumfilters, args.randomseed,
                   args.num_epochs, args.l2_reg_lambda, args.l1_reg_lambda,
