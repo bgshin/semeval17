@@ -457,11 +457,11 @@ if __name__ == "__main__":
     args = parser.parse_args()
     program = os.path.basename(sys.argv[0])
 
-    print 'ADDITIONAL PARAMETER\n w2vnumfilters: %d\n lexnumfilters: %d\n ' \
+    print 'ADDITIONAL PARAMETER\n modelname: %s\n w2vnumfilters: %d\n lexnumfilters: %d\n ' \
           'randomseed: %d\n num_epochs: %d\n' \
           'l2_reg_lambda: %f\n l2_reg_lambda: %f\n' \
           'w2v: %s\n' \
-          % (args.w2vnumfilters, args.lexnumfilters, args.randomseed,
+          % (args.m, args.w2vnumfilters, args.lexnumfilters, args.randomseed,
              args.num_epochs, args.l2_reg_lambda, args.l1_reg_lambda, args.v)
 
     if args.l == 'none':
