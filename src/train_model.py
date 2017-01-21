@@ -25,7 +25,7 @@ from utils import cnn_data_helpers
 from utils.cnn_data_helpers import load_lexicon_unigram, load_w2v, load_w2v_withpath
 from utils.butils import Timer
 from cnn_models.w2v_lex_cnn import W2V_LEX_CNN, W2V_LEX_CNN_CONCAT_A2V
-from cnn_models.w2v_cnn import W2V_CNN
+from cnn_models.w2v_cnn import W2V_CNN, W2V_CNN_A2V
 import os.path
 import utils.word2vecReaderUtils as utils
 
@@ -82,6 +82,7 @@ def run_train(model_name, w2v_path, trn_path, dev_path, tst_path, model_path, le
     multichannel = False
     multichannel_a2v = False
     rt_data = False
+    best_f1_tst= 0
 
     with utils.smart_open(w2v_path) as fin:
         header = utils.to_unicode(fin.readline())
@@ -143,7 +144,7 @@ def run_train(model_name, w2v_path, trn_path, dev_path, tst_path, model_path, le
 
             num_classes = 3
 
-            if model_name == 'w2v':
+            if model_name == 'W2V':
                 cnn = W2V_CNN(
                     sequence_length=max_len,
                     num_classes=num_classes,
@@ -153,7 +154,7 @@ def run_train(model_name, w2v_path, trn_path, dev_path, tst_path, model_path, le
                     l2_reg_lambda=l2_reg_lambda,
                     l1_reg_lambda=l1_reg_lambda)
 
-            elif model_name == 'W2V_LEX_CNN':
+            elif model_name == 'W2VLEX':
                 cnn = W2V_LEX_CNN(
                     sequence_length=max_len,
                     num_classes=num_classes,
@@ -165,7 +166,18 @@ def run_train(model_name, w2v_path, trn_path, dev_path, tst_path, model_path, le
                     l2_reg_lambda=l2_reg_lambda,
                     l1_reg_lambda=l1_reg_lambda)
 
-            elif model_name == 'W2V_LEX_CNN_CONCAT_A2V':
+            elif model_name == 'W2VATT':
+                cnn = W2V_CNN_A2V(
+                    sequence_length=max_len,
+                    num_classes=num_classes,
+                    embedding_size=w2vdim,
+                    filter_sizes=list(map(int, FLAGS.filter_sizes.split(","))),
+                    num_filters=w2vnumfilters,
+                    attention_depth_w2v=50,
+                    l2_reg_lambda=l2_reg_lambda,
+                    l1_reg_lambda=l1_reg_lambda)
+
+            elif model_name == 'W2VLEXATT':
                 cnn = W2V_LEX_CNN_CONCAT_A2V(
                     sequence_length=max_len,
                     num_classes=num_classes,
@@ -389,7 +401,7 @@ def run_train(model_name, w2v_path, trn_path, dev_path, tst_path, model_path, le
                         print best_model_path
                         print model_path
                         for fn in best_model_path_list:
-                            copyfile(fn, model_path+fn.split('/')[-1])
+                            copyfile(fn, model_path+fn.split('/')[-1].split('.')[-1])
 
                         best_f1_tst = dev_step(x_tst, y_tst, x_lex_tst, writer=test_summary_writer,
                                                 score_type=score_type, multichannel=multichannel)
@@ -401,14 +413,10 @@ def run_train(model_name, w2v_path, trn_path, dev_path, tst_path, model_path, le
                         print 'Status: [%d] Max Acc for dev (%f)\n' % (
                             index_at_max_af1_dev, max_af1_dev*100)
                     else:
-                        print 'Status: [%d] Max f1 for dev (%f)\n' % (
-                            index_at_max_af1_dev, max_af1_dev)
-
-
+                        print 'Status: [%d] Max tst (%f), dev (%f)\n' % (
+                            index_at_max_af1_dev, best_f1_tst, max_af1_dev)
 
                     sys.stdout.flush()
-
-
 
 
 
@@ -436,7 +444,7 @@ if __name__ == "__main__":
     parser.add_argument('-s', default='../data/dataset/tst', type=str)  # dev_data
     parser.add_argument('-l', default='../data/lex_config.txt', type=str) # lex_config.txt
     parser.add_argument('-mp', default='../data/bestmodel/', type=str) # model_file
-    parser.add_argument('-m', default='W2V_LEX_CNN_CONCAT_A2V', type=str)  # model_file
+    parser.add_argument('-m', default='W2VLEXATT', choices=['W2V', 'W2VLEX', 'W2VATT', 'W2VLEXATT'], type=str)  # model_file
     parser.add_argument('-c', default='0', type=str)  # model_file
 
     parser.add_argument('-w2vnumfilters', default=64, type=int)
@@ -480,6 +488,13 @@ if __name__ == "__main__":
         print l
 
     os.environ["CUDA_VISIBLE_DEVICES"] = args.c
+
+
+    model_file_name = args.mp+'%s.%s.model' % (
+            args.m, args.v.split('/')[-1].replace('.bin', ''))
+
+    print model_file_name
+    exit()
 
     with Timer("train..."):
         run_train(args.m, args.v, args.t, args.d, args.s, args.mp, lex_list, args.w2vnumfilters, args.lexnumfilters, args.randomseed,
