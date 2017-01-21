@@ -437,6 +437,7 @@ if __name__ == "__main__":
     parser.add_argument('-l', default='../data/lex_config.txt', type=str) # lex_config.txt
     parser.add_argument('-mp', default='../data/bestmodel/', type=str) # model_file
     parser.add_argument('-m', default='W2V_LEX_CNN_CONCAT_A2V', type=str)  # model_file
+    parser.add_argument('-c', default='0', type=str)  # model_file
 
     parser.add_argument('-w2vnumfilters', default=64, type=int)
     parser.add_argument('-lexnumfilters', default=9, type=int)
@@ -477,6 +478,8 @@ if __name__ == "__main__":
 
     for l in lex_list:
         print l
+
+    os.environ["CUDA_VISIBLE_DEVICES"] = args.c
 
     with Timer("train..."):
         run_train(args.m, args.v, args.t, args.d, args.s, args.mp, lex_list, args.w2vnumfilters, args.lexnumfilters, args.randomseed,
