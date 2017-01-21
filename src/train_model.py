@@ -451,6 +451,7 @@ if __name__ == "__main__":
     parser.add_argument('-mp', default='../data/bestmodel/', type=str) # model_file
     parser.add_argument('-m', default='W2VLEXATT', choices=['W2V', 'W2VATT', 'W2VLEX', 'W2VLEXATT'], type=str)  # model_file
     parser.add_argument('-c', default='0', type=str)  # model_file
+    parser.add_argument('-a', default='0', type=int)  # model_file
 
     parser.add_argument('-w2vnumfilters', default=64, type=int)
     parser.add_argument('-lexnumfilters', default=9, type=int)
@@ -495,12 +496,12 @@ if __name__ == "__main__":
     os.environ["CUDA_VISIBLE_DEVICES"] = args.c
 
 
-    model_file_name = args.mp+'%s.%s.model' % (
-            args.m, args.v.split('/')[-1].replace('.bin', ''))
+    model_file_name = args.mp+'%s.%s.%d.model' % (
+            args.m, args.v.split('/')[-1].replace('.bin', ''), args.a)
 
     print model_file_name
     with Timer("train..."):
-        run_train(args.m, args.v, args.t, args.d, args.s, args.mp, lex_list, args.w2vnumfilters, args.lexnumfilters, args.randomseed,
+        run_train(args.m, args.v, args.t, args.d, args.s, model_file_name, lex_list, args.w2vnumfilters, args.lexnumfilters, args.randomseed,
                   args.num_epochs, args.l2_reg_lambda, args.l1_reg_lambda,
                   simple_run=False)
 
