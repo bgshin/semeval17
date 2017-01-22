@@ -52,7 +52,7 @@ FLAGS._parse_flags()
 # print("")
 
 # run_test(args.m, args.v, args.l, args.i)
-def run_test(model_name, model_path, w2v_path, lex_path_list, input_path):
+def run_test(model_name, model_path, w2v_path, lex_path_list, input_path, output_fn):
     max_len = 60
     w2vnumfilters = 64
     lexnumfilters = 9
@@ -154,7 +154,7 @@ def run_test(model_name, model_path, w2v_path, lex_path_list, input_path):
 
             labels={0:'negative', 1:'neutral', 2:'positive'}
             # print '%s\n'*len(x_sample) % tuple(labels[l] for l in predictions)
-            with open('output.txt', 'wt') as out:
+            with open(output_fn, 'wt') as out:
                 for idx in range(len(x_sample)):
                     out.write( '%s\t%s\n' % (ids[idx], labels[predictions[idx]]) )
 
@@ -177,11 +177,15 @@ def get_lex_file_list(lexfile_path):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     # python decode.py -m model_file -l lex_config.txt -i input_data
-    parser.add_argument('-mp', default='../data/bestmodel/model-5600', type=str)
+    parser.add_argument('-mp', default='../data/bestmodel', type=str)
     parser.add_argument('-v', default='../data/w2v/w2v-400.bin', type=str)  # w2v-400.bin
     parser.add_argument('-l', default='../data/lex_config.txt', type=str)
     parser.add_argument('-i', default='../data/dataset/tst', type=str)
-    parser.add_argument('-m', default='W2V_LEX_CNN_CONCAT_A2V', type=str)  # model_file
+    parser.add_argument('-m', default='W2VLEXATT', choices=['W2V', 'W2VATT', 'W2VLEX', 'W2VLEXATT'],
+                        type=str)  # model_file
+    parser.add_argument('-c', default='0', type=str)  # model_file
+    parser.add_argument('-a', default='0', type=int)  # model_file
+
     args = parser.parse_args()
     program = os.path.basename(sys.argv[0])
 
@@ -210,6 +214,13 @@ if __name__ == "__main__":
     for l in lex_list:
         print l
 
-    run_test(args.m, args.mp, args.v, lex_list, args.i)
+    os.environ["CUDA_VISIBLE_DEVICES"] = args.c
+
+    model_file_name = args.mp + '%s.%s.%d.model' % (
+        args.m, args.v.split('/')[-1].replace('.bin', ''), args.a)
+
+    output_fn = '../data/output/%s.%s.%d.txt'
+
+    run_test(args.m, model_file_name, args.v, lex_list, args.i, output_fn)
 
     # python decode.py -m ./mymodel2 -v ../data/emory_w2v/w2v-50.bin  -l lex_config2.txt -i ../data/tweets/sample

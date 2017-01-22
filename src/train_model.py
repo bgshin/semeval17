@@ -496,7 +496,7 @@ if __name__ == "__main__":
     os.environ["CUDA_VISIBLE_DEVICES"] = args.c
 
 
-    model_file_name = args.mp+'%s.%s.%d.model' % (
+    model_file_name = args.mp+'%s.%s.%d.model.' % (
             args.m, args.v.split('/')[-1].replace('.bin', ''), args.a)
 
     print model_file_name
