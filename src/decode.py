@@ -246,7 +246,6 @@ if __name__ == "__main__":
         args.m, args.v.split('/')[-1].replace('.bin', ''), args.a)
 
     print model_file_name
-    exit()
 
     with Timer("decode..."):
         run_test(args.m, model_file_name, args.v, lex_list, args.i, output_fn)
