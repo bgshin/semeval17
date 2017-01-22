@@ -90,9 +90,9 @@ def run_test(model_name, model_path, w2v_path, lex_path_list, input_path, output
           log_device_placement=FLAGS.log_device_placement)
         sess = tf.Session(config=session_conf)
         with sess.as_default():
-            if model_name == 'w2v':
+            if model_name == 'W2V':
                 cnn = W2V_CNN(
-                    sequence_length=x_sample.shape[1],
+                    sequence_length=max_len,
                     num_classes=3,
                     embedding_size=w2vdim,
                     filter_sizes=list(map(int, FLAGS.filter_sizes.split(","))),
@@ -100,7 +100,30 @@ def run_test(model_name, model_path, w2v_path, lex_path_list, input_path, output
                     l2_reg_lambda=l2_reg_lambda,
                     l1_reg_lambda=l1_reg_lambda)
 
-            elif model_name == 'W2V_LEX_CNN_CONCAT_A2V':
+            elif model_name == 'W2VLEX':
+                cnn = W2V_LEX_CNN(
+                    sequence_length=max_len,
+                    num_classes=3,
+                    embedding_size=w2vdim,
+                    embedding_size_lex=lexdim,
+                    num_filters_lex=lexnumfilters,
+                    filter_sizes=list(map(int, FLAGS.filter_sizes.split(","))),
+                    num_filters=w2vnumfilters,
+                    l2_reg_lambda=l2_reg_lambda,
+                    l1_reg_lambda=l1_reg_lambda)
+
+            elif model_name == 'W2VATT':
+                cnn = W2V_CNN_A2V(
+                    sequence_length=max_len,
+                    num_classes=3,
+                    embedding_size=w2vdim,
+                    filter_sizes=list(map(int, FLAGS.filter_sizes.split(","))),
+                    num_filters=w2vnumfilters,
+                    attention_depth_w2v=50,
+                    l2_reg_lambda=l2_reg_lambda,
+                    l1_reg_lambda=l1_reg_lambda)
+
+            elif model_name == 'W2VLEXATT':
                 cnn = W2V_LEX_CNN_CONCAT_A2V(
                     sequence_length=max_len,
                     num_classes=3,
@@ -113,9 +136,9 @@ def run_test(model_name, model_path, w2v_path, lex_path_list, input_path, output
                     l2_reg_lambda=l2_reg_lambda,
                     l1_reg_lambda=l1_reg_lambda)
 
-            else: # w2vlexatt
+            else:
                 cnn = W2V_LEX_CNN(
-                    sequence_length=x_sample.shape[1],
+                    sequence_length=max_len,
                     num_classes=3,
                     embedding_size=w2vdim,
                     embedding_size_lex=lexdim,
@@ -147,7 +170,7 @@ def run_test(model_name, model_path, w2v_path, lex_path_list, input_path, output
                 print 'len(predictions)', len(predictions)
                 return predictions[0]
 
-            if model_name == 'w2v':
+            if model_name == 'W2V' or model_name == 'W2VATT':
                 predictions = get_prediction(x_sample)
             else:
                 predictions = get_prediction(x_sample, x_lex_sample)
@@ -181,7 +204,7 @@ if __name__ == "__main__":
     parser.add_argument('-v', default='../data/w2v/w2v-400.bin', type=str)  # w2v-400.bin
     parser.add_argument('-l', default='../data/lex_config.txt', type=str)
     parser.add_argument('-i', default='../data/dataset/tst', type=str)
-    parser.add_argument('-m', default='W2VLEXATT', choices=['W2V', 'W2VATT', 'W2VLEX', 'W2VLEXATT'],
+    parser.add_argument('-m', default='W2V', choices=['W2V', 'W2VATT', 'W2VLEX', 'W2VLEXATT'],
                         type=str)  # model_file
     parser.add_argument('-c', default='0', type=str)  # cuda
     parser.add_argument('-a', default='0', type=int)  # attempt
@@ -221,6 +244,9 @@ if __name__ == "__main__":
 
     output_fn = '../data/output/%s.%s.%d.txt' % (
         args.m, args.v.split('/')[-1].replace('.bin', ''), args.a)
+
+    print model_file_name
+    exit()
 
     with Timer("decode..."):
         run_test(args.m, model_file_name, args.v, lex_list, args.i, output_fn)
