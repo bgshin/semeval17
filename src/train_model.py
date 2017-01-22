@@ -450,8 +450,8 @@ if __name__ == "__main__":
     parser.add_argument('-l', default='../data/lex_config.txt', type=str) # lex_config.txt
     parser.add_argument('-mp', default='../data/bestmodel/', type=str) # model_file
     parser.add_argument('-m', default='W2VLEXATT', choices=['W2V', 'W2VATT', 'W2VLEX', 'W2VLEXATT'], type=str)  # model_file
-    parser.add_argument('-c', default='0', type=str)  # model_file
-    parser.add_argument('-a', default='0', type=int)  # model_file
+    parser.add_argument('-c', default='0', type=str)  # cuda
+    parser.add_argument('-a', default='0', type=int)  # attempt
 
     parser.add_argument('-w2vnumfilters', default=64, type=int)
     parser.add_argument('-lexnumfilters', default=9, type=int)

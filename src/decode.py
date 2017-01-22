@@ -183,8 +183,8 @@ if __name__ == "__main__":
     parser.add_argument('-i', default='../data/dataset/tst', type=str)
     parser.add_argument('-m', default='W2VLEXATT', choices=['W2V', 'W2VATT', 'W2VLEX', 'W2VLEXATT'],
                         type=str)  # model_file
-    parser.add_argument('-c', default='0', type=str)  # model_file
-    parser.add_argument('-a', default='0', type=int)  # model_file
+    parser.add_argument('-c', default='0', type=str)  # cuda
+    parser.add_argument('-a', default='0', type=int)  # attempt
 
     args = parser.parse_args()
     program = os.path.basename(sys.argv[0])
@@ -221,6 +221,7 @@ if __name__ == "__main__":
 
     output_fn = '../data/output/%s.%s.%d.txt'
 
-    run_test(args.m, model_file_name, args.v, lex_list, args.i, output_fn)
+    with Timer("decode..."):
+        run_test(args.m, model_file_name, args.v, lex_list, args.i, output_fn)
 
     # python decode.py -m ./mymodel2 -v ../data/emory_w2v/w2v-50.bin  -l lex_config2.txt -i ../data/tweets/sample
