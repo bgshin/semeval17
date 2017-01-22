@@ -24,7 +24,7 @@ import argparse
 import sys
 from utils import cnn_data_helpers
 from utils.butils import Timer
-from cnn_models.w2v_cnn import W2V_CNN
+from cnn_models.w2v_cnn import W2V_CNN, W2V_CNN_A2V
 from cnn_models.w2v_lex_cnn import W2V_LEX_CNN, W2V_LEX_CNN_CONCAT_A2V
 import utils.word2vecReaderUtils as utils
 
