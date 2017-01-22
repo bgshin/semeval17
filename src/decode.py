@@ -177,7 +177,7 @@ def get_lex_file_list(lexfile_path):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     # python decode.py -m model_file -l lex_config.txt -i input_data
-    parser.add_argument('-mp', default='../data/bestmodel', type=str)
+    parser.add_argument('-mp', default='../data/bestmodel/', type=str)
     parser.add_argument('-v', default='../data/w2v/w2v-400.bin', type=str)  # w2v-400.bin
     parser.add_argument('-l', default='../data/lex_config.txt', type=str)
     parser.add_argument('-i', default='../data/dataset/tst', type=str)
