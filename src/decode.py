@@ -219,7 +219,8 @@ if __name__ == "__main__":
     model_file_name = args.mp + '%s.%s.%d.model' % (
         args.m, args.v.split('/')[-1].replace('.bin', ''), args.a)
 
-    output_fn = '../data/output/%s.%s.%d.txt'
+    output_fn = '../data/output/%s.%s.%d.txt' % (
+        args.m, args.v.split('/')[-1].replace('.bin', ''), args.a)
 
     with Timer("decode..."):
         run_test(args.m, model_file_name, args.v, lex_list, args.i, output_fn)
