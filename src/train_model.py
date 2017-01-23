@@ -444,9 +444,9 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     # python train_model.py - v w2v-400.bin - t train_data - d dev_data - l lex_config.txt - m model_file
     parser.add_argument('-v', default='../data/w2v/w2v-400.bin', type=str) # w2v-400.bin
-    parser.add_argument('-t', default='../data/dataset/trn', type=str) # train_data
+    parser.add_argument('-t', default='../data/dataset/trn17', type=str) # train_data
     parser.add_argument('-d', default='../data/dataset/dev', type=str) # dev_data
-    parser.add_argument('-s', default='../data/dataset/tst', type=str)  # dev_data
+    parser.add_argument('-s', default='../data/dataset/dev', type=str)  # tst_data
     parser.add_argument('-l', default='../data/lex_config.txt', type=str) # lex_config.txt
     parser.add_argument('-mp', default='../data/bestmodel/', type=str) # model_file
     parser.add_argument('-m', default='W2VLEXATT', choices=['W2V', 'W2VATT', 'W2VLEX', 'W2VLEXATT'], type=str)  # model_file
