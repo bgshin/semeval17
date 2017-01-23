@@ -1,0 +1,14 @@
+1	Are	be	VBP	pos2=VB	9	aux	_	O
+2	free	free	JJ	_	5	nmod	_	O
+3	3	0	CD	_	5	nmod	_	U-CARDINAL
+4	D	d	NN	pos2=NNP	5	compound	_	O
+5	models	model	NNS	_	9	nsubj	_	O
+6	holding	hold	VBG	_	5	acl	_	O
+7	3	0	CD	_	8	nmod	_	U-CARDINAL
+8	D	d	NN	pos2=JJ	6	dobj	_	O
+9	printing	print	VBG	pos2=NN	0	root	_	O
+10	back	back	RB	pos2=NN	9	advmod	_	O
+11	?	?	.	_	9	punct	_	O
+
+1	https://t.co/jplKXTAlhn	#hlink#	ADD	_	0	root	_	U-ORG
+

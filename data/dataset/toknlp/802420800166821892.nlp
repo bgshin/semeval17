@@ -1,0 +1,11 @@
+1	Why	why	WRB	_	4	advmod	_	O
+2	Patten	patten	NNP	_	4	nsubj	_	U-PERSON
+3	would	would	MD	_	4	aux	_	O
+4	fire	fire	VB	_	0	root	_	O
+5	#Trump	#trump	NNP	pos2=GW	6	compound	_	U-ORG
+6	adviser	adviser	NN	pos2=GW	4	dobj	_	O
+7	#SteveBannon	#stevebannon	GW	pos2=ADD	8	nmod	_	O
+8	https://t.co/UIOAwnNkjj	#hlink#	ADD	pos2=RBR	10	nmod	_	O
+9	via	via	IN	_	4	prep	_	O
+10	@asiatimesonline	@asiatimesonline	NN	pos2=UH	9	pobj	_	O
+

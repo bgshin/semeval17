@@ -1,0 +1,29 @@
+1	Hard	hard	JJ	pos2=NNP	2	nmod	_	O
+2	Brexit	brexit	NNP	pos2=NN	0	root	_	U-PERSON
+3	.	.	.	_	2	punct	_	O
+
+1	Otherwise	otherwise	RB	_	4	advmod	_	O
+2	,	,	,	_	4	punct	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	like	like	IN	_	9	mark	_	O
+6	the	the	DT	_	7	det	_	O
+7	Germans	german	NNPS	_	9	nsubj	_	U-NORP
+8	are	be	VBP	_	9	aux	_	O
+9	asking	ask	VBG	_	4	advcl	_	O
+10	you	you	PRP	_	9	dobj	_	O
+11	to	to	TO	_	12	aux	_	O
+12	kiss	kiss	VB	_	9	xcomp	_	O
+13	their	their	PRP$	_	14	poss	_	O
+14	ass	ass	NN	_	12	dobj	_	O
+15	for	for	IN	_	12	prep	_	O
+16	daring	dare	VBG	_	15	pcomp	_	O
+17	to	to	TO	_	18	aux	_	O
+18	leave	leave	VB	_	16	xcomp	_	O
+19	their	their	PRP$	_	18	dobj	_	O
+20	(	(	-LRB-	_	21	punct	_	O
+21	dominant	dominant	JJ	_	24	nmod	_	O
+22	)	)	-RRB-	_	21	punct	_	O
+23	…	…	NFP	pos2=:	24	punct	_	O
+24	https://t.co/CnD0LzGAti	#hlink#	ADD	pos2=NN	18	dobj	_	O
+

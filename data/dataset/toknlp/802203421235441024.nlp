@@ -1,0 +1,22 @@
+1	Hillary	hillary	NNP	pos2=JJ	2	compound	_	U-PERSON
+2	supporters	supporter	NNS	_	0	root	_	O
+3	......	..	.	pos2=,	2	punct	_	O
+
+1	Two	#crd#	CD	pos2=NNP	4	nmod	_	U-CARDINAL
+2	'	'	``	pos2=POS	4	punct	_	O
+3	ZIO	zio	NNP	pos2=NN	4	compound	_	O
+4	Supremacists	supremacist	NNS	pos2=NNP	6	nsubj	_	O
+5	'	'	''	pos2=POS	4	punct	_	O
+6	have	have	VBP	pos2=VB	16	ccomp	_	O
+7	to	to	TO	_	8	aux	_	O
+8	point	point	VB	_	6	xcomp	_	O
+9	out	out	RP	_	8	prt	_	O
+10	great	great	JJ	_	11	nmod	_	O
+11	moments	moment	NNS	_	8	dobj	_	O
+12	-	-	:	pos2=,	16	punct	_	O
+13	these	these	DT	_	14	det	_	O
+14	CUCKS	cucks	NNS	pos2=NNP	16	nsubj	_	U-ORG
+15	truly	truly	RB	_	16	advmod	_	O
+16	care	care	VB	pos2=VBP	0	root	_	O
+17	?	?	.	_	16	punct	_	O
+

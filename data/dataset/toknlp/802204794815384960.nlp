@@ -1,0 +1,17 @@
+1	Ben	ben	NNP	_	2	compound	_	B-PERSON
+2	Carson	carson	NNP	_	0	root	_	L-PERSON
+3	for	for	IN	_	2	prep	_	O
+4	Housing	housing	NNP	_	3	pobj	_	B-ORG
+5	&	&	CC	_	4	cc	_	I-ORG
+6	Urban	urban	NNP	_	7	compound	_	I-ORG
+7	Development	development	NNP	pos2=NN	4	conj	_	L-ORG
+8	??	??	.	_	2	punct	_	O
+
+1	😐	😐	NFP	pos2=NN	6	punct	_	O
+2	I	I	PRP	_	6	nsubj	_	O
+3	just	just	RB	_	6	advmod	_	O
+4	ca	can	MD	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	😒	😒	VB	pos2=NFP	0	root	_	O
+7	https://t.co/SUN1q7YbTI	#hlink#	ADD	_	6	dobj	_	U-ORG
+

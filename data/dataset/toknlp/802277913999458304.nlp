@@ -1,0 +1,20 @@
+1	@RobertaLavin	@robertalavin	ADD	pos2=NNP	2	det	_	O
+2	@JoyAnnReid	@joyannreid	NNP	pos2=XX	4	nmod	_	O
+3	But	but	CC	_	2	cc	_	O
+4	a	a	DT	_	6	det	_	O
+5	vital	vital	JJ	_	6	nmod	_	O
+6	point	point	NN	_	7	nsubj	_	O
+7	is	be	VBZ	_	0	root	_	O
+8	that	that	IN	_	10	mark	_	O
+9	rightists	rightist	NNS	_	10	nsubj	_	O
+10	seem	seem	VBP	_	7	ccomp	_	O
+11	to	to	TO	_	12	aux	_	O
+12	believe	believe	VB	_	10	xcomp	_	O
+13	them	them	PRP	_	12	dobj	_	O
+14	easily	easily	RB	_	12	advmod	_	O
+15	;	;	,	pos2=:	17	punct	_	O
+16	liberals	liberal	NNS	_	17	nsubj	_	O
+17	do	do	VBP	_	12	aux	_	O
+18	n't	not	RB	_	17	neg	_	O
+19	.	.	.	_	7	punct	_	O
+

@@ -1,0 +1,20 @@
+1	@DrJillStein	@drjillstein	NN	pos2=UH	3	nsubj	_	O
+2	not	not	RB	_	3	neg	_	O
+3	wasting	waste	VBG	_	13	csubj	_	O
+4	ridiculous	ridiculous	JJ	_	5	nmod	_	O
+5	amounts	amount	NNS	_	3	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	taxpayer	taxpayer	NN	pos2=JJ	8	compound	_	O
+8	money	money	NN	_	6	pobj	_	O
+9	on	on	IN	_	3	prep	_	O
+10	a	a	DT	_	12	det	_	O
+11	witch	witch	NN	_	12	compound	_	O
+12	hunt	hunt	NN	_	9	pobj	_	O
+13	is	be	VBZ	_	0	root	_	O
+14	my	my	PRP$	_	16	poss	_	O
+15	gold	gold	NN	pos2=JJ	16	compound	_	O
+16	standard	standard	NN	pos2=JJ	13	attr	_	O
+17	.	.	.	_	13	punct	_	O
+
+1	#publicityStunt	#publicitystunt	NN	pos2=ADD	0	root	_	O
+

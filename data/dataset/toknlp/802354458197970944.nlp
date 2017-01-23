@@ -1,0 +1,21 @@
+1	@greenhousenyt	@greenhousenyt	UH	pos2=VB	9	discourse	_	O
+2	the	the	DT	_	6	det	_	O
+3	only	only	JJ	pos2=RB	6	nmod	_	O
+4	obvious	obvious	JJ	_	6	nmod	_	O
+5	anti-Trump	anti-trump	JJ	_	6	nmod	_	O
+6	fakes	fake	NNS	pos2=VBZ	9	nsubj	_	O
+7	I	I	PRP	_	8	nsubj	_	O
+8	saw	see	VBD	_	6	relcl	_	O
+9	were	be	VBD	_	0	root	_	O
+10	Melania	melania	NNP	_	12	compound	_	O
+11	-	-	HYPH	_	12	punct	_	O
+12	centric	centric	JJ	pos2=NNP	9	acomp	_	O
+13	.	.	.	_	9	punct	_	O
+
+1	And	and	CC	_	3	cc	_	O
+2	invariably	invariably	RB	_	3	advmod	_	O
+3	about	about	IN	pos2=RB	0	root	_	O
+4	her	her	PRP$	_	5	poss	_	O
+5	clothes	clothes	NNS	_	3	pobj	_	O
+6	.	.	.	_	3	punct	_	O
+

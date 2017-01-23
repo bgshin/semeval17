@@ -1,0 +1,19 @@
+1	Post	post	AFX	pos2=VB	0	root	_	O
+2	on	on	IN	_	1	prep	_	O
+3	Social	social	NNP	pos2=JJ	4	compound	_	B-ORG
+4	Networks	network	NNPS	pos2=NNP	2	pobj	_	L-ORG
+5	and	and	CC	_	1	cc	_	O
+6	Win	win	VB	pos2=NNP	1	conj	_	O
+7	a	a	DT	_	9	det	_	O
+8	#Tesla	#tesla	NNP	pos2=NN	9	compound	_	O
+9	Model	model	NN	pos2=NNP	6	dobj	_	O
+10	S	s	NNP	pos2=NN	6	npadvmod	_	U-PRODUCT
+11	from	from	IN	_	6	prep	_	O
+12	TemplateMonster	templatemonster	NNP	_	11	pobj	_	U-ORG
+13	!	!	.	_	1	punct	_	O
+
+1	https://t.co/kPbL04s1aM	#hlink#	ADD	_	0	root	_	O
+2	#contests	#contests	NNS	pos2=VBZ	0	root	_	O
+3	#prizes	#prizes	UH	pos2=VBZ	2	discourse	_	O
+4	#wordpress	#wordpress	UH	pos2=.	2	discourse	_	O
+

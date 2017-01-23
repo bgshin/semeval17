@@ -1,0 +1,19 @@
+1	SHOP	shop	VB	pos2=NN	0	root	_	O
+2	IT	it	PRP	pos2=NN	1	dobj	_	O
+3	HERE	here	RB	_	1	advmod	_	O
+4	>	>	:	pos2=-LRB-	1	punct	_	O
+5	https://t.co/dIErysYzsM	#hlink#	ADD	pos2=JJ	13	nmod	_	O
+6	EOTW	eotw	NNP	pos2=NN	13	compound	_	B-WORK_OF_ART
+7	Waterproof	waterproof	NNP	pos2=JJ	13	compound	_	I-WORK_OF_ART
+8	Case	case	NNP	pos2=NN	13	compound	_	I-WORK_OF_ART
+9	Dry	dry	NNP	pos2=JJ	11	compound	_	I-WORK_OF_ART
+10	Bag	bag	NNP	pos2=NN	11	compound	_	I-WORK_OF_ART
+11	Cell	cell	NNP	pos2=NN	12	compound	_	I-WORK_OF_ART
+12	Phone	phone	NN	pos2=NNP	13	compound	_	I-WORK_OF_ART
+13	Pouch	pouch	NNP	pos2=NN	1	dep	_	I-WORK_OF_ART
+14	With	with	IN	_	13	prep	_	I-WORK_OF_ART
+15	Military	military	NNP	_	14	pobj	_	L-WORK_OF_ART
+16	...	..	.	_	1	punct	_	O
+
+1	https://t.co/kx5D3Oyb2T	#hlink#	ADD	_	0	root	_	U-ORG
+

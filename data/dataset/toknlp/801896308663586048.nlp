@@ -1,0 +1,25 @@
+1	#Vêrlander	#vêrlander	NN	pos2=NNS	8	dep	_	O
+2	:	:	:	_	8	punct	_	O
+3	an	an	DT	_	8	det	_	O
+4	impressive	impressive	JJ	_	8	nmod	_	O
+5	visual	visual	JJ	_	6	nmod	_	O
+6	story	story	NN	_	8	compound	_	O
+7	-	-	HYPH	pos2=,	8	punct	_	O
+8	telling	telling	NN	_	16	dep	_	O
+9	of	of	IN	_	8	prep	_	O
+10	the	the	DT	_	13	det	_	O
+11	'	'	``	pos2=''	13	punct	_	O
+12	vergete	vergete	JJ	pos2=NN	13	nmod	_	O
+13	mense	mense	NN	pos2=FW	9	pobj	_	O
+14	'	'	''	pos2=NN	13	punct	_	O
+15	:	:	:	_	16	punct	_	O
+16	exhibit	exhibit	NN	pos2=VB	0	root	_	O
+17	&	&	CC	_	16	cc	_	O
+18	books	book	NNS	_	16	conj	_	O
+19	by	by	IN	_	16	prep	_	O
+20	Bart	bart	NNP	_	22	compound	_	B-PERSON
+21	de	de	NNP	pos2=FW	22	compound	_	I-PERSON
+22	Graaff	graaff	NNP	_	24	dep	_	L-PERSON
+23	&…	&…	POS	pos2=NNP	22	case	_	O
+24	https://t.co/YDK5415HvB	#hlink#	ADD	_	19	pobj	_	O
+

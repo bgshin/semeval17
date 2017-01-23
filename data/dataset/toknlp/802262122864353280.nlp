@@ -1,0 +1,22 @@
+1	https://t.co/E1Gat9GCPO	#hlink#	ADD	pos2=NN	14	dep	_	O
+2	iOttie	iottie	NNP	pos2=-RRB-	3	compound	_	O
+3	Easy	easy	NNP	pos2=JJ	14	nmod	_	O
+4	One	#crd#	CD	pos2=NNP	21	dep	_	O
+5	Touch	touch	NN	pos2=NNP	6	nsubj	_	O
+6	3	0	CD	_	21	dep	_	U-CARDINAL
+7	(	(	-LRB-	_	8	punct	_	O
+8	V2.0	v0	NN	_	21	dep	_	O
+9	)	)	-RRB-	_	8	punct	_	O
+10	Car	car	NN	pos2=NNP	14	compound	_	O
+11	Mount	mount	NNP	pos2=NN	12	compound	_	O
+12	Universal	universal	NNP	pos2=JJ	14	compound	_	O
+13	Phone	phone	NN	pos2=NNP	14	compound	_	O
+14	Holder	holder	NN	pos2=NNP	21	dep	_	O
+15	for	for	IN	_	14	prep	_	O
+16	iPhone	iphone	NNP	pos2=NN	15	pobj	_	O
+17	7	0	CD	_	16	nmod	_	O
+18	Plus	plus	NNP	pos2=CC	19	compound	_	O
+19	6s	0s	NNS	pos2=NNPS	20	compound	_	O
+20	Plu	plu	NNP	pos2=GW	21	nmod	_	O
+21	https://t.co/0BKcDkui5D	#hlink#	ADD	_	0	root	_	O
+

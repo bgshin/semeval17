@@ -1,0 +1,17 @@
+1	#Yemen	#yemen	NNS	pos2=NN	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	hospitals	hospital	NNS	_	5	nsubjpass	_	O
+4	being	be	VBG	_	5	auxpass	_	O
+5	terrorised	terrorise	VBN	_	11	advcl	_	O
+6	by	by	IN	_	5	agent	_	O
+7	US	us	NNP	_	6	pobj	_	U-GPE
+8	allied	ally	VBN	pos2=FW	3	acl	_	O
+9	,	,	,	_	11	punct	_	O
+10	#Saudi	#saudi	NNP	pos2=WP	11	nsubj	_	U-ORG
+11	funded	fund	VBD	pos2=VBN	0	root	_	O
+12	anti-Houthi	anti-houthi	JJ	_	13	nmod	_	U-ORG
+13	forces	force	NNS	_	11	dobj	_	O
+14	in	in	IN	_	11	prep	_	O
+15	Ta'iz	ta'iz	NNP	pos2=-LRB-	14	pobj	_	U-DATE
+16	https://t.co/LhFNdMRLsE	#hlink#	ADD	_	11	dep	_	O
+

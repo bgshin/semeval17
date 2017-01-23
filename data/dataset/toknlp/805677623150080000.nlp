@@ -1,0 +1,22 @@
+1	@dannyduchamp	@dannyduchamp	UH	pos2=XX	5	discourse	_	O
+2	@jer29to11	@jer0to0	LS	pos2=NN	5	advmod	_	O
+3	@PizzaPartyBen	@pizzapartyben	UH	pos2=NNP	5	discourse	_	O
+4	There	there	EX	_	5	expl	_	O
+5	's	's	VBZ	_	0	root	_	O
+6	nothing	nothing	NN	_	5	attr	_	O
+7	wrong	wrong	JJ	_	6	nmod	_	O
+8	with	with	IN	_	7	prep	_	O
+9	the	the	DT	_	11	det	_	O
+10	minimum	minimum	JJ	pos2=NN	11	nmod	_	O
+11	wage	wage	NN	_	8	pobj	_	O
+12	either	either	CC	pos2=RB	17	preconj	_	O
+13	if	if	IN	_	16	mark	_	O
+14	you	you	PRP	_	16	nsubj	_	O
+15	just	just	RB	_	16	advmod	_	O
+16	toss	toss	VB	pos2=VBP	11	advcl	_	O
+17	economics	economics	NNS	pos2=NN	16	dobj	_	O
+18	&	&	CC	_	17	cc	_	O
+19	principles	principle	NNS	_	17	conj	_	O
+20	aside	aside	RB	_	16	advmod	_	O
+21	;)	;)	NFP	pos2=RB	16	discourse	_	O
+

@@ -1,0 +1,32 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@bullimusmaximus	@bullimusmaximus	UH	pos2=NN	4	discourse	_	O
+2	@wdmichael3	@wdmichael0	NN	pos2=WP	4	dep	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	asked	ask	VBD	_	0	root	_	O
+5	if	if	IN	_	7	mark	_	O
+6	conservatives	conservative	NNS	_	7	nsubj	_	O
+7	had	have	VBD	_	4	ccomp	_	O
+8	market	market	NN	_	9	nsubj	_	O
+9	cornered	corner	VBN	_	7	ccomp	_	O
+10	on	on	IN	_	9	prep	_	O
+11	patriotism	patriotism	NN	_	10	pobj	_	O
+12	.	.	.	_	4	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	said	say	VBD	_	0	root	_	O
+3	no	no	UH	pos2=RB	2	discourse	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	Hank	hank	NNP	_	2	nsubj	_	U-PERSON
+2	said	say	VBD	_	0	root	_	O
+3	"	"	``	_	2	punct	_	O
+4	Yeah	yeah	UH	_	9	discourse	_	O
+5	,	,	,	_	9	punct	_	O
+6	we	we	PRP	_	9	nsubj	_	O
+7	pretty	pretty	RB	_	8	advmod	_	O
+8	much	much	RB	_	9	advmod	_	O
+9	do	do	VBP	pos2=VB	2	ccomp	_	O
+10	.	.	.	_	2	punct	_	O
+11	"	"	''	_	2	punct	_	O
+

@@ -1,0 +1,10 @@
+1	Well	well	UH	_	4	discourse	_	O
+2	,	,	,	_	4	punct	_	O
+3	vegetarianism	vegetarianism	NN	_	4	nsubj	_	O
+4	lasted	last	VBD	_	0	root	_	O
+5	a	a	DT	_	8	det	_	O
+6	whole	whole	JJ	_	8	nmod	_	O
+7	two	#crd#	CD	_	8	nmod	_	B-DATE
+8	days	day	NNS	_	4	npadvmod	_	L-DATE
+9	…	…	NFP	pos2=VBN	4	discourse	_	O
+

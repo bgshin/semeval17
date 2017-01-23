@@ -1,0 +1,18 @@
+1	At	at	RB	pos2=IN	2	advmod	_	B-CARDINAL
+2	least	least	RBS	pos2=JJS	3	advmod	_	I-CARDINAL
+3	8	0	CD	_	4	nsubj	_	L-CARDINAL
+4	killed	kill	VBN	_	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	Egypt	egypt	NNP	_	10	poss	_	U-GPE
+7	's	's	POS	_	6	case	_	O
+8	Sinai	sinai	NNP	_	10	nmod	_	O
+9	-	-	HYPH	pos2=:	10	punct	_	O
+10	https://t.co/PatrFGTzrt	#hlink#	ADD	pos2=NNP	5	pobj	_	O
+11	#Egypt	#egypt	-RRB-	pos2=NNP	13	punct	_	O
+12	#Sisi	#sisi	NNP	pos2=-RRB-	13	compound	_	O
+13	#Muslims	#muslims	NNS	pos2=POS	10	appos	_	O
+14	#Israel	#israel	NNP	pos2=POS	17	compound	_	B-PERSON
+15	#Gaza	#gaza	NNP	pos2=POS	17	compound	_	L-PERSON
+16	#Sinai	#sinai	NNP	pos2=POS	17	compound	_	B-PERSON
+17	#Hamas	#hamas	NNP	pos2=NNS	13	appos	_	L-PERSON
+

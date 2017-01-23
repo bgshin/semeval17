@@ -1,0 +1,18 @@
+1	BREAKING	breaking	NN	pos2=VBG	3	dep	_	O
+2	:	:	:	_	3	punct	_	O
+3	Initiative	initiative	NN	pos2=NNP	9	nsubj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	introduce	introduce	VB	_	3	relcl	_	O
+6	#UNSC	#unsc	NN	pos2=NNP	8	compound	_	O
+7	#Aleppo	#aleppo	NNP	pos2=IN	8	compound	_	U-ORG
+8	resolution	resolution	NN	_	5	dobj	_	O
+9	targets	target	VBZ	pos2=NNS	17	ccomp	_	O
+10	Russia	russia	NNP	_	12	compound	_	U-GPE
+11	-	-	HYPH	_	12	punct	_	O
+12	US	us	NNP	_	13	compound	_	U-GPE
+13	talks	talk	NNS	_	9	dobj	_	O
+14	-	-	:	pos2=GW	17	punct	_	O
+15	#Lavrov	#lavrov	NNP	pos2=NFP	17	nmod	_	O
+16	https://t.co/c4UcAgsOWP	#hlink#	ADD	_	17	nsubj	_	O
+17	#SyriaCrisis	#syriacrisis	ADD	pos2=-RRB-	0	root	_	U-ORG
+

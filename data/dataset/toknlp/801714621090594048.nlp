@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det	_	O
+2	latest	late	JJS	_	5	nsubj	_	O
+3	The	the	DT	pos2=NNP	6	det	_	B-ORG
+4	Croatia	croatia	NNP	_	6	compound	_	I-ORG
+5	Travel	travel	NNP	_	6	compound	_	I-ORG
+6	Daily	daily	NNP	pos2=RB	0	root	_	L-ORG
+7	!	!	.	_	2	punct	_	O
+
+1	https://t.co/I0fmCdRBNh	#hlink#	ADD	pos2=NN	0	root	_	O
+2	Thanks	thanks	NNS	pos2=NN	1	npadvmod	_	O
+3	to	to	IN	_	2	prep	_	O
+4	@DanielleSmithTV	@daniellesmithtv	VB	pos2=NNP	3	pcomp	_	O
+5	@TastyChomps	@tastychomps	NNS	pos2=XX	4	dobj	_	O
+6	@utahjazz	@utahjazz	UH	pos2=XX	4	discourse	_	O
+7	#travel	#travel	UH	pos2=FW	4	discourse	_	O
+8	#travelboldly	#travelboldly	UH	pos2=RB	4	discourse	_	O
+

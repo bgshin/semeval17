@@ -1,0 +1,27 @@
+1	Have	have	VBP	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	seen	see	VBN	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	#Hatchimals	#hatchimals	NNS	pos2=NNP	3	dobj	_	O
+6	?	?	.	_	3	punct	_	O
+
+1	These	these	DT	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	among	among	IN	_	2	prep	_	O
+4	the	the	DT	_	6	det	_	O
+5	holiday	holiday	NN	_	6	compound	_	O
+6	season	season	NN	_	16	poss	_	O
+7	's	's	POS	_	6	case	_	O
+8	most	most	RBS	_	9	advmod	_	O
+9	popular	popular	JJ	_	16	nmod	_	O
+10	,	,	,	_	16	punct	_	O
+11	hard	hard	JJ	pos2=RB	16	nmod	_	O
+12	-	-	HYPH	_	11	punct	_	O
+13	to	to	TO	_	15	aux	_	O
+14	-	-	HYPH	_	15	punct	_	O
+15	find	find	VB	pos2=NN	11	xcomp	_	O
+16	toys	toy	NNS	pos2=NN	3	pobj	_	O
+17	:	:	:	_	2	punct	_	O
+18	…	…	NFP	pos2=-LRB-	2	discourse	_	O
+19	https://t.co/rzp8ysLCxq	#hlink#	ADD	_	2	dep	_	O
+

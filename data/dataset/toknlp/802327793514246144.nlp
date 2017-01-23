@@ -1,0 +1,22 @@
+1	Venezuelan	venezuelan	JJ	_	2	nmod	_	U-NORP
+2	President	president	NNP	_	4	compound	_	O
+3	Nicolas	nicolas	NNP	_	4	compound	_	B-PERSON
+4	Madura	madura	NNP	_	5	nsubj	_	L-PERSON
+5	says	say	VBZ	_	0	root	_	O
+6	his	his	PRP$	_	7	poss	_	O
+7	wife	wife	NN	_	9	poss	_	O
+8	's	's	POS	pos2=VBZ	7	case	_	O
+9	nephews	nephew	NNS	_	12	poss	_	O
+10	'	'	POS	pos2=''	9	case	_	O
+11	drug	drug	NN	_	12	compound	_	O
+12	conviction	conviction	NN	_	14	nsubj	_	O
+13	a	a	DT	_	15	det	_	O
+14	clear	clear	JJ	_	15	nmod	_	O
+15	sign	sign	NN	_	0	root	_	O
+16	of	of	IN	_	15	prep	_	O
+17	"	"	``	_	19	punct	_	O
+18	US	us	NNP	pos2=PRP	19	compound	_	U-GPE
+19	imperialism	imperialism	NN	_	16	pobj	_	O
+20	"	"	''	_	19	punct	_	O
+21	https://t.co/pRwnVLLT5B	#hlink#	ADD	pos2=NN	19	appos	_	O
+

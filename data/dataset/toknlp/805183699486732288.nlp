@@ -1,0 +1,27 @@
+1	Power	power	NN	_	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	50	0	CD	_	5	nmod	_	B-DATE
+4	+	+	SYM	_	3	punct	_	I-DATE
+5	years	year	NNS	_	2	pobj	_	L-DATE
+6	of	of	IN	_	5	prep	_	O
+7	unrelenting	unrelenting	JJ	pos2=VBG	9	nmod	_	O
+8	CIA	cia	NNP	pos2=NN	9	compound	_	U-ORG
+9	propaganda	propaganda	NN	_	6	pobj	_	O
+10	for	for	IN	_	1	prep	_	O
+11	sure	sure	JJ	_	10	pcomp	_	O
+12	.	.	.	_	1	punct	_	O
+
+1	Lest	lest	IN	_	4	mark	_	O
+2	we	we	PRP	_	4	nsubj	_	O
+3	also	also	RB	_	4	advmod	_	O
+4	forget	forget	VBP	pos2=VB	0	root	_	O
+5	50	0	CD	_	7	nmod	_	B-DATE
+6	+	+	SYM	_	5	punct	_	I-DATE
+7	years	year	NNS	_	13	dep	_	L-DATE
+8	illegal	illegal	JJ	_	11	nmod	_	O
+9	USA	usa	NNP	pos2=NN	11	compound	_	U-GPE
+10	trade	trade	NN	pos2=NNP	11	compound	_	O
+11	embargo	embargo	NN	pos2=GW	13	dep	_	O
+12	…	…	NFP	pos2=:	13	punct	_	O
+13	https://t.co/DbwRb0QuWN	#hlink#	ADD	_	4	dobj	_	O
+

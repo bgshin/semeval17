@@ -1,0 +1,18 @@
+1	Because	because	IN	_	5	mark	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	could	could	MD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	make	make	VB	_	0	root	_	O
+6	it	it	PRP	_	5	dobj	_	O
+7	on	on	IN	pos2=RP	5	prep	_	O
+8	#NationalFastFoodDay	#nationalfastfoodday	NNP	pos2=XX	7	pobj	_	U-ORG
+9	the	the	DT	_	11	det	_	O
+10	other	other	JJ	_	11	nmod	_	O
+11	day	day	NN	_	5	npadvmod	_	O
+12	.	.	.	_	5	punct	_	O
+
+1	Shake	shake	VB	pos2=NNP	0	root	_	O
+2	Shack	shack	NNP	pos2=NN	1	dobj	_	O
+3	😍😍😍😍😍#HappyFridayToMe	😍😍😍😍😍#happyfridaytome	ADD	pos2=GW	4	punct	_	O
+4	https://t.co/0Nj6VtgwFe	#hlink#	ADD	_	1	dobj	_	O
+

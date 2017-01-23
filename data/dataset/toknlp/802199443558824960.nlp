@@ -1,0 +1,25 @@
+1	Americans	american	NNPS	pos2=NNS	2	nsubj	_	U-NORP
+2	pump	pump	VBP	pos2=VB	0	root	_	O
+3	$	$	$	_	5	qmod	_	O
+4	5	0	CD	_	5	compound	_	O
+5	M	m	CD	pos2=-LRB-	6	dep	_	O
+6	intohttps://t.co/eHokBBOKKK	#hlink#	ADD	pos2=NN	2	dobj	_	O
+7	in	in	IN	_	2	prep	_	O
+8	2days	0days	NNS	pos2=NN	7	pobj	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	Helped	help	VBD	_	0	root	_	O
+2	me	me	PRP	_	3	nsubj	_	O
+3	get	get	VB	_	1	ccomp	_	O
+4	thru	thru	IN	_	3	prep	_	O
+5	Thanksgiving	thanksgiving	NNP	_	4	pobj	_	U-DATE
+6	.	.	.	_	1	punct	_	O
+
+1	Ca	can	MD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	give	give	VB	_	0	root	_	O
+4	up	up	RP	_	3	prt	_	O
+5	hope	hope	NN	_	3	dobj	_	O
+6	@HillaryClinton	@hillaryclinton	NNP	pos2=IN	7	dobj	_	B-PERSON
+7	#StillWithHer	#stillwithher	ADD	pos2=NN	3	cc	_	L-PERSON
+

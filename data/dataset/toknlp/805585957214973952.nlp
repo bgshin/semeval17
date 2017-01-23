@@ -1,0 +1,33 @@
+1	@mamarocks54	@mamarocks0	NN	pos2=DT	2	compound	_	O
+2	daughter	daughter	NN	_	3	nsubj	_	O
+3	swears	swear	VBZ	_	0	root	_	O
+4	he	he	PRP	_	5	nsubj	_	O
+5	's	's	VBZ	_	3	ccomp	_	O
+6	almost	almost	RB	_	7	advmod	_	B-CARDINAL
+7	10	0	CD	_	5	attr	_	L-CARDINAL
+8	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	believe	believe	VB	_	0	root	_	O
+5	n	n	IN	pos2=JJ	4	prep	_	O
+6	euthanasia	euthanasia	NN	_	5	pobj	_	O
+7	for	for	IN	_	4	prep	_	O
+8	ppl	ppl	NNS	pos2=NN	7	pobj	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	As	as	IN	_	6	prep	_	O
+2	a	a	DT	_	3	det	_	O
+3	nurse	nurse	NN	_	1	pobj	_	O
+4	I	I	PRP	_	6	nsubj	_	O
+5	've	have	VBP	_	6	aux	_	O
+6	seen	see	VBN	_	0	root	_	O
+7	too	too	RB	_	8	advmod	_	O
+8	much	much	JJ	_	9	nmod	_	O
+9	death	death	NN	_	6	dobj	_	O
+10	not	not	RB	_	12	neg	_	O
+11	to	to	TO	_	12	aux	_	O
+12	believe	believe	VB	_	6	advcl	_	O
+13	that	that	IN	pos2=DT	11	pobj	_	O
+

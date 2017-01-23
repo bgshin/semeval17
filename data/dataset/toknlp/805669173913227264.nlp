@@ -1,0 +1,14 @@
+1	@GrahamPerrettMP	@grahamperrettmp	VB	pos2=ADD	13	advcl	_	O
+2	@emjay505	@emjay0	NN	pos2=CD	4	compound	_	O
+3	@joshgnosis	@joshgnosis	NN	pos2=IN	4	compound	_	O
+4	rates	rate	NNS	_	1	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	gay	gay	JJ	_	7	nmod	_	O
+7	divorce	divorce	NN	_	5	pobj	_	O
+8	will	will	MD	_	9	aux	_	O
+9	skyrocket	skyrocket	VB	_	1	conj	_	O
+10	once	once	RB	pos2=IN	9	advmod	_	O
+11	marriage	marriage	NN	_	12	compound	_	O
+12	equality	equality	NN	_	13	nsubj	_	O
+13	achieved	achieve	VBN	pos2=VBD	0	root	_	O
+

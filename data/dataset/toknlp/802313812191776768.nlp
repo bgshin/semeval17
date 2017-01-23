@@ -1,0 +1,26 @@
+1	#BrtFinancial	#brtfinancial	NNP	pos2=JJ	3	compound	_	O
+2	Dentist	dentist	NNP	pos2=NN	3	compound	_	B-ORG
+3	News	news	NNP	_	0	root	_	L-ORG
+4	Today	today	NN	pos2=NNP	3	npadvmod	_	U-DATE
+5	:	:	:	_	3	punct	_	O
+6	3	0	CD	_	8	nmod	_	U-CARDINAL
+7	D	d	NN	pos2=NNS	8	compound	_	O
+8	printing	printing	NN	pos2=VBG	3	appos	_	O
+9	&	&	CC	_	8	cc	_	O
+10	Digital	digital	NNP	pos2=JJ	11	compound	_	O
+11	Dentistry	dentistry	NNP	pos2=NN	13	compound	_	O
+12	-	-	HYPH	pos2=:	13	punct	_	O
+13	Form	form	NN	pos2=NNP	8	conj	_	O
+14	1	0	CD	_	13	nmod	_	U-CARDINAL
+15	+	+	SYM	pos2=:	14	punct	_	O
+16	and	and	CC	_	17	cc	_	O
+17	Form	form	VB	pos2=NN	15	conj	_	O
+18	2	0	CD	_	17	dobj	_	U-CARDINAL
+19	by	by	IN	pos2=RB	17	prep	_	O
+20	...	..	.	pos2=,	3	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	Blog	blog	NN	pos2=NNP	1	dobj	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/mH9ziCcOWD	#hlink#	ADD	pos2=NN	1	dep	_	O
+

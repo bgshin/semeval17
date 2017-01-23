@@ -1,0 +1,23 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	tried	try	VBD	_	0	root	_	O
+3	eating	eat	VBG	_	2	xcomp	_	O
+4	fish	fish	NN	_	3	dobj	_	O
+5	today	today	NN	_	3	npadvmod	_	U-DATE
+6	and	and	CC	_	2	cc	_	O
+7	idk	idk	VBP	pos2=VB	2	conj	_	O
+8	how	how	WRB	_	10	advmod	_	O
+9	I	I	PRP	_	10	nsubj	_	O
+10	feel	feel	VBP	_	7	ccomp	_	O
+11	about	about	IN	_	10	prep	_	O
+12	it	it	PRP	_	11	pobj	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	'm	be	VBP	_	4	aux	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	gon	gon	VBG	_	0	root	_	O
+5	na	to	TO	_	6	aux	_	O
+6	stick	stick	VB	_	4	xcomp	_	O
+7	to	to	IN	_	6	prep	_	O
+8	vegetarianism	vegetarianism	NN	_	7	pobj	_	O
+

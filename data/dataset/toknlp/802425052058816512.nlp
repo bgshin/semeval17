@@ -1,0 +1,23 @@
+1	@LaMorr	@lamorr	NN	pos2=XX	6	compound	_	O
+2	NICOLAS	nicolas	NNP	_	6	compound	_	B-ORG
+3	MADURO	maduro	NNP	_	6	compound	_	I-ORG
+4	Y	y	NNP	pos2=IN	6	compound	_	I-ORG
+5	CILIA	cilia	NNP	pos2=NN	6	compound	_	I-ORG
+6	FLORES	flores	NNP	_	10	vocative	_	L-ORG
+7	AMONG	among	IN	_	6	prep	_	O
+8	OTHERS	other	NNS	pos2=NNP	7	pobj	_	O
+9	,	,	,	_	10	punct	_	O
+10	MANAGE	manage	VB	_	0	root	_	O
+11	THE	the	DT	_	14	det	_	O
+12	INTERNATIONAL	international	JJ	pos2=NNP	14	nmod	_	O
+13	DRUG	drug	NN	pos2=NNP	14	compound	_	O
+14	TRAFFICKING	trafficking	NN	_	10	dobj	_	O
+15	FROM	from	IN	_	14	prep	_	O
+16	THE	the	DT	_	18	det	_	O
+17	PRESIDENTIAL	presidential	JJ	pos2=NNP	18	nmod	_	O
+18	PALACE	palace	NN	pos2=NNP	15	pobj	_	O
+19	(	(	-LRB-	_	18	punct	_	O
+20	MIRAFLORES	miraflores	NNP	pos2=NNS	18	appos	_	U-GPE
+21	)	)	-RRB-	_	18	punct	_	O
+22	.	.	.	_	10	punct	_	O
+

@@ -1,0 +1,18 @@
+1	Dylann	dylann	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Roof	roof	NNP	pos2=NN	3	nsubj	_	L-PERSON
+3	wants	want	VBZ	_	0	root	_	O
+4	his	his	PRP$	_	5	poss	_	O
+5	attorneys	attorney	NNS	_	3	dobj	_	O
+6	back	back	RB	pos2=NN	3	advmod	_	O
+7	until	until	IN	_	6	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	sentencing	sentencing	NN	_	10	compound	_	O
+10	phase	phase	NN	_	7	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	his	his	PRP$	_	15	poss	_	O
+13	death	death	NN	_	14	compound	_	O
+14	penalty	penalty	NN	_	15	compound	_	O
+15	case	case	NN	pos2=GW	11	pobj	_	O
+16	https://t.co/hlkv7fMqQY	#hlink#	ADD	_	17	nmod	_	O
+17	https://t.co/7clysQCoxk	#hlink#	ADD	_	14	appos	_	U-ORG
+

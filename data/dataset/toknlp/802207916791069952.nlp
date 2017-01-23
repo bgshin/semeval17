@@ -1,0 +1,27 @@
+1	@FoxNews	@foxnews	NNS	pos2=UH	2	compound	_	O
+2	@KellyannePolls	@kellyannepolls	NNS	pos2=ADD	4	poss	_	O
+3	while	while	IN	_	8	mark	_	O
+4	their	their	PRP$	pos2=RB	0	root	_	O
+5	at	at	IN	_	8	prep	_	O
+6	it	it	PRP	_	5	pobj	_	O
+7	they	they	PRP	pos2=MD	8	nsubj	_	O
+8	throw	throw	VBP	_	2	advcl	_	O
+9	out	out	RP	_	8	prt	_	O
+10	all	all	PDT	_	13	predet	_	O
+11	the	the	DT	_	13	det	_	O
+12	illegal	illegal	JJ	_	13	nmod	_	O
+13	votes	vote	NNS	_	8	dobj	_	O
+14	so	so	RB	pos2=IN	18	mark	_	O
+15	we	we	PRP	_	18	nsubj	_	O
+16	do	do	VBP	_	18	aux	_	O
+17	n't	not	RB	_	18	neg	_	O
+18	have	have	VB	_	8	advcl	_	O
+19	to	to	TO	_	20	aux	_	O
+20	hear	hear	VB	_	18	xcomp	_	O
+21	how	how	WRB	_	23	advmod	_	O
+22	she	she	PRP	_	23	nsubj	_	O
+23	won	win	VBD	_	20	ccomp	_	O
+24	the	the	DT	_	26	det	_	O
+25	popular	popular	JJ	_	26	nmod	_	O
+26	vote	vote	NN	_	23	dobj	_	O
+

@@ -1,0 +1,42 @@
+1	In	in	IN	_	10	prep	_	O
+2	terms	term	NNS	_	1	pobj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	(	(	-LRB-	_	7	punct	_	O
+5	exclusive	exclusive	JJ	_	7	nmod	_	O
+6	)	)	-RRB-	_	7	punct	_	O
+7	games	game	NNS	_	3	pobj	_	O
+8	I	I	PRP	_	10	nsubj	_	O
+9	'd	would	MD	_	10	aux	_	O
+10	play	play	VB	_	0	root	_	O
+11	on	on	IN	_	10	prep	_	O
+12	it	it	PRP	_	11	pobj	_	O
+13	,	,	,	_	18	punct	_	O
+14	I	I	PRP	_	18	nsubj	_	O
+15	can	can	MD	_	18	aux	_	O
+16	mostly	mostly	RB	_	18	advmod	_	O
+17	only	only	RB	_	18	advmod	_	O
+18	think	think	VB	pos2=NN	10	conj	_	O
+19	of	of	IN	_	18	prep	_	O
+20	FFXV	ffxv	NN	pos2=NNP	19	pobj	_	O
+21	,	,	,	_	18	punct	_	O
+22	Persona	persona	NN	pos2=NNP	20	appos	_	O
+23	5	0	CD	_	22	nmod	_	U-CARDINAL
+24	(	(	-LRB-	_	22	punct	_	O
+25	which	which	WDT	_	28	dobj	_	O
+26	I	I	PRP	_	28	nsubj	_	O
+27	could	could	MD	_	28	aux	_	O
+28	play	play	VB	_	22	relcl	_	O
+29	on	on	IN	_	28	prep	_	O
+30	PS3	ps0	NN	_	29	pobj	_	O
+31	...	..	.	pos2=,	18	punct	_	O
+32	)	)	-RRB-	_	18	punct	_	O
+
+1	,	,	,	_	2	dep	_	O
+2	and	and	CC	_	0	root	_	O
+3	...	..	.	pos2=,	2	punct	_	O
+
+1	that	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	it	it	PRP	_	2	attr	_	O
+4	?	?	.	_	2	punct	_	O
+

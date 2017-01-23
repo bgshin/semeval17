@@ -1,0 +1,23 @@
+1	He	he	PRP	_	4	nsubj	_	O
+2	could	could	MD	_	4	aux	_	O
+3	totally	totally	RB	_	4	advmod	_	O
+4	ruin	ruin	VB	_	0	root	_	O
+5	Social	social	NNP	_	6	compound	_	B-ORG
+6	Security	security	NNP	_	4	dobj	_	L-ORG
+7	and	and	CC	_	6	cc	_	O
+8	Medicare	medicare	NNP	_	6	conj	_	U-ORG
+9	with	with	IN	_	4	prep	_	O
+10	privatization	privatization	NN	_	9	pobj	_	O
+11	and	and	CC	_	10	cc	_	O
+12	reduced	reduce	VBN	pos2=JJ	13	nmod	_	O
+13	benefits	benefit	NNS	_	10	conj	_	O
+14	!	!	.	_	4	punct	_	O
+
+1	Hell	hell	NN	pos2=NNP	2	nsubj	_	O
+2	hath	hath	VBZ	pos2=VBP	0	root	_	O
+3	no	no	DT	_	4	det	_	O
+4	fury	fury	NN	_	2	dobj	_	O
+5	like	like	IN	pos2=UH	4	prep	_	O
+6	…	…	NFP	pos2=-LRB-	7	punct	_	O
+7	https://t.co/WaAZbS5ABX	#hlink#	ADD	pos2=NN	5	pobj	_	O
+

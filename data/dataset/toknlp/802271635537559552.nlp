@@ -1,0 +1,28 @@
+1	@billarnold777	@billarnold0	NN	pos2=LS	2	compound	_	O
+2	@BacksweetBranch	@backsweetbranch	NNP	pos2=WDT	3	nsubj	_	O
+3	Build	build	VB	pos2=NNP	0	root	_	O
+4	that	that	DT	pos2=IN	5	det	_	O
+5	wall	wall	NN	_	3	dobj	_	O
+6	,	,	,	_	3	punct	_	O
+7	lock	lock	VB	pos2=NN	3	conj	_	O
+8	up	up	RP	_	7	prt	_	O
+9	Killary	killary	NNP	_	7	dobj	_	U-GPE
+10	,	,	,	_	7	punct	_	O
+11	drain	drain	VB	pos2=NN	7	conj	_	O
+12	that	that	DT	pos2=IN	13	det	_	O
+13	swamp	swamp	NN	_	11	dobj	_	O
+14	.	.	.	_	3	punct	_	O
+
+1	Deport	deport	VB	_	0	root	_	O
+2	all	all	PDT	_	5	predet	_	O
+3	those	those	DT	_	5	det	_	O
+4	bad	bad	JJ	_	5	nmod	_	O
+5	hombres	hombre	NNS	_	1	dobj	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	Get	get	VB	_	0	root	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	done	do	VBN	pos2=JJ	1	ccomp	_	O
+4	son	son	NN	_	3	dobj	_	O
+5	.	.	.	_	1	punct	_	O
+

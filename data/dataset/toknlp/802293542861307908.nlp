@@ -1,0 +1,24 @@
+1	Samsung	samsung	NNP	_	3	nsubj	_	U-ORG
+2	to	to	TO	pos2=IN	3	aux	_	O
+3	Bring	bring	VB	pos2=NNP	0	root	_	O
+4	Android	android	NNP	_	3	dobj	_	O
+5	7.0	0	CD	_	4	nmod	_	U-CARDINAL
+6	Nougat	nougat	NNP	pos2=NN	4	appos	_	U-PRODUCT
+7	to	to	IN	_	3	prep	_	O
+8	Galaxy	galaxy	NNP	_	9	compound	_	B-PRODUCT
+9	S6	s0	NN	pos2=NNP	7	pobj	_	L-PRODUCT
+10	,	,	,	_	14	punct	_	O
+11	S6	s0	NN	_	12	compound	_	O
+12	edge	edge	NN	_	14	dep	_	O
+13	,	,	,	_	14	punct	_	O
+14	Note	note	VB	pos2=NN	3	conj	_	O
+15	5	0	CD	_	14	dobj	_	U-CARDINAL
+16	,	,	,	_	14	punct	_	O
+17	and	and	CC	_	14	cc	_	O
+18	Tab	tab	NNP	pos2=NN	23	nmod	_	O
+19	S2	s0	NN	pos2=NNP	23	dep	_	O
+20	-	-	HYPH	pos2=SYM	22	punct	_	O
+21	Softpedia	softpedia	NNP	_	22	compound	_	B-ORG
+22	News	news	NNP	pos2=NN	23	nmod	_	L-ORG
+23	https://t.co/6yXmToVXyk	#hlink#	ADD	_	14	conj	_	O
+

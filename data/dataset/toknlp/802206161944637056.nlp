@@ -1,0 +1,22 @@
+1	@syddid_VI24	@syddid_vi0	NN	pos2=NNS	2	compound	_	O
+2	@mike_pence	@mike_pence	NN	pos2=POS	4	poss	_	O
+3	@NBCNews	@nbcnews	POS	pos2=PRP$	2	case	_	O
+4	Abortion	abortion	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	evil	evil	JJ	_	5	acomp	_	O
+7	.	.	.	_	5	punct	_	O
+
+1	Deal	deal	VB	pos2=NN	5	advcl	_	O
+2	with	with	IN	_	1	prep	_	O
+3	it	it	PRP	_	2	pobj	_	O
+4	,	,	,	_	5	punct	_	O
+5	take	take	VB	pos2=VBP	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	Midol	midol	NNP	pos2=NN	5	dobj	_	U-PRODUCT
+8	and	and	CC	_	5	cc	_	O
+9	go	go	VB	_	5	conj	_	O
+10	to	to	IN	_	9	prep	_	O
+11	bed	bed	NN	_	12	compound	_	O
+12	sugartits	sugartits	NNS	pos2=RB	10	pobj	_	O
+13	.	.	.	_	5	punct	_	O
+

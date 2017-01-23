@@ -1,0 +1,23 @@
+1	IMAGE	image	NN	_	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	As	as	IN	_	5	mark	_	O
+4	ISIS	isis	NNP	pos2=NN	5	nsubj	_	U-ORG
+5	takes	take	VBZ	_	0	root	_	O
+6	your	your	PRP$	_	7	poss	_	O
+7	life	life	NN	_	5	dobj	_	O
+8	Obama	obama	NNP	_	9	nsubj	_	U-PERSON
+9	is	be	VBZ	_	5	conj	_	O
+10	on	on	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	links	link	NNS	_	10	pobj	_	O
+13	.	.	.	_	9	punct	_	O
+
+1	https://t.co/9Wh0HeK28N	#hlink#	ADD	_	0	root	_	O
+2	#tcot	#tcot	-RRB-	pos2=IN	1	punct	_	O
+3	#isis	#isis	UH	pos2=FW	1	discourse	_	O
+4	#islamisevil	#islamisevil	UH	pos2=FW	1	discourse	_	O
+5	#nobama	#nobama	UH	pos2=FW	1	discourse	_	O
+6	#fail	#fail	UH	pos2=VB	1	discourse	_	O
+7	#incompetent	#incompetent	UH	pos2=ADD	1	discourse	_	O
+8	#golf	#golf	UH	pos2=PRP	1	discourse	_	O
+

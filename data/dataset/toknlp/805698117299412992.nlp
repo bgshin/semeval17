@@ -1,0 +1,12 @@
+1	Minimum	minimum	JJ	pos2=NN	3	nmod	_	O
+2	wage	wage	NN	_	3	compound	_	O
+3	braking	braking	NN	_	0	root	_	O
+4	at	at	IN	_	3	prep	_	O
+5	patriarchal	patriarchal	JJ	pos2=NN	4	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	a	a	DT	_	8	det	_	O
+8	piece	piece	NN	_	6	pobj	_	O
+9	:	:	:	_	3	punct	_	O
+10	vXVMu	vxvmu	ADD	pos2=-LRB-	11	nmod	_	B-CARDINAL
+11	https://t.co/81MXEBMeWh	#hlink#	ADD	_	3	appos	_	L-CARDINAL
+

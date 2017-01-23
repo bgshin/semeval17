@@ -1,0 +1,12 @@
+1	When	when	WRB	_	3	advmod	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	want	want	VBP	_	11	advcl	_	O
+4	to	to	TO	_	5	aux	_	O
+5	make	make	VB	_	3	xcomp	_	O
+6	a	a	DT	_	7	det	_	O
+7	sale	sale	NN	_	5	dobj	_	O
+8	@GingerPammy	@gingerpammy	NNP	pos2=NN	11	nmod	_	B-GPE
+9	#NormanReedus	#normanreedus	GW	pos2=XX	11	nmod	_	L-GPE
+10	#TheWalkingDead	#thewalkingdead	GW	pos2=ADD	11	nmod	_	O
+11	https://t.co/cLR97TtHT5	#hlink#	ADD	pos2=NN	0	root	_	O
+

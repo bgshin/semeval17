@@ -1,0 +1,21 @@
+1	@paulkrugman	@paulkrugman	NN	pos2=UH	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	Mental	mental	NNP	pos2=JJ	5	compound	_	O
+5	Simpleton	simpleton	NNP	pos2=NN	2	attr	_	O
+6	,	,	,	_	2	punct	_	O
+7	albeit	albeit	IN	pos2=CC	2	prep	_	O
+8	with	with	IN	_	7	prep	_	O
+9	a	a	DT	_	10	det	_	O
+10	talent	talent	NN	_	8	pobj	_	O
+11	for	for	IN	_	10	prep	_	O
+12	grammatical	grammatical	JJ	_	13	nmod	_	O
+13	dribble	dribble	NN	_	11	pobj	_	O
+14	,	,	,	_	13	punct	_	O
+15	that	that	WDT	pos2=DT	16	nsubj	_	O
+16	Sucks	suck	VBZ	pos2=NNP	13	relcl	_	O
+17	in	in	IN	_	16	prep	_	O
+18	Morons	moron	NNS	pos2=NNPS	20	poss	_	O
+19	#UniteBlue	#uniteblue	POS	pos2=ADD	18	case	_	O
+20	https://t.co/5uVKzzAhL2	#hlink#	ADD	pos2=NN	17	pobj	_	O
+

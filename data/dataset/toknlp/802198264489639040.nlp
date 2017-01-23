@@ -1,0 +1,26 @@
+1	Relaxing	relax	VBG	pos2=NN	0	root	_	O
+2	in	in	IN	pos2=RP	1	prep	_	O
+3	an	an	DT	_	4	det	_	O
+4	Uber	uber	NNP	_	2	pobj	_	U-ORG
+5	and	and	CC	_	1	cc	_	O
+6	enjoying	enjoy	VBG	_	1	conj	_	O
+7	the	the	DT	_	8	det	_	O
+8	chorus	chorus	NN	_	6	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	festive	festive	JJ	_	12	nmod	_	O
+11	car	car	NN	_	12	compound	_	O
+12	horns	horn	NNS	_	9	pobj	_	O
+13	as	as	IN	_	15	mark	_	O
+14	they	they	PRP	_	15	nsubj	_	O
+15	play	play	VBP	_	6	advcl	_	O
+16	the	the	DT	_	19	det	_	O
+17	rush	rush	NN	_	18	compound	_	O
+18	hour	hour	NN	_	19	compound	_	O
+19	symphony	symphony	NN	pos2=RB	15	dobj	_	O
+20	around	around	IN	pos2=RB	15	prep	_	O
+21	Hammersmith	hammersmith	NNP	_	20	pobj	_	U-GPE
+22	!	!	.	_	1	punct	_	O
+
+1	#commute	#commute	UH	pos2=ADD	2	discourse	_	O
+2	#uber	#uber	UH	pos2=NN	0	root	_	O
+

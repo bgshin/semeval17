@@ -1,0 +1,17 @@
+1	The	the	DT	_	4	det	_	O
+2	latest	late	JJS	_	4	nmod	_	O
+3	Bare	bare	NNP	pos2=JJ	4	compound	_	B-ORG
+4	Thoughts	thought	NNPS	pos2=NNS	0	root	_	L-ORG
+5	that	that	WDT	pos2=DT	6	det	_	O
+6	matter	matter	NN	pos2=VBP	4	relcl	_	O
+7	!!	!!	.	_	4	punct	_	O
+
+1	https://t.co/MXZq1W5RTc	#hlink#	ADD	pos2=NN	8	discourse	_	O
+2	Thanks	thanks	NNS	pos2=NN	1	npadvmod	_	O
+3	to	to	IN	_	2	prep	_	O
+4	@MusePABlog	@musepablog	NNP	pos2=VB	3	pobj	_	U-LANGUAGE
+5	@newpakistan	@newpakistan	UH	pos2=IN	8	discourse	_	O
+6	@maudnewton	@maudnewton	UH	pos2=NNP	8	discourse	_	O
+7	#nodapl	#nodapl	UH	pos2=XX	8	discourse	_	O
+8	#nbawards	#nbawards	UH	pos2=NNS	0	root	_	O
+

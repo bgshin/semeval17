@@ -1,0 +1,16 @@
+1	@cakotz	@cakotz	UH	pos2=SYM	10	discourse	_	O
+2	@AdamWeinstein	@adamweinstein	NN	pos2=POS	4	nmod	_	O
+3	conservative	conservative	JJ	_	4	nmod	_	O
+4	logic	logic	NN	_	10	dep	_	O
+5	:	:	:	pos2=,	10	punct	_	O
+6	fossil	fossil	NN	pos2=JJ	7	compound	_	O
+7	fuels	fuel	NNS	_	10	nsubjpass	_	O
+8	are	be	VBP	_	10	auxpass	_	O
+9	somehow	somehow	RB	_	10	advmod	_	O
+10	created	create	VBN	_	0	root	_	O
+11	on	on	IN	pos2=RB	10	prep	_	O
+12	7,000	0	CD	_	13	nmod	_	B-DATE
+13	year	year	NN	_	14	npadvmod	_	I-DATE
+14	old	old	JJ	_	15	nmod	_	L-DATE
+15	earth	earth	NN	_	11	pobj	_	O
+

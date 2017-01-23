@@ -1,0 +1,22 @@
+1	@sparty130	@sparty0	LS	pos2=UH	4	meta	_	O
+2	@punkdinok	@punkdinok	UH	pos2=VBD	4	discourse	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	type	type	NN	_	4	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	ID	id	NN	pos2=NNP	7	pobj	_	O
+9	&	&	CC	_	8	cc	_	O
+10	accessibility	accessibility	NN	_	8	conj	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	This	this	DT	_	2	nsubj	_	O
+2	helped	help	VBD	_	0	root	_	O
+3	me	me	PRP	_	4	nsubj	_	O
+4	understand	understand	VB	_	2	ccomp	_	O
+5	the	the	DT	_	6	det	_	O
+6	controversy	controversy	NN	_	4	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	suppression	suppression	NN	_	7	pobj	_	O
+9	https://t.co/qJR5SNahbd	#hlink#	ADD	pos2=NN	4	dep	_	O
+

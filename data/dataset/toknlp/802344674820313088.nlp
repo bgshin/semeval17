@@ -1,0 +1,27 @@
+1	House	house	NNP	pos2=NN	3	compound	_	U-ORG
+2	Dem	dem	NN	pos2=NNP	3	compound	_	O
+3	leadership	leadership	NN	_	7	nsubj	_	O
+4	:	:	:	_	7	punct	_	O
+5	#Pelosi	#pelosi	NNP	pos2=NNS	0	root	_	U-ORG
+6	,	,	,	_	5	punct	_	O
+7	76	0	CD	_	5	npadvmod	_	U-CARDINAL
+8	;	;	,	pos2=:	5	punct	_	O
+9	#Hoyer	#hoyer	NN	pos2=NNP	5	appos	_	O
+10	,	,	,	_	9	punct	_	O
+11	77	0	CD	_	9	appos	_	U-CARDINAL
+12	;	;	,	pos2=:	5	punct	_	O
+13	and	and	CC	_	5	cc	_	O
+14	#Clyburn	#clyburn	NNP	pos2=XX	5	conj	_	U-ORG
+15	,	,	,	_	14	punct	_	O
+16	76	0	CD	_	14	appos	_	U-CARDINAL
+17	.	.	.	_	14	punct	_	O
+
+1	Elderly	elderly	JJ	pos2=NNP	2	nmod	_	O
+2	Dems	dems	NNPS	pos2=NNP	4	nsubj	_	U-NORP
+3	also	also	RB	_	4	advmod	_	O
+4	remain	remain	VBP	_	0	root	_	O
+5	atop	atop	IN	pos2=RB	4	prep	_	O
+6	several	several	JJ	_	7	nmod	_	O
+7	commit	commit	NN	pos2=VBP	5	pobj	_	O
+8	teeshttps://t.co/x7WupDUpic	#hlink#	ADD	pos2=NN	4	dep	_	O
+

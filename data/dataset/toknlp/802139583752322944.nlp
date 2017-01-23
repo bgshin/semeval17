@@ -1,0 +1,20 @@
+1	Convinced	convince	VBD	pos2=VBN	0	root	_	O
+2	that	that	IN	pos2=DT	4	mark	_	O
+3	#Hatchimals	#hatchimals	NNS	pos2=NNPS	4	nsubj	_	O
+4	are	be	VBP	_	1	ccomp	_	O
+5	simply	simply	RB	_	6	advmod	_	O
+6	unsold	unsold	JJ	_	7	nmod	_	O
+7	Furbies	furbies	NNPS	pos2=NNS	4	attr	_	O
+8	wrapped	wrap	VBN	pos2=VBD	7	acl	_	O
+9	in	in	IN	_	8	prep	_	O
+10	old	old	JJ	_	11	nmod	_	O
+11	styrofoam	styrofoam	NN	_	9	pobj	_	O
+12	.	.	.	_	1	punct	_	O
+
+1	What	what	WP	_	2	attr	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	your	your	PRP$	_	5	poss	_	O
+4	holiday	holiday	NN	_	5	compound	_	O
+5	#fadremixidea	#fadremixidea	NN	pos2=NNP	2	nsubj	_	O
+6	?	?	.	_	2	punct	_	O
+

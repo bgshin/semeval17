@@ -1,0 +1,13 @@
+1	Anyone	anyone	NN	_	3	nsubj	_	O
+2	else	else	RB	pos2=JJ	1	advmod	_	O
+3	see	see	VB	_	0	root	_	O
+4	Justin	justin	NNP	_	5	compound	_	B-PERSON
+5	Verlander	verlander	NNP	_	6	nsubj	_	L-PERSON
+6	playing	play	VBG	_	3	ccomp	_	O
+7	the	the	DT	_	8	det	_	O
+8	snare	snare	NN	_	6	dobj	_	O
+9	behind	behind	IN	_	6	prep	_	O
+10	Andy	andy	NNP	_	11	compound	_	B-PERSON
+11	Grammer	grammer	NNP	_	9	pobj	_	L-PERSON
+12	?	?	.	_	3	punct	_	O
+

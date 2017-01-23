@@ -1,0 +1,20 @@
+1	New	new	NNP	_	2	compound	_	B-ORG
+2	York	york	NNP	_	3	compound	_	I-ORG
+3	State	state	NNP	_	7	compound	_	I-ORG
+4	Tweaks	tweaks	NNP	pos2=VBZ	7	compound	_	I-ORG
+5	Medical	medical	NNP	pos2=JJ	7	compound	_	I-ORG
+6	Marijuana	marijuana	NNP	_	7	compound	_	I-ORG
+7	Law	law	NNP	_	19	dep	_	L-ORG
+8	,	,	,	_	7	punct	_	O
+9	But	but	CC	_	7	cc	_	O
+10	no	no	DT	_	11	det	_	O
+11	Signs	sign	NNS	pos2=NNPS	7	conj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	Legalization	legalization	NNP	pos2=NN	12	pobj	_	O
+14	Yet	yet	CC	pos2=NNP	7	cc	_	O
+15	|	|	SYM	pos2=,	19	punct	_	O
+16	NBC	nbc	NNP	_	18	compound	_	U-ORG
+17	New	new	NNP	_	18	compound	_	B-GPE
+18	York	york	NNP	pos2=GW	19	dep	_	L-GPE
+19	https://t.co/btWNagjEZC	#hlink#	ADD	_	0	root	_	O
+

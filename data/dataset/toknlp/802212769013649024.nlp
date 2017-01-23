@@ -1,0 +1,16 @@
+1	Obama	obama	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	calls	call	VBZ	_	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	unity	unity	NN	_	3	pobj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	Thanksgiving	thanksgiving	NNP	pos2=GW	7	compound	_	U-DATE
+7	message	message	NN	_	5	pobj	_	O
+8	https://t.co/rabEvYXaQf	#hlink#	ADD	pos2=NN	7	appos	_	O
+9	#Trump2016	#trump0	-RRB-	pos2=NN	2	punct	_	O
+10	#TrumpTrain	#trumptrain	ADD	pos2=NN	15	punct	_	O
+11	#GOP	#gop	XX	pos2=NFP	10	dep	_	O
+12	#ccot	#ccot	UH	pos2=XX	15	dep	_	O
+13	#tcot	#tcot	UH	pos2=XX	15	discourse	_	O
+14	#ThanksTrump	#thankstrump	XX	pos2=UH	15	dep	_	O
+15	#UniteBlue	#uniteblue	ADD	pos2=UH	2	punct	_	O
+

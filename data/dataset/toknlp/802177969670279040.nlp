@@ -1,0 +1,22 @@
+1	Aleix	aleix	NNP	_	2	compound	_	B-PERSON
+2	Vidal	vidal	NNP	_	12	nsubj	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	with	with	IN	_	2	prep	_	O
+5	permission	permission	NN	_	4	pobj	_	O
+6	from	from	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	club	club	NN	_	6	pobj	_	O
+9	,	,	,	_	12	punct	_	O
+10	did	do	VBD	_	12	aux	_	O
+11	not	not	RB	_	12	neg	_	O
+12	train	train	VB	_	0	root	_	O
+13	due	due	IN	_	12	prep	_	O
+14	to	to	IN	_	13	pcomp	_	O
+15	personal	personal	JJ	_	16	nmod	_	O
+16	reasons	reason	NNS	_	13	pobj	_	O
+17	today	today	NN	_	12	npadvmod	_	U-DATE
+18	#fcblive	#fcblive	IN	pos2=CD	12	prep	_	O
+19	[	[	-LRB-	_	20	punct	_	O
+20	fcb	fcb	NN	pos2=NNP	12	parataxis	_	O
+21	]	]	-RRB-	_	20	punct	_	O
+

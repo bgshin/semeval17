@@ -1,0 +1,24 @@
+1	*	*	SYM	_	2	punct	_	O
+2	Watching	watch	VBG	pos2=NN	10	advcl	_	O
+3	HSM**Troy	hsm**troy	NNP	pos2=XX	4	compound	_	O
+4	Bolton	bolton	NNP	_	2	dobj	_	U-PERSON
+5	(	(	-LRB-	_	7	punct	_	O
+6	Zac	zac	NNP	_	7	compound	_	B-PERSON
+7	Efron	efron	NNP	_	4	appos	_	L-PERSON
+8	)	)	-RRB-	_	7	punct	_	O
+9	is	be	VBZ	_	10	aux	_	O
+10	singing	sing	VBG	pos2=NN	0	root	_	O
+11	Hazel	hazel	NNP	_	10	dobj	_	U-PERSON
+12	:	:	:	_	10	punct	_	O
+13	"	"	``	_	10	punct	_	O
+14	OMG	omg	NNP	pos2=NN	16	vocative	_	O
+15	He	he	PRP	pos2=NNP	16	nsubj	_	O
+16	's	's	VBZ	_	10	ccomp	_	O
+17	So	so	RB	_	18	advmod	_	O
+18	Hot	hot	JJ	pos2=NNP	16	acomp	_	O
+19	JUST	just	RB	_	20	advmod	_	O
+20	DO	do	VB	pos2=VBP	16	xcomp	_	O
+21	ME	me	PRP	pos2=NNP	20	dobj	_	O
+22	"	"	''	pos2=``	23	punct	_	O
+23	@hazel_gomez01	@hazel_gomez0	NN	pos2=.	0	root	_	O
+

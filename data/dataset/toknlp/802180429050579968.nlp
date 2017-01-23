@@ -1,0 +1,16 @@
+1	Valentines	valentines	NNP	pos2=NNS	2	compound	_	B-ORG
+2	Waist	waist	NNP	pos2=NN	3	compound	_	I-ORG
+3	Cincher	cincher	NN	pos2=NNP	6	compound	_	I-ORG
+4	Chain	chain	NNP	pos2=NN	6	compound	_	I-ORG
+5	Link	link	NNP	_	6	compound	_	I-ORG
+6	Collar	collar	NNP	_	15	dep	_	L-ORG
+7	,	,	,	_	6	punct	_	O
+8	Cuffs	cuff	NNPS	pos2=NNP	6	conj	_	B-ORG
+9	&	&	CC	_	8	cc	_	I-ORG
+10	Garters	garter	NNS	pos2=NNPS	8	conj	_	I-ORG
+11	Black	black	NNP	pos2=VBP	13	compound	_	I-ORG
+12	Red	red	NNP	pos2=JJ	13	compound	_	I-ORG
+13	Sm	sm	NNP	pos2=GW	15	dep	_	L-ORG
+14	https://t.co/jyUijgoZZJ	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/0woshu0Qvi	#hlink#	ADD	_	0	root	_	U-ORG
+

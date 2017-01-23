@@ -1,0 +1,11 @@
+1	Possible	possible	JJ	_	2	nmod	_	O
+2	lawsuit	lawsuit	NN	_	0	root	_	O
+3	amid	amid	IN	_	2	prep	_	O
+4	new	new	JJ	pos2=VBG	6	nmod	_	O
+5	Texas	texas	NNP	_	6	compound	_	U-GPE
+6	rules	rule	NNS	pos2=VBZ	3	pobj	_	O
+7	over	over	IN	_	6	prep	_	O
+8	fetal	fetal	JJ	_	9	nmod	_	O
+9	remains	remains	NNS	pos2=VBZ	7	pobj	_	O
+10	https://t.co/62Mztq1OuM#abortion	#hlink#	ADD	_	3	pobj	_	O
+

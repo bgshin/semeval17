@@ -1,0 +1,30 @@
+1	Oops	oops	UH	_	4	discourse	_	O
+2	-	-	:	pos2=,	4	punct	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	was	be	VBD	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	matter	matter	NN	_	4	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	time	time	NN	_	7	pobj	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	"	"	``	pos2=''	6	punct	_	O
+2	hackers	hacker	NNS	_	4	nsubj	_	O
+3	have	have	VBP	_	4	aux	_	O
+4	taken	take	VBN	_	0	root	_	O
+5	remote	remote	JJ	_	6	nmod	_	O
+6	control	control	NN	_	4	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	a	a	DT	_	11	det	_	O
+9	Tesla	tesla	NNP	_	11	compound	_	B-ORG
+10	Model	model	NNP	pos2=NN	11	compound	_	I-ORG
+11	S	s	NNP	pos2=POS	7	pobj	_	L-ORG
+12	from	from	IN	_	4	prep	_	O
+13	a	a	DT	_	14	det	_	O
+14	distance	distance	NN	_	12	pobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	12	0	CD	_	15	pobj	_	U-CARDINAL
+17	...	..	.	pos2=,	4	punct	_	O
+
+1	https://t.co/hWp4GdvPhq	#hlink#	ADD	_	0	root	_	U-ORG
+

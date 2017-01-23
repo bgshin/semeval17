@@ -1,0 +1,11 @@
+1	Viendo	viendo	NNP	pos2=NN	4	npadvmod	_	B-WORK_OF_ART
+2	The	the	DT	pos2=NNP	7	det	_	I-WORK_OF_ART
+3	Walking	walk	VBG	pos2=NNP	9	nmod	_	I-WORK_OF_ART
+4	Dead	dead	JJ	pos2=NNP	9	nmod	_	L-WORK_OF_ART
+5	7x02	0x0	NN	pos2=CD	9	dep	_	O
+6	-	-	HYPH	pos2=:	9	punct	_	O
+7	El	el	NNP	pos2=JJ	9	nmod	_	O
+8	pozo	pozo	GW	pos2=FW	9	nmod	_	O
+9	https://t.co/W9lQYye70E	#hlink#	ADD	pos2=FW	0	root	_	O
+10	#TheWalkingDead	#thewalkingdead	-RRB-	pos2=ADD	9	punct	_	U-LANGUAGE
+

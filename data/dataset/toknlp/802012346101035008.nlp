@@ -1,0 +1,18 @@
+1	Scream	scream	VB	pos2=NNP	0	root	_	O
+2	Queens	queens	NNP	pos2=NNS	1	dobj	_	U-GPE
+3	(	(	-LRB-	_	2	punct	_	O
+4	S02E06	s0e0	NN	pos2=NNP	2	appos	_	O
+5	)	)	-RRB-	_	2	punct	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	Watch	watch	VB	pos2=NNP	0	root	_	O
+2	now	now	RB	_	1	advmod	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	😍	😍	SYM	pos2=NFP	4	punct	_	U-ORG
+2	@ScreamQueens	@screamqueens	NNS	pos2=VBZ	4	compound	_	O
+3	@RobertsEmma	@robertsemma	NN	pos2=ADD	4	compound	_	O
+4	#ScreamQueens	#screamqueens	NNS	pos2=VBZ	0	root	_	O
+5	#chenel	#chenel	UH	pos2=VBP	4	discourse	_	O
+6	#bloodshed	#bloodshed	UH	pos2=FW	4	discourse	_	O
+

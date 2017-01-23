@@ -1,0 +1,27 @@
+1	Again	again	RB	_	5	advmod	_	O
+2	Saudi	saudi	JJ	_	3	nmod	_	U-NORP
+3	jets	jet	NNS	_	5	nsubj	_	O
+4	are	be	VBP	_	5	aux	_	O
+5	striking	strike	VBG	pos2=JJ	0	root	_	O
+6	Najran	najran	NNP	_	7	compound	_	U-NORP
+7	skirt	skirt	NN	_	5	dobj	_	O
+8	.	.	.	_	5	punct	_	O
+
+1	Civilians	civilian	NNS	pos2=NNPS	3	nsubj	_	O
+2	can	can	MD	pos2=RB	3	aux	_	O
+3	heard	hear	VBN	pos2=VB	0	root	_	O
+4	&	&	CC	_	3	cc	_	O
+5	watched	watch	VBN	pos2=VBD	3	conj	_	O
+6	the	the	DT	_	7	det	_	O
+7	clashes	clash	NNS	_	5	dobj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	Saudi	saudi	JJ	_	2	nmod	_	U-NORP
+2	media	medium	NNS	pos2=NN	4	nsubj	_	O
+3	still	still	RB	_	4	advmod	_	O
+4	insist	insist	VBP	_	0	root	_	O
+5	it	it	PRP	_	8	nsubj	_	O
+6	'	'	''	pos2=``	4	punct	_	O
+7	…	…	NFP	pos2=:	8	punct	_	O
+8	https://t.co/Nnf4ph18L8	#hlink#	ADD	_	4	ccomp	_	U-ORG
+

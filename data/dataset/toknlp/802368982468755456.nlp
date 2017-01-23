@@ -1,0 +1,21 @@
+1	@gentle_caveman	@gentle_caveman	UH	pos2=ADD	5	discourse	_	O
+2	@serranogd58	@serranogd0	NN	pos2=LS	5	nsubj	_	O
+3	@realDonaldTrump	@realdonaldtrump	MD	pos2=ADD	5	aux	_	O
+4	Don:Please	don:please	NNP	pos2=EX	5	nsubj	_	U-ORG
+5	have	have	VB	pos2=VBP	0	root	_	O
+6	the	the	DT	_	8	det	_	O
+7	Conway	conway	NNP	_	8	compound	_	U-PERSON
+8	girl	girl	NN	_	9	nsubj	_	O
+9	send	send	VB	pos2=VBP	5	ccomp	_	O
+10	this	this	DT	_	9	dobj	_	O
+11	to	to	IN	_	9	prep	_	O
+12	all	all	PDT	pos2=DT	14	predet	_	O
+13	the	the	DT	_	14	det	_	O
+14	deplorables	deplorables	NNS	pos2=NN	11	pobj	_	O
+15	that	that	WDT	pos2=DT	16	nsubj	_	O
+16	voted	vote	VBD	_	14	relcl	_	O
+17	for	for	IN	_	16	prep	_	O
+18	the	the	DT	_	20	det	_	O
+19	2016	0	CD	_	20	nmod	_	U-DATE
+20	scam	scam	NN	_	17	pobj	_	O
+

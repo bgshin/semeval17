@@ -1,0 +1,16 @@
+1	@FoxNewsInsider	@foxnewsinsider	NN	pos2=ADD	0	root	_	O
+2	@GovMikeHuckabee	@govmikehuckabee	ADD	pos2=XX	1	punct	_	O
+3	@foxandfriends	@foxandfriends	UH	pos2=NNS	1	discourse	_	O
+4	@SteveDoocy	@stevedoocy	ADD	pos2=NN	1	punct	_	O
+5	@kilmeade	@kilmeade	UH	pos2=PRP	4	discourse	_	O
+6	@ainsleyearhardt	@ainsleyearhardt	UH	pos2=NNP	4	pobj	_	O
+7	Next	next	RB	pos2=NNP	6	advmod	_	O
+8	up	up	IN	pos2=RP	7	prep	_	O
+9	no	no	DT	_	10	det	_	O
+10	wall	wall	NN	_	8	pobj	_	O
+11	on	on	IN	_	10	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	Mexican	mexican	JJ	pos2=NNP	14	nmod	_	U-NORP
+14	border	border	NN	_	11	pobj	_	O
+15	.	.	.	_	1	punct	_	O
+

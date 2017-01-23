@@ -1,0 +1,20 @@
+1	Super-simple	super-simple	JJ	pos2=SYM	8	nmod	_	O
+2	Google	google	NNP	_	4	compound	_	O
+3	Earth	earth	NNP	_	4	compound	_	O
+4	VR	vr	NNP	pos2=NN	8	nmod	_	O
+5	"	"	``	pos2=''	8	punct	_	O
+6	tour	tour	NN	pos2=VB	8	nmod	_	O
+7	"	"	''	_	8	punct	_	O
+8	generator	generator	NN	_	19	dep	_	O
+9	,	,	,	_	19	punct	_	O
+10	for	for	IN	_	19	prep	_	O
+11	marking	mark	VBG	_	10	pcomp	_	O
+12	locations	location	NNS	_	11	dobj	_	O
+13	into	into	IN	_	11	prep	_	O
+14	GEVR	gevr	NN	pos2=NNP	13	pobj	_	O
+15	before	before	IN	_	19	dep	_	O
+16	you	you	PRP	_	15	pobj	_	O
+17	…	…	NFP	pos2=VBP	19	punct	_	O
+18	https://t.co/Ma6D9FxPAF	#hlink#	ADD	_	19	nmod	_	O
+19	https://t.co/AT465nCaiz	#hlink#	ADD	_	0	root	_	U-ORG
+

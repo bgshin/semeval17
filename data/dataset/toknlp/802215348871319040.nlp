@@ -1,0 +1,11 @@
+1	😑Ellison	😑ellison	NN	pos2=NNP	2	compound	_	O
+2	swings	swing	NNS	pos2=VBZ	10	dep	_	O
+3	at	at	IN	_	2	prep	_	O
+4	Trump	trump	NNP	pos2=NN	3	pobj	_	U-ORG
+5	in	in	IN	_	2	prep	_	O
+6	Thanksgiving	thanksgiving	NNP	_	7	compound	_	U-DATE
+7	tweets	tweet	NNS	_	5	pobj	_	O
+8	|	|	,	pos2=SYM	10	punct	_	O
+9	TheHill	thehill	NNP	pos2=NFP	10	nmod	_	U-PERSON
+10	https://t.co/5wxa7bcXBN	#hlink#	ADD	_	0	root	_	O
+

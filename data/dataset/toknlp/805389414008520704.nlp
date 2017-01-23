@@ -1,0 +1,25 @@
+1	@TheDudeofNC	@thedudeofnc	ADD	pos2=XX	0	root	_	O
+2	@dmgmater64	@dmgmater0	NN	pos2=LS	5	poss	_	O
+3	@chrgdup1973	@chrgdup0	POS	pos2=DT	2	case	_	O
+4	same	same	JJ	_	5	nmod	_	O
+5	places	place	NNS	_	1	dobj	_	O
+6	Trump	trump	NNP	_	7	nsubj	_	U-ORG
+7	has	have	VBZ	_	5	relcl	_	O
+8	businesses	business	NNS	_	7	dobj	_	O
+9	in	in	IN	pos2=RP	11	advmod	_	O
+10	as	as	RB	_	11	advmod	_	O
+11	well	well	RB	_	7	advmod	_	O
+12	.	.	.	_	1	punct	_	O
+
+1	Actually	actually	RB	_	2	advmod	_	O
+2	worse	bad	JJR	_	3	nmod	_	O
+3	places	place	NNS	_	0	root	_	O
+4	as	as	RB	_	5	advmod	_	O
+5	well	well	RB	_	3	advmod	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	Like	like	IN	pos2=UH	0	root	_	O
+2	breaking	break	VBG	_	1	pcomp	_	O
+3	Cuba	cuba	NNP	_	4	compound	_	U-GPE
+4	embargo	embargo	NN	pos2=NNP	2	dobj	_	O
+

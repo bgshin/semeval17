@@ -1,0 +1,17 @@
+1	@a_zionist	@a_zionist	UH	pos2=VB	0	root	_	O
+2	@LoriLMarcus	@lorilmarcus	UH	pos2=NN	1	discourse	_	O
+3	...	..	.	pos2=,	1	punct	_	O
+
+1	and	and	CC	_	4	cc	_	O
+2	by	by	IN	_	0	root	_	O
+3	"	"	``	_	5	punct	_	O
+4	genocidal	genocidal	JJ	_	5	nmod	_	O
+5	antisemites	antisemites	NNS	_	2	pobj	_	O
+6	"	"	''	_	5	punct	_	O
+7	you	you	PRP	_	8	nsubj	_	O
+8	mean	mean	VBP	pos2=VB	5	parataxis	_	O
+9	Steve	steve	NNP	_	10	compound	_	B-PERSON
+10	Bannon	bannon	NNP	_	5	appos	_	L-PERSON
+11	,	,	,	_	10	punct	_	O
+12	right?#NotMyPresident	right?#notmypresident	NNP	pos2=JJ	10	npadvmod	_	U-GPE
+

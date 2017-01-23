@@ -1,0 +1,29 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	find	find	VBP	_	0	root	_	O
+3	myself	myself	PRP	_	4	nsubj	_	O
+4	taking	take	VBG	_	2	ccomp	_	O
+5	stock	stock	NN	_	4	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	issues	issue	NNS	_	6	pobj	_	O
+9	I	I	PRP	pos2=WDT	10	nsubj	_	O
+10	care	care	VBP	_	8	relcl	_	O
+11	about	about	IN	_	10	prep	_	O
+12	most	most	RBS	pos2=JJS	10	advmod	_	O
+13	and	and	CC	_	10	cc	_	O
+14	hope	hope	VBP	pos2=VB	10	conj	_	O
+15	to	to	TO	_	16	aux	_	O
+16	direct	direct	VB	_	14	xcomp	_	O
+17	my	my	PRP$	_	18	poss	_	O
+18	efforts	effort	NNS	_	16	dobj	_	O
+19	there	there	RB	_	16	advmod	_	O
+20	.	.	.	_	2	punct	_	O
+
+1	In	in	IN	_	6	prep	_	O
+2	that	that	DT	_	3	det	_	O
+3	sense	sense	NN	_	1	pobj	_	O
+4	,	,	,	_	6	punct	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	'm	be	VBP	_	0	root	_	O
+7	#StillWithHer	#stillwithher	JJ	pos2=JJR	6	acomp	_	O
+

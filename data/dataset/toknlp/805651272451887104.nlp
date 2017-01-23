@@ -1,0 +1,22 @@
+1	@TheOGPhrosty2	@theogphrosty0	NN	pos2=NNS	18	discourse	_	O
+2	@trecism	@trecism	UH	pos2=NN	1	discourse	_	O
+3	@TuckerItaliano	@tuckeritaliano	UH	pos2=VBP	1	discourse	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	act	act	VBP	pos2=VB	1	ccomp	_	O
+6	like	like	IN	pos2=UH	9	mark	_	O
+7	they	they	PRP	_	9	nsubj	_	O
+8	are	be	VBP	_	9	aux	_	O
+9	going	go	VBG	_	5	advcl	_	O
+10	to	to	TO	_	11	aux	_	O
+11	give	give	VB	_	9	xcomp	_	O
+12	us	us	PRP	_	11	dative	_	O
+13	the	the	DT	_	15	det	_	O
+14	death	death	NN	_	15	compound	_	O
+15	penalty	penalty	NN	_	11	dobj	_	O
+16	so	so	RB	pos2=IN	18	advmod	_	O
+17	there	there	EX	pos2=RB	18	expl	_	O
+18	is	be	VBZ	_	0	root	_	O
+19	a	a	DT	_	21	det	_	O
+20	middle	middle	JJ	_	21	nmod	_	O
+21	ground	ground	NN	_	18	attr	_	O
+

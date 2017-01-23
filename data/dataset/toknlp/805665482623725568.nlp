@@ -1,0 +1,13 @@
+1	if	if	IN	_	6	mark	_	O
+2	u	u	PRP	pos2=NNS	6	nsubj	_	O
+3	have	have	VBP	_	6	aux	_	O
+4	n't	not	RB	_	6	neg	_	O
+5	been	be	VBN	_	6	aux	_	O
+6	watching	watch	VBG	_	10	advcl	_	O
+7	WestWorld	westworld	NNP	_	6	dobj	_	U-ORG
+8	,	,	,	_	10	punct	_	O
+9	u	u	PRP	pos2=MD	10	nsubj	_	O
+10	need	need	VBP	pos2=NN	0	root	_	O
+11	to	to	TO	pos2=XX	10	xcomp	_	O
+12	!	!	.	_	10	punct	_	O
+

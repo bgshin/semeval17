@@ -1,0 +1,11 @@
+1	https://t.co/D6dEG6MENb	#hlink#	ADD	pos2=NN	10	dep	_	O
+2	:	:	:	_	10	punct	_	O
+3	Top	top	JJ	_	9	nmod	_	O
+4	shelf	shelf	NN	pos2=CD	6	nmod	_	O
+5	medical	medical	JJ	_	6	nmod	_	O
+6	marijuana	marijuana	NN	_	9	nmod	_	O
+7	indoor	indoor	JJ	_	8	nmod	_	O
+8	grade	grade	NN	_	9	compound	_	O
+9	AA	aa	NN	_	10	nsubj	_	O
+10	available	available	JJ	_	0	root	_	O
+

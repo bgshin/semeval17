@@ -1,0 +1,18 @@
+1	"	"	``	_	17	punct	_	O
+2	EU	eu	NN	pos2=NNP	4	nsubj	_	O
+3	to	to	TO	_	4	aux	_	O
+4	promote	promote	VB	_	0	root	_	O
+5	fast	fast	JJ	_	6	nmod	_	O
+6	introduction	introduction	NN	_	4	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	trade	trade	NN	_	9	compound	_	O
+9	preferences	preference	NNS	_	7	pobj	_	O
+10	for	for	IN	_	9	prep	_	O
+11	Ukrainian	ukrainian	JJ	_	12	nmod	_	U-NORP
+12	government	government	NN	_	10	pobj	_	O
+13	,	,	,	_	17	punct	_	O
+14	"	"	''	_	17	punct	_	O
+15	-	-	,	pos2=GW	17	punct	_	O
+16	@poroshenko	@poroshenko	GW	pos2=-LRB-	17	nmod	_	O
+17	https://t.co/C2gIMNUMCs	#hlink#	ADD	pos2=NN	0	root	_	O
+

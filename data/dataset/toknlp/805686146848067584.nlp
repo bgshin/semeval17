@@ -1,0 +1,20 @@
+1	Join	join	VB	_	0	root	_	O
+2	me	me	PRP	_	1	dobj	_	O
+3	in	in	IN	pos2=RP	1	prep	_	O
+4	ridding	rid	VBG	_	3	pcomp	_	O
+5	your	your	PRP$	_	6	poss	_	O
+6	house	house	NN	_	4	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	#methane	#methane	``	pos2=XX	9	punct	_	O
+9	producing	produce	VBG	_	7	pcomp	_	O
+10	gas	gas	NN	_	9	dobj	_	O
+11	We	we	PRP	_	14	nsubj	_	O
+12	do	do	VBP	_	14	aux	_	O
+13	n't	not	RB	_	14	neg	_	O
+14	need	need	VB	_	1	advcl	_	O
+15	#fracking	#fracking	VBG	pos2=NNP	14	xcomp	_	O
+16	Seek	seek	VB	pos2=NNP	14	advcl	_	O
+17	@EnergyFreedomAU	@energyfreedomau	NN	pos2=NNS	16	dobj	_	O
+18	from	from	IN	_	16	prep	_	O
+19	@beyondzeronews	@beyondzeronews	NNS	pos2=NNP	18	pobj	_	O
+

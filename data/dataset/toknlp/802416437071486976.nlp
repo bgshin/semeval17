@@ -1,0 +1,16 @@
+1	"	"	``	pos2=SYM	4	punct	_	O
+2	Samsung	samsung	NNP	_	3	compound	_	B-ORG
+3	Galaxy	galaxy	NNP	_	4	compound	_	L-ORG
+4	Note	note	NN	pos2=NNP	8	nsubjpass	_	O
+5	7	0	CD	_	4	nmod	_	U-CARDINAL
+6	are	be	VBP	_	8	auxpass	_	O
+7	not	not	RB	_	8	neg	_	O
+8	allowed	allow	VBN	_	0	root	_	O
+9	in	in	IN	_	8	prep	_	O
+10	all	all	DT	_	12	det	_	O
+11	AirAsia	airasia	NNP	_	12	compound	_	U-ORG
+12	flight	flight	NN	_	9	pobj	_	O
+13	"	"	''	pos2=``	8	punct	_	O
+14	😂😂	😂😂	NFP	pos2=NN	8	discourse	_	O
+15	apakah	apakah	NN	pos2=UH	8	advmod	_	O
+

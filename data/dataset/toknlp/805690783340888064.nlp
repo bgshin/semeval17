@@ -1,0 +1,18 @@
+1	"	"	``	_	6	punct	_	O
+2	You	you	PRP	_	5	nsubj	_	O
+3	Ca	can	MD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	Achieve	achieve	VB	_	0	root	_	B-WORK_OF_ART
+6	Million	#crd#	NNP	pos2=CD	7	compound	_	I-WORK_OF_ART
+7	Dollar	dollar	NNP	_	8	compound	_	I-WORK_OF_ART
+8	Dreams	dream	NNPS	pos2=NNP	5	dobj	_	I-WORK_OF_ART
+9	With	with	IN	_	5	prep	_	I-WORK_OF_ART
+10	Minimum	minimum	NNP	pos2=JJ	13	compound	_	I-WORK_OF_ART
+11	Wage	wage	NNP	pos2=NN	13	compound	_	I-WORK_OF_ART
+12	Work	work	NNP	pos2=NN	13	compound	_	I-WORK_OF_ART
+13	Ethic	ethic	NNP	pos2=NN	9	pobj	_	I-WORK_OF_ART
+14	"	"	''	pos2=``	13	punct	_	L-WORK_OF_ART
+15	~	~	SYM	pos2=-LRB-	17	punct	_	O
+16	real	real	JJ	pos2=RB	17	nmod	_	O
+17	talk	talk	NN	_	5	dobj	_	O
+

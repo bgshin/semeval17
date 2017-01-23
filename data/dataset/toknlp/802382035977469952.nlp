@@ -1,0 +1,23 @@
+1	No	no	RB	pos2=DT	2	neg	_	O
+2	matter	matter	RB	pos2=NN	4	advmod	_	O
+3	who	who	WP	_	4	nsubj	_	O
+4	sits	sit	VBZ	_	0	root	_	O
+5	on	on	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	throne	throne	NN	_	5	pobj	_	O
+8	,	,	,	_	11	punct	_	O
+9	the	the	DT	_	11	det	_	O
+10	#ShadowGovernment	#shadowgovernment	NN	pos2=NNP	11	compound	_	O
+11	rules	rule	NNS	_	4	nsubj	_	O
+12	:	:	:	_	13	punct	_	O
+13	https://t.co/oIW5Js7Iik	#hlink#	ADD	pos2=NN	11	appos	_	O
+14	#Trump	#trump	-RRB-	pos2=XX	13	punct	_	O
+15	picks	pick	VBZ	pos2=NNS	4	advcl	_	O
+16	#CFR	#cfr	NN	pos2=$	15	dobj	_	B-PERCENT
+17	#Hawk	#hawk	NNP	pos2=POS	19	poss	_	L-PERCENT
+18	#Kissinger	#kissinger	JJR	pos2=NNP	19	nmod	_	O
+19	aide	aide	NN	_	15	npadvmod	_	O
+20	to	to	IN	pos2=TO	19	prep	_	O
+21	cabinet	cabinet	NN	pos2=VB	20	pobj	_	O
+22	.	.	.	_	4	punct	_	O
+

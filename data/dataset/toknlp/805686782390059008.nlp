@@ -1,0 +1,19 @@
+1	@SeamasBelfast	@seamasbelfast	ADD	pos2=XX	6	dep	_	O
+2	@MartinMcAuley	@martinmcauley	XX	pos2=ADD	6	dep	_	O
+3	@columeastwood	@columeastwood	UH	pos2=NN	6	discourse	_	O
+4	Like	like	UH	pos2=IN	6	discourse	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	did	do	VBD	_	0	root	_	O
+7	when	when	WRB	_	10	advmod	_	O
+8	you	you	PRP	_	10	nsubj	_	O
+9	were	be	VBD	_	10	aux	_	O
+10	campaigning	campaign	VBG	_	6	advcl	_	O
+11	for	for	IN	_	10	prep	_	O
+12	someone	someone	NN	_	11	pobj	_	O
+13	who	who	WP	_	14	nsubj	_	O
+14	supports	support	VBZ	_	12	relcl	_	O
+15	the	the	DT	_	17	det	_	O
+16	death	death	NN	_	17	compound	_	O
+17	penalty	penalty	NN	_	14	dobj	_	O
+18	?	?	.	_	6	punct	_	O
+

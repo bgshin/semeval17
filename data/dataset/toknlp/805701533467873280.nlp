@@ -1,0 +1,32 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	based	base	VBD	pos2=VBP	0	root	_	O
+3	our	our	PRP$	_	4	poss	_	O
+4	society	society	NN	_	2	dobj	_	O
+5	on	on	IN	_	2	prep	_	O
+6	fossil	fossil	NN	pos2=JJ	7	compound	_	O
+7	fuels	fuel	NNS	_	5	pobj	_	O
+8	,	,	,	_	2	punct	_	O
+9	but	but	CC	_	2	cc	_	O
+10	to	to	TO	_	11	aux	_	O
+11	assume	assume	VB	_	2	conj	_	O
+12	that	that	IN	pos2=DT	15	mark	_	O
+13	fossil	fossil	NN	pos2=JJ	14	compound	_	O
+14	fuels	fuel	NNS	_	15	nsubj	_	O
+15	are	be	VBP	_	11	ccomp	_	O
+16	the	the	DT	_	19	det	_	O
+17	only	only	JJ	_	19	nmod	_	O
+18	useful	useful	JJ	_	19	nmod	_	O
+19	form	form	NN	_	15	attr	_	O
+20	of	of	IN	_	19	prep	_	O
+21	energy	energy	NN	_	20	pobj	_	O
+22	?	?	.	_	2	punct	_	O
+
+1	Please	please	UH	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	We	we	PRP	_	4	nsubj	_	O
+2	can	can	MD	_	4	aux	_	O
+3	fucking	fuck	VBG	pos2=JJ	4	nmod	_	O
+4	fly	fly	NN	pos2=VB	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+

@@ -1,0 +1,23 @@
+1	This	this	DT	_	3	det	_	O
+2	NASTY	nasty	JJ	_	3	nmod	_	O
+3	woman	woman	NN	_	5	nsubj	_	O
+4	is	be	VBZ	_	5	aux	_	O
+5	making	make	VBG	_	0	root	_	O
+6	her	her	PRP$	_	8	poss	_	O
+7	turkey	turkey	NN	pos2=JJ	8	compound	_	O
+8	taste	taste	NN	pos2=VBP	5	dobj	_	O
+9	GREAT	great	JJ	pos2=RB	8	acomp	_	O
+10	with	with	IN	_	9	prep	_	O
+11	the	the	DT	_	13	det	_	O
+12	side	side	NN	pos2=JJ	13	compound	_	O
+13	TACOS	taco	NNS	pos2=NN	10	pobj	_	O
+14	for	for	IN	_	13	prep	_	O
+15	d	d	JJ	pos2=NN	17	nmod	_	O
+16	BAD	bad	JJ	_	17	nmod	_	O
+17	HOMBRES	hombre	NNS	pos2=NNP	14	pobj	_	O
+18	!	!	.	_	5	punct	_	O
+
+1	Si	si	NN	pos2=UH	3	nmod	_	O
+2	señorHappyThanksgiving😘	señorhappythanksgiving😘	GW	pos2=-LRB-	3	nmod	_	O
+3	https://t.co/qBtjvGIE0G	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,17 @@
+1	Kate	kate	NNP	_	2	compound	_	B-PERSON
+2	Upton	upton	NNP	_	3	nsubj	_	L-PERSON
+3	clarifies	clarify	VBZ	_	0	root	_	O
+4	her	her	PRP$	pos2=PRP	8	poss	_	O
+5	NSFW	nsfw	NNP	pos2=NN	7	compound	_	O
+6	Cy	cy	NNP	pos2=NN	7	compound	_	O
+7	Young	young	NNP	pos2=JJ	8	compound	_	O
+8	rant	rant	NN	_	3	dobj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	rails	rail	NNS	_	8	conj	_	O
+11	against	against	IN	_	3	prep	_	O
+12	early	early	JJ	pos2=RB	13	nmod	_	O
+13	voting	voting	NN	pos2=VBG	11	pobj	_	O
+14	https://t.co/GXqHs2qmXn	#hlink#	ADD	pos2=NN	11	pobj	_	U-ORG
+15	via	via	IN	_	3	prep	_	O
+16	@forthewin	@forthewin	NN	pos2=.	15	pobj	_	O
+

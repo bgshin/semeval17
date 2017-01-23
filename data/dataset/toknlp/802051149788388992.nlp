@@ -1,0 +1,26 @@
+1	Congratulations	congratulation	NNS	_	2	nsubj	_	O
+2	@ricky_martin	@ricky_martin	VBP	pos2=VBN	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	engagement	engagement	NN	_	3	pobj	_	O
+5	to	to	IN	_	2	prep	_	O
+6	Jwan	jwan	NNP	_	5	pobj	_	U-GPE
+7	.	.	.	_	2	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	kindest	kind	JJS	_	7	nmod	_	O
+4	,	,	,	_	7	punct	_	O
+5	most	most	RBS	_	6	advmod	_	O
+6	generous	generous	JJ	_	7	nmod	_	O
+7	soul	soul	NN	_	2	attr	_	O
+8	&	&	CC	_	2	cc	_	O
+9	I	I	PRP	_	10	nsubj	_	O
+10	'm	be	VBP	_	2	conj	_	O
+11	so	so	RB	_	12	advmod	_	O
+12	happy	happy	JJ	_	10	acomp	_	O
+13	for	for	IN	_	12	prep	_	O
+14	your	your	PRP$	_	15	poss	_	O
+15	h	h	NN	pos2=NNS	13	pobj	_	O
+16	…	…	NFP	pos2=,	17	punct	_	O
+17	https://t.co/DFLyWqFC1C	#hlink#	ADD	_	10	npadvmod	_	O
+

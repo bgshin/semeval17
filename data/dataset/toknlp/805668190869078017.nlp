@@ -1,0 +1,20 @@
+1	"	"	``	pos2=''	3	punct	_	O
+2	who	who	WP	_	3	attr	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	the	the	DT	_	9	det	_	O
+5	most	most	RBS	_	6	advmod	_	O
+6	wiped	wipe	VBN	pos2=JJ	9	nmod	_	O
+7	out	out	RP	pos2=JJ	6	prt	_	O
+8	white	white	JJ	_	9	nmod	_	O
+9	boy	boy	NN	_	3	nsubj	_	O
+10	?	?	.	_	3	punct	_	O
+
+1	Zac	zac	NNP	_	2	compound	_	B-PERSON
+2	Efron	efron	NNP	_	0	root	_	L-PERSON
+3	!	!	.	_	2	punct	_	O
+
+1	Zac	zac	NNP	_	2	compound	_	B-PERSON
+2	Efron	efron	NNP	_	0	root	_	L-PERSON
+3	!	!	.	_	2	punct	_	O
+4	"	"	''	_	2	punct	_	O
+

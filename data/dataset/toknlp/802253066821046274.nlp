@@ -1,0 +1,24 @@
+1	#Driverlesscars	#driverlesscars	NNS	pos2=NNP	4	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	#VR	#vr	NN	pos2=EX	1	conj	_	O
+4	are	be	VBP	_	18	ccomp	_	O
+5	two	#crd#	CD	_	4	attr	_	U-CARDINAL
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	world	world	NN	_	12	poss	_	O
+9	’s	's	POS	pos2=VBZ	8	case	_	O
+10	big	big	JJ	_	12	nmod	_	O
+11	#tech	#tech	NN	pos2=JJ	12	compound	_	O
+12	trends	trend	NNS	_	6	pobj	_	O
+13	;	;	,	pos2=:	18	punct	_	O
+14	now	now	RB	_	18	advmod	_	O
+15	one	#crd#	CD	_	18	nsubjpass	_	U-CARDINAL
+16	is	be	VBZ	_	18	aux	_	O
+17	being	be	VBG	_	18	auxpass	_	O
+18	used	use	VBN	_	0	root	_	O
+19	against	against	IN	_	18	prep	_	O
+20	the	the	DT	_	21	det	_	O
+21	other	other	JJ	_	19	pobj	_	O
+22	:	:	:	_	18	punct	_	O
+23	https://t.co/uyTMhu4RK6	#hlink#	ADD	pos2=NN	18	dep	_	O
+

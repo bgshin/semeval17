@@ -1,0 +1,15 @@
+1	📊	📊	SYM	pos2=LS	3	punct	_	O
+2	LATEST	late	JJS	_	3	nmod	_	O
+3	NEWS	news	NN	_	0	root	_	O
+4	11/25/2016	0	CD	_	3	npadvmod	_	U-CARDINAL
+5	🗽	🗽	IN	pos2=VBD	3	prep	_	O
+6	New	new	JJ	pos2=NNP	7	nmod	_	O
+7	Developments	development	NNS	pos2=NNPS	5	pobj	_	O
+8	On	on	IN	_	7	prep	_	O
+9	Trump	trump	NNP	pos2=NN	10	compound	_	B-ORG
+10	Transition	transition	NNP	pos2=NN	8	pobj	_	L-ORG
+11	:	:	:	_	3	punct	_	O
+12	https://t.co/CDiVcz77yc	#hlink#	ADD	_	3	appos	_	O
+13	via	via	IN	_	3	prep	_	O
+14	@YouTube	@youtube	NNP	pos2=NN	13	pobj	_	O
+

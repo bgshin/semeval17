@@ -1,0 +1,17 @@
+1	House	house	NNP	pos2=NN	3	compound	_	U-ORG
+2	Conservatives	conservative	NNPS	pos2=NNS	3	compound	_	O
+3	Signal	signal	NNP	pos2=VBP	5	compound	_	O
+4	Donald	donald	NNP	_	5	compound	_	B-PERSON
+5	Trump	trump	NNP	_	8	nsubj	_	L-PERSON
+6	Wo	wo	MD	pos2=NNP	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	Have	have	VB	_	0	root	_	O
+9	A	a	DT	pos2=NNP	11	det	_	O
+10	Blank	blank	JJ	pos2=NNP	11	nmod	_	O
+11	Check	check	NNP	pos2=VB	8	dobj	_	O
+12	|	|	SYM	pos2=:	16	punct	_	O
+13	The	the	DT	pos2=NNP	15	det	_	B-ORG
+14	Huffington	huffington	NNP	_	15	compound	_	I-ORG
+15	Post	post	NNP	pos2=GW	16	nmod	_	L-ORG
+16	https://t.co/IU3VbBeRcf	#hlink#	ADD	_	11	appos	_	O
+

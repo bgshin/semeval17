@@ -1,0 +1,21 @@
+1	#Palestinian	#palestinian	NNP	pos2=JJ	2	compound	_	U-ORG
+2	ministry	ministry	NN	_	5	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	health	health	NN	pos2=NNP	3	pobj	_	O
+5	announces	announce	VBZ	pos2=CC	0	root	_	O
+6	death	death	NN	_	5	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	man	man	NN	_	7	pobj	_	O
+9	shot	shoot	VBN	pos2=VBD	8	acl	_	O
+10	earlier	early	RBR	pos2=JJR	9	advmod	_	O
+11	by	by	IN	_	9	agent	_	O
+12	#IsraeliForces	#israeliforces	NNS	pos2=NNPS	11	pobj	_	O
+13	in	in	IN	_	12	prep	_	O
+14	Shuafat	shuafat	NNP	_	16	poss	_	U-GPE
+15	#refugee	#refugee	POS	pos2=CD	14	case	_	O
+16	camp	camp	NN	_	13	pobj	_	O
+17	,	,	,	_	20	punct	_	O
+18	illegaly	illegaly	RB	pos2=JJ	19	advmod	_	O
+19	annexxed	annex	VBN	pos2=VBD	20	nmod	_	O
+20	#Jerusalem	#jerusalem	NNP	pos2=PRP	0	root	_	U-ORG
+

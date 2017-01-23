@@ -1,0 +1,14 @@
+1	Using	use	VBG	_	6	csubj	_	O
+2	#homeopathy	#homeopathy	NN	pos2=PRP	1	dobj	_	O
+3	to	to	TO	_	4	aux	_	O
+4	heal	heal	VB	_	1	xcomp	_	O
+5	#PneumoniaInDogs	#pneumoniaindogs	NNS	pos2=NNP	4	dobj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	quick	quick	JJ	_	6	acomp	_	O
+8	&	&	CC	_	7	cc	_	O
+9	economical	economical	JJ	_	7	conj	_	O
+10	https://t.co/LgEY0DiuEh	#hlink#	ADD	pos2=NN	13	nmod	_	O
+11	#NaturalDogs	#naturaldogs	NNS	pos2=GW	13	nmod	_	O
+12	#HolisticDogs	#holisticdogs	ADD	pos2=NNS	13	punct	_	O
+13	https://t.co/atX3REfLUD	#hlink#	ADD	_	6	dep	_	O
+

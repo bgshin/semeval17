@@ -1,0 +1,28 @@
+1	Needed	need	VBD	pos2=VBN	0	root	_	O
+2	only	only	RB	_	5	advmod	_	B-MONEY
+3	$	$	$	_	5	qmod	_	I-MONEY
+4	7	0	CD	_	5	compound	_	I-MONEY
+5	M	m	CD	pos2=NN	1	dobj	_	L-MONEY
+6	to	to	TO	_	7	aux	_	O
+7	give	give	VB	_	1	xcomp	_	O
+8	Hillary	hillary	NNP	_	7	dative	_	U-PERSON
+9	a	a	DT	_	10	det	_	O
+10	chance	chance	NN	_	7	dobj	_	O
+11	-	-	HYPH	pos2=:	12	punct	_	O
+12	only	only	RB	_	13	advmod	_	O
+13	managed	manage	VBD	pos2=VBN	10	acl	_	O
+14	$	$	$	_	16	qmod	_	B-MONEY
+15	4.7	0	CD	_	16	compound	_	I-MONEY
+16	M	m	CD	pos2=NNP	13	dobj	_	L-MONEY
+17	.	.	.	_	1	punct	_	O
+
+1	So	so	RB	_	4	advmod	_	O
+2	sorry	sorry	UH	pos2=JJ	4	discourse	_	O
+3	,	,	,	_	4	punct	_	O
+4	thanks	thanks	NNS	pos2=NN	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	playing.#Recount2016	playing.#recount0	NN	pos2=NNS	5	pobj	_	U-DATE
+7	#VoteRecount	#voterecount	ADD	pos2=NN	4	prep	_	U-PERSON
+8	#StillWithHer	#stillwithher	ADD	pos2=IN	4	prep	_	O
+9	#MAGA	#maga	NN	pos2=ADD	4	advmod	_	O
+

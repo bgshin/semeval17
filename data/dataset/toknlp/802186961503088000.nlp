@@ -1,0 +1,27 @@
+1	Each	each	DT	_	6	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	the	the	DT	_	5	det	_	O
+4	Trump	trump	NNP	pos2=NN	5	compound	_	U-ORG
+5	appointees	appointee	NNS	pos2=NNPS	2	pobj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	awful	awful	JJ	_	6	acomp	_	O
+8	,	,	,	_	6	punct	_	O
+9	but	but	CC	_	6	cc	_	O
+10	in	in	IN	_	7	conj	_	O
+11	specific	specific	JJ	_	12	nmod	_	O
+12	ways	way	NNS	_	10	pobj	_	O
+13	.	.	.	_	6	punct	_	O
+
+1	Let	let	VB	_	0	root	_	O
+2	's	's	PRP	_	3	nsubj	_	O
+3	learn	learn	VB	_	1	ccomp	_	O
+4	about	about	IN	_	3	prep	_	O
+5	Ben	ben	NNP	_	6	compound	_	B-PERSON
+6	Carson	carson	NNP	_	10	poss	_	I-PERSON
+7	's	's	POS	_	6	case	_	L-PERSON
+8	anti-affordable	anti-affordable	JJ	pos2=NN	10	nmod	_	O
+9	-	-	HYPH	_	10	punct	_	O
+10	housing	housing	NN	_	4	pobj	_	O
+11	…	…	NFP	pos2=NNS	12	punct	_	O
+12	https://t.co/0T98SBxw8A	#hlink#	ADD	pos2=NN	10	appos	_	O
+

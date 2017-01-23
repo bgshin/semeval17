@@ -1,0 +1,12 @@
+1	Why	why	WRB	_	7	advmod	_	O
+2	some	some	DT	_	4	det	_	O
+3	Jewish	jewish	JJ	_	4	nmod	_	U-NORP
+4	groups	group	NNS	_	7	nsubj	_	O
+5	wo	wo	MD	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	denounce	denounce	VB	_	0	root	_	O
+8	Steve	steve	NNP	_	9	compound	_	B-PERSON
+9	Bannon	bannon	NNP	_	10	compound	_	L-PERSON
+10	appointment	appointment	NN	pos2=GW	7	dobj	_	O
+11	https://t.co/Z9VIbeGWdE	#hlink#	ADD	_	7	dep	_	O
+

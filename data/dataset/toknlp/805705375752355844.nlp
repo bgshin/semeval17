@@ -1,0 +1,18 @@
+1	Hook	hook	NN	pos2=NNP	0	root	_	O
+2	,	,	,	_	1	punct	_	O
+3	line	line	NN	_	1	conj	_	O
+4	and	and	CC	_	3	cc	_	O
+5	sinker	sinker	NN	_	3	conj	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	Scottish	scottish	JJ	pos2=NNP	2	nmod	_	U-NORP
+2	Fishermen	fisherman	NNS	pos2=NNPS	3	nsubj	_	O
+3	caught	catch	VBN	pos2=VBD	0	root	_	O
+4	out	out	RP	_	3	prt	_	O
+5	by	by	IN	_	3	agent	_	O
+6	Brexit	brexit	NNP	pos2=NN	8	compound	_	B-ORG
+7	-	-	HYPH	pos2=,	8	punct	_	I-ORG
+8	Autonomy	autonomy	NNP	_	9	compound	_	I-ORG
+9	Scotland	scotland	NNP	_	5	pobj	_	L-ORG
+10	https://t.co/mDbQjHYj53	#hlink#	ADD	pos2=NNP	3	dep	_	O
+

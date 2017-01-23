@@ -1,0 +1,24 @@
+1	@CNN	@cnn	NNP	pos2=ADD	2	compound	_	U-GPE
+2	@natari2816	@natari0	NN	pos2=VBZ	0	root	_	O
+3	Just	just	RB	pos2=NNP	5	advmod	_	O
+4	the	the	DT	_	5	det	_	O
+5	beginning	beginning	NN	_	2	appos	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	Fracking	fracking	NN	pos2=NNP	4	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	pipelines	pipeline	NNS	_	1	conj	_	O
+4	need	need	VBP	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	end	end	VB	_	4	xcomp	_	O
+7	New	new	JJ	pos2=NNP	9	nmod	_	O
+8	energy	energy	NN	_	9	compound	_	O
+9	sourses	sourses	NNS	_	6	dobj	_	O
+10	put	put	VBN	pos2=VBP	9	acl	_	O
+11	in	in	IN	_	10	prep	_	O
+12	place	place	NN	_	11	pobj	_	O
+13	and	and	CC	_	10	cc	_	O
+14	treati	treati	NNS	pos2=GW	16	nmod	_	O
+15	…	…	NFP	pos2=-LRB-	16	punct	_	O
+16	https://t.co/2eqy8mMV9I	#hlink#	ADD	_	4	dep	_	O
+

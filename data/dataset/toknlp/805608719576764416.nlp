@@ -1,0 +1,14 @@
+1	Marine	marine	JJ	pos2=NNP	3	nmod	_	O
+2	Le	le	NNP	pos2=NN	3	compound	_	O
+3	Pen	pen	NNP	pos2=NN	5	dep	_	O
+4	:	:	:	_	5	punct	_	O
+5	Facts	fact	NNS	pos2=NNP	0	root	_	O
+6	about	about	IN	_	5	prep	_	O
+7	the	the	DT	_	12	det	_	O
+8	French	french	JJ	pos2=NNP	12	nmod	_	U-NORP
+9	far	far	RB	_	11	advmod	_	O
+10	-	-	HYPH	_	11	punct	_	O
+11	right	right	JJ	_	12	nmod	_	O
+12	leader	leader	NN	_	6	pobj	_	O
+13	https://t.co/o5VZMUW2Dv	#hlink#	ADD	pos2=NN	12	appos	_	O
+

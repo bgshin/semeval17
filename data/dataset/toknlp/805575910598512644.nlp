@@ -1,0 +1,20 @@
+1	@clpolk	@clpolk	UH	pos2=XX	9	discourse	_	O
+2	@rwchat	@rwchat	WP	pos2=IN	9	attr	_	O
+3	Lecter	lecter	NNP	_	9	nsubj	_	U-PERSON
+4	and	and	CC	_	3	cc	_	O
+5	Dexter	dexter	NNP	_	3	conj	_	U-PERSON
+6	will	will	MD	_	9	aux	_	O
+7	probably	probably	RB	_	9	advmod	_	O
+8	always	always	RB	_	9	advmod	_	O
+9	be	be	VB	_	0	root	_	O
+10	the	the	DT	_	12	det	_	O
+11	gold	gold	NN	pos2=JJ	12	compound	_	O
+12	standard	standard	NN	pos2=JJ	9	attr	_	O
+13	for	for	IN	_	12	prep	_	O
+14	me	me	PRP	_	13	pobj	_	O
+15	.	.	.	_	9	punct	_	O
+
+1	Esp	esp	NNP	pos2=RB	2	compound	_	B-PERSON
+2	Lecter	lecter	NNP	_	3	nsubj	_	L-PERSON
+3	#RWchat	#rwchat	ADD	pos2=NNP	0	root	_	O
+

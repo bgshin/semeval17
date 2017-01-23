@@ -1,0 +1,16 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@officialdonika	@officialdonika	UH	pos2=FW	2	discourse	_	O
+2	reads	read	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	poem	poem	NN	_	2	dobj	_	O
+5	inspired	inspire	VBN	_	4	acl	_	O
+6	by	by	IN	_	5	agent	_	O
+7	Rita	rita	NNP	_	8	compound	_	B-PERSON
+8	Dove	dove	NNP	_	6	pobj	_	L-PERSON
+9	.	.	.	_	2	punct	_	O
+
+1	#MiamiBookFair2016	#miamibookfair0	GW	pos2=NN	3	nmod	_	O
+2	#NBAwards	#nbawards	GW	pos2=ADD	3	nmod	_	O
+3	https://t.co/0u6e1CXN4u	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,25 @@
+1	Bruh	bruh	NNP	pos2=NN	3	compound	_	B-PERSON
+2	David	david	NNP	_	3	compound	_	I-PERSON
+3	Blaine	blaine	NNP	_	4	nsubj	_	L-PERSON
+4	turning	turn	VBG	_	15	csubj	_	O
+5	these	these	DT	_	6	det	_	B-DATE
+6	1s	0s	NNS	pos2=NNPS	4	dobj	_	L-DATE
+7	into	into	IN	_	4	prep	_	O
+8	100s	0s	NNS	_	7	pobj	_	U-CARDINAL
+9	in	in	IN	_	4	prep	_	O
+10	front	front	NN	_	9	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	these	these	DT	_	14	det	_	O
+13	black	black	JJ	_	14	nmod	_	O
+14	people	people	NNS	_	11	pobj	_	O
+15	got	get	VBD	_	0	root	_	O
+16	me	me	PRP	_	17	nsubj	_	O
+17	WEAK	weak	JJ	_	15	ccomp	_	O
+18	.	.	.	_	15	punct	_	O
+
+1	Their	their	PRP$	_	2	poss	_	O
+2	reaction	reaction	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	too	too	RB	_	5	advmod	_	O
+5	funny	funny	JJ	_	3	acomp	_	O
+

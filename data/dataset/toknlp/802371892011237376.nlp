@@ -1,0 +1,15 @@
+1	@AndrewAtSFL	@andrewatsfl	ADD	pos2=UH	6	advmod	_	B-PERSON
+2	@Giarlton	@giarlton	NNP	pos2=ADD	6	advmod	_	L-PERSON
+3	@RobProvince	@robprovince	ADD	pos2=XX	6	advmod	_	O
+4	@jonathanweisman	@jonathanweisman	UH	pos2=NN	9	discourse	_	O
+5	Of	of	RB	pos2=IN	6	advmod	_	O
+6	course	course	RB	_	9	advmod	_	O
+7	instead	instead	RB	_	8	advmod	_	O
+8	of	of	IN	_	0	root	_	O
+9	shutting	shut	VBG	_	8	pcomp	_	O
+10	her	her	PRP$	_	11	poss	_	O
+11	mouth	mouth	NN	_	9	dobj	_	O
+12	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/NQnLb09ZEU	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,16 @@
+1	@natsuryuuYT	@natsuryuuyt	NNP	pos2=XX	2	compound	_	O
+2	Persona	persona	NN	pos2=NNP	5	dep	_	O
+3	5	0	CD	_	2	nmod	_	U-CARDINAL
+4	,	,	,	_	2	punct	_	O
+5	the	the	DT	_	6	det	_	O
+6	remake	remake	NN	_	11	nsubj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Odin	odin	NNP	_	9	compound	_	B-PERSON
+9	Sphere	sphere	NNP	pos2=NN	7	pobj	_	L-PERSON
+10	,	,	,	_	9	punct	_	O
+11	Overwatch	overwatch	NNP	pos2=NN	0	root	_	U-ORG
+12	maybe	maybe	RB	_	6	advmod	_	O
+13	?	?	.	_	2	punct	_	O
+
+1	ovo	ovo	NN	pos2=UH	0	root	_	O
+

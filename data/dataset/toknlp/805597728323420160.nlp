@@ -1,0 +1,23 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	propose	propose	VBP	pos2=VB	0	root	_	O
+3	euthanasia	euthanasia	NN	_	4	compound	_	O
+4	chambers	chamber	NNS	_	2	dobj	_	O
+5	for	for	IN	_	4	prep	_	O
+6	all	all	DT	pos2=PDT	7	det	_	O
+7	children	child	NNS	_	5	pobj	_	O
+8	who	who	WP	_	9	nsubj	_	O
+9	wander	wander	VBP	_	7	relcl	_	O
+10	into	into	IN	_	9	prep	_	O
+11	my	my	PRP$	_	12	poss	_	O
+12	work	work	NN	_	10	pobj	_	O
+13	without	without	IN	_	9	prep	_	O
+14	an	an	DT	_	15	det	_	O
+15	adult	adult	NN	_	13	pobj	_	O
+16	and	and	CC	_	9	cc	_	O
+17	try	try	VB	_	9	conj	_	O
+18	hiding	hide	VBG	pos2=NN	17	xcomp	_	O
+19	in	in	IN	_	18	prep	_	O
+20	the	the	DT	_	22	det	_	O
+21	clothing	clothing	NN	_	22	compound	_	O
+22	racks	rack	NNS	_	19	pobj	_	O
+

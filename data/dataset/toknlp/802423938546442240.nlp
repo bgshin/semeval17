@@ -1,0 +1,11 @@
+1	#Maduro	#maduro	NNP	pos2=WP	2	nsubj	_	U-ORG
+2	puts	put	VBZ	_	0	root	_	O
+3	responsibility	responsibility	NN	_	2	dobj	_	O
+4	for	for	IN	_	7	mark	_	O
+5	#Venezuela`s	#venezuela`s	NNS	pos2=NNP	7	nsubj	_	O
+6	#currency	#currency	TO	pos2=MD	7	aux	_	O
+7	drop	drop	VB	pos2=NN	2	advcl	_	O
+8	on	on	IN	pos2=RP	7	prep	_	O
+9	#US	#us	NNP	pos2=ADD	8	pobj	_	U-ORG
+10	https://t.co/5fTQUKm2q6	#hlink#	ADD	_	7	dobj	_	O
+

@@ -1,0 +1,23 @@
+1	@moosehickey	@moosehickey	UH	pos2=XX	5	discourse	_	O
+2	@kimberlyconroy	@kimberlyconroy	UH	pos2=FW	5	discourse	_	O
+3	@megynkelly	@megynkelly	UH	pos2=RB	5	discourse	_	O
+4	not	not	RB	pos2=UH	5	neg	_	O
+5	sure	sure	JJ	pos2=UH	0	root	_	O
+6	where	where	WRB	_	9	advmod	_	O
+7	you	you	PRP	_	9	nsubj	_	O
+8	are	be	VBP	_	9	aux	_	O
+9	getting	get	VBG	_	5	ccomp	_	O
+10	that	that	DT	pos2=IN	9	dobj	_	O
+11	from	from	IN	_	9	prep	_	O
+12	.	.	.	_	5	punct	_	O
+
+1	Oh	oh	UH	_	6	discourse	_	O
+2	and	and	CC	_	6	cc	_	O
+3	your	your	PRP$	_	5	poss	_	O
+4	last	last	JJ	_	5	nmod	_	O
+5	tweet	tweet	NN	_	6	nsubj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	hateful	hateful	JJ	_	9	advmod	_	O
+8	/	/	SYM	pos2=,	9	punct	_	O
+9	disrespectful	disrespectful	JJ	_	6	acomp	_	O
+

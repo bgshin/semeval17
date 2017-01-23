@@ -1,0 +1,10 @@
+1	@Mike_DicksonNZ	@mike_dicksonnz	NNP	pos2=IN	2	compound	_	O
+2	Belgium	belgium	NNP	_	3	nsubj	_	U-GPE
+3	legalized	legalize	VBD	pos2=JJ	8	ccomp	_	O
+4	infant	infant	NN	_	5	compound	_	O
+5	euthanasia	euthanasia	NN	_	3	dobj	_	O
+6	,	,	,	_	8	punct	_	O
+7	That	that	DT	_	8	nsubj	_	O
+8	s	s	VBZ	pos2=RB	0	root	_	O
+9	degenerate	degenerate	JJ	pos2=VBP	8	acomp	_	O
+

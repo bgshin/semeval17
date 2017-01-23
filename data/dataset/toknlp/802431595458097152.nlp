@@ -1,0 +1,14 @@
+1	"	"	``	_	2	punct	_	O
+2	Robots	robot	NNS	pos2=NNP	4	nmod	_	O
+3	"	"	''	_	2	punct	_	O
+4	(2005)	(0)	CD	pos2=-RRB-	5	nsubj	_	U-CARDINAL
+5	is	be	VBZ	_	0	root	_	O
+6	a	a	DT	_	8	det	_	O
+7	sensitive	sensitive	JJ	_	8	nmod	_	O
+8	movie	movie	NN	_	5	attr	_	O
+9	(B)	(b)	NFP	pos2=NN	5	punct	_	O
+10	#ConamaraViews	#conamaraviews	NNS	pos2=ADD	8	appos	_	O
+11	<	<	SYM	pos2=-LRB-	12	punct	_	O
+12	oh8qpr	oh0qpr	NN	pos2=CD	10	prep	_	O
+13	>	>	SYM	pos2=-RRB-	12	punct	_	O
+

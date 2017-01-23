@@ -1,0 +1,23 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@POTUS	@potus	NN	pos2=ADD	2	compound	_	O
+2	@HillaryClinton	@hillaryclinton	NN	pos2=ADD	4	nsubj	_	O
+3	Please	please	UH	_	4	discourse	_	O
+4	help	help	VB	_	0	root	_	O
+5	endangered	endangered	JJ	pos2=VBN	6	nmod	_	O
+6	species	species	NNS	pos2=NN	4	dobj	_	O
+7	in	in	IN	_	6	prep	_	O
+8	war	war	NN	_	7	pobj	_	O
+9	torn	tear	VBN	pos2=VBP	11	nmod	_	O
+10	#Yemen	#yemen	NNP	pos2=CD	11	compound	_	U-PRODUCT
+11	zoo	zoo	NN	_	16	dep	_	O
+12	&	&	CC	_	11	cc	_	O
+13	help	help	NN	pos2=VB	11	conj	_	O
+14	stop	stop	VB	_	4	xcomp	_	O
+15	the	the	DT	_	16	det	_	O
+16	bombs	bomb	NNS	_	14	dobj	_	O
+17	!	!	.	_	4	punct	_	O
+
+1	#SaveTaiz	#savetaiz	ADD	pos2=-LRB-	2	punct	_	O
+2	https://t.co/Tc5ueatm9I	#hlink#	ADD	_	0	root	_	O
+

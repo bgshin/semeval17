@@ -1,0 +1,21 @@
+1	Our	our	PRP$	_	2	poss	_	O
+2	debate	debate	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	no	no	DT	pos2=RB	7	det	_	O
+5	on	on	IN	_	2	prep	_	O
+6	recreational	recreational	JJ	_	7	nmod	_	O
+7	use	use	NN	_	5	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	marijuana	marijuana	NN	_	8	pobj	_	O
+10	.....	..	.	_	3	punct	_	O
+
+1	like	like	UH	pos2=IN	5	discourse	_	O
+2	uhm	uhm	UH	pos2=PRP	5	discourse	_	O
+3	no	no	DT	pos2=UH	4	det	_	O
+4	bc	bc	NNS	pos2=NN	5	nsubj	_	O
+5	get	get	VBP	pos2=VB	0	root	_	O
+6	a	a	DT	_	8	det	_	O
+7	medical	medical	JJ	_	8	nmod	_	O
+8	card	card	NN	_	5	dobj	_	O
+9	???????	??	.	_	5	punct	_	O
+

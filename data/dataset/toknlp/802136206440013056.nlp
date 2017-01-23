@@ -1,0 +1,28 @@
+1	Extensive	extensive	JJ	_	2	nmod	_	O
+2	strikes	strike	NNS	_	0	root	_	O
+3	by	by	IN	_	2	prep	_	O
+4	@AFRICOM	@africom	NNP	pos2=NN	3	pobj	_	U-ORG
+5	in	in	IN	_	2	prep	_	O
+6	Sirte	sirte	NNP	_	7	compound	_	B-GPE
+7	#Libya	#libya	NNP	pos2=CD	5	pobj	_	L-GPE
+8	in	in	IN	_	2	prep	_	O
+9	recent	recent	JJ	_	10	nmod	_	B-DATE
+10	days	day	NNS	_	8	pobj	_	L-DATE
+11	.	.	.	_	2	punct	_	O
+
+1	Tiny	tiny	JJ	_	2	nmod	_	O
+2	#	#	NN	_	6	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	ISIS	isis	NN	pos2=NNP	5	compound	_	U-ORG
+5	militants	militant	NNS	_	3	pobj	_	O
+6	holding	hold	VBG	_	0	root	_	O
+7	out	out	RP	_	6	prt	_	O
+8	remarkably	remarkably	RB	_	6	advmod	_	O
+9	vs	vs	IN	pos2=CC	6	prep	_	O
+10	local	local	JJ	_	11	nmod	_	O
+11	fighters	fighter	NNS	_	9	pobj	_	O
+12	/	/	SYM	pos2=IN	13	punct	_	O
+13	US	us	NNP	pos2=NN	15	compound	_	U-GPE
+14	air	air	NN	_	15	compound	_	O
+15	power	power	NN	_	11	appos	_	O
+

@@ -1,0 +1,31 @@
+1	A	a	DT	_	3	det	_	O
+2	good	good	JJ	_	3	nmod	_	O
+3	song	song	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	like	like	IN	_	4	prep	_	O
+6	a	a	DT	_	9	det	_	O
+7	"	"	``	_	9	punct	_	O
+8	psychic	psychic	JJ	_	9	nmod	_	O
+9	refreshment	refreshment	NN	_	5	pobj	_	O
+10	.	.	.	_	4	punct	_	O
+11	"	"	''	_	4	punct	_	O
+
+1	(	(	-LRB-	_	4	punct	_	O
+2	from	from	IN	_	0	root	_	O
+3	Leonard	leonard	NNP	_	4	compound	_	B-PERSON
+4	Cohen	cohen	NNP	_	2	pobj	_	L-PERSON
+5	)	)	-RRB-	_	4	punct	_	O
+6	...	..	.	pos2=,	2	punct	_	O
+
+1	Oh	oh	UH	_	0	root	_	O
+2	yes	yes	UH	_	1	discourse	_	O
+3	!	!	.	_	1	punct	_	O
+
+1	It	it	PRP	_	4	nsubj	_	O
+2	really	really	RB	_	4	advmod	_	O
+3	can	can	MD	_	4	aux	_	O
+4	be	be	VB	_	0	root	_	O
+5	like	like	IN	_	4	prep	_	O
+6	that	that	DT	_	5	pobj	_	O
+7	.	.	.	_	4	punct	_	O
+

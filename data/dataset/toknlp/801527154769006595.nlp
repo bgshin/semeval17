@@ -1,0 +1,20 @@
+1	Desperate	desperate	JJ	_	3	nmod	_	O
+2	#George	#george	NNP	pos2=NN	3	compound	_	U-NORP
+3	#Soros	#soros	NNS	pos2=NNP	0	root	_	O
+4	linked	link	VBN	_	3	acl	_	O
+5	to	to	IN	_	4	prep	_	O
+6	Anti	anti	AFX	pos2=NNP	8	nmod	_	O
+7	#Trump	#trump	NNP	pos2=POS	8	compound	_	O
+8	Protests	protest	NNS	pos2=NNPS	5	pobj	_	O
+9	:	:	:	_	11	punct	_	O
+10	he	he	PRP	_	11	nsubj	_	O
+11	is	be	VBZ	_	0	root	_	O
+12	terrified	terrified	JJ	_	11	acomp	_	O
+13	of	of	IN	_	12	prep	_	O
+14	losing	lose	VBG	_	13	pcomp	_	O
+15	his	his	PRP$	_	16	poss	_	O
+16	grip	grip	NN	_	14	dobj	_	O
+17	on	on	IN	_	16	prep	_	O
+18	power	power	NN	_	17	pobj	_	O
+19	https://t.co/VmT4CVw42V	#hlink#	ADD	pos2=NN	11	dep	_	O
+

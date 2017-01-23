@@ -1,0 +1,26 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@MalaysHomeopath	@malayshomeopath	NNP	pos2=UH	0	root	_	O
+2	Sorry	sorry	UH	pos2=JJ	1	discourse	_	O
+3	?	?	.	_	1	punct	_	O
+
+1	You	you	PRP	_	3	nsubj	_	O
+2	're	be	VBP	_	3	aux	_	O
+3	countering	counter	VBG	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	possible	possible	JJ	_	6	nmod	_	O
+6	death	death	NN	_	3	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	babies	baby	NNS	_	7	pobj	_	O
+9	after	after	IN	_	3	prep	_	O
+10	#homeopathy	#homeopathy	NN	pos2=VBG	9	pobj	_	O
+11	with	with	IN	_	3	prep	_	O
+12	an	an	DT	_	13	det	_	O
+13	article	article	NN	_	11	pobj	_	O
+14	about	about	IN	_	13	prep	_	O
+15	how	how	WRB	_	18	advmod	_	O
+16	sales	sale	NNS	_	18	nsubj	_	O
+17	are	be	VBP	_	18	aux	_	O
+18	increasing	increase	VBG	_	14	pcomp	_	O
+19	?	?	.	_	3	punct	_	O
+

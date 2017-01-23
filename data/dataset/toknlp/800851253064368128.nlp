@@ -1,0 +1,34 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	U-ORG
+2	@MerriamWebster	@merriamwebster	NN	pos2=XX	14	dep	_	O
+3	:	:	:	_	14	punct	_	O
+4	In	in	IN	_	14	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	news	news	NN	_	4	pobj	_	O
+7	:	:	:	_	2	punct	_	O
+8	'	'	``	pos2=''	11	punct	_	O
+9	Alt	alt	JJ	pos2=NNP	11	advmod	_	O
+10	-	-	HYPH	pos2=SYM	11	punct	_	O
+11	right	right	JJ	pos2=NN	6	appos	_	O
+12	'	'	''	pos2=NN	11	punct	_	O
+13	is	be	VBZ	_	14	auxpass	_	O
+14	believed	believe	VBN	_	0	root	_	O
+15	to	to	TO	_	18	aux	_	O
+16	have	have	VB	_	18	aux	_	O
+17	been	be	VBN	_	18	auxpass	_	O
+18	coined	coin	VBN	_	14	xcomp	_	O
+19	by	by	IN	_	18	agent	_	O
+20	the	the	DT	_	21	det	_	O
+21	guy	guy	NN	_	19	pobj	_	O
+22	who	who	WP	_	23	nsubj	_	O
+23	quoted	quote	VBD	_	21	relcl	_	O
+24	Nazi	nazi	NNP	pos2=JJ	21	appos	_	U-NORP
+25	propaganda	propaganda	NN	_	24	appos	_	O
+26	in	in	IN	_	25	prep	_	O
+27	D.C.	d.c.	NNP	_	26	pobj	_	U-GPE
+28	on	on	IN	_	25	prep	_	O
+29	Saturday	saturday	NNP	_	28	pobj	_	U-DATE
+30	.	.	.	_	14	punct	_	O
+
+1	htt	htt	NN	pos2=UH	0	root	_	O
+2	…	…	.	pos2=''	1	punct	_	O
+

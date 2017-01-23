@@ -1,0 +1,12 @@
+1	Ariana	ariana	NNP	_	2	compound	_	O
+2	Grande	grande	NNP	_	11	dep	_	O
+3	-	-	:	pos2=,	2	punct	_	O
+4	The	the	DT	pos2=NNP	9	det	_	O
+5	Sims	sims	NNP	_	11	nmod	_	O
+6	3	0	CD	pos2=NNP	8	nmod	_	O
+7	-	-	HYPH	pos2=:	8	punct	_	O
+8	SimsDomination	simsdomination	NNP	pos2=GW	11	dep	_	O
+9	#ArianaGrande	#arianagrande	GW	pos2=ADD	11	nmod	_	O
+10	https://t.co/l2K2ihUpCg	#hlink#	ADD	pos2=GW	11	nmod	_	O
+11	https://t.co/W7sIK84nOT	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,24 @@
+1	@Number10gov	@number0gov	NN	pos2=PRP$	4	aux	_	O
+2	human	human	JJ	_	3	nmod	_	O
+3	rights	right	NNS	_	4	nsubj	_	O
+4	need	need	VBP	pos2=NN	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	be	be	VB	_	4	xcomp	_	O
+7	at	at	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	top	top	NN	_	7	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	negotiations	negotiation	NNS	_	10	pobj	_	O
+13	.	.	.	_	4	punct	_	O
+
+1	End	end	VB	pos2=NN	0	root	_	O
+2	the	the	DT	_	4	det	_	O
+3	death	death	NN	_	4	compound	_	O
+4	penalty	penalty	NN	_	1	dobj	_	O
+5	for	for	IN	_	4	prep	_	O
+6	apostates	apostate	NNS	_	5	pobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	blasphemy	blasphemy	NN	_	6	conj	_	O
+9	.	.	.	_	1	punct	_	O
+

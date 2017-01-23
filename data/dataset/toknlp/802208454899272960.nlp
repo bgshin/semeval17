@@ -1,0 +1,33 @@
+1	@bkohatl	@bkohatl	UH	pos2=XX	2	discourse	_	O
+2	nope	nope	UH	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Results	result	NNS	_	3	nsubjpass	_	O
+2	are	be	VBP	_	3	auxpass	_	O
+3	decided	decide	VBN	_	0	root	_	O
+4	by	by	IN	_	3	agent	_	O
+5	electoral	electoral	JJ	_	6	nmod	_	O
+6	college	college	NN	_	4	pobj	_	O
+7	-	-	,	pos2=:	3	punct	_	O
+8	NOT	not	RB	_	10	neg	_	O
+9	popular	popular	JJ	_	10	nmod	_	O
+10	vote	vote	NN	_	6	appos	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	If	if	IN	_	3	mark	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	was	be	VBD	_	11	advcl	_	O
+4	by	by	IN	_	3	prep	_	O
+5	pop	pop	NN	pos2=JJ	6	compound	_	O
+6	vote	vote	NN	_	4	pobj	_	O
+7	,	,	,	_	11	punct	_	O
+8	they	they	PRP	_	11	nsubj	_	O
+9	would	would	MD	_	11	aux	_	O
+10	've	have	VB	_	11	aux	_	O
+11	campaigned	campaign	VBN	_	0	root	_	O
+12	in	in	IN	pos2=RP	11	prep	_	O
+13	only	only	RB	_	15	advmod	_	O
+14	a	a	DT	_	15	qmod	_	O
+15	few	few	JJ	_	16	nmod	_	O
+16	areas	area	NNS	_	12	pobj	_	O
+

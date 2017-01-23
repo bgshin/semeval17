@@ -1,0 +1,25 @@
+1	To	to	IN	_	0	root	_	O
+2	Conway	conway	NNP	_	4	compound	_	O
+3	-	-	HYPH	pos2=:	4	punct	_	O
+4	A	a	DT	pos2=NNP	5	det	_	O
+5	form	form	NN	_	1	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	post-truthing	post-truthing	NN	pos2=RB	6	pobj	_	O
+8	.	.	.	_	7	punct	_	O
+
+1	KellyAnne	kellyanne	NNP	_	2	nsubj	_	U-PERSON
+2	conwayed	conwayed	VBD	pos2=NNP	0	root	_	O
+3	Trump	trump	NNP	pos2=NN	5	poss	_	U-ORG
+4	's	's	POS	_	3	case	_	O
+5	Machado	machado	NNP	_	6	nsubj	_	U-PERSON
+6	tweets	tweet	VBZ	pos2=NNS	2	dobj	_	O
+7	into	into	IN	_	6	prep	_	O
+8	a	a	DT	_	9	det	_	O
+9	defense	defense	NN	_	7	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Melania	melania	NNP	_	15	poss	_	U-PERSON
+12	's	's	POS	_	11	case	_	O
+13	antibully	antibully	JJ	_	15	nmod	_	O
+14	campaign	campaign	NN	_	15	compound	_	O
+15	#UsefulNewVerbs	#usefulnewverbs	NNS	pos2=ADD	10	pobj	_	O
+

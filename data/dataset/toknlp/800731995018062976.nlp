@@ -1,0 +1,19 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@NationalBook	@nationalbook	NNP	pos2=ADD	6	compound	_	O
+2	Award	award	NN	pos2=NNP	4	npadvmod	_	O
+3	-	-	HYPH	_	4	punct	_	O
+4	winning	win	VBG	_	5	nmod	_	O
+5	author	author	NN	_	8	nsubj	_	O
+6	@colsonwhitehead	@colsonwhitehead	XX	pos2=RB	8	dep	_	O
+7	will	will	MD	_	8	aux	_	O
+8	deliver	deliver	VB	_	0	root	_	O
+9	Black	black	JJ	pos2=NNP	10	nmod	_	O
+10	History	history	NN	pos2=NNP	11	compound	_	O
+11	Month	month	NNP	pos2=NN	12	compound	_	O
+12	Lecture	lecture	NN	pos2=NNP	8	dobj	_	O
+13	at	at	IN	_	8	prep	_	O
+14	#VCU	#vcu	ADD	pos2=NNP	13	pobj	_	O
+15	https://t.co/yS8Iq8N7p9	#hlink#	ADD	_	16	nmod	_	O
+16	#NBAwards	#nbawards	NNS	pos2=ADD	13	pobj	_	O
+

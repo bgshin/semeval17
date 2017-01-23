@@ -1,0 +1,22 @@
+1	Israel	israel	NNP	_	4	nsubj	_	O
+2	&	&	CC	_	1	cc	_	O
+3	friends	friend	NNS	_	1	conj	_	O
+4	spends	spend	VBZ	_	0	root	_	O
+5	millions	#crd#	NNS	pos2=VBG	6	compound	_	U-CARDINAL
+6	NIS	nis	NN	pos2=NNP	4	dobj	_	O
+7	on	on	IN	_	4	prep	_	O
+8	hasbara	hasbara	NN	_	7	pobj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	anti-Palestinian	anti-palestinian	JJ	_	11	nmod	_	U-NORP
+11	materials	material	NNS	_	8	conj	_	O
+12	.	.	.	_	4	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	relentless	relentless	JJ	_	2	acomp	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	🇵🇸#Palestine	🇵🇸#palestine	GW	pos2=NNP	3	nmod	_	B-PERSON
+2	…	…	NFP	pos2=GW	3	punct	_	L-PERSON
+3	https://t.co/xd5Z6NIety	#hlink#	ADD	pos2=NN	0	root	_	O
+

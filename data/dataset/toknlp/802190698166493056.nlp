@@ -1,0 +1,21 @@
+1	Historical	historical	JJ	_	2	nmod	_	O
+2	ignorance	ignorance	NN	_	13	nsubj	_	O
+3	largely	largely	RB	_	13	advmod	_	O
+4	to	to	TO	_	5	aux	_	O
+5	blame	blame	VB	_	2	acl	_	O
+6	for	for	IN	_	5	prep	_	O
+7	white	white	JJ	_	8	nmod	_	O
+8	supremacists	supremacist	NNS	_	11	poss	_	O
+9	'	'	POS	pos2=''	8	case	_	O
+10	new	new	JJ	_	11	nmod	_	O
+11	makeover	makeover	NN	_	6	pobj	_	O
+12	,	,	,	_	13	punct	_	O
+13	writes	write	VBZ	_	0	root	_	O
+14	@kelly_j_baker	@kelly_j_baker	NNP	pos2=NN	13	nsubj	_	U-ORG
+15	.	.	.	_	13	punct	_	O
+
+1	Important	important	JJ	_	2	nmod	_	O
+2	read	read	NN	pos2=VBN	4	dep	_	O
+3	:	:	:	_	2	punct	_	O
+4	https://t.co/6sJkJHefPx	#hlink#	ADD	_	0	root	_	O
+

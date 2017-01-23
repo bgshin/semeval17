@@ -1,0 +1,12 @@
+1	David	david	NNP	_	2	compound	_	B-PERSON
+2	Blaine	blaine	NNP	_	6	vocative	_	L-PERSON
+3	Beyond	beyond	IN	pos2=NNP	2	prep	_	O
+4	Magic	magic	NNP	pos2=JJ	3	pobj	_	O
+5	GREATEST	great	JJS	pos2=NNP	6	nmod	_	O
+6	TRICKS	trick	NNS	_	9	dep	_	O
+7	EXPOSED	expose	VBN	_	6	acl	_	O
+8	:	:	:	_	9	punct	_	O
+9	https://t.co/YibW2F7GSh	#hlink#	ADD	pos2=NN	0	root	_	O
+10	via	via	IN	_	9	prep	_	O
+11	@YouTube	@youtube	NNP	pos2=NN	10	pobj	_	O
+

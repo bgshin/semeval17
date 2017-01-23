@@ -1,0 +1,13 @@
+1	11:11	0	CD	_	2	nmod	_	U-CARDINAL
+2	wes	w	NNS	pos2=FW	5	nsubj	_	O
+3	cass	cass	FW	pos2=NN	4	nmod	_	O
+4	twins	twin	NNS	pos2=FW	5	nsubj	_	O
+5	mak	mak	VBP	pos2=FW	0	root	_	O
+6	ppbos	ppbos	JJ	pos2=PRP$	9	nmod	_	O
+7	pp	pp	NN	pos2=FW	9	nmod	_	O
+8	philly	philly	JJ	pos2=NN	9	nmod	_	O
+9	tpp	tpp	NN	_	4	appos	_	O
+10	******	**	SYM	pos2=NFP	9	punct	_	O
+11	*******	**	SYM	pos2=:	12	punct	_	O
+12	happiness	happiness	NN	_	9	appos	_	O
+

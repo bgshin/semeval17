@@ -1,0 +1,31 @@
+1	No	no	DT	pos2=UH	4	det	_	O
+2	right	right	JJ	_	3	nmod	_	O
+3	wing	wing	NN	_	4	compound	_	O
+4	extremism	extremism	NN	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	Austria	austria	NNP	_	5	pobj	_	B-ORG
+7	&	&	CC	_	6	cc	_	I-ORG
+8	Italy	italy	NNP	_	6	conj	_	L-ORG
+9	in	in	IN	_	4	prep	_	O
+10	political	political	JJ	_	11	nmod	_	O
+11	turmoil	turmoil	NN	_	9	pobj	_	O
+12	.	.	.	_	4	punct	_	O
+
+1	Both	both	DT	_	2	nsubj	_	O
+2	have	have	VBP	_	0	root	_	O
+3	immigration	immigration	NN	_	4	compound	_	O
+4	headaches	headache	NNS	_	2	dobj	_	O
+5	&	&	CC	_	4	cc	_	O
+6	EU	eu	NNP	pos2=NN	7	nsubj	_	U-ORG
+7	has	have	VBZ	pos2=VBP	2	conj	_	O
+8	'	'	``	pos2=POS	7	punct	_	O
+9	Tower	tower	NNP	_	7	dobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Babel	babel	NNP	_	12	compound	_	O
+12	Syndrome	syndrome	NNP	pos2=NN	10	pobj	_	O
+13	'	'	''	pos2=POS	7	punct	_	O
+14	.	.	.	_	7	punct	_	O
+
+1	Whew	whew	UH	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+

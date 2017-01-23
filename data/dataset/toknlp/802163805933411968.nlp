@@ -1,0 +1,26 @@
+1	My	my	PRP$	_	3	poss	_	O
+2	@billyeichner	@billyeichner	NN	pos2=JJR	3	compound	_	O
+3	obsession	obsession	NN	_	5	nsubj	_	O
+4	is	be	VBZ	_	5	aux	_	O
+5	reaching	reach	VBG	_	0	root	_	O
+6	@KyanDouglas	@kyandouglas	NNS	pos2=IN	8	nmod	_	O
+7	'03	'0	CD	pos2=POS	8	nmod	_	U-DATE
+8	levels	level	NNS	_	5	dobj	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	Not	not	RB	_	2	neg	_	O
+2	in	in	IN	_	4	prep	_	O
+3	@ricky_martin	@ricky_martin	NNP	pos2=VBG	2	pobj	_	O
+4	'99	'0	CD	_	5	nmod	_	U-DATE
+5	territory	territory	NN	_	0	root	_	O
+6	yet	yet	RB	_	5	advmod	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	bought	buy	VBD	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	paperback	paperback	NN	_	5	compound	_	O
+5	bio	bio	NN	_	2	dobj	_	O
+6	for	for	IN	_	2	prep	_	O
+7	that	that	DT	pos2=WDT	6	pobj	_	O
+

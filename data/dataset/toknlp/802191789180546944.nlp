@@ -1,0 +1,14 @@
+1	Israeli	israeli	JJ	_	2	nmod	_	U-NORP
+2	army	army	NN	_	3	nsubj	_	O
+3	kills	kill	VBZ	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	Palestinian	palestinian	JJ	_	6	nmod	_	U-NORP
+6	youth	youth	NN	_	3	dobj	_	O
+7	in	in	IN	_	3	prep	_	O
+8	the	the	DT	_	12	det	_	O
+9	Shuafat	shuafat	NNP	_	12	compound	_	U-GPE
+10	refugee	refugee	NN	_	11	compound	_	O
+11	camp	camp	NN	_	12	compound	_	O
+12	east	east	NN	pos2=RB	7	pobj	_	O
+13	Jerusalem#israel_on_fire#Palestine#Jerusalem	jerusalem#israel_on_fire#palestine#jerusalem	NNP	pos2=XX	12	appos	_	U-PRODUCT
+

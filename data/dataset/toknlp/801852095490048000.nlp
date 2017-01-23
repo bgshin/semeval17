@@ -1,0 +1,16 @@
+1	How	how	WRB	_	4	advmod	_	O
+2	does	do	VBZ	_	4	aux	_	O
+3	Google	google	NNP	_	4	nsubj	_	U-ORG
+4	release	release	VB	pos2=NN	0	root	_	O
+5	#GoogleEarth	#googleearth	NN	pos2=NNP	6	compound	_	O
+6	VR	vr	NN	pos2=NNP	4	dobj	_	O
+7	for	for	IN	_	4	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	Vive	vive	NNP	pos2=FW	7	pobj	_	U-PERSON
+10	and	and	CC	_	4	cc	_	O
+11	not	not	RB	_	12	neg	_	O
+12	Daydream	daydream	VB	pos2=NNP	4	conj	_	O
+13	?	?	.	_	4	punct	_	O
+
+1	https://t.co/nxjwBJmntI	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,16 @@
+1	Sign	sign	VB	_	0	root	_	O
+2	my	my	PRP$	_	3	poss	_	O
+3	Petition	petition	NN	_	1	dobj	_	O
+4	:	:	:	_	3	punct	_	O
+5	PRESIDENT	president	NN	pos2=NNP	6	compound	_	O
+6	OBAMA	obama	NN	pos2=NNP	8	dep	_	U-PERSON
+7	:	:	:	_	8	punct	_	O
+8	INVESTIGATE	investigate	VB	_	1	dep	_	O
+9	FBI	fbi	NNP	pos2=CD	11	compound	_	U-ORG
+10	DIRECTOR	director	NNP	pos2=NN	11	compound	_	O
+11	COMEY	comey	NNP	_	13	poss	_	U-PERSON
+12	'S	's	POS	_	11	case	_	O
+13	ELECTION	election	NN	pos2=NNP	8	dobj	_	O
+14	TAMPERING	tamper	VBG	pos2=NN	15	nmod	_	O
+15	https://t.co/VSLGMSJR7s	#hlink#	ADD	pos2=NN	8	npadvmod	_	O
+

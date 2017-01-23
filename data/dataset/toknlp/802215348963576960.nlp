@@ -1,0 +1,14 @@
+1	#Seat	#seat	DT	pos2=VB	3	det	_	O
+2	down	down	RP	pos2=RB	6	advmod	_	O
+3	relax	relax	VB	pos2=RBR	0	root	_	O
+4	get	get	VB	pos2=VBP	3	dep	_	O
+5	your	your	PRP$	_	7	poss	_	O
+6	proportional	proportional	JJ	_	7	nmod	_	O
+7	dose	dose	NN	_	4	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	thanksgiving	thanksgiving	VBG	pos2=NN	8	pcomp	_	O
+10	the	the	DT	_	12	det	_	O
+11	word	word	NN	_	12	compound	_	O
+12	style	style	NN	_	9	dobj	_	O
+13	.	.	.	_	3	punct	_	O
+

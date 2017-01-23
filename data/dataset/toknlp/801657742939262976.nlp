@@ -1,0 +1,21 @@
+1	@realDonaldTrump	@realdonaldtrump	UH	pos2=NN	6	discourse	_	O
+2	hey	hey	UH	_	6	discourse	_	O
+3	do	do	VB	pos2=VBP	6	aux	_	O
+4	n't	not	RB	_	6	preconj	_	O
+5	only	only	RB	_	4	advmod	_	O
+6	build	build	VB	_	17	advcl	_	O
+7	a	a	DT	_	8	det	_	O
+8	wall	wall	NN	_	6	dobj	_	O
+9	on	on	IN	_	6	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	mexican	mexican	JJ	_	12	nmod	_	U-NORP
+12	border	border	NN	_	9	pobj	_	O
+13	,	,	,	_	17	punct	_	O
+14	you	you	PRP	_	17	nsubj	_	O
+15	ca	can	MD	pos2=VBP	17	aux	_	O
+16	n't	not	RB	_	17	neg	_	O
+17	trust	trust	VB	_	0	root	_	O
+18	canadians	canadian	NNS	pos2=NNPS	17	dobj	_	O
+19	either	either	CC	pos2=RB	20	preconj	_	O
+20	#snowmexicans	#snowmexicans	NNS	pos2=.	17	npadvmod	_	O
+

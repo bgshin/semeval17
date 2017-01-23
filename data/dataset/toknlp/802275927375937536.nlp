@@ -1,0 +1,17 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@Microsoft	@microsoft	NNP	pos2=RB	7	vocative	_	O
+2	—	-	HYPH	pos2=:	7	punct	_	O
+3	yes	yes	UH	_	7	discourse	_	O
+4	,	,	,	_	7	punct	_	O
+5	Microsoft	microsoft	NNP	_	7	nsubj	_	U-ORG
+6	—	-	:	pos2=,	7	punct	_	O
+7	joins	join	VBZ	_	0	root	_	O
+8	the	the	DT	_	10	det	_	B-ORG
+9	#Linux	#linux	NNP	_	10	compound	_	I-ORG
+10	Foundation	foundation	NNP	pos2=NN	7	dobj	_	L-ORG
+11	.	.	.	_	7	punct	_	O
+
+1	#TechNews	#technews	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/nmJhGDChcp	#hlink#	ADD	_	0	root	_	O
+

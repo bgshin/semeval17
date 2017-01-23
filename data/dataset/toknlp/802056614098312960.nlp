@@ -1,0 +1,20 @@
+1	NW	nw	NN	pos2=NNP	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	#ScreamQueens	#screamqueens	NNS	pos2=VBZ	4	compound	_	U-CARDINAL
+4	ep	ep	NN	pos2=LS	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	5	0	CD	pos2=LS	2	npadvmod	_	U-CARDINAL
+2	Thank	thank	VBP	_	0	root	_	O
+3	God	god	NNP	_	4	compound	_	O
+4	Chanel	chanel	NNP	_	5	compound	_	U-ORG
+5	#	#	NN	pos2=HYPH	2	npadvmod	_	O
+6	5	0	CD	pos2=NNP	5	nmod	_	U-MONEY
+7	is	be	VBZ	_	2	ccomp	_	O
+8	still	still	RB	_	7	advmod	_	O
+9	alive	alive	JJ	_	7	acomp	_	O
+10	!	!	.	_	2	punct	_	O
+
+1	<	<	SYM	_	2	punct	_	O
+2	3	0	CD	_	0	root	_	O
+

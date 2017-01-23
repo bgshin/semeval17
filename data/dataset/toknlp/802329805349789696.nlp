@@ -1,0 +1,16 @@
+1	@bitterRedsfan	@bitterredsfan	NNP	pos2=IN	10	nsubj	_	O
+2	That	that	DT	pos2=IN	6	det	_	O
+3	regional	regional	JJ	_	6	nmod	_	O
+4	final	final	JJ	_	6	nmod	_	O
+5	v	v	NN	pos2=JJ	6	compound	_	O
+6	Wake	wake	NN	pos2=NNP	1	appos	_	O
+7	and	and	CC	_	1	cc	_	O
+8	Tim	tim	NNP	_	9	compound	_	B-PERSON
+9	Duncan	duncan	NNP	_	1	conj	_	L-PERSON
+10	was	be	VBD	_	0	root	_	O
+11	awesome	awesome	JJ	_	10	acomp	_	O
+12	.	.	.	_	10	punct	_	O
+
+1	Just	just	RB	_	2	advmod	_	O
+2	dominant	dominant	JJ	_	0	root	_	O
+

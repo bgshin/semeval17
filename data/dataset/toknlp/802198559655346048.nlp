@@ -1,0 +1,13 @@
+1	@UPsquirrel	@upsquirrel	UH	pos2=ADD	3	discourse	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	it	it	PRP	_	4	pobj	_	O
+6	...	..	.	pos2=,	3	punct	_	O
+
+1	#beastsofuon	#beastsofuon	UH	pos2=XX	5	discourse	_	O
+2	#squirrelpinup	#squirrelpinup	UH	pos2=XX	5	discourse	_	O
+3	#beastiesrule	#beastiesrule	UH	pos2=VB	5	discourse	_	O
+4	#FantasticBeasts	#fantasticbeasts	NNS	pos2=VBZ	5	dobj	_	O
+5	@UniofNottingham	@uniofnottingham	ADD	pos2=UH	0	root	_	O
+

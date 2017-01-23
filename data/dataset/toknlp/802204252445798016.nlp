@@ -1,0 +1,19 @@
+1	Give	give	VB	_	0	root	_	O
+2	it	it	PRP	_	1	dative	_	O
+3	a	a	DT	_	4	det	_	O
+4	listen	listen	NN	pos2=VB	1	dobj	_	O
+5	!	!	.	_	1	punct	_	O
+
+1	Raw	raw	JJ	_	2	nmod	_	O
+2	project	project	NN	_	12	dep	_	O
+3	from	from	IN	_	2	prep	_	O
+4	one	#crd#	CD	_	3	pobj	_	U-CARDINAL
+5	of	of	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	realest	realest	NN	pos2=JJS	5	pobj	_	O
+8	🙌🏽✊🏽	🙌🏽✊🏽	NNP	pos2=HYPH	12	nmod	_	U-PRODUCT
+9	#blacklivesmatter	#blacklivesmatter	GW	pos2=IN	12	nmod	_	O
+10	#unapologeticallyblack	#unapologeticallyblack	GW	pos2=UH	12	nmod	_	O
+11	…	…	NFP	pos2=GW	12	punct	_	O
+12	https://t.co/tG3icSK1d0	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,14 @@
+1	#BREAKING	#breaking	NN	pos2=VBG	10	dep	_	O
+2	:	:	:	_	10	punct	_	O
+3	#terror	#terror	IN	pos2=NNP	10	prep	_	O
+4	East	east	NNP	pos2=JJ	5	compound	_	B-GPE
+5	#Jerusalem	#jerusalem	NNP	_	3	pobj	_	L-GPE
+6	,	,	,	_	5	punct	_	O
+7	#Israel	#israel	NNP	pos2=XX	5	npadvmod	_	U-GPE
+8	:	:	:	_	10	punct	_	O
+9	Shoafat	shoafat	NNP	_	10	nsubj	_	U-PERSON
+10	attempted	attempt	VBD	pos2=VBN	0	root	_	O
+11	stabbing	stab	VBG	pos2=NN	10	xcomp	_	O
+12	#terrorist	#terrorist	NNP	pos2=WP	13	nsubj	_	O
+13	Neutralized	neutralize	VBN	pos2=VBD	10	xcomp	_	O
+

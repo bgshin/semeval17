@@ -1,0 +1,8 @@
+1	#TheWalkingDead	#thewalkingdead	NN	pos2=JJ	2	compound	_	O
+2	S7	s0	NN	pos2=NNP	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	not	not	RB	_	3	neg	_	O
+5	very	very	RB	_	6	advmod	_	O
+6	addictive	addictive	JJ	_	3	acomp	_	O
+7	.	.	.	_	3	punct	_	O
+

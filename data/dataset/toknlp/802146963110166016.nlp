@@ -1,0 +1,12 @@
+1	PROOF	proof	NN	_	2	compound	_	O
+2	HILLARY	hillary	NNP	pos2=NN	4	nsubj	_	U-PERSON
+3	WILL	will	MD	_	4	aux	_	O
+4	CHOOSE	choose	VB	_	0	root	_	O
+5	DEATH	death	NN	_	4	dobj	_	O
+6	OVER	over	IN	pos2=GW	5	prep	_	O
+7	PEACE	peace	NN	pos2=NNP	6	pobj	_	O
+8	https://t.co/4uivFg7Z7i	#hlink#	ADD	pos2=NN	7	appos	_	O
+9	#libya	#libya	IN	pos2=-RRB-	4	prep	_	O
+10	#gadaffi	#gadaffi	UH	pos2=FW	9	discourse	_	O
+11	#hillary	#hillary	UH	pos2=.	9	discourse	_	O
+

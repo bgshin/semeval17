@@ -1,0 +1,22 @@
+1	@ShaneGoldmacher	@shanegoldmacher	ADD	pos2=CC	2	compound	_	O
+2	@RiskyLiberal	@riskyliberal	NNP	pos2=ADD	6	nsubj	_	O
+3	And	and	CC	_	2	cc	_	O
+4	the	the	DT	_	5	det	_	O
+5	drama	drama	NN	_	6	nsubj	_	O
+6	continues	continue	VBZ	_	0	root	_	O
+7	from	from	IN	_	6	prep	_	O
+8	DJT	djt	NNP	pos2=JJ	9	compound	_	U-ORG
+9	camp	camp	NN	pos2=XX	7	pobj	_	O
+10	even	even	RB	_	13	advmod	_	O
+11	though	though	IN	_	13	mark	_	O
+12	he	he	PRP	_	13	nsubj	_	O
+13	won	win	VBD	_	6	advcl	_	O
+14	the	the	DT	_	16	det	_	O
+15	electoral	electoral	JJ	_	16	nmod	_	O
+16	college	college	NN	_	13	dobj	_	O
+17	!	!	.	_	6	punct	_	O
+
+1	Stirring	stir	VBG	pos2=NN	0	root	_	O
+2	pot	pot	NN	_	1	dobj	_	O
+3	!	!	.	_	1	punct	_	O
+

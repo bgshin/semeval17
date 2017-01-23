@@ -1,0 +1,21 @@
+1	Australia	australia	NNP	_	4	compound	_	B-ORG
+2	Cuts	cuts	NNP	pos2=NNPS	4	compound	_	I-ORG
+3	Clinton	clinton	NNP	_	4	compound	_	I-ORG
+4	Foundation	foundation	NNP	_	5	compound	_	L-ORG
+5	Donations	donation	NNS	pos2=NNP	12	dep	_	O
+6	To	to	IN	_	5	prep	_	O
+7	$	$	$	_	8	nmod	_	O
+8	0	0	CD	_	6	pobj	_	U-MONEY
+9	|	|	SYM	pos2=-LRB-	12	punct	_	O
+10	Zero	#crd#	CD	pos2=NNP	12	dep	_	U-CARDINAL
+11	Hedge	hedge	NN	pos2=NNP	12	dep	_	O
+12	https://t.co/aR9m1icrfI.	#hlink#	ADD	pos2=NN	16	nsubj	_	O
+13	#FidelCastro	#fidelcastro	IN	pos2=WP	12	prep	_	O
+14	Hillary	hillary	NNP	_	13	pobj	_	U-PERSON
+15	only	only	RB	_	16	advmod	_	O
+16	has	have	VBZ	_	0	root	_	O
+17	the	the	DT	_	18	det	_	O
+18	Saudis	saudi	NNPS	pos2=NNP	16	dobj	_	U-NORP
+19	as	as	IN	_	16	prep	_	O
+20	contrib	contrib	NN	_	19	pobj	_	O
+

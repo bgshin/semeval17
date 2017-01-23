@@ -1,0 +1,13 @@
+1	@FamesBlond	@famesblond	NN	pos2=ADD	3	nmod	_	O
+2	@ChateauEmissary	@chateauemissary	GW	pos2=PRP$	3	nmod	_	O
+3	Thing	thing	NN	_	8	nsubjpass	_	O
+4	with	with	IN	_	3	prep	_	O
+5	Rightists	rightist	NNPS	pos2=NNS	4	pobj	_	U-NORP
+6	is	be	VBZ	_	8	auxpass	_	O
+7	once	once	RB	_	8	advmod	_	O
+8	done	do	VBN	_	0	root	_	O
+9	,	,	,	_	8	punct	_	O
+10	completely	completely	RB	_	11	advmod	_	O
+11	done	do	VBN	_	8	conj	_	O
+12	.	.	.	_	8	punct	_	O
+

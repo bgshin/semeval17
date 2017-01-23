@@ -1,0 +1,15 @@
+1	@immigrant4trump	@immigrant0trump	NN	pos2=XX	2	compound	_	O
+2	@Jim_Peoples	@jim_peoples	NNS	pos2=NNPS	8	dep	_	O
+3	_	_	''	pos2=SYM	2	punct	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	know	know	VBP	_	8	parataxis	_	O
+6	she	she	PRP	_	8	nsubjpass	_	O
+7	was	be	VBD	_	8	auxpass	_	O
+8	bought	buy	VBN	_	0	root	_	O
+9	and	and	CC	_	8	cc	_	O
+10	paid	pay	VBN	_	8	conj	_	O
+11	for	for	IN	_	10	prep	_	O
+12	a	a	DT	_	14	det	_	O
+13	Pelosi	pelosi	NNP	_	14	compound	_	U-PERSON
+14	wannabe	wannabe	NN	pos2=JJ	11	pobj	_	O
+

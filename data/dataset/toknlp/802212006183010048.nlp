@@ -1,0 +1,11 @@
+1	#Trump	#trump	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	won	win	VBD	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	Popular	popular	NNP	pos2=JJ	5	compound	_	U-ORG
+5	Vote	vote	NN	pos2=NNP	2	dobj	_	O
+6	over	over	IN	_	5	prep	_	O
+7	Crooked	crooked	NNP	pos2=JJ	8	compound	_	O
+8	Hillary	hillary	NNP	_	6	pobj	_	U-PERSON
+9	https://t.co/KybWJmGt3v	#hlink#	ADD	pos2=NNP	7	appos	_	O
+10	#blackfriday	#blackfriday	-RRB-	pos2=UH	2	punct	_	O
+

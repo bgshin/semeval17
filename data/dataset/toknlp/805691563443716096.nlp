@@ -1,0 +1,13 @@
+1	#Fiat	#fiat	NNP	pos2=ADD	2	compound	_	O
+2	#money	#money	NN	pos2=EX	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	fine	fine	JJ	_	6	nmod	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	governments	government	NNS	_	9	nsubj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	banks	bank	NNS	_	6	conj	_	O
+9	are	be	VBP	_	3	conj	_	O
+10	the	the	DT	_	11	det	_	O
+11	problem	problem	NN	_	9	attr	_	O
+12	https://t.co/BKjja2aqdj	#hlink#	ADD	pos2=NN	11	appos	_	O
+

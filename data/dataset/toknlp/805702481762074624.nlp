@@ -1,0 +1,10 @@
+1	A.Relentless.Fucking.ExperienceThank	#hlink#	ADD	_	9	nsubj	_	O
+2	you	you	PRP	_	1	dobj	_	O
+3	for	for	IN	_	1	prep	_	O
+4	the	the	DT	_	8	det	_	O
+5	wild	wild	JJ	pos2=NN	6	nmod	_	O
+6	ride@evanrachelwood	ride@evanrachelwood	NN	pos2=NNS	7	compound	_	O
+7	@jimmisimpson	@jimmisimpson	NN	pos2=ADD	8	compound	_	O
+8	@AnthonyHopkins	@anthonyhopkins	NNS	pos2=VBZ	3	pobj	_	O
+9	#Westworld	#westworld	NNP	pos2=FW	0	root	_	O
+

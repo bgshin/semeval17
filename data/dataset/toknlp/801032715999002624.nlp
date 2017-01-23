@@ -1,0 +1,11 @@
+1	@realDonaldTrump	@realdonaldtrump	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	Going	go	VBG	_	0	root	_	O
+3	up	up	RP	pos2=IN	2	prt	_	O
+4	the	the	DT	_	6	det	_	O
+5	#wall	#wall	NNP	pos2=JJ	6	compound	_	O
+6	tag	tag	NN	_	2	npadvmod	_	O
+7	on	on	IN	_	2	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	Mexican	mexican	JJ	_	10	nmod	_	U-NORP
+10	border	border	NN	_	7	pobj	_	O
+

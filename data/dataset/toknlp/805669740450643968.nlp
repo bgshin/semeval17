@@ -1,0 +1,20 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=GW	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	https://t.co/p3o2NG6nrl	#hlink#	ADD	pos2=NNP	9	nmod	_	O
+7	Nintendo	nintendo	NNP	_	8	compound	_	O
+8	Gay	gay	NNP	pos2=JJ	9	compound	_	O
+9	Marriage	marriage	NN	_	4	pobj	_	O
+10	:	:	:	_	12	punct	_	O
+11	Last	last	JJ	_	12	nmod	_	B-DATE
+12	Week	week	NN	pos2=NNP	15	npadvmod	_	L-DATE
+13	Tonight	tonight	NN	pos2=NNP	12	npadvmod	_	U-TIME
+14	with	with	IN	_	9	prep	_	O
+15	John	john	NNP	_	16	compound	_	B-PERSON
+16	Oliver	oliver	NNP	_	14	pobj	_	L-PERSON
+17	(	(	-LRB-	_	16	punct	_	O
+18	HBO	hbo	NNP	_	16	appos	_	U-ORG
+19	)	)	-RRB-	_	16	punct	_	O
+

@@ -1,0 +1,22 @@
+1	@DataScienceLA	@datasciencela	NNP	pos2=UH	0	root	_	U-GPE
+2	@tqchenml	@tqchenml	UH	pos2=XX	4	det	_	O
+3	oh	oh	UH	pos2=CD	4	discourse	_	O
+4	slick	slick	JJ	pos2=UH	1	meta	_	O
+5	!	!	.	_	4	punct	_	O
+
+1	Szilard	szilard	NNP	_	4	vocative	_	U-PERSON
+2	have	have	VBP	_	4	aux	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	fallen	fall	VBN	_	0	root	_	O
+5	into	into	IN	_	4	prep	_	O
+6	the	the	DT	_	11	det	_	O
+7	deep	deep	JJ	_	11	nmod	_	O
+8	recurrent	recurrent	JJ	_	11	nmod	_	O
+9	convolutional	convolutional	JJ	_	11	nmod	_	O
+10	reinforcement	reinforcement	NN	_	11	compound	_	O
+11	trend	trend	NN	_	5	pobj	_	O
+12	learning	learn	VBG	pos2=NN	11	acl	_	O
+13	biz	biz	NN	pos2=NNS	12	dobj	_	O
+14	lately	lately	RB	_	12	advmod	_	O
+15	?	?	.	_	4	punct	_	O
+

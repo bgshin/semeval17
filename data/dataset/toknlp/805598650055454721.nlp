@@ -1,0 +1,23 @@
+1	@memnosoncos	@memnosoncos	UH	pos2=NNS	9	discourse	_	O
+2	In	in	IN	_	9	prep	_	O
+3	any	any	DT	_	4	det	_	O
+4	case	case	NN	_	2	pobj	_	O
+5	,	,	,	_	9	punct	_	O
+6	herbal	herbal	JJ	_	7	nmod	_	O
+7	medicine	medicine	NN	_	9	nsubj	_	O
+8	actually	actually	RB	_	9	advmod	_	O
+9	contains	contain	VBZ	_	0	root	_	O
+10	the	the	DT	_	13	det	_	O
+11	same	same	JJ	_	13	nmod	_	O
+12	active	active	JJ	_	13	nmod	_	O
+13	ingredients	ingredient	NNS	_	9	dobj	_	O
+14	as	as	IN	_	13	prep	_	O
+15	pharmaceuticals	pharmaceutical	NNS	_	14	pobj	_	O
+16	.	.	.	_	9	punct	_	O
+
+1	Homeopathy	homeopathy	NN	pos2=NNP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	water	water	NN	_	2	attr	_	O
+5	.	.	.	_	2	punct	_	O
+

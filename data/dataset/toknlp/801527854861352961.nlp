@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det	_	O
+2	union	union	NN	_	9	nsubjpass	_	O
+3	between	between	IN	_	2	prep	_	O
+4	myself	myself	PRP	_	3	pobj	_	O
+5	and	and	CC	_	4	cc	_	O
+6	@danzaytoon	@danzaytoon	PRP	pos2=ADD	4	conj	_	O
+7	must	must	MD	_	9	aux	_	O
+8	be	be	VB	_	9	auxpass	_	O
+9	realized	realize	VBN	_	0	root	_	O
+10	.	.	.	_	9	punct	_	O
+
+1	A	a	DT	_	2	det	_	O
+2	marriage	marriage	NN	_	9	nsubjpass	_	O
+3	between	between	IN	_	2	prep	_	O
+4	rightists	rightist	NNS	_	3	pobj	_	O
+5	and	and	CC	_	4	cc	_	O
+6	#tankies	#tankies	NNS	pos2=NNPS	4	conj	_	O
+7	must	must	MD	_	9	aux	_	O
+8	be	be	VB	_	9	auxpass	_	O
+9	secured	secure	VBN	_	0	root	_	O
+10	for	for	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	sake	sake	NN	_	10	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	peace	peace	NN	_	13	pobj	_	O
+15	!	!	.	_	9	punct	_	O
+

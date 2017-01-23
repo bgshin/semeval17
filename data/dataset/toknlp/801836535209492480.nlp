@@ -1,0 +1,24 @@
+1	She	she	PRP	_	2	nsubj	_	O
+2	stole	steal	VBD	_	0	root	_	O
+3	her	her	PRP$	_	4	poss	_	O
+4	speech	speech	NN	_	2	dobj	_	O
+5	just	just	RB	_	6	advmod	_	O
+6	steel	steel	NN	pos2=VB	1	appos	_	O
+7	Michelle	michelle	NNP	_	9	poss	_	U-PERSON
+8	's	's	POS	pos2=VBZ	7	case	_	O
+9	dress.⚡T	dress.⚡t	NNP	pos2=NN	6	dobj	_	U-PRODUCT
+10	.	.	.	_	2	punct	_	O
+
+1	Hilfiger	hilfiger	NNP	pos2=NN	6	dep	_	U-PERSON
+2	:	:	:	_	6	punct	_	O
+3	Any	any	DT	_	4	det	_	O
+4	designer	designer	NN	_	6	nsubj	_	O
+5	should	should	MD	_	6	aux	_	O
+6	be	be	VB	_	0	root	_	O
+7	proud	proud	JJ	_	6	acomp	_	O
+8	to	to	TO	pos2=IN	9	aux	_	O
+9	dress	dress	VB	pos2=NN	7	xcomp	_	O
+10	Melania	melania	NNP	pos2=GW	11	compound	_	B-PERSON
+11	T	t	NNP	pos2=GW	9	dobj	_	L-PERSON
+12	rumphttps://t.co/NsvUOjfpjb	#hlink#	ADD	pos2=NN	6	dep	_	O
+

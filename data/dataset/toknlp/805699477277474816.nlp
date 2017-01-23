@@ -1,0 +1,14 @@
+1	@NeverMyPres	@nevermypres	NNS	pos2=ADD	7	nsubj	_	O
+2	@HuffingtonPost	@huffingtonpost	IN	pos2=VBD	1	prep	_	O
+3	Your	your	PRP$	_	4	poss	_	O
+4	mother	mother	NN	_	2	pobj	_	O
+5	should	should	MD	_	7	aux	_	O
+6	have	have	VB	_	7	aux	_	O
+7	had	have	VBN	_	0	root	_	O
+8	a	a	DT	_	10	det	_	O
+9	medical	medical	JJ	_	10	nmod	_	O
+10	plan	plan	NN	_	7	dobj	_	O
+11	that	that	WDT	_	12	nsubj	_	O
+12	included	include	VBD	_	10	relcl	_	O
+13	abortion	abortion	NN	_	12	dobj	_	O
+

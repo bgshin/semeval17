@@ -1,0 +1,23 @@
+1	when	when	WRB	_	5	advmod	_	O
+2	the	the	DT	_	4	det	_	O
+3	test	test	NN	_	4	compound	_	O
+4	sample	sample	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	so	so	RB	_	7	advmod	_	O
+7	cute	cute	JJ	_	5	acomp	_	O
+8	&	&	CC	_	7	cc	_	O
+9	fluffy	fluffy	JJ	pos2=RB	7	conj	_	O
+10	but	but	CC	_	5	cc	_	O
+11	you	you	PRP	_	12	nsubj	_	O
+12	have	have	VBP	_	5	conj	_	O
+13	to	to	TO	_	14	aux	_	O
+14	do	do	VB	_	12	xcomp	_	O
+15	cervical	cervical	JJ	_	16	nmod	_	O
+16	dissociation	dissociation	NN	_	14	dobj	_	O
+17	on	on	IN	_	14	prep	_	O
+18	it	it	PRP	_	17	pobj	_	O
+19	...	..	.	pos2=,	12	punct	_	O
+
+1	:((	:((	NFP	pos2=-LRB-	2	punct	_	O
+2	#euthanasia	#euthanasia	UH	pos2=NN	0	root	_	O
+

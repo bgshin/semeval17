@@ -1,0 +1,10 @@
+1	To	to	TO	_	4	aux	_	O
+2	be	be	VB	_	4	auxpass	_	O
+3	soon	soon	RB	_	4	advmod	_	O
+4	put	put	VBN	pos2=VB	0	root	_	O
+5	up	up	RP	_	4	prt	_	O
+6	outside	outside	IN	pos2=RB	4	prep	_	O
+7	our	our	PRP$	_	8	poss	_	O
+8	door	door	NN	_	6	pobj	_	O
+9	:)	:)	NFP	pos2=,	4	discourse	_	O
+

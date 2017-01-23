@@ -1,0 +1,12 @@
+1	Steve	steve	NNP	_	2	compound	_	B-PERSON
+2	Bannon	bannon	NNP	_	4	dep	_	L-PERSON
+3	:	:	:	_	2	punct	_	O
+4	Trump	trump	NNP	pos2=NN	8	poss	_	U-ORG
+5	’s	's	POS	_	4	case	_	O
+6	White	white	NNP	pos2=JJ	8	compound	_	B-PERSON
+7	Christian	christian	NNP	pos2=JJ	8	compound	_	I-PERSON
+8	Crusader	crusader	NNP	_	9	dep	_	L-PERSON
+9	https://t.co/XOQbzpvTau	#hlink#	ADD	pos2=NNP	0	root	_	O
+10	via	via	IN	_	8	prep	_	O
+11	@pdxprogressiveX	@pdxprogressivex	NNP	pos2=NN	10	pobj	_	O
+

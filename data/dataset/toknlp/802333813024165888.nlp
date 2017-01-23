@@ -1,0 +1,29 @@
+1	@mitchellvii	@mitchellvii	VB	pos2=UH	6	advcl	_	O
+2	My	my	PRP$	_	3	poss	_	O
+3	opinion	opinion	NN	_	1	dobj	_	O
+4	-	-	:	pos2=,	6	punct	_	O
+5	This	this	DT	pos2=NNP	6	nsubj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	ploy	ploy	NN	_	6	attr	_	O
+9	to	to	TO	_	10	aux	_	O
+10	make	make	VB	_	8	acl	_	O
+11	an	an	DT	_	12	det	_	O
+12	agreement	agreement	NN	_	10	dobj	_	O
+13	between	between	IN	_	12	prep	_	O
+14	her	her	PRP	pos2=PRP$	13	pobj	_	O
+15	and	and	CC	_	14	cc	_	O
+16	Trump	trump	NNP	pos2=NN	14	conj	_	U-PERSON
+17	.	.	.	_	6	punct	_	O
+
+1	She	she	PRP	_	4	nsubj	_	O
+2	wo	wo	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	protest	protest	VB	_	0	root	_	O
+5	if	if	IN	_	9	mark	_	O
+6	he	he	PRP	_	9	nsubj	_	O
+7	wo	wo	MD	_	9	aux	_	O
+8	n't	not	RB	_	9	neg	_	O
+9	prosecute	prosecute	VB	_	4	advcl	_	O
+10	.	.	.	_	4	punct	_	O
+

@@ -1,0 +1,22 @@
+1	Donald	donald	NNP	_	2	nsubj	_	U-PERSON
+2	get	get	VB	pos2=VBP	0	root	_	O
+3	ur	ur	PRP$	pos2=JJ	4	poss	_	O
+4	act	act	NN	_	2	dobj	_	O
+5	together	together	RB	_	6	advmod	_	O
+6	Quit	quit	VBD	pos2=NNP	2	conj	_	O
+7	fights	fight	NNS	pos2=VBZ	6	dobj	_	O
+8	on	on	IN	_	6	prep	_	O
+9	twitter	twitter	NN	pos2=NNP	8	pobj	_	O
+10	w	w	IN	pos2=FW	6	prep	_	O
+11	@nytimes	@nytimes	HYPH	pos2=XX	10	punct	_	O
+12	Ur	ur	NNP	pos2=XX	13	compound	_	O
+13	#notmypresident	#notmypresident	NN	pos2=XX	10	pobj	_	O
+14	but	but	CC	_	6	cc	_	O
+15	ur	ur	PRP$	pos2=NN	16	poss	_	O
+16	🇺🇸pik	🇺🇸pik	NNP	pos2=WDT	17	nsubj	_	O
+17	Get	get	VB	pos2=VBP	6	conj	_	O
+18	to	to	TO	pos2=IN	19	aux	_	O
+19	work	work	VB	pos2=NN	17	xcomp	_	O
+20	fool	fool	NN	pos2=VB	19	dobj	_	O
+21	#TrumpTransitionTeam	#trumptransitionteam	.	pos2=NN	2	punct	_	O
+

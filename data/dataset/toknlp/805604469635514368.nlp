@@ -1,0 +1,27 @@
+1	Lesson	lesson	NN	pos2=VB	7	dep	_	O
+2	3	0	CD	_	1	nmod	_	U-CARDINAL
+3	of	of	IN	_	1	prep	_	O
+4	Being	be	VBG	pos2=NNP	3	pcomp	_	O
+5	Extra	extra	NNP	pos2=JJ	4	attr	_	O
+6	:	:	:	_	7	punct	_	O
+7	have	have	VB	pos2=VBP	0	root	_	O
+8	a	a	DT	_	9	det	_	O
+9	rule	rule	NN	_	7	dobj	_	O
+10	that	that	WDT	pos2=IN	13	mark	_	O
+11	you	you	PRP	_	13	nsubj	_	O
+12	must	must	MD	_	13	aux	_	O
+13	wear	wear	VB	_	9	relcl	_	O
+14	sunglasses	sunglasses	NNS	_	13	dobj	_	O
+15	in	in	IN	_	13	prep	_	O
+16	fluorescent	fluorescent	JJ	pos2=NN	17	nmod	_	O
+17	lighting	lighting	NN	_	15	pobj	_	O
+18	and	and	CC	_	13	cc	_	O
+19	blame	blame	VB	pos2=VBP	13	conj	_	O
+20	it	it	PRP	_	19	dobj	_	O
+21	on	on	IN	_	19	prep	_	O
+22	being	be	VBG	_	21	pcomp	_	O
+23	"	"	``	_	24	punct	_	O
+24	90's	0's	NNS	_	26	nmod	_	O
+25	"	"	''	_	24	punct	_	O
+26	#MariahsWorld	#mariahsworld	NN	pos2=ADD	22	attr	_	O
+

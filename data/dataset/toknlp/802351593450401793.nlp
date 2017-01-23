@@ -1,0 +1,32 @@
+1	@movieguypaul	@movieguypaul	UH	pos2=VB	4	discourse	_	O
+2	@Rosie	@rosie	NNP	pos2=IN	4	vocative	_	U-PERSON
+3	YOU	you	PRP	pos2=PRP$	4	nmod	_	O
+4	IDIOT	idiot	NN	pos2=NNP	0	root	_	O
+5	...	..	.	pos2=:	4	punct	_	O
+
+1	PROTEST	protest	NN	pos2=VB	2	compound	_	O
+2	TRUMP	trump	NN	pos2=NNP	0	root	_	O
+3	FOR	for	IN	_	2	prep	_	O
+4	BEING	be	VBG	pos2=NNP	5	auxpass	_	O
+5	ELECTED	elect	VBN	_	3	pcomp	_	O
+6	BY	by	IN	_	5	agent	_	O
+7	THE	the	DT	_	8	det	_	O
+8	PPL	ppl	NNP	pos2=NNS	6	pobj	_	U-ORG
+9	..	..	.	pos2=,	2	punct	_	O
+
+1	Y	y	NNP	pos2=LS	2	compound	_	O
+2	BC	bc	NNP	pos2=NN	4	vocative	_	O
+3	YOU	you	PRP	pos2=NNP	4	nsubj	_	O
+4	POS	pos	VBP	pos2=NNP	0	root	_	O
+5	YOU	you	PRP	_	10	nsubj	_	O
+6	DINT	dint	RB	pos2=NN	10	advmod	_	O
+7	LIKE	like	UH	pos2=IN	10	discourse	_	O
+8	HOW	how	WRB	_	10	advmod	_	O
+9	IT	it	PRP	_	10	nsubj	_	O
+10	TURNED	turn	VBD	_	4	conj	_	O
+11	OUT	out	RP	pos2=RB	10	prt	_	O
+12	....	..	.	pos2=,	4	punct	_	O
+
+1	GOO	goo	NN	pos2=NNP	2	compound	_	O
+2	GOOI	gooi	NNP	pos2=NN	0	root	_	O
+

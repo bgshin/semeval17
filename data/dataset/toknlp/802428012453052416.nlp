@@ -1,0 +1,18 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	support	support	VBP	_	0	root	_	O
+3	voluntary	voluntary	JJ	_	6	nmod	_	O
+4	personal	personal	JJ	_	6	nmod	_	O
+5	retirement	retirement	NN	_	6	compound	_	O
+6	accounts	account	NNS	pos2=VBZ	2	dobj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	Social	social	NNP	_	9	compound	_	B-ORG
+9	Security	security	NNP	_	7	pobj	_	L-ORG
+10	.	.	.	_	2	punct	_	O
+
+1	I	I	PRP	_	0	root	_	O
+2	...	..	.	pos2=,	1	punct	_	O
+
+1	#SharronAngle	#sharronangle	GW	pos2=XX	3	nmod	_	O
+2	#quote	#quote	UH	pos2=GW	3	nmod	_	O
+3	https://t.co/WgxvOGXdli	#hlink#	ADD	pos2=NN	0	root	_	O
+

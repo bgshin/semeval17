@@ -1,0 +1,22 @@
+1	i	I	PRP	_	2	nsubj	_	O
+2	want	want	VBP	_	0	root	_	O
+3	the	the	DT	_	7	det	_	O
+4	"	"	``	_	5	punct	_	O
+5	hello	hello	UH	pos2=JJ	2	discourse	_	O
+6	"	"	''	pos2=``	5	punct	_	O
+7	part	part	NN	_	2	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	that	that	DT	pos2=WDT	13	det	_	O
+10	melania	melania	NN	pos2=NNP	11	compound	_	O
+11	trump	trump	NN	_	13	compound	_	O
+12	speech	speech	NN	_	13	compound	_	O
+13	video	video	NN	_	8	pobj	_	O
+14	played	play	VBN	pos2=VBD	13	acl	_	O
+15	in	in	IN	_	14	prep	_	O
+16	a	a	DT	_	17	det	_	O
+17	loop	loop	NN	_	15	pobj	_	O
+18	at	at	IN	_	17	prep	_	O
+19	my	my	PRP$	_	20	poss	_	O
+20	funeral	funeral	NN	_	18	pobj	_	O
+21	.	.	.	_	2	punct	_	O
+

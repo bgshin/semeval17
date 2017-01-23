@@ -1,0 +1,28 @@
+1	Obama	obama	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	goes	go	VBZ	_	0	root	_	O
+3	to	to	IN	_	2	prep	_	O
+4	Cuba	cuba	NNP	_	3	pobj	_	U-GPE
+5	after	after	IN	_	2	prep	_	O
+6	50	0	CD	_	8	nmod	_	B-DATE
+7	+	+	SYM	_	6	punct	_	I-DATE
+8	years	year	NNS	_	5	pobj	_	L-DATE
+9	of	of	IN	_	8	prep	_	O
+10	embargo	embargo	NN	_	9	pobj	_	O
+11	,	,	,	_	13	punct	_	O
+12	LIBTARDS	libtards	NNP	pos2=VBZ	10	appos	_	U-ORG
+13	pat	pat	IN	pos2=VB	16	vocative	_	O
+14	him	him	PRP	_	13	pobj	_	O
+15	on	on	IN	_	12	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	back	back	NN	_	15	pobj	_	O
+18	.	.	.	_	2	punct	_	O
+
+1	Trump	trump	NN	pos2=NNP	2	nsubj	_	U-PERSON
+2	gets	get	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	congratulations	congratulation	NNS	_	2	dobj	_	O
+5	from	from	IN	_	2	prep	_	O
+6	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/mSsD7TAtQD	#hlink#	ADD	_	0	root	_	U-ORG
+

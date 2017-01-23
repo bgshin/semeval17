@@ -1,0 +1,28 @@
+1	This	this	DT	_	3	nsubj	_	O
+2	totally	totally	RB	_	3	advmod	_	O
+3	threw	throw	VBD	_	0	root	_	O
+4	me	me	PRP	_	3	dobj	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	It	it	PRP	_	4	nsubj	_	O
+2	may	may	MD	_	4	aux	_	O
+3	not	not	RB	_	4	neg	_	O
+4	be	be	VB	_	0	root	_	O
+5	about	about	IN	pos2=RB	4	prep	_	O
+6	gun	gun	NN	_	7	compound	_	O
+7	control	control	NN	_	5	pobj	_	O
+8	per	per	FW	pos2=IN	9	advmod	_	O
+9	se	se	FW	pos2=NN	7	advmod	_	O
+10	,	,	,	_	4	punct	_	O
+11	but	but	CC	_	4	cc	_	O
+12	imagine	imagine	VB	pos2=VBP	4	conj	_	O
+13	living	live	VBG	pos2=NN	12	xcomp	_	O
+14	somewhere	somewhere	RB	_	13	advmod	_	O
+15	this	this	DT	_	16	nsubj	_	O
+16	needed	need	VBN	pos2=VBD	21	nmod	_	O
+17	to	to	TO	_	19	aux	_	O
+18	be	be	VB	_	19	auxpass	_	O
+19	made	make	VBN	_	16	xcomp	_	O
+20	😞	😞	NFP	pos2=-LRB-	21	punct	_	O
+21	https://t.co/3HHkniIFjA	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,17 @@
+1	Saakashvili	saakashvili	NNP	_	2	nsubj	_	U-PERSON
+2	Founds	found	VBZ	pos2=NNP	0	root	_	O
+3	New	new	NNP	_	4	compound	_	B-ORG
+4	Party	party	NNP	_	2	dobj	_	L-ORG
+5	,	,	,	_	6	punct	_	O
+6	Begins	begin	VBZ	pos2=NNP	2	conj	_	O
+7	Struggle	struggle	NNP	pos2=NN	6	nsubj	_	O
+8	for	for	IN	_	7	prep	_	O
+9	Power	power	NNP	pos2=NN	8	pobj	_	O
+10	in	in	IN	_	7	prep	_	O
+11	Kiev	kiev	NNP	_	16	dep	_	O
+12	–	-	HYPH	pos2=:	13	punct	_	O
+13	Nolan	nolan	NNP	_	14	compound	_	B-PERSON
+14	Peterson	peterson	NNP	pos2=GW	16	dep	_	L-PERSON
+15	https://t.co/ZyEAcpPWVr	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/EHxQvMH5M7	#hlink#	ADD	_	6	npadvmod	_	U-ORG
+

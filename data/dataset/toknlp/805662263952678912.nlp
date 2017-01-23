@@ -1,0 +1,19 @@
+1	Oklahoma	oklahoma	NNP	_	3	nsubj	_	U-GPE
+2	has	have	VBZ	_	3	aux	_	O
+3	gotten	get	VBN	_	14	ccomp	_	O
+4	a	a	DT	_	7	det	_	O
+5	decent	decent	JJ	_	6	advmod	_	O
+6	sized	sized	JJ	_	7	nmod	_	O
+7	earthquake	earthquake	NN	_	3	dobj	_	O
+8	every	every	DT	_	9	det	_	B-DATE
+9	month	month	NN	_	3	npadvmod	_	L-DATE
+10	since	since	IN	_	3	prep	_	O
+11	October	october	NNP	_	10	pobj	_	U-DATE
+12	,	,	,	_	14	punct	_	O
+13	y'all	y'all	PRP	pos2=MD	14	nsubj	_	O
+14	need	need	VBP	_	0	root	_	O
+15	to	to	TO	_	16	aux	_	O
+16	stop	stop	VB	_	14	xcomp	_	O
+17	fracking	fracking	VBG	pos2=NN	16	xcomp	_	O
+18	lol	lol	UH	pos2=NN	14	discourse	_	O
+

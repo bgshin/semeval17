@@ -1,0 +1,13 @@
+1	Harlem	harlem	NNP	_	2	nsubj	_	O
+2	Salutes	salute	VBZ	pos2=NNPS	0	root	_	O
+3	Fidel	fidel	NNP	_	4	compound	_	B-PERSON
+4	Castro	castro	NNP	_	2	dobj	_	L-PERSON
+5	--	--	:	_	4	punct	_	O
+6	Tribute	tribute	NN	pos2=VB	4	appos	_	O
+7	and	and	CC	_	6	cc	_	O
+8	Farewell	farewell	NNP	_	6	conj	_	O
+9	From	from	IN	_	6	prep	_	O
+10	Black	black	NNP	_	11	compound	_	O
+11	Community	community	NNP	pos2=NN	9	pobj	_	O
+12	https://t.co/QACgvxs1e9	#hlink#	ADD	_	4	appos	_	O
+

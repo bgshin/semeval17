@@ -1,0 +1,23 @@
+1	@ziggyz2020	@ziggyz0	NN	pos2=UH	4	vocative	_	O
+2	@jasoninthehouse	@jasoninthehouse	UH	pos2=IN	4	discourse	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	're	be	VBP	_	0	root	_	O
+5	such	such	PDT	pos2=JJ	8	predet	_	O
+6	a	a	DT	_	8	det	_	O
+7	looser	loose	JJR	_	8	nmod	_	O
+8	talk	talk	NN	_	4	attr	_	O
+9	about	about	IN	_	8	prep	_	O
+10	cheater	cheater	NN	pos2=JJR	9	pobj	_	O
+11	the	the	DT	_	12	det	_	O
+12	ClintonFoundation	clintonfoundation	NNP	_	13	nsubj	_	U-ORG
+13	going	go	VBG	_	8	acl	_	O
+14	to	to	TO	_	15	aux	_	O
+15	put	put	VB	_	13	xcomp	_	O
+16	corrupt	corrupt	JJ	_	17	nmod	_	O
+17	Clintons	clinton	NNPS	pos2=NNS	15	dobj	_	U-PERSON
+18	in	in	IN	_	15	prep	_	O
+19	jail	jail	NN	_	18	pobj	_	O
+20	lol	lol	UH	pos2=NN	15	discourse	_	O
+21	u	u	PRP	pos2=NN	22	nsubj	_	O
+22	lost	lose	VBD	pos2=VBN	4	conj	_	O
+

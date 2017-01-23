@@ -1,0 +1,12 @@
+1	Disability	disability	NN	_	2	compound	_	O
+2	community	community	NN	_	6	dep	_	O
+3	:	:	:	_	6	punct	_	O
+4	Do	do	VB	pos2=VBP	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	slow	slow	VB	pos2=JJ	0	root	_	O
+7	testing	testing	NN	_	6	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	self-driving	self-driving	JJ	_	10	nmod	_	O
+10	cars	car	NNS	_	8	pobj	_	O
+11	https://t.co/qHXobDQlsh	#hlink#	ADD	_	6	dep	_	O
+

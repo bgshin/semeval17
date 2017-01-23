@@ -1,0 +1,14 @@
+1	@chrislhayes	@chrislhayes	UH	pos2=NNS	3	discourse	_	O
+2	@Michelle_888	@michelle_0	NN	pos2=NNS	3	nsubj	_	O
+3	#TRUMPTRANSITIONTEAM	#trumptransitionteam	VBD	pos2=VB	0	root	_	O
+4	ALL	all	DT	pos2=RB	3	dobj	_	O
+5	WITH	with	IN	_	3	prep	_	O
+6	HISTORY	history	NN	_	5	pobj	_	O
+7	OF	of	IN	_	6	prep	_	O
+8	ANTISEMITISM	antisemitism	NN	_	7	pobj	_	O
+9	AND	and	CC	_	8	cc	_	O
+10	SUCH	such	JJ	pos2=NN	8	conj	_	O
+11	...	..	.	pos2=,	3	punct	_	O
+
+1	https://t.co/bujest32ta	#hlink#	ADD	_	0	root	_	U-ORG
+

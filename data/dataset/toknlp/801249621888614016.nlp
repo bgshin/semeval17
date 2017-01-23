@@ -1,0 +1,14 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	wife	wife	NN	_	13	poss	_	O
+3	's	's	POS	_	2	case	_	O
+4	top	top	JJ	pos2=NN	5	nmod	_	O
+5	4.4.	0.	CD	pos2=NNP	13	nmod	_	U-CARDINAL
+6	Kirk	kirk	NNP	_	13	compound	_	O
+7	3.	0.	NNP	pos2=CD	13	compound	_	U-CARDINAL
+8	Sookie	sookie	NNP	pos2=NN	13	compound	_	O
+9	2.	0.	NNP	pos2=VBZ	13	compound	_	U-CARDINAL
+10	Luke	luke	NNP	_	13	compound	_	O
+11	1.	0.	NNP	pos2=CD	13	compound	_	U-CARDINAL
+12	Jess	jess	NNP	_	13	compound	_	B-PERSON
+13	#GilmoreGirlsTop4	#gilmoregirlstop0	NNP	pos2=ADD	0	root	_	L-PERSON
+

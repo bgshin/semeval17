@@ -1,0 +1,15 @@
+1	i	I	PRP	_	2	nsubj	_	O
+2	read	read	VBD	pos2=VBP	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	first	#ord#	JJ	_	5	nmod	_	U-ORDINAL
+5	line	line	NN	_	2	dobj	_	O
+6	and	and	CC	_	2	cc	_	O
+7	thought	think	VBD	_	2	conj	_	O
+8	it	it	PRP	_	9	nsubj	_	O
+9	was	be	VBD	_	7	ccomp	_	O
+10	from	from	IN	_	9	prep	_	O
+11	melania	melania	NNP	pos2=NN	13	poss	_	O
+12	's	's	POS	_	11	case	_	O
+13	speech	speech	NN	_	10	pobj	_	O
+14	https://t.co/Qy2jF5xy0K	#hlink#	ADD	_	13	appos	_	U-ORG
+

@@ -1,0 +1,12 @@
+1	Achievement	achievement	NN	_	2	nsubj	_	O
+2	unlocked	unlock	VBN	pos2=VBD	0	root	_	O
+3	:	:	:	_	2	punct	_	O
+4	We	we	PRP	_	6	nsubj	_	O
+5	all	all	DT	_	4	appos	_	O
+6	survived	survive	VBD	pos2=JJ	2	dep	_	O
+7	baby	baby	NN	_	8	compound	_	O
+8	vaccines	vaccine	NNS	_	6	dobj	_	O
+9	round	round	JJ	pos2=IN	8	nmod	_	O
+10	1	0	CD	_	11	nmod	_	U-CARDINAL
+11	#parenting	#parenting	NN	pos2=NNS	6	npadvmod	_	O
+

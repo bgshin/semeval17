@@ -1,0 +1,33 @@
+1	@DougPartin	@dougpartin	NNP	pos2=ADD	7	vocative	_	O
+2	@chucktodd	@chucktodd	UH	pos2=NFP	7	discourse	_	O
+3	&	&	CC	_	1	cc	_	O
+4	why	why	WRB	_	7	advmod	_	O
+5	does	do	VBZ	_	7	aux	_	O
+6	this	this	DT	_	7	nsubj	_	O
+7	matter	matter	VB	pos2=NN	0	root	_	O
+8	?	?	.	_	7	punct	_	O
+
+1	Clinton	clinton	NNP	_	0	root	_	U-PERSON
+2	...	..	.	pos2=,	1	punct	_	O
+
+1	hmm	hmm	UH	_	4	discourse	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	mean	mean	VB	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	guy	guy	NN	_	4	dobj	_	O
+7	who	who	WP	_	8	nsubj	_	O
+8	built	build	VBD	pos2=VBZ	6	relcl	_	O
+9	the	the	DT	_	10	det	_	O
+10	wall	wall	NN	_	8	dobj	_	O
+11	on	on	IN	_	8	prep	_	O
+12	the	the	DT	_	15	det	_	O
+13	S.W.	s.w.	NNP	_	15	nmod	_	U-GPE
+14	Mexican	mexican	JJ	pos2=NNP	15	nmod	_	U-NORP
+15	border	border	NN	_	11	pobj	_	O
+16	in	in	IN	_	8	prep	_	O
+17	1994	0	CD	_	16	pobj	_	U-DATE
+18	?	?	.	_	4	punct	_	O
+
+1	SMH	smh	NNP	pos2=NN	0	root	_	U-ORG
+

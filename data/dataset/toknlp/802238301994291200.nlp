@@ -1,0 +1,27 @@
+1	Ca	can	MD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	believe	believe	VB	_	0	root	_	O
+4	how	how	WRB	_	5	advmod	_	O
+5	excited	excited	JJ	_	8	acomp	_	O
+6	#Celtics	#celtics	IN	pos2=NNS	5	prep	_	O
+7	fans	fan	NNS	_	6	pobj	_	O
+8	are	be	VBP	_	3	ccomp	_	O
+9	about	about	IN	pos2=RB	8	prep	_	O
+10	Horford	horford	NNP	_	9	pobj	_	U-ORG
+11	.	.	.	_	3	punct	_	O
+
+1	Newsflash	newsflash	NN	_	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	He	he	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	not	not	RB	_	4	neg	_	O
+6	the	the	DT	_	8	det	_	O
+7	2nd	#ord#	JJ	pos2=NN	8	nmod	_	U-ORDINAL
+8	coming	coming	NN	pos2=VBG	4	attr	_	O
+9	of	of	IN	_	8	prep	_	O
+10	Tim	tim	NNP	_	11	compound	_	B-PERSON
+11	Duncan	duncan	NNP	_	9	pobj	_	L-PERSON
+12	.	.	.	_	4	punct	_	O
+
+1	https://t.co/lvfecbYaJt	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,13 @@
+1	@flavescentes	@flavescentes	IN	pos2=PRP$	3	prep	_	O
+2	vegetarianism	vegetarianism	NN	_	1	pobj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	what	what	WP	_	6	dobj	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	do	do	VBP	_	3	ccomp	_	O
+7	and	and	CC	_	6	cc	_	O
+8	veganism	veganism	NN	_	9	nsubj	_	O
+9	is	be	VBZ	_	6	conj	_	O
+10	how	how	WRB	_	12	advmod	_	O
+11	you	you	PRP	_	12	nsubj	_	O
+12	live	live	VBP	pos2=JJ	9	ccomp	_	O
+

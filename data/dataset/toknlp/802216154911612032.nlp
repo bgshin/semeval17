@@ -1,0 +1,22 @@
+1	@osPatriot	@ospatriot	NNP	pos2=NN	2	compound	_	U-ORG
+2	0bama	0bama	NN	pos2=NNP	4	nsubj	_	O
+3	DID	do	VBD	pos2=NN	4	aux	_	O
+4	weigh	weigh	VB	_	0	root	_	O
+5	in	in	RP	pos2=RB	4	prt	_	O
+6	;	;	,	pos2=``	4	punct	_	O
+7	remember	remember	VB	_	4	conj	_	O
+8	?	?	.	_	4	punct	_	O
+
+1	Obama	obama	NNP	_	2	nsubj	_	U-PERSON
+2	Invites	invite	VBZ	_	0	root	_	O
+3	Radical	radical	JJ	pos2=NNP	4	nmod	_	O
+4	#BlackLivesMatter	#blacklivesmatter	NN	pos2=NNP	2	dobj	_	O
+5	to	to	IN	_	2	prep	_	O
+6	White	white	NNP	_	7	compound	_	B-ORG
+7	House	house	NNP	_	5	pobj	_	L-ORG
+8	!	!	.	_	2	punct	_	O
+
+1	https://t.co/vF89BsgBBL	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@gatewaypundit	@gatewaypundit	NN	pos2=PRP	2	pobj	_	O
+

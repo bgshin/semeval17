@@ -1,0 +1,15 @@
+1	#MuhammadAli	#muhammadali	NNS	pos2=VBG	4	compound	_	O
+2	Lucky	lucky	NNP	pos2=JJ	4	compound	_	B-ORG
+3	Brand	brand	NNP	_	4	compound	_	I-ORG
+4	Men	man	NNPS	pos2=NNP	10	poss	_	I-ORG
+5	's	's	POS	_	4	case	_	L-ORG
+6	Muhammad	muhammad	NNP	_	8	compound	_	B-PERSON
+7	Ali	ali	NNP	_	8	compound	_	L-PERSON
+8	Philippines	philippines	NNP	_	10	compound	_	U-GPE
+9	T-shirt	t-shirt	NN	pos2=NNP	10	compound	_	O
+10	Size	size	NN	pos2=NNP	0	root	_	O
+11	XL	xl	NNP	pos2=GW	14	dep	_	O
+12	https://t.co/m5CaXI83rq	#hlink#	ADD	pos2=NN	14	dep	_	O
+13	#Legend	#legend	NNP	pos2=-RRB-	14	compound	_	O
+14	#Boxer	#boxer	NNP	pos2=.	10	appos	_	O
+

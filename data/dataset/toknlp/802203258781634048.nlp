@@ -1,0 +1,16 @@
+1	You	you	PRP	_	3	nsubj	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	know	know	VBP	pos2=VB	0	root	_	O
+4	Ben	ben	NNP	_	5	compound	_	B-PERSON
+5	Carson	carson	NNP	_	9	poss	_	I-PERSON
+6	's	's	POS	_	5	case	_	L-PERSON
+7	former	former	JJ	_	9	nmod	_	O
+8	PAC	pac	NNP	pos2=NN	9	compound	_	U-ORG
+9	staff	staff	NN	_	10	nsubj	_	O
+10	is	be	VBZ	_	3	ccomp	_	O
+11	out	out	RB	_	12	advmod	_	O
+12	there	there	RB	_	10	advmod	_	O
+13	fuming	fume	VBG	_	10	advcl	_	O
+14	over	over	IN	pos2=RP	13	prep	_	O
+15	this	this	DT	_	14	pobj	_	O
+

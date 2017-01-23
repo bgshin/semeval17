@@ -1,0 +1,17 @@
+1	Cowboys	cowboy	NNS	pos2=NNPS	2	nsubj	_	O
+2	were	be	VBD	_	0	root	_	O
+3	awful	awful	JJ	pos2=RB	2	acomp	_	O
+4	last	last	JJ	pos2=RB	5	nmod	_	O
+5	Thanksgiving	thanksgiving	NNP	pos2=NN	2	npadvmod	_	U-EVENT
+6	.	.	.	_	2	punct	_	O
+
+1	Now	now	RB	pos2=UH	3	advmod	_	O
+2	they	they	PRP	_	3	nsubj	_	O
+3	’re	be	VBP	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	NFL	nfl	NNP	_	8	poss	_	U-ORG
+6	’s	's	POS	_	5	case	_	O
+7	best	good	JJS	_	8	nmod	_	O
+8	team	team	NN	_	3	attr	_	O
+9	https://t.co/g6bveqhkcQ	#hlink#	ADD	_	8	appos	_	O
+

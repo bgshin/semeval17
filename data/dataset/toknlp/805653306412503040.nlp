@@ -1,0 +1,18 @@
+1	@Wendstress	@wendstress	NNP	pos2=UH	6	vocative	_	O
+2	@missjazzyfitnes	@missjazzyfitnes	UH	pos2=NNS	6	discourse	_	O
+3	you	you	PRP	_	6	nsubj	_	O
+4	're	be	VBP	_	6	aux	_	O
+5	laboriously	laboriously	RB	_	6	advmod	_	O
+6	ensuring	ensure	VBG	_	0	root	_	O
+7	pedophillic	pedophillic	JJ	pos2=IN	8	nmod	_	O
+8	priests	priest	NNS	_	10	nsubjpass	_	O
+9	are	be	VBP	_	10	auxpass	_	O
+10	arrested	arrest	VBN	_	6	ccomp	_	O
+11	,	,	,	_	10	punct	_	O
+12	convicted	convict	VBN	_	10	conj	_	O
+13	,	,	,	_	12	punct	_	O
+14	incarcerated	incarcerate	VBN	_	12	conj	_	O
+15	?	?	.	_	6	punct	_	O
+
+1	https://t.co/85x2hbKtcT	#hlink#	ADD	_	0	root	_	U-ORG
+

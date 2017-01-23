@@ -1,0 +1,27 @@
+1	Good	good	JJ	_	2	nmod	_	O
+2	points	point	NNS	pos2=VBZ	0	root	_	O
+3	abt	abt	NN	pos2=RB	5	nmod	_	O
+4	“	"	''	pos2=``	5	punct	_	O
+5	lack	lack	NN	_	0	root	_	O
+6	of	of	IN	_	5	prep	_	O
+7	historical	historical	JJ	_	8	nmod	_	O
+8	awareness	awareness	NN	_	6	pobj	_	O
+9	,	,	,	_	2	punct	_	O
+10	”	"	''	_	2	punct	_	O
+11	but	but	CC	_	13	cc	_	O
+12	this	this	DT	_	13	nsubj	_	O
+13	is	be	VBZ	_	8	parataxis	_	O
+14	a	a	DT	_	16	det	_	O
+15	terrible	terrible	JJ	_	16	nmod	_	O
+16	headline	headline	NN	_	13	attr	_	O
+17	for	for	IN	_	16	prep	_	O
+18	a	a	DT	_	19	det	_	O
+19	piece	piece	NN	_	17	pobj	_	O
+20	about	about	IN	_	19	prep	_	O
+21	neo-nazis	neo-nazi	NNS	_	20	pobj	_	O
+22	/	/	SYM	pos2=,	21	punct	_	O
+23	white	white	JJ	pos2=NN	25	poss	_	O
+24	s	s	POS	pos2=AFX	23	case	_	O
+25	…	…	NFP	pos2=GW	21	appos	_	O
+26	https://t.co/x6FzrOlluu	#hlink#	ADD	_	16	appos	_	U-ORG
+

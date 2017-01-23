@@ -1,0 +1,22 @@
+1	true	true	JJ	_	8	dep	_	O
+2	@wtmaIIy	@wtmaiiy	IN	pos2=XX	1	prep	_	O
+3	@rayrayhatcher	@rayrayhatcher	GW	pos2=NN	5	nmod	_	O
+4	-	-	:	pos2=GW	8	punct	_	O
+5	https://t.co/bQNY5J9jbw:	#hlink#	ADD	pos2=NN	0	root	_	O
+6	so	so	RB	pos2=-RRB-	7	advmod	_	O
+7	wait	wait	VB	_	8	discourse	_	O
+8	let	let	VB	pos2=VBG	0	root	_	O
+9	me	me	PRP	_	10	nsubj	_	O
+10	get	get	VB	_	8	ccomp	_	O
+11	this	this	DT	_	12	nsubj	_	O
+12	straight	straight	JJ	pos2=RB	10	ccomp	_	O
+13	,	,	,	_	15	punct	_	O
+14	we	we	PRP	_	15	nsubj	_	O
+15	are	be	VBP	_	0	root	_	O
+16	joe	joe	JJ	pos2=CD	21	nmod	_	O
+17	biden	biden	NNP	pos2=RB	21	nmod	_	O
+18	and	and	CC	_	17	cc	_	O
+19	melania	melania	NN	pos2=GW	17	conj	_	O
+20	trump	trump	NN	_	21	compound	_	O
+21	memes	meme	NNS	_	15	attr	_	O
+

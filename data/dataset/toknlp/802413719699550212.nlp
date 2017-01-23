@@ -1,0 +1,28 @@
+1	Earlier	early	RBR	pos2=JJR	2	advmod	_	O
+2	on	on	IN	_	5	prep	_	O
+3	Thursday	thursday	NNP	_	4	compound	_	U-DATE
+4	Samsung	samsung	NNP	_	2	pobj	_	U-ORG
+5	teased	tease	VBD	_	0	root	_	O
+6	us	us	PRP	_	5	dobj	_	O
+7	with	with	IN	_	5	prep	_	O
+8	a	a	DT	_	10	det	_	O
+9	preview	preview	NN	pos2=JJ	10	compound	_	O
+10	video	video	NN	_	7	pobj	_	O
+11	for	for	IN	_	10	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	Galaxy	galaxy	NNP	_	14	compound	_	O
+14	Note	note	NN	pos2=NNP	11	pobj	_	O
+15	7	0	CD	_	16	nmod	_	U-CARDINAL
+16	handset	handset	NN	_	17	nsubj	_	O
+17	set	set	VBN	pos2=NN	5	ccomp	_	O
+18	to	to	TO	_	19	aux	_	O
+19	launch	launch	VB	pos2=NN	17	xcomp	_	O
+20	this	this	DT	_	21	det	_	B-DATE
+21	week	week	NN	_	19	npadvmod	_	L-DATE
+22	.	.	.	_	5	punct	_	O
+
+1	Data	datum	NNS	pos2=NN	2	compound	_	O
+2	backup	backup	JJ	pos2=NN	0	root	_	O
+3	and	and	CC	_	2	cc	_	O
+4	...	..	.	pos2=,	2	punct	_	O
+

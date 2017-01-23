@@ -1,0 +1,16 @@
+1	Fidel	fidel	NNP	_	2	compound	_	B-PERSON
+2	castro	castro	NNP	pos2=FW	0	root	_	L-PERSON
+3	.	.	.	_	2	punct	_	O
+
+1	Do	do	VBP	pos2=VB	3	aux	_	O
+2	we	we	PRP	_	3	nsubj	_	O
+3	like	like	VB	_	0	root	_	O
+4	it	it	PRP	_	3	dobj	_	O
+5	?	?	.	_	3	punct	_	O
+
+1	Or	or	CC	_	2	cc	_	O
+2	not	not	RB	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	#FidelCastro	#fidelcastro	ADD	pos2=XX	0	root	_	U-FAC
+

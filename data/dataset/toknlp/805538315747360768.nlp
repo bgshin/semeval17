@@ -1,0 +1,15 @@
+1	@GQuintero_84	@gquintero_0	NN	pos2=LS	3	nsubj	_	O
+2	@worldbulletin	@worldbulletin	TO	pos2=UH	3	aux	_	O
+3	put	put	VB	pos2=VBD	0	root	_	O
+4	an	an	DT	_	5	det	_	O
+5	embargo	embargo	NN	_	3	dobj	_	O
+6	on	on	IN	_	5	prep	_	O
+7	FRANCE	france	NNP	pos2=NN	6	pobj	_	U-GPE
+8	like	like	IN	pos2=UH	10	mark	_	O
+9	you	you	PRP	_	10	nsubj	_	O
+10	do	do	VBP	_	3	advcl	_	O
+11	other	other	JJ	_	12	nmod	_	O
+12	countries	country	NNS	_	10	dobj	_	O
+13	like	like	IN	_	12	prep	_	O
+14	Cuba	cuba	NNP	_	13	pobj	_	U-GPE
+

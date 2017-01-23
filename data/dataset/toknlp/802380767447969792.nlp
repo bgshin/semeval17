@@ -1,0 +1,10 @@
+1	Colin	colin	NNP	_	2	compound	_	B-PERSON
+2	Kaepernick	kaepernick	NNP	_	6	nsubj	_	L-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	Michael	michael	NNP	_	5	compound	_	B-PERSON
+5	Moore	moore	NNP	_	2	conj	_	L-PERSON
+6	has	have	VBZ	_	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	sadz	sadz	JJ	pos2=NN	9	nmod	_	U-NORP
+9	https://t.co/1dFPbbJAKJ	#hlink#	ADD	pos2=NN	6	dobj	_	O
+

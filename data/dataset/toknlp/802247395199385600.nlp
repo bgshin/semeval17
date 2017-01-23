@@ -1,0 +1,26 @@
+1	This	this	DT	_	3	nsubj	_	O
+2	never	never	RB	_	3	neg	_	O
+3	happened	happened	VBD	pos2=VBN	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	the	the	DT	_	8	det	_	O
+6	Tim	tim	NNP	_	8	compound	_	B-PERSON
+7	Duncan	duncan	NNP	_	8	compound	_	L-PERSON
+8	Era	era	NNP	pos2=NN	4	pobj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	Spurs	spur	NNS	pos2=NNPS	4	nsubj	_	O
+2	have	have	VBP	_	4	aux	_	O
+3	already	already	RB	_	4	advmod	_	O
+4	accomplished	accomplish	VBN	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	feat	feat	NN	_	4	dobj	_	O
+7	in	in	IN	_	4	prep	_	O
+8	the	the	DT	_	10	det	_	B-DATE
+9	first	#ord#	JJ	_	10	nmod	_	I-DATE
+10	year	year	NN	_	7	pobj	_	L-DATE
+11	of	of	IN	_	10	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	Kawhi	kawhi	NNP	_	11	pobj	_	B-PERSON
+14	…	…	NFP	pos2=NNP	15	punct	_	L-PERSON
+15	https://t.co/vwXKpVdwJx	#hlink#	ADD	_	13	appos	_	O
+

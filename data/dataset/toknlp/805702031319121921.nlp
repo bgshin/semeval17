@@ -1,0 +1,19 @@
+1	Why	why	WRB	_	3	advmod	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	still	still	RB	_	3	advmod	_	O
+5	important	important	JJ	_	3	acomp	_	O
+6	to	to	TO	_	7	aux	_	O
+7	reward	reward	VB	_	3	xcomp	_	O
+8	staff	staff	NN	_	7	dobj	_	O
+9	even	even	RB	_	15	advmod	_	O
+10	though	though	IN	_	15	mark	_	O
+11	the	the	DT	_	13	det	_	O
+12	minimum	minimum	JJ	pos2=NN	13	nmod	_	O
+13	wage	wage	NN	_	15	nsubj	_	O
+14	has	have	VBZ	_	15	aux	_	O
+15	risen	rise	VBN	_	7	advcl	_	O
+16	https://t.co/9WXgosg4UF	#hlink#	ADD	pos2=RP	15	npadvmod	_	O
+17	via	via	IN	_	15	prep	_	O
+18	@EmployeeBenefit	@employeebenefit	NN	pos2=NNP	17	pobj	_	O
+

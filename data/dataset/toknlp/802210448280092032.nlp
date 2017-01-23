@@ -1,0 +1,14 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@masoud_barzani	@masoud_barzani	NN	pos2=NNP	2	nsubj	_	O
+2	condemns	condemn	VBZ	_	0	root	_	O
+3	car	car	NN	_	4	compound	_	O
+4	bomb	bomb	NN	_	5	compound	_	O
+5	attack	attack	NN	_	2	dobj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	southern	southern	JJ	_	8	nmod	_	O
+8	#Baghdad	#baghdad	GW	pos2=NFP	6	pobj	_	O
+9	https://t.co/4WMdT4fCjO#TwitterKurds	#hlink#	ADD	pos2=GW	11	nmod	_	U-GPE
+10	#ISIS	#isis	GW	pos2=ADD	11	nmod	_	U-ORG
+11	https://t.co/UmmKDEOcTI	#hlink#	ADD	pos2=NN	2	dep	_	O
+

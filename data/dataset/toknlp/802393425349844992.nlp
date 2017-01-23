@@ -1,0 +1,11 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	believe	believe	VB	_	0	root	_	O
+5	this	this	DT	_	7	nsubj	_	O
+6	is	be	VBZ	_	7	aux	_	O
+7	happening	happen	VBG	_	4	ccomp	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+

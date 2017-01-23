@@ -1,0 +1,25 @@
+1	From	from	IN	_	7	prep	_	O
+2	a	a	DT	_	4	det	_	O
+3	dead	dead	JJ	_	4	nmod	_	O
+4	stop	stop	NN	_	1	pobj	_	O
+5	,	,	,	_	7	punct	_	O
+6	Tesla	tesla	NNP	_	7	nsubj	_	U-ORG
+7	estimates	estimate	VBZ	_	0	root	_	O
+8	that	that	IN	_	15	mark	_	O
+9	the	the	DT	_	10	det	_	O
+10	Model	model	NNP	pos2=NN	13	poss	_	B-PRODUCT
+11	S	s	POS	pos2=NNP	10	case	_	I-PRODUCT
+12	P100	p0	NN	pos2=NNP	13	compound	_	I-PRODUCT
+13	D	d	NN	pos2=NNP	15	nsubj	_	L-PRODUCT
+14	can	can	MD	_	15	aux	_	O
+15	accelerate	accelerate	VB	_	7	ccomp	_	O
+16	to	to	IN	_	15	prep	_	O
+17	60	0	CD	_	18	nmod	_	B-QUANTITY
+18	mph	mph	NN	pos2=NNS	16	pobj	_	L-QUANTITY
+19	in	in	IN	_	15	prep	_	O
+20	2.5	0	CD	_	21	nmod	_	B-TIME
+21	seconds	#ord#	NNS	_	19	pobj	_	L-TIME
+22	.	.	.	_	7	punct	_	O
+
+1	https://t.co/SJCLql6GZS	#hlink#	ADD	_	0	root	_	U-ORG
+

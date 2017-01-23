@@ -1,0 +1,30 @@
+1	DTrump	dtrump	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	knows	know	VBZ	_	0	root	_	O
+3	about	about	IN	pos2=RB	2	prep	_	O
+4	bad	bad	JJ	_	5	nmod	_	O
+5	hombres	hombre	NNS	pos2=FW	3	pobj	_	O
+6	bc	bc	FW	pos2=IN	8	advmod	_	O
+7	he	he	PRP	_	8	nsubj	_	O
+8	is	be	VBZ	_	2	conj	_	O
+9	one	#crd#	CD	_	8	attr	_	U-CARDINAL
+10	.	.	.	_	8	punct	_	O
+
+1	Ca	can	MD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	wipe	wipe	VB	_	0	root	_	O
+4	clean	clean	VB	pos2=JJ	3	xcomp	_	O
+5	your	your	PRP$	_	7	poss	_	O
+6	fam	fam	NN	pos2=JJ	7	compound	_	O
+7	name	name	NN	_	4	dobj	_	O
+8	with	with	IN	_	4	prep	_	O
+9	dirty	dirty	JJ	_	10	nmod	_	O
+10	money	money	NN	_	8	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	not	not	RB	_	3	neg	_	O
+2	even	even	RB	_	3	advmod	_	O
+3	at	at	IN	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	WH	wh	NNP	pos2=NN	6	compound	_	U-ORG
+6	#whitecollarsupremacy	#whitecollarsupremacy	NN	pos2=UH	3	pobj	_	O
+

@@ -1,0 +1,16 @@
+1	CEO	ceo	NN	_	6	nsubj	_	O
+2	Of	of	IN	_	1	prep	_	O
+3	Mexican	mexican	JJ	pos2=NNP	5	nmod	_	B-ORG
+4	Concrete	concrete	NNP	pos2=NN	5	compound	_	I-ORG
+5	Company	company	NNP	pos2=NN	2	pobj	_	L-ORG
+6	Wants	want	VBZ	_	0	root	_	O
+7	To	to	TO	pos2=NNP	8	aux	_	O
+8	Bid	bid	VB	pos2=NNP	6	xcomp	_	O
+9	On	on	IN	pos2=NNP	8	prep	_	O
+10	Trump	trump	NNP	_	13	poss	_	U-ORG
+11	’s	's	POS	_	10	case	_	O
+12	Border	border	NNP	_	13	compound	_	B-WORK_OF_ART
+13	Wall	wall	NNP	pos2=GW	9	pobj	_	L-WORK_OF_ART
+14	https://t.co/Qbv4RF4IdC	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/a3vq8AGIC9	#hlink#	ADD	_	10	nmod	_	U-ORG
+

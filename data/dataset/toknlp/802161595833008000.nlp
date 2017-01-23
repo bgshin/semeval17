@@ -1,0 +1,29 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	dad	dad	NN	_	4	nsubj	_	O
+3	is	be	VBZ	_	4	aux	_	O
+4	watching	watch	VBG	_	0	root	_	O
+5	a	a	DT	pos2=XX	8	det	_	O
+6	David	david	NNP	_	7	compound	_	B-PERSON
+7	Blaine	blaine	NNP	_	8	compound	_	L-PERSON
+8	special	special	JJ	pos2=NNP	4	dobj	_	O
+9	and	and	CC	_	4	cc	_	O
+10	pauses	pause	VBZ	_	4	conj	_	O
+11	it	it	PRP	_	10	dobj	_	O
+12	after	after	IN	_	10	prep	_	O
+13	evey	evey	NN	pos2=JJ	15	nmod	_	O
+14	single	single	JJ	_	15	nmod	_	O
+15	trick	trick	NN	_	12	pobj	_	O
+16	to	to	TO	_	17	aux	_	O
+17	yell	yell	VB	_	10	advcl	_	O
+18	"	"	``	pos2=''	17	punct	_	O
+19	HOW	how	WRB	_	22	advmod	_	O
+20	DOES	do	VBZ	_	22	aux	_	O
+21	HE	he	PRP	_	22	nsubj	_	O
+22	DO	do	VB	pos2=VBZ	17	ccomp	_	O
+23	THAT	that	DT	_	22	dobj	_	O
+24	??!!	??!!	.	_	4	punct	_	O
+
+1	HOW	how	WRB	_	0	root	_	O
+2	!!	!!	.	_	1	punct	_	O
+3	"	"	''	_	1	punct	_	O
+

@@ -1,0 +1,18 @@
+1	Contact	contact	NN	pos2=VB	5	compound	_	O
+2	Music	music	NNP	pos2=NN	5	compound	_	O
+3	-	-	HYPH	pos2=:	5	punct	_	O
+4	Ashley	ashley	NNP	_	5	compound	_	B-PERSON
+5	Graham	graham	NNP	_	6	nsubj	_	L-PERSON
+6	needed	need	VBD	pos2=VBN	0	root	_	O
+7	'	'	``	_	8	punct	_	O
+8	affirmation	affirmation	NN	_	6	dobj	_	O
+9	'	'	''	_	8	punct	_	O
+10	after	after	IN	_	6	prep	_	O
+11	being	be	VBG	_	12	auxpass	_	O
+12	dumped	dump	VBN	_	10	pcomp	_	O
+13	for	for	IN	_	12	prep	_	O
+14	the	the	DT	_	16	det	_	O
+15	first	#ord#	JJ	_	16	nmod	_	U-ORDINAL
+16	time	time	NN	_	13	pobj	_	O
+17	https://t.co/XuWzy8LS7k	#hlink#	ADD	_	12	npadvmod	_	U-ORG
+

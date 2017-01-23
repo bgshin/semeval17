@@ -1,0 +1,24 @@
+1	#Mexican	#mexican	NNP	pos2=IN	3	compound	_	O
+2	Cement	cement	NN	pos2=NNP	3	compound	_	O
+3	Maker	maker	NNP	pos2=NN	4	nsubj	_	O
+4	Gets	get	VBZ	_	0	root	_	O
+5	Ready	ready	JJ	_	4	acomp	_	O
+6	to	to	IN	pos2=TO	5	prep	_	O
+7	Cash	cash	VB	pos2=NNP	6	pobj	_	O
+8	in	in	RP	pos2=RB	7	prt	_	O
+9	on	on	IN	_	7	prep	_	O
+10	Trump	trump	NNP	pos2=NN	12	compound	_	B-ORG
+11	Border	border	NNP	pos2=NN	12	compound	_	I-ORG
+12	Wall	wall	NNP	pos2=NN	9	pobj	_	L-ORG
+13	:	:	:	_	15	punct	_	O
+14	Trump	trump	NNP	pos2=NN	19	poss	_	U-ORG
+15	's	's	POS	_	14	case	_	O
+16	racist	racist	JJ	_	19	nmod	_	O
+17	and	and	CC	_	16	cc	_	O
+18	bigoted	bigoted	JJ	_	16	conj	_	O
+19	rhetoric	rhetoric	NN	_	6	pobj	_	O
+20	on	on	IN	_	19	prep	_	O
+21	the	the	DT	_	22	det	_	O
+22	……	……	NFP	pos2=NNP	20	pobj	_	O
+23	https://t.co/mZqlWbuvrq	#hlink#	ADD	pos2=NN	4	dobj	_	O
+

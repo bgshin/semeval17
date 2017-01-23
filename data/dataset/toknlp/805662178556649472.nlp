@@ -1,0 +1,15 @@
+1	Natural	natural	JJ	pos2=NNP	2	nmod	_	O
+2	#Gas	#gas	NNS	pos2=NNP	3	compound	_	O
+3	#Prices	#prices	NNS	pos2=VBZ	0	root	_	O
+4	At	at	IN	_	3	prep	_	O
+5	#Highest	#highest	NNP	pos2=NN	6	compound	_	B-ORG
+6	Level	level	NNP	pos2=NN	4	pobj	_	L-ORG
+7	In	in	IN	pos2=NNP	3	prep	_	O
+8	Two	#crd#	CD	pos2=NNP	9	nmod	_	B-DATE
+9	Years	year	NNS	pos2=NNPS	7	pobj	_	L-DATE
+10	.	.	.	_	3	punct	_	O
+
+1	#frac	#frac	GW	pos2=NFP	3	nmod	_	O
+2	kinghttps://t.co/KSboI8Sfnx	#hlink#	ADD	pos2=GW	3	nmod	_	O
+3	https://t.co/kuaBKW3XUm	#hlink#	ADD	_	0	root	_	U-ORG
+

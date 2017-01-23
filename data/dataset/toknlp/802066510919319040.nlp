@@ -1,0 +1,19 @@
+1	when	when	WRB	_	3	advmod	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	jacked	jack	VBD	_	0	root	_	O
+4	into	into	IN	_	3	prep	_	O
+5	your	your	PRP$	_	6	poss	_	O
+6	house	house	NN	_	4	pobj	_	O
+7	without	without	IN	_	3	prep	_	O
+8	keys	key	NNS	_	7	pobj	_	O
+9	.	.	.	_	7	punct	_	O
+
+1	hell	hell	UH	pos2=NN	5	discourse	_	O
+2	yeah	yeah	UH	_	5	discourse	_	O
+3	,	,	,	_	5	punct	_	O
+4	i	I	PRP	_	5	nsubj	_	O
+5	'm	be	VBP	_	0	root	_	O
+6	david	david	JJ	pos2=NNP	8	compound	_	B-PERSON
+7	blaine	blaine	NNP	pos2=GW	8	compound	_	I-PERSON
+8	jr.	jr.	FW	pos2=NNP	5	attr	_	L-PERSON
+

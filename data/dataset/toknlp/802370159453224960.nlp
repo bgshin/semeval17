@@ -1,0 +1,22 @@
+1	To	to	TO	pos2=IN	3	aux	_	O
+2	"	"	``	_	3	punct	_	O
+3	Deplorables	deplorables	NNP	pos2=NNS	5	nmod	_	U-ORG
+4	"	"	''	pos2=``	3	punct	_	O
+5	there	there	EX	pos2=RB	6	expl	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	something	something	NN	_	6	attr	_	O
+8	wrong	wrong	JJ	_	7	nmod	_	O
+9	with	with	IN	_	8	prep	_	O
+10	those	those	DT	_	11	det	_	O
+11	qualities	quality	NNS	_	9	pobj	_	O
+12	!	!	.	_	6	punct	_	O
+
+1	Especially	especially	RB	_	2	advmod	_	O
+2	education	education	NN	_	0	root	_	O
+3	and	and	CC	_	2	cc	_	O
+4	empathy	empathy	NN	_	2	conj	_	O
+5	!	!	.	_	2	punct	_	O
+
+1	#notmypresident	#notmypresident	ADD	pos2=UH	2	punct	_	O
+2	https://t.co/HX2RMXNbVt	#hlink#	ADD	pos2=NN	0	root	_	O
+

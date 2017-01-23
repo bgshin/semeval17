@@ -1,0 +1,18 @@
+1	Love	love	VB	pos2=VBP	0	root	_	O
+2	it	it	PRP	_	1	dobj	_	O
+3	-	-	HYPH	pos2=:	1	punct	_	O
+4	#Chicago	#chicago	NNP	pos2=XX	1	vocative	_	O
+5	#cop	#cop	XX	pos2=NN	6	nmod	_	O
+6	guns	gun	NNS	pos2=VBZ	1	dobj	_	O
+7	down	down	RP	pos2=RB	1	prt	_	O
+8	#BlackLivesMatter	#blacklivesmatter	DT	pos2=XX	9	det	_	O
+9	thug	thug	NN	_	1	dobj	_	O
+10	in	in	IN	_	9	prep	_	O
+11	#Chicago	#chicago	NNP	pos2=CD	10	pobj	_	O
+12	:	:	:	_	1	punct	_	O
+13	https://t.co/P9AAlYgRTi	#hlink#	ADD	_	1	dep	_	O
+14	#LOL	#lol	-RRB-	pos2=NNP	17	punct	_	O
+15	#NAACP	#naacp	NN	pos2=-RRB-	17	nmod	_	O
+16	#BlueLivesMatter	#bluelivesmatter	GW	pos2=ADD	17	nmod	_	O
+17	#BlackTwitter	#blacktwitter	NN	pos2=ADD	1	dobj	_	O
+

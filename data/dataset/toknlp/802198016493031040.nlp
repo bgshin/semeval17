@@ -1,0 +1,17 @@
+1	@elizabethforma	@elizabethforma	UH	pos2=``	6	discourse	_	O
+2	He	he	PRP	_	6	nsubj	_	O
+3	who	who	WP	_	4	nsubj	_	O
+4	laughs	laugh	VBZ	_	2	relcl	_	O
+5	last	last	JJ	pos2=RB	6	nmod	_	O
+6	laughs	laugh	VBZ	pos2=NNS	0	root	_	O
+7	best	good	JJS	pos2=RBS	6	advmod	_	O
+8	.	.	.	_	6	punct	_	O
+
+1	Remember	remember	VB	_	0	root	_	O
+2	what	what	WP	_	4	dobj	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	said	say	VBD	_	1	ccomp	_	O
+5	?	?	.	_	1	punct	_	O
+
+1	https://t.co/mi6qXahPAD	#hlink#	ADD	_	0	root	_	U-ORG
+

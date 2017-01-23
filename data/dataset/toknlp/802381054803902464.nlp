@@ -1,0 +1,16 @@
+1	of	of	IN	pos2=RB	9	prep	_	O
+2	course	course	NN	pos2=RB	1	pobj	_	O
+3	because	because	IN	_	9	mark	_	O
+4	everything	everything	NN	_	9	nsubj	_	O
+5	that	that	WDT	_	6	nsubj	_	O
+6	's	's	VBZ	_	4	relcl	_	O
+7	not	not	RB	_	6	neg	_	O
+8	leftist	leftist	JJ	_	6	acomp	_	O
+9	is	be	VBZ	_	0	root	_	O
+10	racist	racist	JJ	_	9	acomp	_	O
+11	to	to	IN	_	10	prep	_	O
+12	leftists	leftist	NNS	_	11	pobj	_	O
+13	.	.	.	_	9	punct	_	O
+
+1	https://t.co/k8xPzWUXHT	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,9 @@
+1	@frightwigwam	@frightwigwam	UH	pos2=XX	4	discourse	_	O
+2	@niaC_eeT	@niac_eet	NNP	pos2=IN	3	compound	_	B-PERSON
+3	Walker	walker	NNP	_	4	nsubj	_	L-PERSON
+4	reminds	remind	VBZ	_	0	root	_	O
+5	me	me	PRP	_	4	dobj	_	O
+6	of	of	IN	_	4	prep	_	O
+7	Verlander	verlander	NNP	_	6	pobj	_	U-PERSON
+8	.	.	.	_	4	punct	_	O
+

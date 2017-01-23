@@ -1,0 +1,14 @@
+1	#NowPlaying	#nowplaying	VBG	pos2=NN	13	punct	_	O
+2	on	on	IN	_	1	prep	_	O
+3	Wicca	wicca	NNP	_	6	compound	_	B-ORG
+4	Radio	radio	NNP	_	6	compound	_	I-ORG
+5	International	international	NNP	_	6	compound	_	I-ORG
+6	Folly	folly	NNP	pos2=NN	2	pobj	_	I-ORG
+7	Of	of	IN	_	6	prep	_	I-ORG
+8	Fracking	fracking	NNP	pos2=VBG	7	pobj	_	L-ORG
+9	by	by	IN	_	1	prep	_	O
+10	Cernunnos	cernunnos	NNP	_	9	pobj	_	O
+11	Rising	rise	VBG	pos2=NNP	13	nmod	_	O
+12	#ListenHere	#listenhere	GW	pos2=ADD	13	nmod	_	O
+13	https://t.co/yo3JnLTDrG	#hlink#	ADD	_	0	root	_	U-ORG
+

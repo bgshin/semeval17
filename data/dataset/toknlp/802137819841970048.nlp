@@ -1,0 +1,20 @@
+1	Omg	omg	UH	pos2=NNP	3	discourse	_	O
+2	i	I	PRP	pos2=CD	3	nsubj	_	O
+3	hope	hope	VBP	_	0	root	_	O
+4	my	my	PRP$	_	5	poss	_	O
+5	man	man	NN	pos2=UH	6	nsubj	_	O
+6	gets	get	VBZ	_	3	ccomp	_	O
+7	me	me	PRP	_	6	dative	_	O
+8	this	this	DT	_	9	det	_	O
+9	#dress	#dress	NN	pos2=ADD	6	dobj	_	O
+10	for	for	IN	_	9	prep	_	O
+11	#christmas	#christmas	NNP	pos2=NNS	12	compound	_	B-DATE
+12	😍	😍	NNP	pos2=XX	10	pobj	_	L-DATE
+13	#disney	#disney	UH	pos2=XX	6	discourse	_	O
+14	#love	#love	UH	pos2=IN	6	discourse	_	O
+15	#BeautyAndTheBeast	#beautyandthebeast	ADD	pos2=UH	16	nsubj	_	O
+16	neeeed	neeeed	VBD	pos2=MD	6	ccomp	_	O
+17	this	this	DT	_	18	det	_	O
+18	dresss	dresss	NN	pos2=-LRB-	16	dobj	_	O
+19	https://t.co/ow4NN6iBLX	#hlink#	ADD	pos2=NN	3	dep	_	O
+

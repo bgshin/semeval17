@@ -1,0 +1,29 @@
+1	@MickTheMuck	@mickthemuck	UH	pos2=NN	4	discourse	_	O
+2	did	do	VBD	_	4	aux	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	see	see	VB	_	0	root	_	O
+5	Marine	marine	NNP	_	7	compound	_	B-ORG
+6	Le	le	NNP	_	7	compound	_	I-ORG
+7	Pen	pen	NNP	_	9	poss	_	I-ORG
+8	's	's	POS	_	7	case	_	L-ORG
+9	tweet	tweet	NN	_	4	dobj	_	O
+10	?	?	.	_	4	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	was	be	VBD	_	12	ccomp	_	O
+3	a	a	DT	_	4	det	_	O
+4	vote	vote	NN	_	2	attr	_	O
+5	for	for	IN	_	4	prep	_	O
+6	the	the	DT	_	9	det	_	O
+7	Five	#crd#	NNP	pos2=CD	8	compound	_	O
+8	Star	star	NNP	_	9	compound	_	O
+9	movement	movement	NN	_	5	pobj	_	O
+10	,	,	,	_	12	punct	_	O
+11	they	they	PRP	_	12	nsubj	_	O
+12	want	want	VBP	_	0	root	_	O
+13	to	to	TO	_	14	aux	_	O
+14	leave	leave	VB	_	12	xcomp	_	O
+15	the	the	DT	_	16	det	_	O
+16	EU	eu	NNP	_	14	dobj	_	U-ORG
+17	.	.	.	_	12	punct	_	O
+

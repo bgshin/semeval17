@@ -1,0 +1,23 @@
+1	An	an	DT	_	2	det	_	O
+2	image	image	NN	_	9	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	a	a	DT	_	8	det	_	O
+5	dead	dead	JJ	_	6	nmod	_	O
+6	animals	animal	NNS	_	7	compound	_	O
+7	body	body	NN	_	8	compound	_	O
+8	part	part	NN	_	3	pobj	_	O
+9	is	be	VBZ	_	0	root	_	O
+10	not	not	RB	_	9	neg	_	O
+11	the	the	DT	_	14	det	_	O
+12	best	good	JJS	pos2=RBS	14	nmod	_	O
+13	#marketing	#marketing	NN	pos2=CD	14	compound	_	O
+14	approach	approach	NN	_	9	attr	_	O
+15	:/	:/	,	pos2=NFP	9	punct	_	O
+16	Especially	especially	RB	_	17	advmod	_	O
+17	with	with	IN	_	9	prep	_	O
+18	#veganism	#veganism	NNP	pos2=NN	17	pobj	_	U-ORG
+19	and	and	CC	_	18	cc	_	O
+20	vegetaria	vegetaria	GW	pos2=NN	18	conj	_	O
+21	…	…	NFP	pos2=GW	22	punct	_	O
+22	https://t.co/DQkQmoaI6S	#hlink#	ADD	pos2=NN	9	dep	_	O
+

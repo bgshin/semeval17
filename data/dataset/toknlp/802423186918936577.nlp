@@ -1,0 +1,13 @@
+1	@NRO	@nro	XX	pos2=UH	2	cc	_	O
+2	So	so	RB	pos2=CC	0	root	_	O
+3	...	..	.	pos2=NFP	2	punct	_	O
+
+1	the	the	DT	_	2	det	_	O
+2	party	party	NN	_	0	det	_	O
+3	of	of	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	robots	robot	NNS	_	3	pobj	_	O
+6	?	?	.	_	2	punct	_	O
+
+1	https://t.co/GKbYdjNFsb	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,24 @@
+1	Gigi	gigi	NNP	_	4	nsubj	_	U-PERSON
+2	did	do	VBD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	mock	mock	VB	pos2=JJ	0	root	_	O
+5	Melania	melania	NNP	_	7	poss	_	U-PERSON
+6	's	's	POS	_	5	case	_	O
+7	accent	accent	NN	_	4	dobj	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	She	she	PRP	_	2	nsubj	_	O
+2	mocked	mock	VBD	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	fact	fact	NN	_	2	dobj	_	O
+5	that	that	IN	_	10	mark	_	O
+6	Melania	melania	NNP	_	10	nsubj	_	U-PERSON
+7	ca	can	MD	_	10	aux	_	O
+8	n't	not	RB	_	10	neg	_	O
+9	even	even	RB	_	10	advmod	_	O
+10	write	write	VB	_	4	acl	_	O
+11	her	her	PRP$	_	13	poss	_	O
+12	own	own	JJ	_	13	nmod	_	O
+13	speech	speech	NN	_	10	dobj	_	O
+14	.	.	.	_	2	punct	_	O
+

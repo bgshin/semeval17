@@ -1,0 +1,19 @@
+1	Check	check	VB	_	0	root	_	O
+2	out	out	RP	_	1	prt	_	O
+3	Part	part	NN	pos2=NNP	1	dobj	_	O
+4	1	0	CD	_	3	nmod	_	U-CARDINAL
+5	of	of	IN	_	3	prep	_	O
+6	our	our	PRP$	_	8	poss	_	O
+7	#podcast	#podcast	JJ	pos2=XX	8	nmod	_	O
+8	series	series	NN	pos2=NNS	5	pobj	_	O
+9	:	:	:	_	1	punct	_	O
+10	Tackling	tackle	VBG	_	8	acl	_	O
+11	the	the	DT	_	12	det	_	O
+12	Flu	flu	NN	pos2=NNP	10	dobj	_	O
+13	,	,	,	_	10	punct	_	O
+14	Naturally	naturally	RB	_	10	advmod	_	O
+15	:	:	:	_	18	punct	_	O
+16	Discovering	discover	VBG	pos2=GW	10	dep	_	O
+17	#Homeopathy	#homeopathy	ADD	pos2=-LRB-	18	punct	_	O
+18	https://t.co/OLzHV6zqwy	#hlink#	ADD	pos2=NN	16	dobj	_	O
+

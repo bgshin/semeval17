@@ -1,0 +1,16 @@
+1	When	when	WRB	_	2	advmod	_	O
+2	watching	watch	VBG	_	15	advcl	_	O
+3	a	a	DT	_	6	det	_	O
+4	David	david	NNP	_	5	compound	_	B-PERSON
+5	Blaine	blaine	NNP	_	6	compound	_	L-PERSON
+6	special	special	JJ	pos2=NNP	11	nmod	_	O
+7	,	,	,	_	6	punct	_	O
+8	@docprofpatrick	@docprofpatrick	NNP	pos2=''	6	conj	_	U-ORG
+9	and	and	CC	_	8	cc	_	O
+10	dorrajarrod	dorrajarrod	JJ	pos2=VBD	8	conj	_	O
+11	attempt	attempt	NN	pos2=VB	2	dobj	_	O
+12	to	to	TO	_	13	aux	_	O
+13	make	make	VB	_	11	acl	_	O
+14	magic	magic	NN	pos2=JJ	15	nmod	_	O
+15	https://t.co/fI18hwzQx2	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,26 @@
+1	@petestavros	@petestavros	UH	pos2=NNS	4	discourse	_	O
+2	@megynkelly	@megynkelly	DT	pos2=PRP$	3	det	_	O
+3	problem	problem	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	power	power	NN	_	4	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	celebrity	celebrity	NN	_	7	pobj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	propaganda	propaganda	NN	_	8	conj	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	Unfortunately	unfortunately	RB	pos2=JJ	6	advmod	_	O
+2	truth	truth	NN	_	6	nsubj	_	O
+3	does	do	VBZ	_	6	aux	_	O
+4	n't	not	RB	_	6	neg	_	O
+5	always	always	RB	_	6	advmod	_	O
+6	win	win	VB	_	0	root	_	O
+7	.	.	.	_	6	punct	_	O
+
+1	Internet	internet	NN	_	0	root	_	O
+2	and	and	CC	_	1	cc	_	O
+3	false	false	JJ	_	4	nmod	_	O
+4	news	news	NN	_	1	conj	_	O
+5	?	?	.	_	1	punct	_	O
+

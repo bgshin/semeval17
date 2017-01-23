@@ -1,0 +1,21 @@
+1	@mark_ason	@mark_ason	NN	pos2=ADD	3	compound	_	O
+2	@Ken_Rosenthal	@ken_rosenthal	NN	pos2=XX	3	compound	_	O
+3	@JonHeyman	@jonheyman	NN	pos2=MD	0	root	_	O
+4	No	no	UH	pos2=RB	3	discourse	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	He	he	PRP	_	3	nsubjpass	_	O
+2	was	be	VBD	_	3	auxpass	_	O
+3	traded	trade	VBN	_	0	root	_	O
+4	during	during	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	B-DATE
+6	season	season	NN	_	4	pobj	_	L-DATE
+7	so	so	RB	pos2=IN	12	mark	_	O
+8	no	no	DT	pos2=UH	9	det	_	O
+9	QO	qo	NN	_	12	nsubjpass	_	O
+10	can	can	MD	_	12	aux	_	O
+11	be	be	VB	_	12	auxpass	_	O
+12	offered	offer	VBN	_	3	advcl	_	O
+13	by	by	IN	_	12	agent	_	O
+14	Cubs	cub	NNPS	pos2=NNP	13	pobj	_	U-ORG
+

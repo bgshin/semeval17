@@ -1,0 +1,23 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@wikileaks	@wikileaks	PRP	pos2=UH	2	nsubj	_	O
+2	publishes	publish	VBZ	_	0	root	_	O
+3	more	more	JJR	pos2=RBR	5	nmod	_	O
+4	#Yemen	#yemen	JJ	pos2=NNP	5	nmod	_	O
+5	files	file	NNS	_	2	dobj	_	O
+6	-	-	:	pos2=HYPH	5	punct	_	O
+7	incl	incl	NN	_	5	appos	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	evidence	evidence	NN	_	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	US	us	NNP	_	2	pobj	_	U-GPE
+4	training	train	VBG	pos2=NN	1	acl	_	O
+5	Yemeni	yemeni	JJ	_	6	nmod	_	U-NORP
+6	forces	force	NNS	_	4	dobj	_	O
+7	&	&	CC	_	6	cc	_	O
+8	arms	arm	NNS	pos2=GW	6	conj	_	O
+9	procurement	procurement	NN	_	11	dobj	_	O
+10	https://t.co/a6XBzKOPkI	#hlink#	ADD	pos2=NN	11	nsubj	_	O
+11	#ArmsTreaty	#armstreaty	ADD	pos2=-RRB-	1	prep	_	O
+

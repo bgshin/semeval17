@@ -1,0 +1,16 @@
+1	@NancyPelosi	@nancypelosi	NNP	pos2=NN	4	vocative	_	U-PERSON
+2	did	do	VBD	_	4	aux	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	file	file	VB	_	0	root	_	O
+5	papers	paper	NNS	_	4	dobj	_	O
+6	for	for	IN	_	4	prep	_	O
+7	investigation	investigation	NN	_	6	pobj	_	O
+8	into	into	IN	_	7	prep	_	O
+9	rudy	rudy	NN	pos2=JJ	11	compound	_	O
+10	comey	comey	NNP	pos2=NN	11	compound	_	O
+11	letter	letter	NN	_	8	pobj	_	O
+12	,	,	,	_	11	punct	_	O
+13	where	where	WRB	_	14	advmod	_	O
+14	is	be	VBZ	_	11	relcl	_	O
+15	it	it	PRP	_	14	nsubj	_	O
+

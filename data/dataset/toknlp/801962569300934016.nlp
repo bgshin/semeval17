@@ -1,0 +1,24 @@
+1	@MichaelRayAdam2	@michaelrayadam0	NN	pos2=NNS	2	compound	_	O
+2	@HillaryClinton	@hillaryclinton	NNP	pos2=ADD	6	nsubj	_	U-PERSON
+3	@elizabethforma	@elizabethforma	MD	pos2=IN	6	aux	_	O
+4	your	your	PRP$	_	6	nsubj	_	O
+5	not	not	RB	_	6	neg	_	O
+6	nasty	nasty	VB	pos2=JJ	0	root	_	O
+7	your	your	PRP$	_	10	poss	_	O
+8	a	a	DT	_	10	det	_	O
+9	born	bear	VBN	pos2=JJ	10	nmod	_	O
+10	loser	loser	NN	_	6	dobj	_	O
+11	,	,	,	_	13	punct	_	O
+12	you	you	PRP	_	13	nsubj	_	O
+13	forgot	forget	VBD	pos2=VBP	6	parataxis	_	O
+14	,	,	,	_	13	punct	_	O
+15	4Americans	0americans	NNS	pos2=NNPS	16	nsubj	_	O
+16	are	be	VBP	_	13	ccomp	_	O
+17	dead	dead	JJ	_	16	acomp	_	O
+18	,	,	,	_	16	punct	_	O
+19	NOT	not	RB	_	20	neg	_	O
+20	with	with	IN	_	16	prep	_	O
+21	there	there	EX	pos2=PRP$	22	poss	_	O
+22	families	family	NNS	_	20	pobj	_	O
+23	!	!	.	_	13	punct	_	O
+

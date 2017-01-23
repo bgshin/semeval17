@@ -1,0 +1,16 @@
+1	DetroitPrideTigersCongrats	detroitpridetigerscongrats	NNS	pos2=VBZ	0	root	_	O
+2	to	to	IN	pos2=TO	1	prep	_	O
+3	MVP	mvp	NN	pos2=NNP	5	compound	_	O
+4	Justin	justin	NNP	_	5	compound	_	B-PERSON
+5	Verlander	verlander	NNP	_	2	pobj	_	L-PERSON
+6	!	!	.	_	1	punct	_	O
+
+1	Converj	converj	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	has	have	VBZ	_	0	root	_	O
+3	DetroitPride	detroitpride	NNP	pos2=VBN	2	dobj	_	U-ORG
+4	forever	forever	RB	_	2	advmod	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	Go	go	VB	_	2	nmod	_	O
+2	Tigers	tiger	NNPS	pos2=NNS	0	root	_	O
+

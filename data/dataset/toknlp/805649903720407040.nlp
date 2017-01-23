@@ -1,0 +1,22 @@
+1	@PaulBegala	@paulbegala	TO	pos2=NN	2	nsubj	_	O
+2	show	show	VBP	pos2=VB	0	root	_	O
+3	support	support	NN	_	2	dobj	_	O
+4	for	for	IN	_	3	prep	_	O
+5	Jill	jill	NNP	_	6	compound	_	B-PERSON
+6	Stein	stein	NNP	_	7	compound	_	L-PERSON
+7	recount	recount	NN	pos2=VB	4	pobj	_	O
+8	and	and	CC	_	7	cc	_	O
+9	study	study	NN	_	10	compound	_	O
+10	cross	cross	NN	pos2=VBP	7	conj	_	O
+11	checking	check	VBG	_	9	acl	_	O
+12	voter	voter	NN	_	13	compound	_	O
+13	suppression	suppression	NN	_	15	compound	_	O
+14	voting	voting	NN	pos2=VBG	15	compound	_	O
+15	fraud	fraud	NN	pos2=IN	11	dobj	_	O
+16	World	world	NNP	_	18	nsubj	_	U-ORG
+17	is	be	VBZ	_	18	aux	_	O
+18	watching	watch	VBG	_	2	advcl	_	O
+19	and	and	CC	_	18	cc	_	O
+20	hoping	hope	VBG	_	18	conj	_	O
+21	wishing	wish	VBG	_	20	xcomp	_	O
+

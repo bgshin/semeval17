@@ -1,0 +1,19 @@
+1	@jeremycorbyn	@jeremycorbyn	UH	pos2=XX	4	discourse	_	O
+2	@theresa_may	@theresa_may	UH	pos2=NNP	4	discourse	_	O
+3	@RTUKnews	@rtuknews	UH	pos2=VBZ	4	discourse	_	O
+4	@CarolineLucas	@carolinelucas	VBD	pos2=NNS	0	root	_	O
+5	plenty	plenty	NN	pos2=JJ	4	dobj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	say	say	VB	_	4	xcomp	_	O
+8	except	except	IN	_	4	prep	_	O
+9	when	when	WRB	_	11	advmod	_	O
+10	it	it	PRP	_	11	nsubj	_	O
+11	comes	come	VBZ	_	8	pcomp	_	O
+12	to	to	IN	_	11	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	truth	truth	NN	_	12	pobj	_	O
+15	#British	#british	NNP	pos2=WDT	16	compound	_	U-NORP
+16	politicians	politician	NNS	_	11	advcl	_	O
+17	#Iraq	#iraq	NNP	pos2=VBP	18	compound	_	B-PERSON
+18	#Libya	#libya	NNP	pos2=.	16	appos	_	L-PERSON
+

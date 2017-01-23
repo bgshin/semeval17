@@ -1,0 +1,22 @@
+1	Bostons	boston	NNS	pos2=NNPS	3	compound	_	O
+2	traffic	traffic	NN	pos2=VBP	3	compound	_	O
+3	situation	situation	NN	_	4	nsubj	_	O
+4	sounds	sound	VBZ	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	lot	lot	NN	_	7	npadvmod	_	O
+7	like	like	IN	_	4	prep	_	O
+8	Kla	kla	NNP	_	7	pobj	_	O
+9	>>	>>	-RRB-	pos2=HYPH	4	punct	_	O
+10	Boston	boston	NNP	_	11	compound	_	O
+11	city	city	NN	_	13	nsubj	_	O
+12	is	be	VBZ	_	13	aux	_	O
+13	getting	get	VBG	_	4	conj	_	O
+14	a	a	DT	_	15	det	_	O
+15	bunch	bunch	NN	_	13	dobj	_	O
+16	of	of	IN	_	15	prep	_	O
+17	self-driving	self-driving	JJ	_	18	nmod	_	O
+18	cars	car	NNS	_	16	pobj	_	O
+19	https://t.co/I2einNjTiC	#hlink#	ADD	pos2=VBP	15	acl	_	O
+20	via	via	IN	_	13	prep	_	O
+21	@UPROXX	@uproxx	NN	pos2=NNP	20	pobj	_	O
+

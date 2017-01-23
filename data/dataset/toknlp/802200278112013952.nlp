@@ -1,0 +1,30 @@
+1	My	my	PRP$	_	3	poss	_	O
+2	baby	baby	NN	_	3	compound	_	O
+3	girl	girl	NN	_	5	nsubj	_	O
+4	has	have	VBZ	_	5	aux	_	O
+5	changed	change	VBN	_	0	root	_	O
+6	so	so	RB	_	7	advmod	_	O
+7	much	much	RB	pos2=JJ	5	advmod	_	O
+8	!	!	.	_	5	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	seems	seem	VBZ	_	7	ccomp	_	O
+3	like	like	IN	pos2=JJ	2	prep	_	O
+4	yesterday	yesterday	NN	_	3	pobj	_	U-DATE
+5	,	,	,	_	7	punct	_	O
+6	she	she	PRP	_	7	nsubj	_	O
+7	was	be	VBD	_	0	root	_	O
+8	8	0	CD	_	9	nmod	_	B-DATE
+9	years	year	NNS	_	10	npadvmod	_	I-DATE
+10	old	old	JJ	_	7	acomp	_	L-DATE
+11	.	.	.	_	7	punct	_	O
+
+1	:(	:(	NFP	pos2=SYM	8	dep	_	O
+2	•	-	:	pos2=HYPH	8	punct	_	O
+3	{	{	-LRB-	_	8	punct	_	O
+4	#twd	#twd	UH	pos2=FW	8	discourse	_	O
+5	#twdg	#twdg	UH	pos2=GW	8	nmod	_	O
+6	#TheWalkingDead	#thewalkingdead	GW	pos2=JJ	8	nmod	_	O
+7	…	…	NFP	pos2=GW	8	punct	_	O
+8	https://t.co/zvdMh1oj6N	#hlink#	ADD	_	0	root	_	O
+

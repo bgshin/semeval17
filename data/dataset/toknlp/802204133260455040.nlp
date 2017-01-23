@@ -1,0 +1,14 @@
+1	#Uber	#uber	NNP	pos2=VB	2	nsubj	_	U-PERSON
+2	#rolls	#rolls	VBZ	pos2=NNS	0	root	_	O
+3	out	out	RP	pos2=RB	2	prt	_	O
+4	new	new	JJ	_	5	nmod	_	O
+5	#features	#features	NNS	pos2=NNPS	2	dobj	_	O
+6	in	in	IN	_	2	prep	_	O
+7	its	its	PRP$	_	8	poss	_	O
+8	#rider	#rider	NN	pos2=NNP	6	pobj	_	O
+9	and	and	CC	_	2	cc	_	O
+10	#driver	#driver	GW	pos2=NFP	13	nmod	_	O
+11	#app	#app	GW	pos2=NFP	13	nmod	_	O
+12	https://t.co/Ci6cMvo6A0	#hlink#	ADD	pos2=GW	13	nmod	_	O
+13	https://t.co/7RcOFVY1jp	#hlink#	ADD	_	2	conj	_	U-ORG
+

@@ -1,0 +1,27 @@
+1	if	if	IN	_	3	mark	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	21	advcl	_	O
+4	any	any	DT	_	5	det	_	O
+5	consolation	consolation	NN	_	3	attr	_	O
+6	-	-	,	pos2=:	21	punct	_	O
+7	a	a	DT	_	8	det	_	O
+8	lot	lot	NN	_	5	appos	_	O
+9	of	of	IN	_	8	prep	_	O
+10	"	"	``	_	13	punct	_	O
+11	rank	rank	NN	pos2=VB	13	poss	_	O
+12	n	n	POS	pos2=NN	11	case	_	O
+13	file	file	NN	_	9	pobj	_	O
+14	"	"	''	pos2=``	13	punct	_	O
+15	(	(	-LRB-	_	13	punct	_	O
+16	lmao	lmao	FW	pos2=NN	13	appos	_	O
+17	)	)	-RRB-	_	13	punct	_	O
+18	alt	alt	NN	pos2=JJ	20	compound	_	O
+19	-	-	HYPH	pos2=:	20	punct	_	O
+20	rightists	rightist	NNS	_	21	nsubj	_	O
+21	seem	seem	VBP	_	0	root	_	O
+22	furious	furious	JJ	_	21	oprd	_	O
+23	at	at	IN	_	22	prep	_	O
+24	spencer	spencer	NN	pos2=NNP	23	pobj	_	O
+25	right	right	RB	_	26	advmod	_	O
+26	now	now	RB	_	21	advmod	_	O
+

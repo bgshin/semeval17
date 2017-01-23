@@ -1,0 +1,23 @@
+1	Savchenko	savchenko	NNP	_	4	nsubj	_	U-PERSON
+2	now	now	RB	_	4	advmod	_	O
+3	Saakashvili	saakashvili	NNP	_	4	nsubj	_	U-PERSON
+4	took	take	VBD	_	0	root	_	O
+5	drug	drug	NN	_	6	compound	_	O
+6	test	test	NN	_	4	dobj	_	O
+7	live	live	VB	pos2=JJ	4	advmod	_	O
+8	on	on	IN	_	7	prep	_	O
+9	Ukraine	ukraine	NNP	_	10	compound	_	U-GPE
+10	TV.	tv.	NNP	_	8	pobj	_	O
+11	To	to	TO	_	12	aux	_	O
+12	prove	prove	VB	_	7	advcl	_	O
+13	they	they	PRP	_	14	nsubj	_	O
+14	are	be	VBP	_	12	ccomp	_	O
+15	not	not	RB	_	14	neg	_	O
+16	drug	drug	NN	_	18	npadvmod	_	O
+17	-	-	HYPH	_	18	punct	_	O
+18	fueled	fuel	VBN	_	19	nmod	_	O
+19	loonies	loony	NNS	_	14	attr	_	O
+20	?	?	.	_	4	punct	_	O
+
+1	https://t.co/AgKNattQeY	#hlink#	ADD	_	0	root	_	U-ORG
+

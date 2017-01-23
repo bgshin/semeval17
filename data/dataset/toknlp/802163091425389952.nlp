@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det	_	O
+2	perfect	perfect	JJ	_	3	nmod	_	O
+3	size	size	NN	_	5	nsubj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	hide	hide	VB	_	0	root	_	O
+6	somewhere	somewhere	RB	pos2=JJ	7	advmod	_	O
+7	secret	secret	JJ	pos2=NN	5	dobj	_	O
+8	in	in	IN	_	5	prep	_	O
+9	your	your	PRP$	_	12	poss	_	O
+10	own	own	JJ	_	12	nmod	_	O
+11	west	west	JJ	pos2=NN	12	nmod	_	O
+12	wing	wing	NN	pos2=GW	8	pobj	_	O
+13	https://t.co/cEbkeoiF4Z	#hlink#	ADD	pos2=NN	16	nsubj	_	O
+14	via	via	IN	_	5	prep	_	O
+15	@eBay	@ebay	NNP	pos2=CD	14	pobj	_	O
+16	#BeautyandtheBeast	#beautyandthebeast	ADD	pos2=XX	18	punct	_	O
+17	#ACEO	#aceo	NNP	pos2=XX	18	compound	_	U-ORG
+18	#animation	#animation	NN	pos2=ADD	15	appos	_	O
+

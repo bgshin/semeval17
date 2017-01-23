@@ -1,0 +1,13 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	mind	mind	VB	_	0	root	_	O
+5	Duke	duke	NNP	_	4	dobj	_	U-PERSON
+6	,	,	,	_	4	punct	_	O
+7	but	but	CC	_	4	cc	_	O
+8	I	I	PRP	_	9	nsubj	_	O
+9	hate	hate	VBP	_	4	conj	_	O
+10	Grayson	grayson	NNP	_	12	compound	_	B-PERSON
+11	Allen	allen	NNP	_	12	compound	_	L-PERSON
+12	😴🏀	😴🏀	NNP	pos2=.	9	dobj	_	O
+

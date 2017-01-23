@@ -1,0 +1,21 @@
+1	@realDonaldTrump	@realdonaldtrump	NNP	pos2=NN	8	vocative	_	O
+2	Hey	hey	UH	_	8	discourse	_	O
+3	man	man	NN	pos2=UH	8	vocative	_	O
+4	,	,	,	_	8	punct	_	O
+5	you	you	PRP	_	8	nsubj	_	O
+6	do	do	VBP	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	have	have	VB	_	0	root	_	O
+9	any	any	DT	_	10	det	_	O
+10	say	say	NN	pos2=VBP	8	dobj	_	O
+11	in	in	IN	_	8	prep	_	O
+12	who	who	WP	_	14	nsubj	_	O
+13	@elizabethforma	@elizabethforma	``	pos2=VBP	14	punct	_	O
+14	picks	pick	VBZ	pos2=NNS	11	pcomp	_	O
+15	for	for	IN	_	14	prep	_	O
+16	her	her	PRP$	_	17	poss	_	O
+17	cabinet	cabinet	NN	_	15	pobj	_	O
+18	in	in	IN	_	14	prep	_	O
+19	2020	0	CD	_	18	pobj	_	U-DATE
+20	.	.	.	_	8	punct	_	O
+

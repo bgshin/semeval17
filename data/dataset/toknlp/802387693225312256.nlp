@@ -1,0 +1,12 @@
+1	@velartrill	@velartrill	NNP	pos2=WP	2	nsubj	_	O
+2	Opposes	oppose	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	TPP	tpp	NN	pos2=NNP	2	dobj	_	O
+5	because	because	IN	_	8	mark	_	O
+6	it	it	PRP	_	8	nsubj	_	O
+7	will	will	MD	_	8	aux	_	O
+8	lead	lead	VB	_	2	advcl	_	O
+9	to	to	IN	_	8	prep	_	O
+10	more	more	JJR	pos2=RBR	11	nmod	_	O
+11	dubs	dub	NNS	_	9	pobj	_	O
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	6	det	_	O
+2	latest	late	JJS	_	6	nmod	_	O
+3	Medical	medical	NNP	pos2=JJ	4	compound	_	B-ORG
+4	Cannabis	cannabis	NNP	_	6	compound	_	I-ORG
+5	Grow	grow	NNP	pos2=VB	6	compound	_	I-ORG
+6	News	news	NNP	_	0	root	_	L-ORG
+7	!	!	.	_	6	punct	_	O
+
+1	https://t.co/FtpzE5tJKc	#hlink#	ADD	pos2=NN	0	root	_	O
+2	Thanks	thanks	NNS	pos2=NN	1	npadvmod	_	O
+3	to	to	IN	_	4	aux	_	O
+4	@judyform	@judyform	VB	pos2=XX	1	advcl	_	O
+5	@jmhamiltonblog	@jmhamiltonblog	NNP	pos2=UH	6	compound	_	U-ORG
+6	@kshaw58	@kshaw0	NN	pos2=CD	4	dobj	_	O
+7	#marijuana	#marijuana	UH	pos2=XX	4	discourse	_	O
+8	#cannabis	#cannabis	UH	pos2=NN	4	discourse	_	O
+

@@ -1,0 +1,31 @@
+1	Arguing	argue	VBG	_	15	csubj	_	O
+2	that	that	IN	pos2=DT	10	mark	_	O
+3	alt	alt	JJ	pos2=NN	5	advmod	_	O
+4	-	-	HYPH	_	5	punct	_	O
+5	right	right	JJ	pos2=NN	10	dep	_	O
+6	(	(	-LRB-	_	8	punct	_	O
+7	aka	aka	NN	pos2=IN	8	compound	_	O
+8	neo-fascism	neo-fascism	NN	_	5	parataxis	_	O
+9	)	)	-RRB-	_	8	punct	_	O
+10	is	be	VBZ	_	1	ccomp	_	O
+11	n't	not	RB	_	10	neg	_	O
+12	a	a	DT	_	14	det	_	O
+13	usable	usable	JJ	_	14	nmod	_	O
+14	term	term	NN	_	10	attr	_	O
+15	is	be	VBZ	_	0	root	_	O
+16	a	a	DT	_	18	det	_	O
+17	crass	crass	JJ	_	18	nmod	_	O
+18	relativism	relativism	NN	_	15	attr	_	O
+19	...	..	.	_	15	punct	_	O
+
+1	stop	stop	VB	pos2=NN	0	root	_	O
+2	talking	talk	VBG	_	1	xcomp	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	know	know	VB	pos2=VBP	0	root	_	O
+5	all	all	DT	pos2=RB	8	det	_	O
+6	alt	alt	JJ	pos2=NN	8	nmod	_	O
+7	-	-	HYPH	_	8	punct	_	O
+8	rightists	rightist	NNS	_	9	nsubj	_	O
+9	are	be	VBP	_	4	ccomp	_	O
+10	fascists	fascist	NNS	_	9	attr	_	O
+

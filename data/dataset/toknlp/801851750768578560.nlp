@@ -1,0 +1,25 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@noclador	@noclador	UH	pos2=NN	6	discourse	_	O
+2	and	and	CC	_	6	cc	_	O
+3	@AndreaChalupa	@andreachalupa	NNP	pos2=PRP$	4	compound	_	U-ORG
+4	followers	follower	NNS	_	6	nsubj	_	O
+5	suddenly	suddenly	RB	_	6	advmod	_	O
+6	shot	shoot	VBD	pos2=VBN	0	root	_	O
+7	up	up	RP	pos2=RB	6	advmod	_	O
+8	on	on	IN	_	6	prep	_	O
+9	exactly	exactly	RB	_	12	advmod	_	O
+10	the	the	DT	_	12	det	_	O
+11	same	same	JJ	_	12	nmod	_	O
+12	day	day	NN	_	8	pobj	_	O
+13	a	a	DT	_	14	det	_	O
+14	week	week	NN	_	12	npadvmod	_	O
+15	before	before	IN	_	12	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	election	election	NN	_	15	pobj	_	O
+18	.	.	.	_	6	punct	_	O
+
+1	Coinc	coinc	NNP	pos2=GW	3	nmod	_	B-PERSON
+2	…	…	NFP	pos2=-LRB-	3	punct	_	L-PERSON
+3	https://t.co/ToKXdKYfae	#hlink#	ADD	_	0	root	_	O
+

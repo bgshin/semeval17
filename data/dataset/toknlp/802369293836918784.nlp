@@ -1,0 +1,19 @@
+1	#WVIAPublicMedia	#wviapublicmedia	NNP	pos2=NN	3	compound	_	O
+2	Kellyanne	kellyanne	NNP	_	3	compound	_	B-PERSON
+3	Conway	conway	NNP	_	4	nsubj	_	L-PERSON
+4	Attempts	attempt	VBZ	pos2=NNP	0	root	_	O
+5	To	to	TO	_	6	aux	_	O
+6	Clarify	clarify	VB	pos2=NNP	4	xcomp	_	O
+7	Trump	trump	NNP	_	8	compound	_	B-ORG
+8	Children	child	NNP	_	10	poss	_	I-ORG
+9	's	's	POS	_	8	case	_	L-ORG
+10	Role	role	NN	pos2=NNP	6	dobj	_	O
+11	In	in	IN	pos2=NNP	10	prep	_	O
+12	Transition	transition	NN	pos2=NNP	11	pobj	_	O
+13	.	.	.	_	4	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	Blog	blog	NN	pos2=NNP	1	dobj	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/x5hI0e50dA	#hlink#	ADD	pos2=NN	1	dep	_	O
+

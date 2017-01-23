@@ -1,0 +1,11 @@
+1	Gun	gun	NNP	pos2=NN	2	compound	_	O
+2	Sales	sale	NNS	pos2=NNP	10	nsubj	_	O
+3	Down	down	NNP	pos2=RB	4	compound	_	O
+4	Nationally	nationally	NNP	pos2=RB	2	appos	_	O
+5	Following	follow	VBG	pos2=NNP	2	prep	_	O
+6	Trump	trump	NNP	pos2=NN	7	compound	_	B-ORG
+7	Win	win	NNP	pos2=GW	5	pobj	_	L-ORG
+8	https://t.co/ZbqAfE2CK9	#hlink#	ADD	pos2=NNP	6	appos	_	O
+9	#tcot	#tcot	-RRB-	pos2=IN	8	punct	_	O
+10	#tpp	#tpp	UH	pos2=-RRB-	0	root	_	O
+

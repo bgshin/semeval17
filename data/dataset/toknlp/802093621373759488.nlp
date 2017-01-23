@@ -1,0 +1,12 @@
+1	#Poroshenko	#poroshenko	NNP	pos2=WP	2	nsubj	_	U-ORG
+2	focused	focus	VBD	_	0	root	_	O
+3	that	that	IN	pos2=WDT	11	mark	_	O
+4	#Ukraine	#ukraine	NNP	pos2=CD	5	compound	_	U-GPE
+5	step	step	NN	_	11	dep	_	O
+6	by	by	IN	_	5	prep	_	O
+7	step	step	NN	pos2=JJ	8	compound	_	O
+8	implements	implement	NNS	pos2=VBZ	6	pobj	_	O
+9	#refrom	#refrom	IN	pos2=VBP	5	prep	_	O
+10	pro	pro	JJ	pos2=FW	11	nmod	_	O
+11	gramhttps://t.co/DnGCEZcLPr#StockWorld	#hlink#	ADD	pos2=NN	2	ccomp	_	U-GPE
+

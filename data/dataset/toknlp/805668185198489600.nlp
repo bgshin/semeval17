@@ -1,0 +1,17 @@
+1	Cuban	cuban	JJ	_	2	nmod	_	U-NORP
+2	immigrants	immigrant	NNS	_	16	dep	_	O
+3	stranded	strand	VBN	_	2	acl	_	O
+4	for	for	IN	_	3	prep	_	O
+5	days	day	NNS	_	4	pobj	_	U-DATE
+6	at	at	IN	_	3	prep	_	O
+7	Reynosa	reynosa	NNP	_	9	nmod	_	B-ORG
+8	-	-	HYPH	pos2=:	9	punct	_	I-ORG
+9	Hidalgo	hidalgo	NNP	_	12	nmod	_	L-ORG
+10	international	international	JJ	_	12	nmod	_	O
+11	bridge#Cuban	bridge#cuban	NNP	pos2=XX	12	compound	_	O
+12	#Immigration	#immigration	NNP	pos2=NN	6	pobj	_	O
+13	#reynosa	#reynosa	UH	pos2=XX	16	dep	_	O
+14	#hidalgo	#hidalgo	UH	pos2=GW	16	discourse	_	O
+15	…	…	NFP	pos2=-LRB-	16	punct	_	O
+16	https://t.co/hCT3QJHTAj	#hlink#	ADD	_	0	root	_	O
+

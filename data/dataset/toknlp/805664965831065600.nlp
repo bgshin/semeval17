@@ -1,0 +1,25 @@
+1	Should	should	MD	_	3	aux	_	O
+2	we	we	PRP	_	3	nsubj	_	O
+3	bring	bring	VB	_	0	root	_	O
+4	back	back	RB	pos2=RP	3	advmod	_	O
+5	the	the	DT	_	7	det	_	O
+6	death	death	NN	_	7	compound	_	O
+7	penalty	penalty	NN	_	3	dobj	_	O
+8	for	for	IN	_	3	prep	_	O
+9	convicted	convict	VBN	_	10	nmod	_	O
+10	paedophiles	paedophile	NNS	_	8	pobj	_	O
+11	?	?	.	_	3	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	answer	answer	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	simple	simple	JJ	_	3	acomp	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/HIjxvVMN4h	#hlink#	ADD	_	2	nsubj	_	O
+2	#EVENTS	#events	NNS	pos2=-RRB-	0	root	_	U-ORG
+

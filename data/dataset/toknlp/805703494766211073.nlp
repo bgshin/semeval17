@@ -1,0 +1,31 @@
+1	@reitmeyerteresa	@reitmeyerteresa	UH	pos2=XX	6	discourse	_	O
+2	@allabouttrump	@allabouttrump	UH	pos2=RB	6	discourse	_	O
+3	well	well	UH	_	6	discourse	_	O
+4	I	I	PRP	_	6	nsubjpass	_	O
+5	'm	be	VBP	_	6	auxpass	_	O
+6	educated	educate	VBN	pos2=JJ	8	advcl	_	O
+7	,	,	,	_	8	punct	_	O
+8	was	be	VBD	_	18	ccomp	_	O
+9	a	a	DT	_	10	det	_	O
+10	Dem	dem	NNP	pos2=NN	8	attr	_	U-NORP
+11	,	,	,	_	8	punct	_	O
+12	campaigned	campaign	VBD	_	8	conj	_	O
+13	4	0	CD	_	14	nmod	_	U-CARDINAL
+14	H	h	NN	pos2=NNS	12	dobj	_	O
+15	in	in	IN	_	12	prep	_	O
+16	2008	0	CD	_	15	pobj	_	U-DATE
+17	,	,	,	_	18	punct	_	O
+18	voted	vote	VBD	_	0	root	_	O
+19	Obama	obama	NNP	_	18	dobj	_	U-PERSON
+20	twice	twice	RB	_	18	advmod	_	O
+21	.	.	.	_	18	punct	_	O
+
+1	Do	do	VBP	pos2=VB	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	want	want	VB	_	0	root	_	O
+4	mass	mass	NN	pos2=JJ	5	compound	_	O
+5	immigration	immigration	NN	_	3	dobj	_	O
+6	or	or	CC	_	5	cc	_	O
+7	sharia	sharia	NN	pos2=NNS	5	conj	_	O
+8	!	!	.	_	3	punct	_	O
+

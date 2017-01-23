@@ -1,0 +1,21 @@
+1	Ben	ben	NNP	_	2	compound	_	B-PERSON
+2	Carson	carson	NNP	_	3	nsubj	_	L-PERSON
+3	worth	worth	JJ	pos2=VBD	0	root	_	O
+4	$	$	$	_	6	qmod	_	B-MONEY
+5	26	0	CD	_	6	compound	_	I-MONEY
+6	M	m	CD	pos2=NNP	3	npadvmod	_	L-MONEY
+7	.	.	.	_	3	punct	_	O
+
+1	Like	like	IN	pos2=UH	0	root	_	O
+2	how	how	WRB	_	4	advmod	_	O
+3	he	he	PRP	_	4	nsubj	_	O
+4	is	be	VBZ	_	1	pcomp	_	O
+5	a	a	DT	_	7	det	_	O
+6	fucking	fucking	JJ	pos2=VBG	7	nmod	_	O
+7	idiot	idiot	NN	_	4	attr	_	O
+8	even	even	RB	_	9	advmod	_	O
+9	for	for	IN	_	7	prep	_	O
+10	a	a	DT	_	12	det	_	O
+11	brain	brain	NN	_	12	compound	_	O
+12	surgeon	surgeon	NN	_	9	pobj	_	O
+

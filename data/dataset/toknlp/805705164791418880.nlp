@@ -1,0 +1,25 @@
+1	@evertonfc2	@evertonfc0	NN	pos2=UH	4	vocative	_	O
+2	So	so	RB	_	4	advmod	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	Tory	tory	NNP	pos2=NN	4	attr	_	U-NORP
+7	too	too	RB	_	8	advmod	_	O
+8	then	then	RB	_	4	advmod	_	O
+9	?	?	.	_	4	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	never	never	RB	_	3	neg	_	O
+3	thought	think	VBD	_	0	root	_	O
+4	we	we	PRP	_	6	nsubj	_	O
+5	would	would	MD	_	6	aux	_	O
+6	be	be	VB	_	3	ccomp	_	O
+7	in	in	IN	pos2=GW	6	prep	_	O
+8	agreement	agreement	NN	_	7	pobj	_	O
+9	on	on	IN	_	8	prep	_	O
+10	that	that	DT	_	9	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	#WellINever	#wellinever	ADD	pos2=WRB	2	det	_	U-GPE
+2	#Brexit	#brexit	NN	pos2=NNP	0	root	_	O
+

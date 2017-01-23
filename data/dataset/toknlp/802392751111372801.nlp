@@ -1,0 +1,26 @@
+1	@SenSchumer	@senschumer	NN	pos2=NNP	2	nsubj	_	O
+2	Stand	stand	VB	pos2=VBP	0	root	_	O
+3	up	up	RP	pos2=RB	2	prt	_	O
+4	4	0	CD	_	6	nmod	_	U-CARDINAL
+5	critical	critical	JJ	_	6	nmod	_	O
+6	NEEDS	need	NNS	pos2=NN	2	dobj	_	O
+7	-	-	:	pos2=,	6	punct	_	O
+8	not	not	RB	_	9	neg	_	O
+9	WANTS	want	VBZ	pos2=VB	6	relcl	_	O
+10	;	;	:	pos2=,	6	punct	_	O
+11	e.g.	e.g.	FW	pos2=RB	14	advmod	_	O
+12	Supreme	supreme	NNP	_	13	compound	_	B-ORG
+13	Ct.	ct.	NNP	_	14	compound	_	I-ORG
+14	Appointments	appointment	NNS	pos2=NNPS	9	dobj	_	L-ORG
+15	,	,	,	_	14	punct	_	O
+16	Climate	climate	NNP	pos2=NN	17	compound	_	U-ORG
+17	change	change	NN	pos2=VBP	14	appos	_	O
+18	,	,	,	_	17	punct	_	O
+19	medicare	medicare	NN	pos2=JJ	17	conj	_	O
+20	,	,	,	_	19	punct	_	O
+21	social	social	JJ	_	22	nmod	_	O
+22	security	security	NN	_	19	conj	_	O
+23	,	,	,	_	22	punct	_	O
+24	tax	tax	NN	_	25	compound	_	O
+25	reform	reform	NN	_	22	conj	_	O
+

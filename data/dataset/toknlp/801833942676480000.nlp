@@ -1,0 +1,12 @@
+1	Jordan	jordan	NNP	_	2	compound	_	B-PERSON
+2	Smith	smith	NNP	_	6	vocative	_	L-PERSON
+3	,	,	,	_	6	punct	_	O
+4	Kate	kate	NNP	_	5	compound	_	B-PERSON
+5	Upton	upton	NNP	_	6	nsubj	_	L-PERSON
+6	headlining	headline	VBG	_	0	root	_	O
+7	Kentucky	kentucky	NNP	_	9	compound	_	B-PERSON
+8	Oaks	oaks	NNP	pos2=NNPS	9	compound	_	I-PERSON
+9	#KateUpton	#kateupton	NNP	pos2=ADD	6	dobj	_	L-PERSON
+10	https://t.co/ytSgEwvq7o	#hlink#	ADD	_	11	nsubj	_	O
+11	#KateUpton	#kateupton	ADD	pos2=NNP	6	punct	_	U-ORG
+

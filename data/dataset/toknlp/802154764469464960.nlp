@@ -1,0 +1,19 @@
+1	Wishing	wish	VBG	_	0	root	_	O
+2	you	you	PRP	_	1	dative	_	O
+3	a	a	DT	_	5	det	_	O
+4	great	great	JJ	_	5	nmod	_	O
+5	#Shabbat	#shabbat	NNP	pos2=NN	8	nmod	_	O
+6	&	&	CC	_	5	cc	_	O
+7	relaxed	relaxed	JJ	pos2=VBD	5	conj	_	O
+8	#weekend	#weekend	NN	pos2=XX	1	dobj	_	O
+9	from	from	IN	_	1	prep	_	O
+10	#Jerusalem	#jerusalem	NNP	pos2=PRP	9	pobj	_	U-GPE
+11	!	!	.	_	1	punct	_	O
+
+1	#weekendvibes	#weekendvibes	UH	pos2=NNS	4	discourse	_	O
+2	#shabbatshalom	#shabbatshalom	UH	pos2=IN	4	discourse	_	O
+3	#FinallyFree	#finallyfree	UH	pos2=ADD	4	discourse	_	O
+4	#fun	#fun	UH	pos2=GW	0	root	_	O
+5	…	…	NFP	pos2=-LRB-	4	discourse	_	O
+6	https://t.co/3Ijs3pX0WT	#hlink#	ADD	_	4	dep	_	O
+

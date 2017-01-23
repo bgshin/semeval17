@@ -1,0 +1,24 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	think	think	VBP	_	0	root	_	O
+3	we	we	PRP	_	5	nsubj	_	O
+4	've	have	VBP	_	5	aux	_	O
+5	found	find	VBN	_	2	ccomp	_	O
+6	the	the	DT	_	8	det	_	O
+7	Ben	ben	NNP	_	8	compound	_	B-PERSON
+8	Carson	carson	NNP	_	5	dobj	_	L-PERSON
+9	of	of	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	Left	left	NNP	pos2=NN	9	pobj	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	What	what	WP	_	2	attr	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	it	it	PRP	_	2	nsubj	_	O
+4	with	with	IN	_	2	prep	_	O
+5	MDs	md	NNS	pos2=NNP	4	pobj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	grifting	grifting	NN	pos2=VBG	5	conj	_	O
+8	?	?	.	_	2	punct	_	O
+
+1	https://t.co/4OhqpZU3dQ	#hlink#	ADD	_	0	root	_	U-ORG
+

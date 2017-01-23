@@ -1,0 +1,14 @@
+1	Fire	fire	NN	pos2=NNP	2	nsubj	_	O
+2	broke	break	VBD	_	0	root	_	O
+3	out	out	RP	_	2	prt	_	O
+4	in	in	IN	_	2	prep	_	O
+5	one	#crd#	CD	_	4	pobj	_	U-CARDINAL
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	#Palestinian	#palestinian	NNP	pos2=JJ	9	compound	_	U-ORG
+9	shops	shop	NNS	_	6	pobj	_	O
+10	in	in	IN	_	9	prep	_	O
+11	Occupied	occupy	VBN	pos2=NNP	12	nmod	_	O
+12	#Jerusalem	#jerusalem	NNP	pos2=ADD	10	pobj	_	U-GPE
+13	https://t.co/LYZcK7dhDe	#hlink#	ADD	_	2	dep	_	O
+

@@ -1,0 +1,10 @@
+1	Guess	guess	VB	pos2=VBP	0	root	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	'm	be	VBP	_	1	ccomp	_	O
+4	about	about	JJ	pos2=RB	3	acomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	catch	catch	VB	_	4	xcomp	_	O
+7	up	up	RP	_	6	prt	_	O
+8	on	on	IN	_	6	prep	_	O
+9	#ScreamQueens	#screamqueens	NNS	pos2=NNP	8	pobj	_	O
+

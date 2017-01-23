@@ -1,0 +1,28 @@
+1	Cristiano	cristiano	NNP	_	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	5	nsubjpass	_	L-PERSON
+3	has	have	VBZ	_	5	aux	_	O
+4	been	be	VBN	_	5	auxpass	_	O
+5	accused	accuse	VBN	_	0	root	_	O
+6	of	of	IN	_	5	prep	_	O
+7	tax	tax	NN	_	8	compound	_	O
+8	evasion	evasion	NN	_	6	pobj	_	O
+9	,	,	,	_	5	punct	_	O
+10	Accodring	accodring	VBG	pos2=NNP	5	advcl	_	O
+11	to	to	IN	_	10	prep	_	O
+12	sources	source	NNS	_	11	pobj	_	O
+13	in	in	IN	_	12	prep	_	O
+14	Spain	spain	NNP	_	13	pobj	_	U-GPE
+15	.	.	.	_	5	punct	_	O
+
+1	Allegedly	allegedly	RB	_	2	advmod	_	O
+2	moving	move	VBG	_	0	root	_	O
+3	€	$	$	_	4	nmod	_	O
+4	63.5	0	CD	_	5	nmod	_	U-MONEY
+5	mil	mil	NN	pos2=AFX	2	dobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	to	to	IN	pos2=TO	4	nmod	_	O
+2	V	v	VB	pos2=GW	1	pobj	_	O
+3	…	…	NFP	pos2=-LRB-	4	punct	_	O
+4	https://t.co/2CB1QkSQHl	#hlink#	ADD	pos2=NN	0	root	_	O
+

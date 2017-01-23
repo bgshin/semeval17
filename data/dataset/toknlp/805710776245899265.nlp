@@ -1,0 +1,12 @@
+1	Role	role	NN	_	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	Homeopathy	homeopathy	NNP	pos2=NN	2	pobj	_	O
+4	in	in	IN	_	1	prep	_	O
+5	Antibiotic	antibiotic	NNP	_	6	compound	_	O
+6	Resistance	resistance	NNP	pos2=NN	4	pobj	_	O
+7	!	!	.	_	1	punct	_	O
+
+1	https://t.co/4D9V8c8jDY	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@DrNancyMalik	@drnancymalik	NN	pos2=NNP	2	pobj	_	O
+

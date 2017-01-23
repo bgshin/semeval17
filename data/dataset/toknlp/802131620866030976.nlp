@@ -1,0 +1,8 @@
+1	Trending	trending	NN	pos2=VBG	7	dep	_	O
+2	:	:	:	_	7	punct	_	O
+3	Hatchimal	hatchimal	NNP	pos2=NFP	7	dep	_	O
+4	|	|	SYM	pos2=GW	7	punct	_	O
+5	Hatchimals	hatchimals	NNP	pos2=NNS	3	appos	_	O
+6	https://t.co/VWlH2AhnTJ	#hlink#	ADD	_	7	nmod	_	O
+7	#Hatchimals	#hatchimals	NNS	pos2=ADD	0	root	_	O
+

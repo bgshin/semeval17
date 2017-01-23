@@ -1,0 +1,14 @@
+1	#InStyle	#instyle	NNP	pos2=XX	3	compound	_	O
+2	Ashley	ashley	NNP	_	3	compound	_	B-PERSON
+3	Graham	graham	NNP	_	7	poss	_	I-PERSON
+4	's	's	POS	_	3	case	_	L-PERSON
+5	Red	red	NNP	pos2=JJ	7	compound	_	B-ORG
+6	Velvet	velvet	NNP	pos2=NN	7	compound	_	I-ORG
+7	Dress	dress	NNP	pos2=NN	8	nsubj	_	L-ORG
+8	Is	be	VBZ	_	0	root	_	O
+9	the	the	DT	_	12	det	_	O
+10	Perfect	perfect	JJ	pos2=NNP	12	nmod	_	O
+11	Holiday	holiday	NNP	_	12	compound	_	O
+12	Outfit	outfit	NN	pos2=NNP	8	attr	_	O
+13	https://t.co/iTETI25DVS	#hlink#	ADD	_	12	appos	_	O
+

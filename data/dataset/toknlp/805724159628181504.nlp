@@ -1,0 +1,15 @@
+1	Nick	nick	NNP	_	5	compound	_	O
+2	Young	young	NNP	_	5	compound	_	O
+3	—	-	HYPH	pos2=:	4	punct	_	O
+4	Fidel	fidel	NNP	_	5	compound	_	B-PERSON
+5	Castro	castro	NNP	_	6	nsubj	_	L-PERSON
+6	was	be	VBD	_	0	root	_	O
+7	a	a	DT	_	9	det	_	O
+8	“	"	``	_	9	punct	_	O
+9	Legend	legend	NNP	pos2=NN	6	attr	_	O
+10	”	"	''	_	9	punct	_	O
+11	|	|	SYM	pos2=,	9	punct	_	O
+12	TMZ	tmz	NNP	_	13	compound	_	B-ORG
+13	TV	tv	NN	pos2=GW	14	dep	_	L-ORG
+14	https://t.co/NHWRNBjd6h	#hlink#	ADD	pos2=NN	9	appos	_	O
+

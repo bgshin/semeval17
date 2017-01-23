@@ -1,0 +1,28 @@
+1	..	..	.	pos2=NFP	0	predet	_	O
+
+1	Kim	kim	NNP	_	2	compound	_	B-PERSON
+2	Fatty	fatty	NNP	_	0	root	_	L-PERSON
+3	The	the	DT	pos2=NNP	4	det	_	O
+4	Third	#ord#	NNP	pos2=NNPS	2	appos	_	U-ORDINAL
+5	.	.	.	_	2	punct	_	O
+
+1	#KimFattyTheThird	#kimfattythethird	NN	pos2=UH	0	root	_	O
+2	..	..	.	pos2=,	1	punct	_	O
+
+1	#America	#america	NNP	pos2=NN	3	nsubj	_	U-ORG
+2	is	be	VBZ	_	3	aux	_	O
+3	keeping	keep	VBG	_	0	root	_	O
+4	an	an	DT	_	5	det	_	O
+5	eye	eye	NN	_	3	dobj	_	O
+6	on	on	IN	_	3	prep	_	O
+7	you	you	PRP	_	6	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	and	and	CC	_	2	cc	_	O
+2	#KimFattyTheSecond	#kimfattythesecond	NN	pos2=ADD	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	and	and	CC	_	2	cc	_	O
+2	#KimFattyTheFirst	#kimfattythefirst	RB	pos2=ADD	0	root	_	U-ORDINAL
+3	.	.	.	_	2	punct	_	O
+

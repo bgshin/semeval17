@@ -1,0 +1,18 @@
+1	@Billysmithjr33	@billysmithjr0	NN	pos2=NNS	5	nsubj	_	O
+2	of	of	IN	pos2=RB	1	prep	_	O
+3	course	course	NN	pos2=RB	2	pobj	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	relevant	relevant	JJ	_	5	acomp	_	O
+7	to	to	IN	_	6	prep	_	O
+8	#BlackLivesMatter	#blacklivesmatter	NNP	pos2=ADD	7	pobj	_	U-ORG
+9	,	,	,	_	15	punct	_	O
+10	a	a	DT	_	12	det	_	O
+11	black	black	JJ	_	12	nmod	_	O
+12	life	life	NN	_	15	nsubjpass	_	O
+13	was	be	VBD	_	15	auxpass	_	O
+14	brutally	brutally	RB	_	15	advmod	_	O
+15	taken	take	VBN	_	5	ccomp	_	O
+16	away	away	RB	_	15	advmod	_	O
+17	...	..	.	pos2=,	5	punct	_	O
+

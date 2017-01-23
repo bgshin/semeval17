@@ -1,0 +1,16 @@
+1	Sisi	sisi	NNP	_	2	nsubj	_	U-PERSON
+2	Reiterates	reiterate	VBZ	_	0	root	_	O
+3	Egypt	egypt	NNP	_	5	poss	_	U-GPE
+4	’s	's	POS	_	3	case	_	O
+5	Support	support	NN	pos2=NNP	2	dobj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	Haftar	haftar	NNP	_	6	pobj	_	U-ORG
+8	and	and	CC	_	7	cc	_	O
+9	Libyan	libyan	JJ	pos2=NNP	10	nmod	_	B-ORG
+10	National	national	NNP	_	7	conj	_	I-ORG
+11	Armyhttps://t.co/sSTkCIOyZk#Egypt	#hlink#	ADD	pos2=NNP	15	nmod	_	I-ORG
+12	#Libya	#libya	NNP	pos2=-RRB-	13	compound	_	I-ORG
+13	#Sisi	#sisi	NNP	pos2=GW	15	dep	_	L-ORG
+14	…	…	NFP	pos2=-LRB-	15	punct	_	O
+15	https://t.co/79gioRI425	#hlink#	ADD	_	2	dep	_	U-ORG
+

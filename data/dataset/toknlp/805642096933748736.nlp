@@ -1,0 +1,15 @@
+1	@THExBIGxNUTxOSU	@thexbigxnutxosu	XX	pos2=ADD	9	dep	_	O
+2	@Bzachman12	@bzachman0	NN	pos2=XX	9	dep	_	O
+3	Hellllllll	hellllllll	NNP	pos2=XX	6	dep	_	U-PERSON
+4	ya	ya	UH	pos2=NN	9	discourse	_	O
+5	I	I	PRP	_	9	nsubj	_	O
+6	would	would	MD	_	9	aux	_	O
+7	if	if	IN	pos2=VB	9	mark	_	O
+8	it	it	PRP	_	9	nsubj	_	O
+9	had	have	VBD	_	0	root	_	O
+10	Zac	zac	NNP	_	11	compound	_	B-PERSON
+11	Efron	efron	NNP	_	9	dobj	_	L-PERSON
+12	in	in	IN	_	9	prep	_	O
+13	it	it	PRP	_	12	pobj	_	O
+14	❤️	❤️	.	pos2=NNP	9	punct	_	U-LOC
+

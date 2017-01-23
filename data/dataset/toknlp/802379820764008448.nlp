@@ -1,0 +1,17 @@
+1	Steve	steve	NNP	_	2	compound	_	B-PERSON
+2	Bannon	bannon	NNP	_	4	nsubj	_	L-PERSON
+3	would	would	MD	_	4	aux	_	O
+4	make	make	VB	_	0	root	_	O
+5	a	a	DT	_	7	det	_	O
+6	great	great	JJ	_	7	nmod	_	O
+7	villain	villain	NN	_	4	dobj	_	O
+8	on	on	IN	_	7	prep	_	O
+9	"	"	``	_	12	punct	_	O
+10	The	the	DT	_	12	det	_	B-WORK_OF_ART
+11	Walking	walking	NNP	pos2=VBG	12	compound	_	I-WORK_OF_ART
+12	Dead	dead	NNP	pos2=JJ	8	pobj	_	I-WORK_OF_ART
+13	"	"	''	_	12	punct	_	L-WORK_OF_ART
+14	.	.	.	_	4	punct	_	O
+
+1	https://t.co/LjhpLHiiCe	#hlink#	ADD	_	0	root	_	U-ORG
+

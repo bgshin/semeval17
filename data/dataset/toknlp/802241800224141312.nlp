@@ -1,0 +1,22 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@realDonaldTrump	@realdonaldtrump	``	pos2=NNP	12	punct	_	O
+2	First	#ord#	NNP	pos2=RB	3	compound	_	U-ORDINAL
+3	Melania	melania	NNP	_	4	nsubj	_	U-PERSON
+4	steals	steal	VBZ	_	12	ccomp	_	O
+5	a	a	DT	_	6	det	_	O
+6	speech	speech	NN	_	4	dobj	_	O
+7	from	from	IN	_	6	prep	_	O
+8	FLOTUS	flotus	NNP	_	7	pobj	_	U-ORG
+9	,	,	,	_	12	punct	_	O
+10	then	then	RB	_	12	advmod	_	O
+11	you	you	PRP	_	12	nsubj	_	O
+12	steal	steal	VBP	_	0	root	_	O
+13	one	#crd#	CD	pos2=PRP	12	dobj	_	O
+14	from	from	IN	_	12	prep	_	O
+15	Gene	gene	NNP	_	16	compound	_	B-PERSON
+16	Roddenbury	roddenbury	NNP	_	14	pobj	_	L-PERSON
+17	.	.	.	_	12	punct	_	O
+
+1	#Plagiarism	#plagiarism	NNP	pos2=NN	0	root	_	O
+

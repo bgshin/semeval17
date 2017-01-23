@@ -1,0 +1,19 @@
+1	I	I	PRP	_	5	nsubj	_	O
+2	just	just	RB	_	5	advmod	_	O
+3	ca	can	MD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	stop	stop	VB	_	0	root	_	O
+6	listening	listen	VBG	_	5	xcomp	_	O
+7	to	to	IN	_	6	prep	_	O
+8	this	this	DT	_	7	pobj	_	O
+9	:(	:(	NFP	pos2=IN	5	discourse	_	O
+10	Leonard	leonard	NNP	_	13	compound	_	O
+11	Cohen	cohen	NNP	_	16	dep	_	O
+12	-	-	HYPH	pos2=:	13	punct	_	O
+13	Leaving	leave	VBG	pos2=NNP	5	xcomp	_	O
+14	the	the	DT	_	15	det	_	O
+15	Table	table	NN	pos2=NNP	13	dobj	_	O
+16	https://t.co/lVVukNyCrq	#hlink#	ADD	pos2=RBR	18	nmod	_	O
+17	via	via	IN	_	13	prep	_	O
+18	@YouTube	@youtube	NN	pos2=NNP	17	pobj	_	O
+

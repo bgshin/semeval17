@@ -1,0 +1,7 @@
+1	That	that	DT	pos2=IN	4	det	_	O
+2	Leonard	leonard	NNP	_	3	compound	_	B-PERSON
+3	Cohen	cohen	NNP	_	4	compound	_	L-PERSON
+4	joke	joke	NN	pos2=FW	5	nsubj	_	O
+5	hurt	hurt	VBN	pos2=NN	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+

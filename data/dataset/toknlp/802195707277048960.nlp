@@ -1,0 +1,6 @@
+1	Great	great	JJ	_	3	nmod	_	O
+2	Valentines	valentines	NNP	pos2=NNS	3	compound	_	O
+3	Gifts	gift	NNS	_	0	root	_	O
+4	:	:	:	_	3	punct	_	O
+5	https://t.co/Cbow1pvdie	#hlink#	ADD	pos2=NN	3	appos	_	O
+

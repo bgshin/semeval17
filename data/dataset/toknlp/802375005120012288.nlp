@@ -1,0 +1,15 @@
+1	"	"	``	pos2=SYM	6	punct	_	O
+2	Will	will	MD	_	6	aux	_	O
+3	pedestrians	pedestrian	NNS	_	6	nsubj	_	O
+4	and	and	CC	_	3	cc	_	O
+5	cyclists	cyclist	NNS	_	3	conj	_	O
+6	bully	bully	VBP	pos2=RB	0	root	_	O
+7	self-driving	self-driving	JJ	pos2=VBG	8	nmod	_	O
+8	cars	car	NNS	_	6	dobj	_	O
+9	?	?	.	pos2=,	6	punct	_	O
+10	"	"	''	_	6	punct	_	O
+
+1	#architecture	#architecture	UH	pos2=GW	3	nmod	_	O
+2	#urban_design	#urban_design	GW	pos2=ADD	3	nmod	_	O
+3	https://t.co/04YIRQDeN0	#hlink#	ADD	pos2=NN	0	root	_	O
+

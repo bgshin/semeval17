@@ -1,0 +1,11 @@
+1	Here	here	RB	_	2	advmod	_	O
+2	Is	be	VBZ	_	0	root	_	O
+3	Everything	everything	NN	pos2=NNP	2	nsubj	_	O
+4	You	you	PRP	_	6	nsubj	_	O
+5	Should	should	MD	_	6	aux	_	O
+6	Know	know	VB	_	3	relcl	_	O
+7	About	about	IN	pos2=NNP	6	prep	_	O
+8	Melania	melania	NNP	pos2=GW	9	compound	_	B-PERSON
+9	T	t	NNP	pos2=NN	7	pobj	_	L-PERSON
+10	rumphttps://t.co/eH6V4gxcDF	#hlink#	ADD	_	3	appos	_	O
+

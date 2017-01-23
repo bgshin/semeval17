@@ -1,0 +1,21 @@
+1	How	how	WRB	_	6	advmod	_	O
+2	the	the	DT	_	4	det	_	O
+3	#uber	#uber	NNP	pos2=JJR	4	compound	_	U-PERSON
+4	case	case	NN	_	6	nsubj	_	O
+5	will	will	MD	_	6	aux	_	O
+6	help	help	VB	_	0	root	_	O
+7	local	local	JJ	_	9	nmod	_	O
+8	taxi	taxi	NN	_	9	compound	_	O
+9	firms	firm	NNS	_	6	dobj	_	O
+10	in	in	IN	_	6	prep	_	O
+11	the	the	DT	_	20	det	_	O
+12	UK	uk	NNP	_	14	nmod	_	U-GPE
+13	-	-	HYPH	pos2=:	14	punct	_	O
+14	https://t.co/jPJ4ATdiJc	#hlink#	ADD	pos2=NNP	10	pobj	_	O
+15	#uberdriver	#uberdriver	-RRB-	pos2=IN	14	punct	_	O
+16	#taxi	#taxi	UH	pos2=FW	20	discourse	_	O
+17	#transport	#transport	UH	pos2=FW	20	discourse	_	O
+18	#jobs	#jobs	UH	pos2=FW	20	discourse	_	O
+19	#wages	#wages	UH	pos2=NNS	20	discourse	_	O
+20	#bristol	#bristol	UH	pos2=.	6	discourse	_	O
+

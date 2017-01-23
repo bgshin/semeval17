@@ -1,0 +1,25 @@
+1	How	how	WRB	_	4	advmod	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	people	people	NNS	_	4	nsubj	_	O
+4	believe	believe	VBP	pos2=VB	21	ccomp	_	O
+5	vaccines	vaccine	NNS	_	6	nsubj	_	O
+6	cause	cause	VBP	pos2=IN	4	ccomp	_	O
+7	Autism	autism	NNP	pos2=NN	6	dobj	_	O
+8	,	,	,	_	11	punct	_	O
+9	the	the	DT	_	10	det	_	O
+10	world	world	NN	_	11	nsubj	_	O
+11	is	be	VBZ	_	4	ccomp	_	O
+12	flat	flat	JJ	_	11	acomp	_	O
+13	,	,	,	_	21	punct	_	O
+14	chem	chem	NN	pos2=JJ	15	compound	_	O
+15	trails	trail	NNS	_	10	appos	_	O
+16	and	and	CC	_	15	cc	_	O
+17	all	all	PDT	_	19	predet	_	O
+18	that	that	DT	pos2=WDT	19	det	_	O
+19	nonsense	nonsense	NN	_	15	conj	_	O
+20	I	I	PRP	_	21	nsubj	_	O
+21	'm	be	VBP	_	0	root	_	O
+22	genuinely	genuinely	RB	_	23	advmod	_	O
+23	curious	curious	JJ	_	21	acomp	_	O
+24	.	.	.	_	21	punct	_	O
+

@@ -1,0 +1,26 @@
+1	@RealSkipBayless	@realskipbayless	ADD	pos2=NNP	6	punct	_	O
+2	yep	yep	UH	_	6	discourse	_	O
+3	,	,	,	_	6	punct	_	O
+4	they	they	PRP	_	6	nsubj	_	O
+5	're	be	VBP	_	6	aux	_	O
+6	setting	set	VBG	_	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	table	table	NN	_	6	dobj	_	O
+9	for	for	IN	_	15	mark	_	O
+10	backup	backup	JJ	pos2=NN	11	nmod	_	O
+11	QB	qb	NN	pos2=NNP	13	compound	_	O
+12	Tony	tony	NNP	_	13	compound	_	B-PERSON
+13	Romo	romo	NNP	_	15	nsubj	_	L-PERSON
+14	to	to	TO	_	15	aux	_	O
+15	botch	botch	VB	_	6	advcl	_	O
+16	a	a	DT	_	17	det	_	O
+17	snap	snap	NN	_	15	dobj	_	O
+18	&	&	CC	_	15	cc	_	O
+19	lose	lose	VB	pos2=NN	15	conj	_	O
+20	to	to	IN	_	19	prep	_	O
+21	Seattle	seattle	NNP	_	20	pobj	_	U-GPE
+22	in	in	IN	_	19	prep	_	O
+23	playoffs	playoff	NNS	_	22	pobj	_	O
+24	haha	haha	UH	_	15	discourse	_	O
+25	😂😂	😂😂	.	pos2=NNP	6	punct	_	O
+

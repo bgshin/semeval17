@@ -1,0 +1,25 @@
+1	@jimmyfallon	@jimmyfallon	UH	pos2=NN	7	discourse	_	O
+2	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=CD	7	dep	_	O
+3	Top	top	JJ	pos2=NN	7	dep	_	O
+4	4	0	CD	_	7	nmod	_	U-CARDINAL
+5	+	+	SYM	_	4	punct	_	O
+6	invisible	invisible	JJ	_	7	nmod	_	O
+7	51	0	CD	pos2=NN	0	root	_	U-CARDINAL
+8	.	.	.	_	7	punct	_	O
+
+1	Jess	jess	NNP	pos2=GW	2	compound	_	B-PERSON
+2	😍2	😍0	NN	pos2=NNP	0	root	_	L-PERSON
+3	.	.	.	_	2	punct	_	O
+
+1	Paris😂3	paris😂0	LS	pos2=NN	0	root	_	U-CARDINAL
+2	.	.	.	_	1	punct	_	O
+
+1	Luke💜4	luke💜0	LS	pos2=NN	0	root	_	U-CARDINAL
+2	.	.	.	_	1	punct	_	O
+
+1	Sookie🎈5	sookie🎈0	LS	pos2=NN	0	root	_	U-CARDINAL
+2	.	.	.	_	1	punct	_	O
+
+1	Taylor	taylor	NNP	_	2	compound	_	B-PERSON
+2	😅	😅	NNP	pos2=POS	0	root	_	L-PERSON
+

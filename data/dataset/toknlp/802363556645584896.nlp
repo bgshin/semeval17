@@ -1,0 +1,18 @@
+1	#Politics	#politics	NNP	pos2=NNS	17	dep	_	O
+2	The	the	DT	_	3	det	_	O
+3	story	story	NN	_	1	appos	_	O
+4	of	of	IN	_	3	prep	_	O
+5	Melania	melania	NNP	_	6	compound	_	B-PERSON
+6	Trump	trump	NNP	pos2=NN	4	pobj	_	L-PERSON
+7	:	:	:	_	3	punct	_	O
+8	From	from	IN	_	17	prep	_	O
+9	nude	nude	JJ	pos2=NN	10	nmod	_	O
+10	model	model	NN	_	8	pobj	_	O
+11	to	to	IN	_	8	prep	_	O
+12	America	america	NNP	_	15	poss	_	U-GPE
+13	’s	's	POS	_	12	case	_	O
+14	First	#ord#	NNP	_	15	compound	_	U-ORDINAL
+15	Lady	lady	NNP	pos2=GW	11	pobj	_	O
+16	https://t.co/kx4LxXEb4Z	#hlink#	ADD	_	17	nmod	_	O
+17	https://t.co/uJ9mMFC1MK	#hlink#	ADD	_	0	root	_	U-ORG
+

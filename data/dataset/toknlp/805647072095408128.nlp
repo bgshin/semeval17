@@ -1,0 +1,19 @@
+1	@tolucamall	@tolucamall	UH	pos2=XX	6	discourse	_	O
+2	troy	troy	NN	pos2=FW	6	nsubj	_	O
+3	bolton	bolton	NNP	pos2=IN	6	vocative	_	U-PERSON
+4	the	the	DT	_	5	det	_	O
+5	character	character	NN	_	6	nsubj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	too	too	RB	_	8	advmod	_	O
+8	young	young	JJ	_	6	acomp	_	O
+9	for	for	IN	_	8	prep	_	O
+10	mezac	mezac	JJ	pos2=VBG	11	nmod	_	O
+11	efron	efron	NNP	pos2=NN	9	pobj	_	U-PERSON
+12	the	the	DT	_	13	det	_	O
+13	person	person	NN	_	16	nsubj	_	O
+14	not	not	RB	_	16	neg	_	O
+15	actually	actually	RB	_	16	advmod	_	O
+16	v	v	VB	pos2=VBP	11	relcl	_	O
+17	attractive	attractive	JJ	_	16	acomp	_	O
+18	imo	imo	RB	_	16	advmod	_	O
+

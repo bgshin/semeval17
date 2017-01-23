@@ -1,0 +1,23 @@
+1	Notice	notice	NN	pos2=VB	0	root	_	O
+2	he	he	PRP	_	4	nsubj	_	O
+3	NEVER	never	RB	_	4	neg	_	O
+4	attacks	attack	VBZ	_	1	ccomp	_	O
+5	cons	con	NNS	_	4	dobj	_	O
+6	or	or	CC	_	5	cc	_	O
+7	"	"	``	_	8	punct	_	O
+8	rightists	rightist	NNS	_	5	conj	_	O
+9	"	"	''	pos2=``	8	punct	_	O
+10	only	only	RB	pos2=JJ	12	advmod	_	O
+11	"	"	``	_	12	punct	_	O
+12	leftists	leftist	NNS	_	4	dative	_	O
+13	"	"	''	_	12	punct	_	O
+14	but	but	CC	_	4	cc	_	O
+15	he	he	PRP	_	18	nsubj	_	O
+16	does	do	VBZ	_	18	aux	_	O
+17	n't	not	RB	_	18	neg	_	O
+18	have	have	VB	_	4	conj	_	O
+19	an	an	DT	_	20	det	_	O
+20	agenda	agenda	NN	_	18	dobj	_	O
+21	😉	😉	NFP	pos2=IN	22	punct	_	O
+22	https://t.co/u44DFYtzoa	#hlink#	ADD	_	18	dep	_	O
+

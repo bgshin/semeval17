@@ -1,0 +1,6 @@
+1	zac	zac	NNP	pos2=NN	2	compound	_	B-PERSON
+2	efron	efron	NNP	pos2=GW	5	dep	_	L-PERSON
+3	completely	completely	RB	_	4	advmod	_	O
+4	naked	naked	JJ	_	5	nmod	_	O
+5	https://t.co/bSHt6cgoO0	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

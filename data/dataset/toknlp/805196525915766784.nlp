@@ -1,0 +1,17 @@
+1	Ashley	ashley	NNP	_	2	compound	_	B-PERSON
+2	Graham	graham	NNP	_	7	nsubj	_	L-PERSON
+3	On	on	IN	_	2	prep	_	O
+4	Vogue	vogue	NNP	_	6	compound	_	B-ORG
+5	UK	uk	NNP	_	6	compound	_	I-ORG
+6	Magazine	magazine	NNP	pos2=NN	3	pobj	_	L-ORG
+7	cover	cover	NN	pos2=VBP	0	root	_	O
+8	#losewieghtnow	#losewieghtnow	IN	pos2=XX	7	prep	_	O
+9	#lose	#lose	JJ	pos2=PRP$	10	nmod	_	O
+10	fat	fat	NN	pos2=JJ	8	pobj	_	O
+11	#lose	#lose	WDT	pos2=POS	12	det	_	B-QUANTITY
+12	inches	inch	NNS	pos2=VBZ	13	nsubj	_	L-QUANTITY
+13	#feel	#feel	VBP	pos2=NFP	9	ccomp	_	O
+14	good	good	JJ	_	15	nmod	_	O
+15	https://t.co/C3NQTLPbin	#hlink#	ADD	pos2=NN	16	nmod	_	O
+16	https://t.co/oj4W63F9op	#hlink#	ADD	_	13	root	_	U-ORG
+

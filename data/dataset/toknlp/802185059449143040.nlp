@@ -1,0 +1,20 @@
+1	@JoyAnnReid	@joyannreid	ADD	pos2=XX	5	punct	_	U-NORP
+2	@SarahBurris	@sarahburris	NNS	pos2=ADD	3	compound	_	O
+3	@nytimes	@nytimes	NNS	pos2=UH	5	nsubj	_	O
+4	Please	please	UH	_	5	discourse	_	O
+5	read	read	VB	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	article	article	NN	_	5	dobj	_	O
+8	about	about	IN	_	7	prep	_	O
+9	Steve	steve	NNP	_	10	compound	_	B-PERSON
+10	Bannon	bannon	NNP	_	8	pobj	_	L-PERSON
+11	and	and	CC	_	10	cc	_	O
+12	his	his	PRP$	_	13	poss	_	O
+13	adoration	adoration	NN	_	10	conj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	sarah	sarah	NNP	pos2=NN	16	compound	_	B-PERSON
+16	palin	palin	NNP	pos2=NN	14	pobj	_	L-PERSON
+17	on	on	IN	_	13	prep	_	O
+18	the	the	DT	_	19	det	_	O
+19	@thedailybeast	@thedailybeast	NN	pos2=ADD	17	pobj	_	O
+

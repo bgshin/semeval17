@@ -1,0 +1,23 @@
+1	Not	not	RB	_	2	neg	_	O
+2	sure	sure	JJ	_	0	root	_	O
+3	why	why	WRB	_	5	advmod	_	O
+4	Obama	obama	NNP	_	5	compound	_	U-PERSON
+5	Admin	admin	NN	pos2=NNP	6	nsubj	_	O
+6	deadset	deadset	VBN	pos2=NN	2	ccomp	_	O
+7	against	against	IN	_	6	prep	_	O
+8	recount	recount	NN	_	7	pobj	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	MI	mi	NN	pos2=NNP	5	nmod	_	O
+2	,	,	,	_	12	punct	_	O
+3	again	again	RB	_	12	advmod	_	O
+4	,	,	,	_	12	punct	_	O
+5	Center	center	NNP	_	12	dep	_	B-ORG
+6	of	of	IN	_	5	prep	_	I-ORG
+7	the	the	DT	_	8	det	_	I-ORG
+8	Universe	universe	NNP	_	6	pobj	_	L-ORG
+9	this	this	DT	_	11	det	_	O
+10	election	election	NN	_	11	compound	_	O
+11	cycle	cycle	NN	_	12	dep	_	O
+12	https://t.co/KFUSbAhp4T	#hlink#	ADD	pos2=NN	0	root	_	O
+

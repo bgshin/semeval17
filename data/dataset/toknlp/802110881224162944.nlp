@@ -1,0 +1,12 @@
+1	NFL	nfl	NNP	_	3	compound	_	O
+2	Trade	trade	NNP	pos2=NN	3	compound	_	O
+3	Rumors	rumor	NNPS	pos2=NNS	7	dep	_	O
+4	–	-	:	pos2=HYPH	7	punct	_	O
+5	Tony	tony	NNP	_	6	compound	_	B-PERSON
+6	Romo	romo	NNP	_	7	nsubj	_	L-PERSON
+7	Confirmed	confirm	VBD	pos2=NNP	0	root	_	O
+8	for	for	IN	_	7	prep	_	O
+9	Denver	denver	NNP	_	10	compound	_	B-PERSON
+10	Bro	bro	NNP	_	8	pobj	_	L-PERSON
+11	ncoshttps://t.co/BwWF37R3Lt	#hlink#	ADD	_	7	dep	_	O
+

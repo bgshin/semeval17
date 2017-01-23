@@ -1,0 +1,21 @@
+1	@army1man1	@army0man0	NN	pos2=LS	9	vocative	_	O
+2	@PocketCrow	@pocketcrow	ADD	pos2=XX	5	cc	_	U-DATE
+3	@ArknSpreadThin	@arknspreadthin	ADD	pos2=NNP	4	det	_	O
+4	@GregAbbott_TX	@gregabbott_tx	XX	pos2=NFP	7	dep	_	O
+5	So	so	RB	_	9	advmod	_	O
+6	why	why	WRB	_	9	advmod	_	O
+7	are	be	VBP	_	9	aux	_	O
+8	you	you	PRP	_	9	nsubj	_	O
+9	trying	try	VBG	_	0	root	_	O
+10	to	to	TO	_	11	aux	_	O
+11	ban	ban	VB	_	9	xcomp	_	O
+12	gay	gay	JJ	_	13	nmod	_	O
+13	marriage	marriage	NN	_	11	dobj	_	O
+14	and	and	CC	_	9	cc	_	O
+15	not	not	RB	_	16	neg	_	O
+16	trying	try	VBG	_	9	conj	_	O
+17	to	to	TO	_	18	aux	_	O
+18	ban	ban	VB	_	16	xcomp	_	O
+19	divorce	divorce	NN	_	18	dobj	_	O
+20	?	?	.	_	9	punct	_	O
+

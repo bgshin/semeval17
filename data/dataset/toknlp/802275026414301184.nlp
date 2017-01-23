@@ -1,0 +1,22 @@
+1	CPU	cpu	NN	_	0	root	_	O
+2	vs	vs	CC	pos2=IN	1	cc	_	O
+3	GPU	gpu	NN	pos2=NNP	1	conj	_	O
+4	for	for	IN	_	1	prep	_	O
+5	deep	deep	JJ	_	6	nmod	_	O
+6	learning	learning	NN	_	4	pobj	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	https://t.co/PEnt68Glzy	#hlink#	ADD	_	4	nsubj	_	O
+2	This	this	DT	_	3	det	_	O
+3	article	article	NN	_	4	nsubj	_	O
+4	has	have	VBZ	_	0	root	_	O
+5	a	a	DT	_	7	det	_	O
+6	defensive	defensive	JJ	_	7	nmod	_	O
+7	tone	tone	NN	_	4	dobj	_	O
+8	to	to	IN	_	7	prep	_	O
+9	it	it	PRP	_	8	pobj	_	O
+10	,	,	,	_	4	punct	_	O
+11	but	but	CC	_	4	cc	_	O
+12	interesting	interesting	JJ	_	7	nmod	_	O
+13	.	.	.	_	4	punct	_	O
+

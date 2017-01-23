@@ -1,0 +1,24 @@
+1	"	"	``	_	5	punct	_	O
+2	Donald	donald	NNP	_	3	compound	_	B-PERSON
+3	Trump	trump	NNP	_	5	nsubj	_	L-PERSON
+4	has	have	VBZ	_	5	aux	_	O
+5	reversed	reverse	VBN	_	0	root	_	O
+6	himself	himself	PRP	_	5	dobj	_	O
+7	on	on	IN	_	5	prep	_	O
+8	abortion	abortion	NN	_	7	pobj	_	O
+9	,	,	,	_	5	punct	_	O
+10	banning	ban	VBG	_	5	advcl	_	O
+11	Muslims	muslim	NNPS	_	10	dobj	_	U-NORP
+12	and	and	CC	_	10	cc	_	O
+13	even	even	RB	_	16	advmod	_	O
+14	his	his	PRP$	_	16	poss	_	O
+15	central	central	JJ	_	16	nmod	_	O
+16	promise	promise	NN	_	10	dobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	building	build	VBG	_	17	pcomp	_	O
+19	a	a	DT	_	20	det	_	O
+20	wall	wall	NN	_	18	dobj	_	O
+21	on	on	IN	_	18	prep	_	O
+22	…	…	NFP	pos2=-LRB-	21	pobj	_	O
+23	https://t.co/J6C2W1Ct1o	#hlink#	ADD	_	5	dep	_	O
+

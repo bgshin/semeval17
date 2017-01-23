@@ -1,0 +1,10 @@
+1	@tool1934	@tool0	NN	pos2=LS	2	nsubj	_	O
+2	@SethDavisHoops	@sethdavishoops	VBZ	pos2=POS	0	root	_	O
+3	Michael	michael	NNP	_	4	compound	_	B-PERSON
+4	Moore	moore	NNP	_	5	nsubj	_	L-PERSON
+5	is	be	VBZ	_	2	ccomp	_	O
+6	part	part	NN	_	5	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	problem	problem	NN	_	7	pobj	_	O
+

@@ -1,0 +1,24 @@
+1	@memnosoncos	@memnosoncos	UH	pos2=NNS	8	discourse	_	O
+2	Ok	ok	UH	_	1	discourse	_	O
+3	,	,	,	_	8	punct	_	O
+4	but	but	CC	_	8	cc	_	O
+5	that	that	DT	pos2=IN	7	det	_	O
+6	philosophical	philosophical	JJ	_	7	nmod	_	O
+7	stance	stance	NN	_	8	nsubj	_	O
+8	is	be	VBZ	_	0	root	_	O
+9	irrelevant	irrelevant	JJ	_	8	acomp	_	O
+10	to	to	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	issue	issue	NN	_	10	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	whether	whether	IN	_	16	mark	_	O
+15	homeopathy	homeopathy	NN	_	16	nsubj	_	O
+16	is	be	VBZ	_	13	pcomp	_	O
+17	a	a	DT	_	20	det	_	O
+18	viable	viable	JJ	_	20	nmod	_	O
+19	treatment	treatment	NN	_	20	compound	_	O
+20	option	option	NN	_	16	attr	_	O
+21	for	for	IN	_	20	prep	_	O
+22	anything	anything	NN	_	21	pobj	_	O
+23	.	.	.	_	8	punct	_	O
+

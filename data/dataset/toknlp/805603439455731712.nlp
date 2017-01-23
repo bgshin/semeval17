@@ -1,0 +1,24 @@
+1	Le	le	NNP	pos2=NN	2	compound	_	O
+2	Pen	pen	NNP	_	7	nsubj	_	O
+3	&	&	CC	_	2	cc	_	O
+4	right	right	JJ	pos2=RB	6	nmod	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	wingers	winger	NNS	_	2	conj	_	O
+7	celebrate	celebrate	VBP	pos2=VB	0	root	_	O
+8	the	the	DT	_	9	det	_	O
+9	rejection	rejection	NN	_	7	dobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Renzi	renzi	NNP	_	14	poss	_	U-PERSON
+12	's	's	POS	_	11	case	_	O
+13	#Italy	#italy	NNP	pos2=$	14	compound	_	B-PERSON
+14	#referendum	#referendum	NNP	pos2=UH	10	pobj	_	L-PERSON
+15	in	in	IN	_	7	prep	_	O
+16	yet	yet	RB	_	18	advmod	_	O
+17	another	another	DT	_	18	det	_	O
+18	blow	blow	NN	_	15	pobj	_	O
+19	to	to	IN	_	18	prep	_	O
+20	Brussels	brussels	NNP	_	21	compound	_	U-GPE
+21	bigwig	bigwig	NN	pos2=GW	19	pobj	_	O
+22	…	…	NFP	pos2=-LRB-	23	punct	_	O
+23	https://t.co/bDxAsVV5FJ	#hlink#	ADD	_	7	dep	_	O
+

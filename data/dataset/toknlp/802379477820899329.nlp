@@ -1,0 +1,26 @@
+1	@bobservo	@bobservo	UH	pos2=XX	11	discourse	_	O
+2	The	the	DT	_	5	det	_	O
+3	most	most	RBS	_	4	advmod	_	O
+4	annoying	annoying	JJ	_	5	nmod	_	O
+5	thing	thing	NN	_	11	nsubj	_	O
+6	to	to	IN	_	5	prep	_	O
+7	me	me	PRP	_	6	pobj	_	O
+8	about	about	IN	_	5	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	centrist	centrist	NN	_	8	pobj	_	O
+11	scolds	scold	VBZ	_	12	csubj	_	O
+12	is	be	VBZ	_	0	root	_	O
+13	how	how	WRB	_	15	advmod	_	O
+14	they	they	PRP	_	15	nsubj	_	O
+15	pretend	pretend	VBP	_	12	ccomp	_	O
+16	POC	poc	NN	pos2=NNP	21	nmod	_	O
+17	/	/	SYM	pos2=,	20	punct	_	O
+18	queer	queer	NN	pos2=JJ	20	nmod	_	O
+19	/	/	SYM	_	20	punct	_	O
+20	female	female	JJ	pos2=NN	21	nmod	_	O
+21	leftists	leftist	NNS	_	24	nsubj	_	O
+22	do	do	VBP	_	24	aux	_	O
+23	n't	not	RB	_	24	neg	_	O
+24	exist	exist	VB	_	15	ccomp	_	O
+25	.	.	.	_	12	punct	_	O
+

@@ -1,0 +1,22 @@
+1	Lady	lady	NNP	pos2=NN	6	dep	_	O
+2	in	in	IN	_	1	prep	_	O
+3	red	red	JJ	pos2=NN	2	pobj	_	O
+4	:	:	:	_	6	punct	_	O
+5	Brittnee	brittnee	NNP	_	6	compound	_	B-PERSON
+6	Blair	blair	NNP	_	0	root	_	L-PERSON
+7	in	in	IN	_	6	prep	_	O
+8	the	the	DT	_	14	det	_	O
+9	#AshleyGrahamxswimsuitsforall	#ashleygrahamxswimsuitsforall	NNP	pos2=XX	12	compound	_	O
+10	Double	double	NNP	pos2=JJ	12	compound	_	O
+11	-	-	HYPH	_	12	punct	_	O
+12	Cross	cross	NNP	_	14	compound	_	O
+13	Siren	siren	NNP	pos2=NN	14	compound	_	O
+14	Bikini	bikini	NNP	pos2=NN	7	pobj	_	O
+15	.	.	.	_	6	punct	_	O
+
+1	Shop	shop	NN	pos2=NNP	0	root	_	O
+2	Now	now	RB	_	1	advmod	_	O
+3	:	:	:	_	1	punct	_	O
+4	…	…	NFP	pos2=-LRB-	5	punct	_	O
+5	https://t.co/59Ww64WU4v	#hlink#	ADD	_	1	appos	_	O
+

@@ -1,0 +1,14 @@
+1	Parenting	parenting	NN	pos2=VBG	2	compound	_	O
+2	Level	level	NN	pos2=NNP	4	dep	_	O
+3	:	:	:	_	4	punct	_	O
+4	Kevin	kevin	NNP	_	0	root	_	U-PERSON
+5	on	on	IN	pos2=RP	4	prep	_	O
+6	#ThisIsUs	#thisisus	NNP	pos2=XX	7	compound	_	U-GPE
+7	ep5	ep0	NN	pos2=NNP	5	pobj	_	O
+8	talking	talk	VBG	_	4	acl	_	O
+9	about	about	IN	_	8	prep	_	O
+10	death	death	NN	_	9	pobj	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	😂	😂	SYM	pos2=NFP	0	root	_	U-ORG
+

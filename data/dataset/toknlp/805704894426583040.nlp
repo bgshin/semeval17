@@ -1,0 +1,24 @@
+1	Anyone	anyone	NN	_	2	nsubj	_	O
+2	have	have	VB	pos2=VBP	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	link	link	NN	_	2	dobj	_	O
+5	to	to	IN	_	4	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	Cubs	cub	NNPS	pos2=NNP	8	compound	_	U-ORG
+8	movie	movie	NN	pos2=VBP	5	pobj	_	O
+9	that	that	WDT	_	10	nsubj	_	O
+10	premiered	premier	VBD	_	8	relcl	_	O
+11	on	on	IN	pos2=RP	10	prep	_	O
+12	the	the	DT	_	13	det	_	B-DATE
+13	2nd	#ord#	NN	_	11	pobj	_	L-DATE
+14	?	?	.	_	2	punct	_	O
+
+1	Yes	yes	UH	_	4	discourse	_	O
+2	,	,	,	_	4	punct	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	have	have	VBP	_	0	root	_	O
+5	yet	yet	RB	_	4	advmod	_	O
+6	to	to	TO	_	7	aux	_	O
+7	watch	watch	VB	_	4	xcomp	_	O
+8	.	.	.	_	4	punct	_	O
+

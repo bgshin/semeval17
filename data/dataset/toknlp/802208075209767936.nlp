@@ -1,0 +1,31 @@
+1	@MarcusDelCactus	@marcusdelcactus	UH	pos2=NNP	5	discourse	_	O
+2	You	you	PRP	_	5	nsubj	_	O
+3	ca	can	MD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	register	register	VB	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	vote	vote	VB	_	5	xcomp	_	O
+8	if	if	IN	_	10	mark	_	O
+9	you	you	PRP	_	10	nsubj	_	O
+10	are	be	VBP	_	5	advcl	_	O
+11	not	not	RB	_	10	neg	_	O
+12	a	a	DT	_	13	det	_	O
+13	citizen	citizen	NN	_	10	attr	_	O
+14	.	.	.	_	5	punct	_	O
+
+1	Period	period	NN	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Stop	stop	VB	_	0	root	_	O
+2	your	your	PRP$	_	5	poss	_	O
+3	desperate	desperate	JJ	_	5	nmod	_	O
+4	conspiracy	conspiracy	NN	_	5	compound	_	O
+5	theories	theory	NNS	_	1	dobj	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	She	she	PRP	_	2	nsubj	_	O
+2	WON	win	VBD	pos2=VBZ	0	root	_	O
+3	popular	popular	JJ	_	4	nmod	_	O
+4	vote	vote	NN	_	2	dobj	_	O
+5	.	.	.	_	2	punct	_	O
+

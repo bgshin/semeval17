@@ -1,0 +1,15 @@
+1	Pittsburgh	pittsburgh	NNP	_	3	poss	_	U-GPE
+2	’s	's	POS	_	1	case	_	O
+3	Commuters	commuter	NNPS	pos2=NNS	5	nsubj	_	O
+4	Will	will	MD	_	5	aux	_	O
+5	Be	be	VB	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	First	#ord#	JJ	pos2=NNP	5	attr	_	U-ORDINAL
+8	to	to	TO	pos2=IN	9	aux	_	O
+9	Use	use	VB	_	7	relcl	_	O
+10	Uber	uber	NNP	_	13	poss	_	U-ORG
+11	’s	's	POS	_	10	case	_	O
+12	Self-Driving	self-driving	NNP	pos2=JJ	13	compound	_	O
+13	Cars	car	NNPS	pos2=NNS	9	dobj	_	O
+14	https://t.co/ZEkWab2kQK	#hlink#	ADD	_	7	appos	_	O
+

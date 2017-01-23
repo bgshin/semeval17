@@ -1,0 +1,27 @@
+1	@ZarrarKhuhro	@zarrarkhuhro	UH	pos2=XX	4	discourse	_	O
+2	@Khalid_Munir	@khalid_munir	UH	pos2=``	4	discourse	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	hope	hope	VBP	_	0	root	_	O
+5	it	it	PRP	_	8	nsubj	_	O
+6	does	do	VBZ	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	replicate	replicate	VB	_	4	ccomp	_	O
+9	in	in	IN	_	8	prep	_	O
+10	Pak	pak	NNP	_	9	pobj	_	U-GPE
+11	,	,	,	_	13	punct	_	O
+12	rightists	rightist	NNS	pos2=VBZ	13	nsubj	_	O
+13	coming	come	VBG	_	8	advcl	_	O
+14	to	to	IN	_	13	prep	_	O
+15	power	power	NN	_	14	pobj	_	O
+16	.	.	.	_	4	punct	_	O
+
+1	Congress	congress	NNP	_	3	nsubj	_	U-ORG
+2	will	will	MD	_	3	aux	_	O
+3	strike	strike	VB	_	0	root	_	O
+4	back	back	RB	pos2=NN	3	advmod	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	No	no	DT	_	2	det	_	O
+2	guarantees	guarantee	NNS	_	0	root	_	O
+3	:)	:)	NFP	_	2	discourse	_	O
+

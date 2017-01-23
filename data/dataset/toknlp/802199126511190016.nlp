@@ -1,0 +1,11 @@
+1	#Yemen	#yemen	NNP	pos2=NNS	3	compound	_	O
+2	#Hillary	#hillary	NNP	pos2=ADD	3	compound	_	O
+3	#Trump	#trump	NNP	pos2=POS	5	poss	_	O
+4	#MAGA	#maga	POS	pos2=NNP	3	case	_	O
+5	Corruption	corruption	NN	pos2=NNP	7	nsubj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	kill	kill	VB	_	0	root	_	O
+8	.	.	.	_	7	punct	_	O
+
+1	https://t.co/VzdgNOxF5Y	#hlink#	ADD	_	0	root	_	U-ORG
+

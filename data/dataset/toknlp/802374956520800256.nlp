@@ -1,0 +1,27 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	still	still	RB	_	3	advmod	_	O
+3	stand	stand	VBP	_	0	root	_	O
+4	with	with	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	Native	native	JJ	pos2=NNP	7	nmod	_	B-NORP
+7	American	american	NNP	pos2=JJ	4	pobj	_	L-NORP
+8	of	of	IN	_	7	prep	_	O
+9	Standing	standing	NNP	pos2=VBG	10	compound	_	O
+10	Rock	rock	NNP	_	8	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	Frustrates	frustrate	VBZ	_	0	root	_	O
+2	me	me	PRP	_	1	dobj	_	O
+3	that	that	IN	_	10	mark	_	O
+4	Obama	obama	NNP	_	10	nsubj	_	U-PERSON
+5	&	&	CC	pos2=VBZ	4	cc	_	O
+6	his	his	PRP$	_	7	poss	_	O
+7	admin	admin	NN	_	4	conj	_	O
+8	are	be	VBP	_	10	aux	_	O
+9	still	still	RB	_	10	advmod	_	O
+10	doing	do	VBG	_	1	ccomp	_	O
+11	nothing	nothing	NN	_	10	dobj	_	O
+12	.	.	.	_	1	punct	_	O
+
+1	#NoDAPL	#nodapl	XX	pos2=ADD	0	root	_	O
+

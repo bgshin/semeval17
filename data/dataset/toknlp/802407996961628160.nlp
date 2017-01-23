@@ -1,0 +1,16 @@
+1	Probably	probably	RB	_	5	advmod	_	O
+2	because	because	IN	_	5	mark	_	O
+3	nobody	nobody	NN	_	5	nsubj	_	O
+4	is	be	VBZ	_	5	aux	_	O
+5	talking	talk	VBG	_	0	root	_	O
+6	about	about	IN	_	5	prep	_	O
+7	the	the	DT	_	10	det	_	O
+8	American	american	JJ	pos2=NNP	10	nmod	_	O
+9	Indian	indian	NNP	_	10	compound	_	O
+10	Foundation	foundation	NNP	_	6	pobj	_	O
+11	,	,	,	_	10	punct	_	O
+12	another	another	DT	_	14	det	_	O
+13	Clinton	clinton	NNP	_	14	compound	_	U-GPE
+14	scam	scam	NN	_	10	appos	_	O
+15	https://t.co/LM2QtV5bQ3	#hlink#	ADD	_	10	appos	_	U-GPE
+

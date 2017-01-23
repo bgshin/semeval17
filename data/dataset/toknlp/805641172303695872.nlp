@@ -1,0 +1,24 @@
+1	budget	budget	NN	_	2	compound	_	O
+2	tree	tree	NN	_	3	compound	_	O
+3	ft.	ft.	NN	pos2=JJ	5	compound	_	O
+4	pope	pope	NN	pos2=FW	5	compound	_	O
+5	francis	francis	NN	pos2=NNP	23	dep	_	O
+6	and	and	CC	_	5	cc	_	O
+7	brewery	brewery	NN	_	11	compound	_	O
+8	coaster	coaster	NN	_	9	compound	_	O
+9	ornaments	ornament	NNS	_	5	conj	_	O
+10	(	(	-LRB-	_	9	punct	_	O
+11	photo	photo	NN	_	9	appos	_	O
+12	taken	take	VBN	_	11	acl	_	O
+13	from	from	IN	_	12	prep	_	O
+14	this	this	DT	_	15	det	_	O
+15	angle	angle	NN	_	13	pobj	_	O
+16	because	because	IN	_	18	mark	_	O
+17	it	it	PRP	_	18	nsubj	_	O
+18	's	's	VBZ	_	23	advcl	_	O
+19	the	the	DT	_	21	det	_	O
+20	only	only	JJ	pos2=RB	21	nmod	_	O
+21	secti	secti	NNS	pos2=GW	18	attr	_	O
+22	…	…	NFP	pos2=-LRB-	23	punct	_	O
+23	https://t.co/AhfnXHZbNR	#hlink#	ADD	pos2=NN	0	root	_	O
+

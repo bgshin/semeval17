@@ -1,0 +1,19 @@
+1	Inside	inside	IN	pos2=RB	6	det	_	O
+2	Expa	expa	NNP	_	3	compound	_	B-ORG
+3	Labs	lab	NNPS	pos2=NNS	1	pobj	_	L-ORG
+4	,	,	,	_	3	punct	_	O
+5	#Uber	#uber	NNP	pos2=PRP$	6	compound	_	U-ORG
+6	co-founder	co-founder	NN	_	8	poss	_	O
+7	's	's	POS	pos2=VBZ	6	case	_	O
+8	take	take	NN	pos2=VB	0	root	_	O
+9	on	on	IN	pos2=RP	8	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	startup	startup	NN	_	12	compound	_	O
+12	accelerator	accelerator	NN	_	9	pobj	_	O
+13	.	.	.	_	1	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	more	more	RBR	pos2=JJR	1	advmod	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/um00NZKShz	#hlink#	ADD	pos2=NN	1	dep	_	O
+

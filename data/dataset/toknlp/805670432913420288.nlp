@@ -1,0 +1,14 @@
+1	No	no	UH	pos2=DT	3	det	_	O
+2	-	-	HYPH	pos2=:	3	punct	_	O
+3	fly	fly	NN	pos2=JJ	4	compound	_	O
+4	zone	zone	NN	_	9	nmod	_	O
+5	necessary	necessary	JJ	_	4	nmod	_	O
+6	in	in	IN	_	5	prep	_	O
+7	Syria	syria	NNP	_	6	pobj	_	U-GPE
+8	,	,	,	_	12	punct	_	O
+9	doctor	doctor	NN	_	12	nsubj	_	O
+10	from	from	IN	_	9	prep	_	O
+11	Aleppo	aleppo	NNP	_	10	pobj	_	U-GPE
+12	says	say	VBZ	_	0	root	_	O
+13	https://t.co/Yt9CkmYpRn	#hlink#	ADD	_	12	punct	_	U-GPE
+

@@ -1,0 +1,8 @@
+1	@bentldo	@bentldo	UH	pos2=XX	3	discourse	_	O
+2	What	what	WP	_	3	nsubj	_	O
+3	makes	make	VBZ	_	0	root	_	O
+4	Steve	steve	NNP	_	5	compound	_	B-PERSON
+5	Bannon	bannon	NNP	_	6	nsubj	_	L-PERSON
+6	racist	racist	NN	pos2=JJ	3	ccomp	_	O
+7	?	?	.	_	3	punct	_	O
+

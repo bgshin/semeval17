@@ -1,0 +1,15 @@
+1	Download	download	VB	pos2=NN	0	root	_	O
+2	Marijuana	marijuana	NNP	_	4	compound	_	B-ORG
+3	Medical	medical	NNP	pos2=JJ	4	compound	_	I-ORG
+4	Handbook	handbook	NNP	pos2=NN	1	dobj	_	L-ORG
+5	:	:	:	_	1	punct	_	O
+6	Practical	practical	JJ	pos2=NNP	7	nmod	_	O
+7	Guide	guide	NN	pos2=NNP	1	dobj	_	O
+8	to	to	IN	_	7	prep	_	O
+9	Therapeutic	therapeutic	NNP	pos2=JJ	10	compound	_	O
+10	Uses	use	NNS	pos2=NNP	8	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	Marijuana	marijuana	NNP	pos2=NN	11	pobj	_	O
+13	https://t.co/dkIAvJLKXc	#hlink#	ADD	_	14	nmod	_	O
+14	https://t.co/w0ljZW5eah	#hlink#	ADD	_	1	dep	_	U-ORG
+

@@ -1,0 +1,20 @@
+1	You	you	PRP	_	4	nsubj	_	O
+2	can	can	MD	_	4	aux	_	O
+3	still	still	RB	_	4	advmod	_	O
+4	sign	sign	VB	_	0	root	_	O
+5	up	up	RP	_	4	prt	_	O
+6	for	for	IN	_	4	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	evening	evening	NN	_	9	compound	_	U-TIME
+9	seminar	seminar	NN	_	6	pobj	_	O
+10	on	on	IN	_	9	prep	_	O
+11	#dronestrikes	#dronestrikes	NNS	pos2=NNPS	10	pobj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	counter-terror	counter-terror	NN	pos2=JJ	14	compound	_	O
+14	wars	war	NNS	_	12	pobj	_	O
+15	14	0	CD	pos2=GW	17	nmod	_	B-DATE
+16	December	december	NNP	_	17	compound	_	I-DATE
+17	#TheHague	#thehague	NN	pos2=GW	18	dep	_	I-DATE
+18	https://t.co/0U4x6ghETb	#hlink#	ADD	_	14	appos	_	I-DATE
+19	@ECFR	@ecfr	-RRB-	pos2=NN	18	punct	_	L-DATE
+

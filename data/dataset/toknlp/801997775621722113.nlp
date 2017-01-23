@@ -1,0 +1,29 @@
+1	why	why	WRB	_	2	advmod	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	it	it	PRP	_	2	nsubj	_	O
+4	okay	okay	JJ	_	2	acomp	_	O
+5	for	for	IN	_	10	mark	_	O
+6	melania	melania	NN	pos2=GW	7	compound	_	O
+7	trump	trump	NN	pos2=FW	10	nsubj	_	O
+8	to	to	TO	_	10	aux	_	O
+9	completely	completely	RB	_	10	advmod	_	O
+10	plagiarize	plagiarize	VB	_	2	advcl	_	O
+11	a	a	DT	_	12	det	_	O
+12	speech	speech	NN	_	10	dobj	_	O
+13	but	but	CC	_	10	cc	_	O
+14	not	not	RB	_	15	neg	_	O
+15	okay	okay	JJ	pos2=RB	10	conj	_	O
+16	for	for	IN	_	19	mark	_	O
+17	gigi	gigi	NNP	pos2=NN	19	nsubj	_	U-PERSON
+18	to	to	TO	_	19	aux	_	O
+19	make	make	VB	_	10	advcl	_	O
+20	a	a	DT	_	21	det	_	O
+21	joke	joke	NN	_	19	dobj	_	O
+22	?	?	.	_	2	punct	_	O
+
+1	does	do	VBZ	_	3	aux	_	O
+2	nt	nt	RB	_	3	advmod	_	O
+3	add	add	VB	_	0	root	_	O
+4	up	up	RP	_	3	prt	_	O
+5	?	?	.	_	3	punct	_	O
+

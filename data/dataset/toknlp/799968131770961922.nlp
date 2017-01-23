@@ -1,0 +1,18 @@
+1	#Chocolate	#chocolate	JJ	pos2=ADD	2	nmod	_	O
+2	cupcake	cupcake	NN	_	10	nsubj	_	O
+3	#candle	#candle	IN	pos2=NN	2	prep	_	O
+4	melting	melt	VBG	pos2=NN	3	pcomp	_	O
+5	with	with	IN	_	4	prep	_	O
+6	its	its	PRP$	_	9	poss	_	O
+7	sweet	sweet	JJ	_	9	nmod	_	O
+8	candied	candied	JJ	pos2=VBN	9	nmod	_	O
+9	#aroma	#aroma	NN	pos2=FW	5	pobj	_	O
+10	is	be	VBZ	_	0	root	_	O
+11	a	a	DT	_	12	det	_	O
+12	treat	treat	NN	pos2=VB	10	attr	_	O
+13	for	for	IN	_	12	prep	_	O
+14	this	this	DT	_	15	det	_	O
+15	#Christmas	#christmas	NNP	pos2=GW	13	pobj	_	O
+16	…	…	NFP	pos2=-LRB-	17	punct	_	O
+17	https://t.co/wBX2ZXlsDr	#hlink#	ADD	_	10	dep	_	O
+

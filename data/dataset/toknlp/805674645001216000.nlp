@@ -1,0 +1,18 @@
+1	Now	now	RB	_	2	advmod	_	O
+2	Playing	play	VBG	_	0	root	_	O
+3	on	on	IN	_	2	prep	_	O
+4	the	the	DT	_	7	det	_	O
+5	J	j	NNP	pos2=NN	7	compound	_	B-PRODUCT
+6	-	-	HYPH	_	7	punct	_	I-PRODUCT
+7	Train	train	NNP	_	3	pobj	_	L-PRODUCT
+8	to	to	IN	pos2=TO	2	prep	_	O
+9	funny	funny	JJ	_	10	nmod	_	O
+10	town	town	NN	_	8	pobj	_	O
+11	...	..	.	_	2	punct	_	O
+
+1	Bob	bob	NNP	_	2	compound	_	B-PERSON
+2	Rivers	rivers	NNP	pos2=NNS	5	dep	_	L-PERSON
+3	-	-	:	pos2=HYPH	5	punct	_	O
+4	Minimum	minimum	NNP	pos2=JJ	5	compound	_	O
+5	Wage	wage	NN	pos2=NNP	0	root	_	O
+

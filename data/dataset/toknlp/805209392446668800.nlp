@@ -1,0 +1,23 @@
+1	@lucasfoxnews	@lucasfoxnews	UH	pos2=XX	6	discourse	_	O
+2	sorry	sorry	UH	pos2=JJ	6	discourse	_	O
+3	but	but	CC	_	6	cc	_	O
+4	US	us	NNP	pos2=PRP	5	compound	_	U-GPE
+5	friendship	friendship	NN	_	6	nsubj	_	O
+6	brings	bring	VBZ	_	11	advcl	_	O
+7	drone	drone	NN	_	8	compound	_	O
+8	strikes	strike	NNS	_	6	dobj	_	O
+9	,	,	,	_	11	punct	_	O
+10	they	they	PRP	_	11	nsubj	_	O
+11	forget	forget	VBP	_	0	root	_	O
+12	that	that	IN	pos2=DT	14	mark	_	O
+13	PAK	pak	NNP	pos2=NN	14	nsubj	_	U-ORG
+14	played	play	VBD	pos2=VBN	11	ccomp	_	O
+15	biggest	big	JJS	_	16	nmod	_	O
+16	role	role	NN	_	14	dobj	_	O
+17	in	in	IN	_	16	prep	_	O
+18	Russia	russia	NNP	_	17	pobj	_	U-GPE
+19	,	,	,	_	16	punct	_	O
+20	s	s	POS	pos2=NN	18	case	_	O
+21	division	division	NN	_	14	npadvmod	_	O
+22	.	.	.	_	11	punct	_	O
+

@@ -1,0 +1,29 @@
+1	@BGPolitics	@bgpolitics	NNS	pos2=ADD	4	nsubj	_	O
+2	@jbaileyky	@jbaileyky	IN	pos2=PRP$	1	prep	_	O
+3	Obamacare	obamacare	NNP	pos2=WP	2	pobj	_	U-PERSON
+4	caused	cause	VBD	_	0	root	_	O
+5	people	people	NNS	_	7	nsubj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	go	go	VB	_	4	ccomp	_	O
+8	from	from	IN	_	7	prep	_	O
+9	FT	ft	NNP	pos2=NN	8	pobj	_	O
+10	to	to	IN	_	7	prep	_	O
+11	PT	pt	NN	pos2=NNP	12	compound	_	O
+12	jobs	job	NNS	_	10	pobj	_	O
+13	.	.	.	_	4	punct	_	O
+
+1	Employers	employer	NNS	_	2	nsubj	_	O
+2	cut	cut	VBD	pos2=VBP	0	root	_	O
+3	hours	hour	NNS	_	2	dobj	_	U-TIME
+4	,	,	,	_	2	punct	_	O
+5	especially	especially	RB	_	6	advmod	_	O
+6	in	in	IN	_	2	prep	_	O
+7	retail	retail	NN	pos2=JJ	6	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	Lost	lose	VBN	pos2=VBD	0	root	_	O
+2	$	$	$	pos2=NN	0	root	_	O
+3	&	&	CC	_	2	cc	_	U-MONEY
+4	insurance	insurance	NN	_	2	conj	_	O
+5	.	.	.	_	1	punct	_	O
+

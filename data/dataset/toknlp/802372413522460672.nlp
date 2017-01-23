@@ -1,0 +1,23 @@
+1	@Cato_of_Utica	@cato_of_utica	ADD	pos2=VBD	16	punct	_	O
+2	the	the	DT	_	3	det	_	O
+3	optics	optic	NNS	pos2=NN	16	nsubj	_	O
+4	around	around	IN	pos2=RB	3	prep	_	O
+5	privatizing	privatize	VBG	_	4	pcomp	_	O
+6	water	water	NN	_	7	compound	_	O
+7	supplies	supply	NNS	_	5	dobj	_	O
+8	,	,	,	_	7	punct	_	O
+9	military	military	JJ	pos2=NN	10	nmod	_	O
+10	ops	op	NNS	_	7	conj	_	O
+11	,	,	,	_	10	punct	_	O
+12	and	and	CC	_	10	cc	_	O
+13	even	even	RB	_	14	advmod	_	O
+14	medicare	medicare	NN	pos2=NNS	10	conj	_	O
+15	have	have	VBP	_	16	aux	_	O
+16	changed	change	VBN	_	0	root	_	O
+17	over	over	IN	pos2=RP	16	prep	_	O
+18	time	time	NN	_	17	pobj	_	O
+19	as	as	IN	_	21	mark	_	O
+20	i	I	PRP	pos2=CD	21	nsubj	_	O
+21	recall	recall	VBP	_	16	advcl	_	O
+22	@mdaware	@mdaware	.	pos2=UH	16	punct	_	O
+

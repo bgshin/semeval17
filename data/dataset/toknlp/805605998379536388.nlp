@@ -1,0 +1,13 @@
+1	For	for	IN	_	9	prep	_	O
+2	no	no	DT	_	3	det	_	O
+3	reason	reason	NN	_	1	pobj	_	O
+4	because	because	IN	_	9	mark	_	O
+5	animal	animal	NN	_	6	compound	_	O
+6	testing	testing	NN	_	9	nsubj	_	O
+7	does	do	VBZ	_	9	aux	_	O
+8	n't	not	RB	_	9	neg	_	O
+9	translate	translate	VB	_	0	root	_	O
+10	to	to	IN	_	9	prep	_	O
+11	humans	human	NNS	_	10	pobj	_	O
+12	anyway	anyway	RB	pos2=UH	9	advmod	_	O
+

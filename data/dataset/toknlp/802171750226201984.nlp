@@ -1,0 +1,8 @@
+1	Pin	pin	NN	pos2=VB	2	compound	_	O
+2	drop	drop	NN	_	0	root	_	O
+3	...	..	.	pos2=,	2	punct	_	O
+
+1	#p2	#p0	GW	pos2=NN	3	nmod	_	O
+2	#UniteBlue	#uniteblue	GW	pos2=ADD	3	nmod	_	O
+3	https://t.co/OxNfYBOKQh	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,17 @@
+1	Majority	majority	NN	pos2=NNP	4	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	Australians	australian	NNPS	_	2	pobj	_	U-NORP
+4	know	know	VBP	_	11	ccomp	_	O
+5	technique	technique	NN	_	4	dobj	_	O
+6	as	as	IN	_	5	prep	_	O
+7	#Fracking	#fracking	VBG	pos2=NNP	6	pcomp	_	O
+8	ABC	abc	NNP	pos2=NN	9	compound	_	U-ORG
+9	anti-renewables	anti-renewables	NNS	pos2=POS	7	dobj	_	O
+10	Chris_Mahlsman	chris_mahlsman	NNP	_	11	nsubj	_	U-ORG
+11	editorialized	editorialize	VBD	pos2=VBN	0	root	_	O
+12	#CSG	#csg	NN	pos2=NNS	11	dobj	_	O
+13	as	as	IN	_	11	prep	_	O
+14	cover	cover	NN	pos2=VB	15	compound	_	O
+15	#ClimateCriminal	#climatecriminal	NN	pos2=JJ	16	compound	_	O
+16	#Spin	#spin	NNP	pos2=.	13	pobj	_	O
+

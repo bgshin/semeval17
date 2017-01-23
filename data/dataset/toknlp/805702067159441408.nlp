@@ -1,0 +1,18 @@
+1	Biogas	biogas	NNS	pos2=NN	5	nsubj	_	O
+2	from	from	IN	_	1	prep	_	O
+3	grass	grass	NN	pos2=NNS	2	pobj	_	O
+4	can	can	MD	pos2=NN	5	aux	_	O
+5	supply	supply	VB	_	0	root	_	O
+6	all	all	DT	pos2=RB	7	det	_	O
+7	UK	uk	NNP	pos2=NN	5	dobj	_	U-GPE
+8	with	with	IN	_	5	prep	_	O
+9	gas	gas	NN	pos2=NNP	8	pobj	_	O
+10	,	,	,	_	5	punct	_	O
+11	claims	claim	VBZ	pos2=NNS	12	compound	_	O
+12	CEO	ceo	NN	pos2=NNP	5	dobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	@ecotricity	@ecotricity	ADD	pos2=NN	13	pobj	_	O
+15	https://t.co/Ci7mujFelR	#hlink#	ADD	_	13	pobj	_	O
+16	#innovation	#innovation	-RRB-	pos2=ADD	15	punct	_	O
+17	#cleantech	#cleantech	UH	pos2=NN	5	discourse	_	O
+

@@ -1,0 +1,14 @@
+1	Discussing	discuss	VBG	_	0	root	_	O
+2	Catholic	catholic	JJ	pos2=NNP	3	nmod	_	B-ORG
+3	Faith	faith	NNP	pos2=NN	1	dobj	_	L-ORG
+4	and	and	CC	_	3	cc	_	O
+5	Pope	pope	NNP	_	7	compound	_	O
+6	Francis	francis	NNP	_	7	compound	_	O
+7	Live	live	NNP	pos2=VB	3	conj	_	O
+8	On	on	IN	_	1	prep	_	O
+9	Radio	radio	NNP	_	8	pobj	_	O
+10	...	..	.	pos2=,	1	punct	_	O
+
+1	#catholic	#catholic	JJ	pos2=ADD	2	nmod	_	O
+2	https://t.co/F8Y0IA8oc4	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

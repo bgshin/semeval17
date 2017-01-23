@@ -1,0 +1,23 @@
+1	S	s	NN	pos2=VB	17	nsubj	_	O
+2	/	/	HYPH	_	1	punct	_	O
+3	O	o	IN	pos2=NNP	1	prep	_	O
+4	to	to	IN	_	3	prep	_	O
+5	all	all	PDT	_	7	predet	_	O
+6	the	the	DT	_	7	det	_	O
+7	rappers	rapper	NNS	_	4	pobj	_	O
+8	,	,	,	_	7	punct	_	O
+9	DJs	dj	NNS	pos2=NNPS	7	conj	_	O
+10	,	,	,	_	9	punct	_	O
+11	and	and	CC	_	9	cc	_	O
+12	artists	artist	NNS	_	9	conj	_	O
+13	behind	behind	IN	pos2=RB	7	prep	_	O
+14	tomorrow	tomorrow	NN	_	16	poss	_	U-DATE
+15	's	's	POS	pos2=VBZ	14	case	_	O
+16	Chicago	chicago	NNP	_	13	pobj	_	U-GPE
+17	Stands	stand	VBZ	pos2=NNP	0	root	_	O
+18	with	with	IN	_	17	prep	_	O
+19	Standing	standing	NNP	pos2=VBG	22	nmod	_	B-LOC
+20	Rock	rock	NNP	_	22	nmod	_	L-LOC
+21	ben	ben	GW	pos2=NNP	22	nmod	_	O
+22	efithttps://t.co/fAAKze6UQ4	#hlink#	ADD	_	18	pobj	_	O
+

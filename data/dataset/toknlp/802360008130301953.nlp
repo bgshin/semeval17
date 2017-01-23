@@ -1,0 +1,30 @@
+1	@TeamTrumpAZ	@teamtrumpaz	UH	pos2=NNP	4	discourse	_	O
+2	So	so	RB	pos2=CC	4	advmod	_	O
+3	CNN	cnn	NNP	_	4	nsubj	_	U-ORG
+4	admits	admit	VBZ	_	0	root	_	O
+5	it	it	PRP	_	7	nsubj	_	O
+6	has	have	VBZ	_	7	aux	_	O
+7	gone	go	VBN	_	4	ccomp	_	O
+8	from	from	IN	_	7	prep	_	O
+9	news	news	NN	_	10	compound	_	O
+10	org	org	NN	_	8	pobj	_	O
+11	(	(	-LRB-	_	19	punct	_	O
+12	long	long	RB	pos2=JJ	13	advmod	_	O
+13	ago	ago	RB	_	19	nmod	_	O
+14	)	)	-RRB-	_	19	punct	_	O
+15	2	0	CD	_	19	nmod	_	U-CARDINAL
+16	full	full	JJ	pos2=RB	18	advmod	_	O
+17	-	-	HYPH	_	18	punct	_	O
+18	fledged	fledged	JJ	_	19	nmod	_	O
+19	gaggle	gaggle	NN	_	0	root	_	O
+20	of	of	IN	_	19	prep	_	O
+21	sycophants	sycophant	NNS	_	20	pobj	_	O
+22	4	0	CD	_	23	nmod	_	U-CARDINAL
+23	dems	dems	NNS	pos2=AFX	21	conj	_	O
+24	&	&	CC	_	23	cc	_	O
+25	other	other	JJ	_	26	nmod	_	O
+26	leftists	leftist	NNS	_	23	conj	_	O
+27	?	?	.	_	4	punct	_	O
+
+1	#shouldbashamed	#shouldbashamed	UH	pos2=VBN	0	root	_	O
+

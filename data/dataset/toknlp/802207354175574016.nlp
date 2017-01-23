@@ -1,0 +1,20 @@
+1	Happy	happy	JJ	_	2	nmod	_	O
+2	#Spanksgiving	#spanksgiving	VBG	pos2=NNP	10	advcl	_	O
+3	from	from	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	#Bitangstaz	#bitangstaz	NNP	pos2=NNPS	3	pobj	_	U-ORG
+6	--	--	:	_	2	punct	_	O
+7	you	you	PRP	_	8	nsubj	_	O
+8	know	know	VBP	_	2	parataxis	_	O
+9	we	we	PRP	_	10	nsubj	_	O
+10	had	have	VBD	_	0	root	_	O
+11	to	to	TO	_	12	aux	_	O
+12	do	do	VB	_	10	xcomp	_	O
+13	the	the	DT	_	14	det	_	O
+14	#mannequinchallenge	#mannequinchallenge	XX	pos2=NN	12	dobj	_	O
+15	lol	lol	UH	_	12	discourse	_	O
+16	!	!	.	_	10	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/e5EJ8htXDU	#hlink#	ADD	pos2=NN	0	root	_	O
+

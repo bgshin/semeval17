@@ -1,0 +1,18 @@
+1	@mikelondoncan	@mikelondoncan	UH	pos2=MD	3	discourse	_	O
+2	@TorontoStar	@torontostar	NNP	pos2=UH	3	nsubj	_	O
+3	Add	add	VB	_	0	root	_	O
+4	this	this	DT	_	5	det	_	O
+5	guy	guy	NN	_	3	dobj	_	O
+6	to	to	IN	_	3	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	list	list	NN	_	6	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	deplorables	deplorables	NNS	pos2=NN	9	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	has	have	VBZ	_	0	root	_	O
+3	no	no	DT	_	4	det	_	O
+4	integrity	integrity	NN	_	2	dobj	_	O
+5	.	.	.	_	2	punct	_	O
+

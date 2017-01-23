@@ -1,0 +1,26 @@
+1	Image	image	NN	_	25	dep	_	O
+2	:	:	:	_	25	punct	_	O
+3	The	the	DT	_	9	det	_	O
+4	new	new	JJ	_	7	nmod	_	O
+5	Red	red	NNP	pos2=JJ	6	compound	_	B-ORG
+6	Limit	limit	NNP	pos2=VB	7	compound	_	I-ORG
+7	MESSI	messi	NNP	_	9	nmod	_	L-ORG
+8	16	0	CD	_	9	nmod	_	U-CARDINAL
+9	boots	boot	NNS	_	25	dep	_	O
+10	that	that	WDT	pos2=IN	14	dobj	_	O
+11	Leo	leo	NNP	_	12	compound	_	B-PERSON
+12	Messi	messi	NNP	_	14	nsubj	_	L-PERSON
+13	will	will	MD	_	14	aux	_	O
+14	wear	wear	VB	_	9	relcl	_	O
+15	for	for	IN	_	14	prep	_	O
+16	the	the	DT	_	18	det	_	O
+17	first	#ord#	JJ	_	18	nmod	_	U-ORDINAL
+18	time	time	NN	_	15	pobj	_	O
+19	this	this	DT	_	20	det	_	B-DATE
+20	weekend	weekend	NN	_	18	npadvmod	_	L-DATE
+21	against	against	IN	_	18	prep	_	O
+22	Real	real	NNP	pos2=JJ	23	compound	_	B-ORG
+23	Socie	socie	NNP	pos2=NNPS	21	pobj	_	L-ORG
+24	…	…	NFP	pos2=POS	25	punct	_	O
+25	https://t.co/cLegJ4w9nw	#hlink#	ADD	_	0	root	_	U-ORG
+

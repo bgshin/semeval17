@@ -1,0 +1,16 @@
+1	@MattBevin	@mattbevin	ADD	pos2=NNP	7	cc	_	O
+2	@mike_pence	@mike_pence	IN	pos2=NN	1	prep	_	O
+3	@realDonaldTrump	@realdonaldtrump	NNP	pos2=ADD	2	pobj	_	O
+4	What	what	WP	_	5	nsubj	_	O
+5	's	's	VBZ	_	7	csubj	_	O
+6	funny	funny	JJ	_	5	acomp	_	O
+7	is	be	VBZ	_	0	root	_	O
+8	that	that	IN	_	11	mark	_	O
+9	you	you	PRP	_	10	nmod	_	O
+10	people	people	NNS	pos2=CD	11	nsubj	_	O
+11	label	label	VBP	pos2=VB	7	ccomp	_	O
+12	yourselves	yourself	NNS	pos2=PRP	11	dobj	_	O
+13	as	as	IN	_	11	prep	_	O
+14	Christians	christian	NNPS	_	13	pobj	_	U-NORP
+15	.	.	.	_	7	punct	_	O
+

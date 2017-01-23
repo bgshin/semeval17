@@ -1,0 +1,18 @@
+1	Here	here	RB	_	2	advmod	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	label	label	NN	_	2	nsubj	_	O
+5	for	for	IN	_	4	prep	_	O
+6	the	the	DT	_	9	det	_	O
+7	Bob	bob	NNP	_	8	compound	_	B-PERSON
+8	Dylan	dylan	NNP	_	9	compound	_	L-PERSON
+9	countdown	countdown	NN	pos2=NNP	11	poss	_	O
+10	's	's	POS	_	9	case	_	O
+11	song	song	NN	_	5	pobj	_	O
+12	17	0	CD	_	11	nmod	_	U-CARDINAL
+13	,	,	,	_	11	punct	_	O
+14	Mozambique	mozambique	NNP	_	11	appos	_	U-GPE
+15	.	.	.	_	2	punct	_	O
+
+1	https://t.co/cSiJB1eJ45	#hlink#	ADD	_	0	root	_	U-ORG
+

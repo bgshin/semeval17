@@ -1,0 +1,18 @@
+1	“	"	``	_	4	punct	_	O
+2	Real	real	NNP	pos2=JJ	4	compound	_	B-ORG
+3	Madrid	madrid	NNP	_	4	compound	_	I-ORG
+4	Keep	keep	NNP	pos2=VB	0	root	_	L-ORG
+5	Winning	win	VBG	pos2=NNP	4	xcomp	_	O
+6	Because	because	IN	_	8	mark	_	O
+7	They	they	PRP	pos2=NNP	8	nsubj	_	O
+8	Have	have	VBP	_	4	advcl	_	O
+9	the	the	DT	_	10	det	_	O
+10	World	world	NNP	pos2=NN	13	poss	_	U-ORG
+11	’s	's	POS	_	10	case	_	O
+12	Best	best	NNP	pos2=JJS	13	nmod	_	O
+13	Players	player	NNS	pos2=NNPS	8	dobj	_	O
+14	”	"	''	_	8	punct	_	O
+15	by	by	IN	_	12	advmod	_	O
+16	@rwohan	@rwohan	ADD	pos2=NNP	15	pobj	_	O
+17	https://t.co/kwDn0uPKzI	#hlink#	ADD	pos2=NN	15	pobj	_	U-ORG
+

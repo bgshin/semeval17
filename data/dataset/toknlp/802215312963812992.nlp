@@ -1,0 +1,23 @@
+1	Traditional	traditional	JJ	_	3	nmod	_	O
+2	Thanksgiving	thanksgiving	NNP	pos2=NN	3	compound	_	U-DATE
+3	food	food	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	fire	fire	NN	pos2=JJ	4	attr	_	O
+6	,	,	,	_	5	punct	_	O
+7	my	my	PRP$	_	8	poss	_	O
+8	mom	mom	NN	_	5	appos	_	O
+9	just	just	RB	_	10	advmod	_	O
+10	made	make	VBD	_	4	conj	_	O
+11	some	some	DT	_	12	det	_	O
+12	shit	shit	NN	_	10	dobj	_	O
+13	she	she	PRP	_	14	nsubj	_	O
+14	makes	make	VBZ	_	12	relcl	_	O
+15	all	all	PDT	_	17	predet	_	O
+16	the	the	DT	_	17	det	_	O
+17	time	time	NN	_	14	dobj	_	O
+18	but	but	CC	_	14	cc	_	O
+19	made	make	VBD	_	14	conj	_	O
+20	it	it	PRP	_	22	nsubj	_	O
+21	slightly	slightly	RB	_	22	advmod	_	O
+22	better	good	JJR	pos2=RBR	19	ccomp	_	O
+

@@ -1,0 +1,15 @@
+1	@MeosoFunny	@meosofunny	NN	pos2=ADD	4	nmod	_	O
+2	"	"	``	pos2=''	1	punct	_	O
+3	As	as	IN	_	8	prep	_	O
+4	conservatives	conservative	NNS	_	3	pobj	_	O
+5	,	,	,	_	8	punct	_	O
+6	we	we	PRP	_	8	nsubj	_	O
+7	also	also	RB	_	8	advmod	_	O
+8	care	care	VBP	pos2=VB	0	root	_	O
+9	about	about	IN	_	8	prep	_	O
+10	your	your	PRP$	_	11	poss	_	O
+11	sexuality	sexuality	NN	_	9	pobj	_	O
+12	though	though	IN	pos2=RB	8	advmod	_	O
+13	"	"	``	pos2=''	8	punct	_	O
+14	.	.	.	_	8	punct	_	O
+

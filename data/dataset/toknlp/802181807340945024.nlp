@@ -1,0 +1,26 @@
+1	Why	why	WRB	_	3	advmod	_	O
+2	was	be	VBD	_	0	root	_	O
+3	n't	not	RB	_	2	neg	_	O
+4	Adam	adam	NNP	_	2	acomp	_	U-PERSON
+5	on	on	IN	_	2	prep	_	O
+6	this	this	DT	_	7	det	_	O
+7	list	list	NN	_	5	pobj	_	O
+8	?	?	.	_	2	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	on	on	IN	pos2=RB	2	prep	_	O
+4	as	as	RB	_	5	advmod	_	O
+5	much	much	JJ	pos2=RB	7	qmod	_	O
+6	as	as	IN	_	2	prep	_	O
+7	Chelsea	chelsea	NNP	_	8	compound	_	B-ORG
+8	❤️	❤️	NNP	pos2=:	6	pobj	_	L-ORG
+9	I	I	PRP	pos2=CD	10	nsubj	_	O
+10	miss	miss	VBP	pos2=VBD	2	conj	_	O
+11	him	him	PRP	_	10	dobj	_	O
+12	#but	#but	TO	pos2=MD	13	aux	_	O
+13	love	love	VB	pos2=VBP	10	xcomp	_	O
+14	#thisisus	#thisisus	GW	pos2=PRP	16	nmod	_	O
+15	#yr	#yr	GW	pos2=UH	16	nmod	_	O
+16	https://t.co/7Hv8i7DyRs	#hlink#	ADD	pos2=NN	13	dobj	_	O
+

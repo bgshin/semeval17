@@ -1,0 +1,16 @@
+1	Bill	bill	NNP	_	2	compound	_	B-PERSON
+2	Clinton	clinton	NNP	_	3	nsubj	_	L-PERSON
+3	built	build	VBD	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	wall	wall	NN	_	3	dobj	_	O
+6	on	on	IN	_	3	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	Mexican	mexican	JJ	_	9	nmod	_	U-NORP
+9	border	border	NN	_	6	pobj	_	O
+10	in	in	IN	_	3	prep	_	O
+11	the	the	DT	_	12	det	_	B-DATE
+12	90s	0s	NNS	_	10	pobj	_	L-DATE
+13	.	.	.	_	3	punct	_	O
+
+1	#FunFactFriday	#funfactfriday	NNP	pos2=NN	0	root	_	O
+

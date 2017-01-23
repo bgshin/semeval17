@@ -1,0 +1,12 @@
+1	2	0	CD	pos2=LS	2	nmod	_	U-CARDINAL
+2	Episodes	episode	NNS	pos2=NNPS	5	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	Westworld	westworld	NNP	_	3	pobj	_	O
+5	down	down	RP	pos2=RB	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	8	0	CD	pos2=LS	3	dep	_	U-CARDINAL
+2	to	to	TO	_	3	aux	_	O
+3	go	go	VB	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+

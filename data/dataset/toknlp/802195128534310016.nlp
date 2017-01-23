@@ -1,0 +1,19 @@
+1	After	after	IN	_	11	prep	_	O
+2	finally	finally	RB	_	3	advmod	_	O
+3	watching	watch	VBG	_	1	pcomp	_	O
+4	the	the	DT	_	5	det	_	O
+5	whole	whole	NN	_	3	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	#FantasticBeasts	#fantasticbeasts	NNS	pos2=NNP	6	pobj	_	O
+8	I	I	PRP	_	11	nsubj	_	O
+9	can	can	MD	_	11	aux	_	O
+10	officially	officially	RB	_	11	advmod	_	O
+11	say	say	VB	_	0	root	_	O
+12	that	that	IN	_	14	mark	_	O
+13	it	it	PRP	_	14	nsubj	_	O
+14	is	be	VBZ	_	11	ccomp	_	O
+15	a	a	DT	_	17	det	_	O
+16	bloody	bloody	JJ	_	17	nmod	_	O
+17	awesome	awesome	JJ	_	14	attr	_	O
+18	film✨	film✨	.	pos2=NN	11	punct	_	O
+

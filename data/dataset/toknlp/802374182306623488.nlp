@@ -1,0 +1,8 @@
+1	Comey	comey	NNP	_	4	nsubj	_	U-ORG
+2	still	still	RB	_	4	advmod	_	O
+3	must	must	MD	_	4	aux	_	O
+4	go	go	VB	_	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+
+1	https://t.co/XcHAueUzyz	#hlink#	ADD	_	0	root	_	U-ORG
+

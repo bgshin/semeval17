@@ -1,0 +1,23 @@
+1	Denver	denver	NNP	_	2	compound	_	B-ORG
+2	Broncos	bronco	NNPS	pos2=NNP	5	poss	_	L-ORG
+3	v	v	POS	pos2=IN	2	case	_	O
+4	Oakland	oakland	NNP	_	5	compound	_	B-ORG
+5	Raiders	raider	NNPS	_	14	nsubj	_	L-ORG
+6	-	-	:	pos2=,	5	punct	_	O
+7	The	the	DT	pos2=NNP	9	det	_	B-ORG
+8	Denver	denver	NNP	_	9	compound	_	I-ORG
+9	Broncos	bronco	NNPS	pos2=NNP	5	appos	_	L-ORG
+10	have	have	VBP	pos2=VB	14	aux	_	O
+11	so	so	RB	_	12	advmod	_	O
+12	far	far	RB	_	14	advmod	_	O
+13	been	be	VBN	_	14	aux	_	O
+14	surviving	survive	VBG	_	0	root	_	O
+15	with	with	IN	_	14	prep	_	O
+16	lesser	less	RBR	pos2=JJR	18	advmod	_	O
+17	-	-	HYPH	pos2=,	18	punct	_	O
+18	known	know	VBN	_	19	nmod	_	O
+19	quarterbacks	quarterback	NNS	_	15	pobj	_	O
+20	...	..	.	pos2=,	14	punct	_	O
+
+1	https://t.co/NGn1GSXJZg	#hlink#	ADD	_	0	root	_	U-ORG
+

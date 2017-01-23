@@ -1,0 +1,19 @@
+1	CA	can	MD	pos2=NN	3	aux	_	O
+2	N'T	not	RB	_	3	neg	_	O
+3	EAT	eat	VB	_	0	root	_	O
+4	CA	can	MD	pos2=NNP	6	aux	_	O
+5	N'T	not	RB	_	6	neg	_	O
+6	SHLEEP	shleep	VB	pos2=``	3	dep	_	O
+7	MANE	mane	NN	pos2=NNP	6	dobj	_	O
+8	I	I	PRP	pos2=CD	9	nsubj	_	O
+9	MISS	miss	VBP	pos2=NNP	7	relcl	_	O
+10	THESE	these	DT	_	12	det	_	O
+11	STREETSMUHAMMAD	streetsmuhammad	NNP	pos2=NN	12	compound	_	O
+12	ALI	ali	NNP	_	9	dobj	_	O
+13	,	,	,	_	9	punct	_	O
+14	AND	and	CC	_	9	cc	_	O
+15	THE	the	DT	_	17	det	_	B-PRODUCT
+16	SHKREETS	shkreets	NNP	pos2=NNS	17	compound	_	I-PRODUCT
+17	MISS	miss	NNP	pos2=VBP	12	conj	_	I-PRODUCT
+18	ME	me	PRP	pos2=NNP	17	appos	_	L-PRODUCT
+

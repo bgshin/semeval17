@@ -1,0 +1,24 @@
+1	https://t.co/d9uCmfvDy4#npb	#hlink#	ADD	pos2=NN	6	nsubj	_	O
+2	#MasahiroTanaka	#masahirotanaka	NN	pos2=ADD	6	nsubj	_	O
+3	[	[	-LRB-	_	4	punct	_	O
+4	Fansided	fansided	NNP	pos2=VBN	2	appos	_	O
+5	]	]	-RRB-	_	2	punct	_	O
+6	Coming	come	VBG	_	0	root	_	O
+7	off	off	RP	pos2=IN	6	prt	_	O
+8	a	a	DT	_	9	det	_	O
+9	season	season	NN	_	6	npadvmod	_	O
+10	in	in	IN	_	15	prep	_	O
+11	which	which	WDT	_	10	pobj	_	O
+12	the	the	DT	_	14	det	_	O
+13	Yankees	yankee	NNPS	pos2=NNP	14	compound	_	U-ORG
+14	ace	ace	NN	pos2=VBP	15	nsubj	_	O
+15	finished	finish	VBD	pos2=VBN	9	relcl	_	O
+16	7th	#ord#	RB	pos2=NN	15	advmod	_	U-ORDINAL
+17	in	in	IN	_	15	prep	_	O
+18	the	the	DT	_	22	det	_	O
+19	AL	al	NNP	_	21	compound	_	B-WORK_OF_ART
+20	Cy	cy	NNP	_	21	compound	_	I-WORK_OF_ART
+21	Young	young	NNP	pos2=JJ	22	compound	_	L-WORK_OF_ART
+22	award	award	NN	_	17	pobj	_	O
+23	…	…	''	pos2=.	6	punct	_	O
+

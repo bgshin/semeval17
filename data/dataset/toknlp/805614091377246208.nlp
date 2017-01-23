@@ -1,0 +1,10 @@
+1	@tbhitzbieber	@tbhitzbieber	IN	pos2=UH	0	root	_	O
+2	Zac	zac	NNP	_	3	compound	_	B-PERSON
+3	efron	efron	NNP	pos2=NN	1	pobj	_	L-PERSON
+4	,	,	,	_	3	punct	_	O
+5	Emma	emma	NNP	_	6	compound	_	B-PERSON
+6	Watson	watson	NNP	_	3	conj	_	L-PERSON
+7	,	,	,	_	6	punct	_	O
+8	Grant	grant	NNP	_	9	compound	_	B-PERSON
+9	Gustin	gustin	NNP	_	6	conj	_	L-PERSON
+

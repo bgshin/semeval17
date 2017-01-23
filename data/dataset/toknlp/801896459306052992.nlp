@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det	_	O
+2	#UnitedNations	#unitednations	NNS	pos2=NNPS	3	nsubj	_	O
+3	wants	want	VBZ	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	end	end	VB	_	3	xcomp	_	O
+6	violence	violence	NN	_	5	dobj	_	O
+7	against	against	IN	_	6	prep	_	O
+8	women	woman	NNS	_	7	pobj	_	O
+9	,	,	,	_	3	punct	_	O
+10	but	but	CC	_	3	cc	_	O
+11	has	have	VBZ	_	12	aux	_	O
+12	#SaudiArabia	#saudiarabia	VBN	pos2=NN	3	conj	_	O
+13	leading	lead	VBG	_	12	xcomp	_	O
+14	the	the	DT	_	17	det	_	B-ORG
+15	Human	human	NNP	_	16	compound	_	I-ORG
+16	Rights	right	NNPS	pos2=NNS	17	compound	_	I-ORG
+17	Council.👌🏻	council.👌🏻	NNP	pos2=GW	13	dobj	_	L-ORG
+18	…	…	NFP	pos2=-LRB-	19	punct	_	O
+19	https://t.co/t9NfS5hVLu	#hlink#	ADD	_	17	appos	_	U-ORG
+

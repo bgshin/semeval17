@@ -1,0 +1,18 @@
+1	Taylor	taylor	NNP	_	2	compound	_	B-PERSON
+2	Volk	volk	NNP	_	9	nsubj	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	North	north	NNP	_	5	compound	_	B-ORG
+5	Park	park	NNP	_	6	compound	_	I-ORG
+6	University	university	NNP	_	7	compound	_	L-ORG
+7	student	student	NN	_	2	appos	_	O
+8	,	,	,	_	2	punct	_	O
+9	fabricated	fabricate	VBN	pos2=JJ	0	root	_	O
+10	anti-gay	anti-gay	JJ	pos2=NN	12	nmod	_	O
+11	'	'	``	_	12	punct	_	O
+12	Trump	trump	NNP	pos2=NN	14	nsubj	_	U-ORG
+13	'	'	''	pos2=POS	12	punct	_	O
+14	notes	note	VBZ	pos2=NNS	9	dobj	_	O
+15	https://t.co/1XpC8haRRP	#hlink#	ADD	pos2=VBP	14	appos	_	O
+16	#tcot	#tcot	IN	pos2=-RRB-	9	prep	_	O
+17	#tpp	#tpp	UH	pos2=.	9	discourse	_	O
+

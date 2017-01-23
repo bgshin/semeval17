@@ -1,0 +1,19 @@
+1	You	you	PRP	_	2	nsubj	_	O
+2	know	know	VBP	_	5	parataxis	_	O
+3	you	you	PRP	_	5	nsubj	_	O
+4	're	be	VBP	_	5	aux	_	O
+5	doing	do	VBG	_	0	root	_	O
+6	it	it	PRP	pos2=RB	7	nsubj	_	O
+7	right	right	JJ	pos2=RB	5	dobj	_	O
+8	when	when	WRB	_	14	advmod	_	O
+9	SJWs	sjws	NNS	_	14	nsubj	_	O
+10	and	and	CC	_	9	cc	_	O
+11	alt	alt	NN	pos2=JJ	13	compound	_	O
+12	-	-	HYPH	_	13	punct	_	O
+13	rightists	rightist	NNS	_	9	conj	_	O
+14	find	find	VBP	pos2=VB	5	advcl	_	O
+15	you	you	PRP	_	17	nsubj	_	O
+16	equally	equally	RB	_	17	advmod	_	O
+17	irritating	irritating	JJ	_	14	ccomp	_	O
+18	.	.	.	_	5	punct	_	O
+

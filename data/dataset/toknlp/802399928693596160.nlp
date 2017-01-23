@@ -1,0 +1,25 @@
+1	@communist_au	@communist_au	XX	pos2=UH	7	dep	_	O
+2	@Venezuela_CNP	@venezuela_cnp	XX	pos2=NN	7	dep	_	O
+3	As	as	IN	_	8	prep	_	O
+4	Venezuelans	venezuelan	NNPS	pos2=NNP	3	pobj	_	U-NORP
+5	you	you	PRP	_	7	nsubj	_	O
+6	should	should	MD	_	7	aux	_	O
+7	be	be	VB	_	0	root	_	O
+8	ashamed	ashamed	JJ	pos2=VBN	7	acomp	_	O
+9	of	of	IN	_	8	prep	_	O
+10	yourselves	yourself	NNS	pos2=PRP	9	pobj	_	O
+11	!	!	.	_	7	punct	_	O
+
+1	As	as	IN	_	10	mark	_	O
+2	if	if	IN	_	10	mark	_	O
+3	Chavez	chavez	NNP	_	5	compound	_	B-PERSON
+4	y	y	NNP	pos2=IN	5	compound	_	I-PERSON
+5	Maduro	maduro	NNP	_	7	poss	_	I-PERSON
+6	's	's	POS	_	5	case	_	L-PERSON
+7	damage	damage	NN	_	10	nsubj	_	O
+8	did	do	VBD	_	10	aux	_	O
+9	n't	not	RB	_	10	neg	_	O
+10	have	have	VB	_	0	root	_	O
+11	Bolivar	bolivar	NNP	_	12	nsubj	_	U-GPE
+12	turning	turn	VBG	pos2=NN	10	ccomp	_	O
+

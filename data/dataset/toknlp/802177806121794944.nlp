@@ -1,0 +1,15 @@
+1	If	if	IN	_	3	mark	_	O
+2	there	there	EX	_	3	expl	_	O
+3	is	be	VBZ	_	12	advcl	_	O
+4	a	a	DT	_	6	det	_	O
+5	higher	high	JJR	_	6	nmod	_	O
+6	power	power	NN	_	3	attr	_	O
+7	out	out	RB	pos2=IN	8	advmod	_	O
+8	there	there	RB	_	3	advmod	_	O
+9	,	,	,	_	12	punct	_	O
+10	his	his	PRP$	_	11	poss	_	O
+11	name	name	NN	_	12	nsubj	_	O
+12	is	be	VBZ	_	0	root	_	O
+13	David	david	NNP	_	14	compound	_	B-PERSON
+14	Blaine	blaine	NNP	_	12	attr	_	L-PERSON
+

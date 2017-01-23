@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det	_	O
+2	latest	late	JJS	_	3	nmod	_	O
+3	Art	art	NN	pos2=NNP	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	Music	music	NN	pos2=NNP	3	conj	_	B-ORG
+6	&	&	CC	_	5	cc	_	I-ORG
+7	Culture	culture	NN	pos2=NNP	5	conj	_	L-ORG
+8	in	in	IN	_	3	prep	_	O
+9	Lawrence	lawrence	NNP	_	10	compound	_	B-PERSON
+10	Kansas	kansas	NNP	_	8	pobj	_	L-PERSON
+11	!	!	.	_	3	punct	_	O
+
+1	https://t.co/0ssFij6Wke	#hlink#	ADD	_	0	root	_	O
+2	#nbawards	#nbawards	IN	pos2=NNS	1	prep	_	O
+3	#poetry	#poetry	UH	pos2=NN	2	discourse	_	O
+

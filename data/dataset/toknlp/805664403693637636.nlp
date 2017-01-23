@@ -1,0 +1,30 @@
+1	Like	like	IN	pos2=UH	5	prep	_	O
+2	how	how	WRB	_	7	advmod	_	O
+3	are	be	VBP	_	5	aux	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	going	go	VBG	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	tell	tell	VB	_	5	xcomp	_	O
+8	a	a	DT	_	9	det	_	O
+9	woman	woman	NN	_	7	dobj	_	O
+10	who	who	WP	_	12	nsubjpass	_	O
+11	was	be	VBD	_	12	auxpass	_	O
+12	raped	rape	VBN	_	9	relcl	_	O
+13	she	she	PRP	_	16	nsubj	_	O
+14	ca	can	MD	_	16	aux	_	O
+15	n't	not	RB	_	16	neg	_	O
+16	have	have	VB	_	5	parataxis	_	O
+17	an	an	DT	_	18	det	_	O
+18	abortion	abortion	NN	_	16	dobj	_	O
+19	.	.	.	_	16	punct	_	O
+
+1	Controlling	control	VBG	_	0	root	_	O
+2	much	much	RB	pos2=JJ	1	dobj	_	O
+3	?	?	.	_	1	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	makes	make	VBZ	_	0	root	_	O
+3	no	no	DT	_	4	det	_	O
+4	sense	sense	NN	_	2	dobj	_	O
+5	.	.	.	_	2	punct	_	O
+

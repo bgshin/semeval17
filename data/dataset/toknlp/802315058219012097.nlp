@@ -1,0 +1,24 @@
+1	@MFEUZ3	@mfeuz0	NN	pos2=LS	0	root	_	O
+2	@jeffreyatucker	@jeffreyatucker	UH	pos2=IN	1	discourse	_	O
+3	@feeonline	@feeonline	UH	pos2=MD	1	discourse	_	O
+4	Only	only	RB	pos2=UH	5	advmod	_	O
+5	thing	thing	NN	_	9	nsubj	_	O
+6	I	I	PRP	_	7	nsubj	_	O
+7	disagree	disagree	VBP	_	5	relcl	_	O
+8	with	with	IN	_	7	prep	_	O
+9	is	be	VBZ	_	1	relcl	_	O
+10	3	0	CD	_	12	nmod	_	U-DATE
+11	D	d	NN	pos2=NNP	12	compound	_	O
+12	printing	printing	NN	pos2=VBG	9	attr	_	O
+13	.	.	.	_	1	punct	_	O
+
+1	Nowhere	nowhere	RB	_	2	advmod	_	O
+2	close	close	JJ	pos2=RB	0	root	_	O
+3	to	to	IN	_	2	prep	_	O
+4	efficiencies	efficiency	NNS	_	3	pobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	large	large	JJ	_	7	nmod	_	O
+7	scale	scale	NN	_	8	compound	_	O
+8	manufacturing	manufacturing	NN	_	5	pobj	_	O
+9	.	.	.	_	2	punct	_	O
+

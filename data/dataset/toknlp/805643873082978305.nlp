@@ -1,0 +1,15 @@
+1	@Charbrevolution	@charbrevolution	NNP	pos2=NN	7	dep	_	O
+2	@RealBiZI1	@realbizi0	NN	pos2=ADD	7	dep	_	O
+3	@TheGlobalUG	@theglobalug	XX	pos2=ADD	7	dep	_	O
+4	@VaccineXchange	@vaccinexchange	XX	pos2=NNP	7	dep	_	O
+5	@VaxCalc	@vaxcalc	XX	pos2=ADD	7	dep	_	O
+6	I	I	PRP	_	7	nsubj	_	O
+7	teach	teach	VBP	_	0	root	_	O
+8	many	many	JJ	_	9	nmod	_	O
+9	kids	kid	NNS	_	7	dobj	_	O
+10	healthy	healthy	JJ	_	13	nmod	_	O
+11	because	because	IN	_	7	prep	_	O
+12	of	of	IN	_	11	pcomp	_	O
+13	vaccines	vaccine	NNS	_	11	pobj	_	O
+14	...	..	.	pos2=,	7	punct	_	O
+

@@ -1,0 +1,9 @@
+1	Late	late	JJ	pos2=RB	4	nmod	_	O
+2	Thanksgiving	thanksgiving	NNP	_	3	compound	_	B-DATE
+3	Day	day	NNP	pos2=NN	4	compound	_	L-DATE
+4	selfie	selfie	NN	_	5	compound	_	O
+5	#happyholidays	#happyholidays	NNPS	pos2=NNS	8	dep	_	O
+6	#notsweaterweather	#notsweaterweather	GW	pos2=IN	8	nmod	_	O
+7	…	…	NFP	pos2=GW	8	punct	_	O
+8	https://t.co/j4AqgT8EuK	#hlink#	ADD	pos2=NN	0	root	_	O
+

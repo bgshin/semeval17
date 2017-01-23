@@ -1,0 +1,10 @@
+1	@Crojah	@crojah	NNP	pos2=UH	2	compound	_	B-PERSON
+2	@Blazt	@blazt	NNP	pos2=NNS	9	dep	_	L-PERSON
+3	or	or	CC	_	2	cc	_	O
+4	robots	robot	NNS	_	2	conj	_	O
+5	or	or	CC	_	4	cc	_	O
+6	space	space	NN	_	4	conj	_	O
+7	or	or	CC	_	6	cc	_	O
+8	flying	fly	VBG	pos2=NN	6	conj	_	O
+9	etc.	etc.	FW	_	0	root	_	O
+

@@ -1,0 +1,13 @@
+1	This	this	DT	_	3	nsubj	_	O
+2	is	be	VBZ	_	3	aux	_	O
+3	going	go	VBG	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	be	be	VB	_	3	xcomp	_	O
+6	GOOD	good	JJ	_	7	nmod	_	O
+7	folks	folk	NNS	_	5	attr	_	O
+8	...	..	.	pos2=,	3	punct	_	O
+
+1	#Yemen	#yemen	NNP	pos2=GW	2	compound	_	O
+2	Files	file	NNS	pos2=NNPS	3	dep	_	O
+3	https://t.co/CqkxvL9BiC	#hlink#	ADD	_	0	root	_	O
+

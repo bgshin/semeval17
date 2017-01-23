@@ -1,0 +1,9 @@
+1	https://t.co/uX8Sui3O0t	#hlink#	ADD	pos2=NN	0	root	_	O
+2	on	on	IN	_	1	prep	_	O
+3	the	the	DT	_	5	det	_	O
+4	euthanasia	euthanasia	NN	_	5	compound	_	O
+5	list	list	NN	_	2	pobj	_	O
+6	#whybuywhentheydie	#whybuywhentheydie	XX	pos2=RB	7	nmod	_	O
+7	#adoptdon'tshop	#adoptdon'tshop	XX	pos2=POS	2	pobj	_	O
+8	🐩🐕🐶	🐩🐕🐶	.	pos2=XX	1	punct	_	O
+

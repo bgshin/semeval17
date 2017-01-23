@@ -1,0 +1,32 @@
+1	@arbitrarygenius	@arbitrarygenius	UH	pos2=XX	0	root	_	O
+2	God	god	NNP	pos2=UH	1	vocative	_	O
+3	yes	yes	UH	_	2	discourse	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	And	and	CC	_	2	cc	_	O
+2	when	when	WRB	_	4	advmod	_	O
+3	Trump	trump	NNP	pos2=NN	4	nsubj	_	U-ORG
+4	takes	take	VBZ	_	0	advcl	_	O
+5	over	over	RP	pos2=RB	4	prt	_	O
+6	and	and	CC	_	4	cc	_	O
+7	decides	decide	VBZ	_	4	conj	_	O
+8	to	to	TO	pos2=IN	9	aux	_	O
+9	work	work	VB	_	7	xcomp	_	O
+10	with	with	IN	_	9	prep	_	O
+11	Putin	putin	NNP	_	10	pobj	_	U-PERSON
+12	to	to	TO	_	13	aux	_	O
+13	destroy	destroy	VB	_	9	advcl	_	O
+14	Syria	syria	NNP	_	21	nmod	_	U-GPE
+15	,	,	,	_	19	punct	_	O
+16	sorry	sorry	UH	pos2=JJ	21	discourse	_	O
+17	,	,	,	_	19	punct	_	O
+18	I	I	PRP	_	19	nsubj	_	O
+19	mean	mean	VBP	_	21	parataxis	_	O
+20	ISIS	isis	NNP	_	21	compound	_	B-PERSON
+21	…	…	NNP	pos2=:	13	dobj	_	L-PERSON
+22	.	.	.	_	19	punct	_	O
+
+1	sigh	sigh	NN	pos2=VB	0	root	_	O
+2	…	…	NFP	pos2=:	1	punct	_	O
+3	.	.	.	_	1	punct	_	O
+

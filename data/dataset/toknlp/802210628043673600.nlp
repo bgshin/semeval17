@@ -1,0 +1,16 @@
+1	traffic	traffic	NN	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	social	social	JJ	_	6	nmod	_	O
+4	&	&	CC	_	3	cc	_	O
+5	self-driving	self-driving	JJ	_	3	conj	_	O
+6	cars	car	NNS	_	8	nsubj	_	O
+7	will	will	MD	_	8	aux	_	O
+8	become	become	VB	_	2	ccomp	_	O
+9	actors	actor	NNS	_	8	attr	_	O
+10	in	in	IN	_	9	prep	_	O
+11	that	that	DT	pos2=IN	13	det	_	O
+12	social	social	JJ	_	13	nmod	_	O
+13	context	context	NN	pos2=GW	10	pobj	_	O
+14	https://t.co/ecs2EiaeV7	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/mWts14IOFd	#hlink#	ADD	_	8	npadvmod	_	U-ORG
+

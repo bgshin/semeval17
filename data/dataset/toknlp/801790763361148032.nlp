@@ -1,0 +1,12 @@
+1	Kate	kate	NNP	_	2	compound	_	B-PERSON
+2	Upton	upton	NNP	_	3	nsubj	_	L-PERSON
+3	Confirms	confirm	VBZ	pos2=NNP	0	root	_	O
+4	Engagement	engagement	NNP	pos2=NN	3	dobj	_	O
+5	On	on	IN	_	3	prep	_	O
+6	The	the	DT	_	8	det	_	B-ORG
+7	Red	red	NNP	_	8	compound	_	I-ORG
+8	Carpet	carpet	NNP	pos2=NN	5	pobj	_	L-ORG
+9	#KateUpton	#kateupton	ADD	pos2=NNP	5	pobj	_	O
+10	https://t.co/duYKUsuWnI	#hlink#	ADD	_	11	nsubj	_	O
+11	#KateUpton	#kateupton	ADD	pos2=-RRB-	9	pobj	_	U-ORG
+

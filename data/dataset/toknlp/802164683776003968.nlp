@@ -1,0 +1,8 @@
+1	So	so	RB	_	2	advmod	_	O
+2	beautifulFuture	beautifulfuture	VB	pos2=HYPH	0	root	_	O
+3	miss	miss	NN	pos2=AFX	6	det	_	O
+4	indiaFuture	indiafuture	HYPH	pos2=NNP	6	det	_	O
+5	miss	miss	JJ	pos2=AFX	6	nmod	_	O
+6	universe	universe	NN	_	7	dep	_	O
+7	https://t.co/OFfdD5rPeF	#hlink#	ADD	pos2=NN	2	dobj	_	O
+

@@ -1,0 +1,22 @@
+1	MOST	most	RBS	_	2	advmod	_	O
+2	IMPORTANT	important	JJ	_	3	nmod	_	O
+3	TWEET	tweet	NN	_	6	dep	_	O
+4	-	-	:	pos2=HYPH	3	punct	_	O
+5	Please	please	UH	_	6	discourse	_	O
+6	read	read	VB	_	21	advcl	_	O
+7	&	&	CC	_	6	cc	_	O
+8	call	call	VB	pos2=NN	6	conj	_	O
+9	-	-	HYPH	pos2=:	10	punct	_	O
+10	@HuffingtonPost	@huffingtonpost	VBN	pos2=NN	11	nmod	_	O
+11	report	report	NN	_	8	dobj	_	O
+12	on	on	IN	_	11	prep	_	O
+13	election	election	NN	_	12	pobj	_	O
+14	:	:	:	_	21	punct	_	O
+15	Mass	mass	NN	pos2=NNP	21	dep	_	O
+16	Voter	voter	NN	pos2=NNP	17	compound	_	O
+17	Suppression	suppression	NN	pos2=NNP	19	npadvmod	_	O
+18	-	-	HYPH	pos2=:	19	punct	_	O
+19	collaborat	collaborat	JJ	pos2=GW	20	nmod	_	O
+20	…	…	NFP	pos2=-LRB-	21	punct	_	O
+21	https://t.co/N78UEEmKIh	#hlink#	ADD	pos2=NN	0	root	_	O
+

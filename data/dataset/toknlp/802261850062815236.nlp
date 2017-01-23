@@ -1,0 +1,28 @@
+1	Tipp	tipp	NNP	_	2	compound	_	B-ORG
+2	Girls	girl	NNPS	pos2=NNP	3	compound	_	I-ORG
+3	Basketball	basketball	NNP	pos2=NN	0	root	_	L-ORG
+4	vs	vs	IN	pos2=CC	3	prep	_	O
+5	Fairmont	fairmont	NNP	_	4	pobj	_	U-ORG
+6	at	at	IN	_	3	prep	_	O
+7	Trent	trent	NNP	_	8	compound	_	B-ORG
+8	Arena	arena	NNP	_	6	pobj	_	L-ORG
+9	tonight	tonight	NN	_	3	npadvmod	_	U-TIME
+10	.	.	.	_	3	punct	_	O
+
+1	Devils	devil	NNS	pos2=VBZ	2	nsubj	_	O
+2	coming	come	VBG	_	0	root	_	O
+3	off	off	RB	pos2=RP	2	advmod	_	O
+4	2	0	CD	_	6	dep	_	U-CARDINAL
+5	Reg	reg	NNP	pos2=NNS	6	compound	_	B-PERSON
+6	Final	final	NNP	pos2=JJ	2	dobj	_	L-PERSON
+7	in	in	IN	_	2	prep	_	O
+8	the	the	DT	_	11	det	_	B-DATE
+9	past	past	JJ	_	11	nmod	_	I-DATE
+10	2	0	CD	_	11	nmod	_	I-DATE
+11	yrs	yr	NNS	_	7	pobj	_	L-DATE
+12	w	w	IN	_	2	prep	_	O
+13	/	/	HYPH	_	12	punct	_	O
+14	record	record	NN	pos2=JJ	12	pobj	_	O
+15	…	…	NFP	pos2=:	16	punct	_	O
+16	https://t.co/KnVvI2uNLJ	#hlink#	ADD	_	2	dep	_	O
+

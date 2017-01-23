@@ -1,0 +1,27 @@
+1	Anti-Trump	anti-trump	JJ	pos2=NNP	2	nmod	_	O
+2	Riots	riot	NNS	pos2=NNPS	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	Smoke	smoke	NN	pos2=NNP	6	compound	_	O
+6	Screen	screen	NN	pos2=GW	3	attr	_	O
+7	https://t.co/KJaQr7RiAx	#hlink#	ADD	pos2=POS	3	punct	_	O
+8	Vote	vote	NN	pos2=VB	10	nsubj	_	O
+9	=	=	SYM	pos2=-LRB-	10	punct	_	O
+10	Tyranny	tyranny	NN	pos2=NNP	6	conj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	Founders	founder	NNS	_	2	nsubj	_	O
+2	were	be	VBD	_	0	root	_	O
+3	genius	genius	NN	pos2=NNS	2	attr	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	Dems	dems	NNPS	pos2=NNS	2	nsubj	_	U-NORP
+2	want	want	VBP	pos2=NN	0	root	_	O
+3	control	control	NN	_	2	dobj	_	O
+4	,	,	,	_	2	punct	_	O
+5	NOT	not	RB	pos2=CC	6	neg	_	O
+6	play	play	VB	_	2	dep	_	O
+7	by	by	IN	_	6	prep	_	O
+8	rules	rule	NNS	_	7	pobj	_	O
+9	.	.	.	_	2	punct	_	O
+

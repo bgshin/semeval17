@@ -1,0 +1,17 @@
+1	Top	top	JJ	pos2=NN	2	nmod	_	O
+2	story	story	NN	_	6	dep	_	O
+3	:	:	:	_	6	punct	_	O
+4	RED	red	JJ	_	5	nmod	_	O
+5	LINE	line	NN	_	6	compound	_	O
+6	SYMPTOMS	symptom	NNS	_	0	root	_	O
+7	OF	of	IN	_	6	prep	_	O
+8	ACONITE	aconite	NN	pos2=NNP	7	pobj	_	O
+9	|	|	,	pos2=SYM	11	punct	_	O
+10	I	I	PRP	pos2=NNP	11	nsubj	_	O
+11	LOVE	love	VBP	_	14	ccomp	_	O
+12	HOMEOPATHY	homeopathy	NN	_	11	dobj	_	O
+13	https://t.co/3MX9xHc3fl,	#hlink#	ADD	pos2=PRP	14	nsubj	_	O
+14	see	see	VB	pos2=VBP	0	root	_	O
+15	more	more	JJR	pos2=RBR	16	nmod	_	O
+16	https://t.co/C4Tob8n9Zj	#hlink#	ADD	pos2=NN	14	dobj	_	O
+

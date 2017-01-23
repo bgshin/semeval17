@@ -1,0 +1,21 @@
+1	Ukrainian	ukrainian	JJ	_	2	nmod	_	U-NORP
+2	President	president	NNP	_	4	compound	_	O
+3	Petro	petro	NNP	_	4	compound	_	B-PERSON
+4	Poroshenko	poroshenko	NNP	_	5	nsubj	_	L-PERSON
+5	said	say	VBD	_	0	root	_	O
+6	today	today	NN	_	5	npadvmod	_	U-DATE
+7	(	(	-LRB-	_	5	punct	_	O
+8	24	0	CD	_	9	nmod	_	B-DATE
+9	November	november	NNP	_	5	npadvmod	_	L-DATE
+10	)	)	-RRB-	_	5	punct	_	O
+11	that	that	IN	pos2=WDT	14	mark	_	O
+12	the	the	DT	_	13	det	_	O
+13	EU	eu	NNP	_	14	nsubj	_	U-ORG
+14	was	be	VBD	_	5	ccomp	_	O
+15	under	under	IN	_	14	prep	_	O
+16	ve	ve	NN	pos2=CD	15	pobj	_	O
+17	...	..	.	pos2=,	5	punct	_	O
+
+1	https://t.co/x2cUljosW1	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/sIyHr2kIuV	#hlink#	ADD	_	0	root	_	U-ORG
+

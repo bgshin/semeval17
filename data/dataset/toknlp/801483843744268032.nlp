@@ -1,0 +1,27 @@
+1	#ISIS	#isis	NN	pos2=NNP	2	nsubj	_	O
+2	claimed	claim	VBD	pos2=VBN	0	root	_	O
+3	responsibility	responsibility	NN	_	2	dobj	_	O
+4	for	for	IN	_	3	prep	_	O
+5	a	a	DT	_	7	det	_	O
+6	suicide	suicide	NN	_	7	compound	_	O
+7	operation	operation	NN	_	4	pobj	_	O
+8	targeting	target	VBG	_	7	acl	_	O
+9	al	al	NNP	_	11	compound	_	B-LOC
+10	-	-	HYPH	_	11	punct	_	I-LOC
+11	#Hashd	#hashd	NNP	pos2=VBN	12	compound	_	L-LOC
+12	forces	force	NNS	_	8	dobj	_	O
+13	near	near	IN	_	12	prep	_	O
+14	Al	al	NNP	_	16	compound	_	O
+15	-	-	HYPH	_	16	punct	_	O
+16	Arbeed	arbeed	NNP	_	17	compound	_	O
+17	village	village	NN	_	13	pobj	_	O
+18	,	,	,	_	17	punct	_	O
+19	NW	nw	NNP	_	23	compound	_	O
+20	Hammam	hammam	NNP	_	23	compound	_	B-PERSON
+21	Al	al	NNP	_	23	compound	_	I-PERSON
+22	-	-	HYPH	_	23	punct	_	I-PERSON
+23	Alil	alil	NNP	_	17	appos	_	L-PERSON
+24	.	.	.	_	2	punct	_	O
+
+1	#MosulOffensive	#mosuloffensive	ADD	pos2=JJ	0	root	_	O
+

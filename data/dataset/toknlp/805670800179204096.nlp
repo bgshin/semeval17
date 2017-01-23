@@ -1,0 +1,11 @@
+1	Nothing	nothing	NN	_	0	root	_	O
+2	like	like	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	smell	smell	NN	_	2	pobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	minimum	minimum	JJ	pos2=NN	7	nmod	_	O
+7	wage	wage	NN	_	5	pobj	_	O
+8	in	in	IN	_	4	prep	_	O
+9	the	the	DT	_	10	det	_	B-TIME
+10	morning	morning	NN	_	8	pobj	_	L-TIME
+

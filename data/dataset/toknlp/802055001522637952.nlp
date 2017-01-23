@@ -1,0 +1,16 @@
+1	New	new	JJ	pos2=NNP	9	nmod	_	O
+2	2016	0	CD	_	3	nmod	_	U-DATE
+3	@SkodaIndia	@skodaindia	NNS	pos2=NN	9	nmod	_	O
+4	#Rapid	#rapid	FW	pos2=AFX	9	nmod	_	O
+5	#Facelift	#facelift	NN	pos2=FW	9	nmod	_	O
+6	1.5	0	CD	_	7	nmod	_	U-CARDINAL
+7	Diesel	diesel	NN	pos2=NNP	9	compound	_	O
+8	DSG	dsg	NN	pos2=NNP	9	compound	_	O
+9	Review	review	NN	pos2=NNP	11	dep	_	O
+10	:	:	:	_	11	punct	_	O
+11	Rejuvenated	rejuvenate	VBN	pos2=JJ	0	root	_	O
+12	!	!	.	_	11	punct	_	O
+
+1	https://t.co/vT38GEgqNn	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/nExsBJoCML	#hlink#	ADD	_	0	root	_	U-ORG
+

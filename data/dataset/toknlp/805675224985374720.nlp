@@ -1,0 +1,15 @@
+1	IS	be	VBZ	_	0	root	_	O
+2	Gay	gay	NNP	pos2=JJ	3	compound	_	O
+3	Marriage	marriage	NN	pos2=NNP	4	compound	_	O
+4	Wrong	wrong	NNP	pos2=JJ	1	nsubj	_	O
+5	?	?	.	_	1	punct	_	O
+
+1	–	-	SYM	pos2=HYPH	3	punct	_	O
+2	#CoffeeWithBux	#coffeewithbux	NN	pos2=XX	3	compound	_	O
+3	Ep	ep	NN	pos2=NNP	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	twenty	#crd#	CD	pos2=GW	3	dep	_	U-CARDINAL
+2	https://t.co/wtGCbr6mac	#hlink#	ADD	_	3	nmod	_	O
+3	https://t.co/YMHgm7xseR	#hlink#	ADD	_	0	root	_	U-ORG
+

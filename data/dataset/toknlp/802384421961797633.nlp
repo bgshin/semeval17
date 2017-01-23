@@ -1,0 +1,19 @@
+1	Trump	trump	NNP	pos2=NN	3	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	cabinet	cabinet	NN	_	5	nsubj	_	O
+4	might	might	MD	_	5	aux	_	O
+5	make	make	VB	_	0	root	_	O
+6	an	an	DT	_	7	det	_	O
+7	example	example	NN	_	5	dobj	_	O
+8	out	out	IN	_	5	prep	_	O
+9	of	of	IN	_	8	prep	_	O
+10	her	her	PRP	pos2=PRP$	9	pobj	_	O
+11	come	come	VBP	pos2=VB	5	advcl	_	O
+12	2017	0	CD	_	8	pobj	_	U-DATE
+13	,	,	,	_	17	punct	_	O
+14	shit	shit	NN	pos2=VB	17	discourse	_	O
+15	this	this	DT	_	17	nsubj	_	O
+16	could	could	MD	_	17	aux	_	O
+17	be	be	VB	_	5	conj	_	O
+18	bad	bad	JJ	_	17	acomp	_	O
+

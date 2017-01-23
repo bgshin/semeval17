@@ -1,0 +1,31 @@
+1	Eight	#crd#	CD	_	0	root	_	U-CARDINAL
+2	of	of	IN	_	1	prep	_	O
+3	my	my	PRP$	_	5	poss	_	O
+4	fellow	fellow	JJ	_	5	nmod	_	O
+5	monks	monk	NNS	_	2	pobj	_	O
+6	&	&	CC	_	5	cc	_	O
+7	nuns	nun	NNS	_	5	conj	_	O
+8	&	&	CC	_	1	cc	_	O
+9	I	I	PRP	_	11	nsubj	_	O
+10	are	be	VBP	_	11	aux	_	O
+11	forming	form	VBG	_	0	root	_	O
+12	our	our	PRP$	_	14	poss	_	O
+13	own	own	JJ	_	14	nmod	_	O
+14	protest	protest	NN	_	11	dobj	_	O
+15	in	in	IN	_	11	prep	_	O
+16	front	front	NN	_	15	pobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	Trump	trump	NNP	_	19	compound	_	B-ORG
+19	Hotel	hotel	NNP	_	17	pobj	_	L-ORG
+20	in	in	IN	_	19	prep	_	O
+21	DC	dc	NNP	_	20	pobj	_	U-GPE
+22	tomorrow	tomorrow	NN	_	11	npadvmod	_	U-DATE
+23	.	.	.	_	11	punct	_	O
+
+1	We	we	PRP	_	4	nsubj	_	O
+2	ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	afford	afford	VB	_	0	root	_	O
+5	to	to	TO	pos2=IN	6	aux	_	O
+6	wait#ResistTrump	wait#resisttrump	VB	pos2=ADD	4	xcomp	_	O
+

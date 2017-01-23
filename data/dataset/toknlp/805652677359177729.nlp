@@ -1,0 +1,20 @@
+1	Sample	sample	NN	pos2=VB	2	compound	_	O
+2	Essay	essay	NN	pos2=NNP	0	root	_	O
+3	on	on	IN	_	2	prep	_	O
+4	Jewish	jewish	JJ	_	5	nmod	_	U-NORP
+5	Views	view	NNS	pos2=NNPS	3	pobj	_	O
+6	on	on	IN	_	5	prep	_	O
+7	Euthanasia	euthanasia	NNP	pos2=NN	6	pobj	_	O
+8	Jewish	jewish	JJ	pos2=NNP	9	nmod	_	U-NORP
+9	Views	views	NNP	pos2=NNPS	7	appos	_	O
+10	on	on	IN	_	9	prep	_	O
+11	Euthanasia	euthanasia	NNP	pos2=NN	10	pobj	_	O
+12	Jewish	jewish	JJ	_	13	nmod	_	U-NORP
+13	views	view	NNS	pos2=NN	8	dobj	_	O
+14	on	on	IN	_	13	prep	_	O
+15	euthanasia	euthanasia	NN	_	16	compound	_	O
+16	a	a	DT	_	14	pobj	_	O
+17	...	..	.	pos2=:	2	punct	_	O
+
+1	https://t.co/mljYcI8CRL	#hlink#	ADD	_	0	root	_	U-ORG
+

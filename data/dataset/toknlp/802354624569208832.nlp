@@ -1,0 +1,26 @@
+1	@Old_Bern_Kenobi	@old_bern_kenobi	UH	pos2=XX	8	discourse	_	O
+2	@phillydotcom	@phillydotcom	UH	pos2=WP	8	discourse	_	O
+3	You	you	PRP	_	4	nsubj	_	O
+4	mean	mean	VBP	_	8	parataxis	_	O
+5	so	so	RB	pos2=IN	8	advmod	_	O
+6	no	no	DT	_	7	det	_	O
+7	one	#crd#	NN	_	8	nsubj	_	O
+8	confuses	confuse	VBZ	_	0	root	_	O
+9	them	them	PRP	_	8	dobj	_	O
+10	with	with	IN	_	8	prep	_	O
+11	Republicans	republican	NNPS	_	10	pobj	_	U-NORP
+12	?	?	.	_	8	punct	_	O
+
+1	Or	or	CC	_	2	cc	_	O
+2	fascists	fascist	NNS	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	Or	or	CC	_	3	cc	_	O
+2	dupicitous	dupicitous	JJ	pos2=DT	3	nmod	_	O
+3	liars	liar	NNS	_	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+
+1	#WallSt	#wallst	ADD	pos2=XX	3	punct	_	O
+2	#Uranium1	#uranium0	NN	pos2=NNS	3	compound	_	O
+3	#TPP	#tpp	NN	pos2=ADD	0	root	_	O
+

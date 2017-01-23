@@ -1,0 +1,22 @@
+1	#Hawaii	#hawaii	NNP	pos2=WP	2	nsubj	_	O
+2	Introduces	introduce	VBZ	_	14	ccomp	_	O
+3	Bill	bill	NNP	_	2	dobj	_	U-PERSON
+4	to	to	TO	_	5	aux	_	O
+5	Tighten	tighten	VB	pos2=NNP	3	relcl	_	O
+6	Gun	gun	NNP	_	7	compound	_	O
+7	Control	control	NNP	pos2=NN	9	compound	_	O
+8	»	»	NNP	pos2=HYPH	9	compound	_	O
+9	#AlexJones	#alexjones	NNPS	pos2=ADD	11	poss	_	O
+10	'	'	POS	pos2=''	9	case	_	O
+11	Infowars	infowars	NNP	pos2=NNS	5	dobj	_	U-PERSON
+12	:	:	:	_	14	punct	_	O
+13	There	there	EX	_	14	expl	_	O
+14	's	's	VBZ	_	0	root	_	O
+15	a	a	DT	_	16	det	_	O
+16	war	war	NN	_	14	attr	_	O
+17	on	on	RB	pos2=IN	16	prep	_	O
+18	...	..	.	pos2=,	14	punct	_	O
+
+1	https://t.co/uA4BzImUL9	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/7OTApEDDbY	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,18 @@
+1	Do	do	VB	pos2=VBP	6	aux	_	O
+2	Mike	mike	NNP	_	3	compound	_	B-PERSON
+3	Pence	penny	NNP	_	6	vocative	_	L-PERSON
+4	and	and	CC	_	3	cc	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	agree	agree	VBP	_	0	root	_	O
+7	on	on	IN	_	6	prep	_	O
+8	something	something	NN	_	7	pobj	_	O
+9	?	?	.	_	6	punct	_	O
+
+1	Giuliani	giuliani	NNP	pos2=NN	3	nsubj	_	U-PERSON
+2	is	be	VBZ	_	3	aux	_	O
+3	fucking	fuck	VBG	pos2=JJ	0	root	_	O
+4	crazy	crazy	JJ	_	3	acomp	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	https://t.co/RAsaCddopo	#hlink#	ADD	_	0	root	_	U-ORG
+

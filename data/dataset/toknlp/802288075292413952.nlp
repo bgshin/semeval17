@@ -1,0 +1,20 @@
+1	Toxic	toxic	JJ	_	3	nmod	_	O
+2	Galaxy	galaxy	NNP	pos2=NN	3	compound	_	O
+3	Note	note	NN	pos2=NNP	8	nsubjpass	_	O
+4	7	0	CD	pos2=:	8	nsubjpass	_	O
+5	ca	can	MD	_	8	aux	_	O
+6	n't	not	RB	_	8	neg	_	O
+7	be	be	VB	_	8	auxpass	_	O
+8	trusted	trust	VBN	_	11	ccomp	_	O
+9	,	,	,	_	11	punct	_	O
+10	production	production	NN	_	11	nsubj	_	O
+11	suspended	suspend	VBN	_	0	root	_	O
+12	(	(	-LRB-	_	14	punct	_	O
+13	CNET	cnet	NN	pos2=NNP	14	compound	_	B-ORG
+14	Update	update	NNP	pos2=NN	11	parataxis	_	L-ORG
+15	)	)	-RRB-	_	14	punct	_	O
+16	-	-	:	pos2=GW	19	punct	_	O
+17	#comedy	#comedy	GW	pos2=NFP	19	nmod	_	O
+18	https://t.co/GZY3imk0ZZ	#hlink#	ADD	pos2=GW	19	nmod	_	O
+19	https://t.co/Tz0ed59fYS	#hlink#	ADD	_	11	dep	_	U-ORG
+

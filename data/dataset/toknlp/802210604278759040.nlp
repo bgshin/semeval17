@@ -1,0 +1,14 @@
+1	@AlphaRomeo223	@alpharomeo0	NN	pos2=ADD	0	qmod	_	O
+2	What	what	WP	_	3	attr	_	O
+3	is	be	VBZ	_	1	ccomp	_	O
+4	it	it	PRP	_	3	nsubj	_	O
+5	with	with	IN	_	3	prep	_	O
+6	#Russia	#russia	NNP	pos2=NN	5	pobj	_	U-PERSON
+7	and	and	CC	_	6	cc	_	O
+8	US	us	NNP	_	9	compound	_	U-GPE
+9	election	election	NN	_	6	conj	_	O
+10	?	?	.	_	1	punct	_	O
+
+1	#Putin	#putin	NNP	pos2=ADD	2	compound	_	B-PERSON
+2	#Kremlin	#kremlin	NNP	pos2=NN	0	root	_	L-PERSON
+

@@ -1,0 +1,9 @@
+1	MD	md	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	appoints	appoint	VBZ	_	0	root	_	O
+3	new	new	JJ	_	6	nmod	_	O
+4	medical	medical	JJ	_	5	nmod	_	O
+5	marijuana	marijuana	NN	_	6	compound	_	O
+6	regulator	regulator	NN	_	2	dobj	_	O
+7	-	-	:	pos2=HYPH	8	punct	_	O
+8	https://t.co/4Cjv2nrt4k	#hlink#	ADD	pos2=NN	2	dep	_	O
+

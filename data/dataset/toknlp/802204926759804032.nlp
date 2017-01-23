@@ -1,0 +1,24 @@
+1	@MittRomney	@mittromney	UH	pos2=NNP	3	discourse	_	O
+2	You	you	PRP	_	3	nsubj	_	O
+3	're	be	VBP	_	0	root	_	O
+4	awfully	awfully	RB	_	5	advmod	_	O
+5	quiet	quiet	JJ	_	3	acomp	_	O
+6	NOW	now	RB	_	7	advmod	_	U-DATE
+7	regarding	regard	VBG	_	3	prep	_	O
+8	white	white	JJ	_	9	nmod	_	O
+9	supremacists	supremacist	NNS	_	7	pobj	_	O
+10	in	in	IN	_	9	prep	_	O
+11	the	the	DT	_	13	det	_	B-ORG
+12	White	white	NNP	_	13	compound	_	I-ORG
+13	House	house	NNP	_	10	pobj	_	L-ORG
+14	now	now	RB	_	7	advmod	_	O
+15	that	that	IN	_	17	mark	_	O
+16	you	you	PRP	_	17	nsubj	_	O
+17	're	be	VBP	_	14	ccomp	_	O
+18	a	a	DT	pos2=XX	19	det	_	O
+19	Secretary	secretary	NNP	_	17	attr	_	O
+20	of	of	IN	_	19	prep	_	O
+21	State	state	NNP	pos2=NN	20	pobj	_	U-ORG
+22	hopeful	hopeful	JJ	pos2=NNP	17	acomp	_	O
+23	.	.	.	_	3	punct	_	O
+

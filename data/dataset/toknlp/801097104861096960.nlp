@@ -1,0 +1,20 @@
+1	Read	read	VB	pos2=VBD	0	root	_	O
+2	the	the	DT	_	4	det	_	O
+3	first	#ord#	JJ	_	4	nmod	_	U-ORDINAL
+4	chapter	chapter	NN	_	1	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	@colsonwhitehead	@colsonwhitehead	PRP	pos2=NNP	10	poss	_	O
+7	's	's	POS	pos2=VBZ	6	case	_	O
+8	THE	the	DT	_	10	det	_	O
+9	UNDERGROUND	underground	JJ	pos2=NNP	10	nmod	_	O
+10	RAILROAD	railroad	NN	pos2=NNP	5	pobj	_	O
+11	,	,	,	_	4	punct	_	O
+12	Winner	winner	NN	pos2=NNP	4	appos	_	O
+13	of	of	IN	_	12	prep	_	O
+14	the	the	DT	_	16	det	_	O
+15	2016	0	CD	_	16	nmod	_	U-DATE
+16	#NBAwards	#nbawards	NNS	pos2=NNPS	13	pobj	_	O
+17	for	for	IN	_	16	prep	_	O
+18	Fiction	fiction	NNP	pos2=NN	17	pobj	_	O
+19	https://t.co/TSGIzNAvFB	#hlink#	ADD	pos2=NNP	4	appos	_	O
+

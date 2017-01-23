@@ -1,0 +1,14 @@
+1	Happy	happy	JJ	pos2=NNP	4	nmod	_	O
+2	Black	black	NNP	pos2=JJ	3	compound	_	B-EVENT
+3	Friday	friday	NNP	_	4	compound	_	L-EVENT
+4	everybody	everybody	NN	_	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+
+1	@walkingdead_amc	@walkingdead_amc	NNP	pos2=XX	7	nmod	_	U-PERSON
+2	#thewalkingdead	#thewalkingdead	UH	pos2=XX	5	discourse	_	O
+3	#walkers	#walkers	UH	pos2=NNPS	5	discourse	_	O
+4	#zombies	#zombies	UH	pos2=NNS	5	discourse	_	O
+5	#blackfriday	#blackfriday	UH	pos2=GW	7	discourse	_	O
+6	…	…	NFP	pos2=-LRB-	7	punct	_	O
+7	https://t.co/JmYTPQqgJh	#hlink#	ADD	_	0	root	_	O
+

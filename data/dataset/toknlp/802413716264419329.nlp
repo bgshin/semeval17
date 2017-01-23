@@ -1,0 +1,20 @@
+1	Forget	forget	VB	_	7	advcl	_	O
+2	the	the	DT	_	4	det	_	O
+3	teaser	teaser	NN	_	4	compound	_	O
+4	clip	clip	NN	_	1	dobj	_	O
+5	,	,	,	_	7	punct	_	O
+6	here	here	RB	_	7	advmod	_	O
+7	are	be	VBP	_	0	root	_	O
+8	the	the	DT	_	11	det	_	O
+9	full	full	JJ	_	11	nmod	_	O
+10	galaxy	galaxy	NN	_	11	compound	_	O
+11	note	note	NN	_	7	nsubj	_	O
+12	7	0	CD	_	13	nmod	_	U-CARDINAL
+13	specs	spec	NNS	_	15	nmod	_	O
+14	open	open	JJ	_	15	nmod	_	O
+15	source	source	NN	pos2=JJ	19	dep	_	O
+16	backup	backup	JJ	pos2=NN	17	nmod	_	O
+17	software	software	NN	_	19	dep	_	O
+18	-	-	:	pos2=HYPH	19	punct	_	O
+19	https://t.co/d9ebpO8YCn	#hlink#	ADD	pos2=NN	11	appos	_	O
+

@@ -1,0 +1,22 @@
+1	Those	those	DT	_	5	nsubj	_	O
+2	who	who	WP	_	3	nsubj	_	O
+3	fall	fall	VBP	_	1	relcl	_	O
+4	shall	shall	MD	_	5	aux	_	O
+5	stay	stay	VB	_	0	root	_	O
+6	oblivious	oblivious	JJ	_	5	acomp	_	O
+7	,	,	,	_	5	punct	_	O
+8	halfway	halfway	RB	_	3	advmod	_	O
+9	to	to	IN	pos2=RBR	8	prep	_	O
+10	happy	happy	JJ	_	9	pcomp	_	O
+11	.	.	.	_	5	punct	_	O
+
+1	-	-	SYM	pos2=HYPH	3	punct	_	O
+2	@Deardarkness	@deardarkness	NN	pos2=XX	3	compound	_	O
+3	reading	reading	NN	pos2=VBG	0	root	_	O
+4	from	from	IN	_	3	prep	_	O
+5	BLUE	blue	JJ	pos2=NNP	6	nmod	_	O
+6	LAWS	law	NNS	pos2=NNPS	4	pobj	_	O
+7	at	at	IN	_	3	prep	_	O
+8	…	…	NFP	pos2=NNP	7	pobj	_	O
+9	https://t.co/BuYpMQFo3B	#hlink#	ADD	pos2=NN	7	pobj	_	O
+

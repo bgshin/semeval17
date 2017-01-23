@@ -1,0 +1,12 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	'm	be	VBP	_	3	aux	_	O
+3	studying	study	VBG	_	0	root	_	O
+4	deep	deep	JJ	pos2=RB	6	nmod	_	O
+5	learning	learning	NN	pos2=VBG	6	compound	_	O
+6	algorithm	algorithm	NN	_	3	dobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	seems	seem	VBZ	_	0	root	_	O
+3	incredible	incredible	JJ	_	2	oprd	_	O
+

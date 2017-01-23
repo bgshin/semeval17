@@ -1,0 +1,6 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	#ISIS	#isis	GW	pos2=NN	4	nmod	_	O
+4	season	season	NN	pos2=GW	2	attr	_	O
+5	https://t.co/L8DlsIXWdt	#hlink#	ADD	_	2	dep	_	O
+

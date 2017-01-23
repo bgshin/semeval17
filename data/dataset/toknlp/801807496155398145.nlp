@@ -1,0 +1,22 @@
+1	US	us	NNP	_	4	compound	_	U-GPE
+2	Neo-Nazi	neo-nazi	NNP	pos2=JJ	4	compound	_	O
+3	Richard	richard	NNP	_	4	compound	_	B-PERSON
+4	Spencer	spencer	NNP	_	5	nsubj	_	L-PERSON
+5	is	be	VBZ	_	0	root	_	O
+6	married	married	JJ	pos2=VBN	5	acomp	_	O
+7	to	to	IN	pos2=TO	6	prep	_	O
+8	@NinaByzantina	@ninabyzantina	VB	pos2=NNP	7	pobj	_	O
+9	from	from	IN	_	8	prep	_	O
+10	#Russia	#russia	NNP	_	9	pobj	_	U-PERSON
+11	,	,	,	_	10	punct	_	O
+12	who	who	WP	_	13	nsubj	_	O
+13	is	be	VBZ	_	10	relcl	_	O
+14	Dugin	dugin	NNP	_	16	poss	_	U-PERSON
+15	's	's	POS	_	14	case	_	O
+16	translator	translator	NN	_	13	attr	_	O
+17	&	&	CC	_	16	cc	_	O
+18	pro#Kremlin	pro#kremlin	NNP	pos2=GW	19	compound	_	O
+19	trol	trol	NN	pos2=GW	16	conj	_	O
+20	…	…	NFP	pos2=-LRB-	21	punct	_	O
+21	https://t.co/gP6nLKx4uf	#hlink#	ADD	_	5	dep	_	U-ORG
+

@@ -1,0 +1,27 @@
+1	Steve	steve	NNP	_	2	compound	_	B-PERSON
+2	Bannon	bannon	NNP	_	6	nsubj	_	L-PERSON
+3	in	in	IN	_	2	prep	_	O
+4	Whitehouse	whitehouse	NNP	_	3	pobj	_	U-GPE
+5	not	not	RB	_	6	neg	_	O
+6	normal	normal	JJ	_	9	ccomp	_	O
+7	,	,	,	_	8	punct	_	O
+8	Trump	trump	VB	pos2=NNP	0	root	_	O
+9	the	the	DT	_	12	det	_	O
+10	con	con	NN	_	13	compound	_	O
+11	part	part	NN	_	12	compound	_	O
+12	time	time	NN	_	8	npadvmod	_	O
+13	Prez	prez	NNP	_	16	nsubj	_	O
+14	will	will	MD	_	16	aux	_	O
+15	never	never	RB	_	16	neg	_	O
+16	be	be	VB	_	8	conj	_	O
+17	normal	normal	JJ	_	16	acomp	_	O
+18	!	!	.	_	16	punct	_	O
+
+1	Always	always	RB	_	2	advmod	_	O
+2	follow	follow	VB	pos2=VBP	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	money	money	NN	_	2	dobj	_	O
+5	!	!	.	_	2	punct	_	O
+
+1	https://t.co/Jz6QhmYJK1	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,18 @@
+1	Is	be	VBZ	_	12	auxpass	_	O
+2	This	this	DT	_	1	nsubj	_	O
+3	the	the	DT	_	8	det	_	O
+4	Most	most	RBS	pos2=NNP	5	advmod	_	O
+5	Bizarre	bizarre	JJ	pos2=NNP	1	acomp	_	O
+6	Cristiano	cristiano	NNP	_	8	compound	_	B-PERSON
+7	Ronaldo	ronaldo	NNP	_	8	compound	_	L-PERSON
+8	Commercial	commercial	NNP	_	12	nsubjpass	_	O
+9	You	you	PRP	_	12	nsubj	_	O
+10	've	have	VBP	_	12	aux	_	O
+11	Ever	ever	RB	_	12	advmod	_	O
+12	Seen	see	VBN	_	0	root	_	O
+13	?	?	.	_	12	punct	_	O
+
+1	https://t.co/aJjEZghPVa	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@etnow	@etnow	UH	pos2=NN	2	pobj	_	O
+

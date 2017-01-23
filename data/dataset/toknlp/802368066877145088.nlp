@@ -1,0 +1,25 @@
+1	#DeMonetisation	#demonetisation	NN	pos2=NNP	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	favourite	favourite	NN	_	2	attr	_	O
+5	of	of	IN	_	4	prep	_	O
+6	leftists	leftist	NNS	_	5	pobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	socialists	socialist	NNS	_	6	conj	_	O
+9	once	once	RB	pos2=IN	2	advmod	_	O
+10	upon	upon	IN	_	2	prep	_	O
+11	a	a	DT	_	12	det	_	O
+12	time	time	NN	_	10	pobj	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	Amusing	amusing	JJ	_	3	dep	_	O
+2	to	to	TO	_	3	aux	_	O
+3	see	see	VB	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	boot	boot	NN	_	3	dobj	_	O
+6	on	on	IN	_	3	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	right	right	JJ	_	9	nmod	_	O
+9	side	side	NN	_	6	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+

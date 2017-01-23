@@ -1,0 +1,23 @@
+1	@patrickoscully	@patrickoscully	UH	pos2=RB	3	discourse	_	O
+2	that	that	DT	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	not	not	RB	_	3	neg	_	O
+5	the	the	DT	_	6	det	_	O
+6	point	point	NN	_	3	attr	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	govt	govt	NN	_	5	nsubj	_	O
+3	can	can	MD	_	5	aux	_	O
+4	not	not	RB	_	5	neg	_	O
+5	ignore	ignore	VB	_	0	root	_	O
+6	the	the	DT	_	9	det	_	O
+7	lawAlso	lawalso	$	pos2=NNP	9	qmod	_	B-MONEY
+8	51	0	CD	_	9	compound	_	I-MONEY
+9	million	#crd#	CD	_	5	dobj	_	L-MONEY
+10	did	do	VBD	_	12	aux	_	O
+11	not	not	RB	_	12	neg	_	O
+12	vote	vote	VB	_	5	conj	_	O
+13	for	for	IN	_	12	prep	_	O
+14	Brexit	brexit	NNP	pos2=NN	13	pobj	_	U-GPE
+

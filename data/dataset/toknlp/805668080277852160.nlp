@@ -1,0 +1,15 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	girl	girl	NN	_	3	nsubj	_	O
+3	throws	throw	VBZ	_	0	root	_	O
+4	shade	shade	NN	_	3	dobj	_	O
+5	like	like	IN	pos2=UH	7	mark	_	O
+6	she	she	PRP	_	7	nsubj	_	O
+7	's	's	VBZ	_	3	advcl	_	O
+8	the	the	DT	_	10	det	_	O
+9	starting	start	VBG	pos2=NN	10	nmod	_	O
+10	pitcher	pitcher	NN	_	7	attr	_	O
+11	for	for	IN	_	10	prep	_	O
+12	the	the	DT	_	14	det	_	B-ORG
+13	Chicago	chicago	NNP	_	14	compound	_	I-ORG
+14	Cubs	cub	NNPS	pos2=NNP	11	pobj	_	L-ORG
+

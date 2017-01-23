@@ -1,0 +1,19 @@
+1	@truthglow	@truthglow	UH	pos2=XX	4	discourse	_	O
+2	@katalin_pota	@katalin_pota	UH	pos2=GW	4	discourse	_	O
+3	@BasemntDwllng	@basemntdwllng	VBG	pos2=UH	4	nmod	_	O
+4	@SenWarren2020	@senwarren0	NN	pos2=ADD	7	nmod	_	O
+5	@elizabethforma	@elizabethforma	UH	pos2=FW	9	discourse	_	O
+6	@SenatorWarren	@senatorwarren	NNP	pos2=ADD	7	neg	_	U-PERSON
+7	Everyone	everyone	NN	pos2=NNP	12	nsubj	_	O
+8	that	that	WDT	_	9	nsubj	_	O
+9	got	get	VBD	_	7	relcl	_	O
+10	us	us	PRP	_	9	dobj	_	O
+11	here	here	RB	_	9	advmod	_	O
+12	&	&	CC	_	13	cc	_	O
+13	in	in	IN	_	0	root	_	O
+14	a	a	DT	_	17	det	_	O
+15	grand	grand	JJ	pos2=FW	17	nmod	_	O
+16	DJT	djt	NNP	pos2=NN	17	compound	_	U-ORG
+17	fashion	fashion	NN	_	13	pobj	_	O
+18	,,	,,	,	pos2=.	7	punct	_	O
+

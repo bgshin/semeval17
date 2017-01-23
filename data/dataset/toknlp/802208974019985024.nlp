@@ -1,0 +1,22 @@
+1	@HillaryClinton	@hillaryclinton	NN	pos2=ADD	2	compound	_	O
+2	deadline	deadline	NN	_	5	nsubj	_	O
+3	for	for	IN	_	2	prep	_	O
+4	WI	wi	NN	pos2=NNP	3	pobj	_	U-ORG
+5	is	be	VBZ	_	0	root	_	O
+6	today	today	NN	_	5	npadvmod	_	U-DATE
+7	and	and	CC	_	5	cc	_	O
+8	hoping	hope	VBG	_	5	conj	_	O
+9	your	your	PRP$	_	10	poss	_	O
+10	people	people	NNS	_	11	nsubj	_	O
+11	are	be	VBP	_	8	ccomp	_	O
+12	on	on	IN	_	11	prep	_	O
+13	it	it	PRP	_	12	pobj	_	O
+14	and	and	CC	_	11	cc	_	O
+15	NOT	not	RB	_	21	neg	_	O
+16	this	this	DT	_	20	det	_	O
+17	lying	lie	VBG	_	20	nmod	_	O
+18	Putin	putin	NNP	_	20	nmod	_	U-PERSON
+19	loving	love	VBG	pos2=JJ	20	nmod	_	O
+20	scammer	scammer	NN	_	21	dep	_	O
+21	https://t.co/IhwJtXmBBK	#hlink#	ADD	_	5	dep	_	U-ORG
+

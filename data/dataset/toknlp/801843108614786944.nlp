@@ -1,0 +1,23 @@
+1	#Iran	#iran	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	rejects	reject	VBZ	_	0	root	_	O
+3	Israel	israel	NNP	_	5	poss	_	U-GPE
+4	's	's	POS	_	3	case	_	O
+5	claim	claim	NN	_	2	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	arms	arm	NNS	_	8	compound	_	O
+8	transfers	transfer	NNS	pos2=VBZ	6	pobj	_	O
+9	to	to	IN	pos2=TO	8	prep	_	O
+10	#Hezbollah	#hezbollah	NNP	pos2=VB	9	pobj	_	U-ORG
+11	on	on	IN	_	8	prep	_	O
+12	commercial	commercial	JJ	_	13	nmod	_	O
+13	flights	flight	NNS	_	11	pobj	_	O
+14	-	-	:	pos2=,	13	punct	_	O
+15	'	'	``	pos2=SYM	20	punct	_	O
+16	absurd	absurd	JJ	_	22	nmod	_	O
+17	and	and	CC	_	16	cc	_	O
+18	evidence	evidence	NN	_	20	npadvmod	_	O
+19	-	-	HYPH	_	20	punct	_	O
+20	free	free	JJ	_	16	conj	_	O
+21	'	'	''	pos2=POS	22	punct	_	O
+22	https://t.co/FTZfORUkEB	#hlink#	ADD	pos2=NN	2	dobj	_	U-WORK_OF_ART
+

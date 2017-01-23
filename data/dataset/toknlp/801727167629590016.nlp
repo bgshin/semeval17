@@ -1,0 +1,19 @@
+1	#Hezbollah	#hezbollah	NNP	pos2=NN	3	poss	_	U-ORG
+2	’s	's	POS	_	1	case	_	O
+3	power	power	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	unrivaled	unrivaled	JJ	_	4	acomp	_	O
+6	in	in	IN	_	4	prep	_	O
+7	#Lebanon	#lebanon	NNP	_	6	pobj	_	O
+8	&	&	CC	_	4	cc	_	O
+9	also	also	RB	_	8	advmod	_	O
+10	a	a	DT	_	12	det	_	O
+11	potential	potential	JJ	_	12	nmod	_	O
+12	weakness	weakness	NN	_	7	appos	_	O
+13	,	,	,	_	14	punct	_	O
+14	says	say	VBZ	_	4	conj	_	O
+15	@omer_einav	@omer_einav	IN	pos2=-LRB-	14	prep	_	O
+16	https://t.co/xp2yQmuwGK	#hlink#	ADD	pos2=JJ	18	nmod	_	O
+17	cc	cc	NN	pos2=NNS	18	compound	_	O
+18	@INSSIsrael	@inssisrael	NN	pos2=ADD	15	pobj	_	O
+

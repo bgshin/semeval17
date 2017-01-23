@@ -1,0 +1,22 @@
+1	What	what	WP	_	2	attr	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	it	it	PRP	_	2	nsubj	_	O
+4	with	with	IN	_	2	prep	_	O
+5	the	the	DT	_	11	det	_	O
+6	Alt	alt	NNP	pos2=JJ	11	compound	_	O
+7	-	-	HYPH	_	2	punct	_	O
+8	Right	right	NNP	pos2=JJ	13	compound	_	O
+9	Nazi	nazi	NNP	pos2=NN	11	compound	_	O
+10	-	-	HYPH	_	11	punct	_	O
+11	squad	squad	NN	pos2=XX	4	pobj	_	O
+12	disliking	dislike	VBG	_	11	acl	_	O
+13	Romney	romney	NNP	_	12	dobj	_	U-PERSON
+14	?	?	.	_	2	punct	_	O
+
+1	Get	get	VB	_	0	root	_	O
+2	over	over	IN	_	1	prep	_	O
+3	it	it	PRP	_	2	pobj	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	https://t.co/hK7rZHx8jM	#hlink#	ADD	_	0	root	_	U-ORG
+

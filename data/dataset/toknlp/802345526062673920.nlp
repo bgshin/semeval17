@@ -1,0 +1,31 @@
+1	It	it	PRP	_	7	nsubj	_	O
+2	wo	wo	MD	_	7	aux	_	O
+3	n't	not	RB	_	2	neg	_	O
+4	and	and	CC	_	2	cc	_	O
+5	you	you	PRP	pos2=VB	7	nsubj	_	O
+6	Dems	dems	NNPS	_	7	nsubj	_	U-NORP
+7	look	look	VB	pos2=VBP	0	root	_	O
+8	smart	smart	JJ	_	7	acomp	_	O
+9	not	not	RB	_	10	neg	_	O
+10	going	go	VBG	_	7	dep	_	O
+11	with	with	IN	_	10	prep	_	O
+12	Ryan	ryan	NNP	_	11	pobj	_	U-PERSON
+13	and	and	CC	_	10	cc	_	O
+14	moth	moth	NN	_	15	compound	_	O
+15	balling	balling	NN	pos2=VBG	16	compound	_	O
+16	Pelosi	pelosi	NNP	_	12	conj	_	U-PERSON
+17	.	.	.	_	7	punct	_	O
+
+1	Ryan	ryan	NNP	_	2	nsubj	_	U-PERSON
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	ticket	ticket	NN	_	2	attr	_	O
+5	to	to	TO	pos2=IN	6	aux	_	O
+6	win	win	VB	_	4	acl	_	O
+7	2020	0	CD	_	6	dobj	_	U-DATE
+8	.	.	.	_	2	punct	_	O
+
+1	Mode	mode	NN	pos2=GW	3	nmod	_	O
+2	…	…	NFP	pos2=:	3	punct	_	O
+3	https://t.co/sinvi2cNw2	#hlink#	ADD	_	0	root	_	O
+

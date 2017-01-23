@@ -1,0 +1,19 @@
+1	ISIS	isis	NNP	pos2=NN	7	vocative	_	U-ORG
+2	and	and	CC	_	1	cc	_	O
+3	The	the	DT	_	4	det	_	O
+4	CIA	cia	NNP	_	1	conj	_	U-ORG
+5	What	what	WP	pos2=WDT	9	dobj	_	O
+6	You	you	PRP	pos2=NNP	7	nsubj	_	O
+7	Need	need	VBP	_	0	root	_	O
+8	To	to	TO	_	9	aux	_	O
+9	Know	know	VB	_	7	xcomp	_	O
+10	!	!	.	_	7	punct	_	O
+
+1	https://t.co/i4xho7SNTy	#hlink#	ADD	_	0	root	_	U-ORG
+2	#ISIS	#isis	NN	pos2=VBZ	5	nmod	_	O
+3	#falseflag	#falseflag	UH	pos2=XX	2	discourse	_	O
+4	#saudi	#saudi	UH	pos2=FW	5	discourse	_	O
+5	#CIA	#cia	NN	pos2=$	0	root	_	O
+6	#mossad	#mossad	UH	pos2=XX	5	discourse	_	O
+7	#israel	#israel	UH	pos2=.	5	discourse	_	O
+

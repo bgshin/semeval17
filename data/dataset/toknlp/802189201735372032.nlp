@@ -1,0 +1,16 @@
+1	#ECJ	#ecj	NN	pos2=NNS	0	root	_	O
+2	due	due	IN	pos2=JJ	1	prep	_	O
+3	to	to	TO	pos2=IN	4	aux	_	O
+4	hear	hear	VB	_	2	xcomp	_	O
+5	the	the	DT	_	8	det	_	O
+6	Spanish	spanish	JJ	pos2=NNP	8	nmod	_	U-NORP
+7	#Uber	#uber	NNP	pos2=NN	8	compound	_	U-PERSON
+8	case	case	NN	_	4	dobj	_	O
+9	on	on	IN	_	4	prep	_	O
+10	29	0	CD	_	11	nmod	_	B-DATE
+11	November	november	NNP	_	12	compound	_	I-DATE
+12	@hubertandela	@hubertandela	NN	pos2=NNP	13	compound	_	I-DATE
+13	@BZPorg	@bzporg	NNP	pos2=XX	9	pobj	_	L-DATE
+14	@GTLtaxi	@gtltaxi	ADD	pos2=XX	13	appos	_	O
+15	@TLPAtweet	@tlpatweet	ADD	pos2=NNP	14	pobj	_	O
+

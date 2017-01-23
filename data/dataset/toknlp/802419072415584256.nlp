@@ -1,0 +1,31 @@
+1	@mitchell1297	@mitchell0	NN	pos2=UH	3	npadvmod	_	O
+2	she	she	PRP	_	3	nsubj	_	O
+3	plans	plan	VBZ	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	rig	rig	VB	_	3	xcomp	_	O
+6	the	the	DT	_	7	det	_	O
+7	recount	recount	NN	_	5	dobj	_	O
+8	...	..	.	_	3	punct	_	O
+
+1	so	so	RB	pos2=IN	6	advmod	_	O
+2	the	the	DT	_	4	det	_	O
+3	Trump	trump	NNP	pos2=NN	4	compound	_	U-ORG
+4	admin	admin	NN	pos2=RB	6	nsubj	_	O
+5	better	well	RBR	pos2=JJR	6	advmod	_	O
+6	be	be	VB	_	0	root	_	O
+7	ahead	ahead	RB	_	6	advmod	_	O
+8	of	of	IN	_	7	prep	_	O
+9	this	this	DT	_	8	pobj	_	O
+10	.	.	.	_	6	punct	_	O
+
+1	Even	even	RB	_	2	advmod	_	O
+2	Obama	obama	NNP	_	5	nsubj	_	U-PERSON
+3	did	do	VBD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	want	want	VB	_	0	root	_	O
+6	her	her	PRP	_	8	nsubj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	do	do	VB	_	5	ccomp	_	O
+9	it	it	PRP	_	8	dobj	_	O
+10	.	.	.	_	5	punct	_	O
+

@@ -1,0 +1,19 @@
+1	@DrEstella	@drestella	NN	pos2=ADD	3	compound	_	O
+2	@DrJillStein	@drjillstein	NNP	pos2=NN	3	compound	_	B-PERSON
+3	Time	time	NN	pos2=NNP	0	root	_	L-PERSON
+4	to	to	TO	_	5	aux	_	O
+5	rectify	rectify	VB	_	3	relcl	_	O
+6	this	this	DT	_	9	det	_	O
+7	voter	voter	NN	_	8	compound	_	O
+8	registration	registration	NN	_	9	compound	_	O
+9	system	system	NN	_	5	dobj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	MUST	must	MD	_	2	aux	_	O
+2	require	require	VB	_	0	root	_	O
+3	pic	pic	NN	pos2=JJ	4	compound	_	O
+4	ID	id	NN	_	2	dobj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	vote	vote	VB	_	2	xcomp	_	O
+7	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,16 @@
+1	Watch	watch	VB	pos2=NNP	0	root	_	O
+2	@BookTV	@booktv	NNP	pos2=PRP	4	poss	_	U-ORG
+3	's	's	POS	_	2	case	_	O
+4	coverage	coverage	NN	_	1	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	#NBAwards	#nbawards	NNP	pos2=ADD	7	compound	_	O
+7	Winner	winner	NNP	pos2=NN	5	pobj	_	O
+8	@colsonwhitehead	@colsonwhitehead	IN	pos2=XX	1	prep	_	O
+9	discussing	discuss	VBG	_	8	pcomp	_	O
+10	THE	the	DT	_	12	det	_	O
+11	UNDERGROUND	underground	JJ	pos2=NNP	12	nmod	_	O
+12	RAILROAD	railroad	NN	pos2=NNP	9	dobj	_	O
+13	at	at	IN	_	9	prep	_	O
+14	@MiamiBookFair	@miamibookfair	ADD	pos2=NNP	13	pobj	_	O
+15	https://t.co/OUusyxHOly	#hlink#	ADD	_	13	pobj	_	O
+

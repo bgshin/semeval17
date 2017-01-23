@@ -1,0 +1,26 @@
+1	@ilovaussiesheps	@ilovaussiesheps	UH	pos2=NNS	8	discourse	_	O
+2	@cindynorth1	@cindynorth0	UH	pos2=LS	8	discourse	_	O
+3	Yeah	yeah	UH	_	8	discourse	_	O
+4	,	,	,	_	8	punct	_	O
+5	I	I	PRP	_	8	nsubj	_	O
+6	'm	be	VBP	_	8	aux	_	O
+7	really	really	RB	_	8	advmod	_	O
+8	looking	look	VBG	_	0	root	_	O
+9	forward	forward	RB	_	8	advmod	_	O
+10	to	to	IN	_	8	prep	_	O
+11	the	the	DT	_	15	det	_	O
+12	constant	constant	JJ	_	15	nmod	_	O
+13	Medicaid	medicaid	NNP	_	15	compound	_	U-ORG
+14	paperwork	paperwork	NN	_	15	compound	_	O
+15	deluge	deluge	NN	_	10	pobj	_	O
+16	for	for	IN	_	8	prep	_	O
+17	years	year	NNS	_	16	pobj	_	B-DATE
+18	on	on	IN	_	17	prep	_	I-DATE
+19	end	end	NN	_	18	pobj	_	L-DATE
+20	.	.	.	_	8	punct	_	O
+
+1	So	so	RB	_	2	advmod	_	O
+2	much	much	JJ	pos2=RB	3	nmod	_	O
+3	fun	fun	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+

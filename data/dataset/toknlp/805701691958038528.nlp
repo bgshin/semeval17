@@ -1,0 +1,30 @@
+1	Horrible	horrible	JJ	_	2	nmod	_	O
+2	waking	wake	VBG	pos2=NN	0	root	_	O
+3	up	up	RP	pos2=RB	2	prt	_	O
+4	early	early	RB	_	2	advmod	_	O
+5	on	on	IN	pos2=RB	2	prep	_	O
+6	your	your	PRP$	_	7	poss	_	O
+7	day	day	NN	_	5	pobj	_	O
+8	off	off	RP	pos2=RB	2	prt	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	Especially	especially	RB	_	2	advmod	_	O
+2	after	after	IN	_	5	prep	_	O
+3	that	that	DT	_	4	det	_	O
+4	result	result	NN	pos2=JJ	2	pobj	_	O
+5	yesterday	yesterday	NN	_	0	root	_	U-DATE
+6	...	..	.	_	2	punct	_	O
+
+1	Ah	ah	UH	_	7	discourse	_	O
+2	well	well	UH	pos2=RB	7	discourse	_	O
+3	TWD	twd	NNP	pos2=NN	7	nsubj	_	B-ORG
+4	&	&	CC	_	3	cc	_	I-ORG
+5	Westworld	westworld	NNP	_	3	conj	_	L-ORG
+6	will	will	MD	_	7	aux	_	O
+7	sooth	sooth	VB	_	0	root	_	O
+8	the	the	DT	_	9	det	_	O
+9	pain	pain	NN	_	7	dobj	_	O
+10	i	I	PRP	_	11	nsubj	_	O
+11	hope	hope	VBP	_	9	relcl	_	O
+12	🤔	🤔	NNP	pos2=.	11	ccomp	_	U-PERSON
+

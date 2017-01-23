@@ -1,0 +1,9 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@poroshenko	@poroshenko	UH	pos2=DT	4	discourse	_	O
+2	Names	name	NNPS	pos2=NNS	4	compound	_	O
+3	Mushka	mushka	NNP	_	4	compound	_	B-PERSON
+4	#Ambassador	#ambassador	NNP	pos2=XX	0	root	_	L-PERSON
+5	To	to	IN	pos2=TO	4	prep	_	O
+6	#Slovakia	#slovakia	NNP	pos2=ADD	5	pobj	_	U-GPE
+

@@ -1,0 +1,18 @@
+1	@LorettaLynch	@lorettalynch	VB	pos2=NN	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+
+1	@NewYorkFBI	@newyorkfbi	NNS	pos2=ADD	3	nsubj	_	O
+2	@FBIWFO	@fbiwfo	MD	pos2=POS	3	aux	_	O
+3	Look	look	VB	_	0	root	_	O
+4	what	what	WP	pos2=WDT	6	dobj	_	O
+5	Comey	comey	NNP	_	6	nsubj	_	U-PERSON
+6	did	do	VBD	_	3	ccomp	_	O
+7	2R	0r	NN	pos2=NNP	10	compound	_	B-ORG
+8	Country	country	NNP	pos2=NN	10	compound	_	I-ORG
+9	CNNPolitics	cnnpolitics	NNPS	pos2=NNP	10	compound	_	I-ORG
+10	@MSNBC	@msnbc	NNP	pos2=POS	12	compound	_	L-ORG
+11	@NBCPolitics	@nbcpolitics	NNS	pos2=NNPS	12	compound	_	O
+12	@ABCPolitics	@abcpolitics	NNS	pos2=GW	14	dep	_	O
+13	…	…	NFP	pos2=-LRB-	14	punct	_	O
+14	https://t.co/dHBYExCiD3	#hlink#	ADD	pos2=NN	3	dep	_	O
+

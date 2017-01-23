@@ -1,0 +1,6 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	❤	❤	NFP	pos2=JJR	2	discourse	_	O
+4	#ThisIsUs	#thisisus	ADD	pos2=GW	5	punct	_	O
+5	https://t.co/JaSBgCqJFH	#hlink#	ADD	_	2	attr	_	O
+

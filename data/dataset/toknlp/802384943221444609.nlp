@@ -1,0 +1,24 @@
+1	Bob	bob	NNP	_	2	compound	_	B-PERSON
+2	Dylan	dylan	NNP	_	11	vocative	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	Roger	roger	NNP	_	5	compound	_	B-PERSON
+5	McGuinn	mcguinn	NNP	_	2	conj	_	L-PERSON
+6	&	&	CC	_	5	cc	_	O
+7	an	an	DT	pos2=CC	5	conj	_	O
+8	all	all	DT	_	10	det	_	O
+9	star	star	NN	pos2=JJ	10	compound	_	O
+10	lineup	lineup	NN	_	11	nsubj	_	O
+11	sing	sing	VB	pos2=VBP	0	root	_	O
+12	My	my	PRP$	_	14	poss	_	O
+13	Back	back	NNP	pos2=NN	14	compound	_	O
+14	Pages	page	NNS	pos2=NNP	11	dobj	_	O
+15	at	at	IN	_	11	prep	_	O
+16	the	the	DT	_	19	det	_	O
+17	30th	#ord#	JJ	pos2=NNP	19	nmod	_	U-ORDINAL
+18	Anniversary	anniversary	NNP	pos2=NN	19	compound	_	B-EVENT
+19	Concert	concert	NNP	pos2=NN	15	pobj	_	L-EVENT
+20	in	in	IN	_	19	prep	_	O
+21	1993	0	CD	_	20	pobj	_	U-DATE
+22	-	-	:	pos2=HYPH	23	punct	_	O
+23	https://t.co/A7LhGRqLOV	#hlink#	ADD	pos2=NN	11	dep	_	O
+

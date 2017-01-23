@@ -1,0 +1,9 @@
+1	Persona	persona	NN	pos2=NNP	6	dep	_	O
+2	5	0	CD	_	6	dep	_	U-CARDINAL
+3	Trailer	trailer	NN	pos2=NNP	4	compound	_	O
+4	Reaction	reaction	NN	_	6	dep	_	O
+5	:	:	:	_	6	punct	_	O
+6	https://t.co/gbpy9vVE7e	#hlink#	ADD	_	0	root	_	O
+7	via	via	IN	_	6	prep	_	O
+8	@YouTube	@youtube	NNP	pos2=NN	7	pobj	_	O
+

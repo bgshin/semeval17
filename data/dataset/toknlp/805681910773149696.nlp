@@ -1,0 +1,19 @@
+1	Is	be	VBZ	_	0	root	_	O
+2	that	that	DT	pos2=IN	7	mark	_	O
+3	Manuel	manuel	NNP	_	6	poss	_	U-PERSON
+4	'	'	POS	pos2=``	3	case	_	O
+5	France	france	NNP	_	6	compound	_	U-GPE
+6	wil	wil	NNP	pos2=MD	7	nsubj	_	O
+7	have	have	VBP	pos2=VB	1	ccomp	_	O
+8	to	to	TO	_	9	aux	_	O
+9	learn	learn	VB	_	7	xcomp	_	O
+10	to	to	TO	_	11	aux	_	O
+11	live	live	VB	_	9	xcomp	_	O
+12	with	with	IN	_	11	prep	_	O
+13	terrorism	terrorism	NN	_	15	poss	_	O
+14	'	'	POS	pos2=''	13	case	_	O
+15	Valls	valls	NNP	pos2=NNPS	12	pobj	_	U-PERSON
+16	?	?	.	_	1	punct	_	O
+
+1	https://t.co/09LRJk8baK	#hlink#	ADD	_	0	root	_	U-ORG
+

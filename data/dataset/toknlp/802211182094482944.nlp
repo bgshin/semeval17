@@ -1,0 +1,19 @@
+1	DIANA	diana	NNP	pos2=NN	2	vocative	_	U-PERSON
+2	LET	let	VB	pos2=VBD	0	root	_	O
+3	ME	me	PRP	_	4	nsubj	_	O
+4	BE	be	VB	pos2=IN	2	ccomp	_	O
+5	THE	the	DT	_	6	det	_	O
+6	ONE	#crd#	CD	pos2=NN	4	attr	_	U-CARDINAL
+7	TO	to	IN	pos2=TO	8	aux	_	O
+8	LIGHT	light	VB	pos2=NNP	6	relcl	_	O
+9	A	a	DT	pos2=NN	10	det	_	O
+10	FIRE	fire	NN	_	8	dobj	_	O
+11	INSIDE	inside	IN	_	8	prep	_	O
+12	THOSE	those	DT	_	13	det	_	O
+13	EYES	eye	NNS	_	11	pobj	_	O
+14	.	.	.	_	2	punct	_	O
+
+1	#onedirection	#onedirection	NN	pos2=ADD	3	compound	_	O
+2	#	#	NN	pos2=$	3	compound	_	O
+3	3YearsofMidnightMemories	0yearsofmidnightmemories	NNS	pos2=NN	0	root	_	U-MONEY
+

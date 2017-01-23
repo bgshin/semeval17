@@ -1,0 +1,18 @@
+1	Iraqi	iraqi	JJ	pos2=NNP	2	nmod	_	U-NORP
+2	Forces	force	NNPS	pos2=NNS	3	nsubj	_	O
+3	set	set	VBN	pos2=VBP	0	root	_	O
+4	to	to	TO	pos2=IN	5	aux	_	O
+5	storm	storm	VB	pos2=NN	3	xcomp	_	O
+6	3	0	CD	_	7	nmod	_	U-CARDINAL
+7	areas	area	NNS	_	5	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	#Mosul	#mosul	NNP	pos2=NN	8	pobj	_	U-GPE
+10	,	,	,	_	9	punct	_	O
+11	#AlQahira	#alqahira	NNP	pos2=XX	9	conj	_	U-GPE
+12	,	,	,	_	11	punct	_	O
+13	#alMasarif	#almasarif	NNP	pos2=XX	11	conj	_	B-ORG
+14	&	&	CC	_	13	cc	_	I-ORG
+15	#alAmn#MosulOps#mosuloffensive#iraq#ISIS	#alamn#mosulops#mosuloffensive#iraq#isis	GW	pos2=NNP	13	conj	_	L-ORG
+16	…	…	NFP	pos2=GW	17	punct	_	O
+17	https://t.co/Zbh7yCLvEP	#hlink#	ADD	pos2=NN	3	dep	_	U-ORG
+

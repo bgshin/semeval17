@@ -1,0 +1,22 @@
+1	Can	can	MD	_	6	aux	_	O
+2	two	#crd#	CD	_	5	nmod	_	U-CARDINAL
+3	medical	medical	JJ	_	4	nmod	_	O
+4	marijuana	marijuana	NN	_	5	compound	_	O
+5	users	user	NNS	_	6	nsubj	_	O
+6	force	force	VBP	pos2=NN	0	root	_	O
+7	AZ	az	NNP	_	9	compound	_	B-ORG
+8	Health	health	NNP	_	9	compound	_	I-ORG
+9	Dept.	dept.	NNP	_	6	dobj	_	L-ORG
+10	to	to	TO	pos2=IN	11	aux	_	O
+11	lower	lower	VB	_	6	xcomp	_	O
+12	its	its	PRP$	_	16	poss	_	O
+13	$	$	$	_	14	nmod	_	O
+14	150	0	CD	_	16	nmod	_	U-MONEY
+15	annual	annual	JJ	_	16	nmod	_	U-DATE
+16	fee	fee	NN	_	11	dobj	_	O
+17	for	for	IN	_	11	prep	_	O
+18	patients	patient	NNS	_	17	pobj	_	O
+19	?	?	.	_	6	punct	_	O
+
+1	https://t.co/pLElSAmYFP	#hlink#	ADD	_	0	root	_	U-ORG
+

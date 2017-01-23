@@ -1,0 +1,24 @@
+1	Pitying	pity	VBG	_	0	root	_	O
+2	the	the	DT	_	5	det	_	O
+3	poor	poor	JJ	_	5	nmod	_	O
+4	Norwegian	norwegian	JJ	_	5	nmod	_	U-NORP
+5	minister	minister	NN	_	1	dobj	_	O
+6	visiting	visit	VBG	_	5	acl	_	O
+7	Brexit	brexit	NNP	pos2=NN	8	compound	_	U-ORG
+8	ministers	minister	NNS	_	6	dobj	_	O
+9	Boris	boris	NNP	_	10	compound	_	B-PERSON
+10	Johnson	johnson	NNP	_	8	appos	_	L-PERSON
+11	,	,	,	_	10	punct	_	O
+12	David	david	NNP	_	13	compound	_	B-PERSON
+13	Davis	davis	NNP	_	10	conj	_	L-PERSON
+14	&	&	CC	_	13	cc	_	O
+15	Liam	liam	NNP	_	16	compound	_	B-PERSON
+16	Fox	fox	NNP	_	13	conj	_	L-PERSON
+17	today	today	NN	_	6	npadvmod	_	U-DATE
+18	.	.	.	_	1	punct	_	O
+
+1	A	a	DT	pos2=NN	2	det	_	O
+2	while	while	IN	pos2=NN	4	nmod	_	O
+3	…	…	NFP	pos2=VBG	4	punct	_	O
+4	https://t.co/iJC8tsHPou	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,12 @@
+1	Someone	someone	NN	_	2	nsubj	_	O
+2	get	get	VB	pos2=VBP	0	root	_	O
+3	@Kaepernick7	@kaepernick0	PRP	pos2=CD	2	dative	_	O
+4	a	a	DT	_	8	det	_	O
+5	Kim	kim	NNP	_	7	compound	_	B-PERSON
+6	Jong	jong	NNP	_	7	compound	_	L-PERSON
+7	Un	un	NNP	_	8	compound	_	O
+8	t-shirt	t-shirt	NN	pos2=NNP	2	dobj	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	https://t.co/zL5pucrFQQ	#hlink#	ADD	_	0	root	_	U-ORG
+

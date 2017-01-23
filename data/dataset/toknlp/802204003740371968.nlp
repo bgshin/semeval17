@@ -1,0 +1,18 @@
+1	Report	report	NN	_	3	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	The	the	DT	_	5	det	_	O
+4	rickety	rickety	JJ	_	5	nmod	_	O
+5	finances	finance	NNS	_	0	root	_	O
+6	behind	behind	IN	_	5	prep	_	O
+7	the	the	DT	_	10	det	_	O
+8	Dakota	dakota	NNP	_	10	compound	_	O
+9	Access	access	NNP	_	10	compound	_	O
+10	Pipeline	pipeline	NNP	pos2=NN	6	pobj	_	O
+11	.	.	.	_	6	punct	_	O
+
+1	#NoDAPL	#nodapl	ADD	pos2=-LRB-	2	dep	_	O
+2	https://t.co/K5YaeYosao	#hlink#	ADD	_	5	dep	_	O
+3	@ClarkWDerry	@clarkwderry	-RRB-	pos2=ADD	2	punct	_	O
+4	@IEEFA	@ieefa	NN	pos2=ADD	5	compound	_	O
+5	@Sightline	@sightline	NN	pos2=NNP	0	root	_	O
+

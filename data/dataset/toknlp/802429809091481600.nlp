@@ -1,0 +1,24 @@
+1	Surely	surely	RB	_	3	advmod	_	O
+2	#Trump	#trump	NNP	pos2=WP	3	nsubj	_	U-ORG
+3	knows	know	VBZ	_	0	root	_	O
+4	#Romney	#romney	NNP	_	5	nsubj	_	U-ORG
+5	's	's	VBZ	pos2=POS	3	ccomp	_	O
+6	a	a	DT	_	7	det	_	O
+7	spy	spy	NN	_	5	attr	_	O
+8	for	for	IN	_	7	prep	_	O
+9	elite	elite	JJ	pos2=NN	10	nmod	_	O
+10	Conservatives	conservative	NNS	pos2=NNPS	8	pobj	_	O
+11	petrified	petrify	VBN	pos2=JJ	10	acl	_	O
+12	by	by	IN	_	11	agent	_	O
+13	the	the	DT	_	17	det	_	O
+14	'	'	``	_	17	punct	_	O
+15	Strangelovian	strangelovian	JJ	pos2=NNP	17	nmod	_	O
+16	'	'	''	_	17	punct	_	O
+17	group	group	NN	_	12	pobj	_	O
+18	so	so	RB	pos2=IN	19	advmod	_	O
+19	far	far	RB	_	20	advmod	_	O
+20	assembled	assemble	VBN	_	15	conj	_	O
+21	.	.	.	_	3	punct	_	O
+
+1	https://t.co/gmsAqeWudj	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,22 @@
+1	“	"	``	_	4	punct	_	O
+2	Rape	rape	NN	pos2=NNP	4	nsubj	_	O
+3	”	"	''	_	2	punct	_	O
+4	means	mean	VBZ	_	0	root	_	O
+5	sexual	sexual	JJ	_	6	nmod	_	O
+6	intercourse	intercourse	NN	_	4	dobj	_	O
+7	without	without	IN	_	4	prep	_	O
+8	valid	valid	JJ	_	9	nmod	_	O
+9	consent	consent	NN	_	7	pobj	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	(	(	-LRB-	_	5	punct	_	O
+2	UN	un	NNP	pos2=NN	4	compound	_	U-ORG
+3	-	-	HYPH	pos2=,	4	punct	_	O
+4	CTS	cts	NNP	pos2=NN	5	compound	_	O
+5	M3.4	m0	NN	pos2=NNP	0	root	_	O
+6	)	)	-RRB-	_	5	punct	_	O
+7	.	.	.	_	5	punct	_	O
+
+1	#rape	#rape	UH	pos2=XX	2	discourse	_	O
+2	#unitednations	#unitednations	UH	pos2=NNS	0	root	_	O
+

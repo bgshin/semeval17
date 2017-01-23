@@ -1,0 +1,24 @@
+1	#GAMES	#games	NNS	pos2=NN	8	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	PlayStation	playstation	NNP	pos2=NN	4	compound	_	O
+4	VR	vr	NN	_	8	dep	_	O
+5	:	:	:	_	8	punct	_	O
+6	Top	top	JJ	pos2=NNP	8	nmod	_	O
+7	10	0	CD	_	8	nmod	_	U-CARDINAL
+8	Games	game	NNS	pos2=NNPS	13	npadvmod	_	O
+9	,	,	,	_	13	punct	_	O
+10	Google	google	NNP	_	12	compound	_	B-ORG
+11	Earth	earth	NNP	_	12	compound	_	I-ORG
+12	VR	vr	NNP	pos2=NN	17	compound	_	L-ORG
+13	verf&uuml	verf&uuml	RB	pos2=XX	15	parataxis	_	O
+14	;	;	,	pos2=:	12	punct	_	O
+15	gbar	gbar	NN	pos2=RB	19	dep	_	O
+16	&	&	CC	_	15	cc	_	O
+17	amp	amp	NN	_	15	conj	_	O
+18	;	;	,	pos2=:	19	punct	_	O
+19	...	..	.	pos2=,	0	root	_	O
+
+1	https://t.co/RY4ICjITJt	#hlink#	ADD	_	0	root	_	O
+2	#playstation	#playstation	-RRB-	pos2=ADD	1	punct	_	O
+3	#sony	#sony	UH	pos2=-RRB-	1	discourse	_	O
+

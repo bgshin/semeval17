@@ -1,0 +1,18 @@
+1	UN	un	NNP	_	17	dep	_	U-ORG
+2	Eliminating	eliminate	VBG	pos2=NNP	17	dep	_	O
+3	Violence	violence	NN	pos2=NNP	2	dobj	_	O
+4	Against	against	IN	pos2=NNP	3	prep	_	O
+5	Women	women	NNP	pos2=NNPS	8	compound	_	B-EVENT
+6	World	world	NNP	_	17	dep	_	I-EVENT
+7	Orange	orange	NNP	_	8	compound	_	I-EVENT
+8	Day	day	NNP	_	17	dep	_	L-EVENT
+9	#itfseq	#itfseq	XX	pos2=NNP	17	dep	_	O
+10	#itftkd	#itftkd	XX	pos2=FW	17	dep	_	O
+11	#tkd	#tkd	XX	pos2=FW	17	dep	_	O
+12	#martailarts	#martailarts	XX	pos2=UH	17	dep	_	O
+13	#brisbane	#brisbane	XX	pos2=UH	17	dep	_	O
+14	#safe	#safe	XX	pos2=UH	17	dep	_	O
+15	#safety	#safety	XX	pos2=GW	17	nmod	_	O
+16	…	…	NFP	pos2=XX	17	punct	_	O
+17	https://t.co/ytHpOAlVMQ	#hlink#	ADD	_	0	root	_	O
+

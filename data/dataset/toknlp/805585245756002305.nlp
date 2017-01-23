@@ -1,0 +1,26 @@
+1	@LyleShelton	@lyleshelton	ADD	pos2=NN	2	compound	_	O
+2	euthanasia	euthanasia	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	those	those	DT	_	4	pobj	_	O
+6	suffering	suffer	VBG	pos2=NN	5	acl	_	O
+7	terminally	terminally	RB	_	9	advmod	_	O
+8	health	health	NN	pos2=RB	9	npadvmod	_	O
+9	wise	wise	JJ	pos2=NN	5	nmod	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	But	but	CC	_	8	cc	_	O
+2	,	,	,	_	8	punct	_	O
+3	do	do	VBP	_	8	aux	_	O
+4	you	you	PRP	_	8	nsubj	_	O
+5	or	or	CC	_	4	cc	_	O
+6	your	your	PRP$	_	7	poss	_	O
+7	organisation	organisation	NN	_	4	conj	_	O
+8	help	help	VB	pos2=VBP	0	root	_	O
+9	those	those	DT	_	8	dobj	_	O
+10	who	who	WP	_	12	nsubj	_	O
+11	are	be	VBP	_	12	aux	_	O
+12	feeling	feel	VBG	_	9	relcl	_	O
+13	suicidal	suicidal	JJ	_	12	acomp	_	O
+14	?	?	.	_	8	punct	_	O
+

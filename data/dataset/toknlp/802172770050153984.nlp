@@ -1,0 +1,8 @@
+1	EXACTLY	exactly	RB	_	2	advmod	_	O
+2	AT	at	IN	_	6	prep	_	O
+3	VALENTINES	valentines	NNP	pos2=NNS	4	compound	_	O
+4	DAY	day	NNP	pos2=NN	2	pobj	_	O
+5	,	,	,	_	6	punct	_	O
+6	REALLY	really	RB	_	0	root	_	O
+7	?	?	.	_	6	punct	_	O
+

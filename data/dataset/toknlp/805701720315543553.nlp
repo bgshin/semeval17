@@ -1,0 +1,15 @@
+1	Can	can	MD	_	6	aux	_	O
+2	someone	someone	NN	_	0	root	_	O
+3	who	who	WP	_	4	nsubj	_	O
+4	watched	watch	VBD	_	2	relcl	_	O
+5	#westworld	#westworld	NNP	pos2=MD	6	nsubj	_	O
+6	explain	explain	VB	_	4	ccomp	_	O
+7	to	to	IN	_	6	prep	_	O
+8	me	me	PRP	_	7	pobj	_	O
+9	what	what	WP	_	14	pobj	_	O
+10	the	the	DT	_	11	det	_	O
+11	fuck	fuck	NN	_	13	nsubj	_	O
+12	is	be	VBZ	_	13	aux	_	O
+13	going	go	VBG	_	6	ccomp	_	O
+14	in	in	RB	pos2=IN	13	advmod	_	O
+

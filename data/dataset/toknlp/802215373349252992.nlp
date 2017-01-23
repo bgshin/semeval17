@@ -1,0 +1,22 @@
+1	Hope	hope	VBP	pos2=VB	0	root	_	O
+2	everyone	everyone	NN	_	3	nsubj	_	O
+3	had	have	VBD	_	1	ccomp	_	O
+4	a	a	DT	_	6	det	_	O
+5	great	great	JJ	_	6	nmod	_	O
+6	Thanksgiving	thanksgiving	NNP	pos2=NN	3	dobj	_	U-EVENT
+7	!!	!!	.	_	1	punct	_	O
+
+1	Thankful	thankful	JJ	_	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	all	all	PDT	_	6	predet	_	O
+4	the	the	DT	_	6	det	_	O
+5	wonderful	wonderful	JJ	_	6	nmod	_	O
+6	members	member	NNS	_	2	pobj	_	O
+7	we	we	PRP	_	8	nsubj	_	O
+8	are	be	VBP	_	6	relcl	_	O
+9	so	so	RB	_	10	advmod	_	O
+10	#blessed	#blessed	JJ	pos2=PRP	8	acomp	_	O
+11	to	to	TO	_	12	aux	_	O
+12	have	have	VB	_	10	xcomp	_	O
+13	!	!	.	_	1	punct	_	O
+

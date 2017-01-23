@@ -1,0 +1,12 @@
+1	What	what	WP	_	2	attr	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	Your	your	PRP$	_	4	poss	_	O
+4	Choice	choice	NN	pos2=NNP	2	nsubj	_	O
+5	?	?	.	_	2	punct	_	O
+
+1	#	#	NN	_	2	dep	_	O
+2	1	0	LS	pos2=CD	5	meta	_	U-MONEY
+3	D	d	NN	pos2=JJ	5	dep	_	O
+4	#OneDirection	#onedirection	ADD	pos2=NN	5	dep	_	O
+5	https://t.co/i401hSqJlA	#hlink#	ADD	_	0	root	_	O
+

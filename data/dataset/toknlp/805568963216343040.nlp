@@ -1,0 +1,27 @@
+1	@MarlaMHughes	@marlamhughes	NNS	pos2=VBZ	8	nsubj	_	O
+2	15	0	CD	_	3	nmod	_	B-PERCENT
+3	%	%	NN	_	1	appos	_	L-PERCENT
+4	of	of	IN	_	3	prep	_	O
+5	voter	voter	NN	_	6	compound	_	O
+6	registration	registration	NN	_	7	compound	_	O
+7	rolls	roll	NNS	_	4	pobj	_	O
+8	are	be	VBP	_	0	root	_	O
+9	inaccurate	inaccurate	JJ	_	8	acomp	_	O
+10	&	&	CC	_	9	cc	_	O
+11	allowing	allow	VBG	_	9	conj	_	O
+12	for	for	IN	_	11	prep	_	O
+13	voting	voting	NN	pos2=VBG	14	compound	_	O
+14	fraud	fraud	NN	_	12	pobj	_	O
+15	.	.	.	_	8	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	left	left	NN	pos2=JJ	4	nsubj	_	O
+3	is	be	VBZ	_	4	aux	_	O
+4	trying	try	VBG	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	steal	steal	VB	_	4	xcomp	_	O
+7	the	the	DT	_	8	det	_	O
+8	election	election	NN	_	6	dobj	_	O
+9	now	now	RB	_	6	advmod	_	O
+10	.	.	.	_	4	punct	_	O
+

@@ -1,0 +1,19 @@
+1	92	0	CD	pos2=LS	9	dep	_	U-CARDINAL
+2	News	news	NNP	pos2=NN	3	compound	_	B-ORG
+3	HD	hd	NNP	pos2=NN	4	compound	_	L-ORG
+4	Official	official	JJ	pos2=NN	0	root	_	O
+5	-	-	:	pos2=HYPH	9	punct	_	O
+6	https://t.co/K7Epi0a9pO	#hlink#	ADD	pos2=NN	11	nmod	_	O
+7	Samsung	samsung	NNP	_	8	compound	_	B-ORG
+8	Galaxy	galaxy	NNP	_	11	nmod	_	L-ORG
+9	Note	note	VBP	pos2=VB	0	root	_	O
+10	7	0	CD	pos2=IN	11	nmod	_	U-CARDINAL
+11	EXPLOSIONS	explosion	NNS	_	14	nsubj	_	O
+12	have	have	VBP	_	14	aux	_	O
+13	not	not	RB	_	14	neg	_	O
+14	damaged	damage	VBN	_	9	ccomp	_	O
+15	brand	brand	NN	_	14	dobj	_	O
+16	,	,	,	_	17	punct	_	O
+17	says	say	VBZ	_	0	root	_	O
+18	poll	poll	NN	_	17	nsubj	_	O
+

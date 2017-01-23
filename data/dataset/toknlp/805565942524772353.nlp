@@ -1,0 +1,23 @@
+1	.	.	.	_	0	punct	_	O
+
+1	Sheep	sheep	NN	pos2=NNP	3	nsubj	_	O
+2	allegedly	allegedly	RB	_	3	advmod	_	O
+3	left	leave	VBN	pos2=JJ	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	awful	awful	JJ	_	6	nmod	_	O
+6	state	state	NN	_	4	pobj	_	O
+7	for	for	IN	_	3	prep	_	O
+8	several	several	JJ	_	9	nmod	_	B-DATE
+9	days	day	NNS	_	7	pobj	_	L-DATE
+10	,	,	,	_	3	punct	_	O
+11	lying	lie	VBG	_	3	advcl	_	O
+12	in	in	IN	pos2=RP	11	prep	_	O
+13	own	own	JJ	_	14	nmod	_	O
+14	feces	feces	NNS	_	12	pobj	_	O
+15	,	,	,	_	11	punct	_	O
+16	before	before	IN	_	11	prep	_	O
+17	being	be	VBG	_	18	auxpass	_	O
+18	euthanized	euthanize	VBN	_	16	pcomp	_	O
+19	https://t.co/Y1o1YXJJKS	#hlink#	ADD	_	20	nmod	_	O
+20	#CambridgeKillers	#cambridgekillers	NNS	pos2=ADD	18	dobj	_	O
+

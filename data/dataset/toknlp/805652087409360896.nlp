@@ -1,0 +1,12 @@
+1	4.3	0	CD	pos2=LS	7	npadvmod	_	U-CARDINAL
+2	–	-	:	pos2=HYPH	7	punct	_	O
+3	Update	update	NN	pos2=VB	7	dep	_	O
+4	:	:	:	_	7	punct	_	O
+5	death	death	NN	_	6	compound	_	O
+6	penalty	penalty	NN	_	7	nsubj	_	O
+7	passes	pass	VBZ	pos2=NNS	0	root	_	O
+8	in	in	IN	_	7	prep	_	O
+9	state	state	NN	_	10	compound	_	O
+10	initiatives	initiative	NNS	_	8	pobj	_	O
+11	https://t.co/t1HncaXkJE	#hlink#	ADD	_	7	dep	_	O
+

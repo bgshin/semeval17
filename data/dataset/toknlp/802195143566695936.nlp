@@ -1,0 +1,17 @@
+1	Anti	anti	AFX	pos2=RB	3	nmod	_	O
+2	#Houthi	#houthi	HYPH	pos2=JJ	3	det	_	O
+3	fighters	fighter	NNS	_	5	nsubj	_	O
+4	are	be	VBP	_	5	aux	_	O
+5	setting	set	VBG	_	0	root	_	O
+6	military	military	JJ	_	7	nmod	_	O
+7	positions	position	NNS	_	5	dobj	_	O
+8	near	near	IN	pos2=RB	7	prep	_	O
+9	#medical	#medical	JJ	pos2=DT	10	nmod	_	O
+10	facilities	facility	NNS	_	8	pobj	_	O
+11	in	in	IN	_	10	prep	_	O
+12	#Taiz	#taiz	NNP	pos2=NNS	13	compound	_	B-LOC
+13	#Yemen	#yemen	NNP	pos2=CD	14	compound	_	L-LOC
+14	@amnesty	@amnesty	NN	pos2=IN	11	pobj	_	O
+15	:	:	:	_	5	punct	_	O
+16	https://t.co/bHD4GaqFlF	#hlink#	ADD	_	5	dep	_	O
+

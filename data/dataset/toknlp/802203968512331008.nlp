@@ -1,0 +1,14 @@
+1	#FantasticBeasts	#fantasticbeasts	NNS	pos2=ADD	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	good	good	JJ	_	2	acomp	_	O
+4	except	except	IN	_	2	prep	_	O
+5	for	for	IN	_	4	prep	_	O
+6	the	the	DT	_	10	det	_	O
+7	incredibly	incredibly	RB	_	8	advmod	_	O
+8	stupid	stupid	JJ	_	10	nmod	_	O
+9	'	'	``	pos2=''	10	punct	_	O
+10	twist	twist	NN	_	5	pobj	_	O
+11	'	'	''	_	10	punct	_	O
+12	ending	end	VBG	pos2=NN	10	acl	_	O
+13	:/	:/	''	pos2=.	2	punct	_	O
+

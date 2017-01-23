@@ -1,0 +1,28 @@
+1	@alabed_banana	@alabed_banana	UH	pos2=NNP	5	discourse	_	O
+2	@ZainaErhaim	@zainaerhaim	UH	pos2=GW	5	discourse	_	O
+3	#SYRIA	#syria	UH	pos2=$	5	discourse	_	O
+4	It	it	PRP	_	5	nsubj	_	O
+5	's	's	VBZ	_	0	root	_	O
+6	not	not	RB	_	5	neg	_	O
+7	a	a	DT	_	9	det	_	O
+8	fake	fake	JJ	_	9	nmod	_	O
+9	account	account	NN	_	5	attr	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	Bana	bana	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	6	det	_	O
+4	real	real	JJ	_	6	nmod	_	O
+5	7yo	0yo	NN	pos2=JJ	6	compound	_	O
+6	girl	girl	NN	_	2	attr	_	O
+7	in	in	IN	_	6	prep	_	O
+8	E.#ALEPPO	e.#aleppo	NNP	pos2=NN	7	pobj	_	U-GPE
+9	.	.	.	_	2	punct	_	O
+
+1	ISP	isp	NN	pos2=NNP	2	compound	_	O
+2	data	datum	NNS	pos2=NN	6	nsubj	_	O
+3	&	&	CC	_	2	cc	_	O
+4	other	other	JJ	_	5	nmod	_	O
+5	…	…	NFP	pos2=-LRB-	2	conj	_	O
+6	https://t.co/ZMczjZCmRm	#hlink#	ADD	_	0	root	_	U-ORG
+

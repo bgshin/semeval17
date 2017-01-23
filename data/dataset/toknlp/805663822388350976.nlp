@@ -1,0 +1,17 @@
+1	Reunited	reunite	VBN	pos2=VBD	8	advcl	_	O
+2	in	in	IN	_	1	prep	_	O
+3	death	death	NN	_	2	pobj	_	O
+4	:	:	:	_	8	punct	_	O
+5	Fidel	fidel	NNP	_	6	compound	_	B-PERSON
+6	Castro	castro	NNP	_	8	nsubj	_	I-PERSON
+7	’s	's	POS	_	6	case	_	L-PERSON
+8	remains	remain	VBZ	pos2=NNS	0	root	_	O
+9	rest	rest	NN	pos2=RB	8	acomp	_	O
+10	at	at	IN	_	9	prep	_	O
+11	Che	che	NNP	_	12	compound	_	B-PERSON
+12	Guevara	guevara	NNP	_	13	compound	_	L-PERSON
+13	mausoleum	mausoleum	NN	pos2=GW	10	pobj	_	O
+14	https://t.co/MkiVRCbt0w	#hlink#	ADD	pos2=''	9	appos	_	O
+15	via	via	IN	_	8	prep	_	O
+16	@arynewsofficial	@arynewsofficial	JJ	pos2=.	15	pobj	_	O
+

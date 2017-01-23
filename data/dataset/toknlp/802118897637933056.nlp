@@ -1,0 +1,15 @@
+1	Indian	indian	JJ	_	2	nmod	_	U-NORP
+2	forces	force	NNS	_	6	compound	_	O
+3	fire	fire	NN	pos2=VBP	6	compound	_	O
+4	pellet	pellet	NN	_	6	compound	_	O
+5	gun	gun	NN	_	6	compound	_	O
+6	shots	shot	NNS	_	0	root	_	O
+7	on	on	IN	_	6	prep	_	O
+8	protesters.#BFOK	protesters.#bfok	NNP	pos2=.	11	compound	_	B-ORG
+9	#Kashmir	#kashmir	NNP	pos2=ADD	11	compound	_	I-ORG
+10	#India	#india	NNP	pos2=POS	11	compound	_	L-ORG
+11	#Pakistan	#pakistan	NNP	pos2=ADD	12	compound	_	O
+12	#UnitedNations	#unitednations	NNS	pos2=GW	7	pobj	_	O
+13	#HumanRights	#humanrights	ADD	pos2=GW	12	appos	_	O
+14	https://t.co/zZDxej5B6C	#hlink#	ADD	_	13	pobj	_	U-ORG
+

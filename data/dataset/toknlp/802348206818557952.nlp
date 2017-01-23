@@ -1,0 +1,25 @@
+1	White	white	NNP	pos2=JJ	2	compound	_	B-ORG
+2	House	house	NNP	_	3	compound	_	L-ORG
+3	staffers	staffer	NNS	pos2=VBZ	4	nsubj	_	O
+4	stage	stage	VBP	pos2=NN	0	root	_	O
+5	a	a	DT	pos2=CD	7	det	_	O
+6	'	'	``	_	7	punct	_	O
+7	protest	protest	NN	pos2=VB	4	dobj	_	O
+8	'	'	''	_	7	punct	_	O
+9	against	against	IN	_	7	prep	_	O
+10	someone	someone	NN	_	9	pobj	_	O
+11	pooping	poop	VBG	pos2=NN	10	acl	_	O
+12	in	in	IN	_	11	prep	_	O
+13	their	their	PRP$	_	14	poss	_	O
+14	oatmeal	oatmeal	NN	_	12	pobj	_	O
+15	.	.	.	_	4	punct	_	O
+
+1	Also	also	RB	_	3	advmod	_	O
+2	strongly	strongly	RB	_	3	advmod	_	O
+3	blame	blame	VBP	pos2=VB	0	root	_	O
+4	Trump	trump	NNP	_	3	dobj	_	B-ORG
+5	for	for	IN	_	3	prep	_	I-ORG
+6	Hill	hill	NNP	_	5	pobj	_	L-ORG
+7	…	…	NFP	pos2=NNP	8	punct	_	O
+8	https://t.co/v7dKUQYslH	#hlink#	ADD	_	3	dep	_	O
+

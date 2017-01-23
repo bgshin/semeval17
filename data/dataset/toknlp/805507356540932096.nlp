@@ -1,0 +1,26 @@
+1	@BrianWhittle	@brianwhittle	UH	pos2=ADD	4	discourse	_	O
+2	@JayPeace44	@jaypeace0	UH	pos2=NN	4	discourse	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	not	not	RB	_	4	neg	_	O
+6	paradise	paradise	NN	pos2=JJ	4	attr	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	Many	many	JJ	_	2	nmod	_	O
+2	issues	issue	NNS	_	6	nsubjpass	_	O
+3	still	still	RB	_	6	advmod	_	O
+4	to	to	TO	_	6	aux	_	O
+5	be	be	VB	_	6	auxpass	_	O
+6	resolved	resolve	VBN	_	0	root	_	O
+7	.	.	.	_	6	punct	_	O
+
+1	Many	many	JJ	_	2	nmod	_	O
+2	issues	issue	NNS	_	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	Cuba	cuba	NNP	_	3	pobj	_	U-GPE
+5	however	however	RB	_	6	advmod	_	O
+6	exacerbated	exacerbate	VBN	pos2=VBD	2	acl	_	O
+7	by	by	IN	_	6	agent	_	O
+8	US	us	NNP	_	9	compound	_	U-GPE
+9	embargo	embargo	NN	pos2=FW	7	pobj	_	O
+

@@ -1,0 +1,25 @@
+1	Avena	avena	NNP	pos2=NN	2	compound	_	U-PERSON
+2	sativa	sativa	NN	pos2=NNP	11	dep	_	O
+3	:	:	:	_	11	punct	_	O
+4	for	for	IN	_	21	prep	_	O
+5	physical	physical	JJ	_	8	nmod	_	O
+6	and	and	CC	_	5	cc	_	O
+7	intellectual	intellectual	JJ	_	5	conj	_	O
+8	fatigue	fatigue	NN	_	4	pobj	_	O
+9	:	:	:	_	11	punct	_	O
+10	Avena	avena	NNP	_	11	compound	_	U-PERSON
+11	sativa	sativa	NN	pos2=NNP	21	nsubjpass	_	O
+12	,	,	,	_	11	punct	_	O
+13	also	also	RB	_	14	advmod	_	O
+14	known	know	VBN	_	11	acl	_	O
+15	as	as	IN	_	14	prep	_	O
+16	the	the	DT	_	18	det	_	O
+17	common	common	JJ	_	18	nmod	_	O
+18	oat	oat	NN	pos2=NNP	15	pobj	_	O
+19	,	,	,	_	21	punct	_	O
+20	is	be	VBZ	_	21	auxpass	_	O
+21	used	use	VBN	_	0	root	_	O
+22	in	in	IN	pos2=RP	21	prep	_	O
+23	…	…	NFP	pos2=-LRB-	22	pobj	_	O
+24	https://t.co/YcYDfNKaTg	#hlink#	ADD	pos2=NN	22	pobj	_	U-GPE
+

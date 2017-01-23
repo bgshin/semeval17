@@ -1,0 +1,29 @@
+1	Drug	drug	NN	_	2	compound	_	O
+2	addiction	addiction	NN	_	4	nsubj	_	O
+3	is	be	VBZ	_	4	aux	_	O
+4	overwhelming	overwhelm	VBG	pos2=JJ	0	root	_	O
+5	Trump	trump	NNP	pos2=NN	7	poss	_	U-ORG
+6	’s	's	POS	_	5	case	_	O
+7	America	america	NNP	_	4	dobj	_	U-GPE
+8	.	.	.	_	4	punct	_	O
+
+1	What	what	WP	_	6	dobj	_	O
+2	’s	's	VBZ	_	4	aux	_	O
+3	he	he	PRP	_	4	nsubj	_	O
+4	going	go	VBG	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	do	do	VB	_	4	xcomp	_	O
+7	?	?	.	_	4	punct	_	O
+
+1	https://t.co/jWfM6LRZNs	#hlink#	ADD	pos2=NN	3	nsubj	_	O
+2	--	--	:	pos2=,	10	punct	_	O
+3	Gon	gon	VBG	pos2=VB	10	ccomp	_	O
+4	na	to	TO	_	5	aux	_	O
+5	deport	deport	VB	_	3	xcomp	_	O
+6	bad	bad	JJ	_	7	nmod	_	O
+7	hombres	hombre	NNS	_	5	dobj	_	O
+8	:	:	:	_	10	punct	_	O
+9	problem	problem	NN	_	10	nsubj	_	O
+10	solved	solve	VBN	_	0	root	_	O
+11	.	.	.	_	10	punct	_	O
+

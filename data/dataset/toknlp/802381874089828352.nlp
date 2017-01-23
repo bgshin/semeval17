@@ -1,0 +1,29 @@
+1	@IvanRott	@ivanrott	ADD	pos2=VB	5	nsubj	_	O
+2	@VanJones68	@vanjones0	IN	pos2=VBD	1	prep	_	O
+3	These	these	DT	_	4	det	_	O
+4	liberals	liberal	NNS	_	2	pobj	_	O
+5	wanted	want	VBD	_	0	root	_	O
+6	nothing	nothing	NN	_	5	dobj	_	O
+7	more	more	JJR	pos2=RBR	6	nmod	_	O
+8	then	then	RB	_	5	advmod	_	O
+9	to	to	TO	_	10	aux	_	O
+10	keep	keep	VB	_	5	advcl	_	O
+11	the	the	DT	_	14	det	_	O
+12	real	real	JJ	_	14	nmod	_	O
+13	USA	usa	NNP	_	14	compound	_	U-GPE
+14	content	content	NN	_	10	dobj	_	O
+15	,	,	,	_	10	punct	_	O
+16	to	to	TO	_	17	aux	_	O
+17	be	be	VB	_	10	dep	_	O
+18	able	able	JJ	_	17	acomp	_	O
+19	to	to	TO	_	21	aux	_	O
+20	just	just	RB	_	21	advmod	_	O
+21	make	make	VB	_	18	xcomp	_	O
+22	it	it	PRP	_	21	dobj	_	O
+23	.	.	.	_	5	punct	_	O
+
+1	46	0	CD	_	2	nmod	_	U-CARDINAL
+2	mil	mil	NN	pos2=NNS	0	root	_	O
+3	on	on	IN	_	2	prep	_	O
+4	Foodstamps	foodstamps	NNS	pos2=NNP	3	pobj	_	O
+

@@ -1,0 +1,20 @@
+1	#glory	#glory	UH	pos2=NN	2	discourse	_	O
+2	#duet	#duet	UH	pos2=NN	11	nsubj	_	O
+3	at	at	IN	_	2	prep	_	O
+4	the	the	DT	_	6	det	_	O
+5	#thankyouobama	#thankyouobama	NN	pos2=NNP	6	compound	_	O
+6	concert	concert	NN	_	3	pobj	_	O
+7	with	with	IN	_	6	prep	_	O
+8	@common	@common	NNP	pos2=NN	7	pobj	_	U-ORG
+9	and	and	CC	_	8	cc	_	O
+10	yolandaadams	yolandaadams	NNS	pos2=PRP$	8	conj	_	O
+11	killed	kill	VBD	_	0	root	_	O
+12	it	it	PRP	_	11	dobj	_	O
+13	.	.	.	_	11	punct	_	O
+
+1	Her	her	PRP$	_	2	poss	_	O
+2	voice	voice	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	…	…	NFP	pos2=-LRB-	3	discourse	_	O
+5	https://t.co/z20aS3xiU9	#hlink#	ADD	_	3	attr	_	O
+

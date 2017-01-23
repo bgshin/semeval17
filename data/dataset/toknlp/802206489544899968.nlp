@@ -1,0 +1,8 @@
+1	Watch	watch	VB	pos2=NNP	0	root	_	O
+2	Taylor	taylor	NNP	_	3	compound	_	B-PERSON
+3	Swift	swift	NNP	_	6	poss	_	I-PERSON
+4	's	's	POS	_	3	case	_	L-PERSON
+5	amazing	amazing	JJ	_	6	nmod	_	O
+6	#MannequinChallenge	#mannequinchallenge	NN	pos2=ADD	1	dobj	_	O
+7	https://t.co/8cvKxvHyQy	#hlink#	ADD	_	1	dep	_	O
+

@@ -1,0 +1,19 @@
+1	Melania	melania	NNP	pos2=NN	2	compound	_	B-PERSON
+2	TrumpModel	trumpmodel	NNP	_	3	nsubj	_	L-PERSON
+3	Married	married	JJ	pos2=NNP	0	root	_	O
+4	to	to	IN	_	3	prep	_	O
+5	:	:	:	_	4	punct	_	O
+6	Donald	donald	NNP	_	7	compound	_	B-PERSON
+7	Trump	trump	NNP	_	4	pobj	_	L-PERSON
+8	,	,	,	_	7	punct	_	O
+9	Chairman	chairman	NNP	_	7	appos	_	O
+10	of	of	IN	_	9	prep	_	O
+11	The	the	DT	pos2=NNP	13	det	_	B-ORG
+12	Trump	trump	NNP	_	13	compound	_	I-ORG
+13	Organization	organization	NNP	_	10	pobj	_	L-ORG
+14	and	and	CC	_	9	cc	_	O
+15	2016	0	CD	_	16	nmod	_	U-DATE
+16	Candidate	candidate	NN	pos2=NNP	13	prep	_	O
+17	f	f	IN	pos2=GW	16	prep	_	O
+18	https://t.co/AcSNpzs839	#hlink#	ADD	pos2=NN	17	pobj	_	O
+

@@ -1,0 +1,25 @@
+1	KD	kd	NN	pos2=NNP	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	lunch	lunch	NN	_	2	pobj	_	O
+4	and	and	CC	_	1	cc	_	O
+5	the	the	DT	_	7	det	_	O
+6	last	last	JJ	_	7	nmod	_	O
+7	episode	episode	NN	_	1	conj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	season	season	NN	_	8	pobj	_	O
+10	6	0	CD	_	9	nmod	_	U-CARDINAL
+11	of	of	IN	_	9	prep	_	O
+12	#TheWalkingDead	#thewalkingdead	NN	pos2=NNP	11	pobj	_	O
+13	--	--	:	pos2=,	15	punct	_	O
+14	Batter	batter	NN	pos2=NNP	16	poss	_	O
+15	's	's	POS	pos2=VBZ	14	case	_	O
+16	up	up	NN	pos2=RB	12	appos	_	O
+17	!	!	.	_	1	punct	_	O
+
+1	Then	then	RB	_	3	advmod	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	on	on	IN	_	3	prep	_	O
+5	to	to	IN	pos2=TO	4	prep	_	O
+6	7.	0.	.	pos2=CD	3	punct	_	U-CARDINAL
+

@@ -1,0 +1,18 @@
+1	Check	check	VB	_	0	root	_	O
+2	out	out	RP	_	1	prt	_	O
+3	our	our	PRP$	_	4	poss	_	O
+4	video	video	NN	_	1	dobj	_	O
+5	on	on	IN	_	1	prep	_	O
+6	learning	learn	VBG	pos2=NN	5	pcomp	_	O
+7	to	to	TO	_	8	aux	_	O
+8	perch	perch	VB	_	6	xcomp	_	O
+9	a	a	DT	_	10	det	_	O
+10	#uav	#uav	NN	pos2=XX	8	dobj	_	O
+11	using	use	VBG	_	8	advcl	_	O
+12	deep	deep	JJ	_	13	nmod	_	O
+13	reinforcement	reinforcement	NN	_	11	dobj	_	O
+14	learning	learn	VBG	pos2=NN	17	nmod	_	O
+15	@BristolRobotLab	@bristolrobotlab	GW	pos2=XX	17	nmod	_	B-LOC
+16	@DeepMindAI	@deepmindai	GW	pos2=ADD	17	nmod	_	L-LOC
+17	https://t.co/nVffgsYBz5	#hlink#	ADD	pos2=NN	1	dep	_	O
+

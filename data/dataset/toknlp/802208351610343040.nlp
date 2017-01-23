@@ -1,0 +1,12 @@
+1	NPU	npu	NN	pos2=NNP	11	dep	_	U-ORG
+2	supporters#NPU	supporters#npu	XX	pos2=FW	11	dep	_	O
+3	#NinevehPlain	#ninevehplain	XX	pos2=ADD	11	dep	_	O
+4	#N_P_U	#n_p_u	XX	pos2=$	11	dep	_	O
+5	#Nineveh	#nineveh	XX	pos2=NNP	11	dep	_	O
+6	#Iraq	#iraq	XX	pos2=NNP	11	dep	_	O
+7	#ISIS	#isis	XX	pos2=NN	11	dep	_	O
+8	#NPDF	#npdf	XX	pos2=GW	11	dep	_	O
+9	#MosulOps#وحدات_حماية_سهل_نينوى	#mosulops#وحدات_حماية_سهل_نينوى	XX	pos2=GW	11	nmod	_	O
+10	…	…	NFP	pos2=XX	11	punct	_	O
+11	https://t.co/pzqbwUPL0M	#hlink#	ADD	_	0	root	_	O
+

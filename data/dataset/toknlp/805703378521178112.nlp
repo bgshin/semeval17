@@ -1,0 +1,16 @@
+1	Eversheds	eversheds	NNP	pos2=NNS	5	poss	_	U-ORG
+2	'	'	POS	pos2=''	1	case	_	O
+3	UK	uk	NNP	_	5	compound	_	B-ORG
+4	Immigration	immigration	NNP	_	5	compound	_	I-ORG
+5	Ebriefing	ebriefing	NNP	pos2=NNPS	8	dep	_	L-ORG
+6	:	:	:	_	8	punct	_	O
+7	HMRC	hmrc	NNP	pos2=NN	8	nsubj	_	U-ORG
+8	consults	consult	VBZ	pos2=NNS	0	root	_	O
+9	on	on	IN	pos2=RB	8	prep	_	O
+10	-	-	HYPH	_	9	punct	_	O
+11	Publications	publication	NNS	pos2=NNPS	9	pobj	_	O
+12	-	-	HYPH	pos2=,	8	punct	_	O
+13	Eversheds	eversheds	NNP	_	15	nmod	_	B-ORG
+14	International	international	NNP	pos2=JJ	15	nmod	_	L-ORG
+15	https://t.co/AJcetzYcCn	#hlink#	ADD	pos2=NNP	8	dep	_	O
+

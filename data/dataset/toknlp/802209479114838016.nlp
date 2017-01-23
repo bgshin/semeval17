@@ -1,0 +1,18 @@
+1	NO	no	UH	_	4	discourse	_	O
+2	,	,	,	_	4	punct	_	O
+3	it	it	PRP	_	0	root	_	O
+4	does	do	VBZ	_	0	root	_	O
+5	not	not	RB	_	4	neg	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	Popular	popular	JJ	pos2=NNP	2	nmod	_	O
+2	vote	vote	NN	_	5	nsubj	_	O
+3	does	do	VBZ	_	5	aux	_	O
+4	not	not	RB	_	5	neg	_	O
+5	count	count	VB	_	0	root	_	O
+6	doofus	doofus	NN	pos2=NNS	5	dobj	_	O
+7	.	.	.	_	5	punct	_	O
+
+1	@rweingarten	@rweingarten	UH	pos2=NN	2	discourse	_	O
+2	@HillaryClinton	@hillaryclinton	ADD	pos2=NNP	0	root	_	U-PERSON
+

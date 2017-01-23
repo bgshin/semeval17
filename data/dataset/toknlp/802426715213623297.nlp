@@ -1,0 +1,16 @@
+1	Humans	human	NNS	_	4	nsubj	_	O
+2	No	no	RB	pos2=DT	3	neg	_	O
+3	Longer	long	RBR	pos2=NNP	4	advmod	_	O
+4	Need	need	VBP	pos2=VB	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	Tell	tell	VB	_	4	xcomp	_	O
+7	Machines	machines	NNP	pos2=NNS	6	dobj	_	O
+8	What	what	WP	pos2=WDT	11	pobj	_	O
+9	to	to	TO	pos2=IN	10	aux	_	O
+10	Look	look	VB	pos2=NNP	6	xcomp	_	O
+11	For	for	IN	_	10	prep	_	O
+12	https://t.co/Jjc20LN1vb	#hlink#	ADD	pos2=NN	15	nmod	_	B-ORG
+13	vía	vía	NNP	pos2=-RRB-	14	compound	_	I-ORG
+14	@Futurism	@futurism	NNP	pos2=POS	15	compound	_	L-ORG
+15	#robots	#robots	NNS	pos2=UH	11	pobj	_	O
+

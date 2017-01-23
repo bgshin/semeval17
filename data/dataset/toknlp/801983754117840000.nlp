@@ -1,0 +1,7 @@
+1	Those	those	DT	_	2	det	_	O
+2	Chanels	chanels	NNS	pos2=NNPS	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	#ScreamQueens	#screamqueens	ADD	pos2=NNS	2	punct	_	O
+2	https://t.co/PUYrKhHjtj	#hlink#	ADD	_	0	root	_	O
+

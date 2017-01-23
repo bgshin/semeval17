@@ -1,0 +1,16 @@
+1	...	..	.	pos2=NFP	0	predet	_	O
+
+1	and	and	CC	_	8	cc	_	O
+2	Kaepernick	kaepernick	NNP	_	8	nsubj	_	U-PERSON
+3	,	,	,	_	2	punct	_	O
+4	Obama	obama	NNP	_	2	conj	_	U-PERSON
+5	&	&	CC	_	4	cc	_	O
+6	Michael	michael	NNP	_	7	compound	_	B-PERSON
+7	Moore	moore	NNP	_	4	conj	_	L-PERSON
+8	weep	weep	VB	pos2=VBD	0	root	_	O
+9	unending	unending	JJ	_	10	nmod	_	O
+10	tears	tear	NNS	_	8	dobj	_	O
+11	.	.	.	_	8	punct	_	O
+
+1	https://t.co/vQxUqOWg9h	#hlink#	ADD	_	0	root	_	U-ORG
+

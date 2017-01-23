@@ -1,0 +1,23 @@
+1	Funny	funny	JJ	_	4	dep	_	O
+2	how	how	WRB	_	4	advmod	_	O
+3	Warren	warren	NNP	_	4	nsubj	_	U-GPE
+4	attempts	attempt	VBZ	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	use	use	VB	_	4	xcomp	_	O
+7	terms	term	NNS	_	6	dobj	_	O
+8	she	she	PRP	_	9	nsubj	_	O
+9	appears	appear	VBZ	_	7	relcl	_	O
+10	were	be	VBD	pos2=WRB	9	ccomp	_	O
+11	unavailable	unavailable	JJ	_	10	acomp	_	O
+12	in	in	IN	_	11	prep	_	O
+13	her	her	PRP$	_	14	poss	_	O
+14	vocabulary	vocabulary	NN	_	12	pobj	_	O
+15	when	when	WRB	_	19	advmod	_	O
+16	the	the	DT	_	18	det	_	O
+17	vast	vast	JJ	_	18	nmod	_	O
+18	majority	majority	NN	_	14	appos	_	O
+19	of	of	RB	pos2=IN	18	prep	_	O
+20	...	..	.	pos2=,	4	punct	_	O
+
+1	https://t.co/edn0lsb1XC	#hlink#	ADD	_	0	root	_	U-ORG
+

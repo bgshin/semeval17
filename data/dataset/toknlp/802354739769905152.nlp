@@ -1,0 +1,26 @@
+1	@LeahR77	@leahr0	NN	pos2=NNS	0	root	_	O
+2	...	..	.	pos2=,	1	punct	_	O
+
+1	And	and	CC	_	3	cc	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	thought	think	VBD	pos2=VBP	0	root	_	O
+4	that	that	IN	pos2=DT	9	mark	_	O
+5	only	only	RB	_	8	advmod	_	O
+6	Nancy	nancy	NNP	_	8	compound	_	B-PERSON
+7	Pelosi	pelosi	NNP	_	8	compound	_	L-PERSON
+8	@NancyPelosi	@nancypelosi	NNP	pos2=ADD	9	nsubj	_	O
+9	was	be	VBD	_	3	ccomp	_	O
+10	the	the	DT	_	12	det	_	O
+11	craziest	crazy	JJS	_	12	nmod	_	O
+12	Democrat	democrat	NNP	_	9	attr	_	U-NORP
+13	of	of	IN	_	12	prep	_	O
+14	them	them	PRP	_	13	pobj	_	O
+15	all	all	DT	_	14	appos	_	O
+16	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	guess	guess	VBP	_	0	root	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	was	be	VBD	_	2	ccomp	_	O
+5	wrong	wrong	JJ	_	4	acomp	_	O
+

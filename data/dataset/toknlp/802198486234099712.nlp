@@ -1,0 +1,25 @@
+1	Always	always	RB	_	2	advmod	_	O
+2	interesting	interesting	JJ	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	see	see	VB	_	2	advcl	_	O
+5	if	if	IN	_	7	mark	_	O
+6	rightists	rightist	NNS	_	7	nsubj	_	O
+7	oppose	oppose	VBP	_	4	ccomp	_	O
+8	using	use	VBG	_	7	xcomp	_	O
+9	cultural	cultural	JJ	_	10	nmod	_	O
+10	Marxism	marxism	NNP	pos2=NN	8	dobj	_	O
+11	to	to	TO	pos2=IN	12	aux	_	O
+12	change	change	VB	_	8	xcomp	_	O
+13	Islam	islam	NNP	_	12	dobj	_	U-ORG
+14	or	or	CC	_	7	cc	_	O
+15	if	if	IN	_	17	mark	_	O
+16	they	they	PRP	_	17	nsubj	_	O
+17	go	go	VBP	_	7	conj	_	O
+18	full	full	JJ	pos2=RB	20	nmod	_	O
+19	Sam	sam	NNP	_	20	compound	_	B-PERSON
+20	Harris	harris	NNP	_	17	dobj	_	L-PERSON
+21	.	.	.	_	2	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/cjBwwkDFf4	#hlink#	ADD	pos2=NN	0	root	_	O
+

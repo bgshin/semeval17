@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det	_	O
+2	latest	late	JJS	_	7	advmod	_	O
+3	The	the	DT	pos2=NNP	7	det	_	O
+4	Omeopatia	omeopatia	NNP	_	6	compound	_	O
+5	-	-	HYPH	pos2=:	6	punct	_	O
+6	Homeopathy	homeopathy	NNP	_	7	compound	_	O
+7	Weekly	weekly	NNP	pos2=RB	0	root	_	O
+8	!	!	.	_	2	punct	_	O
+
+1	https://t.co/K9wHxEUVOh	#hlink#	ADD	_	0	root	_	U-ORG
+

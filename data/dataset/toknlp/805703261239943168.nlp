@@ -1,0 +1,24 @@
+1	FACT	fact	NN	_	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	there	there	EX	_	4	expl	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	NO	no	DT	_	7	det	_	O
+6	online	online	JJ	pos2=RB	7	nmod	_	O
+7	gun	gun	NN	_	4	attr	_	O
+8	"	"	``	pos2=''	9	punct	_	O
+9	loophole	loophole	NN	_	7	appos	_	O
+10	"	"	''	_	9	punct	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	READ	read	VB	pos2=NN	0	root	_	O
+2	>>	>>	-RRB-	pos2=-LRB-	1	punct	_	O
+3	https://t.co/P0lMjDeh3o	#hlink#	ADD	pos2=NN	11	dep	_	O
+4	#	#	NN	pos2=-LRB-	7	compound	_	O
+5	2A	0a	NN	pos2=LS	7	compound	_	U-MONEY
+6	#NRA	#nra	NN	pos2=GW	7	compound	_	O
+7	#PJNET	#pjnet	NN	pos2=XX	11	dep	_	O
+8	#tgdn	#tgdn	UH	pos2=XX	7	discourse	_	O
+9	#tcot	#tcot	UH	pos2=GW	11	nmod	_	O
+10	#teaparty	#teaparty	UH	pos2=GW	11	discourse	_	O
+11	https://t.co/NskQYa5s7U	#hlink#	ADD	pos2=UH	1	dep	_	O
+

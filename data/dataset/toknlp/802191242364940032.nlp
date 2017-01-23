@@ -1,0 +1,11 @@
+1	@backlace	@backlace	UH	pos2=NN	3	aux	_	O
+2	"	"	``	pos2=''	3	punct	_	O
+3	arriving	arrive	VBG	_	0	root	_	O
+4	the	the	DT	_	6	det	_	B-DATE
+5	same	same	JJ	_	6	nmod	_	I-DATE
+6	day	day	NN	_	3	npadvmod	_	L-DATE
+7	as	as	IN	_	6	prep	_	O
+8	Persona	persona	NN	pos2=NNP	7	pobj	_	O
+9	5	0	CD	_	8	nmod	_	U-CARDINAL
+10	"	"	''	pos2=NNS	3	punct	_	O
+

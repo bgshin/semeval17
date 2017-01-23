@@ -1,0 +1,15 @@
+1	#Libya	#libya	NN	pos2=NNS	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	430	0	CD	_	5	nmod	_	U-CARDINAL
+4	#US	#us	NN	pos2=JJ	5	compound	_	O
+5	airstrikes	airstrike	NNS	_	0	root	_	O
+6	against	against	IN	_	5	prep	_	O
+7	#ISIS	#isis	NN	pos2=NNP	6	pobj	_	O
+8	in	in	IN	_	5	prep	_	O
+9	#Sirte	#sirte	NNP	_	8	pobj	_	U-ORG
+10	since	since	IN	_	5	prep	_	O
+11	August	august	NNP	_	10	pobj	_	U-DATE
+12	https://t.co/54qD9Hzzm3	#hlink#	ADD	pos2=NN	10	pobj	_	O
+13	via	via	IN	_	5	prep	_	O
+14	@agenzia_nova	@agenzia_nova	NNP	pos2=.	13	pobj	_	O
+

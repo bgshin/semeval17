@@ -1,0 +1,12 @@
+1	#UK	#uk	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	says	say	VBZ	_	0	root	_	O
+3	2011	0	CD	_	5	nmod	_	B-CARDINAL
+4	#Libya	#libya	NNP	pos2=NN	5	compound	_	L-CARDINAL
+5	intervention	intervention	NN	_	7	nsubj	_	O
+6	‘	'	''	pos2=POS	5	punct	_	O
+7	saved	save	VBD	pos2=VBN	2	ccomp	_	O
+8	civilian	civilian	JJ	_	9	nmod	_	O
+9	lives	life	NNS	_	11	poss	_	O
+10	’	'	POS	pos2=''	9	case	_	O
+11	https://t.co/wyOu4DwBtG	#hlink#	ADD	pos2=NN	7	dobj	_	O
+

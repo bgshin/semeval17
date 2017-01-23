@@ -1,0 +1,26 @@
+1	Happy	happy	JJ	_	2	nmod	_	O
+2	Thanksgiving	thanksgiving	NNP	_	0	root	_	U-DATE
+3	!	!	.	_	2	punct	_	O
+
+1	Remember	remember	VB	_	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	stop	stop	VB	_	1	xcomp	_	O
+4	by	by	IN	pos2=RP	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	TFAC	tfac	NNP	pos2=NN	7	compound	_	U-ORG
+7	Tailgate	tailgate	NN	pos2=NNP	4	pobj	_	O
+8	prior	prior	JJ	_	9	advmod	_	O
+9	to	to	IN	_	3	prep	_	O
+10	game	game	NN	_	11	compound	_	O
+11	time	time	NN	_	9	pobj	_	O
+12	and	and	CC	_	3	cc	_	O
+13	sign	sign	VB	pos2=NN	3	conj	_	O
+14	up	up	RP	_	13	prt	_	O
+15	to	to	TO	_	16	aux	_	O
+16	get	get	VB	_	13	advcl	_	O
+17	your	your	PRP$	_	18	poss	_	O
+18	Heritage	heritage	NNP	pos2=NN	16	dobj	_	U-ORG
+19	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/sqx1oVGzC5	#hlink#	ADD	_	0	root	_	U-ORG
+

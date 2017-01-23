@@ -1,0 +1,22 @@
+1	@TuckerCarlson	@tuckercarlson	ADD	pos2=XX	8	cc	_	O
+2	@GeraldoRivera	@geraldorivera	NN	pos2=ADD	8	advmod	_	O
+3	@FoxNews	@foxnews	ADD	pos2=VBZ	8	advmod	_	O
+4	@cnn	@cnn	UH	pos2=ADD	8	discourse	_	O
+5	Re-Castro	re-castro	NNP	pos2=FW	6	compound	_	O
+6	debate.I	debate.i	NNP	pos2=NNS	8	nsubj	_	O
+7	just	just	RB	_	8	advmod	_	O
+8	love	love	VBP	pos2=VB	0	root	_	O
+9	that	that	IN	pos2=DT	15	mark	_	O
+10	Geraldo	geraldo	NNP	_	12	poss	_	U-PERSON
+11	's	's	POS	_	10	case	_	O
+12	defence	defence	NN	_	15	nsubj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	Fidel	fidel	NNP	_	13	pobj	_	U-PERSON
+15	was	be	VBD	_	8	ccomp	_	O
+16	,	,	,	_	18	punct	_	O
+17	he	he	PRP	_	18	nsubj	_	O
+18	's	's	VBZ	_	21	ccomp	_	O
+19	charismatic	charismatic	JJ	_	18	acomp	_	O
+20	,	,	,	_	21	punct	_	O
+21	authoritative	authoritative	JJ	_	0	root	_	O
+

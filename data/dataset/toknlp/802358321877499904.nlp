@@ -1,0 +1,26 @@
+1	@brianstelter	@brianstelter	UH	pos2=PRP	4	discourse	_	O
+2	have	have	VBP	pos2=VB	4	aux	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	seen	see	VBN	_	0	root	_	O
+5	the	the	DT	_	8	det	_	O
+6	"	"	``	_	8	punct	_	O
+7	fake	fake	JJ	_	8	nmod	_	O
+8	news	news	NN	_	4	dobj	_	O
+9	"	"	''	_	8	punct	_	O
+10	they	they	PRP	_	11	nsubj	_	O
+11	say	say	VBP	_	8	relcl	_	O
+12	they	they	PRP	_	13	nsubj	_	O
+13	r	r	VBP	_	11	ccomp	_	O
+14	@abc	@abc	NNS	pos2=XX	13	attr	_	O
+15	or	or	CC	_	14	cc	_	O
+16	@NBC	@nbc	NN	pos2=NNS	14	conj	_	U-DATE
+17	or	or	CC	_	16	cc	_	O
+18	whoever	whoever	NN	pos2=WP	16	conj	_	O
+19	spoofing	spoof	VBG	pos2=NN	14	acl	_	O
+20	even	even	RB	_	22	advmod	_	O
+21	their	their	PRP$	_	22	poss	_	O
+22	webaddress	webaddress	NN	pos2=NNS	19	dobj	_	O
+23	?	?	.	_	4	punct	_	O
+
+1	https://t.co/dOcYwvRF55	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,25 @@
+1	@cur68025855	@cur0	NN	pos2=LS	0	nsubj	_	O
+2	@PaulRyan	@paulryan	MD	pos2=ADD	4	aux	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	believe	believe	VB	pos2=VBP	1	ccomp	_	O
+5	Medicare	medicare	NNP	_	6	nsubj	_	U-ORG
+6	is	be	VBZ	_	4	ccomp	_	O
+7	fine	fine	JJ	pos2=RB	6	acomp	_	O
+8	as	as	IN	_	10	mark	_	O
+9	it	it	PRP	_	10	nsubj	_	O
+10	stands	stand	VBZ	_	6	advcl	_	O
+11	.	.	.	_	1	punct	_	O
+
+1	But	but	CC	_	3	cc	_	O
+2	would	would	MD	_	3	aux	_	O
+3	have	have	VB	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	read	read	VB	_	3	xcomp	_	O
+6	the	the	DT	_	7	det	_	O
+7	facts	fact	NNS	_	5	dobj	_	O
+8	about	about	IN	_	7	prep	_	O
+9	privatizing	privatize	VBG	_	8	pcomp	_	O
+10	this	this	DT	_	11	det	_	O
+11	program	program	NN	_	9	dobj	_	O
+12	.	.	.	_	3	punct	_	O
+

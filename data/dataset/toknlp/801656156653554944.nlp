@@ -1,0 +1,29 @@
+1	I	I	PRP	_	5	nsubj	_	O
+2	actually	actually	RB	_	3	advmod	_	O
+3	cried	cry	VBD	_	0	root	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	playing	play	VBG	_	3	advcl	_	O
+6	the	the	DT	_	8	det	_	O
+7	3min	0min	NN	pos2=CD	8	compound	_	U-PRODUCT
+8	demo	demo	NN	pos2=RB	5	dobj	_	O
+9	at	at	IN	_	5	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	beginning	beginning	NN	_	9	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	this	this	DT	_	12	pobj	_	O
+14	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	believe	believe	VB	_	0	root	_	O
+5	we	we	PRP	_	6	nsubj	_	O
+6	live	live	VBP	pos2=RB	4	ccomp	_	O
+7	in	in	IN	_	6	prep	_	O
+8	a	a	DT	_	9	det	_	O
+9	world	world	NN	_	7	pobj	_	O
+10	where	where	WRB	_	6	advmod	_	O
+11	...	..	.	pos2=,	4	punct	_	O
+
+1	https://t.co/trBqZvHhLB	#hlink#	ADD	_	0	root	_	U-ORG
+

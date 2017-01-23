@@ -1,0 +1,20 @@
+1	#Basketball	#basketball	NNP	pos2=SYM	2	compound	_	O
+2	#Buzz	#buzz	NNP	pos2=POS	0	root	_	O
+3	2013	0	CD	_	5	nmod	_	O
+4	-	-	SYM	pos2=HYPH	5	punct	_	O
+5	14	0	CD	_	2	npadvmod	_	O
+6	Panini	panini	NNP	pos2=NN	8	compound	_	B-ORG
+7	Gold	gold	NNP	pos2=NN	8	compound	_	I-ORG
+8	Standard	standard	NNP	pos2=NN	11	npadvmod	_	L-ORG
+9	2	0	CD	_	8	npadvmod	_	U-CARDINAL
+10	Dwight	dwight	NNP	_	13	compound	_	B-PERSON
+11	Howard	howard	NNP	_	13	compound	_	L-PERSON
+12	Nikola	nikola	NNP	_	13	compound	_	O
+13	Vucevic	vucevic	NNP	_	17	dep	_	O
+14	Houston	houston	NNP	_	16	compound	_	O
+15	#Rockets	#rockets	NNP	pos2=POS	16	compound	_	O
+16	Card	card	NNP	pos2=NN	17	dep	_	O
+17	https://t.co/ktIUhzK6r6	#hlink#	ADD	_	19	dep	_	O
+18	#Forsale	#forsale	NNP	pos2=-RRB-	0	root	_	U-ORG
+19	#onsale	#onsale	UH	pos2=NN	18	pobj	_	O
+

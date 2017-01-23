@@ -1,0 +1,8 @@
+1	@verynetwork	@verynetwork	UH	pos2=NN	2	discourse	_	O
+2	Awesome	awesome	JJ	pos2=UH	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	#Hatchimals	#hatchimals	NNS	pos2=ADD	3	nmod	_	O
+2	#BlackFriday	#blackfriday	ADD	pos2=NNP	3	det	_	U-DATE
+3	👍	👍	NN	pos2=.	0	root	_	O
+

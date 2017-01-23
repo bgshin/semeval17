@@ -1,0 +1,19 @@
+1	\	\	SYM	pos2=-RRB-	5	punct	_	O
+2	Saakashvili	saakashvili	NNP	_	4	poss	_	U-PERSON
+3	's	's	POS	_	2	case	_	O
+4	government	government	NN	_	5	nsubj	_	O
+5	was	be	VBD	_	0	root	_	O
+6	an	an	DT	_	7	det	_	O
+7	insult	insult	NN	_	5	attr	_	O
+8	to	to	IN	_	7	prep	_	O
+9	inhabitants	inhabitant	NNS	_	8	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Odessa	odessa	NNP	_	10	pobj	_	U-GPE
+12	and	and	CC	_	11	cc	_	O
+13	all	all	DT	pos2=PDT	15	det	_	O
+14	Ukrainian	ukrainian	JJ	_	15	nmod	_	U-NORP
+15	people	people	NNS	_	11	conj	_	O
+16	\	\	NFP	pos2=GW	18	punct	_	O
+17	https://t.co/BSurQksVYL	#hlink#	ADD	_	18	nmod	_	O
+18	https://t.co/e2aUUCIctZ	#hlink#	ADD	_	5	dep	_	U-ORG
+

@@ -1,0 +1,33 @@
+1	Do	do	VBP	pos2=VB	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	want	want	VB	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	be	be	VB	_	3	xcomp	_	O
+6	unsporting	unsporting	JJ	_	5	acomp	_	O
+7	,	,	,	_	3	punct	_	O
+8	but	but	CC	_	3	cc	_	O
+9	this	this	DT	_	10	det	_	O
+10	man	man	NN	_	6	conj	_	O
+11	as	as	IN	_	10	prep	_	O
+12	POTUS	potus	NNP	pos2=NN	11	pobj	_	U-ORG
+13	?	?	.	_	3	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	terrifying	terrifying	JJ	_	2	acomp	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	Wait	wait	VB	pos2=VBP	0	root	_	O
+2	til	til	IN	pos2=RP	4	mark	_	O
+3	he	he	PRP	_	4	nsubj	_	O
+4	calls	call	VBZ	_	1	advcl	_	O
+5	Kim	kim	NNP	_	8	compound	_	B-PERSON
+6	Jong	jong	NNP	_	8	compound	_	I-PERSON
+7	-	-	HYPH	pos2=:	8	punct	_	I-PERSON
+8	Un	un	NNP	_	4	dobj	_	L-PERSON
+9	a	a	DT	_	10	det	_	O
+10	loser	loser	NN	_	4	oprd	_	O
+11	.	.	.	_	1	punct	_	O
+
+1	https://t.co/9qEpjymABv	#hlink#	ADD	_	0	root	_	U-ORG
+

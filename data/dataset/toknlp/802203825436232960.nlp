@@ -1,0 +1,13 @@
+1	Sounds	sound	VBZ	pos2=NNS	0	root	_	O
+2	like	like	IN	_	7	mark	_	O
+3	Trump	trump	NNP	_	5	poss	_	U-ORG
+4	's	's	POS	_	3	case	_	O
+5	advisor	advisor	NN	_	7	nsubj	_	O
+6	has	have	VBZ	_	7	aux	_	O
+7	#goodjudgement	#goodjudgement	VBN	pos2=ADD	1	advcl	_	O
+8	#NotMyPresident	#notmypresident	ADD	pos2=JJ	12	nmod	_	B-PRODUCT
+9	#Trump	#trump	NNP	pos2=IN	12	nmod	_	L-PRODUCT
+10	#nevertrump	#nevertrump	GW	pos2=IN	12	nmod	_	O
+11	#StillWithHer	#stillwithher	GW	pos2=ADD	12	nmod	_	O
+12	https://t.co/mFfBRpJ3lg	#hlink#	ADD	pos2=NN	7	dobj	_	O
+

@@ -1,0 +1,17 @@
+1	#China	#china	NNP	pos2=NN	3	nsubj	_	U-ORG
+2	is	be	VBZ	_	3	aux	_	O
+3	censoring	censor	VBG	_	0	root	_	O
+4	#people	#people	XX	pos2=NNS	3	dep	_	O
+5	calling	call	VBG	_	3	xcomp	_	O
+6	#NorthKorea	#northkorea	NNP	pos2=PRP	8	poss	_	U-ORG
+7	's	's	POS	pos2=VBZ	6	case	_	O
+8	#leader	#leader	NN	pos2=NNP	5	dobj	_	O
+9	'	'	''	pos2=POS	3	punct	_	O
+10	#Kim	#kim	NNP	pos2=CD	11	compound	_	B-PERSON
+11	Fatty	fatty	NNP	pos2=JJ	16	dep	_	L-PERSON
+12	the	the	DT	_	13	det	_	O
+13	Third	#ord#	NNP	_	11	appos	_	U-ORDINAL
+14	'	'	''	pos2=POS	16	punct	_	O
+15	||	||	-LRB-	pos2=:	16	punct	_	O
+16	https://t.co/bCVxSrT9mb	#hlink#	ADD	_	3	dep	_	U-ORG
+

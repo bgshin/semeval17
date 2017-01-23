@@ -1,0 +1,11 @@
+1	@DebsConlon	@debsconlon	ADD	pos2=XX	5	cc	_	O
+2	@coinabs	@coinabs	UH	pos2=NNS	5	discourse	_	O
+3	@BobbyMc2014	@bobbymc0	NN	pos2=LS	4	compound	_	O
+4	@israel_shieldI	@israel_shieldi	NNS	pos2=TO	5	nsubj	_	O
+5	hear	hear	VBP	pos2=VB	0	root	_	O
+6	,	,	,	_	5	punct	_	O
+7	frustration?😀#Yemen#Iraq#Syria#Nigeria#BokoHaram	frustration?😀#yemen#iraq#syria#nigeria#bokoharam	NNP	pos2=XX	8	compound	_	O
+8	#ISIS#Ansar#Hamas	#isis#ansar#hamas	NNPS	pos2=NNS	4	appos	_	O
+9	in	in	IN	_	8	prep	_	O
+10	#Gaza	#gaza	NNP	pos2=NNS	9	pobj	_	U-GPE
+

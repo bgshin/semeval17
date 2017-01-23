@@ -1,0 +1,14 @@
+1	#Ukraine	#ukraine	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	embraces	embrace	VBZ	_	0	root	_	O
+3	new	new	JJ	_	4	nmod	_	O
+4	campaign	campaign	NN	_	2	dobj	_	O
+5	to	to	TO	pos2=IN	6	aux	_	O
+6	end	end	VB	pos2=NN	4	acl	_	O
+7	gender	gender	NN	_	9	npadvmod	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	based	base	VBN	_	10	nmod	_	O
+10	violence	violence	NN	_	6	dobj	_	O
+11	#UnitedNations	#unitednations	GW	pos2=NNS	13	nmod	_	B-DATE
+12	https://t.co/sQupOWX9Xd	#hlink#	ADD	pos2=GW	13	nmod	_	I-DATE
+13	https://t.co/fKVW1iH5NO	#hlink#	ADD	_	2	dep	_	L-DATE
+

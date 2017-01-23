@@ -1,0 +1,24 @@
+1	#ElectoralCollege	#electoralcollege	ADD	pos2=NN	2	aux	_	O
+2	save	save	VB	pos2=VBP	0	root	_	O
+3	#America	#america	NNP	pos2=NN	2	dobj	_	U-ORG
+4	before	before	IN	pos2=RB	6	mark	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	's	's	VBZ	_	2	advcl	_	O
+7	too	too	RB	_	8	advmod	_	O
+8	late	late	JJ	pos2=RB	6	acomp	_	O
+9	!	!	.	_	2	punct	_	O
+
+1	Before	before	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	wake	wake	VBP	_	13	advcl	_	O
+4	up	up	RP	pos2=IN	3	prt	_	O
+5	to	to	IN	_	3	prep	_	O
+6	a	a	DT	_	8	det	_	O
+7	#Putin	#putin	NNP	pos2=NN	8	compound	_	U-ORG
+8	rule	rule	NN	_	5	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	#US	#us	NNP	pos2=NN	9	pobj	_	U-GPE
+11	via	via	IN	pos2=GW	3	prep	_	O
+12	#Trump	#trump	NNP	pos2=NFP	11	pobj	_	O
+13	https://t.co/hmATrF9BKA	#hlink#	ADD	_	0	root	_	O
+

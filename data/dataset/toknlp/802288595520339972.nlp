@@ -1,0 +1,22 @@
+1	Samsung	samsung	NNP	_	2	compound	_	B-ORG
+2	Galaxy	galaxy	NNP	_	3	compound	_	L-ORG
+3	Note	note	NN	pos2=VB	0	root	_	O
+4	7	0	CD	_	3	nmod	_	U-CARDINAL
+5	vs	vs	CC	pos2=IN	3	cc	_	O
+6	OnePlus	oneplus	NNP	pos2=RB	10	nmod	_	B-DATE
+7	3	0	CD	_	6	nmod	_	L-DATE
+8	vs	vs	CC	pos2=IN	6	cc	_	O
+9	Galaxy	galaxy	NNP	pos2=NN	10	compound	_	B-PRODUCT
+10	S7	s0	NN	pos2=NNP	3	conj	_	L-PRODUCT
+11	vs	vs	CC	pos2=IN	10	cc	_	O
+12	iPhone	iphone	NNP	pos2=NN	15	compound	_	U-ORG
+13	6S	0s	NN	pos2=NNPS	15	compound	_	U-PRODUCT
+14	Speed	speed	NN	pos2=NNP	15	compound	_	O
+15	Test	test	NN	pos2=NNP	10	conj	_	O
+16	!	!	.	_	3	punct	_	O
+
+1	.	.	.	_	0	punct	_	O
+
+1	https://t.co/PNeEwDG4zF	#hlink#	ADD	_	2	nmod	_	U-ORG
+2	#AJNancy	#ajnancy	NN	pos2=ADD	0	root	_	O
+

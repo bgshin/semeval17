@@ -1,0 +1,26 @@
+1	More	more	JJR	pos2=NNP	2	nmod	_	O
+2	Dems	dems	NNPS	pos2=NNP	3	nsubj	_	U-NORP
+3	voted	vote	VBD	_	0	root	_	O
+4	@KellyannePolls	@kellyannepolls	NNS	pos2=PRP	3	dobj	_	O
+5	than	than	IN	_	4	prep	_	O
+6	Repubs	repubs	NNS	pos2=NNP	5	pobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	courtesy	courtesy	NN	pos2=RB	2	attr	_	O
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	B-ORG
+6	Electoral	electoral	NNP	_	7	compound	_	I-ORG
+7	College	college	NNP	_	4	pobj	_	L-ORG
+8	and	and	CC	_	7	cc	_	O
+9	state	state	NN	pos2=NNP	12	compound	_	O
+10	Repub	repub	NNP	pos2=NN	12	compound	_	O
+11	voter	voter	NN	_	12	compound	_	O
+12	suppression	suppression	NN	_	3	appos	_	O
+13	that	that	WDT	pos2=IN	15	dative	_	O
+14	we	we	PRP	_	15	nsubj	_	O
+15	have💩	have💩	VBP	pos2=VBD	12	relcl	_	O
+16	Trump	trump	NNP	pos2=NN	15	dobj	_	U-PERSON
+17	.	.	.	_	2	punct	_	O
+

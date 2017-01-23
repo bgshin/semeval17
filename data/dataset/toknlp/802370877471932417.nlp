@@ -1,0 +1,29 @@
+1	Last	last	JJ	_	2	nmod	_	B-TIME
+2	night	night	NN	_	5	npadvmod	_	L-TIME
+3	we	we	PRP	_	5	nsubj	_	O
+4	were	be	VBD	_	5	aux	_	O
+5	playing	play	VBG	_	0	root	_	O
+6	Leonard	leonard	NNP	_	7	compound	_	B-PERSON
+7	Cohen	cohen	NNP	_	9	poss	_	I-PERSON
+8	's	's	POS	_	7	case	_	L-PERSON
+9	Hallelujah	hallelujah	NNP	_	5	dobj	_	O
+10	on	on	IN	_	5	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	ukulele	ukulele	NN	pos2=NNP	10	pobj	_	O
+13	(	(	-LRB-	_	17	punct	_	O
+14	not	not	RB	_	17	neg	_	O
+15	a	a	DT	_	17	det	_	O
+16	praise	praise	NN	_	17	compound	_	O
+17	song	song	NN	_	12	appos	_	O
+18	)	)	-RRB-	_	17	punct	_	O
+19	.	.	.	_	5	punct	_	O
+
+1	Baka	baka	NNP	pos2=NN	4	compound	_	O
+2	akala	akala	NN	pos2=FW	3	compound	_	O
+3	ng	ng	NN	pos2=NNP	4	compound	_	O
+4	neighbors	neighbor	NNS	pos2=VBZ	5	nsubj	_	O
+5	lasheng	lasheng	VBG	pos2=VBP	0	root	_	O
+6	na	to	TO	pos2=FW	7	aux	_	O
+7	kame	kame	NN	pos2=FW	5	xcomp	_	O
+8	hahaha	hahaha	UH	_	5	discourse	_	O
+

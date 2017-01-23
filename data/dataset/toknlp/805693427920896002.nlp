@@ -1,0 +1,34 @@
+1	@bigfortiesfan	@bigfortiesfan	UH	pos2=VB	5	discourse	_	O
+2	An	an	DT	pos2=NNP	4	det	_	O
+3	early	early	JJ	_	4	nmod	_	O
+4	abortion	abortion	NN	_	5	nsubj	_	O
+5	has	have	VBZ	_	0	root	_	O
+6	none	none	NN	_	5	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	that	that	DT	_	7	pobj	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	still	still	RB	_	2	advmod	_	O
+4	a	a	DT	_	6	det	_	O
+5	tiny	tiny	JJ	_	6	nmod	_	O
+6	blob	blob	NN	_	2	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	cells	cell	NNS	_	7	pobj	_	O
+9	at	at	IN	_	6	prep	_	O
+10	that	that	DT	_	11	det	_	O
+11	point	point	NN	_	9	pobj	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	know	know	VBP	_	0	root	_	O
+3	because	because	IN	_	6	mark	_	O
+4	I	I	PRP	_	6	nsubj	_	O
+5	've	have	VBP	_	6	aux	_	O
+6	been	be	VBN	_	2	advcl	_	O
+7	there	there	RB	_	6	advmod	_	O
+8	&	&	CC	_	6	cc	_	O
+9	seen	see	VBN	pos2=VB	6	conj	_	O
+10	it	it	PRP	_	9	dobj	_	O
+

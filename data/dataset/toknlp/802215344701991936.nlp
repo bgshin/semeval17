@@ -1,0 +1,16 @@
+1	Thanksgiving	thanksgiving	NNP	pos2=NN	2	nsubj	_	U-DATE
+2	was	be	VBD	_	0	root	_	O
+3	great	great	JJ	_	2	acomp	_	O
+4	and	and	CC	_	2	cc	_	O
+5	now	now	RB	_	7	advmod	_	O
+6	today	today	NN	_	7	npadvmod	_	U-DATE
+7	is	be	VBZ	_	2	conj	_	O
+8	second	#ord#	JJ	_	9	nmod	_	U-ORDINAL
+9	thanksgiving	thanksgiving	NN	pos2=VBG	7	attr	_	O
+10	for	for	IN	_	9	prep	_	O
+11	me	me	PRP	_	10	pobj	_	O
+12	and	and	CC	_	11	cc	_	O
+13	my	my	PRP$	_	14	poss	_	O
+14	fam	fam	NN	pos2=UH	11	conj	_	O
+15	!	!	.	_	7	punct	_	O
+

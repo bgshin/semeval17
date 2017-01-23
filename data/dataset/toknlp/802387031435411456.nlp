@@ -1,0 +1,24 @@
+1	Bob	bob	NNP	_	2	compound	_	B-PERSON
+2	Dylan	dylan	NNP	_	3	nsubj	_	L-PERSON
+3	sings	sing	VBZ	_	0	root	_	O
+4	his	his	PRP$	_	7	poss	_	O
+5	5th	#ord#	JJ	pos2=NN	6	advmod	_	U-ORDINAL
+6	biggest	big	JJS	pos2=NN	7	nmod	_	O
+7	hit	hit	NN	pos2=VBN	3	dobj	_	O
+8	,	,	,	_	7	punct	_	O
+9	Knockin	knockin	NNP	pos2=NN	7	appos	_	O
+10	'	'	''	pos2=``	7	punct	_	O
+11	On	on	IN	_	7	prep	_	O
+12	Heaven	heaven	NNP	_	14	poss	_	U-ORG
+13	's	's	POS	_	12	case	_	O
+14	Door	door	NNP	pos2=NN	11	pobj	_	O
+15	live	live	VBP	pos2=VB	3	advmod	_	O
+16	on	on	IN	_	15	prep	_	O
+17	MTV	mtv	NNP	_	19	poss	_	U-ORG
+18	's	's	POS	_	17	case	_	O
+19	Unplugged	unplugged	NNP	_	16	pobj	_	O
+20	in	in	IN	_	15	prep	_	O
+21	1995	0	CD	_	20	pobj	_	U-DATE
+22	-	-	:	pos2=HYPH	23	punct	_	O
+23	https://t.co/OCdbk7jGEl	#hlink#	ADD	pos2=NN	19	appos	_	O
+

@@ -1,0 +1,17 @@
+1	Super	super	NNP	pos2=RB	2	nmod	_	B-ORG
+2	Cute	cute	NNP	pos2=JJ	6	compound	_	L-ORG
+3	3	0	CD	_	9	nmod	_	O
+4	-	-	HYPH	pos2=:	6	punct	_	O
+5	D	d	NNP	pos2=NN	6	compound	_	O
+6	Valentine	valentine	NNP	_	9	poss	_	O
+7	's	's	POS	_	6	case	_	O
+8	Day	day	NNP	_	9	compound	_	B-ORG
+9	Cookies	cookie	NNPS	pos2=NNS	12	dep	_	I-ORG
+10	https://t.co/sqDiiGdjxa	#hlink#	ADD	_	12	dep	_	L-ORG
+11	#	#	NN	pos2=-RRB-	12	dep	_	O
+12	3	0	LS	pos2=CD	16	meta	_	U-MONEY
+13	-	-	:	pos2=HYPH	16	punct	_	O
+14	Dcookies	dcookies	NNPS	pos2=NNS	16	compound	_	O
+15	#Recipes	#recipes	NNS	pos2=VBZ	16	compound	_	O
+16	#Valentine	#valentine	NNP	pos2=PRP	0	root	_	O
+

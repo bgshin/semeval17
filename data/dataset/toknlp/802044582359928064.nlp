@@ -1,0 +1,13 @@
+1	@RikoSA	@rikosa	NN	pos2=ADD	3	nmod	_	O
+2	_	_	SYM	pos2=''	3	punct	_	O
+3	@therealroseanne	@therealroseanne	NN	pos2=UH	4	compound	_	O
+4	@Vics02	@vics0	NN	pos2=CD	5	compound	_	O
+5	#Hamas	#hamas	NNP	pos2=NNS	6	nsubj	_	U-ORG
+6	is	be	VBZ	_	10	ccomp	_	O
+7	#ISIS	#isis	NNP	pos2=NN	6	attr	_	U-ORG
+8	,	,	,	_	10	punct	_	O
+9	#Jihad	#jihad	NNP	pos2=NN	10	nsubj	_	U-ORG
+10	is	be	VBZ	_	0	root	_	O
+11	#Terrorism	#terrorism	NNP	pos2=-LRB-	10	attr	_	U-ORG
+12	https://t.co/15WSL8BQz4	#hlink#	ADD	_	10	attr	_	O
+

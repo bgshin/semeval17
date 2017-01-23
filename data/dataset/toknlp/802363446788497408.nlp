@@ -1,0 +1,11 @@
+1	A	a	DT	pos2=LS	3	det	_	B-WORK_OF_ART
+2	Bronx	bronx	NNP	_	3	compound	_	I-WORK_OF_ART
+3	Tale	tale	NNP	pos2=NN	0	root	_	I-WORK_OF_ART
+4	of	of	IN	_	3	prep	_	I-WORK_OF_ART
+5	Deplorables	deplorables	NNP	pos2=NNPS	4	pobj	_	L-WORK_OF_ART
+6	.	.	.	_	3	punct	_	O
+
+1	.	.	.	_	0	punct	_	O
+
+1	#PenceMusical	#pencemusical	JJ	pos2=ADD	0	root	_	O
+

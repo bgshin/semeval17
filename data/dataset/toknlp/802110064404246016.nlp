@@ -1,0 +1,21 @@
+1	#Russia	#russia	NNP	pos2=NN	3	compound	_	O
+2	-	-	HYPH	pos2=:	3	punct	_	O
+3	#Hezbollah	#hezbollah	NNP	pos2=VBN	4	compound	_	O
+4	contacts	contact	NNS	_	7	nsubj	_	O
+5	might	might	MD	_	7	aux	_	O
+6	also	also	RB	_	7	advmod	_	O
+7	signal	signal	VB	_	0	root	_	O
+8	#Syria	#syria	NNP	pos2=NN	12	dep	_	O
+9	|	|	SYM	pos2=HYPH	12	punct	_	O
+10	n	n	JJ	pos2=RP	11	nmod	_	O
+11	army	army	NN	_	12	nsubj	_	O
+12	struggles	struggle	VBZ	pos2=NNS	7	ccomp	_	O
+13	to	to	TO	_	14	aux	_	O
+14	make	make	VB	_	12	xcomp	_	O
+15	decent	decent	JJ	_	16	nmod	_	O
+16	progress	progress	NN	_	14	dobj	_	O
+17	on	on	IN	_	16	prep	_	O
+18	the	the	DT	_	19	det	_	O
+19	ground	ground	NN	_	17	pobj	_	O
+20	.	.	.	_	7	punct	_	O
+

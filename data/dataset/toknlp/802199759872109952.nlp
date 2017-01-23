@@ -1,0 +1,19 @@
+1	#BlackLivesMatter	#blacklivesmatter	DT	pos2=NN	2	det	_	O
+2	protester	protester	NN	_	7	nsubj	_	O
+3	hit	hit	VBN	pos2=VBD	2	acl	_	O
+4	by	by	IN	_	3	agent	_	O
+5	Black	black	JJ	pos2=NNP	6	nmod	_	O
+6	drivers	driver	NNS	_	4	pobj	_	O
+7	https://t.co/pag7WdQlHg	#hlink#	ADD	pos2=VBP	16	nsubj	_	O
+8	via	via	IN	_	7	prep	_	O
+9	"	"	``	_	16	punct	_	O
+10	OH	oh	UH	pos2=NNP	16	discourse	_	O
+11	MY	my	UH	pos2=PRP$	10	discourse	_	O
+12	GOD	god	UH	pos2=NNP	10	discourse	_	O
+13	"	"	``	pos2=''	16	punct	_	O
+14	Now	now	RB	_	16	advmod	_	O
+15	that	that	DT	pos2=WDT	16	nsubj	_	O
+16	was	be	VBD	_	0	root	_	O
+17	funny	funny	JJ	_	16	acomp	_	O
+18	.	.	.	_	16	punct	_	O
+

@@ -1,0 +1,21 @@
+1	Obama	obama	NNP	pos2=NN	3	nmod	_	O
+2	/	/	SYM	_	3	punct	_	O
+3	Biden	biden	NNP	_	4	nsubj	_	O
+4	Need	need	VBP	pos2=VB	0	root	_	O
+5	to	to	TO	_	7	aux	_	O
+6	be	be	VB	_	7	auxpass	_	O
+7	tried	try	VBN	_	4	xcomp	_	O
+8	for	for	IN	_	7	prep	_	O
+9	TREASON:Obama	treason:obama	NNP	pos2=NN	11	compound	_	B-ORG
+10	Admin	admin	NNP	pos2=NN	11	compound	_	I-ORG
+11	Leaks	leak	NNPS	pos2=NNP	8	pobj	_	L-ORG
+12	Led	lead	VBD	pos2=NNP	11	acl	_	O
+13	to	to	IN	pos2=TO	12	prep	_	O
+14	SEAL	seal	NNP	pos2=NN	15	compound	_	B-ORG
+15	Team	team	NNP	pos2=NN	13	pobj	_	L-ORG
+16	6	0	CD	pos2=GW	17	nmod	_	O
+17	Murder	murder	NN	pos2=NNP	18	dep	_	O
+18	https://t.co/JJP59TwnfF	#hlink#	ADD	pos2=NN	20	dep	_	U-ORG
+19	via	via	IN	_	12	prep	_	O
+20	@YouTube	@youtube	NN	pos2=NNP	19	pobj	_	O
+

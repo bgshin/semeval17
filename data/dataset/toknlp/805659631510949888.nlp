@@ -1,0 +1,22 @@
+1	Oregon	oregon	NNP	_	2	nsubj	_	U-GPE
+2	is	be	VBZ	_	5	aux	_	O
+3	once	once	RB	_	4	advmod	_	O
+4	again	again	RB	_	5	advmod	_	O
+5	leading	lead	VBG	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	way	way	NN	_	5	dobj	_	O
+8	in	in	IN	_	5	prep	_	O
+9	driving	drive	VBG	_	8	pcomp	_	O
+10	voter	voter	NN	_	11	compound	_	O
+11	participation	participation	NN	_	9	dobj	_	O
+12	.	.	.	_	5	punct	_	O
+
+1	Hope	hope	VBP	pos2=VB	0	root	_	O
+2	more	more	JJR	pos2=RBR	3	nmod	_	O
+3	states	state	NNS	pos2=JJ	4	nsubj	_	O
+4	follow	follow	VB	pos2=VBP	1	ccomp	_	O
+5	suit	suit	NN	_	4	dobj	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	https://t.co/XKaVOqqM30	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,8 @@
+1	Got	get	VBD	_	0	root	_	O
+2	a	a	DT	_	5	det	_	O
+3	nice	nice	JJ	pos2=NN	5	nmod	_	O
+4	#TheWalkingDead	#thewalkingdead	NN	pos2=HYPH	5	compound	_	O
+5	shelf	shelf	NN	_	6	nsubj	_	O
+6	going	go	VBG	_	1	ccomp	_	O
+7	👌	👌	.	pos2=RB	1	punct	_	O
+

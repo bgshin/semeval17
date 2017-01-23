@@ -1,0 +1,22 @@
+1	@DailyCaller	@dailycaller	ADD	pos2=JJR	8	punct	_	B-ORG
+2	#Obama	#obama	NNP	pos2=NN	3	compound	_	I-ORG
+3	#Trump	#trump	NNP	pos2=XX	8	vocative	_	L-ORG
+4	#love	#love	UH	pos2=ADD	8	discourse	_	O
+5	#Hillary	#hillary	NNP	pos2=ADD	6	compound	_	B-PERSON
+6	#Bernie	#bernie	NNP	pos2=IN	8	vocative	_	L-PERSON
+7	this	this	DT	_	8	nsubj	_	O
+8	is	be	VBZ	_	0	root	_	O
+9	what	what	WP	_	11	nsubj	_	O
+10	's	's	VBZ	_	11	aux	_	O
+11	going	go	VBG	_	8	ccomp	_	O
+12	on	on	RP	_	11	prt	_	O
+13	in	in	IN	_	11	prep	_	O
+14	the	the	DT	_	16	det	_	O
+15	Obama	obama	NNP	_	16	compound	_	O
+16	Admin	admin	NNP	pos2=NN	13	pobj	_	O
+17	continue	continue	VB	pos2=VBP	21	advcl	_	O
+18	with	with	IN	_	17	prep	_	O
+19	Hillary	hillary	NNP	_	18	pobj	_	B-PERSON
+20	…	…	NFP	pos2=NNP	21	punct	_	L-PERSON
+21	https://t.co/uM9EUl226O	#hlink#	ADD	_	8	dep	_	O
+

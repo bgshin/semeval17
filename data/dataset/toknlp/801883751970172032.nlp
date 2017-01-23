@@ -1,0 +1,26 @@
+1	False	false	JJ	_	3	nmod	_	O
+2	moral	moral	JJ	_	3	nmod	_	O
+3	equivalence	equivalence	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	#Hamas	#hamas	NNP	pos2=NNS	2	nsubj	_	U-PERSON
+2	is	be	VBZ	_	0	root	_	O
+3	responsible	responsible	JJ	_	2	acomp	_	O
+4	for	for	IN	_	3	prep	_	O
+5	everything	everything	NN	_	4	pobj	_	O
+6	that	that	WDT	_	7	nsubj	_	O
+7	happens	happen	VBZ	_	5	relcl	_	O
+8	to	to	IN	pos2=TO	7	prep	_	O
+9	#Gaza	#gaza	NNP	pos2=PRP	8	pobj	_	U-GPE
+10	.	.	.	_	2	punct	_	O
+
+1	YOU	you	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	one	#crd#	NN	_	2	attr	_	O
+5	who	who	WP	_	6	nsubj	_	O
+6	is	be	VBZ	_	4	relcl	_	O
+7	disgust	disgust	NN	pos2=JJ	6	attr	_	O
+8	…	…	NFP	pos2=:	9	punct	_	O
+9	https://t.co/nQJr2DqbLi	#hlink#	ADD	_	2	dep	_	O
+

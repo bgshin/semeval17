@@ -1,0 +1,10 @@
+1	5	0	CD	pos2=LS	2	nmod	_	U-CARDINAL
+2	Incidents	incident	NNS	_	9	dep	_	O
+3	of	of	IN	_	2	prep	_	O
+4	How	how	WRB	pos2=NNP	7	advmod	_	O
+5	Zac	zac	NNP	_	6	compound	_	B-PERSON
+6	Efron	efron	NNP	_	7	nsubj	_	L-PERSON
+7	Is	be	VBZ	_	3	pcomp	_	O
+8	Inspirational	inspirational	JJ	pos2=NNP	7	acomp	_	O
+9	https://t.co/BDJ4xh905s	#hlink#	ADD	pos2=NN	0	root	_	O
+

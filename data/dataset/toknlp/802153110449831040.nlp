@@ -1,0 +1,24 @@
+1	[	[	-LRB-	pos2=SYM	23	punct	_	O
+2	NFL	nfl	NNP	pos2=NN	3	compound	_	U-ORG
+3	Nation	nation	NN	pos2=NNP	23	dep	_	O
+4	:	:	:	_	23	punct	_	O
+5	Dallas	dallas	NNP	_	6	compound	_	U-GPE
+6	Cowboys	cowboy	NNPS	pos2=NNP	3	appos	_	O
+7	]	]	-RRB-	_	6	punct	_	O
+8	-	-	:	pos2=HYPH	23	punct	_	O
+9	Dak	dak	NNP	_	10	compound	_	B-PERSON
+10	Prescott	prescott	NNP	_	12	nsubj	_	L-PERSON
+11	too	too	RB	_	12	advmod	_	O
+12	busy	busy	JJ	_	7	acomp	_	O
+13	winning	win	VBG	pos2=JJ	12	xcomp	_	O
+14	games	game	NNS	_	13	dobj	_	O
+15	to	to	TO	_	16	aux	_	O
+16	look	look	VB	_	13	advcl	_	O
+17	over	over	IN	_	16	prep	_	O
+18	his	his	PRP$	_	19	poss	_	O
+19	shoulder	shoulder	NN	_	17	pobj	_	O
+20	at	at	IN	_	16	prep	_	O
+21	Tony	tony	NNP	_	22	compound	_	B-PERSON
+22	Romo	romo	NNP	_	20	pobj	_	L-PERSON
+23	https://t.co/6h7lpr0SJI	#hlink#	ADD	_	0	root	_	O
+

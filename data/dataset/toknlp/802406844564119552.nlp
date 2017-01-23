@@ -1,0 +1,17 @@
+1	@AppSame	@appsame	NN	pos2=ADD	5	nmod	_	O
+2	@	@	SYM	pos2=-LRB-	3	punct	_	O
+3	3XT1	0xt0	NN	pos2=ADD	1	prep	_	O
+4	@DrJillStein	@drjillstein	NN	pos2=ADD	5	compound	_	O
+5	@HillaryClinton	@hillaryclinton	NNP	pos2=XX	0	root	_	O
+6	Using	use	VBG	_	1	acl	_	O
+7	those	those	DT	_	10	det	_	O
+8	Clinton	clinton	NNP	_	9	compound	_	B-ORG
+9	Foundation	foundation	NNP	_	10	compound	_	L-ORG
+10	bucks	buck	NNS	_	6	dobj	_	O
+11	while	while	IN	_	13	mark	_	O
+12	there	there	EX	pos2=RB	13	expl	_	O
+13	's	's	VBZ	pos2=AFX	1	advcl	_	O
+14	till	till	IN	pos2=DT	13	prep	_	O
+15	money	money	NN	_	14	pobj	_	O
+16	left	left	JJ	pos2=VBN	15	nmod	_	O
+

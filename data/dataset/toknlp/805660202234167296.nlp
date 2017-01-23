@@ -1,0 +1,12 @@
+1	Fidel	fidel	NNP	_	2	compound	_	B-PERSON
+2	Castro	castro	NNP	_	5	poss	_	I-PERSON
+3	's	's	POS	pos2=VBZ	2	case	_	L-PERSON
+4	African	african	JJ	_	5	nmod	_	U-NORP
+5	legacy	legacy	NN	_	7	dep	_	O
+6	:	:	:	_	7	punct	_	O
+7	Friendship	friendship	NN	_	0	root	_	O
+8	and	and	CC	_	7	cc	_	O
+9	freedom	freedom	NN	pos2=GW	7	conj	_	O
+10	@AJEnglish	@ajenglish	ADD	pos2=GW	7	prep	_	U-NORP
+11	https://t.co/M3X4l0ONf7	#hlink#	ADD	_	10	pobj	_	O
+

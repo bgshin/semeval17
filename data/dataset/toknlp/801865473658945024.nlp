@@ -1,0 +1,11 @@
+1	https://t.co/2qON9lpgpW	#hlink#	ADD	pos2=NN	3	nmod	_	O
+2	-	-	HYPH	pos2=,	3	punct	_	O
+3	art_babbitt	art_babbitt	NN	pos2=JJ	0	root	_	O
+4	character_acting	character_acting	VBG	pos2=NN	3	acl	_	O
+5	cy_young	cy_young	JJ	pos2=PRP$	6	nmod	_	O
+6	effects	effect	NNS	_	7	compound	_	O
+7	fabric	fabric	NN	pos2=JJ	8	compound	_	O
+8	lightning	lightning	NN	_	9	compound	_	O
+9	liquid	liquid	NN	pos2=JJ	4	dobj	_	O
+10	snow_white_and_the_seven_dwa	snow_white_and_the_seven_dwa	.	pos2=NNP	3	punct	_	O
+

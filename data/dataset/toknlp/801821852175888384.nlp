@@ -1,0 +1,16 @@
+1	@KremlinTrolls	@kremlintrolls	NNS	pos2=ADD	2	compound	_	O
+2	@Independent	@independent	NNP	pos2=NFP	4	nsubj	_	O
+3	Pretty	pretty	RB	_	4	advmod	_	O
+4	funny	funny	JJ	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	Maybe	maybe	RB	_	5	advmod	_	O
+2	nuclear	nuclear	JJ	_	3	nmod	_	O
+3	hay	hay	NN	_	4	compound	_	O
+4	wagons	wagon	NNS	_	5	nsubj	_	O
+5	are	be	VBP	_	0	root	_	O
+6	next	next	JJ	pos2=RB	5	acomp	_	O
+7	?	?	.	_	5	punct	_	O
+
+1	:)))	:))	NFP	pos2=``	0	root	_	O
+

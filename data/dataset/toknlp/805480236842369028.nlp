@@ -1,0 +1,14 @@
+1	i	I	PRP	_	2	nsubj	_	O
+2	made	make	VBD	_	0	root	_	O
+3	cauliflower	cauliflower	NN	pos2=JJ	4	compound	_	O
+4	steaks	steak	NNS	_	2	dobj	_	O
+5	and	and	CC	_	2	cc	_	O
+6	they	they	PRP	_	7	nsubj	_	O
+7	were	be	VBD	_	2	conj	_	O
+8	great	great	JJ	_	7	acomp	_	O
+9	why	why	WRB	pos2=NN	10	advmod	_	O
+10	is	be	VBZ	_	7	advcl	_	O
+11	vegetarianism	vegetarianism	NN	_	10	nsubj	_	O
+12	so	so	RB	_	13	advmod	_	O
+13	good	good	JJ	_	10	acomp	_	O
+

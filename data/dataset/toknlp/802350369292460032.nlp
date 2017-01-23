@@ -1,0 +1,22 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=XX	3	nsubj	_	O
+2	directly	directly	RB	_	3	advmod	_	O
+3	addressing	address	VBG	_	0	root	_	O
+4	American	american	JJ	_	5	nmod	_	U-NORP
+5	people	people	NNS	_	3	dobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	Info	info	NN	pos2=NNP	0	root	_	O
+2	on	on	IN	_	1	prep	_	O
+3	@transition2017	@transition0	NN	pos2=CD	4	compound	_	O
+4	website	website	NN	_	2	pobj	_	O
+5	and	and	CC	_	4	cc	_	O
+6	news	news	NN	_	4	conj	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	[	[	-LRB-	_	2	punct	_	O
+2	VIDEO	video	NN	_	4	dep	_	O
+3	]	]	-RRB-	_	2	punct	_	O
+4	https://t.co/1j3ZwMCL15	#hlink#	ADD	_	0	root	_	O
+

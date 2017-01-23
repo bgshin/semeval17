@@ -1,0 +1,20 @@
+1	Congrats	congrats	NNS	pos2=VBZ	0	root	_	O
+2	Ashley	ashley	NNP	_	3	compound	_	B-PERSON
+3	Graham	graham	NNP	_	1	vocative	_	L-PERSON
+4	for	for	IN	_	1	prep	_	O
+5	being	be	VBG	_	4	pcomp	_	O
+6	unapologetically	unapologetically	RB	_	5	advmod	_	O
+7	YOU	you	PRP	pos2=NNP	9	nsubj	_	O
+8	&	&	CC	_	7	cc	_	O
+9	inspiring	inspire	VBG	_	5	conj	_	O
+10	so	so	RB	_	11	advmod	_	O
+11	many	many	JJ	_	13	nmod	_	O
+12	young	young	JJ	_	13	nmod	_	O
+13	girls	girl	NNS	_	9	dobj	_	O
+14	to	to	IN	pos2=TO	15	aux	_	O
+15	❤️	❤️	VB	pos2=PDT	13	acl	_	O
+16	their	their	PRP$	_	17	poss	_	O
+17	bodies	body	NNS	_	15	dobj	_	O
+18	#vogue	#vogue	IN	pos2=-LRB-	15	prep	_	O
+19	https://t.co/wgJ6qzYbrN	#hlink#	ADD	pos2=NN	18	pobj	_	O
+

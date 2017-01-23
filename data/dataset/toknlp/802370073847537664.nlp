@@ -1,0 +1,24 @@
+1	@norbratt	@norbratt	UH	pos2=VB	2	discourse	_	O
+2	Exactly	exactly	RB	pos2=UH	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	And	and	CC	_	12	cc	_	O
+2	that	that	IN	pos2=DT	12	mark	_	O
+3	Leonard	leonard	NNP	_	4	compound	_	B-PERSON
+4	Cohen	cohen	NNP	_	5	compound	_	L-PERSON
+5	song	song	NN	pos2=FW	0	root	_	O
+6	with	with	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	lyric	lyric	NN	pos2=JJ	6	pobj	_	O
+9	,	,	,	_	12	punct	_	O
+10	"	"	``	pos2=''	12	punct	_	O
+11	Everybody	everybody	NN	_	12	nsubj	_	O
+12	knows	know	VBZ	_	0	root	_	O
+13	that	that	IN	_	17	mark	_	O
+14	the	the	DT	_	15	det	_	O
+15	boat	boat	NN	_	17	nsubj	_	O
+16	is	be	VBZ	_	17	aux	_	O
+17	leaking	leak	VBG	_	12	ccomp	_	O
+18	...	..	.	pos2=,	12	punct	_	O
+19	"	"	''	_	12	punct	_	O
+

@@ -1,0 +1,24 @@
+1	@HuffingtonPost	@huffingtonpost	IN	pos2=``	5	prep	_	O
+2	First	#ord#	NNP	pos2=RB	3	compound	_	B-ORG
+3	Trump	trump	NNP	_	1	pobj	_	L-ORG
+4	now	now	RB	_	2	advmod	_	O
+5	this	this	DT	_	0	root	_	O
+6	..	..	.	pos2=,	1	punct	_	O
+
+1	at	at	IN	_	6	prep	_	O
+2	this	this	DT	_	3	det	_	O
+3	rate	rate	NN	_	1	pobj	_	O
+4	Obamacare	obamacare	NNP	_	6	nsubj	_	U-ORG
+5	will	will	MD	_	6	aux	_	O
+6	run	run	VB	_	0	root	_	O
+7	out	out	IN	pos2=NN	6	prep	_	O
+8	of	of	IN	_	7	prep	_	O
+9	money	money	NN	_	8	pobj	_	O
+10	with	with	IN	_	6	prep	_	O
+11	all	all	PDT	_	15	predet	_	O
+12	the	the	DT	_	15	det	_	O
+13	Xanax	xanax	NNP	pos2=NNPS	15	nmod	_	O
+14	/	/	SYM	pos2=,	15	punct	_	O
+15	Haldol	haldol	NNP	_	10	pobj	_	O
+16	prescriptions!#draintheswamp	prescriptions!#draintheswamp	.	pos2=POS	6	punct	_	O
+

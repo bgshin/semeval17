@@ -1,0 +1,25 @@
+1	@JaydaBF	@jaydabf	UH	pos2=ADD	5	discourse	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	cry	cry	VB	_	0	root	_	O
+6	very	very	RB	_	7	advmod	_	O
+7	often	often	RB	_	5	advmod	_	O
+8	,	,	,	_	5	punct	_	O
+9	bit	bite	VB	pos2=NN	5	dep	_	O
+10	your	your	PRP$	_	13	poss	_	O
+11	anti	anti	AFX	pos2=JJ	12	nmod	_	O
+12	abortion	abortion	NN	_	13	compound	_	O
+13	video	video	NN	_	9	dobj	_	O
+14	nearly	nearly	RB	_	15	advmod	_	O
+15	ot	ot	IN	pos2=VB	9	prep	_	O
+16	me	me	PRP	pos2=CD	17	nsubj	_	O
+17	going	go	VBG	_	15	pcomp	_	O
+18	.	.	.	_	5	punct	_	O
+
+1	Bless	bless	VB	pos2=VBP	0	root	_	O
+2	you	you	PRP	_	1	dobj	_	O
+3	,	,	,	_	1	punct	_	O
+4	@JaydaBF	@jaydabf	NNP	pos2=NN	1	vocative	_	U-PERSON
+5	.	.	.	_	1	punct	_	O
+

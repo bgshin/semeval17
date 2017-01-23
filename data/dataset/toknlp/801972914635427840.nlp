@@ -1,0 +1,23 @@
+1	@patlawrence26	@patlawrence0	NN	pos2=TO	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	know	know	VB	_	0	root	_	O
+5	but	but	CC	_	4	cc	_	O
+6	now	now	RB	_	12	advmod	_	O
+7	that	that	DT	pos2=IN	8	det	_	O
+8	relativity	relativity	NN	_	12	nsubj	_	O
+9	&	&	CC	_	8	cc	_	O
+10	political	political	JJ	_	11	nmod	_	O
+11	correctness	correctness	NN	_	8	conj	_	O
+12	are	be	VBP	_	4	conj	_	O
+13	things	thing	NNS	_	12	attr	_	O
+14	past	past	IN	pos2=JJ	13	prep	_	O
+15	it	it	PRP	_	16	nsubj	_	O
+16	means	mean	VBZ	_	12	advcl	_	O
+17	rightists	rightist	NNS	_	20	nsubjpass	_	O
+18	can	can	MD	_	20	aux	_	O
+19	be	be	VB	_	20	auxpass	_	O
+20	called	call	VBN	_	16	ccomp	_	O
+21	poo	poo	NN	pos2=FW	20	oprd	_	O
+22	#auspol	#auspol	XX	pos2=NN	20	oprd	_	O
+

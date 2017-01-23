@@ -1,0 +1,31 @@
+1	@ezlusztig	@ezlusztig	UH	pos2=XX	4	discourse	_	O
+2	@washingtonpost	@washingtonpost	UH	pos2=IN	4	discourse	_	O
+3	She	she	PRP	_	4	nsubj	_	O
+4	fought	fight	VBD	_	0	root	_	O
+5	MSM	msm	NNP	pos2=NN	4	dobj	_	U-ORG
+6	,	,	,	_	5	punct	_	O
+7	GOP	gop	NNP	_	5	conj	_	U-ORG
+8	,	,	,	_	7	punct	_	O
+9	Comey	comey	NNP	_	7	conj	_	U-PERSON
+10	,	,	,	_	9	punct	_	O
+11	racism	racism	NN	_	9	conj	_	O
+12	,	,	,	_	11	punct	_	O
+13	sexism	sexism	NN	_	11	conj	_	O
+14	,	,	,	_	13	punct	_	O
+15	xenophobia	xenophobia	NN	_	13	conj	_	O
+16	and	and	CC	_	15	cc	_	O
+17	Russia	russia	NNP	_	15	conj	_	U-GPE
+18	and	and	CC	_	15	cc	_	O
+19	still	still	RB	_	20	advmod	_	O
+20	won	win	VBD	pos2=VB	4	conj	_	O
+21	popular	popular	JJ	_	22	nmod	_	O
+22	vote	vote	NN	_	20	dobj	_	O
+23	.	.	.	_	4	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	screw	screw	NN	_	5	compound	_	O
+5	job	job	NN	_	2	attr	_	O
+6	.	.	.	_	2	punct	_	O
+

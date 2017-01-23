@@ -1,0 +1,21 @@
+1	#Trump	#trump	NNP	pos2=PRP	3	nsubj	_	U-LOC
+2	might	might	MD	_	3	aux	_	O
+3	want	want	VB	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	ask	ask	VB	_	3	xcomp	_	O
+6	#Barron	#barron	NNP	pos2=NN	5	dobj	_	U-PERSON
+7	and	and	CC	_	6	cc	_	O
+8	#Melania	#melania	NNP	pos2=NN	6	conj	_	U-PERSON
+9	to	to	TO	_	10	aux	_	O
+10	come	come	VB	_	5	xcomp	_	O
+11	to	to	IN	_	10	prep	_	O
+12	Washington	washington	NNP	_	11	pobj	_	U-GPE
+13	to	to	TO	_	14	aux	_	O
+14	reduce	reduce	VB	_	10	advcl	_	O
+15	huge	huge	JJ	_	17	nmod	_	O
+16	security	security	NN	_	17	compound	_	O
+17	costs	cost	NNS	_	14	dobj	_	O
+18	in	in	IN	_	17	prep	_	O
+19	NYC	nyc	NNP	_	18	pobj	_	U-GPE
+20	https://t.co/OTmPPB7hOv	#hlink#	ADD	pos2=NN	19	appos	_	O
+

@@ -1,0 +1,24 @@
+1	Does	do	VBZ	_	5	aux	_	O
+2	n't	not	RB	_	5	neg	_	O
+3	the	the	DT	_	4	det	_	O
+4	tree	tree	NN	_	5	nsubj	_	O
+5	look	look	VB	_	0	root	_	O
+6	like	like	IN	_	5	prep	_	O
+7	a	a	DT	_	8	det	_	O
+8	lung	lung	NN	_	6	pobj	_	O
+9	?	?	.	_	5	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	breathe	breathe	VBP	_	0	root	_	O
+3	their	their	PRP$	_	4	poss	_	O
+4	air	air	NN	_	2	dobj	_	O
+5	all	all	PDT	_	7	predet	_	O
+6	the	the	DT	_	7	det	_	O
+7	time	time	NN	_	2	npadvmod	_	O
+8	!	!	.	_	2	punct	_	O
+
+1	#tree	#tree	UH	pos2=PRP	4	discourse	_	O
+2	#britishpilgrimage	#britishpilgrimage	UH	pos2=GW	4	discourse	_	O
+3	#jerusalem	#jerusalem	UH	pos2=GW	4	discourse	_	O
+4	https://t.co/0p3zEDHKTZ	#hlink#	ADD	pos2=UH	0	root	_	O
+

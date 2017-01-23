@@ -1,0 +1,30 @@
+1	Keeping	keep	VBG	_	0	root	_	O
+2	it	it	PRP	_	1	dobj	_	O
+3	too	too	RB	_	4	advmod	_	O
+4	cool	cool	JJ	pos2=RB	1	oprd	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	This	this	DT	_	3	nsubj	_	O
+2	could	could	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	an	an	DT	_	8	det	_	O
+5	inverse	inverse	JJ	pos2=NN	7	compound	_	O
+6	-	-	HYPH	pos2=:	7	punct	_	O
+7	Brexit	brexit	NNP	pos2=NN	8	compound	_	O
+8	situation	situation	NN	_	3	attr	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	No	no	DT	_	2	det	_	O
+2	reaction	reaction	NN	_	9	nsubj	_	O
+3	followed	followed	VBN	_	2	acl	_	O
+4	by	by	IN	_	3	agent	_	O
+5	selloff	selloff	NN	_	4	pobj	_	O
+6	in	in	IN	_	3	prep	_	O
+7	weeks	week	NNS	_	6	pobj	_	U-DATE
+8	to	to	TO	_	9	aux	_	O
+9	come	come	VB	_	0	root	_	O
+10	?	?	.	_	9	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/TXp2mqXj8j	#hlink#	ADD	pos2=NN	0	root	_	O
+

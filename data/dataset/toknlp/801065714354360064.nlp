@@ -1,0 +1,15 @@
+1	#Iraq	#iraq	NNP	pos2=SYM	2	compound	_	B-GPE
+2	#Erbil	#erbil	NNP	pos2=IN	14	nsubj	_	L-GPE
+3	More	more	JJR	pos2=RBR	7	nmod	_	O
+4	#civilians	#civilians	IN	pos2=NNPS	3	prep	_	O
+5	casualties	casualty	NNS	_	4	pobj	_	O
+6	left	left	JJ	pos2=VBD	7	nmod	_	O
+7	un-attended	un-attended	NN	pos2=JJ	2	appos	_	O
+8	and	and	CC	_	4	cc	_	O
+9	as	as	IN	_	11	mark	_	O
+10	hospitals	hospital	NNS	_	11	nsubj	_	O
+11	lack	lack	VBP	pos2=NN	12	advcl	_	O
+12	resou	resou	VBG	pos2=NNS	14	nmod	_	O
+13	rceshttps://t.co/WWrvkDgBED#mosuloffensive	#hlink#	ADD	_	11	dobj	_	O
+14	#journalism	#journalism	UH	pos2=-RRB-	0	root	_	O
+

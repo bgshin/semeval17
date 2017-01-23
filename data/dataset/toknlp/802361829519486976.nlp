@@ -1,0 +1,19 @@
+1	@RedNationRising	@rednationrising	VBG	pos2=ADD	6	csubj	_	O
+2	@aka_Mick	@aka_mick	$	pos2=NNP	6	punct	_	O
+3	@SheriffClarke	@sheriffclarke	UH	pos2=ADD	6	discourse	_	O
+4	I	I	PRP	_	6	nsubj	_	O
+5	would	would	MD	_	6	aux	_	O
+6	make	make	VB	_	0	root	_	O
+7	him	him	PRP	_	9	nsubj	_	O
+8	FBI	fbi	NNP	_	9	compound	_	U-ORG
+9	Director	director	NNP	_	6	ccomp	_	O
+10	and	and	CC	_	6	cc	_	O
+11	turn	turn	VB	_	6	conj	_	O
+12	him	him	PRP	_	11	dobj	_	O
+13	loose	loose	JJ	pos2=RB	11	oprd	_	O
+14	to	to	TO	_	15	aux	_	O
+15	purge	purge	VB	_	11	advcl	_	O
+16	the	the	DT	_	18	det	_	O
+17	crooked	crooked	JJ	_	18	nmod	_	O
+18	leftists	leftist	NNS	_	15	dobj	_	O
+

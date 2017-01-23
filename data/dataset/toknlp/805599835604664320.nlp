@@ -1,0 +1,13 @@
+1	Ultrasound	ultrasound	NN	_	4	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	Thermography	thermography	NNP	pos2=NN	1	conj	_	O
+4	needs	need	VBZ	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	be	be	VB	_	4	xcomp	_	O
+7	the	the	DT	_	9	det	_	O
+8	gold	gold	NN	pos2=JJ	9	compound	_	O
+9	standard	standard	NN	pos2=JJ	6	attr	_	O
+10	!	!	.	_	4	punct	_	O
+
+1	https://t.co/qXiQxzyx74	#hlink#	ADD	_	0	root	_	U-ORG
+

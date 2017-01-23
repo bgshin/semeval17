@@ -1,0 +1,22 @@
+1	Acceleration	acceleration	NN	_	21	dep	_	O
+2	into	into	IN	_	1	prep	_	O
+3	year	year	NN	_	4	compound	_	B-DATE
+4	end	end	NN	pos2=VBP	2	pobj	_	L-DATE
+5	in	in	IN	_	1	prep	_	O
+6	#Eurozone	#eurozone	NNP	pos2=CD	7	compound	_	U-GPE
+7	accord	accord	NN	_	5	pobj	_	O
+8	to	to	IN	pos2=TO	7	prep	_	O
+9	manuf	manuf	VB	pos2=NN	8	pobj	_	O
+10	and	and	CC	_	6	cc	_	O
+11	services	service	NNS	_	6	conj	_	O
+12	#PMI	#pmi	NNP	pos2=NNS	21	poss	_	U-ORG
+13	's	's	POS	pos2=AFX	12	case	_	O
+14	despite	despite	IN	_	1	prep	_	O
+15	political	political	JJ	_	16	nmod	_	O
+16	risks	risk	NNS	_	14	pobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	#Brexit	#brexit	NNP	pos2=NN	17	pobj	_	U-ORG
+19	,	,	,	_	1	punct	_	O
+20	…	…	NFP	pos2=-LRB-	21	punct	_	O
+21	https://t.co/EFam1KGCsU	#hlink#	ADD	pos2=NN	0	root	_	O
+

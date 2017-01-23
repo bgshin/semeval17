@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det	_	O
+2	#MannequinChallenge	#mannequinchallenge	NN	pos2=NNP	4	nsubj	_	O
+3	can	can	MD	_	4	aux	_	O
+4	end	end	VB	_	0	root	_	O
+5	now	now	RB	_	4	advmod	_	O
+6	:	:	:	_	4	punct	_	O
+7	Frank	frank	NNP	_	8	compound	_	B-PERSON
+8	Edoho	edoho	NNP	_	10	nsubj	_	L-PERSON
+9	just	just	RB	_	10	advmod	_	O
+10	won	win	VBD	_	5	ccomp	_	O
+11	it	it	PRP	_	12	nsubj	_	O
+12	READ	read	VB	pos2=VBN	10	ccomp	_	O
+13	MORE	more	RBR	pos2=JJR	12	advmod	_	O
+14	https://t.co/vhBGvYDDAZ	#hlink#	ADD	pos2=JJ	12	dobj	_	O
+

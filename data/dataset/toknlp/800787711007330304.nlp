@@ -1,0 +1,13 @@
+1	#Saakashvili	#saakashvili	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	was	be	VBD	_	0	root	_	O
+3	also	also	RB	_	2	advmod	_	O
+4	an	an	DT	_	5	det	_	O
+5	insult	insult	NN	_	2	attr	_	O
+6	to	to	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	#Georgia	#georgia	NNP	pos2=NN	6	pobj	_	U-NORP
+9	|	|	,	pos2=SYM	12	punct	_	O
+10	n	n	JJ	pos2=VBG	11	nmod	_	O
+11	people	people	NNS	_	12	dep	_	O
+12	https://t.co/Y4QsMy2UKh	#hlink#	ADD	pos2=VBP	2	dep	_	O
+

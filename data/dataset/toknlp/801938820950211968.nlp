@@ -1,0 +1,18 @@
+1	Genocide	genocide	NN	pos2=NNP	4	nsubj	_	O
+2	does	do	VBZ	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	take	take	VB	_	0	root	_	O
+5	a	a	DT	_	6	det	_	B-DATE
+6	day	day	NN	_	4	dobj	_	L-DATE
+7	off	off	RB	pos2=RP	4	advmod	_	O
+8	!	!	.	_	4	punct	_	O
+
+1	#NoDAPL	#nodapl	XX	pos2=ADD	8	dep	_	O
+2	#Unconstitutional	#unconstitutional	NNP	pos2=XX	8	dep	_	U-ORG
+3	#PoliceBrutality	#policebrutality	XX	pos2=NN	8	dep	_	O
+4	#StandingRock	#standingrock	XX	pos2=ADD	8	dep	_	O
+5	#HumanRights	#humanrights	XX	pos2=GW	8	dep	_	O
+6	#KelcyWarren	#kelcywarren	XX	pos2=GW	8	nmod	_	O
+7	…	…	NFP	pos2=XX	8	punct	_	O
+8	https://t.co/ycmlymmNHr	#hlink#	ADD	_	0	root	_	O
+

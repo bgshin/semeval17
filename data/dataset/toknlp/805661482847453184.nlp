@@ -1,0 +1,9 @@
+1	CSIR	csir	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	rubbishes	rubbish	VBZ	pos2=NNS	3	ccomp	_	O
+3	claims	claim	VBZ	pos2=NNS	0	root	_	O
+4	fracking	fracking	NN	_	6	nsubj	_	O
+5	will	will	MD	_	6	aux	_	O
+6	create	create	VB	_	3	ccomp	_	O
+7	jobs	job	NNS	_	6	dobj	_	O
+8	https://t.co/hqhlgJQQbA	#hlink#	ADD	_	6	dobj	_	O
+

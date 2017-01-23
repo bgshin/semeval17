@@ -1,0 +1,13 @@
+1	watching	watch	VBG	_	11	csubj	_	O
+2	this	this	DT	_	5	det	_	O
+3	david	david	NNP	pos2=FW	4	compound	_	O
+4	blaine	blaine	NNP	pos2=NN	5	compound	_	O
+5	shit	shit	NN	pos2=VB	1	dobj	_	O
+6	on	on	IN	pos2=RP	1	prep	_	O
+7	netflix	netflix	NNP	pos2=NN	6	pobj	_	U-ORG
+8	and	and	CC	_	3	cc	_	O
+9	this	this	DT	_	10	det	_	O
+10	mf	mf	NN	pos2=NNP	11	nsubj	_	O
+11	is	be	VBZ	_	0	root	_	O
+12	crazy	crazy	JJ	_	11	acomp	_	O
+

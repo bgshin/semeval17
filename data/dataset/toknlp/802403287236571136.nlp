@@ -1,0 +1,27 @@
+1	Vile	vile	JJ	pos2=NNP	2	nmod	_	O
+2	tyrant	tyrant	NN	_	7	nsubj	_	O
+3	#FidelCastro	#fidelcastro	WP	pos2=MD	6	nsubj	_	O
+4	not	not	RB	_	6	preconj	_	O
+5	only	only	RB	_	4	advmod	_	O
+6	oppressed	oppressed	JJ	pos2=VBN	7	nmod	_	O
+7	#Cuba	#cuba	NNP	pos2=NN	10	nsubj	_	U-ORG
+8	but	but	CC	_	7	cc	_	O
+9	also	also	RB	_	8	advmod	_	O
+10	helped	help	VBD	_	0	root	_	O
+11	to	to	TO	_	12	aux	_	O
+12	decimate	decimate	VB	_	10	xcomp	_	O
+13	#Venezuela	#venezuela	NNP	pos2=NNS	12	dobj	_	U-ORG
+14	.	.	.	_	10	punct	_	O
+
+1	No	no	DT	pos2=UH	2	det	_	O
+2	#Castro	#castro	NN	pos2=NNS	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	no	no	DT	pos2=UH	5	det	_	O
+5	#Chavez	#chavez	NNS	pos2=NN	2	appos	_	O
+6	,	,	,	_	2	punct	_	O
+7	no	no	DT	pos2=UH	8	det	_	O
+8	#Maduro	#maduro	NN	pos2=NNS	2	appos	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	😡@lisskron	😡@lisskron	ADD	pos2=NNP	0	root	_	O
+

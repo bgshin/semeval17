@@ -1,0 +1,16 @@
+1	Courageous	courageous	JJ	_	4	nmod	_	O
+2	&	&	CC	_	1	cc	_	O
+3	compelling	compelling	JJ	_	1	conj	_	O
+4	story	story	NN	_	0	root	_	O
+5	telling	tell	VBG	pos2=NN	4	acl	_	O
+6	of	of	IN	_	5	prep	_	O
+7	terrible	terrible	JJ	_	8	nmod	_	O
+8	trap	trap	NN	_	6	pobj	_	O
+9	for	for	IN	_	5	prep	_	O
+10	civilians	civilian	NNS	_	12	poss	_	O
+11	#Mosul	#mosul	POS	pos2=NNP	10	case	_	U-DATE
+12	#Mosuloffensive	#mosuloffensive	NNP	pos2=VBP	15	nmod	_	B-WORK_OF_ART
+13	@sommervillebbc	@sommervillebbc	GW	pos2=IN	15	nmod	_	I-WORK_OF_ART
+14	…	…	NFP	pos2=GW	15	punct	_	L-WORK_OF_ART
+15	https://t.co/LsO1VPqynZ	#hlink#	ADD	_	9	pobj	_	O
+

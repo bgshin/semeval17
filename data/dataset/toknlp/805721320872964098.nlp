@@ -1,0 +1,19 @@
+1	such	such	JJ	_	3	nmod	_	O
+2	sweet	sweet	JJ	_	3	nmod	_	O
+3	boys	boy	NNS	_	8	vocative	_	O
+4	,	,	,	_	8	punct	_	O
+5	do	do	VBP	_	8	aux	_	O
+6	n't	not	RB	_	8	neg	_	O
+7	you	you	PRP	_	8	nsubj	_	O
+8	agree	agree	VB	pos2=VBP	0	root	_	O
+9	pope	pope	NN	pos2=IN	10	compound	_	O
+10	francis	francis	NN	pos2=NNP	8	vocative	_	O
+11	...	..	.	pos2=,	8	punct	_	O
+
+1	you	you	PRP	pos2=PRP$	3	nmod	_	O
+2	demonic	demonic	JJ	_	3	nmod	_	O
+3	fuck	fuck	NN	_	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+
+1	https://t.co/CR6l89IhBN	#hlink#	ADD	_	0	root	_	U-ORG
+

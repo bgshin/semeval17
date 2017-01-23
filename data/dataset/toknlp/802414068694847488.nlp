@@ -1,0 +1,26 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	by	by	IN	_	2	prep	_	O
+4	far	far	RB	_	3	pcomp	_	O
+5	the	the	DT	_	11	det	_	O
+6	most	most	RBS	_	9	advmod	_	O
+7	clear	clear	JJ	_	9	advmod	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	eyed	eyed	JJ	_	11	nmod	_	O
+10	WH	wh	NN	pos2=NNP	11	compound	_	O
+11	appraisal	appraisal	NN	_	2	attr	_	O
+12	of	of	IN	_	11	prep	_	O
+13	Obamacare	obamacare	NNP	_	15	poss	_	U-ORG
+14	's	's	POS	_	13	case	_	O
+15	problems	problem	NNS	_	12	pobj	_	O
+16	that	that	WDT	pos2=IN	19	dobj	_	O
+17	we	we	PRP	_	19	nsubj	_	O
+18	've	have	VBP	_	19	aux	_	O
+19	seen	see	VBN	_	15	relcl	_	O
+20	.	.	.	_	2	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	encouraging	encouraging	JJ	pos2=VBG	2	acomp	_	O
+4	.	.	.	_	2	punct	_	O
+

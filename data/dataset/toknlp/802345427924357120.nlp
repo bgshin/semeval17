@@ -1,0 +1,23 @@
+1	Sang	sing	VBD	_	0	root	_	O
+2	one	#crd#	CD	pos2=PRP	0	root	_	U-CARDINAL
+3	my	my	PRP$	_	4	poss	_	O
+4	favourites	favourite	NNS	_	5	nsubj	_	O
+5	last	last	JJ	_	6	nmod	_	B-TIME
+6	night	night	NN	_	2	npadvmod	_	L-TIME
+7	for	for	IN	_	1	prep	_	O
+8	the	the	DT	_	11	det	_	O
+9	Leonard	leonard	NNP	_	11	compound	_	B-PERSON
+10	Cohen	cohen	NNP	_	11	compound	_	I-PERSON
+11	Tribute	tribute	NNP	pos2=NN	7	pobj	_	L-PERSON
+12	.	.	.	_	1	punct	_	O
+
+1	Such	such	PDT	_	4	predet	_	O
+2	an	an	DT	_	4	det	_	O
+3	amazing	amazing	JJ	_	4	nmod	_	O
+4	night	night	NN	_	6	nsubj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	be	be	VB	_	0	root	_	O
+7	a	a	DT	pos2=GW	8	det	_	O
+8	…	…	NFP	pos2=:	6	attr	_	O
+9	https://t.co/yIq29ynyPt	#hlink#	ADD	pos2=NN	6	dep	_	O
+

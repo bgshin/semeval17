@@ -1,0 +1,17 @@
+1	ISIS	isis	NN	pos2=NNP	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	A	a	DT	pos2=NN	5	det	_	O
+4	'	'	``	_	5	punct	_	O
+5	perversion	perversion	NN	_	0	root	_	O
+6	'	'	''	_	5	punct	_	O
+7	of	of	IN	_	5	prep	_	O
+8	Islam	islam	NNP	_	7	pobj	_	U-ORG
+9	?	?	.	_	5	punct	_	O
+
+1	#trump	#trump	UH	pos2=XX	6	discourse	_	O
+2	#maga	#maga	UH	pos2=GW	6	discourse	_	O
+3	#isis	#isis	UH	pos2=GW	6	nmod	_	O
+4	#tcot	#tcot	GW	pos2=UH	6	nmod	_	O
+5	https://t.co/EwdFUKW6wg	#hlink#	ADD	_	6	nmod	_	O
+6	https://t.co/JaBBu1TuFY	#hlink#	ADD	_	0	root	_	U-ORG
+

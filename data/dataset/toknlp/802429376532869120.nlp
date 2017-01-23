@@ -1,0 +1,23 @@
+1	@tripgabriel	@tripgabriel	UH	pos2=VB	9	discourse	_	O
+2	@nytimes	@nytimes	UH	pos2=IN	9	discourse	_	O
+3	Yes	yes	UH	_	9	discourse	_	O
+4	,	,	,	_	9	punct	_	O
+5	because	because	IN	_	9	mark	_	O
+6	Obamacare	obamacare	NNP	_	9	nsubj	_	U-PERSON
+7	and	and	CC	_	6	cc	_	O
+8	race	race	NN	_	6	conj	_	O
+9	is	be	VBZ	_	0	root	_	O
+10	the	the	DT	_	12	det	_	O
+11	only	only	JJ	_	12	nmod	_	O
+12	reason	reason	NN	_	9	attr	_	O
+13	to	to	TO	_	14	aux	_	O
+14	vote	vote	VB	_	12	relcl	_	O
+15	for	for	IN	_	14	prep	_	O
+16	or	or	CC	_	15	cc	_	O
+17	against	against	IN	_	15	conj	_	O
+18	Trump	trump	NNP	pos2=NN	20	poss	_	U-PERSON
+19	'	'	POS	pos2=``	18	case	_	O
+20	sarcasm	sarcasm	NN	_	17	pobj	_	O
+21	'	'	''	_	9	punct	_	O
+22	.	.	.	_	9	punct	_	O
+

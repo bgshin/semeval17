@@ -1,0 +1,9 @@
+1	#zac	#zac	SYM	pos2=VB	8	punct	_	O
+2	efron	efron	NN	pos2=FW	5	compound	_	O
+3	sex	sex	NN	_	4	compound	_	O
+4	pic	pic	NN	pos2=JJ	5	compound	_	O
+5	skins	skin	NNS	pos2=VBZ	8	dep	_	O
+6	michelle	michelle	JJ	pos2=GW	7	nmod	_	O
+7	sex	sex	NN	_	8	dep	_	O
+8	https://t.co/EQFbbfuJSA	#hlink#	ADD	pos2=NN	0	root	_	O
+

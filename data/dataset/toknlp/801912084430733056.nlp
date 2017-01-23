@@ -1,0 +1,18 @@
+1	Thanksgiving	thanksgiving	NNP	pos2=NN	3	nmod	_	U-EVENT
+2	leftover	leftover	JJ	pos2=NN	3	nmod	_	O
+3	mashups	mashup	NNS	_	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	my	my	PRP$	_	6	poss	_	O
+6	faaaaav	faaaaav	NN	pos2=NNS	4	attr	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	One	#crd#	CD	_	5	nmod	_	U-CARDINAL
+2	big	big	JJ	_	5	nmod	_	O
+3	holiday	holiday	NN	_	4	compound	_	O
+4	garbage	garbage	NN	_	5	compound	_	O
+5	pile	pile	NN	_	0	root	_	O
+6	of	of	IN	_	5	prep	_	O
+7	awesomeness.#ScreamQueens	awesomeness.#screamqueens	NNP	pos2=NNS	6	pobj	_	O
+8	…	…	NFP	pos2=-LRB-	5	punct	_	O
+9	https://t.co/YYBT02an1s	#hlink#	ADD	_	5	appos	_	O
+

@@ -1,0 +1,20 @@
+1	@WemittPatrick	@wemittpatrick	ADD	pos2=VB	5	advmod	_	U-FAC
+2	@Merry__Can	@merry__can	ADD	pos2=XX	5	advmod	_	O
+3	@therealcornett	@therealcornett	UH	pos2=IN	12	discourse	_	O
+4	@megynkelly	@megynkelly	RB	pos2=DT	5	advmod	_	O
+5	Same	same	JJ	pos2=NNP	10	nmod	_	O
+6	here	here	RB	_	3	advmod	_	O
+7	,	,	,	_	12	punct	_	O
+8	though	though	IN	_	12	mark	_	O
+9	I	I	PRP	_	12	nsubj	_	O
+10	'll	will	MD	_	12	aux	_	O
+11	gladly	gladly	RB	_	12	advmod	_	O
+12	watch	watch	VB	_	0	root	_	O
+13	@seanhannity	@seanhannity	NN	pos2=CD	12	dobj	_	O
+14	at	at	IN	_	12	prep	_	O
+15	night	night	NN	_	14	pobj	_	U-TIME
+16	when	when	WRB	_	12	advcl	_	O
+17	I	I	PRP	_	18	nsubj	_	O
+18	can	can	MD	_	16	aux	_	O
+19	!	!	.	_	12	punct	_	O
+

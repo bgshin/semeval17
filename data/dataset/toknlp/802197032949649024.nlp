@@ -1,0 +1,18 @@
+1	Get	get	VB	_	0	root	_	O
+2	over	over	IN	_	1	prep	_	O
+3	it	it	PRP	_	2	pobj	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	-	-	SYM	pos2=:	6	punct	_	O
+2	Charlie	charlie	NNP	_	3	compound	_	B-PERSON
+3	Daniel	daniel	NNP	_	4	compound	_	L-PERSON
+4	cartoon	cartoon	NN	pos2=NNP	6	compound	_	O
+5	@KnoxNews	@knoxnews	NNP	pos2=NNPS	6	compound	_	B-PERSON
+6	#TCOT	#tcot	NNP	pos2=VBD	12	dep	_	L-PERSON
+7	#LNYHBT	#lnyhbt	ADD	pos2=NN	12	dep	_	O
+8	#TGDN	#tgdn	NNP	pos2=ADD	12	dep	_	U-ORG
+9	#MAGA	#maga	NN	pos2=GW	12	dep	_	O
+10	#DrainTheSwamp	#draintheswamp	GW	pos2=XX	12	nmod	_	B-DATE
+11	#BuildTheWall	#buildthewall	GW	pos2=ADD	12	nmod	_	L-DATE
+12	https://t.co/A7qO78VHem	#hlink#	ADD	pos2=NN	0	root	_	O
+

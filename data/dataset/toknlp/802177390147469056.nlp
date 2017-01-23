@@ -1,0 +1,10 @@
+1	Wonder	wonder	VB	pos2=VBP	0	root	_	O
+2	how	how	WRB	_	6	advmod	_	O
+3	Tony	tony	NNP	_	4	compound	_	B-PERSON
+4	Romo	romo	NNP	_	6	nsubj	_	I-PERSON
+5	's	's	POS	_	4	case	_	L-PERSON
+6	feeling	feel	VBG	pos2=NN	1	ccomp	_	O
+7	right	right	RB	pos2=JJ	8	advmod	_	O
+8	now	now	RB	_	6	advmod	_	O
+9	.	.	.	_	1	punct	_	O
+

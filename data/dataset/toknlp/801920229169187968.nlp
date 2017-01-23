@@ -1,0 +1,22 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@utahjazz	@utahjazz	PRP$	pos2=UH	2	poss	_	O
+2	players	player	NNS	_	3	nsubj	_	O
+3	aim	aim	VBP	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	give	give	VB	_	3	xcomp	_	O
+6	Rudy	rudy	NNP	_	7	compound	_	B-PERSON
+7	Gobert	gobert	NNP	_	5	dative	_	L-PERSON
+8	the	the	DT	_	9	det	_	O
+9	experience	experience	NN	_	5	dobj	_	O
+10	his	his	PRP$	_	12	poss	_	O
+11	French	french	JJ	_	12	nmod	_	U-NORP
+12	childhood	childhood	NN	_	13	nsubj	_	O
+13	deprived	deprive	VBD	pos2=VBN	9	relcl	_	O
+14	him	him	PRP	_	13	dobj	_	O
+15	of	of	IN	_	13	prep	_	O
+16	:	:	:	pos2=NFP	13	punct	_	O
+17	catching	catch	VBG	_	19	nmod	_	O
+18	pa	pa	NN	pos2=GW	17	dobj	_	O
+19	sseshttps://t.co/cZcmBwoHUI	#hlink#	ADD	pos2=NN	15	pobj	_	O
+

@@ -1,0 +1,22 @@
+1	Spirit	spirit	NNP	pos2=NN	7	vocative	_	O
+2	of	of	IN	_	1	prep	_	O
+3	my	my	PRP$	_	4	poss	_	O
+4	silence	silence	NN	_	2	pobj	_	O
+5	i	I	PRP	_	7	nsubj	_	O
+6	can	can	MD	_	7	aux	_	O
+7	hear	hear	VB	_	0	root	_	O
+8	you	you	PRP	_	7	dobj	_	O
+9	.	.	.	_	7	punct	_	O
+
+1	But	but	CC	_	3	cc	_	O
+2	im	im	NN	pos2=PRP	0	root	_	O
+3	afraid	afraid	JJ	_	2	acomp	_	O
+4	to	to	TO	_	5	aux	_	O
+5	be	be	VB	_	3	xcomp	_	O
+6	near	near	IN	_	5	prep	_	O
+7	you	you	PRP	_	6	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	#ThisIsUs	#thisisus	ADD	pos2=NN	2	det	_	O
+2	😍😍😍	😍😍😍	NN	pos2=.	0	root	_	O
+

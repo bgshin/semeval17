@@ -1,0 +1,21 @@
+1	Disinfomedia	disinfomedia	NN	pos2=NNS	20	dep	_	O
+2	:	:	:	_	20	punct	_	O
+3	commercial	commercial	JJ	_	6	nmod	_	O
+4	fake	fake	JJ	_	6	nmod	_	O
+5	news	news	NN	_	6	compound	_	O
+6	producer	producer	NN	_	20	dep	_	O
+7	,	,	,	_	6	punct	_	O
+8	run	run	VBN	pos2=VB	6	acl	_	O
+9	by	by	IN	_	8	agent	_	O
+10	a	a	DT	_	11	det	_	O
+11	Democrat	democrat	NNP	_	9	pobj	_	U-NORP
+12	to	to	TO	_	13	aux	_	O
+13	discredit	discredit	VB	_	8	advcl	_	O
+14	incautious	incautious	JJ	_	15	nmod	_	O
+15	rightists	rightist	NNS	_	13	dobj	_	O
+16	who	who	WP	_	17	nsubj	_	O
+17	share	share	VBP	pos2=VB	15	relcl	_	O
+18	its	its	PRP$	_	19	poss	_	O
+19	fakes	fake	NNS	pos2=VBZ	17	dobj	_	O
+20	https://t.co/EXK5fhzbra	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,20 @@
+1	Special	special	NNP	pos2=JJ	2	compound	_	O
+2	Edition	edition	NNP	pos2=NN	19	dep	_	O
+3	of	of	IN	_	2	prep	_	O
+4	Impact	impact	NNP	pos2=NN	3	pobj	_	O
+5	with	with	IN	_	2	prep	_	O
+6	Jackie	jackie	NNP	_	7	compound	_	O
+7	Nespral	nespral	NNP	_	5	pobj	_	O
+8	:	:	:	_	2	punct	_	O
+9	Fidel	fidel	NNP	_	10	compound	_	B-PERSON
+10	Castro	castro	NNP	_	12	poss	_	I-PERSON
+11	's	's	POS	_	10	case	_	L-PERSON
+12	Burial	burial	NNP	pos2=NN	2	appos	_	O
+13	--	--	:	pos2=HYPH	2	punct	_	O
+14	Dec.	dec.	NNP	_	2	appos	_	B-DATE
+15	4	0	CD	_	14	nmod	_	I-DATE
+16	,	,	,	_	14	punct	_	I-DATE
+17	2016	0	CD	pos2=GW	14	nmod	_	L-DATE
+18	https://t.co/qtYyiDl3nY	#hlink#	ADD	_	19	nmod	_	O
+19	https://t.co/ZfbI0en00T	#hlink#	ADD	_	0	root	_	U-ORG
+

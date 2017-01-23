@@ -1,0 +1,5 @@
+1	KING	king	NN	pos2=NNP	4	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	vegetarianism	vegetarianism	NN	_	2	pobj	_	O
+4	https://t.co/QVro1zJmQa	#hlink#	ADD	pos2=NN	0	root	_	O
+

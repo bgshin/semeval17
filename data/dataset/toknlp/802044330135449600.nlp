@@ -1,0 +1,18 @@
+1	Watch	watch	VB	pos2=NNP	0	root	_	O
+2	Tesla	tesla	NNP	_	3	compound	_	B-ORG
+3	Model	model	NNP	pos2=NN	5	poss	_	I-ORG
+4	S	s	POS	pos2=NNP	3	case	_	L-ORG
+5	P85D	p0d	NN	pos2=NNP	8	poss	_	O
+6	’s	's	POS	pos2=AFX	5	case	_	O
+7	instant	instant	JJ	pos2=NN	8	nmod	_	O
+8	speed	speed	NN	_	9	nsubj	_	O
+9	avoid	avoid	VB	pos2=VBP	1	ccomp	_	O
+10	a	a	DT	_	15	det	_	O
+11	potential	potential	JJ	_	15	nmod	_	O
+12	rear	rear	JJ	pos2=NN	14	nmod	_	O
+13	-	-	HYPH	_	14	punct	_	O
+14	end	end	NN	_	15	compound	_	O
+15	collision	collision	NN	pos2=GW	9	dobj	_	O
+16	https://t.co/qot1eSpZ5A	#hlink#	ADD	_	17	nmod	_	O
+17	https://t.co/FuDK8gD8nZ	#hlink#	ADD	_	1	dep	_	U-ORG
+

@@ -1,0 +1,32 @@
+1	Curry	curry	NN	pos2=NNP	17	dep	_	U-PERSON
+2	:	:	:	_	17	punct	_	O
+3	"	"	``	_	17	punct	_	O
+4	The	the	DT	_	6	det	_	O
+5	political	political	JJ	_	6	nmod	_	O
+6	dogma	dogma	NN	_	17	nsubj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Obama	obama	NNP	_	7	pobj	_	U-PERSON
+9	,	,	,	_	8	punct	_	O
+10	Clinton	clinton	NNP	_	8	conj	_	U-PERSON
+11	and	and	CC	_	10	cc	_	O
+12	Pope	pope	NNP	_	13	compound	_	O
+13	Francis	francis	NNP	_	10	conj	_	O
+14	surrounding	surround	VBG	_	16	nmod	_	O
+15	climate	climate	NN	_	16	compound	_	O
+16	change	change	NN	_	17	nsubj	_	O
+17	seems	seem	VBZ	_	0	root	_	O
+18	like	like	IN	_	17	prep	_	O
+19	more	more	JJR	_	18	pobj	_	O
+20	of	of	IN	_	19	prep	_	O
+21	a	a	DT	_	22	det	_	O
+22	recipe	recipe	NN	_	20	pobj	_	O
+23	for	for	IN	_	22	prep	_	O
+24	‘	'	``	pos2=POS	23	punct	_	O
+25	anti	anti	AFX	pos2=JJ	27	nmod	_	O
+26	-	-	HYPH	pos2=SYM	27	punct	_	O
+27	science	science	NN	_	23	pobj	_	O
+28	.	.	.	_	17	punct	_	O
+
+1	’	'	''	pos2=``	2	nmod	_	O
+2	"	"	''	pos2=``	0	mark	_	O
+

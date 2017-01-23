@@ -1,0 +1,24 @@
+1	Fidel	fidel	NNP	_	5	poss	_	U-PERSON
+2	's	's	POS	_	1	case	_	O
+3	final	final	JJ	pos2=NN	5	nmod	_	O
+4	resting	resting	NN	pos2=JJ	5	compound	_	O
+5	place	place	NN	_	9	dep	_	O
+6	:	:	:	_	9	punct	_	O
+7	Raul	raul	NNP	_	8	compound	_	B-PERSON
+8	Castro	castro	NNP	_	9	nsubj	_	L-PERSON
+9	receives	receive	VBZ	_	0	root	_	O
+10	his	his	PRP$	_	11	poss	_	O
+11	brother	brother	NN	_	13	poss	_	O
+12	's	's	POS	_	11	case	_	O
+13	ashes	ash	NNS	_	9	dobj	_	O
+14	encased	encase	VBN	pos2=VBD	13	acl	_	O
+15	in	in	IN	_	14	prep	_	O
+16	a	a	DT	_	17	det	_	O
+17	ceda	ceda	NN	_	15	pobj	_	O
+18	...	..	.	pos2=,	9	punct	_	O
+
+1	-	-	SYM	pos2=NFP	3	punct	_	O
+2	Daily	daily	JJ	pos2=NNP	3	nmod	_	U-DATE
+3	Mail	mail	NN	pos2=GW	4	dep	_	O
+4	https://t.co/Ff4AgbEuo7	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

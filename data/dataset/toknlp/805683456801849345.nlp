@@ -1,0 +1,22 @@
+1	#MuhammadAli	#muhammadali	NNS	pos2=NN	13	nmod	_	O
+2	70	0	CD	_	3	nmod	_	B-PERCENT
+3	%	%	NN	_	4	compound	_	L-PERCENT
+4	SALE	sale	NN	_	6	compound	_	O
+5	MUHAMMAD	muhammad	NNP	pos2=NN	6	compound	_	B-PERSON
+6	ALI	ali	NNP	_	1	appos	_	L-PERSON
+7	,	,	,	_	6	punct	_	O
+8	SONNY	sonny	NNP	_	9	compound	_	B-PERSON
+9	LISTON	liston	NNP	_	13	nmod	_	L-PERSON
+10	24	0	CD	_	13	nmod	_	U-CARDINAL
+11	X	x	SYM	pos2=NNS	12	punct	_	O
+12	18	0	CD	_	10	prep	_	U-CARDINAL
+13	CANVAS	canvas	NN	pos2=NNS	21	nmod	_	O
+14	&	&	CC	_	13	cc	_	O
+15	3	0	CD	_	17	nmod	_	U-CARDINAL
+16	FREE	free	JJ	_	17	nmod	_	O
+17	PRINTS	print	NNS	_	13	conj	_	O
+18	SIGNED	sign	VBN	pos2=VBD	0	root	_	O
+19	https://t.co/qKquvnkITX	#hlink#	ADD	_	18	dobj	_	B-DATE
+20	#Legend	#legend	-RRB-	pos2=NNP	21	punct	_	L-DATE
+21	#Boxer	#boxer	NN	pos2=-RRB-	0	root	_	O
+

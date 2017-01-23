@@ -1,0 +1,19 @@
+1	@AdrianaMaestas	@adrianamaestas	NNS	pos2=ADD	2	compound	_	O
+2	@Cato_of_Utica	@cato_of_utica	NN	pos2=ADD	4	dobj	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	read	read	VBD	pos2=VBP	0	root	_	O
+5	one	#crd#	CD	_	4	dobj	_	U-CARDINAL
+6	for	for	IN	_	5	prep	_	O
+7	Medicaid	medicaid	NNP	_	8	compound	_	U-ORG
+8	expansion	expansion	NN	_	6	pobj	_	O
+9	and	and	CC	_	4	cc	_	O
+10	it	it	PRP	_	12	nsubj	_	O
+11	almost	almost	RB	_	12	advmod	_	O
+12	made	make	VBD	_	4	conj	_	O
+13	my	my	PRP$	_	14	poss	_	O
+14	eyes	eye	NNS	_	15	nsubj	_	O
+15	bleed	bleed	VBP	pos2=NN	12	ccomp	_	O
+16	I	I	PRP	_	17	nsubj	_	O
+17	swear	swear	VBP	pos2=VB	15	parataxis	_	O
+18	.	.	.	_	12	punct	_	O
+

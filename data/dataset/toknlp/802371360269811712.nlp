@@ -1,0 +1,26 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	love	love	VBP	_	19	csubj	_	O
+3	our	our	PRP$	_	5	poss	_	O
+4	green	green	JJ	_	5	nmod	_	O
+5	vehicles	vehicle	NNS	_	2	dobj	_	O
+6	(	(	-LRB-	_	5	punct	_	O
+7	@Tesla	@tesla	NNP	pos2=NN	9	compound	_	B-ORG
+8	Model	model	NNP	pos2=NN	9	compound	_	I-ORG
+9	S	s	NNP	pos2=NN	5	appos	_	L-ORG
+10	and	and	CC	_	9	cc	_	O
+11	@Toyota	@toyota	NNP	_	12	compound	_	B-GPE
+12	Mirai	mirai	NNP	_	9	conj	_	L-GPE
+13	)	)	-RRB-	_	5	punct	_	O
+14	but	but	CC	_	2	cc	_	O
+15	sometimes	sometimes	RB	_	16	advmod	_	O
+16	lack	lack	NN	pos2=VBP	2	conj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	infrastructure	infrastructure	NN	_	17	pobj	_	O
+19	makes	make	VBZ	_	0	root	_	O
+20	the	the	DT	_	23	det	_	O
+21	V8	v0	NN	pos2=NNP	23	compound	_	O
+22	-	-	HYPH	pos2=,	23	punct	_	O
+23	pow	pow	NN	pos2=GW	24	nsubj	_	O
+24	…	…	NFP	pos2=GW	25	punct	_	O
+25	https://t.co/KxJN3t21Qk	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

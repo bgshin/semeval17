@@ -1,0 +1,20 @@
+1	How	how	WRB	_	3	advmod	_	O
+2	to	to	TO	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	fierce	fierce	JJ	_	3	acomp	_	O
+5	with	with	IN	_	4	prep	_	O
+6	zac	zac	NNP	pos2=JJ	8	compound	_	B-PERSON
+7	efron	efron	NNP	pos2=NN	8	compound	_	L-PERSON
+8	#part6	#part0	NNP	pos2=NN	5	pobj	_	O
+9	(	(	-LRB-	_	10	punct	_	O
+10	THANK	thank	VBP	pos2=ADD	19	nmod	_	O
+11	YOU	you	PRP	_	10	dobj	_	O
+12	@lelepons	@lelepons	NNS	pos2=NNPS	10	prep	_	O
+13	!)	!)	NFP	pos2=SYM	10	advmod	_	O
+14	(	(	-LRB-	_	15	punct	_	O
+15	Vine	vine	NNP	pos2=NN	19	dep	_	U-ORG
+16	by	by	IN	pos2=GW	15	prep	_	O
+17	@allicatttx	@allicatttx	GW	pos2=NNP	16	pobj	_	O
+18	)	)	-RRB-	pos2=GW	15	punct	_	O
+19	https://t.co/TRoXIUMiIV	#hlink#	ADD	pos2=NN	0	root	_	O
+

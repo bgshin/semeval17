@@ -1,0 +1,9 @@
+1	This	this	DT	_	2	det	_	B-DATE
+2	Week	week	NN	pos2=NNP	7	npadvmod	_	L-DATE
+3	in	in	IN	_	2	prep	_	O
+4	Ridiculous	ridiculous	JJ	pos2=NNP	5	nmod	_	O
+5	Regulations	regulation	NNS	pos2=NNPS	3	pobj	_	O
+6	https://t.co/xcyMkClFk5	#hlink#	ADD	pos2=VBP	5	nmod	_	O
+7	#tcot	#tcot	IN	pos2=-RRB-	0	root	_	O
+8	#tpp	#tpp	UH	pos2=NN	7	discourse	_	O
+

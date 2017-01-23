@@ -1,0 +1,25 @@
+1	Conservative	conservative	JJ	_	5	advmod	_	O
+2	,	,	,	_	1	punct	_	O
+3	old	old	JJ	_	1	conj	_	O
+4	,	,	,	_	3	punct	_	O
+5	white	white	JJ	_	9	advmod	_	O
+6	,	,	,	_	3	punct	_	O
+7	privileged	privileged	JJ	_	3	conj	_	O
+8	,	,	,	_	7	punct	_	O
+9	christian	christian	JJ	_	11	nmod	_	U-NORP
+10	,	,	,	_	7	punct	_	O
+11	gawd	gawd	NN	pos2=RB	12	advmod	_	O
+12	fearing	fear	VBG	pos2=NN	14	advmod	_	O
+13	,	,	,	_	12	punct	_	O
+14	white	white	JJ	_	16	advmod	_	O
+15	,	,	,	_	14	punct	_	O
+16	privileged	privileged	JJ	_	20	advmod	_	O
+17	,	,	,	_	16	punct	_	O
+18	old	old	JJ	_	14	conj	_	O
+19	,	,	,	_	18	punct	_	O
+20	conservative	conservative	JJ	_	0	root	_	O
+21	,	,	,	_	20	punct	_	O
+22	white	white	JJ	_	20	conj	_	O
+23	&	&	CC	_	22	cc	_	O
+24	dangerous.#TrumpTransitionTeam	dangerous.#trumptransitionteam	NN	pos2=NNP	22	conj	_	O
+

@@ -1,0 +1,24 @@
+1	Paying	pay	VBG	_	7	csubj	_	O
+2	attention	attention	NN	_	1	dobj	_	O
+3	@realDonaldTrump	@realdonaldtrump	XX	pos2=NN	7	dep	_	O
+4	@RepTomPrice	@reptomprice	XX	pos2=VBP	7	dep	_	O
+5	u	u	PRP	pos2=XX	7	nsubj	_	O
+6	'll	will	MD	_	7	aux	_	O
+7	have	have	VB	_	0	root	_	O
+8	more	more	JJR	_	9	nmod	_	O
+9	abortions	abortion	NNS	_	7	dobj	_	O
+10	if	if	IN	_	14	mark	_	O
+11	birth	birth	NN	_	12	compound	_	O
+12	control	control	NN	_	14	nsubj	_	O
+13	not	not	RB	_	14	neg	_	O
+14	free	free	JJ	pos2=VB	9	advcl	_	O
+15	!	!	.	_	7	punct	_	O
+
+1	u	u	SYM	pos2=LS	7	punct	_	O
+2	pro-life	pro-life	JJ	pos2=NN	5	nmod	_	O
+3	&	&	CC	_	2	cc	_	O
+4	4	0	CD	_	5	nmod	_	B-QUANTITY
+5	d	d	NNS	pos2=NN	7	dep	_	L-QUANTITY
+6	…	…	NFP	pos2=:	7	punct	_	O
+7	https://t.co/6qViO6Ik15	#hlink#	ADD	_	0	root	_	O
+

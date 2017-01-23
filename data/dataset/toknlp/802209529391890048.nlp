@@ -1,0 +1,27 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	suspect	suspect	VBP	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	reason	reason	NN	_	9	nsubj	_	O
+5	why	why	WRB	_	7	advmod	_	O
+6	Putin	putin	NNP	_	7	nsubj	_	U-PERSON
+7	denounced	denounce	VBD	pos2=VBN	4	relcl	_	O
+8	bitcoin	bitcoin	NN	_	7	dobj	_	O
+9	is	be	VBZ	_	2	ccomp	_	O
+10	b	b	JJ	pos2=AFX	12	nmod	_	O
+11	/	/	HYPH	pos2=SYM	12	punct	_	O
+12	c	c	NN	pos2=JJ	13	compound	_	O
+13	countries	country	NNS	_	14	nsubj	_	O
+14	manipulate	manipulate	VBP	pos2=VB	9	ccomp	_	O
+15	their	their	PRP$	_	17	poss	_	O
+16	currency	currency	NN	_	17	compound	_	O
+17	value	value	NN	_	14	dobj	_	O
+18	to	to	TO	_	19	aux	_	O
+19	help	help	VB	_	14	advcl	_	O
+20	each	each	DT	_	21	det	_	O
+21	other	other	JJ	_	19	dobj	_	O
+22	with	with	IN	_	19	prep	_	O
+23	regards	regard	NNS	_	22	pobj	_	O
+24	to	to	TO	pos2=IN	23	prep	_	O
+25	trade	trade	VB	pos2=NN	24	pobj	_	O
+26	.	.	.	_	2	punct	_	O
+

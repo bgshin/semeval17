@@ -1,0 +1,20 @@
+1	Luke	luke	NNP	_	2	compound	_	B-PERSON
+2	Kennard	kennard	NNP	_	3	nsubj	_	L-PERSON
+3	done	do	VBN	pos2=WP$	0	root	_	O
+4	turned	turn	VBD	_	3	advcl	_	O
+5	into	into	IN	_	4	prep	_	O
+6	our	our	PRP$	_	8	poss	_	O
+7	best	good	JJS	_	8	nmod	_	O
+8	player	player	NN	_	5	pobj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	He	he	PRP	_	3	nsubj	_	O
+2	's	's	VBZ	_	3	aux	_	O
+3	having	have	VBG	_	0	root	_	O
+4	that	that	DT	pos2=IN	6	det	_	O
+5	last	last	JJ	_	6	nmod	_	B-DATE
+6	season	season	NN	_	9	compound	_	L-DATE
+7	Grayson	grayson	NNP	_	8	compound	_	B-PERSON
+8	Allen	allen	NNP	_	9	compound	_	L-PERSON
+9	breakout	breakout	NN	_	3	dobj	_	O
+

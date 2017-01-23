@@ -1,0 +1,27 @@
+1	HISTORIC	historic	JJ	_	2	nmod	_	O
+2	speech	speech	NN	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	PUTIN	putin	NNP	_	3	pobj	_	U-PERSON
+5	on	on	IN	_	2	prep	_	O
+6	NEW	new	JJ	pos2=NNP	8	nmod	_	O
+7	WORLD	world	NN	pos2=NNP	8	compound	_	O
+8	ORDER	order	NN	_	5	pobj	_	O
+9	!!	!!	.	_	2	punct	_	O
+
+1	Maybe	maybe	RB	_	4	advmod	_	O
+2	TRUMP	trump	NN	pos2=NNP	4	nsubjpass	_	U-PERSON
+3	was	be	VBD	_	4	auxpass	_	O
+4	hired	hire	VBN	_	0	root	_	O
+5	to	to	TO	pos2=IN	6	aux	_	O
+6	work	work	VB	_	4	xcomp	_	O
+7	for	for	IN	_	6	prep	_	O
+8	him	him	PRP	_	7	pobj	_	O
+9	!!	!!	.	_	4	punct	_	O
+
+1	2016	0	CD	_	2	nmod	_	U-DATE
+2	Share	share	NN	pos2=NNP	4	dep	_	O
+3	:	:	:	_	4	punct	_	O
+4	https://t.co/GUS9d78p2B	#hlink#	ADD	_	0	root	_	O
+5	via	via	IN	_	4	prep	_	O
+6	@YouTube	@youtube	NNP	pos2=NN	5	pobj	_	O
+

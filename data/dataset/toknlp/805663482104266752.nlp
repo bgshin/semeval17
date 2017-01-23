@@ -1,0 +1,20 @@
+1	@garrettclayton1	@garrettclayton0	NN	pos2=EX	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	6	det	_	O
+4	much	much	RB	_	5	advmod	_	O
+5	better	good	JJR	_	6	nmod	_	O
+6	Link	link	NNP	pos2=NN	2	attr	_	U-ORG
+7	than	than	IN	_	6	prep	_	O
+8	Zac	zac	NNP	_	9	compound	_	B-PERSON
+9	Efron	efron	NNP	_	7	pobj	_	L-PERSON
+10	,	,	,	_	2	punct	_	O
+11	but	but	CC	_	2	cc	_	O
+12	I	I	PRP	_	13	nsubj	_	O
+13	'm	be	VBP	_	2	conj	_	O
+14	still	still	RB	_	13	advmod	_	O
+15	still	still	RB	_	13	advmod	_	O
+16	partial	partial	JJ	_	13	acomp	_	O
+17	to	to	IN	_	16	prep	_	O
+18	Matthew	matthew	NNP	_	19	compound	_	B-PERSON
+19	Morrison	morrison	NNP	_	17	pobj	_	L-PERSON
+

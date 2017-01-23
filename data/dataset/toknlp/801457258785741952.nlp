@@ -1,0 +1,18 @@
+1	#MosulOffensive	#mosuloffensive	ADD	pos2=UH	4	punct	_	O
+2	it	it	PRP	_	4	nsubj	_	O
+3	will	will	MD	_	4	aux	_	O
+4	be	be	VB	_	0	root	_	O
+5	a	a	DT	_	7	det	_	O
+6	great	great	JJ	_	7	nmod	_	O
+7	day	day	NN	_	4	attr	_	O
+8	to	to	TO	_	9	aux	_	O
+9	see	see	VB	_	4	xcomp	_	O
+10	him	him	PRP	_	11	nsubj	_	O
+11	dead	dead	JJ	pos2=RB	9	ccomp	_	O
+12	in	in	IN	_	11	prep	_	O
+13	a	a	DT	_	14	det	_	O
+14	cave	cave	NN	_	12	pobj	_	O
+15	.	.	.	_	4	punct	_	O
+
+1	https://t.co/D2UNvbk2DT	#hlink#	ADD	_	0	root	_	U-ORG
+

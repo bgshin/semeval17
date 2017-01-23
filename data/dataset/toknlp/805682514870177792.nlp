@@ -1,0 +1,28 @@
+1	Animal	animal	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Testg	testg	NNP	_	4	nsubj	_	L-PERSON
+3	Must	must	MD	pos2=NNP	4	aux	_	O
+4	stop	stop	VB	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	Dogs	dog	NNS	pos2=NNP	3	nmod	_	O
+2	r	r	POS	pos2=JJ	1	case	_	O
+3	force	force	NN	pos2=FW	0	root	_	O
+4	fed	feed	VBN	pos2=VBD	5	nmod	_	O
+5	poisons	poison	NNS	_	3	dobj	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	Cold	cold	JJ	pos2=NNP	3	nmod	_	O
+2	metal	metal	NN	_	3	compound	_	O
+3	cages	cage	NNS	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Bitter	bitter	JJ	_	2	nmod	_	O
+2	pain	pain	NN	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Unseen	unseen	JJ	_	2	nmod	_	O
+2	convulsions	convulsion	NNS	_	0	root	_	O
+3	https://t.co/tjCibFpDZL	#hlink#	ADD	pos2=VBP	2	acl	_	O
+4	via	via	IN	_	2	prep	_	O
+5	@ChangeOrg_India	@changeorg_india	NN	pos2=ADD	4	pobj	_	O
+

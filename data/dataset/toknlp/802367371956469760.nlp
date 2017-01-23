@@ -1,0 +1,34 @@
+1	@mic	@mic	XX	pos2=NFP	8	dep	_	O
+2	Hillary	hillary	NNP	_	8	nsubj	_	U-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	Bernie	bernie	NNP	_	2	conj	_	U-PERSON
+5	both	both	DT	pos2=CC	2	appos	_	O
+6	would	would	MD	_	8	aux	_	O
+7	have	have	VB	_	8	aux	_	O
+8	backed	back	VBN	_	0	root	_	O
+9	out	out	IN	pos2=RP	8	prep	_	O
+10	of	of	IN	_	9	prep	_	O
+11	TPP	tpp	NN	pos2=NNP	10	pobj	_	O
+12	,	,	,	_	8	punct	_	O
+13	but	but	CC	_	8	cc	_	O
+14	now	now	RB	_	20	advmod	_	O
+15	that	that	IN	pos2=DT	17	mark	_	O
+16	Trump	trump	NNP	pos2=NN	17	nsubj	_	U-ORG
+17	is	be	VBZ	_	14	ccomp	_	O
+18	,	,	,	_	20	punct	_	O
+19	it	it	PRP	_	20	nsubj	_	O
+20	's	's	VBZ	_	8	conj	_	O
+21	bad	bad	JJ	_	22	nmod	_	O
+22	news	news	NN	_	20	attr	_	O
+23	?	?	.	_	20	punct	_	O
+
+1	Had	have	VBD	_	7	advcl	_	O
+2	HRC	hrc	NNP	pos2=NN	1	dobj	_	U-ORG
+3	one	#crd#	CD	pos2=NN	2	nmod	_	U-CARDINAL
+4	,	,	,	_	7	punct	_	O
+5	MIC	mic	NN	pos2=NNP	7	nsubj	_	O
+6	would	would	MD	_	7	aux	_	O
+7	love	love	VB	_	0	root	_	O
+8	TPP	tpp	NN	pos2=NNP	7	dobj	_	U-ORG
+9	...	..	.	pos2=,	7	punct	_	O
+

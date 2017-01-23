@@ -1,0 +1,15 @@
+1	Wikileaks	wikileaks	NNP	pos2=NNS	4	dep	_	U-ORG
+2	:	:	:	_	4	punct	_	O
+3	Clinton	clinton	NNP	_	4	compound	_	B-ORG
+4	Foundation	foundation	NNP	_	7	nsubj	_	I-ORG
+5	Inside	inside	IN	pos2=NNP	4	prep	_	I-ORG
+6	Information	information	NNP	_	5	pobj	_	L-ORG
+7	Raises	raise	VBZ	pos2=NNP	0	root	_	O
+8	Questions	question	NNS	pos2=NNPS	7	dobj	_	O
+9	About	about	IN	_	8	prep	_	O
+10	Bill	bill	NNP	_	11	compound	_	B-PERSON
+11	Clinton	clinton	NNP	_	9	pobj	_	L-PERSON
+12	|	|	SYM	pos2=,	14	punct	_	O
+13	TIME	time	NN	pos2=NNP	14	dep	_	O
+14	https://t.co/90N8BoHlNq	#hlink#	ADD	pos2=NN	7	dep	_	U-ORG
+

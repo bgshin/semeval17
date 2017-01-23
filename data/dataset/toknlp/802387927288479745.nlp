@@ -1,0 +1,24 @@
+1	XYZprinting	xyzprinting	VBG	pos2=NNP	7	nmod	_	O
+2	Nobel	nobel	NNP	pos2=RB	7	nmod	_	O
+3	1.0	0	CD	_	2	nmod	_	U-CARDINAL
+4	SLA	sla	NN	pos2=NNP	7	nmod	_	O
+5	3	0	CD	_	7	nmod	_	U-CARDINAL
+6	D	d	NN	pos2=NNP	7	compound	_	O
+7	Printer	printer	NN	pos2=NNP	0	root	_	O
+8	(	(	-LRB-	_	9	punct	_	O
+9	Included	include	VBN	pos2=VBD	7	parataxis	_	O
+10	FREE	free	JJ	pos2=NNP	11	nmod	_	O
+11	Resin	resin	NNP	pos2=NN	9	dobj	_	O
+12	,	,	,	_	11	punct	_	O
+13	FREE	free	JJ	pos2=NNP	14	nmod	_	O
+14	Printing	printing	NNP	pos2=NN	11	conj	_	O
+15	...	..	.	pos2=,	4	punct	_	O
+
+1	-	-	SYM	pos2=NFP	7	punct	_	O
+2	https://t.co/NvB42m5XSY	#hlink#	ADD	pos2=NN	7	nmod	_	O
+3	#	#	NN	pos2=-RRB-	7	dep	_	O
+4	3	0	LS	pos2=CD	7	dep	_	U-MONEY
+5	D	d	NN	pos2=NNS	7	dep	_	O
+6	#Design	#design	ADD	pos2=IN	7	dep	_	O
+7	https://t.co/Q3DAt560DF	#hlink#	ADD	_	0	root	_	O
+

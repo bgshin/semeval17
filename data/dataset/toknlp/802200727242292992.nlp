@@ -1,0 +1,27 @@
+1	@Walmart	@walmart	NNP	pos2=PRP	15	punct	_	U-PERSON
+2	shuld	shuld	MD	_	5	aux	_	O
+3	LEGIT	legit	JJ	pos2=VB	4	nmod	_	O
+4	b	b	NN	pos2=AFX	5	nsubj	_	O
+5	ashamed	ashamed	JJ	pos2=VBN	0	root	_	O
+6	yes	yes	UH	_	15	discourse	_	O
+7	#Hatchimals	#hatchimals	NNS	pos2=ADD	5	dobj	_	O
+8	R	r	IN	pos2=VBZ	7	prep	_	O
+9	THE	the	DT	_	10	det	_	O
+10	TOY	toy	NN	pos2=NNP	8	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	season	season	NN	_	11	pobj	_	O
+14	it	it	PRP	_	15	nsubj	_	O
+15	seems	seem	VBZ	_	0	root	_	O
+16	but	but	CC	pos2=IN	15	cc	_	O
+17	they	they	PRP	_	18	nsubj	_	O
+18	are	be	VBP	_	22	aux	_	O
+19	only	only	RB	_	20	advmod	_	B-CARDINAL
+20	50	0	CD	_	21	nmod	_	L-CARDINAL
+21	$	$	$	pos2=NN	22	nmod	_	O
+22	jacking	jack	VBG	pos2=NN	15	conj	_	O
+23	it	it	PRP	_	22	dobj	_	O
+24	up	up	RP	pos2=RB	22	prt	_	O
+25	…	…	NFP	pos2=-LRB-	22	prep	_	O
+26	https://t.co/UUzmqgI3Uy	#hlink#	ADD	_	22	npadvmod	_	O
+

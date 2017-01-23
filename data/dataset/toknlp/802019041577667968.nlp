@@ -1,0 +1,11 @@
+1	Always	always	RB	_	2	advmod	_	O
+2	#Believe	#believe	NNP	pos2=PRP	0	root	_	U-PERSON
+3	.	.	.	_	2	punct	_	O
+
+1	https://t.co/GkOUmepYJu	#hlink#	ADD	_	6	nmod	_	O
+2	#DominatingYourMind	#dominatingyourmind	-RRB-	pos2=ADD	1	punct	_	O
+3	#DYM	#dym	NFP	pos2=NN	6	nmod	_	O
+4	@NYTMetro	@nytmetro	GW	pos2=CD	6	nmod	_	B-PERSON
+5	#NBAwards	#nbawards	GW	pos2=ADD	6	nmod	_	L-PERSON
+6	https://t.co/dWTAlwvvBF	#hlink#	ADD	pos2=NN	0	root	_	O
+

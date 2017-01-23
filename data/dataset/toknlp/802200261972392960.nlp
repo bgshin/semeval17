@@ -1,0 +1,18 @@
+1	2/2	0	CD	_	5	nmod	_	U-CARDINAL
+2	but	but	CC	_	4	cc	_	O
+3	#Palestine	#palestine	NNP	pos2=PRP	4	nsubj	_	U-ORG
+4	has	have	VBZ	_	0	root	_	O
+5	morals	moral	NNS	_	4	dobj	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	Implication	implication	NN	_	2	nsubj	_	O
+2	being	be	VBG	_	8	advcl	_	O
+3	despite	despite	IN	_	2	prep	_	O
+4	#Israel	#israel	NNP	pos2=JJ	5	compound	_	U-ORG
+5	transgressions	transgression	NNS	_	3	pobj	_	O
+6	#Palestine	#palestine	NNP	pos2=PRP	8	nsubj	_	U-PERSON
+7	should	should	MD	_	8	aux	_	O
+8	show	show	VB	_	0	root	_	O
+9	compassion	compassion	NN	_	8	dobj	_	O
+10	https://t.co/o177l7Ozfb	#hlink#	ADD	_	6	appos	_	O
+

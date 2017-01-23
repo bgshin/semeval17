@@ -1,0 +1,18 @@
+1	https://t.co/9OgaWVuZ3e	#hlink#	ADD	_	0	root	_	O
+2	<	<	-RRB-	pos2=SYM	1	punct	_	O
+3	-	-	HYPH	pos2=,	1	punct	_	O
+4	A	a	DT	pos2=NNP	8	det	_	O
+5	Very	very	RB	_	6	advmod	_	O
+6	Sexy	sexy	JJ	_	8	nmod	_	O
+7	Lesbian	lesbian	JJ	pos2=NNP	8	nmod	_	U-NORP
+8	Couple	couple	NN	pos2=NNP	1	appos	_	O
+9	.	.	.	_	1	punct	_	O
+
+1	A	a	DT	pos2=NNP	7	det	_	O
+2	&	&	CC	_	1	cc	_	O
+3	J	j	NNP	pos2=JJ	1	conj	_	O
+4	#nsfw	#nsfw	XX	pos2=ADD	7	nmod	_	O
+5	#bath	#bath	UH	pos2=XX	7	discourse	_	O
+6	#bubble	#bubble	UH	pos2=XX	7	discourse	_	O
+7	#onedirection	#onedirection	UH	pos2=NN	0	root	_	O
+

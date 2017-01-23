@@ -1,0 +1,33 @@
+1	@MarijuanaFour20	@marijuanafour0	TO	pos2=NN	2	aux	_	O
+2	come	come	VB	pos2=VBN	3	advcl	_	O
+3	get	get	VB	pos2=VBP	0	root	_	O
+4	high	high	JJ	_	5	nmod	_	O
+5	grade	grade	NN	_	9	nmod	_	O
+6	medical	medical	JJ	_	7	nmod	_	O
+7	marijuana	marijuana	NN	_	9	nmod	_	O
+8	/	/	SYM	pos2=HYPH	9	punct	_	O
+9	weed	weed	NN	_	3	dobj	_	O
+10	...	..	.	pos2=,	3	punct	_	O
+
+1	pain	pain	NN	_	2	compound	_	O
+2	pills	pill	NNS	_	0	root	_	O
+3	..	..	.	pos2=,	2	punct	_	O
+
+1	cannabis	cannabis	NN	pos2=NNS	2	compound	_	O
+2	oil	oil	NN	_	0	root	_	O
+3	..	..	.	pos2=,	2	punct	_	O
+
+1	thc	thc	NN	pos2=NNS	0	root	_	O
+2	..	..	.	pos2=:	1	punct	_	O
+
+1	cbd	cbd	NN	pos2=UH	0	root	_	O
+2	..	..	.	pos2=,	1	punct	_	O
+
+1	i	I	PRP	pos2=SYM	2	nsubj	_	O
+2	suppy	suppy	VBP	pos2=VBD	0	root	_	O
+3	to	to	IN	pos2=TO	2	prep	_	O
+4	both	both	DT	pos2=CC	5	preconj	_	O
+5	s	s	POS	pos2=GW	3	pobj	_	O
+6	…	…	NFP	pos2=-LRB-	5	cc	_	O
+7	https://t.co/C8PxLtN6pb	#hlink#	ADD	_	3	pobj	_	U-ORG
+

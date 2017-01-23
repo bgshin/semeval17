@@ -1,0 +1,7 @@
+1	troubling	troubling	JJ	pos2=VBG	2	nmod	_	O
+2	application	application	NN	_	6	dep	_	O
+3	of	of	IN	_	2	prep	_	O
+4	deep	deep	JJ	_	5	nmod	_	O
+5	learning	learning	NN	pos2=VBG	3	pobj	_	O
+6	https://t.co/M5ocddHEst	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

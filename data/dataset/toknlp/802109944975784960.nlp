@@ -1,0 +1,24 @@
+1	If	if	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	’re	be	VBP	_	10	advcl	_	O
+4	old	old	JJ	_	3	acomp	_	O
+5	enough	enough	RB	_	4	advmod	_	O
+6	to	to	TO	_	7	aux	_	O
+7	vote	vote	VB	_	4	xcomp	_	O
+8	,	,	,	_	10	punct	_	O
+9	you	you	PRP	_	10	nsubj	_	O
+10	’re	be	VBP	_	0	root	_	O
+11	old	old	JJ	_	10	acomp	_	O
+12	enough	enough	RB	_	11	advmod	_	O
+13	to	to	TO	_	14	aux	_	O
+14	run	run	VB	_	11	xcomp	_	O
+15	for	for	IN	_	14	prep	_	O
+16	office	office	NN	_	15	pobj	_	O
+17	.	.	.	_	10	punct	_	O
+
+1	https://t.co/HM1sb9IYFH	#hlink#	ADD	_	5	nmod	_	O
+2	#unitednations	#unitednations	NNS	pos2=ADD	5	nmod	_	O
+3	#young	#young	UH	pos2=FW	5	discourse	_	O
+4	#diplomacy	#diplomacy	UH	pos2=FW	5	discourse	_	O
+5	#NewGeneration	#newgeneration	NN	pos2=ADD	0	root	_	O
+

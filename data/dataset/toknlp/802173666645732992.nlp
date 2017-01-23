@@ -1,0 +1,21 @@
+1	With	with	IN	_	8	prep	_	O
+2	full	full	JJ	_	3	nmod	_	O
+3	bellies	belly	NNS	_	1	pobj	_	O
+4	,	,	,	_	8	punct	_	O
+5	holiday	holiday	NN	_	6	compound	_	O
+6	shoppers	shopper	NNS	_	8	nsubj	_	O
+7	first	#ord#	RB	_	8	advmod	_	U-ORDINAL
+8	go	go	VB	pos2=VBP	0	root	_	O
+9	online	online	RB	pos2=JJ	8	advmod	_	O
+10	for	for	IN	_	8	prep	_	O
+11	deals	deal	NNS	_	10	pobj	_	O
+12	,	,	,	_	14	punct	_	O
+13	then	then	RB	_	14	advmod	_	O
+14	head	head	VB	pos2=VBP	8	dep	_	O
+15	to	to	IN	_	14	prep	_	O
+16	stores	store	NNS	_	17	compound	_	O
+17	#Hatchimals	#hatchimals	NNS	pos2=XX	15	pobj	_	O
+18	.	.	.	_	8	punct	_	O
+
+1	https://t.co/ljUVnX3LED	#hlink#	ADD	_	0	root	_	U-ORG
+

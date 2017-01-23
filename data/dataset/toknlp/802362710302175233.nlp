@@ -1,0 +1,30 @@
+1	@Noahpinion	@noahpinion	NNP	pos2=ADD	2	compound	_	B-PERSON
+2	Nah	nah	NNP	pos2=UH	5	discourse	_	L-PERSON
+3	,	,	,	_	5	punct	_	O
+4	she	she	PRP	_	5	nsubj	_	O
+5	's	's	VBZ	_	0	root	_	O
+6	cool	cool	JJ	_	5	acomp	_	O
+7	.	.	.	_	5	punct	_	O
+
+1	Repeal	repeal	VB	pos2=NN	4	nsubj	_	O
+2	wo	wo	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	kick	kick	VB	_	0	root	_	O
+5	in	in	RP	pos2=IN	4	prt	_	O
+6	before	before	IN	pos2=JJ	4	prep	_	O
+7	summer	summer	NN	_	6	pobj	_	O
+8	,	,	,	_	4	punct	_	O
+9	when	when	WRB	_	11	advmod	_	O
+10	she	she	PRP	_	11	nsubj	_	O
+11	's	's	VBZ	_	4	advcl	_	O
+12	old	old	JJ	_	11	acomp	_	O
+13	enough	enough	RB	pos2=JJ	12	advmod	_	O
+14	for	for	IN	_	12	prep	_	O
+15	Medicare	medicare	NNP	_	14	pobj	_	U-ORG
+16	.	.	.	_	4	punct	_	O
+
+1	Oh	oh	UH	_	3	discourse	_	O
+2	,	,	,	_	3	punct	_	O
+3	wait	wait	VB	pos2=NN	0	root	_	O
+4	...	..	.	pos2=,	3	punct	_	O
+

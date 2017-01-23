@@ -1,0 +1,19 @@
+1	Oh	oh	UH	_	0	root	_	O
+2	my	my	UH	_	1	discourse	_	O
+3	God	god	UH	pos2=NNP	1	discourse	_	O
+4	!	!	.	_	1	punct	_	O
+
+1	Does	do	VBZ	_	3	aux	_	O
+2	he	he	PRP	_	3	nsubj	_	O
+3	have	have	VB	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	lick	lick	VB	_	3	xcomp	_	O
+6	his	his	PRP$	_	7	poss	_	O
+7	boots	boot	NNS	_	5	dobj	_	O
+8	?	?	.	_	3	punct	_	O
+
+1	#uniteblue	#uniteblue	UH	pos2=PRP	4	discourse	_	O
+2	#notmypresident	#notmypresident	UH	pos2=GW	4	discourse	_	O
+3	#TrumpTransition	#trumptransition	ADD	pos2=GW	4	punct	_	O
+4	https://t.co/70E94gY0hx	#hlink#	ADD	_	0	root	_	O
+

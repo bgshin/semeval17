@@ -1,0 +1,17 @@
+1	L	l	JJ	pos2=NNP	2	nmod	_	O
+2	L	l	NN	pos2=JJ	4	compound	_	O
+3	L	l	NN	pos2=JJ	4	compound	_	O
+4	#Entertainment	#entertainment	NN	pos2=ADD	16	dep	_	O
+5	#Buzz	#buzz	IN	pos2=POS	4	prep	_	O
+6	ZAC	zac	NNP	_	7	compound	_	O
+7	EFRON	efron	NNP	_	11	nmod	_	O
+8	HANDSOME	handsome	JJ	pos2=NNP	11	nmod	_	O
+9	BARECHESTED	barechested	VBN	pos2=NNP	11	nmod	_	O
+10	BEEFCAKE	beefcake	NN	pos2=NNP	11	compound	_	O
+11	HUNK	hunk	NN	pos2=VBP	13	nmod	_	O
+12	CANDID	candid	JJ	_	13	nmod	_	O
+13	PHOTOGRAPH	photograph	NN	_	14	compound	_	O
+14	#eBay	#ebay	NNP	pos2=GW	5	pobj	_	B-PERSON
+15	……	……	NFP	pos2=-LRB-	16	punct	_	L-PERSON
+16	https://t.co/BBbeNAXFLS	#hlink#	ADD	_	0	root	_	O
+

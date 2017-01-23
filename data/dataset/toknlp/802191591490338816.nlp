@@ -1,0 +1,8 @@
+1	tipp	tipp	NN	pos2=NNP	2	compound	_	O
+2	hill	hill	NN	pos2=NNP	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	best	good	JJS	pos2=RBS	7	nmod	_	O
+6	🍀💚	🍀💚	NFP	pos2=CD	7	punct	_	O
+7	https://t.co/BRC8wFychR	#hlink#	ADD	_	3	attr	_	O
+

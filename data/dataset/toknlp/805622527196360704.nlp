@@ -1,0 +1,29 @@
+1	The	the	DT	_	2	det	_	O
+2	courts	court	NNS	_	4	nsubj	_	O
+3	will	will	MD	_	4	aux	_	O
+4	come	come	VB	_	0	root	_	O
+5	to	to	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	rescue	rescue	NN	_	5	pobj	_	O
+8	?	?	.	_	4	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	courts	court	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	12	advcl	_	O
+4	the	the	DT	_	5	det	_	O
+5	ones	#crd#	NNS	_	3	attr	_	O
+6	enforcing	enforce	VBG	_	5	acl	_	O
+7	these	these	DT	_	8	det	_	O
+8	laws	law	NNS	_	6	dobj	_	O
+9	,	,	,	_	12	punct	_	O
+10	they	they	PRP	_	12	nsubj	_	O
+11	are	be	VBP	_	12	aux	_	O
+12	trying	try	VBG	_	0	root	_	O
+13	to	to	TO	_	14	aux	_	O
+14	bring	bring	VB	_	12	xcomp	_	O
+15	back	back	RB	pos2=RP	14	advmod	_	O
+16	Jim	jim	NNP	_	17	compound	_	B-PERSON
+17	C	c	NNP	pos2=GW	14	dobj	_	L-PERSON
+18	…	…	NFP	pos2=ADD	19	punct	_	O
+19	https://t.co/4PUAuk0IQy	#hlink#	ADD	_	17	appos	_	O
+

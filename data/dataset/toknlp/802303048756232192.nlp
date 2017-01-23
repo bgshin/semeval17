@@ -1,0 +1,22 @@
+1	"	"	``	_	5	punct	_	O
+2	A	a	DT	_	4	det	_	O
+3	conservative	conservative	JJ	_	4	nmod	_	O
+4	estimate	estimate	NN	_	5	nsubj	_	O
+5	makes	make	VBZ	_	0	root	_	O
+6	the	the	DT	_	9	det	_	O
+7	@TeslaMotors	@teslamotors	NNS	pos2=NNP	9	compound	_	O
+8	P100	p0	NN	pos2=NNP	9	compound	_	O
+9	D	d	NN	pos2=FW	13	nsubj	_	O
+10	an	an	DT	_	15	det	_	O
+11	800	0	CD	_	13	nmod	_	U-CARDINAL
+12	-	-	HYPH	pos2=SYM	13	punct	_	O
+13	hp	hp	NN	pos2=NNS	15	nmod	_	O
+14	+	+	SYM	_	15	punct	_	O
+15	monster	monster	NN	_	17	nmod	_	O
+16	"	"	''	pos2=``	17	punct	_	O
+17	#superpowers	#superpowers	NNS	pos2=VBZ	19	pobj	_	O
+18	indeed	indeed	RB	_	17	advmod	_	O
+19	.	.	.	_	5	punct	_	O
+
+1	https://t.co/L07XQfTAJI	#hlink#	ADD	_	0	root	_	U-ORG
+

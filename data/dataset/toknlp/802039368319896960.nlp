@@ -1,0 +1,12 @@
+1	Bringing	bring	VBG	_	0	root	_	O
+2	The	the	DT	_	3	det	_	O
+3	World	world	NNP	pos2=NN	1	dobj	_	O
+4	To	to	IN	pos2=NNP	1	prep	_	O
+5	Virtual	virtual	NNP	pos2=JJ	6	compound	_	O
+6	Reality	reality	NNP	pos2=NN	4	pobj	_	O
+7	With	with	IN	_	1	prep	_	O
+8	Google	google	NNP	_	10	compound	_	O
+9	Earth	earth	NNP	_	10	compound	_	O
+10	VR.	vr.	NNP	_	7	pobj	_	O
+11	https://t.co/czKLKvYFuV	#hlink#	ADD	_	10	appos	_	O
+

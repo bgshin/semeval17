@@ -1,0 +1,14 @@
+1	@CCCINNC	@cccinnc	NN	pos2=XX	7	compound	_	O
+2	@KazmierskiR	@kazmierskir	ADD	pos2=NN	7	det	_	O
+3	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	7	det	_	O
+4	@Cernovich	@cernovich	WDT	pos2=NNP	7	det	_	O
+5	@JaredWyand	@jaredwyand	ADD	pos2=VBP	7	det	_	O
+6	@FoxNews	@foxnews	NNP	pos2=VBZ	7	compound	_	B-PERSON
+7	Bunch	bunch	NNP	pos2=NN	0	root	_	L-PERSON
+8	of	of	IN	_	7	prep	_	O
+9	"	"	``	_	11	punct	_	O
+10	BAD	bad	JJ	pos2=NNP	11	nmod	_	O
+11	HOMBRES	hombres	NNP	pos2=NNS	8	pobj	_	O
+12	"	"	''	_	11	punct	_	O
+13	.	.	.	_	7	punct	_	O
+

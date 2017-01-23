@@ -1,0 +1,23 @@
+1	Check	check	VB	_	0	root	_	O
+2	out	out	RP	pos2=IN	1	prt	_	O
+3	Facebook	facebook	NNP	_	1	dobj	_	U-ORG
+4	later	later	RB	pos2=RBR	6	advmod	_	B-TIME
+5	this	this	DT	_	6	det	_	I-TIME
+6	evening	evening	NN	_	1	npadvmod	_	L-TIME
+7	for	for	IN	_	1	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	first	#ord#	JJ	_	10	nmod	_	U-ORDINAL
+10	look	look	NN	_	7	pobj	_	O
+11	at	at	IN	_	10	prep	_	O
+12	the	the	DT	_	15	det	_	O
+13	#BeautyAndTheBeast	#beautyandthebeast	JJ	pos2=NN	15	nmod	_	O
+14	cast	cast	NN	_	15	compound	_	O
+15	list	list	NN	_	11	pobj	_	O
+16	,	,	,	_	15	punct	_	O
+17	poster	poster	NN	_	15	conj	_	O
+18	and	and	CC	_	17	cc	_	O
+19	booking	book	VBG	pos2=NN	17	conj	_	O
+20	de	de	GW	pos2=FW	22	nmod	_	O
+21	…	…	NFP	pos2=GW	22	punct	_	O
+22	https://t.co/Zm0KoNvsnV	#hlink#	ADD	_	1	dep	_	O
+

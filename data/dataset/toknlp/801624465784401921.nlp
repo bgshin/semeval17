@@ -1,0 +1,18 @@
+1	Anti	anti	AFX	pos2=NNP	3	nmod	_	O
+2	Trump	trump	NNP	pos2=NN	3	compound	_	B-ORG
+3	Riots	riot	NNPS	pos2=NNP	0	root	_	I-ORG
+4	Minneapolis	minneapolis	NNP	_	9	compound	_	I-ORG
+5	Special	special	NNP	_	8	compound	_	I-ORG
+6	Snowflake	snowflake	NNP	pos2=NN	8	compound	_	I-ORG
+7	Communists	communist	NNPS	_	8	compound	_	I-ORG
+8	Party	party	NNP	_	9	compound	_	L-ORG
+9	Gather	gather	NNP	pos2=VB	16	dep	_	O
+10	in	in	IN	_	9	prep	_	O
+11	Circle	circle	NNP	_	10	pobj	_	B-ORG
+12	of	of	IN	_	11	prep	_	I-ORG
+13	Oppression	oppression	NNP	pos2=NN	14	compound	_	I-ORG
+14	LOL	lol	NNP	pos2=NN	12	pobj	_	L-ORG
+15	:	:	:	_	9	punct	_	O
+16	https://t.co/cxqS7EwH21	#hlink#	ADD	_	0	root	_	O
+17	via	via	IN	pos2=FW	16	prep	_	O
+

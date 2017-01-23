@@ -1,0 +1,13 @@
+1	when	when	WRB	_	3	advmod	_	O
+2	someone	someone	NN	_	3	nsubj	_	O
+3	says	say	VBZ	_	0	root	_	O
+4	they	they	PRP	_	7	nsubj	_	O
+5	do	do	VBP	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	like	like	VB	_	3	ccomp	_	O
+8	grayson	grayson	NN	pos2=NNP	10	compound	_	O
+9	allen	allen	NNP	pos2=GW	10	compound	_	B-PERSON
+10	@KaylaBollinger	@kaylabollinger	NNP	pos2=GW	12	dep	_	L-PERSON
+11	_	_	NFP	pos2=-LRB-	12	punct	_	O
+12	https://t.co/MS1SN9YCpE	#hlink#	ADD	_	7	dobj	_	O
+

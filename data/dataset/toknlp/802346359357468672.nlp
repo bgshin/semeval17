@@ -1,0 +1,13 @@
+1	galaxy	galaxy	NN	_	12	dep	_	O
+2	allo	allo	IN	pos2=DT	1	prep	_	O
+3	dictionary	dictionary	NN	_	2	pobj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	garbage	garbage	NN	_	6	compound	_	O
+6	note	note	NN	_	4	pobj	_	O
+7	7	0	CD	_	10	nmod	_	U-CARDINAL
+8	fire	fire	NN	_	9	compound	_	O
+9	ios	io	NNS	pos2=NN	10	compound	_	O
+10	exynos	exynos	NNS	pos2=NN	6	appos	_	O
+11	🍆	🍆	CD	pos2=WDT	12	nmod	_	U-PRODUCT
+12	🍆	🍆	NN	pos2=NNS	0	root	_	O
+

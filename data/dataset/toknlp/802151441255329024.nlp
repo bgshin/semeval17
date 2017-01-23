@@ -1,0 +1,16 @@
+1	@elizabethforma	@elizabethforma	UH	pos2=NN	3	discourse	_	O
+2	we	we	PRP	_	3	nsubj	_	O
+3	need	need	VBP	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	know	know	VB	_	3	xcomp	_	O
+6	what	what	WP	_	10	dobj	_	O
+7	you	you	PRP	_	8	nsubj	_	O
+8	plan	plan	VBP	_	5	ccomp	_	O
+9	to	to	TO	_	10	aux	_	O
+10	DO	do	VB	_	8	xcomp	_	O
+11	about	about	IN	_	10	prep	_	O
+12	it	it	PRP	_	11	pobj	_	O
+13	.	.	.	_	3	punct	_	O
+
+1	https://t.co/dozlg4VcDa	#hlink#	ADD	_	0	root	_	U-ORG
+

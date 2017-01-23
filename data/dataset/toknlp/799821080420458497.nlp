@@ -1,0 +1,12 @@
+1	America	america	NNP	_	3	poss	_	U-GPE
+2	's	's	POS	_	1	case	_	O
+3	Nightmare	nightmare	NNP	pos2=NN	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	🇺🇸😱💤#trumptransitionteam	🇺🇸😱💤#trumptransitionteam	UH	pos2=XX	4	discourse	_	O
+2	#notmypresident	#notmypresident	UH	pos2=ADD	4	discourse	_	O
+3	#fucktrump	#fucktrump	UH	pos2=VB	4	discourse	_	O
+4	#nohateinwhitehouse	#nohateinwhitehouse	UH	pos2=GW	0	root	_	O
+5	…	…	NFP	pos2=-LRB-	4	discourse	_	O
+6	https://t.co/ha8eh8YMo4	#hlink#	ADD	_	4	dep	_	O
+

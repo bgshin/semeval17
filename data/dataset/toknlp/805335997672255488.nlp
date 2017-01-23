@@ -1,0 +1,24 @@
+1	#vegetarianism	#vegetarianism	UH	pos2=NN	9	discourse	_	O
+2	for	for	IN	_	9	prep	_	O
+3	#meatlovers	#meatlovers	NNS	pos2=PRP$	2	pobj	_	O
+4	V	v	CD	pos2=NN	9	dep	_	O
+5	important	important	JJ	_	6	nmod	_	O
+6	mission	mission	NN	_	8	compound	_	O
+7	-	-	HYPH	pos2=:	8	punct	_	O
+8	many	many	JJ	_	9	nsubj	_	O
+9	get	get	VBP	pos2=VB	20	advcl	_	O
+10	the	the	DT	_	11	det	_	O
+11	#ethics	#ethics	NNS	pos2=NNPS	9	dobj	_	O
+12	but	but	CC	_	9	cc	_	O
+13	ca	can	MD	_	15	aux	_	O
+14	n't	not	RB	_	15	neg	_	O
+15	give	give	VB	_	9	conj	_	O
+16	up	up	RP	_	15	prt	_	O
+17	the	the	DT	_	18	det	_	O
+18	#taste	#taste	NNP	pos2=NN	20	nsubj	_	O
+19	Well	well	RB	pos2=NNP	20	advmod	_	O
+20	done	do	VBN	_	0	root	_	O
+21	!	!	.	_	20	punct	_	O
+
+1	https://t.co/1zY9FvO7NG	#hlink#	ADD	_	0	root	_	U-ORG
+

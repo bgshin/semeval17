@@ -1,0 +1,21 @@
+1	it	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	cool	cool	JJ	_	4	nmod	_	O
+4	persona	persona	NN	_	2	attr	_	O
+5	5	0	CD	_	4	nmod	_	U-CARDINAL
+6	is	be	VBZ	_	7	auxpass	_	O
+7	delayed	delay	VBN	_	2	ccomp	_	O
+8	a	a	DT	_	10	det	_	B-DATE
+9	few	few	JJ	_	10	nmod	_	I-DATE
+10	months	month	NNS	_	7	npadvmod	_	L-DATE
+11	again	again	RB	_	14	advmod	_	O
+12	people	people	NNS	_	14	nsubj	_	O
+13	will	will	MD	_	14	aux	_	O
+14	be	be	VB	_	9	ccomp	_	O
+15	able	able	JJ	_	14	acomp	_	O
+16	to	to	TO	_	17	aux	_	O
+17	play	play	VB	_	15	xcomp	_	O
+18	nier	nier	NN	pos2=DT	19	compound	_	O
+19	automata	automaton	NN	pos2=GW	17	dobj	_	O
+20	instead	instead	RB	_	17	advmod	_	O
+

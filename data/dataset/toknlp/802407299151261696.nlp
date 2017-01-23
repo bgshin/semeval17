@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det	_	O
+2	memory	memory	NN	_	10	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	the	the	DT	_	6	det	_	O
+5	terrible	terrible	JJ	_	6	nmod	_	O
+6	crime	crime	NN	_	3	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	#Holodomor	#holodomor	NNP	pos2=NN	7	pobj	_	O
+10	gives	give	VBZ	_	0	root	_	O
+11	us	us	PRP	_	10	dative	_	O
+12	the	the	DT	_	13	det	_	O
+13	strength	strength	NN	_	10	dobj	_	O
+14	to	to	TO	_	15	aux	_	O
+15	defend	defend	VB	_	13	acl	_	O
+16	their	their	PRP$	_	17	poss	_	O
+17	future	future	NN	_	15	dobj	_	O
+18	.	.	.	_	10	punct	_	O
+
+1	https://t.co/N44TsCV8yy	#hlink#	ADD	_	0	root	_	U-ORG
+

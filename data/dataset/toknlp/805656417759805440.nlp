@@ -1,0 +1,28 @@
+1	@SpeakerRyan	@speakerryan	ADD	pos2=MD	3	dep	_	O
+2	@WSJ	@wsj	NNP	pos2=MD	3	nsubj	_	U-ORG
+3	Diversify	diversify	VB	pos2=NNP	6	advcl	_	O
+4	--	--	:	_	6	punct	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	's	's	VBZ	_	0	root	_	O
+7	what	what	WP	_	9	dobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	do	do	VB	_	6	xcomp	_	O
+10	to	to	TO	_	11	aux	_	O
+11	protect	protect	VB	_	9	advcl	_	O
+12	investment	investment	NN	_	13	compound	_	O
+13	money	money	NN	_	11	dobj	_	O
+14	.	.	.	_	6	punct	_	O
+
+1	Exclusive	exclusive	JJ	_	2	nmod	_	O
+2	support	support	NN	_	6	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	fossil	fossil	NN	pos2=JJ	5	compound	_	O
+5	fuels	fuel	NNS	_	3	pobj	_	O
+6	puts	put	VBZ	_	0	root	_	O
+7	energy	energy	NN	_	8	compound	_	O
+8	eggs	egg	NNS	_	6	dobj	_	O
+9	in	in	IN	_	6	prep	_	O
+10	one	#crd#	CD	_	11	nmod	_	U-CARDINAL
+11	basket	basket	NN	_	9	pobj	_	O
+12	.	.	.	_	6	punct	_	O
+

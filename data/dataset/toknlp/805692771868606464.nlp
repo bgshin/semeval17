@@ -1,0 +1,24 @@
+1	The	the	DT	_	4	det	_	O
+2	"	"	``	_	4	punct	_	O
+3	controversial	controversial	JJ	_	4	nmod	_	O
+4	views	view	NNS	pos2=NN	6	nsubj	_	O
+5	"	"	''	_	4	punct	_	O
+6	are	be	VBP	_	0	root	_	O
+7	opposition	opposition	NN	pos2=JJ	6	attr	_	O
+8	to	to	IN	pos2=CC	7	prep	_	O
+9	gay	gay	JJ	pos2=VB	10	nmod	_	O
+10	marriage	marriage	NN	_	8	pobj	_	O
+11	and	and	CC	_	10	cc	_	O
+12	opposition	opposition	NN	_	10	conj	_	O
+13	to	to	IN	pos2=CC	12	prep	_	O
+14	abortion	abortion	NN	_	13	pobj	_	O
+15	.	.	.	_	6	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	media	medium	NNS	pos2=NN	3	nsubj	_	O
+3	sucks	suck	VBZ	_	0	root	_	O
+4	hard	hard	JJ	pos2=RB	3	advmod	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	https://t.co/pGwYJAKkXs	#hlink#	ADD	_	0	root	_	U-ORG
+

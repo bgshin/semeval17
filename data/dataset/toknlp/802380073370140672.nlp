@@ -1,0 +1,7 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	Are	be	VBP	_	0	root	_	O
+3	The	the	DT	_	5	det	_	O
+4	Bad	bad	JJ	pos2=NNP	5	nmod	_	O
+5	Hombres	hombres	NNP	pos2=NNS	2	attr	_	U-WORK_OF_ART
+6	!	!	.	_	2	punct	_	O
+

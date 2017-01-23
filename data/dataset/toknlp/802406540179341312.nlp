@@ -1,0 +1,11 @@
+1	FUTURE	future	JJ	pos2=NN	2	nmod	_	O
+2	FIRST	#ord#	JJ	pos2=RB	6	nmod	_	U-ORDINAL
+3	'	'	''	pos2=NNS	2	punct	_	O
+4	:	:	:	_	8	punct	_	O
+5	SELF-DRIVING	self-driving	JJ	pos2=VBG	6	nmod	_	O
+6	CARS	car	NNS	pos2=NNPS	8	nsubj	_	O
+7	WILL	will	MD	_	8	aux	_	O
+8	SAVE	save	VB	_	0	root	_	O
+9	LIVES	life	NNS	_	8	dobj	_	O
+10	https://t.co/rFDpIdrGuc	#hlink#	ADD	pos2=RB	8	dobj	_	O
+

@@ -1,0 +1,11 @@
+1	@NurdRage	@nurdrage	NN	pos2=ADD	2	compound	_	O
+2	Debugging	debugging	NN	pos2=VBG	5	nmod	_	O
+3	and	and	CC	_	2	cc	_	O
+4	testing	testing	NN	_	2	conj	_	O
+5	AI	ai	NN	pos2=NNP	0	root	_	O
+6	and	and	CC	_	5	cc	_	O
+7	deep	deep	JJ	_	9	nmod	_	O
+8	learning	learning	NN	pos2=JJ	9	compound	_	O
+9	systems	system	NNS	_	5	conj	_	O
+10	!	!	.	_	5	punct	_	O
+

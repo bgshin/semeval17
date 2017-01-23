@@ -1,0 +1,29 @@
+1	@UTxBeezykingwi	@utxbeezykingwi	UH	pos2=NNP	5	discourse	_	O
+2	Yeah	yeah	UH	_	5	discourse	_	O
+3	they	they	PRP	_	5	nsubjpass	_	O
+4	get	get	VBP	_	5	auxpass	_	O
+5	paid	pay	VBN	_	0	root	_	O
+6	,	,	,	_	5	punct	_	O
+7	but	but	CC	_	5	cc	_	O
+8	not	not	RB	_	11	neg	_	O
+9	even	even	RB	_	11	advmod	_	O
+10	minimum	minimum	JJ	pos2=NN	11	nmod	_	O
+11	wage	wage	NN	_	14	advmod	_	O
+12	,	,	,	_	14	punct	_	O
+13	that	that	DT	pos2=IN	14	nsubj	_	O
+14	s	s	VBZ	pos2=IN	5	conj	_	O
+15	my	my	PRP$	_	16	poss	_	O
+16	point	point	NN	_	14	attr	_	O
+17	.	.	.	_	14	punct	_	O
+
+1	Their	their	PRP$	_	2	poss	_	O
+2	job	job	NN	_	4	nsubj	_	O
+3	can	can	MD	_	4	aux	_	O
+4	underpay	underpay	VB	_	0	root	_	O
+5	them	them	PRP	_	4	dobj	_	O
+6	because	because	IN	_	4	prep	_	O
+7	of	of	IN	_	6	pcomp	_	O
+8	tips	tip	NNS	pos2=JJ	9	nsubj	_	O
+9	excuse	excuse	VBP	pos2=NN	6	pobj	_	O
+10	.	.	.	_	4	punct	_	O
+

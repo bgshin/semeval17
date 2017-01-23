@@ -1,0 +1,17 @@
+1	@TheLastLeg	@thelastleg	VBG	pos2=NNP	0	root	_	O
+2	Dennis	dennis	NNP	_	3	compound	_	B-PERSON
+3	Rodman	rodman	NNP	_	1	dobj	_	L-PERSON
+4	.	.	.	_	1	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	good	good	JJ	_	2	acomp	_	O
+4	enough	enough	RB	_	3	advmod	_	O
+5	for	for	IN	_	3	prep	_	O
+6	Kim	kim	NNP	_	8	compound	_	B-PERSON
+7	Jong	jong	NNP	_	8	compound	_	I-PERSON
+8	Un	un	NNP	_	5	pobj	_	L-PERSON
+9	!!	!!	.	_	2	punct	_	O
+
+1	😂😱#fantasyambassador	😂😱#fantasyambassador	XX	pos2=UH	0	root	_	O
+

@@ -1,0 +1,27 @@
+1	It	it	PRP	_	3	nsubj	_	O
+2	has	have	VBZ	_	3	aux	_	O
+3	been	be	VBN	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	blessing	blessing	NN	_	3	attr	_	O
+6	for	for	IN	_	5	prep	_	O
+7	many	many	JJ	_	6	pobj	_	O
+8	with	with	IN	_	5	prep	_	O
+9	no	no	DT	_	11	det	_	O
+10	Medicaid	medicaid	NNP	pos2=JJ	11	compound	_	U-ORG
+11	expansion	expansion	NN	_	8	pobj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	Florida	florida	NNP	_	12	pobj	_	U-GPE
+14	.	.	.	_	3	punct	_	O
+
+1	Most	most	JJS	_	2	nmod	_	O
+2	jobs	job	NNS	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	offer	offer	VB	_	0	root	_	O
+6	insurance	insurance	NN	_	5	dobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	many	many	JJ	_	9	nmod	_	O
+9	onl	onl	NN	pos2=GW	6	conj	_	O
+10	…	…	NFP	pos2=,	11	punct	_	O
+11	https://t.co/X2f5jq7vZX	#hlink#	ADD	_	5	dep	_	O
+

@@ -1,0 +1,18 @@
+1	GEORGE	george	NNP	_	2	compound	_	B-PERSON
+2	SOROS	soros	NNP	_	15	dep	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	AMERICAN	american	JJ	pos2=NNP	5	nmod	_	U-NORP
+5	CITIZEN	citizen	NN	pos2=NNP	2	appos	_	O
+6	,	,	,	_	2	punct	_	O
+7	FRONT	front	JJ	pos2=NN	8	nmod	_	O
+8	GROUPS	group	NNS	_	2	appos	_	O
+9	CONNECTED	connect	VBN	_	8	acl	_	O
+10	TO	to	IN	pos2=CC	9	prep	_	O
+11	ANTI	anti	AFX	pos2=FW	12	nmod	_	O
+12	TRUMP	trump	NN	pos2=JJ	13	compound	_	O
+13	RIOTS	riot	NNS	_	10	pobj	_	O
+14	:	:	:	_	15	punct	_	O
+15	https://t.co/5GH2cmp2jb	#hlink#	ADD	pos2=NN	0	root	_	O
+16	via	via	IN	_	15	prep	_	O
+17	@YouTube	@youtube	NNP	pos2=NN	16	pobj	_	O
+

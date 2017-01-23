@@ -1,0 +1,21 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=ADD	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	from	from	IN	_	5	prep	_	O
+7	@don_ninicolass	@don_ninicolass	NNP	pos2=ADD	6	pobj	_	U-GPE
+8	https://t.co/IYsv1vzDuV	#hlink#	ADD	pos2=POS	11	nmod	_	O
+9	TUTORIAL	tutorial	NNP	pos2=NN	11	nmod	_	O
+10	de	de	FW	pos2=IN	11	nmod	_	O
+11	BAILE	baile	NNP	pos2=FW	16	nmod	_	O
+12	"	"	``	pos2=FW	14	punct	_	O
+13	Vente	vente	NNP	pos2=FW	14	compound	_	O
+14	Pa'ca	pa'ca	NNP	_	0	root	_	O
+15	"	"	''	pos2=``	14	punct	_	O
+16	de	de	NNP	pos2=IN	20	compound	_	B-PERSON
+17	Ricky	ricky	NNP	_	20	compound	_	I-PERSON
+18	Martin	martin	NNP	_	20	compound	_	I-PERSON
+19	ft.	ft.	NNP	_	20	compound	_	I-PERSON
+20	Maluma	maluma	NNP	_	14	appos	_	L-PERSON
+

@@ -1,0 +1,31 @@
+1	"	"	``	_	4	punct	_	O
+2	Bob	bob	NNP	_	3	compound	_	B-PERSON
+3	Dylan	dylan	NNP	_	4	nsubj	_	L-PERSON
+4	unable	unable	JJ	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	attend	attend	VB	_	4	xcomp	_	O
+7	Nobel	nobel	NNP	_	8	compound	_	O
+8	ceremony	ceremony	NN	pos2=JJ	6	dobj	_	O
+9	Dec.	dec.	NNP	_	6	npadvmod	_	B-DATE
+10	10	0	CD	_	9	nmod	_	L-DATE
+11	due	due	IN	_	6	prep	_	O
+12	to	to	IN	_	11	pcomp	_	O
+13	'	'	``	pos2=POS	12	punct	_	O
+14	other	other	JJ	_	15	nmod	_	O
+15	commitments	commitment	NNS	_	11	pobj	_	O
+16	.	.	.	_	4	punct	_	O
+
+1	'	'	''	pos2=``	5	punct	_	O
+2	"	"	``	pos2=''	4	punct	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	was	be	VBD	_	0	root	_	O
+5	able	able	JJ	_	4	acomp	_	O
+6	to	to	TO	_	7	aux	_	O
+7	get	get	VB	_	5	xcomp	_	O
+8	hold	hold	NN	_	7	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	his	his	PRP$	_	12	poss	_	O
+11	sched	sched	VBN	pos2=GW	13	nmod	_	O
+12	…	…	NFP	pos2=-LRB-	13	punct	_	O
+13	https://t.co/7OdkhvZUOK	#hlink#	ADD	_	4	dep	_	O
+

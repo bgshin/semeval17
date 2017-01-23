@@ -1,0 +1,22 @@
+1	#TrumpTransitionTeam	#trumptransitionteam	NN	pos2=DT	3	compound	_	O
+2	pie	pie	NN	_	3	compound	_	O
+3	chart	chart	NN	_	21	dep	_	O
+4	to	to	IN	_	3	prep	_	O
+5	applicants	applicant	NNS	_	4	pobj	_	O
+6	:	:	:	_	21	punct	_	O
+7	Those	those	DT	_	16	nsubj	_	O
+8	NOT	not	RB	_	9	neg	_	O
+9	in	in	IN	_	7	prep	_	O
+10	the	the	DT	_	14	det	_	O
+11	#HUGE	#huge	NN	pos2=NNP	14	compound	_	U-ORG
+12	slice	slice	NN	pos2=NNS	14	compound	_	O
+13	-	-	HYPH	pos2=:	14	punct	_	O
+14	need	need	NN	pos2=VB	9	pobj	_	O
+15	not	not	RB	_	16	neg	_	O
+16	applyMe	applyme	RB	pos2=NN	21	dep	_	O
+17	:	:	:	_	21	punct	_	O
+18	#foh	#foh	UH	pos2=IN	21	discourse	_	O
+19	#ftw	#ftw	UH	pos2=GW	21	discourse	_	O
+20	…	…	NFP	pos2=-LRB-	21	punct	_	O
+21	https://t.co/ijkObVT2nD	#hlink#	ADD	_	0	root	_	O
+

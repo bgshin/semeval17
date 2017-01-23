@@ -1,0 +1,17 @@
+1	@mitchellvii	@mitchellvii	UH	pos2=NFP	4	discourse	_	O
+2	Steve	steve	NNP	_	3	compound	_	B-PERSON
+3	Bannon	bannon	NNP	_	4	nsubj	_	L-PERSON
+4	speaks	speak	VBZ	_	0	root	_	O
+5	:	:	:	_	4	punct	_	O
+6	Donald	donald	NNP	_	7	compound	_	B-PERSON
+7	Trump	trump	NNP	_	8	nsubj	_	L-PERSON
+8	is	be	VBZ	_	4	ccomp	_	O
+9	"	"	``	pos2=''	8	punct	_	O
+10	master	master	NN	_	8	attr	_	O
+11	of	of	IN	_	10	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	head	head	NN	pos2=AFX	11	pobj	_	O
+14	fake	fake	JJ	pos2=RB	10	nmod	_	O
+15	"	"	''	pos2=``	16	punct	_	O
+16	https://t.co/3OLoiz5ajb	#hlink#	ADD	pos2=NN	13	appos	_	O
+

@@ -1,0 +1,30 @@
+1	@karens_resale	@karens_resale	UH	pos2=VB	5	discourse	_	O
+2	@megynkelly	@megynkelly	UH	pos2=RB	5	discourse	_	O
+3	she	she	PRP	_	5	nsubj	_	O
+4	clearly	clearly	RB	_	5	advmod	_	O
+5	does	do	VBZ	_	0	root	_	O
+6	!	!	.	_	5	punct	_	O
+
+1	she	she	PRP	_	2	nsubj	_	O
+2	did	do	VBD	_	0	root	_	O
+3	better	well	RBR	pos2=RB	2	advmod	_	O
+4	&	&	CC	_	2	cc	_	O
+5	now	now	RB	_	6	advmod	_	O
+6	has	have	VBZ	_	2	conj	_	O
+7	a	a	DT	_	9	det	_	O
+8	better	good	JJR	_	9	nmod	_	O
+9	life	life	NN	_	6	dobj	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	work	work	VB	pos2=NN	0	root	_	O
+2	hard	hard	RB	_	1	advmod	_	O
+3	&	&	CC	pos2=,	1	cc	_	O
+4	look	look	VB	_	1	conj	_	O
+5	after	after	IN	_	4	prep	_	O
+6	what	what	WP	_	9	dobj	_	O
+7	you	you	PRP	_	9	nsubj	_	O
+8	really	really	RB	_	9	advmod	_	O
+9	need	need	VBP	_	5	pcomp	_	O
+10	&	&	CC	_	9	cc	_	O
+11	want	want	VBP	pos2=VB	9	conj	_	O
+

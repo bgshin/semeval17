@@ -1,0 +1,23 @@
+1	Conservatives	conservative	NNS	pos2=NNPS	2	nsubj	_	O
+2	Get	get	VBP	pos2=VB	0	root	_	O
+3	The	the	DT	_	5	det	_	O
+4	Last	last	JJ	pos2=NNP	5	nmod	_	O
+5	Laugh	laugh	NNP	pos2=NN	2	dobj	_	O
+6	At	at	IN	pos2=NNP	5	prep	_	O
+7	Liberal	liberal	NNP	pos2=JJ	8	compound	_	O
+8	Jokesters	jokester	NNS	pos2=NNPS	6	pobj	_	O
+9	In	in	IN	_	8	prep	_	O
+10	Denial	denial	NNP	_	9	pobj	_	O
+11	That	that	IN	pos2=NNP	13	mark	_	O
+12	These	these	DT	pos2=NNP	13	nsubj	_	O
+13	Are	be	VBP	_	2	ccomp	_	O
+14	Their	their	PRP$	_	16	poss	_	O
+15	Best	good	JJS	pos2=NNP	16	nmod	_	O
+16	Days	day	NNS	pos2=NNPS	13	attr	_	O
+17	&	&	CC	_	13	cc	_	O
+18	ThingsAre	thingsare	NNP	pos2=NN	22	dep	_	O
+19	Only	only	RB	_	20	advmod	_	O
+20	G	g	GW	pos2=NNP	22	nmod	_	O
+21	…	…	NFP	pos2=-LRB-	22	punct	_	O
+22	https://t.co/32kXpuAqPI	#hlink#	ADD	_	17	dep	_	O
+

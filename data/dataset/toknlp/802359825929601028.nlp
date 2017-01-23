@@ -1,0 +1,16 @@
+1	@certifiedsonny	@certifiedsonny	NN	pos2=UH	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	that	that	DT	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	unconvenient	unconvenient	JJ	_	7	nmod	_	O
+7	truth	truth	NN	_	4	attr	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	Leftists	leftist	NNS	pos2=NNPS	4	nsubj	_	U-NORP
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	get	get	VB	_	0	root	_	O
+5	plus	plus	CC	pos2=JJ	4	cc	_	O
+6	points	point	NNS	pos2=VBZ	4	dobj	_	O
+

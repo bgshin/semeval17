@@ -1,0 +1,16 @@
+1	@DefendingtheUSA	@defendingtheusa	NN	pos2=XX	0	root	_	O
+2	The	the	DT	_	3	det	_	O
+3	album	album	NN	_	6	nsubj	_	O
+4	does	do	VBZ	_	6	aux	_	O
+5	not	not	RB	_	6	neg	_	O
+6	include	include	VB	_	1	relcl	_	O
+7	the	the	DT	_	9	det	_	O
+8	HUD	hud	NNP	_	9	compound	_	U-ORG
+9	Secretary	secretary	NNP	_	10	nsubj	_	O
+10	designate	designate	VB	pos2=NN	6	ccomp	_	O
+11	,	,	,	_	6	punct	_	O
+12	Dr	dr	NNP	_	14	compound	_	O
+13	Ben	ben	NNP	_	14	compound	_	B-PERSON
+14	Carson	carson	NNP	_	10	dobj	_	L-PERSON
+15	.	.	.	_	6	punct	_	O
+

@@ -1,0 +1,11 @@
+1	PMU	pmu	NN	pos2=NNP	2	compound	_	O
+2	heads	head	NNS	pos2=VBZ	10	dep	_	O
+3	towards	towards	IN	_	2	prep	_	O
+4	Tal	tal	NNP	_	5	compound	_	B-GPE
+5	Abta	abta	NNP	_	6	compound	_	L-GPE
+6	town	town	NN	_	3	pobj	_	O
+7	western	western	JJ	_	8	nmod	_	O
+8	#Mosul.#MosulOps	#mosul.#mosulops	NNS	pos2=GW	10	nmod	_	U-GPE
+9	#mosuloffensive#ام_الربيعين_تجمعنا	#mosuloffensive#ام_الربيعين_تجمعنا	ADD	pos2=-LRB-	10	punct	_	O
+10	https://t.co/fK7yu6OcfE	#hlink#	ADD	_	0	root	_	O
+

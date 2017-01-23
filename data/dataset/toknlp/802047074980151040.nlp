@@ -1,0 +1,9 @@
+1	where	where	WRB	_	4	advmod	_	O
+2	can	can	MD	_	4	aux	_	O
+3	i	I	PRP	_	4	nsubj	_	O
+4	get	get	VB	_	0	root	_	O
+5	me	me	PRP	_	4	dative	_	O
+6	a	a	DT	_	7	det	_	O
+7	ricky	ricky	NN	pos2=JJ	4	dobj	_	O
+8	martin	martin	NNP	pos2=NN	7	appos	_	O
+

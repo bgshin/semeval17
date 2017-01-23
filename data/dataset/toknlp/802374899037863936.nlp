@@ -1,0 +1,27 @@
+1	@IsaLeeWolf	@isaleewolf	ADD	pos2=NNP	2	compound	_	O
+2	@No_More_Racism	@no_more_racism	NN	pos2=ADD	7	nsubj	_	O
+3	_	_	''	pos2=SYM	2	punct	_	O
+4	i	I	PRP	_	6	nsubj	_	O
+5	will	will	MD	_	6	aux	_	O
+6	fight	fight	VB	_	0	root	_	O
+7	them	them	PRP	_	6	dobj	_	O
+8	on	on	IN	_	6	prep	_	O
+9	this	this	DT	_	10	det	_	O
+10	ins	in	NNS	pos2=NN	8	pobj	_	O
+11	,	,	,	_	6	punct	_	O
+12	medicare&paying	medicare&paying	VBG	pos2=JJ	6	advcl	_	O
+13	rent	rent	NN	_	14	compound	_	O
+14	thing	thing	NN	_	12	dobj	_	O
+15	because	because	IN	_	19	mark	_	O
+16	mr&mrs	mr&mrs	NNS	pos2=PRP	19	nsubj	_	O
+17	wo	wo	MD	_	19	aux	_	O
+18	n't	not	RB	_	19	neg	_	O
+19	live	live	VB	_	12	advcl	_	O
+20	together	together	RB	_	19	advmod	_	O
+21	?	?	.	_	6	punct	_	O
+
+1	Not	not	RB	_	3	neg	_	O
+2	our	our	PRP$	_	3	poss	_	O
+3	problem	problem	NN	_	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+

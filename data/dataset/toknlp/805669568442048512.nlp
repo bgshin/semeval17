@@ -1,0 +1,19 @@
+1	#MuhammadAli	#muhammadali	NNP	pos2=XX	5	compound	_	O
+2	Muhammad	muhammad	NNP	_	5	compound	_	O
+3	Ali	ali	NNP	_	5	compound	_	O
+4	Boxing	boxing	NNP	_	5	compound	_	O
+5	#Poster	#poster	NNP	pos2=IN	0	root	_	O
+6	"	"	``	pos2=''	7	punct	_	O
+7	Body	body	NN	pos2=NNP	5	appos	_	B-WORK_OF_ART
+8	and	and	CC	_	7	cc	_	I-WORK_OF_ART
+9	Soul	soul	NNP	pos2=NN	7	conj	_	L-WORK_OF_ART
+10	"	"	''	pos2=``	11	punct	_	O
+11	11x14	0x0	NN	pos2=CD	14	nmod	_	O
+12	Mexican	mexican	JJ	pos2=NNP	14	nmod	_	U-NORP
+13	Lobby	lobby	NNP	pos2=NN	14	compound	_	O
+14	Card	card	NN	pos2=NNP	18	nmod	_	O
+15	RARE	rare	JJ	pos2=ADD	16	nmod	_	O
+16	https://t.co/8EehBhyvZ8	#hlink#	ADD	pos2=NN	14	appos	_	U-GPE
+17	#Legend	#legend	-RRB-	pos2=NNP	5	punct	_	U-ORG
+18	#Boxer	#boxer	-RRB-	pos2=NN	5	punct	_	O
+

@@ -1,0 +1,8 @@
+1	Ashley	ashley	NNP	_	2	compound	_	B-PERSON
+2	Graham	graham	NNP	_	0	root	_	I-PERSON
+3	et	et	FW	pos2=NN	4	nmod	_	I-PERSON
+4	Iskra	iskra	NNP	_	5	compound	_	I-PERSON
+5	Lawrence	lawrence	NNP	_	2	npadvmod	_	L-PERSON
+6	c'est	c'est	FW	pos2=POS	7	compound	_	O
+7	goal	goal	NN	_	2	npadvmod	_	O
+

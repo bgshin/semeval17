@@ -1,0 +1,15 @@
+1	PHILOSOPHICAL	philosophical	JJ	_	4	nmod	_	O
+2	AND	and	CC	_	1	cc	_	O
+3	SPIRITUAL	spiritual	JJ	_	1	conj	_	O
+4	REASON	reason	NN	_	0	root	_	O
+5	BREXIT	brexit	NNP	pos2=NN	6	nsubj	_	U-ORG
+6	IS	be	VBZ	_	4	relcl	_	O
+7	A	a	DT	_	12	det	_	O
+8	GREAT	great	JJ	_	9	nmod	_	O
+9	THING	thing	NN	_	12	nmod	_	O
+10	New	new	JJ	pos2=NNP	12	nmod	_	O
+11	blog	blog	NN	_	12	compound	_	O
+12	article	article	NN	_	6	attr	_	O
+13	at	at	IN	_	12	prep	_	O
+14	https://t.co/5nuoBrGmi0	#hlink#	ADD	_	13	pobj	_	U-ORG
+

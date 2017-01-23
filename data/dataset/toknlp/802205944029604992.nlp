@@ -1,0 +1,11 @@
+1	Thanksgiving	thanksgiving	NNP	_	2	compound	_	B-DATE
+2	Day	day	NNP	_	3	compound	_	L-DATE
+3	Mannequin	mannequin	NNP	pos2=NN	4	nsubj	_	O
+4	Challenge#HappyThanksgiving	challenge#happythanksgiving	VBG	pos2=NNP	0	root	_	O
+5	#Litsgiving	#litsgiving	VBG	pos2=NNP	6	nmod	_	O
+6	#MannequinChallenge	#mannequinchallenge	NN	pos2=ADD	4	dobj	_	O
+7	@	@	SYM	pos2=IN	8	punct	_	O
+8	Green	green	JJ	pos2=NNP	9	nmod	_	O
+9	…	…	NFP	pos2=-LRB-	4	discourse	_	O
+10	https://t.co/ZSv9zsT5rh	#hlink#	ADD	pos2=NN	4	dep	_	O
+

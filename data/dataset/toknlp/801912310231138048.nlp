@@ -1,0 +1,16 @@
+1	@followbot321	@followbot0	NN	pos2=CD	15	dep	_	O
+2	and	and	CC	_	1	cc	_	O
+3	supports	support	VBZ	pos2=NNS	1	conj	_	O
+4	#Hamas	#hamas	NNP	pos2=IN	5	compound	_	U-CARDINAL
+5	training	training	NN	pos2=VBG	6	compound	_	O
+6	children	child	NNS	_	3	dobj	_	O
+7	to	to	TO	pos2=IN	8	aux	_	O
+8	murder	murder	VB	pos2=NN	3	xcomp	_	O
+9	#Jews	#jews	NNS	pos2=NNP	8	dobj	_	O
+10	for	for	IN	_	8	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	sake	sake	NN	_	10	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	Allah	allah	NNP	_	13	pobj	_	O
+15	https://t.co/6lgzsxNtGJ	#hlink#	ADD	pos2=NNP	0	root	_	O
+

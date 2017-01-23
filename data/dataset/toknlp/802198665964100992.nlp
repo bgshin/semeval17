@@ -1,0 +1,12 @@
+1	@girlsreallyrule	@girlsreallyrule	UH	pos2=VB	6	discourse	_	O
+2	@nytimes	@nytimes	UH	pos2=NNS	6	discourse	_	O
+3	#DrainTheSwamp	#draintheswamp	NN	pos2=EX	6	nsubj	_	O
+4	does	do	VBZ	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	seem	seem	VB	_	0	root	_	O
+7	to	to	TO	_	9	aux	_	O
+8	be	be	VB	_	9	aux	_	O
+9	working	work	VBG	_	6	xcomp	_	O
+10	as	as	IN	_	11	mark	_	O
+11	planned	plan	VBN	_	9	advcl	_	O
+

@@ -1,0 +1,20 @@
+1	Tyrod	tyrod	NNP	_	2	compound	_	B-PERSON
+2	Taylor	taylor	NNP	_	11	nsubj	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	Tony	tony	NNP	_	5	compound	_	B-PERSON
+5	Romo	romo	NNP	_	2	conj	_	L-PERSON
+6	,	,	,	_	5	punct	_	O
+7	or	or	CC	_	5	cc	_	O
+8	Kirk	kirk	NNP	_	9	compound	_	B-ORG
+9	Cousins	cousin	NNPS	pos2=NNP	5	conj	_	L-ORG
+10	would	would	MD	_	11	aux	_	O
+11	look	look	VB	_	0	root	_	O
+12	great	great	JJ	_	11	acomp	_	O
+13	in	in	IN	_	11	prep	_	O
+14	a	a	DT	_	16	det	_	O
+15	Chiefs	chief	NNPS	_	16	compound	_	U-ORG
+16	uniform	uniform	NN	pos2=JJ	13	pobj	_	O
+17	.	.	.	_	11	punct	_	O
+
+1	https://t.co/jyH90aA0Ll	#hlink#	ADD	_	0	root	_	U-ORG
+

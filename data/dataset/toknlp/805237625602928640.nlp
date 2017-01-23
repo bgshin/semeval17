@@ -1,0 +1,13 @@
+1	Ashley	ashley	NNP	_	2	compound	_	B-PERSON
+2	Graham	graham	NNP	_	3	compound	_	L-PERSON
+3	rocks	rock	NNS	pos2=VBZ	6	nsubj	_	O
+4	barely	barely	RB	_	5	advmod	_	O
+5	there	there	RB	pos2=EX	3	advmod	_	O
+6	makeup	makeup	NN	pos2=VB	12	dep	_	O
+7	on	on	IN	_	6	prep	_	O
+8	her	her	PRP$	_	11	poss	_	O
+9	first	#ord#	JJ	pos2=JJS	11	nmod	_	U-ORDINAL
+10	Vogue	vogue	NNP	pos2=NN	11	compound	_	O
+11	cover	cover	NN	pos2=GW	7	pobj	_	O
+12	https://t.co/B1D5X9ZgZh	#hlink#	ADD	pos2=NN	0	root	_	U-GPE
+

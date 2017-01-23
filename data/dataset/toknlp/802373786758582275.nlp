@@ -1,0 +1,23 @@
+1	Framing	frame	VBG	pos2=NN	8	csubj	_	O
+2	anti-idpol	anti-idpol	JJ	pos2=HYPH	3	nmod	_	O
+3	leftists	leftist	NNS	_	1	dobj	_	O
+4	as	as	IN	_	1	prep	_	O
+5	"	"	``	_	6	punct	_	O
+6	alt	alt	JJ	pos2=NN	4	pcomp	_	O
+7	"	"	''	_	6	punct	_	O
+8	makes	make	VBZ	_	0	root	_	O
+9	the	the	DT	_	10	det	_	O
+10	job	job	NN	_	21	nsubj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	kind	kind	NN	_	11	pobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	psyop	psyop	NN	pos2=JJ	16	compound	_	O
+16	tankies	tankies	NNS	pos2=VBZ	14	pobj	_	O
+17	that	that	WDT	pos2=DT	18	nsubj	_	O
+18	attack	attack	VBP	_	16	relcl	_	O
+19	zizek	zizek	NN	pos2=RB	18	dobj	_	O
+20	too	too	RB	_	21	advmod	_	O
+21	easy	easy	JJ	pos2=RB	8	ccomp	_	O
+22	.	.	.	_	8	punct	_	O
+

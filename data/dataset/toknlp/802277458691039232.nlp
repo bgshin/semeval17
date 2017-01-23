@@ -1,0 +1,10 @@
+1	@guardian_sydmun	@guardian_sydmun	DT	pos2=PRP$	4	det	_	O
+2	same	same	JJ	_	0	root	_	O
+3	(	(	-LRB-	_	8	punct	_	O
+4	praise	praise	NN	pos2=VB	8	compound	_	O
+5	Kim	kim	NNP	_	8	compound	_	B-PERSON
+6	Jong	jong	NNP	_	8	compound	_	I-PERSON
+7	-	-	HYPH	_	8	punct	_	I-PERSON
+8	un	un	NNP	pos2=VBN	2	appos	_	L-PERSON
+9	)	)	-RRB-	_	2	punct	_	O
+

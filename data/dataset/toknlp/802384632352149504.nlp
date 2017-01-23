@@ -1,0 +1,20 @@
+1	Let	let	VB	_	0	root	_	O
+2	's	's	PRP	_	3	nsubj	_	O
+3	see	see	VB	_	1	ccomp	_	O
+4	Palin	palin	NNP	_	3	dobj	_	U-PERSON
+5	in	in	IN	_	3	prep	_	O
+6	the	the	DT	_	12	det	_	O
+7	Cabinet	cabinet	NNP	_	12	compound	_	O
+8	!-->	!-->	XX	pos2=SYM	12	dep	_	O
+9	Exclusive	exclusive	NNP	pos2=JJ	12	dep	_	O
+10	--	--	:	_	9	punct	_	O
+11	Sarah	sarah	NNP	_	12	compound	_	B-PERSON
+12	Palin	palin	NNP	_	5	pobj	_	L-PERSON
+13	on	on	IN	_	3	prep	_	O
+14	Her	her	PRP$	_	16	poss	_	O
+15	Political	political	JJ	pos2=NNP	16	nmod	_	O
+16	Future	future	NNP	pos2=JJ	13	pobj	_	O
+17	https://t.co/Ejn0MCGrch	#hlink#	ADD	pos2=RBR	12	appos	_	O
+18	via	via	IN	_	3	prep	_	O
+19	@BreitbartNews	@breitbartnews	NNP	pos2=ADD	18	pobj	_	U-ORG
+

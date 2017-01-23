@@ -1,0 +1,15 @@
+1	Trump	trump	NN	pos2=NNP	2	nsubj	_	B-ORG
+2	Addresses	address	VBZ	pos2=NNP	0	root	_	I-ORG
+3	America	america	NNP	_	5	compound	_	I-ORG
+4	–	-	HYPH	pos2=:	5	punct	_	I-ORG
+5	Transition	transition	NNP	pos2=NN	6	compound	_	I-ORG
+6	Team	team	NNP	pos2=NN	7	compound	_	L-ORG
+7	Goals	goal	NNS	pos2=NNP	2	dobj	_	O
+8	And	and	CC	pos2=NNP	7	cc	_	O
+9	Information	information	NN	pos2=NNP	10	compound	_	O
+10	Website	website	NN	_	7	conj	_	O
+11	[	[	-LRB-	_	12	punct	_	O
+12	VIDEO	video	NN	_	10	appos	_	O
+13	]	]	-RRB-	_	12	punct	_	O
+14	https://t.co/zCi2vFdVNj	#hlink#	ADD	_	10	appos	_	O
+

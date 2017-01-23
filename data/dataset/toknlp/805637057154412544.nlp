@@ -1,0 +1,14 @@
+1	@msmarbella	@msmarbella	UH	pos2=LS	4	discourse	_	O
+2	@Statistar30	@statistar0	NN	pos2=NNP	4	nsubj	_	O
+3	Here	here	RB	pos2=NNP	2	advmod	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	need	need	NN	_	4	attr	_	O
+7	for	for	IN	_	6	prep	_	O
+8	voter	voter	NN	_	9	compound	_	O
+9	suppression	suppression	NN	_	10	compound	_	O
+10	documentation	documentation	NN	_	7	pobj	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	https://t.co/zrk8FqXGXE	#hlink#	ADD	_	0	root	_	U-ORG
+

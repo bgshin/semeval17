@@ -1,0 +1,18 @@
+1	#Belarus	#belarus	NNP	pos2=FW	3	poss	_	O
+2	#humanrights	#humanrights	POS	pos2=PRP$	1	case	_	O
+3	community	community	NN	_	9	nsubj	_	O
+4	,	,	,	_	3	punct	_	O
+5	including	include	VBG	_	3	prep	_	O
+6	@belhrh	@belhrh	UH	pos2=NNP	5	pobj	_	O
+7	,	,	,	_	9	punct	_	O
+8	strongly	strongly	RB	_	9	advmod	_	O
+9	urges	urge	VBZ	_	0	root	_	O
+10	authorities	authority	NNS	_	9	dobj	_	O
+11	to	to	TO	_	12	aux	_	O
+12	abolish	abolish	VB	_	9	xcomp	_	O
+13	the	the	DT	_	15	det	_	O
+14	death	death	NN	_	15	compound	_	O
+15	penalty	penalty	NN	_	12	dobj	_	O
+16	…	…	NFP	pos2=:	17	punct	_	O
+17	https://t.co/iJ0rl5xaOI	#hlink#	ADD	pos2=NN	15	appos	_	U-WORK_OF_ART
+

@@ -1,0 +1,15 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=GW	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	https://t.co/T2EkwdfonW	#hlink#	ADD	pos2=NNP	2	dep	_	O
+7	Minecraft	minecraft	NNP	pos2=PRP	8	compound	_	U-ORG
+8	ep.31	ep.0	NN	pos2=.	4	pobj	_	O
+9	=	=	SYM	pos2=-LRB-	10	punct	_	O
+10	Tipp	tipp	NNP	_	13	poss	_	U-ORG
+11	's	's	POS	_	10	case	_	O
+12	Train	train	NNP	_	13	compound	_	O
+13	Station	station	NNP	pos2=NN	8	pobj	_	O
+14	!	!	.	_	2	punct	_	O
+

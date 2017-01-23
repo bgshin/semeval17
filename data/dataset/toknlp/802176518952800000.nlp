@@ -1,0 +1,29 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	’m	be	VBP	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	student	student	NN	_	2	attr	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Sergei	sergei	NNP	_	7	compound	_	B-PERSON
+7	Eisenstein	eisenstein	NNP	_	5	pobj	_	L-PERSON
+8	,	,	,	_	7	punct	_	O
+9	Nazi	nazi	NNP	pos2=JJ	10	compound	_	U-NORP
+10	propagandist	propagandist	NN	_	12	compound	_	O
+11	Leni	leni	NNP	_	12	compound	_	B-PERSON
+12	Riefenstahl	riefenstahl	NNP	_	7	appos	_	L-PERSON
+13	.	.	.	_	2	punct	_	O
+
+1	”	"	''	pos2=``	3	punct	_	O
+2	-	-	:	pos2=,	4	punct	_	O
+3	Steve	steve	NNP	_	4	compound	_	B-PERSON
+4	Bannon	bannon	NNP	_	0	root	_	L-PERSON
+5	.	.	.	_	4	punct	_	O
+
+1	Propagandist	propagandist	NN	_	0	root	_	O
+2	in	in	IN	_	1	prep	_	O
+3	White	white	NNP	_	4	compound	_	B-ORG
+4	House	house	NNP	_	2	pobj	_	L-ORG
+5	...	..	.	pos2=,	1	punct	_	O
+
+1	brilliant	brilliant	JJ	_	2	nmod	_	O
+2	#Trump	#trump	NN	pos2=NNS	0	root	_	O
+

@@ -1,0 +1,23 @@
+1	@realDangerClose	@realdangerclose	NNP	pos2=VB	4	compound	_	O
+2	Donald	donald	NNP	_	4	compound	_	B-PERSON
+3	J.	j.	NNP	_	4	compound	_	I-PERSON
+4	Trump	trump	NNP	_	13	nsubj	_	L-PERSON
+5	,	,	,	_	4	punct	_	O
+6	the	the	DT	_	8	det	_	O
+7	second	#ord#	JJ	_	8	nmod	_	U-ORDINAL
+8	president	president	NN	pos2=NNP	4	appos	_	O
+9	in	in	IN	_	8	prep	_	O
+10	20	0	CD	_	11	nmod	_	B-DATE
+11	years	year	NNS	_	9	pobj	_	L-DATE
+12	to	to	TO	_	13	aux	_	O
+13	lose	lose	VB	_	17	expl	_	O
+14	the	the	DT	_	16	det	_	O
+15	popular	popular	JJ	_	16	nmod	_	O
+16	vote	vote	NN	_	13	dobj	_	O
+17	,	,	,	_	0	root	_	O
+18	most	most	RBS	_	19	advmod	_	O
+19	unpopular	unpopular	JJ	_	20	nmod	_	O
+20	president	president	NN	_	16	appos	_	O
+21	in	in	IN	_	20	prep	_	O
+22	history	history	NN	_	21	pobj	_	O
+

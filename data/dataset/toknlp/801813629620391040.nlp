@@ -1,0 +1,13 @@
+1	Kate	kate	NNP	_	2	compound	_	B-PERSON
+2	Upton	upton	NNP	_	3	nsubj	_	L-PERSON
+3	IS	be	VBZ	_	0	root	_	O
+4	BACK	back	RB	pos2=NNP	3	advmod	_	O
+5	&	&	CC	_	3	cc	_	O
+6	she	she	PRP	_	8	nsubj	_	O
+7	’s	's	VBZ	_	8	aux	_	O
+8	defending	defend	VBG	_	3	conj	_	O
+9	her	her	PRP$	_	11	poss	_	O
+10	MLB	mlb	NNP	pos2=NN	11	compound	_	U-ORG
+11	roasting	roasting	NN	pos2=VBG	8	dobj	_	O
+12	https://t.co/6RtIDehTjq	#hlink#	ADD	pos2=NN	11	appos	_	U-ORG
+

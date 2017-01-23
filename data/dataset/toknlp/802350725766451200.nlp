@@ -1,0 +1,14 @@
+1	Bob	bob	NNP	_	2	compound	_	B-PERSON
+2	Dylan	dylan	NNP	_	9	poss	_	I-PERSON
+3	’s	's	POS	_	2	case	_	L-PERSON
+4	Nobel	nobel	NNP	_	5	compound	_	B-WORK_OF_ART
+5	Prize	prize	NNP	_	7	npadvmod	_	L-WORK_OF_ART
+6	–	-	HYPH	pos2=,	7	punct	_	O
+7	Canadian	canadian	JJ	pos2=NNP	9	nmod	_	O
+8	Jewish	jewish	NNP	pos2=JJ	9	nmod	_	O
+9	News	news	NNP	pos2=NN	13	dep	_	O
+10	(	(	-LRB-	_	9	punct	_	O
+11	blog	blog	NN	pos2=GW	9	appos	_	O
+12	)	)	-RRB-	_	9	punct	_	O
+13	https://t.co/mRIlKS1oMS	#hlink#	ADD	pos2=NN	0	root	_	O
+

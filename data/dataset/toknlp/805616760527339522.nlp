@@ -1,0 +1,23 @@
+1	#NBA	#nba	NN	pos2=NNP	2	compound	_	O
+2	#Cards	#cards	NNP	pos2=NNS	22	dep	_	O
+3	2012	0	CD	_	5	qmod	_	B-DATE
+4	-	-	SYM	pos2=HYPH	5	punct	_	I-DATE
+5	13	0	CD	_	6	nmod	_	L-DATE
+6	panini	panini	NN	pos2=AFX	22	dep	_	O
+7	Gold	gold	NNP	pos2=NN	8	compound	_	B-ORG
+8	Standard	standard	NNP	pos2=JJ	22	dep	_	L-ORG
+9	Base	base	NN	pos2=NNP	22	dep	_	O
+10	#Card	#card	CD	pos2=NN	22	dep	_	O
+11	#	#	NN	_	22	dep	_	O
+12	37	0	CD	pos2=LS	11	nmod	_	U-MONEY
+13	Tony	tony	NNP	_	14	compound	_	B-PERSON
+14	Parker	parker	NNP	_	22	dep	_	L-PERSON
+15	San	san	NNP	_	17	compound	_	O
+16	Antonio	antonio	NNP	_	17	compound	_	O
+17	#Spurs	#spurs	NNP	pos2=VBZ	22	dep	_	O
+18	#d	#d	XX	pos2=AFX	22	dep	_	O
+19	/	/	SYM	pos2=,	17	punct	_	O
+20	349	0	CD	_	22	dep	_	B-DATE
+21	…	…	NFP	pos2=:	22	punct	_	L-DATE
+22	https://t.co/bsyTy1nb0D	#hlink#	ADD	pos2=NN	0	root	_	O
+

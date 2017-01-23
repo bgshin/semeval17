@@ -1,0 +1,12 @@
+1	@thedavidcrosby	@thedavidcrosby	UH	pos2=PRP	3	discourse	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	what	what	WP	_	8	pobj	_	O
+5	Bob	bob	NNP	_	6	compound	_	B-PERSON
+6	Dylan	dylan	NNP	_	7	nsubj	_	L-PERSON
+7	sounds	sound	VBZ	_	3	ccomp	_	O
+8	like	like	IN	pos2=RB	7	prep	_	O
+9	at	at	IN	_	7	prep	_	O
+10	an	an	DT	_	11	det	_	O
+11	amphitheater	amphitheater	NN	_	9	pobj	_	O
+

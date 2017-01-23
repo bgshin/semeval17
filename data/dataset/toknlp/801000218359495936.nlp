@@ -1,0 +1,14 @@
+1	#Humanrightswatch:Popular	#humanrightswatch:popular	NNP	pos2=XX	5	compound	_	O
+2	Mobilization	mobilization	NNP	pos2=NN	3	compound	_	O
+3	Forces	force	NNPS	pos2=NNS	5	compound	_	O
+4	#PMF	#pmf	NNP	pos2=NNPS	5	compound	_	O
+5	Detain	detain	NNP	pos2=VB	13	dep	_	O
+6	,	,	,	_	5	punct	_	O
+7	Beat	beat	NNP	pos2=VB	8	compound	_	O
+8	Villagers	villager	NNPS	pos2=NNS	5	conj	_	U-NORP
+9	near	near	IN	pos2=RB	8	prep	_	O
+10	#Mosul#Mosuloffensive	#mosul#mosuloffensive	NNP	pos2=ADD	9	pobj	_	B-GPE
+11	#MosulOp	#mosulop	GW	pos2=NNP	13	nmod	_	L-GPE
+12	…	…	NFP	pos2=GW	13	punct	_	O
+13	https://t.co/fARTwimxcB	#hlink#	ADD	_	0	root	_	O
+

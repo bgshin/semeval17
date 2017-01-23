@@ -1,0 +1,20 @@
+1	After	after	IN	_	12	prep	_	O
+2	seeing	see	VBG	_	1	pcomp	_	O
+3	me	me	PRP	_	2	dobj	_	O
+4	ugly	ugly	JJ	_	5	nmod	_	O
+5	cry	cry	NN	pos2=VB	2	dobj	_	O
+6	over	over	IN	_	5	prep	_	O
+7	Leonard	leonard	NNP	_	8	compound	_	B-PERSON
+8	Cohen	cohen	NNP	_	6	pobj	_	L-PERSON
+9	,	,	,	_	12	punct	_	O
+10	my	my	PRP$	_	11	poss	_	O
+11	husband	husband	NN	_	12	nsubj	_	O
+12	is	be	VBZ	_	0	root	_	O
+13	genuinely	genuinely	RB	_	14	advmod	_	O
+14	concerned	concerned	JJ	_	12	acomp	_	O
+15	about	about	IN	_	14	prep	_	O
+16	Werner	werner	NNP	_	17	compound	_	B-PERSON
+17	Herzog	herzog	NNP	_	19	poss	_	I-PERSON
+18	's	's	POS	_	17	case	_	L-PERSON
+19	health	health	NN	_	15	pobj	_	O
+

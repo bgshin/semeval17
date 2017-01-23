@@ -1,0 +1,15 @@
+1	New	new	JJ	pos2=NNP	4	nmod	_	O
+2	Comic	comic	JJ	pos2=NNP	4	nmod	_	O
+3	-	-	HYPH	pos2=:	4	punct	_	O
+4	Things	thing	NNS	pos2=NNPS	0	root	_	O
+5	With	with	IN	_	4	prep	_	O
+6	Eyes	eye	NNS	pos2=NNP	5	pobj	_	O
+7	–	-	:	pos2=HYPH	4	punct	_	O
+8	Top	top	JJ	pos2=NNP	9	nmod	_	O
+9	Advisors	advisor	NNS	pos2=NNP	14	nmod	_	O
+10	3	0	CD	_	14	dep	_	U-CARDINAL
+11	(	(	-LRB-	_	14	punct	_	O
+12	https://t.co/40c7WEkdvl)	#hlink#	ADD	_	14	nmod	_	O
+13	#TrumpTransitionTeam	#trumptransitionteam	ADD	pos2=GW	0	root	_	O
+14	https://t.co/LzymqS8kDW	#hlink#	ADD	pos2=NN	13	pobj	_	O
+

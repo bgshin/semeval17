@@ -1,0 +1,22 @@
+1	WOW	wow	UH	_	0	root	_	O
+2	..	..	.	pos2=:	1	punct	_	O
+
+1	@FHS_Girls_Hoops	@fhs_girls_hoops	NNS	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	New	new	NNP	pos2=JJ	2	compound	_	B-ORG
+2	Fab	fab	NNP	_	15	dep	_	I-ORG
+3	4	0	CD	_	8	nmod	_	I-ORG
+4	Plus	plus	NNP	pos2=CC	6	compound	_	I-ORG
+5	Vets	vet	NNPS	pos2=NNP	6	compound	_	L-ORG
+6	Fairmont	fairmont	NNP	_	15	dep	_	O
+7	38	0	CD	pos2=NNP	15	dep	_	U-CARDINAL
+8	Tipp	tipp	NNP	_	15	dep	_	B-FAC
+9	28	0	CD	_	8	npadvmod	_	L-FAC
+10	@madddog_12	@madddog_0	NN	pos2=NNS	11	compound	_	O
+11	16pts	0pts	NNS	_	15	dep	_	O
+12	@BartleyMaddie12	@bartleymaddie0	NN	pos2=GW	15	dep	_	O
+13	@JDabbs86	@jdabbs0	GW	pos2=NN	15	nmod	_	O
+14	…	…	NFP	pos2=GW	15	punct	_	O
+15	https://t.co/9CoXQRqg86	#hlink#	ADD	pos2=NN	0	root	_	O
+

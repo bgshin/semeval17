@@ -1,0 +1,23 @@
+1	United	united	NNP	_	2	compound	_	B-ORG
+2	Nations	nations	NNP	_	4	compound	_	I-ORG
+3	Development	development	NNP	_	4	compound	_	I-ORG
+4	Program	program	NNP	pos2=NN	11	nsubj	_	L-ORG
+5	(	(	-LRB-	_	4	punct	_	O
+6	UNDP	undp	NN	pos2=NNP	4	appos	_	O
+7	)	)	-RRB-	_	4	punct	_	O
+8	:	:	:	_	11	punct	_	O
+9	South	south	NNP	pos2=JJ	10	compound	_	B-GPE
+10	Korea	korea	NNP	_	11	nsubj	_	L-GPE
+11	offers	offer	VBZ	_	0	root	_	O
+12	USD	usd	NN	pos2=NNP	14	nmod	_	O
+13	1	0	CD	_	14	nmod	_	O
+14	M	m	NN	pos2=NNS	11	dobj	_	O
+15	to	to	TO	_	16	aux	_	O
+16	support	support	VB	_	11	advcl	_	O
+17	stability	stability	NN	_	16	dobj	_	O
+18	in	in	IN	_	17	prep	_	O
+19	#Libya	#libya	NNP	pos2=NN	18	pobj	_	U-GPE
+20	.	.	.	_	11	punct	_	O
+
+1	https://t.co/MpqkEpukJD	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,19 @@
+1	Toddler	toddler	NN	pos2=NNP	2	compound	_	O
+2	boy	boy	NN	_	4	nsubj	_	O
+3	erroneously	erroneously	RB	_	4	advmod	_	O
+4	given	give	VBN	pos2=IN	0	root	_	O
+5	an	an	DT	_	7	det	_	O
+6	excessive	excessive	JJ	_	7	nmod	_	O
+7	dose	dose	NN	_	4	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	Gardasil	gardasil	NNP	_	18	nmod	_	O
+10	-	-	HYPH	pos2=,	18	punct	_	O
+11	may	may	MD	_	12	aux	_	O
+12	be	be	VB	_	4	conj	_	O
+13	at	at	IN	_	12	prep	_	O
+14	risk	risk	NN	_	13	pobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	neurological	neurological	JJ	_	17	nmod	_	O
+17	damage	damage	NN	_	15	pobj	_	O
+18	https://t.co/HccWbjmuEb	#hlink#	ADD	_	17	appos	_	O
+

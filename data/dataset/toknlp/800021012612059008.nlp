@@ -1,0 +1,20 @@
+1	#ICYMI	#icymi	NFP	pos2=XX	6	punct	_	O
+2	The	the	DT	_	4	det	_	O
+3	#NBAwards	#nbawards	NNS	pos2=JJ	4	compound	_	O
+4	winners	winner	NNS	_	6	nsubj	_	O
+5	for	for	IN	_	4	prep	_	O
+6	2016	0	CD	_	9	dep	_	U-DATE
+7	wereThe	werethe	NNP	pos2=IN	9	compound	_	B-FAC
+8	Underground	underground	NNP	pos2=JJ	9	compound	_	I-FAC
+9	Railroad	railroad	NNP	pos2=NN	0	root	_	L-FAC
+10	by	by	IN	_	4	prep	_	O
+11	Colson	colson	NNP	_	12	compound	_	B-ORG
+12	WhiteheadStamped	whiteheadstamped	NNP	_	10	pobj	_	L-ORG
+13	from	from	IN	_	4	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	Beginning	beginning	NN	pos2=NNP	13	pobj	_	O
+16	by	by	IN	_	9	prep	_	O
+17	Ibram	ibram	NNP	_	19	compound	_	B-PERSON
+18	X	x	NNP	_	19	compound	_	I-PERSON
+19	Kendi	kendi	NNP	_	16	pobj	_	L-PERSON
+

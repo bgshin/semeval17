@@ -1,0 +1,12 @@
+1	@jimmyfallon	@jimmyfallon	UH	pos2=ADD	6	discourse	_	O
+2	4.kirk	#hlink#	ADD	pos2=NN	0	root	_	O
+3	3.	0.	LS	_	8	meta	_	U-CARDINAL
+4	Miss	miss	NNP	pos2=VB	6	compound	_	O
+5	Patty	patty	NNP	_	6	compound	_	U-PERSON
+6	2.	0.	NNP	pos2=CD	10	compound	_	U-CARDINAL
+7	Sookie	sookie	NNP	pos2=NN	2	npadvmod	_	O
+8	1.	0.	CD	pos2=VBZ	7	nmod	_	U-CARDINAL
+9	Mr.	mr.	NNP	_	10	compound	_	O
+10	Gilmore	gilmore	NNP	_	7	appos	_	B-PERSON
+11	#gilmoregirlstop4	#gilmoregirlstop0	POS	pos2=.	10	case	_	L-PERSON
+

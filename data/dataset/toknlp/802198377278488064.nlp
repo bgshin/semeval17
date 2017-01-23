@@ -1,0 +1,15 @@
+1	Listen	listen	VB	pos2=VBP	0	root	_	O
+2	to	to	TO	pos2=IN	3	aux	_	O
+3	win	win	VB	pos2=NN	1	advcl	_	O
+4	passes	pass	NNS	pos2=VBZ	3	dobj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	see	see	VB	_	1	advcl	_	O
+7	#FantasticBeasts	#fantasticbeasts	NNS	pos2=RB	6	dobj	_	O
+8	after	after	IN	_	6	prep	_	O
+9	2	0	CD	_	10	nmod	_	B-TIME
+10	pm	pm	NN	_	8	pobj	_	L-TIME
+11	w	w	IN	_	6	prep	_	O
+12	/	/	HYPH	pos2=,	11	punct	_	O
+13	@adamtaylorradio	@adamtaylorradio	IN	pos2=ADD	11	pobj	_	O
+14	https://t.co/ttoJbuANBp	#hlink#	ADD	pos2=NN	11	pobj	_	O
+

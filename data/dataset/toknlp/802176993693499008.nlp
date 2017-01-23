@@ -1,0 +1,14 @@
+1	Looks	look	VBZ	_	0	root	_	O
+2	like	like	IN	_	4	mark	_	O
+3	we	we	PRP	_	4	nsubj	_	O
+4	're	be	VBP	_	1	advcl	_	O
+5	back	back	RB	pos2=JJ	4	advmod	_	O
+6	in	in	IN	_	5	prep	_	O
+7	business	business	NN	_	6	pobj	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	#YemenFiles	#yemenfiles	NNS	pos2=ADD	4	nmod	_	O
+2	#Yemen	#yemen	GW	pos2=NNS	4	nmod	_	B-PERSON
+3	#HillaryClinton	#hillaryclinton	GW	pos2=ADD	4	nmod	_	L-PERSON
+4	https://t.co/IMurGvmreT	#hlink#	ADD	pos2=NN	0	root	_	O
+

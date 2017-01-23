@@ -1,0 +1,16 @@
+1	@peter45b	@peter0b	NN	pos2=LS	2	compound	_	O
+2	@ScribeShelly	@scribeshelly	NNP	pos2=RB	5	vocative	_	O
+3	When	when	WRB	_	5	advmod	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	say	say	VBP	_	10	advcl	_	O
+6	safe	safe	JJ	_	5	acomp	_	O
+7	about	about	IN	_	6	prep	_	O
+8	Aleppo	aleppo	NNP	_	7	pobj	_	U-GPE
+9	I	I	PRP	pos2=CD	10	nsubj	_	O
+10	mean	mean	VBP	_	0	root	_	O
+11	still	still	RB	_	10	advmod	_	O
+12	alive	alive	JJ	_	10	acomp	_	O
+13	and	and	CC	_	12	cc	_	O
+14	free	free	JJ	_	12	conj	_	O
+15	.	.	.	_	10	punct	_	O
+

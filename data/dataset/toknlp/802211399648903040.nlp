@@ -1,0 +1,23 @@
+1	@DeenInspired	@deeninspired	MD	pos2=ADD	3	aux	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	guess	guess	VB	pos2=VBP	0	root	_	O
+4	people	people	NNS	_	3	dobj	_	O
+5	like	like	IN	pos2=VBP	4	prep	_	O
+6	@boonaamohammed	@boonaamohammed	TO	pos2=PRP	7	aux	_	O
+7	use	use	VB	pos2=VBP	3	xcomp	_	O
+8	#ISIS	#isis	NN	pos2=NNP	7	dobj	_	O
+9	&	&	CC	_	8	cc	_	O
+10	#terrorism	#terrorism	NN	pos2=MD	8	conj	_	O
+11	like	like	IN	pos2=UH	7	prep	_	O
+12	@pennyappeal	@pennyappeal	DT	pos2=JJ	13	nsubj	_	O
+13	use	use	VB	pos2=NN	11	pcomp	_	O
+14	Islam	islam	NNP	_	16	compound	_	U-ORG
+15	-	-	HYPH	pos2=:	13	punct	_	O
+16	to	to	TO	_	17	aux	_	O
+17	get	get	VB	_	13	xcomp	_	O
+18	rich	rich	JJ	_	19	nmod	_	O
+19	quick	quick	JJ	pos2=RB	17	acomp	_	O
+20	.	.	.	_	3	punct	_	O
+
+1	#Pathetic	#pathetic	NNP	pos2=JJ	0	root	_	O
+

@@ -1,0 +1,27 @@
+1	TIL	til	FW	pos2=NNP	4	punct	_	O
+2	there	there	EX	pos2=RB	4	expl	_	O
+3	have	have	VBP	_	4	aux	_	O
+4	been	be	VBN	_	0	root	_	O
+5	no	no	DT	_	7	det	_	O
+6	beehive	beehive	JJ	pos2=NN	7	nmod	_	O
+7	losses	loss	NNS	_	4	attr	_	O
+8	in	in	IN	_	7	prep	_	O
+9	Cuba	cuba	NNP	_	8	pobj	_	U-GPE
+10	.	.	.	_	4	punct	_	O
+
+1	Unable	unable	JJ	_	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	import	import	VB	pos2=NN	1	xcomp	_	O
+4	pesticides	pesticide	NNS	_	3	dobj	_	O
+5	due	due	IN	_	3	prep	_	O
+6	to	to	IN	_	5	pcomp	_	O
+7	the	the	DT	_	8	det	_	O
+8	embargo	embargo	NN	_	5	pobj	_	O
+9	,	,	,	_	8	punct	_	O
+10	the	the	DT	_	11	det	_	O
+11	island	island	NN	_	8	appos	_	O
+12	...	..	.	pos2=,	1	punct	_	O
+
+1	#Reddit	#reddit	ADD	pos2=-LRB-	2	punct	_	O
+2	https://t.co/fmlEa46E8Y	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

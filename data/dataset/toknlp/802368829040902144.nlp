@@ -1,0 +1,31 @@
+1	Obama	obama	NNP	_	19	nsubj	_	U-PERSON
+2	,	,	,	_	1	punct	_	O
+3	Clinton	clinton	NNP	_	1	conj	_	U-PERSON
+4	,	,	,	_	3	punct	_	O
+5	Sanders	sanders	NNP	_	3	conj	_	U-PERSON
+6	,	,	,	_	5	punct	_	O
+7	Schumer	schumer	NNP	_	5	conj	_	U-PERSON
+8	,	,	,	_	7	punct	_	O
+9	Pelosi	pelosi	NNP	_	7	conj	_	U-PERSON
+10	,	,	,	_	9	punct	_	O
+11	Reid	reid	NNP	_	9	conj	_	U-PERSON
+12	,	,	,	_	11	punct	_	O
+13	Warren	warren	NNP	_	11	conj	_	U-PERSON
+14	,	,	,	_	13	punct	_	O
+15	would	would	MD	_	19	aux	_	O
+16	never	never	RB	_	19	neg	_	O
+17	have	have	VB	pos2=VBP	19	aux	_	O
+18	even	even	RB	_	19	advmod	_	O
+19	said	say	VBN	pos2=VBD	0	root	_	O
+20	one	#crd#	CD	_	21	nmod	_	U-CARDINAL
+21	word	word	NN	_	19	dobj	_	O
+22	.	.	.	_	19	punct	_	O
+
+1	They	they	PRP	_	3	nsubj	_	O
+2	should	should	MD	_	3	aux	_	O
+3	go	go	VB	_	0	root	_	O
+4	work	work	VB	pos2=NN	3	dobj	_	O
+5	in	in	IN	pos2=RB	3	prep	_	O
+6	…	…	NFP	pos2=-LRB-	5	pobj	_	O
+7	https://t.co/VXQsTNES8u	#hlink#	ADD	pos2=NN	5	pobj	_	U-GPE
+

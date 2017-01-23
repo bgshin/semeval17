@@ -1,0 +1,23 @@
+1	Ya	ya	UH	pos2=PRP	5	discourse	_	O
+2	they	they	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	disappoint.i	disappoint.i	VB	_	0	root	_	O
+6	love	love	NN	pos2=VB	5	dobj	_	O
+7	watching	watch	VBG	_	5	advcl	_	O
+8	them	them	PRP	_	9	nsubj	_	O
+9	make	make	VB	_	7	ccomp	_	O
+10	complete	complete	JJ	_	11	nmod	_	O
+11	fools	fool	NNS	_	9	dobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	themselves	themselves	PRP	_	12	pobj	_	O
+14	and	and	CC	_	9	cc	_	O
+15	show	show	VB	pos2=VBP	9	conj	_	O
+16	the	the	DT	_	18	det	_	O
+17	American	american	JJ	_	18	nmod	_	U-NORP
+18	people	people	NNS	_	15	dobj	_	O
+19	what	what	WDT	pos2=WP	20	det	_	O
+20	a	a	DT	_	21	det	_	O
+21	…	…	NFP	pos2=:	22	nmod	_	O
+22	https://t.co/y87dEp3XnR	#hlink#	ADD	pos2=NN	5	dep	_	O
+

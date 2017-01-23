@@ -1,0 +1,25 @@
+1	this	this	DT	_	4	nsubj	_	O
+2	is	be	VBZ	_	4	aux	_	O
+3	so	so	RB	pos2=IN	4	advmod	_	O
+4	fracking	fracking	VBG	pos2=JJ	0	root	_	O
+5	sweet	sweet	JJ	_	2	acomp	_	O
+6	and	and	CC	_	4	cc	_	O
+7	it	it	PRP	_	8	nsubj	_	O
+8	makes	make	VBZ	_	4	conj	_	O
+9	me	me	PRP	_	11	nsubj	_	O
+10	so	so	RB	pos2=IN	11	advmod	_	O
+11	freaking	freak	VBG	pos2=JJ	8	ccomp	_	O
+12	happy	happy	JJ	pos2=RB	24	nmod	_	O
+13	i	I	PRP	_	17	nsubj	_	O
+14	just	just	RB	_	17	advmod	_	O
+15	ca	can	MD	_	17	aux	_	O
+16	nt	nt	RB	_	17	advmod	_	O
+17	get	get	VB	_	11	advcl	_	O
+18	over	over	IN	pos2=RP	17	prep	_	O
+19	this	this	DT	_	18	pobj	_	O
+20	thanks	thanks	NNS	pos2=NN	24	dep	_	O
+21	chiara	chiara	NN	pos2=GW	24	dep	_	O
+22	@spacepeggy	@spacepeggy	XX	pos2=NNP	24	dep	_	O
+23	ily	ily	RB	pos2=NN	24	nmod	_	O
+24	https://t.co/IFaEcJHEDT	#hlink#	ADD	pos2=NN	8	ccomp	_	O
+

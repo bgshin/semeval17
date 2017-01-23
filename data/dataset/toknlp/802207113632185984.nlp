@@ -1,0 +1,20 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	proves	prove	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	bankrupt	bankrupt	JJ	_	5	nmod	_	O
+5	condition	condition	NN	_	2	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	#BlackLivesMatter	#blacklivesmatter	NNP	pos2=NN	6	pobj	_	U-GPE
+8	that	that	IN	pos2=WDT	10	mark	_	O
+9	they	they	PRP	_	10	nsubj	_	O
+10	think	think	VBP	_	2	ccomp	_	O
+11	that	that	IN	_	16	mark	_	O
+12	hassling	hassle	VBG	_	16	csubj	_	O
+13	shoppers	shopper	NNS	_	12	dobj	_	O
+14	&	&	CC	_	13	cc	_	O
+15	business	business	NN	_	13	conj	_	O
+16	is	be	VBZ	_	10	ccomp	_	O
+17	right	right	JJ	pos2=RB	16	acomp	_	O
+18	…	…	NFP	pos2=,	19	punct	_	O
+19	https://t.co/CrPmXI76JS	#hlink#	ADD	_	16	npadvmod	_	O
+

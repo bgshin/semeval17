@@ -1,0 +1,25 @@
+1	Ryan	ryan	NNP	_	0	root	_	U-PERSON
+2	and	and	CC	_	1	cc	_	O
+3	Reince	reince	NNP	_	1	conj	_	U-PERSON
+4	both	both	DT	pos2=CC	1	appos	_	O
+5	from	from	IN	_	4	prep	_	O
+6	WI	wi	NNP	pos2=NN	5	pobj	_	U-ORG
+7	which	which	WDT	_	9	nsubj	_	O
+8	already	already	RB	_	9	advmod	_	O
+9	has	have	VBZ	_	1	relcl	_	O
+10	vilely	vilely	JJ	pos2=RB	14	nmod	_	O
+11	repressive	repressive	JJ	_	14	nmod	_	O
+12	voter	voter	NN	_	13	compound	_	O
+13	suppression	suppression	NN	_	14	compound	_	O
+14	votes	vote	NNS	_	9	dobj	_	O
+15	..	..	.	pos2=,	14	punct	_	O
+
+1	IN	in	NNP	pos2=FW	2	nsubj	_	O
+2	has	have	VBZ	_	0	root	_	O
+3	every	every	DT	_	4	det	_	O
+4	type	type	NN	_	2	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	vil	vil	NN	pos2=FW	5	pobj	_	O
+7	…	…	NFP	pos2=-LRB-	4	relcl	_	O
+8	https://t.co/loqJH27C2P	#hlink#	ADD	_	4	appos	_	U-GPE
+

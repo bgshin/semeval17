@@ -1,0 +1,18 @@
+1	The	the	DT	_	4	det	_	B-ORG
+2	#UnitedNations	#unitednations	NNP	pos2=NNS	4	compound	_	I-ORG
+3	General	general	NNP	_	4	compound	_	I-ORG
+4	Assembly	assembly	NNP	_	6	nsubj	_	L-ORG
+5	has	have	VBZ	_	6	aux	_	O
+6	designated	designate	VBN	_	0	root	_	O
+7	November	november	NNP	_	6	dobj	_	B-DATE
+8	25	0	CD	_	7	nmod	_	L-DATE
+9	as	as	IN	_	6	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	#InternationalDay	#internationalday	NNP	pos2=NN	9	pobj	_	O
+12	for	for	IN	_	6	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	#Elimination	#elimination	NNP	pos2=NN	12	pobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	…	…	NFP	pos2=NNP	15	pobj	_	O
+17	https://t.co/07RiYtomh4	#hlink#	ADD	_	15	pobj	_	O
+

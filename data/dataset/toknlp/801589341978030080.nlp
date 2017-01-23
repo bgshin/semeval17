@@ -1,0 +1,17 @@
+1	@davidschneider	@davidschneider	UH	pos2=NN	10	discourse	_	O
+2	,,,	,,	NFP	pos2=,	1	punct	_	O
+3	and	and	CC	_	4	cc	_	O
+4	even	even	RB	_	5	advmod	_	O
+5	more	more	RBR	_	6	advmod	_	O
+6	so	so	RB	_	10	advmod	_	O
+7	with	with	IN	_	11	prep	_	O
+8	PLP	plp	NNP	pos2=NN	7	pobj	_	U-ORG
+9	rightists.I	rightists.i	TO	pos2=NNP	10	aux	_	O
+10	despise	despise	VB	_	0	root	_	O
+11	them	them	PRP	_	10	dobj	_	O
+12	all	all	DT	pos2=RB	11	appos	_	O
+13	with	with	IN	_	10	prep	_	O
+14	a	a	DT	_	15	det	_	O
+15	will	will	NN	_	13	pobj	_	O
+16	.	.	.	_	10	punct	_	O
+

@@ -1,0 +1,21 @@
+1	Chicago	chicago	NNP	_	2	compound	_	O
+2	Cubs	cub	NNPS	pos2=NNP	3	nsubj	_	O
+3	win	win	VBP	pos2=VB	0	root	_	O
+4	crazy	crazy	JJ	_	5	nmod	_	O
+5	Game	game	NN	pos2=NNP	3	dobj	_	O
+6	7	0	CD	pos2=,	3	npadvmod	_	U-CARDINAL
+7	to	to	TO	pos2=IN	8	aux	_	O
+8	clinch	clinch	VB	_	3	advcl	_	O
+9	first	#ord#	JJ	pos2=RB	12	nmod	_	O
+10	World	world	NNP	_	11	compound	_	B-EVENT
+11	Series	series	NNP	_	12	compound	_	L-EVENT
+12	title	title	NN	_	8	dobj	_	O
+13	since	since	IN	_	8	prep	_	O
+14	1908	0	CD	_	13	pobj	_	O
+15	-	-	:	pos2=HYPH	3	punct	_	O
+16	...	..	.	pos2=NFP	3	punct	_	O
+
+1	-	-	NFP	pos2=GW	3	punct	_	O
+2	https://t.co/866j5rs1pX	#hlink#	ADD	pos2=GW	3	nmod	_	O
+3	https://t.co/zXc1ZACz7J	#hlink#	ADD	_	0	root	_	U-ORG
+

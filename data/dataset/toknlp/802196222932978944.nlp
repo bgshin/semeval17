@@ -1,0 +1,27 @@
+1	@jk_rowling	@jk_rowling	VBG	pos2=NNP	2	nsubj	_	O
+2	bought	buy	VBD	pos2=VBN	0	root	_	O
+3	this	this	DT	_	2	dobj	_	O
+4	at	at	IN	_	2	prep	_	O
+5	the	the	DT	_	9	det	_	O
+6	theater	theater	NN	_	3	appos	_	O
+7	1	0	CD	_	12	nmod	_	O
+8	st	st	NN	_	9	compound	_	O
+9	time	time	NN	_	4	pobj	_	O
+10	I	I	PRP	_	11	nsubj	_	O
+11	saw	see	VBD	_	9	relcl	_	O
+12	#FantasticBeasts	#fantasticbeasts	NNS	pos2=NNP	11	dobj	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	Wore	wear	VBD	pos2=VB	0	root	_	O
+2	it	it	PRP	_	1	dobj	_	O
+3	to	to	IN	pos2=TO	1	prep	_	O
+4	theater	theater	NN	pos2=VB	3	pobj	_	O
+5	2nd	#ord#	JJ	pos2=NN	6	nmod	_	U-ORDINAL
+6	time	time	NN	_	1	npadvmod	_	O
+7	(	(	-LRB-	_	1	punct	_	O
+8	But	but	CC	_	1	cc	_	O
+9	should	should	MD	_	12	dep	_	O
+10	the	the	DT	_	11	det	_	O
+11	…	…	NFP	pos2=-LRB-	12	punct	_	O
+12	https://t.co/FVm9ZuTJR4	#hlink#	ADD	_	1	conj	_	O
+

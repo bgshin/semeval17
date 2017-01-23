@@ -1,0 +1,31 @@
+1	Oh	oh	UH	_	5	discourse	_	O
+2	,	,	,	_	7	punct	_	O
+3	and	and	CC	_	4	cc	_	O
+4	let	let	VB	_	0	root	_	O
+5	's	's	PRP	_	7	nsubj	_	O
+6	not	not	RB	_	7	neg	_	O
+7	forget	forget	VB	_	4	ccomp	_	O
+8	getting	get	VBG	_	7	xcomp	_	O
+9	that	that	DT	pos2=IN	11	det	_	O
+10	PS4	ps0	NN	_	11	compound	_	O
+11	theme	theme	NN	_	8	dobj	_	O
+12	and	and	CC	_	11	cc	_	O
+13	costume	costume	NN	_	11	conj	_	O
+14	DLC.	dlc.	NNP	pos2=NN	15	compound	_	O
+15	Wew	wew	NNP	_	16	compound	_	O
+16	lad	lad	NN	_	11	appos	_	O
+17	.	.	.	_	15	punct	_	O
+
+1	Persona	persona	NN	pos2=NNP	4	nsubj	_	O
+2	5	0	CD	pos2=,	1	appos	_	U-CARDINAL
+3	has	have	VBZ	_	4	aux	_	O
+4	become	become	VBN	_	0	root	_	O
+5	far	far	RB	_	7	advmod	_	O
+6	too	too	RB	_	7	advmod	_	O
+7	much	much	JJ	pos2=RB	4	attr	_	O
+8	of	of	IN	_	7	prep	_	O
+9	a	a	DT	_	11	det	_	O
+10	money	money	NN	_	11	compound	_	O
+11	sink	sink	NN	pos2=VB	8	pobj	_	O
+12	.	.	.	_	4	punct	_	O
+

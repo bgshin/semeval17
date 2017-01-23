@@ -1,0 +1,14 @@
+1	WAIT	wait	VB	pos2=NN	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	"	"	``	_	2	punct	_	O
+2	Manny	manny	NNP	pos2=NN	6	nsubj	_	U-PERSON
+3	"	"	''	_	2	punct	_	O
+4	on	on	IN	_	2	prep	_	O
+5	#ThisIsUs	#thisisus	NNP	pos2=ADD	4	pobj	_	U-ORG
+6	is	be	VBZ	_	0	root	_	O
+7	also	also	RB	_	6	advmod	_	O
+8	on	on	IN	pos2=RB	6	prep	_	O
+9	#YoungandtheRestless	#youngandtherestless	NNP	pos2=NN	8	pobj	_	U-ORG
+10	?	?	.	_	6	punct	_	O
+

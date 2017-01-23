@@ -1,0 +1,15 @@
+1	Hate	hate	NN	pos2=VB	2	compound	_	O
+2	Crimes	crime	NNS	pos2=NNPS	4	nsubj	_	O
+3	Are	be	VBP	_	4	aux	_	O
+4	Rising	rise	VBG	pos2=NNP	0	root	_	O
+5	But	but	CC	pos2=NNP	4	cc	_	O
+6	Do	do	VB	pos2=VBP	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	Expect	expect	VB	_	4	conj	_	O
+9	Them	them	PRP	_	12	nsubjpass	_	O
+10	to	to	TO	_	12	aux	_	O
+11	be	be	VB	_	12	auxpass	_	O
+12	Prosecuted	prosecute	VBN	_	8	ccomp	_	O
+13	https://t.co/GUKxF5qisL	#hlink#	ADD	_	14	nsubj	_	O
+14	#UniteBlue	#uniteblue	ADD	pos2=-RRB-	8	punct	_	O
+

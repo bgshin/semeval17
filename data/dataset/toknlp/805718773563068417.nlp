@@ -1,0 +1,21 @@
+1	may2017	may0	NN	pos2=JJ	3	compound	_	O
+2	Q2	q0	NN	_	3	compound	_	O
+3	Pseudoscience	pseudoscience	NN	pos2=NNP	11	dep	_	O
+4	&	&	CC	_	3	cc	_	O
+5	the	the	DT	_	6	det	_	O
+6	law	law	NN	_	3	conj	_	O
+7	:	:	:	_	11	punct	_	O
+8	no	no	DT	pos2=UH	11	det	_	O
+9	scientifically	scientifically	RB	_	10	advmod	_	O
+10	verified	verify	VBN	pos2=JJ	11	nmod	_	O
+11	facts	fact	NNS	_	0	root	_	O
+12	to	to	TO	_	13	aux	_	O
+13	establish	establish	VB	_	11	xcomp	_	O
+14	theory	theory	NN	_	13	dobj	_	O
+15	that	that	IN	_	17	mark	_	O
+16	homeopathy	homeopathy	NN	_	17	nsubj	_	O
+17	works	work	VBZ	pos2=NNS	14	relcl	_	O
+18	...	..	.	pos2=,	11	punct	_	O
+
+1	https://t.co/SQdG46fqB5	#hlink#	ADD	_	0	root	_	U-ORG
+

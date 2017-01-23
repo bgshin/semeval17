@@ -1,0 +1,8 @@
+1	Loving	love	VBG	_	5	csubj	_	O
+2	the	the	DT	_	4	det	_	O
+3	Radiohead	radiohead	NNP	_	4	compound	_	U-PERSON
+4	piano	piano	NN	_	1	dobj	_	O
+5	covers	cover	VBZ	pos2=NNS	0	root	_	O
+6	on	on	IN	pos2=RP	5	prep	_	O
+7	#westworld	#westworld	NN	pos2=FW	6	pobj	_	O
+

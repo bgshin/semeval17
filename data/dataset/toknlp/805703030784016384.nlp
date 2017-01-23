@@ -1,0 +1,21 @@
+1	$	$	$	pos2=-LRB-	2	nmod	_	O
+2	BAM	bam	NNP	pos2=NN	0	root	_	U-ORG
+3	!	!	.	_	2	punct	_	O
+
+1	$	$	$	pos2=-LRB-	2	nmod	_	O
+2	ADS	ad	NNS	pos2=NNPS	4	nsubj	_	O
+3	$	$	$	pos2=:	4	nsubj	_	O
+4	ARE	be	VBP	_	0	root	_	O
+5	$	$	$	pos2=VBN	10	nmod	_	O
+6	FOR	for	IN	_	4	prep	_	U-MONEY
+7	$	$	$	_	10	nmod	_	O
+8	ADS$I	ads$i	NNP	pos2=$	10	nmod	_	O
+9	$	$	$	pos2=-RRB-	10	nmod	_	O
+10	AM	am	NNP	pos2=VBP	12	nmod	_	O
+11	$	$	$	pos2=.	12	nmod	_	O
+12	FIT$PAY	fit$pay	NNP	pos2=$	16	nmod	_	O
+13	$	$	$	pos2=HYPH	16	nmod	_	O
+14	OUT	out	RP	pos2=RB	13	prt	_	O
+15	$	$	$	pos2=CD	16	nmod	_	O
+16	CUBS	cub	NNS	pos2=CD	4	attr	_	O
+

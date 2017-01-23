@@ -1,0 +1,18 @@
+1	Please	please	UH	_	2	discourse	_	O
+2	RETWEET	retweet	VB	pos2=NN	0	root	_	O
+3	as	as	RB	_	4	advmod	_	O
+4	much	much	JJ	pos2=RB	2	dobj	_	O
+5	as	as	IN	_	7	mark	_	O
+6	u	u	PRP	pos2=NN	7	nsubj	_	O
+7	can	can	MD	pos2=NN	4	advcl	_	O
+8	!	!	.	_	2	punct	_	O
+
+1	Americans	american	NNPS	pos2=NNS	6	nsubj	_	U-NORP
+2	for	for	IN	_	1	prep	_	O
+3	the	the	DT	_	5	det	_	B-LAW
+4	XII	xii	NNP	pos2=CD	5	compound	_	I-LAW
+5	Amendment	amendment	NNP	pos2=GW	2	pobj	_	L-LAW
+6	https://t.co/Lc8ovAMrx6	#hlink#	ADD	pos2=NNP	8	nmod	_	O
+7	#UniteBlue	#uniteblue	ADD	pos2=-RRB-	0	root	_	B-ORG
+8	#BlueUnited	#blueunited	ADD	pos2=-RRB-	7	pobj	_	L-ORG
+

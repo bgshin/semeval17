@@ -1,0 +1,16 @@
+1	That	that	DT	pos2=WDT	2	nsubj	_	O
+2	look	look	VBP	pos2=NN	11	csubj	_	O
+3	on	on	IN	_	2	prep	_	O
+4	Putin	putin	NNP	_	6	poss	_	U-PERSON
+5	's	's	POS	_	4	case	_	O
+6	face	face	NN	_	3	pobj	_	O
+7	shaking	shake	VBG	_	2	advcl	_	O
+8	Obama	obama	NNP	_	10	poss	_	U-PERSON
+9	's	's	POS	_	8	case	_	O
+10	hand	hand	NN	_	7	dobj	_	O
+11	is	be	VBZ	_	0	root	_	O
+12	priceless	priceless	JJ	_	11	acomp	_	O
+13	.	.	.	_	11	punct	_	O
+
+1	https://t.co/sBNzpAp7yT	#hlink#	ADD	_	0	root	_	U-ORG
+

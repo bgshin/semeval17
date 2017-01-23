@@ -1,0 +1,30 @@
+1	Why	why	WRB	_	2	advmod	_	O
+2	@sophietheallet	@sophietheallet	RB	pos2=VB	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	Because	because	IN	_	4	mark	_	O
+2	Melania	melania	NNP	_	3	compound	_	B-PERSON
+3	Trump	trump	NNP	_	4	nsubj	_	L-PERSON
+4	likes	like	VBZ	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	look	look	VB	_	4	xcomp	_	O
+7	classy	classy	JJ	_	6	acomp	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	thought	think	VBD	pos2=VBP	0	root	_	O
+3	your	your	PRP$	_	5	poss	_	O
+4	opinion	opinion	NN	_	5	compound	_	O
+5	matters	matter	NNS	_	2	dobj	_	O
+6	?	?	.	_	2	punct	_	O
+
+1	Lol	lol	UH	pos2=NNP	3	discourse	_	O
+2	,	,	,	_	3	punct	_	O
+3	bad	bad	JJ	_	5	nmod	_	O
+4	PR	pr	NN	pos2=NNP	5	compound	_	O
+5	choice	choice	NN	_	0	root	_	O
+6	on	on	IN	_	5	prep	_	O
+7	your	your	PRP$	_	8	poss	_	O
+8	part	part	NN	_	6	pobj	_	O
+9	!	!	.	_	5	punct	_	O
+

@@ -1,0 +1,16 @@
+1	Recalling	recall	VBG	_	15	dep	_	O
+2	the	the	DT	_	4	det	_	O
+3	legendary	legendary	JJ	_	4	nmod	_	O
+4	Duran	duran	NNP	_	1	dobj	_	O
+5	vs	vs	IN	pos2=CC	4	prep	_	O
+6	DeJesus	dejesus	NNP	_	7	compound	_	U-PERSON
+7	rivalry	rivalry	NN	_	5	pobj	_	O
+8	:	:	:	_	15	punct	_	O
+9	https://t.co/d2w7unVCPr	#hlink#	ADD	_	15	nmod	_	U-ORG
+10	#Boxing	#boxing	VBG	pos2=-RRB-	15	dep	_	O
+11	#History	#history	NNP	pos2=JJ	12	compound	_	O
+12	#Sports	#sports	NNS	pos2=VBZ	10	dobj	_	O
+13	#handsofstone	#handsofstone	GW	pos2=UH	15	nmod	_	O
+14	…	…	NFP	pos2=-LRB-	15	punct	_	O
+15	https://t.co/CEUgakIuXP	#hlink#	ADD	pos2=NN	0	root	_	O
+

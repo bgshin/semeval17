@@ -1,0 +1,20 @@
+1	#Bahrain	#bahrain	NNP	pos2=NN	3	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	courts	court	NNS	_	4	nsubj	_	O
+4	uphold	uphold	VBP	pos2=VB	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	death	death	NN	_	7	compound	_	O
+7	penalty	penalty	NN	_	4	dobj	_	O
+8	agnst	agnst	WDT	pos2=NN	10	nsubj	_	O
+9	falsely	falsely	RB	_	10	advmod	_	O
+10	accused	accuse	VBD	pos2=VBN	7	relcl	_	O
+11	tortured	torture	VBN	pos2=JJ	12	nmod	_	O
+12	detainees	detainee	NNS	_	10	dobj	_	O
+13	Ali	ali	NNP	_	14	compound	_	B-PERSON
+14	AlSingace	alsingace	NNP	_	19	dep	_	L-PERSON
+15	,	,	,	_	14	punct	_	O
+16	Abbas	abbas	NNP	_	17	compound	_	B-PERSON
+17	AlSameea	alsameea	NNP	_	14	conj	_	L-PERSON
+18	&…	&…	NFP	pos2=POS	19	punct	_	O
+19	https://t.co/uVN2GmpeXZ	#hlink#	ADD	_	7	appos	_	O
+

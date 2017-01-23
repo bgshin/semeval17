@@ -1,0 +1,22 @@
+1	Maduro	maduro	NNP	pos2=VB	0	nsubj	_	U-PERSON
+2	the	the	DT	_	4	det	_	O
+3	pin	pin	NN	pos2=JJ	4	compound	_	O
+4	head	head	NN	_	1	appos	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	A	a	DT	_	2	det	_	O
+2	Festival	festival	NNP	pos2=NN	6	nsubj	_	B-ORG
+3	of	of	IN	_	2	prep	_	I-ORG
+4	Strife	strife	NNP	_	3	pobj	_	L-ORG
+5	,	,	,	_	6	punct	_	O
+6	is	be	VBZ	_	10	aux	_	O
+7	n't	not	RB	_	6	neg	_	O
+8	the	the	DT	_	9	det	_	O
+9	world	world	NN	_	10	nsubj	_	O
+10	watching	watch	VBG	_	0	root	_	O
+11	?	?	.	_	10	punct	_	O
+
+1	@ArepaEater	@arepaeater	GW	pos2=XX	3	nmod	_	B-PERSON
+2	#freevenezuela	#freevenezuela	GW	pos2=-LRB-	3	nmod	_	L-PERSON
+3	https://t.co/YI16wfyHeh	#hlink#	ADD	pos2=NN	0	root	_	O
+

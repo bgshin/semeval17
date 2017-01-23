@@ -1,0 +1,20 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	love	love	VBP	_	0	root	_	O
+3	when	when	WRB	_	6	advmod	_	O
+4	the	the	DT	_	5	det	_	O
+5	#BiasedMedia	#biasedmedia	NN	pos2=TO	6	nsubj	_	O
+6	fall	fall	VB	pos2=NN	2	advcl	_	O
+7	all	all	RB	pos2=DT	8	advmod	_	O
+8	over	over	IN	_	6	prep	_	O
+9	them	them	PRP	_	8	pobj	_	O
+10	selves	self	NNS	_	5	appos	_	O
+11	speculating	speculate	VBG	_	10	acl	_	O
+12	on	on	IN	_	11	prep	_	O
+13	the	the	DT	_	15	det	_	O
+14	#TrumpTransitionTeam	#trumptransitionteam	NNP	pos2=ADD	15	compound	_	O
+15	#Trump	#trump	NNP	pos2=NFP	12	pobj	_	O
+16	playing	play	VBG	_	6	advcl	_	O
+17	them	them	PRP	_	16	dobj	_	O
+18	…	…	NFP	pos2=-LRB-	19	punct	_	O
+19	https://t.co/h0Q0c1t35X	#hlink#	ADD	_	2	dep	_	O
+

@@ -1,0 +1,24 @@
+1	@KaylinWinters2	@kaylinwinters0	NNS	pos2=NN	2	nsubj	_	O
+2	Am	be	VBP	pos2=NNP	0	root	_	O
+3	Nazi	nazi	NNP	pos2=JJ	4	compound	_	U-NORP
+4	supremacists	supremacist	NNS	_	9	compound	_	O
+5	r	r	IN	pos2=JJ	1	prep	_	O
+6	rightists	rightist	NNS	_	5	pobj	_	O
+7	who	who	WP	_	8	nsubj	_	O
+8	spent	spend	VBD	_	6	relcl	_	O
+9	decades	decade	NNS	_	8	dobj	_	U-DATE
+10	opposed	oppose	VBN	pos2=JJ	8	xcomp	_	O
+11	to	to	IN	_	10	prep	_	O
+12	RU	ru	NNP	pos2=FW	14	nmod	_	O
+13	totalitarian	totalitarian	JJ	pos2=NN	14	nmod	_	O
+14	left	left	NN	pos2=VBD	11	pobj	_	O
+15	.	.	.	_	2	punct	_	O
+
+1	Now	now	RB	_	3	advmod	_	O
+2	they	they	PRP	_	3	nsubj	_	O
+3	're	be	VBP	_	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	bed	bed	NN	_	4	pobj	_	O
+6	2gethr	0gethr	''	pos2=CD	3	punct	_	U-GPE
+7	.	.	.	_	3	punct	_	O
+

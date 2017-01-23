@@ -1,0 +1,29 @@
+1	@TomiLahren	@tomilahren	ADD	pos2=NNS	4	punct	_	O
+2	you	you	PRP	_	4	nsubj	_	O
+3	have	have	VBP	_	4	aux	_	O
+4	got	get	VBN	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	be	be	VB	_	4	xcomp	_	O
+7	retarded	retarded	JJ	pos2=VBN	6	acomp	_	O
+8	?	?	.	_	4	punct	_	O
+
+1	These	these	DT	_	3	det	_	O
+2	fossil	fossil	NN	pos2=JJ	3	compound	_	O
+3	fuels	fuel	NNS	_	4	nsubj	_	O
+4	are	be	VBP	_	10	ccomp	_	O
+5	not	not	RB	_	4	neg	_	O
+6	infinite	infinite	JJ	_	4	acomp	_	O
+7	,	,	,	_	10	punct	_	O
+8	we	we	PRP	_	10	nsubj	_	O
+9	must	must	MD	_	10	aux	_	O
+10	adapt	adapt	VB	_	0	root	_	O
+11	and	and	CC	_	10	cc	_	O
+12	evolve	evolve	VB	_	10	conj	_	O
+13	and	and	CC	_	12	cc	_	O
+14	end	end	VB	_	12	conj	_	O
+15	the	the	DT	_	16	det	_	O
+16	dependence	dependence	NN	_	14	dobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	fuel	fuel	NN	_	17	pobj	_	O
+19	.	.	.	_	10	punct	_	O
+

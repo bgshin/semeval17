@@ -1,0 +1,10 @@
+1	The	the	DT	_	3	det	_	B-ORG
+2	Eternal	eternal	NNP	pos2=JJ	9	nmod	_	I-ORG
+3	Son	son	NNP	_	2	appos	_	L-ORG
+4	,	,	,	_	9	punct	_	O
+5	by	by	IN	_	9	prep	_	O
+6	Rivers	rivers	NNP	pos2=NNPS	5	pobj	_	B-ORG
+7	&	&	CC	_	6	cc	_	I-ORG
+8	Robots	robot	NNS	pos2=NNPS	6	conj	_	L-ORG
+9	https://t.co/FgUIpSQTrN	#hlink#	ADD	pos2=VBP	0	root	_	O
+

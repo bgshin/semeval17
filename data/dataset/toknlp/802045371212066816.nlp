@@ -1,0 +1,16 @@
+1	@biebervelihive	@biebervelihive	UH	pos2=VB	15	discourse	_	O
+2	if	if	IN	_	6	mark	_	O
+3	michele	michele	NN	pos2=NNP	4	compound	_	O
+4	obama	obama	NN	pos2=NNP	6	nsubjpass	_	O
+5	was	be	VBD	_	6	auxpass	_	O
+6	attacked	attack	VBN	_	15	advcl	_	O
+7	and	and	CC	_	6	cc	_	O
+8	melania	melania	NN	pos2=NNS	9	nsubj	_	O
+9	praised	praise	VBD	pos2=VBN	6	conj	_	O
+10	for	for	IN	_	9	prep	_	O
+11	same	same	JJ	_	12	nmod	_	O
+12	speech	speech	NN	_	10	pobj	_	O
+13	,	,	,	_	15	punct	_	O
+14	same	same	JJ	_	15	nmod	_	O
+15	thing	thing	NN	_	0	root	_	O
+

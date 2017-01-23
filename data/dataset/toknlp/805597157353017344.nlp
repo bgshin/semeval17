@@ -1,0 +1,13 @@
+1	not	not	RB	_	4	neg	_	O
+2	no	no	DT	pos2=RB	4	det	_	O
+3	muhammad	muhammad	NN	pos2=JJ	4	compound	_	O
+4	ali	ali	NN	pos2=NNP	0	root	_	O
+5	but	but	CC	pos2=IN	4	cc	_	O
+6	I	I	PRP	_	8	nsubj	_	O
+7	can	can	MD	_	8	aux	_	O
+8	back	back	VB	pos2=RB	4	conj	_	O
+9	my	my	PRP$	_	10	poss	_	O
+10	stuff	stuff	NN	_	8	dobj	_	O
+11	up	up	RP	pos2=IN	8	prt	_	O
+12	https://t.co/VClmOFo0SI	#hlink#	ADD	_	8	npadvmod	_	U-ORG
+

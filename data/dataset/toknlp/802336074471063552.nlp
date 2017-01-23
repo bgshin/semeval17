@@ -1,0 +1,11 @@
+1	Lidar	lidar	NN	pos2=NNP	0	root	_	O
+2	vs	vs	CC	pos2=IN	1	cc	_	O
+3	Cameras	camera	NNS	pos2=NNP	1	conj	_	O
+4	&	&	CC	_	3	cc	_	O
+5	Radar	radar	NN	pos2=NNP	3	conj	_	O
+6	for	for	IN	_	1	prep	_	O
+7	self	self	NN	_	8	npadvmod	_	O
+8	driving	drive	VBG	pos2=NN	6	pcomp	_	O
+9	cars	car	NNS	_	8	dobj	_	O
+10	?	?	.	_	1	punct	_	O
+

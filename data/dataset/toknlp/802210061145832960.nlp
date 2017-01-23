@@ -1,0 +1,13 @@
+1	Mike	mike	NNP	_	2	compound	_	B-PERSON
+2	Pence	penny	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	Frank	frank	NNP	_	5	compound	_	B-PERSON
+5	Underwood	underwood	NNP	_	3	attr	_	L-PERSON
+6	without	without	IN	_	3	prep	_	O
+7	any	any	DT	_	8	det	_	O
+8	type	type	NN	_	6	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	redeemable	redeemable	JJ	_	11	nmod	_	O
+11	qualities	quality	NNS	_	9	pobj	_	O
+12	.	.	.	_	3	punct	_	O
+

@@ -1,0 +1,17 @@
+1	@lovesgodherself	@lovesgodherself	UH	pos2=PRP	3	discourse	_	O
+2	how	how	WRB	_	3	advmod	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	this	this	DT	_	3	nsubj	_	O
+5	relevant	relevant	JJ	pos2=NN	3	acomp	_	O
+6	to	to	IN	pos2=TO	5	prep	_	O
+7	#BlackLivesMatter	#blacklivesmatter	NNP	pos2=VB	6	pobj	_	U-GPE
+8	?	?	.	_	3	punct	_	O
+
+1	Was	be	VBD	_	0	root	_	O
+2	the	the	DT	_	4	det	_	O
+3	white	white	JJ	_	4	nmod	_	O
+4	man	man	NN	_	1	nsubj	_	O
+5	a	a	DT	_	6	det	_	O
+6	cop	cop	NN	_	4	appos	_	O
+7	?	?	.	_	1	punct	_	O
+

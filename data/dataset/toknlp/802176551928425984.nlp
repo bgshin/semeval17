@@ -1,0 +1,9 @@
+1	@shinmemertgami	@shinmemertgami	UH	pos2=NNS	2	discourse	_	O
+2	buy	buy	VB	pos2=VBP	0	root	_	O
+3	Persona	persona	NNP	pos2=NN	2	dobj	_	O
+4	5.	0.	CD	pos2=LS	3	nmod	_	U-CARDINAL
+5	Pre-order	pre-order	VB	_	2	conj	_	O
+6	it	it	PRP	_	5	dobj	_	O
+7	on	on	IN	_	5	prep	_	O
+8	Amazon	amazon	NNP	_	7	pobj	_	U-ORG
+

@@ -1,0 +1,33 @@
+1	If	if	IN	_	7	mark	_	O
+2	President	president	NNP	_	4	compound	_	O
+3	Elect	elect	NNP	_	4	compound	_	O
+4	Trump	trump	NNP	_	7	nsubj	_	U-ORG
+5	does	do	VBZ	_	7	aux	_	O
+6	not	not	RB	_	7	neg	_	O
+7	want	want	VB	_	8	advcl	_	O
+8	our	our	PRP$	_	9	poss	_	O
+9	Rudy	rudy	NNP	pos2=NN	0	root	_	U-PERSON
+10	Than	than	IN	pos2=NNP	13	mark	_	O
+11	He	he	PRP	pos2=NNP	13	nsubj	_	O
+12	Should	should	MD	pos2=NNP	13	aux	_	O
+13	Chose	choose	VB	pos2=VBD	7	ccomp	_	O
+14	The	the	DT	_	16	det	_	B-ORG
+15	Smart	smart	NNP	pos2=JJ	16	compound	_	I-ORG
+16	Dr	dr	NNP	_	13	dobj	_	L-ORG
+17	.	.	.	_	7	punct	_	O
+
+1	Ben	ben	NNP	_	2	compound	_	B-PERSON
+2	Carson	carson	NNP	_	0	root	_	L-PERSON
+3	As	as	IN	_	2	prep	_	O
+4	His	his	PRP$	_	5	poss	_	O
+5	SOS	sos	NN	pos2=NNP	3	pobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	scandal	scandal	NN	pos2=JJ	4	npadvmod	_	O
+4	Free	free	JJ	pos2=NNP	7	nmod	_	O
+5	and	and	CC	_	4	cc	_	O
+6	good	good	JJ	_	7	nmod	_	O
+7	man	man	NN	_	2	attr	_	O
+

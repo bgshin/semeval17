@@ -1,0 +1,24 @@
+1	if	if	IN	_	11	mark	_	O
+2	humanity	humanity	NN	_	7	nsubj	_	O
+3	mostly	mostly	RB	_	4	advmod	_	O
+4	switched	switch	VBN	pos2=VBD	2	acl	_	O
+5	to	to	IN	_	4	prep	_	O
+6	vegetarianism	vegetarianism	NN	_	5	pobj	_	O
+7	would	would	MD	_	11	aux	_	O
+8	domestic	domestic	JJ	pos2=VB	9	nmod	_	O
+9	cattle	cattle	NNS	pos2=NN	11	nsubj	_	O
+10	basically	basically	RB	_	11	advmod	_	O
+11	go	go	VBP	pos2=VB	0	root	_	O
+12	extinct	extinct	JJ	_	11	acomp	_	O
+13	,	,	,	_	11	punct	_	O
+14	or	or	CC	_	11	cc	_	O
+15	would	would	MD	_	20	aux	_	O
+16	a	a	DT	_	18	det	_	O
+17	remnant	remnant	JJ	pos2=NN	18	nmod	_	O
+18	number	number	NN	_	20	nsubjpass	_	O
+19	be	be	VB	pos2=RB	20	auxpass	_	O
+20	sold	sell	VBN	_	11	conj	_	O
+21	as	as	IN	_	20	prep	_	O
+22	pets	pet	NNS	_	21	pobj	_	O
+23	?..	?..	.	pos2=FW	20	punct	_	O
+

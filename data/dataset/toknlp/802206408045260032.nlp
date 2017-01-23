@@ -1,0 +1,28 @@
+1	#BlackLivesmatter	#blacklivesmatter	NN	pos2=ADD	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	it	it	PRP	_	2	nsubj	_	O
+4	any	any	DT	_	5	det	_	O
+5	wonder	wonder	NN	pos2=VBP	2	attr	_	O
+6	why	why	WRB	_	8	advmod	_	O
+7	cops	cop	NNS	_	8	nsubj	_	O
+8	are	be	VBP	_	5	relcl	_	O
+9	wary	wary	JJ	_	8	acomp	_	O
+10	and	and	CC	_	9	cc	_	O
+11	ready	ready	JJ	_	9	conj	_	O
+12	to	to	TO	_	13	aux	_	O
+13	shoot	shoot	VB	_	11	xcomp	_	O
+14	first	#ord#	RB	_	13	advmod	_	U-ORDINAL
+15	.	.	.	_	2	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	not	not	RB	_	2	neg	_	O
+4	an	an	DT	_	6	det	_	O
+5	easy	easy	JJ	_	6	nmod	_	O
+6	job	job	NN	_	2	attr	_	O
+7	to	to	TO	_	8	aux	_	O
+8	protect	protect	VB	_	6	relcl	_	O
+9	the	the	DT	_	10	det	_	O
+10	…	…	NFP	pos2=-LRB-	8	dobj	_	O
+11	https://t.co/yGy5PynRnh	#hlink#	ADD	pos2=NN	8	dobj	_	O
+

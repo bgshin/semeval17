@@ -1,0 +1,22 @@
+1	@themodefanatic	@themodefanatic	UH	pos2=JJ	0	root	_	O
+2	@Thurguston1	@thurguston0	NN	pos2=CD	3	compound	_	B-PERSON
+3	Ola	ola	NNP	pos2=UH	1	vocative	_	L-PERSON
+4	!	!	.	_	1	punct	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	"	"	``	_	3	punct	_	O
+3	system	system	NN	_	5	nsubj	_	O
+4	"	"	''	_	3	punct	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	the	the	DT	_	8	det	_	O
+7	electoral	electoral	JJ	_	8	nmod	_	O
+8	college	college	NN	_	5	attr	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	Constitution	constitution	NNP	_	3	pobj	_	U-LAW
+6	.	.	.	_	2	punct	_	O
+

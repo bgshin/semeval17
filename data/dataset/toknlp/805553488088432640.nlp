@@ -1,0 +1,20 @@
+1	Marine	marine	NNP	pos2=JJ	3	compound	_	B-ORG
+2	Le	le	NNP	_	3	compound	_	I-ORG
+3	Pen	pen	NNP	_	4	nsubj	_	L-ORG
+4	suggests	suggest	VBZ	_	0	root	_	O
+5	Italians	italian	NNPS	_	6	nsubj	_	U-NORP
+6	rejected	reject	VBD	_	4	ccomp	_	O
+7	the	the	DT	_	8	det	_	O
+8	EU	eu	NNP	_	6	dobj	_	U-ORG
+9	,	,	,	_	6	punct	_	O
+10	showing	show	VBG	_	6	advcl	_	O
+11	she	she	PRP	_	14	nsubj	_	O
+12	does	do	VBZ	_	14	aux	_	O
+13	n't	not	RB	_	14	neg	_	O
+14	understand	understand	VB	_	10	ccomp	_	O
+15	what	what	WP	_	19	dep	_	O
+16	the	the	DT	_	17	det	_	O
+17	#referendumcostituzionale	#referendumcostituzionale	XX	pos2=GW	19	nmod	_	O
+18	…	…	NFP	pos2=-LRB-	19	punct	_	O
+19	https://t.co/nQB4apb3at	#hlink#	ADD	_	14	ccomp	_	O
+

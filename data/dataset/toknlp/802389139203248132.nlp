@@ -1,0 +1,28 @@
+1	Remember	remember	VB	_	5	advcl	_	O
+2	,	,	,	_	5	punct	_	O
+3	it	it	PRP	_	5	nsubj	_	O
+4	always	always	RB	_	5	advmod	_	O
+5	comes	come	VBZ	_	0	root	_	O
+6	in	in	IN	pos2=RB	5	prep	_	O
+7	three	#crd#	CD	_	9	poss	_	U-CARDINAL
+8	's	's	POS	pos2=AFX	7	case	_	O
+9	...	..	.	pos2=,	5	punct	_	O
+
+1	Florence	florence	NNP	_	2	compound	_	B-PERSON
+2	Henderson	henderson	NNP	_	10	nsubj	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	Fidel	fidel	NNP	_	5	compound	_	B-PERSON
+5	Castro	castro	NNP	_	2	conj	_	L-PERSON
+6	and	and	CC	_	5	cc	_	O
+7	the	the	DT	_	8	det	_	O
+8	next	next	JJ	pos2=NN	10	nsubj	_	O
+9	will	will	MD	_	10	aux	_	O
+10	be	be	VB	_	0	root	_	O
+11	.......	..	.	pos2=,	10	punct	_	O
+
+1	Cross	cross	VB	pos2=NNP	0	root	_	O
+2	your	your	PRP$	_	3	poss	_	O
+3	fi	fi	NN	pos2=NNS	1	dobj	_	O
+4	…	…	NFP	pos2=-LRB-	1	discourse	_	O
+5	https://t.co/oNXWaZUbm9	#hlink#	ADD	_	1	dep	_	U-ORG
+

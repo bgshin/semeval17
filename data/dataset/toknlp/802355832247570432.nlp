@@ -1,0 +1,20 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	explains	explain	VBZ	_	0	root	_	O
+3	why	why	WRB	_	5	advmod	_	O
+4	Trump	trump	NNP	_	5	nsubj	_	U-PERSON
+5	spoke	speak	VBD	pos2=VBZ	2	advcl	_	O
+6	so	so	RB	_	7	advmod	_	O
+7	passionately	passionately	RB	_	5	advmod	_	O
+8	about	about	IN	pos2=RB	5	prep	_	O
+9	#Autism	#autism	NNP	pos2=NN	8	pobj	_	U-ORG
+10	and	and	CC	_	5	cc	_	O
+11	why	why	WRB	_	14	advmod	_	O
+12	Melania	melania	NNP	_	14	nsubj	_	U-PERSON
+13	is	be	VBZ	_	14	aux	_	O
+14	platforming	platforming	VBG	pos2=NN	5	conj	_	O
+15	on	on	IN	_	14	prep	_	O
+16	anti-bullying	anti-bullying	JJ	pos2=NN	15	pobj	_	O
+17	.	.	.	_	2	punct	_	O
+
+1	https://t.co/kw433EMJB5	#hlink#	ADD	_	0	root	_	U-ORG
+

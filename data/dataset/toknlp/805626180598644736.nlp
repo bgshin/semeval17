@@ -1,0 +1,22 @@
+1	Bioethicist	bioethicist	NN	pos2=VB	4	compound	_	O
+2	Dr.	dr.	NNP	_	4	compound	_	O
+3	Margaret	margaret	NNP	_	4	compound	_	B-PERSON
+4	Somerville	somerville	NNP	_	5	nsubj	_	L-PERSON
+5	makes	make	VBZ	_	0	root	_	O
+6	a	a	DT	_	9	det	_	O
+7	blunt	blunt	JJ	_	9	nmod	_	O
+8	#prolife	#prolife	NN	pos2=JJ	9	compound	_	O
+9	prediction	prediction	NN	_	5	dobj	_	O
+10	about	about	IN	_	9	prep	_	O
+11	state	state	NN	_	13	npadvmod	_	O
+12	-	-	HYPH	_	13	punct	_	O
+13	sanctioned	sanction	VBN	_	14	nmod	_	O
+14	#euthanasia	#euthanasia	NN	pos2=NNS	10	pobj	_	O
+15	.	.	.	_	5	punct	_	O
+
+1	And	and	CC	_	3	cc	_	O
+2	she	she	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	…	…	NFP	pos2=-LRB-	3	punct	_	O
+5	https://t.co/GlyqUkWHeh	#hlink#	ADD	_	3	attr	_	O
+

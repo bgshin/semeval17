@@ -1,0 +1,12 @@
+1	Changing	change	VBG	pos2=JJ	2	nmod	_	O
+2	times	time	NNS	pos2=IN	6	compound	_	O
+3	Microsoft	microsoft	NNP	_	4	nsubj	_	U-ORG
+4	is	be	VBZ	_	0	root	_	O
+5	Linux	linux	NNP	_	8	compound	_	B-ORG
+6	Foundation	foundation	NNP	_	8	compound	_	L-ORG
+7	Platinum	platinum	NNP	pos2=NN	8	compound	_	O
+8	Partner	partner	NNP	pos2=NN	4	attr	_	O
+9	!	!	.	_	4	punct	_	O
+
+1	https://t.co/CCzsq0vaPa	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,22 @@
+1	Microsoft	microsoft	NNP	_	2	nsubj	_	U-ORG
+2	joins	join	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	B-ORG
+4	Linux	linux	NNP	_	5	compound	_	I-ORG
+5	Foundation	foundation	NNP	pos2=NN	2	dobj	_	L-ORG
+6	!	!	.	_	2	punct	_	O
+
+1	Shocking	shocking	JJ	_	0	root	_	O
+2	but	but	CC	_	1	cc	_	O
+3	true	true	JJ	_	1	conj	_	O
+4	!	!	.	_	1	punct	_	O
+
+1	Read	read	VB	_	0	root	_	O
+2	what	what	WP	_	4	dobj	_	O
+3	this	this	DT	_	4	nsubj	_	O
+4	means	mean	VBZ	pos2=NNS	1	ccomp	_	O
+5	for	for	IN	_	4	prep	_	O
+6	both	both	DT	_	7	det	_	O
+7	companies	company	NNS	_	5	pobj	_	O
+8	:	:	:	_	1	punct	_	O
+9	https://t.co/cNspw46sAj	#hlink#	ADD	pos2=NN	1	dep	_	O
+

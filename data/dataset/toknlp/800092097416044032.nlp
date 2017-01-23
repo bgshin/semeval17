@@ -1,0 +1,21 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	might	might	MD	_	4	aux	_	O
+3	not	not	RB	_	4	neg	_	O
+4	stick	stick	VB	_	0	root	_	O
+5	to	to	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	facts	fact	NNS	_	5	pobj	_	O
+8	,	,	,	_	4	punct	_	O
+9	but	but	CC	_	4	cc	_	O
+10	I	I	PRP	_	12	nsubj	_	O
+11	'll	will	MD	_	12	aux	_	O
+12	tell	tell	VB	_	4	conj	_	O
+13	the	the	DT	_	14	det	_	O
+14	truth	truth	NN	_	12	dobj	_	O
+15	.	.	.	_	12	punct	_	O
+
+1	-	-	SYM	pos2=:	4	punct	_	O
+2	@colsonwhitehead	@colsonwhitehead	XX	pos2=NN	4	nmod	_	O
+3	#MiamiBookFair2016	#miamibookfair0	NN	pos2=GW	4	compound	_	O
+4	#NBAwards	#nbawards	NNS	pos2=XX	0	root	_	O
+

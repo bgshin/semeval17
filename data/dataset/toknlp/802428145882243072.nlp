@@ -1,0 +1,25 @@
+1	@thehistoryguy	@thehistoryguy	UH	pos2=XX	5	discourse	_	O
+2	@MoreUnitedUK	@moreuniteduk	UH	pos2=GW	5	discourse	_	O
+3	@TheEconomist	@theeconomist	UH	pos2=VBP	5	discourse	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	's	's	VBZ	_	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	reaction	reaction	NN	_	5	attr	_	O
+8	to	to	IN	_	7	prep	_	O
+9	PC	pc	NN	pos2=NNP	10	compound	_	O
+10	liberals	liberal	NNS	_	8	pobj	_	O
+11	..	..	.	pos2=,	5	punct	_	O
+
+1	Less	less	JJR	pos2=CC	3	nmod	_	O
+2	PC	pc	NN	pos2=JJ	3	compound	_	O
+3	liberals	liberal	NNS	_	6	nsubj	_	O
+4	=	=	SYM	pos2=NFP	6	punct	_	O
+5	less	less	JJR	pos2=JJ	6	nmod	_	O
+6	nationalism	nationalism	NN	_	0	root	_	O
+7	...	..	.	pos2=,	6	punct	_	O
+
+1	Reducing	reduce	VBG	_	3	csubj	_	O
+2	liberals	liberal	NNS	_	1	dobj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	key	key	JJ	pos2=NN	3	acomp	_	O
+

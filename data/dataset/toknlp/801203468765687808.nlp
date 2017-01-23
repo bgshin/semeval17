@@ -1,0 +1,12 @@
+1	https://t.co/t1248jemeYWindows	#hlink#	ADD	pos2=NN	3	nsubj	_	O
+2	8	0	CD	pos2=-RRB-	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	reason	reason	NN	_	3	attr	_	O
+6	I	I	PRP	_	7	nsubj	_	O
+7	'm	be	VBP	_	5	relcl	_	O
+8	a	a	DT	_	10	det	_	O
+9	Linux	linux	NNP	pos2=NN	10	compound	_	O
+10	user	user	NN	_	7	attr	_	O
+11	.	.	.	_	3	punct	_	O
+

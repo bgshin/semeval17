@@ -1,0 +1,15 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	swear	swear	VBP	_	0	root	_	O
+3	going	go	VBG	_	2	xcomp	_	O
+4	through	through	IN	_	3	prep	_	O
+5	immigration	immigration	NN	_	4	pobj	_	O
+6	in	in	IN	_	3	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	US	us	NNP	_	6	pobj	_	U-GPE
+9	is	be	VBZ	_	2	ccomp	_	O
+10	the	the	DT	_	12	det	_	O
+11	hardest	hard	JJS	_	12	nmod	_	O
+12	thing	thing	NN	_	9	attr	_	O
+13	to	to	TO	_	14	aux	_	O
+14	do	do	VB	_	12	relcl	_	O
+

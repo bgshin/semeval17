@@ -1,0 +1,14 @@
+1	Vegetarianism	vegetarianism	NN	pos2=NNP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	link	link	NN	_	2	attr	_	O
+5	to	to	IN	_	4	prep	_	O
+6	perfection	perfection	NN	_	5	pobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	peace	peace	NN	_	6	conj	_	O
+9	....	..	.	pos2=,	2	punct	_	O
+
+1	#RiverPhoenix	#riverphoenix	GW	pos2=XX	3	nmod	_	B-PERSON
+2	#aphorisms	#aphorisms	GW	pos2=NNS	3	nmod	_	L-PERSON
+3	https://t.co/1OVagY6vJc	#hlink#	ADD	pos2=NN	0	root	_	O
+

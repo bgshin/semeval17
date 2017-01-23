@@ -1,0 +1,27 @@
+1	Interesting	interesting	JJ	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Trump	trump	NNP	pos2=NN	3	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	appeal	appeal	NN	_	0	root	_	O
+4	"	"	``	pos2=''	6	punct	_	O
+5	not	not	RB	_	6	neg	_	O
+6	about	about	IN	_	3	prep	_	O
+7	racism	racism	NN	_	6	pobj	_	O
+8	,	,	,	_	7	punct	_	O
+9	misogyny	misogyny	NN	_	7	conj	_	O
+10	or	or	CC	_	9	cc	_	O
+11	hatred	hatred	NN	_	9	conj	_	O
+12	"	"	''	_	6	punct	_	O
+13	but	but	CC	_	6	cc	_	O
+14	"	"	``	pos2=''	11	punct	_	O
+15	employment	employment	NN	_	11	conj	_	O
+16	,	,	,	_	15	punct	_	O
+17	infrastructure	infrastructure	NN	_	15	conj	_	O
+18	,	,	,	_	17	punct	_	O
+19	opportunities	opportunity	NNS	_	17	conj	_	O
+20	.	.	.	_	3	punct	_	O
+21	"	"	''	_	3	punct	_	O
+
+1	https://t.co/5UVcMTSViX	#hlink#	ADD	_	0	root	_	U-ORG
+

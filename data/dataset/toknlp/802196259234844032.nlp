@@ -1,0 +1,18 @@
+1	@marylovefreedom	@marylovefreedom	IN	pos2=UH	4	prep	_	O
+2	White	white	NNP	pos2=JJ	3	compound	_	B-ORG
+3	Supremacists	supremacist	NNPS	pos2=NNS	4	nsubj	_	L-ORG
+4	are	be	VBP	_	0	root	_	O
+5	deplorable	deplorable	JJ	_	4	acomp	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	Americas	america	NNS	pos2=NNPS	4	nmod	_	U-LOC
+2	young	young	JJ	_	4	nmod	_	O
+3	/	/	SYM	pos2=HYPH	4	punct	_	O
+4	progressives	progressive	NNS	_	5	nsubj	_	O
+5	disavow	disavow	VBP	pos2=VB	0	root	_	O
+6	you	you	PRP	_	5	dobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	your	your	PRP$	_	9	poss	_	O
+9	kind	kind	NN	pos2=JJ	6	conj	_	O
+10	.	.	.	_	5	punct	_	O
+

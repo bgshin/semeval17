@@ -1,0 +1,20 @@
+1	@Karoli	@karoli	NNP	pos2=NNS	4	nsubj	_	O
+2	@thedailybeast	@thedailybeast	IN	pos2=POS	1	prep	_	O
+3	Trump	trump	NNP	pos2=NN	2	pobj	_	U-PERSON
+4	told	tell	VBD	_	0	root	_	O
+5	lies	lie	NNS	pos2=VBZ	4	dobj	_	O
+6	check	check	VB	pos2=NN	4	xcomp	_	O
+7	politifact	politifact	NN	pos2=RP	6	dobj	_	O
+8	on	on	IN	_	6	prep	_	O
+9	it	it	PRP	_	8	pobj	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	But	but	CC	_	3	cc	_	O
+2	comey	comey	NNP	pos2=JJ	5	vocative	_	O
+3	f	f	XX	pos2=NNP	0	root	_	O
+4	d	d	XX	pos2=NN	0	root	_	O
+5	up	up	RP	pos2=IN	4	prt	_	O
+6	this	this	DT	_	7	det	_	O
+7	election	election	NN	_	2	appos	_	O
+8	.	.	.	_	5	punct	_	O
+

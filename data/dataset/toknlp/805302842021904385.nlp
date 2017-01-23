@@ -1,0 +1,24 @@
+1	Drone	drone	NN	pos2=NNP	2	compound	_	O
+2	strikes	strike	NNS	pos2=VBZ	7	nsubj	_	O
+3	,	,	,	_	2	punct	_	O
+4	nuclear	nuclear	JJ	_	5	nmod	_	O
+5	weapons	weapon	NNS	_	2	conj	_	O
+6	the	the	DT	_	8	det	_	O
+7	surveillance	surveillance	NN	_	8	compound	_	O
+8	state	state	NN	_	13	nsubj	_	O
+9	at	at	IN	_	8	prep	_	O
+10	his	his	PRP$	_	11	poss	_	O
+11	command	command	NN	_	9	pobj	_	O
+12	,	,	,	_	7	punct	_	O
+13	and	and	CC	_	15	cc	_	O
+14	he	he	PRP	_	15	nsubj	_	O
+15	’s	's	VBZ	_	0	root	_	O
+16	worried	worried	JJ	pos2=VBN	15	acomp	_	O
+17	about	about	IN	_	16	prep	_	O
+18	a	a	DT	_	20	det	_	O
+19	comedy	comedy	NN	_	20	compound	_	O
+20	show	show	NN	_	17	pobj	_	O
+21	.	.	.	_	15	punct	_	O
+
+1	https://t.co/rjb5dvKoiR	#hlink#	ADD	_	0	root	_	U-ORG
+

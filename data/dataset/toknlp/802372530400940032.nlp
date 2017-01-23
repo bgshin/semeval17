@@ -1,0 +1,9 @@
+1	The	the	DT	_	3	det	_	O
+2	interview	interview	NN	_	3	compound	_	O
+3	process	process	NN	_	8	nsubj	_	O
+4	for	for	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	Trump	trump	NNP	pos2=NN	7	compound	_	U-PERSON
+7	cabinet	cabinet	NN	pos2=GW	4	pobj	_	O
+8	https://t.co/rdV0CQndJw	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

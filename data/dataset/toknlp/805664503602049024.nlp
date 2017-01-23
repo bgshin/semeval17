@@ -1,0 +1,23 @@
+1	@andieiamwhoiam	@andieiamwhoiam	UH	pos2=NN	18	discourse	_	O
+2	regarding	regard	VBG	_	5	prep	_	O
+3	her	her	PRP$	_	4	poss	_	O
+4	case	case	NN	_	2	pobj	_	O
+5	being	be	VBG	_	1	advcl	_	O
+6	a	a	DT	_	7	det	_	O
+7	waste	waste	NN	_	5	attr	_	O
+8	to	to	IN	_	7	prep	_	O
+9	taxpayers	taxpayer	NNS	_	8	pobj	_	O
+10	when	when	WRB	_	13	advmod	_	O
+11	other	other	JJ	_	12	nmod	_	O
+12	murderers	murderer	NNS	_	13	nsubj	_	O
+13	were	be	VBD	_	9	relcl	_	O
+14	not	not	RB	_	13	neg	_	O
+15	"	"	``	_	18	punct	_	O
+16	death	death	NN	_	17	compound	_	O
+17	penalty	penalty	NN	_	18	nsubj	_	O
+18	guarantees	guarantee	VBZ	pos2=NNS	0	root	_	O
+19	"	"	``	pos2=''	18	punct	_	O
+20	due	due	IN	pos2=JJ	18	prep	_	O
+21	to	to	IN	_	20	pcomp	_	O
+22	demographics	demographics	NNS	_	20	pobj	_	O
+

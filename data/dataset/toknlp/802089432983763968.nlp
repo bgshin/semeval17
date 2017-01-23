@@ -1,0 +1,17 @@
+1	Zayn	zayn	NNP	_	3	poss	_	U-PERSON
+2	's	's	POS	_	1	case	_	O
+3	name	name	NN	_	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	Arabic	arabic	JJ	pos2=NNP	6	nmod	_	U-NORP
+6	means	mean	NNS	pos2=VBZ	4	pobj	_	O
+7	'	'	``	pos2=POS	11	punct	_	O
+8	beautiful	beautiful	JJ	_	11	nmod	_	O
+9	'	'	''	_	11	punct	_	O
+10	#fact	#fact	NN	pos2=IN	11	compound	_	O
+11	#OneDirection	#onedirection	NN	pos2=ADD	16	dep	_	O
+12	#Directioner	#directioner	NNP	pos2=RBR	16	dep	_	U-ORG
+13	#zaynmalik	#zaynmalik	XX	pos2=UH	16	dep	_	O
+14	#Zayn	#zayn	NNP	pos2=XX	16	dep	_	U-ORG
+15	#ZaynFacts	#zaynfacts	NNS	pos2=XX	16	compound	_	O
+16	#Zquad	#zquad	NNP	pos2=XX	3	appos	_	U-ORG
+

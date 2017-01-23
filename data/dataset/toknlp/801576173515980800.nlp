@@ -1,0 +1,29 @@
+1	@xexizy11	@xexizy0	NN	pos2=RB	6	nsubj	_	O
+2	early	early	RB	_	6	advmod	_	O
+3	on	on	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	NazBols	nazbols	NNP	pos2=NNPS	3	pobj	_	U-ORG
+6	were	be	VBD	_	0	root	_	O
+7	more	more	JJR	_	6	attr	_	O
+8	of	of	IN	_	7	prep	_	O
+9	a	a	DT	_	10	det	_	O
+10	parody	parody	NN	_	8	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	the	the	DT	_	16	det	_	O
+13	Russian	russian	JJ	pos2=NNP	11	pobj	_	U-NORP
+14	far	far	RB	_	16	advmod	_	O
+15	-	-	HYPH	_	16	punct	_	O
+16	right	right	JJ	pos2=RB	11	pobj	_	O
+17	than	than	IN	_	16	prep	_	O
+18	actual	actual	JJ	_	19	nmod	_	O
+19	rightists	rightist	NNS	_	17	pobj	_	O
+20	.	.	.	_	6	punct	_	O
+
+1	But	but	CC	_	5	cc	_	O
+2	because	because	IN	_	4	mark	_	O
+3	they	they	PRP	_	4	nsubj	_	O
+4	took	take	VBD	_	0	root	_	O
+5	rightist	rightist	JJ	pos2=NN	6	nmod	_	O
+6	motifs	motif	NNS	_	4	dobj	_	O
+7	..	..	.	pos2=,	4	punct	_	O
+

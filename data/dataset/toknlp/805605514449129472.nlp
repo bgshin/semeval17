@@ -1,0 +1,12 @@
+1	Examples	example	NNS	_	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	injuries	injury	NNS	_	2	pobj	_	O
+4	sustained	sustain	VBN	pos2=JJ	3	acl	_	O
+5	during	during	IN	_	4	prep	_	O
+6	animal	animal	NN	_	7	compound	_	O
+7	testing	testing	NN	_	5	pobj	_	O
+8	?!	?!	.	_	1	punct	_	O
+
+1	Anybody	anybody	NN	_	0	root	_	O
+2	?!	?!	.	_	1	punct	_	O
+

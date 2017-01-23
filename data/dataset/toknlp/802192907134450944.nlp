@@ -1,0 +1,16 @@
+1	Yep	yep	UH	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Ben	ben	NNP	_	2	compound	_	B-PERSON
+2	Carson	carson	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	8	det	_	O
+5	Clarence	clarence	NNP	_	6	compound	_	B-PERSON
+6	Thomas	thomas	NNP	_	8	compound	_	L-PERSON
+7	type	type	NN	_	8	compound	_	O
+8	pick	pick	NN	_	3	attr	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	@Tio_Stephen	@tio_stephen	ADD	pos2=NN	0	root	_	O
+2	@UpshotNYT	@upshotnyt	ADD	pos2=NN	1	pobj	_	O
+

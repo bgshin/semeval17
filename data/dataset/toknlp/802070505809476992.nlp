@@ -1,0 +1,13 @@
+1	#Facebook	#facebook	NNP	pos2=WP	2	nsubj	_	U-PERSON
+2	gives	give	VBZ	_	8	ccomp	_	O
+3	#Hamas	#hamas	NNP	pos2=XX	4	compound	_	U-PERSON
+4	bandit	bandit	NN	_	2	dative	_	O
+5	the	the	DT	_	6	det	_	O
+6	boot	boot	NN	_	2	dobj	_	O
+7	;	;	,	pos2=:	8	punct	_	O
+8	Shuts	shut	VBZ	pos2=VB	0	root	_	O
+9	their	their	PRP$	_	10	poss	_	O
+10	accounts	account	NNS	pos2=GW	8	dobj	_	O
+11	down	down	RP	pos2=RB	8	prt	_	O
+12	https://t.co/Mrz78I0skC	#hlink#	ADD	_	8	dep	_	U-CARDINAL
+

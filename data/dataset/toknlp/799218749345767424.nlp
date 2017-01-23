@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det	_	O
+2	latest	late	JJS	_	5	advmod	_	O
+3	The	the	DT	_	5	det	_	B-ORG
+4	iNewsTV	inewstv	NNP	pos2=``	5	compound	_	I-ORG
+5	Daily	daily	NNP	pos2=RB	0	root	_	L-ORG
+6	!	!	.	_	2	punct	_	O
+
+1	https://t.co/rsVaJjcQLg	#hlink#	ADD	_	0	root	_	O
+2	#trumptransitionteam	#trumptransitionteam	-RRB-	pos2=XX	1	punct	_	O
+3	#maga	#maga	UH	pos2=NN	1	discourse	_	O
+

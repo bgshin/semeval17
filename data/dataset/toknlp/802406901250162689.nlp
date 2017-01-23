@@ -1,0 +1,18 @@
+1	2016	0	CD	pos2=LS	6	nmod	_	U-DATE
+2	hot	hot	JJ	_	6	nmod	_	O
+3	Stylish	stylish	JJ	pos2=NNP	6	nmod	_	O
+4	Women	woman	NNS	pos2=NNP	6	nmod	_	O
+5	/	/	SYM	pos2=,	6	punct	_	O
+6	men	man	NNS	pos2=NN	11	nmod	_	O
+7	3	0	CD	_	8	nmod	_	O
+8	D	d	NN	pos2=NNS	11	nmod	_	O
+9	digital	digital	JJ	_	11	nmod	_	O
+10	printing	printing	NN	pos2=VBG	11	compound	_	O
+11	sku	sku	NN	pos2=NNS	0	root	_	O
+12	...	..	.	pos2=,	11	punct	_	O
+
+1	USD	usd	NN	pos2=GW	4	dep	_	O
+2	39.99➤	0➤	GW	pos2=NFP	4	nmod	_	O
+3	https://t.co/p2WwEzlaAY	#hlink#	ADD	_	4	nmod	_	O
+4	https://t.co/i39tydsHlJ	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,15 @@
+1	Cristiano	cristiano	NNP	_	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	0	root	_	I-PERSON
+3	&	&	CC	_	2	cc	_	I-PERSON
+4	Kendall	kendall	NNP	_	5	compound	_	I-PERSON
+5	Jenner	jenner	NNP	_	2	conj	_	L-PERSON
+6	:	:	:	_	5	punct	_	O
+7	His	his	PRP$	_	9	poss	_	O
+8	Latest	late	JJS	pos2=NNP	9	nmod	_	O
+9	Sign	sign	NN	pos2=NNP	5	appos	_	O
+10	That	that	DT	pos2=RB	9	dobj	_	O
+11	...	..	.	pos2=,	9	punct	_	O
+
+1	https://t.co/a2xfDUYiWG	#hlink#	ADD	_	0	root	_	O
+2	#KendallJenner	#kendalljenner	-RRB-	pos2=ADD	1	punct	_	O
+

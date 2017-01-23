@@ -1,0 +1,10 @@
+1	Well	well	UH	_	4	discourse	_	O
+2	that	that	DT	pos2=IN	3	det	_	O
+3	finale	finale	NN	_	4	nsubj	_	O
+4	was	be	VBD	_	0	root	_	O
+5	one	#crd#	CD	_	7	nmod	_	U-CARDINAL
+6	big	big	JJ	_	7	nmod	_	O
+7	mindfuck	mindfuck	NN	pos2=NNS	4	attr	_	O
+8	😳	😳	NNP	pos2=WDT	9	compound	_	B-PERSON
+9	#Westworld	#westworld	NNP	pos2=NN	7	appos	_	L-PERSON
+

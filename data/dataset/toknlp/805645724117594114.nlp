@@ -1,0 +1,12 @@
+1	funny	funny	JJ	pos2=UH	0	root	_	O
+2	but	but	CC	_	1	cc	_	O
+3	i	I	PRP	_	5	nsubj	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	realized	realize	VBD	_	1	conj	_	O
+6	he	he	PRP	_	7	nsubj	_	O
+7	looks	look	VBZ	_	5	ccomp	_	O
+8	like	like	IN	_	7	prep	_	O
+9	zac	zac	NNP	pos2=JJ	11	nmod	_	B-PERSON
+10	efron	efron	GW	pos2=NNP	11	nmod	_	L-PERSON
+11	https://t.co/yMDgbdIU6S	#hlink#	ADD	_	7	dep	_	O
+

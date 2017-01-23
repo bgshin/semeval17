@@ -1,0 +1,18 @@
+1	3	0	CD	_	3	nmod	_	U-CARDINAL
+2	D	d	NN	pos2=JJ	3	compound	_	O
+3	printing	printing	NN	pos2=VBG	0	root	_	O
+4	on	on	IN	pos2=RB	3	prep	_	O
+5	display	display	NN	_	4	pobj	_	O
+6	as	as	IN	_	3	prep	_	O
+7	a	a	DT	_	9	det	_	O
+8	manufacturing	manufacturing	NN	_	9	compound	_	O
+9	option	option	NN	_	6	pobj	_	O
+10	at	at	IN	_	9	prep	_	O
+11	the	the	DT	_	15	det	_	O
+12	2016	0	CD	_	17	dep	_	U-DATE
+13	Los	los	NNP	_	14	compound	_	B-GPE
+14	Angeles	angeles	NNP	_	15	compound	_	L-GPE
+15	Auto	auto	NNP	pos2=GW	17	dep	_	O
+16	…	…	NFP	pos2=NNP	17	punct	_	O
+17	https://t.co/iiOTORJIjn	#hlink#	ADD	_	10	pobj	_	O
+

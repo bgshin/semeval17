@@ -1,0 +1,19 @@
+1	How	how	WRB	_	4	advmod	_	O
+2	can	can	MD	_	4	aux	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	#draintheswamp	#draintheswamp	VB	pos2=UH	0	root	_	O
+5	if	if	IN	_	7	mark	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	keep	keep	VBP	pos2=VB	4	advcl	_	O
+8	inviting	invite	VBG	_	7	xcomp	_	O
+9	swamp	swamp	NN	pos2=JJ	10	compound	_	O
+10	creatures	creature	NNS	_	8	dobj	_	O
+11	into	into	IN	_	8	prep	_	O
+12	your	your	PRP$	_	13	poss	_	O
+13	administration	administration	NN	_	11	pobj	_	O
+14	?	?	.	_	4	punct	_	O
+
+1	@realDonaldTrump	@realdonaldtrump	GW	pos2=XX	3	nmod	_	O
+2	…	…	NFP	pos2=GW	3	punct	_	O
+3	https://t.co/2CrEB60jUI	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,9 @@
+1	POROSHENKO	poroshenko	NNP	pos2=FW	2	nsubj	_	U-PERSON
+2	ARRIVES	arrive	VBZ	_	0	root	_	O
+3	TO	to	IN	pos2=TO	2	prep	_	O
+4	EU	eu	NNP	pos2=VB	3	pobj	_	U-ORG
+5	FOR	for	IN	_	2	prep	_	O
+6	WHIPPING	whip	VBG	pos2=NN	5	pcomp	_	O
+7	https://t.co/faBbwqiljz	#hlink#	ADD	pos2=RP	6	dobj	_	O
+8	#WRH	#wrh	-RRB-	pos2=NN	2	punct	_	O
+

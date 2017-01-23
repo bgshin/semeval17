@@ -1,0 +1,13 @@
+1	REPORT	report	NN	pos2=VB	2	compound	_	O
+2	TRUTH	truth	NN	_	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	#NoDAPL	#nodapl	XX	pos2=ADD	8	dep	_	O
+2	#Unconstitutional	#unconstitutional	NNP	pos2=XX	8	dep	_	U-ORG
+3	#PoliceBrutality	#policebrutality	XX	pos2=NN	8	dep	_	O
+4	#StandingRock	#standingrock	XX	pos2=ADD	8	dep	_	O
+5	#HumanRights	#humanrights	XX	pos2=GW	8	dep	_	O
+6	#EnergyTransferPartners	#energytransferpartners	XX	pos2=GW	8	nmod	_	O
+7	…	…	NFP	pos2=XX	8	punct	_	O
+8	https://t.co/wduJaN9EIW	#hlink#	ADD	_	0	root	_	O
+

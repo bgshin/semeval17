@@ -1,0 +1,19 @@
+1	Cause	cause	VB	pos2=NN	0	root	_	O
+2	who	who	WP	_	5	nsubj	_	O
+3	does	do	VBZ	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	love	love	VB	_	1	ccomp	_	O
+6	Zac	zac	NNP	_	7	compound	_	B-PERSON
+7	Efron	efron	NNP	_	5	dobj	_	L-PERSON
+8	{	{	-LRB-	_	14	punct	_	O
+9	Dt	dt	NN	pos2=NNP	11	dep	_	O
+10	:	:	:	_	11	punct	_	O
+11	Cass	cass	NNP	_	14	nmod	_	O
+12	}	}	-RRB-	_	14	punct	_	O
+13	(	(	-LRB-	_	14	punct	_	O
+14	Vine	vine	NNP	pos2=NN	5	dobj	_	U-ORG
+15	by	by	IN	_	5	prep	_	O
+16	@RaniQare	@raniqare	GW	pos2=NNP	15	pobj	_	O
+17	)	)	-RRB-	pos2=GW	14	punct	_	O
+18	https://t.co/HmQOiF5jYp	#hlink#	ADD	pos2=NN	15	pobj	_	O
+

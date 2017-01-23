@@ -1,0 +1,10 @@
+1	Director	director	NNP	pos2=NN	3	compound	_	O
+2	Martin	martin	NNP	_	3	compound	_	B-PERSON
+3	Scorsese	scorsese	NNP	_	4	nsubj	_	L-PERSON
+4	discusses	discuss	VBZ	_	0	root	_	O
+5	meeting	meet	VBG	pos2=NN	4	xcomp	_	O
+6	Pope	pope	NNP	_	7	compound	_	O
+7	Francis	francis	NNP	pos2=GW	5	dobj	_	B-PERSON
+8	https://t.co/OtCGowdxod	#hlink#	ADD	_	9	nmod	_	L-PERSON
+9	https://t.co/G2MFfWTiN6	#hlink#	ADD	_	4	dep	_	U-ORG
+

@@ -1,0 +1,15 @@
+1	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=-LRB-	2	dep	_	O
+2	4	0	LS	pos2=CD	14	meta	_	O
+3	)	)	-RRB-	_	2	punct	_	O
+4	Emily	emily	NNP	pos2=NN	14	dep	_	U-PERSON
+5	3	0	CD	pos2=LS	4	nmod	_	U-CARDINAL
+6	)	)	-RRB-	_	2	punct	_	O
+7	Luke	luke	NNP	pos2=NN	10	nmod	_	U-PERSON
+8	2	0	CD	pos2=NN	7	nmod	_	U-CARDINAL
+9	)	)	-RRB-	_	5	punct	_	O
+10	Richard	richard	NNP	_	13	nmod	_	B-PERSON
+11	1	0	CD	pos2=,	10	nmod	_	L-PERSON
+12	)	)	-RRB-	_	10	punct	_	O
+13	Paul	paul	NNP	_	14	compound	_	B-PERSON
+14	Anka	anka	NNP	_	0	root	_	L-PERSON
+

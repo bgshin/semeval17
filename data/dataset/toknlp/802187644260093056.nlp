@@ -1,0 +1,9 @@
+1	Why	why	WRB	_	4	advmod	_	O
+2	does	do	VBZ	_	4	aux	_	O
+3	he	he	PRP	_	4	nsubj	_	O
+4	have	have	VB	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	die	die	VB	_	4	xcomp	_	O
+7	😥😢😥😢😥😢	😥😢😥😢😥😢	HYPH	pos2=RP	6	dative	_	B-DATE
+8	#ThisIsUs	#thisisus	NN	pos2=ADD	6	dobj	_	L-DATE
+

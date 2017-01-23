@@ -1,0 +1,31 @@
+1	Donald	donald	NNP	_	2	compound	_	B-PERSON
+2	Trump	trump	NNP	_	3	nsubj	_	L-PERSON
+3	lied	lie	VBD	pos2=VBN	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+
+1	What	what	WP	_	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+
+1	Never	never	RB	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	Donald	donald	NNP	_	2	compound	_	B-PERSON
+2	Trump	trump	NNP	_	4	nsubj	_	L-PERSON
+3	never	never	RB	_	4	neg	_	O
+4	says	say	VBZ	_	0	root	_	O
+5	anything	anything	NN	_	4	dobj	_	O
+6	without	without	IN	_	4	prep	_	O
+7	having	have	VBG	_	9	aux	_	O
+8	seriously	seriously	RB	_	9	advmod	_	O
+9	meant	mean	VBN	pos2=VB	6	pcomp	_	O
+10	it	it	PRP	_	9	dobj	_	O
+11	!	!	.	_	4	punct	_	O
+
+1	*	*	SYM	_	2	punct	_	O
+2	Sarcasm	sarcasm	NN	pos2=NNP	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	De	de	NNP	pos2=GW	3	nmod	_	B-PERSON
+2	…	…	NFP	pos2=-LRB-	3	punct	_	L-PERSON
+3	https://t.co/3igngK7toV	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,25 @@
+1	Journalism	journalism	NN	pos2=NNP	9	nsubj	_	O
+2	at	at	IN	_	1	prep	_	O
+3	its	its	PRP$	_	4	poss	_	O
+4	lowest	low	JJS	_	2	pobj	_	O
+5	,	,	,	_	9	punct	_	O
+6	radical	radical	JJ	_	11	nmod	_	O
+7	,	,	,	_	9	punct	_	O
+8	rightists	rightist	NNS	_	9	nsubj	_	O
+9	denotes	denote	VBZ	_	0	root	_	O
+10	new	new	JJ	_	11	nmod	_	O
+11	definition	definition	NN	_	9	dobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	Hinduism	hinduism	NNP	_	12	pobj	_	O
+14	4	0	CD	pos2=POS	15	nmod	_	U-CARDINAL
+15	sake	sake	NN	pos2=NNS	20	nsubj	_	O
+16	of	of	IN	_	15	prep	_	O
+17	power	power	NN	_	16	pobj	_	O
+18	who	who	WP	_	19	nsubj	_	O
+19	kills	kill	VBZ	_	15	relcl	_	O
+20	annihilates	annihilate	VBZ	_	9	conj	_	O
+21	people	people	NNS	_	20	dobj	_	O
+22	with	with	IN	_	21	prep	_	O
+23	slave	slave	NN	pos2=JJR	24	compound	_	O
+24	media	medium	NNS	pos2=NN	22	pobj	_	O
+

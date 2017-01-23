@@ -1,0 +1,24 @@
+1	Earlier	early	RBR	pos2=JJR	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	a	a	DT	pos2=LS	5	det	_	O
+4	#ThisIsUs	#thisisus	NNP	pos2=ADD	5	compound	_	O
+5	Thanksgiving	thanksgiving	NNP	_	6	nsubj	_	O
+6	reminds	remind	VBZ	_	18	ccomp	_	O
+7	us	us	PRP	_	6	dobj	_	O
+8	that	that	IN	_	11	mark	_	O
+9	all	all	DT	_	10	det	_	O
+10	families	family	NNS	_	11	nsubj	_	O
+11	are	be	VBP	_	6	ccomp	_	O
+12	crazy	crazy	JJ	_	11	acomp	_	O
+13	in	in	IN	_	11	prep	_	O
+14	their	their	PRP$	_	16	poss	_	O
+15	own	own	JJ	_	16	nmod	_	O
+16	ways	way	NNS	_	13	pobj	_	O
+17	,	,	,	_	18	punct	_	O
+18	says	say	VBZ	_	0	root	_	O
+19	@lowehuff	@lowehuff	PRP	pos2=UH	18	nsubj	_	O
+20	!	!	.	_	18	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/K7Nxmq9p8t	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,22 @@
+1	Today	today	NN	_	4	npadvmod	_	U-DATE
+2	could	could	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	get	get	VB	_	0	root	_	O
+5	much	much	RB	pos2=JJ	6	advmod	_	O
+6	better	good	JJR	pos2=RBR	4	acomp	_	O
+7	-	-	HYPH	pos2=:	8	punct	_	O
+8	a	a	DT	_	10	det	_	O
+9	pinterest	pinterest	NN	pos2=JJ	10	compound	_	O
+10	recipe	recipe	NN	_	4	dobj	_	O
+11	that	that	WDT	_	12	nsubj	_	O
+12	worked	work	VBD	_	10	relcl	_	O
+13	out	out	RP	_	12	prt	_	O
+14	and	and	CC	_	12	cc	_	O
+15	#Westworld	#westworld	NNP	pos2=RB	12	conj	_	U-GPE
+16	.	.	.	_	4	punct	_	O
+
+1	A	a	DT	_	3	det	_	O
+2	perfect	perfect	JJ	_	3	nmod	_	O
+3	Sunday	sunday	NNP	_	0	root	_	U-DATE
+4	.	.	.	_	3	punct	_	O
+

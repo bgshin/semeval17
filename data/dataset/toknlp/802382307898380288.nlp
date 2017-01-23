@@ -1,0 +1,25 @@
+1	@DNCWomen	@dncwomen	ADD	pos2=UH	0	root	_	O
+2	@NancyPelosi	@nancypelosi	ADD	pos2=NN	3	compound	_	O
+3	@SenatorDurbin	@senatordurbin	NNP	pos2=ADD	1	pobj	_	O
+4	Where	where	WRB	_	5	advmod	_	O
+5	r	r	VBP	pos2=VBZ	3	relcl	_	O
+6	the	the	DT	_	7	det	_	O
+7	Dems	dems	NNPS	pos2=NNP	5	nsubj	_	U-NORP
+8	on	on	IN	_	7	prep	_	O
+9	this	this	DT	_	10	det	_	O
+10	matter	matter	NN	_	8	pobj	_	O
+11	.	.	.	_	1	punct	_	O
+
+1	Why	why	WRB	_	5	advmod	_	O
+2	does	do	VBZ	_	5	aux	_	O
+3	our	our	PRP$	_	4	poss	_	O
+4	party	party	NN	_	5	nsubj	_	O
+5	lay	lie	VB	pos2=VBD	0	root	_	O
+6	down	down	RP	pos2=RB	5	prt	_	O
+7	when	when	WRB	_	10	advmod	_	O
+8	we	we	PRP	_	10	nsubj	_	O
+9	should	should	MD	_	10	aux	_	O
+10	b	b	VB	pos2=GW	5	advcl	_	O
+11	…	…	NFP	pos2=:	5	punct	_	O
+12	https://t.co/zPhBGBpdRh	#hlink#	ADD	pos2=NN	5	dep	_	O
+

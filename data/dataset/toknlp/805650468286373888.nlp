@@ -1,0 +1,26 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	death	death	NN	_	5	compound	_	O
+5	penalty	penalty	NN	_	2	dobj	_	O
+6	introduced	introduce	VBN	pos2=VBD	5	acl	_	O
+7	(	(	-LRB-	_	6	punct	_	O
+8	and	and	CC	_	6	cc	_	O
+9	implemented	implement	VBN	_	6	conj	_	O
+10	)	)	-RRB-	_	2	punct	_	O
+11	for	for	IN	_	2	prep	_	O
+12	theft	theft	NN	_	11	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	public	public	JJ	_	15	nmod	_	O
+15	funds	fund	NNS	_	13	pobj	_	O
+16	while	while	IN	_	18	mark	_	O
+17	one	#crd#	CD	pos2=PRP	18	nsubj	_	U-CARDINAL
+18	is	be	VBZ	_	2	advcl	_	O
+19	an	an	DT	_	24	det	_	O
+20	elected	elect	VBN	pos2=JJ	25	nmod	_	O
+21	or	or	CC	_	20	cc	_	O
+22	state	state	NN	pos2=VB	25	nmod	_	O
+23	o	o	GW	pos2=XX	25	nmod	_	O
+24	…	…	GW	pos2=NFP	25	nmod	_	O
+25	https://t.co/3M0rRHUX8I	#hlink#	ADD	pos2=NN	18	attr	_	O
+

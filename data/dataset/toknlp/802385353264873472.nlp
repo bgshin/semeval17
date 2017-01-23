@@ -1,0 +1,29 @@
+1	@PrisonPlanet	@prisonplanet	NN	pos2=ADD	3	compound	_	O
+2	@louis3288	@louis0	NN	pos2=LS	3	compound	_	O
+3	@DrJillStein	@drjillstein	NN	pos2=NNP	8	dep	_	O
+4	,	,	,	_	8	punct	_	O
+5	You	you	PRP	_	8	nsubj	_	O
+6	're	be	VBP	_	8	aux	_	O
+7	not	not	RB	_	8	neg	_	O
+8	fooling	fool	VBG	_	0	root	_	O
+9	anyone	anyone	NN	_	8	dobj	_	O
+10	.	.	.	_	8	punct	_	O
+
+1	Quit	quit	VBD	pos2=VB	0	root	_	O
+2	polluting	pollute	VBG	_	1	xcomp	_	O
+3	the	the	DT	_	4	det	_	O
+4	election	election	NN	_	2	dobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	Besides	besides	RB	pos2=IN	5	advmod	_	O
+2	,	,	,	_	5	punct	_	O
+3	it	it	PRP	_	5	nsubj	_	O
+4	might	might	MD	_	5	aux	_	O
+5	turn	turn	VB	_	0	root	_	O
+6	up	up	RP	_	5	prt	_	O
+7	a	a	DT	_	8	det	_	O
+8	lot	lot	NN	_	5	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	dead	dead	JJ	_	11	nmod	_	O
+11	dems	dems	NNS	pos2=FW	9	pobj	_	O
+

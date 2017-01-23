@@ -1,0 +1,35 @@
+1	@joerogan	@joerogan	UH	pos2=NN	2	discourse	_	O
+2	Is	be	VBZ	_	0	root	_	O
+3	there	there	EX	_	2	expl	_	O
+4	anything	anything	NN	_	2	attr	_	O
+5	good	good	JJ	_	4	nmod	_	O
+6	about	about	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	north	north	NN	_	6	pobj	_	O
+9	?	?	.	_	2	punct	_	O
+
+1	G	g	NN	pos2=NNP	6	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	Thrones	throne	NNS	pos2=NNP	2	pobj	_	O
+4	=	=	SYM	pos2=IN	6	punct	_	O
+5	White	white	NNP	pos2=JJ	6	compound	_	O
+6	Walkers	walker	NNPS	pos2=NNS	0	root	_	O
+7	,	,	,	_	6	punct	_	O
+8	N	n	NNP	pos2=VBZ	13	compound	_	B-GPE
+9	Korea	korea	NNP	pos2=NN	13	nsubj	_	L-GPE
+10	=	=	SYM	pos2=-LRB-	13	punct	_	O
+11	Kim	kim	NNP	_	13	compound	_	B-PERSON
+12	Jong	jong	NNP	_	13	compound	_	I-PERSON
+13	Un	un	NNP	_	6	npadvmod	_	L-PERSON
+14	,	,	,	_	6	punct	_	O
+15	N	n	NNP	_	16	compound	_	B-ORG
+16	Dakota	dakota	NNP	_	13	npadvmod	_	I-ORG
+17	=	=	SYM	pos2=HYPH	18	punct	_	I-ORG
+18	NoDAPL	nodapl	NNP	pos2=XX	16	conj	_	L-ORG
+19	,	,	,	_	18	punct	_	O
+20	N	n	NNP	pos2=JJ	21	compound	_	B-GPE
+21	Carolina	carolina	NNP	_	24	nsubj	_	L-GPE
+22	=	=	SYM	pos2=:	24	punct	_	O
+23	Shitty	shitty	JJ	pos2=NNP	24	nmod	_	O
+24	Gov	gov	NNP	pos2=NN	6	npadvmod	_	U-PRODUCT
+

@@ -1,0 +1,14 @@
+1	Atlus	atlus	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	talks	talk	VBZ	pos2=NNS	0	root	_	O
+3	Persona	persona	NNP	pos2=NN	2	dobj	_	O
+4	5	0	CD	pos2=NNP	3	nmod	_	U-CARDINAL
+5	and	and	CC	_	3	cc	_	O
+6	the	the	DT	_	10	det	_	O
+7	declining	decline	VBG	_	10	nmod	_	O
+8	Japanese	japanese	JJ	pos2=NNPS	10	nmod	_	U-NORP
+9	console	console	NN	_	10	compound	_	O
+10	market	market	NN	_	3	conj	_	O
+11	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/5g3qKPPJM3	#hlink#	ADD	_	0	root	_	U-ORG
+

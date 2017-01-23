@@ -1,0 +1,5 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	TPP.	tpp.	NNP	pos2=JJ	2	attr	_	O
+4	https://t.co/MrzZJHkeIZ	#hlink#	ADD	pos2=NN	3	appos	_	O
+

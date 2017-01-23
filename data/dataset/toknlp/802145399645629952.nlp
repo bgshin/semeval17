@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det	_	O
+2	talent	talent	NN	_	3	compound	_	O
+3	pool	pool	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	slim	slim	JJ	_	4	acomp	_	O
+6	for	for	IN	_	5	prep	_	O
+7	#Filmmaking	#filmmaking	VBG	pos2=NNP	6	pcomp	_	O
+8	in	in	IN	_	7	prep	_	O
+9	#Hollywood	#hollywood	NNP	pos2=NN	8	pobj	_	U-GPE
+10	.	.	.	_	4	punct	_	O
+
+1	Too	too	RB	_	2	advmod	_	O
+2	many	many	JJ	_	3	nmod	_	O
+3	re-makes	re-makes	NNS	_	4	pobj	_	O
+4	#BeautyAndTheBeast	#beautyandthebeast	ADD	pos2=NNP	0	root	_	O
+5	and	and	CC	_	4	cc	_	O
+6	#MaryPoppins	#marypoppins	ADD	pos2=NNS	7	punct	_	O
+7	https://t.co/bMHPB1RVXh	#hlink#	ADD	_	4	conj	_	O
+

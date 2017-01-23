@@ -1,0 +1,14 @@
+1	And	and	CC	_	7	cc	_	O
+2	Dr.	dr.	NNP	_	4	compound	_	O
+3	Ben	ben	NNP	_	4	compound	_	B-PERSON
+4	Carson	carson	NNP	_	7	nsubjpass	_	L-PERSON
+5	has	have	VBZ	_	7	aux	_	O
+6	been	be	VBN	_	7	auxpass	_	O
+7	offered	offer	VBN	pos2=JJ	0	root	_	O
+8	leadership	leadership	NN	_	7	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	HUD	hud	NNP	_	9	pobj	_	U-ORG
+11	.	.	.	_	7	punct	_	O
+
+1	https://t.co/eufrhvsQUR	#hlink#	ADD	_	0	root	_	U-ORG
+

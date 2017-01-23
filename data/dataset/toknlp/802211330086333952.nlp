@@ -1,0 +1,26 @@
+1	@JohnRebuttal	@johnrebuttal	XX	pos2=ADD	12	dep	_	O
+2	@petestavros	@petestavros	UH	pos2=NNS	12	discourse	_	O
+3	@megynkelly	@megynkelly	XX	pos2=``	12	dep	_	O
+4	Learning	learn	VBG	pos2=NN	12	csubj	_	O
+5	from	from	IN	_	4	prep	_	O
+6	those	those	DT	_	5	pobj	_	O
+7	who	who	WP	_	8	nsubj	_	O
+8	cause	cause	VBP	_	6	relcl	_	O
+9	massive	massive	JJ	_	10	nmod	_	O
+10	attention	attention	NN	_	8	dobj	_	O
+11	can	can	MD	_	12	aux	_	O
+12	be	be	VB	_	0	root	_	O
+13	useful	useful	JJ	_	12	acomp	_	O
+14	if	if	IN	_	16	mark	_	O
+15	you	you	PRP	_	16	nsubj	_	O
+16	wan	wan	VBP	_	12	advcl	_	O
+17	na	to	TO	_	18	aux	_	O
+18	do	do	VB	_	16	xcomp	_	O
+19	it	it	PRP	_	18	dobj	_	O
+20	too	too	RB	_	18	advmod	_	O
+21	,	,	,	_	12	punct	_	O
+22	or	or	CC	_	12	cc	_	O
+23	prevent	prevent	VB	_	12	conj	_	O
+24	it	it	PRP	_	23	dobj	_	O
+25	.	.	.	_	12	punct	_	O
+

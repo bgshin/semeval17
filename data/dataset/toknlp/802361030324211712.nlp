@@ -1,0 +1,22 @@
+1	MILLIONS	#crd#	NNS	_	3	nsubj	_	U-CARDINAL
+2	Are	be	VBP	_	3	aux	_	O
+3	Sharing	share	VBG	pos2=NNP	0	root	_	O
+4	What	what	WP	pos2=WDT	8	dobj	_	O
+5	Tommy	tommy	NNP	_	7	compound	_	B-PERSON
+6	Hilfiger	hilfiger	NNP	_	7	compound	_	I-PERSON
+7	Just	just	NNP	pos2=RB	8	nsubj	_	L-PERSON
+8	Did	do	VBD	pos2=NNP	3	ccomp	_	O
+9	For	for	IN	pos2=NNP	8	prep	_	O
+10	Melania	melania	NNP	_	11	compound	_	B-PERSON
+11	Trump	trump	NNP	_	9	pobj	_	L-PERSON
+12	!	!	.	_	3	punct	_	O
+
+1	Liberals	liberal	NNS	pos2=NNPS	4	nsubj	_	O
+2	Ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	Stand	stand	VB	_	0	root	_	O
+5	It	it	PRP	_	4	dobj	_	O
+6	!	!	.	_	4	punct	_	O
+
+1	https://t.co/VGQDjuz0GZ	#hlink#	ADD	_	0	root	_	U-ORG
+

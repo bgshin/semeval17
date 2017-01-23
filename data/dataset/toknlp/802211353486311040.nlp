@@ -1,0 +1,22 @@
+1	Russian	russian	JJ	_	3	nmod	_	U-NORP
+2	propaganda	propaganda	NN	_	3	compound	_	O
+3	effort	effort	NN	_	4	nsubj	_	O
+4	helped	help	VBD	pos2=VBN	14	ccomp	_	O
+5	spread	spread	VB	_	4	xcomp	_	O
+6	‘	'	``	pos2=RBR	8	punct	_	O
+7	fake	fake	JJ	_	8	nmod	_	O
+8	news	news	NN	_	5	dobj	_	O
+9	’	'	''	_	8	punct	_	O
+10	during	during	IN	_	5	prep	_	O
+11	election	election	NN	_	10	pobj	_	O
+12	,	,	,	_	14	punct	_	O
+13	experts	expert	NNS	_	14	nsubj	_	O
+14	say	say	VBP	_	0	root	_	O
+15	https://t.co/frJZQZwzy9	#hlink#	ADD	pos2=NNP	16	nsubj	_	O
+16	Imagine	imagine	VB	pos2=VBP	14	xcomp	_	O
+17	how	how	WRB	_	20	advmod	_	O
+18	Putin	putin	NNP	_	20	nsubj	_	U-PERSON
+19	is	be	VBZ	_	20	aux	_	O
+20	laughing	laugh	VBG	_	16	ccomp	_	O
+21	.	.	.	_	14	punct	_	O
+

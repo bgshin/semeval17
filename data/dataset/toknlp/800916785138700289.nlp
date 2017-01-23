@@ -1,0 +1,10 @@
+1	Alt	alt	JJ	pos2=NNP	3	nmod	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	rightists	rightist	NNS	_	5	nsubj	_	O
+4	"	"	``	pos2=''	5	punct	_	O
+5	hailing	hail	VBG	_	0	root	_	O
+6	"	"	''	pos2=``	5	punct	_	O
+7	Trump	trump	NNP	pos2=NN	8	compound	_	U-PERSON
+8	victory	victory	NN	_	5	dobj	_	O
+9	https://t.co/1Nx0yP7n80	#hlink#	ADD	_	5	dep	_	O
+

@@ -1,0 +1,23 @@
+1	@jazzmessenger	@jazzmessenger	PRP$	pos2=IN	2	poss	_	O
+2	DNC	dnc	NN	pos2=NNP	3	nsubj	_	U-ORG
+3	lodged	lodge	VBD	pos2=VBN	0	root	_	O
+4	complaint	complaint	NN	_	3	dobj	_	O
+5	against	against	IN	_	4	prep	_	O
+6	John	john	NNP	_	7	compound	_	B-PERSON
+7	Husted	husted	NNP	_	5	pobj	_	L-PERSON
+8	in	in	IN	_	7	prep	_	O
+9	OH	oh	NNP	pos2=CD	8	pobj	_	U-GPE
+10	for	for	IN	_	4	prep	_	O
+11	voter	voter	NN	_	12	compound	_	O
+12	suppression	suppression	NN	_	10	pobj	_	O
+13	.	.	.	_	3	punct	_	O
+
+1	Thousands	#crd#	NNS	_	6	nsubj	_	U-CARDINAL
+2	of	of	IN	_	1	prep	_	O
+3	absentee	absentee	NN	_	4	compound	_	O
+4	ballots	ballot	NNS	_	2	pobj	_	O
+5	never	never	RB	_	6	neg	_	O
+6	reached	reach	VBD	pos2=VBN	0	root	_	O
+7	voters	voter	NNS	_	6	dobj	_	O
+8	.	.	.	_	6	punct	_	O
+

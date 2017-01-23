@@ -1,0 +1,24 @@
+1	The	the	DT	_	5	det	_	O
+2	'	'	``	_	5	punct	_	O
+3	Alt	alt	NNP	pos2=JJ	5	compound	_	B-ORG
+4	-	-	HYPH	_	5	punct	_	I-ORG
+5	Right	right	NNP	pos2=JJ	7	nsubj	_	I-ORG
+6	'	'	''	pos2=POS	5	punct	_	L-ORG
+7	Is	be	VBZ	_	0	root	_	O
+8	A	a	DT	_	10	det	_	O
+9	Hate	hate	NN	pos2=NNP	10	compound	_	O
+10	Movement	movement	NNP	pos2=NN	7	attr	_	O
+11	,	,	,	_	7	punct	_	O
+12	And	and	CC	_	7	cc	_	O
+13	It	it	PRP	_	14	nsubj	_	O
+14	's	's	VBZ	_	7	conj	_	O
+15	Scarier	scary	JJR	_	14	acomp	_	O
+16	Than	than	IN	pos2=NNP	18	mark	_	O
+17	You	you	PRP	pos2=NNP	18	nsubj	_	O
+18	Think	think	VBP	_	15	advcl	_	O
+19	-	-	HYPH	pos2=:	23	punct	_	O
+20	Huffington	huffington	NNP	_	23	nmod	_	O
+21	Post	post	GW	pos2=NNP	22	nmod	_	O
+22	https://t.co/9XYGdZu1jM	#hlink#	ADD	pos2=GW	23	nmod	_	O
+23	https://t.co/eb4LEsXUTz	#hlink#	ADD	_	14	dep	_	U-ORG
+

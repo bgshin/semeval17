@@ -1,0 +1,23 @@
+1	OBAMA	obama	NNP	pos2=NN	7	nsubj	_	U-PERSON
+2	,	,	,	_	1	punct	_	O
+3	HILLARY	hillary	NNP	_	1	conj	_	U-PERSON
+4	,	,	,	_	3	punct	_	O
+5	KERRYARMED	kerryarmed	NNP	pos2=CD	3	conj	_	U-ORG
+6	,	,	,	_	7	punct	_	O
+7	INCITED	incite	VBD	pos2=VBN	0	root	_	O
+8	YEMEN	yemen	NNP	_	10	compound	_	U-GPE
+9	CIVIL	civil	NNP	pos2=JJ	10	compound	_	O
+10	WARfor	warfor	NNP	pos2=JJ	12	compound	_	O
+11	OIL	oil	NN	_	12	compound	_	O
+12	$$$$$$$	$$	NN	pos2=:	7	dobj	_	O
+13	.	.	.	_	7	punct	_	O
+
+1	period	period	NN	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	🚨🚨	🚨🚨	SYM	pos2=NFP	5	punct	_	U-ORG
+2	#YemenFiles	#yemenfiles	NNS	pos2=GW	5	nmod	_	O
+3	🚨🚨#YemenCrisis	🚨🚨#yemencrisis	GW	pos2=NN	5	nmod	_	O
+4	…	…	NFP	pos2=GW	5	punct	_	O
+5	https://t.co/kfEpOqcTmR	#hlink#	ADD	pos2=NN	0	root	_	O
+

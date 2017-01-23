@@ -1,0 +1,20 @@
+1	Expectations	expectation	NNS	_	2	nsubj	_	O
+2	Are	be	VBP	_	0	root	_	O
+3	High	high	NNP	pos2=JJ	2	acomp	_	O
+4	For	for	IN	pos2=NNP	2	prep	_	O
+5	Trump	trump	NNP	pos2=NN	7	poss	_	U-ORG
+6	’s	's	POS	_	5	case	_	O
+7	Moves	move	NNS	pos2=NNPS	4	pobj	_	O
+8	On	on	IN	_	7	prep	_	O
+9	Abortion	abortion	NNP	pos2=NN	8	pobj	_	U-ORG
+10	,	,	,	_	2	punct	_	O
+11	But	but	CC	pos2=NNP	2	cc	_	O
+12	Sweeping	sweeping	JJ	pos2=NNP	13	nmod	_	O
+13	Changes	change	NNS	pos2=NNP	14	nsubj	_	O
+14	Are	be	VBP	_	2	conj	_	O
+15	Unlikely	unlikely	JJ	pos2=RB	14	acomp	_	O
+16	https://t.co/fgBqgSQnK2	#hlink#	ADD	pos2=NN	15	xcomp	_	O
+17	via	via	IN	pos2=GW	14	prep	_	O
+18	…	…	NFP	pos2=-LRB-	17	pobj	_	O
+19	https://t.co/ujMB1DB3qA	#hlink#	ADD	pos2=NN	17	pobj	_	O
+

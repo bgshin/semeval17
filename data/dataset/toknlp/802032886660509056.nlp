@@ -1,0 +1,13 @@
+1	Dude	dude	NN	pos2=UH	8	nsubj	_	O
+2	in	in	IN	_	1	prep	_	O
+3	the	the	DT	_	7	det	_	O
+4	pic	pic	JJ	pos2=NN	7	nmod	_	O
+5	low	low	JJ	pos2=NN	7	nmod	_	O
+6	-	-	HYPH	_	7	punct	_	O
+7	key	key	NN	pos2=JJ	2	pobj	_	O
+8	looks	look	VBZ	pos2=NNS	0	root	_	O
+9	like	like	IN	_	8	prep	_	O
+10	Ricky	ricky	NNP	_	11	compound	_	B-PERSON
+11	Martin	martin	NNP	_	9	pobj	_	L-PERSON
+12	.....	..	.	pos2=,	8	punct	_	O
+

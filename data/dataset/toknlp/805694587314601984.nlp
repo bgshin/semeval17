@@ -1,0 +1,23 @@
+1	And	and	CC	_	5	cc	_	O
+2	of	of	IN	pos2=RB	6	prep	_	O
+3	course	course	NN	pos2=RB	2	pobj	_	O
+4	,	,	,	_	5	punct	_	O
+5	the	the	DT	_	7	det	_	O
+6	electoral	electoral	JJ	_	7	nmod	_	O
+7	college	college	NN	_	8	xcomp	_	O
+8	.	.	.	_	0	root	_	O
+
+1	But	but	CC	_	3	cc	_	O
+2	also	also	RB	_	3	advmod	_	O
+3	gerrymandering	gerrymandering	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Those	those	DT	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	all	all	DT	pos2=RB	2	dep	_	O
+4	racist	racist	JJ	_	7	nmod	_	O
+5	and	and	CC	_	4	cc	_	O
+6	undemocratic	undemocratic	JJ	_	4	conj	_	O
+7	byproducts	byproduct	NNS	_	2	attr	_	O
+8	.	.	.	_	2	punct	_	O
+

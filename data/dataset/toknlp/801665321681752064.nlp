@@ -1,0 +1,15 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=GW	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	https://t.co/O9xNolxJcN	#hlink#	ADD	pos2=NN	1	appos	_	O
+7	NEW	new	NN	pos2=JJ	11	dep	_	O
+8	:	:	:	_	11	punct	_	O
+9	Anti	anti	AFX	pos2=NNP	11	nmod	_	O
+10	Trump	trump	NNP	pos2=NN	11	compound	_	B-ORG
+11	Riots	riot	NNPS	pos2=NNS	2	dobj	_	L-ORG
+12	in	in	IN	_	11	prep	_	O
+13	America	america	NNP	_	14	compound	_	O
+14	Compilation	compilation	NNP	pos2=NN	12	pobj	_	O
+

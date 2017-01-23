@@ -1,0 +1,21 @@
+1	🏀	🏀	NNP	pos2=NFP	2	compound	_	O
+2	Time	time	NN	pos2=NNP	0	root	_	O
+3	out	out	RP	pos2=IN	2	prt	_	O
+4	/	/	SYM	pos2=,	2	punct	_	O
+5	Temps	temps	NNP	pos2=FW	6	compound	_	O
+6	mort	mort	NN	pos2=FW	2	vocative	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	Min	min	NNP	pos2=NN	4	nmod	_	U-PERSON
+2	33	0	CD	_	1	nmod	_	U-CARDINAL
+3	:	:	:	_	4	punct	_	O
+4	@GSBasketbol	@gsbasketbol	NN	pos2=NNP	0	root	_	O
+5	,	,	,	_	4	punct	_	O
+6	66	0	CD	_	4	npadvmod	_	U-CARDINAL
+7	-	-	:	pos2=HYPH	8	punct	_	O
+8	@FCBbasket	@fcbbasket	NN	pos2=NNS	4	appos	_	O
+9	,	,	,	_	8	punct	_	O
+10	59	0	CD	_	12	nmod	_	U-CARDINAL
+11	#fcblive	#fcblive	XX	pos2=NNS	12	nmod	_	O
+12	#GSOFCB	#gsofcb	NN	pos2=NNS	8	npadvmod	_	O
+

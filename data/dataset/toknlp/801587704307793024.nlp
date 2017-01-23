@@ -1,0 +1,6 @@
+1	grayson	grayson	NN	pos2=NNP	2	compound	_	O
+2	allen	allen	NNP	pos2=NN	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	dawg	dawg	NN	pos2=NNS	3	attr	_	O
+

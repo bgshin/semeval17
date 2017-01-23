@@ -1,0 +1,30 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	took	take	VBD	_	0	root	_	O
+3	this	this	DT	_	2	dobj	_	O
+4	at	at	IN	_	2	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	capital	capital	NN	_	4	pobj	_	O
+7	in	in	IN	_	2	prep	_	O
+8	Salt	salt	NNP	_	9	compound	_	B-LOC
+9	Lake	lake	NNP	_	7	pobj	_	L-LOC
+10	.	.	.	_	2	punct	_	O
+
+1	Fitting	fit	VBG	pos2=JJ	0	root	_	O
+2	scripture	scripture	NN	_	1	dobj	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	believe	believe	VB	_	0	root	_	O
+5	they	they	PRP	_	6	nsubj	_	O
+6	cut	cut	VBD	_	4	ccomp	_	O
+7	my	my	PRP$	_	8	poss	_	O
+8	brother	brother	NN	_	10	poss	_	O
+9	's	's	POS	pos2=VBZ	8	case	_	O
+10	Medicaid	medicaid	NNP	_	14	nmod	_	U-ORG
+11	and	and	CC	_	10	cc	_	O
+12	caus	caus	GW	pos2=FW	10	conj	_	O
+13	…	…	NFP	pos2=GW	14	punct	_	O
+14	https://t.co/XtxwzF8pbX	#hlink#	ADD	pos2=NN	6	dobj	_	U-GPE
+

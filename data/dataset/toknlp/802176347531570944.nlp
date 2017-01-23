@@ -1,0 +1,12 @@
+1	Musical	musical	JJ	pos2=NNP	3	nmod	_	O
+2	Themed	themed	JJ	pos2=NNP	3	nmod	_	O
+3	Nails	nail	NNS	pos2=NNPS	11	dep	_	O
+4	-	-	:	pos2=HYPH	11	punct	_	O
+5	#onedirection	#onedirection	NN	pos2=UH	8	compound	_	O
+6	#coldplay	#coldplay	NN	pos2=CD	8	compound	_	O
+7	#	#	NN	pos2=$	8	compound	_	O
+8	21pilots	0pilots	NNS	pos2=VBZ	11	dep	_	U-MONEY
+9	@suicidesilence	@suicidesilence	IN	pos2=GW	11	nmod	_	O
+10	#nails	#nails	GW	pos2=NNS	11	nmod	_	O
+11	https://t.co/VWtBJdBSfc	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det	_	B-ORG
+2	Kelly	kelly	NNP	_	3	compound	_	I-ORG
+3	File	file	NNP	pos2=NN	7	nmod	_	L-ORG
+4	11	0	CD	_	6	nmod	_	B-DATE
+5	25	0	CD	_	6	nmod	_	I-DATE
+6	16	0	CD	_	3	appos	_	L-DATE
+7	Trump	trump	NNP	pos2=NN	10	compound	_	B-ORG
+8	Transition	transition	NNP	pos2=NN	10	compound	_	I-ORG
+9	Team	team	NNP	pos2=NN	10	compound	_	L-ORG
+10	Member	member	NNP	_	17	dep	_	O
+11	On	on	IN	pos2=NNP	10	prep	_	O
+12	Cabinet	cabinet	NNP	_	13	compound	_	U-ORG
+13	Selections	selection	NNS	pos2=NNPS	11	pobj	_	O
+14	:	:	:	_	17	punct	_	O
+15	https://t.co/9B9bThkrU6	#hlink#	ADD	pos2=NN	17	nmod	_	O
+16	qua	qua	NN	pos2=NNS	17	compound	_	O
+17	@YouTube	@youtube	NN	pos2=ADD	0	root	_	O
+

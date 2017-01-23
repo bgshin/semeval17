@@ -1,0 +1,25 @@
+1	@mediacrooks	@mediacrooks	UH	pos2=NNS	5	discourse	_	O
+2	@FlanJerry	@flanjerry	NN	pos2=ADD	5	npadvmod	_	B-PERSON
+3	@Bhavadasanunni	@bhavadasanunni	NNP	pos2=IN	4	compound	_	I-PERSON
+4	Obama	obama	NNP	_	5	nsubj	_	L-PERSON
+5	got	get	VBD	_	0	root	_	O
+6	Nobel	nobel	NNP	_	7	compound	_	B-WORK_OF_ART
+7	Prize	prize	NNP	pos2=NNPS	5	dobj	_	L-WORK_OF_ART
+8	for	for	IN	_	7	prep	_	O
+9	PEACE	peace	NNP	pos2=NN	8	pobj	_	U-ORG
+10	.	.	.	_	5	punct	_	O
+
+1	And	and	CC	_	4	cc	_	O
+2	he	he	PRP	_	4	nsubjpass	_	O
+3	's	's	VBZ	_	4	auxpass	_	O
+4	supposed	suppose	VBN	_	0	root	_	O
+5	to	to	TO	_	7	aux	_	O
+6	have	have	VB	_	7	aux	_	O
+7	authorised	authorise	VBN	_	4	xcomp	_	O
+8	more	more	JJR	pos2=RBR	10	nmod	_	O
+9	drone	drone	NN	_	10	compound	_	O
+10	strikes	strike	NNS	_	7	dobj	_	O
+11	than	than	IN	_	10	prep	_	O
+12	Bush	bush	NNP	_	11	pobj	_	U-PERSON
+13	+	+	SYM	pos2=-RRB-	4	punct	_	O
+

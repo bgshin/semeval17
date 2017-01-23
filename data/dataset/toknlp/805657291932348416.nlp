@@ -1,0 +1,24 @@
+1	@StevenMLancer	@stevenmlancer	ADD	pos2=UH	0	root	_	O
+2	@eddyrogerparker	@eddyrogerparker	UH	pos2=IN	1	discourse	_	O
+3	Amen	amen	UH	_	2	discourse	_	O
+4	!	!	.	_	1	punct	_	O
+
+1	they	they	PRP	_	3	nsubj	_	O
+2	all	all	DT	_	1	appos	_	O
+3	know	know	VBP	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	machines	machine	NNS	_	7	nsubjpass	_	O
+6	were	be	VBD	_	7	auxpass	_	O
+7	hacked	hack	VBN	_	3	ccomp	_	O
+8	,	,	,	_	10	punct	_	O
+9	totals	total	NNS	_	10	nsubj	_	O
+10	are	be	VBP	_	5	relcl	_	O
+11	WAY	way	NN	pos2=RB	12	advmod	_	O
+12	off	off	RB	pos2=RP	10	advmod	_	O
+13	,	,	,	_	10	punct	_	O
+14	and	and	CC	_	10	cc	_	O
+15	tons	ton	NNS	_	11	conj	_	O
+16	of	of	IN	_	15	prep	_	O
+17	voter	voter	NN	_	18	compound	_	O
+18	suppression	suppression	NN	_	16	pobj	_	O
+

@@ -1,0 +1,25 @@
+1	@JohnStossel	@johnstossel	UH	pos2=NNP	4	discourse	_	O
+2	You	you	PRP	_	3	nsubj	_	O
+3	wealthy	wealthy	JJ	pos2=VBP	4	meta	_	O
+4	like	like	VBP	pos2=RB	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	complain	complain	VB	_	4	xcomp	_	O
+7	about	about	IN	pos2=RB	6	prep	_	O
+8	pay	pay	NN	pos2=VB	7	pobj	_	O
+9	these	these	DT	_	11	det	_	O
+10	three	#crd#	CD	_	11	nmod	_	U-CARDINAL
+11	things	thing	NNS	_	6	dobj	_	O
+12	but	but	CC	_	4	cc	_	O
+13	even	even	RB	_	18	advmod	_	O
+14	the	the	DT	_	18	det	_	O
+15	Social	social	NNP	_	16	compound	_	B-ORG
+16	Security	security	NNP	_	18	compound	_	L-ORG
+17	office	office	NN	_	18	compound	_	O
+18	state	state	NN	_	0	root	_	O
+19	no	no	DT	_	20	det	_	O
+20	one	#crd#	NN	_	21	nsubj	_	O
+21	paid	pay	VBN	pos2=VBD	18	ccomp	_	O
+22	over	over	IN	pos2=RP	21	prep	_	O
+23	$	$	$	_	24	nmod	_	O
+24	115,000	0	CD	_	22	pobj	_	U-MONEY
+

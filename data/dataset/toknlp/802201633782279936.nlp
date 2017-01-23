@@ -1,0 +1,6 @@
+1	Ssssssnakesssss	ssssssnakesssss	NNP	pos2=UH	0	root	_	U-PERSON
+2	!	!	.	_	1	punct	_	O
+
+1	#draintheswamp	#draintheswamp	UH	pos2=NFP	2	discourse	_	O
+2	https://t.co/YT84Bo2uTS	#hlink#	ADD	pos2=NN	0	root	_	O
+

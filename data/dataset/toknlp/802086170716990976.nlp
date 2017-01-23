@@ -1,0 +1,15 @@
+1	On	on	IN	_	8	prep	_	O
+2	sale	sale	NN	_	1	pobj	_	O
+3	now	now	RB	_	8	advmod	_	O
+4	for	for	IN	_	2	prep	_	O
+5	$	$	$	_	7	qmod	_	O
+6	980	0	CD	_	7	compound	_	B-MONEY
+7	#ArtDealer	#artdealer	CD	pos2=NNP	4	pobj	_	L-MONEY
+8	#Painting	#painting	VBG	pos2=NNP	0	root	_	O
+9	#Jerusalem	#jerusalem	NNP	pos2=PRP	11	compound	_	O
+10	#Israel	#israel	NNP	pos2=POS	11	compound	_	O
+11	Capital	capital	NNP	pos2=NN	14	dep	_	O
+12	of	of	IN	_	11	prep	_	O
+13	Israel	israel	NNP	_	12	pobj	_	U-GPE
+14	https://t.co/gWRy9LeC9b	#hlink#	ADD	pos2=NNP	8	root	_	O
+

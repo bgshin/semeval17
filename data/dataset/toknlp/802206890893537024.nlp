@@ -1,0 +1,26 @@
+1	Millions	#crd#	NNS	_	2	nsubj	_	U-CARDINAL
+2	agree	agree	VBP	pos2=VB	0	root	_	O
+3	w	w	IN	_	2	prep	_	O
+4	/	/	HYPH	pos2=:	3	punct	_	O
+5	Paul	paul	NNP	_	6	compound	_	B-PERSON
+6	Nehlen	nehlen	NNP	_	3	pobj	_	L-PERSON
+7	,	,	,	_	6	punct	_	O
+8	Newt	newt	NNP	_	6	conj	_	U-PERSON
+9	,	,	,	_	8	punct	_	O
+10	Mike	mike	NNP	_	11	compound	_	B-PERSON
+11	Huckabee	huckabee	NNP	_	8	conj	_	L-PERSON
+12	,	,	,	_	11	punct	_	O
+13	Sean	sean	NNP	_	16	compound	_	B-PERSON
+14	Hannity	hannity	NNP	_	16	compound	_	I-PERSON
+15	-	-	HYPH	pos2=,	16	punct	_	I-PERSON
+16	#NeverRomney	#neverromney	NNP	pos2=XX	11	conj	_	L-PERSON
+17	!	!	.	_	2	punct	_	O
+
+1	Reject	reject	VB	pos2=VBP	0	root	_	O
+2	ROMNEY	romney	NNP	pos2=NN	1	dobj	_	U-PERSON
+3	!	!	.	_	1	punct	_	O
+
+1	@realDonaldTrump	@realdonaldtrump	GW	pos2=XX	3	nmod	_	O
+2	…	…	NFP	pos2=GW	3	punct	_	O
+3	https://t.co/1HoOFnFi5d	#hlink#	ADD	pos2=NN	0	root	_	O
+

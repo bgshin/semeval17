@@ -1,0 +1,9 @@
+1	@Sunafiction	@sunafiction	NN	pos2=NNP	4	poss	_	O
+2	@LyleShelton	@lyleshelton	POS	pos2=IN	1	case	_	O
+3	involuntary	involuntary	JJ	_	4	nmod	_	O
+4	euthanasia	euthanasia	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	a	a	DT	_	8	det	_	O
+7	better	good	JJR	_	8	nmod	_	O
+8	system	system	NN	_	5	attr	_	O
+

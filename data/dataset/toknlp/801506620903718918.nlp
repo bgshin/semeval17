@@ -1,0 +1,17 @@
+1	All	all	DT	_	2	det	_	O
+2	plots	plot	NNS	_	6	nsubj	_	O
+3	to	to	TO	_	4	aux	_	O
+4	kill	kill	VB	_	2	acl	_	O
+5	Hitler	hitler	NNP	_	4	dobj	_	U-PERSON
+6	came	come	VBD	_	0	root	_	O
+7	from	from	IN	_	6	prep	_	O
+8	Rightists	rightist	NNS	pos2=NNPS	7	pobj	_	U-NORP
+9	:	:	:	_	11	punct	_	O
+10	von	von	NNP	pos2=NN	11	compound	_	B-PERSON
+11	Stauffenberg	stauffenberg	NNP	_	8	appos	_	L-PERSON
+12	,	,	,	_	11	punct	_	O
+13	Rommel	rommel	NNP	_	11	appos	_	U-PERSON
+14	...	..	.	pos2=,	6	punct	_	O
+
+1	https://t.co/NduMHLeOeG	#hlink#	ADD	_	0	root	_	U-ORG
+

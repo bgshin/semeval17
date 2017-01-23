@@ -1,0 +1,10 @@
+1	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNS	9	compound	_	O
+2	-	-	HYPH	pos2=:	9	punct	_	O
+3	Jess	jess	NNP	_	9	compound	_	O
+4	-	-	HYPH	pos2=:	9	punct	_	O
+5	Sookie	sookie	NNP	_	9	compound	_	O
+6	-	-	HYPH	_	9	punct	_	O
+7	Michel	michel	NNP	_	9	compound	_	B-PERSON
+8	-	-	HYPH	_	9	punct	_	I-PERSON
+9	Lane	lane	NNP	_	0	root	_	L-PERSON
+

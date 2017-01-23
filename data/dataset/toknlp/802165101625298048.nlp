@@ -1,0 +1,18 @@
+1	Want	want	VB	pos2=VBP	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	drive	drive	VB	_	1	xcomp	_	O
+4	#Uber	#uber	NNP	pos2=PRP	3	dobj	_	U-ORG
+5	?	?	.	_	1	punct	_	O
+
+1	Use	use	VB	_	0	root	_	O
+2	my	my	PRP$	_	3	poss	_	O
+3	code	code	NN	_	1	dobj	_	O
+4	when	when	WRB	_	6	advmod	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	sign	sign	VBP	_	1	advcl	_	O
+7	up	up	RP	_	6	prt	_	O
+8	!	!	.	_	1	punct	_	O
+
+1	DJQVU	djqvu	-LRB-	pos2=NN	2	punct	_	O
+2	https://t.co/1u98uxcTsR	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,24 @@
+1	@SharpestJim	@sharpestjim	ADD	pos2=UH	5	cc	_	O
+2	@OCAmericans	@ocamericans	NNPS	pos2=NNS	3	compound	_	O
+3	@TPInsidr	@tpinsidr	NNP	pos2=IN	5	vocative	_	O
+4	This	this	DT	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	kind	kind	NN	_	5	attr	_	O
+8	of	of	IN	pos2=RB	7	prep	_	O
+9	on	on	IN	_	7	prep	_	O
+10	your	your	PRP$	_	12	poss	_	O
+11	face	face	NN	_	12	compound	_	O
+12	corruption	corruption	NN	_	9	pobj	_	O
+13	that	that	IN	pos2=WDT	19	mark	_	O
+14	President	president	NNP	_	16	compound	_	O
+15	-	-	HYPH	_	16	punct	_	O
+16	elect	elect	NNP	_	17	compound	_	O
+17	Trump	trump	NNP	pos2=NN	19	nsubj	_	U-ORG
+18	must	must	MD	_	19	aux	_	O
+19	clean	clean	VB	_	7	relcl	_	O
+20	up	up	RP	_	19	prt	_	O
+21	.	.	.	_	5	punct	_	O
+
+1	😡😡#DrainTheSwamp	😡😡#draintheswamp	ADD	pos2=XX	0	root	_	O
+

@@ -1,0 +1,20 @@
+1	@DonaldJTrumpJr	@donaldjtrumpjr	NNP	pos2=NN	9	discourse	_	U-ORG
+2	Will	will	MD	_	9	aux	_	O
+3	anyone	anyone	NN	pos2=VB	9	nsubj	_	O
+4	in	in	IN	_	3	prep	_	O
+5	the	the	DT	_	8	det	_	O
+6	Trump	trump	NNP	pos2=NN	8	compound	_	U-PERSON
+7	transition	transition	NN	_	8	compound	_	O
+8	team	team	NN	_	4	pobj	_	O
+9	explain	explain	VB	pos2=VBP	0	root	_	O
+10	what	what	WP	pos2=WDT	14	dobj	_	O
+11	Henry	henry	NNP	_	12	compound	_	B-PERSON
+12	Kissinger	kissinger	NNP	_	14	nsubj	_	L-PERSON
+13	was	be	VBD	_	14	aux	_	O
+14	doing	do	VBG	_	9	ccomp	_	O
+15	in	in	IN	_	14	prep	_	O
+16	the	the	DT	_	18	det	_	B-FAC
+17	Trump	trump	NNP	_	18	compound	_	I-FAC
+18	Tower	tower	NNP	_	15	pobj	_	L-FAC
+19	?	?	.	_	9	punct	_	O
+

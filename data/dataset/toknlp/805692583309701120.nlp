@@ -1,0 +1,29 @@
+1	Trump	trump	NNP	pos2=NN	9	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	unguarded	unguarded	JJ	_	7	nmod	_	O
+4	Twitter	twitter	NNP	pos2=NN	9	nsubj	_	O
+5	ranting	rant	VBG	pos2=NN	4	acl	_	O
+6	at	at	IN	_	5	prep	_	O
+7	China	china	NNP	_	6	pobj	_	U-GPE
+8	genuinely	genuinely	RB	_	9	advmod	_	O
+9	dangerous	dangerous	JJ	_	0	root	_	O
+10	.	.	.	_	9	punct	_	O
+
+1	What	what	WP	_	2	attr	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	point	point	NN	_	2	nsubj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	the	the	DT	_	8	det	_	B-ORG
+7	Electoral	electoral	NNP	pos2=JJ	8	compound	_	I-ORG
+8	College	college	NNP	pos2=NN	5	pobj	_	L-ORG
+9	if	if	IN	_	13	mark	_	O
+10	it	it	PRP	_	13	nsubj	_	O
+11	wo	wo	MD	pos2=VBD	13	aux	_	O
+12	n't	not	RB	_	13	neg	_	O
+13	bar	bar	VB	_	2	advcl	_	O
+14	someone	someone	NN	_	13	dobj	_	O
+15	like	like	IN	_	14	prep	_	O
+16	that	that	DT	_	15	pobj	_	O
+17	?	?	.	_	2	punct	_	O
+

@@ -1,0 +1,27 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	point	point	NN	_	3	nsubj	_	O
+3	was	be	VBD	_	11	ccomp	_	O
+4	like	like	IN	pos2=UH	3	prep	_	O
+5	Fidel	fidel	NNP	_	6	compound	_	B-PERSON
+6	Castro	castro	NNP	_	4	pobj	_	L-PERSON
+7	or	or	CC	_	3	cc	_	O
+8	not	not	RB	_	11	neg	_	O
+9	he	he	PRP	pos2=PRP$	11	nsubj	_	O
+10	Cuba	cuba	NNP	_	11	nsubj	_	U-GPE
+11	proved	prove	VBD	_	0	root	_	O
+12	Socialism	socialism	NNP	pos2=NN	13	nsubj	_	O
+13	works	work	VBZ	pos2=NNS	11	ccomp	_	O
+14	..	..	.	pos2=,	11	punct	_	O
+
+1	and	and	CC	_	8	cc	_	O
+2	without	without	IN	_	8	prep	_	O
+3	the	the	DT	_	5	det	_	O
+4	US	us	NNP	_	5	compound	_	U-GPE
+5	embargo	embargo	NN	pos2=VB	2	pobj	_	O
+6	it	it	PRP	_	8	nsubj	_	O
+7	would	would	MD	_	8	aux	_	O
+8	flourish	flourish	VB	_	0	root	_	O
+9	..	..	.	_	8	punct	_	O
+
+1	https://t.co/u8NyZRVkRY	#hlink#	ADD	_	0	root	_	U-ORG
+

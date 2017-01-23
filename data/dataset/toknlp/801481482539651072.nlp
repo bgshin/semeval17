@@ -1,0 +1,21 @@
+1	https://t.co/Y9nTxyiPDt	#hlink#	ADD	_	2	nsubj	_	O
+2	Let	let	VB	pos2=JJ	0	root	_	O
+3	LE	le	NN	pos2=NNP	4	compound	_	O
+4	officers	officer	NNS	_	5	nsubj	_	O
+5	protect	protect	VBP	pos2=VB	2	ccomp	_	O
+6	their	their	PRP$	_	7	poss	_	O
+7	communities	community	NNS	_	5	dobj	_	O
+8	!	!	.	_	2	punct	_	O
+
+1	Pundits	pundit	NNS	pos2=NNP	3	nsubj	_	O
+2	merely	merely	RB	_	3	advmod	_	O
+3	upset	upset	JJ	pos2=VBD	0	root	_	O
+4	at	at	IN	_	3	prep	_	O
+5	law	law	NN	_	6	compound	_	O
+6	enforcement	enforcement	NN	_	4	pobj	_	O
+7	for	for	IN	_	3	prep	_	O
+8	doing	do	VBG	_	7	pcomp	_	O
+9	its	its	PRP$	_	10	poss	_	O
+10	job	job	NN	_	8	dobj	_	O
+11	.	.	.	_	3	punct	_	O
+

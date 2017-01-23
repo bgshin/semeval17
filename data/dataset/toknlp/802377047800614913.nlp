@@ -1,0 +1,38 @@
+1	Reason	reason	NN	_	2	nsubj	_	O
+2	57	0	CD	_	5	vocative	_	U-CARDINAL
+3	why	why	WRB	_	5	advmod	_	O
+4	we	we	PRP	_	5	nsubj	_	O
+5	have	have	VBP	_	10	advcl	_	O
+6	a	a	DT	_	7	det	_	O
+7	#Trump:	#trump:	NNP	pos2=NN	5	dobj	_	O
+8	"	"	``	_	10	punct	_	O
+9	I	I	PRP	_	10	nsubj	_	O
+10	HATE	hate	VBP	_	0	root	_	O
+11	Obamacare	obamacare	NNP	_	10	dobj	_	U-PERSON
+12	!	!	.	_	10	punct	_	O
+
+1	""	""	``	pos2=SYM	3	punct	_	O
+2	What	what	WP	_	3	dep	_	O
+3	about	about	IN	_	0	root	_	O
+4	the	the	DT	_	7	det	_	B-LAW
+5	Affordable	affordable	NNP	pos2=JJ	6	compound	_	I-LAW
+6	Care	care	NNP	_	7	compound	_	I-LAW
+7	Act	act	NNP	_	3	pobj	_	L-LAW
+8	?	?	.	_	3	punct	_	O
+
+1	""	""	``	_	5	punct	_	O
+2	Oh	oh	UH	_	5	discourse	_	O
+3	,	,	,	_	5	punct	_	O
+4	that	that	DT	_	5	nsubj	_	O
+5	's	's	VBZ	_	0	root	_	O
+6	great	great	JJ	_	5	acomp	_	O
+7	!	!	.	_	5	punct	_	O
+
+1	Let	let	VB	_	0	root	_	O
+2	's	's	PRP	_	3	nsubj	_	O
+3	use	use	VB	_	1	ccomp	_	O
+4	that	that	DT	pos2=IN	5	det	_	O
+5	one	#crd#	CD	pos2=NN	3	dobj	_	U-CARDINAL
+6	.	.	.	_	1	punct	_	O
+7	"	"	''	_	1	punct	_	O
+

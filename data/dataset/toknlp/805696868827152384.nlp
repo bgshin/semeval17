@@ -1,0 +1,25 @@
+1	Victims	victim	NNS	_	2	nsubj	_	O
+2	come	come	VBP	pos2=VB	0	root	_	O
+3	forward	forward	RB	_	2	advmod	_	O
+4	and	and	CC	_	2	cc	_	O
+5	testify	testify	VB	_	2	conj	_	O
+6	against	against	IN	_	5	prep	_	O
+7	Pope	pope	NNP	_	8	compound	_	O
+8	Francis	francis	NNP	_	6	pobj	_	U-PERSON
+9	for	for	IN	_	5	prep	_	O
+10	raping	rape	VBG	_	9	pcomp	_	O
+11	them	them	PRP	_	10	dobj	_	O
+12	when	when	WRB	_	15	advmod	_	O
+13	they	they	PRP	_	15	nsubj	_	O
+14	where	where	WRB	pos2=VBP	15	advmod	_	O
+15	children	child	NNS	_	10	advcl	_	O
+16	.	.	.	_	2	punct	_	O
+
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	n't	not	RB	_	2	neg	_	O
+4	the	the	DT	_	2	attr	_	O
+5	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/IzJu0SK3uQ	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,30 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@AdrianCJax	@adriancjax	XX	pos2=UH	4	dep	_	O
+2	@tfergpdx	@tfergpdx	UH	pos2=``	4	discourse	_	O
+3	It	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	not	not	RB	_	4	neg	_	O
+6	over	over	RB	pos2=IN	4	advmod	_	O
+7	till	till	IN	_	4	prep	_	O
+8	its	its	PRP$	pos2=PRP	9	poss	_	O
+9	over	over	RP	pos2=NN	4	advmod	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	Time	time	NN	pos2=NNP	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	America	america	NNP	_	2	pobj	_	U-GPE
+4	and	and	CC	_	3	cc	_	O
+5	the	the	DT	_	7	det	_	O
+6	electoral	electoral	JJ	_	7	nmod	_	O
+7	college	college	NN	_	3	conj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	fix	fix	VB	_	1	advcl	_	O
+10	this	this	DT	_	11	det	_	O
+11	screw	screw	NN	_	9	dobj	_	O
+12	up	up	RP	pos2=NN	9	prt	_	O
+13	of	of	IN	_	9	prep	_	O
+14	historic	historic	JJ	_	15	nmod	_	O
+15	proportions	proportion	NNS	_	13	pobj	_	O
+16	!	!	.	_	1	punct	_	O
+

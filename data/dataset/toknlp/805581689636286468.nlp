@@ -1,0 +1,27 @@
+1	@JenLongshaw	@jenlongshaw	UH	pos2=NN	4	discourse	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	hope	hope	VBP	pos2=VB	0	root	_	O
+5	that	that	IN	_	12	mark	_	O
+6	Filthy	filthy	NNP	pos2=JJ	9	compound	_	O
+7	Catholic	catholic	NNP	pos2=JJ	9	compound	_	O
+8	Bill	bill	NNP	_	9	compound	_	B-PERSON
+9	English	english	NNP	_	12	nsubj	_	L-PERSON
+10	does	do	VBZ	_	12	aux	_	O
+11	n't	not	RB	_	12	neg	_	O
+12	replace	replace	VB	_	4	ccomp	_	O
+13	him	him	PRP	_	12	dobj	_	O
+14	.	.	.	_	4	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	discussion	discussion	NN	_	11	nmod	_	O
+5	re	re	IN	_	4	prep	_	O
+6	euthanasia	euthanasia	NN	_	5	pobj	_	O
+7	,	,	,	_	11	punct	_	O
+8	not	not	RB	pos2=CC	11	neg	_	O
+9	a	a	DT	_	11	det	_	O
+10	fenian	fenian	JJ	pos2=NN	11	nmod	_	O
+11	PM	pm	NN	pos2=NNP	2	dobj	_	O
+

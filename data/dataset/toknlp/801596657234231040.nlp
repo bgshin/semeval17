@@ -1,0 +1,22 @@
+1	Have	have	VBP	_	4	aux	_	O
+2	YOU	you	PRP	_	4	nsubj	_	O
+3	ever	ever	RB	_	4	advmod	_	O
+4	hugged	hug	VBD	pos2=VBN	0	root	_	O
+5	the	the	DT	_	7	det	_	B-FAC
+6	Eiffel	eiffel	NNP	_	7	compound	_	I-FAC
+7	Tower	tower	NNP	_	4	dobj	_	L-FAC
+8	?	?	.	_	4	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	HAVE	have	VBP	_	0	root	_	O
+3	!!!	!!	.	_	2	punct	_	O
+
+1	-	-	SYM	_	6	punct	_	O
+2	Google	google	NNP	_	3	compound	_	O
+3	Earth	earth	NNP	pos2=NN	4	compound	_	U-LOC
+4	VR	vr	NN	pos2=NNP	6	dep	_	O
+5	:	:	:	_	6	punct	_	O
+6	https://t.co/GVcmJUwQ89	#hlink#	ADD	_	0	root	_	O
+7	via	via	IN	_	6	prep	_	O
+8	@YouTube	@youtube	NNP	pos2=NN	7	pobj	_	O
+

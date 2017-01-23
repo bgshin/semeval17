@@ -1,0 +1,18 @@
+1	@FoxNews	@foxnews	NNS	pos2=VBZ	2	nsubj	_	O
+2	Ridiculous	ridiculous	JJ	_	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	ROOF	roof	NN	_	2	nsubj	_	O
+2	deserve	deserve	VBP	pos2=VB	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	Death	death	NN	_	5	compound	_	O
+5	penalty	penalty	NN	_	2	dobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	Nothing	nothing	NN	_	0	root	_	O
+2	more	more	JJR	pos2=RBR	1	nmod	_	O
+3	,	,	,	_	1	punct	_	O
+4	Nothing	nothing	NN	pos2=NNP	1	appos	_	O
+5	less	less	JJR	pos2=RBR	4	nmod	_	O
+6	.	.	.	_	1	punct	_	O
+

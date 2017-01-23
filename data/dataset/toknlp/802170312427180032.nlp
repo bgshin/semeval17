@@ -1,0 +1,26 @@
+1	Of	of	IN	pos2=RB	12	prep	_	O
+2	all	all	DT	_	3	det	_	O
+3	things	thing	NNS	_	1	pobj	_	O
+4	ESPN	espn	NNP	_	8	poss	_	U-ORG
+5	's	's	POS	_	4	case	_	O
+6	resident	resident	NN	pos2=JJ	7	nmod	_	O
+7	style	style	NN	_	8	compound	_	O
+8	guru	guru	NN	pos2=XX	9	nsubj	_	O
+9	picks	pick	VBZ	pos2=NNS	3	relcl	_	O
+10	,	,	,	_	12	punct	_	O
+11	it	it	PRP	_	12	nsubj	_	O
+12	's	's	VBZ	_	0	root	_	O
+13	my	my	PRP$	_	14	poss	_	O
+14	vest	vest	NN	_	12	attr	_	O
+15	?	?	.	_	12	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	'm	be	VBP	_	3	aux	_	O
+3	wearing	wear	VBG	_	0	root	_	O
+4	TONY	tony	NNP	pos2=JJ	5	compound	_	B-PERSON
+5	ROMO	romo	NNP	pos2=JJ	6	compound	_	L-PERSON
+6	SOCKS	sock	NNS	pos2=NNP	3	dobj	_	O
+7	!	!	.	_	3	punct	_	O
+
+1	https://t.co/f40bkbnCY9	#hlink#	ADD	_	0	root	_	U-ORG
+

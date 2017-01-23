@@ -1,0 +1,26 @@
+1	Even	even	RB	_	2	advmod	_	O
+2	after	after	IN	_	6	prep	_	O
+3	the	the	DT	_	5	det	_	O
+4	4th	#ord#	JJ	pos2=NN	5	nmod	_	U-ORDINAL
+5	time	time	NN	_	2	pobj	_	O
+6	watching	watch	VBG	_	11	advcl	_	O
+7	#FantasticBeasts	#fantasticbeasts	NNS	pos2=XX	6	dobj	_	O
+8	,	,	,	_	11	punct	_	O
+9	I	I	PRP	_	11	nsubj	_	O
+10	still	still	RB	_	11	advmod	_	O
+11	teared	tear	VBD	_	0	root	_	O
+12	up	up	RP	_	11	prt	_	O
+13	at	at	IN	_	11	prep	_	O
+14	the	the	DT	_	18	det	_	O
+15	John	john	NNP	_	16	compound	_	B-PERSON
+16	Williams	williams	NNP	_	18	compound	_	L-PERSON
+17	opening	opening	NN	pos2=VBG	18	compound	_	O
+18	scores	score	NNS	_	13	pobj	_	O
+19	.	.	.	_	11	punct	_	O
+
+1	Such	such	PDT	_	4	predet	_	O
+2	a	a	DT	_	4	det	_	O
+3	cry	cry	NN	pos2=JJ	4	compound	_	O
+4	baby	baby	NN	_	0	root	_	O
+5	😭	😭	.	pos2=''	4	punct	_	O
+

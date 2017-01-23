@@ -1,0 +1,8 @@
+1	#anal	#anal	JJ	pos2=UH	3	nmod	_	O
+2	fissure	fissure	NN	pos2=VB	3	compound	_	O
+3	homeopathy	homeopathy	NN	_	0	root	_	O
+4	lest	lest	IN	pos2=CC	5	mark	_	O
+5	talk	talk	NN	pos2=VB	0	root	_	O
+6	about	about	IN	_	5	prep	_	O
+7	sex	sex	NN	_	6	pobj	_	O
+

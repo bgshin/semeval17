@@ -1,0 +1,31 @@
+1	Tim	tim	NNP	_	2	compound	_	B-PERSON
+2	Duncan	duncan	NNP	_	4	nsubjpass	_	L-PERSON
+3	got	get	VBD	_	4	auxpass	_	O
+4	ejected	eject	VBN	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	laughing	laugh	VBG	pos2=JJ	5	pcomp	_	O
+7	once	once	RB	_	6	advmod	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	Steph	steph	NNP	pos2=NN	3	nsubjpass	_	U-PERSON
+2	got	get	VBD	_	3	auxpass	_	O
+3	ejected	eject	VBN	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	throwing	throw	VBG	_	4	pcomp	_	O
+6	a	a	DT	_	8	det	_	O
+7	mouth	mouth	NN	_	8	compound	_	O
+8	piece	piece	NN	_	5	dobj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	Boogie	boogie	NN	pos2=NNP	3	nsubjpass	_	O
+2	gets	get	VBZ	_	3	auxpass	_	O
+3	ejected	eject	VBN	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	breathing	breathing	NN	pos2=VBG	4	pobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	None	none	NN	_	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	Beal	beal	NNP	_	2	pobj	_	U-PERSON
+4	?	?	.	_	1	punct	_	O
+

@@ -1,0 +1,27 @@
+1	@juderymer	@juderymer	UH	pos2=PRP	5	discourse	_	O
+2	@RaverDan84	@raverdan0	NN	pos2=UH	3	compound	_	O
+3	@Angelabasso5	@angelabasso0	NN	pos2=NNS	8	dobj	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	am	be	VBP	_	0	root	_	O
+6	sure	sure	JJ	pos2=RB	5	acomp	_	O
+7	she	she	PRP	_	8	nsubj	_	O
+8	does	do	VBZ	_	6	ccomp	_	O
+9	when	when	WRB	_	16	advmod	_	O
+10	every	every	DT	_	11	det	_	O
+11	Tom	tom	NNP	_	16	nsubj	_	U-PERSON
+12	,	,	,	_	11	punct	_	O
+13	Dick	dick	NNP	_	11	conj	_	U-PERSON
+14	and	and	CC	_	13	cc	_	O
+15	illegal	illegal	JJ	_	13	conj	_	O
+16	get	get	VB	pos2=VBP	20	advcl	_	O
+17	a	a	DT	_	19	det	_	O
+18	voter	voter	NN	_	19	compound	_	O
+19	registration	registration	NN	_	16	dobj	_	O
+20	w	w	IN	_	0	root	_	O
+21	/	/	HYPH	pos2=,	20	punct	_	O
+22	their	their	PRP$	_	23	poss	_	O
+23	DL	dl	NN	pos2=NNP	20	pobj	_	O
+24	in	in	IN	_	23	prep	_	O
+25	CA	ca	NN	pos2=NNP	24	pobj	_	O
+26	!.	!.	.	_	5	punct	_	O
+

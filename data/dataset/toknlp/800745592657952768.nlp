@@ -1,0 +1,28 @@
+1	“	"	``	_	4	punct	_	O
+2	This	this	DT	_	4	nsubj	_	O
+3	may	may	MD	_	4	aux	_	O
+4	come	come	VB	_	0	root	_	O
+5	as	as	IN	_	4	prep	_	O
+6	a	a	DT	_	7	det	_	O
+7	surprise	surprise	NN	_	5	pobj	_	O
+8	to	to	IN	_	7	prep	_	O
+9	you	you	PRP	_	8	pobj	_	O
+10	,	,	,	_	4	punct	_	O
+11	but	but	CC	_	4	cc	_	O
+12	they	they	PRP	_	13	nsubj	_	O
+13	were	be	VBD	_	4	conj	_	O
+14	not	not	RB	_	13	neg	_	O
+15	big	big	JJ	_	16	nmod	_	O
+16	fans	fan	NNS	_	13	attr	_	O
+17	,	,	,	_	13	punct	_	O
+18	”	"	''	pos2=``	13	punct	_	B-ORG
+19	Linux	linux	NNP	_	20	compound	_	I-ORG
+20	Foundation	foundation	NNP	_	22	nmod	_	L-ORG
+21	executive	executive	JJ	pos2=NN	22	nmod	_	O
+22	director	director	NN	_	24	compound	_	O
+23	Jim	jim	NNP	_	24	compound	_	B-PERSON
+24	Zemlin	zemlin	NNP	_	25	acl	_	L-PERSON
+25	.	.	.	_	13	punct	_	O
+
+1	https://t.co/MmeASp1dk6	#hlink#	ADD	_	0	root	_	U-ORG
+

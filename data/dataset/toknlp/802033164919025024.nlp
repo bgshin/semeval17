@@ -1,0 +1,10 @@
+1	ha	ha	UH	pos2=NN	0	root	_	O
+2	david	david	FW	pos2=NNP	3	compound	_	O
+3	blaine	blaine	NNP	pos2=NN	1	vocative	_	O
+4	?	?	.	_	1	punct	_	O
+
+1	more	more	RBR	pos2=JJR	2	advmod	_	O
+2	like	like	IN	_	0	root	_	O
+3	david	david	NNP	pos2=FW	4	compound	_	O
+4	plain	plain	JJ	pos2=NN	2	pobj	_	O
+

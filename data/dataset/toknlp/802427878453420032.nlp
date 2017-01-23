@@ -1,0 +1,24 @@
+1	Conservatives	conservative	NNS	pos2=NNPS	5	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	liberals	liberal	NNS	_	1	conj	_	O
+4	alike	alike	RB	pos2=JJ	5	advmod	_	O
+5	hate	hate	VBP	pos2=NN	0	root	_	O
+6	science	science	NN	_	5	dobj	_	O
+7	.	.	.	_	5	punct	_	O
+
+1	Y'all	y'all	PRP	_	3	nsubj	_	O
+2	really	really	RB	_	3	advmod	_	O
+3	do	do	VBP	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Y'all	y'all	PRP	_	2	nsubj	_	O
+2	believe	believe	VBP	_	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	homeopathy	homeopathy	NN	_	3	pobj	_	O
+5	and	and	CC	_	4	cc	_	O
+6	chiropractic	chiropractic	JJ	pos2=NN	4	conj	_	O
+7	but	but	CC	_	6	cc	_	O
+8	not	not	RB	_	9	neg	_	O
+9	in	in	IN	_	6	conj	_	O
+10	vaccines	vaccine	NNS	_	9	pobj	_	O
+

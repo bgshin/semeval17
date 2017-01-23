@@ -1,0 +1,23 @@
+1	https://t.co/6WTmXQQtD5	#hlink#	ADD	pos2=``	8	nsubj	_	O
+2	OMG	omg	NNP	pos2=NN	5	nsubj	_	U-ORG
+3	this	this	DT	_	6	det	_	O
+4	"	"	``	_	6	punct	_	O
+5	fake	fake	JJ	_	6	nmod	_	O
+6	news	news	NN	_	8	nsubj	_	O
+7	"	"	''	_	6	punct	_	O
+8	is	be	VBZ	_	0	root	_	O
+9	BEYOND	beyond	IN	pos2=VBN	8	prep	_	O
+10	out	out	IN	pos2=DT	9	prep	_	O
+11	of	of	IN	_	10	prep	_	O
+12	control	control	NN	_	11	pobj	_	O
+13	,	,	,	_	8	punct	_	O
+14	an	an	DT	_	17	det	_	O
+15	@realDonaldTrump	@realdonaldtrump	IN	pos2=NN	18	prep	_	O
+16	his	his	PRP$	_	17	poss	_	O
+17	supporters	supporter	NNS	_	15	pobj	_	O
+18	used	use	VBD	_	8	advcl	_	O
+19	it	it	PRP	_	18	dobj	_	O
+20	to	to	TO	_	21	aux	_	O
+21	become	become	VB	_	18	xcomp	_	O
+22	PEOTUS	peotus	NNP	pos2=NN	21	attr	_	U-ORG
+

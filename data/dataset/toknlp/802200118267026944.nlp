@@ -1,0 +1,15 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	did	do	VBD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	think	think	VB	_	0	root	_	O
+5	#ThisisUS	#thisisus	NNP	pos2=ADD	7	nsubj	_	U-ORG
+6	would	would	MD	_	7	aux	_	O
+7	be	be	VB	_	4	ccomp	_	O
+8	this	this	DT	_	9	det	_	O
+9	awesome	awesome	JJ	pos2=NN	7	acomp	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	Officially	officially	RB	_	2	advmod	_	O
+2	addicted	addict	VBN	pos2=VBD	0	root	_	O
+3	💓	💓	.	pos2=RP	2	punct	_	O
+

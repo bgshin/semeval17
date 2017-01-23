@@ -1,0 +1,21 @@
+1	@SunnyJL52	@sunnyjl0	NN	pos2=NNS	2	compound	_	O
+2	@CynthiaCHeath	@cynthiacheath	NN	pos2=MD	6	vocative	_	O
+3	Do	do	VBP	_	6	aux	_	O
+4	you	you	PRP	_	6	nsubj	_	O
+5	even	even	RB	_	6	advmod	_	O
+6	know	know	VB	pos2=VBP	0	root	_	O
+7	who	who	WP	_	13	attr	_	O
+8	Nancy	nancy	NNP	_	9	compound	_	B-PERSON
+9	Pelosi	pelosi	NNP	_	13	nsubj	_	L-PERSON
+10	and	and	CC	_	9	cc	_	O
+11	Harry	harry	NNP	_	12	compound	_	B-PERSON
+12	Reid	reid	NNP	_	9	conj	_	L-PERSON
+13	are	be	VBP	_	6	ccomp	_	O
+14	and	and	CC	_	13	cc	_	O
+15	what	what	WDT	pos2=WP	16	det	_	O
+16	years	year	NNS	_	18	npadvmod	_	U-DATE
+17	they	they	PRP	_	18	nsubj	_	O
+18	had	have	VBD	_	13	conj	_	O
+19	control	control	NN	pos2=VBN	18	dobj	_	O
+20	?	?	.	_	6	punct	_	O
+

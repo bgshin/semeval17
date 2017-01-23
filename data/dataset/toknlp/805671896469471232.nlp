@@ -1,0 +1,20 @@
+1	Voter	voter	NN	pos2=NNP	2	compound	_	O
+2	Suppression	suppression	NN	pos2=NNP	10	nmod	_	O
+3	/	/	SYM	pos2=,	10	punct	_	O
+4	FraudFake	fraudfake	NNP	_	10	compound	_	O
+5	NewsRussian	newsrussian	NNP	pos2=WRB	10	compound	_	O
+6	HackersFBI	hackersfbi	NNP	_	10	compound	_	O
+7	Witch	witch	NNP	_	10	compound	_	B-PRODUCT
+8	HuntWiki	huntwiki	NNP	pos2=POS	10	compound	_	I-PRODUCT
+9	DNC	dnc	NNP	pos2=NN	10	compound	_	I-PRODUCT
+10	Attack	attack	NNP	pos2=NN	0	root	_	L-PRODUCT
+11	..	..	.	pos2=,	10	punct	_	O
+
+1	And	and	CC	_	4	cc	_	O
+2	Hillary	hillary	NNP	_	4	nsubj	_	U-PERSON
+3	still	still	RB	_	4	advmod	_	O
+4	won	win	VBD	_	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	popular	popular	JJ	_	7	nmod	_	O
+7	vote#Resistance	vote#resistance	NN	pos2=NNP	4	dobj	_	O
+

@@ -1,0 +1,23 @@
+1	NoWe	nowe	NNP	pos2=NN	4	nsubj	_	U-LOC
+2	Have	have	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	Forgot	forget	VBN	pos2=NNP	0	root	_	O
+5	How	how	WRB	_	7	advmod	_	O
+6	Conservatives	conservative	NNPS	pos2=NNS	7	nsubj	_	U-NORP
+7	Criticized	criticize	VBD	pos2=NNP	4	ccomp	_	O
+8	Michelle	michelle	NNP	_	9	compound	_	B-PERSON
+9	Obama	obama	NNP	_	12	poss	_	I-PERSON
+10	's	's	POS	_	9	case	_	L-PERSON
+11	Bare	bare	NNP	_	12	compound	_	B-ORG
+12	Arms	arm	NNPS	pos2=NNS	7	dobj	_	L-ORG
+13	,	,	,	_	22	punct	_	O
+14	Stay	stay	VB	_	7	xcomp	_	O
+15	Silent	silent	JJ	pos2=NNP	14	acomp	_	O
+16	On	on	IN	pos2=NNP	14	prep	_	O
+17	Melania	melania	NNP	_	18	compound	_	B-PERSON
+18	Trump	trump	NNP	_	21	poss	_	I-PERSON
+19	’s	's	POS	_	18	case	_	L-PERSON
+20	Nude	nude	NNP	pos2=JJ	21	compound	_	B-PERSON
+21	Pix	pix	NNP	pos2=NN	16	pobj	_	L-PERSON
+22	https://t.co/xZPHJxbUZi	#hlink#	ADD	_	21	appos	_	O
+

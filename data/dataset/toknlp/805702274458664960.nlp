@@ -1,0 +1,23 @@
+1	ok	ok	UH	_	3	discourse	_	O
+2	i	I	PRP	_	3	nsubj	_	O
+3	'm	be	VBP	_	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	the	the	DT	_	8	det	_	B-TIME
+6	last	last	JJ	_	8	nmod	_	I-TIME
+7	10	0	CD	_	8	nmod	_	I-TIME
+8	mins	min	NNS	_	4	pobj	_	L-TIME
+9	or	or	CC	_	4	cc	_	O
+10	so	so	RB	pos2=IN	15	advmod	_	O
+11	of	of	IN	_	8	prep	_	O
+12	Westworld	westworld	NNP	_	11	pobj	_	U-PERSON
+13	and	and	CC	_	3	cc	_	O
+14	I	I	PRP	_	15	nsubj	_	O
+15	HAVE	have	VBP	_	3	conj	_	O
+16	NO	no	DT	_	17	det	_	O
+17	IDEA	idea	NN	_	15	dobj	_	O
+18	WHAT	what	WP	pos2=WDT	20	nsubj	_	O
+19	'S	's	VBZ	_	20	aux	_	O
+20	GOING	go	VBG	_	17	relcl	_	O
+21	TO	to	TO	_	22	aux	_	O
+22	HAPPEN	happen	VB	_	20	xcomp	_	O
+

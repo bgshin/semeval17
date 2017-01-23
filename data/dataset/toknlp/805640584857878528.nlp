@@ -1,0 +1,15 @@
+1	Euthanasia	euthanasia	NN	pos2=NNP	2	nsubj	_	O
+2	spirals	spiral	VBZ	pos2=NNS	0	root	_	O
+3	out	out	IN	_	2	prep	_	O
+4	of	of	IN	_	3	prep	_	O
+5	control	control	NN	_	4	pobj	_	O
+6	as	as	IN	_	8	mark	_	O
+7	Netherlands	netherlands	NNP	_	8	nsubj	_	U-GPE
+8	allows	allow	VBZ	_	2	advcl	_	O
+9	euthanasia	euthanasia	NN	_	8	dobj	_	O
+10	for	for	IN	_	9	prep	_	O
+11	alcoholics	alcoholic	NNS	_	10	pobj	_	O
+12	https://t.co/dPSVc5eYWc	#hlink#	ADD	pos2=VBP	14	dep	_	O
+13	via	via	IN	_	8	prep	_	O
+14	@LiveActionNews	@liveactionnews	NNP	pos2=ADD	13	pobj	_	U-ORG
+

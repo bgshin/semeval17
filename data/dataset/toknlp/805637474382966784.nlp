@@ -1,0 +1,21 @@
+1	Excellent	excellent	JJ	_	5	nmod	_	O
+2	2nd	#ord#	JJ	pos2=NN	5	nmod	_	U-ORDINAL
+3	Sunday	sunday	NNP	_	4	compound	_	B-ORG
+4	#Advent	#advent	NNP	pos2=NN	5	compound	_	L-ORG
+5	homily	homily	NN	_	0	root	_	O
+6	re	re	IN	_	5	prep	_	O
+7	darkness	darkness	NN	_	6	pobj	_	O
+8	covering	cover	VBG	_	5	acl	_	O
+9	our	our	PRP$	_	10	poss	_	O
+10	land	land	NN	_	8	dobj	_	O
+11	w	w	IN	pos2=NNS	10	prep	_	O
+12	/	/	HYPH	_	11	punct	_	O
+13	#abortion	#abortion	NN	pos2=ADD	11	pobj	_	O
+14	#euthanasia	#euthanasia	NN	pos2=NNP	10	conj	_	O
+15	&	&	CC	_	14	cc	_	O
+16	distinguishing	distinguishing	JJ	pos2=NN	17	nmod	_	O
+17	remorse	remorse	NN	_	14	conj	_	O
+18	from	from	IN	_	17	prep	_	O
+19	repentance	repentance	NN	_	18	pobj	_	O
+20	.	.	.	_	5	punct	_	O
+

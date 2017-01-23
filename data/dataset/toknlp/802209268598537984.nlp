@@ -1,0 +1,20 @@
+1	@GenFlynn	@genflynn	NNP	pos2=DT	2	compound	_	O
+2	BUILDING	building	NN	pos2=VBG	0	root	_	O
+3	A	a	DT	pos2=CC	5	det	_	O
+4	GREAT	great	JJ	_	5	nmod	_	O
+5	TEAM	team	NN	_	2	dobj	_	O
+6	,	,	,	_	2	punct	_	O
+7	BEGINNING	begin	VBG	_	2	acl	_	O
+8	WITH	with	IN	_	7	prep	_	O
+9	YOU	you	PRP	pos2=NNP	8	pobj	_	O
+10	,	,	,	_	5	punct	_	O
+11	GEN	gen	NNP	pos2=XX	12	compound	_	B-PERSON
+12	FLYNN	flynn	NNP	_	7	vocative	_	L-PERSON
+13	!!!!!	!!	.	_	2	punct	_	O
+
+1	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	5	punct	_	O
+2	@DanScavino	@danscavino	ADD	pos2=XX	5	punct	_	O
+3	@KellyannePolls	@kellyannepolls	NNS	pos2=ADD	5	dobj	_	O
+4	@mike_pence	@mike_pence	ADD	pos2=VBP	0	root	_	O
+5	@StephenBannon	@stephenbannon	ADD	pos2=NN	4	pobj	_	O
+

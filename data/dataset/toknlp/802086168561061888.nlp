@@ -1,0 +1,25 @@
+1	@TheBankova	@thebankova	ADD	pos2=NNP	5	punct	_	O
+2	@PaulNiland	@paulniland	NNP	pos2=IN	4	compound	_	B-ORG
+3	Petro	petro	NNP	_	4	compound	_	I-ORG
+4	Poroshenko	poroshenko	NNP	_	5	nsubj	_	I-ORG
+5	's	's	VBZ	pos2=POS	0	root	_	L-ORG
+6	an	an	DT	_	7	det	_	O
+7	optimist	optimist	NN	_	5	attr	_	O
+8	but	but	CC	pos2=IN	5	cc	_	O
+9	Putin	putin	NNP	_	11	nsubjpass	_	U-PERSON
+10	's	's	POS	pos2=VBZ	11	auxpass	_	O
+11	bedded	bed	VBN	pos2=VBD	5	conj	_	O
+12	down	down	RP	pos2=IN	11	prt	_	O
+13	his	his	PRP$	_	14	poss	_	O
+14	proxies	proxy	NNS	_	11	dobj	_	O
+15	with	with	IN	_	11	prep	_	O
+16	WMD	wmd	NNP	pos2=NN	15	pobj	_	O
+17	everything	everything	NN	_	15	pobj	_	O
+18	ready	ready	JJ	_	17	nmod	_	O
+19	for	for	IN	_	18	prep	_	O
+20	a	a	DT	_	21	det	_	O
+21	war	war	NN	_	19	pobj	_	O
+22	he	he	PRP	_	24	nsubj	_	O
+23	's	's	VBZ	_	24	aux	_	O
+24	staying	stay	VBG	_	21	relcl	_	O
+

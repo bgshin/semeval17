@@ -1,0 +1,29 @@
+1	Thanks	thanks	NN	pos2=NNS	0	root	_	O
+2	Emily	emily	NNP	_	1	vocative	_	U-PERSON
+3	.	.	.	_	1	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	had	have	VBD	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	live	live	VB	_	2	xcomp	_	O
+5	with	with	IN	_	4	prep	_	O
+6	this	this	DT	_	7	det	_	O
+7	flowchart	flowchart	NN	_	5	pobj	_	O
+8	for	for	IN	_	4	prep	_	O
+9	the	the	DT	_	12	det	_	B-DATE
+10	last	last	JJ	_	12	nmod	_	I-DATE
+11	8	0	CD	_	12	nmod	_	I-DATE
+12	years	year	NNS	_	8	pobj	_	L-DATE
+13	with	with	IN	_	4	prep	_	O
+14	Obama	obama	NNP	_	13	pobj	_	U-PERSON
+15	as	as	IN	_	4	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	president	president	NN	pos2=NNP	15	pobj	_	O
+18	.	.	.	_	2	punct	_	O
+
+1	Now	now	RB	pos2=UH	3	discourse	_	O
+2	all	all	DT	pos2=GW	5	nmod	_	O
+3	u	u	GW	pos2=PRP	5	nmod	_	O
+4	…	…	GW	pos2=NFP	5	nmod	_	O
+5	https://t.co/LaA8yKJIms	#hlink#	ADD	pos2=NN	0	root	_	O
+

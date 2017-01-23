@@ -1,0 +1,27 @@
+1	City	city	NN	pos2=NNP	2	compound	_	O
+2	bankers	banker	NNS	_	4	poss	_	O
+3	’	'	POS	_	2	case	_	O
+4	skills	skill	NNS	_	6	nsubj	_	O
+5	will	will	MD	_	6	aux	_	O
+6	serve	serve	VB	_	0	root	_	O
+7	them	them	PRP	_	6	dobj	_	O
+8	well	well	RB	_	6	advmod	_	O
+9	after	after	IN	_	6	prep	_	O
+10	Brexit	brexit	NNP	pos2=GW	9	pobj	_	U-DATE
+11	https://t.co/CdOXWmbAuD	#hlink#	ADD	_	9	pobj	_	O
+12	via	via	IN	_	6	prep	_	O
+13	@FT	@ft	NNP	pos2=ADD	12	pobj	_	U-ORG
+14	what	what	WP	_	17	pobj	_	O
+15	is	be	VBZ	_	13	ccomp	_	O
+16	it	it	PRP	_	15	nsubj	_	O
+17	about	about	IN	pos2=RP	15	prep	_	O
+18	bankers	banker	NNS	_	17	pobj	_	O
+19	?	?	.	_	6	punct	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	special	special	JJ	_	3	nmod	_	O
+3	ones	#crd#	NNS	_	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+
+1	Rubbish	rubbish	NN	pos2=VB	0	root	_	O
+

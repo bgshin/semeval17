@@ -1,0 +1,13 @@
+1	Another	another	DT	_	3	det	_	O
+2	oil	oil	NN	_	3	compound	_	O
+3	producer	producer	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	under	under	IN	_	4	prep	_	O
+6	pressure	pressure	NN	_	5	pobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	devalue	devalue	VB	_	6	acl	_	O
+9	its	its	PRP$	_	10	poss	_	O
+10	currency	currency	NN	_	8	dobj	_	O
+11	https://t.co/3QBFDxWdpI	#hlink#	ADD	pos2=NN	12	compound	_	O
+12	#Libya	#libya	NNP	pos2=-RRB-	10	appos	_	U-ORG
+

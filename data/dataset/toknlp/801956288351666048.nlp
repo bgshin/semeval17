@@ -1,0 +1,15 @@
+1	Gen.	gen.	NNP	_	2	compound	_	O
+2	Flynn	flynn	NNP	_	3	nsubj	_	U-PERSON
+3	alleged	allege	VBD	pos2=VBN	0	root	_	O
+4	to	to	TO	_	6	aux	_	O
+5	have	have	VB	_	6	aux	_	O
+6	committed	commit	VBN	pos2=JJ	3	xcomp	_	O
+7	major	major	JJ	_	8	nmod	_	O
+8	breach	breach	NN	_	6	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	Pentagon	pentagon	NNP	_	11	compound	_	U-ORG
+11	security	security	NN	_	9	pobj	_	O
+12	-	-	:	pos2=HYPH	13	punct	_	O
+13	https://t.co/ILqtPuga0x	#hlink#	ADD	_	8	appos	_	O
+14	@elizabethforma	@elizabethforma	-RRB-	pos2=NN	3	punct	_	O
+

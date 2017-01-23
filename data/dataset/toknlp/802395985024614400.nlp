@@ -1,0 +1,23 @@
+1	Now	now	RB	pos2=UH	19	advmod	_	O
+2	if	if	IN	_	10	mark	_	O
+3	Kim	kim	NNP	_	5	compound	_	B-PERSON
+4	Jong	jong	NNP	_	5	compound	_	I-PERSON
+5	Un	un	NNP	_	10	nsubj	_	L-PERSON
+6	and	and	CC	_	5	cc	_	O
+7	Nicolas	nicolas	NNP	_	8	compound	_	B-PERSON
+8	Maduro	maduro	NNP	_	5	conj	_	L-PERSON
+9	could	could	MD	_	10	aux	_	O
+10	slip	slip	VB	_	19	advcl	_	O
+11	on	on	IN	_	10	prep	_	O
+12	a	a	DT	_	14	det	_	O
+13	banana	banana	NN	_	14	compound	_	O
+14	peel	peel	NN	_	11	pobj	_	O
+15	and	and	CC	_	10	cc	_	O
+16	die	die	VB	pos2=NN	10	conj	_	O
+17	that	that	DT	pos2=WDT	19	nsubj	_	O
+18	would	would	MD	_	19	aux	_	O
+19	be	be	VB	_	0	root	_	O
+20	nice	nice	JJ	_	19	acomp	_	O
+21	>	>	SYM	pos2=XX	19	punct	_	U-PRODUCT
+22	:^)	:^)	NFP	pos2=.	19	discourse	_	O
+

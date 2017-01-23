@@ -1,0 +1,17 @@
+1	#Yemen	#yemen	NNP	pos2=NNS	7	poss	_	U-GPE
+2	's	's	POS	_	1	case	_	O
+3	War	war	NNP	pos2=NN	5	npadvmod	_	O
+4	-	-	HYPH	pos2=:	5	punct	_	O
+5	Damaged	damage	VBN	pos2=NNP	7	nmod	_	O
+6	#Hodeidah	#hodeidah	NNP	pos2=IN	7	compound	_	B-FAC
+7	Port	port	NNP	_	8	nsubj	_	L-FAC
+8	Struggles	struggle	VBZ	pos2=NNP	0	root	_	O
+9	to	to	TO	_	10	aux	_	O
+10	Bring	bring	VB	_	8	xcomp	_	O
+11	in	in	RP	pos2=RB	10	prt	_	O
+12	Vital	vital	JJ	pos2=NNP	13	nmod	_	O
+13	Supp	supp	NNP	pos2=GW	16	nmod	_	U-ORG
+14	lieshttps://t.co/mIpjYbCqZ7	#hlink#	ADD	pos2=NN	10	dobj	_	O
+15	via	via	IN	_	10	prep	_	O
+16	@Reuters	@reuters	NNS	pos2=NNP	15	pobj	_	O
+

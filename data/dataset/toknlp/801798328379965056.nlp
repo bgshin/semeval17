@@ -1,0 +1,19 @@
+1	Occupied	occupy	VBN	pos2=VBD	6	advcl	_	O
+2	#Palestine	#palestine	NNP	pos2=CD	5	compound	_	B-ORG
+3	|	|	SYM	pos2=,	6	punct	_	I-ORG
+4	#Israeli	#israeli	NNP	pos2=NFP	5	compound	_	I-ORG
+5	Tank	tank	NNP	pos2=NN	6	nsubj	_	L-ORG
+6	FLIPPED	flip	VBD	pos2=VBN	0	root	_	O
+7	OVER	over	RP	pos2=RB	6	prt	_	O
+8	during	during	IN	_	6	prep	_	O
+9	military	military	JJ	pos2=NN	10	nmod	_	O
+10	exercise	exercise	NN	_	8	pobj	_	O
+11	in	in	IN	_	10	prep	_	O
+12	preparation	preparation	NN	_	11	pobj	_	O
+13	for	for	IN	_	12	prep	_	O
+14	next	next	JJ	_	15	nmod	_	O
+15	war	war	NN	_	13	pobj	_	O
+16	with	with	IN	_	15	prep	_	O
+17	…	…	NFP	pos2=-LRB-	16	pobj	_	O
+18	https://t.co/Gl0bs0Z4o2	#hlink#	ADD	pos2=NN	6	dep	_	O
+

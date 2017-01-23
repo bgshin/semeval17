@@ -1,0 +1,16 @@
+1	@ReadingsBooks	@readingsbooks	NNS	pos2=XX	0	root	_	O
+2	in	in	IN	_	1	prep	_	O
+3	Carlton	carlton	NNP	_	2	pobj	_	U-ORG
+4	.	.	.	_	1	punct	_	O
+
+1	Leonard	leonard	NNP	_	2	compound	_	B-PERSON
+2	Cohen	cohen	NNP	_	0	root	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	what	what	WP	pos2=WDT	7	det	_	O
+5	a	a	DT	_	7	det	_	O
+6	cool	cool	JJ	_	7	nmod	_	O
+7	dude	dude	NN	_	2	appos	_	O
+8	!	!	.	_	2	punct	_	O
+
+1	https://t.co/MnSjz783p3	#hlink#	ADD	_	0	root	_	U-ORG
+

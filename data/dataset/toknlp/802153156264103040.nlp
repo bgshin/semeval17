@@ -1,0 +1,16 @@
+1	#ZaynMalik	#zaynmalik	IN	pos2=SYM	4	prep	_	O
+2	VOGUE	vogue	NN	pos2=NNP	1	pobj	_	O
+3	May	may	NNP	_	7	nmod	_	B-DATE
+4	2016	0	CD	_	3	npadvmod	_	L-DATE
+5	TAYLOR	taylor	NNP	pos2=NN	6	compound	_	O
+6	SWIFT	swift	NNP	pos2=NN	0	root	_	O
+7	~	~	POS	pos2=SYM	6	case	_	O
+8	Gigi	gigi	NNP	_	9	compound	_	O
+9	Hadid	hadid	NNP	_	6	conj	_	O
+10	&	&	CC	_	9	cc	_	O
+11	Zayn	zayn	NNP	_	12	compound	_	B-PERSON
+12	Malik	malik	NNP	_	9	conj	_	I-PERSON
+13	https://t.co/ML8RHRfzZp	#hlink#	ADD	pos2=NNP	9	appos	_	I-PERSON
+14	#OneDirection	#onedirection	ADD	pos2=-RRB-	9	cc	_	I-PERSON
+15	#Zayne	#zayne	NNP	pos2=ADD	14	pobj	_	L-PERSON
+

@@ -1,0 +1,25 @@
+1	@Javs42	@javs0	NN	pos2=NNS	5	discourse	_	O
+2	it	it	PRP	_	5	nsubj	_	O
+3	would	would	MD	_	5	aux	_	O
+4	have	have	VB	_	5	aux	_	O
+5	felt	feel	VBN	_	0	root	_	O
+6	better	good	JJR	pos2=RBR	5	acomp	_	O
+7	had	have	VBD	pos2=VBN	10	aux	_	O
+8	we	we	PRP	_	10	nsubj	_	O
+9	not	not	RB	_	10	neg	_	O
+10	had	have	VBD	_	5	advcl	_	O
+11	a	a	DT	_	12	det	_	O
+12	Maduro	maduro	NNP	_	10	dobj	_	U-ORG
+13	or	or	CC	_	12	cc	_	O
+14	a	a	DT	pos2=XX	16	det	_	O
+15	Diosdado	diosdado	NNP	_	16	compound	_	B-PERSON
+16	Cabello	cabello	NNP	_	12	conj	_	L-PERSON
+17	so	so	RB	pos2=IN	20	advmod	_	O
+18	the	the	DT	_	19	det	_	O
+19	celebration	celebration	NN	_	20	nsubj	_	O
+20	was	be	VBD	_	10	advcl	_	O
+21	n't	not	RB	_	20	neg	_	O
+22	as	as	RB	pos2=IN	23	advmod	_	O
+23	riveting	riveting	JJ	pos2=VBG	20	acomp	_	O
+24	lol	lol	UH	pos2=NN	20	discourse	_	O
+

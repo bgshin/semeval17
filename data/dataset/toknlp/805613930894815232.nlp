@@ -1,0 +1,9 @@
+1	@Aly_Raisman	@aly_raisman	NN	pos2=ADD	8	compound	_	O
+2	@ZacEfron	@zacefron	ADD	pos2=XX	8	punct	_	O
+3	funny	funny	JJ	_	6	nmod	_	O
+4	aly	aly	RB	pos2=JJ	5	advmod	_	O
+5	huge	huge	JJ	_	6	nmod	_	O
+6	crush	crush	NN	_	8	compound	_	O
+7	zac	zac	NNP	pos2=FW	8	compound	_	B-PERSON
+8	efron	efron	NN	pos2=NNP	0	root	_	L-PERSON
+

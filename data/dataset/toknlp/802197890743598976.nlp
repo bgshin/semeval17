@@ -1,0 +1,19 @@
+1	Arsonists	arsonist	NNS	pos2=NNPS	13	nsubjpass	_	O
+2	setting	set	VBG	_	1	acl	_	O
+3	fires	fire	NNS	_	2	dobj	_	O
+4	in	in	IN	_	2	prep	_	O
+5	#Israel	#israel	NNP	pos2=NNS	4	pobj	_	U-GPE
+6	,	,	,	_	13	punct	_	O
+7	now	now	RB	_	13	advmod	_	O
+8	the	the	DT	_	9	det	_	O
+9	hills	hill	NNS	_	13	nsubjpass	_	O
+10	of	of	IN	_	9	prep	_	O
+11	#Jerusalem	#jerusalem	NNP	pos2=NNS	10	pobj	_	U-GPE
+12	are	be	VBP	_	13	auxpass	_	O
+13	burning😥🇮🇱	burning😥🇮🇱	VBN	pos2=VBG	0	root	_	O
+14	#IsraelFires	#israelfires	NNS	pos2=ADD	18	nmod	_	O
+15	#arson	#arson	GW	pos2=UH	18	nmod	_	O
+16	#Arabs	#arabs	GW	pos2=NNS	18	nmod	_	U-NORP
+17	#Jews	#jews	GW	pos2=-LRB-	18	nmod	_	O
+18	https://t.co/NtPnjZaIsZ	#hlink#	ADD	pos2=NN	13	dep	_	O
+

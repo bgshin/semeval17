@@ -1,0 +1,14 @@
+1	Christians	christian	NNPS	pos2=NNS	8	nsubj	_	U-NORP
+2	In	in	IN	_	1	prep	_	O
+3	Palestine	palestine	NNP	_	2	pobj	_	U-GPE
+4	:	:	:	_	1	punct	_	O
+5	Yes	yes	UH	_	8	discourse	_	O
+6	,	,	,	_	8	punct	_	O
+7	They	they	PRP	pos2=NNP	8	nsubj	_	O
+8	Exist	exist	VBP	_	0	root	_	O
+9	https://t.co/nWAV5EquE6	#hlink#	ADD	pos2=NNP	13	nmod	_	U-GPE
+10	#gaza	#gaza	-RRB-	pos2=IN	9	punct	_	O
+11	#palestine	#palestine	UH	pos2=PRP	13	discourse	_	O
+12	#israel	#israel	UH	pos2=VB	13	discourse	_	O
+13	#BDS	#bds	NNS	pos2=UH	8	dobj	_	O
+

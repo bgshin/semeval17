@@ -1,0 +1,19 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@parkinsbrea	@parkinsbrea	UH	pos2=NN	10	discourse	_	O
+2	@atheistie	@atheistie	UH	pos2=IN	10	discourse	_	O
+3	The	the	DT	_	4	det	_	O
+4	claim	claim	NN	_	10	nsubj	_	O
+5	that	that	IN	pos2=DT	7	mark	_	O
+6	abortion	abortion	NN	_	7	nsubj	_	O
+7	causes	cause	VBZ	_	4	acl	_	O
+8	breast	breast	NN	_	9	compound	_	O
+9	cancer	cancer	NN	_	7	dobj	_	O
+10	is	be	VBZ	_	0	root	_	O
+11	a	a	DT	_	13	det	_	O
+12	big	big	JJ	_	13	nmod	_	O
+13	lie	lie	NN	_	10	attr	_	O
+14	!	!	.	_	10	punct	_	O
+
+1	https://t.co/wLubjVdEc5	#hlink#	ADD	_	0	root	_	U-ORG
+

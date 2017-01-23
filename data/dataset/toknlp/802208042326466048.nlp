@@ -1,0 +1,11 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	very	very	RB	_	5	advmod	_	O
+4	very	very	RB	pos2=JJ	5	advmod	_	O
+5	good😂👌🏻#MannequinChallenge	good😂👌🏻#mannequinchallenge	JJ	pos2=XX	2	acomp	_	U-NORP
+6	#cadavermovie	#cadavermovie	UH	pos2=XX	10	dep	_	O
+7	🎥@shaymitch	🎥@shaymitch	NNP	pos2=UH	10	nmod	_	U-PERSON
+8	@sammyinlala	@sammyinlala	GW	pos2=UH	10	nmod	_	O
+9	💖	💖	NFP	pos2=GW	10	punct	_	O
+10	https://t.co/567LWkg0hv	#hlink#	ADD	pos2=NN	2	dep	_	O
+

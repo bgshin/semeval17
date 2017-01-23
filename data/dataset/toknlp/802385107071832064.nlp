@@ -1,0 +1,19 @@
+1	Interesting	interesting	JJ	pos2=NNP	5	nmod	_	O
+2	Also	also	RB	_	6	advmod	_	O
+3	That	that	IN	pos2=DT	6	mark	_	O
+4	George	george	NNP	_	5	compound	_	B-PERSON
+5	Soros	soros	NNP	_	6	nsubj	_	L-PERSON
+6	Forgave	forgive	VBD	pos2=NNP	17	advcl	_	O
+7	@realDonaldTrump	@realdonaldtrump	NNP	pos2=RP	8	compound	_	B-MONEY
+8	Millions	#crd#	NNS	pos2=NNPS	6	dobj	_	I-MONEY
+9	of	of	IN	_	8	prep	_	I-MONEY
+10	Dollars	dollar	NNS	pos2=NNP	9	pobj	_	L-MONEY
+11	Of	of	IN	_	10	prep	_	O
+12	Debt	debt	NNP	pos2=NN	11	pobj	_	O
+13	A	a	DT	pos2=NNP	15	det	_	B-DATE
+14	Few	few	NNP	pos2=JJ	17	nmod	_	I-DATE
+15	Years	year	NNS	pos2=NNPS	16	npadvmod	_	I-DATE
+16	Ago	ago	RB	pos2=NNP	6	advmod	_	L-DATE
+17	https://t.co/MrtnVhMk34	#hlink#	ADD	pos2=VBP	0	root	_	O
+18	#Trump	#trump	-RRB-	pos2=NNP	17	punct	_	O
+

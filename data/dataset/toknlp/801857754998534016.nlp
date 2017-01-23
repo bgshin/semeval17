@@ -1,0 +1,25 @@
+1	Justin	justin	NNP	_	2	compound	_	B-PERSON
+2	Verlander	verlander	NNP	_	6	nsubj	_	L-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	Miguel	miguel	NNP	_	5	compound	_	B-PERSON
+5	Cabrera	cabrera	NNP	_	2	conj	_	L-PERSON
+6	are	be	VBP	_	0	root	_	O
+7	the	the	DT	_	9	det	_	O
+8	big	big	JJ	_	9	nmod	_	O
+9	names	name	NNS	_	6	attr	_	O
+10	,	,	,	_	6	punct	_	O
+11	but	but	CC	_	6	cc	_	O
+12	trading	trading	NN	pos2=VBG	14	compound	_	O
+13	Ian	ian	NNP	_	14	compound	_	B-PERSON
+14	Kinsler	kinsler	NNP	_	16	nsubj	_	L-PERSON
+15	could	could	MD	_	16	aux	_	O
+16	hurt	hurt	VB	_	6	conj	_	O
+17	the	the	DT	_	18	det	_	O
+18	#Tigers	#tigers	NNP	pos2=NNS	16	dobj	_	U-FAC
+19	the	the	DT	_	20	det	_	O
+20	most	most	RBS	pos2=JJS	16	advmod	_	O
+21	.	.	.	_	16	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/6LrkCB1nf9	#hlink#	ADD	pos2=NN	0	root	_	O
+

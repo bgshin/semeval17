@@ -1,0 +1,15 @@
+1	@SenSanders	@sensanders	NNS	pos2=VBZ	0	root	_	O
+2	that	that	WDT	pos2=DT	3	nsubj	_	O
+3	wants	want	VBZ	_	1	relcl	_	O
+4	to	to	TO	_	5	aux	_	O
+5	end	end	VB	_	3	xcomp	_	O
+6	the	the	DT	_	7	det	_	O
+7	fed	fed	NN	pos2=VBN	5	dobj	_	O
+8	and	and	CC	_	5	cc	_	O
+9	go	go	VB	_	5	conj	_	O
+10	back	back	RB	_	9	advmod	_	O
+11	to	to	IN	_	10	prep	_	O
+12	a	a	DT	_	14	det	_	O
+13	gold	gold	NN	pos2=JJ	14	compound	_	O
+14	standard	standard	NN	pos2=JJ	11	pobj	_	O
+

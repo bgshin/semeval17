@@ -1,0 +1,24 @@
+1	my	my	PRP$	_	2	poss	_	O
+2	grandma	grandma	NN	_	5	nsubj	_	O
+3	does	do	VBZ	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	want	want	VB	_	15	ccomp	_	O
+6	to	to	TO	_	7	aux	_	O
+7	watch	watch	VB	_	5	xcomp	_	O
+8	david	david	FW	pos2=NNP	9	compound	_	O
+9	blaine	blaine	NNP	pos2=NN	12	poss	_	O
+10	's	's	POS	_	9	case	_	O
+11	new	new	JJ	_	12	nmod	_	O
+12	show	show	NN	_	13	compound	_	O
+13	cause	cause	NN	pos2=IN	7	dobj	_	O
+14	she	she	PRP	_	15	nsubj	_	O
+15	said	say	VBD	_	0	root	_	O
+16	that	that	DT	_	17	nsubj	_	O
+17	's	's	VBZ	_	15	ccomp	_	O
+18	the	the	DT	_	20	det	_	O
+19	devils	devils	JJ	pos2=NNS	20	nmod	_	O
+20	work	work	NN	_	17	attr	_	O
+21	.	.	.	_	15	punct	_	O
+
+1	lmao	lmao	UH	pos2=NN	0	root	_	O
+

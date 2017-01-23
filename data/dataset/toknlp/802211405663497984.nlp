@@ -1,0 +1,30 @@
+1	@JebBush	@jebbush	UH	pos2=XX	6	discourse	_	O
+2	@bi_politics	@bi_politics	NNS	pos2=PRP$	6	vocative	_	O
+3	Jeb	jeb	NNP	_	8	nsubj	_	U-PERSON
+4	Do	do	VBP	pos2=NNP	6	aux	_	O
+5	nt	nt	RB	_	6	advmod	_	O
+6	go	go	VB	_	0	root	_	O
+7	out	out	RP	pos2=IN	6	prt	_	O
+8	writing	write	VBG	pos2=NN	6	advcl	_	O
+9	OPEDS	opeds	NNS	pos2=NNP	8	dobj	_	O
+10	to	to	TO	_	11	aux	_	O
+11	absolve	absolve	VB	_	8	xcomp	_	O
+12	yourself	yourself	PRP	_	11	dobj	_	O
+13	.	.	.	_	6	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	choose	choose	VBP	pos2=VB	0	root	_	O
+3	party	party	NN	_	2	dobj	_	O
+4	over	over	IN	pos2=GW	3	prep	_	O
+5	country	country	NN	_	4	pobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	n	n	RB	pos2=JJ	4	advmod	_	O
+4	American	american	JJ	pos2=NNP	2	acomp	_	U-NORP
+5	as	as	IN	_	8	mark	_	O
+6	Putin	putin	NNP	_	8	nsubj	_	U-PERSON
+7	would	would	MD	_	8	aux	_	O
+8	B	b	VB	pos2=NNP	2	advcl	_	O
+

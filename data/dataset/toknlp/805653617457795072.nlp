@@ -1,0 +1,23 @@
+1	@ktibus	@ktibus	UH	pos2=NN	5	discourse	_	O
+2	@Rex_Oper	@rex_oper	ADD	pos2=GW	5	nsubj	_	O
+3	@j_buks	@j_buks	VBZ	pos2=NNP	5	aux	_	O
+4	Just	just	RB	_	5	advmod	_	O
+5	explaining	explain	VBG	_	0	root	_	O
+6	why	why	WRB	_	8	advmod	_	O
+7	I	I	PRP	_	8	nsubj	_	O
+8	'm	be	VBP	_	5	ccomp	_	O
+9	pro	pro	JJ	pos2=VBG	11	nmod	_	O
+10	death	death	NN	_	11	compound	_	O
+11	penalty	penalty	NN	_	8	attr	_	O
+12	.	.	.	_	5	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	kill	kill	VBP	pos2=VB	6	parataxis	_	O
+3	,	,	,	_	6	punct	_	O
+4	you	you	PRP	_	6	nsubj	_	O
+5	should	should	MD	_	6	aux	_	O
+6	get	get	VB	_	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	same	same	JJ	_	6	dobj	_	O
+9	.	.	.	_	6	punct	_	O
+

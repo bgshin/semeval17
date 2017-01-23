@@ -1,0 +1,9 @@
+1	https://t.co/WrYAThPB8W	#hlink#	ADD	_	2	nsubj	_	O
+2	Find	find	VB	pos2=VBP	0	root	_	O
+3	sustainable	sustainable	JJ	_	4	nmod	_	O
+4	treasures	treasure	NNS	_	2	dobj	_	O
+5	at	at	IN	_	2	prep	_	O
+6	GLC.	glc.	NNP	_	7	compound	_	O
+7	#OnAFullMoonI	#onafullmooni	NNP	pos2=POS	5	pobj	_	O
+8	#ThisIsUs	#thisisus	ADD	pos2=POS	2	punct	_	O
+

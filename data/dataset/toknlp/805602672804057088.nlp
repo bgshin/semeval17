@@ -1,0 +1,11 @@
+1	Cristiano	cristiano	NNP	_	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	shitty	shitty	JJ	_	6	nmod	_	O
+6	clone	clone	NN	_	3	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	shitty	shitty	JJ	_	10	nmod	_	O
+10	toy	toy	NN	_	7	pobj	_	O
+

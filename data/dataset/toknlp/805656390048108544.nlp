@@ -1,0 +1,29 @@
+1	@johnpavlovitz	@johnpavlovitz	UH	pos2=LS	12	discourse	_	O
+2	@Lily_v_Shtupp	@lily_v_shtupp	NN	pos2=MD	12	nsubj	_	O
+3	Not	not	RB	_	5	neg	_	O
+4	to	to	TO	_	5	aux	_	O
+5	worry	worry	VB	_	2	xcomp	_	O
+6	,	,	,	_	12	punct	_	O
+7	sensible	sensible	JJ	_	10	nmod	_	O
+8	gun	gun	NN	_	9	compound	_	O
+9	control	control	NN	_	10	compound	_	O
+10	laws	law	NNS	_	12	nsubj	_	O
+11	are	be	VBP	_	12	aux	_	O
+12	coming	come	VBG	_	0	root	_	O
+13	.	.	.	_	12	punct	_	O
+
+1	When	when	WRB	_	3	advmod	_	O
+2	they	they	PRP	_	3	nsubj	_	O
+3	wake	wake	VBP	_	10	advcl	_	O
+4	up	up	RP	pos2=RB	3	prt	_	O
+5	&	&	CC	_	3	cc	_	O
+6	realize	realize	VB	pos2=VBP	3	conj	_	O
+7	AA	aa	NN	pos2=NNP	2	appos	_	O
+8	'S	's	AFX	pos2=PRP	7	nmod	_	O
+9	are	be	VBP	_	10	aux	_	O
+10	buying	buy	VBG	_	0	root	_	O
+11	guns	gun	NNS	_	10	dobj	_	O
+12	by	by	IN	pos2=RB	10	prep	_	O
+13	the	the	DT	_	12	pobj	_	O
+14	...	..	.	_	10	punct	_	O
+

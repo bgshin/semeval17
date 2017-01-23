@@ -1,0 +1,32 @@
+1	@bryancallen	@bryancallen	UH	pos2=DT	5	discourse	_	O
+2	dude	dude	NN	pos2=UH	0	root	_	O
+3	I	I	PRP	_	5	nsubj	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	saw	see	VBD	_	2	relcl	_	O
+6	you	you	PRP	_	5	dobj	_	O
+7	on	on	IN	_	5	prep	_	O
+8	a	a	DT	_	9	det	_	O
+9	rooftop	rooftop	NN	_	7	pobj	_	O
+10	in	in	IN	_	9	prep	_	O
+11	a	a	DT	_	14	det	_	O
+12	David	david	NNP	_	13	compound	_	B-PERSON
+13	Blaine	blaine	NNP	_	14	compound	_	L-PERSON
+14	special	special	JJ	pos2=NNP	10	pobj	_	O
+15	where	where	WRB	_	18	advmod	_	O
+16	he	he	PRP	_	18	nsubj	_	O
+17	's	's	VBZ	_	18	aux	_	O
+18	doing	do	VBG	_	5	ccomp	_	O
+19	magic	magic	NN	_	18	dobj	_	O
+20	for	for	IN	_	18	prep	_	O
+21	you	you	PRP	_	22	nmod	_	O
+22	guys	guy	NNS	_	20	pobj	_	O
+23	.	.	.	_	21	advmod	_	O
+
+1	Is	be	VBZ	_	0	root	_	O
+2	that	that	DT	_	3	det	_	O
+3	guy	guy	NN	_	1	nsubj	_	O
+4	wild	wild	JJ	pos2=NN	1	acomp	_	O
+5	or	or	CC	_	1	cc	_	O
+6	what	what	WP	_	1	conj	_	O
+7	?	?	.	_	1	punct	_	O
+

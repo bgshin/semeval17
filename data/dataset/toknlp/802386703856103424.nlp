@@ -1,0 +1,7 @@
+1	@desides01	@desides0	NN	pos2=LS	2	nsubj	_	O
+2	@UptownReport	@uptownreport	VBP	pos2=IN	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	deplorables	deplorables	NNS	pos2=JJ	5	nsubj	_	O
+5	hate	hate	VBP	pos2=NN	2	ccomp	_	O
+6	CNN.	cnn.	NNP	_	5	dobj	_	U-PERSON
+

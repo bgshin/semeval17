@@ -1,0 +1,27 @@
+1	@LGKITTEN	@lgkitten	VB	pos2=XX	14	advcl	_	O
+2	We	we	PRP	_	1	dobj	_	O
+3	as	as	IN	_	1	prep	_	O
+4	Conservatives	conservative	NNPS	pos2=NNS	3	pobj	_	U-NORP
+5	,	,	,	_	4	punct	_	O
+6	Classical	classical	JJ	pos2=NNP	7	nmod	_	O
+7	Liberals	liberal	NNPS	pos2=NNS	4	conj	_	U-NORP
+8	,	,	,	_	7	punct	_	O
+9	&	&	CC	_	7	cc	_	O
+10	Scientists	scientist	NNS	pos2=NNPS	7	conj	_	O
+11	,	,	,	_	14	punct	_	O
+12	do	do	VBP	pos2=VB	14	aux	_	O
+13	not	not	RB	_	14	neg	_	O
+14	fear	fear	VB	_	0	root	_	O
+15	the	the	DT	_	16	det	_	O
+16	truth	truth	NN	_	14	dobj	_	O
+17	,	,	,	_	16	punct	_	O
+18	Progressive	progressive	NNP	pos2=JJ	19	compound	_	O
+19	Liberals	liberal	NNPS	pos2=NNS	16	appos	_	U-NORP
+20	.	.	.	_	14	punct	_	O
+
+1	Lefties	lefty	NNS	_	2	nsubj	_	O
+2	invent	invent	VBP	pos2=NN	0	root	_	O
+3	lies	lie	NNS	pos2=VBZ	2	dobj	_	O
+4	for	for	IN	_	3	prep	_	O
+5	power	power	NN	_	4	pobj	_	O
+

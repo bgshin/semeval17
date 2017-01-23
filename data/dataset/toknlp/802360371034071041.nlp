@@ -1,0 +1,19 @@
+1	@pbump	@pbump	UH	pos2=IN	4	discourse	_	O
+2	Joe	joe	NNP	_	3	compound	_	B-PERSON
+3	Liberman	liberman	NNP	_	4	nsubj	_	L-PERSON
+4	applauds	applaud	VBZ	_	0	root	_	O
+5	KT	kt	NNP	pos2=NN	6	compound	_	B-PERSON
+6	McFarland	mcfarland	NNP	_	4	dobj	_	L-PERSON
+7	in	in	IN	_	4	prep	_	O
+8	transition	transition	NN	pos2=FW	10	compound	_	O
+9	press	press	NN	_	10	compound	_	O
+10	release	release	NN	_	7	pobj	_	O
+11	,	,	,	_	12	punct	_	O
+12	says	say	VBZ	_	4	conj	_	O
+13	she	she	PRP	_	16	nsubj	_	O
+14	and	and	CC	_	13	cc	_	O
+15	Flynn	flynn	NNP	_	13	conj	_	U-PERSON
+16	are	be	VBP	_	12	ccomp	_	O
+17	great	great	JJ	_	16	acomp	_	O
+18	https://t.co/1QOVDTRMre	#hlink#	ADD	pos2=NN	16	dep	_	O
+

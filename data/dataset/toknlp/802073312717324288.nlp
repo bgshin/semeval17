@@ -1,0 +1,30 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	went	go	VBD	_	0	root	_	O
+3	in	in	IN	pos2=RB	2	prep	_	O
+4	a	a	DT	_	6	det	_	O
+5	Tesla	tesla	NNP	_	6	compound	_	U-ORG
+6	model	model	NN	_	3	pobj	_	O
+7	S	s	NNP	pos2=POS	6	case	_	U-ORG
+8	yesterday	yesterday	NN	_	2	npadvmod	_	U-DATE
+9	.	.	.	_	2	punct	_	O
+
+1	And	and	CC	_	6	cc	_	O
+2	now	now	RB	_	6	advmod	_	O
+3	I	I	PRP	_	6	nsubj	_	O
+4	do	do	VBP	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	think	think	VB	_	0	root	_	O
+7	it	it	PRP	_	8	nsubj	_	O
+8	's	's	VBZ	_	6	ccomp	_	O
+9	fair	fair	JJ	_	8	acomp	_	O
+10	that	that	IN	_	14	mark	_	O
+11	I	I	PRP	_	14	nsubj	_	O
+12	do	do	VBP	_	14	aux	_	O
+13	n't	not	RB	_	14	neg	_	O
+14	own	own	VB	_	8	ccomp	_	O
+15	a	a	DT	_	17	det	_	O
+16	Tesla	tesla	NNP	_	17	compound	_	U-ORG
+17	model	model	NN	_	14	dobj	_	O
+18	S.UNFAIR	#hlink#	ADD	_	14	dobj	_	U-ORG
+19	!	!	.	_	6	punct	_	O
+

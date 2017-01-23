@@ -1,0 +1,24 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	feel	feel	VB	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	caffeine	caffeine	NN	_	6	nsubj	_	O
+6	run	run	VB	pos2=VBN	3	ccomp	_	O
+7	through	through	IN	_	6	prep	_	O
+8	my	my	PRP$	_	9	poss	_	O
+9	veins	vein	NNS	_	7	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	Yes	yes	UH	_	5	discourse	_	O
+2	coffee	coffee	NN	pos2=UH	5	npadvmod	_	O
+3	you	you	PRP	_	5	nsubj	_	O
+4	can	can	MD	_	5	aux	_	O
+5	stay	stay	VB	_	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	🍵	🍵	SYM	pos2=NFP	5	punct	_	U-ORG
+2	🌞	🌞	NN	pos2=NFP	3	compound	_	O
+3	#ThursdayThoughts	#thursdaythoughts	NNS	pos2=GW	4	compound	_	O
+4	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=GW	5	compound	_	U-DATE
+5	#Coffee	#coffee	NNP	pos2=UH	0	root	_	O
+

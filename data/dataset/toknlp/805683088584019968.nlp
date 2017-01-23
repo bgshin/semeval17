@@ -1,0 +1,21 @@
+1	@amazingatheist	@amazingatheist	UH	pos2=VB	3	cc	_	O
+2	what	what	WP	_	3	dep	_	O
+3	about	about	IN	_	0	root	_	O
+4	those	those	DT	_	6	det	_	O
+5	private	private	JJ	_	6	nmod	_	O
+6	jets	jet	NNS	_	3	pobj	_	O
+7	,	,	,	_	3	punct	_	O
+8	TJ	tj	NNP	pos2=NN	3	pobj	_	U-PERSON
+9	?	?	.	_	3	punct	_	O
+
+1	what	what	WP	_	2	dep	_	O
+2	about	about	IN	_	0	root	_	O
+3	his	his	PRP$	_	6	poss	_	O
+4	hypocritical	hypocritical	JJ	_	6	nmod	_	O
+5	fossil	fossil	NN	pos2=JJ	6	compound	_	O
+6	fuels	fuel	NNS	_	7	compound	_	O
+7	rhetoric	rhetoric	NN	_	2	pobj	_	O
+8	,	,	,	_	5	punct	_	O
+9	TJ	tj	NNP	pos2=NN	5	vocative	_	U-PERSON
+10	?	?	.	_	2	punct	_	O
+

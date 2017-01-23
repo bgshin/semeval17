@@ -1,0 +1,16 @@
+1	#RickyMartin	#rickymartin	NNP	pos2=NN	2	compound	_	U-GPE
+2	ft.	ft.	NN	pos2=FW	5	poss	_	O
+3	#Maluma	#maluma	POS	pos2=NNP	2	case	_	O
+4	new	new	JJ	_	5	nmod	_	O
+5	entry	entry	NN	_	15	nsubj	_	O
+6	on	on	IN	_	5	prep	_	O
+7	https://t.co/B6u5olhqut	#hlink#	ADD	_	6	pobj	_	O
+8	@ricky_martin	@ricky_martin	IN	pos2=ADD	5	prep	_	O
+9	@maluma	@maluma	NN	pos2=NNS	8	pobj	_	O
+10	w	w	IN	pos2=RB	5	prep	_	O
+11	/	/	HYPH	_	10	punct	_	O
+12	#VentePaCa	#ventepaca	NN	pos2=ADD	10	pobj	_	O
+13	#latinhits	#latinhits	NNS	pos2=GW	5	prep	_	O
+14	…	…	NFP	pos2=-LRB-	15	punct	_	O
+15	https://t.co/gD1Af2VYUK	#hlink#	ADD	pos2=NN	0	root	_	O
+

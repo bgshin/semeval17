@@ -1,0 +1,21 @@
+1	Not	not	RB	_	2	neg	_	O
+2	sure	sure	JJ	_	0	root	_	O
+3	if	if	IN	_	6	mark	_	O
+4	the	the	DT	_	5	det	_	O
+5	#Ontarians	#ontarians	NNPS	pos2=NNS	6	nsubj	_	U-PERSON
+6	are	be	VBP	_	2	ccomp	_	O
+7	naive	naive	JJ	_	6	acomp	_	O
+8	or	or	CC	_	6	cc	_	O
+9	what	what	WP	_	6	conj	_	O
+10	,	,	,	_	2	punct	_	O
+11	but	but	CC	_	2	cc	_	O
+12	electing	elect	VBG	_	16	csubj	_	O
+13	#conservatives	#conservatives	NNS	pos2=PRP	12	dobj	_	O
+14	would	would	MD	_	16	aux	_	O
+15	definitely	definitely	RB	_	16	advmod	_	O
+16	prove	prove	VB	_	2	conj	_	O
+17	collective	collective	JJ	_	18	nmod	_	O
+18	disillu	disillu	NN	pos2=XX	16	dobj	_	O
+19	…	…	NFP	pos2=-LRB-	16	cc	_	O
+20	https://t.co/YVQPXpzP0T	#hlink#	ADD	_	16	dep	_	O
+

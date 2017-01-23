@@ -1,0 +1,33 @@
+1	@guardian_sydmun	@guardian_sydmun	NNP	pos2=LS	2	compound	_	U-ORDINAL
+2	@FoxNewsSydMUN16	@foxnewssydmun0	NN	pos2=MD	3	nsubj	_	O
+3	Look	look	VB	pos2=NNP	8	advcl	_	O
+4	,	,	,	_	8	punct	_	O
+5	I	I	PRP	_	8	nsubj	_	O
+6	'm	be	VBP	_	8	aux	_	O
+7	not	not	RB	_	8	neg	_	O
+8	gon	gon	VBG	_	0	root	_	O
+9	na	to	TO	_	10	aux	_	O
+10	lie	lie	VB	pos2=NN	8	xcomp	_	O
+11	:	:	:	_	8	punct	_	O
+12	that	that	DT	pos2=WDT	13	nsubj	_	O
+13	cut	cut	VBD	pos2=VB	10	ccomp	_	O
+14	me	me	PRP	_	13	dobj	_	O
+15	deep	deep	JJ	pos2=RB	13	oprd	_	O
+16	.	.	.	_	13	punct	_	O
+
+1	But	but	CC	_	12	cc	_	O
+2	with	with	IN	_	12	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	help	help	NN	_	2	pobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Kim	kim	NNP	_	9	compound	_	B-PERSON
+7	Jong	jong	NNP	_	9	compound	_	I-PERSON
+8	-	-	HYPH	_	9	punct	_	I-PERSON
+9	un	un	NNP	pos2=NN	5	pobj	_	L-PERSON
+10	I	I	PRP	_	12	nsubj	_	O
+11	will	will	MD	_	12	aux	_	O
+12	get	get	VB	_	0	root	_	O
+13	through	through	IN	_	12	prep	_	O
+14	this	this	DT	_	13	pobj	_	O
+15	.	.	.	_	12	punct	_	O
+

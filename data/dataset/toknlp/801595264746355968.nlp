@@ -1,0 +1,11 @@
+1	@joey_judge	@joey_judge	XX	pos2=IN	3	dep	_	O
+2	he	he	PRP	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	...	..	.	pos2=,	3	punct	_	O
+
+1	Grayson	grayson	NNP	pos2=NN	2	compound	_	B-PERSON
+2	allen	allen	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	better	good	JJR	_	3	acomp	_	O
+

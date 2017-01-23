@@ -1,0 +1,23 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@HamiltonMusical	@hamiltonmusical	JJ	pos2=ADD	3	nmod	_	O
+2	@Lin_Manuel	@lin_manuel	NNP	pos2=XX	3	compound	_	B-PERSON
+3	@StevieVanZandt	@stevievanzandt	NNP	pos2=GW	0	root	_	L-PERSON
+4	Adored	adored	ADD	pos2=NNP	3	punct	_	O
+5	your	your	PRP$	_	6	poss	_	O
+6	play	play	NN	_	3	appos	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	Concur	concur	VB	pos2=VBP	0	root	_	O
+2	with	with	IN	_	1	prep	_	O
+3	views	view	NNS	_	2	pobj	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	Believe	believe	VB	pos2=VBP	0	root	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	owe	owe	VBP	pos2=VB	1	ccomp	_	O
+4	Pence	penny	NNP	pos2=JJ	5	compound	_	U-PERSON
+5	recompense	recompense	NN	_	7	dep	_	O
+6	:	:	:	_	7	punct	_	O
+7	https://t.co/0DYSSVZwq4	#hlink#	ADD	_	1	dep	_	O
+

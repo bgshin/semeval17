@@ -1,0 +1,15 @@
+1	@JimKerr1973	@jimkerr0	NN	pos2=PRP$	2	compound	_	O
+2	evidence	evidence	NN	_	3	nsubj	_	O
+3	increases	increase	VBZ	pos2=NNS	7	advcl	_	O
+4	everyday	everyday	RB	pos2=JJ	3	advmod	_	O
+5	,	,	,	_	7	punct	_	O
+6	population	population	NN	_	7	nsubj	_	O
+7	rejects	reject	VBZ	_	0	root	_	O
+8	hard	hard	JJ	pos2=RB	9	nmod	_	O
+9	brexit#Richmond	brexit#richmond	NNS	pos2=NNP	7	dobj	_	O
+10	not	not	RB	_	14	neg	_	O
+11	a	a	DT	_	14	det	_	O
+12	oneoff#economic	oneoff#economic	JJ	pos2=NN	13	nmod	_	O
+13	evidence	evidence	NN	_	14	compound	_	O
+14	mounting#NOBREXIT	mounting#nobrexit	NN	pos2=ADD	7	dep	_	O
+

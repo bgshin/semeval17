@@ -1,0 +1,7 @@
+1	STOP	stop	VB	pos2=NN	0	root	_	O
+2	ANIMAL	animal	NN	pos2=JJ	3	compound	_	O
+3	TESTING	testing	NN	_	1	dobj	_	O
+4	AT	at	IN	_	3	prep	_	O
+5	OXFORD	oxford	NNP	_	4	pobj	_	O
+6	https://t.co/MLH360J5nc	#hlink#	ADD	pos2=NN	1	dep	_	O
+

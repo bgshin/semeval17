@@ -1,0 +1,11 @@
+1	.	.	.	_	0	punct	_	O
+
+1	Animal	animal	NN	pos2=JJ	2	compound	_	O
+2	testing	testing	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	worse	bad	JJR	_	3	acomp	_	O
+5	than	than	IN	_	4	prep	_	O
+6	useless	useless	JJ	_	7	nmod	_	O
+7	#CambridgeKillers	#cambridgekillers	NNS	pos2=GW	5	pobj	_	O
+8	https://t.co/ziPpcC3Amr	#hlink#	ADD	_	3	dep	_	O
+

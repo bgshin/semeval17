@@ -1,0 +1,28 @@
+1	@hamybear	@hamybear	UH	pos2=XX	5	discourse	_	O
+2	@charliekirk11	@charliekirk0	UH	pos2=NN	5	discourse	_	O
+3	we	we	PRP	_	5	nsubj	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	started	start	VBD	_	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	learned	learn	VBD	pos2=VBN	0	root	_	O
+2	it	it	PRP	_	1	dobj	_	O
+3	from	from	IN	_	1	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	left	left	NN	pos2=JJ	3	pobj	_	O
+6	from	from	IN	_	1	prep	_	O
+7	ppl	ppl	NNS	pos2=NNP	6	pobj	_	O
+8	like	like	IN	_	7	prep	_	O
+9	Michael	michael	NNP	_	10	compound	_	B-PERSON
+10	Moore	moore	NNP	_	8	pobj	_	L-PERSON
+11	,	,	,	_	10	punct	_	O
+12	Soros	soros	NNP	_	10	conj	_	U-PERSON
+13	,	,	,	_	12	punct	_	O
+14	sharpton	sharpton	NNP	pos2=NN	12	conj	_	U-PERSON
+15	.	.	.	_	1	punct	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	great	great	JJ	_	3	nmod	_	O
+3	unifiers	unifier	NNS	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+

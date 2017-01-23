@@ -1,0 +1,16 @@
+1	UK	uk	NNP	_	3	poss	_	U-GPE
+2	'	'	POS	pos2=''	1	case	_	O
+3	risks	risk	NNS	pos2=VBZ	0	root	_	O
+4	repeating	repeat	VBG	_	3	acl	_	O
+5	Libya	libya	NNP	pos2=NN	6	compound	_	U-GPE
+6	mistakes	mistake	NNS	pos2=VBZ	4	dobj	_	O
+7	in	in	IN	_	4	prep	_	O
+8	Mosul	mosul	NNP	_	7	pobj	_	U-GPE
+9	'	'	''	pos2=POS	4	punct	_	O
+10	-	-	:	pos2=,	3	punct	_	O
+11	The	the	DT	_	13	det	_	B-WORK_OF_ART
+12	Week	week	NNP	pos2=NN	14	dep	_	I-WORK_OF_ART
+13	UK	uk	NNP	_	8	appos	_	L-WORK_OF_ART
+14	https://t.co/pm6CBLXTru	#hlink#	ADD	pos2=NNP	9	appos	_	O
+15	#libya	#libya	-RRB-	pos2=ADD	3	punct	_	O
+

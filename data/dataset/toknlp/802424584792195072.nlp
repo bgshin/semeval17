@@ -1,0 +1,9 @@
+1	@VeraMBergen	@verambergen	ADD	pos2=UH	4	dep	_	O
+2	@neontaster	@neontaster	UH	pos2=NN	4	discourse	_	O
+3	that	that	DT	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	lot	lot	NN	_	4	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	conservatives	conservative	NNS	_	7	pobj	_	O
+

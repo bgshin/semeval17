@@ -1,0 +1,21 @@
+1	Before	before	IN	pos2=RB	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	sit	sit	VBP	_	10	advcl	_	O
+4	down	down	RP	pos2=RB	3	prt	_	O
+5	to	to	IN	_	3	prep	_	O
+6	Thanksgiving	thanksgiving	NNP	_	5	pobj	_	U-DATE
+7	,	,	,	_	10	punct	_	O
+8	you	you	PRP	_	10	nsubj	_	O
+9	can	can	MD	_	10	aux	_	O
+10	watch	watch	VB	_	0	root	_	O
+11	the	the	DT	_	13	det	_	O
+12	#NBAwards	#nbawards	NNP	pos2=JJ	13	compound	_	U-ORG
+13	ceremony	ceremony	NN	_	10	dobj	_	O
+14	at	at	IN	_	10	prep	_	O
+15	@BookTV	@booktv	NNP	pos2=NNS	14	pobj	_	U-ORG
+16	at	at	IN	_	10	prep	_	O
+17	2:45	0	CD	_	18	nmod	_	B-TIME
+18	pm	pm	NN	pos2=FW	20	dep	_	L-TIME
+19	EST.	est.	NNP	pos2=NN	20	dep	_	O
+20	https://t.co/s1Ipg3MeVC	#hlink#	ADD	_	16	pobj	_	O
+

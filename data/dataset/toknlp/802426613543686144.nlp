@@ -1,0 +1,25 @@
+1	They	they	PRP	_	4	nsubj	_	O
+2	’ve	have	VBP	_	4	aux	_	O
+3	been	be	VBN	_	4	aux	_	O
+4	working	work	VBG	_	21	ccomp	_	O
+5	on	on	IN	_	4	prep	_	O
+6	this	this	DT	_	5	pobj	_	O
+7	for	for	IN	_	4	prep	_	O
+8	a	a	DT	_	10	det	_	O
+9	long	long	JJ	_	10	nmod	_	O
+10	time	time	NN	_	7	pobj	_	O
+11	-	-	HYPH	pos2=,	12	punct	_	O
+12	drive	drive	VB	pos2=NN	4	advcl	_	O
+13	the	the	DT	_	14	det	_	O
+14	Medicare	medicare	NNP	_	18	nmod	_	U-ORG
+15	and	and	CC	_	14	cc	_	O
+16	Social	social	NNP	_	17	compound	_	B-ORG
+17	Security	security	NNP	_	14	conj	_	L-ORG
+18	systems	system	NNS	_	12	dobj	_	O
+19	insolvent	insolvent	JJ	pos2=NN	12	oprd	_	O
+20	,	,	,	_	21	punct	_	O
+21	declare	declare	VB	pos2=VBP	0	root	_	O
+22	th	th	NN	pos2=JJ	21	dobj	_	O
+23	…	…	NFP	pos2=-LRB-	21	discourse	_	O
+24	https://t.co/WbmjWOxBS0	#hlink#	ADD	pos2=NN	21	dep	_	O
+

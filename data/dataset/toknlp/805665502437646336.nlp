@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det	_	O
+2	moment	moment	NN	_	4	npadvmod	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	figure	figure	VBP	pos2=VB	0	root	_	O
+5	out	out	RP	_	4	prt	_	O
+6	what	what	WP	_	8	nsubj	_	O
+7	's	's	VBZ	_	8	aux	_	O
+8	happening	happen	VBG	_	4	ccomp	_	O
+9	next	next	RB	pos2=JJ	8	advmod	_	O
+10	:	:	:	_	4	punct	_	O
+11	Oh	oh	UH	pos2=NNP	12	discourse	_	O
+12	shit	shit	NN	pos2=UH	4	dep	_	O
+13	.	.	.	_	4	punct	_	O
+
+1	#westworld	#westworld	UH	pos2=MD	0	root	_	O
+

@@ -1,0 +1,22 @@
+1	Laughing	laugh	VBG	pos2=NNP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	best	good	JJS	_	5	nmod	_	O
+5	exercise	exercise	NN	_	2	attr	_	O
+6	!	!	.	_	2	punct	_	O
+
+1	@punchlinecomedy	@punchlinecomedy	NN	pos2=UH	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	an	an	DT	_	5	det	_	O
+4	excellent	excellent	JJ	_	5	nmod	_	O
+5	way	way	NN	_	2	attr	_	O
+6	to	to	TO	_	7	aux	_	O
+7	start	start	VB	_	5	relcl	_	O
+8	your	your	PRP$	_	10	poss	_	O
+9	post-Thanksgiving	post-thanksgiving	JJ	_	10	nmod	_	U-DATE
+10	workout	workout	NN	_	7	dobj	_	O
+11	!	!	.	_	2	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/NLHrwzSBrB	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,25 @@
+1	So	so	RB	_	4	advmod	_	O
+2	does	do	VBZ	_	4	aux	_	O
+3	Rory	rory	NNP	_	4	nsubj	_	U-PERSON
+4	have	have	VB	_	0	root	_	O
+5	a	a	DT	_	7	det	_	O
+6	Galaxy	galaxy	NNP	pos2=NN	7	compound	_	O
+7	Note	note	NN	pos2=NNP	4	dobj	_	O
+8	7	0	CD	_	7	nmod	_	O
+9	?	?	.	_	4	punct	_	O
+
+1	Her	her	PRP$	_	2	poss	_	O
+2	phone	phone	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	huge	huge	JJ	_	3	acomp	_	O
+5	!	!	.	_	3	punct	_	O
+
+1	Do	do	VB	pos2=VBP	3	aux	_	O
+2	not	not	RB	_	3	neg	_	O
+3	seek	seek	VB	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	treasure	treasure	NN	_	3	dobj	_	O
+6	!	!	.	_	3	punct	_	O
+
+1	#GilmoreGirlsRevival	#gilmoregirlsrevival	ADD	pos2=XX	0	root	_	O
+

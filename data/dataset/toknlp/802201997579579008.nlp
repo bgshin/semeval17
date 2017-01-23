@@ -1,0 +1,13 @@
+1	Trump	trump	NN	pos2=NNP	2	nsubj	_	U-PERSON
+2	says	say	VBZ	_	0	root	_	O
+3	to	to	IN	_	2	prep	_	O
+4	#draintheswamp	#draintheswamp	VB	pos2=XX	3	pobj	_	O
+5	but	but	CC	_	2	cc	_	O
+6	fills	fill	VBZ	_	2	conj	_	O
+7	his	his	PRP$	_	8	poss	_	O
+8	cabinet	cabinet	NN	_	6	dobj	_	O
+9	with	with	IN	_	6	prep	_	O
+10	fucking	fucking	JJ	pos2=VBG	12	nmod	_	O
+11	Swamp	swamp	NNP	pos2=NN	12	compound	_	O
+12	Things	thing	NNS	pos2=NNPS	9	pobj	_	O
+

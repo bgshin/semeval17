@@ -1,0 +1,29 @@
+1	Not	not	RB	_	3	neg	_	O
+2	a	a	DT	_	3	det	_	O
+3	drop	drop	NN	_	0	root	_	O
+4	of	of	IN	_	3	prep	_	O
+5	racism	racism	NN	_	4	pobj	_	O
+6	in	in	IN	_	3	prep	_	O
+7	my	my	PRP$	_	8	poss	_	O
+8	blood	blood	NN	_	6	pobj	_	O
+9	...	..	.	pos2=,	3	punct	_	O
+
+1	U	u	NNP	pos2=SYM	2	compound	_	O
+2	R	r	NNP	pos2=VB	9	nsubjpass	_	O
+3	such	such	PDT	pos2=JJ	6	predet	_	O
+4	a	a	DT	_	6	det	_	O
+5	hypocrite.#PALESTINE	hypocrite.#palestine	JJ	pos2=NN	6	nmod	_	O
+6	CHILDREN	child	NNS	pos2=NNP	2	prep	_	O
+7	R	r	NNP	pos2=PRP	9	nsubjpass	_	O
+8	BEING	be	VBG	pos2=NNP	9	auxpass	_	O
+9	TAUGHT	teach	VBN	_	0	root	_	O
+10	2	0	CD	pos2=TO	11	nmod	_	U-CARDINAL
+11	HATE	hate	NN	pos2=ADD	9	dobj	_	O
+12	&	&	CC	_	9	cc	_	O
+13	KILL	kill	VB	pos2=NN	9	conj	_	O
+14	#JEWS	#jews	NNS	pos2=NN	13	dobj	_	O
+15	!	!	.	_	9	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/rbtUqthxwz	#hlink#	ADD	pos2=NN	0	root	_	O
+

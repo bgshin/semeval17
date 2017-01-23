@@ -1,0 +1,20 @@
+1	@iDStella	@idstella	NN	pos2=ADD	7	nsubj	_	O
+2	@Truly_Slide	@truly_slide	ADD	pos2=NN	6	nmod	_	O
+3	@VeeDub78	@veedub0	NN	pos2=GW	6	compound	_	O
+4	@IncredibleTrade	@incredibletrade	NNP	pos2=XX	5	compound	_	O
+5	Min	min	NNP	_	6	compound	_	U-PERSON
+6	wage	wage	NN	_	7	nsubj	_	O
+7	is	be	VBZ	_	0	root	_	O
+8	not	not	RB	_	7	neg	_	O
+9	inevitable	inevitable	JJ	_	7	acomp	_	O
+10	.	.	.	_	7	punct	_	O
+
+1	Basic	basic	JJ	_	2	nmod	_	O
+2	income	income	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	viable	viable	JJ	_	5	nmod	_	O
+5	alternative	alternative	NN	pos2=JJ	3	attr	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	https://t.co/j7h09q2C6p	#hlink#	ADD	_	0	root	_	U-ORG
+

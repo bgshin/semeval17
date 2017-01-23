@@ -1,0 +1,29 @@
+1	Is	be	VBZ	_	6	auxpass	_	O
+2	the	the	DT	_	5	det	_	O
+3	#American	#american	JJ	pos2=NNP	5	nmod	_	O
+4	#CriminalJustice	#criminaljustice	NNP	pos2=NN	5	compound	_	U-GPE
+5	system	system	NN	_	6	nsubjpass	_	O
+6	broken	break	VBN	pos2=JJ	0	root	_	O
+7	?	?	.	_	6	punct	_	O
+
+1	Yes	yes	UH	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	Is	be	VBZ	_	3	aux	_	O
+2	#BlackLivesMatter	#blacklivesmatter	RB	pos2=NN	3	advmod	_	O
+3	fixing	fix	VBG	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	problems	problem	NNS	_	3	dobj	_	O
+6	?	?	.	_	3	punct	_	O
+
+1	NOPE	nope	UH	pos2=NN	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	#BLM	#blm	UH	pos2=NN	3	discourse	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	inciting	incite	VBG	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	race	race	NN	_	6	compound	_	O
+6	war	war	NN	_	3	dobj	_	O
+7	.	.	.	_	3	punct	_	O
+

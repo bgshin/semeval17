@@ -1,0 +1,17 @@
+1	@suo_gan	@suo_gan	UH	pos2=NNP	5	discourse	_	O
+2	@yashar	@yashar	UH	pos2=XX	5	discourse	_	O
+3	@AdamParkhomenko	@adamparkhomenko	UH	pos2=ADD	5	discourse	_	O
+4	@Delta	@delta	UH	pos2=NNP	5	discourse	_	O
+5	riiiight	riiiight	UH	pos2=NN	0	root	_	O
+6	...	..	.	pos2=,	5	punct	_	O
+
+1	because	because	IN	_	6	mark	_	O
+2	all	all	PDT	_	5	predet	_	O
+3	those	those	DT	_	5	det	_	O
+4	anti-Trump	anti-trump	JJ	_	5	nmod	_	U-NORP
+5	riots	riot	NNS	_	6	nsubj	_	O
+6	are	be	VBP	_	0	root	_	O
+7	his	his	PRP$	_	8	poss	_	O
+8	supporters	supporter	NNS	_	6	attr	_	O
+9	.	.	.	_	6	punct	_	O
+

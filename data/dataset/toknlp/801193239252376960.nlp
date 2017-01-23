@@ -1,0 +1,16 @@
+1	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=LS	2	dep	_	O
+2	1.	0.	LS	_	3	meta	_	U-CARDINAL
+3	Spoke2	spoke0	NN	pos2=NNS	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Paris3	paris0	LS	pos2=NN	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Emily4	emily0	NN	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	PattyInvisible	pattyinvisible	JJ	pos2=NNP	2	nmod	_	O
+2	number	number	NN	_	4	nmod	_	O
+3	5.	0.	CD	pos2=LS	2	nmod	_	U-CARDINAL
+4	Richard	richard	NNP	_	0	root	_	O
+

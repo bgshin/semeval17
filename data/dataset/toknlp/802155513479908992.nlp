@@ -1,0 +1,25 @@
+1	@KristineHubbard	@kristinehubbard	ADD	pos2=VB	14	nsubj	_	O
+2	@BeckTaxi	@becktaxi	JJR	pos2=NN	3	nmod	_	O
+3	speeds	speed	NNS	_	1	dobj	_	O
+4	in	in	IN	_	1	prep	_	O
+5	an	an	DT	_	6	det	_	O
+6	alley	alley	NN	_	4	pobj	_	O
+7	near	near	IN	_	6	prep	_	O
+8	Bay	bay	NNP	_	10	nmod	_	O
+9	/	/	SYM	pos2=HYPH	10	punct	_	O
+10	queens	queens	NNP	pos2=NNS	11	compound	_	O
+11	quay	quay	NN	pos2=NNP	7	pobj	_	O
+12	,	,	,	_	14	punct	_	O
+13	almost	almost	RB	_	14	advmod	_	O
+14	hits	hit	VBZ	_	19	ccomp	_	O
+15	me	me	PRP	_	14	dobj	_	O
+16	,	,	,	_	19	punct	_	O
+17	then	then	RB	_	19	advmod	_	O
+18	driver	driver	NN	_	19	nsubj	_	O
+19	gives	give	VBZ	_	0	root	_	O
+20	me	me	PRP	_	19	dative	_	O
+21	a	a	DT	pos2=JJ	23	det	_	O
+22	finger	finger	NN	_	23	compound	_	O
+23	#greatservice	#greatservice	NN	pos2=IN	19	dobj	_	O
+24	#uber	#uber	UH	pos2=.	19	discourse	_	O
+

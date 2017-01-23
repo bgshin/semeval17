@@ -1,0 +1,9 @@
+1	Move	move	VB	pos2=NN	0	root	_	O
+2	over	over	IN	pos2=RP	1	prep	_	O
+3	Fracking	fracking	NNP	pos2=VBG	2	pobj	_	O
+4	https://t.co/3I2XZmY9iH	#hlink#	ADD	pos2=NN	8	nmod	_	O
+5	@ChecoVenier	@checovenier	-RRB-	pos2=ADD	4	punct	_	O
+6	@carloalberto	@carloalberto	UH	pos2=IN	8	discourse	_	O
+7	@PLANETHOTEL_NET	@planethotel_net	NN	pos2=ADD	8	compound	_	O
+8	@MikeTommasi	@miketommasi	NN	pos2=ADD	3	appos	_	O
+

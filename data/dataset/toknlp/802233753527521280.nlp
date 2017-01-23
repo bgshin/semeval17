@@ -1,0 +1,19 @@
+1	team	team	NN	_	0	root	_	O
+2	with	with	IN	_	1	prep	_	O
+3	lawrence	lawrence	NN	pos2=NNP	4	compound	_	O
+4	carnes	carnes	NNP	pos2=NNS	2	pobj	_	O
+5	,	,	,	_	4	punct	_	O
+6	frank	frank	JJ	pos2=NNP	7	nmod	_	O
+7	jones	jones	NNP	pos2=NNS	4	conj	_	O
+8	,	,	,	_	7	punct	_	O
+9	puss	puss	NNP	pos2=NN	11	poss	_	O
+10	n	n	POS	pos2=IN	9	case	_	O
+11	boots	boot	NNS	_	7	conj	_	O
+12	,	,	,	_	11	punct	_	O
+13	Damian	damian	NNP	_	14	compound	_	B-PERSON
+14	Bates	bates	NNP	_	11	conj	_	L-PERSON
+15	,	,	,	_	14	punct	_	O
+16	and	and	CC	_	14	cc	_	O
+17	Tim	tim	NNP	_	18	compound	_	B-PERSON
+18	duncan	duncan	NNP	pos2=NN	14	conj	_	L-PERSON
+

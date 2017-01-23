@@ -1,0 +1,23 @@
+1	Why	why	WRB	_	4	advmod	_	O
+2	did	do	VBD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	@jaketapper	@jaketapper	VB	pos2=PRP$	0	root	_	O
+5	report	report	VB	pos2=NN	4	xcomp	_	O
+6	that	that	IN	pos2=DT	14	mark	_	O
+7	mass	mass	NN	pos2=JJ	8	compound	_	O
+8	shooter	shooter	NN	_	12	compound	_	O
+9	Floyd	floyd	NNP	_	12	compound	_	B-PERSON
+10	Lee	lee	NNP	_	12	compound	_	I-PERSON
+11	Corkins	corkins	NNP	_	12	compound	_	I-PERSON
+12	II	ii	NNP	pos2=CD	14	nsubjpass	_	L-PERSON
+13	was	be	VBD	_	14	auxpass	_	O
+14	inspired	inspire	VBN	_	5	ccomp	_	O
+15	by	by	IN	_	14	agent	_	O
+16	Southern	southern	NNP	_	19	compound	_	B-ORG
+17	Poverty	poverty	NNP	_	19	compound	_	I-ORG
+18	Law	law	NNP	_	19	compound	_	I-ORG
+19	Center	center	NNP	_	15	pobj	_	L-ORG
+20	?	?	.	_	4	punct	_	O
+
+1	https://t.co/dzAPgiqcql	#hlink#	ADD	_	0	root	_	U-ORG
+

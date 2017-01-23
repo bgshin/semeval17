@@ -1,0 +1,11 @@
+1	#CROOKEdmedia	#crookedmedia	LS	pos2=NN	0	root	_	U-CARDINAL
+2	.	.	.	_	1	punct	_	O
+
+1	#DontWATCH#DontBUYLet	#dontwatch#dontbuylet	VBD	pos2=VB	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	#MOFOS	#mofos	NNS	pos2=NNPS	1	dobj	_	O
+4	#Cry.#DrainTheSwamp.#AmazonSucks	#cry.#draintheswamp.#amazonsucks	NNP	pos2=NNS	7	dep	_	O
+5	@washingtonpost	@washingtonpost	IN	pos2=GW	1	prep	_	O
+6	#FUCKbezos	#fuckbezos	ADD	pos2=GW	5	pobj	_	O
+7	https://t.co/aY3xHkAqhP	#hlink#	ADD	_	5	pobj	_	U-ORG
+

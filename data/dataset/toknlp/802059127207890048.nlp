@@ -1,0 +1,16 @@
+1	ESPN	espn	NNP	pos2=NN	7	compound	_	B-ORG
+2	First	#ord#	NNP	pos2=RB	7	compound	_	I-ORG
+3	Take	take	NNP	pos2=VB	7	compound	_	L-ORG
+4	Will	will	NNP	pos2=MD	7	compound	_	O
+5	Tony	tony	NNP	_	7	compound	_	O
+6	Romo	romo	NNP	_	7	compound	_	O
+7	Play	play	NNP	pos2=VB	13	dep	_	O
+8	For	for	IN	_	7	prep	_	O
+9	Cowboys	cowboy	NNPS	pos2=NNP	8	pobj	_	O
+10	Ever	ever	RB	_	11	advmod	_	O
+11	Again	again	RB	_	7	advmod	_	O
+12	:	:	:	_	7	punct	_	O
+13	https://t.co/qP7VVvhcyC	#hlink#	ADD	pos2=NN	0	root	_	O
+14	via	via	IN	_	13	prep	_	O
+15	@YouTube	@youtube	NNP	pos2=NN	14	pobj	_	O
+

@@ -1,0 +1,18 @@
+1	https://t.co/6HmmDIZ0qp	#hlink#	ADD	pos2=NN	3	nsubj	_	O
+2	-	-	HYPH	pos2=-RRB-	3	punct	_	O
+3	Turns	turn	VBZ	pos2=NNPS	0	root	_	O
+4	out	out	RP	pos2=PRP$	3	prt	_	O
+5	immigration	immigration	NN	_	8	nsubj	_	O
+6	does	do	VBZ	_	8	aux	_	O
+7	not	not	RB	_	8	neg	_	O
+8	harm	harm	VB	_	3	ccomp	_	O
+9	the	the	DT	_	10	det	_	O
+10	economy	economy	NN	_	8	dobj	_	O
+11	-	-	,	pos2=:	3	punct	_	O
+12	but	but	CC	_	3	cc	_	O
+13	we	we	PRP	_	14	nsubj	_	O
+14	knew	know	VBD	_	3	conj	_	O
+15	that	that	IN	pos2=DT	13	appos	_	O
+16	already	already	RB	_	14	advmod	_	O
+17	.	.	.	_	14	punct	_	O
+

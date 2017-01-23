@@ -1,0 +1,24 @@
+1	@jpus_br	@jpus_br	UH	pos2=NN	4	discourse	_	O
+2	@ricky_martin	@ricky_martin	UH	pos2=ADD	4	discourse	_	O
+3	@YouTube	@youtube	NNP	pos2=ADD	4	nsubj	_	U-CARDINAL
+4	Excellent	excellent	JJ	pos2=NNP	0	root	_	O
+5	......!......	..!..	.	pos2=NN	4	punct	_	O
+
+1	So	so	RB	_	9	advmod	_	O
+2	,	,	,	_	9	punct	_	O
+3	Lovely	lovely	RB	pos2=VB	9	advmod	_	O
+4	your	your	PRP$	_	5	poss	_	O
+5	song	song	NN	_	9	nmod	_	O
+6	#LaMordidita	#lamordidita	NNP	pos2=NN	5	appos	_	O
+7	&	&	CC	_	5	cc	_	O
+8	dancing	dancing	NN	pos2=VBG	5	conj	_	O
+9	moment	moment	NN	_	0	root	_	O
+10	......	..	.	pos2=,	9	punct	_	O
+
+1	Mr.	mr.	NNP	_	3	compound	_	O
+2	Ricky	ricky	NNP	_	3	compound	_	B-PERSON
+3	Martin	martin	NNP	_	0	root	_	L-PERSON
+4	.	.	.	_	3	punct	_	O
+
+1	:)	:)	NFP	pos2=SYM	0	root	_	O
+

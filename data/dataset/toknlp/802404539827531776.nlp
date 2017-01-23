@@ -1,0 +1,15 @@
+1	But	but	CC	_	2	dobj	_	O
+2	...	..	.	pos2=,	0	agent	_	O
+
+1	but	but	CC	_	2	dobj	_	O
+2	...	..	.	pos2=,	0	agent	_	O
+
+1	The	the	DT	_	3	det	_	B-ORG
+2	Clinton	clinton	NNP	_	3	compound	_	I-ORG
+3	Foundation	foundation	NNP	_	0	root	_	L-ORG
+4	!!!!	!!	.	_	3	punct	_	O
+
+1	#ResistTrump#PurpleRevolution	#resisttrump#purplerevolution	GW	pos2=NN	3	nmod	_	O
+2	#Midterms2018#ImpeachTrump	#midterms0#impeachtrump	GW	pos2=ADD	3	nmod	_	O
+3	https://t.co/IcnjppRyUo	#hlink#	ADD	pos2=NN	0	root	_	O
+

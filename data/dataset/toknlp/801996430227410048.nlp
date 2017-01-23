@@ -1,0 +1,27 @@
+1	@emperoryusuke	@emperoryusuke	UH	pos2=NN	5	discourse	_	O
+2	at	at	IN	_	5	prep	_	O
+3	first	#ord#	RB	_	2	pcomp	_	U-ORDINAL
+4	it	it	PRP	_	5	nsubj	_	O
+5	was	be	VBD	_	0	root	_	O
+6	yusuke	yusuke	JJ	pos2=NNP	5	acomp	_	O
+7	.	.	.	_	5	punct	_	O
+
+1	persona	persona	NN	_	3	nmod	_	O
+2	5	0	CD	_	3	nmod	_	U-CARDINAL
+3	hype	hype	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	but	but	CC	_	4	cc	_	O
+2	now	now	RB	_	4	advmod	_	O
+3	everything	everything	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	goro	goro	NN	pos2=XX	4	attr	_	O
+6	and	and	CC	_	5	cc	_	O
+7	kermit	kermit	NN	pos2=NNP	5	conj	_	O
+8	and	and	CC	_	4	cc	_	O
+9	still	still	RB	_	10	advmod	_	O
+10	yusuke	yusuke	JJ	pos2=VB	4	conj	_	O
+11	but	but	CC	_	10	cc	_	O
+12	more	more	JJR	_	10	conj	_	O
+13	memes	meme	NNS	_	10	conj	_	O
+

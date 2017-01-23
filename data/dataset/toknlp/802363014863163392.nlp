@@ -1,0 +1,16 @@
+1	Please	please	UH	_	2	discourse	_	O
+2	help	help	VB	_	0	root	_	O
+3	our	our	PRP$	_	4	poss	_	O
+4	friend	friend	NN	_	2	dobj	_	O
+5	who	who	WP	_	8	nsubjpass	_	O
+6	was	be	VBD	_	8	auxpass	_	O
+7	wrongfully	wrongfully	RB	_	8	advmod	_	O
+8	arrested	arrest	VBN	_	4	relcl	_	O
+9	during	during	IN	_	8	prep	_	O
+10	an	an	DT	_	12	det	_	O
+11	anti-Trump	anti-trump	JJ	_	12	nmod	_	U-NORP
+12	protest	protest	NN	_	9	pobj	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	https://t.co/yO1SsdnLFj	#hlink#	ADD	_	0	root	_	U-ORG
+

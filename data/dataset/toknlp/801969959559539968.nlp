@@ -1,0 +1,27 @@
+1	Hey	hey	UH	_	2	discourse	_	O
+2	#unitednations	#unitednations	UH	pos2=NNS	0	root	_	O
+3	!!	!!	.	_	2	punct	_	O
+
+1	Are	be	VBP	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	listening	listen	VBG	pos2=JJ	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+
+1	Innocent	innocent	JJ	_	2	nmod	_	O
+2	people	people	NNS	_	4	nsubj	_	O
+3	are	be	VBP	_	4	aux	_	O
+4	dying	die	VBG	_	0	root	_	O
+5	daily	daily	RB	_	4	advmod	_	O
+6	!	!	.	_	4	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	time	time	NN	_	2	attr	_	O
+4	for	for	IN	_	3	prep	_	O
+5	a	a	DT	_	7	det	_	O
+6	joint	joint	JJ	pos2=NN	7	nmod	_	O
+7	#intervention	#intervention	NN	pos2=NNP	4	pobj	_	O
+8	!	!	.	_	2	punct	_	O
+
+1	https://t.co/JpOS425sRH	#hlink#	ADD	_	0	root	_	U-ORG
+

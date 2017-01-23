@@ -1,0 +1,11 @@
+1	Good	good	JJ	_	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	see	see	VB	_	1	advcl	_	O
+4	Microsoft	microsoft	NNP	_	5	nsubj	_	U-ORG
+5	supporting	support	VBG	_	3	ccomp	_	O
+6	the	the	DT	_	9	det	_	O
+7	open	open	JJ	_	8	nmod	_	O
+8	source	source	NN	_	9	compound	_	O
+9	community	community	NN	_	5	dobj	_	O
+10	https://t.co/l86o1TiDCA	#hlink#	ADD	_	9	appos	_	O
+

@@ -1,0 +1,18 @@
+1	Steve	steve	NNP	_	2	compound	_	B-PERSON
+2	Bannon	bannon	NNP	_	4	nsubj	_	L-PERSON
+3	is	be	VBZ	_	4	aux	_	O
+4	going	go	VBG	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	start	start	VB	_	4	xcomp	_	O
+7	a	a	DT	_	8	det	_	O
+8	war	war	NN	_	6	dobj	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	Maybe	maybe	RB	_	4	advmod	_	O
+2	the	the	DT	_	4	det	_	O
+3	last	last	JJ	_	4	nmod	_	O
+4	war	war	NN	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	https://t.co/oKQlKEGnIs	#hlink#	ADD	_	0	root	_	U-ORG
+

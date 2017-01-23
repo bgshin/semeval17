@@ -1,0 +1,11 @@
+1	Ahhhh	ahhhh	UH	_	3	discourse	_	O
+2	i	I	PRP	_	3	nsubj	_	O
+3	want	want	VBP	_	0	root	_	O
+4	this	this	DT	_	5	det	_	O
+5	cake	cake	NN	_	3	dobj	_	O
+6	😍	😍	WDT	pos2=,	10	dep	_	O
+7	#bestdisneyfilm	#bestdisneyfilm	UH	pos2=PRP	10	nmod	_	O
+8	#taleasoldastime	#taleasoldastime	UH	pos2=GW	10	nmod	_	O
+9	#BeautyAndTheBeast	#beautyandthebeast	ADD	pos2=VBD	10	punct	_	O
+10	https://t.co/3tbQOM0iah	#hlink#	ADD	_	5	appos	_	O
+

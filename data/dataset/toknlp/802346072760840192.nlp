@@ -1,0 +1,27 @@
+1	@nytimes	@nytimes	UH	pos2=NNS	5	discourse	_	O
+2	where	where	WRB	_	5	advmod	_	O
+3	did	do	VBD	_	5	aux	_	O
+4	Floridians	floridian	NNPS	pos2=NNS	5	nsubj	_	U-NORP
+5	think	think	VB	pos2=VBP	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	cash	cash	NN	_	10	nsubj	_	O
+8	for	for	IN	_	7	prep	_	O
+9	Obamacare	obamacare	NNP	_	8	pobj	_	U-PERSON
+10	came	come	VBD	_	5	ccomp	_	O
+11	from	from	IN	pos2=RB	10	prep	_	O
+12	;	;	,	pos2=:	15	punct	_	O
+13	Do	do	VBP	pos2=VB	11	pobj	_	O
+14	they	they	PRP	_	19	nsubj	_	O
+15	or	or	CC	_	13	cc	_	O
+16	rather	rather	RB	_	19	advmod	_	O
+17	did	do	VBD	_	19	aux	_	O
+18	they	they	PRP	_	19	nsubj	_	O
+19	have	have	VB	pos2=VBP	13	conj	_	O
+20	Medicare	medicare	NNP	pos2=NN	19	dobj	_	U-ORG
+21	or	or	CC	_	20	cc	_	O
+22	Medicaid	medicaid	NNP	_	20	conj	_	U-ORG
+23	before	before	IN	_	19	prep	_	O
+24	the	the	DT	_	25	det	_	O
+25	FRAUD	fraud	NN	pos2=NNP	23	pobj	_	O
+26	?	?	.	_	19	punct	_	O
+

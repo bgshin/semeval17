@@ -1,0 +1,29 @@
+1	@ylildedlig	@ylildedlig	UH	pos2=``	16	discourse	_	O
+2	After	after	IN	_	16	prep	_	O
+3	the	the	DT	_	9	det	_	O
+4	"	"	``	_	7	punct	_	O
+5	Cuba	cuba	NNP	_	7	compound	_	U-GPE
+6	embargo	embargo	NN	pos2=NNP	7	compound	_	O
+7	break	break	NN	pos2=VB	9	nmod	_	O
+8	"	"	''	pos2=``	9	punct	_	O
+9	lawsuit	lawsuit	NN	_	2	pobj	_	O
+10	,	,	,	_	7	punct	_	O
+11	and	and	CC	_	7	cc	_	O
+12	"	"	``	_	16	punct	_	O
+13	whatever	whatever	WDT	_	14	det	_	O
+14	stuff	stuff	NN	_	16	nsubj	_	O
+15	might	might	MD	pos2=NN	16	aux	_	O
+16	came	come	VBD	pos2=VB	0	root	_	O
+17	up	up	RP	pos2=RB	16	prt	_	O
+18	at	at	IN	_	16	prep	_	O
+19	his	his	PRP$	_	21	poss	_	O
+20	tax	tax	NN	_	21	compound	_	O
+21	audit	audit	NN	_	18	pobj	_	O
+22	"	"	''	_	23	punct	_	O
+23	lawsuit	lawsuit	NN	_	16	npadvmod	_	O
+24	...	..	.	pos2=,	16	punct	_	O
+
+1	you	you	PRP	_	2	nsubj	_	O
+2	mean	mean	VB	pos2=VBP	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+

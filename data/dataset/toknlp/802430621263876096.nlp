@@ -1,0 +1,21 @@
+1	@politico	@politico	UH	pos2=XX	2	discourse	_	O
+2	@realDonaldTrump	@realdonaldtrump	VB	pos2=UH	0	root	_	O
+3	@POLITICOMag	@politicomag	IN	pos2=ADD	2	prep	_	O
+4	You	you	PRP	_	5	nmod	_	O
+5	guys	guy	NNS	_	9	nsubj	_	O
+6	can	can	MD	_	9	aux	_	O
+7	literally	literally	RB	_	9	advmod	_	O
+8	only	only	RB	_	9	advmod	_	O
+9	post	post	VB	pos2=IN	2	conj	_	O
+10	negative	negative	JJ	_	11	nmod	_	O
+11	things	thing	NNS	_	9	dobj	_	O
+12	about	about	IN	_	11	prep	_	O
+13	him	him	PRP	_	12	pobj	_	O
+14	.	.	.	_	9	punct	_	O
+
+1	Oh	oh	UH	_	4	discourse	_	O
+2	such	such	JJ	pos2=DT	4	advmod	_	O
+3	open	open	JJ	_	4	advmod	_	O
+4	minded	minded	JJ	pos2=VBD	0	root	_	O
+5	liberals🙃	liberals🙃	.	pos2=NN	4	punct	_	O
+

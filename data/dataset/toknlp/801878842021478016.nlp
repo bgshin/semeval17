@@ -1,0 +1,13 @@
+1	Graphic	graphic	NN	pos2=JJ	12	dep	_	O
+2	:	:	:	_	12	punct	_	O
+3	All	all	DT	pos2=NNP	12	nsubj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	Messi	messi	NNP	_	8	poss	_	U-PERSON
+6	's	's	POS	_	5	case	_	O
+7	good	good	JJ	_	8	nmod	_	O
+8	passes	pass	NNS	pos2=VBZ	4	pobj	_	O
+9	against	against	IN	_	8	prep	_	O
+10	Celtic	celtic	JJ	pos2=NNP	11	nmod	_	U-NORP
+11	#fcblive	#fcblive	NN	pos2=IN	9	pobj	_	O
+12	https://t.co/tOdulkcYLd	#hlink#	ADD	pos2=NN	0	root	_	O
+

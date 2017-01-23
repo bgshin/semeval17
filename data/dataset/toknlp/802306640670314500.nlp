@@ -1,0 +1,9 @@
+1	#ThankYouObama	#thankyouobama	LS	pos2=NN	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	You	you	PRP	_	4	nsubjpass	_	O
+2	'll	will	MD	_	4	aux	_	O
+3	be	be	VB	_	4	auxpass	_	O
+4	missed	miss	VBN	_	0	root	_	O
+5	https://t.co/mtf24ssFu9	#hlink#	ADD	_	4	dobj	_	U-ORG
+

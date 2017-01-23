@@ -1,0 +1,17 @@
+1	#payforplay	#payforplay	NN	pos2=UH	2	nsubj	_	O
+2	begins	begin	VBZ	_	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	earnest	earnest	JJ	pos2=NN	3	pobj	_	O
+5	!	!	.	_	2	punct	_	O
+
+1	https://t.co/mpByOq1Hza	#hlink#	ADD	_	0	root	_	O
+2	#maga	#maga	-RRB-	pos2=UH	1	punct	_	O
+3	and	and	CC	_	1	cc	_	O
+4	you	you	PRP	pos2=PRP$	5	nmod	_	O
+5	suckers	sucker	NNS	_	6	nsubj	_	O
+6	thought	think	VBD	_	1	conj	_	O
+7	Clinton	clinton	NNP	_	8	nsubj	_	U-PERSON
+8	was	be	VBD	_	6	ccomp	_	O
+9	bad	bad	JJ	_	8	acomp	_	O
+10	?	?	.	_	6	punct	_	O
+

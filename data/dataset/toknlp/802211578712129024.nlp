@@ -1,0 +1,28 @@
+1	@BNEdenPrairie	@bnedenprairie	UH	pos2=ADD	5	discourse	_	O
+2	@megynkelly	@megynkelly	UH	pos2=``	5	discourse	_	O
+3	Do	do	VB	pos2=VBP	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	waste	waste	VB	_	0	root	_	O
+6	your	your	PRP$	_	7	poss	_	O
+7	time	time	NN	_	5	dobj	_	O
+8	and	and	CC	_	7	cc	_	O
+9	money	money	NN	_	7	conj	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	Better	good	JJR	pos2=RBR	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	buy	buy	VB	_	1	advcl	_	O
+4	some	some	DT	_	6	det	_	O
+5	toilet	toilet	NN	_	6	compound	_	O
+6	cleaner	cleaner	NN	pos2=JJR	3	dobj	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	Stop	stop	VB	_	0	root	_	O
+2	allowing	allow	VBG	_	1	xcomp	_	O
+3	her	her	PRP	_	5	nsubj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	push	push	VB	_	2	ccomp	_	O
+6	her	her	PRP$	pos2=PRP	8	poss	_	O
+7	political	political	JJ	_	8	nmod	_	O
+8	BS	bs	NN	_	5	dobj	_	O
+

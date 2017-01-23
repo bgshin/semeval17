@@ -1,0 +1,21 @@
+1	Republic	republic	JJ	pos2=NNP	2	nmod	_	O
+2	form	form	NN	_	5	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	Govt	govt	NN	pos2=NNP	3	pobj	_	U-ORG
+5	is	be	VBZ	_	11	ccomp	_	O
+6	fairest	fairest	NN	pos2=RBS	7	compound	_	O
+7	system:Goal	system:goal	NNP	pos2=NN	5	attr	_	U-PERSON
+8	of	of	IN	_	7	prep	_	O
+9	#SorosRiots	#sorosriots	NNS	pos2=NNPS	8	pobj	_	O
+10	–	-	:	pos2=HYPH	11	punct	_	O
+11	Eliminate	eliminate	VB	pos2=NNP	0	root	_	B-ORG
+12	Electoral	electoral	NNP	_	13	compound	_	I-ORG
+13	College	college	NNP	_	11	dobj	_	I-ORG
+14	&	&	CC	_	13	cc	_	I-ORG
+15	Constitution	constitution	NNP	_	16	compound	_	I-ORG
+16	Part	part	NNP	pos2=NN	13	conj	_	L-ORG
+17	(	(	-LRB-	_	18	punct	_	O
+18	2of2	0of0	NN	pos2=GW	16	appos	_	O
+19	)	)	-RRB-	_	18	punct	_	O
+20	https://t.co/ODTTsX3KHK	#hlink#	ADD	pos2=NN	11	dobj	_	O
+

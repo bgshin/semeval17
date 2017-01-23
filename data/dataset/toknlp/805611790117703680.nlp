@@ -1,0 +1,20 @@
+1	Pope	pope	NNP	_	2	compound	_	O
+2	Francis	francis	NNP	_	0	root	_	U-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	climate	climate	NN	_	5	compound	_	O
+5	politics	politics	NNS	pos2=NN	2	conj	_	O
+6	:	:	:	_	2	punct	_	O
+7	...	..	.	pos2=,	2	punct	_	O
+
+1	sought	seek	VBN	_	11	dep	_	O
+2	by	by	IN	_	1	agent	_	O
+3	renewable	renewable	JJ	_	5	nmod	_	O
+4	energy	energy	NN	_	5	compound	_	O
+5	corporations	corporation	NNS	_	2	pobj	_	O
+6	like	like	IN	_	5	prep	_	O
+7	wind	wind	NN	pos2=GW	6	pobj	_	O
+8	…	…	NFP	pos2=-LRB-	11	punct	_	O
+9	https://t.co/fCsQheDTzN	#hlink#	ADD	pos2=NN	11	nmod	_	O
+10	#	#	NN	pos2=-LRB-	11	dep	_	O
+11	fdecausans.free.fr	#hlink#	ADD	pos2=NN	0	root	_	U-MONEY
+

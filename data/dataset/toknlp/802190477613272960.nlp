@@ -1,0 +1,16 @@
+1	#Lebanese	#lebanese	DT	pos2=JJ	2	det	_	O
+2	army	army	NN	_	3	nsubj	_	O
+3	halts	halt	VBZ	_	0	root	_	O
+4	construction	construction	NN	_	3	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	wall	wall	NN	_	5	pobj	_	O
+7	around	around	IN	pos2=RB	4	prep	_	O
+8	#Palestinian	#palestinian	NNP	pos2=JJ	9	compound	_	O
+9	camp	camp	NN	_	7	pobj	_	O
+10	https://t.co/CypkJWPRFh	#hlink#	ADD	pos2=NNP	15	dep	_	O
+11	#FreePalestine	#freepalestine	ADD	pos2=-RRB-	15	dep	_	O
+12	#Palestine	#palestine	NNP	pos2=PRP	11	pobj	_	O
+13	#CNN	#cnn	ADD	pos2=NNP	15	dep	_	O
+14	#BBC	#bbc	NN	pos2=ADD	13	pobj	_	O
+15	#FoxNews	#foxnews	ADD	pos2=NNS	3	punct	_	U-ORG
+

@@ -1,0 +1,28 @@
+1	i	I	PRP	_	2	nsubj	_	O
+2	guess	guess	VBP	_	0	root	_	O
+3	ima	ima	NN	pos2=PRP	4	nsubj	_	O
+4	have	have	VBP	pos2=VB	2	ccomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	have	have	VB	_	4	xcomp	_	O
+7	my	my	PRP$	_	8	poss	_	O
+8	mom	mom	NN	_	9	nsubj	_	O
+9	keep	keep	VB	pos2=VBP	6	ccomp	_	O
+10	buying	buy	VBG	_	9	xcomp	_	O
+11	me	me	PRP	_	10	dative	_	O
+12	big	big	JJ	_	13	nmod	_	O
+13	ass	ass	NN	_	14	nsubj	_	O
+14	bears	bear	VBZ	pos2=NNS	10	dobj	_	O
+15	for	for	IN	_	14	prep	_	O
+16	valentines	valentine	NNS	_	15	pobj	_	O
+17	and	and	CC	_	16	cc	_	O
+18	christmas	christmas	NNS	pos2=NNP	16	conj	_	U-DATE
+19	now	now	RB	_	14	advmod	_	O
+20	since	since	IN	_	22	mark	_	O
+21	trey	trey	NNP	pos2=NN	22	nsubj	_	U-PERSON
+22	's	's	VBZ	_	14	advcl	_	O
+23	not	not	RB	_	22	neg	_	O
+24	here	here	RB	_	22	advmod	_	O
+25	..	..	.	pos2=,	2	punct	_	O
+
+1	😓	😓	SYM	pos2=NFP	0	root	_	U-ORG
+

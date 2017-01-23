@@ -1,0 +1,37 @@
+1	Quando	quando	NNP	pos2=UH	2	compound	_	B-PERSON
+2	Rebecca	rebecca	NNP	_	3	compound	_	L-PERSON
+3	dice	dice	NN	pos2=NNP	7	nsubj	_	O
+4	"	"	``	pos2=''	6	punct	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	’m	be	VBP	_	0	root	_	O
+7	thankful	thankful	JJ	_	6	acomp	_	O
+8	for	for	IN	_	7	prep	_	O
+9	my	my	PRP$	_	10	poss	_	O
+10	family	family	NN	_	8	pobj	_	O
+11	.	.	.	_	6	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	’m	be	VBP	_	0	root	_	O
+3	thankful	thankful	JJ	_	2	acomp	_	O
+4	we	we	PRP	_	5	nsubj	_	O
+5	’re	be	VBP	_	3	ccomp	_	O
+6	all	all	DT	pos2=RB	5	dep	_	O
+7	safe	safe	JJ	_	5	acomp	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	And	and	CC	_	3	cc	_	O
+2	there	there	EX	_	3	expl	_	O
+3	’s	's	VBZ	_	0	root	_	O
+4	no	no	DT	_	5	det	_	O
+5	one	#crd#	NN	_	3	attr	_	O
+6	in	in	IN	_	5	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	whole	whole	JJ	_	9	nmod	_	O
+9	world	world	NN	_	6	pobj	_	O
+10	...	..	.	pos2=,	3	punct	_	O
+11	"	"	''	_	3	punct	_	O
+
+1	LE	le	NN	pos2=NNP	2	compound	_	O
+2	LACRIME	lacrime	NN	pos2=NNP	3	dep	_	O
+3	#Thisisus	#thisisus	FW	pos2=NNP	0	root	_	O
+

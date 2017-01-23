@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det	_	O
+2	Nazi	nazi	NNP	_	5	nsubj	_	U-NORP
+3	's	's	POS	pos2=NNP	2	case	_	O
+4	would	would	MD	_	5	aux	_	O
+5	approve	approve	VB	_	0	root	_	O
+6	of	of	IN	_	5	prep	_	O
+7	what	what	WP	_	9	nsubj	_	O
+8	is	be	VBZ	_	9	aux	_	O
+9	occurring	occur	VBG	_	6	pcomp	_	O
+10	in	in	IN	_	9	prep	_	O
+11	the	the	DT	_	13	det	_	O
+12	modern	modern	JJ	pos2=FW	13	nmod	_	O
+13	Europe	europe	NNP	_	10	pobj	_	U-LOC
+14	.	.	.	_	5	punct	_	O
+
+1	No	no	RB	pos2=DT	2	neg	_	O
+2	doubt	doubt	NN	pos2=JJ	3	compound	_	O
+3	choice	choice	NN	_	7	nsubjpass	_	O
+4	will	will	MD	_	7	aux	_	O
+5	eventually	eventually	RB	_	7	advmod	_	O
+6	be	be	VB	_	7	auxpass	_	O
+7	removed	remove	VBN	_	0	root	_	O
+8	.	.	.	_	7	punct	_	O
+
+1	https://t.co/5DmXsiwX92	#hlink#	ADD	_	0	root	_	U-ORG
+

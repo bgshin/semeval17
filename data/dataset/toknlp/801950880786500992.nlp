@@ -1,0 +1,26 @@
+1	#Iran	#iran	NNP	pos2=NN	3	poss	_	U-GPE
+2	's	's	POS	_	1	case	_	O
+3	regime	regime	NN	_	4	nsubj	_	O
+4	wants	want	VBZ	_	0	root	_	O
+5	terrorist	terrorist	JJ	pos2=NN	6	nmod	_	O
+6	#Hezbollah	#hezbollah	NNP	pos2=NNS	9	nsubjpass	_	U-GPE
+7	to	to	TO	_	9	aux	_	O
+8	be	be	VB	_	9	auxpass	_	O
+9	seen	see	VBN	_	4	ccomp	_	O
+10	as	as	IN	_	9	prep	_	O
+11	a	a	DT	_	13	det	_	O
+12	legit	legit	JJ	_	13	nmod	_	O
+13	army	army	NN	_	10	pobj	_	O
+14	.	.	.	_	4	punct	_	O
+
+1	Russia	russia	NNP	pos2=NN	3	nsubj	_	U-GPE
+2	is	be	VBZ	_	3	aux	_	O
+3	help'g	help'g	VBG	_	0	root	_	O
+4	them	them	PRP	_	3	dobj	_	O
+5	w	w	IN	pos2=JJ	3	prep	_	O
+6	propaganda	propaganda	NN	_	5	pobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	@DovLi	@dovli	ADD	pos2=NNS	2	punct	_	O
+2	eberhttps://t.co/SWMgq340Ku	#hlink#	ADD	_	0	root	_	O
+

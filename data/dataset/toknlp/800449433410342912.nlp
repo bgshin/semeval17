@@ -1,0 +1,15 @@
+1	Do	do	VB	pos2=VBP	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	mess	mess	VB	_	0	root	_	O
+4	with	with	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	D	d	NN	pos2=NNP	4	pobj	_	O
+7	!	!	.	_	3	punct	_	O
+
+1	https://t.co/f908BcY0XL	#hlink#	ADD	_	0	root	_	O
+2	#Bridgegate	#bridgegate	ADD	pos2=-RRB-	6	punct	_	O
+3	#PresidentTrump	#presidenttrump	ADD	pos2=NN	0	root	_	O
+4	#MAGA	#maga	NN	pos2=ADD	3	pobj	_	O
+5	#TrumpTransitionTeam	#trumptransitionteam	ADD	pos2=XX	0	root	_	O
+6	#TrumpsArmy	#trumpsarmy	ADD	pos2=NN	5	pobj	_	O
+

@@ -1,0 +1,22 @@
+1	Racist	racist	JJ	_	2	nmod	_	O
+2	followers	follower	NNS	_	0	root	_	O
+3	too	too	RB	_	2	advmod	_	O
+4	..	..	.	pos2=,	2	punct	_	O
+
+1	Someone	someone	NN	_	2	nsubj	_	O
+2	tell	tell	VB	pos2=MD	0	root	_	O
+3	'm	be	VBP	pos2=PRP	0	root	_	O
+4	that	that	IN	pos2=DT	12	mark	_	O
+5	#Hezbollah	#hezbollah	NNP	pos2=NN	12	nsubj	_	O
+6	(	(	-LRB-	_	3	punct	_	O
+7	muslim	muslim	JJ	pos2=NN	9	nmod	_	U-NORP
+8	resistance	resistance	NN	_	9	compound	_	O
+9	group	group	NN	_	5	appos	_	O
+10	)	)	-RRB-	_	5	punct	_	O
+11	is	be	VBZ	_	12	aux	_	O
+12	fighting	fight	VBG	pos2=NN	3	ccomp	_	O
+13	#whitehelmets	#whitehelmets	NNS	pos2=RB	12	dobj	_	O
+14	in	in	IN	_	12	prep	_	O
+15	#Aleppo	#aleppo	NNP	pos2=-LRB-	14	pobj	_	U-GPE
+16	https://t.co/dGJJTKdctI	#hlink#	ADD	_	15	appos	_	O
+

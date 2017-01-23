@@ -1,0 +1,22 @@
+1	The	the	DT	_	9	det	_	O
+2	all	all	RB	pos2=DT	4	advmod	_	O
+3	-	-	HYPH	_	4	punct	_	O
+4	new	new	JJ	_	9	nmod	_	O
+5	America	america	NNP	_	9	poss	_	U-GPE
+6	's	's	POS	_	5	case	_	O
+7	Next	next	NNP	pos2=JJ	9	compound	_	B-ORG
+8	Top	top	NNP	pos2=JJ	9	compound	_	I-ORG
+9	Model	model	NNP	pos2=NN	11	nmod	_	L-ORG
+10	judging	judge	VBG	pos2=NN	11	nmod	_	O
+11	panel	panel	NN	_	14	nsubjpass	_	O
+12	has	have	VBZ	_	14	aux	_	O
+13	been	be	VBN	_	14	auxpass	_	O
+14	revealed	reveal	VBN	_	0	root	_	O
+15	,	,	,	_	14	punct	_	O
+16	and	and	CC	_	14	cc	_	O
+17	we	we	PRP	_	18	nsubj	_	O
+18	're	be	VBP	_	14	conj	_	O
+19	excited	excited	JJ	_	18	acomp	_	O
+20	https://t.co/ZkcTlD4KJn	#hlink#	ADD	_	21	nmod	_	O
+21	https://t.co/V5nk9M5lGO	#hlink#	ADD	_	18	dep	_	U-ORG
+

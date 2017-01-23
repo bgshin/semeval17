@@ -1,0 +1,16 @@
+1	#Microsoft	#microsoft	NNP	pos2=WP	2	nsubj	_	U-ORG
+2	Joins	join	VBZ	_	0	root	_	O
+3	The	the	DT	pos2=NNP	5	det	_	B-ORG
+4	Linux	linux	NNP	_	5	compound	_	I-ORG
+5	Foundation	foundation	NNP	_	2	dobj	_	L-ORG
+6	as	as	IN	_	2	prep	_	O
+7	a	a	DT	_	9	det	_	O
+8	Platinum	platinum	NNP	pos2=NN	9	compound	_	O
+9	Member	member	NNP	pos2=NN	6	pobj	_	O
+10	https://t.co/oLoyHYW5pC	#hlink#	ADD	_	6	pobj	_	O
+11	via	via	IN	_	2	prep	_	O
+12	multiple	multiple	JJ	_	14	nmod	_	O
+13	search	search	NN	_	14	compound	_	O
+14	engine	engine	NN	_	11	pobj	_	O
+15	https://t.co/MalfysCoYr	#hlink#	ADD	pos2=NN	11	pobj	_	O
+

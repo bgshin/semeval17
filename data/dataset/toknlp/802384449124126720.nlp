@@ -1,0 +1,20 @@
+1	@CNNPolitics	@cnnpolitics	NNS	pos2=UH	4	punct	_	O
+2	No	no	UH	pos2=DT	4	discourse	_	O
+3	she	she	PRP	_	4	nsubj	_	O
+4	said	say	VBD	_	0	root	_	O
+5	"	"	``	_	4	punct	_	O
+6	white	white	JJ	_	7	nmod	_	O
+7	people	people	NNS	_	11	nsubj	_	O
+8	should	should	MD	_	11	aux	_	O
+9	n't	not	RB	_	11	neg	_	O
+10	be	be	VB	_	11	aux	_	O
+11	running	run	VBG	_	4	ccomp	_	O
+12	it	it	PRP	_	11	dobj	_	O
+13	"	"	``	pos2=''	11	punct	_	O
+14	but	but	CC	_	11	cc	_	O
+15	same	same	JJ	_	16	nmod	_	O
+16	thing	thing	NN	_	11	conj	_	O
+17	to	to	IN	pos2=TO	16	prep	_	O
+18	dems	dems	NNS	pos2=VB	17	pobj	_	O
+19	.	.	.	_	4	punct	_	O
+

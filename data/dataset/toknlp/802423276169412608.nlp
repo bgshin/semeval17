@@ -1,0 +1,17 @@
+1	3	0	CD	_	3	nmod	_	U-CARDINAL
+2	D	d	NN	pos2=JJ	3	compound	_	O
+3	printing	printing	NN	pos2=VBG	0	root	_	O
+4	at	at	IN	_	3	prep	_	O
+5	#BuzzConf	#buzzconf	NNP	pos2=ADD	4	pobj	_	U-ORG
+6	.	.	.	_	3	punct	_	O
+
+1	Got	get	VBD	_	0	root	_	O
+2	some	some	DT	_	3	qmod	_	O
+3	3	0	CD	_	4	nmod	_	U-CARDINAL
+4	D	d	NNS	pos2=NN	5	nsubj	_	O
+5	printed	print	VBN	pos2=VBD	1	ccomp	_	O
+6	Squirtels	squirtels	NNP	pos2=NNS	5	dobj	_	U-ORG
+7	for	for	IN	_	5	prep	_	O
+8	Jordan	jordan	NNP	_	7	pobj	_	O
+9	https://t.co/ZD7IF5wZ7E	#hlink#	ADD	pos2=NNP	8	appos	_	O
+

@@ -1,0 +1,22 @@
+1	@TomiLahren	@tomilahren	NN	pos2=NNS	21	dep	_	O
+2	for	for	IN	_	1	prep	_	O
+3	al	al	PDT	pos2=NNP	5	predet	_	O
+4	the	the	DT	_	5	det	_	O
+5	crying	cry	NN	pos2=VBG	2	pobj	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	do	do	VBP	_	5	relcl	_	O
+8	about	about	IN	_	7	prep	_	O
+9	how	how	WRB	_	10	advmod	_	O
+10	middle	middle	JJ	pos2=NNP	21	dep	_	O
+11	America	america	NNP	_	13	nsubjpass	_	U-GPE
+12	is	be	VBZ	_	13	auxpass	_	O
+13	left	leave	VBN	pos2=JJ	8	pcomp	_	O
+14	out-they	out-they	PRP	pos2=NN	21	punct	_	O
+15	have	have	VB	pos2=VBP	21	dep	_	O
+16	twice	twice	RB	pos2=PDT	18	advmod	_	O
+17	as	as	RB	_	18	advmod	_	O
+18	much	much	JJ	pos2=RB	20	nmod	_	O
+19	voting	voting	NN	pos2=VBG	20	compound	_	O
+20	power	power	NN	_	15	dobj	_	O
+21	https://t.co/hFbhwjeZN7	#hlink#	ADD	pos2=NN	0	root	_	O
+

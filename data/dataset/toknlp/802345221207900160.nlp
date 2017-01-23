@@ -1,0 +1,29 @@
+1	Trump	trump	NNP	pos2=NN	3	nsubj	_	O
+2	Himself	himself	PRP	pos2=NNP	1	appos	_	O
+3	Is	be	VBZ	_	0	root	_	O
+4	A	a	DT	_	5	det	_	O
+5	Conflict	conflict	NN	_	3	attr	_	O
+6	Of	of	IN	_	5	prep	_	O
+7	Interest	interest	RB	pos2=NNP	6	pobj	_	O
+8	&	&	CC	_	7	cc	_	O
+9	Not	not	RB	_	11	neg	_	O
+10	Just	just	RB	_	12	advmod	_	O
+11	His	his	PRP$	_	12	poss	_	O
+12	Business	business	NN	pos2=NNP	7	conj	_	O
+13	.	.	.	_	3	punct	_	O
+
+1	Trump	trump	NN	pos2=NNP	13	nsubj	_	U-ORG
+2	's	's	POS	pos2=VBZ	1	case	_	O
+3	On	on	IN	_	1	prep	_	O
+4	A	a	DT	pos2=NNP	5	det	_	O
+5	Honeymoon	honeymoon	NNP	pos2=NN	3	pobj	_	O
+6	Now	now	RB	pos2=NNP	7	advmod	_	O
+7	With	with	IN	_	1	prep	_	O
+8	His	his	PRP$	_	10	poss	_	O
+9	Transition	transition	NNP	pos2=NN	10	compound	_	O
+10	Team	team	NNP	pos2=NN	7	pobj	_	O
+11	&	&	CC	_	10	cc	_	O
+12	Everything	everything	NNP	pos2=NN	10	conj	_	O
+13	Looks	look	VBZ	pos2=NNP	0	root	_	O
+14	Rosy	rosy	JJ	pos2=NNP	13	acomp	_	O
+

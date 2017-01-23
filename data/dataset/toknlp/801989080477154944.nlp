@@ -1,0 +1,13 @@
+1	#ArianaGrande	#arianagrande	NNP	pos2=VB	2	compound	_	B-PERSON
+2	Ari	ari	NNP	_	9	dep	_	L-PERSON
+3	By	by	IN	pos2=NNP	2	prep	_	O
+4	Ariana	ariana	NNP	_	5	compound	_	B-ORG
+5	Grande	grande	NNP	_	3	pobj	_	L-ORG
+6	80	0	CD	_	7	nmod	_	B-PERCENT
+7	%	%	NN	_	9	dep	_	L-PERCENT
+8	Full	full	JJ	_	9	nmod	_	O
+9	https://t.co/ylhCMETHHW	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+10	#Singer	#singer	-RRB-	pos2=GW	9	punct	_	O
+11	#Actress	#actress	ADD	pos2=-LRB-	10	pobj	_	O
+12	https://t.co/lTrb1JQiEA	#hlink#	ADD	_	11	root	_	O
+

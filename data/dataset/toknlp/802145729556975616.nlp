@@ -1,0 +1,10 @@
+1	Twitter	twitter	NNP	_	3	poss	_	U-ORG
+2	's	's	POS	pos2=VBZ	1	case	_	O
+3	#ThankYouObama	#thankyouobama	NN	pos2=NNP	4	nsubj	_	O
+4	Shows	show	VBZ	pos2=NNP	0	root	_	O
+5	Heartfelt	heartfelt	JJ	pos2=NNP	6	nmod	_	O
+6	Gratitude	gratitude	NN	pos2=NNP	4	dobj	_	O
+7	To	to	IN	_	6	prep	_	O
+8	POTUS	potus	NNP	pos2=NN	7	pobj	_	O
+9	https://t.co/ZfcJpQMLrx	#hlink#	ADD	pos2=NN	7	pobj	_	O
+

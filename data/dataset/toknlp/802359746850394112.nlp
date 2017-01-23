@@ -1,0 +1,22 @@
+1	Finally	finally	RB	_	2	advmod	_	O
+2	watching	watch	VBG	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	BET	bet	NNP	pos2=NN	5	compound	_	O
+5	Love	love	NNP	_	2	dobj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	Happiness	happiness	NNP	pos2=NN	8	compound	_	O
+8	Concert	concert	NNP	pos2=NN	5	conj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	#ThankYouObama	#thankyouobama	NNP	pos2=ADD	8	conj	_	U-ORG
+11	for	for	IN	_	2	prep	_	O
+12	reminding	remind	VBG	_	11	pcomp	_	O
+13	me	me	PRP	_	12	dobj	_	O
+14	that	that	IN	pos2=WDT	16	mark	_	O
+15	I	I	PRP	_	16	nsubj	_	O
+16	need	need	VBP	_	12	ccomp	_	O
+17	another	another	DT	_	21	det	_	O
+18	Yolanda	yolanda	NNP	_	19	compound	_	B-PERSON
+19	Adams	adams	NNP	_	21	compound	_	L-PERSON
+20	gospel	gospel	NN	pos2=JJ	21	compound	_	O
+21	album	album	NN	_	16	dobj	_	O
+

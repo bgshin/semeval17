@@ -1,0 +1,30 @@
+1	@BWLogan	@bwlogan	NN	pos2=NNP	0	root	_	O
+2	regarding	regard	VBG	_	1	prep	_	O
+3	article	article	NN	_	2	pobj	_	O
+4	on	on	IN	_	3	prep	_	O
+5	Obama	obama	NNP	_	6	compound	_	B-PERSON
+6	Admin	admin	NNP	pos2=NN	4	pobj	_	L-PERSON
+7	.	.	.	_	1	punct	_	O
+
+1	View	view	NN	pos2=VB	0	root	_	O
+2	on	on	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	recount	recount	NN	_	2	pobj	_	O
+5	:	:	:	_	1	punct	_	O
+6	the	the	DT	_	8	det	_	O
+7	election	election	NN	_	8	compound	_	O
+8	result	result	NN	pos2=VBP	10	nsubj	_	O
+9	not	not	RB	_	4	neg	_	O
+10	the	the	DT	_	11	det	_	O
+11	will	will	NN	_	9	det	_	O
+12	of	of	IN	_	11	prep	_	O
+13	the	the	DT	_	15	det	_	O
+14	American	american	JJ	_	15	nmod	_	U-NORP
+15	people	people	NNS	_	12	pobj	_	O
+16	;	;	,	pos2=:	20	punct	_	O
+17	only	only	RB	_	18	advmod	_	O
+18	of	of	IN	_	15	prep	_	O
+19	a	a	DT	_	20	det	_	O
+20	fraction	fraction	NN	_	18	pobj	_	O
+21	.	.	.	_	1	punct	_	O
+

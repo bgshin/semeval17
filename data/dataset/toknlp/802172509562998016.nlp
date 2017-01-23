@@ -1,0 +1,19 @@
+1	Will	will	MD	_	2	aux	_	O
+2	#TheWalkingDead	#thewalkingdead	VB	pos2=EX	5	poss	_	O
+3	’s	's	POS	pos2=VBZ	2	case	_	O
+4	Daryl	daryl	NNP	_	5	compound	_	B-PERSON
+5	Dixon	dixon	NNP	_	6	nsubj	_	L-PERSON
+6	make	make	VB	pos2=VBP	0	root	_	O
+7	it	it	PRP	_	6	dobj	_	O
+8	to	to	IN	_	6	prep	_	O
+9	Season	season	VB	pos2=NNP	8	pobj	_	O
+10	8	0	CD	_	9	dobj	_	U-CARDINAL
+11	?	?	.	_	6	punct	_	O
+
+1	#TWD	#twd	NN	pos2=SYM	2	compound	_	O
+2	@WalkingDead_AMC	@walkingdead_amc	NNS	pos2=NN	6	dep	_	O
+3	--	--	:	pos2=.	2	punct	_	O
+4	>	>	NFP	pos2=-LRB-	6	punct	_	O
+5	https://t.co/27DAyMnWT7	#hlink#	ADD	_	6	nmod	_	O
+6	https://t.co/5ZdaE09GK8	#hlink#	ADD	_	0	root	_	U-ORG
+

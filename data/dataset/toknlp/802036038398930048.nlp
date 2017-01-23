@@ -1,0 +1,7 @@
+1	David	david	NNP	_	2	compound	_	B-PERSON
+2	Blaine	blaine	NNP	_	3	nsubj	_	L-PERSON
+3	be	be	VB	_	0	root	_	O
+4	my	my	PRP$	_	5	poss	_	O
+5	bf	bf	NN	pos2=NNS	3	attr	_	O
+6	ok	ok	UH	pos2=JJ	3	discourse	_	O
+

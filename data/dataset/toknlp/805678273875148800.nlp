@@ -1,0 +1,29 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	hope	hope	VBP	_	0	root	_	O
+3	one	#crd#	CD	_	4	nmod	_	U-CARDINAL
+4	day	day	NN	_	9	npadvmod	_	O
+5	we	we	PRP	_	9	nsubj	_	O
+6	wo	wo	MD	_	9	aux	_	O
+7	n't	not	RB	_	9	neg	_	O
+8	even	even	RB	_	9	advmod	_	O
+9	need	need	VB	_	2	ccomp	_	O
+10	a	a	DT	_	12	det	_	O
+11	oil	oil	NN	_	12	compound	_	O
+12	pipeline	pipeline	NN	_	9	dobj	_	O
+13	because	because	IN	_	16	mark	_	O
+14	we	we	PRP	_	16	nsubj	_	O
+15	will	will	MD	_	16	aux	_	O
+16	have	have	VB	_	9	advcl	_	O
+17	a	a	DT	_	20	det	_	O
+18	achieved	achieve	VBN	_	20	nmod	_	O
+19	sustainable	sustainable	JJ	_	20	nmod	_	O
+20	society	society	NN	_	16	dobj	_	O
+21	.	.	.	_	2	punct	_	O
+
+1	Free	free	JJ	_	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	harmful	harmful	JJ	_	5	nmod	_	O
+4	fossil	fossil	NN	pos2=JJ	5	compound	_	O
+5	fuels	fuel	NNS	_	2	pobj	_	O
+6	#NoDAPL	#nodapl	.	pos2=ADD	1	punct	_	O
+

@@ -1,0 +1,22 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@UN_PGA	@un_pga	NN	pos2=NNS	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	UNGA	unga	NN	pos2=NNP	5	nsubj	_	U-ORG
+4	should	should	MD	_	5	aux	_	O
+5	step	step	VB	_	0	root	_	O
+6	in	in	RP	pos2=RB	5	prt	_	O
+7	on	on	IN	pos2=RP	5	prep	_	O
+8	#Aleppo	#aleppo	NNP	pos2=PRP$	9	compound	_	U-ORG
+9	atrocities	atrocity	NNS	_	7	pobj	_	O
+10	&	&	CC	_	5	cc	_	O
+11	hold	hold	VB	pos2=VBP	5	conj	_	O
+12	emergency	emergency	NN	_	14	nmod	_	O
+13	special	special	JJ	_	14	nmod	_	O
+14	session	session	NN	_	11	dobj	_	O
+15	NOW	now	RB	_	11	advmod	_	O
+16	.	.	.	_	5	punct	_	O
+
+1	#StandWithAleppo	#standwithaleppo	ADD	pos2=-LRB-	2	punct	_	O
+2	https://t.co/mvZYrH1KZC	#hlink#	ADD	_	0	root	_	O
+

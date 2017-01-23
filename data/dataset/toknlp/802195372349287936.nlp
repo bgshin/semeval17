@@ -1,0 +1,15 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	saw	see	VBD	_	0	root	_	O
+4	#FantasticBeasts	#fantasticbeasts	NNS	pos2=NNP	3	dobj	_	O
+5	and	and	CC	_	3	cc	_	O
+6	I	I	PRP	_	7	nsubj	_	O
+7	cannkt	cannkt	VBP	pos2=MD	3	conj	_	O
+8	wait	wait	VBP	pos2=VB	7	xcomp	_	O
+9	for	for	IN	_	12	mark	_	O
+10	@cinemasins	@cinemasins	NNS	pos2=NNPS	12	nsubj	_	O
+11	to	to	TO	_	12	aux	_	O
+12	do	do	VB	_	8	advcl	_	O
+13	a	a	DT	_	14	det	_	O
+14	video	video	NN	_	12	dobj	_	O
+

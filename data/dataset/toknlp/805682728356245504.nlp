@@ -1,0 +1,20 @@
+1	Low	low	JJ	_	3	nmod	_	O
+2	minimum	minimum	JJ	pos2=NN	3	nmod	_	O
+3	wage	wage	NN	_	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	high	high	JJ	_	6	nmod	_	O
+6	prices	price	NNS	_	3	conj	_	O
+7	,	,	,	_	6	punct	_	O
+8	poor	poor	JJ	_	10	nmod	_	O
+9	exchange	exchange	NN	_	10	compound	_	O
+10	rate	rate	NN	_	6	conj	_	O
+11	,	,	,	_	10	punct	_	O
+12	no	no	DT	pos2=RB	13	det	_	O
+13	light	light	NN	pos2=JJ	10	appos	_	O
+14	,	,	,	_	13	punct	_	O
+15	bad	bad	JJ	_	16	nmod	_	O
+16	roads	road	NNS	_	13	conj	_	O
+17	etc	etc	FW	_	16	advmod	_	O
+18	,	,	,	_	16	punct	_	O
+19	etc	etc	FW	_	16	conj	_	O
+

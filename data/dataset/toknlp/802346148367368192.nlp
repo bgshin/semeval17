@@ -1,0 +1,16 @@
+1	Daniel	daniel	NNP	_	3	compound	_	B-PERSON
+2	Thomas	thomas	NNP	_	3	compound	_	I-PERSON
+3	Dyer	dyer	NNP	_	4	nsubj	_	L-PERSON
+4	explores	explore	VBZ	_	0	root	_	O
+5	Rumi	rumi	NNP	_	7	poss	_	U-PERSON
+6	's	's	POS	_	5	case	_	O
+7	influence	influence	NN	_	4	dobj	_	O
+8	on	on	IN	_	7	prep	_	O
+9	Leonard	leonard	NNP	_	10	compound	_	B-PERSON
+10	Cohen	cohen	NNP	_	12	poss	_	I-PERSON
+11	's	's	POS	_	10	case	_	L-PERSON
+12	music	music	NN	_	8	pobj	_	O
+13	.	.	.	_	4	punct	_	O
+
+1	https://t.co/sPtu35wemF	#hlink#	ADD	_	0	root	_	U-ORG
+

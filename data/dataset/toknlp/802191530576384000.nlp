@@ -1,0 +1,28 @@
+1	TRUMP	trump	NN	pos2=NNP	2	nsubj	_	O
+2	DROPS	drop	VBZ	pos2=NNS	0	root	_	O
+3	A	a	DT	_	4	det	_	O
+4	BOMBSHELL	bombshell	NN	pos2=NNP	2	dobj	_	O
+5	ABOUT	about	IN	_	4	prep	_	O
+6	HIS	his	PRP$	_	7	poss	_	O
+7	PLANS	plan	NNS	_	5	pobj	_	O
+8	FOR	for	IN	_	7	prep	_	O
+9	BEN	ben	NNP	_	10	compound	_	B-PERSON
+10	CARSON	carson	NNP	_	8	pobj	_	L-PERSON
+11	.	.	.	_	2	punct	_	O
+
+1	HE	he	PRP	pos2=NNP	2	nsubj	_	O
+2	WANTED	want	VBD	_	0	root	_	O
+3	TO	to	TO	_	4	aux	_	O
+4	BE	be	VB	_	2	xcomp	_	O
+5	PRESIDENT	president	NNP	pos2=NN	4	attr	_	O
+6	JUST	just	RB	_	9	advmod	_	O
+7	BECAUS	becaus	IN	_	9	mark	_	O
+8	HE	he	PRP	_	9	nsubj	_	O
+9	FIGURED	figure	VBD	_	4	advcl	_	O
+10	WO	wo	MD	pos2=NNP	12	aux	_	O
+11	N'T	not	RB	_	12	neg	_	O
+12	WIN	win	VB	_	9	ccomp	_	O
+13	?	?	.	_	2	punct	_	O
+
+1	https://t.co/N0ZLE2Xcwf	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,26 @@
+1	"	"	``	_	4	punct	_	O
+2	Donald	donald	NNP	_	3	compound	_	B-PERSON
+3	Trump	trump	NNP	_	4	nsubj	_	L-PERSON
+4	is	be	VBZ	_	7	aux	_	O
+5	n’t	not	RB	_	7	neg	_	O
+6	just	just	RB	_	7	advmod	_	O
+7	vowing	vow	VBG	_	0	root	_	O
+8	to	to	TO	_	9	aux	_	O
+9	undo	undo	VB	_	7	xcomp	_	O
+10	US	us	NNP	pos2=PRP	12	compound	_	U-GPE
+11	climate	climate	NN	pos2=JJ	12	compound	_	O
+12	policies	policy	NNS	_	9	dobj	_	O
+13	as	as	IN	_	9	prep	_	O
+14	president	president	NN	_	13	pobj	_	O
+15	.	.	.	_	12	punct	_	O
+
+1	His	his	PRP$	_	3	poss	_	O
+2	transition	transition	NN	_	3	compound	_	O
+3	team	team	NN	_	6	nsubj	_	O
+4	is	be	VBZ	_	6	aux	_	O
+5	also	also	RB	_	6	advmod	_	O
+6	talking	talk	VBG	pos2=JJ	0	root	_	O
+7	...	..	.	pos2=,	6	punct	_	O
+
+1	https://t.co/wKlBYhC03y	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,24 @@
+1	The	the	DT	_	3	det	_	O
+2	Dems	dems	NNPS	pos2=NNP	3	compound	_	O
+3	Convention	convention	NNP	_	5	nsubj	_	O
+4	is	be	VBZ	_	5	aux	_	O
+5	cracking	crack	VBG	_	14	advcl	_	O
+6	up	up	RP	_	5	prt	_	O
+7	and	and	CC	_	5	cc	_	O
+8	Bernie	bernie	NNP	_	10	nsubjpass	_	U-PERSON
+9	is	be	VBZ	_	10	auxpass	_	O
+10	exhausted	exhaust	VBN	pos2=JJ	5	conj	_	O
+11	,	,	,	_	14	punct	_	O
+12	he	he	PRP	_	14	nsubj	_	O
+13	just	just	RB	_	14	advmod	_	O
+14	wants	want	VBZ	_	0	root	_	O
+15	to	to	TO	_	16	aux	_	O
+16	shut	shut	VB	_	14	xcomp	_	O
+17	down	down	RP	_	16	prt	_	O
+18	and	and	CC	_	16	cc	_	O
+19	go	go	VB	_	16	conj	_	O
+20	home	home	RB	_	19	advmod	_	O
+21	to	to	IN	_	19	prep	_	O
+22	bed	bed	NN	pos2=VB	21	pobj	_	O
+23	!	!	.	_	14	punct	_	O
+

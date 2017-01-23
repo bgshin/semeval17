@@ -1,0 +1,16 @@
+1	Obamacare	obamacare	NNP	_	3	poss	_	U-ORG
+2	's	's	POS	pos2=VBZ	1	case	_	O
+3	Collapsing	collapsing	NNP	pos2=VBG	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	Was	be	VBD	pos2=NNP	0	root	_	O
+3	Always	always	RB	pos2=NNP	2	advmod	_	O
+4	The	the	DT	_	5	det	_	O
+5	Plan	plan	NNP	pos2=NN	2	attr	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	https://t.co/tMFti6oC1V	#hlink#	ADD	_	0	root	_	U-ORG
+2	#TeaParty	#teaparty	-RRB-	pos2=ADD	1	punct	_	O
+3	#tcot	#tcot	UH	pos2=-RRB-	1	discourse	_	O
+

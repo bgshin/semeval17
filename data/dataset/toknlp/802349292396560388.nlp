@@ -1,0 +1,29 @@
+1	With	with	IN	_	12	prep	_	O
+2	a	a	DT	_	3	det	_	O
+3	gun	gun	NN	_	1	pobj	_	O
+4	to	to	IN	_	3	prep	_	O
+5	my	my	PRP$	_	6	poss	_	O
+6	head	head	NN	_	4	pobj	_	O
+7	,	,	,	_	12	punct	_	O
+8	The	the	DT	_	10	det	_	O
+9	Stranger	stranger	NNP	pos2=NN	10	compound	_	O
+10	Song	song	NNP	pos2=NN	12	nsubj	_	O
+11	might	might	MD	_	12	aux	_	O
+12	be	be	VB	_	0	root	_	O
+13	my	my	PRP$	_	14	poss	_	O
+14	favourite	favourite	NN	pos2=JJ	12	attr	_	O
+15	Leonard	leonard	NNP	_	16	compound	_	B-PERSON
+16	Cohen	cohen	NNP	_	17	compound	_	L-PERSON
+17	song	song	NN	pos2=FW	14	appos	_	O
+18	...	..	.	pos2=,	12	punct	_	O
+
+1	only	only	RB	_	4	advmod	_	O
+2	because	because	IN	_	4	mark	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	pos2=POS	7	advcl	_	O
+5	emotional	emotional	JJ	_	6	nmod	_	O
+6	trajectory	trajectory	NN	_	4	attr	_	O
+7	is	be	VBZ	_	0	root	_	O
+8	so	so	RB	_	9	advmod	_	O
+9	familiar	familiar	JJ	_	7	acomp	_	O
+

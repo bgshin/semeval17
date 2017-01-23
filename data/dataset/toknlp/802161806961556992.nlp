@@ -1,0 +1,25 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	glad	glad	JJ	_	4	nmod	_	O
+4	Persona	persona	NN	pos2=NNP	2	attr	_	O
+5	5	0	CD	_	7	nsubjpass	_	U-CARDINAL
+6	got	get	VBD	_	7	auxpass	_	O
+7	delayed	delay	VBN	_	3	ccomp	_	O
+8	to	to	IN	pos2=TO	7	prep	_	O
+9	next	next	JJ	_	10	nmod	_	B-DATE
+10	year	year	NN	_	8	pobj	_	L-DATE
+11	,	,	,	_	2	punct	_	O
+12	since	since	IN	_	17	mark	_	O
+13	Atlus	atlus	NNP	_	14	compound	_	U-ORG
+14	fans	fan	NNS	pos2=VBZ	17	nsubj	_	O
+15	no	no	RB	_	16	neg	_	O
+16	longer	long	RBR	pos2=RB	17	advmod	_	O
+17	have	have	VBP	pos2=VB	2	advcl	_	O
+18	a	a	DT	_	19	det	_	O
+19	reason	reason	NN	_	17	dobj	_	O
+20	to	to	TO	_	21	aux	_	O
+21	be	be	VB	_	19	relcl	_	O
+22	obnoxious	obnoxious	JJ	_	21	acomp	_	O
+23	about	about	IN	pos2=RB	22	prep	_	O
+24	FFXV.	ffxv.	NNP	pos2=NN	23	pobj	_	O
+

@@ -1,0 +1,18 @@
+1	Tonight	tonight	NN	_	8	npadvmod	_	U-TIME
+2	on	on	IN	_	1	prep	_	O
+3	@FallonTonight	@fallontonight	NNP	pos2=JJ	4	compound	_	B-PRODUCT
+4	CAPE	cape	NNP	pos2=NN	2	pobj	_	I-PRODUCT
+5	2017	0	CD	_	6	nmod	_	L-PRODUCT
+6	guest	guest	NN	pos2=NNS	4	appos	_	O
+7	@seangunnKirk	@seangunnkirk	NNP	pos2=NN	8	nsubj	_	U-ORG
+8	is	be	VBZ	_	0	root	_	O
+9	Jimmy	jimmy	NNP	_	12	poss	_	U-PERSON
+10	's	's	POS	_	9	case	_	O
+11	second	#ord#	JJ	_	12	nmod	_	U-ORDINAL
+12	favourite	favourite	NN	pos2=JJ	14	poss	_	O
+13	@GilmoreGirls	@gilmoregirls	POS	pos2=XX	12	case	_	U-ORG
+14	character	character	NN	_	8	attr	_	O
+15	.	.	.	_	8	punct	_	O
+
+1	#GilmoreGirlsTop4@CAPE_2015	#gilmoregirlstop0@cape_0	NN	pos2=NNS	0	root	_	O
+

@@ -1,0 +1,12 @@
+1	3	0	CD	_	6	nmod	_	U-CARDINAL
+2	D	d	NNP	pos2=NN	3	compound	_	B-ORG
+3	Printing	printing	NNP	pos2=NN	4	compound	_	I-ORG
+4	B2B	b0b	NN	pos2=NNP	6	compound	_	I-ORG
+5	Newsletter	newsletter	NNP	pos2=NN	6	compound	_	I-ORG
+6	Niche	niche	NNP	pos2=NN	11	dep	_	L-ORG
+7	With	with	IN	_	6	prep	_	O
+8	Recurring	recur	VBG	pos2=NNP	10	nmod	_	O
+9	Revenue	revenue	NN	pos2=GW	10	compound	_	O
+10	#OnlineSchool#marketingschool#onlinetraining#digitaltools	#onlineschool#marketingschool#onlinetraining#digitaltools	NNS	pos2=ADD	7	pobj	_	O
+11	https://t.co/MC2ll3gWnD	#hlink#	ADD	_	0	root	_	O
+

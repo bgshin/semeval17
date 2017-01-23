@@ -1,0 +1,14 @@
+1	Samsung	samsung	NNP	_	3	compound	_	B-ORG
+2	Brand	brand	NNP	pos2=NN	3	compound	_	I-ORG
+3	Unhurt	unhurt	NNP	pos2=JJ	8	dep	_	L-ORG
+4	by	by	IN	_	3	prep	_	O
+5	Galaxy	galaxy	NNP	_	6	compound	_	O
+6	Note	note	NNP	pos2=NN	4	pobj	_	O
+7	7	0	CD	_	8	nmod	_	U-CARDINAL
+8	Recall	recall	NN	pos2=NNP	13	dep	_	O
+9	in	in	IN	_	8	prep	_	O
+10	U.S.	u.s.	NNP	_	12	compound	_	U-GPE
+11	-	-	HYPH	pos2=,	12	punct	_	O
+12	Poll	poll	NNP	pos2=NN	9	pobj	_	O
+13	https://t.co/JbALUFdLE5	#hlink#	ADD	pos2=NN	0	root	_	O
+

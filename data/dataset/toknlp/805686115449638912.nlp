@@ -1,0 +1,19 @@
+1	Liam	liam	NNP	_	2	compound	_	B-PERSON
+2	Neeson	neeson	NNP	_	3	nsubj	_	L-PERSON
+3	steps	step	VBZ	pos2=NNS	0	root	_	O
+4	down	down	RP	pos2=RB	3	prt	_	O
+5	from	from	IN	_	3	prep	_	O
+6	Ballymena	ballymena	NNP	_	8	compound	_	U-GPE
+7	boxing	boxing	NN	_	8	compound	_	O
+8	club	club	NN	_	5	pobj	_	O
+9	amid	amid	IN	_	5	prep	_	O
+10	abortion	abortion	NN	_	11	compound	_	O
+11	row	row	NN	_	9	pobj	_	O
+12	over	over	IN	_	3	prep	_	O
+13	narration	narration	NN	_	12	pobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	@AmnestyIreland	@amnestyireland	NNP	pos2=ADD	16	compound	_	U-ORG
+16	video	video	NN	pos2=GW	17	compound	_	O
+17	@Glinner	@glinner	NNP	pos2=GW	14	pobj	_	U-ORG
+18	https://t.co/oIYRsxYJlk	#hlink#	ADD	_	17	appos	_	O
+

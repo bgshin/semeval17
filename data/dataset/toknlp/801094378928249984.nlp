@@ -1,0 +1,14 @@
+1	#Mosuloffensive	#mosuloffensive	NN	pos2=SYM	7	dep	_	O
+2	:	:	:	_	7	punct	_	O
+3	More	more	JJR	_	5	qmod	_	B-CARDINAL
+4	than	than	IN	_	5	qmod	_	I-CARDINAL
+5	68,000	0	CD	_	6	nmod	_	L-CARDINAL
+6	Iraqis	iraqi	NNPS	_	7	nsubj	_	U-NORP
+7	displaced	displace	VBN	_	0	root	_	O
+8	since	since	IN	_	7	prep	_	O
+9	October	october	NNP	_	8	pobj	_	U-DATE
+10	,	,	,	_	11	punct	_	O
+11	says	say	VBZ	_	0	root	_	O
+12	#UnitedNat	#unitednat	IN	pos2=ADD	7	prep	_	B-CARDINAL
+13	ionshttps://t.co/wCjRwLZBBq	#hlink#	ADD	pos2=NN	12	pobj	_	L-CARDINAL
+

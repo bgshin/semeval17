@@ -1,0 +1,23 @@
+1	Christian	christian	JJ	pos2=NNP	2	nmod	_	B-PERSON
+2	Hashd	hashd	NNP	_	22	dep	_	L-PERSON
+3	(	(	-LRB-	_	4	punct	_	O
+4	PMF	pmf	NN	pos2=NNP	2	appos	_	O
+5	)	)	-RRB-	_	2	punct	_	O
+6	fighters	fighter	NNS	_	22	dep	_	O
+7	erect	erect	VB	pos2=VBP	22	nmod	_	O
+8	heavily	heavily	RB	_	9	advmod	_	O
+9	damaged	damage	VBN	_	12	nmod	_	O
+10	Virgin	virgin	NNP	_	11	compound	_	O
+11	Mary	mary	NNP	_	12	compound	_	O
+12	statue	statue	NN	pos2=NNP	7	dobj	_	O
+13	&	&	CC	_	7	cc	_	O
+14	recite	recite	VB	_	7	conj	_	O
+15	a	a	DT	_	16	det	_	O
+16	prayer	prayer	NN	_	14	dobj	_	O
+17	in	in	IN	_	16	prep	_	O
+18	Mar	mar	NNP	_	20	compound	_	B-ORG
+19	Behnam	behnam	NNP	_	20	compound	_	I-ORG
+20	Monastery	monastery	NNP	pos2=NN	17	pobj	_	L-ORG
+21	…	…	NFP	pos2=POS	22	punct	_	O
+22	https://t.co/0eAK3QEAgO	#hlink#	ADD	_	0	root	_	O
+

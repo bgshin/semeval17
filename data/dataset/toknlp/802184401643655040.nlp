@@ -1,0 +1,12 @@
+1	LIVE	live	VB	pos2=JJ	0	root	_	O
+2	on	on	IN	_	1	prep	_	O
+3	#Periscope	#periscope	NN	pos2=NNP	2	pobj	_	O
+4	:	:	:	_	11	punct	_	O
+5	Valentines	valentines	NNP	pos2=NNS	7	compound	_	O
+6	card	card	NN	_	7	compound	_	O
+7	design	design	NN	_	8	compound	_	O
+8	#Art	#art	NNP	pos2=XX	11	nmod	_	U-ORG
+9	#howicreate	#howicreate	GW	pos2=ADD	11	nmod	_	O
+10	#Chat	#chat	GW	pos2=WP	11	nmod	_	O
+11	https://t.co/tPj7lu38K2	#hlink#	ADD	pos2=NN	1	dep	_	U-ORG
+

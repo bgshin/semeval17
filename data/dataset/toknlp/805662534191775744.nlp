@@ -1,0 +1,18 @@
+1	Fix	fix	VB	_	13	advcl	_	O
+2	the	the	DT	_	4	det	_	B-ORG
+3	Electoral	electoral	NNP	pos2=JJ	4	compound	_	I-ORG
+4	College	college	NNP	pos2=NN	1	dobj	_	L-ORG
+5	:	:	:	_	13	punct	_	O
+6	Whoever	whoever	WP	_	7	nsubj	_	O
+7	gets	get	VBZ	_	13	csubj	_	O
+8	the	the	DT	_	11	det	_	O
+9	most	most	RBS	_	10	advmod	_	O
+10	popular	popular	JJ	_	11	nmod	_	O
+11	votes	vote	NNS	_	7	dobj	_	O
+12	should	should	MD	_	13	aux	_	O
+13	become	become	VB	_	0	root	_	O
+14	president	president	NN	_	13	attr	_	O
+15	!	!	.	_	13	punct	_	O
+
+1	https://t.co/c2cXo02TlG	#hlink#	ADD	_	0	root	_	U-ORG
+

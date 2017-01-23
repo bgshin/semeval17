@@ -1,0 +1,9 @@
+1	Boris	boris	NNP	_	2	compound	_	B-PERSON
+2	Johnson	johnson	NNP	_	5	nsubj	_	L-PERSON
+3	just	just	RB	_	5	advmod	_	O
+4	publicly	publicly	RB	_	5	advmod	_	O
+5	contradicted	contradict	VBD	pos2=VBN	0	root	_	O
+6	Theresa	theresa	NNP	_	8	nmod	_	B-PERSON
+7	May	may	NNP	pos2=MD	8	nmod	_	L-PERSON
+8	https://t.co/XFCdJsFQJu	#hlink#	ADD	_	5	dobj	_	O
+

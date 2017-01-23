@@ -1,0 +1,26 @@
+1	Some	some	DT	_	5	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	us	us	PRP	_	2	pobj	_	O
+4	will	will	MD	_	5	aux	_	O
+5	die	die	VB	_	0	root	_	O
+6	when	when	WRB	_	9	advmod	_	O
+7	Medicaid	medicaid	NNP	_	9	nsubjpass	_	U-ORG
+8	is	be	VBZ	_	9	auxpass	_	O
+9	shrunk	shrink	VBN	pos2=JJ	5	advcl	_	O
+10	and	and	CC	_	9	cc	_	O
+11	Medicare	medicare	NNP	_	12	nsubj	_	U-ORG
+12	gone	go	VBN	pos2=NN	9	conj	_	O
+13	.	.	.	_	5	punct	_	O
+
+1	Starting	start	VBG	_	0	root	_	O
+2	FB	fb	NNP	pos2=NN	3	compound	_	O
+3	group	group	NN	_	1	dobj	_	O
+4	re	re	IN	pos2=XX	1	prep	_	O
+5	saving	save	VBG	_	4	pcomp	_	O
+6	both	both	DT	pos2=RB	5	dobj	_	O
+7	!	!	.	_	1	punct	_	O
+
+1	Join	join	VB	_	0	root	_	O
+2	us	us	PRP	_	1	dobj	_	O
+3	https://t.co/xNPJ3tCIXi	#hlink#	ADD	_	1	dobj	_	U-ORG
+

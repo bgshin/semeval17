@@ -1,0 +1,13 @@
+1	#DonaldTrump	#donaldtrump	NN	pos2=NNS	2	nsubj	_	O
+2	Unlikely	unlikely	JJ	pos2=NNP	0	root	_	O
+3	To	to	TO	pos2=IN	4	aux	_	O
+4	Keep	keep	VB	_	2	xcomp	_	O
+5	#Campaign	#campaign	NNP	pos2=VBG	6	compound	_	B-PERSON
+6	#Promises	#promises	NNP	pos2=NNPS	7	nsubj	_	L-PERSON
+7	Says	say	VBZ	_	0	root	_	O
+8	#HenryKissinger	#henrykissinger	NNP	pos2=ADD	10	compound	_	B-PERSON
+9	-	-	HYPH	pos2=SYM	10	punct	_	I-PERSON
+10	#DrainTheSwamp	#draintheswamp	NNP	pos2=XX	12	compound	_	L-PERSON
+11	#FillTheSwamp	#filltheswamp	XX	pos2=NN	12	compound	_	O
+12	#USA	#usa	NN	pos2=XX	7	ccomp	_	O
+

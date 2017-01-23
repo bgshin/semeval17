@@ -1,0 +1,11 @@
+1	How	how	WRB	_	3	advmod	_	O
+2	To	to	TO	_	3	aux	_	O
+3	Get	get	VB	_	0	root	_	O
+4	Medical	medical	NNP	pos2=JJ	7	compound	_	B-ORG
+5	Marijuana	marijuana	NNP	_	7	compound	_	I-ORG
+6	Dispensary	dispensary	NNP	pos2=NN	7	compound	_	I-ORG
+7	Card	card	NNP	_	10	dep	_	I-ORG
+8	Ontario	ontario	NNP	pos2=GW	7	appos	_	L-ORG
+9	https://t.co/4x7P8Zxr6L	#hlink#	ADD	_	10	nmod	_	O
+10	https://t.co/AQfdpjZUs2	#hlink#	ADD	_	3	dobj	_	U-ORG
+

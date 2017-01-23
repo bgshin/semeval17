@@ -1,0 +1,16 @@
+1	Spider	spider	NN	pos2=NNP	3	compound	_	O
+2	-	-	HYPH	pos2=:	3	punct	_	O
+3	Man	man	NN	pos2=NNP	7	dep	_	O
+4	:	:	:	_	7	punct	_	O
+5	Top	top	JJ	pos2=NNP	7	nmod	_	O
+6	5	0	CD	_	7	nmod	_	U-CARDINAL
+7	Actors	actor	NNS	pos2=NNPS	9	nsubj	_	O
+8	To	to	TO	pos2=IN	9	aux	_	O
+9	Play	play	VB	_	11	acl	_	O
+10	Kraven	kraven	NNP	_	9	dobj	_	O
+11	The	the	DT	pos2=NNP	0	root	_	O
+12	Hunter	hunter	NNP	pos2=GW	14	nmod	_	O
+13	-	-	HYPH	pos2=GW	14	punct	_	O
+14	https://t.co/kVPhiAGZ4l	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/dCocywwkH4	#hlink#	ADD	_	9	dobj	_	O
+

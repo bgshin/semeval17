@@ -1,0 +1,16 @@
+1	#NASA	#nasa	NNP	pos2=NN	3	compound	_	B-ORG
+2	#DeepLearning	#deeplearning	NNP	pos2=VBG	3	compound	_	I-ORG
+3	Program	program	NNP	pos2=NN	4	nsubj	_	L-ORG
+4	Aims	aim	VBZ	_	0	root	_	O
+5	to	to	TO	pos2=IN	6	aux	_	O
+6	Ward	ward	NNP	pos2=VB	4	xcomp	_	B-ORG
+7	Off	off	NNP	pos2=IN	9	compound	_	I-ORG
+8	#Asteroid	#asteroid	NNP	pos2=POS	9	compound	_	I-ORG
+9	Attack	attack	NNP	pos2=NN	15	dep	_	L-ORG
+10	via	via	IN	_	9	prep	_	O
+11	@NvidiaAI	@nvidiaai	NNP	pos2=ADD	10	pobj	_	O
+12	https://t.co/iD1Qc7g6aJ	#hlink#	ADD	_	15	nmod	_	O
+13	#AI	#ai	GW	pos2=-RRB-	15	nmod	_	U-ORG
+14	#Space	#space	GW	pos2=-LRB-	15	nmod	_	O
+15	https://t.co/hvADZHcfUE	#hlink#	ADD	pos2=NN	4	xcomp	_	U-ORG
+

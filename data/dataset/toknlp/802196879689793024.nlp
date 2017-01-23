@@ -1,0 +1,25 @@
+1	Happy	happy	JJ	pos2=NNP	3	nmod	_	O
+2	Black	black	NNP	pos2=JJ	3	compound	_	B-EVENT
+3	Friday	friday	NNP	_	5	dep	_	L-EVENT
+4	,	,	,	_	5	punct	_	O
+5	sluts	slut	NNS	_	0	root	_	O
+6	!	!	.	_	5	punct	_	O
+
+1	Shop	shop	NN	pos2=VB	0	root	_	O
+2	until	until	IN	_	4	mark	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	drop	drop	VBP	pos2=NN	1	advcl	_	O
+5	!	!	.	_	1	punct	_	O
+
+1	Who	who	WP	_	3	nsubj	_	O
+2	's	's	VBZ	_	3	aux	_	O
+3	purchasing	purchase	VBG	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	pink	pink	JJ	pos2=NN	6	nmod	_	O
+6	jeep	jeep	NN	_	3	dobj	_	O
+7	?	?	.	_	3	punct	_	O
+
+1	#ScreamQueens	#screamqueens	NNS	pos2=GW	3	nmod	_	O
+2	💋	💋	NFP	pos2=-LRB-	3	punct	_	O
+3	https://t.co/Tmx9OkKIGb	#hlink#	ADD	pos2=NN	0	root	_	O
+

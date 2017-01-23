@@ -1,0 +1,16 @@
+1	Allepo	allepo	NNP	pos2=UH	3	nmod	_	U-GPE
+2	,	,	,	_	1	punct	_	O
+3	Syria	syria	NNP	_	5	compound	_	O
+4	#ThankYouObama	#thankyouobama	NNP	pos2=POS	5	compound	_	O
+5	#ThankYouHillary	#thankyouhillary	NNP	pos2=XX	6	nsubj	_	O
+6	installing	instal	VBG	_	9	ccomp	_	O
+7	#Democracy	#democracy	NNP	pos2=NN	6	dobj	_	O
+8	70	0	CD	_	9	nmod	_	B-PERCENT
+9	%	%	NN	_	10	compound	_	L-PERCENT
+10	loading	loading	NN	_	11	dep	_	O
+11	...	..	.	pos2=,	0	root	_	O
+
+1	Please	please	UH	_	2	discourse	_	O
+2	Wait	wait	VB	_	3	advcl	_	O
+3	https://t.co/3CcdGXu6VN	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

@@ -1,0 +1,23 @@
+1	Joke	joke	NN	_	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	A	a	DT	_	4	det	_	O
+4	magazine	magazine	NN	_	9	advmod	_	O
+5	called	call	VBN	pos2=VBD	4	acl	_	O
+6	Jacobin	jacobin	NNP	_	5	oprd	_	B-ORG
+7	for	for	IN	_	4	prep	_	I-ORG
+8	leftistsWoke	leftistswoke	NNP	pos2=NN	7	pobj	_	L-ORG
+9	:	:	:	_	13	punct	_	O
+10	A	a	DT	_	11	det	_	O
+11	magazine	magazine	NN	_	16	advmod	_	O
+12	called	call	VBN	pos2=VBD	11	acl	_	O
+13	Jacobite	jacobite	NNP	_	12	oprd	_	B-ORG
+14	for	for	IN	_	11	prep	_	I-ORG
+15	rightistsBespoke	rightistsbespoke	NNP	pos2=NN	14	pobj	_	L-ORG
+16	:	:	:	_	20	punct	_	O
+17	A	a	DT	_	18	det	_	O
+18	magazine	magazine	NN	_	0	root	_	O
+19	called	call	VBN	pos2=VBD	18	acl	_	O
+20	Jacobite	jacobite	NNP	_	19	oprd	_	O
+21	for	for	IN	_	19	prep	_	O
+22	leftists	leftist	NNS	_	21	pobj	_	O
+

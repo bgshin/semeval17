@@ -1,0 +1,13 @@
+1	#Buzzfeed	#buzzfeed	NNP	pos2=NN	3	nsubj	_	U-ORG
+2	is	be	VBZ	_	3	aux	_	O
+3	using	use	VBG	_	0	root	_	O
+4	#BIGOTED	#bigoted	NNP	pos2=$	3	dobj	_	U-ORG
+5	#ReligiousTest	#religioustest	ADD	pos2=JJS	3	advmod	_	O
+6	!	!	.	_	3	punct	_	O
+
+1	#ChipGaines	#chipgaines	NNS	pos2=ADD	2	compound	_	O
+2	#JoannaGaines	#joannagaines	NNS	pos2=ADD	5	nmod	_	O
+3	#HGTV	#hgtv	GW	pos2=VBP	5	nmod	_	B-PERSON
+4	#Christian	#christian	GW	pos2=-LRB-	5	nmod	_	L-PERSON
+5	https://t.co/WWFquMUaE9	#hlink#	ADD	pos2=NN	0	root	_	O
+

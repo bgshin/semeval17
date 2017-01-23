@@ -1,0 +1,24 @@
+1	#ISIS	#isis	NN	pos2=NFP	2	nsubj	_	O
+2	released	release	VBN	pos2=VBD	12	advcl	_	O
+3	old	old	JJ	_	4	nmod	_	O
+4	video	video	NN	_	2	dobj	_	O
+5	showing	show	VBG	_	4	acl	_	O
+6	#mosul	#mosul	IN	pos2=JJ	5	prep	_	O
+7	kids	kid	NNS	_	6	pobj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	schools	school	NNS	_	8	pobj	_	O
+10	,	,	,	_	12	punct	_	O
+11	they	they	PRP	_	12	nsubj	_	O
+12	claim	claim	VBP	_	0	root	_	O
+13	it	it	PRP	_	12	dobj	_	O
+14	new	new	JJ	pos2=RB	12	oprd	_	O
+15	,	,	,	_	12	punct	_	O
+16	but	but	CC	_	12	cc	_	O
+17	the	the	DT	_	18	det	_	O
+18	truth	truth	NN	_	20	npadvmod	_	O
+19	it	it	PRP	_	20	nsubj	_	O
+20	old	old	JJ	pos2=VBD	23	nmod	_	O
+21	1#Mosuloffensive	0#mosuloffensive	XX	pos2=CD	23	nmod	_	O
+22	…	…	NFP	pos2=-LRB-	23	punct	_	O
+23	https://t.co/4OS08zJtoD	#hlink#	ADD	_	12	conj	_	O
+

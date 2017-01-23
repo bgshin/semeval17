@@ -1,0 +1,22 @@
+1	Apple	apple	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	nabs	nab	VBZ	_	0	root	_	O
+3	obscene	obscene	JJ	_	4	nmod	_	O
+4	share	share	NN	_	2	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	smartphone	smartphone	NN	_	7	compound	_	O
+7	profit	profit	NN	_	5	pobj	_	O
+8	thanks	thanks	NNS	_	2	npadvmod	_	O
+9	to	to	IN	_	8	prep	_	O
+10	Samsung	samsung	NNP	_	12	poss	_	U-ORG
+11	's	's	POS	_	10	case	_	O
+12	Note	note	NN	pos2=JJ	9	pobj	_	O
+13	7	0	CD	pos2=IN	14	nmod	_	U-CARDINAL
+14	debacle	debacle	NN	_	17	dep	_	O
+15	-	-	HYPH	pos2=:	16	punct	_	O
+16	MarketWatch	marketwatch	NNP	_	12	appos	_	U-ORG
+17	https://t.co/eVxhURA9y2	#hlink#	ADD	pos2=NN	21	dep	_	O
+18	|	|	SYM	pos2=,	21	punct	_	O
+19	#galaxyNote7	#galaxynote0	NN	pos2=NNS	20	compound	_	O
+20	#Not	#not	NNP	pos2=ADD	21	dep	_	B-PERSON
+21	…	…	NFP	pos2=NN	2	discourse	_	L-PERSON
+

@@ -1,0 +1,21 @@
+1	@IgorDerysh	@igorderysh	UH	pos2=XX	5	discourse	_	O
+2	@meghanxokate	@meghanxokate	UH	pos2=ADD	5	discourse	_	O
+3	@realDonaldTrump	@realdonaldtrump	NNP	pos2=IN	5	nsubj	_	U-ORG
+4	Still	still	RB	_	5	advmod	_	O
+5	waiting	wait	VBG	_	11	advcl	_	O
+6	on	on	IN	pos2=RP	5	prep	_	O
+7	Clinton	clinton	NNP	_	6	pobj	_	U-PERSON
+8	,	,	,	_	11	punct	_	O
+9	Obama	obama	NNP	_	7	appos	_	U-PERSON
+10	,	,	,	_	11	punct	_	O
+11	dems	dems	VBZ	pos2=NNS	0	root	_	O
+12	to	to	TO	_	13	aux	_	O
+13	visit	visit	VB	_	11	xcomp	_	O
+14	LA	la	NNP	pos2=NN	13	dobj	_	U-GPE
+15	and	and	CC	_	14	cc	_	O
+16	other	other	JJ	_	17	nmod	_	O
+17	areas	area	NNS	_	14	conj	_	O
+18	of	of	IN	_	17	prep	_	O
+19	distress	distress	NN	_	18	pobj	_	O
+20	.	.	.	_	11	punct	_	O
+

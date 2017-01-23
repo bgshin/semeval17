@@ -1,0 +1,23 @@
+1	@realDonaldTrumpRepublicans	@realdonaldtrumprepublicans	NNS	pos2=ADD	0	auxpass	_	O
+2	planning	plan	VBG	pos2=NN	1	acl	_	O
+3	on	on	IN	_	2	prep	_	O
+4	ripping	rip	VBG	_	3	pcomp	_	O
+5	apart	apart	RB	pos2=RP	4	advmod	_	O
+6	Medicare	medicare	NNP	_	4	dobj	_	U-ORG
+7	and	and	CC	_	6	cc	_	O
+8	Medicaid	medicaid	NNP	_	6	conj	_	U-ORG
+9	,	,	,	_	11	punct	_	O
+10	they	they	PRP	_	11	nsubj	_	O
+11	said	say	VBD	_	0	root	_	O
+12	they	they	PRP	_	14	nsubj	_	O
+13	were	be	VBD	_	14	aux	_	O
+14	going	go	VBG	_	11	ccomp	_	O
+15	to	to	TO	_	16	aux	_	O
+16	do	do	VB	_	14	xcomp	_	O
+17	it	it	PRP	_	16	dobj	_	O
+18	without	without	IN	_	16	prep	_	O
+19	you	you	PRP	_	18	pobj	_	O
+20	,	,	,	_	11	punct	_	O
+21	really	really	RB	_	11	advmod	_	O
+22	!!	!!	.	_	11	punct	_	O
+

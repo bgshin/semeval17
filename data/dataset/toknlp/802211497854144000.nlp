@@ -1,0 +1,23 @@
+1	Russia	russia	NNP	pos2=NN	2	nsubj	_	U-GPE
+2	playing	play	VBG	pos2=NN	0	root	_	O
+3	Trump	trump	NNP	pos2=NN	2	dobj	_	U-ORG
+4	and	and	CC	_	3	cc	_	O
+5	TRUMPERS	trumpers	NNPS	pos2=NNP	3	conj	_	U-ORG
+6	,	,	,	_	2	punct	_	O
+7	never	never	RB	_	8	neg	_	O
+8	underestimate	underestimate	VBP	pos2=VB	2	conj	_	O
+9	your	your	PRP$	_	10	poss	_	O
+10	opponent	opponent	NN	pos2=JJ	8	dobj	_	O
+11	and	and	CC	_	10	cc	_	O
+12	RUSSIA	russia	NNP	pos2=NN	13	nsubj	_	U-GPE
+13	is	be	VBZ	_	8	conj	_	O
+14	our	our	PRP$	_	15	poss	_	O
+15	opponent	opponent	NN	pos2=JJ	13	attr	_	O
+16	,	,	,	_	18	punct	_	O
+17	Putin	putin	NNP	_	18	nsubj	_	U-PERSON
+18	wants	want	VBZ	_	2	conj	_	O
+19	USSR	ussr	NNP	pos2=NN	18	dobj	_	U-GPE
+20	and	and	CC	_	18	cc	_	O
+21	…	…	NFP	pos2=-LRB-	22	punct	_	O
+22	https://t.co/DTsuHMuY5g	#hlink#	ADD	_	18	conj	_	O
+

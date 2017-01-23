@@ -1,0 +1,22 @@
+1	#Outnumbered	#outnumbered	VBD	pos2=WP	8	aux	_	O
+2	We	we	PRP	_	3	nsubj	_	O
+3	elected	elect	VBD	pos2=VBN	1	ccomp	_	O
+4	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	3	dobj	_	O
+5	to	to	IN	pos2=TO	3	prep	_	O
+6	#DrainTheSwamp	#draintheswamp	VB	pos2=``	5	pobj	_	O
+7	not	not	RB	_	8	neg	_	O
+8	add	add	VB	_	0	root	_	O
+9	more	more	JJR	_	10	nmod	_	O
+10	snakes	snake	NNS	_	8	dobj	_	O
+11	.	.	.	_	8	punct	_	O
+
+1	@MittRomney	@mittromney	NN	pos2=NNP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	6	det	_	O
+4	backstabbing	backstabbing	NN	pos2=VBG	6	compound	_	O
+5	globalist	globalist	NN	pos2=JJ	6	compound	_	O
+6	snake	snake	NN	_	2	attr	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	#NeverRomney	#neverromney	ADD	pos2=UH	0	root	_	O
+

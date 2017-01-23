@@ -1,0 +1,24 @@
+1	@UM_Slack	@um_slack	UH	pos2=ADD	6	discourse	_	O
+2	@walpoc	@walpoc	UH	pos2=FW	6	discourse	_	O
+3	@KDRocher	@kdrocher	NNP	pos2=NN	5	compound	_	O
+4	Sucks	sucks	NNP	pos2=VBZ	5	compound	_	O
+5	Obamacare	obamacare	NNP	_	6	nsubj	_	U-PERSON
+6	was	be	VBD	_	0	root	_	O
+7	a	a	DT	_	10	det	_	O
+8	repub	repub	NN	pos2=JJ	9	compound	_	O
+9	idea	idea	NN	_	10	compound	_	O
+10	birth	birth	NN	_	6	attr	_	O
+11	at	at	IN	_	10	prep	_	O
+12	the	the	DT	_	14	det	_	B-ORG
+13	Heritage	heritage	NNP	_	14	compound	_	I-ORG
+14	Foundation	foundation	NNP	_	11	pobj	_	L-ORG
+15	,	,	,	_	10	punct	_	O
+16	&	&	CC	_	6	cc	_	O
+17	stimulus	stimulus	NN	_	19	nsubjpass	_	O
+18	was	be	VBD	_	19	auxpass	_	O
+19	passed	pass	VBN	_	6	conj	_	O
+20	by	by	IN	_	19	agent	_	O
+21	a	a	DT	_	23	det	_	O
+22	repub	repub	NN	_	23	compound	_	O
+23	POTUS	potus	NN	pos2=NNP	20	pobj	_	O
+

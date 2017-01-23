@@ -1,0 +1,17 @@
+1	#FrankGaffney	#frankgaffney	NNP	pos2=NN	5	vocative	_	O
+2	,	,	,	_	5	punct	_	O
+3	2	0	CD	_	4	nmod	_	U-CARDINAL
+4	Others	other	NNS	pos2=NNP	5	nsubj	_	O
+5	Replace	replace	VBP	pos2=VB	0	root	_	O
+6	#MikeRogers	#mikerogers	NNS	pos2=NNPS	5	dobj	_	O
+7	on	on	IN	pos2=RP	5	prep	_	O
+8	#TrumpTransitionTeamFANTASTIC	#trumptransitionteamfantastic	NNP	pos2=NNS	7	pobj	_	U-ORG
+9	!!	!!	.	_	5	punct	_	O
+
+1	WE	we	PRP	_	2	nsubj	_	O
+2	NEED	need	VBP	_	0	root	_	O
+3	#PROUSA	#prousa	NN	pos2=GW	2	dobj	_	U-TIME
+4	#ISLAMIC	#islamic	GW	pos2=JJ	6	nmod	_	U-NORP
+5	#SCHOLARS	#scholars	GW	pos2=NNS	6	nmod	_	O
+6	https://t.co/wbBaiwYeoj	#hlink#	ADD	pos2=NN	2	dep	_	O
+

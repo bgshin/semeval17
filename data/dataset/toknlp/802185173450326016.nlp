@@ -1,0 +1,25 @@
+1	Tested	test	VBD	pos2=VBN	0	root	_	O
+2	the	the	DT	_	6	det	_	O
+3	Google	google	NNP	_	4	compound	_	U-PRODUCT
+4	Earth	earth	NNP	_	6	compound	_	U-LOC
+5	vr	vr	NN	pos2=JJR	6	compound	_	O
+6	thing	thing	NN	_	1	dobj	_	O
+7	with	with	IN	_	1	prep	_	O
+8	Vive	vive	NNP	pos2=FW	7	pobj	_	U-PERSON
+9	.	.	.	_	1	punct	_	O
+
+1	Crouching	crouch	VBG	pos2=NN	6	csubj	_	O
+2	over	over	IN	pos2=RP	1	prep	_	O
+3	an	an	DT	_	5	det	_	O
+4	entire	entire	JJ	_	5	nmod	_	O
+5	city	city	NN	_	2	pobj	_	O
+6	was	be	VBD	_	0	root	_	O
+7	a	a	DT	_	9	det	_	O
+8	surreal	surreal	JJ	_	9	nmod	_	O
+9	experience	experience	NN	_	6	attr	_	O
+10	to	to	TO	_	11	aux	_	O
+11	say	say	VB	_	9	relcl	_	O
+12	the	the	DT	_	13	det	_	O
+13	least	least	JJS	pos2=RBS	11	dobj	_	O
+14	😅	😅	.	pos2=NN	6	punct	_	O
+

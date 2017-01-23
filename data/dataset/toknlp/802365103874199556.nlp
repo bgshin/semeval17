@@ -1,0 +1,19 @@
+1	Why	why	WRB	_	2	advmod	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	Trump	trump	NNP	_	4	compound	_	B-ORG
+4	Filling	filling	NNP	pos2=VBG	2	nsubj	_	L-ORG
+5	His	his	PRP$	_	6	poss	_	O
+6	Cabinet	cabinet	NNP	_	4	appos	_	U-ORG
+7	With	with	IN	pos2=NNP	6	prep	_	O
+8	Council	council	NNP	_	7	pobj	_	B-ORG
+9	on	on	IN	_	8	prep	_	I-ORG
+10	Foreign	foreign	NNP	_	11	compound	_	I-ORG
+11	Relations	relation	NNPS	pos2=NNP	13	compound	_	I-ORG
+12	War	war	NNP	_	13	compound	_	I-ORG
+13	H	h	NNP	pos2=NN	9	pobj	_	L-ORG
+14	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/KIQeG4eeiD	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@YouTube	@youtube	NN	pos2=NNP	2	pobj	_	O
+

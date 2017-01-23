@@ -1,0 +1,20 @@
+1	@PunishingLight	@punishinglight	UH	pos2=NNP	5	discourse	_	O
+2	Yeah	yeah	UH	_	5	discourse	_	O
+3	,	,	,	_	5	punct	_	O
+4	probably	probably	RB	_	5	advmod	_	O
+5	not	not	RB	_	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	She	she	PRP	_	4	nsubj	_	O
+2	would	would	MD	_	4	aux	_	O
+3	have	have	VB	_	4	aux	_	O
+4	lost	lose	VBN	_	0	root	_	O
+5	to	to	IN	_	4	prep	_	O
+6	mice	mouse	NNS	_	5	pobj	_	O
+7	in	in	IN	_	4	prep	_	O
+8	an	an	DT	_	11	det	_	O
+9	animal	animal	NN	_	10	compound	_	O
+10	testing	testing	NN	_	11	compound	_	O
+11	facility	facility	NN	_	7	pobj	_	O
+12	.	.	.	_	4	punct	_	O
+

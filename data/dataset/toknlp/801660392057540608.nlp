@@ -1,0 +1,18 @@
+1	#KeepsTrumpUpAtNight	#keepstrumpupatnight	NN	pos2=UH	4	vocative	_	O
+2	Should	should	MD	_	4	aux	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	build	build	VB	_	0	root	_	O
+5	that	that	DT	pos2=WDT	6	det	_	O
+6	wall	wall	NN	_	4	dobj	_	O
+7	around	around	IN	_	4	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	entire	entire	JJ	pos2=NN	10	nmod	_	O
+10	America	america	NNP	_	7	pobj	_	U-GPE
+11	or	or	CC	_	7	cc	_	O
+12	on	on	IN	_	7	conj	_	O
+13	the	the	DT	_	15	det	_	O
+14	Mexican	mexican	JJ	pos2=NNP	15	nmod	_	U-NORP
+15	border	border	NN	_	12	pobj	_	O
+16	only	only	RB	_	15	advmod	_	O
+17	???	??	.	_	4	punct	_	O
+

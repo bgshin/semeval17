@@ -1,0 +1,26 @@
+1	😇GOD	😇god	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	WON	win	VBD	pos2=NNP	8	ccomp	_	O
+3	👸	👸	IN	pos2=JJ	2	prep	_	O
+4	ANGEL	angel	NN	pos2=NNP	3	pobj	_	O
+5	@StopStopHillary	@stopstophillary	IN	pos2=NNP	2	prep	_	O
+6	THE	the	DT	_	7	det	_	O
+7	POPE	pope	NNP	pos2=NN	5	pobj	_	O
+8	Says	say	VBZ	pos2=NNPS	0	root	_	O
+9	@realDonaldTrump	@realdonaldtrump	NNP	pos2=ADD	10	nsubj	_	U-GPE
+10	has	have	VBZ	_	8	ccomp	_	O
+11	an	an	DT	_	12	det	_	O
+12	EGO	ego	NN	_	10	dobj	_	O
+13	...	..	.	pos2=,	8	punct	_	O
+
+1	IS	be	VBZ	_	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	POPE	pope	NN	pos2=NNP	1	nsubj	_	O
+4	with	with	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	EGO	ego	NN	_	7	compound	_	O
+7	PROBLEM	problem	NN	_	4	pobj	_	O
+8	..	..	.	pos2=:	1	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/iPtrKjjzP6	#hlink#	ADD	pos2=NN	0	root	_	O
+

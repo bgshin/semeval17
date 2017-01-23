@@ -1,0 +1,11 @@
+1	@KremlinTrolls	@kremlintrolls	NNS	pos2=NNP	0	root	_	O
+2	Putin	putin	NNP	_	3	nsubj	_	U-PERSON
+3	looked	look	VBD	_	1	relcl	_	O
+4	miserable	miserable	JJ	_	3	acomp	_	O
+5	for	for	IN	_	4	prep	_	O
+6	rest	rest	NN	_	5	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	B-DATE
+9	day	day	NN	_	7	pobj	_	L-DATE
+10	.	.	.	_	3	punct	_	O
+

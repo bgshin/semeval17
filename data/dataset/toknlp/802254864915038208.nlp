@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det	_	O
+2	Frontiers	frontier	NNPS	pos2=NNP	3	compound	_	O
+3	Issue	issue	NN	pos2=NNP	0	root	_	O
+4	with	with	IN	_	3	prep	_	O
+5	Guest	guest	NNP	_	6	compound	_	B-ORG
+6	Editor	editor	NNP	pos2=NN	7	compound	_	L-ORG
+7	President	president	NNP	_	11	compound	_	O
+8	Barack	barack	NNP	_	11	compound	_	B-PERSON
+9	Obama	obama	NNP	_	11	compound	_	L-PERSON
+10	–	-	HYPH	pos2=:	11	punct	_	O
+11	President	president	NNP	_	13	compound	_	O
+12	Barack	barack	NNP	_	13	compound	_	B-PERSON
+13	Obama	obama	NNP	_	4	pobj	_	L-PERSON
+14	on	on	IN	_	3	prep	_	O
+15	How	how	WRB	pos2=NNP	18	advmod	_	O
+16	We	we	PRP	_	18	nsubj	_	O
+17	’ll	will	MD	_	18	aux	_	O
+18	Embrace	embrace	VB	pos2=GW	14	pcomp	_	O
+19	…	…	NFP	pos2=:	18	discourse	_	O
+20	https://t.co/Zab1ObWWhk	#hlink#	ADD	_	18	dobj	_	O
+

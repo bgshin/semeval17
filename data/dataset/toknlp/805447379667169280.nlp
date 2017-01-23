@@ -1,0 +1,21 @@
+1	@disturbedsauce	@disturbedsauce	UH	pos2=NN	7	discourse	_	O
+2	@TomsAllende	@tomsallende	NNP	pos2=NN	7	vocative	_	U-PERSON
+3	Therefore	therefore	RB	_	7	advmod	_	O
+4	,	,	,	_	7	punct	_	O
+5	we	we	PRP	_	7	nsubj	_	O
+6	can	can	MD	_	7	aux	_	O
+7	say	say	VB	_	0	root	_	O
+8	that	that	IN	_	14	mark	_	O
+9	an	an	DT	_	10	det	_	O
+10	embargo	embargo	NN	_	14	nsubjpass	_	O
+11	should	should	MD	_	14	aux	_	O
+12	have	have	VB	_	14	aux	_	O
+13	been	be	VBN	_	14	auxpass	_	O
+14	put	put	VBN	pos2=VB	7	ccomp	_	O
+15	on	on	IN	_	14	prep	_	O
+16	Chile	chile	NNP	_	15	pobj	_	U-GPE
+17	...	..	.	pos2=,	7	punct	_	O
+
+1	not	not	RB	_	2	neg	_	O
+2	cuba	cuba	NN	pos2=NNS	0	root	_	O
+

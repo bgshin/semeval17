@@ -1,0 +1,15 @@
+1	@barbarascully	@barbarascully	RB	pos2=UH	2	advmod	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	it	it	PRP	_	2	nsubj	_	O
+4	foggy	foggy	JJ	_	2	acomp	_	O
+5	?	?	.	_	2	punct	_	O
+
+1	Foggy	foggy	JJ	pos2=NNP	7	nmod	_	O
+2	and	and	CC	_	1	cc	_	O
+3	cold	cold	JJ	pos2=NN	1	conj	_	O
+4	in	in	IN	_	3	prep	_	O
+5	Tipp	tipp	NNP	_	4	pobj	_	U-GPE
+6	all	all	DT	_	7	det	_	B-DATE
+7	week	week	NN	_	0	root	_	L-DATE
+8	...	..	.	pos2=,	7	punct	_	O
+

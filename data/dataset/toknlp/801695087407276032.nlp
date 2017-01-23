@@ -1,0 +1,20 @@
+1	What	what	WP	_	2	attr	_	O
+2	were	be	VBD	_	5	aux	_	O
+3	the	the	DT	_	4	det	_	O
+4	Mariners	mariner	NNPS	_	5	nsubj	_	U-ORG
+5	thinking	think	VBG	pos2=NN	0	root	_	O
+6	!	!	.	_	5	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	hope	hope	VBP	_	0	root	_	O
+3	Taijuan	taijuan	NNP	_	4	nsubj	_	U-PERSON
+4	has	have	VBZ	_	2	ccomp	_	O
+5	an	an	DT	_	7	det	_	O
+6	awesome	awesome	JJ	_	7	nmod	_	O
+7	season	season	NN	_	4	dobj	_	O
+8	an	an	DT	pos2=WP	12	det	_	O
+9	wins	win	VBZ	_	4	conj	_	O
+10	the	the	DT	_	12	det	_	O
+11	Cy	cy	NNP	pos2=NN	12	compound	_	U-ORG
+12	young	young	JJ	pos2=NN	7	appos	_	O
+

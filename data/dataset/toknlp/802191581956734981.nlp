@@ -1,0 +1,26 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@JustinTrudeau	@justintrudeau	UH	pos2=XX	6	discourse	_	O
+2	just	just	RB	_	4	advmod	_	O
+3	as	as	RB	_	4	advmod	_	O
+4	much	much	JJ	pos2=RB	0	root	_	O
+5	as	as	IN	_	4	prep	_	O
+6	selling	sell	VBG	_	5	pcomp	_	O
+7	women	woman	NNS	_	6	dobj	_	O
+8	out	out	RP	pos2=RB	6	prt	_	O
+9	for	for	IN	_	6	prep	_	O
+10	a	a	DT	_	12	det	_	O
+11	perceived	perceive	VBN	pos2=JJ	12	nmod	_	O
+12	peace	peace	NN	_	9	pobj	_	O
+13	that	that	WDT	_	17	nsubj	_	O
+14	does	do	VBZ	_	17	aux	_	O
+15	n't	not	RB	_	17	neg	_	O
+16	really	really	RB	_	17	advmod	_	O
+17	mean	mean	VB	_	12	relcl	_	O
+18	peace	peace	NN	_	17	dobj	_	O
+19	?	?	.	_	17	punct	_	O
+
+1	@cafreeland	@cafreeland	UH	pos2=XX	3	discourse	_	O
+2	@najatvb	@najatvb	UH	pos2=XX	3	discourse	_	O
+3	@poroshenko	@poroshenko	UH	pos2=FW	0	root	_	O
+

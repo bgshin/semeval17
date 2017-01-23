@@ -1,0 +1,19 @@
+1	She	she	PRP	_	4	nsubj	_	O
+2	does	do	VBZ	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	care	care	VB	_	8	ccomp	_	O
+5	though	though	RB	_	4	advmod	_	O
+6	,	,	,	_	8	punct	_	O
+7	she	she	PRP	_	8	nsubj	_	O
+8	says	say	VBZ	_	0	root	_	O
+9	next	next	JJ	_	10	nmod	_	B-DATE
+10	year	year	NN	_	13	npadvmod	_	L-DATE
+11	she	she	PRP	_	12	nsubj	_	O
+12	's	's	VBZ	_	8	ccomp	_	O
+13	eligible	eligible	JJ	_	12	acomp	_	O
+14	for	for	IN	_	13	prep	_	O
+15	Medicaid	medicaid	NNP	_	14	pobj	_	U-ORG
+16	.	.	.	_	8	punct	_	O
+
+1	https://t.co/l1O5DDYTmv	#hlink#	ADD	_	0	root	_	U-ORG
+

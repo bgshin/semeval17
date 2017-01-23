@@ -1,0 +1,20 @@
+1	@adrianjcl123	@adrianjcl0	NN	pos2=UH	5	nsubj	_	O
+2	@grittyprose	@grittyprose	IN	pos2=VBD	1	prep	_	O
+3	Adrian	adrian	NNP	_	2	pobj	_	U-PERSON
+4	already	already	RB	_	5	advmod	_	O
+5	admitted	admit	VBD	pos2=VBN	0	root	_	O
+6	months	month	NNS	_	7	npadvmod	_	B-DATE
+7	ago	ago	RB	_	5	advmod	_	L-DATE
+8	,	,	,	_	12	punct	_	O
+9	no	no	DT	_	11	det	_	O
+10	evidence	evidence	NN	_	11	compound	_	O
+11	vegetarianism	vegetarianism	NN	_	12	nsubj	_	O
+12	affected	affect	VBN	pos2=JJ	13	nmod	_	O
+13	son	son	NN	_	16	poss	_	O
+14	's	's	POS	_	13	case	_	O
+15	pre-existing	pre-existing	JJ	_	16	nmod	_	O
+16	condition	condition	NN	_	5	dobj	_	O
+17	.	.	.	_	5	punct	_	O
+
+1	@cpehooper	@cpehooper	UH	pos2=NN	0	root	_	O
+

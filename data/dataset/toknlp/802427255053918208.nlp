@@ -1,0 +1,23 @@
+1	He	he	PRP	_	2	nsubj	_	O
+2	’s	's	VBZ	_	0	root	_	O
+3	mad	mad	JJ	_	2	acomp	_	O
+4	at	at	IN	_	3	prep	_	O
+5	Obama	obama	NNP	_	4	pobj	_	U-PERSON
+6	,	,	,	_	2	punct	_	O
+7	and	and	CC	_	2	cc	_	O
+8	does	do	VBZ	_	11	aux	_	O
+9	n’t	not	RB	_	11	neg	_	O
+10	even	even	RB	_	11	advmod	_	O
+11	have	have	VB	_	2	conj	_	O
+12	“	"	``	_	13	punct	_	O
+13	Obamacare	obamacare	NNP	_	11	dobj	_	O
+14	”	"	''	_	13	punct	_	O
+15	.	.	.	_	2	punct	_	O
+
+1	Blames	blame	VBZ	_	0	root	_	O
+2	POTUS	potus	NN	pos2=NNP	1	dobj	_	O
+3	for	for	IN	_	1	prep	_	O
+4	employer	employer	NN	_	5	compound	_	O
+5	rates	rate	NNS	_	3	pobj	_	O
+6	https://t.co/HbSTge30Dd	#hlink#	ADD	pos2=VBP	2	appos	_	O
+

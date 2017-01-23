@@ -1,0 +1,26 @@
+1	@Melaniesue56	@melaniesue0	NN	pos2=NNS	4	compound	_	O
+2	@OathKeeper101	@oathkeeper0	NN	pos2=XX	4	compound	_	O
+3	st	st	NN	pos2=UH	4	compound	_	O
+4	@wfnx1990	@wfnx0	NN	pos2=CC	0	root	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	'm	be	VBP	_	4	relcl	_	O
+7	tired	tired	JJ	_	6	acomp	_	O
+8	of	of	IN	_	7	prep	_	O
+9	conservatives	conservative	NNS	_	8	pobj	_	O
+10	&	&	CC	_	9	cc	_	O
+11	whites	white	NNS	_	9	conj	_	O
+12	giving	give	VBG	_	9	acl	_	O
+13	up	up	RP	pos2=IN	12	prt	_	O
+14	the	the	DT	_	16	det	_	O
+15	best	good	JJS	_	16	nmod	_	O
+16	places	place	NNS	_	12	dobj	_	O
+17	.	.	.	_	4	punct	_	O
+
+1	Instead	instead	RB	_	2	advmod	_	O
+2	of	of	IN	_	6	prep	_	O
+3	fighting	fight	VBG	pos2=NN	2	pcomp	_	O
+4	,	,	,	_	6	punct	_	O
+5	they	they	PRP	_	6	nsubj	_	O
+6	leave	leave	VBP	_	0	root	_	O
+7	.	.	.	_	6	punct	_	O
+

@@ -1,0 +1,19 @@
+1	Cristiano	cristiano	NNP	_	3	compound	_	O
+2	Ronaldo	ronaldo	NNP	_	3	compound	_	O
+3	Shortlisted	shortlisted	NNP	pos2=VBN	0	root	_	O
+4	For	for	IN	_	3	prep	_	O
+5	FIFA	fifa	NNP	_	9	poss	_	U-ORG
+6	's	's	POS	_	5	case	_	O
+7	2016	0	CD	_	9	nmod	_	U-CARDINAL
+8	Best	good	JJS	pos2=NNP	9	nmod	_	O
+9	Men	man	NNS	pos2=NNPS	12	poss	_	B-WORK_OF_ART
+10	's	's	POS	_	9	case	_	I-WORK_OF_ART
+11	Player	player	NNP	_	12	compound	_	I-WORK_OF_ART
+12	Award	award	NNP	_	18	dep	_	L-WORK_OF_ART
+13	#cristiano	#cristiano	XX	pos2=ADD	18	dep	_	O
+14	#ronaldo	#ronaldo	XX	pos2=UH	18	dep	_	O
+15	#shortlisted	#shortlisted	XX	pos2=VBD	18	dep	_	O
+16	#player	#player	XX	pos2=GW	18	nmod	_	O
+17	……	……	NFP	pos2=XX	18	punct	_	O
+18	https://t.co/b7xVJKyd9J	#hlink#	ADD	_	4	pobj	_	O
+

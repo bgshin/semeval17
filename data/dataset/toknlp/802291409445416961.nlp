@@ -1,0 +1,18 @@
+1	Easy	easy	JJ	_	2	nmod	_	B-DATE
+2	week	week	NN	_	0	root	_	L-DATE
+3	for	for	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	huskers	huskers	NNS	pos2=NNPS	3	pobj	_	O
+6	learning	learn	VBG	_	5	acl	_	O
+7	the	the	DT	_	8	det	_	O
+8	playbook	playbook	NN	_	6	dobj	_	O
+9	this	this	DT	_	10	det	_	B-DATE
+10	week	week	NN	_	6	npadvmod	_	L-DATE
+11	,	,	,	_	8	punct	_	O
+12	slant	slant	NN	_	10	conj	_	O
+13	,	,	,	_	12	punct	_	O
+14	deep	deep	JJ	pos2=RB	15	nmod	_	O
+15	fade	fade	NN	pos2=VBP	12	conj	_	O
+16	very	very	RB	_	17	advmod	_	O
+17	creative	creative	JJ	_	15	nmod	_	O
+

@@ -1,0 +1,21 @@
+1	Noah	noah	NNP	pos2=JJ	2	compound	_	U-PERSON
+2	fence	fence	NN	_	0	root	_	O
+3	but	but	CC	_	2	cc	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	'm	be	VBP	_	2	conj	_	O
+6	sick	sick	JJ	_	5	acomp	_	O
+7	of	of	IN	_	6	prep	_	O
+8	people	people	NNS	_	7	pobj	_	O
+9	telling	tell	VBG	_	5	advcl	_	O
+10	me	me	PRP	_	9	dobj	_	O
+11	what	what	WDT	pos2=WP	9	dobj	_	O
+12	I	I	PRP	_	13	nsubj	_	O
+13	should	should	MD	_	9	ccomp	_	O
+14	or	or	CC	_	13	cc	_	O
+15	should	should	MD	_	18	aux	_	O
+16	n't	not	RB	_	18	neg	_	O
+17	be	be	VB	_	18	aux	_	O
+18	eating	eat	VBG	_	13	conj	_	O
+19	e.g	e.g	JJ	pos2=IN	20	nmod	_	U-NORP
+20	vegetarianism	vegetarianism	NN	_	18	dobj	_	O
+

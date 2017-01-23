@@ -1,0 +1,15 @@
+1	spent	spend	VBD	pos2=VBN	12	advcl	_	O
+2	3	0	CD	_	3	nmod	_	B-TIME
+3	hours	hour	NNS	_	1	dobj	_	L-TIME
+4	watching	watch	VBG	_	1	xcomp	_	O
+5	David	david	NNP	_	7	compound	_	B-PERSON
+6	Blaine	blaine	NNP	_	7	compound	_	L-PERSON
+7	youtube	youtube	NNP	pos2=VBD	8	compound	_	O
+8	videos	video	NNS	pos2=VBZ	4	dobj	_	O
+9	,	,	,	_	12	punct	_	O
+10	THAT	that	DT	pos2=IN	11	det	_	O
+11	GUY	guy	NN	pos2=NNP	12	nsubj	_	O
+12	IS	be	VBZ	_	0	root	_	O
+13	FUCKING	fucking	JJ	pos2=VBG	14	advmod	_	O
+14	RIDICULOUS	ridiculous	JJ	_	12	acomp	_	O
+

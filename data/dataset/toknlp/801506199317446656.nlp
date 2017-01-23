@@ -1,0 +1,9 @@
+1	The	the	DT	_	3	det	_	O
+2	real	real	JJ	_	3	nmod	_	O
+3	reason	reason	NN	_	8	dep	_	O
+4	behind	behind	IN	_	3	prep	_	O
+5	Saakashvili	saakashvili	NNP	_	7	poss	_	U-PERSON
+6	's	's	POS	_	5	case	_	O
+7	resignation	resignation	NN	_	4	pobj	_	O
+8	https://t.co/dMWzCFtlLY	#hlink#	ADD	pos2=NN	0	root	_	O
+

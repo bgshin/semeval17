@@ -1,0 +1,23 @@
+1	@politico	@politico	UH	pos2=NN	3	npadvmod	_	O
+2	-	-	HYPH	pos2=:	3	punct	_	O
+3	dump	dump	NN	pos2=VB	4	compound	_	O
+4	Pelosi	pelosi	NNP	pos2=NN	0	root	_	U-PERSON
+5	.	.	.	_	4	punct	_	O
+
+1	Like	like	IN	pos2=UH	6	prep	_	O
+2	Harry	harry	NNP	_	3	compound	_	B-PERSON
+3	Reid	reid	NNP	_	1	pobj	_	L-PERSON
+4	,	,	,	_	6	punct	_	O
+5	she	she	PRP	_	6	nsubj	_	O
+6	lied	lie	VBD	_	0	root	_	O
+7	about	about	IN	_	6	prep	_	O
+8	Obamacare	obamacare	NNP	_	7	pobj	_	U-PERSON
+9	and	and	CC	_	6	cc	_	O
+10	is	be	VBZ	_	6	conj	_	O
+11	useless	useless	JJ	_	10	acomp	_	O
+12	.	.	.	_	6	punct	_	O
+
+1	Go	go	VB	_	0	root	_	O
+2	away	away	RB	_	1	advmod	_	O
+3	.	.	.	_	1	punct	_	O
+

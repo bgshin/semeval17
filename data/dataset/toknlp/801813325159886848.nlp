@@ -1,0 +1,24 @@
+1	@ZarrarKhuhro	@zarrarkhuhro	ADD	pos2=UH	5	discourse	_	O
+2	@fahad_marwat	@fahad_marwat	UH	pos2=XX	5	discourse	_	O
+3	@Khalid_Munir	@khalid_munir	ADD	pos2=UH	5	discourse	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	hear	hear	VBP	_	0	root	_	O
+6	this	this	DT	_	7	det	_	O
+7	argument	argument	NN	_	5	dobj	_	O
+8	from	from	IN	_	7	prep	_	O
+9	lot	lot	NN	_	8	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	pakistanis	pakistani	NNS	pos2=NN	10	pobj	_	O
+12	that	that	WDT	pos2=IN	15	mark	_	O
+13	we	we	PRP	_	15	nsubj	_	O
+14	never	never	RB	_	15	neg	_	O
+15	elect	elect	VBP	pos2=VB	11	relcl	_	O
+16	rightists	rightist	NNS	_	15	dobj	_	O
+17	..	..	.	_	5	punct	_	O
+
+1	its	its	PRP$	pos2=UH	5	poss	_	O
+2	in	in	IN	pos2=RP	1	prep	_	O
+3	your	your	PRP$	_	4	poss	_	O
+4	laws	law	NNS	pos2=NN	2	pobj	_	O
+5	ffs	ffs	NNS	pos2=UH	0	root	_	O
+

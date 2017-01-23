@@ -1,0 +1,17 @@
+1	@Brian_Was_Here	@brian_was_here	ADD	pos2=NN	11	discourse	_	O
+2	_	_	''	pos2=SYM	6	punct	_	O
+3	@kalitzlina	@kalitzlina	:	pos2=IN	11	punct	_	O
+4	Michael	michael	NNP	_	5	compound	_	B-PERSON
+5	Moore	moore	NNP	_	10	poss	_	I-PERSON
+6	's	's	POS	_	5	case	_	L-PERSON
+7	favorite	favorite	JJ	_	10	nmod	_	O
+8	health	health	NN	_	9	compound	_	O
+9	care	care	NN	_	10	compound	_	O
+10	system	system	NN	_	11	nsubj	_	O
+11	seems	seem	VBZ	_	0	root	_	O
+12	to	to	TO	_	13	aux	_	O
+13	have	have	VB	_	11	xcomp	_	O
+14	#obamacarefail	#obamacarefail	XX	pos2=NNP	15	compound	_	O
+15	Fidel	fidel	NNP	_	13	dobj	_	U-PERSON
+16	.	.	.	_	11	punct	_	O
+

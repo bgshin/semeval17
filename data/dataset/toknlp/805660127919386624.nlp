@@ -1,0 +1,34 @@
+1	@jimmy_dore	@jimmy_dore	UH	pos2=IN	4	discourse	_	O
+2	we	we	PRP	_	4	nsubj	_	O
+3	all	all	DT	_	2	appos	_	O
+4	know	know	VBP	_	0	root	_	O
+5	on	on	IN	_	4	prep	_	O
+6	JANUARY	january	NNP	_	7	compound	_	B-DATE
+7	20th	#ord#	NN	pos2=JJ	8	compound	_	L-DATE
+8	trump	trump	NN	_	5	pobj	_	O
+9	gon	gon	VBG	pos2=MD	8	acl	_	O
+10	na	to	TO	_	11	aux	_	O
+11	push	push	VB	pos2=NN	9	xcomp	_	O
+12	oil	oil	NN	_	11	dobj	_	O
+13	,	,	,	_	12	punct	_	O
+14	fossil	fossil	NN	pos2=JJ	15	compound	_	O
+15	fuels	fuel	NNS	_	12	conj	_	O
+16	,	,	,	_	15	punct	_	O
+17	fracking	fracking	VBG	pos2=NN	15	conj	_	O
+18	down	down	RP	pos2=IN	17	prt	_	O
+19	our	our	PRP$	_	20	poss	_	O
+20	throats	throat	NNS	_	17	dobj	_	O
+21	.	.	.	_	4	punct	_	O
+
+1	Fml	fml	NNP	pos2=UH	0	root	_	U-PERSON
+2	...	..	.	pos2=,	1	punct	_	O
+
+1	We	we	PRP	_	3	nsubj	_	O
+2	must	must	MD	_	3	aux	_	O
+3	fight	fight	VB	_	0	root	_	O
+4	back	back	RB	pos2=NN	3	prt	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	GOP	gop	NNP	pos2=NN	2	compound	_	U-ORG
+2	sucks	suck	NNS	pos2=VBZ	0	root	_	O
+

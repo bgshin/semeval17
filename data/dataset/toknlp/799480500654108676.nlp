@@ -1,0 +1,20 @@
+1	Fearing	fear	VBG	pos2=NNP	4	nmod	_	O
+2	North	north	JJ	_	3	advmod	_	B-NORP
+3	Korean	korean	JJ	_	4	nmod	_	L-NORP
+4	dictator	dictator	NN	_	19	dep	_	O
+5	,	,	,	_	8	punct	_	O
+6	China	china	NNP	_	8	nsubj	_	U-GPE
+7	reportedly	reportedly	RB	_	8	advmod	_	O
+8	bans	ban	VBZ	_	19	dep	_	O
+9	searches	search	NNS	pos2=NN	8	dobj	_	O
+10	for	for	IN	_	9	prep	_	O
+11	'	'	``	_	15	punct	_	O
+12	Fatty	fatty	JJ	pos2=NNP	13	nmod	_	B-PERSON
+13	Kim	kim	NNP	_	19	dep	_	L-PERSON
+14	the	the	DT	_	15	det	_	O
+15	Third	#ord#	NNP	pos2=JJ	13	appos	_	U-ORDINAL
+16	'	'	''	_	19	dep	_	O
+17	:	:	:	_	19	punct	_	O
+18	https://t.co/89Kfpopt57	#hlink#	ADD	_	19	nmod	_	O
+19	https://t.co/ilMwoGtibE	#hlink#	ADD	_	0	root	_	U-ORG
+

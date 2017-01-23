@@ -1,0 +1,12 @@
+1	Vladimir	vladimir	NNP	_	2	compound	_	B-PERSON
+2	Putin	putin	NNP	_	3	nsubj	_	L-PERSON
+3	grants	grant	VBZ	pos2=NNS	0	root	_	O
+4	action	action	NN	_	5	compound	_	O
+5	hero	hero	NN	_	11	dep	_	O
+6	Steven	steven	NNP	_	7	nmod	_	B-PERSON
+7	Seagal	seagal	NNP	_	9	nmod	_	L-PERSON
+8	Russian	russian	JJ	_	9	nmod	_	U-NORP
+9	passport	passport	NN	pos2=GW	11	dep	_	O
+10	https://t.co/D3OiWR0MGr	#hlink#	ADD	_	11	nmod	_	O
+11	https://t.co/zEgSJM3Syu	#hlink#	ADD	_	3	dobj	_	U-ORG
+

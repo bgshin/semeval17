@@ -1,0 +1,26 @@
+1	#ISIS	#isis	NN	pos2=NNS	2	npadvmod	_	O
+2	affiliated	affiliate	VBN	pos2=JJ	3	nmod	_	O
+3	media	medium	NNS	pos2=NN	6	dep	_	O
+4	:	:	:	_	6	punct	_	O
+5	ISIS	isis	NNP	pos2=NN	6	nsubj	_	U-ORG
+6	launched	launch	VBD	pos2=VBN	0	root	_	O
+7	20	0	CD	_	9	nmod	_	U-CARDINAL
+8	suicide	suicide	NN	_	9	compound	_	O
+9	attacks	attack	NNS	_	6	dobj	_	O
+10	between	between	IN	_	9	prep	_	O
+11	Nov.	nov.	NNP	_	10	pobj	_	B-DATE
+12	15	0	CD	_	11	nmod	_	I-DATE
+13	-	-	SYM	_	14	punct	_	I-DATE
+14	21	0	CD	_	11	nmod	_	L-DATE
+15	in	in	IN	_	6	prep	_	O
+16	#Mosul	#mosul	NNP	pos2=JJ	17	compound	_	U-GPE
+17	battles	battle	NNS	_	15	pobj	_	O
+18	,	,	,	_	6	punct	_	O
+19	allegedly	allegedly	RB	_	20	advmod	_	O
+20	killing	kill	VBG	_	6	advcl	_	O
+21	487	0	CD	pos2=RP	20	dobj	_	U-CARDINAL
+22	.	.	.	_	6	punct	_	O
+
+1	#MosulOffensive	#mosuloffensive	ADD	pos2=JJ	2	compound	_	B-PERSON
+2	#Iraq	#iraq	NNP	pos2=NNS	0	root	_	L-PERSON
+

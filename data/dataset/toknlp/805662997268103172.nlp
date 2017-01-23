@@ -1,0 +1,24 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	strongly	strongly	RB	_	3	advmod	_	O
+3	concur	concur	VBP	_	0	root	_	O
+4	with	with	IN	_	3	prep	_	O
+5	the	the	DT	_	8	det	_	O
+6	voter	voter	NN	_	7	compound	_	O
+7	suppression	suppression	NN	_	8	compound	_	O
+8	outrage	outrage	NN	_	4	pobj	_	O
+9	expressed	express	VBN	pos2=VBD	8	acl	_	O
+10	in	in	IN	_	9	prep	_	O
+11	this	this	DT	_	12	det	_	O
+12	article	article	NN	_	10	pobj	_	O
+13	,	,	,	_	3	punct	_	O
+14	though	though	IN	_	18	mark	_	O
+15	I	I	PRP	_	18	nsubj	_	O
+16	do	do	VBP	_	18	aux	_	O
+17	n't	not	RB	_	18	neg	_	O
+18	agree	agree	VB	_	3	advcl	_	O
+19	with	with	IN	_	18	prep	_	O
+20	its	its	PRP$	pos2=PRP	19	pobj	_	O
+21	...	..	.	pos2=,	3	punct	_	O
+
+1	https://t.co/UxT0kjtQvZ	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,30 @@
+1	I	I	PRP	pos2=NN	2	nsubj	_	O
+2	ridicule	ridicule	VBP	_	12	ccomp	_	O
+3	Alt	alt	NNP	pos2=JJ	5	compound	_	B-NORP
+4	-	-	HYPH	_	5	punct	_	I-NORP
+5	Rightists	rightist	NNPS	pos2=NNS	2	dobj	_	L-NORP
+6	on	on	IN	_	2	prep	_	O
+7	a	a	DT	_	9	det	_	O
+8	personal	personal	JJ	_	9	nmod	_	O
+9	basis	basis	NN	_	6	pobj	_	O
+10	;	;	:	pos2=,	12	punct	_	O
+11	they	they	PRP	_	12	nsubj	_	O
+12	're	be	VBP	_	0	root	_	O
+13	ridiculous	ridiculous	JJ	_	12	acomp	_	O
+14	.	.	.	_	12	punct	_	O
+
+1	Ridiculous	ridiculous	JJ	pos2=RB	4	dep	_	O
+2	too	too	RB	_	4	advmod	_	O
+3	to	to	TO	_	4	aux	_	O
+4	say	say	VB	_	0	root	_	O
+5	that	that	IN	_	11	mark	_	O
+6	a	a	DT	_	7	det	_	O
+7	President	president	NNP	_	8	nsubj	_	O
+8	pandering	pander	VBG	_	11	csubj	_	O
+9	to	to	IN	_	8	prep	_	O
+10	them	them	PRP	_	9	pobj	_	O
+11	is	be	VBZ	_	4	ccomp	_	O
+12	n't	not	RB	_	11	neg	_	O
+13	dangerous	dangerous	JJ	_	11	acomp	_	O
+14	.	.	.	_	4	punct	_	O
+

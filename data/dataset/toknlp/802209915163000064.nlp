@@ -1,0 +1,10 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	rather	rather	RB	_	4	advmod	_	O
+4	terrifying	terrifying	JJ	_	2	acomp	_	O
+5	if	if	IN	_	9	mark	_	O
+6	expected#GopLies	expected#goplies	NNS	pos2=ADD	9	nmod	_	O
+7	#UniteBlue	#uniteblue	GW	pos2=VBP	9	nmod	_	B-PERSON
+8	#ConnectTheLeft	#connecttheleft	GW	pos2=ADD	9	nmod	_	L-PERSON
+9	https://t.co/sIGNRtXjui	#hlink#	ADD	pos2=NN	4	advcl	_	O
+

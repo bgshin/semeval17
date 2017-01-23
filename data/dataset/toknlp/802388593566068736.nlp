@@ -1,0 +1,26 @@
+1	@Ron917	@ron0	NN	pos2=LS	3	compound	_	O
+2	@NBCLA	@nbcla	NN	pos2=XX	3	compound	_	O
+3	lmfao	lmfao	NN	pos2=FW	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Trump	trump	NN	pos2=NNP	4	nsubj	_	U-ORG
+2	does	do	VBZ	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	advocate	advocate	VB	_	0	root	_	O
+5	anything	anything	NN	_	4	dobj	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	If	if	IN	_	7	mark	_	O
+2	anything	anything	NN	_	0	root	_	O
+3	George	george	NNP	_	4	compound	_	B-PERSON
+4	Soros	soros	NNP	_	7	nsubj	_	L-PERSON
+5	and	and	CC	_	4	cc	_	O
+6	Hillary	hillary	NNP	_	4	conj	_	U-PERSON
+7	pay	pay	VBP	pos2=VB	2	parataxis	_	O
+8	them	them	PRP	_	7	dobj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	stir	stir	VB	_	7	xcomp	_	O
+11	up	up	RP	_	10	prt	_	O
+12	violence	violence	NN	_	10	dobj	_	O
+13	.	.	.	_	2	punct	_	O
+

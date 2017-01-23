@@ -1,0 +1,22 @@
+1	Voter	voter	NN	pos2=JJ	2	compound	_	O
+2	registration	registration	NN	_	3	nsubj	_	O
+3	needs	need	VBZ	_	0	root	_	O
+4	to	to	TO	_	6	aux	_	O
+5	be	be	VB	_	6	auxpass	_	O
+6	purged	purge	VBN	_	3	xcomp	_	O
+7	Country	country	NN	pos2=NNP	8	npadvmod	_	O
+8	wide	wide	JJ	pos2=RB	6	advmod	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	Then	then	RB	_	2	advmod	_	O
+2	have	have	VB	pos2=VBP	0	root	_	O
+3	everyone	everyone	NN	_	4	nsubj	_	O
+4	re-register	re-register	VB	pos2=NN	2	ccomp	_	O
+5	with	with	IN	_	4	prep	_	O
+6	proof	proof	NN	_	5	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	citizenship	citizenship	NN	_	7	pobj	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	0	root	_	O
+

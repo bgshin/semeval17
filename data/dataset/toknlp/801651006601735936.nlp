@@ -1,0 +1,10 @@
+1	@utahjazz	@utahjazz	UH	pos2=XX	5	discourse	_	O
+2	how	how	WRB	_	5	advmod	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	we	we	PRP	_	5	nsubj	_	O
+5	claim	claim	VB	pos2=VBP	0	root	_	O
+6	our	our	PRP$	_	8	poss	_	O
+7	$	$	$	_	8	nmod	_	O
+8	100	0	CD	_	5	dobj	_	U-MONEY
+9	???	??	.	pos2=SYM	5	punct	_	O
+

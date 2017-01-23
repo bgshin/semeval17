@@ -1,0 +1,12 @@
+1	Article	article	NN	_	8	dep	_	B-TIME
+2	50	0	CD	_	1	nmod	_	I-TIME
+3	in	in	IN	_	1	prep	_	I-TIME
+4	50	0	CD	_	5	nmod	_	I-TIME
+5	seconds	#ord#	NNS	_	3	pobj	_	L-TIME
+6	-	-	:	pos2=NFP	8	punct	_	O
+7	https://t.co/srj7Rl5yRj	#hlink#	ADD	pos2=NN	8	nmod	_	O
+8	https://t.co/dwInOacL2r	#hlink#	ADD	_	0	root	_	U-ORG
+9	#solicitor	#solicitor	-RRB-	pos2=VB	8	punct	_	O
+10	#solicitorhour	#solicitorhour	UH	pos2=-RRB-	8	discourse	_	O
+11	#thebarrister	#thebarrister	UH	pos2=NN	8	discourse	_	O
+

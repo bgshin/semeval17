@@ -1,0 +1,20 @@
+1	Labels	label	NNS	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	now	now	RB	_	2	advmod	_	O
+4	meaningless	meaningless	JJ	_	2	acomp	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	Conservatives	conservative	NNS	pos2=NNPS	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	populists	populist	NNS	_	2	attr	_	O
+4	,	,	,	_	2	punct	_	O
+5	but	but	CC	_	2	cc	_	O
+6	conservatism	conservatism	NN	_	7	nsubj	_	O
+7	is	be	VBZ	_	2	conj	_	O
+8	opposite	opposite	JJ	pos2=IN	7	acomp	_	O
+9	of	of	IN	_	8	prep	_	O
+10	populism	populism	NN	_	9	pobj	_	O
+11	.	.	.	_	7	punct	_	O
+
+1	https://t.co/LiNmqBJC21	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,33 @@
+1	@RoadRunnerI80	@roadrunneri0	NN	pos2=UH	0	root	_	O
+2	nope	nope	UH	_	1	discourse	_	O
+3	!	!	.	_	1	punct	_	O
+
+1	HRC	hrc	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	won	win	VBD	pos2=AFX	0	root	_	O
+3	popular	popular	JJ	_	4	nmod	_	O
+4	vote	vote	NN	_	2	dobj	_	O
+5	by	by	IN	_	2	prep	_	O
+6	a	a	DT	_	7	det	_	O
+7	landslide	landslide	NN	_	5	pobj	_	O
+8	and	and	CC	_	2	cc	_	O
+9	still	still	RB	_	10	advmod	_	O
+10	counting	count	VBG	_	2	conj	_	O
+11	!	!	.	_	2	punct	_	O
+
+1	She	she	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	people	people	NNS	_	6	poss	_	O
+5	's	's	POS	_	4	case	_	O
+6	president	president	NN	_	2	attr	_	O
+7	!	!	.	_	2	punct	_	O
+
+1	1	0	CD	_	2	nmod	_	U-CARDINAL
+2	vote	vote	NN	_	5	nsubj	_	O
+3	=	=	SYM	_	5	punct	_	O
+4	1	0	CD	_	5	nmod	_	U-CARDINAL
+5	vote	vote	NN	pos2=NNS	0	root	_	O
+6	!	!	.	_	5	punct	_	O
+
+1	#StillWithHer	#stillwithher	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,18 @@
+1	machinelearnbot	machinelearnbot	NN	pos2=NNS	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Deep	deep	JJ	pos2=NNP	4	nmod	_	O
+4	Learning	learning	NN	pos2=NNP	0	root	_	O
+5	(	(	-LRB-	_	4	punct	_	O
+6	adaptive	adaptive	JJ	_	7	nmod	_	O
+7	Computation	computation	NN	pos2=NNP	4	appos	_	O
+8	And	and	CC	_	7	cc	_	O
+9	Machine	machine	NNP	pos2=NN	11	compound	_	B-EVENT
+10	Learning	learning	NNP	pos2=NN	11	compound	_	I-EVENT
+11	Series	series	NNP	_	7	conj	_	L-EVENT
+12	)	)	-RRB-	_	4	punct	_	O
+13	here	here	RB	_	10	advmod	_	O
+14	https://t.co/xGWSEv5bR0	#hlink#	ADD	pos2=VBP	17	nsubj	_	O
+15	#deeplearning	#deeplearning	VBG	pos2=-RRB-	17	dobj	_	O
+16	machinelearn	machinelearn	VB	pos2=FW	15	xcomp	_	O
+17	…	…	NFP	pos2=.	4	punct	_	O
+

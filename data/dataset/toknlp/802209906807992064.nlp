@@ -1,0 +1,14 @@
+1	Beyond	beyond	IN	_	5	prep	_	O
+2	the	the	DT	_	3	det	_	O
+3	headlines	headline	NNS	_	1	pobj	_	O
+4	#mannequinchallenge	#mannequinchallenge	NNP	pos2=XX	5	nsubj	_	O
+5	was	be	VBD	_	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	must	must	NN	pos2=MD	5	attr	_	O
+8	!	!	.	_	5	punct	_	O
+
+1	#policystudy	#policystudy	UH	pos2=XX	4	discourse	_	O
+2	#policysteady	#policysteady	UH	pos2=GW	4	discourse	_	O
+3	#BTH	#bth	NFP	pos2=ADD	4	punct	_	O
+4	https://t.co/skaG833ZwK	#hlink#	ADD	_	0	root	_	O
+

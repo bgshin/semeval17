@@ -1,0 +1,15 @@
+1	#Obama	#obama	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	Helps	help	VBZ	_	0	root	_	O
+3	#Iran	#iran	NNP	pos2=MD	4	nsubj	_	B-EVENT
+4	Get	get	VB	pos2=NNP	2	ccomp	_	I-EVENT
+5	New	new	NNP	pos2=JJ	6	compound	_	I-EVENT
+6	Planes	plane	NNP	pos2=NNS	4	dobj	_	L-EVENT
+7	As	as	IN	_	9	mark	_	O
+8	They	they	PRP	pos2=NNP	9	nsubj	_	O
+9	Smuggles	smuggle	VBZ	_	4	advcl	_	O
+10	Weapons	weapon	NNS	pos2=NNPS	9	dobj	_	O
+11	To	to	IN	pos2=TO	9	prep	_	O
+12	#Hezbollah	#hezbollah	NNP	pos2=VB	11	pobj	_	U-GPE
+13	>	>	SYM	pos2=-LRB-	14	punct	_	O
+14	https://t.co/p7oV4RZ8v7	#hlink#	ADD	_	2	dep	_	O
+

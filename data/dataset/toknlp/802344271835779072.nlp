@@ -1,0 +1,26 @@
+1	@cenkuygur	@cenkuygur	UH	pos2=NFP	3	discourse	_	O
+2	Why	why	WRB	_	7	advmod	_	O
+3	was	be	VBD	_	0	root	_	O
+4	n't	not	RB	_	3	neg	_	O
+5	Obama	obama	NNP	pos2=CD	6	compound	_	U-PERSON
+6	admin	admin	NN	pos2=VB	3	nsubj	_	O
+7	more	more	RBR	_	8	advmod	_	O
+8	aggressive	aggressive	JJ	_	3	acomp	_	O
+9	in	in	IN	_	8	prep	_	O
+10	goading	goad	VBG	_	9	pcomp	_	O
+11	FBI	fbi	NNP	pos2=NNS	13	nmod	_	U-ORG
+12	/	/	SYM	pos2=HYPH	13	punct	_	O
+13	CIA	cia	NNP	_	10	dobj	_	U-ORG
+14	to	to	TO	_	15	aux	_	O
+15	counter	counter	VB	_	10	xcomp	_	O
+16	or	or	CC	_	15	cc	_	O
+17	investigate	investigate	VB	_	15	conj	_	O
+18	Russian	russian	JJ	_	19	nmod	_	U-NORP
+19	hacks	hack	NNS	_	17	dobj	_	O
+20	on	on	IN	_	19	prep	_	O
+21	DNC	dnc	NN	pos2=NNP	20	pobj	_	U-ORG
+22	and	and	CC	_	21	cc	_	O
+23	election	election	NN	_	24	compound	_	O
+24	systems	system	NNS	_	21	conj	_	O
+25	?	?	.	_	3	punct	_	O
+

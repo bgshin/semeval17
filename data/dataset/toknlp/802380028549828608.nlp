@@ -1,0 +1,15 @@
+1	Electing	elect	VBG	pos2=``	0	root	_	O
+2	To	to	TO	pos2=IN	4	aux	_	O
+3	‘	'	``	_	4	punct	_	O
+4	Opt	opt	VB	_	1	xcomp	_	O
+5	Out	out	RP	_	4	prt	_	O
+6	”	"	''	_	4	punct	_	O
+7	Of	of	IN	pos2=RB	4	prep	_	O
+8	Obamacare	obamacare	NNP	_	7	pobj	_	U-PERSON
+9	:	:	:	_	14	punct	_	O
+10	John	john	NNP	_	8	conj	_	O
+11	&	&	CC	_	10	cc	_	O
+12	Rusty	rusty	NNP	pos2=JJ	13	compound	_	B-PERSON
+13	Report	report	NNP	pos2=GW	10	conj	_	L-PERSON
+14	https://t.co/2wtBItHRQK	#hlink#	ADD	_	10	appos	_	U-TIME
+

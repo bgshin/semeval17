@@ -1,0 +1,19 @@
+1	team	team	NN	_	0	root	_	O
+2	with	with	IN	_	1	prep	_	O
+3	spider	spider	NN	pos2=JJ	5	compound	_	O
+4	-	-	HYPH	_	5	punct	_	O
+5	man	man	NN	pos2=UH	2	pobj	_	O
+6	,	,	,	_	5	punct	_	O
+7	larry	larry	JJ	pos2=NN	8	nmod	_	O
+8	bird	bird	NN	pos2=NNP	5	appos	_	O
+9	,	,	,	_	8	punct	_	O
+10	James	james	NNP	_	11	compound	_	B-PERSON
+11	Harden	harden	NNP	_	8	appos	_	L-PERSON
+12	,	,	,	_	11	punct	_	O
+13	Tim	tim	NNP	_	14	compound	_	B-PERSON
+14	duncan	duncan	NNP	_	11	conj	_	L-PERSON
+15	,	,	,	_	14	punct	_	O
+16	and	and	CC	_	14	cc	_	O
+17	Dwight	dwight	NNP	_	18	compound	_	B-PERSON
+18	Howard	howard	NNP	_	14	conj	_	L-PERSON
+

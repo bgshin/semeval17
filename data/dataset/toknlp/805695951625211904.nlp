@@ -1,0 +1,24 @@
+1	Best	good	JJS	_	2	nmod	_	O
+2	description	description	NN	_	10	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	why	why	WRB	_	6	advmod	_	O
+5	we	we	PRP	_	6	nsubj	_	O
+6	need	need	VBP	_	3	pcomp	_	O
+7	the	the	DT	_	9	det	_	B-ORG
+8	Electoral	electoral	NNP	pos2=JJ	9	compound	_	I-ORG
+9	College	college	NNP	_	10	nsubj	_	L-ORG
+10	explained	explain	VBD	pos2=VBN	0	root	_	O
+11	with	with	IN	_	10	prep	_	O
+12	facts	fact	NNS	_	11	pobj	_	O
+13	!	!	.	_	10	punct	_	O
+
+1	There	there	EX	_	2	expl	_	O
+2	are	be	VBP	_	0	root	_	O
+3	3,141	0	CD	_	4	nmod	_	U-CARDINAL
+4	counties	county	NNS	_	2	attr	_	O
+5	in	in	IN	_	4	prep	_	O
+6	the	the	DT	_	5	pobj	_	O
+7	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/VA29U02GN6	#hlink#	ADD	_	0	root	_	U-ORG
+

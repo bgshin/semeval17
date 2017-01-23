@@ -1,0 +1,25 @@
+1	@TomiLahren	@tomilahren	NNP	pos2=IN	4	vocative	_	O
+2	This	this	DT	_	3	det	_	O
+3	bitch	bitch	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	retarded	retarded	JJ	pos2=VBN	4	acomp	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	Any	any	DT	_	3	det	_	O
+2	intelligent	intelligent	JJ	_	3	nmod	_	O
+3	person	person	NN	_	9	nsubj	_	O
+4	w	w	IN	pos2=RB	3	prep	_	O
+5	/	/	HYPH	_	4	punct	_	O
+6	a	a	DT	pos2=JJ	7	det	_	O
+7	degree	degree	NN	_	4	pobj	_	O
+8	will	will	MD	_	9	aux	_	O
+9	tell	tell	VB	_	0	root	_	O
+10	you	you	PRP	_	9	dobj	_	O
+11	fossil	fossil	IN	pos2=JJ	17	nmod	_	O
+12	fuels	fuel	NNS	_	11	pobj	_	O
+13	should	should	MD	_	14	aux	_	O
+14	be	be	VB	_	9	ccomp	_	O
+15	replace	replace	VB	pos2=VBN	14	xcomp	_	O
+16	…	…	NFP	pos2=-LRB-	17	punct	_	O
+17	https://t.co/nnU1EvRRkg	#hlink#	ADD	pos2=NN	15	dobj	_	O
+

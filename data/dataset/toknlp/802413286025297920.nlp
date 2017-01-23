@@ -1,0 +1,15 @@
+1	Urban	urban	JJ	pos2=NNP	2	nmod	_	O
+2	landscapes	landscape	NNS	_	4	nsubj	_	O
+3	will	will	MD	_	4	aux	_	O
+4	have	have	VB	_	0	root	_	O
+5	far	far	RB	_	6	advmod	_	O
+6	fewer	few	JJR	_	7	nmod	_	O
+7	cars#carsharing	cars#carsharing	NN	pos2=VBG	4	dobj	_	O
+8	#autonomous	#autonomous	XX	pos2=FW	14	dep	_	O
+9	#Driverless	#driverless	NNP	pos2=XX	14	dep	_	O
+10	#selfdriving	#selfdriving	VBG	pos2=XX	14	nmod	_	O
+11	#uber	#uber	XX	pos2=GW	10	dep	_	O
+12	#lyft	#lyft	GW	pos2=UH	14	nmod	_	O
+13	#SmartCity	#smartcity	GW	pos2=ADD	14	nmod	_	O
+14	https://t.co/lmtOidYStM	#hlink#	ADD	pos2=NN	4	dep	_	O
+

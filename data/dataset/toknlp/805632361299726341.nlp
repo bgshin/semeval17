@@ -1,0 +1,10 @@
+1	Cristiano	cristiano	NNP	_	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	7	nsubj	_	L-PERSON
+3	will	will	MD	_	7	aux	_	O
+4	always	always	RB	_	7	advmod	_	O
+5	and	and	CC	_	4	cc	_	O
+6	forever	forever	RB	_	4	conj	_	O
+7	be	be	VB	_	0	root	_	O
+8	the	the	DT	_	9	det	_	O
+9	loml	loml	NNS	pos2=JJ	7	attr	_	O
+

@@ -1,0 +1,27 @@
+1	Consumer	consumer	NN	pos2=NNP	2	compound	_	O
+2	Reports	report	NNS	pos2=NNPS	8	dep	_	O
+3	:	:	:	_	8	punct	_	O
+4	Tesla	tesla	NNP	_	7	poss	_	U-ORG
+5	's	's	POS	_	4	case	_	O
+6	Model	model	NNP	pos2=NN	7	compound	_	B-PRODUCT
+7	X	x	NNP	pos2=NN	8	nsubj	_	L-PRODUCT
+8	Is	be	VBZ	_	0	root	_	O
+9	'	'	``	pos2=POS	8	punct	_	O
+10	Fast	fast	JJ	_	8	acomp	_	O
+11	and	and	CC	_	10	cc	_	O
+12	Flawed	flawed	JJ	pos2=NNP	10	conj	_	O
+13	'	'	''	_	12	punct	_	O
+14	-	-	:	pos2=SYM	18	punct	_	O
+15	An	an	DT	_	17	det	_	O
+16	anonymous	anonymous	JJ	_	17	nmod	_	O
+17	reader	reader	NN	_	18	nsubj	_	O
+18	quotes	quote	VBZ	_	8	parataxis	_	O
+19	a	a	DT	_	20	det	_	O
+20	report	report	NN	_	18	dobj	_	O
+21	from	from	IN	_	20	prep	_	O
+22	MarketWatch	marketwatch	NNP	_	21	pobj	_	U-ORG
+23	:	:	:	_	8	punct	_	O
+24	...	..	.	pos2=,	8	punct	_	O
+
+1	https://t.co/CJk8ZoY0st	#hlink#	ADD	_	0	root	_	U-ORG
+

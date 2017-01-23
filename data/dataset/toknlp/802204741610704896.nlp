@@ -1,0 +1,19 @@
+1	#Yanukovych	#yanukovych	NNP	pos2=PRP	2	nsubj	_	U-ORG
+2	seems	seem	VBZ	_	0	root	_	O
+3	much	much	RB	_	4	advmod	_	O
+4	more	more	RBR	_	5	advmod	_	O
+5	willing	willing	JJ	_	2	oprd	_	O
+6	to	to	TO	_	7	aux	_	O
+7	take	take	VB	_	5	xcomp	_	O
+8	questions	question	NNS	_	7	dobj	_	O
+9	from	from	IN	_	7	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	media	medium	NNS	pos2=NN	9	pobj	_	O
+12	than	than	IN	_	8	prep	_	O
+13	@poroshenko	@poroshenko	NNP	pos2=WP	12	pobj	_	O
+14	often	often	RB	_	15	advmod	_	O
+15	is	be	VBZ	_	2	advcl	_	O
+16	!	!	.	_	2	punct	_	O
+
+1	#UkrAine	#ukraine	NN	pos2=ADD	0	root	_	O
+

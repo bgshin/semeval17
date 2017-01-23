@@ -1,0 +1,12 @@
+1	@CNNPolitics	@cnnpolitics	NNS	pos2=ADD	3	nsubjpass	_	O
+2	Get	get	VB	_	3	auxpass	_	O
+3	rid	rid	VBN	pos2=NNS	0	root	_	O
+4	of	of	IN	_	3	prep	_	O
+5	steve	steve	NNP	pos2=NN	6	compound	_	B-PERSON
+6	bannon	bannon	NNP	_	4	pobj	_	L-PERSON
+7	the	the	DT	_	8	det	_	O
+8	Racist	racist	NNP	pos2=NN	6	appos	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	!	!	.	pos2=SYM	0	predet	_	O
+

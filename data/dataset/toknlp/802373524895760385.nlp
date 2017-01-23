@@ -1,0 +1,23 @@
+1	@MarcBrodyreal	@marcbrodyreal	MD	pos2=UH	5	punct	_	O
+2	@MrDane1982	@mrdane0	NN	pos2=NNS	5	dobj	_	O
+3	Do	do	VBP	pos2=VB	5	aux	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	know	know	VB	_	0	root	_	O
+6	that	that	IN	_	9	mark	_	O
+7	Repubs	repubs	NNPS	pos2=NNS	9	nsubj	_	U-PERSON
+8	were	be	VBD	_	9	aux	_	O
+9	protesting	protest	VBG	_	5	ccomp	_	O
+10	Obamacare	obamacare	NNP	_	9	dobj	_	O
+11	by	by	IN	_	9	prep	_	O
+12	telling	tell	VBG	_	11	pcomp	_	O
+13	govt	govt	NN	_	12	dobj	_	O
+14	to	to	TO	_	15	aux	_	O
+15	stay	stay	VB	_	12	xcomp	_	O
+16	out	out	IN	_	15	prep	_	O
+17	of	of	IN	_	16	prep	_	O
+18	their	their	PRP$	_	21	poss	_	O
+19	Medicare	medicare	NNP	pos2=NN	21	nmod	_	B-ORG
+20	/	/	SYM	pos2=HYPH	21	punct	_	I-ORG
+21	Medicaid	medicaid	NNP	_	17	pobj	_	L-ORG
+22	?	?	.	_	5	punct	_	O
+

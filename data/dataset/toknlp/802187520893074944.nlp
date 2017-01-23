@@ -1,0 +1,12 @@
+1	Join	join	VB	_	0	root	_	O
+2	me	me	PRP	_	1	dobj	_	O
+3	in	in	IN	_	1	prep	_	O
+4	supporting	support	VBG	_	3	pcomp	_	O
+5	Foster	foster	NNP	_	6	compound	_	B-PERSON
+6	Campbell	campbell	NNP	_	4	dobj	_	L-PERSON
+7	via	via	IN	_	4	prep	_	O
+8	@actblue	@actblue	ADD	pos2=NNP	7	pobj	_	O
+9	https://t.co/TMRr0v9pzR	#hlink#	ADD	_	7	pobj	_	O
+10	#UniteBlue	#uniteblue	ADD	pos2=-RRB-	7	pobj	_	U-ORG
+11	#LibCrib	#libcrib	NN	pos2=ADD	10	pobj	_	O
+

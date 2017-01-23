@@ -1,0 +1,32 @@
+1	In	in	IN	_	19	prep	_	O
+2	an	an	DT	_	3	det	_	O
+3	airplane	airplane	NN	_	1	pobj	_	O
+4	,	,	,	_	19	punct	_	O
+5	if	if	IN	_	9	mark	_	O
+6	a	a	DT	_	8	det	_	O
+7	failure	failure	NN	_	8	compound	_	O
+8	risk	risk	NN	_	9	nsubj	_	O
+9	is	be	VBZ	_	19	advcl	_	O
+10	more	more	RBR	pos2=JJR	11	advmod	_	O
+11	likely	likely	JJ	_	9	acomp	_	O
+12	than	than	IN	_	11	prep	_	O
+13	1	0	CD	_	12	pobj	_	O
+14	in	in	IN	_	9	prep	_	O
+15	a	a	DT	_	16	qmod	_	O
+16	billion	#crd#	CD	pos2=NN	14	pobj	_	U-CARDINAL
+17	,	,	,	_	19	punct	_	O
+18	you	you	PRP	_	19	nsubj	_	O
+19	need	need	VBP	_	0	root	_	O
+20	a	a	DT	_	23	det	_	O
+21	fail	fail	VB	pos2=NN	23	advmod	_	O
+22	-	-	HYPH	pos2=,	23	punct	_	O
+23	safe	safe	JJ	pos2=NN	19	dobj	_	O
+24	.	.	.	_	19	punct	_	O
+
+1	How	how	WRB	_	2	advmod	_	O
+2	about	about	IN	pos2=JJ	0	root	_	O
+3	self	self	NN	_	4	npadvmod	_	O
+4	driving	drive	VBG	pos2=NN	2	pcomp	_	O
+5	cars	car	NNS	_	4	dobj	_	O
+6	?	?	.	_	2	punct	_	O
+

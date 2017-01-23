@@ -1,0 +1,34 @@
+1	@alicektg	@alicektg	UH	pos2=XX	5	discourse	_	O
+2	@SineadStubbins	@sineadstubbins	NNS	pos2=UH	5	vocative	_	O
+3	I	I	PRP	_	5	nsubj	_	O
+4	'll	will	MD	_	5	aux	_	O
+5	look	look	VB	_	0	root	_	O
+6	for	for	IN	_	5	prep	_	O
+7	it	it	PRP	_	6	pobj	_	O
+8	next	next	JJ	pos2=RB	9	nmod	_	O
+9	time	time	NN	_	5	npadvmod	_	O
+10	I	I	PRP	_	11	nsubj	_	O
+11	'm	be	VBP	_	9	relcl	_	O
+12	in	in	IN	_	11	prep	_	O
+13	Myer	myer	NNP	_	12	pobj	_	U-ORG
+14	!	!	.	_	5	punct	_	O
+
+1	The	the	DT	_	4	det	_	O
+2	animal	animal	NN	pos2=JJ	3	compound	_	O
+3	testing	testing	NN	_	4	compound	_	O
+4	thing	thing	NN	_	5	nsubj	_	O
+5	shits	shit	VBZ	pos2=NNS	0	root	_	O
+6	me	me	PRP	_	5	dobj	_	O
+7	up	up	IN	pos2=RP	5	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	wall	wall	NN	_	7	pobj	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	Just	just	RB	_	2	advmod	_	O
+2	say	say	VB	_	0	root	_	O
+3	no	no	DT	pos2=UH	7	det	_	O
+4	to	to	IN	_	2	prep	_	O
+5	China	china	NNP	_	4	pobj	_	U-GPE
+6	,	,	,	_	7	punct	_	O
+7	FFS.	ffs.	NN	pos2=NNP	5	appos	_	O
+

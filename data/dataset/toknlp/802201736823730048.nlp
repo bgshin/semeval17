@@ -1,0 +1,9 @@
+1	it	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	time	time	NN	_	2	attr	_	O
+4	!	!	.	_	2	punct	_	O
+
+1	#fantasticbeasts	#fantasticbeasts	UH	pos2=NNS	3	discourse	_	O
+2	👌	👌	NFP	pos2=-LRB-	3	punct	_	O
+3	https://t.co/hDXmjpH83m	#hlink#	ADD	pos2=NN	0	root	_	O
+

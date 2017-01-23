@@ -1,0 +1,13 @@
+1	@JiIIybeann	@jiiiybeann	ADD	pos2=XX	3	nsubj	_	O
+2	@megynkelly	@megynkelly	RB	pos2=XX	3	advmod	_	O
+3	Nice	nice	NNP	pos2=JJ	8	pobj	_	U-GPE
+4	,	,	,	_	3	punct	_	O
+5	and	and	CC	_	3	cc	_	O
+6	i	I	PRP	_	7	nsubj	_	O
+7	'm	be	VBP	_	0	root	_	O
+8	with	with	IN	_	7	prep	_	O
+9	you	you	PRP	_	8	pobj	_	O
+10	on	on	IN	_	7	prep	_	O
+11	that	that	DT	_	10	pobj	_	O
+12	!	!	.	_	7	punct	_	O
+

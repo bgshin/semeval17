@@ -1,0 +1,20 @@
+1	Verlander	verlander	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	trying	try	VBG	_	10	advcl	_	O
+3	to	to	TO	_	4	aux	_	O
+4	talk	talk	VB	_	2	xcomp	_	O
+5	to	to	IN	_	4	prep	_	O
+6	people	people	NNS	_	5	pobj	_	O
+7	,	,	,	_	10	punct	_	O
+8	we	we	PRP	_	10	nsubj	_	O
+9	would	would	MD	_	10	aux	_	O
+10	dial	dial	VB	_	0	root	_	O
+11	their	their	PRP$	_	13	poss	_	O
+12	house	house	NN	_	13	compound	_	O
+13	number	number	NN	_	10	dobj	_	O
+14	or	or	CC	_	10	cc	_	O
+15	go	go	VB	_	10	conj	_	O
+16	to	to	IN	_	15	prep	_	O
+17	their	their	PRP$	_	18	poss	_	O
+18	house	house	NN	_	16	pobj	_	O
+19	.	.	.	_	10	punct	_	O
+

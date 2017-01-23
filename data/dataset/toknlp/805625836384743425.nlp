@@ -1,0 +1,20 @@
+1	are	be	VBP	_	4	auxpass	_	O
+2	you	you	PRP	_	4	nsubj	_	O
+3	actually	actually	RB	_	4	advmod	_	O
+4	surprised	surprise	VBD	pos2=JJ	0	root	_	O
+5	that	that	IN	_	13	mark	_	O
+6	a	a	DT	_	8	det	_	O
+7	christian	christian	JJ	_	8	nmod	_	U-NORP
+8	couple	couple	NN	_	13	nsubj	_	O
+9	from	from	IN	_	8	prep	_	O
+10	texas	texas	NNS	pos2=NNP	9	pobj	_	O
+11	do	do	VBP	_	13	aux	_	O
+12	n't	not	RB	_	13	neg	_	O
+13	support	support	VB	_	4	ccomp	_	O
+14	gay	gay	JJ	pos2=DT	15	nmod	_	O
+15	marriage	marriage	NN	_	13	dobj	_	O
+16	?	?	.	_	4	punct	_	O
+
+1	really	really	RB	_	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+

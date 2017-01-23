@@ -1,0 +1,7 @@
+1	Bad	bad	JJ	pos2=NNP	2	nmod	_	O
+2	Hombres	hombres	NNP	pos2=NNS	0	root	_	U-PERSON
+3	on	on	IN	_	2	prep	_	O
+4	the	the	DT	_	6	det	_	O
+5	Block	block	NNP	pos2=NN	6	compound	_	B-LOC
+6	#TrumpInauguralBands	#trumpinauguralbands	NNS	pos2=NNPS	3	pobj	_	L-LOC
+

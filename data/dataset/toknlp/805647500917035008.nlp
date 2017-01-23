@@ -1,0 +1,31 @@
+1	@jazzmessenger	@jazzmessenger	UH	pos2=WP	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	agree	agree	VBP	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	But	but	CC	_	8	cc	_	O
+2	w	w	IN	_	8	prep	_	O
+3	/	/	HYPH	_	2	punct	_	O
+4	Trump	trump	NN	pos2=NNP	2	pobj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	it	it	PRP	_	5	pobj	_	O
+7	will	will	MD	_	8	aux	_	O
+8	embolden	embolden	VB	_	0	root	_	O
+9	voter	voter	NN	_	10	compound	_	O
+10	suppression	suppression	NN	_	8	dobj	_	O
+11	,	,	,	_	10	punct	_	O
+12	RW	rw	NNP	pos2=NN	13	compound	_	O
+13	nationalists	nationalist	NNS	_	10	conj	_	O
+14	,	,	,	_	13	punct	_	O
+15	racism	racism	NN	_	13	conj	_	O
+16	,	,	,	_	15	punct	_	O
+17	rolling	roll	VBG	_	15	conj	_	O
+18	back	back	NN	pos2=RB	19	compound	_	O
+19	progress	progress	NN	_	17	dobj	_	O
+20	.	.	.	_	8	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	have	have	VBP	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	fight	fight	VB	_	2	xcomp	_	O
+

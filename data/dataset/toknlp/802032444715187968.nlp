@@ -1,0 +1,15 @@
+1	Saddened	sadden	VBN	_	14	advcl	_	O
+2	by	by	IN	_	1	agent	_	O
+3	the	the	DT	_	4	det	_	O
+4	deaths	death	NNS	_	2	pobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	Iranian	iranian	JJ	_	8	nmod	_	U-NORP
+8	pilgrims	pilgrim	NNS	pos2=NNPS	5	pobj	_	O
+9	in	in	IN	_	8	prep	_	O
+10	Iraq	iraq	NNP	_	9	pobj	_	U-GPE
+11	,	,	,	_	14	punct	_	O
+12	martyrs	martyr	NNS	pos2=VBZ	14	nsubj	_	O
+13	all	all	DT	pos2=PDT	12	appos	_	O
+14	#MosulOffensive	#mosuloffensive	VBP	pos2=JJ	0	root	_	O
+

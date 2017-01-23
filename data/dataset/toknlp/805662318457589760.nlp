@@ -1,0 +1,24 @@
+1	Hypocrisy	hypocrisy	NN	_	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	U.S.	u.s.	NNP	_	4	compound	_	U-GPE
+4	criticism	criticism	NN	_	2	pobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Fidel	fidel	NNP	_	7	compound	_	B-PERSON
+7	Castro	castro	NNP	_	5	pobj	_	L-PERSON
+8	!	!	.	_	1	punct	_	O
+
+1	Americans	american	NNPS	pos2=NNS	6	nsubj	_	U-NORP
+2	so	so	RB	_	3	advmod	_	O
+3	easily	easily	RB	_	4	advmod	_	O
+4	fooled	fool	VBN	_	9	nmod	_	O
+5	-	-	HYPH	pos2=:	6	punct	_	O
+6	deserve	deserve	VB	pos2=VBP	0	root	_	O
+7	what	what	WP	pos2=WDT	10	attr	_	O
+8	their	their	PRP$	_	9	poss	_	O
+9	government	government	NN	_	10	nsubj	_	O
+10	is	be	VBZ	_	6	ccomp	_	O
+11	about	about	IN	pos2=RB	10	prep	_	O
+12	t	t	NN	pos2=GW	11	pobj	_	O
+13	…	…	GW	pos2=:	14	nmod	_	O
+14	https://t.co/LceJlD7N16	#hlink#	ADD	_	12	appos	_	O
+

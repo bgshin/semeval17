@@ -1,0 +1,19 @@
+1	@NBCThisisUs	@nbcthisisus	NN	pos2=NNP	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	awesome	awesome	JJ	_	2	acomp	_	O
+4	!!!	!!	.	_	2	punct	_	O
+
+1	Next	next	JJ	_	2	nmod	_	B-DATE
+2	week	week	NN	_	3	npadvmod	_	L-DATE
+3	looks	look	VBZ	_	0	root	_	O
+4	like	like	IN	pos2=JJ	8	discourse	_	O
+5	look	look	VB	pos2=NN	0	root	_	O
+6	like	like	IN	_	5	prep	_	O
+7	a	a	DT	_	9	det	_	O
+8	good	good	JJ	_	9	nmod	_	O
+9	one	#crd#	CD	pos2=NN	6	pobj	_	O
+10	too	too	RB	_	9	advmod	_	O
+11	!!	!!	.	_	3	punct	_	O
+
+1	#ThisIsUs	#thisisus	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,16 @@
+1	https://t.co/qbidfNdYFA	#hlink#	ADD	pos2=NN	5	dep	_	O
+2	Cristiano	cristiano	NNP	_	5	compound	_	B-PERSON
+3	Ronaldo	ronaldo	NNP	_	5	compound	_	L-PERSON
+4	Real	real	NNP	_	5	compound	_	O
+5	Madrid	madrid	NNP	_	0	root	_	O
+6	for	for	IN	_	5	prep	_	O
+7	iPhone	iphone	NNP	_	6	pobj	_	O
+8	5	0	CD	_	7	nmod	_	O
+9	5S	0s	NNS	pos2=NN	13	compound	_	O
+10	5C	0c	NN	_	7	appos	_	O
+11	6	0	CD	_	10	nmod	_	U-CARDINAL
+12	6Plus	0plus	NN	pos2=NNS	13	compound	_	O
+13	Case	case	NN	pos2=NNP	14	nsubj	_	O
+14	Cover	cover	NN	pos2=NNP	10	npadvmod	_	O
+15	056791	0	CD	_	14	dobj	_	U-CARDINAL
+

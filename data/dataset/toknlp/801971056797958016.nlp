@@ -1,0 +1,24 @@
+1	@ZsuzsannaKun	@zsuzsannakun	NNP	pos2=XX	3	nmod	_	O
+2	@elizabethforma	@elizabethforma	FW	pos2=IN	3	nmod	_	O
+3	RICO	rico	NNP	_	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	Lizzie	lizzie	NNP	_	3	npadvmod	_	U-PERSON
+6	?	?	.	_	3	punct	_	O
+
+1	If	if	IN	_	5	mark	_	O
+2	the	the	DT	_	4	det	_	O
+3	American	american	JJ	_	4	nmod	_	U-NORP
+4	universities	university	NNS	_	5	nsubj	_	O
+5	are	be	VBP	_	0	root	_	O
+6	not	not	RB	_	5	neg	_	O
+7	a	a	DT	_	8	det	_	O
+8	scam	scam	NN	_	5	attr	_	O
+9	and	and	CC	_	8	cc	_	O
+10	a	a	DT	_	12	det	_	O
+11	massive	massive	JJ	_	12	nmod	_	O
+12	swindle	swindle	NN	_	8	conj	_	O
+13	,	,	,	_	16	punct	_	O
+14	then	then	RB	_	16	advmod	_	O
+15	…	…	NFP	pos2=-LRB-	16	punct	_	O
+16	https://t.co/XTQOkS0U3A	#hlink#	ADD	pos2=NN	12	appos	_	O
+

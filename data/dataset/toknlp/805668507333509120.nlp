@@ -1,0 +1,20 @@
+1	@petabites	@petabites	UH	pos2=NNS	6	discourse	_	O
+2	@Jason_Pollock	@jason_pollock	NN	pos2=VB	6	npadvmod	_	O
+3	@askceil	@askceil	UH	pos2=VBD	6	discourse	_	O
+4	47	0	CD	_	5	nmod	_	U-CARDINAL
+5	people	people	NNS	_	6	nsubj	_	O
+6	died	die	VBD	_	0	root	_	O
+7	in	in	IN	_	6	prep	_	O
+8	Lac	lac	NNP	_	10	compound	_	B-ORG
+9	-	-	HYPH	_	10	punct	_	I-ORG
+10	Mégantic	mégantic	NNP	_	7	pobj	_	L-ORG
+11	because	because	IN	_	6	prep	_	O
+12	of	of	IN	_	11	pcomp	_	O
+13	US	us	NNP	pos2=NN	15	compound	_	U-GPE
+14	fracking	fracking	NN	pos2=VBG	15	compound	_	O
+15	oil	oil	NN	_	11	pobj	_	O
+16	transported	transport	VBN	_	15	acl	_	O
+17	by	by	IN	_	16	agent	_	O
+18	train	train	NN	_	17	pobj	_	O
+19	.	.	.	_	6	punct	_	O
+

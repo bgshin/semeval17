@@ -1,0 +1,28 @@
+1	if	if	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	're	be	VBP	_	6	advcl	_	O
+4	64	0	CD	_	3	attr	_	U-CARDINAL
+5	,	,	,	_	6	punct	_	O
+6	say	say	VB	pos2=VBP	0	root	_	O
+7	bye	bye	UH	pos2=NN	6	discourse	_	O
+8	bye	bye	NN	pos2=UH	9	compound	_	O
+9	bye	bye	NN	pos2=UH	6	discourse	_	O
+10	....	..	.	pos2=,	6	punct	_	O
+
+1	and	and	CC	_	10	cc	_	O
+2	welcome	welcome	JJ	pos2=VBP	6	nmod	_	O
+3	Wal	wal	NNP	_	5	compound	_	B-ORG
+4	-	-	HYPH	_	5	punct	_	I-ORG
+5	Mart	mart	NNP	_	6	compound	_	L-ORG
+6	shoppers	shopper	NNS	_	10	punct	_	O
+7	,	,	,	_	10	punct	_	O
+8	may	may	MD	_	10	aux	_	O
+9	i	I	PRP	_	10	nsubj	_	O
+10	get	get	VB	_	0	root	_	O
+11	you	you	PRP	_	10	dative	_	O
+12	a	a	DT	_	13	det	_	O
+13	cart	cart	NN	_	10	dobj	_	O
+14	?	?	.	_	10	punct	_	O
+
+1	https://t.co/63w8qj71hb	#hlink#	ADD	_	0	root	_	U-ORG
+

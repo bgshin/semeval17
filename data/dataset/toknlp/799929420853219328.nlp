@@ -1,0 +1,28 @@
+1	Wow	wow	UH	_	11	discourse	_	O
+2	-	-	:	pos2=,	11	punct	_	O
+3	the	the	DT	_	4	det	_	O
+4	world	world	NN	_	16	nsubj	_	O
+5	as	as	IN	_	7	mark	_	O
+6	we	we	PRP	_	7	nsubj	_	O
+7	know	know	VBP	_	11	advcl	_	O
+8	it	it	PRP	_	11	nsubj	_	O
+9	is	be	VBZ	_	11	aux	_	O
+10	slowly	slowly	RB	_	11	advmod	_	O
+11	turning	turn	VBG	_	16	advcl	_	O
+12	upside	upside	RB	_	13	advmod	_	O
+13	down	down	RB	pos2=NN	11	advmod	_	O
+14	:	:	:	_	16	punct	_	O
+15	Microsoft	microsoft	NNP	_	16	nsubj	_	U-ORG
+16	joins	join	VBZ	_	0	root	_	O
+17	the	the	DT	_	19	det	_	B-ORG
+18	Linux	linux	NNP	_	19	compound	_	I-ORG
+19	Foundation	foundation	NNP	pos2=NN	16	dobj	_	L-ORG
+20	.	.	.	_	16	punct	_	O
+
+1	Good	good	JJ	_	2	nmod	_	O
+2	news	news	NN	_	4	dep	_	O
+3	I	I	PRP	pos2=CD	4	nsubj	_	O
+4	supp	supp	VBP	pos2=RB	0	root	_	O
+5	…	…	NFP	pos2=,	4	discourse	_	O
+6	https://t.co/tygrWafEug	#hlink#	ADD	_	4	dep	_	O
+

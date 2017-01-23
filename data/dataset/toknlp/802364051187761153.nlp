@@ -1,0 +1,22 @@
+1	Pelosi	pelosi	NNP	_	2	nsubj	_	U-PERSON
+2	sends	send	VBZ	_	0	root	_	O
+3	3rd	#ord#	JJ	pos2=NN	4	nmod	_	U-ORDINAL
+4	letter	letter	NN	_	2	dobj	_	O
+5	to	to	IN	_	4	prep	_	O
+6	House	house	NNP	_	7	compound	_	U-ORG
+7	Ds	ds	NNP	pos2=NNPS	5	pobj	_	U-PRODUCT
+8	ahead	ahead	RB	_	2	advmod	_	O
+9	of	of	IN	_	8	prep	_	O
+10	11/30	0	CD	_	11	nmod	_	U-CARDINAL
+11	elections	election	NNS	_	9	pobj	_	O
+12	on	on	IN	_	2	prep	_	O
+13	leadership	leadership	NN	_	14	compound	_	O
+14	team	team	NN	_	12	pobj	_	O
+15	including	include	VBG	_	2	prep	_	O
+16	Lujan	lujan	NNP	_	15	pobj	_	U-PERSON
+17	back	back	RB	pos2=RP	15	pobj	_	O
+18	at	at	IN	_	17	prep	_	O
+19	DCCC	dccc	NNP	_	20	compound	_	U-ORG
+20	C	c	NNP	pos2=NN	18	pobj	_	O
+21	hairhttps://t.co/1VDt7sPBDR	#hlink#	ADD	_	16	appos	_	O
+

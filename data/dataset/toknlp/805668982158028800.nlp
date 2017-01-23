@@ -1,0 +1,28 @@
+1	Nothing	nothing	NN	_	3	nsubj	_	O
+2	quite	quite	RB	pos2=PDT	3	advmod	_	O
+3	worked	work	VBD	pos2=VBN	0	root	_	O
+4	out	out	RP	_	3	prt	_	O
+5	for	for	IN	_	3	prep	_	O
+6	Fidel	fidel	NNP	_	7	compound	_	B-PERSON
+7	Castro	castro	NNP	_	5	pobj	_	L-PERSON
+8	,	,	,	_	3	punct	_	O
+9	good	good	JJ	_	3	advcl	_	O
+10	on	on	IN	_	9	prep	_	O
+11	paper	paper	NN	_	10	pobj	_	O
+12	,	,	,	_	9	punct	_	O
+13	terrible	terrible	JJ	_	9	conj	_	O
+14	in	in	IN	_	13	prep	_	O
+15	real	real	JJ	_	16	nmod	_	O
+16	life	life	NN	_	14	pobj	_	O
+17	.	.	.	_	3	punct	_	O
+
+1	not	not	RB	_	5	neg	_	O
+2	even	even	RB	_	4	advmod	_	O
+3	his	his	PRP$	_	4	poss	_	O
+4	funeral	funeral	NN	pos2=NNS	5	nsubj	_	O
+5	worked	work	VBD	pos2=VBN	0	root	_	O
+6	out	out	RP	pos2=RB	5	prt	_	O
+7	as	as	IN	_	5	prep	_	O
+8	…	…	NFP	pos2=-LRB-	7	pobj	_	O
+9	https://t.co/6ourpeApJc	#hlink#	ADD	pos2=NN	5	dep	_	U-ORG
+

@@ -1,0 +1,19 @@
+1	@MotherJones	@motherjones	VBZ	pos2=VB	0	root	_	O
+2	Your	your	PRP$	_	5	poss	_	O
+3	progressive	progressive	JJ	_	5	nmod	_	O
+4	POS	pos	NN	_	5	compound	_	O
+5	rag	rag	NN	_	6	nsubj	_	O
+6	is	be	VBZ	_	1	ccomp	_	O
+7	as	as	RB	_	8	advmod	_	O
+8	irrelevant	irrelevant	JJ	_	6	acomp	_	O
+9	as	as	IN	_	8	prep	_	O
+10	Michael	michael	NNP	_	11	compound	_	B-PERSON
+11	Moore	moore	NNP	_	9	pobj	_	L-PERSON
+12	,	,	,	_	11	punct	_	O
+13	one	#crd#	CD	_	11	appos	_	U-CARDINAL
+14	of	of	IN	_	13	prep	_	O
+15	your	your	PRP$	_	17	poss	_	O
+16	early	early	JJ	_	17	nmod	_	O
+17	editors	editor	NNS	_	14	pobj	_	O
+18	.	.	.	_	1	punct	_	O
+

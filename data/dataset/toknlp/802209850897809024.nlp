@@ -1,0 +1,18 @@
+1	This	this	DT	_	2	det	_	O
+2	man	man	NN	_	10	nsubj	_	O
+3	,	,	,	_	2	punct	_	O
+4	a	a	DT	_	6	det	_	O
+5	Kurdish	kurdish	JJ	pos2=NNP	6	nmod	_	U-NORP
+6	MP	mp	NNP	pos2=NN	2	appos	_	O
+7	,	,	,	_	10	punct	_	O
+8	should	should	MD	_	10	aux	_	O
+9	not	not	RB	_	10	neg	_	O
+10	be	be	VB	_	0	root	_	O
+11	in	in	IN	_	10	prep	_	O
+12	a	a	DT	_	14	det	_	O
+13	Turkish	turkish	JJ	_	14	nmod	_	U-NORP
+14	prison	prison	NN	_	11	pobj	_	O
+15	@realDonaldTrump	@realdonaldtrump	GW	pos2=XX	17	nmod	_	B-DATE
+16	@mike_pence	@mike_pence	GW	pos2=ADD	17	nmod	_	L-DATE
+17	https://t.co/tImSSxPlZP	#hlink#	ADD	pos2=NN	10	dep	_	O
+

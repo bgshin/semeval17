@@ -1,0 +1,19 @@
+1	Trying	try	VBG	_	11	csubj	_	O
+2	to	to	TO	_	3	aux	_	O
+3	have	have	VB	_	1	xcomp	_	O
+4	a	a	DT	_	5	det	_	O
+5	conversation	conversation	NN	_	3	dobj	_	O
+6	with	with	IN	_	5	prep	_	O
+7	my	my	PRP$	_	8	poss	_	O
+8	dad	dad	NN	_	6	pobj	_	O
+9	about	about	IN	_	8	prep	_	O
+10	vegetarianism	vegetarianism	NN	_	9	pobj	_	O
+11	is	be	VBZ	_	0	root	_	O
+12	the	the	DT	_	16	det	_	O
+13	most	most	RBS	_	14	advmod	_	O
+14	pointless	pointless	JJ	_	16	nmod	_	O
+15	infuriating	infuriate	VBG	pos2=NN	16	nmod	_	O
+16	thing	thing	NN	_	11	attr	_	O
+17	ever	ever	RB	_	16	advmod	_	O
+18	#caveman	#caveman	UH	pos2=.	16	relcl	_	O
+

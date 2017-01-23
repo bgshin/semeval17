@@ -1,0 +1,22 @@
+1	Police	police	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	Illegal	illegal	JJ	_	4	nmod	_	O
+4	Immigrant	immigrant	NN	pos2=JJ	6	nsubj	_	O
+5	Sexually	sexually	RB	pos2=NNP	6	advmod	_	O
+6	Assaults	assault	VBZ	pos2=NNP	0	root	_	O
+7	12	0	CD	_	9	nmod	_	B-DATE
+8	-	-	HYPH	pos2=:	9	punct	_	I-DATE
+9	Year	year	NN	pos2=JJ	11	npadvmod	_	I-DATE
+10	-	-	HYPH	_	11	punct	_	I-DATE
+11	Old	old	JJ	pos2=NNP	12	nmod	_	L-DATE
+12	Girl	girl	NNP	pos2=NN	6	dobj	_	O
+13	More	more	JJR	pos2=NNP	16	qmod	_	B-CARDINAL
+14	Than	than	IN	_	16	qmod	_	I-CARDINAL
+15	a	a	DT	_	16	qmod	_	I-CARDINAL
+16	Dozen	dozen	NN	pos2=NNP	17	compound	_	L-CARDINAL
+17	Times	times	NNP	pos2=NNS	12	appos	_	U-ORG
+18	https://t.co/PguoOliTcgMore	#hlink#	ADD	pos2=VBZ	20	nmod	_	O
+19	bad	bad	JJ	_	20	nmod	_	O
+20	hombres	hombre	NNS	_	17	pobj	_	O
+21	..	..	.	pos2=,	6	punct	_	O
+

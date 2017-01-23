@@ -1,0 +1,30 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	'll	will	MD	_	3	aux	_	O
+3	say	say	VB	_	0	root	_	O
+4	it	it	PRP	_	3	dobj	_	O
+5	again	again	RB	_	3	advmod	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	willing	willing	JJ	_	2	acomp	_	O
+4	to	to	TO	_	5	aux	_	O
+5	bet	bet	VB	_	3	xcomp	_	O
+6	a	a	DT	_	7	det	_	O
+7	crate	crate	NN	_	5	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	Obolon	obolon	NNP	_	8	pobj	_	U-ORG
+10	that	that	WDT	pos2=IN	13	mark	_	O
+11	Poroshenko	poroshenko	NNP	_	13	nsubj	_	U-ORG
+12	will	will	MD	_	13	aux	_	O
+13	use	use	VB	_	5	ccomp	_	O
+14	Kuchma	kuchma	NNP	_	17	poss	_	U-PERSON
+15	's	's	POS	_	14	case	_	O
+16	1999	0	CD	_	17	nmod	_	U-DATE
+17	strategy	strategy	NN	_	13	dobj	_	O
+18	and	and	CC	_	13	cc	_	O
+19	win	win	VB	_	13	conj	_	O
+20	the	the	DT	_	22	det	_	O
+21	presidential	presidential	JJ	_	22	nmod	_	O
+22	election	election	NN	_	19	dobj	_	O
+

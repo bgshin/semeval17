@@ -1,0 +1,8 @@
+1	hands	hand	NNS	_	6	nmod	_	O
+2	down	down	RB	pos2=RP	6	advmod	_	O
+3	best	good	JJS	pos2=RB	6	nmod	_	O
+4	zac	zac	JJ	pos2=NN	6	nmod	_	O
+5	efron	efron	GW	pos2=JJ	6	nmod	_	O
+6	character	character	NN	pos2=GW	0	root	_	O
+7	https://t.co/YojWZ5a8SX	#hlink#	ADD	_	6	appos	_	O
+

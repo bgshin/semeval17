@@ -1,0 +1,11 @@
+1	Our	our	PRP$	_	2	poss	_	O
+2	#MannequinChallenge	#mannequinchallenge	NN	pos2=XX	4	vocative	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	only	only	RB	_	6	advmod	_	O
+6	10	0	CD	_	7	nmod	_	O
+7	secs	sec	NNS	_	4	attr	_	O
+8	tho	tho	IN	pos2=FW	10	nmod	_	O
+9	😂😂😂	😂😂😂	NFP	pos2=-LRB-	10	punct	_	O
+10	https://t.co/u4iMgmKmvp	#hlink#	ADD	pos2=NN	7	appos	_	O
+

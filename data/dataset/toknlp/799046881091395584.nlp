@@ -1,0 +1,29 @@
+1	There	there	EX	_	3	expl	_	O
+2	will	will	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	no	no	DT	_	5	det	_	O
+5	wall	wall	NN	_	3	attr	_	O
+6	on	on	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	border	border	NN	_	6	pobj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	Check	check	VB	_	0	root	_	O
+2	this	this	DT	_	1	dobj	_	O
+3	out	out	RP	pos2=RB	1	prt	_	O
+4	&	&	CC	_	1	cc	_	O
+5	u	u	PRP	_	7	nsubj	_	O
+6	'll	will	MD	_	7	aux	_	O
+7	see	see	VB	_	1	conj	_	O
+8	why	why	WRB	_	13	advmod	_	O
+9	:)	:)	NFP	_	7	discourse	_	O
+10	@realDonaldTrump	@realdonaldtrump	XX	pos2=NN	7	punct	_	O
+11	Ur	ur	UH	pos2=NNP	7	discourse	_	O
+12	so	so	RB	_	13	advmod	_	O
+13	fucking	fucking	JJ	pos2=RB	15	nmod	_	O
+14	stupid	stupid	JJ	_	15	nmod	_	O
+15	trump	trump	NN	_	11	vocative	_	O
+16	!	!	.	_	7	punct	_	O
+
+1	https://t.co/0Jw3hUBpNt	#hlink#	ADD	_	0	root	_	U-ORG
+

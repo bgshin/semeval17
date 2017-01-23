@@ -1,0 +1,27 @@
+1	New	new	JJ	pos2=NNP	3	nmod	_	O
+2	#AQAP	#aqap	NN	pos2=JJ	3	compound	_	O
+3	film	film	NN	_	4	compound	_	O
+4	Harvest	harvest	NNP	pos2=NN	8	nsubj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Spies	spy	NNPS	pos2=NNS	5	pobj	_	O
+7	no.5	no.0	NN	pos2=POS	8	nsubj	_	U-DATE
+8	shows	show	VBZ	_	0	root	_	O
+9	drone	drone	NN	_	10	compound	_	O
+10	victims	victim	NNS	_	8	dobj	_	O
+11	,	,	,	_	26	punct	_	O
+12	outs	out	NNS	pos2=VBZ	26	nmod	_	O
+13	5	0	CD	_	14	nmod	_	U-CARDINAL
+14	spies	spy	NNS	_	12	dobj	_	O
+15	but	but	CC	_	8	cc	_	O
+16	aims	aim	VBZ	pos2=NNS	8	conj	_	O
+17	to	to	TO	_	18	aux	_	O
+18	keep	keep	VB	_	16	xcomp	_	O
+19	spies	spy	NNS	_	21	poss	_	O
+20	'	'	POS	_	19	case	_	O
+21	tribes	tribe	NNS	_	18	dobj	_	O
+22	neutral	neutral	JJ	_	18	oprd	_	O
+23	by	by	IN	_	18	prep	_	O
+24	is	be	VBZ	pos2=GW	25	auxpass	_	O
+25	…	…	NFP	pos2=-LRB-	26	punct	_	O
+26	https://t.co/1F6CM8MXwh	#hlink#	ADD	_	23	pobj	_	O
+

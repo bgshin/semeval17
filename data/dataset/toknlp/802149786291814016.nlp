@@ -1,0 +1,28 @@
+1	Yup	yup	UH	pos2=NNP	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	All	all	PDT	_	3	predet	_	O
+2	the	the	DT	_	3	det	_	O
+3	folks	folk	NNS	_	24	nsubj	_	O
+4	in	in	IN	_	3	prep	_	O
+5	#Iraq	#iraq	NNP	_	4	pobj	_	U-GPE
+6	,	,	,	_	5	punct	_	O
+7	#Syria	#syria	NNP	pos2=NN	5	conj	_	U-GPE
+8	,	,	,	_	7	punct	_	O
+9	#Libya	#libya	NNP	pos2=XX	7	conj	_	U-GPE
+10	,	,	,	_	9	punct	_	O
+11	#Yemen	#yemen	NNP	pos2=NNS	9	conj	_	U-GPE
+12	,	,	,	_	11	punct	_	O
+13	#Afghanistan	#afghanistan	NNP	pos2=CD	11	conj	_	U-GPE
+14	,	,	,	_	13	punct	_	O
+15	NW	nw	NNP	_	16	compound	_	B-GPE
+16	#Pakistan	#pakistan	NNP	_	13	conj	_	L-GPE
+17	,	,	,	_	16	punct	_	O
+18	#Somalia	#somalia	NNP	pos2=NNS	16	conj	_	U-GPE
+19	,	,	,	_	18	punct	_	O
+20	#Donbas	#donbas	NNP	pos2=NNPS	18	conj	_	B-ORG
+21	&	&	CC	_	20	cc	_	I-ORG
+22	#StandingRock	#standingrock	GW	pos2=NNP	20	conj	_	L-ORG
+23	…	…	NFP	pos2=GW	24	punct	_	O
+24	https://t.co/mupMt57M3z	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

@@ -1,0 +1,16 @@
+1	https://t.co/gQ3ZlESzKH	#hlink#	ADD	_	15	dep	_	O
+2	THE	the	DT	_	3	det	_	O
+3	FRAY	fray	NN	pos2=NNP	15	dep	_	O
+4	:	:	:	_	15	punct	_	O
+5	Bibi	bibi	NNP	_	15	nmod	_	U-PERSON
+6	vs	vs	CC	pos2=IN	5	cc	_	O
+7	BG	bg	NNP	pos2=NN	9	compound	_	B-ORG
+8	#Netanyahu	#netanyahu	NNP	pos2=FW	9	compound	_	I-ORG
+9	#Obama	#obama	NNP	pos2=ADD	5	conj	_	I-ORG
+10	#BibiNetanyahu	#bibinetanyahu	ADD	pos2=NNP	15	punct	_	I-ORG
+11	#BarackObama	#barackobama	NNP	pos2=ADD	15	compound	_	I-ORG
+12	#Gaza	#gaza	NNP	pos2=ADD	15	compound	_	I-ORG
+13	#Hezbollah	#hezbollah	NNP	pos2=ADD	15	compound	_	I-ORG
+14	#Israel	#israel	NNP	pos2=POS	15	compound	_	I-ORG
+15	#Palestinian	#palestinian	NNP	pos2=ADD	0	root	_	L-ORG
+

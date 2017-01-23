@@ -1,0 +1,18 @@
+1	bill	bill	NN	pos2=JJ	2	compound	_	O
+2	english	english	NN	pos2=NNP	3	nsubj	_	O
+3	voted	vote	VBD	pos2=VBN	11	advcl	_	O
+4	against	against	IN	_	3	prep	_	O
+5	gay	gay	JJ	pos2=NN	6	nmod	_	O
+6	marriage	marriage	NN	_	4	pobj	_	O
+7	,	,	,	_	11	punct	_	O
+8	do	do	VB	pos2=VBP	11	aux	_	O
+9	n't	not	RB	_	11	neg	_	O
+10	ever	ever	RB	_	11	advmod	_	O
+11	forget	forget	VB	_	0	root	_	O
+12	that	that	IN	pos2=RB	14	mark	_	O
+13	over	over	IN	_	8	prep	_	O
+14	the	the	DT	_	16	det	_	B-DATE
+15	next	next	JJ	_	16	nmod	_	I-DATE
+16	year	year	NN	_	13	pobj	_	L-DATE
+17	.	.	.	_	11	punct	_	O
+

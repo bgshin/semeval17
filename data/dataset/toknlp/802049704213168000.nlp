@@ -1,0 +1,22 @@
+1	@ricky_martin	@ricky_martin	NNP	pos2=XX	10	nmod	_	U-ORG
+2	y	y	LS	pos2=FW	10	nmod	_	O
+3	@jwanyosef	@jwanyosef	FW	pos2=HYPH	10	nmod	_	O
+4	unidos	unidos	FW	pos2=JJ	10	nmod	_	O
+5	por	por	FW	pos2=NN	10	nmod	_	O
+6	amor	amor	FW	_	10	nmod	_	O
+7	al	al	FW	pos2=NNP	10	nmod	_	O
+8	arte	arte	FW	pos2=NN	10	nmod	_	O
+9	❤	❤	FW	pos2=NFP	10	nmod	_	O
+10	@ricky_martin	@ricky_martin	NNP	pos2=FW	18	nsubj	_	O
+11	and	and	CC	_	10	cc	_	O
+12	@jwanyosef	@jwanyosef	VB	pos2=PRP$	10	conj	_	O
+13	united	united	JJ	pos2=VBN	12	acomp	_	O
+14	for	for	IN	_	13	prep	_	O
+15	love	love	NN	_	14	pobj	_	O
+16	of	of	IN	_	15	prep	_	O
+17	art	art	NN	_	16	pobj	_	O
+18	❤	❤	NFP	pos2=NNP	0	root	_	O
+19	...	..	.	pos2=,	18	punct	_	O
+
+1	https://t.co/BbLv4Fg5lm	#hlink#	ADD	_	0	root	_	U-ORG
+

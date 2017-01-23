@@ -1,0 +1,17 @@
+1	@rugliabeoulve2	@rugliabeoulve0	NN	pos2=LS	6	nsubj	_	O
+2	@AdamBaldwin	@adambaldwin	ADD	pos2=NN	6	nsubj	_	O
+3	@fromskyabove	@fromskyabove	IN	pos2=POS	1	prep	_	O
+4	Founders	founder	NNS	pos2=NNPS	3	pobj	_	O
+5	apparently	apparently	RB	_	6	advmod	_	O
+6	were	be	VBD	_	0	root	_	O
+7	wise	wise	JJ	_	6	acomp	_	O
+8	enough	enough	RB	_	7	advmod	_	O
+9	to	to	TO	_	10	aux	_	O
+10	see	see	VB	_	7	xcomp	_	O
+11	the	the	DT	_	12	det	_	O
+12	abortion	abortion	NN	_	10	dobj	_	O
+13	that	that	WDT	pos2=IN	16	dobj	_	O
+14	SF	sf	NNP	pos2=NN	16	nsubj	_	U-GPE
+15	has	have	VBZ	_	16	aux	_	O
+16	become	become	VBN	_	12	relcl	_	O
+

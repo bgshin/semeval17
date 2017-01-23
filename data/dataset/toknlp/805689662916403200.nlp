@@ -1,0 +1,22 @@
+1	@slone	@slone	UH	pos2=XX	8	discourse	_	O
+2	@sxdoc	@sxdoc	UH	pos2=IN	8	discourse	_	O
+3	A	a	DT	_	4	det	_	O
+4	view	view	NN	_	8	nsubj	_	O
+5	by	by	IN	_	4	prep	_	O
+6	county	county	NN	_	5	pobj	_	O
+7	should	should	MD	_	8	aux	_	O
+8	ensure	ensure	VB	_	0	root	_	O
+9	anyone	anyone	NN	_	8	dobj	_	O
+10	with	with	IN	_	9	prep	_	O
+11	#CommonSense	#commonsense	NN	pos2=PRP	10	pobj	_	O
+12	sees	see	VBZ	_	8	ccomp	_	O
+13	the	the	DT	_	15	det	_	B-ORG
+14	Electoral	electoral	NNP	_	15	compound	_	I-ORG
+15	College	college	NNP	_	16	nsubj	_	L-ORG
+16	works	work	VBZ	_	12	ccomp	_	O
+17	as	as	IN	pos2=RB	19	mark	_	O
+18	was	be	VBD	_	19	auxpass	_	O
+19	plann	plan	VBN	pos2=JJ	16	advcl	_	O
+20	…	…	NFP	pos2=-LRB-	21	punct	_	O
+21	https://t.co/uUmjq2gkvz	#hlink#	ADD	_	16	dep	_	O
+

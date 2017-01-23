@@ -1,0 +1,34 @@
+1	Have	have	VBP	pos2=VB	7	advcl	_	O
+2	an	an	DT	_	3	det	_	O
+3	article	article	NN	_	1	dobj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	write	write	VB	_	3	relcl	_	O
+6	,	,	,	_	7	punct	_	O
+7	notes	note	VBZ	pos2=NNS	0	root	_	O
+8	to	to	TO	_	9	aux	_	O
+9	re-organize	re-organize	VB	_	7	xcomp	_	O
+10	&	&	CC	_	9	cc	_	O
+11	a	a	DT	_	12	det	_	O
+12	house	house	NN	_	9	dobj	_	O
+13	to	to	TO	pos2=IN	14	aux	_	O
+14	clean	clean	VB	pos2=JJ	12	relcl	_	O
+15	,	,	,	_	7	punct	_	O
+16	yet	yet	CC	pos2=RB	7	cc	_	O
+17	all	all	DT	_	22	nsubj	_	O
+18	I	I	PRP	_	19	nsubj	_	O
+19	want	want	VBP	_	17	relcl	_	O
+20	to	to	TO	_	21	aux	_	O
+21	do	do	VB	_	19	xcomp	_	O
+22	is	be	VBZ	_	7	conj	_	O
+23	read	read	VB	pos2=VBN	22	xcomp	_	O
+24	all	all	DT	_	25	det	_	B-DATE
+25	day	day	NN	_	23	npadvmod	_	L-DATE
+26	.	.	.	_	22	punct	_	O
+
+1	And	and	CC	_	3	cc	_	O
+2	maybe	maybe	RB	_	3	advmod	_	O
+3	go	go	VB	_	0	root	_	O
+4	see	see	VB	pos2=UH	3	advcl	_	O
+5	#FantasticBeasts	#fantasticbeasts	NNS	pos2=RB	4	dobj	_	O
+6	.	.	.	_	3	punct	_	O
+

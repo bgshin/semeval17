@@ -1,0 +1,21 @@
+1	HERE	here	RB	_	3	advmod	_	O
+2	THEY	they	PRP	_	3	nsubj	_	O
+3	COME	come	VBP	pos2=VB	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+
+1	Jumping	jump	VBG	_	9	advcl	_	O
+2	on	on	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	#TRUMP	#trump	NN	pos2=XX	8	poss	_	O
+5	BANDWAGON!😁	bandwagon!😁	POS	pos2=NNP	4	case	_	O
+6	Mexican	mexican	NNP	pos2=JJ	8	compound	_	B-ORG
+7	Cement	cement	NNP	_	8	compound	_	I-ORG
+8	Co.	co.	NNP	_	2	pobj	_	L-ORG
+9	Offers	offer	VBZ	pos2=NNP	0	root	_	O
+10	Help	help	NN	pos2=NNP	9	dobj	_	O
+11	To	to	TO	pos2=NNP	12	aux	_	O
+12	Build	build	VB	pos2=NNP	10	acl	_	O
+13	Border	border	NNP	pos2=GW	14	compound	_	O
+14	Wall	wall	NNP	pos2=GW	12	dobj	_	O
+15	https://t.co/So4qXGH8oh	#hlink#	ADD	_	12	dobj	_	O
+

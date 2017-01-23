@@ -1,0 +1,26 @@
+1	CSG	csg	NN	pos2=NNP	2	compound	_	O
+2	exploration	exploration	NN	_	6	nsubj	_	O
+3	and	and	CC	_	2	cc	_	O
+4	extraction	extraction	NN	_	2	conj	_	O
+5	is	be	VBZ	_	6	aux	_	O
+6	destroying	destroy	VBG	_	0	root	_	O
+7	our	our	PRP$	_	8	poss	_	O
+8	land	land	NN	_	6	dobj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	waterways	waterway	NNS	_	8	conj	_	O
+11	.	.	.	_	6	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	out	out	IN	pos2=RB	2	prep	_	O
+4	of	of	IN	_	3	prep	_	O
+5	control	control	NN	_	4	pobj	_	O
+6	and	and	CC	_	2	cc	_	O
+7	need	need	VBP	pos2=NN	2	conj	_	O
+8	to	to	TO	_	10	aux	_	O
+9	be	be	VB	_	10	auxpass	_	O
+10	stopped	stop	VBN	_	7	xcomp	_	O
+11	....	..	.	_	2	punct	_	O
+
+1	https://t.co/pcglUTpJUV	#hlink#	ADD	_	0	root	_	U-ORG
+

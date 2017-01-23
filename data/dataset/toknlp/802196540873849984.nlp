@@ -1,0 +1,19 @@
+1	IMPORTANT#ISIS	important#isis	NN	pos2=NNP	2	nsubj	_	O
+2	fired	fire	VBD	_	0	root	_	O
+3	multiple	multiple	JJ	_	4	nmod	_	O
+4	mortars	mortar	NNS	_	2	dobj	_	O
+5	at	at	IN	_	2	prep	_	O
+6	Tal	tal	NNP	_	7	compound	_	B-GPE
+7	Afar	afar	NNP	_	8	compound	_	L-GPE
+8	airbase	airbase	NN	pos2=NNP	5	pobj	_	O
+9	west	west	RB	pos2=NN	12	advmod	_	O
+10	#Mosul	#mosul	NNP	pos2=RBR	12	nsubj	_	O
+11	directly	directly	RB	_	12	advmod	_	O
+12	targeting	target	VBG	_	2	advcl	_	O
+13	#PMU	#pmu	NNP	pos2=XX	14	compound	_	U-ORG
+14	commanders	commander	NNS	_	15	compound	_	O
+15	operation	operation	NN	pos2=VBP	12	dobj	_	O
+16	room.1	room.0	WDT	pos2=NN	17	det	_	O
+17	commander	commander	NN	pos2=JJ	18	nsubj	_	O
+18	injured	injure	VBD	pos2=VBN	2	conj	_	O
+

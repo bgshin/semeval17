@@ -1,0 +1,22 @@
+1	@MadJewessWoman	@madjewesswoman	ADD	pos2=NN	4	punct	_	O
+2	@PutinRF_Eng	@putinrf_eng	NNP	pos2=``	4	dep	_	O
+3	He	he	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	a	a	DT	_	7	det	_	O
+6	powerful	powerful	JJ	_	7	nmod	_	O
+7	force	force	NN	_	4	attr	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	We	we	PRP	_	10	nsubj	_	O
+2	in	in	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	US	us	NNP	_	2	pobj	_	U-GPE
+5	(	(	-LRB-	_	4	punct	_	O
+6	except	except	IN	_	4	prep	_	O
+7	Obama	obama	NNP	_	8	compound	_	U-PERSON
+8	admin	admin	NN	_	6	pobj	_	O
+9	)	)	-RRB-	_	4	punct	_	O
+10	love	love	VBP	pos2=VB	0	root	_	O
+11	him	him	PRP	_	10	dobj	_	O
+12	.	.	.	_	10	punct	_	O
+

@@ -1,0 +1,29 @@
+1	Trump	trump	NNP	pos2=NN	11	nsubj	_	O
+2	&	&	CC	_	1	cc	_	O
+3	his	his	PRP$	_	4	poss	_	O
+4	cabinet	cabinet	NN	_	1	conj	_	O
+5	together	together	RB	pos2=NN	4	advmod	_	O
+6	w	w	IN	_	4	prep	_	O
+7	/	/	HYPH	pos2=,	6	punct	_	O
+8	his	his	PRP$	_	9	poss	_	O
+9	family	family	NN	_	6	pobj	_	O
+10	just	just	RB	_	11	advmod	_	O
+11	downgraded	downgrade	VBD	_	0	root	_	O
+12	America	america	NNP	_	11	dobj	_	U-GPE
+13	into	into	IN	_	11	prep	_	O
+14	Banana	banana	NNP	_	15	compound	_	B-ORG
+15	Republic	republic	NNP	_	13	pobj	_	L-ORG
+16	in	in	IN	_	11	prep	_	O
+17	just	just	RB	_	18	advmod	_	O
+18	2	0	CD	_	19	nmod	_	U-CARDINAL
+19	wks	wk	NNS	_	16	pobj	_	O
+20	.	.	.	_	11	punct	_	O
+
+1	We	we	PRP	_	7	nsubj	_	O
+2	'	'	''	pos2=``	7	punct	_	O
+3	re	re	IN	pos2=VBP	1	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	lau	lau	NNP	pos2=NN	3	pobj	_	O
+6	…	…	NFP	pos2=-LRB-	7	punct	_	O
+7	https://t.co/WilFrAY36F	#hlink#	ADD	_	0	root	_	O
+

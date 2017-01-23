@@ -1,0 +1,15 @@
+1	Muhammad	muhammad	NNP	_	3	compound	_	B-PERSON
+2	Ali	ali	NNP	_	3	compound	_	I-PERSON
+3	Heated	heated	NNP	pos2=VBD	4	compound	_	L-PERSON
+4	Argument	argument	NN	pos2=NNP	14	nsubj	_	O
+5	with	with	IN	_	4	prep	_	O
+6	Black	black	NNP	pos2=JJ	7	compound	_	B-ORG
+7	Singer	singer	NNP	pos2=NN	5	pobj	_	I-ORG
+8	&	&	CC	_	7	cc	_	I-ORG
+9	White	white	NNP	pos2=JJ	10	compound	_	L-ORG
+10	Congressman	congressman	NNP	pos2=NN	7	conj	_	O
+11	https://t.co/pgBTMXIikb	#hlink#	ADD	pos2=NNP	7	appos	_	O
+12	via	via	IN	_	4	prep	_	O
+13	@YouTube	@youtube	NNP	pos2=ADD	12	pobj	_	O
+14	@RealDonaldTrump	@realdonaldtrump	ADD	pos2=NN	0	root	_	O
+

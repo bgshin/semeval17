@@ -1,0 +1,7 @@
+1	Ric	ric	NNP	pos2=JJ	2	compound	_	O
+2	Flair	flair	NNP	pos2=NN	6	dep	_	O
+3	&	&	CC	_	2	cc	_	O
+4	Muhammad	muhammad	NNP	_	5	compound	_	O
+5	Ali	ali	NNP	_	2	conj	_	O
+6	https://t.co/gaZwDF7JEH	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,22 @@
+1	Getting	get	VBG	pos2=NN	0	root	_	O
+2	ready	ready	JJ	_	1	acomp	_	O
+3	for	for	IN	_	2	prep	_	O
+4	European	european	JJ	pos2=NNP	5	nmod	_	O
+5	Tour	tour	NNP	pos2=NN	3	pobj	_	O
+6	2017	0	CD	_	5	nmod	_	O
+7	!	!	.	pos2=,	1	punct	_	O
+
+1	With	with	IN	_	0	root	_	O
+2	support	support	NN	_	1	pobj	_	O
+3	from	from	IN	_	2	prep	_	O
+4	@realDonaldTrump	@realdonaldtrump	NNP	pos2=NN	3	pobj	_	U-ORG
+5	and	and	CC	_	4	cc	_	O
+6	the	the	DT	_	7	det	_	O
+7	#Trumptards	#trumptards	NNP	pos2=NNPS	4	conj	_	U-GPE
+8	!	!	.	_	1	punct	_	O
+
+1	#MAGA	#maga	NN	pos2=NFP	4	dep	_	O
+2	#MERA	#mera	GW	pos2=NN	4	nmod	_	B-PERSON
+3	…	…	NFP	pos2=GW	4	punct	_	L-PERSON
+4	https://t.co/cQVCCm6gwQ	#hlink#	ADD	pos2=NN	0	root	_	O
+

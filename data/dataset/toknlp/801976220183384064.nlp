@@ -1,0 +1,14 @@
+1	@UN	@un	NN	pos2=NNP	0	root	_	O
+2	@SayNO_UNiTE	@sayno_unite	IN	pos2=NNP	1	prep	_	O
+3	Celebrating	celebrate	VBG	_	2	pcomp	_	O
+4	a	a	DT	_	6	det	_	O
+5	Trump	trump	NNP	pos2=NN	6	compound	_	B-ORG
+6	Presidency	presidency	NNP	_	3	dobj	_	L-ORG
+7	.	.	.	_	1	punct	_	O
+
+1	#orangetheworld	#orangetheworld	UH	pos2=MD	5	discourse	_	O
+2	#DonaldTrump	#donaldtrump	XX	pos2=UH	5	nmod	_	O
+3	#orangebyelection	#orangebyelection	UH	pos2=NN	5	discourse	_	O
+4	#Trump2016	#trump0	NN	pos2=CD	5	compound	_	O
+5	#UnitedNations	#unitednations	NNS	pos2=ADD	0	root	_	O
+

@@ -1,0 +1,25 @@
+1	"	"	``	_	6	punct	_	O
+2	The	the	DT	_	3	det	_	O
+3	rise	rise	NN	_	0	root	_	O
+4	of	of	IN	_	3	prep	_	O
+5	a	a	DT	_	11	det	_	O
+6	large	large	JJ	_	11	nmod	_	O
+7	and	and	CC	_	6	cc	_	O
+8	concerted	concerted	JJ	_	6	conj	_	O
+9	fake	fake	JJ	_	11	nmod	_	O
+10	news	news	NN	_	11	compound	_	O
+11	industry	industry	NN	_	4	pobj	_	O
+12	"	"	''	_	3	punct	_	O
+13	,	,	,	_	16	punct	_	O
+14	we	we	PRP	_	16	nsubj	_	O
+15	're	be	VBP	_	16	aux	_	O
+16	playing	play	VBG	_	11	acl	_	O
+17	its	its	PRP$	_	18	poss	_	O
+18	mules	mule	NNS	_	16	dobj	_	O
+19	,	,	,	_	16	punct	_	O
+20	mainstream	mainstream	JJ	pos2=NN	21	nmod	_	O
+21	helping	help	VBG	pos2=NN	16	conj	_	O
+22	https://t.co/xaiBiDfi9K	#hlink#	ADD	pos2=RP	24	nmod	_	O
+23	petition	petition	NN	_	24	compound	_	O
+24	signers	signer	NNS	_	21	dobj	_	O
+

@@ -1,0 +1,25 @@
+1	@POTUS	@potus	NNP	pos2=NN	0	root	_	O
+2	The	the	DT	_	3	det	_	O
+3	last	last	JJ	pos2=NN	1	appos	_	O
+4	of	of	IN	_	3	prep	_	O
+5	a	a	DT	_	7	det	_	O
+6	classy	classy	JJ	_	7	nmod	_	O
+7	President	president	NNP	pos2=NN	4	pobj	_	O
+8	and	and	CC	_	7	cc	_	O
+9	First	#ord#	NNP	_	10	compound	_	U-ORDINAL
+10	Lady	lady	NNP	_	7	conj	_	O
+11	!	!	.	_	1	punct	_	O
+
+1	Can	can	MD	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	imagine	imagine	VB	_	0	root	_	O
+4	trump	trump	NN	_	3	dobj	_	O
+5	and	and	CC	_	4	cc	_	O
+6	Melania	melania	NNP	_	4	conj	_	U-PERSON
+7	ever	ever	RB	_	8	advmod	_	O
+8	doing	do	VBG	_	3	xcomp	_	O
+9	this	this	DT	_	8	dobj	_	O
+10	..	..	.	pos2=,	3	punct	_	O
+
+1	NOT	not	RB	_	0	root	_	O
+

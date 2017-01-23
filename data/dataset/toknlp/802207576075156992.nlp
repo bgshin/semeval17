@@ -1,0 +1,16 @@
+1	@SebGorka	@sebgorka	ADD	pos2=NN	15	nsubjpass	_	B-PERSON
+2	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	5	nmod	_	L-PERSON
+3	@GenFlynn	@genflynn	ADD	pos2=XX	5	nmod	_	O
+4	@AJDelgado13	@ajdelgado0	NN	pos2=ADD	5	compound	_	O
+5	@mike_pence	@mike_pence	NN	pos2=ADD	1	pobj	_	O
+6	@jaredkushner	@jaredkushner	CC	pos2=IN	5	cc	_	O
+7	@DonaldJTrumpJr	@donaldjtrumpjr	PRP$	pos2=XX	9	poss	_	O
+8	small	small	JJ	_	9	nmod	_	O
+9	cap	cap	NN	_	5	conj	_	O
+10	mid	mid	JJ	pos2=AFX	11	nmod	_	O
+11	cap	cap	NN	_	12	compound	_	O
+12	global	global	JJ	pos2=NN	7	acomp	_	O
+13	is	be	VBZ	_	15	aux	_	O
+14	being	be	VBG	_	15	auxpass	_	O
+15	dumped	dump	VBN	_	0	root	_	O
+

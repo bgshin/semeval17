@@ -1,0 +1,27 @@
+1	Pope	pope	NNP	_	2	compound	_	O
+2	Francis	francis	NNP	_	3	nsubj	_	U-PERSON
+3	has	have	VBZ	_	0	root	_	O
+4	no	no	DT	_	5	det	_	O
+5	authority	authority	NN	_	3	dobj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	Allow	allow	VB	_	5	acl	_	O
+8	anything	anything	NN	_	7	dobj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	Seek	seek	VB	_	0	root	_	O
+2	Jesus	jesus	NNP	_	1	dobj	_	U-PERSON
+3	not	not	RB	_	4	neg	_	O
+4	men	man	NNS	_	2	appos	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	Priest	priest	NN	pos2=NNP	4	nsubj	_	O
+2	ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	forgive	forgive	VB	_	0	root	_	O
+5	anything	anything	NN	_	4	dobj	_	O
+6	only	only	RB	pos2=JJ	7	advmod	_	O
+7	God	god	NNP	_	4	vocative	_	O
+8	!!!	!!	.	_	4	punct	_	O
+
+1	https://t.co/1DnX6aKJ4R	#hlink#	ADD	_	0	root	_	U-ORG
+

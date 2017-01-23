@@ -1,0 +1,25 @@
+1	@NatashaWriting	@natashawriting	VBG	pos2=ADD	0	root	_	O
+2	@battymamzelle	@battymamzelle	UH	pos2=XX	3	discourse	_	O
+3	@Jem758	@jem0	NN	pos2=CD	1	dobj	_	O
+4	Why	why	WRB	_	1	advmod	_	O
+5	?	?	.	_	1	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	lived	live	VBD	_	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	CT	ct	NN	pos2=NNP	3	pobj	_	O
+5	all	all	PDT	pos2=RB	7	predet	_	O
+6	my	my	PRP$	_	7	poss	_	O
+7	life	life	NN	_	2	dobj	_	O
+8	and	and	CC	_	2	cc	_	O
+9	declared	declare	VBD	_	2	conj	_	O
+10	hispanic	hispanic	JJ	_	12	nmod	_	O
+11	-	-	HYPH	_	12	punct	_	O
+12	voter	voter	NN	_	13	compound	_	O
+13	registration	registration	NN	_	14	nsubj	_	O
+14	was	be	VBD	_	9	ccomp	_	O
+15	never	never	RB	_	14	neg	_	O
+16	a	a	DT	_	17	det	_	O
+17	problem	problem	NN	_	14	attr	_	O
+18	.	.	.	_	2	punct	_	O
+

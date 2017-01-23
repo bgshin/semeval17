@@ -1,0 +1,12 @@
+1	Zac	zac	NNP	_	2	compound	_	B-PERSON
+2	Efron	efron	NNP	_	11	dep	_	L-PERSON
+3	&	&	CC	_	2	cc	_	O
+4	bear	bear	NN	pos2=VB	5	compound	_	O
+5	grylls	grylls	NNS	pos2=VBZ	2	conj	_	O
+6	lol#Liveme	lol#liveme	NNP	pos2=POS	8	compound	_	B-ORG
+7	🔥🐠John	🔥🐠john	NNP	pos2=NFP	8	compound	_	I-ORG
+8	Smith🔱🇨🇦	smith🔱🇨🇦	NNP	pos2=NFP	11	dep	_	L-ORG
+9	:	:	:	_	11	punct	_	O
+10	https://t.co/KkuTQ3yiOy	#hlink#	ADD	_	11	nmod	_	O
+11	https://t.co/MqXH3I9Z9A	#hlink#	ADD	_	0	root	_	U-ORG
+

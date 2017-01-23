@@ -1,0 +1,22 @@
+1	@ChiOnwurah	@chionwurah	UH	pos2=XX	4	advmod	_	O
+2	@carolecadwalla	@carolecadwalla	IN	pos2=PRP	0	root	_	O
+3	TOO	too	RB	_	4	advmod	_	O
+4	much	much	JJ	_	5	nmod	_	O
+5	religion	religion	NN	_	2	pobj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	any	any	DT	_	9	det	_	O
+8	mega	mega	JJ	pos2=NN	9	nmod	_	O
+9	corporation	corporation	NN	_	6	pobj	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	@google	@google	UH	pos2=VB	2	discourse	_	O
+2	@ericschmidt	@ericschmidt	UH	pos2=PRP	0	root	_	O
+3	with	with	IN	_	2	prep	_	O
+4	KKK	kkk	NNP	_	5	compound	_	U-ORG
+5	Nazis	nazi	NNPS	pos2=NNP	3	pobj	_	U-NORP
+6	in	in	IN	_	2	prep	_	O
+7	GOP	gop	NNP	_	6	pobj	_	U-ORG
+8	?	?	.	_	2	punct	_	O
+
+1	https://t.co/w5vzXglzws	#hlink#	ADD	_	0	root	_	U-ORG
+

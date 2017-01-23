@@ -1,0 +1,11 @@
+1	Blog	blog	NN	_	5	nsubj	_	O
+2	:	:	:	_	5	punct	_	O
+3	Google	google	NNP	_	5	compound	_	B-ORG
+4	Earth	earth	NNP	_	5	compound	_	I-ORG
+5	VR	vr	NNP	pos2=NN	0	root	_	L-ORG
+6	|	|	SYM	pos2=,	5	punct	_	O
+7	3	0	CD	_	9	nmod	_	U-CARDINAL
+8	D	d	NNP	pos2=NN	9	compound	_	O
+9	Rudder	rudder	NN	pos2=GW	10	dep	_	O
+10	https://t.co/TV9gAdfCyH	#hlink#	ADD	_	5	appos	_	O
+

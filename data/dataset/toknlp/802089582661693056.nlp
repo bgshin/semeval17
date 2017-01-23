@@ -1,0 +1,17 @@
+1	Google	google	NNP	_	2	compound	_	B-ORG
+2	Earth	earth	NNP	_	3	nsubj	_	L-ORG
+3	joins	join	VBZ	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	VR	vr	NNP	_	6	compound	_	U-ORG
+6	revolution	revolution	NN	_	3	dobj	_	O
+7	letting	let	VBG	_	3	advcl	_	O
+8	you	you	PRP	_	9	nsubj	_	O
+9	wander	wander	VB	pos2=VBP	7	ccomp	_	O
+10	the	the	DT	_	11	det	_	O
+11	world	world	NN	_	9	dobj	_	O
+12	in	in	IN	_	9	prep	_	O
+13	3	0	CD	_	16	dep	_	U-DATE
+14	D	d	NN	pos2=NNS	16	dep	_	O
+15	:	:	:	_	16	punct	_	O
+16	https://t.co/vQS5dRhhM9	#hlink#	ADD	_	3	dep	_	O
+

@@ -1,0 +1,15 @@
+1	@USAgentZero	@usagentzero	ADD	pos2=XX	4	cc	_	O
+2	@MarilynT4	@marilynt0	NN	pos2=XX	3	compound	_	O
+3	UR	ur	NN	pos2=NNP	4	nsubj	_	U-ORG
+4	going	go	VBG	_	0	root	_	O
+5	2	0	CD	_	6	nmod	_	U-CARDINAL
+6	love	love	NN	pos2=VBP	4	npadvmod	_	O
+7	Steve	steve	NNP	_	8	compound	_	B-PERSON
+8	Bannon	bannon	NNP	_	3	appos	_	L-PERSON
+9	as	as	IN	_	8	prep	_	O
+10	DJT	djt	NNP	_	14	poss	_	U-ORG
+11	's	's	POS	_	10	case	_	O
+12	senior	senior	JJ	_	14	nmod	_	O
+13	advisor	advisor	NN	_	14	compound	_	O
+14	😂😂😂	😂😂😂	NN	pos2=''	9	pobj	_	O
+

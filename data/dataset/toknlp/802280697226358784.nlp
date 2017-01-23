@@ -1,0 +1,12 @@
+1	@enthahotness	@enthahotness	UH	pos2=NN	5	discourse	_	O
+2	What	what	WP	_	5	dobj	_	O
+3	did	do	VBD	_	5	aux	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	buy	buy	VB	_	0	root	_	O
+6	,	,	,	_	5	punct	_	O
+7	a	a	DT	_	9	det	_	O
+8	Galaxy	galaxy	NNP	pos2=NN	9	compound	_	U-PRODUCT
+9	Note	note	NN	pos2=NNP	5	dobj	_	O
+10	7	0	CD	_	9	nmod	_	O
+11	?	?	.	_	5	punct	_	O
+

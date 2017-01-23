@@ -1,0 +1,17 @@
+1	@fidh_fr	@fidh_fr	UH	pos2=XX	5	discourse	_	O
+2	@soniarolley	@soniarolley	UH	pos2=XX	5	discourse	_	O
+3	@edwyplenel	@edwyplenel	UH	pos2=VB	5	discourse	_	O
+4	@LucMandret	@lucmandret	ADD	pos2=UH	5	cc	_	U-NORP
+5	@ElliotLepers	@elliotlepers	NNS	pos2=VBZ	11	nsubj	_	O
+6	@rutwesdras	@rutwesdras	UH	pos2=FW	5	discourse	_	O
+7	@DTAfrique	@dtafrique	JJ	pos2=XX	9	nmod	_	O
+8	Ur	ur	NNP	pos2=PRP$	9	compound	_	O
+9	ignorance	ignorance	NN	_	11	nsubj	_	O
+10	have	have	VBP	_	11	aux	_	O
+11	caused	cause	VBN	_	0	root	_	O
+12	destructions	destruction	NNS	_	11	dobj	_	O
+13	in	in	IN	_	11	prep	_	O
+14	#Libya	#libya	NNP	pos2=NN	16	nmod	_	U-GPE
+15	,	,	,	_	16	punct	_	O
+16	#Iraq	#iraq	NNP	pos2=XX	13	pobj	_	U-GPE
+

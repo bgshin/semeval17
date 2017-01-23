@@ -1,0 +1,11 @@
+1	@elizabethforma	@elizabethforma	NFP	pos2=NN	3	punct	_	O
+2	Sen.	sen.	NNP	pos2=NNPS	3	compound	_	O
+3	Warren	warren	NNP	_	8	dep	_	U-PERSON
+4	:	:	:	_	8	punct	_	O
+5	Congressional	congressional	JJ	_	6	nmod	_	O
+6	action	action	NN	_	8	nsubjpass	_	O
+7	is	be	VBZ	_	8	auxpass	_	O
+8	warranted	warrant	VBN	_	0	root	_	O
+9	:	:	:	_	8	punct	_	O
+10	https://t.co/KsCMLTEHRz	#hlink#	ADD	pos2=NN	8	dep	_	O
+

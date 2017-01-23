@@ -1,0 +1,26 @@
+1	Large	large	JJ	_	2	nmod	_	O
+2	pharma	pharma	NN	pos2=NNS	5	nsubjpass	_	O
+3	are	be	VBP	_	5	auxpass	_	O
+4	uniquely	uniquely	RB	_	5	advmod	_	O
+5	positioned	position	VBN	pos2=JJ	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	drive	drive	VB	_	5	advcl	_	O
+8	forward	forward	RB	_	7	advmod	_	O
+9	deep	deep	JJ	pos2=RB	10	nmod	_	O
+10	learning	learning	NN	pos2=VBG	7	dobj	_	O
+11	in	in	IN	_	10	prep	_	O
+12	drug	drug	NN	_	13	compound	_	O
+13	discovery	discovery	NN	_	11	pobj	_	O
+14	.	.	.	_	5	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	only	only	JJ	_	5	nmod	_	O
+5	ones	#crd#	NNS	_	2	attr	_	O
+6	with	with	IN	_	5	prep	_	O
+7	datasets	dataset	NNS	_	6	pobj	_	O
+8	large	large	JJ	_	7	nmod	_	O
+9	enough	enough	RB	pos2=JJ	8	advmod	_	O
+10	.	.	.	_	2	punct	_	O
+

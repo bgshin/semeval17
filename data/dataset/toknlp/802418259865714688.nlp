@@ -1,0 +1,13 @@
+1	@slone	@slone	UH	pos2=XX	5	discourse	_	O
+2	@youlivethrice	@youlivethrice	UH	pos2=IN	5	discourse	_	O
+3	@realDonaldTrump	@realdonaldtrump	NNP	pos2=IN	4	compound	_	B-PERSON
+4	Stein	stein	NNP	_	5	nsubj	_	L-PERSON
+5	received	receive	VBD	_	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	grant	grant	NN	_	5	dobj	_	O
+8	from	from	IN	_	7	prep	_	O
+9	the	the	DT	_	12	det	_	B-ORG
+10	International	international	NNP	_	12	compound	_	I-ORG
+11	Clinton	clinton	NNP	_	12	compound	_	I-ORG
+12	Foundation	foundation	NNP	_	8	pobj	_	L-ORG
+

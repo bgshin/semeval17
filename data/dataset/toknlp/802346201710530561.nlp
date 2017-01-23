@@ -1,0 +1,15 @@
+1	Saakashvili	saakashvili	NNP	_	2	nsubj	_	U-PERSON
+2	passed	pass	VBD	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	test	test	NN	_	2	dobj	_	O
+5	for	for	IN	_	4	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	maintenance	maintenance	NN	_	8	compound	_	O
+8	drugs	drug	NNS	_	5	pobj	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	Video	video	NN	pos2=GW	4	dep	_	O
+2	-	-	:	pos2=GW	4	punct	_	O
+3	https://t.co/2srlmcUBxa	#hlink#	ADD	_	4	nmod	_	O
+4	https://t.co/2a98OzjMLL	#hlink#	ADD	_	0	root	_	U-ORG
+

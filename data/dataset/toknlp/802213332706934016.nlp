@@ -1,0 +1,8 @@
+1	Only	only	RB	_	2	advmod	_	B-DATE
+2	82	0	CD	_	3	nmod	_	I-DATE
+3	days	day	NNS	_	0	root	_	L-DATE
+4	left	leave	VBN	pos2=RB	3	acl	_	O
+5	until	until	IN	_	4	prep	_	O
+6	Valentines	valentines	NNP	_	7	compound	_	B-DATE
+7	Day	day	NNP	pos2=NN	5	pobj	_	L-DATE
+

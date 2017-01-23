@@ -1,0 +1,12 @@
+1	Google	google	NNP	_	2	compound	_	B-ORG
+2	Accounts	account	NNPS	pos2=VBZ	11	nsubj	_	L-ORG
+3	for	for	IN	_	2	prep	_	O
+4	13	0	CD	_	5	nmod	_	U-CARDINAL
+5	Accidents	accident	NNS	_	3	pobj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	Its	its	PRP$	_	9	poss	_	O
+8	Self-Driving	self-driving	JJ	pos2=NNP	9	nmod	_	O
+9	Cars	car	NNS	pos2=NNPS	6	pobj	_	O
+10	https://t.co/7PvckMANI2	#hlink#	ADD	_	11	nmod	_	O
+11	https://t.co/xH8Afyzswn	#hlink#	ADD	_	0	root	_	U-ORG
+

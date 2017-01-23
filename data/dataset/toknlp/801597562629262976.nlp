@@ -1,0 +1,11 @@
+1	Justin	justin	NNP	_	2	compound	_	B-PERSON
+2	Verlander	verlander	NNP	_	5	poss	_	I-PERSON
+3	’s	's	POS	_	2	case	_	L-PERSON
+4	2,000th	#ord#	JJ	pos2=NN	5	nmod	_	U-ORDINAL
+5	Strikeout	strikeout	NN	_	0	root	_	O
+6	:	:	:	_	10	punct	_	O
+7	https://t.co/aXYG8TYave	#hlink#	ADD	_	10	dep	_	O
+8	#Tigers	#tigers	NNS	pos2=VBZ	10	punct	_	O
+9	#Twins	#twins	NNS	pos2=VBZ	10	compound	_	O
+10	#Baseball	#baseball	NNP	pos2=.	5	appos	_	O
+

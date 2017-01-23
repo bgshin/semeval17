@@ -1,0 +1,22 @@
+1	Self	self	NN	pos2=VB	2	npadvmod	_	O
+2	driving	drive	VBG	pos2=NN	3	nmod	_	O
+3	cars	car	NNS	_	4	nsubj	_	O
+4	are	be	VBP	_	11	ccomp	_	O
+5	closer	close	JJR	_	4	acomp	_	O
+6	than	than	IN	_	8	mark	_	O
+7	you	you	PRP	_	8	nsubj	_	O
+8	think	think	VBP	_	5	advcl	_	O
+9	,	,	,	_	11	punct	_	O
+10	"	"	``	_	11	punct	_	O
+11	Watch	watch	VB	_	0	root	_	O
+12	a	a	DT	_	16	det	_	O
+13	self-driving	self-driving	JJ	pos2=NN	16	nmod	_	O
+14	Tesla	tesla	NNP	_	16	compound	_	U-ORG
+15	navigate	navigate	NN	pos2=VB	16	compound	_	O
+16	intersections	intersection	NNS	_	11	dobj	_	O
+17	and	and	CC	_	16	cc	_	O
+18	city	city	NN	_	19	compound	_	O
+19	streets	street	NNS	_	16	conj	_	O
+20	"	"	''	pos2=``	11	punct	_	O
+21	https://t.co/UYWHDdTtrI	#hlink#	ADD	pos2=NN	11	dep	_	O
+

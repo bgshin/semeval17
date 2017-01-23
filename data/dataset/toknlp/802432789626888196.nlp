@@ -1,0 +1,21 @@
+1	@malamoot	@malamoot	UH	pos2=WP	4	discourse	_	O
+2	Then	then	RB	_	4	advmod	_	O
+3	people	people	NNS	_	4	nsubj	_	O
+4	ask	ask	VBP	pos2=VB	0	root	_	O
+5	"	"	``	pos2=''	4	punct	_	O
+6	how	how	WRB	_	7	advmod	_	O
+7	come	come	VB	pos2=VBN	4	xcomp	_	O
+8	with	with	IN	_	7	prep	_	O
+9	a	a	DT	_	11	det	_	O
+10	dem	dem	NN	pos2=FW	11	compound	_	O
+11	congress	congress	NN	_	8	pobj	_	O
+12	and	and	CC	_	11	cc	_	O
+13	president	president	NN	pos2=NNP	14	compound	_	O
+14	Obamacare	obamacare	NNP	_	15	nsubj	_	U-PERSON
+15	had	have	VBD	_	20	ccomp	_	O
+16	no	no	DT	_	18	det	_	O
+17	public	public	JJ	_	18	nmod	_	O
+18	option	option	NN	_	15	dobj	_	O
+19	?	?	.	_	4	punct	_	O
+20	"	"	''	_	4	punct	_	O
+

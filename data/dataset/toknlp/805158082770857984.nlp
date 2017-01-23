@@ -1,0 +1,26 @@
+1	more	more	JJR	_	2	nmod	_	O
+2	opposition	opposition	NN	_	0	root	_	O
+3	than	than	IN	_	2	prep	_	O
+4	Obama	obama	NNP	_	6	compound	_	U-PERSON
+5	drone	drone	NN	_	6	compound	_	O
+6	strikes	strike	NNS	pos2=VBZ	3	pobj	_	O
+7	on	on	IN	_	6	prep	_	O
+8	US	us	NNP	_	9	compound	_	U-GPE
+9	citizens	citizen	NNS	_	7	pobj	_	O
+10	?	?	.	_	2	punct	_	O
+
+1	:	:	:	pos2=SYM	4	punct	_	O
+2	Can	can	MD	_	4	aux	_	O
+3	Trump	trump	NNP	pos2=VB	4	nsubj	_	U-PERSON
+4	send	send	VB	_	0	root	_	O
+5	American	american	JJ	pos2=NNP	6	nmod	_	U-NORP
+6	citizens	citizen	NNS	_	4	dobj	_	O
+7	to	to	IN	_	4	prep	_	O
+8	Guantanamo	guantanamo	NNP	_	9	compound	_	B-LOC
+9	Bay	bay	NNP	_	7	pobj	_	L-LOC
+10	?	?	.	_	4	punct	_	O
+
+1	-	-	SYM	pos2=GW	3	punct	_	O
+2	CNN	cnn	NNP	pos2=GW	3	dep	_	U-ORG
+3	https://t.co/ElGbqIkr7p	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,14 @@
+1	@WeAreBangalore	@wearebangalore	ADD	pos2=NN	5	punct	_	O
+2	@Harsha_MP	@harsha_mp	XX	pos2=ADD	5	dep	_	O
+3	@beyondcarlton	@beyondcarlton	UH	pos2=ADD	5	discourse	_	O
+4	#NBAwards	#nbawards	NNPS	pos2=UH	5	vocative	_	O
+5	Let	let	VB	pos2=NNP	0	root	_	O
+6	's	's	PRP	_	7	nsubj	_	O
+7	unearth	unearth	VB	_	5	ccomp	_	O
+8	more	more	RBR	pos2=JJR	9	advmod	_	O
+9	such	such	JJ	_	10	nmod	_	O
+10	jewels	jewel	NNS	_	7	dobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	#Bengaluru	#bengaluru	NNP	pos2=NNS	11	pobj	_	O
+13	https://t.co/p5Mmim3XUQ	#hlink#	ADD	_	12	appos	_	O
+

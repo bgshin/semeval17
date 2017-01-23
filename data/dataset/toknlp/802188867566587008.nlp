@@ -1,0 +1,14 @@
+1	How	how	WRB	_	3	advmod	_	O
+2	Israel	israel	NNP	_	3	nsubj	_	U-GPE
+3	killed	kill	VBD	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	#Hamas	#hamas	NNP	pos2=AFX	6	compound	_	U-ORG
+6	mastermind	mastermind	NN	_	3	dobj	_	O
+7	&	&	CC	_	3	cc	_	O
+8	honed	hone	VBD	_	3	conj	_	O
+9	its	its	PRP$	_	10	poss	_	O
+10	war	war	NN	_	8	dobj	_	O
+11	on	on	IN	_	10	prep	_	O
+12	#Terror	#terror	NNP	pos2=ADD	11	pobj	_	O
+13	https://t.co/emSiIUKXG1	#hlink#	ADD	_	11	pobj	_	O
+

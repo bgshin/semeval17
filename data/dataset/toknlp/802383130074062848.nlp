@@ -1,0 +1,14 @@
+1	@SJRutherford3	@sjrutherford0	NN	pos2=LS	5	npadvmod	_	O
+2	@newspip	@newspip	UH	pos2=XX	5	discourse	_	O
+3	Wish	wish	UH	pos2=VBP	5	discourse	_	O
+4	we	we	PRP	_	5	nsubj	_	O
+5	knew	know	VBD	_	0	root	_	O
+6	what	what	WP	_	8	dobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	use	use	VB	_	5	xcomp	_	O
+9	on	on	IN	_	8	prep	_	O
+10	Dems	dems	NNPS	pos2=NNP	9	pobj	_	O
+11	&	&	CC	_	10	cc	_	O
+12	others	other	NNS	_	10	conj	_	O
+13	!	!	.	_	5	punct	_	O
+

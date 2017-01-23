@@ -1,0 +1,26 @@
+1	#Hamas	#hamas	NNP	pos2=NNS	4	nsubj	_	U-ORG
+2	does	do	VBZ	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	want	want	VB	_	12	ccomp	_	O
+5	PALS	pal	NNS	_	6	nsubj	_	O
+6	2B	0b	NN	pos2=RBR	7	npadvmod	_	U-CARDINAL
+7	free	free	JJ	_	9	advmod	_	O
+8	,	,	,	_	9	punct	_	O
+9	prosperous	prosperous	JJ	_	12	ccomp	_	O
+10	;	;	:	pos2=,	12	punct	_	O
+11	they	they	PRP	_	12	nsubj	_	O
+12	use	use	VBP	_	0	root	_	O
+13	PALS	pal	NNS	_	12	dobj	_	O
+14	as	as	IN	_	12	prep	_	O
+15	pawns	pawn	NNS	_	14	pobj	_	O
+16	against	against	IN	_	15	prep	_	O
+17	#Israel	#israel	NNP	_	16	pobj	_	U-ORG
+18	.	.	.	_	12	punct	_	O
+
+1	All	all	RB	pos2=DT	2	advmod	_	O
+2	about	about	IN	_	0	root	_	O
+3	antisemitism	antisemitism	NN	_	2	pobj	_	O
+4	not	not	RB	pos2=CC	5	neg	_	O
+5	Palestinians	palestinian	NNPS	_	3	appos	_	U-NORP
+6	.	.	.	_	2	punct	_	O
+

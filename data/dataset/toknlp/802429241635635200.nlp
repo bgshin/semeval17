@@ -1,0 +1,26 @@
+1	Yes	yes	UH	_	3	discourse	_	O
+2	he	he	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	12	auxpass	_	O
+4	excited	excited	JJ	_	3	acomp	_	O
+5	about	about	IN	_	4	prep	_	O
+6	doing	do	VBG	_	5	pcomp	_	O
+7	it	it	PRP	_	6	dobj	_	O
+8	even	even	RB	_	9	advmod	_	O
+9	tho	tho	IN	pos2=DT	6	prep	_	O
+10	social	social	JJ	_	11	nmod	_	O
+11	security	security	NN	_	12	nsubj	_	O
+12	helped	help	VBD	pos2=VBN	0	root	_	O
+13	him&his	him&his	PRP$	pos2=VB	14	poss	_	O
+14	family	family	NN	_	12	dobj	_	O
+15	when	when	WRB	_	18	advmod	_	O
+16	his	his	PRP$	_	17	poss	_	O
+17	father	father	NN	_	18	nsubj	_	O
+18	died	die	VBD	_	12	advcl	_	O
+19	!	!	.	_	12	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	deserves	deserve	VBZ	_	0	root	_	O
+3	to	to	TO	pos2=IN	4	aux	_	O
+4	…	…	NFP	pos2=VB	2	xcomp	_	O
+5	https://t.co/OekORtIUch	#hlink#	ADD	_	2	xcomp	_	O
+

@@ -1,0 +1,26 @@
+1	@GeauxDC	@geauxdc	ADD	pos2=XX	6	punct	_	O
+2	@jelani9	@jelani0	NN	pos2=LS	6	vocative	_	O
+3	@AJemaineClement	@ajemaineclement	ADD	pos2=NN	6	punct	_	O
+4	They	they	PRP	_	6	nsubj	_	O
+5	also	also	RB	_	6	advmod	_	O
+6	want	want	VBP	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	keep	keep	VB	_	6	xcomp	_	O
+9	federal	federal	JJ	_	11	nmod	_	O
+10	socialized	socialized	JJ	pos2=VBN	11	nmod	_	O
+11	medicine	medicine	NN	_	8	dobj	_	O
+12	out	out	IN	_	8	prep	_	O
+13	of	of	IN	_	12	prep	_	O
+14	their	their	PRP$	_	15	poss	_	O
+15	Medicare	medicare	NNP	pos2=NN	13	pobj	_	U-ORG
+16	.	.	.	_	6	punct	_	O
+
+1	Opposite	opposite	NN	pos2=JJ	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	a	a	DT	_	6	det	_	O
+4	"	"	``	_	6	punct	_	O
+5	think	think	NN	pos2=JJ	6	compound	_	O
+6	tank	tank	NN	_	2	pobj	_	O
+7	"	"	''	_	6	punct	_	O
+8	.	.	.	_	1	punct	_	O
+

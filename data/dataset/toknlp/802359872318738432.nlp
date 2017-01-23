@@ -1,0 +1,12 @@
+1	Noooooooooo	noooooooooo	NNP	pos2=UH	0	root	_	U-PERSON
+2	!	!	.	_	1	punct	_	O
+
+1	Run	run	VB	pos2=NN	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	your	your	PRP$	_	4	poss	_	O
+4	lives!🏃🏃🏃🏃🏃🏃🏃🏃🏃🏃🏃🏃#resist	lives!🏃🏃🏃🏃🏃🏃🏃🏃🏃🏃🏃🏃#resist	NN	pos2=NNP	2	pobj	_	O
+5	#protest	#protest	UH	pos2=IN	1	discourse	_	O
+6	#trump	#trump	UH	pos2=GW	1	discourse	_	O
+7	#AuditTheVote	#auditthevote	ADD	pos2=UH	8	punct	_	O
+8	https://t.co/9uNS2lPaPg	#hlink#	ADD	_	1	dep	_	O
+

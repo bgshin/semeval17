@@ -1,0 +1,22 @@
+1	A	a	DT	_	3	det	_	O
+2	big	big	JJ	_	3	nmod	_	O
+3	congrats	congrats	NNS	pos2=NN	9	dobj	_	O
+4	to	to	IN	pos2=TO	5	aux	_	O
+5	@colsonwhitehead	@colsonwhitehead	VB	pos2=PRP	9	advcl	_	O
+6	on	on	IN	_	5	prep	_	O
+7	his	his	PRP$	_	8	poss	_	O
+8	#NBAwards	#nbawards	NNS	pos2=JJ	6	pobj	_	O
+9	win	win	VB	pos2=VBP	0	root	_	O
+10	!	!	.	_	9	punct	_	O
+
+1	You	you	PRP	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	read	read	VB	_	0	root	_	O
+4	our	our	PRP$	_	5	poss	_	O
+5	conversation	conversation	NN	_	3	dobj	_	O
+6	with	with	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	author	author	NN	_	6	pobj	_	O
+9	here	here	RB	_	8	advmod	_	O
+10	https://t.co/wzqhi09aaR	#hlink#	ADD	_	8	appos	_	U-DATE
+

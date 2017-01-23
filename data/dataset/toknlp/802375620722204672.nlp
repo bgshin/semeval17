@@ -1,0 +1,18 @@
+1	@abc_sydmun	@abc_sydmun	NNP	pos2=DT	3	nmod	_	O
+2	Pointless	pointless	JJ	pos2=NNP	3	nmod	_	O
+3	committee	committee	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	No	no	DT	_	2	det	_	O
+2	one	#crd#	NN	pos2=PRP	3	nsubj	_	O
+3	needs	need	VBZ	_	0	root	_	O
+4	rights	right	NNS	_	3	dobj	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	Just	just	RB	pos2=NNP	5	advmod	_	O
+2	Kim	kim	NNP	_	5	compound	_	B-PERSON
+3	Jong	jong	NNP	_	5	compound	_	I-PERSON
+4	-	-	HYPH	_	5	punct	_	I-PERSON
+5	un	un	NNP	_	0	root	_	L-PERSON
+6	.	.	.	_	5	punct	_	O
+

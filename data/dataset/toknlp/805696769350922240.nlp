@@ -1,0 +1,14 @@
+1	Stop	stop	VB	_	0	root	_	O
+2	#fracking	#fracking	VBG	_	1	xcomp	_	O
+3	#Cuadrilla	#cuadrilla	POS	pos2=NNP	2	case	_	O
+4	persecuting	persecute	VBG	_	13	nmod	_	O
+5	land	land	NN	_	6	compound	_	O
+6	defenders	defender	NNS	_	4	dobj	_	O
+7	through	through	IN	_	4	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	legal	legal	JJ	_	10	nmod	_	O
+10	system	system	NN	_	7	pobj	_	O
+11	#BankruptCuadrilla	#bankruptcuadrilla	GW	pos2=WDT	13	nmod	_	O
+12	#ECOCIDE	#ecocide	GW	pos2=NN	13	nmod	_	O
+13	https://t.co/F46QDh7ggT	#hlink#	ADD	pos2=NN	1	dep	_	O
+

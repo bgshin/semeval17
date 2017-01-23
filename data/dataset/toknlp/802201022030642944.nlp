@@ -1,0 +1,12 @@
+1	Ricktatorship	ricktatorship	NNP	pos2=NN	4	dep	_	U-PERSON
+2	by	by	IN	pos2=GW	1	prep	_	O
+3	TheMeeDes	themeedes	NNP	pos2=ADD	2	pobj	_	B-DATE
+4	https://t.co/4Ic4rYobiP	#hlink#	ADD	pos2=NNP	0	root	_	I-DATE
+5	#art	#art	-RRB-	pos2=IN	4	punct	_	L-DATE
+6	#illustration	#illustration	NN	pos2=UH	5	pobj	_	O
+7	#popculture	#popculture	UH	pos2=FW	6	discourse	_	O
+8	#coolpopsart	#coolpopsart	UH	pos2=IN	6	discourse	_	O
+9	#popart	#popart	UH	pos2=VB	11	discourse	_	O
+10	#thewalkingdead	#thewalkingdead	UH	pos2=FW	11	discourse	_	O
+11	#rickgrimes	#rickgrimes	UH	pos2=NNS	6	pobj	_	O
+

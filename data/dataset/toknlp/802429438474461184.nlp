@@ -1,0 +1,17 @@
+1	Wry	wry	JJ	_	5	nmod	_	O
+2	and	and	CC	_	1	cc	_	O
+3	wide	wide	JJ	pos2=RB	1	conj	_	O
+4	ranging	range	VBG	pos2=JJ	5	nmod	_	O
+5	talk	talk	NN	pos2=VB	0	root	_	O
+6	on	on	IN	_	5	prep	_	O
+7	consumer	consumer	NN	_	8	compound	_	O
+8	#robots	#robots	NNS	pos2=FW	6	pobj	_	O
+9	by	by	IN	_	5	prep	_	O
+10	the	the	DT	_	13	det	_	O
+11	ever	ever	RB	_	12	advmod	_	O
+12	entertaining	entertaining	JJ	pos2=VBG	13	nmod	_	O
+13	@odannyboy	@odannyboy	NN	pos2=XX	9	pobj	_	O
+14	.	.	.	_	5	punct	_	O
+
+1	https://t.co/5RkaBfJxlD	#hlink#	ADD	_	0	root	_	U-ORG
+

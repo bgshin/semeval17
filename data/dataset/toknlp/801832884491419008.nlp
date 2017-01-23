@@ -1,0 +1,13 @@
+1	#Butterball	#butterball	NNP	pos2=IN	3	compound	_	B-ORG
+2	Turkey	turkey	NNP	_	3	compound	_	I-ORG
+3	Shareholder	shareholder	NNP	pos2=NN	4	nsubj	_	L-ORG
+4	Investigated	investigate	VBD	pos2=VBN	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	Ties	tie	NNS	pos2=NNP	5	pobj	_	O
+7	to	to	IN	pos2=TO	6	prep	_	O
+8	#Hezbollah	#hezbollah	NNP	pos2=-LRB-	7	pobj	_	U-GPE
+9	https://t.co/YcTeeMjuYY	#hlink#	ADD	_	12	nmod	_	O
+10	#terrorist	#terrorist	-RRB-	pos2=IN	9	punct	_	O
+11	#pig	#pig	UH	pos2=FW	4	discourse	_	O
+12	#revokecitizenship	#revokecitizenship	UH	pos2=NN	4	discourse	_	O
+

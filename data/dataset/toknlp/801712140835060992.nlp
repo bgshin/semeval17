@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det	_	O
+2	latest	late	JJS	_	3	nmod	_	O
+3	Journal	journal	NNP	pos2=NN	0	root	_	B-ORG
+4	of	of	IN	_	3	prep	_	I-ORG
+5	#SOCMINT	#socmint	NNP	pos2=NN	4	pobj	_	L-ORG
+6	!	!	.	_	3	punct	_	O
+
+1	https://t.co/tp5hcRbvus	#hlink#	ADD	pos2=NN	0	root	_	O
+2	Thanks	thanks	NNS	pos2=NN	1	npadvmod	_	O
+3	to	to	IN	_	2	prep	_	O
+4	@gdiazmat	@gdiazmat	VB	pos2=XX	3	pobj	_	O
+5	@spatcheso	@spatcheso	UH	pos2=FW	4	discourse	_	O
+6	#ecommerce	#ecommerce	UH	pos2=IN	4	discourse	_	O
+7	#hezbollah	#hezbollah	UH	pos2=.	1	discourse	_	O
+

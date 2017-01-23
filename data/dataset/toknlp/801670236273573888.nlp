@@ -1,0 +1,16 @@
+1	@marincogan	@marincogan	UH	pos2=VB	5	discourse	_	O
+2	another	another	DT	_	4	det	_	O
+3	biased	biased	JJ	_	4	nmod	_	O
+4	reporter	reporter	NN	_	5	nsubj	_	O
+5	#fakenews	#fakenews	VBZ	pos2=XX	0	root	_	O
+6	#pizzagate	#pizzagate	ADD	pos2=UH	5	dobj	_	O
+7	#pedofiles	#pedofiles	UH	pos2=VBZ	5	discourse	_	O
+8	not	not	RB	_	9	neg	_	O
+9	one	#crd#	CD	_	10	nmod	_	U-CARDINAL
+10	mention	mention	NN	_	5	dobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	violent	violent	JJ	_	14	nmod	_	O
+13	anti-Trump	anti-trump	JJ	_	14	nmod	_	U-NORP
+14	riots	riot	NNS	_	11	pobj	_	O
+15	.	.	.	_	5	punct	_	O
+

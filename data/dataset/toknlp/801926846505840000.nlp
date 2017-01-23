@@ -1,0 +1,15 @@
+1	The	the	DT	_	4	det	_	B-ORG
+2	United	united	NNP	_	3	compound	_	I-ORG
+3	Nations	nations	NNP	_	4	compound	_	I-ORG
+4	Headquarters	headquarter	NNPS	pos2=NNP	9	nsubj	_	L-ORG
+5	in	in	IN	_	4	prep	_	O
+6	New	new	NNP	_	7	compound	_	B-GPE
+7	York	york	NNP	_	8	compound	_	L-GPE
+8	#unitednations	#unitednations	NNS	pos2=NNPS	5	pobj	_	O
+9	#newyork	#newyork	VBP	pos2=UH	0	root	_	O
+10	#usa🇺🇸	#usa🇺🇸	VBG	pos2=NNP	14	nmod	_	O
+11	#USA	#usa	GW	pos2=NN	14	nmod	_	B-DATE
+12	#newyorkcity	#newyorkcity	GW	pos2=UH	14	nmod	_	I-DATE
+13	…	…	GW	pos2=NFP	14	nmod	_	L-DATE
+14	https://t.co/4Dik5NNj8z	#hlink#	ADD	pos2=NN	9	dobj	_	O
+

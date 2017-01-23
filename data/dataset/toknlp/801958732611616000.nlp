@@ -1,0 +1,12 @@
+1	The	the	DT	_	4	det	_	O
+2	first	#ord#	JJ	_	4	nmod	_	U-ORDINAL
+3	Green	green	NNP	_	4	compound	_	B-ORG
+4	Meanie	meanie	NNP	pos2=NN	8	dep	_	L-ORG
+5	:	:	:	_	8	punct	_	O
+6	CassidyThe	cassidythe	NNP	pos2=DT	8	nmod	_	U-ORG
+7	second	#ord#	JJ	pos2=RB	8	nmod	_	U-ORDINAL
+8	one	#crd#	NN	pos2=CD	0	root	_	O
+9	...?	..?	.	_	8	punct	_	O
+
+1	Hmmm🤔#ScreamQueens	hmmm🤔#screamqueens	NNS	pos2=ADD	0	root	_	U-DATE
+

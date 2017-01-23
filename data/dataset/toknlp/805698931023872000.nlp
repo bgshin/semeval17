@@ -1,0 +1,24 @@
+1	@PEEPSPOLITICAL	@peepspolitical	NN	pos2=NNP	4	npadvmod	_	O
+2	2016	0	CD	pos2=LS	1	nmod	_	U-DATE
+3	WE	we	PRP	_	4	nsubj	_	O
+4	LEGALIZE	legalize	VBP	pos2=VB	0	root	_	O
+5	MEDICAL	medical	JJ	pos2=NNP	7	nmod	_	O
+6	NATURAL	natural	JJ	_	7	nmod	_	O
+7	PLANT	plant	NN	_	4	dobj	_	O
+8	THAT	that	WDT	pos2=DT	9	nsubj	_	O
+9	REVERSE	reverse	VBP	pos2=JJ	7	relcl	_	O
+10	CANCER	cancer	NN	_	9	dobj	_	O
+11	IN	in	IN	_	9	prep	_	O
+12	RODENTS	rodent	NNS	_	11	pobj	_	O
+13	&	&	CC	_	12	cc	_	O
+14	CURE	cure	NN	pos2=VB	16	nmod	_	O
+15	4	0	CD	_	16	nmod	_	U-CARDINAL
+16	PAIN	pain	NN	_	12	conj	_	O
+17	=	=	SYM	_	19	punct	_	O
+18	>	>	SYM	pos2=CC	19	punct	_	O
+19	MARIJUANA	marijuana	NN	pos2=NNP	16	prep	_	O
+20	DUH	duh	UH	pos2=NN	4	discourse	_	O
+21	?	?	.	_	4	punct	_	O
+
+1	https://t.co/Ypx5cun19y	#hlink#	ADD	_	0	root	_	U-ORG
+

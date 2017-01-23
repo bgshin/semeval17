@@ -1,0 +1,17 @@
+1	Tiny	tiny	JJ	_	2	nmod	_	O
+2	Ripples	ripple	NNS	pos2=NNPS	7	dep	_	O
+3	of	of	IN	_	2	prep	_	O
+4	Hope	hope	NN	pos2=VBP	3	pobj	_	O
+5	:	:	:	_	7	punct	_	O
+6	Happy	happy	JJ	pos2=NNP	7	nmod	_	O
+7	Thanksgiving	thanksgiving	NNP	pos2=NN	10	ccomp	_	U-DATE
+8	;	;	,	pos2=:	10	punct	_	O
+9	Now	now	RB	pos2=NNP	10	advmod	_	O
+10	Get	get	VB	_	0	root	_	O
+11	Back	back	RB	pos2=NNP	10	advmod	_	O
+12	to	to	IN	_	11	prep	_	O
+13	Being	be	VBG	pos2=NNP	12	pcomp	_	O
+14	Poor#p2	poor#p0	GW	pos2=VBN	16	nmod	_	O
+15	#UniteBlue	#uniteblue	GW	pos2=ADD	16	nmod	_	O
+16	https://t.co/tdF3biJ7pP	#hlink#	ADD	pos2=NN	10	dobj	_	O
+

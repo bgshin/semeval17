@@ -1,0 +1,22 @@
+1	Hearing	hear	VBG	pos2=NN	3	nmod	_	O
+2	Medicare	medicare	NNP	pos2=NN	3	compound	_	U-ORG
+3	claims	claim	NNS	_	4	nsubj	_	O
+4	ran	run	VBD	pos2=VBN	18	ccomp	_	O
+5	across	across	IN	pos2=RB	4	prep	_	O
+6	many	many	JJ	_	7	nmod	_	O
+7	elderly	elderly	JJ	pos2=RB	5	pobj	_	O
+8	who	who	WP	_	9	nsubj	_	O
+9	were	be	VBD	_	7	relcl	_	O
+10	unable	unable	JJ	_	9	acomp	_	O
+11	to	to	TO	_	12	aux	_	O
+12	cope	cope	VB	_	10	xcomp	_	O
+13	with	with	IN	_	12	prep	_	O
+14	just	just	RB	_	16	advmod	_	O
+15	Medigap	medigap	NNP	pos2=NN	16	compound	_	U-ORG
+16	policies	policy	NNS	_	13	pobj	_	O
+17	,	,	,	_	18	punct	_	O
+18	imagine	imagine	VB	pos2=VBP	0	root	_	O
+19	complex	complex	JJ	pos2=NN	21	nmod	_	O
+20	…	…	NFP	pos2=:	21	punct	_	O
+21	https://t.co/n3AZfBKh94	#hlink#	ADD	pos2=NN	18	dobj	_	U-GPE
+

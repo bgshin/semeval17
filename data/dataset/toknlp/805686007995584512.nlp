@@ -1,0 +1,25 @@
+1	@Shell	@shell	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	starts	start	VBZ	_	0	root	_	O
+3	undermining	undermine	VBG	_	2	xcomp	_	O
+4	Vic	vic	NNP	_	5	compound	_	U-PERSON
+5	govt	govt	NN	_	3	dobj	_	O
+6	over	over	IN	_	5	prep	_	O
+7	fracking	fracking	NN	pos2=VBG	8	compound	_	O
+8	ban	ban	NN	pos2=VBN	6	pobj	_	O
+9	by	by	IN	_	3	prep	_	O
+10	threatening	threaten	VBG	_	9	pcomp	_	O
+11	higher	high	JJR	_	13	nmod	_	O
+12	gas	gas	NN	_	13	compound	_	O
+13	prices	price	NNS	_	10	dobj	_	O
+14	.	.	.	_	2	punct	_	O
+
+1	F*ck	f*ck	VB	pos2=NNP	0	root	_	O
+2	off	off	RP	pos2=RB	1	prt	_	O
+3	,	,	,	_	1	punct	_	O
+4	you	you	PRP	pos2=PRP$	6	nmod	_	O
+5	multinational	multinational	JJ	_	6	nmod	_	O
+6	parasites	parasite	NNS	_	1	vocative	_	O
+7	!	!	.	_	1	punct	_	O
+
+1	@abcnewsMelb	@abcnewsmelb	NNP	pos2=XX	0	root	_	U-ORG
+

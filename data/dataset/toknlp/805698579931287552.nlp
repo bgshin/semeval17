@@ -1,0 +1,8 @@
+1	New	new	NNP	pos2=JJ	4	compound	_	O
+2	National	national	NNP	_	4	compound	_	O
+3	Minimum	minimum	NNP	_	4	compound	_	O
+4	Wage	wage	NNP	pos2=NN	5	compound	_	O
+5	Increases	increase	NNS	pos2=NNP	0	root	_	O
+6	-	-	:	pos2=NFP	5	punct	_	O
+7	https://t.co/m5MDR44v53	#hlink#	ADD	pos2=NN	5	npadvmod	_	O
+

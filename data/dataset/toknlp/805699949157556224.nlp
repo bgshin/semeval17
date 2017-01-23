@@ -1,0 +1,15 @@
+1	American	american	JJ	pos2=NNP	3	nmod	_	U-NORP
+2	Radical	radical	NNP	pos2=JJ	3	compound	_	O
+3	Christianity	christianity	NNP	_	4	nsubj	_	U-NORP
+4	seems	seem	VBZ	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	love	love	VB	_	4	xcomp	_	O
+7	hate	hate	NN	_	9	npadvmod	_	O
+8	-	-	HYPH	pos2=:	9	punct	_	O
+9	spewing	spew	VBG	_	14	nmod	_	O
+10	Marine	marine	NNP	pos2=JJ	13	compound	_	B-ORG
+11	Le	le	NNP	_	13	compound	_	I-ORG
+12	Pen	pen	NNP	_	13	compound	_	L-ORG
+13	😂🙄	😂🙄	NNP	pos2=POS	14	dep	_	O
+14	https://t.co/funoBeaFuW	#hlink#	ADD	_	6	dobj	_	O
+

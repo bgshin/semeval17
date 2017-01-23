@@ -1,0 +1,24 @@
+1	#Microsoft	#microsoft	NNP	pos2=WP	2	nsubj	_	U-ORG
+2	joins	join	VBZ	_	0	root	_	O
+3	#Linux	#linux	NNP	pos2=$	4	compound	_	B-PERSON
+4	foundation.#Google	foundation.#google	NNP	_	2	dobj	_	L-PERSON
+5	joins	join	VBZ	_	2	conj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	NET	net	JJ	pos2=NN	2	nmod	_	O
+2	foundation	foundation	NN	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	see	see	VBP	_	0	root	_	O
+3	that	that	IN	_	5	mark	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	is	be	VBZ	_	2	ccomp	_	O
+6	#Christmas	#christmas	NNP	pos2=NNPS	5	attr	_	U-ORG
+7	in	in	IN	_	5	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	air	air	NN	_	7	pobj	_	O
+10	...	..	.	_	2	punct	_	O
+
+1	🎄🎉🎁	🎄🎉🎁	SYM	pos2=NFP	0	root	_	U-ORG
+

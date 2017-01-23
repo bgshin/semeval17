@@ -1,0 +1,15 @@
+1	#ISIS	#isis	NN	pos2=POS	2	nsubj	_	O
+2	claims	claim	VBZ	pos2=NNS	0	root	_	O
+3	Iraq	iraq	NNP	_	6	compound	_	U-GPE
+4	car	car	NN	_	6	compound	_	O
+5	-	-	HYPH	pos2=:	6	punct	_	O
+6	bombing	bombing	NN	_	2	dobj	_	O
+7	,	,	,	_	11	punct	_	O
+8	at	at	RB	pos2=IN	9	advmod	_	B-CARDINAL
+9	least	least	JJS	pos2=RBS	10	advmod	_	I-CARDINAL
+10	73	0	CD	_	11	nsubj	_	L-CARDINAL
+11	killed	kill	VBN	pos2=VBD	2	ccomp	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	https://t.co/p7aKHotf9a	#hlink#	ADD	_	0	root	_	U-ORG
+

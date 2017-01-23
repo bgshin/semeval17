@@ -1,0 +1,11 @@
+1	@pgrandee10	@pgrandee0	NN	pos2=UH	5	nsubj	_	O
+2	@mmpadellan	@mmpadellan	IN	pos2=MD	1	prep	_	O
+3	FBI	fbi	NNP	_	4	compound	_	U-ORG
+4	Comey	comey	NNP	_	2	pobj	_	U-PERSON
+5	is	be	VBZ	_	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	traitor	traitor	NN	_	5	attr	_	O
+8	working	work	VBG	_	7	acl	_	O
+9	for	for	IN	_	8	prep	_	O
+10	Russia	russia	NNP	_	9	pobj	_	U-GPE
+

@@ -1,0 +1,7 @@
+1	Retweet	retweet	NN	pos2=NNP	0	root	_	O
+2	and	and	CC	_	1	cc	_	O
+3	tweet	tweet	VB	pos2=NN	1	conj	_	O
+4	this	this	DT	_	6	det	_	O
+5	👇👇👇#MPN	👇👇👇#mpn	NN	pos2=ADD	6	compound	_	O
+6	#OneDirection	#onedirection	NN	pos2=ADD	3	dobj	_	O
+

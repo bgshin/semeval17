@@ -1,0 +1,29 @@
+1	So	so	RB	_	5	advmod	_	O
+2	last	last	JJ	_	3	nmod	_	B-TIME
+3	night	night	NN	_	5	npadvmod	_	L-TIME
+4	I	I	PRP	_	5	nsubj	_	O
+5	went	go	VBD	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	see	see	VB	_	5	advcl	_	O
+8	#FantasticBeasts	#fantasticbeasts	NNS	_	7	dobj	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	From	from	IN	_	5	prep	_	O
+2	the	the	DT	_	3	det	_	O
+3	moment	moment	NN	_	1	pobj	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	started	start	VBD	_	0	root	_	O
+6	I	I	PRP	_	7	nsubj	_	O
+7	smiled	smile	VBD	_	5	ccomp	_	O
+8	like	like	IN	_	7	prep	_	O
+9	a	a	DT	_	10	det	_	O
+10	child	child	NN	_	8	pobj	_	O
+11	remembering	remember	VBG	_	10	acl	_	O
+12	the	the	DT	_	14	det	_	O
+13	first	#ord#	JJ	_	14	nmod	_	U-ORDINAL
+14	time	time	NN	_	11	dobj	_	O
+15	I	I	PRP	_	16	nsubj	_	O
+16	saw	see	VBD	_	14	relcl	_	O
+17	HP	hp	NNP	pos2=NN	16	dobj	_	O
+18	-	-	HYPH	pos2=.	7	punct	_	O
+

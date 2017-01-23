@@ -1,0 +1,25 @@
+1	@Pontifex	@pontifex	NNP	pos2=NN	2	compound	_	U-ORG
+2	equipment	equipment	NN	_	5	dep	_	O
+3	as	as	IN	_	5	mark	_	O
+4	I	I	PRP	pos2=``	5	nsubj	_	O
+5	specified	specify	VBD	pos2=VBP	0	root	_	O
+6	to	to	IN	_	5	prep	_	O
+7	you	you	PRP	_	6	pobj	_	O
+8	Pope	pope	NNP	_	9	compound	_	O
+9	Francis	francis	NNP	_	4	appos	_	U-PERSON
+10	.	.	.	_	5	punct	_	O
+
+1	These	these	DT	_	2	det	_	O
+2	masses	mass	NNS	_	13	nsubj	_	O
+3	that	that	WDT	_	4	nsubj	_	O
+4	follow	follow	VBP	_	2	relcl	_	O
+5	their	their	PRP$	_	7	poss	_	O
+6	respective	respective	JJ	_	7	nmod	_	O
+7	angels	angel	NNS	_	4	dobj	_	O
+8	and	and	CC	_	7	cc	_	O
+9	their	their	PRP$	_	11	poss	_	O
+10	respective	respective	JJ	_	11	nmod	_	O
+11	demons	demon	NNS	_	7	conj	_	O
+12	can	can	MD	_	13	aux	_	O
+13	be	be	VB	_	0	root	_	O
+

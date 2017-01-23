@@ -1,0 +1,14 @@
+1	Dr.	dr.	NNP	_	3	compound	_	O
+2	Ben	ben	NNP	_	3	compound	_	B-PERSON
+3	Carson	carson	NNP	_	4	nsubj	_	L-PERSON
+4	is	be	VBZ	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	homeowner	homeowner	NN	_	4	attr	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	Very	very	RB	_	2	advmod	_	O
+2	qualified	qualified	JJ	_	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	https://t.co/jftNWOsLta	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,16 @@
+1	@tai_walker	@tai_walker	PRP	pos2=NN	4	nsubj	_	O
+2	do	do	VBP	pos2=VB	4	aux	_	O
+3	nt	nt	RB	_	4	advmod	_	O
+4	win	win	VB	_	11	ccomp	_	O
+5	a	a	DT	_	6	det	_	O
+6	cy	cy	NN	pos2=JJ	4	dobj	_	O
+7	young	young	JJ	pos2=RB	6	nmod	_	O
+8	too	too	RB	_	9	advmod	_	O
+9	soon	soon	RB	pos2=JJ	11	advmod	_	O
+10	man	man	NN	pos2=UH	11	nsubj	_	O
+11	give	give	VB	_	0	root	_	O
+12	us	us	PRP	_	11	dative	_	O
+13	time	time	NN	_	11	dobj	_	O
+14	to	to	TO	_	15	aux	_	O
+15	heal	heal	VB	_	13	relcl	_	O
+

@@ -1,0 +1,28 @@
+1	SICK	sick	JJ	_	5	nmod	_	O
+2	PAPAL	papal	JJ	pos2=NNP	5	nmod	_	O
+3	BEAST	beast	NNP	pos2=NN	5	compound	_	O
+4	Pope	pope	NNP	_	5	compound	_	O
+5	Francis	francis	NNP	_	6	nsubj	_	O
+6	takes	take	VBZ	_	0	root	_	O
+7	this	this	DT	_	9	det	_	O
+8	SICK	sick	JJ	_	9	nmod	_	O
+9	oath	oath	NN	_	6	dobj	_	O
+10	.	.	.	_	6	punct	_	O
+
+1	HOW	how	WRB	_	2	advmod	_	O
+2	SICK	sick	JJ	pos2=NN	7	acomp	_	O
+3	DOES	do	VBZ	_	5	aux	_	O
+4	ONE	#crd#	PRP	pos2=CD	5	nsubj	_	U-CARDINAL
+5	HAVE	have	VB	pos2=VBP	0	root	_	O
+6	TO	to	TO	_	7	aux	_	O
+7	BE	be	VB	_	5	xcomp	_	O
+8	TO	to	TO	_	9	aux	_	O
+9	BE	be	VB	_	7	xcomp	_	O
+10	THE	the	DT	_	11	det	_	O
+11	MAN	man	NN	pos2=NNP	9	attr	_	O
+12	OF	of	IN	_	11	prep	_	O
+13	SIN	sin	NN	pos2=NNP	12	pobj	_	O
+14	"	"	''	pos2=``	9	punct	_	O
+15	…	…	NFP	pos2=-LRB-	16	punct	_	O
+16	https://t.co/MtLaNu6AXR	#hlink#	ADD	_	11	appos	_	O
+

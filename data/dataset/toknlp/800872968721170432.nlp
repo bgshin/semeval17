@@ -1,0 +1,27 @@
+1	@MarkAmesExiled	@markamesexiled	ADD	pos2=VBD	17	punct	_	O
+2	@VladDavidzon	@vladdavidzon	NNP	pos2=XX	17	nsubj	_	O
+3	The	the	DT	_	8	det	_	O
+4	most	most	RBS	pos2=JJS	5	advmod	_	O
+5	hardcore	hardcore	JJ	pos2=VBP	8	nmod	_	O
+6	Alt	alt	NNP	pos2=JJ	8	compound	_	O
+7	-	-	HYPH	pos2=:	8	punct	_	O
+8	Rightists	rightist	NNPS	pos2=NNS	2	dobj	_	O
+9	in	in	IN	_	2	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	US	us	NNP	_	9	pobj	_	U-GPE
+12	(	(	-LRB-	_	8	punct	_	O
+13	a	a	DT	_	15	qmod	_	B-CARDINAL
+14	few	few	JJ	_	15	qmod	_	I-CARDINAL
+15	thousand	#crd#	CD	pos2=NN	11	appos	_	L-CARDINAL
+16	)	)	-RRB-	_	18	punct	_	O
+17	are	be	VBP	_	0	root	_	O
+18	SJWs	sjws	NNS	_	17	attr	_	O
+19	compared	compare	VBN	_	17	prep	_	O
+20	to	to	IN	_	19	prep	_	O
+21	what	what	WP	_	23	dobj	_	O
+22	UKR	ukr	NNP	pos2=NN	23	nsubj	_	U-ORG
+23	boasts	boast	VBZ	_	20	pcomp	_	O
+24	in	in	IN	_	23	prep	_	O
+25	abundance	abundance	NN	_	24	pobj	_	O
+26	.	.	.	_	17	punct	_	O
+

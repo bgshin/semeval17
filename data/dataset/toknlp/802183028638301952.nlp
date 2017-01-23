@@ -1,0 +1,13 @@
+1	@PoliticsNewz	@politicsnewz	XX	pos2=VB	2	dep	_	O
+2	what	what	WP	_	3	dep	_	O
+3	about	about	IN	_	0	root	_	O
+4	those	those	DT	_	5	det	_	O
+5	WMDs	wmd	NNS	_	3	pobj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	#Iraq	#iraq	VBG	pos2=NNP	6	pcomp	_	O
+8	why	why	WRB	_	12	advmod	_	O
+9	bomb	bomb	NN	pos2=VB	10	compound	_	O
+10	#Libya	#libya	NNP	pos2=NN	5	appos	_	U-GPE
+11	and	and	CC	_	10	cc	_	O
+12	#Syria	#syria	NNP	pos2=NN	10	conj	_	U-GPE
+

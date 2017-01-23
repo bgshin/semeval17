@@ -1,0 +1,26 @@
+1	we	we	PRP	_	2	nsubj	_	O
+2	're	be	VBP	_	0	root	_	O
+3	not	not	RB	_	2	neg	_	O
+4	real	real	JJ	_	5	nmod	_	O
+5	friends	friend	NNS	_	2	attr	_	O
+6	if	if	IN	_	10	mark	_	O
+7	you	you	PRP	_	10	nsubj	_	O
+8	do	do	VBP	_	10	aux	_	O
+9	n't	not	RB	_	10	neg	_	O
+10	know	know	VB	_	5	parataxis	_	O
+11	about	about	IN	_	10	prep	_	O
+12	my	my	PRP$	_	14	poss	_	O
+13	unhealthy	unhealthy	JJ	_	14	nmod	_	O
+14	obsession	obsession	NN	_	11	pobj	_	O
+15	with	with	IN	_	14	prep	_	O
+16	Zac	zac	NNP	_	17	compound	_	B-PERSON
+17	Efron	efron	NNP	_	15	pobj	_	L-PERSON
+18	back	back	RB	_	10	advmod	_	O
+19	in	in	IN	_	18	prep	_	O
+20	'06	'0	CD	_	19	pobj	_	U-DATE
+21	/	/	SYM	_	22	punct	_	O
+22	'07	'0	CD	pos2=NN	20	appos	_	U-DATE
+23	.	.	.	_	2	punct	_	O
+
+1	lmao	lmao	UH	pos2=NN	0	root	_	O
+

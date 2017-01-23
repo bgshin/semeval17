@@ -1,0 +1,11 @@
+1	@beamiller	@beamiller	UH	pos2=``	4	discourse	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	'm	be	VBP	_	4	aux	_	O
+4	guessing	guess	VBG	_	0	root	_	O
+5	that	that	DT	_	6	nsubj	_	O
+6	means	mean	VBZ	_	4	ccomp	_	O
+7	valentines	valentine	NNS	pos2=FW	6	dobj	_	O
+8	??	??	.	_	4	punct	_	O
+
+1	🤔😏❤️	🤔😏❤️	SYM	pos2=NFP	0	root	_	U-ORG
+

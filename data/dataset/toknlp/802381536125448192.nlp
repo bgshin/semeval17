@@ -1,0 +1,23 @@
+1	@tripgabriel	@tripgabriel	UH	pos2=NNP	4	discourse	_	O
+2	How	how	WRB	_	3	advmod	_	O
+3	stupid	stupid	JJ	_	4	acomp	_	O
+4	was	be	VBD	_	0	root	_	O
+5	that	that	DT	_	6	det	_	O
+6	woman	woman	NN	_	4	nsubj	_	O
+7	not	not	RB	_	9	neg	_	O
+8	to	to	TO	_	9	aux	_	O
+9	realize	realize	VB	_	4	xcomp	_	O
+10	that	that	IN	pos2=DT	14	mark	_	O
+11	Trump	trump	NNP	_	14	nsubj	_	U-ORG
+12	has	have	VBZ	_	14	aux	_	O
+13	always	always	RB	_	14	advmod	_	O
+14	hated	hate	VBN	_	9	ccomp	_	O
+15	Obamacare	obamacare	NNP	_	14	dobj	_	U-ORG
+16	and	and	CC	_	14	cc	_	O
+17	will	will	MD	_	20	aux	_	O
+18	he	he	PRP	_	20	nsubj	_	O
+19	definitely	definitely	RB	_	20	advmod	_	O
+20	decimate	decimate	VB	pos2=VBP	14	conj	_	O
+21	it	it	PRP	_	20	dobj	_	O
+22	.	.	.	_	4	punct	_	O
+

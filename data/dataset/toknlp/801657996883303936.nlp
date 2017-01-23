@@ -1,0 +1,11 @@
+1	@utahjazz	@utahjazz	UH	pos2=XX	6	discourse	_	O
+2	@NBA	@nba	NN	pos2=NNP	0	root	_	O
+3	or	or	CC	_	2	cc	_	O
+4	are	be	VBP	_	6	aux	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	pulling	pull	VBG	_	2	conj	_	O
+7	out	out	RP	pos2=RB	6	prt	_	O
+8	?	?	.	_	6	punct	_	O
+
+1	@PimpBillClinton	@pimpbillclinton	NNP	pos2=ADD	0	root	_	O
+

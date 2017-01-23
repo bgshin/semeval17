@@ -1,0 +1,19 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	're	be	VBP	_	0	root	_	O
+3	back	back	RB	_	2	advmod	_	O
+4	at	at	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	@ChryslerTheatre	@chryslertheatre	NNP	pos2=NN	4	pobj	_	U-FAC
+7	tonight	tonight	NN	_	2	npadvmod	_	U-TIME
+8	for	for	IN	_	2	prep	_	O
+9	another	another	DT	_	12	det	_	O
+10	SOLD	sell	VBN	pos2=VBD	12	nmod	_	O
+11	OUT	out	RP	pos2=DT	10	prt	_	O
+12	weekend	weekend	NN	_	8	pobj	_	U-TIME
+13	of	of	IN	_	12	prep	_	O
+14	#BeautyAndTheBeast	#beautyandthebeast	NNP	pos2=NN	13	pobj	_	U-GPE
+15	!	!	.	_	2	punct	_	O
+
+1	#YQG	#yqg	NFP	pos2=ADD	2	punct	_	O
+2	https://t.co/R3ETua9eCf	#hlink#	ADD	pos2=NN	0	root	_	O
+

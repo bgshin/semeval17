@@ -1,0 +1,21 @@
+1	DIY	diy	NN	_	2	compound	_	O
+2	Fan	fan	NN	pos2=NNP	6	dep	_	O
+3	-	-	:	pos2=HYPH	6	punct	_	O
+4	Handy	handy	JJ	pos2=NNP	6	nmod	_	O
+5	Tool	tool	NN	pos2=NNP	6	compound	_	O
+6	Pen	pen	NN	pos2=NNP	0	root	_	O
+7	with	with	IN	_	6	prep	_	O
+8	8	0	CD	_	10	nmod	_	U-CARDINAL
+9	Different	different	JJ	_	10	nmod	_	O
+10	Heads	head	NNS	pos2=NNPS	7	pobj	_	O
+11	-	-	:	_	6	punct	_	O
+12	Number	number	NN	_	10	appos	_	O
+13	1	0	CD	_	12	nmod	_	U-CARDINAL
+14	Selling	sell	VBG	pos2=NNP	12	acl	_	O
+15	Mens	mens	NNP	pos2=NNS	17	compound	_	B-ORG
+16	Men	men	NNP	pos2=NNPS	20	dep	_	I-ORG
+17	Man	man	NNP	_	20	nmod	_	I-ORG
+18	Gents	gents	GW	pos2=NNS	20	nmod	_	L-ORG
+19	https://t.co/IduG3vDQzO	#hlink#	ADD	_	20	nmod	_	O
+20	https://t.co/4ab7ShwWrm	#hlink#	ADD	_	14	dobj	_	U-ORG
+

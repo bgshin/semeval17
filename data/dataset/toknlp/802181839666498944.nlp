@@ -1,0 +1,23 @@
+1	What	what	WP	_	2	nsubj	_	O
+2	infuriates	infuriate	VBZ	_	17	csubj	_	O
+3	me	me	PRP	_	2	dobj	_	O
+4	why	why	WRB	pos2=RB	11	advmod	_	O
+5	AFTER	after	IN	_	11	prep	_	O
+6	THE	the	DT	_	7	det	_	O
+7	ELECTION	election	NN	_	5	pobj	_	O
+8	all	all	DT	_	9	det	_	O
+9	dirt	dirt	NN	_	11	nsubj	_	O
+10	is	be	VBZ	_	11	aux	_	O
+11	coming	come	VBG	_	2	advcl	_	O
+12	out	out	RP	pos2=RB	11	prt	_	O
+13	about	about	IN	_	11	prep	_	O
+14	Trump	trump	NNP	pos2=NN	13	pobj	_	U-PERSON
+15	during	during	IN	_	11	prep	_	O
+16	campaign	campaign	NN	_	15	pobj	_	O
+17	ignored	ignore	VBN	_	0	root	_	O
+18	?	?	.	_	17	punct	_	O
+
+1	😒😒	😒😒	NFP	pos2=SYM	3	punct	_	O
+2	#stillwithher	#stillwithher	UH	pos2=IN	3	discourse	_	O
+3	#notmypresident	#notmypresident	UH	pos2=NN	0	root	_	O
+

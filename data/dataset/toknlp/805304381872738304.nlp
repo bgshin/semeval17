@@ -1,0 +1,19 @@
+1	You	you	PRP	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	make	make	VB	_	0	root	_	O
+4	jokes	joke	NNS	_	3	dobj	_	O
+5	about	about	IN	_	4	prep	_	O
+6	killing	kill	VBG	_	5	pcomp	_	O
+7	kids	kid	NNS	_	6	dobj	_	O
+8	in	in	IN	_	6	prep	_	O
+9	drone	drone	NN	_	10	compound	_	O
+10	strikes	strike	NNS	_	8	pobj	_	O
+11	but	but	CC	_	3	cc	_	O
+12	non	non	AFX	_	13	neg	_	O
+13	consensual	consensual	JJ	_	15	nmod	_	O
+14	sex	sex	NN	_	15	compound	_	O
+15	jokes	joke	NNS	_	16	nsubj	_	O
+16	are	be	VBP	_	3	conj	_	O
+17	off	off	IN	pos2=JJ	16	prep	_	O
+18	limits	limit	NNS	_	17	pobj	_	O
+

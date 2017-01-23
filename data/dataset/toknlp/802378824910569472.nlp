@@ -1,0 +1,12 @@
+1	Trump	trump	NN	pos2=NNP	9	dep	_	O
+2	On	on	IN	pos2=NNP	1	prep	_	O
+3	Dealing	deal	VBG	pos2=NNP	2	pcomp	_	O
+4	With	with	IN	_	3	prep	_	O
+5	Future	future	NNP	_	8	compound	_	O
+6	George	george	NNP	_	8	compound	_	B-PERSON
+7	Soros	soros	NNP	_	8	compound	_	L-PERSON
+8	Protesters	protester	NNPS	pos2=NNS	4	pobj	_	O
+9	https://t.co/kqUpV3kAgg	#hlink#	ADD	pos2=VBP	0	root	_	O
+10	via	via	IN	_	9	prep	_	O
+11	@YouTube	@youtube	NNP	pos2=NN	10	pobj	_	O
+

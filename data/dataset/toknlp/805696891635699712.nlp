@@ -1,0 +1,16 @@
+1	@Victoria	@victoria	NNP	pos2=NFP	2	compound	_	B-PERSON
+2	Andrews	andrews	NNP	pos2=VBZ	0	root	_	L-PERSON
+3	your	your	PRP$	_	4	poss	_	O
+4	chance	chance	NN	_	2	appos	_	O
+5	to	to	TO	pos2=IN	6	aux	_	O
+6	set	set	VB	_	4	acl	_	O
+7	example	example	NN	_	6	dobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	De	de	NNP	pos2=NN	2	nsubj	_	O
+2	criminalise	criminalise	VB	pos2=VBP	0	root	_	O
+3	euthanasia	euthanasia	NN	_	2	dobj	_	O
+4	first	#ord#	RB	pos2=JJ	2	advmod	_	U-ORDINAL
+5	in	in	IN	_	2	prep	_	O
+6	Australia	australia	NNP	_	5	pobj	_	U-GPE
+

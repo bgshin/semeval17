@@ -1,0 +1,22 @@
+1	Seen	see	VBN	pos2=VB	0	root	_	O
+2	all	all	PDT	_	4	predet	_	O
+3	the	the	DT	_	4	det	_	O
+4	TV	tv	NN	_	5	compound	_	O
+5	BUZZ	buzz	NNP	pos2=NN	7	nsubj	_	U-ORG
+6	has	have	VBZ	_	7	aux	_	O
+7	reviewed	review	VBN	_	1	ccomp	_	O
+8	this	this	DT	_	9	det	_	B-DATE
+9	week	week	NN	_	7	npadvmod	_	L-DATE
+10	?	?	.	_	1	punct	_	O
+
+1	#arrow	#arrow	UH	pos2=XX	10	discourse	_	O
+2	#lucifer	#lucifer	UH	pos2=JJR	10	discourse	_	O
+3	#theflash	#theflash	UH	pos2=VB	10	discourse	_	O
+4	#Westworld	#westworld	NNP	pos2=UH	6	compound	_	O
+5	#TheWalkingDead	#thewalkingdead	ADD	pos2=XX	6	compound	_	O
+6	#supergirl	#supergirl	NNP	pos2=UH	10	dep	_	O
+7	&	&	CC	_	6	cc	_	O
+8	more	more	JJR	pos2=RBR	10	nmod	_	O
+9	…	…	NFP	pos2=IN	10	punct	_	O
+10	https://t.co/Lmy5GeRiQT	#hlink#	ADD	pos2=NN	0	root	_	O
+

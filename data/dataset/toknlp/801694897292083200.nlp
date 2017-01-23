@@ -1,0 +1,26 @@
+1	Putin	putin	NNP	_	5	compound	_	U-PERSON
+2	-	-	HYPH	pos2=:	5	punct	_	O
+3	Troll	troll	NNP	pos2=NN	5	compound	_	O
+4	Marcel	marcel	NNP	_	5	compound	_	B-PERSON
+5	Sardo	sardo	NNP	_	20	vocative	_	L-PERSON
+6	,	,	,	_	5	punct	_	O
+7	one	#crd#	CD	_	5	appos	_	U-CARDINAL
+8	of	of	IN	_	7	prep	_	O
+9	the	the	DT	_	14	det	_	O
+10	top	top	JJ	pos2=RB	12	nmod	_	O
+11	-	-	HYPH	_	12	punct	_	O
+12	top	top	NN	pos2=JJ	14	compound	_	O
+13	Kremlin	kremlin	NNP	_	14	compound	_	B-ORG
+14	#trolls	#trolls	NNPS	pos2=NNS	8	pobj	_	L-ORG
+15	,	,	,	_	5	punct	_	O
+16	operating	operate	VBG	_	5	acl	_	O
+17	from	from	IN	_	16	prep	_	O
+18	#switzerland	#switzerland	NNP	pos2=UH	17	pobj	_	U-ORG
+19	,	,	,	_	20	punct	_	O
+20	look	look	VB	pos2=VBD	0	root	_	O
+21	his	his	PRP$	_	23	poss	_	O
+22	customer	customer	NN	_	23	compound	_	O
+23	list	list	NN	pos2=VB	20	dobj	_	O
+24	…	…	NFP	pos2=RB	25	punct	_	O
+25	https://t.co/FFSRotPPyn	#hlink#	ADD	pos2=NN	20	dep	_	O
+

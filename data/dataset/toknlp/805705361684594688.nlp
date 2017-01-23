@@ -1,0 +1,16 @@
+1	What	what	WP	pos2=WDT	7	dobj	_	O
+2	the	the	DT	_	5	det	_	O
+3	right	right	JJ	_	4	nmod	_	O
+4	wing	wing	NN	pos2=JJ	5	compound	_	O
+5	press	press	NN	_	7	nsubj	_	O
+6	have	have	VBP	pos2=VB	7	aux	_	O
+7	dug	dig	VBN	_	0	root	_	O
+8	up	up	RP	_	7	prt	_	O
+9	about	about	IN	_	7	prep	_	O
+10	the	the	DT	_	14	det	_	B-ORG
+11	Brexit	brexit	NNP	_	13	compound	_	I-ORG
+12	Supreme	supreme	NNP	_	13	compound	_	I-ORG
+13	Court	court	NNP	_	14	compound	_	L-ORG
+14	judges	judge	NNS	pos2=VBZ	9	pobj	_	O
+15	https://t.co/yRAQLfnaAF	#hlink#	ADD	_	14	appos	_	O
+

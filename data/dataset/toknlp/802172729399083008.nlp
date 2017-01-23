@@ -1,0 +1,28 @@
+1	Just	just	RB	_	2	advmod	_	O
+2	booked	book	VBD	pos2=VBN	0	root	_	O
+3	tickets	ticket	NNS	_	2	dobj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	see	see	VB	_	2	advcl	_	O
+6	@BrooklynNets	@brooklynnets	NNS	pos2=XX	5	dobj	_	O
+7	v	v	LS	pos2=VB	8	meta	_	O
+8	@utahjazz	@utahjazz	NN	pos2=XX	5	ccomp	_	O
+9	on	on	IN	_	8	prep	_	O
+10	the	the	DT	_	12	det	_	B-DATE
+11	2nd	#ord#	JJ	pos2=NN	12	nmod	_	I-DATE
+12	January	january	NNP	_	9	pobj	_	L-DATE
+13	...	..	.	pos2=,	2	punct	_	O
+
+1	ca	can	MD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	wait	wait	VB	_	0	root	_	O
+4	!!!	!!	.	_	3	punct	_	O
+
+1	Second	#ord#	JJ	pos2=RB	2	nmod	_	U-ORDINAL
+2	visit	visit	NN	_	0	root	_	O
+3	to	to	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	@barclayscenter	@barclayscenter	NN	pos2=JJR	3	pobj	_	O
+6	within	within	IN	_	2	prep	_	O
+7	12	0	CD	_	8	nmod	_	B-DATE
+8	months	month	NNS	_	6	pobj	_	L-DATE
+

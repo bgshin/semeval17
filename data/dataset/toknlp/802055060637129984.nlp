@@ -1,0 +1,21 @@
+1	Have	have	VBP	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	watched	watch	VBN	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	trailer	trailer	NN	_	3	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	#BeautyAndTheBeast	#beautyandthebeast	NNP	pos2=NN	6	pobj	_	U-ORG
+8	yet	yet	RB	_	3	advmod	_	O
+9	?	?	.	_	3	punct	_	O
+
+1	If	if	IN	_	6	mark	_	O
+2	you	you	PRP	_	6	nsubj	_	O
+3	did	do	VBD	_	6	aux	_	O
+4	n't	not	RB	_	3	neg	_	O
+5	,	,	,	_	6	punct	_	O
+6	watch	watch	VB	_	10	advcl	_	O
+7	it	it	PRP	_	6	dobj	_	O
+8	right	right	JJ	pos2=RB	9	advmod	_	O
+9	now.@EmmaWatson	now.@emmawatson	RB	pos2=GW	6	advmod	_	O
+10	https://t.co/sCiNZDIiv3	#hlink#	ADD	_	0	root	_	O
+

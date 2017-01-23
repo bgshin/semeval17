@@ -1,0 +1,27 @@
+1	The	the	DT	_	3	det	_	O
+2	Nazi	nazi	NNP	_	3	compound	_	U-NORP
+3	Democrats	democrat	NNPS	_	4	nsubj	_	U-NORP
+4	want	want	VBP	_	0	root	_	O
+5	Donald	donald	NNP	_	6	compound	_	B-PERSON
+6	Trump	trump	NNP	_	8	nsubj	_	L-PERSON
+7	to	to	TO	_	8	aux	_	O
+8	become	become	VB	_	4	ccomp	_	O
+9	distracted	distract	VBN	pos2=JJ	8	acomp	_	O
+10	and	and	CC	_	8	cc	_	O
+11	engage	engage	VB	_	8	conj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	an	an	DT	_	18	det	_	O
+14	"	"	``	_	18	punct	_	O
+15	emotional	emotional	JJ	_	18	nmod	_	O
+16	"	"	''	_	18	punct	_	O
+17	propaganda	propaganda	NN	_	18	compound	_	O
+18	war	war	NN	_	12	pobj	_	O
+19	that	that	WDT	pos2=DT	20	nsubj	_	O
+20	s	s	VBZ	pos2=VBP	18	relcl	_	O
+21	unwinnable	unwinnable	JJ	_	20	acomp	_	O
+22	-	-	:	pos2=,	4	punct	_	O
+23	But	but	CC	_	4	cc	_	O
+24	Trump	trump	NNP	pos2=NN	25	nsubj	_	U-ORG
+25	is	be	VBZ	_	4	conj	_	O
+26	smarter	smart	JJR	_	25	acomp	_	O
+

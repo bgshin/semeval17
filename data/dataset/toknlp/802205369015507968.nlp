@@ -1,0 +1,26 @@
+1	@	@	SYM	_	6	punct	_	O
+2	1080skibunny	0skibunny	JJ	pos2=NN	5	nmod	_	U-MONEY
+3	@cslarochelle	@cslarochelle	UH	pos2=IN	2	cc	_	O
+4	@ScottInSC	@scottinsc	JJ	pos2=MD	5	nmod	_	O
+5	people	people	NNS	_	6	nsubj	_	O
+6	hate	hate	VBP	_	0	root	_	O
+7	white	white	JJ	_	8	nmod	_	O
+8	supremacists	supremacist	NNS	_	6	dobj	_	O
+9	.	.	.	_	6	punct	_	O
+
+1	Trump	trump	NN	pos2=NNP	2	nsubj	_	U-PERSON
+2	emboldened	embolden	VBD	pos2=VBN	0	root	_	O
+3	white	white	JJ	_	4	nmod	_	O
+4	supremacists	supremacist	NNS	_	2	dobj	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	get	get	VB	_	0	root	_	O
+5	what	what	WP	_	9	dobj	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	fail	fail	VBP	_	4	ccomp	_	O
+8	to	to	TO	_	9	aux	_	O
+9	see	see	VB	_	7	xcomp	_	O
+

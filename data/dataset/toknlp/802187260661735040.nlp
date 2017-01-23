@@ -1,0 +1,31 @@
+1	Do	do	VBP	pos2=VB	4	aux	_	O
+2	n't	not	RB	_	4	neg	_	O
+3	we	we	PRP	_	4	nsubj	_	O
+4	deserve	deserve	VB	pos2=VBP	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	place	place	NN	_	4	dobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	call	call	VB	_	6	relcl	_	O
+9	our	our	PRP$	_	10	poss	_	O
+10	own	own	JJ	pos2=NN	8	dobj	_	O
+11	,	,	,	_	16	punct	_	O
+12	a	a	DT	_	13	det	_	O
+13	land	land	NN	_	10	appos	_	O
+14	to	to	TO	_	15	aux	_	O
+15	call	call	VB	_	13	relcl	_	O
+16	a	a	DT	_	17	det	_	O
+17	home	home	NN	pos2=RB	15	dobj	_	O
+18	same	same	JJ	pos2=RB	15	oprd	_	O
+19	as	as	IN	_	18	prep	_	O
+20	you	you	PRP	_	21	nmod	_	O
+21	Israelis	israeli	NNPS	_	19	pobj	_	U-NORP
+22	...	..	.	pos2=,	4	punct	_	O
+
+1	stop	stop	VB	pos2=NN	0	root	_	O
+2	blaming	blame	VBG	_	1	xcomp	_	O
+3	us	us	PRP	_	2	dobj	_	O
+4	for	for	IN	_	2	prep	_	O
+5	defending	defend	VBG	_	4	pcomp	_	O
+6	our	our	PRP$	_	7	poss	_	O
+7	rights.#Palestine	rights.#palestine	NNP	pos2=NN	5	dobj	_	O
+

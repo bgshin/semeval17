@@ -1,0 +1,17 @@
+1	Check	check	VB	_	0	root	_	O
+2	our	our	PRP$	_	4	poss	_	O
+3	#MosulOffensive	#mosuloffensive	JJ	pos2=CD	4	nmod	_	O
+4	section	section	NN	_	1	dobj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	keep	keep	VB	_	1	advcl	_	O
+7	up	up	IN	pos2=RP	6	oprd	_	O
+8	to	to	IN	_	7	prep	_	O
+9	date	date	NN	_	8	pobj	_	O
+10	with	with	IN	_	6	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	latest	late	JJS	_	10	pobj	_	O
+13	in	in	IN	pos2=GW	12	prep	_	O
+14	#Iraq	#iraq	NNP	pos2=GW	13	pobj	_	U-GPE
+15	https://t.co/Tvbv5d6pQq	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/kICC3VX7Hg	#hlink#	ADD	_	14	appos	_	U-ORG
+

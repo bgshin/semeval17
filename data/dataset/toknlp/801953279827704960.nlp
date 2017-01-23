@@ -1,0 +1,16 @@
+1	4.	0.	LS	_	2	meta	_	U-CARDINAL
+2	Babette	babette	NNP	_	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	3.	0.	LS	pos2=CD	2	punct	_	U-CARDINAL
+5	Miss	miss	NNP	_	6	compound	_	O
+6	Patty	patty	NNP	_	2	conj	_	U-PERSON
+7	,	,	,	_	6	punct	_	O
+8	2.	0.	NNP	pos2=CD	9	compound	_	U-CARDINAL
+9	Richard	richard	NNP	_	6	conj	_	O
+10	,	,	,	_	9	punct	_	O
+11	1.	0.	CD	pos2=NNP	12	nmod	_	U-CARDINAL
+12	LANE	lane	NN	pos2=NNP	9	appos	_	O
+13	!!!	!!	.	_	2	punct	_	O
+
+1	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNS	0	root	_	O
+

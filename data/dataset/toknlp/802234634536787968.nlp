@@ -1,0 +1,36 @@
+1	Love	love	NN	pos2=VB	5	nsubj	_	O
+2	listening	listen	VBG	pos2=NN	1	acl	_	O
+3	to	to	IN	_	2	prep	_	O
+4	Popovich	popovich	NNP	_	3	pobj	_	U-PERSON
+5	talk	talk	VB	pos2=NN	0	root	_	O
+6	about	about	IN	_	5	prep	_	O
+7	Tim	tim	NNP	_	8	compound	_	B-PERSON
+8	Duncan	duncan	NNP	_	6	pobj	_	L-PERSON
+9	.	.	.	_	5	punct	_	O
+
+1	"	"	``	_	4	punct	_	O
+2	He	he	PRP	_	4	nsubj	_	O
+3	can	can	MD	_	4	aux	_	O
+4	do	do	VB	_	0	root	_	O
+5	whatever	whatever	WP	pos2=WDT	7	dobj	_	O
+6	he	he	PRP	_	7	nsubj	_	O
+7	wants	want	VBZ	_	4	ccomp	_	O
+8	...	..	.	_	4	punct	_	O
+
+1	every	every	DT	_	2	det	_	O
+2	time	time	NN	_	10	npadvmod	_	O
+3	we	we	PRP	_	4	nsubj	_	O
+4	go	go	VBP	_	2	relcl	_	O
+5	to	to	IN	_	4	prep	_	O
+6	a	a	DT	_	7	det	_	O
+7	meal	meal	NN	_	5	pobj	_	O
+8	,	,	,	_	10	punct	_	O
+9	we	we	PRP	_	10	nsubj	_	O
+10	raise	raise	VBP	_	0	root	_	O
+11	a	a	DT	_	12	det	_	O
+12	glass	glass	NN	_	10	dobj	_	O
+13	and	and	CC	_	10	cc	_	O
+14	toast	toast	VB	pos2=VBD	10	conj	_	O
+15	him	him	PRP	_	14	dobj	_	O
+16	"	"	''	pos2=``	10	punct	_	O
+

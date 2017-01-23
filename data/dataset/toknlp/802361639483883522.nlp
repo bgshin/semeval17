@@ -1,0 +1,7 @@
+1	And	and	CC	_	3	cc	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	'm	be	VBP	_	0	root	_	O
+4	melania	melania	GW	pos2=JJ	6	nmod	_	O
+5	trump	trump	NN	pos2=GW	6	dep	_	O
+6	https://t.co/7BROkZ5ADe	#hlink#	ADD	pos2=NN	3	attr	_	O
+

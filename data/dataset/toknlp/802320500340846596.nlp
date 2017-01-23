@@ -1,0 +1,18 @@
+1	House	house	NNP	pos2=NN	3	compound	_	B-ORG
+2	Oversight	oversight	NNP	pos2=NN	3	compound	_	I-ORG
+3	Committee	committee	NNP	pos2=NN	7	dep	_	L-ORG
+4	:	:	:	_	7	punct	_	O
+5	Obama	obama	NNP	_	6	compound	_	B-PERSON
+6	Admin	admin	NNP	pos2=NN	7	nsubj	_	L-PERSON
+7	Withheld	withhold	VBD	pos2=NNP	0	root	_	O
+8	ObamaCare	obamacare	NNP	_	10	compound	_	B-ORG
+9	Docs	docs	NNP	pos2=NNPS	10	compound	_	I-ORG
+10	Related	related	NNP	pos2=JJ	7	dobj	_	L-ORG
+11	to	to	IN	_	7	prep	_	O
+12	Expanded	expanded	NNP	pos2=VBN	13	compound	_	O
+13	Subsidies	subsidy	NNS	pos2=NNPS	11	pobj	_	O
+14	https://t.co/Mpxm2pkXwu	#hlink#	ADD	pos2=VBP	17	nmod	_	O
+15	#TeaParty	#teaparty	-RRB-	pos2=ADD	14	punct	_	O
+16	#tcot	#tcot	UH	pos2=-RRB-	17	discourse	_	O
+17	#PJNET	#pjnet	NN	pos2=ADD	7	npadvmod	_	O
+

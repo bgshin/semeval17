@@ -1,0 +1,9 @@
+1	How	how	WRB	_	2	advmod	_	O
+2	#prototype	#prototype	IN	pos2=ADD	5	mark	_	O
+3	#manufacturing	#manufacturing	NNP	pos2=NN	5	nsubj	_	O
+4	is	be	VBZ	_	5	aux	_	O
+5	helping	help	VBG	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	#environment	#environment	ADD	pos2=GW	8	nmod	_	O
+8	https://t.co/LDQa8nJlj6	#hlink#	ADD	pos2=NN	5	dobj	_	O
+

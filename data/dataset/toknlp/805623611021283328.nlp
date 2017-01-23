@@ -1,0 +1,24 @@
+1	Vegetarianism	vegetarianism	NN	pos2=NNP	4	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	veganism	veganism	NN	_	1	conj	_	O
+4	are	be	VBP	_	16	ccomp	_	O
+5	n't	not	RB	_	4	neg	_	O
+6	just	just	RB	_	7	advmod	_	O
+7	about	about	IN	pos2=RB	4	prep	_	O
+8	the	the	DT	_	11	det	_	O
+9	killing	killing	NN	pos2=VBG	11	nmod	_	O
+10	/	/	SYM	pos2=,	11	punct	_	O
+11	torture	torture	NN	_	7	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	animals	animal	NNS	_	12	pobj	_	O
+14	,	,	,	_	16	punct	_	O
+15	it	it	PRP	_	16	nsubj	_	O
+16	's	's	VBZ	_	0	root	_	O
+17	also	also	RB	_	16	advmod	_	O
+18	a	a	DT	_	21	det	_	O
+19	political	political	JJ	_	21	nmod	_	O
+20	protest	protest	NN	_	21	compound	_	O
+21	statement	statement	NN	_	16	attr	_	O
+22	on	on	IN	_	21	prep	_	O
+23	efficiency	efficiency	NN	_	22	pobj	_	O
+

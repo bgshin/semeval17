@@ -1,0 +1,19 @@
+1	Steve	steve	NNP	_	2	compound	_	B-PERSON
+2	Bannon	bannon	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	not	not	RB	_	3	neg	_	O
+5	afraid	afraid	JJ	_	3	acomp	_	O
+6	to	to	TO	_	7	aux	_	O
+7	talk	talk	VB	_	5	xcomp	_	O
+8	openly	openly	RB	_	7	advmod	_	O
+9	about	about	IN	pos2=RB	7	prep	_	O
+10	governing	govern	VBG	_	9	pcomp	_	O
+11	our	our	PRP$	_	12	poss	_	O
+12	country	country	NN	_	10	dobj	_	O
+13	for	for	IN	_	10	prep	_	O
+14	the	the	DT	_	17	det	_	O
+15	next	next	JJ	_	17	nmod	_	O
+16	50	0	CD	_	17	nmod	_	O
+17	y	y	NNS	pos2=-LRB-	13	pobj	_	O
+18	earshttps://t.co/GVP2Iv9SoO	#hlink#	ADD	_	3	dep	_	O
+

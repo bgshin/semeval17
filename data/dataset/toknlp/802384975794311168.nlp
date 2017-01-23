@@ -1,0 +1,15 @@
+1	@ndtv	@ndtv	UH	pos2=XX	6	discourse	_	O
+2	waitin	waitin	NN	pos2=VB	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	its	its	PRP$	_	6	poss	_	O
+5	bharat	bharat	NNP	pos2=JJ	6	compound	_	O
+6	bandh	bandh	NN	_	3	pobj	_	O
+7	..	..	.	pos2=,	2	punct	_	O
+
+1	leftists	leftist	NNS	pos2=JJ	2	compound	_	O
+2	people	people	NNS	_	4	nsubj	_	O
+3	wher	wher	WDT	pos2=WP$	4	punct	_	O
+4	are	be	VBP	_	0	root	_	O
+5	y'all	y'all	PRP	_	4	nsubj	_	O
+6	.	.	.	_	4	punct	_	O
+

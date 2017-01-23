@@ -1,0 +1,13 @@
+1	Inside	inside	IN	pos2=RB	12	prep	_	O
+2	#ExpaLabs	#expalabs	NNS	pos2=NNP	1	pobj	_	O
+3	,	,	,	_	12	punct	_	O
+4	#Uber	#uber	NNP	pos2=PRP$	5	compound	_	O
+5	co-founder	co-founder	NN	_	7	poss	_	O
+6	’s	's	POS	pos2=VBZ	5	case	_	O
+7	take	take	NN	pos2=VB	12	dep	_	O
+8	on	on	IN	pos2=RP	7	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	#startup	#startup	XX	pos2=GW	8	pobj	_	O
+11	#accelerator	#accelerator	GW	pos2=ADD	12	nmod	_	O
+12	https://t.co/yvqnlZfG8w	#hlink#	ADD	_	0	root	_	O
+

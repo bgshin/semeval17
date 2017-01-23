@@ -1,0 +1,17 @@
+1	Select	select	VB	_	0	root	_	O
+2	Your	your	PRP$	_	3	poss	_	O
+3	Artist	artist	NN	_	1	dobj	_	O
+4	Of	of	IN	_	3	prep	_	O
+5	The	the	DT	_	7	det	_	B-WORK_OF_ART
+6	Day	day	NNP	pos2=NN	7	compound	_	I-WORK_OF_ART
+7	👇#JustinBieber	👇#justinbieber	NNP	pos2=NN	4	pobj	_	I-WORK_OF_ART
+8	#OneDirection	#onedirection	ADD	pos2=NN	3	appos	_	I-WORK_OF_ART
+9	#OneRepublic	#onerepublic	ADD	pos2=JJ	8	pobj	_	I-WORK_OF_ART
+10	#ShawnMendes#freetv	#shawnmendes#freetv	ADD	pos2=NNS	8	pobj	_	L-WORK_OF_ART
+11	|	|	SYM	pos2=,	12	punct	_	O
+12	freq	freq	NN	pos2=LS	10	root	_	O
+13	.	.	.	_	12	punct	_	O
+
+1	11900V	0v	NN	_	2	dep	_	O
+2	https://t.co/gO0foQLNjo	#hlink#	ADD	pos2=NN	0	root	_	O
+

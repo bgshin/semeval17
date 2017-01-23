@@ -1,0 +1,17 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	am	be	VBP	_	3	aux	_	O
+3	making	make	VBG	_	0	root	_	O
+4	my	my	PRP$	_	7	poss	_	O
+5	Green	green	NNP	_	6	compound	_	O
+6	Meanie	meanie	NNP	_	7	compound	_	O
+7	prediction	prediction	NN	_	3	dobj	_	O
+8	..	..	.	pos2=,	3	punct	_	O
+
+1	**	**	SYM	_	3	punct	_	O
+2	drum	drum	NN	_	3	compound	_	O
+3	roll	roll	NN	_	7	dep	_	O
+4	please	please	UH	_	3	discourse	_	O
+5	**	**	NFP	pos2=SYM	3	punct	_	O
+6	#ScreamQueens	#screamqueens	NNS	pos2=VBZ	7	punct	_	O
+7	https://t.co/8Tbp98hIRa	#hlink#	ADD	_	0	root	_	O
+

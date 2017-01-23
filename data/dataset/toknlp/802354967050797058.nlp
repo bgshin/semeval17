@@ -1,0 +1,12 @@
+1	@Lagartija_Nix	@lagartija_nix	ADD	pos2=XX	4	prep	_	U-GPE
+2	@PatVPeters	@patvpeters	NNS	pos2=ADD	0	root	_	O
+3	@DHecei	@dhecei	NNP	pos2=ADD	4	compound	_	B-PERSON
+4	Twitter	twitter	NNP	pos2=RBR	5	nsubj	_	L-PERSON
+5	deleting	delete	VBG	_	2	relcl	_	O
+6	pedophile	pedophile	NN	_	7	compound	_	O
+7	information	information	NN	_	5	dobj	_	O
+8	relating	relate	VBG	_	7	acl	_	O
+9	to	to	IN	_	8	prep	_	O
+10	Obama	obama	NNP	_	11	compound	_	U-PERSON
+11	admin	admin	NN	_	9	pobj	_	O
+

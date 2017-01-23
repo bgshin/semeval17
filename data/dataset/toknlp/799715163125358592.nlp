@@ -1,0 +1,11 @@
+1	Tell	tell	VB	_	0	root	_	O
+2	it	it	PRP	_	1	dobj	_	O
+3	,	,	,	_	1	punct	_	O
+4	Sistah	sistah	NNP	pos2=UH	1	vocative	_	U-PERSON
+5	!	!	.	_	1	punct	_	O
+
+1	#ElizabethWarren	#elizabethwarren	ADD	pos2=GW	4	nmod	_	O
+2	#TrumpTransitionTeam	#trumptransitionteam	GW	pos2=XX	4	nmod	_	O
+3	#DrainTheSwamp	#draintheswamp	GW	pos2=ADD	4	nmod	_	O
+4	https://t.co/NxPafi66iW	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,17 @@
+1	Demography	demography	NN	pos2=NNP	16	dep	_	O
+2	,	,	,	_	1	punct	_	O
+3	education	education	NN	_	1	conj	_	O
+4	,	,	,	_	3	punct	_	O
+5	and	and	CC	_	3	cc	_	O
+6	economic	economic	JJ	_	7	nmod	_	O
+7	structure	structure	NN	_	3	conj	_	O
+8	:	:	:	_	11	punct	_	O
+9	The	the	DT	_	11	det	_	O
+10	fundamental	fundamental	JJ	_	11	nmod	_	O
+11	factors	factor	NNS	_	16	dep	_	O
+12	behind	behind	IN	_	11	prep	_	O
+13	the	the	DT	_	15	det	_	O
+14	#Brexit	#brexit	NNP	pos2=JJ	15	compound	_	U-ORG
+15	vote	vote	NN	pos2=VB	12	pobj	_	O
+16	https://t.co/NUNLjkOd4h	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

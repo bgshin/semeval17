@@ -1,0 +1,15 @@
+1	@CholericCleric	@cholericcleric	JJ	pos2=ADD	3	nsubj	_	O
+2	@aliceonaroll	@aliceonaroll	MD	pos2=UH	3	aux	_	O
+3	Excuse	excuse	VB	_	0	root	_	O
+4	me	me	PRP	_	3	dobj	_	O
+5	!	!	.	_	3	punct	_	O
+
+1	Rajni	rajni	NNP	_	2	nsubj	_	U-PERSON
+2	gave	give	VBD	_	0	root	_	O
+3	India	india	NNP	_	2	dative	_	U-GPE
+4	robots	robot	NNS	pos2=VBZ	2	dobj	_	O
+5	ok	ok	UH	pos2=JJ	2	discourse	_	O
+6	!	!	.	_	2	punct	_	O
+
+1	😆😂	😆😂	SYM	pos2=NFP	0	root	_	U-ORG
+

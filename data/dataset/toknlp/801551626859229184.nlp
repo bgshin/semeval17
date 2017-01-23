@@ -1,0 +1,12 @@
+1	@sidin	@sidin	UH	pos2=NN	2	discourse	_	O
+2	are	be	VBP	_	5	aux	_	O
+3	we	we	PRP	_	2	nsubj	_	O
+4	now	now	RB	_	5	advmod	_	O
+5	classifying	classify	VBG	pos2=VBP	0	root	_	O
+6	months	month	NNS	_	5	dobj	_	O
+7	as	as	IN	_	5	prep	_	O
+8	leftists	leftist	NNS	_	7	pobj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	rightists	rightist	NNS	_	8	conj	_	O
+11	?	?	.	_	5	punct	_	O
+

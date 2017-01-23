@@ -1,0 +1,24 @@
+1	Less	less	JJR	_	3	qmod	_	B-CARDINAL
+2	than	than	IN	_	3	qmod	_	I-CARDINAL
+3	80	0	CD	_	4	nmod	_	L-CARDINAL
+4	tickets	ticket	NNS	_	0	root	_	O
+5	left	leave	VBN	pos2=JJ	4	acl	_	O
+6	for	for	IN	_	5	prep	_	O
+7	Rockmantic	rockmantic	NNP	_	6	pobj	_	U-GPE
+8	,	,	,	_	7	punct	_	O
+9	Valentines	valentines	NNP	_	10	compound	_	O
+10	Rock	rock	NNP	_	11	compound	_	O
+11	weekender	weekender	NN	_	7	appos	_	O
+12	in	in	IN	_	11	prep	_	O
+13	Cumbria	cumbria	NNP	_	12	pobj	_	U-GPE
+14	.	.	.	_	10	punct	_	O
+
+1	Fab	fab	NNP	pos2=DT	2	compound	_	U-ORG
+2	weekend	weekend	NN	_	0	root	_	O
+3	with	with	IN	_	2	prep	_	O
+4	awesome	awesome	JJ	_	5	nmod	_	O
+5	people	people	NNS	_	3	pobj	_	O
+6	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/tgrH66Tfox	#hlink#	ADD	_	0	root	_	U-ORG
+

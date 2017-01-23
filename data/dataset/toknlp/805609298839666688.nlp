@@ -1,0 +1,15 @@
+1	#the	#the	DT	pos2=UH	4	det	_	O
+2	sensitive	sensitive	JJ	_	4	nmod	_	O
+3	naked	naked	JJ	_	4	nmod	_	O
+4	man	man	NN	_	11	nsubj	_	O
+5	sexy	sexy	JJ	_	6	nmod	_	O
+6	girls	girl	NNS	_	4	appos	_	O
+7	in	in	IN	_	6	prep	_	O
+8	boys	boy	NNS	_	9	compound	_	O
+9	clothes	clothes	NNS	_	10	compound	_	O
+10	galleries	gallery	NNS	_	7	pobj	_	O
+11	cristiano	cristiano	VBP	pos2=FW	0	root	_	O
+12	ronaldo	ronaldo	FW	pos2=NN	14	nmod	_	O
+13	nude	nude	JJ	pos2=NN	14	nmod	_	O
+14	pics	pic	NNS	_	11	dobj	_	O
+

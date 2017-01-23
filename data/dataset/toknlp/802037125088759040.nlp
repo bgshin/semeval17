@@ -1,0 +1,11 @@
+1	This	this	DT	_	2	det	_	O
+2	man	man	NN	_	6	nsubj	_	O
+3	David	david	NNP	_	4	compound	_	B-PERSON
+4	Blaine	blaine	NNP	_	2	appos	_	L-PERSON
+5	can	can	MD	_	6	aux	_	O
+6	finesse	finesse	VB	_	0	root	_	O
+7	you	you	PRP	_	6	dobj	_	O
+8	out	out	RP	pos2=IN	6	prt	_	O
+9	your	your	PRP$	_	10	poss	_	O
+10	shoes	shoe	NNS	_	6	dobj	_	O
+

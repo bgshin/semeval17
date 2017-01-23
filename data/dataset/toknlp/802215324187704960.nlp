@@ -1,0 +1,30 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	n't	not	RB	_	2	neg	_	O
+4	the	the	DT	_	8	det	_	O
+5	American	american	JJ	_	8	nmod	_	U-NORP
+6	president	president	NN	pos2=NNP	8	compound	_	O
+7	-	-	HYPH	pos2=:	8	punct	_	O
+8	elect	elect	NN	pos2=NNP	2	attr	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	American	american	JJ	pos2=NNP	5	nmod	_	U-NORP
+5	Thanksgiving	thanksgiving	NNP	_	2	attr	_	U-DATE
+6	.	.	.	_	2	punct	_	O
+
+1	Ours	ours	NNP	pos2=PRP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	better	good	JJR	_	2	acomp	_	O
+4	,	,	,	_	2	punct	_	O
+5	of	of	IN	_	9	prep	_	O
+6	course	course	NN	_	5	pobj	_	O
+7	but	but	CC	_	6	cc	_	O
+8	gratitude	gratitude	NN	_	9	nsubj	_	O
+9	is	be	VBZ	_	2	conj	_	O
+10	...	..	.	pos2=,	9	punct	_	O
+
+1	https://t.co/yglNVyYWiF	#hlink#	ADD	_	0	root	_	U-ORG
+

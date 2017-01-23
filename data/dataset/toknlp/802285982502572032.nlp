@@ -1,0 +1,22 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@NickPaulTaylor	@nickpaultaylor	NN	pos2=XX	2	nsubj	_	O
+2	reports	report	VBZ	pos2=NNS	0	root	_	O
+3	@generalelectric	@generalelectric	JJ	pos2=,	7	nsubj	_	O
+4	and	and	CC	_	3	cc	_	O
+5	@UCSF	@ucsf	NN	pos2=NNP	3	conj	_	U-ORG
+6	have	have	VBP	pos2=VB	7	aux	_	O
+7	teamed	team	VBN	_	2	ccomp	_	O
+8	up	up	RP	pos2=RB	7	prt	_	O
+9	to	to	TO	_	10	aux	_	O
+10	build	build	VB	_	7	advcl	_	O
+11	a	a	DT	_	12	det	_	O
+12	library	library	NN	_	10	dobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	deep	deep	JJ	_	16	nmod	_	O
+15	learning	learning	NN	_	16	compound	_	O
+16	algorithms	algorithm	NNS	_	13	pobj	_	O
+17	.	.	.	_	2	punct	_	O
+
+1	https://t.co/jrLNZdeSFA	#hlink#	ADD	_	0	root	_	U-ORG
+

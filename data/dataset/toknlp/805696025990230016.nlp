@@ -1,0 +1,11 @@
+1	Photo	photo	NN	_	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	A	a	DT	_	4	det	_	O
+4	lioness	lioness	NN	_	0	root	_	O
+5	with	with	IN	_	4	prep	_	O
+6	her	her	PRP$	pos2=PRP	7	poss	_	O
+7	cubs	cub	NNS	pos2=NN	5	pobj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	Kenya	kenya	NNP	_	8	pobj	_	U-GPE
+10	https://t.co/wCeB6blkbA	#hlink#	ADD	pos2=NNP	4	appos	_	O
+

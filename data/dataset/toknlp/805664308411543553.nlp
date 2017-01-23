@@ -1,0 +1,14 @@
+1	Kris	kris	NNP	_	2	compound	_	B-PERSON
+2	Bryant	bryant	NNP	_	4	compound	_	L-PERSON
+3	CHICAGO	chicago	NNP	_	4	compound	_	O
+4	CUBS	cubs	NNP	pos2=NNPS	13	dep	_	O
+5	2016	0	CD	_	13	dep	_	U-DATE
+6	WORLD	world	NN	pos2=NNP	8	compound	_	B-EVENT
+7	SERIES	series	NNP	pos2=NN	8	compound	_	I-EVENT
+8	CHAMPIONS	champion	NNS	pos2=NNPS	10	compound	_	I-EVENT
+9	BOBBLEHEAD	bobblehead	NNP	pos2=NN	10	compound	_	I-EVENT
+10	TROPHY	trophy	NN	pos2=GW	13	dep	_	I-EVENT
+11	NEW	new	JJ	pos2=GW	12	nmod	_	L-EVENT
+12	https://t.co/B6s2J8XdJ1	#hlink#	ADD	pos2=NN	13	nmod	_	O
+13	https://t.co/MkbEI0KEnz	#hlink#	ADD	_	0	root	_	U-ORG
+

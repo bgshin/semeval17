@@ -1,0 +1,26 @@
+1	@JoyAnnReid	@joyannreid	XX	pos2=ADD	6	dep	_	O
+2	@nytimes	@nytimes	UH	pos2=NNS	6	discourse	_	O
+3	we	we	PRP	_	6	nsubj	_	O
+4	should	should	MD	_	6	aux	_	O
+5	all	all	DT	pos2=RB	6	dep	_	O
+6	refuse	refuse	VB	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	let	let	VB	_	6	xcomp	_	O
+9	them	them	PRP	_	10	nsubj	_	O
+10	call	call	VB	_	8	ccomp	_	O
+11	themselves	themselves	PRP	_	10	dobj	_	O
+12	this	this	DT	_	16	det	_	O
+13	new	new	JJ	pos2=RB	14	nmod	_	O
+14	cleaned	clean	VBD	pos2=VBN	16	nmod	_	O
+15	up	up	RP	_	14	prt	_	O
+16	label	label	NN	_	21	nsubj	_	O
+17	They	they	PRP	_	18	nsubj	_	O
+18	are	be	VBP	_	23	acl	_	O
+19	NEO	neo	JJ	pos2=NNP	22	nmod	_	O
+20	NAZI	nazi	JJ	pos2=NNP	22	nmod	_	U-NORP
+21	WHITE	white	JJ	pos2=NNP	22	nmod	_	O
+22	SUPREMACISTS	supremacist	NNS	pos2=NNPS	18	attr	_	O
+23	.	.	.	_	6	punct	_	O
+
+1	Evil	evil	JJ	pos2=NN	0	root	_	O
+

@@ -1,0 +1,11 @@
+1	IoT	iot	NN	pos2=NNP	2	nsubj	_	O
+2	pushes	push	VBZ	_	0	root	_	O
+3	IT	it	PRP	pos2=NNP	2	dobj	_	O
+4	security	security	NN	_	2	advmod	_	O
+5	to	to	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	brink	brink	NN	pos2=GW	9	nmod	_	O
+8	-	-	HYPH	pos2=GW	9	punct	_	O
+9	https://t.co/dGoQWsT5dO	#hlink#	ADD	_	10	nmod	_	O
+10	https://t.co/KVFiLBJaPR	#hlink#	ADD	_	5	pobj	_	U-ORG
+

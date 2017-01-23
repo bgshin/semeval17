@@ -1,0 +1,14 @@
+1	@RepKClark	@repkclark	ADD	pos2=XX	3	cc	_	O
+2	@realDonaldTrump	@realdonaldtrump	XX	pos2=ADD	5	dep	_	O
+3	@POTUS	@potus	XX	pos2=ADD	5	dep	_	O
+4	@elizabethforma	@elizabethforma	TO	pos2=XX	5	aux	_	O
+5	save	save	VB	pos2=VBP	0	root	_	O
+6	the	the	DT	_	8	det	_	O
+7	taxpayer	taxpayer	NN	_	8	compound	_	O
+8	millions	#crd#	NNS	_	5	dobj	_	U-CARDINAL
+9	and	and	CC	_	8	cc	_	O
+10	print	print	NN	pos2=VB	8	conj	_	O
+11	only	only	RB	pos2=JJ	12	advmod	_	O
+12	dimes	dime	NNS	pos2=RB	8	appos	_	O
+13	!	!	.	_	1	punct	_	O
+

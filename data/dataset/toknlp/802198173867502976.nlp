@@ -1,0 +1,22 @@
+1	Steve	steve	NNP	_	2	compound	_	B-PERSON
+2	Bannon	bannon	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	chief	chief	JJ	_	6	nmod	_	O
+6	strategist	strategist	NN	_	3	attr	_	O
+7	for	for	IN	_	6	prep	_	O
+8	Donald	donald	NNP	_	9	compound	_	B-PERSON
+9	Trump	trump	NNP	_	12	poss	_	I-PERSON
+10	's	's	POS	_	9	case	_	L-PERSON
+11	presidential	presidential	JJ	_	12	nmod	_	O
+12	staff	staff	NN	_	7	pobj	_	O
+13	.	.	.	_	3	punct	_	O
+
+1	Read	read	VB	pos2=VBD	0	root	_	O
+2	more	more	JJR	pos2=RBR	1	dobj	_	O
+3	about	about	IN	_	2	prep	_	O
+4	Bannon	bannon	NNP	_	3	pobj	_	U-PERSON
+5	here	here	RB	_	4	advmod	_	O
+6	:	:	:	_	1	punct	_	O
+7	https://t.co/AWLaSOxYMr	#hlink#	ADD	pos2=NN	1	dep	_	O
+

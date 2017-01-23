@@ -1,0 +1,32 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	go	go	VB	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	day	day	NN	_	4	npadvmod	_	O
+7	without	without	IN	_	4	prep	_	O
+8	talking	talk	VBG	_	7	pcomp	_	O
+9	about	about	IN	_	8	prep	_	O
+10	Persona	persona	NN	pos2=NNP	9	pobj	_	O
+11	5	0	CD	_	10	nmod	_	U-CARDINAL
+12	on	on	IN	_	8	prep	_	O
+13	twitter	twitter	NN	pos2=NNP	12	pobj	_	O
+14	.	.	.	_	4	punct	_	O
+
+1	If	if	IN	_	6	mark	_	O
+2	you	you	PRP	_	6	nsubj	_	O
+3	do	do	VBP	_	6	aux	_	O
+4	n't	not	RB	_	6	neg	_	O
+5	ever	ever	RB	_	6	advmod	_	O
+6	see	see	VB	_	15	advcl	_	O
+7	me	me	PRP	_	8	nsubj	_	O
+8	talk	talk	VB	pos2=NN	6	ccomp	_	O
+9	about	about	IN	_	8	prep	_	O
+10	P5	p0	NN	_	9	pobj	_	O
+11	,	,	,	_	15	punct	_	O
+12	something	something	NN	_	15	nsubj	_	O
+13	must	must	MD	_	15	aux	_	O
+14	be	be	VB	_	15	aux	_	O
+15	happening	happen	VBG	_	0	root	_	O
+16	.	.	.	_	15	punct	_	O
+

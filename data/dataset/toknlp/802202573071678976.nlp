@@ -1,0 +1,27 @@
+1	@Grombags	@grombags	NNS	pos2=NNP	0	root	_	O
+2	Maybe	maybe	RB	_	1	advmod	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	Almost	almost	RB	_	2	advmod	_	O
+2	certainly	certainly	RB	_	4	advmod	_	O
+3	been	be	VBN	_	4	aux	_	O
+4	self-medicating	self-medicating	VBG	pos2=JJ	0	root	_	O
+5	on	on	IN	pos2=RP	4	prep	_	O
+6	daily	daily	JJ	_	7	nmod	_	U-DATE
+7	doses	dose	NNS	_	5	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	The	the	DT	_	10	det	_	O
+10	Sun	sun	NNP	_	13	poss	_	U-ORG
+11	's	's	POS	_	10	case	_	O
+12	Tory	tory	NNP	pos2=JJ	13	compound	_	U-NORP
+13	propaganda	propaganda	NN	pos2=NNP	8	pobj	_	O
+14	&	&	CC	_	13	cc	_	O
+15	Daily	daily	NNP	pos2=JJ	16	nmod	_	U-DATE
+16	Mail	mail	NN	pos2=NNP	18	nmod	_	O
+17	vile	vile	JJ	_	18	nmod	_	O
+18	hatred	hatred	NN	_	13	conj	_	O
+19	&	&	CC	_	18	cc	_	O
+20	Nazi	nazi	NNP	pos2=JJ	21	compound	_	U-NORP
+21	beliefs	belief	NNS	_	18	conj	_	O
+22	.	.	.	_	4	punct	_	O
+

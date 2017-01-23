@@ -1,0 +1,27 @@
+1	While	while	IN	_	3	mark	_	O
+2	often	often	RB	_	3	advmod	_	O
+3	finding	find	VBG	_	15	advcl	_	O
+4	great	great	JJ	_	5	nmod	_	O
+5	displeasure	displeasure	NN	_	3	dobj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	fantasy	fantasy	NN	pos2=NNP	6	pobj	_	O
+8	,	,	,	_	3	punct	_	O
+9	having	have	VBG	_	3	advcl	_	O
+10	no	no	DT	_	11	det	_	O
+11	child	child	NN	_	9	dobj	_	O
+12	leads	lead	VBZ	_	15	advcl	_	O
+13	,	,	,	_	15	punct	_	O
+14	I	I	PRP	_	15	nsubj	_	O
+15	found	find	VBD	_	0	root	_	O
+16	#FantasticBeasts	#fantasticbeasts	NNS	pos2=RBR	18	nsubj	_	O
+17	remarkably	remarkably	RB	_	18	advmod	_	O
+18	good	good	JJ	_	15	ccomp	_	O
+19	.	.	.	_	15	punct	_	O
+
+1	Adult	adult	NN	pos2=JJ	0	root	_	O
+2	,	,	,	_	1	punct	_	O
+3	rustic	rustic	JJ	_	5	advmod	_	O
+4	,	,	,	_	5	punct	_	O
+5	cinematic	cinematic	JJ	_	1	nmod	_	O
+6	.	.	.	_	1	punct	_	O
+

@@ -1,0 +1,15 @@
+1	That	that	DT	_	2	det	_	O
+2	moment	moment	NN	_	7	npadvmod	_	O
+3	when	when	WRB	_	5	advmod	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	realize	realize	VBP	_	0	root	_	O
+6	that	that	IN	_	13	mark	_	O
+7	the	the	DT	_	8	det	_	O
+8	toothpaste	toothpaste	NN	_	13	compound	_	O
+9	you	you	PRP	_	10	nsubj	_	O
+10	use	use	VBP	pos2=VB	8	relcl	_	O
+11	does	do	VBZ	_	13	aux	_	O
+12	animal	animal	NN	pos2=VB	13	compound	_	O
+13	testing	testing	NN	_	5	ccomp	_	O
+14	...	..	.	_	2	punct	_	O
+

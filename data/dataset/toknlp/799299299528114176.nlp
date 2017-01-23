@@ -1,0 +1,13 @@
+1	China	china	NNP	_	2	nsubj	_	U-GPE
+2	websites	website	NNS	pos2=VBZ	0	root	_	O
+3	block	block	NN	pos2=VBP	4	compound	_	O
+4	searches	search	NNS	pos2=VBZ	2	dobj	_	O
+5	for	for	IN	_	4	prep	_	O
+6	'	'	``	pos2=''	2	punct	_	O
+7	Fatty	fatty	JJ	pos2=NNP	8	nmod	_	B-PERSON
+8	Kim	kim	NNP	_	12	dep	_	L-PERSON
+9	the	the	DT	_	10	det	_	O
+10	Third	#ord#	NNP	pos2=JJ	8	appos	_	U-ORDINAL
+11	'	'	''	pos2=POS	12	punct	_	O
+12	https://t.co/YQ8ztrZdHA	#hlink#	ADD	pos2=NN	5	pobj	_	U-DATE
+

@@ -1,0 +1,23 @@
+1	Right	right	RB	pos2=UH	4	advmod	_	O
+2	after	after	IN	_	4	mark	_	O
+3	they	they	PRP	_	4	nsubj	_	O
+4	kill	kill	VBP	pos2=VB	0	root	_	O
+5	Medicare	medicare	NNP	_	4	dobj	_	B-ORG
+6	&	&	CC	_	5	cc	_	I-ORG
+7	Social	social	NNP	_	8	compound	_	I-ORG
+8	Security	security	NNP	_	5	conj	_	L-ORG
+9	,	,	,	_	4	punct	_	O
+10	and	and	CC	_	4	cc	_	O
+11	get	get	VB	_	4	conj	_	O
+12	a	a	DT	_	15	det	_	O
+13	two	#crd#	CD	_	14	nmod	_	U-CARDINAL
+14	vote	vote	NN	_	15	compound	_	O
+15	advantage	advantage	NN	_	11	dobj	_	O
+16	on	on	IN	_	15	prep	_	O
+17	the	the	DT	_	19	det	_	B-ORG
+18	Supreme	supreme	NNP	_	19	compound	_	I-ORG
+19	Court	court	NNP	_	16	pobj	_	L-ORG
+20	.	.	.	_	4	punct	_	O
+
+1	https://t.co/xTQTzlv5Wr	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,9 @@
+1	@JustinVerlander	@justinverlander	RBR	pos2=ADD	2	advmod	_	O
+2	happy	happy	JJ	_	3	nmod	_	O
+3	thanksgiving	thanksgiving	NN	pos2=NNS	0	root	_	O
+4	to	to	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	verlander	verlander	NNP	pos2=JJ	7	compound	_	U-PERSON
+7	family	family	NN	_	4	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+

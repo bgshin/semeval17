@@ -1,0 +1,16 @@
+1	Imagine	imagine	VB	pos2=VBP	0	root	_	O
+2	missing	miss	VBG	pos2=JJ	3	nmod	_	O
+3	thanksgiving	thanksgiving	NN	pos2=VBG	1	dobj	_	O
+4	for	for	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	drop	drop	NN	_	4	pobj	_	O
+7	and	and	CC	_	1	cc	_	O
+8	then	then	RB	_	10	advmod	_	O
+9	them	them	PRP	_	10	nsubj	_	O
+10	canceling	cancel	VBG	_	1	conj	_	O
+11	it	it	PRP	_	10	dobj	_	O
+12	.	.	.	_	10	punct	_	O
+
+1	Rip	rip	VB	pos2=NN	0	root	_	O
+2	https://t.co/xYqYWkAOqa	#hlink#	ADD	pos2=NN	1	dobj	_	U-ORG
+

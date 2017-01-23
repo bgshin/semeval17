@@ -1,0 +1,18 @@
+1	#PTSD	#ptsd	NN	pos2=JJ	2	compound	_	O
+2	sufferers	sufferer	NNS	_	4	nsubj	_	O
+3	can	can	MD	_	4	aux	_	O
+4	light	light	VB	_	13	ccomp	_	O
+5	up	up	RP	_	4	prt	_	O
+6	a	a	DT	_	7	det	_	O
+7	blunt	blunt	NN	pos2=JJ	4	dobj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	#NewJersey	#newjersey	NNP	pos2=NN	8	pobj	_	U-GPE
+10	now	now	RB	_	4	advmod	_	O
+11	;	;	,	pos2=:	13	punct	_	O
+12	Christie	christie	NNP	_	13	nsubj	_	U-ORG
+13	says	say	VBZ	_	0	root	_	O
+14	it	it	PRP	_	15	nsubj	_	O
+15	's	's	VBZ	_	13	ccomp	_	O
+16	okay	okay	JJ	_	15	acomp	_	O
+17	https://t.co/N3FXWDgxDa	#hlink#	ADD	_	15	xcomp	_	U-WORK_OF_ART
+

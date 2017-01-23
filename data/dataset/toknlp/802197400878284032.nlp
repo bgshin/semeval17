@@ -1,0 +1,18 @@
+1	Bernie	bernie	NNP	_	2	compound	_	B-PERSON
+2	Sanders	sanders	NNP	_	3	nsubj	_	L-PERSON
+3	lambastes	lambaste	VBZ	_	0	root	_	O
+4	Trump	trump	NNP	_	7	poss	_	U-ORG
+5	's	's	POS	_	4	case	_	O
+6	infrastructure	infrastructure	NN	pos2=JJ	7	compound	_	O
+7	plan	plan	NN	_	3	dobj	_	O
+8	as	as	IN	_	3	prep	_	O
+9	"	"	``	_	11	punct	_	O
+10	corporate	corporate	JJ	_	11	nmod	_	O
+11	welfare	welfare	NN	_	8	pobj	_	O
+12	"	"	''	_	11	punct	_	O
+13	https://t.co/EmUmQMx5kn	#hlink#	ADD	pos2=NN	11	appos	_	O
+14	via	via	IN	_	3	prep	_	O
+15	@TheHillTalk	@thehilltalk	ADD	pos2=XX	14	pobj	_	B-LAW
+16	#DrainTheSwamp	#draintheswamp	ADD	pos2=XX	14	pobj	_	L-LAW
+17	#OurRev	#ourrev	ADD	pos2=NNS	14	pobj	_	O
+

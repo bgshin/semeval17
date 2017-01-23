@@ -1,0 +1,10 @@
+1	Still	still	RB	_	2	advmod	_	O
+2	digesting	digest	VBG	_	6	csubj	_	O
+3	#Westworld	#westworld	NNP	pos2=NN	2	dobj	_	U-ORG
+4	-	-	,	pos2=HYPH	2	punct	_	O
+5	will	will	MD	_	6	aux	_	O
+6	have	have	VB	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	rewatch	rewatch	VB	_	6	xcomp	_	O
+9	!	!	.	_	6	punct	_	O
+

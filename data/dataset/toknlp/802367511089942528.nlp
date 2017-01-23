@@ -1,0 +1,28 @@
+1	If	if	IN	_	3	mark	_	O
+2	he	he	PRP	_	3	nsubj	_	O
+3	looked	look	VBD	_	12	advcl	_	O
+4	any	any	DT	_	5	det	_	O
+5	shade	shade	NN	_	3	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	brown	brown	JJ	_	8	nmod	_	O
+8	skin	skin	NN	_	6	pobj	_	O
+9	he	he	PRP	_	12	nsubj	_	O
+10	would	would	MD	_	12	aux	_	O
+11	have	have	VB	_	12	aux	_	O
+12	been	be	VBN	_	0	root	_	O
+13	.	.	.	_	12	punct	_	O
+
+1	These	these	DT	_	3	det	_	O
+2	"	"	``	_	3	punct	_	O
+3	Deplorables	deplorables	NNP	pos2=NNS	7	nsubj	_	U-ORG
+4	"	"	''	_	3	punct	_	O
+5	are	be	VBP	_	7	aux	_	O
+6	really	really	RB	_	7	advmod	_	O
+7	starting	start	VBG	_	0	root	_	O
+8	to	to	TO	_	9	aux	_	O
+9	come	come	VB	_	7	xcomp	_	O
+10	out	out	RP	pos2=RB	9	prt	_	O
+11	ofthe	ofthe	IN	_	9	prep	_	O
+12	…	…	NFP	pos2=-LRB-	11	pobj	_	O
+13	https://t.co/AcHOmNAXWa	#hlink#	ADD	pos2=NN	7	dep	_	O
+

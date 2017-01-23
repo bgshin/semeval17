@@ -1,0 +1,25 @@
+1	WATCH	watch	VB	pos2=NN	0	root	_	O
+2	DOGS	dog	NNS	pos2=NNP	1	dobj	_	O
+3	2	0	CD	_	5	npadvmod	_	O
+4	–	-	HYPH	pos2=:	5	punct	_	O
+5	FREE	free	JJ	_	6	nmod	_	O
+6	ROAM	roam	NN	pos2=NNP	2	appos	_	O
+7	,	,	,	_	24	punct	_	O
+8	3	0	CD	_	11	nmod	_	U-CARDINAL
+9	D	d	NN	pos2=NNP	11	compound	_	O
+10	PRINTING	printing	NN	pos2=VBG	11	compound	_	O
+11	GUNS	gun	NNS	_	6	conj	_	O
+12	,	,	,	_	11	punct	_	O
+13	DRONES	drone	NNS	pos2=NNPS	11	conj	_	O
+14	&	&	CC	_	13	cc	_	O
+15	MORE	more	JJR	pos2=RBR	24	dep	_	O
+16	|	|	SYM	pos2=,	17	punct	_	O
+17	Watch	watch	VB	pos2=NNP	24	dep	_	O
+18	Dogs	dog	NNS	pos2=NNP	17	dobj	_	O
+19	2	0	CD	_	24	dep	_	U-CARDINAL
+20	New	new	NNP	pos2=JJ	23	compound	_	O
+21	Free	free	NNP	pos2=JJ	22	compound	_	O
+22	Roam	roam	NNP	pos2=GW	23	compound	_	O
+23	Gameplay	gameplay	NNP	pos2=NN	24	dep	_	O
+24	https://t.co/aZzYd04Kld	#hlink#	ADD	_	1	dep	_	O
+

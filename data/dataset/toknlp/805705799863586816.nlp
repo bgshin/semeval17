@@ -1,0 +1,26 @@
+1	Brexit	brexit	NNP	pos2=NN	3	nsubj	_	U-ORG
+2	has	have	VBZ	_	3	aux	_	O
+3	started	start	VBN	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	disintegration	disintegration	NN	_	3	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	EU	eu	NNP	_	6	pobj	_	U-ORG
+9	,	,	,	_	8	punct	_	O
+10	Italy	italy	NNP	_	8	conj	_	U-GPE
+11	&	&	CC	_	10	cc	_	O
+12	#	#	NN	_	10	conj	_	O
+13	39	0	CD	pos2=LS	12	nmod	_	U-MONEY
+14	;	;	:	pos2=,	3	punct	_	O
+15	s	s	VBZ	pos2=POS	3	dep	_	O
+16	Europe	europe	NNP	_	17	compound	_	U-LOC
+17	minister	minister	NN	pos2=NNP	18	nsubj	_	O
+18	says	say	VBZ	_	23	parataxis	_	O
+19	-	-	HYPH	pos2=:	18	punct	_	O
+20	https://t.co/xChh6MoGS7	#hlink#	ADD	pos2=NN	24	nmod	_	O
+21	-	-	,	pos2=-RRB-	18	punct	_	O
+22	-	-	:	pos2=,	18	punct	_	O
+23	The	the	DT	_	24	det	_	O
+24	populist	populist	NN	pos2=JJ	15	attr	_	O
+25	...	..	.	pos2=,	3	punct	_	O
+

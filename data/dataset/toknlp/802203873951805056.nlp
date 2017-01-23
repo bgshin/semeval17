@@ -1,0 +1,13 @@
+1	@verynetwork	@verynetwork	UH	pos2=VB	5	discourse	_	O
+2	my	my	PRP$	_	3	poss	_	O
+3	son	son	NN	_	5	nsubj	_	O
+4	would	would	MD	_	5	aux	_	O
+5	be	be	VB	_	0	root	_	O
+6	over	over	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	moon	moon	NN	_	6	pobj	_	O
+9	with	with	IN	_	5	prep	_	O
+10	this	this	DT	_	11	det	_	O
+11	#hatchimals	#hatchimals	NNS	pos2=ADD	9	pobj	_	O
+12	#BlackFriday	#blackfriday	NNP	pos2=.	5	vocative	_	O
+

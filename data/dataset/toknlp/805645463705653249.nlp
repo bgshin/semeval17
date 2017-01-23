@@ -1,0 +1,18 @@
+1	Read	read	VB	pos2=VBD	0	root	_	O
+2	SHINOLA	shinola	NNP	_	7	poss	_	U-GPE
+3	’S	's	POS	_	2	case	_	O
+4	FULL	full	JJ	_	7	nmod	_	O
+5	#Muhammad	#muhammad	NNP	pos2=NN	6	compound	_	B-LOC
+6	#Ali	#ali	NNP	pos2=POS	7	compound	_	L-LOC
+7	COLLECTION	collection	NN	pos2=NNP	1	dobj	_	O
+8	By	by	IN	pos2=NNP	1	prep	_	O
+9	S	s	NNP	pos2=NN	8	pobj	_	O
+10	...	..	.	pos2=,	1	punct	_	O
+
+1	on	on	IN	_	0	root	_	O
+2	https://t.co/iqrfpOFHcS	#hlink#	ADD	_	6	nmod	_	B-ORG
+3	#Cassius	#cassius	NNP	pos2=IN	4	compound	_	I-ORG
+4	#Clay	#clay	NNP	pos2=GW	6	dep	_	L-ORG
+5	#Shines	#shines	ADD	pos2=NNS	6	dep	_	O
+6	https://t.co/RAiPqp1xDB	#hlink#	ADD	_	1	pobj	_	U-ORG
+

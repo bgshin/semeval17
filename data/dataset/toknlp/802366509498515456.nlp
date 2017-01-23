@@ -1,0 +1,10 @@
+1	@Seinfeld2000	@seinfeld0	NN	pos2=XX	2	compound	_	O
+2	Elaine	elaine	NNP	_	3	vocative	_	U-PERSON
+3	go	go	VB	pos2=VBD	0	root	_	O
+4	2	0	CD	pos2=DT	6	nmod	_	U-CARDINAL
+5	same	same	JJ	_	6	nmod	_	O
+6	gym	gym	NN	_	3	dobj	_	O
+7	as	as	IN	_	6	prep	_	O
+8	Steve	steve	NNP	_	9	compound	_	B-PERSON
+9	Bannon	bannon	NNP	_	7	pobj	_	L-PERSON
+

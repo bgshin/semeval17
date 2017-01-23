@@ -1,0 +1,18 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@segsig	@segsig	UH	pos2=XX	4	discourse	_	O
+2	@nufascistleft	@nufascistleft	UH	pos2=FW	4	discourse	_	O
+3	@MickyRosenfeld	@mickyrosenfeld	MD	pos2=VBN	4	nmod	_	O
+4	BULLSHIT	bullshit	NN	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	There	there	EX	_	2	expl	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	no	no	DT	_	4	det	_	O
+4	difference	difference	NN	_	2	attr	_	O
+5	between	between	IN	_	4	prep	_	O
+6	#Fatah	#fatah	NNP	pos2=NN	5	pobj	_	U-GPE
+7	and	and	CC	_	6	cc	_	O
+8	#Hamas	#hamas	NNP	pos2=NNS	6	conj	_	U-GPE
+9	.	.	.	_	2	punct	_	O
+

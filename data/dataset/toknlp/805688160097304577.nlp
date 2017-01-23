@@ -1,0 +1,23 @@
+1	NATIONAL	national	JJ	pos2=NNP	3	nmod	_	O
+2	MINIMUM	minimum	JJ	pos2=NNP	3	nmod	_	O
+3	WAGE	wage	NN	_	11	npadvmod	_	O
+4	The	the	DT	_	9	det	_	O
+5	national	national	JJ	_	9	nmod	_	O
+6	minimum	minimum	JJ	pos2=NN	9	nmod	_	O
+7	wage	wage	NN	_	9	compound	_	O
+8	adult	adult	NN	_	9	compound	_	O
+9	rate	rate	NN	_	11	nsubj	_	O
+10	will	will	MD	_	11	aux	_	O
+11	increase	increase	VB	_	0	root	_	O
+12	to	to	IN	_	11	prep	_	O
+13	£	$	$	_	14	nmod	_	O
+14	6.19	0	CD	_	12	pobj	_	U-MONEY
+15	per	per	IN	pos2=CD	14	prep	_	O
+16	hour	hour	NN	_	15	pobj	_	O
+17	for	for	IN	_	11	prep	_	O
+18	2012/2013	0	CD	_	17	pobj	_	U-CARDINAL
+19	,	,	,	_	11	punct	_	O
+20	with	with	IN	_	11	prep	_	O
+21	eff	eff	NN	pos2=NNS	20	pobj	_	O
+22	https://t.co/VzW3jv4O4W	#hlink#	ADD	pos2=NN	20	pobj	_	O
+

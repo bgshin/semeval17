@@ -1,0 +1,21 @@
+1	DIY	diy	NN	pos2=NNP	3	compound	_	O
+2	Coloring	coloring	NN	pos2=NNP	3	compound	_	O
+3	Card	card	NN	pos2=NNP	19	dep	_	O
+4	-	-	HYPH	pos2=:	3	punct	_	O
+5	Oh	oh	UH	pos2=NNP	19	discourse	_	O
+6	,	,	,	_	19	punct	_	O
+7	My	my	PRP$	pos2=NNP	8	poss	_	O
+8	Deer	deer	NNP	pos2=NN	19	dep	_	U-FAC
+9	for	for	IN	_	8	prep	_	O
+10	Valentine	valentine	NNP	_	12	poss	_	B-DATE
+11	's	's	POS	_	10	case	_	I-DATE
+12	Day	day	NNP	pos2=NN	9	pobj	_	L-DATE
+13	and	and	CC	_	12	cc	_	O
+14	Lover	lover	NNP	pos2=NN	12	conj	_	O
+15	,	,	,	_	19	punct	_	O
+16	Romantic	romantic	NNP	pos2=JJ	17	compound	_	B-ORG
+17	Card	card	NNP	pos2=NN	19	nmod	_	L-ORG
+18	t	t	GW	pos2=NN	19	nmod	_	O
+19	https://t.co/SIEr69zNJB	#hlink#	ADD	_	0	root	_	O
+20	#geekstuff	#geekstuff	-RRB-	pos2=ADD	19	punct	_	O
+

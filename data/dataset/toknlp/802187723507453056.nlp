@@ -1,0 +1,23 @@
+1	Independent	independent	JJ	pos2=NNP	5	nmod	_	O
+2	#LSAssociate	#lsassociate	NNP	pos2=POS	5	compound	_	O
+3	Isaac	isaac	NNP	_	4	compound	_	B-PERSON
+4	Haynes	haynes	NNP	_	5	compound	_	L-PERSON
+5	Thanks	thanks	NNP	pos2=NNS	0	root	_	O
+6	for	for	IN	_	5	prep	_	O
+7	joining	join	VBG	_	6	pcomp	_	O
+8	SalesExpert	salesexpert	NNP	_	7	dobj	_	U-ORG
+9	.	.	.	_	5	punct	_	O
+
+1	me	me	PRP	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	#ThisIsUs	#thisisus	NN	pos2=NNS	0	root	_	O
+2	who	who	WP	_	3	nsubj	_	O
+3	guarantee	guarantee	VBP	pos2=NN	1	relcl	_	O
+4	leads	lead	VBZ	pos2=NNS	3	dobj	_	O
+5	to	to	IN	_	4	prep	_	O
+6	you	you	PRP	_	5	pobj	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	https://t.co/OWij467G1a	#hlink#	ADD	_	0	root	_	U-ORG
+

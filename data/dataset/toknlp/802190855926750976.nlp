@@ -1,0 +1,22 @@
+1	Thank	thank	VBP	_	0	root	_	O
+2	you	you	PRP	_	1	dobj	_	O
+3	Democratic	democratic	NNP	_	4	compound	_	B-ORG
+4	Party	party	NNP	_	1	vocative	_	L-ORG
+5	of	of	IN	_	4	prep	_	O
+6	New	new	NNP	_	7	compound	_	B-GPE
+7	Mexico	mexico	NNP	_	5	pobj	_	L-GPE
+8	for	for	IN	_	1	prep	_	O
+9	standing	stand	VBG	_	8	pcomp	_	O
+10	with	with	IN	_	9	prep	_	O
+11	the	the	DT	_	14	det	_	B-ORG
+12	First	#ord#	NNP	pos2=JJ	13	compound	_	I-ORG
+13	Nation	nation	NNP	pos2=NN	14	compound	_	L-ORG
+14	people	people	NNS	_	10	pobj	_	O
+15	and	and	CC	_	9	cc	_	O
+16	Standing	stand	VBG	pos2=NNP	9	conj	_	O
+17	Rock	rock	NNP	_	18	compound	_	O
+18	Indian	indian	NNP	pos2=JJ	16	dobj	_	O
+19	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/Gs6gb5BITc	#hlink#	ADD	_	0	root	_	U-ORG
+

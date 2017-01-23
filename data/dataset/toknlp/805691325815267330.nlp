@@ -1,0 +1,10 @@
+1	@CNET	@cnet	NN	pos2=ADD	2	compound	_	O
+2	@Honda	@honda	NNP	pos2=NN	8	poss	_	U-ORG
+3	's	's	POS	pos2=VBZ	2	case	_	O
+4	2017	0	CD	_	8	dep	_	U-CARDINAL
+5	Clarity	clarity	NNP	pos2=NN	6	compound	_	O
+6	Fuel	fuel	NNP	pos2=NN	7	compound	_	O
+7	Cell	cell	NN	pos2=NNP	8	dep	_	O
+8	https://t.co/S2q46BVSGhmethane(#fracking)+energy(heat)+freshwater->#CO2+#Hydrogen#epicfail	#hlink#	ADD	_	0	root	_	O
+9	#energy	#energy	-RRB-	pos2=UH	8	punct	_	O
+

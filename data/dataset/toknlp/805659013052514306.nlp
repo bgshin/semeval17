@@ -1,0 +1,14 @@
+1	the	the	DT	_	2	det	_	O
+2	patriarchy	patriarchy	NN	_	4	nsubj	_	O
+3	is	be	VBZ	_	4	aux	_	O
+4	ruining	ruin	VBG	_	0	root	_	O
+5	my	my	PRP$	_	6	poss	_	O
+6	life	life	NN	_	4	dobj	_	O
+7	but	but	CC	pos2=IN	4	cc	_	O
+8	at	at	RB	pos2=IN	9	advmod	_	O
+9	least	least	JJS	pos2=RBS	11	advmod	_	O
+10	we	we	PRP	_	11	nsubj	_	O
+11	have	have	VBP	_	4	conj	_	O
+12	abortion	abortion	NN	_	13	compound	_	O
+13	rights	right	NNS	_	11	dobj	_	O
+

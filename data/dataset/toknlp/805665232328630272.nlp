@@ -1,0 +1,18 @@
+1	#Netflix	#netflix	NNP	pos2=WP	2	nsubj	_	U-ORG
+2	Buys	buy	VBZ	pos2=NNP	0	root	_	O
+3	Pope	pope	NNP	_	5	compound	_	O
+4	Francis	francis	NNP	_	5	compound	_	B-PERSON
+5	Mini-Series	mini-series	NNP	pos2=NNS	2	dobj	_	L-PERSON
+6	From	from	IN	_	2	prep	_	O
+7	Berlusconi	berlusconi	NNP	_	9	poss	_	U-ORG
+8	's	's	POS	_	7	case	_	O
+9	Mediaset	mediaset	NNP	_	6	pobj	_	U-ORG
+10	.	.	.	_	2	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	more	more	JJR	pos2=RBR	1	dobj	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/N5oI5F0uCv	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	$	$	$	pos2=-RRB-	6	nmod	_	O
+6	NFLX	nflx	NNP	pos2=CD	1	dobj	_	U-MONEY
+

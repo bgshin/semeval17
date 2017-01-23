@@ -1,0 +1,27 @@
+1	@MJoyce2244	@mjoyce0	NN	pos2=CD	2	compound	_	O
+2	China	china	NNP	_	3	nsubj	_	U-GPE
+3	has	have	VBZ	_	0	root	_	O
+4	setup	setup	NN	pos2=VBN	3	dobj	_	O
+5	a	a	DT	_	10	det	_	O
+6	Ukrainian	ukrainian	JJ	_	8	advmod	_	U-NORP
+7	-	-	HYPH	_	8	punct	_	O
+8	Chinese	chinese	JJ	pos2=NNPS	10	nmod	_	O
+9	business	business	NN	_	10	compound	_	O
+10	association	association	NN	_	4	appos	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	It	it	PRP	_	4	nsubjpass	_	O
+2	is	be	VBZ	_	4	auxpass	_	O
+3	also	also	RB	_	4	advmod	_	O
+4	known	know	VBN	pos2=JJ	0	root	_	O
+5	that	that	IN	_	8	mark	_	O
+6	Mr.	mr.	NNP	_	7	compound	_	O
+7	Poroshenko	poroshenko	NNP	_	8	nsubj	_	U-PERSON
+8	has	have	VBZ	_	4	ccomp	_	O
+9	dealing	deal	VBG	pos2=NN	13	nmod	_	O
+10	w	w	IN	pos2=RB	8	dobj	_	O
+11	/	/	HYPH	pos2=,	10	punct	_	O
+12	the	the	DT	_	13	det	_	O
+13	Communists	communist	NNPS	_	10	pobj	_	U-NORP
+14	.	.	.	_	4	punct	_	O
+

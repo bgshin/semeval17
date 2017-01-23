@@ -1,0 +1,18 @@
+1	Loony	loony	JJ	_	2	nmod	_	O
+2	liberals	liberal	NNS	_	4	nsubj	_	O
+3	still	still	RB	_	4	advmod	_	O
+4	find	find	VBP	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	way	way	NN	_	4	dobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	worship	worship	VB	_	6	relcl	_	O
+9	a	a	DT	_	11	det	_	O
+10	communist	communist	JJ	pos2=NN	11	nmod	_	O
+11	dictator	dictator	NN	_	8	dobj	_	O
+12	.	.	.	_	4	punct	_	O
+
+1	Unbelievable	unbelievable	JJ	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	https://t.co/O4gfGKyM7M	#hlink#	ADD	_	0	root	_	U-ORG
+

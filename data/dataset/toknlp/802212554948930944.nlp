@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det	_	O
+2	man	man	NN	_	13	nsubjpass	_	O
+3	who	who	WP	_	5	nsubj	_	O
+4	insanely	insanely	RB	_	5	advmod	_	O
+5	claimed	claim	VBD	_	2	relcl	_	O
+6	#BLM	#blm	NN	pos2=NNP	8	nsubj	_	O
+7	would	would	MD	_	8	aux	_	O
+8	team	team	VB	_	5	ccomp	_	O
+9	up	up	RP	_	8	prt	_	O
+10	with	with	IN	_	8	prep	_	O
+11	#ISIS	#isis	NN	pos2=NNP	10	pobj	_	U-ORG
+12	is	be	VBZ	_	13	auxpass	_	O
+13	set	set	VBN	_	0	root	_	O
+14	to	to	TO	_	15	aux	_	O
+15	meet	meet	VB	_	13	xcomp	_	O
+16	with	with	IN	_	15	prep	_	O
+17	Trump	trump	NNP	pos2=NN	16	pobj	_	U-PERSON
+18	on	on	IN	_	15	prep	_	O
+19	Monday	monday	NNP	_	18	pobj	_	U-DATE
+20	.	.	.	_	13	punct	_	O
+
+1	https://t.co/UliQM1mh9S	#hlink#	ADD	_	0	root	_	U-ORG
+

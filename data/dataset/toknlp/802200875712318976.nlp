@@ -1,0 +1,17 @@
+1	@midgand	@midgand	DT	pos2=UH	3	det	_	O
+2	same	same	JJ	_	3	nmod	_	O
+3	thanksgiving	thanksgiving	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	always	always	RB	_	4	advmod	_	O
+6	SUPER	super	RB	pos2=JJ	7	advmod	_	O
+7	hectic	hectic	JJ	_	4	acomp	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	now	now	RB	pos2=UH	5	advmod	_	O
+2	its	its	PRP$	_	3	poss	_	O
+3	time	time	NN	_	0	root	_	O
+4	to	to	TO	pos2=IN	5	aux	_	O
+5	Relax	relax	VB	pos2=NNP	3	relcl	_	O
+6	until	until	IN	_	5	prep	_	O
+7	christmas	christmas	NNS	pos2=NNP	6	pobj	_	U-DATE
+

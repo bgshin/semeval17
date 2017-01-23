@@ -1,0 +1,19 @@
+1	What	what	WP	pos2=WDT	2	nsubj	_	O
+2	went	go	VBD	_	0	root	_	O
+3	wrong	wrong	JJ	pos2=RB	2	acomp	_	O
+4	in	in	IN	_	2	prep	_	O
+5	#Yemen	#yemen	NNP	pos2=NNS	9	poss	_	U-GPE
+6	's	's	POS	_	5	case	_	O
+7	National	national	NNP	_	9	compound	_	B-ORG
+8	Dialogue	dialogue	NNP	_	9	compound	_	I-ORG
+9	Conference	conference	NNP	_	4	pobj	_	L-ORG
+10	?	?	.	_	2	punct	_	O
+
+1	My	my	PRP$	_	7	poss	_	O
+2	6	0	CD	_	4	nmod	_	B-TIME
+3	-	-	HYPH	_	4	punct	_	I-TIME
+4	minute	minute	NN	_	7	nmod	_	L-TIME
+5	take	take	VB	pos2=NN	7	dep	_	O
+6	@ipti_geneva	@ipti_geneva	NN	pos2=GW	5	dobj	_	O
+7	https://t.co/28LHHD1Vch	#hlink#	ADD	pos2=NN	0	root	_	O
+

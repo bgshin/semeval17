@@ -1,0 +1,25 @@
+1	@iMerinet	@imerinet	NNP	pos2=NN	2	compound	_	B-PERSON
+2	@Sphero	@sphero	NNP	pos2=CD	5	vocative	_	L-PERSON
+3	@JBHiFi	@jbhifi	ADD	pos2=XX	5	advmod	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	like	like	VBP	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	idea	idea	NN	_	5	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	3	0	CD	_	10	nmod	_	U-CARDINAL
+10	D	d	NN	pos2=NNP	8	pobj	_	O
+11	printing	print	VBG	pos2=NN	7	acl	_	O
+12	a	a	DT	_	13	det	_	O
+13	trailer	trailer	NN	_	11	dobj	_	O
+14	for	for	IN	_	11	prep	_	O
+15	it	it	PRP	_	14	pobj	_	O
+16	,	,	,	_	20	punct	_	O
+17	some	some	DT	_	18	det	_	O
+18	sort	sort	NN	pos2=RB	15	appos	_	O
+19	of	of	IN	_	18	prep	_	O
+20	robotic	robotic	JJ	_	23	nmod	_	O
+21	transportation	transportation	NN	_	22	compound	_	O
+22	design	design	NN	_	23	compound	_	O
+23	challenge	challenge	NN	_	19	pobj	_	O
+24	...	..	.	pos2=,	5	punct	_	O
+

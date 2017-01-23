@@ -1,0 +1,17 @@
+1	‘	'	``	pos2=POS	3	punct	_	O
+2	Michael	michael	NNP	_	3	compound	_	B-PERSON
+3	Moore	moore	NNP	_	12	nsubj	_	L-PERSON
+4	in	in	IN	_	3	prep	_	O
+5	Trumpland	trumpland	NNP	_	7	poss	_	U-GPE
+6	’	'	POS	pos2=''	5	case	_	O
+7	Review	review	NN	pos2=NNP	4	pobj	_	O
+8	:	:	:	_	12	punct	_	O
+9	The	the	DT	_	11	det	_	B-WORK_OF_ART
+10	Showman	showman	NNP	pos2=NN	11	compound	_	I-WORK_OF_ART
+11	Documentarian	documentarian	NNP	_	12	nsubj	_	I-WORK_OF_ART
+12	Skewers	skewer	VBZ	pos2=NNP	0	root	_	I-WORK_OF_ART
+13	the	the	DT	_	14	det	_	I-WORK_OF_ART
+14	Election	election	NN	pos2=NNP	12	dobj	_	L-WORK_OF_ART
+15	https://t.co/vwq90hKC96	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/5QJZEHXIa1	#hlink#	ADD	_	11	appos	_	U-ORG
+

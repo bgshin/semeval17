@@ -1,0 +1,26 @@
+1	Hillary	hillary	NNP	_	2	compound	_	B-PERSON
+2	Clinton	clinton	NNP	_	4	poss	_	I-PERSON
+3	's	's	POS	_	2	case	_	L-PERSON
+4	clone	clone	NN	_	0	root	_	O
+5	?	?	.	_	4	punct	_	O
+
+1	Really	really	RB	_	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+
+1	Dems	dems	NNS	pos2=NNPS	2	nsubj	_	O
+2	are	be	VBP	_	8	ccomp	_	O
+3	pretty	pretty	RB	_	4	advmod	_	O
+4	determined	determined	JJ	_	2	acomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	lose	lose	VB	_	4	xcomp	_	O
+7	it	it	PRP	_	6	dobj	_	O
+8	appears	appear	VBZ	_	0	root	_	O
+9	.	.	.	_	8	punct	_	O
+
+1	https	http	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	//	//	NFP	pos2=-LRB-	6	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	9kPpoYmWFZ	0kppoymwfz	NN	pos2=NNS	0	root	_	O
+

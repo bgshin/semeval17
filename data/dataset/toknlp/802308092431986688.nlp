@@ -1,0 +1,26 @@
+1	President	president	NNP	pos2=NN	6	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	#Ukraine	#ukraine	NNP	_	5	compound	_	B-ORG
+4	Petro	petro	NNP	_	5	compound	_	I-ORG
+5	@Poroshenko	@poroshenko	NNP	_	2	pobj	_	L-ORG
+6	instructed	instruct	VBN	pos2=VBD	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	send	send	VB	_	6	xcomp	_	O
+9	to	to	IN	pos2=TO	8	prep	_	O
+10	#Israel	#israel	NNP	pos2=VB	9	pobj	_	O
+11	2	0	CD	_	13	nmod	_	U-CARDINAL
+12	special	special	JJ	_	13	nmod	_	O
+13	planes	plane	NNS	_	14	compound	_	O
+14	An-32P	an-0p	NN	pos2=XX	10	appos	_	O
+15	for	for	IN	_	14	prep	_	O
+16	fire	fire	NN	_	17	compound	_	O
+17	fighting	fighting	NN	_	15	pobj	_	O
+18	.	.	.	_	6	punct	_	O
+
+1	https	http	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	//	//	NFP	pos2=-LRB-	6	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	5AHaTEEPoF	0ahateepof	NN	pos2=ADD	0	root	_	O
+

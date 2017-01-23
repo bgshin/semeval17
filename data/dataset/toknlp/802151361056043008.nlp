@@ -1,0 +1,17 @@
+1	@ChrissyMetz	@chrissymetz	UH	pos2=ADD	3	discourse	_	O
+2	@justinhartley	@justinhartley	UH	pos2=PRP	3	discourse	_	O
+3	@MiloVentimiglia	@miloventimiglia	NN	pos2=UH	5	nsubj	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	saw	see	VBD	_	0	root	_	O
+6	episode	episode	NN	_	5	dobj	_	O
+7	8	0	CD	_	6	nmod	_	U-CARDINAL
+8	of	of	IN	_	6	prep	_	O
+9	#ThisIsUs	#thisisus	NNP	pos2=NN	8	pobj	_	U-GPE
+10	in	in	IN	_	5	prep	_	O
+11	France	france	NNP	_	10	pobj	_	U-GPE
+12	on	on	IN	_	5	prep	_	O
+13	@canalplusgroupe	@canalplusgroupe	XX	pos2=NNP	12	pobj	_	O
+14	just	just	RB	_	15	advmod	_	O
+15	amazing	amazing	JJ	_	16	nmod	_	O
+16	😭😭👌	😭😭👌	NN	pos2=.	12	pobj	_	O
+

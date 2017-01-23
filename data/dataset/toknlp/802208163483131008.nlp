@@ -1,0 +1,29 @@
+1	He	he	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	disaster	disaster	NN	_	2	attr	_	O
+5	yes	yes	UH	pos2=RB	2	discourse	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	But	but	CC	_	5	cc	_	O
+2	you	you	PRP	_	5	nsubj	_	O
+3	ca	can	MD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	campaign	campaign	VB	_	0	root	_	O
+6	,	,	,	_	5	punct	_	O
+7	and	and	CC	_	5	cc	_	O
+8	lose	lose	VB	_	5	conj	_	O
+9	,	,	,	_	5	punct	_	O
+10	on	on	IN	_	5	prep	_	O
+11	the	the	DT	_	14	det	_	O
+12	electoral	electoral	JJ	_	13	nmod	_	O
+13	colleges	college	NNS	_	14	compound	_	O
+14	system	system	NN	pos2=VBP	10	pobj	_	O
+15	and	and	CC	_	5	cc	_	O
+16	then	then	RB	_	17	advmod	_	O
+17	complain	complain	VB	pos2=VBP	5	conj	_	O
+18	about	about	IN	pos2=RB	17	prep	_	O
+19	hav	hav	GW	pos2=VBP	21	nmod	_	O
+20	…	…	NFP	pos2=GW	21	punct	_	O
+21	https://t.co/LWUc9ViAZA	#hlink#	ADD	pos2=NN	17	dep	_	O
+

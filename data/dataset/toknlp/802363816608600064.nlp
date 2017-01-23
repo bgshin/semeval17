@@ -1,0 +1,26 @@
+1	"	"	``	_	11	punct	_	O
+2	If	if	IN	_	5	mark	_	O
+3	a	a	DT	_	4	det	_	O
+4	women	woman	NNS	pos2=NN	5	nsubj	_	O
+5	rule	rule	VBP	pos2=VB	11	advcl	_	O
+6	the	the	DT	_	7	det	_	O
+7	world	world	NN	_	5	dobj	_	O
+8	there	there	EX	pos2=RB	11	expl	_	O
+9	wo	wo	MD	_	11	aux	_	O
+10	n't	not	RB	_	11	neg	_	O
+11	be	be	VB	_	0	root	_	O
+12	any	any	DT	_	13	det	_	O
+13	corruption	corruption	NN	_	11	attr	_	O
+14	"	"	''	pos2=``	11	punct	_	O
+15	-	-	,	pos2=HYPH	25	punct	_	O
+16	Someone	someone	NN	pos2=NNP	25	dep	_	O
+17	stupid	stupid	JJ	_	18	advmod	_	O
+18	said	say	VBN	pos2=VBD	25	nmod	_	O
+19	-	-	:	pos2=HYPH	25	punct	_	O
+20	(	(	-LRB-	_	23	punct	_	O
+21	Like	like	IN	pos2=UH	16	prep	_	O
+22	Michael	michael	NNP	_	23	compound	_	B-PERSON
+23	Moore	moore	NNP	_	21	pobj	_	L-PERSON
+24	)	)	-RRB-	_	23	punct	_	O
+25	https://t.co/eG08tFwFvS	#hlink#	ADD	pos2=NN	11	dep	_	U-DATE
+

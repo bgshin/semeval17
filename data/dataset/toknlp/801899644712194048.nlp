@@ -1,0 +1,12 @@
+1	@utahjazz	@utahjazz	UH	pos2=XX	4	discourse	_	O
+2	@Joeingles7	@joeingles0	NN	pos2=MD	4	vocative	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	throw	throw	VBP	pos2=VB	0	root	_	O
+5	that	that	DT	pos2=WDT	6	nsubj	_	O
+6	pass	pass	VBP	pos2=NN	4	ccomp	_	O
+7	better	good	JJR	pos2=RBR	6	advmod	_	O
+8	than	than	IN	_	7	prep	_	O
+9	anyone	anyone	NN	_	10	compound	_	O
+10	man	man	NN	pos2=UH	8	pobj	_	O
+11	!	!	.	_	4	punct	_	O
+

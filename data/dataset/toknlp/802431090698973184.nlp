@@ -1,0 +1,22 @@
+1	@Crabcakes0455	@crabcakes0	NN	pos2=NNS	3	dep	_	O
+2	i	I	PRP	pos2=LS	3	nsubj	_	O
+3	keep	keep	VBP	_	0	root	_	O
+4	my	my	PRP$	_	7	poss	_	O
+5	social	social	JJ	_	6	nmod	_	O
+6	security	security	NN	_	7	compound	_	O
+7	card	card	NN	_	3	dobj	_	O
+8	in	in	IN	_	3	prep	_	O
+9	there	there	RB	_	8	pcomp	_	O
+10	cuz	cuz	IN	pos2=CC	12	mark	_	O
+11	i	I	PRP	pos2=CD	12	nsubj	_	O
+12	figure	figure	VBP	_	3	advcl	_	O
+13	no	no	DT	_	14	det	_	O
+14	one	#crd#	NN	pos2=PRP	17	nsubj	_	O
+15	would	would	MD	_	17	aux	_	O
+16	willingly	willingly	RB	_	17	advmod	_	O
+17	open	open	VB	_	12	ccomp	_	O
+18	up	up	RP	pos2=RB	17	prt	_	O
+19	and	and	CC	_	17	cc	_	O
+20	read	read	VB	pos2=VBN	17	conj	_	O
+21	pokespec	pokespec	NNS	pos2=RP	20	dobj	_	O
+

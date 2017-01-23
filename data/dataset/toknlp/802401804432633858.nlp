@@ -1,0 +1,16 @@
+1	Nice	nice	JJ	pos2=NNP	2	nmod	_	O
+2	video	video	NN	_	5	dep	_	O
+3	,	,	,	_	5	punct	_	O
+4	must	must	MD	_	5	aux	_	O
+5	watch	watch	VB	_	0	root	_	O
+6	it	it	PRP	pos2=NN	5	dobj	_	O
+7	:	:	:	_	5	punct	_	O
+8	3	0	CD	_	12	nmod	_	U-CARDINAL
+9	D	d	NNP	pos2=NNS	12	compound	_	O
+10	Printing	printing	NNP	pos2=VBG	12	compound	_	O
+11	YouTube	youtube	NNP	_	12	compound	_	O
+12	Rings	ring	NNPS	pos2=NNP	15	nmod	_	O
+13	-	-	:	pos2=HYPH	15	punct	_	O
+14	wasLIVE	waslive	GW	pos2=ADD	15	nmod	_	O
+15	https://t.co/vCKTeJzzsJ	#hlink#	ADD	pos2=NN	5	dep	_	O
+

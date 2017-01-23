@@ -1,0 +1,19 @@
+1	The	the	DT	_	5	det	_	O
+2	5	0	CD	_	5	nmod	_	U-CARDINAL
+3	worst	bad	RBS	pos2=WP	4	advmod	_	O
+4	impacted	impact	VBN	pos2=JJ	5	nmod	_	O
+5	countries	country	NNS	_	11	nsubj	_	O
+6	from	from	IN	_	5	prep	_	O
+7	explosive	explosive	JJ	_	8	nmod	_	O
+8	violence	violence	NN	_	6	pobj	_	O
+9	last	last	JJ	_	10	nmod	_	B-DATE
+10	month	month	NN	_	11	npadvmod	_	L-DATE
+11	were	be	VBD	_	0	root	_	O
+12	:	:	:	_	11	punct	_	O
+13	#Syria	#syria	NNP	pos2=$	18	dep	_	B-PERSON
+14	#Yemen	#yemen	NNP	pos2=NNS	18	dep	_	L-PERSON
+15	#Iraq	#iraq	NNP	pos2=POS	17	compound	_	O
+16	#Afghanistan	#afghanistan	NNP	pos2=GW	17	compound	_	B-PERSON
+17	#Pakistan	#pakistan	NNP	pos2=ADD	18	dep	_	L-PERSON
+18	https://t.co/lRTj9RUs03	#hlink#	ADD	_	11	dep	_	O
+

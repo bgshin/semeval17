@@ -1,0 +1,15 @@
+1	@journalsentinel	@journalsentinel	UH	pos2=NN	4	discourse	_	O
+2	@Schneider_CM	@schneider_cm	NNP	pos2=POS	3	compound	_	O
+3	Trump	trump	NNP	pos2=NN	4	nsubj	_	U-ORG
+4	is	be	VBZ	_	0	root	_	O
+5	n't	not	RB	_	4	neg	_	O
+6	a	a	DT	_	7	det	_	O
+7	conservative	conservative	NN	pos2=JJ	4	attr	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	Real	real	JJ	_	2	nmod	_	O
+2	conservatives	conservative	NNS	_	3	nsubj	_	O
+3	hate	hate	VBP	pos2=VB	0	root	_	O
+4	him	him	PRP	_	3	dobj	_	O
+5	.	.	.	_	3	punct	_	O
+

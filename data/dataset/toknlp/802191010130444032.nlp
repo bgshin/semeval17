@@ -1,0 +1,9 @@
+1	https://t.co/3136zoBpYd	#hlink#	ADD	_	0	root	_	O
+2	#hatchimals	#hatchimals	NNS	pos2=VBZ	0	root	_	O
+3	#giveaway	#giveaway	UH	pos2=RB	1	discourse	_	O
+4	#gtk	#gtk	UH	pos2=MD	1	discourse	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	wan	wan	VBP	_	2	ccomp	_	O
+7	na	to	TO	_	8	aux	_	O
+8	win	win	VB	pos2=NN	6	xcomp	_	O
+

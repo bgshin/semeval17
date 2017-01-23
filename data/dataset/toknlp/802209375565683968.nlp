@@ -1,0 +1,31 @@
+1	Lines	line	NNS	pos2=NNP	12	nsubj	_	O
+2	you	you	PRP	_	5	nsubj	_	O
+3	did	do	VBD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	expect	expect	VB	_	1	relcl	_	O
+6	to	to	TO	_	7	aux	_	O
+7	write	write	VB	_	5	xcomp	_	O
+8	:	:	:	_	5	punct	_	O
+9	"	"	``	pos2=''	12	punct	_	O
+10	Steven	steven	NNP	_	11	compound	_	B-PERSON
+11	Seagal	seagal	NNP	_	12	nsubj	_	L-PERSON
+12	signed	sign	VBD	_	0	root	_	O
+13	his	his	PRP$	_	14	poss	_	O
+14	passport	passport	NN	_	12	dobj	_	O
+15	in	in	IN	_	12	prep	_	O
+16	front	front	NN	_	15	pobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	Vladimir	vladimir	NNP	_	19	compound	_	B-PERSON
+19	Putin	putin	NNP	_	17	pobj	_	L-PERSON
+20	at	at	IN	_	12	prep	_	O
+21	the	the	DT	_	22	det	_	O
+22	Kremlin	kremlin	NNP	_	20	pobj	_	U-ORG
+23	.	.	.	_	12	punct	_	O
+24	"	"	''	_	12	punct	_	O
+
+1	2016	0	CD	_	3	nsubj	_	U-DATE
+2	has	have	VBZ	_	3	aux	_	O
+3	been	be	VBN	_	0	root	_	O
+4	mad	mad	JJ	_	3	acomp	_	O
+5	.	.	.	_	3	punct	_	O
+

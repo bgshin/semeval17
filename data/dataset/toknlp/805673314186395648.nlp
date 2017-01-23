@@ -1,0 +1,22 @@
+1	GAY	gay	JJ	pos2=NNP	2	nmod	_	O
+2	marriage	marriage	NN	_	7	dep	_	O
+3	;	;	,	pos2=:	6	punct	_	O
+4	MALES	male	NNS	pos2=NNPS	6	nsubj	_	O
+5	mentally	mentally	RB	_	6	advmod	_	O
+6	portraying	portray	VBG	pos2=JJ	0	root	_	O
+7	females	female	NNS	_	6	dobj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	women	woman	NNS	pos2=JJ	10	compound	_	O
+10	bathrooms	bathroom	NNS	_	8	pobj	_	O
+11	,	,	,	_	6	punct	_	O
+12	and	and	CC	_	6	cc	_	O
+13	now	now	RB	pos2=JJ	15	advmod	_	O
+14	liberals	liberal	NNS	pos2=NNPS	15	nsubj	_	O
+15	want	want	VBP	_	6	conj	_	O
+16	INCEST	incest	NN	pos2=NNP	17	compound	_	O
+17	MARRIAGE	marriage	NN	_	15	dobj	_	O
+18	!	!	.	_	15	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/9tm9nQhjny	#hlink#	ADD	pos2=NN	0	root	_	O
+

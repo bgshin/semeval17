@@ -1,0 +1,36 @@
+1	Pres.	pres.	NNP	pos2=FW	2	compound	_	O
+2	Trump	trump	NNP	pos2=NN	4	vocative	_	U-PERSON
+3	,	,	,	_	4	punct	_	O
+4	work	work	VB	pos2=NN	0	root	_	O
+5	with	with	IN	_	4	prep	_	O
+6	Ben	ben	NNP	_	7	compound	_	B-PERSON
+7	Carson	carson	NNP	_	5	pobj	_	L-PERSON
+8	.	.	.	_	4	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	smart	smart	JJ	_	2	acomp	_	O
+4	,	,	,	_	19	punct	_	O
+5	a	a	DT	_	6	det	_	O
+6	man	man	NN	_	19	nsubj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	God	god	NNP	_	7	pobj	_	O
+9	,	,	,	_	19	punct	_	O
+10	wise	wise	JJ	_	19	advmod	_	O
+11	,	,	,	_	19	punct	_	O
+12	faithful	faithful	JJ	_	19	advmod	_	O
+13	,	,	,	_	19	punct	_	O
+14	loyal	loyal	JJ	_	19	advmod	_	O
+15	,	,	,	_	19	punct	_	O
+16	not	not	RB	_	17	neg	_	O
+17	arrogant	arrogant	JJ	_	19	advmod	_	O
+18	,	,	,	_	19	punct	_	O
+19	honest	honest	JJ	_	20	pcomp	_	O
+20	.	.	.	_	2	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	wise	wise	JJ	_	4	nmod	_	O
+4	council	council	NN	_	2	attr	_	O
+5	.	.	.	_	2	punct	_	O
+

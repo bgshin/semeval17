@@ -1,0 +1,21 @@
+1	https://t.co/N3bvuFKXPi	#hlink#	ADD	pos2=NNP	4	dep	_	O
+2	Westword	westword	NNP	pos2=NN	3	compound	_	U-ORG
+3	writer	writer	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	to	to	IN	_	4	prep	_	O
+6	co-writing	co-write	VBG	_	5	pcomp	_	O
+7	Last	last	JJ	pos2=NNP	6	advmod	_	O
+8	of	of	IN	_	7	prep	_	O
+9	Us	us	NNP	pos2=PRP	10	compound	_	O
+10	Part	part	NNP	pos2=NN	8	pobj	_	O
+11	2.	0.	.	pos2=WP	10	nmod	_	O
+12	I	I	PRP	_	13	nsubj	_	O
+13	'm	be	VBP	_	4	conj	_	O
+14	totally	totally	RB	_	15	advmod	_	O
+15	100	0	CD	_	16	nmod	_	B-PERCENT
+16	%	%	NN	_	12	appos	_	L-PERCENT
+17	okay	okay	JJ	pos2=RB	13	acomp	_	O
+18	with	with	IN	_	17	prep	_	O
+19	that	that	DT	_	18	pobj	_	O
+20	.	.	.	_	13	punct	_	O
+

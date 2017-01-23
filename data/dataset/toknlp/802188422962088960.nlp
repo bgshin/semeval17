@@ -1,0 +1,11 @@
+1	Valentines	valentines	NNP	pos2=NNS	3	compound	_	B-EVENT
+2	Day	day	NNP	pos2=NN	3	compound	_	L-EVENT
+3	Recipes	recipe	NNPS	pos2=NNP	4	compound	_	O
+4	Kids	kid	NNS	pos2=NNPS	10	dep	_	O
+5	:	:	:	_	10	punct	_	O
+6	Strawberry	strawberry	NNP	pos2=NN	8	compound	_	B-WORK_OF_ART
+7	Ice	ice	NNP	pos2=NN	8	compound	_	I-WORK_OF_ART
+8	Cream	cream	NNP	pos2=NN	9	compound	_	I-WORK_OF_ART
+9	Cookie	cookie	NN	pos2=NNP	10	dep	_	L-WORK_OF_ART
+10	https://t.co/ZiHCh8CW6q	#hlink#	ADD	pos2=NN	0	root	_	O
+

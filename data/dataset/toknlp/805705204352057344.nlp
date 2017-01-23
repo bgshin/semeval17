@@ -1,0 +1,11 @@
+1	Power	power	NN	pos2=NNP	10	dep	_	O
+2	,	,	,	_	1	punct	_	O
+3	populism	populism	NN	_	1	conj	_	O
+4	and	and	CC	_	3	cc	_	O
+5	control	control	NN	_	3	conj	_	O
+6	:	:	:	_	10	punct	_	O
+7	A	a	DT	pos2=NNP	9	det	_	O
+8	Brexit	brexit	NNP	pos2=GW	9	compound	_	O
+9	tale	tale	NN	pos2=GW	10	dep	_	O
+10	https://t.co/JeVIrs7kDn	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,13 @@
+1	Kansas	kansas	NNP	_	2	compound	_	B-GPE
+2	City	city	NNP	_	3	nsubj	_	L-GPE
+3	prepares	prepare	VBZ	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	self	self	NN	_	6	npadvmod	_	O
+6	driving	drive	VBG	pos2=JJ	4	pcomp	_	O
+7	cars	car	NNS	_	6	dobj	_	O
+8	https://t.co/EcvjWOFdzm	#hlink#	ADD	pos2=RBR	12	nsubj	_	O
+9	via	via	IN	_	3	prep	_	O
+10	https://t.co/KbLrUJOkwT	#hlink#	ADD	_	9	pobj	_	O
+11	#driverless	#driverless	IN	pos2=-RRB-	6	prep	_	O
+12	#selfdriving	#selfdriving	VBG	pos2=UH	11	pobj	_	O
+

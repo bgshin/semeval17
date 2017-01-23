@@ -1,0 +1,8 @@
+1	Step	step	VB	pos2=NN	0	root	_	O
+2	aside	aside	RB	pos2=IN	1	advmod	_	O
+3	self-driving	self-driving	JJ	pos2=NN	4	nmod	_	O
+4	cars	car	NNS	_	1	dobj	_	O
+5	:	:	:	_	1	punct	_	O
+6	https://t.co/IgaMCZSR8T	#hlink#	ADD	pos2=NN	1	dep	_	O
+7	#linksomnia	#linksomnia	-RRB-	pos2=ADD	1	punct	_	O
+

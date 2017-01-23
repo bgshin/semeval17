@@ -1,0 +1,24 @@
+1	Saakashvili	saakashvili	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	hijacking	hijack	VBG	pos2=NN	7	csubj	_	O
+3	the	the	DT	_	5	det	_	O
+4	Rukh	rukh	NNP	_	5	compound	_	U-PERSON
+5	brand	brand	NN	_	2	dobj	_	O
+6	will	will	MD	_	7	aux	_	O
+7	leave	leave	VB	_	0	root	_	O
+8	a	a	DT	_	10	det	_	O
+9	bad	bad	JJ	_	10	nmod	_	O
+10	taste	taste	NN	_	7	dobj	_	O
+11	among	among	IN	_	10	prep	_	O
+12	many	many	JJ	_	11	pobj	_	O
+13	.	.	.	_	7	punct	_	O
+
+1	Rukh	rukh	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	was	be	VBD	_	0	root	_	O
+3	the	the	DT	_	6	det	_	O
+4	original	original	JJ	_	6	nmod	_	O
+5	early	early	JJ	_	6	nmod	_	O
+6	1990s	0s	NNS	_	2	attr	_	O
+7	independe	independe	JJ	pos2=VBP	6	nmod	_	O
+8	…	…	NFP	pos2=-LRB-	2	discourse	_	O
+9	https://t.co/8NhiamGSGd	#hlink#	ADD	pos2=NN	6	appos	_	O
+

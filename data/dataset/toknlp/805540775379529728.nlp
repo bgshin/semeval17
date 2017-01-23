@@ -1,0 +1,17 @@
+1	Documentary	documentary	NN	pos2=NNP	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	A	a	DT	pos2=JJ	4	det	_	O
+4	Look	look	NN	pos2=NNP	0	root	_	O
+5	At	at	IN	_	4	prep	_	O
+6	Everyday	everyday	NNP	_	7	compound	_	O
+7	Life	life	NN	pos2=NNP	5	pobj	_	O
+8	In	in	IN	pos2=NNP	7	prep	_	O
+9	Cuba	cuba	NNP	_	8	pobj	_	O
+10	Beyond	beyond	IN	pos2=NNP	7	prep	_	O
+11	The	the	DT	_	15	det	_	O
+12	Embargo	embargo	NNP	_	14	compound	_	O
+13	–	-	HYPH	_	14	punct	_	O
+14	DUNIA	dunia	NNP	_	15	compound	_	O
+15	Magazine	magazine	NNP	pos2=NN	10	pobj	_	O
+16	https://t.co/SRSsQfy7Bo	#hlink#	ADD	_	4	prep	_	O
+

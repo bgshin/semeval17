@@ -1,0 +1,24 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@noclador	@noclador	PRP$	pos2=IN	2	poss	_	O
+2	followers	follower	NNS	_	4	nsubj	_	O
+3	suddenly	suddenly	RB	_	4	advmod	_	O
+4	shot	shoot	VBD	_	0	root	_	O
+5	up	up	RB	pos2=RP	4	advmod	_	O
+6	about	about	RB	pos2=IN	7	advmod	_	B-CARDINAL
+7	1,000	0	CD	_	8	nmod	_	L-CARDINAL
+8	Nov	nov	NNP	_	4	npadvmod	_	O
+9	1	0	CD	_	8	npadvmod	_	O
+10	to	to	IN	pos2=TO	4	prep	_	O
+11	9.	0.	CD	pos2=NNP	10	pobj	_	O
+12	Today	today	NN	pos2=NNP	4	npadvmod	_	O
+13	he	he	PRP	_	14	nsubj	_	O
+14	deleted	delete	VBD	_	17	ccomp	_	O
+15	tweets	tweet	NNS	_	14	dobj	_	O
+16	,	,	,	_	21	punct	_	O
+17	reTweeted	retweeted	VBN	pos2=VBD	4	advcl	_	O
+18	@AndreaChalupa	@andreachalupa	NNP	pos2=NNS	17	dobj	_	U-ORG
+19	to	to	IN	pos2=TO	17	prep	_	O
+20	…	…	NFP	pos2=VB	19	pobj	_	O
+21	https://t.co/qO4P1rkVMK	#hlink#	ADD	pos2=NN	19	pobj	_	O
+

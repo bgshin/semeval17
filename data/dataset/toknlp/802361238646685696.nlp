@@ -1,0 +1,16 @@
+1	Fuel	fuel	NN	pos2=JJ	2	compound	_	O
+2	efficiency	efficiency	NN	_	5	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	vehicles	vehicle	NNS	_	3	pobj	_	O
+5	improving	improve	VBG	_	0	root	_	O
+6	rapidly	rapidly	RB	_	5	advmod	_	O
+7	,	,	,	_	5	punct	_	O
+8	reducing	reduce	VBG	_	5	advcl	_	O
+9	pollution	pollution	NN	_	8	dobj	_	O
+10	,	,	,	_	8	punct	_	O
+11	hurting	hurt	VBG	_	8	conj	_	O
+12	fossil	fossil	NN	pos2=JJ	13	compound	_	O
+13	fuel	fuel	NN	_	14	compound	_	O
+14	industry.#ThankYouObama	industry.#thankyouobama	NN	pos2=GW	11	dobj	_	O
+15	https://t.co/MoHFH2KCbc	#hlink#	ADD	pos2=NN	8	dep	_	O
+

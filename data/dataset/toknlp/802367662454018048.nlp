@@ -1,0 +1,12 @@
+1	Abbreviated	abbreviate	VBN	pos2=JJ	3	nmod	_	O
+2	pundit	pundit	NN	pos2=JJ	3	compound	_	O
+3	roundup	roundup	NN	_	7	dep	_	O
+4	:	:	:	_	7	punct	_	O
+5	Trump	trump	NNP	pos2=NN	7	compound	_	U-ORG
+6	packs	pack	NNS	pos2=VBZ	7	compound	_	O
+7	cabinet	cabinet	NN	pos2=VBP	11	dep	_	O
+8	with	with	IN	_	7	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	megarich	megarich	NN	pos2=GW	8	pobj	_	O
+11	https://t.co/DgoIkkofDH	#hlink#	ADD	_	0	root	_	U-ORG
+

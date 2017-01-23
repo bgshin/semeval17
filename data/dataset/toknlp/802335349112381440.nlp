@@ -1,0 +1,20 @@
+1	@MotherJones	@motherjones	NNS	pos2=VBZ	3	compound	_	O
+2	Obama	obama	NNP	pos2=NN	3	compound	_	U-PERSON
+3	Admin	admin	NN	pos2=NNP	6	dep	_	O
+4	:	:	:	_	6	punct	_	O
+5	Feds	fed	NNS	pos2=NNPS	6	nsubj	_	O
+6	hope	hope	VBP	_	0	root	_	O
+7	to	to	TO	pos2=IN	8	aux	_	O
+8	drill	drill	VB	_	6	xcomp	_	O
+9	Arctic	arctic	NNP	_	10	compound	_	B-LOC
+10	Ocean	ocean	NNP	_	8	dobj	_	L-LOC
+11	,	,	,	_	6	punct	_	O
+12	despite	despite	IN	_	6	prep	_	O
+13	climate	climate	NN	_	14	compound	_	O
+14	change	change	NN	_	12	pobj	_	O
+15	,	,	,	_	19	punct	_	O
+16	oil	oil	NN	_	17	compound	_	O
+17	spill	spill	NN	_	18	compound	_	O
+18	risks	risk	NNS	pos2=VBZ	19	dep	_	O
+19	https://t.co/SVjE7EVBdM	#hlink#	ADD	_	6	dep	_	U-GPE
+

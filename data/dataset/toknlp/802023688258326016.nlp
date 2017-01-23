@@ -1,0 +1,10 @@
+1	You	you	PRP	_	2	nsubj	_	O
+2	seem	seem	VBP	_	0	root	_	O
+3	like	like	IN	_	2	prep	_	O
+4	a	a	DT	_	6	det	_	O
+5	Grayson	grayson	NNP	_	6	compound	_	B-PERSON
+6	Allen	allen	NNP	_	3	pobj	_	L-PERSON
+7	kinda	kinda	RB	pos2=GW	8	advmod	_	O
+8	guy	guy	NN	pos2=GW	9	dep	_	O
+9	https://t.co/3B6kYJWEof	#hlink#	ADD	_	6	appos	_	O
+

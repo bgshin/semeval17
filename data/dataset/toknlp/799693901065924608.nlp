@@ -1,0 +1,34 @@
+1	#Trump	#trump	NNP	pos2=NN	7	vocative	_	U-PERSON
+2	;	;	,	pos2=:	7	punct	_	O
+3	'	'	''	pos2=``	7	punct	_	O
+4	I	I	PRP	_	7	nsubj	_	O
+5	ca	can	MD	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	wait	wait	VB	_	0	root	_	O
+8	to	to	TO	_	9	aux	_	O
+9	see	see	VB	_	7	xcomp	_	O
+10	your	your	PRP$	_	12	poss	_	O
+11	huge	huge	JJ	_	12	nmod	_	O
+12	erection	erection	NN	_	9	dobj	_	O
+13	on	on	IN	_	9	prep	_	O
+14	the	the	DT	_	16	det	_	O
+15	Mexican	mexican	JJ	pos2=NNP	16	nmod	_	U-NORP
+16	border	border	NN	_	18	poss	_	O
+17	'	'	POS	pos2=''	16	case	_	O
+18	Sessions	session	NNS	_	13	pobj	_	O
+19	;	;	,	pos2=:	7	punct	_	O
+20	*	*	NFP	pos2=SYM	23	punct	_	O
+21	do	do	VB	pos2=VBP	23	aux	_	O
+22	n't	not	RB	_	23	neg	_	O
+23	make	make	VB	_	7	dep	_	O
+24	eye	eye	NN	_	25	compound	_	O
+25	contact	contact	NN	_	28	nmod	_	O
+26	*	*	SYM	pos2=RBR	25	punct	_	O
+27	'	'	''	pos2=POS	28	punct	_	O
+28	FFS	ffs	NN	pos2=NNS	23	dobj	_	O
+29	!	!	.	pos2=,	7	punct	_	O
+
+1	I	I	PRP	_	3	nmod	_	O
+2	…	…	NFP	pos2=VBP	3	punct	_	O
+3	https://t.co/oJ9Sn91vR3	#hlink#	ADD	_	0	root	_	U-ORG
+

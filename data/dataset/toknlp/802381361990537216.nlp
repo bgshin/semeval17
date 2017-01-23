@@ -1,0 +1,22 @@
+1	Bob	bob	NNP	_	2	compound	_	B-PERSON
+2	Dylan	dylan	NNP	_	3	nsubj	_	L-PERSON
+3	performs	perform	VBZ	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	full	full	JJ	_	6	nmod	_	O
+6	version	version	NN	_	3	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	his	his	PRP$	_	12	poss	_	O
+9	9th	#ord#	JJ	pos2=NN	12	nmod	_	U-ORDINAL
+10	highest	high	RBS	pos2=JJS	11	advmod	_	O
+11	charting	chart	VBG	_	12	nmod	_	O
+12	single	single	JJ	pos2=NN	7	pobj	_	O
+13	,	,	,	_	12	punct	_	O
+14	Hurricane	hurricane	NNP	pos2=NN	15	nsubj	_	O
+15	live	live	JJ	pos2=VBP	12	conj	_	O
+16	and	and	CC	_	15	cc	_	O
+17	uncensored	uncensored	JJ	_	15	conj	_	O
+18	in	in	IN	_	15	prep	_	O
+19	1975	0	CD	_	18	pobj	_	O
+20	-	-	:	pos2=HYPH	21	punct	_	O
+21	https://t.co/nJ9rHJE7cp	#hlink#	ADD	pos2=NN	6	appos	_	O
+

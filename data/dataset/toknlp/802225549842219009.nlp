@@ -1,0 +1,20 @@
+1	#Ukraine	#ukraine	NNP	pos2=NN	4	compound	_	B-LAW
+2	#Poroshenko	#poroshenko	NNP	pos2=POS	4	compound	_	I-LAW
+3	Signs	sign	NNPS	pos2=NNS	4	compound	_	I-LAW
+4	Law	law	NNP	_	0	root	_	L-LAW
+5	That	that	WDT	pos2=NNP	6	nsubj	_	O
+6	Allows	allow	VBZ	pos2=NNP	4	relcl	_	O
+7	Fining	fine	VBG	pos2=NNP	6	xcomp	_	O
+8	TV	tv	NN	pos2=NNP	7	dobj	_	O
+9	&	&	CC	_	8	cc	_	O
+10	Radio	radio	NNP	pos2=NN	11	compound	_	O
+11	Stations	station	NNPS	pos2=NNP	8	conj	_	O
+12	For	for	IN	pos2=NNP	7	prep	_	O
+13	"	"	``	_	14	punct	_	O
+14	Separatism	separatism	NN	pos2=NNP	12	pobj	_	O
+15	"	"	''	_	14	punct	_	O
+16	https://t.co/nzbv9RYvl1	#hlink#	ADD	pos2=NN	14	appos	_	O
+17	via	via	IN	_	7	prep	_	O
+18	@O_Rich	@o_rich	NNP	pos2=NN	17	pobj	_	O
+19	_	_	SYM	pos2=''	4	punct	_	O
+

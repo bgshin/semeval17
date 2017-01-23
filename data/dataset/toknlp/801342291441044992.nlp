@@ -1,0 +1,13 @@
+1	Scenes	scene	NNS	_	7	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	#MosulOffensive	#mosuloffensive	NNP	pos2=JJ	2	pobj	_	O
+4	&	&	CC	_	3	cc	_	O
+5	humanitarian	humanitarian	JJ	_	6	nmod	_	O
+6	crisis	crisis	NN	_	3	conj	_	O
+7	@SergeyPonomarev	@sergeyponomarev	ADD	pos2=XX	0	root	_	O
+8	and	and	CC	_	7	cc	_	O
+9	@tarangoNYT	@tarangonyt	ADD	pos2=VB	7	conj	_	O
+10	via	via	IN	pos2=GW	7	prep	_	O
+11	@nytimes	@nytimes	ADD	pos2=-LRB-	10	pobj	_	O
+12	https://t.co/LsnKUOhxMw	#hlink#	ADD	pos2=NN	10	pobj	_	O
+

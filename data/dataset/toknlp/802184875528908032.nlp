@@ -1,0 +1,25 @@
+1	She	she	PRP	_	4	nsubj	_	O
+2	was	be	VBD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	rejoicing	rejoice	VBG	pos2=NN	12	ccomp	_	O
+5	because	because	IN	_	8	mark	_	O
+6	Israelis	israeli	NNPS	_	8	nsubj	_	U-NORP
+7	are	be	VBP	_	8	aux	_	O
+8	burning	burn	VBG	_	4	advcl	_	O
+9	,	,	,	_	12	punct	_	O
+10	no	no	UH	pos2=DT	12	discourse	_	O
+11	she	she	PRP	_	12	nsubj	_	O
+12	cried	cry	VBD	_	0	root	_	O
+13	for	for	IN	_	12	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	land	land	NN	_	13	pobj	_	O
+16	grew	grow	VBD	_	12	advcl	_	O
+17	up	up	RP	_	16	prt	_	O
+18	on	on	IN	pos2=RB	16	prep	_	O
+19	but	but	CC	_	12	cc	_	O
+20	will	will	MD	_	22	aux	_	O
+21	never	never	RB	_	22	neg	_	O
+22	see	see	VB	_	12	conj	_	O
+23	again	again	RB	_	22	advmod	_	O
+24	#Palestine	#palestine	NNP	pos2=ADD	22	vocative	_	U-NORP
+

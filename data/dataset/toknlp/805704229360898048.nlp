@@ -1,0 +1,27 @@
+1	Behind	behind	IN	pos2=NNP	9	prep	_	O
+2	Varane	varane	NNP	_	1	pobj	_	B-ORG
+3	&	&	CC	_	2	cc	_	I-ORG
+4	Carvajal	carvajal	NNP	_	2	conj	_	L-ORG
+5	,	,	,	_	9	punct	_	O
+6	on	on	IN	_	9	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	list	list	NN	_	6	pobj	_	O
+9	are	be	VBP	_	0	root	_	O
+10	Cristiano	cristiano	NNP	_	11	compound	_	B-PERSON
+11	Ronaldo	ronaldo	NNP	_	9	attr	_	L-PERSON
+12	,	,	,	_	11	punct	_	O
+13	Kroos	kroos	NNP	_	11	conj	_	U-PERSON
+14	and	and	CC	_	13	cc	_	O
+15	Bale	bale	NNP	pos2=NN	13	conj	_	U-PERSON
+16	.	.	.	_	9	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	three	#crd#	CD	_	3	nsubj	_	U-CARDINAL
+3	have	have	VBP	_	5	aux	_	O
+4	all	all	DT	pos2=RB	5	advmod	_	O
+5	played	play	VBN	pos2=VBD	0	root	_	O
+6	over	over	IN	pos2=RB	5	prep	_	O
+7	1300	0	CD	_	8	nmod	_	B-TIME
+8	minutes	minute	NNS	_	6	pobj	_	L-TIME
+9	.	.	.	_	5	punct	_	O
+

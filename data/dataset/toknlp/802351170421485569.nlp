@@ -1,0 +1,29 @@
+1	@maddow	@maddow	UH	pos2=VB	3	discourse	_	O
+2	Too	too	RB	_	3	advmod	_	O
+3	bad	bad	JJ	_	7	advmod	_	O
+4	,	,	,	_	7	punct	_	O
+5	the	the	DT	_	6	det	_	O
+6	FIX	fix	NN	pos2=NNP	7	nsubj	_	O
+7	is	be	VBZ	_	0	root	_	O
+8	in	in	IN	pos2=RB	7	prep	_	O
+9	for	for	IN	_	8	prep	_	O
+10	Pelosi	pelosi	NNP	_	9	pobj	_	U-PERSON
+11	!	!	.	_	7	punct	_	O
+
+1	democrates	democrat	NNS	pos2=PRP	4	nsubj	_	O
+2	ca	can	MD	pos2=NN	4	aux	_	O
+3	nt	nt	RB	_	4	advmod	_	O
+4	having	have	VBG	_	12	advcl	_	O
+5	somone	somone	NN	_	6	nsubj	_	O
+6	work	work	VB	pos2=NN	4	ccomp	_	O
+7	on	on	IN	_	6	prep	_	O
+8	REAL	real	JJ	pos2=NN	9	nmod	_	O
+9	problems	problem	NNS	_	7	pobj	_	O
+10	,	,	,	_	12	punct	_	O
+11	they	they	PRP	_	12	nsubj	_	O
+12	need	need	VBP	_	0	root	_	O
+13	to	to	TO	_	14	aux	_	O
+14	keep	keep	VB	_	12	xcomp	_	O
+15	BASHING	bash	VBG	pos2=NN	14	xcomp	_	O
+16	@realDonaldTrump	@realdonaldtrump	NN	pos2=NNS	15	dobj	_	O
+

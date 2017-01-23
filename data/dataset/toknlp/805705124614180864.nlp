@@ -1,0 +1,20 @@
+1	Ireland	ireland	NNP	_	4	poss	_	U-GPE
+2	's	's	POS	_	1	case	_	O
+3	economic	economic	JJ	_	4	nmod	_	O
+4	fortunes	fortune	NNS	_	5	nsubj	_	O
+5	look	look	VBP	pos2=VB	0	root	_	O
+6	good	good	JJ	_	5	acomp	_	O
+7	-	-	,	pos2=:	5	punct	_	O
+8	but	but	CC	_	5	cc	_	O
+9	Brexit	brexit	NNP	_	4	appos	_	U-GPE
+10	,	,	,	_	16	punct	_	O
+11	EU	eu	NNP	pos2=VBG	13	compound	_	U-ORG
+12	tax	tax	NN	_	13	compound	_	O
+13	rules	rule	NNS	_	16	nsubj	_	O
+14	and	and	CC	_	13	cc	_	O
+15	housing	housing	NN	_	13	conj	_	O
+16	are	be	VBP	_	5	conj	_	O
+17	wildcards	wildcards	NNS	pos2=GW	16	attr	_	O
+18	https://t.co/4oCuCkU48r	#hlink#	ADD	_	19	nmod	_	O
+19	https://t.co/fFszxyqMw8	#hlink#	ADD	_	16	punct	_	U-ORG
+

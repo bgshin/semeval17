@@ -1,0 +1,20 @@
+1	Suarez	suarez	NNP	pos2=JJ	2	nsubj	_	U-PERSON
+2	putting	put	VBG	_	0	root	_	O
+3	ice	ice	NN	_	4	compound	_	O
+4	cubes	cube	NNS	pos2=VBZ	2	dobj	_	O
+5	down	down	IN	pos2=RP	2	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	back	back	NN	_	5	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	Neymar	neymar	NNP	_	11	poss	_	U-ORG
+10	's	's	POS	_	9	case	_	O
+11	shirt	shirt	NN	_	8	pobj	_	O
+12	during	during	IN	_	2	prep	_	O
+13	warm	warm	JJ	pos2=VBG	15	nmod	_	O
+14	up	up	RP	pos2=NN	13	prt	_	O
+15	yesterday	yesterday	NN	_	12	pobj	_	U-DATE
+16	.	.	.	_	2	punct	_	O
+
+1	#fcblive	#fcblive	UH	pos2=ADD	2	discourse	_	O
+2	https://t.co/I4f5Iu26Mp	#hlink#	ADD	pos2=NN	0	root	_	O
+

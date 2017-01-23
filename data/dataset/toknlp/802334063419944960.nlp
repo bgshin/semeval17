@@ -1,0 +1,17 @@
+1	@CsmcPhlospher	@csmcphlospher	ADD	pos2=UH	5	advmod	_	O
+2	@ArepaEater	@arepaeater	GW	pos2=NNP	0	root	_	O
+3	A	a	DT	_	6	det	_	O
+4	very	very	RB	_	5	advmod	_	O
+5	good	good	JJ	_	6	nmod	_	O
+6	description	description	NN	_	2	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Maduro	maduro	NNP	_	7	pobj	_	U-PERSON
+9	:	:	:	pos2=HYPH	6	punct	_	O
+10	PIN	pin	NN	_	11	compound	_	O
+11	HEAD	head	NN	_	6	appos	_	O
+12	.	.	.	_	1	punct	_	O
+
+1	Thank	thank	VBP	_	0	root	_	O
+2	you	you	PRP	_	1	dobj	_	O
+3	.	.	.	_	1	punct	_	O
+

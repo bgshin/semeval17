@@ -1,0 +1,15 @@
+1	Libs	libs	NNP	pos2=NNS	4	compound	_	U-ORG
+2	voter	voter	NN	_	3	compound	_	O
+3	suppression	suppression	NN	_	4	compound	_	O
+4	argument	argument	NN	_	5	nsubj	_	O
+5	rises	rise	VBZ	_	0	root	_	O
+6	again	again	RB	_	5	advmod	_	O
+7	.	.	.	_	5	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	election	election	NN	_	5	nsubjpass	_	O
+3	really	really	RB	_	5	advmod	_	O
+4	was	be	VBD	_	5	auxpass	_	O
+5	rigged	rig	VBN	pos2=JJ	0	root	_	O
+6	https://t.co/8p4pu6Fhpb	#hlink#	ADD	_	5	dobj	_	O
+

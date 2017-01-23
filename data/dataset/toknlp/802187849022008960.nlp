@@ -1,0 +1,11 @@
+1	They	they	PRP	_	3	nsubj	_	O
+2	'll	will	MD	_	3	aux	_	O
+3	remember	remember	VB	_	0	root	_	O
+4	this	this	DT	_	5	det	_	B-TIME
+5	night	night	NN	_	3	dobj	_	L-TIME
+6	forever	forever	RB	_	3	advmod	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	#ThisIsUs	#thisisus	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/UT0Nl5eh2y	#hlink#	ADD	_	0	root	_	O
+

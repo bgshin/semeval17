@@ -1,0 +1,10 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	think	think	VBP	_	0	root	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	'm	be	VBP	_	2	ccomp	_	O
+5	in	in	IN	pos2=VBG	4	prep	_	O
+6	love	love	NN	_	5	pobj	_	O
+7	with	with	IN	_	4	prep	_	O
+8	David	david	NNP	_	9	compound	_	B-PERSON
+9	Blaine	blaine	NNP	_	7	pobj	_	L-PERSON
+

@@ -1,0 +1,15 @@
+1	Tonight	tonight	NN	_	2	nsubj	_	U-TIME
+2	was	be	VBD	_	0	root	_	O
+3	one	#crd#	CD	_	2	attr	_	U-CARDINAL
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	coolest	cool	JJS	_	7	nmod	_	O
+7	nights	night	NNS	_	4	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	my	my	PRP$	_	10	poss	_	O
+10	life	life	NN	_	8	pobj	_	O
+11	#jazz	#jazz	IN	pos2=XX	14	nmod	_	O
+12	@kdham35	@kdham0	GW	pos2=CD	14	nmod	_	O
+13	@utahjazz	@utahjazz	GW	pos2=IN	14	nmod	_	O
+14	https://t.co/5XmeT00D5p	#hlink#	ADD	pos2=NN	2	dep	_	O
+

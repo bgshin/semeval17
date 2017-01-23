@@ -1,0 +1,9 @@
+1	Did	do	VBD	_	3	aux	_	O
+2	y'all	y'all	PRP	_	3	nsubj	_	O
+3	see	see	VB	_	0	root	_	O
+4	verlander	verlander	NN	pos2=NNP	5	compound	_	U-PERSON
+5	score	score	NN	pos2=VB	3	dobj	_	O
+6	that	that	DT	pos2=WDT	7	det	_	O
+7	goal	goal	NN	_	3	npadvmod	_	O
+8	?	?	.	_	3	punct	_	O
+

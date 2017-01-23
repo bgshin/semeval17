@@ -1,0 +1,28 @@
+1	1980	0	CD	pos2=LS	4	nsubj	_	U-DATE
+2	Do	do	VB	pos2=VBP	4	aux	_	O
+3	nt	nt	RB	_	4	advmod	_	O
+4	get	get	VB	_	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	a	a	DT	_	7	det	_	O
+7	stranger	stranger	NN	_	9	poss	_	O
+8	's	's	POS	_	7	case	_	O
+9	car.1998	car.0	NN	pos2=NNPS	5	pobj	_	O
+10	Do	do	VBP	pos2=VB	12	aux	_	O
+11	nt	nt	RB	_	12	advmod	_	O
+12	meet	meet	VB	_	4	dep	_	O
+13	someone	someone	NN	_	12	dobj	_	O
+14	from	from	IN	_	13	prep	_	O
+15	the	the	DT	_	16	det	_	O
+16	Internet	internet	NN	pos2=NNP	14	pobj	_	O
+17	.	.	.	_	4	punct	_	O
+
+1	2016	0	CD	pos2=LS	2	nsubj	_	U-CARDINAL
+2	Use	use	VB	pos2=NN	0	root	_	O
+3	internet	internet	NN	_	2	dobj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	meet	meet	VB	_	2	xcomp	_	O
+6	people	people	NNS	_	9	dep	_	O
+7	whos	who	NNS	pos2=GW	9	nmod	_	O
+8	…	…	NFP	pos2=:	9	punct	_	O
+9	https://t.co/oTMPEqaZOW	#hlink#	ADD	pos2=NN	5	dobj	_	O
+

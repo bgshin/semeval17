@@ -1,0 +1,31 @@
+1	@AliAbunimah	@aliabunimah	UH	pos2=NNP	4	discourse	_	O
+2	@adamjohnsonNYC	@adamjohnsonnyc	ADD	pos2=VB	4	punct	_	O
+3	this	this	DT	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	what	what	WP	_	9	dobj	_	O
+6	I	I	PRP	_	9	nsubj	_	O
+7	do	do	VBP	_	9	aux	_	O
+8	n't	not	RB	_	9	neg	_	O
+9	understand	understand	VB	_	4	ccomp	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	How	how	WRB	_	2	advmod	_	O
+2	many	many	JJ	_	4	nmod	_	O
+3	real	real	JJ	_	4	nmod	_	O
+4	leftists	leftist	NNS	_	5	attr	_	O
+5	are	be	VBP	_	0	root	_	O
+6	there	there	EX	pos2=RB	5	expl	_	O
+7	in	in	IN	_	5	prep	_	O
+8	US	us	NNP	_	7	pobj	_	U-GPE
+9	?	?	.	_	5	punct	_	O
+
+1	Fifty	#crd#	CD	pos2=NNP	2	nmod	_	B-FAC
+2	K	k	NNP	pos2=NNS	0	root	_	L-FAC
+3	?	?	.	pos2=SYM	2	punct	_	O
+
+1	Would	would	MD	_	4	aux	_	O
+2	nt	nt	RB	_	4	advmod	_	O
+3	have	have	VB	_	4	aux	_	O
+4	swayed	sway	VBN	_	0	root	_	O
+5	anything	anything	NN	_	4	dobj	_	O
+

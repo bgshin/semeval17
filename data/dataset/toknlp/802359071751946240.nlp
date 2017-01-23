@@ -1,0 +1,26 @@
+1	Trump	trump	NN	pos2=NNP	2	nsubj	_	U-PERSON
+2	admitted	admit	VBD	_	0	root	_	O
+3	he	he	PRP	_	5	nsubj	_	O
+4	's	's	VBZ	pos2=CC	5	aux	_	O
+5	gon	gon	VBG	_	2	ccomp	_	O
+6	na	to	TO	_	7	aux	_	O
+7	screw	screw	VB	_	5	xcomp	_	O
+8	the	the	DT	_	9	det	_	O
+9	world	world	NN	_	7	dobj	_	O
+10	except	except	IN	_	7	prep	_	O
+11	his	his	PRP$	_	12	poss	_	O
+12	friends	friend	NNS	_	10	pobj	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	They	they	PRP	_	3	nsubj	_	O
+2	're	be	VBP	_	3	aux	_	O
+3	gon	gon	VBG	_	0	root	_	O
+4	na	to	TO	_	5	aux	_	O
+5	screw	screw	VB	pos2=NN	3	xcomp	_	O
+6	everyone	everyone	NN	_	5	dobj	_	O
+7	including	include	VBG	_	6	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	deplorable	deplorable	JJ	_	10	nmod	_	O
+10	…	…	NFP	pos2=-LRB-	7	pobj	_	O
+11	https://t.co/jpyjcoMWbA	#hlink#	ADD	_	7	pobj	_	O
+

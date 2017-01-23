@@ -1,0 +1,20 @@
+1	Think	think	VB	pos2=VBP	0	root	_	O
+2	Big	big	JJ	pos2=NNP	1	acomp	_	O
+3	:	:	:	_	1	punct	_	O
+4	Hey	hey	UH	_	8	discourse	_	O
+5	,,,,	,,	,	pos2=NFP	8	punct	_	O
+6	I	I	PRP	_	8	nsubj	_	O
+7	just	just	RB	_	8	advmod	_	O
+8	share	share	VBP	pos2=NN	1	dep	_	O
+9	.	.	.	_	1	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	only	only	RB	_	5	advmod	_	B-MONEY
+4	$	$	$	_	5	qmod	_	I-MONEY
+5	6.99	0	CD	_	2	attr	_	L-MONEY
+6	(	(	-LRB-	_	7	punct	_	O
+7	paperback	paperback	NN	_	5	appos	_	O
+8	)	)	-RRB-	pos2=GW	7	punct	_	O
+9	https://t.co/PY74F1lvY5	#hlink#	ADD	pos2=NN	2	dep	_	O
+

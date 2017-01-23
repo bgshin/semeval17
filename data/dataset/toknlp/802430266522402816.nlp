@@ -1,0 +1,22 @@
+1	@yishan	@yishan	NNP	pos2=ADD	2	nsubj	_	O
+2	Seems	seem	VBZ	_	0	root	_	O
+3	like	like	IN	_	7	mark	_	O
+4	Reddit	reddit	NNP	_	7	nsubj	_	U-ORG
+5	has	have	VBZ	_	7	aux	_	O
+6	never	never	RB	_	7	neg	_	O
+7	hired	hire	VBN	_	2	advcl	_	O
+8	a	a	DT	_	10	det	_	O
+9	single	single	JJ	_	10	nmod	_	O
+10	adult	adult	NN	_	7	dobj	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	Just	just	RB	pos2=DT	3	advmod	_	O
+2	crybaby	crybaby	NN	pos2=JJ	3	compound	_	O
+3	liberals	liberal	NNS	_	0	root	_	O
+4	with	with	IN	_	3	prep	_	O
+5	ZERO	#crd#	CD	pos2=NNP	6	nmod	_	U-CARDINAL
+6	logic	logic	NN	pos2=JJ	4	pobj	_	O
+7	or	or	CC	_	6	cc	_	O
+8	rational	rational	JJ	pos2=NN	6	conj	_	O
+9	.	.	.	_	3	punct	_	O
+

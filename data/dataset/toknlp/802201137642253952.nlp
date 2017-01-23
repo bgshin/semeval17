@@ -1,0 +1,19 @@
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=XX	0	root	_	O
+2	yes	yes	UH	_	1	discourse	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	Mr.	mr.	NNP	_	3	compound	_	O
+2	Ben	ben	NNP	_	3	compound	_	B-PERSON
+3	Carson	carson	NNP	_	5	nsubj	_	L-PERSON
+4	will	will	MD	_	5	aux	_	O
+5	be	be	VB	_	0	root	_	O
+6	a	a	DT	_	8	det	_	O
+7	great	great	JJ	_	8	nmod	_	O
+8	help	help	NN	_	5	attr	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	Go	go	VB	_	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	it	it	PRP	_	2	pobj	_	O
+4	.	.	.	_	1	punct	_	O
+

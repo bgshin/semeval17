@@ -1,0 +1,19 @@
+1	Really	really	RB	_	0	root	_	O
+2	?!	?!	.	_	1	punct	_	O
+
+1	#MelaniaTrump	#melaniatrump	NN	pos2=ADD	7	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	#BarronTrump	#barrontrump	NNP	pos2=NN	1	conj	_	U-ORG
+4	wo	wo	MD	_	7	aux	_	O
+5	n't	not	RB	_	7	neg	_	O
+6	be	be	VB	_	7	aux	_	O
+7	moving	move	VBG	_	0	root	_	O
+8	to	to	IN	_	7	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	#WhiteHouse	#whitehouse	NN	pos2=NNP	8	pobj	_	O
+11	come	come	VBN	pos2=VB	15	dep	_	O
+12	January	january	NNP	_	11	npadvmod	_	U-DATE
+13	:	:	:	_	15	punct	_	O
+14	https://t.co/mhaHveC8Po	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/LAyE1sCoJl	#hlink#	ADD	_	7	dep	_	U-ORG
+

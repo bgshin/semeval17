@@ -1,0 +1,17 @@
+1	#NBA	#nba	NN	pos2=ADD	16	dep	_	O
+2	#Cards	#cards	NNP	pos2=IN	7	compound	_	O
+3	San	san	NNP	_	4	compound	_	O
+4	Antonio	antonio	NNP	_	7	compound	_	O
+5	#Spurs	#spurs	NNP	pos2=NNPS	7	compound	_	O
+6	#BasketBall	#basketball	NNP	pos2=ADD	7	compound	_	O
+7	#Card	#card	NNP	pos2=POS	16	dep	_	O
+8	(307)	(0)	CD	pos2=POS	7	npadvmod	_	O
+9	Lot	lot	NNP	pos2=NN	14	compound	_	O
+10	Tim	tim	NNP	_	14	compound	_	B-PERSON
+11	Duncan	duncan	NNP	_	16	dep	_	L-PERSON
+12	Tony	tony	NNP	_	14	compound	_	B-PERSON
+13	Parker	parker	NNP	_	14	compound	_	I-PERSON
+14	Robinson	robinson	NNP	pos2=GW	16	dep	_	L-PERSON
+15	https://t.co/kN07dRQuP9…	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/hMlyD6ravb	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,23 @@
+1	@dandrezner	@dandrezner	IN	pos2=UH	5	prep	_	O
+2	the	the	DT	_	3	det	_	O
+3	usa	usa	NN	pos2=NNP	1	pobj	_	O
+4	will	will	MD	_	5	aux	_	O
+5	become	become	VB	_	0	root	_	O
+6	like	like	IN	_	5	prep	_	O
+7	cuba	cuba	NN	pos2=NNP	9	npadvmod	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	old	old	JJ	_	10	nmod	_	O
+10	cars	car	NNS	_	6	pobj	_	O
+11	and	and	CC	_	10	cc	_	O
+12	no	no	DT	_	13	det	_	O
+13	technology	technology	NN	_	10	conj	_	O
+14	.	.	.	_	5	punct	_	O
+
+1	It	it	PRP	_	3	nsubj	_	O
+2	will	will	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	a	a	DT	_	7	det	_	O
+5	self	self	NN	_	6	npadvmod	_	O
+6	imposed	impose	VBN	pos2=JJ	7	nmod	_	O
+7	embargo	embargo	NN	pos2=FW	3	attr	_	O
+

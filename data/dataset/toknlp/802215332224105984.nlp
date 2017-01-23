@@ -1,0 +1,6 @@
+1	me	me	PRP	_	5	nsubj	_	O
+2	all	all	DT	_	1	appos	_	O
+3	of	of	IN	_	2	prep	_	O
+4	thanksgiving	thanksgiving	NN	pos2=VBG	3	pobj	_	O
+5	https://t.co/KAKPnR2xwG	#hlink#	ADD	pos2=NN	0	root	_	O
+

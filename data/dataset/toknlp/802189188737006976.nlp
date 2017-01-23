@@ -1,0 +1,13 @@
+1	Heinrich	heinrich	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	calls	call	VBZ	pos2=NNS	0	root	_	O
+3	on	on	IN	_	2	prep	_	O
+4	Obama	obama	NNP	_	3	pobj	_	U-PERSON
+5	to	to	TO	_	6	aux	_	O
+6	move	move	VB	_	2	xcomp	_	O
+7	Dakota	dakota	NNP	_	10	nmod	_	B-ORG
+8	Access	access	NNP	pos2=GW	6	dobj	_	I-ORG
+9	Pipeline	pipeline	GW	pos2=NN	10	nmod	_	I-ORG
+10	https://t.co/2fnUOdMvys	#hlink#	ADD	_	6	dobj	_	L-ORG
+11	via	via	IN	_	10	prep	_	O
+12	@nmreport	@nmreport	NN	pos2=-RRB-	11	pobj	_	O
+

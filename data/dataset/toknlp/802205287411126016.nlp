@@ -1,0 +1,7 @@
+1	@bunkerwsmith	@bunkerwsmith	UH	pos2=NNP	3	discourse	_	O
+2	Actually	actually	RB	pos2=NNP	3	advmod	_	O
+3	code	code	NN	pos2=VB	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	Nazi	nazi	NNP	_	4	pobj	_	U-NORP
+6	.	.	.	_	3	punct	_	O
+

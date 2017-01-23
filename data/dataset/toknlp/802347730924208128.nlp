@@ -1,0 +1,15 @@
+1	If	if	IN	_	5	mark	_	O
+2	you	you	PRP	_	5	nsubj	_	O
+3	did	do	VBD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	want	want	VB	_	10	advcl	_	O
+6	to	to	TO	_	7	aux	_	O
+7	do	do	VB	_	5	xcomp	_	O
+8	it	it	PRP	_	7	dobj	_	O
+9	that	that	IN	pos2=RB	12	mark	_	O
+10	all	all	DT	_	0	root	_	O
+11	you	you	PRP	_	12	nsubj	_	O
+12	had	have	VBD	_	10	relcl	_	O
+13	to	to	TO	_	14	aux	_	O
+14	say	say	VB	_	12	xcomp	_	O
+

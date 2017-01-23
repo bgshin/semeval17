@@ -1,0 +1,27 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	sorry	sorry	JJ	_	2	acomp	_	O
+4	that	that	IN	pos2=WDT	6	mark	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	have	have	VBP	_	3	ccomp	_	O
+7	to	to	TO	_	8	aux	_	O
+8	be	be	VB	_	6	xcomp	_	O
+9	the	the	DT	_	10	det	_	O
+10	first	#ord#	JJ	pos2=RB	8	attr	_	U-ORDINAL
+11	to	to	TO	_	12	aux	_	O
+12	inform	inform	VB	_	10	relcl	_	O
+13	you	you	PRP	_	12	dobj	_	O
+14	but	but	CC	_	2	cc	_	O
+15	being	be	VBG	_	24	csubj	_	O
+16	against	against	IN	_	15	prep	_	O
+17	gay	gay	JJ	pos2=NN	18	nmod	_	O
+18	marriage	marriage	NN	_	16	pobj	_	O
+19	does	do	VBZ	_	24	aux	_	O
+20	in	in	IN	_	24	prep	_	O
+21	fact	fact	NN	_	20	pobj	_	O
+22	100	0	CD	_	23	nmod	_	B-PERCENT
+23	%	%	NN	_	24	nsubj	_	L-PERCENT
+24	make	make	VB	pos2=VBP	2	conj	_	O
+25	you	you	PRP	_	26	nsubj	_	O
+26	homophobic	homophobic	JJ	_	24	ccomp	_	O
+

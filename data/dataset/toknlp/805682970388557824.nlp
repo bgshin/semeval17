@@ -1,0 +1,12 @@
+1	Robots	robot	NNS	_	7	vocative	_	O
+2	,	,	,	_	7	punct	_	O
+3	radioactive	radioactive	JJ	_	4	nmod	_	O
+4	waste	waste	NN	_	7	dep	_	O
+5	-	-	:	pos2=,	7	punct	_	O
+6	what	what	WP	_	7	nsubj	_	O
+7	happens	happen	VBZ	_	0	root	_	O
+8	next	next	RB	pos2=JJ	7	advmod	_	O
+9	at	at	IN	_	8	prep	_	O
+10	Chernobyl	chernobyl	NNP	_	9	pobj	_	U-GPE
+11	https://t.co/SL8BI1taZN	#hlink#	ADD	pos2=NN	9	pobj	_	O
+

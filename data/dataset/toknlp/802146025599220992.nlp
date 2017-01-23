@@ -1,0 +1,11 @@
+1	Public	public	JJ	_	2	nmod	_	O
+2	meeting	meeting	NN	_	3	nsubj	_	O
+3	discusses	discuss	VBZ	_	0	root	_	O
+4	British	british	JJ	_	5	nmod	_	U-NORP
+5	involvement	involvement	NN	_	3	dobj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	war	war	NN	_	6	pobj	_	O
+8	z	z	GW	pos2=IN	10	punct	_	O
+9	oneshttps://t.co/bPdITmoFRW#Libya	#hlink#	ADD	pos2=NN	10	nmod	_	O
+10	#News	#news	NNP	pos2=NNS	5	advmod	_	U-ORG
+

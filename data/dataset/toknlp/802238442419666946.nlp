@@ -1,0 +1,19 @@
+1	@cjfuertes	@cjfuertes	UH	pos2=NNS	2	discourse	_	O
+2	Haha	haha	UH	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	not	not	RB	_	2	neg	_	O
+4	even	even	RB	_	5	advmod	_	O
+5	close	close	JJ	pos2=VB	2	acomp	_	O
+6	to	to	IN	_	5	prep	_	O
+7	Tim	tim	NNP	_	8	compound	_	B-PERSON
+8	Duncan	duncan	NNP	_	6	pobj	_	L-PERSON
+9	.	.	.	_	2	punct	_	O
+
+1	Never	never	RB	_	2	neg	_	O
+2	suggested	suggest	VBD	pos2=VBN	0	root	_	O
+3	otherwise	otherwise	RB	_	2	advmod	_	O
+4	.	.	.	_	2	punct	_	O
+

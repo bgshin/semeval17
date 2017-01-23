@@ -1,0 +1,12 @@
+1	Got	get	VBD	pos2=CC	2	auxpass	_	O
+2	deleted	delete	VBN	_	0	root	_	O
+3	😒	😒	,	pos2=NN	2	punct	_	O
+4	but	but	CC	_	2	cc	_	O
+5	yea	yea	UH	_	7	discourse	_	O
+6	we	we	PRP	_	7	nsubj	_	O
+7	did	do	VBD	_	2	conj	_	O
+8	it	it	PRP	_	9	nsubj	_	O
+9	😂	😂	VB	pos2=VBZ	7	ccomp	_	O
+10	#mannequinchallenge	#mannequinchallenge	ADD	pos2=GW	11	punct	_	O
+11	https://t.co/2MlUzPU6FO	#hlink#	ADD	_	2	dep	_	O
+

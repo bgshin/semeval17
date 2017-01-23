@@ -1,0 +1,24 @@
+1	@JohnnieEHuff	@johnnieehuff	ADD	pos2=NN	3	punct	_	U-PERSON
+2	@TheWhole9_Yards	@thewhole0_yards	NNS	pos2=TO	3	nsubj	_	O
+3	tell	tell	VBP	pos2=VB	0	root	_	O
+4	you	you	PRP	_	3	dobj	_	O
+5	what	what	WP	_	20	dobj	_	O
+6	,	,	,	_	7	punct	_	O
+7	find	find	VBP	pos2=VB	3	ccomp	_	O
+8	proof	proof	NN	_	7	dobj	_	O
+9	rather	rather	RB	pos2=IN	10	advmod	_	O
+10	than	than	IN	_	8	cc	_	O
+11	saying	say	VBG	_	9	pcomp	_	O
+12	the	the	DT	_	14	det	_	O
+13	same	same	JJ	_	14	nmod	_	O
+14	thing	thing	NN	_	11	dobj	_	O
+15	like	like	IN	_	14	prep	_	O
+16	most	most	JJS	_	17	nmod	_	O
+17	leftists	leftist	NNS	_	15	pobj	_	O
+18	have	have	VBP	_	20	aux	_	O
+19	been	be	VBN	_	20	aux	_	O
+20	doing	do	VBG	_	3	ccomp	_	O
+21	and	and	CC	_	20	cc	_	O
+22	then	then	RB	_	20	conj	_	O
+23	....	..	.	pos2=,	3	punct	_	O
+

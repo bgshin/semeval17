@@ -1,0 +1,7 @@
+1	New	new	JJ	pos2=NNP	6	nmod	_	O
+2	Wikileaks	wikileaks	NNP	_	4	compound	_	O
+3	Release	release	NNP	pos2=NN	4	compound	_	O
+4	#YemanFiles#HillaryClinton	#yemanfiles#hillaryclinton	NNP	pos2=GW	6	dep	_	O
+5	#YemanCrisis#ISIL#ISIS	#yemancrisis#isil#isis	ADD	pos2=GW	6	dep	_	O
+6	https://t.co/dBKzNpoV3T	#hlink#	ADD	_	0	root	_	O
+

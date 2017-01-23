@@ -1,0 +1,25 @@
+1	In	in	IN	_	5	prep	_	O
+2	the	the	DT	_	4	det	_	O
+3	#Jerusalem	#jerusalem	NNP	pos2=NN	4	compound	_	U-GPE
+4	shuk	shuk	NN	pos2=RB	1	pobj	_	O
+5	right	right	RB	_	6	advmod	_	O
+6	now	now	RB	_	7	oprd	_	O
+7	.	.	.	_	0	root	_	O
+
+1	Arabs	arab	NNPS	pos2=NNS	5	nsubj	_	U-NORP
+2	,	,	,	_	1	punct	_	O
+3	Jews	jew	NNPS	_	1	conj	_	U-NORP
+4	,	,	,	_	3	punct	_	O
+5	stronger	strong	JJR	_	0	root	_	O
+6	than	than	IN	_	5	prep	_	O
+7	all	all	PDT	_	9	predet	_	O
+8	the	the	DT	_	9	det	_	O
+9	haters	hater	NNS	_	6	pobj	_	O
+10	in	in	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	world	world	NN	_	10	pobj	_	O
+13	!	!	.	_	9	punct	_	O
+
+1	#israelisburning	#israelisburning	VBG	pos2=UH	2	nmod	_	O
+2	https://t.co/EpnepzRLJT	#hlink#	ADD	pos2=NN	0	root	_	O
+

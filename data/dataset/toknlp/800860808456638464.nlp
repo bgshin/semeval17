@@ -1,0 +1,6 @@
+1	@KremlinTrolls	@kremlintrolls	NNS	pos2=PRP$	5	dep	_	O
+2	lmfao	lmfao	FW	pos2=PRP$	5	nmod	_	O
+3	good	good	JJ	_	5	nmod	_	O
+4	shot	shot	NN	pos2=VBN	5	compound	_	O
+5	RUAF	ruaf	NN	pos2=NNP	0	root	_	U-ORG
+

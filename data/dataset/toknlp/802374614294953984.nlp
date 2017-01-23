@@ -1,0 +1,13 @@
+1	14	0	LS	pos2=CD	0	root	_	U-CARDINAL
+2	.	.	.	pos2=:	1	punct	_	O
+
+1	What	what	WP	_	2	attr	_	O
+2	s	s	VBZ	pos2=IN	0	root	_	O
+3	Your	your	PRP$	_	6	poss	_	O
+4	Social	social	NNP	_	5	compound	_	B-ORG
+5	Security	security	NNP	pos2=NN	6	compound	_	I-ORG
+6	Number	number	NNP	pos2=NN	2	nsubj	_	L-ORG
+7	?	?	.	_	2	punct	_	O
+
+1	🌚😂😭😂😭😂😭😂	🌚😂😭😂😭😂😭😂	SYM	pos2=NFP	0	root	_	U-ORG
+

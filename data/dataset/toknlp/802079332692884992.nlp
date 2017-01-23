@@ -1,0 +1,17 @@
+1	IVE	ive	RB	pos2=NN	3	advmod	_	O
+2	ONLY	only	RB	_	3	advmod	_	O
+3	SEEN	see	VBN	pos2=JJ	0	root	_	O
+4	FIVE	#crd#	CD	_	5	nmod	_	B-TIME
+5	MINS	min	NNS	_	3	npadvmod	_	L-TIME
+6	OF	of	IN	_	5	prep	_	O
+7	DAVID	david	NNP	_	8	compound	_	B-PERSON
+8	BLAINE	blaine	NNP	_	6	pobj	_	L-PERSON
+9	AND	and	CC	pos2=NNP	8	cc	_	O
+10	MAN	man	NNP	pos2=VB	8	conj	_	U-ORG
+11	THIS	this	DT	_	12	det	_	O
+12	GUY	guy	NN	pos2=NNP	13	nsubj	_	O
+13	IS	be	VBZ	_	3	auxpass	_	O
+14	WICKED	wicked	JJ	_	16	advmod	_	O
+15	CRAZY	crazy	JJ	_	16	advmod	_	O
+16	COOL	cool	JJ	pos2=NN	13	acomp	_	O
+

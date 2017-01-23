@@ -1,0 +1,18 @@
+1	If	if	IN	_	3	mark	_	O
+2	Juul	juul	NNP	_	3	nsubj	_	U-PERSON
+3	goes	go	VBZ	_	9	advcl	_	O
+4	out	out	IN	_	3	prep	_	O
+5	of	of	IN	_	4	prep	_	O
+6	business	business	NN	_	7	compound	_	O
+7	HB	hb	NN	pos2=NNP	5	pobj	_	U-ORG
+8	will	will	MD	_	9	aux	_	O
+9	make	make	VB	_	0	root	_	O
+10	the	the	DT	_	12	det	_	O
+11	anti-Trump	anti-trump	JJ	_	12	nmod	_	U-ORDINAL
+12	riots	riot	NNS	_	13	nsubj	_	O
+13	look	look	VBP	pos2=VB	9	ccomp	_	O
+14	like	like	IN	_	13	prep	_	O
+15	child	child	NN	_	17	poss	_	O
+16	's	's	POS	_	15	case	_	O
+17	play	play	NN	_	14	pobj	_	O
+

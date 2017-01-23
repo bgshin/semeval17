@@ -1,0 +1,18 @@
+1	Is	be	VBZ	_	0	root	_	O
+2	the	the	DT	_	9	det	_	O
+3	Euro	euro	NNP	pos2=NN	9	nmod	_	O
+4	a	a	DT	_	9	det	_	O
+5	Modern	modern	NNP	pos2=JJ	7	compound	_	B-ORG
+6	-	-	HYPH	_	7	punct	_	I-ORG
+7	Day	day	NNP	_	9	compound	_	I-ORG
+8	Gold	gold	NNP	pos2=NN	9	compound	_	I-ORG
+9	Standard	standard	NNP	pos2=NN	1	nsubj	_	L-ORG
+10	?	?	.	_	1	punct	_	O
+
+1	via	via	IN	_	0	root	_	O
+2	/	/	SYM	pos2=,	5	punct	_	O
+3	r	r	VB	pos2=NNS	5	nmod	_	O
+4	/	/	SYM	pos2=,	5	punct	_	O
+5	investing	invest	VBG	pos2=NN	1	pobj	_	O
+6	https://t.co/U1vemOVi7h	#hlink#	ADD	pos2=NN	5	dobj	_	U-ORG
+

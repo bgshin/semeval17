@@ -1,0 +1,22 @@
+1	@mike_Pence	@mike_pence	NN	pos2=DT	5	nsubj	_	O
+2	last	last	JJ	_	3	nmod	_	O
+3	thing	thing	NN	_	6	nsubj	_	O
+4	@StateDept	@statedept	NNP	pos2=ADD	5	nsubj	_	U-ORG
+5	needs	need	VBZ	pos2=NNS	3	relcl	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	a	a	DT	_	13	det	_	O
+8	self-promoting	self-promoting	JJ	_	10	nmod	_	O
+9	$	$	$	pos2=HYPH	10	nmod	_	O
+10	laundering	laundering	NN	pos2=VBG	13	compound	_	O
+11	medicare	medicare	NN	pos2=AFX	12	compound	_	O
+12	fraud	fraud	NN	_	13	compound	_	O
+13	scammer	scammer	NN	_	6	attr	_	O
+14	,	,	,	_	13	punct	_	O
+15	voter	voter	NN	_	16	compound	_	O
+16	fraud	fraud	NN	_	13	appos	_	O
+17	..	..	.	_	6	punct	_	O
+
+1	rese	rese	GW	pos2=JJ	3	nmod	_	O
+2	…	…	NFP	pos2=GW	3	punct	_	O
+3	https://t.co/0vGNeqcCEq	#hlink#	ADD	pos2=NN	0	root	_	O
+

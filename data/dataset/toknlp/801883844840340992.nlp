@@ -1,0 +1,20 @@
+1	@tai_walker	@tai_walker	DT	pos2=VB	3	det	_	O
+2	good	good	JJ	_	3	nmod	_	O
+3	luck	luck	NN	_	0	root	_	O
+4	Tai	tai	NNP	_	3	appos	_	U-PERSON
+5	!	!	.	_	3	punct	_	O
+
+1	Seattle	seattle	NNP	_	3	nsubj	_	U-GPE
+2	s	s	VBZ	pos2=GW	3	aux	_	O
+3	going	go	VBG	_	8	ccomp	_	O
+4	to	to	TO	pos2=IN	5	aux	_	O
+5	miss	miss	VB	_	3	xcomp	_	O
+6	you	you	PRP	_	5	dobj	_	O
+7	,	,	,	_	8	punct	_	O
+8	go	go	VB	pos2=TO	0	root	_	O
+9	win	win	VB	pos2=IN	8	advcl	_	O
+10	the	the	DT	_	13	det	_	B-PRODUCT
+11	NL	nl	NNP	pos2=NN	12	nmod	_	I-PRODUCT
+12	Cy	cy	NNP	pos2=NN	13	compound	_	L-PRODUCT
+13	young	young	JJ	pos2=RB	9	dobj	_	O
+

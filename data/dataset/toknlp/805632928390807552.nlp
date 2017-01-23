@@ -1,0 +1,13 @@
+1	After	after	IN	_	9	prep	_	O
+2	this	this	DT	_	5	det	_	O
+3	medical	medical	JJ	_	5	nmod	_	O
+4	marijuana	marijuana	NN	_	5	compound	_	O
+5	card	card	NN	_	1	pobj	_	O
+6	,	,	,	_	9	punct	_	O
+7	nothing	nothing	NN	_	9	nsubj	_	O
+8	has	have	VBZ	_	9	aux	_	O
+9	been	be	VBN	_	0	root	_	O
+10	the	the	DT	_	11	det	_	O
+11	same	same	JJ	_	9	attr	_	O
+12	.	.	.	_	9	punct	_	O
+

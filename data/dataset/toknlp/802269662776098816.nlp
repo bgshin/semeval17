@@ -1,0 +1,25 @@
+1	Southwest	southwest	NNP	pos2=NN	3	nsubj	_	O
+2	actually	actually	RB	_	3	advmod	_	O
+3	asked	ask	VBD	_	0	root	_	O
+4	people	people	NNS	_	3	dobj	_	O
+5	to	to	TO	_	7	aux	_	O
+6	not	not	RB	_	7	neg	_	O
+7	put	put	VB	_	3	xcomp	_	O
+8	their	their	PRP$	_	9	poss	_	O
+9	Samsung	samsung	NNP	_	7	dobj	_	U-ORG
+10	in	in	IN	_	7	prep	_	O
+11	airplane	airplane	NN	_	12	compound	_	O
+12	mode	mode	NN	_	10	pobj	_	O
+13	,	,	,	_	3	punct	_	O
+14	but	but	CC	_	3	cc	_	O
+15	rather	rather	RB	_	14	advmod	_	O
+16	to	to	TO	pos2=IN	17	aux	_	O
+17	SHUT	shut	VB	_	3	xcomp	_	O
+18	THEM	them	PRP	_	17	dobj	_	O
+19	OFF	off	RP	pos2=RB	17	prt	_	O
+20	when	when	WRB	_	21	advmod	_	O
+21	we	we	PRP	_	17	advcl	_	O
+22	...	..	.	pos2=,	3	punct	_	O
+
+1	https://t.co/6p57MAqbKC	#hlink#	ADD	_	0	root	_	U-ORG
+

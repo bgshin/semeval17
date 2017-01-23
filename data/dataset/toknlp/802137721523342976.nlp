@@ -1,0 +1,21 @@
+1	You	you	PRP	_	3	nsubj	_	O
+2	should	should	MD	_	3	aux	_	O
+3	join	join	VB	_	0	root	_	O
+4	me	me	PRP	_	3	dobj	_	O
+5	at	at	IN	_	3	prep	_	O
+6	this	this	DT	_	7	det	_	O
+7	Meetup	meetup	NNP	pos2=NN	5	pobj	_	U-ORG
+8	.	.	.	_	3	punct	_	O
+
+1	Check	check	VB	_	0	root	_	O
+2	it	it	PRP	_	1	dobj	_	O
+3	out	out	RP	_	1	prt	_	O
+4	and	and	CC	_	1	cc	_	O
+5	RSVP	rsvp	VB	pos2=NN	1	conj	_	O
+6	!	!	.	_	1	punct	_	O
+
+1	#icecream	#icecream	UH	pos2=VB	4	discourse	_	O
+2	#jerusalem	#jerusalem	UH	pos2=GW	4	discourse	_	O
+3	#israel	#israel	UH	pos2=-LRB-	4	discourse	_	O
+4	https://t.co/sjeOH13dCM	#hlink#	ADD	pos2=UH	0	root	_	O
+

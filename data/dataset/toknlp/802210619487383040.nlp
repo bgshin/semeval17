@@ -1,0 +1,16 @@
+1	8	0	CD	pos2=LS	4	nmod	_	U-CARDINAL
+2	Romantic	romantic	JJ	pos2=NNP	4	nmod	_	O
+3	Lesbian	lesbian	JJ	pos2=NNP	4	nmod	_	O
+4	Movies	movie	NNS	pos2=NNPS	15	nsubj	_	O
+5	To	to	TO	pos2=WDT	6	aux	_	O
+6	Get	get	VB	_	4	relcl	_	O
+7	You	you	PRP	_	6	dobj	_	O
+8	In	in	IN	_	6	prep	_	O
+9	The	the	DT	_	10	det	_	O
+10	Mood	mood	NNP	pos2=NN	8	pobj	_	O
+11	For	for	IN	_	10	prep	_	O
+12	Love	love	NNP	pos2=NN	14	nmod	_	O
+13	-	-	HYPH	pos2=GW	14	punct	_	O
+14	https://t.co/UILc1yZU8G	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/N13OOegLCI	#hlink#	ADD	_	0	root	_	U-ORG
+

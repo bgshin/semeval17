@@ -1,0 +1,26 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	glad	glad	JJ	_	2	acomp	_	O
+4	I	I	PRP	_	7	nsubj	_	O
+5	can	can	MD	_	7	aux	_	O
+6	finally	finally	RB	_	7	advmod	_	O
+7	agree	agree	VB	_	3	ccomp	_	O
+8	with	with	IN	_	7	prep	_	O
+9	@SethDavisHoops	@sethdavishoops	NNP	pos2=NNS	8	pobj	_	U-PERSON
+10	,	,	,	_	9	punct	_	O
+11	the	the	DT	_	12	det	_	O
+12	Duke	duke	NNP	_	9	conj	_	O
+13	and	and	CC	_	12	cc	_	O
+14	Grayson	grayson	NNP	_	15	compound	_	B-PERSON
+15	Allen	allen	NNP	_	12	conj	_	L-PERSON
+16	apologist	apologist	NN	_	9	appos	_	O
+17	,	,	,	_	9	punct	_	O
+18	on	on	IN	_	7	prep	_	O
+19	something	something	NN	_	18	pobj	_	O
+20	.	.	.	_	2	punct	_	O
+
+1	Happy	happy	JJ	pos2=NNP	2	nmod	_	O
+2	Thanks	thanks	NNS	pos2=GW	4	dep	_	O
+3	…	…	NFP	pos2=IN	4	punct	_	O
+4	https://t.co/LlJTX0HqsC	#hlink#	ADD	_	0	root	_	O
+

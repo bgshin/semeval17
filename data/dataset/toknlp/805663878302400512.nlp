@@ -1,0 +1,18 @@
+1	@ForgetAmnesia	@forgetamnesia	NN	pos2=ADD	5	vocative	_	O
+2	in	in	IN	_	1	prep	_	O
+3	Forza	forza	NNP	_	2	pobj	_	U-ORG
+4	you	you	PRP	_	5	nsubj	_	O
+5	burn	burn	VBP	_	0	root	_	O
+6	fossil	fossil	NN	pos2=JJ	7	compound	_	O
+7	fuels	fuel	NNS	_	5	dobj	_	O
+8	so	so	IN	pos2=RB	10	mark	_	O
+9	it	it	PRP	_	10	nsubj	_	O
+10	is	be	VBZ	_	5	advcl	_	O
+11	the	the	DT	_	14	det	_	O
+12	most	most	RBS	_	13	advmod	_	O
+13	violent	violent	JJ	_	14	nmod	_	O
+14	game	game	NN	_	10	attr	_	O
+15	of	of	IN	_	14	prep	_	O
+16	them	them	PRP	_	15	pobj	_	O
+17	all	all	DT	pos2=RB	16	appos	_	O
+

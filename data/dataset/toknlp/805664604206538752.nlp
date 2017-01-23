@@ -1,0 +1,27 @@
+1	This	this	DT	_	2	det	_	B-DATE
+2	week	week	NN	_	6	npadvmod	_	L-DATE
+3	;	;	:	pos2=,	6	punct	_	O
+4	Scouts	scout	NNPS	pos2=NNS	6	nsubj	_	U-ORG
+5	are	be	VBP	_	6	aux	_	O
+6	working	work	VBG	_	0	root	_	O
+7	towards	towards	IN	_	6	prep	_	O
+8	their	their	PRP$	_	10	poss	_	O
+9	next	next	JJ	_	10	nmod	_	O
+10	level	level	NN	_	7	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	emergency	emergency	NN	_	13	compound	_	O
+13	aid	aid	NN	_	14	compound	_	O
+14	badge	badge	NN	_	11	pobj	_	O
+15	&	&	CC	_	14	cc	_	O
+16	both	both	DT	pos2=CC	17	preconj	_	O
+17	Cubs	cub	NNPS	pos2=NNS	14	conj	_	B-ORG
+18	&	&	CC	_	17	cc	_	I-ORG
+19	Beavers	beaver	NNPS	pos2=NNS	17	conj	_	L-ORG
+20	are	be	VBP	_	21	aux	_	O
+21	making	make	VBG	_	6	advcl	_	O
+22	Christmas	christmas	NNP	_	23	compound	_	U-DATE
+23	cards	card	NNS	_	21	dobj	_	O
+24	.	.	.	_	6	punct	_	O
+
+1	🚑✉️🎄🎅🏻	🚑✉️🎄🎅🏻	SYM	pos2=NFP	0	root	_	U-ORG
+

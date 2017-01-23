@@ -1,0 +1,18 @@
+1	Start	start	VB	pos2=NN	0	root	_	O
+2	riding	ride	VBG	pos2=NN	1	xcomp	_	O
+3	at	at	IN	_	2	prep	_	O
+4	this	this	DT	_	5	det	_	O
+5	point	point	NN	_	3	pobj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	time	time	NN	_	6	pobj	_	O
+8	with	with	IN	_	2	prep	_	O
+9	#Uber	#uber	NNP	pos2=``	8	pobj	_	O
+10	Do	do	VBP	pos2=VB	12	aux	_	O
+11	n't	not	RB	_	12	neg	_	O
+12	wait	wait	VB	_	1	dep	_	O
+13	for	for	IN	_	12	prep	_	O
+14	the	the	DT	_	16	det	_	B-DATE
+15	coming	come	VBG	pos2=JJ	16	nmod	_	I-DATE
+16	day	day	NN	_	13	pobj	_	L-DATE
+17	.	.	.	_	1	punct	_	O
+

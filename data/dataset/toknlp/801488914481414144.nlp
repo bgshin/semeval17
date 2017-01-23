@@ -1,0 +1,29 @@
+1	@Steffy_43	@steffy_0	NN	pos2=NNS	3	compound	_	O
+2	@MarkDice	@markdice	NNP	pos2=IN	3	compound	_	B-PERSON
+3	Trump	trump	NNP	pos2=NN	4	nsubj	_	L-PERSON
+4	is	be	VBZ	_	0	root	_	O
+5	not	not	RB	_	4	neg	_	O
+6	a	a	DT	_	7	det	_	O
+7	Republican	republican	NNP	_	4	attr	_	U-NORP
+8	selected	select	VBN	_	7	acl	_	O
+9	by	by	IN	_	8	agent	_	O
+10	the	the	DT	_	12	det	_	B-ORG
+11	Bilderberg	bilderberg	NNP	_	12	compound	_	I-ORG
+12	Group	group	NNP	_	9	pobj	_	L-ORG
+13	.	.	.	_	4	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	Democrats	democrat	NNPS	_	4	nsubj	_	U-NORP
+3	are	be	VBP	_	4	aux	_	O
+4	funding	fund	VBG	pos2=NN	0	root	_	O
+5	Anti	anti	NNP	pos2=AFX	7	compound	_	O
+6	Trump	trump	NNP	pos2=NN	7	compound	_	B-ORG
+7	Riots	riot	NNPS	pos2=NNS	4	dobj	_	L-ORG
+8	.	.	.	_	4	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	Not	not	RB	_	2	neg	_	O
+4	over	over	RB	pos2=JJ	2	advmod	_	O
+5	.	.	.	_	2	punct	_	O
+

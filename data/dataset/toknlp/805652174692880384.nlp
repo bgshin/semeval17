@@ -1,0 +1,13 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	TOO	too	RB	_	4	advmod	_	O
+3	CAN	can	MD	_	4	aux	_	O
+4	HEAR	hear	VB	_	0	root	_	O
+5	THE	the	DT	_	6	det	_	O
+6	BELLS	bell	NNS	pos2=NNPS	4	dobj	_	O
+7	WATCHING	watch	VBG	_	6	acl	_	O
+8	ZAC	zac	NNP	_	9	compound	_	B-PERSON
+9	EFRON	efron	NNP	_	7	dobj	_	L-PERSON
+10	IN	in	IN	_	7	prep	_	O
+11	THIS	this	DT	_	12	det	_	O
+12	MOVIE	movie	NN	pos2=NNP	10	pobj	_	O
+

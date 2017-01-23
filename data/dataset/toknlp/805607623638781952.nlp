@@ -1,0 +1,28 @@
+1	@ballzoff	@ballzoff	NN	pos2=UH	4	dep	_	O
+2	and	and	CC	_	1	cc	_	O
+3	,	,	,	_	4	punct	_	O
+4	IF	if	IN	_	10	mark	_	O
+5	we	we	PRP	_	6	nsubj	_	O
+6	do	do	VBP	_	11	aux	_	O
+7	n't	not	RB	_	6	neg	_	O
+8	,	,	,	_	10	punct	_	O
+9	it	it	PRP	_	10	nsubj	_	O
+10	's	's	VBZ	pos2=POS	0	root	_	O
+11	curtains	curtain	NNS	_	10	attr	_	O
+12	for	for	IN	_	11	prep	_	O
+13	EVERYONE	everyone	NN	_	12	pobj	_	O
+14	.	.	.	_	1	punct	_	O
+
+1	Mother	mother	NN	pos2=NNP	2	compound	_	O
+2	Nature	nature	NNP	pos2=NN	5	nsubj	_	O
+3	does	do	VBZ	_	5	aux	_	O
+4	not	not	RB	_	5	neg	_	O
+5	ask	ask	VB	_	0	root	_	O
+6	for	for	IN	_	5	prep	_	O
+7	anyone	anyone	NN	_	9	poss	_	O
+8	's	's	POS	_	7	case	_	O
+9	voter	voter	NN	_	11	poss	_	O
+10	's	's	POS	pos2=AFX	9	case	_	O
+11	registration	registration	NN	_	6	pobj	_	O
+12	.	.	.	_	5	punct	_	O
+

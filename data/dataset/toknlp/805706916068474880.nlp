@@ -1,0 +1,19 @@
+1	#CleanCoal	#cleancoal	ADD	pos2=-LRB-	3	punct	_	O
+2	https://t.co/Rw3cu5iWsD	#hlink#	ADD	pos2=NN	3	nsubj	_	O
+3	Filed	file	VBN	_	0	root	_	O
+4	under	under	IN	_	3	prep	_	O
+5	:	:	:	_	4	punct	_	O
+6	Big	big	NNP	_	7	compound	_	O
+7	Green	green	NNP	_	4	pobj	_	O
+8	,	,	,	_	7	punct	_	O
+9	Energy	energy	NNP	pos2=NN	7	conj	_	B-ORG
+10	,	,	,	_	9	punct	_	I-ORG
+11	Human	human	NNP	pos2=JJ	12	compound	_	I-ORG
+12	Influences	influence	NNPS	pos2=NNP	9	conj	_	L-ORG
+13	,	,	,	_	12	punct	_	O
+14	The	the	DT	_	16	det	_	O
+15	CO2	co0	NN	pos2=NNP	16	compound	_	O
+16	Delusion	delusion	NN	pos2=NNP	12	appos	_	O
+17	,	,	,	_	16	punct	_	O
+18	Video	video	NN	pos2=NNP	16	conj	_	O
+

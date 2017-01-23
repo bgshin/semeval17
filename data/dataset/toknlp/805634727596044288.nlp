@@ -1,0 +1,17 @@
+1	@BreatheMessi	@breathemessi	ADD	pos2=NNS	2	det	_	O
+2	@HistoryToLearn	@historytolearn	NNP	pos2=ADD	5	compound	_	O
+3	Because	because	IN	_	6	mark	_	O
+4	Muhammad	muhammad	NNP	_	5	compound	_	B-PERSON
+5	Ali	ali	NNP	_	6	nsubj	_	L-PERSON
+6	knew	know	VBD	_	0	root	_	O
+7	in	in	IN	_	6	prep	_	O
+8	1977	0	CD	pos2=NNP	7	pobj	_	U-DATE
+9	that	that	IN	pos2=WDT	16	mark	_	O
+10	some	some	DT	_	11	det	_	O
+11	midget	midget	NN	_	16	nsubj	_	O
+12	named	name	VBN	_	11	acl	_	O
+13	Lionel	lionel	NNP	_	14	compound	_	B-PERSON
+14	Messi	messi	NNP	_	12	oprd	_	L-PERSON
+15	would	would	MD	_	16	aux	_	O
+16	exist	exist	VB	_	6	ccomp	_	O
+

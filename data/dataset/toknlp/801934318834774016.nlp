@@ -1,0 +1,18 @@
+1	Cover	cover	NN	pos2=VB	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	"	"	``	_	5	punct	_	O
+4	Barca	barca	NNP	pos2=NN	5	nsubj	_	U-PERSON
+5	are	be	VBP	_	0	root	_	O
+6	the	the	DT	_	8	det	_	O
+7	best	good	JJS	_	8	nmod	_	O
+8	team	team	NN	_	5	attr	_	O
+9	in	in	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	world	world	NN	_	9	pobj	_	O
+12	"	"	''	pos2=``	5	punct	_	O
+13	#fcblive	#fcblive	NN	pos2=JJ	17	dep	_	O
+14	[	[	-LRB-	_	15	punct	_	O
+15	sport	sport	NN	_	5	parataxis	_	O
+16	]	]	-RRB-	_	15	punct	_	O
+17	https://t.co/650xWBxxB3	#hlink#	ADD	_	5	dep	_	O
+

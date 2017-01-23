@@ -1,0 +1,8 @@
+1	Yes	yes	UH	_	5	discourse	_	O
+2	Drag	drag	NNP	pos2=VB	4	compound	_	O
+3	Melania	melania	NNP	_	4	compound	_	B-PERSON
+4	Trump	trump	NNP	_	5	nsubj	_	L-PERSON
+5	is	be	VBZ	_	0	root	_	O
+6	here	here	RB	_	5	advmod	_	O
+7	!!!	!!	.	_	5	punct	_	O
+

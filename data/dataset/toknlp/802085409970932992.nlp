@@ -1,0 +1,25 @@
+1	#Hamas	#hamas	NNP	pos2=PRP$	2	compound	_	U-ORG
+2	leader	leader	NN	_	3	nsubj	_	O
+3	says	say	VBZ	_	0	root	_	O
+4	'	'	``	pos2=''	3	punct	_	O
+5	#Trump	#trump	NNS	pos2=NN	7	nsubj	_	O
+6	may	may	MD	_	7	aux	_	O
+7	be	be	VB	_	3	ccomp	_	O
+8	a	a	DT	pos2=``	9	det	_	O
+9	Jew	jew	NNP	_	11	poss	_	U-NORP
+10	’	'	POS	pos2=''	9	case	_	O
+11	https://t.co/MLaQclMOJu	#hlink#	ADD	pos2=NN	7	attr	_	O
+12	“	"	''	_	3	punct	_	O
+13	..	..	.	pos2=,	3	punct	_	O
+
+1	the	the	DT	_	4	det	_	O
+2	most	most	RBS	_	3	advmod	_	O
+3	important	important	JJ	_	4	nmod	_	O
+4	thing	thing	NN	_	9	nsubj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	Jewish	jewish	JJ	_	8	nmod	_	U-NORP
+8	rel	rel	NN	pos2=GW	5	pobj	_	O
+9	…	…	NFP	pos2=-LRB-	10	punct	_	O
+10	https://t.co/5m2ZTfz30r	#hlink#	ADD	_	0	root	_	O
+

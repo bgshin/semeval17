@@ -1,0 +1,27 @@
+1	OK	ok	UH	pos2=JJ	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	'll	will	MD	_	3	aux	_	O
+3	admit	admit	VB	_	0	root	_	O
+4	it	it	PRP	_	3	dobj	_	O
+5	:	:	:	_	3	punct	_	O
+6	pigs	pig	NNS	_	9	nsubj	_	O
+7	do	do	VBP	_	9	aux	_	O
+8	indeed	indeed	RB	_	9	advmod	_	O
+9	fly	fly	VB	pos2=NN	11	nmod	_	O
+10	-	-	HYPH	pos2=:	11	punct	_	O
+11	https://t.co/GEDDURspRt	#hlink#	ADD	pos2=NN	14	nmod	_	O
+12	(	(	-LRB-	_	9	punct	_	O
+13	unless	unless	IN	pos2=RB	15	mark	_	O
+14	that	that	DT	_	15	nsubj	_	O
+15	's	's	VBZ	_	0	root	_	O
+16	another	another	DT	_	21	det	_	O
+17	*	*	SYM	pos2=NFP	21	punct	_	O
+18	fake	fake	JJ	pos2=NN	21	nmod	_	O
+19	*	*	SYM	pos2=NFP	21	punct	_	O
+20	news	news	NN	_	21	compound	_	O
+21	story	story	NN	_	15	attr	_	O
+22	...	..	.	pos2=,	21	punct	_	O
+23	)	)	-RRB-	_	3	punct	_	O
+

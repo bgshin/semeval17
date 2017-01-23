@@ -1,0 +1,27 @@
+1	Anyway	anyway	UH	pos2=RB	4	discourse	_	O
+2	,	,	,	_	4	punct	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	think	think	VBP	_	0	root	_	O
+5	some	some	DT	_	10	nsubj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	angrier	angrier	JJ	pos2=JJR	9	nmod	_	O
+9	leftists	leftist	NNS	_	6	pobj	_	O
+10	mistake	mistake	VBP	pos2=VB	4	ccomp	_	O
+11	me	me	PRP	_	10	dobj	_	O
+12	for	for	IN	_	10	prep	_	O
+13	a	a	DT	_	14	det	_	O
+14	liberal	liberal	NN	pos2=JJ	12	pobj	_	O
+15	because	because	IN	_	19	mark	_	O
+16	I	I	PRP	_	19	nsubj	_	O
+17	do	do	VBP	_	19	aux	_	O
+18	n't	not	RB	_	19	neg	_	O
+19	spend	spend	VB	_	10	advcl	_	O
+20	every	every	DT	_	22	det	_	O
+21	waking	wake	VBG	pos2=NN	22	nmod	_	O
+22	hour	hour	NN	_	19	dobj	_	O
+23	performatively	performatively	RB	_	19	advmod	_	O
+24	hating	hate	VBG	_	19	xcomp	_	O
+25	them	them	PRP	_	24	dobj	_	O
+26	.	.	.	_	4	punct	_	O
+

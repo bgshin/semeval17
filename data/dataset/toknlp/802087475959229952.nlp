@@ -1,0 +1,14 @@
+1	me	me	PRP	_	9	nsubj	_	O
+2	every	every	DT	_	4	det	_	B-TIME
+3	20	0	CD	_	4	nmod	_	I-TIME
+4	minutes	minute	NNS	_	8	dep	_	L-TIME
+5	:	:	:	_	9	punct	_	O
+6	persona	persona	NN	_	9	nsubj	_	O
+7	5	0	CD	_	6	nmod	_	U-CARDINAL
+8	is	be	VBZ	_	9	aux	_	O
+9	gon	gon	VBG	_	0	root	_	O
+10	na	to	TO	_	11	aux	_	O
+11	be	be	VB	_	9	xcomp	_	O
+12	so	so	RB	_	13	advmod	_	O
+13	good	good	JJ	_	11	acomp	_	O
+

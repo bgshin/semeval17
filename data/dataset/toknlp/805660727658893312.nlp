@@ -1,0 +1,23 @@
+1	@docrocktex26	@docrocktex0	NN	pos2=LS	3	npadvmod	_	O
+2	•	-	HYPH	pos2=:	3	punct	_	O
+3	small	small	JJ	_	4	nmod	_	O
+4	states	state	NNS	_	5	nsubj	_	O
+5	given	give	VBN	pos2=NN	9	ccomp	_	O
+6	=	=	SYM	_	9	punct	_	O
+7	weight•pop	weight-pop	JJ	pos2=TO	8	nmod	_	O
+8	vote	vote	NN	_	9	nsubj	_	O
+9	means	mean	VBZ	pos2=NNS	0	root	_	O
+10	nothing•electors	nothing-electors	NNS	pos2=PRP	12	nsubj	_	O
+11	can	can	MD	_	12	aux	_	O
+12	vote	vote	VB	_	9	ccomp	_	O
+13	any	any	DT	_	14	det	_	O
+14	way	way	NN	_	12	npadvmod	_	O
+15	they	they	PRP	_	16	nsubj	_	O
+16	want	want	VBP	_	14	relcl	_	O
+17	.	.	.	_	9	punct	_	O
+
+1	Electoral	electoral	JJ	pos2=NNP	2	nmod	_	O
+2	college	college	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	ridiculous	ridiculous	JJ	_	3	acomp	_	O
+

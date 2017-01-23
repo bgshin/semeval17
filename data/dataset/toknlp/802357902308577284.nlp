@@ -1,0 +1,29 @@
+1	@Gunntwitt	@gunntwitt	NNP	pos2=UH	4	vocative	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	’d	would	MD	pos2=VBD	4	aux	_	O
+4	sign	sign	VB	_	0	root	_	O
+5	off	off	RP	_	4	prt	_	O
+6	on	on	IN	_	4	prep	_	O
+7	it	it	PRP	_	6	pobj	_	O
+8	-	-	:	pos2=,	4	punct	_	O
+9	if	if	IN	_	12	mark	_	O
+10	we	we	PRP	_	12	nsubj	_	O
+11	must	must	MD	_	12	aux	_	O
+12	be	be	VB	_	4	advcl	_	O
+13	self	self	NN	pos2=PRP	14	npadvmod	_	O
+14	defeating	defeat	VBG	pos2=NN	12	acomp	_	O
+15	.	.	.	_	4	punct	_	O
+
+1	Bolton	bolton	NNP	pos2=DT	3	nmod	_	U-PERSON
+2	good	good	JJ	_	3	nmod	_	O
+3	choice	choice	NN	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	Trump	trump	NNP	pos2=NN	7	compound	_	O
+6	-	-	HYPH	_	7	punct	_	O
+7	style	style	NN	_	8	compound	_	O
+8	cabinet	cabinet	NN	_	4	pobj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	@EternaFreeda	@eternafreeda	ADD	pos2=NN	0	root	_	O
+2	@MissLizzyNJ	@misslizzynj	ADD	pos2=NN	1	pobj	_	O
+

@@ -1,0 +1,17 @@
+1	@KayZed14	@kayzed0	NN	pos2=LS	2	compound	_	O
+2	@LorettaLynch	@lorettalynch	NNP	pos2=XX	9	nsubj	_	U-PERSON
+3	Also	also	RB	_	9	advmod	_	O
+4	,	,	,	_	9	punct	_	O
+5	their	their	PRP$	_	7	poss	_	O
+6	campaign	campaign	NN	_	7	compound	_	O
+7	team	team	NN	_	9	nsubj	_	O
+8	literally	literally	RB	_	9	advmod	_	O
+9	admitted	admit	VBN	pos2=VBD	0	root	_	O
+10	to	to	IN	_	9	prep	_	O
+11	active	active	JJ	_	13	nmod	_	O
+12	voter	voter	NN	_	13	compound	_	O
+13	suppression	suppression	NN	_	10	pobj	_	O
+14	.	.	.	_	9	punct	_	O
+
+1	https://t.co/jNdOjOasxB	#hlink#	ADD	_	0	root	_	U-ORG
+

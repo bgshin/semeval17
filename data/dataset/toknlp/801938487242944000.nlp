@@ -1,0 +1,15 @@
+1	Love	love	NN	pos2=NNP	2	nsubj	_	U-WORK_OF_ART
+2	is	be	VBZ	_	0	root	_	O
+3	all	all	DT	_	2	attr	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	need	need	VBP	_	3	relcl	_	O
+6	to	to	TO	_	8	aux	_	O
+7	be	be	VB	_	8	auxpass	_	O
+8	#ThankfulFor	#thankfulfor	VBN	pos2=ADD	5	xcomp	_	O
+9	!	!	.	_	2	punct	_	O
+
+1	❤️	❤️	NFP	pos2=NNP	4	punct	_	O
+2	#ScreamQueens	#screamqueens	GW	pos2=NNS	4	nmod	_	U-PERSON
+3	#Thanksgiving	#thanksgiving	VBG	pos2=GW	4	nmod	_	O
+4	https://t.co/yuedT4QXmN	#hlink#	ADD	pos2=NN	0	root	_	O
+

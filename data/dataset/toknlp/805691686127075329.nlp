@@ -1,0 +1,19 @@
+1	AMAZING	amazing	JJ	pos2=NN	5	nmod	_	O
+2	"	"	``	pos2=''	5	punct	_	O
+3	Go	go	VB	pos2=NNP	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	Cubs	cub	NNPS	pos2=NNP	3	vocative	_	U-ORG
+6	,	,	,	_	7	punct	_	O
+7	Go	go	VB	pos2=NNP	3	dep	_	O
+8	"	"	``	pos2=''	3	punct	_	O
+9	Holiday	holiday	NNP	pos2=NN	10	compound	_	U-WORK_OF_ART
+10	display	display	NN	_	11	nsubj	_	O
+11	features	feature	VBZ	pos2=NNS	18	dep	_	O
+12	thousands	#crd#	NNS	_	11	dobj	_	U-CARDINAL
+13	of	of	IN	_	12	prep	_	O
+14	lights	light	NNS	_	13	pobj	_	O
+15	and	and	CC	_	14	cc	_	O
+16	music	music	NN	pos2=GW	18	dep	_	O
+17	https://t.co/Q2lJFQkmcq	#hlink#	ADD	_	18	nmod	_	O
+18	https://t.co/BLQM1KKi7M	#hlink#	ADD	_	3	dep	_	U-ORG
+

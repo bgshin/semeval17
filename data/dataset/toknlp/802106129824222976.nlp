@@ -1,0 +1,11 @@
+1	@ricky_martin	@ricky_martin	NNP	pos2=UH	8	nmod	_	U-PERSON
+2	#maria	#maria	UH	pos2=FW	8	discourse	_	O
+3	#palaciovistalegre	#palaciovistalegre	UH	pos2=FW	8	discourse	_	O
+4	#madrid	#madrid	UH	pos2=FW	8	discourse	_	O
+5	#primafila	#primafila	UH	pos2=FW	8	discourse	_	O
+6	@_	@_	NFP	pos2=-LRB-	8	punct	_	O
+7	tatianadelgado	tatianadelgado	DT	pos2=PRP$	8	det	_	O
+8	president	president	NN	pos2=GW	10	dep	_	O
+9	…	…	NFP	pos2=-LRB-	10	punct	_	O
+10	https://t.co/WBRcI9xYay	#hlink#	ADD	_	0	root	_	U-ORG
+

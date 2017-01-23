@@ -1,0 +1,21 @@
+1	@yshestressinme	@yshestressinme	UH	_	5	discourse	_	O
+2	ohhh	ohhh	UH	_	5	discourse	_	O
+3	ok	ok	UH	_	5	discourse	_	O
+4	i	I	PRP	_	5	nsubj	_	O
+5	see	see	VBP	_	0	root	_	O
+6	🤔	🤔	NNP	pos2=PRP	5	dobj	_	U-PERSON
+7	what	what	WP	_	3	dep	_	O
+8	if	if	IN	_	10	mark	_	O
+9	u	u	PRP	pos2=DT	10	nsubj	_	O
+10	have	have	VBP	_	5	advcl	_	O
+11	medical	medical	JJ	_	13	nmod	_	O
+12	marijuana	marijuana	NN	_	13	compound	_	O
+13	clearance	clearance	NN	_	10	dobj	_	O
+14	?	?	.	_	5	punct	_	O
+
+1	Does	do	VBZ	_	3	aux	_	O
+2	that	that	DT	pos2=WDT	3	nsubj	_	O
+3	make	make	VB	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	difference	difference	NN	_	3	dobj	_	O
+

@@ -1,0 +1,13 @@
+1	@moonnor27	@moonnor0	NN	pos2=TO	2	nsubj	_	O
+2	wake	wake	VBP	pos2=VB	0	root	_	O
+3	up	up	RP	pos2=IN	2	prt	_	O
+4	world	world	NN	_	2	dobj	_	O
+5	...	..	.	_	2	punct	_	O
+
+1	Putin	putin	NNP	_	2	nsubj	_	U-PERSON
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	child	child	NN	_	5	compound	_	O
+5	killer	killer	NN	_	2	attr	_	O
+6	!	!	.	_	2	punct	_	O
+

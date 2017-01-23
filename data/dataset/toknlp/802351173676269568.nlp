@@ -1,0 +1,25 @@
+1	Had	have	VBD	_	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	allow	allow	VB	_	1	xcomp	_	O
+4	myself	myself	PRP	_	3	dative	_	O
+5	one	#crd#	CD	_	6	nmod	_	U-CARDINAL
+6	bit	bit	NN	_	3	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	online	online	JJ	pos2=NN	9	nmod	_	O
+9	shopping	shopping	NN	_	7	pobj	_	O
+10	today	today	NN	_	3	npadvmod	_	U-DATE
+11	since	since	IN	_	15	mark	_	O
+12	they	they	PRP	_	15	nsubj	_	O
+13	're	be	VBP	_	15	aux	_	O
+14	only	only	RB	_	15	advmod	_	O
+15	making	make	VBG	_	3	advcl	_	O
+16	one	#crd#	CD	_	17	nmod	_	U-CARDINAL
+17	run	run	NN	_	15	dobj	_	O
+18	of	of	IN	_	17	prep	_	O
+19	these	these	DT	_	23	det	_	O
+20	Leonard	leonard	NNP	_	21	compound	_	B-PERSON
+21	Cohen	cohen	NNP	_	24	dep	_	L-PERSON
+22	homag	homag	GW	pos2=VBD	24	nmod	_	O
+23	…	…	NFP	pos2=GW	24	punct	_	O
+24	https://t.co/FlMKs8UrTR	#hlink#	ADD	_	15	dep	_	O
+

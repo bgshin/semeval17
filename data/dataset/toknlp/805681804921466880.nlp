@@ -1,0 +1,22 @@
+1	@JackPosobiec	@jackposobiec	ADD	pos2=XX	8	nsubj	_	O
+2	@ThankYouBernie	@thankyoubernie	NNP	pos2=ADD	1	vocative	_	O
+3	@jaketapper	@jaketapper	IN	pos2=PRP$	1	prep	_	O
+4	Fracking	fracking	VBG	pos2=NNP	6	nmod	_	O
+5	art	art	NN	_	6	compound	_	O
+6	work	work	NN	_	3	pobj	_	O
+7	should	should	MD	_	8	aux	_	O
+8	have	have	VB	_	0	root	_	O
+9	CPS	cps	NN	pos2=NNP	8	dobj	_	U-ORG
+10	investigating	investigate	VBG	pos2=NN	8	xcomp	_	O
+11	but	but	CC	_	8	cc	_	O
+12	than	than	IN	_	15	mark	_	O
+13	maybe	maybe	RB	pos2=JJ	15	advmod	_	O
+14	kids	kid	NNS	pos2=VBZ	15	nsubj	_	O
+15	r	r	VBP	pos2=JJ	10	advcl	_	O
+16	welcome	welcome	JJ	pos2=VBP	15	acomp	_	O
+17	at	at	IN	_	15	prep	_	O
+18	strip	strip	NN	_	19	compound	_	O
+19	clubs	club	NNS	_	17	pobj	_	O
+20	too	too	RB	_	15	advmod	_	O
+21	!?	!?	.	_	8	punct	_	O
+

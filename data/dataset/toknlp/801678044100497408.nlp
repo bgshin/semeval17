@@ -1,0 +1,18 @@
+1	#Microsoft	#microsoft	NNP	pos2=WP	2	nsubj	_	U-ORG
+2	joins	join	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	B-ORG
+4	#Linux	#linux	NNP	_	5	compound	_	I-ORG
+5	Foundation	foundation	NNP	pos2=NN	2	dobj	_	L-ORG
+6	.	.	.	_	2	punct	_	O
+
+1	But	but	CC	_	4	cc	_	O
+2	,	,	,	_	4	punct	_	O
+3	there	there	EX	_	4	expl	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	twist	twist	NN	_	4	attr	_	O
+7	!	!	.	_	4	punct	_	O
+
+1	|	|	SYM	pos2=-LRB-	2	punct	_	O
+2	https://t.co/DXWopljsCW	#hlink#	ADD	_	0	root	_	O
+

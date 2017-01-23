@@ -1,0 +1,12 @@
+1	@cj249colin	@cj0colin	NN	pos2=NNP	2	compound	_	O
+2	@KremlinTrolls	@kremlintrolls	NNS	pos2=VBZ	7	nsubj	_	O
+3	@noclador	@noclador	IN	pos2=UH	2	prep	_	O
+4	@AndreaChalupa	@andreachalupa	NNP	pos2=GW	5	compound	_	O
+5	@Support	@support	NNP	pos2=POS	8	poss	_	O
+6	@McFaul	@mcfaul	POS	pos2=NNP	5	case	_	O
+7	@StopFakingNews	@stopfakingnews	VBZ	pos2=NNP	0	root	_	O
+8	noise	noise	NN	_	7	dobj	_	O
+9	but	but	CC	_	8	cc	_	O
+10	no	no	DT	_	11	det	_	O
+11	substance	substance	NN	_	8	conj	_	O
+

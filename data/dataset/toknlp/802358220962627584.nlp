@@ -1,0 +1,26 @@
+1	Batman	batman	NNP	_	2	nsubj	_	U-WORK_OF_ART
+2	Returns	return	VBZ	pos2=NNP	0	root	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	10	det	_	O
+5	1992	0	CD	_	10	nmod	_	U-DATE
+6	Tim	tim	NNP	_	10	nmod	_	O
+7	Burton	burton	NNP	_	9	npadvmod	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	directed	direct	VBN	_	10	nmod	_	O
+10	film	film	NN	_	3	attr	_	O
+11	about	about	IN	_	10	prep	_	B-DATE
+12	the	the	DT	_	13	det	_	I-DATE
+13	year	year	NN	_	11	pobj	_	I-DATE
+14	2016	0	CD	_	13	appos	_	L-DATE
+15	,	,	,	_	3	punct	_	O
+16	starring	star	VBG	_	3	advcl	_	O
+17	Danny	danny	NNP	_	18	compound	_	B-PERSON
+18	DeVito	devito	NNP	_	16	dobj	_	L-PERSON
+19	as	as	IN	_	16	prep	_	O
+20	both	both	DT	pos2=CC	22	preconj	_	O
+21	Donald	donald	NNP	_	22	compound	_	B-PERSON
+22	Trump	trump	NNP	_	19	pobj	_	L-PERSON
+23	and	and	CC	_	22	cc	_	O
+24	Steve	steve	NNP	_	25	compound	_	B-PERSON
+25	Bannon	bannon	NNP	_	22	conj	_	L-PERSON
+

@@ -1,0 +1,18 @@
+1	Are	be	VBP	_	0	root	_	O
+2	you	you	PRP	_	1	nsubj	_	O
+3	against	against	IN	_	1	prep	_	O
+4	animal	animal	NN	_	5	compound	_	O
+5	testing	testing	NN	_	3	pobj	_	O
+6	?	?	.	_	1	punct	_	O
+
+1	Be	be	VB	_	0	root	_	O
+2	sure	sure	JJ	_	1	acomp	_	O
+3	to	to	TO	_	4	aux	_	O
+4	stay	stay	VB	_	2	xcomp	_	O
+5	up	up	IN	pos2=RB	4	prep	_	O
+6	to	to	IN	_	5	prep	_	O
+7	date	date	NN	_	6	pobj	_	O
+8	...	..	.	_	1	punct	_	O
+
+1	https://t.co/kFdkzkn2ci	#hlink#	ADD	_	0	root	_	U-ORG
+

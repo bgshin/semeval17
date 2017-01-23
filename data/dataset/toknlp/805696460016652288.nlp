@@ -1,0 +1,31 @@
+1	@sunshadow7	@sunshadow0	LS	pos2=NN	4	meta	_	O
+2	How	how	WRB	_	3	advmod	_	O
+3	old	old	JJ	_	4	acomp	_	O
+4	are	be	VBP	_	0	root	_	O
+5	you	you	PRP	_	4	nsubj	_	O
+6	btw	btw	RB	pos2=JJ	4	advmod	_	O
+7	?	?	.	_	4	punct	_	O
+
+1	These	these	DT	_	2	det	_	O
+2	laws	law	NNS	_	4	nsubj	_	O
+3	have	have	VBP	_	4	aux	_	O
+4	been	be	VBN	_	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	place	place	NN	_	5	pobj	_	O
+7	for	for	IN	_	4	prep	_	O
+8	20	0	CD	_	9	nmod	_	B-DATE
+9	years	year	NNS	_	7	pobj	_	L-DATE
+10	on	on	IN	_	9	prep	_	O
+11	gun	gun	NN	_	12	compound	_	O
+12	control	control	NN	pos2=NNS	10	pobj	_	O
+13	and	and	CC	_	7	cc	_	O
+14	before	before	IN	_	17	prep	_	O
+15	that	that	DT	pos2=IN	14	pobj	_	O
+16	it	it	PRP	_	17	nsubj	_	O
+17	was	be	VBD	_	4	advcl	_	O
+18	an	an	DT	_	20	det	_	O
+19	evolving	evolve	VBG	pos2=JJ	20	nmod	_	O
+20	issue	issue	NN	_	17	attr	_	O
+21	for	for	IN	_	20	prep	_	O
+22	20	0	CD	_	21	pobj	_	U-DATE
+

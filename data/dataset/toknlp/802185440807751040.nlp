@@ -1,0 +1,16 @@
+1	@HillaryClinton	@hillaryclinton	NNP	pos2=ADD	5	vocative	_	U-ORG
+2	,	,	,	_	5	punct	_	O
+3	are	be	VBP	_	5	aux	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	listening	listen	VBG	_	0	root	_	O
+6	?	?	.	_	5	punct	_	O
+
+1	#AuditTheVote	#auditthevote	ADD	pos2=UH	8	dep	_	O
+2	#StillWithHer	#stillwithher	ADD	pos2=GW	8	dep	_	O
+3	#resist	#resist	UH	pos2=IN	8	dep	_	O
+4	#NeverTrump	#nevertrump	ADD	pos2=VB	8	dep	_	O
+5	#Recount2016	#recount0	NN	pos2=NNS	8	dep	_	O
+6	#SaveOurFuture	#saveourfuture	GW	pos2=ADD	8	nmod	_	O
+7	…	…	NFP	pos2=GW	8	punct	_	O
+8	https://t.co/ho9f2mvWkP	#hlink#	ADD	pos2=NN	0	root	_	O
+

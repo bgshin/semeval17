@@ -1,0 +1,9 @@
+1	Can	can	MD	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	say	say	VB	_	0	root	_	O
+4	DEATH	death	NN	_	5	compound	_	O
+5	PENALTY	penalty	NN	_	3	dobj	_	O
+6	?	?	.	_	3	punct	_	O
+
+1	https://t.co/1ozqYhAQca	#hlink#	ADD	_	0	root	_	U-ORG
+

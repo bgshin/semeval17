@@ -1,0 +1,30 @@
+1	Hey	hey	UH	_	0	root	_	O
+2	Guys	guy	NNS	pos2=NNPS	1	vocative	_	O
+3	!	!	.	_	1	punct	_	O
+
+1	Next	next	JJ	pos2=RB	2	nmod	_	B-DATE
+2	month	month	NN	_	5	npadvmod	_	L-DATE
+3	I	I	PRP	_	5	nsubj	_	O
+4	'm	be	VBP	_	5	aux	_	O
+5	going	go	VBG	_	0	root	_	O
+6	to	to	IN	_	5	prep	_	O
+7	Korea	korea	NNP	_	6	pobj	_	U-GPE
+8	in	in	IN	_	5	prep	_	O
+9	My	my	PRP$	_	10	poss	_	O
+10	Mother	mother	NN	pos2=NNP	8	pobj	_	O
+11	to	to	TO	_	12	aux	_	O
+12	spend	spend	VB	_	5	advcl	_	O
+13	Christmas	christmas	NNP	_	14	compound	_	U-DATE
+14	vacation	vacation	NN	_	12	dobj	_	O
+15	there	there	RB	_	12	advmod	_	O
+16	and	and	CC	_	5	cc	_	O
+17	I	I	PRP	_	18	nsubj	_	O
+18	'm	be	VBP	_	5	conj	_	O
+19	so	so	RB	_	20	advmod	_	O
+20	excited	excited	JJ	_	18	acomp	_	O
+21	!!!	!!	.	_	18	punct	_	O
+
+1	#korea	#korea	UH	pos2=NN	3	discourse	_	O
+2	#onedirection	#onedirection	UH	pos2=NN	3	discourse	_	O
+3	#me	#me	UH	pos2=.	0	root	_	O
+

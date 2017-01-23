@@ -1,0 +1,9 @@
+1	Twitter	twitter	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	reacts	react	VBZ	_	0	root	_	O
+3	to	to	IN	pos2=TO	2	prep	_	O
+4	LeBron	lebron	NNP	_	3	pobj	_	U-ORG
+5	donning	don	VBG	_	2	advcl	_	O
+6	Cubs	cub	NNPS	pos2=NNS	8	nmod	_	U-ORG
+7	uniform	uniform	JJ	pos2=NN	8	nmod	_	O
+8	https://t.co/UtEOjglQWK	#hlink#	ADD	pos2=NN	5	dobj	_	O
+

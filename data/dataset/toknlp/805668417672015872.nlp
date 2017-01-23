@@ -1,0 +1,26 @@
+1	@SpeakerRyan	@speakerryan	MD	pos2=TO	3	aux	_	O
+2	help	help	NN	pos2=VB	3	nsubj	_	O
+3	stop	stop	VB	_	0	root	_	O
+4	the	the	DT	_	9	det	_	O
+5	damn	damn	RB	pos2=JJ	6	advmod	_	O
+6	illegal	illegal	JJ	_	9	nmod	_	O
+7	,	,	,	_	9	punct	_	O
+8	foreign	foreign	JJ	_	9	nmod	_	O
+9	invasion	invasion	NN	_	3	dobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	America	america	NNP	_	10	pobj	_	U-GPE
+12	.	.	.	_	3	punct	_	O
+
+1	Why	why	WRB	_	5	advmod	_	O
+2	ca	can	MD	_	5	aux	_	O
+3	n't	not	RB	_	5	neg	_	O
+4	America	america	NNP	pos2=PRP	5	nsubj	_	U-GPE
+5	have	have	VB	pos2=POS	0	root	_	O
+6	borders	border	NNS	_	5	dobj	_	O
+7	&	&	CC	_	6	cc	_	O
+8	enforcement	enforcement	NN	_	6	conj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	immigration	immigration	NN	_	11	compound	_	O
+11	laws	law	NNS	_	9	pobj	_	O
+12	?	?	.	_	5	punct	_	O
+

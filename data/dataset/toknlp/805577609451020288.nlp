@@ -1,0 +1,30 @@
+1	EU	eu	NNP	pos2=NN	3	nsubjpass	_	U-ORG
+2	is	be	VBZ	_	3	auxpass	_	O
+3	finished	finish	VBN	_	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	in	in	IN	_	3	prep	_	O
+6	my	my	PRP$	_	7	poss	_	O
+7	opinion	opinion	NN	_	5	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	Marine	marine	NNP	pos2=JJ	3	compound	_	B-ORG
+2	Le	le	NNP	_	3	compound	_	I-ORG
+3	Pen	pen	NNP	_	5	nsubj	_	L-ORG
+4	will	will	MD	_	5	aux	_	O
+5	win	win	VB	_	0	root	_	O
+6	France	france	NNP	_	7	compound	_	U-GPE
+7	elections	election	NNS	pos2=NNPS	5	dobj	_	O
+8	and	and	CC	_	5	cc	_	O
+9	try	try	VB	_	5	conj	_	O
+10	to	to	TO	_	11	aux	_	O
+11	get	get	VB	_	9	xcomp	_	O
+12	her	her	PRP$	_	13	poss	_	O
+13	country	country	NN	_	11	dobj	_	O
+14	out	out	IN	_	11	prep	_	O
+15	of	of	IN	_	14	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	union	union	NN	_	15	pobj	_	O
+18	.	.	.	_	5	punct	_	O
+
+1	#Renzi	#renzi	NNP	pos2=NNS	0	root	_	O
+

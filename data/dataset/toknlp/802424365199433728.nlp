@@ -1,0 +1,32 @@
+1	my	my	PRP$	_	2	poss	_	O
+2	family	family	NN	_	4	nsubjpass	_	O
+3	was	be	VBD	_	4	auxpass	_	O
+4	lit	light	VBN	pos2=RB	0	root	_	O
+5	as	as	IN	_	4	prep	_	O
+6	hell	hell	NN	_	5	pobj	_	O
+7	when	when	WRB	_	9	advmod	_	O
+8	Chavez	chavez	NNP	_	9	nsubj	_	U-PERSON
+9	died	die	VBD	_	4	advcl	_	O
+10	&	&	CC	pos2=``	9	cc	_	O
+11	it	it	PRP	_	12	nsubj	_	O
+12	's	's	VBZ	_	9	conj	_	O
+13	a	a	DT	_	14	det	_	O
+14	celebration	celebration	NN	_	12	attr	_	O
+15	now	now	RB	_	12	advmod	_	O
+16	that	that	IN	pos2=WDT	18	mark	_	O
+17	Castro	castro	NNP	_	18	nsubj	_	U-PERSON
+18	died	die	VBD	_	12	ccomp	_	O
+19	&	&	CC	_	18	cc	_	O
+20	we	we	PRP	_	23	nsubj	_	O
+21	not	not	RB	_	23	neg	_	O
+22	even	even	RB	_	23	advmod	_	O
+23	Cuban	cuban	JJ	pos2=NNP	18	conj	_	U-NORP
+24	...	..	.	pos2=,	12	punct	_	O
+
+1	maduro	maduro	UH	pos2=NN	5	discourse	_	O
+2	when	when	WRB	_	3	advmod	_	O
+3	's	's	VBZ	pos2=VBG	0	root	_	O
+4	your	your	PRP$	_	5	poss	_	O
+5	turn	turn	NN	_	3	nsubj	_	O
+6	?	?	.	_	3	punct	_	O
+

@@ -1,0 +1,26 @@
+1	@immigrant4trump	@immigrant0trump	NN	pos2=XX	3	compound	_	O
+2	Gov.	gov.	NNP	_	3	compound	_	O
+3	Moonbeam	moonbeam	NNP	_	5	poss	_	U-PERSON
+4	's	's	POS	_	3	case	_	O
+5	goal	goal	NN	_	6	nsubj	_	O
+6	was	be	VBD	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	turn	turn	VB	_	6	xcomp	_	O
+9	CA	ca	RP	pos2=NN	8	prt	_	O
+10	blue	blue	JJ	pos2=NN	8	acomp	_	O
+11	by	by	IN	_	8	prep	_	O
+12	handing	hand	VBG	_	11	pcomp	_	O
+13	out	out	RP	_	12	prt	_	O
+14	driver	driver	NN	_	16	poss	_	O
+15	's	's	POS	_	14	case	_	O
+16	licenses	license	NNS	_	12	dobj	_	O
+17	to	to	IN	_	12	prep	_	O
+18	illegals	illegal	NNS	_	17	pobj	_	O
+19	along	along	IN	_	12	prt	_	O
+20	with	with	IN	_	19	prep	_	O
+21	a	a	DT	_	24	det	_	O
+22	voter	voter	NN	_	23	compound	_	O
+23	registration	registration	NN	_	24	compound	_	O
+24	form	form	NN	_	20	pobj	_	O
+25	.	.	.	_	6	punct	_	O
+

@@ -1,0 +1,24 @@
+1	@AbbyMartin	@abbymartin	NNP	pos2=XX	3	compound	_	B-PERSON
+2	Poor	poor	NNP	pos2=JJ	3	compound	_	I-PERSON
+3	Abby	abby	NNP	_	0	root	_	L-PERSON
+4	.	.	.	_	3	punct	_	O
+
+1	Fidel	fidel	NNP	_	2	nsubj	_	U-PERSON
+2	dead	dead	JJ	pos2=RB	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Maduro	maduro	NNP	pos2=NN	4	nsubjpass	_	U-PERSON
+2	will	will	MD	_	4	aux	_	O
+3	be	be	VB	_	4	auxpass	_	O
+4	overthrown	overthrow	VBN	pos2=JJ	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	What	what	WP	_	2	attr	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	commie	commie	NN	pos2=JJ	5	compound	_	O
+5	lover	lover	NN	_	2	nsubj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	do	do	VB	_	5	relcl	_	O
+8	?	?	.	_	2	punct	_	O
+

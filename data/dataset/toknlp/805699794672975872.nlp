@@ -1,0 +1,12 @@
+1	#is	#is	PRP$	pos2=UH	3	poss	_	O
+2	sex	sex	NN	_	3	nsubj	_	O
+3	important	important	JJ	pos2=RB	11	dep	_	O
+4	in	in	IN	_	3	prep	_	O
+5	marriage	marriage	NN	pos2=JJ	11	dep	_	O
+6	free	free	JJ	_	8	nmod	_	O
+7	gay	gay	JJ	_	8	nmod	_	O
+8	picture	picture	NN	_	11	dep	_	O
+9	sex	sex	NN	_	10	compound	_	O
+10	teen	teen	NN	_	11	dep	_	O
+11	https://t.co/ImT9fvYAsM	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

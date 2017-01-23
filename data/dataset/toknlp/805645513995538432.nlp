@@ -1,0 +1,27 @@
+1	Jesuit	jesuit	NNP	_	3	compound	_	B-PERSON
+2	Pope	pope	NNP	_	3	compound	_	I-PERSON
+3	Francis	francis	NNP	_	4	nsubj	_	L-PERSON
+4	took	take	VBD	_	0	root	_	O
+5	this	this	DT	_	7	det	_	O
+6	Jesuit	jesuit	NNP	_	7	compound	_	B-ORG
+7	Oath	oath	NNP	pos2=NN	4	dobj	_	I-ORG
+8	of	of	IN	_	7	prep	_	I-ORG
+9	Extreme	extreme	NNP	pos2=JJ	10	compound	_	I-ORG
+10	Induction	induction	NNP	pos2=NN	8	pobj	_	L-ORG
+11	.	.	.	_	4	punct	_	O
+
+1	NOW	now	RB	_	3	advmod	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	decide	decide	VBP	pos2=VB	0	root	_	O
+4	who	who	WP	_	5	attr	_	O
+5	is	be	VBZ	_	3	ccomp	_	O
+6	the	the	DT	_	8	det	_	O
+7	SICK	sick	JJ	_	8	nmod	_	O
+8	one	#crd#	CD	pos2=NN	5	attr	_	U-CARDINAL
+9	in	in	IN	pos2=WDT	8	prep	_	O
+10	need	need	NN	_	9	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	Chris	chris	NNP	_	11	pobj	_	B-PERSON
+13	…	…	NFP	pos2=-LRB-	8	relcl	_	L-PERSON
+14	https://t.co/WWH2MHvwlt	#hlink#	ADD	_	12	appos	_	O
+

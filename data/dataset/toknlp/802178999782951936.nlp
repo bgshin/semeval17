@@ -1,0 +1,10 @@
+1	@Mehdiamzgh	@mehdiamzgh	NNP	pos2=XX	6	compound	_	O
+2	Russell	russell	NNP	_	3	compound	_	O
+3	Wilson	wilson	NNP	_	6	compound	_	O
+4	💓	💓	NNP	pos2=POS	6	compound	_	O
+5	Tony	tony	NNP	_	6	compound	_	B-PERSON
+6	Romo	romo	NNP	_	9	dep	_	L-PERSON
+7	aussi	aussi	FW	pos2=NNP	9	dep	_	O
+8	mais	mais	FW	_	9	nmod	_	O
+9	bon	bon	FW	pos2=NN	0	root	_	O
+

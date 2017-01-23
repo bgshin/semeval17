@@ -1,0 +1,12 @@
+1	FastPowerPunch	fastpowerpunch	NN	pos2=VB	11	dep	_	O
+2	MovesBowieAction	movesbowieaction	NNP	pos2=ADD	4	compound	_	B-ORG
+3	NotFastest	notfastest	NNP	pos2=JJS	4	compound	_	I-ORG
+4	#Israel	#israel	NNP	_	7	poss	_	I-ORG
+5	's	's	POS	pos2=VBZ	4	case	_	L-ORG
+6	Samson	samson	NNP	_	7	compound	_	B-ORG
+7	Slew1000	slew0	NNP	pos2=NNPS	11	dep	_	I-ORG
+8	#HAMAS	#hamas	ADD	pos2=VBZ	11	dep	_	I-ORG
+9	AssesCalledPhilistines	assescalledphilistines	NNP	pos2=NNPS	11	nmod	_	L-ORG
+10	#IStandWithIsrael	#istandwithisrael	ADD	pos2=GW	11	punct	_	O
+11	https://t.co/5s157tsQWZ	#hlink#	ADD	_	0	root	_	U-ORG
+

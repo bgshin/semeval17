@@ -1,0 +1,18 @@
+1	#Uber	#uber	NNP	pos2=VB	2	nsubj	_	U-ORG
+2	rolls	roll	VBZ	pos2=NNS	0	root	_	O
+3	out	out	RP	pos2=IN	2	prt	_	O
+4	new	new	JJ	_	5	nmod	_	O
+5	features	feature	NNS	_	2	dobj	_	O
+6	in	in	IN	_	2	prep	_	O
+7	its	its	PRP$	_	8	poss	_	O
+8	rider	rider	NN	_	6	pobj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	driver	driver	NN	_	11	compound	_	O
+11	app	app	NN	_	8	conj	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	more	more	RBR	pos2=JJR	1	advmod	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/X2xZhhDPfJ	#hlink#	ADD	pos2=NN	1	dep	_	O
+

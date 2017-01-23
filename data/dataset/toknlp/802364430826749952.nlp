@@ -1,0 +1,25 @@
+1	@Trillburne	@trillburne	NNP	pos2=NN	2	compound	_	B-PERSON
+2	@ActonInstitute	@actoninstitute	NNP	pos2=ADD	6	vocative	_	L-PERSON
+3	Also	also	RB	_	2	advmod	_	O
+4	:	:	:	_	6	punct	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	know	know	VBP	_	0	root	_	O
+7	which	which	WDT	_	8	det	_	O
+8	group	group	NN	_	11	nsubj	_	O
+9	has	have	VBZ	_	11	aux	_	O
+10	been	be	VBN	_	11	aux	_	O
+11	trying	try	VBG	_	6	ccomp	_	O
+12	to	to	TO	_	13	aux	_	O
+13	take	take	VB	_	11	xcomp	_	O
+14	a	a	DT	_	17	det	_	O
+15	more	more	RBR	pos2=JJR	16	advmod	_	O
+16	holistic	holistic	JJ	_	17	nmod	_	O
+17	approach	approach	NN	_	13	dobj	_	O
+18	to	to	IN	_	17	prep	_	O
+19	education	education	NN	_	18	pobj	_	O
+20	for	for	IN	_	13	prep	_	O
+21	decades	decade	NNS	_	20	pobj	_	U-DATE
+22	?	?	.	_	6	punct	_	O
+
+1	Leftists	leftist	NNS	pos2=NNPS	0	root	_	U-NORP
+

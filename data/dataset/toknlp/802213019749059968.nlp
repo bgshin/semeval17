@@ -1,0 +1,10 @@
+1	For	for	IN	_	6	prep	_	O
+2	#BeautyAndTheBeast	#beautyandthebeast	NN	pos2=XX	1	pobj	_	U-PERSON
+3	only	only	RB	_	4	advmod	_	O
+4	#CelineDion	#celinedion	NNP	pos2=NN	6	nsubj	_	O
+5	can	can	MD	_	7	aux	_	O
+6	resing	resing	VBG	pos2=VB	0	root	_	O
+7	this	this	DT	_	8	det	_	O
+8	classic	classic	NN	pos2=JJ	6	dobj	_	O
+9	!	!	.	_	1	punct	_	O
+

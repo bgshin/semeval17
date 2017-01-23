@@ -1,0 +1,17 @@
+1	@DrJillStein	@drjillstein	NN	pos2=ADD	2	nsubj	_	O
+2	appears	appear	VBZ	_	0	root	_	O
+3	to	to	TO	_	5	aux	_	O
+4	have	have	VB	_	5	aux	_	O
+5	become	become	VBN	pos2=VB	2	xcomp	_	O
+6	another	another	DT	_	8	det	_	O
+7	Michael	michael	NNP	_	8	compound	_	B-PERSON
+8	Moore	moore	NNP	_	5	attr	_	L-PERSON
+9	,	,	,	_	2	punct	_	O
+10	but	but	CC	_	2	cc	_	O
+11	with	with	IN	_	10	prep	_	O
+12	zero	#crd#	CD	_	13	nmod	_	U-CARDINAL
+13	sense	sense	NN	_	11	pobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	humor	humor	NN	_	14	pobj	_	O
+16	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,14 @@
+1	commodity	commodity	NN	_	2	compound	_	O
+2	fetishism	fetishism	NN	_	0	root	_	O
+3	vs	vs	CC	pos2=IN	2	cc	_	O
+4	supporting	support	VBG	_	2	conj	_	O
+5	the	the	DT	_	7	det	_	O
+6	ongoing	ongoing	JJ	_	7	nmod	_	O
+7	resistance	resistance	NN	_	4	dobj	_	O
+8	to	to	IN	pos2=TO	7	prep	_	O
+9	dakota	dakota	JJ	pos2=GW	11	nmod	_	O
+10	access	access	NN	pos2=GW	11	compound	_	O
+11	pipeline	pipeline	NN	pos2=GW	8	pobj	_	O
+12	#nodapl	#nodapl	ADD	pos2=XX	7	prep	_	O
+13	https://t.co/EBWOz1IfPC	#hlink#	ADD	_	12	pobj	_	U-GPE
+

@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det	_	O
+2	#Iranian	#iranian	NNP	pos2=JJ	3	compound	_	U-PERSON
+3	regime	regime	NN	_	4	nsubj	_	O
+4	carries	carry	VBZ	_	0	root	_	O
+5	out	out	RP	_	4	prt	_	O
+6	acts	act	NNS	_	4	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	terror	terror	NN	_	7	pobj	_	O
+9	against	against	IN	_	6	prep	_	O
+10	its	its	PRP$	_	12	poss	_	O
+11	own	own	JJ	_	12	nmod	_	O
+12	people	people	NNS	_	9	pobj	_	O
+13	on	on	IN	_	4	prep	_	O
+14	a	a	DT	_	16	det	_	O
+15	daily	daily	JJ	_	16	nmod	_	U-DATE
+16	basis	basis	NN	_	13	pobj	_	O
+17	;	;	,	pos2=:	18	punct	_	O
+18	money	money	NN	_	23	nsubj	_	O
+19	from	from	IN	_	18	prep	_	O
+20	the	the	DT	_	21	det	_	O
+21	#irandeal	#irandeal	NN	pos2=NNP	19	pobj	_	O
+22	we	we	PRP	_	0	root	_	O
+23	…	…	NFP	pos2=VBP	24	punct	_	O
+24	https://t.co/Wd0ABnoMOM	#hlink#	ADD	_	22	appos	_	O
+

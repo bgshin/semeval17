@@ -1,0 +1,20 @@
+1	#ElizabethWarren	#elizabethwarren	ADD	pos2=UH	7	prep	_	O
+2	#TrumpTransitionTeam	#trumptransitionteam	IN	pos2=UH	7	mark	_	O
+3	it	it	PRP	_	7	nsubjpass	_	O
+4	ca	can	MD	_	7	aux	_	O
+5	n't	not	RB	_	7	neg	_	O
+6	be	be	VB	_	7	auxpass	_	O
+7	said	say	VBN	pos2=VBD	0	root	_	O
+8	any	any	DT	pos2=RB	12	det	_	O
+9	more	more	RBR	_	10	advmod	_	O
+10	succinctly	succinctly	RB	_	14	advmod	_	O
+11	how	how	WRB	_	14	advmod	_	O
+12	Trump	trump	NNP	pos2=NN	14	nsubj	_	U-ORG
+13	is	be	VBZ	_	14	aux	_	O
+14	staffing	staff	VBG	_	17	ccomp	_	O
+15	his	his	PRP$	_	16	poss	_	O
+16	transition	transition	NN	_	14	dobj	_	O
+17	...	..	.	pos2=,	7	punct	_	O
+
+1	https://t.co/aQUSkVNxce	#hlink#	ADD	_	0	root	_	U-ORG
+

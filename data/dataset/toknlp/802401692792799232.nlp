@@ -1,0 +1,19 @@
+1	@anders_aslund	@anders_aslund	NNP	pos2=CC	2	det	_	O
+2	poroshenko	poroshenko	FW	pos2=NN	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	qmod	_	O
+5	hundred	#crd#	CD	_	7	npadvmod	_	U-CARDINAL
+6	times	time	NNS	_	5	qmod	_	O
+7	worse	bad	JJR	_	3	acomp	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	i	I	PRP	_	2	nsubj	_	O
+2	think	think	VBP	_	0	root	_	O
+3	Yanukovich	yanukovich	NNP	_	5	nsubj	_	U-PERSON
+4	should	should	MD	_	5	aux	_	O
+5	speak	speak	VB	_	2	ccomp	_	O
+6	more	more	RBR	pos2=JJR	5	advmod	_	O
+7	on	on	IN	_	5	prep	_	O
+8	events	event	NNS	_	7	pobj	_	O
+9	.	.	.	_	2	punct	_	O
+

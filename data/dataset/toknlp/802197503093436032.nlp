@@ -1,0 +1,16 @@
+1	#FantasticBeasts	#fantasticbeasts	NNS	pos2=ADD	4	discourse	_	O
+2	has	have	VBZ	_	4	aux	_	O
+3	us	us	PRP	_	4	nsubj	_	O
+4	thinking	think	VBG	pos2=NN	0	root	_	O
+5	of	of	IN	_	4	prep	_	O
+6	#Dementors	#dementors	NNS	pos2=NNP	5	pobj	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	@burgermike	@burgermike	UH	pos2=NNP	2	discourse	_	O
+2	explains	explain	VBZ	_	0	root	_	O
+3	our	our	PRP$	_	5	poss	_	O
+4	new	new	JJ	_	5	nmod	_	O
+5	theory	theory	NN	_	2	dobj	_	O
+6	https://t.co/W15wPNUj1K	#hlink#	ADD	_	7	nmod	_	O
+7	https://t.co/n7wmwu0xbl	#hlink#	ADD	_	5	appos	_	U-ORG
+

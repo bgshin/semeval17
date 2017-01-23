@@ -1,0 +1,24 @@
+1	@KateUpton	@kateupton	NNP	pos2=XX	2	compound	_	B-PERSON
+2	Verlander	verlander	NNP	_	3	nsubj	_	L-PERSON
+3	has	have	VBZ	_	0	root	_	O
+4	bad	bad	JJ	_	6	nmod	_	O
+5	public	public	JJ	_	6	nmod	_	O
+6	relations	relation	NNS	_	3	dobj	_	O
+7	and	and	CC	_	3	cc	_	O
+8	refuses	refuse	VBZ	pos2=NNS	3	conj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	sign	sign	VB	_	8	xcomp	_	O
+11	autographs	autograph	NNS	pos2=RP	10	dobj	_	O
+12	most	most	JJS	pos2=RBS	10	npadvmod	_	O
+13	of	of	IN	_	12	prep	_	O
+14	time	time	NN	_	13	pobj	_	O
+15	.	.	.	_	3	punct	_	O
+
+1	You	you	PRP	_	3	nsubj	_	O
+2	only	only	RB	_	3	advmod	_	O
+3	get	get	VBP	pos2=VB	0	root	_	O
+4	what	what	WP	_	6	dobj	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	give	give	VBP	_	3	ccomp	_	O
+7	!	!	.	_	3	punct	_	O
+

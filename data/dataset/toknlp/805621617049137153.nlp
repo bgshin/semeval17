@@ -1,0 +1,10 @@
+1	Vernon	vernon	NNP	_	2	compound	_	O
+2	RCMP	rcmp	NNP	_	3	nsubj	_	O
+3	Cracking	crack	VBG	pos2=NNP	0	root	_	O
+4	Down	down	RP	pos2=NNP	3	prt	_	O
+5	on	on	IN	_	3	prep	_	O
+6	Medical	medical	NNP	pos2=JJ	7	compound	_	B-ORG
+7	Marijuana	marijuana	NNP	_	8	compound	_	I-ORG
+8	Dispensaries	dispensary	NNS	pos2=NNPS	5	pobj	_	L-ORG
+9	https://t.co/3AebvkqrAN	#hlink#	ADD	_	3	dep	_	O
+

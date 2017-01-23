@@ -1,0 +1,14 @@
+1	The	the	DT	_	5	det	_	O
+2	latest	late	JJS	_	5	nmod	_	O
+3	Smart	smart	JJ	pos2=NNP	5	nmod	_	B-ORG
+4	LifeStyle	lifestyle	NNP	pos2=NN	5	compound	_	I-ORG
+5	Food	food	NNP	pos2=NN	0	root	_	L-ORG
+6	!	!	.	_	5	punct	_	O
+
+1	https://t.co/5sPJ80Snbv	#hlink#	ADD	pos2=NN	0	root	_	O
+2	Thanks	thanks	NNS	pos2=NN	1	npadvmod	_	O
+3	to	to	IN	_	2	prep	_	O
+4	@healthyfoodmag	@healthyfoodmag	VB	pos2=XX	3	pcomp	_	O
+5	#weightloss	#weightloss	XX	pos2=UH	4	dep	_	O
+6	#nationalfastfoodday	#nationalfastfoodday	UH	pos2=NN	4	discourse	_	O
+

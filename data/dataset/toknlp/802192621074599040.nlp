@@ -1,0 +1,31 @@
+1	What	what	WP	_	4	dep	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	think	think	VB	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	availability	availability	NN	_	7	nsubj	_	O
+7	was	be	VBD	_	4	ccomp	_	O
+8	for	for	IN	_	7	prep	_	O
+9	#Hatchimals	#hatchimals	NNS	pos2=NNP	8	pobj	_	O
+10	today	today	NN	_	7	npadvmod	_	U-DATE
+11	?!	?!	.	_	4	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	sure	sure	JJ	pos2=RB	2	acomp	_	O
+4	there	there	EX	_	5	expl	_	O
+5	's	's	VBZ	_	3	ccomp	_	O
+6	a	a	DT	_	9	det	_	O
+7	few	few	JJ	_	9	nmod	_	O
+8	unhappy	unhappy	JJ	_	9	nmod	_	O
+9	shoppers	shopper	NNS	_	5	attr	_	O
+10	...	..	.	pos2=,	2	punct	_	O
+
+1	Not	not	RB	_	2	neg	_	O
+2	worth	worth	JJ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	aggravation	aggravation	NN	_	2	npadvmod	_	O
+5	for	for	IN	_	2	prep	_	O
+6	me	me	PRP	_	5	pobj	_	O
+7	.	.	.	_	2	punct	_	O
+

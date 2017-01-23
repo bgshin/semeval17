@@ -1,0 +1,29 @@
+1	@JosteinTF	@josteintf	UH	pos2=``	3	discourse	_	O
+2	You	you	PRP	_	3	nsubj	_	O
+3	're	be	VBP	_	0	root	_	O
+4	from	from	IN	_	3	prep	_	O
+5	Norway	norway	NNP	_	4	pobj	_	U-GPE
+6	.	.	.	_	3	punct	_	O
+
+1	Do	do	VBP	pos2=VB	4	aux	_	O
+2	you	you	PRP	_	4	nsubj	_	O
+3	even	even	RB	_	4	advmod	_	O
+4	understand	understand	VBP	pos2=VB	0	root	_	O
+5	how	how	WRB	_	12	advmod	_	O
+6	the	the	DT	_	8	det	_	O
+7	US	us	NNP	_	8	compound	_	U-GPE
+8	Constitution	constitution	NNP	pos2=NN	12	nsubj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	Electoral	electoral	NNP	_	11	compound	_	O
+11	College	college	NNP	_	8	conj	_	O
+12	works	work	VBZ	pos2=NNS	4	ccomp	_	O
+13	?	?	.	_	4	punct	_	O
+
+1	Big	big	JJ	pos2=NNP	3	nmod	_	O
+2	Trump	trump	NNP	pos2=NN	3	compound	_	U-PERSON
+3	win	win	NN	pos2=VB	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Massive	massive	JJ	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

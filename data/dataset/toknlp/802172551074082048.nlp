@@ -1,0 +1,13 @@
+1	#Hezbollah	#hezbollah	NNP	pos2=NN	2	nsubj	_	B-ORG
+2	Hails	hail	VBZ	_	0	root	_	I-ORG
+3	Lebanese	lebanese	JJ	pos2=NNP	4	nmod	_	I-ORG
+4	Army	army	NNP	pos2=NN	5	nsubj	_	L-ORG
+5	Blow	blow	VB	pos2=NN	2	ccomp	_	O
+6	to	to	IN	_	5	prep	_	O
+7	Arsal	arsal	NNP	_	8	compound	_	U-GPE
+8	#Terrorists	#terrorists	NNS	pos2=NNP	6	pobj	_	O
+9	–	-	:	pos2=NFP	10	punct	_	O
+10	https://t.co/bfw83BD9LB	#hlink#	ADD	pos2=NN	7	appos	_	O
+11	via	via	IN	_	2	prep	_	O
+12	@almanarnews	@almanarnews	.	pos2=-RRB-	2	punct	_	O
+

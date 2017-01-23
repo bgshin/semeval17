@@ -1,0 +1,14 @@
+1	fuck	fuck	VB	pos2=NN	0	root	_	O
+2	around	around	RB	pos2=RP	1	advmod	_	O
+3	and	and	CC	_	1	cc	_	O
+4	cut	cut	VB	pos2=VBD	1	conj	_	O
+5	up	up	RP	_	4	prt	_	O
+6	my	my	PRP$	_	9	poss	_	O
+7	social	social	JJ	_	8	nmod	_	O
+8	security	security	NN	_	9	compound	_	O
+9	card	card	NN	_	4	dobj	_	O
+10	and	and	CC	_	4	cc	_	O
+11	wander	wander	VB	_	4	conj	_	O
+12	the	the	DT	_	13	det	_	O
+13	world	world	NN	_	11	dobj	_	O
+

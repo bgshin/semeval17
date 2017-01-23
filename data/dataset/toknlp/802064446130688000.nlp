@@ -1,0 +1,19 @@
+1	#IAmThankfulFor	#iamthankfulfor	NNP	pos2=ADD	0	predet	_	O
+2	@stiffasaward	@stiffasaward	UH	pos2=NNP	4	discourse	_	O
+3	,	,	,	_	2	punct	_	O
+4	theatre	theatre	NN	_	1	conj	_	O
+5	,	,	,	_	4	punct	_	O
+6	@OU_Football	@ou_football	NN	pos2=NNP	4	conj	_	O
+7	,	,	,	_	6	punct	_	O
+8	@okcthunder	@okcthunder	NN	pos2=UH	6	conj	_	O
+9	,	,	,	_	8	punct	_	O
+10	William	william	NNP	_	11	compound	_	B-PERSON
+11	Shakespeare	shakespeare	NNP	_	8	conj	_	L-PERSON
+12	,	,	,	_	11	punct	_	O
+13	@elizabethforma	@elizabethforma	NNP	pos2=UH	11	conj	_	U-GPE
+14	,	,	,	_	13	punct	_	O
+15	@CoryBooker	@corybooker	NNP	pos2=NN	13	conj	_	U-ORG
+16	,	,	,	_	11	punct	_	O
+17	&	&	CC	_	11	cc	_	O
+18	@repjimcooper	@repjimcooper	RB	pos2=NN	11	conj	_	O
+

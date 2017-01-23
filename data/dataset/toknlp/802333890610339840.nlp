@@ -1,0 +1,32 @@
+1	@nytimes	@nytimes	NNS	pos2=NN	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Rs	r	NNS	pos2=NNP	4	nsubj	_	O
+4	want	want	VBP	_	0	root	_	O
+5	to	to	TO	pos2=IN	7	aux	_	O
+6	also	also	RB	_	7	advmod	_	O
+7	dismantled	dismantle	VBN	pos2=JJ	4	xcomp	_	O
+8	SS	ss	NN	pos2=NNP	7	dobj	_	U-ORG
+9	,	,	,	_	8	punct	_	O
+10	medicare	medicare	NN	pos2=NNP	8	conj	_	O
+11	and	and	CC	_	10	cc	_	O
+12	I	I	PRP	_	13	nsubj	_	O
+13	think	think	VBP	_	7	parataxis	_	O
+14	medicaid	medicaid	NN	pos2=NNS	10	conj	_	O
+15	also	also	RB	_	13	advmod	_	O
+16	.	.	.	_	4	punct	_	O
+
+1	What	what	WP	_	4	dobj	_	O
+2	will	will	MD	_	4	aux	_	O
+3	she	she	PRP	_	4	nsubj	_	O
+4	do	do	VB	_	0	root	_	O
+5	if	if	IN	_	7	mark	_	O
+6	they	they	PRP	_	7	nsubj	_	O
+7	get	get	VBP	_	4	advcl	_	O
+8	their	their	PRP$	_	9	poss	_	O
+9	way	way	NN	_	7	dobj	_	O
+10	,	,	,	_	13	punct	_	O
+11	Ms.	ms.	NNP	_	12	compound	_	O
+12	Carmeli	carmeli	NNP	_	13	nsubj	_	U-PERSON
+13	selfish	selfish	JJ	pos2=NN	8	root	_	O
+14	?	?	.	_	4	punct	_	O
+

@@ -1,0 +1,28 @@
+1	@LorettaLynch	@lorettalynch	UH	pos2=NN	5	discourse	_	O
+2	we	we	PRP	_	5	nsubj	_	O
+3	you	you	PRP	pos2=MD	5	nsubj	_	O
+4	be	be	VBP	pos2=VB	5	aux	_	O
+5	looking	look	VBG	_	0	root	_	O
+6	into	into	IN	_	5	prep	_	O
+7	this	this	DT	_	6	pobj	_	O
+8	or	or	CC	_	5	cc	_	O
+9	will	will	MD	_	11	aux	_	O
+10	it	it	PRP	_	11	nsubj	_	O
+11	be	be	VB	_	5	conj	_	O
+12	a	a	DT	_	14	det	_	O
+13	stolen	steal	VBN	pos2=JJR	14	nmod	_	O
+14	election	election	NN	_	11	attr	_	O
+15	?	?	.	_	11	punct	_	O
+
+1	#Comey	#comey	NNP	pos2=NN	2	nsubj	_	U-GPE
+2	is	be	VBZ	_	0	root	_	O
+3	just	just	RB	_	5	advmod	_	O
+4	as	as	RB	_	5	advmod	_	O
+5	guilty	guilty	JJ	_	2	acomp	_	O
+6	for	for	IN	_	5	prep	_	O
+7	his	his	PRP$	_	8	poss	_	O
+8	part	part	NN	_	6	pobj	_	O
+9	in	in	IN	_	8	prep	_	O
+10	…	…	NFP	pos2=-LRB-	9	pobj	_	O
+11	https://t.co/YvA30A9JNR	#hlink#	ADD	pos2=NN	2	dep	_	U-GPE
+

@@ -1,0 +1,12 @@
+1	Embargo	embargo	NN	pos2=NNP	5	nsubj	_	O
+2	on	on	IN	_	1	prep	_	O
+3	Cuba	cuba	NNP	_	2	pobj	_	U-GPE
+4	not	not	RB	_	5	neg	_	O
+5	working	work	VBG	_	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	#FreeCuba	#freecuba	LS	pos2=NN	0	root	_	U-CARDINAL
+2	.	.	.	_	1	punct	_	O
+
+1	#MAGA	#maga	NN	pos2=ADD	0	root	_	O
+

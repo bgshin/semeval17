@@ -1,0 +1,12 @@
+1	$	$	$	pos2=SYM	2	nmod	_	O
+2	15	0	CD	_	11	dep	_	U-MONEY
+3	Minimum	minimum	NNP	pos2=JJ	4	compound	_	O
+4	Wage	wage	NNP	pos2=NN	6	nsubj	_	O
+5	Would	would	MD	_	6	aux	_	O
+6	Boost	boost	VB	pos2=NNP	2	advcl	_	O
+7	Economy	economy	NNP	pos2=NN	6	dobj	_	O
+8	&	&	CC	pos2=GW	6	cc	_	O
+9	Create	create	VB	pos2=NNP	6	conj	_	O
+10	Jobs	job	NNS	pos2=NNPS	9	dobj	_	O
+11	https://t.co/qrbuvhHnBZ	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,14 @@
+1	#Lybrate	#lybrate	NNP	pos2=VB	2	compound	_	B-ORG
+2	Homeopathy	homeopathy	NNP	pos2=NN	0	root	_	I-ORG
+3	For	for	IN	_	2	prep	_	I-ORG
+4	Vitiligo	vitiligo	NNP	pos2=NN	6	nmod	_	I-ORG
+5	/	/	SYM	pos2=,	6	punct	_	I-ORG
+6	White	white	NNP	pos2=JJ	7	compound	_	I-ORG
+7	Patches	patch	NNS	pos2=NNPS	3	pobj	_	L-ORG
+8	.	.	.	_	2	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	Blog	blog	NN	pos2=NNP	1	dobj	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/kJw2VHLTCW	#hlink#	ADD	pos2=NN	1	dep	_	O
+

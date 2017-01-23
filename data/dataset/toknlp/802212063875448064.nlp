@@ -1,0 +1,24 @@
+1	#EuphratesShield	#euphratesshield	NN	pos2=JJ	2	compound	_	O
+2	forces	force	NNS	_	3	nsubj	_	O
+3	seized	seize	VBD	pos2=VBN	0	root	_	O
+4	Ajmi	ajmi	NNP	_	3	dobj	_	U-PERSON
+5	from	from	IN	_	3	prep	_	O
+6	#ISIS	#isis	NNP	pos2=NN	5	pobj	_	U-ORG
+7	,	,	,	_	3	punct	_	O
+8	cutting	cut	VBG	_	3	advcl	_	O
+9	off	off	RP	_	8	prt	_	O
+10	the	the	DT	_	12	det	_	O
+11	M4	m0	NNP	pos2=NN	12	compound	_	U-PRODUCT
+12	highway	highway	NN	_	8	dobj	_	O
+13	between	between	IN	_	12	prep	_	O
+14	#Manbij	#manbij	NNP	_	16	compound	_	O
+15	-	-	HYPH	pos2=,	16	punct	_	O
+16	Arimah	arimah	NNP	_	13	pobj	_	O
+17	&	&	CC	_	16	cc	_	O
+18	Al	al	NNP	_	20	compound	_	B-PERSON
+19	-	-	HYPH	_	20	punct	_	I-PERSON
+20	Bab	bab	NNP	_	16	conj	_	L-PERSON
+21	.	.	.	_	3	punct	_	O
+
+1	https://t.co/ocM13LH0D7	#hlink#	ADD	_	0	root	_	U-ORG
+

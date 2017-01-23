@@ -1,0 +1,16 @@
+1	@politico	@politico	UH	pos2=VB	3	discourse	_	O
+2	@MatthewNussbaum	@matthewnussbaum	NNP	pos2=POS	3	nsubj	_	O
+3	Giving	give	VBG	pos2=NNP	0	root	_	O
+4	thanks	thanks	NNS	pos2=NN	3	dobj	_	O
+5	on	on	IN	_	3	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	corner	corner	NN	_	5	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	@HillaryClinton	@hillaryclinton	NNP	_	15	poss	_	U-ORG
+10	's	's	POS	_	9	case	_	O
+11	street	street	NN	_	13	dep	_	O
+12	-	-	HYPH	pos2=:	13	punct	_	O
+13	https://t.co/DykFlus8MA	#hlink#	ADD	pos2=NN	15	nmod	_	O
+14	#p2	#p0	NN	pos2=-RRB-	15	compound	_	U-ORG
+15	#UniteBlue	#uniteblue	NN	pos2=ADD	8	pobj	_	O
+

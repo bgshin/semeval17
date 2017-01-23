@@ -1,0 +1,13 @@
+1	@ShawnaKaay	@shawnakaay	NN	pos2=NNP	5	dep	_	O
+2	_	_	NFP	pos2=SYM	5	punct	_	O
+3	Tony	tony	NNP	_	4	compound	_	B-PERSON
+4	Romo	romo	NNP	_	5	nsubj	_	L-PERSON
+5	is	be	VBZ	_	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	cancer	cancer	NN	_	5	attr	_	O
+8	to	to	IN	_	7	prep	_	O
+9	the	the	DT	_	11	det	_	O
+10	American	american	JJ	_	11	nmod	_	U-NORP
+11	people	people	NNS	_	8	pobj	_	O
+12	.	.	.	_	5	punct	_	O
+

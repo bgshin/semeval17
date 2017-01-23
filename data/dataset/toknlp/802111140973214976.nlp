@@ -1,0 +1,10 @@
+1	#VIDEO	#video	NN	pos2=ADD	2	compound	_	O
+2	#ZionistPM	#zionistpm	NNP	pos2=NNS	3	nsubj	_	U-ORG
+3	Blamed	blame	VBN	pos2=VBD	0	root	_	O
+4	#Palestinians	#palestinians	NNS	pos2=NNP	3	dobj	_	O
+5	for	for	IN	_	3	prep	_	O
+6	Alleged	alleged	JJ	pos2=VBN	9	nmod	_	O
+7	#ArsonAtt	#arsonatt	GW	pos2=NN	9	nmod	_	O
+8	ackshttps://t.co/rjf4L4m49X#israelisburning…	#hlink#	ADD	_	9	nmod	_	O
+9	https://t.co/x7w03QAPbY	#hlink#	ADD	_	5	pobj	_	U-ORG
+

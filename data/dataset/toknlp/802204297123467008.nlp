@@ -1,0 +1,25 @@
+1	@vasanna11	@vasanna0	NN	pos2=NNS	17	dep	_	O
+2	@	@	SYM	pos2=CC	3	punct	_	O
+3	1911G_fan	0g_fan	NN	pos2=JJ	1	prep	_	O
+4	@Kiffrowlski	@kiffrowlski	NFP	pos2=IN	5	punct	_	O
+5	Nobody	nobody	NN	_	1	appos	_	O
+6	*	*	SYM	pos2=-LRB-	17	punct	_	O
+7	If	if	IN	_	10	mark	_	O
+8	you	you	PRP	_	10	nsubj	_	O
+9	're	be	VBP	_	10	aux	_	O
+10	going	go	VBG	_	17	advcl	_	O
+11	to	to	TO	_	12	aux	_	O
+12	be	be	VB	_	10	xcomp	_	O
+13	a	a	DT	_	15	det	_	O
+14	school	school	NN	_	15	compound	_	O
+15	nazi	nazi	NN	pos2=NNS	12	attr	_	O
+16	then	then	RB	_	17	advmod	_	O
+17	practice	practice	VB	pos2=VBP	0	root	_	O
+18	what	what	WP	_	20	dobj	_	O
+19	you	you	PRP	_	20	nsubj	_	O
+20	preach	preach	VBP	_	17	ccomp	_	O
+21	dipshit	dipshit	NN	_	20	dobj	_	O
+22	.	.	.	_	17	punct	_	O
+
+1	😂	😂	SYM	pos2=NFP	0	root	_	U-ORG
+

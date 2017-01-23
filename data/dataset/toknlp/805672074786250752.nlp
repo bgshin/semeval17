@@ -1,0 +1,23 @@
+1	SB174	sb0	NN	_	5	nsubj	_	O
+2	[	[	-LRB-	_	3	punct	_	O
+3	NEW	new	NNP	pos2=JJ	8	nmod	_	O
+4	]	]	-RRB-	_	1	punct	_	O
+5	Creates	create	VBZ	_	0	root	_	O
+6	a	a	DT	_	10	det	_	O
+7	voluntary	voluntary	JJ	_	8	nmod	_	O
+8	replacement	replacement	NN	_	10	nmod	_	O
+9	alternative	alternative	JJ	pos2=NN	10	nmod	_	O
+10	program	program	NN	_	5	dobj	_	O
+11	for	for	IN	_	10	prep	_	O
+12	children	child	NNS	_	14	poss	_	O
+13	's	's	POS	_	12	case	_	O
+14	vaccines	vaccine	NNS	_	11	pobj	_	O
+15	which	which	WDT	_	18	nsubj	_	O
+16	do	do	VBP	_	18	aux	_	O
+17	not	not	RB	_	18	neg	_	O
+18	contain	contain	VB	_	14	relcl	_	O
+19	huma	huma	NN	pos2=NNP	18	dobj	_	O
+20	...	..	.	_	5	punct	_	O
+
+1	https://t.co/M5IWhVW30u	#hlink#	ADD	_	0	root	_	U-ORG
+

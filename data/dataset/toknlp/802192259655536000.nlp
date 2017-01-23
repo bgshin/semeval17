@@ -1,0 +1,17 @@
+1	Obviously	obviously	RB	_	4	advmod	_	O
+2	@celinedion	@celinedion	PRP	pos2=,	4	nsubj	_	O
+3	must	must	MD	_	4	aux	_	O
+4	sing	sing	VB	_	0	root	_	O
+5	#BeautyAndTheBeast	#beautyandthebeast	NNP	pos2=PRP	4	dobj	_	U-PERSON
+6	Again	again	RB	_	4	advmod	_	O
+7	!!!!	!!	.	_	4	punct	_	O
+
+1	@DisneyStudiosLA	@disneystudiosla	UH	pos2=NN	8	discourse	_	O
+2	@Disney	@disney	NNP	pos2=NN	8	dep	_	U-PERSON
+3	(	(	-LRB-	_	5	punct	_	O
+4	WE	we	PRP	pos2=NN	5	nsubj	_	O
+5	WANTTTTT	wanttttt	VBP	pos2=NNP	2	parataxis	_	O
+6	)	)	-RRB-	_	5	punct	_	O
+7	🙏🏻	🙏🏻	NFP	pos2=:	8	punct	_	O
+8	https://t.co/W6PO0gqqSP	#hlink#	ADD	pos2=NN	0	root	_	O
+

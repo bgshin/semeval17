@@ -1,0 +1,13 @@
+1	@FUTWIZDan	@futwizdan	ADD	pos2=JJ	10	nsubj	_	O
+2	wuou	wuou	IN	pos2=VBZ	1	prep	_	O
+3	Great	great	JJ	pos2=NNP	6	nmod	_	O
+4	Pack	pack	NNP	pos2=NN	6	compound	_	O
+5	Cristiano	cristiano	NNP	_	6	compound	_	B-PERSON
+6	Ronaldo	ronaldo	NNP	_	2	pobj	_	L-PERSON
+7	in	in	IN	_	1	prep	_	O
+8	a	a	DT	_	9	det	_	O
+9	pack	pack	NN	_	7	pobj	_	O
+10	is	be	VBZ	_	0	root	_	O
+11	lucky	lucky	JJ	_	10	acomp	_	O
+12	🍀	🍀	.	pos2=NN	10	punct	_	O
+

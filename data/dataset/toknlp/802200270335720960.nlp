@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det	_	O
+2	journey	journey	NN	_	3	nsubj	_	O
+3	ended	ended	VBD	_	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	cleared	clear	VBD	_	0	root	_	O
+4	Persona	persona	NNP	pos2=NN	3	dobj	_	O
+5	5	0	CD	_	4	nmod	_	U-CARDINAL
+6	after	after	IN	_	3	prep	_	O
+7	140	0	CD	_	8	nmod	_	B-TIME
+8	hours	hour	NNS	_	6	pobj	_	L-TIME
+9	and	and	CC	_	3	cc	_	O
+10	it	it	PRP	_	11	nsubj	_	O
+11	was	be	VBD	_	3	conj	_	O
+12	awesome	awesome	JJ	_	11	acomp	_	O
+13	!	!	.	_	11	punct	_	O
+
+1	#persona5	#persona0	NN	pos2=-LRB-	2	dep	_	O
+2	https://t.co/7EACEiyiJ6	#hlink#	ADD	pos2=NN	0	root	_	O
+

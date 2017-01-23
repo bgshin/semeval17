@@ -1,0 +1,10 @@
+1	@theashleygraham	@theashleygraham	UH	pos2=NN	2	advmod	_	O
+2	needed	need	VBN	pos2=VBD	3	nmod	_	O
+3	affirmation	affirmation	NN	_	9	dep	_	O
+4	after	after	IN	_	3	prep	_	O
+5	being	be	VBG	_	4	pcomp	_	O
+6	dumped#uitvnews	dumped#uitvnews	GW	pos2=PRP	9	nmod	_	O
+7	#AshleyGr	#ashleygr	GW	pos2=NFP	9	nmod	_	O
+8	ahamhttps://t.co/gDqZtpzXF3	#hlink#	ADD	pos2=GW	9	nmod	_	O
+9	https://t.co/tGZp3HRml3	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,15 @@
+1	Dakota	dakota	NNP	pos2=GW	6	compound	_	B-ORG
+2	Access	access	NNP	pos2=GW	6	compound	_	I-ORG
+3	Pipeline	pipeline	NNP	pos2=NN	6	compound	_	I-ORG
+4	Protestor	protestor	NNP	pos2=NN	6	compound	_	L-ORG
+5	Sophia	sophia	NNP	_	6	compound	_	B-PERSON
+6	Wilansky	wilansky	NNP	_	7	nsubjpass	_	L-PERSON
+7	Injured	injure	VBN	_	0	root	_	O
+8	By	by	IN	_	7	agent	_	O
+9	Protestors	protestor	NNPS	pos2=NNP	13	pobj	_	O
+10	Homemade	homemade	NNP	pos2=JJ	11	compound	_	O
+11	B	b	NN	pos2=NNP	12	dep	_	O
+12	ombshttps://t.co/3NkcojStXW	#hlink#	ADD	pos2=NN	8	pobj	_	O
+13	via	via	IN	_	7	prep	_	O
+14	@BearingArmsCom	@bearingarmscom	ADD	pos2=NN	13	pobj	_	O
+

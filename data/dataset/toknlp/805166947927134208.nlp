@@ -1,0 +1,13 @@
+1	@KeepAmerGr8	@keepamergr0	NN	pos2=NNS	2	compound	_	O
+2	@AnthonyBourque	@anthonybourque	NN	pos2=ADD	7	nsubjpass	_	O
+3	And	and	CC	_	2	cc	_	O
+4	worse	bad	JJR	pos2=EX	2	conj	_	O
+5	has	have	VBZ	_	7	aux	_	O
+6	been	be	VBN	_	7	auxpass	_	O
+7	done	do	VBN	_	0	root	_	O
+8	by	by	IN	_	7	agent	_	O
+9	US	us	NNP	_	11	compound	_	U-GPE
+10	drone	drone	NN	_	11	compound	_	O
+11	strikes	strike	NNS	pos2=VBZ	8	pobj	_	O
+12	.	.	.	_	7	punct	_	O
+

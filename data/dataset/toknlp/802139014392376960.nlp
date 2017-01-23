@@ -1,0 +1,19 @@
+1	One	#crd#	CD	_	6	nsubj	_	U-CARDINAL
+2	of	of	IN	_	1	prep	_	O
+3	my	my	PRP$	_	5	poss	_	O
+4	new	new	JJ	_	5	nmod	_	O
+5	favorite	favorite	JJ	pos2=NN	2	pobj	_	O
+6	shows	show	VBZ	pos2=NNS	7	csubj	_	O
+7	is	be	VBZ	_	0	root	_	O
+8	#ThisIsUs	#thisisus	ADD	pos2=XX	7	acomp	_	U-DATE
+9	and	and	CC	_	8	cc	_	O
+10	our	our	PRP$	_	13	poss	_	O
+11	very	very	RB	pos2=JJ	12	advmod	_	O
+12	own	own	JJ	_	13	nmod	_	O
+13	@canuck4liberty	@canuck0liberty	NN	pos2=NNP	14	nsubj	_	O
+14	does	do	VBZ	_	7	conj	_	O
+15	awesome	awesome	JJ	pos2=DT	17	nmod	_	O
+16	ep	ep	NN	pos2=JJ	17	compound	_	O
+17	recaps	recap	NNS	_	14	dobj	_	O
+18	!!!	!!	.	_	14	punct	_	O
+

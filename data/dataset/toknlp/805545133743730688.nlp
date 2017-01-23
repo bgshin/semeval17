@@ -1,0 +1,25 @@
+1	@M_Sighil	@m_sighil	UH	pos2=VB	3	discourse	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	ridiculous	ridiculous	JJ	_	3	acomp	_	O
+5	he	he	PRP	_	6	nsubj	_	O
+6	got	get	VBD	_	3	ccomp	_	O
+7	one	#crd#	CD	_	6	dobj	_	U-CARDINAL
+8	..	..	.	pos2=,	3	punct	_	O
+
+1	The	the	DT	_	4	det	_	B-DATE
+2	last	last	JJ	_	4	nmod	_	I-DATE
+3	8	0	CD	_	4	nmod	_	I-DATE
+4	years	year	NNS	_	6	nsubj	_	L-DATE
+5	have	have	VBP	_	6	aux	_	O
+6	been	be	VBN	_	0	root	_	O
+7	a	a	DT	_	8	det	_	B-DATE
+8	decade	decade	NN	_	6	attr	_	L-DATE
+9	of	of	IN	_	8	prep	_	O
+10	death	death	NN	_	9	pobj	_	O
+11	,	,	,	_	6	punct	_	O
+12	wars	war	NNS	_	10	conj	_	O
+13	and	and	CC	_	12	cc	_	O
+14	drone	drone	NN	_	15	compound	_	O
+15	strikes	strike	NNS	_	12	conj	_	O
+

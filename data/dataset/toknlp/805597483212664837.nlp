@@ -1,0 +1,24 @@
+1	Lesson	lesson	NN	pos2=VB	7	dep	_	O
+2	1	0	CD	_	1	nmod	_	U-CARDINAL
+3	of	of	IN	_	1	prep	_	O
+4	Being	be	VBG	pos2=NNP	3	pcomp	_	O
+5	Extra	extra	NNP	pos2=JJ	4	attr	_	U-ORG
+6	:	:	:	_	7	punct	_	O
+7	get	get	VB	_	0	root	_	O
+8	a	a	DT	_	10	det	_	O
+9	second	#ord#	JJ	_	10	nmod	_	U-ORDINAL
+10	yacht	yacht	NN	_	7	dobj	_	O
+11	for	for	IN	_	10	prep	_	O
+12	your	your	PRP$	_	13	poss	_	O
+13	vacation	vacation	NN	_	11	pobj	_	O
+14	with	with	IN	_	7	prep	_	O
+15	your	your	PRP$	_	16	poss	_	O
+16	fiancé	fiancé	NN	pos2=``	14	pobj	_	O
+17	because	because	IN	_	19	mark	_	O
+18	you	you	PRP	_	19	nsubj	_	O
+19	work	work	VBP	_	7	advcl	_	O
+20	better	well	RBR	pos2=JJR	19	advmod	_	O
+21	at	at	IN	_	19	prep	_	O
+22	night	night	NN	_	21	pobj	_	B-TIME
+23	#MariahsWorld	#mariahsworld	NNP	pos2=NN	7	vocative	_	L-TIME
+

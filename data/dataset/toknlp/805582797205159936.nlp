@@ -1,0 +1,19 @@
+1	THAT	that	DT	pos2=IN	4	det	_	O
+2	CALIFORNIA	california	NNP	_	4	nmod	_	U-GPE
+3	GOLDEN	golden	JJ	pos2=NNP	4	nmod	_	O
+4	STATE	state	NN	pos2=NNP	5	nsubj	_	O
+5	WANTS	want	VBZ	_	0	root	_	O
+6	THE	the	DT	_	8	det	_	O
+7	GOLD	gold	NN	pos2=JJ	8	compound	_	O
+8	STANDARD	standard	NN	pos2=JJ	5	dobj	_	O
+9	BACK	back	RB	pos2=NN	5	advmod	_	O
+10	NOT	not	RB	_	15	neg	_	O
+11	A	a	DT	_	15	det	_	O
+12	PRIVATELY	privately	RB	pos2=NNP	13	advmod	_	O
+13	RUN	run	VBN	pos2=JJ	15	nmod	_	O
+14	DEBT	debt	NN	_	15	compound	_	O
+15	COLLECTOR	collector	NN	_	18	nsubj	_	O
+16	@POTUS	@potus	GW	pos2=AFX	15	cc	_	B-PERSON
+17	…	…	NFP	pos2=GW	18	punct	_	L-PERSON
+18	https://t.co/rmcoH1xSo6	#hlink#	ADD	pos2=NN	0	root	_	O
+

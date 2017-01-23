@@ -1,0 +1,15 @@
+1	@moosehickey	@moosehickey	UH	pos2=XX	4	discourse	_	O
+2	@megynkelly	@megynkelly	RB	pos2=PRP$	4	advmod	_	O
+3	fake	fake	JJ	_	4	nmod	_	O
+4	emotions	emotion	NNS	_	0	root	_	O
+5	&	&	CC	_	4	cc	_	O
+6	attitude	attitude	NN	_	4	conj	_	O
+7	?	?	.	_	4	punct	_	O
+
+1	You	you	PRP	_	3	nsubj	_	O
+2	're	be	VBP	_	3	aux	_	O
+3	making	make	VBG	_	0	root	_	O
+4	things	thing	NNS	_	3	dobj	_	O
+5	up	up	RP	_	3	prt	_	O
+6	.	.	.	_	3	punct	_	O
+

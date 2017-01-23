@@ -1,0 +1,24 @@
+1	@CarlyleLeach	@carlyleleach	ADD	pos2=XX	6	punct	_	O
+2	@ChrisKuc	@chriskuc	XX	pos2=NN	6	dep	_	O
+3	Even	even	RB	_	5	advmod	_	O
+4	Muhammad	muhammad	NNP	_	5	compound	_	B-PERSON
+5	Ali	ali	NNP	_	6	nsubj	_	L-PERSON
+6	had	have	VBD	_	0	root	_	O
+7	enough	enough	JJ	_	8	nmod	_	O
+8	brains	brain	NNS	_	6	dobj	_	O
+9	left	leave	VBN	pos2=JJ	8	acl	_	O
+10	to	to	TO	pos2=IN	12	aux	_	O
+11	eventually	eventually	RB	_	12	advmod	_	O
+12	turn	turn	VB	_	8	acl	_	O
+13	his	his	PRP$	pos2=PRP	14	poss	_	O
+14	back	back	NN	pos2=RB	12	dobj	_	O
+15	on	on	IN	_	14	prep	_	O
+16	the	the	DT	_	18	det	_	O
+17	black	black	JJ	pos2=NN	18	nmod	_	O
+18	panthers	panther	NNS	pos2=NN	15	pobj	_	O
+19	and	and	CC	_	18	cc	_	O
+20	Nation	nation	NNP	pos2=NN	18	conj	_	B-ORG
+21	of	of	IN	_	18	prep	_	I-ORG
+22	Islam	islam	NNP	_	21	pobj	_	L-ORG
+23	.	.	.	_	6	punct	_	O
+

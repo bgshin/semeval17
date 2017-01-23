@@ -1,0 +1,10 @@
+1	trying	try	VBG	_	9	csubj	_	O
+2	to	to	TO	_	3	aux	_	O
+3	find	find	VB	_	1	xcomp	_	O
+4	those	those	DT	_	6	det	_	O
+5	euthanasia	euthanasia	NN	_	6	compound	_	O
+6	drugs	drug	NNS	_	3	dobj	_	O
+7	now	now	RB	_	3	advmod	_	O
+8	later	later	RB	pos2=JJ	9	nmod	_	O
+9	fuckers	fucker	NNS	pos2=UH	0	root	_	O
+

@@ -1,0 +1,12 @@
+1	@caseycdutch	@caseycdutch	UH	pos2=NNP	4	discourse	_	O
+2	Trump	trump	NN	pos2=NNP	4	nsubj	_	U-ORG
+3	always	always	RB	_	4	advmod	_	O
+4	appeared	appear	VBD	_	0	root	_	O
+5	uncomfortable	uncomfortable	JJ	_	4	oprd	_	O
+6	with	with	IN	_	5	prep	_	O
+7	chants	chant	NNS	_	6	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	#LockHerUp	#lockherup	NNP	pos2=NN	8	pobj	_	U-LOC
+10	and	and	CC	_	4	cc	_	O
+11	#DrainTheSwamp	#draintheswamp	ADD	pos2=NN	4	conj	_	U-LOC
+

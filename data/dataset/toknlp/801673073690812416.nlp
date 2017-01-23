@@ -1,0 +1,20 @@
+1	@RMikiani	@rmikiani	NNS	pos2=GW	5	nsubj	_	O
+2	In	in	IN	_	1	prep	_	O
+3	august2008.puppet	#hlink#	NNP	pos2=ADD	4	compound	_	O
+4	Saakashvili	saakashvili	NNP	_	2	pobj	_	U-PERSON
+5	attacked	attack	VBD	_	0	root	_	O
+6	South	south	NNP	pos2=NNPS	7	compound	_	B-GPE
+7	Ossetia	ossetia	NNP	pos2=NNPS	5	dobj	_	L-GPE
+8	and	and	CC	_	7	cc	_	O
+9	Russian	russian	JJ	_	10	nmod	_	U-NORP
+10	peacekeepers	peacekeeper	NNS	_	7	conj	_	O
+11	.	.	.	_	5	punct	_	O
+
+1	South	south	NNP	pos2=JJ	2	compound	_	B-GPE
+2	Ossetia	ossetia	NNP	pos2=NNPS	4	nsubj	_	L-GPE
+3	will	will	MD	_	4	aux	_	O
+4	be	be	VB	_	0	root	_	O
+5	i	I	PRP	pos2=GW	7	nmod	_	O
+6	…	…	NFP	pos2=-LRB-	7	punct	_	O
+7	https://t.co/bVlXKT5QUx	#hlink#	ADD	_	4	attr	_	U-ORG
+

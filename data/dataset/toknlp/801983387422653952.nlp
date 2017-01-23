@@ -1,0 +1,23 @@
+1	More	more	RBR	pos2=RB	2	advmod	_	O
+2	confident	confident	JJ	_	0	root	_	O
+3	with	with	IN	_	2	prep	_	O
+4	George	george	NNP	_	5	compound	_	B-PERSON
+5	Hill	hill	NNP	_	3	pobj	_	L-PERSON
+6	back	back	RB	_	2	advmod	_	O
+7	in	in	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	lineup	lineup	NN	_	7	pobj	_	O
+10	,	,	,	_	12	punct	_	O
+11	@utahjazz	@utahjazz	TO	pos2=MD	12	aux	_	O
+12	await	await	VB	pos2=TO	7	parataxis	_	O
+13	visit	visit	NN	_	12	dobj	_	O
+14	from	from	IN	_	13	prep	_	O
+15	Hawks	hawk	NNPS	pos2=NNS	14	pobj	_	U-NORP
+16	.	.	.	_	2	punct	_	O
+
+1	By	by	IN	_	5	prep	_	O
+2	@sorny8	@sorny0	NN	pos2=CD	1	pobj	_	O
+3	:	:	:	_	5	punct	_	O
+4	…	…	NFP	pos2=-LRB-	5	punct	_	O
+5	https://t.co/AVYO579W7T	#hlink#	ADD	_	0	root	_	O
+

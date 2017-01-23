@@ -1,0 +1,11 @@
+1	Pope	pope	NNP	_	2	compound	_	O
+2	Francis	francis	NNP	_	3	nsubj	_	U-PERSON
+3	insults	insult	VBZ	pos2=NNS	0	root	_	O
+4	Catholic	catholic	JJ	pos2=NNP	5	nmod	_	U-NORP
+5	youth	youth	NN	_	3	dobj	_	O
+6	-	-	:	pos2=,	5	punct	_	O
+7	The	the	DT	_	9	det	_	B-ORG
+8	Detroit	detroit	NNP	_	9	compound	_	I-ORG
+9	News	news	NNP	_	10	nmod	_	L-ORG
+10	https://t.co/cS6IV4d940	#hlink#	ADD	_	5	appos	_	O
+

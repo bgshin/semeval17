@@ -1,0 +1,26 @@
+1	sickening	sickening	JJ	pos2=VBG	5	nmod	_	O
+2	#YPG	#ypg	NN	pos2=NNS	13	nsubj	_	O
+3	/	/	SYM	pos2=HYPH	4	punct	_	O
+4	PKK	pkk	NNP	pos2=NN	5	compound	_	U-ORG
+5	alliance	alliance	NN	_	2	appos	_	O
+6	with	with	IN	_	5	prep	_	O
+7	#Hezbollah	#hezbollah	NNP	pos2=CD	8	compound	_	U-ORG
+8	terrorists	terrorist	NNS	_	6	pobj	_	O
+9	,	,	,	_	1	punct	_	O
+10	yet	yet	CC	pos2=RB	1	cc	_	O
+11	#US	#us	VBP	pos2=CD	13	nsubj	_	U-ORG
+12	still	still	RB	_	11	advmod	_	O
+13	arms	arm	NNS	pos2=VBZ	0	root	_	O
+14	YPG	ypg	NNP	pos2=''	13	dobj	_	U-NORP
+15	to	to	IN	_	13	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	teeth	tooth	NNS	pos2=NN	15	pobj	_	O
+18	and	and	CC	_	13	cc	_	O
+19	even	even	RB	_	20	advmod	_	O
+20	support	support	VB	pos2=VBP	0	root	_	O
+21	them	them	PRP	_	20	dobj	_	O
+22	with	with	IN	_	20	prep	_	O
+23	Special	special	JJ	pos2=NNP	24	nmod	_	O
+24	forces	force	NNS	_	22	pobj	_	O
+25	#fail	#fail	.	pos2=VBP	1	conj	_	O
+

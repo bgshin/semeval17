@@ -1,0 +1,15 @@
+1	Marine	marine	NNP	pos2=JJ	3	compound	_	B-ORG
+2	Le	le	NNP	_	3	compound	_	I-ORG
+3	Pen	pen	NNP	_	4	nsubj	_	L-ORG
+4	is	be	VBZ	_	10	ccomp	_	O
+5	the	the	DT	_	8	det	_	O
+6	next	next	JJ	_	8	nmod	_	O
+7	France	france	NNP	_	8	compound	_	U-GPE
+8	President	president	NNP	_	4	attr	_	O
+9	,	,	,	_	8	punct	_	O
+10	right	right	JJ	_	0	root	_	O
+11	?	?	.	_	10	punct	_	O
+
+1	Tears	tear	NNS	pos2=NNPS	0	root	_	O
+2	😭	😭	''	pos2=PRP	1	punct	_	O
+

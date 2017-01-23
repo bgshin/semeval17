@@ -1,0 +1,14 @@
+1	#TrumpTrain	#trumptrain	NNP	pos2=NN	5	compound	_	O
+2	Donald	donald	NNP	_	5	compound	_	B-PERSON
+3	Trump	trump	NNP	pos2=NN	5	compound	_	L-PERSON
+4	#iPhone	#iphone	NNP	pos2=POS	5	compound	_	O
+5	Case	case	NNP	pos2=NN	13	dep	_	O
+6	#TRUMPTRAIN	#trumptrain	NN	pos2=ADD	13	dep	_	O
+7	#LOVE	#love	NN	pos2=NNP	13	dep	_	O
+8	4	0	CD	_	9	nmod	_	U-CARDINAL
+9	#tpp	#tpp	NN	pos2=IN	11	compound	_	O
+10	#	#	NN	pos2=-LRB-	11	compound	_	O
+11	2a	0a	NN	pos2=GW	13	dep	_	U-MONEY
+12	#optrump	#optrump	GW	pos2=IN	13	nmod	_	O
+13	https://t.co/AAiClbsCCZ	#hlink#	ADD	pos2=NN	0	root	_	O
+

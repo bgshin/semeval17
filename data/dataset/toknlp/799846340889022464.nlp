@@ -1,0 +1,6 @@
+1	Kim	kim	NNP	_	2	compound	_	B-PERSON
+2	Fatty	fatty	NNP	pos2=GW	5	dep	_	L-PERSON
+3	the	the	DT	_	4	det	_	O
+4	Third	#ord#	NNP	pos2=JJ	2	appos	_	O
+5	https://t.co/z2dBBt6vh1	#hlink#	ADD	pos2=NNP	0	root	_	O
+

@@ -1,0 +1,11 @@
+1	Just	just	RB	_	10	advmod	_	O
+2	in	in	IN	pos2=GW	10	mark	_	O
+3	case	case	NN	_	10	dep	_	O
+4	u	u	PRP	pos2=IN	10	dep	_	B-PERSON
+5	Frida	frida	NNP	pos2=GW	7	nmod	_	L-PERSON
+6	loving	love	VBG	pos2=JJ	7	nmod	_	O
+7	liberals	liberal	NNS	_	8	nsubj	_	O
+8	4got	0got	VBP	pos2=GW	10	nmod	_	O
+9	😉	😉	NFP	pos2=-LRB-	10	punct	_	O
+10	https://t.co/JEBBe9ynCx	#hlink#	ADD	pos2=NN	0	root	_	O
+

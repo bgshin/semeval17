@@ -1,0 +1,16 @@
+1	@poroshenko	@poroshenko	IN	pos2=DT	9	prep	_	O
+2	EU	eu	NNP	pos2=NN	3	compound	_	U-ORG
+3	visas	visa	NNS	_	1	pobj	_	O
+4	for	for	IN	_	3	prep	_	O
+5	Ukraine	ukraine	NNP	_	4	pobj	_	U-GPE
+6	,	,	,	_	9	punct	_	O
+7	will	will	MD	_	9	aux	_	O
+8	be	be	VB	_	9	auxpass	_	O
+9	abolished	abolish	VBN	_	0	root	_	O
+10	in	in	IN	_	9	prep	_	O
+11	the	the	DT	_	14	det	_	O
+12	very	very	RB	pos2=NN	13	advmod	_	O
+13	near	near	JJ	pos2=IN	14	nmod	_	O
+14	future	future	NN	_	10	pobj	_	O
+15	.	.	.	_	9	punct	_	O
+

@@ -1,0 +1,23 @@
+1	Cristiano	cristiano	NNP	_	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	3	nsubj	_	L-PERSON
+3	shows	show	VBZ	_	0	root	_	O
+4	off	off	RP	pos2=IN	3	prt	_	O
+5	his	his	PRP$	_	7	poss	_	O
+6	ridiculous	ridiculous	JJ	_	7	nmod	_	O
+7	legs	leg	NNS	_	3	dobj	_	O
+8	as	as	IN	_	3	prep	_	O
+9	Real	real	NNP	pos2=JJ	10	compound	_	B-ORG
+10	Madrid	madrid	NNP	_	8	pobj	_	L-ORG
+11	forward	forward	RB	pos2=NNP	12	advmod	_	O
+12	continues	continue	VBZ	_	3	conj	_	O
+13	countdown	countdown	NN	pos2=VBG	12	dobj	_	O
+14	to	to	IN	_	12	prep	_	O
+15	El	el	NNP	_	18	compound	_	B-ORG
+16	Clasico	clasico	NNP	_	18	compound	_	I-ORG
+17	-	-	HYPH	pos2=SYM	18	punct	_	I-ORG
+18	Mirror	mirror	NNP	_	14	pobj	_	L-ORG
+19	.	.	.	_	3	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/a8goLEBvdb	#hlink#	ADD	pos2=NN	0	root	_	O
+

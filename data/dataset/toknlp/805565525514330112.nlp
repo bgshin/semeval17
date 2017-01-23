@@ -1,0 +1,23 @@
+1	Nick	nick	NNP	_	2	compound	_	B-PERSON
+2	Jonas	jonas	NNP	_	4	poss	_	I-PERSON
+3	'	'	POS	_	2	case	_	L-PERSON
+4	Performance	performance	NNP	pos2=NN	11	nsubj	_	O
+5	at	at	IN	_	4	prep	_	O
+6	the	the	DT	_	10	det	_	O
+7	MTV	mtv	NNP	_	9	compound	_	O
+8	Video	video	NNP	_	9	compound	_	O
+9	Music	music	NNP	_	10	compound	_	O
+10	Awards	award	NNPS	pos2=NNP	5	pobj	_	O
+11	Is	be	VBZ	_	0	root	_	O
+12	n't	not	RB	_	11	neg	_	O
+13	Complete	complete	JJ	pos2=NNP	11	acomp	_	O
+14	Without	without	IN	_	11	prep	_	O
+15	Ashley	ashley	NNP	_	16	compound	_	B-PERSON
+16	Graham	graham	NNP	_	14	pobj	_	L-PERSON
+17	and	and	CC	_	16	cc	_	O
+18	"	"	``	_	19	punct	_	O
+19	Bacon	bacon	NNP	_	16	conj	_	U-PERSON
+20	"	"	''	_	19	punct	_	O
+21	…	…	NFP	pos2=-LRB-	11	discourse	_	O
+22	https://t.co/QwhrRkPfUx	#hlink#	ADD	_	11	dep	_	O
+

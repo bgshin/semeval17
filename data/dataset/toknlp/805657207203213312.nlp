@@ -1,0 +1,16 @@
+1	From	from	IN	_	15	prep	_	O
+2	#CristianoRonaldo	#cristianoronaldo	NNP	pos2=NN	1	pobj	_	U-GPE
+3	to	to	IN	pos2=TO	1	prep	_	O
+4	#LeBronJames	#lebronjames	NNS	pos2=XX	3	pobj	_	O
+5	-	-	HYPH	pos2=,	10	punct	_	O
+6	Top	top	NNP	pos2=JJ	11	nmod	_	O
+7	15	0	CD	_	6	nmod	_	U-CARDINAL
+8	most	most	RBS	pos2=JJS	10	advmod	_	O
+9	-	-	HYPH	_	10	punct	_	O
+10	followed	followed	VBN	pos2=JJ	11	nmod	_	O
+11	athletes	athlete	NNS	_	15	dep	_	O
+12	on	on	IN	pos2=GW	11	prep	_	O
+13	#Instagram	#instagram	NNP	pos2=GW	12	pobj	_	O
+14	https://t.co/blwiDcijNB	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/HHbCY1Fubm	#hlink#	ADD	_	0	root	_	U-ORG
+

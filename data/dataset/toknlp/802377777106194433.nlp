@@ -1,0 +1,17 @@
+1	#TPP	#tpp	NN	pos2=NNP	2	nsubj	_	U-ORG
+2	is	be	VBZ	_	0	root	_	O
+3	N.W.O.	n.w.o.	NNP	pos2=VBN	2	attr	_	U-ORG
+4	;	;	,	pos2=:	2	punct	_	O
+5	1%er	0er	NN	pos2=NNP	7	poss	_	U-DATE
+6	's	's	POS	_	5	case	_	O
+7	Corporatocracy	corporatocracy	NNP	pos2=NN	2	attr	_	U-GPE
+8	;	;	,	pos2=:	13	punct	_	O
+9	～Global	～global	NNP	pos2=JJ	10	compound	_	O
+10	Governance	governance	NNP	pos2=NN	2	attr	_	O
+11	by	by	IN	_	10	prep	_	O
+12	Corporate	corporate	JJ	pos2=NNP	13	nmod	_	O
+13	Jews.【	jews.【	NNP	pos2=NNPS	11	pobj	_	O
+14	https://t.co/WZGQvZfJgo　https://t.co/vRaKoOEr73】#ows	#hlink#	ADD	_	16	nmod	_	O
+15	#tcot	#tcot	-RRB-	pos2=IN	13	punct	_	O
+16	#p2	#p0	NN	pos2=.	15	pobj	_	O
+

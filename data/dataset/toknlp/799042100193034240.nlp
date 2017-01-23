@@ -1,0 +1,29 @@
+1	@MarcACaputo	@marcacaputo	UH	pos2=ADD	4	discourse	_	O
+2	you	you	PRP	_	4	nsubj	_	O
+3	're	be	VBP	_	4	aux	_	O
+4	making	make	VBG	_	0	root	_	O
+5	me	me	PRP	_	6	nsubj	_	O
+6	look	look	VB	_	4	ccomp	_	O
+7	like	like	IN	_	9	mark	_	O
+8	I	I	PRP	_	9	nsubj	_	O
+9	'm	be	VBP	_	6	advcl	_	O
+10	part	part	NN	pos2=CD	9	attr	_	O
+11	of	of	IN	_	10	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	#TrumpTransitionTeam	#trumptransitionteam	NNP	pos2=NN	11	pobj	_	O
+14	now	now	RB	_	9	advmod	_	O
+15	.	.	.	_	4	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	have	have	VBP	_	0	root	_	O
+3	no	no	DT	_	4	det	_	O
+4	clue	clue	NN	pos2=RB	2	dobj	_	O
+5	what	what	WP	pos2=WDT	7	nsubj	_	O
+6	's	's	VBZ	_	7	aux	_	O
+7	going	go	VBG	_	4	relcl	_	O
+8	on	on	RP	_	7	prt	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/ZKL6lLqwky	#hlink#	ADD	pos2=NN	0	root	_	O
+

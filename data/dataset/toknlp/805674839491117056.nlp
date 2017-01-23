@@ -1,0 +1,20 @@
+1	Homeopathy	homeopathy	NN	pos2=NNP	0	root	_	O
+2	...	..	.	pos2=:	1	punct	_	O
+
+1	Making	make	VBG	_	16	dep	_	O
+2	fuck	fuck	NN	pos2=VBP	1	dobj	_	O
+3	all	all	DT	_	4	det	_	O
+4	difference	difference	NN	_	1	npadvmod	_	O
+5	since	since	IN	_	4	prep	_	O
+6	1796Daily	0daily	NN	pos2=PRP$	8	compound	_	O
+7	Mash	mash	NNP	pos2=NN	8	compound	_	O
+8	shirts	shirt	NNS	_	5	pobj	_	O
+9	,	,	,	_	8	punct	_	O
+10	Xmas	xmas	NNP	_	11	compound	_	U-PRODUCT
+11	cards	card	NNS	pos2=NN	8	conj	_	O
+12	and	and	CC	_	11	cc	_	O
+13	other	other	JJ	_	14	nmod	_	O
+14	things	thing	NNS	_	11	conj	_	O
+15	…	…	NFP	pos2=WDT	16	punct	_	O
+16	https://t.co/U1r55EpNch	#hlink#	ADD	_	0	root	_	O
+

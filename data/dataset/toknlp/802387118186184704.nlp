@@ -1,0 +1,20 @@
+1	my	my	PRP$	_	3	poss	_	O
+2	favorite	favorite	JJ	_	3	nmod	_	O
+3	chronicle	chronicle	NN	_	19	nsubj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	narnia	narnia	NN	pos2=NNP	4	pobj	_	B-GPE
+6	@wtmaIIy	@wtmaiiy	NNP	pos2=XX	3	appos	_	L-GPE
+7	@yacrackerjax	@yacrackerjax	GW	pos2=XX	10	nmod	_	O
+8	-	-	:	pos2=HYPH	3	punct	_	O
+9	https://t.co/bQNY5J9jbw:	#hlink#	ADD	pos2=NN	10	nmod	_	O
+10	PSA	psa	NN	_	19	dep	_	U-ORG
+11	:	:	:	_	19	punct	_	O
+12	The	the	DT	_	13	det	_	O
+13	Lion	lion	NNP	_	19	nmod	_	U-PERSON
+14	,	,	,	_	13	punct	_	O
+15	Witch	witch	NNP	_	13	conj	_	O
+16	and	and	CC	_	15	cc	_	O
+17	melania	melania	NN	pos2=GW	19	compound	_	O
+18	trump	trump	NN	_	19	compound	_	O
+19	memes	meme	NNS	_	0	root	_	O
+

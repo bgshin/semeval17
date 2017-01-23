@@ -1,0 +1,5 @@
+1	@BillSimmons	@billsimmons	NNP	pos2=NNS	3	compound	_	B-PERSON
+2	Grayson	grayson	NNP	_	3	compound	_	I-PERSON
+3	Allen	allen	NNP	_	0	root	_	L-PERSON
+4	?	?	.	_	3	punct	_	O
+

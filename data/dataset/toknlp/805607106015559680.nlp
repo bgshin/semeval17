@@ -1,0 +1,25 @@
+1	@jacktodd46	@jacktodd0	NN	pos2=NNP	2	compound	_	O
+2	Jack	jack	NNP	_	5	vocative	_	U-PERSON
+3	,	,	,	_	5	punct	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	know	know	VBP	_	0	root	_	O
+6	no	no	DT	pos2=UH	7	det	_	O
+7	one	#crd#	NN	_	9	nsubj	_	O
+8	can	can	MD	_	9	aux	_	O
+9	eclipse	eclipse	VB	_	5	ccomp	_	O
+10	Cristiano	cristiano	NNP	_	11	compound	_	B-PERSON
+11	Ronaldo	ronaldo	NNP	_	9	dobj	_	L-PERSON
+12	,	,	,	_	11	punct	_	O
+13	the	the	DT	_	15	det	_	O
+14	sun	sun	NN	pos2=JJ	15	compound	_	O
+15	king	king	NN	_	11	appos	_	O
+16	of	of	IN	_	15	prep	_	O
+17	sports	sport	NNS	_	16	pobj	_	O
+18	.	.	.	_	5	punct	_	O
+
+1	Not	not	RB	_	4	neg	_	O
+2	even	even	RB	_	4	advmod	_	O
+3	Cam	cam	NNP	_	4	compound	_	B-PERSON
+4	Newton	newton	NNP	_	0	root	_	L-PERSON
+5	.	.	.	_	4	punct	_	O
+

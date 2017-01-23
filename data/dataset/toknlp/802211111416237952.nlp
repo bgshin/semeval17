@@ -1,0 +1,28 @@
+1	@AlwaysInAmerica	@alwaysinamerica	UH	pos2=NNP	4	discourse	_	O
+2	@megynkelly	@megynkelly	UH	pos2=RB	4	discourse	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	'm	be	VBP	_	0	root	_	O
+5	sure	sure	JJ	_	4	acomp	_	O
+6	Trump	trump	NNP	_	8	poss	_	U-ORG
+7	's	's	POS	_	6	case	_	O
+8	actions	action	NNS	_	12	nsubj	_	O
+9	&	&	CC	_	8	cc	_	O
+10	words	word	NNS	_	8	conj	_	O
+11	did	do	VBD	_	12	aux	_	O
+12	make	make	VB	_	5	ccomp	_	O
+13	her	her	PRP$	pos2=PRP	14	poss	_	O
+14	life	life	NN	_	17	nsubj	_	O
+15	a	a	DT	_	17	det	_	O
+16	living	live	VBG	pos2=NN	17	nmod	_	O
+17	hell	hell	NN	_	12	ccomp	_	O
+18	for	for	IN	_	17	prep	_	O
+19	a	a	DT	_	20	det	_	O
+20	while	while	NN	_	18	pobj	_	O
+21	.	.	.	_	4	punct	_	O
+
+1	Ca	can	MD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	blame	blame	VB	_	0	root	_	O
+4	her	her	PRP	_	3	dobj	_	O
+5	.	.	.	_	3	punct	_	O
+

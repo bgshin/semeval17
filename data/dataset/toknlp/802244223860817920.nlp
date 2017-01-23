@@ -1,0 +1,8 @@
+1	My	my	PRP$	_	3	poss	_	O
+2	favourite	favourite	NN	pos2=JJ	3	compound	_	O
+3	car	car	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	Tesla	tesla	NNP	_	7	compound	_	U-PRODUCT
+6	model	model	NN	_	7	compound	_	O
+7	S	s	NN	pos2=NNP	4	attr	_	O
+

@@ -1,0 +1,27 @@
+1	Am	be	VBP	pos2=UH	0	root	_	O
+2	I	I	PRP	_	1	nsubj	_	O
+3	the	the	DT	_	5	det	_	O
+4	only	only	JJ	pos2=RB	5	nmod	_	O
+5	one	#crd#	CD	pos2=NN	1	attr	_	O
+6	that	that	WDT	_	7	nsubj	_	O
+7	thinks	think	VBZ	_	5	relcl	_	O
+8	#Trump	#trump	NNP	pos2=ADD	10	nsubj	_	U-ORG
+9	is	be	VBZ	_	10	aux	_	O
+10	playing	play	VBG	_	7	ccomp	_	O
+11	w	w	IN	pos2=RB	10	prep	_	O
+12	/	/	HYPH	pos2=,	11	punct	_	O
+13	#Romney	#romney	NN	pos2=NNP	11	pobj	_	O
+14	to	to	TO	_	15	aux	_	O
+15	get	get	VB	_	10	advcl	_	O
+16	back	back	RB	pos2=RP	15	advmod	_	O
+17	at	at	IN	_	16	prep	_	O
+18	him	him	PRP	_	17	pobj	_	O
+19	for	for	IN	_	15	prep	_	O
+20	his	his	PRP$	_	21	poss	_	O
+21	criticism	criticism	NN	_	19	pobj	_	O
+22	?	?	.	_	1	punct	_	O
+
+1	Smh.	smh.	NNP	pos2=NN	2	compound	_	O
+2	#UniteBlue	#uniteblue	NNP	pos2=XX	0	root	_	U-PERSON
+3	#libcrib	#libcrib	UH	pos2=NN	2	discourse	_	O
+

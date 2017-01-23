@@ -1,0 +1,15 @@
+1	Breaking	break	VBG	pos2=NN	4	nsubj	_	O
+2	:	:	:	_	7	punct	_	O
+3	President	president	NNP	_	7	compound	_	O
+4	Elect	elect	NNP	pos2=VB	7	compound	_	O
+5	Trump	trump	NNP	_	7	compound	_	O
+6	Stuffs	stuffs	NNP	pos2=VBZ	7	compound	_	O
+7	Cabinet	cabinet	NNP	_	12	compound	_	U-ORG
+8	Full	full	JJ	pos2=NNP	7	nmod	_	O
+9	of	of	IN	_	8	prep	_	O
+10	CFR	cfr	NNP	pos2=NN	12	compound	_	B-ORG
+11	War	war	NNP	_	12	compound	_	I-ORG
+12	Hawks	hawk	NNPS	_	0	root	_	L-ORG
+13	#ATS	#ats	POS	pos2=NFP	12	case	_	O
+14	https://t.co/R7X5cXRCWA	#hlink#	ADD	_	9	pobj	_	O
+

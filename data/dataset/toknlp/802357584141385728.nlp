@@ -1,0 +1,11 @@
+1	first	#ord#	JJ	pos2=RB	3	nmod	_	U-ORDINAL
+2	date	date	NN	_	3	compound	_	O
+3	dream	dream	NN	_	5	dep	_	O
+4	:	:	:	_	5	punct	_	O
+5	take	take	VB	_	0	root	_	O
+6	me	me	PRP	_	5	dobj	_	O
+7	to	to	IN	pos2=TO	5	prep	_	O
+8	an	an	DT	_	10	det	_	O
+9	anti-trump	anti-trump	JJ	_	10	nmod	_	O
+10	protest	protest	NN	_	7	pobj	_	O
+

@@ -1,0 +1,15 @@
+1	#CENTCOM	#centcom	NN	pos2=ADD	2	compound	_	O
+2	#BattleforMosul	#battleformosul	NNP	pos2=IN	6	compound	_	O
+3	Special	special	JJ	pos2=NNP	6	nmod	_	O
+4	#Marine	#marine	NNP	pos2=POS	6	compound	_	B-PERSON
+5	Ground	ground	NNP	pos2=NN	6	compound	_	I-PERSON
+6	#TaskForce	#taskforce	NNP	pos2=XX	0	root	_	L-PERSON
+7	,	,	,	_	6	punct	_	O
+8	#USArmy	#usarmy	NNP	pos2=XX	9	nsubj	_	U-ORG
+9	advise	advise	VB	pos2=VBP	0	root	_	O
+10	#Iraqi	#iraqi	NNP	pos2=PRP	11	compound	_	O
+11	#securityforces	#securityforces	NNS	pos2=POS	9	dobj	_	O
+12	re	re	IN	pos2=GW	9	prep	_	O
+13	#MosulOffensive	#mosuloffensive	GW	pos2=ADD	14	nmod	_	O
+14	https://t.co/VLgd0pXb9I	#hlink#	ADD	pos2=NN	12	pobj	_	O
+

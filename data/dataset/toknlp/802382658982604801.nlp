@@ -1,0 +1,29 @@
+1	Michael	michael	NNP	_	2	compound	_	B-PERSON
+2	Moore	moore	NNP	_	4	nsubj	_	L-PERSON
+3	is	be	VBZ	_	4	aux	_	O
+4	speaking	speak	VBG	_	0	root	_	O
+5	much	much	JJ	pos2=RB	6	nmod	_	O
+6	truth	truth	NN	_	4	dobj	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	This	this	DT	_	4	nsubj	_	O
+2	should	should	MD	_	4	aux	_	O
+3	have	have	VB	_	4	aux	_	O
+4	come	come	VBN	_	0	root	_	O
+5	out	out	RP	pos2=RB	4	prt	_	O
+6	before	before	IN	_	4	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	election	election	NN	_	6	pobj	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	Remember	remember	VB	_	0	root	_	O
+2	when	when	WRB	_	4	advmod	_	O
+3	she	she	PRP	_	4	nsubj	_	O
+4	hyphenated	hyphenate	VBD	_	1	advcl	_	O
+5	her	her	PRP$	_	6	poss	_	O
+6	name	name	NN	_	4	dobj	_	O
+7	&	&	CC	_	6	cc	_	O
+8	folks	folk	NNS	_	6	conj	_	O
+9	flipped	flip	VBN	pos2=VBD	4	advcl	_	O
+10	?	?	.	_	1	punct	_	O
+

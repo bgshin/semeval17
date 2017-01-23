@@ -1,0 +1,16 @@
+1	Author	author	NN	_	2	compound	_	O
+2	@colsonwhitehead'91	@colsonwhitehead'0	NN	pos2=WP	3	nsubj	_	O
+3	wins	win	VBZ	_	0	root	_	O
+4	@nationalbook	@nationalbook	``	pos2=NNP	3	punct	_	O
+5	award	award	NN	pos2=VB	3	dobj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	"	"	``	_	10	punct	_	O
+8	The	the	DT	pos2=NNP	10	det	_	B-WORK_OF_ART
+9	Underground	underground	NNP	_	10	compound	_	I-WORK_OF_ART
+10	Railroad	railroad	NNP	_	6	pobj	_	I-WORK_OF_ART
+11	"	"	''	pos2=``	10	punct	_	L-WORK_OF_ART
+12	https://t.co/eOS1WI5UXj	#hlink#	ADD	pos2=NN	10	appos	_	O
+13	via	via	IN	_	3	prep	_	O
+14	@nytimes	@nytimes	NNPS	pos2=NNS	13	pobj	_	O
+15	#NBAwards	#nbawards	ADD	pos2=NNS	3	punct	_	O
+

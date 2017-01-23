@@ -1,0 +1,23 @@
+1	Catholics	catholic	NNS	pos2=NNPS	3	vocative	_	O
+2	,	,	,	_	3	punct	_	O
+3	pull	pull	VB	_	0	root	_	O
+4	yourselves	yourself	NNS	pos2=PRP	3	dobj	_	O
+5	together	together	RB	_	3	advmod	_	O
+6	,	,	,	_	3	punct	_	O
+7	show	show	VBP	pos2=VB	3	conj	_	O
+8	loyalty	loyalty	NN	_	7	dobj	_	O
+9	to	to	IN	_	8	prep	_	O
+10	Pope	pope	NNP	_	11	compound	_	O
+11	Francis	francis	NNP	_	9	pobj	_	U-PERSON
+12	...	..	.	pos2=,	3	punct	_	O
+
+1	successor	successor	NN	_	6	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	St	st	NNP	pos2=NN	5	compound	_	B-PERSON
+4	Peter	peter	NNP	_	5	compound	_	I-PERSON
+5	«	«	NNP	pos2=NFP	2	pobj	_	L-PERSON
+6	Protect	protect	VB	pos2=NNP	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	Pope	pope	NNP	_	6	dobj	_	O
+9	https://t.co/jKQZTlcsyZ	#hlink#	ADD	pos2=NNP	8	appos	_	O
+

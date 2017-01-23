@@ -1,0 +1,23 @@
+1	No	no	UH	_	6	discourse	_	O
+2	,	,	,	_	6	punct	_	O
+3	U	u	NNP	pos2=PRP	6	nsubj	_	U-ORG
+4	did	do	VBD	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	pay	pay	VB	_	0	root	_	O
+7	enough	enough	JJ	_	8	nmod	_	O
+8	attention	attention	NN	_	6	dobj	_	O
+9	2	0	CD	_	11	nmod	_	U-CARDINAL
+10	PUTIN	putin	NNP	pos2=NN	11	compound	_	B-ORG
+11	Comey&Wikileaks!She	comey&wikileaks!she	NNP	pos2=ADD	14	nsubj	_	L-ORG
+12	is	be	VBZ	_	14	aux	_	O
+13	actually	actually	RB	_	14	advmod	_	O
+14	winning	win	VBG	_	6	advcl	_	O
+15	popular	popular	JJ	_	16	nmod	_	O
+16	vote	vote	NN	_	14	dobj	_	O
+17	by	by	IN	_	14	prep	_	O
+18	2million	0million	CD	_	17	pobj	_	U-CARDINAL
+19	+	+	SYM	pos2=-RRB-	18	punct	_	O
+20	pollste	pollste	NN	pos2=JJ	22	dep	_	O
+21	…	…	NFP	pos2=-LRB-	22	punct	_	O
+22	https://t.co/is6HkemwfL	#hlink#	ADD	pos2=NN	14	dep	_	O
+

@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det	_	O
+2	Democrats	democrat	NNPS	_	3	nsubj	_	U-NORP
+3	are	be	VBP	_	0	root	_	O
+4	behind	behind	IN	_	3	prep	_	O
+5	the	the	DT	_	8	det	_	O
+6	Anti	anti	NNP	pos2=AFX	7	compound	_	O
+7	Trump	trump	NNP	pos2=NN	8	compound	_	U-ORG
+8	protests	protest	NNS	pos2=VBZ	4	pobj	_	O
+9	that	that	WDT	pos2=IN	10	nsubj	_	O
+10	turn	turn	VBP	_	8	relcl	_	O
+11	into	into	IN	_	10	prep	_	O
+12	Riots	riot	NNS	pos2=NNPS	11	pobj	_	O
+13	.	.	.	_	3	punct	_	O
+
+1	There	there	EX	pos2=PRP$	2	poss	_	O
+2	Parents	parent	NNS	pos2=NNPS	4	nsubj	_	O
+3	must	must	MD	_	4	aux	_	O
+4	be	be	VB	_	0	root	_	O
+5	pleased	pleased	JJ	_	4	acomp	_	O
+6	with	with	IN	_	5	prep	_	O
+7	how	how	WRB	_	9	advmod	_	O
+8	they	they	PRP	_	9	nsubj	_	O
+9	raised	raise	VBD	_	6	pcomp	_	O
+10	there	there	RB	pos2=PRP$	9	advmod	_	O
+11	Children	child	NNS	pos2=NNP	9	dobj	_	O
+12	.	.	.	_	4	punct	_	O
+

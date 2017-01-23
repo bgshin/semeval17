@@ -1,0 +1,24 @@
+1	@Mechagodzilla75	@mechagodzilla0	NN	pos2=NNS	8	dep	_	O
+2	Since	since	IN	pos2=NNP	5	mark	_	O
+3	Pope	pope	NNP	_	4	compound	_	O
+4	Francis	francis	NNP	_	5	nsubj	_	U-PERSON
+5	wrote	write	VBD	_	8	advcl	_	O
+6	AL	al	NNP	_	5	dobj	_	U-ORG
+7	he	he	PRP	_	8	nsubj	_	O
+8	has	have	VBZ	_	0	root	_	O
+9	every	every	DT	_	10	det	_	O
+10	right	right	NN	_	8	dobj	_	O
+11	to	to	TO	_	12	aux	_	O
+12	tell	tell	VB	_	10	acl	_	O
+13	those	those	DT	_	12	dobj	_	O
+14	who	who	WP	_	15	nsubj	_	O
+15	enquiry	enquiry	VBP	pos2=VB	13	relcl	_	O
+16	whether	whether	IN	_	19	mark	_	O
+17	their	their	PRP$	_	18	poss	_	O
+18	interpretation	interpretation	NN	_	19	nsubj	_	O
+19	is	be	VBZ	_	15	ccomp	_	O
+20	correct	correct	JJ	_	19	acomp	_	O
+21	or	or	CC	_	20	cc	_	O
+22	not	not	RB	_	19	conj	_	O
+23	!	!	.	_	8	punct	_	O
+

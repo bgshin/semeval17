@@ -1,0 +1,20 @@
+1	Mass	mass	NN	pos2=NNP	2	compound	_	O
+2	immigration	immigration	NN	_	4	nsubj	_	O
+3	is	be	VBZ	_	4	aux	_	O
+4	turning	turn	VBG	_	10	ccomp	_	O
+5	communities	community	NNS	_	4	dobj	_	O
+6	into	into	IN	_	4	prep	_	O
+7	GHETTOS	ghetto	NNS	pos2=NN	6	pobj	_	O
+8	,	,	,	_	10	punct	_	O
+9	report	report	NN	_	10	nsubj	_	O
+10	reveals	reveal	VBZ	_	0	root	_	O
+11	|	|	SYM	pos2=,	19	punct	_	O
+12	UK	uk	NNP	pos2=NN	19	dep	_	U-GPE
+13	|	|	SYM	pos2=,	19	punct	_	O
+14	News	news	NNP	_	19	dep	_	B-ORG
+15	|	|	SYM	pos2=,	19	punct	_	I-ORG
+16	Daily	daily	NNP	pos2=RB	17	compound	_	I-ORG
+17	Express	express	NNP	_	19	dep	_	L-ORG
+18	:	:	:	_	19	punct	_	O
+19	https://t.co/UrNd1GgUG6	#hlink#	ADD	pos2=NN	10	dep	_	O
+

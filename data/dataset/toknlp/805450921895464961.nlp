@@ -1,0 +1,24 @@
+1	Modi	modi	NNP	_	2	compound	_	U-PERSON
+2	ji	ji	NN	pos2=FW	4	nsubj	_	O
+3	may	may	MD	_	4	aux	_	O
+4	advise	advise	VB	_	0	root	_	O
+5	people	people	NNS	_	4	dobj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	shift	shift	VB	_	4	xcomp	_	O
+8	to	to	IN	_	7	prep	_	O
+9	vegetarianism	vegetarianism	NN	_	8	pobj	_	O
+10	for	for	IN	_	7	prep	_	O
+11	maintaining	maintain	VBG	_	10	pcomp	_	O
+12	good	good	JJ	_	13	nmod	_	O
+13	health	health	NN	_	11	dobj	_	O
+14	thereby	thereby	RB	_	15	advmod	_	O
+15	increasing	increase	VBG	_	7	advcl	_	O
+16	the	the	DT	_	18	det	_	O
+17	average	average	JJ	_	18	nmod	_	O
+18	lifespan	lifespan	NN	_	15	dobj	_	O
+19	of	of	IN	_	18	prep	_	O
+20	people	people	NNS	_	19	pobj	_	O
+21	of	of	IN	_	20	prep	_	O
+22	India	india	NNP	_	21	pobj	_	U-GPE
+23	.	.	.	_	4	punct	_	O
+

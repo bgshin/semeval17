@@ -1,0 +1,21 @@
+1	CONGRATULATIONS	congratulation	NNS	_	0	root	_	O
+2	SINGLE	single	JJ	_	3	nmod	_	O
+3	PARENTS	parent	NNS	_	1	vocative	_	O
+4	!	!	.	_	1	punct	_	O
+
+1	#Trump	#trump	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	says	say	VBZ	_	0	root	_	O
+3	MORE	more	JJR	_	4	nmod	_	O
+4	TAXES	tax	NNS	_	2	dobj	_	O
+5	for	for	IN	_	4	prep	_	O
+6	YOU	you	PRP	_	5	pobj	_	O
+7	!	!	.	_	2	punct	_	O
+
+1	#MAGA	#maga	NN	pos2=UH	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	#MakeAmericaGreatAgain	#makeamericagreatagain	ADD	pos2=GW	4	dep	_	O
+2	#WorkingParents	#workingparents	NNS	pos2=GW	1	pobj	_	O
+3	…	…	NFP	pos2=-LRB-	4	punct	_	O
+4	https://t.co/0wlPmPfhr3	#hlink#	ADD	_	0	root	_	O
+

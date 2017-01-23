@@ -1,0 +1,32 @@
+1	@lifesabeach77	@lifesabeach0	NN	pos2=LS	4	nsubj	_	O
+2	IMO	imo	RB	pos2=NN	4	advmod	_	O
+3	U	u	NNP	pos2=NN	4	nsubj	_	O
+4	r	r	VBP	pos2=NN	0	root	_	O
+5	wrong	wrong	JJ	pos2=NN	4	acomp	_	O
+6	to	to	TO	_	7	aux	_	O
+7	say	say	VB	_	5	xcomp	_	O
+8	Dems	dems	NNPS	pos2=NNP	11	nsubj	_	U-NORP
+9	do	do	VB	pos2=VBP	11	aux	_	O
+10	nt	nt	RB	_	11	advmod	_	O
+11	listen	listen	VB	_	7	ccomp	_	O
+12	to	to	IN	_	11	prep	_	O
+13	both	both	DT	_	14	det	_	O
+14	sides	side	NNS	_	12	pobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	issues	issue	NNS	_	15	pobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	parties	party	NNS	_	17	pobj	_	O
+19	.	.	.	_	4	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	do	do	VBP	_	3	aux	_	O
+3	&	&	CC	pos2=XX	5	cc	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	tend	tend	VB	pos2=VBP	0	root	_	O
+6	2disagree	0disagree	NN	pos2=CD	5	dobj	_	O
+7	w	w	IN	pos2=RB	5	prep	_	O
+8	more	more	JJR	pos2=RBR	7	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	gop	gop	JJ	pos2=NN	11	nmod	_	O
+11	policy	policy	NN	_	9	pobj	_	O
+

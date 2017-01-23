@@ -1,0 +1,26 @@
+1	East	east	NNP	pos2=FW	6	compound	_	O
+2	Aleppo	aleppo	NNP	_	6	compound	_	O
+3	#FakeNewsMedia	#fakenewsmedia	NNP	pos2=POS	6	compound	_	O
+4	Bana	bana	NNP	_	6	compound	_	B-PERSON
+5	Alabed	alabed	NNP	_	6	compound	_	L-PERSON
+6	Twitter	twitter	NNP	_	7	compound	_	O
+7	acct	acct	NN	_	8	nsubj	_	O
+8	deleted	delete	VBN	_	0	root	_	O
+9	.	.	.	_	8	punct	_	O
+
+1	Her	her	PRP$	pos2=PRP	5	poss	_	O
+2	'	'	``	_	5	punct	_	O
+3	mum	mum	NN	_	5	nmod	_	O
+4	'	'	''	pos2=POS	5	punct	_	O
+5	tweets	tweet	NNS	_	7	nsubj	_	O
+6	/	/	SYM	pos2=,	7	punct	_	O
+7	has	have	VBZ	_	0	root	_	O
+8	access	access	NN	_	7	dobj	_	O
+9	to	to	IN	_	8	prep	_	O
+10	internet	internet	NN	_	9	pobj	_	O
+11	'	'	''	_	7	punct	_	O
+12	while	while	IN	_	13	mark	_	O
+13	being	be	VBG	_	7	advcl	_	O
+14	…	…	NFP	pos2=-LRB-	13	attr	_	O
+15	https://t.co/2gQFvhqRBl	#hlink#	ADD	_	10	appos	_	U-ORG
+

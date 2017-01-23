@@ -1,0 +1,10 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@mike_pence	@mike_pence	NN	pos2=NNP	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	eat	eat	VB	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	bag	bag	NN	_	3	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	dicks	dick	NNS	_	6	pobj	_	O
+

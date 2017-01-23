@@ -1,0 +1,13 @@
+1	ChicagoBill	chicagobill	NNP	pos2=DT	2	compound	_	O
+2	Notes	note	NNPS	pos2=NNS	4	nsubj	_	O
+3	-	-	:	pos2=,	4	punct	_	O
+4	Let	let	VB	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	bidding	bidding	NN	_	7	nsubj	_	O
+7	begin	begin	VB	pos2=NN	4	ccomp	_	O
+8	,	,	,	_	7	punct	_	O
+9	on	on	IN	_	7	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	new	new	JJ	_	12	nmod	_	O
+12	Wallhttps://t.co/8Z1zCZMeC0	#hlink#	ADD	pos2=NN	9	pobj	_	U-ORG
+

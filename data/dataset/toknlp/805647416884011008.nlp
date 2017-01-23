@@ -1,0 +1,26 @@
+1	@VanJones68	@vanjones0	NN	pos2=MD	2	compound	_	O
+2	pls	pls	NNS	pos2=UH	3	nsubj	_	O
+3	support	support	VB	pos2=VBP	0	root	_	O
+4	Jill	jill	NNP	_	5	compound	_	B-PERSON
+5	Stein	stein	NNP	_	3	dobj	_	L-PERSON
+6	and	and	CC	_	3	cc	_	O
+7	look	look	VB	_	3	conj	_	O
+8	into	into	IN	_	7	prep	_	O
+9	voter	voter	NN	_	10	compound	_	O
+10	suppression	suppression	NN	_	8	pobj	_	O
+11	and	and	CC	_	10	cc	_	O
+12	cross	cross	NN	pos2=VB	10	conj	_	O
+13	checking	check	VBG	pos2=NN	9	appos	_	O
+14	.	.	.	_	3	punct	_	O
+
+1	before	before	IN	pos2=RB	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	blame	blame	VBP	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	election	election	NN	_	3	dobj	_	O
+6	on	on	IN	_	3	prep	_	O
+7	lack	lack	NN	_	6	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	policy	policy	NN	_	8	pobj	_	O
+10	...	..	.	_	7	punct	_	O
+

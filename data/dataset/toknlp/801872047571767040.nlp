@@ -1,0 +1,14 @@
+1	@KateUpton	@kateupton	VB	pos2=ADD	5	discourse	_	O
+2	my	my	PRP$	_	3	poss	_	O
+3	boy	boy	NN	pos2=UH	1	dobj	_	O
+4	@RickPorcello	@rickporcello	NNP	pos2=WP	3	appos	_	U-PERSON
+5	is	be	VBZ	_	0	root	_	O
+6	the	the	DT	_	10	det	_	O
+7	CY	cy	NNP	pos2=JJ	8	compound	_	O
+8	YOUNG	young	NNP	pos2=JJ	9	compound	_	O
+9	AWARD	award	NN	pos2=NNP	10	compound	_	O
+10	WINNER	winner	NN	pos2=NNP	5	attr	_	O
+11	!	!	.	_	5	punct	_	O
+
+1	#Done	#done	NNP	pos2=NN	0	root	_	O
+

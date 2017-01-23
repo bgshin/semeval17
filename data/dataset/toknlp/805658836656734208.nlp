@@ -1,0 +1,21 @@
+1	That	that	DT	pos2=IN	3	det	_	O
+2	shooting	shooting	NN	pos2=VBG	3	compound	_	O
+3	ad	ad	NN	_	8	nsubj	_	O
+4	about	about	IN	pos2=RB	3	prep	_	O
+5	paying	pay	VBG	_	4	pcomp	_	O
+6	attention	attention	NN	_	5	dobj	_	O
+7	kinda	kinda	RB	_	8	advmod	_	O
+8	bothers	bother	VBZ	_	0	root	_	O
+9	me	me	PRP	_	8	dobj	_	O
+10	.	.	.	_	8	punct	_	O
+
+1	Look	look	VB	pos2=NN	0	root	_	O
+2	at	at	IN	_	1	prep	_	O
+3	useful	useful	JJ	_	5	nmod	_	O
+4	GUN	gun	NN	pos2=NNP	5	compound	_	O
+5	CONTROL	control	NN	_	2	pobj	_	O
+6	first	#ord#	RB	pos2=JJ	1	advmod	_	O
+7	before	before	IN	_	1	prep	_	O
+8	disaffected	disaffected	JJ	_	9	nmod	_	O
+9	youth	youth	NN	_	7	pobj	_	O
+

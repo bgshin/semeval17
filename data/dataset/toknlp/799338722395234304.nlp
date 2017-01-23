@@ -1,0 +1,29 @@
+1	@DPRK_News	@dprk_news	NNP	pos2=NNS	0	nsubjpass	_	U-ORG
+2	But	but	CC	_	1	cc	_	O
+3	your	your	PRP$	_	4	poss	_	O
+4	rfugly	rfugly	NN	pos2=JJ	1	conj	_	O
+5	,	,	,	_	4	punct	_	O
+6	dwarven	dwarven	JJ	_	1	conj	_	O
+7	,	,	,	_	6	punct	_	O
+8	MuMu	mumu	NNP	pos2=NN	10	compound	_	O
+9	-	-	HYPH	_	10	punct	_	O
+10	wearing	wear	VBG	pos2=NN	6	conj	_	O
+11	,	,	,	_	10	punct	_	O
+12	pot	pot	NN	_	14	npadvmod	_	O
+13	-	-	HYPH	_	14	punct	_	O
+14	bellied	bellied	JJ	pos2=VBN	19	nmod	_	O
+15	,	,	,	_	20	punct	_	O
+16	man	man	NN	_	18	compound	_	O
+17	-	-	HYPH	_	18	punct	_	O
+18	child	child	NN	_	19	compound	_	O
+19	dictator	dictator	NN	_	20	nsubj	_	O
+20	is	be	VBZ	_	0	root	_	O
+21	Kim	kim	NNP	_	22	compound	_	B-PERSON
+22	Fatty	fatty	NNP	pos2=JJ	20	attr	_	L-PERSON
+23	the	the	DT	_	24	det	_	O
+24	Third	#ord#	NNP	pos2=NNPS	22	appos	_	U-ORDINAL
+25	.	.	.	_	20	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/HaUVXOdH5R	#hlink#	ADD	pos2=NN	0	root	_	O
+

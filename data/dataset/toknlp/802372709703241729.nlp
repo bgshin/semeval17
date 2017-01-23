@@ -1,0 +1,28 @@
+1	@blaubok	@blaubok	UH	pos2=VB	6	discourse	_	O
+2	@melissallen1212	@melissallen0	NN	pos2=CD	6	nsubjpass	_	O
+3	@bfraser747	@bfraser0	IN	pos2=NN	2	prep	_	O
+4	America	america	NNP	_	3	pobj	_	U-GPE
+5	was	be	VBD	_	6	auxpass	_	O
+6	saved	save	VBN	_	0	root	_	O
+7	.	.	.	_	6	punct	_	O
+
+1	Wake	wake	VB	pos2=VBP	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	hell	hell	NN	_	1	dobj	_	O
+4	up	up	RP	pos2=RB	1	prt	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	want	want	VBP	_	0	root	_	O
+3	2	0	CD	_	5	nmod	_	U-CARDINAL
+4	M	m	NNP	pos2=CD	5	compound	_	U-ORG
+5	refugees	refugee	NNS	_	2	dobj	_	O
+6	?	?	.	_	2	punct	_	O
+
+1	Global	global	JJ	pos2=NNP	6	nmod	_	O
+2	gov?TPP?Learn	gov?tpp?learn	XX	pos2=FW	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	facts	fact	NNS	_	0	root	_	O
+5	goto	goto	IN	pos2=XX	4	prep	_	O
+6	college	college	NN	_	5	pobj	_	O
+

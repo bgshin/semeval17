@@ -1,0 +1,9 @@
+1	....	..	.	pos2=NFP	0	predet	_	O
+
+1	yeah	yeah	UH	_	6	discourse	_	O
+2	or	or	CC	_	6	cc	_	O
+3	just	just	RB	_	5	advmod	_	O
+4	gun	gun	NN	pos2=GW	5	compound	_	O
+5	control	control	NN	pos2=GW	6	dep	_	O
+6	https://t.co/zrjXykB4bL	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,24 @@
+1	IoT	iot	NN	pos2=JJ	2	compound	_	O
+2	security	security	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	paramount	paramount	NN	pos2=JJ	3	attr	_	O
+5	for	for	IN	_	4	prep	_	O
+6	operators	operator	NNS	_	5	pobj	_	O
+7	as	as	IN	_	9	mark	_	O
+8	they	they	PRP	_	9	nsubj	_	O
+9	test	test	VBP	_	3	advcl	_	O
+10	new	new	JJ	_	19	nmod	_	O
+11	NB	nb	NNP	pos2=NN	13	compound	_	O
+12	-	-	HYPH	_	13	punct	_	O
+13	IoT	iot	NNP	pos2=NN	16	compound	_	O
+14	standard	standard	NN	pos2=JJ	16	compound	_	O
+15	-	-	HYPH	_	16	punct	_	O
+16	IoT	iot	NNP	pos2=NN	19	compound	_	O
+17	Now	now	RB	_	19	advmod	_	O
+18	-	-	HYPH	pos2=:	19	punct	_	O
+19	How	how	NNP	pos2=WRB	9	dobj	_	O
+20	...	..	.	_	3	punct	_	O
+
+1	https://t.co/LiAqtqUozo	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/zkYzDctAYQ	#hlink#	ADD	_	0	root	_	U-ORG
+

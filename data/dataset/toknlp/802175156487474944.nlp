@@ -1,0 +1,17 @@
+1	#HATCHIMALS	#hatchimals	NNS	pos2=XX	6	dep	_	O
+2	-	-	HYPH	pos2=SYM	3	punct	_	O
+3	BEARAKEET	bearakeet	NNP	pos2=NN	4	nmod	_	O
+4	#TARGET	#target	NNP	pos2=NN	6	nmod	_	O
+5	EXCLUSIVE	exclusive	JJ	_	6	nmod	_	O
+6	#SOLDOUT	#soldout	NN	pos2=NNP	0	root	_	O
+7	!	!	.	_	6	punct	_	O
+
+1	2016	0	CD	pos2=LS	3	nmod	_	U-DATE
+2	HOT	hot	JJ	pos2=NNP	3	nmod	_	O
+3	#CHRISTMAS	#christmas	NNS	pos2=NNP	7	dep	_	O
+4	#TOYS	#toys	NNS	pos2=ADD	7	nmod	_	O
+5	#BlackFriday	#blackfriday	GW	pos2=NNP	7	nmod	_	O
+6	#sale	#sale	GW	pos2=IN	7	nmod	_	O
+7	https://t.co/TWI2ZVq0uc	#hlink#	ADD	pos2=NN	0	root	_	O
+8	@eBay	@ebay	-RRB-	pos2=NNP	7	punct	_	U-ORG
+

@@ -1,0 +1,26 @@
+1	Just	just	RB	_	5	advmod	_	O
+2	in	in	IN	_	5	prep	_	O
+3	time	time	NN	_	2	pobj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	destroy	destroy	VB	_	0	root	_	O
+6	Social	social	NNP	_	7	compound	_	B-ORG
+7	Security	security	NNP	_	5	dobj	_	L-ORG
+8	,	,	,	_	7	punct	_	O
+9	Medicare	medicare	NNP	_	7	conj	_	U-ORG
+10	,	,	,	_	9	punct	_	O
+11	Medicaid	medicaid	NNP	_	9	conj	_	U-ORG
+12	,	,	,	_	11	punct	_	O
+13	Health	health	NNP	pos2=NN	14	compound	_	B-ORG
+14	Care	care	NNP	_	11	conj	_	I-ORG
+15	,	,	,	_	14	punct	_	I-ORG
+16	Education	education	NNP	pos2=NN	14	conj	_	L-ORG
+17	,	,	,	_	16	punct	_	O
+18	and	and	CC	_	16	cc	_	O
+19	Freedom	freedom	NNP	pos2=NN	16	conj	_	B-ORG
+20	of	of	IN	_	19	prep	_	I-ORG
+21	the	the	DT	_	22	det	_	I-ORG
+22	Press	press	NNP	pos2=NN	20	pobj	_	L-ORG
+23	.	.	.	_	5	punct	_	O
+
+1	https://t.co/lqhxQNgSLn	#hlink#	ADD	_	0	root	_	U-ORG
+

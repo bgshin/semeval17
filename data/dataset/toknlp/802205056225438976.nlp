@@ -1,0 +1,25 @@
+1	Sure	sure	UH	_	4	discourse	_	O
+2	,	,	,	_	4	punct	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	looks	look	VBZ	_	0	root	_	O
+5	like	like	IN	_	8	mark	_	O
+6	I	I	PRP	_	8	nsubj	_	O
+7	'm	be	VBP	_	8	aux	_	O
+8	sleeping	sleep	VBG	_	4	advcl	_	O
+9	off	off	RP	pos2=IN	8	prt	_	O
+10	that	that	DT	pos2=IN	13	det	_	B-DATE
+11	Thanksgiving	thanksgiving	NNP	_	12	compound	_	I-DATE
+12	Day	day	NNP	pos2=NN	13	compound	_	L-DATE
+13	meal	meal	NN	_	8	dobj	_	O
+14	,	,	,	_	4	punct	_	O
+15	but	but	CC	_	4	cc	_	O
+16	I	I	PRP	_	19	nsubj	_	O
+17	'm	be	VBP	_	19	aux	_	O
+18	actually	actually	RB	_	19	advmod	_	O
+19	taking	take	VBG	_	4	conj	_	O
+20	the	the	DT	_	22	det	_	O
+21	#MannequinChallenge	#mannequinchallenge	NN	pos2=NNP	22	compound	_	O
+22	ri	ri	NN	pos2=GW	19	dobj	_	O
+23	…	…	NFP	pos2=-LRB-	19	punct	_	O
+24	https://t.co/LeGO318yOV	#hlink#	ADD	_	22	appos	_	O
+

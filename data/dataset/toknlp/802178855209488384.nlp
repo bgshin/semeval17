@@ -1,0 +1,16 @@
+1	Jaguar	jaguar	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	takes	take	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	shot	shot	NN	_	2	dobj	_	O
+5	at	at	IN	_	4	prep	_	O
+6	competing	compete	VBG	_	5	pcomp	_	O
+7	with	with	IN	_	6	prep	_	O
+8	Tesla	tesla	NNP	_	12	poss	_	U-ORG
+9	's	's	POS	_	8	case	_	O
+10	Model	model	NNP	_	11	compound	_	B-PRODUCT
+11	X	x	NNP	pos2=NN	12	compound	_	L-PRODUCT
+12	SUV	suv	NN	pos2=NNP	7	pobj	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	https://t.co/9qkA3L77Ov	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,23 @@
+1	#Hatchimals	#hatchimals	NNS	pos2=NNP	2	compound	_	O
+2	Hatchimals	hatchimals	NNS	pos2=NNPS	4	nsubj	_	O
+3	have	have	VBP	pos2=VB	4	aux	_	O
+4	been	be	VBN	_	12	advcl	_	O
+5	out	out	IN	pos2=RB	4	prep	_	O
+6	of	of	IN	_	5	prep	_	O
+7	stock	stock	NN	_	6	pobj	_	O
+8	everywhere	everywhere	RB	_	4	advmod	_	O
+9	,	,	,	_	12	punct	_	O
+10	do	do	VB	pos2=VBP	12	aux	_	O
+11	n't	not	RB	_	12	neg	_	O
+12	pay	pay	VB	_	0	root	_	O
+13	the	the	DT	_	15	det	_	O
+14	outrageous	outrageous	JJ	_	15	nmod	_	O
+15	markups	markup	NNS	_	12	dobj	_	O
+16	,	,	,	_	12	punct	_	O
+17	just	just	RB	_	18	advmod	_	O
+18	wait	wait	VB	_	12	conj	_	O
+19	,	,	,	_	18	punct	_	O
+20	be	be	VB	_	18	conj	_	O
+21	patient	patient	JJ	pos2=NN	20	acomp	_	O
+22	https://t.co/yfcDXcxiaz	#hlink#	ADD	pos2=.	18	discourse	_	U-GPE
+

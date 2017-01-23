@@ -1,0 +1,17 @@
+1	Poor	poor	JJ	pos2=NNP	3	nmod	_	O
+2	#Uber	#uber	NNP	pos2=PRP$	3	compound	_	U-NORP
+3	app	app	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Someone	someone	NN	_	2	nsubj	_	O
+2	went	go	VBD	_	0	root	_	O
+3	and	and	CC	_	2	cc	_	O
+4	sprinkled	sprinkle	VBD	pos2=VBN	2	conj	_	O
+5	over-design	over-design	JJ	pos2=NN	4	dobj	_	O
+6	on	on	IN	_	4	prep	_	O
+7	you	you	PRP	_	6	pobj	_	O
+8	did	do	VBD	_	4	advcl	_	O
+9	n't	not	RB	_	8	neg	_	O
+10	they	they	PRP	_	8	nsubj	_	O
+11	?	?	.	_	8	punct	_	O
+

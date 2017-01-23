@@ -1,0 +1,17 @@
+1	Custom	custom	NN	pos2=NNP	3	compound	_	O
+2	Stamped	stamped	NNP	pos2=VBN	3	compound	_	O
+3	Valentine	valentine	NNP	_	11	poss	_	O
+4	's	's	POS	_	3	case	_	O
+5	Day	day	NNP	_	11	compound	_	B-PERSON
+6	Key	key	NNP	pos2=NNPS	11	compound	_	I-PERSON
+7	Chain	chain	NNP	pos2=NN	11	compound	_	I-PERSON
+8	-	-	HYPH	pos2=:	11	punct	_	I-PERSON
+9	Anniversary	anniversary	NNP	pos2=NN	11	compound	_	I-PERSON
+10	Key	key	NNP	_	11	compound	_	I-PERSON
+11	Cha	cha	NNP	_	0	root	_	L-PERSON
+12	by	by	IN	_	11	prep	_	O
+13	JazzhandsSupply	jazzhandssupply	NNP	_	12	pobj	_	O
+14	https://t.co/X7DLB9UfYf	#hlink#	ADD	pos2=NNP	12	pobj	_	O
+15	via	via	IN	_	11	prep	_	O
+16	@Etsy	@etsy	NNP	pos2=.	15	pobj	_	O
+

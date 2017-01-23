@@ -1,0 +1,5 @@
+1	@AudionicUK	@audionicuk	ADD	pos2=NNP	2	det	_	O
+2	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=EX	3	nsubj	_	O
+3	was	be	VBD	_	0	root	_	O
+4	YESTERDAY	yesterday	NN	_	3	npadvmod	_	U-DATE
+

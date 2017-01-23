@@ -1,0 +1,26 @@
+1	Persona	persona	NN	pos2=NNP	3	vocative	_	O
+2	5	0	CD	pos2=LS	1	nmod	_	U-CARDINAL
+3	Take	take	VB	pos2=VBP	0	root	_	O
+4	your	your	PRP$	_	5	poss	_	O
+5	heart	heart	NN	_	3	dobj	_	O
+6	,	,	,	_	9	punct	_	O
+7	Premium	premium	NNP	pos2=NN	8	compound	_	B-ORG
+8	Edition	edition	NNP	pos2=NN	9	nsubj	_	L-ORG
+9	is	be	VBZ	_	0	root	_	O
+10	available	available	JJ	_	9	acomp	_	O
+11	for	for	IN	_	10	prep	_	O
+12	pre-order	pre-order	NN	_	11	pobj	_	O
+13	in	in	IN	_	12	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	place	place	NN	_	13	pobj	_	O
+16	where	where	WRB	_	19	advmod	_	O
+17	I	I	PRP	_	19	nsubj	_	O
+18	usually	usually	RB	_	19	advmod	_	O
+19	get	get	VBP	_	15	relcl	_	O
+20	my	my	PRP$	_	21	poss	_	O
+21	games	game	NNS	_	19	dobj	_	O
+22	o	o	SYM	pos2=GW	24	punct	_	O
+23	(	(	-LRB-	_	24	punct	_	O
+24	≧∇≦o	≧∇≦o	NN	pos2=NFP	21	prep	_	O
+25	)	)	-RRB-	_	24	punct	_	O
+

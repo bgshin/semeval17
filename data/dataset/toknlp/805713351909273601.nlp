@@ -1,0 +1,23 @@
+1	The	the	DT	_	3	det	_	O
+2	“	"	``	_	3	punct	_	O
+3	Concern	concern	NN	pos2=NNP	22	dep	_	O
+4	”	"	''	_	3	punct	_	O
+5	about	about	IN	_	3	prep	_	O
+6	Pope	pope	NNP	_	7	compound	_	O
+7	Francis	francis	NNP	_	5	pobj	_	U-PERSON
+8	by	by	IN	_	3	prep	_	O
+9	Fr.	fr.	NNP	_	12	compound	_	O
+10	James	james	NNP	_	12	compound	_	B-PERSON
+11	V.	v.	NNP	_	12	compound	_	I-PERSON
+12	Schall	schall	NNP	_	8	pobj	_	L-PERSON
+13	,	,	,	_	12	punct	_	O
+14	S.J.	s.j.	NNP	_	12	npadvmod	_	U-GPE
+15	,	,	,	_	12	punct	_	O
+16	of	of	IN	_	12	prep	_	O
+17	Crisis	crisis	NNP	_	18	compound	_	B-ORG
+18	Magazine	magazine	NNP	pos2=NN	16	pobj	_	I-ORG
+19	https://t.co/uMRi5Wv1nl	#hlink#	ADD	_	22	dep	_	I-ORG
+20	#God	#god	NNP	pos2=-RRB-	22	dep	_	L-ORG
+21	…	…	NFP	pos2=-LRB-	22	punct	_	O
+22	https://t.co/mUH6d0XLJI	#hlink#	ADD	_	0	root	_	U-ORG
+

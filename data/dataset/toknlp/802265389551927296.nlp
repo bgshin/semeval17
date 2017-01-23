@@ -1,0 +1,21 @@
+1	#Spurs	#spurs	NNS	pos2=NNP	2	compound	_	O
+2	#GoSpursGo	#gospursgo	NNP	pos2=IN	4	compound	_	O
+3	Tim	tim	NNP	_	4	compound	_	B-PERSON
+4	Duncan	duncan	NNP	_	0	root	_	L-PERSON
+5	1999	0	CD	pos2=POS	13	nmod	_	U-CARDINAL
+6	Finest	finest	NNP	pos2=JJS	8	compound	_	B-ORG
+7	Dunk	dunk	NNP	_	8	compound	_	I-ORG
+8	Masters	master	NNPS	pos2=NNP	10	compound	_	L-ORG
+9	REFRACTOR	refractor	NN	pos2=NNP	10	compound	_	O
+10	#DM14	#dm0	NN	pos2=VBN	11	compound	_	O
+11	PSA	psa	NN	_	13	nsubj	_	O
+12	9	0	CD	_	13	nmod	_	U-CARDINAL
+13	MINT	mint	NN	pos2=NNP	4	appos	_	U-WORK_OF_ART
+14	#d	#d	AFX	pos2=NN	13	nmod	_	O
+15	/	/	SYM	pos2=,	11	punct	_	O
+16	150	0	CD	_	17	nmod	_	U-CARDINAL
+17	Spurs	spur	NNS	pos2=NNPS	20	nmod	_	O
+18	https://t.co/JGBtViOFhG	#hlink#	ADD	pos2=VBP	20	nmod	_	O
+19	#TimDuncan	#timduncan	ADD	pos2=-RRB-	14	appos	_	B-PERCENT
+20	#NBA	#nba	NN	pos2=ADD	19	pobj	_	L-PERCENT
+

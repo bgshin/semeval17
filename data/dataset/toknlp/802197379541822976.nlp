@@ -1,0 +1,16 @@
+1	Check	check	VB	_	0	root	_	O
+2	out	out	RP	_	1	prt	_	O
+3	this	this	DT	_	4	det	_	O
+4	item	item	NN	_	1	dobj	_	O
+5	in	in	IN	_	1	prep	_	O
+6	my	my	PRP$	_	8	poss	_	O
+7	Etsy	etsy	NNP	_	8	compound	_	U-ORG
+8	shop	shop	NN	pos2=GW	5	pobj	_	O
+9	https://t.co/jo1FYh1K9v	#hlink#	ADD	_	8	appos	_	O
+10	#Cinderella	#cinderella	NNP	pos2=-RRB-	11	compound	_	U-GPE
+11	#OnceUponATime	#onceuponatime	NN	pos2=ADD	15	dep	_	O
+12	#BeautyAndTheBeast	#beautyandthebeast	ADD	pos2=XX	15	punct	_	O
+13	#TeenWolf	#teenwolf	NNP	pos2=ADD	14	compound	_	O
+14	#Hermione	#hermione	NNP	pos2=ADD	15	dep	_	O
+15	#HarryPotter	#harrypotter	ADD	pos2=NN	1	dep	_	O
+

@@ -1,0 +1,26 @@
+1	Pelosi	pelosi	NNP	_	3	poss	_	U-PERSON
+2	's	's	POS	_	1	case	_	O
+3	rec	rec	NN	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	Dem	dem	NNP	pos2=NN	6	compound	_	U-ORG
+6	appointments	appointment	NNS	_	4	pobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	Elections	election	NNS	pos2=NNPS	3	nsubj	_	O
+2	next	next	RB	pos2=JJ	3	advmod	_	O
+3	weds	wed	NNS	pos2=VBZ	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Will	will	MD	pos2=NNP	5	aux	_	O
+2	Bernie	bernie	NNP	_	5	nsubj	_	U-PERSON
+3	still	still	RB	_	5	advmod	_	O
+4	be	be	VB	_	5	aux	_	O
+5	ranking	rank	VBG	_	0	root	_	O
+6	member	member	NN	_	5	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Budget	budget	NNP	_	9	compound	_	B-ORG
+9	Comm.	comm.	NNP	pos2=NNPS	7	pobj	_	L-ORG
+10	?	?	.	_	5	punct	_	O
+
+1	https://t.co/x0tCxuHLIx	#hlink#	ADD	_	0	root	_	U-ORG
+

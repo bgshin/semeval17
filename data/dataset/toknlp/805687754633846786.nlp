@@ -1,0 +1,21 @@
+1	@SwissTriple_M	@swisstriple_m	UH	pos2=ADD	3	discourse	_	O
+2	@CBSPhilly	@cbsphilly	,	pos2=NN	3	punct	_	O
+3	thanks	thanks	NN	pos2=UH	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+
+1	not	not	RB	_	2	neg	_	O
+2	sure	sure	JJ	_	0	root	_	O
+3	how	how	WRB	_	4	advmod	_	O
+4	much	much	JJ	_	6	nmod	_	O
+5	voter	voter	NN	_	6	compound	_	O
+6	suppression	suppression	NN	_	8	nsubjpass	_	O
+7	is	be	VBZ	_	8	auxpass	_	O
+8	affected	affect	VBN	_	2	ccomp	_	O
+9	by	by	IN	_	8	agent	_	O
+10	state	state	NN	pos2=PRP$	11	compound	_	O
+11	governor	governor	NN	_	9	pobj	_	O
+12	vs	vs	CC	pos2=IN	11	cc	_	O
+13	state	state	NN	_	14	compound	_	O
+14	legis	legis	NN	pos2=FW	11	conj	_	O
+15	.	.	.	_	2	punct	_	O
+

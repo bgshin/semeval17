@@ -1,0 +1,20 @@
+1	@GeorgiaLogCabin	@georgialogcabin	ADD	pos2=IN	3	punct	_	O
+2	she	she	PRP	_	3	nsubj	_	O
+3	needs	need	VBZ	_	0	root	_	O
+4	to	to	TO	_	6	aux	_	O
+5	be	be	VB	_	6	auxpass	_	O
+6	convicted	convict	VBN	_	3	xcomp	_	O
+7	first	#ord#	RB	_	6	advmod	_	U-ORDINAL
+8	.	.	.	_	3	punct	_	O
+
+1	Will	will	MD	pos2=NNP	3	aux	_	O
+2	Obama	obama	NNP	_	3	nsubj	_	U-PERSON
+3	pardon	pardon	VB	pos2=NN	0	root	_	O
+4	Trump	trump	NNP	pos2=NN	3	dobj	_	U-PERSON
+5	for	for	IN	_	3	prep	_	O
+6	his	his	PRP$	_	9	poss	_	O
+7	Cuba	cuba	NNP	_	9	compound	_	U-GPE
+8	embargo	embargo	NN	pos2=NNP	9	compound	_	O
+9	fiasco	fiasco	NN	_	5	pobj	_	O
+10	?	?	.	_	3	punct	_	O
+

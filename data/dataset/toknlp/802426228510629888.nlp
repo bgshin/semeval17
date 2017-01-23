@@ -1,0 +1,23 @@
+1	@tommy_aether	@tommy_aether	UH	pos2=CC	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	'm	be	VBP	_	0	root	_	O
+4	liberal	liberal	JJ	_	3	acomp	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	These	these	DT	_	2	det	_	O
+2	fuckwits	fuckwits	NNS	_	3	nsubj	_	O
+3	make	make	VBP	pos2=VB	0	root	_	O
+4	liberals	liberal	NNS	_	5	nsubj	_	O
+5	look	look	VB	pos2=VBP	3	ccomp	_	O
+6	like	like	IN	_	5	prep	_	O
+7	conservatives	conservative	NNS	_	6	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	Their	their	PRP$	_	2	poss	_	O
+2	stupidity	stupidity	NN	_	3	nsubj	_	O
+3	makes	make	VBZ	_	0	root	_	O
+4	me	me	PRP	_	6	nsubj	_	O
+5	so	so	RB	_	6	advmod	_	O
+6	angry	angry	JJ	_	3	ccomp	_	O
+7	.	.	.	_	3	punct	_	O
+

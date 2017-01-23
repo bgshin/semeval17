@@ -1,0 +1,28 @@
+1	Some	some	DT	_	4	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	you	you	PRP	_	2	pobj	_	O
+4	view	view	VBP	pos2=VB	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	#Obama	#obama	NNP	pos2=NN	7	compound	_	O
+7	legacy	legacy	NN	_	4	dobj	_	O
+8	through	through	IN	_	4	prep	_	O
+9	rose	rose	NN	pos2=JJ	11	npadvmod	_	O
+10	-	-	HYPH	_	11	punct	_	O
+11	colored	colored	JJ	pos2=VBN	12	nmod	_	O
+12	glasses	glass	NNS	_	8	pobj	_	O
+13	.	.	.	_	4	punct	_	O
+
+1	You	you	PRP	_	3	nsubj	_	O
+2	're	be	VBP	_	3	aux	_	O
+3	ignoring	ignore	VBG	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	drone	drone	NN	_	6	compound	_	O
+6	strikes	strike	NNS	pos2=VBZ	3	dobj	_	O
+7	,	,	,	_	6	punct	_	O
+8	corporate	corporate	JJ	_	9	nmod	_	O
+9	elitism	elitism	NN	_	6	conj	_	O
+10	and	and	CC	_	9	cc	_	O
+11	war	war	NN	_	12	compound	_	O
+12	profiteering	profiteering	NN	_	9	conj	_	O
+13	.	.	.	_	3	punct	_	O
+

@@ -1,0 +1,17 @@
+1	Robots	robot	NNS	_	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+
+1	#mannequinchallenge	#mannequinchallenge	UH	pos2=VB	6	compound	_	O
+2	#uxteam	#uxteam	NN	pos2=UH	6	compound	_	O
+3	@	@	SYM	pos2=IN	0	root	_	O
+4	Your	your	PRP$	pos2=NNP	6	poss	_	B-ORG
+5	Online	online	NNP	_	6	compound	_	I-ORG
+6	Department	department	NNP	pos2=NN	3	pobj	_	L-ORG
+7	.	.	.	_	3	punct	_	O
+
+1	For	for	IN	_	5	prep	_	O
+2	strategy	strategy	NN	_	1	pobj	_	O
+3	&	&	CC	_	2	cc	_	O
+4	UX	ux	NNP	pos2=NN	2	conj	_	O
+5	https://t.co/atwmmWupOV	#hlink#	ADD	pos2=NN	0	root	_	O
+

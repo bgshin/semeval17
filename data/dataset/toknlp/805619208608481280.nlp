@@ -1,0 +1,15 @@
+1	Alright	alright	UH	_	5	discourse	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	wo	wo	MD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	put	put	VB	_	0	root	_	O
+6	on	on	IN	pos2=RP	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	pressure	pressure	NN	_	6	pobj	_	O
+9	we	we	PRP	_	11	nsubj	_	O
+10	'll	will	MD	_	11	aux	_	O
+11	start	start	VB	_	5	conj	_	O
+12	with	with	IN	_	11	prep	_	O
+13	Ashley	ashley	NNP	_	14	compound	_	B-PERSON
+14	Graham	graham	NNP	_	12	pobj	_	L-PERSON
+

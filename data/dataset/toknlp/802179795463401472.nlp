@@ -1,0 +1,31 @@
+1	Lol	lol	UH	pos2=NNP	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	think	think	VBP	_	0	root	_	O
+4	Matty	matty	NNP	_	6	nsubj	_	U-PERSON
+5	would	would	MD	_	6	aux	_	O
+6	lose	lose	VB	_	3	ccomp	_	O
+7	by	by	IN	pos2=RP	6	prep	_	O
+8	"	"	``	_	10	punct	_	O
+9	popular	popular	JJ	_	10	nmod	_	O
+10	vote	vote	NN	_	7	pobj	_	O
+11	"	"	''	_	10	punct	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	Outside	outside	IN	pos2=JJ	13	prep	_	O
+2	his	his	PRP$	_	4	poss	_	O
+3	rural	rural	JJ	_	4	nmod	_	O
+4	base	base	NN	_	1	pobj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	tipp	tipp	NN	pos2=NNP	5	pobj	_	O
+7	where	where	WRB	_	13	advmod	_	O
+8	the	the	DT	_	9	det	_	O
+9	likes	like	NNS	_	13	nsubj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Lowry	lowry	NNP	_	10	pobj	_	U-PERSON
+12	"	"	``	pos2=''	13	punct	_	O
+13	build	build	VB	pos2=VBP	0	root	_	O
+14	my	my	PRP$	pos2=UH	13	discourse	_	O
+15	...	..	.	pos2=,	13	punct	_	O
+
+1	https://t.co/7qTCno23ic	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,20 @@
+1	Relief	relief	NN	pos2=NNP	3	compound	_	O
+2	Security	security	NNP	pos2=NN	3	compound	_	O
+3	Supervisor	supervisor	NNP	pos2=NN	6	dep	_	O
+4	:	:	:	_	6	punct	_	O
+5	Gateway	gateway	NNP	pos2=NN	6	compound	_	B-ORG
+6	Casinos	casinos	NNP	pos2=NNPS	0	root	_	I-ORG
+7	and	and	CC	_	6	cc	_	I-ORG
+8	Entertainment	entertainment	NNP	pos2=NN	6	conj	_	L-ORG
+9	(	(	-LRB-	_	10	punct	_	O
+10	Langley	langley	NNP	_	8	appos	_	U-ORG
+11	)	)	-RRB-	_	8	punct	_	O
+12	:	:	:	_	6	punct	_	O
+13	"	"	``	_	6	punct	_	O
+14	Social	social	JJ	pos2=NNP	15	nmod	_	O
+15	…	…	NFP	pos2=''	6	discourse	_	O
+16	https://t.co/ZQS1gVPCwX	#hlink#	ADD	_	6	appos	_	O
+17	#socialmedia	#socialmedia	-RRB-	pos2=IN	6	punct	_	O
+18	#jobs	#jobs	UH	pos2=NNS	6	discourse	_	O
+19	#canada	#canada	UH	pos2=.	6	discourse	_	O
+

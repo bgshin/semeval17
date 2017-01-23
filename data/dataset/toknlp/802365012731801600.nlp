@@ -1,0 +1,20 @@
+1	Glad	glad	JJ	pos2=UH	2	nmod	_	O
+2	@DeliaTS	@deliats	NNS	pos2=NNPS	5	nsubj	_	O
+3	&	&	CC	_	2	cc	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	were	be	VBD	_	0	root	_	O
+6	in	in	IN	_	5	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	right	right	JJ	_	9	nmod	_	O
+9	place	place	NN	_	6	pobj	_	O
+10	&	&	CC	_	9	cc	_	O
+11	time	time	NN	_	9	conj	_	O
+12	today	today	NN	_	5	npadvmod	_	U-DATE
+13	to	to	TO	_	14	aux	_	O
+14	witness	witness	VB	_	5	advcl	_	O
+15	this	this	DT	_	17	det	_	O
+16	beautiful	beautiful	JJ	_	17	nmod	_	O
+17	protest	protest	NN	_	14	dobj	_	O
+18	:	:	:	_	17	punct	_	O
+19	https://t.co/xattuYjNH1	#hlink#	ADD	pos2=NN	17	appos	_	O
+

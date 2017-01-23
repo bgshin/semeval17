@@ -1,0 +1,22 @@
+1	@UPIWhitch	@upiwhitch	NN	pos2=NNP	5	nsubj	_	O
+2	,	,	,	_	5	punct	_	O
+3	btw	btw	RB	pos2=UH	5	advmod	_	O
+4	,	,	,	_	5	punct	_	O
+5	matches	match	VBZ	_	0	root	_	O
+6	the	the	DT	_	10	det	_	O
+7	60	0	CD	_	8	nmod	_	B-PERCENT
+8	%	%	NN	_	10	compound	_	L-PERCENT
+9	Insurance	insurance	NNP	pos2=NN	10	compound	_	O
+10	Mafia	mafia	NNP	_	5	dobj	_	U-ORG
+11	skims	skim	VBZ	_	5	conj	_	O
+12	off	off	IN	pos2=RP	11	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	top	top	NN	_	12	pobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	our	our	PRP$	_	18	poss	_	O
+17	health	health	NN	_	18	compound	_	O
+18	care	care	NN	_	15	pobj	_	O
+19	$$	$$	-LRB-	pos2=GW	20	punct	_	O
+20	https://t.co/EAxzhW514w#WhoProfits	#hlink#	ADD	pos2=NN	18	appos	_	O
+21	#ThankYouObama	#thankyouobama	-RRB-	pos2=ADD	20	punct	_	O
+

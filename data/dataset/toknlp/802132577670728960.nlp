@@ -1,0 +1,10 @@
+1	#OneDirection	#onedirection	NN	pos2=NNP	4	poss	_	O
+2	’s	's	POS	_	1	case	_	O
+3	Carpool	carpool	NNP	pos2=NN	4	compound	_	B-WORK_OF_ART
+4	Karaoke	karaoke	NNP	pos2=NN	9	dep	_	I-WORK_OF_ART
+5	:	:	:	_	4	punct	_	I-WORK_OF_ART
+6	The	the	DT	pos2=NNP	8	det	_	I-WORK_OF_ART
+7	Best	good	JJS	pos2=NNP	8	nmod	_	I-WORK_OF_ART
+8	Bits	bit	NNS	pos2=GW	4	appos	_	L-WORK_OF_ART
+9	https://t.co/rIERXCT26b	#hlink#	ADD	_	0	root	_	O
+

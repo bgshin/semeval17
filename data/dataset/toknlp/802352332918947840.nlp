@@ -1,0 +1,24 @@
+1	@realDonaldTrump	@realdonaldtrump	XX	pos2=TO	2	dep	_	O
+2	keep	keep	VB	pos2=VBP	0	root	_	O
+3	Bannon	bannon	NNP	_	2	dobj	_	U-PERSON
+4	and	and	CC	_	2	cc	_	O
+5	see	see	VB	_	2	conj	_	O
+6	the	the	DT	_	8	det	_	O
+7	biggest	big	JJS	_	8	nmod	_	O
+8	protest	protest	NN	_	5	dobj	_	O
+9	in	in	IN	_	8	prep	_	O
+10	American	american	JJ	_	11	nmod	_	U-NORP
+11	history	history	NN	_	9	pobj	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	Trump	trump	NN	pos2=NNP	2	compound	_	B-ORG
+2	Brand	brand	NNP	pos2=NN	4	nsubjpass	_	L-ORG
+3	is	be	VBZ	_	4	auxpass	_	O
+4	done	do	VBN	pos2=JJ	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	#Trump2016	#trump0	NN	pos2=NNS	0	root	_	O
+2	#blackfriday	#blackfriday	UH	pos2=FW	4	compound	_	O
+3	#Trump	#trump	NNP	pos2=XX	2	vocative	_	U-PERSON
+4	#gop	#gop	UH	pos2=ADD	1	discourse	_	O
+

@@ -1,0 +1,28 @@
+1	@elonmusk	@elonmusk	IN	pos2=VB	20	prep	_	O
+2	Tesla	tesla	NNP	_	3	compound	_	B-ORG
+3	Network	network	NNP	_	4	compound	_	L-ORG
+4	enrollee	enrollee	NN	pos2=NNP	6	poss	_	O
+5	's	's	POS	pos2=VBZ	4	case	_	O
+6	eligible	eligible	JJ	_	1	pobj	_	O
+7	for	for	IN	pos2=CC	6	prep	_	O
+8	relatively	relatively	RB	_	9	advmod	_	O
+9	low	low	JJ	_	11	nmod	_	O
+10	cost	cost	NN	_	11	compound	_	O
+11	insurance	insurance	NN	_	7	pobj	_	O
+12	,	,	,	_	20	punct	_	O
+13	since	since	IN	_	20	prep	_	O
+14	'	'	``	pos2=XX	17	punct	_	O
+15	self	self	NN	_	17	npadvmod	_	O
+16	-	-	HYPH	_	17	punct	_	O
+17	driving	drive	VBG	pos2=NN	13	pcomp	_	O
+18	'	'	''	pos2=POS	19	punct	_	O
+19	cars	car	NNS	_	17	dobj	_	O
+20	are	be	VBP	_	0	root	_	O
+21	safer	safe	JJR	_	20	acomp	_	O
+22	?	?	.	_	20	punct	_	O
+
+1	Tesla	tesla	NNP	pos2=NN	3	nsubj	_	U-ORG
+2	to	to	TO	_	3	aux	_	O
+3	self-insure	self-insure	VB	_	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+

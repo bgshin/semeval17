@@ -1,0 +1,14 @@
+1	Arizona	arizona	NNP	_	2	compound	_	U-GPE
+2	brothers	brother	NNS	_	3	nsubj	_	O
+3	make	make	VBP	pos2=VB	0	root	_	O
+4	big	big	JJ	_	5	nmod	_	O
+5	bucks	buck	NNS	_	3	dobj	_	O
+6	from	from	IN	_	3	prep	_	O
+7	selling	sell	VBG	pos2=NN	6	pcomp	_	O
+8	sold	sell	VBN	pos2=VBD	5	acl	_	O
+9	out	out	RP	pos2=IN	8	prt	_	O
+10	#Hatchimals	#hatchimals	NNS	pos2=POS	11	compound	_	O
+11	stockpile	stockpile	NN	pos2=VB	13	dep	_	O
+12	online	online	RB	pos2=JJ	13	nmod	_	O
+13	https://t.co/LFcxGTogzT	#hlink#	ADD	pos2=NN	7	dobj	_	O
+

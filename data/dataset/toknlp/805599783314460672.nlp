@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det	_	O
+2	Gold	gold	NNP	pos2=NN	3	compound	_	O
+3	Standard⚜️	standard⚜️	NNP	pos2=NNPS	14	dep	_	O
+4	Just	just	RB	_	5	advmod	_	O
+5	In	in	IN	pos2=NNP	3	prep	_	O
+6	Time	time	NN	pos2=NNP	5	pobj	_	O
+7	for	for	IN	_	3	prep	_	O
+8	Christmas	christmas	NNP	_	9	compound	_	O
+9	🎄	🎄	NNP	pos2=WDT	10	compound	_	O
+10	@Skinsations700	@skinsations0	NN	pos2=POS	7	pobj	_	O
+11	#skinceuticals	#skinceuticals	UH	pos2=NNS	14	dep	_	O
+12	#antioxidants	#antioxidants	UH	pos2=GW	11	discourse	_	O
+13	…	…	NFP	pos2=-LRB-	14	punct	_	O
+14	https://t.co/0bDEQ8K6xD	#hlink#	ADD	_	0	root	_	O
+

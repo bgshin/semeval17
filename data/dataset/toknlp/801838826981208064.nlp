@@ -1,0 +1,9 @@
+1	Israeli	israeli	JJ	_	3	nmod	_	B-ORG
+2	Navy	navy	NNP	_	3	compound	_	L-ORG
+3	counters	counter	NNS	pos2=NN	4	nsubj	_	O
+4	increased	increase	VBD	pos2=VBN	0	root	_	O
+5	#Hamas	#hamas	IN	pos2=PRP$	4	prep	_	O
+6	sea	sea	NN	_	7	compound	_	O
+7	smuggling	smuggling	NN	pos2=VBG	5	pobj	_	O
+8	https://t.co/WAlYv3bC3g	#hlink#	ADD	pos2=NN	4	dep	_	O
+

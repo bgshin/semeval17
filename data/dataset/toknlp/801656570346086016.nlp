@@ -1,0 +1,22 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	will	will	MD	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Just	just	RB	_	6	advmod	_	O
+2	like	like	IN	pos2=UH	6	mark	_	O
+3	Seventh	#ord#	NNP	_	4	compound	_	B-LOC
+4	Woods	woods	NNP	_	6	nsubj	_	L-LOC
+5	is	be	VBZ	_	6	aux	_	O
+6	gon	gon	VBG	_	12	advcl	_	O
+7	na	to	TO	_	8	aux	_	O
+8	block	block	VB	_	6	xcomp	_	O
+9	a	a	DT	_	11	det	_	O
+10	Grayson	grayson	NNP	_	11	compound	_	B-PERSON
+11	Allen	allen	NNP	_	12	nsubj	_	L-PERSON
+12	shot	shoot	VBD	_	0	root	_	O
+13	this	this	DT	_	14	det	_	O
+14	season	season	NN	_	12	dobj	_	O
+15	.	.	.	_	12	punct	_	O
+
+1	https://t.co/cmiqrUBOJP	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,28 @@
+1	Review	review	VB	pos2=NN	0	root	_	O
+2	some	some	DT	_	1	dobj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	ur	ur	PRP$	pos2=JJ	5	poss	_	O
+5	colleagues	colleague	NNS	pos2=VBZ	3	pobj	_	O
+6	dialog	dialog	NN	pos2=VBP	1	dobj	_	O
+7	in	in	IN	_	1	prep	_	O
+8	their	their	PRP$	_	10	poss	_	O
+9	twitter	twitter	NN	pos2=JJ	10	compound	_	O
+10	threads	thread	NNS	_	7	pobj	_	O
+11	.	.	.	_	1	punct	_	O
+
+1	There	there	EX	_	2	expl	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	some	some	DT	_	5	det	_	O
+4	bad	bad	JJ	_	5	nmod	_	O
+5	hombres	hombre	NNS	_	2	attr	_	O
+6	giving	give	VBG	_	5	acl	_	O
+7	#tnm	#tnm	PRP	pos2=:	6	dative	_	O
+8	a	a	DT	_	10	det	_	O
+9	bad	bad	JJ	_	10	nmod	_	O
+10	name	name	NN	_	6	dobj	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	Easi	easi	NNP	pos2=GW	3	nmod	_	B-PERSON
+2	…	…	NFP	pos2=-LRB-	3	punct	_	L-PERSON
+3	https://t.co/Z65LYjhFX6	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,16 @@
+1	@DrJillStein	@drjillstein	VB	pos2=ADD	0	root	_	O
+2	the	the	DT	_	4	det	_	O
+3	first	#ord#	JJ	_	4	nmod	_	U-ORDINAL
+4	step	step	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	1	ccomp	_	O
+6	nationwide	nationwide	JJ	pos2=RB	9	nmod	_	O
+7	voter	voter	NN	_	8	compound	_	O
+8	ID	id	NN	_	9	compound	_	O
+9	card	card	NN	_	5	attr	_	O
+10	.	.	.	_	1	punct	_	O
+
+1	Voter	voter	NN	_	2	compound	_	O
+2	registration	registration	NN	_	3	compound	_	O
+3	audit	audit	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+

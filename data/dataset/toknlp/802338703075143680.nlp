@@ -1,0 +1,23 @@
+1	FINAL	final	JJ	pos2=NN	0	root	_	O
+2	-	-	HYPH	pos2=:	1	punct	_	O
+3	Fairmont	fairmont	NNP	_	5	nmod	_	O
+4	38	0	CD	_	5	nmod	_	U-CARDINAL
+5	Tippecanoe	tippecanoe	NNP	pos2=NN	0	root	_	U-GPE
+6	28	0	CD	_	5	npadvmod	_	U-CARDINAL
+7	.	.	.	_	1	punct	_	O
+
+1	Allison	allison	NNP	_	2	compound	_	B-PERSON
+2	Mader	mader	NNP	_	0	root	_	L-PERSON
+3	18	0	CD	_	2	nmod	_	U-CARDINAL
+4	for	for	IN	_	2	prep	_	O
+5	Tipp	tipp	NNP	_	4	pobj	_	U-ORG
+6	,	,	,	_	2	punct	_	O
+7	Madeine	madeine	NNP	_	8	compound	_	O
+8	Westbeld	westbeld	NNP	pos2=VBD	2	appos	_	O
+9	16	0	CD	_	8	nmod	_	U-CARDINAL
+10	for	for	IN	_	8	prep	_	O
+11	Fairmont	fairmont	NNP	_	10	pobj	_	U-ORG
+12	.	.	.	_	2	punct	_	O
+
+1	#DaytonGirlsHoops	#daytongirlshoops	NNS	pos2=VBZ	0	root	_	O
+

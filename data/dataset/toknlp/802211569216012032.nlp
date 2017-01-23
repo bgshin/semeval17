@@ -1,0 +1,22 @@
+1	What	what	WP	_	2	dep	_	O
+2	about	about	IN	_	0	root	_	O
+3	WORST	bad	JJS	pos2=NNP	4	nmod	_	O
+4	OFFENDERS	offender	NNS	_	2	pobj	_	O
+5	,	,	,	_	2	punct	_	O
+6	the	the	DT	_	7	det	_	O
+7	violence	violence	NN	_	2	pobj	_	O
+8	against	against	IN	_	7	prep	_	O
+9	women	woman	NNS	_	8	pobj	_	O
+10	in	in	IN	_	9	prep	_	O
+11	Muslim	muslim	NNP	pos2=JJ	13	compound	_	B-NORP
+12	Islam	islam	NNP	_	13	compound	_	L-NORP
+13	Countries	country	NNPS	pos2=NNP	10	pobj	_	O
+14	?	?	.	_	2	punct	_	O
+
+1	#orangetheworld	#orangetheworld	UH	pos2=MD	4	discourse	_	O
+2	#Women	#women	UH	pos2=NNP	4	discourse	_	O
+3	#UniteBlue	#uniteblue	UH	pos2=ADD	4	discourse	_	O
+4	#Democrats	#democrats	NNS	pos2=VBZ	0	root	_	O
+5	#college	#college	UH	pos2=VBP	4	discourse	_	O
+6	#NFL	#nfl	UH	pos2=NN	4	discourse	_	O
+

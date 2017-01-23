@@ -1,0 +1,25 @@
+1	the	the	DT	_	3	det	_	B-ORG
+2	Electoral	electoral	NNP	pos2=JJ	3	compound	_	I-ORG
+3	College	college	NNP	_	5	nsubjpass	_	L-ORG
+4	was	be	VBD	_	5	auxpass	_	O
+5	decided	decide	VBN	_	21	ccomp	_	O
+6	by	by	IN	_	5	agent	_	O
+7	0.06	0	CD	_	8	nmod	_	B-PERCENT
+8	%	%	NN	_	6	pobj	_	L-PERCENT
+9	,	,	,	_	5	punct	_	O
+10	far	far	RB	pos2=CC	11	advmod	_	O
+11	less	less	JJR	_	8	nmod	_	O
+12	than	than	IN	_	11	prep	_	O
+13	roundoff	roundoff	NN	pos2=JJ	14	compound	_	O
+14	error	error	NN	_	12	pobj	_	O
+15	,	,	,	_	21	punct	_	O
+16	so	so	RB	pos2=CC	21	advmod	_	O
+17	no	no	DT	_	19	det	_	O
+18	one	#crd#	NN	pos2=CD	19	compound	_	O
+19	cause	cause	NN	pos2=VB	21	nsubj	_	O
+20	could	could	MD	_	21	aux	_	O
+21	be	be	VB	_	0	root	_	O
+22	statistically	statistically	RB	_	23	advmod	_	O
+23	significant	significant	JJ	_	21	acomp	_	O
+24	@BBCWorld	@bbcworld	NN	pos2=XX	21	attr	_	O
+

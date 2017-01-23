@@ -1,0 +1,25 @@
+1	@NoTrueScotist	@notruescotist	ADD	pos2=NN	5	discourse	_	O
+2	@peregrinator1	@peregrinator0	NN	pos2=LS	7	dobj	_	O
+3	@InRetentis	@inretentis	ADD	pos2=NN	5	punct	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	tend	tend	VBP	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	agree	agree	VB	_	5	xcomp	_	O
+8	.	.	.	_	5	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	was	be	VBD	_	3	aux	_	O
+3	basing	base	VBG	_	0	root	_	O
+4	my	my	PRP$	_	5	poss	_	O
+5	observations	observation	NNS	_	3	dobj	_	O
+6	on	on	IN	_	3	prep	_	O
+7	lectures	lecture	NNS	_	6	pobj	_	O
+8	given	give	VBN	_	7	acl	_	O
+9	by	by	IN	_	8	agent	_	O
+10	different	different	JJ	_	14	nmod	_	O
+11	"	"	``	pos2=''	14	punct	_	O
+12	alt	alt	JJ	pos2=NN	14	nmod	_	O
+13	-	-	HYPH	_	14	punct	_	O
+14	rightists	rightist	NNS	_	9	pobj	_	O
+15	"	"	''	pos2=.	14	punct	_	O
+

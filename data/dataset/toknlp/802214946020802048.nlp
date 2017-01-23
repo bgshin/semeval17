@@ -1,0 +1,12 @@
+1	Favourite	favourite	JJ	pos2=NN	2	nmod	_	O
+2	album	album	NN	_	3	compound	_	O
+3	guys	guy	NNS	_	0	root	_	O
+4	...	..	.	pos2=,	3	punct	_	O
+
+1	#3yearsofmidnightmemories	0yearsofmidnightmemories	NNS	pos2=VBZ	6	nmod	_	O
+2	#onedirection	#onedirection	NN	pos2=UH	6	nmod	_	O
+3	#MtvStarsNiallHoran	#mtvstarsniallhoran	GW	pos2=NNP	6	nmod	_	B-DATE
+4	#harrystyles	#harrystyles	GW	pos2=UH	6	nmod	_	I-DATE
+5	#LouisTomlinson	#louistomlinson	GW	pos2=ADD	6	nmod	_	L-DATE
+6	https://t.co/D56kH8OczO	#hlink#	ADD	pos2=NN	0	root	_	O
+

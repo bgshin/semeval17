@@ -1,0 +1,10 @@
+1	#vanessa	#vanessa	UH	pos2=XX	2	discourse	_	O
+2	hudgens	hudgens	VBZ	pos2=FW	0	root	_	O
+3	zac	zac	NNP	pos2=FW	4	compound	_	O
+4	efron	efron	NNP	pos2=NN	8	compound	_	O
+5	sex	sex	NN	pos2=VB	6	compound	_	O
+6	famosas	famosas	NNS	pos2=XX	8	compound	_	O
+7	videos	video	NNS	pos2=GW	8	compound	_	O
+8	pornos	porno	NNS	pos2=-LRB-	2	dobj	_	O
+9	https://t.co/kSyoNIghfw	#hlink#	ADD	_	2	dep	_	O
+

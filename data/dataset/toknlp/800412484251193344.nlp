@@ -1,0 +1,24 @@
+1	@fareedzakaria	@fareedzakaria	UH	pos2=IN	6	discourse	_	O
+2	such	such	JJ	_	6	nmod	_	O
+3	goofy	goofy	JJ	_	6	nmod	_	O
+4	fear	fear	NN	_	6	compound	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	mongering	mongering	NN	_	0	root	_	O
+7	.	.	.	_	6	punct	_	O
+
+1	Notice	notice	NN	pos2=VB	5	dep	_	O
+2	you	you	PRP	_	5	nsubj	_	O
+3	did	do	VBD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	have	have	VB	_	0	root	_	O
+6	Poroshenko	poroshenko	NNP	_	5	dobj	_	U-PERSON
+7	or	or	CC	_	6	cc	_	O
+8	Saakashvili	saakashvili	NNP	_	6	conj	_	U-PERSON
+9	on	on	IN	pos2=RB	5	prep	_	O
+10	today	today	NN	_	9	pobj	_	U-DATE
+11	,	,	,	_	5	punct	_	O
+12	given	give	VBN	pos2=IN	5	prep	_	O
+13	the	the	DT	_	15	det	_	B-DATE
+14	past	past	JJ	pos2=NN	15	nmod	_	I-DATE
+15	week	week	NN	_	12	pobj	_	L-DATE
+

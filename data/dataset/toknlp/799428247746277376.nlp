@@ -1,0 +1,11 @@
+1	#FinallyAtPeaceWith	#finallyatpeacewith	XX	pos2=NN	3	dep	_	O
+2	people	people	NNS	_	3	nsubj	_	O
+3	calling	call	VBG	_	0	root	_	O
+4	me	me	PRP	_	3	dobj	_	O
+5	'	'	``	pos2=POS	3	punct	_	O
+6	Kim	kim	NNP	_	7	compound	_	B-PERSON
+7	Fatty	fatty	NNP	_	3	dobj	_	L-PERSON
+8	the	the	DT	_	9	det	_	O
+9	Third	#ord#	NNP	pos2=JJ	7	appos	_	U-ORDINAL
+10	'	'	''	pos2=POS	3	punct	_	O
+

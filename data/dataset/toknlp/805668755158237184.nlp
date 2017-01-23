@@ -1,0 +1,17 @@
+1	deadass	deadass	NN	pos2=RBR	3	nsubj	_	O
+2	so	so	RB	_	3	advmod	_	O
+3	done	do	VBN	pos2=JJ	0	root	_	O
+4	warning	warn	VBG	_	3	advcl	_	O
+5	the	the	DT	_	6	det	_	O
+6	british	british	JJ	pos2=NN	4	dobj	_	U-NORP
+7	about	about	IN	pos2=RB	6	prep	_	O
+8	brexit	brexit	NN	pos2=VBG	9	compound	_	O
+9	im	im	NN	pos2=UH	7	pobj	_	O
+10	just	just	RB	_	11	advmod	_	O
+11	going	go	VBG	_	4	dep	_	O
+12	to	to	TO	_	13	aux	_	O
+13	sit	sit	VB	_	11	xcomp	_	O
+14	back	back	RB	pos2=RP	13	advmod	_	O
+15	and	and	CC	_	13	cc	_	O
+16	watch	watch	VB	pos2=NN	13	conj	_	O
+

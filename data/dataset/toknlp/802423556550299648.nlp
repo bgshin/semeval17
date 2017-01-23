@@ -1,0 +1,30 @@
+1	@BreitbartNews	@breitbartnews	NNP	pos2=VBZ	3	compound	_	B-ORG
+2	Clinton	clinton	NNP	_	3	compound	_	I-ORG
+3	Foundation	foundation	NNP	_	6	nsubjpass	_	L-ORG
+4	MUST	must	MD	_	6	aux	_	O
+5	be	be	VB	_	6	auxpass	_	O
+6	investigated	investigate	VBN	_	0	root	_	O
+7	&	&	CC	_	6	cc	_	O
+8	SHUT	shut	VBN	pos2=VB	6	conj	_	O
+9	DOWN	down	RP	pos2=RB	8	prt	_	O
+10	.	.	.	_	6	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	corrupt	corrupt	JJ	_	2	acomp	_	O
+4	to	to	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	core	core	NN	_	4	pobj	_	O
+7	!	!	.	_	2	punct	_	O
+
+1	Its	its	PRP$	_	2	poss	_	O
+2	use	use	NN	_	8	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	term	term	NN	_	3	pobj	_	O
+5	"	"	``	_	6	punct	_	O
+6	charity	charity	NN	_	4	appos	_	O
+7	"	"	''	_	6	punct	_	O
+8	is	be	VBZ	_	0	root	_	O
+9	travesty	travesty	NN	pos2=JJ	8	attr	_	O
+10	!	!	.	_	8	punct	_	O
+

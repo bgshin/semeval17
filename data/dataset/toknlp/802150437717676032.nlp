@@ -1,0 +1,11 @@
+1	Front	front	JJ	pos2=NN	10	nmod	_	O
+2	to	to	TO	pos2=IN	3	aux	_	O
+3	back	back	VB	pos2=RB	1	xcomp	_	O
+4	😉😏😍😘	😉😏😍😘	:	pos2=NFP	10	punct	_	O
+5	#frontendfriday	#frontendfriday	UH	pos2=NN	8	discourse	_	O
+6	#tigif	#tigif	UH	pos2=IN	8	discourse	_	O
+7	#gotass	#gotass	UH	pos2=GW	8	discourse	_	O
+8	#beautyandthebeast	#beautyandthebeast	UH	pos2=GW	10	discourse	_	O
+9	…	…	NFP	pos2=-LRB-	10	punct	_	O
+10	https://t.co/UmxBl3IWLO	#hlink#	ADD	_	0	root	_	O
+

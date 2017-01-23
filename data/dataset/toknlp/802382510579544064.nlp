@@ -1,0 +1,24 @@
+1	No	no	UH	pos2=DT	4	discourse	_	O
+2	you	you	PRP	_	4	nsubj	_	O
+3	are	be	VBP	_	4	aux	_	O
+4	working	work	VBG	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	George	george	NNP	_	7	compound	_	B-PERSON
+7	Soros	soros	NNP	_	5	pobj	_	L-PERSON
+8	by	by	IN	_	4	prep	_	O
+9	trying	try	VBG	_	8	pcomp	_	O
+10	to	to	TO	_	11	aux	_	O
+11	overturn	overturn	VB	_	9	xcomp	_	O
+12	the	the	DT	_	13	det	_	O
+13	results	result	NNS	_	11	dobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	the	the	DT	_	16	det	_	O
+16	election	election	NN	_	14	pobj	_	O
+17	with	with	IN	_	11	prep	_	O
+18	your	your	PRP$	_	20	poss	_	O
+19	wacko	wacko	JJ	pos2=NN	20	nmod	_	O
+20	conspiracy	conspiracy	NN	_	17	pobj	_	O
+21	th	th	GW	pos2=NN	20	appos	_	O
+22	…	…	NFP	pos2=GW	23	punct	_	O
+23	https://t.co/OwNzWqF3L5	#hlink#	ADD	pos2=NN	20	appos	_	O
+

@@ -1,0 +1,14 @@
+1	Only	only	RB	pos2=JJ	2	advmod	_	O
+2	sanctions	sanction	NNS	_	4	nsubj	_	O
+3	can	can	MD	_	4	aux	_	O
+4	change	change	VB	_	0	root	_	O
+5	Israeli	israeli	JJ	_	6	nmod	_	U-NORP
+6	policy	policy	NN	_	4	dobj	_	O
+7	|	|	NFP	pos2=SYM	13	punct	_	O
+8	Letters	letter	NNS	pos2=GW	13	nmod	_	O
+9	https://t.co/WIANBWLR80	#hlink#	ADD	pos2=VBP	13	nmod	_	O
+10	#gaza	#gaza	-RRB-	pos2=IN	9	punct	_	O
+11	#palestine	#palestine	UH	pos2=PRP	9	discourse	_	O
+12	#israel	#israel	UH	pos2=VB	13	discourse	_	O
+13	#BDS	#bds	NNS	pos2=UH	4	advcl	_	O
+

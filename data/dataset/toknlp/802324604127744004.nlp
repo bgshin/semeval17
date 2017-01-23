@@ -1,0 +1,13 @@
+1	@WalkerAntoine8	@walkerantoine0	NN	pos2=TO	3	nsubj	_	O
+2	"	"	``	_	3	punct	_	O
+3	Ask	ask	VB	pos2=VBP	0	root	_	O
+4	TIm	tim	NNP	_	5	compound	_	B-PERSON
+5	Duncan	duncan	NNP	_	3	dobj	_	L-PERSON
+6	about	about	IN	_	5	prep	_	O
+7	us	us	PRP	_	6	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+9	"	"	''	_	3	punct	_	O
+
+1	#DropsMic	#dropsmic	JJ	pos2=ADD	2	nmod	_	O
+2	#BBN	#bbn	NN	pos2=ADD	0	root	_	O
+

@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det	_	O
+2	carnage	carnage	NN	_	8	nsubjpass	_	O
+3	in	in	IN	_	2	prep	_	O
+4	#yemen	#yemen	NNP	pos2=NN	3	pobj	_	U-GPE
+5	is	be	VBZ	_	8	aux	_	O
+6	hardly	hardly	RB	_	8	advmod	_	O
+7	being	be	VBG	_	8	auxpass	_	O
+8	covered	cover	VBN	_	0	root	_	O
+9	in	in	IN	_	8	prep	_	O
+10	Western	western	JJ	pos2=NNP	11	nmod	_	O
+11	media	medium	NNS	pos2=NN	9	pobj	_	O
+12	.	.	.	_	8	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	're	be	VBP	_	0	root	_	O
+3	not	not	RB	_	2	neg	_	O
+4	what	what	WP	_	6	nsubjpass	_	O
+5	's	's	VBZ	_	6	auxpass	_	O
+6	known	know	VBN	_	2	acomp	_	O
+7	as	as	IN	_	6	prep	_	O
+8	"	"	``	_	10	punct	_	O
+9	worthy	worthy	JJ	_	10	nmod	_	O
+10	victims	victim	NNS	_	7	pobj	_	O
+11	"	"	''	pos2=-LRB-	10	punct	_	O
+12	https://t.co/9CV2LNTiwa	#hlink#	ADD	pos2=NN	2	dep	_	O
+

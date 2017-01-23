@@ -1,0 +1,13 @@
+1	George	george	NNP	_	2	compound	_	B-PERSON
+2	Soros	soros	NNP	_	3	nsubj	_	L-PERSON
+3	Spends	spend	VBZ	_	0	root	_	O
+4	Big	big	JJ	pos2=NNP	3	acomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	Defend	defend	VB	_	3	advcl	_	O
+7	Voter	voter	NNP	pos2=NN	8	compound	_	O
+8	Fraud	fraud	NNP	pos2=NN	6	dobj	_	O
+9	https://t.co/Aylphr6Ecq	#hlink#	ADD	pos2=RBR	6	dobj	_	O
+10	via	via	IN	_	6	prep	_	O
+11	@DelRBell	@delrbell	ADD	pos2=-LRB-	10	pobj	_	O
+12	https://t.co/OQ10GnoU7D	#hlink#	ADD	_	10	pobj	_	O
+

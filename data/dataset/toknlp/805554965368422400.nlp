@@ -1,0 +1,20 @@
+1	#France	#france	NNP	pos2=NN	5	poss	_	O
+2	's	's	POS	pos2=VBZ	1	case	_	O
+3	Marine	marine	NNP	pos2=JJ	5	compound	_	B-ORG
+4	Le	le	NNP	_	5	compound	_	I-ORG
+5	Pen	pen	NNP	_	6	nsubj	_	L-ORG
+6	says	say	VBZ	_	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	result	result	NN	_	9	nsubj	_	O
+9	shows	show	VBZ	pos2=NNS	6	ccomp	_	O
+10	#Italians	#italians	NNS	pos2=NNPS	12	nsubj	_	O
+11	have	have	VBP	pos2=VB	12	aux	_	O
+12	rejected	reject	VBN	_	9	ccomp	_	O
+13	the	the	DT	_	14	det	_	O
+14	#EU	#eu	NN	pos2=NNP	12	dobj	_	O
+15	.....	..	.	pos2=,	6	punct	_	O
+
+1	#TrumpEffect	#trumpeffect	NN	pos2=ADD	3	compound	_	O
+2	#Brexit	#brexit	NNP	pos2=NN	3	compound	_	U-ORG
+3	#WakeUpWorld	#wakeupworld	NN	pos2=ADD	0	root	_	O
+

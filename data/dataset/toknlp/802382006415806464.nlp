@@ -1,0 +1,16 @@
+1	Honorable	honorable	JJ	pos2=NNP	2	nmod	_	O
+2	Pelosi	pelosi	NNP	_	4	vocative	_	U-PERSON
+3	,	,	,	_	4	punct	_	O
+4	start	start	VB	pos2=VBP	0	root	_	O
+5	with	with	IN	_	4	prep	_	O
+6	requesting	request	VBG	_	5	pcomp	_	O
+7	a	a	DT	_	10	det	_	O
+8	recount	recount	NN	_	9	compound	_	O
+9	b4	b0	NN	_	10	compound	_	O
+10	deadlines	deadline	NNS	_	6	dobj	_	O
+11	in	in	IN	_	10	prep	_	O
+12	MI	mi	NNP	pos2=NN	11	pobj	_	U-GPE
+13	and	and	CC	_	12	cc	_	O
+14	PA	pa	NNP	pos2=GW	12	conj	_	O
+15	https://t.co/WX166Tg8zD	#hlink#	ADD	pos2=NN	12	appos	_	O
+

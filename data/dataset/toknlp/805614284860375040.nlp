@@ -1,0 +1,23 @@
+1	A	a	DT	_	2	det	_	O
+2	horse	horse	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	horse	horse	NN	_	3	attr	_	O
+6	of	of	IN	pos2=CC	5	prep	_	O
+7	course	course	NN	_	6	pobj	_	O
+8	Unless	unless	IN	pos2=NNP	12	mark	_	O
+9	that	that	DT	_	10	det	_	O
+10	horse	horse	NN	_	12	nsubjpass	_	O
+11	is	be	VBZ	_	12	auxpass	_	O
+12	forced	force	VBN	_	3	advcl	_	O
+13	to	to	TO	_	14	aux	_	O
+14	endorse	endorse	VB	_	12	xcomp	_	O
+15	The	the	DT	_	19	det	_	O
+16	fascist	fascist	JJ	pos2=NN	19	nmod	_	O
+17	Marine	marine	NNP	_	19	compound	_	B-ORG
+18	Le	le	NNP	_	19	compound	_	I-ORG
+19	Pen	pen	NNP	_	14	dobj	_	L-ORG
+20	.	.	.	_	3	punct	_	O
+
+1	https://t.co/LyCqoVALqj	#hlink#	ADD	_	0	root	_	U-ORG
+

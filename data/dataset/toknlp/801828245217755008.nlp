@@ -1,0 +1,10 @@
+1	#Islam	#islam	NN	pos2=ADD	2	compound	_	O
+2	expert	expert	NN	_	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	Erdogan	erdogan	NNP	_	5	nsubj	_	U-PERSON
+5	continues	continue	VBZ	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	support	support	VB	_	5	xcomp	_	O
+8	#Hamas	#hamas	NNS	pos2=ADD	7	dobj	_	O
+9	https://t.co/7EqkNes2Xc	#hlink#	ADD	_	4	appos	_	O
+

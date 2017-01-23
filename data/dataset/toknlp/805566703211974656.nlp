@@ -1,0 +1,20 @@
+1	@politico	@politico	UH	pos2=PRP$	3	discourse	_	O
+2	drivers	driver	NNS	pos2=VBZ	3	compound	_	O
+3	licenses	license	NNS	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	illegals	illegal	NNS	_	4	pobj	_	O
+6	&	&	CC	_	5	cc	_	O
+7	motor	motor	NN	_	8	compound	_	O
+8	voter	voter	NN	_	13	nmod	_	O
+9	+	+	SYM	pos2=CC	10	punct	_	O
+10	honor	honor	NN	_	11	compound	_	O
+11	system	system	NN	_	12	compound	_	O
+12	voter	voter	NN	_	13	compound	_	O
+13	registration	registration	NN	_	16	nsubj	_	O
+14	=	=	SYM	_	16	punct	_	O
+15	clear	clear	JJ	_	16	nmod	_	O
+16	path	path	NN	_	5	conj	_	O
+17	for	for	IN	_	16	prep	_	O
+18	voter	voter	NN	_	19	compound	_	O
+19	fraud	fraud	NN	_	17	pobj	_	O
+

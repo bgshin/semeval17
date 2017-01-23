@@ -1,0 +1,13 @@
+1	https://t.co/IAyobz60dJWHAT	#hlink#	ADD	pos2=RBR	8	nsubj	_	O
+2	GEORGE	george	NNP	pos2=GW	3	compound	_	B-PERSON
+3	SOROS	soros	NNP	_	4	nsubj	_	L-PERSON
+4	DID	do	VBD	pos2=NNP	0	root	_	O
+5	FOR	for	IN	_	4	prep	_	O
+6	HILLARY	hillary	NNP	pos2=NN	5	pobj	_	U-PERSON
+7	WILL	will	MD	_	8	aux	_	O
+8	MAKE	make	VB	_	0	root	_	O
+9	YOU	you	PRP	_	11	nsubj	_	O
+10	SICKWATCH	sickwatch	DT	pos2=NNP	11	det	_	O
+11	VIDEO	video	NN	_	8	ccomp	_	O
+12	!!	!!	.	_	8	punct	_	O
+

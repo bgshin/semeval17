@@ -1,0 +1,15 @@
+1	Okay	okay	UH	pos2=NNP	3	discourse	_	O
+2	Fidel	fidel	NNP	_	3	vocative	_	U-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	down	down	RB	_	3	advmod	_	O
+5	now	now	RB	_	3	advmod	_	O
+6	we	we	PRP	_	7	nsubj	_	O
+7	need	need	VBP	_	3	ccomp	_	O
+8	Putin	putin	NNP	_	7	dobj	_	U-PERSON
+9	,	,	,	_	8	punct	_	O
+10	Trump	trump	NNP	pos2=NN	8	conj	_	O
+11	,	,	,	_	10	punct	_	O
+12	Santos	santos	NNP	_	10	conj	_	U-PERSON
+13	and	and	CC	_	12	cc	_	O
+14	Maduro	maduro	NNP	_	12	conj	_	U-PERSON
+

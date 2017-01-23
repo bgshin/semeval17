@@ -1,0 +1,26 @@
+1	@LawyerRogelio	@lawyerrogelio	ADD	pos2=NN	2	compound	_	O
+2	idiot	idiot	NN	_	5	vocative	_	O
+3	,	,	,	_	5	punct	_	O
+4	Trump	trump	NNP	pos2=NN	5	nsubj	_	U-ORG
+5	had	have	VBD	_	0	root	_	O
+6	meetings	meeting	NNS	_	5	dobj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	POTUS	potus	NNP	pos2=NN	10	compound	_	U-ORG
+10	transition	transition	NN	_	7	pobj	_	O
+11	.	.	.	_	5	punct	_	O
+
+1	Obama	obama	NNP	pos2=NN	3	nsubj	_	U-PERSON
+2	just	just	RB	_	3	advmod	_	O
+3	trying	try	VBG	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	improve	improve	VB	_	3	xcomp	_	O
+6	his	his	PRP$	_	7	poss	_	O
+7	shi	shi	NN	pos2=NNS	5	dobj	_	O
+8	---	--	:	pos2=,	5	punct	_	O
+9	image	image	NN	_	7	appos	_	O
+10	with	with	IN	_	9	prep	_	O
+11	our	our	PRP$	_	12	poss	_	O
+12	military	military	NN	pos2=JJ	10	pobj	_	O
+13	.	.	.	_	3	punct	_	O
+

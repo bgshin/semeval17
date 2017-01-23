@@ -1,0 +1,22 @@
+1	@RockyMntnMike	@rockymntnmike	UH	pos2=ADD	6	discourse	_	O
+2	@RockyMntnMike	@rockymntnmike	ADD	pos2=JJ	3	det	_	O
+3	Co-owner	co-owner	NN	pos2=NNP	0	root	_	O
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	8	det	_	O
+6	Cubs	cub	NNPS	pos2=NNP	8	compound	_	U-ORG
+7	Todd	todd	NNP	_	8	compound	_	B-PERSON
+8	Ricketts	ricketts	NNP	_	4	pobj	_	L-PERSON
+9	appointed	appoint	VBN	_	8	acl	_	O
+10	by	by	IN	_	9	agent	_	O
+11	Trump	trump	NNP	_	10	pobj	_	U-ORG
+12	as	as	IN	_	9	prep	_	O
+13	Deputy	deputy	NNP	_	14	compound	_	O
+14	Secretary	secretary	NNP	_	17	nmod	_	O
+15	of	of	IN	_	14	prep	_	O
+16	Commerce	commerce	NNP	_	15	pobj	_	B-ORG
+17	😨	😨	NNP	pos2=:	12	pobj	_	L-ORG
+18	what	what	WP	_	19	dep	_	O
+19	the	the	DT	_	20	det	_	O
+20	hell	hell	NN	pos2=NNP	17	pcomp	_	O
+21	Lucifer	lucifer	NNP	_	20	appos	_	U-PRODUCT
+

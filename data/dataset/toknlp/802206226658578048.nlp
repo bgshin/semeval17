@@ -1,0 +1,17 @@
+1	@megynkelly	@megynkelly	UH	pos2=NN	3	discourse	_	O
+2	Not	not	RB	_	3	neg	_	O
+3	disrespectful	disrespectful	JJ	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Kelllyanne	kelllyanne	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	is	be	VBZ	_	0	root	_	O
+3	way	way	NN	pos2=RB	5	advmod	_	O
+4	out	out	RB	_	5	advmod	_	O
+5	there	there	RB	_	2	advmod	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	On	on	IN	_	0	root	_	O
+2	front	front	JJ	pos2=NN	3	nmod	_	O
+3	line	line	NN	_	1	pobj	_	O
+4	.	.	.	_	1	punct	_	O
+

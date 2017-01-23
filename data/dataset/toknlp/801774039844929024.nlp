@@ -1,0 +1,23 @@
+1	#Assad	#assad	NNP	pos2=LS	5	compound	_	B-ORG
+2	#Russia	#russia	NNP	pos2=POS	5	compound	_	I-ORG
+3	Airforce	airforce	NNP	_	5	compound	_	I-ORG
+4	Attack	attack	NNP	pos2=NN	5	compound	_	L-ORG
+5	#Turk	#turk	NNP	pos2=POS	6	compound	_	O
+6	soldiers	soldier	NNS	_	12	nsubj	_	O
+7	in	in	IN	_	6	prep	_	O
+8	Support	support	NN	pos2=NNP	7	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	#Hezbollah	#hezbollah	NNP	pos2=$	11	compound	_	B-PERSON
+11	#IRGC	#irgc	NNP	pos2=WDT	9	pobj	_	L-PERSON
+12	led	lead	VBD	pos2=VBN	0	root	_	O
+13	Global	global	NNP	pos2=JJ	15	compound	_	B-ORG
+14	#Shia	#shia	NNP	_	15	compound	_	I-ORG
+15	Army	army	NNP	_	12	dobj	_	L-ORG
+16	Funded	fund	VBN	pos2=NNP	15	acl	_	O
+17	By	by	IN	_	16	agent	_	O
+18	#Iran	#iran	NNP	pos2=JJ	19	compound	_	U-GPE
+19	oil	oil	NN	_	22	compound	_	O
+20	#Khamenei	#khamenei	NNP	pos2=CD	22	compound	_	B-PRODUCT
+21	Spirit	spirit	NNP	_	22	compound	_	I-PRODUCT
+22	Ldr	ldr	NNP	_	17	pobj	_	L-PRODUCT
+

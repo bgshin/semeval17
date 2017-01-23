@@ -1,0 +1,27 @@
+1	Label	label	NN	_	2	compound	_	O
+2	scan	scan	NN	_	10	vocative	_	O
+3	of	of	IN	_	2	prep	_	O
+4	Bob	bob	NNP	_	5	compound	_	B-PERSON
+5	Dylan	dylan	NNP	_	7	poss	_	I-PERSON
+6	's	's	POS	pos2=VBZ	5	case	_	L-PERSON
+7	Can	can	MD	pos2=NNP	10	aux	_	O
+8	You	you	PRP	pos2=NNP	10	nsubj	_	O
+9	Please	please	UH	_	10	discourse	_	O
+10	Crawl	crawl	VB	_	0	root	_	O
+11	Out	out	RP	pos2=IN	10	prt	_	O
+12	Your	your	PRP$	_	13	poss	_	O
+13	Window	window	NN	pos2=NNP	10	dobj	_	O
+14	?	?	.	_	10	punct	_	O
+
+1	from	from	IN	_	0	root	_	O
+2	1966	0	CD	pos2=LS	1	pobj	_	U-DATE
+3	.	.	.	_	1	punct	_	O
+
+1	His	his	PRP$	_	2	poss	_	O
+2	20th	#ord#	NN	pos2=JJ	4	nmod	_	U-ORDINAL
+3	biggest	big	JJS	pos2=NN	4	nmod	_	O
+4	hit	hit	NN	pos2=VBN	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	https://t.co/f1F0bWH2T5	#hlink#	ADD	_	0	root	_	U-ORG
+

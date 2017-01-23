@@ -1,0 +1,5 @@
+1	@MargotDh1	@margotdh0	NN	pos2=NNS	0	root	_	O
+2	@ricky_martin	@ricky_martin	RBR	pos2=XX	3	advmod	_	O
+3	literal	literal	JJ	_	4	nmod	_	O
+4	😭	😭	NN	pos2=.	1	npadvmod	_	U-DATE
+

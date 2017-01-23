@@ -1,0 +1,20 @@
+1	@petestavros	@petestavros	UH	pos2=NNS	0	root	_	O
+2	@megynkelly	@megynkelly	UH	pos2=RB	1	discourse	_	O
+3	...	..	.	_	1	punct	_	O
+
+1	time	time	NN	_	0	root	_	O
+2	for	for	IN	_	5	mark	_	O
+3	you	you	PRP	_	5	nsubj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	go	go	VB	_	1	relcl	_	O
+6	down	down	RB	pos2=RP	5	advmod	_	O
+7	to	to	IN	_	6	prep	_	O
+8	riverwalk	riverwalk	VB	pos2=NN	7	pobj	_	O
+9	for	for	IN	_	5	prep	_	O
+10	coffee	coffee	NN	_	9	pobj	_	O
+11	!	!	.	_	1	punct	_	O
+
+1	Buh	buh	NNP	pos2=UH	2	compound	_	U-PERSON
+2	bye	bye	NN	pos2=UH	0	root	_	O
+3	......	..	.	pos2=,	2	punct	_	O
+

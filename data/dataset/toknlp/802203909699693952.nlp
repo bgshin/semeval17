@@ -1,0 +1,18 @@
+1	Oct	oct	NNP	pos2=GW	2	compound	_	U-DATE
+2	2015:Meet	0:meet	NN	pos2=CD	6	nsubj	_	O
+3	brilliant	brilliant	JJ	pos2=VBD	5	nmod	_	O
+4	Steve	steve	NNP	_	5	compound	_	O
+5	Bannon:he	bannon:he	NNP	_	6	nsubj	_	O
+6	's	's	VBZ	pos2=POS	0	root	_	O
+7	much	much	RB	_	8	advmod	_	O
+8	more	more	JJR	_	6	acomp	_	O
+9	than	than	IN	_	11	mark	_	O
+10	u	u	PRP	pos2=DT	11	nsubj	_	O
+11	think	think	VBP	pos2=VB	8	advcl	_	O
+12	!	!	.	_	6	punct	_	O
+
+1	https://t.co/YKP7FGvUU6	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	pos2=GW	1	prep	_	O
+3	@bpolitics	@bpolitics	NNS	pos2=-LRB-	2	pobj	_	O
+4	https://t.co/bYPWQj1bLr	#hlink#	ADD	_	2	pobj	_	O
+

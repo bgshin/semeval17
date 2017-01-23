@@ -1,0 +1,11 @@
+1	@raesremmurd	@raesremmurd	UH	pos2=XX	3	discourse	_	O
+2	#mannequinchallenge	#mannequinchallenge	UH	pos2=FW	3	discourse	_	O
+3	#blackbeatles	#blackbeatles	UH	pos2=NNS	0	root	_	O
+4	With	with	IN	_	3	prep	_	O
+5	#squad	#squad	NNP	pos2=XX	10	dep	_	B-ORG
+6	preetisingh30	preetisingh0	NNP	pos2=FW	10	dep	_	I-ORG
+7	sanketttt25	sanketttt0	NNP	pos2=GW	10	nmod	_	L-ORG
+8	bobby__ks	bobby__ks	GW	pos2=POS	10	nmod	_	O
+9	…	…	NFP	pos2=GW	10	punct	_	O
+10	https://t.co/p9h8mYF1iD	#hlink#	ADD	_	4	pobj	_	O
+

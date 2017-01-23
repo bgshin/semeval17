@@ -1,0 +1,12 @@
+1	Just	just	RB	_	2	advmod	_	O
+2	seen	see	VBN	pos2=VB	0	root	_	O
+3	#FantasticBeasts	#fantasticbeasts	NNS	pos2=GW	7	pobj	_	O
+4	#IMAX	#imax	NNP	pos2=VBP	6	vocative	_	U-LOC
+5	it	it	PRP	_	6	nsubj	_	O
+6	's	's	VBZ	_	2	ccomp	_	O
+7	like	like	IN	pos2=UH	6	prep	_	O
+8	#PokemonGO	#pokemongo	NNP	pos2=TO	7	pobj	_	U-PERSON
+9	only	only	RB	_	10	advmod	_	O
+10	pretend	pretend	VBP	pos2=VB	6	advcl	_	O
+11	.	.	.	_	2	punct	_	O
+

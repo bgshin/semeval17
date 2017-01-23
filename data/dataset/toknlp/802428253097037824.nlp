@@ -1,0 +1,33 @@
+1	@JerideGillain	@jeridegillain	ADD	pos2=VB	0	root	_	O
+2	@StacyBrewer18	@stacybrewer0	DT	pos2=GW	5	det	_	O
+3	DAY	day	NN	_	5	compound	_	O
+4	-	-	HYPH	pos2=:	5	punct	_	O
+5	O	o	NN	pos2=UH	1	pobj	_	O
+6	!	!	.	pos2=,	1	punct	_	O
+
+1	DA	da	NNP	pos2=NN	9	compound	_	O
+2	-	-	HYPH	_	9	punct	_	O
+3	DA	da	NNP	pos2=NN	9	compound	_	O
+4	-	-	HYPH	_	5	punct	_	O
+5	DAY	day	NN	pos2=NNP	9	compound	_	O
+6	-	-	HYPH	pos2=:	7	punct	_	O
+7	EEE	eee	NN	pos2=NNP	9	compound	_	O
+8	-	-	HYPH	pos2=,	9	punct	_	O
+9	OOO	ooo	NN	pos2=NNP	0	root	_	O
+10	!	!	.	pos2=,	9	punct	_	O
+
+1	Liberals	liberal	NNS	pos2=NNPS	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	Commies	commie	NNPS	pos2=NNS	2	attr	_	O
+4	&	&	CC	_	2	cc	_	O
+5	Like	like	IN	pos2=NNP	9	prep	_	O
+6	Fidel	fidel	NNP	_	5	pobj	_	U-PERSON
+7	-	-	:	pos2=,	9	punct	_	O
+8	They	they	PRP	pos2=NNP	9	nsubj	_	O
+9	Need	need	VBP	_	2	conj	_	O
+10	To	to	TO	_	11	aux	_	O
+11	Go	go	VB	_	13	compound	_	O
+12	-	-	HYPH	_	13	punct	_	O
+13	o	o	NN	pos2=SYM	9	xcomp	_	O
+14	!!!	!!	.	_	9	punct	_	O
+

@@ -1,0 +1,15 @@
+1	At	at	IN	pos2=RB	2	advmod	_	O
+2	least	least	JJS	pos2=RBS	5	advmod	_	O
+3	there	there	EX	pos2=RB	5	expl	_	O
+4	would	would	MD	_	5	aux	_	O
+5	be	be	VB	_	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	reason	reason	NN	_	5	attr	_	O
+8	...	..	.	_	5	punct	_	O
+
+1	😒#TrumpTeam	😒#trumpteam	ADD	pos2=XX	5	nmod	_	O
+2	#TrumpTransitionTeam	#trumptransitionteam	GW	pos2=ADD	5	nmod	_	O
+3	#Trump	#trump	GW	pos2=NFP	5	nmod	_	U-MONEY
+4	#TransitionTeam	#transitionteam	GW	pos2=ADD	5	nmod	_	O
+5	https://t.co/7TJre98ayT	#hlink#	ADD	pos2=NN	0	root	_	O
+

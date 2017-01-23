@@ -1,0 +1,15 @@
+1	All	all	DT	_	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	above	above	JJ	pos2=RB	2	pobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	#Iraq	#iraq	NNP	pos2=NNS	5	compound	_	O
+2	#Libya	#libya	NNP	pos2=POS	5	compound	_	B-ORG
+3	#Syria	#syria	NNP	pos2=POS	5	compound	_	I-ORG
+4	Mainstream	mainstream	NNP	pos2=NN	5	compound	_	I-ORG
+5	Media	media	NNP	pos2=NNS	8	dep	_	L-ORG
+6	=	=	SYM	pos2=,	8	punct	_	O
+7	#FakeNews	#fakenews	ADD	pos2=GW	8	punct	_	U-NORP
+8	https://t.co/PDr9tFw1FL	#hlink#	ADD	_	0	root	_	O
+

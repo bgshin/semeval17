@@ -1,0 +1,25 @@
+1	#Microsoft	#microsoft	NNP	pos2=WP	2	nsubj	_	U-ORG
+2	joins	join	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	@linuxfoundation	@linuxfoundation	NN	pos2=NNP	2	dobj	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	Microsoft	microsoft	NNP	_	2	compound	_	U-ORG
+2	♥#Linux	♥#linux	NNP	pos2=NN	0	root	_	U-PRODUCT
+3	...	..	.	pos2=,	2	punct	_	O
+
+1	like	like	IN	pos2=UH	9	prep	_	O
+2	a	a	DT	_	3	det	_	O
+3	pet	pet	NN	_	1	pobj	_	O
+4	,	,	,	_	3	punct	_	O
+5	or	or	CC	_	3	cc	_	O
+6	entree	entree	NN	pos2=VB	3	conj	_	O
+7	,	,	,	_	9	punct	_	O
+8	I	I	PRP	_	9	nsubj	_	O
+9	say	say	VBP	_	0	root	_	O
+10	.	.	.	_	9	punct	_	O
+
+1	#microsoftlinuxfoss	#microsoftlinuxfoss	UH	pos2=GW	3	discourse	_	O
+2	…	…	NFP	pos2=-LRB-	3	punct	_	O
+3	https://t.co/o7ej17cgXx	#hlink#	ADD	pos2=NN	0	root	_	O
+

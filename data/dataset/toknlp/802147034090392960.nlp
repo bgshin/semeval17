@@ -1,0 +1,10 @@
+1	¡¡HAPPY	¡¡happy	JJ	pos2=NNP	2	nmod	_	O
+2	FRIDAY	friday	NNP	pos2=NN	4	nmod	_	O
+3	,	,	,	_	4	punct	_	O
+4	BITCHES	bitch	NNS	pos2=NNP	0	root	_	O
+5	!!	!!	.	_	4	punct	_	O
+
+1	💋👑	💋👑	NFP	pos2=GW	3	punct	_	O
+2	#ScreamQueens	#screamqueens	GW	pos2=ADD	3	nmod	_	U-PERSON
+3	https://t.co/YCrFlYEeLC	#hlink#	ADD	pos2=NN	0	root	_	O
+

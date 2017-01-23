@@ -1,0 +1,23 @@
+1	In	in	IN	_	10	prep	_	O
+2	2015	0	CD	_	1	pobj	_	U-DATE
+3	,	,	,	_	10	punct	_	O
+4	the	the	DT	_	6	det	_	O
+5	poverty	poverty	NN	_	6	compound	_	O
+6	rate	rate	NN	_	10	nsubj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	US	us	NNP	_	9	compound	_	U-GPE
+9	families	family	NNS	_	7	pobj	_	O
+10	was	be	VBD	_	0	root	_	O
+11	10.4	0	CD	_	12	nmod	_	B-PERCENT
+12	percent	percent	NN	_	10	attr	_	L-PERCENT
+13	,	,	,	_	12	punct	_	O
+14	the	the	DT	_	16	det	_	O
+15	lowest	low	JJS	_	16	nmod	_	O
+16	level	level	NN	_	12	appos	_	O
+17	since	since	IN	_	16	prep	_	O
+18	2008	0	CD	_	17	pobj	_	U-DATE
+19	.	.	.	_	10	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/7DIpGXRnJJ	#hlink#	ADD	_	0	root	_	O
+

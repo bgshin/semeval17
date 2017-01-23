@@ -1,0 +1,18 @@
+1	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNP	2	compound	_	O
+2	Lane	lane	NNP	_	9	nsubj	_	U-ORG
+3	,	,	,	_	2	punct	_	O
+4	Luke	luke	NNP	_	2	conj	_	U-PERSON
+5	,	,	,	_	4	punct	_	O
+6	Paris	paris	NNP	_	4	conj	_	U-GPE
+7	and	and	CC	_	6	cc	_	O
+8	Sookie	sookie	NNP	_	6	conj	_	U-PERSON
+9	are	be	VBP	_	0	root	_	O
+10	my	my	PRP$	_	12	poss	_	O
+11	fav	fav	JJ	pos2=NN	12	nmod	_	O
+12	characters	character	NNS	_	9	attr	_	O
+13	besides	besides	IN	_	12	prep	_	O
+14	obvi	obvi	VBG	pos2=CC	13	pcomp	_	O
+15	Rory	rory	NNP	_	14	dobj	_	U-PERSON
+16	and	and	CC	_	15	cc	_	O
+17	Lorelei	lorelei	NNP	_	15	conj	_	U-PERSON
+

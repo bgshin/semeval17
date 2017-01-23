@@ -1,0 +1,23 @@
+1	Datca	datca	NNP	pos2=NN	3	nsubj	_	U-PERSON
+2	has	have	VBZ	_	3	aux	_	O
+3	managed	manage	VBN	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	retain	retain	VB	_	3	xcomp	_	O
+6	the	the	DT	_	8	det	_	O
+7	Turkish	turkish	JJ	_	8	nmod	_	U-NORP
+8	magic	magic	NN	_	5	dobj	_	O
+9	even	even	RB	_	10	advmod	_	O
+10	after	after	IN	pos2=RB	5	prep	_	O
+11	all	all	PDT	_	13	predet	_	B-DATE
+12	the	the	DT	_	13	det	_	I-DATE
+13	years	year	NNS	_	10	pobj	_	L-DATE
+14	of	of	IN	_	13	prep	_	O
+15	foreign	foreign	JJ	_	16	nmod	_	O
+16	visitors	visitor	NNS	_	14	pobj	_	O
+17	and	and	CC	_	3	cc	_	O
+18	is	be	VBZ	_	3	conj	_	O
+19	well	well	RB	pos2=JJ	18	advmod	_	O
+20	…	…	NFP	pos2=-LRB-	18	acomp	_	O
+21	https://t.co/WhoUgb1Kxh	#hlink#	ADD	_	22	nmod	_	U-ORG
+22	#marmaris	#marmaris	NNS	pos2=ADD	18	acomp	_	O
+

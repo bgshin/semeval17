@@ -1,0 +1,23 @@
+1	Roberto	roberto	NNP	_	2	compound	_	B-PERSON
+2	Carlos	carlos	NNP	_	3	nsubj	_	L-PERSON
+3	has	have	VBZ	_	0	root	_	O
+4	no	no	DT	pos2=RB	5	det	_	O
+5	doubt	doubt	NN	_	3	dobj	_	O
+6	that	that	IN	_	9	mark	_	O
+7	Cristiano	cristiano	NNP	_	8	compound	_	B-PERSON
+8	Ronaldo	ronaldo	NNP	_	9	nsubj	_	L-PERSON
+9	deserves	deserve	VBZ	_	5	acl	_	O
+10	to	to	TO	_	12	aux	_	O
+11	be	be	VB	_	12	auxpass	_	O
+12	crowned	crown	VBN	_	9	xcomp	_	O
+13	The	the	DT	_	18	det	_	O
+14	Best	good	JJS	pos2=NNP	18	nmod	_	O
+15	FIFA	fifa	NNP	pos2=NN	16	compound	_	O
+16	Men	men	NNP	pos2=NNPS	18	poss	_	O
+17	’s	's	POS	_	16	case	_	O
+18	Player	player	NNP	_	12	dobj	_	O
+19	for	for	IN	_	12	prep	_	O
+20	...	..	.	pos2=NFP	3	punct	_	O
+
+1	https://t.co/yxujvPT3CX	#hlink#	ADD	_	0	root	_	U-ORG
+

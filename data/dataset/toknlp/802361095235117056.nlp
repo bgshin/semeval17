@@ -1,0 +1,14 @@
+1	Well	well	UH	pos2=RB	7	discourse	_	O
+2	to	to	IN	_	7	prep	_	O
+3	Leftists	leftist	NNPS	pos2=NNS	2	pobj	_	U-NORP
+4	,	,	,	_	7	punct	_	O
+5	protesting	protest	VBG	pos2=NN	7	nsubj	_	O
+6	has	have	VBZ	pos2=RB	7	aux	_	O
+7	become	become	VBN	pos2=VB	0	root	_	O
+8	their	their	PRP$	_	10	poss	_	O
+9	new	new	JJ	_	10	nmod	_	O
+10	religion	religion	NN	_	7	attr	_	O
+11	.	.	.	_	7	punct	_	O
+
+1	https://t.co/oXQOzsiVQK	#hlink#	ADD	_	0	root	_	U-ORG
+

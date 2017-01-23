@@ -1,0 +1,14 @@
+1	What	what	WP	_	8	dobj	_	O
+2	do	do	VBP	_	8	aux	_	O
+3	self	self	NN	_	4	npadvmod	_	O
+4	driving	drive	VBG	pos2=NN	5	nmod	_	O
+5	cars	car	NNS	_	8	nsubj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	healthcare	healthcare	NN	_	5	conj	_	O
+8	have	have	VBP	pos2=VB	0	root	_	O
+9	in	in	IN	pos2=RB	8	prep	_	O
+10	common	common	JJ	pos2=NNP	9	pcomp	_	O
+11	?	?	.	_	8	punct	_	O
+
+1	https://t.co/l8GCtbazdP	#hlink#	ADD	_	0	root	_	U-ORG
+

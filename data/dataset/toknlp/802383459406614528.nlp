@@ -1,0 +1,26 @@
+1	@deray	@deray	UH	pos2=MD	0	root	_	O
+2	HBO	hbo	NNP	pos2=NN	3	compound	_	U-ORG
+3	hun	hun	NNP	pos2=NN	1	vocative	_	O
+4	...	..	.	pos2=,	1	punct	_	O
+
+1	the	the	DT	_	2	det	_	O
+2	show	show	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	really	really	RB	_	5	advmod	_	O
+5	good	good	JJ	_	3	acomp	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	Get	get	VB	pos2=UH	2	auxpass	_	O
+2	read	read	VBN	pos2=NN	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	have	have	VB	_	2	xcomp	_	O
+5	Melania	melania	NNP	_	6	nmod	_	B-PERSON
+6	Trump	trump	NNP	pos2=VB	8	nmod	_	L-PERSON
+7	facial	facial	JJ	_	8	nmod	_	O
+8	expression	expression	NN	_	4	dobj	_	O
+9	for	for	IN	_	8	prep	_	O
+10	like	like	UH	_	9	discourse	_	O
+11	three	#crd#	CD	_	12	nmod	_	U-CARDINAL
+12	episodes	episode	NNS	_	9	pobj	_	O
+13	though😂	though😂	.	pos2=RB	2	punct	_	O
+

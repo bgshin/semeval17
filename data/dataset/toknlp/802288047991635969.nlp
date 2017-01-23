@@ -1,0 +1,16 @@
+1	@JoyAnnReid	@joyannreid	ADD	pos2=NN	4	punct	_	O
+2	Please	please	UH	_	4	discourse	_	O
+3	have	have	VB	pos2=VBP	4	aux	_	O
+4	@MMFlint	@mmflint	VBN	pos2=NNP	0	root	_	O
+5	Michael	michael	NNP	_	6	compound	_	B-PERSON
+6	Moore	moore	NNP	_	4	dobj	_	L-PERSON
+7	on	on	IN	pos2=RP	4	prep	_	O
+8	to	to	TO	_	9	aux	_	O
+9	discuss	discuss	VB	_	4	advcl	_	O
+10	Jill	jill	NNP	_	11	compound	_	B-PERSON
+11	Stein	stein	NNP	_	12	compound	_	L-PERSON
+12	recount	recount	NN	pos2=VB	9	dobj	_	O
+13	!	!	.	_	4	punct	_	O
+
+1	#PMJoy	#pmjoy	UH	pos2=ADD	0	root	_	O
+

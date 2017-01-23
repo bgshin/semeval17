@@ -1,0 +1,26 @@
+1	Trump	trump	NN	pos2=NNP	3	nsubj	_	U-ORG
+2	is	be	VBZ	_	3	aux	_	O
+3	building	build	VBG	_	0	root	_	O
+4	a	a	DT	pos2=CD	5	det	_	O
+5	wall	wall	NN	_	3	dobj	_	O
+6	on	on	IN	_	3	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	Mexican	mexican	JJ	_	9	nmod	_	U-NORP
+9	border	border	NN	_	6	pobj	_	O
+10	so	so	IN	pos2=RB	13	mark	_	O
+11	they	they	PRP	_	13	nsubj	_	O
+12	can	can	MD	_	13	aux	_	O
+13	stop	stop	VB	_	8	advcl	_	O
+14	herrion	herrion	NN	pos2=PRP	15	nsubj	_	O
+15	come	come	VB	_	13	ccomp	_	O
+16	in	in	RB	pos2=RP	15	advmod	_	O
+17	to	to	IN	_	15	prep	_	O
+18	America	america	NNP	_	17	pobj	_	U-GPE
+19	while	while	IN	_	22	mark	_	O
+20	there	there	EX	pos2=PRP$	21	poss	_	O
+21	government	government	NN	_	22	nsubj	_	O
+22	is	be	VBZ	_	13	advcl	_	O
+23	the	the	DT	_	25	det	_	O
+24	biggest	big	JJS	_	25	nmod	_	O
+25	customers	customer	NNS	_	22	attr	_	O
+

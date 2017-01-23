@@ -1,0 +1,24 @@
+1	As	as	IN	pos2=RB	2	mark	_	O
+2	does	do	VBZ	_	9	advcl	_	O
+3	the	the	DT	_	4	det	_	O
+4	$$	$$	NFP	pos2=NN	9	punct	_	O
+5	the	the	DT	_	7	det	_	B-ORG
+6	Secret	secret	NNP	pos2=JJ	7	compound	_	I-ORG
+7	Service	service	NNP	pos2=NN	9	nsubj	_	L-ORG
+8	must	must	MD	_	9	aux	_	O
+9	pay	pay	VB	_	0	root	_	O
+10	to	to	TO	pos2=IN	11	aux	_	O
+11	fly	fly	VB	_	9	advcl	_	O
+12	on	on	IN	_	11	prep	_	O
+13	Trump	trump	NNP	pos2=NN	14	compound	_	U-ORG
+14	planes	plane	NNS	_	12	pobj	_	O
+15	to	to	TO	_	16	aux	_	O
+16	protect	protect	VB	_	11	advcl	_	O
+17	Melania	melania	NNP	_	16	dobj	_	O
+18	&	&	CC	_	17	cc	_	O
+19	the	the	DT	_	20	det	_	O
+20	kids	kid	NNS	_	17	conj	_	O
+21	.	.	.	_	9	punct	_	O
+
+1	https://t.co/WR2uIqqmv8	#hlink#	ADD	_	0	root	_	U-ORG
+

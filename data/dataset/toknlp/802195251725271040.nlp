@@ -1,0 +1,12 @@
+1	Turkey	turkey	NNP	pos2=NN	3	nsubj	_	U-GPE
+2	is	be	VBZ	_	3	aux	_	O
+3	#ISIS	#isis	VBG	pos2=NN	0	root	_	O
+4	itself	itself	PRP	_	3	dobj	_	O
+5	@VP	@vp	IN	pos2=XX	3	prep	_	O
+6	@POTUS	@potus	ADD	pos2=XX	5	pobj	_	U-TIME
+7	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	5	pobj	_	O
+8	@RepMikePompeo	@repmikepompeo	ADD	pos2=GW	5	pobj	_	O
+9	@mike_pence	@mike_pence	GW	pos2=IN	11	nmod	_	U-MONEY
+10	#BlackFridayTactics	#blackfridaytactics	GW	pos2=ADD	11	nmod	_	O
+11	https://t.co/EmNiWYPE4I	#hlink#	ADD	pos2=NN	3	dep	_	O
+

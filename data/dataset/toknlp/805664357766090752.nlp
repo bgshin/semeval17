@@ -1,0 +1,19 @@
+1	Anthony	anthony	NNP	_	2	compound	_	B-PERSON
+2	Rizzo	rizzo	NNP	_	7	meta	_	L-PERSON
+3	Chicago	chicago	NNP	_	5	compound	_	B-ORG
+4	Cubs	cubs	NNP	pos2=NNPS	5	compound	_	L-ORG
+5	Autographed	autographed	NNP	pos2=VBD	2	appos	_	O
+6	8	0	CD	pos2=NNP	9	dep	_	U-CARDINAL
+7	"	"	``	pos2=''	9	punct	_	O
+8	x	x	SYM	_	9	punct	_	O
+9	10	0	CD	_	10	nmod	_	U-CARDINAL
+10	"	"	''	pos2=``	0	root	_	O
+11	Overhead	overhead	RB	pos2=NN	2	advmod	_	O
+12	..	..	.	pos2=,	2	punct	_	O
+
+1	#rt2gain	#rt0gain	NN	pos2=RB	5	nmod	_	O
+2	#teamfollowback	#teamfollowback	UH	pos2=XX	1	discourse	_	O
+3	#followback	#followback	UH	pos2=GW	1	discourse	_	O
+4	#f4f	#f0f	GW	pos2=-LRB-	5	nmod	_	O
+5	https://t.co/YKyELIEooE	#hlink#	ADD	_	0	root	_	U-ORG
+

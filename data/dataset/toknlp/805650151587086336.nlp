@@ -1,0 +1,15 @@
+1	because	because	IN	_	4	mark	_	O
+2	fossil	fossil	NN	pos2=JJ	3	compound	_	O
+3	fuels	fuel	NNS	_	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	only	only	JJ	_	7	nmod	_	O
+7	resources	resource	NNS	_	4	attr	_	O
+8	that	that	WDT	_	9	nsubj	_	O
+9	allow	allow	VBP	_	7	relcl	_	O
+10	us	us	PRP	_	12	nsubj	_	O
+11	to	to	TO	_	12	aux	_	O
+12	travel	travel	VB	_	9	ccomp	_	O
+13	🤔	🤔	NFP	pos2=-LRB-	14	punct	_	O
+14	https://t.co/pHsMumxQLk	#hlink#	ADD	_	12	dobj	_	O
+

@@ -1,0 +1,23 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	convinced	convinced	JJ	pos2=VBN	2	acomp	_	O
+4	that	that	IN	_	9	mark	_	O
+5	Trump	trump	NNP	pos2=NN	9	nsubjpass	_	U-ORG
+6	wo	wo	MD	_	9	aux	_	O
+7	n't	not	RB	_	9	neg	_	O
+8	be	be	VB	_	9	auxpass	_	O
+9	inaugurated	inaugurate	VBN	_	3	ccomp	_	O
+10	on	on	IN	_	9	prep	_	O
+11	Jan.	jan.	NNP	_	10	pobj	_	B-DATE
+12	20	0	CD	_	11	nmod	_	L-DATE
+13	.	.	.	_	2	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	#Electoralcollege	#electoralcollege	NNP	_	4	nsubj	_	U-ORG
+3	is	be	VBZ	_	4	aux	_	O
+4	mounting	mount	VBG	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	resistance	resistance	NN	_	8	nmod	_	O
+7	/	/	SYM	pos2=,	8	punct	_	O
+8	https://t.co/zuvHjWKf9L	#hlink#	ADD	pos2=NN	4	dobj	_	O
+

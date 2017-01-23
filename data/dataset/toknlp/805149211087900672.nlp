@@ -1,0 +1,12 @@
+1	🔹ASHLEY	🔹ashley	NN	pos2=NFP	2	compound	_	O
+2	GRAHAM	graham	NNP	pos2=NN	11	dep	_	U-PERSON
+3	|	|	SYM	pos2=,	11	punct	_	O
+4	VH1	vh0	NN	pos2=NNP	6	compound	_	O
+5	DIVAS🔹#AshleyGraham	divas🔹#ashleygraham	NNP	pos2=GW	6	compound	_	U-PRODUCT
+6	#VH1Divas	#vh0divas	NNS	pos2=NN	7	nsubj	_	O
+7	#VelvetDreams	#velvetdreams	VBZ	pos2=NNS	8	ccomp	_	O
+8	#bestdressed	#bestdressed	VBD	pos2=NFP	11	nmod	_	O
+9	#StyledByJeffKKim	#styledbyjeffkkim	GW	pos2=XX	11	nmod	_	O
+10	…	…	NFP	pos2=GW	11	punct	_	O
+11	https://t.co/pPPjaJLqdl	#hlink#	ADD	pos2=NN	0	root	_	O
+

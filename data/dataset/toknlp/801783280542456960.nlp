@@ -1,0 +1,13 @@
+1	Pictures	picture	NNS	_	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Andrés	andrés	NNP	_	4	compound	_	B-PERSON
+4	Iniesta	iniesta	NNP	_	0	root	_	L-PERSON
+5	in	in	IN	_	4	prep	_	O
+6	his	his	PRP$	_	8	poss	_	O
+7	recovery	recovery	NN	_	8	compound	_	O
+8	stages	stage	NNS	_	5	pobj	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	#fcblive	#fcblive	UH	pos2=ADD	2	discourse	_	O
+2	https://t.co/EY6OQuQDZi	#hlink#	ADD	pos2=NN	0	root	_	O
+

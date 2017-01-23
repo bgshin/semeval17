@@ -1,0 +1,9 @@
+1	Happy	happy	JJ	_	2	nmod	_	O
+2	thanksgiving	thanksgiving	NN	pos2=VBG	8	dep	_	O
+3	from	from	IN	_	2	prep	_	O
+4	AZ	az	NNP	pos2=NN	5	compound	_	B-ORG
+5	#JazzNation	#jazznation	NNP	pos2=NN	3	pobj	_	L-ORG
+6	#takenote	#takenote	UH	pos2=GW	8	nmod	_	O
+7	@utahjazz	@utahjazz	UH	pos2=ADD	8	discourse	_	O
+8	https://t.co/1jsQESQORU	#hlink#	ADD	pos2=UH	0	root	_	O
+

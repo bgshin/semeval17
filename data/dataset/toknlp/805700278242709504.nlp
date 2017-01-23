@@ -1,0 +1,27 @@
+1	They	they	PRP	_	2	nsubj	_	O
+2	train	train	VBP	_	11	ccomp	_	O
+3	their	their	PRP$	_	4	poss	_	O
+4	hounds	hound	NNS	_	2	dobj	_	O
+5	with	with	IN	_	2	prep	_	O
+6	young	young	JJ	_	8	nmod	_	O
+7	fox	fox	NN	pos2=JJ	8	compound	_	O
+8	cubs	cub	NNS	pos2=RB	5	pobj	_	O
+9	,	,	,	_	11	punct	_	O
+10	they	they	PRP	_	11	nsubj	_	O
+11	squeal	squeal	VBP	_	0	root	_	O
+12	as	as	IN	_	14	mark	_	O
+13	they	they	PRP	_	14	nsubj	_	O
+14	die	die	VBP	_	11	advcl	_	O
+15	.	.	.	_	11	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	set	set	VBP	pos2=VBD	0	root	_	O
+3	their	their	PRP$	_	4	poss	_	O
+4	hounds	hound	NNS	_	2	dobj	_	O
+5	on	on	IN	pos2=RP	2	prep	_	O
+6	pregnant	pregnant	JJ	_	7	nmod	_	O
+7	vixens	vixen	NNS	_	5	pobj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	season	season	NN	_	8	pobj	_	U-DATE
+10	#keeptheban	#keeptheban	.	pos2=NNS	2	punct	_	O
+

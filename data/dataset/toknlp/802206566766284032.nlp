@@ -1,0 +1,27 @@
+1	@mike_pence	@mike_pence	NN	pos2=UH	4	vocative	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	finally	finally	RB	_	4	advmod	_	O
+4	feel	feel	VBP	pos2=VB	0	root	_	O
+5	excitement	excitement	NN	_	4	dobj	_	O
+6	about	about	IN	_	5	prep	_	O
+7	our	our	PRP$	_	8	poss	_	O
+8	country	country	NN	_	6	pobj	_	O
+9	again	again	RB	_	4	advmod	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	God	god	NNP	pos2=JJ	2	nsubj	_	O
+2	lead	lead	NN	pos2=VB	0	root	_	O
+3	and	and	CC	_	2	cc	_	O
+4	protect	protect	VB	pos2=VBP	2	conj	_	O
+5	you	you	PRP	_	4	dobj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	president	president	NN	pos2=VB	9	compound	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	elect	elect	NN	pos2=NNP	11	compound	_	O
+10	Donald	donald	NNP	_	11	compound	_	B-PERSON
+11	Trump	trump	NNP	_	5	conj	_	L-PERSON
+12	and	and	CC	_	4	cc	_	O
+13	bless	bless	VB	_	4	conj	_	O
+14	you	you	PRP	_	13	dobj	_	O
+15	.	.	.	_	2	punct	_	O
+

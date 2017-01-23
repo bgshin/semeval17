@@ -1,0 +1,8 @@
+1	#NowPlaying	#nowplaying	VBG	pos2=ADD	7	nmod	_	O
+2	Scream	scream	NNP	pos2=VB	1	dobj	_	O
+3	by	by	IN	_	1	prep	_	O
+4	Zac	zac	NNP	_	5	compound	_	B-PERSON
+5	Efron	efron	NNP	_	3	pobj	_	L-PERSON
+6	♫	♫	NFP	pos2=POS	7	punct	_	O
+7	https://t.co/VQMm7hA35i	#hlink#	ADD	_	0	root	_	O
+

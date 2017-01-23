@@ -1,0 +1,15 @@
+1	Are	be	VBP	_	0	root	_	O
+2	you	you	PRP	_	1	nsubj	_	O
+3	a	a	DT	_	5	det	_	O
+4	Jay	jay	NNP	_	5	compound	_	B-PERSON
+5	Cutler	cutler	NNP	_	1	attr	_	L-PERSON
+6	or	or	CC	_	5	cc	_	O
+7	a	a	DT	_	9	det	_	O
+8	Tony	tony	NNP	_	9	compound	_	B-PERSON
+9	Romo	romo	NNP	_	5	conj	_	L-PERSON
+10	?	?	.	_	1	punct	_	O
+
+1	https://t.co/rV0vFojSoY	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@sbnation	@sbnation	NN	pos2=ADD	2	pobj	_	O
+

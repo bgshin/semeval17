@@ -1,0 +1,23 @@
+1	Exhibit	exhibit	VB	pos2=NN	0	root	_	O
+2	A	a	DT	pos2=NN	1	dobj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	#terrorist	#terrorist	JJ	pos2=NN	5	nmod	_	O
+5	sympathizers	sympathizer	NNS	_	3	pobj	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	Someone	someone	NN	_	3	nsubj	_	O
+2	better	good	JJR	pos2=RBR	3	advmod	_	O
+3	wake	wake	VB	pos2=VBP	0	root	_	O
+4	them	them	PRP	_	3	dobj	_	O
+5	up	up	RP	_	3	prt	_	O
+6	&	&	CC	_	3	cc	_	O
+7	show	show	VB	pos2=VBP	3	conj	_	O
+8	them	them	PRP	_	7	dobj	_	O
+9	what	what	WP	pos2=WDT	14	dobj	_	O
+10	#SAA	#saa	NNP	pos2=NN	12	compound	_	B-ORG
+11	#Hezbollah	#hezbollah	NNP	pos2=ADD	12	compound	_	I-ORG
+12	#RuAF	#ruaf	NNP	pos2=ADD	14	nsubj	_	L-ORG
+13	are	be	VBP	_	14	aux	_	O
+14	doing	do	VBG	_	7	ccomp	_	O
+15	https://t.co/yRslzMREZs	#hlink#	ADD	pos2=NN	14	npadvmod	_	O
+

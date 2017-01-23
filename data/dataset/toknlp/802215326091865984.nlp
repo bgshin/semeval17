@@ -1,0 +1,11 @@
+1	@ZacharyMimms	@zacharymimms	VBZ	pos2=NNS	0	root	_	O
+2	what	what	WP	_	3	nsubj	_	O
+3	is	be	VBZ	_	1	ccomp	_	O
+4	things	thing	NNS	_	5	nsubj	_	O
+5	said	say	VBD	pos2=VBN	0	root	_	O
+6	at	at	IN	_	5	prep	_	O
+7	Mimms	mimms	NNP	_	8	compound	_	U-PERSON
+8	family	family	NN	pos2=NNP	9	compound	_	O
+9	Thanksgiving	thanksgiving	NNP	_	6	pobj	_	U-EVENT
+10	?	?	.	_	5	punct	_	O
+

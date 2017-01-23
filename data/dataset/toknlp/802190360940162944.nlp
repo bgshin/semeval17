@@ -1,0 +1,22 @@
+1	#Yemen	#yemen	NNP	pos2=XX	21	dep	_	O
+2	The	the	DT	_	3	det	_	O
+3	selling	selling	NN	_	1	appos	_	O
+4	of	of	IN	_	3	prep	_	O
+5	Huey	huey	NNP	_	4	pobj	_	U-PERSON
+6	's	's	POS	pos2=VBZ	5	case	_	O
+7	to	to	IN	_	3	prep	_	O
+8	Yemen	yemen	NNP	_	7	pobj	_	U-GPE
+9	including	include	VBG	_	3	prep	_	O
+10	training	training	NN	_	9	pobj	_	O
+11	and	and	CC	_	10	cc	_	O
+12	even	even	RB	_	13	advmod	_	O
+13	leasing	lease	VBG	_	10	conj	_	O
+14	the	the	DT	_	17	det	_	O
+15	mega	mega	JJ	pos2=NNP	17	nmod	_	O
+16	Cargo	cargo	NNP	pos2=NN	17	compound	_	U-ORG
+17	aircraft	aircraft	NN	_	13	dobj	_	O
+18	to	to	TO	_	19	aux	_	O
+19	deliver	deliver	VB	_	13	advcl	_	O
+20	…	…	NFP	pos2=-LRB-	21	punct	_	O
+21	https://t.co/ZZDNBcCug9	#hlink#	ADD	_	0	root	_	O
+

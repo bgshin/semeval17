@@ -1,0 +1,16 @@
+1	@disgustednyer	@disgustednyer	UH	pos2=NN	5	discourse	_	O
+2	@niac_eet	@niac_eet	UH	pos2=NNP	5	discourse	_	O
+3	Oh	oh	UH	_	5	discourse	_	O
+4	,	,	,	_	5	punct	_	O
+5	really	really	RB	_	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	Verlander	verlander	NNP	_	3	nsubj	_	U-PERSON
+2	already	already	RB	_	3	advmod	_	O
+3	was	be	VBD	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	star	star	NN	_	3	attr	_	O
+6	at	at	IN	_	5	prep	_	O
+7	23	0	CD	_	6	pobj	_	U-CARDINAL
+8	.	.	.	_	3	punct	_	O
+

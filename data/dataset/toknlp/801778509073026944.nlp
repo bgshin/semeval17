@@ -1,0 +1,15 @@
+1	Kate	kate	NNP	_	2	compound	_	B-PERSON
+2	Upton	upton	NNP	_	5	nsubj	_	L-PERSON
+3	Ca	can	MD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	Stop	stop	VB	_	0	root	_	O
+6	Complaining	complain	VBG	_	5	xcomp	_	O
+7	About	about	IN	pos2=NNP	6	prep	_	O
+8	The	the	DT	_	11	det	_	O
+9	Cy	cy	NNP	_	10	compound	_	O
+10	Young	young	NNP	_	11	compound	_	O
+11	Vote	vote	NN	pos2=GW	7	pobj	_	O
+12	https://t.co/X9dfWZbPGA	#hlink#	ADD	pos2=GW	13	nsubj	_	O
+13	#sports	#sports	VBZ	pos2=ADD	5	advcl	_	O
+14	https://t.co/5Oo2XarhZ1	#hlink#	ADD	pos2=NN	5	dep	_	O
+

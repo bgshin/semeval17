@@ -1,0 +1,29 @@
+1	"	"	``	pos2=SYM	3	punct	_	O
+2	Walls	wall	NNS	pos2=NNPS	3	nsubj	_	O
+3	work	work	VBP	pos2=NN	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	A	a	DT	_	2	det	_	O
+2	wall	wall	NN	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	geothermal	geothermal	JJ	_	5	nmod	_	O
+5	plants	plant	NNS	_	3	pobj	_	O
+6	on	on	IN	_	2	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	Mexican	mexican	JJ	pos2=NNP	9	nmod	_	U-NORP
+9	border	border	NN	_	6	pobj	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	BOOM	boom	NN	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Mother	mother	NN	pos2=NNP	2	compound	_	O
+2	Nature	nature	NNP	pos2=NN	3	nsubj	_	O
+3	pays	pay	VBZ	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	it	it	PRP	_	4	pobj	_	O
+6	.	.	.	_	3	punct	_	O
+7	"	"	''	_	3	punct	_	O
+
+1	#TrumpNarratesPlanetEarth	#trumpnarratesplanetearth	NN	pos2=ADD	0	root	_	O
+

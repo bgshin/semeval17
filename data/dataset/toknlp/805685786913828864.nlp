@@ -1,0 +1,19 @@
+1	Todd	todd	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Staples	staples	NNP	pos2=NNS	6	vocative	_	L-PERSON
+3	:	:	:	_	6	punct	_	O
+4	“	"	``	_	6	punct	_	O
+5	We	we	PRP	_	6	nsubj	_	O
+6	have	have	VBP	_	0	root	_	O
+7	an	an	DT	_	9	det	_	O
+8	unprecedented	unprecedented	JJ	_	9	nmod	_	O
+9	level	level	NN	_	6	dobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	energy	energy	NN	_	12	compound	_	O
+12	security	security	NN	_	10	pobj	_	O
+13	now	now	RB	_	6	advmod	_	O
+14	.	.	.	_	6	punct	_	O
+
+1	"	"	``	pos2=''	3	punct	_	O
+2	#fracking	#fracking	VBG	pos2=UH	0	root	_	O
+3	#shale	#shale	UH	pos2=NN	2	discourse	_	O
+

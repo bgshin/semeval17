@@ -1,0 +1,27 @@
+1	@realDonaldTrump	@realdonaldtrump	VB	pos2=ADD	0	root	_	O
+2	@mike_pence	@mike_pence	IN	pos2=POS	1	prep	_	O
+3	Russia	russia	NNP	_	4	compound	_	U-GPE
+4	role	role	NN	_	2	pobj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	Syria	syria	NNP	_	5	pobj	_	U-GPE
+7	,	,	,	_	6	punct	_	O
+8	Iran	iran	NNP	_	6	appos	_	U-GPE
+9	?	?	.	_	1	punct	_	O
+
+1	Exposure	exposure	NN	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	vital	vital	JJ	_	2	acomp	_	O
+4	for	for	IN	_	3	prep	_	O
+5	Public	public	JJ	pos2=NNP	6	nmod	_	O
+6	support	support	NN	_	4	pobj	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	What	what	WP	_	5	pobj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	they	they	PRP	_	2	nsubj	_	O
+4	up	up	RP	pos2=IN	0	root	_	O
+5	to	to	IN	pos2=TO	2	prep	_	O
+6	?	?	.	_	2	punct	_	O
+
+1	https://t.co/qW48kTJmZ1	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,16 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	'm	be	VBP	_	3	aux	_	O
+3	making	make	VBG	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	PowerPoint	powerpoint	NNP	pos2=NN	3	dobj	_	U-ORG
+6	on	on	IN	_	3	prep	_	O
+7	how	how	WRB	_	9	advmod	_	O
+8	vegetarianism	vegetarianism	NN	_	9	nsubj	_	O
+9	is	be	VBZ	_	6	pcomp	_	O
+10	n't	not	RB	_	9	neg	_	O
+11	as	as	RB	_	12	advmod	_	O
+12	unhealthy	unhealthy	JJ	_	9	acomp	_	O
+13	as	as	IN	_	15	mark	_	O
+14	people	people	NNS	_	15	nsubj	_	O
+15	think	think	VBP	_	3	advcl	_	O
+

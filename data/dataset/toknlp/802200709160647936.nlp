@@ -1,0 +1,23 @@
+1	Congratulations	congratulation	NNS	_	6	nsubjpass	_	O
+2	to	to	IN	_	1	prep	_	O
+3	Messi	messi	NNP	_	2	pobj	_	U-PERSON
+4	has	have	VBZ	_	6	aux	_	O
+5	been	be	VBN	_	6	auxpass	_	O
+6	voted	vote	VBN	pos2=JJ	0	root	_	O
+7	UEFA	uefa	NNP	_	9	compound	_	B-EVENT
+8	Champions	champion	NNPS	pos2=NNP	9	compound	_	I-EVENT
+9	League	league	NNP	_	6	oprd	_	I-EVENT
+10	"	"	''	pos2=``	11	punct	_	L-EVENT
+11	Player	player	NNP	pos2=NN	6	oprd	_	O
+12	of	of	IN	_	11	prep	_	O
+13	the	the	DT	_	14	det	_	B-DATE
+14	Week	week	NNP	pos2=NN	12	pobj	_	L-DATE
+15	"	"	''	_	11	punct	_	O
+16	.	.	.	_	6	punct	_	O
+
+1	#LeoMessi	#leomessi	ADD	pos2=NNS	5	nmod	_	O
+2	#UEFA	#uefa	GW	pos2=NN	5	nmod	_	U-ORG
+3	#UCL	#ucl	GW	pos2=NFP	5	nmod	_	O
+4	…	…	NFP	pos2=GW	5	punct	_	O
+5	https://t.co/sJMvLuKAeq	#hlink#	ADD	pos2=NN	0	root	_	O
+

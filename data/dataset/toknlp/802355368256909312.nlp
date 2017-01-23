@@ -1,0 +1,18 @@
+1	Will	will	MD	_	7	aux	_	O
+2	American	american	JJ	_	3	nmod	_	U-NORP
+3	designers	designer	NNS	_	7	nsubj	_	O
+4	flat	flat	RB	pos2=JJ	6	advmod	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	out	out	RB	pos2=JJ	7	advmod	_	O
+7	refuse	refuse	VBP	pos2=VB	0	root	_	O
+8	to	to	TO	_	9	aux	_	O
+9	dress	dress	VB	_	7	xcomp	_	O
+10	Melania	melania	NNP	_	9	dobj	_	O
+11	&	&	CC	_	10	cc	_	O
+12	Ivanka	ivanka	NNP	_	13	compound	_	B-PERSON
+13	Trump	trump	NNP	_	10	conj	_	L-PERSON
+14	?	?	.	_	7	punct	_	O
+
+1	https://t.co/a5cc1gUDzN	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/HwUdCCY7oT	#hlink#	ADD	_	0	root	_	U-ORG
+

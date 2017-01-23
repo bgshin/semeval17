@@ -1,0 +1,15 @@
+1	@FoxNews	@foxnews	UH	pos2=VBZ	4	discourse	_	O
+2	no	no	DT	_	3	det	_	O
+3	trial	trial	NN	_	4	nsubj	_	O
+4	needed	need	VBN	pos2=VBD	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	guilty	guilty	JJ	_	2	acomp	_	O
+4	so	so	IN	pos2=RB	7	mark	_	O
+5	death	death	NN	_	6	compound	_	O
+6	penalty	penalty	NN	_	1	appos	_	O
+7	for	for	IN	_	6	prep	_	O
+8	him	him	PRP	_	7	pobj	_	O
+

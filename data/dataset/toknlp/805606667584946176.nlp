@@ -1,0 +1,26 @@
+1	Cannabis	cannabis	NN	pos2=NNP	2	compound	_	O
+2	Culture	culture	NN	pos2=NNP	4	compound	_	O
+3	marijuana	marijuana	NN	_	4	compound	_	O
+4	dispensaries	dispensary	NNS	_	5	nsubj	_	O
+5	are	be	VBP	_	0	root	_	O
+6	part	part	NN	_	5	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	our	our	PRP$	_	9	poss	_	O
+9	activism	activism	NN	_	7	pobj	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	We	we	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	ask	ask	VB	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	medical	medical	JJ	_	7	nmod	_	O
+7	cards	card	NNS	_	5	pobj	_	O
+8	and	and	CC	_	4	cc	_	O
+9	are	be	VBP	_	4	conj	_	O
+10	19	0	CD	_	12	nmod	_	U-CARDINAL
+11	+	+	SYM	_	10	punct	_	O
+12	cannabi	cannabi	NN	pos2=NNS	9	attr	_	O
+13	…	…	NFP	pos2=-LRB-	14	punct	_	O
+14	https://t.co/K96FovrGFw	#hlink#	ADD	pos2=NN	9	dep	_	O
+

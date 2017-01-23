@@ -1,0 +1,10 @@
+1	@terrorjrmusic	@terrorjrmusic	UH	pos2=NFP	0	root	_	O
+2	Nick	nick	NNP	_	3	compound	_	B-PERSON
+3	Cannon	cannon	NNP	_	1	vocative	_	L-PERSON
+4	in	in	IN	_	3	prep	_	O
+5	room	room	NN	_	4	pobj	_	O
+6	with	with	IN	_	3	prep	_	O
+7	Steve	steve	NNP	_	8	compound	_	B-PERSON
+8	Bannon	bannon	NNP	_	6	pobj	_	L-PERSON
+9	?	?	.	_	8	punct	_	O
+

@@ -1,0 +1,14 @@
+1	@TweetsToTrump	@tweetstotrump	MD	pos2=NN	4	aux	_	O
+2	Do	do	VB	pos2=VBP	4	aux	_	O
+3	nt	nt	RB	_	4	advmod	_	O
+4	be	be	VB	_	0	root	_	O
+5	a	a	DT	_	8	det	_	O
+6	paul	paul	NNP	pos2=NN	8	compound	_	O
+7	ryan	ryan	NNP	pos2=NN	8	compound	_	O
+8	puppetNO	puppetno	NNP	pos2=ADD	4	attr	_	O
+9	....	..	.	pos2=,	4	punct	_	O
+
+1	TO	to	IN	pos2=NNP	0	root	_	O
+2	PRIVATIZING	privatize	VBG	_	1	pcomp	_	O
+3	MEDICARE	medicare	NNP	pos2=NN	2	dobj	_	U-ORG
+

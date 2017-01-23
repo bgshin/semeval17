@@ -1,0 +1,21 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	rated	rate	VBD	pos2=VBN	0	root	_	O
+3	#ThisIsUs	#thisisus	NN	pos2=ADD	2	dobj	_	U-PERSON
+4	(	(	-LRB-	_	3	punct	_	O
+5	S01E08	s0e0	NN	pos2=NNP	3	appos	_	O
+6	)	)	-RRB-	_	3	punct	_	O
+7	5/5	0	CD	_	2	npadvmod	_	U-CARDINAL
+8	on	on	IN	_	2	prep	_	O
+9	@goodshowsapp	@goodshowsapp	NNP	pos2=NNS	8	pobj	_	U-ORG
+10	.	.	.	_	2	punct	_	O
+
+1	#MustWatch	#mustwatch	LS	pos2=NN	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Check	check	VB	_	0	root	_	O
+2	out	out	RP	pos2=IN	1	prt	_	O
+3	my	my	PRP$	_	4	poss	_	O
+4	review	review	NN	_	1	dobj	_	O
+5	here	here	RB	_	1	advmod	_	O
+6	https://t.co/7kMXhKsacx	#hlink#	ADD	_	1	dep	_	U-ORG
+

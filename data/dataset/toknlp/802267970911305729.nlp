@@ -1,0 +1,25 @@
+1	On	on	IN	_	4	prep	_	O
+2	this	this	DT	_	3	det	_	O
+3	Thanksgiving	thanksgiving	NNP	_	1	pobj	_	U-DATE
+4	let	let	VB	pos2=VBD	0	root	_	O
+5	's	's	PRP	_	6	nsubj	_	O
+6	give	give	VB	_	4	ccomp	_	O
+7	thanks	thanks	NNS	_	6	dobj	_	O
+8	to	to	IN	_	6	dative	_	O
+9	President	president	NNP	_	10	compound	_	O
+10	Obama	obama	NNP	_	8	pobj	_	U-PERSON
+11	for	for	IN	_	6	prep	_	O
+12	giving	give	VBG	_	11	pcomp	_	O
+13	Iran	iran	NNP	_	12	dative	_	U-GPE
+14	the	the	DT	_	15	det	_	O
+15	money	money	NN	_	12	dobj	_	O
+16	and	and	CC	_	15	cc	_	O
+17	planes	plane	NNS	_	15	conj	_	O
+18	to	to	TO	pos2=IN	19	aux	_	O
+19	ship	ship	VB	pos2=NN	15	relcl	_	O
+20	terrorism	terrorism	NN	_	19	dobj	_	O
+21	abroad	abroad	RB	_	19	advmod	_	O
+22	.	.	.	_	4	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+

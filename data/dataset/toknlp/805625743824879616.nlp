@@ -1,0 +1,17 @@
+1	@Rosechristenbe1	@rosechristenbe0	NN	pos2=NNS	8	cc	_	O
+2	@Eg0nz63	@eg0nz0	NN	pos2=NNS	8	aux	_	O
+3	@RepublicanChick	@republicanchick	XX	pos2=ADD	8	dep	_	O
+4	@jack	@jack	UH	pos2=XX	8	discourse	_	O
+5	@amazon	@amazon	UH	pos2=XX	8	discourse	_	O
+6	@latinaafortrump	@latinaafortrump	UH	pos2=MD	8	discourse	_	O
+7	I	I	PRP	_	8	nsubj	_	O
+8	hate	hate	VBP	_	0	root	_	O
+9	pope	pope	NNP	pos2=NN	11	compound	_	O
+10	Francis	francis	NNP	_	11	compound	_	B-PERSON
+11	pope	pope	NNP	pos2=NN	14	compound	_	L-PERSON
+12	John	john	NNP	_	14	compound	_	B-PERSON
+13	Paul	paul	NNP	_	14	compound	_	I-PERSON
+14	II	ii	NNP	_	15	nsubj	_	L-PERSON
+15	was	be	VBD	_	8	ccomp	_	O
+16	awesome	awesome	JJ	_	15	acomp	_	O
+

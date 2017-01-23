@@ -1,0 +1,15 @@
+1	Colour	colour	NN	_	3	compound	_	O
+2	#	#	NN	pos2=-LRB-	3	compound	_	O
+3	3DPrinting	0dprinting	NN	pos2=ADD	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	en	en	FW	pos2=IN	6	advmod	_	O
+6	vogue	vogue	NN	pos2=FW	4	attr	_	O
+7	for	for	IN	_	6	prep	_	O
+8	luxury	luxury	NN	_	9	compound	_	O
+9	eyewear	eyewear	NN	_	10	compound	_	O
+10	makers	maker	NNS	_	7	pobj	_	O
+11	@Safilo1934	@safilo0	VBP	pos2=CD	14	dep	_	O
+12	:	:	:	_	14	punct	_	O
+13	https://t.co/4zZxozZzvg	#hlink#	ADD	_	14	nmod	_	O
+14	https://t.co/cDirIVdAEC	#hlink#	ADD	_	4	dep	_	U-ORG
+

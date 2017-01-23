@@ -1,0 +1,28 @@
+1	2	0	CD	_	2	nmod	_	U-CARDINAL
+2	students	student	NNS	_	0	root	_	O
+3	Haifa	haifa	NNP	pos2=RB	4	nsubj	_	U-GPE
+4	arrested	arrest	VBN	pos2=VBD	2	relcl	_	O
+5	:	:	:	_	2	punct	_	O
+6	#crime	#crime	UH	pos2=XX	7	discourse	_	O
+7	#HAMAS	#hamas	LS	pos2=NNS	2	appos	_	U-CARDINAL
+8	.	.	.	_	2	punct	_	O
+
+1	3	0	CD	_	2	nmod	_	U-CARDINAL
+2	helicoptersof	helicoptersof	NN	pos2=NNS	4	compound	_	O
+3	#Greece	#greece	NNP	pos2=FW	4	compound	_	U-ORG
+4	#help	#help	NN	pos2=XX	13	nsubj	_	O
+5	,	,	,	_	4	punct	_	O
+6	#Cyprus	#cyprus	NNP	pos2=NN	4	conj	_	U-GPE
+7	,	,	,	_	6	punct	_	O
+8	#Italy	#italy	NNP	pos2=XX	6	conj	_	U-GPE
+9	,	,	,	_	8	punct	_	O
+10	#Turkey	#turkey	NNP	pos2=CD	8	conj	_	U-GPE
+11	,	,	,	_	13	punct	_	O
+12	#Russia	#russia	NNP	_	13	nsubj	_	U-ORG
+13	sent	send	VBD	_	0	root	_	O
+14	helicopters	helicopter	NNS	_	13	dobj	_	O
+15	to	to	TO	_	16	aux	_	O
+16	help	help	VB	_	13	advcl	_	O
+17	#Israel	#israel	NNP	pos2=VB	16	dobj	_	U-GPE
+18	.	.	.	_	13	punct	_	O
+

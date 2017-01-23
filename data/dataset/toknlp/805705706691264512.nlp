@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det	_	O
+2	highest	high	JJS	_	3	nmod	_	O
+3	court	court	NN	_	9	nsubjpass	_	O
+4	in	in	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	land	land	NN	_	4	pobj	_	O
+7	is	be	VBZ	_	9	aux	_	O
+8	being	be	VBG	_	9	auxpass	_	O
+9	asked	ask	VBN	_	0	root	_	O
+10	to	to	TO	_	11	aux	_	O
+11	overturn	overturn	VB	_	9	xcomp	_	O
+12	a	a	DT	_	15	det	_	O
+13	High	high	NNP	pos2=JJ	14	compound	_	B-ORG
+14	Court	court	NNP	pos2=NN	15	compound	_	L-ORG
+15	ruling	ruling	NN	pos2=VBG	11	dobj	_	O
+16	https://t.co/aWqVEWRWKR	#hlink#	ADD	pos2=NN	15	acl	_	O
+

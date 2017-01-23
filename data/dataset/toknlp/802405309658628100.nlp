@@ -1,0 +1,21 @@
+1	Steve	steve	NNP	_	2	compound	_	B-PERSON
+2	Bannon	bannon	NNP	_	4	poss	_	I-PERSON
+3	's	's	POS	_	2	case	_	L-PERSON
+4	Face	face	NNP	pos2=NN	5	nsubj	_	O
+5	Was	be	VBD	pos2=NNP	0	root	_	O
+6	on	on	IN	_	5	prep	_	O
+7	an	an	DT	_	8	det	_	O
+8	Ad	ad	NN	pos2=NNP	6	pobj	_	O
+9	on	on	IN	_	8	prep	_	O
+10	Pornhub	pornhub	NNP	_	9	pobj	_	U-ORG
+11	How	how	WRB	pos2=NNP	15	advmod	_	O
+12	Will	will	MD	_	15	aux	_	O
+13	I	I	PRP	_	15	nsubj	_	O
+14	Ever	ever	RB	_	15	advmod	_	O
+15	Feel	feel	VB	pos2=NNP	20	ccomp	_	O
+16	Desire	desire	NNP	_	15	dobj	_	B-WORK_OF_ART
+17	Again	again	RB	_	15	advmod	_	I-WORK_OF_ART
+18	:	:	:	_	20	punct	_	I-WORK_OF_ART
+19	An	an	DT	_	20	det	_	I-WORK_OF_ART
+20	Autobiography	autobiography	NN	pos2=NNP	0	root	_	L-WORK_OF_ART
+

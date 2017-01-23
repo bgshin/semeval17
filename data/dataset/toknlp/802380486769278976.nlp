@@ -1,0 +1,18 @@
+1	Did	do	VBD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	take	take	VB	_	0	root	_	O
+4	long	long	JJ	pos2=RB	3	advmod	_	O
+5	for	for	IN	_	12	mark	_	O
+6	the	the	DT	_	10	det	_	O
+7	Clinton	clinton	NNP	_	8	compound	_	U-PERSON
+8	Foindation	foindation	NNP	_	10	compound	_	O
+9	money	money	NN	_	10	compound	_	O
+10	train	train	NN	_	12	nsubj	_	O
+11	to	to	TO	_	12	aux	_	O
+12	derail	derail	VB	_	3	advcl	_	O
+13	.	.	.	_	3	punct	_	O
+
+1	Zero	#crd#	CD	pos2=NNP	2	nmod	_	U-CARDINAL
+2	Hedge	hedge	NN	pos2=NNP	3	dep	_	O
+3	https://t.co/HHLJDEgb3n	#hlink#	ADD	pos2=NN	0	root	_	O
+

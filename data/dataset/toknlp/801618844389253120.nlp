@@ -1,0 +1,18 @@
+1	#Protests	#protests	NNS	pos2=NNP	3	compound	_	O
+2	—	-	HYPH	pos2=SYM	3	punct	_	O
+3	Brooks	brooks	NNP	_	6	nsubj	_	O
+4	and	and	CC	_	3	cc	_	O
+5	Lamprecht	lamprecht	NNP	_	3	conj	_	U-PERSON
+6	are	be	VBP	_	0	root	_	O
+7	upset	upset	JJ	pos2=VBN	6	acomp	_	O
+8	at	at	IN	_	7	prep	_	O
+9	law	law	NN	_	10	compound	_	O
+10	enforcement	enforcement	NN	_	8	pobj	_	O
+11	for	for	IN	_	7	prep	_	O
+12	doing	do	VBG	_	11	pcomp	_	O
+13	its	its	PRP$	_	14	poss	_	O
+14	job	job	NN	_	12	dobj	_	O
+15	.	.	.	_	6	punct	_	O
+
+1	https://t.co/13Bn8wwBEq	#hlink#	ADD	_	0	root	_	U-ORG
+

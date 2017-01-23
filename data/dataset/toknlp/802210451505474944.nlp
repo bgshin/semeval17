@@ -1,0 +1,17 @@
+1	@FoxNews	@foxnews	NNS	pos2=ADD	3	compound	_	O
+2	@GeraldoRivera	@geraldorivera	NN	pos2=NNS	4	compound	_	O
+3	@FoxNewsInsider	@foxnewsinsider	NN	pos2=IN	4	compound	_	O
+4	Newsflash	newsflash	NN	pos2=NNP	9	dep	_	O
+5	:	:	:	_	9	punct	_	O
+6	the	the	DT	_	8	det	_	B-ORG
+7	Democratic	democratic	NNP	pos2=JJ	8	compound	_	I-ORG
+8	Party	party	NNP	_	9	nsubj	_	L-ORG
+9	won	win	VBD	_	0	root	_	O
+10	the	the	DT	_	12	det	_	O
+11	popular	popular	JJ	_	12	nmod	_	O
+12	vote	vote	NN	_	9	dobj	_	O
+13	by	by	IN	_	9	prep	_	O
+14	a	a	DT	_	15	det	_	O
+15	landslide	landslide	NN	_	13	pobj	_	O
+16	.	.	.	_	9	punct	_	O
+

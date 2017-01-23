@@ -1,0 +1,25 @@
+1	"	"	``	_	3	punct	_	O
+2	As	as	IN	pos2=PRP$	9	prep	_	O
+3	channel	channel	NN	_	2	pobj	_	O
+4	btwn	btwn	IN	_	3	prep	_	O
+5	east	east	NN	pos2=NNP	8	nmod	_	O
+6	&	&	CC	_	5	cc	_	O
+7	west	west	NN	pos2=RB	5	conj	_	O
+8	#Ukraine	#ukraine	NNP	pos2=NN	9	nsubj	_	O
+9	has	have	VBZ	_	0	root	_	O
+10	huge	huge	JJ	_	11	nmod	_	O
+11	potential	potential	NN	pos2=JJ	9	dobj	_	O
+12	as	as	IN	_	11	prep	_	O
+13	producer	producer	NN	_	12	pobj	_	O
+14	&	&	CC	_	13	cc	_	O
+15	hub	hub	NN	_	13	conj	_	O
+16	"	"	''	pos2=``	9	punct	_	O
+17	At	at	IN	_	9	prep	_	O
+18	business	business	NN	_	17	pobj	_	O
+19	roundtable	roundtable	JJ	pos2=NN	18	nmod	_	O
+20	w	w	IN	pos2=RB	19	prep	_	O
+21	@Poroshenko	@poroshenko	ADD	pos2=CD	20	pobj	_	O
+22	https://t.co/i6pNniQ9vv	#hlink#	ADD	pos2=NN	24	nmod	_	O
+23	/	/	SYM	pos2=HYPH	24	punct	_	O
+24	JL	jl	NN	pos2=NNP	20	pobj	_	O
+

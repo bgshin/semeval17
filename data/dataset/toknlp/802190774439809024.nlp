@@ -1,0 +1,10 @@
+1	Thanksgiving	thanksgiving	NNP	pos2=NN	4	nsubj	_	U-DATE
+2	will	will	MD	_	4	aux	_	O
+3	never	never	RB	_	4	neg	_	O
+4	be	be	VB	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	same	same	JJ	_	4	attr	_	O
+7	after	after	IN	_	4	prep	_	O
+8	#PilgrimRick	#pilgrimrick	NNP	pos2=ADD	7	pobj	_	B-NORP
+9	#ThisIsUs	#thisisus	ADD	pos2=NN	4	punct	_	L-NORP
+

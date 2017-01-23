@@ -1,0 +1,12 @@
+1	Iraqi	iraqi	JJ	_	3	nmod	_	B-ORG
+2	Air	air	NNP	pos2=NN	3	compound	_	L-ORG
+3	forces	force	NNS	_	4	nsubj	_	O
+4	kill	kill	VBP	_	0	root	_	O
+5	dozens	dozen	NNS	_	4	dobj	_	U-CARDINAL
+6	of	of	IN	_	5	prep	_	O
+7	#ISIS	#isis	NN	pos2=NNP	8	compound	_	O
+8	#	#	NN	pos2=-LRB-	6	pobj	_	O
+9	ام_الربيعين_تجمعنا#mosul#mosulop#mosulops#mosuloffensive#iraq	ام_الربيعين_تجمعنا#mosul#mosulop#mosulops#mosuloffensive#iraq	GW	pos2=XX	11	nmod	_	U-MONEY
+10	…	…	NFP	pos2=GW	11	punct	_	O
+11	https://t.co/4C4r3kj6F4	#hlink#	ADD	pos2=NN	4	dobj	_	O
+

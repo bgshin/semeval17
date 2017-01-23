@@ -1,0 +1,24 @@
+1	Thank	thank	VBP	_	0	root	_	O
+2	you	you	PRP	_	1	dobj	_	O
+3	,	,	,	_	1	punct	_	O
+4	@BurgerKing	@burgerking	VBG	pos2=UH	1	vocative	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	Thanks	thanks	NN	pos2=NNS	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	caring	care	VBG	_	2	pcomp	_	O
+4	about	about	IN	_	3	prep	_	O
+5	me	me	PRP	_	4	pobj	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	know	know	VBP	_	0	root	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	do	do	VBP	_	2	ccomp	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	#BFFF	#bfff	NN	pos2=ADD	4	compound	_	O
+2	#BestFastFoodFriend	#bestfastfoodfriend	NN	pos2=ADD	3	compound	_	O
+3	#Whoppers4Days	#whoppers0days	NNS	pos2=XX	4	compound	_	O
+4	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=ADD	0	root	_	U-DATE
+

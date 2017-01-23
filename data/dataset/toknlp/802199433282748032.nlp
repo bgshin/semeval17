@@ -1,0 +1,26 @@
+1	Can	can	MD	_	3	aux	_	O
+2	we	we	PRP	_	3	nsubj	_	O
+3	stop	stop	VB	_	0	root	_	O
+4	with	with	IN	_	3	prep	_	O
+5	the	the	DT	_	10	det	_	O
+6	Alt	alt	NNP	pos2=JJ	8	compound	_	O
+7	-	-	HYPH	_	8	punct	_	O
+8	right	right	JJ	_	10	compound	_	O
+9	bull	bull	NN	_	10	compound	_	O
+10	shit	shit	NN	_	4	pobj	_	O
+11	?!	?!	.	_	3	punct	_	O
+
+1	Y'all	y'all	PRP	pos2=NN	2	nsubj	_	O
+2	are	be	VBP	_	6	ccomp	_	O
+3	racist	racist	JJ	_	2	acomp	_	O
+4	,	,	,	_	6	punct	_	O
+5	y'all	y'all	PRP	_	6	nsubj	_	O
+6	are	be	VBP	_	0	root	_	O
+7	white	white	JJ	_	8	nmod	_	O
+8	supremacists	supremacist	NNS	_	6	attr	_	O
+9	,	,	,	_	11	punct	_	O
+10	y'all	y'all	PRP	_	11	nsubj	_	O
+11	are	be	VBP	_	6	conj	_	O
+12	TRASH	trash	NN	pos2=NNP	11	attr	_	O
+13	!	!	.	_	11	punct	_	O
+

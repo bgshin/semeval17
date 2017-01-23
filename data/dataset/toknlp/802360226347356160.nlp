@@ -1,0 +1,21 @@
+1	"	"	``	_	3	punct	_	O
+2	Net	net	JJ	_	3	nmod	_	O
+3	neutrality	neutrality	NN	_	5	nsubj	_	O
+4	"	"	''	_	3	punct	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	form	form	NN	_	5	attr	_	O
+8	of	of	IN	_	7	prep	_	O
+9	"	"	``	_	11	punct	_	O
+10	crony	crony	NN	pos2=JJ	11	compound	_	O
+11	capitalism	capitalism	NN	_	8	pobj	_	O
+12	"	"	''	_	11	punct	_	O
+13	according	accord	VBG	_	5	prep	_	O
+14	to	to	IN	_	13	prep	_	O
+15	potential	potential	JJ	_	17	nmod	_	O
+16	FCC	fcc	NNP	pos2=JJ	17	compound	_	U-ORG
+17	appointees	appointee	NNS	_	14	pobj	_	O
+18	:	:	:	_	20	punct	_	O
+19	https://t.co/2eWlOV07VG	#hlink#	ADD	pos2=NN	20	nmod	_	O
+20	https://t.co/jnQV8DQIEc	#hlink#	ADD	_	0	root	_	U-ORG
+

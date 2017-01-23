@@ -1,0 +1,22 @@
+1	There	there	EX	_	2	expl	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	massive	massive	JJ	_	4	nmod	_	O
+4	#evil	#evil	NN	pos2=NNS	2	attr	_	O
+5	in	in	IN	_	4	prep	_	O
+6	this	this	DT	_	7	det	_	O
+7	world	world	NN	_	5	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	It	it	PRP	_	4	nsubjpass	_	O
+2	is	be	VBZ	_	4	aux	_	O
+3	being	be	VBG	_	4	auxpass	_	O
+4	perpetuated	perpetuate	VBN	_	0	root	_	O
+5	through	through	IN	_	4	prep	_	O
+6	indoctrination	indoctrination	NN	_	5	pobj	_	O
+7	by	by	IN	_	4	agent	_	O
+8	terrorist	terrorist	JJ	_	9	nmod	_	O
+9	entities	entity	NNS	_	7	pobj	_	O
+10	like	like	IN	pos2=VBP	9	prep	_	O
+11	…	…	NFP	pos2=-LRB-	10	pobj	_	O
+12	https://t.co/cjElN3ZVR2	#hlink#	ADD	pos2=NN	10	pobj	_	O
+

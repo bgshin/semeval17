@@ -1,0 +1,29 @@
+1	@eieioink	@eieioink	UH	pos2=VB	4	discourse	_	O
+2	@megynkelly	@megynkelly	UH	pos2=RB	4	discourse	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	12	ccomp	_	O
+5	one	#crd#	CD	_	6	nmod	_	U-CARDINAL
+6	thing	thing	NN	_	4	attr	_	O
+7	to	to	TO	_	8	aux	_	O
+8	disagree	disagree	VB	_	6	relcl	_	O
+9	,	,	,	_	12	punct	_	O
+10	another	another	DT	_	12	nsubj	_	O
+11	to	to	TO	_	12	aux	_	O
+12	be	be	VB	_	0	root	_	O
+13	hateful	hateful	JJ	_	12	acomp	_	O
+14	.	.	.	_	12	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	saw	see	VBD	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	latter	latter	JJ	pos2=NN	2	dobj	_	O
+5	in	in	IN	_	2	prep	_	O
+6	my	my	PRP$	_	7	poss	_	O
+7	mentions	mention	NNS	_	5	pobj	_	O
+8	after	after	IN	_	10	mark	_	O
+9	she	she	PRP	_	10	nsubj	_	O
+10	quoted	quote	VBD	_	2	advcl	_	O
+11	my	my	PRP$	_	12	poss	_	O
+12	tweet	tweet	NN	_	10	dobj	_	O
+13	.	.	.	_	2	punct	_	O
+

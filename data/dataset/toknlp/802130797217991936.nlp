@@ -1,0 +1,20 @@
+1	Jammin	jammin	NNP	pos2=VBG	16	nsubj	_	U-PERSON
+2	out	out	RP	pos2=RB	1	prt	_	O
+3	to	to	IN	_	1	prep	_	O
+4	Ricky	ricky	NNP	_	11	compound	_	B-PERSON
+5	Martin	martin	NNP	_	11	compound	_	I-PERSON
+6	-	-	HYPH	_	11	punct	_	I-PERSON
+7	livin	livin	NNP	pos2=NN	11	compound	_	I-PERSON
+8	la	la	NNP	pos2=FW	11	compound	_	I-PERSON
+9	Vida	vida	NNP	_	11	compound	_	I-PERSON
+10	Loca	loca	NNP	_	11	compound	_	L-PERSON
+11	#NP	#np	NNP	pos2=XX	3	pobj	_	O
+12	on	on	IN	_	1	prep	_	O
+13	@PZR91	@pzr0	NN	pos2=NNP	12	pobj	_	O
+14	FM	fm	NNP	pos2=FW	16	nsubj	_	O
+15	Now	now	RB	_	16	advmod	_	O
+16	hiring	hire	VBG	pos2=NN	0	root	_	O
+17	!	!	.	_	16	punct	_	O
+
+1	https://t.co/BgrIb4egzo	#hlink#	ADD	_	0	root	_	U-ORG
+

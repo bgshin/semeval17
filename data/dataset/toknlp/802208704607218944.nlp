@@ -1,0 +1,26 @@
+1	@srumcakes	@srumcakes	UH	pos2=NNS	3	discourse	_	O
+2	@megynkelly	@megynkelly	TO	pos2=UH	3	aux	_	O
+3	watch	watch	VB	pos2=VBP	0	root	_	O
+4	her	her	PRP	pos2=PRP$	3	dobj	_	O
+5	every	every	DT	_	6	det	_	B-TIME
+6	night	night	NN	_	3	npadvmod	_	L-TIME
+7	!	!	.	_	3	punct	_	O
+
+1	Love	love	VB	pos2=VBP	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	way	way	NN	_	1	dobj	_	O
+4	she	she	PRP	_	5	nsubj	_	O
+5	challenges	challenge	VBZ	_	3	relcl	_	O
+6	people	people	NNS	_	5	dobj	_	O
+7	,	,	,	_	12	punct	_	O
+8	presents	present	VBZ	_	5	conj	_	O
+9	stories	story	NNS	_	8	dobj	_	O
+10	,	,	,	_	11	punct	_	O
+11	stays	stay	VBZ	pos2=VB	8	conj	_	O
+12	objective	objective	JJ	pos2=NN	11	acomp	_	O
+13	.	.	.	_	11	punct	_	O
+
+1	True	true	JJ	_	2	nmod	_	O
+2	journalism	journalism	NN	_	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+

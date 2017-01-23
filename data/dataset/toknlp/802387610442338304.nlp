@@ -1,0 +1,16 @@
+1	@BBCBreaking	@bbcbreaking	VBG	pos2=UH	4	punct	_	O
+2	THEY	they	PRP	_	4	nsubj	_	O
+3	SHOULD	should	MD	_	4	aux	_	O
+4	DECLARE	declare	VB	_	0	root	_	O
+5	IT	it	PRP	_	4	dobj	_	O
+6	AN	an	DT	_	8	det	_	O
+7	INTERNATIONAL	international	JJ	pos2=NNP	8	nmod	_	O
+8	HOLIDAY	holiday	NNP	pos2=NN	4	attr	_	O
+9	!	!	.	_	4	punct	_	O
+
+1	Next	next	RB	pos2=JJ	2	advmod	_	O
+2	up	up	NN	pos2=RP	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	George	george	NNP	_	5	compound	_	B-PERSON
+5	Soros.#2016IsMagical	soros.0ismagical	NNP	pos2=.	0	root	_	L-PERSON
+

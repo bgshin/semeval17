@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det	_	O
+2	Dogon	dogon	NNP	pos2=NNPS	3	nsubj	_	U-NORP
+3	Speak	speak	VBP	pos2=NNP	0	root	_	O
+4	on	on	IN	_	3	prep	_	O
+5	Being	be	VBG	pos2=NNP	4	pcomp	_	O
+6	Happy	happy	JJ	pos2=NNP	5	acomp	_	O
+7	,	,	,	_	6	punct	_	O
+8	Diet	diet	NNP	pos2=NN	6	conj	_	U-ORG
+9	and	and	CC	_	8	cc	_	O
+10	Vegetarianism	vegetarianism	NNP	pos2=NN	8	conj	_	O
+11	https://t.co/GJt95lb9i5	#hlink#	ADD	_	3	dep	_	O
+

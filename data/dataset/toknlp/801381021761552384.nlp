@@ -1,0 +1,27 @@
+1	Donald	donald	NNP	_	2	compound	_	B-PERSON
+2	trump	trump	NN	pos2=FW	4	nmod	_	L-PERSON
+3	_	_	''	pos2=SYM	4	punct	_	O
+4	melania	melania	NN	_	6	nsubj	_	O
+5	might	might	MD	_	6	aux	_	O
+6	be	be	VB	_	0	root	_	O
+7	mad	mad	JJ	_	6	acomp	_	O
+8	after	after	IN	_	7	prep	_	O
+9	joke	joke	NN	pos2=VBG	8	pobj	_	O
+10	about	about	IN	pos2=RB	9	prep	_	O
+11	michelle	michelle	NN	pos2=NNP	12	compound	_	O
+12	obama	obama	NN	pos2=FW	13	compound	_	O
+13	speech	speech	NN	_	10	pobj	_	O
+14	[	[	-LRB-	_	15	punct	_	O
+15	video	video	NN	_	13	appos	_	O
+16	]	]	-RRB-	_	15	punct	_	O
+17	chf	chf	JJ	pos2=NN	20	nmod	_	O
+18	usd	usd	NN	pos2=FW	20	compound	_	O
+19	exchange	exchange	NN	_	20	compound	_	O
+20	rate	rate	NN	_	21	compound	_	O
+21	Trump	trump	NNP	pos2=NN	22	nsubj	_	U-ORG
+22	prompted	prompt	VBD	_	6	advcl	_	O
+23	the	the	DT	_	24	det	_	O
+24	round	round	NN	pos2=JJ	22	dobj	_	O
+25	of	of	IN	pos2=RB	24	prep	_	O
+26	...	..	.	pos2=NFP	22	punct	_	O
+

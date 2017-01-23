@@ -1,0 +1,28 @@
+1	#nodapl	#nodapl	UH	pos2=XX	5	discourse	_	O
+2	Few	few	JJ	pos2=NNP	4	nmod	_	O
+3	Dems	dems	NNPS	pos2=NNP	4	compound	_	U-NORP
+4	hv	hv	NN	pos2=RB	5	nsubj	_	O
+5	stood	stand	VBD	_	0	root	_	O
+6	up	up	RP	_	5	prt	_	O
+7	for	for	IN	_	5	prep	_	O
+8	us	us	PRP	_	7	pobj	_	O
+9	,	,	,	_	5	punct	_	O
+10	thus	thus	RB	pos2=CC	12	advmod	_	O
+11	silently	silently	RB	_	12	advmod	_	O
+12	supporting	support	VBG	_	5	advcl	_	O
+13	th	th	JJ	pos2=RP	15	nmod	_	O
+14	GOP	gop	NNP	_	15	compound	_	U-ORG
+15	bigots	bigot	NNS	_	17	poss	_	O
+16	'	'	POS	pos2=``	15	case	_	O
+17	views	view	NNS	_	12	dobj	_	O
+18	&	&	CC	_	17	cc	_	O
+19	actions	action	NNS	_	17	conj	_	O
+20	.	.	.	_	5	punct	_	O
+
+1	Cowardice	cowardice	NN	pos2=NNP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	unforgivable	unforgivable	JJ	_	2	acomp	_	O
+4	in	in	IN	_	2	prep	_	O
+5	such	such	JJ	_	6	nmod	_	O
+6	situations	situation	NNS	_	4	pobj	_	O
+

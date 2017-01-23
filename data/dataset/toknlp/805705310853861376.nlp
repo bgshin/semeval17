@@ -1,0 +1,12 @@
+1	"	"	``	_	4	punct	_	O
+2	They	they	PRP	_	4	nsubj	_	O
+3	're	be	VBP	_	4	aux	_	O
+4	doing	do	VBG	_	0	root	_	O
+5	everything	everything	NN	_	4	dobj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	overthrow	overthrow	VB	_	4	advcl	_	O
+8	Brexit	brexit	NNP	pos2=GW	7	dobj	_	U-PERSON
+9	"	"	GW	pos2=''	11	punct	_	O
+10	https://t.co/PkKwFOI5nq	#hlink#	ADD	pos2=GW	11	nmod	_	O
+11	https://t.co/oGCpkx9TIR	#hlink#	ADD	_	7	dobj	_	U-ORG
+

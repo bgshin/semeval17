@@ -1,0 +1,13 @@
+1	Breaking	break	VBG	pos2=NN	2	nmod	_	O
+2	News	news	NN	pos2=NNP	5	dep	_	O
+3	:	:	:	_	7	punct	_	O
+4	MSM	msm	NN	pos2=NNP	5	nsubj	_	O
+5	confused	confused	JJ	pos2=VBD	0	root	_	O
+6	Michael	michael	NNP	_	7	compound	_	B-PERSON
+7	Moore	moore	NNP	_	5	dobj	_	L-PERSON
+8	for	for	IN	_	5	prep	_	O
+9	Hillary	hillary	NNP	_	8	pobj	_	U-PERSON
+10	in	in	IN	pos2=GW	5	prep	_	O
+11	story	story	NN	_	10	pobj	_	O
+12	https://t.co/Htf4rdREXh	#hlink#	ADD	_	11	npadvmod	_	U-WORK_OF_ART
+

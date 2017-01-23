@@ -1,0 +1,22 @@
+1	#WVIAPublicMedia	#wviapublicmedia	NNP	pos2=ADD	2	compound	_	O
+2	Trump	trump	NNP	pos2=NN	4	poss	_	U-ORG
+3	's	's	POS	_	2	case	_	O
+4	Rejection	rejection	NNP	pos2=NN	7	nsubj	_	B-ORG
+5	Of	of	IN	pos2=CC	4	prep	_	I-ORG
+6	TPP	tpp	NNP	_	5	pobj	_	L-ORG
+7	Paves	pave	VBZ	_	0	root	_	O
+8	Way	way	NNP	pos2=NN	7	dobj	_	O
+9	For	for	IN	_	12	mark	_	O
+10	China	china	NNP	_	12	nsubj	_	U-GPE
+11	To	to	TO	pos2=NNP	12	aux	_	O
+12	Strike	strike	VB	_	8	relcl	_	O
+13	Asian	asian	NNP	pos2=JJ	15	compound	_	B-ORG
+14	Trade	trade	NNP	pos2=NN	15	compound	_	I-ORG
+15	Deals	deal	NNPS	pos2=NNS	12	dobj	_	L-ORG
+16	.	.	.	_	7	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	Blog	blog	NN	pos2=NNP	1	dobj	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/gSUt1HjiME	#hlink#	ADD	pos2=NN	1	dep	_	O
+

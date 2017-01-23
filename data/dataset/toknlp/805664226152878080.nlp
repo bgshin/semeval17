@@ -1,0 +1,8 @@
+1	@GeorgeTakei	@georgetakei	``	pos2=NNP	3	punct	_	O
+2	Perfect	perfect	JJ	_	3	nmod	_	O
+3	argument	argument	NN	_	0	root	_	O
+4	against	against	IN	_	3	prep	_	O
+5	Electoral	electoral	NNP	pos2=JJ	6	compound	_	B-ORG
+6	College	college	NNP	_	4	pobj	_	L-ORG
+7	!	!	.	_	3	punct	_	O
+

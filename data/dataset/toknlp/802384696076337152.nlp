@@ -1,0 +1,22 @@
+1	But	but	CC	_	20	cc	_	O
+2	that	that	DT	pos2=IN	4	det	_	O
+3	specific	specific	JJ	_	4	nmod	_	O
+4	point	point	NN	_	20	nsubj	_	O
+5	she	she	PRP	_	6	nsubj	_	O
+6	made	make	VBD	_	4	relcl	_	O
+7	,	,	,	_	6	punct	_	O
+8	out	out	IN	_	6	prep	_	O
+9	of	of	IN	_	8	prep	_	O
+10	frustration	frustration	NN	_	9	pobj	_	O
+11	with	with	IN	_	10	prep	_	O
+12	leftists	leftist	NNS	_	11	pobj	_	O
+13	,	,	,	_	12	punct	_	O
+14	liberals	liberal	NNS	_	12	conj	_	O
+15	,	,	,	_	14	punct	_	O
+16	and	and	CC	_	14	cc	_	O
+17	conservatives	conservative	NNS	_	14	conj	_	O
+18	alike	alike	RB	_	12	advmod	_	O
+19	,	,	,	_	20	punct	_	O
+20	stands	stand	VBZ	pos2=NNS	0	root	_	O
+21	.	.	.	_	20	punct	_	O
+

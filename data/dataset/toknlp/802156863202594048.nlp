@@ -1,0 +1,12 @@
+1	Touc	touc	-LRB-	pos2=NNP	2	punct	_	O
+2	hinghttps://t.co/fJMm8bjPyF#P2	#hlink#	ADD	_	0	root	_	O
+3	#tcot	#tcot	-RRB-	pos2=IN	2	punct	_	O
+4	#sgp	#sgp	UH	pos2=-RRB-	2	discourse	_	O
+5	#mtv	#mtv	UH	pos2=FW	2	discourse	_	O
+6	#uniteblue	#uniteblue	UH	pos2=IN	2	discourse	_	O
+7	#jcot	#jcot	UH	pos2=PRP	2	discourse	_	O
+8	#teaparty	#teaparty	UH	pos2=FW	2	discourse	_	O
+9	#progressive	#progressive	UH	pos2=VB	2	discourse	_	O
+10	#fyi	#fyi	UH	pos2=FW	2	discourse	_	O
+11	#left	#left	UH	pos2=NN	2	discourse	_	O
+

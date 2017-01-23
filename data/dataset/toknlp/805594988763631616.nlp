@@ -1,0 +1,12 @@
+1	Cristiano	cristiano	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	8	nmod	_	L-PERSON
+3	On	on	IN	_	2	prep	_	O
+4	Instagram	instagram	NNP	pos2=NN	3	pobj	_	U-ORG
+5	:	:	:	_	8	punct	_	O
+6	Bed	bed	NN	pos2=NNP	8	nmod	_	O
+7	time👌🔝💋good	time👌🔝💋good	''	pos2=JJ	8	punct	_	B-TIME
+8	night	night	NN	_	0	root	_	L-TIME
+9	.	.	.	_	8	punct	_	O
+
+1	https://t.co/1RpIMrbTqJ	#hlink#	ADD	_	0	root	_	U-ORG
+

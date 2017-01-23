@@ -1,0 +1,26 @@
+1	@cdvargas2	@cdvargas0	NN	pos2=UH	4	vocative	_	O
+2	it	it	PRP	_	4	nsubjpass	_	O
+3	's	's	VBZ	_	4	auxpass	_	O
+4	called	call	VBN	_	6	csubj	_	O
+5	Hillary	hillary	NNP	_	4	oprd	_	U-PERSON
+6	was	be	VBD	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	criminal	criminal	JJ	pos2=NN	6	attr	_	O
+9	and	and	CC	pos2=NN	6	cc	_	O
+10	tried	try	VBD	pos2=VBN	6	conj	_	O
+11	to	to	TO	_	12	aux	_	O
+12	rig	rig	VB	_	10	xcomp	_	O
+13	the	the	DT	_	14	det	_	O
+14	election	election	NN	_	12	dobj	_	O
+15	.	.	.	_	6	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	dems	dems	NNS	pos2=NNPS	5	nsubj	_	O
+3	did	do	VBD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	vote	vote	VB	_	0	root	_	O
+6	as	as	IN	_	5	prep	_	O
+7	a	a	DT	_	8	det	_	O
+8	protest	protest	NN	_	6	pobj	_	O
+9	.	.	.	_	5	punct	_	O
+

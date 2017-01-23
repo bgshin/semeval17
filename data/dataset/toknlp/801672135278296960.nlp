@@ -1,0 +1,16 @@
+1	@DavidDJJames	@daviddjjames	NNS	pos2=ADD	3	nsubj	_	O
+2	@utahjazz	@utahjazz	UH	pos2=XX	3	discourse	_	O
+3	@BYUbasketball	@byubasketball	VBP	pos2=XX	0	root	_	O
+4	losing	lose	VBG	_	3	xcomp	_	O
+5	their	their	PRP$	_	6	poss	_	O
+6	cool	cool	JJ	pos2=NN	4	dobj	_	O
+7	because	because	IN	_	10	mark	_	O
+8	the	the	DT	_	9	det	_	O
+9	refs	ref	NNS	pos2=NN	10	nsubj	_	O
+10	are	be	VBP	_	3	advcl	_	O
+11	one	#crd#	CD	_	12	advmod	_	O
+12	sided	sided	JJ	pos2=FW	10	acomp	_	O
+13	.	.	.	_	3	punct	_	O
+
+1	😡	😡	SYM	pos2=NFP	0	root	_	U-ORG
+

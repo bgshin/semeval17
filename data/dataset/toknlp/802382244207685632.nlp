@@ -1,0 +1,27 @@
+1	The	the	DT	_	4	det	_	O
+2	farther	far	RBR	pos2=RB	3	advmod	_	O
+3	left	left	JJ	pos2=VBD	4	nmod	_	O
+4	dems	dems	NNS	pos2=PRP	5	nsubj	_	O
+5	go	go	VBP	pos2=VB	0	root	_	O
+6	,	,	,	_	11	punct	_	O
+7	the	the	DT	_	8	advmod	_	O
+8	more	more	RBR	pos2=JJR	4	appos	_	O
+9	they	they	PRP	_	11	nsubj	_	O
+10	will	will	MD	_	11	aux	_	O
+11	lose	lose	VB	_	8	relcl	_	O
+12	.	.	.	_	5	punct	_	O
+
+1	Americans	american	NNPS	pos2=NNS	2	nsubj	_	U-NORP
+2	r	r	VBP	pos2=VB	0	root	_	O
+3	on	on	IN	pos2=RP	2	prep	_	O
+4	to	to	IN	_	3	prep	_	O
+5	their	their	PRP$	_	9	poss	_	O
+6	victim	victim	NN	_	8	compound	_	O
+7	/	/	HYPH	pos2=SYM	8	punct	_	O
+8	identity	identity	NN	_	9	compound	_	O
+9	game	game	NN	_	4	pobj	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	#MAGA	#maga	NN	pos2=NFP	2	dep	_	O
+2	https://t.co/sQPIIfOBIU	#hlink#	ADD	pos2=NN	0	root	_	O
+

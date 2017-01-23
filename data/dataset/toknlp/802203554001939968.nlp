@@ -1,0 +1,18 @@
+1	@Falmeezar	@falmeezar	NNP	pos2=XX	3	compound	_	B-ORG
+2	@PMcLoone	@pmcloone	ADD	pos2=NN	3	det	_	L-ORG
+3	@TheOnlyDJQualls	@theonlydjqualls	NNS	pos2=ADD	4	nsubj	_	O
+4	@realDonaldTrump	@realdonaldtrump	VBP	pos2=IN	0	root	_	O
+5	no	no	DT	_	6	det	_	O
+6	trump	trump	NN	_	8	nsubj	_	O
+7	is	be	VBZ	_	8	aux	_	O
+8	pushing	push	VBG	_	4	ccomp	_	O
+9	to	to	TO	_	10	aux	_	O
+10	get	get	VB	_	8	xcomp	_	O
+11	rid	rid	VBN	pos2=JJ	10	acomp	_	O
+12	of	of	IN	_	11	prep	_	O
+13	most	most	JJS	pos2=RBS	15	nmod	_	O
+14	those	those	DT	_	15	det	_	O
+15	fools	fool	NNS	_	12	pobj	_	O
+16	hence	hence	RB	_	17	advmod	_	O
+17	#draintheswamp	#draintheswamp	VBP	pos2=.	4	conj	_	O
+

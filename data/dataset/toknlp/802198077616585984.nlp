@@ -1,0 +1,11 @@
+1	Color	color	VB	pos2=NN	0	root	_	O
+2	me	me	PRP	_	1	dobj	_	O
+3	shocked	shocked	JJ	pos2=VBN	1	oprd	_	O
+4	!	!	.	_	1	punct	_	O
+
+1	#MAGA	#maga	NN	pos2=ADD	5	nmod	_	O
+2	#DrainTheSwamp	#draintheswamp	GW	pos2=ADD	5	nmod	_	O
+3	#FakeNews	#fakenews	GW	pos2=NNS	5	nmod	_	U-MONEY
+4	#DishonestMedia	#dishonestmedia	GW	pos2=ADD	5	nmod	_	O
+5	https://t.co/Q8ebE5OPne	#hlink#	ADD	pos2=NN	0	root	_	O
+

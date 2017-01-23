@@ -1,0 +1,19 @@
+1	Deep	deep	JJ	pos2=NNP	2	nmod	_	O
+2	Learning	learning	NN	pos2=NNP	4	compound	_	O
+3	#Robot	#robot	NNP	pos2=NN	4	compound	_	O
+4	Kit	kit	NN	pos2=NNP	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	A.I.	a.i.	NNP	_	7	compound	_	B-ORG
+7	#Research	#research	NNP	pos2=:	5	pobj	_	L-ORG
+8	.	.	.	_	4	punct	_	O
+
+1	#BigData	#bigdata	ADD	pos2=NN	9	dep	_	O
+2	#DeepLearning	#deeplearning	VBG	pos2=ADD	9	dep	_	O
+3	#MachineLearning	#machinelearning	VBG	pos2=ADD	2	xcomp	_	O
+4	#DataScience	#datascience	ADD	pos2=NN	9	dep	_	B-ORG
+5	#AI	#ai	NNP	pos2=$	9	nmod	_	I-ORG
+6	#CUDA	#cuda	NNP	pos2=GW	9	nmod	_	L-ORG
+7	#cuDNN	#cudnn	GW	pos2=ADD	9	nmod	_	O
+8	…	…	NFP	pos2=GW	9	punct	_	O
+9	https://t.co/XGUxP5jZRU	#hlink#	ADD	_	0	root	_	O
+

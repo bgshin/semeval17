@@ -1,0 +1,22 @@
+1	you	you	PRP	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	read	read	VB	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	last	last	JJ	_	6	nmod	_	O
+6	tweets	tweet	NNS	_	3	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	disappeared	disappeared	JJ	pos2=VBN	10	nmod	_	O
+10	girl	girl	NN	_	7	pobj	_	O
+11	from	from	IN	_	10	prep	_	O
+12	Aleppo	aleppo	NNP	_	11	pobj	_	U-GPE
+13	#BanaAlabed	#banaalabed	VBN	pos2=NNP	14	auxpass	_	O
+14	re-published	re-published	VBN	_	3	advcl	_	O
+15	by	by	IN	_	14	agent	_	O
+16	@MatthiasMeisner	@matthiasmeisner	NNP	pos2=NN	15	pobj	_	U-ORG
+17	.	.	.	_	3	punct	_	O
+
+1	#AlabedBana	#alabedbana	NN	pos2=ADD	2	compound	_	O
+2	#WhereisBana	#whereisbana	NN	pos2=ADD	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+

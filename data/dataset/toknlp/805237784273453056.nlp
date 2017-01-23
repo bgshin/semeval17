@@ -1,0 +1,22 @@
+1	La	la	NNP	pos2=DT	3	nmod	_	U-GPE
+2	top	top	JJ	pos2=NN	3	nmod	_	O
+3	model	model	NN	_	14	dep	_	O
+4	'	'	''	pos2=POS	3	punct	_	O
+5	plus	plus	CC	pos2=NN	7	advmod	_	O
+6	-	-	HYPH	_	7	punct	_	O
+7	sized	sized	JJ	pos2=VBN	3	nmod	_	O
+8	'	'	POS	pos2=''	7	case	_	O
+9	Ashley	ashley	NNP	_	11	compound	_	B-PERSON
+10	Graham	graham	NNP	_	11	compound	_	I-PERSON
+11	tiene	tiene	NN	pos2=FW	14	dep	_	I-PERSON
+12	su	su	FW	pos2=XX	14	dep	_	I-PERSON
+13	propia	propia	FW	_	14	dep	_	I-PERSON
+14	barbie	barbie	FW	pos2=NN	0	root	_	L-PERSON
+15	!	!	.	_	14	punct	_	O
+
+1	https://t.co/r0oGyXkZoa	#hlink#	ADD	_	0	root	_	O
+2	#lifestyle	#lifestyle	IN	pos2=-RRB-	1	prep	_	O
+3	#plussize	#plussize	UH	pos2=GW	2	discourse	_	O
+4	…	…	NFP	pos2=-LRB-	2	pobj	_	O
+5	https://t.co/QwsTqXB1wS	#hlink#	ADD	_	2	pobj	_	O
+

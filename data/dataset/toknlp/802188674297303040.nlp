@@ -1,0 +1,17 @@
+1	Tesla	tesla	NNP	_	3	compound	_	B-ORG
+2	Model	model	NNP	pos2=NN	3	compound	_	I-ORG
+3	S	s	NNP	pos2=NN	6	nsubjpass	_	L-ORG
+4	can	can	MD	_	6	aux	_	O
+5	be	be	VB	_	6	auxpass	_	O
+6	located	locate	VBN	_	0	root	_	O
+7	,	,	,	_	6	punct	_	O
+8	unlocked	unlock	VBN	pos2=JJ	6	conj	_	O
+9	,	,	,	_	8	punct	_	O
+10	stolen	steal	VBN	_	8	conj	_	O
+11	by	by	IN	_	10	prep	_	O
+12	manipulating	manipulate	VBG	_	11	pcomp	_	O
+13	Tesla	tesla	NNP	_	14	compound	_	U-ORG
+14	apps	app	NNS	pos2=GW	12	dobj	_	O
+15	https://t.co/HufN8hxt1t	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/rlknpXssjZ	#hlink#	ADD	_	13	appos	_	U-ORG
+

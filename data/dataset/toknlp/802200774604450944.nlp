@@ -1,0 +1,7 @@
+1	#ThisIsUs	#thisisus	NNS	pos2=NN	0	root	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	've	have	VBP	_	4	aux	_	O
+4	bawled	bawl	VBN	_	1	relcl	_	O
+5	every	every	DT	_	6	det	_	O
+6	episode	episode	NN	_	4	dobj	_	O
+

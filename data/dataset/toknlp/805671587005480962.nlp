@@ -1,0 +1,12 @@
+1	How	how	WRB	_	2	advmod	_	O
+2	Medical	medical	JJ	pos2=NNP	3	nmod	_	O
+3	Marijuana	marijuana	NNP	_	5	nsubj	_	O
+4	Could	could	MD	_	5	aux	_	O
+5	Combat	combat	VB	_	0	root	_	O
+6	the	the	DT	_	8	det	_	O
+7	Opioid	opioid	JJ	pos2=NNP	8	nmod	_	O
+8	Crisis	crisis	NN	pos2=NNP	5	dobj	_	O
+9	https://t.co/tonyFs8QXZ	#hlink#	ADD	_	11	nmod	_	O
+10	…	…	NFP	pos2=-LRB-	11	punct	_	O
+11	https://t.co/t979aJOZw3	#hlink#	ADD	pos2=NN	5	dep	_	O
+

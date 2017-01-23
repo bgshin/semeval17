@@ -1,0 +1,27 @@
+1	@Boogie2988	@boogie0	NN	pos2=XX	21	nsubjpass	_	O
+2	although	although	IN	_	5	mark	_	O
+3	it	it	PRP	_	5	nsubj	_	O
+4	'd	would	MD	_	5	aux	_	O
+5	be	be	VB	_	8	advcl	_	O
+6	extra	extra	JJ	pos2=RB	7	nmod	_	O
+7	nice	nice	JJ	pos2=NN	5	acomp	_	O
+8	is	be	VBZ	pos2=IN	0	root	_	O
+9	Maduro	maduro	NNP	_	8	attr	_	U-PERSON
+10	(	(	-LRB-	_	9	punct	_	O
+11	president	president	NN	_	9	appos	_	O
+12	of	of	IN	_	11	prep	_	O
+13	Venezuela	venezuela	NNP	_	12	pobj	_	U-GPE
+14	,	,	,	_	11	punct	_	O
+15	where	where	WRB	_	17	advmod	_	O
+16	i	I	PRP	_	17	nsubj	_	O
+17	live	live	VBP	_	9	relcl	_	O
+18	)	)	-RRB-	_	9	punct	_	O
+19	could	could	MD	_	21	aux	_	O
+20	be	be	VB	_	21	auxpass	_	O
+21	included	include	VBN	_	0	root	_	O
+22	in	in	IN	_	21	prep	_	O
+23	that	that	DT	_	24	det	_	O
+24	pack	pack	NN	_	22	pobj	_	O
+25	with	with	IN	_	21	prep	_	O
+26	Fidel	fidel	NNP	_	25	pobj	_	U-PERSON
+

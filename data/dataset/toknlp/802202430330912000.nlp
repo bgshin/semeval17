@@ -1,0 +1,17 @@
+1	When	when	WRB	_	3	advmod	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	make	make	VBP	pos2=VB	6	advcl	_	O
+4	opponents	opponent	NNS	_	6	nsubj	_	O
+5	publicly	publicly	RB	_	6	advmod	_	O
+6	apologize	apologize	VBP	pos2=VB	0	root	_	O
+7	....	..	.	pos2=,	6	punct	_	O
+
+1	well	well	UH	pos2=RB	8	discourse	_	O
+2	#YoureAFacist	#youreafacist	ADD	pos2=UH	8	nmod	_	U-NORP
+3	#MangoMussolini	#mangomussolini	NNS	pos2=ADD	4	compound	_	O
+4	#democrats	#democrats	NNS	pos2=UH	5	nsubj	_	O
+5	#CalExit	#calexit	VBP	pos2=GW	2	ccomp	_	O
+6	#HumanRights	#humanrights	NNS	pos2=GW	5	dobj	_	O
+7	…	…	NFP	pos2=-LRB-	8	punct	_	O
+8	https://t.co/mkgHBajmpg	#hlink#	ADD	pos2=NN	0	root	_	O
+

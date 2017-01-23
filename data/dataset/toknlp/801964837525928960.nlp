@@ -1,0 +1,25 @@
+1	@NancyPelosi	@nancypelosi	NNS	pos2=ADD	2	nsubj	_	O
+2	@SenSchumer	@senschumer	VBP	pos2=ADD	0	root	_	O
+3	@elizabethforma	@elizabethforma	UH	pos2=IN	2	discourse	_	O
+4	Why	why	WRB	_	7	advmod	_	O
+5	are	be	VBP	_	7	aux	_	O
+6	we	we	PRP	_	7	nsubj	_	O
+7	allowing	allow	VBG	_	2	ccomp	_	O
+8	Russia	russia	NNP	_	10	nsubj	_	U-GPE
+9	to	to	TO	_	10	aux	_	O
+10	run	run	VB	_	7	ccomp	_	O
+11	our	our	PRP$	_	12	poss	_	O
+12	country	country	NN	_	10	dobj	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	Trump	trump	NN	pos2=NNP	2	nsubj	_	U-PERSON
+2	is	be	VBZ	_	0	root	_	O
+3	unfit	unfit	JJ	_	2	acomp	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	This	this	DT	_	3	nsubj	_	O
+2	will	will	MD	_	3	aux	_	O
+3	g	g	VB	pos2=GW	0	root	_	O
+4	…	…	NFP	pos2=:	3	discourse	_	O
+5	https://t.co/Bb147nCl7J	#hlink#	ADD	_	3	dep	_	O
+

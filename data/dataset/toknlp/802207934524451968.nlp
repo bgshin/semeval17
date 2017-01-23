@@ -1,0 +1,18 @@
+1	Dr.	dr.	NNP	_	2	compound	_	O
+2	Love	love	NNP	_	7	poss	_	U-WORK_OF_ART
+3	’s	's	POS	_	2	case	_	O
+4	5	0	CD	_	6	nmod	_	U-CARDINAL
+5	-	-	HYPH	pos2=:	6	punct	_	O
+6	Step	step	NN	pos2=NNP	7	compound	_	O
+7	Recipe	recipe	NN	pos2=NNP	0	root	_	O
+8	for	for	IN	_	7	prep	_	O
+9	Romance	romance	NNP	_	8	pobj	_	U-PERSON
+10	on	on	IN	_	7	prep	_	O
+11	Valentine	valentine	NNP	_	13	poss	_	B-DATE
+12	’s	's	POS	_	11	case	_	I-DATE
+13	Day	day	NNP	_	10	pobj	_	L-DATE
+14	and	and	CC	_	10	cc	_	O
+15	Beyond	beyond	IN	pos2=GW	10	conj	_	O
+16	https://t.co/19JAgQIJGV	#hlink#	ADD	_	15	pobj	_	O
+17	https://t.co/pCZsYRa2Pd	#hlink#	ADD	_	15	pobj	_	U-ORG
+

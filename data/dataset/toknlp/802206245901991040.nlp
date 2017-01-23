@@ -1,0 +1,27 @@
+1	@MAGA00036	@maga0	NN	pos2=-LRB-	2	dep	_	O
+2	Thank	thank	VBP	pos2=NNP	0	root	_	O
+3	-	-	HYPH	pos2=:	2	punct	_	O
+4	You	you	PRP	pos2=NNP	2	dobj	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	Let	let	VB	_	0	root	_	O
+2	's	's	PRP	pos2=VBZ	4	nsubj	_	O
+3	all	all	DT	_	4	det	_	O
+4	work	work	NN	pos2=VBP	19	nsubj	_	O
+5	as	as	IN	_	4	prep	_	O
+6	a	a	DT	_	7	det	_	O
+7	Team	team	NNP	pos2=NN	5	pobj	_	U-ORG
+8	to	to	TO	_	9	aux	_	O
+9	keep	keep	VB	_	4	advcl	_	O
+10	the	the	DT	_	14	det	_	O
+11	@mike_pence	@mike_pence	NNP	pos2=NN	13	compound	_	O
+12	-	-	HYPH	_	13	punct	_	O
+13	@realDonaldTrump	@realdonaldtrump	NNP	pos2=``	14	compound	_	O
+14	Movement	movement	NNP	pos2=NN	9	dobj	_	O
+15	"	"	''	pos2=``	14	punct	_	O
+16	America	america	NNP	_	17	compound	_	O
+17	First	#ord#	NNP	pos2=RB	14	appos	_	O
+18	"	"	''	pos2=``	19	punct	_	O
+19	STRONG	strong	JJ	pos2=NNP	1	ccomp	_	O
+20	.	.	.	_	1	punct	_	O
+

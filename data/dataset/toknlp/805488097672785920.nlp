@@ -1,0 +1,15 @@
+1	Ashley	ashley	NNP	_	2	compound	_	B-PERSON
+2	Graham	graham	NNP	_	3	nsubj	_	L-PERSON
+3	Shows	show	VBZ	pos2=NNP	0	root	_	O
+4	Off	off	IN	pos2=RP	3	prep	_	O
+5	Her	her	PRP$	_	7	poss	_	O
+6	Killer	killer	NNP	pos2=NN	7	compound	_	O
+7	Curves	curve	NNS	pos2=NNP	4	pobj	_	O
+8	in	in	IN	_	3	prep	_	O
+9	a	a	DT	_	12	det	_	O
+10	Sexy	sexy	JJ	pos2=NNP	12	nmod	_	O
+11	Lace	lace	NN	pos2=NNP	12	compound	_	O
+12	LBD	lbd	NN	pos2=GW	8	pobj	_	O
+13	https://t.co/RPTYDsgBoZ	#hlink#	ADD	pos2=NN	14	nmod	_	O
+14	https://t.co/U2He4aF6H7	#hlink#	ADD	_	12	appos	_	U-ORG
+

@@ -1,0 +1,28 @@
+1	@fishytaste	@fishytaste	UH	pos2=XX	3	discourse	_	O
+2	@_	@_	NFP	pos2=:	3	punct	_	O
+3	JessicaDavies	jessicadavies	VBZ	pos2=NNP	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	populist	populist	JJ	pos2=NN	6	nmod	_	O
+6	swing	swing	NN	_	7	nsubj	_	O
+7	is	be	VBZ	_	10	auxpass	_	O
+8	definitely	definitely	RB	_	7	advmod	_	O
+9	not	not	RB	_	10	neg	_	O
+10	done	do	VBN	_	3	ccomp	_	O
+11	yet	yet	RB	_	10	advmod	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	France	france	NNP	_	3	nsubj	_	U-GPE
+2	next	next	RB	pos2=JJ	3	advmod	_	O
+3	one	#crd#	CD	pos2=NN	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	keep	keep	VB	_	3	xcomp	_	O
+6	an	an	DT	_	7	det	_	O
+7	eye	eye	NN	_	5	dobj	_	O
+8	on	on	IN	pos2=RP	5	prt	_	O
+9	,	,	,	_	13	punct	_	O
+10	Marine	marine	NNP	pos2=JJ	12	compound	_	B-ORG
+11	Le	le	NNP	_	12	compound	_	I-ORG
+12	Pen	pen	NNP	_	13	nsubj	_	L-ORG
+13	looking	look	VBG	_	8	parataxis	_	O
+14	ominous	ominous	JJ	_	13	acomp	_	O
+

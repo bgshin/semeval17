@@ -1,0 +1,17 @@
+1	@socialrrajan	@socialrrajan	UH	pos2=ADD	8	discourse	_	O
+2	@Richasharma0971	@richasharma0	NN	pos2=CD	8	npadvmod	_	O
+3	@steve_hanke	@steve_hanke	UH	pos2=POS	8	discourse	_	O
+4	@roy5ankar	@roy0ankar	CD	pos2=NN	6	nmod	_	U-CARDINAL
+5	factory	factory	NN	_	6	compound	_	O
+6	owner	owner	NN	_	8	nsubj	_	O
+7	were	be	VBD	_	8	aux	_	O
+8	flaunting	flaunt	VBG	_	0	root	_	O
+9	Minimum	minimum	JJ	pos2=NNP	10	nmod	_	O
+10	wage	wage	NN	_	8	dobj	_	O
+11	now	now	RB	_	8	advmod	_	O
+12	what	what	WP	pos2=WDT	14	dobj	_	O
+13	either	either	CC	pos2=DT	14	preconj	_	O
+14	paying	pay	VBG	_	8	conj	_	O
+15	by	by	IN	_	14	prep	_	O
+16	cheque	cheque	NN	_	15	pobj	_	O
+

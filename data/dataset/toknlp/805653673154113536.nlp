@@ -1,0 +1,27 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	law	law	NN	_	2	attr	_	O
+5	placed	place	VBN	_	4	acl	_	O
+6	to	to	TO	_	7	aux	_	O
+7	overturn	overturn	VB	_	5	advcl	_	O
+8	the	the	DT	_	11	det	_	O
+9	Denton	denton	NNP	_	11	compound	_	O
+10	Fracking	fracking	NNP	_	11	compound	_	O
+11	Ban	ban	NNP	pos2=NN	7	dobj	_	O
+12	(	(	-LRB-	_	11	punct	_	O
+13	tx	tx	NN	pos2=NNP	11	appos	_	O
+14	)	)	-RRB-	_	11	punct	_	O
+15	,	,	,	_	11	punct	_	O
+16	that	that	WDT	_	19	nsubj	_	O
+17	did	do	VBD	_	19	aux	_	O
+18	n't	not	RB	_	19	neg	_	O
+19	let	let	VB	_	11	relcl	_	O
+20	fracking	fracking	VBG	pos2=NN	19	xcomp	_	O
+21	around	around	IN	pos2=RP	20	prep	_	O
+22	schools	school	NNS	_	21	pobj	_	O
+23	or	or	CC	_	22	cc	_	O
+24	where	where	WRB	_	26	advmod	_	O
+25	people	people	NNS	_	26	nsubj	_	O
+26	live	live	VBP	_	20	relcl	_	O
+

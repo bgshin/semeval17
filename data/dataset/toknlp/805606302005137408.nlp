@@ -1,0 +1,9 @@
+1	11	0	CD	pos2=LS	4	nmod	_	U-CARDINAL
+2	Most	most	RBS	pos2=NNP	3	advmod	_	O
+3	Inspirational	inspirational	JJ	pos2=NNP	4	nmod	_	O
+4	Quotes	quote	NNS	pos2=NNPS	0	root	_	O
+5	From	from	IN	_	4	prep	_	O
+6	Muhammad	muhammad	NNP	_	7	compound	_	O
+7	Ali	ali	NNP	_	5	pobj	_	O
+8	https://t.co/NoSZg9oxee#Leadership	#hlink#	ADD	pos2=NNP	4	appos	_	O
+

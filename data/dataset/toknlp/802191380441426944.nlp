@@ -1,0 +1,16 @@
+1	Book	book	NN	pos2=VB	6	nsubj	_	O
+2	about	about	IN	_	1	prep	_	O
+3	killing	kill	VBG	_	2	pcomp	_	O
+4	gentile	gentile	JJ	pos2=NN	5	nmod	_	O
+5	children	child	NNS	_	3	dobj	_	O
+6	becomes	become	VBZ	_	0	root	_	O
+7	bestseller	bestseller	NN	pos2=JJR	6	attr	_	O
+8	in	in	IN	_	7	prep	_	O
+9	Israel	israel	NNP	_	11	dep	_	U-GPE
+10	-	-	HYPH	pos2=:	11	punct	_	O
+11	https://t.co/kzsYsYCkKN	#hlink#	ADD	pos2=NNP	15	nmod	_	O
+12	#gaza	#gaza	-RRB-	pos2=IN	11	punct	_	O
+13	#palestine	#palestine	UH	pos2=PRP	6	discourse	_	O
+14	#israel	#israel	UH	pos2=VB	15	discourse	_	O
+15	#BDS	#bds	NNS	pos2=UH	6	attr	_	O
+

@@ -1,0 +1,25 @@
+1	Tesla	tesla	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	released	release	VBD	pos2=VBN	0	root	_	O
+3	inside	inside	IN	pos2=JJ	2	prep	_	O
+4	footage	footage	NN	_	3	pobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	Model	model	NNP	pos2=NN	9	poss	_	O
+8	S	s	POS	pos2=NNP	7	case	_	O
+9	views	view	NNS	pos2=NN	5	pobj	_	O
+10	when	when	WRB	_	11	advmod	_	O
+11	in	in	IN	_	2	advcl	_	O
+12	autopilot	autopilot	NN	_	13	compound	_	O
+13	mode	mode	NN	_	11	pobj	_	O
+14	.	.	.	_	2	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	're	be	VBP	_	0	root	_	O
+3	definitely	definitely	RB	_	2	advmod	_	O
+4	several	several	JJ	_	5	nmod	_	O
+5	steps	step	NNS	_	6	npadvmod	_	O
+6	closer	close	RBR	pos2=JJR	2	advmod	_	O
+7	to	to	IN	pos2=TO	6	prep	_	O
+8	…	…	NFP	pos2=-LRB-	7	pobj	_	O
+9	https://t.co/JZl54rOr91	#hlink#	ADD	pos2=NN	2	dep	_	O
+

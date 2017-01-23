@@ -1,0 +1,26 @@
+1	If	if	IN	_	3	mark	_	O
+2	You	you	PRP	_	3	nsubj	_	O
+3	Want	want	VBP	_	14	advcl	_	O
+4	Gun	gun	NNP	_	5	compound	_	O
+5	Control	control	NNP	pos2=NN	7	nsubj	_	O
+6	So	so	RB	pos2=NNP	7	advmod	_	O
+7	Bad	bad	JJ	pos2=NNP	3	ccomp	_	O
+8	,	,	,	_	14	punct	_	O
+9	Why	why	WRB	pos2=NNP	14	advmod	_	O
+10	Do	do	VBP	_	14	aux	_	O
+11	n't	not	RB	_	14	neg	_	O
+12	You	you	PRP	_	14	nsubj	_	O
+13	Just	just	RB	pos2=NNP	14	advmod	_	O
+14	Move	move	VBP	pos2=VB	0	root	_	O
+15	to	to	IN	_	14	prep	_	O
+16	the	the	DT	_	18	det	_	O
+17	South	south	NNP	pos2=JJ	18	compound	_	O
+18	Side	side	NNP	pos2=NN	15	pobj	_	O
+19	of	of	IN	_	18	prep	_	O
+20	Chicago	chicago	NNP	_	19	pobj	_	U-GPE
+21	?	?	.	_	14	punct	_	O
+
+1	-	-	SYM	pos2=NFP	3	punct	_	O
+2	>	>	SYM	pos2=-LRB-	3	punct	_	O
+3	https://t.co/nH8egJnxIf	#hlink#	ADD	pos2=NN	0	root	_	O
+

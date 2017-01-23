@@ -1,0 +1,23 @@
+1	@rafalhill	@rafalhill	UH	pos2=MD	5	discourse	_	O
+2	@DumpTrump22	@dumptrump0	NN	pos2=UH	5	npadvmod	_	O
+3	they	they	PRP	_	5	nsubj	_	O
+4	will	will	MD	_	5	aux	_	O
+5	pay	pay	VB	_	0	root	_	O
+6	for	for	IN	_	5	prep	_	O
+7	this	this	DT	_	6	pobj	_	O
+8	on	on	IN	_	5	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	backs	back	NNS	_	8	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	senior	senior	JJ	_	14	nmod	_	O
+14	citizens	citizen	NNS	_	11	pobj	_	O
+15	medicare	medicare	VBP	pos2=NN	13	conj	_	O
+16	services	service	NNS	_	15	dobj	_	O
+17	.	.	.	_	5	punct	_	O
+
+1	Shame	shame	NN	pos2=VB	0	root	_	O
+2	on	on	IN	_	1	prep	_	O
+3	them	them	PRP	_	2	pobj	_	O
+4	.	.	.	_	1	punct	_	O
+

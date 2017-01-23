@@ -1,0 +1,31 @@
+1	@	@	SYM	_	2	punct	_	O
+2	18Winning	0winning	VBG	pos2=NN	0	root	_	O
+3	@Parker_Pan	@parker_pan	ADD	pos2=MD	4	det	_	O
+4	Judge	judge	NNP	pos2=VB	2	vocative	_	O
+5	a	a	DT	_	6	det	_	O
+6	tree	tree	NN	_	2	dobj	_	O
+7	by	by	IN	_	2	prep	_	O
+8	its	its	PRP$	_	9	poss	_	O
+9	fruit	fruit	NN	_	7	pobj	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	Swamp	swamp	NN	pos2=NNP	2	nsubj	_	O
+2	filled	fill	VBN	_	0	root	_	O
+3	with	with	IN	_	2	prep	_	O
+4	"	"	``	pos2=NNS	3	punct	_	O
+5	say	say	VB	pos2=VBP	3	pcomp	_	O
+6	1	0	CD	_	7	nmod	_	U-CARDINAL
+7	thing	thing	NN	_	5	dobj	_	O
+8	&	&	CC	_	5	cc	_	O
+9	do	do	VB	pos2=VBP	5	conj	_	O
+10	another	another	DT	_	9	dobj	_	O
+11	"	"	''	pos2=``	3	punct	_	O
+12	&	&	CC	_	2	cc	_	O
+13	a	a	DT	_	15	det	_	O
+14	bipartisan	bipartisan	JJ	_	15	nmod	_	O
+15	issue	issue	NN	_	10	conj	_	O
+16	.	.	.	_	2	punct	_	O
+
+1	Must	must	MD	_	2	aux	_	O
+2	#DrainTheSwamp	#draintheswamp	VB	pos2=XX	0	root	_	O
+

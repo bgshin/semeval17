@@ -1,0 +1,14 @@
+1	#Saakashvili	#saakashvili	NN	pos2=NNS	2	nsubj	_	O
+2	appears	appear	VBZ	_	0	root	_	O
+3	to	to	TO	_	5	aux	_	O
+4	have	have	VB	_	5	aux	_	O
+5	abandoned	abandon	VBN	_	2	xcomp	_	O
+6	'	'	``	pos2=''	8	punct	_	O
+7	The	the	DT	_	8	det	_	O
+8	Wave	wave	NNP	pos2=NNPS	5	dobj	_	O
+9	'	'	''	_	8	punct	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	#Ukraine	#ukraine	ADD	pos2=-LRB-	2	punct	_	O
+2	https://t.co/sTv30SsSJ8	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

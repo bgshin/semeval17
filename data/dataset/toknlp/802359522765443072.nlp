@@ -1,0 +1,25 @@
+1	@SuzanneKelleher	@suzannekelleher	NN	pos2=ADD	6	nsubj	_	O
+2	@nytimes	@nytimes	UH	pos2=POS	6	discourse	_	O
+3	Reminder	reminder	NNP	pos2=NN	4	compound	_	O
+4	Florida	florida	NNP	_	6	nsubj	_	U-GPE
+5	has	have	VBZ	_	6	aux	_	O
+6	voted	vote	VBN	_	0	root	_	O
+7	twice	twice	RB	_	6	advmod	_	O
+8	for	for	IN	_	6	prep	_	O
+9	a	a	DT	_	12	det	_	O
+10	Con	con	NNP	pos2=NN	12	compound	_	U-ORG
+11	man	man	NN	_	12	compound	_	O
+12	Gov.	gov.	NNP	_	8	pobj	_	O
+13	who	who	WP	_	15	nsubjpass	_	O
+14	was	be	VBD	_	15	auxpass	_	O
+15	involved	involve	VBN	_	12	relcl	_	O
+16	in	in	IN	_	15	prep	_	O
+17	largest	large	JJS	_	20	nmod	_	O
+18	Medicare	medicare	NNP	pos2=NN	20	compound	_	U-ORG
+19	fraud	fraud	NN	_	20	compound	_	O
+20	case	case	NN	_	16	pobj	_	O
+21	in	in	IN	_	20	prep	_	O
+22	US	us	NNP	_	23	compound	_	U-GPE
+23	History	history	NN	pos2=NNP	21	pobj	_	O
+24	.	.	.	_	6	punct	_	O
+

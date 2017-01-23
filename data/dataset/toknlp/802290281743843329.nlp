@@ -1,0 +1,13 @@
+1	@ChristenePatti	@christenepatti	ADD	pos2=NNS	2	det	_	B-PERSON
+2	@TheTalkCBS	@thetalkcbs	NNP	pos2=VBZ	4	vocative	_	L-PERSON
+3	That	that	DT	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	why	why	WRB	_	7	advmod	_	O
+6	Melania	melania	NNP	_	7	nsubj	_	U-PERSON
+7	stole	steal	VBD	_	4	advcl	_	O
+8	Michelle	michelle	NNP	_	10	poss	_	U-PERSON
+9	's	's	POS	_	8	case	_	O
+10	speech	speech	NN	_	7	dobj	_	O
+11	,	,	,	_	12	punct	_	O
+12	right	right	JJ	pos2=UH	8	dep	_	O
+

@@ -1,0 +1,18 @@
+1	Is	be	VBZ	_	0	root	_	O
+2	this	this	DT	_	1	nsubj	_	O
+3	the	the	DT	_	7	det	_	O
+4	biggest	big	JJS	_	7	nmod	_	O
+5	cock	cock	NN	_	7	compound	_	O
+6	-	-	HYPH	_	7	punct	_	O
+7	up	up	NN	pos2=RP	1	attr	_	O
+8	in	in	IN	_	7	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	history	history	NN	_	8	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	homeopathy	homeopathy	NN	_	11	pobj	_	O
+13	?	?	.	_	1	punct	_	O
+
+1	https://t.co/itruuyceww	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@edzardernst	@edzardernst	NN	pos2=JJ	2	pobj	_	O
+

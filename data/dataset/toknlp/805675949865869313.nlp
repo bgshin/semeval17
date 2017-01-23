@@ -1,0 +1,12 @@
+1	#BaEyeSite	#baeyesite	NN	pos2=ADD	2	compound	_	O
+2	Glaucoma	glaucoma	NN	pos2=NNP	0	root	_	O
+3	and	and	CC	_	2	cc	_	O
+4	medical	medical	JJ	_	5	nmod	_	O
+5	marijuana	marijuana	NN	_	2	conj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	Blog	blog	NN	pos2=NNP	1	dobj	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/xZgpXZO7Q7	#hlink#	ADD	pos2=NN	1	dep	_	O
+

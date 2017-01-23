@@ -1,0 +1,26 @@
+1	(	(	-LRB-	_	2	punct	_	O
+2	Slideshow	slideshow	NN	pos2=VB	0	root	_	O
+3	)	)	-RRB-	_	2	punct	_	O
+4	the	the	DT	_	6	det	_	O
+5	unintended	unintended	JJ	_	6	nmod	_	O
+6	ways	way	NNS	_	2	dobj	_	O
+7	#SelfDrivingCars	#selfdrivingcars	NNS	pos2=WDT	9	nsubj	_	O
+8	will	will	MD	_	9	aux	_	O
+9	change	change	VB	_	6	relcl	_	O
+10	our	our	PRP$	_	11	poss	_	O
+11	lives	life	NNS	_	9	dobj	_	O
+12	-	-	:	pos2=NFP	17	punct	_	O
+13	https://t.co/4hXsJwVmep	#hlink#	ADD	pos2=NN	15	nmod	_	O
+14	$	$	$	pos2=-RRB-	15	nmod	_	O
+15	TSLA	tsla	NNP	pos2=NN	17	nmod	_	O
+16	$	$	$	pos2=-LRB-	17	nmod	_	O
+17	UBER	uber	NNP	_	19	nmod	_	O
+18	$	$	$	pos2=POS	19	nmod	_	O
+19	GM	gm	NNP	_	21	nmod	_	O
+20	$	$	$	pos2=POS	21	nmod	_	O
+21	F	f	NNP	pos2=CD	23	nmod	_	O
+22	$	$	$	pos2=HYPH	23	nmod	_	O
+23	BMW	bmw	NNP	_	25	nmod	_	O
+24	$	$	$	pos2=CD	25	nmod	_	O
+25	GOOG	goog	NNP	pos2=JJ	9	oprd	_	U-ORG
+

@@ -1,0 +1,26 @@
+1	@westminsterpal	@westminsterpal	JJ	pos2=UH	2	nmod	_	O
+2	ISRAHELL	israhell	NNP	pos2=NN	3	nsubj	_	U-ORG
+3	dropped	drop	VBD	_	0	root	_	O
+4	nuclear	nuclear	JJ	_	5	nmod	_	O
+5	bombs	bomb	NNS	_	3	dobj	_	O
+6	on	on	IN	_	3	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	yemen	yemen	NN	pos2=JJ	9	compound	_	O
+9	people	people	NNS	_	6	pobj	_	O
+10	in	in	IN	pos2=GW	3	prep	_	O
+11	may	may	MD	pos2=-LRB-	10	pobj	_	O
+12	2015.If	#hlink#	ADD	pos2=VB	20	nsubj	_	O
+13	you	you	PRP	_	14	nsubj	_	O
+14	are	be	VBP	_	20	ccomp	_	O
+15	any	any	DT	_	16	det	_	O
+16	sort	sort	NN	pos2=RB	14	attr	_	O
+17	of	of	IN	pos2=RB	16	prep	_	O
+18	a	a	DT	_	19	det	_	O
+19	man	man	NN	_	17	pobj	_	O
+20	condemn	condemn	VB	pos2=VBG	3	ccomp	_	O
+21	the	the	DT	_	23	det	_	O
+22	nazi	nazi	NN	pos2=JJ	23	compound	_	O
+23	zionists	zionist	NNS	pos2=NNPS	20	dobj	_	O
+24	now	now	RB	_	20	advmod	_	O
+25	.	.	.	_	3	punct	_	O
+

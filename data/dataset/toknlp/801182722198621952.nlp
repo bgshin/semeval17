@@ -1,0 +1,16 @@
+1	We	we	PRP	_	3	nsubj	_	O
+2	've	have	VBP	_	3	aux	_	O
+3	got	get	VBN	pos2=VBD	0	root	_	O
+4	photos	photo	NNS	_	3	dobj	_	O
+5	from	from	IN	_	4	prep	_	O
+6	the	the	DT	_	9	det	_	O
+7	#NBAwards	#nbawards	NNP	pos2=JJ	9	nmod	_	U-NORP
+8	red	red	JJ	pos2=VBD	9	nmod	_	O
+9	carpet	carpet	NN	_	5	pobj	_	O
+10	on	on	IN	_	3	prep	_	O
+11	our	our	PRP$	_	12	poss	_	O
+12	website	website	NN	_	10	pobj	_	O
+13	.	.	.	_	3	punct	_	O
+
+1	https://t.co/lcMEURzEI1	#hlink#	ADD	_	0	root	_	U-ORG
+

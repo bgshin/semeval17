@@ -1,0 +1,13 @@
+1	Its	its	PRP$	pos2=PRP	4	nsubjpass	_	O
+2	to	to	TO	_	4	aux	_	O
+3	be	be	VB	_	4	auxpass	_	O
+4	expected	expect	VBN	_	0	root	_	O
+5	from	from	IN	_	4	prep	_	O
+6	"	"	``	_	7	punct	_	O
+7	electing	elect	VBG	_	5	pcomp	_	O
+8	"	"	''	_	7	punct	_	O
+9	a	a	DT	_	11	det	_	O
+10	Fascist	fascist	NNP	pos2=JJ	12	nmod	_	U-NORP
+11	Nazi	nazi	NNP	pos2=GW	12	nmod	_	U-NORP
+12	https://t.co/KJ9yDBQpXo	#hlink#	ADD	pos2=NN	7	dobj	_	O
+

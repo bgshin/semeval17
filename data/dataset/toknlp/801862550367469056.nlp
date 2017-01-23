@@ -1,0 +1,17 @@
+1	discover	discover	VB	pos2=VBP	0	root	_	O
+2	ZERO	#crd#	CD	pos2=NNP	6	nmod	_	O
+3	TO	to	IN	pos2=TO	1	prep	_	O
+4	HERO	hero	NN	pos2=VB	3	pobj	_	O
+5	WINNING	win	VBG	_	6	nmod	_	O
+6	BLACKJACK	blackjack	NN	_	1	dobj	_	O
+7	..	..	.	pos2=,	1	punct	_	O
+
+1	#MINvsDET	#minvsdet	ADD	pos2=NN	4	prep	_	B-PERSON
+2	#BlackFriday	#blackfriday	NNP	pos2=ADD	1	pobj	_	L-PERSON
+3	#ATLatUTA	#atlatuta	ADD	pos2=GW	8	nmod	_	O
+4	#GoHabsGo	#gohabsgo	ADD	pos2=NNP	3	pobj	_	O
+5	#RealMadrid	#realmadrid	ADD	pos2=VBD	8	punct	_	O
+6	#Aqueduct	#aqueduct	NNP	pos2=ADD	8	nmod	_	U-GPE
+7	#FCBLive	#fcblive	ADD	pos2=XX	0	root	_	O
+8	#HipHopHarvest	#hiphopharvest	ADD	pos2=JJS	7	pobj	_	O
+

@@ -1,0 +1,18 @@
+1	Four	#crd#	CD	_	2	nmod	_	B-DATE
+2	years	year	NNS	_	3	npadvmod	_	I-DATE
+3	ago	ago	RB	_	5	advmod	_	L-DATE
+4	I	I	PRP	_	5	nsubj	_	O
+5	wrote	write	VBD	_	0	root	_	O
+6	this	this	DT	_	5	dobj	_	O
+7	about	about	IN	_	5	prep	_	O
+8	Misha	misha	NNP	_	7	pobj	_	U-PERSON
+9	.	.	.	_	5	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	pretty	pretty	RB	_	3	advmod	_	O
+3	much	much	RB	pos2=JJ	4	advmod	_	O
+4	stand	stand	VB	pos2=VBP	0	root	_	O
+5	by	by	IN	_	4	prep	_	O
+6	it	it	PRP	_	5	pobj	_	O
+7	https://t.co/bCBJvQzBXX	#hlink#	ADD	_	2	npadvmod	_	U-ORG
+

@@ -1,0 +1,23 @@
+1	Amnesty	amnesty	NNP	pos2=NN	2	compound	_	B-ORG
+2	Inter	inter	NNP	_	6	poss	_	I-ORG
+3	'	'	POS	pos2=''	2	case	_	L-ORG
+4	@amnesty	@amnesty	PRP$	pos2=JJ	6	poss	_	O
+5	latest	late	JJS	_	6	nmod	_	O
+6	report	report	NN	_	0	root	_	O
+7	on	on	IN	_	6	prep	_	O
+8	#Yemen	#yemen	NNP	pos2=NNS	7	pobj	_	U-ORG
+9	,	,	,	_	6	punct	_	O
+10	layied	layied	VBN	pos2=VBD	6	acl	_	O
+11	on	on	IN	_	10	prep	_	O
+12	biased	biased	JJ	_	13	nmod	_	O
+13	activists	activist	NNS	_	11	pobj	_	O
+14	,	,	,	_	6	punct	_	O
+15	turning	turn	VBG	_	6	acl	_	O
+16	people	people	NNS	_	15	dobj	_	O
+17	in	in	IN	_	16	prep	_	O
+18	#Taiz	#taiz	NNP	pos2=VBG	17	pobj	_	U-GPE
+19	from	from	IN	_	15	prep	_	O
+20	victims	victim	NNS	_	19	pobj	_	O
+21	into	into	IN	_	15	prep	_	O
+22	aggressors.@AmnestyUK	aggressors.@amnestyuk	NNP	pos2=.	21	pobj	_	O
+

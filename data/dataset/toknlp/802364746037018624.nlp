@@ -1,0 +1,23 @@
+1	New	new	JJ	pos2=NNP	2	nmod	_	O
+2	Poll	poll	NNP	pos2=NN	9	nsubj	_	O
+3	On	on	IN	_	2	prep	_	O
+4	Impact	impact	NNP	pos2=NN	3	pobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Hillary	hillary	NNP	_	8	poss	_	O
+7	's	's	POS	_	6	case	_	O
+8	Newly	newly	NNP	pos2=RB	5	pobj	_	O
+9	Revealed	reveal	VBD	pos2=VBN	0	root	_	O
+10	Emails	email	NNS	pos2=NNPS	9	dobj	_	O
+11	from	from	IN	_	10	prep	_	O
+12	Comey	comey	NNP	_	11	pobj	_	U-PERSON
+13	for	for	IN	_	10	prep	_	O
+14	Hillary	hillary	NNP	_	15	compound	_	B-PERSON
+15	Clinton	clinton	NNP	_	19	poss	_	I-PERSON
+16	's	's	POS	_	15	case	_	L-PERSON
+17	campaign	campaign	NN	pos2=JJ	19	compound	_	O
+18	vice	vice	NN	_	19	compound	_	O
+19	chairwoman	chairwoman	NN	_	13	pobj	_	O
+20	?	?	.	_	9	punct	_	O
+
+1	LNYHBT	lnyhbt	NN	pos2=NNP	0	root	_	O
+

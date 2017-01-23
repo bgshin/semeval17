@@ -1,0 +1,26 @@
+1	--	--	:	pos2=SYM	2	punct	_	O
+2	@GovMikeHuckabee	@govmikehuckabee	VB	pos2=IN	9	csubj	_	O
+3	your	your	PRP$	_	4	poss	_	O
+4	statement	statement	NN	_	2	dobj	_	O
+5	for	for	IN	_	8	mark	_	O
+6	Mitt	mitt	NNP	_	8	nsubj	_	U-PERSON
+7	to	to	TO	_	8	aux	_	O
+8	apologize	apologize	VB	_	2	advcl	_	O
+9	is	be	VBZ	_	0	root	_	O
+10	not	not	RB	_	9	neg	_	O
+11	a	a	DT	_	12	det	_	O
+12	qualifier	qualifier	NN	_	9	attr	_	O
+13	for	for	IN	_	12	prep	_	O
+14	him	him	PRP	_	13	pobj	_	O
+15	as	as	IN	_	21	mark	_	O
+16	SOS	sos	NNP	_	17	compound	_	B-PERSON
+17	Trump	trump	NNP	_	19	poss	_	I-PERSON
+18	's	's	POS	_	17	case	_	L-PERSON
+19	transition	transition	NN	_	21	nsubj	_	O
+20	is	be	VBZ	_	21	aux	_	O
+21	ASKING	ask	VBG	_	9	advcl	_	O
+22	its	its	PRP$	_	24	poss	_	O
+23	an	an	DT	_	24	det	_	O
+24	Insult	insult	NN	_	21	dobj	_	O
+25	.	.	.	_	9	punct	_	O
+

@@ -1,0 +1,22 @@
+1	@nYS_rHYMES	@nys_rhymes	NNS	pos2=VBZ	4	vocative	_	O
+2	lmao	lmao	IN	pos2=NN	1	prep	_	O
+3	Major	major	NNP	pos2=JJ	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	an	an	DT	_	7	det	_	O
+6	anime	anime	NN	_	7	compound	_	O
+7	robot	robot	NN	_	4	attr	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	Anime	anime	NN	pos2=NNP	2	compound	_	O
+2	characters	character	NNS	_	5	nsubjpass	_	O
+3	are	be	VBP	_	5	auxpass	_	O
+4	rarely	rarely	RB	_	5	advmod	_	O
+5	associated	associate	VBN	pos2=JJ	0	root	_	O
+6	with	with	IN	_	5	prep	_	O
+7	race	race	NN	_	6	pobj	_	O
+8	and	and	CC	_	7	cc	_	O
+9	robots	robot	NNS	_	7	conj	_	O
+10	have	have	VBP	_	5	conj	_	O
+11	no	no	DT	_	12	det	_	O
+12	race	race	NN	_	10	dobj	_	O
+

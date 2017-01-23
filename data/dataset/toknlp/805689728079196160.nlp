@@ -1,0 +1,9 @@
+1	Ashley	ashley	NNP	_	2	compound	_	B-PERSON
+2	Graham	graham	NNP	_	3	nsubj	_	L-PERSON
+3	squirts	squirt	VBZ	_	0	root	_	O
+4	all	all	RB	_	7	advmod	_	O
+5	over	over	IN	pos2=RP	3	prep	_	O
+6	guys	guy	NNS	_	5	pobj	_	O
+7	face	face	VBP	pos2=NN	3	ccomp	_	O
+8	https://t.co/UCtQGfxdue	#hlink#	ADD	pos2=NN	7	dobj	_	O
+

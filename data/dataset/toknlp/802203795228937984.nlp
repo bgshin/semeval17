@@ -1,0 +1,16 @@
+1	@vcutrader	@vcutrader	UH	pos2=NN	6	discourse	_	O
+2	@MrEdTrain	@mredtrain	ADD	pos2=NN	3	nmod	_	O
+3	@KellyannePolls	@kellyannepolls	NNS	pos2=ADD	6	nmod	_	O
+4	@realDonaldTrump	@realdonaldtrump	ADD	pos2=NN	3	cc	_	O
+5	@	@	SYM	pos2=IN	6	punct	_	O
+6	MittRomney	mittromney	NNP	pos2=NN	0	root	_	U-ORG
+7	.	.	.	_	6	punct	_	O
+
+1	WORSE	bad	JJR	_	0	root	_	O
+2	THAN	than	IN	_	1	prep	_	O
+3	DISGRACERomney	disgraceromney	NNP	pos2=JJ	6	poss	_	U-GPE
+4	#ReStockSwampBREAK	#restockswampbreak	POS	pos2=NNP	3	case	_	O
+5	PROMISE	promise	NN	pos2=NNP	6	compound	_	O
+6	#DrainTheSwamp	#draintheswamp	NN	pos2=:	2	pobj	_	O
+7	.	.	.	_	1	punct	_	O
+

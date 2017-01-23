@@ -1,0 +1,12 @@
+1	Please	please	UH	_	2	discourse	_	O
+2	share	share	VB	_	0	root	_	O
+3	@gregkulowiec	@gregkulowiec	XX	pos2=FW	2	dep	_	O
+4	@jpmmursd	@jpmmursd	FW	pos2=UH	11	dep	_	O
+5	@MASSCreative	@masscreative	XX	pos2=JJ	11	dep	_	O
+6	@massteacher	@massteacher	XX	pos2=UH	11	dep	_	O
+7	@MASCSchoolComm	@mascschoolcomm	XX	pos2=ADD	11	dep	_	O
+8	@NLGustafson	@nlgustafson	XX	pos2=GW	11	dep	_	O
+9	@elizabethforma	@elizabethforma	XX	pos2=GW	11	nmod	_	O
+10	…	…	NFP	pos2=XX	11	punct	_	O
+11	https://t.co/opN32OgyHf	#hlink#	ADD	_	2	dobj	_	O
+

@@ -1,0 +1,27 @@
+1	#victoriaderbyshire	#victoriaderbyshire	UH	pos2=VB	6	discourse	_	O
+2	#brexit	#brexit	IN	pos2=FW	6	prep	_	O
+3	noddle	noddle	JJ	pos2=NN	4	nmod	_	O
+4	heads	head	NNS	_	2	pobj	_	O
+5	should	should	MD	_	6	aux	_	O
+6	wait	wait	VB	_	0	root	_	O
+7	and	and	CC	_	6	cc	_	O
+8	see	see	VB	_	6	conj	_	O
+9	like	like	IN	pos2=UH	8	prep	_	O
+10	everyone	everyone	NN	_	9	pobj	_	O
+11	else	else	RB	_	10	advmod	_	O
+12	..	..	.	pos2=,	6	punct	_	O
+
+1	MPs	mp	NNS	_	3	nsubjpass	_	O
+2	are	be	VBP	_	3	auxpass	_	O
+3	elected	elect	VBN	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	do	do	VB	_	3	xcomp	_	O
+6	a	a	DT	_	7	det	_	O
+7	job	job	NN	_	5	dobj	_	O
+8	..	..	.	_	3	punct	_	O
+
+1	let	let	VB	pos2=VBD	0	root	_	O
+2	them	them	PRP	_	3	nsubj	_	O
+3	do	do	VB	_	1	ccomp	_	O
+4	it	it	PRP	_	3	dobj	_	O
+

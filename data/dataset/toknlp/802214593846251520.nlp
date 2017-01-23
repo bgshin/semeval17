@@ -1,0 +1,34 @@
+1	every	every	DT	_	2	det	_	O
+2	time	time	NN	_	11	npadvmod	_	O
+3	i	I	PRP	_	4	nsubj	_	O
+4	think	think	VBP	_	2	relcl	_	O
+5	about	about	IN	_	4	prep	_	O
+6	melania	melania	NN	pos2=NNP	8	poss	_	O
+7	's	's	POS	_	6	case	_	O
+8	speech	speech	NN	_	5	pobj	_	O
+9	i	I	PRP	_	10	nsubj	_	O
+10	die	die	VBP	_	11	aux	_	O
+11	laughing	laugh	VBG	_	0	root	_	O
+12	.	.	.	_	11	punct	_	O
+
+1	HELLO	hello	UH	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	*	*	SYM	_	5	punct	_	O
+2	airhorns*hello	airhorns*hello	UH	pos2=NN	5	discourse	_	O
+3	,	,	,	_	5	punct	_	O
+4	i	I	PRP	_	5	nsubj	_	O
+5	am	be	VBP	_	0	root	_	O
+6	proud	proud	JJ	_	5	acomp	_	O
+7	to	to	TO	pos2=IN	8	aux	_	O
+8	be	be	VB	_	6	xcomp	_	O
+9	-	-	HYPH	pos2=,	8	punct	_	O
+10	HELLO	hello	UH	pos2=NNP	8	discourse	_	O
+11	.	.	.	_	5	punct	_	O
+
+1	*	*	SYM	_	2	punct	_	O
+2	airhorns	airhorns	NNS	pos2=VBZ	0	root	_	O
+3	-*	-*	NFP	pos2=,	2	punct	_	O
+4	HELLO	hello	UH	_	2	discourse	_	O
+5	.	.	.	_	2	punct	_	O
+

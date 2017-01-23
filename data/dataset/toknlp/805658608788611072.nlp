@@ -1,0 +1,23 @@
+1	2MB	0mb	NN	_	2	compound	_	O
+2	blocks	block	NNS	pos2=VBZ	3	nsubj	_	O
+3	mirror	mirror	VBP	pos2=NN	12	ccomp	_	O
+4	minimum	minimum	JJ	pos2=NN	6	nmod	_	O
+5	wage	wage	NN	_	6	compound	_	O
+6	problem	problem	NN	_	3	dobj	_	O
+7	:	:	:	_	12	punct	_	O
+8	1	0	CD	_	10	nmod	_	U-CARDINAL
+9	-	-	HYPH	pos2=:	10	punct	_	O
+10	time	time	NN	_	11	compound	_	O
+11	increase	increase	NN	_	12	nsubj	_	O
+12	kicks	kick	VBZ	_	0	root	_	O
+13	the	the	DT	_	14	det	_	O
+14	can	can	MD	pos2=NN	15	aux	_	O
+15	down	down	VB	pos2=IN	12	conj	_	O
+16	the	the	DT	_	17	det	_	O
+17	road	road	NN	_	15	dobj	_	O
+18	vs	vs	CC	pos2=IN	15	cc	_	O
+19	indexing	indexing	NN	_	15	conj	_	O
+20	to	to	IN	pos2=TO	21	aux	_	O
+21	market#bitcoin	market#bitcoin	VB	pos2=ADD	17	relcl	_	O
+22	https://t.co/nKpckdbRw3	#hlink#	ADD	pos2=NN	21	dobj	_	U-ORG
+

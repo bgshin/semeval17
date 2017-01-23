@@ -1,0 +1,29 @@
+1	The	the	DT	_	2	det	_	O
+2	US	us	NNP	_	12	nsubj	_	U-GPE
+3	(	(	-LRB-	_	2	punct	_	O
+4	most	most	JJS	pos2=RBS	2	appos	_	O
+5	)	)	-RRB-	_	2	punct	_	O
+6	and	and	CC	_	2	cc	_	O
+7	rest	rest	NN	pos2=NNS	2	conj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	free	free	JJ	_	10	nmod	_	O
+10	thinking	thinking	NN	pos2=JJ	11	compound	_	O
+11	world	world	NN	_	8	pobj	_	O
+12	have	have	VBP	pos2=VB	0	root	_	O
+13	regrets	regret	NNS	pos2=VBZ	12	dobj	_	O
+14	over	over	IN	_	13	prep	_	O
+15	DJT	djt	NNP	pos2=NN	16	nsubj	_	U-ORG
+16	being	be	VBG	_	14	pcomp	_	O
+17	pres	pr	NNS	pos2=FW	16	attr	_	O
+18	elect	elect	VB	pos2=FW	12	ccomp	_	O
+19	.	.	.	_	12	punct	_	O
+
+1	What	what	WP	_	3	dobj	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	said	say	VBD	_	6	csubj	_	O
+4	on	on	IN	_	3	prep	_	O
+5	@elizabethforma	@elizabethforma	NN	pos2=NNP	4	pobj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	wrong	wrong	JJ	_	6	acomp	_	O
+8	@FactChek	@factchek	NN	pos2=.	3	npadvmod	_	O
+

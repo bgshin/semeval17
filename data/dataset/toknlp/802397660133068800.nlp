@@ -1,0 +1,29 @@
+1	@nytimes	@nytimes	NNS	pos2=UH	10	nsubj	_	O
+2	And	and	CC	_	1	cc	_	O
+3	in	in	IN	_	10	prep	_	O
+4	good	good	JJ	_	5	nmod	_	O
+5	news	news	NN	_	3	pobj	_	O
+6	tonight	tonight	NN	_	1	conj	_	U-TIME
+7	,	,	,	_	10	punct	_	O
+8	Fidel	fidel	NNP	_	9	compound	_	B-PERSON
+9	Castro	castro	NNP	_	10	nsubj	_	L-PERSON
+10	assumed	assume	VBD	_	0	root	_	O
+11	room	room	NN	_	12	compound	_	O
+12	temperature	temperature	NN	_	10	dobj	_	O
+13	.	.	.	_	10	punct	_	O
+
+1	Now	now	RB	pos2=UH	4	advmod	_	O
+2	we	we	PRP	_	4	nsubj	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	need	need	VBP	_	0	root	_	O
+5	his	his	PRP$	_	6	poss	_	O
+6	brother	brother	NN	_	4	dobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	Maduro	maduro	NNP	_	6	conj	_	U-PERSON
+9	to	to	TO	_	10	aux	_	O
+10	follow	follow	VB	_	4	advcl	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	Quickly	quickly	RB	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

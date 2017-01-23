@@ -1,0 +1,22 @@
+1	@OVOEdB0925	@ovoedb0	NN	pos2=NNS	3	discourse	_	O
+2	He	he	PRP	_	3	nsubj	_	O
+3	ai	be	VBZ	pos2=VBP	0	root	_	O
+4	n't	not	RB	_	3	neg	_	O
+5	nowhere	nowhere	RB	_	3	advmod	_	O
+6	...	..	.	pos2=:	3	punct	_	O
+
+1	As	as	IN	_	0	root	_	O
+2	usual	usual	JJ	_	1	pcomp	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	the	the	DT	_	6	det	_	O
+4	fragile	fragile	JJ	_	6	nmod	_	O
+5	Tony	tony	NNP	_	6	compound	_	B-PERSON
+6	Romo	romo	NNP	_	2	attr	_	L-PERSON
+7	of	of	IN	_	6	prep	_	O
+8	WR	wr	NNP	_	7	pobj	_	U-ORG
+9	's	's	POS	pos2=AFX	8	case	_	O
+10	.	.	.	_	2	punct	_	O
+

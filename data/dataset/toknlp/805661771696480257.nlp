@@ -1,0 +1,17 @@
+1	#Entertainment	#entertainment	ADD	pos2=NNP	16	dep	_	O
+2	#Buzz	#buzz	IN	pos2=NNP	1	prep	_	O
+3	ZAC	zac	NNP	_	4	nmod	_	O
+4	EFRON	efron	NNP	_	7	nmod	_	O
+5	HANDSOME	handsome	JJ	pos2=NNP	7	nmod	_	O
+6	BEEFCAKE	beefcake	NN	pos2=NNP	7	compound	_	O
+7	HUNK	hunk	NN	pos2=NNP	2	pobj	_	O
+8	IN	in	IN	_	7	prep	_	O
+9	UNDERWEAR	underwear	NN	_	8	pobj	_	O
+10	ON	on	IN	pos2=RB	7	prep	_	O
+11	SET	set	VBN	pos2=NN	14	nmod	_	O
+12	REAR	rear	JJ	pos2=NN	14	nmod	_	O
+13	CANDID	candid	JJ	_	14	nmod	_	O
+14	PHOTOGRAPH	photograph	NN	_	10	pobj	_	O
+15	…	…	NFP	pos2=:	16	punct	_	O
+16	https://t.co/lwkKbhNuiF	#hlink#	ADD	_	0	root	_	O
+

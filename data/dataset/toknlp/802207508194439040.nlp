@@ -1,0 +1,19 @@
+1	@AskCapitalOne	@askcapitalone	UH	pos2=ADD	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	'm	be	VBP	_	0	root	_	O
+4	an	an	DT	_	5	det	_	O
+5	investor	investor	NN	_	2	appos	_	O
+6	asking	ask	VBG	pos2=NN	5	acl	_	O
+7	are	be	VBP	_	9	aux	_	O
+8	you	you	PRP	_	9	nsubj	_	O
+9	supporting	support	VBG	_	3	ccomp	_	O
+10	the	the	DT	_	13	det	_	B-FAC
+11	Dakota	dakota	NNP	_	12	compound	_	I-FAC
+12	Access	access	NNP	pos2=NN	13	compound	_	I-FAC
+13	pipeline	pipeline	NN	_	9	dobj	_	L-FAC
+14	?	?	.	_	3	punct	_	O
+
+1	#nodapl	#nodapl	UH	pos2=XX	3	discourse	_	O
+2	#bankexit	#bankexit	UH	pos2=FW	3	discourse	_	O
+3	#istandwithstandingrock	#istandwithstandingrock	UH	pos2=.	0	root	_	O
+

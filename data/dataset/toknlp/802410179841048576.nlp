@@ -1,0 +1,34 @@
+1	Steve	steve	NNP	_	2	compound	_	O
+2	Bannon	bannon	NNP	_	5	dep	_	O
+3	-	-	HYPH	pos2=:	5	punct	_	O
+4	its	its	PRP$	_	5	poss	_	O
+5	okay	okay	JJ	pos2=NN	0	root	_	O
+6	for	for	IN	_	9	mark	_	O
+7	straights	straight	NNS	_	9	nsubj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	call	call	VB	_	5	advcl	_	O
+10	lgbt	lgbt	NN	pos2=JJ	9	dobj	_	O
+11	"	"	``	pos2=''	12	punct	_	O
+12	gay	gay	JJ	pos2=NN	9	oprd	_	O
+13	,	,	,	_	12	punct	_	O
+14	fag**t	fag**t	''	pos2=JJ	12	punct	_	O
+15	,	,	,	_	9	punct	_	O
+16	and	and	CC	_	9	cc	_	O
+17	qu**r	qu**r	NNP	pos2=CD	12	conj	_	U-ORG
+18	"	"	''	pos2=``	5	punct	_	O
+19	...	..	.	pos2=,	5	punct	_	O
+
+1	anyone	anyone	NN	_	6	nsubj	_	O
+2	who	who	WP	_	3	nsubj	_	O
+3	comes	come	VBZ	_	1	relcl	_	O
+4	to	to	IN	_	3	prep	_	O
+5	me	me	PRP	_	4	pobj	_	O
+6	saying	say	VBG	_	0	root	_	O
+7	that	that	IN	pos2=DT	9	mark	_	O
+8	gon	gon	VBG	pos2=MD	6	advcl	_	O
+9	catch	catch	VB	pos2=NN	8	xcomp	_	O
+10	these	these	DT	_	11	det	_	O
+11	hands	hand	NNS	_	9	dobj	_	O
+12	👊💥	👊💥	WDT	pos2=POS	13	nsubj	_	O
+13	👊	👊	VBP	pos2=.	11	relcl	_	O
+

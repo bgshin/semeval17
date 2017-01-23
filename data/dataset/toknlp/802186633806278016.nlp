@@ -1,0 +1,23 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	like	like	VBP	pos2=IN	0	root	_	O
+3	James	james	NNP	_	4	compound	_	B-PERSON
+4	Brown	brown	NNP	_	2	dobj	_	L-PERSON
+5	,	,	,	_	4	punct	_	O
+6	Little	little	NNP	_	7	compound	_	O
+7	Richard	richard	NNP	_	4	conj	_	O
+8	,	,	,	_	7	punct	_	O
+9	Ben	ben	NNP	_	10	compound	_	O
+10	Carson	carson	NNP	_	7	conj	_	O
+11	-	-	,	pos2=:	2	punct	_	O
+12	but	but	CC	_	2	cc	_	O
+13	not	not	RB	_	17	neg	_	O
+14	this	this	DT	pos2=RB	17	det	_	O
+15	-	-	HYPH	pos2=:	16	punct	_	O
+16	African	african	JJ	_	17	nmod	_	U-NORP
+17	culture	culture	NN	_	12	relcl	_	O
+18	for	for	IN	_	17	prep	_	O
+19	everyone	everyone	NN	_	18	pobj	_	O
+20	https://t.co/rBgSoCQM1v	#hlink#	ADD	_	19	appos	_	U-ORG
+21	via	via	IN	_	17	prep	_	O
+22	@YouTube	@youtube	NN	pos2=NNP	21	pobj	_	O
+

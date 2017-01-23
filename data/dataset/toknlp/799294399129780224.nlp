@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det	_	O
+2	latest	late	JJS	_	3	nmod	_	O
+3	Health	health	NN	pos2=NNP	0	root	_	O
+4	and	and	CC	_	3	cc	_	O
+5	Wellness	wellness	NNP	pos2=NN	6	compound	_	O
+6	Daily	daily	NNP	pos2=RB	3	conj	_	O
+7	!	!	.	_	6	punct	_	O
+
+1	https://t.co/0o7zZDSPgA	#hlink#	ADD	_	0	root	_	O
+2	#nationalfastfoodday	#nationalfastfoodday	UH	pos2=-RRB-	1	discourse	_	O
+

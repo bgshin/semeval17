@@ -1,0 +1,19 @@
+1	@tomfgoodwin	@tomfgoodwin	UH	pos2=XX	5	discourse	_	O
+2	@morganhousel	@morganhousel	UH	pos2=VB	5	discourse	_	O
+3	why	why	WRB	_	5	advmod	_	O
+4	not	not	RB	pos2=DT	5	neg	_	O
+5	use	use	VB	pos2=NN	0	root	_	O
+6	for	for	IN	_	5	prep	_	O
+7	voter	voter	NN	_	8	compound	_	O
+8	ID	id	NN	_	6	pobj	_	O
+9	...	..	.	pos2=,	5	punct	_	O
+
+1	could	could	MD	_	2	aux	_	O
+2	take	take	VB	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	print	print	NN	_	2	dobj	_	O
+5	at	at	IN	_	2	prep	_	O
+6	time	time	NN	_	5	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	registration	registration	NN	_	7	pobj	_	O
+

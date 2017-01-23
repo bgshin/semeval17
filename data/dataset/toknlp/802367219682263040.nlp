@@ -1,0 +1,29 @@
+1	@TheeNicVirtue	@theenicvirtue	XX	pos2=NN	3	dep	_	O
+2	ROV	rov	NNP	pos2=NN	3	nsubj	_	U-ORG
+3	released	release	VBD	pos2=VBN	0	root	_	O
+4	13	0	CD	_	5	nmod	_	U-CARDINAL
+5	shows	show	NNS	_	3	dobj	_	O
+6	in	in	IN	_	3	prep	_	O
+7	2011	0	CD	_	6	pobj	_	B-DATE
+8	-	-	SYM	_	9	punct	_	I-DATE
+9	2012	0	CD	_	7	prep	_	L-DATE
+10	.	.	.	_	3	punct	_	O
+
+1	So	so	RB	_	4	advmod	_	O
+2	yeah	yeah	UH	_	4	discourse	_	O
+3	they	they	PRP	_	4	nsubj	_	O
+4	were	be	VBD	_	0	root	_	O
+5	preety	preety	RB	pos2=JJ	6	advmod	_	O
+6	active	active	JJ	_	4	acomp	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	Is	be	VBZ	_	0	root	_	O
+2	n't	not	RB	_	1	neg	_	O
+3	the	the	DT	_	4	det	_	O
+4	majority	majority	NN	_	1	attr	_	O
+5	of	of	IN	_	4	prep	_	O
+6	TPP	tpp	NNP	pos2=NN	8	compound	_	B-PERSON
+7	Diehards	diehard	NNPS	pos2=NNP	8	compound	_	I-PERSON
+8	caws	caws	NNP	pos2=NNS	5	pobj	_	L-PERSON
+9	?	?	.	_	1	punct	_	O
+

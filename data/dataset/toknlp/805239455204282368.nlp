@@ -1,0 +1,25 @@
+1	@thehill	@thehill	UH	pos2=NN	10	discourse	_	O
+2	By	by	IN	_	10	prep	_	O
+3	this	this	DT	_	4	det	_	O
+4	logic	logic	NN	_	2	pobj	_	O
+5	,	,	,	_	10	punct	_	O
+6	we	we	PRP	_	10	nsubj	_	O
+7	should	should	MD	_	10	aux	_	O
+8	n't	not	RB	_	10	neg	_	O
+9	have	have	VB	_	10	aux	_	O
+10	lifted	lift	VBN	_	0	root	_	O
+11	embargo	embargo	NN	_	10	dobj	_	O
+12	on	on	IN	_	11	prep	_	O
+13	Cuba	cuba	NNP	_	12	pobj	_	U-GPE
+14	b	b	IN	pos2=NN	10	prep	_	O
+15	/	/	SYM	pos2=HYPH	16	punct	_	O
+16	c	c	NN	pos2=IN	14	pobj	_	O
+17	it	it	PRP	_	18	nsubj	_	O
+18	was	be	VBD	_	10	advcl	_	O
+19	"	"	``	_	22	punct	_	O
+20	long	long	RB	pos2=JJ	21	advmod	_	O
+21	standing	stand	VBG	_	22	nmod	_	O
+22	policy	policy	NN	_	18	attr	_	O
+23	.	.	.	_	10	punct	_	O
+24	"	"	''	_	10	punct	_	O
+

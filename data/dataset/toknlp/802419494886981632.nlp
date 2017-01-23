@@ -1,0 +1,22 @@
+1	@therealistbrit	@therealistbrit	UH	pos2=IN	0	root	_	O
+2	Claiming	claim	VBG	_	1	acl	_	O
+3	to	to	TO	_	4	aux	_	O
+4	be	be	VB	_	2	xcomp	_	O
+5	knowledgeable	knowledgeable	JJ	_	4	acomp	_	O
+6	on	on	IN	_	5	prep	_	O
+7	this	this	DT	_	8	det	_	O
+8	subject	subject	NN	_	6	pobj	_	O
+9	?	?	.	_	2	punct	_	O
+
+1	Spelling	spelling	NN	pos2=VBG	5	nsubj	_	O
+2	anti-Semitic	anti-semitic	JJ	_	3	nmod	_	O
+3	right	right	NN	pos2=RB	5	nsubj	_	O
+4	would	would	MD	_	5	aux	_	O
+5	be	be	VB	_	0	root	_	O
+6	a	a	DT	_	8	det	_	O
+7	good	good	JJ	_	8	nmod	_	O
+8	start	start	NN	_	5	attr	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	https://t.co/pUMS7TIdP7	#hlink#	ADD	_	0	root	_	U-ORG
+

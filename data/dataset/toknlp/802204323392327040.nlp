@@ -1,0 +1,27 @@
+1	Reading	read	VBG	pos2=NN	8	advcl	_	O
+2	up	up	RP	pos2=RB	1	prt	_	O
+3	on	on	IN	_	1	prep	_	O
+4	Nazi	nazi	NNP	pos2=JJ	5	compound	_	U-NORP
+5	collaborators	collaborator	NNS	_	3	pobj	_	O
+6	,	,	,	_	8	punct	_	O
+7	here	here	RB	_	8	advmod	_	O
+8	's	's	VBZ	_	0	root	_	O
+9	some	some	DT	_	11	det	_	O
+10	light	light	JJ	pos2=NN	11	nmod	_	O
+11	reading	reading	NN	_	8	nsubj	_	O
+12	.	.	.	_	8	punct	_	O
+
+1	Article	article	NN	_	0	root	_	O
+2	from	from	IN	_	1	prep	_	O
+3	2011	0	CD	_	2	pobj	_	U-CARDINAL
+4	.	.	.	_	1	punct	_	O
+
+1	Lots	lot	NNS	pos2=VBZ	0	root	_	O
+2	more	more	JJR	pos2=RBR	1	nmod	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	And	and	CC	_	4	cc	_	O
+2	Deplorables	deplorables	NNP	pos2=GW	3	compound	_	B-PERSON
+3	GFYS.	gfys.	NNP	pos2=ADD	4	dep	_	L-PERSON
+4	https://t.co/SRuBg0FhWf	#hlink#	ADD	_	0	root	_	O
+

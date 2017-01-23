@@ -1,0 +1,15 @@
+1	Drill	drill	NN	pos2=VB	3	compound	_	O
+2	baby	baby	NN	_	3	compound	_	O
+3	drill	drill	NN	pos2=VB	0	root	_	O
+4	...	..	.	pos2=,	3	punct	_	O
+
+1	and	and	CC	_	2	cc	_	O
+2	devaluate	devaluate	VB	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	#libya	#libya	UH	pos2=XX	5	discourse	_	O
+2	#mena	#mena	UH	pos2=GW	5	discourse	_	O
+3	#oil	#oil	UH	pos2=GW	5	discourse	_	O
+4	#political	#political	UH	pos2=ADD	5	discourse	_	O
+5	riskhttps://t.co/1iBbCebyKj	#hlink#	ADD	pos2=UH	0	root	_	O
+

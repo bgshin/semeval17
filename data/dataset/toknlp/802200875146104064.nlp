@@ -1,0 +1,18 @@
+1	Drop	drop	VB	pos2=NN	0	root	_	O
+2	all	all	DT	_	3	det	_	O
+3	inventory	inventory	NN	_	1	dobj	_	O
+4	online	online	RB	pos2=JJ	1	advmod	_	O
+5	!	!	.	_	1	punct	_	O
+
+1	Forget	forget	VB	_	0	root	_	O
+2	those	those	DT	_	3	det	_	O
+3	heathens	heathen	NNS	_	1	dobj	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	Missing	miss	VBG	pos2=JJ	2	nmod	_	O
+2	thanksgiving	thanksgiving	NN	pos2=VBG	6	dep	_	O
+3	to	to	IN	pos2=TO	2	prep	_	O
+4	camp	camp	NN	pos2=VB	5	compound	_	O
+5	smh	smh	NN	pos2=GW	3	pobj	_	O
+6	https://t.co/MnuJ4B3GyI	#hlink#	ADD	pos2=NN	0	root	_	O
+

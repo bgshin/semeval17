@@ -1,0 +1,27 @@
+1	Thankful	thankful	JJ	_	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	white	white	JJ	_	4	nmod	_	O
+4	supremacists	supremacist	NNS	_	2	pobj	_	O
+5	,	,	,	_	4	punct	_	O
+6	the	the	DT	_	7	det	_	O
+7	media	medium	NNS	pos2=NN	4	conj	_	O
+8	,	,	,	_	7	punct	_	O
+9	fake	fake	JJ	_	10	nmod	_	O
+10	news	news	NN	_	7	conj	_	O
+11	,	,	,	_	10	punct	_	O
+12	Vladimir	vladimir	NNP	_	13	compound	_	B-PERSON
+13	Putin	putin	NNP	_	10	conj	_	L-PERSON
+14	,	,	,	_	13	punct	_	O
+15	the	the	DT	_	16	det	_	O
+16	FBI	fbi	NNP	_	13	conj	_	O
+17	,	,	,	_	16	punct	_	O
+18	Electoral	electoral	NNP	_	19	compound	_	O
+19	College	college	NNP	_	16	conj	_	O
+20	,	,	,	_	19	punct	_	O
+21	and	and	CC	_	19	cc	_	O
+22	gullible	gullible	JJ	_	23	nmod	_	O
+23	people	people	NNS	_	19	conj	_	O
+24	!	!	.	_	1	punct	_	O
+
+1	#thiefinchief	#thiefinchief	UH	pos2=SYM	0	root	_	O
+

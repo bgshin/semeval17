@@ -1,0 +1,18 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	had	have	VBD	_	0	root	_	O
+3	no	no	DT	_	4	det	_	O
+4	idea	idea	NN	_	2	dobj	_	O
+5	U.S.	u.s.	NNP	_	6	compound	_	U-GPE
+6	children	child	NNS	_	8	nsubjpass	_	O
+7	are	be	VBP	_	8	auxpass	_	O
+8	required	require	VBN	_	4	relcl	_	O
+9	to	to	TO	_	10	aux	_	O
+10	have	have	VB	_	8	xcomp	_	O
+11	this	this	DT	_	13	det	_	O
+12	many	many	JJ	_	13	nmod	_	O
+13	vaccines	vaccine	NNS	_	10	dobj	_	O
+14	...	..	.	pos2=,	2	punct	_	O
+
+1	😯	😯	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/4QvfZnqniA	#hlink#	ADD	pos2=NN	0	root	_	O
+

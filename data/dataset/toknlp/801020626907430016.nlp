@@ -1,0 +1,23 @@
+1	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNS	4	nsubj	_	O
+2	Ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	be	be	VB	_	0	root	_	O
+5	Lorelei	lorelei	NNP	_	4	attr	_	U-PERSON
+6	or	or	CC	_	5	cc	_	O
+7	Rory	rory	NNP	_	5	conj	_	U-PERSON
+8	4	0	CD	pos2=NNP	7	nmod	_	U-CARDINAL
+9	)	)	-RRB-	_	4	punct	_	O
+10	Mrs	mrs	NNP	_	11	compound	_	B-PERSON
+11	Kim	kim	NNP	_	5	conj	_	L-PERSON
+12	3	0	CD	pos2=NNP	11	npadvmod	_	U-CARDINAL
+13	)	)	-RRB-	_	11	punct	_	O
+14	Miss	miss	NNP	_	15	compound	_	O
+15	Patty	patty	NNP	pos2=NN	22	dep	_	U-PERSON
+16	2	0	CD	pos2=NNP	15	npadvmod	_	U-CARDINAL
+17	)	)	-RRB-	_	16	punct	_	O
+18	Emily	emily	NNP	pos2=NN	22	dep	_	U-PERSON
+19	1	0	CD	pos2=GW	18	nmod	_	U-CARDINAL
+20	)	)	-RRB-	_	19	punct	_	O
+21	Luke	luke	NNP	pos2=GW	22	nmod	_	B-PERSON
+22	https://t.co/h0RuooZqMz	#hlink#	ADD	_	4	dep	_	L-PERSON
+

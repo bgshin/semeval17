@@ -1,0 +1,26 @@
+1	Gold	gold	NN	pos2=NNP	3	nmod	_	O
+2	Standard	standard	JJ	pos2=NNP	3	nmod	_	O
+3	BCAA	bcaa	NN	pos2=NNP	4	nsubj	_	O
+4	takes	take	VBZ	_	0	root	_	O
+5	training	training	NN	pos2=VBG	4	dobj	_	O
+6	to	to	IN	_	4	prep	_	O
+7	another	another	DT	_	8	det	_	O
+8	level	level	NN	_	6	pobj	_	O
+9	with	with	IN	_	4	prep	_	O
+10	5g	0g	NN	pos2=JJ	11	compound	_	O
+11	BCAAs	bcaas	NNS	pos2=NNPS	9	pobj	_	O
+12	,	,	,	_	11	punct	_	O
+13	250	0	CD	_	14	nmod	_	U-CARDINAL
+14	mg	mg	NNS	_	11	npadvmod	_	O
+15	of	of	IN	_	14	prep	_	O
+16	patented	patent	VBN	pos2=VBD	18	nmod	_	O
+17	Wellmune	wellmune	NNP	_	18	compound	_	U-PERSON
+18	(R)	(r)	NN	pos2=NNP	15	pobj	_	O
+19	and	and	CC	_	14	cc	_	O
+20	200	0	CD	_	21	nmod	_	U-CARDINAL
+21	mg	mg	NNS	_	14	conj	_	O
+22	of	of	IN	pos2=RB	21	prep	_	O
+23	...	..	.	pos2=,	4	punct	_	O
+
+1	https://t.co/Zt2vgZ0l1c	#hlink#	ADD	_	0	root	_	U-ORG
+

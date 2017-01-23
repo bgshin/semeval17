@@ -1,0 +1,20 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@MikeYenni	@mikeyenni	NNP	pos2=XX	2	compound	_	O
+2	Michelle	michelle	NNP	_	4	nsubj	_	U-PERSON
+3	must	must	MD	_	4	aux	_	O
+4	love	love	VB	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	hear	hear	VB	_	4	xcomp	_	O
+7	about	about	IN	_	6	prep	_	O
+8	your	your	PRP$	_	9	poss	_	O
+9	adventures	adventure	NNS	_	7	pobj	_	O
+10	with	with	IN	_	9	prep	_	O
+11	gay	gay	JJ	_	12	nmod	_	O
+12	teens	teen	NNS	_	10	pobj	_	O
+13	!	!	.	_	4	punct	_	O
+
+1	#GOPHypocrite	#gophypocrite	ADD	pos2=UH	3	punct	_	O
+2	#GodsNotSavingYourCareer	#godsnotsavingyourcareer	ADD	pos2=GW	0	root	_	O
+3	#UniteBlue	#uniteblue	ADD	pos2=NN	2	pobj	_	O
+

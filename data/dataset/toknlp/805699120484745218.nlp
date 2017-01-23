@@ -1,0 +1,15 @@
+1	Gaspart	gaspart	NN	pos2=NNP	3	dep	_	U-PERSON
+2	:	:	:	_	3	punct	_	O
+3	Ignorant	ignorant	JJ	_	0	root	_	O
+4	to	to	TO	pos2=IN	5	aux	_	O
+5	call	call	VB	_	3	xcomp	_	O
+6	Cristiano	cristiano	NNP	_	7	compound	_	B-PERSON
+7	Ronaldo	ronaldo	NNP	_	5	dobj	_	L-PERSON
+8	the	the	DT	_	9	det	_	O
+9	world	world	NN	_	12	poss	_	O
+10	's	's	POS	_	9	case	_	O
+11	greatest	great	JJS	_	12	nmod	_	O
+12	https://t.co/yG4SS5xIJX	#hlink#	ADD	pos2=NN	5	oprd	_	O
+13	via	via	IN	_	5	prep	_	O
+14	@MarcainEnglish	@marcainenglish	NN	pos2=ADD	13	pobj	_	O
+

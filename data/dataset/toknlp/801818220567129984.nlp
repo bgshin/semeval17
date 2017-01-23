@@ -1,0 +1,18 @@
+1	FCBarcelona	fcbarcelona	NN	pos2=NNP	4	advmod	_	O
+2	:	:	:	_	5	punct	_	O
+3	📷	📷	NFP	pos2=``	8	det	_	U-CARDINAL
+4	Great	great	JJ	_	5	nmod	_	O
+5	pics	pic	NNS	_	3	dobj	_	O
+6	from	from	IN	_	0	root	_	O
+7	other	other	JJ	_	8	nmod	_	O
+8	side	side	NN	_	6	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	Celtic	celtic	JJ	pos2=NNP	11	nmod	_	U-NORP
+11	v	v	NN	pos2=FW	13	compound	_	O
+12	FC	fc	NNP	pos2=NN	13	compound	_	B-ORG
+13	Barcelona	barcelona	NNP	pos2=NN	9	pobj	_	L-ORG
+14	:	:	:	_	17	punct	_	O
+15	https://t.co/rcsOVVlYuZ	#hlink#	ADD	pos2=GW	13	appos	_	O
+16	#FCBlive	#fcblive	ADD	pos2=GW	13	appos	_	O
+17	https://t.co/FYJvOWJiBM	#hlink#	ADD	pos2=NN	16	pobj	_	O
+

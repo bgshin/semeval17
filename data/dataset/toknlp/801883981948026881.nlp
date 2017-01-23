@@ -1,0 +1,17 @@
+1	Bet	bet	VB	pos2=VBP	0	root	_	O
+2	you	you	PRP	_	1	dative	_	O
+3	the	the	DT	_	4	det	_	O
+4	one	#crd#	NN	_	1	dobj	_	O
+5	that	that	WDT	_	6	nsubj	_	O
+6	leaked	leak	VBD	pos2=VBZ	4	relcl	_	O
+7	Michelle	michelle	NNP	_	9	poss	_	U-PERSON
+8	's	's	POS	_	7	case	_	O
+9	speech	speech	NN	_	6	dobj	_	O
+10	to	to	IN	_	6	prep	_	O
+11	Melania	melania	NNP	_	10	pobj	_	U-PERSON
+12	too	too	RB	_	6	advmod	_	O
+13	huh	huh	UH	pos2=RB	6	discourse	_	O
+14	?	?	.	_	1	punct	_	O
+
+1	#ShudaKnownSas	#shudaknownsas	NNS	pos2=ADD	0	root	_	O
+

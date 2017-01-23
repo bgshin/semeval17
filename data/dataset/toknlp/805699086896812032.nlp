@@ -1,0 +1,10 @@
+1	Mysterious	mysterious	JJ	_	4	nmod	_	O
+2	drunk	drunk	JJ	pos2=NN	3	nmod	_	O
+3	#Cubs	#cubs	NNS	pos2=NNP	4	compound	_	O
+4	fan	fan	NN	_	5	nsubj	_	O
+5	seen	see	VBN	_	0	root	_	O
+6	lurking	lurk	VBG	_	5	xcomp	_	O
+7	around	around	IN	pos2=RB	6	prep	_	O
+8	#MLBWinterMeetings	#mlbwintermeetings	NNS	pos2=GW	7	pobj	_	O
+9	https://t.co/1oRv0hCDUt	#hlink#	ADD	_	5	dep	_	O
+

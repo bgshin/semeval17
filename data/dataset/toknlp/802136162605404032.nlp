@@ -1,0 +1,10 @@
+1	🤔🤔🤔	🤔🤔🤔	NFP	pos2=SYM	3	punct	_	O
+2	younger	young	JJR	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	better	good	JJR	_	3	acomp	_	O
+5	!!!	!!	.	_	3	punct	_	O
+
+1	#toyboy	#toyboy	UH	pos2=GW	3	nmod	_	O
+2	#onedirection	#onedirection	GW	pos2=ADD	3	nmod	_	O
+3	https://t.co/Q1etgfqOHR	#hlink#	ADD	pos2=NN	0	root	_	O
+

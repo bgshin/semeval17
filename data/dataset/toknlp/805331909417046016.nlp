@@ -1,0 +1,15 @@
+1	Ashley	ashley	NNP	_	3	compound	_	B-PERSON
+2	Graham	graham	NNP	_	3	compound	_	L-PERSON
+3	Lands	lands	NNP	pos2=VBZ	14	dep	_	O
+4	Her	her	PRP$	pos2=NNP	9	poss	_	O
+5	First	#ord#	NNP	pos2=JJ	9	nmod	_	U-ORDINAL
+6	'	'	``	pos2=POS	9	punct	_	O
+7	Vogue	vogue	NNP	pos2=NN	9	nmod	_	U-WORK_OF_ART
+8	'	'	''	pos2=POS	9	punct	_	O
+9	Cover	cover	NNP	pos2=NN	3	appos	_	O
+10	and	and	CC	_	3	cc	_	O
+11	Goes	go	VBZ	_	3	conj	_	O
+12	Au	au	NNP	_	14	nmod	_	O
+13	Naturel	naturel	NNP	pos2=GW	14	nmod	_	O
+14	https://t.co/HyRTGzt2pi	#hlink#	ADD	_	0	root	_	O
+

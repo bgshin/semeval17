@@ -1,0 +1,6 @@
+1	#TheWalkingDead	#thewalkingdead	NN	pos2=XX	2	compound	_	O
+2	7x04	0x0	NN	pos2=LS	5	compound	_	B-ORG
+3	Service	service	NNP	pos2=NN	5	compound	_	I-ORG
+4	#Negan	#negan	NNP	pos2=POS	5	compound	_	I-ORG
+5	#Lucille	#lucille	NNP	pos2=ADD	0	root	_	L-ORG
+

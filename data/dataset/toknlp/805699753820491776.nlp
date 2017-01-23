@@ -1,0 +1,13 @@
+1	Here	here	RB	_	2	advmod	_	O
+2	Are	be	VBP	pos2=VBZ	0	root	_	O
+3	Some	some	DT	_	2	nsubj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	10	det	_	O
+6	Obvious	obvious	JJ	pos2=NNP	10	nmod	_	O
+7	Ways	way	NNPS	pos2=NNP	10	compound	_	B-ORG
+8	Marijuana	marijuana	NNP	_	10	compound	_	I-ORG
+9	Benefits	benefit	NNPS	pos2=NNP	10	compound	_	I-ORG
+10	Society	society	NNP	pos2=GW	4	pobj	_	L-ORG
+11	https://t.co/RX0xnf7r1k	#hlink#	ADD	_	12	nmod	_	O
+12	https://t.co/SL9lrs0b4A	#hlink#	ADD	_	2	dep	_	U-ORG
+

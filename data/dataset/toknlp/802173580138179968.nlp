@@ -1,0 +1,11 @@
+1	@ChrisBishop4	@chrisbishop0	NN	pos2=NNS	3	vocative	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	shut	shut	VBD	pos2=VBP	8	csubj	_	O
+4	your	your	PRP$	_	5	poss	_	O
+5	mouth	mouth	NN	_	3	dobj	_	O
+6	Grayson	grayson	NNP	_	7	compound	_	B-PERSON
+7	Allen	allen	NNP	_	5	appos	_	L-PERSON
+8	is	be	VBZ	_	0	root	_	O
+9	a	a	DT	_	10	det	_	O
+10	saint	saint	NN	pos2=JJ	8	attr	_	O
+

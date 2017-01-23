@@ -1,0 +1,29 @@
+1	@AussiePeteC	@aussiepetec	ADD	pos2=XX	11	discourse	_	B-PERSON
+2	@farrm51	@farrm0	NN	pos2=LS	3	compound	_	I-PERSON
+3	@Linzz_1	@linzz_0	NN	pos2=CD	6	neg	_	I-PERSON
+4	Great	great	NNP	pos2=JJ	3	appos	_	L-PERSON
+5	,	,	,	_	11	punct	_	O
+6	so	so	RB	pos2=CC	11	advmod	_	O
+7	how	how	WRB	_	8	advmod	_	O
+8	far	far	RB	_	11	advmod	_	O
+9	will	will	MD	_	11	aux	_	O
+10	you	you	PRP	_	11	nsubj	_	O
+11	comply	comply	VB	_	0	root	_	O
+12	?	?	.	_	11	punct	_	O
+
+1	Just	just	RB	_	2	advmod	_	O
+2	squeeze	squeeze	VB	_	0	root	_	O
+3	a	a	DT	_	7	det	_	O
+4	little	little	JJ	pos2=RB	7	nmod	_	O
+5	more	more	JJR	_	7	nmod	_	O
+6	gun	gun	NN	_	7	compound	_	O
+7	control	control	NN	_	2	dobj	_	O
+8	?	?	.	_	2	punct	_	O
+
+1	Ban	ban	NN	pos2=VB	5	dep	_	O
+2	angled	angled	JJ	pos2=VBN	3	nmod	_	O
+3	foregrips	foregrips	NNS	_	1	dobj	_	O
+4	,	,	,	_	5	punct	_	O
+5	fudd	fudd	VB	pos2=NN	0	root	_	O
+6	?	?	.	_	5	punct	_	O
+

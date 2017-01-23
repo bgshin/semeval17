@@ -1,0 +1,19 @@
+1	@Riskarr5	@riskarr0	NN	pos2=NNS	4	dep	_	O
+2	@GeorgeTakei	@georgetakei	NNP	pos2=NNS	4	dep	_	O
+3	He	he	PRP	pos2=NNP	4	nsubj	_	O
+4	spent	spend	VBD	_	0	root	_	O
+5	any	any	DT	_	6	det	_	O
+6	chance	chance	NN	_	4	dobj	_	O
+7	he	he	PRP	_	8	nsubj	_	O
+8	had	have	VBD	_	6	relcl	_	O
+9	when	when	WRB	_	11	advmod	_	O
+10	he	he	PRP	_	11	nsubj	_	O
+11	appointed	appoint	VBD	_	8	advcl	_	O
+12	Steve	steve	NNP	_	13	compound	_	B-PERSON
+13	Bannon	bannon	NNP	_	11	dobj	_	L-PERSON
+14	.	.	.	_	4	punct	_	O
+
+1	Fuck	fuck	VB	pos2=VBP	0	root	_	O
+2	him	him	PRP	_	1	dobj	_	O
+3	.	.	.	_	1	punct	_	O
+

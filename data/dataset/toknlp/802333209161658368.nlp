@@ -1,0 +1,26 @@
+1	You	you	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	need	need	VB	_	0	root	_	O
+5	that	that	DT	_	6	det	_	O
+6	stuff	stuff	NN	_	4	dobj	_	O
+7	u	u	PRP	pos2=NN	8	nsubj	_	O
+8	got	get	VBD	_	4	conj	_	O
+9	ok	ok	JJ	pos2=RB	10	nmod	_	O
+10	lifes	life	NNS	pos2=RB	12	nsubj	_	O
+11	just	just	RB	_	12	advmod	_	O
+12	live	live	VBP	pos2=VB	8	ccomp	_	O
+13	it	it	PRP	_	14	nsubj	_	O
+14	were	be	VBD	_	19	ccomp	_	O
+15	ok	ok	JJ	pos2=RB	14	acomp	_	O
+16	Kim	kim	NNP	_	18	compound	_	B-PERSON
+17	Jong	jong	NNP	_	18	compound	_	L-PERSON
+18	un	un	NNP	pos2=XX	19	nsubj	_	O
+19	take	take	VB	pos2=VBP	0	root	_	O
+20	a	a	DT	_	22	det	_	O
+21	bath	bath	NN	_	22	compound	_	O
+22	look	look	NN	pos2=VB	19	dobj	_	O
+23	at	at	IN	_	22	prep	_	O
+24	ur	ur	NN	pos2=PRP$	25	compound	_	O
+25	boobies	booby	NNS	_	23	pobj	_	O
+

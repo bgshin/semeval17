@@ -1,0 +1,8 @@
+1	@torylanez	@torylanez	UH	pos2=XX	7	dep	_	O
+2	x	x	LS	pos2=SYM	7	punct	_	O
+3	TIM	tim	NNP	pos2=NN	7	dep	_	B-ORG
+4	DUNCAN	duncan	NNP	_	6	compound	_	I-ORG
+5	Extended	extended	NNP	pos2=GW	6	compound	_	L-ORG
+6	Version	version	NNP	pos2=NN	7	dep	_	O
+7	https://t.co/FsWaos0YVR	#hlink#	ADD	_	0	root	_	O
+

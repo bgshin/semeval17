@@ -1,0 +1,14 @@
+1	LEONARD	leonard	NNP	_	2	compound	_	O
+2	COHEN	cohen	NNP	pos2=NN	5	vocative	_	O
+3	-	-	:	pos2=,	5	punct	_	O
+4	"	"	``	_	5	punct	_	O
+5	Take	take	VB	_	0	root	_	O
+6	this	this	DT	_	7	det	_	O
+7	waltz	waltz	NN	_	5	dobj	_	O
+8	"	"	''	pos2=``	5	punct	_	O
+9	from	from	IN	_	5	prep	_	O
+10	#EnriqueMorente	#enriquemorente	ADD	pos2=NNP	9	pobj	_	O
+11	https://t.co/TsKJhyhEIq	#hlink#	ADD	_	9	pobj	_	O
+12	#Omega	#omega	-RRB-	pos2=ADD	11	punct	_	O
+13	#Morente	#morente	ADD	pos2=FW	12	pobj	_	O
+

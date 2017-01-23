@@ -1,0 +1,15 @@
+1	Cannabis	cannabis	NN	pos2=NNP	14	dep	_	O
+2	For	for	IN	_	1	prep	_	O
+3	Kids	kid	NNS	pos2=NNP	2	pobj	_	O
+4	:	:	:	_	14	punct	_	O
+5	The	the	DT	_	6	det	_	O
+6	Children	child	NNS	pos2=NNP	14	nsubj	_	O
+7	Behind	behind	IN	_	6	prep	_	O
+8	The	the	DT	_	9	det	_	O
+9	Debate	debate	NN	pos2=NNP	7	pobj	_	O
+10	(	(	-LRB-	_	9	punct	_	O
+11	FULL	full	JJ	_	12	nmod	_	O
+12	DOCUMENTARY	documentary	NN	_	9	appos	_	O
+13	)	)	-RRB-	pos2=GW	9	punct	_	O
+14	https://t.co/1tBbx1ZeHU	#hlink#	ADD	pos2=NN	0	root	_	O
+

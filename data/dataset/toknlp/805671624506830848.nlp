@@ -1,0 +1,20 @@
+1	Never	never	RB	_	2	neg	_	O
+2	put	put	VB	pos2=VBD	0	root	_	O
+3	your	your	PRP$	_	4	poss	_	O
+4	money	money	NN	_	2	dobj	_	O
+5	against	against	IN	_	2	prep	_	O
+6	Cassius	cassius	NNP	_	7	compound	_	B-PERSON
+7	Clay	clay	NNP	_	5	pobj	_	L-PERSON
+8	,	,	,	_	2	punct	_	O
+9	for	for	IN	_	13	mark	_	O
+10	you	you	PRP	_	13	nsubj	_	O
+11	will	will	MD	_	13	aux	_	O
+12	never	never	RB	_	13	neg	_	O
+13	have	have	VB	_	2	advcl	_	O
+14	a	a	DT	_	13	dobj	_	O
+15	...	..	.	_	2	punct	_	O
+
+1	#MuhammadAli	#muhammadali	NNS	pos2=GW	2	compound	_	O
+2	#aphorisms	#aphorisms	NNS	pos2=GW	3	dep	_	O
+3	https://t.co/owMAV8mk0O	#hlink#	ADD	_	0	root	_	O
+

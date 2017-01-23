@@ -1,0 +1,29 @@
+1	@Bloggasaurus	@bloggasaurus	NNP	pos2=XX	2	compound	_	O
+2	Dems	dems	NNPS	pos2=NNP	4	nmod	_	B-ORG
+3	/	/	SYM	pos2=HYPH	4	punct	_	I-ORG
+4	Libs	libs	NNP	pos2=NNS	6	nsubj	_	L-ORG
+5	obviously	obviously	RB	_	6	advmod	_	O
+6	lack	lack	VBP	pos2=NN	0	root	_	O
+7	Class	class	NNP	pos2=NN	6	dobj	_	O
+8	,	,	,	_	7	punct	_	O
+9	Humility	humility	NNP	pos2=NN	7	conj	_	O
+10	,	,	,	_	9	punct	_	O
+11	Grace	grace	NNP	pos2=NN	9	conj	_	U-ORG
+12	and	and	CC	_	11	cc	_	O
+13	Tolerance	tolerance	NN	pos2=NNP	11	conj	_	O
+14	.	.	.	_	6	punct	_	O
+
+1	They	they	PRP	_	3	nsubj	_	O
+2	also	also	RB	_	3	advmod	_	O
+3	lack	lack	VBP	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	House	house	NNP	_	3	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	Reps	rep	NNPS	pos2=NNP	6	pobj	_	O
+8	,	,	,	_	3	punct	_	O
+9	Senate	senate	NNP	_	5	conj	_	U-ORG
+10	and	and	CC	_	9	cc	_	O
+11	the	the	DT	_	13	det	_	B-ORG
+12	White	white	NNP	_	13	compound	_	I-ORG
+13	House	house	NNP	_	9	conj	_	L-ORG
+

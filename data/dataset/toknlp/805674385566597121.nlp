@@ -1,0 +1,23 @@
+1	@bamaredsoxchick	@bamaredsoxchick	UH	pos2=VB	5	discourse	_	O
+2	@docrocktex26	@docrocktex0	NN	pos2=UH	6	nsubj	_	O
+3	And	and	CC	_	2	cc	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	's	's	VBZ	_	0	root	_	O
+6	why	why	WRB	_	13	advmod	_	O
+7	their	their	PRP$	_	9	poss	_	O
+8	first	#ord#	JJ	_	9	nmod	_	U-ORDINAL
+9	order	order	NN	_	13	nsubj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	business	business	NN	_	10	pobj	_	O
+12	will	will	MD	_	13	aux	_	O
+13	be	be	VB	_	5	ccomp	_	O
+14	to	to	TO	_	15	aux	_	O
+15	put	put	VB	_	13	xcomp	_	O
+16	major	major	JJ	_	18	nmod	_	O
+17	voter	voter	NN	_	18	compound	_	O
+18	suppression	suppression	NN	_	15	dobj	_	O
+19	in	in	IN	_	15	prep	_	O
+20	place	place	NN	_	19	pobj	_	O
+21	nationwide	nationwide	RB	pos2=JJ	15	advmod	_	O
+22	.	.	.	_	5	punct	_	O
+

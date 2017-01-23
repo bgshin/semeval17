@@ -1,0 +1,32 @@
+1	Disappointed	disappointed	JJ	pos2=VBD	5	nmod	_	O
+2	when	when	WRB	_	4	advmod	_	O
+3	BHO	bho	NNP	pos2=NN	4	nsubj	_	U-ORG
+4	elected	elect	VBN	pos2=VBD	0	root	_	O
+5	POTUS	potus	NNP	pos2=NN	4	oprd	_	U-ORG
+6	.	.	.	_	1	punct	_	O
+
+1	Reality	reality	NN	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Was	be	VBD	_	0	root	_	O
+2	democratic	democratic	JJ	_	3	nmod	_	O
+3	election	election	NN	_	1	attr	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	lost	lose	VBD	pos2=VBN	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	Had	have	VBD	_	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	accept	accept	VB	_	1	xcomp	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	Dems	dems	NNS	pos2=PRP	4	nsubj	_	O
+2	ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	handle	handle	VB	_	0	root	_	O
+5	no	no	DT	pos2=RB	6	det	_	O
+6	…	…	NFP	pos2=-LRB-	4	discourse	_	O
+7	https://t.co/AdYfwlxVEO	#hlink#	ADD	pos2=NN	4	dobj	_	O
+

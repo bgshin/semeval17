@@ -1,0 +1,25 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	watched	watch	VBD	_	0	root	_	O
+3	25	0	CD	_	5	nmod	_	B-TIME
+4	+	+	SYM	pos2=HYPH	3	punct	_	I-TIME
+5	minutes	minute	NNS	_	2	dobj	_	L-TIME
+6	of	of	IN	_	5	prep	_	O
+7	a	a	DT	_	10	det	_	O
+8	Facebook	facebook	NNP	_	10	nmod	_	U-ORG
+9	live	live	JJ	pos2=NN	10	nmod	_	O
+10	video	video	NN	_	6	pobj	_	O
+11	hatching	hatch	VBG	pos2=NN	2	advcl	_	O
+12	one	#crd#	CD	_	11	dobj	_	U-CARDINAL
+13	of	of	IN	_	12	prep	_	O
+14	these	these	DT	_	13	pobj	_	O
+15	and	and	CC	_	2	cc	_	O
+16	I	I	PRP	_	17	nsubj	_	O
+17	regret	regret	VBP	_	2	conj	_	O
+18	every	every	DT	_	19	det	_	O
+19	second	#ord#	NN	pos2=JJ	17	dobj	_	O
+20	.	.	.	_	17	punct	_	O
+
+1	#Hatchimals	#hatchimals	NNS	pos2=GW	3	nmod	_	O
+2	#why	#why	GW	pos2=ADD	3	nmod	_	O
+3	https://t.co/wyjloH9XAa	#hlink#	ADD	pos2=NN	0	root	_	O
+

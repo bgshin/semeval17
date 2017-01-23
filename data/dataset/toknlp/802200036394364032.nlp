@@ -1,0 +1,13 @@
+1	Cheek	cheek	NN	pos2=NNP	5	nmod	_	O
+2	little	little	JJ	pos2=RB	5	nmod	_	O
+3	@GritNGlory	@gritnglory	NN	pos2=JJ	4	compound	_	O
+4	#ScreamQueens	#screamqueens	NNS	pos2=POS	5	compound	_	O
+5	order	order	NN	pos2=VB	6	nsubj	_	O
+6	completed	complete	VBN	_	0	root	_	O
+7	!	!	.	pos2=,	6	punct	_	O
+
+1	@Megan_Massacre	@megan_massacre	NN	pos2=ADD	4	nmod	_	O
+2	#LydiaDeetz	#lydiadeetz	GW	pos2=XX	4	nmod	_	B-PERSON
+3	#MorticiaAddams	#morticiaaddams	GW	pos2=ADD	4	nmod	_	L-PERSON
+4	https://t.co/TZ9j7wRkB9	#hlink#	ADD	pos2=NN	0	root	_	O
+

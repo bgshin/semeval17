@@ -1,0 +1,22 @@
+1	Today	today	NN	pos2=NNP	2	nsubj	_	U-DATE
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	feast	feast	NN	_	2	attr	_	O
+5	of	of	IN	_	4	prep	_	O
+6	St	st	NNP	_	7	compound	_	B-PERSON
+7	Barbara	barbara	NNP	_	5	pobj	_	L-PERSON
+8	!	!	.	_	2	punct	_	O
+
+1	Exit	exit	NN	pos2=NNP	3	poss	_	O
+2	#euthanasia	#euthanasia	POS	pos2=NNP	1	case	_	O
+3	Action	action	NN	pos2=NNP	4	nsubj	_	O
+4	suggests	suggest	VBZ	_	0	root	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	make	make	VBP	pos2=VB	4	ccomp	_	O
+7	your	your	PRP$	_	9	poss	_	O
+8	@PeacefulPill	@peacefulpill	JJ	pos2=NN	9	nmod	_	O
+9	barbiturates	barbiturate	NNS	_	10	nsubj	_	O
+10	see:ch2	see:ch0	VBP	pos2=WDT	6	ccomp	_	O
+11	…	…	NFP	pos2=-LRB-	12	punct	_	O
+12	https://t.co/TiL3R71KWB	#hlink#	ADD	_	9	appos	_	O
+

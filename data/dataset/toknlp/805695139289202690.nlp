@@ -1,0 +1,15 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=JJ	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	https://t.co/m8dpbPqAPs	#hlink#	ADD	pos2=NNP	1	appos	_	O
+7	Cute	cute	NNP	pos2=JJ	9	compound	_	B-ORG
+8	Hyena	hyena	NNP	pos2=NN	9	compound	_	I-ORG
+9	Cubs	cub	NNPS	pos2=NNP	13	nsubj	_	L-ORG
+10	and	and	CC	_	9	cc	_	O
+11	Lion	lion	NNP	_	12	compound	_	B-ORG
+12	Cubs	cub	NNPS	pos2=NNP	9	conj	_	L-ORG
+13	Playing	play	VBG	pos2=NNP	5	acl	_	O
+14	Together	together	RB	_	13	advmod	_	O
+

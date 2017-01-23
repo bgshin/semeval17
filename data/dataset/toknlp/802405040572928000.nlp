@@ -1,0 +1,32 @@
+1	interesting	interesting	JJ	pos2=VBG	3	cc	_	O
+2	how	how	WRB	_	7	advmod	_	O
+3	the	the	DT	_	4	det	_	O
+4	US	us	NNP	_	7	nsubj	_	U-GPE
+5	will	will	MD	_	7	aux	_	O
+6	now	now	RB	_	7	advmod	_	O
+7	see	see	VB	_	0	root	_	O
+8	Latin	latin	NNP	_	9	compound	_	B-LOC
+9	America	america	NNP	_	7	dobj	_	L-LOC
+10	.	.	.	_	7	punct	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	ice	ice	NN	_	3	compound	_	O
+3	cream	cream	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	really	really	RB	_	6	advmod	_	O
+6	good	good	JJ	pos2=RB	4	acomp	_	O
+7	and	and	CC	_	4	cc	_	O
+8	so	so	RB	_	9	advmod	_	O
+9	is	be	VBZ	_	4	conj	_	O
+10	the	the	DT	_	12	det	_	O
+11	health	health	NN	_	12	compound	_	O
+12	system	system	NN	_	9	nsubj	_	O
+13	.	.	.	_	9	punct	_	O
+
+1	Get	get	VB	_	0	root	_	O
+2	Cuba	cuba	NNP	_	4	nsubj	_	U-GPE
+3	to	to	TO	_	4	aux	_	O
+4	run	run	VB	_	1	ccomp	_	O
+5	Obamacare	obamacare	NNP	_	4	dobj	_	U-ORG
+6	.	.	.	_	1	punct	_	O
+

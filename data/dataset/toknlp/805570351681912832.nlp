@@ -1,0 +1,27 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	wonder	wonder	VBP	_	0	root	_	O
+3	who	who	WP	_	8	pobj	_	O
+4	this	this	DT	_	5	det	_	O
+5	marketing	marketing	NN	_	7	nsubjpass	_	O
+6	is	be	VBZ	_	7	auxpass	_	O
+7	aimed	aim	VBN	_	2	ccomp	_	O
+8	at	at	IN	_	7	prep	_	O
+9	?	?	.	_	2	punct	_	O
+
+1	Goes	go	VBZ	_	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	a	a	DT	_	4	det	_	O
+4	lot	lot	NN	_	2	pobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	the	the	DT	_	9	det	_	O
+7	Indian	indian	JJ	pos2=NNP	9	nmod	_	U-NORP
+8	#homeopathy	#homeopathy	NN	pos2=JJ	9	compound	_	O
+9	advertising	advertising	NN	pos2=VBG	5	pobj	_	O
+10	on	on	IN	_	1	prep	_	O
+11	twitter	twitter	NN	pos2=NNP	10	pobj	_	O
+12	.	.	.	_	1	punct	_	O
+
+1	Domestic	domestic	JJ	_	2	nmod	_	O
+2	…	…	NFP	pos2=:	3	punct	_	O
+3	https://t.co/OvKQsyIhKL	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,17 @@
+1	Effects	effect	NNS	_	16	dep	_	O
+2	of	of	IN	_	1	prep	_	O
+3	raising	raise	VBG	_	2	pcomp	_	O
+4	#minimumwage	#minimumwage	CD	pos2=NNP	3	dobj	_	B-MONEY
+5	to	to	TO	pos2=IN	3	prep	_	I-MONEY
+6	$	$	$	_	7	qmod	_	I-MONEY
+7	15	0	CD	_	5	pobj	_	L-MONEY
+8	on	on	IN	_	3	prep	_	O
+9	#NYC	#nyc	NNP	pos2=$	16	dep	_	U-ORG
+10	#carwash	#carwash	XX	pos2=POS	12	dep	_	O
+11	owners	owner	NNS	_	12	nsubj	_	O
+12	#expensereports	#expensereports	VBZ	pos2=VBP	16	dep	_	O
+13	#finance	#finance	GW	pos2=NFP	16	nmod	_	O
+14	#vc	#vc	GW	pos2=NFP	16	nmod	_	O
+15	https://t.co/3Xjr26kFmS	#hlink#	ADD	pos2=GW	16	nmod	_	O
+16	https://t.co/5xqYTYzkTv	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,14 @@
+1	#humanrights	#humanrights	NNS	pos2=UH	2	compound	_	O
+2	#UnitedNations	#unitednations	NNS	pos2=ADD	4	nsubj	_	O
+3	♐️deporting	♐️deporting	VBG	pos2=,	2	acl	_	O
+4	israelis2	israelis0	VBP	pos2=IN	0	root	_	O
+5	their	their	PRP$	_	7	poss	_	O
+6	original	original	JJ	_	7	nmod	_	O
+7	homes	home	NNS	_	9	nmod	_	O
+8	/	/	SYM	pos2=,	9	punct	_	O
+9	BelfoureDeclaration	belfouredeclaration	NNP	pos2=NN	4	dobj	_	O
+10	!	!	.	_	4	punct	_	O
+
+1	https://t.co/vJVk6EFLHD	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/PJxGcn4Rli	#hlink#	ADD	_	0	root	_	U-ORG
+

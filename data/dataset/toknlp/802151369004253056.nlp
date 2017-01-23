@@ -1,0 +1,17 @@
+1	Still	still	RB	_	2	advmod	_	O
+2	hoping	hope	VBG	_	0	root	_	O
+3	Electoral	electoral	NNP	pos2=JJ	4	compound	_	B-ORG
+4	College	college	NNP	_	5	compound	_	L-ORG
+5	sides	side	NNS	pos2=VBZ	0	root	_	O
+6	with	with	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	majority	majority	NN	_	6	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	American	american	JJ	_	11	nmod	_	U-NORP
+11	people	people	NNS	_	9	pobj	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	#AuditTheVote	#auditthevote	GW	pos2=UH	3	nmod	_	O
+2	#StillWithHer	#stillwithher	GW	pos2=ADD	3	nmod	_	O
+3	https://t.co/4HplT0fL2w	#hlink#	ADD	pos2=NN	0	root	_	O
+

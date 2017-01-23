@@ -1,0 +1,27 @@
+1	@fidh_fr	@fidh_fr	NNP	pos2=PRP	3	nsubjpass	_	O
+2	Get	get	VB	pos2=VBP	3	auxpass	_	O
+3	lost	lose	VBN	pos2=VBD	0	root	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	crooks	crook	NNS	_	3	dobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	Your	your	PRP$	_	2	poss	_	O
+2	plan	plan	NN	_	12	nsubjpass	_	O
+3	to	to	TO	_	4	aux	_	O
+4	bring	bring	VB	_	2	acl	_	O
+5	#Burundi	#burundi	NNS	pos2=NNP	4	dobj	_	O
+6	where	where	WRB	_	8	advmod	_	O
+7	you	you	PRP	_	8	nsubj	_	O
+8	brought	bring	VBD	_	5	relcl	_	O
+9	#Libya	#libya	NNP	pos2=RP	10	compound	_	U-NORP
+10	#Rwanda94	#rwanda0	NN	pos2=WP	8	dobj	_	O
+11	was	be	VBD	_	12	auxpass	_	O
+12	defeated	defeat	VBN	_	0	root	_	O
+13	.	.	.	_	12	punct	_	O
+
+1	Find	find	VB	_	0	root	_	O
+2	your	your	PRP$	_	4	poss	_	O
+3	next	next	JJ	_	4	nmod	_	O
+4	victim	victim	NN	_	1	dobj	_	O
+5	elsewhere	elsewhere	RB	_	1	advmod	_	O
+

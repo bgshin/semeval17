@@ -1,0 +1,13 @@
+1	Happy	happy	JJ	pos2=NNP	5	nmod	_	O
+2	Black	black	NNP	pos2=JJ	3	compound	_	B-EVENT
+3	Friday	friday	NNP	_	5	compound	_	L-EVENT
+4	idiot	idiot	NN	_	5	compound	_	O
+5	hookers	hooker	NNS	_	6	nsubj	_	O
+6	love	love	VBP	pos2=NN	0	root	_	O
+7	Chanel	chanel	NNP	_	9	compound	_	B-ORG
+8	Oberlin	oberlin	NNP	_	9	compound	_	I-ORG
+9	💋	💋	NNP	pos2=NFP	12	nmod	_	L-ORG
+10	#ScreamQueens	#screamqueens	GW	pos2=VBZ	12	nmod	_	O
+11	#BlackFriday	#blackfriday	GW	pos2=ADD	12	nmod	_	O
+12	https://t.co/QHTtAQtOhs	#hlink#	ADD	pos2=NN	6	dobj	_	U-ORG
+

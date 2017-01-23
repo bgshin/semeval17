@@ -1,0 +1,23 @@
+1	What	what	WP	pos2=WDT	6	dobj	_	O
+2	should	should	MD	_	6	aux	_	O
+3	a	a	DT	_	5	det	_	O
+4	driverless	driverless	JJ	pos2=NN	5	nmod	_	O
+5	car	car	NN	_	6	nsubj	_	O
+6	do	do	VB	pos2=VBP	0	root	_	O
+7	in	in	IN	_	6	prep	_	O
+8	this	this	DT	_	9	det	_	O
+9	situation	situation	NN	_	7	pobj	_	O
+10	?	?	.	_	6	punct	_	O
+
+1	This	this	DT	_	2	det	_	O
+2	game	game	NN	_	4	nsubj	_	O
+3	can	can	MD	_	4	aux	_	O
+4	help	help	VB	_	0	root	_	O
+5	them	them	PRP	_	7	nsubj	_	O
+6	"	"	``	_	7	punct	_	O
+7	learn	learn	VB	_	4	ccomp	_	O
+8	"	"	''	_	7	punct	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	https://t.co/A5Y6rAoOuI	#hlink#	ADD	_	0	root	_	U-ORG
+

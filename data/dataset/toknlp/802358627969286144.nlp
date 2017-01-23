@@ -1,0 +1,9 @@
+1	@LeMonde_SydMUN	@lemonde_sydmun	NNP	pos2=XX	5	nmod	_	O
+2	The	the	DT	_	3	det	_	O
+3	followers	follower	NNS	_	0	nsubjpass	_	O
+4	of	of	IN	_	3	prep	_	O
+5	Kim	kim	NNP	_	8	compound	_	B-PERSON
+6	Jong	jong	NNP	_	8	compound	_	I-PERSON
+7	-	-	HYPH	_	8	punct	_	I-PERSON
+8	un	un	NNP	pos2=NN	4	pobj	_	L-PERSON
+

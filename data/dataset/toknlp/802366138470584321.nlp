@@ -1,0 +1,22 @@
+1	The	the	DT	_	13	det	_	B-ORG
+2	Kelly	kelly	NNP	_	5	nmod	_	I-ORG
+3	File	file	NNP	_	5	nmod	_	I-ORG
+4	Special	special	NNP	pos2=JJ	5	nmod	_	L-ORG
+5	Nov	nov	NNP	_	13	nmod	_	B-DATE
+6	25	0	CD	_	5	nmod	_	I-DATE
+7	,	,	,	_	5	punct	_	I-DATE
+8	2016	0	CD	_	5	npadvmod	_	L-DATE
+9	The	the	DT	_	11	det	_	B-ORG
+10	Trump	trump	NNP	_	11	compound	_	I-ORG
+11	Transition	transition	NNP	pos2=NN	5	appos	_	L-ORG
+12	;	;	,	pos2=:	13	punct	_	O
+13	Panel	panel	NNP	pos2=NN	19	dep	_	O
+14	on	on	IN	_	13	prep	_	O
+15	Trump	trump	NNP	pos2=NN	16	compound	_	B-ORG
+16	Cabinet	cabinet	NNP	_	17	compound	_	L-ORG
+17	Controversy	controversy	NN	pos2=NNP	14	pobj	_	O
+18	:	:	:	_	19	punct	_	O
+19	https://t.co/Qf4M5gGznf	#hlink#	ADD	_	0	root	_	O
+20	via	via	IN	_	19	prep	_	O
+21	@YouTube	@youtube	NNP	pos2=NN	20	pobj	_	O
+

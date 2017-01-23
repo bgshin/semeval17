@@ -1,0 +1,17 @@
+1	#SorosRiots	#sorosriots	NNS	pos2=ADD	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	Smoke	smoke	NNP	pos2=VB	5	compound	_	B-ORG
+4	Screen:Real	screen:real	NNP	_	5	compound	_	I-ORG
+5	Goal	goal	NNP	pos2=NN	16	dep	_	L-ORG
+6	is	be	VBZ	_	16	dep	_	O
+7	eliminate	eliminate	VB	pos2=JJ	6	xcomp	_	O
+8	fairness	fairness	NN	_	7	dobj	_	O
+9	by	by	IN	_	7	prep	_	O
+10	eliminating	eliminate	VBG	_	9	pcomp	_	O
+11	Electoral	electoral	NNP	pos2=JJ	12	compound	_	B-ORG
+12	College	college	NNP	pos2=NN	10	dobj	_	L-ORG
+13	(	(	-LRB-	_	12	punct	_	O
+14	1of2	0of0	NN	pos2=GW	12	appos	_	O
+15	)	)	-RRB-	_	12	punct	_	O
+16	https://t.co/DaUsbQs0IX	#hlink#	ADD	pos2=NN	2	dep	_	O
+

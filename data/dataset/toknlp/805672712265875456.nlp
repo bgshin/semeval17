@@ -1,0 +1,15 @@
+1	Gun	gun	NNP	pos2=NN	2	compound	_	O
+2	Control	control	NNP	_	3	nsubj	_	O
+3	Endangers	endanger	VBZ	pos2=NNP	0	root	_	O
+4	More	more	JJR	pos2=NNP	5	nmod	_	O
+5	Lives	live	VBZ	pos2=NNPS	3	dobj	_	O
+6	Than	than	IN	_	8	mark	_	O
+7	it	it	PRP	_	8	nsubj	_	O
+8	Saves	save	VBZ	_	5	advcl	_	O
+9	https://t.co/6yfFh69OTQ	#hlink#	ADD	_	8	dobj	_	O
+10	via	via	IN	_	8	prep	_	O
+11	@	@	-LRB-	pos2=NFP	14	punct	_	O
+12	3tags_org#PJNET	0tags_org#pjnet	NN	pos2=ADD	14	compound	_	O
+13	#	#	NN	pos2=HYPH	14	compound	_	O
+14	2A	0a	NN	_	10	pobj	_	U-MONEY
+

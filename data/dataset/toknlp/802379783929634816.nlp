@@ -1,0 +1,24 @@
+1	People	people	NNS	_	3	nsubj	_	O
+2	were	be	VBD	_	3	aux	_	O
+3	voting	vote	VBG	_	0	root	_	O
+4	against	against	IN	_	3	prep	_	O
+5	their	their	PRP$	_	8	poss	_	O
+6	own	own	JJ	_	8	nmod	_	O
+7	self	self	NN	_	8	compound	_	O
+8	interests	interest	NNS	_	4	pobj	_	O
+9	because	because	IN	_	11	mark	_	O
+10	they	they	PRP	_	11	nsubj	_	O
+11	started	start	VBD	_	3	advcl	_	O
+12	to	to	TO	_	13	aux	_	O
+13	believe	believe	VB	_	11	xcomp	_	O
+14	repeation	repeation	NN	pos2=NNP	13	dobj	_	O
+15	?	?	.	_	3	punct	_	O
+
+1	You	you	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	say	say	VB	_	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+
+1	https://t.co/6V71BvUbdr	#hlink#	ADD	_	0	root	_	U-ORG
+

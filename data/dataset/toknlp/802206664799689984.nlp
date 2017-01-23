@@ -1,0 +1,18 @@
+1	Ek	ek	NNP	pos2=NN	2	compound	_	O
+2	dink	dink	NN	pos2=FW	4	poss	_	O
+3	'	'	POS	pos2=''	2	case	_	O
+4	n	n	NN	pos2=POS	6	compound	_	O
+5	#Backstage	#backstage	NNP	pos2=XX	6	compound	_	O
+6	#mannequinchallenge	#mannequinchallenge	NN	pos2=XX	12	dep	_	O
+7	by	by	IN	_	6	prep	_	O
+8	@AfrIsGroot	@afrisgroot	NNP	pos2=CD	10	compound	_	O
+9	sal	sal	NNP	pos2=JJ	10	compound	_	O
+10	MAL	mal	NNP	_	7	pobj	_	O
+11	AWESOME	awesome	JJ	pos2=NNP	12	nmod	_	O
+12	wees	wee	NNS	_	0	root	_	O
+13	!!!	!!	.	_	12	punct	_	O
+
+1	🎥💃🏼🏃🏻🚶‍♀️🙋🏻‍♂️🕴@GrootFM	🎥💃🏼🏃🏻🚶‍♀️🙋🏻‍♂️🕴@grootfm	UH	pos2=ADD	0	root	_	O
+2	@BarryPret79	@barrypret0	NN	pos2=UH	1	vocative	_	O
+3	???	??	.	pos2=SYM	1	punct	_	O
+

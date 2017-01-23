@@ -1,0 +1,12 @@
+1	@ChiOnwurah	@chionwurah	UH	pos2=ADD	5	discourse	_	O
+2	@WES1919	@wes0	NN	pos2=CD	5	npadvmod	_	O
+3	@bcswomen	@bcswomen	UH	pos2=MD	5	discourse	_	O
+4	@LetToysBeToys	@lettoysbetoys	NNS	pos2=NNP	5	nsubj	_	O
+5	Let	let	VB	pos2=VBP	0	root	_	O
+6	robots	robot	NNS	_	7	nsubj	_	O
+7	be	be	VB	_	5	ccomp	_	O
+8	#Robots	#robots	NNS	pos2=VBN	7	attr	_	O
+9	!	!	.	_	5	punct	_	O
+
+1	https://t.co/BKxNc4ksln	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,19 @@
+1	Snoop	snoop	NNP	_	4	compound	_	B-PERSON
+2	Dogg	dogg	NNP	_	4	compound	_	L-PERSON
+3	Brings	brings	NNP	pos2=VBZ	4	compound	_	O
+4	Turkeys	turkey	NNPS	pos2=NNP	0	root	_	O
+5	,	,	,	_	4	punct	_	O
+6	Thanksgiving	thanksgiving	NNP	_	7	compound	_	U-DATE
+7	Joy	joy	NNP	_	4	conj	_	O
+8	to	to	IN	_	7	prep	_	O
+9	Inglewood	inglewood	NNP	_	14	dep	_	U-GPE
+10	|	|	SYM	pos2=,	14	punct	_	O
+11	NBC	nbc	NNP	_	13	compound	_	B-LOC
+12	Southern	southern	NNP	_	13	compound	_	I-LOC
+13	California	california	NNP	_	14	dep	_	L-LOC
+14	https://t.co/RgcilHUDjs	#hlink#	ADD	pos2=NNP	8	pobj	_	U-GPE
+15	via	via	IN	_	7	prep	_	O
+16	@nbcla	@nbcla	XX	pos2=NNP	15	pobj	_	O
+17	✨	✨	NFP	pos2=XX	4	punct	_	O
+18	💕	💕	.	pos2=NN	4	punct	_	O
+

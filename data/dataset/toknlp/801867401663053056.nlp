@@ -1,0 +1,7 @@
+1	@TREED2012	@treed0	NN	pos2=NNS	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	that	that	IN	pos2=DT	0	root	_	O
+4	Justin	justin	NNP	_	5	compound	_	B-PERSON
+5	Verlander	verlander	NNP	_	0	root	_	L-PERSON
+6	?	?	.	_	2	punct	_	O
+

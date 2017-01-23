@@ -1,0 +1,16 @@
+1	#Didyoumiss	#didyoumiss	NNS	pos2=NNP	11	vocative	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@Fb_loaded	@fb_loaded	NNP	pos2=CD	6	compound	_	O
+4	Real	real	NNP	pos2=JJ	6	compound	_	B-ORG
+5	Madrid	madrid	NNP	_	6	compound	_	I-ORG
+6	Forward	forward	NNP	pos2=RB	2	pobj	_	L-ORG
+7	,	,	,	_	11	punct	_	O
+8	Cristiano	cristiano	NNP	_	10	compound	_	B-PERSON
+9	Ronaldo	ronaldo	NNP	_	10	compound	_	L-PERSON
+10	Allegedly	allegedly	NNP	pos2=RB	11	nsubj	_	O
+11	Admits	admit	VBZ	_	0	root	_	O
+12	He	he	PRP	pos2=NNP	13	nsubj	_	O
+13	is	be	VBZ	_	11	ccomp	_	O
+14	g.ay	#hlink#	ADD	_	13	attr	_	O
+15	https://t.co/vHwOLo7wDj	#hlink#	ADD	_	13	attr	_	U-ORG
+

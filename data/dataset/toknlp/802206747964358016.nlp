@@ -1,0 +1,29 @@
+1	@robjshearer	@robjshearer	UH	pos2=PRP$	4	discourse	_	O
+2	@EricBoehlert	@ericboehlert	MD	pos2=POS	0	root	_	O
+3	smart	smart	JJ	_	4	nmod	_	O
+4	move	move	NN	pos2=VB	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	both	both	DT	_	5	pobj	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	why	why	WRB	_	3	advmod	_	O
+2	waste	waste	NN	pos2=VB	3	compound	_	O
+3	resources	resource	NNS	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	however	however	RB	_	13	advmod	_	O
+2	,	,	,	_	13	punct	_	O
+3	if	if	IN	_	5	mark	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	were	be	VBD	_	13	advcl	_	O
+6	a	a	DT	_	8	det	_	O
+7	popular	popular	JJ	_	8	nmod	_	O
+8	vote	vote	NN	_	5	attr	_	O
+9	,	,	,	_	13	punct	_	O
+10	DT	dt	NNP	pos2=NN	13	nsubj	_	U-ORG
+11	would	would	MD	_	13	aux	_	O
+12	have	have	VB	_	13	aux	_	O
+13	ate	eat	VBN	pos2=VBD	0	root	_	O
+14	her	her	PRP$	pos2=PRP	15	poss	_	O
+15	lunch	lunch	NN	_	13	dobj	_	O
+

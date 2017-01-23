@@ -1,0 +1,8 @@
+1	Well	well	UH	_	0	root	_	O
+2	,	,	,	_	1	punct	_	O
+3	.......	..	.	pos2=,	1	punct	_	O
+
+1	😁💛#onedirection	😁💛#onedirection	GW	pos2=NN	3	nmod	_	O
+2	#directioner	#directioner	GW	pos2=RBR	3	nmod	_	O
+3	https://t.co/uZxs7pXykl	#hlink#	ADD	pos2=NN	0	root	_	O
+

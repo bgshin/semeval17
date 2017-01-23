@@ -1,0 +1,10 @@
+1	#Hamas	#hamas	JJ	pos2=NNS	2	nmod	_	O
+2	leader	leader	NN	_	6	dep	_	O
+3	:	:	:	_	6	punct	_	O
+4	#Trump	#trump	NNP	pos2=EX	6	nsubj	_	U-ORG
+5	may	may	MD	_	6	aux	_	O
+6	be	be	VB	_	0	root	_	O
+7	a	a	DT	pos2=GW	8	det	_	O
+8	#Jew	#jew	NNP	pos2=ADD	9	nmod	_	O
+9	https://t.co/jGFZTvj2pF	#hlink#	ADD	pos2=NN	6	attr	_	O
+

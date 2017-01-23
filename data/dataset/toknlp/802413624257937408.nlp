@@ -1,0 +1,20 @@
+1	#BREAKING	#breaking	VBG	pos2=NN	9	advcl	_	O
+2	Hillary	hillary	NNP	_	4	compound	_	B-PERSON
+3	Clinton	clinton	NNP	_	4	compound	_	L-PERSON
+4	Mom	mom	NNP	pos2=NN	1	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	The	the	DT	pos2=NNP	8	det	_	B-ORG
+7	Foundation	foundation	NNP	_	8	compound	_	I-ORG
+8	Bunch	bunch	NNP	pos2=NN	5	pobj	_	L-ORG
+9	appointed	appoint	VBD	pos2=VBN	0	root	_	O
+10	Podesta	podesta	NNP	_	11	compound	_	B-ORG
+11	#Wikileaks	#wikileaks	NNP	pos2=POS	13	compound	_	L-ORG
+12	star	star	NN	pos2=VB	13	compound	_	O
+13	designer	designer	NN	_	9	dobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	her	her	PRP$	pos2=PRP	16	poss	_	O
+16	Fidel	fidel	NNP	_	14	pobj	_	U-PERSON
+17	like	like	IN	pos2=UH	9	prep	_	O
+18	…	…	NFP	pos2=NNP	19	nmod	_	O
+19	https://t.co/GIdZT4QBND	#hlink#	ADD	_	17	pobj	_	O
+

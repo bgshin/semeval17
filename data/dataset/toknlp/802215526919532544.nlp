@@ -1,0 +1,13 @@
+1	Self-driving	self-driving	JJ	pos2=NN	2	nmod	_	O
+2	cars	car	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	self-regulating	self-regulating	JJ	_	6	nmod	_	O
+6	banks	bank	NNS	_	3	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	inanimate	inanimate	JJ	_	9	nmod	_	O
+9	objects	object	NNS	_	7	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	https://t.co/ELlcoMtShL	#hlink#	ADD	_	0	root	_	U-ORG
+

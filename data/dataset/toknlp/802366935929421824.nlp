@@ -1,0 +1,23 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	funny	funny	JJ	_	2	acomp	_	O
+4	to	to	TO	_	5	aux	_	O
+5	watch	watch	VB	_	2	xcomp	_	O
+6	the	the	DT	_	8	det	_	O
+7	news	news	NN	_	8	compound	_	O
+8	stations	station	NNS	_	9	nsubj	_	O
+9	try	try	VBP	_	5	ccomp	_	O
+10	to	to	TO	_	11	aux	_	O
+11	figure	figure	VB	_	9	xcomp	_	O
+12	Donald	donald	NNP	_	13	compound	_	B-PERSON
+13	Trump	trump	NNP	pos2=VB	11	dobj	_	L-PERSON
+14	out	out	RP	pos2=RB	11	prt	_	O
+15	when	when	WRB	_	18	advmod	_	O
+16	he	he	PRP	_	18	nsubj	_	O
+17	is	be	VBZ	_	18	aux	_	O
+18	putting	put	VBG	_	11	advcl	_	O
+19	his	his	PRP$	_	20	poss	_	O
+20	cabinet	cabinet	NN	_	18	dobj	_	O
+21	togetherSo	togetherso	RB	pos2=XX	18	advmod	_	O
+22	funny	funny	JJ	_	18	advmod	_	O
+

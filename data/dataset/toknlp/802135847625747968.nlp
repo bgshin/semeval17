@@ -1,0 +1,25 @@
+1	Drank	drink	VBD	pos2=VB	12	nsubj	_	O
+2	so	so	RB	_	3	advmod	_	O
+3	much	much	JJ	_	4	nmod	_	O
+4	beer	beer	NN	_	1	dobj	_	O
+5	yesterday	yesterday	NN	_	1	npadvmod	_	U-DATE
+6	that	that	WDT	pos2=IN	9	dobj	_	O
+7	I	I	PRP	_	9	nsubj	_	O
+8	somehow	somehow	RB	_	9	advmod	_	O
+9	bypassed	bypass	VBD	_	4	relcl	_	O
+10	drunk	drunk	JJ	pos2=NN	13	nmod	_	O
+11	+	+	SYM	pos2=NNP	12	nsubj	_	O
+12	ended	ended	VBD	pos2=VBN	0	root	_	O
+13	up	up	RP	_	12	prt	_	O
+14	completely	completely	RB	_	15	advmod	_	O
+15	sober	sober	JJ	pos2=VB	12	advcl	_	O
+16	?	?	.	_	12	punct	_	O
+
+1	🤔	🤔	NFP	pos2=NN	2	dep	_	O
+2	...	..	.	pos2=,	0	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	blame	blame	VBP	_	0	root	_	O
+3	David	david	NNP	_	4	compound	_	B-PERSON
+4	Blaine	blaine	NNP	_	2	dobj	_	L-PERSON
+

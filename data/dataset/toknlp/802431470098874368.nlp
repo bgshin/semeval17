@@ -1,0 +1,21 @@
+1	@tneliton	@tneliton	UH	pos2=ADD	4	poss	_	O
+2	@LibsNoFun	@libsnofun	NN	pos2=UH	4	poss	_	O
+3	if	if	IN	_	7	mark	_	O
+4	people	people	NNS	_	7	nsubj	_	O
+5	do	do	VBP	_	7	aux	_	O
+6	n’t	not	RB	_	7	neg	_	O
+7	consider	consider	VB	_	10	advcl	_	O
+8	selfs	self	NNS	pos2=CD	9	compound	_	O
+9	Americans	american	NNPS	_	7	dobj	_	U-NORP
+10	,	,	,	_	0	root	_	O
+11	https://t.co/Mf8tKcXetX	#hlink#	ADD	pos2=JJ	13	compound	_	U-NORP
+12	citizens	citizen	NNS	pos2=VBZ	13	compound	_	O
+13	liberals	liberal	NNS	_	7	dobj	_	O
+14	,	,	,	_	13	punct	_	O
+15	democrats	democrat	NNS	pos2=NNPS	13	conj	_	U-NORP
+16	,	,	,	_	15	punct	_	O
+17	Trump	trump	NNP	pos2=NN	12	appos	_	U-ORG
+18	not	not	RB	_	20	neg	_	O
+19	their	their	PRP$	_	20	poss	_	O
+20	Pres.	pres.	NNP	pos2=NNS	17	appos	_	O
+

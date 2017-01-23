@@ -1,0 +1,15 @@
+1	Dominate	dominate	VB	_	0	root	_	O
+2	your	your	PRP$	_	3	poss	_	O
+3	energy	energy	NN	_	1	dobj	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	Discover	discover	VB	pos2=VBP	0	root	_	O
+2	how	how	WRB	_	4	dep	_	O
+3	:	:	:	_	4	punct	_	O
+4	https://t.co/GkOUmepYJu#DominatingYourMind	#hlink#	ADD	pos2=NN	0	root	_	O
+5	@nytimes	@nytimes	IN	pos2=VBZ	4	prep	_	O
+6	#DYM	#dym	NFP	pos2=GW	9	nmod	_	O
+7	@NYTMetro	@nytmetro	GW	pos2=CD	9	nmod	_	U-MONEY
+8	#NBAwards	#nbawards	GW	pos2=ADD	9	nmod	_	O
+9	https://t.co/9rjnUUt5CM	#hlink#	ADD	pos2=NN	5	pobj	_	O
+

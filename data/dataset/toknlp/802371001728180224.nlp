@@ -1,0 +1,31 @@
+1	Pelosi	pelosi	NNP	pos2=NN	10	vocative	_	U-PERSON
+2	,	,	,	_	10	punct	_	O
+3	always	always	RB	_	4	advmod	_	O
+4	one	#crd#	CD	pos2=PRP	1	appos	_	U-CARDINAL
+5	to	to	TO	_	6	aux	_	O
+6	reward	reward	VB	_	4	relcl	_	O
+7	failure	failure	NN	_	6	dobj	_	O
+8	,	,	,	_	10	punct	_	O
+9	is	be	VBZ	_	10	aux	_	O
+10	trying	try	VBG	_	0	root	_	O
+11	to	to	TO	_	12	aux	_	O
+12	burden	burden	VB	_	10	xcomp	_	O
+13	House	house	NNP	_	14	compound	_	U-ORG
+14	Dems	dems	NNPS	pos2=NNP	12	dobj	_	U-NORP
+15	with	with	IN	_	12	prep	_	O
+16	Ben	ben	NNP	_	18	compound	_	B-PERSON
+17	Ray	ray	NNP	_	18	compound	_	I-PERSON
+18	Lujan	lujan	NNP	_	15	pobj	_	L-PERSON
+19	as	as	IN	_	18	prep	_	O
+20	DCCC	dccc	NNP	pos2=NN	21	compound	_	U-ORG
+21	chair	chair	NN	_	19	pobj	_	O
+22	again	again	RB	_	12	advmod	_	O
+23	.	.	.	_	10	punct	_	O
+
+1	She	she	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	now	now	RB	_	2	advmod	_	O
+4	incapable	incapable	JJ	_	2	acomp	_	O
+5	of	of	IN	_	4	prep	_	O
+6	learning	learning	NN	pos2=VBG	5	pobj	_	O
+

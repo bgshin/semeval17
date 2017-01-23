@@ -1,0 +1,15 @@
+1	Neo-Nazi	neo-nazi	NNP	pos2=JJ	3	compound	_	O
+2	Richard	richard	NNP	_	3	compound	_	B-PERSON
+3	Spencer	spencer	NNP	_	5	poss	_	I-PERSON
+4	’s	's	POS	_	3	case	_	L-PERSON
+5	wife	wife	NN	_	6	nsubj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	a	a	DT	_	9	det	_	O
+8	Russian	russian	JJ	_	9	nmod	_	U-NORP
+9	propagandist	propagandist	NN	_	6	attr	_	O
+10	with	with	IN	_	9	prep	_	O
+11	allegiance	allegiance	NN	_	10	pobj	_	O
+12	to	to	IN	_	11	prep	_	O
+13	Putin	putin	NNP	_	12	pobj	_	U-PERSON
+14	https://t.co/tH0vXO2k2c	#hlink#	ADD	pos2=NNP	6	dep	_	O
+

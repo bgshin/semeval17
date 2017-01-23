@@ -1,0 +1,25 @@
+1	#BoycottIsrael	#boycottisrael	NNP	pos2=DT	2	compound	_	O
+2	Time	time	NN	pos2=NNP	10	nsubjpass	_	O
+3	to	to	TO	_	4	aux	_	O
+4	do	do	VB	_	2	relcl	_	O
+5	to	to	IN	_	4	prep	_	O
+6	Zionist	zionist	VB	pos2=NNP	7	nmod	_	U-NORP
+7	Israel	israel	NNP	_	5	pobj	_	U-GPE
+8	what	what	WP	_	10	nsubjpass	_	O
+9	was	be	VBD	_	10	auxpass	_	O
+10	done	do	VBN	_	0	root	_	O
+11	to	to	IN	pos2=TO	10	prep	_	O
+12	#Apartheid	#apartheid	NNP	pos2=VB	13	compound	_	B-PERSON
+13	#Israel	#israel	NNP	pos2=XX	11	pobj	_	L-PERSON
+14	.	.	.	_	10	punct	_	O
+
+1	Boycott	boycott	NN	pos2=VB	0	root	_	O
+2	until	until	IN	_	4	mark	_	O
+3	they	they	PRP	_	4	nsubj	_	O
+4	change	change	VBP	_	1	advcl	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	Respect	respect	GW	pos2=NN	3	nmod	_	O
+2	…	…	NFP	pos2=GW	3	punct	_	O
+3	https://t.co/TNwelEF2jn	#hlink#	ADD	pos2=NN	0	root	_	O
+

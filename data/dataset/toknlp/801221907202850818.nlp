@@ -1,0 +1,26 @@
+1	@corbydavidson	@corbydavidson	IN	pos2=UH	5	prep	_	O
+2	Corby	corby	NNP	pos2=RB	1	pobj	_	U-GPE
+3	-	-	,	pos2=HYPH	5	punct	_	O
+4	he	he	PRP	_	5	nsubj	_	O
+5	was	be	VBD	_	0	root	_	O
+6	all	all	DT	pos2=RB	5	dep	_	O
+7	for	for	IN	_	5	prep	_	O
+8	building	build	VBG	_	7	pcomp	_	O
+9	a	a	DT	_	10	det	_	O
+10	wall	wall	NN	_	8	dobj	_	O
+11	on	on	IN	_	8	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	Mexican	mexican	JJ	pos2=NNP	14	nmod	_	U-NORP
+14	border	border	NN	_	11	pobj	_	O
+15	,	,	,	_	5	punct	_	O
+16	denying	deny	VBG	_	5	advcl	_	O
+17	Muslims	muslim	NNPS	_	18	compound	_	U-NORP
+18	entry	entry	NN	pos2=RB	16	dobj	_	O
+19	to	to	IN	_	18	prep	_	O
+20	the	the	DT	_	21	det	_	O
+21	US	us	NNP	_	19	pobj	_	U-GPE
+22	,	,	,	_	5	punct	_	O
+23	and	and	CC	_	5	cc	_	O
+24	against	against	IN	_	19	conj	_	O
+25	BLM.	blm.	NNP	pos2=NNS	24	pobj	_	U-ORG
+

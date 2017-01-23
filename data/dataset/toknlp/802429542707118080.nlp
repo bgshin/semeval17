@@ -1,0 +1,14 @@
+1	sometimes	sometimes	RB	_	5	advmod	_	O
+2	i	I	PRP	_	5	nsubj	_	O
+3	ca	can	MD	_	5	aux	_	O
+4	nt	nt	RB	_	5	advmod	_	O
+5	tell	tell	VB	_	0	root	_	O
+6	if	if	IN	_	9	mark	_	O
+7	white	white	JJ	_	8	nmod	_	O
+8	liberals	liberal	NNS	_	9	nsubj	_	O
+9	are	be	VBP	_	5	ccomp	_	O
+10	willfully	willfully	RB	_	11	advmod	_	O
+11	obtuse	obtuse	JJ	_	9	acomp	_	O
+12	or	or	CC	_	11	cc	_	O
+13	not	not	RB	_	9	conj	_	O
+

@@ -1,0 +1,21 @@
+1	#Spurs	#spurs	NNS	pos2=NNP	2	compound	_	O
+2	#GoSpursGo	#gospursgo	NNP	pos2=RB	0	root	_	O
+3	1997	0	CD	_	5	qmod	_	B-DATE
+4	-	-	SYM	pos2=HYPH	5	punct	_	I-DATE
+5	98	0	CD	_	10	compound	_	L-DATE
+6	TIM	tim	NNP	pos2=NN	9	compound	_	O
+7	DUNCAN	duncan	NNP	_	9	compound	_	O
+8	Rookie	rookie	NNP	pos2=NN	9	compound	_	O
+9	#Cards	#cards	NNP	pos2=POS	12	compound	_	O
+10	(2)	(0)	CD	pos2=POS	7	cc	_	O
+11	Upper	upper	NNP	pos2=JJ	12	compound	_	B-ORG
+12	Deck	deck	NNP	pos2=NN	0	root	_	L-ORG
+13	and	and	CC	_	12	cc	_	O
+14	Skybox	skybox	NNP	_	17	compound	_	B-ORG
+15	Premium	premium	NNP	_	17	compound	_	I-ORG
+16	Future	future	NNP	pos2=JJ	17	compound	_	I-ORG
+17	HOFer	hofer	NNP	pos2=GW	12	conj	_	L-ORG
+18	https://t.co/gCch8HnAGC	#hlink#	ADD	_	20	nmod	_	O
+19	#TimDuncan	#timduncan	ADD	pos2=-RRB-	17	cc	_	U-ORG
+20	#NBA	#nba	NN	pos2=ADD	19	pobj	_	O
+

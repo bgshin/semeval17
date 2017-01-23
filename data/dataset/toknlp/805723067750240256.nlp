@@ -1,0 +1,21 @@
+1	#Aleppo	#aleppo	FW	pos2=CD	2	nmod	_	O
+2	slaughter	slaughter	NN	_	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	#Russia	#russia	NNP	pos2=NFP	5	compound	_	B-PERSON
+5	#Assad	#assad	NNP	pos2=NN	6	nsubj	_	L-PERSON
+6	guilty	guilty	JJ	pos2=NN	0	root	_	O
+7	of	of	IN	_	6	prep	_	O
+8	bombing	bombing	NN	pos2=VBG	9	compound	_	O
+9	civilians	civilian	NNS	_	7	pobj	_	O
+10	,	,	,	_	12	punct	_	O
+11	world	world	NN	_	12	nsubj	_	O
+12	guilty	guilty	JJ	_	20	dep	_	O
+13	of	of	IN	_	12	prep	_	O
+14	doing	do	VBG	_	13	pcomp	_	O
+15	nothing	nothing	NN	_	14	dobj	_	O
+16	#UN	#un	IN	pos2=NNP	14	prep	_	O
+17	#POTUS	#potus	GW	pos2=ADD	20	nmod	_	U-ORG
+18	#EU	#eu	GW	pos2=NN	20	nmod	_	U-MONEY
+19	@FP	@fp	GW	pos2=NFP	20	nmod	_	O
+20	https://t.co/8mxOLNTJOO	#hlink#	ADD	pos2=NN	6	dep	_	O
+

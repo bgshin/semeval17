@@ -1,0 +1,24 @@
+1	#ISIL	#isil	NNP	pos2=NN	2	compound	_	U-ORG
+2	#ISIS	#isis	NN	pos2=NNP	3	compound	_	O
+3	#DAESH	#daesh	NNP	pos2=NN	4	nsubj	_	U-ORG
+4	Was	be	VBD	_	0	root	_	O
+5	a	a	DT	_	8	det	_	O
+6	Failed	failed	NNP	pos2=VBN	8	compound	_	O
+7	#CIA	#cia	NNP	pos2=NN	8	compound	_	O
+8	Operation	operation	NNP	pos2=NN	4	attr	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	+	+	SYM	_	2	punct	_	O
+2	u	u	PRP	pos2=RP	3	nsubj	_	O
+3	#BrettMcGurkAre	#brettmcgurkare	VBP	pos2=XX	9	ccomp	_	B-PRODUCT
+4	Clean	clean	JJ	pos2=VB	3	advcl	_	L-PRODUCT
+5	Up	up	RP	pos2=IN	4	prt	_	O
+6	Crewfor	crewfor	NNP	pos2=CC	7	compound	_	B-LOC
+7	#ISIS	#isis	NN	pos2=NNP	3	dobj	_	L-LOC
+8	"	"	``	_	9	punct	_	O
+9	Blow	blow	VB	pos2=NNP	0	root	_	O
+10	Back	back	RB	pos2=NNP	9	advmod	_	O
+11	"	"	''	pos2=GW	9	punct	_	O
+12	…	…	NFP	pos2=-LRB-	9	discourse	_	O
+13	https://t.co/Hyu9CZ0jZG	#hlink#	ADD	_	9	dobj	_	O
+

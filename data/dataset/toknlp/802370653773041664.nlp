@@ -1,0 +1,20 @@
+1	You	you	PRP	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	tell	tell	VB	_	11	ccomp	_	O
+4	who	who	WP	_	7	attr	_	O
+5	the	the	DT	_	6	det	_	O
+6	leftists	leftist	NNS	_	7	nsubj	_	O
+7	are	be	VBP	_	3	ccomp	_	O
+8	;	;	:	pos2=,	11	punct	_	O
+9	they	they	PRP	_	11	nsubj	_	O
+10	're	be	VBP	_	11	aux	_	O
+11	joking	joke	VBG	_	0	root	_	O
+12	they	they	PRP	_	13	nsubj	_	O
+13	're	be	VBP	_	11	ccomp	_	O
+14	prostitutes	prostitute	NNS	_	13	attr	_	O
+15	with	with	IN	_	14	prep	_	O
+16	the	the	DT	_	18	det	_	O
+17	#ISpreadLoveBy	#ispreadloveby	NNP	pos2=CD	18	compound	_	U-ORG
+18	tag	tag	NN	_	15	pobj	_	O
+19	.	.	.	_	11	punct	_	O
+

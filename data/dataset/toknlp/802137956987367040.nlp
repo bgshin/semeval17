@@ -1,0 +1,12 @@
+1	David	david	NNP	_	2	compound	_	B-PERSON
+2	Blaine	blaine	NNP	_	5	poss	_	I-PERSON
+3	's	's	POS	_	2	case	_	L-PERSON
+4	Best	good	JJS	pos2=NNP	5	nmod	_	O
+5	Color	color	NN	pos2=NNP	6	compound	_	O
+6	Change	change	NNP	pos2=NN	7	nsubj	_	O
+7	Revealed	reveal	VBD	pos2=VBN	0	root	_	O
+8	:	:	:	_	7	punct	_	O
+9	https://t.co/cpcsTBqbCQ	#hlink#	ADD	pos2=NN	6	acl	_	O
+10	via	via	IN	_	9	prep	_	O
+11	@YouTube	@youtube	NNP	pos2=NN	10	pobj	_	O
+

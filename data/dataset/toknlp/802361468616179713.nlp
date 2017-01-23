@@ -1,0 +1,15 @@
+1	Melania	melania	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Trump	trump	NNP	pos2=NN	5	nsubj	_	L-PERSON
+3	always	always	RB	_	5	advmod	_	O
+4	is	be	VBZ	_	5	aux	_	O
+5	squinting	squint	VBG	_	0	root	_	O
+6	like	like	IN	pos2=UH	9	mark	_	O
+7	she	she	PRP	_	9	nsubj	_	O
+8	's	's	VBZ	_	9	aux	_	O
+9	staring	stare	VBG	_	5	advcl	_	O
+10	directly	directly	RB	_	9	advmod	_	O
+11	into	into	IN	_	9	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	sun	sun	NN	_	11	pobj	_	O
+14	.	.	.	_	5	punct	_	O
+

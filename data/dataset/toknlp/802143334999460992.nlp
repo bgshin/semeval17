@@ -1,0 +1,23 @@
+1	Remember	remember	VB	_	0	root	_	O
+2	,	,	,	_	1	punct	_	O
+3	during	during	IN	_	1	prep	_	O
+4	the	the	DT	_	6	det	_	O
+5	Bush	bush	NNP	_	6	compound	_	B-DATE
+6	years	year	NNS	_	3	pobj	_	L-DATE
+7	,	,	,	_	1	punct	_	O
+8	causing	cause	VBG	_	1	advcl	_	O
+9	or	or	CC	_	8	cc	_	O
+10	being	be	VBG	_	11	auxpass	_	O
+11	involved	involve	VBN	_	8	conj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	another	another	DT	_	14	det	_	O
+14	countries	country	NNS	_	12	pobj	_	O
+15	Civil	civil	NNP	pos2=JJ	16	compound	_	O
+16	war	war	NN	_	17	nsubj	_	O
+17	was	be	VBD	_	1	ccomp	_	O
+18	unthinkable	unthinkable	JJ	_	17	acomp	_	O
+19	.	.	.	_	1	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/TPvdv64jLg	#hlink#	ADD	pos2=NN	0	root	_	O
+

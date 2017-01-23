@@ -1,0 +1,26 @@
+1	So	so	RB	_	5	advmod	_	O
+2	how	how	WRB	_	3	advmod	_	O
+3	long	long	RB	pos2=JJ	5	advmod	_	O
+4	will	will	MD	_	5	aux	_	O
+5	states	states	VB	pos2=VBZ	0	root	_	O
+6	like	like	IN	pos2=UH	5	prep	_	O
+7	CA	ca	NNP	pos2=NN	6	pobj	_	U-GPE
+8	and	and	CC	_	7	cc	_	O
+9	NY	ny	NNP	_	7	conj	_	U-GPE
+10	keep	keep	VBP	pos2=VB	5	advcl	_	O
+11	subsidizing	subsidize	VBG	_	10	xcomp	_	O
+12	red	red	JJ	_	13	nmod	_	O
+13	states	state	NNS	_	11	dobj	_	O
+14	with	with	IN	_	13	prep	_	O
+15	tax	tax	NN	pos2=JJ	16	compound	_	O
+16	dollars	dollar	NNS	_	14	pobj	_	O
+17	if	if	IN	_	21	mark	_	O
+18	the	the	DT	_	20	det	_	B-ORG
+19	Electoral	electoral	NNP	_	20	compound	_	I-ORG
+20	College	college	NNP	_	21	nsubj	_	L-ORG
+21	keeps	keep	VBZ	_	11	advcl	_	O
+22	devaluing	devalue	VBG	_	21	xcomp	_	O
+23	their	their	PRP$	_	24	poss	_	O
+24	voters	voter	NNS	_	22	dobj	_	O
+25	?	?	.	_	5	punct	_	O
+

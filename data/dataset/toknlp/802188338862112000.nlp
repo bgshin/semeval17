@@ -1,0 +1,23 @@
+1	#Hatchimals	#hatchimals	NNS	pos2=UH	0	root	_	O
+2	......	..	.	pos2=,	1	punct	_	O
+
+1	so	so	RB	pos2=IN	3	advmod	_	O
+2	this	this	DT	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	all	all	PDT	_	6	predet	_	O
+5	the	the	DT	_	6	det	_	O
+6	rage	rage	NN	_	3	attr	_	O
+7	?!	?!	.	_	3	punct	_	O
+
+1	Oddly	oddly	RB	_	3	advmod	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	def	def	NN	pos2=RB	5	npadvmod	_	O
+5	making	make	VBG	pos2=NN	6	nmod	_	O
+6	sounds	sound	NNS	pos2=VBZ	11	nsubj	_	O
+7	inside	inside	IN	_	6	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	unopened	unopened	JJ	_	10	nmod	_	O
+10	box🤔	box🤔	NNP	pos2=NN	7	pobj	_	O
+11	https://t.co/yZFfS68Omo	#hlink#	ADD	_	3	attr	_	O
+

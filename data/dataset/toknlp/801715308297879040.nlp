@@ -1,0 +1,17 @@
+1	1.	0.	LS	_	3	meta	_	U-CARDINAL
+2	Emily	emily	NNP	pos2=GW	3	compound	_	B-PERSON
+3	Gilmore2	gilmore0	NNP	pos2=NN	0	root	_	L-PERSON
+4	.	.	.	_	3	punct	_	O
+
+1	Sookie3	sookie0	LS	pos2=NN	0	root	_	U-CARDINAL
+2	.	.	.	_	1	punct	_	O
+
+1	Lane	lane	NNP	pos2=NN	3	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	mother4	mother0	NN	pos2=NNP	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Miss	miss	NNP	_	2	compound	_	O
+2	Patty	patty	NNP	_	3	compound	_	B-PERSON
+3	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=ADD	0	root	_	L-PERSON
+

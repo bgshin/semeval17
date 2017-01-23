@@ -1,0 +1,11 @@
+1	@MarkDice	@markdice	ADD	pos2=NNS	10	dep	_	O
+2	@YouTube	@youtube	NNP	pos2=XX	10	dep	_	O
+3	How	how	WRB	_	4	advmod	_	O
+4	about	about	IN	_	10	dep	_	O
+5	this	this	DT	_	6	det	_	O
+6	read	read	NN	pos2=VBN	4	pobj	_	O
+7	,	,	,	_	10	punct	_	O
+8	Mark	mark	NNP	_	10	dep	_	U-PERSON
+9	:	:	:	_	10	punct	_	O
+10	https://t.co/UxoKA4kJT1	#hlink#	ADD	pos2=NN	0	root	_	O
+

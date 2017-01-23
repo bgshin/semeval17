@@ -1,0 +1,14 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=GW	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	https://t.co/x6bTmW9gw9	#hlink#	NNP	pos2=ADD	10	compound	_	O
+7	Kobe	kobe	NNP	_	10	compound	_	B-PERSON
+8	Bryant	bryant	NNP	_	10	compound	_	L-PERSON
+9	Reverse	reverse	NNP	pos2=VB	10	compound	_	O
+10	Dunk	dunk	NNP	pos2=NN	5	appos	_	O
+11	on	on	IN	_	10	prep	_	O
+12	Tim	tim	NNP	_	13	compound	_	B-PERSON
+13	Duncan	duncan	NNP	_	11	pobj	_	L-PERSON
+

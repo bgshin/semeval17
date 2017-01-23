@@ -1,0 +1,6 @@
+1	@ABC	@abc	NN	pos2=SYM	2	compound	_	O
+2	BREAKING	break	VBG	pos2=NN	3	compound	_	O
+3	NEWS	news	NN	_	5	dep	_	O
+4	:	:	:	_	5	punct	_	O
+5	https://t.co/Fc3Gg03RJ5	#hlink#	ADD	_	0	root	_	U-ORG
+

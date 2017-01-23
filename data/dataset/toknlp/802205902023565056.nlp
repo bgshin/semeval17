@@ -1,0 +1,36 @@
+1	Whiten	whiten	NNP	pos2=JJ	2	compound	_	U-PERSON
+2	supremacists	supremacist	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	mad	mad	JJ	_	3	acomp	_	O
+5	cuz	cuz	IN	pos2=CC	7	mark	_	O
+6	they	they	PRP	_	7	nsubj	_	O
+7	found	find	VBD	_	3	advcl	_	O
+8	out	out	RP	pos2=IN	7	prt	_	O
+9	Trump	trump	NNP	_	10	compound	_	B-ORG
+10	Sec	sec	NNP	_	7	dobj	_	L-ORG
+11	.	.	.	_	3	punct	_	O
+
+1	Ed	ed	NN	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	pick	pick	NN	pos2=VB	2	nsubj	_	O
+2	gave	give	VBD	_	0	root	_	O
+3	$	$	$	pos2=NNS	0	root	_	O
+4	to	to	IN	_	2	dative	_	O
+5	the	the	DT	_	7	det	_	B-ORG
+6	Clinton	clinton	NNP	_	7	compound	_	I-ORG
+7	Foundation	foundation	NNP	_	4	pobj	_	L-ORG
+8	.	.	.	_	2	punct	_	O
+
+1	Well	well	UH	_	5	discourse	_	O
+2	of	of	IN	pos2=RB	5	prep	_	O
+3	course	course	NN	pos2=RB	2	pobj	_	O
+4	she	she	PRP	_	5	nsubj	_	O
+5	did	do	VBD	_	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	jig	jig	NN	pos2=NNS	3	nsubj	_	O
+3	BEEN	be	VBN	_	0	root	_	O
+4	up	up	RB	pos2=RP	3	advmod	_	O
+

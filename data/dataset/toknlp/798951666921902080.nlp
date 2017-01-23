@@ -1,0 +1,24 @@
+1	No	no	DT	pos2=UH	2	det	_	O
+2	need	need	NN	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	build	build	VB	_	2	acl	_	O
+5	a	a	DT	_	6	det	_	O
+6	wall	wall	NN	_	4	dobj	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	Just	just	RB	_	2	advmod	_	O
+2	have	have	VB	pos2=VBP	0	root	_	O
+3	Rosie	rosie	NNP	_	4	compound	_	B-PERSON
+4	O'Donnell	o'donnell	NNP	_	5	nsubj	_	L-PERSON
+5	lay	lie	VBD	pos2=VB	2	ccomp	_	O
+6	down	down	RP	_	5	prt	_	O
+7	on	on	IN	_	5	prep	_	O
+8	the	the	DT	_	12	det	_	O
+9	Mexican	mexican	JJ	pos2=NNP	11	advmod	_	U-NORP
+10	/	/	SYM	pos2=HYPH	11	punct	_	O
+11	American	american	JJ	_	12	nmod	_	U-NORP
+12	border	border	NN	_	7	pobj	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	0	root	_	O
+

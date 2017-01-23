@@ -1,0 +1,24 @@
+1	@United_PHD	@united_phd	ADD	pos2=XX	6	punct	_	O
+2	@TfLTPH	@tfltph	NN	pos2=XX	6	nsubj	_	O
+3	Maybe	maybe	RB	_	6	advmod	_	O
+4	UPHD	uphd	NNP	pos2=NN	6	nsubj	_	U-PERSON
+5	should	should	MD	_	6	aux	_	O
+6	introduce	introduce	VB	_	0	root	_	O
+7	income	income	NN	_	8	compound	_	O
+8	protection	protection	NN	_	6	dobj	_	O
+9	for	for	IN	_	6	prep	_	O
+10	its	its	PRP$	_	11	poss	_	O
+11	members	member	NNS	_	9	pobj	_	O
+12	as	as	IN	_	14	mark	_	O
+13	this	this	DT	_	14	nsubj	_	O
+14	is	be	VBZ	_	6	advcl	_	O
+15	not	not	RB	_	14	neg	_	O
+16	the	the	DT	_	18	det	_	O
+17	first	#ord#	JJ	_	18	nmod	_	U-ORDINAL
+18	time	time	NN	_	14	attr	_	O
+19	#Uber	#uber	NNP	pos2=WP	21	nsubj	_	U-ORG
+20	has	have	VBZ	_	21	aux	_	O
+21	stalled	stall	VBN	_	18	relcl	_	O
+22	on	on	IN	pos2=RP	21	prep	_	O
+23	payroll	payroll	NN	_	22	pobj	_	O
+

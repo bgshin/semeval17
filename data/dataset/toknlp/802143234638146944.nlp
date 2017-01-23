@@ -1,0 +1,15 @@
+1	Burtle	burtle	NNP	pos2=NN	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	sale	sale	NN	_	2	pobj	_	O
+4	!	!	.	_	1	punct	_	O
+
+1	DM	dm	VB	pos2=NN	0	root	_	O
+2	me	me	PRP	_	1	dobj	_	O
+3	!	!	.	_	1	punct	_	O
+
+1	#Hatchimals	#hatchimals	NNS	pos2=ADD	5	dep	_	O
+2	#hatchimal	#hatchimal	UH	pos2=VBP	1	discourse	_	O
+3	#blackfriday	#blackfriday	UH	pos2=FW	1	discourse	_	O
+4	#burtle	#burtle	UH	pos2=ADD	5	punct	_	O
+5	https://t.co/ZYe0vbFbFK	#hlink#	ADD	pos2=UH	0	root	_	O
+

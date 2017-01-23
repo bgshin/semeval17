@@ -1,0 +1,30 @@
+1	Trump	trump	NN	pos2=NNP	3	nsubj	_	U-ORG
+2	has	have	VBZ	_	3	aux	_	O
+3	tried	try	VBN	_	0	root	_	O
+4	to	to	TO	_	6	aux	_	O
+5	illegally	illegally	RB	_	6	advmod	_	O
+6	invest	invest	VB	_	3	xcomp	_	O
+7	in	in	IN	_	6	prep	_	O
+8	Cuba	cuba	NNP	_	7	pobj	_	U-GPE
+9	during	during	IN	_	6	prep	_	O
+10	embargo	embargo	NN	pos2=NNP	9	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	Now	now	RB	_	3	advmod	_	O
+2	he	he	PRP	_	3	nsubj	_	O
+3	wants	want	VBZ	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	make	make	VB	_	3	xcomp	_	O
+6	sure	sure	JJ	_	5	oprd	_	O
+7	he	he	PRP	_	9	nsubj	_	O
+8	can	can	MD	_	9	aux	_	O
+9	do	do	VB	_	6	ccomp	_	O
+10	it	it	PRP	_	9	dobj	_	O
+11	,	,	,	_	3	punct	_	O
+12	and	and	CC	_	3	cc	_	O
+13	Cuba	cuba	NNP	_	15	nsubj	_	U-GPE
+14	will	will	MD	_	15	aux	_	O
+15	b	b	VB	pos2=GW	3	conj	_	O
+16	…	…	:	pos2=NFP	15	punct	_	O
+17	https://t.co/KkgkWlPWuX	#hlink#	ADD	_	15	appos	_	O
+

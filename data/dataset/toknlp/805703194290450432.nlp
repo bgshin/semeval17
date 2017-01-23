@@ -1,0 +1,23 @@
+1	Another	another	DT	_	3	det	_	O
+2	good	good	JJ	_	3	nmod	_	O
+3	reason	reason	NN	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	control	control	VB	_	3	relcl	_	O
+6	immigration	immigration	NN	_	5	dobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	Racial	racial	JJ	_	2	nmod	_	O
+2	segregation	segregation	NN	_	14	dep	_	O
+3	'	'	''	pos2=POS	2	punct	_	O
+4	growing	grow	VBG	_	2	acl	_	O
+5	in	in	IN	_	4	prep	_	O
+6	UK	uk	NNP	_	5	pobj	_	U-GPE
+7	'	'	''	pos2=POS	2	punct	_	O
+8	,	,	,	_	12	punct	_	O
+9	Dame	dame	NNP	_	11	compound	_	O
+10	Louise	louise	NNP	_	11	compound	_	B-PERSON
+11	Casey	casey	NNP	_	12	nsubj	_	L-PERSON
+12	warns	warn	VBZ	pos2=GW	14	parataxis	_	O
+13	-	-	:	pos2=HYPH	12	punct	_	O
+14	https://t.co/K5XwO6s4hd	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,25 @@
+1	After	after	IN	_	14	prep	_	O
+2	watching	watch	VBG	_	1	pcomp	_	O
+3	the	the	DT	_	4	det	_	O
+4	media	medium	NNS	pos2=NN	5	nsubj	_	O
+5	applaud	applaud	VBP	pos2=VB	2	ccomp	_	O
+6	the	the	DT	_	9	det	_	O
+7	Obama	obama	NNP	_	9	compound	_	U-PERSON
+8	admin	admin	NN	pos2=JJ	9	compound	_	O
+9	parade	parade	NN	_	5	dobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	fusterclucks	fusterclucks	NNS	pos2=NNP	10	pobj	_	O
+12	,	,	,	_	14	punct	_	O
+13	it	it	PRP	_	14	nsubj	_	O
+14	's	's	VBZ	_	0	root	_	O
+15	curious	curious	JJ	_	14	acomp	_	O
+16	to	to	TO	_	17	aux	_	O
+17	see	see	VB	_	14	xcomp	_	O
+18	their	their	PRP$	_	19	poss	_	O
+19	concerns	concern	NNS	_	21	nsubj	_	O
+20	Trump	trump	NNP	pos2=NN	21	nsubj	_	U-PERSON
+21	choose	choose	VB	pos2=VBP	17	ccomp	_	O
+22	qualified	qualified	JJ	pos2=VBD	23	nmod	_	O
+23	people	people	NNS	_	21	dobj	_	O
+24	.	.	.	_	14	punct	_	O
+

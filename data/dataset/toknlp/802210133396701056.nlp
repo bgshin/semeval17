@@ -1,0 +1,19 @@
+1	@TheWalkingDead	@thewalkingdead	NN	pos2=RB	10	vocative	_	O
+2	when	when	WRB	_	5	advmod	_	O
+3	that	that	DT	_	4	det	_	O
+4	demon	demon	NN	_	5	nsubj	_	O
+5	came	come	VBD	_	10	advcl	_	O
+6	to	to	IN	_	5	prep	_	O
+7	Alexandria	alexandria	NNP	_	8	compound	_	U-GPE
+8	Rick	rick	NNP	_	6	pobj	_	U-PERSON
+9	should	should	MD	_	10	aux	_	O
+10	have	have	VB	_	0	root	_	O
+11	kill	kill	VB	_	10	xcomp	_	O
+12	him	him	PRP	_	11	dobj	_	O
+13	with	with	IN	_	11	prep	_	O
+14	a	a	DT	_	15	det	_	O
+15	bomb	bomb	NN	_	13	pobj	_	O
+16	lol	lol	UH	pos2=NN	17	discourse	_	O
+17	#thewalkingdead	#thewalkingdead	XX	pos2=FW	18	meta	_	O
+18	#twd	#twd	UH	pos2=FW	10	discourse	_	O
+

@@ -1,0 +1,22 @@
+1	#BlackLivesMatter	#blacklivesmatter	NN	pos2=XX	2	compound	_	O
+2	planning	planning	NN	pos2=VBG	4	nsubj	_	O
+3	to	to	TO	_	4	aux	_	O
+4	disrupt	disrupt	VB	_	0	root	_	O
+5	#BlackFriday	#blackfriday	NNP	pos2=NN	6	compound	_	O
+6	Shoppers	shopper	NNPS	pos2=NNS	4	dobj	_	O
+7	in	in	IN	_	6	prep	_	O
+8	Chicago	chicago	NNP	_	7	pobj	_	U-GPE
+9	.	.	.	_	4	punct	_	O
+
+1	Rahm	rahm	NNP	_	2	compound	_	B-PERSON
+2	Emanuel	emanuel	NNP	_	5	nsubj	_	L-PERSON
+3	ca	can	MD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	keep	keep	VB	_	0	root	_	O
+6	citizens	citizen	NNS	_	5	dobj	_	O
+7	safe	safe	JJ	_	5	oprd	_	O
+8	,	,	,	_	5	punct	_	O
+9	but	but	CC	_	5	cc	_	O
+10	…	…	NFP	pos2=,	11	punct	_	O
+11	https://t.co/O9YpBYvHae	#hlink#	ADD	pos2=NN	5	conj	_	U-ORG
+

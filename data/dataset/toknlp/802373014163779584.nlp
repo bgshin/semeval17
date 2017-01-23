@@ -1,0 +1,11 @@
+1	George	george	NNP	_	2	compound	_	B-PERSON
+2	Soros	soros	NNP	_	3	nsubj	_	L-PERSON
+3	has	have	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	knack	knack	NN	_	3	dobj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	manipulating	manipulate	VBG	pos2=JJ	6	pcomp	_	O
+8	outcomes	outcome	NNS	_	7	dobj	_	O
+9	:	:	:	_	3	punct	_	O
+10	https://t.co/2uXHDUNanj	#hlink#	ADD	pos2=NN	3	dep	_	O
+

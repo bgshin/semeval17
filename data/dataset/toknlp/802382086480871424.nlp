@@ -1,0 +1,30 @@
+1	@	@	SYM	_	2	punct	_	O
+2	1shankarsharma	0shankarsharma	NN	pos2=LS	0	root	_	O
+3	@washingtonpost	@washingtonpost	IN	pos2=VBP	2	prep	_	O
+4	SOUR	sour	JJ	_	5	nmod	_	O
+5	GRAPES	grape	NNS	pos2=NNPS	3	pobj	_	O
+6	!	!	.	_	2	punct	_	O
+
+1	Surprised	surprised	JJ	pos2=VBD	0	root	_	O
+2	that	that	IN	_	6	mark	_	O
+3	even	even	RB	_	5	advmod	_	O
+4	Shankar	shankar	NNP	_	5	compound	_	B-PERSON
+5	sharma	sharma	NNP	pos2=NN	6	nsubj	_	L-PERSON
+6	batting	bat	VBG	pos2=NN	1	ccomp	_	O
+7	for	for	IN	_	6	prep	_	O
+8	dems	dems	NNS	pos2=AFX	7	pobj	_	O
+9	-	-	,	pos2=:	8	punct	_	O
+10	who	who	WP	_	11	nsubj	_	O
+11	knew	know	VBD	_	8	relcl	_	O
+12	it	it	PRP	_	11	dobj	_	O
+13	all	all	RB	pos2=DT	15	advmod	_	O
+14	&	&	CC	_	11	cc	_	O
+15	used	use	VBD	pos2=VBN	11	conj	_	O
+16	it	it	PRP	_	15	dobj	_	O
+17	all	all	DT	pos2=RB	16	appos	_	O
+18	too	too	RB	_	15	advmod	_	O
+19	.	.	.	_	1	punct	_	O
+
+1	KARMA	karma	NN	pos2=NNP	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

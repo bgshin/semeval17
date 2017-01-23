@@ -1,0 +1,6 @@
+1	No	no	DT	pos2=UH	4	det	_	O
+2	More	more	JJR	pos2=RBR	4	nmod	_	O
+3	Trump	trump	NNP	pos2=NN	4	compound	_	B-ORG
+4	Protest	protest	NNP	pos2=NN	0	root	_	L-ORG
+5	??	??	.	_	4	punct	_	O
+

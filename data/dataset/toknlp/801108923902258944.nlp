@@ -1,0 +1,16 @@
+1	Iraqi	iraqi	JJ	_	3	nmod	_	U-NORP
+2	armed	armed	JJ	_	3	nmod	_	O
+3	forces	force	NNS	_	4	nsubj	_	O
+4	advanced	advanced	JJ	pos2=VBN	0	root	_	O
+5	towards	towards	IN	_	4	prep	_	O
+6	#Mosul	#mosul	NNP	pos2=CD	7	compound	_	B-FAC
+7	Airport	airport	NNP	_	5	pobj	_	L-FAC
+8	,	,	,	_	7	punct	_	O
+9	South	south	NNP	pos2=NNPS	7	npadvmod	_	U-LOC
+10	of	of	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	city	city	NN	_	10	pobj	_	O
+13	..	..	.	_	4	punct	_	O
+
+1	#MosulOffensive	#mosuloffensive	ADD	pos2=JJ	0	root	_	O
+

@@ -1,0 +1,27 @@
+1	Since	since	IN	_	12	prep	_	O
+2	becoming	become	VBG	_	1	pcomp	_	O
+3	Barça	barça	NNP	pos2=DT	4	compound	_	U-ORG
+4	coach	coach	NN	_	2	attr	_	O
+5	in	in	IN	_	4	prep	_	O
+6	2014	0	CD	_	5	pobj	_	U-DATE
+7	,	,	,	_	12	punct	_	O
+8	Luis	luis	NNP	_	9	compound	_	B-PERSON
+9	Enrique	enrique	NNP	_	12	nsubj	_	L-PERSON
+10	has	have	VBZ	_	12	aux	_	O
+11	now	now	RB	_	12	advmod	_	O
+12	given	give	VBN	_	0	root	_	O
+13	first	#ord#	JJ	_	14	nmod	_	U-ORDINAL
+14	team	team	NN	_	15	compound	_	O
+15	debuts	debut	NNS	pos2=VBZ	12	dobj	_	O
+16	to	to	IN	_	12	prep	_	O
+17	11	0	CD	_	18	nmod	_	U-CARDINAL
+18	players	player	NNS	_	16	pobj	_	O
+19	from	from	IN	_	18	prep	_	O
+20	the	the	DT	_	22	det	_	O
+21	B	b	NNP	pos2=NN	22	compound	_	O
+22	team	team	NN	_	19	pobj	_	O
+23	.	.	.	_	12	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/JQe4D5mOLh	#hlink#	ADD	pos2=NN	0	root	_	O
+

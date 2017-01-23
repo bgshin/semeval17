@@ -1,0 +1,12 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	what	what	WP	_	11	dobj	_	O
+4	the	the	DT	_	6	det	_	B-ORG
+5	Democratic	democratic	NNP	pos2=JJ	6	compound	_	I-ORG
+6	Party	party	NNP	_	11	dep	_	L-ORG
+7	openly	openly	RB	_	6	advmod	_	O
+8	endorses.#Islam	endorses.#islam	NNP	pos2=.	9	compound	_	B-NORP
+9	#Palestinians	#palestinians	NNPS	pos2=GW	11	dep	_	L-NORP
+10	#Hamas	#hamas	ADD	pos2=POS	11	nmod	_	O
+11	https://t.co/hemBetqzTv	#hlink#	ADD	_	2	ccomp	_	U-ORG
+

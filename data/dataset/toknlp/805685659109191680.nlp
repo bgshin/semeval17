@@ -1,0 +1,12 @@
+1	Stop	stop	VB	_	0	root	_	O
+2	sucking	suck	VBG	_	1	xcomp	_	O
+3	our	our	PRP$	_	4	poss	_	O
+4	gas	gas	NN	pos2=NNS	2	dobj	_	O
+5	out	out	IN	_	2	prep	_	O
+6	of	of	IN	_	5	prep	_	O
+7	Australia	australia	NNP	_	8	compound	_	O
+8	#auspol	#auspol	NNP	pos2=POS	11	nmod	_	O
+9	#CSG	#csg	GW	pos2=XX	11	nmod	_	O
+10	#fracking	#fracking	VBG	pos2=GW	11	nmod	_	O
+11	https://t.co/urjJJsU7bF	#hlink#	ADD	pos2=NN	1	dep	_	U-ORG
+

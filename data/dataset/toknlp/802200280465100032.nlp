@@ -1,0 +1,33 @@
+1	@FoxNews	@foxnews	NNS	pos2=NNP	2	compound	_	O
+2	#Dems	#dems	NNS	pos2=PRP$	3	nsubj	_	O
+3	mastered	master	VBD	pos2=VBN	0	root	_	O
+4	how	how	WRB	_	6	advmod	_	O
+5	to	to	TO	pos2=IN	6	aux	_	O
+6	RIG	rig	VB	pos2=NNP	3	xcomp	_	O
+7	USA	usa	NNP	pos2=NN	9	nmod	_	U-GPE
+8	/	/	SYM	pos2=HYPH	9	punct	_	O
+9	system	system	NN	_	6	dobj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	Same	same	JJ	pos2=RB	0	root	_	O
+2	with	with	IN	_	1	prep	_	O
+3	many	many	JJ	_	5	nmod	_	O
+4	Gov't	gov't	JJ	pos2=NN	5	nmod	_	O
+5	institutions	institution	NNS	_	2	pobj	_	O
+6	+	+	SYM	pos2=POS	5	punct	_	O
+7	unions	union	NNS	_	5	appos	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	$	$	$	pos2=-LRB-	2	nmod	_	O
+2	s	s	POS	pos2=AFX	5	nsubj	_	O
+3	for	for	IN	_	2	prep	_	O
+4	#Dems	#dems	NNS	pos2=NNP	3	pobj	_	O
+5	are	be	VBP	_	0	root	_	O
+6	$	$	$	pos2=``	5	punct	_	O
+7	s	s	POS	pos2=CD	6	case	_	O
+8	for	for	IN	_	7	prep	_	O
+9	unions	union	NNS	_	8	pobj	_	O
+10	!	!	.	_	5	punct	_	O
+
+1	#draintheswamp	#draintheswamp	UH	pos2=XX	0	root	_	O
+

@@ -1,0 +1,15 @@
+1	Should	should	MD	_	4	aux	_	O
+2	self-driving	self-driving	JJ	pos2=VBG	3	nmod	_	O
+3	cars	car	NNS	_	4	nsubj	_	O
+4	prioritize	prioritize	VB	pos2=VBP	0	root	_	O
+5	pedestrians	pedestrian	NNS	_	10	poss	_	O
+6	'	'	POS	pos2=''	5	case	_	O
+7	or	or	CC	_	5	cc	_	O
+8	drivers	driver	NNS	_	5	conj	_	O
+9	'	'	POS	_	8	case	_	O
+10	safety	safety	NN	_	4	dobj	_	O
+11	?	?	.	_	4	punct	_	O
+
+1	https://t.co/j5L6qaXx0E	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/YmjcCR5Qku	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,6 @@
+1	Feeling	feel	VBG	_	0	root	_	O
+2	some	some	DT	_	4	det	_	O
+3	Leonard	leonard	NNP	_	4	compound	_	B-PERSON
+4	Cohen	cohen	NNP	_	1	dobj	_	L-PERSON
+5	tonight	tonight	NN	_	1	npadvmod	_	U-TIME
+

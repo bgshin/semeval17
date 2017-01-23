@@ -1,0 +1,23 @@
+1	Wait	wait	VB	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	What	what	WP	_	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+
+1	Married	married	JJ	_	2	nmod	_	O
+2	man	man	NN	_	3	nsubj	_	O
+3	rejects	reject	VBZ	_	0	root	_	O
+4	hottie	hottie	NN	_	3	dobj	_	O
+5	for	for	IN	_	4	prep	_	O
+6	homeopathy	homeopathy	NN	_	5	pobj	_	O
+7	?	?	.	_	3	punct	_	O
+
+1	Your	your	PRP$	_	3	poss	_	O
+2	adulterer	adulterer	NN	_	3	compound	_	O
+3	skills	skill	NNS	_	5	nsubj	_	O
+4	must	must	MD	_	5	aux	_	O
+5	be	be	VB	_	0	root	_	O
+6	highly	highly	RB	_	7	advmod	_	O
+7	refined	refined	JJ	pos2=VBN	5	acomp	_	O
+8	https://t.co/bE0z1ctOAH	#hlink#	ADD	pos2=NN	5	dep	_	U-ORG
+

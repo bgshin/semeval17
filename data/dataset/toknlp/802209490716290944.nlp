@@ -1,0 +1,27 @@
+1	If	if	IN	_	3	mark	_	O
+2	this	this	DT	_	3	nsubj	_	O
+3	happened	happened	VBD	_	6	advcl	_	O
+4	I	I	PRP	_	6	nsubj	_	O
+5	personally	personally	RB	_	6	advmod	_	O
+6	want	want	VBP	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	thank	thank	VB	pos2=VBP	6	xcomp	_	O
+9	President	president	NNP	_	10	compound	_	O
+10	PUTIN	putin	NNP	_	8	dobj	_	U-PERSON
+11	.	.	.	_	6	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	wonder	wonder	VBP	_	0	root	_	O
+4	how	how	WRB	_	6	advmod	_	O
+5	this	this	DT	_	6	nsubj	_	O
+6	stacked	stack	VBN	pos2=VBD	3	ccomp	_	O
+7	up	up	RP	_	6	prt	_	O
+8	against	against	IN	_	6	prep	_	O
+9	CNN	cnn	NNP	_	8	pobj	_	U-ORG
+10	"	"	``	pos2=''	11	punct	_	O
+11	s	s	NN	pos2=POS	6	vocative	_	O
+12	...	..	.	pos2=,	3	punct	_	O
+
+1	https://t.co/qKpmBqUlXO	#hlink#	ADD	_	0	root	_	U-ORG
+

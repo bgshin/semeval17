@@ -1,0 +1,27 @@
+1	@AppFlyer	@appflyer	NN	pos2=ADD	3	nsubj	_	O
+2	"	"	``	pos2=''	3	punct	_	O
+3	Impossible	impossible	JJ	pos2=NNP	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+
+1	Michael	michael	NNP	_	2	compound	_	B-PERSON
+2	Moore	moore	NNP	_	3	nsubj	_	L-PERSON
+3	told	tell	VBD	_	0	root	_	O
+4	us	us	PRP	_	3	dobj	_	O
+5	all	all	PDT	pos2=DT	8	predet	_	O
+6	that	that	DT	pos2=WDT	8	det	_	O
+7	anti-gun	anti-gun	JJ	_	8	nmod	_	O
+8	control	control	NN	_	9	nsubj	_	O
+9	was	be	VBD	_	3	ccomp	_	O
+10	racist	racist	JJ	_	9	acomp	_	O
+11	!	!	.	_	3	punct	_	O
+
+1	Facts	fact	NNS	_	2	nsubj	_	O
+2	have	have	VBP	_	0	root	_	O
+3	no	no	DT	_	4	det	_	O
+4	place	place	NN	_	2	dobj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	The	the	DT	_	7	det	_	O
+7	Narrative™	narrative™	NNP	_	5	pobj	_	U-WORK_OF_ART
+8	!	!	.	_	2	punct	_	O
+9	"	"	''	_	2	punct	_	O
+

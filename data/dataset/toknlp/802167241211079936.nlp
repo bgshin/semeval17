@@ -1,0 +1,11 @@
+1	Images	image	NNS	_	10	dep	_	O
+2	:	:	:	_	10	punct	_	O
+3	Umtiti	umtiti	NNP	pos2=NN	10	dep	_	U-PERSON
+4	working	work	VBG	_	3	acl	_	O
+5	individually	individually	RB	_	4	advmod	_	O
+6	#fcblive	#fcblive	CD	pos2=IN	3	punct	_	O
+7	[	[	-LRB-	_	8	punct	_	O
+8	fcb	fcb	NN	pos2=GW	10	dep	_	O
+9	]	]	-RRB-	_	8	punct	_	O
+10	https://t.co/uN7ccvmb4B	#hlink#	ADD	_	0	root	_	O
+

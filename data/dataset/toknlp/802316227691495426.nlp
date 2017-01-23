@@ -1,0 +1,28 @@
+1	Much	much	RB	_	2	advmod	_	O
+2	better	good	JJR	pos2=RBR	0	root	_	O
+3	'	'	``	pos2=POS	6	punct	_	O
+4	Old	old	JJ	pos2=NNP	6	nmod	_	O
+5	White	white	NNP	_	6	compound	_	O
+6	Guys	guy	NNPS	pos2=NNS	10	nsubj	_	O
+7	'	'	''	pos2=POS	6	punct	_	O
+8	than	than	IN	_	15	mark	_	O
+9	obama	obama	NNP	pos2=NN	11	poss	_	U-PERSON
+10	's	's	POS	_	9	case	_	O
+11	'	'	``	pos2=''	0	root	_	O
+12	Ignorant	ignorant	JJ	pos2=NNP	14	nmod	_	O
+13	Black	black	NNP	pos2=JJ	14	compound	_	B-EVENT
+14	Guys'!BHO	guys'!bho	NNP	pos2=WP	15	nsubj	_	L-EVENT
+15	has	have	VBZ	_	6	advcl	_	O
+16	mostly	mostly	RB	_	17	advmod	_	O
+17	Black	black	JJ	pos2=NNP	18	nmod	_	O
+18	Admin	admin	NN	pos2=NNP	15	dobj	_	O
+19	.	.	.	_	2	punct	_	O
+
+1	So	so	RB	pos2=CC	3	advmod	_	O
+2	Trump	trump	NNP	pos2=NN	3	nsubj	_	U-ORG
+3	has	have	VBZ	_	0	root	_	O
+4	mostly	mostly	RB	_	5	advmod	_	O
+5	Wh	wh	NNP	pos2=JJ	3	dobj	_	O
+6	…	…	NFP	pos2=-LRB-	3	discourse	_	O
+7	https://t.co/P8BKgFAIpL	#hlink#	ADD	_	3	dep	_	O
+

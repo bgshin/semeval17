@@ -1,0 +1,19 @@
+1	Dems	dems	NNPS	pos2=NNS	4	nsubj	_	U-NORP
+2	will	will	MD	_	4	aux	_	O
+3	be	be	VB	_	4	aux	_	O
+4	flocking	flock	VBG	_	0	root	_	O
+5	to	to	IN	_	4	prep	_	O
+6	Cuba	cuba	NNP	_	5	pobj	_	U-GPE
+7	to	to	TO	_	8	aux	_	O
+8	pay	pay	VB	_	4	advcl	_	O
+9	their	their	PRP$	_	10	poss	_	O
+10	respects	respect	NNS	_	8	dobj	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	Obama	obama	NNP	pos2=NN	3	nsubj	_	U-PERSON
+2	will	will	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	first	#ord#	JJ	_	6	nmod	_	O
+6	https://t.co/kV9u7R8x9W	#hlink#	ADD	pos2=NN	3	attr	_	O
+

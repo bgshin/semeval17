@@ -1,0 +1,17 @@
+1	@MMFlint	@mmflint	NNP	pos2=NN	3	compound	_	O
+2	Michael	michael	NNP	_	3	compound	_	B-PERSON
+3	Moore	moore	NNP	_	7	nsubj	_	L-PERSON
+4	for	for	IN	_	3	prep	_	O
+5	president	president	NN	_	4	pobj	_	O
+6	would	would	MD	_	7	aux	_	O
+7	be	be	VB	_	0	root	_	O
+8	a	a	DT	_	10	det	_	O
+9	good	good	JJ	_	10	nmod	_	O
+10	thing	thing	NN	_	7	attr	_	O
+11	.	.	.	_	7	punct	_	O
+
+1	All	all	DT	_	2	det	_	O
+2	jokes	joke	NNS	_	3	nsubj	_	O
+3	aside	aside	RB	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+

@@ -1,0 +1,14 @@
+1	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=NNS	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Here	here	RB	_	4	advmod	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	The	the	DT	pos2=NNP	8	det	_	B-WORK_OF_ART
+6	Top	top	NNP	pos2=JJ	7	compound	_	I-WORK_OF_ART
+7	Ten	#crd#	NNP	pos2=CD	8	compound	_	I-WORK_OF_ART
+8	Options	option	NNS	pos2=NNPS	4	nsubj	_	I-WORK_OF_ART
+9	For	for	IN	_	8	prep	_	I-WORK_OF_ART
+10	Conservatives	conservative	NNS	pos2=NNPS	9	pobj	_	L-WORK_OF_ART
+11	@	@	NFP	pos2=IN	13	punct	_	O
+12	2ndvote	0ndvote	ADD	pos2=NN	13	punct	_	U-QUANTITY
+13	https://t.co/OO4iO0EIRT	#hlink#	ADD	pos2=NN	4	dep	_	O
+

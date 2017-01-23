@@ -1,0 +1,12 @@
+1	@DrJillStein	@drjillstein	NN	pos2=ADD	6	nmod	_	O
+2	@realDonaldTrump	@realdonaldtrump	ADD	pos2=NN	6	det	_	O
+3	@Rambobiggs	@rambobiggs	NNS	pos2=VBZ	8	pobj	_	O
+4	@SheriffClarke	@sheriffclarke	ADD	pos2=NN	8	pobj	_	O
+5	@	@	SYM	pos2=NFP	6	punct	_	O
+6	Recount	recount	NN	pos2=VB	0	root	_	O
+7	paid	pay	VBN	_	6	acl	_	O
+8	for	for	IN	_	7	prep	_	O
+9	by	by	IN	_	7	agent	_	O
+10	George	george	NNP	_	11	compound	_	B-PERSON
+11	Soros	soros	NNP	_	9	pobj	_	L-PERSON
+

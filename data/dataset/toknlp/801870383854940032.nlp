@@ -1,0 +1,17 @@
+1	@George_Hill3	@george_hill0	NN	pos2=NNS	0	root	_	O
+2	@utahjazz	@utahjazz	UH	pos2=NN	4	discourse	_	O
+3	so	so	RB	_	4	advmod	_	O
+4	glad	glad	JJ	pos2=UH	1	nmod	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	're	be	VBP	_	4	ccomp	_	O
+7	back	back	RB	_	6	advmod	_	O
+8	out	out	RB	_	9	advmod	_	O
+9	there	there	RB	pos2=EX	6	advmod	_	O
+10	Eat	eat	VB	pos2=VBP	7	prep	_	O
+11	a	a	DT	_	12	det	_	B-QUANTITY
+12	ton	ton	NN	_	10	dobj	_	L-QUANTITY
+13	today	today	NN	_	10	npadvmod	_	U-DATE
+14	you	you	PRP	_	15	nsubj	_	O
+15	earned	earn	VBD	_	4	ccomp	_	O
+16	it	it	PRP	_	15	dobj	_	O
+

@@ -1,0 +1,20 @@
+1	@TheRealLukevans	@thereallukevans	NNS	pos2=PRP	4	nsubj	_	O
+2	ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	wait	wait	VB	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	see	see	VB	_	4	xcomp	_	O
+7	you	you	PRP	_	6	dobj	_	O
+8	as	as	IN	_	6	prep	_	O
+9	Gaston	gaston	NNP	_	8	pobj	_	U-PERSON
+10	in	in	IN	_	9	prep	_	O
+11	#BeautyAndTheBeast	#beautyandthebeast	NNP	pos2=NN	10	pobj	_	O
+12	in	in	IN	_	6	prep	_	O
+13	March	march	NNP	_	14	compound	_	B-DATE
+14	#Isaywekillthebeast	#isaywekillthebeast	NNP	pos2=NN	12	pobj	_	L-DATE
+15	lol	lol	UH	_	4	discourse	_	O
+16	the	the	DT	_	17	det	_	O
+17	trailer	trailer	NN	_	18	nsubj	_	O
+18	was	be	VBD	_	4	conj	_	O
+19	awesome	awesome	JJ	_	18	acomp	_	O
+

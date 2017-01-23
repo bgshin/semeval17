@@ -1,0 +1,20 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@A_Rockas	@a_rockas	NNS	pos2=ADD	2	compound	_	O
+2	@ChristophHeer52	@christophheer0	NN	pos2=ADD	3	compound	_	O
+3	@JustinWelby	@justinwelby	NNP	pos2=EX	4	nsubj	_	U-ORG
+4	is	be	VBZ	_	0	root	_	O
+5	a	a	DT	_	7	det	_	O
+6	Luciferian	luciferian	JJ	pos2=NNP	7	nmod	_	O
+7	crypto	crypto	NN	pos2=FW	4	attr	_	O
+8	Jew	jew	NNP	_	7	appos	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	#ISIS	#isis	NN	pos2=NNP	2	nsubj	_	O
+2	has	have	VBZ	_	0	root	_	O
+3	EVERYTHING	everything	NN	_	2	dobj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	do	do	VB	_	3	relcl	_	O
+6	with	with	IN	_	5	prep	_	O
+7	#Zionism	#zionism	NNP	pos2=NN	6	pobj	_	O
+

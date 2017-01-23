@@ -1,0 +1,24 @@
+1	Hazy	hazy	NNP	pos2=JJ	2	compound	_	B-DATE
+2	Days	day	NNPS	pos2=NNS	3	npadvmod	_	L-DATE
+3	Ahead	ahead	RB	pos2=NNP	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+
+1	What	what	WP	_	5	dobj	_	O
+2	We	we	PRP	_	5	nsubj	_	O
+3	Do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	Know	know	VB	_	0	root	_	O
+6	About	about	IN	pos2=NNP	5	prep	_	O
+7	Florida	florida	NNP	_	12	poss	_	U-GPE
+8	's	's	POS	_	7	case	_	O
+9	New	new	NNP	_	12	compound	_	B-WORK_OF_ART
+10	Medical	medical	NNP	_	12	compound	_	I-WORK_OF_ART
+11	Marijuana	marijuana	NNP	_	12	compound	_	I-WORK_OF_ART
+12	Law	law	NNP	pos2=NN	6	pobj	_	I-WORK_OF_ART
+13	-	-	:	pos2=HYPH	5	punct	_	I-WORK_OF_ART
+14	Above	above	IN	_	5	prep	_	I-WORK_OF_ART
+15	the	the	DT	_	16	det	_	I-WORK_OF_ART
+16	Law	law	NNP	pos2=NN	14	pobj	_	L-WORK_OF_ART
+17	…	…	NFP	pos2=POS	18	punct	_	O
+18	https://t.co/v5tGwjYP1p	#hlink#	ADD	_	5	dep	_	O
+

@@ -1,0 +1,20 @@
+1	"	"	``	_	2	punct	_	O
+2	Drain	drain	VB	pos2=NNP	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	swamp	swamp	NN	_	2	dobj	_	O
+5	.	.	.	_	2	punct	_	O
+6	"	"	''	_	2	punct	_	O
+
+1	Translation	translation	NN	_	3	dep	_	O
+2	:	:	:	_	3	punct	_	O
+3	Appoint	appoint	VB	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	slimy	slimy	JJ	_	6	nmod	_	O
+6	creatures	creature	NNS	_	3	dobj	_	O
+7	to	to	IN	_	6	prep	_	O
+8	my	my	PRP$	_	10	poss	_	O
+9	cabinet.#TrumpSpeak	cabinet.#trumpspeak	NNP	pos2=NN	10	compound	_	B-PRODUCT
+10	#TrumpTransitionTeam	#trumptransitionteam	NNP	pos2=ADD	7	pobj	_	L-PRODUCT
+11	#NotMyPresident	#notmypresident	ADD	pos2=NNP	10	appos	_	O
+12	#DrainTheSwamp	#draintheswamp	ADD	pos2=NN	3	punct	_	O
+

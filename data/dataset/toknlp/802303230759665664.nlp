@@ -1,0 +1,19 @@
+1	#RE•WORK	#re-work	NN	pos2=LS	3	compound	_	O
+2	Deep	deep	NNP	pos2=JJ	3	compound	_	O
+3	Learning	learning	NN	pos2=VBG	0	root	_	O
+4	101	0	CD	_	3	npadvmod	_	U-CARDINAL
+5	with	with	IN	_	3	prep	_	O
+6	Oriol	oriol	NNP	_	7	compound	_	B-PERSON
+7	Vinyals	vinyals	NNP	_	5	pobj	_	L-PERSON
+8	,	,	,	_	7	punct	_	O
+9	Research	research	NNP	pos2=NN	10	compound	_	O
+10	Scientist	scientist	NN	pos2=NNP	7	appos	_	O
+11	at	at	IN	_	10	prep	_	O
+12	DeepMind	deepmind	NNP	_	11	pobj	_	U-ORG
+13	.	.	.	_	3	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	Blog	blog	NN	pos2=NNP	1	dobj	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/LNXbJ7hFxR	#hlink#	ADD	pos2=NN	1	dep	_	O
+

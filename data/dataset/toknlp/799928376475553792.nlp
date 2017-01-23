@@ -1,0 +1,20 @@
+1	@NOckelmann	@nockelmann	ADD	pos2=NNP	10	punct	_	O
+2	@GlasnostGone	@glasnostgone	NNP	pos2=NN	10	nsubj	_	O
+3	Does	do	VBZ	pos2=NNP	10	aux	_	O
+4	Kohchang	kohchang	NNP	_	10	nsubj	_	U-PERSON
+5	(	(	-LRB-	_	4	punct	_	O
+6	miniscule	miniscule	JJ	_	8	nmod	_	O
+7	internet	internet	NN	_	8	compound	_	O
+8	footprint	footprint	NN	_	4	appos	_	O
+9	)	)	-RRB-	_	4	punct	_	O
+10	exist	exist	VBP	pos2=VB	0	root	_	O
+11	or	or	CC	_	10	cc	_	O
+12	fiction	fiction	NN	_	10	conj	_	O
+13	by	by	IN	_	10	prep	_	O
+14	GBabeuf	gbabeuf	NNP	_	13	pobj	_	U-ORG
+15	from	from	IN	_	10	prep	_	O
+16	Trollhouse	trollhouse	NNP	_	15	pobj	_	U-GPE
+17	?	?	.	_	10	punct	_	O
+
+1	https://t.co/toV6gWGekV	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,14 @@
+1	Why	why	WRB	_	3	advmod	_	O
+2	condoms	condom	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	13	advcl	_	O
+4	‘	'	``	_	5	punct	_	O
+5	bad	bad	JJ	_	3	acomp	_	O
+6	’	'	''	_	5	punct	_	O
+7	for	for	IN	_	3	prep	_	O
+8	you	you	PRP	_	7	pobj	_	O
+9	on	on	IN	_	3	prep	_	O
+10	Valentine	valentine	NNP	_	12	poss	_	O
+11	’s	's	POS	_	10	case	_	O
+12	Day	day	NNP	pos2=NN	9	pobj	_	O
+13	https://t.co/RMZD61Cqlh	#hlink#	ADD	pos2=NN	0	root	_	O
+

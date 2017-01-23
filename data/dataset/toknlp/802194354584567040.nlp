@@ -1,0 +1,16 @@
+1	https://t.co/gwGuQNpVg8After	#hlink#	ADD	_	7	dep	_	O
+2	#Capture	#capture	-RRB-	pos2=ADD	1	punct	_	O
+3	#ISIS	#isis	NN	pos2=ADD	4	compound	_	O
+4	#Militants	#militants	NNS	pos2=NNP	7	nsubj	_	O
+5	By	by	IN	_	4	prep	_	O
+6	#IraqiArmy	#iraqiarmy	NNP	pos2=NN	5	pobj	_	U-ORG
+7	Seen	see	VBN	pos2=NNP	0	root	_	O
+8	What	what	WP	_	9	nsubj	_	O
+9	Happened	happened	VBD	pos2=NNP	7	ccomp	_	O
+10	Next	next	NNP	pos2=RB	11	compound	_	B-DATE
+11	#Russia	#russia	NNP	pos2=HYPH	12	compound	_	I-DATE
+12	#USA	#usa	NN	pos2=ADD	15	compound	_	L-DATE
+13	#Syria	#syria	NNP	pos2=FW	15	compound	_	B-PERSON
+14	#SyrianArmy	#syrianarmy	ADD	pos2=NNP	15	compound	_	I-PERSON
+15	#America	#america	NNP	pos2=ADD	7	dep	_	L-PERSON
+

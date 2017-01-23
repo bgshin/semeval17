@@ -1,0 +1,21 @@
+1	@KennedyHDnation	@kennedyhdnation	NN	pos2=ADD	2	compound	_	O
+2	@CNN	@cnn	NNP	pos2=MD	3	nsubj	_	U-ORG
+3	Meet	meet	VB	pos2=NNP	0	root	_	O
+4	George	george	NNP	_	5	compound	_	B-PERSON
+5	Soros	soros	NNP	_	3	dobj	_	L-PERSON
+6	-	-	HYPH	pos2=:	3	punct	_	O
+7	I	I	PRP	pos2=NNP	9	nsubj	_	O
+8	would	would	MD	_	9	aux	_	O
+9	LOVE	love	VB	_	3	advcl	_	O
+10	to	to	TO	_	11	aux	_	O
+11	hear	hear	VB	_	9	xcomp	_	O
+12	your	your	PRP$	_	13	poss	_	O
+13	thoughts	thought	NNS	_	11	dobj	_	O
+14	on	on	IN	_	11	prep	_	O
+15	this	this	DT	_	18	det	_	O
+16	clip	clip	NN	pos2=JJ	18	compound	_	O
+17	-	-	HYPH	_	18	punct	_	O
+18	pm	pm	NN	pos2=GW	14	pobj	_	O
+19	me	me	PRP	_	20	dep	_	O
+20	https://t.co/py1WWw1TKh	#hlink#	ADD	_	9	dep	_	O
+

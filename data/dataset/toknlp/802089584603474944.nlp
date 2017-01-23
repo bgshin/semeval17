@@ -1,0 +1,13 @@
+1	Message	message	NN	pos2=VB	3	compound	_	O
+2	@Jwanyosef	@jwanyosef	NNP	pos2=VBG	3	compound	_	B-PERSON
+3	@ricky_martin	@ricky_martin	NNP	pos2=POS	5	compound	_	L-PERSON
+4	phone	phone	NN	pos2=VB	5	compound	_	O
+5	off	off	RP	pos2=NN	0	root	_	O
+6	,	,	,	_	5	punct	_	O
+7	shirt	shirt	NN	pos2=VB	4	dobj	_	O
+8	on	on	RB	pos2=IN	7	advmod	_	O
+9	...	..	.	pos2=,	5	punct	_	O
+
+1	Mi	mi	NNP	pos2=UH	2	compound	_	B-PERSON
+2	Skansen	skansen	NNP	_	0	root	_	L-PERSON
+

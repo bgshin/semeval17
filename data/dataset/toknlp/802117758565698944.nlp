@@ -1,0 +1,11 @@
+1	#Gelatissimo	#gelatissimo	NNP	pos2=IN	2	compound	_	B-PERSON
+2	Kawana	kawana	NNP	_	4	nsubj	_	L-PERSON
+3	is	be	VBZ	_	4	aux	_	O
+4	#nowplaying	#nowplaying	VBG	_	0	root	_	O
+5	More	more	JJR	pos2=RBR	3	acomp	_	O
+6	Than	than	IN	_	5	prep	_	O
+7	This	this	DT	pos2=NNP	6	pobj	_	O
+8	by	by	IN	_	4	prep	_	O
+9	#OneDirection	#onedirection	NNP	pos2=ADD	8	pobj	_	O
+10	#cubevenue	#cubevenue	UH	pos2=NN	4	discourse	_	O
+

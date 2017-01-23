@@ -1,0 +1,23 @@
+1	Make	make	VB	pos2=VBP	7	advcl	_	O
+2	no	no	DT	_	3	det	_	O
+3	mistake	mistake	NN	_	1	dobj	_	O
+4	:	:	:	_	7	punct	_	O
+5	China	china	NNP	_	7	nsubj	_	U-GPE
+6	is	be	VBZ	_	7	aux	_	O
+7	turning	turn	VBG	_	0	root	_	O
+8	against	against	IN	_	7	prep	_	O
+9	Singapore	singapore	NNP	_	8	pobj	_	U-GPE
+10	given	give	VBN	pos2=IN	7	prep	_	O
+11	our	our	PRP$	_	12	poss	_	O
+12	government	government	NN	_	15	poss	_	O
+13	's	's	POS	_	12	case	_	O
+14	outspoken	outspoken	JJ	_	15	nmod	_	O
+15	stance	stance	NN	_	10	pobj	_	O
+16	on	on	IN	_	15	prep	_	O
+17	the	the	DT	_	19	det	_	O
+18	TPP.	tpp.	NNP	pos2=NNPS	19	compound	_	O
+19	Beijing	beijing	NNP	_	16	pobj	_	U-GPE
+20	...	..	.	pos2=,	7	punct	_	O
+
+1	https://t.co/VFNBytnVrD	#hlink#	ADD	_	0	root	_	U-ORG
+

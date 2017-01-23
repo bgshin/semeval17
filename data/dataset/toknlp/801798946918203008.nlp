@@ -1,0 +1,10 @@
+1	Iniesta	iniesta	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	continues	continue	VBZ	_	0	root	_	O
+3	with	with	IN	_	2	prep	_	O
+4	his	his	PRP$	_	5	poss	_	O
+5	recovery	recovery	NN	_	3	pobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	#fcblive	#fcblive	UH	pos2=ADD	2	discourse	_	O
+2	https://t.co/6oBP0V2wU1	#hlink#	ADD	pos2=NN	0	root	_	O
+

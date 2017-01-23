@@ -1,0 +1,21 @@
+1	While	while	IN	_	7	mark	_	O
+2	the	the	DT	_	6	det	_	O
+3	US	us	NNP	_	4	compound	_	U-GPE
+4	president	president	NN	pos2=NNP	6	compound	_	O
+5	-	-	HYPH	pos2=:	6	punct	_	O
+6	elect	elect	NN	pos2=NNP	7	nsubj	_	O
+7	continues	continue	VBZ	pos2=NNS	17	advcl	_	O
+8	RTing	rting	VBG	_	7	xcomp	_	O
+9	white	white	JJ	_	10	nmod	_	O
+10	supremacists	supremacist	NNS	_	8	dobj	_	O
+11	or	or	CC	_	10	cc	_	O
+12	railing	railing	NN	pos2=VBG	10	conj	_	O
+13	against	against	IN	_	8	prep	_	O
+14	NYT	nyt	NNP	_	13	pobj	_	U-ORG
+15	,	,	,	_	17	punct	_	O
+16	@JustinTrudeau	@justintrudeau	NNP	pos2=NN	17	nsubj	_	U-PERSON
+17	continues	continue	VBZ	_	0	root	_	O
+18	to	to	TO	pos2=IN	19	aux	_	O
+19	…	…	VB	pos2=NFP	17	xcomp	_	O
+20	https://t.co/glfe3s7BxI	#hlink#	ADD	_	19	dobj	_	U-ORG
+

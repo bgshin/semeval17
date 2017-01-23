@@ -1,0 +1,18 @@
+1	One	#crd#	CD	pos2=NNP	2	nmod	_	U-CARDINAL
+2	Direction	direction	NN	_	17	dep	_	O
+3	1	0	CD	_	4	nmod	_	U-CARDINAL
+4	D	d	NNS	pos2=NN	15	compound	_	O
+5	Toss	toss	NNP	pos2=VBP	14	compound	_	B-WORK_OF_ART
+6	Pillow	pillow	NNP	pos2=NN	14	compound	_	L-WORK_OF_ART
+7	Harry	harry	NNP	_	14	compound	_	B-PERSON
+8	Zayn	zayn	NNP	_	14	compound	_	I-PERSON
+9	Louis	louis	NNP	_	14	compound	_	I-PERSON
+10	Niall	niall	NNP	_	14	compound	_	I-PERSON
+11	Liam	liam	NNP	_	14	compound	_	L-PERSON
+12	Early	early	NNP	_	14	compound	_	O
+13	Days	day	NNPS	pos2=NNS	14	compound	_	O
+14	ID	id	NNP	pos2=NN	15	compound	_	O
+15	Collector	collector	NN	pos2=GW	17	dep	_	O
+16	#onedirection	#onedirection	ADD	pos2=GW	17	punct	_	O
+17	https://t.co/WZUR7d8Y9C	#hlink#	ADD	_	0	root	_	O
+

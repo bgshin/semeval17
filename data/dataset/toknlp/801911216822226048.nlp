@@ -1,0 +1,21 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	uncle	uncle	NN	_	6	nsubj	_	O
+3	from	from	IN	_	2	prep	_	O
+4	Cali	cali	NNP	_	3	pobj	_	U-GPE
+5	just	just	RB	_	6	advmod	_	O
+6	informed	inform	VBD	_	0	root	_	O
+7	me	me	PRP	_	6	dobj	_	O
+8	he	he	PRP	_	10	nsubj	_	O
+9	routinely	routinely	RB	_	10	advmod	_	O
+10	plays	play	VBZ	_	6	ccomp	_	O
+11	golf	golf	NN	_	10	dobj	_	O
+12	with	with	IN	_	10	prep	_	O
+13	Mike	mike	NNP	_	14	compound	_	B-PERSON
+14	Mccormick	mccormick	NNP	_	12	pobj	_	L-PERSON
+15	aka	aka	RB	pos2=RBR	20	advmod	_	O
+16	a	a	DT	_	20	det	_	O
+17	former	former	JJ	_	20	nmod	_	O
+18	Cy	cy	NNP	pos2=NN	19	compound	_	O
+19	Young	young	NNP	pos2=JJ	20	compound	_	O
+20	winner	winner	NN	_	10	npadvmod	_	O
+

@@ -1,0 +1,18 @@
+1	'	'	``	pos2=POS	17	punct	_	O
+2	Kim	kim	NNP	_	3	compound	_	B-PERSON
+3	Fatty	fatty	NNP	pos2=VBD	17	dep	_	L-PERSON
+4	the	the	DT	_	5	det	_	O
+5	Third	#ord#	NNP	pos2=JJ	3	appos	_	U-ORDINAL
+6	'	'	''	pos2=NNS	17	dep	_	O
+7	:	:	:	_	17	punct	_	O
+8	Chinese	chinese	JJ	_	9	nmod	_	U-NORP
+9	websites	website	NNS	_	17	dep	_	O
+10	block	block	NN	pos2=VBP	11	compound	_	O
+11	search	search	NN	pos2=VB	17	dep	_	O
+12	term	term	NN	_	11	npadvmod	_	O
+13	-	-	HYPH	pos2=,	11	punct	_	O
+14	via	via	IN	pos2=GW	11	prep	_	O
+15	@abcnews	@abcnews	GW	pos2=NFP	14	pobj	_	O
+16	https://t.co/PkB610J6yr	#hlink#	ADD	pos2=GW	17	nmod	_	O
+17	https://t.co/v45NUFWvCI	#hlink#	ADD	_	0	root	_	U-ORG
+

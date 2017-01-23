@@ -1,0 +1,26 @@
+1	If	if	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	thought	think	VBD	pos2=VBP	13	advcl	_	O
+4	#SocialMedia	#socialmedia	NNP	pos2=NNS	5	nsubj	_	U-PERSON
+5	was	be	VBD	_	3	ccomp	_	O
+6	hard	hard	JJ	pos2=RB	5	acomp	_	O
+7	,	,	,	_	13	punct	_	O
+8	#IoT	#iot	NN	pos2=JJ	10	nmod	_	O
+9	/	/	SYM	pos2=HYPH	10	punct	_	O
+10	#realtime	#realtime	NN	pos2=JJ	11	compound	_	O
+11	era	era	NN	_	13	nsubj	_	O
+12	will	will	MD	_	13	aux	_	O
+13	kill	kill	VB	_	0	root	_	O
+14	off	off	RP	pos2=IN	13	prt	_	O
+15	old	old	JJ	_	20	nmod	_	O
+16	school	school	NN	_	19	compound	_	O
+17	top	top	NN	pos2=RB	20	nmod	_	O
+18	-	-	HYPH	_	17	punct	_	O
+19	down	down	RP	pos2=RB	17	prt	_	O
+20	#marketers	#marketers	NNS	pos2=NNPS	13	dobj	_	O
+21	.	.	.	_	13	punct	_	O
+
+1	All	all	DT	_	0	root	_	O
+2	of	of	IN	pos2=RB	1	prep	_	O
+3	them💥🔫#TheWalkingDead	them💥🔫#thewalkingdead	NN	pos2=RB	2	pobj	_	U-DATE
+

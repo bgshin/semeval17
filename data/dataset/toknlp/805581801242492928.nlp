@@ -1,0 +1,15 @@
+1	#AllStar	#allstar	NNP	pos2=GW	3	compound	_	B-ORG
+2	#KyleLowry	#kylelowry	NNP	pos2=IN	3	compound	_	I-ORG
+3	Hoops	hoop	NNPS	pos2=NNS	14	dep	_	L-ORG
+4	,	,	,	_	3	punct	_	O
+5	Revolution	revolution	NNP	pos2=NN	3	conj	_	U-ORG
+6	,	,	,	_	5	punct	_	O
+7	Gold	gold	NNP	pos2=NN	8	compound	_	B-ORG
+8	Standard	standard	NNP	pos2=JJ	5	conj	_	L-ORG
+9	7	0	CD	_	14	dep	_	U-CARDINAL
+10	LOT	lot	NN	pos2=NNP	14	nmod	_	O
+11	AR	ar	GW	pos2=NNP	14	nmod	_	O
+12	https://t.co/jme0JXH4db	#hlink#	ADD	pos2=GW	14	nmod	_	O
+13	#Basketball	#basketball	GW	pos2=ADD	14	nmod	_	O
+14	https://t.co/4t4rSy64pO	#hlink#	ADD	pos2=NN	0	root	_	O
+

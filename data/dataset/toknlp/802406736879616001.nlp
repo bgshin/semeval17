@@ -1,0 +1,37 @@
+1	All	all	DT	pos2=RB	0	root	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	hated	hate	VBD	_	1	relcl	_	O
+4	about	about	IN	_	3	prep	_	O
+5	Clinton	clinton	NNP	_	4	pobj	_	U-PERSON
+6	,	,	,	_	3	punct	_	O
+7	but	but	CC	_	1	cc	_	O
+8	worse	bad	JJR	_	1	conj	_	O
+9	.	.	.	_	8	punct	_	O
+
+1	Pay	pay	VB	pos2=NN	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	play	play	NN	pos2=VB	2	pobj	_	O
+4	?	?	.	_	1	punct	_	O
+
+1	Yep	yep	UH	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Private	private	JJ	_	2	nmod	_	O
+2	server	server	NN	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	Got	get	VBD	pos2=VBN	2	auxpass	_	O
+2	forbidden	forbid	VBN	pos2=JJ	4	nmod	_	O
+3	internet	internet	NN	_	4	compound	_	O
+4	connection	connection	NN	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	Crooked	crooked	JJ	pos2=NNP	2	nmod	_	O
+2	foundation	foundation	NN	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	Yep	yep	UH	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	#maga	#maga	UH	pos2=NN	0	root	_	O
+

@@ -1,0 +1,27 @@
+1	As	as	IN	_	7	prep	_	O
+2	a	a	DT	_	4	det	_	O
+3	fellow	fellow	JJ	pos2=NN	4	nmod	_	O
+4	fatty	fatty	NN	pos2=JJ	1	pobj	_	O
+5	,	,	,	_	7	punct	_	O
+6	here	here	RB	_	7	advmod	_	O
+7	's	's	VBZ	_	0	root	_	O
+8	why	why	WRB	_	10	advmod	_	O
+9	I	I	PRP	_	10	nsubj	_	O
+10	support	support	VBP	_	7	ccomp	_	O
+11	Kim	kim	NNP	_	14	compound	_	B-PERSON
+12	Jong	jong	NNP	_	14	compound	_	I-PERSON
+13	-	-	HYPH	_	14	punct	_	I-PERSON
+14	un	un	NNP	pos2=NN	10	dobj	_	L-PERSON
+15	banning	ban	VBG	_	14	acl	_	O
+16	all	all	DT	_	17	det	_	O
+17	references	reference	NNS	_	15	dobj	_	O
+18	to	to	IN	pos2=TO	17	prep	_	O
+19	"	"	``	_	26	punct	_	O
+20	Kim	kim	NNP	_	21	compound	_	B-PERSON
+21	Fatty	fatty	NNP	_	26	dep	_	L-PERSON
+22	the	the	DT	_	23	det	_	O
+23	Third	#ord#	NNP	pos2=JJ	21	appos	_	U-ORDINAL
+24	"	"	''	pos2=``	21	punct	_	O
+25	…	…	NFP	pos2=-LRB-	26	punct	_	O
+26	https://t.co/r22CFYLfdv	#hlink#	ADD	_	18	pobj	_	O
+

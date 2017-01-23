@@ -1,0 +1,14 @@
+1	Look	look	VB	_	0	root	_	O
+2	out	out	RB	pos2=IN	3	advmod	_	O
+3	below	below	RB	pos2=IN	1	advmod	_	O
+4	!!	!!	.	_	1	punct	_	O
+
+1	👀	👀	SYM	pos2=LS	8	punct	_	O
+2	#DENatUTA	#denatuta	NN	pos2=GW	8	dep	_	O
+3	(	(	-LRB-	_	2	punct	_	O
+4	Vine	vine	NN	pos2=NNP	2	appos	_	O
+5	by	by	IN	_	4	prep	_	O
+6	@utahjazz	@utahjazz	GW	pos2=XX	5	pobj	_	O
+7	)	)	-RRB-	pos2=GW	2	punct	_	O
+8	https://t.co/ugrDi3zCXM	#hlink#	ADD	pos2=NN	0	root	_	O
+

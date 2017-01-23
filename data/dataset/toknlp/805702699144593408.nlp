@@ -1,0 +1,16 @@
+1	@NickFerrariLBC	@nickferrarilbc	ADD	pos2=NN	6	nsubj	_	O
+2	@LBC	@lbc	IN	pos2=NFP	1	prep	_	O
+3	All	all	PDT	_	5	predet	_	O
+4	the	the	DT	_	5	det	_	O
+5	data	datum	NNS	pos2=NN	2	pobj	_	O
+6	shows	show	VBZ	pos2=NNS	0	root	_	O
+7	that	that	IN	pos2=DT	9	mark	_	O
+8	immigration	immigration	NN	_	9	nsubj	_	O
+9	is	be	VBZ	_	6	ccomp	_	O
+10	a	a	DT	_	12	det	_	O
+11	net	net	JJ	pos2=NN	12	nmod	_	O
+12	contributor	contributor	NN	_	9	attr	_	O
+13	to	to	IN	_	12	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	UK	uk	NNP	_	13	pobj	_	U-GPE
+

@@ -1,0 +1,16 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@ABC	@abc	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Pelosi	pelosi	NNP	_	3	nsubj	_	L-PERSON
+3	looks	look	VBZ	_	0	root	_	O
+4	like	like	IN	_	6	mark	_	O
+5	she	she	PRP	_	6	nsubj	_	O
+6	has	have	VBZ	_	3	advcl	_	O
+7	a	a	DT	_	10	det	_	O
+8	Shop	shop	NNP	pos2=NN	10	compound	_	B-ORG
+9	-	-	HYPH	_	10	punct	_	I-ORG
+10	Vac	vac	NNP	_	6	dobj	_	L-ORG
+11	up	up	IN	pos2=RP	6	prep	_	O
+12	her	her	PRP$	pos2=PRP	13	poss	_	O
+13	a-s.	a-s.	.	pos2=FW	3	punct	_	O
+

@@ -1,0 +1,15 @@
+1	Galaxy	galaxy	NN	pos2=NNP	2	compound	_	O
+2	note	note	NN	pos2=VBP	6	dep	_	O
+3	7	0	CD	_	5	nmod	_	U-CARDINAL
+4	exchange	exchange	NN	_	5	compound	_	O
+5	kiosks	kiosk	NNS	_	6	nsubj	_	O
+6	open	open	JJ	pos2=VBP	13	advmod	_	O
+7	in	in	IN	_	6	prep	_	O
+8	australian	australian	JJ	_	9	nmod	_	U-NORP
+9	#TechNews	#technews	NNS	pos2=NNPS	7	pobj	_	O
+10	#Tech	#tech	NNP	pos2=POS	12	compound	_	B-ORG
+11	#News	#news	NNP	pos2=NNS	12	compound	_	I-ORG
+12	#Gadget	#gadget	NNP	pos2=GW	13	nsubj	_	L-ORG
+13	#Apps	#apps	VBZ	pos2=ADD	0	root	_	O
+14	https://t.co/9z3wnovMxX	#hlink#	ADD	_	13	dobj	_	O
+

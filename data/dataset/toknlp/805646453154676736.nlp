@@ -1,0 +1,18 @@
+1	The	the	DT	_	5	det	_	B-ORG
+2	First	#ord#	NNP	pos2=JJ	5	compound	_	I-ORG
+3	Black	black	NNP	_	5	compound	_	I-ORG
+4	Woman	woman	NNP	pos2=NN	5	compound	_	I-ORG
+5	DA	da	NNP	_	9	nsubj	_	L-ORG
+6	in	in	IN	_	5	prep	_	O
+7	Alabama	alabama	NNP	_	8	compound	_	U-GPE
+8	History	history	NNP	pos2=NN	6	pobj	_	O
+9	Wants	want	VBZ	_	0	root	_	O
+10	to	to	TO	_	11	aux	_	O
+11	Shake	shake	VB	_	9	xcomp	_	O
+12	Up	up	RP	_	11	prt	_	O
+13	the	the	DT	_	15	det	_	O
+14	Death	death	NN	pos2=NNP	15	compound	_	O
+15	Penalty	penalty	NN	pos2=GW	11	dobj	_	O
+16	https://t.co/CUJ33zJeBi	#hlink#	ADD	_	17	nmod	_	O
+17	https://t.co/oUI6krCXKp	#hlink#	ADD	_	15	appos	_	U-ORG
+

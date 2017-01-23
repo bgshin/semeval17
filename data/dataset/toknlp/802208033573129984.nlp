@@ -1,0 +1,36 @@
+1	@Gabsterr12	@gabsterr0	NN	pos2=NNP	4	dep	_	O
+2	Sure	sure	UH	pos2=RB	4	discourse	_	O
+3	,	,	,	_	4	punct	_	O
+4	let	let	VB	_	0	root	_	O
+5	's	's	PRP	_	6	nsubj	_	O
+6	do	do	VB	_	4	ccomp	_	O
+7	popular	popular	JJ	_	8	nmod	_	O
+8	vote	vote	NN	_	6	dobj	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	Then	then	RB	_	10	advmod	_	O
+2	3-4	0	CD	_	3	nmod	_	U-CARDINAL
+3	states	state	NNS	_	7	nsubj	_	O
+4	,	,	,	_	3	punct	_	O
+5	most	most	JJS	pos2=RBS	7	nmod	_	O
+6	Dem	dem	NNP	pos2=NN	7	nmod	_	U-PERSON
+7	leaning	lean	VBG	pos2=NN	10	ccomp	_	O
+8	,	,	,	_	10	punct	_	O
+9	will	will	MD	_	10	aux	_	O
+10	decide	decide	VB	_	0	root	_	O
+11	all	all	DT	_	12	det	_	O
+12	elections	election	NNS	_	10	dobj	_	O
+13	.	.	.	_	10	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	why	why	WRB	_	5	advmod	_	O
+4	they	they	PRP	_	5	nsubj	_	O
+5	came	come	VBD	_	2	advcl	_	O
+6	up	up	RP	pos2=RB	5	prt	_	O
+7	w	w	IN	pos2=RB	5	prep	_	O
+8	/	/	HYPH	pos2=XX	7	punct	_	O
+9	Elec	elec	NNP	_	10	compound	_	O
+10	Coll	coll	NNP	_	7	pobj	_	O
+11	.	.	.	_	2	punct	_	O
+

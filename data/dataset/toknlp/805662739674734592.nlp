@@ -1,0 +1,24 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	basically	basically	RB	_	2	advmod	_	O
+4	the	the	DT	_	6	det	_	O
+5	Fidel	fidel	NNP	_	6	compound	_	B-PERSON
+6	Castro	castro	NNP	_	2	attr	_	L-PERSON
+7	of	of	IN	_	6	prep	_	O
+8	New	new	NNP	_	9	compound	_	B-GPE
+9	Zealand	zealand	NNP	_	7	pobj	_	L-GPE
+10	,	,	,	_	2	punct	_	O
+11	having	have	VBG	_	13	aux	_	O
+12	now	now	RB	_	13	advmod	_	O
+13	outlived	outlive	VBN	_	2	advcl	_	O
+14	or	or	CC	_	13	cc	_	O
+15	outlasted	outlast	VBN	pos2=VBD	13	conj	_	O
+16	nine	#crd#	CD	pos2=JJ	19	nmod	_	U-CARDINAL
+17	NZ	nz	NNP	pos2=JJ	19	nmod	_	U-ORG
+18	prime	prime	JJ	_	19	nmod	_	O
+19	ministers	minister	NNS	_	15	dobj	_	O
+20	.	.	.	_	2	punct	_	O
+
+1	#nzpol	#nzpol	UH	pos2=XX	2	discourse	_	O
+2	#ninedowntwotogo	#ninedowntwotogo	UH	pos2=FW	0	root	_	O
+

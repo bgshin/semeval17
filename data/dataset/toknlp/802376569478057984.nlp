@@ -1,0 +1,24 @@
+1	Pelosi	pelosi	NNP	pos2=NN	6	nsubj	_	U-PERSON
+2	and	and	CC	_	1	cc	_	O
+3	her	her	PRP$	_	4	poss	_	O
+4	team	team	NN	_	1	conj	_	O
+5	must	must	MD	_	6	aux	_	O
+6	acknowledge	acknowledge	VB	_	0	root	_	O
+7	their	their	PRP$	_	8	poss	_	O
+8	failings	failing	NNS	_	6	dobj	_	O
+9	and	and	CC	_	6	cc	_	O
+10	step	step	VB	pos2=VBP	6	conj	_	O
+11	down	down	RP	pos2=RB	10	prt	_	O
+12	immediately	immediately	RB	_	10	advmod	_	O
+13	.	.	.	_	6	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	do	do	VBP	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	disservice	disservice	NN	_	2	dobj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	remain	remain	VB	_	4	acl	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	https://t.co/VhaJp63rBJ	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,20 @@
+1	#Valentines	#valentines	NNS	pos2=VBZ	2	compound	_	O
+2	#Gifts	#gifts	NNS	pos2=POS	19	dep	_	O
+3	NEW	new	JJ	pos2=NNP	4	nmod	_	O
+4	Ted	ted	NNP	_	19	dep	_	B-PERSON
+5	2	0	CD	_	4	nmod	_	L-PERSON
+6	in	in	IN	_	2	prep	_	O
+7	Jersey	jersey	NNP	_	6	pobj	_	U-GPE
+8	24	0	CD	_	10	nmod	_	B-QUANTITY
+9	-	-	HYPH	_	10	punct	_	I-QUANTITY
+10	Inch	inch	NN	pos2=NNP	19	dep	_	L-QUANTITY
+11	R	r	NN	pos2=RB	13	npadvmod	_	O
+12	-	-	HYPH	_	13	punct	_	O
+13	Rated	rate	VBN	pos2=NNP	14	nmod	_	O
+14	Talking	talk	VBG	pos2=NNP	17	nmod	_	O
+15	Plush	plush	JJ	pos2=NNP	17	nmod	_	O
+16	#TeddyBear	#teddybear	GW	pos2=NFP	17	nmod	_	O
+17	SALE	sale	NN	pos2=GW	19	dep	_	O
+18	https://t.co/LIgoBGet25…	#hlink#	ADD	_	19	nmod	_	O
+19	https://t.co/ZpFLbgq7xx	#hlink#	ADD	_	0	root	_	U-ORG
+

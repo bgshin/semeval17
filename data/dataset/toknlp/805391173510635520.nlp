@@ -1,0 +1,13 @@
+1	Civilian	civilian	JJ	_	2	nmod	_	O
+2	deaths	death	NNS	_	5	nsubj	_	O
+3	in	in	IN	_	2	prep	_	O
+4	drone	drone	NN	_	3	pobj	_	O
+5	strikes	strike	VBZ	pos2=NNS	12	ccomp	_	O
+6	amount	amount	NN	pos2=VBP	5	dobj	_	O
+7	to	to	IN	_	5	prep	_	O
+8	war	war	NN	_	9	compound	_	O
+9	crimes	crime	NNS	_	7	pobj	_	O
+10	:	:	:	_	12	punct	_	O
+11	Amnesty	amnesty	NNP	pos2=NN	12	nmod	_	O
+12	https://t.co/Kcwur0MnQr	#hlink#	ADD	_	0	root	_	O
+

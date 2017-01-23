@@ -1,0 +1,26 @@
+1	ricky	ricky	NN	pos2=JJ	2	compound	_	O
+2	martin	martin	NNP	pos2=NN	4	nsubj	_	O
+3	has	have	VBZ	_	4	aux	_	O
+4	been	be	VBN	_	0	root	_	O
+5	my	my	PRP$	_	6	poss	_	O
+6	crush	crush	NN	pos2=UH	4	attr	_	O
+7	since	since	IN	_	9	mark	_	O
+8	i	I	PRP	_	9	nsubj	_	O
+9	was	be	VBD	_	4	advcl	_	O
+10	like	like	UH	pos2=IN	9	discourse	_	O
+11	8	0	CD	_	9	attr	_	U-CARDINAL
+12	...	..	.	pos2=,	4	punct	_	O
+
+1	i	I	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	think	think	VB	_	0	root	_	O
+5	that	that	DT	_	8	nsubj	_	O
+6	's	's	VBZ	_	8	aux	_	O
+7	ever	ever	RB	_	8	advmod	_	O
+8	gon	gon	VBG	pos2=VBN	4	ccomp	_	O
+9	na	to	TO	_	10	aux	_	O
+10	change	change	VB	pos2=NN	8	xcomp	_	O
+11	🤔	🤔	-LRB-	pos2=NFP	10	dobj	_	O
+12	https://t.co/cWYeXl1vKr	#hlink#	ADD	_	10	dobj	_	U-ORG
+

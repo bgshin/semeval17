@@ -1,0 +1,13 @@
+1	The	the	DT	_	12	det	_	O
+2	older	old	JJR	_	12	nmod	_	O
+3	,	,	,	_	12	punct	_	O
+4	the	the	DT	_	12	det	_	O
+5	better	good	JJR	pos2=RBR	12	nmod	_	O
+6	frase	frase	FW	pos2=NN	12	nmod	_	O
+7	que	que	FW	pos2=PRP$	8	advmod	_	O
+8	solo	solo	RB	pos2=FW	6	advmod	_	O
+9	aplica	aplica	NN	pos2=FW	10	compound	_	O
+10	para	para	NN	pos2=FW	12	compound	_	O
+11	Ricky	ricky	NNP	_	12	compound	_	B-PERSON
+12	Martin	martin	NNP	_	0	root	_	L-PERSON
+

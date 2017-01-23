@@ -1,0 +1,27 @@
+1	@spurs	@spurs	UH	pos2=NNS	5	discourse	_	O
+2	,	,	,	_	5	punct	_	O
+3	I	I	PRP	_	5	nsubj	_	O
+4	'm	be	VBP	_	5	aux	_	O
+5	loving	love	VBG	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	roster	roster	NN	_	5	dobj	_	O
+8	this	this	DT	_	9	det	_	O
+9	season	season	NN	_	5	npadvmod	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	wait	wait	VB	_	0	root	_	O
+5	for	for	IN	_	12	mark	_	O
+6	Tim	tim	NNP	_	7	compound	_	B-PERSON
+7	Duncan	duncan	NNP	_	9	poss	_	I-PERSON
+8	's	's	POS	_	7	case	_	L-PERSON
+9	number	number	NN	_	12	nsubjpass	_	O
+10	to	to	TO	_	12	aux	_	O
+11	be	be	VB	_	12	auxpass	_	O
+12	retired	retire	VBN	pos2=JJ	4	advcl	_	O
+13	!!	!!	.	_	4	punct	_	O
+
+1	#GoSpursGo	#gospursgo	ADD	pos2=XX	0	root	_	O
+

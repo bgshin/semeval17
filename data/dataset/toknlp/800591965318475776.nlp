@@ -1,0 +1,16 @@
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=NNP	3	compound	_	O
+2	Screw	screw	NNP	pos2=NN	3	compound	_	B-PERSON
+3	Romney	romney	NNP	_	5	vocative	_	L-PERSON
+4	,	,	,	_	5	punct	_	O
+5	try	try	VB	_	0	root	_	O
+6	this	this	DT	_	7	det	_	O
+7	guy	guy	NN	_	5	dobj	_	O
+8	for	for	IN	_	7	prep	_	O
+9	Sec	sec	NNP	_	8	pobj	_	U-ORG
+10	.	.	.	_	5	punct	_	O
+
+1	Of	of	IN	_	4	prep	_	O
+2	State	state	NNP	pos2=RB	3	compound	_	B-ORG
+3	@KrisParonto	@krisparonto	NNP	pos2=POS	1	pobj	_	L-ORG
+4	#TrumpTransitionTeam	#trumptransitionteam	ADD	pos2=NNP	0	root	_	O
+

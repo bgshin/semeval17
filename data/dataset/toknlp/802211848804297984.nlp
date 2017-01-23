@@ -1,0 +1,15 @@
+1	@KellyannePolls	@kellyannepolls	NNS	pos2=UH	2	nsubj	_	O
+2	@EWErickson	@ewerickson	ADD	pos2=GW	0	root	_	O
+3	@GOP	@gop	IN	pos2=NNP	6	mark	_	O
+4	You	you	PRP	_	6	nsubj	_	O
+5	do	do	VBP	_	6	aux	_	O
+6	know	know	VB	pos2=VBP	2	advcl	_	O
+7	HRC	hrc	NNP	pos2=NN	8	nsubj	_	U-ORG
+8	won	win	VBD	pos2=VB	6	ccomp	_	O
+9	popular	popular	JJ	_	10	nmod	_	O
+10	vote	vote	NN	_	8	dobj	_	O
+11	BY	by	IN	_	8	prep	_	O
+12	TWO	#crd#	CD	_	13	compound	_	B-CARDINAL
+13	MILLION	#crd#	CD	_	14	nmod	_	L-CARDINAL
+14	VOTES	vote	NNS	_	11	pobj	_	O
+

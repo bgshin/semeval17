@@ -1,0 +1,12 @@
+1	ALL	all	PDT	pos2=DT	3	predet	_	O
+2	my	my	PRP$	_	3	poss	_	O
+3	niggas	nigga	NNS	_	4	nsubj	_	O
+4	get	get	VBP	pos2=VB	0	root	_	O
+5	cheese	cheese	NN	pos2=NNS	4	dobj	_	O
+6	Tim	tim	NNP	_	7	compound	_	B-PERSON
+7	duncan	duncan	NNP	pos2=PRP	10	nsubj	_	L-PERSON
+8	ca	can	MD	_	10	aux	_	O
+9	n't	not	RB	_	10	neg	_	O
+10	switch	switch	VB	_	5	acl	_	O
+11	teams	team	NNS	_	10	dobj	_	O
+

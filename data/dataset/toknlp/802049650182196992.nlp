@@ -1,0 +1,11 @@
+1	@jimmyfallon	@jimmyfallon	UH	pos2=XX	3	discourse	_	O
+2	#GilmoreGirlsTop4	#gilmoregirlstop0	GW	pos2=VBG	4	nmod	_	U-NORP
+3	easy	easy	JJ	pos2=GW	4	nmod	_	O
+4	https://t.co/Y7A9snVhxr	#hlink#	ADD	pos2=NN	0	root	_	O
+5	2.	0.	LS	pos2=WP	2	pobj	_	U-CARDINAL
+6	Sookie	sookie	NNP	pos2=NN	7	nmod	_	O
+7	3.	0.	LS	pos2=CD	4	npadvmod	_	U-CARDINAL
+8	Emily	emily	NNP	pos2=NN	10	compound	_	B-PERSON
+9	4.	0.	NNP	pos2=CD	10	compound	_	I-PERSON
+10	Luke	luke	NNP	_	7	appos	_	L-PERSON
+

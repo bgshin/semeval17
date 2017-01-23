@@ -1,0 +1,19 @@
+1	RE	re	NN	pos2=FW	11	dep	_	O
+2	:	:	:	_	11	punct	_	O
+3	Christian	christian	NNP	pos2=JJ	4	compound	_	B-PERSON
+4	Ronaldo	ronaldo	NNP	_	7	poss	_	I-PERSON
+5	's	's	POS	_	4	case	_	L-PERSON
+6	new	new	JJ	_	7	nmod	_	O
+7	hair	hair	NN	_	11	dep	_	O
+8	:	:	:	_	11	punct	_	O
+9	It	it	PRP	_	11	nsubjpass	_	O
+10	's	's	VBZ	_	11	auxpass	_	O
+11	been	be	VBN	_	0	root	_	O
+12	worse	bad	JJR	_	11	acomp	_	O
+13	.	.	.	_	11	punct	_	O
+
+1	https://t.co/M7gs2IVYuQ	#hlink#	ADD	_	0	root	_	O
+2	#Mensstyle	#mensstyle	-RRB-	pos2=GW	1	punct	_	O
+3	#Mensfashion	#mensfashion	ADD	pos2=-LRB-	2	pobj	_	O
+4	https://t.co/HLPaST39SM	#hlink#	ADD	_	3	root	_	O
+

@@ -1,0 +1,15 @@
+1	#Microsoft	#microsoft	NNP	pos2=WP	2	nsubj	_	U-ORG
+2	joins	join	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	B-ORG
+4	#Linux	#linux	NNP	_	5	compound	_	I-ORG
+5	Foundation	foundation	NNP	pos2=NN	2	dobj	_	L-ORG
+6	,	,	,	_	2	punct	_	O
+7	showing	show	VBG	pos2=JJ	2	advcl	_	O
+8	commitment	commitment	NN	_	7	dobj	_	O
+9	to	to	IN	pos2=TO	8	prep	_	O
+10	open	open	JJ	pos2=VB	11	nmod	_	O
+11	source	source	NN	_	9	pobj	_	O
+12	https://t.co/DlQ18TtxUA	#hlink#	ADD	pos2=NN	8	acl	_	O
+13	via	via	IN	_	8	prep	_	O
+14	@TechWeekEurope	@techweekeurope	NN	pos2=ADD	13	pobj	_	O
+

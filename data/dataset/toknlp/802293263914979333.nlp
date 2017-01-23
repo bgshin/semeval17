@@ -1,0 +1,27 @@
+1	10	0	CD	pos2=LS	2	nmod	_	U-CARDINAL
+2	products	product	NNS	_	24	attr	_	O
+3	that	that	WDT	_	4	nsubj	_	O
+4	make	make	VBP	_	2	relcl	_	O
+5	samsung	samsung	NNP	pos2=NN	10	nsubj	_	O
+6	a	a	DT	_	11	det	_	O
+7	top	top	JJ	_	11	nmod	_	O
+8	mobile	mobile	JJ	pos2=NN	9	nmod	_	O
+9	device	device	NN	_	10	compound	_	O
+10	maker	maker	NN	_	11	compound	_	O
+11	windows	window	NNS	pos2=VBZ	0	root	_	O
+12	10	0	CD	pos2=TO	13	nmod	_	U-CARDINAL
+13	update	update	NN	_	11	appos	_	O
+14	for	for	IN	_	13	prep	_	O
+15	lumia	lumia	NN	_	14	pobj	_	O
+16	630	0	CD	_	15	nmod	_	O
+17	dual	dual	JJ	pos2=AFX	18	nmod	_	O
+18	sim	sim	NN	pos2=FW	15	appos	_	O
+19	The	the	DT	pos2=NNP	22	det	_	O
+20	Samsung	samsung	NNP	_	22	compound	_	O
+21	Galaxy	galaxy	NNP	_	22	compound	_	B-ORG
+22	Note	note	NNP	pos2=NN	24	nsubj	_	L-ORG
+23	7	0	CD	_	22	nmod	_	U-DATE
+24	is	be	VBZ	_	0	root	_	O
+25	the	the	DT	_	24	attr	_	O
+26	...	..	.	_	24	punct	_	O
+

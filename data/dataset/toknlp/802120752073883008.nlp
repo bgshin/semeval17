@@ -1,0 +1,19 @@
+1	#Hollywood	#hollywood	NNP	pos2=NN	5	compound	_	B-ORG
+2	#Life	#life	NNP	pos2=POS	5	compound	_	I-ORG
+3	Magazine	magazine	NNP	pos2=NN	5	compound	_	I-ORG
+4	-	-	HYPH	pos2=:	5	punct	_	I-ORG
+5	Superstars	superstar	NNPS	pos2=NNP	0	root	_	L-ORG
+6	!	!	.	_	5	punct	_	O
+
+1	#OneDirection	#onedirection	NN	pos2=NNP	11	dep	_	O
+2	-	-	HYPH	pos2=:	11	punct	_	O
+3	Harry	harry	NNP	_	9	compound	_	B-PERSON
+4	Style	style	NNP	pos2=NN	8	compound	_	I-PERSON
+5	-	-	HYPH	pos2=.	8	punct	_	I-PERSON
+6	#ZaynMalik	#zaynmalik	NNP	pos2=XX	8	compound	_	I-PERSON
+7	-	-	HYPH	pos2=:	8	punct	_	I-PERSON
+8	Liam	liam	NNP	_	9	compound	_	I-PERSON
+9	Niall	niall	NNP	_	11	dep	_	L-PERSON
+10	…	…	NFP	pos2=NNP	11	punct	_	O
+11	https://t.co/X5xkwJ9KND	#hlink#	ADD	_	0	root	_	O
+

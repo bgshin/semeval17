@@ -1,0 +1,16 @@
+1	Galaxy	galaxy	NNP	pos2=NN	2	compound	_	O
+2	Note	note	NN	pos2=NNP	4	nsubj	_	O
+3	7	0	CD	_	2	nmod	_	U-CARDINAL
+4	Banned	ban	VBN	_	0	root	_	O
+5	In	in	IN	_	4	prep	_	O
+6	U.S.	u.s.	NNP	_	7	compound	_	O
+7	Flights	flight	NNPS	pos2=NNS	5	pobj	_	O
+8	&	&	CC	pos2=POS	7	cc	_	O
+9	Violators	violator	NNS	pos2=NNPS	7	conj	_	O
+10	Will	will	MD	_	12	aux	_	O
+11	Be	be	VB	_	12	auxpass	_	O
+12	Sent	send	VBN	_	0	root	_	O
+13	To	to	IN	_	12	prep	_	O
+14	Prison	prison	NNP	pos2=GW	13	pobj	_	O
+15	https://t.co/elxhhSXXxC	#hlink#	ADD	pos2=NN	12	advcl	_	O
+

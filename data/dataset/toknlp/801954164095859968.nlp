@@ -1,0 +1,17 @@
+1	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=LS	2	dep	_	O
+2	4.	0.	LS	_	7	meta	_	U-CARDINAL
+3	Taylor	taylor	NNP	_	4	compound	_	O
+4	3.	0.	NNP	pos2=CD	9	compound	_	U-CARDINAL
+5	Richard	richard	NNP	_	9	compound	_	O
+6	2.	0.	NNP	pos2=CD	3	nmod	_	U-CARDINAL
+7	Sookie	sookie	NNP	pos2=NN	9	compound	_	O
+8	1.	0.	NNP	pos2=CD	9	compound	_	B-PERSON
+9	Babette	babette	NNP	_	10	dep	_	L-PERSON
+10	..	..	.	pos2=,	0	root	_	O
+
+1	Invisible	invisible	JJ	_	2	nmod	_	O
+2	5	0	CD	pos2=NN	3	nsubj	_	U-CARDINAL
+3	is	be	VBZ	_	0	root	_	O
+4	Jackson	jackson	NNP	_	5	compound	_	B-ORG
+5	👌	👌	NNP	pos2=.	3	attr	_	L-ORG
+

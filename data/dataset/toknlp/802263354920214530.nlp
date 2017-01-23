@@ -1,0 +1,18 @@
+1	@TylerIAm	@tyleriam	NN	pos2=NNP	0	root	_	O
+2	when	when	WRB	_	4	advmod	_	O
+3	Quavo	quavo	NNP	_	4	nsubj	_	U-PERSON
+4	says	say	VBZ	_	1	advcl	_	O
+5	"	"	``	_	6	punct	_	O
+6	take	take	VB	_	4	xcomp	_	O
+7	the	the	DT	_	8	det	_	O
+8	pot	pot	NN	_	6	dobj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	slam	slam	NN	pos2=VB	8	conj	_	O
+11	dunk	dunk	VBP	pos2=VB	6	conj	_	O
+12	it	it	PRP	_	11	dobj	_	O
+13	,	,	,	_	11	punct	_	O
+14	Tim	tim	NNP	_	15	compound	_	B-PERSON
+15	Duncan	duncan	NNP	_	17	dep	_	L-PERSON
+16	"	"	''	pos2=GW	17	punct	_	O
+17	https://t.co/BhpWyqBcIh	#hlink#	ADD	_	12	appos	_	O
+

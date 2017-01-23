@@ -1,0 +1,22 @@
+1	Because	because	IN	_	7	mark	_	O
+2	the	the	DT	_	4	det	_	O
+3	last	last	JJ	_	4	nmod	_	O
+4	time	time	NN	_	7	npadvmod	_	O
+5	a	a	DT	_	6	det	_	O
+6	Georgian	georgian	NNP	pos2=JJ	7	nsubj	_	U-NORP
+7	plotted	plot	VBD	_	15	advcl	_	O
+8	a	a	DT	_	9	det	_	O
+9	revolution	revolution	NN	_	7	dobj	_	O
+10	around	around	RB	pos2=IN	11	advmod	_	O
+11	here	here	RB	_	7	advmod	_	O
+12	,	,	,	_	15	punct	_	O
+13	it	it	PRP	_	15	nsubj	_	O
+14	all	all	DT	pos2=RB	13	appos	_	O
+15	went	go	VBD	_	0	root	_	O
+16	so	so	RB	_	18	advmod	_	O
+17	swimmingly	swimmingly	RB	_	18	advmod	_	O
+18	well	well	RB	pos2=UH	15	advmod	_	O
+19	.	.	.	_	15	punct	_	O
+
+1	https://t.co/4yAEoeX0Rv	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,17 @@
+1	Car	car	NN	_	9	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	Driver	driver	NN	pos2=NNP	1	conj	_	O
+4	|	|	SYM	pos2=,	9	punct	_	O
+5	Self-driving	self-driving	JJ	pos2=VBG	6	nmod	_	O
+6	cars	car	NNS	_	9	nsubj	_	O
+7	will	will	MD	_	9	aux	_	O
+8	soon	soon	RB	_	9	advmod	_	O
+9	roam	roam	VB	_	0	root	_	O
+10	the	the	DT	_	12	det	_	O
+11	dilapidated	dilapidated	JJ	_	12	nmod	_	O
+12	grounds	ground	NNS	_	9	dobj	_	O
+13	...	..	.	_	9	punct	_	O
+
+1	https://t.co/5t5VW4ZVnc	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/aT4Gq4itGd	#hlink#	ADD	_	0	root	_	U-ORG
+

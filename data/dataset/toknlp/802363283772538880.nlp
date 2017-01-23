@@ -1,0 +1,30 @@
+1	@JayS2629	@jays0	NN	pos2=LS	2	compound	_	O
+2	@gatewaypundit	@gatewaypundit	NN	pos2=LS	6	dep	_	O
+3	-	-	:	pos2=,	6	punct	_	O
+4	she	she	PRP	_	6	nsubj	_	O
+5	's	's	VBZ	_	6	aux	_	O
+6	sounding	sound	VBG	_	0	root	_	O
+7	like	like	IN	_	6	prep	_	O
+8	Pelosi	pelosi	NNP	_	7	pobj	_	U-PERSON
+9	,	,	,	_	8	punct	_	O
+10	cuckoo	cuckoo	NN	_	8	appos	_	O
+11	,	,	,	_	10	punct	_	O
+12	cuckoo	cuckoo	NN	_	10	conj	_	O
+13	,	,	,	_	12	punct	_	O
+14	cuckoo	cuckoo	NN	pos2=UH	12	conj	_	O
+15	...	..	.	pos2=,	6	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	wonder	wonder	VBP	_	0	root	_	O
+3	how	how	WRB	_	4	advmod	_	O
+4	much	much	JJ	pos2=RB	8	dobj	_	O
+5	she	she	PRP	_	8	nsubjpass	_	O
+6	's	's	VBZ	_	8	aux	_	O
+7	being	be	VBG	_	8	auxpass	_	O
+8	paid	pay	VBN	_	2	ccomp	_	O
+9	to	to	TO	_	10	aux	_	O
+10	do	do	VB	_	8	xcomp	_	O
+11	this	this	DT	_	10	dobj	_	O
+12	for	for	IN	_	10	prep	_	O
+13	Hillary	hillary	NNP	_	12	pobj	_	U-PERSON
+

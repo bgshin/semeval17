@@ -1,0 +1,6 @@
+1	Cable	cable	NN	pos2=NNP	2	compound	_	B-PERSON
+2	Girls	girl	NNPS	pos2=NNS	0	root	_	I-PERSON
+3	Rheineck	rheineck	NNP	_	4	compound	_	I-PERSON
+4	Wonna	wonna	NNP	pos2=GW	5	dep	_	L-PERSON
+5	https://t.co/gBES4DLThX	#hlink#	ADD	_	2	appos	_	O
+

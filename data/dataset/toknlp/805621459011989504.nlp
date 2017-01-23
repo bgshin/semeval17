@@ -1,0 +1,23 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@ChiOnwurah	@chionwurah	UH	pos2=XX	6	discourse	_	O
+2	@carolecadwalla	@carolecadwalla	UH	pos2=NN	6	discourse	_	O
+3	#DoNoEvil	#donoevil	UH	pos2=NNP	6	discourse	_	O
+4	@google	@google	UH	pos2=ADD	6	discourse	_	O
+5	@ericschmidt	@ericschmidt	UH	pos2=WP	6	discourse	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	this	this	DT	_	6	nsubj	_	O
+8	why	why	WRB	_	11	advmod	_	O
+9	#publiceducation	#publiceducation	NN	pos2=ADD	11	nsubjpass	_	O
+10	is	be	VBZ	_	11	auxpass	_	O
+11	made	make	VBN	_	6	advcl	_	O
+12	2	0	CD	_	13	nsubj	_	U-CARDINAL
+13	FAIL	fail	VB	pos2=NN	11	ccomp	_	O
+14	by	by	IN	_	13	prep	_	O
+15	ALEC	alec	NNP	_	17	nmod	_	O
+16	+	+	SYM	pos2=NNP	17	punct	_	O
+17	GOP	gop	NNP	pos2=NN	14	pobj	_	O
+18	?	?	.	_	6	punct	_	O
+
+1	https://t.co/D6ma0pT8AA	#hlink#	ADD	_	0	root	_	U-ORG
+

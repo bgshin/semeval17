@@ -1,0 +1,27 @@
+1	TONIGHT	tonight	NN	_	15	npadvmod	_	U-TIME
+2	at	at	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	Leaf	leaf	NN	pos2=NNP	2	pobj	_	O
+5	:	:	:	_	6	punct	_	O
+6	Gravity	gravity	NN	pos2=NNP	15	dep	_	O
+7	A	a	DT	pos2=NN	9	det	_	O
+8	//	//	SYM	pos2=NFP	9	punct	_	O
+9	night	night	NN	_	6	npadvmod	_	U-TIME
+10	after	after	IN	_	6	prep	_	O
+11	Thanksgiving	thanksgiving	NNP	pos2=VBG	12	compound	_	U-DATE
+12	party	party	NN	_	10	pobj	_	O
+13	//	//	NFP	pos2=-LRB-	15	punct	_	O
+14	Maple	maple	NNP	pos2=NN	15	compound	_	B-ORG
+15	Leaf	leaf	NNP	pos2=NN	0	root	_	L-ORG
+16	!	!	.	_	15	punct	_	O
+
+1	Bring	bring	VB	_	0	root	_	O
+2	your	your	PRP$	_	4	poss	_	O
+3	ticket	ticket	NN	_	4	compound	_	O
+4	stub	stub	NN	_	1	dobj	_	O
+5	from	from	IN	_	1	prep	_	O
+6	the	the	DT	_	5	pobj	_	O
+7	...	..	.	_	1	punct	_	O
+
+1	https://t.co/WAHQ8vWEwm	#hlink#	ADD	_	0	root	_	U-ORG
+

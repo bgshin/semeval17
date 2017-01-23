@@ -1,0 +1,21 @@
+1	Vlad	vlad	NNP	pos2=NN	2	nmod	_	B-PERSON
+2	Motchoulski	motchoulski	NNP	_	4	nmod	_	L-PERSON
+3	Creative	creative	JJ	pos2=NNP	4	nmod	_	O
+4	Archive	archive	NN	pos2=NNP	7	dep	_	O
+5	:	:	:	_	7	punct	_	O
+6	Tomorrow	tomorrow	NN	_	7	nsubj	_	U-DATE
+7	Is	be	VBZ	_	0	root	_	O
+8	a	a	DT	_	14	det	_	O
+9	Long	long	NNP	pos2=JJ	14	compound	_	O
+10	Time	time	NNP	pos2=NN	14	compound	_	O
+11	-	-	HYPH	pos2=:	14	punct	_	O
+12	Bob	bob	NNP	_	14	compound	_	O
+13	Dylan	dylan	NNP	_	14	compound	_	O
+14	Cover	cover	NNP	pos2=NN	7	attr	_	O
+15	:	:	:	_	16	punct	_	O
+16	https://t.co/kFlMfXJsTl	#hlink#	ADD	_	14	appos	_	O
+17	#cover	#cover	-RRB-	pos2=IN	16	punct	_	O
+18	#bobdylan	#bobdylan	UH	pos2=-RRB-	7	discourse	_	O
+19	#folk	#folk	UH	pos2=VB	7	discourse	_	O
+20	#guitar	#guitar	UH	pos2=.	7	discourse	_	O
+

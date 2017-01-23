@@ -1,0 +1,11 @@
+1	Lovin	lovin	NNP	pos2=NN	0	root	_	O
+2	'	'	''	pos2=POS	1	punct	_	O
+3	the	the	DT	_	5	det	_	O
+4	pink	pink	JJ	_	5	nmod	_	O
+5	outfit	outfit	NN	_	1	appos	_	O
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	Chanels	chanels	NNPS	pos2=NNS	6	pobj	_	O
+9	💗	💗	WDT	pos2=NNP	10	det	_	O
+10	#ScreamQueens	#screamqueens	NNS	pos2=ADD	8	relcl	_	O
+

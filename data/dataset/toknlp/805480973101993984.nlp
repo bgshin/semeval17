@@ -1,0 +1,15 @@
+1	A	a	DT	_	2	det	_	O
+2	case	case	NN	_	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	#vegetarianism	#vegetarianism	NN	pos2=NNP	3	pobj	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	:)	:)	NFP	_	3	punct	_	O
+2	Happy	happy	JJ	pos2=NNP	3	nmod	_	O
+3	Sunday	sunday	NNP	_	0	root	_	U-DATE
+4	,	,	,	_	3	punct	_	O
+5	everyone	everyone	NN	_	3	appos	_	O
+6	!	!	.	_	3	punct	_	O
+
+1	https://t.co/q2IDrxz0qQ	#hlink#	ADD	_	0	root	_	U-ORG
+

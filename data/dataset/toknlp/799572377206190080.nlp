@@ -1,0 +1,16 @@
+1	When	when	WRB	_	3	advmod	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	see	see	VBP	pos2=VB	0	advcl	_	O
+4	something	something	NN	_	3	dobj	_	O
+5	and	and	CC	_	3	cc	_	O
+6	it	it	PRP	_	7	nsubj	_	O
+7	's	's	VBZ	_	3	conj	_	O
+8	a	a	DT	_	9	det	_	O
+9	couple	couple	NN	_	12	npadvmod	_	O
+10	of	of	IN	_	9	prep	_	O
+11	days	day	NNS	_	10	pobj	_	O
+12	late	late	RB	pos2=JJ	7	advmod	_	O
+13	for	for	IN	_	12	prep	_	O
+14	#NationalFastFoodDay	#nationalfastfoodday	GW	pos2=NN	13	pobj	_	U-DATE
+15	https://t.co/HZsog0o8zC	#hlink#	ADD	pos2=NN	7	attr	_	O
+

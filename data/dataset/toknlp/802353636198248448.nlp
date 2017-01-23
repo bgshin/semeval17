@@ -1,0 +1,16 @@
+1	Trump	trump	NNP	pos2=NN	3	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	Cabinet	cabinet	NNP	_	4	nsubj	_	O
+4	Has	have	VBZ	_	0	root	_	O
+5	Little	little	NNP	pos2=JJ	7	compound	_	O
+6	Government	government	NNP	pos2=NN	7	compound	_	O
+7	Experience	experience	NNP	pos2=NN	4	dobj	_	O
+8	,	,	,	_	4	punct	_	O
+9	And	and	CC	pos2=NNP	4	cc	_	O
+10	That	that	DT	_	11	nsubj	_	O
+11	's	's	VBZ	_	4	conj	_	O
+12	Good	good	JJ	pos2=NNP	11	acomp	_	O
+13	https://t.co/nTAcpcjBje	#hlink#	ADD	pos2=NN	15	nmod	_	O
+14	#tcot	#tcot	-RRB-	pos2=IN	13	punct	_	O
+15	#tpp	#tpp	UH	pos2=-RRB-	11	discourse	_	O
+

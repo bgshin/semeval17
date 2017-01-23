@@ -1,0 +1,24 @@
+1	@novorumonovo	@novorumonovo	UH	pos2=FW	11	discourse	_	O
+2	#SYRIA	#syria	NNP	pos2=IN	11	vocative	_	O
+3	This	this	DT	_	4	det	_	O
+4	video	video	NN	_	11	nsubj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Opposition	opposition	NN	pos2=NNP	7	compound	_	O
+7	fighters	fighter	NNS	_	5	pobj	_	O
+8	leaving	leave	VBG	_	7	acl	_	O
+9	E.	e.	NNP	pos2=$	10	compound	_	B-PERSON
+10	#Aleppo	#aleppo	NNP	_	8	dobj	_	L-PERSON
+11	is	be	VBZ	_	0	root	_	O
+12	a	a	DT	_	13	det	_	O
+13	fake	fake	NN	pos2=JJ	11	attr	_	O
+14	.	.	.	_	11	punct	_	O
+
+1	No	no	DT	pos2=UH	2	det	_	O
+2	passengers	passenger	NNS	_	0	root	_	O
+3	on	on	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	buses	bus	NNS	_	3	pobj	_	O
+6	!	!	.	_	2	punct	_	O
+
+1	https://t.co/gxR96mEIFr	#hlink#	ADD	_	0	root	_	U-ORG
+

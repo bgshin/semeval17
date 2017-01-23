@@ -1,0 +1,27 @@
+1	@Porthospublish	@porthospublish	NNP	pos2=UH	2	nsubj	_	U-PERSON
+2	#brexit	#brexit	VBD	pos2=IN	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	british	british	JJ	_	5	nmod	_	U-NORP
+5	people	people	NNS	_	2	dobj	_	O
+6	who	who	WP	_	7	nsubj	_	O
+7	supported	support	VBD	_	5	relcl	_	O
+8	#italy	#italy	PRP	pos2=XX	7	dobj	_	O
+9	have	have	VB	pos2=VBP	2	ccomp	_	O
+10	to	to	TO	_	11	aux	_	O
+11	support	support	VB	_	9	xcomp	_	O
+12	G	g	NNP	pos2=NN	13	compound	_	B-PERSON
+13	Miller	miller	NNP	_	11	dobj	_	L-PERSON
+14	.	.	.	_	2	punct	_	O
+
+1	Italian	italian	JJ	_	2	nmod	_	U-NORP
+2	referandum	referandum	NN	pos2=NNS	0	root	_	O
+3	and	and	CC	_	2	cc	_	O
+4	Sup	sup	NN	pos2=NNP	2	conj	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	Court	court	NN	pos2=NNP	2	compound	_	O
+2	case	case	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	same	same	JJ	_	3	acomp	_	O
+5	!	!	.	_	3	punct	_	O
+

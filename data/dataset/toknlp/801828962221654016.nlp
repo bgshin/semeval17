@@ -1,0 +1,20 @@
+1	4	0	LS	pos2=CD	4	meta	_	U-CARDINAL
+2	)	)	-RRB-	_	1	punct	_	O
+3	rick	rick	NN	pos2=JJ	4	compound	_	O
+4	porcello	porcello	NN	pos2=NNP	0	root	_	O
+5	...	..	.	pos2=,	4	punct	_	O
+
+1	who	who	WP	_	2	nsubj	_	O
+2	took	take	VBD	_	0	root	_	O
+3	adversity	adversity	NN	_	2	dobj	_	O
+4	on	on	IN	pos2=RB	2	prep	_	O
+5	..	..	.	pos2=,	2	punct	_	O
+
+1	and	and	CC	_	2	cc	_	O
+2	become	become	VB	pos2=VBP	0	root	_	O
+3	the	the	DT	_	7	det	_	O
+4	al	al	NNP	pos2=FW	5	nmod	_	O
+5	cy	cy	NNP	pos2=NN	7	nmod	_	O
+6	young	young	JJ	_	7	nmod	_	O
+7	winner	winner	NN	_	2	attr	_	O
+

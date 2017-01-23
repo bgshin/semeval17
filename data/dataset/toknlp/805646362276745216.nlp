@@ -1,0 +1,20 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	Mean	mean	VBP	_	0	root	_	O
+3	HELLO	hello	UH	pos2=NNP	2	dobj	_	O
+4	?!	?!	.	_	2	punct	_	O
+
+1	Administering	administer	VBG	pos2=NNP	9	csubj	_	O
+2	Broke	broke	NNP	pos2=VBD	3	compound	_	O
+3	vaccines	vaccine	NNS	_	1	dobj	_	O
+4	daily	daily	RB	_	1	advmod	_	U-DATE
+5	(	(	-LRB-	_	9	punct	_	O
+6	Side	side	NN	pos2=NNP	7	compound	_	O
+7	effects	effect	NNS	_	9	nsubj	_	O
+8	may	may	MD	_	9	aux	_	O
+9	include	include	VB	pos2=VBP	0	root	_	O
+10	insomnia	insomnia	NN	_	9	dobj	_	O
+11	,	,	,	_	10	punct	_	O
+12	euphoria	euphoria	NN	_	10	conj	_	O
+13	…	…	NFP	pos2=-LRB-	14	punct	_	O
+14	https://t.co/NIfkMWH2Ks	#hlink#	ADD	pos2=NN	10	appos	_	O
+

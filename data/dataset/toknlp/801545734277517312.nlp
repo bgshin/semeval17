@@ -1,0 +1,25 @@
+1	melania	melania	NN	pos2=NNS	2	nsubj	_	O
+2	gave	give	VBD	_	0	root	_	O
+3	an	an	DT	_	5	det	_	O
+4	amazing	amazing	JJ	_	5	nmod	_	O
+5	speech	speech	NN	_	2	dobj	_	O
+6	at	at	IN	_	2	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	rnc	rnc	NN	_	6	pobj	_	O
+9	,	,	,	_	2	punct	_	O
+10	too	too	RB	_	11	advmod	_	O
+11	bad	bad	JJ	_	8	nmod	_	O
+12	it	it	PRP	_	13	nsubj	_	O
+13	was	be	VBD	_	11	ccomp	_	O
+14	n't	not	RB	_	13	neg	_	O
+15	hers	hers	PRP	pos2=NNS	13	attr	_	O
+16	!	!	.	_	2	punct	_	O
+
+1	#michelleobamaftw	#michelleobamaftw	UH	pos2=NN	7	nmod	_	O
+2	(	(	-LRB-	_	7	punct	_	O
+3	Vine	vine	NNP	pos2=NN	7	dep	_	U-ORG
+4	by	by	IN	pos2=GW	3	prep	_	O
+5	@trashbucket8	@trashbucket0	GW	pos2=CD	4	pobj	_	O
+6	)	)	-RRB-	pos2=GW	7	nmod	_	O
+7	https://t.co/wqqmfZALFP	#hlink#	ADD	pos2=NN	0	root	_	O
+

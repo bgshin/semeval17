@@ -1,0 +1,8 @@
+1	Kim	kim	NNP	_	3	compound	_	B-PERSON
+2	Jong	jong	NNP	_	3	compound	_	I-PERSON
+3	Un	un	NNP	_	7	dep	_	L-PERSON
+4	from	from	IN	_	3	prep	_	O
+5	korea	korea	NN	pos2=NNP	4	pobj	_	O
+6	🤘🏽	🤘🏽	NFP	pos2=NNP	7	punct	_	O
+7	https://t.co/X7zRyqJMfW	#hlink#	ADD	_	0	root	_	U-ORG
+

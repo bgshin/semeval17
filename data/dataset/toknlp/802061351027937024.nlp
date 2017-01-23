@@ -1,0 +1,21 @@
+1	@tads_beard	@tads_beard	UH	pos2=VB	5	det	_	O
+2	@Henderson1983	@henderson0	NN	pos2=WP	3	compound	_	O
+3	Jesus	jesus	NNP	_	0	root	_	U-PERSON
+4	which	which	WDT	_	5	det	_	O
+5	one	#crd#	CD	_	8	nsubj	_	U-CARDINAL
+6	of	of	IN	_	5	prep	_	O
+7	us	us	PRP	_	6	pobj	_	O
+8	has	have	VBZ	_	2	relcl	_	O
+9	to	to	TO	_	10	aux	_	O
+10	be	be	VB	_	8	xcomp	_	O
+11	Ricky	ricky	NNP	_	12	compound	_	B-PERSON
+12	Martin	martin	NNP	_	10	attr	_	L-PERSON
+13	?	?	.	_	2	punct	_	O
+
+1	Talk	talk	VB	pos2=NN	0	root	_	O
+2	about	about	IN	_	1	prep	_	O
+3	drawing	draw	VBG	_	2	pcomp	_	O
+4	the	the	DT	_	6	det	_	O
+5	short	short	JJ	_	6	nmod	_	O
+6	straw	straw	NN	_	3	dobj	_	O
+

@@ -1,0 +1,12 @@
+1	it	it	PRP	_	2	nsubj	_	O
+2	’s	's	VBZ	_	0	root	_	O
+3	really	really	RB	_	4	advmod	_	O
+4	Fantastic	fantastic	JJ	_	5	nmod	_	O
+5	Movie	movie	NN	pos2=NNP	2	attr	_	O
+6	!	!	.	_	2	punct	_	O
+
+1	#FantasticBeasts	#fantasticbeasts	NNS	pos2=ADD	4	nmod	_	O
+2	#NewtScamander	#newtscamander	GW	pos2=IN	4	nmod	_	B-PERSON
+3	#Pickett	#pickett	GW	pos2=-LRB-	4	nmod	_	L-PERSON
+4	https://t.co/Yiqry59Xlc	#hlink#	ADD	pos2=NN	0	root	_	O
+

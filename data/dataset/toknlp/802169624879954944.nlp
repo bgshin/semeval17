@@ -1,0 +1,8 @@
+1	GM	gm	NNP	pos2=VB	7	dep	_	U-ORG
+2	everyone	everyone	NN	_	7	dep	_	O
+3	#tbt	#tbt	IN	pos2=VBD	2	prep	_	O
+4	#onedirection	#onedirection	NN	pos2=ADD	7	dep	_	O
+5	#	#	NN	pos2=GW	6	compound	_	O
+6	5sos	0sos	NNS	pos2=-LRB-	7	dep	_	U-MONEY
+7	https://t.co/TOouAU9y5C	#hlink#	ADD	_	0	root	_	O
+

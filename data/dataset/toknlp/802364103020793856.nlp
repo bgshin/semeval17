@@ -1,0 +1,15 @@
+1	#DrainTheSwamp	#draintheswamp	NN	pos2=ADD	3	nsubj	_	O
+2	has	have	VBZ	_	3	aux	_	O
+3	translated	translate	VBN	_	0	root	_	O
+4	to	to	IN	pos2=TO	3	prep	_	O
+5	stocking	stock	VBG	pos2=VB	4	pcomp	_	O
+6	the	the	DT	_	7	det	_	O
+7	swamp	swamp	NN	_	5	dobj	_	O
+8	with	with	IN	_	5	prep	_	O
+9	a	a	DT	_	10	det	_	O
+10	kleptocrat	kleptocrat	NN	pos2=NNP	12	poss	_	U-DATE
+11	's	's	POS	pos2=VBZ	10	case	_	O
+12	cronies.#DumpTrump	cronies.#dumptrump	NNP	pos2=JJ	8	pobj	_	B-PERSON
+13	#NotMyPresident	#notmypresident	ADD	pos2=GW	14	punct	_	L-PERSON
+14	https://t.co/OQzoNDjAqT	#hlink#	ADD	_	3	dep	_	O
+

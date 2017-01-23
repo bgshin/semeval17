@@ -1,0 +1,26 @@
+1	God	god	NNP	pos2=UH	2	nsubj	_	O
+2	bless	bless	VB	pos2=VBD	6	advcl	_	O
+3	him	him	PRP	_	2	dobj	_	O
+4	—	-	:	pos2=,	6	punct	_	O
+5	he	he	PRP	_	6	nsubj	_	O
+6	’s	's	VBZ	_	0	root	_	O
+7	a	a	DT	_	11	det	_	O
+8	stud	stud	NN	_	11	compound	_	O
+9	—	-	HYPH	pos2=:	11	punct	_	O
+10	Coach	coach	NNP	pos2=NN	11	compound	_	O
+11	K	k	NNP	pos2=NN	6	attr	_	O
+12	on	on	IN	_	11	prep	_	O
+13	Grayson	grayson	NNP	_	14	compound	_	B-PERSON
+14	Allen	allen	NNP	_	12	pobj	_	L-PERSON
+15	,	,	,	_	14	punct	_	O
+16	who	who	WP	_	17	nsubj	_	O
+17	had	have	VBD	_	14	relcl	_	O
+18	17	0	CD	_	20	nmod	_	U-CARDINAL
+19	,	,	,	_	14	punct	_	O
+20	5	0	CD	pos2=NN	25	dep	_	U-CARDINAL
+21	and	and	CC	_	20	cc	_	O
+22	6	0	CD	_	20	conj	_	U-CARDINAL
+23	:	:	:	_	25	punct	_	O
+24	https://t.co/LFjPobfvfP	#hlink#	ADD	_	25	nmod	_	O
+25	https://t.co/2vlOtZERcf	#hlink#	ADD	_	6	dep	_	U-ORG
+

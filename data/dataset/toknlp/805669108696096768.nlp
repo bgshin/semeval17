@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det	_	O
+2	event	event	NN	_	3	nsubj	_	O
+3	had	have	VBD	_	13	ccomp	_	O
+4	nothing	nothing	NN	_	3	dobj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	do	do	VB	_	4	relcl	_	O
+7	with	with	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	cubs	cub	NNS	pos2=NN	7	pobj	_	O
+10	,	,	,	_	13	punct	_	O
+11	Fire	fire	NNP	pos2=NN	13	nsubj	_	O
+12	just	just	RB	_	13	advmod	_	O
+13	picks	pick	VBZ	_	0	root	_	O
+14	a	a	DT	_	16	det	_	O
+15	different	different	JJ	_	16	nmod	_	O
+16	teams	team	NNS	pos2=NN	17	nsubj	_	O
+17	jersey	jersey	VBP	pos2=VBG	13	dobj	_	O
+18	every	every	DT	_	19	det	_	O
+19	year	year	NN	_	13	npadvmod	_	O
+20	to	to	TO	_	21	aux	_	O
+21	use	use	VB	_	13	xcomp	_	O
+

@@ -1,0 +1,22 @@
+1	Check	check	VB	_	0	root	_	O
+2	out	out	RP	_	1	prt	_	O
+3	our	our	PRP$	_	4	poss	_	O
+4	newly	newly	RB	_	5	advmod	_	O
+5	listed	list	VBN	_	0	root	_	O
+6	Get	get	VB	pos2=VBP	5	dep	_	O
+7	your	your	PRP$	_	10	poss	_	O
+8	3	0	CD	_	9	nmod	_	U-CARDINAL
+9	D	d	NN	pos2=NNP	10	compound	_	O
+10	Print	print	NN	pos2=NNP	6	dobj	_	O
+11	...	..	.	pos2=,	1	punct	_	O
+
+1	Do	do	VB	pos2=VBP	3	aux	_	O
+2	nt	nt	RB	_	3	advmod	_	O
+3	miss	miss	VB	_	0	root	_	O
+4	out	out	RP	pos2=RB	3	prt	_	O
+5	!	!	.	_	3	punct	_	O
+
+1	https://t.co/PZMmhTIUfN	#hlink#	ADD	pos2=NN	3	dep	_	O
+2	#	#	NN	pos2=-RRB-	3	compound	_	O
+3	3dprinting	0dprinting	NN	pos2=VBG	0	root	_	U-MONEY
+

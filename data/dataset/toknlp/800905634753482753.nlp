@@ -1,0 +1,25 @@
+1	@peterjhasson	@peterjhasson	UH	pos2=XX	7	discourse	_	O
+2	@davereaboi	@davereaboi	UH	pos2=WRB	7	discourse	_	O
+3	Curious	curious	JJ	pos2=PDT	6	nmod	_	O
+4	an	an	DT	_	6	det	_	O
+5	alleged	alleged	JJ	pos2=VBN	6	nmod	_	O
+6	anti-Semite	anti-semite	NN	_	7	nsubj	_	O
+7	uses	use	VBZ	_	0	root	_	O
+8	Yiddish	yiddish	NNP	pos2=JJ	9	compound	_	U-NORP
+9	word	word	NN	_	7	dobj	_	O
+10	"	"	``	_	11	punct	_	O
+11	golem	golem	NN	_	9	appos	_	O
+12	.	.	.	_	7	punct	_	O
+13	"	"	''	_	7	punct	_	O
+
+1	Guess	guess	VB	pos2=VBP	0	root	_	O
+2	even	even	RB	_	4	advmod	_	O
+3	alt	alt	JJ	_	4	nmod	_	O
+4	rightists	rightist	NNS	_	7	nsubj	_	O
+5	ca	can	MD	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	resist	resist	VB	_	1	ccomp	_	O
+8	the	the	DT	_	9	det	_	O
+9	mamaloshen	mamaloshen	NN	pos2=NNS	7	dobj	_	O
+10	...	..	.	pos2=,	1	punct	_	O
+

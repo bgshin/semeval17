@@ -1,0 +1,21 @@
+1	Medical	medical	JJ	_	2	nmod	_	O
+2	marijuana	marijuana	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	legal	legal	JJ	_	3	acomp	_	O
+5	in	in	IN	_	3	prep	_	O
+6	majority	majority	NN	_	5	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	America	america	NNP	_	7	pobj	_	U-GPE
+9	,	,	,	_	3	punct	_	O
+10	yet	yet	CC	pos2=JJ	3	cc	_	O
+11	veterans	veteran	NNS	_	12	nsubj	_	O
+12	get	get	VBP	_	3	conj	_	O
+13	no	no	DT	_	14	det	_	O
+14	guidance	guidance	NN	_	12	dobj	_	O
+15	thanks	thanks	NNS	_	12	npadvmod	_	O
+16	to	to	IN	_	15	prep	_	O
+17	VA	va	NNP	pos2=NN	18	compound	_	U-ORG
+18	policy	policy	NN	_	16	pobj	_	O
+19	…	…	NFP	pos2=:	20	punct	_	O
+20	https://t.co/GVcMHzB4ql	#hlink#	ADD	_	3	dep	_	O
+

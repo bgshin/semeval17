@@ -1,0 +1,18 @@
+1	#Assortment	#assortment	NN	pos2=NNP	6	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	#ginger	#ginger	NNP	pos2=PRP	4	compound	_	O
+4	#man	#man	NNP	pos2=UH	2	pobj	_	O
+5	,	,	,	_	6	punct	_	O
+6	#cookies	#cookies	VBZ	pos2=UH	0	root	_	O
+7	that	that	DT	pos2=WDT	8	nsubj	_	O
+8	looks	look	VBZ	_	6	ccomp	_	O
+9	#natural	#natural	IN	pos2=JJ	8	prep	_	O
+10	that	that	IN	pos2=DT	13	mark	_	O
+11	anyone	anyone	NN	_	13	nsubj	_	O
+12	would	would	MD	_	13	aux	_	O
+13	try	try	VB	_	8	advcl	_	O
+14	to	to	TO	pos2=IN	15	aux	_	O
+15	taste.#NationalFastFoodDay	taste.#nationalfastfoodday	VB	pos2=NNP	13	xcomp	_	O
+16	…	…	NFP	pos2=-LRB-	17	punct	_	O
+17	https://t.co/r3W7tcXd1z	#hlink#	ADD	_	15	dobj	_	O
+

@@ -1,0 +1,18 @@
+1	@CNNPolitics	@cnnpolitics	NNS	pos2=NNP	0	root	_	O
+2	You	you	PRP	_	4	nsubj	_	O
+3	will	will	MD	_	4	aux	_	O
+4	fit	fit	VB	_	1	relcl	_	O
+5	in	in	RP	pos2=RB	4	prt	_	O
+6	with	with	IN	_	4	prep	_	O
+7	steve	steve	NNP	pos2=JJ	8	compound	_	B-PERSON
+8	bannon	bannon	NNP	pos2=NN	6	pobj	_	L-PERSON
+9	and	and	CC	_	8	cc	_	O
+10	all	all	DT	_	8	conj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	trumps	trump	NNS	pos2=VBZ	11	pobj	_	O
+13	true	true	JJ	_	14	nmod	_	O
+14	patriots	patriot	NNS	_	12	appos	_	O
+15	.	.	.	_	4	punct	_	O
+
+1	!	!	.	pos2=SYM	0	predet	_	O
+

@@ -1,0 +1,33 @@
+1	@LordHarden	@lordharden	ADD	pos2=VB	0	root	_	O
+2	@MarkBermanFox26	@markbermanfox0	NN	pos2=NNS	1	pobj	_	O
+3	but	but	CC	_	2	cc	_	O
+4	maybe	maybe	RB	_	7	advmod	_	O
+5	JD	jd	NN	pos2=FW	7	nmod	_	O
+6	/	/	SYM	pos2=HYPH	7	punct	_	O
+7	Verlander	verlander	NNP	_	2	conj	_	U-PERSON
+8	?	?	.	_	1	punct	_	O
+
+1	2	0	CD	pos2=LS	2	nmod	_	U-CARDINAL
+2	needs	need	NNS	_	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	1	0	CD	_	5	nmod	_	U-DATE
+5	deal	deal	NN	pos2=NNS	3	pobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	That	that	DT	_	4	nsubj	_	O
+2	would	would	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	be	be	VB	_	0	root	_	O
+5	my	my	PRP$	pos2=MD	10	poss	_	O
+6	go	go	NN	pos2=JJ	8	compound	_	O
+7	-	-	HYPH	pos2=,	4	punct	_	O
+8	to	to	TO	pos2=IN	9	aux	_	O
+9	trade	trade	VB	pos2=NN	4	xcomp	_	O
+10	tho	tho	NN	pos2=RB	9	dobj	_	O
+11	..	..	.	_	4	punct	_	O
+
+1	would	would	MD	_	2	aux	_	O
+2	aim	aim	VB	_	0	root	_	O
+3	higher	high	JJR	pos2=RBR	2	advmod	_	O
+4	somehow	somehow	RB	_	2	advmod	_	O
+

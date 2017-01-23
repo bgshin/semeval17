@@ -1,0 +1,13 @@
+1	Rioting	rioting	NN	pos2=VBG	2	compound	_	O
+2	Liberals	liberal	NNPS	pos2=NNS	4	nsubj	_	U-NORP
+3	are	be	VBP	_	4	aux	_	O
+4	Threatening	threaten	VBG	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	KILL	kill	VB	pos2=NNP	4	xcomp	_	O
+7	Trump	trump	NNP	pos2=NN	8	compound	_	B-ORG
+8	Supporters	supporter	NNPS	pos2=NNS	6	dobj	_	L-ORG
+9	(	(	-LRB-	_	8	punct	_	O
+10	SHOCK	shock	NN	pos2=NNP	8	appos	_	O
+11	)	)	-RRB-	_	8	punct	_	O
+12	https://t.co/HnonM97n3E	#hlink#	ADD	pos2=NN	6	dobj	_	O
+

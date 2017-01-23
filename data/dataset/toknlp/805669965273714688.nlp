@@ -1,0 +1,27 @@
+1	#Aleppo	#aleppo	NNP	pos2=FW	2	compound	_	B-ORG
+2	Masacre	masacre	NNP	_	15	nsubj	_	L-ORG
+3	a	a	DT	pos2=FW	11	det	_	O
+4	la	la	FW	pos2=NNP	9	det	_	O
+5	vista	vista	FW	pos2=NNP	11	nmod	_	O
+6	de	de	FW	pos2=NNP	11	nmod	_	O
+7	todo	todo	FW	_	9	nmod	_	O
+8	el	el	FW	pos2=NN	9	nmod	_	O
+9	mundoThe	mundothe	NNP	pos2=FW	11	poss	_	O
+10	‘	'	POS	pos2=''	9	case	_	O
+11	smell	smell	NN	_	2	appos	_	O
+12	of	of	IN	_	11	prep	_	O
+13	blood	blood	NN	_	12	pobj	_	O
+14	’	'	''	pos2=POS	2	punct	_	O
+15	is	be	VBZ	_	0	root	_	O
+16	everywhere	everywhere	RB	_	15	advmod	_	O
+17	,	,	,	_	15	punct	_	O
+18	doctor	doctor	NN	_	20	nsubj	_	O
+19	in	in	IN	_	18	prep	_	O
+20	besieged	besiege	VBN	pos2=JJ	16	ccomp	_	O
+21	rebel	rebel	NN	pos2=RB	23	npadvmod	_	O
+22	-	-	HYPH	_	23	punct	_	O
+23	held	hold	VBN	pos2=NN	18	nmod	_	O
+24	...	..	.	pos2=,	15	punct	_	O
+
+1	https://t.co/vvn68Wr89a	#hlink#	ADD	_	0	root	_	U-ORG
+

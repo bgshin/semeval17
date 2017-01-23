@@ -1,0 +1,21 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	think	think	VBP	_	0	root	_	O
+3	@MiloVentimiglia	@miloventimiglia	NNP	pos2=XX	5	poss	_	U-PERSON
+4	's	's	POS	_	3	case	_	O
+5	character	character	NN	_	8	nsubj	_	O
+6	on	on	IN	_	5	prep	_	O
+7	#ThisIsUs	#thisisus	NNP	pos2=ADD	6	pobj	_	U-ORG
+8	is	be	VBZ	_	2	ccomp	_	O
+9	probably	probably	RB	_	8	advmod	_	O
+10	one	#crd#	CD	_	8	attr	_	U-CARDINAL
+11	of	of	IN	_	10	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	best	good	JJS	_	14	nmod	_	O
+14	dads	dad	NNS	_	11	pobj	_	O
+15	ever	ever	RB	_	16	advmod	_	O
+16	on	on	IN	_	14	prep	_	O
+17	a	a	DT	_	19	det	_	O
+18	tv	tv	NN	_	19	compound	_	O
+19	show	show	NN	_	16	pobj	_	O
+20	.	.	.	_	2	punct	_	O
+

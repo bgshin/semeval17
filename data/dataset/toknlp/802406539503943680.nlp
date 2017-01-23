@@ -1,0 +1,21 @@
+1	Frustrated	frustrate	VBD	pos2=VBN	0	root	_	O
+2	me	me	PRP	_	1	dobj	_	O
+3	throughout	throughout	IN	_	1	prep	_	O
+4	campaign	campaign	NN	_	3	pobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	Clinton	clinton	NNP	_	2	compound	_	O
+2	Foundation	foundation	NNP	_	3	nsubj	_	O
+3	took	take	VBD	_	0	root	_	O
+4	DONATIONS	donation	NNS	pos2=NNP	3	dobj	_	O
+5	,	,	,	_	3	punct	_	O
+6	Trump	trump	NNP	pos2=VB	7	compound	_	U-ORG
+7	PROFITS	profit	NNS	pos2=NNP	3	dobj	_	O
+8	from	from	IN	_	7	prep	_	O
+9	Saudi	saudi	NNP	_	10	compound	_	B-GPE
+10	Arabia	arabia	NNP	_	8	pobj	_	L-GPE
+11	.	.	.	_	3	punct	_	O
+
+1	@SheWhoVotes	@shewhovotes	NNS	pos2=ADD	2	nmod	_	O
+2	https://t.co/di79DsQdTB	#hlink#	ADD	_	0	root	_	O
+

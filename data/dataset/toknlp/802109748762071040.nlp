@@ -1,0 +1,33 @@
+1	@ShortGo	@shortgo	UH	pos2=ADD	6	discourse	_	O
+2	@AnnCoulter	@anncoulter	UH	pos2=ADD	6	discourse	_	O
+3	no	no	UH	_	6	discourse	_	O
+4	,	,	,	_	6	punct	_	O
+5	there	there	EX	_	6	expl	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	.	.	.	_	6	punct	_	O
+
+1	Richard	richard	NNP	_	2	compound	_	B-PERSON
+2	Spencer	spencer	NNP	_	3	nsubj	_	L-PERSON
+3	coined	coin	VBD	_	0	root	_	O
+4	it	it	PRP	_	3	dobj	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	Look	look	VB	_	0	root	_	O
+2	up	up	RP	pos2=RB	1	prt	_	O
+3	thought	thought	NN	pos2=VBD	4	compound	_	O
+4	leaders	leader	NNS	_	1	vocative	_	O
+5	like	like	IN	_	4	prep	_	O
+6	Jared	jared	NNP	_	7	compound	_	B-PERSON
+7	Taylor	taylor	NNP	_	5	pobj	_	L-PERSON
+8	.	.	.	_	1	punct	_	O
+
+1	Many	many	JJ	_	4	nmod	_	O
+2	alt	alt	JJ	pos2=NN	4	nmod	_	O
+3	-	-	HYPH	_	4	punct	_	O
+4	rightists	rightist	NNS	_	0	root	_	O
+5	on	on	IN	_	4	prep	_	O
+6	twitter	twitter	NN	pos2=NNP	5	pobj	_	O
+7	,	,	,	_	4	punct	_	O
+8	too	too	RB	_	4	advmod	_	O
+9	.	.	.	_	4	punct	_	O
+

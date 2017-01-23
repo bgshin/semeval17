@@ -1,0 +1,12 @@
+1	@PoliticsGhost	@politicsghost	ADD	pos2=JJS	5	det	_	O
+2	#CapitalistArmy	#capitalistarmy	ADD	pos2=NN	5	compound	_	O
+3	#MemeWars	#memewars	VBZ	pos2=POS	0	root	_	O
+4	Michael	michael	NNP	_	5	compound	_	B-PERSON
+5	Moore	moore	NNP	_	8	poss	_	I-PERSON
+6	's	's	POS	_	5	case	_	L-PERSON
+7	Twitter	twitter	NNP	_	8	compound	_	O
+8	page	page	NN	_	9	nsubj	_	O
+9	is	be	VBZ	_	3	ccomp	_	O
+10	MMFlint	mmflint	NNP	pos2=JJ	9	attr	_	U-ORG
+11	.	.	.	_	1	punct	_	O
+

@@ -1,0 +1,34 @@
+1	@MomsThoughts	@momsthoughts	NNS	pos2=VBZ	3	nmod	_	O
+2	POOR	poor	JJ	_	3	nmod	_	O
+3	TRUMPIE	trumpie	NNP	pos2=NN	0	root	_	U-ORG
+4	.	.	.	_	3	punct	_	O
+
+1	WORKING	work	VBG	_	0	root	_	O
+2	HARD	hard	RB	pos2=JJ	1	advmod	_	O
+3	?	?	.	_	1	punct	_	O
+
+1	HARDLY	hardly	RB	_	2	advmod	_	O
+2	WORKING	work	VBG	_	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	WATCHES	watch	VBZ	pos2=NNS	0	root	_	O
+2	MELANIA	melania	NN	pos2=NNP	3	compound	_	U-PERSON
+3	SPEECH	speech	NN	pos2=NNP	1	dobj	_	O
+4	ALONE	alone	RB	pos2=JJ	1	advmod	_	O
+5	ON	on	IN	_	1	prep	_	O
+6	HIS	his	PRP$	_	8	poss	_	O
+7	HUGE	huge	JJ	_	8	nmod	_	O
+8	JET	jet	NN	_	5	pobj	_	O
+9	...	..	.	_	1	punct	_	O
+
+1	ENERGY	energy	NN	pos2=NNP	2	compound	_	O
+2	HOG	hog	NN	_	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	TAX	tax	NN	pos2=NNP	4	compound	_	O
+2	WRITE	write	NN	_	4	compound	_	O
+3	-	-	HYPH	pos2=:	4	punct	_	O
+4	OFF	off	NN	pos2=RP	0	root	_	O
+5	AGAIN	again	RB	_	4	advmod	_	O
+6	?	?	.	_	4	punct	_	O
+

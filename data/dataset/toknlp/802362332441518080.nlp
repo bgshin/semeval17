@@ -1,0 +1,29 @@
+1	Agree	agree	VBP	pos2=VB	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	But	but	CC	_	9	cc	_	O
+2	now	now	RB	_	9	advmod	_	O
+3	that	that	IN	pos2=DT	9	mark	_	O
+4	Rs	rs	NNP	pos2=NNPS	9	nsubj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	congress	congress	NN	pos2=NNP	5	pobj	_	O
+7	do	do	VBP	_	9	aux	_	O
+8	n't	not	RB	_	9	neg	_	O
+9	have	have	VB	_	0	root	_	O
+10	Obama	obama	NNP	_	9	dobj	_	U-PERSON
+11	and	and	CC	_	10	cc	_	O
+12	Killary	killary	NNP	_	10	conj	_	U-GPE
+13	what	what	WP	pos2=WDT	15	nsubj	_	O
+14	will	will	MD	_	15	aux	_	O
+15	unite	unite	VB	_	9	conj	_	O
+16	us	us	PRP	_	15	dobj	_	O
+17	?	?	.	_	9	punct	_	O
+
+1	Ryan	ryan	NNP	pos2=JJ	2	nsubj	_	U-PERSON
+2	killing	kill	VBG	pos2=NN	0	root	_	O
+3	Medicare	medicare	NNP	_	2	dobj	_	U-ORG
+4	?	?	.	_	2	punct	_	O
+
+1	@WJNicholsSr	@wjnicholssr	XX	pos2=ADD	2	dep	_	O
+2	@joshtpm	@joshtpm	UH	pos2=NNS	0	root	_	O
+

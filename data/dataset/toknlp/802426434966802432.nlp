@@ -1,0 +1,8 @@
+1	tipp	tipp	NN	pos2=LS	3	compound	_	O
+2	♫	♫	NNP	pos2=NFP	3	compound	_	B-WORK_OF_ART
+3	Talk	talk	NNP	pos2=VB	0	root	_	L-WORK_OF_ART
+4	by	by	IN	_	3	prep	_	O
+5	TIFFANY	tiffany	NNP	pos2=NN	7	nmod	_	O
+6	—	-	HYPH	pos2=:	7	punct	_	O
+7	https://t.co/YVZ5A2ial4	#hlink#	ADD	pos2=NNP	4	pobj	_	O
+

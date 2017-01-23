@@ -1,0 +1,24 @@
+1	@Maryam_Rajavi	@maryam_rajavi	NN	pos2=NNS	2	nsubj	_	O
+2	spends	spend	VBZ	_	15	ccomp	_	O
+3	$	$	$	pos2=``	4	nmod	_	U-CARDINAL
+4	Millions	#crd#	NNS	_	2	dobj	_	U-MONEY
+5	on	on	IN	_	2	prep	_	O
+6	politicians	politician	NNS	_	5	pobj	_	O
+7	like	like	IN	pos2=VBP	6	prep	_	O
+8	#Giuliani	#giuliani	NNP	pos2=NNS	7	pobj	_	U-GPE
+9	,	,	,	_	2	punct	_	O
+10	to	to	TO	_	11	aux	_	O
+11	push	push	VB	_	2	advcl	_	O
+12	#iran	#iran	HYPH	pos2=NNP	11	punct	_	O
+13	war	war	NN	_	11	dobj	_	O
+14	,	,	,	_	15	punct	_	O
+15	makes	make	VBZ	_	0	root	_	O
+16	Kim	kim	NNP	_	18	compound	_	B-PERSON
+17	Jong	jong	NNP	_	18	compound	_	I-PERSON
+18	Un	un	NNP	_	19	nsubj	_	L-PERSON
+19	look	look	VB	pos2=VBP	15	ccomp	_	O
+20	humble	humble	JJ	_	19	acomp	_	O
+21	!	!	.	_	15	punct	_	O
+
+1	https://t.co/sQpap31XUj	#hlink#	ADD	_	0	root	_	U-ORG
+

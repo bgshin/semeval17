@@ -1,0 +1,22 @@
+1	Medical	medical	JJ	_	2	nmod	_	O
+2	marijuana	marijuana	NN	_	3	compound	_	O
+3	stocks	stock	NNS	_	5	dep	_	O
+4	:	:	:	_	5	punct	_	O
+5	Check	check	VB	_	0	root	_	O
+6	this	this	DT	_	7	det	_	O
+7	tip	tip	NN	_	5	dobj	_	O
+8	before	before	IN	_	5	prep	_	O
+9	trading	trade	VBG	pos2=NN	8	pcomp	_	O
+10	or	or	CC	_	9	cc	_	O
+11	investing	invest	VBG	pos2=NN	9	conj	_	O
+12	!	!	.	_	5	punct	_	O
+
+1	/	/	SYM	_	8	punct	_	O
+2	Cannabis	cannabis	NN	pos2=NNP	3	compound	_	O
+3	pot	pot	NN	_	8	dep	_	O
+4	weed	weed	NN	pos2=VB	5	compound	_	O
+5	investment	investment	NN	_	8	dep	_	O
+6	Historical	historical	JJ	pos2=NNP	7	nmod	_	O
+7	…	…	NFP	pos2=-LRB-	8	punct	_	O
+8	https://t.co/IdRjRZp6Ol	#hlink#	ADD	pos2=NN	0	root	_	O
+

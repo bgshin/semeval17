@@ -1,0 +1,16 @@
+1	Welcome	welcome	VBP	pos2=UH	0	root	_	O
+2	to	to	IN	_	1	prep	_	O
+3	Jerusalem	jerusalem	NNP	_	4	compound	_	U-GPE
+4	#salamduajari	#salamduajari	NNP	pos2=XX	2	pobj	_	O
+5	from	from	IN	_	1	prep	_	O
+6	#jerusalem	#jerusalem	NNP	pos2=XX	5	pobj	_	O
+7	#israel	#israel	IN	pos2=NNP	1	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	#city	#city	NN	pos2=NNP	7	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	#peace	#peace	NN	pos2=NNP	10	pobj	_	O
+12	#DW	#dw	NNP	pos2=XX	15	nmod	_	U-PERSON
+13	#picture	#picture	GW	pos2=UH	15	nmod	_	O
+14	…	…	NFP	pos2=GW	15	punct	_	O
+15	https://t.co/mFm0zwBpH9	#hlink#	ADD	_	1	dep	_	O
+

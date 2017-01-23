@@ -1,0 +1,27 @@
+1	Commie	commie	NN	pos2=NNP	5	compound	_	O
+2	#Castro	#castro	NNP	pos2=NN	5	poss	_	U-ORG
+3	's	's	POS	_	2	case	_	O
+4	Vast	vast	NNP	pos2=JJ	5	compound	_	O
+5	Estate	estate	NNP	pos2=NN	6	nsubj	_	O
+6	Estimated	estimate	VBN	pos2=ADD	0	root	_	O
+7	@	@	IN	pos2=SYM	6	prep	_	O
+8	Over	over	IN	_	10	qmod	_	B-MONEY
+9	$	$	$	_	10	qmod	_	I-MONEY
+10	900	0	CD	_	12	nmod	_	I-MONEY
+11	~	~	SYM	pos2=CD	12	punct	_	L-MONEY
+12	Yachts	yacht	NNS	pos2=NNP	7	pobj	_	O
+13	,	,	,	_	12	punct	_	O
+14	20	0	CD	_	15	nmod	_	U-CARDINAL
+15	Mansions	mansion	NNS	pos2=NNPS	12	conj	_	O
+16	,	,	,	_	15	punct	_	O
+17	Swiss	swiss	JJ	pos2=NNP	18	nmod	_	U-NORP
+18	Accounts	accounts	NNP	pos2=NNPS	15	conj	_	O
+19	,	,	,	_	6	punct	_	O
+20	Yet	yet	CC	pos2=NNP	6	cc	_	O
+21	His	his	PRP$	_	22	poss	_	O
+22	Citizens	citizen	NNPS	pos2=NNP	23	nsubj	_	B-ORG
+23	Starved	starved	NNP	pos2=VBD	18	conj	_	L-ORG
+24	.	.	.	_	6	punct	_	O
+
+1	https://t.co/Nrv0WIig6Z	#hlink#	ADD	_	0	root	_	U-ORG
+

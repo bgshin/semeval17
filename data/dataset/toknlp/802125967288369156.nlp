@@ -1,0 +1,23 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	took	take	VBD	_	0	root	_	O
+3	Carter	carter	NNP	_	2	dobj	_	U-PERSON
+4	to	to	TO	_	5	aux	_	O
+5	bring	bring	VB	_	2	xcomp	_	O
+6	us	us	PRP	pos2=NNP	5	dative	_	O
+7	Reagan	reagan	NNP	_	5	dobj	_	U-PERSON
+8	.	.	.	_	2	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	took	take	VBD	_	0	root	_	O
+3	Obama	obama	NNP	_	2	dobj	_	U-PERSON
+4	to	to	TO	_	5	aux	_	O
+5	bring	bring	VB	_	2	xcomp	_	O
+6	us	us	PRP	pos2=NNP	5	dobj	_	O
+7	Trump	trump	NNP	pos2=NN	5	dobj	_	U-ORG
+8	.	.	.	_	2	punct	_	O
+
+1	#thankyouobama#tcot	#thankyouobama#tcot	NNP	pos2=UH	4	nmod	_	U-PERSON
+2	#pjnet	#pjnet	GW	pos2=UH	4	nmod	_	O
+3	#p2	#p0	GW	pos2=-LRB-	4	nmod	_	U-PERSON
+4	https://t.co/BCEK6UXdTP	#hlink#	ADD	pos2=NN	0	root	_	O
+

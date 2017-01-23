@@ -1,0 +1,27 @@
+1	Nobody	nobody	NN	_	4	nsubj	_	O
+2	would	would	MD	_	4	aux	_	O
+3	a	a	DT	_	5	det	_	O
+4	payed	pay	VBN	pos2=JJ	5	nmod	_	O
+5	attention	attention	NN	_	0	root	_	O
+6	to	to	IN	_	5	prep	_	O
+7	Jim	jim	NNP	_	8	compound	_	B-PERSON
+8	Brown	brown	NNP	_	6	pobj	_	L-PERSON
+9	or	or	CC	_	8	cc	_	O
+10	Muhammad	muhammad	NNP	_	11	compound	_	B-PERSON
+11	Ali	ali	NNP	_	8	conj	_	L-PERSON
+12	if	if	IN	_	14	mark	_	O
+13	they	they	PRP	_	14	nsubj	_	O
+14	were	be	VBD	_	9	advcl	_	O
+15	Sub-par	sub-par	JJ	_	14	acomp	_	O
+16	in	in	IN	_	14	prep	_	O
+17	their	their	PRP$	_	19	poss	_	O
+18	sports	sport	NNS	_	19	compound	_	O
+19	careers	career	NNS	_	16	pobj	_	O
+20	...	..	.	pos2=:	19	neg	_	O
+
+1	Sad	sad	JJ	pos2=NNP	0	root	_	O
+2	,	,	,	_	1	punct	_	O
+3	but	but	CC	_	1	cc	_	O
+4	True	true	JJ	pos2=NNP	1	conj	_	O
+5	.	.	.	_	1	punct	_	O
+

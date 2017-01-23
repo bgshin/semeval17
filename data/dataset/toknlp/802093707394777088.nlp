@@ -1,0 +1,28 @@
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	pos2=POS	0	root	_	O
+3	science	science	NN	_	4	compound	_	O
+4	fiction	fiction	NN	_	2	attr	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	Poroshenko	poroshenko	NNP	pos2=FW	5	nsubj	_	U-ORG
+2	can	can	MD	pos2=NN	5	aux	_	O
+3	and	and	CC	_	5	cc	_	O
+4	does	do	VBZ	pos2=VB	5	aux	_	O
+5	give	give	VB	_	0	root	_	O
+6	Ukraine	ukraine	NNP	_	8	poss	_	U-GPE
+7	's	's	POS	_	6	case	_	O
+8	property	property	NN	_	5	dobj	_	O
+9	away	away	RB	_	5	advmod	_	O
+10	,	,	,	_	5	punct	_	O
+11	but	but	CC	_	5	cc	_	O
+12	he	he	PRP	_	15	nsubj	_	O
+13	's	's	VBZ	_	15	aux	_	O
+14	never	never	RB	_	15	neg	_	O
+15	going	go	VBG	_	5	conj	_	O
+16	to	to	TO	_	17	aux	_	O
+17	give	give	VB	_	15	xcomp	_	O
+18	away	away	RP	pos2=RB	17	prt	_	O
+19	any	any	DT	pos2=GW	20	det	_	O
+20	…	…	NFP	pos2=-LRB-	17	dobj	_	O
+21	https://t.co/oqCcy8cyRS	#hlink#	ADD	pos2=NN	17	dobj	_	O
+

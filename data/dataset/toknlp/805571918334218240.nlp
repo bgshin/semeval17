@@ -1,0 +1,30 @@
+1	@Charress	@charress	NNP	pos2=UH	4	vocative	_	O
+2	yeah	yeah	UH	_	4	discourse	_	O
+3	that	that	DT	_	4	nsubj	_	O
+4	was	be	VBD	_	0	root	_	O
+5	interesting	interesting	JJ	_	4	acomp	_	O
+6	in	in	IN	_	5	prep	_	O
+7	Austria	austria	NNP	_	6	pobj	_	U-GPE
+8	.	.	.	_	4	punct	_	O
+
+1	But	but	CC	_	4	cc	_	O
+2	does	do	VBZ	_	4	aux	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	have	have	VB	_	0	root	_	O
+5	much	much	JJ	_	6	nmod	_	O
+6	influence	influence	NN	_	4	dobj	_	O
+7	on	on	IN	_	6	prep	_	O
+8	Italy	italy	NNP	_	7	pobj	_	U-GPE
+9	elxn	elxn	IN	pos2=NNP	6	prep	_	O
+10	/	/	SYM	pos2=,	11	punct	_	O
+11	potential	potential	NN	pos2=JJ	9	pobj	_	O
+12	for	for	IN	_	17	mark	_	O
+13	Marine	marine	NNP	pos2=JJ	14	compound	_	U-ORG
+14	le	le	NN	pos2=NNP	15	compound	_	O
+15	Pen	pen	NNP	_	17	nsubj	_	O
+16	to	to	TO	pos2=IN	17	aux	_	O
+17	win	win	VB	_	11	advcl	_	O
+18	in	in	IN	_	17	prep	_	O
+19	France	france	NNP	_	18	pobj	_	U-GPE
+20	?	?	.	_	4	punct	_	O
+

@@ -1,0 +1,30 @@
+1	Forever	forever	RB	pos2=JJ	3	nmod	_	O
+2	galaxy	galaxy	NN	_	3	compound	_	O
+3	note	note	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Not	not	RB	_	2	neg	_	O
+2	7	0	CD	_	6	qmod	_	U-DATE
+3	,	,	,	_	4	punct	_	O
+4	made	make	VBD	pos2=VBN	0	root	_	O
+5	not	not	RB	_	6	neg	_	O
+6	8	0	CD	_	4	punct	_	U-CARDINAL
+7	either	either	RB	pos2=NNS	4	advmod	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	But	but	CC	_	2	cc	_	O
+2	5	0	CD	_	0	root	_	U-CARDINAL
+3	....	..	.	pos2=,	2	punct	_	O
+
+1	well	well	RB	_	2	advmod	_	O
+2	done	do	VBN	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Jus	jus	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	need	need	VBP	pos2=VB	0	root	_	O
+3	more	more	JJR	_	4	nmod	_	O
+4	perks	perk	NNS	_	2	dobj	_	O
+5	like	like	IN	pos2=UH	7	mark	_	O
+6	iPhone	iphone	NNP	_	7	nsubj	_	U-PRODUCT
+7	does	do	VBZ	_	4	advcl	_	O
+

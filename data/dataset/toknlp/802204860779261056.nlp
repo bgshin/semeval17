@@ -1,0 +1,14 @@
+1	Just	just	RB	_	3	advmod	_	O
+2	a	a	DT	_	3	det	_	O
+3	standard	standard	NN	pos2=JJ	0	root	_	O
+4	Friday	friday	NNP	_	3	npadvmod	_	U-DATE
+5	at	at	IN	_	3	prep	_	O
+6	Wisewood	wisewood	NNP	_	5	pobj	_	U-ORG
+7	!	!	.	_	3	punct	_	O
+
+1	@PfPLeisure	@pfpleisure	UH	pos2=NN	5	discourse	_	O
+2	@bencompai	@bencompai	UH	pos2=FW	5	discourse	_	O
+3	#mannequinchallenge	#mannequinchallenge	UH	pos2=GW	5	discourse	_	O
+4	#activewisewood	#activewisewood	UH	pos2=ADD	5	discourse	_	O
+5	https://t.co/0Rwzdy0ItM	#hlink#	ADD	pos2=UH	0	root	_	O
+

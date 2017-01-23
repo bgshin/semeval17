@@ -1,0 +1,20 @@
+1	The	the	DT	_	3	det	_	O
+2	popular	popular	JJ	_	3	nmod	_	O
+3	vote	vote	NN	_	6	nsubj	_	O
+4	has	have	VBZ	_	6	aux	_	O
+5	never	never	RB	_	6	neg	_	O
+6	mattered	matter	VBN	pos2=VBD	0	root	_	O
+7	it	it	PRP	_	8	nsubj	_	O
+8	's	's	VBZ	_	6	ccomp	_	O
+9	a	a	DT	_	10	det	_	O
+10	lie	lie	NN	_	8	attr	_	O
+11	.	.	.	_	6	punct	_	O
+
+1	Look	look	VB	_	0	root	_	O
+2	at	at	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	election	election	NN	_	2	pobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	1824	0	CD	_	5	pobj	_	O
+7	https://t.co/yqdNQkFCQW	#hlink#	ADD	_	1	dep	_	O
+

@@ -1,0 +1,24 @@
+1	@kurt_nimmo	@kurt_nimmo	DT	pos2=PRP$	4	det	_	O
+2	elite	elite	JJ	pos2=NN	4	nmod	_	O
+3	fed	feed	VBN	pos2=JJ	4	nmod	_	O
+4	reserve	reserve	NN	_	7	nsubj	_	O
+5	just	just	RB	_	7	advmod	_	O
+6	does	do	VBZ	_	7	aux	_	O
+7	want	want	VB	pos2=VBP	0	root	_	O
+8	they	they	PRP	_	9	nsubj	_	O
+9	want	want	VBP	pos2=VB	7	ccomp	_	O
+10	print	print	NN	pos2=VB	11	compound	_	O
+11	money	money	NN	_	9	dobj	_	O
+12	out	out	IN	_	9	prep	_	O
+13	of	of	IN	_	12	prep	_	O
+14	thin	thin	JJ	_	15	nmod	_	O
+15	air	air	NN	_	13	pobj	_	O
+16	no	no	DT	pos2=UH	18	det	_	O
+17	gold	gold	NN	pos2=JJ	18	compound	_	O
+18	standard	standard	NN	pos2=JJ	21	nsubj	_	O
+19	at	at	RB	pos2=IN	20	advmod	_	O
+20	all	all	RB	pos2=DT	21	advmod	_	O
+21	want	want	VBP	pos2=VB	0	root	_	O
+22	cashless	cashless	JJ	_	23	nmod	_	O
+23	society	society	NN	_	21	dobj	_	O
+

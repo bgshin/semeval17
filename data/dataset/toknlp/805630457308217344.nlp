@@ -1,0 +1,10 @@
+1	@SaraUnderwood	@saraunderwood	NN	pos2=XX	0	root	_	O
+2	@NewYorker	@newyorker	CC	pos2=NN	1	cc	_	O
+3	@USATODAY	@usatoday	NN	pos2=NNP	1	conj	_	O
+4	or	or	CC	_	3	cc	_	O
+5	this	this	DT	_	6	det	_	O
+6	one	#crd#	NN	pos2=CD	3	conj	_	O
+7	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/bHC4Gb95Fs	#hlink#	ADD	_	0	root	_	U-ORG
+

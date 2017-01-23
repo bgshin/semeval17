@@ -1,0 +1,12 @@
+1	@merrittk	@merrittk	UH	pos2=PRP	4	discourse	_	O
+2	are	be	VBP	_	4	aux	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	hoping	hope	VBG	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	a	a	DT	_	9	det	_	O
+7	Marine	marine	NNP	pos2=JJ	9	compound	_	B-ORG
+8	Le	le	NNP	_	9	compound	_	I-ORG
+9	Pen	pen	NNP	_	5	pobj	_	L-ORG
+10	win	win	VB	pos2=NN	4	advcl	_	O
+11	?	?	.	_	4	punct	_	O
+

@@ -1,0 +1,17 @@
+1	@mitchellichtman	@mitchellichtman	UH	pos2=MD	2	discourse	_	O
+2	Let	let	VB	_	0	root	_	O
+3	's	's	PRP	_	4	nsubj	_	O
+4	say	say	VB	_	2	ccomp	_	O
+5	that	that	IN	pos2=DT	9	mark	_	O
+6	by	by	IN	pos2=RB	9	prep	_	O
+7	evaluate	evaluate	VB	pos2=NN	6	pobj	_	O
+8	I	I	PRP	_	9	nsubj	_	O
+9	mean	mean	VBP	_	4	ccomp	_	O
+10	saying	say	VBG	_	9	xcomp	_	O
+11	who	who	WP	_	12	nsubj	_	O
+12	deserves	deserve	VBZ	_	10	ccomp	_	O
+13	a	a	DT	_	16	det	_	O
+14	Cy	cy	NNP	_	15	compound	_	O
+15	Young	young	NNP	_	16	compound	_	O
+16	Award	award	NNP	pos2=NN	12	dobj	_	O
+

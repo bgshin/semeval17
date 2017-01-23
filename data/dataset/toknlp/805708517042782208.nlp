@@ -1,0 +1,9 @@
+1	Embargo	embargo	NNP	pos2=NN	5	nsubj	_	U-ORG
+2	,	,	,	_	5	punct	_	O
+3	keeping	keep	VBG	_	0	root	_	O
+4	honey	honey	NN	_	3	dobj	_	O
+5	clean	clean	JJ	pos2=VB	3	oprd	_	O
+6	since	since	IN	_	3	prep	_	O
+7	1991	0	CD	_	6	pobj	_	B-DATE
+8	https://t.co/I6zcesCLdj	#hlink#	ADD	pos2=NNS	3	dobj	_	L-DATE
+

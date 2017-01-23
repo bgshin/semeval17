@@ -1,0 +1,16 @@
+1	@CorleoneWilbur	@corleonewilbur	NN	pos2=NNS	4	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	rightists	rightist	NNS	_	1	conj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	incapable	incapable	JJ	_	4	acomp	_	O
+6	of	of	IN	_	5	prep	_	O
+7	learning	learning	NN	pos2=VBG	6	pobj	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	Feeling	feeling	NN	pos2=VBG	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Or	or	CC	_	2	cc	_	O
+2	compassion	compassion	NN	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+

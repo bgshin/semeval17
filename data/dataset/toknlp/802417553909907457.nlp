@@ -1,0 +1,25 @@
+1	@TheRickWilson	@therickwilson	ADD	pos2=XX	4	det	_	O
+2	@puppymnkey	@puppymnkey	UH	pos2=XX	6	discourse	_	O
+3	@JRGzzTX	@jrgzztx	ADD	pos2=UH	0	root	_	O
+4	@Slate	@slate	NNP	pos2=ADD	3	pobj	_	O
+5	They	they	PRP	_	6	nsubj	_	O
+6	started	start	VBD	_	3	root	_	O
+7	their	their	PRP$	_	10	poss	_	O
+8	own	own	JJ	_	10	nmod	_	O
+9	racist	racist	JJ	pos2=NN	10	nmod	_	O
+10	Twitter	twitter	NNP	_	6	dobj	_	U-ORG
+11	.	.	.	_	6	punct	_	O
+
+1	In	in	IN	pos2=NNP	0	root	_	O
+2	league	league	NN	_	1	pobj	_	O
+3	with	with	IN	_	2	prep	_	O
+4	Steve	steve	NNP	_	5	compound	_	B-PERSON
+5	Bannon	bannon	NNP	_	3	pobj	_	L-PERSON
+6	and	and	CC	_	5	cc	_	O
+7	Breitbart	breitbart	NNP	_	5	conj	_	U-PERSON
+8	.	.	.	_	1	punct	_	O
+
+1	Follow	follow	VB	_	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	$$	$$	NN	pos2=.	1	dobj	_	U-CARDINAL
+

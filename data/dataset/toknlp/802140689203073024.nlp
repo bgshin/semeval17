@@ -1,0 +1,13 @@
+1	ca	can	MD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	wait	wait	VB	_	0	root	_	O
+4	until	until	IN	_	6	mark	_	O
+5	melania	melania	NN	_	6	nsubj	_	O
+6	comes	come	VBZ	_	3	advcl	_	O
+7	out	out	RP	pos2=RB	6	prt	_	O
+8	with	with	IN	_	6	prep	_	O
+9	this	this	DT	_	10	det	_	O
+10	speech	speech	NN	_	8	pobj	_	O
+11	😍😍😍	😍😍😍	,	pos2=NFP	12	punct	_	O
+12	https://t.co/QKX4hHsnRy	#hlink#	ADD	pos2=NN	9	appos	_	O
+

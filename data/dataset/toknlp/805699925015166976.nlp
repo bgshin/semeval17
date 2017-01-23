@@ -1,0 +1,20 @@
+1	Should	should	MD	_	7	aux	_	O
+2	people	people	NNS	_	7	nsubjpass	_	O
+3	with	with	IN	_	2	prep	_	O
+4	anti-abortion	anti-abortion	JJ	_	5	nmod	_	O
+5	views	view	NNS	_	3	pobj	_	O
+6	be	be	VB	pos2=VBP	7	auxpass	_	O
+7	allowed	allow	VBN	_	0	root	_	O
+8	to	to	TO	_	9	aux	_	O
+9	participate	participate	VB	_	7	xcomp	_	O
+10	in	in	IN	_	9	prep	_	O
+11	the	the	DT	_	16	det	_	O
+12	Northern	northern	NNP	_	13	compound	_	B-EVENT
+13	Ireland	ireland	NNP	_	16	compound	_	I-EVENT
+14	Human	human	NNP	_	15	compound	_	I-EVENT
+15	Rights	right	NNPS	_	16	compound	_	I-EVENT
+16	Festival	festival	NNP	_	10	pobj	_	L-EVENT
+17	?	?	.	_	7	punct	_	O
+
+1	https://t.co/cnE1TycuYw	#hlink#	ADD	_	0	root	_	U-ORG
+

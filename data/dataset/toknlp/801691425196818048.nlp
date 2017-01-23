@@ -1,0 +1,14 @@
+1	Fine	fine	JJ	pos2=UH	4	nmod	_	O
+2	,	,	,	_	4	punct	_	O
+3	FINE	fine	JJ	_	4	nmod	_	O
+4	edge	edge	NN	_	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+
+1	Ca	can	MD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	blame	blame	VB	_	0	root	_	O
+4	Verlander	verlander	NNP	_	3	dobj	_	U-ORG
+5	for	for	IN	_	3	prep	_	O
+6	challenging	challenge	VBG	pos2=JJ	5	pcomp	_	O
+7	#ausvrsa	#ausvrsa	NN	pos2=.	6	dobj	_	O
+

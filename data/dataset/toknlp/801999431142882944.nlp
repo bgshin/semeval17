@@ -1,0 +1,15 @@
+1	I	I	PRP	_	5	nsubj	_	O
+2	would	would	MD	_	0	root	_	O
+3	of	of	IN	pos2=VB	2	prep	_	O
+4	never	never	RB	_	5	neg	_	O
+5	known	know	VBN	pos2=CC	14	nmod	_	O
+6	he	he	PRP	_	7	nsubj	_	O
+7	was	be	VBD	_	3	pcomp	_	O
+8	the	the	DT	_	9	det	_	O
+9	baby	baby	NN	_	7	attr	_	O
+10	in	in	IN	_	7	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	belly	belly	NN	_	10	pobj	_	O
+13	either	either	CC	pos2=RB	14	preconj	_	O
+14	#ScreamQueens	#screamqueens	NNS	pos2=ADD	3	pobj	_	O
+

@@ -1,0 +1,16 @@
+1	Happened	happened	VBD	pos2=VBN	0	root	_	O
+2	upon	upon	IN	_	1	prep	_	O
+3	#LoveAndHappiness	#loveandhappiness	ADD	pos2=XX	4	det	_	O
+4	#AnObamaCelebration	#anobamacelebration	NN	pos2=ADD	2	pobj	_	O
+5	on	on	IN	_	1	prep	_	O
+6	@BET	@bet	NN	pos2=NNP	7	compound	_	U-DATE
+7	#ThankYouObama	#thankyouobama	NN	pos2=NNP	5	pobj	_	O
+8	...	..	.	pos2=,	1	punct	_	O
+
+1	#Seriously	#seriously	RB	pos2=NNP	2	advmod	_	O
+2	#YouWillBeMissed	#youwillbemissed	VBD	pos2=VBN	0	root	_	O
+3	#BlessYou	#blessyou	ADD	pos2=XX	6	punct	_	B-ORG
+4	#Love	#love	NNP	pos2=IN	6	compound	_	I-ORG
+5	#Classy	#classy	NNP	pos2=XX	6	compound	_	I-ORG
+6	#Honor	#honor	NNP	pos2=ADD	2	dobj	_	L-ORG
+

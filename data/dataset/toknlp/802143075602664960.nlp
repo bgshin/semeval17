@@ -1,0 +1,14 @@
+1	#Kate_UptonKate	#kate_uptonkate	NNP	pos2=ADD	2	compound	_	B-PERSON
+2	Upton	upton	NNP	_	5	nsubjpass	_	L-PERSON
+3	is	be	VBZ	_	5	auxpass	_	O
+4	not	not	RB	_	5	neg	_	O
+5	done	do	VBN	_	0	root	_	O
+6	criticizing	criticize	VBG	_	5	advcl	_	O
+7	the	the	DT	_	11	det	_	B-WORK_OF_ART
+8	Cy	cy	NNP	pos2=NN	9	compound	_	I-WORK_OF_ART
+9	Young	young	NNP	pos2=JJ	13	dep	_	L-WORK_OF_ART
+10	voting	voting	NN	pos2=VBG	13	nmod	_	O
+11	pro	pro	GW	pos2=JJ	13	nmod	_	O
+12	cesshttps://t.co/S1rPt4Zw8N	#hlink#	ADD	pos2=GW	13	nmod	_	O
+13	https://t.co/Lj5Q0nj4HG	#hlink#	ADD	_	6	dobj	_	U-ORG
+

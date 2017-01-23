@@ -1,0 +1,18 @@
+1	📷	📷	NN	pos2=SYM	2	compound	_	O
+2	dailyartspace	dailyartspace	NN	pos2=NNS	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	Happy	happy	JJ	_	5	nmod	_	O
+5	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=IN	0	root	_	O
+6	‘	'	``	pos2=POS	5	punct	_	O
+7	Cheese	cheese	NN	pos2=NNP	8	compound	_	O
+8	Slice	slice	NNP	pos2=NN	5	appos	_	O
+9	on	on	IN	_	8	prep	_	O
+10	garland	garland	NNP	pos2=NN	9	pobj	_	O
+11	’	'	''	pos2=POS	5	punct	_	O
+12	by	by	IN	_	5	prep	_	O
+13	Eric	eric	NNP	_	14	compound	_	B-PERSON
+14	Yahnker	yahnker	NNP	_	12	pobj	_	L-PERSON
+15	...	..	.	pos2=,	5	punct	_	O
+
+1	https://t.co/QYLrksRvcd	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,27 @@
+1	Michael	michael	NNP	_	2	compound	_	B-PERSON
+2	Moore	moore	NNP	_	3	nsubj	_	L-PERSON
+3	exposes	expose	VBZ	_	8	ccomp	_	O
+4	he	he	PRP	_	5	nsubj	_	O
+5	's	's	VBZ	pos2=POS	3	ccomp	_	O
+6	racist	racist	JJ	pos2=VBN	5	acomp	_	O
+7	,	,	,	_	8	punct	_	O
+8	says	say	VBZ	_	0	root	_	O
+9	"	"	``	_	8	punct	_	O
+10	A	a	DT	_	12	det	_	O
+11	white	white	JJ	_	12	nmod	_	O
+12	man	man	NN	_	22	nsubj	_	O
+13	over	over	IN	_	12	prep	_	O
+14	35	0	CD	_	13	pobj	_	U-DATE
+15	,	,	,	_	12	punct	_	O
+16	who	who	WP	_	17	nsubj	_	O
+17	represents	represent	VBZ	_	12	relcl	_	O
+18	a	a	DT	_	19	det	_	O
+19	minority	minority	NN	_	17	dobj	_	O
+20	,	,	,	_	22	punct	_	O
+21	now	now	RB	_	22	advmod	_	O
+22	leads	lead	VBZ	_	8	ccomp	_	O
+23	the	the	DT	_	24	det	_	O
+24	country	country	NN	_	22	dobj	_	O
+25	"	"	``	pos2=''	26	punct	_	O
+26	https://t.co/LlcjU5NTni	#hlink#	ADD	_	24	appos	_	O
+

@@ -1,0 +1,18 @@
+1	I	I	PRP	_	5	nsubj	_	O
+2	really	really	RB	_	5	advmod	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	care	care	VB	_	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	Final	final	JJ	pos2=NN	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	on	on	IN	_	2	prep	_	O
+4	Tuesday	tuesday	NNP	_	3	pobj	_	U-DATE
+5	and	and	CC	_	2	cc	_	O
+6	I	I	PRP	_	8	nsubj	_	O
+7	'm	be	VBP	_	8	aux	_	O
+8	watching	watch	VBG	_	2	conj	_	O
+9	westworld	westworld	NN	pos2=NNP	8	dobj	_	O
+10	oops	oops	UH	_	8	discourse	_	O
+

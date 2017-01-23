@@ -1,0 +1,13 @@
+1	1.	0.	LS	_	2	meta	_	U-CARDINAL
+2	Kirk2	kirk0	NN	pos2=NNS	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Luke3	luke0	LS	pos2=NN	0	root	_	U-CARDINAL
+2	.	.	.	_	1	punct	_	O
+
+1	Paris4	paris0	LS	pos2=NN	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Mrs.	mrs.	NNP	pos2=NNS	2	compound	_	O
+2	Kim#GilmoreGirlsTop4	kim#gilmoregirlstop0	NNP	pos2=NN	0	root	_	U-PERSON
+

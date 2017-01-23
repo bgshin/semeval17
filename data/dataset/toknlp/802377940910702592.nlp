@@ -1,0 +1,20 @@
+1	@DrJillStein	@drjillstein	NN	pos2=ADD	2	compound	_	O
+2	@WI_Elections	@wi_elections	NNS	pos2=ADD	7	expl	_	O
+3	deplorables	deplorables	VBZ	pos2=IN	0	root	_	O
+4	Jill	jill	NNP	_	5	compound	_	B-PERSON
+5	stein	stein	NNP	pos2=NN	8	nsubj	_	L-PERSON
+6	has	have	VBZ	_	8	aux	_	O
+7	been	be	VBN	_	8	aux	_	O
+8	getting	get	VBG	_	3	ccomp	_	O
+9	money	money	NN	_	10	compound	_	O
+10	deposits	deposit	NNS	_	8	dobj	_	O
+11	by	by	IN	_	8	prep	_	O
+12	Sorros	sorros	NNP	pos2=NNPS	11	pobj	_	U-PERSON
+13	at	at	IN	_	8	prep	_	O
+14	4	0	CD	_	15	nmod	_	B-TIME
+15	am	am	NN	pos2=VBP	13	pobj	_	L-TIME
+16	daily	daily	RB	pos2=JJ	15	advmod	_	U-DATE
+17	to	to	TO	_	18	aux	_	O
+18	steal	steal	VB	_	8	advcl	_	O
+19	election	election	NN	_	18	dobj	_	O
+

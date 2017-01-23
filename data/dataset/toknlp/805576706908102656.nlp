@@ -1,0 +1,15 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	think	think	VBP	_	0	root	_	O
+3	sometimes	sometimes	RB	_	2	advmod	_	O
+4	the	the	DT	_	6	det	_	O
+5	best	good	JJS	_	6	nmod	_	O
+6	training	training	NN	_	7	nsubj	_	O
+7	is	be	VBZ	_	2	ccomp	_	O
+8	to	to	TO	_	9	aux	_	O
+9	rest	rest	VB	_	7	xcomp	_	O
+10	....	..	.	pos2=,	2	punct	_	O
+
+1	#CristianoRonaldo	#cristianoronaldo	GW	pos2=XX	3	nmod	_	O
+2	#quote	#quote	UH	pos2=GW	3	nmod	_	O
+3	https://t.co/ZU4ylWNty8	#hlink#	ADD	pos2=NN	0	root	_	O
+

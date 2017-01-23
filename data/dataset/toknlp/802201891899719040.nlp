@@ -1,0 +1,31 @@
+1	BLACK	black	JJ	pos2=NNP	4	nmod	_	O
+2	AND	and	CC	_	1	cc	_	O
+3	BLUE	blue	JJ	_	1	conj	_	O
+4	FRIDAY	friday	NNP	_	6	nsubj	_	U-DATE
+5	IS	be	VBZ	_	6	aux	_	O
+6	TAKING	take	VBG	_	0	root	_	O
+7	A	a	DT	pos2=NN	8	det	_	O
+8	BEATING	beating	NN	pos2=VBG	6	dobj	_	O
+9	WITH	with	IN	_	8	prep	_	O
+10	THE	the	DT	_	12	det	_	O
+11	BEST	good	JJS	_	12	nmod	_	O
+12	GIFT	gift	NN	_	9	pobj	_	O
+13	EVER	ever	RB	_	12	advmod	_	O
+14	!	!	.	_	6	punct	_	O
+
+1	On	on	IN	_	0	root	_	O
+2	sale	sale	NN	_	1	pobj	_	O
+3	NOW	now	RB	_	1	advmod	_	O
+4	!	!	.	_	1	punct	_	O
+
+1	"	"	``	_	3	punct	_	O
+2	Twisted	twist	VBN	pos2=NNP	3	nmod	_	O
+3	Valentines	valentines	NNP	pos2=NNS	5	nmod	_	O
+4	"	"	''	pos2=SYM	3	punct	_	O
+5	Feb	feb	NNP	_	10	dep	_	B-DATE
+6	8	0	CD	pos2=NNP	5	npadvmod	_	L-DATE
+7	&	&	CC	_	6	cc	_	O
+8	9.	0.	CD	pos2=LS	6	conj	_	U-CARDINAL
+9	…	…	NFP	pos2=-LRB-	10	punct	_	O
+10	https://t.co/w3f3WMTrxV	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,9 @@
+1	david	david	NNP	pos2=FW	2	compound	_	B-PERSON
+2	blaine	blaine	NNP	pos2=NN	3	nsubj	_	L-PERSON
+3	has	have	VBZ	_	0	root	_	O
+4	my	my	PRP$	_	5	poss	_	O
+5	mind	mind	NN	_	3	dobj	_	O
+6	in	in	IN	_	3	prep	_	O
+7	a	a	DT	_	8	det	_	O
+8	pretzel	pretzel	NN	_	6	pobj	_	O
+

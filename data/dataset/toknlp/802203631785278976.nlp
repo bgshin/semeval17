@@ -1,0 +1,29 @@
+1	Hey	hey	UH	_	4	discourse	_	O
+2	@politico	@politico	UH	pos2=IN	4	discourse	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	need	need	VBP	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	drop	drop	VB	_	4	xcomp	_	O
+7	that	that	DT	pos2=IN	10	det	_	O
+8	alt	alt	JJ	pos2=NN	10	advmod	_	O
+9	-	-	HYPH	_	10	punct	_	O
+10	right	right	JJ	pos2=NN	6	dobj	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	Call	call	VB	_	0	root	_	O
+2	them	them	PRP	_	1	dobj	_	O
+3	what	what	WP	_	5	attr	_	O
+4	they	they	PRP	_	5	nsubj	_	O
+5	are	be	VBP	_	1	ccomp	_	O
+6	KKK	kkk	NNP	pos2=JJ	16	nmod	_	U-NORP
+7	or	or	CC	_	6	cc	_	O
+8	white	white	JJ	_	9	nmod	_	O
+9	supremacists	supremacist	NNS	_	6	conj	_	O
+10	or	or	CC	_	9	cc	_	O
+11	nazis	nazi	NNS	pos2=NN	9	conj	_	O
+12	,	,	,	_	1	punct	_	O
+13	NOT	not	RB	_	16	neg	_	O
+14	giv	giv	GW	pos2=RB	16	nmod	_	O
+15	…	…	GW	pos2=NFP	16	nmod	_	O
+16	https://t.co/x4bfJMPHV7	#hlink#	ADD	pos2=NN	1	dep	_	O
+

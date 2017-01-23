@@ -1,0 +1,17 @@
+1	U	u	PRP	pos2=NNP	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	help	help	VB	_	0	root	_	O
+4	support	support	VB	pos2=NN	3	xcomp	_	O
+5	#Recount	#recount	ADD	pos2=WP	4	dobj	_	B-ORG
+6	https://t.co/RjS6FrLZud	#hlink#	ADD	pos2=NN	4	dobj	_	I-ORG
+7	#NotMyPresident	#notmypresident	ADD	pos2=-RRB-	4	dobj	_	I-ORG
+8	#LatinosForHillary	#latinosforhillary	ADD	pos2=JJ	16	det	_	I-ORG
+9	#Resist	#resist	NNP	pos2=IN	16	nmod	_	L-ORG
+10	Filing	file	VBG	pos2=NNP	7	acl	_	O
+11	2day	0day	NNP	pos2=NN	10	dobj	_	O
+12	,	,	,	_	11	punct	_	O
+13	2morrow	0morrow	NN	pos2=NNP	11	appos	_	O
+14	&	&	CC	_	13	cc	_	O
+15	Wed.	wed.	NNP	pos2=JJ	13	conj	_	O
+16	#StillWithHer	#stillwithher	NN	pos2=ADD	7	pobj	_	O
+

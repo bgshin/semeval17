@@ -1,0 +1,18 @@
+1	@HillaryClinton	@hillaryclinton	NNP	pos2=ADD	2	nsubj	_	O
+2	Thankful	thankful	JJ	pos2=NNP	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	you	you	PRP	_	3	pobj	_	O
+5	and	and	CC	_	4	cc	_	O
+6	the	the	DT	_	8	det	_	O
+7	wonderful	wonderful	JJ	_	8	nmod	_	O
+8	humans	human	NNS	_	4	conj	_	O
+9	in	in	IN	_	2	prep	_	O
+10	the	the	DT	_	14	det	_	B-ORG
+11	Pantsuit	pantsuit	NNP	pos2=NN	13	compound	_	I-ORG
+12	Nation	nation	NNP	pos2=NN	13	compound	_	I-ORG
+13	FB	fb	NNP	pos2=NN	14	compound	_	L-ORG
+14	group	group	NN	_	9	pobj	_	O
+15	<	<	SYM	pos2=-RRB-	16	punct	_	O
+16	3	0	CD	_	17	nmod	_	U-CARDINAL
+17	#StillWithHer	#stillwithher	NN	pos2=NNS	14	appos	_	O
+

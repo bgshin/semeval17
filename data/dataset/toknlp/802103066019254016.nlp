@@ -1,0 +1,14 @@
+1	Wait	wait	VB	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	So	so	RB	_	6	advmod	_	O
+2	how	how	WRB	_	3	advmod	_	O
+3	many	many	JJ	_	5	nmod	_	O
+4	green	green	JJ	_	5	nmod	_	O
+5	meanies	meany	NNS	_	6	attr	_	O
+6	are	be	VBP	_	0	root	_	O
+7	there	there	EX	pos2=RB	6	expl	_	O
+8	????	??	.	_	6	punct	_	O
+
+1	#ScreamQueens	#screamqueens	NNS	pos2=ADD	0	root	_	U-DATE
+

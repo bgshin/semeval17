@@ -1,0 +1,28 @@
+1	@AliGirardi	@aligirardi	NNS	pos2=ADD	10	nsubj	_	O
+2	@delyju	@delyju	UH	pos2=FW	1	discourse	_	O
+3	@CTMirror	@ctmirror	IN	pos2=GW	1	prep	_	O
+4	A	a	DT	_	8	det	_	O
+5	decent	decent	JJ	_	8	nmod	_	O
+6	voter	voter	NN	_	8	compound	_	O
+7	registration	registration	NN	_	8	compound	_	O
+8	card	card	NN	_	3	pobj	_	O
+9	should	should	MD	_	10	aux	_	O
+10	do	do	VB	_	0	root	_	O
+11	it	it	PRP	_	10	dobj	_	O
+12	.	.	.	_	10	punct	_	O
+
+1	With	with	IN	_	0	root	_	O
+2	a	a	DT	_	3	det	_	O
+3	photo	photo	NN	_	1	pobj	_	O
+4	,	,	,	_	3	punct	_	O
+5	and	and	CC	_	3	cc	_	O
+6	social	social	JJ	_	7	nmod	_	O
+7	security	security	NN	_	8	compound	_	O
+8	#	#	NN	_	3	conj	_	O
+9	as	as	IN	_	3	prep	_	O
+10	a	a	DT	_	13	det	_	O
+11	back	back	NN	pos2=RB	13	compound	_	O
+12	-	-	HYPH	_	13	punct	_	O
+13	up	up	NN	_	9	pobj	_	O
+14	.	.	.	_	11	punct	_	O
+

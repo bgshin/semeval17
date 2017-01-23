@@ -1,0 +1,20 @@
+1	YES	yes	UH	_	3	discourse	_	O
+2	he	he	PRP	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	serious	serious	JJ	_	5	nmod	_	O
+5	@michaeldean0116BRAlNDEAD	@michaeldean0bralndead	NN	pos2=JJ	19	nmod	_	O
+6	FALSE	false	JJ	_	7	nmod	_	O
+7	FLAG	flag	NN	_	8	compound	_	O
+8	u.s.a.	u.s.a.	NNP	pos2=CC	12	compound	_	O
+9	#usaFRACKING	#usafracking	VBG	pos2=:	5	acl	_	O
+10	FAKE	fake	JJ	pos2=NN	13	nmod	_	O
+11	FAGG0T	fagg0t	NNP	pos2=NN	12	compound	_	O
+12	FED	fed	NNP	pos2=VBN	13	compound	_	U-ORG
+13	#PlGS	#plgs	NNS	pos2=NNP	9	dobj	_	O
+14	"	"	``	_	15	punct	_	O
+15	EXPOSE	expose	VB	pos2=VBP	3	xcomp	_	O
+16	THE	the	DT	pos2=PRP	17	det	_	O
+17	LIE	lie	NN	_	15	dobj	_	O
+18	"	"	''	pos2=``	15	punct	_	O
+19	@BizzyBlazinBudz#JESUS	@bizzyblazinbudz#jesus	ADD	pos2=NN	3	acomp	_	O
+

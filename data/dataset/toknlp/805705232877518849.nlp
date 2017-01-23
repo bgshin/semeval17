@@ -1,0 +1,18 @@
+1	@SkyNews	@skynews	NNS	pos2=VBZ	3	nsubj	_	O
+2	@SkyMurnaghan	@skymurnaghan	RBR	pos2=VBD	3	advmod	_	O
+3	Depressing	depress	VBG	pos2=JJ	0	root	_	O
+4	how	how	WRB	_	5	advmod	_	O
+5	many	many	JJ	_	6	nmod	_	O
+6	people	people	NNS	_	7	nsubj	_	O
+7	deluded	delude	VBD	pos2=JJ	3	ccomp	_	O
+8	that	that	IN	pos2=WDT	12	mark	_	O
+9	Supreme	supreme	NNP	_	10	compound	_	B-ORG
+10	Court	court	NNP	_	12	nsubj	_	L-ORG
+11	are	be	VBP	_	12	aux	_	O
+12	deciding	decide	VBG	_	7	ccomp	_	O
+13	whether	whether	IN	_	17	mark	_	O
+14	Brexit	brexit	NNP	pos2=DT	15	compound	_	U-ORG
+15	referendum	referendum	NN	_	17	nsubjpass	_	O
+16	is	be	VBZ	_	17	auxpass	_	O
+17	overturned	overturn	VBN	pos2=JJ	12	ccomp	_	O
+

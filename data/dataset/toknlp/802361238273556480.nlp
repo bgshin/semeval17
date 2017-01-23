@@ -1,0 +1,9 @@
+1	High	high	JJ	pos2=NNP	2	nmod	_	O
+2	School	school	NNP	pos2=NN	4	compound	_	O
+3	graduation	graduation	NN	_	4	compound	_	O
+4	rates	rate	NNS	_	5	nsubj	_	O
+5	are	be	VBP	_	0	root	_	O
+6	steadily	steadily	RB	_	5	advmod	_	O
+7	increasing.#ThankYouObama	increasing.#thankyouobama	GW	pos2=ADD	8	nmod	_	B-NORP
+8	https://t.co/GIT8tYVhbb	#hlink#	ADD	pos2=NN	5	dep	_	L-NORP
+

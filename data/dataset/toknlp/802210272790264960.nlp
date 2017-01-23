@@ -1,0 +1,15 @@
+1	When	when	WRB	_	6	advmod	_	O
+2	you	you	PRP	_	6	nsubj	_	O
+3	and	and	CC	pos2=VBP	2	cc	_	O
+4	your	your	PRP$	_	5	poss	_	O
+5	girls	girl	NNS	_	2	conj	_	O
+6	get	get	VBP	pos2=VB	0	root	_	O
+7	those	those	DT	_	9	det	_	O
+8	#BlackFriday	#blackfriday	VBN	pos2=NN	9	nmod	_	O
+9	deals	deal	NNS	_	6	dobj	_	O
+10	...	..	.	pos2=,	6	punct	_	O
+
+1	💁	💁	NFP	pos2=GW	3	punct	_	O
+2	#ScreamQueens	#screamqueens	GW	pos2=ADD	3	nmod	_	U-PERSON
+3	https://t.co/esTobio1qg	#hlink#	ADD	pos2=NN	0	root	_	O
+

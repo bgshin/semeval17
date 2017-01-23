@@ -1,0 +1,20 @@
+1	Kate	kate	NNP	_	2	compound	_	B-PERSON
+2	Upton	upton	NNP	_	3	nsubj	_	L-PERSON
+3	swaps	swap	VBZ	pos2=NNS	0	root	_	O
+4	up	up	RP	pos2=IN	3	prt	_	O
+5	her	her	PRP$	_	6	poss	_	O
+6	style	style	NN	_	3	dobj	_	O
+7	but	but	CC	_	3	cc	_	O
+8	still	still	RB	_	9	advmod	_	O
+9	shows	show	VBZ	_	3	conj	_	O
+10	off	off	IN	pos2=RP	9	prep	_	O
+11	her	her	PRP$	_	13	poss	_	O
+12	toned	toned	JJ	pos2=VBN	13	nmod	_	O
+13	pins	pin	NNS	_	10	pobj	_	O
+14	as	as	IN	_	16	mark	_	O
+15	she	she	PRP	_	16	nsubj	_	O
+16	goes	go	VBZ	_	9	advcl	_	O
+17	#KateUpton	#kateupton	ADD	pos2=RB	16	prep	_	O
+18	https://t.co/63kATc0k2o	#hlink#	ADD	_	19	nsubj	_	O
+19	#KateUpton	#kateupton	ADD	pos2=-RRB-	16	prep	_	U-ORG
+

@@ -1,0 +1,19 @@
+1	@worldonalert	@worldonalert	NN	pos2=SYM	7	dep	_	O
+2	Important	important	JJ	pos2=NN	1	nmod	_	O
+3	:	:	:	_	7	punct	_	O
+4	All	all	PDT	_	6	predet	_	O
+5	these	these	DT	_	6	det	_	O
+6	numbers	number	NNS	_	7	nsubj	_	O
+7	exclude	exclude	VBP	_	0	root	_	O
+8	losses	loss	NNS	_	7	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	#Iran	#iran	NNP	pos2=NNS	9	pobj	_	U-GPE
+11	,	,	,	_	10	punct	_	O
+12	#Hezbollah	#hezbollah	NNP	_	10	conj	_	U-GPE
+13	and	and	CC	_	12	cc	_	O
+14	other	other	JJ	_	17	nmod	_	O
+15	foreign	foreign	JJ	_	17	nmod	_	O
+16	Shia	shia	NNP	pos2=JJ	17	compound	_	U-NORP
+17	militias	militia	NNS	_	12	conj	_	O
+18	.	.	.	_	7	punct	_	O
+

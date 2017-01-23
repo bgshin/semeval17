@@ -1,0 +1,12 @@
+1	@exxonmobil	@exxonmobil	UH	pos2=``	2	discourse	_	O
+2	Great	great	JJ	pos2=UH	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	Now	now	RB	_	2	advmod	_	O
+2	support	support	VB	pos2=VBP	0	root	_	O
+3	an	an	DT	_	4	det	_	O
+4	end	end	NN	_	2	dobj	_	O
+5	to	to	IN	_	4	prep	_	O
+6	fracking	fracking	NN	pos2=VBG	5	pobj	_	O
+7	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,21 @@
+1	New	new	JJ	pos2=NNP	2	nmod	_	O
+2	lyric	lyric	NN	pos2=JJ	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	2016	0	CD	_	3	pobj	_	U-DATE
+5	"	"	``	pos2=NNS	2	punct	_	O
+6	So	so	RB	_	10	mark	_	O
+7	if	if	IN	_	10	mark	_	O
+8	I	I	PRP	_	10	nsubj	_	O
+9	can	can	MD	_	10	aux	_	O
+10	shoot	shoot	VB	_	15	advcl	_	O
+11	rabbits	rabbit	NNS	_	10	dobj	_	O
+12	then	then	RB	pos2=IN	15	advmod	_	O
+13	I	I	PRP	_	15	nsubj	_	O
+14	can	can	MD	_	15	aux	_	O
+15	shoot	shoot	VB	_	19	advmod	_	O
+16	Alt	alt	NNP	pos2=JJ	18	compound	_	O
+17	-	-	HYPH	_	18	punct	_	O
+18	Rightists	rightist	NNPS	pos2=NNS	15	dobj	_	O
+19	"	"	''	pos2=GW	0	root	_	O
+20	https://t.co/4KcB0nEdrK	#hlink#	ADD	pos2=NN	15	dobj	_	O
+

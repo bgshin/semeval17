@@ -1,0 +1,20 @@
+1	The	the	DT	_	3	det	_	O
+2	Flaming	flaming	NNP	pos2=VBG	3	compound	_	O
+3	Lips	lip	NNPS	pos2=NNS	6	dep	_	O
+4	-	-	:	pos2=HYPH	6	punct	_	O
+5	Yoshimi	yoshimi	NNP	_	6	nsubj	_	O
+6	Battles	battle	VBZ	pos2=NNP	0	root	_	O
+7	the	the	DT	_	14	det	_	O
+8	Pink	pink	NNP	pos2=JJ	9	compound	_	O
+9	Robots	robot	NNPS	pos2=NNS	10	compound	_	O
+10	Pt.	pt.	NN	pos2=NNP	5	appos	_	O
+11	1	0	CD	_	10	nmod	_	O
+12	[	[	-LRB-	_	14	punct	_	O
+13	Official	official	NNP	pos2=JJ	14	compound	_	B-ORG
+14	Music	music	NNP	pos2=NN	6	dobj	_	L-ORG
+15	...	..	.	pos2=,	6	punct	_	O
+
+1	https://t.co/3YFKUjkTta	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@YouTube	@youtube	NN	pos2=NNP	2	pobj	_	O
+

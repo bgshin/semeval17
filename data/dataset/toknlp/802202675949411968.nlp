@@ -1,0 +1,30 @@
+1	@SharylAttkisson	@sharylattkisson	ADD	pos2=NN	2	compound	_	O
+2	Translation	translation	NN	_	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	We	we	PRP	_	5	nsubj	_	O
+5	need	need	VBP	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	suppress	suppress	VB	_	5	xcomp	_	O
+8	free	free	JJ	_	9	nmod	_	O
+9	speech	speech	NN	_	7	dobj	_	O
+10	&	&	CC	_	7	cc	_	O
+11	let	let	VB	pos2=JJ	7	conj	_	O
+12	govt	govt	NN	pos2=PRP	13	nsubj	_	O
+13	decide	decide	VB	_	11	ccomp	_	O
+14	what	what	WP	_	16	dobj	_	O
+15	u	u	PRP	pos2=NN	16	nsubj	_	O
+16	read	read	VBD	pos2=VBP	13	ccomp	_	O
+17	.	.	.	_	5	punct	_	O
+
+1	SCOTUS	scotus	NNP	pos2=NN	4	nsubj	_	U-ORG
+2	wo	wo	MD	_	4	aux	_	O
+3	nt	nt	RB	_	4	advmod	_	O
+4	let	let	VB	_	0	root	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	happen	happen	VB	_	4	ccomp	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	#	#	NN	pos2=SYM	3	compound	_	O
+2	1A	0a	NN	pos2=LS	3	compound	_	U-MONEY
+3	#draintheswamp	#draintheswamp	NN	pos2=UH	0	root	_	O
+

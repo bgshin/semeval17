@@ -1,0 +1,25 @@
+1	We	we	PRP	_	3	nsubj	_	O
+2	still	still	RB	_	3	advmod	_	O
+3	love	love	VBP	_	0	root	_	O
+4	you	you	PRP	_	3	dobj	_	O
+5	Tony	tony	NNP	_	6	compound	_	B-PERSON
+6	Romo	romo	NNP	_	3	vocative	_	L-PERSON
+7	!	!	.	_	3	punct	_	O
+
+1	You	you	PRP	_	5	nsubjpass	_	O
+2	have	have	VBP	_	5	aux	_	O
+3	not	not	RB	_	5	neg	_	O
+4	been	be	VBN	_	5	auxpass	_	O
+5	forgotten	forget	VBN	_	0	root	_	O
+6	!	!	.	_	5	punct	_	O
+
+1	Great	great	JJ	_	3	nmod	_	O
+2	game	game	NN	_	3	compound	_	O
+3	boys	boy	NNS	_	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+
+1	#tonyromo	#tonyromo	UH	pos2=XX	4	discourse	_	O
+2	#CowboysNation	#cowboysnation	NN	pos2=ADD	3	compound	_	O
+3	#DallasCowboys	#dallascowboys	NNS	pos2=ADD	4	compound	_	O
+4	#DALvsWAS	#dalvswas	NNS	pos2=ADD	0	root	_	O
+

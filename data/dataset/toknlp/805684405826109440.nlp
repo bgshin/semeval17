@@ -1,0 +1,12 @@
+1	LeBron	lebron	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	pays	pay	VBZ	_	0	root	_	O
+3	off	off	IN	pos2=RP	2	prep	_	O
+4	World	world	NNP	_	5	compound	_	B-EVENT
+5	Series	series	NNP	_	6	compound	_	L-EVENT
+6	bet	bet	NN	pos2=NNP	3	pobj	_	O
+7	,	,	,	_	2	punct	_	O
+8	dons	don	VBZ	pos2=NNS	2	conj	_	O
+9	Cubs	cub	NNPS	pos2=NNS	11	nmod	_	U-ORG
+10	uni	uni	GW	pos2=JJ	11	nmod	_	O
+11	https://t.co/ngkP5leRs4	#hlink#	ADD	pos2=NN	8	dobj	_	O
+

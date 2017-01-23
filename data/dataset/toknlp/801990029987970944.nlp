@@ -1,0 +1,16 @@
+1	@abgreenwood	@abgreenwood	UH	pos2=XX	5	discourse	_	O
+2	My	my	PRP$	pos2=UH	3	poss	_	O
+3	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNS	5	nmod	_	O
+4	1.	0.	LS	_	5	meta	_	U-CARDINAL
+5	Luke2	luke0	NN	pos2=NNS	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	Kirk3	kirk0	LS	pos2=NN	0	root	_	U-CARDINAL
+2	.	.	.	_	1	punct	_	O
+
+1	Miss	miss	NNP	pos2=AFX	2	compound	_	O
+2	Patty4	patty0	NN	pos2=NNP	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Sookie	sookie	NNP	pos2=NN	0	root	_	O
+

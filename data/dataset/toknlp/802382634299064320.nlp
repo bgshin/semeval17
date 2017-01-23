@@ -1,0 +1,32 @@
+1	@tedcruz	@tedcruz	UH	pos2=PRP$	3	discourse	_	O
+2	trump	trump	NN	pos2=VB	3	nsubj	_	O
+3	calls	call	VBZ	pos2=NNS	0	root	_	O
+4	u	u	RP	pos2=PRP	3	prt	_	O
+5	lying	lie	VBG	_	6	nmod	_	O
+6	ted	ted	NN	pos2=RP	3	oprd	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	says	say	VBZ	_	0	root	_	O
+2	your	your	PRP$	_	3	poss	_	O
+3	father	father	NN	_	5	nsubjpass	_	O
+4	was	be	VBD	_	5	auxpass	_	O
+5	involved	involve	VBN	pos2=JJ	1	ccomp	_	O
+6	in	in	IN	_	5	prep	_	O
+7	murder	murder	NN	_	6	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	jfk.	jfk.	NNP	pos2=NNS	8	pobj	_	O
+10	And	and	CC	_	5	cc	_	O
+11	he	he	PRP	_	12	nsubj	_	O
+12	has	have	VBZ	_	5	conj	_	O
+13	dirt	dirt	NN	_	12	dobj	_	O
+14	on	on	IN	_	12	prep	_	O
+15	your	your	PRP$	_	16	poss	_	O
+16	wife	wife	NN	_	14	pobj	_	O
+17	.	.	.	_	1	punct	_	O
+
+1	Compared	compare	VBD	pos2=VBN	0	root	_	O
+2	her	her	PRP	pos2=PRP$	1	dobj	_	O
+3	to	to	IN	pos2=TO	1	prep	_	O
+4	melania	melania	NN	pos2=NNP	3	pobj	_	O
+5	.	.	.	_	1	punct	_	O
+

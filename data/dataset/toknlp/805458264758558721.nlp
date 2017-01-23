@@ -1,0 +1,21 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	wait	wait	VB	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	go	go	VB	_	4	xcomp	_	O
+7	to	to	IN	_	6	prep	_	O
+8	my	my	PRP$	_	9	poss	_	O
+9	nonna	nonna	NN	pos2=NNP	11	poss	_	O
+10	's	's	POS	_	9	case	_	O
+11	house	house	NN	_	7	pobj	_	O
+12	and	and	CC	_	6	cc	_	O
+13	be	be	VB	_	14	auxpass	_	O
+14	lectured	lecture	VBN	pos2=VBD	6	conj	_	O
+15	about	about	IN	_	14	prep	_	O
+16	how	how	WRB	_	17	advmod	_	O
+17	wrong	wrong	JJ	pos2=RB	20	acomp	_	O
+18	my	my	PRP$	_	19	poss	_	O
+19	vegetarianism	vegetarianism	NN	_	20	nsubj	_	O
+20	is	be	VBZ	_	15	pcomp	_	O
+

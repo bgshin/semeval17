@@ -1,0 +1,17 @@
+1	Digesting	digest	VBG	_	0	root	_	O
+2	while	while	IN	_	3	mark	_	O
+3	watching	watch	VBG	_	1	advcl	_	O
+4	#ScreamQueens	#screamqueens	NNS	pos2=XX	10	poss	_	O
+5	s1	s0	POS	pos2=NN	4	case	_	U-CARDINAL
+6	Thanksgiving	thanksgiving	NNP	_	10	nmod	_	B-ORG
+7	&	&	CC	_	6	cc	_	I-ORG
+8	Black	black	NNP	pos2=JJ	9	compound	_	L-ORG
+9	Friday	friday	NNP	_	6	conj	_	O
+10	eps	eps	NNS	pos2=VBZ	3	dobj	_	O
+11	.	.	.	_	1	punct	_	O
+
+1	SO	so	RB	_	3	advmod	_	O
+2	SO	so	RB	_	3	advmod	_	O
+3	GOOD	good	JJ	_	0	root	_	O
+4	!!	!!	.	_	3	punct	_	O
+

@@ -1,0 +1,35 @@
+1	@zesty_trump	@zesty_trump	UH	pos2=``	4	discourse	_	O
+2	We	we	PRP	_	4	nsubj	_	O
+3	all	all	DT	_	2	appos	_	O
+4	know	know	VBP	_	0	root	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	's	's	VBZ	_	4	ccomp	_	O
+7	true	true	JJ	_	6	acomp	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	In	in	IN	pos2=NNP	8	prep	_	O
+2	CA	ca	NNP	pos2=NN	1	pobj	_	U-GPE
+3	alone	alone	RB	_	2	advmod	_	O
+4	,	,	,	_	8	punct	_	O
+5	all	all	PDT	pos2=DT	7	predet	_	O
+6	an	an	DT	_	7	det	_	O
+7	illegal	illegal	JJ	pos2=NN	8	nsubj	_	O
+8	has	have	VBZ	_	0	root	_	O
+9	to	to	TO	_	10	aux	_	O
+10	do	do	VB	_	8	xcomp	_	O
+11	is	be	VBZ	_	7	acl	_	O
+12	go	go	VB	_	11	xcomp	_	O
+13	to	to	IN	_	12	prep	_	O
+14	DMV	dmv	NNP	pos2=NN	13	pobj	_	U-ORG
+15	,	,	,	_	16	punct	_	O
+16	get	get	VB	pos2=VBP	12	dep	_	O
+17	a	a	DT	_	20	det	_	O
+18	voter	voter	NN	_	19	compound	_	O
+19	ID	id	NN	_	20	compound	_	O
+20	card	card	NN	_	16	dobj	_	O
+21	,	,	,	_	23	punct	_	O
+22	then	then	RB	_	23	advmod	_	O
+23	handed	hand	VBD	pos2=JJ	19	dep	_	O
+24	Voter	voter	NNP	pos2=NN	25	compound	_	O
+25	Registration	registration	NN	pos2=NNP	23	dobj	_	O
+

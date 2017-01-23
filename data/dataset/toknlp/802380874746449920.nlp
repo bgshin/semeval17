@@ -1,0 +1,13 @@
+1	AND	and	CC	_	2	cc	_	O
+2	ALIENS	alien	NNS	pos2=NNPS	0	root	_	O
+3	!!!!!	!!	.	_	2	punct	_	O
+
+1	1	0	CD	pos2=LS	0	root	_	U-CARDINAL
+2	AND	and	CC	_	1	cc	_	O
+3	ROBOTS	robot	NNS	_	1	conj	_	O
+4	!!!!!!!!	!!	.	_	1	punct	_	O
+
+1	SPACE	space	NN	_	2	compound	_	O
+2	ROBOTS	robot	NNS	_	0	root	_	O
+3	!!!!!!!!!!	!!	.	_	2	punct	_	O
+

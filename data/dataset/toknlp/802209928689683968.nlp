@@ -1,0 +1,14 @@
+1	Thousands	#crd#	NNS	pos2=UH	2	nsubj	_	U-CARDINAL
+2	flee	flee	VBP	pos2=VB	0	root	_	O
+3	Raqqa	raqqa	NNP	_	2	dobj	_	U-GPE
+4	as	as	IN	_	9	mark	_	O
+5	Turkish	turkish	JJ	_	7	advmod	_	U-NORP
+6	-	-	HYPH	_	7	punct	_	O
+7	Kurdish	kurdish	JJ	_	8	nmod	_	U-NORP
+8	tensions	tension	NNS	_	9	nsubj	_	O
+9	threaten	threaten	VBP	pos2=VB	2	advcl	_	O
+10	anti-IS	anti-is	JJ	pos2=GW	11	nmod	_	O
+11	campaign	campaign	NN	_	9	dobj	_	O
+12	https://t.co/BMft55eymy	#hlink#	ADD	pos2=NN	13	nmod	_	O
+13	#ISIS	#isis	NN	pos2=ADD	9	npadvmod	_	O
+

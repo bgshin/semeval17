@@ -1,0 +1,15 @@
+1	@BrianJWaz	@brianjwaz	ADD	pos2=XX	5	nsubj	_	O
+2	@DysClaimer	@dysclaimer	GW	pos2=JJR	5	discourse	_	O
+3	@dylanlscott	@dylanlscott	GW	pos2=ADD	4	nmod	_	O
+4	https://t.co/tiX08RINK9	#hlink#	ADD	pos2=NN	5	nsubj	_	O
+5	calls	call	VBZ	pos2=NNS	0	root	_	O
+6	the	the	DT	_	8	det	_	O
+7	alt	alt	JJ	pos2=NN	8	nmod	_	O
+8	rightists	rightist	NNS	pos2=NNPS	5	dobj	_	O
+9	"	"	``	pos2=''	14	punct	_	O
+10	dangerously	dangerously	RB	_	11	advmod	_	O
+11	bright	bright	JJ	_	14	nmod	_	O
+12	"	"	''	_	14	punct	_	O
+13	incl	incl	NN	_	14	compound	_	O
+14	spencer	spencer	NN	pos2=FW	5	oprd	_	O
+

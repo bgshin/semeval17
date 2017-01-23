@@ -1,0 +1,32 @@
+1	UK	uk	NNP	_	7	nsubjpass	_	U-GPE
+2	,	,	,	_	1	punct	_	O
+3	US	us	NNP	_	1	conj	_	U-GPE
+4	,	,	,	_	3	punct	_	O
+5	now	now	RB	_	7	advmod	_	O
+6	Italy	italy	NNP	_	7	nsubjpass	_	U-GPE
+7	swept	sweep	VBN	pos2=VBD	0	root	_	O
+8	by	by	IN	_	7	agent	_	O
+9	populist	populist	JJ	_	10	nmod	_	O
+10	wind	wind	NN	_	8	pobj	_	O
+11	.	.	.	_	7	punct	_	O
+
+1	Is	be	VBZ	_	0	root	_	O
+2	France	france	NNP	_	1	nsubj	_	U-GPE
+3	next	next	RB	pos2=JJ	1	advmod	_	O
+4	?	?	.	_	1	punct	_	O
+
+1	(	(	-LRB-	_	4	punct	_	O
+2	Re	re	UH	pos2=NNP	4	discourse	_	O
+3	)	)	-RRB-	_	2	punct	_	O
+4	read	read	VBD	pos2=VB	0	root	_	O
+5	my	my	PRP$	_	7	poss	_	O
+6	@Harpers	@harpers	NNP	pos2=PRP$	7	compound	_	O
+7	profile	profile	NN	_	4	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	Marine	marine	NNP	_	11	compound	_	B-ORG
+10	Le	le	NNP	_	11	compound	_	I-ORG
+11	Pen	pen	NNP	_	8	pobj	_	L-ORG
+12	.	.	.	_	4	punct	_	O
+
+1	https://t.co/shhB43rGXH	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,13 @@
+1	Jerusalem	jerusalem	NNP	_	12	npadvmod	_	U-GPE
+2	Through	through	IN	_	1	prep	_	O
+3	The	the	DT	_	4	det	_	B-ORG
+4	Ages	age	NNPS	pos2=NNP	2	pobj	_	I-ORG
+5	▸	▸	NFP	pos2=POS	12	punct	_	I-ORG
+6	https://t.co/eLyb74IDCh	#hlink#	ADD	_	12	dep	_	I-ORG
+7	|	|	SYM	pos2=-RRB-	12	punct	_	I-ORG
+8	#Israel	#israel	NFP	pos2=NNP	11	punct	_	I-ORG
+9	#Jerusalem	#jerusalem	NNP	pos2=NFP	11	compound	_	I-ORG
+10	#Christianity	#christianity	NNP	pos2=NN	11	compound	_	I-ORG
+11	#Judaism	#judaism	NNP	pos2=ADD	12	dep	_	L-ORG
+12	#religion	#religion	ADD	pos2=UH	0	root	_	O
+

@@ -1,0 +1,34 @@
+1	@cccap	@cccap	UH	pos2=NN	4	discourse	_	O
+2	will	will	MD	_	4	aux	_	O
+3	never	never	RB	_	4	neg	_	O
+4	be	be	VB	_	0	root	_	O
+5	,	,	,	_	9	punct	_	O
+6	we	we	PRP	_	9	nsubj	_	O
+7	do	do	VBP	_	9	aux	_	O
+8	nt	nt	RB	_	9	advmod	_	O
+9	read	read	VB	_	4	ccomp	_	O
+10	history	history	NN	_	11	compound	_	O
+11	books	book	NNS	_	14	poss	_	O
+12	n	n	POS	pos2=IN	11	case	_	O
+13	fossil	fossil	NN	pos2=JJ	14	compound	_	O
+14	fuels	fuel	NNS	_	9	dobj	_	O
+15	still	still	RB	_	16	advmod	_	O
+16	have	have	VBP	_	9	conj	_	O
+17	us	us	PRP	_	16	dobj	_	O
+18	by	by	IN	_	16	prep	_	O
+19	the	the	DT	_	20	det	_	O
+20	balls	ball	NNS	_	18	pobj	_	O
+21	.	.	.	_	4	punct	_	O
+
+1	$$$	$$	SYM	pos2=NN	5	punct	_	O
+2	giants	giant	NNS	_	5	nsubj	_	O
+3	will	will	MD	_	5	aux	_	O
+4	never	never	RB	_	5	neg	_	O
+5	allow	allow	VB	_	0	root	_	O
+6	it	it	PRP	_	5	dobj	_	O
+7	.	.	.	_	5	punct	_	O
+
+1	Must	must	MD	_	2	aux	_	O
+2	go	go	VB	_	0	root	_	O
+3	Solar	solar	JJ	pos2=NNP	2	acomp	_	O
+

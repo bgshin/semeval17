@@ -1,0 +1,16 @@
+1	"	"	``	_	5	punct	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	ca	can	MD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	listen	listen	VB	_	0	root	_	O
+6	to	to	IN	_	5	prep	_	O
+7	Bob	bob	NNP	_	8	compound	_	B-PERSON
+8	Dylan	dylan	NNP	_	6	pobj	_	L-PERSON
+9	,	,	,	_	11	punct	_	O
+10	then	then	RB	_	11	advmod	_	O
+11	flip	flip	VB	_	5	dep	_	O
+12	through	through	IN	pos2=RP	11	prep	_	O
+13	Netflix	netflix	NNP	_	12	pobj	_	U-ORG
+14	.	.	.	_	5	punct	_	O
+15	"	"	''	_	5	punct	_	O
+

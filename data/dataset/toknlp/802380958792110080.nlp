@@ -1,0 +1,21 @@
+1	@On_SideLines	@on_sidelines	NNS	pos2=ADD	4	poss	_	O
+2	@JordanLaraine	@jordanlaraine	POS	pos2=NNP	1	case	_	O
+3	Rampant	rampant	JJ	pos2=NNP	4	nmod	_	O
+4	CORRUPTION	corruption	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	one	#crd#	CD	_	8	nmod	_	U-CARDINAL
+7	common	common	JJ	_	8	nmod	_	O
+8	factor	factor	NN	_	5	attr	_	O
+9	among	among	IN	_	8	prep	_	O
+10	all	all	DT	_	12	det	_	O
+11	Marxist	marxist	JJ	pos2=NNP	12	nmod	_	U-NORP
+12	Leftists	leftist	NNPS	pos2=NNS	9	pobj	_	U-NORP
+13	..!	..!	.	_	5	punct	_	O
+
+1	Obama	obama	NNP	_	6	dep	_	U-PERSON
+2	,	,	,	_	1	punct	_	O
+3	Sanders	sanders	NNP	_	1	conj	_	U-PERSON
+4	,	,	,	_	3	punct	_	O
+5	…	…	NFP	pos2=-LRB-	6	punct	_	O
+6	https://t.co/lo4heZ0NaR	#hlink#	ADD	pos2=NN	0	root	_	O
+

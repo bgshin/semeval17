@@ -1,0 +1,15 @@
+1	Mosaic	mosaic	JJ	pos2=NNP	4	nmod	_	O
+2	Manufacturing	manufacturing	NNP	pos2=NN	3	nsubj	_	O
+3	Sets	set	VBZ	pos2=NNP	0	root	_	O
+4	Sights	sight	NNS	pos2=NNPS	3	dobj	_	O
+5	on	on	IN	_	3	prep	_	O
+6	Establishing	establish	VBG	pos2=NNP	5	pcomp	_	O
+7	New	new	NNP	pos2=JJ	6	dobj	_	O
+8	3	0	CD	pos2=NNP	14	dep	_	O
+9	D	d	NNP	pos2=NN	11	compound	_	B-ORG
+10	Printing	printing	NNP	pos2=VBG	11	compound	_	I-ORG
+11	Standards.⠀⠀	standards.⠀⠀	NNP	pos2=GW	14	dep	_	L-ORG
+12	…	…	NFP	pos2=GW	14	punct	_	O
+13	https://t.co/QiXqRw30NK	#hlink#	ADD	_	14	nmod	_	O
+14	https://t.co/M0vbH52Qwm	#hlink#	ADD	_	6	dobj	_	U-ORG
+

@@ -1,0 +1,21 @@
+1	And	and	CC	_	3	cc	_	O
+2	in	in	IN	_	0	conj	_	O
+3	the	the	DT	_	5	det	_	O
+4	other	other	JJ	_	5	nmod	_	O
+5	news	news	NN	_	2	pobj	_	O
+6	...	..	.	_	2	punct	_	O
+
+1	https://t.co/Fc3Gg03RJ5..Obama	#hlink#	ADD	pos2=NN	2	nsubj	_	U-ORG
+2	ends	end	VBZ	_	0	root	_	O
+3	with	with	IN	_	2	prep	_	O
+4	a	a	DT	_	5	det	_	O
+5	Bang	bang	NNP	pos2=NN	3	pobj	_	O
+6	..	..	.	pos2=,	2	punct	_	O
+
+1	errr	errr	NN	pos2=UH	0	root	_	O
+2	..	..	.	pos2=,	1	punct	_	O
+
+1	a	a	DT	_	2	det	_	O
+2	lawsuit	lawsuit	NN	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+

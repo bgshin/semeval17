@@ -1,0 +1,15 @@
+1	@AriMelber	@arimelber	NNP	pos2=NN	3	compound	_	O
+2	@RichLowry	@richlowry	NNP	pos2=POS	3	compound	_	O
+3	Dems	dems	NNPS	pos2=NNP	4	nsubj	_	O
+4	need	need	VBP	pos2=NN	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	work	work	VB	pos2=NN	4	xcomp	_	O
+7	on	on	IN	_	6	prep	_	O
+8	:	:	:	_	7	punct	_	O
+9	fixing	fix	VBG	pos2=NN	7	pcomp	_	O
+10	#gerrymanderingautomatic	#gerrymanderingautomatic	JJ	pos2=XX	11	nmod	_	O
+11	voter	voter	NN	_	9	dobj	_	O
+12	registrationmaking	registrationmaking	VBG	pos2=NN	11	acl	_	O
+13	voting	voting	NN	pos2=VBG	14	nsubj	_	O
+14	accessible	accessible	JJ	_	12	ccomp	_	O
+

@@ -1,0 +1,15 @@
+1	@jack	@jack	UH	pos2=VB	3	discourse	_	O
+2	why	why	WRB	_	3	advmod	_	O
+3	is	be	VBZ	_	8	aux	_	O
+4	my	my	PRP$	_	6	poss	_	O
+5	#Yemen	#yemen	NNP	pos2=NN	6	compound	_	O
+6	post	post	NN	pos2=IN	8	nsubj	_	O
+7	not	not	RB	_	8	neg	_	O
+8	showing	show	VBG	_	0	root	_	O
+9	up	up	RP	_	8	prt	_	O
+10	in	in	IN	_	8	prep	_	O
+11	#Yemen	#yemen	NNP	pos2=PRP$	13	compound	_	U-GPE
+12	news	news	NN	_	13	compound	_	O
+13	feed	feed	NN	pos2=VB	10	pobj	_	O
+14	?	?	.	_	8	punct	_	O
+

@@ -1,0 +1,15 @@
+1	Micha	micha	NNP	_	2	compound	_	B-PERSON
+2	Dorst	dorst	NNP	_	3	nsubj	_	L-PERSON
+3	took	take	VBD	_	0	root	_	O
+4	this	this	DT	_	6	det	_	O
+5	beautiful	beautiful	JJ	_	6	nmod	_	O
+6	picture	picture	NN	_	3	dobj	_	O
+7	inside	inside	IN	pos2=RB	3	prep	_	O
+8	his	his	PRP$	_	11	poss	_	O
+9	Tesla	tesla	NNP	_	11	compound	_	B-PRODUCT
+10	Model	model	NNP	pos2=NN	11	compound	_	I-PRODUCT
+11	S	s	NNP	pos2=NN	7	pobj	_	L-PRODUCT
+12	!	!	.	_	3	punct	_	O
+
+1	https://t.co/FE8dF6BFRj	#hlink#	ADD	_	0	root	_	U-ORG
+

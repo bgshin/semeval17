@@ -1,0 +1,19 @@
+1	@FlyerHoops	@flyerhoops	NNS	pos2=UH	6	aux	_	O
+2	@A10Talk	@a0talk	TO	pos2=NNS	6	aux	_	O
+3	do	do	VB	pos2=VBP	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	call	call	VB	_	0	root	_	O
+6	walk	walk	VB	pos2=NN	5	dobj	_	O
+7	any	any	DT	pos2=RB	8	advmod	_	O
+8	more	more	RBR	pos2=JJR	5	advmod	_	O
+9	.	.	.	_	1	punct	_	O
+
+1	C	c	NNP	pos2=NN	3	compound	_	B-PERSON
+2	Grayson	grayson	NNP	_	3	compound	_	I-PERSON
+3	Allen	allen	NNP	_	0	root	_	L-PERSON
+4	2	0	CD	_	6	nmod	_	U-CARDINAL
+5	game	game	NN	_	6	compound	_	O
+6	winners	winner	NNS	_	3	npadvmod	_	O
+7	last	last	JJ	_	8	nmod	_	B-DATE
+8	year	year	NN	_	6	npadvmod	_	L-DATE
+

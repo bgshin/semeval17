@@ -1,0 +1,8 @@
+1	@Snyder_man45	@snyder_man0	NN	pos2=CD	4	compound	_	O
+2	gold	gold	NN	_	3	compound	_	O
+3	medal	medal	NN	pos2=JJ	4	compound	_	O
+4	standard	standard	NN	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	sure	sure	JJ	_	5	pcomp	_	O
+7	!	!	.	_	4	punct	_	O
+

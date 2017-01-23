@@ -1,0 +1,22 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@steffendobbert	@steffendobbert	NN	pos2=UH	4	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	@zeitonline	@zeitonline	NNP	pos2=PRP	2	pobj	_	O
+4	examined	examine	VBD	pos2=VBN	0	root	_	O
+5	Ukraine	ukraine	NNP	_	6	compound	_	U-GPE
+6	reforms	reform	NNS	pos2=VBZ	4	dobj	_	O
+7	in	in	IN	_	4	prep	_	O
+8	Saakashvili	saakashvili	NNP	_	10	poss	_	U-PERSON
+9	's	's	POS	_	8	case	_	O
+10	Odesa	odesa	NNP	_	7	pobj	_	U-GPE
+11	,	,	,	_	12	punct	_	O
+12	was	be	VBD	_	4	conj	_	O
+13	shocked	shocked	JJ	pos2=VBN	12	acomp	_	O
+14	how	how	WRB	_	15	advmod	_	O
+15	little	little	JJ	pos2=RB	17	npadvmod	_	O
+16	has	have	VBZ	_	17	aux	_	O
+17	changed	change	VBN	_	13	ccomp	_	O
+18	…	…	NFP	pos2=IN	19	punct	_	O
+19	https://t.co/XfBME8ZfLH	#hlink#	ADD	_	12	npadvmod	_	O
+

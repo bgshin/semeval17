@@ -1,0 +1,15 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	husband	husband	NN	_	3	nsubj	_	O
+3	worked	work	VBD	_	0	root	_	O
+4	on	on	IN	_	3	prep	_	O
+5	some	some	DT	_	4	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	Leonard	leonard	NNP	_	8	compound	_	B-PERSON
+8	Cohen	cohen	NNP	_	6	pobj	_	L-PERSON
+9	"	"	``	pos2=''	10	punct	_	O
+10	s	s	POS	pos2=VBZ	13	compound	_	O
+11	concerts	concert	NNS	_	8	appos	_	O
+12	in	in	IN	_	11	prep	_	O
+13	Portugal	portugal	NNP	_	12	pobj	_	U-GPE
+14	.	.	.	_	3	punct	_	O
+

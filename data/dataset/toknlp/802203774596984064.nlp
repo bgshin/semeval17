@@ -1,0 +1,11 @@
+1	@g_a_i_l_c	@g_a_i_l_c	NNP	pos2=DT	2	compound	_	O
+2	Time	time	NNP	pos2=NN	4	vocative	_	U-ORG
+3	you	you	PRP	_	4	nsubj	_	O
+4	did	do	VBD	_	0	root	_	O
+5	some	some	DT	_	6	det	_	O
+6	research	research	NN	_	4	dobj	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	Nazi	nazi	JJ	pos2=NNP	2	nmod	_	U-NORP
+2	roots	root	NNS	_	0	root	_	O
+

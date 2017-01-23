@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det	_	O
+2	Beatles	beatles	NNPS	_	0	root	_	U-ORG
+3	,	,	,	_	2	punct	_	O
+4	Bob	bob	NNP	_	5	compound	_	B-PERSON
+5	Dylan	dylan	NNP	_	2	conj	_	L-PERSON
+6	,	,	,	_	5	punct	_	O
+7	The	the	DT	_	8	det	_	O
+8	Byrds	byrd	NNPS	pos2=NNP	5	conj	_	U-ORG
+9	...	..	.	pos2=,	2	punct	_	O
+
+1	and	and	CC	_	2	cc	_	O
+2	#BigData	#bigdata	ADD	pos2=NNP	0	root	_	U-GPE
+3	?	?	.	_	2	punct	_	O
+
+1	~	~	SYM	pos2=NFP	2	punct	_	O
+2	https://t.co/SyFpWwdHYL	#hlink#	ADD	pos2=NN	0	root	_	O
+3	via	via	IN	_	2	prep	_	O
+4	@BIdotcom	@bidotcom	NN	pos2=ADD	3	pobj	_	O
+

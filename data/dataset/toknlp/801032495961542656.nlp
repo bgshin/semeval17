@@ -1,0 +1,17 @@
+1	Latest	late	JJS	_	6	advmod	_	O
+2	Russia	russia	NNP	_	3	compound	_	B-ORG
+3	News	news	NNP	pos2=GW	7	compound	_	L-ORG
+4	https://t.co/HMTCiKJ7J1:	#hlink#	ADD	pos2=NNP	0	root	_	O
+5	Putin	putin	NNP	_	6	nsubj	_	U-PERSON
+6	calls	call	VBZ	_	0	root	_	O
+7	Saakashvili	saakashvili	NNP	_	9	poss	_	U-PERSON
+8	’s	's	POS	_	7	case	_	O
+9	appo	appo	NN	pos2=NNP	6	dobj	_	O
+10	..	..	.	pos2=,	6	punct	_	O
+
+1	#TISNews	#tisnews	NNS	pos2=UH	0	root	_	O
+2	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/iKH5OUC8uL	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/jZEcOARYrn	#hlink#	ADD	_	0	root	_	U-ORG
+

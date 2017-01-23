@@ -1,0 +1,28 @@
+1	Same	same	JJ	_	3	nmod	_	O
+2	day	day	NN	_	3	compound	_	O
+3	registration	registration	NN	_	4	nsubj	_	O
+4	does	do	VBZ	_	0	root	_	O
+5	nothing	nothing	NN	_	4	dobj	_	O
+6	2prevent	0prevent	JJ	pos2=VB	5	nmod	_	O
+7	"	"	``	pos2=''	9	punct	_	O
+8	voter	voter	NN	_	9	compound	_	O
+9	fraud	fraud	NN	_	4	dobj	_	O
+10	"	"	''	_	9	punct	_	O
+11	as	as	IN	_	13	mark	_	O
+12	Repubs	repubs	NNS	pos2=NNP	13	nsubj	_	O
+13	say	say	VBP	_	4	advcl	_	O
+14	.	.	.	_	4	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	say	say	VBP	_	0	root	_	O
+3	these	these	DT	_	5	det	_	O
+4	new	new	JJ	_	5	nmod	_	O
+5	laws	law	NNS	_	12	dep	_	O
+6	R	r	NNP	pos2=NN	7	nsubj	_	O
+7	needed	need	VBD	pos2=VBN	5	relcl	_	O
+8	cause	cause	NN	_	7	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	c	c	NN	pos2=GW	9	pobj	_	O
+11	…	…	NFP	pos2=:	12	punct	_	O
+12	https://t.co/4rNwICmt9w	#hlink#	ADD	_	2	ccomp	_	O
+

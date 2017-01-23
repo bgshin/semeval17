@@ -1,0 +1,10 @@
+1	Good	good	JJ	_	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	see	see	VB	_	1	advcl	_	O
+4	ties	tie	NNS	_	3	dobj	_	O
+5	with	with	IN	_	4	prep	_	O
+6	#Russia	#russia	NNP	pos2=NN	5	pobj	_	U-GPE
+7	slowly	slowly	RB	_	3	advmod	_	O
+8	impro	impro	IN	pos2=GW	3	prep	_	O
+9	vinghttps://t.co/rqJxnU5btz	#hlink#	ADD	pos2=NN	8	pobj	_	O
+

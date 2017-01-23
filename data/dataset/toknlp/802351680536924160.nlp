@@ -1,0 +1,18 @@
+1	👏Brillant	👏brillant	NN	pos2=NNP	6	compound	_	O
+2	idea!👏	idea!👏	NN	pos2=NNS	6	compound	_	O
+3	#	#	NN	_	8	nmod	_	O
+4	3	0	CD	pos2=LS	9	nmod	_	O
+5	D	d	NN	pos2=JJ	6	compound	_	O
+6	printing	printing	NN	pos2=VBG	0	root	_	O
+7	for	for	IN	_	6	prep	_	O
+8	#wildlife	#wildlife	NN	pos2=JJ	9	compound	_	O
+9	conservation	conservation	NN	_	7	pobj	_	O
+10	.	.	.	_	6	punct	_	O
+
+1	#animals	#animals	UH	pos2=NNS	6	discourse	_	O
+2	#EcoAfrica	#ecoafrica	GW	pos2=ADD	3	nmod	_	O
+3	https://t.co/sRvHK9p6mx	#hlink#	ADD	_	6	nmod	_	O
+4	@joomomoh	@joomomoh	UH	pos2=GW	6	nmod	_	O
+5	…	…	NFP	pos2=-LRB-	6	punct	_	O
+6	https://t.co/oTMLFdCluG	#hlink#	ADD	_	0	root	_	O
+

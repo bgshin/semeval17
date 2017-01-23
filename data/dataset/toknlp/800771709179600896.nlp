@@ -1,0 +1,20 @@
+1	Hahaa	hahaa	NNP	pos2=UH	0	root	_	U-PERSON
+2	...	..	.	pos2=,	1	punct	_	O
+
+1	hopefully	hopefully	RB	_	6	advmod	_	O
+2	soon	soon	RB	_	6	advmod	_	O
+3	M	m	NNP	pos2=VBG	4	compound	_	O
+4	$	$	$	pos2=''	6	nsubjpass	_	O
+5	is	be	VBZ	_	6	auxpass	_	O
+6	forced	force	VBN	_	0	root	_	O
+7	to	to	TO	pos2=IN	8	aux	_	O
+8	opensource	opensource	VB	pos2=JJ	6	xcomp	_	O
+9	office	office	NN	_	12	nmod	_	O
+10	and	and	CC	_	9	cc	_	O
+11	windows	window	NNS	pos2=VBZ	9	conj	_	O
+12	sourcecodes	sourcecodes	NNS	pos2=RB	8	dobj	_	O
+13	.	.	.	_	6	punct	_	O
+
+1	😋	😋	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/96fAMqFpwi	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,13 @@
+1	@JeffVeillette	@jeffveillette	NNP	pos2=ADD	3	vocative	_	O
+2	ya	ya	PRP	pos2=NN	3	nsubj	_	O
+3	looks	look	VBZ	_	0	root	_	O
+4	like	like	IN	_	3	prep	_	O
+5	grundstrom	grundstrom	NN	pos2=DT	4	pobj	_	O
+6	might	might	MD	_	7	aux	_	O
+7	be	be	VB	_	3	advcl	_	O
+8	in	in	IN	_	7	prep	_	O
+9	Cy	cy	NNP	_	11	nmod	_	O
+10	Young	young	JJ	pos2=NNP	11	nmod	_	O
+11	contention	contention	NN	_	8	pobj	_	O
+12	too	too	RB	_	7	advmod	_	O
+

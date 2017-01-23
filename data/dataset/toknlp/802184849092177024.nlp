@@ -1,0 +1,12 @@
+1	Read	read	VB	pos2=NN	0	root	_	O
+2	:	:	:	_	1	punct	_	O
+3	#futureofwork	#futureofwork	NFP	pos2=PRP$	6	nmod	_	O
+4	Daily	daily	JJ	pos2=NNP	5	nmod	_	U-DATE
+5	ePaper	epaper	NN	pos2=GW	6	dep	_	O
+6	https://t.co/CoPvEnFwZC	#hlink#	ADD	pos2=NN	1	dep	_	O
+7	via	via	IN	_	6	prep	_	O
+8	@bancstreet	@bancstreet	NN	pos2=-RRB-	7	pobj	_	O
+9	@FCATatSFU	@fcatatsfu	ADD	pos2=XX	7	pobj	_	O
+10	@helen_hlambert	@helen_hlambert	IN	pos2=XX	6	prep	_	O
+11	#uniteblue	#uniteblue	UH	pos2=NN	10	discourse	_	O
+

@@ -1,0 +1,17 @@
+1	How	how	WRB	_	9	advmod	_	O
+2	Larry	larry	NNP	_	3	compound	_	B-PERSON
+3	King	king	NNP	_	9	nsubj	_	L-PERSON
+4	and	and	CC	_	3	cc	_	O
+5	Ed	ed	NNP	_	6	compound	_	B-PERSON
+6	Schultz	schultz	NNP	_	3	conj	_	L-PERSON
+7	May	may	NNP	pos2=MD	8	compound	_	U-DATE
+8	Have	have	NNP	pos2=VB	9	aux	_	O
+9	Helped	help	VBN	pos2=VBD	0	root	_	O
+10	Russia	russia	NNP	_	11	nsubj	_	U-GPE
+11	Create	create	NNP	pos2=VB	9	ccomp	_	O
+12	Fake	fake	JJ	pos2=NNP	14	nmod	_	O
+13	Anti-Hillary	anti-hillary	JJ	pos2=GW	14	nmod	_	O
+14	Newshttps://t.co/bwSRqhAUvi	#hlink#	ADD	pos2=NN	11	dobj	_	O
+15	#uniteblue	#uniteblue	IN	pos2=-RRB-	9	prep	_	O
+16	#notmypresident	#notmypresident	UH	pos2=NN	9	discourse	_	O
+

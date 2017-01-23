@@ -1,0 +1,17 @@
+1	Floridaians	floridaians	NNS	pos2=NNPS	2	nsubj	_	O
+2	have	have	VBP	pos2=VB	0	root	_	O
+3	highest	high	JJS	pos2=JJR	4	nmod	_	O
+4	enrollment	enrollment	NN	_	2	dobj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	Obamacare	obamacare	NNP	_	5	pobj	_	U-ORG
+7	but	but	CC	_	2	cc	_	O
+8	voted	vote	VBD	pos2=VBN	2	conj	_	O
+9	for	for	IN	_	8	prep	_	O
+10	Trump	trump	NNP	pos2=NN	9	pobj	_	U-PERSON
+11	...	..	.	_	2	punct	_	O
+
+1	#floridaiscrazy	#floridaiscrazy	UH	pos2=XX	4	discourse	_	O
+2	#wtfwereyouthinking	#wtfwereyouthinking	UH	pos2=VBG	4	discourse	_	O
+3	#obamacare	#obamacare	UH	pos2=VB	4	discourse	_	O
+4	#florida	#florida	UH	pos2=.	0	root	_	O
+

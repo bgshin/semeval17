@@ -1,0 +1,11 @@
+1	How	how	WRB	_	4	advmod	_	O
+2	Data	data	NNP	pos2=NN	4	npadvmod	_	O
+3	-	-	HYPH	_	4	punct	_	O
+4	Driven	drive	VBN	pos2=NNP	10	nmod	_	O
+5	Recruitment	recruitment	NNP	pos2=NN	8	compound	_	B-ORG
+6	Advertising	advertising	NNP	pos2=NN	7	compound	_	I-ORG
+7	Became	became	NNP	pos2=VBD	10	dep	_	L-ORG
+8	Standard	standard	JJ	pos2=NNP	9	nmod	_	O
+9	https://t.co/zvsk81lvrm	#hlink#	ADD	_	10	nmod	_	O
+10	https://t.co/4cJvKi3Y0p	#hlink#	ADD	_	0	root	_	U-ORG
+

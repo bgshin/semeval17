@@ -1,0 +1,15 @@
+1	#BeautyQueen	#beautyqueen	NNP	pos2=NN	3	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	Revenge	revenge	NN	pos2=NNP	9	nsubj	_	O
+4	on	on	IN	_	3	prep	_	O
+5	SCARY	scary	JJ	_	6	nmod	_	O
+6	TRUCKERS	trucker	NNS	_	4	pobj	_	O
+7	https://t.co/jcEtBJkAFM	#hlink#	ADD	pos2=VBP	3	appos	_	O
+8	#ScreamQueens	#screamqueens	NNS	pos2=VBZ	9	nsubj	_	O
+9	#horror	#horror	VBP	pos2=IN	0	root	_	O
+10	#audio	#audio	UH	pos2=FW	9	discourse	_	O
+11	#books	#books	UH	pos2=NNS	9	discourse	_	O
+12	#nightdriver	#nightdriver	UH	pos2=WRB	9	discourse	_	O
+13	#Periscope	#periscope	UH	pos2=NNP	9	discourse	_	O
+14	#blackfriday	#blackfriday	UH	pos2=FW	9	discourse	_	O
+

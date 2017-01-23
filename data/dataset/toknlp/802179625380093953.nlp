@@ -1,0 +1,26 @@
+1	@yaycapitalism	@yaycapitalism	UH	pos2=IN	4	discourse	_	O
+2	Their	their	PRP$	_	3	poss	_	O
+3	goal	goal	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	Equality	equality	NNP	pos2=NN	4	attr	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	Hierarchy	hierarchy	NN	pos2=VB	2	compound	_	O
+2	results	result	NNS	pos2=VBZ	0	root	_	O
+3	because	because	IN	_	5	mark	_	O
+4	hierarchy	hierarchy	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	2	advcl	_	O
+6	the	the	DT	_	7	det	_	O
+7	state	state	NN	_	5	attr	_	O
+8	of	of	IN	_	7	prep	_	O
+9	nature	nature	NN	_	8	pobj	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	Rightists	rightist	NNS	pos2=NNPS	2	nsubj	_	U-NORP
+2	know	know	VBP	pos2=VB	0	root	_	O
+3	this	this	DT	_	2	dobj	_	O
+4	,	,	,	_	2	punct	_	O
+5	if	if	IN	_	7	mark	_	O
+6	only	only	RB	_	7	advmod	_	O
+7	instinctively	instinctively	RB	_	2	advmod	_	O
+

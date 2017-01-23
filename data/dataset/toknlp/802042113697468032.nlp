@@ -1,0 +1,18 @@
+1	After	after	IN	_	5	prep	_	O
+2	Mosul	mosul	NNP	_	1	pobj	_	U-GPE
+3	,	,	,	_	9	punct	_	O
+4	Iraq	iraq	NNP	_	7	poss	_	U-GPE
+5	’s	's	POS	_	4	case	_	O
+6	#Kurds	#kurds	JJ	pos2=NNP	7	nmod	_	O
+7	face	face	NN	pos2=VBP	9	nmod	_	O
+8	internal	internal	JJ	_	9	nmod	_	O
+9	crisis	crisis	NN	_	10	dep	_	O
+10	https://t.co/qN8Ng6Xjnq	#hlink#	ADD	pos2=RBR	15	nsubj	_	O
+11	via	via	IN	_	9	prep	_	O
+12	@WSJ	@wsj	NNP	pos2=$	11	pobj	_	U-ORG
+13	@KurdistanRegion	@kurdistanregion	ADD	pos2=NNP	14	nmod	_	O
+14	#TwitterKurds	#twitterkurds	NNS	pos2=NNPS	10	prep	_	O
+15	#MosulOffensive	#mosuloffensive	ADD	pos2=VBP	0	root	_	O
+16	#KRG	#krg	$	pos2=NN	17	punct	_	B-PERSON
+17	#Iraq	#iraq	NNP	pos2=NNS	15	dobj	_	L-PERSON
+

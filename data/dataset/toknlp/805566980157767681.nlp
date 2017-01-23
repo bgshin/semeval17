@@ -1,0 +1,12 @@
+1	.	.	.	_	0	punct	_	O
+
+1	This	this	DT	_	3	nsubj	_	O
+2	will	will	MD	_	3	aux	_	O
+3	make	make	VB	_	0	root	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	rethink	rethink	VB	_	3	ccomp	_	O
+6	animal	animal	NN	_	7	compound	_	O
+7	testing	testing	NN	pos2=VBG	8	compound	_	O
+8	#CambridgeKillers	#cambridgekillers	NNS	pos2=GW	5	dobj	_	O
+9	https://t.co/JQIMbzMv7x	#hlink#	ADD	_	7	appos	_	O
+

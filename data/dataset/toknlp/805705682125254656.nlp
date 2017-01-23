@@ -1,0 +1,15 @@
+1	Video	video	NN	_	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	Far	far	RB	pos2=JJ	4	advmod	_	O
+4	right	right	RB	pos2=JJ	5	advmod	_	O
+5	at	at	IN	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	gates	gate	NNS	_	5	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	power	power	NN	_	8	pobj	_	O
+10	in	in	IN	_	7	prep	_	O
+11	Austria	austria	NNP	_	10	pobj	_	U-GPE
+12	https://t.co/2bk34ifaLQ	#hlink#	ADD	pos2=NNP	11	appos	_	O
+13	via	via	IN	_	12	prep	_	O
+14	@FRANCE24	@france0	NN	pos2=CD	13	pobj	_	O
+

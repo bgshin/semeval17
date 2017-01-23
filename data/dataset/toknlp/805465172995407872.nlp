@@ -1,0 +1,12 @@
+1	British	british	JJ	_	2	nmod	_	U-NORP
+2	firms	firm	NNS	_	3	nsubj	_	O
+3	warned	warn	VBD	pos2=VBN	0	root	_	O
+4	of	of	IN	_	3	prep	_	O
+5	ISIS	isis	NNP	pos2=NN	8	nmod	_	U-ORG
+6	chemical	chemical	JJ	pos2=NN	7	compound	_	O
+7	drone	drone	NN	_	8	compound	_	O
+8	strikes	strike	NNS	pos2=VBZ	4	pobj	_	O
+9	https://t.co/w3FR3SzVGh	#hlink#	ADD	pos2=VBP	7	appos	_	O
+10	via	via	IN	_	3	prep	_	O
+11	@FinancialXpress	@financialxpress	NN	pos2=ADD	10	pobj	_	O
+

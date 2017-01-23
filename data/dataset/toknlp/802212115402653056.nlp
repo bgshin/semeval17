@@ -1,0 +1,17 @@
+1	@megynkelly	@megynkelly	UH	pos2=RB	6	prep	_	O
+2	@petestavros	@petestavros	UH	pos2=NNS	7	discourse	_	O
+3	by	by	IN	_	0	agent	_	O
+4	the	the	DT	_	5	det	_	O
+5	way	way	NN	_	3	pobj	_	O
+6	we	we	PRP	_	8	nsubj	_	O
+7	are	be	VBP	_	8	aux	_	O
+8	buying	buy	VBG	_	5	relcl	_	O
+9	your	your	PRP$	_	10	poss	_	O
+10	book	book	NN	_	8	dobj	_	O
+11	for	for	IN	_	8	prep	_	O
+12	us	us	PRP	_	11	pobj	_	O
+13	and	and	CC	_	12	cc	_	O
+14	our	our	PRP$	_	16	poss	_	O
+15	grand	grand	JJ	_	16	nmod	_	O
+16	kids	kid	NNS	_	12	conj	_	O
+

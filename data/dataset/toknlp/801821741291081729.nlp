@@ -1,0 +1,19 @@
+1	Arthur	arthur	NNP	pos2=NN	5	nsubj	_	U-PERSON
+2	and	and	CC	_	1	cc	_	O
+3	Psycops	psycops	NNP	pos2=NNPS	1	conj	_	U-ORG
+4	have	have	VBP	_	5	aux	_	O
+5	been	be	VBN	_	0	root	_	O
+6	friends	friend	NNS	_	5	attr	_	O
+7	since	since	IN	_	5	prep	_	O
+8	childhood	childhood	NN	_	7	pobj	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	Couple	couple	NN	_	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	bad	bad	JJ	_	4	nmod	_	O
+4	hombres	hombre	NNS	_	2	pobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	#gorelords	#gorelords	UH	pos2=NNS	2	discourse	_	O
+2	https://t.co/PfQQq3y6QO	#hlink#	ADD	pos2=NN	0	root	_	O
+

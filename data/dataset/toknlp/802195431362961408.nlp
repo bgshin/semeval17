@@ -1,0 +1,16 @@
+1	Poroshenko	poroshenko	FW	pos2=NNP	15	nmod	_	O
+2	signs	sign	NNS	pos2=VBZ	3	compound	_	O
+3	law	law	NN	pos2=FW	15	dep	_	O
+4	allowing	allow	VBG	_	3	acl	_	O
+5	National	national	NNP	_	7	compound	_	B-ORG
+6	Broadcasting	broadcasting	NNP	_	7	compound	_	I-ORG
+7	Council	council	NNP	_	4	dobj	_	L-ORG
+8	to	to	IN	pos2=TO	4	prep	_	O
+9	fine	fine	JJ	pos2=VB	10	nmod	_	O
+10	TV	tv	NN	pos2=NNP	8	pobj	_	O
+11	and	and	CC	_	10	cc	_	O
+12	radio	radio	NN	pos2=GW	10	conj	_	O
+13	channels	channel	NNS	pos2=GW	15	dep	_	O
+14	https://t.co/VPU0x1QMfE	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/4m0PELkmPs	#hlink#	ADD	_	0	root	_	U-ORG
+

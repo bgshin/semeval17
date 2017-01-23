@@ -1,0 +1,15 @@
+1	Chevy	chevy	NNP	_	4	poss	_	O
+2	’s	's	POS	_	1	case	_	O
+3	Electric	electric	NNP	pos2=JJ	4	compound	_	O
+4	Car	car	NNP	_	5	nsubj	_	O
+5	Travels	travel	VBZ	_	0	root	_	O
+6	Farther	far	RB	pos2=NNP	5	advmod	_	O
+7	Per	per	IN	pos2=NNP	6	prep	_	O
+8	Charge	charge	NNP	pos2=NN	7	pobj	_	O
+9	Than	than	IN	pos2=NNP	6	prep	_	O
+10	Tesla	tesla	NNP	_	13	poss	_	U-ORG
+11	’s	's	POS	_	10	case	_	O
+12	Model	model	NNP	pos2=NN	13	compound	_	O
+13	S	s	NNP	pos2=NN	9	pobj	_	O
+14	https://t.co/wXypL7K17t	#hlink#	ADD	_	13	attr	_	O
+

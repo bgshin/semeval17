@@ -1,0 +1,22 @@
+1	Tesla	tesla	NNP	_	3	compound	_	O
+2	Model	model	NNP	pos2=NN	3	compound	_	B-PRODUCT
+3	S	s	NNP	pos2=NN	0	root	_	I-PRODUCT
+4	85	0	CD	_	3	npadvmod	_	L-PRODUCT
+5	,	,	,	_	3	punct	_	O
+6	P85	p0	NN	_	3	appos	_	B-ORG
+7	&	&	CC	_	6	cc	_	I-ORG
+8	P85	p0	NN	_	6	conj	_	L-ORG
+9	+	+	SYM	_	4	punct	_	O
+10	Hire	hire	VB	pos2=NN	14	advcl	_	O
+11	/	/	SYM	pos2=,	14	punct	_	O
+12	Chauffeur	chauffeur	NN	pos2=NNP	14	nmod	_	O
+13	/	/	SYM	pos2=HYPH	14	punct	_	O
+14	Driving	drive	VBG	pos2=NN	17	acl	_	O
+15	experience	experience	NN	_	16	compound	_	O
+16	packages	package	NNS	_	14	dobj	_	O
+17	https://t.co/HB5tD1JFZ5	#hlink#	ADD	pos2=VBP	0	root	_	O
+18	#TeslaMotors	#teslamotors	NNS	pos2=-RRB-	19	compound	_	O
+19	#ModelS	#models	NNS	pos2=ADD	21	compound	_	O
+20	#Tesla	#tesla	NNP	pos2=NNS	21	compound	_	U-GPE
+21	#EV	#ev	NN	pos2=XX	10	dobj	_	O
+

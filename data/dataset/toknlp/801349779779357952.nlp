@@ -1,0 +1,17 @@
+1	#ISIS	#isis	NN	pos2=DT	2	compound	_	O
+2	prisoner	prisoner	NN	_	8	vocative	_	O
+3	in	in	IN	_	2	prep	_	O
+4	#Iraq	#iraq	NNP	pos2=CD	3	pobj	_	U-PERSON
+5	:	:	:	_	2	punct	_	O
+6	"	"	``	_	2	punct	_	O
+7	I	I	PRP	_	8	nsubj	_	O
+8	regret	regret	VBP	_	0	root	_	O
+9	my	my	PRP$	_	10	poss	_	O
+10	actions	action	NNS	_	8	dobj	_	O
+11	"	"	''	_	8	punct	_	O
+12	:	:	:	_	8	punct	_	O
+13	https://t.co/8OY8KCIGcH#MosulOffensive	#hlink#	ADD	_	8	dep	_	O
+14	#refugeecrisis	#refugeecrisis	-RRB-	pos2=IN	13	punct	_	O
+15	#baghdadi	#baghdadi	UH	pos2=-RRB-	8	discourse	_	O
+16	#syria	#syria	UH	pos2=FW	8	discourse	_	O
+

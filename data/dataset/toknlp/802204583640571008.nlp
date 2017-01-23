@@ -1,0 +1,22 @@
+1	White	white	JJ	pos2=NNP	2	nmod	_	O
+2	supremacists	supremacist	NNS	_	3	nsubj	_	O
+3	want	want	VBP	pos2=VB	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	ancient	ancient	JJ	_	6	nmod	_	O
+6	Egyptians	egyptian	NNPS	_	8	nsubj	_	U-NORP
+7	to	to	TO	_	8	aux	_	O
+8	be	be	VB	_	3	ccomp	_	O
+9	Caucasian	caucasian	JJ	pos2=NNP	8	acomp	_	U-NORP
+10	only	only	RB	_	13	advmod	_	O
+11	because	because	IN	_	13	mark	_	O
+12	it	it	PRP	_	13	nsubj	_	O
+13	supports	support	VBZ	_	21	advcl	_	O
+14	their	their	PRP$	_	15	poss	_	O
+15	belief	belief	NN	_	13	dobj	_	O
+16	of	of	IN	_	15	prep	_	O
+17	being	be	VBG	_	16	pcomp	_	O
+18	the	the	DT	_	20	det	_	O
+19	su	su	GW	pos2=NNS	21	nmod	_	O
+20	…	…	NFP	pos2=-LRB-	21	punct	_	O
+21	https://t.co/QO3WMYFKkX	#hlink#	ADD	pos2=NN	0	root	_	O
+

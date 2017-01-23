@@ -1,0 +1,11 @@
+1	Stop	stop	VB	_	0	root	_	O
+2	Steve	steve	NNP	_	3	compound	_	B-PERSON
+3	Bannon	bannon	NNP	_	8	dobj	_	L-PERSON
+4	https://t.co/0ZAOKGWJCY	#hlink#	ADD	pos2=POS	0	root	_	O
+5	@moveon	@moveon	NNP	pos2=MD	6	nsubj	_	O
+6	Sign	sign	VB	pos2=NN	1	ccomp	_	O
+7	&	&	CC	pos2=.	6	cc	_	O
+8	Share	share	VB	pos2=NNP	6	conj	_	O
+9	Please	please	UH	_	10	discourse	_	O
+10	😊	😊	VB	pos2=.	1	dep	_	U-LANGUAGE
+

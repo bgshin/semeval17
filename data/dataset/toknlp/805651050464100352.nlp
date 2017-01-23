@@ -1,0 +1,13 @@
+1	Ireland	ireland	NNP	pos2=NN	6	dep	_	U-GPE
+2	:	:	:	_	6	punct	_	O
+3	Legal	legal	JJ	pos2=NNP	5	nmod	_	O
+4	Medical	medical	NNP	pos2=JJ	5	compound	_	O
+5	Marijuana	marijuana	NNP	pos2=NN	6	nsubj	_	O
+6	Possible	possible	JJ	pos2=NNP	0	root	_	O
+7	In	in	IN	_	6	prep	_	O
+8	The	the	DT	pos2=NNP	10	det	_	O
+9	Near	near	NNP	pos2=GW	10	compound	_	O
+10	Future	future	NNP	pos2=GW	7	pobj	_	O
+11	https://t.co/mYYHqVsAT3	#hlink#	ADD	_	12	nmod	_	O
+12	https://t.co/gocYxh24iB	#hlink#	ADD	_	6	dep	_	U-ORG
+

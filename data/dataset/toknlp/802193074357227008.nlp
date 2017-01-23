@@ -1,0 +1,6 @@
+1	Happy	happy	JJ	_	4	nmod	_	O
+2	Canadian	canadian	JJ	pos2=NNP	4	nmod	_	U-NORP
+3	Valentines	valentines	NNP	_	4	compound	_	B-EVENT
+4	Day	day	NNP	pos2=NN	0	root	_	L-EVENT
+5	!	!	.	_	4	punct	_	O
+

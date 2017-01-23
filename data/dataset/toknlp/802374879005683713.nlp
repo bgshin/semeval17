@@ -1,0 +1,6 @@
+1	@Shilaamzah	@shilaamzah	NNP	pos2=SYM	4	nmod	_	O
+2	comey	comey	JJ	pos2=NNP	4	nmod	_	O
+3	nye	nye	FW	pos2=NNP	4	nmod	_	O
+4	awk	awk	NN	pos2=FW	0	root	_	O
+5	..	..	.	pos2=,	4	punct	_	O
+

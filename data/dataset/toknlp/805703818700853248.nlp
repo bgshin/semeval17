@@ -1,0 +1,27 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@DefraGovUK	@defragovuk	NN	pos2=ADD	5	dep	_	O
+2	please	please	UH	_	5	discourse	_	O
+3	can	can	MD	_	5	aux	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	stop	stop	VB	_	0	root	_	O
+6	hiding	hide	VBG	pos2=NN	5	xcomp	_	O
+7	discussions	discussion	NNS	_	6	dobj	_	O
+8	on	on	IN	_	7	prep	_	O
+9	#fracking	#fracking	VBG	pos2=NN	8	pobj	_	O
+10	and	and	CC	_	5	cc	_	O
+11	make	make	VB	_	5	conj	_	O
+12	sure	sure	JJ	_	13	nmod	_	O
+13	people	people	NNS	_	16	nsubjpass	_	O
+14	are	be	VBP	_	16	auxpass	_	O
+15	n't	not	RB	_	16	neg	_	O
+16	kept	keep	VBN	_	11	ccomp	_	O
+17	in	in	IN	pos2=RP	16	prep	_	O
+18	the	the	DT	_	19	det	_	O
+19	dark	dark	NN	pos2=JJ	17	pobj	_	O
+20	on	on	IN	_	16	prep	_	O
+21	an	an	DT	_	23	det	_	O
+22	important	important	JJ	_	23	nmod	_	O
+23	issue	issue	NN	_	20	pobj	_	O
+24	?	?	.	_	5	punct	_	O
+

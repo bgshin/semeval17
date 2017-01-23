@@ -1,0 +1,9 @@
+1	Kim	kim	NNP	_	4	compound	_	B-PERSON
+2	Jong	jong	NNP	_	4	compound	_	I-PERSON
+3	-	-	HYPH	_	4	punct	_	I-PERSON
+4	un	un	NNP	_	5	nsubj	_	L-PERSON
+5	is	be	VBZ	_	0	root	_	O
+6	fat	fat	JJ	pos2=NN	7	nmod	_	O
+7	man	man	NN	pos2=UH	5	attr	_	O
+8	!	!	.	_	5	punct	_	O
+

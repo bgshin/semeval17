@@ -1,0 +1,25 @@
+1	Mike	mike	NNP	_	2	compound	_	B-PERSON
+2	Pence	penny	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	19	ccomp	_	O
+4	a	a	DT	_	6	det	_	O
+5	creationist	creationist	JJ	pos2=NN	6	nmod	_	O
+6	idiot	idiot	NN	_	3	attr	_	O
+7	who	who	WP	_	8	nsubj	_	O
+8	supports	support	VBZ	_	6	relcl	_	O
+9	gay	gay	JJ	pos2=NN	10	nmod	_	O
+10	conversion	conversion	NN	_	11	compound	_	O
+11	therapy	therapy	NN	_	8	dobj	_	O
+12	but	but	CC	_	11	cc	_	O
+13	not	not	RB	_	12	neg	_	O
+14	evolution	evolution	NN	_	11	conj	_	O
+15	or	or	CC	_	14	cc	_	O
+16	abortion	abortion	NN	_	14	conj	_	O
+17	,	,	,	_	19	punct	_	O
+18	religion	religion	NN	_	19	nsubj	_	O
+19	has	have	VBZ	_	0	root	_	O
+20	no	no	DT	_	21	det	_	O
+21	place	place	NN	_	19	dobj	_	O
+22	in	in	IN	_	21	prep	_	O
+23	2016	0	CD	_	24	nmod	_	U-DATE
+24	politics	politics	NNS	_	22	pobj	_	O
+

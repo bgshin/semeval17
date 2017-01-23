@@ -1,0 +1,15 @@
+1	@Mysonne	@mysonne	NNP	pos2=ADD	2	compound	_	B-PERSON
+2	@NYjusticeleague	@nyjusticeleague	NNP	pos2=ADD	3	nsubj	_	L-PERSON
+3	leads	lead	VBZ	_	0	root	_	O
+4	#FirePanatleo	#firepanatleo	NNP	pos2=JJ	5	compound	_	U-ORG
+5	chant	chant	NN	pos2=VB	3	dobj	_	O
+6	in	in	IN	_	3	prep	_	O
+7	the	the	DT	_	10	det	_	B-DATE
+8	#JusticeNOW	#justicenow	NNP	pos2=NN	10	compound	_	I-DATE
+9	#BlackFriday	#blackfriday	NNP	pos2=NN	10	compound	_	I-DATE
+10	March	march	NNP	_	6	pobj	_	L-DATE
+11	for	for	IN	_	3	prep	_	O
+12	#EricGarner	#ericgarner	GW	pos2=NNP	11	pobj	_	B-DATE
+13	…	…	NFP	pos2=GW	14	punct	_	L-DATE
+14	https://t.co/77IT0OBpNi	#hlink#	ADD	pos2=NN	3	dep	_	O
+

@@ -1,0 +1,27 @@
+1	#MAGA	#maga	NN	pos2=UH	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	https://t.co/pOkfg5r9TI	#hlink#	ADD	pos2=NN	7	nsubjpass	_	O
+2	In	in	IN	_	1	prep	_	O
+3	North	north	NNP	_	4	compound	_	B-GPE
+4	Korea	korea	NNP	_	2	pobj	_	L-GPE
+5	you	you	PRP	_	7	nsubjpass	_	O
+6	get	get	VBP	pos2=VB	7	auxpass	_	O
+7	punished	punish	VBN	_	0	root	_	O
+8	for	for	IN	_	7	prep	_	O
+9	criticizing	criticize	VBG	_	8	pcomp	_	O
+10	Kim	kim	NNP	_	13	compound	_	B-PERSON
+11	Jong	jong	NNP	_	13	compound	_	I-PERSON
+12	-	-	HYPH	_	13	punct	_	I-PERSON
+13	un	un	NNP	pos2=NN	9	dobj	_	L-PERSON
+14	:	:	:	_	7	punct	_	O
+15	on	on	IN	_	20	prep	_	O
+16	Reddit	reddit	NNP	pos2=NN	15	pobj	_	U-ORG
+17	,	,	,	_	20	punct	_	O
+18	you	you	PRP	_	20	nsubjpass	_	O
+19	get	get	VBP	_	20	auxpass	_	O
+20	banned	ban	VBN	_	7	conj	_	O
+21	for	for	IN	_	20	prep	_	O
+22	criticizing	criticize	VBG	_	21	pcomp	_	O
+23	Mods	mod	NNS	pos2=NNPS	22	dobj	_	O
+

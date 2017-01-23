@@ -1,0 +1,25 @@
+1	@BrianSchoeneman	@brianschoeneman	NNP	pos2=NN	3	compound	_	O
+2	Trump	trump	NNP	pos2=NN	3	compound	_	B-ORG
+3	Precincts	precinct	NNPS	pos2=NNP	4	nsubj	_	L-ORG
+4	did	do	VBD	_	0	root	_	O
+5	which	which	WDT	_	6	nsubj	_	O
+6	is	be	VBZ	_	3	relcl	_	O
+7	Nearly	nearly	RB	_	8	advmod	_	O
+8	Impossible	impossible	JJ	_	6	acomp	_	O
+9	,	,	,	_	6	punct	_	O
+10	or	or	CC	_	6	cc	_	O
+11	All	all	DT	pos2=NNP	17	nsubj	_	O
+12	they	they	PRP	_	14	nsubj	_	O
+13	would	would	MD	_	14	aux	_	O
+14	have	have	VB	_	11	relcl	_	O
+15	to	to	TO	_	16	aux	_	O
+16	do	do	VB	_	14	xcomp	_	O
+17	is	be	VBZ	_	6	conj	_	O
+18	kick	kick	VB	_	17	xcomp	_	O
+19	Names	name	NNS	pos2=NNPS	18	dobj	_	O
+20	of	of	IN	_	19	prep	_	O
+21	the	the	DT	_	24	det	_	O
+22	Voter	voter	NNP	pos2=NN	24	compound	_	O
+23	Registration	registration	NN	pos2=NNP	24	compound	_	O
+24	Lists	list	NNS	pos2=VBZ	20	pobj	_	O
+

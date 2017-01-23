@@ -1,0 +1,8 @@
+1	She	she	PRP	_	4	nsubj	_	O
+2	totally	totally	RB	_	4	advmod	_	O
+3	Melania	melania	NNP	_	4	nsubj	_	U-PERSON
+4	'd	have	VBD	pos2=NNP	0	root	_	O
+5	that	that	DT	pos2=IN	7	det	_	O
+6	speech	speech	NN	_	7	compound	_	O
+7	#UsefulNewVerbs	#usefulnewverbs	NNS	pos2=ADD	4	dobj	_	O
+

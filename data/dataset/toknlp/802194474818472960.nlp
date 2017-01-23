@@ -1,0 +1,14 @@
+1	#YemenChildren	#yemenchildren	NNS	pos2=TO	2	nsubj	_	O
+2	suffer	suffer	VBP	pos2=VB	0	root	_	O
+3	from	from	IN	_	2	prep	_	O
+4	the	the	DT	_	8	det	_	O
+5	US	us	NNP	_	7	npadvmod	_	U-GPE
+6	-	-	HYPH	_	7	punct	_	O
+7	Saudi	saudi	JJ	pos2=NNP	8	nmod	_	U-NORP
+8	aggression	aggression	NN	_	3	pobj	_	O
+9	against	against	IN	_	8	prep	_	O
+10	#Yemen	#yemen	NNP	pos2=NNS	9	pobj	_	U-ORG
+11	#happythanksgiving	#happythanksgiving	VBG	pos2=GW	13	nmod	_	O
+12	#JohnKerry	#johnkerry	ADD	pos2=GW	13	nmod	_	O
+13	https://t.co/lL41zqpKJx	#hlink#	ADD	_	2	dep	_	O
+

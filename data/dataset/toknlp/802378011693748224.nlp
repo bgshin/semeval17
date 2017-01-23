@@ -1,0 +1,24 @@
+1	@AlfredoCanziani	@alfredocanziani	UH	pos2=NNS	3	dep	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	know	know	VBP	_	0	root	_	O
+4	...	..	.	pos2=,	3	punct	_	O
+
+1	deep	deep	JJ	_	2	nmod	_	O
+2	learning	learning	NN	pos2=JJ	3	nsubj	_	O
+3	promises	promise	VBZ	pos2=NNS	0	root	_	O
+4	us	us	PRP	_	3	dobj	_	O
+5	heaven	heaven	NNP	pos2=NN	3	dobj	_	O
+6	but	but	CC	_	3	cc	_	O
+7	I	I	PRP	_	10	nsubj	_	O
+8	ca	can	MD	_	10	aux	_	O
+9	n't	not	RB	_	10	neg	_	O
+10	talk	talk	VB	_	3	conj	_	O
+11	my	my	PRP$	pos2=RB	16	poss	_	O
+12	through	through	IN	_	10	prep	_	O
+13	the	the	DT	_	16	det	_	O
+14	neural	neural	JJ	_	16	nmod	_	O
+15	net	net	JJ	pos2=NN	16	nmod	_	O
+16	code	code	NN	_	12	pobj	_	O
+17	yet	yet	RB	pos2=CC	10	advmod	_	O
+18	:/	:/	.	pos2=-LRB-	10	punct	_	O
+

@@ -1,0 +1,15 @@
+1	Florist	florist	NN	pos2=NNP	4	poss	_	O
+2	’s	's	POS	_	1	case	_	O
+3	free	free	JJ	_	4	nmod	_	O
+4	speech	speech	NN	_	6	dep	_	O
+5	:	:	:	_	6	punct	_	O
+6	Comparison	comparison	NN	pos2=NNP	10	nsubj	_	O
+7	to	to	IN	_	6	prep	_	O
+8	Melania	melania	NNP	_	9	compound	_	B-PERSON
+9	Trump	trump	NNP	_	7	pobj	_	L-PERSON
+10	is	be	VBZ	_	0	root	_	O
+11	a	a	DT	_	13	det	_	O
+12	false	false	JJ	_	13	nmod	_	O
+13	equivalency	equivalency	NN	_	10	attr	_	O
+14	https://t.co/Ryf5rpJrKy	#hlink#	ADD	pos2=NN	10	dep	_	U-ORG
+

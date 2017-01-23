@@ -1,0 +1,22 @@
+1	Dear	dear	JJ	_	2	nmod	_	O
+2	god	god	NN	pos2=NNS	19	dep	_	O
+3	:	:	:	_	19	punct	_	O
+4	if	if	IN	_	7	mark	_	O
+5	you	you	PRP	_	7	nsubj	_	O
+6	can	can	MD	_	7	aux	_	O
+7	take	take	VB	_	19	advcl	_	O
+8	the	the	DT	_	11	det	_	O
+9	other	other	JJ	_	11	nmod	_	O
+10	Castro	castro	NNP	_	11	compound	_	U-PERSON
+11	brother	brother	NN	_	7	dobj	_	O
+12	and	and	CC	_	11	cc	_	O
+13	Maduro	maduro	NNP	_	11	conj	_	U-PERSON
+14	too	too	RB	_	7	advmod	_	O
+15	,	,	,	_	19	punct	_	O
+16	I	I	PRP	_	19	nsubj	_	O
+17	wo	wo	MD	_	19	aux	_	O
+18	n't	not	RB	_	19	neg	_	O
+19	be	be	VB	_	0	root	_	O
+20	mad	mad	JJ	_	19	acomp	_	O
+21	.	.	.	_	19	punct	_	O
+

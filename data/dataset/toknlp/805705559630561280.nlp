@@ -1,0 +1,26 @@
+1	#TV	#tv	XX	pos2=LS	5	dep	_	O
+2	#Bullshit	#bullshit	IN	pos2=NNP	5	mark	_	O
+3	They	they	PRP	_	5	nsubj	_	O
+4	are	be	VBP	_	5	aux	_	O
+5	saying	say	VBG	_	0	root	_	O
+6	#Brexit	#brexit	NNP	pos2=PRP	7	nsubj	_	U-PERSON
+7	was	be	VBD	_	5	ccomp	_	O
+8	not	not	RB	_	7	neg	_	O
+9	about	about	IN	_	7	prep	_	O
+10	Closing	close	VBG	pos2=NNP	9	pcomp	_	O
+11	borders	border	NNS	_	10	dobj	_	O
+12	and	and	CC	_	10	cc	_	O
+13	leaving	leave	VBG	_	10	conj	_	O
+14	the	the	DT	_	16	det	_	O
+15	single	single	JJ	_	16	nmod	_	O
+16	market	market	NN	_	13	dobj	_	O
+17	??	??	.	_	5	punct	_	O
+
+1	FUNNY	funny	JJ	pos2=NN	2	predet	_	O
+2	THAT	that	DT	pos2=RB	0	root	_	O
+3	??	??	.	_	2	punct	_	O
+
+1	STOP	stop	VB	pos2=NN	0	root	_	O
+2	BULLSHITING	bullshit	VBG	_	1	xcomp	_	O
+3	US	us	NNP	pos2=PRP	2	dobj	_	U-GPE
+

@@ -1,0 +1,30 @@
+1	“	"	``	_	5	punct	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	give	give	VBP	pos2=VB	0	root	_	O
+4	you	you	PRP	_	3	dative	_	O
+5	a	a	DT	_	8	det	_	O
+6	very	very	RB	_	7	advmod	_	O
+7	strong	strong	JJ	_	8	nmod	_	O
+8	hug	hug	NN	_	3	dobj	_	O
+9	and	and	CC	_	3	cc	_	O
+10	I	I	PRP	_	11	nsubj	_	O
+11	bless	bless	VBP	_	3	conj	_	O
+12	you	you	PRP	_	11	dobj	_	O
+13	with	with	IN	_	11	prep	_	O
+14	my	my	PRP$	_	16	poss	_	O
+15	whole	whole	JJ	_	16	nmod	_	O
+16	heart	heart	NN	_	13	pobj	_	O
+17	,	,	,	_	11	punct	_	O
+18	together	together	RB	_	19	advmod	_	O
+19	with	with	IN	_	11	prep	_	O
+20	your	your	PRP$	_	21	poss	_	O
+21	parents	parent	NNS	_	19	pobj	_	O
+22	and	and	CC	_	21	cc	_	O
+23	your	your	PRP$	_	25	poss	_	O
+24	loved	love	VBN	pos2=JJ	25	nmod	_	O
+25	ones	#crd#	NNS	_	21	conj	_	O
+26	.	.	.	_	11	punct	_	O
+
+1	”	"	``	pos2=SYM	2	punct	_	O
+2	https://t.co/20TUnbgYIx	#hlink#	ADD	pos2=NN	0	root	_	O
+

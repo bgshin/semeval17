@@ -1,0 +1,18 @@
+1	VOA60	voa0	NN	pos2=VBD	6	compound	_	O
+2	America	america	NNP	_	4	compound	_	U-GPE
+3	-	-	HYPH	pos2=:	4	punct	_	O
+4	Ukraine	ukraine	NNP	_	6	compound	_	U-GPE
+5	President	president	NNP	_	6	compound	_	O
+6	Poroshenko	poroshenko	NNP	_	7	nsubj	_	U-PERSON
+7	says	say	VBZ	_	0	root	_	O
+8	he	he	PRP	_	9	nsubj	_	O
+9	spoke	speak	VBD	_	7	ccomp	_	O
+10	to	to	IN	_	9	prep	_	O
+11	President	president	NNP	_	13	compound	_	O
+12	-	-	HYPH	_	13	punct	_	O
+13	elect	elect	NNP	_	14	compound	_	O
+14	Trump	trump	NNP	_	10	pobj	_	U-ORG
+15	by	by	IN	_	9	prep	_	O
+16	phone	phone	NN	_	15	pobj	_	O
+17	https://t.co/GGxGMjcy7O	#hlink#	ADD	pos2=NN	9	dep	_	O
+

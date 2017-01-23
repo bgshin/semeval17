@@ -1,0 +1,17 @@
+1	#JustinVerlander	#justinverlander	NN	pos2=VB	5	nmod	_	O
+2	7	0	CD	pos2=LS	16	dep	_	U-CARDINAL
+3	ROOKIE	rookie	NN	_	5	compound	_	O
+4	#Card	#card	NNP	pos2=IN	5	compound	_	O
+5	LOT	lot	NN	pos2=NNP	16	dep	_	O
+6	,	,	,	_	5	punct	_	O
+7	DETROIT	detroit	NNP	_	8	compound	_	B-PERSON
+8	#Tigers	#tigers	NNP	pos2=NNPS	5	appos	_	L-PERSON
+9	,	,	,	_	5	punct	_	O
+10	CY	cy	NNP	pos2=NN	12	nmod	_	U-ORG
+11	YOUNG	young	JJ	pos2=NNP	12	nmod	_	O
+12	WINNER	winner	NN	_	5	appos	_	O
+13	https://t.co/gEJA8U530N	#hlink#	ADD	_	16	dep	_	O
+14	#Baseball	#baseball	NNP	pos2=-RRB-	16	dep	_	B-PERSON
+15	#Pitcher	#pitcher	-LRB-	pos2=ADD	16	punct	_	L-PERSON
+16	https://t.co/gMOUJU6GQ1	#hlink#	ADD	_	0	root	_	O
+

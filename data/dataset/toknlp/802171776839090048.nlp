@@ -1,0 +1,20 @@
+1	@MaguireLori	@maguirelori	ADD	pos2=NN	3	nsubj	_	U-DATE
+2	@SebPolitainment	@sebpolitainment	ADD	pos2=NN	3	nsubj	_	O
+3	Distant	distant	JJ	pos2=NNP	0	root	_	O
+4	from	from	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	media	medium	NNS	pos2=NN	4	pobj	_	O
+7	since	since	IN	_	3	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	results	result	NNS	_	7	pobj	_	O
+10	@elizabethforma	@elizabethforma	NNP	pos2=WDT	14	nsubj	_	O
+11	has	have	VBZ	_	14	aux	_	O
+12	n't	not	RB	_	14	neg	_	O
+13	been	be	VBN	_	14	aux	_	O
+14	celebrating	celebrate	VBG	_	9	relcl	_	O
+15	Thanksgiving	thanksgiving	NNP	pos2=NN	14	dobj	_	U-DATE
+16	w	w	IN	pos2=RB	14	prep	_	O
+17	/	/	HYPH	pos2=,	16	punct	_	O
+18	her	her	PRP$	_	19	poss	_	O
+19	followers	follower	NNS	_	16	pobj	_	O
+

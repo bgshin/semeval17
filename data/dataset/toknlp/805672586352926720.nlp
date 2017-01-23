@@ -1,0 +1,21 @@
+1	@littlemisspudgy	@littlemisspudgy	UH	pos2=XX	2	discourse	_	O
+2	@seriousfunnyguy	@seriousfunnyguy	UH	pos2=NN	0	root	_	O
+3	by	by	IN	_	2	agent	_	O
+4	God	god	NNP	_	3	pobj	_	O
+5	the	the	DT	_	8	det	_	O
+6	whole	whole	JJ	pos2=NN	8	nmod	_	O
+7	birthing	birthing	NN	pos2=JJ	8	compound	_	O
+8	process	process	NN	_	11	nsubj	_	O
+9	&	&	CC	_	8	cc	_	O
+10	thereafter	thereafter	RB	_	11	advmod	_	O
+11	feeding	feed	VBG	_	2	advcl	_	O
+12	the	the	DT	_	13	det	_	O
+13	baby	baby	NN	_	11	dobj	_	O
+14	,	,	,	_	19	punct	_	O
+15	wakeful	wakeful	JJ	_	16	nmod	_	O
+16	nights	night	NNS	_	19	npadvmod	_	U-TIME
+17	,	,	,	_	19	punct	_	O
+18	vaccines	vaccine	NNS	pos2=VBZ	19	nsubj	_	O
+19	OverWhelming	overwhelming	JJ	pos2=NNP	0	root	_	O
+20	..	..	.	pos2=,	19	punct	_	O
+

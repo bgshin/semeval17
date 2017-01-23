@@ -1,0 +1,17 @@
+1	With	with	IN	_	10	prep	_	O
+2	the	the	DT	_	5	det	_	O
+3	most	most	RBS	_	4	advmod	_	O
+4	powerful	powerful	JJ	_	5	nmod	_	O
+5	binoculars	binoculars	NNS	_	1	pobj	_	O
+6	,	,	,	_	10	punct	_	O
+7	I	I	PRP	_	10	nsubj	_	O
+8	can	can	MD	_	10	aux	_	O
+9	not	not	RB	_	10	neg	_	O
+10	see	see	VB	_	0	root	_	O
+11	Alaska	alaska	NNP	_	10	dobj	_	U-GPE
+12	....	..	.	_	10	punct	_	O
+
+1	#MikheilSaakashvili	#mikheilsaakashvili	GW	pos2=NNS	3	nmod	_	B-PERSON
+2	#aphorism	#aphorism	GW	pos2=UH	3	nmod	_	L-PERSON
+3	https://t.co/ciwytmdbYJ	#hlink#	ADD	pos2=NN	0	root	_	O
+

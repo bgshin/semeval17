@@ -1,0 +1,13 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@SpeakerRyan	@speakerryan	ADD	pos2=NNP	2	nsubj	_	U-ORG
+2	wants	want	VBZ	_	0	root	_	O
+3	to	to	TO	pos2=IN	4	aux	_	O
+4	Reform	reform	VB	pos2=NNP	2	xcomp	_	O
+5	Medicare	medicare	NNP	_	4	dobj	_	U-ORG
+6	,	,	,	_	10	punct	_	O
+7	Social	social	NNP	pos2=JJ	8	compound	_	B-NORP
+8	SecurityTo	securityto	NNP	_	10	dep	_	L-NORP
+9	D	d	NN	pos2=GW	10	dep	_	O
+10	eathhttps://t.co/VSsYSQTUL8	#hlink#	ADD	_	5	appos	_	U-ORG
+

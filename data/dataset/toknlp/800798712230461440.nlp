@@ -1,0 +1,19 @@
+1	Reminder	reminder	NN	_	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	what	what	WP	_	7	pobj	_	O
+4	we	we	PRP	_	6	nsubj	_	O
+5	're	be	VBP	_	6	aux	_	O
+6	dealing	deal	VBG	_	2	pcomp	_	O
+7	with	with	IN	_	6	prep	_	O
+8	here	here	RB	_	6	advmod	_	O
+9	.	.	.	_	1	punct	_	O
+
+1	Do	do	VB	_	4	aux	_	O
+2	n't	not	RB	_	4	neg	_	O
+3	be	be	VB	_	4	auxpass	_	O
+4	fooled	fool	VBN	_	0	root	_	O
+5	by	by	IN	_	4	agent	_	O
+6	the	the	DT	_	7	det	_	O
+7	messengers	messenger	NNS	_	5	pobj	_	O
+8	.	.	.	_	4	punct	_	O
+

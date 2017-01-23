@@ -1,0 +1,15 @@
+1	Donald	donald	NNP	_	2	compound	_	B-PERSON
+2	Trump	trump	NNP	_	3	nsubj	_	L-PERSON
+3	shapes	shape	VBZ	_	0	root	_	O
+4	his	his	PRP$	_	5	poss	_	O
+5	cabinet	cabinet	NN	_	3	dobj	_	O
+6	as	as	IN	_	9	mark	_	O
+7	Jill	jill	NNP	_	8	compound	_	B-PERSON
+8	Stein	stein	NNP	_	9	nsubj	_	L-PERSON
+9	presses	press	VBZ	_	3	advcl	_	O
+10	for	for	IN	_	9	prep	_	O
+11	recounts	recount	NNS	pos2=VBZ	10	pobj	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	https://t.co/nwz1xBl1XR	#hlink#	ADD	_	0	root	_	U-ORG
+

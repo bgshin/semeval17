@@ -1,0 +1,7 @@
+1	@suzli05	@suzli0	NN	pos2=-LRB-	6	nmod	_	O
+2	*	*	SYM	pos2=NFP	6	punct	_	O
+3	teringat	teringat	NN	pos2=JJ	4	compound	_	O
+4	ricky	ricky	NN	pos2=JJ	6	compound	_	O
+5	martin	martin	NNP	pos2=NN	6	compound	_	O
+6	😆	😆	NNP	pos2=.	0	root	_	O
+

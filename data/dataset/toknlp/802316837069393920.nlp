@@ -1,0 +1,27 @@
+1	Cop	cop	NN	pos2=NNP	2	compound	_	O
+2	Killings	killing	NNS	pos2=NNPS	0	root	_	O
+3	+	+	SYM	pos2=:	2	punct	_	O
+4	Dustin	dustin	NNP	_	5	compound	_	B-PERSON
+5	VanLiew	vanliew	NNP	_	2	appos	_	L-PERSON
+6	,	,	,	_	5	punct	_	O
+7	the	the	DT	_	8	det	_	O
+8	diff	diff	NN	pos2=NNP	5	appos	_	O
+9	Obama	obama	NNP	_	8	appos	_	B-ORG
+10	&	&	CC	_	9	cc	_	I-ORG
+11	Trump	trump	NNP	pos2=NN	9	conj	_	L-ORG
+12	on	on	IN	_	8	prep	_	O
+13	energy	energy	NN	_	14	compound	_	O
+14	ind	ind	NN	pos2=FW	12	pobj	_	O
+15	+	+	SYM	_	14	punct	_	O
+16	Norman	norman	NNP	_	17	compound	_	B-PERSON
+17	Anderson	anderson	NNP	_	18	nsubj	_	L-PERSON
+18	is	be	VBZ	_	0	root	_	O
+19	on	on	IN	_	18	prep	_	O
+20	fire	fire	NN	_	19	pobj	_	O
+21	about	about	IN	_	18	prep	_	O
+22	Trump	trump	NNP	pos2=NN	23	compound	_	B-PERSON
+23	Admin	admin	NNP	pos2=NN	21	pobj	_	L-PERSON
+24	!	!	.	_	18	punct	_	O
+
+1	https://t.co/nBxUqDbD3C	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,26 @@
+1	Funny	funny	JJ	_	10	dep	_	O
+2	how	how	WRB	_	10	advmod	_	O
+3	phenomena	phenomenon	NN	pos2=NNS	10	nsubj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	"	"	``	_	7	punct	_	O
+6	Fake	fake	NNP	pos2=JJ	7	compound	_	O
+7	News	news	NNP	pos2=NN	4	pobj	_	O
+8	"	"	''	_	7	punct	_	O
+9	only	only	RB	_	10	advmod	_	O
+10	Spawned	spawn	VBN	pos2=VBD	0	root	_	O
+11	in	in	IN	_	10	prep	_	O
+12	2016	0	CD	_	11	pobj	_	U-DATE
+13	&	&	CC	_	10	cc	_	O
+14	how	how	WRB	_	19	advmod	_	O
+15	it	it	PRP	pos2=VBZ	19	nsubjpass	_	O
+16	Sha	sha	NNP	pos2=MD	19	nsubjpass	_	U-PERSON
+17	nt	nt	RB	pos2=MD	19	advmod	_	O
+18	be	be	VB	_	19	auxpass	_	O
+19	applied	apply	VBN	_	10	conj	_	O
+20	to	to	IN	pos2=TO	19	prep	_	O
+21	dems	dems	NNS	pos2=VB	20	pobj	_	O
+22	going	go	VBG	_	21	acl	_	O
+23	backwards#MAGA	backwards#maga	GW	pos2=RB	22	advmod	_	O
+24	…	…	NFP	pos2=GW	25	punct	_	O
+25	https://t.co/lzfB9nkwAu	#hlink#	ADD	pos2=NN	10	dep	_	O
+

@@ -1,0 +1,26 @@
+1	GOD	god	NNP	pos2=NN	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	LOVE	love	VBP	_	9	ccomp	_	O
+4	ONE	#crd#	CD	_	5	nmod	_	U-CARDINAL
+5	DIRECTION	direction	NN	_	3	dobj	_	O
+6	SO	so	RB	_	9	advmod	_	O
+7	MUCH❤️	much❤️	NNP	pos2=RB	9	nsubj	_	U-PERSON
+8	JUST	just	RB	_	9	advmod	_	O
+9	WATCHED	watch	VBD	pos2=VBN	0	root	_	O
+10	#TB1	#tb0	NN	pos2=NNP	11	compound	_	O
+11	D	d	NN	pos2=NNP	12	compound	_	O
+12	#WHEREWEARETOUR	#wherewearetour	NN	pos2=RB	9	dobj	_	O
+13	AND	and	CC	_	9	cc	_	O
+14	LITERALLY	literally	RB	_	17	advmod	_	O
+15	I	I	PRP	_	17	nsubj	_	O
+16	'M	be	VBP	_	17	aux	_	O
+17	CRYING	cry	VBG	_	9	conj	_	O
+18	OUT	out	RB	pos2=RP	19	advmod	_	O
+19	LOUD	loud	RB	pos2=JJ	17	advmod	_	O
+20	!	!	.	_	17	punct	_	O
+
+1	PURE	pure	JJ	_	3	nmod	_	O
+2	TALANT	talant	NN	pos2=NNP	3	compound	_	O
+3	#onedirection	#onedirection	NN	pos2=XX	0	root	_	O
+4	#love	#love	UH	pos2=NN	3	discourse	_	O
+

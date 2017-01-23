@@ -1,0 +1,17 @@
+1	Its	its	PRP$	_	2	poss	_	O
+2	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=NNP	0	root	_	O
+3	..	..	.	pos2=,	2	punct	_	O
+
+1	surely	surely	RB	_	3	advmod	_	O
+2	that	that	DT	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	all	all	PDT	_	6	predet	_	O
+5	the	the	DT	_	6	det	_	O
+6	#wednesdaymotivation	#wednesdaymotivation	NN	pos2=NFP	3	attr	_	O
+7	you	you	PRP	_	8	nsubj	_	O
+8	need	need	VBP	_	6	relcl	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	#getinmybelly	#getinmybelly	RB	pos2=ADD	2	nmod	_	O
+2	https://t.co/jB1J2WIxn6	#hlink#	ADD	pos2=NN	0	root	_	O
+

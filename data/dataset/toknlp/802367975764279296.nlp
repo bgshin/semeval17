@@ -1,0 +1,15 @@
+1	Just	just	RB	_	4	advmod	_	O
+2	do	do	VB	pos2=VBP	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	let	let	VB	_	0	root	_	O
+5	@realDonaldTrump	@realdonaldtrump	NNS	pos2=RB	2	dobj	_	O
+6	within	within	IN	_	5	prep	_	O
+7	arm	arm	NN	pos2=NNS	9	poss	_	O
+8	's	's	POS	_	7	case	_	O
+9	reach	reach	NN	_	6	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Sophie	sophie	NNP	_	10	pobj	_	U-PERSON
+12	.	.	.	_	4	punct	_	O
+
+1	https://t.co/0zmMclyRfT	#hlink#	ADD	_	0	root	_	U-ORG
+

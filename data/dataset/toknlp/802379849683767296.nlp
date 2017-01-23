@@ -1,0 +1,18 @@
+1	@HillaryClinton	@hillaryclinton	NNP	pos2=ADD	2	nsubj	_	O
+2	do	do	VB	pos2=VBP	0	root	_	O
+3	anything	anything	NN	_	2	dobj	_	O
+4	for	for	IN	_	2	prep	_	O
+5	$	$	$	pos2=CD	6	nmod	_	O
+6	PIMP	pimp	NN	pos2=NNP	7	compound	_	U-MONEY
+7	@Alyssa_Milano	@alyssa_milano	NN	pos2=CD	4	pobj	_	O
+8	-	-	:	pos2=HYPH	17	punct	_	O
+9	FAKE	fake	JJ	pos2=NN	11	nmod	_	O
+10	NEWS	news	NN	_	11	compound	_	O
+11	RETWEET	retweet	NN	pos2=NNP	17	dep	_	O
+12	-	-	:	pos2=HYPH	17	punct	_	O
+13	RUSSIANS	russian	NNPS	pos2=NNS	17	nmod	_	U-NORP
+14	/	/	GW	pos2=NFP	17	nmod	_	O
+15	CLINTONS	clintons	GW	pos2=NNS	17	nmod	_	U-PERSON
+16	https://t.co/a2L6vZjOpi	#hlink#	ADD	pos2=GW	17	nmod	_	O
+17	https://t.co/pURc8ssBIy	#hlink#	ADD	_	2	dep	_	U-ORG
+

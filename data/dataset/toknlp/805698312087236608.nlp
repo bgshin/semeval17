@@ -1,0 +1,13 @@
+1	https://t.co/vawoHhluhF.	#hlink#	ADD	pos2=``	3	nmod	_	O
+2	Legal	legal	JJ	pos2=NNP	3	nmod	_	O
+3	framework	framework	NN	_	12	dep	_	O
+4	for	for	IN	_	3	prep	_	O
+5	challenging	challenge	VBG	pos2=JJ	4	pcomp	_	O
+6	U.S.	u.s.	NNP	_	7	compound	_	U-GPE
+7	election	election	NN	_	5	dobj	_	O
+8	by	by	IN	_	5	prep	_	O
+9	brilliant	brilliant	JJ	_	11	nmod	_	O
+10	Larry	larry	NNP	pos2=GW	11	compound	_	B-PERSON
+11	@Lessig	@lessig	NNP	pos2=GW	8	pobj	_	L-PERSON
+12	https://t.co/NNLBgvnAIH	#hlink#	ADD	_	0	root	_	O
+

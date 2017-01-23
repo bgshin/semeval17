@@ -1,0 +1,13 @@
+1	Surprised	surprise	VBN	pos2=JJ	0	root	_	O
+2	by	by	IN	_	1	agent	_	O
+3	https://t.co/gpa0yi9vDE.	#hlink#	ADD	pos2=NNP	2	pobj	_	O
+4	The	the	DT	_	6	det	_	O
+5	1	0	CD	_	6	nmod	_	O
+6	st	st	NN	pos2=NNS	2	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	April	april	NNP	_	7	pobj	_	U-DATE
+9	was	be	VBD	_	1	auxpass	_	O
+10	ages	age	NNS	_	11	npadvmod	_	O
+11	ago	ago	RB	_	9	advmod	_	O
+12	...	..	.	pos2=,	1	punct	_	O
+

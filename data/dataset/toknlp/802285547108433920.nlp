@@ -1,0 +1,23 @@
+1	MT	mt	NN	pos2=NNP	2	compound	_	O
+2	@Night_Owler	@night_owler	NN	pos2=NNP	0	root	_	O
+3	_	_	SYM	pos2=''	2	punct	_	O
+4	:	:	:	_	2	punct	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	helping	help	VBG	_	2	pcomp	_	O
+4	America	america	NNP	_	5	nsubj	_	U-GPE
+5	realize	realize	VB	pos2=VBP	3	ccomp	_	O
+6	what	what	WP	pos2=WDT	11	attr	_	O
+7	a	a	DT	_	8	det	_	O
+8	failure	failure	NN	_	11	attr	_	O
+9	your	your	PRP$	_	10	poss	_	O
+10	policies	policy	NNS	_	11	nsubj	_	O
+11	are	be	VBP	_	5	ccomp	_	O
+12	.	.	.	_	1	punct	_	O
+
+1	#ObamaLegacy	#obamalegacy	ADD	pos2=GW	3	punct	_	O
+2	https://t.co/VPy40gfS9v	#hlink#	ADD	_	3	nmod	_	O
+3	#PJNET	#pjnet	NN	pos2=-RRB-	0	root	_	U-ORG
+

@@ -1,0 +1,14 @@
+1	Pray	pray	VB	pos2=NN	0	root	_	O
+2	for	for	IN	_	1	dative	_	O
+3	our	our	PRP$	_	5	poss	_	O
+4	Pope	pope	NNP	_	5	compound	_	O
+5	Francis	francis	NNP	_	2	pobj	_	U-PERSON
+6	and	and	CC	_	5	cc	_	O
+7	his	his	PRP$	_	8	poss	_	O
+8	ministry	ministry	NN	_	5	conj	_	O
+9	to	to	IN	_	8	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	whole	whole	JJ	_	12	nmod	_	O
+12	world	world	NN	_	9	pobj	_	O
+13	.	.	.	_	1	punct	_	O
+

@@ -1,0 +1,30 @@
+1	Look	look	VB	_	0	root	_	O
+2	who	who	WP	_	5	nsubjpass	_	O
+3	's	's	VBZ	_	5	auxpass	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	arrived	arrive	VBN	pos2=VBD	0	root	_	O
+6	with	with	IN	_	5	prep	_	O
+7	sun	sun	NN	pos2=XX	8	nsubj	_	O
+8	shining	shine	VBG	_	6	pcomp	_	O
+9	upon	upon	IN	_	8	prep	_	O
+10	her	her	PRP	pos2=PRP$	9	pobj	_	O
+11	!	!	.	_	1	punct	_	O
+
+1	This	this	DT	_	6	det	_	O
+2	gorgeous	gorgeous	JJ	_	6	nmod	_	O
+3	2015	0	CD	_	6	nmod	_	U-DATE
+4	Tesla	tesla	NNP	_	6	compound	_	O
+5	Model	model	NNP	pos2=NN	6	compound	_	B-PRODUCT
+6	S	s	NNP	pos2=NN	9	nsubj	_	L-PRODUCT
+7	can	can	MD	_	9	aux	_	O
+8	now	now	RB	_	9	advmod	_	O
+9	be	be	VB	_	0	root	_	O
+10	yours	yours	PRP$	pos2=PRP	9	attr	_	O
+11	.	.	.	_	9	punct	_	O
+
+1	With	with	IN	_	0	root	_	O
+2	only	only	RB	_	0	root	_	O
+3	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/OJZ9qUVoCh	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,10 @@
+1	An	an	DT	_	3	det	_	O
+2	Obamacare	obamacare	NNP	_	3	compound	_	U-ORG
+3	repeal	repeal	NN	pos2=VB	0	root	_	O
+4	on	on	IN	_	3	prep	_	O
+5	horizon	horizon	NN	pos2=NNP	4	pobj	_	O
+6	?	?	.	_	3	punct	_	O
+
+1	via	via	IN	_	0	root	_	O
+2	@msnbc	@msnbc	NN	pos2=UH	1	pobj	_	O
+

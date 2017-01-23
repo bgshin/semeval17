@@ -1,0 +1,28 @@
+1	@peteb1974	@peteb0	NN	pos2=LS	0	root	_	O
+2	@delo_taylor	@delo_taylor	NNP	pos2=IN	4	poss	_	O
+3	@kaepernick7	@kaepernick0	POS	pos2=NN	2	case	_	O
+4	DELO	delo	NNP	pos2=NN	5	nsubj	_	O
+5	LOVES	love	VBZ	_	1	relcl	_	O
+6	SUFFERING	suffering	NN	pos2=VBG	5	dobj	_	O
+7	AND	and	CC	_	6	cc	_	O
+8	OPPRESSION	oppression	NN	_	6	conj	_	O
+9	IF	if	IN	_	11	mark	_	O
+10	IT	it	PRP	_	11	nsubj	_	O
+11	'S	's	VBZ	pos2=CC	5	advcl	_	O
+12	CASTRO	castro	NNP	_	11	attr	_	B-ORG
+13	OR	or	CC	pos2=NNP	12	cc	_	I-ORG
+14	MADURO	maduro	NNP	pos2=NN	12	conj	_	L-ORG
+15	.	.	.	_	1	punct	_	O
+
+1	HE	he	PRP	_	2	nsubj	_	O
+2	NEEDS	need	VBZ	_	0	root	_	O
+3	OPPRESSOR	oppressor	NN	_	2	dobj	_	O
+4	TO	to	IN	pos2=TO	5	aux	_	O
+5	B	b	VB	pos2=NNP	2	advcl	_	O
+6	WHITE	white	JJ	pos2=NNP	5	acomp	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	WHAT	what	WDT	pos2=WP	3	det	_	O
+2	A	a	DT	_	3	det	_	O
+3	PIG	pig	NN	_	0	root	_	O
+

@@ -1,0 +1,17 @@
+1	#BREAKING:#Hezbollah	#breaking:#hezbollah	NN	pos2=NNP	2	nsubj	_	O
+2	condemns	condemn	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	terrorist	terrorist	JJ	pos2=NN	5	nmod	_	O
+5	bombing	bombing	NN	_	2	dobj	_	O
+6	that	that	WDT	_	7	nsubj	_	O
+7	occurred	occur	VBD	_	5	relcl	_	O
+8	in	in	IN	_	7	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	city	city	NN	_	8	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	#Hilla	#hilla	NNP	pos2=NN	11	pobj	_	U-GPE
+13	,	,	,	_	2	punct	_	O
+14	south	south	RB	pos2=NN	2	advmod	_	O
+15	of	of	IN	_	14	prep	_	O
+16	#Baghdad#MosulOps#ISIS#Daesh#PMU#PMF	#baghdad#mosulops#isis#daesh#pmu#pmf	NNP	pos2=NN	15	pobj	_	U-GPE
+

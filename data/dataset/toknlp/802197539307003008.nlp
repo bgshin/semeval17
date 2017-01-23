@@ -1,0 +1,11 @@
+1	Tony	tony	NNP	_	2	compound	_	B-PERSON
+2	Romo	romo	NNP	_	3	nsubj	_	L-PERSON
+3	Reads	read	VBZ	pos2=NNP	0	root	_	O
+4	Statement	statement	NNP	pos2=NN	3	dobj	_	O
+5	Regarding	regard	VBG	pos2=IN	4	prep	_	O
+6	QB	qb	NN	pos2=NNP	7	compound	_	O
+7	Role	role	NN	pos2=NNP	5	pobj	_	O
+8	https://t.co/WNzDpipzVh	#hlink#	ADD	pos2=NN	7	appos	_	O
+9	via	via	IN	_	8	prep	_	O
+10	@dallascowboys	@dallascowboys	NNS	pos2=.	9	pobj	_	O
+

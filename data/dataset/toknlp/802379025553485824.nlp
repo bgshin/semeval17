@@ -1,0 +1,31 @@
+1	@politico	@politico	UH	pos2=NNP	3	discourse	_	O
+2	Who	who	WP	_	3	nsubj	_	O
+3	cares	care	VBZ	_	0	root	_	O
+4	about	about	IN	pos2=RB	3	prep	_	O
+5	stupid	stupid	JJ	_	6	nmod	_	O
+6	cabinet	cabinet	NN	_	8	nmod	_	O
+7	"	"	``	pos2=''	8	punct	_	O
+8	contestants	contestant	NNS	_	4	pobj	_	O
+9	"	"	''	_	8	punct	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	Write	write	VB	_	0	root	_	O
+2	about	about	IN	_	1	prep	_	O
+3	all	all	PDT	_	5	predet	_	O
+4	the	the	DT	_	5	det	_	O
+5	laws	law	NNS	_	2	pobj	_	O
+6	that	that	WDT	_	8	nsubj	_	O
+7	have	have	VBP	_	8	aux	_	O
+8	been	be	VBN	_	5	relcl	_	O
+9	and	and	CC	_	8	cc	_	O
+10	will	will	MD	_	12	aux	_	O
+11	be	be	VB	_	12	auxpass	_	O
+12	broken	break	VBN	_	8	conj	_	O
+13	in	in	IN	_	12	prep	_	O
+14	the	the	DT	_	16	det	_	O
+15	trump	trump	NN	pos2=JJ	16	compound	_	O
+16	regime	regime	NN	_	13	pobj	_	O
+17	.	.	.	_	1	punct	_	O
+
+1	Thnx	thnx	NN	pos2=UH	0	root	_	O
+

@@ -1,0 +1,20 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=ADD	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	from	from	IN	_	2	prep	_	O
+7	@friscojd	@friscojd	NFP	pos2=ADD	6	pobj	_	O
+8	https://t.co/gYhnXwBOyL	#hlink#	ADD	pos2=POS	6	pobj	_	O
+9	Anti-Trump	anti-trump	JJ	pos2=NNP	10	nmod	_	O
+10	Protests	protest	NNS	pos2=NNPS	6	pobj	_	O
+11	And	and	CC	_	10	cc	_	O
+12	Riots	riot	NNS	pos2=NNPS	10	conj	_	O
+13	Backfire	backfire	VBP	pos2=NNP	2	conj	_	O
+14	!!	!!	.	_	2	punct	_	O
+
+1	Students	student	NNS	_	2	nsubj	_	O
+2	Starting	start	VBG	pos2=NNP	0	root	_	O
+3	To	to	TO	pos2=IN	4	aux	_	O
+4	Realize	realize	VB	_	2	xcomp	_	O
+

@@ -1,0 +1,8 @@
+1	#Poroshenko	#poroshenko	NNP	pos2=NN	2	nsubj	_	O
+2	discussed	discuss	VBD	pos2=VBN	0	root	_	O
+3	Russian	russian	JJ	_	4	nmod	_	U-NORP
+4	aggression	aggression	NN	_	2	dobj	_	O
+5	with	with	IN	_	2	prep	_	O
+6	#T	#t	NFP	pos2=NNP	5	pobj	_	O
+7	rumphttps://t.co/PFuqsZNSmm	#hlink#	ADD	pos2=NN	5	pobj	_	O
+

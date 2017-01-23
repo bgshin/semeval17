@@ -1,0 +1,22 @@
+1	BREAKING	break	VBG	pos2=NN	2	nmod	_	O
+2	NEWS	news	NN	_	7	dep	_	O
+3	:	:	:	_	7	punct	_	O
+4	#Hamas	#hamas	NNS	pos2=NNP	6	compound	_	O
+5	#Terror	#terror	NNP	pos2=WDT	6	compound	_	O
+6	Planner	planner	NN	pos2=NNP	7	nsubj	_	O
+7	Expelled	expel	VBN	pos2=VBD	0	root	_	O
+8	From	from	IN	_	7	prep	_	O
+9	Turkey	turkey	NNP	_	8	pobj	_	U-GPE
+10	;	;	,	pos2=:	7	punct	_	O
+11	Move	move	NNP	pos2=VB	12	nsubj	_	O
+12	Seen	see	VBN	pos2=NNP	7	conj	_	O
+13	As	as	IN	pos2=NNP	12	prep	_	O
+14	Prelude	prelude	NNP	pos2=NN	13	pobj	_	O
+15	To	to	IN	_	12	prep	_	O
+16	Restoring	restore	VBG	_	15	pcomp	_	O
+17	Turkish	turkish	JJ	_	19	advmod	_	U-NORP
+18	-	-	HYPH	_	19	punct	_	O
+19	Israeli	israeli	JJ	_	20	nmod	_	O
+20	Ties	tie	NNS	pos2=NNPS	16	dobj	_	O
+21	https://t.co/hD1zsroMXG	#hlink#	ADD	pos2=VBP	7	dep	_	O
+

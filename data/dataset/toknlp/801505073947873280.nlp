@@ -1,0 +1,13 @@
+1	Saakashvili	saakashvili	NNP	pos2=NN	4	dep	_	U-PERSON
+2	:	:	:	_	4	punct	_	O
+3	Ukraine	ukraine	NNP	_	4	nsubj	_	U-GPE
+4	faces	face	VBZ	_	0	root	_	O
+5	chaos	chaos	NN	_	4	dobj	_	O
+6	if	if	IN	_	12	mark	_	O
+7	no	no	DT	_	9	det	_	O
+8	snap	snap	NN	pos2=JJ	9	compound	_	O
+9	elections	election	NNS	_	12	nsubj	_	O
+10	held	hold	VBN	pos2=VBD	9	acl	_	O
+11	https://t.co/obmZHADkt9	#hlink#	ADD	_	12	nmod	_	O
+12	https://t.co/23ziRzS7Bl	#hlink#	ADD	_	4	advcl	_	U-ORG
+

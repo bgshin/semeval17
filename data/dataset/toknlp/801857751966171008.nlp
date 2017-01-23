@@ -1,0 +1,13 @@
+1	Images	image	NNS	_	3	dep	_	O
+2	:	:	:	_	3	punct	_	O
+3	Messi	messi	NNP	pos2=NN	0	root	_	U-PERSON
+4	at	at	IN	_	3	prep	_	O
+5	an	an	DT	_	8	det	_	O
+6	Adidas	adidas	NNP	_	8	compound	_	U-ORG
+7	event	event	NN	_	8	compound	_	O
+8	#fcblive	#fcblive	NN	pos2=CD	4	pobj	_	O
+9	[	[	-LRB-	_	10	punct	_	O
+10	sport	sport	NN	_	3	parataxis	_	O
+11	]	]	-RRB-	_	10	punct	_	O
+12	https://t.co/soAWaRTu9T	#hlink#	ADD	_	3	appos	_	O
+

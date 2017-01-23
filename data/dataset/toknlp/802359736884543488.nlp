@@ -1,0 +1,11 @@
+1	@CBCPolitics	@cbcpolitics	PRP$	pos2=NNS	3	poss	_	O
+2	Total	total	JJ	_	3	nmod	_	O
+3	nonesense	nonesense	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Leave	leave	VB	pos2=NNP	0	root	_	O
+2	Melania	melania	NNP	_	3	compound	_	B-PERSON
+3	Trump	trump	NNP	_	1	dobj	_	L-PERSON
+4	alone	alone	RB	_	1	oprd	_	O
+5	.	.	.	_	1	punct	_	O
+

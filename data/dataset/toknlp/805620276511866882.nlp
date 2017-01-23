@@ -1,0 +1,19 @@
+1	Zac	zac	NNP	_	2	compound	_	B-PERSON
+2	Efron	efron	NNP	_	4	nsubj	_	L-PERSON
+3	just	just	RB	_	4	advmod	_	O
+4	be	be	VB	_	0	root	_	O
+5	buyin	buyin	NN	pos2=XX	8	compound	_	O
+6	Simone	simone	NNP	_	7	compound	_	B-PERSON
+7	Biles	biles	NNP	_	8	compound	_	L-PERSON
+8	skateboards	skateboard	NNS	pos2=VBZ	4	attr	_	O
+9	and	and	CC	_	8	cc	_	O
+10	stuff	stuff	NN	_	8	conj	_	O
+11	...	..	.	pos2=,	4	punct	_	O
+
+1	uh	uh	UH	_	4	discourse	_	O
+2	okay	okay	UH	pos2=JJ	4	discourse	_	O
+3	where	where	WRB	_	4	advmod	_	O
+4	's	's	VBZ	pos2=DT	0	root	_	O
+5	mine	mine	NN	pos2=PRP	4	nsubj	_	O
+6	at	at	IN	pos2=RB	5	prep	_	O
+

@@ -1,0 +1,24 @@
+1	@Brian_Was_Here	@brian_was_here	ADD	pos2=NN	7	det	_	O
+2	_	_	SYM	pos2=NFP	7	punct	_	O
+3	Blocking	block	VBG	_	5	nmod	_	O
+4	WI	wi	NNP	pos2=NN	5	compound	_	U-ORG
+5	MI	mi	NN	pos2=NNP	7	compound	_	B-PRODUCT
+6	PA	pa	NNP	pos2=NN	7	compound	_	I-PRODUCT
+7	FL	fl	NNP	pos2=NN	11	nsubj	_	L-PRODUCT
+8	from	from	IN	_	7	prep	_	O
+9	appointing	appoint	VBG	_	8	pcomp	_	O
+10	electors	elector	NNS	_	9	dobj	_	O
+11	means	mean	VBZ	_	0	root	_	O
+12	Clinton	clinton	NNP	_	13	nsubj	_	U-PERSON
+13	wins	win	VBZ	_	11	ccomp	_	O
+14	Electoral	electoral	NNP	_	15	compound	_	O
+15	College	college	NNP	pos2=NN	16	compound	_	O
+16	majority	majority	NN	_	13	dobj	_	O
+17	232	0	CD	_	19	qmod	_	U-CARDINAL
+18	to	to	IN	pos2=TO	19	qmod	_	O
+19	231	0	CD	_	16	npadvmod	_	U-CARDINAL
+20	per	per	IN	_	19	prep	_	O
+21	12th	#ord#	JJ	pos2=NN	22	nmod	_	O
+22	Amendment	amendment	NN	pos2=NNP	20	pobj	_	O
+23	.	.	.	_	11	punct	_	O
+

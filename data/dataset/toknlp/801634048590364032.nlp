@@ -1,0 +1,13 @@
+1	grayson	grayson	NN	pos2=FW	2	compound	_	O
+2	allen	allen	NNP	pos2=NN	3	nsubj	_	O
+3	sucks	suck	VBZ	_	0	root	_	O
+4	so	so	RB	_	5	advmod	_	O
+5	bad	bad	JJ	_	3	acomp	_	O
+6	his	his	PRP$	_	7	poss	_	O
+7	name	name	NN	_	8	nsubj	_	O
+8	is	be	VBZ	_	5	ccomp	_	O
+9	n't	not	RB	_	8	neg	_	O
+10	even	even	RB	_	11	advmod	_	O
+11	worth	worth	JJ	_	8	acomp	_	O
+12	capitalizing	capitalize	VBG	_	11	xcomp	_	O
+

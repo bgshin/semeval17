@@ -1,0 +1,24 @@
+1	@setislady	@setislady	UH	pos2=XX	9	discourse	_	O
+2	@biologistdan	@biologistdan	UH	pos2=FW	9	discourse	_	O
+3	@gracels	@gracels	UH	pos2=NNS	9	discourse	_	O
+4	@nodapl	@nodapl	UH	pos2=FW	9	discourse	_	O
+5	@potus	@potus	UH	pos2=FW	9	discourse	_	O
+6	DAPL	dapl	NNP	pos2=NN	9	nsubjpass	_	U-ORG
+7	is	be	VBZ	_	9	auxpass	_	O
+8	not	not	RB	_	9	neg	_	O
+9	meant	mean	VBN	_	0	root	_	O
+10	2	0	CD	_	11	nmod	_	U-CARDINAL
+11	supply	supply	NN	pos2=VB	13	dep	_	O
+12	the	the	DT	_	15	det	_	O
+13	US	us	NNP	_	15	nmod	_	U-GPE
+14	2nd	#ord#	JJ	pos2=IN	15	nmod	_	U-ORDINAL
+15	Fracking	fracking	NN	pos2=NNP	18	nsubjpass	_	O
+16	should	should	MD	_	18	aux	_	O
+17	B	b	VB	pos2=RB	18	auxpass	_	O
+18	avoided	avoid	VBN	pos2=VBD	9	ccomp	_	O
+19	as	as	IN	pos2=RB	21	mark	_	O
+20	there	there	EX	pos2=RB	21	expl	_	O
+21	R	r	VBP	pos2=VB	18	advcl	_	O
+22	better	good	JJR	_	23	nmod	_	O
+23	options	option	NNS	_	21	dobj	_	O
+

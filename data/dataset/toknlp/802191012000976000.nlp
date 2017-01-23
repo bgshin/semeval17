@@ -1,0 +1,13 @@
+1	#Palestine	#palestine	NN	pos2=NNP	6	advmod	_	O
+2	|	|	SYM	pos2=,	6	punct	_	O
+3	Palestinian	palestinian	JJ	pos2=NNP	0	root	_	U-NORP
+4	martyred	martyr	VBN	_	3	acl	_	O
+5	by	by	IN	_	4	agent	_	O
+6	Israeli	israeli	JJ	_	7	nmod	_	U-NORP
+7	forces	force	NNS	_	5	pobj	_	O
+8	at	at	IN	_	4	prep	_	O
+9	checkpoint	checkpoint	NN	_	8	pobj	_	O
+10	near	near	IN	pos2=JJ	9	prep	_	O
+11	west	west	JJ	pos2=NN	12	nmod	_	O
+12	bank	bank	NN	_	10	pobj	_	O
+

@@ -1,0 +1,25 @@
+1	New	new	NNP	_	2	compound	_	B-GPE
+2	York	york	NNP	_	3	compound	_	L-GPE
+3	Mayor	mayor	NNP	_	6	compound	_	O
+4	Bill	bill	NNP	_	6	compound	_	B-PERSON
+5	De	de	NNP	_	6	compound	_	I-PERSON
+6	Blasio	blasio	NNP	_	8	nsubj	_	L-PERSON
+7	is	be	VBZ	_	8	aux	_	O
+8	calling	call	VBG	_	0	root	_	O
+9	for	for	IN	_	8	prep	_	O
+10	more	more	JJR	_	9	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	unrest	unrest	NN	_	11	pobj	_	O
+14	that	that	WDT	pos2=IN	17	dobj	_	O
+15	Democrats	democrat	NNPS	_	17	nsubj	_	U-NORP
+16	are	be	VBP	_	17	aux	_	O
+17	stoking	stoke	VBG	_	13	relcl	_	O
+18	across	across	IN	_	17	prep	_	O
+19	America	america	NNP	_	18	pobj	_	U-GPE
+20	,	,	,	_	8	punct	_	O
+21	just	just	RB	_	17	advmod	_	O
+22	...	..	.	_	8	punct	_	O
+
+1	https://t.co/S8uoS6YvCY	#hlink#	ADD	_	0	root	_	U-ORG
+

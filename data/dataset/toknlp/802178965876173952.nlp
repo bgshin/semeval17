@@ -1,0 +1,12 @@
+1	2016's	0's	NNS	_	3	nmod	_	O
+2	main	main	JJ	_	3	nmod	_	O
+3	arguments	argument	NNS	_	0	root	_	O
+4	against	against	IN	_	3	prep	_	O
+5	having	have	VBG	_	4	pcomp	_	O
+6	children	child	NNS	_	5	dobj	_	O
+7	:	:	:	pos2=SYM	3	punct	_	O
+8	November	november	NNP	_	3	npadvmod	_	B-DATE
+9	8	0	CD	_	8	nmod	_	L-DATE
+10	and	and	CC	_	8	cc	_	O
+11	#Hatchimals	#hatchimals	NNS	pos2=ADD	8	conj	_	O
+

@@ -1,0 +1,24 @@
+1	No	no	DT	_	2	det	_	O
+2	fan	fan	NN	_	6	dep	_	O
+3	of	of	IN	_	2	prep	_	O
+4	McConnell	mcconnell	NNP	_	3	pobj	_	U-PERSON
+5	;	;	,	pos2=:	6	punct	_	O
+6	surprised	surprised	JJ	pos2=VBD	0	root	_	O
+7	at	at	IN	_	6	prep	_	O
+8	failure	failure	NN	_	7	pobj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	respond	respond	VB	_	8	acl	_	O
+11	to	to	IN	_	10	prep	_	O
+12	#ministerofpropaganda	#ministerofpropaganda	ADD	pos2=NNP	11	pobj	_	B-DATE
+13	https://t.co/uxvpZPsYGN	#hlink#	ADD	pos2=NN	14	nmod	_	I-DATE
+14	7:27	0	CD	pos2=-RRB-	11	pobj	_	L-DATE
+15	in	in	IN	_	14	prep	_	O
+16	video	video	NN	_	15	pobj	_	O
+17	.	.	.	_	6	punct	_	O
+
+1	Maybe	maybe	RB	_	3	advmod	_	O
+2	he	he	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	human	human	JJ	_	3	acomp	_	O
+5	.	.	.	_	3	punct	_	O
+

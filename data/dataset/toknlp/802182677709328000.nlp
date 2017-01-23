@@ -1,0 +1,18 @@
+1	#Podcast	#podcast	NNP	pos2=PRP$	4	compound	_	O
+2	Rewind	rewind	NN	pos2=NNP	4	compound	_	O
+3	-	-	HYPH	pos2=:	4	punct	_	O
+4	Episode	episode	NN	_	8	dep	_	O
+5	68	0	CD	_	4	npadvmod	_	U-CARDINAL
+6	:	:	:	_	8	punct	_	O
+7	#TheWalkingDead	#thewalkingdead	NN	pos2=VBD	8	compound	_	O
+8	Comic	comic	JJ	pos2=NNP	17	nmod	_	O
+9	vs.	vs.	CC	pos2=FW	8	cc	_	O
+10	@AMC	@amc	IN	pos2=NNP	8	conj	_	U-NORP
+11	TV	tv	NN	pos2=NNP	12	compound	_	O
+12	Show	show	NNP	pos2=NN	10	pobj	_	O
+13	(	(	-LRB-	_	12	punct	_	O
+14	April	april	NNP	_	12	npadvmod	_	B-DATE
+15	2016	0	CD	pos2=GW	14	nmod	_	L-DATE
+16	)	)	-RRB-	_	12	punct	_	O
+17	https://t.co/BTX8DDLsNF	#hlink#	ADD	pos2=NN	0	root	_	O
+

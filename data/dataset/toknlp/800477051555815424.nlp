@@ -1,0 +1,16 @@
+1	This	this	DT	_	2	det	_	B-DATE
+2	year	year	NN	_	4	nsubj	_	L-DATE
+3	just	just	RB	_	4	advmod	_	O
+4	keeps	keep	VBZ	_	0	root	_	O
+5	getting	get	VBG	_	4	xcomp	_	O
+6	more	more	RBR	pos2=JJR	7	advmod	_	O
+7	unreal	unreal	JJ	_	5	acomp	_	O
+8	every	every	DT	_	9	det	_	O
+9	week	week	NN	_	5	npadvmod	_	O
+10	!	!	.	_	4	punct	_	O
+
+1	#whatishappening	#whatishappening	VBG	pos2=UH	4	nmod	_	O
+2	#LinuxFoundation	#linuxfoundation	GW	pos2=NN	4	nmod	_	O
+3	#microsoft	#microsoft	GW	pos2=UH	4	nmod	_	O
+4	https://t.co/5iTMqlIWmE	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,19 @@
+1	@farrm51	@farrm0	NN	pos2=LS	8	nsubj	_	O
+2	Not	not	RB	pos2=CC	8	neg	_	O
+3	your	your	PRP$	_	4	poss	_	O
+4	business	business	NN	_	8	nsubj	_	O
+5	what	what	WP	pos2=WDT	8	dobj	_	O
+6	people	people	NNS	_	8	nsubj	_	O
+7	should	should	MD	_	8	aux	_	O
+8	buy	buy	VB	_	0	root	_	O
+9	for	for	IN	_	8	prep	_	O
+10	themselves	themselves	PRP	_	9	pobj	_	O
+11	.	.	.	_	8	punct	_	O
+
+1	ANY	any	DT	_	3	det	_	O
+2	gun	gun	NN	_	3	compound	_	O
+3	control	control	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	immoral	immoral	JJ	_	4	acomp	_	O
+6	.	.	.	_	4	punct	_	O
+

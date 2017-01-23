@@ -1,0 +1,19 @@
+1	‘	'	``	pos2=POS	4	punct	_	O
+2	Lots	lot	NNS	pos2=NNPS	6	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	kinks	kink	NNS	_	3	pobj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	work	work	VB	_	9	csubjpass	_	O
+7	out	out	RP	_	6	prt	_	O
+8	’	'	''	pos2=POS	4	punct	_	O
+9	understated	understate	VBN	pos2=JJ	16	dep	_	O
+10	:	:	:	_	16	punct	_	O
+11	One	#crd#	CD	_	12	nmod	_	U-CARDINAL
+12	reporter	reporter	NN	_	15	poss	_	O
+13	's	's	POS	pos2=VBZ	12	case	_	O
+14	Obamacare	obamacare	NNP	_	15	compound	_	O
+15	experience	experience	NN	pos2=GW	16	dep	_	O
+16	https://t.co/NAoSwLnlIC	#hlink#	ADD	_	0	root	_	O
+17	via	via	IN	_	16	prep	_	O
+18	@DavidHeitz	@davidheitz	NN	pos2=NNP	17	pobj	_	O
+

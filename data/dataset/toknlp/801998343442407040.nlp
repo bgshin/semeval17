@@ -1,0 +1,14 @@
+1	SIDE	side	NN	_	13	dep	_	O
+2	TO	to	IN	pos2=TO	1	prep	_	O
+3	SIDE	side	NN	pos2=VB	2	pobj	_	O
+4	😘	😘	:	pos2=NNP	1	punct	_	O
+5	@arianagrande	@arianagrande	UH	pos2=ADD	1	discourse	_	O
+6	#sidetoside	#sidetoside	UH	pos2=FW	13	discourse	_	O
+7	#arianagrande	#arianagrande	UH	pos2=VB	13	dep	_	O
+8	#musically	#musically	RB	pos2=UH	13	nmod	_	O
+9	#comunidadgay	#comunidadgay	UH	pos2=MD	13	discourse	_	O
+10	#lgbt🌈	#lgbt🌈	UH	pos2=NFP	13	nmod	_	O
+11	#LOTB	#lotb	GW	pos2=NFP	13	nmod	_	O
+12	…	…	NFP	pos2=GW	13	punct	_	O
+13	https://t.co/tEd8rftAxV	#hlink#	ADD	_	0	root	_	O
+

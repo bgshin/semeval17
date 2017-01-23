@@ -1,0 +1,24 @@
+1	@YourAnonGlobal	@youranonglobal	NNP	pos2=ADD	6	vocative	_	O
+2	Hahaha	hahaha	UH	pos2=NNP	6	discourse	_	O
+3	,	,	,	_	6	punct	_	O
+4	the	the	DT	_	5	det	_	O
+5	#Kremlintrolls	#kremlintrolls	NNS	pos2=NNP	6	nsubj	_	O
+6	go	go	VB	pos2=VBP	0	root	_	O
+7	fucking	fucking	JJ	pos2=RB	8	nmod	_	O
+8	bonkers	bonkers	NNS	_	6	dobj	_	O
+9	.	.	.	_	6	punct	_	O
+
+1	Jeez	jeez	UH	_	4	discourse	_	O
+2	,	,	,	_	4	punct	_	O
+3	they	they	PRP	_	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	angry	angry	JJ	_	4	acomp	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	Read	read	VB	_	0	root	_	O
+2	this	this	DT	_	3	det	_	O
+3	shit	shit	NN	_	1	dobj	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	Roflmao	roflmao	NNP	pos2=UH	0	root	_	U-PERSON
+

@@ -1,0 +1,25 @@
+1	Here	here	RB	_	2	advmod	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	some	some	DT	_	5	det	_	O
+4	@sadatchair	@sadatchair	NN	pos2=JJR	5	compound	_	O
+5	data	datum	NNS	pos2=NN	2	nsubj	_	O
+6	on	on	IN	_	5	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	partisan	partisan	JJ	pos2=NN	9	nmod	_	O
+9	divide	divide	NN	_	6	pobj	_	O
+10	separating	separate	VBG	_	9	acl	_	O
+11	Dem	dem	NNP	pos2=NN	14	nmod	_	O
+12	and	and	CC	_	11	cc	_	O
+13	Rep	rep	NNP	pos2=NN	14	compound	_	U-ORG
+14	views	view	NNS	_	10	dobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	Putin	putin	NNP	_	15	pobj	_	U-PERSON
+17	and	and	CC	_	16	cc	_	O
+18	Russia	russia	NNP	_	20	poss	_	U-GPE
+19	's	's	POS	_	18	case	_	O
+20	role	role	NN	_	16	conj	_	O
+21	in	in	IN	_	20	prep	_	O
+22	the	the	DT	_	23	det	_	O
+23	…	…	NFP	pos2=-LRB-	21	pobj	_	O
+24	https://t.co/94BcPe37MT	#hlink#	ADD	_	2	dep	_	O
+

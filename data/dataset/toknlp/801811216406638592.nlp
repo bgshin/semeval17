@@ -1,0 +1,11 @@
+1	Take	take	VB	_	0	root	_	O
+2	that	that	DT	pos2=IN	3	det	_	O
+3	Liberals	liberal	NNPS	pos2=NNS	1	dobj	_	U-NORP
+4	and	and	CC	_	3	cc	_	O
+5	Alt	alt	NNP	pos2=JJ	7	compound	_	B-NORP
+6	-	-	HYPH	_	7	punct	_	I-NORP
+7	Rightists	rightist	NNPS	_	3	conj	_	L-NORP
+8	!	!	.	_	1	punct	_	O
+
+1	https://t.co/kwVVifhkYs	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,18 @@
+1	@BadASSSery	@badasssery	NN	pos2=NNP	17	dep	_	O
+2	Haitians	haitian	NNPS	pos2=NNS	3	nsubj	_	O
+3	Protest	protest	NNP	pos2=VBP	0	root	_	O
+4	Outside	outside	NNP	pos2=IN	6	compound	_	O
+5	Hillary	hillary	NNP	_	6	compound	_	B-PERSON
+6	Clinton	clinton	NNP	_	8	poss	_	I-PERSON
+7	's	's	POS	_	6	case	_	L-PERSON
+8	Office	office	NNP	_	3	dobj	_	O
+9	Over	over	IN	pos2=NNP	1	prep	_	O
+10	'	'	``	pos2=''	12	punct	_	O
+11	Billions	#crd#	NNS	pos2=NNPS	8	prep	_	U-CARDINAL
+12	Stolen	stolen	NNP	pos2=VBN	9	pobj	_	O
+13	'	'	''	_	12	punct	_	O
+14	by	by	IN	_	12	prep	_	O
+15	Clinton	clinton	NNP	_	16	compound	_	B-PERSON
+16	Founda	founda	NNP	pos2=GW	14	pobj	_	L-PERSON
+17	tionhttps://t.co/LhzK5bFbcY	#hlink#	ADD	_	0	root	_	O
+

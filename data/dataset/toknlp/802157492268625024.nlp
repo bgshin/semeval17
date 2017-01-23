@@ -1,0 +1,13 @@
+1	#Uber	#uber	NNP	pos2=WP	2	nsubj	_	O
+2	Introduced	introduce	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	New	new	NNP	pos2=JJ	5	compound	_	O
+5	Feature	feature	NNP	pos2=NN	2	dobj	_	O
+6	to	to	TO	pos2=IN	8	aux	_	O
+7	"	"	``	_	8	punct	_	O
+8	Thank	thank	NNP	pos2=VB	5	acl	_	O
+9	"	"	''	_	8	punct	_	O
+10	Your	your	PRP$	_	11	poss	_	O
+11	#Driver	#driver	NNP	pos2=GW	8	appos	_	O
+12	https://t.co/XUYO4BxzT7	#hlink#	ADD	pos2=NN	5	appos	_	O
+

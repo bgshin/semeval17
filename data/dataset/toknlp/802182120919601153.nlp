@@ -1,0 +1,12 @@
+1	FC	fc	NNP	pos2=NN	4	compound	_	B-ORG
+2	Arsenal	arsenal	NNP	pos2=NN	4	compound	_	I-ORG
+3	–	-	HYPH	pos2=:	4	punct	_	I-ORG
+4	Bournemouth	bournemouth	NNP	_	5	compound	_	L-ORG
+5	Tipp	tipp	NNP	_	7	dep	_	B-DATE
+6	27.11.2016	0	CD	_	7	dep	_	L-DATE
+7	https://t.co/b7f3Hc9Y6d	#hlink#	ADD	_	0	root	_	U-GPE
+8	#sportwetten	#sportwetten	-RRB-	pos2=ADD	7	punct	_	O
+9	#bonus	#bonus	FW	pos2=UH	7	npadvmod	_	O
+10	#wetttipps	#wetttipps	UH	pos2=FW	7	discourse	_	O
+11	#wettbonus	#wettbonus	UH	pos2=FW	7	discourse	_	O
+

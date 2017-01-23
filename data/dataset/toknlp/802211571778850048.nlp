@@ -1,0 +1,27 @@
+1	@megynkelly	@megynkelly	NN	pos2=RB	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	there	there	EX	pos2=RB	2	expl	_	O
+4	a	a	DT	_	6	det	_	O
+5	special	special	JJ	_	6	nmod	_	O
+6	way	way	NN	_	2	attr	_	O
+7	you	you	PRP	_	9	nsubj	_	O
+8	could	could	MD	_	9	aux	_	O
+9	sign	sign	VB	_	6	relcl	_	O
+10	my	my	PRP$	_	12	poss	_	O
+11	Kindle	kindle	NNP	_	12	compound	_	U-ORG
+12	version	version	NN	_	9	dobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	your	your	PRP$	_	15	poss	_	O
+15	book	book	NN	_	13	pobj	_	O
+16	?	?	.	_	2	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	one	#crd#	CD	pos2=NN	5	nmod	_	U-CARDINAL
+5	downfall	downfall	NN	_	2	attr	_	O
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	e-book	e-book	NN	pos2=NNP	9	compound	_	O
+9	empire	empire	NN	_	6	pobj	_	O
+

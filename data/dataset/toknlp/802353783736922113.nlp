@@ -1,0 +1,25 @@
+1	Celebrating	celebrate	VBG	_	0	root	_	O
+2	romance	romance	NN	_	1	dobj	_	O
+3	,	,	,	_	1	punct	_	O
+4	remembering	remember	VBG	_	1	conj	_	O
+5	Leonard	leonard	NNP	_	6	compound	_	B-PERSON
+6	Cohen	cohen	NNP	_	4	dobj	_	L-PERSON
+7	,	,	,	_	4	punct	_	O
+8	&	&	CC	_	4	cc	_	O
+9	a	a	DT	_	12	det	_	O
+10	sci-fi	sci-fi	JJ	pos2=NN	12	nmod	_	O
+11	Trump	trump	NN	pos2=NNP	12	compound	_	O
+12	rap	rap	NN	_	14	dep	_	O
+13	:	:	:	_	14	punct	_	O
+14	Check	check	VB	_	4	conj	_	O
+15	out	out	RP	_	14	prt	_	O
+16	Cy	cy	NNP	pos2=NN	18	nmod	_	O
+17	+	+	SYM	pos2=NNP	14	punct	_	O
+18	David	david	NNP	_	20	poss	_	U-PERSON
+19	's	's	POS	pos2=VBZ	18	case	_	O
+20	picks	pick	NNS	_	14	dobj	_	O
+21	for	for	IN	_	20	prep	_	O
+22	the	the	DT	_	23	det	_	O
+23	#DoList	#dolist	NN	pos2=ADD	21	pobj	_	O
+24	https://t.co/78jYCbrypq	#hlink#	ADD	_	14	npadvmod	_	O
+

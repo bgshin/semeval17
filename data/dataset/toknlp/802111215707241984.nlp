@@ -1,0 +1,24 @@
+1	#AlAsed	#alased	VBD	pos2=VBN	11	advcl	_	O
+2	#Russia	#russia	NNP	pos2=FW	3	compound	_	B-ORG
+3	#Iran	#iran	NNP	_	1	dobj	_	I-ORG
+4	&	&	CC	_	3	cc	_	I-ORG
+5	#Hezbollah	#hezbollah	NNP	pos2=TO	3	conj	_	L-ORG
+6	destroy	destroy	VBP	pos2=VB	1	ccomp	_	O
+7	#Halab	#halab	NNP	pos2=NNS	6	dobj	_	U-ORG
+8	,	,	,	_	11	punct	_	O
+9	did	do	VBD	_	11	aux	_	O
+10	n't	not	RB	_	11	neg	_	O
+11	move	move	VB	_	21	ccomp	_	O
+12	1	0	CD	_	16	nmod	_	U-CARDINAL
+13	helicopter	helicopter	NN	_	11	dobj	_	O
+14	2	0	CD	_	16	nmod	_	U-CARDINAL
+15	rescue	rescue	NN	_	16	compound	_	O
+16	people	people	NNS	_	11	npadvmod	_	O
+17	,	,	,	_	21	punct	_	O
+18	when	when	WRB	_	19	advmod	_	O
+19	burnt	burn	VBN	_	20	nmod	_	O
+20	#Israel	#israel	NNP	pos2=NN	21	nsubj	_	U-ORG
+21	rose	rise	VBD	_	0	root	_	O
+22	…	…	NFP	pos2=-LRB-	21	discourse	_	O
+23	https://t.co/vRiA6hMgpa	#hlink#	ADD	_	21	npadvmod	_	O
+

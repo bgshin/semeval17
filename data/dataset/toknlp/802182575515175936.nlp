@@ -1,0 +1,22 @@
+1	Is	be	VBZ	_	3	aux	_	O
+2	Trump	trump	NNP	pos2=NN	3	nsubj	_	U-ORG
+3	trying	try	VBG	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	make	make	VB	_	3	xcomp	_	O
+6	America	america	NNP	_	7	nsubj	_	U-GPE
+7	great	great	JJ	_	5	ccomp	_	O
+8	again	again	RB	_	7	advmod	_	O
+9	or	or	CC	_	8	cc	_	O
+10	just	just	RB	_	11	advmod	_	O
+11	dismantling	dismantle	VBG	_	3	conj	_	O
+12	everything	everything	NN	_	11	dobj	_	O
+13	we	we	PRP	_	14	nsubj	_	O
+14	stand	stand	VBP	pos2=VB	12	relcl	_	O
+15	for	for	IN	_	14	prep	_	O
+16	!	!	.	_	3	punct	_	O
+
+1	?@VanJones68	?@vanjones0	NN	pos2=NNS	4	dep	_	O
+2	#UniteBlue	#uniteblue	GW	pos2=XX	4	nmod	_	O
+3	…	…	NFP	pos2=GW	4	punct	_	O
+4	https://t.co/eilpU98V8w	#hlink#	ADD	pos2=NN	0	root	_	O
+

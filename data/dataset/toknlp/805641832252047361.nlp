@@ -1,0 +1,28 @@
+1	@KeriAnne7	@kerianne0	NN	pos2=ADD	2	compound	_	O
+2	@DrkMtt3r	@drkmtt0r	NN	pos2=LS	5	vocative	_	O
+3	@Cernovich	@cernovich	NNP	pos2=WDT	5	vocative	_	O
+4	They	they	PRP	_	5	nsubj	_	O
+5	come	come	VBP	pos2=VBD	0	root	_	O
+6	forward	forward	RB	_	5	advmod	_	O
+7	for	for	IN	_	5	prep	_	O
+8	chemical	chemical	JJ	pos2=NN	9	nmod	_	O
+9	castration	castration	NN	_	7	pobj	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	If	if	IN	_	10	mark	_	O
+2	they	they	PRP	_	3	nsubj	_	O
+3	do	do	VBP	_	0	root	_	O
+4	n't	not	RB	_	3	neg	_	O
+5	and	and	CC	_	3	cc	_	O
+6	hurt	hurt	VB	_	3	conj	_	O
+7	a	a	DT	_	8	det	_	O
+8	child	child	NN	_	6	dobj	_	O
+9	it	it	PRP	_	10	nsubj	_	O
+10	's	's	VBZ	pos2=POS	6	advcl	_	O
+11	death	death	NN	_	12	compound	_	O
+12	penalty	penalty	NN	_	10	attr	_	O
+13	.	.	.	_	12	prt	_	O
+
+1	Easy	easy	JJ	pos2=UH	0	root	_	O
+2	:-)	:-)	NFP	_	1	discourse	_	O
+

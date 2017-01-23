@@ -1,0 +1,29 @@
+1	Before	before	IN	_	6	prep	_	O
+2	landing#Erbil	landing#erbil	NNP	pos2=NN	1	pobj	_	U-PERSON
+3	(	(	-LRB-	_	8	punct	_	O
+4	Iraqi	iraqi	NNP	pos2=JJ	5	nmod	_	U-NORP
+5	Kurdistan	kurdistan	NNP	_	8	poss	_	U-GPE
+6	's	's	POS	_	5	case	_	O
+7	"	"	``	_	8	punct	_	O
+8	capital	capital	NN	_	10	npadvmod	_	O
+9	"	"	''	_	8	punct	_	O
+10	)	)	-RRB-	_	0	root	_	O
+11	so	so	RB	_	12	advmod	_	O
+12	close	close	JJ	pos2=RB	8	nmod	_	O
+13	to	to	IN	pos2=TO	12	prep	_	O
+14	#MosulOffensive	#mosuloffensive	NNP	pos2=ADD	13	pobj	_	U-GPE
+15	.	.	.	_	1	punct	_	O
+
+1	How	how	WRB	_	2	advmod	_	O
+2	many	many	JJ	_	3	nmod	_	O
+3	miles	mile	NNS	_	0	root	_	O
+4	??	??	.	_	3	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	'll	will	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	live	live	JJ	pos2=VB	5	nmod	_	O
+5	st	st	NN	pos2=GW	3	attr	_	O
+6	…	…	NFP	pos2=-LRB-	3	discourse	_	O
+7	https://t.co/0ZwhKsZRrY	#hlink#	ADD	_	3	dep	_	O
+

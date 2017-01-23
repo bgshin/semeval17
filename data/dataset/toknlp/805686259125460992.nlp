@@ -1,0 +1,31 @@
+1	@Kelsblells	@kelsblells	NNP	pos2=NNS	6	nsubjpass	_	U-ORG
+2	Apparently	apparently	RB	_	6	advmod	_	O
+3	it	it	PRP	_	6	nsubjpass	_	O
+4	'll	will	MD	_	6	aux	_	O
+5	be	be	VB	_	6	auxpass	_	O
+6	based	base	VBN	_	0	root	_	O
+7	on	on	IN	_	6	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	cubs	cub	NNS	pos2=JJ	10	compound	_	O
+10	oath	oath	NN	_	7	pobj	_	O
+11	.	.	.	_	6	punct	_	O
+
+1	All	all	DT	_	2	det	_	O
+2	immigrants	immigrant	NNS	_	4	nsubj	_	O
+3	will	will	MD	_	4	aux	_	O
+4	pledge	pledge	VB	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	do	do	VB	_	4	xcomp	_	O
+7	their	their	PRP$	_	8	poss	_	O
+8	best	good	JJS	_	6	dobj	_	O
+9	and	and	CC	_	6	cc	_	O
+10	pay	pay	VB	_	6	conj	_	O
+11	their	their	PRP$	_	12	poss	_	O
+12	duty	duty	NN	_	10	dobj	_	O
+13	to	to	IN	_	10	dative	_	O
+14	God	god	NNP	_	13	pobj	_	O
+15	and	and	CC	_	14	cc	_	O
+16	the	the	DT	_	17	det	_	O
+17	Queen	queen	NNP	pos2=NN	14	conj	_	O
+18	.	.	.	_	4	punct	_	O
+

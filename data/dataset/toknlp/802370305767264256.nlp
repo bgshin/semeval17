@@ -1,0 +1,28 @@
+1	Melania	melania	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	looked	look	VBD	_	0	root	_	O
+3	angrywhite	angrywhite	JJ	pos2=DT	6	nmod	_	O
+4	house	house	NN	_	5	compound	_	O
+5	tour	tour	NN	pos2=VB	6	compound	_	B-DATE
+6	day	day	NN	_	2	npadvmod	_	L-DATE
+7	!	!	.	_	2	punct	_	O
+
+1	She	she	PRP	_	4	nsubj	_	O
+2	's	's	VBZ	_	4	aux	_	O
+3	not	not	RB	_	4	neg	_	O
+4	moving	move	VBG	_	0	root	_	O
+5	in	in	IN	pos2=RB	4	advmod	_	O
+6	?	?	.	_	4	punct	_	O
+
+1	Temporary	temporary	JJ	pos2=NNP	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+
+1	Time	time	NN	pos2=NNP	9	dep	_	O
+2	4	0	CD	_	3	nmod	_	U-CARDINAL
+3	#Trump	#trump	NNS	pos2=IN	5	nmod	_	O
+4	2	0	CD	_	5	nmod	_	U-CARDINAL
+5	disgrace	disgrace	NN	pos2=VBP	9	dep	_	O
+6	the	the	DT	_	7	det	_	O
+7	office	office	NN	_	9	dep	_	O
+8	…	…	NFP	pos2=VBD	9	punct	_	O
+9	https://t.co/ZBGadzkzjk	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,18 @@
+1	Tim	tim	NNP	_	17	nmod	_	B-PERSON
+2	Duncan	duncan	NNP	_	17	dep	_	L-PERSON
+3	#NBA	#nba	NNP	pos2=POS	17	dep	_	O
+4	San	san	NNP	_	5	compound	_	B-ORG
+5	Antonio	antonio	NNP	_	17	dep	_	I-ORG
+6	#Spurs	#spurs	NNP	pos2=POS	17	dep	_	I-ORG
+7	HWC	hwc	NNP	pos2=NN	17	dep	_	I-ORG
+8	Nike	nike	NNP	_	13	compound	_	I-ORG
+9	Authentic	authentic	NNP	pos2=JJ	13	compound	_	L-ORG
+10	#Jersey	#jersey	NNP	pos2=POS	13	compound	_	O
+11	Kobe	kobe	NNP	_	13	compound	_	B-PERSON
+12	Jordan	jordan	NNP	_	13	compound	_	I-PERSON
+13	Curry	curry	NNP	pos2=GW	17	dep	_	L-PERSON
+14	https://t.co/JhF68Q34SR	#hlink#	ADD	pos2=NNP	17	dep	_	O
+15	#Sporting	#sporting	VBG	pos2=-RRB-	17	nmod	_	O
+16	…	…	NFP	pos2=-LRB-	17	punct	_	O
+17	https://t.co/8gKBRfrQk8	#hlink#	ADD	_	0	root	_	O
+

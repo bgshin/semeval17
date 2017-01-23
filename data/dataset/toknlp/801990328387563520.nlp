@@ -1,0 +1,16 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=GW	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	https://t.co/jfHwt1Eo6w	#hlink#	ADD	pos2=NNP	5	appos	_	O
+7	SJW	sjw	NNP	pos2=RB	9	nmod	_	U-ORG
+8	Anti-Trump	anti-trump	JJ	pos2=NNP	9	nmod	_	O
+9	Protesters	protester	NNPS	pos2=NNS	11	nsubjpass	_	U-NORP
+10	Get	get	VBP	pos2=WP	11	auxpass	_	O
+11	Triggered	trigger	VBN	pos2=JJ	6	ccomp	_	O
+12	[	[	-LRB-	_	14	punct	_	O
+13	Liberal	liberal	NNP	pos2=JJ	14	compound	_	O
+14	Riots	riot	NNS	pos2=NNPS	9	appos	_	O
+15	]	]	-RRB-	_	14	punct	_	O
+

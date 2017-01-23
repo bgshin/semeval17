@@ -1,0 +1,24 @@
+1	"	"	``	_	5	punct	_	O
+2	A	a	DT	_	4	det	_	O
+3	transition	transition	NN	pos2=JJ	4	compound	_	O
+4	official	official	NN	_	5	nsubj	_	O
+5	told	tell	VBD	_	0	root	_	O
+6	Fox	fox	NNP	_	9	poss	_	U-ORG
+7	’s	's	POS	_	6	case	_	O
+8	Ed	ed	NNP	_	9	compound	_	B-PERSON
+9	Henry	henry	NNP	_	5	dobj	_	L-PERSON
+10	that	that	IN	pos2=VBD	17	mark	_	O
+11	some	some	DT	pos2=RB	17	nsubj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	Trump	trump	NNP	pos2=NN	16	poss	_	U-ORG
+14	’s	's	POS	_	13	case	_	O
+15	inner	inner	JJ	_	16	nmod	_	O
+16	circle	circle	NN	_	12	pobj	_	O
+17	want	want	VBP	pos2=VB	5	ccomp	_	O
+18	the	the	DT	_	20	det	_	O
+19	former	former	JJ	_	20	nmod	_	O
+20	Massachusetts	massachusetts	NNP	_	17	dobj	_	U-GPE
+21	...	..	.	pos2=,	5	punct	_	O
+
+1	https://t.co/49PRhkdCrT	#hlink#	ADD	_	0	root	_	U-ORG
+

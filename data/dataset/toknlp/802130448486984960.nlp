@@ -1,0 +1,25 @@
+1	POLL	poll	NN	pos2=VB	2	compound	_	O
+2	result:You	result:you	NNP	pos2=WP	3	nsubj	_	U-ORG
+3	voted	vote	VBD	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	Cabbage	cabbage	NNP	pos2=NN	7	compound	_	O
+6	Patch	patch	NNP	_	7	compound	_	O
+7	Kids	kid	NNPS	pos2=NNP	4	pobj	_	O
+8	&	&	CC	pos2=VBD	7	cc	_	O
+9	the	the	DT	_	10	det	_	O
+10	Furby	furby	NNP	_	7	conj	_	O
+11	as	as	IN	_	3	prep	_	O
+12	your	your	PRP$	_	15	poss	_	O
+13	favourite	favourite	JJ	pos2=NN	15	nmod	_	O
+14	Christmas	christmas	NNP	_	15	compound	_	O
+15	toys	toy	NNS	pos2=NN	11	pobj	_	O
+16	.	.	.	_	3	punct	_	O
+
+1	Looks	look	VBZ	_	0	root	_	O
+2	like	like	IN	_	5	mark	_	O
+3	it	it	PRP	_	5	nsubj	_	O
+4	will	will	MD	_	5	aux	_	O
+5	be	be	VB	_	1	advcl	_	O
+6	…	…	NFP	pos2=-LRB-	7	punct	_	O
+7	https://t.co/SuTWZz4KiC	#hlink#	ADD	_	5	attr	_	O
+

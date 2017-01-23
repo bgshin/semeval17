@@ -1,0 +1,29 @@
+1	Happy	happy	JJ	_	2	nmod	_	O
+2	Thanksgiving	thanksgiving	NNP	_	0	root	_	U-DATE
+3	!	!	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	off	off	IN	pos2=RB	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	grid	grid	NN	_	3	pobj	_	O
+6	in	in	IN	_	2	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	woods	wood	NNS	_	6	pobj	_	O
+9	so	so	RB	_	11	advmod	_	O
+10	no	no	DT	_	11	det	_	O
+11	signal	signal	NN	_	8	appos	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	Do	do	VB	pos2=VBP	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	forget	forget	VB	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	celebrate	celebrate	VB	_	3	xcomp	_	O
+6	Black	black	NNP	pos2=JJ	7	nmod	_	B-EVENT
+7	Friday	friday	NNP	_	5	dobj	_	L-EVENT
+8	and	and	CC	_	5	cc	_	O
+9	trample	trample	VB	_	5	conj	_	O
+10	someone	someone	NN	_	9	dobj	_	O
+11	!	!	.	_	3	punct	_	O
+

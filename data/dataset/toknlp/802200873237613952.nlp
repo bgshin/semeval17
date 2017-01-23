@@ -1,0 +1,22 @@
+1	@Derek_Page13	@derek_page0	NN	pos2=LS	0	root	_	O
+2	hahah	hahah	UH	_	7	discourse	_	O
+3	D	d	NNP	pos2=NN	7	vocative	_	O
+4	,	,	,	_	7	punct	_	O
+5	I	I	PRP	_	7	nsubj	_	O
+6	am	be	VBP	_	7	aux	_	O
+7	missing	miss	VBG	_	1	ccomp	_	O
+8	your	your	PRP$	_	9	poss	_	O
+9	stories	story	NNS	_	7	dobj	_	O
+10	this	this	DT	_	11	det	_	O
+11	thanksgiving	thanksgiving	NN	_	7	npadvmod	_	O
+12	so	so	RB	pos2=IN	14	advmod	_	O
+13	I	I	PRP	_	14	nsubj	_	O
+14	had	have	VBD	_	0	root	_	O
+15	to	to	TO	_	16	aux	_	O
+16	hear	hear	VB	_	14	xcomp	_	O
+17	jokes	joke	NNS	_	16	dobj	_	O
+18	from	from	IN	_	16	prep	_	O
+19	someone	someone	NN	_	18	pobj	_	O
+20	else	else	RB	_	19	advmod	_	O
+21	!	!	.	_	14	punct	_	O
+

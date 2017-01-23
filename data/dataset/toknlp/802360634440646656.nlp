@@ -1,0 +1,18 @@
+1	Message	message	NN	_	5	dep	_	O
+2	to	to	IN	pos2=TO	1	prep	_	O
+3	#Poroshenko	#poroshenko	VB	pos2=CD	2	pobj	_	O
+4	:	:	:	_	5	punct	_	O
+5	women	woman	NNS	pos2=NN	0	root	_	O
+6	who	who	WP	_	7	nsubj	_	O
+7	lost	lose	VBD	_	5	relcl	_	O
+8	her	her	PRP$	_	9	poss	_	O
+9	child	child	NN	_	7	dobj	_	O
+10	,	,	,	_	5	punct	_	O
+11	husband	husband	NN	_	5	appos	_	O
+12	from	from	IN	_	11	prep	_	O
+13	Ukrainian	ukrainian	JJ	pos2=NNP	14	nmod	_	U-NORP
+14	shelling	shelling	NN	pos2=VBG	12	pobj	_	O
+15	https://t.co/xa1yXFciK2	#hlink#	ADD	pos2=NN	11	appos	_	O
+16	#ukraine	#ukraine	PRP	pos2=IN	17	dobj	_	O
+17	#war	#war	UH	pos2=.	5	discourse	_	O
+

@@ -1,0 +1,20 @@
+1	Our	our	PRP$	_	2	poss	_	O
+2	#mannequinchallenge	#mannequinchallenge	NN	pos2=XX	0	root	_	O
+3	from	from	IN	_	2	prep	_	O
+4	last	last	JJ	_	5	nmod	_	B-TIME
+5	night	night	NN	_	10	poss	_	I-TIME
+6	's	's	POS	pos2=AFX	5	case	_	L-TIME
+7	#steelcitycup	#steelcitycup	IN	pos2=JJ	10	nmod	_	O
+8	charity	charity	NN	_	10	compound	_	O
+9	squash	squash	NN	_	10	compound	_	O
+10	night	night	NN	_	3	pobj	_	U-TIME
+11	.	.	.	_	2	punct	_	O
+
+1	Revealing	reveal	VBG	_	7	dep	_	O
+2	how	how	WRB	_	3	advmod	_	O
+3	much	much	JJ	pos2=RB	7	nmod	_	O
+4	raised	raise	VBN	pos2=VBD	3	acl	_	O
+5	on	on	IN	_	4	prep	_	O
+6	Monday	monday	NNP	_	5	pobj	_	O
+7	https://t.co/8lBDVuAtbE	#hlink#	ADD	pos2=NN	0	root	_	O
+

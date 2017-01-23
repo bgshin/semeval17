@@ -1,0 +1,34 @@
+1	And	and	CC	_	3	cc	_	O
+2	this	this	DT	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	grace	grace	NN	_	3	attr	_	O
+6	that	that	WDT	_	8	dobj	_	O
+7	we	we	PRP	_	8	nsubj	_	O
+8	ask	ask	VBP	_	5	relcl	_	O
+9	for	for	IN	_	8	prep	_	O
+10	today	today	NN	_	9	pobj	_	U-DATE
+11	:	:	:	_	3	punct	_	O
+12	‘	'	''	pos2=``	3	punct	_	O
+13	O	o	UH	pos2=IN	14	discourse	_	O
+14	God	god	NNP	_	19	vocative	_	O
+15	,	,	,	_	14	punct	_	O
+16	our	our	PRP$	_	17	poss	_	O
+17	Father	father	NNP	_	14	appos	_	O
+18	,	,	,	_	19	punct	_	O
+19	raise	raise	VB	_	0	root	_	O
+20	up	up	RP	pos2=RB	19	prt	_	O
+21	in	in	IN	_	19	prep	_	O
+22	us	us	PRP	_	21	pobj	_	O
+23	the	the	DT	_	24	det	_	O
+24	desire	desire	NN	_	19	dobj	_	O
+25	to	to	TO	_	26	aux	_	O
+26	meet	meet	VB	_	24	acl	_	O
+27	your	your	PRP$	_	28	poss	_	O
+28	Christ	christ	NNP	_	26	dobj	_	O
+29	,	,	,	_	19	punct	_	O
+30	’	'	''	_	3	punct	_	O
+31	...	..	.	pos2=:	3	punct	_	O
+
+1	https://t.co/8MyZNYS6DC	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,21 @@
+1	*	*	SYM	_	4	punct	_	O
+2	multiple	multiple	JJ	_	3	nmod	_	O
+3	crash	crash	NN	_	4	nsubj	_	O
+4	zooms	zoom	VBZ	pos2=NNS	0	root	_	O
+5	into	into	IN	_	4	prep	_	O
+6	Bigfoot	bigfoot	NNP	_	8	poss	_	U-ORG
+7	's	's	POS	_	6	case	_	O
+8	cock	cock	NN	_	5	pobj	_	O
+9	as	as	IN	_	4	prep	_	O
+10	Leonard	leonard	NNP	_	11	compound	_	B-PERSON
+11	Cohen	cohen	NNP	_	14	poss	_	I-PERSON
+12	's	's	POS	_	11	case	_	L-PERSON
+13	Hallelujah	hallelujah	NNP	_	14	compound	_	O
+14	plays*That	plays*that	NNP	pos2=WP	18	poss	_	O
+15	's	's	POS	pos2=VBZ	14	case	_	O
+16	the	the	DT	_	18	det	_	O
+17	whole	whole	JJ	_	18	nmod	_	O
+18	screenplay	screenplay	NN	_	9	pobj	_	O
+19	so	so	RB	_	20	advmod	_	O
+20	far	far	RB	_	4	advmod	_	O
+

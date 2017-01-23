@@ -1,0 +1,26 @@
+1	The	the	DT	_	3	det	_	B-ORG
+2	Trump	trump	NNP	_	3	compound	_	I-ORG
+3	Foundation	foundation	NNP	_	5	nsubjpass	_	L-ORG
+4	was	be	VBD	_	5	auxpass	_	O
+5	used	use	VBN	_	0	root	_	O
+6	as	as	IN	_	5	prep	_	O
+7	his	his	PRP$	_	10	poss	_	O
+8	personal	personal	JJ	_	10	nmod	_	O
+9	slush	slush	NN	pos2=JJ	10	compound	_	O
+10	fund	fund	NN	_	6	pobj	_	O
+11	.	.	.	_	5	punct	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	Clinton	clinton	NNP	_	3	compound	_	U-PERSON
+3	foundation	foundation	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	a	a	DT	_	9	det	_	O
+6	highly	highly	RB	_	8	advmod	_	O
+7	-	-	HYPH	_	8	punct	_	O
+8	rated	rate	VBN	_	9	nmod	_	O
+9	charity	charity	NN	_	4	attr	_	O
+10	that	that	WDT	_	11	nsubj	_	O
+11	has	have	VBZ	_	9	relcl	_	O
+12	…	…	NFP	pos2=VBN	13	punct	_	O
+13	https://t.co/pDlTHQ92DR	#hlink#	ADD	_	4	dep	_	O
+

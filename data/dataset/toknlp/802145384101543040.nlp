@@ -1,0 +1,13 @@
+1	What	what	WP	pos2=WDT	8	det	_	O
+2	a	a	DT	_	8	det	_	O
+3	nice	nice	JJ	pos2=NN	8	nmod	_	O
+4	and	and	CC	_	3	cc	_	O
+5	heart	heart	NN	_	7	compound	_	O
+6	-	-	HYPH	_	7	punct	_	O
+7	warming	warming	NN	pos2=VBG	3	conj	_	O
+8	episode	episode	NN	_	12	dep	_	O
+9	<	<	SYM	_	10	punct	_	O
+10	3	0	CD	_	11	nmod	_	B-DATE
+11	#ThisIsUs	#thisisus	NNS	pos2=NN	8	npadvmod	_	L-DATE
+12	#LikeAllRightLetsTalkAboutTheseTwo	#likeallrightletstalkaboutthesetwo	ADD	pos2=FW	0	root	_	O
+

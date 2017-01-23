@@ -1,0 +1,21 @@
+1	@CBSNews	@cbsnews	VBZ	pos2=NNS	0	root	_	O
+2	funny	funny	JJ	_	1	acomp	_	O
+3	to	to	TO	_	4	aux	_	O
+4	find	find	VB	_	1	xcomp	_	O
+5	inspiring	inspire	VBG	_	4	xcomp	_	O
+6	all	all	PDT	_	8	predet	_	O
+7	the	the	DT	_	8	det	_	O
+8	words	word	NNS	_	5	dobj	_	O
+9	Obama	obama	NNP	_	10	nsubj	_	U-PERSON
+10	says	say	VBZ	_	8	relcl	_	O
+11	even	even	RB	_	16	advmod	_	O
+12	when	when	WRB	_	14	advmod	_	O
+13	he	he	PRP	_	14	nsubj	_	O
+14	applauds	applaud	VBZ	_	10	advcl	_	O
+15	riots	riot	NNS	_	16	nsubj	_	O
+16	disguise	disguise	VBP	pos2=VB	14	dobj	_	O
+17	as	as	IN	pos2=RB	16	prep	_	O
+18	anti	anti	AFX	pos2=FW	19	nmod	_	O
+19	Trump	trump	NN	pos2=NNP	20	compound	_	U-PERSON
+20	movement	movement	NN	_	17	pobj	_	O
+

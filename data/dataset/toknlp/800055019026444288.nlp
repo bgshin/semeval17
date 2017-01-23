@@ -1,0 +1,20 @@
+1	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=NNP	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+
+1	Samosas	samosa	NNS	pos2=NNP	3	poss	_	O
+2	r	r	POS	pos2=VBP	1	case	_	O
+3	gr8	gr0	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Ever	ever	RB	_	2	advmod	_	O
+2	tried	try	VBD	pos2=VBN	0	root	_	O
+3	#chicken	#chicken	NNP	pos2=VBN	2	dobj	_	U-ORG
+4	and	and	CC	_	2	cc	_	O
+5	#cheese	#cheese	VB	pos2=ADD	2	conj	_	O
+6	?	?	.	_	2	punct	_	O
+
+1	https://t.co/1BEuhkdcdJ	#hlink#	ADD	_	4	nmod	_	O
+2	@curryclubuk	@curryclubuk	GW	pos2=-RRB-	4	nmod	_	O
+3	…	…	NFP	pos2=-LRB-	4	punct	_	O
+4	https://t.co/2BIGD1Sw4b	#hlink#	ADD	_	0	root	_	O
+

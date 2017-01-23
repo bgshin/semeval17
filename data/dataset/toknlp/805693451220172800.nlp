@@ -1,0 +1,16 @@
+1	Shame	shame	NN	pos2=VB	0	root	_	O
+2	on	on	IN	_	1	prep	_	O
+3	#Barcelona	#barcelona	NNP	pos2=VBG	4	compound	_	U-ORG
+4	fans	fan	NNS	_	2	pobj	_	O
+5	for	for	IN	_	1	prep	_	O
+6	#homophobia	#homophobia	NN	pos2=NNS	5	pobj	_	O
+7	displayed	display	VBN	pos2=VBD	6	acl	_	O
+8	towards	towards	IN	_	7	prep	_	O
+9	@cristiano	@cristiano	FW	pos2=NN	8	pobj	_	O
+10	.	.	.	_	1	punct	_	O
+
+1	https://t.co/EWci2BLiKX	#hlink#	ADD	_	4	dep	_	U-ORG
+2	#RainbowLaces	#rainbowlaces	NNS	pos2=GW	4	nmod	_	O
+3	…	…	NFP	pos2=-LRB-	4	punct	_	O
+4	https://t.co/sbTvCuUTyM	#hlink#	ADD	_	0	root	_	O
+

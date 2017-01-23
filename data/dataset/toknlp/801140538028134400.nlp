@@ -1,0 +1,20 @@
+1	Okay	okay	UH	pos2=JJ	6	discourse	_	O
+2	but	but	CC	_	6	cc	_	O
+3	many	many	JJ	_	5	nmod	_	O
+4	alt	alt	JJ	_	5	nmod	_	O
+5	rightists	rightist	NNS	_	6	nsubj	_	O
+6	worship	worship	VBP	pos2=NN	0	root	_	O
+7	HitlerYou	hitleryou	NNP	pos2=PRP$	8	compound	_	U-NORP
+8	people	people	NNS	_	11	nsubj	_	O
+9	ca	can	MD	_	11	aux	_	O
+10	n't	not	RB	_	11	neg	_	O
+11	keep	keep	VB	_	6	ccomp	_	O
+12	pretending	pretend	VBG	_	11	xcomp	_	O
+13	they	they	PRP	_	14	nsubj	_	O
+14	are	be	VBP	_	12	ccomp	_	O
+15	n't	not	RB	_	14	neg	_	O
+16	Third	#ord#	NNP	pos2=JJ	17	compound	_	O
+17	Reich	reich	NNP	_	19	dep	_	O
+18	2.0	0	CD	_	19	dep	_	O
+19	https://t.co/UI12HEWiMG	#hlink#	ADD	_	11	oprd	_	O
+

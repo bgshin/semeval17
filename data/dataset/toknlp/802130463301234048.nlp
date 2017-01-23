@@ -1,0 +1,19 @@
+1	Is	be	VBZ	_	0	root	_	O
+2	it	it	PRP	_	1	nsubj	_	O
+3	possible	possible	JJ	_	1	acomp	_	O
+4	to	to	TO	_	5	aux	_	O
+5	watch	watch	VB	_	1	xcomp	_	O
+6	an	an	DT	_	7	det	_	O
+7	episode	episode	NN	_	5	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	#ThisIsUs	#thisisus	NN	pos2=NNS	8	pobj	_	O
+10	without	without	IN	_	5	prep	_	O
+11	crying	cry	VBG	_	10	pcomp	_	O
+12	?	?	.	_	1	punct	_	O
+
+1	Asking	ask	VBG	_	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	a	a	DT	_	4	det	_	O
+4	friend	friend	NN	_	2	pobj	_	O
+5	.	.	.	_	1	punct	_	O
+

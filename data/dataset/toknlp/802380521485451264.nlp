@@ -1,0 +1,22 @@
+1	Has	have	VBZ	_	8	aux	_	O
+2	anyone	anyone	NN	_	8	nsubj	_	O
+3	out	out	RB	_	4	advmod	_	O
+4	there	there	RB	_	2	advmod	_	O
+5	in	in	IN	_	2	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	twitterverse	twitterverse	NN	pos2=JJ	5	pobj	_	O
+8	hacked	hack	VBD	pos2=VBN	0	root	_	O
+9	Cozmo	cozmo	NNP	pos2=PRP$	10	compound	_	O
+10	robots	robot	NNS	_	8	dobj	_	O
+11	for	for	IN	_	8	prep	_	O
+12	anything	anything	NN	_	11	pobj	_	O
+13	interesting	interesting	JJ	_	12	nmod	_	O
+14	?	?	.	_	8	punct	_	O
+
+1	https://t.co/XnJNWGuHyD	#hlink#	ADD	pos2=NN	2	nsubj	_	O
+2	asking	ask	VBG	_	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	a	a	DT	_	5	det	_	O
+5	friend	friend	NN	_	3	pobj	_	O
+6	:)	:)	NFP	pos2=.	2	discourse	_	O
+

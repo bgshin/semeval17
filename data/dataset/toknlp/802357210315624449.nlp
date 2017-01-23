@@ -1,0 +1,27 @@
+1	Plot	plot	NN	_	2	compound	_	O
+2	twist	twist	NN	_	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	Trump	trump	NNP	pos2=NN	5	nsubj	_	U-ORG
+5	leaves	leave	VBZ	pos2=NNS	8	ccomp	_	O
+6	Melania	melania	NNP	_	5	dobj	_	U-PERSON
+7	,	,	,	_	8	punct	_	O
+8	marries	marry	VBZ	_	0	root	_	O
+9	Mama	mama	NNP	_	10	compound	_	B-PERSON
+10	June	june	NNP	_	8	nsubj	_	L-PERSON
+11	,	,	,	_	14	punct	_	O
+12	Trump	trump	NNP	_	14	nsubjpass	_	U-ORG
+13	is	be	VBZ	_	14	auxpass	_	O
+14	impeached	impeach	VBN	_	8	advcl	_	O
+15	but	but	CC	pos2=IN	14	cc	_	O
+16	rebounds	rebound	VBZ	pos2=NNS	14	conj	_	O
+17	with	with	IN	_	16	prep	_	O
+18	#	#	NN	_	21	nmod	_	O
+19	1	0	CD	pos2=LS	18	nmod	_	U-MONEY
+20	reality	reality	NN	_	21	compound	_	O
+21	show	show	NN	pos2=VBP	17	pobj	_	O
+22	in	in	IN	_	21	prep	_	O
+23	History	history	NN	pos2=NNP	22	pobj	_	O
+24	Money	money	NNP	pos2=NN	26	compound	_	B-PERSON
+25	Boo	boo	NNP	_	26	compound	_	I-PERSON
+26	Boo	boo	NNP	_	23	appos	_	L-PERSON
+

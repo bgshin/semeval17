@@ -1,0 +1,28 @@
+1	@dosnostalgic	@dosnostalgic	UH	pos2=JJ	6	discourse	_	O
+2	sadly	sadly	RB	pos2=UH	6	advmod	_	O
+3	,	,	,	_	6	punct	_	O
+4	Putin	putin	NNP	_	6	nsubj	_	U-PERSON
+5	has	have	VBZ	_	6	aux	_	O
+6	won	win	VBN	pos2=VBD	0	root	_	O
+7	big	big	JJ	_	8	nmod	_	O
+8	time	time	NN	_	6	npadvmod	_	O
+9	over	over	IN	_	6	prep	_	O
+10	the	the	DT	_	15	det	_	B-DATE
+11	past	past	JJ	_	15	nmod	_	I-DATE
+12	10	0	CD	_	14	qmod	_	I-DATE
+13	-	-	SYM	_	14	punct	_	I-DATE
+14	15	0	CD	_	15	nmod	_	I-DATE
+15	years	year	NNS	_	9	pobj	_	L-DATE
+16	.	.	.	_	6	punct	_	O
+
+1	His	his	PRP$	_	3	poss	_	O
+2	biggest	big	JJS	_	3	nmod	_	O
+3	triumph	triumph	NN	_	4	nsubj	_	O
+4	being	be	VBG	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	election	election	NN	_	4	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	his	his	PRP$	_	9	poss	_	O
+9	proxy	proxy	NN	pos2=JJ	7	pobj	_	O
+10	@realDonaldTrump	@realdonaldtrump	ADD	pos2=NN	4	advmod	_	O
+

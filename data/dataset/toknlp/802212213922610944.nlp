@@ -1,0 +1,22 @@
+1	New	new	JJ	pos2=NNP	3	nmod	_	O
+2	Vice	vice	NNP	_	3	compound	_	O
+3	President	president	NNP	_	5	compound	_	O
+4	Mike	mike	NNP	_	5	compound	_	B-PERSON
+5	Pence	penny	NNP	_	6	nsubj	_	L-PERSON
+6	supported	support	VBD	pos2=VBN	0	root	_	O
+7	'	'	``	_	6	punct	_	O
+8	gay	gay	JJ	pos2=NN	9	nmod	_	O
+9	cure	cure	NN	_	6	dobj	_	O
+10	'	'	''	pos2=NN	6	punct	_	O
+11	[	[	-LRB-	_	14	punct	_	O
+12	electro	electro	NN	pos2=FW	14	compound	_	O
+13	-	-	HYPH	pos2=:	14	punct	_	O
+14	torture	torture	NN	pos2=FW	6	parataxis	_	O
+15	]	]	-RRB-	_	14	punct	_	O
+16	,	,	,	_	6	punct	_	O
+17	and	and	CC	_	6	cc	_	O
+18	other	other	JJ	_	20	nmod	_	O
+19	terrifying	terrifying	JJ	_	20	nmod	_	O
+20	beliefs	belief	NNS	_	21	dep	_	O
+21	https://t.co/mkwoEupXbm	#hlink#	ADD	_	6	conj	_	O
+

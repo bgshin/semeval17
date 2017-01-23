@@ -1,0 +1,25 @@
+1	idk	idk	UH	pos2=NN	4	discourse	_	O
+2	where	where	WRB	_	4	advmod	_	O
+3	to	to	TO	_	4	aux	_	O
+4	start	start	VB	_	0	root	_	O
+5	after	after	IN	_	4	prep	_	O
+6	my	my	PRP$	_	7	poss	_	O
+7	intro	intro	NN	_	5	pobj	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	im	im	NN	pos2=UH	2	compound	_	O
+2	writing	write	VBG	pos2=NN	0	root	_	O
+3	from	from	IN	_	2	prep	_	O
+4	a	a	DT	_	10	det	_	O
+5	pro-raising	pro-raising	JJ	pos2=NN	9	nmod	_	O
+6	-	-	HYPH	_	9	punct	_	O
+7	minimum	minimum	JJ	pos2=NN	9	nmod	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	wage	wage	NN	_	10	compound	_	O
+10	pov	pov	NN	pos2=NNS	3	pobj	_	O
+11	but	but	CC	_	2	cc	_	O
+12	I	I	PRP	_	13	nsubj	_	O
+13	'm	be	VBP	_	2	conj	_	O
+14	stuck	stuck	JJ	pos2=VBN	13	acomp	_	O
+15	☹️	☹️	.	pos2=''	13	punct	_	O
+

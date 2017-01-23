@@ -1,0 +1,9 @@
+1	@FoxNews	@foxnews	NNS	pos2=UH	0	root	_	O
+2	@foxnewslatino	@foxnewslatino	IN	pos2=VBP	1	prep	_	O
+3	Bad	bad	JJ	_	4	nmod	_	O
+4	hombres	hombre	NNS	pos2=FW	5	compound	_	O
+5	folks	folk	NNS	_	2	pobj	_	O
+6	,	,	,	_	1	punct	_	O
+7	the	the	DT	_	8	det	_	O
+8	worst	bad	JJS	_	5	appos	_	O
+

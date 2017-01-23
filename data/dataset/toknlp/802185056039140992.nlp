@@ -1,0 +1,16 @@
+1	Buckle	buckle	VB	pos2=NN	0	root	_	O
+2	Up	up	RP	_	1	prt	_	O
+3	For	for	IN	_	1	prep	_	O
+4	An	an	DT	_	7	det	_	O
+5	Extended	extended	JJ	pos2=NNP	7	nmod	_	O
+6	Midseason	midseason	NNP	pos2=NN	7	compound	_	B-WORK_OF_ART
+7	Finale	finale	NNP	pos2=NN	3	pobj	_	I-WORK_OF_ART
+8	Of	of	IN	pos2=RB	7	prep	_	I-WORK_OF_ART
+9	#TheWalkingDead	#thewalkingdead	NNP	pos2=XX	10	compound	_	I-WORK_OF_ART
+10	Season	season	NNP	pos2=NN	8	pobj	_	I-WORK_OF_ART
+11	7	0	CD	_	10	npadvmod	_	I-WORK_OF_ART
+12	-	-	:	pos2=HYPH	15	punct	_	I-WORK_OF_ART
+13	https://t.co/z7gDIpvWc3	#hlink#	ADD	pos2=NN	15	nmod	_	I-WORK_OF_ART
+14	#TWD	#twd	ADD	pos2=GW	10	appos	_	L-WORK_OF_ART
+15	https://t.co/XpfkN0IlBb	#hlink#	ADD	pos2=NN	14	pobj	_	O
+

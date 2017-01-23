@@ -1,0 +1,21 @@
+1	WHY	why	WRB	_	5	advmod	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	WO	wo	MD	_	5	aux	_	O
+4	NT	nt	RB	pos2=VBN	5	advmod	_	O
+5	USE	use	VB	_	0	root	_	O
+6	MAC	mac	NNP	pos2=JJ	7	compound	_	U-ORG
+7	MAKEUP	makeup	NN	pos2=RB	5	dobj	_	O
+8	ANYMORE	anymore	RB	_	5	advmod	_	O
+9	!	!	.	_	5	punct	_	O
+
+1	||	||	``	pos2=SYM	2	punct	_	O
+2	CHOOSE	choose	VB	pos2=NN	0	root	_	O
+3	CRUELTY	cruelty	NN	_	2	dobj	_	O
+4	FREE	free	JJ	_	7	nmod	_	O
+5	||	||	``	pos2=IN	7	punct	_	O
+6	ANIMAL	animal	NN	pos2=JJ	7	compound	_	O
+7	TESTING	testing	NN	_	3	appos	_	O
+8	https://t.co/XMR1H1HAij	#hlink#	ADD	pos2=NN	7	dobj	_	O
+9	via	via	IN	_	7	prep	_	O
+10	@YouTube	@youtube	NN	pos2=NNP	9	pobj	_	O
+

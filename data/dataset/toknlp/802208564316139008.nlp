@@ -1,0 +1,33 @@
+1	Hillary	hillary	NNP	_	2	nsubj	_	U-PERSON
+2	won	win	VBD	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	popular	popular	JJ	_	5	nmod	_	O
+5	vote	vote	NN	_	2	dobj	_	O
+6	by	by	IN	_	2	prep	_	O
+7	over	over	IN	pos2=AFX	9	qmod	_	B-CARDINAL
+8	3	0	CD	_	9	compound	_	I-CARDINAL
+9	million	#crd#	CD	_	10	nmod	_	L-CARDINAL
+10	votes	vote	NNS	_	6	pobj	_	O
+11	...	..	.	_	2	punct	_	O
+
+1	But	but	CC	_	4	cc	_	O
+2	people	people	NNS	_	4	nsubj	_	O
+3	still	still	RB	_	4	advmod	_	O
+4	ask	ask	VBP	_	0	root	_	O
+5	me	me	PRP	_	4	dobj	_	O
+6	why	why	WRB	_	8	advmod	_	O
+7	I	I	PRP	_	8	nsubj	_	O
+8	'm	be	VBP	_	4	ccomp	_	O
+9	not	not	RB	_	11	neg	_	O
+10	even	even	RB	_	11	advmod	_	O
+11	registered	register	VBN	_	8	acomp	_	O
+12	to	to	TO	_	13	aux	_	O
+13	vote	vote	VB	_	11	xcomp	_	O
+14	...	..	.	pos2=,	4	punct	_	O
+
+1	Cause	cause	VB	pos2=NN	0	root	_	O
+2	it	it	PRP	_	5	nsubj	_	O
+3	do	do	VBP	pos2=VB	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	matter	matter	VB	_	1	ccomp	_	O
+

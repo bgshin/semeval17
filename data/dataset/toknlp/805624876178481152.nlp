@@ -1,0 +1,26 @@
+1	Muhammad	muhammad	NNP	_	2	compound	_	B-PERSON
+2	Ali	ali	NNP	_	0	root	_	L-PERSON
+3	the	the	DT	_	5	det	_	O
+4	only	only	JJ	_	5	nmod	_	O
+5	person	person	NN	_	2	appos	_	O
+6	to	to	TO	_	7	aux	_	O
+7	have	have	VB	_	5	relcl	_	O
+8	his	his	PRP$	_	9	poss	_	O
+9	star	star	NN	_	7	dobj	_	O
+10	on	on	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	wall	wall	NN	_	10	pobj	_	O
+13	because	because	IN	_	15	mark	_	O
+14	he	he	PRP	_	15	nsubj	_	O
+15	refused	refuse	VBD	_	11	advcl	_	O
+16	to	to	TO	_	17	aux	_	O
+17	let	let	VB	_	15	xcomp	_	O
+18	the	the	DT	_	19	det	_	O
+19	prophet	prophet	NN	_	21	poss	_	O
+20	's	's	POS	_	19	case	_	O
+21	name	name	NN	_	23	nsubjpass	_	O
+22	be	be	VB	pos2=PRP	23	auxpass	_	O
+23	stepped	step	VBN	_	17	ccomp	_	O
+24	on	on	IN	pos2=RP	23	prep	_	O
+25	https://t.co/lLl0YBg1Mh	#hlink#	ADD	pos2=NN	24	pobj	_	O
+

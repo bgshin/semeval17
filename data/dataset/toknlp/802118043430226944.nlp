@@ -1,0 +1,31 @@
+1	@MikeAndMike	@mikeandmike	UH	pos2=ADD	12	discourse	_	O
+2	@willcain	@willcain	IN	pos2=UH	12	prep	_	O
+3	The	the	DT	_	4	det	_	O
+4	way	way	NN	_	2	pobj	_	O
+5	in	in	IN	_	10	prep	_	O
+6	which	which	WDT	_	5	pobj	_	O
+7	Tony	tony	NNP	_	8	compound	_	B-PERSON
+8	Romo	romo	NNP	_	10	nsubj	_	L-PERSON
+9	is	be	VBZ	_	10	aux	_	O
+10	handling	handle	VBG	_	4	relcl	_	O
+11	it	it	PRP	_	10	dobj	_	O
+12	is	be	VBZ	_	0	root	_	O
+13	great	great	JJ	_	12	acomp	_	O
+14	,	,	,	_	12	punct	_	O
+15	too	too	RB	_	12	advmod	_	O
+16	.	.	.	_	12	punct	_	O
+
+1	Knowing	know	VBG	_	0	root	_	O
+2	when	when	WRB	_	4	advmod	_	O
+3	to	to	TO	_	4	aux	_	O
+4	step	step	VB	_	1	xcomp	_	O
+5	aside	aside	RB	_	4	advmod	_	O
+6	to	to	TO	_	7	aux	_	O
+7	help	help	VB	_	4	advcl	_	O
+8	his	his	PRP$	_	9	poss	_	O
+9	team	team	NN	_	7	dobj	_	O
+10	.	.	.	_	1	punct	_	O
+
+1	Perspective	perspective	NN	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

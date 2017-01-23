@@ -1,0 +1,8 @@
+1	Essential	essential	JJ	_	2	nmod	_	O
+2	Oils	oil	NNS	pos2=NNPS	7	dep	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Christmas	christmas	NNP	_	3	pobj	_	O
+5	#homeopathy	#homeopathy	GW	pos2=NN	7	nmod	_	O
+6	https://t.co/LnebG90I7A	#hlink#	ADD	_	7	nmod	_	O
+7	https://t.co/6yCaKefXcI	#hlink#	ADD	_	0	root	_	U-ORG
+

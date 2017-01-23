@@ -1,0 +1,25 @@
+1	@AriBerman	@ariberman	NN	pos2=ADD	3	discourse	_	O
+2	It	it	PRP	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	racist	racist	JJ	_	3	acomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	say	say	VB	_	3	xcomp	_	O
+7	voter	voter	NN	_	8	compound	_	O
+8	id	id	NN	_	9	nsubj	_	O
+9	amounts	amount	VBZ	pos2=NNS	6	ccomp	_	O
+10	to	to	IN	_	9	prep	_	O
+11	suppression	suppression	NN	_	10	pobj	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	Minorities	minority	NNS	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	get	get	VB	_	0	root	_	O
+4	IDs	id	NNS	_	3	dobj	_	O
+5	just	just	RB	_	7	advmod	_	O
+6	as	as	RB	pos2=IN	7	advmod	_	O
+7	easily	easily	RB	_	3	advmod	_	O
+8	as	as	IN	_	3	prep	_	O
+9	anyone	anyone	NN	_	8	pobj	_	O
+10	else	else	RB	_	9	advmod	_	O
+11	.	.	.	_	3	punct	_	O
+

@@ -1,0 +1,24 @@
+1	Interesting	interesting	JJ	pos2=RB	4	discourse	_	O
+2	,	,	,	_	4	punct	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	wonder	wonder	VBP	_	0	root	_	O
+5	what	what	WP	pos2=WDT	8	dobj	_	O
+6	Mark	mark	NNP	_	7	compound	_	B-PERSON
+7	Cuban	cuban	NNP	_	8	nsubj	_	L-PERSON
+8	has	have	VBZ	_	4	ccomp	_	O
+9	to	to	TO	_	10	aux	_	O
+10	say	say	VB	_	8	xcomp	_	O
+11	to	to	IN	_	10	prep	_	O
+12	Bannon	bannon	NNP	_	11	pobj	_	U-PERSON
+13	now	now	RB	_	10	advmod	_	O
+14	that	that	IN	_	18	mark	_	O
+15	his	his	PRP$	_	17	poss	_	O
+16	criminal	criminal	JJ	_	17	nmod	_	O
+17	candidate	candidate	NN	_	18	nsubj	_	O
+18	lost	lose	VBD	pos2=VBN	10	ccomp	_	O
+19	BIGLY	bigly	NNP	pos2=RB	18	dobj	_	U-ORG
+20	.	.	.	_	4	punct	_	O
+
+1	Embarrassment	embarrassment	NN	pos2=GW	2	dep	_	O
+2	https://t.co/zdE4XTFNvG	#hlink#	ADD	pos2=NN	0	root	_	O
+

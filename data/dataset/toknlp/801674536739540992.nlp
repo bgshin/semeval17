@@ -1,0 +1,12 @@
+1	@haaretzcom	@haaretzcom	UH	pos2=RB	2	advmod	_	O
+2	fantastic	fantastic	JJ	_	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	Got	get	VBD	pos2=VBN	0	root	_	O
+2	ta	ta	TO	_	3	aux	_	O
+3	love	love	NN	pos2=VB	1	xcomp	_	O
+4	then	then	RB	_	1	advmod	_	O
+5	"	"	``	_	6	punct	_	O
+6	Rightists	rightist	NNS	pos2=NNPS	3	dobj	_	U-NORP
+7	"	"	''	_	6	punct	_	O
+

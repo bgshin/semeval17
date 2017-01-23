@@ -1,0 +1,26 @@
+1	...	..	.	pos2=NFP	0	predet	_	O
+
+1	"	"	``	_	3	punct	_	O
+2	radical	radical	JJ	_	3	nmod	_	O
+3	acceptance	acceptance	NN	_	0	root	_	O
+4	"	"	''	_	3	punct	_	O
+5	,	,	,	_	3	punct	_	O
+6	a	a	DT	_	9	det	_	O
+7	rigorous	rigorous	JJ	_	9	nmod	_	O
+8	mental	mental	JJ	_	9	nmod	_	O
+9	determination	determination	NN	_	3	appos	_	O
+10	to	to	TO	_	11	aux	_	O
+11	meet	meet	VB	_	9	acl	_	O
+12	head	head	NN	_	11	dobj	_	O
+13	on	on	IN	_	11	prep	_	O
+14	the	the	DT	_	17	det	_	O
+15	most	most	RBS	_	16	advmod	_	O
+16	powerful	powerful	JJ	_	17	nmod	_	O
+17	negatives	negative	NNS	_	13	pobj	_	O
+18	in	in	IN	_	17	prep	_	O
+19	our	our	PRP$	_	20	poss	_	O
+20	lives	life	NNS	_	18	pobj	_	O
+21	...	..	.	pos2=,	3	punct	_	O
+
+1	https://t.co/Ff1zyi6lvj	#hlink#	ADD	_	0	root	_	U-ORG
+

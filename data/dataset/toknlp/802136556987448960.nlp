@@ -1,0 +1,27 @@
+1	35	0	CD	_	2	nmod	_	B-DATE
+2	years	year	NNS	_	3	npadvmod	_	I-DATE
+3	ago	ago	RB	_	7	advmod	_	L-DATE
+4	today	today	NN	_	3	npadvmod	_	U-DATE
+5	Rollie	rollie	NNP	_	6	compound	_	B-PERSON
+6	Fingers	fingers	NNP	pos2=NNS	7	nsubj	_	L-PERSON
+7	becomes	become	VBZ	_	0	root	_	O
+8	first	#ord#	JJ	pos2=RB	9	nmod	_	U-ORDINAL
+9	reliever	reliever	NN	_	7	attr	_	O
+10	to	to	TO	_	11	aux	_	O
+11	win	win	VB	_	9	relcl	_	O
+12	CY	cy	NNP	pos2=NN	13	compound	_	U-CARDINAL
+13	Young	young	NNP	pos2=JJ	11	dobj	_	O
+14	and	and	CC	_	13	cc	_	O
+15	MVP	mvp	NN	pos2=NNP	16	compound	_	O
+16	honours	honour	NNS	_	13	conj	_	O
+17	.	.	.	_	7	punct	_	O
+
+1	What	what	WP	pos2=WDT	3	det	_	O
+2	a	a	DT	_	3	det	_	O
+3	pitcher	pitcher	NN	_	6	attr	_	O
+4	,	,	,	_	7	punct	_	O
+5	what	what	WP	pos2=WDT	0	root	_	O
+6	a	a	DT	_	8	det	_	O
+7	moustache	moustache	NN	_	8	compound	_	O
+8	@handlebar34	@handlebar0	NN	pos2=.	5	nsubj	_	O
+

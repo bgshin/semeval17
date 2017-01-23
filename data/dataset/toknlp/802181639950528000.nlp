@@ -1,0 +1,28 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	hope	hope	VBP	_	0	root	_	O
+3	#TheWalkingDead	#thewalkingdead	IN	pos2=XX	7	mark	_	U-NORP
+4	writers	writer	NNS	_	6	nmod	_	O
+5	/	/	,	pos2=SYM	6	punct	_	O
+6	producers	producer	NNS	pos2=NN	7	nsubj	_	O
+7	end	end	VBP	pos2=VB	2	ccomp	_	O
+8	Negan	negan	NNP	pos2=WP	7	dobj	_	U-GPE
+9	.	.	.	_	2	punct	_	O
+
+1	If	if	IN	_	3	mark	_	O
+2	this	this	DT	_	3	nsubj	_	O
+3	is	be	VBZ	_	11	advcl	_	O
+4	the	the	DT	_	5	det	_	O
+5	direction	direction	NN	_	3	attr	_	O
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	show	show	NN	_	6	pobj	_	O
+9	-	-	,	pos2=:	11	punct	_	O
+10	I	I	PRP	_	11	nsubj	_	O
+11	am	be	VBP	_	0	root	_	O
+12	peace	peace	NN	_	11	attr	_	O
+13	out	out	RP	pos2=RB	12	prt	_	O
+14	at	at	IN	_	12	prep	_	O
+15	season	season	NN	pos2=GW	14	pobj	_	O
+16	…	…	NFP	pos2=:	17	punct	_	O
+17	https://t.co/AfgoEDQDnI	#hlink#	ADD	_	11	dep	_	O
+

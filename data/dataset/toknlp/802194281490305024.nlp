@@ -1,0 +1,18 @@
+1	Katy	katy	NNP	_	2	compound	_	B-PERSON
+2	Perry	perry	NNP	_	16	nsubj	_	L-PERSON
+3	on	on	IN	_	2	prep	_	O
+4	Standing	standing	NNP	pos2=VBG	5	compound	_	O
+5	Rock	rock	NNP	_	3	pobj	_	O
+6	and	and	CC	_	2	cc	_	O
+7	their	their	PRP$	_	8	poss	_	O
+8	protest	protest	NN	_	2	conj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	the	the	DT	_	14	det	_	O
+11	Dakota	dakota	NNP	_	13	compound	_	O
+12	Access	access	NNP	_	9	pobj	_	O
+13	Pipeline	pipeline	GW	pos2=NNP	16	nmod	_	O
+14	…	…	NFP	pos2=GW	16	punct	_	O
+15	https://t.co/rZlcft6dae	#hlink#	ADD	_	16	nsubj	_	U-GPE
+16	#feminismsocialissues	#feminismsocialissues	VBZ	pos2=NNS	0	root	_	O
+17	#katyperry	#katyperry	UH	pos2=NN	16	discourse	_	O
+

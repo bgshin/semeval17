@@ -1,0 +1,19 @@
+1	@hupperts	@hupperts	UH	pos2=NNS	5	discourse	_	O
+2	@Jezzerat	@jezzerat	NNP	pos2=UH	5	vocative	_	U-PERSON
+3	idk	idk	UH	pos2=NN	5	discourse	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	find	find	VBP	_	0	root	_	O
+6	hiding	hide	VBG	pos2=NN	5	xcomp	_	O
+7	in	in	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	woods	wood	NNS	pos2=NNP	7	pobj	_	O
+10	&	&	CC	_	6	cc	_	O
+11	walking	walk	VBG	pos2=NN	12	nmod	_	O
+12	dogs	dog	NNS	_	13	nsubj	_	O
+13	v	v	VBP	pos2=IN	6	conj	_	O
+14	inspiring	inspiring	JJ	pos2=VBG	17	nmod	_	O
+15	&	&	CC	_	14	cc	_	O
+16	relatable	relatable	JJ	_	14	conj	_	O
+17	guys	guy	NNS	_	13	dobj	_	O
+18	#StillWithHer	#stillwithher	.	pos2=ADD	13	punct	_	O
+

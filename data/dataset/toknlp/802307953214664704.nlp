@@ -1,0 +1,27 @@
+1	#Eurozone	#eurozone	NNP	pos2=NN	2	nsubj	_	O
+2	Listening	listen	VBG	_	0	root	_	O
+3	to	to	IN	_	2	prep	_	O
+4	leaders	leader	NNS	_	5	compound	_	O
+5	talks	talk	NNS	pos2=VBZ	3	pobj	_	O
+6	reminds	remind	VBZ	_	2	advcl	_	O
+7	KCNA	kcna	NNP	_	6	dobj	_	U-ORG
+8	of	of	IN	_	7	prep	_	O
+9	just	just	RB	_	11	advmod	_	O
+10	how	how	WRB	_	11	advmod	_	O
+11	inferior	inferior	JJ	_	13	acomp	_	O
+12	they	they	PRP	_	13	nsubj	_	O
+13	are	be	VBP	_	6	ccomp	_	O
+14	in	in	IN	_	13	prep	_	O
+15	the	the	DT	_	16	det	_	O
+16	shadow	shadow	NN	_	14	pobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	Kim	kim	NNP	_	21	compound	_	B-PERSON
+19	Jong	jong	NNP	_	21	compound	_	I-PERSON
+20	-	-	HYPH	_	21	punct	_	I-PERSON
+21	un	un	NNP	pos2=NN	17	pobj	_	L-PERSON
+22	(	(	-LRB-	_	24	punct	_	O
+23	praise	praise	NN	_	24	nsubj	_	O
+24	be	be	VB	_	26	parataxis	_	O
+25	)	)	-RRB-	_	24	punct	_	O
+26	#SydMUN16	#sydmun0	NN	pos2=NNS	21	appos	_	U-DATE
+

@@ -1,0 +1,28 @@
+1	2.	0.	LS	_	0	root	_	U-CARDINAL
+2	Yes	yes	UH	_	1	discourse	_	O
+3	..	..	.	pos2=,	2	punct	_	O
+
+1	crime	crime	NN	_	5	nsubjpass	_	O
+2	can	can	MD	_	5	aux	_	O
+3	never	never	RB	_	5	neg	_	O
+4	be	be	VB	_	5	auxpass	_	O
+5	justified	justify	VBN	_	0	root	_	O
+6	but	but	CC	_	5	cc	_	O
+7	if	if	IN	_	10	mark	_	O
+8	you	you	PRP	_	10	nsubj	_	O
+9	are	be	VBP	_	10	aux	_	O
+10	going	go	VBG	_	5	advcl	_	O
+11	to	to	TO	_	12	aux	_	O
+12	give	give	VB	_	10	xcomp	_	O
+13	death	death	NN	_	14	compound	_	O
+14	penalty	penalty	NN	_	12	dobj	_	O
+15	to	to	IN	_	12	dative	_	O
+16	kidnappers	kidnapper	NNS	_	22	nmod	_	O
+17	why	why	WRB	_	22	advmod	_	O
+18	not	not	RB	_	19	neg	_	O
+19	corrupt	corrupt	JJ	_	20	nmod	_	O
+20	politicians	politician	NNS	_	22	nmod	_	O
+21	/	/	,	pos2=HYPH	22	punct	_	O
+22	looters	looter	NNS	_	15	pobj	_	O
+23	?	?	.	_	5	punct	_	O
+

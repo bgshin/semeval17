@@ -1,0 +1,12 @@
+1	#ThisIsUs	#thisisus	ADD	pos2=NNS	0	root	_	O
+2	WHAT	what	WP	_	5	dobj	_	O
+3	DID	do	VBD	_	5	aux	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	SAY	say	VB	pos2=VBP	1	ccomp	_	O
+6	ABOUT	about	IN	_	5	prep	_	O
+7	MY	my	PRP$	pos2=NNP	8	poss	_	O
+8	KATE	kate	NNP	pos2=NN	6	pobj	_	U-PERSON
+9	AND	and	CC	_	8	cc	_	O
+10	TOBY	toby	NNP	pos2=NN	8	conj	_	U-PERSON
+11	?!	?!	.	_	7	punct	_	O
+

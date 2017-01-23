@@ -1,0 +1,28 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@elizabethforma	@elizabethforma	UH	pos2=NN	4	discourse	_	O
+2	So	so	RB	pos2=IN	4	advmod	_	O
+3	Medicare	medicare	NNP	_	4	nsubj	_	U-ORG
+4	goes	go	VBZ	_	0	root	_	O
+5	,	,	,	_	4	punct	_	O
+6	but	but	CC	_	4	cc	_	O
+7	there	there	EX	_	8	expl	_	O
+8	're	be	VBP	_	4	conj	_	O
+9	no	no	DT	_	10	det	_	O
+10	caps	cap	NNS	pos2=NN	8	attr	_	O
+11	for	for	IN	_	10	prep	_	O
+12	a	a	DT	_	13	det	_	O
+13	president	president	NN	_	11	pobj	_	O
+14	whose	whose	WP$	_	15	poss	_	O
+15	wife	wife	NN	_	17	nsubj	_	O
+16	will	will	MD	_	17	aux	_	O
+17	live	live	VB	_	13	relcl	_	O
+18	with	with	IN	_	17	prep	_	O
+19	SS	ss	NN	pos2=NNP	18	pobj	_	O
+20	in	in	IN	_	17	prep	_	O
+21	NY	ny	NNP	pos2=NN	20	pobj	_	U-GPE
+22	while	while	IN	_	24	mark	_	O
+23	he	he	PRP	_	24	nsubj	_	O
+24	…	…	VBD	pos2=NFP	17	advcl	_	O
+25	https://t.co/zVydQa0ch2	#hlink#	ADD	_	24	dobj	_	O
+

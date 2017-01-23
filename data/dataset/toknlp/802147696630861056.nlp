@@ -1,0 +1,20 @@
+1	Move	move	VB	pos2=NN	0	root	_	O
+2	Over	over	IN	pos2=NNP	1	prep	_	O
+3	Trump	trump	NNP	pos2=NN	2	pobj	_	U-ORG
+4	:	:	:	_	1	punct	_	O
+5	Adolf	adolf	NNP	_	7	compound	_	B-PERSON
+6	Hitler	hitler	NNP	_	7	compound	_	L-PERSON
+7	Said	said	NNP	pos2=VBD	11	vocative	_	O
+8	He	he	PRP	pos2=NNP	11	nsubj	_	O
+9	Would	would	MD	_	11	aux	_	O
+10	'	'	``	pos2=''	11	punct	_	O
+11	Make	make	VB	_	1	advcl	_	O
+12	Germany	germany	NNP	_	13	nsubj	_	U-GPE
+13	Great	great	NNP	_	8	appos	_	O
+14	Again	again	RB	pos2=NNP	13	advmod	_	O
+15	'	'	''	pos2=POS	11	punct	_	O
+16	https://t.co/d2l7J7ctTk	#hlink#	ADD	_	19	nmod	_	U-ORG
+17	#NeverTrump	#nevertrump	ADD	pos2=-RRB-	12	appos	_	U-ORG
+18	#NotMyPresident	#notmypresident	ADD	pos2=NN	17	pobj	_	O
+19	#StillWithHer	#stillwithher	ADD	pos2=NN	17	pobj	_	O
+

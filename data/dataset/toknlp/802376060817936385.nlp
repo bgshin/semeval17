@@ -1,0 +1,13 @@
+1	Leonard	leonard	NNP	_	2	compound	_	B-PERSON
+2	Cohen	cohen	NNP	_	12	dep	_	L-PERSON
+3	Feb.	feb.	NNP	_	2	npadvmod	_	B-DATE
+4	1993	0	CD	_	3	nmod	_	L-DATE
+5	Live	live	NNP	pos2=RB	2	appos	_	O
+6	on	on	IN	_	5	prep	_	O
+7	Canadian	canadian	JJ	pos2=NNP	8	nmod	_	U-NORP
+8	TV	tv	NN	_	6	pobj	_	O
+9	:	:	:	_	2	punct	_	O
+10	The	the	DT	_	11	det	_	O
+11	Future	future	NNP	pos2=JJ	12	nmod	_	O
+12	https://t.co/eiePijN54C	#hlink#	ADD	pos2=NNP	0	root	_	O
+

@@ -1,0 +1,19 @@
+1	Muhammad	muhammad	NNP	_	2	compound	_	B-PERSON
+2	Ali	ali	NNP	_	18	dep	_	L-PERSON
+3	(	(	-LRB-	_	6	punct	_	O
+4	1942	0	CD	_	8	nmod	_	B-DATE
+5	-	-	SYM	_	6	punct	_	I-DATE
+6	2016	0	CD	pos2=LS	4	prep	_	L-DATE
+7	)	)	-RRB-	_	2	punct	_	O
+8	Game	game	NN	_	2	appos	_	O
+9	1	0	CD	pos2=NN	8	nmod	_	U-CARDINAL
+10	,	,	,	_	18	punct	_	O
+11	1997	0	CD	_	13	nmod	_	O
+12	(	(	-LRB-	_	8	punct	_	O
+13	June	june	NNP	_	18	dep	_	B-DATE
+14	1	0	CD	_	13	nmod	_	I-DATE
+15	,	,	,	_	13	punct	_	I-DATE
+16	1997	0	CD	pos2=LS	13	npadvmod	_	L-DATE
+17	)	)	-RRB-	_	18	punct	_	O
+18	https://t.co/6CuMkEKsAr	#hlink#	ADD	pos2=NN	0	root	_	O
+

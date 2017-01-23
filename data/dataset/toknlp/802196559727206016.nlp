@@ -1,0 +1,17 @@
+1	How	how	WRB	pos2=``	9	advmod	_	O
+2	This	this	DT	_	4	det	_	O
+3	‘	'	``	pos2=POS	4	punct	_	O
+4	Art	art	NNP	pos2=NN	9	nsubj	_	O
+5	Of	of	IN	pos2=NNP	4	prep	_	O
+6	Living	live	VBG	pos2=NNP	5	pcomp	_	O
+7	’	'	''	pos2=POS	4	punct	_	O
+8	Teacher	teacher	NN	pos2=NNP	9	nsubj	_	O
+9	Saved	save	VBD	_	0	root	_	O
+10	Hundreds	#crd#	NNS	pos2=NNP	9	dobj	_	U-CARDINAL
+11	Of	of	IN	_	10	prep	_	O
+12	Women	woman	NNS	pos2=NNP	11	pobj	_	O
+13	From	from	IN	_	12	prep	_	O
+14	#ISIS	#isis	GW	pos2=NNP	13	pobj	_	O
+15	https://t.co/MN8U0qzKAv	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/io6iMrjLyn	#hlink#	ADD	_	13	pobj	_	O
+

@@ -1,0 +1,27 @@
+1	Yes	yes	UH	_	5	discourse	_	O
+2	,	,	,	_	5	punct	_	O
+3	Raul	raul	NNP	_	4	compound	_	B-PERSON
+4	Castro	castro	NNP	_	5	nsubj	_	L-PERSON
+5	is	be	VBZ	_	0	root	_	O
+6	still	still	RB	_	5	advmod	_	O
+7	in	in	IN	_	5	prep	_	O
+8	charge	charge	NN	_	7	pobj	_	O
+9	,	,	,	_	5	punct	_	O
+10	but	but	CC	_	5	cc	_	O
+11	he	he	PRP	_	14	nsubjpass	_	O
+12	's	's	VBZ	_	14	auxpass	_	O
+13	been	be	VBN	_	14	aux	_	O
+14	warming	warm	VBG	_	5	conj	_	O
+15	up	up	RP	pos2=IN	14	prt	_	O
+16	to	to	IN	_	14	prep	_	O
+17	the	the	DT	_	19	det	_	O
+18	Obama	obama	NNP	_	19	compound	_	O
+19	Admin	admin	NNP	pos2=NN	21	poss	_	O
+20	's	's	POS	_	19	case	_	O
+21	offerings	offering	NNS	_	16	pobj	_	O
+22	of	of	IN	_	21	prep	_	O
+23	normalcy	normalcy	NN	_	22	pobj	_	O
+24	in	in	IN	_	21	prep	_	O
+25	relations	relation	NNS	_	24	pobj	_	O
+26	.	.	.	_	14	punct	_	O
+

@@ -1,0 +1,17 @@
+1	Who	who	WP	_	2	nsubj	_	O
+2	wants	want	VBZ	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	work	work	VB	_	2	xcomp	_	O
+5	for	for	IN	_	4	prep	_	O
+6	#Uber	#uber	NNP	pos2=NN	5	pobj	_	U-ORG
+7	after	after	IN	_	4	prep	_	O
+8	reading	read	VBG	_	7	pcomp	_	O
+9	this	this	DT	_	8	dobj	_	O
+10	from	from	IN	_	8	prep	_	O
+11	Business	business	NNP	_	13	compound	_	B-ORG
+12	Insider	insider	NNP	_	13	compound	_	I-ORG
+13	UK	uk	NNP	_	10	pobj	_	L-ORG
+14	?	?	.	_	2	punct	_	O
+
+1	https://t.co/zBcCd2jReX	#hlink#	ADD	_	0	root	_	U-ORG
+

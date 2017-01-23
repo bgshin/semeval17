@@ -1,0 +1,16 @@
+1	Live	live	VB	pos2=RB	0	root	_	O
+2	and	and	CC	_	1	cc	_	O
+3	Let	let	VB	_	4	aux	_	O
+4	Die	die	VB	pos2=NNP	1	conj	_	O
+5	?	?	.	_	1	punct	_	O
+
+1	Resources	resource	NNS	_	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	your	your	PRP$	_	5	poss	_	O
+4	#euthanasia	#euthanasia	NN	pos2=NNP	5	compound	_	O
+5	debates	debate	NNS	pos2=VBZ	2	pobj	_	O
+6	#prolife	#prolife	IN	pos2=ADD	5	prep	_	O
+7	https://t.co/jIfRWkiH6j	#hlink#	ADD	pos2=NN	6	pobj	_	O
+8	via	via	IN	_	1	prep	_	O
+9	@FreedomsAus	@freedomsaus	NN	pos2=ADD	8	pobj	_	O
+

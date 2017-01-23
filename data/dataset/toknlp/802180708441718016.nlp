@@ -1,0 +1,28 @@
+1	Our	our	PRP$	pos2=NNP	4	poss	_	O
+2	'	'	``	pos2=POS	4	punct	_	O
+3	Sanctuary	sanctuary	NNP	_	4	compound	_	B-ORG
+4	Saviors	savior	NNPS	pos2=NNS	6	poss	_	I-ORG
+5	'	'	POS	pos2=''	4	case	_	L-ORG
+6	tee	tee	NN	_	13	nsubj	_	O
+7	,	,	,	_	6	punct	_	O
+8	inspired	inspire	VBN	_	6	acl	_	O
+9	by	by	IN	_	8	agent	_	O
+10	#TheWalkingDead	#thewalkingdead	NNP	pos2=NN	9	pobj	_	U-ORG
+11	,	,	,	_	13	punct	_	O
+12	is	be	VBZ	_	13	aux	_	O
+13	shipping	ship	VBG	pos2=NN	0	root	_	O
+14	now	now	RB	_	13	advmod	_	O
+15	!	!	.	_	13	punct	_	O
+
+1	FREE	free	JJ	_	3	nmod	_	O
+2	RED	red	JJ	_	3	nmod	_	O
+3	NECK	neck	NN	_	0	root	_	O
+4	WARMER	warm	JJR	_	3	nmod	_	O
+5	while	while	IN	_	7	mark	_	O
+6	stocks	stock	NNS	_	7	nsubj	_	O
+7	last	last	JJ	pos2=RB	3	advcl	_	O
+8	!	!	.	_	3	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/wekR2xcNVw	#hlink#	ADD	pos2=NN	0	root	_	O
+

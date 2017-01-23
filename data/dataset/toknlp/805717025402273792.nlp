@@ -1,0 +1,17 @@
+1	Cubans	cuban	NNPS	pos2=NNS	2	nsubj	_	U-NORP
+2	gather	gather	VBP	pos2=VB	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Fidel	fidel	NNP	_	5	compound	_	B-PERSON
+5	Castro	castro	NNP	_	7	poss	_	I-PERSON
+6	’s	's	POS	_	5	case	_	L-PERSON
+7	#	#	NN	pos2=$	3	pobj	_	O
+8	...	..	.	pos2=,	2	punct	_	O
+
+1	T	t	NN	pos2=UH	0	root	_	O
+2	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/pEHaMy0qzA#DeutscheWelle	#hlink#	ADD	_	4	nmod	_	O
+2	#FidelCastro	#fidelcastro	GW	pos2=-RRB-	4	nmod	_	O
+3	#Legacy	#legacy	GW	pos2=-LRB-	4	nmod	_	O
+4	https://t.co/d09cZMys7P	#hlink#	ADD	pos2=NN	0	root	_	O
+

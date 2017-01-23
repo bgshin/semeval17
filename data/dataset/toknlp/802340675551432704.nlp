@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det	_	O
+2	poem	poem	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	Constitution	constitution	NNP	pos2=NN	3	attr	_	U-LAW
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	inner	inner	JJ	_	9	nmod	_	O
+9	country	country	NN	_	6	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	-	-	SYM	pos2=NFP	4	punct	_	O
+2	Leonard	leonard	NNP	_	3	compound	_	B-PERSON
+3	Cohen	cohen	NNP	pos2=GW	4	dep	_	L-PERSON
+4	https://t.co/bhR8bInNTn	#hlink#	ADD	_	0	root	_	O
+

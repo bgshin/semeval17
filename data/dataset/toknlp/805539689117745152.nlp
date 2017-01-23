@@ -1,0 +1,19 @@
+1	Supermodel	supermodel	NNP	pos2=NN	2	compound	_	O
+2	@theashleygraham	@theashleygraham	NNP	pos2=POS	4	nsubj	_	O
+3	is	be	VBZ	_	4	aux	_	O
+4	proving	prove	VBG	_	0	root	_	O
+5	she	she	PRP	_	6	nsubj	_	O
+6	's	's	VBZ	_	4	ccomp	_	O
+7	in	in	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	business	business	NN	_	7	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	making	make	VBG	_	10	pcomp	_	O
+12	history	history	NN	_	11	dobj	_	O
+13	and	and	CC	_	11	cc	_	O
+14	shattering	shatter	VBG	pos2=NN	11	conj	_	O
+15	barriers	barrier	NNS	_	14	dobj	_	O
+16	:	:	:	_	4	punct	_	O
+17	…	…	NFP	pos2=-LRB-	18	punct	_	O
+18	https://t.co/IhH6gXxfoE	#hlink#	ADD	_	4	dep	_	O
+

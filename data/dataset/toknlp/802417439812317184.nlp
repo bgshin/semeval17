@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det	_	O
+2	#Future	#future	NNP	pos2=NN	5	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	#Fashion	#fashion	NNP	pos2=NN	3	pobj	_	O
+5	Is	be	VBZ	_	0	root	_	O
+6	3	0	CD	_	9	nmod	_	U-CARDINAL
+7	D	d	NNP	pos2=NN	8	compound	_	O
+8	Printing	printing	NNP	pos2=VBG	9	compound	_	O
+9	Clothes	clothes	NNS	pos2=NNPS	5	attr	_	O
+10	at	at	IN	_	9	prep	_	O
+11	Home	home	NNP	pos2=NN	10	pobj	_	O
+12	https://t.co/OJxvSQxRKK	#hlink#	ADD	pos2=NNP	10	pobj	_	O
+13	via	via	IN	_	5	prep	_	O
+14	@luxury	@luxury	NN	pos2=.	13	pobj	_	O
+

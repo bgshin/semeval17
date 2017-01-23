@@ -1,0 +1,15 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	took	take	VBD	_	0	root	_	O
+3	me	me	PRP	_	2	dative	_	O
+4	a	a	DT	_	5	det	_	O
+5	second	#ord#	JJ	pos2=NN	2	dobj	_	U-ORDINAL
+6	to	to	TO	_	7	aux	_	O
+7	realize	realize	VB	_	5	relcl	_	O
+8	that	that	IN	_	11	mark	_	O
+9	that	that	DT	pos2=IN	10	det	_	O
+10	drummer	drummer	NN	_	11	nsubj	_	O
+11	is	be	VBZ	_	7	ccomp	_	O
+12	not	not	RB	_	11	neg	_	O
+13	Justin	justin	NNP	_	14	compound	_	B-PERSON
+14	Verlander😂	verlander😂	NNP	pos2=.	11	attr	_	L-PERSON
+

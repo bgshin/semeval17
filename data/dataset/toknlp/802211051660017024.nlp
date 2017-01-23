@@ -1,0 +1,12 @@
+1	Nothing	nothing	NN	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	😲@zaynmalik	😲@zaynmalik	NNP	pos2=XX	2	compound	_	B-PERSON
+2	🙏👍😚#zaynmalik	🙏👍😚#zaynmalik	NNP	pos2=XX	8	dep	_	L-PERSON
+3	#onedirection	#onedirection	ADD	pos2=XX	8	dep	_	O
+4	#harrystyles	#harrystyles	NNPS	pos2=UH	3	pobj	_	O
+5	#niallhoran	#niallhoran	UH	pos2=IN	8	discourse	_	O
+6	#louistomlinson	#louistomlinson	UH	pos2=GW	5	discourse	_	O
+7	…	…	NFP	pos2=-LRB-	8	punct	_	O
+8	https://t.co/0LU8R9Lg1o	#hlink#	ADD	_	0	root	_	O
+

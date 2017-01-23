@@ -1,0 +1,22 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	see	see	VBP	_	0	root	_	O
+3	you	you	PRP	_	2	dobj	_	O
+4	Westworld	westworld	NNP	_	2	vocative	_	U-PERSON
+5	!	!	.	_	2	punct	_	O
+
+1	These	these	DT	_	3	det	_	O
+2	violent	violent	JJ	_	3	nmod	_	O
+3	delights	delight	NNS	pos2=VBZ	4	nsubj	_	O
+4	lead	lead	VBP	pos2=NN	0	root	_	O
+5	to	to	IN	_	4	prep	_	O
+6	violent	violent	JJ	_	7	nmod	_	O
+7	ends	end	NNS	_	5	pobj	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	#WestworldFinale	#westworldfinale	ADD	pos2=XX	6	punct	_	O
+2	#shakespeare	#shakespeare	UH	pos2=IN	6	discourse	_	O
+3	#vlogger	#vlogger	UH	pos2=JJR	6	discourse	_	O
+4	#youtube	#youtube	UH	pos2=VB	6	discourse	_	O
+5	#SundayFunday	#sundayfunday	NNP	pos2=UH	6	cc	_	O
+6	#ingadtv	#ingadtv	UH	pos2=ADD	0	root	_	O
+

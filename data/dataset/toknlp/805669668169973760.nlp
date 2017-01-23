@@ -1,0 +1,21 @@
+1	Well	well	UH	_	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	take	take	VBP	_	0	root	_	O
+4	that	that	DT	_	3	dobj	_	O
+5	back	back	RB	pos2=NN	3	advmod	_	O
+6	maybe	maybe	RB	_	3	advmod	_	O
+7	cuz	cuz	IN	pos2=FW	9	mark	_	O
+8	@CrownUpGuy	@crownupguy	NNP	pos2=NN	9	nsubj	_	U-ORG
+9	is	be	VBZ	_	3	advcl	_	O
+10	n't	not	RB	_	9	neg	_	O
+11	here	here	RB	_	9	advmod	_	O
+12	a	a	DT	pos2=RBR	13	det	_	O
+13	few	few	JJ	_	9	attr	_	O
+14	of	of	IN	_	13	prep	_	O
+15	you	you	PRP	_	14	pobj	_	O
+16	might	might	MD	_	17	aux	_	O
+17	make	make	VB	_	13	acl	_	O
+18	minimum	minimum	JJ	pos2=NN	20	nmod	_	O
+19	wage	wage	NN	_	20	compound	_	O
+20	ev	ev	NN	pos2=NNS	17	dobj	_	O
+

@@ -1,0 +1,27 @@
+1	@nberlat	@nberlat	IN	pos2=VB	0	root	_	O
+2	Medicare	medicare	NNP	_	1	pobj	_	U-ORG
+3	for	for	IN	_	2	prep	_	O
+4	All	all	NNP	pos2=DT	3	pobj	_	O
+5	,	,	,	_	4	punct	_	O
+6	a	a	DT	_	9	det	_	O
+7	real	real	JJ	_	8	nmod	_	O
+8	jobs	job	NNS	pos2=NN	9	compound	_	O
+9	program	program	NN	_	4	appos	_	O
+10	,	,	,	_	4	punct	_	O
+11	tuition	tuition	NN	_	13	npadvmod	_	O
+12	-	-	HYPH	_	13	punct	_	O
+13	free	free	JJ	_	15	nmod	_	O
+14	public	public	JJ	pos2=NN	15	nmod	_	O
+15	college	college	NN	_	4	appos	_	O
+16	,	,	,	_	19	punct	_	O
+17	ending	end	VBG	_	15	acl	_	O
+18	the	the	DT	_	20	det	_	O
+19	drug	drug	NN	_	20	compound	_	O
+20	war	war	NN	_	17	dobj	_	O
+21	.	.	.	_	1	punct	_	O
+
+1	These	these	DT	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	non-negotiable	non-negotiable	JJ	_	2	acomp	_	O
+4	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,31 @@
+1	SOROS	soros	NNP	pos2=NN	3	nsubj	_	U-PERSON
+2	MUST	must	MD	_	3	aux	_	O
+3	GO	go	VB	_	0	root	_	O
+4	DOWN	down	IN	pos2=RP	7	advmod	_	O
+5	HE	he	PRP	pos2=NNP	6	nsubj	_	O
+6	OWNS	own	VBZ	_	3	ccomp	_	O
+7	PROGRESSIVE	progressive	JJ	_	8	nmod	_	O
+8	INSURANCE	insurance	NN	_	6	dobj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	IF	if	IN	_	3	mark	_	O
+2	YOU	you	PRP	_	3	nsubj	_	O
+3	HAVE	have	VBP	_	5	advcl	_	O
+4	IT	it	PRP	_	5	nsubj	_	O
+5	GET	get	VB	_	0	root	_	O
+6	RID	rid	VBN	pos2=JJ	5	acomp	_	O
+7	OF	of	IN	_	6	prep	_	O
+8	IT	it	PRP	_	7	pobj	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	THIS	this	DT	_	2	nsubj	_	O
+2	IS	be	VBZ	_	0	root	_	O
+3	HOW	how	WRB	_	5	advmod	_	O
+4	HE	he	PRP	_	5	nsubj	_	O
+5	FUNDS	fund	VBZ	pos2=NNS	2	ccomp	_	O
+6	ANTI	anti	AFX	pos2=FW	7	nmod	_	O
+7	TRUMP	trump	NN	pos2=NNP	8	compound	_	O
+8	RIO	rio	NNP	pos2=GW	5	dobj	_	O
+9	…	…	NFP	pos2=:	10	punct	_	O
+10	https://t.co/3tkrza5h9P	#hlink#	ADD	_	8	appos	_	O
+

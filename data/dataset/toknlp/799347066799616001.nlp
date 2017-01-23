@@ -1,0 +1,21 @@
+1	Edward	edward	NNP	_	2	compound	_	B-PERSON
+2	@Snowden	@snowden	NNP	_	3	nsubj	_	L-PERSON
+3	Lied	lie	VBD	pos2=NNP	0	root	_	O
+4	About	about	IN	pos2=NNP	3	prep	_	O
+5	Special	special	NNP	pos2=JJ	6	compound	_	B-ORG
+6	Forces	force	NNPS	pos2=NNS	7	compound	_	L-ORG
+7	TrainingJune	trainingjune	NNP	_	4	pobj	_	O
+8	2013	0	CD	_	7	nmod	_	U-DATE
+9	Email	email	NN	pos2=NNP	18	advmod	_	O
+10	from	from	IN	_	9	prep	_	O
+11	JFK	jfk	NNP	_	14	compound	_	B-ORG
+12	Special	special	NNP	_	14	compound	_	I-ORG
+13	Warfare	warfare	NNP	_	14	compound	_	I-ORG
+14	Center	center	NNP	_	10	pobj	_	I-ORG
+15	&	&	CC	_	14	cc	_	I-ORG
+16	SchoolH	schoolh	NNP	_	14	conj	_	I-ORG
+17	/	/	HYPH	pos2=SYM	18	punct	_	I-ORG
+18	t	t	IN	pos2=GW	3	prep	_	I-ORG
+19	…	…	NFP	pos2=:	18	punct	_	L-ORG
+20	https://t.co/BPxz0mbnG9	#hlink#	ADD	pos2=NN	18	pobj	_	O
+

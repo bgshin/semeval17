@@ -1,0 +1,24 @@
+1	Dear	dear	JJ	_	2	nmod	_	O
+2	president	president	NN	pos2=GW	5	vocative	_	O
+3	electArd	electard	VBD	pos2=NNP	5	aux	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	going	go	VBG	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	be	be	VB	_	5	xcomp	_	O
+8	a	a	DT	_	9	det	_	O
+9	puppet	puppet	NN	_	7	attr	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Paul	paul	NNP	_	12	compound	_	B-PERSON
+12	RyansAnd	ryansand	NNP	pos2=TO	10	pobj	_	L-PERSON
+13	help	help	VB	pos2=VBP	11	parataxis	_	O
+14	him	him	PRP	_	15	nsubj	_	O
+15	privatize	privatize	VB	_	13	ccomp	_	O
+16	medicare	medicare	NN	pos2=NNP	15	dobj	_	O
+17	...	..	.	_	5	punct	_	O
+
+1	and	and	CC	_	3	cc	_	O
+2	or	or	CC	_	3	cc	_	O
+3	cut	cut	VB	pos2=VBN	0	root	_	O
+4	social	social	JJ	_	5	nmod	_	O
+5	security	security	NN	_	3	dobj	_	O
+

@@ -1,0 +1,24 @@
+1	over	over	IN	pos2=RB	3	qmod	_	B-CARDINAL
+2	2	0	CD	_	3	compound	_	I-CARDINAL
+3	million	#crd#	CD	_	0	root	_	L-CARDINAL
+4	of	of	IN	_	3	prep	_	O
+5	them	them	PRP	_	4	pobj	_	O
+6	...	..	.	pos2=:	3	punct	_	O
+
+1	the	the	DT	_	6	det	_	O
+2	over	over	IN	pos2=$	4	qmod	_	O
+3	2	0	CD	_	4	compound	_	B-CARDINAL
+4	million	#crd#	CD	_	5	npadvmod	_	L-CARDINAL
+5	more	more	JJR	pos2=RBR	0	root	_	O
+6	that	that	WDT	pos2=IN	7	nsubj	_	O
+7	voted	vote	VBD	_	5	relcl	_	O
+8	for	for	IN	_	7	prep	_	O
+9	@HillaryClinton	@hillaryclinton	NNP	pos2=NN	8	pobj	_	O
+10	than	than	IN	_	7	prep	_	O
+11	Trump	trump	NNP	pos2=NN	10	pobj	_	U-ORG
+12	.	.	.	_	11	punct	_	O
+
+1	@	@	SYM	_	3	punct	_	O
+2	20committee	0committee	NN	pos2=JJ	3	compound	_	U-MONEY
+3	@KremlinTrolls	@kremlintrolls	NNS	pos2=ADD	0	root	_	O
+

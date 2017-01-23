@@ -1,0 +1,28 @@
+1	Russia	russia	NNP	pos2=NN	4	vocative	_	U-GPE
+2	,	,	,	_	4	punct	_	O
+3	we	we	PRP	_	4	nsubj	_	O
+4	have	have	VBP	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	lot	lot	NN	_	9	nsubj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	has	have	VBZ	_	9	aux	_	O
+9	been	be	VBN	_	4	ccomp	_	O
+10	actors	actor	NNS	_	9	attr	_	O
+11	We	we	PRP	_	13	nsubj	_	O
+12	should	should	MD	_	13	aux	_	O
+13	work	work	VB	_	9	ccomp	_	O
+14	together	together	RB	_	13	advmod	_	O
+15	and	and	CC	_	13	cc	_	O
+16	send	send	VB	_	13	conj	_	O
+17	them	them	PRP	_	16	dobj	_	O
+18	to	to	IN	pos2=TO	16	prep	_	O
+19	#mars	#mars	VB	pos2=RB	18	pobj	_	O
+20	instead	instead	RB	_	16	advmod	_	O
+21	.	.	.	_	4	punct	_	O
+
+1	Why	why	WRB	_	2	advmod	_	O
+2	not	not	RB	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	https://t.co/ovLiUCtIHT	#hlink#	ADD	_	0	root	_	U-ORG
+

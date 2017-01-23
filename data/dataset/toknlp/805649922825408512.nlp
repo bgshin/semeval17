@@ -1,0 +1,24 @@
+1	@LiveNationOzNz	@livenationoznz	ADD	pos2=UH	5	cc	_	O
+2	@LittleMix	@littlemix	XX	pos2=VBZ	5	dep	_	O
+3	how	how	WRB	_	4	advmod	_	O
+4	hard	hard	JJ	pos2=RB	5	acomp	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	it	it	PRP	_	5	nsubj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	post	post	VB	_	5	xcomp	_	O
+9	the	the	DT	_	10	det	_	O
+10	prices	price	NNS	_	8	dobj	_	O
+11	not	not	RB	_	12	neg	_	O
+12	everyone	everyone	NN	_	14	nsubj	_	O
+13	can	can	MD	_	14	aux	_	O
+14	afford	afford	VB	_	10	relcl	_	O
+15	VIP	vip	NN	pos2=NNP	14	dobj	_	O
+16	unless	unless	IN	_	18	mark	_	O
+17	they	they	PRP	_	18	nsubj	_	O
+18	win	win	VBP	_	14	advcl	_	O
+19	lotto	lotto	NN	pos2=FW	18	dobj	_	O
+20	or	or	CC	_	18	cc	_	O
+21	marry	marry	VB	_	18	conj	_	O
+22	Zac	zac	NNP	_	23	compound	_	B-PERSON
+23	Efron	efron	NNP	_	21	dobj	_	L-PERSON
+

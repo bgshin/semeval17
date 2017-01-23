@@ -1,0 +1,8 @@
+1	Hubby	hubby	NN	pos2=VB	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	spoiler	spoiler	NN	_	1	appos	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	Valentines	valentines	NNP	pos2=NNS	0	root	_	U-EVENT
+2	?	?	.	_	1	punct	_	O
+

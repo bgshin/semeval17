@@ -1,0 +1,21 @@
+1	Arizona	arizona	NNP	_	2	compound	_	U-GPE
+2	Democrat	democrat	NNP	_	6	dep	_	U-NORP
+3	:	:	:	_	6	punct	_	O
+4	'	'	``	pos2=''	2	punct	_	O
+5	We	we	PRP	_	6	nsubj	_	O
+6	have	have	VBP	pos2=VB	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	duty	duty	NN	_	6	dobj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	treat	treat	VB	_	8	acl	_	O
+11	Trump	trump	NNP	pos2=NN	10	dobj	_	U-ORG
+12	like	like	IN	pos2=UH	10	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	threat	threat	NN	_	12	pobj	_	O
+15	he	he	PRP	_	16	nsubj	_	O
+16	is	be	VBZ	_	14	relcl	_	O
+17	'	'	``	pos2=-LRB-	16	punct	_	O
+18	https://t.co/SVY8lW87NU	#hlink#	ADD	_	16	attr	_	O
+19	#NeverTrump	#nevertrump	-RRB-	pos2=ADD	20	punct	_	U-ORG
+20	#TrumpTransitionTeam	#trumptransitionteam	NN	pos2=ADD	6	advmod	_	O
+

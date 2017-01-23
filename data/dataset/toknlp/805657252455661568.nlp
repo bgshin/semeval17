@@ -1,0 +1,11 @@
+1	DAPL	dapl	NNP	pos2=NN	4	nsubj	_	U-ORG
+2	does	do	VBZ	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	effect	effect	VB	_	0	root	_	O
+5	a	a	DT	_	7	det	_	O
+6	single	single	JJ	_	7	nmod	_	O
+7	cent	cent	NN	_	4	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	fossil	fossil	NN	pos2=JJ	10	compound	_	O
+10	fuels	fuel	NNS	_	8	pobj	_	O
+

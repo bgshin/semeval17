@@ -1,0 +1,20 @@
+1	#Spurs	#spurs	NNS	pos2=NNP	2	compound	_	O
+2	#GoSpursGo	#gospursgo	NNP	pos2=RB	0	root	_	O
+3	2004	0	CD	_	5	qmod	_	B-DATE
+4	-	-	SYM	pos2=HYPH	5	punct	_	I-DATE
+5	05	0	CD	_	6	nmod	_	L-DATE
+6	#Topps	#topps	NNS	pos2=IN	9	compound	_	O
+7	Chrome	chrome	NNP	pos2=NN	9	compound	_	O
+8	Refractors	refractor	NNS	pos2=NNPS	9	compound	_	O
+9	#	#	NN	pos2=,	2	npadvmod	_	O
+10	50	0	CD	pos2=LS	9	nmod	_	U-CARDINAL
+11	Tim	tim	NNP	_	16	compound	_	B-PERSON
+12	Duncan	duncan	NNP	_	16	compound	_	I-PERSON
+13	-	-	HYPH	_	16	punct	_	I-PERSON
+14	NM	nm	NNP	pos2=NN	16	compound	_	I-PERSON
+15	-	-	HYPH	pos2=,	16	punct	_	I-PERSON
+16	MT	mt	NNP	pos2=NN	17	dep	_	L-PERSON
+17	https://t.co/p1actqIWcP	#hlink#	ADD	pos2=NN	19	nmod	_	O
+18	#TimDuncan	#timduncan	ADD	pos2=-RRB-	0	root	_	U-ORG
+19	#NBA	#nba	NN	pos2=ADD	18	pobj	_	O
+

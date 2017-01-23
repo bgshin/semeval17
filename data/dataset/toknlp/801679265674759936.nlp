@@ -1,0 +1,21 @@
+1	#MosulOffensive	#mosuloffensive	NN	pos2=NNS	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	Shiite	shiite	JJ	_	4	nmod	_	U-NORP
+4	forces	force	NNS	_	5	nsubj	_	O
+5	poised	poise	VBN	_	0	root	_	O
+6	on	on	IN	_	5	prep	_	O
+7	edge	edge	NN	_	6	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	Tal	tal	NNP	_	10	compound	_	B-GPE
+10	Afar	afar	NNP	_	8	pobj	_	L-GPE
+11	,	,	,	_	14	punct	_	O
+12	wo	wo	MD	_	14	aux	_	O
+13	n't	not	RB	_	14	neg	_	O
+14	enter	enter	VB	_	18	ccomp	_	O
+15	city	city	NN	_	14	dobj	_	O
+16	,	,	,	_	18	punct	_	O
+17	spokesman	spokesman	NN	_	18	nsubj	_	O
+18	says	say	VBZ	_	0	root	_	O
+19	https://t.co/m2PSAYatJA	#hlink#	ADD	_	20	nmod	_	U-ORG
+20	https://t.co/VifWTT6LND	#hlink#	ADD	_	18	punct	_	U-ORG
+

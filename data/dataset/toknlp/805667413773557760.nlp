@@ -1,0 +1,14 @@
+1	@MarketWatch	@marketwatch	UH	pos2=ADD	2	discourse	_	O
+2	@JeffReevesIP	@jeffreevesip	VB	pos2=MD	0	root	_	O
+3	all	all	PDT	pos2=DT	6	predet	_	O
+4	your	your	PRP$	_	6	poss	_	O
+5	fossil	fossil	NN	pos2=JJ	6	compound	_	O
+6	fuels	fuel	NNS	_	8	nsubj	_	O
+7	are	be	VBP	_	8	aux	_	O
+8	belong	belong	VBG	pos2=VBP	2	ccomp	_	O
+9	to	to	IN	_	8	prep	_	O
+10	more	more	RBR	_	11	advmod	_	O
+11	expensive	expensive	JJ	_	9	pcomp	_	O
+12	than	than	IN	_	11	prep	_	O
+13	renewables	renewable	NNS	_	12	pobj	_	O
+

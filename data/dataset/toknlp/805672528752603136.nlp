@@ -1,0 +1,14 @@
+1	Raul	raul	NNP	_	2	compound	_	B-PERSON
+2	Castro	castro	NNP	_	6	dep	_	L-PERSON
+3	:	:	:	_	6	punct	_	O
+4	Cuba	cuba	NNP	_	6	nsubj	_	U-GPE
+5	will	will	MD	_	6	aux	_	O
+6	ban	ban	VB	_	0	root	_	O
+7	naming	naming	NN	pos2=VBG	6	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	monuments	monument	NNS	_	8	pobj	_	O
+10	after	after	IN	_	6	prep	_	O
+11	Fidel	fidel	NNP	_	13	nmod	_	B-PERSON
+12	-	-	HYPH	pos2=,	13	punct	_	I-PERSON
+13	https://t.co/WAzf5JUoWM	#hlink#	ADD	pos2=NNP	10	pobj	_	L-PERSON
+

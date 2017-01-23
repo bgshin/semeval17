@@ -1,0 +1,31 @@
+1	#CHINA	#china	NN	pos2=NNP	3	nsubj	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	stopped	stop	VBD	_	0	root	_	O
+4	citizens	citizen	NNS	_	3	dobj	_	O
+5	from	from	IN	_	3	prep	_	O
+6	calling	call	VBG	_	5	pcomp	_	O
+7	Kim	kim	NNP	_	9	compound	_	O
+8	Jong	jong	NNP	_	9	compound	_	O
+9	Un	un	NNP	_	6	dobj	_	O
+10	"	"	''	pos2=``	14	punct	_	O
+11	Kim	kim	NNP	_	12	compound	_	B-PERSON
+12	Fatty	fatty	NNP	_	9	conj	_	L-PERSON
+13	The	the	DT	pos2=NNP	14	det	_	O
+14	Third	#ord#	NNP	pos2=JJ	12	appos	_	U-ORDINAL
+15	"	"	''	_	3	punct	_	O
+16	.	.	.	_	3	punct	_	O
+
+1	Well	well	UH	_	4	discourse	_	O
+2	this	this	DT	_	3	det	_	O
+3	post	post	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	all	all	DT	_	5	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	you	you	PRP	_	7	pobj	_	O
+9	Chinese	chinese	JJ	pos2=NNPS	10	nmod	_	U-NORP
+10	people	people	NNS	_	6	appos	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	#NorthKorea	#northkorea	NN	pos2=ADD	0	root	_	O
+

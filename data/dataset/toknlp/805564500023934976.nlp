@@ -1,0 +1,11 @@
+1	Of	of	RB	pos2=IN	2	advmod	_	O
+2	course	course	RB	pos2=NN	6	advmod	_	O
+3	Pat	pat	NNP	_	4	compound	_	B-PERSON
+4	Miletich	miletich	NNP	_	6	nsubj	_	L-PERSON
+5	would	would	MD	_	6	aux	_	O
+6	retweet	retweet	VB	_	0	root	_	O
+7	Marine	marine	NNP	_	9	compound	_	B-PERSON
+8	Le	le	NNP	_	9	compound	_	I-PERSON
+9	Pen	pen	NNP	_	6	dobj	_	L-PERSON
+10	.	.	.	_	6	punct	_	O
+

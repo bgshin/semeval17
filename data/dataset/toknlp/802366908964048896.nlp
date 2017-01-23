@@ -1,0 +1,29 @@
+1	A	a	DT	pos2=NNP	2	det	_	O
+2	rally	rally	NN	_	0	oprd	_	O
+3	3	0	CD	_	4	nmod	_	B-DATE
+4	years	year	NNS	_	5	npadvmod	_	I-DATE
+5	ago	ago	RB	_	2	advmod	_	L-DATE
+6	at	at	IN	_	2	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	Capital	capital	NNP	pos2=NN	6	pobj	_	U-ORG
+9	.	.	.	_	2	punct	_	O
+
+1	Why	why	WRB	_	4	advmod	_	O
+2	did	do	VBD	_	4	aux	_	O
+3	Utah	utah	NNP	_	4	nsubj	_	U-GPE
+4	cut	cut	VB	pos2=VBD	0	root	_	O
+5	Medicaid	medicaid	NNP	_	4	dobj	_	U-ORG
+6	for	for	IN	_	4	prep	_	O
+7	those	those	DT	_	6	pobj	_	O
+8	in	in	IN	pos2=WDT	7	prep	_	O
+9	need	need	NN	pos2=VBP	8	pobj	_	O
+10	like	like	IN	pos2=UH	9	prep	_	O
+11	my	my	PRP$	_	12	poss	_	O
+12	brother	brother	NN	_	10	pobj	_	O
+13	?	?	.	_	4	punct	_	O
+
+1	Assholes	asshole	NNS	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	https://t.co/YeEOgSmfWM	#hlink#	ADD	_	0	root	_	U-ORG
+

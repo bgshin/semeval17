@@ -1,0 +1,18 @@
+1	This	this	DT	_	2	det	_	O
+2	song	song	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	everything	everything	NN	_	3	attr	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	Biblical	biblical	JJ	pos2=NNP	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	-	-	SYM	pos2=NFP	5	punct	_	O
+2	Leonard	leonard	NNP	_	5	compound	_	B-PERSON
+3	Cohen	cohen	NNP	_	5	compound	_	I-PERSON
+4	-	-	HYPH	pos2=GW	5	punct	_	I-PERSON
+5	Hallelujah	hallelujah	NNP	_	6	dep	_	L-PERSON
+6	https://t.co/ng6n6w018y	#hlink#	ADD	pos2=NN	0	root	_	O
+7	via	via	IN	_	5	prep	_	O
+8	@YouTube	@youtube	NNP	pos2=NN	7	pobj	_	O
+

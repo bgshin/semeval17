@@ -1,0 +1,31 @@
+1	@AIIAmericanGirI	@aiiamericangiri	UH	pos2=ADD	5	discourse	_	O
+2	@DrJillStein	@drjillstein	UH	pos2=IN	5	discourse	_	O
+3	They	they	PRP	_	5	nsubj	_	O
+4	really	really	RB	_	5	advmod	_	O
+5	need	need	VBP	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	charge	charge	VB	_	5	xcomp	_	O
+8	her	her	PRP	pos2=PRP$	7	dobj	_	O
+9	with	with	IN	_	7	prep	_	O
+10	fraud	fraud	NN	_	9	pobj	_	O
+11	!	!	.	_	5	punct	_	O
+
+1	Do	do	VBP	_	3	aux	_	O
+2	they	they	PRP	_	3	nsubj	_	O
+3	have	have	VB	pos2=VBP	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	death	death	NN	_	6	compound	_	O
+6	penalty	penalty	NN	_	3	dobj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	stupidity	stupidity	NN	_	7	pobj	_	O
+9	in	in	IN	_	8	prep	_	O
+10	WI	wi	NNP	pos2=NN	9	pobj	_	U-GPE
+11	?	?	.	_	3	punct	_	O
+
+1	If	if	IN	_	2	mark	_	O
+2	not	not	RB	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	Ya	ya	PRP	pos2=TO	2	nsubj	_	O
+2	know	know	VBP	pos2=VB	0	root	_	O
+

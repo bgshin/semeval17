@@ -1,0 +1,22 @@
+1	#VIDEO	#video	NN	pos2=NNS	14	nsubj	_	O
+2	Of	of	IN	_	1	prep	_	O
+3	the	the	DT	_	7	det	_	O
+4	Israel	israel	NNP	_	7	compound	_	U-GPE
+5	occupation	occupation	NN	_	6	compound	_	O
+6	check	check	NN	pos2=VB	7	compound	_	O
+7	point	point	NN	_	2	pobj	_	O
+8	at	at	IN	_	7	prep	_	O
+9	Anata	anata	NNP	_	11	compound	_	B-FAC
+10	village	village	NN	_	11	compound	_	L-FAC
+11	east	east	NN	pos2=RB	8	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	#Jerusalem	#jerusalem	NNP	pos2=NNS	12	pobj	_	U-ORG
+14	were	be	VBD	_	0	root	_	O
+15	the	the	DT	_	17	det	_	O
+16	occupation	occupation	NN	pos2=JJ	17	compound	_	O
+17	forces	force	NNS	_	18	nsubj	_	O
+18	shot	shoot	VBD	pos2=NN	14	conj	_	O
+19	...	..	.	pos2=,	18	punct	_	O
+
+1	https://t.co/7iQ0KiQHVZ	#hlink#	ADD	_	0	root	_	U-ORG
+

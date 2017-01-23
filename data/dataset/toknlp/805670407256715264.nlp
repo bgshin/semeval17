@@ -1,0 +1,26 @@
+1	@nytimes	@nytimes	UH	pos2=IN	22	discourse	_	O
+2	an	an	DT	_	4	det	_	O
+3	outdtanding	outdtanding	VBG	pos2=JJ	4	nmod	_	O
+4	PM	pm	NN	_	1	dobj	_	O
+5	who	who	WP	_	7	nsubj	_	O
+6	has	have	VBZ	_	7	aux	_	O
+7	provided	provided	VBN	_	4	relcl	_	O
+8	stability	stability	NN	_	7	dobj	_	O
+9	,	,	,	_	8	punct	_	O
+10	a	a	DT	_	11	det	_	O
+11	surplus	surplus	NN	_	8	appos	_	O
+12	,	,	,	_	22	punct	_	O
+13	some	some	DT	_	22	nsubj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	best	good	JJS	_	17	nmod	_	O
+16	growth	growth	NN	_	17	compound	_	O
+17	stats	stat	NNS	_	14	pobj	_	O
+18	in	in	IN	_	17	prep	_	O
+19	OECD	oecd	NNP	_	18	pobj	_	U-ORG
+20	,	,	,	_	22	punct	_	O
+21	&	&	CC	_	23	nsubj	_	O
+22	supported	support	VBD	pos2=VBN	0	root	_	O
+23	gay	gay	JJ	pos2=NN	24	nmod	_	O
+24	marriage	marriage	NN	_	25	compound	_	O
+25	#respect	#respect	NN	pos2=.	22	dobj	_	O
+

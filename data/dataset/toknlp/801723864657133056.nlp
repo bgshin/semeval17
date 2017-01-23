@@ -1,0 +1,21 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	lady	lady	NN	_	3	nsubj	_	O
+3	surprised	surprise	VBD	_	0	root	_	O
+4	me	me	PRP	_	3	dobj	_	O
+5	with	with	IN	_	3	prep	_	O
+6	lower	low	JJR	pos2=JJ	8	nmod	_	O
+7	bowl	bowl	NN	_	8	compound	_	O
+8	tickets	ticket	NNS	_	5	pobj	_	O
+9	to	to	IN	_	8	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	@utahjazz	@utahjazz	HYPH	pos2=JJ	12	punct	_	O
+12	game	game	NN	_	9	pobj	_	O
+13	tonight	tonight	NN	_	3	npadvmod	_	U-TIME
+14	.	.	.	_	3	punct	_	O
+
+1	Words	word	NNS	_	4	nsubj	_	O
+2	can	can	MD	_	4	aux	_	O
+3	not	not	RB	_	4	neg	_	O
+4	…	…	VB	pos2=NFP	0	root	_	O
+5	https://t.co/U7CEkNIYpl	#hlink#	ADD	_	4	dobj	_	U-ORG
+

@@ -1,0 +1,15 @@
+1	You	you	PRP	_	2	nsubj	_	O
+2	owe	owe	VBP	_	0	root	_	O
+3	Steve	steve	NNP	_	4	compound	_	B-PERSON
+4	Bannon	bannon	NNP	_	2	dative	_	L-PERSON
+5	a	a	DT	_	6	det	_	O
+6	quarter	quarter	NN	_	11	nmod	_	O
+7	for	for	IN	_	6	prep	_	O
+8	this	this	DT	_	9	det	_	O
+9	tweet	tweet	NN	_	7	pobj	_	O
+10	,	,	,	_	11	punct	_	O
+11	Coach	coach	NN	pos2=NNP	2	dobj	_	O
+12	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/kV3bavxsRg	#hlink#	ADD	_	0	root	_	U-ORG
+

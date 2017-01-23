@@ -1,0 +1,15 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	'm	be	VBP	_	4	aux	_	O
+3	not	not	RB	_	4	neg	_	O
+4	going	go	VBG	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	sack	sack	VB	_	4	xcomp	_	O
+7	Tony	tony	NNP	_	8	compound	_	B-PERSON
+8	romo	romo	NNP	pos2=RB	6	dobj	_	L-PERSON
+9	but	but	CC	_	4	cc	_	O
+10	I	I	PRP	pos2=NNP	12	nsubj	_	O
+11	will	will	MD	_	12	aux	_	O
+12	sack	sack	VB	_	4	conj	_	O
+13	dak	dak	GW	pos2=RB	14	nmod	_	O
+14	https://t.co/8bicyR3OCW	#hlink#	ADD	pos2=NN	12	dobj	_	O
+

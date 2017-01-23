@@ -1,0 +1,16 @@
+1	#Yemen	#yemen	NNP	pos2=UH	5	nsubj	_	O
+2	A	a	DT	_	5	det	_	O
+3	little	little	JJ	_	5	nmod	_	O
+4	information	information	NN	_	5	compound	_	O
+5	presentation	presentation	NN	_	0	root	_	O
+6	on	on	IN	_	5	prep	_	O
+7	Russian	russian	JJ	_	10	nmod	_	U-NORP
+8	and	and	CC	_	7	cc	_	O
+9	American	american	JJ	pos2=NNP	7	conj	_	U-NORP
+10	Helicopters	helicopter	NNS	pos2=NNPS	6	pobj	_	O
+11	pertaining	pertain	VBG	_	10	acl	_	O
+12	to	to	IN	_	11	prep	_	O
+13	Yemen	yemen	NNP	_	12	pobj	_	U-GPE
+14	…	…	NFP	pos2=POS	15	punct	_	O
+15	https://t.co/VFMA7vw5cA	#hlink#	ADD	_	5	npadvmod	_	O
+

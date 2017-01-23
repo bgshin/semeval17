@@ -1,0 +1,22 @@
+1	@WCurties	@wcurties	NNS	pos2=ADD	0	root	_	O
+2	@lavurty	@lavurty	UH	pos2=ADD	1	discourse	_	O
+3	@booatticus63	@booatticus0	CD	pos2=VBP	4	nmod	_	O
+4	@zdshriner	@zdshriner	UH	pos2=JJR	1	discourse	_	O
+5	@realDonaldTrump	@realdonaldtrump	UH	pos2=NN	1	discourse	_	O
+6	but	but	CC	_	1	cc	_	O
+7	that	that	DT	_	8	nsubj	_	O
+8	's	's	VBZ	_	1	conj	_	O
+9	not	not	RB	_	8	neg	_	O
+10	the	the	DT	_	11	det	_	O
+11	people	people	NNS	_	8	attr	_	O
+12	that	that	DT	pos2=WDT	13	nsubj	_	O
+13	's	's	VBZ	_	8	ccomp	_	O
+14	the	the	DT	_	16	det	_	B-ORG
+15	Electoral	electoral	NNP	_	16	compound	_	I-ORG
+16	College	college	NNP	_	13	attr	_	L-ORG
+17	.	.	.	_	8	punct	_	O
+
+1	Assuming	assume	VBG	_	0	root	_	O
+2	they	they	PRP	_	3	nsubj	_	O
+3	vote	vote	VBP	pos2=NN	1	ccomp	_	O
+

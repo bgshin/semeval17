@@ -1,0 +1,17 @@
+1	George	george	NNP	_	2	compound	_	B-PERSON
+2	Soros	soros	NNP	_	5	poss	_	I-PERSON
+3	'	'	POS	_	2	case	_	L-PERSON
+4	Son	son	NNP	pos2=NN	5	compound	_	B-PERSON
+5	Pictured	pictured	NNP	_	0	root	_	L-PERSON
+6	At	at	IN	pos2=NNP	5	prep	_	O
+7	Anti-Trump	anti-trump	NNP	_	8	compound	_	B-ORG
+8	Riot	riot	NNP	_	6	pobj	_	L-ORG
+9	?	?	.	_	5	punct	_	O
+
+1	(	(	-LRB-	_	2	punct	_	O
+2	PHOTO	photo	NN	_	4	dep	_	O
+3	)	)	-RRB-	_	2	punct	_	O
+4	https://t.co/ujKyPbV1xG	#hlink#	ADD	pos2=NN	0	root	_	O
+5	via	via	IN	_	4	prep	_	O
+6	@amlookout	@amlookout	NN	pos2=-RRB-	5	pobj	_	O
+

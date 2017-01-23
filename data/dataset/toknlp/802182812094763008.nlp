@@ -1,0 +1,11 @@
+1	#Yemen	#yemen	NNP	pos2=VB	10	nmod	_	O
+2	$	$	$	_	3	nmod	_	O
+3	100,000	0	CD	_	1	npadvmod	_	U-MONEY
+4	stolen	steal	VBN	_	1	acl	_	O
+5	from	from	IN	_	4	prep	_	O
+6	US	us	NNP	_	5	pobj	_	U-GPE
+7	in	in	IN	_	4	prep	_	O
+8	Yemen	yemen	NNP	_	7	pobj	_	U-GPE
+9	https://t.co/6wW4jgbfkY	#hlink#	ADD	pos2=POS	10	nmod	_	O
+10	https://t.co/fPEPxdgyWy	#hlink#	ADD	_	0	root	_	U-ORG
+

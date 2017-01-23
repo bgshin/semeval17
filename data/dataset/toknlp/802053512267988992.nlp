@@ -1,0 +1,25 @@
+1	@quirky_gym_rat	@quirky_gym_rat	NNP	pos2=UH	2	compound	_	U-ORG
+2	@Alangib35785534	@alangib0	NN	pos2=POS	3	nsubj	_	O
+3	@DirtyDard	@dirtydard	VBD	pos2=UH	0	root	_	O
+4	yes	yes	UH	_	8	discourse	_	O
+5	they	they	PRP	_	8	nsubjpass	_	O
+6	are	be	VBP	_	8	aux	_	O
+7	being	be	VBG	_	8	auxpass	_	O
+8	labelled	label	VBN	_	3	ccomp	_	O
+9	as	as	IN	_	8	prep	_	O
+10	such	such	JJ	_	9	pcomp	_	O
+11	by	by	IN	_	8	agent	_	O
+12	SOME	some	DT	_	13	det	_	O
+13	commentatirs	commentatirs	NNS	pos2=NN	11	pobj	_	O
+14	as	as	IN	_	16	mark	_	O
+15	I	I	PRP	pos2=NNP	16	nsubj	_	O
+16	said	say	VBD	_	8	advcl	_	O
+17	and	and	CC	_	14	cc	_	O
+18	by	by	IN	_	14	conj	_	O
+19	many	many	JJ	_	18	pobj	_	O
+20	of	of	IN	_	19	prep	_	O
+21	far	far	RB	pos2=JJ	23	nmod	_	O
+22	-	-	HYPH	_	23	punct	_	O
+23	rightists	rightist	NNS	_	20	pobj	_	O
+24	.	.	.	_	3	punct	_	O
+

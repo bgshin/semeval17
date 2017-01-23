@@ -1,0 +1,20 @@
+1	Wow	wow	UH	_	3	discourse	_	O
+2	wow	wow	UH	_	3	discourse	_	O
+3	wow	wow	UH	_	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+
+1	Google	google	NNP	_	2	compound	_	U-ORG
+2	earth	earth	NN	_	3	compound	_	O
+3	VR	vr	NNP	pos2=NN	0	root	_	U-ORG
+4	...	..	.	pos2=,	3	punct	_	O
+
+1	One	#crd#	CD	_	0	root	_	U-CARDINAL
+2	of	of	IN	_	1	prep	_	O
+3	the	the	DT	_	5	det	_	O
+4	best	good	JJS	_	5	nmod	_	O
+5	experience	experience	NN	_	2	pobj	_	O
+6	on	on	IN	_	5	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	HTC	htc	NNP	pos2=NN	9	compound	_	O
+9	:O	:o	NNP	pos2=NN	6	pobj	_	O
+

@@ -1,0 +1,26 @@
+1	@DexiingRBLX	@dexiingrblx	ADD	pos2=XX	5	aux	_	O
+2	@IIBenWB	@iibenwb	NNP	pos2=XX	5	nsubj	_	U-ORG
+3	Not	not	RB	_	5	neg	_	O
+4	to	to	TO	_	5	aux	_	O
+5	mention	mention	VB	_	0	root	_	O
+6	he	he	PRP	_	7	nsubj	_	O
+7	used	use	VBD	_	5	ccomp	_	O
+8	a	a	DT	_	10	det	_	O
+9	racial	racial	JJ	_	10	nmod	_	O
+10	slur	slur	NN	_	7	dobj	_	O
+11	at	at	IN	_	7	prep	_	O
+12	a	a	DT	_	15	det	_	O
+13	nationally	nationally	RB	_	14	advmod	_	O
+14	televised	televise	VBN	_	15	nmod	_	O
+15	debate	debate	NN	_	11	pobj	_	O
+16	.	.	.	_	1	punct	_	O
+
+1	"	"	``	_	3	punct	_	O
+2	Bad	bad	JJ	pos2=NNP	3	nmod	_	O
+3	hombres	hombre	NNS	pos2=FW	0	root	_	O
+4	"	"	''	_	3	punct	_	O
+5	-	-	:	pos2=HYPH	3	punct	_	O
+6	Donald	donald	NNP	_	7	compound	_	B-PERSON
+7	Trump	trump	NNP	_	3	appos	_	L-PERSON
+8	.	.	.	_	3	punct	_	O
+

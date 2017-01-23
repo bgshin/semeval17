@@ -1,0 +1,20 @@
+1	[	[	-LRB-	_	10	punct	_	O
+2	Tom	tom	NNP	_	3	compound	_	B-PERSON
+3	Tango	tango	NNP	_	9	nmod	_	L-PERSON
+4	]	]	-RRB-	_	5	punct	_	O
+5	Cy	cy	NNP	pos2=PRP$	9	nmod	_	B-PERSON
+6	Young	young	JJ	pos2=NNP	9	nmod	_	L-PERSON
+7	voting	voting	NN	_	8	compound	_	O
+8	point	point	NN	_	9	compound	_	O
+9	system	system	NN	_	10	nsubj	_	O
+10	is	be	VBZ	_	0	root	_	O
+11	7-4-3-2-1	0	CD	_	10	attr	_	U-CARDINAL
+12	:	:	:	_	10	punct	_	O
+13	can	can	MD	pos2=NN	15	aux	_	O
+14	we	we	PRP	_	15	nsubj	_	O
+15	do	do	VB	_	10	conj	_	O
+16	better	good	JJR	pos2=RBR	15	advmod	_	O
+17	?	?	.	_	15	punct	_	O
+
+1	https://t.co/5VFly1KxBq	#hlink#	ADD	_	0	root	_	U-ORG
+

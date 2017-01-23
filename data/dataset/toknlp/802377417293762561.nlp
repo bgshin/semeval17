@@ -1,0 +1,22 @@
+1	Help	help	NN	pos2=VB	21	dep	_	O
+2	stop	stop	VB	_	1	xcomp	_	O
+3	the	the	DT	_	4	det	_	O
+4	#TPP	#tpp	NN	pos2=NNP	2	dobj	_	O
+5	in	in	IN	_	2	prep	_	O
+6	#Peru	#peru	NNP	pos2=CD	5	pobj	_	U-GPE
+7	|	|	SYM	pos2=,	21	punct	_	O
+8	About	about	RB	pos2=NNP	4	prep	_	O
+9	to	to	TO	_	10	aux	_	O
+10	vote	vote	VB	_	8	xcomp	_	O
+11	on	on	IN	_	10	prep	_	O
+12	ratification	ratification	NN	_	11	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	the	the	DT	_	19	det	_	O
+15	disastrous	disastrous	JJ	_	19	nmod	_	O
+16	(	(	-LRB-	_	17	punct	_	O
+17	TPP	tpp	NN	pos2=NNP	15	parataxis	_	O
+18	)	)	-RRB-	_	17	punct	_	O
+19	deal	deal	NN	pos2=GW	13	pobj	_	O
+20	https://t.co/BoDegzJRPv	#hlink#	ADD	_	21	nmod	_	O
+21	https://t.co/RTvbYX6h2g	#hlink#	ADD	_	0	root	_	U-ORG
+

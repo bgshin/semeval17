@@ -1,0 +1,7 @@
+1	Next	next	JJ	pos2=RB	2	nmod	_	O
+2	piece	piece	NN	_	6	dep	_	O
+3	:	:	:	_	6	punct	_	O
+4	Muhammad	muhammad	NNP	_	6	compound	_	B-PERSON
+5	Ali	ali	NNP	_	6	compound	_	I-PERSON
+6	COMMISSION	commission	NNP	pos2=NN	0	root	_	L-PERSON
+

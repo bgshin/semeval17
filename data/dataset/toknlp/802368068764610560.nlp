@@ -1,0 +1,20 @@
+1	@AnthonyRolles	@anthonyrolles	NNS	pos2=ADD	4	dep	_	O
+2	@Riogallica	@riogallica	NNP	pos2=POS	4	compound	_	U-GPE
+3	@BlackKnight981	@blackknight0	NN	pos2=VBP	4	compound	_	O
+4	@Margi1959	@margi0	NN	pos2=CD	0	root	_	O
+5	@Koalamoon2	@koalamoon0	IN	pos2=NN	4	prep	_	O
+6	The	the	DT	_	7	det	_	O
+7	Leftists	leftist	NNPS	pos2=NNS	8	nsubj	_	U-NORP
+8	flock	flock	VBP	pos2=NN	4	advcl	_	O
+9	like	like	IN	_	8	prep	_	O
+10	sheep	sheep	NN	pos2=NNS	9	pobj	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	Not	not	RB	_	4	neg	_	O
+2	an	an	DT	_	4	det	_	O
+3	individual	individual	JJ	_	4	nmod	_	O
+4	thinker	thinker	NN	_	0	root	_	O
+5	amongst	amongst	IN	_	4	prep	_	O
+6	them	them	PRP	_	5	pobj	_	O
+7	.	.	.	_	4	punct	_	O
+

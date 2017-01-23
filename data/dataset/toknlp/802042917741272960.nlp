@@ -1,0 +1,10 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	still	still	RB	_	3	advmod	_	O
+3	call	call	VBP	pos2=VB	0	root	_	O
+4	JV	jv	NNP	pos2=NN	3	dobj	_	O
+5	@JustinVerlander	@justinverlander	IN	pos2=NNP	3	prep	_	O
+6	a	a	DT	_	9	det	_	B-WORK_OF_ART
+7	Cy	cy	NNP	_	8	compound	_	I-WORK_OF_ART
+8	Young	young	NNP	pos2=JJ	9	compound	_	L-WORK_OF_ART
+9	winner	winner	NN	_	5	pobj	_	O
+

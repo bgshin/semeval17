@@ -1,0 +1,18 @@
+1	Heated	heated	JJ	pos2=VBN	2	nmod	_	O
+2	discussions	discussion	NNS	_	0	root	_	O
+3	on	on	IN	_	2	prep	_	O
+4	how	how	WRB	_	6	advmod	_	O
+5	to	to	TO	_	6	aux	_	O
+6	apply	apply	VB	_	3	pcomp	_	O
+7	#constructivejournalism	#constructivejournalism	NN	pos2=XX	6	dobj	_	O
+8	in	in	IN	_	6	prep	_	O
+9	#Egypt	#egypt	NNP	pos2=NN	10	compound	_	B-GPE
+10	#Libya	#libya	NNP	pos2=ADD	8	pobj	_	L-GPE
+11	and	and	CC	_	10	cc	_	O
+12	#Tunisia	#tunisia	NNP	pos2=$	13	compound	_	B-PERSON
+13	@mict_intl	@mict_intl	NNP	pos2=POS	16	poss	_	L-PERSON
+14	@c_journalism	@c_journalism	POS	pos2=NNP	13	case	_	B-GPE
+15	#Tunis	#tunis	NNP	pos2=NNPS	16	compound	_	L-GPE
+16	workshop	workshop	NN	_	10	conj	_	O
+17	.	.	.	_	2	punct	_	O
+

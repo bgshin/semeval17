@@ -1,0 +1,19 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	Stand	stand	VBP	pos2=VB	0	root	_	O
+3	With	with	IN	_	2	prep	_	O
+4	#Syria	#syria	NNP	pos2=NN	10	compound	_	O
+5	#Aleppo	#aleppo	NNP	pos2=FW	10	compound	_	O
+6	#Palestine	#palestine	NNP	pos2=POS	10	compound	_	O
+7	#Kashmir	#kashmir	NNP	pos2=POS	10	compound	_	O
+8	#Burma	#burma	NNP	pos2=POS	10	compound	_	O
+9	#Iraq	#iraq	NNP	pos2=POS	10	compound	_	O
+10	#Afg	#afg	NNP	pos2=WP	3	pobj	_	O
+11	Do	do	VBP	pos2=NNP	10	npadvmod	_	O
+12	You	you	PRP	_	11	nsubj	_	O
+13	???	??	.	_	11	punct	_	O
+
+1	Share	share	VB	pos2=NN	0	root	_	O
+2	!!!	!!	.	_	1	punct	_	O
+
+1	https://t.co/22I2pOsmnU	#hlink#	ADD	_	0	root	_	U-ORG
+

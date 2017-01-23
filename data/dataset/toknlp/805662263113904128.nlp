@@ -1,0 +1,15 @@
+1	@DNAinfoCHI	@dnainfochi	NNS	pos2=ADD	4	discourse	_	O
+2	Are	be	VBP	_	4	aux	_	O
+3	they	they	PRP	_	4	nsubj	_	O
+4	going	go	VBG	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	boycott	boycott	VB	_	4	xcomp	_	O
+7	Cubs	cub	NNPS	pos2=NNS	6	dobj	_	U-ORG
+8	if	if	IN	_	10	mark	_	O
+9	Ricketts	ricketts	NNP	_	10	nsubj	_	U-PERSON
+10	appointed	appoint	VBD	pos2=VBN	6	advcl	_	O
+11	to	to	IN	_	10	prep	_	O
+12	Trump	trump	NNP	pos2=VB	13	compound	_	U-ORG
+13	cabinet	cabinet	NN	pos2=NNP	11	pobj	_	O
+14	?	?	.	_	4	punct	_	O
+

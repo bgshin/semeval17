@@ -1,0 +1,12 @@
+1	Ashley	ashley	NNP	_	2	nsubj	_	U-PERSON
+2	takes	take	VBZ	_	0	root	_	O
+3	to	to	IN	_	2	prep	_	O
+4	her	her	PRP$	_	8	poss	_	O
+5	first	#ord#	JJ	_	8	nmod	_	U-ORDINAL
+6	British	british	JJ	pos2=NNP	8	nmod	_	U-NORP
+7	Vogue	vogue	NNP	pos2=NN	8	compound	_	O
+8	cover	cover	NN	_	3	pobj	_	O
+9	:	:	:	_	2	punct	_	O
+10	https://t.co/c6GlwcWMIm	#hlink#	ADD	_	11	nmod	_	O
+11	https://t.co/gV7XKhKbQu	#hlink#	ADD	_	2	dep	_	U-ORG
+

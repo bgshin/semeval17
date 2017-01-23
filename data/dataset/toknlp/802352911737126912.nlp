@@ -1,0 +1,9 @@
+1	Concise	concise	JJ	pos2=NN	3	nmod	_	O
+2	Visual	visual	JJ	_	3	nmod	_	O
+3	Summary	summary	NN	_	8	dep	_	O
+4	of	of	IN	_	3	prep	_	O
+5	Deep	deep	JJ	pos2=NNP	7	nmod	_	O
+6	Learning	learning	NNP	pos2=NN	7	compound	_	O
+7	Architectures	architecture	NNS	pos2=NNPS	4	pobj	_	O
+8	https://t.co/ad860yXFZB	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,25 @@
+1	@ToysRUs	@toysrus	XX	pos2=NNP	4	dep	_	O
+2	ur	ur	PRP$	pos2=JJ	3	poss	_	O
+3	CEO	ceo	NN	_	4	nsubj	_	O
+4	was	be	VBD	_	0	root	_	O
+5	on	on	IN	_	4	prep	_	O
+6	#GMA	#gma	NNP	pos2=NN	5	pobj	_	U-ORG
+7	and	and	CC	_	4	cc	_	O
+8	said	say	VBD	_	4	conj	_	O
+9	that	that	IN	_	12	mark	_	O
+10	there	there	EX	_	12	expl	_	O
+11	would	would	MD	_	12	aux	_	O
+12	be	be	VB	_	8	ccomp	_	O
+13	plenty	plenty	NN	pos2=RB	12	attr	_	O
+14	of	of	IN	_	13	prep	_	O
+15	#Hatchimals	#hatchimals	NNS	pos2=NNP	14	pobj	_	O
+16	and	and	CC	_	12	cc	_	O
+17	ur	ur	IN	pos2=PRP$	21	prep	_	O
+18	Kingston	kingston	NNP	_	17	pobj	_	U-GPE
+19	,	,	,	_	21	punct	_	O
+20	Ma	ma	NNP	_	21	nsubj	_	U-GPE
+21	said	say	VBD	_	23	ccomp	_	O
+22	they	they	PRP	_	23	nsubj	_	O
+23	did	do	VBD	_	0	root	_	O
+24	n't	not	RB	_	23	neg	_	O
+

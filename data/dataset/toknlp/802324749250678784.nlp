@@ -1,0 +1,22 @@
+1	Coupon	coupon	NN	_	21	dep	_	O
+2	:	:	:	_	21	punct	_	O
+3	https://t.co/Ll6vUVLPPl	#hlink#	ADD	pos2=NN	21	nmod	_	O
+4	'	'	``	pos2=POS	21	punct	_	O
+5	Cheap	cheap	JJ	pos2=NNP	8	nmod	_	O
+6	Samsung	samsung	NNP	_	7	compound	_	B-ORG
+7	Galaxy	galaxy	NNP	_	8	compound	_	L-ORG
+8	Note	note	NN	pos2=VB	21	dep	_	O
+9	7	0	CD	_	21	dep	_	U-CARDINAL
+10	N9300	n0	NN	_	21	dep	_	O
+11	Sale	sale	NN	_	21	dep	_	O
+12	75	0	CD	_	13	nmod	_	B-PERCENT
+13	%	%	NN	_	14	npadvmod	_	L-PERCENT
+14	OFF	off	IN	pos2=RB	11	prep	_	O
+15	+	+	SYM	_	16	punct	_	O
+16	5	0	CD	_	17	nmod	_	B-PERCENT
+17	%	%	NN	_	18	compound	_	L-PERCENT
+18	Discount	discount	NN	_	14	pobj	_	O
+19	+	+	SYM	pos2=CC	18	punct	_	O
+20	Worldwide	worldwide	RB	pos2=JJ	21	nmod	_	O
+21	https://t.co/YEtwE7PCxq	#hlink#	ADD	pos2=NN	0	root	_	O
+

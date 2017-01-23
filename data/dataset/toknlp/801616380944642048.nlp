@@ -1,0 +1,19 @@
+1	Whatever	whatever	WDT	pos2=WP	2	nsubj	_	O
+2	scares	scare	VBZ	_	5	advcl	_	O
+3	you	you	PRP	_	2	dobj	_	O
+4	,	,	,	_	5	punct	_	O
+5	dares	dare	VBZ	_	0	root	_	O
+6	you	you	PRP	_	5	dobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	be	be	VB	_	5	xcomp	_	O
+9	better	good	JJR	pos2=RBR	8	acomp	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	Discover	discover	VB	pos2=VBP	0	root	_	O
+2	how	how	WRB	_	4	dep	_	O
+3	:	:	:	_	4	punct	_	O
+4	https://t.co/GkOUmepYJu#DominatingYourMind	#hlink#	ADD	pos2=NN	0	root	_	O
+5	@nytimes	@nytimes	IN	pos2=GW	4	prep	_	O
+6	…	…	NFP	pos2=-LRB-	5	pobj	_	O
+7	https://t.co/VNlqtcTzFL	#hlink#	ADD	_	5	pobj	_	O
+

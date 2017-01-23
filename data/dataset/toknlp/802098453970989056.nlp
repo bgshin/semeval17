@@ -1,0 +1,9 @@
+1	Common	common	JJ	_	2	nmod	_	O
+2	flax	flax	NN	pos2=NNS	0	root	_	O
+3	or	or	CC	_	2	cc	_	O
+4	linseed	linseed	NN	pos2=GW	2	conj	_	O
+5	#linum	#linum	GW	pos2=NN	2	punct	_	O
+6	https://t.co/VmpBGQK9ah	#hlink#	ADD	pos2=GW	7	nmod	_	O
+7	https://t.co/9eTryKV7JE	#hlink#	ADD	_	2	appos	_	U-ORG
+8	#linum	#linum	UH	pos2=-RRB-	7	discourse	_	O
+

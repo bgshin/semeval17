@@ -1,0 +1,27 @@
+1	He	he	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	#WhiteSupremacy	#whitesupremacy	NN	pos2=NNP	5	compound	_	O
+5	follower	follower	NN	_	2	attr	_	O
+6	btw	btw	RB	_	2	advmod	_	O
+7	....	..	.	pos2=,	2	punct	_	O
+
+1	if	if	IN	_	4	mark	_	O
+2	he	he	PRP	_	4	nsubj	_	O
+3	had	have	VBD	_	4	aux	_	O
+4	swore	swear	VBN	pos2=NN	9	advcl	_	O
+5	to	to	IN	pos2=TO	4	prep	_	O
+6	#ISIS	#isis	NNP	pos2=VB	5	pobj	_	U-ORG
+7	you	you	PRP	_	9	nsubj	_	O
+8	'd	would	MD	pos2=VBD	9	aux	_	O
+9	mention	mention	VB	_	0	root	_	O
+10	it	it	PRP	_	9	dobj	_	O
+11	EVERY	every	DT	_	13	det	_	O
+12	single	single	JJ	_	13	nmod	_	O
+13	time	time	NN	_	9	npadvmod	_	O
+14	you	you	PRP	_	15	nsubj	_	O
+15	printed	print	VBD	_	13	relcl	_	O
+16	his	his	PRP$	pos2=GW	17	poss	_	O
+17	…	…	NFP	pos2=-LRB-	15	dobj	_	O
+18	https://t.co/TdGyVxKl5D	#hlink#	ADD	pos2=NN	9	dep	_	O
+

@@ -1,0 +1,10 @@
+1	Bob	bob	NNP	_	4	compound	_	B-PERSON
+2	Dylan	dylan	NNP	_	4	compound	_	I-PERSON
+3	-	-	HYPH	pos2=:	4	punct	_	I-PERSON
+4	Maggie	maggie	NNP	_	8	poss	_	I-PERSON
+5	's	's	POS	_	4	case	_	L-PERSON
+6	Farm	farm	NNP	pos2=NN	2	appos	_	O
+7	https://t.co/UDZlbliYnK	#hlink#	ADD	pos2=NNPS	8	nsubj	_	O
+8	#nowplaying	#nowplaying	VBG	pos2=-RRB-	0	root	_	O
+9	#listenlive	#listenlive	UH	pos2=.	8	discourse	_	O
+

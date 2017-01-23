@@ -1,0 +1,24 @@
+1	@joyce_tyler	@joyce_tyler	NNP	pos2=IN	5	vocative	_	U-DATE
+2	She	she	PRP	_	5	nsubj	_	O
+3	will	will	MD	_	5	aux	_	O
+4	be	be	VB	_	5	aux	_	O
+5	hearing	hear	VBG	_	0	root	_	O
+6	my	my	PRP$	_	7	poss	_	O
+7	voice	voice	NN	_	5	dobj	_	O
+8	on	on	IN	_	7	prep	_	O
+9	her	her	PRP$	_	10	poss	_	O
+10	hesitation	hesitation	NN	_	8	pobj	_	O
+11	to	to	IN	pos2=TO	12	aux	_	O
+12	back	back	VB	pos2=RB	15	advcl	_	O
+13	HRC.	hrc.	NNP	pos2=NN	12	dobj	_	O
+14	I	I	PRP	_	15	nsubj	_	O
+15	am	be	VBP	_	5	ccomp	_	O
+16	a	a	DT	_	18	det	_	O
+17	MA	ma	NNP	pos2=NN	18	compound	_	U-ORG
+18	voter	voter	NN	_	15	attr	_	O
+19	.	.	.	_	5	punct	_	O
+
+1	@MelindaThinker	@melindathinker	NN	pos2=ADD	2	compound	_	O
+2	@Larramarr1980	@larramarr0	NN	pos2=NNS	0	root	_	O
+3	@elizabethforma	@elizabethforma	UH	pos2=NN	2	discourse	_	O
+

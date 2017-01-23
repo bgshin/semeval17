@@ -1,0 +1,23 @@
+1	If	if	IN	_	5	mark	_	O
+2	y'all	y'all	PRP	_	5	nsubj	_	O
+3	did	do	VBD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	know	know	VB	_	0	root	_	O
+6	...	..	.	pos2=,	5	punct	_	O
+
+1	#MannequinChallenge	#mannequinchallenge	NN	pos2=ADD	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	over	over	IN	_	2	prep	_	O
+4	people	people	NNS	_	3	pobj	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	😂😂	😂😂	NN	pos2=NNS	9	dep	_	O
+2	w	w	IN	pos2=RB	1	prep	_	O
+3	/	/	HYPH	_	2	punct	_	O
+4	@jvalentino	@jvalentino	IN	pos2=NN	2	pcomp	_	O
+5	_	_	''	pos2=SYM	9	punct	_	O
+6	@savannahlisa	@savannahlisa	GW	pos2=IN	9	nmod	_	O
+7	@Amanda_Abbott	@amanda_abbott	GW	pos2=XX	9	nmod	_	O
+8	…	…	NFP	pos2=GW	9	punct	_	O
+9	https://t.co/psJ8i0sLHa	#hlink#	ADD	pos2=NN	0	root	_	O
+

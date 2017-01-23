@@ -1,0 +1,32 @@
+1	VAMOS	vamos	NN	pos2=NNP	2	compound	_	O
+2	#LM10	#lm0	NN	pos2=:	6	dep	_	O
+3	No	no	DT	_	4	det	_	O
+4	one	#crd#	NN	_	6	nsubj	_	O
+5	can	can	MD	_	6	aux	_	O
+6	hold	hold	VB	_	0	root	_	O
+7	you	you	PRP	_	6	dobj	_	O
+8	down	down	RP	pos2=RB	6	prt	_	O
+9	.	.	.	_	6	punct	_	O
+
+1	If	if	IN	_	4	mark	_	O
+2	you	you	PRP	_	4	nsubj	_	O
+3	really	really	RB	_	4	advmod	_	O
+4	want	want	VBP	pos2=VB	0	root	_	O
+5	it	it	PRP	_	4	dobj	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	Just	just	RB	_	2	advmod	_	O
+2	steal	steal	VB	_	0	root	_	O
+3	your	your	PRP$	_	4	poss	_	O
+4	destiny	destiny	NN	_	2	dobj	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	Right	right	RB	pos2=UH	2	advmod	_	O
+2	from	from	IN	_	8	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	hands	hand	NNS	_	2	pobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	fate🙌	fate🙌	NNP	pos2=$	5	pobj	_	O
+7	…	…	NFP	pos2=-LRB-	8	punct	_	O
+8	https://t.co/IGQ0lMoHCB	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,25 @@
+1	@HuffPostPol	@huffpostpol	NNP	pos2=UH	2	vocative	_	O
+2	Let	let	VB	pos2=NNP	0	root	_	O
+3	's	's	PRP	_	4	nsubj	_	O
+4	hope	hope	VB	_	2	ccomp	_	O
+5	that	that	IN	_	8	mark	_	O
+6	the	the	DT	_	7	det	_	O
+7	GOP	gop	NNP	_	8	nsubj	_	U-ORG
+8	follows	follow	VBZ	_	4	ccomp	_	O
+9	thru	thru	IN	pos2=RP	8	prep	_	O
+10	w	w	IN	pos2=RB	14	advmod	_	O
+11	/	/	HYPH	pos2=,	10	punct	_	O
+12	this	this	DT	pos2=NN	13	det	_	O
+13	&	&	CC	pos2=NN	8	cc	_	O
+14	holds	hold	VBZ	_	8	conj	_	O
+15	orange	orange	NN	pos2=JJ	16	compound	_	O
+16	hitler	hitler	NN	pos2=NNP	14	dobj	_	O
+17	&	&	CC	_	16	cc	_	O
+18	his	his	PRP$	_	19	poss	_	O
+19	band	band	NN	_	16	conj	_	O
+20	of	of	IN	_	19	prep	_	O
+21	white	white	JJ	_	22	nmod	_	O
+22	supremacists	supremacist	NNS	_	20	pobj	_	O
+23	accountable	accountable	JJ	_	14	ccomp	_	O
+24	.	.	.	_	2	punct	_	O
+

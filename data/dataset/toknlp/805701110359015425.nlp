@@ -1,0 +1,19 @@
+1	Only	only	RB	_	2	advmod	_	O
+2	@AnthonyHopkins	@anthonyhopkins	NNS	pos2=NNPS	4	nsubj	_	O
+3	can	can	MD	_	4	aux	_	O
+4	scare	scare	VB	_	0	root	_	O
+5	the	the	DT	_	9	det	_	O
+6	living	live	VBG	pos2=NN	9	nmod	_	O
+7	hell	hell	NN	_	8	compound	_	O
+8	outta	outta	NN	pos2=JJ	9	compound	_	O
+9	people	people	NNS	_	4	dobj	_	O
+10	without	without	IN	_	4	prep	_	O
+11	even	even	RB	_	12	advmod	_	O
+12	changing	change	VBG	_	10	pcomp	_	O
+13	the	the	DT	_	14	det	_	O
+14	tone	tone	NN	_	12	dobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	his	his	PRP$	_	17	poss	_	O
+17	voice	voice	NN	_	15	pobj	_	O
+18	#Westworld	#westworld	NNP	pos2=NN	17	appos	_	O
+

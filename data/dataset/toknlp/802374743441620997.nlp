@@ -1,0 +1,22 @@
+1	If	if	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	voted	vote	VBD	_	9	advcl	_	O
+4	for	for	IN	_	3	prep	_	O
+5	Donald	donald	NNP	_	6	compound	_	B-PERSON
+6	Trump	trump	NNP	_	4	pobj	_	L-PERSON
+7	,	,	,	_	9	punct	_	O
+8	you	you	PRP	_	9	nsubj	_	O
+9	’re	be	VBP	_	0	root	_	O
+10	a	a	DT	_	12	det	_	O
+11	special	special	JJ	_	12	nmod	_	O
+12	kind	kind	NN	_	9	attr	_	O
+13	of	of	RB	pos2=IN	14	advmod	_	O
+14	stupid	stupid	JJ	pos2=NN	12	nmod	_	O
+15	who	who	WP	_	18	nsubjpass	_	O
+16	just	just	RB	_	18	advmod	_	O
+17	got	get	VBD	_	18	auxpass	_	O
+18	screwed	screw	VBN	_	12	relcl	_	O
+19	.	.	.	_	9	punct	_	O
+
+1	https://t.co/ct29OVr1pl	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,21 @@
+1	@Diane31159980	@diane0	NN	pos2=NNS	0	root	_	O
+2	@Greg_Palast	@greg_palast	ADD	pos2=JJS	6	punct	_	O
+3	@DrJillStein	@drjillstein	ADD	pos2=NN	1	punct	_	O
+4	@truthout	@truthout	UH	pos2=IN	6	discourse	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	forgot	forget	VBD	_	3	ccomp	_	O
+7	one	#crd#	CD	pos2=PRP	6	dobj	_	U-CARDINAL
+8	from	from	IN	_	7	prep	_	O
+9	man	man	NN	_	8	pobj	_	O
+10	who	who	WP	_	11	nsubj	_	O
+11	likes	like	VBZ	_	9	relcl	_	O
+12	to	to	TO	_	13	aux	_	O
+13	pretend	pretend	VB	_	11	xcomp	_	O
+14	he	he	PRP	_	15	nsubj	_	O
+15	's	's	VBZ	_	13	ccomp	_	O
+16	a	a	DT	_	17	det	_	O
+17	preacher	preacher	NN	_	15	attr	_	O
+18	.	.	.	_	1	punct	_	O
+
+1	https://t.co/UsWDgicerO	#hlink#	ADD	_	0	root	_	U-ORG
+

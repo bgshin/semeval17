@@ -1,0 +1,17 @@
+1	Browse	browse	VB	_	0	root	_	O
+2	our	our	PRP$	_	4	poss	_	O
+3	exclusive	exclusive	JJ	_	4	nmod	_	O
+4	collection	collection	NN	_	1	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	autographed	autograph	VBN	pos2=JJ	7	nmod	_	O
+7	titles	title	NNS	_	5	pobj	_	O
+8	,	,	,	_	7	punct	_	O
+9	including	include	VBG	_	7	prep	_	O
+10	@megynkelly	@megynkelly	NNP	pos2=XX	12	poss	_	U-ORG
+11	's	's	POS	pos2=VBZ	10	case	_	O
+12	#SettleForMore	#settleformore	NNP	pos2=NN	9	pobj	_	O
+13	!	!	.	_	1	punct	_	O
+
+1	@BNBuzz	@bnbuzz	ADD	pos2=-LRB-	2	punct	_	O
+2	https://t.co/1i6068kPF0	#hlink#	ADD	_	0	root	_	O
+

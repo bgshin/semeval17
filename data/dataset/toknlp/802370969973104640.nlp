@@ -1,0 +1,19 @@
+1	Is	be	VBZ	_	0	root	_	O
+2	#TPP	#tpp	EX	pos2=DT	1	expl	_	U-ORG
+3	really	really	RB	_	4	advmod	_	O
+4	dead	dead	JJ	_	1	acomp	_	O
+5	?	?	.	_	1	punct	_	O
+
+1	Has	have	VBZ	_	5	aux	_	O
+2	Trump	trump	NNP	pos2=NN	4	poss	_	U-ORG
+3	’s	's	POS	_	2	case	_	O
+4	election	election	NN	_	5	nsubj	_	O
+5	affected	affect	VBD	pos2=VBN	0	root	_	O
+6	Vietnam	vietnam	NNP	_	9	poss	_	U-GPE
+7	’s	's	POS	_	6	case	_	O
+8	foreign	foreign	JJ	_	9	nmod	_	O
+9	policy	policy	NN	_	5	dobj	_	O
+10	?	?	.	_	5	punct	_	O
+
+1	https://t.co/E8gTLRaCEB	#hlink#	ADD	_	0	root	_	U-ORG
+

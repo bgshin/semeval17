@@ -1,0 +1,24 @@
+1	"	"	``	_	6	punct	_	O
+2	Trump	trump	NN	pos2=NNP	3	compound	_	U-PERSON
+3	leadership	leadership	NN	_	4	nsubj	_	O
+4	picks	pick	VBZ	pos2=NNS	0	root	_	O
+5	just	just	RB	_	6	advmod	_	O
+6	get	get	VB	pos2=VBP	4	conj	_	O
+7	worse	bad	JJR	_	6	acomp	_	O
+8	and	and	CC	_	7	cc	_	O
+9	worse	bad	JJR	_	7	conj	_	O
+10	"	"	``	pos2=''	6	punct	_	O
+11	With	with	IN	_	6	prep	_	O
+12	Trump	trump	NNP	pos2=NN	14	poss	_	U-ORG
+13	’s	's	POS	_	12	case	_	O
+14	selection	selection	NN	_	11	pobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	Breitbart	breitbart	NNP	_	17	compound	_	B-ORG
+17	News	news	NNP	_	18	compound	_	L-ORG
+18	darling	darling	NN	pos2=NNP	20	compound	_	O
+19	Steve	steve	NNP	_	20	compound	_	B-PERSON
+20	Bannon	bannon	NNP	_	15	pobj	_	L-PERSON
+21	as	as	IN	_	14	prep	_	O
+22	…	…	NFP	pos2=NNP	23	punct	_	O
+23	https://t.co/8kTMJLRnKg	#hlink#	ADD	_	21	pobj	_	U-ORG
+

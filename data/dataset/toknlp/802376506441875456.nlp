@@ -1,0 +1,26 @@
+1	@JoscoJVTeam	@joscojvteam	ADD	pos2=UH	0	root	_	O
+2	@neeratanden	@neeratanden	UH	pos2=MD	1	discourse	_	O
+3	No	no	UH	pos2=DT	1	discourse	_	O
+4	because	because	IN	_	8	mark	_	O
+5	it	it	PRP	_	8	nsubj	_	O
+6	did	do	VBD	_	8	aux	_	O
+7	n’t	not	RB	_	8	neg	_	O
+8	happen	happen	VB	_	1	advcl	_	O
+9	.	.	.	_	1	punct	_	O
+
+1	FBI	fbi	NNP	_	2	nsubj	_	U-ORG
+2	investigated	investigate	VBD	pos2=VBN	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	allegedly	allegedly	RB	_	2	advmod	_	O
+5	,	,	,	_	2	punct	_	O
+6	and	and	CC	_	2	cc	_	O
+7	found	find	VBD	pos2=VBN	2	conj	_	O
+8	nothing	nothing	NN	_	7	dobj	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	Clinton	clinton	NNP	_	2	compound	_	O
+2	Foundation	foundation	NNP	_	4	nsubj	_	O
+3	has	have	VBZ	_	4	aux	_	O
+4	saved	save	VBN	_	0	root	_	O
+5	millions	#crd#	NNS	_	4	dobj	_	U-CARDINAL
+

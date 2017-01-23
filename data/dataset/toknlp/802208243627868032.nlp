@@ -1,0 +1,18 @@
+1	#Veterans	#veterans	NNS	pos2=NNP	2	compound	_	O
+2	#Plan	#plan	NNP	pos2=ADD	4	nsubj	_	U-PERSON
+3	‘	'	``	pos2=''	4	punct	_	O
+4	#Deployment	#deployment	ADD	pos2=NN	0	root	_	O
+5	’	'	''	_	4	punct	_	O
+6	to	to	IN	pos2=TO	4	prep	_	O
+7	#Join	#join	NNP	pos2=VB	12	compound	_	B-ORG
+8	#Battle	#battle	NNP	pos2=POS	12	compound	_	I-ORG
+9	#Against	#against	NNP	pos2=POS	12	compound	_	I-ORG
+10	#Dakota	#dakota	NNP	pos2=POS	12	compound	_	I-ORG
+11	#Access	#access	NNP	pos2=POS	12	compound	_	I-ORG
+12	#Pipeline	#pipeline	NNP	pos2=ADD	6	pobj	_	L-ORG
+13	(	(	-LRB-	_	12	punct	_	O
+14	from	from	IN	_	12	prep	_	O
+15	@Truthdig	@truthdig	NNP	pos2=VBG	14	pobj	_	U-ORG
+16	)	)	-RRB-	pos2=GW	12	punct	_	O
+17	https://t.co/aiq8cBeYDM	#hlink#	ADD	_	6	pobj	_	O
+

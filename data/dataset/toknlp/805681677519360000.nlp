@@ -1,0 +1,29 @@
+1	@geertwilderspvv	@geertwilderspvv	IN	pos2=UH	4	prep	_	O
+2	Geert	geert	NNP	_	1	pobj	_	U-PERSON
+3	,	,	,	_	4	punct	_	O
+4	see	see	VB	pos2=VBP	0	root	_	O
+5	@beppe_grillo	@beppe_grillo	NNP	pos2=IN	4	dobj	_	O
+6	He	he	PRP	pos2=NNP	7	nsubj	_	O
+7	has	have	VBZ	_	4	ccomp	_	O
+8	more	more	JJR	pos2=RBR	9	advmod	_	O
+9	following	follow	VBG	pos2=JJ	7	dobj	_	O
+10	than	than	IN	_	9	prep	_	O
+11	Marine	marine	NNP	pos2=JJ	13	compound	_	B-ORG
+12	Le	le	NNP	_	13	compound	_	I-ORG
+13	Pen	pen	NNP	_	10	pobj	_	L-ORG
+14	and	and	CC	_	7	cc	_	O
+15	will	will	MD	_	16	aux	_	O
+16	be	be	VB	_	7	conj	_	O
+17	who	who	WP	_	18	nsubj	_	O
+18	wins	win	VBZ	_	16	ccomp	_	O
+19	the	the	DT	_	20	det	_	O
+20	election	election	NN	_	18	dobj	_	O
+21	.	.	.	_	4	punct	_	O
+
+1	Will	will	MD	_	2	aux	_	O
+2	exit	exit	VB	pos2=NN	0	root	_	O
+3	euro	euro	NN	_	5	nmod	_	O
+4	/	/	SYM	pos2=,	5	punct	_	O
+5	EU	eu	NNP	pos2=NN	2	dobj	_	U-ORG
+6	.	.	.	_	2	punct	_	O
+

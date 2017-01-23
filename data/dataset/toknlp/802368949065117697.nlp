@@ -1,0 +1,26 @@
+1	@PaulBongiorno	@paulbongiorno	UH	pos2=ADD	4	discourse	_	O
+2	@smh	@smh	UH	_	4	discourse	_	O
+3	There	there	EX	_	4	expl	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	upside	upside	NN	pos2=RB	4	attr	_	O
+6	in	in	IN	_	5	prep	_	O
+7	dumping	dump	VBG	_	6	pcomp	_	O
+8	the	the	DT	_	9	det	_	O
+9	TPP.	tpp.	NNP	pos2=NN	7	dobj	_	O
+10	It	it	PRP	_	13	nsubj	_	O
+11	would	would	MD	_	13	aux	_	O
+12	have	have	VB	_	13	aux	_	O
+13	reinforced	reinforce	VBN	_	9	relcl	_	O
+14	the	the	DT	_	15	det	_	O
+15	use	use	NN	_	13	dobj	_	O
+16	of	of	IN	_	15	prep	_	O
+17	'	'	``	_	18	punct	_	O
+18	geoblocking	geoblocking	NN	pos2=VBG	16	pobj	_	O
+19	'	'	''	_	18	punct	_	O
+20	to	to	IN	pos2=TO	13	prep	_	O
+21	price	price	NN	pos2=VB	22	compound	_	O
+22	gouge	gouge	NN	pos2=VB	24	nmod	_	O
+23	audiovisual	audiovisual	JJ	_	24	nmod	_	O
+24	content	content	NN	_	20	pobj	_	O
+25	.	.	.	_	4	punct	_	O
+

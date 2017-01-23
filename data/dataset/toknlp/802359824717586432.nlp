@@ -1,0 +1,10 @@
+1	LEFTISTS	leftist	NNS	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	too	too	RB	_	4	advmod	_	O
+4	stupid	stupid	JJ	_	2	acomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	learn	learn	VB	_	4	xcomp	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	https://t.co/Cem8BKgnCg	#hlink#	ADD	_	0	root	_	U-ORG
+

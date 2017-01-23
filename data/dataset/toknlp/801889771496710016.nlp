@@ -1,0 +1,12 @@
+1	Hhmmm.	hhmmm.	NNP	pos2=NNS	2	compound	_	U-GPE
+2	Some1	some0	NN	pos2=NNP	3	nsubj	_	O
+3	sent	send	VBD	_	0	root	_	O
+4	me	me	PRP	_	3	dative	_	O
+5	this	this	DT	_	3	dobj	_	O
+6	:	:	:	_	5	punct	_	O
+7	#Hamas	#hamas	VBZ	pos2=NFP	5	acl	_	O
+8	flaghttps	flaghttps	NNS	pos2=NN	7	dobj	_	O
+9	:	:	:	_	5	punct	_	O
+10	https://t.co/0alhck6Z7r	#hlink#	ADD	pos2=NN	11	nmod	_	O
+11	#No2Hamas	#no0hamas	NNS	pos2=ADD	5	appos	_	O
+

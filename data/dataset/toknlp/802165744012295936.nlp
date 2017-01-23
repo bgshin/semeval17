@@ -1,0 +1,19 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	great	great	JJ	_	2	acomp	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	Really	really	RB	_	4	advmod	_	O
+2	,	,	,	_	4	punct	_	O
+3	really	really	RB	_	4	advmod	_	O
+4	great	great	JJ	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	https	http	NNS	pos2=NN	7	dep	_	O
+2	:	:	:	_	7	punct	_	O
+3	//	//	NFP	pos2=-LRB-	7	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	7	nmod	_	O
+5	/	/	SYM	pos2=GW	7	punct	_	O
+6	HHVBNP3POk	hhvbnp0pok	ADD	pos2=NN	7	punct	_	O
+7	https://t.co/fYS1blLd8e	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,27 @@
+1	@BadAstronomer	@badastronomer	NN	pos2=NNP	6	nsubj	_	O
+2	Except	except	IN	_	1	prep	_	O
+3	it	it	PRP	_	2	pobj	_	O
+4	does	do	VBZ	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	work	work	VB	_	0	root	_	O
+7	,	,	,	_	6	punct	_	O
+8	given	give	VBN	pos2=IN	6	prep	_	O
+9	the	the	DT	_	11	det	_	O
+10	porous	porous	JJ	_	11	nmod	_	O
+11	limestone	limestone	NN	_	8	pobj	_	O
+12	.	.	.	_	6	punct	_	O
+
+1	Better	good	JJR	pos2=RBR	2	nmod	_	O
+2	suggestion	suggestion	NN	_	6	nsubj	_	O
+3	=	=	SYM	pos2=IN	6	punct	_	O
+4	solar	solar	JJ	_	6	nmod	_	O
+5	panel	panel	NN	_	6	compound	_	O
+6	wall	wall	NN	_	0	root	_	O
+7	on	on	IN	_	6	prep	_	O
+8	Mexican	mexican	JJ	_	9	nmod	_	U-NORP
+9	side	side	NN	_	7	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	border	border	NN	_	10	pobj	_	O
+13	.	.	.	_	6	punct	_	O
+

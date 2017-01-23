@@ -1,0 +1,6 @@
+1	Need	need	VBP	pos2=VB	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	re-watch	re-watch	VB	_	1	xcomp	_	O
+4	WestWorld	westworld	NNP	_	3	dobj	_	U-ORG
+5	!	!	.	_	1	punct	_	O
+

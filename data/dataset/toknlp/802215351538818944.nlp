@@ -1,0 +1,13 @@
+1	Talking	talk	VBG	_	2	nmod	_	O
+2	#business	#business	NN	pos2=PRP	12	dep	_	O
+3	with	with	IN	_	2	prep	_	O
+4	Tony	tony	NNP	_	5	compound	_	B-PERSON
+5	Iannelli	iannelli	NNP	_	3	pobj	_	L-PERSON
+6	:	:	:	_	12	punct	_	O
+7	A	a	DT	_	10	det	_	O
+8	cautionary	cautionary	JJ	_	10	nmod	_	O
+9	Thanksgiving	thanksgiving	NNP	pos2=NN	10	compound	_	U-EVENT
+10	tale	tale	NN	_	12	dep	_	O
+11	:	:	:	_	12	punct	_	O
+12	https://t.co/0ueX94epVr	#hlink#	ADD	_	0	root	_	U-WORK_OF_ART
+

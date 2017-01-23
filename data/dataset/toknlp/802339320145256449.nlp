@@ -1,0 +1,20 @@
+1	@BreitbartNews	@breitbartnews	NNS	pos2=ADD	3	nsubj	_	O
+2	@amnestyusaweb	@amnestyusaweb	TO	pos2=MD	3	aux	_	O
+3	stop	stop	VB	pos2=VBP	0	root	_	O
+4	with	with	IN	_	3	prep	_	O
+5	you	you	PRP	pos2=PRP$	6	nmod	_	O
+6	media	medium	NNS	pos2=NN	4	pobj	_	O
+7	lies	lie	VBZ	pos2=NNS	3	dobj	_	O
+8	about	about	IN	_	7	prep	_	O
+9	President	president	NNP	_	11	compound	_	O
+10	Donald	donald	NNP	_	11	compound	_	B-PERSON
+11	Trump	trump	NNP	_	8	pobj	_	L-PERSON
+12	.	.	.	_	3	punct	_	O
+
+1	We	we	PRP	_	3	nsubj	_	O
+2	should	should	MD	_	3	aux	_	O
+3	protest	protest	VB	_	0	root	_	O
+4	your	your	PRP$	_	5	poss	_	O
+5	lies	lie	NNS	_	3	dobj	_	O
+6	.	.	.	_	3	punct	_	O
+

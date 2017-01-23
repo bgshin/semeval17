@@ -1,0 +1,13 @@
+1	#BeautyAndTheBeast	#beautyandthebeast	ADD	pos2=NN	4	punct	_	O
+2	@CambJunction	@cambjunction	ADD	pos2=NN	4	punct	_	O
+3	this	this	DT	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	how	how	WRB	_	8	advmod	_	O
+6	shows	show	NNS	pos2=VBZ	8	nsubjpass	_	O
+7	are	be	VBP	_	8	auxpass	_	O
+8	made	make	VBN	_	4	ccomp	_	O
+9	...	..	.	pos2=,	4	punct	_	O
+
+1	AB	ab	NNP	pos2=GW	2	nmod	_	B-ORG
+2	https://t.co/AtDfFA6FPs	#hlink#	ADD	pos2=NN	0	root	_	L-ORG
+

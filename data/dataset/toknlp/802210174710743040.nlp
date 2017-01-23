@@ -1,0 +1,25 @@
+1	When	when	WRB	_	7	advmod	_	O
+2	a	a	DT	_	5	det	_	O
+3	real	real	JJ	_	5	nmod	_	O
+4	news	news	NN	_	5	compound	_	O
+5	outlet	outlet	NN	_	7	nsubjpass	_	O
+6	is	be	VBZ	_	7	auxpass	_	O
+7	duped	dupe	VBN	_	21	advcl	_	O
+8	by	by	IN	_	7	agent	_	O
+9	a	a	DT	_	12	det	_	O
+10	notorious	notorious	JJ	_	12	nmod	_	O
+11	pro-Kremlin	pro-kremlin	JJ	pos2=NNP	12	nmod	_	U-NORP
+12	Troll	troll	NN	pos2=NNP	8	pobj	_	O
+13	to	to	TO	pos2=IN	15	aux	_	O
+14	'	'	``	pos2=''	15	punct	_	O
+15	correct	correct	VB	_	7	advcl	_	O
+16	a	a	DT	_	17	det	_	O
+17	mistake	mistake	NN	_	15	dobj	_	O
+18	'	'	''	_	15	punct	_	O
+19	-	-	:	pos2=SYM	21	punct	_	O
+20	this	this	DT	_	21	nsubj	_	O
+21	is	be	VBZ	_	0	root	_	O
+22	#Provokatsiya	#provokatsiya	NNP	pos2=GW	21	attr	_	B-PERSON
+23	…	…	NFP	pos2=-LRB-	24	punct	_	L-PERSON
+24	https://t.co/XnU8K5Nqqm	#hlink#	ADD	_	22	appos	_	O
+

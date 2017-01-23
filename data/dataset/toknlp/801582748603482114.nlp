@@ -1,0 +1,20 @@
+1	Retweeted	retweeted	VBN	pos2=VBD	4	nmod	_	O
+2	Dr	dr	NNP	_	4	compound	_	O
+3	Sherri	sherri	NNP	_	4	compound	_	B-PERSON
+4	Tenpenny	tenpenny	NNP	_	14	nsubj	_	L-PERSON
+5	(	(	-LRB-	_	4	punct	_	O
+6	@BusyDrT	@busydrt	NNP	pos2=ADD	4	appos	_	U-NORP
+7	)	)	-RRB-	_	4	punct	_	O
+8	:Anti	:anti	CD	pos2=NN	10	nmod	_	O
+9	-	-	HYPH	pos2=:	10	punct	_	O
+10	Vaccination	vaccination	NN	pos2=NNP	11	compound	_	O
+11	Proponent	proponent	NN	pos2=NNP	13	compound	_	O
+12	Melania	melania	NNP	_	13	compound	_	B-PERSON
+13	Trump	trump	NNP	_	14	nsubj	_	L-PERSON
+14	Delivers	deliver	VBZ	_	0	root	_	O
+15	Powerful	powerful	JJ	_	16	nmod	_	O
+16	Speech	speech	NNP	pos2=NN	14	dobj	_	O
+17	...	..	.	pos2=,	14	punct	_	O
+
+1	https://t.co/0rYG3eXDG2	#hlink#	ADD	_	0	root	_	U-ORG
+

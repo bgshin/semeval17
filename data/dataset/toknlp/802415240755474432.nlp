@@ -1,0 +1,23 @@
+1	So	so	RB	_	3	advmod	_	O
+2	how	how	WRB	_	3	advmod	_	O
+3	many	many	JJ	_	4	nmod	_	O
+4	times	time	NNS	_	5	npadvmod	_	O
+5	did	do	VBD	_	0	root	_	O
+6	President	president	NNP	_	7	compound	_	O
+7	Obama	obama	NNP	_	9	poss	_	U-PERSON
+8	's	's	POS	_	7	case	_	O
+9	admin	admin	NN	_	5	dobj	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	try	try	VB	pos2=VBP	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	assassinate	assassinate	VB	_	1	xcomp	_	O
+4	Castro	castro	NNP	_	3	dobj	_	U-PERSON
+5	?	?	.	_	1	punct	_	O
+
+1	Asking	ask	VBG	_	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	a	a	DT	_	4	det	_	O
+4	friend	friend	NN	_	2	pobj	_	O
+5	.	.	.	_	1	punct	_	O
+

@@ -1,0 +1,18 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	far	far	RB	_	2	advmod	_	O
+4	from	from	IN	_	3	prep	_	O
+5	being	be	VBG	_	4	pcomp	_	O
+6	a	a	DT	_	8	det	_	O
+7	Trump	trump	NNP	pos2=NN	8	compound	_	U-ORG
+8	fan	fan	NN	_	5	attr	_	O
+9	,	,	,	_	2	punct	_	O
+10	but	but	CC	_	2	cc	_	O
+11	this	this	DT	_	12	nsubj	_	O
+12	is	be	VBZ	_	2	conj	_	O
+13	just	just	RB	_	14	advmod	_	O
+14	stupid	stupid	JJ	_	12	acomp	_	O
+15	.	.	.	_	12	punct	_	O
+
+1	https://t.co/ZfDhFNwjTm	#hlink#	ADD	_	0	root	_	U-ORG
+

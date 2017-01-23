@@ -1,0 +1,27 @@
+1	NAZI	nazi	NN	pos2=NNP	3	compound	_	U-NORP
+2	#TRUMP	#trump	NN	pos2=JJ	3	compound	_	O
+3	platform	platform	NN	_	16	dep	_	O
+4	:	:	:	_	16	punct	_	O
+5	outlaw	outlaw	NN	pos2=VB	6	compound	_	O
+6	abortion	abortion	NN	_	16	dep	_	O
+7	,	,	,	_	16	punct	_	O
+8	ban	ban	NN	pos2=VB	10	compound	_	O
+9	min	min	NN	pos2=JJ	10	compound	_	O
+10	wage	wage	NN	_	16	dep	_	O
+11	,	,	,	_	10	punct	_	O
+12	repeal	repeal	NN	pos2=VB	10	conj	_	O
+13	14th	#ord#	JJ	pos2=NN	14	nmod	_	B-ORG
+14	Amndmt	amndmt	NNP	pos2=NNPS	12	dobj	_	L-ORG
+15	,	,	,	_	16	punct	_	O
+16	deport	deport	VB	pos2=NN	0	root	_	O
+17	11	0	CD	_	19	nmod	_	U-CARDINAL
+18	M	m	NNP	pos2=CD	19	compound	_	O
+19	Hispanics	hispanic	NNPS	pos2=NNS	16	dobj	_	U-NORP
+20	,	,	,	_	22	punct	_	O
+21	MUSLIMS	muslim	NNPS	pos2=NNS	22	nsubj	_	U-NORP
+22	register	register	VBP	pos2=RB	16	advmod	_	O
+23	,	,	,	_	22	punct	_	O
+24	we	we	PRP	_	26	nmod	_	O
+25	…	…	NFP	pos2=VBP	26	punct	_	O
+26	https://t.co/0w5IUa3Lbi	#hlink#	ADD	pos2=VBP	16	dobj	_	O
+

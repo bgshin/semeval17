@@ -1,0 +1,10 @@
+1	Why	why	WRB	_	5	advmod	_	O
+2	did	do	VBD	_	5	aux	_	O
+3	I	I	PRP	_	5	nsubj	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	watch	watch	VBP	pos2=VB	0	root	_	O
+6	Michael	michael	NNP	_	7	compound	_	B-PERSON
+7	Moore	moore	NNP	_	5	dobj	_	L-PERSON
+8	defending	defend	VBG	_	5	advcl	_	O
+9	#blacklivesmatter	#blacklivesmatter	NN	pos2=RB	8	dobj	_	O
+

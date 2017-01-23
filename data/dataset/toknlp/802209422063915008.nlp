@@ -1,0 +1,22 @@
+1	Putin	putin	NNP	_	2	compound	_	U-PERSON
+2	ally	ally	NN	pos2=RB	3	nsubj	_	O
+3	warns	warn	VBZ	_	0	root	_	O
+4	Russia	russia	NNP	_	6	nsubj	_	U-GPE
+5	is	be	VBZ	_	6	aux	_	O
+6	heading	head	VBG	_	3	ccomp	_	O
+7	towards	towards	IN	_	6	prep	_	O
+8	the	the	DT	_	12	det	_	O
+9	next	next	JJ	_	12	nmod	_	O
+10	CUBAN	cuban	JJ	_	12	nmod	_	O
+11	MISSILE	missile	NN	_	12	compound	_	O
+12	CRISIS	crisis	NN	pos2=NNP	7	pobj	_	O
+13	and	and	CC	_	6	cc	_	O
+14	will	will	MD	_	15	aux	_	O
+15	target	target	VB	_	6	conj	_	O
+16	its	its	PRP$	_	15	dobj	_	O
+17	...	..	.	pos2=,	3	punct	_	O
+
+1	-	-	SYM	pos2=NFP	3	punct	_	O
+2	https://t.co/xp61bHrQr3	#hlink#	ADD	pos2=NN	3	nmod	_	O
+3	#GoogleAlerts	#googlealerts	NNS	pos2=-RRB-	0	root	_	O
+

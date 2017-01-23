@@ -1,0 +1,28 @@
+1	Steve	steve	NNP	_	2	compound	_	B-PERSON
+2	Bannon	bannon	NNP	_	5	nsubj	_	L-PERSON
+3	would	would	MD	_	5	aux	_	O
+4	not	not	RB	_	5	neg	_	O
+5	be	be	VB	_	13	ccomp	_	O
+6	my	my	PRP$	_	8	poss	_	O
+7	first	#ord#	JJ	_	5	attr	_	U-ORDINAL
+8	pick	pick	NN	_	13	dep	_	O
+9	-	-	HYPH	pos2=:	14	punct	_	O
+10	however	however	RB	_	13	advmod	_	O
+11	,	,	,	_	13	punct	_	O
+12	he	he	PRP	_	13	nsubj	_	O
+13	is	be	VBZ	_	0	root	_	O
+14	smart	smart	JJ	_	13	acomp	_	O
+15	and	and	CC	_	14	cc	_	O
+16	tactical	tactical	JJ	_	14	conj	_	O
+17	.	.	.	_	13	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	think	think	VBP	_	0	root	_	O
+3	that	that	IN	_	6	mark	_	O
+4	he	he	PRP	_	6	nsubj	_	O
+5	will	will	MD	_	6	aux	_	O
+6	serve	serve	VB	_	2	ccomp	_	O
+7	Trump	trump	NNP	pos2=NN	6	dobj	_	U-ORG
+8	well	well	RB	pos2=UH	6	advmod	_	O
+9	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,25 @@
+1	Kim	kim	NNP	_	2	compound	_	B-PERSON
+2	Fatty	fatty	NNP	_	6	nsubj	_	L-PERSON
+3	The	the	DT	pos2=NNP	4	det	_	O
+4	Third	#ord#	NNP	pos2=NNPS	2	appos	_	U-ORDINAL
+5	will	will	MD	_	6	aux	_	O
+6	be	be	VB	_	0	root	_	O
+7	pleased	pleased	JJ	_	6	acomp	_	O
+8	to	to	TO	_	9	aux	_	O
+9	know	know	VB	_	7	xcomp	_	O
+10	we	we	PRP	_	14	nsubjpass	_	O
+11	've	have	VBP	_	14	aux	_	O
+12	not	not	RB	_	14	neg	_	O
+13	been	be	VBN	_	14	auxpass	_	O
+14	banned	ban	VBN	_	9	ccomp	_	O
+15	from	from	IN	_	14	prep	_	O
+16	nick	nick	NN	pos2=JJ	15	pobj	_	O
+17	naming	name	VBG	_	16	acl	_	O
+18	him	him	PRP	_	17	dobj	_	O
+19	in	in	IN	_	17	prep	_	O
+20	the	the	DT	_	21	det	_	O
+21	UK	uk	NNP	_	19	pobj	_	U-GPE
+22	.	.	.	_	6	punct	_	O
+
+1	https://t.co/09ysBOm4Xf	#hlink#	ADD	_	0	root	_	U-ORG
+

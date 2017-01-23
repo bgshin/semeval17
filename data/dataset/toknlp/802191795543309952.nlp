@@ -1,0 +1,28 @@
+1	Ladies	lady	NNS	_	0	root	_	O
+2	..	..	.	pos2=,	1	punct	_	O
+
+1	be	be	VB	_	0	root	_	O
+2	more	more	RBR	_	3	advmod	_	O
+3	selective	selective	JJ	_	1	acomp	_	O
+4	when	when	WRB	_	5	advmod	_	O
+5	picking	pick	VBG	_	1	advcl	_	O
+6	your	your	PRP$	_	7	poss	_	O
+7	doctors	doctor	NNS	_	5	dobj	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	Otherwise	otherwise	RB	_	5	advmod	_	O
+2	,	,	,	_	5	punct	_	O
+3	you	you	PRP	_	5	nsubj	_	O
+4	'll	will	MD	_	5	aux	_	O
+5	end	end	VB	_	0	root	_	O
+6	up	up	RP	_	5	prt	_	O
+7	with	with	IN	_	5	prep	_	O
+8	one	#crd#	CD	pos2=PRP	7	pobj	_	U-CARDINAL
+9	like	like	IN	_	8	prep	_	O
+10	this	this	DT	_	11	det	_	O
+11	guy	guy	NN	_	9	pobj	_	O
+12	..	..	.	pos2=,	5	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/KuWwUGHiUG	#hlink#	ADD	pos2=NN	0	root	_	O
+

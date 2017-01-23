@@ -1,0 +1,25 @@
+1	Schls	schls	NNP	pos2=NNS	0	root	_	U-PERSON
+2	too	too	RB	_	1	advmod	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	See	see	VB	_	0	root	_	O
+2	our	our	PRP$	_	4	poss	_	O
+3	baby	baby	NN	_	4	compound	_	O
+4	girl	girl	NN	_	1	dobj	_	O
+5	at	at	IN	_	1	prep	_	O
+6	#SpringValley	#springvalley	NNP	pos2=NN	5	pobj	_	O
+7	&	&	CC	_	6	cc	_	O
+8	other	other	JJ	_	10	nmod	_	O
+9	Black	black	JJ	pos2=NNP	10	nmod	_	O
+10	children	child	NNS	_	6	conj	_	O
+11	who	who	WP	_	13	nsubj	_	O
+12	already	already	RB	_	13	advmod	_	O
+13	knew	know	VBD	_	10	relcl	_	O
+14	this	this	DT	_	15	det	_	O
+15	abt	abt	NN	pos2=IN	13	dobj	_	O
+16	Deplorables	deplorables	NNP	pos2=NNPS	15	appos	_	U-PERSON
+17	before	before	IN	pos2=RB	13	prep	_	O
+18	th	th	JJ	pos2=GW	17	pobj	_	B-DATE
+19	…	…	NFP	pos2=-LRB-	20	punct	_	L-DATE
+20	https://t.co/zF7xAOcdE2	#hlink#	ADD	pos2=NN	1	dep	_	O
+

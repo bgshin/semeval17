@@ -1,0 +1,17 @@
+1	Realizing	realize	VBG	_	16	advcl	_	O
+2	The	the	DT	_	3	det	_	B-ORG
+3	Potential	potential	NNP	pos2=NN	1	dobj	_	I-ORG
+4	of	of	IN	_	3	prep	_	I-ORG
+5	Humanoid	humanoid	NNP	pos2=JJ	6	compound	_	I-ORG
+6	Robots	robot	NNPS	pos2=NNS	4	pobj	_	L-ORG
+7	as	as	IN	_	1	prep	_	O
+8	a	a	DT	_	13	det	_	O
+9	Full	full	JJ	_	11	nmod	_	O
+10	-	-	HYPH	_	11	punct	_	O
+11	time	time	NN	_	13	compound	_	O
+12	Healthcare	healthcare	NNP	pos2=NN	13	compound	_	U-ORG
+13	Providers	provider	NNS	pos2=GW	7	pobj	_	O
+14	https://t.co/ytTpTW2Mfp	#hlink#	ADD	pos2=VBP	16	nmod	_	O
+15	#robots	#robots	NNS	pos2=IN	16	dep	_	O
+16	https://t.co/Lcjvi2e9IX	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,36 @@
+1	So	so	RB	pos2=CC	0	root	_	O
+2	...	..	.	pos2=NFP	1	punct	_	O
+
+1	if	if	IN	_	4	mark	_	O
+2	Social	social	NNP	_	3	compound	_	B-ORG
+3	Security	security	NNP	_	4	nsubj	_	L-ORG
+4	is	be	VBZ	_	6	aux	_	O
+5	"	"	``	_	6	punct	_	O
+6	running	run	VBG	_	0	root	_	O
+7	out	out	RP	pos2=RB	6	prt	_	O
+8	"	"	''	_	6	punct	_	O
+9	and	and	CC	_	6	cc	_	O
+10	"	"	``	_	13	punct	_	O
+11	wo	wo	MD	_	13	aux	_	O
+12	n't	not	RB	_	13	neg	_	O
+13	be	be	VB	_	6	conj	_	O
+14	available	available	JJ	_	13	acomp	_	O
+15	"	"	''	pos2=``	13	punct	_	O
+16	to	to	IN	_	13	prep	_	O
+17	me	me	PRP	_	16	pobj	_	O
+18	by	by	IN	_	13	prep	_	O
+19	the	the	DT	_	20	det	_	O
+20	time	time	NN	_	18	pobj	_	O
+21	I	I	PRP	_	22	nsubj	_	O
+22	'm	be	VBP	_	20	relcl	_	O
+23	of	of	IN	_	22	prep	_	O
+24	age	age	NN	_	29	nmod	_	O
+25	,	,	,	_	29	punct	_	O
+26	WHY	why	WRB	_	29	advmod	_	O
+27	THE	the	DT	_	29	det	_	O
+28	FUCK	fuck	NN	pos2=NNP	29	compound	_	O
+29	AM	am	NN	pos2=NNP	23	pobj	_	O
+30	...	..	.	pos2=,	13	punct	_	O
+
+1	https://t.co/TROA0bJV2M	#hlink#	ADD	_	0	root	_	U-ORG
+

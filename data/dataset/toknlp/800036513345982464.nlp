@@ -1,0 +1,19 @@
+1	Microsoft	microsoft	NNP	_	2	nsubj	_	U-ORG
+2	loves	love	VBZ	_	11	ccomp	_	O
+3	Linux	linux	NNP	pos2=NN	2	dobj	_	O
+4	and	and	CC	_	3	cc	_	O
+5	the	the	DT	_	8	det	_	O
+6	open	open	JJ	_	7	nmod	_	O
+7	source	source	NN	_	8	compound	_	O
+8	world	world	NN	_	3	conj	_	O
+9	:	:	:	_	11	punct	_	O
+10	services	service	NNS	_	11	nsubj	_	O
+11	are	be	VBP	_	0	root	_	O
+12	much	much	RB	_	13	advmod	_	O
+13	more	more	RBR	_	14	advmod	_	O
+14	important	important	JJ	_	11	acomp	_	O
+15	than	than	IN	_	14	prep	_	O
+16	source	source	NN	pos2=JJ	17	compound	_	O
+17	codes	code	NNS	_	15	pobj	_	O
+18	https://t.co/Gr77H3GJVf	#hlink#	ADD	_	11	dep	_	O
+

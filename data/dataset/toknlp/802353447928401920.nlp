@@ -1,0 +1,26 @@
+1	Ahead	ahead	RB	_	11	advmod	_	O
+2	of	of	IN	_	1	prep	_	O
+3	today	today	NN	_	6	poss	_	U-DATE
+4	's	's	POS	_	3	case	_	O
+5	Seoul	seoul	NNP	_	6	compound	_	U-GPE
+6	protest	protest	NN	_	2	pobj	_	O
+7	,	,	,	_	11	punct	_	O
+8	N	n	JJ	pos2=IN	10	nmod	_	O
+9	Korean	korean	JJ	_	10	nmod	_	U-NORP
+10	defectors	defector	NNS	_	11	nsubj	_	O
+11	worry	worry	VBP	_	0	root	_	O
+12	S	s	IN	pos2=JJ	11	prep	_	O
+13	Korean	korean	JJ	_	15	nmod	_	U-NORP
+14	political	political	JJ	_	15	nmod	_	O
+15	crisis	crisis	NN	_	12	pobj	_	O
+16	may	may	MD	_	17	aux	_	O
+17	be	be	VB	_	11	ccomp	_	O
+18	a	a	DT	_	19	det	_	O
+19	boost	boost	NN	_	17	attr	_	O
+20	for	for	IN	_	19	prep	_	O
+21	Kim	kim	NNP	_	24	compound	_	B-PERSON
+22	Jong	jong	NNP	_	24	compound	_	I-PERSON
+23	-	-	HYPH	_	24	punct	_	I-PERSON
+24	un	un	NNP	pos2=GW	20	pobj	_	L-PERSON
+25	https://t.co/hklNSU2v6o	#hlink#	ADD	pos2=NN	21	appos	_	O
+

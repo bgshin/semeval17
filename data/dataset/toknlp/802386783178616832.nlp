@@ -1,0 +1,25 @@
+1	WE	we	PRP	pos2=NN	2	nsubj	_	O
+2	trust	trust	VBP	pos2=VB	0	root	_	O
+3	Sarah	sarah	NNP	_	5	vocative	_	O
+4	-	-	HYPH	pos2=,	5	punct	_	O
+5	need	need	VB	pos2=VBP	2	xcomp	_	O
+6	her	her	PRP	pos2=NN	5	dobj	_	O
+7	in	in	IN	_	5	prep	_	O
+8	Trump	trump	NNP	pos2=NN	13	compound	_	U-ORG
+9	cabinet	cabinet	NN	_	7	pobj	_	O
+10	-	-	SYM	pos2=:	14	punct	_	O
+11	>	>	SYM	pos2=XX	13	compound	_	O
+12	Sarah	sarah	NNP	_	13	compound	_	B-PERSON
+13	Palin	palin	NNP	_	14	nsubj	_	L-PERSON
+14	Defends	defend	VBZ	pos2=NNP	9	nmod	_	O
+15	Breitbart	breitbart	NNP	_	14	dobj	_	U-PERSON
+16	Against	against	IN	pos2=NNP	14	prep	_	O
+17	'	'	``	pos2=''	16	punct	_	O
+18	the	the	DT	_	19	det	_	O
+19	Wrath	wrath	NNP	pos2=NN	16	pobj	_	O
+20	of	of	IN	_	19	prep	_	O
+21	the	the	DT	_	22	det	_	O
+22	Whiners	whiner	NNPS	pos2=NNS	24	poss	_	O
+23	'	'	POS	pos2=''	22	case	_	O
+24	https://t.co/UoMaChss94	#hlink#	ADD	pos2=NN	19	appos	_	O
+

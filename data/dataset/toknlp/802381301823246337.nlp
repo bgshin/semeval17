@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det	_	B-ORG
+2	Democratic	democratic	NNP	_	3	compound	_	I-ORG
+3	Party	party	NNP	_	5	nsubj	_	L-ORG
+4	has	have	VBZ	_	5	aux	_	O
+5	become	become	VBN	_	0	root	_	O
+6	the	the	DT	_	10	det	_	O
+7	George	george	NNP	_	8	compound	_	B-PERSON
+8	Soros	soros	NNP	_	10	compound	_	L-PERSON
+9	action	action	NN	_	10	compound	_	O
+10	arm	arm	NN	_	5	attr	_	O
+11	for	for	IN	_	10	prep	_	O
+12	investments	investment	NNS	_	11	pobj	_	O
+13	hedging	hedge	VBG	pos2=NN	12	acl	_	O
+14	.	.	.	_	5	punct	_	O
+

@@ -1,0 +1,20 @@
+1	i	I	PRP	pos2=DT	2	nsubj	_	O
+2	bought	buy	VBD	_	0	root	_	O
+3	it	it	PRP	_	2	dobj	_	O
+4	for	for	IN	_	2	prep	_	O
+5	kh3	kh0	NN	pos2=NNP	4	pobj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	persona	persona	NN	_	5	conj	_	O
+8	5	0	CD	_	12	nmod	_	U-CARDINAL
+9	and	and	CC	_	2	cc	_	O
+10	ffxiv	ffxiv	NN	pos2=NNS	5	conj	_	O
+11	(	(	-LRB-	_	16	punct	_	O
+12	tho	tho	NN	pos2=FW	7	appos	_	O
+13	i	I	PRP	_	16	nsubj	_	O
+14	have	have	VBP	_	16	aux	_	O
+15	nt	nt	RB	_	16	advmod	_	O
+16	touched	touch	VBN	_	2	conj	_	O
+17	that	that	DT	pos2=IN	16	dobj	_	O
+18	in	in	IN	pos2=RP	16	prep	_	O
+19	months	month	NNS	_	18	pobj	_	U-DATE
+

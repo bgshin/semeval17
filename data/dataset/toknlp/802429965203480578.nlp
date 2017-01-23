@@ -1,0 +1,26 @@
+1	@pillowzayn	@pillowzayn	UH	pos2=XX	5	discourse	_	O
+2	@Smellycat89	@smellycat0	NN	pos2=CD	3	compound	_	O
+3	BAHAHA	bahaha	NN	pos2=MD	6	nsubj	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	find	find	VBP	_	0	root	_	O
+6	it	it	PRP	_	7	nsubj	_	O
+7	hilarious	hilarious	JJ	_	5	ccomp	_	O
+8	how	how	WRB	_	10	advmod	_	O
+9	liberals	liberal	NNS	_	10	nsubj	_	O
+10	love	love	VBP	_	7	ccomp	_	O
+11	to	to	TO	_	12	aux	_	O
+12	assume	assume	VB	_	10	xcomp	_	O
+13	that	that	IN	_	16	mark	_	O
+14	if	if	IN	_	16	mark	_	O
+15	some1	some0	NN	_	16	nsubj	_	O
+16	is	be	VBZ	_	20	advcl	_	O
+17	against	against	IN	_	16	prep	_	O
+18	media	medium	NNS	pos2=NN	17	pobj	_	O
+19	they	they	PRP	_	20	nsubj	_	O
+20	like	like	VBP	pos2=IN	22	pobj	_	O
+21	FOX	fox	NNP	pos2=NN	20	dobj	_	U-ORG
+22	.	.	.	_	5	punct	_	O
+
+1	Idiot	idiot	NN	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

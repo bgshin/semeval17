@@ -1,0 +1,18 @@
+1	@princessdianej	@princessdianej	UH	pos2=XX	7	discourse	_	O
+2	@Adler_Hess_funf	@adler_hess_funf	ADD	pos2=XX	7	punct	_	O
+3	@schestowitz	@schestowitz	UH	pos2=IN	7	discourse	_	O
+4	@twright55	@twright0	NN	pos2=CD	6	compound	_	B-PERSON
+5	@DrJillStein	@drjillstein	NNP	pos2=WRB	6	compound	_	I-PERSON
+6	Soros	soros	NNP	_	7	nsubj	_	L-PERSON
+7	backed	back	VBD	_	0	root	_	O
+8	dems	dems	NNS	pos2=XX	9	compound	_	O
+9	tryin	tryin	NN	pos2=RB	7	dobj	_	O
+10	to	to	TO	_	11	aux	_	O
+11	overthrow	overthrow	VB	_	7	advcl	_	O
+12	Gov	gov	NNP	_	13	compound	_	B-PERSON
+13	Timed	timed	NNP	pos2=VBN	17	nmod	_	L-PERSON
+14	160k	0k	CD	pos2=NNP	13	punct	_	U-CARDINAL
+15	a	a	DT	_	16	det	_	O
+16	day	day	NN	_	17	compound	_	O
+17	donations	donation	NNS	_	11	dobj	_	O
+

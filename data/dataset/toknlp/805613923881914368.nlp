@@ -1,0 +1,28 @@
+1	@Macdeuce	@macdeuce	PRP$	pos2=IN	2	poss	_	O
+2	creativity	creativity	NN	_	5	nsubj	_	O
+3	does	do	VBZ	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	exist	exist	VB	_	0	root	_	O
+6	which	which	WDT	_	7	nsubj	_	O
+7	is	be	VBZ	_	5	ccomp	_	O
+8	why	why	WRB	_	10	advmod	_	O
+9	the	the	DT	_	11	det	_	O
+10	same	same	JJ	_	11	nmod	_	O
+11	movies	movie	NNS	_	7	attr	_	O
+12	/	/	SYM	_	13	punct	_	O
+13	tv	tv	NN	_	14	compound	_	O
+14	shows	show	NNS	pos2=VBZ	17	nsubjpass	_	O
+15	keep	keep	VBP	pos2=VB	17	aux	_	O
+16	getting	get	VBG	_	17	auxpass	_	O
+17	made	make	VBN	_	11	relcl	_	O
+18	.	.	.	_	5	punct	_	O
+
+1	Wait	wait	VB	pos2=VBP	0	root	_	O
+2	til	til	IN	pos2=FW	5	mark	_	O
+3	Zac	zac	NNP	_	4	compound	_	B-PERSON
+4	Efron	efron	NNP	_	5	nsubj	_	L-PERSON
+5	plays	play	VBZ	_	1	advcl	_	O
+6	John	john	NNP	_	7	compound	_	B-PERSON
+7	McClain	mcclain	NNP	_	5	dobj	_	L-PERSON
+8	.	.	.	_	1	punct	_	O
+

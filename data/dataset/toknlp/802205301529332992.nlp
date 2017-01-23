@@ -1,0 +1,15 @@
+1	So	so	RB	_	5	advmod	_	O
+2	in	in	IN	_	5	prep	_	O
+3	April	april	NNP	_	2	pobj	_	U-DATE
+4	we	we	PRP	_	5	nsubj	_	O
+5	get	get	VBP	_	0	root	_	O
+6	Persona	persona	NNP	pos2=NN	5	dobj	_	O
+7	5	0	CD	_	6	nmod	_	U-CARDINAL
+8	and	and	CC	_	6	cc	_	O
+9	Phantom	phantom	NNP	_	10	compound	_	O
+10	Trigger	trigger	NNP	pos2=NN	6	conj	_	O
+11	1	0	CD	_	10	nmod	_	O
+12	AND	and	CC	_	10	cc	_	O
+13	2.	0.	CD	pos2=LS	10	conj	_	U-CARDINAL
+14	https://t.co/IuY8j63kPA	#hlink#	ADD	pos2=NN	9	appos	_	O
+

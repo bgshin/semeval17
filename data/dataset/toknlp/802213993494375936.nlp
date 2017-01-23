@@ -1,0 +1,14 @@
+1	Chris	chris	NNP	_	2	compound	_	B-PERSON
+2	Rock	rock	NNP	_	3	nsubj	_	L-PERSON
+3	says	say	VBZ	_	0	root	_	O
+4	#neverforget	#neverforget	NNP	pos2=IN	5	nsubj	_	O
+5	#charliebrownthanksgiving	#charliebrownthanksgiving	VBG	pos2=XX	13	nmod	_	O
+6	had	have	VBD	pos2=VBN	8	aux	_	O
+7	Franklin	franklin	NNP	_	8	nsubj	_	U-PERSON
+8	sitting	sit	VBG	_	3	ccomp	_	O
+9	alone	alone	RB	pos2=JJ	8	advmod	_	O
+10	#BlackLivesMatter	#blacklivesmatter	GW	pos2=IN	13	nmod	_	U-NORP
+11	#SayHerName	#sayhername	GW	pos2=JJ	13	nmod	_	O
+12	…	…	GW	pos2=NFP	13	nmod	_	O
+13	https://t.co/bRmEN6kC0B	#hlink#	ADD	pos2=NN	8	advcl	_	O
+

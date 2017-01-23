@@ -1,0 +1,27 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@homeopathywow	@homeopathywow	NN	pos2=UH	4	nsubj	_	O
+2	@	@	SYM	pos2=CC	3	punct	_	O
+3	6x10E23	0x0e0	NN	_	1	prep	_	O
+4	Dangerous	dangerous	JJ	_	0	root	_	O
+5	and	and	CC	_	4	cc	_	O
+6	delusional	delusional	JJ	_	4	conj	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	Scientific	scientific	JJ	_	2	nmod	_	O
+2	evidence	evidence	NN	_	3	nsubj	_	O
+3	clear	clear	JJ	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	#homeopathy	#homeopathy	NN	pos2=UH	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	useless	useless	JJ	_	6	nmod	_	O
+5	sugar	sugar	NN	_	6	compound	_	O
+6	pills	pill	NNS	_	2	attr	_	O
+7	,	,	,	_	6	punct	_	O
+8	a	a	DT	_	10	det	_	O
+9	nocebo	nocebo	NN	_	10	compound	_	O
+10	treatment	treatment	NN	_	6	appos	_	O
+11	.	.	.	_	2	punct	_	O
+

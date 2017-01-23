@@ -1,0 +1,20 @@
+1	@VS_ROBOTS	@vs_robots	NNS	pos2=VBZ	0	root	_	O
+2	Hi	hi	UH	_	1	discourse	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	Grab	grab	VB	_	0	root	_	O
+2	a	a	DT	_	4	det	_	O
+3	FREE	free	JJ	_	4	nmod	_	O
+4	MP3	mp0	NN	_	1	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	our	our	PRP$	_	8	poss	_	O
+7	latest	late	JJS	_	8	nmod	_	O
+8	song	song	NN	_	5	pobj	_	O
+9	"	"	``	_	10	punct	_	O
+10	Pieces	piece	NNS	pos2=NNP	8	appos	_	U-WORK_OF_ART
+11	"	"	''	_	10	punct	_	O
+12	@	@	-LRB-	pos2=NFP	15	punct	_	O
+13	https://t.co/5J8UItmQQu	#hlink#	ADD	_	15	nmod	_	O
+14	Thanks4following	thanks0following	GW	pos2=-RRB-	15	nmod	_	O
+15	https://t.co/hguv7EKBi8	#hlink#	ADD	pos2=NN	8	appos	_	O
+

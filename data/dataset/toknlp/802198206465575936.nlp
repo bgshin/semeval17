@@ -1,0 +1,14 @@
+1	02/12/2015	0	CD	pos2=LS	2	nmod	_	B-MONEY
+2	#False	#false	NNS	pos2=NN	6	dep	_	L-MONEY
+3	#Flag	#flag	VBG	pos2=NNP	2	acl	_	O
+4	Weekly	weekly	NNP	_	6	nmod	_	B-ORG
+5	News	news	NNP	pos2=NN	6	nmod	_	L-ORG
+6	https://t.co/Ippx6r1SzC	#hlink#	ADD	_	9	nsubj	_	O
+7	#falseflag	#falseflag	-RRB-	pos2=IN	6	punct	_	O
+8	#hebdo	#hebdo	UH	pos2=-RRB-	9	discourse	_	O
+9	#ISIS	#isis	NN	pos2=$	0	root	_	O
+10	#war	#war	UH	pos2=XX	9	discourse	_	O
+11	#israel	#israel	UH	pos2=FW	9	discourse	_	O
+12	#palestine	#palestine	UH	pos2=PRP	9	discourse	_	O
+13	#mossad	#mossad	UH	pos2=FW	9	discourse	_	O
+

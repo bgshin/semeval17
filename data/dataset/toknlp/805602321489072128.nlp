@@ -1,0 +1,10 @@
+1	@DrMel_T	@drmel_t	NNP	pos2=ADD	0	root	_	O
+2	Yeah	yeah	UH	pos2=NNP	1	discourse	_	O
+3	and	and	CC	_	1	cc	_	O
+4	the	the	DT	_	8	det	_	O
+5	homeopathy	homeopathy	NN	_	6	compound	_	O
+6	aisle	aisle	NN	_	8	npadvmod	_	O
+7	-	-	HYPH	pos2=,	8	punct	_	O
+8	crazy	crazy	JJ	_	1	conj	_	O
+9	!	!	.	_	1	punct	_	O
+

@@ -1,0 +1,15 @@
+1	That	that	DT	_	3	nsubj	_	O
+2	could	could	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	solution	solution	NN	_	3	attr	_	O
+6	to	to	IN	_	5	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	Obamacare	obamacare	NNP	_	9	compound	_	U-ORG
+9	shortcomings	shortcoming	NNS	_	6	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	Just	just	RB	_	2	advmod	_	O
+2	thinking	think	VBG	pos2=NN	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+

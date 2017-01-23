@@ -1,0 +1,16 @@
+1	Watch	watch	VB	_	0	root	_	O
+2	the	the	DT	_	4	det	_	O
+3	Trump	trump	NNP	pos2=NN	4	compound	_	U-ORG
+4	protest	protest	NN	pos2=VB	1	dobj	_	O
+5	that	that	WDT	_	6	nsubj	_	O
+6	shut	shut	VBD	pos2=VBP	4	relcl	_	O
+7	down	down	RP	_	6	prt	_	O
+8	parts	part	NNS	_	6	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	New	new	NNP	_	11	compound	_	B-GPE
+11	York	york	NNP	_	12	compound	_	I-GPE
+12	City	city	NNP	_	9	pobj	_	L-GPE
+13	https://t.co/XWCPNQW2XC	#hlink#	ADD	pos2=RBR	15	nmod	_	O
+14	via	via	IN	_	6	prep	_	O
+15	@businessinsider	@businessinsider	NN	pos2=.	14	pobj	_	O
+

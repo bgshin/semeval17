@@ -1,0 +1,15 @@
+1	#Trump	#trump	NNP	pos2=WP	2	nsubj	_	O
+2	Owns	own	VBZ	pos2=NNP	0	root	_	O
+3	Stock	stock	NN	pos2=NNP	2	dobj	_	O
+4	In	in	IN	pos2=NNP	3	prep	_	O
+5	Pipeline	pipeline	NNP	_	6	compound	_	B-ORG
+6	Project	project	NNP	_	4	pobj	_	I-ORG
+7	At	at	IN	pos2=NNP	2	prep	_	I-ORG
+8	Center	center	NNP	_	7	pobj	_	I-ORG
+9	Of	of	IN	pos2=GW	8	prep	_	I-ORG
+10	#StandingRock	#standingrock	NNP	pos2=GW	11	compound	_	I-ORG
+11	Protest	protest	NNP	pos2=GW	9	pobj	_	L-ORG
+12	https://t.co/rtlditX8YT#trumpiscorrupt	#hlink#	ADD	_	14	nmod	_	O
+13	#NoDAPL	#nodapl	-RRB-	pos2=ADD	11	punct	_	U-ORG
+14	#NativeAmericans	#nativeamericans	NNS	pos2=ADD	13	pobj	_	O
+

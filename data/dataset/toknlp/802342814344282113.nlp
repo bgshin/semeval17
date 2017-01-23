@@ -1,0 +1,32 @@
+1	@WayneDupreeShow	@waynedupreeshow	ADD	pos2=VB	2	nsubj	_	O
+2	@SSMcDAN	@ssmcdan	LS	pos2=ADD	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Aka	aka	RB	pos2=NN	5	advmod	_	O
+2	:	:	:	_	5	punct	_	O
+3	Soros	soros	NNP	_	5	nsubj	_	U-ORG
+4	is	be	VBZ	_	5	aux	_	O
+5	paying	pay	VBG	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	bills	bill	NNS	_	5	dobj	_	O
+8	.	.	.	_	5	punct	_	O
+
+1	To	to	TO	_	2	aux	_	O
+2	disrupt	disrupt	VB	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	Trump	trump	NNP	pos2=NN	5	compound	_	U-PERSON
+5	transition	transition	NN	_	2	dobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	Stein	stein	NNP	pos2=NN	3	nsubj	_	U-PERSON
+2	,	,	,	_	3	punct	_	O
+3	bought	buy	VBD	pos2=VBN	0	root	_	O
+4	&	&	CC	_	3	cc	_	O
+5	paid	pay	VBN	pos2=VBD	3	conj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	by	by	IN	pos2=RB	5	agent	_	O
+8	just	just	RB	_	9	advmod	_	O
+9	like	like	IN	pos2=UH	5	prep	_	O
+10	Bernie	bernie	NNP	_	9	pobj	_	U-PERSON
+11	.	.	.	_	3	punct	_	O
+

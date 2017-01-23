@@ -1,0 +1,18 @@
+1	#SaudiArabia	#saudiarabia	NN	pos2=NNP	2	nsubj	_	O
+2	controls	control	VBZ	_	0	root	_	O
+3	its	its	PRP$	_	4	poss	_	O
+4	image	image	NN	_	2	dobj	_	O
+5	by	by	IN	_	2	prep	_	O
+6	monitoring	monitor	VBG	pos2=NN	5	pcomp	_	O
+7	media	medium	NNS	pos2=NN	6	dobj	_	O
+8	/	/	SYM	pos2=HYPH	9	punct	_	O
+9	buying	buy	VBG	pos2=NN	6	conj	_	O
+10	loyalties	loyalty	NNS	_	9	dobj	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	https://t.co/o3IEkIK263	#hlink#	ADD	_	5	nmod	_	O
+2	#Qatif	#qatif	-RRB-	pos2=NNP	5	nmod	_	O
+3	#Bahrain	#bahrain	GW	pos2=-RRB-	5	nmod	_	O
+4	#Yemen	#yemen	GW	pos2=ADD	5	nmod	_	O
+5	https://t.co/ezLPSpK5lh	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

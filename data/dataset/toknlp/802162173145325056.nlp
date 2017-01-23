@@ -1,0 +1,22 @@
+1	@jimmyfallon	@jimmyfallon	UH	pos2=XX	3	discourse	_	O
+2	@jimmykimmel	@jimmykimmel	UH	pos2=MD	3	discourse	_	O
+3	Get	get	VB	_	0	root	_	O
+4	me	me	PRP	_	3	dobj	_	O
+5	on	on	IN	_	3	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	show	show	NN	_	5	pobj	_	O
+8	and	and	CC	_	3	cc	_	O
+9	let	let	VB	_	3	conj	_	O
+10	me	me	PRP	_	11	nsubj	_	O
+11	sell	sell	VB	_	9	ccomp	_	O
+12	you	you	PRP	_	11	dative	_	O
+13	a	a	DT	_	14	det	_	O
+14	#Hatchimals	#hatchimals	NNS	pos2=NNP	11	dobj	_	O
+15	@TODAYshow	@todayshow	WP	pos2=NN	16	nsubj	_	O
+16	picked	pick	VBD	pos2=VBN	14	relcl	_	O
+17	up	up	RP	_	16	prt	_	O
+18	on	on	IN	_	16	prep	_	O
+19	our	our	PRP$	_	20	poss	_	O
+20	story	story	NN	_	18	pobj	_	O
+21	https://t.co/iMrucRcVsy	#hlink#	ADD	_	20	appos	_	O
+

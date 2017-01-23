@@ -1,0 +1,12 @@
+1	Usher	usher	NNP	_	4	nsubj	_	O
+2	can	can	MD	_	4	aux	_	O
+3	STILL	still	RB	_	4	advmod	_	O
+4	sing	sing	VB	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	Praise	praise	VB	pos2=VBP	0	root	_	O
+2	God	god	NNP	_	1	dobj	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+

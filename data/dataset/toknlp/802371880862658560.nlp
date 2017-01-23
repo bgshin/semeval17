@@ -1,0 +1,24 @@
+1	Will	will	MD	pos2=NNP	9	aux	_	O
+2	Jill	jill	NNP	_	3	compound	_	B-PERSON
+3	Stein	stein	NNP	_	9	poss	_	I-PERSON
+4	's	's	POS	_	3	case	_	L-PERSON
+5	Wisconsin	wisconsin	NNP	_	9	compound	_	U-GPE
+6	recount	recount	NN	pos2=VB	7	compound	_	O
+7	change	change	NN	pos2=VB	9	compound	_	O
+8	election	election	NN	_	9	compound	_	O
+9	outcome	outcome	NN	_	0	root	_	O
+10	?	?	.	_	9	punct	_	O
+
+1	https://t.co/YctKCmQRUZ	#hlink#	ADD	pos2=NN	4	nsubj	_	O
+2	will	will	MD	_	4	aux	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	be	be	VB	_	0	root	_	O
+5	$	$	$	_	7	qmod	_	B-MONEY
+6	5	0	CD	_	7	compound	_	I-MONEY
+7	million	#crd#	CD	_	8	npadvmod	_	L-MONEY
+8	more	more	JJR	pos2=RBR	12	advmod	_	O
+9	the	the	DT	_	10	det	_	O
+10	dems	dems	NNS	pos2=TO	11	nsubj	_	O
+11	throw	throw	VB	pos2=VBP	4	ccomp	_	O
+12	away	away	RB	pos2=RP	11	advmod	_	O
+

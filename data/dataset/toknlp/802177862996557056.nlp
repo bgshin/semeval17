@@ -1,0 +1,24 @@
+1	Interesting	interesting	JJ	pos2=VBG	4	vocative	_	O
+2	that	that	DT	pos2=WDT	4	mark	_	O
+3	recounts	recount	NNS	pos2=VBZ	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	only	only	RB	_	6	advmod	_	O
+6	in	in	IN	_	4	prep	_	O
+7	states	state	NNS	_	6	pobj	_	O
+8	where	where	WRB	_	10	advmod	_	O
+9	Trump	trump	NNP	_	10	nsubj	_	U-ORG
+10	won	win	VBD	pos2=NNP	7	relcl	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	What	what	WP	_	2	dep	_	O
+2	about	about	IN	_	0	root	_	O
+3	#TheWalkingDead	#thewalkingdead	NN	pos2=NNP	2	pobj	_	O
+4	?	?	.	_	2	punct	_	O
+
+1	California	california	NNP	pos2=NN	3	nsubj	_	U-GPE
+2	should	should	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	main	main	JJ	_	3	acomp	_	O
+5	…	…	NFP	pos2=-LRB-	3	discourse	_	O
+6	https://t.co/SFwa9Sd2N7	#hlink#	ADD	pos2=NN	3	dep	_	O
+

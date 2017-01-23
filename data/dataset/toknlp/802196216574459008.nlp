@@ -1,0 +1,13 @@
+1	#Turkey	#turkey	NNP	pos2=UH	2	compound	_	B-PERSON
+2	#Yemen	#yemen	NNP	pos2=IN	6	nmod	_	L-PERSON
+3	British	british	JJ	pos2=NNP	4	nmod	_	U-NORP
+4	ex-PMs	ex-pms	NNS	pos2=NNPS	5	nsubj	_	O
+5	raise	raise	VB	pos2=VBP	0	root	_	O
+6	possibility	possibility	NN	_	5	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	new	new	JJ	_	10	nmod	_	O
+9	Brexit	brexit	NNP	pos2=GW	10	compound	_	U-ORG
+10	vote	vote	NN	pos2=GW	7	pobj	_	O
+11	https://t.co/NZYD95QOzu	#hlink#	ADD	_	12	nmod	_	U-ORG
+12	https://t.co/P72aE02wXZ	#hlink#	ADD	_	5	dep	_	U-ORG
+

@@ -1,0 +1,21 @@
+1	@wef	@wef	IN	pos2=SYM	5	discourse	_	O
+2	Social	social	JJ	_	3	nmod	_	O
+3	democracy	democracy	NN	_	1	pobj	_	O
+4	;	;	,	pos2=:	3	punct	_	O
+5	relative	relative	JJ	_	6	nmod	_	O
+6	equality	equality	NN	_	7	nsubj	_	O
+7	;	;	,	pos2=:	0	root	_	O
+8	truly	truly	RB	_	9	advmod	_	O
+9	representative	representative	JJ	_	10	nmod	_	O
+10	government	government	NN	_	6	conj	_	O
+11	;	;	,	pos2=:	10	punct	_	O
+12	cheap	cheap	JJ	_	16	nmod	_	O
+13	,	,	,	_	10	punct	_	O
+14	accessible	accessible	JJ	pos2=VBP	16	nmod	_	O
+15	higher	high	JJR	_	16	nmod	_	O
+16	education	education	NN	_	10	conj	_	O
+17	;	;	,	pos2=:	16	punct	_	O
+18	job	job	NN	_	19	compound	_	O
+19	security	security	NN	_	16	conj	_	O
+20	.	.	.	_	1	punct	_	O
+

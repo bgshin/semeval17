@@ -1,0 +1,8 @@
+1	The	the	DT	_	2	det	_	B-DATE
+2	Week	week	NNP	pos2=NN	3	npadvmod	_	I-DATE
+3	Ahead	ahead	RB	pos2=NNP	6	advmod	_	L-DATE
+4	via	via	IN	_	3	prep	_	O
+5	@risk_insights#Brexit	@risk_insights#brexit	NNP	pos2=GW	4	pobj	_	O
+6	#RiskAnal	#riskanal	ADD	pos2=GW	7	punct	_	O
+7	ysishttps://t.co/7b0n3OPIqw	#hlink#	ADD	_	0	root	_	O
+

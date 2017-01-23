@@ -1,0 +1,34 @@
+1	@ananavarro	@ananavarro	UH	pos2=IN	3	discourse	_	O
+2	Mitt	mitt	NNP	_	3	nsubj	_	U-PERSON
+3	showed	show	VBD	_	0	root	_	O
+4	his	his	PRP$	_	7	poss	_	O
+5	"	"	``	_	7	punct	_	O
+6	true	true	JJ	_	7	nmod	_	O
+7	colors	color	NNS	_	3	dobj	_	O
+8	"	"	''	_	7	punct	_	O
+9	to	to	IN	_	3	dative	_	O
+10	PE	pe	NNP	pos2=NN	11	compound	_	B-ORG
+11	Trump	trump	NNP	pos2=NN	9	pobj	_	I-ORG
+12	/	/	SYM	pos2=,	11	punct	_	L-ORG
+13	now	now	RB	_	14	advmod	_	O
+14	wants	want	VBZ	_	3	ccomp	_	O
+15	a	a	DT	_	17	det	_	O
+16	Cabinet	cabinet	NNP	pos2=NN	17	compound	_	U-ORG
+17	job	job	NN	_	14	dobj	_	O
+18	!	!	.	_	3	punct	_	O
+
+1	What	what	WP	pos2=WDT	3	dobj	_	O
+2	Mitt	mitt	NNP	_	3	nsubj	_	U-PERSON
+3	said	say	VBD	_	4	csubj	_	O
+4	caused	cause	VBD	_	0	root	_	O
+5	his	his	PRP$	_	7	poss	_	O
+6	own	own	JJ	_	7	nmod	_	O
+7	crisis	crisis	NN	_	4	dobj	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	Loose	loose	JJ	pos2=VB	2	nmod	_	O
+2	lips	lip	NNS	_	3	nsubj	_	O
+3	sink	sink	VBP	pos2=VB	0	root	_	O
+4	ships	ship	NNS	_	3	dobj	_	O
+5	!	!	.	_	3	punct	_	O
+

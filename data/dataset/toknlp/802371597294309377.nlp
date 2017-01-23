@@ -1,0 +1,21 @@
+1	@platoon184	@platoon0	NN	pos2=LS	2	dep	_	O
+2	@mmboucher8	@mmboucher0	LS	pos2=``	3	meta	_	O
+3	Let	let	VB	_	0	root	_	O
+4	s	s	PRP	_	5	nsubj	_	O
+5	start	start	VB	_	3	ccomp	_	O
+6	calling	call	VBG	_	5	xcomp	_	O
+7	Lynch	lynch	NNP	_	9	poss	_	U-ORG
+8	's	's	POS	_	7	case	_	O
+9	office&tell	office&tell	$	pos2=``	6	oprd	_	O
+10	her	her	PRP	pos2=PRP$	11	nsubj	_	O
+11	do	do	VBP	pos2=VB	14	aux	_	O
+12	her	her	PRP$	_	13	poss	_	O
+13	job	job	NN	_	14	nsubj	_	O
+14	investigate	investigate	VB	pos2=VBP	9	ccomp	_	O
+15	Comey	comey	NNP	_	14	dobj	_	U-PERSON
+16	for	for	IN	_	14	prep	_	O
+17	violating	violate	VBG	_	16	pcomp	_	O
+18	the	the	DT	_	20	det	_	B-LAW
+19	Hatch	hatch	NNP	_	20	compound	_	I-LAW
+20	Act	act	NNP	_	17	dobj	_	L-LAW
+

@@ -1,0 +1,26 @@
+1	no	no	DT	_	2	det	_	O
+2	building	building	NN	_	8	nsubj	_	O
+3	or	or	CC	_	2	cc	_	O
+4	street	street	NN	_	2	conj	_	O
+5	or	or	CC	_	4	cc	_	O
+6	school	school	NN	_	4	conj	_	O
+7	will	will	MD	pos2=NN	8	aux	_	O
+8	named	name	VBN	pos2=VB	0	root	_	O
+9	after	after	IN	_	8	prep	_	O
+10	Fidel	fidel	NNP	_	11	compound	_	B-PERSON
+11	Castro	castro	NNP	_	9	pobj	_	L-PERSON
+12	in	in	IN	_	8	prep	_	O
+13	Cuba	cuba	NNP	_	12	pobj	_	U-GPE
+14	.	.	.	_	8	punct	_	O
+
+1	That	that	DT	pos2=RB	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	Fidel	fidel	NNP	_	7	poss	_	U-PERSON
+4	's	's	POS	_	3	case	_	O
+5	wish.@_cosatu	wish.@_cosatu	NNP	pos2=FW	7	compound	_	U-PRODUCT
+6	@sabc	@sabc	NN	pos2=XX	7	compound	_	O
+7	@SACP1921	@sacp0	NN	pos2=CD	2	attr	_	O
+8	@eNCA	@enca	NNP	pos2=XX	7	appos	_	U-ORG
+9	#fidelcastro	#fidelcastro	UH	pos2=FW	2	discourse	_	O
+10	.	.	.	_	2	punct	_	O
+

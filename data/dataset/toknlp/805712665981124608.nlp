@@ -1,0 +1,15 @@
+1	Huge	huge	JJ	_	2	nmod	_	O
+2	increase	increase	NN	_	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	US	us	NNP	pos2=NN	5	compound	_	U-GPE
+5	companies	company	NNS	_	3	pobj	_	O
+6	registering	register	VBG	_	5	acl	_	O
+7	#trademarks	#trademarks	NNS	pos2=NNPS	6	dobj	_	O
+8	in	in	IN	_	6	prep	_	O
+9	#Cuba	#cuba	NNP	pos2=NNS	8	pobj	_	U-GPE
+10	:	:	:	_	2	punct	_	O
+11	https://t.co/Uy3ESrrhv0	#hlink#	ADD	_	2	appos	_	O
+12	#embargo	#embargo	IN	pos2=-RRB-	2	prep	_	O
+13	#business	#business	UH	pos2=NN	12	discourse	_	O
+14	#trade	#trade	UH	pos2=NN	12	discourse	_	O
+

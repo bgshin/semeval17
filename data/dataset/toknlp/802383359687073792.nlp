@@ -1,0 +1,29 @@
+1	Jill	jill	NNP	_	2	compound	_	B-PERSON
+2	Stein	stein	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	now	now	RB	_	3	advmod	_	O
+5	the	the	DT	_	6	det	_	O
+6	Democrats	democrat	NNPS	_	7	nsubj	_	U-NORP
+7	puppet	puppet	VBP	pos2=NN	3	ccomp	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	They	they	PRP	_	3	nsubj	_	O
+2	will	will	MD	_	3	aux	_	O
+3	do	do	VB	_	0	root	_	O
+4	anything	anything	NN	_	3	dobj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	beg	beg	VB	_	4	relcl	_	O
+7	,	,	,	_	6	punct	_	O
+8	borrow	borrow	VB	_	6	conj	_	O
+9	or	or	CC	_	8	cc	_	O
+10	steal	steal	VB	pos2=VBP	8	conj	_	O
+11	this	this	DT	_	12	det	_	O
+12	election	election	NN	_	10	dobj	_	O
+13	.	.	.	_	3	punct	_	O
+
+1	Stein	stein	NNP	pos2=NN	4	nsubj	_	U-PERSON
+2	and	and	CC	_	1	cc	_	O
+3	Dems	dems	NNPS	pos2=NNP	1	conj	_	U-NORP
+4	real	real	JJ	pos2=RB	0	root	_	O
+5	scum.@FoxNews	scum.@foxnews	.	pos2=NNS	4	punct	_	O
+

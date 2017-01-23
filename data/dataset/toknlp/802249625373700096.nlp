@@ -1,0 +1,31 @@
+1	@GlennyRodge	@glennyrodge	VB	pos2=XX	0	root	_	O
+2	@StigAbell	@stigabell	NNP	pos2=UH	1	dative	_	O
+3	Two	#crd#	CD	pos2=NNP	4	nmod	_	U-CARDINAL
+4	atoms	atom	NNS	_	1	dobj	_	O
+5	at	at	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	bar	bar	NN	_	5	pobj	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	"	"	``	_	4	punct	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	've	have	VBP	_	4	aux	_	O
+4	lost	lose	VBN	_	0	root	_	O
+5	an	an	DT	_	6	det	_	O
+6	electron	electron	NN	_	4	dobj	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	Really	really	RB	_	3	advmod	_	O
+2	,	,	,	_	3	punct	_	O
+3	are	be	VBP	_	0	root	_	O
+4	you	you	PRP	_	3	nsubj	_	O
+5	sure	sure	JJ	_	3	acomp	_	O
+6	?	?	.	_	3	punct	_	O
+
+1	Yeah	yeah	UH	_	4	discourse	_	O
+2	,	,	,	_	4	punct	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	'm	be	VBP	_	0	root	_	O
+5	positive	positive	JJ	_	4	acomp	_	O
+6	"	"	''	pos2=``	4	punct	_	O
+

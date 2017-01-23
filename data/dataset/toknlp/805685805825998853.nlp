@@ -1,0 +1,8 @@
+1	#Fracking	#fracking	NNP	pos2=PRP	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	bring	bring	VB	_	0	root	_	O
+4	in	in	RP	pos2=RB	3	prt	_	O
+5	more	more	JJR	pos2=JJ	6	nmod	_	O
+6	jobs	job	NNS	_	3	dobj	_	O
+7	https://t.co/raErwkuVds	#hlink#	ADD	_	3	dep	_	O
+

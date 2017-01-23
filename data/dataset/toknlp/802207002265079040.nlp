@@ -1,0 +1,9 @@
+1	Miami	miami	NNP	_	2	compound	_	B-ORG
+2	Dolphins	dolphin	NNPS	_	3	compound	_	I-ORG
+3	Fans	fan	NNPS	pos2=NNS	8	dep	_	L-ORG
+4	#mannequinChallenge	#mannequinchallenge	POS	pos2=VBP	3	case	_	O
+5	@AKuperstein	@akuperstein	GW	pos2=ADD	8	nmod	_	B-WORK_OF_ART
+6	@MDC_Kristan	@mdc_kristan	GW	pos2=ADD	8	nmod	_	I-WORK_OF_ART
+7	@DolFanBandits	@dolfanbandits	GW	pos2=ADD	8	nmod	_	L-WORK_OF_ART
+8	https://t.co/C0TzLysJWz	#hlink#	ADD	pos2=NN	0	root	_	O
+

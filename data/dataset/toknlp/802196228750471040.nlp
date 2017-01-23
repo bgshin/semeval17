@@ -1,0 +1,14 @@
+1	#Turkey	#turkey	NNP	pos2=ADD	2	compound	_	O
+2	#Yemen	#yemen	NNP	pos2=POS	3	compound	_	O
+3	Supplies	supply	NNS	pos2=NNPS	4	nsubj	_	O
+4	running	run	VBG	_	0	root	_	O
+5	out	out	RP	pos2=RB	4	prt	_	O
+6	for	for	IN	_	4	prep	_	O
+7	Iraqis	iraqi	NNPS	_	6	pobj	_	U-NORP
+8	left	leave	VBN	pos2=JJ	7	acl	_	O
+9	in	in	IN	_	8	prep	_	O
+10	embattled	embattled	JJ	pos2=GW	11	nmod	_	O
+11	Mosul	mosul	NNP	pos2=GW	9	pobj	_	U-GPE
+12	https://t.co/JLXpsDgR3k	#hlink#	ADD	_	13	nmod	_	O
+13	https://t.co/rZPkYARDhc	#hlink#	ADD	_	4	dep	_	U-ORG
+

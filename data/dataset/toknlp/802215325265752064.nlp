@@ -1,0 +1,14 @@
+1	Thanksgiving	thanksgiving	NNP	pos2=NN	2	nsubj	_	U-DATE
+2	was	be	VBD	_	0	root	_	O
+3	so	so	RB	_	4	advmod	_	O
+4	lit	lit	JJ	pos2=VBN	2	acomp	_	O
+5	..	..	.	pos2=,	2	punct	_	O
+
+1	everybody	everybody	NN	_	2	nsubj	_	O
+2	looked	look	VBD	_	0	root	_	O
+3	like	like	IN	_	6	mark	_	O
+4	they	they	PRP	_	6	nsubj	_	O
+5	really	really	RB	_	6	advmod	_	O
+6	enjoyed	enjoy	VBD	_	2	advcl	_	O
+7	themselves.🙌🏾❤️🦃	themselves.🙌🏾❤️🦃	.	pos2=PRP	2	punct	_	O
+

@@ -1,0 +1,16 @@
+1	Trump	trump	NN	pos2=NNP	4	nsubjpass	_	U-PERSON
+2	should	should	MD	_	4	aux	_	O
+3	be	be	VB	_	4	auxpass	_	O
+4	made	make	VBN	_	0	root	_	O
+5	to	to	TO	pos2=IN	6	aux	_	O
+6	cough	cough	VB	_	4	advcl	_	O
+7	up	up	RP	pos2=RB	6	prt	_	O
+8	#reparations	#reparations	NNS	pos2=NNPS	6	dobj	_	O
+9	#kevlar	#kevlar	XX	pos2=JJ	4	dep	_	O
+10	and	and	CC	_	4	cc	_	O
+11	#ammo	#ammo	XX	pos2=UH	15	dep	_	O
+12	#MakeAmericaHateAgain	#makeamericahateagain	XX	pos2=RB	15	dep	_	O
+13	#BlackLivesMatter	#blacklivesmatter	XX	pos2=GW	15	nmod	_	O
+14	#Hatecrimes	#hatecrimes	XX	pos2=NNP	15	nmod	_	O
+15	#notmypresident	#notmypresident	XX	pos2=UH	4	conj	_	O
+

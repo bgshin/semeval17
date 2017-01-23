@@ -1,0 +1,13 @@
+1	Paris	paris	NNP	_	2	compound	_	B-PERSON
+2	Geller	geller	NNP	_	0	root	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	Emily	emily	NNP	_	5	compound	_	B-PERSON
+5	Gilmore	gilmore	NNP	_	2	conj	_	L-PERSON
+6	,	,	,	_	5	punct	_	O
+7	Mrs.	mrs.	NNP	_	8	compound	_	O
+8	Kim	kim	NNP	_	5	conj	_	U-PERSON
+9	,	,	,	_	8	punct	_	O
+10	Miss	miss	NNP	_	11	compound	_	O
+11	Patty	patty	NNP	_	12	compound	_	B-PERSON
+12	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNP	2	npadvmod	_	L-PERSON
+

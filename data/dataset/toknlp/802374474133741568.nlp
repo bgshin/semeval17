@@ -1,0 +1,30 @@
+1	8	0	CD	_	3	nmod	_	O
+2	/	/	SYM	pos2=,	4	punct	_	O
+3	I	I	PRP	pos2=NN	4	nsubj	_	O
+4	think	think	VBP	_	0	root	_	O
+5	we	we	PRP	_	8	nsubj	_	O
+6	can	can	MD	_	8	aux	_	O
+7	now	now	RB	_	8	advmod	_	O
+8	stop	stop	VB	_	4	ccomp	_	O
+9	lamenting	lament	VBG	_	8	xcomp	_	O
+10	the	the	DT	_	11	det	_	O
+11	pace	pace	NN	_	9	dobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	Trump	trump	NNP	_	16	poss	_	U-ORG
+14	’s	's	POS	_	13	case	_	O
+15	“	"	''	pos2=``	16	punct	_	O
+16	transition	transition	NN	_	12	pobj	_	O
+17	.	.	.	_	4	punct	_	O
+
+1	”	"	``	_	3	punct	_	O
+2	It	it	PRP	_	3	nsubj	_	O
+3	’s	's	VBZ	_	0	root	_	O
+4	quite	quite	RB	_	5	advmod	_	O
+5	clear	clear	JJ	_	3	acomp	_	O
+6	that	that	IN	_	10	mark	_	O
+7	the	the	DT	_	9	det	_	O
+8	real	real	JJ	_	9	nmod	_	O
+9	transition	transition	NN	pos2=GW	5	dep	_	O
+10	…	…	NFP	pos2=IN	11	punct	_	O
+11	https://t.co/RzqOhuoaue	#hlink#	ADD	_	9	appos	_	O
+

@@ -1,0 +1,7 @@
+1	@Kevosweeno	@kevosweeno	NNP	pos2=NN	2	compound	_	U-GPE
+2	@RebeccaTalbot01	@rebeccatalbot0	NN	pos2=ADD	6	compound	_	O
+3	@MatthewConolly	@matthewconolly	RB	pos2=ADD	4	advmod	_	O
+4	nazi	nazi	NN	pos2=VBG	6	compound	_	O
+5	Sweeney	sweeney	NNP	_	6	compound	_	O
+6	🇧🇪	🇧🇪	NNP	pos2=.	0	root	_	O
+

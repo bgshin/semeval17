@@ -1,0 +1,18 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@SenSchumer	@senschumer	NN	pos2=ADD	6	npadvmod	_	O
+2	@SenatorReid	@senatorreid	FW	pos2=ADD	3	nmod	_	O
+3	@SenSanders	@sensanders	NNS	pos2=VBZ	1	npadvmod	_	O
+4	@elizabethforma	@elizabethforma	FW	pos2=IN	7	nmod	_	O
+5	@NancyPelosi	@nancypelosi	FW	pos2=NNS	7	nmod	_	O
+6	@RepCummings	@repcummings	NNP	pos2=POS	7	compound	_	O
+7	Trump	trump	NNP	pos2=NN	8	nsubj	_	O
+8	knows	know	VBZ	_	0	root	_	O
+9	living	live	VBG	_	8	xcomp	_	O
+10	in	in	IN	_	9	prep	_	O
+11	many	many	JJ	_	12	nmod	_	O
+12	places	place	NNS	_	10	pobj	_	O
+13	g	g	VBP	pos2=GW	15	nmod	_	O
+14	…	…	NFP	pos2=:	15	punct	_	O
+15	https://t.co/Q0gySD4PqK	#hlink#	ADD	_	8	dep	_	O
+

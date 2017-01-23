@@ -1,0 +1,16 @@
+1	Who	who	WP	_	3	nsubj	_	O
+2	should	should	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	TIME	time	NNP	pos2=NN	6	poss	_	U-ORG
+5	's	's	POS	_	4	case	_	O
+6	Person	person	NNP	pos2=NN	3	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	Year	year	NNP	pos2=NN	7	pobj	_	O
+10	for	for	IN	_	3	prep	_	O
+11	2016	0	CD	_	10	pobj	_	U-DATE
+12	?	?	.	_	3	punct	_	O
+
+1	#Putin	#putin	NNP	pos2=ADD	2	nmod	_	O
+2	https://t.co/b8WIUvrC90	#hlink#	ADD	_	0	root	_	O
+

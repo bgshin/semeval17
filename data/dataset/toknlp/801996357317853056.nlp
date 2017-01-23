@@ -1,0 +1,7 @@
+1	Special	special	JJ	pos2=NNP	2	nmod	_	B-ORG
+2	Forces	force	NNPS	pos2=NNS	6	nmod	_	L-ORG
+3	#GrizzlyGang	#grizzlygang	NNP	pos2=GW	6	nmod	_	O
+4	#BlackFriday	#blackfriday	GW	pos2=NNP	6	nmod	_	O
+5	#UnitedNations	#unitednations	GW	pos2=ADD	6	nmod	_	O
+6	https://t.co/LHg7HwGT8w	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

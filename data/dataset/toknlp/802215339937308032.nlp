@@ -1,0 +1,12 @@
+1	thanksgiving	thanksgiving	NN	pos2=JJ	2	compound	_	O
+2	dinner	dinner	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	pretty	pretty	RB	_	5	advmod	_	O
+5	lit	lit	JJ	pos2=NN	3	acomp	_	O
+6	but	but	CC	_	3	cc	_	O
+7	breakfast	breakfast	NN	pos2=JJ	8	compound	_	O
+8	leftovers	leftover	NNS	_	9	nsubj	_	O
+9	are	be	VBP	_	3	conj	_	O
+10	even	even	RB	_	11	advmod	_	O
+11	better	good	JJR	pos2=RBR	9	acomp	_	O
+

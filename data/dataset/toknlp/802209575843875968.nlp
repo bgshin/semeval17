@@ -1,0 +1,28 @@
+1	@AlwaysInAmerica	@alwaysinamerica	NNP	pos2=ADD	2	compound	_	U-PERSON
+2	@CamilleRenee8	@camillerenee0	NN	pos2=GW	7	nsubj	_	O
+3	@megynkelly	@megynkelly	UH	pos2=XX	7	discourse	_	O
+4	what	what	WP	_	9	dobj	_	O
+5	does	do	VBZ	_	7	aux	_	O
+6	that	that	DT	_	7	nsubj	_	O
+7	have	have	VB	pos2=VBP	0	root	_	O
+8	to	to	TO	_	9	aux	_	O
+9	do	do	VB	_	7	xcomp	_	O
+10	with	with	IN	_	9	prep	_	O
+11	PC	pc	NN	_	10	pobj	_	O
+12	?	?	.	_	7	punct	_	O
+
+1	+	+	SYM	_	5	punct	_	O
+2	she	she	PRP	_	5	nsubj	_	O
+3	's	's	VBZ	_	5	aux	_	O
+4	only	only	RB	_	5	advmod	_	O
+5	promoting	promote	VBG	_	0	root	_	O
+6	her	her	PRP$	_	7	poss	_	O
+7	book	book	NN	_	5	dobj	_	O
+8	.	.	.	_	5	punct	_	O
+
+1	was	be	VBD	_	0	root	_	O
+2	a	a	DT	_	3	det	_	O
+3	victim	victim	NN	_	1	attr	_	O
+4	too	too	RB	_	1	advmod	_	O
+5	.	.	.	_	1	punct	_	O
+

@@ -1,0 +1,22 @@
+1	Quote	quote	UH	pos2=VB	4	discourse	_	O
+2	this	this	DT	_	4	det	_	O
+3	every	every	DT	_	4	det	_	O
+4	time	time	NN	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	Kremlin	kremlin	NNP	_	11	nsubj	_	O
+7	&	&	CC	_	6	cc	_	O
+8	pro-Putin	pro-putin	JJ	_	10	nmod	_	O
+9	media	medium	NNS	pos2=NN	10	compound	_	O
+10	propagandists	propagandist	NNS	_	6	conj	_	O
+11	claim	claim	VBP	_	4	relcl	_	O
+12	that	that	IN	pos2=DT	16	mark	_	O
+13	#US	#us	IN	pos2=JJ	16	prep	_	O
+14	troops	troop	NNS	_	13	pobj	_	O
+15	are	be	VBP	_	16	aux	_	O
+16	threatening	threaten	VBG	_	11	ccomp	_	O
+17	Russia	russia	NNP	_	16	dobj	_	U-GPE
+18	.	.	.	_	14	acl	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/sGDLFEaP13	#hlink#	ADD	pos2=NN	0	root	_	O
+

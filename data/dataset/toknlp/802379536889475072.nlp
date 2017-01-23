@@ -1,0 +1,22 @@
+1	Learn	learn	VB	_	0	root	_	O
+2	Coding	cod	VBG	pos2=NN	1	dobj	_	O
+3	with	with	IN	_	2	prep	_	O
+4	Robots	robot	NNS	pos2=NNP	3	pobj	_	O
+5	!	!	.	_	1	punct	_	O
+
+1	This	this	DT	_	2	det	_	O
+2	fun	fun	NN	pos2=JJ	7	npadvmod	_	O
+3	,	,	,	_	7	punct	_	O
+4	2	0	CD	_	5	nmod	_	B-TIME
+5	hour	hour	NN	_	6	compound	_	L-TIME
+6	workshop	workshop	NN	_	7	nsubj	_	O
+7	teaches	teach	VBZ	_	0	root	_	O
+8	all	all	DT	_	9	det	_	O
+9	ages	age	NNS	_	7	dobj	_	O
+10	how	how	WRB	_	12	advmod	_	O
+11	to	to	TO	pos2=IN	12	aux	_	O
+12	code	code	VB	pos2=NN	7	xcomp	_	O
+13	.	.	.	_	7	punct	_	O
+
+1	https://t.co/alkJdqLJ2C	#hlink#	ADD	_	0	root	_	U-ORG
+

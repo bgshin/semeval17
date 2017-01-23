@@ -1,0 +1,11 @@
+1	@Italians4Trump	@italians0trump	NN	pos2=XX	2	compound	_	O
+2	@FoxNews	@foxnews	NNP	pos2=NNPS	4	neg	_	U-WORK_OF_ART
+3	Because	because	IN	_	5	mark	_	O
+4	everyone	everyone	NN	_	5	nsubj	_	O
+5	knows	know	VBZ	_	0	root	_	O
+6	it	it	PRP	_	7	nsubj	_	O
+7	's	's	VBZ	_	5	ccomp	_	O
+8	George	george	NNP	_	9	compound	_	B-PERSON
+9	Soros	soros	NNP	_	7	attr	_	L-PERSON
+10	?	?	.	_	5	punct	_	O
+

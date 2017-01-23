@@ -1,0 +1,28 @@
+1	#saturdaymorning	#saturdaymorning	VBG	pos2=UH	2	nmod	_	O
+2	@Amelia16510	@amelia0	NN	pos2=NNS	4	nsubj	_	O
+3	"	"	``	pos2=''	4	punct	_	O
+4	Trump	trump	NNP	pos2=NN	0	root	_	U-PERSON
+5	...	..	.	pos2=,	4	punct	_	O
+
+1	'trust	'trust	VB	pos2=VBD	0	root	_	O
+2	his	his	PRP$	_	3	poss	_	O
+3	judgement	judgement	NN	_	1	dobj	_	O
+4	'	'	''	pos2=POS	1	punct	_	O
+5	But	but	CC	_	1	cc	_	O
+6	what	what	WP	_	7	attr	_	O
+7	is	be	VBZ	_	1	conj	_	O
+8	his	his	PRP$	_	9	poss	_	O
+9	judgement	judgement	NN	_	7	nsubj	_	O
+10	?	?	.	_	7	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	keeps	keep	VBZ	_	0	root	_	O
+3	changing	change	VBG	_	2	xcomp	_	O
+4	it	it	PRP	_	3	dobj	_	O
+5	!	!	.	_	2	punct	_	O
+
+1	Hillary	hillary	NNP	_	0	root	_	U-PERSON
+2	,	,	,	_	1	punct	_	O
+3	Obamacare	obamacare	NNP	_	1	appos	_	U-PERSON
+4	..	..	.	pos2=,	1	punct	_	O
+

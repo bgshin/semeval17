@@ -1,0 +1,17 @@
+1	American	american	JJ	pos2=NNP	7	nmod	_	U-NORP
+2	Red	red	JJ	pos2=NNP	7	nmod	_	O
+3	white	white	JJ	_	7	nmod	_	O
+4	and	and	CC	_	3	cc	_	O
+5	blue	blue	JJ	_	3	conj	_	O
+6	baseball	baseball	NN	_	7	compound	_	O
+7	bracelet	bracelet	NN	_	0	root	_	O
+8	by	by	IN	_	7	prep	_	O
+9	THEACCESSORIEDOLL	theaccessoriedoll	NNP	pos2=-LRB-	8	pobj	_	U-ORG
+10	https://t.co/5dlK3m4sWL	#hlink#	ADD	pos2=RBR	8	pobj	_	O
+11	via	via	IN	_	7	prep	_	O
+12	@Etsy	@etsy	NNP	pos2=CD	11	pobj	_	U-FAC
+13	#chicagocubs	#chicagocubs	UH	pos2=NNS	7	discourse	_	O
+14	#cubs	#cubs	UH	pos2=NNS	7	discourse	_	O
+15	#chicago	#chicago	UH	pos2=FW	7	prep	_	O
+16	#christmas	#christmas	UH	pos2=NNS	7	discourse	_	O
+

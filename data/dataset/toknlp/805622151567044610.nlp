@@ -1,0 +1,22 @@
+1	@gphoto55	@gphoto0	NN	pos2=UH	2	compound	_	O
+2	@AndyRichter	@andyrichter	NN	pos2=ADD	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	Attention	attention	NN	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	Dem	dem	NN	pos2=NNP	4	nmod	_	O
+2	talking	talk	VBG	pos2=NN	0	root	_	O
+3	point	point	NN	_	4	compound	_	O
+4	regurgitation	regurgitation	NN	_	2	dobj	_	O
+5	again	again	RB	_	2	advmod	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	Vegas	vegas	NNP	pos2=JJ	3	compound	_	U-PERSON
+2	registration	registration	NN	_	3	compound	_	O
+3	fraud	fraud	NN	_	7	dep	_	O
+4	2	0	CD	_	7	dep	_	U-CARDINAL
+5	educate	educate	VB	pos2=VBP	0	root	_	O
+6	u	u	PRP	pos2=GW	5	dobj	_	O
+7	https://t.co/uEp2sQOwzr	#hlink#	ADD	pos2=NN	5	dobj	_	O
+

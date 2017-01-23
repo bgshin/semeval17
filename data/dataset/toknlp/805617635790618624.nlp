@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det	_	O
+2	best	good	JJS	pos2=RBS	9	nsubj	_	O
+3	all	all	RB	pos2=DT	4	advmod	_	O
+4	around	around	IN	pos2=RB	2	prep	_	O
+5	RB	rb	NNP	pos2=NN	4	pobj	_	O
+6	in	in	IN	_	2	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	#NFL	#nfl	NNP	pos2=NN	6	pobj	_	U-ORG
+9	wears	wear	VBZ	_	0	root	_	O
+10	black	black	JJ	pos2=NN	9	discourse	_	O
+11	&	&	CC	_	10	cc	_	O
+12	gold	gold	NN	pos2=JJ	10	conj	_	O
+13	.	.	.	_	9	punct	_	O
+
+1	https://t.co/3fSbamTSpv	#hlink#	ADD	_	2	nsubj	_	U-ORG
+2	#Steelers	#steelers	NNS	pos2=-RRB-	0	root	_	O
+

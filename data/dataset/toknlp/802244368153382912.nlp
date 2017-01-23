@@ -1,0 +1,16 @@
+1	Nice	nice	JJ	pos2=NNP	2	nmod	_	O
+2	video	video	NN	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	latest	late	JJS	_	5	nmod	_	O
+5	tests	test	NNS	_	3	pobj	_	O
+6	@TeslaMotors	@teslamotors	NNS	pos2=GW	2	appos	_	O
+7	for	for	IN	_	6	prep	_	O
+8	self-driving	self-driving	JJ	_	9	nmod	_	O
+9	cars	car	NNS	_	7	pobj	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	Easy	easy	JJ	_	2	nmod	_	O
+2	ride	ride	NN	pos2=GW	4	dep	_	O
+3	🚗	🚗	-LRB-	pos2=GW	2	punct	_	U-CARDINAL
+4	https://t.co/kKMhjCOd8e	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

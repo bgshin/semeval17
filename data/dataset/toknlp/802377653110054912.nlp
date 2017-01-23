@@ -1,0 +1,8 @@
+1	@tedtrue42	@tedtrue0	NN	pos2=LS	2	compound	_	O
+2	@T_Sizzle2131	@t_sizzle0	NN	pos2=ADD	0	root	_	O
+3	I	I	PRP	_	5	nsubj	_	O
+4	'm	be	VBP	_	5	aux	_	O
+5	retiring	retire	VBG	_	2	relcl	_	O
+6	from	from	IN	_	5	prep	_	O
+7	twitter	twitter	NN	pos2=JJR	6	pobj	_	O
+

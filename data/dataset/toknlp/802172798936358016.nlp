@@ -1,0 +1,16 @@
+1	#Valentines	#valentines	NNS	pos2=VBZ	5	poss	_	O
+2	#Gifts	#gifts	POS	pos2=PRP$	1	case	_	O
+3	NEW	new	JJ	pos2=NNP	5	nmod	_	O
+4	Genuine	genuine	JJ	pos2=NNP	5	nmod	_	O
+5	Mohair	mohair	NN	pos2=NNP	6	nsubj	_	O
+6	Collectible	collectible	JJ	pos2=NN	15	nmod	_	O
+7	15	0	CD	_	8	nmod	_	B-QUANTITY
+8	inch	inch	NN	pos2=NNS	15	dep	_	L-QUANTITY
+9	Boassy	boassy	NNP	pos2=NNPS	12	compound	_	O
+10	#TeddyBear	#teddybear	NNP	pos2=XX	12	compound	_	O
+11	Chessley	chessley	NNP	_	12	compound	_	B-PERSON
+12	Jointed	jointed	NNP	pos2=VBD	15	dep	_	L-PERSON
+13	4386-2	0	CD	_	12	npadvmod	_	U-DATE
+14	…	…	NFP	pos2=:	15	punct	_	O
+15	https://t.co/QBzOZ01U78	#hlink#	ADD	_	0	root	_	O
+

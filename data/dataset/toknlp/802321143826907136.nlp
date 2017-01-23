@@ -1,0 +1,14 @@
+1	#UsefulNewVerbs	#usefulnewverbs	NNS	pos2=``	4	nsubj	_	O
+2	Do	do	VBP	pos2=VB	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	make	make	VB	_	0	root	_	O
+5	me	me	PRP	pos2=DT	7	nsubj	_	O
+6	galaxy	galaxy	NN	pos2=JJ	7	compound	_	O
+7	note	note	NN	pos2=VB	4	ccomp	_	O
+8	7	0	CD	_	7	dobj	_	U-CARDINAL
+9	on	on	IN	_	7	prep	_	O
+10	you	you	PRP	_	9	pobj	_	O
+11	...	..	.	pos2=,	4	punct	_	O
+
+1	🙄	🙄	SYM	pos2=NFP	0	root	_	U-ORG
+

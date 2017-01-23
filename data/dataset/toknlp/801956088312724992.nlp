@@ -1,0 +1,25 @@
+1	@SSS_pnoles	@sss_pnoles	NNS	pos2=ADD	6	nsubj	_	O
+2	@daycri83	@daycri0	IN	pos2=NN	1	prep	_	O
+3	Flowers	flower	NNS	pos2=NNP	2	pobj	_	O
+4	could	could	MD	_	6	aux	_	O
+5	have	have	VB	_	6	aux	_	O
+6	hit	hit	VBN	pos2=NN	0	root	_	O
+7	.240	0	CD	_	5	nmod	_	U-CARDINAL
+8	/	/	SYM	_	9	punct	_	O
+9	.295	0	CD	_	7	prep	_	O
+10	/	/	SYM	_	11	punct	_	O
+11	.360	0	CD	_	7	prep	_	O
+12	,	,	,	_	6	punct	_	O
+13	and	and	CC	_	6	cc	_	O
+14	they	they	PRP	_	16	nsubj	_	O
+15	're	be	VBP	_	16	aux	_	O
+16	selling	sell	VBG	_	6	conj	_	O
+17	still	still	RB	_	16	advmod	_	O
+18	but	but	CC	_	16	cc	_	O
+19	Sale	sale	NNP	pos2=NN	20	nsubj	_	O
+20	has	have	VBZ	_	16	conj	_	O
+21	a	a	DT	_	24	det	_	O
+22	Cy	cy	NNP	_	23	compound	_	O
+23	Young	young	NNP	pos2=JJ	24	compound	_	O
+24	award	award	NN	_	20	dobj	_	O
+

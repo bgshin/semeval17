@@ -1,0 +1,26 @@
+1	@KellyannePolls	@kellyannepolls	NNS	pos2=ADD	0	root	_	O
+2	@nytimes	@nytimes	IN	pos2=NNS	1	prep	_	O
+3	What	what	WP	_	4	nsubj	_	O
+4	happened	happened	VBD	_	2	pcomp	_	O
+5	to	to	IN	_	4	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	peaceful	peaceful	JJ	_	8	nmod	_	O
+8	transition	transition	NN	_	5	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	power	power	NN	_	9	pobj	_	O
+11	?	?	.	_	1	punct	_	O
+
+1	Popular	popular	JJ	_	2	nmod	_	O
+2	vote	vote	NN	_	3	nsubj	_	O
+3	means	mean	VBZ	_	11	ccomp	_	O
+4	nothing	nothing	NN	_	3	dobj	_	O
+5	,	,	,	_	11	punct	_	O
+6	a	a	DT	_	7	qmod	_	O
+7	dozen	dozen	NN	_	8	compound	_	O
+8	cities	city	NNS	_	11	nsubj	_	O
+9	ca	can	MD	_	11	aux	_	O
+10	nt	nt	RB	_	11	advmod	_	O
+11	decide	decide	VB	_	0	root	_	O
+12	election	election	NN	_	11	dobj	_	O
+13	.	.	.	_	11	punct	_	O
+

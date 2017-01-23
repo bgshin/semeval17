@@ -1,0 +1,28 @@
+1	@ArmandoSalguero	@armandosalguero	NNP	pos2=ADD	2	compound	_	B-PERSON
+2	Next	next	NNP	pos2=RB	0	root	_	L-PERSON
+3	that	that	DT	pos2=IN	4	det	_	O
+4	moron	moron	NN	_	7	nsubj	_	O
+5	will	will	MD	_	7	aux	_	O
+6	be	be	VB	_	7	aux	_	O
+7	calling	call	VBG	_	2	relcl	_	O
+8	George	george	NNP	_	9	compound	_	B-PERSON
+9	Soros	soros	NNP	_	7	dobj	_	L-PERSON
+10	"	"	``	pos2=POS	12	punct	_	O
+11	Dear	dear	NNP	pos2=JJ	12	compound	_	O
+12	Leader	leader	NNP	pos2=NN	9	appos	_	O
+13	"	"	''	_	12	punct	_	O
+14	!	!	.	_	2	punct	_	O
+
+1	Leave	leave	VB	_	0	root	_	O
+2	this	this	DT	_	4	det	_	O
+3	awful	awful	JJ	_	4	nmod	_	O
+4	country	country	NN	_	1	dobj	_	O
+5	,	,	,	_	1	punct	_	O
+6	Colin	colin	NNP	_	4	appos	_	O
+7	-	-	HYPH	pos2=,	4	punct	_	O
+8	you	you	PRP	pos2=PRP$	9	nmod	_	O
+9	freakin	freakin	NN	pos2=VBP	11	nmod	_	O
+10	'	'	''	pos2=POS	11	punct	_	O
+11	idiot	idiot	NN	_	1	vocative	_	O
+12	!	!	.	_	1	punct	_	O
+

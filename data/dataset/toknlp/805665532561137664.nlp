@@ -1,0 +1,13 @@
+1	Wait	wait	VB	pos2=NN	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	Big	big	JJ	pos2=NNP	5	nmod	_	O
+4	O	o	NNP	pos2=UH	5	compound	_	O
+5	WestWorld	westworld	NNP	_	2	attr	_	O
+6	??	??	.	_	2	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	never	never	RB	_	3	neg	_	O
+3	finished	finish	VBD	_	0	root	_	O
+4	it	it	PRP	_	3	dobj	_	O
+5	.	.	.	_	3	punct	_	O
+

@@ -1,0 +1,20 @@
+1	So	so	RB	_	6	advmod	_	O
+2	the	the	DT	_	5	det	_	O
+3	#Oakland	#oakland	NNP	pos2=JJ	5	nmod	_	U-GPE
+4	anti-Trump	anti-trump	JJ	_	5	nmod	_	O
+5	riots	riot	NNS	_	6	nsubj	_	O
+6	died	die	VBD	_	0	root	_	O
+7	down	down	RB	pos2=RP	6	advmod	_	O
+8	after	after	IN	pos2=RB	6	prep	_	O
+9	like	like	UH	pos2=IN	8	discourse	_	O
+10	what	what	WP	_	13	dobj	_	O
+11	,	,	,	_	13	punct	_	O
+12	a	a	DT	_	13	det	_	B-DATE
+13	week	week	NN	_	8	pobj	_	L-DATE
+14	?	?	.	_	6	punct	_	O
+
+1	Man	man	NN	pos2=NNP	0	root	_	O
+2	that	that	WDT	pos2=DT	3	nsubj	_	O
+3	was	be	VBD	_	1	relcl	_	O
+4	quick	quick	JJ	pos2=RB	3	acomp	_	O
+

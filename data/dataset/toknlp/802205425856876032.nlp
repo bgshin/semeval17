@@ -1,0 +1,23 @@
+1	Video	video	NN	_	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	#Saudi	#saudi	JJ	pos2=VBG	6	nmod	_	O
+4	military	military	JJ	_	5	nmod	_	O
+5	vehicle	vehicle	NN	_	6	compound	_	O
+6	burns	burn	NNS	pos2=NN	0	root	_	O
+7	and	and	CC	_	6	cc	_	O
+8	artillery	artillery	NN	_	9	nsubj	_	O
+9	explodes	explode	VBZ	pos2=NNS	6	conj	_	O
+10	in	in	IN	_	9	prep	_	O
+11	it	it	PRP	_	10	pobj	_	O
+12	after	after	IN	_	9	prep	_	O
+13	being	be	VBG	_	14	auxpass	_	O
+14	targeted	target	VBN	_	12	pcomp	_	O
+15	by	by	IN	_	14	agent	_	O
+16	#Houthis	#houthis	NNP	pos2=NNPS	15	pobj	_	U-ORG
+17	in	in	IN	_	14	prep	_	O
+18	#Assir	#assir	NNP	_	17	pobj	_	U-GPE
+19	,	,	,	_	22	punct	_	O
+20	south	south	RB	pos2=JJ	21	advmod	_	O
+21	…	…	NFP	pos2=-LRB-	22	punct	_	O
+22	https://t.co/NLtyS45ayN	#hlink#	ADD	pos2=NN	6	dep	_	U-GPE
+

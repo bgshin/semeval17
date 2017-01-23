@@ -1,0 +1,27 @@
+1	@S_Cooper0404	@s_cooper0	NN	pos2=NNS	2	nsubj	_	O
+2	was	be	VBD	_	5	auxpass	_	O
+3	n't	not	RB	_	2	neg	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	raised	raise	VBD	pos2=VBN	0	root	_	O
+6	in	in	IN	pos2=RB	5	prep	_	O
+7	2-3	0	CD	_	8	nmod	_	B-DATE
+8	days	day	NNS	_	6	pobj	_	L-DATE
+9	??	??	.	_	5	punct	_	O
+
+1	Report	report	NN	pos2=NNP	2	nsubj	_	O
+2	said	say	VBD	_	0	root	_	O
+3	George	george	NNP	_	4	compound	_	B-PERSON
+4	Soros	soros	NNP	_	6	nmod	_	L-PERSON
+5	cyber	cyber	JJ	pos2=NN	6	nmod	_	O
+6	bots	bot	NNS	_	7	nsubj	_	O
+7	contributed	contribute	VBD	_	2	ccomp	_	O
+8	$	$	$	_	9	nmod	_	O
+9	165k	0k	CD	pos2=NN	7	dobj	_	U-MONEY
+10	per	per	IN	_	9	prep	_	O
+11	hour	hour	NN	_	10	pobj	_	O
+12	for	for	IN	_	7	prep	_	O
+13	a	a	DT	_	15	det	_	B-DATE
+14	couple	couple	NN	_	15	compound	_	I-DATE
+15	days	day	NNS	_	12	pobj	_	L-DATE
+16	.	.	.	_	2	punct	_	O
+

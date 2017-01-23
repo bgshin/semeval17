@@ -1,0 +1,13 @@
+1	Check	check	VB	_	0	root	_	O
+2	out	out	RP	_	1	prt	_	O
+3	our	our	PRP$	_	6	poss	_	O
+4	Morton	morton	NNP	_	6	compound	_	B-ORG
+5	Coffee	coffee	NNP	_	6	compound	_	I-ORG
+6	Station	station	NNP	pos2=NN	8	poss	_	I-ORG
+7	#MannequinChallenge	#mannequinchallenge	POS	pos2=NNP	6	case	_	L-ORG
+8	video	video	NN	_	1	dobj	_	O
+9	!!	!!	.	_	1	punct	_	O
+
+1	https://t.co/A0klkCeZeU...	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/Lv0TpGwbVV	#hlink#	ADD	_	0	root	_	U-ORG
+

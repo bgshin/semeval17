@@ -1,0 +1,14 @@
+1	#onedirection	#onedirection	UH	pos2=NN	3	discourse	_	O
+2	#niallhoran	#niallhoran	UH	pos2=MD	3	discourse	_	O
+3	look	look	VB	pos2=VBP	0	root	_	O
+4	how	how	WRB	_	5	advmod	_	O
+5	cute	cute	JJ	_	10	acomp	_	O
+6	and	and	CC	_	5	cc	_	O
+7	beautiful	beautiful	JJ	_	5	conj	_	O
+8	he	he	PRP	_	10	nsubj	_	O
+9	is	be	VBZ	_	10	aux	_	O
+10	☺️🙈	☺️🙈	VBG	pos2=HYPH	3	ccomp	_	O
+11	miss	miss	GW	pos2=AFX	13	nmod	_	O
+12	#onedirection	#onedirection	GW	pos2=NN	13	nmod	_	O
+13	https://t.co/2b8ChhDiXl	#hlink#	ADD	pos2=NN	3	dep	_	O
+

@@ -1,0 +1,22 @@
+1	By	by	IN	_	8	prep	_	O
+2	design	design	NN	_	1	pobj	_	O
+3	,	,	,	_	2	punct	_	O
+4	algorithm	algorithm	NN	_	2	conj	_	O
+5	&	&	CC	_	4	cc	_	O
+6	policy	policy	NN	_	4	conj	_	O
+7	@Facebook	@facebook	NNP	pos2=WDT	8	nsubj	_	U-ORG
+8	entrenches	entrench	VBZ	_	0	root	_	O
+9	echo	echo	NN	pos2=FW	10	compound	_	O
+10	chambers	chamber	NNS	_	8	dobj	_	O
+11	and	and	CC	_	8	cc	_	O
+12	amplifies	amplify	VBZ	_	8	conj	_	O
+13	misinformation	misinformation	NN	_	12	dobj	_	O
+14	.	.	.	_	8	punct	_	O
+
+1	@zeynep	@zeynep	UH	pos2=NN	6	dep	_	O
+2	for	for	IN	_	6	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	NYT.	nyt.	NNP	pos2=NNPS	2	pobj	_	O
+5	…	…	NFP	pos2=-LRB-	6	punct	_	O
+6	https://t.co/VND1QBdyvQ	#hlink#	ADD	_	0	root	_	O
+

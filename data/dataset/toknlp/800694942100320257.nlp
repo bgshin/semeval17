@@ -1,0 +1,22 @@
+1	And	and	CC	_	4	cc	_	O
+2	there	there	RB	pos2=EX	4	advmod	_	O
+3	we	we	PRP	_	4	nsubj	_	O
+4	have	have	VBP	_	0	root	_	O
+5	it	it	PRP	_	4	dobj	_	O
+6	,	,	,	_	10	punct	_	O
+7	we	we	PRP	_	10	nsubj	_	O
+8	are	be	VBP	_	10	aux	_	O
+9	certainly	certainly	RB	_	10	advmod	_	O
+10	living	live	VBG	_	4	ccomp	_	O
+11	in	in	IN	_	10	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	end	end	NN	_	14	compound	_	O
+14	times	time	NNS	_	11	pobj	_	O
+15	:	:	:	_	10	punct	_	O
+16	Microsoft	microsoft	NNP	_	17	nsubj	_	U-ORG
+17	Joins	join	VBZ	_	10	conj	_	O
+18	The	the	DT	pos2=NNP	20	det	_	B-ORG
+19	Linux	linux	NNP	_	20	compound	_	I-ORG
+20	Foundation	foundation	NNP	pos2=NN	21	nmod	_	L-ORG
+21	https://t.co/ZsRLuuuhJn	#hlink#	ADD	_	17	dobj	_	O
+

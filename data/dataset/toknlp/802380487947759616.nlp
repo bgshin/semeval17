@@ -1,0 +1,25 @@
+1	@gregpinelo	@gregpinelo	UH	pos2=``	4	discourse	_	O
+2	Do	do	VB	pos2=VBP	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	forget	forget	VB	_	0	root	_	O
+5	Wikileaks	wikileaks	NNP	_	4	dobj	_	U-ORG
+6	.	.	.	_	4	punct	_	O
+
+1	And	and	CC	_	4	cc	_	O
+2	Comey	comey	NNP	_	3	nsubj	_	U-PERSON
+3	/	/	SYM	pos2=,	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	FBI	fbi	NNP	_	2	appos	_	U-ORG
+6	.	.	.	_	3	punct	_	O
+
+1	And	and	CC	_	7	cc	_	O
+2	a	a	DT	_	7	det	_	O
+3	grotesquely	grotesquely	RB	_	4	advmod	_	O
+4	undemocratic	undemocratic	JJ	_	7	nmod	_	O
+5	Electoral	electoral	NNP	pos2=JJ	7	compound	_	B-ORG
+6	College	college	NNP	_	7	compound	_	I-ORG
+7	System	system	NNP	pos2=NN	0	root	_	L-ORG
+8	.	.	.	_	7	punct	_	O
+
+1	#TrumpIsStrangerThanFiction	#trumpisstrangerthanfiction	NN	pos2=ADD	0	root	_	O
+

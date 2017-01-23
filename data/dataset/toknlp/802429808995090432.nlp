@@ -1,0 +1,27 @@
+1	@jonsterling	@jonsterling	UH	pos2=VBG	5	discourse	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	've	have	VBP	_	5	aux	_	O
+4	been	be	VBN	_	5	aux	_	O
+5	getting	get	VBG	_	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	deluge	deluge	NN	_	5	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	liberals	liberal	NNS	pos2=NNPS	8	pobj	_	O
+10	&	&	CC	_	9	cc	_	O
+11	other	other	JJ	_	12	nmod	_	O
+12	cappies	cappies	NNS	_	9	conj	_	O
+13	coming	come	VBG	_	7	acl	_	O
+14	at	at	IN	_	13	prep	_	O
+15	me	me	PRP	_	14	pobj	_	O
+16	for	for	IN	_	13	prep	_	O
+17	speaking	speak	VBG	_	16	pcomp	_	O
+18	.	.	.	_	5	punct	_	O
+
+1	Uhg	uhg	NNP	pos2=UH	4	vocative	_	U-PERSON
+2	,	,	,	_	4	punct	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	think	think	VBP	_	0	root	_	O
+5	I	I	PRP	_	7	nsubj	_	O
+6	'll	will	MD	_	7	aux	_	O
+7	sleep	sleep	VB	pos2=NN	4	ccomp	_	O
+

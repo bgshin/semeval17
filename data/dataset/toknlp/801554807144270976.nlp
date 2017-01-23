@@ -1,0 +1,15 @@
+1	Random	random	JJ	pos2=NN	2	nmod	_	O
+2	photos	photo	NNS	pos2=NN	0	root	_	O
+3	from	from	IN	_	2	prep	_	O
+4	#NBAwards	#nbawards	NNS	pos2=NNP	3	pobj	_	O
+5	,	,	,	_	2	punct	_	O
+6	mostly	mostly	RB	_	7	advmod	_	O
+7	of	of	IN	_	2	prep	_	O
+8	poetry	poetry	NN	_	9	compound	_	O
+9	judges	judge	NNS	_	7	pobj	_	O
+10	and	and	CC	_	9	cc	_	O
+11	poets	poet	NNS	_	9	conj	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	https://t.co/qV51HfIwyx	#hlink#	ADD	_	0	root	_	U-ORG
+

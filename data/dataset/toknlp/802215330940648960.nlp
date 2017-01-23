@@ -1,0 +1,10 @@
+1	shitty	shitty	JJ	pos2=NN	4	nmod	_	O
+2	but	but	CC	_	1	cc	_	O
+3	litty	litty	JJ	pos2=PRP$	1	conj	_	O
+4	thanksgiving	thanksgiving	NN	pos2=VBG	0	root	_	O
+5	w	w	IN	pos2=XX	4	prep	_	O
+6	mel	mel	NN	pos2=GW	7	compound	_	O
+7	💘	💘	NNP	pos2=GW	5	pobj	_	O
+8	@melisaabacicc	@melisaabacicc	ADD	pos2=GW	9	nmod	_	O
+9	https://t.co/P01ocS9UCp	#hlink#	ADD	_	4	dep	_	O
+

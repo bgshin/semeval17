@@ -1,0 +1,15 @@
+1	Pete	pete	NNP	_	9	compound	_	B-PERSON
+2	BurnsDavid	burnsdavid	NNP	_	9	compound	_	L-PERSON
+3	BowieLeonard	bowieleonard	NNP	_	9	compound	_	O
+4	CohenAlexis	cohenalexis	NNP	pos2=NNPS	9	compound	_	O
+5	ArquetteGene	arquettegene	NNP	_	9	compound	_	O
+6	WilderChristina	wilderchristina	NNP	_	9	compound	_	O
+7	GrimmiePrinceChynaBig	grimmieprincechynabig	NNP	pos2=NNPS	9	compound	_	O
+8	AngFlo	angflo	NNP	_	9	compound	_	O
+9	Henderson	henderson	NNP	_	0	root	_	O
+10	etc	etc	FW	pos2=NNP	9	advmod	_	O
+11	.	.	.	_	9	punct	_	O
+
+1	RIP	rip	NN	pos2=VB	0	root	_	O
+2	2016	0	CD	_	1	npadvmod	_	U-DATE
+

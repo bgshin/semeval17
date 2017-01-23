@@ -1,0 +1,18 @@
+1	Its	its	PRP$	pos2=UH	3	poss	_	O
+2	that	that	DT	pos2=WDT	3	det	_	O
+3	time	time	NN	_	8	npadvmod	_	O
+4	of	of	IN	_	3	prep	_	O
+5	night	night	NN	_	4	pobj	_	U-TIME
+6	again	again	RB	_	3	advmod	_	O
+7	where	where	WRB	_	11	advmod	_	O
+8	no	no	DT	_	9	det	_	O
+9	one	#crd#	NN	pos2=PRP	11	nsubj	_	O
+10	can	can	MD	_	11	aux	_	O
+11	beat	beat	VB	_	0	root	_	O
+12	me	me	PRP	_	11	dobj	_	O
+13	at	at	IN	_	11	prep	_	O
+14	Rock'em	rock'em	NNP	pos2=ADD	16	compound	_	O
+15	Sock'em	sock'em	NNP	_	16	compound	_	O
+16	Robots	robot	NNPS	pos2=NNP	13	pobj	_	O
+17	.	.	.	_	3	punct	_	O
+

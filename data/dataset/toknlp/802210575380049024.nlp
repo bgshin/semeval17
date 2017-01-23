@@ -1,0 +1,12 @@
+1	#France	#france	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	foiled	foil	VBN	pos2=VBD	11	dep	_	O
+3	suspected	suspect	VBN	pos2=VBD	5	nmod	_	O
+4	#ISIS	#isis	NN	pos2=NNP	5	compound	_	O
+5	plot	plot	NN	_	2	dobj	_	O
+6	directed	direct	VBN	_	5	acl	_	O
+7	from	from	IN	_	6	prep	_	O
+8	abroad	abroad	RB	_	7	pcomp	_	O
+9	:	:	:	_	11	punct	_	O
+10	prosecutor	prosecutor	NN	pos2=GW	11	dep	_	O
+11	https://t.co/Pl5877ezWR	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,22 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	have	have	VBP	_	3	aux	_	O
+3	learnt	learn	VBN	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	accept	accept	VB	_	3	xcomp	_	O
+6	it	it	PRP	_	5	dobj	_	O
+7	,	,	,	_	3	punct	_	O
+8	and	and	CC	_	3	cc	_	O
+9	maybe	maybe	RB	_	11	advmod	_	O
+10	it	it	PRP	_	11	nsubj	_	O
+11	's	's	VBZ	_	3	conj	_	O
+12	charming	charming	JJ	_	11	acomp	_	O
+13	that	that	IN	_	15	mark	_	O
+14	she	she	PRP	_	15	nsubj	_	O
+15	looks	look	VBZ	_	11	ccomp	_	O
+16	pretty	pretty	RB	_	17	advmod	_	O
+17	casual	casual	JJ	_	15	acomp	_	O
+18	for	for	IN	_	17	prep	_	O
+19	an	an	DT	_	20	det	_	O
+20	abortion	abortion	NN	_	18	pobj	_	O
+21	?	?	.	_	11	punct	_	O
+

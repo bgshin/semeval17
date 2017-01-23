@@ -1,0 +1,16 @@
+1	Day	day	NN	pos2=NNP	6	nmod	_	O
+2	6	0	CD	_	1	nmod	_	U-CARDINAL
+3	-	-	:	pos2=,	6	punct	_	O
+4	Most	most	RBS	_	5	advmod	_	O
+5	annoying	annoying	JJ	_	6	nmod	_	O
+6	character	character	NN	_	11	dep	_	O
+7	:	:	:	_	9	punct	_	O
+8	Ashley	ashley	NNP	_	9	compound	_	B-PERSON
+9	Graham	graham	NNP	_	6	appos	_	L-PERSON
+10	(	(	-LRB-	_	9	punct	_	O
+11	Resident	resident	NNP	pos2=NN	13	dep	_	O
+12	Evil	evil	NNP	pos2=NN	11	dobj	_	O
+13	4	0	CD	pos2=GW	14	dative	_	O
+14	)	)	-RRB-	_	0	root	_	O
+15	https://t.co/LdPzKvh04v	#hlink#	ADD	pos2=NN	9	appos	_	O
+

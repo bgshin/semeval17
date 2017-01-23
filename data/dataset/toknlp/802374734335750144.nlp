@@ -1,0 +1,17 @@
+1	LEONARD	leonard	NNP	_	2	compound	_	O
+2	COHEN	cohen	NNP	_	14	dep	_	O
+3	&	&	CC	_	2	cc	_	O
+4	U2	u0	NN	pos2=NNP	6	compound	_	O
+5	-	-	HYPH	pos2=SYM	6	punct	_	O
+6	TOWER	tower	NN	pos2=NNP	2	conj	_	O
+7	OF	of	IN	_	6	prep	_	O
+8	SONG	song	NN	pos2=NNP	7	pobj	_	O
+9	(	(	-LRB-	_	8	punct	_	O
+10	SOTTOTITOLI	sottotitoli	NN	pos2=NNP	8	appos	_	O
+11	IN	in	IN	pos2=FW	10	prep	_	O
+12	ITALIANO	italiano	NN	pos2=NNP	11	pobj	_	U-GPE
+13	)	)	-RRB-	pos2=GW	8	punct	_	O
+14	https://t.co/dhqcIWvsvp	#hlink#	ADD	_	0	root	_	O
+15	via	via	IN	_	14	prep	_	O
+16	@YouTube	@youtube	NN	pos2=NNP	15	pobj	_	O
+

@@ -1,0 +1,21 @@
+1	Days	day	NNS	_	2	npadvmod	_	O
+2	after	after	IN	_	10	prep	_	O
+3	its	its	PRP$	_	4	poss	_	O
+4	launch	launch	NN	_	2	pobj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	Bangladesh	bangladesh	NNP	_	5	pobj	_	U-GPE
+7	,	,	,	_	10	punct	_	O
+8	#Uber	#uber	NNP	_	10	nsubjpass	_	U-GPE
+9	gets	get	VBZ	_	10	auxpass	_	O
+10	branded	brand	VBN	_	0	root	_	O
+11	as	as	IN	_	10	prep	_	O
+12	"	"	``	_	11	punct	_	O
+13	illegal	illegal	JJ	_	11	pcomp	_	O
+14	"	"	''	_	11	punct	_	O
+15	.	.	.	_	10	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	more	more	RBR	pos2=JJR	1	advmod	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/6y2ulrGDil	#hlink#	ADD	pos2=NN	1	dep	_	O
+

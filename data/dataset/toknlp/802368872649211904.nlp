@@ -1,0 +1,20 @@
+1	If	if	IN	_	5	mark	_	O
+2	the	the	DT	_	4	det	_	B-ORG
+3	Community	community	NNP	pos2=NN	4	compound	_	I-ORG
+4	Spouse	spouse	NNP	pos2=NN	5	nsubj	_	L-ORG
+5	Dies	die	VBZ	pos2=NNP	13	advcl	_	O
+6	Before	before	IN	_	5	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	#Medicaid	#medicaid	NNP	pos2=NFP	9	compound	_	O
+9	Recipient	recipient	NN	pos2=NNP	6	pobj	_	O
+10	,	,	,	_	13	punct	_	O
+11	Can	can	MD	_	13	aux	_	O
+12	#Medicaid	#medicaid	NNP	pos2=VBN	13	nsubj	_	O
+13	Collect	collect	VB	pos2=NNP	0	root	_	O
+14	from	from	IN	_	13	prep	_	O
+15	the	the	DT	_	18	det	_	O
+16	-	-	HYPH	pos2=,	13	punct	_	O
+17	via	via	IN	pos2=GW	13	prep	_	O
+18	@elderlawanswers	@elderlawanswers	NNS	pos2=ADD	17	pobj	_	O
+19	https://t.co/9XqhYCaMM3	#hlink#	ADD	pos2=NN	14	pobj	_	O
+

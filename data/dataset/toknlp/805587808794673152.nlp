@@ -1,0 +1,26 @@
+1	@StephandStuff5	@stephandstuff0	NN	pos2=NNS	5	dep	_	O
+2	@TheSciBabe	@thescibabe	UH	pos2=NN	5	discourse	_	O
+3	I	I	PRP	_	5	nsubj	_	O
+4	'd	would	MD	_	5	aux	_	O
+5	say	say	VB	_	0	root	_	O
+6	100	0	CD	_	7	nmod	_	B-PERCENT
+7	%	%	NN	_	10	nsubj	_	L-PERCENT
+8	of	of	IN	_	7	prep	_	O
+9	them	them	PRP	_	8	pobj	_	O
+10	time	time	NN	_	5	ccomp	_	O
+11	when	when	WRB	_	14	advmod	_	O
+12	they	they	PRP	_	14	nsubj	_	O
+13	're	be	VBP	_	14	aux	_	O
+14	considering	consider	VBG	_	10	relcl	_	O
+15	homeopathy	homeopathy	NN	_	14	dobj	_	O
+16	.	.	.	_	5	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	pretty	pretty	RB	_	4	advmod	_	O
+4	much	much	RB	pos2=JJ	2	advmod	_	O
+5	it	it	PRP	_	2	attr	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	:-)	:-)	NFP	pos2=SYM	0	root	_	O
+

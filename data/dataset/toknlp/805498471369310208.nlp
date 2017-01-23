@@ -1,0 +1,15 @@
+1	Petition	petition	NN	_	3	dep	_	O
+2	:	:	:	_	3	punct	_	O
+3	Tell	tell	VB	pos2=NNP	0	root	_	O
+4	Sheffield	sheffield	NNP	_	5	compound	_	B-ORG
+5	University	university	NNP	_	3	dobj	_	L-ORG
+6	to	to	TO	_	7	aux	_	O
+7	switch	switch	VB	_	3	xcomp	_	O
+8	to	to	IN	_	7	prep	_	O
+9	non-animal	non-animal	JJ	_	11	nmod	_	O
+10	research	research	NN	_	11	compound	_	O
+11	methods	method	NNS	_	8	pobj	_	O
+12	!	!	.	_	3	punct	_	O
+
+1	https://t.co/EYCmBH0Tmg	#hlink#	ADD	_	0	root	_	U-ORG
+

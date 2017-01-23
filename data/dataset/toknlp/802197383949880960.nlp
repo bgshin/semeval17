@@ -1,0 +1,14 @@
+1	#Iraq	#iraq	NNP	pos2=TO	3	nmod	_	O
+2	counter	counter	AFX	pos2=NN	3	nmod	_	O
+3	terrorism	terrorism	NN	_	4	nsubj	_	O
+4	found	find	VBD	pos2=VBN	0	root	_	O
+5	#ISIS	#isis	NN	pos2=PRP$	7	compound	_	O
+6	drone	drone	NN	_	7	compound	_	O
+7	factory	factory	NN	_	4	dobj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	Muharabin	muharabin	NNP	pos2=DT	11	compound	_	U-GPE
+10	district	district	NN	pos2=GW	11	compound	_	O
+11	east	east	NN	pos2=RB	12	compound	_	O
+12	#Mosul.#الموصل	#mosul.#الموصل	NNP	pos2=.	8	pobj	_	O
+13	https://t.co/JR4daNDmSy	#hlink#	ADD	pos2=NN	4	dep	_	O
+

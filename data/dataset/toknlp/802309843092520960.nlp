@@ -1,0 +1,24 @@
+1	@eucopresident	@eucopresident	UH	pos2=ADD	6	discourse	_	O
+2	@poroshenko	@poroshenko	UH	pos2=FW	6	discourse	_	O
+3	@JunckerEU	@junckereu	UH	pos2=NN	6	discourse	_	O
+4	@MartinSchulz	@martinschulz	UH	pos2=ADD	6	discourse	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	'm	be	VBP	_	0	root	_	O
+7	GOD	god	NNP	_	9	poss	_	O
+8	'S	's	POS	_	7	case	_	O
+9	Voice	voice	NNP	pos2=NN	6	attr	_	O
+10	!	!	.	_	6	punct	_	O
+
+1	God	god	NNP	_	2	nsubj	_	O
+2	says:	says:	VBD	pos2=POS	0	root	_	O
+3	"	"	``	pos2=''	6	punct	_	O
+4	EU	eu	NNP	pos2=NN	6	nsubjpass	_	U-ORG
+5	was	be	VBD	_	6	auxpass	_	O
+6	converted	convert	VBN	_	2	ccomp	_	O
+7	into	into	IN	_	6	prep	_	O
+8	SATANIC	satanic	JJ	pos2=NNP	9	nmod	_	O
+9	Unions	union	NNS	pos2=NNPS	7	pobj	_	O
+10	by	by	IN	_	6	agent	_	O
+11	godless	godless	JJ	_	12	nmod	_	B-NORP
+12	LIBERALS:Tusk	liberals:tusk	NNP	pos2=NN	10	pobj	_	L-NORP
+

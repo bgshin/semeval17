@@ -1,0 +1,21 @@
+1	@DeepakPSIyer	@deepakpsiyer	NN	pos2=ADD	2	compound	_	O
+2	@Olacabs	@olacabs	NNS	pos2=NNP	3	compound	_	O
+3	@DrGPradhan	@drgpradhan	NNS	pos2=,	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	their	their	PRP$	pos2=EX	8	poss	_	O
+6	enough	enough	JJ	_	8	nmod	_	O
+7	employment	employment	NN	_	8	compound	_	O
+8	opportunities	opportunity	NNS	_	4	attr	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	Idea	idea	NN	pos2=NNP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	their	their	PRP$	pos2=EX	8	poss	_	O
+4	should	should	MD	_	5	aux	_	O
+5	be	be	VB	_	2	ccomp	_	O
+6	minimum	minimum	JJ	pos2=RB	8	nmod	_	O
+7	deserved	deserve	VBN	pos2=JJ	8	nmod	_	O
+8	wage	wage	NN	_	5	attr	_	O
+9	by	by	IN	_	8	prep	_	O
+10	@Olacabs	@olacabs	NNP	pos2=NNS	9	pobj	_	O
+

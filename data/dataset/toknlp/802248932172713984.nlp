@@ -1,0 +1,26 @@
+1	Currently	currently	RB	_	2	advmod	_	O
+2	watching	watch	VBG	_	0	root	_	O
+3	this	this	DT	_	4	det	_	O
+4	Love	love	NNP	pos2=NN	2	dobj	_	B-ORG
+5	&	&	CC	_	4	cc	_	I-ORG
+6	Happiness	happiness	NNP	pos2=NN	4	conj	_	L-ORG
+7	musical	musical	NN	pos2=JJ	4	conj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	WH	wh	NNP	pos2=NN	8	pobj	_	U-ORG
+11	and	and	CC	_	2	cc	_	O
+12	I	I	PRP	_	14	nsubj	_	O
+13	'm	be	VBP	_	14	aux	_	O
+14	crying	cry	VBG	_	2	conj	_	O
+15	that	that	IN	pos2=DT	17	mark	_	O
+16	POTUS	potus	NNP	pos2=NN	17	nsubj	_	U-ORG
+17	is	be	VBZ	_	14	ccomp	_	O
+18	talmbout	talmbout	JJ	pos2=VBG	17	acomp	_	O
+19	twerking	twerking	VBG	pos2=NN	18	xcomp	_	O
+20	in	in	IN	_	19	prep	_	O
+21	his	his	PRP$	_	22	poss	_	O
+22	intro	intro	NN	_	20	pobj	_	O
+23	.	.	.	_	14	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+

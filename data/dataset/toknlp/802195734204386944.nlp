@@ -1,0 +1,23 @@
+1	LINK	link	NN	pos2=NNP	22	dep	_	O
+2	When	when	WRB	_	5	advmod	_	O
+3	world	world	NN	pos2=RB	4	npadvmod	_	O
+4	busy	busy	JJ	pos2=VBD	8	nmod	_	O
+5	obsessed	obsess	VBN	pos2=JJ	1	advcl	_	O
+6	with	with	IN	_	5	prep	_	O
+7	#ISIS	#isis	NN	pos2=NNP	8	compound	_	O
+8	news	news	NN	_	6	pobj	_	O
+9	,	,	,	_	1	punct	_	O
+10	in	in	IN	_	5	prep	_	O
+11	#India	#india	NNP	pos2=VBG	12	compound	_	U-GPE
+12	women	woman	NNS	_	10	pobj	_	O
+13	raped	rape	VBN	pos2=VBD	12	acl	_	O
+14	by	by	IN	_	13	agent	_	O
+15	goons	goon	NNS	_	14	pobj	_	O
+16	of	of	IN	_	15	prep	_	O
+17	militant	militant	JJ	pos2=NN	18	nmod	_	O
+18	#Hindutva	#hindutva	NNP	pos2=NNS	16	pobj	_	U-GPE
+19	"	"	''	pos2=``	20	punct	_	O
+20	@RifatJawaid	@rifatjawaid	NN	pos2=FW	22	dep	_	O
+21	:	:	:	_	22	punct	_	O
+22	https://t.co/QtgLnZj11d"	#hlink#	ADD	_	0	root	_	O
+

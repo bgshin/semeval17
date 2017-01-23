@@ -1,0 +1,11 @@
+1	#videos	#videos	NNS	pos2=UH	10	dep	_	O
+2	of	of	IN	_	1	prep	_	O
+3	zac	zac	NNP	pos2=JJ	4	compound	_	O
+4	efron	efron	NNP	pos2=NN	2	pobj	_	O
+5	naked	naked	JJ	_	9	nmod	_	O
+6	skinny	skinny	JJ	_	9	nmod	_	O
+7	tiny	tiny	JJ	_	9	nmod	_	O
+8	titless	titless	JJ	pos2=NN	9	nmod	_	O
+9	teen	teen	NN	_	10	dep	_	O
+10	https://t.co/wJzkGyCQHw	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

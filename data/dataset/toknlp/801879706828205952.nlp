@@ -1,0 +1,10 @@
+1	@Joshmarquez5	@joshmarquez0	NN	pos2=LS	2	compound	_	O
+2	@CoachGossett13	@coachgossett0	NN	pos2=XX	0	root	_	O
+3	meh	meh	UH	_	2	discourse	_	O
+4	..	..	.	_	2	punct	_	O
+
+1	Grayson	grayson	NNP	_	2	compound	_	B-PERSON
+2	Allen	allen	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	💩	💩	NNP	pos2=.	3	attr	_	O
+

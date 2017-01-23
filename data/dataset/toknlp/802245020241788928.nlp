@@ -1,0 +1,22 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	love	love	VBP	_	0	root	_	O
+3	Hybrids	hybrid	NNS	pos2=NNP	2	dobj	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	not	not	RB	_	2	neg	_	O
+6	when	when	WRB	_	8	advmod	_	O
+7	I	I	PRP	_	8	nsubj	_	O
+8	comes	come	VBZ	_	5	advcl	_	O
+9	to	to	IN	_	8	prep	_	O
+10	my	my	PRP$	_	11	poss	_	O
+11	food	food	NN	_	9	pobj	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	Tesla	tesla	NNP	pos2=NN	2	compound	_	U-ORG
+2	model	model	NN	_	3	nsubj	_	O
+3	S	s	VBZ	pos2=NNP	0	root	_	O
+4	your	your	PRP$	_	5	poss	_	O
+5	next	next	JJ	pos2=RB	3	attr	_	O
+6	!	!	.	_	3	punct	_	O
+
+1	https://t.co/vYFXcyRkDM	#hlink#	ADD	_	0	root	_	U-ORG
+

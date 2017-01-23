@@ -1,0 +1,31 @@
+1	@TIME	@time	NN	pos2=EX	2	nsubj	_	U-ORG
+2	is	be	VBZ	_	0	root	_	O
+3	this	this	DT	_	2	nsubj	_	O
+4	a	a	DT	_	5	det	_	O
+5	prophecy	prophecy	NN	_	2	attr	_	O
+6	?	?	.	_	2	punct	_	O
+
+1	Is	be	VBZ	_	0	root	_	O
+2	that	that	DT	_	1	nsubj	_	O
+3	what	what	WP	_	5	dobj	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	wish	wish	VBP	_	1	ccomp	_	O
+6	a	a	DT	_	8	det	_	O
+7	hospitable	hospitable	JJ	_	8	nmod	_	O
+8	country	country	NN	_	5	dative	_	O
+9	like	like	IN	pos2=VB	8	prep	_	O
+10	US	us	NNP	pos2=PRP	9	pobj	_	U-GPE
+11	?	?	.	_	1	punct	_	O
+
+1	If	if	IN	_	5	mark	_	O
+2	everyone	everyone	NN	_	4	nmod	_	O
+3	,	,	,	_	5	punct	_	O
+4	countries	country	NNS	_	5	nsubj	_	O
+5	do	do	VBP	_	0	root	_	O
+6	the	the	DT	_	8	det	_	O
+7	right	right	JJ	_	8	nmod	_	O
+8	thing	thing	NN	_	5	dobj	_	O
+9	no	no	DT	pos2=UH	10	det	_	O
+10	deplorables	deplorables	NNS	pos2=NN	5	npadvmod	_	O
+11	.	.	.	_	9	advmod	_	O
+

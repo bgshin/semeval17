@@ -1,0 +1,15 @@
+1	Jill	jill	NNP	_	2	compound	_	B-PERSON
+2	Stein	stein	NNP	_	4	poss	_	I-PERSON
+3	's	's	POS	_	2	case	_	L-PERSON
+4	#Recount2016	#recount0	NN	pos2=CD	5	nsubj	_	O
+5	sounds	sound	VBZ	pos2=NNS	0	root	_	O
+6	more	more	RBR	pos2=JJR	9	advmod	_	O
+7	&	&	CC	_	6	cc	_	O
+8	more	more	RBR	pos2=JJR	6	conj	_	O
+9	like	like	IN	_	5	prep	_	O
+10	another	another	DT	_	13	det	_	O
+11	George	george	NNP	_	12	compound	_	B-PERSON
+12	Soros	soros	NNP	_	13	compound	_	L-PERSON
+13	project	project	NN	pos2=GW	9	pobj	_	O
+14	https://t.co/eb7KqTadkY	#hlink#	ADD	_	5	dep	_	U-ORG
+

@@ -1,0 +1,18 @@
+1	@mypresidentme	@mypresidentme	UH	pos2=XX	3	discourse	_	O
+2	@concernedhigh	@concernedhigh	UH	pos2=XX	3	discourse	_	O
+3	#ThankYouObama	#thankyouobama	NN	pos2=NNP	0	root	_	O
+4	For	for	IN	_	3	prep	_	O
+5	showing	show	VBG	_	4	pcomp	_	O
+6	US	us	NNP	pos2=PRP	5	dobj	_	U-GPE
+7	why	why	WRB	_	9	advmod	_	O
+8	POTUS	potus	NN	pos2=NNP	9	nsubj	_	O
+9	is	be	VBZ	_	5	ccomp	_	O
+10	not	not	RB	_	9	neg	_	O
+11	an	an	DT	_	14	det	_	O
+12	affirmative	affirmative	JJ	_	14	nmod	_	O
+13	action	action	NN	_	14	compound	_	O
+14	position	position	NN	_	9	attr	_	O
+15	!	!	.	_	3	punct	_	O
+
+1	#EpicFail	#epicfail	NN	pos2=ADD	0	root	_	O
+

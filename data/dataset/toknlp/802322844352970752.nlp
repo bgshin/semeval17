@@ -1,0 +1,15 @@
+1	Case	case	NN	_	3	compound	_	O
+2	-	-	HYPH	pos2=:	3	punct	_	O
+3	Mate	mate	NN	pos2=NNP	7	dep	_	O
+4	:	:	:	_	7	punct	_	O
+5	Samsung	samsung	NNP	_	6	compound	_	B-ORG
+6	Galaxy	galaxy	NNP	_	7	compound	_	L-ORG
+7	Note	note	NN	pos2=VBP	14	dep	_	O
+8	7	0	CD	_	14	dep	_	U-CARDINAL
+9	Case	case	NN	pos2=NNP	14	dep	_	O
+10	Collection	collection	NN	pos2=NNP	12	npadvmod	_	O
+11	–	-	HYPH	pos2=:	12	punct	_	O
+12	Free	free	JJ	pos2=NNP	13	nmod	_	O
+13	Shipping	shipping	NN	pos2=NNP	14	dep	_	O
+14	https://t.co/TNCF82Pkvy	#hlink#	ADD	pos2=NN	0	root	_	O
+

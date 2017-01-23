@@ -1,0 +1,21 @@
+1	Trump	trump	NN	pos2=NNP	17	nsubj	_	U-PERSON
+2	and	and	CC	_	1	cc	_	O
+3	Obama	obama	NNP	_	1	conj	_	U-PERSON
+4	in	in	IN	_	3	prep	_	O
+5	Oval	oval	NNP	_	6	compound	_	U-DATE
+6	Office:	office:	NNP	pos2=NNPS	4	pobj	_	O
+7	"	"	``	pos2=''	17	punct	_	O
+8	If	if	IN	_	10	mark	_	O
+9	we	we	PRP	_	10	nsubj	_	O
+10	vape	vape	VBP	_	17	advcl	_	O
+11	it	it	PRP	_	10	dobj	_	O
+12	Melania	melania	NNP	_	10	attr	_	U-PERSON
+13	and	and	CC	_	12	cc	_	O
+14	Michelle	michelle	NNP	_	12	conj	_	U-PERSON
+15	wo	wo	MD	_	17	aux	_	O
+16	n't	not	RB	_	17	neg	_	O
+17	smell	smell	VB	_	0	root	_	O
+18	it	it	PRP	_	17	dobj	_	O
+19	"	"	''	pos2=``	17	punct	_	O
+20	.	.	.	_	17	punct	_	O
+

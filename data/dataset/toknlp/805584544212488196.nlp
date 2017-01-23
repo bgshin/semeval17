@@ -1,0 +1,19 @@
+1	#Cards	#cards	NNP	pos2=NNS	18	dep	_	B-DATE
+2	2015	0	CD	_	4	qmod	_	I-DATE
+3	-	-	SYM	pos2=HYPH	4	punct	_	I-DATE
+4	16	0	CD	_	18	dep	_	L-DATE
+5	Enes	enes	NNP	_	18	dep	_	B-EVENT
+6	Kanter	kanter	NNP	_	18	dep	_	I-EVENT
+7	Panini	panini	NNP	_	18	dep	_	I-EVENT
+8	Gold	gold	NNP	_	10	compound	_	I-EVENT
+9	Standard	standard	NNP	pos2=JJ	10	compound	_	I-EVENT
+10	BLACK	black	NNP	pos2=NN	18	dep	_	I-EVENT
+11	10/15	0	CD	_	18	dep	_	L-EVENT
+12	#	#	NN	_	10	npadvmod	_	O
+13	150	0	CD	pos2=LS	12	nmod	_	U-MONEY
+14	Oklahoma	oklahoma	NNP	_	15	compound	_	B-GPE
+15	City	city	NNP	pos2=GW	18	dep	_	L-GPE
+16	#Thunder	#thunder	GW	pos2=NNP	18	nmod	_	O
+17	https://t.co/aE5wPisDLM…	#hlink#	ADD	_	18	nmod	_	O
+18	https://t.co/9b13CfbplT	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,18 @@
+1	#Best	#best	JJS	pos2=NNP	4	nmod	_	O
+2	#Toy	#toy	NNP	pos2=POS	4	poss	_	O
+3	#Transformers	#transformers	POS	pos2=PRP$	2	case	_	O
+4	Robots	robot	NNS	pos2=NNPS	17	dep	_	O
+5	In	in	IN	pos2=NNP	4	prep	_	O
+6	Disguise	disguise	NNP	pos2=VB	5	pobj	_	O
+7	One	#crd#	CD	_	9	nmod	_	U-CARDINAL
+8	-	-	HYPH	_	9	punct	_	O
+9	Step	step	NN	pos2=NNP	10	compound	_	O
+10	Changers	changer	NNPS	pos2=NNP	13	compound	_	B-ORG
+11	Autobot	autobot	NNP	_	13	compound	_	I-ORG
+12	Drift	drift	NNP	pos2=GW	13	compound	_	L-ORG
+13	#Figure	#figure	NNP	pos2=ADD	17	dep	_	O
+14	https://t.co/k4hIn7eCpT	#hlink#	ADD	_	17	dep	_	O
+15	#Toys	#toys	NNP	pos2=-RRB-	17	dep	_	B-PERSON
+16	…	…	NFP	pos2=-LRB-	17	punct	_	L-PERSON
+17	https://t.co/CXoYZWxBBT	#hlink#	ADD	_	0	root	_	O
+

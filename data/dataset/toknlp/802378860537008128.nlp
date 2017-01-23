@@ -1,0 +1,17 @@
+1	@Jaclyn73	@jaclyn0	NN	pos2=LS	7	nsubj	_	O
+2	_	_	''	pos2=SYM	1	punct	_	O
+3	-	-	:	pos2=SYM	7	punct	_	O
+4	Still	still	RB	pos2=NNP	7	advmod	_	O
+5	would	would	MD	_	7	aux	_	O
+6	not	not	RB	_	7	neg	_	O
+7	consider	consider	VB	_	0	root	_	O
+8	him	him	PRP	_	7	dobj	_	O
+9	for	for	IN	_	7	prep	_	O
+10	ANY	any	DT	_	11	det	_	O
+11	job	job	NN	_	9	pobj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	the	the	DT	_	15	det	_	O
+14	Trump	trump	NNP	pos2=NN	15	compound	_	U-ORG
+15	cabinet	cabinet	NN	_	12	pobj	_	O
+16	!!	!!	.	_	7	punct	_	O
+

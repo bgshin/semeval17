@@ -1,0 +1,20 @@
+1	@PWRBTTMBAND	@pwrbttmband	NN	pos2=NFP	5	npadvmod	_	O
+2	you	you	PRP	_	5	nsubj	_	O
+3	ca	can	MD	_	5	aux	_	O
+4	nt	nt	RB	_	5	advmod	_	O
+5	fuck	fuck	VB	_	12	ccomp	_	O
+6	the	the	DT	_	7	det	_	O
+7	ugly	ugly	JJ	pos2=RB	5	dobj	_	O
+8	away	away	RB	_	5	advmod	_	O
+9	,	,	,	_	12	punct	_	O
+10	Melania	melania	NNP	_	11	compound	_	B-PERSON
+11	Trump	trump	NNP	_	12	nsubj	_	L-PERSON
+12	tried	try	VBD	_	0	root	_	O
+13	...	..	.	_	12	punct	_	O
+
+1	and	and	CC	_	3	cc	_	O
+2	this	this	DT	_	3	nsubj	_	O
+3	was	be	VBD	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	result	result	NN	_	3	attr	_	O
+

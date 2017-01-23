@@ -1,0 +1,26 @@
+1	#Recount2016	#recount0	NN	pos2=VBG	25	dep	_	O
+2	Sure	sure	UH	pos2=NNP	7	discourse	_	O
+3	Jill	jill	NNP	_	25	dep	_	U-PERSON
+4	-	-	HYPH	pos2=,	7	punct	_	O
+5	I	I	PRP	pos2=NNP	7	nsubj	_	O
+6	'll	will	MD	_	7	aux	_	O
+7	volunteer	volunteer	VB	_	25	dep	_	O
+8	in	in	IN	pos2=RP	7	prep	_	O
+9	#Kenosha	#kenosha	NNP	_	8	pobj	_	B-ORG
+10	&	&	CC	_	9	cc	_	I-ORG
+11	#Racine	#racine	NNP	pos2=CD	9	conj	_	L-ORG
+12	where	where	WRB	_	14	advmod	_	O
+13	Dems	dems	NNP	pos2=NNPS	14	nsubj	_	U-PERSON
+14	brought	bring	VBD	_	1	relcl	_	O
+15	most	most	RBS	pos2=JJS	14	advmod	_	O
+16	the	the	DT	_	17	det	_	O
+17	busloads	busload	NNS	_	14	dobj	_	O
+18	of	of	IN	_	17	prep	_	O
+19	out-of	out-of	JJ	pos2=NN	21	nmod	_	O
+20	-	-	HYPH	_	21	punct	_	O
+21	state	state	NN	_	23	nmod	_	O
+22	/	/	SYM	pos2=HYPH	23	punct	_	O
+23	il	il	NN	pos2=GW	18	pobj	_	O
+24	…	…	NFP	pos2=:	25	punct	_	O
+25	https://t.co/qgCFri3qBw	#hlink#	ADD	pos2=NN	0	root	_	O
+

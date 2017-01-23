@@ -1,0 +1,30 @@
+1	@maxthegirl	@maxthegirl	NNP	pos2=SYM	2	compound	_	O
+2	Sarandon	sarandon	NNP	_	5	dep	_	U-PERSON
+3	,	,	,	_	5	punct	_	O
+4	Fake	fake	NNP	pos2=JJ	5	compound	_	B-ORG
+5	News	news	NNP	_	0	root	_	L-ORG
+6	,	,	,	_	5	punct	_	O
+7	Bernie	bernie	NNP	_	5	npadvmod	_	U-PERSON
+8	,	,	,	_	5	punct	_	O
+9	non	non	AFX	pos2=JJ	10	nmod	_	O
+10	voters	voter	NNS	_	5	npadvmod	_	O
+11	,	,	,	_	10	punct	_	O
+12	the	the	DT	_	13	det	_	O
+13	press	press	NN	_	10	appos	_	O
+14	,	,	,	_	13	punct	_	O
+15	Comey	comey	NNP	_	13	conj	_	U-PERSON
+16	,	,	,	_	15	punct	_	O
+17	voter	voter	NN	_	18	compound	_	O
+18	suppression	suppression	NN	_	15	conj	_	O
+19	,	,	,	_	18	punct	_	O
+20	Green	green	NNP	_	21	compound	_	B-ORG
+21	Party	party	NNP	_	18	conj	_	L-ORG
+22	...	..	.	pos2=,	5	punct	_	O
+
+1	Your	your	PRP$	_	2	poss	_	O
+2	list	list	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	spot	spot	VB	pos2=RB	3	xcomp	_	O
+5	on	on	IN	pos2=RP	4	prep	_	O
+6	.	.	.	_	3	punct	_	O
+

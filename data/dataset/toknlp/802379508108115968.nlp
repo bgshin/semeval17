@@ -1,0 +1,22 @@
+1	NPR	npr	NNP	_	4	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	Ari	ari	NNP	_	4	compound	_	B-PERSON
+4	Shapiro	shapiro	NNP	_	5	nsubj	_	L-PERSON
+5	speaks	speak	VBZ	_	0	root	_	O
+6	with	with	IN	_	5	prep	_	O
+7	our	our	PRP$	_	10	poss	_	O
+8	regular	regular	JJ	_	10	nmod	_	O
+9	political	political	JJ	_	10	nmod	_	O
+10	commentators	commentator	NNS	_	6	pobj	_	O
+11	,	,	,	_	10	punct	_	O
+12	E.J.	e.j.	NNP	_	13	compound	_	B-PERSON
+13	Dionne	dionne	NNP	_	10	appos	_	L-PERSON
+14	of	of	IN	_	13	prep	_	O
+15	The	the	DT	pos2=NNP	17	det	_	B-ORG
+16	Washington	washington	NNP	_	17	compound	_	I-ORG
+17	Post	post	NNP	_	14	pobj	_	L-ORG
+18	and	and	CC	_	13	cc	_	O
+19	...	..	.	pos2=,	5	punct	_	O
+
+1	https://t.co/u0ckcynsFA	#hlink#	ADD	_	0	root	_	U-ORG
+

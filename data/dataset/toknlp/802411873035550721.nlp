@@ -1,0 +1,15 @@
+1	How	how	WRB	_	6	advmod	_	O
+2	a	a	DT	_	4	det	_	O
+3	#Trump	#trump	NNP	pos2=NN	4	compound	_	B-ORG
+4	#Administration	#administration	NNP	pos2=NN	8	poss	_	I-ORG
+5	#Could	#could	MD	pos2=NNP	0	root	_	I-ORG
+6	#Make	#make	NNP	pos2=VB	8	compound	_	I-ORG
+7	#Retirement	#retirement	NNP	pos2=ADD	8	compound	_	I-ORG
+8	#Savings	#savings	NNP	pos2=NNS	12	dep	_	L-ORG
+9	and	and	CC	_	8	cc	_	O
+10	#Security	#security	NNP	pos2=GW	8	conj	_	B-PERSON
+11	#Great	#great	ADD	pos2=NNP	14	punct	_	L-PERSON
+12	https://t.co/f3jhP3FjAC	#hlink#	ADD	_	11	pobj	_	O
+13	via	via	IN	_	0	root	_	O
+14	@YahooNews	@yahoonews	ADD	pos2=NNP	13	pobj	_	O
+

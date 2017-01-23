@@ -1,0 +1,13 @@
+1	@heatherfard	@heatherfard	JJ	pos2=XX	2	advmod	_	O
+2	yo	yo	UH	pos2=NN	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	Hot	hot	JJ	pos2=NNP	3	nmod	_	O
+2	#uber	#uber	PRP$	pos2=NN	3	poss	_	O
+3	driver	driver	NN	_	8	nsubj	_	O
+4	last	last	JJ	_	5	nmod	_	B-TIME
+5	night	night	NN	_	3	npadvmod	_	L-TIME
+6	😝	😝	NNP	pos2=,	8	compound	_	O
+7	#TurkeyDay	#turkeyday	ADD	pos2=NNP	8	compound	_	B-TIME
+8	🦃	🦃	NNP	pos2=NN	0	root	_	L-TIME
+

@@ -1,0 +1,33 @@
+1	Japan	japan	NNP	_	2	nsubj	_	U-GPE
+2	prepares	prepare	VBZ	_	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	NUCLEAR	nuclear	JJ	pos2=NNP	5	nmod	_	O
+5	war	war	NN	_	3	pobj	_	O
+6	with	with	IN	_	5	prep	_	O
+7	North	north	NNP	_	8	compound	_	B-GPE
+8	Korea	korea	NNP	_	6	pobj	_	L-GPE
+9	.	.	.	_	2	punct	_	O
+
+1	https	http	NNS	pos2=NN	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	//	//	NFP	pos2=-LRB-	7	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	0	root	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	62UTZRVlPZMark	0utzrvlpzmark	NN	pos2=VB	4	prep	_	O
+7	13:7	0	CD	_	6	pobj	_	O
+8	And	and	CC	_	4	cc	_	O
+9	when	when	WRB	_	12	advmod	_	O
+10	ye	ye	PRP	pos2=NN	12	nsubj	_	O
+11	shall	shall	MD	_	12	aux	_	O
+12	hear	hear	VB	_	7	relcl	_	O
+13	of	of	IN	_	12	prep	_	O
+14	wars	war	NNS	_	13	pobj	_	O
+15	↪	↪	NFP	pos2=POS	12	discourse	_	O
+16	and	and	CC	_	12	cc	_	O
+17	rumours	rumour	NNS	_	14	conj	_	O
+18	of	of	IN	_	17	prep	_	O
+19	wars	war	NNS	_	18	pobj	_	O
+20	,	,	,	_	17	punct	_	O
+21	↩	↩	NFP	pos2=NNP	12	conj	_	O
+22	...	..	.	pos2=,	21	punct	_	O
+

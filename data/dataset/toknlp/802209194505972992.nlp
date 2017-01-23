@@ -1,0 +1,20 @@
+1	Has	have	VBZ	_	4	aux	_	O
+2	Ben	ben	NNP	_	3	compound	_	B-PERSON
+3	Carson	carson	NNP	_	4	nsubj	_	L-PERSON
+4	accepted	accept	VBD	_	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	HUD	hud	NNP	_	7	compound	_	U-ORG
+7	job	job	NN	_	4	dobj	_	O
+8	or	or	CC	_	4	cc	_	O
+9	are	be	VBP	_	12	aux	_	O
+10	we	we	PRP	pos2=EX	12	nsubj	_	O
+11	still	still	RB	_	12	advmod	_	O
+12	fucking	fuck	VBG	pos2=VBP	4	conj	_	O
+13	around	around	RB	pos2=RP	12	advmod	_	O
+14	on	on	IN	_	12	prep	_	O
+15	this	this	DT	_	18	det	_	O
+16	reality	reality	NN	_	18	compound	_	O
+17	TV	tv	NN	pos2=NNP	18	compound	_	O
+18	show	show	NN	pos2=VB	14	pobj	_	O
+19	?	?	.	_	12	punct	_	O
+

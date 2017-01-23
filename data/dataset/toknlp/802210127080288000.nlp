@@ -1,0 +1,17 @@
+1	@sam_ponder	@sam_ponder	UH	pos2=NNP	5	discourse	_	O
+2	@megynkelly	@megynkelly	UH	pos2=RB	5	discourse	_	O
+3	loooooooooool	loooooooooool	UH	pos2=VB	5	discourse	_	O
+4	yea	yea	UH	_	8	discourse	_	O
+5	if	if	IN	_	7	mark	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	're	be	VBP	_	0	root	_	O
+8	willing	willing	JJ	_	7	acomp	_	O
+9	to	to	TO	_	10	aux	_	O
+10	fuck	fuck	VB	_	8	xcomp	_	O
+11	Roger	roger	NNP	_	12	compound	_	B-PERSON
+12	Ailes	ailes	NNP	_	10	dobj	_	L-PERSON
+13	for	for	IN	_	10	prep	_	O
+14	a	a	DT	_	15	det	_	O
+15	job	job	NN	_	13	pobj	_	O
+16	@FreddiePhysical	@freddiephysical	.	pos2=NN	12	appos	_	O
+

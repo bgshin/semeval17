@@ -1,0 +1,25 @@
+1	@Russian_Starr	@russian_starr	NNP	pos2=NN	4	vocative	_	U-PERSON
+2	Did	do	VBD	_	4	aux	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	listen	listen	VB	_	0	root	_	O
+5	to	to	IN	_	4	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	@NPR	@npr	NN	pos2=JJ	8	compound	_	O
+8	interview	interview	NN	_	5	pobj	_	O
+9	with	with	IN	_	8	prep	_	O
+10	Saakashvili	saakashvili	NNP	_	9	pobj	_	U-PERSON
+11	?	?	.	_	4	punct	_	O
+
+1	Any	any	DT	_	2	det	_	O
+2	thoughts	thought	NNS	_	0	root	_	O
+3	on	on	IN	_	2	prep	_	O
+4	his	his	PRP$	_	5	poss	_	O
+5	analysis	analysis	NN	_	3	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	Trump	trump	NNP	pos2=NN	9	nmod	_	O
+8	/	/	SYM	pos2=HYPH	9	punct	_	O
+9	Putin	putin	NNP	_	6	pobj	_	O
+10	?	?	.	_	2	punct	_	O
+
+1	https://t.co/Rdf6UvjwBO	#hlink#	ADD	_	0	root	_	U-ORG
+

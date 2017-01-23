@@ -1,0 +1,23 @@
+1	Glory	glory	NN	pos2=NNP	3	nsubjpass	_	O
+2	was	be	VBD	_	3	auxpass	_	O
+3	built	build	VBN	_	0	root	_	O
+4	for	for	IN	_	9	mark	_	O
+5	a	a	DT	_	7	det	_	O
+6	gospel	gospel	NN	pos2=JJ	7	compound	_	O
+7	singer	singer	NN	_	9	nsubj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	chew	chew	VB	_	3	advcl	_	O
+10	up	up	RP	pos2=RB	9	prt	_	O
+11	and	and	CC	_	9	cc	_	O
+12	spit	spit	VB	_	9	conj	_	O
+13	out	out	RP	_	12	prt	_	O
+14	.	.	.	_	3	punct	_	O
+
+1	Cite	cite	VB	pos2=NN	0	root	_	O
+2	:	:	:	_	7	punct	_	O
+3	Yolanda	yolanda	NNP	_	4	compound	_	B-PERSON
+4	Adams	adams	NNP	_	1	dobj	_	L-PERSON
+5	2016	0	CD	_	4	npadvmod	_	U-DATE
+6	#LoveAndHappiness	#loveandhappiness	NN	pos2=NNS	7	compound	_	O
+7	#ThankYouObama	#thankyouobama	NN	pos2=ADD	4	npadvmod	_	O
+

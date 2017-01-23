@@ -1,0 +1,18 @@
+1	Putin	putin	NNP	_	4	nsubj	_	U-PERSON
+2	and	and	CC	_	1	cc	_	O
+3	Seagal	seagal	NNP	_	1	conj	_	U-PERSON
+4	love	love	VBP	pos2=NN	0	root	_	O
+5	to	to	IN	pos2=TO	4	prep	_	O
+6	double	double	JJ	_	7	nmod	_	O
+7	date	date	NN	_	5	pobj	_	O
+8	with	with	IN	_	4	prep	_	O
+9	Dennis	dennis	NNP	_	10	compound	_	B-PERSON
+10	Rodman	rodman	NNP	_	8	pobj	_	L-PERSON
+11	and	and	CC	_	10	cc	_	O
+12	Kim	kim	NNP	_	14	compound	_	B-PERSON
+13	Jong	jong	NNP	_	14	compound	_	I-PERSON
+14	Un	un	NNP	_	10	conj	_	L-PERSON
+15	.	.	.	_	4	punct	_	O
+
+1	https://t.co/YRb6U2EIEE	#hlink#	ADD	_	0	root	_	U-ORG
+

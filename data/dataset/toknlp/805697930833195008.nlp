@@ -1,0 +1,18 @@
+1	Teenager	teenager	NN	pos2=NNP	3	nsubj	_	O
+2	Bravely	bravely	RB	pos2=NNP	3	advmod	_	O
+3	Rejected	reject	VBD	pos2=VBN	9	ccomp	_	O
+4	Abortion	abortion	NNP	pos2=NN	3	dobj	_	O
+5	After	after	IN	pos2=NNP	3	prep	_	O
+6	Rape	rape	NNP	pos2=NN	5	pobj	_	O
+7	,	,	,	_	9	punct	_	O
+8	She	she	PRP	pos2=NNP	9	nsubj	_	O
+9	Has	have	VBZ	_	0	root	_	O
+10	No	no	DT	pos2=NNP	11	det	_	O
+11	Regrets	regret	NNS	pos2=VBZ	9	dobj	_	O
+12	7	0	CD	_	13	nmod	_	B-DATE
+13	Years	year	NNS	pos2=NNP	14	npadvmod	_	I-DATE
+14	Later	later	RB	pos2=RBR	17	advmod	_	L-DATE
+15	-	-	:	pos2=HYPH	17	punct	_	O
+16	https://t.co/O2yiUxn4sD	#hlink#	ADD	pos2=NN	17	nmod	_	O
+17	#GoogleAlerts	#googlealerts	NNS	pos2=ADD	11	appos	_	O
+

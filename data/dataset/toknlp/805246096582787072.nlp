@@ -1,0 +1,24 @@
+1	@knowladgeispwr	@knowladgeispwr	UH	pos2=XX	7	discourse	_	O
+2	@prolife_wife	@prolife_wife	NNP	pos2=IN	7	vocative	_	U-PERSON
+3	How	how	WRB	_	4	advmod	_	O
+4	many	many	JJ	_	5	nmod	_	O
+5	babies	baby	NNS	_	7	nsubjpass	_	O
+6	get	get	VBP	pos2=VB	7	auxpass	_	O
+7	killed	kill	VBN	_	0	root	_	O
+8	each	each	DT	_	9	det	_	B-DATE
+9	year	year	NN	_	7	npadvmod	_	L-DATE
+10	in	in	IN	_	7	prep	_	O
+11	American	american	JJ	pos2=NNP	13	nmod	_	U-NORP
+12	drone	drone	NN	_	13	compound	_	O
+13	strikes	strike	NNS	_	10	pobj	_	O
+14	paid	pay	VBN	_	13	acl	_	O
+15	for	for	IN	_	14	prep	_	O
+16	with	with	IN	_	14	prep	_	O
+17	your	your	PRP$	_	19	poss	_	O
+18	tax	tax	NN	_	19	compound	_	O
+19	dollars	dollar	NNS	_	16	pobj	_	O
+20	?	?	.	_	7	punct	_	O
+
+1	Just	just	RB	_	2	advmod	_	O
+2	wondering	wonder	VBG	_	0	root	_	O
+

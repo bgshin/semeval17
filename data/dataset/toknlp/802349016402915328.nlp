@@ -1,0 +1,21 @@
+1	(	(	-LRB-	_	3	punct	_	O
+2	Montreal	montreal	NNP	_	3	compound	_	B-ORG
+3	Gazette	gazette	NNP	_	0	root	_	L-ORG
+4	)	)	-RRB-	_	3	punct	_	O
+5	:#Leonard	:#leonard	NNP	pos2=IN	6	compound	_	O
+6	Cohen	cohen	NNP	_	10	poss	_	O
+7	's	's	POS	_	6	case	_	O
+8	most	most	RBS	_	9	advmod	_	O
+9	recent	recent	JJ	_	10	nmod	_	O
+10	#CD	#cd	NN	pos2=NFP	0	root	_	U-NORP
+11	flying	fly	VBG	_	10	acl	_	O
+12	off	off	IN	pos2=RP	11	prep	_	O
+13	store	store	NN	_	14	compound	_	O
+14	shelves	shelf	NNS	_	12	pobj	_	O
+15	in	in	IN	_	11	prep	_	O
+16	Montreal	montreal	NNP	_	15	pobj	_	U-GPE
+17	..	..	.	pos2=,	16	punct	_	O
+
+1	https://t.co/M3aLbvBuJD	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/IX2ANLnSz3	#hlink#	ADD	_	0	root	_	U-ORG
+

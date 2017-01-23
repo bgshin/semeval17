@@ -1,0 +1,11 @@
+1	https://t.co/O6qnGpJjNJ	#hlink#	ADD	pos2=NN	0	root	_	O
+2	(	(	-LRB-	_	7	punct	_	O
+3	Gown	gown	NN	pos2=NNP	1	appos	_	O
+4	paid	pay	VBN	_	3	acl	_	O
+5	for	for	IN	_	4	prep	_	O
+6	by	by	IN	_	4	agent	_	O
+7	Clinton	clinton	NNP	_	8	compound	_	B-ORG
+8	Foundation	foundation	NNP	_	6	pobj	_	L-ORG
+9	$	$	$	pos2=''	7	nmod	_	O
+10	)	)	-RRB-	_	1	punct	_	O
+

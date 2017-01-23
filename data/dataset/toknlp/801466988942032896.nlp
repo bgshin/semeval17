@@ -1,0 +1,31 @@
+1	@alone_music	@alone_music	UH	pos2=NFP	2	dep	_	O
+2	...	..	.	pos2=,	0	punct	_	O
+
+1	left	left	JJ	_	3	nmod	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	libertarians	libertarian	NNS	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Some	some	DT	_	4	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	them	them	PRP	_	2	pobj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	Alt	alt	NNP	pos2=JJ	7	compound	_	B-NORP
+6	-	-	HYPH	_	7	punct	_	I-NORP
+7	Rightists	rightist	NNPS	pos2=NNS	4	attr	_	L-NORP
+8	,	,	,	_	7	punct	_	O
+9	granted	grant	VBN	pos2=VBD	7	acl	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	But	but	CC	_	3	cc	_	O
+2	they	they	PRP	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	n't	not	RB	_	3	neg	_	O
+5	the	the	DT	_	6	det	_	O
+6	norm	norm	NN	_	3	attr	_	O
+7	within	within	IN	_	3	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	pro-Gamergate	pro-gamergate	JJ	_	10	nmod	_	O
+10	side	side	NN	_	7	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+

@@ -1,0 +1,9 @@
+1	@caterhamcr3	@caterhamcr0	NN	pos2=NNS	5	dep	_	O
+2	@etabori	@etabori	UH	pos2=FW	5	discourse	_	O
+3	#Iran	#iran	NNP	pos2=NN	5	nsubj	_	U-ORG
+4	has	have	VBZ	_	5	aux	_	O
+5	#Hezbollah	#hezbollah	VBN	pos2=NNP	0	root	_	O
+6	there	there	RB	pos2=EX	5	advmod	_	O
+7	also	also	RB	_	5	advmod	_	O
+8	....	..	.	pos2=,	5	punct	_	O
+

@@ -1,0 +1,11 @@
+1	Have	have	VBP	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	tried	try	VBN	pos2=VBD	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	new	new	JJ	_	6	nmod	_	O
+6	McStreamer	mcstreamer	NNP	_	3	dobj	_	U-ORG
+7	?	?	.	_	3	punct	_	O
+
+1	#NationalFastFoodDay	#nationalfastfoodday	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/hfUfxD4oQS	#hlink#	ADD	_	0	root	_	O
+

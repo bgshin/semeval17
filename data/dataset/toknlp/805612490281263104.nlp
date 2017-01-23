@@ -1,0 +1,19 @@
+1	#MuhammadAli	#muhammadali	NNP	pos2=NNS	9	compound	_	O
+2	Limited	limited	NNP	pos2=JJ	9	compound	_	B-WORK_OF_ART
+3	Edition	edition	NNP	_	9	compound	_	L-WORK_OF_ART
+4	Muhammad	muhammad	NNP	_	9	compound	_	B-FAC
+5	Ali	ali	NNP	_	9	compound	_	I-FAC
+6	Leather	leather	NNP	_	9	compound	_	I-FAC
+7	New	new	NNP	pos2=JJ	9	compound	_	I-FAC
+8	Era	era	NNP	_	9	compound	_	I-FAC
+9	Hat	hat	NNP	pos2=NN	18	dep	_	L-FAC
+10	,	,	,	_	9	punct	_	O
+11	With	with	IN	_	9	prep	_	O
+12	Tags	tags	NNP	pos2=NNS	13	compound	_	O
+13	Size	size	NNP	pos2=NN	11	pobj	_	O
+14	7	0	CD	_	16	dep	_	B-CARDINAL
+15	1/4	0	CD	_	16	dep	_	L-CARDINAL
+16	https://t.co/ZxUv1Qu4Pn	#hlink#	ADD	_	18	nmod	_	O
+17	#Legend	#legend	-RRB-	pos2=ADD	16	punct	_	O
+18	#Boxer	#boxer	NN	pos2=-RRB-	0	root	_	O
+

@@ -1,0 +1,12 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	really	really	RB	_	3	advmod	_	O
+3	fancy	fancy	VBP	pos2=JJ	0	root	_	O
+4	@TheRealLukevans	@thereallukevans	NNS	pos2=NNPS	3	dobj	_	O
+5	😍	😍	PRP	pos2=EX	8	nsubj	_	O
+6	ca	can	MD	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	wait	wait	VB	_	3	conj	_	O
+9	for	for	IN	_	8	prep	_	O
+10	#BeautyAndTheBeast	#beautyandthebeast	NN	pos2=ADD	11	compound	_	B-DATE
+11	❤️	❤️	NN	pos2=NNP	9	pobj	_	L-DATE
+

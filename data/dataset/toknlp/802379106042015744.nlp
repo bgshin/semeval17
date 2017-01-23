@@ -1,0 +1,16 @@
+1	@michelle4trump	@michelle0trump	NN	pos2=XX	2	compound	_	O
+2	@AmericanMex067	@americanmex0	NN	pos2=LS	4	compound	_	O
+3	@DrJillStein	@drjillstein	NNP	pos2=IN	4	compound	_	O
+4	Jill	jill	NNP	_	6	nsubj	_	U-PERSON
+5	's	's	VBZ	pos2=POS	6	aux	_	O
+6	auditioning	audition	VBG	_	0	root	_	O
+7	for	for	IN	_	6	prep	_	O
+8	a	a	DT	_	10	det	_	O
+9	lucrative	lucrative	JJ	_	10	nmod	_	O
+10	job	job	NN	_	7	pobj	_	O
+11	at	at	IN	_	10	prep	_	O
+12	the	the	DT	_	14	det	_	B-ORG
+13	Clinton	clinton	NNP	_	14	compound	_	I-ORG
+14	Foundation	foundation	NNP	_	11	pobj	_	L-ORG
+15	.	.	.	_	6	punct	_	O
+

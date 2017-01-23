@@ -1,0 +1,21 @@
+1	Under	under	IN	_	12	prep	_	O
+2	Victoria	victoria	NNP	_	6	poss	_	U-GPE
+3	's	's	POS	_	2	case	_	O
+4	proposed	propose	VBN	pos2=JJ	6	nmod	_	O
+5	euthanasia	euthanasia	NN	_	6	compound	_	O
+6	plans	plan	NNS	pos2=VBZ	1	pobj	_	O
+7	,	,	,	_	12	punct	_	O
+8	those	those	DT	_	12	nsubj	_	O
+9	seeking	seek	VBG	_	8	acl	_	O
+10	suicide	suicide	NN	_	9	dobj	_	O
+11	would	would	MD	_	12	aux	_	O
+12	receive	receive	VB	_	0	root	_	O
+13	better	good	JJR	_	15	nmod	_	O
+14	palliative	palliative	JJ	pos2=NN	15	nmod	_	O
+15	care	care	NN	_	12	dobj	_	O
+16	than	than	IN	_	13	prep	_	O
+17	others	other	NNS	_	16	pobj	_	O
+18	.	.	.	_	12	punct	_	O
+
+1	https://t.co/pOm966zaUR	#hlink#	ADD	_	0	root	_	U-ORG
+

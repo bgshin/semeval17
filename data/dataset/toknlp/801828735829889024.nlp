@@ -1,0 +1,16 @@
+1	#Ukraine	#ukraine	NN	pos2=NNP	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Saakashvili	saakashvili	NNP	_	4	nsubj	_	U-PERSON
+4	calls	call	VBZ	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	anti-government	anti-government	JJ	_	7	nmod	_	O
+7	protests	protest	NNS	_	5	pobj	_	O
+8	this	this	DT	_	9	det	_	O
+9	Sunday	sunday	NNP	_	7	npadvmod	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	Demanding	demand	VBG	pos2=JJ	4	dep	_	O
+2	snap	snap	NN	pos2=VB	3	compound	_	O
+3	elections	election	NNS	_	1	dobj	_	O
+4	https://t.co/nKKcA9nlqC	#hlink#	ADD	_	0	root	_	U-ORG
+

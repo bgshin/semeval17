@@ -1,0 +1,17 @@
+1	MWI	mwi	NNP	pos2=NN	3	compound	_	U-ORG
+2	Adjunct	adjunct	NNP	_	3	compound	_	O
+3	Scholar	scholar	NNP	pos2=NN	4	compound	_	O
+4	@MarkHertling	@markhertling	VBG	pos2=POS	16	dep	_	O
+5	providing	provide	VBG	_	4	xcomp	_	O
+6	relevant	relevant	JJ	_	7	nmod	_	O
+7	analysis	analysis	NN	_	5	dobj	_	O
+8	to	to	IN	_	5	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	challenges	challenge	NNS	_	8	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	fighting	fighting	NN	pos2=VBG	11	pobj	_	O
+13	in	in	IN	_	12	prep	_	O
+14	#MosulOffensive	#mosuloffensive	JJ	pos2=NNP	15	nmod	_	B-DATE
+15	#Iraq	#iraq	NNP	pos2=-LRB-	13	pobj	_	L-DATE
+16	https://t.co/vtkRtIXkMJ	#hlink#	ADD	_	0	root	_	O
+

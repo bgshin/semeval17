@@ -1,0 +1,15 @@
+1	Cristiano	cristiano	NNP	_	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	3	nsubj	_	L-PERSON
+3	Faces	face	VBZ	pos2=NNP	0	root	_	O
+4	More	more	JJR	pos2=RBR	6	nmod	_	O
+5	#Gay	#gay	NNP	pos2=IN	6	compound	_	O
+6	Chants	chant	NNS	pos2=NNPS	3	dobj	_	O
+7	At	at	IN	_	6	prep	_	O
+8	Barcelona	barcelona	NNP	_	9	compound	_	B-FAC
+9	Stadium	stadium	NNP	_	7	pobj	_	L-FAC
+10	https://t.co/fHuZXrlZ8I	#hlink#	ADD	_	14	nmod	_	O
+11	via	via	IN	_	3	prep	_	O
+12	@NewNowNext	@newnownext	GW	pos2=JJ	14	nmod	_	O
+13	#LGBT	#lgbt	GW	pos2=ADD	14	nmod	_	O
+14	https://t.co/phK8D0Gsl5	#hlink#	ADD	pos2=NN	11	pobj	_	O
+

@@ -1,0 +1,19 @@
+1	@DeepSilverUK	@deepsilveruk	NNP	pos2=UH	6	qmod	_	O
+2	Where	where	WRB	_	3	advmod	_	O
+3	is	be	VBZ	_	1	relcl	_	O
+4	the	the	DT	_	8	det	_	O
+5	Persona	persona	NNP	pos2=NN	8	nmod	_	O
+6	5	0	CD	pos2=NNP	0	root	_	U-CARDINAL
+7	Free	free	JJ	pos2=NNP	8	nmod	_	O
+8	Theme	theme	NN	pos2=NNP	3	nsubj	_	O
+9	that	that	IN	pos2=WDT	12	mark	_	O
+10	europe	europe	NN	pos2=NNP	12	nsubjpass	_	O
+11	was	be	VBD	_	12	auxpass	_	O
+12	promised	promise	VBN	_	8	acl	_	O
+13	on	on	IN	_	12	prep	_	O
+14	the	the	DT	_	15	det	_	B-DATE
+15	24th	#ord#	NN	_	13	pobj	_	I-DATE
+16	of	of	IN	_	15	prep	_	I-DATE
+17	November	november	NNP	_	16	pobj	_	L-DATE
+18	?	?	.	_	13	punct	_	O
+

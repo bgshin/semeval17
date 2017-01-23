@@ -1,0 +1,18 @@
+1	Bullet	bullet	NN	pos2=VB	10	dep	_	O
+2	for	for	IN	_	1	prep	_	O
+3	my	my	PRP$	_	4	poss	_	O
+4	valentines	valentine	NNS	_	2	pobj	_	O
+5	on	on	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	mix	mix	NN	_	5	pobj	_	O
+8	,	,	,	_	10	punct	_	O
+9	it	it	PRP	_	10	nsubj	_	O
+10	's	's	VBZ	_	0	root	_	O
+11	good	good	JJ	_	10	acomp	_	O
+12	to	to	TO	_	13	aux	_	O
+13	be	be	VB	_	10	xcomp	_	O
+14	back	back	RB	_	13	advmod	_	O
+15	,	,	,	_	10	punct	_	O
+16	damn	damn	RB	pos2=UH	10	advmod	_	O
+17	.	.	.	_	10	punct	_	O
+

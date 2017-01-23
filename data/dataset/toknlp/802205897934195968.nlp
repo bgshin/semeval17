@@ -1,0 +1,29 @@
+1	#ISIS	#isis	NN	pos2=NNP	5	npadvmod	_	O
+2	"	"	``	pos2=''	5	punct	_	O
+3	US	us	NNP	pos2=NN	4	compound	_	U-GPE
+4	officials	official	NNS	_	5	nsubj	_	O
+5	say	say	VBP	_	0	root	_	O
+6	a	a	DT	_	8	det	_	O
+7	secretive	secretive	JJ	_	8	nmod	_	O
+8	campaign	campaign	NN	_	15	nsubj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	surveillance	surveillance	NN	_	13	nmod	_	O
+11	&	&	CC	_	10	cc	_	O
+12	drone	drone	NN	_	10	conj	_	O
+13	attacks	attack	NNS	_	9	pobj	_	O
+14	has	have	VBZ	_	15	aux	_	O
+15	cut	cut	VBN	_	5	ccomp	_	O
+16	the	the	DT	_	17	det	_	O
+17	ISIS	isis	NNP	pos2=NN	19	poss	_	U-ORG
+18	's	's	POS	_	17	case	_	O
+19	ability	ability	NN	_	15	dobj	_	O
+20	to	to	TO	_	21	aux	_	O
+21	inspire	inspire	VB	_	19	acl	_	O
+22	attacks	attack	NNS	_	21	dobj	_	O
+23	in	in	IN	_	22	prep	_	O
+24	the	the	DT	_	25	det	_	O
+25	West	west	NNP	pos2=NN	23	pobj	_	U-LOC
+26	.	.	.	_	5	punct	_	O
+
+1	nyt	nyt	NN	pos2=UH	0	root	_	O
+

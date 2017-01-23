@@ -1,0 +1,25 @@
+1	RePost	repost	NN	pos2=VB	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	I	I	PRP	_	6	nsubj	_	O
+4	do	do	VBP	_	6	aux	_	O
+5	not	not	RB	_	6	neg	_	O
+6	support	support	VB	_	0	root	_	O
+7	building	build	VBG	_	6	xcomp	_	O
+8	a	a	DT	pos2=NNP	9	det	_	O
+9	Wall	wall	NNP	pos2=NN	7	dobj	_	O
+10	on	on	IN	_	7	prep	_	O
+11	the	the	DT	_	13	det	_	O
+12	Mexican	mexican	JJ	pos2=NNP	13	nmod	_	U-NORP
+13	Border	border	NNP	pos2=NN	10	pobj	_	O
+14	nor	nor	CC	_	7	cc	_	O
+15	rounding	round	VBG	_	7	conj	_	O
+16	up	up	RP	_	15	prt	_	O
+17	millions	#crd#	NNS	_	15	dobj	_	U-CARDINAL
+18	of	of	IN	_	17	prep	_	O
+19	innocent	innocent	JJ	_	21	nmod	_	O
+20	economic	economic	JJ	_	21	nmod	_	O
+21	migrants	migrant	NNS	_	18	pobj	_	O
+22	in	in	IN	_	21	prep	_	O
+23	the	the	DT	_	24	det	_	O
+24	U.S.	u.s.	NNP	_	22	pobj	_	U-GPE
+

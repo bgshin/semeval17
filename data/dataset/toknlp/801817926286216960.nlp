@@ -1,0 +1,14 @@
+1	Congrats	congrats	NNS	pos2=JJ	10	nmod	_	O
+2	to	to	IN	_	1	prep	_	O
+3	Taijuan	taijuan	NNP	_	4	compound	_	B-PERSON
+4	Walker	walker	NNP	pos2=NN	2	pobj	_	L-PERSON
+5	:	:	:	_	10	punct	_	O
+6	2017	0	CD	_	10	nmod	_	U-DATE
+7	NL	nl	NNP	pos2=JJ	9	compound	_	O
+8	Cy	cy	NNP	pos2=NN	10	nmod	_	O
+9	Young	young	JJ	pos2=NNP	10	nmod	_	O
+10	winner	winner	NN	_	0	root	_	O
+11	.	.	.	_	10	punct	_	O
+
+1	#taijuanwalker	#taijuanwalker	UH	pos2=NN	0	root	_	O
+

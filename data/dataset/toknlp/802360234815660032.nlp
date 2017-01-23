@@ -1,0 +1,26 @@
+1	Countdown	countdown	NN	pos2=NNP	8	nmod	_	O
+2	to	to	IN	pos2=TO	1	prep	_	O
+3	"	"	``	_	2	punct	_	O
+4	The	the	DT	pos2=NNP	6	det	_	B-WORK_OF_ART
+5	Last	last	JJ	pos2=NNP	6	nmod	_	I-WORK_OF_ART
+6	Waltz	waltz	NNP	pos2=NN	2	pobj	_	L-WORK_OF_ART
+7	"	"	''	pos2=``	8	punct	_	O
+8	anniversary	anniversary	NN	_	0	root	_	O
+9	,	,	,	_	8	punct	_	O
+10	top	top	JJ	pos2=NN	12	nmod	_	O
+11	performance	performance	NN	_	12	compound	_	O
+12	No.	no.	NN	_	8	npadvmod	_	O
+13	2	0	CD	_	12	nmod	_	U-CARDINAL
+14	:	:	:	_	18	punct	_	O
+15	I	I	PRP	_	18	nsubjpass	_	O
+16	Shall	shall	MD	_	18	aux	_	O
+17	be	be	VB	_	18	auxpass	_	O
+18	Released	release	VBN	_	13	acomp	_	O
+19	,	,	,	_	18	punct	_	O
+20	featuring	feature	VBG	_	18	advcl	_	O
+21	Bob	bob	NNP	_	22	compound	_	B-PERSON
+22	Dylan	dylan	NNP	_	20	dobj	_	L-PERSON
+23	.	.	.	_	18	punct	_	O
+
+1	https://t.co/MLLhUIQR0w	#hlink#	ADD	_	0	root	_	U-ORG
+

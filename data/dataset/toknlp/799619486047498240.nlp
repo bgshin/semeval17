@@ -1,0 +1,12 @@
+1	@KremlinTrolls	@kremlintrolls	NNS	pos2=ADD	5	vocative	_	O
+2	@GenFlynn	@genflynn	ADD	pos2=VBP	5	aux	_	O
+3	@politico	@politico	UH	pos2=VBP	5	discourse	_	O
+4	Please	please	UH	_	5	discourse	_	O
+5	retweet	retweet	VB	_	0	root	_	O
+6	his	his	PRP$	_	7	poss	_	O
+7	tweets	tweet	NNS	_	5	dobj	_	O
+8	that	that	WDT	pos2=IN	10	nsubj	_	O
+9	dick	dick	VBP	pos2=NNP	10	nsubj	_	O
+10	blocked	block	VBD	_	7	relcl	_	O
+11	me	me	PRP	_	10	dobj	_	O
+

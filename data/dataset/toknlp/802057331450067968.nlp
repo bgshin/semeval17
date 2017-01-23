@@ -1,0 +1,12 @@
+1	remembers	remember	VBZ	_	0	root	_	O
+2	that	that	IN	pos2=DT	6	mark	_	O
+3	persona	persona	NN	_	6	nsubjpass	_	O
+4	5	0	CD	_	3	nmod	_	U-CARDINAL
+5	was	be	VBD	_	6	auxpass	_	O
+6	delayed	delay	VBN	_	1	ccomp	_	O
+7	AGAIN	again	RB	_	6	advmod	_	O
+8	and	and	CC	_	6	cc	_	O
+9	enters	enter	VBZ	_	6	conj	_	O
+10	great	great	JJ	_	11	nmod	_	O
+11	depression	depression	NN	_	9	dobj	_	O
+

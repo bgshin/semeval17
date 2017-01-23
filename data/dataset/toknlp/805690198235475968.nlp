@@ -1,0 +1,15 @@
+1	@FoxNews	@foxnews	NNS	pos2=NNP	2	nsubj	_	O
+2	want	want	VBP	pos2=VB	10	ccomp	_	O
+3	to	to	TO	_	4	aux	_	O
+4	give	give	VB	_	2	xcomp	_	O
+5	him	him	PRP	_	4	dative	_	O
+6	the	the	DT	_	8	det	_	O
+7	death	death	NN	_	8	compound	_	O
+8	penalty	penalty	NN	_	4	dobj	_	O
+9	,	,	,	_	10	punct	_	O
+10	let	let	VB	_	0	root	_	O
+11	him	him	PRP	_	12	nsubj	_	O
+12	die	die	VB	_	10	ccomp	_	O
+13	in	in	IN	_	12	prep	_	O
+14	jail	jail	NN	_	13	pobj	_	O
+

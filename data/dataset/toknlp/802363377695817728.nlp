@@ -1,0 +1,26 @@
+1	@rtoberl	@rtoberl	UH	pos2=XX	17	discourse	_	O
+2	Th	th	JJ	pos2=NNP	4	nmod	_	O
+3	international	international	JJ	_	4	nmod	_	O
+4	leftists	leftist	NNS	_	1	dobj	_	O
+5	AFTER	after	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	Fall	fall	NN	pos2=NNP	5	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	Wall	wall	NNP	_	8	pobj	_	O
+11	&	&	CC	_	10	cc	_	O
+12	th	th	NN	pos2=NNP	13	compound	_	O
+13	Soviets	soviet	NNPS	_	10	conj	_	O
+14	,	,	,	_	17	punct	_	O
+15	they	they	PRP	_	17	nsubjpass	_	O
+16	were	be	VBD	_	17	auxpass	_	O
+17	crushed	crush	VBN	_	0	root	_	O
+18	as	as	IN	_	17	prep	_	O
+19	th	th	JJ	pos2=NN	20	nmod	_	U-NORP
+20	millenials	millenials	NNS	_	18	pobj	_	O
+21	after	after	IN	_	17	prep	_	O
+22	Trump	trump	NNP	pos2=NN	24	poss	_	U-ORG
+23	's	's	POS	_	22	case	_	O
+24	victory	victory	NN	_	21	pobj	_	O
+25	.	.	.	_	17	punct	_	O
+

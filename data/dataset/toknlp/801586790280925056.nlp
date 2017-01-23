@@ -1,0 +1,12 @@
+1	Grayson	grayson	NNP	_	2	compound	_	B-PERSON
+2	Allen	allen	NNP	_	3	nsubj	_	L-PERSON
+3	been	be	VBN	pos2=VBD	0	root	_	O
+4	trash	trash	NN	pos2=VB	3	attr	_	O
+5	this	this	DT	_	6	det	_	O
+6	season	season	NN	_	9	nsubj	_	O
+7	so	so	RB	_	8	advmod	_	O
+8	far	far	RB	_	9	advmod	_	O
+9	hurt	hurt	VBN	pos2=JJ	3	conj	_	O
+10	but	but	CC	_	9	cc	_	O
+11	still	still	RB	_	9	conj	_	O
+

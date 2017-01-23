@@ -1,0 +1,12 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	time	time	NN	_	2	attr	_	O
+4	to	to	TO	_	5	aux	_	O
+5	do	do	VB	_	3	relcl	_	O
+6	the	the	DT	_	8	det	_	O
+7	right	right	JJ	_	8	nmod	_	O
+8	thing	thing	NN	_	5	dobj	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	https://t.co/J3WulmeeSW	#hlink#	ADD	_	0	root	_	U-ORG
+

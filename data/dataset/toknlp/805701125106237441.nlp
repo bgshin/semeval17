@@ -1,0 +1,6 @@
+1	HOO	hoo	NNP	pos2=NN	2	compound	_	U-PERSON
+2	BOY	boy	NN	pos2=NNP	0	root	_	O
+3	THAT	that	IN	pos2=WDT	5	det	_	O
+4	WESTWORLD	westworld	NNP	pos2=NN	5	compound	_	U-PERSON
+5	FINALE	finale	NN	pos2=NNP	2	acl	_	O
+

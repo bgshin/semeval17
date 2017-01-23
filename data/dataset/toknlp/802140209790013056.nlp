@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det	_	O
+2	white	white	JJ	_	3	nmod	_	O
+3	supremacist	supremacist	NN	_	0	root	_	O
+4	using	use	VBG	_	3	acl	_	O
+5	Trump	trump	NNP	pos2=NN	4	dobj	_	U-ORG
+6	?	?	.	_	3	punct	_	O
+
+1	https://t.co/gyVgVtI5Fr	#hlink#	ADD	_	0	root	_	O
+2	@cspanwj	@cspanwj	-RRB-	pos2=XX	1	punct	_	O
+3	#NotMyPresident	#notmypresident	ADD	pos2=NN	0	root	_	O
+4	#Trump	#trump	NNP	pos2=XX	5	compound	_	B-PERSON
+5	#Resist	#resist	NNP	pos2=ADD	6	compound	_	L-PERSON
+6	#MAGA	#maga	NN	pos2=ADD	10	dep	_	O
+7	@GOP	@gop	NNP	pos2=XX	10	dep	_	U-ORG
+8	@dccc	@dccc	XX	pos2=UH	10	dep	_	O
+9	#tcot	#tcot	XX	pos2=UH	10	dep	_	O
+10	#uniteblue	#uniteblue	UH	pos2=XX	3	root	_	O
+

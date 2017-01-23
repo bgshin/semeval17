@@ -1,0 +1,15 @@
+1	Photos	photo	NNS	pos2=NN	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	A	a	DT	pos2=LS	5	det	_	O
+4	Thanksgiving	thanksgiving	NNP	pos2=JJ	5	compound	_	U-DATE
+5	protest	protest	NN	_	0	root	_	O
+6	against	against	IN	_	5	prep	_	O
+7	Dakota	dakota	NNP	_	9	compound	_	O
+8	Access	access	NNP	pos2=NN	9	compound	_	U-PRODUCT
+9	pipeline	pipeline	NN	_	14	dep	_	O
+10	-	-	:	pos2=,	9	punct	_	O
+11	The	the	DT	pos2=NNP	13	det	_	B-ORG
+12	Boston	boston	NNP	_	13	compound	_	I-ORG
+13	Globe	globe	NNP	_	14	nmod	_	L-ORG
+14	https://t.co/7Pg506BZwr	#hlink#	ADD	pos2=NNP	6	pobj	_	O
+

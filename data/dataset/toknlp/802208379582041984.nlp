@@ -1,0 +1,14 @@
+1	@DebAbides	@debabides	NNS	pos2=UH	4	dep	_	O
+2	@supermattachine	@supermattachine	UH	pos2=VBP	4	discourse	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	was	be	VBD	_	0	root	_	O
+5	n't	not	RB	_	4	neg	_	O
+6	aware	aware	JJ	pos2=VB	4	acomp	_	O
+7	we	we	PRP	_	8	nsubj	_	O
+8	elected	elect	VBD	_	6	ccomp	_	O
+9	Presidents	president	NNS	pos2=NNP	8	dobj	_	O
+10	on	on	IN	_	8	prep	_	O
+11	popular	popular	JJ	_	12	nmod	_	O
+12	vote	vote	NN	_	10	pobj	_	O
+13	...	..	.	_	4	punct	_	O
+

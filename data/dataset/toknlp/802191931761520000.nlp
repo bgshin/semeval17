@@ -1,0 +1,21 @@
+1	@SallyBakerCake	@sallybakercake	ADD	pos2=NN	9	cc	_	O
+2	@PaulaMorin6	@paulamorin0	NN	pos2=ADD	9	meta	_	O
+3	@emmaladyrose	@emmaladyrose	UH	pos2=WP$	9	discourse	_	O
+4	@CharlesMBlow	@charlesmblow	NNP	pos2=UH	8	poss	_	O
+5	Maybe	maybe	RB	_	9	advmod	_	O
+6	most	most	JJS	pos2=RBS	8	nmod	_	O
+7	white	white	JJ	_	8	nmod	_	O
+8	supremacists	supremacist	NNS	_	9	nsubj	_	O
+9	like	like	VBP	pos2=IN	0	root	_	O
+10	to	to	TO	_	11	aux	_	O
+11	use	use	VB	_	9	xcomp	_	O
+12	fancy	fancy	JJ	_	13	nmod	_	O
+13	labels	label	NNS	_	11	dobj	_	O
+14	.	.	.	_	9	punct	_	O
+
+1	So	so	RB	pos2=CC	4	advmod	_	O
+2	racism	racism	NN	_	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	denial	denial	NN	_	3	pobj	_	O
+5	?	?	.	_	2	punct	_	O
+

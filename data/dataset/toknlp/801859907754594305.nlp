@@ -1,0 +1,18 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	thankful	thankful	JJ	_	2	acomp	_	O
+4	for	for	IN	_	3	prep	_	O
+5	@ListenToBrunch	@listentobrunch	NN	pos2=NNP	4	pobj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	my	my	PRP$	_	9	poss	_	O
+8	Internet	internet	NN	_	9	compound	_	O
+9	buddies	buddy	NNS	_	5	conj	_	O
+10	@DJ_Bean	@dj_bean	MD	pos2=ADD	12	aux	_	U-ORDINAL
+11	@PeteBlackburn	@peteblackburn	TO	pos2=MD	12	aux	_	O
+12	enjoy	enjoy	VB	_	7	dep	_	O
+13	it	it	PRP	_	12	dobj	_	O
+14	my	my	PRP$	_	16	poss	_	O
+15	bad	bad	JJ	_	16	nmod	_	O
+16	hombres	hombre	NNS	_	12	dobj	_	O
+17	.	.	.	_	2	punct	_	O
+

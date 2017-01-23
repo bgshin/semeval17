@@ -1,0 +1,31 @@
+1	@Marietta512	@marietta0	NN	pos2=WP	3	vocative	_	O
+2	You	you	PRP	_	3	nsubj	_	O
+3	want	want	VBP	_	0	root	_	O
+4	women	woman	NNS	_	6	nsubj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	take	take	VB	_	3	ccomp	_	O
+7	home	home	RB	pos2=NN	6	advmod	_	O
+8	little	little	JJ	_	9	nmod	_	O
+9	jars	jar	NNS	_	6	dobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	blood	blood	NN	_	12	compound	_	O
+12	clots	clot	NNS	_	10	pobj	_	O
+13	?	?	.	_	3	punct	_	O
+
+1	Because	because	IN	_	3	mark	_	O
+2	that	that	DT	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	all	all	PDT	pos2=DT	7	predet	_	O
+5	an	an	DT	_	7	det	_	O
+6	early	early	JJ	_	7	nmod	_	O
+7	abortion	abortion	NN	_	3	attr	_	O
+8	really	really	RB	_	9	advmod	_	O
+9	is	be	VBZ	_	3	conj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	There	there	EX	_	2	expl	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	no	no	DT	_	4	det	_	O
+4	body	body	NN	_	2	attr	_	O
+5	.	.	.	_	2	punct	_	O
+

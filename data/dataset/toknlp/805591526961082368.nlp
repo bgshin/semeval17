@@ -1,0 +1,29 @@
+1	#Femail	#femail	NNP	pos2=NN	4	compound	_	O
+2	-	-	HYPH	pos2=:	3	punct	_	O
+3	Ashley	ashley	NNP	_	4	compound	_	B-PERSON
+4	Graham	graham	NNP	_	5	nsubj	_	L-PERSON
+5	stars	star	VBZ	pos2=NNS	24	ccomp	_	O
+6	on	on	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	cover	cover	NN	_	6	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	British	british	NNP	pos2=JJ	11	compound	_	B-ORG
+11	Vogue	vogue	NNP	_	9	pobj	_	L-ORG
+12	,	,	,	_	24	punct	_	O
+13	The	the	DT	_	23	det	_	O
+14	28	0	CD	_	16	nmod	_	B-DATE
+15	-	-	HYPH	_	16	punct	_	I-DATE
+16	year	year	NN	_	18	npadvmod	_	I-DATE
+17	-	-	HYPH	_	18	punct	_	I-DATE
+18	old	old	JJ	_	21	nmod	_	L-DATE
+19	plus	plus	CC	pos2=NN	18	cc	_	O
+20	-	-	HYPH	_	21	punct	_	O
+21	size	size	NN	_	23	compound	_	O
+22	lingerie	lingerie	NN	_	23	compound	_	O
+23	model	model	NN	_	24	nsubj	_	O
+24	appears	appear	VBZ	_	0	root	_	O
+25	f	f	JJ	pos2=XX	24	oprd	_	O
+26	...	..	.	pos2=,	24	punct	_	O
+
+1	https://t.co/qpiAlcqrvW	#hlink#	ADD	_	0	root	_	U-ORG
+

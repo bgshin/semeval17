@@ -1,0 +1,27 @@
+1	@petestavros	@petestavros	UH	pos2=NNS	23	discourse	_	O
+2	@megynkelly	@megynkelly	UH	pos2=RB	23	discourse	_	O
+3	maybe	maybe	RB	_	23	advmod	_	O
+4	bc	bc	NN	pos2=JJ	9	nsubj	_	O
+5	2	0	CD	_	4	nmod	_	U-CARDINAL
+6	big	big	JJ	pos2=RB	7	advmod	_	O
+7	headed	head	VBN	pos2=VBD	11	nmod	_	O
+8	2	0	CD	_	13	nmod	_	U-CARDINAL
+9	snarky	snarky	JJ	pos2=NN	11	nmod	_	O
+10	2	0	CD	_	15	nmod	_	U-CARDINAL
+11	childish	childish	JJ	pos2=NN	13	dep	_	O
+12	2	0	CD	_	16	compound	_	U-CARDINAL
+13	animated	animate	VBN	pos2=VBD	16	dep	_	O
+14	2	0	CD	_	19	nmod	_	U-CARDINAL
+15	sarcastic	sarcastic	JJ	_	19	nmod	_	O
+16	2	0	CD	_	19	nmod	_	U-CARDINAL
+17	many	many	JJ	_	19	nmod	_	O
+18	hand	hand	NN	_	19	compound	_	O
+19	gestures	gesture	NNS	_	22	nmod	_	O
+20	2	0	CD	_	22	nmod	_	O
+21	anti	anti	AFX	pos2=NNS	22	nmod	_	O
+22	Trump	trump	NN	pos2=NNP	23	nsubj	_	U-ORG
+23	is	be	VBZ	_	0	root	_	O
+24	that	that	DT	pos2=IN	23	nsubj	_	O
+25	enough	enough	JJ	pos2=RB	23	acomp	_	O
+26	?	?	.	_	23	punct	_	O
+

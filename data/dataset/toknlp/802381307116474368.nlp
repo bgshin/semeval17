@@ -1,0 +1,11 @@
+1	Top	top	JJ	pos2=VB	5	nmod	_	O
+2	10	0	CD	_	5	nmod	_	U-CARDINAL
+3	Most	most	RBS	pos2=JJS	4	advmod	_	O
+4	Terrifying	terrifying	JJ	_	5	nmod	_	O
+5	Robots	robot	NNS	pos2=NNP	10	nsubj	_	O
+6	Ever	ever	RB	pos2=WDT	7	advmod	_	O
+7	Built	build	VBN	_	9	nmod	_	O
+8	-	-	HYPH	pos2=:	9	punct	_	O
+9	https://t.co/muLGfm3KAc	#hlink#	ADD	pos2=RP	5	appos	_	O
+10	#Technology	#technology	NNP	pos2=-RRB-	0	root	_	U-ORG
+

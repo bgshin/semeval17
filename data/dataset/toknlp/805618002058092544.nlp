@@ -1,0 +1,26 @@
+1	Cuba	cuba	NNP	_	3	poss	_	U-GPE
+2	's	's	POS	_	1	case	_	O
+3	bees	bee	NNS	_	6	nsubj	_	O
+4	are	be	VBP	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	dying	die	VBG	_	0	root	_	O
+7	off	off	RP	_	6	prt	_	O
+8	.	.	.	_	6	punct	_	O
+
+1	Embargo	embargo	NNP	pos2=NN	3	nsubj	_	O
+2	has	have	VBZ	_	3	aux	_	O
+3	meant	mean	VBN	_	0	root	_	O
+4	they	they	PRP	_	6	nsubj	_	O
+5	have	have	VBP	_	6	aux	_	O
+6	been	be	VBN	_	3	ccomp	_	O
+7	unable	unable	JJ	_	6	acomp	_	O
+8	to	to	TO	_	9	aux	_	O
+9	use	use	VB	_	7	xcomp	_	O
+10	pesticides	pesticide	NNS	_	9	dobj	_	O
+11	used	use	VBN	_	10	acl	_	O
+12	elsewhere	elsewhere	RB	_	11	advmod	_	O
+13	in	in	IN	_	12	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	world	world	NN	_	13	pobj	_	O
+16	https://t.co/9pSkA5hmAA	#hlink#	ADD	_	6	npadvmod	_	O
+

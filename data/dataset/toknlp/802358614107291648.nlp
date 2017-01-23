@@ -1,0 +1,19 @@
+1	why	why	WRB	_	5	advmod	_	O
+2	does	do	VBZ	_	5	aux	_	O
+3	melania	melania	NN	pos2=DT	4	compound	_	O
+4	trump	trump	NN	pos2=VB	5	nsubj	_	O
+5	look	look	VB	pos2=NN	0	root	_	O
+6	like	like	IN	_	8	mark	_	O
+7	she	she	PRP	_	8	nsubj	_	O
+8	knows	know	VBZ	_	5	advcl	_	O
+9	you	you	PRP	_	8	dobj	_	O
+10	from	from	IN	_	8	prep	_	O
+11	somewhere	somewhere	RB	pos2=NN	10	pcomp	_	O
+12	but	but	CC	_	8	cc	_	O
+13	does	do	VBZ	_	15	aux	_	O
+14	nt	nt	RB	_	15	advmod	_	O
+15	remember	remember	VB	_	8	conj	_	O
+16	your	your	PRP$	_	17	poss	_	O
+17	name	name	NN	_	15	dobj	_	O
+18	https://t.co/AswOQ5O47A	#hlink#	ADD	pos2=NN	17	appos	_	O
+

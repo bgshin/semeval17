@@ -1,0 +1,27 @@
+1	@MMFlint	@mmflint	ADD	pos2=DT	4	punct	_	O
+2	poor	poor	JJ	_	3	nmod	_	O
+3	Moore	moore	NNP	_	4	nsubj	_	U-PERSON
+4	made	make	VBD	_	0	root	_	O
+5	2	0	CD	_	6	nmod	_	U-CARDINAL
+6	movies	movie	NNS	_	4	dobj	_	O
+7	to	to	TO	pos2=IN	8	aux	_	O
+8	defeat	defeat	VB	_	4	advcl	_	O
+9	the	the	DT	_	11	det	_	O
+10	GOP	gop	NNP	_	11	compound	_	U-ORG
+11	candidate	candidate	NN	_	8	dobj	_	O
+12	for	for	IN	_	11	prep	_	O
+13	Prez	prez	NNP	_	12	pobj	_	O
+14	an	an	DT	pos2=FW	15	det	_	O
+15	he	he	PRP	_	16	nsubj	_	O
+16	's	's	VBZ	_	11	appos	_	O
+17	now	now	RB	_	16	advmod	_	O
+18	0-2	0	CD	_	26	dep	_	U-DATE
+19	lost	lose	VBN	pos2=VBD	26	dep	_	O
+20	both	both	DT	pos2=CC	26	dep	_	O
+21	,	,	,	_	26	punct	_	O
+22	Trump	trump	NNP	pos2=NN	24	compound	_	U-PERSON
+23	movie	movie	NN	pos2=NNP	24	compound	_	O
+24	bombe	bombe	NN	pos2=GW	26	dep	_	O
+25	…	…	NFP	pos2=,	26	punct	_	O
+26	https://t.co/kFvRoaCjBV	#hlink#	ADD	_	16	attr	_	O
+

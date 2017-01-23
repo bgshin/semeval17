@@ -1,0 +1,17 @@
+1	Let	let	VB	_	0	root	_	O
+2	's	's	PRP	_	6	nsubj	_	O
+3	all	all	DT	_	4	det	_	O
+4	thanks	thanks	NNS	pos2=NN	2	dep	_	O
+5	Prez	prez	NNP	_	6	compound	_	B-PERSON
+6	Obama	obama	NNP	_	16	dep	_	L-PERSON
+7	for	for	IN	_	1	prep	_	O
+8	8	0	CD	_	9	nmod	_	B-DATE
+9	years	year	NNS	_	7	pobj	_	L-DATE
+10	of	of	IN	_	9	prep	_	O
+11	progress!#PresidentObama	progress!#presidentobama	NNP	pos2=NN	10	pobj	_	U-LANGUAGE
+12	#uniteblue	#uniteblue	UH	pos2=XX	14	discourse	_	O
+13	#wewillmissyou	#wewillmissyou	UH	pos2=FW	14	discourse	_	O
+14	#thankyou	#thankyou	UH	pos2=FW	16	discourse	_	O
+15	…	…	NFP	pos2=-LRB-	16	punct	_	O
+16	https://t.co/Pdb9sVNGnR	#hlink#	ADD	_	1	dep	_	O
+

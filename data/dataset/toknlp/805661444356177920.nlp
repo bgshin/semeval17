@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det	_	O
+2	Premier	premier	NNP	_	3	compound	_	O
+3	@DanielAndrewsMP	@danielandrewsmp	NNP	pos2=NN	4	nsubj	_	U-PERSON
+4	says	say	VBZ	_	0	root	_	O
+5	his	his	PRP$	_	6	poss	_	O
+6	views	view	NNS	pos2=NN	11	nsubj	_	O
+7	on	on	IN	_	6	prep	_	O
+8	euthanasia	euthanasia	NN	_	7	pobj	_	O
+9	have	have	VBP	_	11	aux	_	O
+10	"	"	``	_	11	punct	_	O
+11	evolved	evolve	VBN	pos2=JJ	4	ccomp	_	O
+12	"	"	''	_	11	punct	_	O
+13	and	and	CC	_	11	cc	_	O
+14	"	"	``	_	15	punct	_	O
+15	changed	change	VBD	pos2=JJ	11	conj	_	O
+16	"	"	''	_	15	punct	_	O
+17	#springst	#springst	UH	pos2=NN	15	discourse	_	O
+

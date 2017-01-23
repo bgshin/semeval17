@@ -1,0 +1,20 @@
+1	Make	make	VB	pos2=VBP	0	root	_	O
+2	up	up	RP	pos2=RB	1	prt	_	O
+3	your	your	PRP$	_	5	poss	_	O
+4	own	own	JJ	_	5	nmod	_	O
+5	mind	mind	NN	_	1	dobj	_	O
+6	but	but	CC	_	1	cc	_	O
+7	be	be	VB	_	8	auxpass	_	O
+8	informed	inform	VBN	pos2=JJ	1	conj	_	O
+9	Interview	interview	NNP	pos2=NN	8	dobj	_	U-ORG
+10	with	with	IN	_	8	prep	_	O
+11	lawyer	lawyer	NN	_	10	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	#Recount2016	#recount0	NN	pos2=CD	14	compound	_	O
+14	thx	thx	NN	pos2=XX	12	pobj	_	O
+15	!!	!!	.	_	1	punct	_	O
+
+1	#auditthevote	#auditthevote	UH	pos2=GW	3	discourse	_	O
+2	#stillwithher	#stillwithher	UH	pos2=GW	3	discourse	_	O
+3	https://t.co/rlm68077HA	#hlink#	ADD	pos2=UH	0	root	_	O
+

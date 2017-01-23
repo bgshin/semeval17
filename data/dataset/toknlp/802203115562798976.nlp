@@ -1,0 +1,11 @@
+1	About	about	RB	pos2=JJ	3	advmod	_	O
+2	to	to	TO	_	3	aux	_	O
+3	see	see	VB	_	5	csubj	_	O
+4	#FantasticBeasts	#fantasticbeasts	NNS	pos2=NNP	3	dobj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	boy	boy	NN	pos2=JJ	5	attr	_	O
+7	to	to	TO	_	9	aux	_	O
+8	be	be	VB	_	9	auxpass	_	O
+9	LIT	light	VBN	pos2=JJ	6	relcl	_	O
+10	😜💙🙌👌✌🔥	😜💙🙌👌✌🔥	''	pos2=RP	5	punct	_	O
+

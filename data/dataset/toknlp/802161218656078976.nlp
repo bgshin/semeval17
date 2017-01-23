@@ -1,0 +1,21 @@
+1	Clinton	clinton	NNP	_	3	compound	_	O
+2	Supporters	supporter	NNPS	pos2=NNP	3	compound	_	O
+3	Place	place	NNP	pos2=VBP	4	compound	_	O
+4	Signs	sign	NNS	pos2=NNP	0	root	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Support	support	NNP	pos2=NN	5	pobj	_	O
+7	on	on	IN	_	4	prep	_	O
+8	Her	her	PRP$	pos2=NNP	9	poss	_	O
+9	Street	street	NNP	pos2=NN	7	pobj	_	O
+10	on	on	IN	_	4	prep	_	O
+11	Thanksgiving	thanksgiving	NNP	_	20	compound	_	U-DATE
+12	-	-	HYPH	_	20	punct	_	O
+13	ABC	abc	NNP	_	14	compound	_	B-ORG
+14	News	news	NNP	pos2=NN	16	dep	_	L-ORG
+15	-	-	HYPH	pos2=:	16	punct	_	O
+16	https://t.co/p7xJieb5Ky	#hlink#	ADD	pos2=NNP	20	nmod	_	O
+17	via	via	IN	_	4	prep	_	O
+18	@ABC	@abc	NN	pos2=$	17	pobj	_	B-LAW
+19	#StillWithHer	#stillwithher	ADD	pos2=NN	20	compound	_	L-LAW
+20	❤️👍❤️👍🇺🇸	❤️👍❤️👍🇺🇸	NN	pos2=.	18	conj	_	O
+

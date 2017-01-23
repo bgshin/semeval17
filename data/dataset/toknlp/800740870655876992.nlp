@@ -1,0 +1,20 @@
+1	First	#ord#	RB	_	3	advmod	_	U-ORDINAL
+2	,	,	,	_	4	punct	_	O
+3	red	red	JJ	_	4	nmod	_	O
+4	carpet	carpet	NN	_	0	root	_	O
+5	at	at	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	#NBAwards	#nbawards	NNPS	pos2=NNS	5	pobj	_	U-NORP
+8	.	.	.	_	4	punct	_	O
+
+1	Next	next	JJ	pos2=RB	2	nmod	_	O
+2	stop	stop	NN	pos2=VB	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	Oscars	oscar	NNPS	pos2=NNP	2	appos	_	U-ORG
+5	.	.	.	_	2	punct	_	O
+
+1	https://t.co/gj3HnUZ9Zh	#hlink#	ADD	pos2=NN	2	nmod	_	O
+2	cc	cc	NN	pos2=NNS	0	root	_	O
+3	:	:	:	_	2	punct	_	O
+4	@lpoling	@lpoling	UH	pos2=VBG	2	discourse	_	O
+

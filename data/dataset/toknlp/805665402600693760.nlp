@@ -1,0 +1,27 @@
+1	@DrJillStein	@drjillstein	NN	pos2=UH	4	vocative	_	O
+2	So	so	RB	pos2=IN	4	advmod	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	stand	stand	VBP	pos2=VB	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	Black	black	NNP	pos2=JJ	8	compound	_	B-ORG
+7	Shit	shit	NNP	pos2=NN	8	compound	_	I-ORG
+8	Matters	matter	NNPS	pos2=NNP	5	pobj	_	L-ORG
+9	terrorist	terrorist	JJ	pos2=NN	10	nmod	_	O
+10	group	group	NN	_	8	appos	_	O
+11	?	?	.	_	4	punct	_	O
+
+1	Stands	stand	VBZ	_	0	root	_	O
+2	to	to	TO	pos2=IN	3	aux	_	O
+3	reason	reason	VB	pos2=NN	1	xcomp	_	O
+4	from	from	IN	_	3	prep	_	O
+5	a	a	DT	_	6	det	_	O
+6	person	person	NN	_	4	pobj	_	O
+7	that	that	WDT	_	8	nsubj	_	O
+8	thought	think	VBD	_	6	relcl	_	O
+9	Fidel	fidel	NNP	_	10	compound	_	B-PERSON
+10	Castro	castro	NNP	_	11	nsubj	_	L-PERSON
+11	was	be	VBD	_	8	ccomp	_	O
+12	a	a	DT	_	13	det	_	O
+13	hero	hero	NN	_	11	attr	_	O
+14	.	.	.	_	1	punct	_	O
+

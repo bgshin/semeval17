@@ -1,0 +1,16 @@
+1	@IAMovies	@iamovies	NNS	pos2=VBZ	3	nmod	_	O
+2	negative	negative	JJ	_	3	nmod	_	O
+3	GDP	gdp	NN	pos2=NNP	11	nsubj	_	O
+4	,	,	,	_	3	punct	_	O
+5	infrastructure	infrastructure	NN	_	3	appos	_	O
+6	destroyed	destroy	VBN	_	5	acl	_	O
+7	by	by	IN	_	6	agent	_	O
+8	#Hamas	#hamas	NNP	pos2=NNPS	7	pobj	_	U-ORG
+9	does	do	VBZ	_	11	aux	_	O
+10	not	not	RB	_	11	neg	_	O
+11	constitute	constitute	VB	_	0	root	_	O
+12	"	"	``	_	13	punct	_	O
+13	genocide	genocide	NN	_	11	dobj	_	O
+14	"	"	''	_	13	punct	_	O
+15	https://t.co/ealVQ4rXMu	#hlink#	ADD	pos2=NN	13	appos	_	O
+

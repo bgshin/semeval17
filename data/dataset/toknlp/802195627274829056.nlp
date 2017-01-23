@@ -1,0 +1,15 @@
+1	@zaire2005	@zaire0	NN	pos2=DT	2	compound	_	O
+2	persona	persona	NN	_	5	nsubjpass	_	O
+3	5	0	CD	_	2	npadvmod	_	U-CARDINAL
+4	got	get	VBD	_	5	auxpass	_	O
+5	delayed	delay	VBN	_	0	root	_	O
+6	!	!	.	_	5	punct	_	O
+
+1	Greatness	greatness	NN	pos2=NNP	4	nsubj	_	O
+2	surely	surely	RB	_	4	advmod	_	O
+3	does	do	VBZ	_	4	aux	_	O
+4	awaits	await	VBZ	pos2=VB	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	#delayedStation4	#delayedstation0	NN	pos2=NNS	0	root	_	O
+

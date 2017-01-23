@@ -1,0 +1,17 @@
+1	Markets	market	NNS	_	3	nsubj	_	O
+2	have	have	VBP	_	3	aux	_	O
+3	learned	learn	VBN	_	0	root	_	O
+4	their	their	PRP$	_	5	poss	_	O
+5	lessons	lesson	NNS	_	3	dobj	_	O
+6	from	from	IN	_	5	prep	_	O
+7	Brexit	brexit	NNP	pos2=NN	6	pobj	_	U-GPE
+8	and	and	CC	_	7	cc	_	O
+9	Trump	trump	NNP	pos2=NN	7	conj	_	U-ORG
+10	and	and	CC	_	3	cc	_	O
+11	are	be	VBP	_	12	aux	_	O
+12	keeping	keep	VBG	_	3	conj	_	O
+13	it	it	PRP	_	12	dobj	_	O
+14	cool	cool	JJ	pos2=GW	15	nmod	_	O
+15	https://t.co/BcFR2gBcxv	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/zCkAnqmkYK	#hlink#	ADD	_	12	oprd	_	U-ORG
+

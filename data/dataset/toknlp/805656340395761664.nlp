@@ -1,0 +1,12 @@
+1	Drums	drum	NNS	pos2=NNP	0	root	_	O
+2	pounded	pound	VBN	pos2=VBD	1	acl	_	O
+3	in	in	IN	pos2=RP	2	prep	_	O
+4	celebration	celebration	NN	_	3	pobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Standing	standing	NNP	pos2=VBG	7	compound	_	O
+7	Rock	rock	NNP	_	8	compound	_	O
+8	protest	protest	NN	pos2=GW	5	pobj	_	O
+9	https://t.co/nuvPA1rkMj	#hlink#	ADD	pos2=NN	10	nsubj	_	U-GPE
+10	#Fracking	#fracking	VBG	pos2=-RRB-	8	acl	_	O
+11	#NoDAPL	#nodapl	ADD	pos2=NNS	10	pobj	_	O
+

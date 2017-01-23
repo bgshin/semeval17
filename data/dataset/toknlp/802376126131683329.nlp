@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det	_	O
+2	Media	media	NNP	_	3	compound	_	O
+3	Willingly	willingly	NNP	pos2=RB	4	nsubj	_	O
+4	Bought	buy	VBD	pos2=NNP	0	root	_	O
+5	Into	into	IN	pos2=NNP	4	prep	_	O
+6	The	the	DT	_	7	det	_	O
+7	GOP	gop	NNP	_	11	poss	_	U-ORG
+8	's	's	POS	_	7	case	_	O
+9	Bogus	bogus	NNP	pos2=JJ	10	compound	_	B-ORG
+10	Clinton	clinton	NNP	_	14	dep	_	I-ORG
+11	FBI	fbi	NNP	_	14	dep	_	L-ORG
+12	Email	email	GW	pos2=NN	14	nmod	_	O
+13	Talehttps://t.co/GrB3jtbp4P@HunterHRC2016	#hlink#	ADD	_	14	nmod	_	O
+14	https://t.co/5YLtng50o2	#hlink#	ADD	_	5	pobj	_	U-ORG
+

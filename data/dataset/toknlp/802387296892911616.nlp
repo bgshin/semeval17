@@ -1,0 +1,23 @@
+1	When	when	WRB	_	8	advmod	_	O
+2	Leonard	leonard	NNP	_	3	compound	_	B-PERSON
+3	Cohen	cohen	NNP	_	8	nsubj	_	L-PERSON
+4	and	and	CC	_	3	cc	_	O
+5	Fidel	fidel	NNP	_	6	compound	_	B-PERSON
+6	Castro	castro	NNP	_	3	conj	_	L-PERSON
+7	both	both	DT	pos2=CC	3	appos	_	O
+8	kick	kick	VBP	pos2=NN	0	root	_	O
+9	the	the	DT	_	10	det	_	O
+10	bucket	bucket	NN	_	8	dobj	_	O
+11	to	to	TO	_	12	aux	_	O
+12	avoid	avoid	VB	_	8	advcl	_	O
+13	dealing	deal	VBG	_	12	xcomp	_	O
+14	with	with	IN	_	13	prep	_	O
+15	a	a	DT	_	17	det	_	O
+16	Trump	trump	NNP	pos2=NN	17	compound	_	B-ORG
+17	Presidency	presidency	NNP	pos2=NN	14	pobj	_	L-ORG
+18	,	,	,	_	17	punct	_	O
+19	choppy	choppy	JJ	_	20	nmod	_	O
+20	waters	water	NNS	_	17	conj	_	O
+21	ahead	ahead	RB	_	20	advmod	_	O
+22	...	..	.	pos2=,	8	punct	_	O
+

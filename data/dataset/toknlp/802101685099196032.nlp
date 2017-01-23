@@ -1,0 +1,15 @@
+1	When	when	WRB	_	5	advmod	_	O
+2	that	that	DT	_	4	det	_	O
+3	old	old	JJ	_	4	nmod	_	O
+4	lady	lady	NN	_	5	nsubj	_	O
+5	was	be	VBD	_	0	root	_	O
+6	luckier	lucky	JJR	_	5	acomp	_	O
+7	than	than	IN	_	6	prep	_	O
+8	u	u	PRP	pos2=NNP	7	pobj	_	O
+9	...	..	.	pos2=,	5	punct	_	O
+
+1	#	#	NN	pos2=-LRB-	4	nmod	_	O
+2	3YearsOfMidnightMemories#MPN	0yearsofmidnightmemories#mpn	GW	pos2=LS	4	nmod	_	U-MONEY
+3	#OneDirection	#onedirection	GW	pos2=ADD	4	nmod	_	O
+4	https://t.co/OJkAK8HiBP	#hlink#	ADD	pos2=NN	0	root	_	O
+

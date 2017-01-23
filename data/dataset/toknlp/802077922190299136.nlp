@@ -1,0 +1,18 @@
+1	Poorly	poorly	RB	_	2	advmod	_	O
+2	implemented	implement	VBN	_	3	nmod	_	O
+3	app	app	NN	_	6	nsubjpass	_	O
+4	can	can	MD	_	6	aux	_	O
+5	be	be	VB	_	6	auxpass	_	O
+6	exploited	exploit	VBN	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	locate	locate	VB	_	6	advcl	_	O
+9	,	,	,	_	8	punct	_	O
+10	unlock	unlock	VB	_	8	conj	_	O
+11	and	and	CC	_	10	cc	_	O
+12	steal	steal	VB	pos2=VBP	10	conj	_	O
+13	a	a	DT	_	15	det	_	O
+14	Tesla	tesla	NNP	_	15	compound	_	O
+15	Model	model	NNP	pos2=NN	17	dep	_	O
+16	S	s	POS	pos2=NNP	15	case	_	O
+17	https://t.co/LoWQxZiL6c	#hlink#	ADD	pos2=NN	12	dobj	_	O
+

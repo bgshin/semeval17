@@ -1,0 +1,7 @@
+1	@immolations	@immolations	NNS	pos2=UH	2	compound	_	O
+2	lots	lot	NNS	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	bad	bad	JJ	_	5	nmod	_	O
+5	hombres	hombre	NNS	pos2=FW	3	pobj	_	O
+6	there	there	RB	pos2=EX	2	advmod	_	O
+

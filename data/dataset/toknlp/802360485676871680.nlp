@@ -1,0 +1,29 @@
+1	Nobody	nobody	NN	_	4	nsubj	_	O
+2	should	should	MD	_	4	aux	_	O
+3	be	be	VB	_	4	aux	_	O
+4	underestimating	underestimate	VBG	_	0	root	_	O
+5	this	this	DT	_	6	det	_	O
+6	recount	recount	NN	_	4	dobj	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	Came	come	VBD	_	0	root	_	O
+2	right	right	RB	_	3	advmod	_	O
+3	after	after	IN	_	5	mark	_	O
+4	Trump	trump	NNP	pos2=NN	5	nsubj	_	U-PERSON
+5	said	say	VBD	_	1	advcl	_	O
+6	he	he	PRP	_	8	nsubj	_	O
+7	'll	will	MD	_	8	aux	_	O
+8	pull	pull	VB	_	5	ccomp	_	O
+9	out	out	IN	pos2=RP	8	prep	_	O
+10	of	of	IN	_	9	prep	_	O
+11	TPP.	tpp.	NNP	_	10	pobj	_	O
+12	It	it	PRP	_	13	nsubj	_	O
+13	's	's	VBZ	_	5	ccomp	_	O
+14	not	not	RB	_	13	neg	_	O
+15	over	over	IN	pos2=RB	13	advmod	_	O
+16	until	until	IN	_	13	prep	_	O
+17	inauguration	inauguration	NN	_	16	pobj	_	O
+18	on	on	IN	_	17	prep	_	O
+19	Jan	jan	NNP	_	18	pobj	_	B-DATE
+20	20	0	CD	_	19	nmod	_	L-DATE
+

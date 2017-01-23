@@ -1,0 +1,23 @@
+1	MUHAMMAD	muhammad	NNP	pos2=NN	7	compound	_	O
+2	ALI	ali	NNP	_	7	compound	_	O
+3	1942	0	CD	_	7	nmod	_	B-ORG
+4	-	-	HYPH	pos2=SYM	7	punct	_	I-ORG
+5	2016	0	CD	_	2	npadvmod	_	I-ORG
+6	-	-	HYPH	_	7	punct	_	I-ORG
+7	NY	ny	NNP	pos2=NN	10	compound	_	I-ORG
+8	Post	post	AFX	pos2=NNP	11	advmod	_	L-ORG
+9	-	-	HYPH	pos2=:	10	punct	_	O
+10	Saturday	saturday	NNP	_	15	npadvmod	_	U-DATE
+11	JUNE	june	NNP	pos2=NN	10	npadvmod	_	B-DATE
+12	4	0	CD	_	11	nmod	_	I-DATE
+13	,	,	,	_	11	punct	_	I-DATE
+14	2016	0	CD	_	11	npadvmod	_	L-DATE
+15	-	-	:	pos2=HYPH	16	punct	_	O
+16	..	..	.	pos2=NFP	0	root	_	O
+
+1	#rt2gain	#rt0gain	NN	pos2=RB	5	nmod	_	O
+2	#teamfollowback	#teamfollowback	UH	pos2=XX	1	discourse	_	O
+3	#followback	#followback	UH	pos2=GW	1	discourse	_	O
+4	#f4f	#f0f	GW	pos2=-LRB-	5	nmod	_	O
+5	https://t.co/K0r6e2iXeT	#hlink#	ADD	_	0	root	_	U-ORG
+

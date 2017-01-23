@@ -1,0 +1,24 @@
+1	@Lookinabout	@lookinabout	NNP	pos2=PRP	4	vocative	_	U-ORG
+2	yet	yet	RB	pos2=CC	4	advmod	_	O
+3	we	we	PRP	_	4	nsubj	_	O
+4	won	win	VBD	pos2=VBP	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	popular	popular	JJ	_	7	nmod	_	O
+7	vote	vote	NN	_	4	dobj	_	O
+8	we	we	PRP	_	12	nsubj	_	O
+9	already	already	RB	_	10	advmod	_	O
+10	out	out	RP	pos2=PRP$	12	nmod	_	O
+11	number	number	NN	_	12	compound	_	O
+12	u.	u.	NNP	pos2=,	7	appos	_	O
+13	And	and	CC	_	4	cc	_	O
+14	we	we	PRP	_	17	nsubj	_	O
+15	are	be	VBP	_	17	aux	_	O
+16	slowly	slowly	RB	_	17	advmod	_	O
+17	expanding	expand	VBG	_	4	conj	_	O
+18	into	into	IN	_	17	prep	_	O
+19	the	the	DT	_	23	det	_	O
+20	rural	rural	JJ	_	22	advmod	_	O
+21	/	/	SYM	pos2=,	22	punct	_	O
+22	suburban	suburban	JJ	_	23	nmod	_	O
+23	area	area	NN	_	18	pobj	_	O
+

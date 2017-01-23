@@ -1,0 +1,22 @@
+1	@MalcolmNance	@malcolmnance	NN	pos2=ADD	2	compound	_	O
+2	@HillaryClinton	@hillaryclinton	NNP	pos2=ADD	9	nsubj	_	U-GPE
+3	@elizabethforma	@elizabethforma	MD	pos2=NN	6	det	_	O
+4	Just	just	RB	_	5	advmod	_	O
+5	in	in	IN	pos2=RB	9	mark	_	O
+6	case	case	NN	_	5	pobj	_	O
+7	someone	someone	NN	_	9	nsubj	_	O
+8	is	be	VBZ	_	9	aux	_	O
+9	wondering	wonder	VBG	_	0	root	_	O
+10	what	what	WP	_	12	dative	_	O
+11	to	to	TO	_	12	aux	_	O
+12	get	get	VB	_	9	ccomp	_	O
+13	me	me	PRP	_	12	dobj	_	O
+14	4	0	CD	_	15	nmod	_	B-DATE
+15	Xmas	xmas	NNP	pos2=NNS	12	dobj	_	L-DATE
+16	,	,	,	_	15	punct	_	O
+17	NOT	not	RB	_	18	neg	_	O
+18	THIS	this	DT	_	15	conj	_	O
+19	.	.	.	_	9	punct	_	O
+
+1	https://t.co/LBFLZWaF4S	#hlink#	ADD	_	0	root	_	U-ORG
+

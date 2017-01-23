@@ -1,0 +1,18 @@
+1	Melania	melania	NNP	_	2	compound	_	B-PERSON
+2	Trump	trump	NNP	_	5	poss	_	I-PERSON
+3	's	's	POS	_	2	case	_	L-PERSON
+4	full	full	JJ	_	5	nmod	_	O
+5	speech	speech	NN	_	17	nsubj	_	O
+6	at	at	IN	_	5	prep	_	O
+7	2016	0	CD	_	10	nmod	_	U-DATE
+8	Republican	republican	NNP	pos2=JJ	10	compound	_	B-ORG
+9	National	national	NNP	_	10	compound	_	I-ORG
+10	Convention	convention	NNP	_	6	pobj	_	L-ORG
+11	,	,	,	_	5	punct	_	O
+12	and	and	CC	_	5	cc	_	O
+13	comparison	comparison	NN	_	5	conj	_	O
+14	to	to	IN	_	13	prep	_	O
+15	Michelle	michelle	NNP	_	16	compound	_	B-PERSON
+16	Obama	obama	NNP	_	14	pobj	_	L-PERSON
+17	https://t.co/H2b4BLWFsq	#hlink#	ADD	_	0	root	_	O
+

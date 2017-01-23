@@ -1,0 +1,33 @@
+1	5	0	CD	_	3	nmod	_	U-CARDINAL
+2	"	"	``	_	3	punct	_	O
+3	Governments	government	NNS	_	8	nsubj	_	O
+4	"	"	''	_	3	punct	_	O
+5	of	of	IN	_	3	prep	_	O
+6	3-4	0	CD	_	7	nmod	_	U-CARDINAL
+7	Ss	s	NNS	pos2=NN	5	pobj	_	O
+8	chose	choose	VBD	pos2=NN	0	root	_	O
+9	6	0	CD	_	10	nmod	_	U-CARDINAL
+10	#rights	#rights	NNS	_	8	dobj	_	O
+11	that	that	WDT	_	12	nsubj	_	O
+12	were	be	VBD	_	10	relcl	_	O
+13	most	most	RBS	_	14	advmod	_	O
+14	important	important	JJ	_	12	acomp	_	O
+15	(	(	-LRB-	_	18	punct	_	O
+16	1	0	CD	_	17	nmod	_	B-PERCENT
+17	st	st	NN	pos2=NNS	18	compound	_	L-PERCENT
+18	pic	pic	NN	pos2=JJ	14	parataxis	_	O
+19	)	)	-RRB-	_	18	punct	_	O
+20	.	.	.	_	8	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	assembled	assemble	VBD	pos2=VBN	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	tallied	tally	VBD	pos2=VBN	2	conj	_	O
+5	choices	choice	NNS	_	4	dobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	A	a	DT	pos2=NN	2	det	_	O
+2	mi	mi	NN	pos2=GW	4	dep	_	O
+3	…	…	NFP	pos2=-LRB-	4	punct	_	O
+4	https://t.co/qNbFtknKQi	#hlink#	ADD	_	0	root	_	O
+

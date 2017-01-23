@@ -1,0 +1,14 @@
+1	"	"	``	_	13	punct	_	O
+2	How	how	WRB	_	5	advmod	_	O
+3	Fidel	fidel	NNP	_	4	compound	_	B-PERSON
+4	Castro	castro	NNP	_	5	nsubj	_	L-PERSON
+5	changed	change	VBD	_	13	dep	_	O
+6	my	my	PRP$	_	7	poss	_	O
+7	life	life	NN	_	5	dobj	_	O
+8	"	"	''	_	5	punct	_	O
+9	by	by	IN	_	5	prep	_	O
+10	Jewel	jewel	NNP	_	12	compound	_	B-PERSON
+11	L.	l.	NNP	_	12	compound	_	I-PERSON
+12	Crawford	crawford	NNP	_	9	pobj	_	L-PERSON
+13	https://t.co/ziglGRwAFF	#hlink#	ADD	_	0	root	_	O
+

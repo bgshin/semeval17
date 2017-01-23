@@ -1,0 +1,25 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	disappointed	disappointed	JJ	pos2=VBN	2	acomp	_	O
+5	Taipei	taipei	NNP	_	6	nsubj	_	U-GPE
+6	is	be	VBZ	_	4	ccomp	_	O
+7	n't	not	RB	_	6	neg	_	O
+8	full	full	JJ	_	6	acomp	_	O
+9	of	of	IN	_	8	prep	_	O
+10	stuff	stuff	NN	_	9	pobj	_	O
+11	on	on	IN	_	10	prep	_	O
+12	Google	google	NNP	_	14	compound	_	B-ORG
+13	Earth	earth	NNP	_	14	compound	_	I-ORG
+14	VR	vr	NNP	pos2=NN	11	pobj	_	L-ORG
+15	:(	:(	NFP	pos2=IN	18	advmod	_	O
+16	I	I	PRP	_	18	nsubj	_	O
+17	was	be	VBD	_	18	aux	_	O
+18	hoping	hope	VBG	_	2	conj	_	O
+19	to	to	TO	_	20	aux	_	O
+20	visit	visit	VB	_	18	xcomp	_	O
+21	Lehua	lehua	NNP	pos2=NN	22	compound	_	B-FAC
+22	Night	night	NNP	pos2=NN	24	compound	_	I-FAC
+23	Market	market	NNP	pos2=NN	24	compound	_	L-FAC
+24	@googleearth	@googleearth	NNP	pos2=.	20	dobj	_	O
+

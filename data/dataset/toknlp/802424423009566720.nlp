@@ -1,0 +1,15 @@
+1	Social	social	NNP	pos2=JJ	2	compound	_	B-ORG
+2	Security	security	NNP	_	3	nsubj	_	L-ORG
+3	has	have	VBZ	_	5	aux	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	covered	cover	VBN	pos2=VBD	0	root	_	O
+6	when	when	WRB	_	7	advmod	_	O
+7	traveling	travel	VBG	_	5	advcl	_	O
+8	-	-	:	pos2=HYPH	13	punct	_	O
+9	Las	las	NNP	_	10	compound	_	B-ORG
+10	Cruces	crux	NNP	_	13	compound	_	I-ORG
+11	Sun	sun	NNP	_	13	compound	_	I-ORG
+12	-	-	HYPH	pos2=GW	13	punct	_	I-ORG
+13	News	news	NNP	_	14	nmod	_	L-ORG
+14	https://t.co/iJVrR3jp2U	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,15 @@
+1	10	0	CD	_	2	nmod	_	B-DATE
+2	years	year	NNS	_	3	npadvmod	_	I-DATE
+3	later	later	RB	_	12	advmod	_	L-DATE
+4	:	:	:	_	5	punct	_	O
+5	Fiancée	fiancée	NN	pos2=NNP	12	nsubj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	NYPD	nypd	NN	pos2=NNP	8	compound	_	U-ORG
+8	shooting	shooting	NN	pos2=VBG	9	compound	_	O
+9	victim	victim	NN	_	6	pobj	_	O
+10	Sean	sean	NNP	_	11	compound	_	B-PERSON
+11	Bell	bell	NNP	_	12	nsubj	_	L-PERSON
+12	speaks	speak	VBZ	_	0	root	_	O
+13	https://t.co/aYXvl7MiRu#news	#hlink#	ADD	pos2=NNP	12	dobj	_	U-ORG
+14	#BlackLivesMatter	#blacklivesmatter	-RRB-	pos2=ADD	12	punct	_	U-LANGUAGE
+

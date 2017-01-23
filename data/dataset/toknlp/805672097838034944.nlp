@@ -1,0 +1,14 @@
+1	Four	#crd#	CD	_	2	nmod	_	U-CARDINAL
+2	firms	firm	NNS	_	3	nsubj	_	O
+3	propose	propose	VBP	pos2=VB	0	root	_	O
+4	medical	medical	JJ	_	6	nmod	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	marijuana	marijuana	NN	_	7	compound	_	O
+7	dispensaries	dispensary	NNS	_	3	dobj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	Lynn	lynn	NNP	_	11	compound	_	B-ORG
+10	-	-	HYPH	pos2=,	11	punct	_	I-ORG
+11	Daily	daily	NNP	pos2=JJ	12	compound	_	L-ORG
+12	Item	item	NN	pos2=GW	8	pobj	_	O
+13	https://t.co/fDO8MPmStw	#hlink#	ADD	_	12	appos	_	U-ORG
+

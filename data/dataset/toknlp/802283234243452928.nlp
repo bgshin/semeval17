@@ -1,0 +1,22 @@
+1	@SimonMaxfield8	@simonmaxfield0	NN	pos2=NNS	2	compound	_	B-PERSON
+2	@ZackPolanski	@zackpolanski	NNP	pos2=ADD	5	nsubj	_	L-PERSON
+3	@robgarde	@robgarde	IN	pos2=POS	2	prep	_	O
+4	Khaki	khaki	NNP	_	3	pobj	_	U-ORG
+5	is	be	VBZ	_	0	root	_	O
+6	not	not	RB	_	5	neg	_	O
+7	a	a	DT	_	9	det	_	O
+8	good	good	JJ	_	9	nmod	_	O
+9	colour	colour	NN	_	5	attr	_	O
+10	on	on	IN	_	9	prep	_	O
+11	me	me	PRP	_	10	pobj	_	O
+12	,	,	,	_	9	punct	_	O
+13	mind	mind	NN	pos2=VB	18	npadvmod	_	O
+14	you	you	PRP	pos2=IN	19	nsubj	_	O
+15	Kim	kim	NNP	_	17	compound	_	B-PERSON
+16	Jong	jong	NNP	_	17	compound	_	L-PERSON
+17	Un	un	NNP	_	18	nsubj	_	O
+18	looks	look	VBZ	_	5	conj	_	O
+19	great	great	JJ	_	18	acomp	_	O
+20	in	in	IN	_	18	prep	_	O
+21	it	it	PRP	_	20	pobj	_	O
+

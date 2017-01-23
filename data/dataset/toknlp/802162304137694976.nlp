@@ -1,0 +1,18 @@
+1	Currently	currently	RB	_	2	advmod	_	O
+2	going	go	VBG	_	0	root	_	O
+3	viral	viral	JJ	_	2	acomp	_	O
+4	with	with	IN	_	2	prep	_	O
+5	my	my	PRP$	_	6	poss	_	O
+6	brother	brother	NN	_	4	pobj	_	O
+7	about	about	IN	_	6	prep	_	O
+8	our	our	PRP$	_	9	poss	_	O
+9	story	story	NN	_	7	pobj	_	O
+10	and	and	CC	_	9	cc	_	O
+11	#HATCHIMALS	#hatchimals	NNS	pos2=VBZ	9	conj	_	O
+12	TODAYshow	todayshow	NNP	pos2=,	13	compound	_	U-ORG
+13	Thankyou	thankyou	NN	pos2=NNP	9	npadvmod	_	O
+14	for	for	IN	_	13	prep	_	O
+15	the	the	DT	_	16	det	_	O
+16	shoutout	shoutout	NN	_	14	pobj	_	O
+17	!	!	.	_	2	punct	_	O
+

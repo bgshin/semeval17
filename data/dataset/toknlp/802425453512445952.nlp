@@ -1,0 +1,27 @@
+1	@SLandinSoCal	@slandinsocal	JJ	pos2=ADD	4	nmod	_	O
+2	@OathKeeper101	@oathkeeper0	NN	pos2=CD	4	compound	_	O
+3	st	st	NN	pos2=UH	4	compound	_	O
+4	@wfnx1990	@wfnx0	NN	pos2=VBP	0	root	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	hear	hear	VBP	_	4	relcl	_	O
+7	Liberalism	liberalism	NNP	pos2=NN	8	nsubj	_	O
+8	is	be	VBZ	_	6	ccomp	_	O
+9	a	a	DT	_	11	det	_	O
+10	mental	mental	JJ	_	11	nmod	_	O
+11	virus	virus	NN	_	8	attr	_	O
+12	w	w	IN	pos2=RB	8	prep	_	O
+13	/	/	HYPH	pos2=SYM	12	punct	_	O
+14	no	no	DT	_	15	det	_	O
+15	cure	cure	NN	_	12	pobj	_	O
+16	yet	yet	RB	_	8	advmod	_	O
+17	.	.	.	_	4	punct	_	O
+
+1	We	we	PRP	_	5	nsubj	_	O
+2	certainly	certainly	RB	_	5	advmod	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	want	want	VB	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	infect	infect	VB	_	5	xcomp	_	O
+8	conservatives	conservative	NNS	_	7	dobj	_	O
+

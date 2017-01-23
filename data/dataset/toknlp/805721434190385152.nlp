@@ -1,0 +1,14 @@
+1	#fidel	#fidel	UH	pos2=PRP	4	poss	_	O
+2	’s	's	POS	pos2=VBZ	1	case	_	O
+3	Ignoble	ignoble	JJ	pos2=NNP	4	nmod	_	O
+4	Exit	exit	NNP	pos2=NN	13	nsubj	_	U-ORG
+5	and	and	CC	_	4	cc	_	O
+6	A	a	DT	pos2=GW	8	det	_	O
+7	#Drink	#drink	NNP	pos2=GW	8	compound	_	O
+8	Suggestion	suggestion	NN	pos2=GW	4	conj	_	O
+9	https://t.co/QXv8ZmKeAq	#hlink#	ADD	pos2=NN	8	acl	_	O
+10	via	via	IN	_	4	prep	_	O
+11	@FatherZ	@fatherz	NNP	pos2=ADD	12	compound	_	B-ORG
+12	#Cuba	#cuba	NNP	pos2=XX	10	pobj	_	L-ORG
+13	#castro	#castro	UH	pos2=ADD	0	root	_	O
+

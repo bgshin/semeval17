@@ -1,0 +1,20 @@
+1	You	you	PRP	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	recognize	recognize	VB	_	0	root	_	O
+4	alt	alt	NN	pos2=JJ	6	compound	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	rightists	rightist	NNS	_	3	dobj	_	O
+7	because	because	IN	_	11	mark	_	O
+8	they	they	PRP	pos2=PRP$	11	nsubj	_	O
+9	dual	dual	JJ	pos2=VBP	11	advmod	_	O
+10	-	-	HYPH	_	11	punct	_	O
+11	wield	wield	VB	pos2=VBP	3	advcl	_	O
+12	off	off	RB	pos2=IN	14	advmod	_	O
+13	-	-	HYPH	pos2=:	14	punct	_	O
+14	red	red	JJ	_	19	nmod	_	O
+15	and	and	CC	_	14	cc	_	O
+16	off	off	IN	pos2=RB	18	advmod	_	O
+17	-	-	HYPH	pos2=:	18	punct	_	O
+18	orange	orange	JJ	pos2=NN	14	conj	_	O
+19	sabers	saber	NNS	_	11	dobj	_	O
+

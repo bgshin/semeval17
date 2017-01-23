@@ -1,0 +1,26 @@
+1	With	with	IN	_	15	prep	_	O
+2	the	the	DT	_	3	det	_	O
+3	levels	level	NNS	_	1	pobj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	crazy	crazy	JJ	_	4	pobj	_	O
+6	,	,	,	_	5	punct	_	O
+7	incompetence	incompetence	NN	_	5	conj	_	O
+8	and	and	CC	_	7	cc	_	O
+9	incompatibility	incompatibility	NN	_	7	conj	_	O
+10	in	in	IN	_	7	prep	_	O
+11	Trump	trump	NNP	pos2=NN	13	poss	_	U-ORG
+12	's	's	POS	_	11	case	_	O
+13	cabinet	cabinet	NN	_	10	pobj	_	O
+14	,	,	,	_	15	punct	_	O
+15	is	be	VBZ	_	0	root	_	O
+16	there	there	EX	_	15	expl	_	O
+17	a	a	DT	_	18	det	_	O
+18	chance	chance	NN	_	15	attr	_	O
+19	the	the	DT	_	20	det	_	O
+20	wheels	wheel	NNS	_	22	nsubj	_	O
+21	will	will	MD	_	22	aux	_	O
+22	fall	fall	VB	_	18	acl	_	O
+23	off	off	RP	pos2=RB	22	prt	_	O
+24	immediately	immediately	RB	_	22	advmod	_	O
+25	?	?	.	_	15	punct	_	O
+

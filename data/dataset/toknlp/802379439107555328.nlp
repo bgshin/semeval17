@@ -1,0 +1,18 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@WRFARadio	@wrfaradio	NN	pos2=DT	2	compound	_	O
+2	Playlist	playlist	NN	_	0	root	_	O
+3	:	:	:	_	2	punct	_	O
+4	Bob	bob	NNP	_	5	compound	_	B-PERSON
+5	Dylan	dylan	NNP	_	0	root	_	L-PERSON
+6	—	-	,	pos2=HYPH	5	punct	_	O
+7	Like	like	NNP	pos2=IN	10	compound	_	O
+8	A	a	NNP	pos2=DT	10	compound	_	O
+9	Rolling	rolling	NNP	pos2=VBG	10	compound	_	O
+10	Stone	stone	NNP	_	5	appos	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	Streaming	stream	VBG	_	0	root	_	O
+2	at	at	IN	_	1	prep	_	O
+3	https://t.co/nwsz5myNnL	#hlink#	ADD	_	2	pobj	_	U-ORG
+

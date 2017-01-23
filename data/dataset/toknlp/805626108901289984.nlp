@@ -1,0 +1,26 @@
+1	@realdonaldtrump	@realdonaldtrump	UH	pos2=MD	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	have	have	VBP	_	0	root	_	O
+4	nearly	nearly	RB	_	5	advmod	_	B-CARDINAL
+5	30	0	CD	_	7	nmod	_	L-CARDINAL
+6	health	health	NN	_	7	compound	_	O
+7	problems	problem	NNS	_	3	dobj	_	O
+8	wrong	wrong	JJ	pos2=RB	7	nmod	_	O
+9	with	with	IN	_	8	prep	_	O
+10	me	me	PRP	_	9	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	why	why	WRB	_	5	advmod	_	O
+4	I	I	PRP	pos2=CD	5	nsubj	_	O
+5	request	request	VBP	_	2	ccomp	_	O
+6	legalizing	legalize	VBG	_	5	xcomp	_	O
+7	medical	medical	JJ	_	8	nmod	_	O
+8	marijuana	marijuana	NN	_	6	dobj	_	O
+9	for	for	IN	_	6	prep	_	O
+10	patients	patient	NNS	_	9	pobj	_	O
+11	like	like	IN	_	10	prep	_	O
+12	me	me	PRP	_	11	pobj	_	O
+13	.	.	.	_	2	punct	_	O
+

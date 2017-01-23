@@ -1,0 +1,29 @@
+1	Beyond	beyond	IN	_	5	prep	_	O
+2	these	these	DT	_	1	pobj	_	O
+3	,	,	,	_	5	punct	_	O
+4	#Trudeau	#trudeau	NNP	pos2=PRP	5	nsubj	_	U-ORG
+5	has	have	VBZ	_	0	root	_	O
+6	the	the	DT	_	11	det	_	O
+7	same	same	JJ	_	11	nmod	_	O
+8	old	old	JJ	_	10	advmod	_	O
+9	-	-	HYPH	_	10	punct	_	O
+10	fashioned	fashioned	JJ	_	11	nmod	_	O
+11	approach	approach	NN	_	5	dobj	_	O
+12	to	to	IN	_	11	prep	_	O
+13	terrorism	terrorism	NN	_	12	pobj	_	O
+14	&	&	CC	_	5	cc	_	O
+15	supports	support	VBZ	_	5	conj	_	O
+16	the	the	DT	_	20	det	_	O
+17	ecologically	ecologically	RB	_	18	advmod	_	O
+18	disastrous	disastrous	JJ	_	20	nmod	_	O
+19	#	#	NN	_	20	compound	_	O
+20	TPP	tpp	NN	pos2=NNP	15	dobj	_	O
+21	.	.	.	_	5	punct	_	O
+
+1	https	http	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	//	//	NFP	pos2=-LRB-	6	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	QnabnbRZyr	qnabnbrzyr	NN	pos2=ADD	0	root	_	O
+

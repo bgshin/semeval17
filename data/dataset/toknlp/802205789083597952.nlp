@@ -1,0 +1,18 @@
+1	New	new	JJ	pos2=NNP	2	nmod	_	O
+2	Data	datum	NNS	pos2=NNP	10	nsubj	_	O
+3	On	on	IN	_	2	prep	_	O
+4	Israeli	israeli	JJ	_	5	nmod	_	U-NORP
+5	Offensive	offensive	NNP	pos2=NN	3	pobj	_	B-ORG
+6	On	on	IN	_	2	prep	_	I-ORG
+7	Gaza	gaza	NNP	_	9	compound	_	I-ORG
+8	Shows	shows	NNP	pos2=VBZ	9	compound	_	I-ORG
+9	Victims	victim	NNPS	pos2=NNS	6	pobj	_	L-ORG
+10	Were	be	VBD	pos2=NNP	0	root	_	O
+11	Overwhelmingly	overwhelmingly	RB	_	10	advmod	_	O
+12	Civilian	civilian	JJ	_	10	acomp	_	O
+13	https://t.co/Qa17AEluLV	#hlink#	ADD	pos2=NNPS	17	nmod	_	O
+14	#gaza	#gaza	-RRB-	pos2=IN	13	punct	_	O
+15	#palestine	#palestine	UH	pos2=PRP	10	discourse	_	O
+16	#israel	#israel	UH	pos2=VB	17	discourse	_	O
+17	#BDS	#bds	NNS	pos2=UH	10	attr	_	O
+

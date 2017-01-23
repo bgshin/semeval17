@@ -1,0 +1,24 @@
+1	@realDonaldTrump	@realdonaldtrump	IN	pos2=ADD	3	mark	_	O
+2	YOU	you	PRP	_	3	nsubj	_	O
+3	BROKE	break	VBD	pos2=VBP	0	root	_	O
+4	THE	the	DT	_	7	det	_	O
+5	US	us	NNP	_	6	compound	_	U-GPE
+6	TRADE	trade	NN	pos2=NNP	7	compound	_	O
+7	EMBARGO	embargo	NNP	pos2=NN	3	dobj	_	U-GPE
+8	WITH	with	IN	_	7	prep	_	O
+9	CUBA	cuba	NNP	_	8	pobj	_	U-GPE
+10	AND	and	CC	pos2=NNP	3	cc	_	O
+11	BRAGGED	brag	VBD	pos2=VBN	3	conj	_	O
+12	ABOUT	about	IN	_	11	prep	_	O
+13	IT	it	PRP	_	12	pobj	_	O
+14	?!!!	?!!	.	_	13	neg	_	O
+
+1	What	what	WP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	wrong	wrong	JJ	_	2	acomp	_	O
+4	with	with	IN	_	3	prep	_	O
+5	you	you	PRP	_	4	pobj	_	O
+6	?	?	.	_	2	punct	_	O
+
+1	#trumpthecrook	#trumpthecrook	UH	pos2=VB	0	root	_	O
+

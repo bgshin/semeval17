@@ -1,0 +1,18 @@
+1	Mr	mr	NNP	pos2=PRP	2	vocative	_	O
+2	Put	put	VB	pos2=VBD	11	advcl	_	O
+3	It	it	PRP	_	2	dobj	_	O
+4	Down	down	RP	pos2=RB	2	prt	_	O
+5	by	by	IN	_	2	prep	_	O
+6	Ricky	ricky	NNP	_	9	compound	_	B-PERSON
+7	Martin	martin	NNP	_	9	compound	_	L-PERSON
+8	Featuring	featuring	NNP	pos2=VBG	9	compound	_	O
+9	Pitbull	pitbull	NNP	_	5	pobj	_	O
+10	is	be	VBZ	_	11	aux	_	O
+11	#nowplaying	#nowplaying	VBG	_	0	root	_	O
+12	in	in	IN	_	11	prep	_	O
+13	Littledown	littledown	NNP	_	14	compound	_	B-GPE
+14	Centre	centre	NNP	_	12	pobj	_	L-GPE
+15	,	,	,	_	14	punct	_	O
+16	Bournemouth	bournemouth	NNP	_	14	npadvmod	_	U-GPE
+17	.	.	.	_	11	punct	_	O
+

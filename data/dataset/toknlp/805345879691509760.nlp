@@ -1,0 +1,12 @@
+1	@mak_down_under	@mak_down_under	IN	pos2=VB	6	prep	_	O
+2	what	what	WP	_	8	dobj	_	O
+3	do	do	VBP	pos2=PRP$	6	aux	_	O
+4	drone	drone	NN	_	5	compound	_	O
+5	strikes	strike	NNS	_	6	nsubj	_	O
+6	have	have	VBP	pos2=VB	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	do	do	VB	_	6	xcomp	_	O
+9	with	with	IN	_	8	prep	_	O
+10	Syria	syria	NNP	_	9	pobj	_	U-GPE
+11	?	?	.	_	6	punct	_	O
+

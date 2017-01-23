@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det	_	O
+2	word	word	NN	_	5	nsubjpass	_	O
+3	MUST	must	MD	pos2=NN	5	aux	_	O
+4	means	mean	VBZ	pos2=NNS	5	auxpass	_	O
+5	forced	force	VBN	_	0	root	_	O
+6	as	as	IN	pos2=RB	5	prep	_	O
+7	in	in	IN	pos2=PRP	6	prep	_	O
+8	have	have	VBP	pos2=XX	5	conj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	do	do	VB	_	8	xcomp	_	O
+11	it	it	PRP	_	10	dobj	_	O
+12	😈🐍🚽💩🐽	😈🐍🚽💩🐽	VB	pos2=:	10	prep	_	O
+13	so	so	RB	pos2=CC	15	advmod	_	O
+14	NOT	not	RB	_	15	neg	_	O
+15	sincere	sincere	JJ	_	12	acomp	_	O
+16	and	and	CC	_	5	cc	_	O
+17	from	from	IN	_	22	prep	_	O
+18	the	the	DT	_	19	det	_	O
+19	heart	heart	NN	_	17	pobj	_	O
+20	becuz	becuz	IN	pos2=RP	22	mark	_	O
+21	he	he	PRP	_	22	nsubj	_	O
+22	wants	want	VBZ	_	5	conj	_	O
+23	to	to	TO	pos2=IN	24	aux	_	O
+24	…	…	NFP	pos2=VB	22	xcomp	_	O
+25	https://t.co/XunKUY6vVn	#hlink#	ADD	_	12	dobj	_	O
+

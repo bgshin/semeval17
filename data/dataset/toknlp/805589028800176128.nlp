@@ -1,0 +1,26 @@
+1	@Okupuna	@okupuna	NNP	pos2=NNS	2	compound	_	O
+2	@CNN	@cnn	NNP	pos2=NN	0	root	_	O
+3	really	really	RB	_	2	advmod	_	O
+4	?	?	.	_	2	punct	_	O
+
+1	Illegal	illegal	JJ	_	2	nmod	_	O
+2	immigrants	immigrant	NNS	_	5	nsubj	_	O
+3	ca	can	MD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	vote	vote	VB	_	0	root	_	O
+6	without	without	IN	_	5	prep	_	O
+7	proper	proper	JJ	_	8	nmod	_	O
+8	identification	identification	NN	_	6	pobj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	a	a	DT	_	13	det	_	O
+11	Voter	voter	NNP	pos2=NN	13	compound	_	O
+12	Registration	registration	NN	pos2=NNP	13	compound	_	O
+13	card	card	NN	_	8	conj	_	O
+14	.	.	.	_	5	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	n't	not	RB	_	2	neg	_	O
+4	that	that	DT	pos2=RB	5	advmod	_	O
+5	smart	smart	JJ	_	2	acomp	_	O
+

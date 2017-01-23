@@ -1,0 +1,18 @@
+1	In	in	IN	_	10	prep	_	O
+2	the	the	DT	_	3	det	_	O
+3	wake	wake	NN	_	1	pobj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	Casey	casey	NNP	_	7	compound	_	U-PERSON
+7	review	review	NN	_	4	pobj	_	O
+8	we	we	PRP	_	10	nsubj	_	O
+9	must	must	MD	_	10	aux	_	O
+10	consider	consider	VB	_	0	root	_	O
+11	how	how	WRB	_	12	advmod	_	O
+12	hostile	hostile	JJ	_	14	nmod	_	O
+13	immigration	immigration	NN	_	14	compound	_	O
+14	policies	policy	NNS	_	15	nsubj	_	O
+15	hinder	hinder	VBP	pos2=WDT	10	ccomp	_	O
+16	integration	integration	NN	_	15	dobj	_	O
+17	https://t.co/jqVqIrI5kq	#hlink#	ADD	pos2=NN	13	appos	_	O
+

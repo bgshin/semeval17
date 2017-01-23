@@ -1,0 +1,20 @@
+1	@ricky_martin	@ricky_martin	NNP	pos2=UH	2	compound	_	O
+2	@TheEllenShow	@theellenshow	NNP	pos2=ADD	6	nsubjpass	_	O
+3	May	may	MD	pos2=NNP	6	aux	_	O
+4	u	u	PRP	pos2=-RRB-	6	nsubjpass	_	O
+5	be	be	VB	_	6	auxpass	_	O
+6	blessed	bless	VBN	pos2=JJ	0	root	_	O
+7	with	with	IN	_	6	prep	_	O
+8	all	all	PDT	_	10	predet	_	O
+9	the	the	DT	_	10	det	_	O
+10	happiness	happiness	NN	_	7	pobj	_	O
+11	which	which	WDT	_	14	nsubj	_	O
+12	would	would	MD	_	14	aux	_	O
+13	always	always	RB	_	14	advmod	_	O
+14	elude	elude	VB	_	10	relcl	_	O
+15	my	my	PRP$	_	16	poss	_	O
+16	life	life	NN	_	14	dobj	_	O
+17	.	.	.	_	6	punct	_	O
+
+1	#TrueHero	#truehero	ADD	pos2=XX	0	root	_	U-CARDINAL
+

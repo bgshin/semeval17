@@ -1,0 +1,17 @@
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=ADD	2	nsubj	_	O
+2	has	have	VBZ	_	0	root	_	O
+3	more	more	JJR	_	5	qmod	_	B-CARDINAL
+4	than	than	IN	_	5	qmod	_	I-CARDINAL
+5	75	0	CD	_	6	nmod	_	L-CARDINAL
+6	lawsuits	lawsuit	NNS	_	2	dobj	_	O
+7	underway	underway	JJ	pos2=RB	6	nmod	_	O
+8	against	against	IN	_	7	prep	_	O
+9	him	him	PRP	_	8	pobj	_	O
+10	right	right	RB	_	11	advmod	_	O
+11	now	now	RB	_	2	advmod	_	O
+12	#notmypresident	#notmypresident	NNP	pos2=IN	13	compound	_	O
+13	Americans	american	NNPS	_	14	nsubj	_	U-NORP
+14	deserve	deserve	VBP	pos2=VB	2	conj	_	O
+15	better	good	JJR	pos2=RBR	14	advmod	_	O
+16	#StillWithHer	#stillwithher	.	pos2=ADD	14	punct	_	O
+

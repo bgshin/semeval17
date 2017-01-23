@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det	_	O
+2	Globalists	globalist	NNS	pos2=NNPS	3	nsubj	_	O
+3	want	want	VBP	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	demolish	demolish	VB	_	3	xcomp	_	O
+6	States	state	NNP	pos2=NNPS	7	compound	_	O
+7	Rights	right	NNS	pos2=NNPS	5	dobj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	Without	without	IN	_	14	prep	_	O
+2	the	the	DT	_	4	det	_	B-ORG
+3	Electoral	electoral	NNP	_	4	compound	_	I-ORG
+4	College	college	NNP	_	1	pobj	_	L-ORG
+5	almost	almost	RB	_	6	advmod	_	O
+6	all	all	DT	_	1	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	States	state	NNP	pos2=NNPS	7	pobj	_	U-GPE
+10	will	will	MD	_	14	dep	_	O
+11	no	no	DT	pos2=VB	12	det	_	O
+12	longe	longe	NN	pos2=JJ	14	dep	_	O
+13	…	…	NFP	pos2=-LRB-	14	punct	_	O
+14	https://t.co/esCriDaZKk	#hlink#	ADD	_	0	root	_	O
+

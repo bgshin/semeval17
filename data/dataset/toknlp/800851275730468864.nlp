@@ -1,0 +1,27 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	O
+2	@summerbrennan	@summerbrennan	NN	pos2=NNS	7	dep	_	O
+3	:	:	:	_	7	punct	_	O
+4	They	they	PRP	_	7	nsubj	_	O
+5	are	be	VBP	_	7	aux	_	O
+6	literally	literally	RB	_	7	advmod	_	O
+7	doing	do	VBG	_	0	root	_	O
+8	the	the	DT	_	10	det	_	O
+9	Nazi	nazi	NNP	pos2=JJ	10	compound	_	U-NORP
+10	thing	thing	NN	_	7	dobj	_	O
+11	,	,	,	_	7	punct	_	O
+12	@thehill	@thehill	UH	pos2=RB	7	discourse	_	O
+13	.	.	.	_	7	punct	_	O
+
+1	Stop	stop	VB	pos2=NN	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Saying	say	VBG	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Alt	alt	JJ	pos2=NN	3	advmod	_	O
+2	-	-	HYPH	pos2=:	3	punct	_	O
+3	Right	right	JJ	pos2=UH	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	https://t.co/QSm4TQuzme	#hlink#	ADD	_	0	root	_	U-ORG
+

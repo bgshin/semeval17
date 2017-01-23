@@ -1,0 +1,17 @@
+1	@realDonaldTrump	@realdonaldtrump	UH	pos2=NN	6	discourse	_	O
+2	,	,	,	_	6	punct	_	O
+3	only	only	RB	_	4	advmod	_	O
+4	you	you	PRP	_	6	nsubj	_	O
+5	can	can	MD	_	6	aux	_	O
+6	stop	stop	VB	_	0	root	_	O
+7	politics	politics	NNS	pos2=RB	6	dobj	_	O
+8	-	-	HYPH	pos2=:	7	punct	_	O
+9	as	as	IN	pos2=RB	7	prep	_	O
+10	-	-	HYPH	_	9	punct	_	O
+11	usual	usual	JJ	_	9	pcomp	_	O
+12	.	.	.	_	6	punct	_	O
+
+1	#DrainTheSwamp	#draintheswamp	GW	pos2=XX	3	nmod	_	O
+2	#MAGA	#maga	GW	pos2=NFP	3	nmod	_	O
+3	https://t.co/wOEKuIe32u	#hlink#	ADD	pos2=NN	0	root	_	O
+

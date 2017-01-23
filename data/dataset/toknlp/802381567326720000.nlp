@@ -1,0 +1,21 @@
+1	That	that	IN	pos2=DT	7	mark	_	O
+2	Children	child	NNS	pos2=NNP	7	nsubjpass	_	O
+3	and	and	CC	_	2	cc	_	O
+4	Families	family	NNS	pos2=NNPS	2	conj	_	O
+5	Were	be	VBD	_	7	aux	_	O
+6	F-ing	f-ing	VBG	pos2=NNP	7	auxpass	_	O
+7	Forced	force	VBN	_	0	root	_	O
+8	On	on	IN	_	7	prep	_	O
+9	Your	your	PRP$	pos2=NNP	10	poss	_	O
+10	Lies	lie	NNS	pos2=NNP	8	pobj	_	O
+11	Of	of	IN	_	10	prep	_	O
+12	Obamacare	obamacare	NNP	_	11	pobj	_	U-ORG
+13	,	,	,	_	7	punct	_	O
+14	For	for	IN	_	7	prep	_	O
+15	Slavery	slavery	NNP	pos2=NN	14	pobj	_	O
+16	For	for	IN	_	7	prep	_	O
+17	Your	your	PRP$	pos2=NNP	20	poss	_	O
+18	Damned	damned	NNP	_	20	compound	_	O
+19	Opium	opium	NNP	pos2=NN	20	compound	_	O
+20	Trade	trade	NNP	pos2=NN	16	pobj	_	O
+

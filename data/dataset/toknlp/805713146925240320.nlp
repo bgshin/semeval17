@@ -1,0 +1,21 @@
+1	Embargo	embargo	NN	pos2=NNP	4	nsubj	_	O
+2	on	on	IN	_	1	prep	_	O
+3	pesticides	pesticide	NNS	_	2	pobj	_	O
+4	means	mean	VBZ	_	0	root	_	O
+5	that	that	IN	pos2=DT	8	mark	_	O
+6	organic	organic	JJ	_	7	nmod	_	O
+7	honey	honey	NN	_	8	nsubj	_	O
+8	is	be	VBZ	_	4	ccomp	_	O
+9	a	a	DT	_	11	det	_	O
+10	big	big	JJ	_	11	nmod	_	O
+11	export	export	NN	_	8	attr	_	O
+12	for	for	IN	_	11	prep	_	O
+13	Cuba	cuba	NNP	_	12	pobj	_	U-GPE
+14	,	,	,	_	8	punct	_	O
+15	while	while	IN	_	19	mark	_	O
+16	our	our	PRP$	_	18	poss	_	O
+17	bee	bee	NN	_	18	compound	_	O
+18	populations	population	NNS	_	19	nsubj	_	O
+19	suffer	suffer	VBP	pos2=VB	8	advcl	_	O
+20	https://t.co/r7ZR64Tn2u	#hlink#	ADD	pos2=NN	19	dobj	_	O
+

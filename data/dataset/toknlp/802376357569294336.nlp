@@ -1,0 +1,21 @@
+1	Republicans	republican	NNPS	pos2=NNS	3	nsubj	_	U-NORP
+2	have	have	VBP	_	3	aux	_	O
+3	created	create	VBN	_	0	root	_	O
+4	replacements	replacement	NNS	_	3	dobj	_	O
+5	for	for	IN	_	4	prep	_	O
+6	Soros	soros	NNP	_	10	nmod	_	B-ORG
+7	/	/	SYM	_	10	punct	_	I-ORG
+8	Clinton	clinton	NNP	_	10	compound	_	I-ORG
+9	Nazi	nazi	NNP	_	10	compound	_	I-ORG
+10	ObamaHealthcare	obamahealthcare	NNP	_	5	pobj	_	L-ORG
+11	but	but	CC	_	3	cc	_	O
+12	it	it	PRP	_	16	nsubj	_	O
+13	would	would	MD	_	16	aux	_	O
+14	have	have	VB	_	16	aux	_	O
+15	never	never	RB	_	16	neg	_	O
+16	seen	see	VBN	_	3	conj	_	O
+17	the	the	DT	_	16	advmod	_	O
+18	...	..	.	pos2=,	16	punct	_	O
+
+1	https://t.co/Wi5EUlAsRM	#hlink#	ADD	_	0	root	_	U-ORG
+

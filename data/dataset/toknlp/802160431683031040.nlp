@@ -1,0 +1,18 @@
+1	Today	today	NN	pos2=NNP	2	nsubj	_	U-DATE
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	International	international	NNP	_	5	compound	_	O
+5	Day	day	NNP	pos2=NN	2	attr	_	O
+6	for	for	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	Elimination	elimination	NNP	pos2=NN	6	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	Violence	violence	NNP	pos2=NN	9	pobj	_	O
+11	Against	against	IN	pos2=NNP	8	prep	_	O
+12	Women	woman	NNPS	pos2=NNP	14	poss	_	O
+13	#orangetheworld	#orangetheworld	POS	pos2=MD	12	case	_	O
+14	#UnitedNations	#unitednations	NNS	pos2=NNPS	11	pobj	_	O
+15	#unodc	#unodc	GW	pos2=VBP	17	nmod	_	O
+16	…	…	NFP	pos2=GW	17	punct	_	O
+17	https://t.co/uYqCTTtUFj	#hlink#	ADD	pos2=NN	2	dep	_	O
+

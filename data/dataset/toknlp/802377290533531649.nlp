@@ -1,0 +1,31 @@
+1	Yup	yup	UH	pos2=NNP	0	root	_	O
+2	.....	..	.	pos2=,	1	punct	_	O
+
+1	its	its	PRP$	_	2	poss	_	O
+2	alrwady	alrwady	NN	pos2=JJ	3	nsubj	_	O
+3	starting	start	VBG	pos2=NN	0	root	_	O
+4	...	..	.	pos2=,	3	punct	_	O
+
+1	Medicare	medicare	NNP	pos2=NN	3	nsubj	_	U-ORG
+2	will	will	MD	_	3	aux	_	O
+3	end	end	VB	_	0	root	_	O
+4	..	..	.	pos2=NFP	3	punct	_	O
+
+1	then	then	RB	_	5	advmod	_	O
+2	ss	ss	NN	pos2=UH	5	nsubjpass	_	O
+3	will	will	MD	_	5	aux	_	O
+4	be	be	VB	_	5	auxpass	_	O
+5	cutHope	cuthope	VBN	pos2=``	0	root	_	O
+6	all	all	DT	_	7	det	_	O
+7	seniors	senior	NNS	_	5	dobj	_	O
+8	who	who	WP	_	9	nsubj	_	O
+9	voted	vote	VBD	_	7	relcl	_	O
+10	for	for	IN	_	9	prep	_	O
+11	trump	trump	NN	_	10	pobj	_	O
+12	..	..	.	_	5	punct	_	O
+
+1	are	be	VBP	_	0	root	_	O
+2	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/erqXIYhuMU	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,24 @@
+1	LOL	lol	UH	pos2=NN	5	discourse	_	O
+2	--	--	:	pos2=.	5	punct	_	O
+3	>	>	``	pos2=SYM	5	punct	_	O
+4	China	china	NNP	_	5	compound	_	O
+5	Censors	censor	NNPS	pos2=NNP	8	poss	_	O
+6	‘	'	POS	pos2=''	5	case	_	O
+7	Kim	kim	NNP	_	8	compound	_	B-PERSON
+8	Fatty	fatty	NNP	pos2=VBD	13	nmod	_	L-PERSON
+9	the	the	DT	_	10	det	_	O
+10	Third	#ord#	NNP	pos2=JJ	8	appos	_	U-ORDINAL
+11	’	'	``	pos2=''	13	punct	_	O
+12	From	from	IN	_	16	nmod	_	O
+13	Search	search	NNP	pos2=NN	14	compound	_	O
+14	Results	result	NNS	pos2=NNP	12	pobj	_	O
+15	After	after	IN	_	17	prt	_	O
+16	North	north	NNP	_	15	pobj	_	U-PERSON
+17	...	..	.	pos2=,	0	root	_	O
+
+1	https://t.co/zlKFNnDqDU	#hlink#	ADD	pos2=NN	0	root	_	O
+2	by	by	IN	_	1	prep	_	O
+3	#prchovanec	#prchovanec	NNP	pos2=NNS	2	pobj	_	U-ORG
+4	via	via	IN	_	1	prep	_	O
+5	@c0nvey	@c0nvey	NNP	pos2=CD	4	pobj	_	O
+

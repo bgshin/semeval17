@@ -1,0 +1,20 @@
+1	@Morning_Joe	@morning_joe	NN	pos2=ADD	6	dep	_	O
+2	and	and	CC	_	1	cc	_	O
+3	Michael	michael	NNP	_	4	compound	_	B-PERSON
+4	Moore	moore	NNP	_	1	conj	_	L-PERSON
+5	in	in	IN	_	1	prep	_	O
+6	a	a	DT	_	7	qmod	_	O
+7	45	0	CD	_	8	nmod	_	B-QUANTITY
+8	min	min	NN	pos2=XX	9	npadvmod	_	L-QUANTITY
+9	wide	wide	JJ	pos2=RB	11	advmod	_	O
+10	-	-	HYPH	pos2=:	11	punct	_	O
+11	ranging	range	VBG	_	15	advmod	_	O
+12	,	,	,	_	11	punct	_	O
+13	civil	civil	JJ	_	17	nmod	_	O
+14	and	and	CC	_	13	cc	_	O
+15	informative	informative	JJ	_	13	conj	_	O
+16	election	election	NN	_	17	compound	_	O
+17	talk	talk	NN	pos2=VB	0	root	_	O
+18	via	via	IN	_	17	prep	_	O
+19	@msnbc	@msnbc	NN	pos2=.	18	pobj	_	O
+

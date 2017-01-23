@@ -1,0 +1,26 @@
+1	Abby	abby	NNP	_	3	nsubj	_	U-PERSON
+2	*	*	SYM	pos2=NFP	3	punct	_	O
+3	talking	talk	VBG	_	11	ccomp	_	O
+4	about	about	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	Hamilton	hamilton	NNP	_	7	compound	_	U-PERSON
+7	soundtrack	soundtrack	NN	_	4	pobj	_	O
+8	"	"	''	pos2=``	3	punct	_	O
+9	:	:	:	_	11	punct	_	O
+10	I	I	PRP	_	11	nsubj	_	O
+11	heard	hear	VBD	_	0	root	_	O
+12	Zac	zac	NNP	_	13	compound	_	B-PERSON
+13	Efron	efron	NNP	_	14	nsubj	_	L-PERSON
+14	had	have	VBD	_	11	ccomp	_	O
+15	to	to	TO	_	16	aux	_	O
+16	wait	wait	VB	_	14	xcomp	_	O
+17	like	like	IN	pos2=UH	16	discourse	_	B-DATE
+18	8	0	CD	_	19	nmod	_	I-DATE
+19	months	month	NNS	_	24	dep	_	L-DATE
+20	to	to	TO	_	21	aux	_	O
+21	get	get	VB	_	16	advcl	_	O
+22	tickets	ticket	NNS	_	21	dobj	_	O
+23	,	,	,	_	24	punct	_	O
+24	imagine	imagine	VB	_	21	conj	_	O
+25	me	me	PRP	_	24	dobj	_	O
+

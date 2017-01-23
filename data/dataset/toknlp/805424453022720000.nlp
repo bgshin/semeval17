@@ -1,0 +1,11 @@
+1	#British	#british	JJ	pos2=NN	2	nmod	_	O
+2	firms	firm	NNS	_	3	nsubj	_	O
+3	warned	warn	VBD	pos2=VBN	0	root	_	O
+4	of	of	IN	_	3	prep	_	O
+5	#ISIS	#isis	NNP	pos2=NN	8	nmod	_	U-ORG
+6	chemical	chemical	JJ	pos2=NN	8	nmod	_	O
+7	#drone	#drone	NN	pos2=GW	8	compound	_	O
+8	strikes	strike	NNS	pos2=VBZ	4	pobj	_	O
+9	https://t.co/KxeSGzCo33	#hlink#	ADD	_	10	nmod	_	O
+10	https://t.co/iCjC60HqIF	#hlink#	ADD	_	3	punct	_	U-ORG
+

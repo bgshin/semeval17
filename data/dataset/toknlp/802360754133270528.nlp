@@ -1,0 +1,21 @@
+1	What	what	WP	pos2=WDT	4	dobj	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	am	be	VBP	_	4	aux	_	O
+4	thinking	think	VBG	_	0	root	_	O
+5	on	on	IN	_	4	prep	_	O
+6	"	"	``	_	4	punct	_	O
+7	Trade	trade	NNP	pos2=NN	14	nmod	_	O
+8	and	and	CC	_	7	cc	_	O
+9	the	the	DT	_	12	det	_	O
+10	new	new	JJ	_	12	nmod	_	O
+11	Trump	trump	NNP	pos2=NN	12	compound	_	U-ORG
+12	administration	administration	NN	_	7	conj	_	O
+13	"	"	''	pos2=``	12	punct	_	O
+14	https://t.co/CmFvdnMqR3	#hlink#	ADD	_	20	nmod	_	B-ORG
+15	#Trade	#trade	NNP	pos2=-RRB-	16	compound	_	I-ORG
+16	#China	#china	NNP	pos2=-RRB-	20	dep	_	L-ORG
+17	#NAFTA	#nafta	GW	pos2=ADD	20	nmod	_	O
+18	#TPP	#tpp	GW	pos2=NFP	20	nmod	_	O
+19	…	…	NFP	pos2=GW	20	punct	_	O
+20	https://t.co/g1PpUkot3O	#hlink#	ADD	pos2=NN	5	pobj	_	O
+

@@ -1,0 +1,15 @@
+1	@jimmyfallon	@jimmyfallon	XX	pos2=UH	14	dep	_	O
+2	1.	0.	LS	pos2=CD	14	meta	_	U-CARDINAL
+3	Paris	paris	NNP	_	14	dep	_	O
+4	2.	0.	CD	pos2=LS	3	nmod	_	U-CARDINAL
+5	Luke	luke	NNP	_	9	compound	_	O
+6	3.	0.	NNP	pos2=CD	9	compound	_	O
+7	Kirk	kirk	NNP	_	9	compound	_	B-ORG
+8	4.	0.	NNP	pos2=POS	9	compound	_	I-ORG
+9	Babette	babette	NNP	_	14	dep	_	I-ORG
+10	&	&	CC	_	9	cc	_	I-ORG
+11	Miss	miss	NNP	_	13	compound	_	L-ORG
+12	Patty	patty	NNP	_	13	compound	_	B-PERSON
+13	#GilmoreGirlsTop4	#gilmoregirlstop0	NNP	pos2=ADD	9	conj	_	L-PERSON
+14	#GilmoreGirlsRevival	#gilmoregirlsrevival	ADD	pos2=NNP	0	root	_	O
+

@@ -1,0 +1,11 @@
+1	Is	be	VBZ	_	0	root	_	O
+2	leonard	leonard	JJ	pos2=VBN	3	nmod	_	O
+3	cohen	cohen	NN	pos2=NNP	1	nsubj	_	O
+4	the	the	DT	_	6	det	_	O
+5	joanna	joanna	NN	pos2=NNP	6	compound	_	O
+6	newsom	newsom	NN	pos2=NNP	3	appos	_	O
+7	for	for	IN	_	6	prep	_	O
+8	straight	straight	JJ	_	9	nmod	_	O
+9	men	man	NNS	pos2=NN	7	pobj	_	O
+10	.	.	.	_	1	punct	_	O
+

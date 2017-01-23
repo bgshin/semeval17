@@ -1,0 +1,19 @@
+1	@MaxDAWerePanda	@maxdawerepanda	NN	pos2=ADD	3	dep	_	O
+2	It	it	PRP	_	3	nsubj	_	O
+3	seems	seem	VBZ	_	0	root	_	O
+4	like	like	IN	_	3	prep	_	O
+5	it	it	PRP	_	4	pobj	_	O
+6	,	,	,	_	8	punct	_	O
+7	I	I	PRP	_	8	nsubj	_	O
+8	know	know	VBP	_	3	parataxis	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	#usa	#usa	UH	pos2=XX	8	discourse	_	O
+2	#racism	#racism	UH	pos2=NN	8	nmod	_	O
+3	#BlackLivesMatter	#blacklivesmatter	GW	pos2=UH	8	nmod	_	O
+4	#racematters	#racematters	UH	pos2=NNS	8	nmod	_	O
+5	#Equality	#equality	NNP	pos2=NN	8	nmod	_	U-PERSON
+6	#foundingfathers	#foundingfathers	GW	pos2=NNS	8	nmod	_	O
+7	…	…	NFP	pos2=GW	8	punct	_	O
+8	https://t.co/zZvn8O91LY	#hlink#	ADD	_	0	root	_	O
+

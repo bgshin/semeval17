@@ -1,0 +1,15 @@
+1	Black	black	NNP	pos2=JJ	2	compound	_	B-PERSON
+2	Friday	friday	NNP	_	0	root	_	L-PERSON
+3	,	,	,	_	6	punct	_	O
+4	Steve	steve	NNP	_	5	compound	_	B-PERSON
+5	Bannon	bannon	NNP	_	6	nsubj	_	L-PERSON
+6	yells	yell	VBZ	_	11	parataxis	_	O
+7	,	,	,	_	6	punct	_	O
+8	"	"	``	pos2=''	6	punct	_	O
+9	Not	not	RB	_	10	neg	_	O
+10	on	on	IN	_	0	root	_	O
+11	my	my	PRP$	_	12	poss	_	O
+12	watch	watch	NN	pos2=UH	10	pobj	_	O
+13	!	!	.	_	6	punct	_	O
+14	"	"	''	_	6	punct	_	O
+

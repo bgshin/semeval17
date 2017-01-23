@@ -1,0 +1,11 @@
+1	should	should	MD	_	7	aux	_	O
+2	medical	medical	JJ	pos2=VB	3	nmod	_	O
+3	marijuana	marijuana	NN	pos2=NNS	5	nmod	_	O
+4	/	/	SYM	pos2=,	5	punct	_	O
+5	cannabis	cannabis	NN	_	7	nsubjpass	_	O
+6	be	be	VB	_	7	auxpass	_	O
+7	legalized	legalize	VBN	pos2=JJ	10	nmod	_	O
+8	essay	essay	NN	pos2=GW	10	dep	_	O
+9	https://t.co/TQzKH7PHBC	#hlink#	ADD	_	10	nmod	_	O
+10	https://t.co/of21zRZBVH	#hlink#	ADD	_	0	root	_	U-ORG
+

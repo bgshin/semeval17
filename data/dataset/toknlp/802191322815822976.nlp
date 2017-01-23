@@ -1,0 +1,19 @@
+1	@ABFalecbaldwin	@abfalecbaldwin	NNP	pos2=NN	4	nsubj	_	O
+2	"	"	``	pos2=''	4	punct	_	O
+3	Trump	trump	NNP	pos2=NN	4	nsubj	_	U-ORG
+4	holds	hold	VBZ	_	0	root	_	O
+5	stock	stock	NN	_	4	dobj	_	O
+6	in	in	IN	_	4	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	company	company	NN	_	6	pobj	_	O
+9	building	build	VBG	_	8	acl	_	O
+10	the	the	DT	_	15	det	_	O
+11	disputed	dispute	VBN	pos2=JJ	15	nmod	_	O
+12	Dakota	dakota	NNP	_	13	compound	_	O
+13	Access	access	NNP	pos2=NN	15	compound	_	U-PRODUCT
+14	oil	oil	NN	_	15	compound	_	O
+15	pipeline	pipeline	NN	_	9	dobj	_	O
+16	…	…	NFP	pos2=,	4	punct	_	O
+17	"	"	``	pos2=''	4	punct	_	O
+18	https://t.co/EGU1BAhf28	#hlink#	ADD	pos2=NN	4	dobj	_	O
+

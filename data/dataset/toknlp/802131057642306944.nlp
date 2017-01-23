@@ -1,0 +1,12 @@
+1	Persona	persona	NN	_	2	compound	_	B-ORG
+2	5's	0's	NNS	pos2=POS	3	compound	_	L-ORG
+3	story	story	NN	_	0	root	_	O
+4	>	>	:	pos2=,	3	punct	_	B-WORK_OF_ART
+5	The	the	DT	_	6	det	_	I-WORK_OF_ART
+6	Last	last	JJ	pos2=NNP	3	appos	_	I-WORK_OF_ART
+7	of	of	IN	_	6	prep	_	I-WORK_OF_ART
+8	Us	us	NNP	pos2=PRP	11	dep	_	L-WORK_OF_ART
+9	+	+	SYM	pos2=-RRB-	11	punct	_	O
+10	Uncharted	uncharted	JJ	pos2=NNP	8	nmod	_	O
+11	4	0	CD	_	7	pobj	_	U-CARDINAL
+

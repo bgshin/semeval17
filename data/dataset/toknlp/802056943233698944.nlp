@@ -1,0 +1,31 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	so	so	RB	_	4	advmod	_	O
+4	excited	excited	JJ	_	2	acomp	_	O
+5	for	for	IN	_	4	prep	_	O
+6	@utahjazz	@utahjazz	NN	pos2=XX	5	pobj	_	O
+7	vs	vs	CC	pos2=FW	6	cc	_	O
+8	@ATLHawks	@atlhawks	NNS	pos2=NN	6	conj	_	O
+9	!	!	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	drove	drive	VBD	_	0	root	_	O
+3	10	0	CD	_	4	nmod	_	B-QUANTITY
+4	hrs	hr	NNS	_	2	dobj	_	L-QUANTITY
+5	for	for	IN	_	2	prep	_	O
+6	this	this	DT	_	5	pobj	_	O
+7	!	!	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	wish	wish	VBP	_	0	root	_	O
+3	I	I	PRP	_	6	nsubj	_	O
+4	would	would	MD	_	6	aux	_	O
+5	've	have	VB	_	6	aux	_	O
+6	remembered	remember	VBN	_	2	ccomp	_	O
+7	my	my	PRP$	_	8	poss	_	O
+8	@gordonhayward	@gordonhayward	NN	pos2=NNP	6	dobj	_	O
+9	or	or	CC	_	6	cc	_	O
+10	@daanteee	@daanteee	VB	pos2=UH	6	conj	_	O
+11	jersey	jersey	NN	pos2=RB	10	dobj	_	O
+12	!	!	.	_	2	punct	_	O
+

@@ -1,0 +1,10 @@
+1	Booty	booty	NNP	pos2=NN	2	compound	_	B-ORG
+2	Baby	baby	NNP	pos2=NN	9	dep	_	L-ORG
+3	Ari#ArianaGrande	ari#arianagrande	ADD	pos2=NNP	9	dep	_	O
+4	#PrincessAri	#princessari	NNP	pos2=ADD	9	nmod	_	O
+5	#bootybaby	#bootybaby	UH	pos2=ADD	9	nmod	_	O
+6	#DangerousWomanTour	#dangerouswomantour	GW	pos2=ADD	9	nmod	_	U-PERSON
+7	#DangerousWoman	#dangerouswoman	GW	pos2=JJ	9	nmod	_	O
+8	…	…	NFP	pos2=GW	9	punct	_	O
+9	https://t.co/YBspYl06Xn	#hlink#	ADD	pos2=NN	0	root	_	O
+

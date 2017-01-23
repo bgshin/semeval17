@@ -1,0 +1,10 @@
+1	@varud	@varud	UH	pos2=MD	8	discourse	_	O
+2	only	only	RB	_	8	advmod	_	O
+3	if	if	IN	_	8	mark	_	O
+4	fatty	fatty	JJ	pos2=NN	5	nmod	_	O
+5	Kim	kim	NNP	_	8	nsubj	_	U-PERSON
+6	the	the	DT	_	7	det	_	O
+7	third	#ord#	JJ	pos2=NN	5	appos	_	U-ORDINAL
+8	finds	find	VBZ	_	0	root	_	O
+9	Twitter	twitter	NNP	_	8	dobj	_	U-ORG
+

@@ -1,0 +1,9 @@
+1	JAMES	james	NNP	pos2=NNS	2	compound	_	B-PERSON
+2	HARDEN	harden	NNP	_	0	root	_	L-PERSON
+3	FOR	for	IN	_	2	prep	_	O
+4	MVP	mvp	NN	pos2=NNP	3	pobj	_	O
+5	!	!	.	_	2	punct	_	O
+
+1	🤘🏾🚀🏀#NBAwards	🤘🏾🚀🏀#nbawards	NNS	pos2=ADD	2	compound	_	O
+2	#HoustonRockets	#houstonrockets	NNS	pos2=ADD	0	root	_	O
+

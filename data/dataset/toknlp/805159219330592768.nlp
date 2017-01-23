@@ -1,0 +1,26 @@
+1	@TappnRay	@tappnray	UH	pos2=NN	6	discourse	_	O
+2	that	that	DT	pos2=WDT	6	nsubj	_	O
+3	does	do	VBZ	_	6	aux	_	O
+4	nt	nt	RB	pos2=VB	6	advmod	_	O
+5	even	even	RB	_	6	advmod	_	O
+6	make	make	VB	pos2=JJ	0	root	_	O
+7	sense	sense	NN	_	6	dobj	_	O
+8	.	.	.	_	6	punct	_	O
+
+1	trump	trump	NN	_	4	nsubj	_	O
+2	has	have	VBZ	_	4	aux	_	O
+3	nt	nt	RB	_	4	advmod	_	O
+4	done	do	VBN	_	0	root	_	O
+5	anything	anything	NN	_	4	dobj	_	O
+6	except	except	IN	pos2=TO	5	prep	_	O
+7	run	run	VB	pos2=VBN	6	pcomp	_	O
+8	his	his	PRP$	_	9	poss	_	O
+9	mouth	mouth	NN	_	7	dobj	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	obama	obama	NN	pos2=UH	4	nsubj	_	O
+2	actually	actually	RB	_	4	advmod	_	O
+3	drone	drone	NN	pos2=JJ	4	nsubj	_	O
+4	strikes	strike	VBZ	pos2=NNS	0	root	_	O
+5	civilians	civilian	NNS	_	4	dobj	_	O
+

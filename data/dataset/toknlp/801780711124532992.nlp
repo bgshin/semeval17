@@ -1,0 +1,14 @@
+1	IMPORTANT	important	NN	pos2=JJ	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Justin	justin	NNP	_	4	compound	_	B-PERSON
+4	Verlander	verlander	NNP	_	9	nsubjpass	_	L-PERSON
+5	and	and	CC	_	4	cc	_	O
+6	Kate	kate	NNP	_	7	compound	_	B-PERSON
+7	Upton	upton	NNP	_	4	conj	_	L-PERSON
+8	are	be	VBP	_	9	auxpass	_	O
+9	engaged	engage	VBN	pos2=JJ	0	root	_	O
+10	...	..	.	pos2=,	9	punct	_	O
+
+1	https://t.co/sET9NUE0r0	#hlink#	ADD	_	2	nsubj	_	O
+2	#kateupton	#kateupton	ADD	pos2=-RRB-	0	root	_	O
+

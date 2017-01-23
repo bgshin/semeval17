@@ -1,0 +1,24 @@
+1	Cuba	cuba	NNP	_	2	nsubj	_	U-GPE
+2	fails	fail	VBZ	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	meet	meet	VB	_	2	xcomp	_	O
+5	US	us	NNP	pos2=NN	6	compound	_	U-GPE
+6	requirements	requirement	NNS	_	4	dobj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	lifting	lift	VBG	pos2=NN	7	pcomp	_	O
+9	embargo	embargo	NN	_	8	dobj	_	O
+10	,	,	,	_	9	punct	_	O
+11	injustice	injustice	NN	_	9	conj	_	O
+12	,	,	,	_	11	punct	_	O
+13	human	human	JJ	_	14	nmod	_	O
+14	suffering	suffering	NN	_	11	conj	_	O
+15	,	,	,	_	14	punct	_	O
+16	poverty	poverty	NN	_	14	conj	_	O
+17	&	&	CC	_	16	cc	_	O
+18	exploitation	exploitation	NN	_	16	conj	_	O
+19	are	be	VBP	_	2	conj	_	O
+20	on	on	IN	_	19	prep	_	O
+21	the	the	DT	_	23	det	_	O
+22	rise	rise	NN	_	23	compound	_	O
+23	#SundayMorning	#sundaymorning	NN	pos2=.	20	pobj	_	O
+

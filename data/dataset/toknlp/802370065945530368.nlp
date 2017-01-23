@@ -1,0 +1,9 @@
+1	@DrMikeSimpson	@drmikesimpson	UH	pos2=NN	3	discourse	_	O
+2	i	I	PRP	_	3	nsubj	_	O
+3	suppose	suppose	VBP	pos2=VBD	0	root	_	O
+4	TX	tx	NNP	_	7	nsubj	_	U-GPE
+5	did	do	VBD	_	7	aux	_	O
+6	nt	nt	RB	_	7	advmod	_	O
+7	expand	expand	VB	_	3	ccomp	_	O
+8	medicaid	medicaid	NN	pos2=NNS	7	dobj	_	O
+

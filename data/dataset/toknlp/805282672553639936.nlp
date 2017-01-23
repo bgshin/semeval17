@@ -1,0 +1,19 @@
+1	Drone	drone	NN	_	2	compound	_	O
+2	strikes	strike	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	crazily	crazily	RB	_	3	advmod	_	O
+5	Sammy	sammy	NNP	_	6	compound	_	B-PERSON
+6	Hagar	hagar	NNP	_	3	attr	_	L-PERSON
+7	the	the	DT	_	8	det	_	O
+8	Horrible	horrible	JJ	pos2=NNP	3	acomp	_	O
+9	but	but	CC	_	3	cc	_	O
+10	I	I	PRP	_	11	nsubj	_	O
+11	repress	repress	VBP	_	3	conj	_	O
+12	all	all	DT	_	13	det	_	O
+13	memory	memory	NN	_	11	dobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	dated	date	VBN	_	17	nmod	_	O
+16	Harambe	harambe	NNP	pos2=JJ	17	compound	_	O
+17	jokes	joke	NNS	_	14	pobj	_	O
+18	.	.	.	_	11	punct	_	O
+

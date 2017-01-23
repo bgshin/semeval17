@@ -1,0 +1,21 @@
+1	@VaccineXchange	@vaccinexchange	NNP	pos2=ADD	3	vocative	_	O
+2	There	there	EX	_	3	expl	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	n't	not	RB	_	3	neg	_	O
+5	even	even	RB	_	8	advmod	_	O
+6	a	a	DT	_	8	det	_	O
+7	proper	proper	JJ	_	8	nmod	_	O
+8	correlation	correlation	NN	_	3	attr	_	O
+9	because	because	IN	_	17	mark	_	O
+10	almost	almost	RB	_	11	advmod	_	O
+11	all	all	DT	_	17	nsubj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	decline	decline	NN	_	12	pobj	_	O
+15	in	in	IN	_	14	prep	_	O
+16	deaths&complications	deaths&complications	NNS	_	15	pobj	_	O
+17	occurred	occur	VBD	_	3	advcl	_	O
+18	BEFORE	before	IN	_	17	prep	_	O
+19	the	the	DT	_	20	det	_	O
+20	vaccines	vaccine	NNS	_	18	pobj	_	O
+

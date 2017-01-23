@@ -1,0 +1,13 @@
+1	WRONG	wrong	JJ	pos2=NN	2	nmod	_	O
+2	MAN	man	NN	_	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	U.S.A	u.s.a	NNP	_	3	pobj	_	U-GPE
+5	.!!!	.!!	.	pos2=''	2	punct	_	O
+
+1	#NotWhatWeVotedFor	#notwhatwevotedfor	ADD	pos2=XX	6	dep	_	O
+2	#NeverRomney	#neverromney	ADD	pos2=XX	6	nmod	_	O
+3	@realDonaldTrump	@realdonaldtrump	ADD	pos2=GW	6	nmod	_	O
+4	@KellyannePolls	@kellyannepolls	GW	pos2=NNS	6	nmod	_	U-MONEY
+5	@mike_pence	@mike_pence	GW	pos2=ADD	6	nmod	_	O
+6	https://t.co/neTFit1ZhP	#hlink#	ADD	pos2=NN	0	root	_	O
+

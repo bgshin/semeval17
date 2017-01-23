@@ -1,0 +1,24 @@
+1	Season	season	NN	pos2=NNP	2	compound	_	U-DATE
+2	finale	finale	NN	_	5	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	@WestworldHBO	@westworldhbo	NNP	pos2=NN	3	pobj	_	U-GPE
+5	was	be	VBD	_	0	root	_	O
+6	MAGIFICENT	magificent	NNP	pos2=VBN	5	attr	_	U-ORG
+7	!	!	.	_	5	punct	_	O
+
+1	👌👌	👌👌	NFP	pos2=NNP	4	punct	_	O
+2	You	you	PRP	_	3	nmod	_	O
+3	guys	guy	NNS	_	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	amazing	amazing	JJ	_	4	acomp	_	O
+6	,	,	,	_	4	punct	_	O
+7	possibly	possibly	RB	_	8	advmod	_	O
+8	hiring	hire	VBG	pos2=NN	4	advcl	_	O
+9	extras	extra	NNS	_	8	dobj	_	O
+10	for	for	IN	_	9	prep	_	O
+11	season	season	NN	_	10	pobj	_	B-DATE
+12	2	0	CD	_	11	nmod	_	L-DATE
+13	?	?	.	_	4	punct	_	O
+
+1	#WestWorld	#westworld	NN	pos2=ADD	0	root	_	O
+

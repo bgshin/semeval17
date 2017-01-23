@@ -1,0 +1,21 @@
+1	Kate	kate	NNP	_	2	compound	_	O
+2	Upton	upton	NNP	_	0	root	_	O
+3	&	&	CC	_	2	cc	_	O
+4	Justin	justin	NNP	_	5	compound	_	B-PERSON
+5	Verlander	verlander	NNP	_	2	conj	_	L-PERSON
+6	--	--	:	_	2	punct	_	O
+7	To	to	IN	_	2	prep	_	O
+8	Hell	hell	NNP	_	7	pobj	_	O
+9	With	with	IN	pos2=NNP	2	prep	_	O
+10	Cy	cy	NNP	_	11	compound	_	O
+11	Young	young	NNP	_	9	pobj	_	O
+12	...	..	.	pos2=,	2	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	Vatica	vatica	NNP	pos2=ADD	2	attr	_	O
+4	https://t.co/urDAJbWzhv	#hlink#	ADD	_	3	appos	_	O
+5	#TrumpTransition	#trumptransition	ADD	pos2=-RRB-	2	punct	_	O
+6	#PresidentElectTrump	#presidentelecttrump	ADD	pos2=XX	2	punct	_	O
+7	#MAGA	#maga	NN	pos2=ADD	6	pobj	_	O
+

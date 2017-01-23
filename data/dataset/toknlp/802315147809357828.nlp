@@ -1,0 +1,14 @@
+1	@WarrenWhitlock	@warrenwhitlock	VB	pos2=``	0	root	_	O
+2	My	my	PRP$	_	3	poss	_	O
+3	brother	brother	NN	_	4	nsubj	_	O
+4	does	do	VBZ	_	1	ccomp	_	O
+5	3	0	CD	_	7	nmod	_	U-CARDINAL
+6	D	d	NN	pos2=NNP	7	compound	_	O
+7	printing	printing	NN	pos2=VBG	4	dobj	_	O
+8	with	with	IN	_	7	prep	_	O
+9	metals	metal	NNS	_	8	pobj	_	O
+10	.	.	.	_	1	punct	_	O
+
+1	Amazing	amazing	JJ	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

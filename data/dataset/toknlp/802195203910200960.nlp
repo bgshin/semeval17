@@ -1,0 +1,16 @@
+1	Going	go	VBG	_	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	see	see	VB	_	1	xcomp	_	O
+4	#FantasticBeasts	#fantasticbeasts	NNS	pos2=NNP	3	dobj	_	U-PERSON
+5	again	again	RB	_	3	advmod	_	O
+6	with	with	IN	_	3	prep	_	O
+7	my	my	PRP$	_	8	poss	_	O
+8	mum	mum	NN	_	6	pobj	_	O
+9	tonight	tonight	NN	_	3	npadvmod	_	U-TIME
+10	!	!	.	_	1	punct	_	O
+
+1	#magizoologist	#magizoologist	UH	pos2=XX	4	discourse	_	O
+2	#lookingformagicalcreatures	#lookingformagicalcreatures	UH	pos2=NNS	4	discourse	_	O
+3	…	…	NFP	pos2=-LRB-	4	punct	_	O
+4	https://t.co/KQJzpts2Wq	#hlink#	ADD	_	0	root	_	O
+

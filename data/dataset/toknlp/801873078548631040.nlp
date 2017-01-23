@@ -1,0 +1,12 @@
+1	A	a	DT	_	3	det	_	O
+2	little	little	JJ	_	3	nmod	_	O
+3	#selfbelief	#selfbelief	NN	pos2=WP	4	nsubj	_	O
+4	goes	go	VBZ	_	0	root	_	O
+5	a	a	DT	pos2=RB	9	det	_	O
+6	long	long	JJ	pos2=RB	7	nmod	_	O
+7	wayhttps://t.co/GkOUmepYJu	#hlink#	ADD	pos2=NN	3	appos	_	O
+8	#DominatingYourMind	#dominatingyourmind	ADD	pos2=-RRB-	4	prep	_	U-ORG
+9	#DYM	#dym	NN	pos2=ADD	8	pobj	_	O
+10	@NYTMetro	@nytmetro	ADD	pos2=XX	7	cc	_	O
+11	#NBAwards	#nbawards	NNS	pos2=ADD	10	pobj	_	O
+

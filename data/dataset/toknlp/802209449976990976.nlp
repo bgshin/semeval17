@@ -1,0 +1,33 @@
+1	You	you	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	read	read	VB	_	2	xcomp	_	O
+5	what	what	WP	_	10	dobj	_	O
+6	she	she	PRP	_	8	nsubj	_	O
+7	's	's	VBZ	_	8	aux	_	O
+8	going	go	VBG	_	4	ccomp	_	O
+9	to	to	TO	_	10	aux	_	O
+10	do	do	VB	_	8	xcomp	_	O
+11	with	with	IN	_	10	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	$$$	$$	NN	pos2=XX	11	pobj	_	O
+14	if	if	IN	_	18	mark	_	O
+15	over	over	IN	_	10	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	amount	amount	NN	_	15	pobj	_	O
+18	needed	need	VBN	pos2=VBD	17	acl	_	O
+19	...	..	.	pos2=,	2	punct	_	O
+
+1	she	she	PRP	_	2	nsubj	_	O
+2	has	have	VBZ	_	0	root	_	O
+3	control	control	NN	_	2	dobj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	funds	fund	NNS	_	4	pobj	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	She	she	PRP	_	4	nsubj	_	O
+2	'	'	''	pos2=``	4	punct	_	O
+3	…	…	NFP	pos2=:	4	punct	_	O
+4	https://t.co/XJ9zM5dDxm	#hlink#	ADD	_	0	root	_	U-ORG
+

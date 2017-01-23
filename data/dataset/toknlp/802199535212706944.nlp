@@ -1,0 +1,19 @@
+1	Eliminate	eliminate	VB	_	0	root	_	O
+2	#ISIL	#isil	NNP	pos2=NN	3	compound	_	O
+3	#ISIS	#isis	NN	pos2=NNP	4	compound	_	O
+4	#Daesh	#daesh	NNP	pos2=XX	1	dobj	_	O
+5	in	in	IN	_	1	prep	_	O
+6	this	this	DT	_	8	det	_	O
+7	New	new	NNP	pos2=JJ	8	compound	_	O
+8	FPS	fps	NNP	pos2=NNS	5	pobj	_	O
+9	!	!	.	_	1	punct	_	O
+
+1	https://t.co/UPlYpl0Gth	#hlink#	ADD	_	8	dep	_	O
+2	#gamedev	#gamedev	XX	pos2=-RRB-	8	dep	_	O
+3	#indiegame	#indiegame	UH	pos2=XX	8	dep	_	O
+4	#indiedev	#indiedev	UH	pos2=XX	8	nmod	_	O
+5	#YPG	#ypg	GW	pos2=$	8	nmod	_	U-PERSON
+6	#PKK	#pkk	GW	pos2=NFP	8	nmod	_	O
+7	…	…	NFP	pos2=GW	8	punct	_	O
+8	https://t.co/d1QaLr5UqN	#hlink#	ADD	pos2=NN	0	root	_	O
+

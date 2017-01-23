@@ -1,0 +1,11 @@
+1	Romney	romney	NNP	_	2	nsubj	_	U-ORG
+2	is	be	VBZ	_	0	root	_	O
+3	part	part	NN	_	2	attr	_	O
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	swamp	swamp	NN	_	4	pobj	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	#DrainTheSwamp#NeverRomney	#draintheswamp#neverromney	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/YEgtRJI2rt	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,29 @@
+1	WHY	why	WRB	_	4	advmod	_	O
+2	SHOULD	should	MD	_	4	aux	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	CARE	care	VB	pos2=NN	0	root	_	U-ORG
+5	?	?	.	_	4	punct	_	O
+
+1	...	..	.	pos2=NFP	0	predet	_	O
+
+1	What	what	WP	_	3	nsubj	_	O
+2	is	be	VBZ	_	3	aux	_	O
+3	#FRACKING	#fracking	VBG	pos2=NN	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+
+1	&	&	CC	_	3	cc	_	O
+2	WHY	why	WRB	_	3	advmod	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	it	it	PRP	_	3	nsubj	_	O
+5	Controversial	controversial	JJ	pos2=NNP	3	acomp	_	O
+6	?	?	.	_	3	punct	_	O
+
+1	...	..	.	pos2=NFP	0	predet	_	O
+
+1	STOP	stop	VB	pos2=NN	0	root	_	O
+2	#GeoEngineering	#geoengineering	VBG	pos2=IN	1	xcomp	_	O
+3	OUR	our	PRP$	_	4	poss	_	O
+4	PLANET	planet	NN	pos2=GW	2	dobj	_	O
+5	#EARTH	#earth	GW	pos2=-LRB-	6	nmod	_	O
+6	https://t.co/0X3YizNB8x	#hlink#	ADD	_	1	dep	_	O
+

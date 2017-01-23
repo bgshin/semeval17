@@ -1,0 +1,29 @@
+1	Tony	tony	NNP	_	2	compound	_	B-PERSON
+2	Romo	romo	NNP	_	5	poss	_	I-PERSON
+3	's	's	POS	_	2	case	_	L-PERSON
+4	press	press	NN	pos2=NNP	5	compound	_	O
+5	conference	conference	NN	_	12	nsubj	_	O
+6	handing	hand	VBG	_	5	acl	_	O
+7	the	the	DT	_	8	det	_	O
+8	reigns	reign	NNS	_	6	dobj	_	O
+9	to	to	IN	_	6	prep	_	O
+10	Dak	dak	NNP	_	11	compound	_	B-PERSON
+11	Prescott	prescott	NNP	_	9	pobj	_	L-PERSON
+12	proves	prove	VBZ	_	0	root	_	O
+13	America	america	NNP	_	16	nsubj	_	U-GPE
+14	does	do	VBZ	_	16	aux	_	O
+15	n't	not	RB	_	16	neg	_	O
+16	have	have	VB	_	12	ccomp	_	O
+17	a	a	DT	_	19	det	_	O
+18	race	race	NN	_	19	compound	_	O
+19	problem	problem	NN	_	16	dobj	_	O
+20	.	.	.	_	12	punct	_	O
+
+1	Quit	quit	VBD	pos2=VB	0	root	_	O
+2	making	make	VBG	_	1	xcomp	_	O
+3	it	it	PRP	_	6	nsubj	_	O
+4	a	a	DT	_	6	det	_	O
+5	race	race	NN	_	6	compound	_	O
+6	issue	issue	NN	_	2	ccomp	_	O
+7	!!	!!	.	_	1	punct	_	O
+

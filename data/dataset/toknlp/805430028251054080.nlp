@@ -1,0 +1,12 @@
+1	Celebrity	celebrity	NN	pos2=JJ	2	compound	_	O
+2	crush	crush	NN	pos2=VB	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	—	-	SYM	pos2=HYPH	3	punct	_	O
+2	ashley	ashley	NN	pos2=JJ	3	compound	_	O
+3	graham	graham	NN	pos2=NNP	0	root	_	O
+4	and	and	CC	_	3	cc	_	O
+5	salma	salma	NN	pos2=GW	7	nmod	_	O
+6	hayek	hayek	GW	pos2=NNP	7	nmod	_	O
+7	https://t.co/0Ergvxs61w	#hlink#	ADD	_	3	conj	_	O
+

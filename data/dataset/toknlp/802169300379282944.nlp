@@ -1,0 +1,27 @@
+1	For	for	IN	_	4	mark	_	O
+2	that	that	DT	_	4	nsubj	_	O
+3	to	to	TO	pos2=IN	4	aux	_	O
+4	happen	happen	VB	_	9	advcl	_	O
+5	,	,	,	_	9	punct	_	O
+6	[	[	-LRB-	_	7	punct	_	O
+7	Spencer	spencer	NNP	_	2	appos	_	U-PERSON
+8	]	]	-RRB-	_	7	punct	_	O
+9	wants	want	VBZ	_	0	root	_	O
+10	the	the	DT	_	12	det	_	B-GPE
+11	United	united	NNP	_	12	compound	_	I-GPE
+12	States	state	NNP	_	14	nsubj	_	L-GPE
+13	to	to	TO	_	14	aux	_	O
+14	break	break	VB	_	9	ccomp	_	O
+15	up	up	RP	pos2=RB	14	prt	_	O
+16	into	into	IN	_	14	prep	_	O
+17	smaller	small	JJR	_	18	nmod	_	O
+18	states	state	NNS	_	16	pobj	_	O
+19	like	like	IN	pos2=VBP	23	mark	_	O
+20	the	the	DT	_	22	det	_	B-GPE
+21	Soviet	soviet	NNP	_	22	compound	_	I-GPE
+22	Union	union	NNP	_	23	nsubj	_	L-GPE
+23	did	do	VBD	_	14	advcl	_	O
+24	.	.	.	_	9	punct	_	O
+
+1	https://t.co/DptedLSP1E	#hlink#	ADD	_	0	root	_	U-ORG
+

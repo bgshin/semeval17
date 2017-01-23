@@ -1,0 +1,30 @@
+1	Do	do	VB	pos2=VBP	3	aux	_	O
+2	n’t	not	RB	_	3	neg	_	O
+3	miss	miss	VB	_	0	root	_	O
+4	‘	'	``	pos2=''	3	punct	_	O
+5	The	the	DT	_	6	det	_	B-WORK_OF_ART
+6	Power	power	NN	pos2=NNP	3	dobj	_	I-WORK_OF_ART
+7	of	of	IN	_	6	prep	_	I-WORK_OF_ART
+8	Film	film	NN	pos2=NNP	7	pobj	_	I-WORK_OF_ART
+9	:	:	:	_	6	punct	_	I-WORK_OF_ART
+10	Who	who	WP	_	11	nsubj	_	I-WORK_OF_ART
+11	's	's	VBZ	_	6	acl	_	I-WORK_OF_ART
+12	Watching	watching	NNP	pos2=VBG	11	attr	_	I-WORK_OF_ART
+13	Who	who	WP	pos2=NNP	8	appos	_	I-WORK_OF_ART
+14	?	?	.	_	11	punct	_	L-WORK_OF_ART
+
+1	’	'	''	pos2=``	14	punct	_	O
+2	with	with	IN	_	0	prep	_	O
+3	The	the	DT	_	7	det	_	O
+4	Film	film	NNP	pos2=NN	7	compound	_	O
+5	Doctor	doctor	NNP	_	7	compound	_	O
+6	Bro	bro	NNP	_	7	compound	_	B-PERSON
+7	Hakim	hakim	NNP	_	2	pobj	_	L-PERSON
+8	on	on	IN	_	12	prep	_	O
+9	TOMORROW	tomorrow	NN	pos2=NNP	8	pobj	_	U-DATE
+10	@	@	SYM	pos2=IN	12	punct	_	O
+11	@HackneyAttic	@hackneyattic	JJ	pos2=ADD	12	nmod	_	O
+12	Info	info	NN	pos2=NNP	14	dep	_	O
+13	…	…	NFP	pos2=,	14	punct	_	O
+14	https://t.co/KRtsRScKpy	#hlink#	ADD	_	0	root	_	O
+

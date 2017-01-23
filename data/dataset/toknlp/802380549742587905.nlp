@@ -1,0 +1,12 @@
+1	Doctor	doctor	NN	pos2=NNP	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	Trump	trump	NNP	pos2=NN	6	poss	_	U-ORG
+4	's	's	POS	_	3	case	_	O
+5	alternate	alternate	JJ	pos2=NN	6	nmod	_	O
+6	reality	reality	NN	_	0	root	_	O
+7	on	on	IN	_	6	prep	_	O
+8	health	health	NN	_	9	compound	_	O
+9	care	care	NN	_	7	pobj	_	O
+10	@CNN	@cnn	ADD	pos2=GW	6	prep	_	B-DATE
+11	https://t.co/xHO87Mk3sQ	#hlink#	ADD	_	10	pobj	_	L-DATE
+

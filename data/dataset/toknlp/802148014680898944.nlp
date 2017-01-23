@@ -1,0 +1,21 @@
+1	#Libya	#libya	NNP	pos2=PRP	4	poss	_	U-ORG
+2	's	's	POS	pos2=VBZ	1	case	_	O
+3	#oil	#oil	JJ	pos2=NN	4	nmod	_	O
+4	output	output	NN	_	5	nsubj	_	O
+5	recovers	recover	VBZ	pos2=NNS	19	ccomp	_	O
+6	to	to	IN	pos2=TO	5	prep	_	O
+7	567kbd	0kbd	VB	pos2=NN	5	advcl	_	O
+8	bpd	bpd	NN	pos2=FW	7	dobj	_	O
+9	after	after	IN	_	7	prep	_	O
+10	power	power	NN	_	11	compound	_	O
+11	outage	outage	NN	_	9	pobj	_	O
+12	;	;	,	pos2=:	19	punct	_	O
+13	political	political	JJ	_	14	nmod	_	O
+14	risk	risk	NN	_	15	nsubj	_	O
+15	aside	aside	RB	_	19	advmod	_	O
+16	,	,	,	_	19	punct	_	O
+17	other	other	JJ	_	18	nmod	_	O
+18	spoilers	spoiler	NNS	_	19	nsubj	_	O
+19	abound	abound	VBP	pos2=RB	0	root	_	O
+20	https://t.co/sswRPIxh95	#hlink#	ADD	_	19	dobj	_	O
+

@@ -1,0 +1,23 @@
+1	Could	could	MD	_	3	aux	_	O
+2	#Hezbollah	#hezbollah	MD	pos2=PRP	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	your	your	PRP$	_	7	poss	_	O
+6	#Thanksgiving	#thanksgiving	VBG	pos2=NN	7	nmod	_	O
+7	turkey	turkey	NN	pos2=UH	4	pobj	_	O
+8	?!	?!	.	_	3	punct	_	O
+
+1	•	-	SYM	pos2=HYPH	3	punct	_	O
+2	Seaboard	seaboard	NNP	pos2=NN	3	compound	_	O
+3	Corp	corp	NNP	_	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	Kansas	kansas	NNP	_	7	npadvmod	_	U-GPE
+6	-	-	HYPH	_	7	punct	_	O
+7	based	base	VBN	_	9	nmod	_	O
+8	food	food	NN	_	9	compound	_	O
+9	provider	provider	NN	_	3	appos	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Butterball	butterball	NNP	_	12	compound	_	U-ORG
+12	turkey	turkey	NN	pos2=GW	10	pobj	_	O
+13	https://t.co/Vc4c6vMJpo	#hlink#	ADD	pos2=NNP	3	appos	_	U-ORG
+

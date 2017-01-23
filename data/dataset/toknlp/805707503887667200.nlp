@@ -1,0 +1,19 @@
+1	Your	your	PRP$	_	2	poss	_	O
+2	Money	money	NN	_	11	dep	_	O
+3	:	:	:	_	11	punct	_	O
+4	What	what	WP	_	11	nsubj	_	O
+5	Should	should	MD	_	11	aux	_	O
+6	a	a	DT	_	9	det	_	O
+7	Cubs	cub	NNPS	pos2=NNP	9	compound	_	U-ORG
+8	Fan	fan	NNP	_	9	compound	_	O
+9	Pay	pay	NNP	pos2=NNPS	11	nsubj	_	O
+10	to	to	TO	pos2=IN	11	aux	_	O
+11	Realize	realize	VB	_	0	root	_	O
+12	a	a	DT	_	14	det	_	O
+13	Lifelong	lifelong	JJ	pos2=NNP	14	nmod	_	O
+14	Dream	dream	NNP	pos2=NN	11	dobj	_	O
+15	?	?	.	_	11	punct	_	O
+
+1	https://t.co/IqfsXoTUF7	#hlink#	ADD	_	2	nsubj	_	O
+2	#ApsnyNews	#apsnynews	NNS	pos2=ADD	0	root	_	O
+

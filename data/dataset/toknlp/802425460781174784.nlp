@@ -1,0 +1,14 @@
+1	Valuing	value	VBG	_	6	csubj	_	O
+2	#staff	#staff	NN	pos2=NNS	1	dobj	_	O
+3	and	and	CC	_	1	cc	_	O
+4	providing	provide	VBG	pos2=NN	1	conj	_	O
+5	#security	#security	NN	pos2=FW	4	dobj	_	O
+6	:	:	:	_	8	punct	_	O
+7	social	social	JJ	_	8	nmod	_	O
+8	enterprises	enterprise	NNS	_	12	dep	_	O
+9	in	in	IN	_	8	prep	_	O
+10	#socialcare	#socialcare	NN	pos2=AFX	12	dep	_	O
+11	-	-	HYPH	pos2=:	12	punct	_	O
+12	https://t.co/Sj3mMZmZCE	#hlink#	ADD	pos2=NN	0	root	_	O
+13	#Socent	#socent	ADD	pos2=-RRB-	9	pobj	_	O
+

@@ -1,0 +1,21 @@
+1	FRANCE	france	NNP	pos2=NN	7	poss	_	U-GPE
+2	'S	's	POS	pos2=VBZ	1	case	_	O
+3	FRONT	front	JJ	pos2=NNP	7	nmod	_	O
+4	NATIONAL	national	NNP	pos2=JJ	5	compound	_	O
+5	MARINE	marine	NNP	pos2=JJ	7	compound	_	O
+6	LE	le	NN	pos2=NNP	7	compound	_	O
+7	PEN	pen	NN	pos2=NNP	12	dep	_	O
+8	:	:	:	_	12	punct	_	O
+9	"	"	``	_	6	punct	_	O
+10	ITALIANS	italian	NNS	pos2=NNPS	12	nsubj	_	O
+11	HAVE	have	VBP	_	12	aux	_	O
+12	DISOWNED	disown	VBN	_	0	root	_	O
+13	THE	the	DT	_	14	det	_	O
+14	EU	eu	NNP	_	12	dobj	_	U-ORG
+15	AND	and	CC	_	14	cc	_	O
+16	RENZI	renzi	NNP	pos2=NN	14	conj	_	U-ORG
+17	.	.	.	_	12	punct	_	O
+18	"	"	''	_	12	punct	_	O
+
+1	https://t.co/zx5aKPxGJt	#hlink#	ADD	_	0	root	_	U-ORG
+

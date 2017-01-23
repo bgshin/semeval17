@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det	_	O
+2	Roots	root	NNS	pos2=NNPS	4	nsubj	_	O
+3	are	be	VBP	_	4	aux	_	O
+4	keeping	keep	VBG	_	0	root	_	O
+5	it	it	PRP	_	4	dobj	_	O
+6	funky	funky	JJ	pos2=RB	4	oprd	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+

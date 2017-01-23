@@ -1,0 +1,11 @@
+1	#Rich	#rich	NNP	pos2=SYM	10	nmod	_	O
+2	15	0	CD	_	4	nmod	_	U-CARDINAL
+3	Stunning	stunning	JJ	pos2=NNP	4	nmod	_	O
+4	Photos	photo	NNS	pos2=NNPS	1	appos	_	O
+5	Of	of	IN	pos2=RB	4	prep	_	O
+6	A	a	DT	pos2=RB	9	det	_	O
+7	Young	young	NNP	pos2=JJ	9	compound	_	O
+8	Melania	melania	NNP	_	9	compound	_	B-PERSON
+9	Trump	trump	NNP	pos2=GW	5	pobj	_	L-PERSON
+10	https://t.co/6CxLrOy9Sz	#hlink#	ADD	pos2=NNP	0	root	_	O
+

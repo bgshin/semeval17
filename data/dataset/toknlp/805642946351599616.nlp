@@ -1,0 +1,26 @@
+1	@PrincessSagan	@princesssagan	ADD	pos2=UH	4	punct	_	O
+2	@YoungGawhd	@younggawhd	XX	pos2=WP	4	dep	_	O
+3	he	he	PRP	_	4	nsubj	_	O
+4	said	say	VBD	_	0	root	_	O
+5	when	when	WRB	_	7	advmod	_	O
+6	he	he	PRP	_	7	nsubj	_	O
+7	makes	make	VBZ	_	14	advcl	_	O
+8	his	his	PRP$	_	10	poss	_	O
+9	own	own	JJ	_	10	nmod	_	O
+10	line	line	NN	_	7	dobj	_	O
+11	he	he	PRP	_	14	nsubj	_	O
+12	wo	wo	MD	_	14	aux	_	O
+13	n't	not	RB	_	14	neg	_	O
+14	do	do	VB	_	4	ccomp	_	O
+15	animal	animal	NN	pos2=VB	16	compound	_	O
+16	testing	testing	NN	_	14	dobj	_	O
+17	.	.	.	_	4	punct	_	O
+
+1	Yet	yet	CC	pos2=RB	3	cc	_	O
+2	he	he	PRP	_	3	nsubj	_	O
+3	defended	defend	VBD	_	0	root	_	O
+4	lines	line	NNS	_	3	dobj	_	O
+5	selling	sell	VBG	pos2=NN	4	acl	_	O
+6	in	in	IN	_	5	prep	_	O
+7	china	china	NN	pos2=NNP	6	pobj	_	O
+

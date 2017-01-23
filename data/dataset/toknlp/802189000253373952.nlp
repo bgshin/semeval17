@@ -1,0 +1,27 @@
+1	Can	can	MD	_	5	aux	_	O
+2	the	the	DT	_	4	det	_	B-ORG
+3	Democratic	democratic	NNP	pos2=JJ	4	compound	_	I-ORG
+4	Party	party	NNP	_	5	nsubj	_	L-ORG
+5	rise	rise	VB	pos2=NN	0	root	_	O
+6	again	again	RB	_	5	advmod	_	O
+7	?	?	.	_	5	punct	_	O
+
+1	Yes	yes	UH	_	5	discourse	_	O
+2	-	-	:	pos2=,	5	punct	_	O
+3	and	and	CC	_	5	cc	_	O
+4	here	here	RB	_	5	advmod	_	O
+5	's	's	VBZ	_	0	root	_	O
+6	the	the	DT	_	9	det	_	O
+7	first	#ord#	JJ	_	9	nmod	_	U-ORDINAL
+8	big	big	JJ	_	9	nmod	_	O
+9	thing	thing	NN	_	5	nsubj	_	O
+10	to	to	TO	_	11	aux	_	O
+11	watch	watch	VB	_	9	relcl	_	O
+12	.	.	.	_	5	punct	_	O
+
+1	https://t.co/Ki25UutLDK	#hlink#	ADD	_	0	root	_	O
+2	#gay	#gay	-RRB-	pos2=UH	1	punct	_	O
+3	#vegan	#vegan	UH	pos2=-RRB-	1	discourse	_	O
+4	#vote	#vote	UH	pos2=FW	1	discourse	_	O
+5	#uniteblue	#uniteblue	UH	pos2=.	1	discourse	_	O
+

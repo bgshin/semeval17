@@ -1,0 +1,17 @@
+1	What	what	WP	_	3	dobj	_	O
+2	to	to	TO	_	3	aux	_	O
+3	do	do	VB	_	0	root	_	O
+4	if	if	IN	_	8	mark	_	O
+5	Social	social	NNP	_	6	compound	_	B-ORG
+6	Security	security	NNP	_	8	nsubj	_	L-ORG
+7	is	be	VBZ	_	8	aux	_	O
+8	going	go	VBG	_	3	advcl	_	O
+9	to	to	TO	pos2=IN	10	aux	_	O
+10	#security	#security	NNP	pos2=VB	8	xcomp	_	O
+11	#lossitems	#lossitems	NNPS	pos2=UH	12	compound	_	O
+12	#items	#items	NNPS	pos2=VBZ	8	cc	_	U-NORP
+13	#tracking	#tracking	VBG	pos2=GW	8	xcomp	_	O
+14	#valuables	#valuables	GW	pos2=NNS	16	nmod	_	O
+15	https://t.co/Xn71FuaaHc	#hlink#	ADD	pos2=GW	16	nmod	_	O
+16	https://t.co/eAR0yqwaU0	#hlink#	ADD	_	13	dobj	_	U-ORG
+

@@ -1,0 +1,16 @@
+1	Trey	trey	NNP	_	2	compound	_	B-PERSON
+2	Gowdy	gowdy	NNP	_	3	nsubj	_	L-PERSON
+3	finds	find	VBZ	_	0	root	_	O
+4	out	out	RP	pos2=IN	3	prt	_	O
+5	Hillary	hillary	NNP	_	6	compound	_	B-PERSON
+6	Clinton	clinton	NNP	_	8	nsubj	_	L-PERSON
+7	is	be	VBZ	_	8	aux	_	O
+8	LYING	lie	VBG	_	3	ccomp	_	O
+9	while	while	IN	_	10	mark	_	O
+10	questioning	question	VBG	_	8	advcl	_	O
+11	James	james	NNP	_	12	compound	_	B-PERSON
+12	Comey	comey	NNP	_	10	dobj	_	L-PERSON
+13	https://t.co/C80uMLQfAn	#hlink#	ADD	_	15	dep	_	O
+14	via	via	IN	_	10	prep	_	O
+15	@YouTube	@youtube	NNP	pos2=NN	14	pobj	_	O
+

@@ -1,0 +1,18 @@
+1	Loving	love	VBG	pos2=NNP	0	root	_	O
+2	Ashley	ashley	NNP	_	3	compound	_	B-PERSON
+3	Graham	graham	NNP	_	1	dobj	_	L-PERSON
+4	from	from	IN	_	1	prep	_	O
+5	last	last	JJ	_	6	nmod	_	B-TIME
+6	night	night	NN	_	8	poss	_	I-TIME
+7	's	's	POS	_	6	case	_	L-TIME
+8	taping	taping	NN	_	4	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	VH1	vh0	NN	pos2=NNP	14	poss	_	U-ORG
+11	#VH1Divas	#vh0divas	POS	pos2=NNP	10	case	_	O
+12	Holiday	holiday	NNP	_	14	compound	_	B-ORG
+13	Unsilent	unsilent	NNP	_	14	compound	_	I-ORG
+14	Night	night	NNP	pos2=NN	9	pobj	_	L-ORG
+15	!	!	.	_	1	punct	_	O
+
+1	https://t.co/2VapS3tuoG	#hlink#	ADD	_	0	root	_	U-ORG
+

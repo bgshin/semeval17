@@ -1,0 +1,12 @@
+1	Poroshenko	poroshenko	NNP	pos2=FW	2	nsubj	_	U-PERSON
+2	says	say	VBZ	_	0	root	_	O
+3	Trump	trump	NNP	pos2=NN	4	nsubj	_	U-PERSON
+4	asked	ask	VBD	pos2=VBN	2	ccomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	elaborate	elaborate	VB	_	4	xcomp	_	O
+7	on	on	IN	_	6	prep	_	O
+8	Russian	russian	JJ	_	9	nmod	_	U-NORP
+9	aggression	aggression	NN	_	7	pobj	_	O
+10	https://t.co/iCAEWJMIHO	#hlink#	ADD	_	11	nmod	_	O
+11	https://t.co/VhV68nDxaj	#hlink#	ADD	_	4	dep	_	U-ORG
+

@@ -1,0 +1,9 @@
+1	@Shut_Up_Pearl	@shut_up_pearl	UH	pos2=XX	2	discourse	_	O
+2	@mike_pence	@mike_pence	POS	pos2=VB	0	root	_	O
+3	twenty	#crd#	CD	pos2=JJ	4	nmod	_	O
+4	bags	bag	NNS	_	2	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	rusted	rust	VBN	pos2=JJ	7	nmod	_	O
+7	dicks	dick	NNS	_	5	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+

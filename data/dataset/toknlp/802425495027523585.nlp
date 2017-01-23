@@ -1,0 +1,13 @@
+1	XYZ	xyz	NN	pos2=JJ	3	compound	_	O
+2	dot	dot	NN	pos2=JJ	3	compound	_	O
+3	CLUB	club	NN	_	10	dep	_	O
+4	3	0	CD	_	8	nmod	_	U-CARDINAL
+5	D	d	NNP	pos2=NN	7	compound	_	O
+6	Printing	printing	NNP	pos2=VBG	7	compound	_	O
+7	Live	live	NNP	pos2=JJ	8	compound	_	O
+8	Stream	stream	NN	pos2=NNP	10	dep	_	O
+9	:	:	:	_	10	punct	_	O
+10	https://t.co/FW9H20qNpd	#hlink#	ADD	_	0	root	_	O
+11	via	via	IN	_	10	prep	_	O
+12	@YouTube	@youtube	NNP	pos2=NN	11	pobj	_	O
+

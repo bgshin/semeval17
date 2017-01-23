@@ -1,0 +1,16 @@
+1	Coal	coal	NN	_	0	root	_	O
+2	in	in	IN	_	1	prep	_	O
+3	his	his	PRP$	_	4	poss	_	O
+4	stocking	stocking	NN	_	2	pobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	@aug_RickMcKee	@aug_rickmckee	NNP	pos2=ADD	3	compound	_	B-ORG
+2	Cartoon	cartoon	NNP	pos2=NN	3	compound	_	I-ORG
+3	#TCOT	#tcot	NNP	pos2=NN	9	dep	_	I-ORG
+4	#LNYHBT	#lnyhbt	ADD	pos2=NNP	9	dep	_	L-ORG
+5	#TGDN	#tgdn	NNP	pos2=ADD	9	dep	_	U-ORG
+6	#MAGA	#maga	NN	pos2=GW	9	dep	_	O
+7	#DrainTheSwamp	#draintheswamp	GW	pos2=XX	9	nmod	_	B-DATE
+8	#BuildTheWall	#buildthewall	GW	pos2=ADD	9	nmod	_	L-DATE
+9	https://t.co/G727MYYF7M	#hlink#	ADD	pos2=NN	0	root	_	O
+

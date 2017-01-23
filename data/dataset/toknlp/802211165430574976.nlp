@@ -1,0 +1,13 @@
+1	@MAlib4eva	@malib0eva	NN	pos2=NNS	4	dep	_	O
+2	he	he	PRP	_	4	nsubj	_	O
+3	shld	shld	MD	pos2=VBD	4	aux	_	O
+4	call	call	VB	pos2=VBP	0	root	_	O
+5	Russia	russia	NNP	_	4	dobj	_	U-GPE
+6	maybe	maybe	RB	_	9	advmod	_	O
+7	Putin	putin	NNP	_	9	nsubj	_	U-PERSON
+8	might	might	MD	_	9	aux	_	O
+9	have	have	VB	_	4	advcl	_	O
+10	some	some	DT	_	11	det	_	O
+11	ideas	idea	NNS	_	9	dobj	_	O
+12	.	.	.	_	4	punct	_	O
+

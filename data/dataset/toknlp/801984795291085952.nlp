@@ -1,0 +1,13 @@
+1	So	so	RB	_	2	advmod	_	O
+2	thankful	thankful	JJ	_	9	ccomp	_	O
+3	for	for	IN	_	2	prep	_	O
+4	#TheExorcist	#theexorcist	NN	pos2=NNP	3	pobj	_	O
+5	&	&	CC	_	4	cc	_	O
+6	#ScreamQueens	#screamqueens	NNS	pos2=NN	4	conj	_	O
+7	so	so	RB	_	9	advmod	_	O
+8	please	please	UH	pos2=VBP	9	discourse	_	O
+9	@FOXTV	@foxtv	VB	pos2=ADD	0	root	_	B-ORG
+10	#RenewTheExorcist	#renewtheexorcist	ADD	pos2=NNP	9	punct	_	I-ORG
+11	&	&	CC	_	9	cc	_	I-ORG
+12	#RenewScreamQueens	#renewscreamqueens	NNS	pos2=ADD	9	conj	_	L-ORG
+

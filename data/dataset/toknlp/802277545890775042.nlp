@@ -1,0 +1,19 @@
+1	@bradisterrific	@bradisterrific	UH	pos2=XX	2	discourse	_	O
+2	@cushbomb	@cushbomb	VB	pos2=IN	0	root	_	O
+3	Tbf	tbf	NNP	_	2	dobj	_	U-PERSON
+4	before	before	IN	_	7	mark	_	O
+5	Michael	michael	NNP	_	6	compound	_	B-PERSON
+6	Moore	moore	NNP	_	7	nsubj	_	L-PERSON
+7	predicted	predict	VBD	_	2	advcl	_	O
+8	the	the	DT	_	9	det	_	O
+9	outcome	outcome	NN	_	7	dobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	this	this	DT	_	12	det	_	O
+12	election	election	NN	_	10	pobj	_	O
+13	he	he	PRP	_	14	nsubj	_	O
+14	cited	cite	VBD	_	7	conj	_	O
+15	this	this	DT	_	16	det	_	O
+16	argument	argument	NN	_	14	dobj	_	O
+17	in	in	IN	_	14	prep	_	O
+18	2008	0	CD	_	17	pobj	_	U-DATE
+

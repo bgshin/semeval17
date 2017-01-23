@@ -1,0 +1,43 @@
+1	Who	who	WP	_	5	pobj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	like	like	VB	_	0	root	_	O
+5	more	more	JJR	pos2=RBR	4	dobj	_	O
+6	?	?	.	_	4	punct	_	O
+
+1	Gong	gong	NNP	_	4	compound	_	B-PERSON
+2	Joo	joo	NNP	_	4	compound	_	I-PERSON
+3	-	-	HYPH	_	4	punct	_	I-PERSON
+4	young	young	JJ	_	0	root	_	L-PERSON
+5	or	or	CC	_	4	cc	_	O
+6	Han	han	NNP	_	7	compound	_	B-PERSON
+7	Shi	shi	NNP	_	9	compound	_	I-PERSON
+8	-	-	HYPH	_	9	punct	_	I-PERSON
+9	yeon	yeon	NN	pos2=NNP	4	conj	_	L-PERSON
+10	(	(	-LRB-	_	9	punct	_	O
+11	girls	girl	NNS	_	9	appos	_	O
+12	from	from	IN	_	11	prep	_	O
+13	webtoons	webtoons	NNS	_	12	pobj	_	O
+14	)	)	-RRB-	_	9	punct	_	O
+15	CY	cy	NN	pos2=NNP	18	dep	_	O
+16	:	:	:	_	18	punct	_	O
+17	I	I	PRP	_	18	nsubj	_	O
+18	like	like	VBP	pos2=IN	0	root	_	O
+19	GJY	gjy	NNP	pos2=CD	18	dobj	_	U-ORG
+20	more	more	RBR	pos2=JJR	18	advmod	_	O
+21	.	.	.	_	18	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	wo	wo	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	spoil	spoil	VB	_	0	root	_	O
+5	tho	tho	NN	pos2=FW	4	dobj	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	watched	watch	VBD	_	0	root	_	O
+3	'	'	``	pos2=''	6	punct	_	O
+4	연애혁명	연애혁명	NN	pos2=IN	6	nmod	_	O
+5	'	'	''	_	6	punct	_	O
+6	8times	0times	NNS	_	2	dobj	_	O
+

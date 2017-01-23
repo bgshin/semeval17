@@ -1,0 +1,17 @@
+1	Dady	dady	NNP	pos2=NN	3	nsubj	_	U-PERSON
+2	is	be	VBZ	_	3	aux	_	O
+3	slaying	slay	VBG	pos2=NN	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	game	game	NN	_	3	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	abs	abs	NN	pos2=NNS	6	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	AM	am	NN	pos2=VBP	7	compound	_	O
+2	ÈM	èm	NNP	pos2=:	6	compound	_	O
+3	LIAM	liam	NNP	pos2=NN	6	compound	_	B-PERSON
+4	PAYNE	payne	NNP	_	6	compound	_	L-PERSON
+5	#MtvStarsNiallHoran	#mtvstarsniallhoran	NNP	pos2=ADD	6	compound	_	O
+6	#MPN	#mpn	NNP	pos2=ADD	7	dep	_	O
+7	#OneDirection	#onedirection	ADD	pos2=NN	0	root	_	O
+

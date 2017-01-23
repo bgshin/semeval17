@@ -1,0 +1,22 @@
+1	Killer	killer	NN	pos2=NNP	2	compound	_	O
+2	Robots	robot	NNS	pos2=NNP	7	nsubj	_	O
+3	and	and	CC	_	2	cc	_	O
+4	Rebel	rebel	NNP	pos2=JJ	5	compound	_	O
+5	Wieners	wieners	NNP	pos2=NNS	2	conj	_	O
+6	:	:	:	_	7	punct	_	O
+7	Did	do	VBD	pos2=NNP	0	root	_	O
+8	Hollywood	hollywood	NNP	_	16	poss	_	O
+9	’s	's	POS	_	8	case	_	O
+10	Working	working	NNP	pos2=VBG	12	compound	_	B-ORG
+11	-	-	HYPH	_	12	punct	_	I-ORG
+12	Class	class	NNP	pos2=NN	16	compound	_	I-ORG
+13	Revolt	revolt	NNP	pos2=NN	16	compound	_	I-ORG
+14	Fantasies	fantasy	NNPS	pos2=VBZ	16	compound	_	I-ORG
+15	Fuel	fuel	NNP	_	16	compound	_	I-ORG
+16	Trump	trump	NNP	pos2=NN	18	poss	_	I-ORG
+17	’s	's	POS	_	16	case	_	L-ORG
+18	Rise	rise	NNP	pos2=NN	7	nsubj	_	O
+19	?	?	.	_	7	punct	_	O
+
+1	https://t.co/NVMgzIfMiC	#hlink#	ADD	_	0	root	_	U-ORG
+

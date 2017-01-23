@@ -1,0 +1,14 @@
+1	@CruJones18	@crujones0	NN	pos2=ADD	2	compound	_	O
+2	@Cubs	@cubs	NNS	pos2=UH	11	nsubj	_	O
+3	wow	wow	UH	pos2=VBP	2	discourse	_	O
+4	the	the	DT	_	5	det	_	O
+5	fact	fact	NN	_	2	appos	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	like	like	VBP	pos2=IN	5	acl	_	O
+8	the	the	DT	_	9	det	_	O
+9	cubs	cub	NNS	pos2=NN	7	dobj	_	O
+10	totally	totally	RB	_	11	advmod	_	O
+11	proves	prove	VBZ	_	0	root	_	O
+12	your	your	PRP$	_	13	poss	_	O
+13	existence	existence	NN	_	11	dobj	_	O
+

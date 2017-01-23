@@ -1,0 +1,20 @@
+1	10	0	CD	_	4	nmod	_	U-CARDINAL
+2	free	free	JJ	_	4	nmod	_	O
+3	taxi	taxi	NN	_	4	compound	_	O
+4	rides	ride	NNS	pos2=VBZ	0	root	_	O
+5	w	w	IN	pos2=RB	4	prep	_	O
+6	/	/	HYPH	_	5	punct	_	O
+7	Lyft	lyft	NNP	pos2=NN	9	compound	_	B-ORG
+8	#NYC	#nyc	NNP	pos2=POS	9	compound	_	I-ORG
+9	#Broadway	#broadway	NNP	pos2=POS	5	pobj	_	L-ORG
+10	#hamilton	#hamilton	ADD	pos2=NNP	4	punct	_	O
+11	#nyctheatre	#nyctheatre	PRP$	pos2=NN	19	dep	_	O
+12	Use	use	VB	pos2=NNP	13	nmod	_	O
+13	code	code	NN	_	18	nmod	_	O
+14	NUMB	numb	JJ	pos2=NN	13	nmod	_	O
+15	#newyork	#newyork	IN	pos2=XX	18	dep	_	O
+16	#timeout	#timeout	FW	pos2=ADD	18	dep	_	O
+17	#lyft	#lyft	FW	pos2=UH	19	nmod	_	O
+18	#uber	#uber	FW	pos2=UH	19	nmod	_	O
+19	#ny	#ny	UH	pos2=FW	4	discourse	_	O
+

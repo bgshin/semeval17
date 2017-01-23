@@ -1,0 +1,13 @@
+1	Freshman	freshman	NN	_	0	root	_	O
+2	vs	vs	CC	pos2=IN	1	cc	_	O
+3	Jv	jv	NNP	pos2=NN	5	compound	_	B-ORG
+4	Tipp	tipp	NNP	_	5	compound	_	I-ORG
+5	Off	off	NNP	pos2=RP	1	conj	_	L-ORG
+6	!!!	!!	.	_	1	punct	_	O
+
+1	Go	go	VB	_	0	root	_	O
+2	Tipp	tipp	NNP	_	1	vocative	_	U-GPE
+3	!!	!!	.	_	1	punct	_	O
+
+1	https://t.co/VrAWVh7Jpm	#hlink#	ADD	_	0	root	_	U-ORG
+

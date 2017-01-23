@@ -1,0 +1,20 @@
+1	#Yanukovych	#yanukovych	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	lying	lying	NN	pos2=VBG	2	attr	_	O
+5	,	,	,	_	4	punct	_	O
+6	thieving	thieving	NN	pos2=JJ	4	conj	_	O
+7	,	,	,	_	6	punct	_	O
+8	mobster	mobster	NN	_	9	compound	_	O
+9	sack	sack	NN	_	6	conj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	shit	shit	NN	_	10	pobj	_	O
+12	under	under	IN	_	9	prep	_	O
+13	#Putin	#putin	NNP	pos2=CD	16	poss	_	U-ORG
+14	|	|	SYM	pos2=,	16	poss	_	O
+15	's	's	POS	pos2=AFX	13	case	_	O
+16	thumb	thumb	NN	_	12	pobj	_	O
+17	.	.	.	_	2	punct	_	O
+
+1	#Ukraine	#ukraine	NNP	pos2=NN	0	root	_	O
+

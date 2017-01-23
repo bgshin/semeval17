@@ -1,0 +1,21 @@
+1	@IAMovies	@iamovies	NNS	pos2=ADD	2	compound	_	O
+2	@TCoop6231	@tcoop0	NN	pos2=NNS	3	compound	_	O
+3	#Hamas	#hamas	NNP	pos2=NNS	4	nsubj	_	U-ORG
+4	took	take	VBD	_	0	root	_	O
+5	over	over	RP	_	4	prt	_	O
+6	ruling	rule	VBG	pos2=NN	4	xcomp	_	O
+7	#Gaza	#gaza	NNP	pos2=NN	6	dobj	_	U-ORG
+8	after	after	IN	_	10	mark	_	O
+9	#Israel	#israel	NNP	pos2=NNS	10	nsubj	_	U-ORG
+10	withdrew	withdraw	VBD	_	6	advcl	_	O
+11	from	from	IN	_	10	prep	_	O
+12	#Gaza	#gaza	NNP	_	11	pobj	_	U-GPE
+13	in	in	IN	_	10	prep	_	O
+14	2005	0	CD	_	13	pobj	_	U-DATE
+15	and	and	CC	_	10	cc	_	O
+16	uprooted	uproot	VBD	pos2=VBN	10	conj	_	O
+17	Jewish	jewish	JJ	_	18	nmod	_	U-NORP
+18	communities	community	NNS	_	16	dobj	_	O
+19	there	there	RB	_	16	advmod	_	O
+20	.	.	.	_	4	punct	_	O
+

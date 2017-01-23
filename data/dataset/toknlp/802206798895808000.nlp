@@ -1,0 +1,18 @@
+1	@GAFan8	@gafan0	NN	pos2=LS	6	nsubj	_	O
+2	@megynkelly	@megynkelly	RB	pos2=UH	7	neg	_	O
+3	if	if	IN	_	5	mark	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	have	have	VBP	_	10	advcl	_	O
+6	only	only	RB	_	7	advmod	_	B-CARDINAL
+7	one	#crd#	CD	_	8	nmod	_	L-CARDINAL
+8	life	life	NN	_	5	dobj	_	O
+9	it	it	PRP	_	17	nsubj	_	O
+10	would	would	MD	_	17	aux	_	O
+11	alredy	alredy	RB	_	12	advmod	_	O
+12	over	over	RB	_	17	advmod	_	O
+13	,	,	,	_	17	punct	_	O
+14	you	you	PRP	_	17	nmod	_	O
+15	2	0	CD	_	17	nmod	_	U-CARDINAL
+16	face	face	NN	_	17	compound	_	O
+17	shit	shit	NN	_	0	root	_	O
+

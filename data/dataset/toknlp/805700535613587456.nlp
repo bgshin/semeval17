@@ -1,0 +1,22 @@
+1	@LindaKi61072348	@lindaki0	NN	pos2=NNS	2	compound	_	O
+2	@glcote1	@glcote0	NN	pos2=LS	7	dep	_	O
+3	@EJLandwehr	@ejlandwehr	XX	pos2=GW	7	dep	_	O
+4	@Rs06270455	@rs0	XX	pos2=CD	7	dep	_	O
+5	@ShomahKhoobi	@shomahkhoobi	XX	pos2=``	7	dep	_	O
+6	It	it	PRP	_	7	nsubj	_	O
+7	's	's	VBZ	_	0	root	_	O
+8	like	like	IN	pos2=``	10	mark	_	O
+9	Marine	marine	NNP	_	10	nsubj	_	U-ORG
+10	saying	say	VBG	pos2=NN	7	advcl	_	O
+11	"	"	``	_	10	punct	_	O
+12	I	I	PRP	_	13	nsubj	_	O
+13	support	support	VBP	_	10	ccomp	_	O
+14	a	a	DT	_	16	det	_	O
+15	minimum	minimum	JJ	pos2=NN	16	nmod	_	O
+16	wage	wage	NN	_	13	dobj	_	O
+17	.	.	.	_	7	punct	_	O
+18	"	"	''	_	7	punct	_	O
+
+1	Basic	basic	JJ	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

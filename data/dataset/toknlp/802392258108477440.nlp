@@ -1,0 +1,21 @@
+1	Top	top	JJ	pos2=NN	2	nmod	_	O
+2	story	story	NN	_	0	root	_	O
+3	:	:	:	_	2	punct	_	O
+4	How	how	WRB	_	18	advmod	_	O
+5	Racing	racing	NNP	pos2=GW	7	compound	_	O
+6	Champions	champion	NNPS	pos2=NNS	7	compound	_	O
+7	Use	use	NNP	pos2=VB	2	acl	_	O
+8	3	0	CD	_	12	nmod	_	O
+9	D	d	NNP	pos2=NN	10	compound	_	O
+10	Printing	printing	NNP	pos2=NN	7	dobj	_	O
+11	for	for	IN	_	7	prep	_	O
+12	Victory	victory	NN	pos2=NNP	11	pobj	_	O
+13	|	|	SYM	pos2=,	18	punct	_	O
+14	Interesting	interesting	JJ	pos2=NNP	15	nmod	_	O
+15	Engine	engine	NNP	pos2=NN	17	nmod	_	O
+16	…	…	NFP	pos2=,	18	punct	_	O
+17	https://t.co/BDw1w7QAKs,	#hlink#	ADD	_	18	nsubj	_	O
+18	see	see	VB	pos2=VBP	0	root	_	O
+19	more	more	JJR	pos2=RBR	20	nmod	_	O
+20	https://t.co/a0AUH83AYk	#hlink#	ADD	pos2=NN	18	dobj	_	O
+

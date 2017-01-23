@@ -1,0 +1,22 @@
+1	Listen	listen	VB	_	0	root	_	O
+2	to	to	IN	_	1	prep	_	O
+3	MNOO#6	mnoo0	NN	pos2=NNP	2	pobj	_	O
+4	about	about	IN	pos2=JJ	1	prep	_	O
+5	film	film	NN	_	7	poss	_	O
+6	#HAVRESC	#havresc	POS	pos2=NN	5	case	_	O
+7	Stand	stand	NN	pos2=NNP	4	pobj	_	O
+8	On	on	IN	_	7	prep	_	O
+9	Courage	courage	NNP	pos2=NN	10	compound	_	B-GPE
+10	#Armenian	#armenian	NNP	pos2=POS	11	compound	_	L-GPE
+11	village	village	NN	_	8	pobj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	#Iraq	#iraq	NNP	pos2=JJ	12	pobj	_	U-GPE
+14	fighting	fight	VBG	pos2=NN	1	advcl	_	O
+15	#ISIS	#isis	NN	pos2=NNP	14	dobj	_	O
+16	w	w	IN	pos2=POS	14	prep	_	O
+17	guest	guest	NN	pos2=JJ	16	pobj	_	O
+18	Dr.	dr.	NNP	_	19	compound	_	O
+19	Mike	mike	NNP	_	21	dep	_	B-PERSON
+20	…	…	NFP	pos2=NNP	21	punct	_	L-PERSON
+21	https://t.co/69fqXwLNNI	#hlink#	ADD	_	1	dep	_	O
+

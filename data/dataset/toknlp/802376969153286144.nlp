@@ -1,0 +1,21 @@
+1	They	they	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	mind	mind	VB	_	0	root	_	O
+5	as	as	RB	_	6	advmod	_	O
+6	long	long	RB	_	4	advmod	_	O
+7	as	as	IN	_	9	mark	_	O
+8	Trump	trump	NNP	pos2=NN	9	nsubj	_	U-PERSON
+9	signs	sign	VBZ	pos2=NNS	6	advcl	_	O
+10	off	off	RP	pos2=IN	9	prt	_	O
+11	on	on	IN	_	9	prep	_	O
+12	their	their	PRP$	_	14	poss	_	O
+13	tax	tax	NN	_	14	compound	_	O
+14	cuts	cut	NNS	_	11	pobj	_	O
+15	and	and	CC	_	4	cc	_	O
+16	gutting	gut	VBG	_	4	conj	_	O
+17	Medicare	medicare	NNP	_	16	dobj	_	U-ORG
+18	.	.	.	_	4	punct	_	O
+
+1	https://t.co/ecpNQdvz5Y	#hlink#	ADD	_	0	root	_	U-ORG
+

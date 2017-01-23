@@ -1,0 +1,23 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@mzhemingway	@mzhemingway	UH	pos2=NN	2	discourse	_	O
+2	takes	take	VBZ	_	0	root	_	O
+3	down	down	RP	pos2=RB	2	prt	_	O
+4	a	a	DT	_	6	det	_	O
+5	@washingtonpost	@washingtonpost	JJ	pos2=JJS	6	nmod	_	O
+6	reporter	reporter	NN	_	2	dobj	_	O
+7	spectacularly	spectacularly	RB	_	2	advmod	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	Philip	philip	NNP	_	4	compound	_	B-PERSON
+4	Bump	bump	NNP	pos2=NN	2	attr	_	L-PERSON
+5	,	,	,	_	4	punct	_	O
+6	former	former	JJ	_	8	nmod	_	O
+7	thug	thug	NN	pos2=JJ	8	compound	_	O
+8	activist	activist	NN	_	4	appos	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	https://t.co/GfxaA0LQQB	#hlink#	ADD	_	0	root	_	U-ORG
+

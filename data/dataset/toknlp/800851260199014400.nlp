@@ -1,0 +1,30 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	O
+2	@mattdpearce	@mattdpearce	NN	pos2=NNS	7	dep	_	O
+3	:	:	:	_	7	punct	_	O
+4	Can	can	MD	_	7	aux	_	O
+5	I	I	PRP	_	7	nsubj	_	O
+6	politely	politely	RB	_	7	advmod	_	O
+7	suggest	suggest	VBP	pos2=VB	0	root	_	O
+8	that	that	IN	_	11	mark	_	O
+9	we	we	PRP	_	11	nsubj	_	O
+10	all	all	DT	_	9	appos	_	O
+11	stop	stop	VBP	pos2=VB	7	ccomp	_	O
+12	using	use	VBG	_	11	xcomp	_	O
+13	the	the	DT	_	14	det	_	O
+14	term	term	NN	_	12	dobj	_	O
+15	"	"	``	_	18	punct	_	O
+16	alt	alt	JJ	pos2=RB	18	advmod	_	O
+17	-	-	HYPH	_	18	punct	_	O
+18	right	right	JJ	_	22	nmod	_	O
+19	"	"	''	_	18	punct	_	O
+20	and	and	CC	_	11	cc	_	O
+21	use	use	VB	_	11	conj	_	O
+22	other	other	JJ	_	26	nmod	_	O
+23	,	,	,	_	26	punct	_	O
+24	more	more	RBR	_	25	advmod	_	O
+25	precise	precise	JJ	_	26	nmod	_	O
+26	words	word	NNS	_	21	dobj	_	O
+27	.	.	.	_	7	punct	_	O
+
+1	https://t.co/UtmOec5…	#hlink#	ADD	_	0	root	_	U-ORG
+

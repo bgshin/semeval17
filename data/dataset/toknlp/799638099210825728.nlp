@@ -1,0 +1,17 @@
+1	National	national	JJ	pos2=NNP	4	nmod	_	U-NORP
+2	fast	fast	JJ	_	3	nmod	_	O
+3	food	food	NN	_	4	compound	_	O
+4	day	day	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	the	the	DT	_	8	det	_	O
+7	only	only	JJ	_	8	nmod	_	O
+8	thing	thing	NN	_	5	attr	_	O
+9	that	that	WDT	_	11	nsubj	_	O
+10	matters🍔	matters🍔	:	pos2=``	11	punct	_	O
+11	Watch	watch	VB	pos2=VBP	8	relcl	_	O
+12	the	the	DT	_	13	det	_	O
+13	animation	animation	NN	_	11	dobj	_	O
+14	here🍟	here🍟	GW	pos2=NFP	16	nmod	_	O
+15	https://t.co/T5GlUalnFQ…	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/OBj3SLe1gn	#hlink#	ADD	_	5	dep	_	U-ORG
+

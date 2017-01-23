@@ -1,0 +1,27 @@
+1	Did	do	VBD	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	know	know	VB	pos2=VBP	0	root	_	O
+4	that	that	IN	pos2=DT	15	mark	_	O
+5	only	only	RB	_	8	advmod	_	O
+6	less	less	JJR	_	8	qmod	_	O
+7	than	than	IN	_	8	qmod	_	O
+8	2	0	CD	_	9	nmod	_	O
+9	%	%	NN	_	15	nsubj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	abortions	abortion	NNS	_	10	pobj	_	O
+13	carried	carry	VBN	pos2=VBD	12	acl	_	O
+14	out	out	RP	pos2=RB	13	prt	_	O
+15	have	have	VBP	pos2=VB	3	ccomp	_	O
+16	a	a	DT	_	19	det	_	O
+17	genuine	genuine	JJ	_	19	nmod	_	O
+18	medical	medical	JJ	_	19	nmod	_	O
+19	reason	reason	NN	_	15	dobj	_	O
+20	and	and	CC	_	15	cc	_	O
+21	that	that	IN	_	19	relcl	_	O
+22	the	the	DT	_	23	det	_	O
+23	rest	rest	NN	_	19	conj	_	O
+24	...	..	.	_	3	punct	_	O
+
+1	https://t.co/WpDA8hrVOY	#hlink#	ADD	_	0	root	_	U-ORG
+

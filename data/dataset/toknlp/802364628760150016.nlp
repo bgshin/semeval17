@@ -1,0 +1,20 @@
+1	Politically	politically	RB	_	5	advmod	_	O
+2	Tone	tone	NNP	pos2=GW	4	compound	_	B-PERSON
+3	Deaf	deaf	NNP	_	4	compound	_	I-PERSON
+4	Pelosi	pelosi	NNP	_	5	nsubj	_	L-PERSON
+5	Accepts	accept	VBZ	_	0	root	_	O
+6	No	no	DT	pos2=NNP	7	det	_	O
+7	Responsibility	responsibility	NN	_	5	dobj	_	O
+8	For	for	IN	_	7	prep	_	O
+9	Democrats	democrat	NNPS	pos2=NNP	10	compound	_	U-NORP
+10	Failure	failure	NNP	pos2=NN	8	pobj	_	O
+11	,	,	,	_	16	punct	_	O
+12	Fails	fail	VBZ	_	5	conj	_	O
+13	To	to	TO	pos2=NNP	14	aux	_	O
+14	See	see	VB	pos2=NNP	12	xcomp	_	O
+15	She	she	PRP	_	16	nsubj	_	O
+16	Is	be	VBZ	_	14	ccomp	_	O
+17	The	the	DT	_	18	det	_	O
+18	Problem	problem	NN	pos2=NNP	16	attr	_	O
+19	https://t.co/xsxaPlTDjV	#hlink#	ADD	pos2=NN	15	appos	_	O
+

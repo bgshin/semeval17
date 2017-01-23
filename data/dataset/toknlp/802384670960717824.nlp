@@ -1,0 +1,36 @@
+1	Romney	romney	NNP	_	2	nsubj	_	U-PERSON
+2	fell	fall	VBD	_	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	Okeydoke	okeydoke	NNP	_	3	pobj	_	U-ORG
+6	.	.	.	_	2	punct	_	O
+
+1	He	he	PRP	_	4	nsubj	_	O
+2	will	will	MD	_	4	aux	_	O
+3	never	never	RB	_	4	neg	_	O
+4	be	be	VB	_	13	ccomp	_	O
+5	in	in	IN	_	4	prep	_	O
+6	a	a	DT	_	8	det	_	O
+7	Trump	trump	NNP	pos2=NN	8	compound	_	B-ORG
+8	Cabinet	cabinet	NNP	_	5	pobj	_	L-ORG
+9	,	,	,	_	13	punct	_	O
+10	he	he	PRP	_	13	nsubjpass	_	O
+11	just	just	RB	_	13	advmod	_	O
+12	got	get	VBD	_	13	auxpass	_	O
+13	served	serve	VBN	pos2=VBD	0	root	_	O
+14	a	a	DT	_	16	det	_	O
+15	cold	cold	JJ	pos2=NN	16	nmod	_	O
+16	lunch	lunch	NN	_	13	dobj	_	O
+17	.	.	.	_	13	punct	_	O
+
+1	Now	now	RB	pos2=UH	3	advmod	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	know	know	VBP	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Payback	payback	NN	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	real	real	JJ	pos2=NN	2	attr	_	O
+5	.......!	..!	.	_	2	punct	_	O
+

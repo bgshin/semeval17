@@ -1,0 +1,15 @@
+1	@TeutonicKnight7	@teutonicknight0	NN	pos2=JJ	3	nmod	_	U-PERSON
+2	white	white	JJ	_	3	nmod	_	O
+3	supremacists	supremacist	NNS	_	4	nsubj	_	O
+4	get	get	VBP	pos2=VB	0	root	_	O
+5	so	so	RB	_	6	advmod	_	O
+6	emotional	emotional	JJ	_	4	acomp	_	O
+7	that	that	IN	_	9	mark	_	O
+8	they	they	PRP	_	9	nsubj	_	O
+9	call	call	VBP	_	6	ccomp	_	O
+10	for	for	IN	_	9	prep	_	O
+11	the	the	DT	_	13	det	_	O
+12	2nd	#ord#	JJ	pos2=NN	13	nmod	_	U-ORDINAL
+13	holocaust	holocaust	NN	pos2=NNP	10	pobj	_	O
+14	.	.	.	_	4	punct	_	O
+

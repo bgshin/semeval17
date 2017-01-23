@@ -1,0 +1,24 @@
+1	@brittanyjeank	@brittanyjeank	UH	pos2=XX	5	discourse	_	O
+2	@deprive	@deprive	UH	pos2=CD	5	discourse	_	O
+3	basically	basically	RB	_	5	advmod	_	O
+4	Melania	melania	NNP	_	5	nsubj	_	U-PERSON
+5	gave	give	VBD	_	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	speech	speech	NN	_	5	dobj	_	O
+8	,	,	,	_	5	punct	_	O
+9	and	and	CC	_	5	cc	_	O
+10	it	it	PRP	_	11	nsubj	_	O
+11	was	be	VBD	_	5	conj	_	O
+12	the	the	DT	_	15	det	_	O
+13	EXACT	exact	JJ	pos2=NN	15	nmod	_	O
+14	SAME	same	JJ	_	15	nmod	_	O
+15	word	word	NN	_	11	attr	_	O
+16	for	for	IN	_	15	prep	_	O
+17	word	word	NN	_	16	pobj	_	O
+18	as	as	IN	_	15	prep	_	O
+19	a	a	DT	_	20	det	_	O
+20	speech	speech	NN	_	18	pobj	_	O
+21	Michelle	michelle	NNP	_	23	compound	_	B-PERSON
+22	Obama	obama	NNP	_	23	compound	_	L-PERSON
+23	made😂	made😂	NNP	pos2=.	20	appos	_	O
+

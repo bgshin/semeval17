@@ -1,0 +1,34 @@
+1	Was	be	VBD	_	0	root	_	O
+2	finally	finally	RB	_	1	advmod	_	O
+3	able	able	JJ	_	1	acomp	_	O
+4	to	to	TO	_	5	aux	_	O
+5	catch	catch	VB	_	3	xcomp	_	O
+6	up	up	RP	pos2=RB	5	prt	_	O
+7	&	&	CC	_	5	cc	_	O
+8	watch	watch	VB	_	5	conj	_	O
+9	the	the	DT	_	13	det	_	B-EVENT
+10	2016	0	CD	_	13	nmod	_	I-EVENT
+11	World	world	NNP	_	12	compound	_	I-EVENT
+12	Series	series	NNP	_	13	compound	_	L-EVENT
+13	film	film	NN	pos2=NNP	8	dobj	_	O
+14	&	&	CC	_	1	cc	_	O
+15	my	my	PRP$	_	16	poss	_	O
+16	goodness	goodness	NN	_	17	nsubj	_	O
+17	was	be	VBD	_	1	conj	_	O
+18	that	that	IN	pos2=DT	19	advmod	_	O
+19	epic	epic	JJ	pos2=NNP	17	acomp	_	O
+20	!	!	.	_	17	punct	_	O
+
+1	Made	make	VBD	pos2=VB	0	root	_	O
+2	me	me	PRP	_	3	nsubj	_	O
+3	cry	cry	VB	_	1	ccomp	_	O
+4	like	like	IN	_	3	prep	_	O
+5	a	a	DT	_	6	det	_	O
+6	baby	baby	NN	_	4	pobj	_	O
+7	all	all	RB	_	9	advmod	_	O
+8	over	over	RB	_	9	advmod	_	O
+9	again	again	RB	_	3	advmod	_	O
+10	!	!	.	_	1	punct	_	O
+
+1	#Cubs	#cubs	NNS	pos2=NNP	0	root	_	O
+

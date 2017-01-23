@@ -1,0 +1,21 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	Is	be	VBZ	_	0	root	_	O
+3	What	what	WP	_	6	pobj	_	O
+4	It	it	PRP	_	5	nsubj	_	O
+5	's	's	VBZ	_	2	ccomp	_	O
+6	Like	like	IN	pos2=NNP	5	prep	_	O
+7	to	to	TO	pos2=IN	8	aux	_	O
+8	Film	film	VB	pos2=NNP	5	xcomp	_	O
+9	an	an	DT	_	12	det	_	O
+10	Insane	insane	NNP	pos2=JJ	12	compound	_	B-ORG
+11	Sex	sex	NNP	pos2=NN	12	compound	_	I-ORG
+12	Scene	scene	NNP	pos2=NN	8	dobj	_	L-ORG
+13	with	with	IN	_	8	prep	_	O
+14	,	,	,	_	13	punct	_	O
+15	uh	uh	UH	_	13	discourse	_	O
+16	,	,	,	_	13	punct	_	O
+17	Michael	michael	NNP	_	18	compound	_	B-PERSON
+18	Moore	moore	NNP	pos2=GW	13	pobj	_	L-PERSON
+19	https://t.co/tLg7JnkO6B	#hlink#	ADD	_	20	nmod	_	O
+20	https://t.co/dLbAVZJkuw	#hlink#	ADD	_	18	appos	_	U-ORG
+

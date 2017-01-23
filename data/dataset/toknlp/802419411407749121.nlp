@@ -1,0 +1,27 @@
+1	@UKIP	@ukip	NN	pos2=XX	3	nmod	_	O
+2	@UKLabour	@uklabour	GW	pos2=ADD	3	nmod	_	U-CARDINAL
+3	@Conservatives	@conservatives	NNS	pos2=VBZ	0	root	_	O
+4	We	we	PRP	_	6	nsubj	_	O
+5	can	can	MD	_	6	aux	_	O
+6	exit	exit	VB	pos2=NN	3	relcl	_	O
+7	&	&	CC	_	6	cc	_	O
+8	stop	stop	VB	_	6	conj	_	O
+9	paying	pay	VBG	_	8	xcomp	_	O
+10	the	the	DT	_	12	det	_	O
+11	undemocratic	undemocratic	JJ	_	12	nmod	_	O
+12	EU	eu	NNP	pos2=NN	9	dobj	_	U-ORG
+13	today	today	NN	_	9	npadvmod	_	U-DATE
+14	with	with	IN	_	9	prep	_	O
+15	one	#crd#	CD	_	16	nmod	_	U-CARDINAL
+16	order	order	NN	_	14	pobj	_	O
+17	from	from	IN	_	16	prep	_	O
+18	our	our	PRP$	_	19	poss	_	O
+19	PM	pm	NN	_	17	pobj	_	O
+20	backed	back	VBN	_	19	acl	_	O
+21	by	by	IN	_	20	agent	_	O
+22	MP	mp	NNP	pos2=NN	21	pobj	_	U-ORG
+23	's	's	POS	pos2=AFX	22	case	_	O
+24	in	in	IN	_	20	prep	_	O
+25	Parliament	parliament	NNP	_	24	pobj	_	U-ORG
+26	.	.	.	_	3	punct	_	O
+

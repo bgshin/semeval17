@@ -1,0 +1,14 @@
+1	@tanasmodel	@tanasmodel	UH	pos2=XX	5	discourse	_	O
+2	UM	um	UH	pos2=NNP	5	discourse	_	O
+3	YOU	you	PRP	_	5	nsubj	_	O
+4	ARE	be	VBP	_	5	aux	_	O
+5	TALKING	talk	VBG	_	0	root	_	O
+6	AB	ab	NNP	pos2=IN	5	dobj	_	O
+7	YOURSELF	yourself	PRP	pos2=NNP	5	npadvmod	_	O
+8	IM	im	NNP	pos2=NN	11	compound	_	B-ORG
+9	MELANIA	melania	NNP	pos2=NN	11	compound	_	I-ORG
+10	TRUMP	trump	NNP	pos2=NN	11	compound	_	I-ORG
+11	BEXT	bext	NNP	pos2=JJ	5	dobj	_	L-ORG
+12	TO	to	IN	_	5	prep	_	O
+13	YOU	you	PRP	_	12	pobj	_	O
+

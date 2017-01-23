@@ -1,0 +1,19 @@
+1	Jacob	jacob	NNP	_	2	compound	_	B-PERSON
+2	#Israel	#israel	NNP	pos2=ADD	0	root	_	L-PERSON
+3	on	on	IN	_	2	prep	_	O
+4	how	how	WRB	_	6	advmod	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	are	be	VBP	_	3	pcomp	_	O
+7	really	really	RB	_	6	advmod	_	O
+8	not	not	RB	_	6	neg	_	O
+9	here	here	RB	_	6	advmod	_	O
+10	right	right	RB	_	11	advmod	_	O
+11	now	now	RB	_	6	advmod	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	https://t.co/6LSHCUs8U5	#hlink#	ADD	_	5	dep	_	O
+2	#Bibi	#bibi	NNP	pos2=-RRB-	5	dep	_	O
+3	#Yelev	#yelev	XX	pos2=NNP	5	dep	_	O
+4	#Jerusalem	#jerusalem	NNP	pos2=XX	5	compound	_	B-PERSON
+5	#Blackfriday	#blackfriday	NNP	pos2=XX	0	root	_	L-PERSON
+

@@ -1,0 +1,13 @@
+1	Wait	wait	VB	pos2=NNP	5	advcl	_	O
+2	,	,	,	_	5	punct	_	O
+3	Mike	mike	NNP	_	4	compound	_	B-PERSON
+4	Pence	penny	NNP	_	5	nsubj	_	L-PERSON
+5	is	be	VBZ	_	11	ccomp	_	O
+6	a	a	DT	_	9	det	_	O
+7	caramel	caramel	NN	_	9	compound	_	O
+8	corn	corn	NN	_	9	compound	_	O
+9	salesman	salesman	NN	_	5	attr	_	O
+10	,	,	,	_	11	punct	_	O
+11	right	right	JJ	_	0	root	_	O
+12	?	?	.	_	11	punct	_	O
+

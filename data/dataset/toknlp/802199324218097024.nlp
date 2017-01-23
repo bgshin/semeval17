@@ -1,0 +1,23 @@
+1	@LHedvigJohnson	@lhedvigjohnson	NNP	pos2=NN	3	compound	_	O
+2	Ben	ben	NNP	_	3	compound	_	B-PERSON
+3	Carson	carson	NNP	_	6	nsubj	_	L-PERSON
+4	has	have	VBZ	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	mastered	master	VBN	pos2=VBD	0	root	_	O
+7	walking	walk	VBG	pos2=NN	6	xcomp	_	O
+8	onstage	onstage	RB	_	7	advmod	_	O
+9	after	after	IN	_	7	prep	_	O
+10	an	an	DT	_	11	det	_	O
+11	introduction	introduction	NN	_	9	pobj	_	O
+12	.	.	.	_	6	punct	_	O
+
+1	Your	your	PRP$	_	3	poss	_	O
+2	bio	bio	NN	pos2=JJ	3	compound	_	O
+3	domain	domain	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	DOA	doa	NNP	pos2=NN	4	attr	_	U-ORG
+6	.	.	.	_	4	punct	_	O
+
+1	Muting	muting	NN	pos2=VBG	0	root	_	O
+2	...	..	.	pos2=,	1	punct	_	O
+

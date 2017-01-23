@@ -1,0 +1,21 @@
+1	@modernactivism	@modernactivism	UH	pos2=NN	5	discourse	_	O
+2	@the_intercept	@the_intercept	IN	pos2=WP	5	discourse	_	O
+3	I	I	PRP	_	5	nsubj	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	read	read	VBD	pos2=VBP	18	advcl	_	O
+6	about	about	IN	_	5	prep	_	O
+7	China	china	NNP	_	6	pobj	_	B-ORG
+8	&	&	CC	_	7	cc	_	I-ORG
+9	India	india	NNP	_	7	conj	_	L-ORG
+10	wanting	want	VBG	_	5	advcl	_	O
+11	to	to	TO	_	12	aux	_	O
+12	step	step	VB	_	10	xcomp	_	O
+13	into	into	IN	_	12	prep	_	O
+14	TPP.	tpp.	NNP	pos2=NN	16	nmod	_	O
+15	11	0	CD	_	16	nmod	_	U-CARDINAL
+16	nations	nation	NNS	_	13	pobj	_	O
+17	currently	currently	RB	_	18	advmod	_	O
+18	signed	sign	VBN	pos2=VBD	0	root	_	O
+19	on	on	IN	pos2=RP	18	prep	_	O
+20	.	.	.	_	18	punct	_	O
+

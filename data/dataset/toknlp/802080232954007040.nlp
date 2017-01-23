@@ -1,0 +1,15 @@
+1	@ricky_martinplease	@ricky_martinplease	DT	pos2=PRP$	2	det	_	O
+2	help	help	NN	pos2=VB	14	nmod	_	O
+3	arakan	arakan	IN	pos2=JJ	2	prep	_	O
+4	Prime	prime	NNP	_	5	compound	_	O
+5	Minister	minister	NNP	_	3	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	Malaysia	malaysia	NNP	_	6	pobj	_	U-GPE
+8	,	,	,	_	2	punct	_	O
+9	working	work	VBG	_	2	acl	_	O
+10	towards	towards	IN	_	9	prep	_	O
+11	a@NajibRazakı	a@najibrazakı	NNP	pos2=CD	10	pobj	_	U-GPE
+12	lowe	lowe	GW	pos2=JJ	14	nmod	_	O
+13	@c_ahmethoca	@c_ahmethoca	GW	pos2=ADD	14	nmod	_	U-GPE
+14	https://t.co/GRSmPCOSRn	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,20 @@
+1	The	the	DT	_	5	det	_	O
+2	'	'	``	_	5	punct	_	O
+3	e	e	NN	pos2=LS	5	nmod	_	O
+4	'	'	''	_	5	punct	_	O
+5	word	word	NN	_	17	nsubj	_	O
+6	,	,	,	_	5	punct	_	O
+7	Stephen	stephen	NNP	_	8	compound	_	B-PERSON
+8	Hawking	hawking	NNP	_	9	compound	_	L-PERSON
+9	catapults	catapult	NNS	pos2=VBZ	11	compound	_	O
+10	self	self	NN	_	11	compound	_	O
+11	reflection	reflection	NN	_	5	appos	_	O
+12	into	into	IN	_	11	prep	_	O
+13	solutions	solution	NNS	_	12	pobj	_	O
+14	,	,	,	_	17	punct	_	O
+15	iconic	iconic	JJ	_	16	nmod	_	O
+16	negotiators	negotiator	NNS	_	17	nsubj	_	O
+17	needed	need	VBD	pos2=VBN	0	root	_	O
+18	https://t.co/TwAUevJYrU	#hlink#	ADD	_	19	nmod	_	U-ORG
+19	@CNET	@cnet	NN	pos2=ADD	17	dobj	_	U-LANGUAGE
+

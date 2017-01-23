@@ -1,0 +1,11 @@
+1	3	0	CD	_	5	nmod	_	U-CARDINAL
+2	D	d	NNP	pos2=NN	5	compound	_	B-ORG
+3	Printing	printing	NNP	pos2=NN	5	compound	_	I-ORG
+4	Replacement	replacement	NNP	pos2=NN	5	compound	_	I-ORG
+5	Bands	band	NNPS	pos2=NNS	10	dep	_	L-ORG
+6	with	with	IN	_	5	prep	_	O
+7	Clasps	clasp	NNS	pos2=NNP	6	pobj	_	O
+8	for	for	IN	_	7	prep	_	O
+9	Fitbit	fitbit	NNP	_	8	pobj	_	O
+10	https://t.co/f7MYRx90I9	#hlink#	ADD	pos2=NNP	0	root	_	O
+

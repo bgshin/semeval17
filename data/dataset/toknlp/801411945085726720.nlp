@@ -1,0 +1,24 @@
+1	https://t.co/X2QpNtjDnm	#hlink#	ADD	_	0	root	_	O
+2	https://t.co/WaywITyVZO	#hlink#	ADD	_	0	root	_	O
+3	Why	why	WRB	_	7	advmod	_	O
+4	has	have	VBZ	_	7	aux	_	O
+5	the	the	DT	_	6	det	_	O
+6	DOJ	doj	NNP	_	7	nsubj	_	U-ORG
+7	sided	sided	JJ	pos2=VBN	2	ccomp	_	O
+8	with	with	IN	_	7	prep	_	O
+9	Law	law	NNP	_	10	compound	_	B-ORG
+10	Breakers	breaker	NNPS	pos2=NNS	8	pobj	_	L-ORG
+11	?	?	.	_	1	punct	_	O
+
+1	Oh	oh	UH	_	4	discourse	_	O
+2	Yeah	yeah	UH	_	1	discourse	_	O
+3	L.Lynch	#hlink#	ADD	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	HRC	hrc	NNP	pos2=NN	9	poss	_	U-ORG
+6	's	's	POS	pos2=AFX	5	case	_	O
+7	Pet.18	pet.0	NNP	pos2=NNPS	9	compound	_	O
+8	USC	usc	NNP	_	9	compound	_	O
+9	§	§	NNP	pos2=NFP	4	attr	_	B-DATE
+10	2101-2	0	CD	_	9	npadvmod	_	L-DATE
+11	BROKEN	break	VBN	pos2=JJ	4	acomp	_	O
+

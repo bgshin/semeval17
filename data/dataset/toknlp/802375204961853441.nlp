@@ -1,0 +1,18 @@
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=TO	3	dep	_	O
+2	please	please	UH	_	3	discourse	_	O
+3	keep	keep	VB	_	0	root	_	O
+4	our	our	PRP$	_	5	poss	_	O
+5	#Medicare	#medicare	NNP	pos2=NN	3	dobj	_	U-NORP
+6	#medicaid	#medicaid	FW	pos2=XX	3	dep	_	O
+7	#chronicillness	#chronicillness	FW	pos2=IN	17	nmod	_	O
+8	#disabled	#disabled	FW	pos2=XX	10	nmod	_	O
+9	lives	live	VBZ	pos2=NNS	10	aux	_	O
+10	counting	count	VBG	_	3	xcomp	_	O
+11	on	on	IN	_	10	prep	_	O
+12	your	your	PRP$	_	13	poss	_	O
+13	promise	promise	NN	_	11	pobj	_	O
+14	please	please	UH	_	17	discourse	_	O
+15	not	not	RB	_	17	neg	_	O
+16	#paulryan	#paulryan	JJ	pos2=MD	17	nmod	_	O
+17	plan	plan	NN	_	3	dep	_	O
+

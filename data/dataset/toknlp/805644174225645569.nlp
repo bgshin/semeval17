@@ -1,0 +1,10 @@
+1	Support	support	NN	_	5	nsubj	_	O
+2	For	for	IN	_	1	prep	_	O
+3	Gay	gay	NNP	pos2=JJ	4	compound	_	B-WORK_OF_ART
+4	Marriage	marriage	NNP	pos2=NN	2	pobj	_	I-WORK_OF_ART
+5	Surges	surge	VBZ	pos2=NNPS	0	root	_	I-WORK_OF_ART
+6	Higher	higher	NNP	pos2=RBR	7	nmod	_	L-WORK_OF_ART
+7	https://t.co/nZEeWEUXVj	#hlink#	ADD	pos2=NN	9	nmod	_	O
+8	via	via	IN	_	5	prep	_	O
+9	@HuffPostQueer	@huffpostqueer	NN	pos2=ADD	8	pobj	_	O
+

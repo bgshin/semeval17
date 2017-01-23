@@ -1,0 +1,22 @@
+1	White	white	JJ	pos2=NNP	2	nmod	_	O
+2	pride	pride	NN	_	3	compound	_	O
+3	goeth	goeth	NN	pos2=XX	11	dep	_	O
+4	before	before	IN	_	3	prep	_	O
+5	a	a	DT	_	6	det	_	O
+6	fall	fall	NN	_	4	pobj	_	O
+7	:	:	:	_	11	punct	_	O
+8	Alt	alt	JJ	pos2=NNP	10	nmod	_	O
+9	-	-	HYPH	_	10	punct	_	O
+10	rightists	rightist	NNS	_	11	nsubj	_	O
+11	turn	turn	VBP	pos2=VB	0	root	_	O
+12	on	on	IN	pos2=RP	11	prep	_	O
+13	each	each	DT	_	14	det	_	O
+14	other	other	JJ	_	12	pobj	_	O
+15	over	over	IN	pos2=RP	11	prt	_	O
+16	"	"	``	pos2=HYPH	18	punct	_	O
+17	hail	hail	NN	pos2=VB	18	compound	_	O
+18	Trump	trump	NNP	pos2=NN	20	nmod	_	B-ORG
+19	"	"	''	_	18	punct	_	L-ORG
+20	video	video	NN	_	21	dep	_	O
+21	https://t.co/gHhLJnMJjx	#hlink#	ADD	pos2=NN	11	dep	_	O
+

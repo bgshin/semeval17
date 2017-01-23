@@ -1,0 +1,21 @@
+1	Spend	spend	VB	pos2=VBP	0	root	_	O
+2	this	this	DT	_	4	det	_	B-DATE
+3	holiday	holiday	NN	_	4	compound	_	I-DATE
+4	weekend	weekend	NN	_	1	dobj	_	L-DATE
+5	with	with	IN	_	1	prep	_	O
+6	some	some	DT	_	8	det	_	O
+7	new	new	JJ	_	8	nmod	_	O
+8	friends	friend	NNS	_	5	pobj	_	O
+9	from	from	IN	_	8	prep	_	O
+10	@jk_rowling	@jk_rowling	NNP	pos2=VBG	13	poss	_	U-ORG
+11	's	's	POS	_	10	case	_	O
+12	Wizarding	wizarding	NNP	pos2=JJ	13	compound	_	B-ORG
+13	World	world	NNP	_	9	pobj	_	L-ORG
+14	in	in	IN	_	1	prep	_	O
+15	#FantasticBeasts	#fantasticbeasts	NNS	pos2=NNP	14	pobj	_	O
+16	!	!	.	_	1	punct	_	O
+
+1	#FBTickets	#fbtickets	NNS	pos2=GW	3	nmod	_	O
+2	…	…	NFP	pos2=-LRB-	3	punct	_	O
+3	https://t.co/i1wi1Me2cs	#hlink#	ADD	pos2=NN	0	root	_	O
+

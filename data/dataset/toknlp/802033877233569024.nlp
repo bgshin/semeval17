@@ -1,0 +1,23 @@
+1	Any	any	DT	_	4	det	_	O
+2	screaming	scream	VBG	pos2=JJ	4	nmod	_	O
+3	good	good	JJ	_	4	nmod	_	O
+4	games	game	NNS	_	21	dobj	_	O
+5	that	that	WDT	_	6	nsubj	_	O
+6	are	be	VBP	_	4	relcl	_	O
+7	n't	not	RB	_	6	neg	_	O
+8	available	available	JJ	_	6	acomp	_	O
+9	on	on	IN	_	6	prep	_	O
+10	PC	pc	NN	pos2=NNP	9	pobj	_	O
+11	that	that	WDT	pos2=DT	12	nsubj	_	O
+12	's	's	VBZ	_	8	ccomp	_	O
+13	worth	worth	JJ	pos2=NN	12	acomp	_	O
+14	picking	pick	VBG	_	13	xcomp	_	O
+15	up	up	RP	_	14	prt	_	O
+16	between	between	IN	_	14	prep	_	O
+17	now	now	RB	_	21	advmod	_	O
+18	and	and	CC	_	17	cc	_	O
+19	Persona	persona	NNP	pos2=NN	20	compound	_	B-DATE
+20	5's	0's	NNS	pos2=POS	21	nsubj	_	L-DATE
+21	release	release	VB	pos2=NN	0	root	_	O
+22	?	?	.	_	21	punct	_	O
+

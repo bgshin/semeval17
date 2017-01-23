@@ -1,0 +1,30 @@
+1	America	america	NNP	pos2=UH	4	vocative	_	U-GPE
+2	,	,	,	_	4	punct	_	O
+3	please	please	UH	_	4	discourse	_	O
+4	understand	understand	VB	_	0	root	_	O
+5	WHY	why	WRB	_	10	advmod	_	O
+6	the	the	DT	_	7	det	_	O
+7	lies	lie	NNS	pos2=VBZ	3	dobj	_	O
+8	about	about	IN	_	7	prep	_	O
+9	illegal	illegal	JJ	_	10	nmod	_	O
+10	voters	voter	NNS	_	8	pobj	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	not	not	RB	_	2	neg	_	O
+4	to	to	TO	_	5	aux	_	O
+5	legitimize	legitimize	VB	_	2	xcomp	_	O
+6	*	*	SYM	pos2=NFP	5	punct	_	O
+7	anything	anything	NN	_	5	dobj	_	O
+8	,	,	,	_	5	punct	_	O
+9	except	except	IN	_	5	prep	_	O
+10	voter	voter	NN	_	11	compound	_	O
+11	suppression	suppression	NN	_	12	compound	_	O
+12	laws	law	NNS	_	9	pobj	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	Wake	wake	VB	pos2=NN	0	root	_	O
+2	up	up	RP	pos2=NN	1	prt	_	O
+3	.	.	.	_	1	punct	_	O
+

@@ -1,0 +1,27 @@
+1	@Karoli	@karoli	NNP	pos2=NNS	5	vocative	_	O
+2	@yottapoint	@yottapoint	UH	pos2=NN	5	discourse	_	O
+3	@thedailybeast	@thedailybeast	UH	pos2=IN	5	discourse	_	O
+4	It	it	PRP	_	5	nsubj	_	O
+5	was	be	VBD	_	0	root	_	O
+6	a	a	DT	_	8	det	_	O
+7	Perfect	perfect	JJ	pos2=NNP	8	nmod	_	O
+8	storm	storm	NN	_	5	attr	_	O
+9	He	he	PRP	pos2=NNP	10	nsubj	_	O
+10	lied	lie	VBD	_	8	relcl	_	O
+11	,	,	,	_	8	punct	_	O
+12	Wiki	wiki	NNP	pos2=NN	13	compound	_	O
+13	leaks	leak	NNS	pos2=NNP	10	dobj	_	O
+14	,	,	,	_	13	punct	_	O
+15	Comey	comey	NNP	_	13	appos	_	O
+16	&	&	CC	_	15	cc	_	O
+17	the	the	DT	_	19	det	_	O
+18	Hatch	hatch	NNP	_	19	compound	_	U-ORG
+19	act	act	NN	pos2=NNP	15	conj	_	O
+20	,	,	,	_	19	punct	_	O
+21	3rd	#ord#	JJ	pos2=CD	23	nmod	_	U-ORDINAL
+22	party	party	NN	_	23	compound	_	O
+23	candidates	candidate	NNS	_	19	conj	_	O
+24	,	,	,	_	23	punct	_	O
+25	voter	voter	NN	_	26	compound	_	O
+26	suppression	suppression	NN	_	23	conj	_	O
+

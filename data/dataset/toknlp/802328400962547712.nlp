@@ -1,0 +1,30 @@
+1	@mfore0142	@mfore0	NN	pos2=UH	5	dep	_	O
+2	Oh	oh	UH	_	5	discourse	_	O
+3	,	,	,	_	5	punct	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	see	see	VBP	_	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	Obama	obama	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	chose	choose	VBD	_	0	root	_	O
+3	to	to	TO	pos2=IN	5	aux	_	O
+4	only	only	RB	_	5	advmod	_	O
+5	swindle	swindle	VB	_	2	xcomp	_	O
+6	millions	#crd#	NNS	_	5	dobj	_	U-CARDINAL
+7	of	of	IN	_	6	prep	_	O
+8	people	people	NNS	_	7	pobj	_	O
+9	,	,	,	_	5	punct	_	O
+10	not	not	RB	_	5	neg	_	O
+11	you	you	PRP	_	5	dobj	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	Lefty	lefty	NN	pos2=NNP	2	compound	_	O
+2	compassion	compassion	NN	_	5	nsubj	_	O
+3	at	at	IN	_	2	prep	_	O
+4	it	it	PRP	_	0	root	_	O
+5	's	's	VBZ	pos2=POS	4	case	_	O
+6	finest	fine	JJS	pos2=RBS	5	acomp	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	https://t.co/pdfzacvlnB	#hlink#	ADD	_	0	root	_	U-ORG
+

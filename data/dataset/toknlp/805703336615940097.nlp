@@ -1,0 +1,9 @@
+1	US	us	NNP	_	3	compound	_	O
+2	Immigration	immigration	NNP	pos2=NN	3	compound	_	O
+3	Preclearance	preclearance	NNP	pos2=NN	8	dep	_	O
+4	In	in	IN	pos2=NNP	3	prep	_	O
+5	Ireland	ireland	NNP	_	7	compound	_	U-GPE
+6	-	-	HYPH	pos2=,	7	punct	_	O
+7	TravelUpdate	travelupdate	NNP	_	4	pobj	_	O
+8	https://t.co/VXzccLzXgK	#hlink#	ADD	pos2=NN	0	root	_	O
+

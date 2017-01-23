@@ -1,0 +1,24 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	U-ORG
+2	@OriginalBubsRA	@originalbubsra	NN	pos2=NNS	7	dep	_	O
+3	:	:	:	_	7	punct	_	O
+4	why	why	WRB	_	7	advmod	_	O
+5	are	be	VBP	_	7	aux	_	O
+6	we	we	PRP	_	7	nsubj	_	O
+7	pretending	pretend	VBG	_	13	csubj	_	O
+8	'	'	``	pos2=''	7	punct	_	O
+9	alt	alt	JJ	pos2=RB	11	advmod	_	O
+10	-	-	HYPH	_	11	punct	_	O
+11	right	right	JJ	pos2=NN	12	nmod	_	O
+12	'	'	''	_	7	punct	_	O
+13	is	be	VBZ	_	0	root	_	O
+14	both	both	CC	pos2=DT	17	preconj	_	O
+15	a	a	DT	_	17	det	_	O
+16	concrete	concrete	JJ	_	17	nmod	_	O
+17	movement	movement	NN	_	13	attr	_	O
+18	and	and	CC	_	13	cc	_	O
+19	has	have	VBZ	_	13	conj	_	O
+20	some	some	DT	_	21	det	_	O
+21	level	level	NN	_	19	dobj	_	O
+22	of	of	IN	_	21	prep	_	O
+23	hierarchy	hierarchy	NN	_	22	pobj	_	O
+

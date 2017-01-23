@@ -1,0 +1,24 @@
+1	Hmm	hmm	UH	pos2=JJ	3	discourse	_	O
+2	future	future	JJ	pos2=NN	3	nmod	_	O
+3	job	job	NN	_	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+
+1	"	"	``	pos2=SYM	18	punct	_	O
+2	Government	government	NN	pos2=NNP	3	nsubj	_	O
+3	using	use	VBG	_	0	root	_	O
+4	drones	drone	NNS	_	3	dobj	_	O
+5	that	that	WDT	_	6	nsubj	_	O
+6	fire	fire	VBP	pos2=NN	4	relcl	_	O
+7	peanut	peanut	NN	_	8	compound	_	O
+8	butter	butter	NN	_	6	dobj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	save	save	VB	_	6	advcl	_	O
+11	black	black	JJ	pos2=NN	13	advmod	_	O
+12	-	-	HYPH	_	13	punct	_	O
+13	footed	footed	JJ	pos2=VBN	14	nmod	_	O
+14	ferrets	ferret	NNS	_	10	dobj	_	O
+15	from	from	IN	_	10	prep	_	O
+16	extinction	extinction	NN	_	15	pobj	_	O
+17	"	"	''	pos2=``	18	punct	_	O
+18	https://t.co/5gnmE91P7x	#hlink#	ADD	pos2=NN	0	root	_	O
+

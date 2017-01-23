@@ -1,0 +1,17 @@
+1	PeterTownsend7	petertownsend0	NN	pos2=NNS	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	The	the	DT	_	4	det	_	O
+4	Qur'an	qur'an	NNP	_	8	nsubj	_	O
+5	on	on	IN	_	4	prep	_	O
+6	Gay	gay	NNP	_	7	compound	_	B-ORG
+7	People	people	NNPS	pos2=NNS	5	pobj	_	I-ORG
+8	#trump	#trump	VBP	pos2=IN	0	root	_	I-ORG
+9	#maga	#maga	UH	pos2=GW	8	discourse	_	L-ORG
+10	#isis	#isis	GW	pos2=UH	13	nmod	_	O
+11	#tcot	#tcot	GW	pos2=UH	13	nmod	_	O
+12	https://t.co/iwj7g9PDMV	#hlink#	ADD	pos2=GW	13	nmod	_	O
+13	https://t.co/AlRTg6tujX	#hlink#	ADD	_	8	dep	_	U-ORG
+14	#anythingbutislam	#anythingbutislam	-RRB-	pos2=VB	13	punct	_	O
+15	#reli	#reli	UH	pos2=-RRB-	8	discourse	_	O
+16	…	…	NFP	pos2=.	8	discourse	_	O
+

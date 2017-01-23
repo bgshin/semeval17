@@ -1,0 +1,24 @@
+1	@Sqwizzey	@sqwizzey	NNP	pos2=UH	4	compound	_	O
+2	@MMFlint	@mmflint	NNP	pos2=POS	4	compound	_	O
+3	Michael	michael	NNP	_	4	compound	_	B-PERSON
+4	Moore	moore	NNP	_	5	nsubj	_	L-PERSON
+5	is	be	VBZ	_	0	root	_	O
+6	a	a	DT	_	12	det	_	O
+7	bloated	bloated	JJ	_	12	nmod	_	O
+8	and	and	CC	_	7	cc	_	O
+9	crap	crap	NN	pos2=RB	11	npadvmod	_	O
+10	-	-	HYPH	_	11	punct	_	O
+11	flinging	fling	VBG	_	12	nmod	_	O
+12	monkey	monkey	NN	_	5	attr	_	O
+13	.	.	.	_	5	punct	_	O
+
+1	Trump	trump	NN	pos2=NNP	2	nsubj	_	U-PERSON
+2	won	win	VBD	pos2=VBN	0	root	_	O
+3	fairly	fairly	RB	_	2	advmod	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	Deal	deal	VB	pos2=NN	0	root	_	O
+2	with	with	IN	_	1	prep	_	O
+3	it	it	PRP	_	2	pobj	_	O
+4	.	.	.	_	1	punct	_	O
+

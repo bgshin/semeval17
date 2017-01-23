@@ -1,0 +1,15 @@
+1	The	the	DT	_	3	det	_	B-ORG
+2	Medical	medical	NNP	pos2=JJ	3	compound	_	I-ORG
+3	Side	side	NNP	pos2=NN	14	nsubj	_	I-ORG
+4	of	of	IN	_	3	prep	_	I-ORG
+5	Dabbing	dab	VBG	pos2=NNP	4	pcomp	_	I-ORG
+6	|	|	SYM	pos2=NFP	14	punct	_	I-ORG
+7	Cannabis	cannabis	NNP	pos2=NN	5	dobj	_	I-ORG
+8	Now	now	RB	pos2=GW	5	advmod	_	L-ORG
+9	https://t.co/fgufrPXKE6	#hlink#	ADD	pos2=VBZ	14	nmod	_	O
+10	#cannabis	#cannabis	-RRB-	pos2=IN	9	punct	_	O
+11	#marijuana	#marijuana	UH	pos2=FW	14	discourse	_	O
+12	#mmj	#mmj	UH	pos2=FW	14	discourse	_	O
+13	#mmot	#mmot	UH	pos2=IN	14	discourse	_	O
+14	#medical	#medical	UH	pos2=.	0	root	_	O
+

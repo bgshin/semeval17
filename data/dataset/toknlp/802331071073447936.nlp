@@ -1,0 +1,25 @@
+1	If	if	IN	_	3	mark	_	O
+2	teachers	teacher	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	13	advcl	_	O
+4	willing	willing	JJ	_	3	acomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	make	make	VB	_	4	xcomp	_	O
+7	content	content	NN	pos2=JJ	9	nsubj	_	O
+8	wicked	wicked	JJ	_	9	advmod	_	O
+9	cool	cool	JJ	pos2=NN	6	ccomp	_	O
+10	,	,	,	_	13	punct	_	O
+11	students	student	NNS	_	13	nsubj	_	O
+12	will	will	MD	_	13	aux	_	O
+13	be	be	VB	_	0	root	_	O
+14	willing	willing	JJ	_	13	acomp	_	O
+15	to	to	TO	_	16	aux	_	O
+16	engage	engage	VB	_	14	xcomp	_	O
+17	in	in	IN	_	16	prep	_	O
+18	deep	deep	JJ	pos2=NN	19	nmod	_	O
+19	learning	learning	NN	_	17	pobj	_	O
+20	.	.	.	_	13	punct	_	O
+
+1	#divergED	#diverged	GW	pos2=VBN	3	nmod	_	O
+2	…	…	NFP	pos2=GW	3	punct	_	O
+3	https://t.co/JranMDFXCL	#hlink#	ADD	pos2=NN	0	root	_	O
+

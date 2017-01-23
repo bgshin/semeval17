@@ -1,0 +1,24 @@
+1	Messi	messi	NNP	_	2	nsubj	_	U-PERSON
+2	was	be	VBD	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	leader	leader	NN	_	2	attr	_	O
+5	yesterday	yesterday	NN	_	2	npadvmod	_	U-DATE
+6	when	when	WRB	_	9	advmod	_	O
+7	he	he	PRP	_	9	nsubj	_	O
+8	had	have	VBD	_	9	aux	_	O
+9	told	tell	VBN	_	2	advcl	_	O
+10	Suarez	suarez	NNP	_	9	dobj	_	B-ORG
+11	&	&	CC	_	10	cc	_	I-ORG
+12	Neymar	neymar	NNP	_	10	conj	_	L-ORG
+13	to	to	TO	_	14	aux	_	O
+14	calm	calm	VB	_	9	xcomp	_	O
+15	down	down	RP	_	14	prt	_	O
+16	after	after	IN	_	19	mark	_	O
+17	stuff	stuff	NN	_	19	nsubjpass	_	O
+18	got	get	VBD	_	19	auxpass	_	O
+19	heated	heat	VBN	pos2=JJ	14	advcl	_	O
+20	.	.	.	_	2	punct	_	O
+
+1	#fcblive	#fcblive	UH	pos2=ADD	2	discourse	_	O
+2	https://t.co/KXpWb9hV1i	#hlink#	ADD	pos2=NN	0	root	_	O
+

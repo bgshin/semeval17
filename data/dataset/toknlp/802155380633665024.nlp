@@ -1,0 +1,21 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	think	think	VBP	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	weirdest	weird	JJS	_	5	nmod	_	O
+5	thing	thing	NN	_	12	nsubj	_	O
+6	about	about	IN	_	5	prep	_	O
+7	the	the	DT	_	11	det	_	O
+8	new	new	JJ	pos2=XX	11	nmod	_	O
+9	David	david	NNP	_	10	compound	_	B-PERSON
+10	Blaine	blaine	NNP	_	11	compound	_	L-PERSON
+11	special	special	JJ	pos2=NN	6	pobj	_	O
+12	is	be	VBZ	_	2	ccomp	_	O
+13	that	that	IN	_	18	mark	_	O
+14	these	these	DT	_	15	det	_	O
+15	groups	group	NNS	_	18	nsubj	_	O
+16	of	of	IN	_	15	prep	_	O
+17	celebrities	celebrity	NNS	_	16	pobj	_	O
+18	hang	hang	VBP	pos2=VBG	12	ccomp	_	O
+19	out	out	RP	pos2=RB	18	prt	_	O
+20	.	.	.	_	2	punct	_	O
+

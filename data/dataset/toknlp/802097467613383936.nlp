@@ -1,0 +1,11 @@
+1	#IFAD	#ifad	NN	pos2=XX	3	compound	_	B-ORG
+2	#Internship	#internship	NNP	pos2=NN	3	compound	_	I-ORG
+3	Programme	programme	NNP	pos2=NN	10	dep	_	L-ORG
+4	in	in	IN	_	3	prep	_	O
+5	#Rome	#rome	NNP	pos2=CD	6	compound	_	O
+6	#FAO	#fao	NNP	pos2=POS	9	poss	_	O
+7	#WFP	#wfp	POS	pos2=NNP	6	case	_	O
+8	#UnitedNations	#unitednations	NNS	pos2=GW	9	compound	_	B-DATE
+9	#Expats	#expats	NNS	pos2=VBZ	4	pobj	_	L-DATE
+10	https://t.co/Ljr8wJ5HHA	#hlink#	ADD	_	0	root	_	O
+

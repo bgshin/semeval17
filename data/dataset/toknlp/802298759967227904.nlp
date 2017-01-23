@@ -1,0 +1,27 @@
+1	#UNDP	#undp	NFP	pos2=NNP	4	punct	_	O
+2	The	the	DT	_	3	det	_	O
+3	DPRK	dprk	NNP	pos2=NN	4	nsubj	_	U-ORG
+4	is	be	VBZ	_	0	root	_	O
+5	not	not	RB	_	4	neg	_	O
+6	here	here	RB	_	4	advmod	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	Such	such	JJ	_	3	nmod	_	O
+2	traitorous	traitorous	JJ	_	3	nmod	_	O
+3	actions	action	NNS	_	7	nsubjpass	_	O
+4	can	can	MD	_	7	aux	_	O
+5	not	not	RB	_	7	neg	_	O
+6	be	be	VB	_	7	auxpass	_	O
+7	tolerated	tolerate	VBN	_	0	root	_	O
+8	.	.	.	_	7	punct	_	O
+
+1	Praise	praise	NN	pos2=VB	0	root	_	O
+2	to	to	IN	_	1	prep	_	O
+3	Kim	kim	NNP	_	6	compound	_	B-PERSON
+4	Jong	jong	NNP	_	6	compound	_	I-PERSON
+5	-	-	HYPH	_	6	punct	_	I-PERSON
+6	un	un	NNP	_	2	pobj	_	L-PERSON
+7	.	.	.	_	1	punct	_	O
+
+1	#SydMUN16	#sydmun0	NN	pos2=ADD	0	root	_	O
+

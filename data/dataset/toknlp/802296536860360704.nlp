@@ -1,0 +1,8 @@
+1	Top	top	JJ	pos2=VB	5	nmod	_	O
+2	3	0	CD	_	5	nmod	_	U-CARDINAL
+3	Tim	tim	NNP	_	4	compound	_	B-PERSON
+4	Duncan	duncan	NNP	_	5	compound	_	L-PERSON
+5	vids	vid	NNS	pos2=GW	7	nsubj	_	O
+6	ever	ever	RB	_	7	advmod	_	O
+7	https://t.co/gYAzVQ1I8B	#hlink#	ADD	_	0	root	_	O
+

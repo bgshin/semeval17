@@ -1,0 +1,30 @@
+1	@KAmorphous	@kamorphous	ADD	pos2=XX	11	punct	_	O
+2	@LorettaLynch	@lorettalynch	NN	pos2=XX	11	dep	_	O
+3	Nov	nov	NNP	_	5	nmod	_	B-DATE
+4	8	0	CD	_	3	nmod	_	L-DATE
+5	GRIEF	grief	NN	_	2	pobj	_	O
+6	,	,	,	_	5	punct	_	O
+7	pain	pain	NN	_	5	conj	_	O
+8	,	,	,	_	11	punct	_	O
+9	anguish	anguish	NN	_	11	dep	_	O
+10	/	/	SYM	pos2=,	11	punct	_	O
+11	feel	feel	VB	pos2=NN	0	root	_	O
+12	hate	hate	NN	pos2=VBP	11	dobj	_	O
+13	.	.	.	_	11	punct	_	O
+
+1	Called	call	VBN	pos2=VBD	0	root	_	O
+2	DOJ	doj	NNP	pos2=NN	1	oprd	_	U-ORG
+3	re	re	IN	pos2=AFX	1	prep	_	O
+4	:	:	:	pos2=HYPH	3	punct	_	O
+5	voter	voter	NN	_	6	compound	_	O
+6	suppression	suppression	NN	_	3	pobj	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	Nonviolent	nonviolent	JJ	_	2	nmod	_	O
+2	resistance	resistance	NN	_	0	root	_	O
+3	to	to	IN	_	2	prep	_	O
+4	Russia	russia	NNP	_	6	nmod	_	U-GPE
+5	/	/	SYM	pos2=,	6	punct	_	O
+6	Comey	comey	NNP	pos2=JJ	7	compound	_	U-PERSON
+7	ruin	ruin	NN	pos2=VB	3	pobj	_	O
+

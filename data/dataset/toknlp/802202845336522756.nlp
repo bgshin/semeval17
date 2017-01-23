@@ -1,0 +1,22 @@
+1	What	what	WP	_	2	attr	_	O
+2	are	be	VBP	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	Ukronazis	ukronazis	NNP	pos2=NNPS	2	nsubj	_	U-PERSON
+5	up	up	RP	pos2=IN	8	advmod	_	O
+6	to	to	IN	pos2=TO	4	prep	_	O
+7	in	in	IN	_	6	prep	_	O
+8	Crimea	crimea	NNP	_	7	pobj	_	U-GPE
+9	?	?	.	_	2	punct	_	O
+
+1	by	by	IN	_	2	cc	_	O
+2	the	the	DT	_	0	root	_	B-ORG
+3	Saker#Ukraine	saker#ukraine	NNP	pos2=NNPS	11	dep	_	I-ORG
+4	#Poroshenko	#poroshenko	NNP	pos2=POS	11	dep	_	I-ORG
+5	#Yanukovych	#yanukovych	NNP	pos2=POS	11	dep	_	I-ORG
+6	#Crimea	#crimea	NNP	pos2=POS	11	dep	_	I-ORG
+7	#SOF	#sof	NNP	pos2=ADD	11	dep	_	I-ORG
+8	#Russia	#russia	NNP	pos2=ADD	11	nmod	_	L-ORG
+9	#infosec	#infosec	GW	pos2=NNP	11	nmod	_	O
+10	…	…	NFP	pos2=GW	11	punct	_	O
+11	https://t.co/OHKso2tA1T	#hlink#	ADD	_	1	pobj	_	O
+

@@ -1,0 +1,7 @@
+1	@NiallOfficial	@niallofficial	NNP	pos2=ADD	6	nsubj	_	U-ORG
+2	and	and	CC	_	1	cc	_	O
+3	@ricky_martin	@ricky_martin	NNP	pos2=VB	1	conj	_	U-ORG
+4	on	on	IN	_	1	prep	_	O
+5	Snapchat	snapchat	NNP	_	4	pobj	_	O
+6	https://t.co/g0n6ZBKB9v	#hlink#	ADD	_	0	root	_	O
+

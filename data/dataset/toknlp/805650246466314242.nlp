@@ -1,0 +1,27 @@
+1	Dalai	dalai	NNP	_	2	compound	_	O
+2	Lama	lama	NNP	_	6	nsubj	_	O
+3	and	and	CC	_	2	cc	_	O
+4	Pope	pope	NNP	_	5	compound	_	O
+5	Francis	francis	NNP	_	2	conj	_	O
+6	said	say	VBD	_	0	root	_	O
+7	it	it	PRP	_	8	nsubj	_	O
+8	is	be	VBZ	_	6	ccomp	_	O
+9	wrong	wrong	JJ	_	8	acomp	_	O
+10	to	to	TO	_	11	aux	_	O
+11	identify	identify	VB	_	8	xcomp	_	O
+12	Islam	islam	NNP	pos2=NN	11	dobj	_	U-ORG
+13	with	with	IN	_	11	prep	_	O
+14	violence	violence	NN	_	16	nmod	_	O
+15	/	/	SYM	pos2=,	16	punct	_	O
+16	terrorism	terrorism	NN	_	13	pobj	_	O
+17	coz	coz	IN	pos2=CC	21	mark	_	O
+18	no	no	DT	_	19	det	_	O
+19	religion	religion	NN	_	17	pobj	_	O
+20	can	can	MD	_	21	aux	_	O
+21	be	be	VB	_	22	auxpass	_	O
+22	relate	relate	VB	pos2=VBN	0	root	_	O
+23	with	with	IN	_	22	prep	_	O
+24	violence	violence	NN	_	26	nmod	_	O
+25	/	/	SYM	pos2=,	26	punct	_	O
+26	terrorism	terrorism	NN	_	23	pobj	_	O
+

@@ -1,0 +1,27 @@
+1	@ArumFox	@arumfox	NNP	pos2=NN	2	compound	_	O
+2	Fossil	fossil	NNP	pos2=NN	3	compound	_	O
+3	fuels	fuel	NNS	_	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	as	as	IN	pos2=RB	4	prep	_	O
+6	problematic	problematic	JJ	_	5	pcomp	_	O
+7	,	,	,	_	4	punct	_	O
+8	but	but	CC	_	4	cc	_	O
+9	as	as	IN	_	11	mark	_	O
+10	they	they	PRP	_	11	nsubj	_	O
+11	are	be	VBP	_	4	conj	_	O
+12	finite	finite	JJ	_	11	acomp	_	O
+13	it	it	PRP	_	14	nsubj	_	O
+14	makes	make	VBZ	_	12	ccomp	_	O
+15	sense	sense	NN	_	14	dobj	_	O
+16	to	to	TO	_	17	aux	_	O
+17	improve	improve	VB	_	14	xcomp	_	O
+18	on	on	IN	_	17	prep	_	O
+19	other	other	JJ	_	20	nmod	_	O
+20	sources	source	NNS	_	18	pobj	_	O
+21	that	that	WDT	_	22	nsubj	_	O
+22	are	be	VBP	_	20	relcl	_	O
+23	not	not	RB	_	22	neg	_	O
+24	.	.	.	_	4	punct	_	O
+
+1	#JustConversing	#justconversing	VBG	pos2=ADD	0	root	_	O
+

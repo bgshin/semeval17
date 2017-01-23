@@ -1,0 +1,24 @@
+1	@undocuqueer	@undocuqueer	UH	pos2=PRP	6	discourse	_	O
+2	@CNN	@cnn	NNP	pos2=MD	6	nsubj	_	U-PERSON
+3	Do	do	VBP	pos2=VB	6	aux	_	O
+4	n't	not	RB	_	6	neg	_	O
+5	really	really	RB	_	6	advmod	_	O
+6	read	read	VB	pos2=VBN	0	root	_	O
+7	news	news	NN	pos2=NNS	6	dobj	_	O
+8	.	.	.	_	6	punct	_	O
+
+1	Try	try	VB	pos2=VBP	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	get	get	VB	_	1	xcomp	_	O
+4	to	to	IN	_	3	prep	_	O
+5	source	source	NN	_	4	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	information	information	NN	_	6	pobj	_	O
+8	,	,	,	_	5	punct	_	O
+9	eg	eg	NN	pos2=FW	10	compound	_	O
+10	DMV	dmv	NN	pos2=NNP	5	appos	_	U-ORG
+11	,	,	,	_	10	punct	_	O
+12	Voter	voter	NN	pos2=NNP	13	compound	_	O
+13	registration	registration	NN	_	10	conj	_	O
+14	etc.	etc.	FW	_	13	advmod	_	O
+

@@ -1,0 +1,16 @@
+1	@mitchellvii	@mitchellvii	CD	pos2=PRP$	2	nmod	_	O
+2	Time	time	NN	pos2=NNP	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Seal	seal	NNP	pos2=NN	5	compound	_	B-ORG
+5	Team	team	NNP	pos2=NN	3	pobj	_	L-ORG
+6	6	0	CD	pos2=NNP	5	nmod	_	O
+7	to	to	TO	_	8	aux	_	O
+8	pay	pay	VB	_	2	relcl	_	O
+9	George	george	NNP	_	10	compound	_	B-PERSON
+10	Soros	soros	NNP	_	8	dative	_	L-PERSON
+11	a	a	DT	_	12	det	_	O
+12	visit	visit	NN	_	8	dobj	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	💩🔫	💩🔫	SYM	pos2=NFP	0	root	_	U-ORG
+

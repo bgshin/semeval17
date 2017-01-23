@@ -1,0 +1,25 @@
+1	Very	very	RB	_	2	advmod	_	O
+2	deceptive	deceptive	JJ	_	0	root	_	O
+3	...	..	.	pos2=,	2	punct	_	O
+
+1	the	the	DT	_	2	det	_	O
+2	grapes	grape	NNS	_	4	nsubj	_	O
+3	will	will	MD	_	4	aux	_	O
+4	give	give	VB	_	0	root	_	O
+5	you	you	PRP	_	4	dative	_	O
+6	a	a	DT	_	8	det	_	O
+7	false	false	JJ	_	8	nmod	_	O
+8	sense	sense	NN	_	4	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	security	security	NN	_	12	compound	_	O
+11	-	-	HYPH	pos2=:	12	punct	_	O
+12	Drinking	drink	VBG	pos2=NNP	9	pobj	_	O
+13	a	a	DT	_	15	det	_	O
+14	Midas	midas	NNP	_	17	compound	_	B-ORG
+15	Touch	touch	NNP	pos2=NN	19	dep	_	L-ORG
+16	@	@	HYPH	pos2=IN	15	prep	_	O
+17	Roxbury	roxbury	NNP	_	19	nmod	_	U-GPE
+18	-	-	HYPH	pos2=:	19	punct	_	O
+19	https://t.co/gIX5BXaynJ	#hlink#	ADD	pos2=NNP	0	root	_	O
+20	#photo	#photo	-RRB-	pos2=FW	19	punct	_	O
+

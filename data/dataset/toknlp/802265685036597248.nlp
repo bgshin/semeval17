@@ -1,0 +1,14 @@
+1	@izzy_barkerr	@izzy_barkerr	VB	pos2=IN	0	root	_	O
+2	your	your	PRP$	_	3	poss	_	O
+3	statements	statement	NNS	_	5	nsubj	_	O
+4	are	be	VBP	_	5	aux	_	O
+5	becoming	become	VBG	_	1	ccomp	_	O
+6	as	as	RB	pos2=IN	7	advmod	_	O
+7	original	original	JJ	_	5	acomp	_	O
+8	as	as	IN	_	3	prep	_	O
+9	Melania	melania	NNP	_	10	compound	_	B-PERSON
+10	Trump	trump	NNP	_	13	poss	_	I-PERSON
+11	's	's	POS	_	10	case	_	L-PERSON
+12	convention	convention	NN	_	13	compound	_	O
+13	speech	speech	NN	_	8	pobj	_	O
+

@@ -1,0 +1,22 @@
+1	@DeltaHalo007	@deltahalo0	NN	pos2=UH	3	discourse	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	ridiculous	ridiculous	JJ	_	3	acomp	_	O
+5	because	because	IN	_	21	mark	_	O
+6	when	when	WRB	_	8	advmod	_	O
+7	Hillary	hillary	NNP	_	8	nsubj	_	U-PERSON
+8	thought	think	VBD	pos2=VBN	21	advcl	_	O
+9	Trump	trump	NNP	_	11	nsubj	_	U-PERSON
+10	was	be	VBD	_	11	aux	_	O
+11	going	go	VBG	_	8	ccomp	_	O
+12	to	to	TO	_	13	aux	_	O
+13	interfere	interfere	VB	_	11	xcomp	_	O
+14	with	with	IN	_	13	prep	_	O
+15	her	her	PRP$	_	16	poss	_	O
+16	transition	transition	NN	_	14	pobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	power	power	NN	_	17	pobj	_	O
+19	she	she	PRP	_	21	nsubjpass	_	O
+20	was	be	VBD	_	21	auxpass	_	O
+21	horrified	horrify	VBN	pos2=JJ	3	advcl	_	O
+

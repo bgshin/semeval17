@@ -1,0 +1,16 @@
+1	1/2@DunyaNews	0@dunyanews	NN	pos2=NNS	15	dep	_	O
+2	:	:	:	_	15	punct	_	O
+3	Pak	pak	NNP	_	15	dep	_	U-PERSON
+4	,	,	,	_	3	punct	_	O
+5	Sartaj	sartaj	NNP	_	9	compound	_	B-FAC
+6	Aziz	aziz	NNP	_	9	compound	_	I-FAC
+7	stopped@Amritsar	stopped@amritsar	NNP	_	9	compound	_	I-FAC
+8	Airport	airport	NNP	_	9	compound	_	L-FAC
+9	for40minutes	for0minutes	NNP	pos2=NNPS	3	conj	_	O
+10	by	by	IN	_	9	agent	_	O
+11	Indian	indian	JJ	pos2=NNP	12	nmod	_	U-NORP
+12	officials	official	NNS	_	10	pobj	_	O
+13	b4granting	b0granting	VBG	pos2=POS	12	acl	_	O
+14	immigration	immigration	NN	_	13	dobj	_	O
+15	https://t.co/O6qCy9sb3P	#hlink#	ADD	pos2=NN	0	root	_	O
+

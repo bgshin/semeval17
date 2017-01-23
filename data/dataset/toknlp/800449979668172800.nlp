@@ -1,0 +1,17 @@
+1	#TopStory	#topstory	NN	pos2=DT	7	dep	_	O
+2	of	of	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	B-DATE
+4	Week	week	NN	pos2=NNP	2	pobj	_	L-DATE
+5	:	:	:	_	7	punct	_	O
+6	Microsoft	microsoft	NNP	_	7	nsubj	_	U-ORG
+7	joins	join	VBZ	_	0	root	_	O
+8	Linux	linux	NNP	_	9	compound	_	B-ORG
+9	Foundation	foundation	NNP	pos2=NN	7	dobj	_	L-ORG
+10	in	in	IN	_	7	prep	_	O
+11	another	another	DT	_	12	det	_	O
+12	step	step	NN	_	10	pobj	_	O
+13	toward	toward	IN	_	12	prep	_	O
+14	greater	great	JJR	_	15	nmod	_	O
+15	openness	openness	NN	_	13	pobj	_	O
+16	https://t.co/cYvudS8mMk	#hlink#	ADD	pos2=NN	7	dep	_	O
+

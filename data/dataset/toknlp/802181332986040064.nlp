@@ -1,0 +1,13 @@
+1	Ben	ben	NNP	_	2	compound	_	B-PERSON
+2	Carson	carson	NNP	_	0	root	_	L-PERSON
+3	On	on	IN	_	2	prep	_	O
+4	His	his	PRP$	_	5	poss	_	O
+5	Role	role	NN	pos2=NNP	3	pobj	_	O
+6	In	in	IN	_	5	prep	_	O
+7	Future	future	NNP	_	9	compound	_	O
+8	Trump	trump	NNP	_	9	compound	_	B-ORG
+9	Administration	administration	NNP	_	6	pobj	_	L-ORG
+10	https://t.co/8OsqKhNHqz	#hlink#	ADD	_	5	appos	_	O
+11	via	via	IN	_	2	prep	_	O
+12	@YouTube	@youtube	NNP	pos2=NN	11	pobj	_	O
+

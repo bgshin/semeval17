@@ -1,0 +1,24 @@
+1	@coalvillefletch	@coalvillefletch	UH	pos2=VB	4	cc	_	O
+2	that	that	DT	pos2=WDT	0	root	_	O
+3	and	and	CC	_	2	cc	_	O
+4	the	the	DT	_	5	det	_	O
+5	wall	wall	NN	_	2	conj	_	O
+6	on	on	IN	_	5	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	Mexican	mexican	JJ	_	9	nmod	_	U-NORP
+9	border	border	NN	_	6	pobj	_	O
+10	..	..	.	pos2=,	5	punct	_	O
+
+1	Contractor	contractor	NN	_	6	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	B-DATE
+4	year	year	NN	_	2	pobj	_	L-DATE
+5	then	then	RB	_	6	advmod	_	O
+6	retire	retire	VB	pos2=VBP	0	root	_	O
+7	,	,	,	_	6	punct	_	O
+8	rod	rod	NN	pos2=VB	9	compound	_	O
+9	up	up	RP	pos2=RB	6	advmod	_	O
+10	.	.	.	_	6	punct	_	O
+
+1	,	,	,	_	0	predet	_	O
+

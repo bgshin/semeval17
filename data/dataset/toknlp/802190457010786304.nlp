@@ -1,0 +1,20 @@
+1	HackRead	hackread	NN	pos2=NNP	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	#TeslaModelS	#teslamodels	NNS	pos2=ADD	6	nsubjpass	_	O
+4	can	can	MD	_	6	aux	_	O
+5	be	be	VB	_	6	auxpass	_	O
+6	located	locate	VBN	_	0	root	_	O
+7	,	,	,	_	6	punct	_	O
+8	unlocked	unlock	VBN	pos2=JJ	6	conj	_	O
+9	,	,	,	_	8	punct	_	O
+10	stolen	steal	VBN	_	8	conj	_	O
+11	by	by	IN	_	10	prep	_	O
+12	manipulating	manipulate	VBG	_	11	pcomp	_	O
+13	#Tesla	#tesla	NNP	pos2=NNS	14	compound	_	U-ORG
+14	apps	app	NNS	_	12	dobj	_	O
+15	|	|	,	pos2=-LRB-	19	punct	_	O
+16	https://t.co/calOqxfb6E	#hlink#	ADD	_	19	dep	_	O
+17	#Ha	#ha	NNP	pos2=-RRB-	19	dep	_	U-ORG
+18	…	…	NFP	pos2=-LRB-	19	punct	_	O
+19	https://t.co/WNFwFvKwcB	#hlink#	ADD	_	14	appos	_	U-ORG
+

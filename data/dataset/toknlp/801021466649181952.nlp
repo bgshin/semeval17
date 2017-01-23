@@ -1,0 +1,16 @@
+1	#CJTFOIR:Near	#cjtfoir:near	ADD	pos2=NNP	2	compound	_	B-PERSON
+2	#Mosul	#mosul	NNP	pos2=NNS	15	dep	_	L-PERSON
+3	,	,	,	_	15	punct	_	O
+4	6strikes	0strikes	NNS	pos2=NNPS	15	dep	_	O
+5	engaged	engage	VBD	pos2=VBN	15	nmod	_	O
+6	destroyed	destroy	VBN	pos2=VBD	7	nmod	_	O
+7	6boats	0boats	NNS	pos2=NNPS	5	dobj	_	U-TIME
+8	,	,	,	_	7	punct	_	O
+9	4vehicles	0vehicles	NNS	pos2=NNPS	7	conj	_	O
+10	,	,	,	_	9	punct	_	O
+11	3VBIEDs#Mosuloffensive	0vbieds#mosuloffensive	JJ	pos2=CD	12	nmod	_	B-PERSON
+12	#MosulOp	#mosulop	NNP	pos2=XX	15	nmod	_	L-PERSON
+13	#Iraq#ISIS	#iraq#isis	GW	pos2=NN	15	nmod	_	O
+14	…	…	NFP	pos2=GW	15	punct	_	O
+15	https://t.co/COlbPxCNri	#hlink#	ADD	_	0	root	_	O
+

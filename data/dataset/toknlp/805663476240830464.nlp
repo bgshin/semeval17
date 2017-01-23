@@ -1,0 +1,17 @@
+1	Kangen	kangen	NNP	pos2=NN	2	compound	_	O
+2	water	water	NN	_	3	nsubj	_	O
+3	restores	restore	VBZ	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	body	body	NN	_	3	dobj	_	O
+6	to	to	TO	pos2=IN	7	aux	_	O
+7	perfect	perfect	JJ	pos2=VB	3	xcomp	_	O
+8	health.⭕40	health.⭕0	NN	pos2=JJ	10	compound	_	B-DATE
+9	year	year	NN	pos2=JJ	10	compound	_	L-DATE
+10	track	track	NN	pos2=VBP	7	dobj	_	O
+11	record⭕Gold	record⭕gold	VBN	pos2=WDT	12	nmod	_	O
+12	standard	standard	NN	pos2=JJ	16	dep	_	O
+13	of	of	IN	_	12	prep	_	O
+14	water	water	NN	_	13	pobj	_	O
+15	…	…	NFP	pos2=WDT	16	punct	_	O
+16	https://t.co/okJwcRiFa7	#hlink#	ADD	_	0	root	_	O
+

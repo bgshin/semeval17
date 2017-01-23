@@ -1,0 +1,17 @@
+1	#BREAKING	#breaking	NN	pos2=VBG	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	#Israel	#israel	JJ	pos2=NNP	4	nmod	_	O
+4	forces	force	NNS	_	5	nsubj	_	O
+5	kill	kill	VBP	pos2=NN	0	root	_	O
+6	suspected	suspect	VBN	_	8	nmod	_	O
+7	Palestinian	palestinian	JJ	_	8	nmod	_	U-NORP
+8	attacker	attacker	NN	_	5	dobj	_	O
+9	in	in	IN	_	5	prep	_	O
+10	#Jerusalem	#jerusalem	NNP	pos2=CD	9	pobj	_	U-ORG
+11	according	accord	VBG	_	5	prep	_	O
+12	to	to	IN	_	11	prep	_	O
+13	police	police	NN	pos2=NNS	12	pobj	_	O
+14	.	.	.	_	5	punct	_	O
+
+1	#Palestine	#palestine	NNP	pos2=PRP	0	root	_	O
+

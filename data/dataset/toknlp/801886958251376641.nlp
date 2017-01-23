@@ -1,0 +1,17 @@
+1	@Mia3lias	@mia0lias	NNS	pos2=DT	3	nmod	_	O
+2	good	good	JJ	_	3	nmod	_	O
+3	thing	thing	NN	_	7	nsubj	_	O
+4	donnie	donnie	NNP	pos2=FW	5	compound	_	U-PERSON
+5	trump	trump	NN	pos2=NNP	7	nsubj	_	O
+6	's	's	VBZ	_	7	aux	_	O
+7	coming	come	VBG	_	0	root	_	O
+8	to	to	TO	_	9	aux	_	O
+9	take	take	VB	_	7	advcl	_	O
+10	them	them	PRP	_	9	dobj	_	O
+11	bad	bad	JJ	_	12	nmod	_	O
+12	hombres	hombre	NNS	_	9	dobj	_	O
+13	out	out	IN	_	9	prep	_	O
+14	of	of	IN	_	13	prep	_	O
+15	here	here	RB	_	14	pcomp	_	O
+16	.	.	.	_	7	punct	_	O
+

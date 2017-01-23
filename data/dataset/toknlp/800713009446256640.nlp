@@ -1,0 +1,7 @@
+1	William	william	NNP	_	2	compound	_	B-PERSON
+2	Smith	smith	NNP	_	6	dep	_	L-PERSON
+3	on	on	IN	_	2	prep	_	O
+4	@SenatorSessions	@senatorsessions	NNS	pos2=NNPS	3	pobj	_	U-DATE
+5	#TrumpTransitionTeam	#trumptransitionteam	ADD	pos2=GW	6	punct	_	O
+6	https://t.co/rGh2bHloFz	#hlink#	ADD	_	0	root	_	O
+

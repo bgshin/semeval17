@@ -1,0 +1,24 @@
+1	Many	many	JJ	_	2	nmod	_	O
+2	fires	fire	NNS	_	6	nsubjpass	_	O
+3	are	be	VBP	_	6	aux	_	O
+4	now	now	RB	_	6	advmod	_	O
+5	being	be	VBG	_	6	auxpass	_	O
+6	reported	report	VBN	_	0	root	_	O
+7	as	as	IN	_	2	prep	_	O
+8	suspected	suspect	VBN	_	10	nmod	_	O
+9	arson	arson	NN	_	10	compound	_	O
+10	attacks	attack	NNS	_	7	pobj	_	O
+11	.	.	.	_	6	punct	_	O
+
+1	Today	today	NN	_	3	npadvmod	_	U-DATE
+2	IAF	iaf	NNP	_	3	nsubj	_	U-ORG
+3	assisted	assist	VBD	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	police	police	NN	pos2=NNS	3	dobj	_	O
+6	in	in	IN	_	3	prep	_	O
+7	apprehending	apprehend	VBG	_	6	pcomp	_	O
+8	arson	arson	NN	_	10	poss	_	O
+9	s	s	POS	pos2=GW	8	case	_	O
+10	…	…	NFP	pos2=-LRB-	7	dobj	_	O
+11	https://t.co/UKyNK20Zrg	#hlink#	ADD	_	3	dep	_	U-ORG
+

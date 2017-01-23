@@ -1,0 +1,27 @@
+1	What	what	WP	pos2=WDT	2	det	_	O
+2	hope	hope	NN	pos2=VBP	8	attr	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Belgium	belgium	NNP	pos2=NN	3	pobj	_	U-GPE
+5	after	after	IN	_	2	prep	_	O
+6	permitting	permit	VBG	_	5	pcomp	_	O
+7	it	it	PRP	_	8	nsubj	_	O
+8	's	's	VBZ	pos2=POS	0	root	_	O
+9	first	#ord#	JJ	_	11	nmod	_	U-ORDINAL
+10	child	child	NN	_	11	compound	_	O
+11	euthanasia	euthanasia	NN	_	8	attr	_	O
+12	?	?	.	_	8	punct	_	O
+
+1	Ethics	ethic	NNS	pos2=NNP	0	root	_	O
+2	that	that	WDT	pos2=IN	7	pobj	_	O
+3	Pándy&Dutroux	pándy&dutroux	NNP	pos2=EX	6	nsubj	_	U-ORG
+4	may	may	MD	_	6	aux	_	O
+5	have	have	VB	_	6	aux	_	O
+6	balked	balk	VBN	_	1	relcl	_	O
+7	at	at	IN	_	6	prep	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	Another	another	DT	_	3	det	_	O
+2	European	european	JJ	_	3	nmod	_	U-NORP
+3	innovation	innovation	NN	_	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+

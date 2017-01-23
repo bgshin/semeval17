@@ -1,0 +1,22 @@
+1	@Mackwell33	@mackwell0	NN	pos2=NNS	18	advcl	_	O
+2	@furtogo	@furtogo	UH	pos2=FW	1	discourse	_	O
+3	@cspanwj	@cspanwj	UH	pos2=FW	1	discourse	_	O
+4	@politico	@politico	UH	pos2=FW	1	discourse	_	O
+5	@joshgerstein	@joshgerstein	UH	pos2=IN	7	discourse	_	O
+6	Obama	obama	NNP	_	7	nsubj	_	U-PERSON
+7	smiled	smile	VBD	_	1	ccomp	_	O
+8	a	a	DT	_	9	det	_	O
+9	lot	lot	NN	_	10	nsubj	_	O
+10	killed	kill	VBD	pos2=VBN	7	advcl	_	O
+11	60,000	0	CD	_	12	nmod	_	U-CARDINAL
+12	people	people	NNS	_	10	dobj	_	O
+13	with	with	IN	_	10	prep	_	O
+14	drone	drone	NN	_	15	compound	_	O
+15	strikes	strike	NNS	_	13	pobj	_	O
+16	,	,	,	_	18	punct	_	O
+17	Libya	libya	NNP	_	18	nsubj	_	U-GPE
+18	is	be	VBZ	_	0	root	_	O
+19	a	a	DT	_	21	det	_	O
+20	failed	failed	JJ	pos2=VBN	21	nmod	_	O
+21	state	state	NN	_	18	attr	_	O
+

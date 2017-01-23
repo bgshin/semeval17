@@ -1,0 +1,23 @@
+1	@ObanionSoothe	@obanionsoothe	DT	pos2=ADD	2	det	_	O
+2	@FoxNews	@foxnews	NNS	pos2=NNPS	3	nsubj	_	O
+3	@realDonaldTrump	@realdonaldtrump	VBP	pos2=NFP	0	root	_	O
+4	while	while	IN	_	6	mark	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	are	be	VBP	_	3	advcl	_	O
+7	fucking	fucking	JJ	pos2=VBG	6	acomp	_	O
+8	with	with	IN	_	7	prep	_	O
+9	my	my	PRP$	_	10	poss	_	O
+10	tweet	tweet	NN	_	8	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	why	why	WRB	_	5	advmod	_	O
+2	do	do	VBP	_	5	aux	_	O
+3	n't	not	RB	_	5	neg	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	expose	expose	VB	_	0	root	_	O
+6	medicare	medicare	NN	pos2=NNP	10	nmod	_	O
+7	and	and	CC	_	6	cc	_	O
+8	social	social	JJ	_	9	nmod	_	O
+9	security	security	NN	_	6	conj	_	O
+10	future😎	future😎	NNS	pos2=.	5	dobj	_	O
+

@@ -1,0 +1,15 @@
+1	Cons	con	NNS	_	2	nsubj	_	O
+2	given	give	VBN	pos2=IN	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	death	death	NN	_	5	compound	_	O
+5	penalty	penalty	NN	_	2	dobj	_	O
+6	have	have	VBP	pos2=VB	2	dep	_	O
+7	the	the	DT	_	8	det	_	O
+8	lowest	low	JJS	_	5	appos	_	O
+9	re	re	IN	pos2=JJ	8	prep	_	O
+10	conviction	conviction	NN	_	11	compound	_	O
+11	rate	rate	NN	_	9	pobj	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	Promise	promise	VB	pos2=NN	0	root	_	O
+

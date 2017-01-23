@@ -1,0 +1,14 @@
+1	Melania	melania	NNP	_	2	compound	_	B-PERSON
+2	Trump	trump	NNP	pos2=NN	3	nsubj	_	L-PERSON
+3	sues	sue	VBZ	_	0	root	_	O
+4	Slovenia	slovenia	NNP	_	5	compound	_	U-GPE
+5	journalist	journalist	NN	_	3	dobj	_	O
+6	over	over	IN	pos2=RP	3	prep	_	O
+7	'	'	``	_	10	punct	_	O
+8	escort	escort	NN	pos2=VB	10	nmod	_	O
+9	'	'	''	pos2=POS	10	punct	_	O
+10	claims	claim	NNS	pos2=VBZ	6	pobj	_	O
+11	https://t.co/5Jt19M8o47	#hlink#	ADD	pos2=VBP	6	pobj	_	O
+12	via	via	IN	_	3	prep	_	O
+13	@FRANCE24	@france0	NN	pos2=CD	12	pobj	_	O
+

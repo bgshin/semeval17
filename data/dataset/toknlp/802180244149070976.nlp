@@ -1,0 +1,13 @@
+1	THE	the	DT	_	3	det	_	O
+2	GREAT	great	JJ	pos2=NNP	3	nmod	_	O
+3	WALL	wall	NN	pos2=NNP	6	nsubj	_	O
+4	OF	of	IN	_	3	prep	_	O
+5	ISRAEL	israel	NNP	pos2=NN	4	pobj	_	U-GPE
+6	https://t.co/cxyBX2sjpj	#hlink#	ADD	pos2=VBP	0	root	_	O
+7	#gaza	#gaza	-RRB-	pos2=IN	6	punct	_	O
+8	#palestine	#palestine	UH	pos2=PRP	6	discourse	_	O
+9	#israel	#israel	UH	pos2=VB	6	discourse	_	O
+10	#BDS	#bds	NNS	pos2=VBZ	6	dobj	_	O
+11	#apartheid	#apartheid	FW	pos2=UH	10	advmod	_	O
+12	#jerusalem	#jerusalem	UH	pos2=FW	11	pobj	_	O
+

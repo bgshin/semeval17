@@ -1,0 +1,34 @@
+1	@Okupuna	@okupuna	NNP	pos2=VBG	3	nmod	_	U-CARDINAL
+2	funny	funny	JJ	_	3	nmod	_	O
+3	guy	guy	NN	pos2=IN	4	nsubj	_	O
+4	you	you	PRP	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	But	but	CC	_	3	cc	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	know	know	VBP	_	15	ccomp	_	O
+4	you	you	PRP	_	6	nsubj	_	O
+5	can	can	MD	_	6	aux	_	O
+6	get	get	VB	_	3	ccomp	_	O
+7	a	a	DT	_	9	det	_	O
+8	fake	fake	JJ	_	9	nmod	_	O
+9	id	id	NN	_	6	dobj	_	O
+10	;	;	,	pos2=:	15	punct	_	O
+11	however	however	RB	_	15	advmod	_	O
+12	,	,	,	_	15	punct	_	O
+13	it	it	PRP	_	15	nsubj	_	O
+14	will	will	MD	_	15	aux	_	O
+15	cost	cost	VB	_	0	root	_	O
+16	you	you	PRP	_	15	dative	_	O
+17	a	a	DT	_	18	det	_	O
+18	lot	lot	NN	_	19	npadvmod	_	O
+19	more	more	JJR	_	15	dobj	_	O
+20	than	than	IN	_	19	prep	_	O
+21	that	that	DT	_	20	pobj	_	O
+22	to	to	IN	pos2=TO	15	prep	_	O
+23	fake	fake	VB	pos2=JJ	22	pcomp	_	O
+24	a	a	DT	_	27	det	_	O
+25	Voter	voter	NN	pos2=NNP	26	compound	_	O
+26	Registration	registration	NN	pos2=NNP	27	compound	_	O
+27	card	card	NN	_	23	dobj	_	O
+

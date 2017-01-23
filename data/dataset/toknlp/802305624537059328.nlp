@@ -1,0 +1,5 @@
+1	@HuffingtonPost	@huffingtonpost	VBD	pos2=VB	0	root	_	O
+2	Some	some	DT	_	4	det	_	O
+3	Bad	bad	NNP	pos2=JJ	4	compound	_	O
+4	Hombres	hombres	NNP	pos2=NNS	1	dobj	_	O
+

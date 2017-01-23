@@ -1,0 +1,25 @@
+1	When	when	WRB	_	4	advmod	_	O
+2	you	you	PRP	_	4	nsubjpass	_	O
+3	're	be	VBP	_	4	auxpass	_	O
+4	assigned	assign	VBN	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	write	write	VB	_	4	xcomp	_	O
+7	a	a	DT	_	8	det	_	O
+8	paper	paper	NN	_	6	dobj	_	O
+9	about	about	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	TPP	tpp	NN	pos2=NNP	9	pobj	_	O
+12	but	but	CC	_	4	cc	_	O
+13	the	the	DT	_	16	det	_	O
+14	president	president	NN	pos2=NNP	16	compound	_	O
+15	-	-	HYPH	pos2=,	16	punct	_	O
+16	elect	elect	NN	pos2=NNP	19	nsubj	_	O
+17	is	be	VBZ	_	19	aux	_	O
+18	n't	not	RB	_	19	neg	_	O
+19	going	go	VBG	_	4	conj	_	O
+20	to	to	TO	_	21	aux	_	O
+21	approve	approve	VB	_	19	xcomp	_	O
+22	it	it	PRP	_	21	dobj	_	O
+23	anyways	anyways	RB	pos2=UH	21	advmod	_	O
+24	🙄	🙄	.	pos2=''	19	punct	_	O
+

@@ -1,0 +1,30 @@
+1	Again	again	RB	_	6	advmod	_	O
+2	,	,	,	_	6	punct	_	O
+3	Eddie	eddie	NNP	_	6	vocative	_	U-PERSON
+4	,	,	,	_	6	punct	_	O
+5	fascists	fascist	NNS	_	6	nsubj	_	O
+6	are	be	VBP	_	0	root	_	O
+7	invariably	invariably	RB	_	6	advmod	_	O
+8	leftists	leftist	NNS	_	6	attr	_	O
+9	.	.	.	_	6	punct	_	O
+
+1	Do	do	VB	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	call	call	VB	_	0	root	_	O
+4	Mike	mike	NNP	_	3	vocative	_	U-PERSON
+5	a	a	DT	_	6	det	_	O
+6	leftist	leftist	JJ	pos2=NN	3	oprd	_	O
+7	unless	unless	IN	_	9	mark	_	O
+8	you	you	PRP	_	9	nsubj	_	O
+9	want	want	VBP	_	3	advcl	_	O
+10	to	to	TO	_	11	aux	_	O
+11	end	end	VB	_	9	xcomp	_	O
+12	up	up	RP	pos2=RB	11	prt	_	O
+13	...	..	.	pos2=,	3	punct	_	O
+
+1	not	not	RB	_	2	neg	_	O
+2	well	well	RB	pos2=JJ	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	https://t.co/EZEzBb9lb5	#hlink#	ADD	_	0	root	_	U-ORG
+

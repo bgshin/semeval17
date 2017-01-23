@@ -1,0 +1,25 @@
+1	@SnowLover78	@snowlover0	NN	pos2=NNS	0	root	_	O
+2	@ksavitt	@ksavitt	UH	pos2=XX	1	discourse	_	O
+3	@danpfeiffer	@danpfeiffer	UH	pos2=NN	1	discourse	_	O
+4	2.	0.	LS	pos2=CD	7	meta	_	U-CARDINAL
+5	ppl	ppl	NNS	pos2=UH	7	nsubj	_	O
+6	not	not	RB	_	7	neg	_	O
+7	wanting	want	VBG	_	1	acl	_	O
+8	to	to	TO	_	9	aux	_	O
+9	admit	admit	VB	_	7	xcomp	_	O
+10	voting	vote	VBG	pos2=NN	9	xcomp	_	O
+11	Trump	trump	NNP	pos2=NN	10	dobj	_	B-ORG
+12	&	&	CC	_	11	cc	_	L-ORG
+13	also	also	RB	_	12	advmod	_	O
+14	ppl	ppl	NNS	pos2=XX	11	conj	_	O
+15	thinking	think	VBG	_	14	acl	_	O
+16	HRC	hrc	NNP	pos2=NN	17	nsubj	_	U-ORG
+17	was	be	VBD	_	15	ccomp	_	O
+18	safe	safe	JJ	_	17	acomp	_	O
+19	&	&	CC	_	18	cc	_	O
+20	deciding	decide	VBG	_	18	conj	_	O
+21	safe	safe	JJ	pos2=RB	18	conj	_	O
+22	to	to	TO	_	23	aux	_	O
+23	protest	protest	VB	_	17	advcl	_	O
+24	vote	vote	NN	_	23	dobj	_	O
+

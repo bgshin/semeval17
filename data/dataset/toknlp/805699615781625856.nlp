@@ -1,0 +1,10 @@
+1	@dansen17	@dansen0	NN	pos2=TO	2	compound	_	O
+2	update	update	NN	_	9	dep	_	O
+3	:	:	:	_	2	punct	_	O
+4	Zac	zac	NNP	_	5	compound	_	B-PERSON
+5	Efron	efron	NNP	_	6	nsubj	_	L-PERSON
+6	kissing	kiss	VBG	_	2	acl	_	O
+7	a	a	DT	_	8	det	_	O
+8	puppy	puppy	NN	_	6	dobj	_	O
+9	https://t.co/4hTw1U8Azs	#hlink#	ADD	pos2=NN	0	root	_	O
+

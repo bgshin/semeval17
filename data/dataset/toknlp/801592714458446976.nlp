@@ -1,0 +1,13 @@
+1	Google	google	NNP	_	3	compound	_	B-ORG
+2	Earth	earth	NNP	_	3	compound	_	I-ORG
+3	VR	vr	NNP	pos2=NN	4	vocative	_	L-ORG
+4	let	let	VB	pos2=VBD	0	root	_	O
+5	s	s	PRP	pos2=RP	12	nsubj	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	cruise	cruise	VBP	pos2=VB	4	ccomp	_	O
+8	the	the	DT	_	9	det	_	O
+9	globe	globe	NN	pos2=NNP	7	dobj	_	O
+10	like	like	IN	pos2=UH	9	prep	_	O
+11	Superman	superman	NNP	_	10	pobj	_	U-PERSON
+12	https://t.co/xhmVWEqo9K	#hlink#	ADD	_	11	appos	_	O
+

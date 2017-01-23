@@ -1,0 +1,20 @@
+1	Listen	listen	VB	_	0	root	_	O
+2	up	up	RP	pos2=IN	1	prt	_	O
+3	#Wisconsin	#wisconsin	NNP	pos2=IN	4	compound	_	O
+4	Conservatives	conservative	NNS	pos2=NNPS	1	dobj	_	O
+5	!	!	.	_	1	punct	_	O
+
+1	Do	do	VB	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	let	let	VB	_	0	root	_	O
+4	them	them	PRP	_	5	nsubj	_	O
+5	steal	steal	VB	_	3	ccomp	_	O
+6	your	your	PRP$	_	7	poss	_	O
+7	State	state	NN	pos2=NNP	5	dobj	_	U-ORG
+8	so	so	RB	_	10	advmod	_	O
+9	get	get	VB	pos2=VBP	10	auxpass	_	O
+10	involved	involve	VBN	pos2=JJ	5	advcl	_	O
+11	!	!	.	_	3	punct	_	O
+
+1	https://t.co/9L9v0cJcdc	#hlink#	ADD	_	0	root	_	U-ORG
+

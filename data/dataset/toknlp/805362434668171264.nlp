@@ -1,0 +1,23 @@
+1	Zimbabwe	zimbabwe	NNP	_	3	compound	_	B-ORG
+2	Communist	communist	NNP	_	3	compound	_	I-ORG
+3	League	league	NNP	pos2=NN	6	dep	_	L-ORG
+4	:	:	:	_	6	punct	_	O
+5	Cuba	cuba	NNP	_	6	nsubj	_	U-GPE
+6	managed	manage	VBD	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	provide	provide	VB	_	6	xcomp	_	O
+9	free	free	JJ	_	10	nmod	_	O
+10	education	education	NN	_	8	dobj	_	O
+11	,	,	,	_	10	punct	_	O
+12	medical	medical	JJ	_	13	nmod	_	O
+13	care	care	NN	_	10	conj	_	O
+14	despite	despite	IN	_	8	prep	_	O
+15	illegal	illegal	JJ	_	17	nmod	_	O
+16	economic	economic	JJ	_	17	nmod	_	O
+17	embargo	embargo	NN	_	14	pobj	_	O
+18	since	since	IN	_	8	prep	_	O
+19	1961	0	CD	_	18	pobj	_	U-DATE
+20	.	.	.	_	6	punct	_	O
+
+1	#SACPCastro	#sacpcastro	ADD	pos2=XX	0	root	_	U-FAC
+

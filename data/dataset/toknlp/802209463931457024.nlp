@@ -1,0 +1,20 @@
+1	@megynkelly	@megynkelly	UH	pos2=RB	4	neg	_	O
+2	@petestavros	@petestavros	UH	pos2=IN	4	discourse	_	O
+3	no	no	RB	pos2=UH	4	neg	_	O
+4	doubt	doubt	RB	pos2=NN	5	advmod	_	O
+5	ur	ur	IN	pos2=VBZ	0	root	_	O
+6	a	a	DT	_	8	det	_	O
+7	complete	complete	JJ	_	8	nmod	_	O
+8	BIMBO	bimbo	NN	pos2=NNP	5	pobj	_	O
+9	..	..	.	pos2=,	5	punct	_	O
+
+1	trump	trump	NN	_	2	nsubj	_	O
+2	made	make	VBD	pos2=VBN	0	root	_	O
+3	ur	ur	NN	pos2=JJ	4	compound	_	O
+4	career	career	NN	_	2	dobj	_	O
+5	anyway	anyway	RB	pos2=UH	2	advmod	_	O
+6	..	..	.	pos2=,	2	punct	_	O
+
+1	arrogant	arrogant	JJ	_	2	nmod	_	O
+2	bitch	bitch	NN	_	0	root	_	O
+

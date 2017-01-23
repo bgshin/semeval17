@@ -1,0 +1,26 @@
+1	Misha	misha	NNP	pos2=NN	3	nsubj	_	U-PERSON
+2	likely	likely	RB	pos2=JJ	3	advmod	_	O
+3	right	right	JJ	pos2=RB	0	root	_	O
+4	about	about	IN	_	3	prep	_	O
+5	this	this	DT	_	4	pobj	_	O
+6	,	,	,	_	3	punct	_	O
+7	sadly	sadly	RB	_	3	advmod	_	O
+8	for	for	IN	_	7	prep	_	O
+9	Kiev	kiev	NNP	_	8	pobj	_	U-GPE
+10	.	.	.	_	3	punct	_	O
+
+1	"	"	``	pos2=SYM	5	punct	_	O
+2	Saakashvili	saakashvili	NNP	pos2=NN	5	dep	_	U-PERSON
+3	:	:	:	_	5	punct	_	O
+4	Ukraine	ukraine	NNP	_	5	nsubj	_	U-GPE
+5	faces	face	VBZ	_	0	root	_	O
+6	chaos	chaos	NN	_	5	dobj	_	O
+7	if	if	IN	_	14	mark	_	O
+8	no	no	DT	_	10	det	_	O
+9	snap	snap	NN	pos2=JJ	10	compound	_	O
+10	elections	election	NNS	_	14	nsubj	_	O
+11	held	hold	VBN	pos2=VBD	10	acl	_	O
+12	"	"	``	pos2=''	14	punct	_	O
+13	KyivPost	kyivpost	NNP	pos2=-LRB-	14	nmod	_	O
+14	https://t.co/OC42tHZ628	#hlink#	ADD	pos2=''	5	advcl	_	O
+

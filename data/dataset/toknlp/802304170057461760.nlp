@@ -1,0 +1,13 @@
+1	AI	ai	NNP	pos2=NN	3	nsubj	_	O
+2	is	be	VBZ	_	3	aux	_	O
+3	changing	change	VBG	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	world	world	NN	_	3	dobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	kudos	kudos	NNS	_	0	root	_	O
+2	to	to	IN	_	1	prep	_	O
+3	Deep	deep	JJ	pos2=VB	4	nmod	_	O
+4	learning	learning	NN	_	2	pobj	_	O
+5	!	!	.	_	1	punct	_	O
+

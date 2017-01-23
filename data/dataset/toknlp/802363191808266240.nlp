@@ -1,0 +1,22 @@
+1	"	"	``	pos2=SYM	21	punct	_	O
+2	#Samsung	#samsung	VBG	pos2=NNP	21	nmod	_	O
+3	#Galaxy	#galaxy	NNP	pos2=PRP$	4	compound	_	O
+4	Note	note	NN	pos2=VB	2	dobj	_	O
+5	7	0	CD	_	4	nmod	_	U-CARDINAL
+6	with	with	IN	_	2	prep	_	O
+7	6GB	0gb	NN	pos2=JJ	8	compound	_	O
+8	RAM	ram	NN	pos2=NNP	6	pobj	_	O
+9	to	to	TO	pos2=IN	10	aux	_	O
+10	cost	cost	VB	pos2=NN	2	advcl	_	O
+11	6088	0	CD	_	12	nmod	_	O
+12	#Yuan	#yuan	NNS	pos2=NNP	10	dobj	_	O
+13	/	/	SYM	_	21	punct	_	O
+14	$	$	$	_	15	nmod	_	O
+15	914	0	CD	_	10	dobj	_	U-MONEY
+16	in	in	IN	_	10	prep	_	O
+17	#China	#china	NNP	pos2=NN	16	pobj	_	U-GPE
+18	"	"	''	pos2=``	2	punct	_	O
+19	#android	#android	FW	pos2=GW	21	nmod	_	O
+20	#mobile	#mobile	IN	pos2=ADD	21	nmod	_	O
+21	https://t.co/76ggnZxG4C	#hlink#	ADD	pos2=NN	0	root	_	O
+

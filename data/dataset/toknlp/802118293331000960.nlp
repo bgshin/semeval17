@@ -1,0 +1,18 @@
+1	just	just	RB	_	2	advmod	_	O
+2	watched	watch	VBN	pos2=VBD	0	root	_	O
+3	Scream	scream	NNP	_	4	compound	_	O
+4	Queens	queens	NNP	_	17	dep	_	U-GPE
+5	(2015)	(0)	CD	pos2=NNPS	7	nmod	_	O
+6	–	-	HYPH	pos2=,	7	punct	_	O
+7	S02E05	s0e0	NN	_	17	dep	_	O
+8	(	(	-LRB-	_	7	punct	_	O
+9	Chanel	chanel	NNP	_	13	compound	_	B-ORG
+10	Pour	pour	NNP	pos2=VB	13	compound	_	I-ORG
+11	Homme	homme	NNP	_	13	compound	_	I-ORG
+12	-	-	HYPH	pos2=,	13	punct	_	I-ORG
+13	Icide	icide	NNP	pos2=NN	7	appos	_	L-ORG
+14	)	)	-RRB-	pos2=GW	7	punct	_	O
+15	#screamqueens	#screamqueens	GW	pos2=VBZ	17	nmod	_	O
+16	https://t.co/OschZjK86D	#hlink#	ADD	_	17	nmod	_	O
+17	https://t.co/7Yn3ejJqBg	#hlink#	ADD	_	2	dobj	_	U-ORG
+

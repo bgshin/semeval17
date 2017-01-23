@@ -1,0 +1,18 @@
+1	#Tesla	#tesla	NNP	pos2=NNS	2	compound	_	O
+2	#ModelS	#models	NNS	pos2=ADD	5	nsubjpass	_	O
+3	can	can	MD	_	5	aux	_	O
+4	be	be	VB	_	5	auxpass	_	O
+5	#located	#located	VBN	pos2=PRP	0	root	_	O
+6	,	,	,	_	5	punct	_	O
+7	#unlocked	#unlocked	UH	pos2=VBN	5	discourse	_	O
+8	,	,	,	_	5	punct	_	O
+9	#stolen	#stolen	VBN	pos2=UH	5	advcl	_	O
+10	by	by	IN	_	9	agent	_	O
+11	#manipulating	#manipulating	VBG	pos2=NNP	10	pcomp	_	O
+12	#Tesla	#tesla	NNP	pos2=GW	13	compound	_	O
+13	#apps	#apps	NNS	pos2=GW	11	dobj	_	O
+14	https://t.co/mpR12cLlYp	#hlink#	ADD	_	17	nmod	_	O
+15	#security	#security	-RRB-	pos2=IN	14	punct	_	O
+16	#infosec	#infosec	UH	pos2=VB	17	discourse	_	O
+17	#Privacy	#privacy	NN	pos2=UH	12	pobj	_	O
+

@@ -1,0 +1,22 @@
+1	Drone	drone	NN	pos2=NNP	2	compound	_	O
+2	Strikes	strike	NNS	pos2=NNPS	6	nsubj	_	O
+3	in	in	IN	_	2	prep	_	O
+4	Pakistan	pakistan	NNP	_	3	pobj	_	U-GPE
+5	have	have	VBP	_	6	aux	_	O
+6	killed	kill	VBN	_	0	root	_	O
+7	or	or	CC	_	6	cc	_	O
+8	injured	injure	VBN	_	6	conj	_	O
+9	over	over	IN	pos2=RB	10	qmod	_	B-CARDINAL
+10	1000	0	CD	_	11	nmod	_	L-CARDINAL
+11	people	people	NNS	_	8	dobj	_	O
+12	during	during	IN	_	8	prep	_	O
+13	@POTUS	@potus	NN	pos2=NNP	14	compound	_	O
+14	presidency	presidency	NN	_	12	pobj	_	O
+15	,	,	,	_	11	punct	_	O
+16	many	many	JJ	_	17	nmod	_	O
+17	children	child	NNS	_	14	conj	_	O
+18	.	.	.	_	6	punct	_	O
+
+1	Sad	sad	JJ	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

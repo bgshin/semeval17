@@ -1,0 +1,18 @@
+1	Homeopathy	homeopathy	NN	pos2=NNP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	also	also	RB	_	2	advmod	_	O
+4	good	good	JJ	_	2	acomp	_	O
+5	for	for	IN	_	4	prep	_	O
+6	our	our	PRP$	_	7	poss	_	O
+7	kids	kid	NNS	_	5	pobj	_	O
+8	,	,	,	_	2	punct	_	O
+9	with	with	IN	_	2	prep	_	O
+10	no	no	DT	_	14	det	_	O
+11	harmful	harmful	JJ	_	14	nmod	_	O
+12	side	side	NN	pos2=JJ	14	compound	_	O
+13	-	-	HYPH	_	14	punct	_	O
+14	effects	effect	NNS	_	9	pobj	_	O
+15	!	!	.	_	2	punct	_	O
+
+1	https://t.co/F4vlAXS0Ix	#hlink#	ADD	_	0	root	_	U-ORG
+

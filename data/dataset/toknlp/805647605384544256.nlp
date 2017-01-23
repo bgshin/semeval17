@@ -1,0 +1,25 @@
+1	He	he	PRP	_	4	nsubj	_	O
+2	is	be	VBZ	_	4	aux	_	O
+3	only	only	RB	_	4	advmod	_	O
+4	trying	try	VBG	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	clean	clean	VB	_	4	xcomp	_	O
+7	up	up	RP	_	6	prt	_	O
+8	Philippines	philippines	NNP	pos2=NNPS	6	dobj	_	U-GPE
+9	.	.	.	_	4	punct	_	O
+
+1	What	what	WP	_	2	attr	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	death	death	NN	_	4	compound	_	O
+4	penalty	penalty	NN	_	2	nsubj	_	O
+5	compared	compare	VBN	_	2	prep	_	O
+6	to	to	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	threat	threat	NN	_	6	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	Islamic	islamic	JJ	pos2=NNP	11	nmod	_	U-NORP
+11	terrorism	terrorism	NN	_	9	pobj	_	O
+12	?	?	.	_	2	punct	_	O
+
+1	https://t.co/WZdbR7hnmq	#hlink#	ADD	_	0	root	_	U-ORG
+

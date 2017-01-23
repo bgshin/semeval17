@@ -1,0 +1,18 @@
+1	@fitzyandwippa	@fitzyandwippa	NN	pos2=NNS	6	dep	_	O
+2	@	@	SYM	pos2=-LRB-	6	punct	_	O
+3	13cabs	0cabs	NNS	_	6	nsubj	_	O
+4	Do	do	VBP	pos2=VB	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	pay	pay	VB	_	0	root	_	O
+7	#cash	#cash	NN	pos2=PRP	6	dobj	_	O
+8	.	.	.	_	6	punct	_	O
+
+1	They	they	PRP	_	3	nsubj	_	O
+2	will	will	MD	_	3	aux	_	O
+3	use	use	VB	_	0	root	_	O
+4	it	it	PRP	_	3	dobj	_	O
+5	for	for	IN	_	3	prep	_	O
+6	#uber	#uber	NN	pos2=NNP	5	pobj	_	U-DATE
+7	or	or	CC	_	6	cc	_	O
+8	#Prada	#prada	NNP	pos2=NN	6	conj	_	U-DATE
+

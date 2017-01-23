@@ -1,0 +1,26 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	wait	wait	VB	_	0	root	_	O
+5	to	to	TO	pos2=IN	6	aux	_	O
+6	kick	kick	VB	_	4	xcomp	_	O
+7	22	0	CD	_	8	compound	_	B-CARDINAL
+8	million	#crd#	CD	_	6	dobj	_	L-CARDINAL
+9	off	off	IN	pos2=NNS	6	prep	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Obamacare	obamacare	NNP	_	10	pobj	_	U-ORG
+12	,	,	,	_	25	punct	_	O
+13	voucherize	voucherize	NNP	pos2=VB	14	compound	_	O
+14	Medicare	medicare	NNP	_	11	conj	_	O
+15	&	&	CC	_	14	cc	_	O
+16	destroy	destroy	VB	_	14	conj	_	O
+17	Medicaid	medicaid	NNP	_	16	dobj	_	O
+18	&	&	CC	_	17	cc	_	O
+19	the	the	DT	_	20	det	_	O
+20	states	state	NNS	pos2=NN	17	conj	_	O
+21	with	with	IN	_	20	prep	_	O
+22	a	a	DT	_	23	det	_	O
+23	block	block	NN	_	21	pobj	_	O
+24	…	…	NFP	pos2=-LRB-	25	punct	_	O
+25	https://t.co/nUKwMYKRC9	#hlink#	ADD	_	4	dep	_	U-ORG
+

@@ -1,0 +1,15 @@
+1	@richardpbacon	@richardpbacon	UH	pos2=XX	3	discourse	_	O
+2	what	what	WP	_	3	dep	_	O
+3	about	about	IN	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	clear	clear	JJ	pos2=NNP	6	nmod	_	O
+6	lies	lie	NNS	pos2=VBZ	3	pobj	_	O
+7	about	about	IN	_	6	prep	_	O
+8	financial	financial	JJ	_	9	nmod	_	O
+9	armageddon	armageddon	NN	pos2=NNS	7	pobj	_	O
+10	from	from	IN	_	6	prep	_	O
+11	a	a	DT	_	13	det	_	O
+12	brexit	brexit	NN	pos2=JJ	13	compound	_	O
+13	vote	vote	NN	pos2=VB	10	pobj	_	O
+14	?	?	.	_	3	punct	_	O
+

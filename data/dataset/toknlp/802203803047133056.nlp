@@ -1,0 +1,12 @@
+1	Rest	rest	NN	pos2=VB	0	root	_	O
+2	In	in	IN	_	1	prep	_	O
+3	Peace	peace	NNP	pos2=NN	4	compound	_	U-FAC
+4	#jamesmeans	#jamesmeans	NNPS	pos2=NNS	2	pobj	_	O
+5	I	I	PRP	_	7	nsubj	_	O
+6	'm	be	VBP	_	7	aux	_	O
+7	praying	pray	VBG	_	1	advcl	_	O
+8	for	for	IN	_	7	prep	_	O
+9	his	his	PRP$	_	10	poss	_	O
+10	family	family	NN	_	8	pobj	_	O
+11	#BlackLivesMatter	#blacklivesmatter	.	pos2=ADD	7	punct	_	O
+

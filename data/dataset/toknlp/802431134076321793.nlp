@@ -1,0 +1,11 @@
+1	Robots	robot	NNS	_	2	nsubj	_	O
+2	helped	help	VBD	pos2=VBN	0	root	_	O
+3	inspire	inspire	VB	_	2	xcomp	_	O
+4	deep	deep	JJ	pos2=NN	5	nmod	_	O
+5	learning	learning	NN	_	3	dobj	_	O
+6	might	might	MD	pos2=NN	7	aux	_	O
+7	become	become	VB	_	10	dep	_	O
+8	-	-	:	pos2=GW	10	punct	_	O
+9	https://t.co/HBZO89Io4j	#hlink#	ADD	_	10	nmod	_	O
+10	https://t.co/hMDHDstZJ6	#hlink#	ADD	_	2	dep	_	U-ORG
+

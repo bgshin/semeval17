@@ -1,0 +1,26 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	know	know	VBP	_	5	parataxis	_	O
+3	tony	tony	JJ	pos2=NNP	4	nmod	_	O
+4	romo	romo	NNP	pos2=NN	5	nsubj	_	O
+5	was	be	VBD	_	8	auxpass	_	O
+6	very	very	RB	_	7	advmod	_	O
+7	much	much	RB	_	8	advmod	_	O
+8	considered	consider	VBN	pos2=VBD	0	root	_	O
+9	an	an	DT	_	11	det	_	O
+10	“	"	``	_	11	punct	_	O
+11	accident	accident	NN	_	8	oprd	_	O
+12	waiting	wait	VBG	pos2=NN	11	acl	_	O
+13	to	to	TO	_	14	aux	_	O
+14	happen	happen	VB	_	12	xcomp	_	O
+15	”	"	''	pos2=``	11	punct	_	O
+16	but	but	CC	_	8	cc	_	O
+17	i	I	PRP	_	18	nsubj	_	O
+18	think	think	VBP	_	8	conj	_	O
+19	its	its	PRP$	pos2=IN	22	poss	_	O
+20	the	the	DT	_	22	det	_	O
+21	perfect	perfect	JJ	_	22	nmod	_	O
+22	terminology	terminology	NN	_	17	appos	_	O
+23	for	for	IN	_	22	prep	_	O
+24	cousins	cousin	NNS	_	23	pobj	_	O
+25	.	.	.	_	18	punct	_	O
+

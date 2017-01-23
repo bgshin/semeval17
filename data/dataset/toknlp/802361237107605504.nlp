@@ -1,0 +1,27 @@
+1	In	in	IN	_	9	prep	_	O
+2	2016	0	CD	_	1	pobj	_	U-DATE
+3	,	,	,	_	9	punct	_	O
+4	population	population	NN	_	9	nsubj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	control	control	NN	_	5	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	ISIS	isis	NNP	pos2=NN	7	pobj	_	U-ORG
+9	shrunk	shrink	VBN	pos2=VBD	0	root	_	O
+10	from	from	IN	_	9	prep	_	O
+11	10	0	CD	_	10	pobj	_	U-CARDINAL
+12	to	to	IN	_	10	prep	_	O
+13	6	0	CD	_	14	compound	_	B-CARDINAL
+14	million	#crd#	CD	_	12	pobj	_	L-CARDINAL
+15	Territory	territory	NNP	pos2=NN	16	nsubj	_	O
+16	shrank	shrink	VBD	pos2=VBN	9	conj	_	O
+17	by	by	IN	_	16	prep	_	O
+18	16	0	CD	_	19	nmod	_	B-PERCENT
+19	%	%	NN	_	17	pobj	_	L-PERCENT
+20	.	.	.	_	16	punct	_	O
+
+1	10	0	CD	_	3	nmod	_	U-CARDINAL
+2	major	major	JJ	_	3	nmod	_	O
+3	cities	city	NNS	_	0	root	_	O
+4	to	to	IN	pos2=TO	3	prep	_	O
+5	5.#ThankYouObama	0.#thankyouobama	NN	pos2=.	4	pobj	_	O
+

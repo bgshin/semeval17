@@ -1,0 +1,29 @@
+1	Have	have	VBP	pos2=VB	2	aux	_	O
+2	avoided	avoid	VBN	_	0	root	_	O
+3	political	political	JJ	_	4	nmod	_	O
+4	talk	talk	NN	pos2=VB	2	dobj	_	O
+5	all	all	DT	pos2=RB	6	det	_	O
+6	day	day	NN	pos2=RB	2	npadvmod	_	O
+7	-	-	:	pos2=,	2	punct	_	O
+8	should	should	MD	_	10	aux	_	O
+9	I	I	PRP	_	10	nsubj	_	O
+10	drop	drop	VB	_	2	advcl	_	O
+11	a	a	DT	_	12	det	_	O
+12	bomb	bomb	NN	_	10	dobj	_	O
+13	on	on	IN	_	10	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	way	way	NN	_	13	pobj	_	O
+16	out	out	RB	pos2=RP	15	advmod	_	O
+17	?	?	.	_	2	punct	_	O
+
+1	Medicare	medicare	NNP	pos2=NN	0	root	_	U-ORG
+2	?	?	.	_	1	punct	_	O
+
+1	Melania	melania	NNP	pos2=NN	6	poss	_	U-PERSON
+2	's	's	POS	_	1	case	_	O
+3	speech	speech	NN	_	5	npadvmod	_	O
+4	-	-	HYPH	_	5	punct	_	O
+5	giving	give	VBG	pos2=NN	6	nmod	_	O
+6	skills	skill	NNS	_	0	root	_	O
+7	?	?	.	_	6	punct	_	O
+

@@ -1,0 +1,25 @@
+1	Pelosi	pelosi	NNP	_	4	poss	_	U-PERSON
+2	's	's	POS	_	1	case	_	O
+3	ldrshp	ldrshp	JJ	pos2=NN	4	nmod	_	O
+4	slate	slate	NN	_	5	nsubj	_	O
+5	includes	include	VBZ	_	0	root	_	O
+6	long	long	JJ	_	7	nmod	_	O
+7	time	time	NN	_	8	compound	_	O
+8	allies	ally	NNS	_	5	dobj	_	O
+9	in	in	IN	_	8	prep	_	O
+10	key	key	JJ	_	11	nmod	_	O
+11	posts	post	NNS	_	9	pobj	_	O
+12	.	.	.	_	5	punct	_	O
+
+1	Lujan	lujan	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	stays	stay	VBZ	_	0	root	_	O
+3	at	at	IN	_	2	prep	_	O
+4	DCCC	dccc	NNP	pos2=NN	3	pobj	_	U-ORG
+5	,	,	,	_	4	punct	_	O
+6	DeLauro	delauro	NNP	_	4	conj	_	B-ORG
+7	&	&	CC	_	6	cc	_	I-ORG
+8	Swalwell	swalwell	NNP	_	6	conj	_	L-ORG
+9	at	at	IN	_	2	prep	_	O
+10	Steering	steering	NNP	pos2=NN	9	pobj	_	O
+11	https://t.co/Wf8NYPhIHj	#hlink#	ADD	pos2=NNP	9	pobj	_	O
+

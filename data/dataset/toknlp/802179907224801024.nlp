@@ -1,0 +1,12 @@
+1	Reports	report	VBZ	pos2=NNS	5	nsubj	_	O
+2	from	from	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	scene	scene	NN	_	2	pobj	_	O
+5	suggest	suggest	VBP	_	0	root	_	O
+6	that	that	IN	_	9	mark	_	O
+7	the	the	DT	_	8	det	_	O
+8	victim	victim	NN	_	9	nsubj	_	O
+9	was	be	VBD	_	5	ccomp	_	O
+10	killed.#DebunkIsrael#israelisburning#BDS#Palestine#Jerusalem	killed.#debunkisrael#israelisburning#bds#palestine#jerusalem	ADD	pos2=NNP	9	attr	_	O
+11	https://t.co/T674XPZ2Qc	#hlink#	ADD	_	9	attr	_	O
+

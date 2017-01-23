@@ -1,0 +1,33 @@
+1	@LeaveEUOfficial	@leaveeuofficial	JJ	pos2=XX	0	root	_	O
+2	nah	nah	UH	pos2=NN	1	discourse	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	Not	not	RB	_	2	neg	_	O
+2	going	go	VBG	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	happen	happen	VB	_	2	xcomp	_	O
+5	mate	mate	NN	pos2=RB	4	dobj	_	O
+6	,	,	,	_	2	punct	_	O
+7	no	no	RB	_	8	neg	_	O
+8	matter	matter	RB	_	2	advmod	_	O
+9	how	how	WRB	_	10	advmod	_	O
+10	much	much	JJ	pos2=RB	15	pobj	_	O
+11	you	you	PRP	_	12	nsubj	_	O
+12	wet	wet	VBP	pos2=VBD	8	ccomp	_	O
+13	your	your	PRP$	_	14	poss	_	O
+14	pants	pant	NNS	_	12	dobj	_	O
+15	about	about	IN	_	12	prep	_	O
+16	it	it	PRP	_	15	pobj	_	O
+17	.	.	.	_	2	punct	_	O
+
+1	No	no	DT	pos2=UH	2	det	_	O
+2	#brexit	#brexit	NN	pos2=NNS	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Save	save	VB	pos2=VBP	0	root	_	O
+2	Great	great	NNP	pos2=JJ	3	compound	_	B-GPE
+3	Britain	britain	NNP	_	1	dobj	_	L-GPE
+4	from	from	IN	_	1	prep	_	O
+5	hate	hate	NN	pos2=VB	4	pobj	_	O
+6	!	!	.	_	1	punct	_	O
+

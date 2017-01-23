@@ -1,0 +1,18 @@
+1	@Adamant_Yves	@adamant_yves	NNS	pos2=VBZ	0	root	_	O
+2	@mic	@mic	UH	pos2=MD	5	discourse	_	O
+3	I	I	PRP	_	5	nsubj	_	O
+4	'd	would	MD	_	5	aux	_	O
+5	prefer	prefer	VB	_	1	ccomp	_	O
+6	Ashley	ashley	NNP	_	7	compound	_	B-PERSON
+7	Graham	graham	NNP	_	5	dobj	_	L-PERSON
+8	if	if	IN	_	11	mark	_	O
+9	we	we	PRP	_	11	nsubj	_	O
+10	're	be	VBP	_	11	aux	_	O
+11	looking	look	VBG	_	5	advcl	_	O
+12	for	for	IN	_	11	prep	_	O
+13	curvy	curvy	JJ	_	14	nmod	_	O
+14	women	woman	NNS	_	12	pobj	_	O
+15	to	to	TO	_	16	aux	_	O
+16	play	play	VB	_	11	advcl	_	O
+17	Barbie	barbie	NNP	_	16	dobj	_	U-PERSON
+

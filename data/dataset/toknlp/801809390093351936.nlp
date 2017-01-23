@@ -1,0 +1,31 @@
+1	Google	google	NNP	_	2	compound	_	U-ORG
+2	earth	earth	NN	_	3	compound	_	O
+3	VR	vr	NNP	pos2=NN	4	nsubj	_	U-ORG
+4	is	be	VBZ	_	0	root	_	O
+5	easily	easily	RB	_	4	advmod	_	O
+6	the	the	DT	_	9	det	_	O
+7	most	most	RBS	_	8	advmod	_	O
+8	amazing	amazing	JJ	_	9	nmod	_	O
+9	thing	thing	NN	_	4	attr	_	O
+10	I	I	PRP	_	12	nsubj	_	O
+11	've	have	VBP	_	12	aux	_	O
+12	used	use	VBN	_	9	relcl	_	O
+13	.	.	.	_	4	punct	_	O
+
+1	Flew	fly	VBD	pos2=VB	0	root	_	O
+2	down	down	RP	pos2=IN	1	advmod	_	O
+3	my	my	PRP$	_	4	poss	_	O
+4	street	street	NN	_	1	dobj	_	O
+5	in	in	IN	_	1	prep	_	O
+6	South	south	NNP	_	7	compound	_	B-GPE
+7	Africa	africa	NNP	pos2=NNPS	5	pobj	_	L-GPE
+8	,	,	,	_	1	punct	_	O
+9	around	around	IN	pos2=RB	1	prep	_	O
+10	london	london	NNP	pos2=NN	9	pobj	_	U-GPE
+11	and	and	CC	_	10	cc	_	O
+12	New	new	NNP	_	13	compound	_	B-GPE
+13	York	york	NNP	_	10	conj	_	L-GPE
+14	in	in	IN	_	1	prep	_	O
+15	seconds	#ord#	NNS	_	14	pobj	_	U-TIME
+16	.	.	.	_	1	punct	_	O
+

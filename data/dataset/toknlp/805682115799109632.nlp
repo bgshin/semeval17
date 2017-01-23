@@ -1,0 +1,15 @@
+1	The	the	DT	_	4	det	_	O
+2	latest	late	JJS	_	4	nmod	_	O
+3	Homeopathy	homeopathy	NN	pos2=NNP	4	compound	_	O
+4	Friends	friend	NNS	pos2=NNPS	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+
+1	https://t.co/83TMveCDza	#hlink#	ADD	pos2=NN	8	dep	_	O
+2	Thanks	thanks	NNS	pos2=NN	8	npadvmod	_	O
+3	to	to	IN	_	2	prep	_	O
+4	@Homedica	@homedica	NNP	pos2=$	3	pobj	_	B-PERSON
+5	@NWCHhomoeopathy	@nwchhomoeopathy	NN	pos2=XX	8	dep	_	L-PERSON
+6	@SarahsEnergy	@sarahsenergy	XX	pos2=ADD	8	dep	_	O
+7	#homeopathy	#homeopathy	XX	pos2=UH	8	dep	_	O
+8	#mitochondria	#mitochondria	UH	pos2=XX	0	root	_	O
+

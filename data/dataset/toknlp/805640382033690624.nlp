@@ -1,0 +1,11 @@
+1	@BupaAustralia	@bupaaustralia	NNS	pos2=ADD	2	compound	_	O
+2	@GordyPls	@gordypls	NNS	pos2=ADD	6	vocative	_	O
+3	Why	why	WRB	_	6	advmod	_	O
+4	do	do	VBP	_	6	aux	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	cover	cover	VB	_	0	root	_	O
+7	homeopathy	homeopathy	NN	_	6	dobj	_	O
+8	?	?	.	_	6	punct	_	O
+
+1	https://t.co/V5c2oxMrca	#hlink#	ADD	_	0	root	_	U-ORG
+

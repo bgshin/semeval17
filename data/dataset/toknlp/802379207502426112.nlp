@@ -1,0 +1,23 @@
+1	What	what	WP	pos2=WDT	2	dep	_	O
+2	about	about	IN	_	0	root	_	O
+3	option	option	NN	_	4	compound	_	O
+4	number	number	NN	_	2	pobj	_	O
+5	5	0	CD	_	4	nmod	_	U-CARDINAL
+6	,	,	,	_	4	punct	_	O
+7	where	where	WRB	_	10	advmod	_	O
+8	sentient	sentient	JJ	pos2=NN	9	nmod	_	O
+9	robots	robot	NNS	_	10	nsubj	_	O
+10	realize	realize	VBP	_	4	relcl	_	O
+11	they	they	PRP	_	15	nsubj	_	O
+12	do	do	VBP	_	15	aux	_	O
+13	n't	not	RB	_	15	neg	_	O
+14	really	really	RB	_	15	advmod	_	O
+15	need	need	VB	pos2=VBP	10	ccomp	_	O
+16	homo-sapiens	homo-sapiens	NNS	_	15	dobj	_	O
+17	in	in	IN	_	15	prep	_	O
+18	large	large	JJ	_	19	nmod	_	O
+19	numbers	number	NNS	_	17	pobj	_	O
+20	?...	?..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/yGqpHARDyE	#hlink#	ADD	_	0	root	_	U-ORG
+

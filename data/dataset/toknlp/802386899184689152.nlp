@@ -1,0 +1,31 @@
+1	@realDrOlmo	@realdrolmo	ADD	pos2=NN	6	punct	_	O
+2	@catalano_gary	@catalano_gary	NNP	pos2=PRP$	3	compound	_	B-PERSON
+3	Trump	trump	NNP	pos2=NN	6	nsubjpass	_	L-PERSON
+4	was	be	VBD	_	6	auxpass	_	O
+5	not	not	RB	_	6	neg	_	O
+6	elected	elect	VBN	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	unify	unify	VB	_	6	xcomp	_	O
+9	the	the	DT	_	10	det	_	O
+10	cabinet	cabinet	NN	_	8	dobj	_	O
+11	.	.	.	_	6	punct	_	O
+
+1	He	he	PRP	_	3	nsubjpass	_	O
+2	was	be	VBD	_	3	auxpass	_	O
+3	elected	elect	VBN	_	0	root	_	O
+4	to	to	TO	pos2=IN	6	aux	_	O
+5	"	"	``	_	6	punct	_	O
+6	drain	drain	VB	_	3	xcomp	_	O
+7	the	the	DT	_	8	det	_	O
+8	swamp	swamp	NN	_	6	dobj	_	O
+9	"	"	''	_	6	punct	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	Romney	romney	NNP	_	2	nsubj	_	U-ORG
+2	is	be	VBZ	_	0	root	_	O
+3	part	part	NN	_	2	attr	_	O
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	swamp	swamp	NN	_	4	pobj	_	O
+7	!	!	.	_	2	punct	_	O
+

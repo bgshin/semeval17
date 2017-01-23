@@ -1,0 +1,14 @@
+1	That	that	DT	_	3	det	_	O
+2	awkward	awkward	JJ	_	3	nmod	_	O
+3	moment	moment	NN	_	0	root	_	O
+4	when	when	WRB	_	6	advmod	_	O
+5	@EA	@ea	NN	pos2=NNP	6	nsubj	_	O
+6	messes	mess	VBZ	_	3	advcl	_	O
+7	up	up	RP	pos2=IN	6	prt	_	O
+8	the	the	DT	_	10	det	_	O
+9	@utahjazz	@utahjazz	JJ	pos2=NN	10	nmod	_	O
+10	logo	logo	NN	_	6	dobj	_	O
+11	...	..	.	_	3	punct	_	O
+
+1	https://t.co/wvUJ6PXdrL	#hlink#	ADD	_	0	root	_	U-ORG
+

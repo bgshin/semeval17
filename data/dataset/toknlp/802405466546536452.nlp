@@ -1,0 +1,15 @@
+1	Samsungs	samsungs	NNP	pos2=PRP$	3	compound	_	U-PERSON
+2	galaxy	galaxy	NN	_	3	compound	_	O
+3	note	note	NN	pos2=VBP	6	dep	_	O
+4	7	0	CD	_	5	nmod	_	U-CARDINAL
+5	smartphone	smartphone	NN	_	6	nsubj	_	O
+6	banned	ban	VBN	_	0	root	_	O
+7	from	from	IN	_	6	prep	_	O
+8	all	all	DT	pos2=PDT	12	det	_	O
+9	#TechNews	#technews	NNPS	pos2=NNS	12	compound	_	U-NORP
+10	#Tech	#tech	NNP	pos2=POS	12	compound	_	B-ORG
+11	#News	#news	NNP	pos2=NNPS	12	compound	_	I-ORG
+12	#Gadget	#gadget	NNP	pos2=GW	7	pobj	_	L-ORG
+13	#Apps	#apps	VBZ	pos2=ADD	8	relcl	_	O
+14	https://t.co/Zwe1n7KK5U	#hlink#	ADD	_	13	attr	_	O
+

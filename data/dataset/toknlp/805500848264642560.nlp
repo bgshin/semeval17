@@ -1,0 +1,28 @@
+1	When	when	WRB	_	3	advmod	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	want	want	VBP	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	try	try	VB	_	3	xcomp	_	O
+6	vegetarianism	vegetarianism	NN	_	5	dobj	_	O
+7	but	but	CC	_	3	cc	_	O
+8	you	you	PRP	_	11	nsubj	_	O
+9	ca	can	MD	_	11	aux	_	O
+10	n't	not	RB	_	11	neg	_	O
+11	find	find	VB	_	3	conj	_	O
+12	good	good	JJ	_	13	nmod	_	O
+13	recipes	recipe	NNS	_	11	dobj	_	O
+14	and	and	CC	_	11	cc	_	O
+15	then	then	RB	_	17	advmod	_	O
+16	you	you	PRP	_	17	nsubj	_	O
+17	stumble	stumble	VBP	pos2=VB	11	conj	_	O
+18	upon	upon	IN	_	17	prep	_	O
+19	an	an	DT	_	24	det	_	O
+20	awesome	awesome	JJ	_	22	advmod	_	O
+21	-	-	HYPH	_	22	punct	_	O
+22	looking	look	VBG	_	24	nmod	_	O
+23	vegan	vegan	JJ	_	24	nmod	_	O
+24	site	site	NN	_	18	pobj	_	O
+25	!	!	.	_	17	punct	_	O
+
+1	😍	😍	SYM	pos2=NFP	0	root	_	U-ORG
+

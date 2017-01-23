@@ -1,0 +1,33 @@
+1	@AtheistRepublic	@atheistrepublic	ADD	pos2=NN	5	aux	_	O
+2	@	@	SYM	pos2=IN	7	punct	_	O
+3	3Nesa	0nesa	NN	pos2=MD	5	nsubj	_	O
+4	Not	not	RB	pos2=CC	5	neg	_	O
+5	bashing	bash	VBG	_	0	root	_	O
+6	gay	gay	JJ	_	7	nmod	_	O
+7	marriage	marriage	NN	_	5	dobj	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	feel	feel	VBP	_	0	root	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	need	need	VBP	_	2	ccomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	be	be	VB	_	4	xcomp	_	O
+7	with	with	IN	_	6	prep	_	O
+8	same	same	JJ	_	9	nmod	_	O
+9	sex	sex	NN	_	7	pobj	_	O
+10	,	,	,	_	12	punct	_	O
+11	so	so	RB	pos2=CC	12	advmod	_	O
+12	be	be	VB	_	8	dep	_	O
+13	it	it	PRP	_	12	nsubj	_	O
+14	.	.	.	_	12	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	not	not	RB	_	2	neg	_	O
+4	what	what	WP	_	5	det	_	O
+5	Christians	christian	NNPS	_	6	nsubj	_	U-NORP
+6	believe	believe	VBP	_	2	ccomp	_	O
+7	is	be	VBZ	_	6	ccomp	_	O
+8	all	all	DT	pos2=RB	7	dep	_	O
+

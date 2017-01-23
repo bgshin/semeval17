@@ -1,0 +1,8 @@
+1	Animal	animal	NN	pos2=NNP	2	compound	_	O
+2	Euthanasia	euthanasia	NN	pos2=NNP	4	nsubj	_	O
+3	-	-	:	pos2=HYPH	4	punct	_	O
+4	Helpful	helpful	JJ	_	7	nmod	_	O
+5	or	or	CC	_	4	cc	_	O
+6	Harmful	harmful	JJ	_	4	conj	_	O
+7	https://t.co/TjdOhwArwu	#hlink#	ADD	pos2=NN	0	root	_	O
+

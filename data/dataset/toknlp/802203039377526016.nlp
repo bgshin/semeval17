@@ -1,0 +1,27 @@
+1	Can	can	MD	_	3	aux	_	O
+2	not	not	RB	_	3	neg	_	O
+3	believe	believe	VB	_	0	root	_	O
+4	an	an	DT	pos2=IN	6	det	_	O
+5	NDP	ndp	NNP	_	6	compound	_	O
+6	MLA	mla	NNP	pos2=NN	7	nsubj	_	O
+7	had	have	VBD	_	3	ccomp	_	O
+8	the	the	DT	_	9	det	_	O
+9	audacity	audacity	NN	_	7	dobj	_	O
+10	to	to	TO	_	11	aux	_	O
+11	compare	compare	VB	_	9	relcl	_	O
+12	one	#crd#	CD	_	11	dobj	_	U-CARDINAL
+13	of	of	IN	_	12	prep	_	O
+14	our	our	PRP$	_	15	poss	_	O
+15	ministers	minister	NNS	_	13	pobj	_	O
+16	to	to	IN	_	11	prep	_	O
+17	a	a	DT	_	18	det	_	O
+18	Nazi	nazi	NNP	pos2=NN	16	pobj	_	U-NORP
+19	.	.	.	_	3	punct	_	O
+
+1	Asbolutely	asbolutely	RB	pos2=NNP	2	advmod	_	O
+2	deplorable	deplorable	JJ	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	#mbpoli	#mbpoli	UH	pos2=NNS	2	discourse	_	O
+2	https://t.co/6XxGehYe2z	#hlink#	ADD	pos2=NN	0	root	_	O
+

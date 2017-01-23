@@ -1,0 +1,13 @@
+1	Christmas	christmas	NNP	_	4	compound	_	B-ORG
+2	Charity	charity	NNP	pos2=NN	4	compound	_	I-ORG
+3	Benefit	benefit	NNP	pos2=NN	4	compound	_	I-ORG
+4	🌲	🌲	NNP	pos2=,	12	dep	_	I-ORG
+5	#MannequinChallenge	#mannequinchallenge	ADD	pos2=NN	11	nmod	_	I-ORG
+6	@	@	SYM	pos2=IN	8	punct	_	I-ORG
+7	Lukas	lukas	NNP	_	8	compound	_	I-ORG
+8	Nursery	nursery	NNP	pos2=NN	11	nmod	_	I-ORG
+9	&	&	CC	_	8	cc	_	I-ORG
+10	Butterfly	butterfly	NNP	pos2=NN	8	conj	_	L-ORG
+11	Encounter	encounter	NN	pos2=NNP	12	dep	_	O
+12	https://t.co/3ok0rkKmR6	#hlink#	ADD	_	0	root	_	O
+

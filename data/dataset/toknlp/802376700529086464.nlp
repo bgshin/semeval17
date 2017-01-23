@@ -1,0 +1,17 @@
+1	On	on	IN	_	9	prep	_	O
+2	a	a	DT	_	3	det	_	O
+3	scale	scale	NN	_	1	pobj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	1-10	0	CD	_	4	pobj	_	U-CARDINAL
+6	,	,	,	_	9	punct	_	O
+7	I	I	PRP	_	9	nsubj	_	O
+8	'd	would	MD	_	9	aux	_	O
+9	give	give	VB	_	0	root	_	O
+10	Steve	steve	NNP	_	11	compound	_	B-PERSON
+11	Bannon	bannon	NNP	_	9	dative	_	L-PERSON
+12	a	a	DT	_	13	det	_	O
+13	1.5	0	CD	_	9	dobj	_	U-CARDINAL
+14	...	..	.	pos2=,	9	punct	_	O
+
+1	https://t.co/7mQLfWFRAf	#hlink#	ADD	_	0	root	_	U-ORG
+

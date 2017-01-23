@@ -1,0 +1,27 @@
+1	Stein	stein	NN	pos2=NNP	3	dep	_	U-PERSON
+2	:	:	:	_	3	punct	_	O
+3	Seek	seek	VB	pos2=NNP	0	root	_	O
+4	recounts	recount	NNS	pos2=VBZ	3	dobj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	NC	nc	NNP	pos2=NN	5	pobj	_	U-GPE
+7	,	,	,	_	6	punct	_	O
+8	AZ	az	NNP	pos2=NN	6	conj	_	U-ORG
+9	,	,	,	_	8	punct	_	O
+10	&	&	CC	_	8	cc	_	O
+11	FL	fl	NNP	pos2=NN	8	conj	_	O
+12	-	-	:	pos2=,	3	punct	_	O
+13	Sign	sign	VB	pos2=VBP	3	conj	_	O
+14	the	the	DT	_	15	det	_	O
+15	Petition	petition	NN	pos2=NNP	13	dobj	_	O
+16	!	!	.	_	3	punct	_	O
+
+1	#p2	#p0	NN	pos2=LS	9	dep	_	O
+2	#uniteblue	#uniteblue	UH	pos2=XX	1	discourse	_	O
+3	#libcrib	#libcrib	UH	pos2=NN	1	discourse	_	O
+4	@nwlc	@nwlc	UH	pos2=FW	1	discourse	_	O
+5	#women	#women	UH	pos2=NN	1	discourse	_	O
+6	#	#	NN	pos2=-LRB-	7	compound	_	O
+7	1u	0u	NN	pos2=LS	9	dep	_	U-MONEY
+8	#VoteIntegrity	#voteintegrity	GW	pos2=NN	9	nmod	_	O
+9	https://t.co/68QAv5OFq3	#hlink#	ADD	pos2=NN	0	root	_	O
+

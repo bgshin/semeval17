@@ -1,0 +1,35 @@
+1	@jstar79	@jstar0	NN	pos2=NNS	0	root	_	O
+2	Hi	hi	UH	_	1	discourse	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	so	so	RB	_	4	advmod	_	O
+4	sorry	sorry	JJ	_	2	acomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	hear	hear	VB	_	4	xcomp	_	O
+7	that	that	DT	_	6	dobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	My	my	PRP$	_	2	poss	_	O
+2	husband	husband	NN	_	8	nsubj	_	O
+3	&	&	CC	_	2	cc	_	O
+4	mom	mom	NN	_	2	conj	_	O
+5	&	&	CC	_	2	cc	_	O
+6	myself	myself	PRP	_	2	conj	_	O
+7	will	will	MD	_	8	aux	_	O
+8	lose	lose	VB	_	0	root	_	O
+9	coverage	coverage	NN	_	8	dobj	_	O
+10	depending	depend	VBG	_	8	prep	_	O
+11	on	on	IN	_	10	prep	_	O
+12	what	what	WP	_	13	nsubj	_	O
+13	happens	happen	VBZ	_	11	pcomp	_	O
+14	in	in	IN	_	13	prep	_	O
+15	2017	0	CD	_	14	pobj	_	B-DATE
+16	-	-	SYM	_	17	punct	_	I-DATE
+17	18	0	CD	_	15	prep	_	L-DATE
+18	with	with	IN	_	13	prep	_	O
+19	ACA	aca	NN	pos2=NNP	21	nmod	_	B-ORG
+20	/	/	SYM	pos2=,	21	punct	_	I-ORG
+21	Medicaid	medicaid	NNP	pos2=NN	18	pobj	_	L-ORG
+

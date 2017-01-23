@@ -1,0 +1,18 @@
+1	Tell	tell	VB	pos2=VBP	10	advcl	_	O
+2	@sheffielduni	@sheffielduni	PRP	pos2=NNS	1	dobj	_	O
+3	to	to	TO	_	4	aux	_	O
+4	reduce	reduce	VB	_	1	xcomp	_	O
+5	their	their	PRP$	_	7	poss	_	O
+6	animal	animal	NN	_	7	compound	_	O
+7	testing	testing	NN	_	4	dobj	_	O
+8	-	-	:	pos2=,	10	punct	_	O
+9	they	they	PRP	_	10	nsubj	_	O
+10	KILL	kill	VBP	pos2=VB	0	root	_	O
+11	226	0	CD	_	12	nmod	_	U-CARDINAL
+12	ANIMALS	animal	NNS	_	10	dobj	_	O
+13	A	a	DT	_	14	det	_	O
+14	DAY	day	NN	_	12	npadvmod	_	O
+15	!	!	.	_	10	punct	_	O
+
+1	https://t.co/xdnF6HHCw8	#hlink#	ADD	_	0	root	_	U-ORG
+

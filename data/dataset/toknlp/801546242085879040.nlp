@@ -1,0 +1,34 @@
+1	Google	google	NNP	_	3	compound	_	B-ORG
+2	Earth	earth	NNP	_	3	compound	_	I-ORG
+3	VR	vr	NNP	pos2=NN	4	nsubj	_	L-ORG
+4	is	be	VBZ	_	0	root	_	O
+5	the	the	DT	_	8	det	_	O
+6	second-most	second-most	JJ	pos2=RBS	8	nmod	_	O
+7	compelling	compelling	JJ	_	8	nmod	_	O
+8	experience	experience	NN	_	4	attr	_	O
+9	on	on	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	Vive	vive	NNP	pos2=FW	9	pobj	_	U-PERSON
+12	(	(	-LRB-	_	15	punct	_	O
+13	tilt	tilt	NN	pos2=VB	14	compound	_	O
+14	brush	brush	NN	_	15	compound	_	O
+15	#	#	NN	_	8	npadvmod	_	O
+16	1	0	CD	pos2=LS	15	nmod	_	U-MONEY
+17	)	)	-RRB-	_	4	punct	_	O
+18	.	.	.	_	4	punct	_	O
+
+1	Awesome	awesome	JJ	pos2=UH	5	nmod	_	O
+2	,	,	,	_	7	punct	_	O
+3	even	even	RB	_	6	advmod	_	O
+4	if	if	IN	_	6	mark	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	got	get	VBD	_	11	advcl	_	O
+7	me	me	PRP	_	6	dative	_	O
+8	a	a	DT	_	9	det	_	O
+9	bit	bit	NN	_	10	npadvmod	_	O
+10	queasy	queasy	JJ	_	6	acomp	_	O
+11	.	.	.	_	0	root	_	O
+
+1	#vr	#vr	UH	pos2=XX	2	discourse	_	O
+2	#vive	#vive	UH	pos2=.	0	root	_	O
+

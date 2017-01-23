@@ -1,0 +1,29 @@
+1	#gilmoregirlstop44	#gilmoregirlstop0	LS	pos2=NN	0	root	_	U-CARDINAL
+2	.	.	.	_	1	punct	_	O
+
+1	Babette3	babette0	NN	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Miss	miss	NNP	pos2=AFX	2	compound	_	O
+2	Patty2	patty0	NN	pos2=NNP	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Lorelai1	lorelai0	LS	pos2=NN	0	root	_	U-CARDINAL
+2	.	.	.	_	1	punct	_	O
+
+1	KirkColor	kirkcolor	VB	pos2=VBD	0	root	_	O
+2	me	me	PRP	_	1	dobj	_	O
+3	surprised	surprised	JJ	_	1	oprd	_	O
+4	at	at	IN	_	3	prep	_	O
+5	how	how	WRB	_	6	advmod	_	O
+6	many	many	JJ	_	7	nmod	_	O
+7	people	people	NNS	_	10	nsubj	_	O
+8	do	do	VBP	_	10	aux	_	O
+9	n't	not	RB	_	10	neg	_	O
+10	know	know	VB	_	4	pcomp	_	O
+11	how	how	WRB	_	13	advmod	_	O
+12	to	to	TO	_	13	aux	_	O
+13	spell	spell	VB	_	10	xcomp	_	O
+14	Kirk	kirk	NNP	_	13	dobj	_	U-PERSON
+15	.	.	.	_	1	punct	_	O
+

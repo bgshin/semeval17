@@ -1,0 +1,25 @@
+1	Go	go	VB	_	7	advcl	_	O
+2	&	&	CC	_	1	cc	_	O
+3	see	see	VB	_	1	conj	_	O
+4	#FantasticBeasts	#fantasticbeasts	NNS	pos2=XX	3	dobj	_	O
+5	-	-	:	pos2=,	7	punct	_	O
+6	It	it	PRP	_	7	nsubj	_	O
+7	is	be	VBZ	_	0	root	_	O
+8	brilliant	brilliant	JJ	_	7	acomp	_	O
+9	!	!	.	_	7	punct	_	O
+
+1	Everyone	everyone	NN	_	2	nsubj	_	O
+2	needs	need	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	little	little	JJ	_	5	nmod	_	O
+5	bit	bit	NN	_	2	dobj	_	O
+6	a	a	DT	pos2=XX	7	det	_	O
+7	#magic	#magic	NN	pos2=XX	2	dobj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	their	their	PRP$	_	10	poss	_	O
+10	lives	life	NNS	_	8	pobj	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	#wizards	#wizards	UH	pos2=NNS	2	discourse	_	O
+2	#HarryPotter	#harrypotter	NN	pos2=ADD	0	root	_	O
+

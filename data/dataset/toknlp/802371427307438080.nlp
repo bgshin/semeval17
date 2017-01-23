@@ -1,0 +1,25 @@
+1	Trump	trump	NN	pos2=NNP	2	nsubj	_	O
+2	hit	hit	VBN	pos2=NN	0	root	_	O
+3	by	by	IN	_	2	agent	_	O
+4	media	medium	NNS	pos2=NN	3	pobj	_	O
+5	for	for	IN	_	2	prep	_	O
+6	choosing	choose	VBG	_	5	pcomp	_	O
+7	billionaires	billionaire	NNS	_	6	dobj	_	O
+8	for	for	IN	_	7	prep	_	O
+9	Cabinet	cabinet	NNP	pos2=NN	8	pobj	_	U-ORG
+10	https://t.co/fR2V6hrfiA	#hlink#	ADD	pos2=VBP	7	nmod	_	O
+11	it	it	PRP	_	10	dobj	_	O
+12	to	to	IN	_	10	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	media	medium	NNS	pos2=NN	12	pobj	_	O
+15	to	to	IN	pos2=TO	14	prep	_	O
+16	gripe	gripe	NN	pos2=VB	15	pobj	_	O
+17	they	they	PRP	_	19	nsubj	_	O
+18	'll	will	MD	_	19	aux	_	O
+19	be	be	VB	_	0	root	_	O
+20	someone	someone	NN	pos2=RB	19	attr	_	O
+21	there	there	EX	pos2=RB	22	expl	_	O
+22	need	need	VBP	pos2=VB	19	ccomp	_	O
+23	no	no	DT	_	24	det	_	O
+24	$	$	$	pos2=.	22	dobj	_	O
+

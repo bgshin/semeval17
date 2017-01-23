@@ -1,0 +1,14 @@
+1	10	0	CD	pos2=LS	5	nmod	_	U-CARDINAL
+2	Medical	medical	JJ	pos2=NNP	5	nmod	_	O
+3	Marijuana	marijuana	NNP	pos2=NN	4	compound	_	O
+4	Industry	industry	NN	pos2=NNP	5	compound	_	O
+5	Facts	fact	NNS	pos2=NNP	0	root	_	O
+6	-	-	:	pos2=,	5	punct	_	O
+7	WMNews	wmnews	NNP	pos2=NNS	8	compound	_	O
+8	Ep	ep	NNP	pos2=NN	5	appos	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	24	0	CD	pos2=GW	3	dep	_	U-CARDINAL
+2	https://t.co/xxBpLfo8bC	#hlink#	ADD	_	3	nmod	_	O
+3	https://t.co/uRc17OHDiY	#hlink#	ADD	_	0	root	_	U-ORG
+

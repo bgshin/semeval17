@@ -1,0 +1,15 @@
+1	Lake	lake	NNP	_	3	compound	_	O
+2	County	county	NNP	_	3	compound	_	O
+3	Black	black	NNP	_	4	nsubj	_	O
+4	Lives	live	VBZ	pos2=NNP	0	root	_	O
+5	Matter	matter	NNP	pos2=NN	6	nsubj	_	O
+6	hosts	host	VBZ	pos2=NNS	4	ccomp	_	O
+7	Thanksgiving	thanksgiving	NNP	pos2=VBG	9	compound	_	U-DATE
+8	food	food	NN	_	9	compound	_	O
+9	distribution	distribution	NN	_	14	dep	_	O
+10	-	-	HYPH	pos2=:	14	punct	_	O
+11	Chicago	chicago	NNP	_	12	compound	_	B-ORG
+12	Tribune	tribune	NNP	pos2=GW	14	dep	_	L-ORG
+13	https://t.co/NkjH3ydkP8…	#hlink#	ADD	_	14	nmod	_	O
+14	https://t.co/t7SEKpBxp0	#hlink#	ADD	_	6	dobj	_	U-ORG
+

@@ -1,0 +1,19 @@
+1	#LandingTeams	#landingteams	ADD	pos2=VBZ	2	nsubj	_	O
+2	sounds	sound	VBZ	pos2=NNS	0	root	_	O
+3	like	like	IN	_	2	prep	_	O
+4	some	some	DT	_	5	det	_	O
+5	sort	sort	NN	_	3	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	invasion	invasion	NN	_	8	compound	_	O
+8	force	force	NN	_	6	pobj	_	O
+9	...	..	.	pos2=,	2	punct	_	O
+
+1	at	at	IN	_	3	prep	_	O
+2	minimum	minimum	NN	pos2=UH	1	pobj	_	O
+3	an	an	DT	pos2=NN	4	det	_	O
+4	#AwayTeam	#awayteam	NN	pos2=NNP	7	nsubj	_	O
+5	on	on	IN	_	4	prep	_	O
+6	@StarTrek	@startrek	NNP	pos2=ADD	5	pobj	_	B-DATE
+7	#TrumpTransitionTeam@FoxNews	#trumptransitionteam@foxnews	ADD	pos2=NNP	0	root	_	I-DATE
+8	@ShepNewsTeam	@shepnewsteam	ADD	pos2=NNP	7	pobj	_	L-DATE
+

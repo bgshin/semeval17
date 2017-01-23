@@ -1,0 +1,25 @@
+1	@Nigel_Farage	@nigel_farage	NNP	pos2=NN	3	nsubj	_	U-ORG
+2	Always	always	RB	_	3	advmod	_	O
+3	thought	think	VBD	_	0	root	_	O
+4	he	he	PRP	_	5	nsubj	_	O
+5	was	be	VBD	_	3	ccomp	_	O
+6	a	a	DT	_	7	det	_	O
+7	patriot	patriot	NN	_	5	attr	_	O
+8	but	but	CC	_	3	cc	_	O
+9	now	now	RB	_	22	advmod	_	O
+10	that	that	IN	pos2=DT	16	mark	_	O
+11	DC	dc	NNP	pos2=NN	13	nmod	_	O
+12	/	/	SYM	pos2=HYPH	13	punct	_	O
+13	Clinton	clinton	NNP	_	14	compound	_	U-PERSON
+14	corruption	corruption	NN	_	16	nsubjpass	_	O
+15	is	be	VBZ	_	16	auxpass	_	O
+16	exposed	expose	VBN	_	9	ccomp	_	O
+17	he	he	PRP	pos2=RB	22	nsubj	_	O
+18	&	&	CC	_	17	cc	_	O
+19	GW	gw	NNP	pos2=NN	17	conj	_	O
+20	do	do	VBP	_	22	aux	_	O
+21	n't	not	RB	_	22	neg	_	O
+22	seem	seem	VB	_	0	root	_	O
+23	so	so	RB	_	24	advmod	_	O
+24	patriotic😕#draintheswamp	patriotic😕#draintheswamp	JJ	pos2=.	22	oprd	_	U-NORP
+

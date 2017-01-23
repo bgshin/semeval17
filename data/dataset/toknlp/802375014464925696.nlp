@@ -1,0 +1,25 @@
+1	"	"	``	_	5	punct	_	O
+2	You	you	PRP	_	5	nsubj	_	O
+3	now	now	RB	_	5	advmod	_	O
+4	what	what	WP	_	5	nsubj	_	O
+5	's	's	VBZ	_	0	root	_	O
+6	more	more	RBR	_	7	advmod	_	O
+7	destructive	destructive	JJ	_	5	acomp	_	O
+8	than	than	IN	_	7	prep	_	O
+9	a	a	DT	_	11	det	_	O
+10	nuclear	nuclear	JJ	_	11	nmod	_	O
+11	bomb	bomb	NN	_	8	pobj	_	O
+12	?	?	.	_	5	punct	_	O
+
+1	""	""	``	pos2=SYM	2	punct	_	O
+2	Words	word	NNS	pos2=NNP	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+4	"	"	''	_	2	punct	_	O
+
+1	-	-	SYM	pos2=NFP	5	punct	_	O
+2	Kim	kim	NNP	_	5	compound	_	B-PERSON
+3	Jong	jong	NNP	_	5	compound	_	I-PERSON
+4	-	-	HYPH	_	5	punct	_	I-PERSON
+5	unhahaha	unhahaha	NNP	_	0	root	_	L-PERSON
+6	.	.	.	_	5	punct	_	O
+

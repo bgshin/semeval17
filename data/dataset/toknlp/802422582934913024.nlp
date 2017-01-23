@@ -1,0 +1,13 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	want	want	VBP	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	see	see	VB	_	2	xcomp	_	O
+5	more	more	JJR	_	6	nmod	_	O
+6	robots	robot	NNS	_	7	nsubj	_	O
+7	fall	fall	VBP	pos2=VB	4	ccomp	_	O
+8	in	in	IN	_	7	prep	_	O
+9	love	love	NN	_	8	pobj	_	O
+10	with	with	IN	_	9	prep	_	O
+11	other	other	JJ	_	12	nmod	_	O
+12	robots	robot	NNS	_	10	pobj	_	O
+

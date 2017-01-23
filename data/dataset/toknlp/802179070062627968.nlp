@@ -1,0 +1,23 @@
+1	In	in	IN	_	15	prep	_	O
+2	a	a	DT	_	4	det	_	O
+3	thankful	thankful	JJ	_	4	nmod	_	O
+4	gesture	gesture	NN	_	1	pobj	_	O
+5	for	for	IN	_	4	prep	_	O
+6	lending	lend	VBG	pos2=NN	5	pcomp	_	O
+7	a	a	DT	_	8	det	_	O
+8	hand	hand	NN	_	6	dobj	_	O
+9	in	in	IN	_	6	prep	_	O
+10	putting	put	VBG	_	9	pcomp	_	O
+11	out	out	RP	_	10	prt	_	O
+12	fire	fire	NN	_	10	dobj	_	O
+13	,	,	,	_	15	punct	_	O
+14	#Israel	#israel	NNP	pos2=MD	15	nsubj	_	U-PERSON
+15	shot	shoot	VBD	_	0	root	_	O
+16	a	a	DT	_	17	det	_	O
+17	#Palestinian	#palestinian	NNP	pos2=NN	15	dobj	_	U-NORP
+18	@	@	SYM	pos2=IN	22	punct	_	O
+19	a	a	DT	_	21	det	_	O
+20	#Jerusalem	#jerusalem	NNP	pos2=GW	21	compound	_	U-GPE
+21	checkp	checkp	NN	pos2=-LRB-	22	dep	_	O
+22	ointhttps://t.co/3d0d1n2Cox	#hlink#	ADD	_	17	appos	_	U-ORG
+

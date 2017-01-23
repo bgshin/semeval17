@@ -1,0 +1,23 @@
+1	So	so	RB	_	2	advmod	_	O
+2	many	many	JJ	_	3	nmod	_	O
+3	people	people	NNS	_	5	nsubjpass	_	O
+4	got	get	VBD	_	5	auxpass	_	O
+5	taken	take	VBN	_	0	root	_	O
+6	from	from	IN	_	5	prep	_	O
+7	us	us	PRP	pos2=NNP	6	pobj	_	O
+8	in	in	IN	_	5	prep	_	O
+9	2016	0	CD	_	8	pobj	_	U-DATE
+10	,	,	,	_	5	punct	_	O
+11	phizzurp	phizzurp	NN	pos2=JJ	7	appos	_	O
+12	,	,	,	_	11	punct	_	O
+13	showkey	showkey	NN	pos2=UH	11	conj	_	O
+14	,	,	,	_	13	punct	_	O
+15	m	m	NN	pos2=DT	16	compound	_	O
+16	dot	dot	NN	pos2=RB	13	conj	_	O
+17	,	,	,	_	16	punct	_	O
+18	Muhammad	muhammad	NNP	_	19	compound	_	B-PERSON
+19	Ali	ali	NNP	_	22	dep	_	L-PERSON
+20	,	,	,	_	16	punct	_	O
+21	Britney	britney	NNP	_	22	compound	_	B-PERSON
+22	Spears😭😭😭	spears😭😭😭	NNP	_	17	dep	_	L-PERSON
+

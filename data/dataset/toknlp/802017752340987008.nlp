@@ -1,0 +1,21 @@
+1	@IAMovies	@iamovies	NNS	pos2=ADD	2	nsubj	_	O
+2	@TCoop6231	@tcoop0	VBP	pos2=VBG	0	root	_	O
+3	no	no	UH	pos2=DT	2	discourse	_	O
+4	,	,	,	_	2	punct	_	O
+5	#Israel	#israel	NNP	pos2=NNS	8	nsubj	_	U-GPE
+6	and	and	CC	_	5	cc	_	O
+7	#Egypt	#egypt	NNP	pos2=VBD	5	conj	_	U-GPE
+8	keeping	keep	VBG	pos2=NN	2	advcl	_	O
+9	#Hamas	#hamas	NNP	pos2=NNPS	8	dobj	_	U-PERSON
+10	out	out	RP	pos2=RB	8	prt	_	O
+11	does	do	VBZ	_	13	aux	_	O
+12	n't	not	RB	_	13	neg	_	O
+13	exclude	exclude	VB	_	2	conj	_	O
+14	anyone	anyone	NN	_	13	dobj	_	O
+15	from	from	IN	_	13	prep	_	O
+16	#Gaza	#gaza	NNP	pos2=VBG	15	pobj	_	O
+17	from	from	IN	_	13	prep	_	O
+18	travel	travel	NN	_	17	pobj	_	O
+19	elsewhere	elsewhere	RB	_	18	advmod	_	O
+20	.	.	.	_	2	punct	_	O
+

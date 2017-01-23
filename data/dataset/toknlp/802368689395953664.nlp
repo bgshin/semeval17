@@ -1,0 +1,28 @@
+1	@mmpadellan	@mmpadellan	UH	pos2=MD	4	discourse	_	O
+2	@BuzzFeedNews	@buzzfeednews	NNP	pos2=POS	3	compound	_	O
+3	Ivanka	ivanka	NNP	_	4	nsubj	_	U-PERSON
+4	is	be	VBZ	_	0	root	_	O
+5	Trump	trump	NNP	_	9	poss	_	U-PERSON
+6	's	's	POS	_	5	case	_	O
+7	Daughter	daughter	NN	pos2=NNP	9	compound	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	Wife	wife	NN	pos2=NNP	4	attr	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	Melania	melania	NNP	pos2=NN	3	nsubj	_	U-PERSON
+2	is	be	VBZ	_	3	aux	_	O
+3	morphing	morph	VBG	_	0	root	_	O
+4	into	into	IN	_	3	prep	_	O
+5	Ivanka	ivanka	NNP	_	4	pobj	_	U-PERSON
+6	.	.	.	_	3	punct	_	O
+
+1	What	what	WP	pos2=WDT	6	det	_	O
+2	a	a	DT	_	6	det	_	O
+3	sick	sick	JJ	_	6	nmod	_	O
+4	,	,	,	_	6	punct	_	O
+5	perverted	perverted	JJ	_	6	nmod	_	O
+6	family	family	NN	_	0	root	_	O
+7	.	.	.	_	6	punct	_	O
+
+1	#NotMyPresident	#notmypresident	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,21 @@
+1	Fake	fake	JJ	_	3	nmod	_	O
+2	media	media	NN	pos2=NNS	3	compound	_	O
+3	sites	site	NNS	_	4	nsubj	_	O
+4	work	work	VBP	pos2=NN	0	root	_	O
+5	on	on	IN	_	4	prep	_	O
+6	conservatives	conservative	NNS	_	5	pobj	_	O
+7	not	not	RB	pos2=CC	8	neg	_	O
+8	liberals	liberal	NNS	_	6	appos	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	Proof	proof	NN	pos2=NNP	0	root	_	O
+2	that	that	IN	_	6	dobj	_	O
+3	Conservatives	conservative	NNPS	pos2=NNS	1	acl	_	U-NORP
+4	(	(	-LRB-	_	3	punct	_	O
+5	&	&	CC	_	3	cc	_	O
+6	@RealDonaldTrump	@realdonaldtrump	ADD	pos2=NN	3	conj	_	O
+7	#TrumpTrain	#trumptrain	NN	pos2=IN	8	compound	_	O
+8	fools	fool	NNS	pos2=GW	3	conj	_	O
+9	…	…	NFP	pos2=:	10	punct	_	O
+10	https://t.co/rf682eDeo5	#hlink#	ADD	pos2=NN	3	appos	_	O
+

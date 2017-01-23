@@ -1,0 +1,23 @@
+1	@nytimes	@nytimes	UH	pos2=IN	5	discourse	_	O
+2	How	how	WRB	_	3	advmod	_	O
+3	about	about	IN	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	similar	similar	JJ	_	6	nmod	_	O
+6	piece	piece	NN	_	3	pobj	_	O
+7	on	on	IN	_	6	prep	_	O
+8	Nancy	nancy	NNP	_	9	compound	_	B-PERSON
+9	Pelosi	pelosi	NNP	_	7	pobj	_	L-PERSON
+10	?	?	.	_	3	punct	_	O
+
+1	Oh	oh	UH	_	2	discourse	_	O
+2	wait	wait	VB	_	6	advcl	_	O
+3	,	,	,	_	6	punct	_	O
+4	you	you	PRP	_	5	nmod	_	O
+5	guys	guy	NNS	_	6	nsubj	_	O
+6	are	be	VBP	_	0	root	_	O
+7	shills	shill	NNS	_	6	attr	_	O
+8	,	,	,	_	7	punct	_	O
+9	not	not	RB	pos2=CC	7	neg	_	O
+10	journalists	journalist	NNS	_	7	appos	_	O
+11	.	.	.	_	6	punct	_	O
+

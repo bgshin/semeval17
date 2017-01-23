@@ -1,0 +1,27 @@
+1	Grayson	grayson	NNP	_	2	compound	_	O
+2	Allen	allen	NNP	_	6	nsubj	_	O
+3	&	&	CC	_	2	cc	_	O
+4	Luke	luke	NNP	_	5	compound	_	B-PERSON
+5	Kennard	kennard	NNP	_	2	conj	_	L-PERSON
+6	carry	carry	VB	pos2=VBP	0	root	_	O
+7	this	this	DT	_	8	det	_	O
+8	team	team	NN	_	6	dobj	_	O
+9	,	,	,	_	6	punct	_	O
+10	But	but	CC	_	6	cc	_	O
+11	more	more	RBR	_	12	advmod	_	O
+12	importantly	importantly	RB	_	15	advmod	_	O
+13	,	,	,	_	15	punct	_	O
+14	they	they	PRP	_	15	nsubj	_	O
+15	carry	carry	VBP	_	6	conj	_	O
+16	eachother	eachother	PRP	pos2=NN	15	dobj	_	O
+17	.	.	.	_	15	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	keys	key	NNS	_	2	attr	_	O
+5	to	to	IN	_	4	prep	_	O
+6	this	this	DT	_	7	det	_	O
+7	team	team	NN	_	5	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+

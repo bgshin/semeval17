@@ -1,0 +1,24 @@
+1	@dogmotto	@dogmotto	UH	pos2=FW	4	discourse	_	O
+2	@aravosis	@aravosis	UH	pos2=NN	4	discourse	_	O
+3	@RobotSteve2016	@robotsteve0	NN	pos2=UH	4	nsubj	_	O
+4	@JoyAnnReid	@joyannreid	VBD	pos2=VB	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	defense	defense	NN	_	7	compound	_	O
+7	budget	budget	NN	_	4	dobj	_	O
+8	!	!	.	_	4	punct	_	O
+
+1	Add	add	VB	_	0	root	_	O
+2	another	another	DT	_	3	det	_	O
+3	357B	0b	NN	_	1	dobj	_	O
+4	in	in	IN	_	1	prep	_	O
+5	Medicaid	medicaid	NNP	_	6	compound	_	U-ORG
+6	benefits	benefit	NNS	pos2=VBZ	4	pobj	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	Why	why	WRB	_	4	advmod	_	O
+2	is	be	VBZ	_	4	aux	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	costing	cost	VBG	_	0	root	_	O
+5	us	us	PRP	_	4	dative	_	O
+6	almost	almost	RB	_	4	advmod	_	O
+

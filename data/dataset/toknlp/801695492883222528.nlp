@@ -1,0 +1,26 @@
+1	@Axel_McKibbin	@axel_mckibbin	NN	pos2=NNS	6	nsubj	_	O
+2	On	on	IN	_	1	prep	_	O
+3	the	the	DT	_	5	det	_	O
+4	other	other	JJ	_	5	nmod	_	O
+5	hand	hand	NN	_	2	pobj	_	O
+6	disavowing	disavow	VBG	_	0	root	_	O
+7	them	them	PRP	_	6	dobj	_	O
+8	is	be	VBZ	_	9	aux	_	O
+9	punching	punch	VBG	pos2=JJ	6	ccomp	_	O
+10	rightists	rightist	NNS	_	9	dobj	_	O
+11	(	(	-LRB-	_	9	punct	_	O
+12	but	but	CC	_	9	cc	_	O
+13	not	not	RB	_	14	neg	_	O
+14	to	to	IN	_	9	conj	_	O
+15	the	the	DT	_	16	det	_	O
+16	right	right	NN	pos2=JJ	14	pobj	_	O
+17	)	)	-RRB-	_	9	punct	_	O
+18	and	and	CC	_	6	cc	_	O
+19	it	it	PRP	_	20	nsubj	_	O
+20	threatens	threaten	VBZ	_	6	conj	_	O
+21	to	to	TO	_	22	aux	_	O
+22	make	make	VB	_	20	xcomp	_	O
+23	us	us	PRP	_	22	dobj	_	O
+24	into	into	IN	_	22	prep	_	O
+25	cucks	cucks	NNS	pos2=JJR	24	pobj	_	O
+

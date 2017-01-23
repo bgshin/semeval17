@@ -1,0 +1,48 @@
+1	Y'all	y'all	PRP	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	watched	watch	VBD	_	0	root	_	O
+4	two	#crd#	CD	_	7	nmod	_	U-CARDINAL
+5	David	david	NNP	_	6	compound	_	B-PERSON
+6	Blaine	blaine	NNP	_	7	compound	_	L-PERSON
+7	specials	special	NNS	pos2=VBZ	3	dobj	_	O
+8	on	on	IN	_	7	prep	_	O
+9	Netflix	netflix	NNP	_	8	pobj	_	U-ORG
+10	.	.	.	_	3	punct	_	O
+
+1	I.	i.	NNP	pos2=NN	2	nsubj	_	O
+2	Do	do	VBP	pos2=VB	0	root	_	O
+3	n't	not	RB	_	2	neg	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	real	real	JJ	pos2=RB	2	acomp	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	all	all	RB	pos2=DT	4	advmod	_	O
+4	real	real	JJ	_	2	acomp	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	understand	understand	VB	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Wut	wut	NNP	pos2=LS	0	root	_	U-PERSON
+2	.	.	.	_	1	punct	_	O
+
+1	Sum1	sum0	NN	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Halp.☠️	halp.☠️	NNP	pos2=FW	0	root	_	U-ORG
+

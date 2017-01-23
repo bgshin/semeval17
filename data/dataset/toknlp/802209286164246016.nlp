@@ -1,0 +1,17 @@
+1	#Iraq	#iraq	NNS	pos2=NN	9	dep	_	O
+2	:	:	:	_	9	punct	_	O
+3	#Ameri	#ameri	NNP	pos2=NNS	6	nsubj	_	U-PERSON
+4	"	"	``	pos2=''	9	punct	_	O
+5	the	the	DT	_	7	det	_	B-DATE
+6	coming	come	VBG	_	7	nmod	_	I-DATE
+7	days	day	NNS	_	9	nsubj	_	L-DATE
+8	will	will	MD	_	9	aux	_	O
+9	witness	witness	VB	_	0	root	_	O
+10	securing	secure	VBG	_	9	xcomp	_	O
+11	the	the	DT	_	12	det	_	O
+12	#Iraqi_Syrian_border	#iraqi_syrian_border	NN	pos2=NNP	10	dobj	_	O
+13	fully	fully	RB	_	16	advmod	_	O
+14	"	"	GW	pos2=``	16	punct	_	O
+15	https://t.co/U1Geo55RZQ…	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/TaOArYw7Pw	#hlink#	ADD	_	9	dep	_	U-ORG
+

@@ -1,0 +1,25 @@
+1	Dear	dear	JJ	pos2=NNP	4	nmod	_	O
+2	Dr.	dr.	NNP	_	4	compound	_	O
+3	Jill	jill	NNP	_	4	compound	_	B-PERSON
+4	Stein	stein	NNP	_	0	root	_	L-PERSON
+5	,	,	,	_	4	punct	_	O
+6	Return	return	NNP	pos2=VB	8	compound	_	O
+7	George	george	NNP	_	8	compound	_	B-PERSON
+8	Soros	soros	NNP	_	10	poss	_	L-PERSON
+9	'	'	POS	_	8	case	_	O
+10	money	money	NN	_	4	appos	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	Beckel	beckel	NNP	_	5	nmod	_	U-PERSON
+2	,	,	,	_	1	punct	_	O
+3	whose	whose	WP$	_	5	poss	_	O
+4	run	run	JJ	pos2=NN	5	nmod	_	O
+5	elections	election	NNS	_	9	nsubj	_	O
+6	,	,	,	_	9	punct	_	O
+7	says	say	VBZ	_	0	root	_	O
+8	Not	not	RB	_	9	neg	_	O
+9	Rigged	rig	VBN	pos2=JJ	7	nsubj	_	O
+10	!	!	.	_	7	punct	_	O
+
+1	https://t.co/9uIzkIZ3Yd	#hlink#	ADD	_	0	root	_	U-ORG
+

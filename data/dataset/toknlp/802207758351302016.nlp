@@ -1,0 +1,23 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@Uber	@uber	PRP$	pos2=NNP	6	poss	_	O
+2	rival	rival	JJ	pos2=NN	6	nmod	_	O
+3	#Grab	#grab	NNP	pos2=NN	6	poss	_	U-ORG
+4	’s	's	POS	_	3	case	_	O
+5	first	#ord#	JJ	_	6	nmod	_	U-ORDINAL
+6	CFO	cfo	NNP	pos2=NN	8	nsubj	_	O
+7	is	be	VBZ	_	8	aux	_	O
+8	leaving	leave	VBG	_	0	root	_	O
+9	the	the	DT	_	10	det	_	O
+10	company	company	NN	_	8	dobj	_	O
+11	after	after	IN	_	8	prep	_	O
+12	just	just	RB	_	13	advmod	_	O
+13	seven	#crd#	CD	_	14	nmod	_	O
+14	months	month	NNS	_	11	pobj	_	O
+15	-	-	:	pos2=NFP	8	punct	_	O
+16	https://t.co/xBULNpaPuR	#hlink#	ADD	pos2=NN	20	dep	_	O
+17	via	via	IN	_	8	prep	_	O
+18	@techcrunch	@techcrunch	XX	pos2=NN	17	pobj	_	O
+19	#india	#india	XX	pos2=UH	20	nmod	_	O
+20	#uber	#uber	XX	pos2=UH	17	pobj	_	O
+

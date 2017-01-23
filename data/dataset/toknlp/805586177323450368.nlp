@@ -1,0 +1,26 @@
+1	Cristiano	cristiano	NNP	_	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	5	nsubj	_	L-PERSON
+3	has	have	VBZ	_	5	aux	_	O
+4	now	now	RB	_	5	advmod	_	O
+5	scored	score	VBN	_	0	root	_	O
+6	against	against	IN	_	5	prep	_	O
+7	every	every	DT	_	8	det	_	O
+8	team	team	NN	_	6	pobj	_	O
+9	he	he	PRP	_	11	nsubj	_	O
+10	has	have	VBZ	_	11	aux	_	O
+11	faced	face	VBN	_	8	relcl	_	O
+12	for	for	IN	_	11	prep	_	O
+13	Real	real	NNP	pos2=JJ	14	compound	_	B-ORG
+14	Madrid	madrid	NNP	_	12	pobj	_	L-ORG
+15	,	,	,	_	5	punct	_	O
+16	except	except	IN	_	5	prep	_	O
+17	Dinamo	dinamo	NNP	_	18	compound	_	B-ORG
+18	Zagreb	zagreb	NNP	_	16	pobj	_	L-ORG
+19	(	(	-LRB-	_	18	punct	_	O
+20	49	0	CD	_	18	npadvmod	_	U-CARDINAL
+21	out	out	IN	_	20	prep	_	O
+22	of	of	IN	_	21	prep	_	O
+23	50	0	CD	_	22	pobj	_	U-CARDINAL
+24	)	)	-RRB-	_	18	punct	_	O
+25	.	.	.	_	5	punct	_	O
+

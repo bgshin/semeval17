@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det	_	O
+2	press	press	NN	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	too	too	RB	_	5	advmod	_	O
+5	critical	critical	JJ	_	3	acomp	_	O
+6	of	of	IN	_	5	prep	_	O
+7	Pres	pres	NNP	_	9	compound	_	B-ORG
+8	Elect	elect	NNP	_	9	compound	_	I-ORG
+9	Trump	trump	NNP	pos2=NN	6	pobj	_	L-ORG
+10	.	.	.	_	3	punct	_	O
+
+1	He	he	PRP	_	3	nsubj	_	O
+2	has	have	VBZ	_	3	aux	_	O
+3	done	do	VBN	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	lot	lot	NN	_	3	dobj	_	O
+6	for	for	IN	_	3	prep	_	O
+7	the	the	DT	_	10	det	_	B-DATE
+8	first	#ord#	JJ	_	10	nmod	_	I-DATE
+9	2	0	CD	_	10	nmod	_	I-DATE
+10	weeks	week	NNS	_	6	pobj	_	L-DATE
+11	of	of	IN	_	10	prep	_	O
+12	transition	transition	NN	_	11	pobj	_	O
+13	#MediaFails	#mediafails	GW	pos2=NNS	14	nmod	_	O
+14	https://t.co/vdhs66S5se	#hlink#	ADD	pos2=NN	3	dep	_	O
+

@@ -1,0 +1,21 @@
+1	#occupiedpalestineisburning	#occupiedpalestineisburning	UH	pos2=VBG	8	discourse	_	O
+2	but	but	CC	_	8	cc	_	O
+3	the	the	DT	_	4	det	_	O
+4	IOF	iof	NNP	pos2=NN	8	nsubj	_	O
+5	&	&	CC	_	4	cc	_	O
+6	co	co	NN	pos2=NNP	4	conj	_	O
+7	will	will	MD	_	8	aux	_	O
+8	blame	blame	VB	_	0	root	_	O
+9	palestinians	palestinian	NNS	pos2=NNPS	8	dobj	_	O
+10	for	for	IN	_	8	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	fires	fire	NNS	_	10	pobj	_	O
+13	..	..	.	pos2=,	8	punct	_	O
+
+1	meanwhile	meanwhile	RB	_	5	advmod	_	O
+2	,	,	,	_	5	punct	_	O
+3	rightists	rightist	NNS	_	5	nsubj	_	O
+4	will	will	MD	_	5	aux	_	O
+5	claim	claim	VB	_	0	root	_	O
+6	that#IsraelIsBurning	that#israelisburning	VBG	pos2=NN	5	xcomp	_	O
+

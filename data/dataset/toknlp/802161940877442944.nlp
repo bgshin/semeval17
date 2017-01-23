@@ -1,0 +1,19 @@
+1	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNS	2	nsubj	_	O
+2	brought	bring	VBN	pos2=VBD	0	root	_	O
+3	to	to	IN	_	2	dative	_	O
+4	you	you	PRP	_	3	pobj	_	O
+5	by	by	IN	_	2	agent	_	O
+6	1.	0.	NNP	pos2=CD	17	nmod	_	U-CARDINAL
+7	Babette	babette	NNP	_	14	compound	_	O
+8	2.	0.	NNP	pos2=CD	14	compound	_	U-CARDINAL
+9	Jackson	jackson	NNP	_	10	compound	_	O
+10	3.	0.	NNP	pos2=POS	14	compound	_	U-CARDINAL
+11	Jess	jess	NNP	_	14	compound	_	O
+12	4.	0.	NNP	pos2=CD	14	compound	_	U-CARDINAL
+13	Brian	brian	NNP	_	14	compound	_	B-PERSON
+14	🤗	🤗	NNP	pos2=VBZ	17	nmod	_	L-PERSON
+15	Happy	happy	JJ	pos2=NNP	17	nmod	_	B-DATE
+16	#GilmoreGirlsRevival	#gilmoregirlsrevival	NNP	pos2=NNPS	17	compound	_	I-DATE
+17	Day	day	NNP	pos2=NN	5	pobj	_	L-DATE
+18	!!	!!	.	_	2	punct	_	O
+

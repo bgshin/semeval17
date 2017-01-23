@@ -1,0 +1,27 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@AndreaChalupa	@andreachalupa	GW	pos2=PRP$	6	discourse	_	O
+2	tweet	tweet	NN	pos2=JJ	3	compound	_	O
+3	storms	storm	NNS	_	6	nsubj	_	O
+4	do	do	VBP	_	6	aux	_	O
+5	not	not	RB	_	6	neg	_	O
+6	explain	explain	VB	_	0	root	_	O
+7	her	her	PRP$	_	10	poss	_	O
+8	rapid	rapid	JJ	_	10	nmod	_	O
+9	follower	follower	NN	_	10	compound	_	O
+10	increase	increase	NN	pos2=VB	6	dobj	_	O
+11	starting	start	VBG	_	6	advcl	_	O
+12	Nov	nov	NNP	_	11	npadvmod	_	O
+13	1	0	CD	_	12	nmod	_	O
+14	st	st	NN	pos2=RB	16	npadvmod	_	O
+15	-	-	HYPH	pos2=:	16	punct	_	O
+16	gained	gain	VBN	pos2=VBD	17	nmod	_	O
+17	7k	0k	NN	pos2=CD	11	dobj	_	U-CARDINAL
+18	in	in	IN	_	11	prep	_	O
+19	just	just	RB	_	20	advmod	_	O
+20	3	0	CD	_	21	nmod	_	U-CARDINAL
+21	wks	wk	NNS	_	18	pobj	_	O
+22	,	,	,	_	6	punct	_	O
+23	…	…	NFP	pos2=-LRB-	6	discourse	_	O
+24	https://t.co/v2q7G9A9hK	#hlink#	ADD	pos2=NN	6	dep	_	O
+

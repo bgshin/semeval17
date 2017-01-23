@@ -1,0 +1,40 @@
+1	Obama	obama	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	lifts	lift	VBZ	pos2=NNS	0	root	_	O
+3	embargo	embargo	NN	pos2=RB	2	dobj	_	O
+4	on	on	IN	_	3	prep	_	O
+5	Cuba	cuba	NNP	_	4	pobj	_	U-GPE
+6	...	..	.	_	2	punct	_	O
+
+1	a	a	DT	_	2	det	_	O
+2	hero	hero	NN	_	0	root	_	O
+3	to	to	IN	pos2=TO	2	prep	_	O
+4	libs	libs	NNS	pos2=VB	3	pobj	_	O
+5	everywhere	everywhere	RB	_	2	advmod	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	Trumps	trump	VBZ	pos2=NNS	2	nsubj	_	U-PERSON
+2	takes	take	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	call	call	NN	_	2	dobj	_	O
+5	from	from	IN	_	4	prep	_	O
+6	Taiwan	taiwan	NNP	_	5	pobj	_	U-GPE
+7	...	..	.	_	2	punct	_	O
+
+1	uproar	uproar	NN	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	get	get	VB	_	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	joke	joke	NN	_	1	dobj	_	O
+4	?	?	.	_	1	punct	_	O
+
+1	PC	pc	NN	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	dead	dead	JJ	_	4	nmod	_	O
+4	people	people	NNS	_	2	attr	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	won	win	VBD	pos2=VBP	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+

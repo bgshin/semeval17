@@ -1,0 +1,22 @@
+1	Quality	quality	NN	pos2=NNP	4	compound	_	O
+2	Sunday	sunday	NNP	_	3	compound	_	U-DATE
+3	evening	evening	NN	_	4	compound	_	U-TIME
+4	topic	topic	NN	_	10	dep	_	O
+5	:	:	:	_	4	punct	_	O
+6	How	how	WRB	_	10	advmod	_	O
+7	this	this	DT	_	9	det	_	O
+8	successful	successful	JJ	_	9	nmod	_	O
+9	ganjapreneur	ganjapreneur	NN	pos2=PRP	10	nsubj	_	O
+10	convinced	convince	VBD	_	0	root	_	O
+11	his	his	PRP$	_	15	poss	_	O
+12	physician	physician	NN	pos2=JJ	15	nmod	_	O
+13	dad	dad	NN	_	15	nmod	_	O
+14	medical	medical	JJ	_	15	nmod	_	O
+15	pot	pot	NN	_	16	nsubj	_	O
+16	is	be	VBZ	_	10	ccomp	_	O
+17	legit	legit	JJ	_	16	acomp	_	O
+18	.	.	.	_	10	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/ChRYdMpgoT	#hlink#	ADD	pos2=NN	0	root	_	O
+

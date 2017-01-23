@@ -1,0 +1,16 @@
+1	Here	here	RB	_	3	advmod	_	O
+2	's	's	VBZ	_	3	aux	_	O
+3	hoping	hope	VBG	_	0	root	_	O
+4	Victoria	victoria	NNP	_	5	nsubj	_	U-GPE
+5	heeds	heed	VBZ	_	3	ccomp	_	O
+6	the	the	DT	_	7	det	_	O
+7	call	call	NN	_	5	dobj	_	O
+8	this	this	DT	_	9	det	_	B-DATE
+9	week	week	NN	_	5	npadvmod	_	L-DATE
+10	.	.	.	_	3	punct	_	O
+
+1	#assisteddying	#assisteddying	UH	pos2=VBG	4	discourse	_	O
+2	#voluntary	#voluntary	UH	pos2=GW	4	discourse	_	O
+3	#euthanasia	#euthanasia	UH	pos2=GW	4	discourse	_	O
+4	https://t.co/Ep944M2eA0	#hlink#	ADD	pos2=UH	0	root	_	O
+

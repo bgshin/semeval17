@@ -1,0 +1,17 @@
+1	Microsoft	microsoft	NNP	_	2	nsubj	_	U-ORG
+2	joins	join	VBZ	_	0	root	_	O
+3	The	the	DT	pos2=NNP	5	det	_	B-ORG
+4	Linux	linux	NNP	_	5	compound	_	I-ORG
+5	Foundation	foundation	NNP	_	2	dobj	_	L-ORG
+6	in	in	IN	_	5	prep	_	O
+7	coup	coup	NN	_	6	pobj	_	O
+8	for	for	IN	_	7	prep	_	O
+9	open	open	JJ	_	10	nmod	_	O
+10	source	source	NN	_	13	compound	_	O
+11	community	community	NN	_	16	dep	_	O
+12	-	-	HYPH	pos2=:	16	punct	_	O
+13	RCR	rcr	NNP	pos2=NN	15	compound	_	B-ORG
+14	Wireless	wireless	NNP	_	15	compound	_	I-ORG
+15	News	news	NNP	pos2=NN	16	dep	_	L-ORG
+16	https://t.co/4PYiYdjfGW	#hlink#	ADD	_	2	dobj	_	O
+

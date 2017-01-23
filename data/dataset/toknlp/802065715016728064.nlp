@@ -1,0 +1,19 @@
+1	More	more	JJR	_	2	nmod	_	O
+2	info	info	NN	_	18	dep	_	O
+3	from	from	IN	_	2	prep	_	O
+4	Ed	ed	NNP	_	5	compound	_	B-PERSON
+5	Balls	ball	NNPS	pos2=NNS	3	pobj	_	L-PERSON
+6	on	on	IN	_	2	prep	_	O
+7	Ricky	ricky	NNP	_	8	compound	_	B-PERSON
+8	Martin	martin	NNP	_	6	pobj	_	L-PERSON
+9	taking	take	VBG	_	2	acl	_	O
+10	control	control	NN	_	9	dobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	the	the	DT	_	15	det	_	O
+13	football	football	NN	_	14	compound	_	O
+14	recruitment	recruitment	NN	_	15	compound	_	O
+15	department	department	NN	_	11	pobj	_	O
+16	at	at	IN	_	15	prep	_	O
+17	#NCFC	#ncfc	NNP	pos2=ADD	16	pobj	_	U-ORG
+18	https://t.co/6mAoyGwMcy	#hlink#	ADD	_	0	root	_	O
+

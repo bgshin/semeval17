@@ -1,0 +1,14 @@
+1	@DeepSilverUK	@deepsilveruk	NNP	pos2=ADD	2	nsubj	_	U-ORG
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	7	det	_	O
+4	Persona	persona	NNP	pos2=NN	7	nmod	_	O
+5	5	0	CD	pos2=POS	7	nmod	_	U-CARDINAL
+6	Ryuji	ryuji	NNP	_	7	compound	_	U-PERSON
+7	theme	theme	NN	_	2	attr	_	O
+8	and	and	CC	_	7	cc	_	O
+9	avatar	avatar	NN	pos2=GW	7	conj	_	O
+10	going	go	VBG	_	7	acl	_	O
+11	up	up	RB	pos2=RP	10	advmod	_	O
+12	soon	soon	RB	_	10	advmod	_	O
+13	?	?	.	_	2	punct	_	O
+

@@ -1,0 +1,19 @@
+1	State	state	NN	pos2=NNP	4	compound	_	O
+2	OKs	oks	NNP	_	4	compound	_	O
+3	Medical	medical	NNP	pos2=JJ	4	compound	_	O
+4	Marijuana	marijuana	NNP	_	0	root	_	O
+5	For	for	IN	pos2=NNP	4	prep	_	O
+6	Post	post	NNP	pos2=AFX	8	nmod	_	O
+7	Traumatic	traumatic	JJ	pos2=NNP	8	nmod	_	O
+8	Stress	stress	NN	pos2=NNP	5	pobj	_	O
+9	|	|	SYM	pos2=,	11	punct	_	B-ORG
+10	State	state	NNP	pos2=NN	11	compound	_	I-ORG
+11	News	news	NNP	_	8	appos	_	L-ORG
+12	...	..	.	pos2=,	4	punct	_	O
+
+1	-	-	SYM	pos2=:	2	punct	_	O
+2	Voice	voice	NN	pos2=NNP	0	root	_	O
+3	Of	of	IN	pos2=GW	2	prep	_	O
+4	…	…	NFP	pos2=RB	3	pobj	_	O
+5	https://t.co/to5YaNtyeJ	#hlink#	ADD	_	3	pobj	_	O
+

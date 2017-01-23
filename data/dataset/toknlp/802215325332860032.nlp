@@ -1,0 +1,12 @@
+1	Day	day	NN	pos2=NNP	6	npadvmod	_	O
+2	after	after	IN	_	6	mark	_	O
+3	Thanksgiving	thanksgiving	NNP	pos2=VBG	5	compound	_	B-ORG
+4	Fish	fish	NNP	_	5	compound	_	I-ORG
+5	Fry	fry	NNP	_	6	nsubj	_	L-ORG
+6	remains	remain	VBZ	_	0	root	_	O
+7	a	a	DT	_	9	det	_	O
+8	fantastic	fantastic	JJ	_	9	nmod	_	O
+9	idea	idea	NN	_	6	attr	_	O
+10	#upnorth	#upnorth	IN	pos2=:	9	prep	_	O
+11	https://t.co/PnWxXUBggE	#hlink#	ADD	_	10	pobj	_	U-ORG
+

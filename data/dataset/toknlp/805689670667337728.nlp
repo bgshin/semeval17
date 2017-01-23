@@ -1,0 +1,28 @@
+1	Thank	thank	VBP	_	0	root	_	O
+2	you	you	PRP	_	1	dobj	_	O
+3	for	for	IN	_	1	prep	_	O
+4	thinking	think	VBG	_	3	pcomp	_	O
+5	about	about	IN	_	4	prep	_	O
+6	abortion	abortion	NN	_	5	pobj	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	In	in	IN	_	6	prep	_	O
+2	this	this	DT	_	3	det	_	O
+3	scene	scene	NN	_	1	pobj	_	O
+4	,	,	,	_	6	punct	_	O
+5	"	"	``	pos2=''	6	punct	_	O
+6	Thank	thank	VBP	_	0	root	_	O
+7	you	you	PRP	_	6	dobj	_	O
+8	"	"	''	pos2=``	6	punct	_	O
+9	is	be	VBZ	_	6	ccomp	_	O
+10	not	not	RB	_	9	neg	_	O
+11	good	good	JJ	_	9	acomp	_	O
+12	.	.	.	_	6	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	sorry	sorry	JJ	_	2	acomp	_	O
+4	,	,	,	_	2	punct	_	O
+5	oh	oh	UH	_	2	discourse	_	O
+6	...	..	.	_	2	punct	_	O
+

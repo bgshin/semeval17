@@ -1,0 +1,22 @@
+1	@cnni	@cnni	JJ	pos2=XX	3	nmod	_	O
+2	UN	un	NNP	_	3	compound	_	U-ORG
+3	SecurityCouncil	securitycouncil	NNP	_	5	nsubj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	vote	vote	VB	_	0	root	_	O
+6	on	on	IN	_	5	prep	_	O
+7	a	a	DT	_	8	det	_	O
+8	resolution	resolution	NN	_	6	pobj	_	O
+9	for	for	IN	_	8	prep	_	O
+10	a	a	DT	_	12	det	_	O
+11	7day	0day	NN	pos2=NNP	12	compound	_	O
+12	ceasefire	ceasefire	NN	_	9	pobj	_	O
+13	in	in	IN	_	12	prep	_	O
+14	northern	northern	JJ	_	16	nmod	_	O
+15	Syrian	syrian	JJ	_	16	nmod	_	U-NORP
+16	city	city	NN	_	13	pobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	Aleppo&unhindered	aleppo&unhindered	JJ	pos2=VBN	21	nmod	_	O
+19	humanitarian	humanitarian	JJ	_	20	nmod	_	O
+20	aid	aid	NN	_	21	compound	_	O
+21	access	access	NN	_	17	pobj	_	O
+

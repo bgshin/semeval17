@@ -1,0 +1,27 @@
+1	It	it	PRP	_	3	nsubj	_	O
+2	will	will	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	as	as	RB	_	5	advmod	_	O
+5	exciting	exciting	JJ	_	3	acomp	_	O
+6	as	as	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	B-DATE
+8	1930s	0s	NNS	_	6	pobj	_	L-DATE
+9	,	,	,	_	3	punct	_	O
+10	greater	great	JJR	_	3	acomp	_	O
+11	than	than	IN	_	10	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	Reagan	reagan	NNP	_	14	compound	_	U-PERSON
+14	revolution	revolution	NN	_	11	pobj	_	O
+15	...	..	.	pos2=,	3	punct	_	O
+
+1	Steve	steve	NNP	_	2	compound	_	B-PERSON
+2	Bannon	bannon	NNP	_	10	dep	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	with	with	IN	_	2	prep	_	O
+5	a	a	DT	_	7	det	_	O
+6	Fabergé	fabergé	NNP	pos2=NN	7	compound	_	U-ORG
+7	glint	glint	NN	_	4	pobj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	…	…	NFP	pos2=NNP	8	pobj	_	O
+10	https://t.co/gaSf26dOSP	#hlink#	ADD	pos2=NN	0	root	_	U-GPE
+

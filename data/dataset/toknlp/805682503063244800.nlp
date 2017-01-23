@@ -1,0 +1,27 @@
+1	@SpeakerRyan	@speakerryan	LS	pos2=NN	0	root	_	U-CARDINAL
+2	.	.	.	_	1	punct	_	O
+
+1	Not	not	RB	_	2	neg	_	O
+2	anti-energy	anti-energy	JJ	pos2=NN	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Pro	pro	JJ	pos2=NNP	4	nmod	_	O
+2	clean	clean	JJ	_	4	nmod	_	O
+3	sustainable	sustainable	JJ	_	4	nmod	_	O
+4	energy	energy	NN	_	0	root	_	O
+5	..	..	.	_	4	punct	_	O
+
+1	Next	next	JJ	_	2	nmod	_	B-DATE
+2	year	year	NN	_	3	compound	_	L-DATE
+3	regime	regime	NN	_	5	nsubj	_	O
+4	will	will	MD	_	5	aux	_	O
+5	be	be	VB	_	0	root	_	O
+6	fossil	fossil	JJ	pos2=NN	7	nmod	_	O
+7	fuels	fuel	NNS	_	5	attr	_	O
+8	and	and	CC	_	7	cc	_	O
+9	back	back	RB	pos2=VB	7	conj	_	O
+10	to	to	IN	_	9	prep	_	O
+11	dinosaur	dinosaur	NN	_	12	compound	_	O
+12	times	time	NNS	_	10	pobj	_	O
+13	.	.	.	_	5	punct	_	O
+

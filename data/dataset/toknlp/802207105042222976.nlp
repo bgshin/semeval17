@@ -1,0 +1,7 @@
+1	Shadows	shadow	NNS	pos2=NNPS	2	nsubj	_	B-WORK_OF_ART
+2	#mannequinchallenge	#mannequinchallenge	VBP	pos2=POS	0	root	_	I-WORK_OF_ART
+3	#columbusohio	#columbusohio	UH	pos2=FW	2	discourse	_	I-WORK_OF_ART
+4	#columbusdogs	#columbusdogs	UH	pos2=NNS	2	discourse	_	I-WORK_OF_ART
+5	#labradorretriever	#labradorretriever	UH	pos2=GW	2	discourse	_	L-WORK_OF_ART
+6	https://t.co/uPG2k6ljIX	#hlink#	ADD	pos2=UH	2	dobj	_	O
+

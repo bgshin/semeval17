@@ -1,0 +1,12 @@
+1	Assault	assault	NN	pos2=VB	11	dep	_	O
+2	on	on	IN	_	1	prep	_	O
+3	St.	st.	NNP	_	4	compound	_	B-FAC
+4	Valentines	valentines	NNP	_	2	pobj	_	L-FAC
+5	–	-	,	pos2=HYPH	4	punct	_	O
+6	a	a	DT	pos2=GW	11	nmod	_	O
+7	Re	re	GW	pos2=NNP	8	nmod	_	O
+8	viewhttps://t.co/WPL4pr7qps	#hlink#	ADD	pos2=GW	11	nmod	_	O
+9	#bookreview	#bookreview	GW	pos2=-RRB-	11	nmod	_	O
+10	#politicallyincorrect	#politicallyincorrect	GW	pos2=-LRB-	11	nmod	_	O
+11	https://t.co/1LsEQbfzxv	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

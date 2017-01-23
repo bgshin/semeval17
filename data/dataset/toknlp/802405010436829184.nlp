@@ -1,0 +1,20 @@
+1	@TimfromDa70s	@timfromda0s	NNS	pos2=XX	6	compound	_	O
+2	Obamacare	obamacare	NNP	_	0	root	_	O
+3	-	-	:	pos2=,	2	punct	_	O
+4	the	the	DT	_	7	det	_	O
+5	biggest	big	JJS	_	7	nmod	_	O
+6	insurance	insurance	NN	_	7	compound	_	O
+7	scam	scam	NN	_	2	appos	_	O
+8	in	in	IN	_	7	prep	_	O
+9	history	history	NN	_	8	pobj	_	O
+10	.	.	.	_	1	punct	_	O
+
+1	And	and	CC	_	3	cc	_	O
+2	costs	cost	NNS	pos2=VBZ	0	conj	_	O
+3	about	about	JJ	pos2=IN	2	nmod	_	O
+4	to	to	TO	_	5	aux	_	O
+5	rise	rise	VB	_	3	xcomp	_	O
+6	by	by	IN	_	5	prep	_	O
+7	25	0	CD	_	8	nmod	_	B-PERCENT
+8	%	%	NN	_	6	pobj	_	L-PERCENT
+

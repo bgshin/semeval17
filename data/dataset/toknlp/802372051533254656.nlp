@@ -1,0 +1,13 @@
+1	#BlackFriday	#blackfriday	NNP	pos2=XX	3	compound	_	O
+2	Gary	gary	NNP	_	3	compound	_	B-PERSON
+3	Johnson	johnson	NNP	_	12	dep	_	L-PERSON
+4	3	0	CD	_	6	nmod	_	U-CARDINAL
+5	-	-	HYPH	pos2=:	6	punct	_	O
+6	Pack	pack	NN	pos2=NNP	7	compound	_	O
+7	Decal	decal	NN	pos2=JJ	3	appos	_	O
+8	#NeverTrump	#nevertrump	WDT	pos2=XX	12	dep	_	O
+9	#tgdn	#tgdn	UH	pos2=GW	12	dep	_	O
+10	#pjnet	#pjnet	UH	pos2=GW	12	discourse	_	O
+11	#tpp	#tpp	UH	pos2=IN	12	discourse	_	O
+12	https://t.co/ogoUzfBxSD	#hlink#	ADD	pos2=UH	0	root	_	O
+

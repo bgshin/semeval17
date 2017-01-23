@@ -1,0 +1,16 @@
+1	This	this	DT	_	3	det	_	O
+2	New	new	JJ	pos2=NNP	3	nmod	_	O
+3	View	view	NNP	pos2=NN	7	nsubj	_	B-ORG
+4	Of	of	IN	pos2=NNP	3	prep	_	I-ORG
+5	Google	google	NNP	_	6	compound	_	I-ORG
+6	Earth	earth	NNP	_	4	pobj	_	L-ORG
+7	Is	be	VBZ	_	0	root	_	O
+8	A	a	DT	_	10	det	_	O
+9	Love	love	NNP	pos2=NN	10	compound	_	O
+10	Letter	letter	NN	pos2=NNP	7	attr	_	O
+11	To	to	IN	pos2=NNP	10	prep	_	O
+12	Cities	city	NNPS	pos2=NNS	11	pobj	_	O
+13	#VR	#vr	VBP	pos2=GW	15	nmod	_	O
+14	#immersive	#immersive	ADD	pos2=IN	15	punct	_	O
+15	https://t.co/iYCEWB1Duv	#hlink#	ADD	_	7	dep	_	O
+

@@ -1,0 +1,11 @@
+1	Agatha	agatha	NNP	_	2	compound	_	B-PERSON
+2	Beans	beans	NNP	pos2=NNPS	4	poss	_	I-PERSON
+3	's	's	POS	_	2	case	_	L-PERSON
+4	sister	sister	NN	_	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	love	love	VBP	_	0	root	_	O
+3	it	it	PRP	_	2	dobj	_	O
+4	#ScreamQueens	#screamqueens	VBZ	pos2=ADD	2	advcl	_	O
+

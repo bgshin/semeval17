@@ -1,0 +1,11 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	think	think	VBP	_	0	root	_	O
+3	I	I	PRP	_	5	nsubj	_	O
+4	have	have	VBP	_	5	aux	_	O
+5	spent	spend	VBN	_	2	ccomp	_	O
+6	quite	quite	RB	_	7	advmod	_	O
+7	enough	enough	RB	pos2=JJ	5	advmod	_	O
+8	on	on	IN	_	5	prep	_	O
+9	Persona	persona	NNP	pos2=NN	8	pobj	_	O
+10	5.	0.	.	pos2=CD	2	punct	_	U-CARDINAL
+

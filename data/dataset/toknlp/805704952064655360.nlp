@@ -1,0 +1,24 @@
+1	@TruthFeedNews	@truthfeednews	NNS	pos2=XX	2	nsubj	_	O
+2	Getting	get	VBG	_	0	root	_	O
+3	sick	sick	JJ	_	2	acomp	_	O
+4	and	and	CC	_	3	cc	_	O
+5	tired	tired	JJ	_	3	conj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	our	our	PRP$	_	8	poss	_	O
+8	country	country	NN	_	6	pobj	_	O
+9	being	be	VBG	_	10	auxpass	_	O
+10	expected	expect	VBN	_	2	conj	_	O
+11	to	to	TO	_	12	aux	_	O
+12	turn	turn	VB	_	10	xcomp	_	O
+13	a	a	DT	_	15	det	_	O
+14	blind	blind	JJ	_	15	nmod	_	O
+15	eye	eye	NN	_	12	dobj	_	O
+16	to	to	IN	_	12	prep	_	O
+17	illegal	illegal	JJ	_	18	nmod	_	O
+18	immigration	immigration	NN	_	16	pobj	_	O
+19	while	while	IN	_	22	mark	_	O
+20	everyone	everyone	NN	_	22	nsubj	_	O
+21	else	else	RB	pos2=JJ	20	advmod	_	O
+22	enforces	enforce	VBZ	_	12	advcl	_	O
+23	.	.	.	_	2	punct	_	O
+

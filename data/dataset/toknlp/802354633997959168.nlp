@@ -1,0 +1,26 @@
+1	soc	soc	NN	pos2=JJ	2	compound	_	O
+2	sec	sec	NN	pos2=RB	14	nsubjpass	_	O
+3	&	&	CC	_	2	cc	_	O
+4	medicare	medicare	NN	pos2=NNP	2	conj	_	O
+5	&	&	CC	_	4	cc	_	O
+6	medicaid	medicaid	NN	pos2=NNP	4	conj	_	O
+7	&	&	CC	_	6	cc	_	O
+8	HUD	hud	NNP	pos2=NN	6	conj	_	O
+9	&	&	CC	_	2	cc	_	O
+10	food	food	NN	_	11	compound	_	O
+11	stamps	stamp	NNS	_	2	conj	_	O
+12	will	will	MD	_	14	aux	_	O
+13	be	be	VB	_	14	auxpass	_	O
+14	gone!1/3	gone!0	VBN	pos2=CD	0	root	_	O
+15	of	of	IN	_	14	prep	_	O
+16	America	america	NNP	_	15	pobj	_	U-GPE
+17	will	will	MD	_	18	aux	_	O
+18	starve	starve	VB	_	14	conj	_	O
+19	to	to	IN	_	18	prep	_	O
+20	death	death	NN	_	19	pobj	_	O
+21	,	,	,	_	18	punct	_	O
+22	sick	sick	JJ	_	18	advcl	_	O
+23	&	&	CC	_	22	cc	_	O
+24	homeless	homeless	JJ	_	22	conj	_	O
+25	https://t.co/LLebnlGGiX	#hlink#	ADD	pos2=NN	22	npadvmod	_	O
+

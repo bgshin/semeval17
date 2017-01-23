@@ -1,0 +1,21 @@
+1	Barcelona	barcelona	NNP	_	3	nsubj	_	U-GPE
+2	could	could	MD	_	3	aux	_	O
+3	face	face	VB	_	0	root	_	O
+4	disciplinary	disciplinary	JJ	_	5	nmod	_	O
+5	action	action	NN	_	3	dobj	_	O
+6	,	,	,	_	3	punct	_	O
+7	after	after	IN	_	13	mark	_	O
+8	a	a	DT	_	9	det	_	O
+9	section	section	NN	_	7	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	vile	vile	JJ	_	12	nmod	_	O
+12	fans	fan	NNS	_	10	pobj	_	O
+13	chanted	chant	VBD	_	3	advcl	_	O
+14	homophobic	homophobic	JJ	_	15	nmod	_	O
+15	remarks	remark	NNS	_	13	dobj	_	O
+16	at	at	IN	_	15	prep	_	O
+17	Cristiano	cristiano	NNP	_	18	compound	_	B-ORG
+18	Rona	rona	NNP	_	16	pobj	_	L-ORG
+19	…	…	NFP	pos2=POS	3	discourse	_	O
+20	https://t.co/44h13AKuTh	#hlink#	ADD	_	3	dobj	_	O
+

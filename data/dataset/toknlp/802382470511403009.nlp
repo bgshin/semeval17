@@ -1,0 +1,8 @@
+1	Sleep	sleep	NN	pos2=VB	2	compound	_	O
+2	baby	baby	NN	_	7	dep	_	O
+3	s	s	POS	pos2=VBZ	2	case	_	O
+4	leephttps://t.co/ST8djCNrTWLeonard	#hlink#	ADD	pos2=NNP	7	nmod	_	O
+5	Cohen	cohen	NNP	pos2=GW	6	compound	_	B-PERSON
+6	#Lullaby	#lullaby	NNP	pos2=-LRB-	7	dep	_	L-PERSON
+7	https://t.co/3To5UuEHmD	#hlink#	ADD	_	0	root	_	O
+

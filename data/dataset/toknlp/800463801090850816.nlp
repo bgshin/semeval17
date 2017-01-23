@@ -1,0 +1,23 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	've	have	VBP	_	3	aux	_	O
+3	been	be	VBN	_	0	root	_	O
+4	home	home	RB	pos2=NN	3	advmod	_	O
+5	for	for	IN	_	3	prep	_	O
+6	an	an	DT	_	7	det	_	B-TIME
+7	hour	hour	NN	_	5	pobj	_	L-TIME
+8	and	and	CC	_	3	cc	_	O
+9	my	my	PRP$	_	10	poss	_	O
+10	dad	dad	NN	_	11	nsubj	_	O
+11	is	be	VBZ	_	3	conj	_	O
+12	midway	midway	RB	_	11	advmod	_	O
+13	through	through	IN	pos2=RB	11	prep	_	O
+14	explaining	explain	VBG	_	13	pcomp	_	O
+15	Trump	trump	NNP	pos2=NN	19	poss	_	U-ORG
+16	's	's	POS	_	15	case	_	O
+17	little	little	JJ	pos2=RB	19	nmod	_	O
+18	known	known	JJ	pos2=VBN	19	nmod	_	O
+19	connection	connection	NN	_	14	dobj	_	O
+20	to	to	IN	_	19	prep	_	O
+21	Mikheil	mikheil	NNP	_	22	compound	_	B-PERSON
+22	Saakashvili	saakashvili	NNP	_	20	pobj	_	L-PERSON
+

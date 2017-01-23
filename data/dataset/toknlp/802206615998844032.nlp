@@ -1,0 +1,22 @@
+1	@sahouraxo	@sahouraxo	UH	pos2=XX	5	discourse	_	O
+2	how	how	WRB	_	5	advmod	_	O
+3	can	can	MD	_	5	aux	_	O
+4	we	we	PRP	_	5	nsubj	_	O
+5	be	be	VB	_	0	root	_	O
+6	100	0	CD	_	7	nmod	_	B-PERCENT
+7	%	%	NN	pos2=,	8	npadvmod	_	L-PERCENT
+8	certain	certain	JJ	_	5	acomp	_	O
+9	it	it	PRP	_	10	nsubj	_	O
+10	's	's	VBZ	_	8	ccomp	_	O
+11	#ISIS	#isis	NNP	pos2=ADD	10	attr	_	O
+12	&	&	CC	_	11	cc	_	O
+13	not	not	RB	_	15	neg	_	O
+14	US	us	NNP	pos2=PRP	15	compound	_	U-GPE
+15	forces	force	NNS	pos2=VBZ	11	conj	_	O
+16	doing	do	VBG	_	15	acl	_	O
+17	it	it	PRP	_	16	dobj	_	O
+18	from	from	IN	_	16	prep	_	O
+19	ISIS	isis	NNP	pos2=NN	20	compound	_	U-ORG
+20	territory	territory	NN	_	18	pobj	_	O
+21	?	?	.	_	5	punct	_	O
+

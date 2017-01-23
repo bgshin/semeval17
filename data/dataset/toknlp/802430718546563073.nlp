@@ -1,0 +1,20 @@
+1	@sweetbutascotch	@sweetbutascotch	UH	pos2=PRP	2	discourse	_	O
+2	Have	have	VBP	pos2=VB	0	root	_	O
+3	you	you	PRP	_	5	nsubj	_	O
+4	a	a	DT	_	5	det	_	O
+5	link	link	NN	_	2	dobj	_	O
+6	where	where	WRB	_	9	advmod	_	O
+7	I	I	PRP	_	9	nsubj	_	O
+8	may	may	MD	_	9	aux	_	O
+9	read	read	VB	_	5	relcl	_	O
+10	more	more	JJR	_	9	dobj	_	O
+11	about	about	IN	_	10	prep	_	O
+12	this	this	DT	_	11	pobj	_	O
+13	?	?	.	_	2	punct	_	O
+
+1	The	the	DT	_	4	det	_	O
+2	social	social	JJ	_	3	nmod	_	O
+3	security	security	NN	_	4	compound	_	O
+4	numbers	number	NNS	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+

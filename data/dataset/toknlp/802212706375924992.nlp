@@ -1,0 +1,17 @@
+1	@jamiedupree	@jamiedupree	UH	pos2=VB	2	discourse	_	O
+2	really	really	RB	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	Enough	enough	JJ	pos2=RB	0	root	_	O
+2	with	with	IN	_	1	prep	_	O
+3	the	the	DT	_	6	det	_	O
+4	popular	popular	JJ	_	6	nmod	_	O
+5	vote	vote	NN	_	6	compound	_	O
+6	stuff	stuff	NN	_	2	pobj	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	serves	serve	VBZ	_	0	root	_	O
+3	no	no	DT	_	4	det	_	O
+4	purpose	purpose	NN	_	2	dobj	_	O
+

@@ -1,0 +1,14 @@
+1	....	..	.	pos2=NFP	0	predet	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	wonder	wonder	VBP	_	0	root	_	O
+3	how	how	WRB	_	4	advmod	_	O
+4	well	well	RB	pos2=UH	7	advmod	_	O
+5	Seattle	seattle	NNP	_	6	nsubj	_	U-GPE
+6	lines	line	VBZ	pos2=NNS	2	ccomp	_	O
+7	up	up	RP	pos2=RB	6	prt	_	O
+8	for	for	IN	_	6	prep	_	O
+9	a	a	DT	_	11	det	_	O
+10	Verlander	verlander	NNP	_	11	compound	_	U-CARDINAL
+11	trade	trade	NN	_	8	pobj	_	O
+

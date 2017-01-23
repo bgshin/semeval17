@@ -1,0 +1,18 @@
+1	9	0	CD	_	2	nmod	_	U-CARDINAL
+2	things	thing	NNS	_	0	root	_	O
+3	Democrats	democrat	NNPS	pos2=NNS	5	nsubj	_	U-NORP
+4	still	still	RB	_	5	advmod	_	O
+5	have	have	VBP	_	2	relcl	_	O
+6	to	to	TO	_	7	aux	_	O
+7	be	be	VB	_	5	xcomp	_	O
+8	thankful	thankful	JJ	_	7	acomp	_	O
+9	for	for	IN	_	8	prep	_	O
+10	https://t.co/XQZnPIvc1Z	#hlink#	ADD	pos2=NN	9	pobj	_	O
+11	#Trump2016	#trump0	-RRB-	pos2=NN	10	punct	_	O
+12	#TrumpTrain	#trumptrain	ADD	pos2=NN	17	dep	_	O
+13	#GOP	#gop	XX	pos2=NFP	17	dep	_	O
+14	#ccot	#ccot	UH	pos2=XX	17	dep	_	O
+15	#tcot	#tcot	UH	pos2=XX	17	discourse	_	O
+16	#ThanksTrump	#thankstrump	XX	pos2=UH	17	dep	_	O
+17	#UniteBlue	#uniteblue	ADD	pos2=UH	2	punct	_	O
+

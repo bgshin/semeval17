@@ -1,0 +1,21 @@
+1	@ezlusztig	@ezlusztig	UH	pos2=NNS	4	discourse	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	have	have	VBP	_	4	aux	_	O
+4	brought	bring	VBN	_	0	root	_	O
+5	this	this	DT	_	4	dobj	_	O
+6	up	up	RP	pos2=IN	4	prt	_	O
+7	etc.	etc.	FW	pos2=,	4	advmod	_	O
+8	And	and	CC	_	4	cc	_	O
+9	Reid	reid	NNP	_	10	nsubj	_	U-PERSON
+10	demanded	demand	VBD	_	4	conj	_	O
+11	info	info	NN	_	10	dobj	_	O
+12	from	from	IN	_	11	prep	_	O
+13	Comey	comey	NNP	_	12	pobj	_	U-PERSON
+14	but	but	CC	pos2=IN	10	cc	_	O
+15	he	he	PRP	_	16	nsubj	_	O
+16	was	be	VBD	_	10	conj	_	O
+17	too	too	RB	_	18	advmod	_	O
+18	busy	busy	JJ	_	16	acomp	_	O
+19	helping	help	VBG	_	18	xcomp	_	O
+20	Trump	trump	NNP	pos2=NN	19	dobj	_	U-ORG
+

@@ -1,0 +1,21 @@
+1	DJT	djt	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	6	det	_	O
+4	volatile	volatile	JJ	_	6	nmod	_	O
+5	diet	diet	NN	_	6	compound	_	O
+6	cocktail	cocktail	NN	_	2	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Erdogan	erdogan	NNP	_	7	pobj	_	U-PERSON
+9	,	,	,	_	6	punct	_	O
+10	Kim	kim	NNP	_	12	compound	_	B-PERSON
+11	Jong	jong	NNP	_	12	compound	_	I-PERSON
+12	Un	un	NNP	_	8	conj	_	L-PERSON
+13	,	,	,	_	12	punct	_	O
+14	Putin	putin	NNP	_	12	conj	_	U-PERSON
+15	,	,	,	_	14	punct	_	O
+16	Gaddafi	gaddafi	NNP	_	14	conj	_	U-PERSON
+17	,	,	,	_	16	punct	_	O
+18	and	and	CC	_	16	cc	_	O
+19	Mugabe	mugabe	NNP	_	16	conj	_	U-PERSON
+20	.	.	.	_	2	punct	_	O
+

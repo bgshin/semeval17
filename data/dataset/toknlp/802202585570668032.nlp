@@ -1,0 +1,22 @@
+1	Also	also	RB	_	9	advmod	_	O
+2	,	,	,	_	9	punct	_	O
+3	as	as	IN	_	9	prep	_	O
+4	a	a	DT	_	6	det	_	O
+5	proud	proud	JJ	_	6	nmod	_	O
+6	Hufflepuff	hufflepuff	NNP	_	3	pobj	_	U-ORG
+7	,	,	,	_	9	punct	_	O
+8	it	it	PRP	_	9	nsubj	_	O
+9	makes	make	VBZ	_	0	root	_	O
+10	me	me	PRP	_	12	nsubj	_	O
+11	very	very	RB	_	12	advmod	_	O
+12	happy	happy	JJ	_	9	ccomp	_	O
+13	that	that	IN	_	16	mark	_	O
+14	Newt	newt	NNP	_	15	compound	_	B-PERSON
+15	Scamander	scamander	NNP	_	16	nsubj	_	L-PERSON
+16	is	be	VBZ	_	12	ccomp	_	O
+17	also	also	RB	_	16	advmod	_	O
+18	one	#crd#	CD	pos2=PRP	16	attr	_	U-CARDINAL
+19	!	!	.	_	9	punct	_	O
+
+1	#FantasticBeasts	#fantasticbeasts	NNS	pos2=ADD	0	root	_	O
+

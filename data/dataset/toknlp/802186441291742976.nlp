@@ -1,0 +1,14 @@
+1	Way	way	NN	pos2=VB	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	go	go	VB	_	1	relcl	_	O
+4	supporters	supporter	NNS	_	3	dobj	_	O
+5	!	!	.	_	1	punct	_	O
+
+1	Warms	warm	VBZ	pos2=VB	0	root	_	O
+2	my	my	PRP$	_	3	poss	_	O
+3	heart	heart	NN	_	1	dobj	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	#StillWithHer	#stillwithher	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/dmEeJpWx98	#hlink#	ADD	_	0	root	_	O
+

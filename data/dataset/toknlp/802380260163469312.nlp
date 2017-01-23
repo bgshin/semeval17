@@ -1,0 +1,29 @@
+1	Counter-take	counter-take	NN	pos2=NNS	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	Paul	paul	NNP	_	4	compound	_	B-PERSON
+4	Ryan	ryan	NNP	_	5	nsubj	_	L-PERSON
+5	is	be	VBZ	_	0	root	_	O
+6	most	most	RBS	_	7	advmod	_	O
+7	dangerous	dangerous	JJ	_	5	acomp	_	O
+8	.	.	.	_	5	punct	_	O
+
+1	Only	only	RB	pos2=JJ	2	advmod	_	O
+2	person	person	NN	pos2=JJ	4	nsubj	_	O
+3	to	to	TO	_	4	aux	_	O
+4	counter	counter	VB	_	0	root	_	O
+5	him	him	PRP	_	4	dobj	_	O
+6	is	be	VBZ	pos2=RB	0	root	_	O
+7	,	,	,	_	6	punct	_	O
+8	ironically	ironically	RB	_	6	advmod	_	O
+9	,	,	,	_	6	punct	_	O
+10	Steve	steve	NNP	_	11	compound	_	B-PERSON
+11	Bannon	bannon	NNP	_	6	attr	_	L-PERSON
+12	who	who	WP	_	14	nsubj	_	O
+13	utterly	utterly	RB	_	14	advmod	_	O
+14	despises	despise	VBZ	_	11	relcl	_	O
+15	him	him	PRP	_	14	dobj	_	O
+16	&	&	CC	_	15	cc	_	O
+17	his	his	PRP$	_	18	poss	_	O
+18	policies	policy	NNS	_	15	conj	_	O
+19	.	.	.	_	6	punct	_	O
+

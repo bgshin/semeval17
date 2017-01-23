@@ -1,0 +1,10 @@
+1	Kim	kim	NNP	_	3	compound	_	O
+2	Jong	jong	NNP	_	3	compound	_	O
+3	Un	un	NNP	_	5	poss	_	O
+4	's	's	POS	_	3	case	_	O
+5	Letter	letter	NNP	pos2=NN	6	nsubj	_	O
+6	Introduced	introduce	VBN	pos2=NNP	0	root	_	O
+7	by	by	IN	_	6	agent	_	O
+8	ACP	acp	NNP	pos2=NN	7	pobj	_	O
+9	https://t.co/LC5LPdMpHC	#hlink#	ADD	pos2=NN	7	pobj	_	O
+

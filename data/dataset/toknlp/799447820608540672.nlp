@@ -1,0 +1,18 @@
+1	China	china	NNP	_	2	compound	_	O
+2	Blocks	blocks	NNP	pos2=NNPS	5	poss	_	O
+3	'	'	POS	pos2=''	2	case	_	O
+4	Kim	kim	NNP	_	5	compound	_	B-PERSON
+5	Fatty	fatty	NNP	_	17	dep	_	L-PERSON
+6	the	the	DT	_	7	det	_	O
+7	Third	#ord#	NNP	pos2=JJ	10	poss	_	U-ORDINAL
+8	'	'	POS	pos2=``	7	case	_	O
+9	Search	search	NNP	_	10	compound	_	O
+10	Term	term	NNP	pos2=NN	17	dep	_	O
+11	After	after	IN	_	10	prep	_	O
+12	North	north	NNP	_	13	compound	_	B-GPE
+13	Korea	korea	NNP	_	15	poss	_	I-GPE
+14	’s	's	POS	_	13	case	_	L-GPE
+15	Request	request	GW	pos2=NN	11	pobj	_	O
+16	https://t.co/BPFDvaScZm	#hlink#	ADD	_	17	nmod	_	O
+17	https://t.co/Kc9rQUl9pk	#hlink#	ADD	_	0	root	_	U-ORG
+

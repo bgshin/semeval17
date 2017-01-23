@@ -1,0 +1,28 @@
+1	@hankgreen	@hankgreen	UH	pos2=NN	6	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	mean	mean	VBP	_	6	parataxis	_	O
+4	,	,	,	_	6	punct	_	O
+5	we	we	PRP	_	6	nsubj	_	O
+6	have	have	VBP	_	0	root	_	O
+7	vaccines	vaccine	NNS	_	6	dobj	_	O
+8	and	and	CC	_	7	cc	_	O
+9	genocide	genocide	NN	_	7	conj	_	O
+10	.	.	.	_	6	punct	_	O
+
+1	Surgery	surgery	NN	pos2=NNP	0	root	_	O
+2	and	and	CC	_	1	cc	_	O
+3	torture	torture	NN	_	1	conj	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	Philosophy	philosophy	NN	pos2=NNP	0	root	_	O
+2	and	and	CC	_	1	cc	_	O
+3	despotism	despotism	NN	_	1	conj	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	mixed	mixed	JJ	pos2=VBN	5	nmod	_	O
+5	bag	bag	NN	_	2	attr	_	O
+6	.	.	.	_	2	punct	_	O
+

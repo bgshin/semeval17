@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det	_	B-ORG
+2	Truth	truth	NNP	pos2=NN	0	nsubjpass	_	L-ORG
+3	,	,	,	_	2	punct	_	O
+4	The	the	DT	_	6	det	_	O
+5	Whole	whole	NNP	pos2=JJ	6	compound	_	O
+6	Truth	truth	NNP	_	2	conj	_	O
+7	&	&	CC	_	6	cc	_	O
+8	Nothing	nothing	NN	pos2=NNP	6	conj	_	B-WORK_OF_ART
+9	But	but	CC	pos2=IN	8	prep	_	I-WORK_OF_ART
+10	The	the	DT	_	11	det	_	I-WORK_OF_ART
+11	Truth	truth	NNP	pos2=NN	9	pobj	_	L-WORK_OF_ART
+12	!	!	.	_	2	punct	_	O
+
+1	These	these	DT	_	4	det	_	O
+2	voter	voter	NN	pos2=JJ	3	compound	_	O
+3	registration	registration	NN	_	4	compound	_	O
+4	laws	law	NNS	_	6	nsubj	_	O
+5	SHOULD	should	MD	_	6	aux	_	O
+6	B	b	VB	pos2=RB	0	root	_	O
+7	UNCONSTITUTIONAL	unconstitutional	JJ	_	6	acomp	_	O
+8	bc	bc	IN	pos2=NNS	6	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	…	…	NFP	pos2=-LRB-	11	punct	_	O
+11	https://t.co/NlUq3NAvrn	#hlink#	ADD	_	6	dep	_	O
+

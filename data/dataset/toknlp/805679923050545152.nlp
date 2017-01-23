@@ -1,0 +1,21 @@
+1	I	I	PRP	_	4	nsubjpass	_	O
+2	was	be	VBD	_	4	auxpass	_	O
+3	personally	personally	RB	_	4	advmod	_	O
+4	opposed	oppose	VBN	pos2=JJ	0	root	_	O
+5	to	to	IN	_	4	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	death	death	NN	_	8	compound	_	O
+8	penalty	penalty	NN	_	5	pobj	_	O
+9	,	,	,	_	4	punct	_	O
+10	and	and	CC	_	4	cc	_	O
+11	yet	yet	RB	_	13	advmod	_	O
+12	I	I	PRP	_	13	nsubj	_	O
+13	think	think	VBP	_	4	conj	_	O
+14	I	I	PRP	_	15	nsubj	_	O
+15	have	have	VBP	_	13	ccomp	_	O
+16	...	..	.	pos2=,	13	punct	_	O
+
+1	#JanetReno	#janetreno	GW	pos2=UH	3	nmod	_	B-PERSON
+2	#citations	#citations	GW	pos2=NNS	3	nmod	_	L-PERSON
+3	https://t.co/IBCJfhJf25	#hlink#	ADD	pos2=NN	0	root	_	O
+

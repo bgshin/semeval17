@@ -1,0 +1,23 @@
+1	Graphene	graphene	NN	pos2=NNP	5	npadvmod	_	O
+2	3	0	CD	_	4	nmod	_	U-CARDINAL
+3	D	d	NNP	pos2=NN	4	compound	_	O
+4	Lab	lab	NNP	pos2=NN	5	nsubj	_	U-ORG
+5	Plans	plan	VBZ	pos2=NNP	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	Develop	develop	VB	_	5	xcomp	_	O
+8	a	a	DT	_	14	det	_	O
+9	Next	next	NNP	pos2=JJ	10	nmod	_	O
+10	Generation	generation	NNP	pos2=NN	14	nmod	_	O
+11	Lithium	lithium	NNP	pos2=NN	13	compound	_	O
+12	-	-	HYPH	_	13	punct	_	O
+13	ion	ion	NN	pos2=NNP	14	compound	_	O
+14	Battery	battery	NNP	pos2=NN	7	dobj	_	U-LOC
+15	and	and	CC	_	5	cc	_	O
+16	Joins	join	VBZ	pos2=NNP	5	conj	_	O
+17	Forces	force	NNPS	pos2=NNS	16	dobj	_	U-ORG
+18	with	with	IN	_	16	prep	_	O
+19	Stony	stony	NNP	_	20	compound	_	B-ORG
+20	Brook	brook	NNP	_	21	compound	_	I-ORG
+21	University	university	NNP	_	18	pobj	_	L-ORG
+22	https://t.co/VjfhMhtnDx	#hlink#	ADD	_	19	appos	_	O
+

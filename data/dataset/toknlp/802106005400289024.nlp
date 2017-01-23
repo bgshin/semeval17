@@ -1,0 +1,10 @@
+1	#NowPlaying	#nowplaying	VBG	pos2=NNP	9	punct	_	O
+2	Ricky	ricky	NNP	_	3	compound	_	B-PERSON
+3	Martin	martin	NNP	_	9	dep	_	L-PERSON
+4	-	-	,	pos2=:	3	punct	_	O
+5	The	the	DT	pos2=NNP	6	det	_	O
+6	Cup	cup	NNP	_	3	appos	_	O
+7	Of	of	IN	_	6	prep	_	O
+8	Life	life	NNP	pos2=GW	7	pobj	_	O
+9	mass-home.at	#hlink#	ADD	_	0	root	_	O
+

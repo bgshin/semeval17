@@ -1,0 +1,17 @@
+1	Does	do	VBZ	_	3	aux	_	O
+2	anyone	anyone	NN	_	3	nsubj	_	O
+3	have	have	VB	_	0	root	_	O
+4	info	info	NN	_	3	dobj	_	O
+5	on	on	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	effect	effect	NN	_	5	pobj	_	O
+8	the	the	DT	_	10	det	_	O
+9	acorn	acorn	NNP	pos2=NN	10	compound	_	O
+10	shutdown	shutdown	NN	_	11	nsubj	_	O
+11	had	have	VBD	_	4	relcl	_	O
+12	on	on	IN	_	11	prep	_	O
+13	voter	voter	NN	_	14	compound	_	O
+14	registration	registration	NN	_	15	compound	_	O
+15	efforts	effort	NNS	_	12	pobj	_	O
+16	?	?	.	_	3	punct	_	O
+

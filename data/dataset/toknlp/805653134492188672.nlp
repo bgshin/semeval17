@@ -1,0 +1,23 @@
+1	@D18Dx	@d0dx	NN	pos2=ADD	2	compound	_	O
+2	@DeplorableJames	@deplorablejames	NNS	pos2=ADD	3	nsubj	_	O
+3	@AIIAmericanGirI	@aiiamericangiri	ADD	pos2=NN	12	nsubj	_	O
+4	@	@	SYM	pos2=IN	6	punct	_	O
+5	3rdReiched	0rdreiched	VBD	pos2=JJ	12	csubj	_	O
+6	@Cernovich	@cernovich	NNP	pos2=ADD	5	dobj	_	U-PERSON
+7	and	and	CC	_	6	cc	_	O
+8	Hitler	hitler	NNP	_	11	poss	_	U-PERSON
+9	's	's	POS	_	8	case	_	O
+10	first	#ord#	JJ	_	11	nmod	_	U-ORDINAL
+11	strategy	strategy	NN	_	6	conj	_	O
+12	was	be	VBD	_	0	root	_	O
+13	to	to	TO	_	14	aux	_	O
+14	disarm	disarm	VB	_	12	xcomp	_	O
+15	the	the	DT	_	16	det	_	O
+16	Jews	jew	NNPS	_	14	dobj	_	U-NORP
+17	.	.	.	_	12	punct	_	O
+
+1	Gun	gun	NN	pos2=NNP	2	compound	_	O
+2	control	control	NN	_	3	nsubj	_	O
+3	sucks	suck	VBZ	pos2=NNS	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+

@@ -1,0 +1,20 @@
+1	No	no	DT	pos2=RB	4	det	_	O
+2	more	more	JJR	pos2=RBR	4	nmod	_	O
+3	#Hatchimals	#hatchimals	NNS	pos2=NNPS	4	compound	_	O
+4	@ToysRUs	@toysrus	NNS	pos2=NN	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	Parma	parma	NNP	_	5	pobj	_	U-GPE
+7	,	,	,	_	4	punct	_	O
+8	just	just	RB	_	10	advmod	_	O
+9	empty	empty	JJ	_	10	nmod	_	O
+10	shelves	shelf	NNS	_	4	conj	_	O
+11	and	and	CC	_	10	cc	_	O
+12	this	this	DT	_	14	det	_	O
+13	hatched	hatch	VBN	pos2=VBD	14	nmod	_	O
+14	display	display	NN	_	10	conj	_	O
+15	.	.	.	_	4	punct	_	O
+
+1	;)	;)	NFP	_	3	nmod	_	O
+2	#blackfriday	#blackfriday	GW	pos2=UH	3	nmod	_	O
+3	https://t.co/fk9gYljYKn	#hlink#	ADD	pos2=NN	0	root	_	O
+

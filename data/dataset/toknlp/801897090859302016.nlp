@@ -1,0 +1,12 @@
+1	Really	really	RB	_	2	advmod	_	O
+2	like	like	VBP	pos2=IN	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	@google	@google	NNP	pos2=XX	5	compound	_	O
+5	Earth	earth	NNP	_	7	poss	_	O
+6	#VR	#vr	POS	pos2=XX	5	case	_	O
+7	experience	experience	NN	_	2	dobj	_	O
+8	https://t.co/H1BQxy4C4Y	#hlink#	ADD	_	7	appos	_	O
+9	#exploration	#exploration	ADD	pos2=-RRB-	7	acl	_	O
+10	#killerapp	#killerapp	UH	pos2=IN	11	discourse	_	O
+11	#nonfiction	#nonfiction	UH	pos2=NN	9	pobj	_	O
+

@@ -1,0 +1,19 @@
+1	The	the	DT	_	2	det	_	O
+2	rise	rise	NN	_	7	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	the	the	DT	_	6	det	_	O
+5	white	white	JJ	_	6	nmod	_	O
+6	men	man	NNS	_	3	pobj	_	O
+7	determined	determine	VBD	pos2=VBN	0	root	_	O
+8	to	to	TO	pos2=IN	9	aux	_	O
+9	control	control	VB	_	7	xcomp	_	O
+10	what	what	WP	pos2=WDT	12	dobj	_	O
+11	women	woman	NNS	_	12	nsubj	_	O
+12	do	do	VBP	pos2=VB	9	ccomp	_	O
+13	with	with	IN	_	12	prep	_	O
+14	their	their	PRP$	_	15	poss	_	O
+15	bodies	body	NNS	_	13	pobj	_	O
+16	@thepooluk	@thepooluk	VBP	pos2=GW	18	dep	_	O
+17	#thepool	#thepool	UH	pos2=NFP	16	discourse	_	O
+18	https://t.co/2mgNZtC2OD	#hlink#	ADD	_	15	appos	_	O
+

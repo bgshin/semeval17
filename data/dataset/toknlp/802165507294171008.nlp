@@ -1,0 +1,22 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	21	ccomp	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=ADD	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	from	from	IN	_	2	prep	_	O
+7	@amaraudio	@amaraudio	ADD	pos2=NNP	6	pobj	_	O
+8	https://t.co/gi9QfEMHCU	#hlink#	ADD	pos2=IN	7	appos	_	O
+9	DIL	dil	NNP	pos2=NN	11	compound	_	O
+10	||	||	HYPH	pos2=``	11	punct	_	O
+11	NINJA	ninja	NNP	pos2=NN	6	pobj	_	O
+12	||	||	:	pos2=NFP	21	punct	_	O
+13	Valentines	valentines	NNP	_	17	compound	_	O
+14	Special	special	NNP	pos2=JJ	18	nmod	_	O
+15	||	||	``	pos2=NNP	18	punct	_	O
+16	New	new	NNP	pos2=JJ	17	compound	_	B-NORP
+17	Punjabi	punjabi	NNP	_	18	compound	_	L-NORP
+18	Songs	song	NNS	pos2=NNP	21	nsubj	_	O
+19	2016	0	CD	_	18	npadvmod	_	U-DATE
+20	||	||	:	pos2=,	21	punct	_	O
+21	FULL	full	JJ	_	0	root	_	O
+

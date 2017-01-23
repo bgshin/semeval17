@@ -1,0 +1,15 @@
+1	The	the	DT	_	4	det	_	O
+2	latest	late	JJS	_	4	nmod	_	O
+3	Jornal	jornal	NNP	_	4	compound	_	B-ORG
+4	Editorial	editorial	NNP	pos2=JJ	0	root	_	L-ORG
+5	!	!	.	_	4	punct	_	O
+
+1	https://t.co/rWs4Y3E2c6	#hlink#	ADD	pos2=NN	0	root	_	O
+2	Thanks	thanks	NNS	pos2=NN	1	npadvmod	_	O
+3	to	to	IN	_	2	prep	_	O
+4	@apocrypha	@apocrypha	UH	pos2=XX	3	discourse	_	O
+5	@arquipelago	@arquipelago	UH	pos2=FW	3	discourse	_	O
+6	@mushisan	@mushisan	UH	pos2=MD	3	discourse	_	O
+7	#cartacapital	#cartacapital	UH	pos2=FW	3	discourse	_	O
+8	#nbawards	#nbawards	UH	pos2=NNS	3	discourse	_	O
+

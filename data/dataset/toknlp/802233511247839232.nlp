@@ -1,0 +1,28 @@
+1	Saw	see	VBD	_	0	root	_	O
+2	a	a	DT	_	5	det	_	O
+3	Tesla	tesla	NNP	_	5	compound	_	B-ORG
+4	Model	model	NNP	pos2=NN	5	compound	_	I-ORG
+5	S	s	NNP	pos2=NN	1	dobj	_	L-ORG
+6	and	and	CC	_	5	cc	_	O
+7	X	x	NNP	pos2=NN	5	conj	_	O
+8	today	today	NN	_	1	npadvmod	_	U-DATE
+9	.	.	.	_	1	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	were	be	VBD	_	0	root	_	O
+3	awesome	awesome	JJ	_	2	acomp	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	Definitely	definitely	RB	_	2	advmod	_	O
+2	getting	get	VBG	_	0	root	_	O
+3	one	#crd#	CD	pos2=PRP	2	dobj	_	U-CARDINAL
+4	when	when	WRB	_	6	advmod	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	hit	hit	VBD	pos2=VBP	2	advcl	_	O
+7	3	0	CD	_	8	nmod	_	O
+8	M	m	NN	pos2=CD	9	compound	_	O
+9	subs	sub	NNS	_	6	dobj	_	O
+10	like	like	IN	pos2=UH	9	prep	_	O
+11	@MKBHD	@mkbhd	XX	pos2=NN	10	pobj	_	O
+12	lol	lol	UH	_	2	discourse	_	O
+

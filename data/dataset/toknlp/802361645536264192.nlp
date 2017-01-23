@@ -1,0 +1,17 @@
+1	Trump	trump	NN	pos2=NNP	2	compound	_	U-PERSON
+2	supporters	supporter	NNS	_	4	nsubj	_	O
+3	always	always	RB	_	4	advmod	_	O
+4	think	think	VBP	_	0	root	_	O
+5	they	they	PRP	_	6	nsubj	_	O
+6	're	be	VBP	_	4	ccomp	_	O
+7	so	so	RB	_	8	advmod	_	O
+8	cute	cute	JJ	pos2=RB	6	acomp	_	O
+9	calling	call	VBG	_	8	xcomp	_	O
+10	themselves	themselves	PRP	_	9	dobj	_	O
+11	deplorables	deplorables	NNS	pos2=RB	9	oprd	_	O
+12	.	.	.	_	4	punct	_	O
+
+1	So	so	RB	_	2	advmod	_	O
+2	annoying	annoying	JJ	pos2=VBG	0	root	_	O
+3	lol	lol	UH	_	2	discourse	_	O
+

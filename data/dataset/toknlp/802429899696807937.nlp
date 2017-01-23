@@ -1,0 +1,25 @@
+1	Fuck	fuck	VB	pos2=NN	0	root	_	O
+2	ObamaCare	obamacare	NNP	_	1	dobj	_	U-ORG
+3	.	.	.	_	1	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	want	want	VBP	_	0	root	_	O
+3	CastroCare	castrocare	NNP	_	2	dobj	_	U-PERSON
+4	!	!	.	_	2	punct	_	O
+
+1	Cuba	cuba	NNP	_	4	poss	_	U-GPE
+2	's	's	POS	_	1	case	_	O
+3	medical	medical	JJ	_	4	nmod	_	O
+4	system	system	NN	_	6	nsubj	_	O
+5	should	should	MD	_	6	aux	_	O
+6	be	be	VB	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	model	model	NN	_	6	attr	_	O
+9	for	for	IN	_	8	prep	_	O
+10	health	health	NN	_	11	compound	_	O
+11	care	care	NN	_	9	pobj	_	O
+12	in	in	IN	_	8	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	USA	usa	NNP	_	12	pobj	_	U-GPE
+15	.	.	.	_	6	punct	_	O
+

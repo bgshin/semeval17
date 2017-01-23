@@ -1,0 +1,13 @@
+1	#Putin	#putin	NNP	pos2=NN	6	ccomp	_	U-GPE
+2	to	to	IN	pos2=TO	1	prep	_	O
+3	#ISIS	#isis	NNP	pos2=NN	2	pobj	_	U-ORG
+4	;	;	:	pos2=,	6	punct	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	am	be	VBP	_	0	root	_	O
+7	not	not	RB	_	6	neg	_	O
+8	afraid	afraid	JJ	_	6	acomp	_	O
+9	of	of	IN	_	8	prep	_	O
+10	your	your	PRP$	_	11	poss	_	O
+11	threats	threat	NNS	_	9	pobj	_	O
+12	https://t.co/QnQU2xuVrb	#hlink#	ADD	_	6	dep	_	O
+

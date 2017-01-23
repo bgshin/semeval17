@@ -1,0 +1,31 @@
+1	@michaelianblack	@michaelianblack	UH	pos2=``	5	discourse	_	O
+2	He	he	PRP	_	5	nsubj	_	O
+3	should	should	MD	_	5	aux	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	do	do	VB	_	0	root	_	O
+6	it	it	PRP	_	5	dobj	_	O
+7	.	.	.	_	5	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	6	ccomp	_	O
+3	awful	awful	JJ	_	2	acomp	_	O
+4	,	,	,	_	6	punct	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	know	know	VBP	_	0	root	_	O
+7	.	.	.	_	6	punct	_	O
+
+1	But	but	CC	_	4	cc	_	O
+2	if	if	IN	_	8	mark	_	O
+3	he	he	PRP	_	8	nsubj	_	O
+4	does	do	VBZ	_	8	aux	_	O
+5	n't	not	RB	_	8	neg	_	O
+6	we	we	PRP	_	8	nsubj	_	O
+7	'll	will	MD	_	8	aux	_	O
+8	get	get	VB	_	0	root	_	O
+9	a	a	DT	_	11	det	_	O
+10	Nazi	nazi	NNP	_	11	compound	_	U-NORP
+11	Secretary	secretary	NNP	_	8	dobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	State	state	NNP	_	12	pobj	_	U-ORG
+14	.	.	.	_	11	punct	_	O
+

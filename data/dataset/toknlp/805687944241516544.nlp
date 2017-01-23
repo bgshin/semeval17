@@ -1,0 +1,14 @@
+1	#ZacEfron	#zacefron	ADD	pos2=NN	5	nsubj	_	U-ORG
+2	and	and	CC	_	1	cc	_	O
+3	Seth	seth	NNP	_	4	compound	_	B-PERSON
+4	Rogen	rogen	NNP	_	1	conj	_	L-PERSON
+5	Are	be	VBP	pos2=NNP	0	root	_	O
+6	Shirtless	shirtless	JJ	pos2=NNP	5	acomp	_	O
+7	and	and	CC	_	6	cc	_	O
+8	Wearing	wear	VBG	pos2=NNP	6	conj	_	O
+9	Short	short	JJ	pos2=NNP	10	nmod	_	O
+10	Shorts	short	NNPS	pos2=NNS	8	dobj	_	O
+11	...	..	.	pos2=,	5	punct	_	O
+
+1	https://t.co/r353vQ2ZB6	#hlink#	ADD	_	0	root	_	U-ORG
+

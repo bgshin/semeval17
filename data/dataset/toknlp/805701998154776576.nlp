@@ -1,0 +1,16 @@
+1	Do	do	VB	pos2=VBP	4	aux	_	O
+2	n't	not	RB	_	4	neg	_	O
+3	really	really	RB	_	4	advmod	_	O
+4	want	want	VB	_	0	root	_	O
+5	this	this	DT	_	7	nsubj	_	O
+6	to	to	TO	pos2=IN	7	aux	_	O
+7	end	end	VB	pos2=NN	4	ccomp	_	O
+8	but	but	CC	_	4	cc	_	O
+9	here	here	RB	_	10	advmod	_	O
+10	goes	go	VBZ	_	4	conj	_	O
+11	...	..	.	pos2=,	4	punct	_	O
+
+1	—	-	SYM	pos2=HYPH	2	punct	_	O
+2	watching	watch	VBG	_	0	root	_	O
+3	Westworld	westworld	NNP	pos2=NN	2	dobj	_	U-WORK_OF_ART
+

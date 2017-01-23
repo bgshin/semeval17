@@ -1,0 +1,15 @@
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	creating	create	VBG	_	2	pcomp	_	O
+4	the	the	DT	_	6	det	_	O
+5	strongest	strong	JJS	_	6	nmod	_	O
+6	@republicanparty	@republicanparty	NN	pos2=CD	3	dobj	_	O
+7	in	in	IN	_	3	prep	_	O
+8	almost	almost	RB	_	10	advmod	_	B-DATE
+9	a	a	DT	_	10	det	_	I-DATE
+10	century	century	NN	_	7	pobj	_	L-DATE
+11	and	and	CC	_	3	cc	_	O
+12	electing	elect	VBG	_	3	conj	_	O
+13	@realDonaldTrump	@realdonaldtrump	NN	pos2=NNS	12	dobj	_	O
+14	.	.	.	_	1	punct	_	O
+

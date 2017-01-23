@@ -1,0 +1,12 @@
+1	Trump	trump	NN	pos2=NNP	3	compound	_	U-PERSON
+2	transition	transition	NN	_	3	compound	_	O
+3	team	team	NN	_	4	nsubj	_	O
+4	highlights	highlight	VBZ	_	0	root	_	O
+5	diversity	diversity	NN	_	4	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	nominees	nominee	NNS	_	6	pobj	_	O
+8	:	:	:	_	4	punct	_	O
+9	https://t.co/j8asm4WCdH	#hlink#	ADD	pos2=NN	4	appos	_	O
+10	via	via	IN	_	9	prep	_	O
+11	@YouTube	@youtube	NNP	pos2=NN	10	pobj	_	O
+

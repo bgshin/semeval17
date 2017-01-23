@@ -1,0 +1,21 @@
+1	"	"	``	pos2=SYM	5	punct	_	O
+2	Isolated	isolated	JJ	pos2=VBN	3	nmod	_	O
+3	Muslims	muslim	NNPS	_	4	nsubj	_	U-NORP
+4	see	see	VBP	pos2=VB	0	root	_	O
+5	UK	uk	NNP	_	4	dobj	_	U-GPE
+6	as	as	IN	pos2=RB	4	prep	_	O
+7	mainly	mainly	RB	_	8	advmod	_	O
+8	Islamic	islamic	JJ	pos2=NNP	6	pcomp	_	U-NORP
+9	when	when	WRB	_	11	advmod	_	O
+10	it	it	PRP	_	11	nsubj	_	O
+11	is	be	VBZ	_	4	advcl	_	O
+12	less	less	JJR	_	14	qmod	_	B-PERCENT
+13	than	than	IN	_	14	qmod	_	I-PERCENT
+14	five	#crd#	CD	_	16	nmod	_	I-PERCENT
+15	per	per	NN	pos2=JJR	16	compound	_	I-PERCENT
+16	cent	cent	NN	_	20	nmod	_	L-PERCENT
+17	"	"	``	pos2=''	18	punct	_	O
+18	https://t.co/NS0FQSGjAL	#hlink#	ADD	pos2=NN	11	attr	_	O
+19	via	via	IN	_	11	prep	_	O
+20	@MailOnline	@mailonline	NN	pos2=ADD	19	pobj	_	O
+

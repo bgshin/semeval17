@@ -1,0 +1,11 @@
+1	@utahjazz	@utahjazz	UH	pos2=PDT	3	discourse	_	O
+2	this	this	DT	_	3	nsubj	_	O
+3	was	be	VBD	_	0	root	_	O
+4	my	my	PRP$	_	5	poss	_	O
+5	favorite	favorite	NN	pos2=JJ	3	attr	_	O
+6	from	from	IN	_	5	prep	_	O
+7	last	last	JJ	_	8	nmod	_	B-TIME
+8	night	night	NN	_	6	pobj	_	L-TIME
+9	😂	😂	NFP	pos2=,	3	discourse	_	O
+10	https://t.co/OD5vyWueeX	#hlink#	ADD	_	3	dep	_	O
+

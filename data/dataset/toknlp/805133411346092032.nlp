@@ -1,0 +1,38 @@
+1	@JoeAndy74611394	@joeandy0	NN	pos2=LS	2	compound	_	O
+2	@CNN	@cnn	NNP	pos2=XX	3	npadvmod	_	O
+3	Sure	sure	UH	pos2=NNP	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Why	why	WRB	_	2	advmod	_	O
+2	not	not	RB	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	How	how	WRB	_	2	advmod	_	O
+2	about	about	IN	pos2=TO	0	root	_	O
+3	ramp	ramp	NN	pos2=VBG	2	pobj	_	O
+4	up	up	RP	pos2=RB	3	prt	_	O
+5	in	in	IN	_	3	prep	_	O
+6	drone	drone	NN	_	7	compound	_	O
+7	strikes	strike	NNS	_	5	pobj	_	O
+8	?	?	.	_	2	punct	_	O
+
+1	FISA	fisa	NNP	pos2=NN	2	compound	_	U-ORG
+2	courts	court	NNS	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	US	us	NNP	_	2	compound	_	U-GPE
+2	Citz	citz	NNP	pos2=NN	3	nsubj	_	U-NORP
+3	targeted	target	VBN	pos2=VBD	0	root	_	O
+4	w	w	IN	pos2=RB	3	prep	_	O
+5	/	/	HYPH	_	4	punct	_	O
+6	out	out	RP	pos2=IN	4	prt	_	O
+7	due	due	JJ	pos2=IN	8	nmod	_	O
+8	process	process	NN	_	4	pobj	_	O
+9	?	?	.	_	3	punct	_	O
+
+1	BTW	btw	RB	pos2=UH	4	advmod	_	O
+2	,	,	,	_	4	punct	_	O
+3	this	this	DT	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	Obama	obama	NNP	_	4	attr	_	U-PERSON
+

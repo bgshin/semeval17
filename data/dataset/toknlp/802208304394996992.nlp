@@ -1,0 +1,14 @@
+1	@mike_pence	@mike_pence	IN	pos2=NNP	3	mark	_	O
+2	You	you	PRP	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	a	a	DT	pos2=TO	7	det	_	O
+5	stand	stand	VB	pos2=NN	7	nmod	_	O
+6	up	up	RP	pos2=JJ	5	prt	_	O
+7	guy	guy	NN	_	3	attr	_	O
+8	and	and	CC	_	7	cc	_	O
+9	a	a	DT	_	13	det	_	O
+10	Gentleman	gentleman	NNP	pos2=NN	12	compound	_	O
+11	Vice	vice	NNP	_	12	compound	_	O
+12	President	president	NNP	_	13	compound	_	O
+13	Pence	penny	NNP	_	7	conj	_	U-PERSON
+

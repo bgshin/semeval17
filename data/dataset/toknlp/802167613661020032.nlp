@@ -1,0 +1,25 @@
+1	#ThisIsUs	#thisisus	NN	pos2=NNP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	my	my	PRP$	_	6	poss	_	O
+4	new	new	JJ	_	6	nmod	_	O
+5	favorite	favorite	JJ	_	6	nmod	_	O
+6	show	show	NN	pos2=VBP	2	attr	_	O
+7	...	..	.	_	2	punct	_	O
+
+1	why	why	WRB	_	4	advmod	_	O
+2	did	do	VBD	_	4	aux	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	take	take	VB	_	0	root	_	O
+5	so	so	RB	_	6	advmod	_	O
+6	long	long	RB	_	4	advmod	_	O
+7	for	for	IN	_	4	prep	_	O
+8	someone	someone	NN	_	7	pobj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	think	think	VB	_	8	relcl	_	O
+11	of	of	IN	_	10	prep	_	O
+12	this	this	DT	_	13	det	_	O
+13	show	show	NN	pos2=VB	11	pobj	_	O
+14	?!?!	?!?!	.	pos2=-RRB-	4	punct	_	O
+
+1	@nbc	@nbc	UH	pos2=XX	0	root	_	O
+

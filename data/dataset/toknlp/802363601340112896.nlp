@@ -1,0 +1,41 @@
+1	Ask	ask	VB	_	0	root	_	O
+2	who	who	WP	_	3	nsubj	_	O
+3	wants	want	VBZ	_	1	ccomp	_	O
+4	new	new	JJ	_	5	nmod	_	O
+5	stuff	stuff	NN	_	3	dobj	_	O
+6	and	and	CC	_	1	cc	_	O
+7	stop	stop	VB	_	1	conj	_	O
+8	making	make	VBG	_	7	xcomp	_	O
+9	it	it	PRP	_	8	dobj	_	O
+10	.	.	.	_	1	punct	_	O
+
+1	Self	self	NN	pos2=VB	2	npadvmod	_	O
+2	serve	serve	VBP	pos2=VB	0	root	_	O
+3	check	check	NN	pos2=VB	4	compound	_	O
+4	outs	out	NNS	_	2	dobj	_	O
+5	?	?	.	_	2	punct	_	O
+
+1	NO	no	UH	pos2=DT	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	Self	self	NN	pos2=VB	2	npadvmod	_	O
+2	driving	drive	VBG	pos2=NN	0	root	_	O
+3	cars	car	NNS	_	2	dobj	_	O
+4	?	?	.	_	2	punct	_	O
+
+1	NO	no	UH	pos2=DT	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Mass	mass	NN	pos2=VB	2	compound	_	O
+2	unemployment	unemployment	NN	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	NO	no	UH	pos2=DT	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Who	who	WP	pos2=NNP	2	nsubj	_	O
+2	benefits	benefit	VBZ	pos2=NNS	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	#auspol	#auspol	UH	pos2=XX	0	root	_	O
+

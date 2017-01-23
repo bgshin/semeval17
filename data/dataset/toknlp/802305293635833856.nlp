@@ -1,0 +1,17 @@
+1	"	"	``	pos2=SYM	16	punct	_	O
+2	Deep	deep	JJ	pos2=NNP	4	nmod	_	B-WORK_OF_ART
+3	Learning	learning	NNP	pos2=NN	4	compound	_	I-WORK_OF_ART
+4	Students	student	NNS	pos2=NNPS	16	dep	_	L-WORK_OF_ART
+5	worth	worth	JJ	pos2=VBD	4	nmod	_	O
+6	5	0	CD	_	7	compound	_	B-CARDINAL
+7	million	#crd#	CD	_	5	npadvmod	_	L-CARDINAL
+8	to	to	IN	_	4	prep	_	O
+9	10	0	CD	_	10	compound	_	B-CARDINAL
+10	million	#crd#	CD	_	8	pobj	_	L-CARDINAL
+11	"	"	''	pos2=NNS	16	punct	_	O
+12	-	-	,	pos2=HYPH	16	punct	_	O
+13	Wall	wall	NNP	_	14	compound	_	B-ORG
+14	Street	street	NNP	_	15	compound	_	I-ORG
+15	Journal	journal	NNP	_	16	compound	_	L-ORG
+16	#goals	#goals	NNS	pos2=ADD	0	root	_	O
+

@@ -1,0 +1,13 @@
+1	Essay	essay	NN	pos2=NNP	9	nsubj	_	O
+2	on	on	IN	_	1	prep	_	O
+3	invading	invade	VBG	_	2	pcomp	_	O
+4	aliens	alien	NNS	_	3	dobj	_	O
+5	and	and	CC	_	4	cc	_	O
+6	self-driving	self-driving	JJ	pos2=VBG	8	nmod	_	O
+7	cars.@elonmusk	cars.@elonmusk	NNP	pos2=.	8	compound	_	U-LOC
+8	@TeslaMotors	@teslamotors	NNS	pos2=NNPS	4	conj	_	O
+9	@SebastianThrun	@sebastianthrun	ADD	pos2=VBP	0	root	_	O
+10	@google	@google	IN	pos2=UH	9	prep	_	O
+11	@JerryBrownGov	@jerrybrowngov	ADD	pos2=GW	10	pobj	_	O
+12	https://t.co/pMdQ8uhWWZ	#hlink#	ADD	_	10	pobj	_	O
+

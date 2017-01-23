@@ -1,0 +1,24 @@
+1	@garbage	@garbage	UH	pos2=DT	3	discourse	_	O
+2	pretty	pretty	RB	pos2=UH	3	advmod	_	O
+3	sure	sure	JJ	pos2=RB	10	dep	_	O
+4	what	what	WP	pos2=WDT	7	dobj	_	O
+5	the	the	DT	_	6	det	_	O
+6	world	world	NN	_	7	nsubj	_	O
+7	needs	need	VBZ	_	3	ccomp	_	O
+8	right	right	RB	_	9	advmod	_	O
+9	now	now	RB	_	7	advmod	_	O
+10	is	be	VBZ	_	0	root	_	O
+11	for	for	IN	_	14	mark	_	O
+12	y'all	y'all	PRP	_	14	nsubj	_	O
+13	to	to	TO	_	14	aux	_	O
+14	cover	cover	VB	_	10	advcl	_	O
+15	Leonard	leonard	NNP	_	16	compound	_	B-PERSON
+16	Cohen	cohen	NNP	_	21	poss	_	I-PERSON
+17	's	's	POS	pos2=VBZ	16	case	_	L-PERSON
+18	,	,	,	_	14	punct	_	O
+19	"	"	``	pos2=''	21	punct	_	O
+20	The	the	DT	_	21	det	_	B-WORK_OF_ART
+21	Future	future	NNP	pos2=NN	14	dobj	_	L-WORK_OF_ART
+22	.	.	.	pos2=,	10	punct	_	O
+23	"	"	''	_	10	punct	_	O
+

@@ -1,0 +1,25 @@
+1	Fidel	fidel	NNP	_	2	compound	_	B-PERSON
+2	Castro	castro	NNP	_	3	nsubj	_	L-PERSON
+3	dies	die	VBZ	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Cubans	cuban	NNPS	pos2=NNS	2	nsubj	_	U-NORP
+2	rejoice	rejoice	VBP	pos2=VB	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	but	but	CC	_	2	cc	_	O
+5	#AndreaMitchell	#andreamitchell	JJ	pos2=NNP	6	nmod	_	O
+6	cries	cry	NNS	pos2=VBZ	2	conj	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	Liberals	liberal	NNS	pos2=NNPS	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	worst	bad	JJS	pos2=JJ	5	nmod	_	O
+5	society	society	NN	_	6	nsubj	_	O
+6	has	have	VBZ	_	2	ccomp	_	O
+7	to	to	TO	_	8	aux	_	O
+8	offer	offer	VB	_	6	xcomp	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	https://t.co/oacXQbReIo	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,15 @@
+1	#TrumpTransitionTeam	#trumptransitionteam	NN	pos2=XX	2	compound	_	O
+2	issues	issue	NNS	_	0	root	_	O
+3	#Statement	#statement	NNP	pos2=ADD	2	vocative	_	U-PERSON
+4	...	..	.	pos2=,	2	punct	_	O
+
+1	Clearly	clearly	RB	_	5	advmod	_	O
+2	,	,	,	_	5	punct	_	O
+3	they	they	PRP	_	5	nsubj	_	O
+4	never	never	RB	_	5	neg	_	O
+5	Met	meet	VBD	_	0	root	_	O
+6	#Trump	#trump	NNP	pos2=ADD	5	dobj	_	U-PRODUCT
+7	.	.	.	_	5	punct	_	O
+
+1	https://t.co/QicFVW9W2b	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,7 @@
+1	The	the	DT	_	5	det	_	O
+2	next	next	JJ	_	5	nmod	_	O
+3	Muhammad	muhammad	NNP	_	5	compound	_	B-PERSON
+4	Ali	ali	NNP	_	5	compound	_	L-PERSON
+5	💯💪🏾👊🏾🏆	💯💪🏾👊🏾🏆	NNP	pos2=VBD	6	nmod	_	O
+6	https://t.co/OM5TO6cQi9	#hlink#	ADD	_	0	root	_	O
+

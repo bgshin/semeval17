@@ -1,0 +1,14 @@
+1	#Trump	#trump	NNP	pos2=NN	3	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	Plan	plan	NNP	pos2=NN	11	nsubj	_	O
+4	For	for	IN	_	3	prep	_	O
+5	The	the	DT	_	6	det	_	B-WORK_OF_ART
+6	Wall	wall	NNP	_	4	pobj	_	L-WORK_OF_ART
+7	On	on	IN	_	3	prep	_	O
+8	The	the	DT	_	10	det	_	B-EVENT
+9	Mexican	mexican	NNP	pos2=JJ	10	compound	_	I-EVENT
+10	Border	border	NNP	pos2=NN	7	pobj	_	I-EVENT
+11	Materializes	materialize	VBZ	pos2=NNP	0	root	_	L-EVENT
+12	https://t.co/zUijI16rD9	#hlink#	ADD	pos2=NNP	10	appos	_	O
+13	#tcot	#tcot	-RRB-	pos2=ADD	12	punct	_	O
+

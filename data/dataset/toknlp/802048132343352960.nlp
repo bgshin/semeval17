@@ -1,0 +1,14 @@
+1	@battIeborns	@battieborns	NNS	pos2=VBZ	5	compound	_	O
+2	@RobertsEmma	@robertsemma	GW	pos2=NN	0	root	_	O
+3	-	-	:	pos2=GW	7	punct	_	O
+4	https://t.co/O1vxG0NvDH:	#hlink#	ADD	pos2=NN	0	root	_	O
+5	#ScreamQueens	#screamqueens	NNS	pos2=VBZ	0	root	_	U-ORG
+6	so	so	RB	_	7	advmod	_	O
+7	lucky	lucky	JJ	_	5	acomp	_	O
+8	to	to	TO	_	9	aux	_	O
+9	get	get	VB	_	7	xcomp	_	O
+10	to	to	IN	pos2=TO	9	prep	_	O
+11	work	work	VB	pos2=NN	10	pobj	_	O
+12	with	with	IN	_	11	prep	_	O
+13	TK.	tk.	NNP	pos2=NNS	12	pobj	_	U-CARDINAL
+

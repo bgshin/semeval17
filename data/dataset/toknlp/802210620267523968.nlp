@@ -1,0 +1,15 @@
+1	Did	do	VBD	_	3	aux	_	O
+2	Putin	putin	NNP	_	3	nsubj	_	U-PERSON
+3	spread	spread	VB	pos2=VBD	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	lie	lie	NN	_	3	dobj	_	O
+6	that	that	WDT	pos2=IN	8	advmod	_	O
+7	EM	em	NNP	pos2=NN	8	nsubj	_	U-ORG
+8	had	have	VBD	_	5	relcl	_	O
+9	a	a	DT	_	10	det	_	O
+10	shot	shot	NN	pos2=VBN	8	dobj	_	O
+11	in	in	IN	_	10	prep	_	O
+12	Utah	utah	NNP	_	11	pobj	_	U-GPE
+13	LMFAO	lmfao	NNP	pos2=GW	14	nmod	_	O
+14	https://t.co/xSYu4TEKS8	#hlink#	ADD	_	12	appos	_	O
+

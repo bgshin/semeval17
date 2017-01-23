@@ -1,0 +1,16 @@
+1	@BrendanNyhan	@brendannyhan	ADD	pos2=UH	0	root	_	O
+2	@aravosis	@aravosis	IN	pos2=VBZ	1	prep	_	O
+3	the	the	DT	_	6	det	_	O
+4	Michael	michael	NNP	_	5	compound	_	B-PERSON
+5	Moore	moore	NNP	_	6	compound	_	L-PERSON
+6	part	part	NN	pos2=VB	2	pobj	_	O
+7	?	?	.	_	1	punct	_	O
+
+1	If	if	IN	_	2	mark	_	O
+2	so	so	RB	_	5	advcl	_	O
+3	,	,	,	_	5	punct	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	agree	agree	VBP	_	0	root	_	O
+6	emphatically	emphatically	RB	_	5	advmod	_	O
+7	.	.	.	_	5	punct	_	O
+

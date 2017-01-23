@@ -1,0 +1,27 @@
+1	Come	come	VB	_	0	root	_	O
+2	on	on	IN	pos2=RP	1	prep	_	O
+3	Electoral	electoral	NNP	pos2=JJ	4	compound	_	B-ORG
+4	College	college	NNP	_	2	pobj	_	L-ORG
+5	.	.	.	_	1	punct	_	O
+
+1	Please	please	UH	_	2	discourse	_	O
+2	do	do	VB	_	0	root	_	O
+3	your	your	PRP$	_	4	poss	_	O
+4	job	job	NN	_	2	dobj	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	Majority	majority	NN	pos2=NNP	6	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	Americans	american	NNPS	_	2	pobj	_	U-NORP
+4	do	do	VBP	_	6	aux	_	O
+5	not	not	RB	_	6	neg	_	O
+6	want	want	VB	_	0	root	_	O
+7	@realDonaldTrump	@realdonaldtrump	NNP	pos2=ADD	9	vocative	_	O
+8	This	this	DT	pos2=NNP	9	nsubj	_	O
+9	is	be	VBZ	_	6	ccomp	_	O
+10	NOT	not	RB	_	9	neg	_	O
+11	the	the	DT	_	14	nmod	_	O
+12	f	f	GW	pos2=NN	14	nmod	_	O
+13	…	…	GW	pos2=NFP	14	nmod	_	O
+14	https://t.co/rnUcpoLpfZ	#hlink#	ADD	pos2=NN	9	attr	_	O
+

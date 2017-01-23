@@ -1,0 +1,28 @@
+1	#Hatchimals	#hatchimals	NNS	pos2=ADD	4	vocative	_	O
+2	@MikeZappaYou	@mikezappayou	PRP	pos2=EX	4	nsubj	_	O
+3	must	must	MD	_	4	aux	_	O
+4	be	be	VB	_	0	root	_	O
+5	so	so	RB	_	6	advmod	_	O
+6	proud	proud	JJ	_	4	acomp	_	O
+7	of	of	IN	_	6	prep	_	O
+8	yourself	yourself	PRP	_	7	pobj	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	Way	way	NN	pos2=RB	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	prove	prove	VB	_	1	relcl	_	O
+4	Americans	american	NNPS	pos2=NNS	5	nsubj	_	U-NORP
+5	are	be	VBP	_	3	ccomp	_	O
+6	so	so	RB	_	7	advmod	_	O
+7	great	great	JJ	_	5	acomp	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	Legally	legally	RB	_	2	advmod	_	O
+2	robbing	rob	VBG	_	0	root	_	O
+3	from	from	IN	_	2	prep	_	O
+4	the	the	DT	_	7	det	_	O
+5	less	less	RBR	_	6	advmod	_	O
+6	fortunate	fortunate	JJ	_	7	nmod	_	O
+7	children	child	NNS	_	3	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+

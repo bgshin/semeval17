@@ -1,0 +1,13 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	sure	sure	JJ	_	2	acomp	_	O
+4	Trump	trump	NNP	pos2=NN	7	nsubj	_	U-ORG
+5	would	would	MD	_	7	aux	_	O
+6	NEVER	never	RB	_	7	neg	_	O
+7	let	let	VB	_	3	ccomp	_	O
+8	money	money	NN	_	9	nsubj	_	O
+9	influence	influence	VB	pos2=NN	7	ccomp	_	O
+10	his	his	PRP$	_	11	poss	_	O
+11	decisions	decision	NNS	_	9	dobj	_	O
+12	https://t.co/sNr06EK85r	#hlink#	ADD	pos2=RP	8	appos	_	O
+

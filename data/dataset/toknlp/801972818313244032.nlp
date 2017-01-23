@@ -1,0 +1,10 @@
+1	@elizabethforma	@elizabethforma	UH	pos2=MD	2	discourse	_	O
+2	Go	go	VB	_	0	root	_	O
+3	get	get	VB	pos2=VBP	2	advcl	_	O
+4	em	em	DT	pos2=JJ	5	det	_	O
+5	girl	girl	NN	_	3	dobj	_	O
+6	!!!!	!!	.	_	2	punct	_	O
+
+1	👊🏽	👊🏽	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/ryTKs8Bv3Z	#hlink#	ADD	pos2=NN	0	root	_	O
+

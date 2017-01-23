@@ -1,0 +1,32 @@
+1	people	people	NNS	_	5	nsubj	_	O
+2	did	do	VBD	_	5	aux	_	O
+3	n't	not	RB	_	5	neg	_	O
+4	necessarily	necessarily	RB	_	5	advmod	_	O
+5	become	become	VB	pos2=VBN	0	root	_	O
+6	"	"	``	pos2=''	8	punct	_	O
+7	less	less	RBR	pos2=JJR	8	advmod	_	O
+8	sick	sick	JJ	_	5	acomp	_	O
+9	"	"	''	_	8	punct	_	O
+10	by	by	IN	_	5	prep	_	O
+11	having	have	VBG	_	10	pcomp	_	O
+12	Medicaid	medicaid	NNP	_	11	dobj	_	U-ORG
+13	...	..	.	pos2=,	5	punct	_	O
+
+1	but	but	CC	_	3	cc	_	O
+2	there	there	EX	_	3	expl	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	lot	lot	NN	_	3	attr	_	O
+6	to	to	TO	_	7	aux	_	O
+7	unpack	unpack	VB	_	5	relcl	_	O
+8	there	there	RB	pos2=EX	7	advmod	_	O
+9	&	&	CC	_	7	cc	_	O
+10	access	access	NN	pos2=VB	7	conj	_	O
+11	to	to	IN	pos2=TO	10	prep	_	O
+12	cost	cost	NN	pos2=VB	13	compound	_	O
+13	shielding	shielding	NN	_	11	pobj	_	O
+14	is	be	VBZ	_	10	ccomp	_	O
+15	1	0	CD	_	17	nmod	_	B-DATE
+16	st	st	NN	_	17	compound	_	L-DATE
+17	step	step	NN	_	14	attr	_	O
+

@@ -1,0 +1,21 @@
+1	#FunHappyCalendar	#funhappycalendar	NNP	pos2=NN	2	compound	_	O
+2	Tip	tip	NNP	pos2=NN	7	nsubj	_	O
+3	for	for	IN	_	2	prep	_	O
+4	November	november	NNP	_	3	pobj	_	O
+5	26th:	0th:	TO	pos2=NN	7	aux	_	O
+6	"	"	``	_	7	punct	_	O
+7	Make	make	VB	_	0	root	_	O
+8	enough	enough	JJ	_	9	nmod	_	O
+9	soup	soup	NN	_	7	dobj	_	O
+10	to	to	TO	_	11	aux	_	O
+11	share	share	VB	_	9	relcl	_	O
+12	.	.	.	_	7	punct	_	O
+13	"	"	''	_	7	punct	_	O
+
+1	#Thanksgiving	#thanksgiving	VBG	pos2=NNP	0	root	_	O
+2	#LeftoversAvailable	#leftoversavailable	NN	pos2=ADD	1	dobj	_	O
+3	at	at	IN	_	1	prep	_	O
+4	:	:	:	_	3	punct	_	O
+5	…	…	NFP	pos2=-LRB-	6	punct	_	O
+6	https://t.co/N9i4hAlUEK	#hlink#	ADD	_	3	pobj	_	O
+

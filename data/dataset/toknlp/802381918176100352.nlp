@@ -1,0 +1,28 @@
+1	i	I	PRP	_	2	nsubj	_	O
+2	thought	think	VBD	pos2=VBP	0	root	_	O
+3	yall	yall	PRP	pos2=IN	4	nmod	_	O
+4	liberals	liberal	NNS	_	6	nsubjpass	_	O
+5	are	be	VBP	_	6	auxpass	_	O
+6	supposed	suppose	VBN	_	2	ccomp	_	O
+7	to	to	TO	_	8	aux	_	O
+8	love	love	VB	_	6	xcomp	_	O
+9	everyone	everyone	NN	_	8	dobj	_	O
+10	?	?	.	_	2	punct	_	O
+
+1	oh	oh	UH	_	2	discourse	_	O
+2	wait	wait	VB	pos2=UH	0	root	_	O
+3	..	..	.	pos2=,	2	punct	_	O
+
+1	we	we	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	agree	agree	VB	pos2=VBP	9	ccomp	_	O
+5	with	with	IN	_	4	prep	_	O
+6	you	you	PRP	_	5	pobj	_	O
+7	so	so	RB	pos2=IN	9	advmod	_	O
+8	it	it	PRP	_	9	nsubj	_	O
+9	's	's	VBZ	_	0	root	_	O
+10	okay	okay	JJ	_	9	acomp	_	O
+11	#hypocrites	#hypocrites	NNS	pos2=ADD	12	nmod	_	O
+12	https://t.co/rykuBqYNMV	#hlink#	ADD	_	9	dep	_	O
+

@@ -1,0 +1,13 @@
+1	Pope	pope	NNP	_	2	compound	_	O
+2	Francis	francis	NNP	_	3	nsubj	_	U-PERSON
+3	was	be	VBD	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	nightclub	nightclub	NN	_	6	compound	_	O
+6	bouncer	bouncer	NN	_	3	attr	_	O
+7	before	before	IN	_	9	mark	_	O
+8	he	he	PRP	_	9	nsubj	_	O
+9	was	be	VBD	_	3	advcl	_	O
+10	the	the	DT	_	11	det	_	O
+11	pope	pope	NN	pos2=NNP	9	attr	_	O
+12	.	.	.	_	3	punct	_	O
+

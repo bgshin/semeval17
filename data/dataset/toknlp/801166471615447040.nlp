@@ -1,0 +1,24 @@
+1	Chinese	chinese	JJ	_	2	nmod	_	U-NORP
+2	officials	official	NNS	_	4	nsubj	_	O
+3	are	be	VBP	_	4	aux	_	O
+4	censoring	censor	VBG	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	term	term	NN	_	4	dobj	_	O
+7	"	"	``	pos2=''	9	punct	_	O
+8	Kim	kim	NNP	_	9	compound	_	B-PERSON
+9	Fatty	fatty	NNP	pos2=JJ	6	appos	_	L-PERSON
+10	the	the	DT	_	11	det	_	O
+11	Third	#ord#	NNP	pos2=NNPS	9	appos	_	U-ORDINAL
+12	,	,	,	_	9	punct	_	O
+13	"	"	''	pos2=``	9	punct	_	O
+14	a	a	DT	_	15	det	_	O
+15	nickname	nickname	NN	_	9	appos	_	O
+16	for	for	IN	_	15	prep	_	O
+17	North	north	NNP	_	18	compound	_	B-GPE
+18	Korea	korea	NNP	_	22	poss	_	I-GPE
+19	's	's	POS	_	18	case	_	L-GPE
+20	Kim	kim	NNP	_	22	compound	_	B-PERSON
+21	Jong	jong	NNP	_	22	compound	_	L-PERSON
+22	Un	un	NNP	_	16	pobj	_	O
+23	https://t.co/Nkq0BHWXlS	#hlink#	ADD	_	6	appos	_	O
+

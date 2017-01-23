@@ -1,0 +1,8 @@
+1	@NikkiExDee	@nikkiexdee	NNP	pos2=XX	3	compound	_	O
+2	David	david	NNP	_	3	compound	_	B-PERSON
+3	Blaine	blaine	NNP	_	5	dep	_	L-PERSON
+4	:	:	:	_	5	punct	_	O
+5	Real	real	JJ	pos2=NNP	0	root	_	O
+6	or	or	CC	_	5	cc	_	O
+7	Magic	magic	NNP	pos2=JJ	5	conj	_	O
+

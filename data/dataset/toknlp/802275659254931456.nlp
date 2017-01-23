@@ -1,0 +1,12 @@
+1	Is	be	VBZ	_	0	root	_	O
+2	there	there	EX	_	1	expl	_	O
+3	anything	anything	NN	_	1	attr	_	O
+4	Tim	tim	NNP	_	5	compound	_	B-PERSON
+5	Duncan	duncan	NNP	_	8	nsubj	_	L-PERSON
+6	ca	can	MD	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	do	do	VB	_	3	relcl	_	O
+9	?	?	.	_	1	punct	_	O
+
+1	https://t.co/KxzHQ955Vn	#hlink#	ADD	_	0	root	_	U-ORG
+

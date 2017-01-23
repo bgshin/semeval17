@@ -1,0 +1,22 @@
+1	@edmeyer_able	@edmeyer_able	JJ	pos2=VB	4	nmod	_	O
+2	@SpeakerRyan	@speakerryan	JJ	pos2=MD	0	root	_	O
+3	@mike_pence	@mike_pence	IN	pos2=PRP$	2	prep	_	O
+4	HELL	hell	NN	pos2=UH	3	pobj	_	O
+5	NO	no	UH	pos2=DT	2	discourse	_	O
+6	!	!	.	_	2	punct	_	O
+
+1	the	the	DT	_	3	det	_	O
+2	lying	lie	VBG	pos2=NN	3	nmod	_	O
+3	bastard	bastard	NN	_	4	nsubj	_	O
+4	wo	wo	MD	pos2=RB	0	root	_	O
+5	n't	not	RB	_	4	neg	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	ryan	ryan	NN	pos2=JJ	0	root	_	O
+2	,	,	,	_	1	punct	_	O
+3	pence	penny	NN	pos2=NNS	1	conj	_	O
+4	,	,	,	_	3	punct	_	O
+5	tRump	trump	NN	pos2=JJ	7	nmod	_	O
+6	disgusting	disgusting	JJ	_	7	nmod	_	O
+7	maggots	maggot	NNS	_	3	conj	_	O
+

@@ -1,0 +1,32 @@
+1	Army	army	NNP	_	2	compound	_	B-ORG
+2	Corps	corps	NNP	_	3	nsubjpass	_	L-ORG
+3	Issued	issue	VBN	pos2=NNP	0	root	_	O
+4	Dec.	dec.	NNP	_	5	compound	_	B-DATE
+5	5th	#ord#	NN	pos2=JJ	6	compound	_	L-DATE
+6	Deadline	deadline	NN	pos2=NNP	3	dobj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	ALL	all	DT	pos2=NNP	9	det	_	O
+9	Camps	camp	NNS	pos2=NNPS	7	pobj	_	O
+10	at	at	IN	_	9	prep	_	O
+11	Standing	standing	NNP	pos2=VBG	12	compound	_	O
+12	Rock	rock	NNP	_	10	pobj	_	O
+13	to	to	TO	pos2=IN	14	aux	_	O
+14	Clear	clear	VB	pos2=NNP	6	advcl	_	O
+15	Out	out	RP	pos2=RB	14	prt	_	O
+16	.	.	.	_	3	punct	_	O
+
+1	Funny	funny	JJ	pos2=UH	4	advcl	_	O
+2	,	,	,	_	4	punct	_	O
+3	this	this	DT	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	n't	not	RB	pos2=IN	4	neg	_	O
+6	the	the	DT	_	9	det	_	O
+7	line	line	NN	_	9	compound	_	O
+8	Obama	obama	NNP	_	9	compound	_	U-PERSON
+9	admin	admin	NN	_	4	attr	_	O
+10	took	take	VBD	_	13	nmod	_	O
+11	w	w	IN	pos2=RB	7	prep	_	O
+12	/	/	HYPH	pos2=SYM	11	punct	_	O
+13	Bundy	bundy	NNP	_	14	compound	_	O
+14	#NoDAPL	#nodapl	NNP	pos2=ADD	11	pobj	_	O
+

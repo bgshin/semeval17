@@ -1,0 +1,18 @@
+1	@jamescharles	@jamescharles	UH	pos2=NNS	13	discourse	_	O
+2	just	just	RB	_	5	advmod	_	O
+3	because	because	IN	_	5	mark	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	use	use	VBP	pos2=VB	13	advcl	_	O
+6	products	product	NNS	_	5	dobj	_	O
+7	that	that	WDT	_	8	nsubj	_	O
+8	are	be	VBP	_	6	relcl	_	O
+9	not	not	RB	_	8	neg	_	O
+10	vegan	vegan	JJ	_	8	acomp	_	O
+11	does	do	VBZ	_	13	aux	_	O
+12	n't	not	RB	_	13	neg	_	O
+13	mean	mean	VB	_	0	root	_	O
+14	you	you	PRP	_	15	nsubj	_	O
+15	support	support	VBP	pos2=NN	13	ccomp	_	O
+16	animal	animal	NN	_	17	compound	_	O
+17	testing	testing	NN	_	15	dobj	_	O
+

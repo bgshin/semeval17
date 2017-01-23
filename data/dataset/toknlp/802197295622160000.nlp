@@ -1,0 +1,12 @@
+1	So	so	RB	_	3	advmod	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	see	see	VBP	_	0	root	_	O
+4	David	david	NNP	_	5	compound	_	B-PERSON
+5	Blaine	blaine	NNP	_	9	nsubj	_	L-PERSON
+6	still	still	RB	_	9	advmod	_	O
+7	out	out	RB	pos2=IN	8	advmod	_	O
+8	here	here	RB	_	9	advmod	_	O
+9	being	be	VBG	_	3	ccomp	_	O
+10	a	a	DT	_	11	det	_	O
+11	witch	witch	NN	_	9	attr	_	O
+

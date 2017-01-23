@@ -1,0 +1,22 @@
+1	@edhenry	@edhenry	UH	pos2=NN	4	discourse	_	O
+2	@transition2017	@transition0	NN	pos2=PRP$	4	nsubj	_	O
+3	Trump	trump	NNP	pos2=NN	4	nsubj	_	U-ORG
+4	owes	owe	VBZ	_	0	root	_	O
+5	nothing	nothing	NN	_	4	dobj	_	O
+6	2	0	CD	_	5	nmod	_	U-CARDINAL
+7	national	national	JJ	_	9	nmod	_	O
+8	review	review	NN	_	9	compound	_	O
+9	crowd	crowd	NN	pos2=IN	14	compound	_	O
+10	Those	those	DT	_	11	det	_	O
+11	conservatives	conservative	NNS	_	12	nsubj	_	O
+12	gave	give	VBD	_	4	ccomp	_	O
+13	us	us	PRP	_	12	dative	_	O
+14	wars	war	NNS	_	12	dobj	_	O
+15	&	&	CC	_	14	cc	_	O
+16	big	big	JJ	_	17	nmod	_	O
+17	spending	spending	NN	_	14	conj	_	O
+18	never	never	RB	_	19	neg	_	O
+19	delivered	deliver	VBD	pos2=VBN	12	conj	_	O
+20	NO	no	DT	pos2=NNP	21	det	_	O
+21	Mitt	mitt	NNP	_	19	dobj	_	U-PERSON
+

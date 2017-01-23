@@ -1,0 +1,27 @@
+1	Nuclear	nuclear	JJ	_	2	nmod	_	O
+2	explosions	explosion	NNS	_	3	nsubj	_	O
+3	lead	lead	VBP	pos2=VB	0	root	_	O
+4	to	to	IN	_	3	prep	_	O
+5	nuclear	nuclear	JJ	_	6	nmod	_	O
+6	winter	winter	NN	_	4	pobj	_	O
+7	,	,	,	_	10	punct	_	O
+8	a	a	DT	_	9	det	_	O
+9	man	man	NN	_	10	nsubj	_	O
+10	caused	cause	VBN	pos2=VBD	5	ccomp	_	O
+11	effect	effect	NN	_	10	dobj	_	O
+12	to	to	TO	_	13	aux	_	O
+13	be	be	VB	_	10	advcl	_	O
+14	sure	sure	JJ	_	13	acomp	_	O
+15	,	,	,	_	10	punct	_	O
+16	but	but	CC	_	10	cc	_	O
+17	not	not	RB	_	18	neg	_	O
+18	warming	warm	VBG	pos2=NN	10	conj	_	O
+19	.	.	.	_	3	punct	_	O
+
+1	Warming	warming	NN	pos2=NNP	2	nsubj	_	O
+2	caused	cause	VBN	_	0	root	_	O
+3	by	by	IN	_	2	agent	_	O
+4	burni	burni	VBG	pos2=GW	3	pobj	_	O
+5	…	…	NFP	pos2=-LRB-	6	punct	_	O
+6	https://t.co/zWXC9te0bN	#hlink#	ADD	_	1	appos	_	O
+

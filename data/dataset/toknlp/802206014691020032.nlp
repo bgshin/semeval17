@@ -1,0 +1,23 @@
+1	Make	make	VB	_	0	root	_	O
+2	this	this	DT	_	5	nsubj	_	O
+3	Black	black	NNP	pos2=JJ	4	compound	_	B-EVENT
+4	Friday	friday	NNP	_	5	nsubj	_	L-EVENT
+5	matter	matter	VB	pos2=NN	1	ccomp	_	O
+6	a	a	DT	_	7	det	_	O
+7	#BlackLivesMatter	#blacklivesmatter	NN	pos2=NNP	5	dobj	_	O
+8	by	by	IN	_	5	prep	_	O
+9	spending	spend	VBG	_	8	pcomp	_	O
+10	your	your	PRP$	_	11	poss	_	O
+11	time	time	NN	_	9	dobj	_	O
+12	and	and	CC	_	11	cc	_	O
+13	#NotOneDime	#notonedime	NN	pos2=NNS	11	conj	_	O
+14	.	.	.	_	1	punct	_	O
+
+1	Join	join	VB	pos2=VBP	0	root	_	O
+2	a	a	DT	_	3	det	_	O
+3	protest	protest	NN	_	1	dobj	_	O
+4	and	and	CC	_	3	cc	_	O
+5	vote	vote	NN	pos2=VB	3	conj	_	O
+6	through	through	IN	_	1	prep	_	O
+7	boycott	boycott	NN	pos2=UH	6	pobj	_	O
+

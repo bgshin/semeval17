@@ -1,0 +1,19 @@
+1	5	0	CD	_	3	nmod	_	U-CARDINAL
+2	more	more	JJR	pos2=RBR	3	nmod	_	O
+3	sleeps	sleep	NNS	pos2=VBZ	0	root	_	O
+4	to	to	IN	pos2=TO	3	prep	_	O
+5	Beauty	beauty	NNP	pos2=NN	4	pobj	_	B-ORG
+6	&	&	CC	_	5	cc	_	I-ORG
+7	the	the	DT	_	8	det	_	I-ORG
+8	Beast	beast	NNP	pos2=NN	5	conj	_	L-ORG
+9	.	.	.	_	3	punct	_	O
+
+1	#BeautyAndTheBeast	#beautyandthebeast	ADD	pos2=RB	2	det	_	O
+2	Best	good	JJS	_	7	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	luck	luck	NN	_	3	pobj	_	O
+5	to	to	IN	_	2	prep	_	O
+6	all	all	DT	_	5	pobj	_	O
+7	involved	involve	VBN	_	0	root	_	O
+8	.	.	.	_	7	punct	_	O
+

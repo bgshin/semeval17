@@ -1,0 +1,15 @@
+1	Divests	divest	VBZ	pos2=NNS	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	🔊Dakota	🔊dakota	NNP	pos2=``	4	compound	_	O
+2	Access	access	NNP	pos2=GW	4	compound	_	O
+3	PipelineMajor	pipelinemajor	NNP	_	4	compound	_	O
+4	Company	company	NNP	pos2=NN	0	root	_	O
+5	w	w	IN	pos2=RB	4	prep	_	O
+6	/	/	HYPH	pos2=SYM	5	punct	_	O
+7	actual	actual	JJ	_	9	nmod	_	O
+8	ETHICAL	ethical	JJ	_	9	nmod	_	O
+9	STANDARDS	standard	NNS	pos2=NNPS	5	pobj	_	O
+10	WITHD	withd	IN	pos2=NNP	9	prep	_	O
+11	RAWShttps://t.co/dHLWwR6vUB#PEOPLE..OVER..PROFIT	#hlink#	ADD	pos2=NN	10	pobj	_	O
+

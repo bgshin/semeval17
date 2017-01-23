@@ -1,0 +1,17 @@
+1	Making	make	VBG	pos2=NNP	7	advcl	_	O
+2	News	news	NNP	pos2=NN	1	dobj	_	B-ORG
+3	Today	today	NN	_	1	npadvmod	_	L-ORG
+4	:	:	:	pos2=POS	7	punct	_	O
+5	Venezuelan	venezuelan	JJ	_	6	nmod	_	U-NORP
+6	President	president	NNP	pos2=NN	7	nsubj	_	O
+7	calls	call	VBZ	_	0	root	_	O
+8	nephews	nephew	NNS	_	11	poss	_	O
+9	'	'	POS	pos2=``	8	case	_	O
+10	drug	drug	NN	_	11	compound	_	O
+11	conviction	conviction	NN	_	7	dobj	_	O
+12	'	'	''	pos2=``	7	punct	_	O
+13	US	us	NNP	pos2=NN	14	compound	_	U-GPE
+14	imperialism	imperialism	NN	_	11	appos	_	O
+15	'	'	''	pos2=POS	7	punct	_	O
+16	https://t.co/lH37FUchsK	#hlink#	ADD	pos2=NN	7	dobj	_	O
+

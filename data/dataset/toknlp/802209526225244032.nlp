@@ -1,0 +1,20 @@
+1	Trump	trump	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	wants	want	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	safe	safe	JJ	_	5	nmod	_	O
+5	space	space	NN	_	2	dobj	_	O
+6	?	?	.	_	2	punct	_	O
+
+1	LGBT	lgbt	JJ	pos2=NN	2	nmod	_	O
+2	people	people	NNS	_	4	nsubj	_	O
+3	must	must	MD	_	4	aux	_	O
+4	call	call	VB	_	0	root	_	O
+5	out	out	RP	pos2=IN	4	prt	_	O
+6	his	his	PRP$	_	7	poss	_	O
+7	hypocrisy	hypocrisy	NN	_	4	dobj	_	O
+8	,	,	,	_	12	punct	_	O
+9	blogs	blog	NNS	pos2=GW	12	nmod	_	O
+10	@Liam_Beattie	@liam_beattie	GW	pos2=IN	12	nmod	_	O
+11	https://t.co/ttcNdtmI2t	#hlink#	ADD	pos2=GW	12	nmod	_	O
+12	https://t.co/7H1kXibnSY	#hlink#	ADD	_	4	dep	_	U-ORG
+

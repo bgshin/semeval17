@@ -1,0 +1,25 @@
+1	When	when	WRB	_	4	advmod	_	O
+2	Donald	donald	NNP	_	3	compound	_	B-PERSON
+3	Trump	trump	NNP	_	4	nsubj	_	L-PERSON
+4	talks	talk	VBZ	pos2=NNS	11	advcl	_	O
+5	about	about	IN	_	4	prep	_	O
+6	building	build	VBG	_	5	pcomp	_	O
+7	a	a	DT	_	8	det	_	O
+8	wall	wall	NN	_	6	dobj	_	O
+9	,	,	,	_	11	punct	_	O
+10	he	he	PRP	_	11	nsubj	_	O
+11	's	's	VBZ	_	14	aux	_	O
+12	really	really	RB	_	14	advmod	_	O
+13	just	just	RB	_	14	advmod	_	O
+14	talking	talk	VBG	_	0	root	_	O
+15	about	about	IN	_	14	prep	_	O
+16	having	have	VBG	_	15	pcomp	_	O
+17	Steve	steve	NNP	_	18	compound	_	B-PERSON
+18	Mason	mason	NNP	_	19	nsubj	_	L-PERSON
+19	stand	stand	VB	_	16	ccomp	_	O
+20	on	on	IN	_	19	prep	_	O
+21	the	the	DT	_	24	det	_	O
+22	Mexican	mexican	JJ	_	24	nmod	_	U-NORP
+23	border	border	NN	_	24	compound	_	O
+24	#Flyers	#flyers	NNS	pos2=NNP	20	pobj	_	O
+

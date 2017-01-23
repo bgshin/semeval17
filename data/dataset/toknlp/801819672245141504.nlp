@@ -1,0 +1,20 @@
+1	@Kurisu_Kitsune	@kurisu_kitsune	UH	pos2=NN	6	discourse	_	O
+2	@AmongTheRuins00	@amongtheruins0	UH	pos2=NN	6	discourse	_	O
+3	I	I	PRP	_	6	nsubj	_	O
+4	do	do	VBP	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	think	think	VB	_	0	root	_	O
+7	any	any	DT	pos2=RB	9	det	_	O
+8	alt	alt	JJ	pos2=NN	9	nmod	_	O
+9	rightists	rightist	NNS	_	13	nsubj	_	O
+10	*	*	NFP	pos2=VBP	13	punct	_	O
+11	actually	actually	RB	_	13	advmod	_	O
+12	*	*	NFP	pos2=SYM	13	punct	_	O
+13	do	do	VB	pos2=VBP	6	ccomp	_	O
+14	that	that	DT	_	13	dobj	_	O
+15	which	which	WDT	_	16	nsubj	_	O
+16	was	be	VBD	_	14	relcl	_	O
+17	my	my	PRP$	_	18	poss	_	O
+18	point	point	NN	_	16	attr	_	O
+19	.	.	.	_	6	punct	_	O
+

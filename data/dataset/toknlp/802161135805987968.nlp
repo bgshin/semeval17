@@ -1,0 +1,9 @@
+1	#jerusalem	#jerusalem	UH	pos2=PRP	4	discourse	_	O
+2	is	be	VBZ	_	4	aux	_	O
+3	now	now	RB	_	4	advmod	_	O
+4	trending	trend	VBG	_	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	Mala	mala	NNP	pos2=GW	5	pobj	_	O
+7	ysiahttps://t.co/3Tp6hN0Inf	#hlink#	ADD	pos2=POS	8	nmod	_	O
+8	https://t.co/9duaXvlf3P	#hlink#	ADD	_	4	dep	_	U-ORG
+

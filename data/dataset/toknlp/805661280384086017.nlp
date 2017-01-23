@@ -1,0 +1,21 @@
+1	statistically	statistically	RB	_	7	advmod	_	O
+2	,	,	,	_	7	punct	_	O
+3	"	"	``	_	5	punct	_	O
+4	bad	bad	JJ	_	5	nmod	_	O
+5	luck	luck	NN	_	7	nsubj	_	O
+6	"	"	''	_	5	punct	_	O
+7	is	be	VBZ	_	0	root	_	O
+8	just	just	RB	_	10	advmod	_	O
+9	as	as	RB	pos2=IN	10	advmod	_	O
+10	valid	valid	JJ	_	7	acomp	_	O
+11	a	a	DT	_	12	det	_	O
+12	cause	cause	NN	_	7	attr	_	O
+13	for	for	IN	_	12	prep	_	O
+14	the	the	DT	_	17	det	_	B-ORG
+15	Electoral	electoral	NNP	_	16	compound	_	I-ORG
+16	College	college	NNP	pos2=NN	17	compound	_	L-ORG
+17	result	result	NN	pos2=VBP	13	pobj	_	O
+18	as	as	IN	_	17	prep	_	O
+19	anything	anything	NN	_	18	pobj	_	O
+20	else	else	RB	pos2=JJ	19	advmod	_	O
+

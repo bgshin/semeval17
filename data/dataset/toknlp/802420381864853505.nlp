@@ -1,0 +1,17 @@
+1	Innovative	innovative	JJ	_	2	nmod	_	O
+2	#Surgery	#surgery	NNP	pos2=NN	3	npadvmod	_	O
+3	Guided	guide	VBN	_	16	dep	_	O
+4	by	by	IN	_	3	agent	_	O
+5	#	#	NN	pos2=$	6	compound	_	U-CARDINAL
+6	3DPrinting	0dprinting	NN	pos2=NNP	4	pobj	_	O
+7	Alleviates	alleviate	VBZ	_	3	conj	_	O
+8	Pain	pain	NN	pos2=NNP	7	dobj	_	O
+9	for	for	IN	_	8	prep	_	O
+10	Champion	champion	NNP	pos2=NN	13	compound	_	B-ORG
+11	Sled	sled	NNP	pos2=NN	13	compound	_	I-ORG
+12	Hockey	hockey	NNP	_	13	compound	_	I-ORG
+13	Player	player	NNP	pos2=NN	9	pobj	_	L-ORG
+14	—	-	:	pos2=GW	16	punct	_	O
+15	https://t.co/My7tPEtSp9	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/X3h08kd9Tf	#hlink#	ADD	_	0	root	_	U-ORG
+

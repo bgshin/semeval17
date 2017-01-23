@@ -1,0 +1,17 @@
+1	‘	'	``	pos2=SYM	6	punct	_	O
+2	Google	google	NNP	_	4	compound	_	O
+3	Earth	earth	NNP	_	4	compound	_	O
+4	VR	vr	NNP	pos2=NN	6	poss	_	O
+5	’	'	POS	pos2=''	4	case	_	O
+6	Launches	launches	NNP	pos2=NNS	0	root	_	O
+7	For	for	IN	_	6	prep	_	O
+8	Free	free	NNP	pos2=JJ	7	pcomp	_	U-PERSON
+9	To	to	TO	pos2=NNP	10	aux	_	O
+10	Let	let	VB	_	6	advcl	_	O
+11	You	you	PRP	_	12	nsubj	_	O
+12	Fly	fly	VB	pos2=NNP	10	ccomp	_	O
+13	Around	around	IN	_	12	prep	_	O
+14	The	the	DT	_	15	det	_	O
+15	World	world	NNP	pos2=NN	13	pobj	_	O
+16	https://t.co/xlFjVEtGUX	#hlink#	ADD	_	12	npadvmod	_	O
+

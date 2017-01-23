@@ -1,0 +1,21 @@
+1	But	but	CC	_	4	cc	_	O
+2	Ieyasu	ieyasu	NNP	_	3	compound	_	B-PERSON
+3	Tokugawa	tokugawa	NNP	_	4	nsubj	_	L-PERSON
+4	conducted	conduct	VBD	pos2=VBN	0	root	_	O
+5	blade	blade	NN	_	6	compound	_	O
+6	regulation	regulation	NN	_	4	dobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	gun	gun	NN	_	9	compound	_	O
+9	control	control	NN	_	6	conj	_	O
+10	for	for	IN	_	4	prep	_	O
+11	300	0	CD	_	14	nmod	_	U-CARDINAL
+12	years.A	years.a	NN	pos2=NNP	14	compound	_	O
+13	gun	gun	NN	_	14	compound	_	O
+14	craftsman	craftsman	NN	_	10	pobj	_	O
+15	has	have	VBZ	_	16	aux	_	O
+16	become	become	VBN	_	4	conj	_	O
+17	a	a	DT	_	19	det	_	O
+18	fireworks	firework	NNS	pos2=NN	19	compound	_	O
+19	craftsman	craftsman	NN	_	16	attr	_	O
+20	.	.	.	_	4	punct	_	O
+

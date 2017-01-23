@@ -1,0 +1,26 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	took	take	VBD	_	0	root	_	O
+3	one	#crd#	CD	_	4	nmod	_	U-CARDINAL
+4	look	look	NN	pos2=VB	2	dobj	_	O
+5	at	at	IN	_	4	prep	_	O
+6	gamefaqs	gamefaqs	NNS	pos2=NN	5	pobj	_	O
+7	and	and	CC	_	2	cc	_	O
+8	one	#crd#	CD	_	9	nmod	_	U-CARDINAL
+9	thread	thread	NN	_	10	nsubj	_	O
+10	is	be	VBZ	_	2	conj	_	O
+11	just	just	RB	_	12	advmod	_	O
+12	one	#crd#	CD	_	13	nmod	_	U-CARDINAL
+13	dude	dude	NN	_	10	attr	_	O
+14	screaming	scream	VBG	_	13	acl	_	O
+15	about	about	IN	_	14	prep	_	O
+16	how	how	WRB	_	17	advmod	_	O
+17	much	much	RB	pos2=JJ	18	advmod	_	O
+18	better	good	JJR	_	21	nmod	_	O
+19	Dragon	dragon	NNP	_	21	poss	_	O
+20	's	's	POS	_	19	case	_	O
+21	quest	quest	NN	_	15	pobj	_	O
+22	and	and	CC	_	21	cc	_	O
+23	Pers	pers	NNPS	pos2=GW	21	conj	_	B-PERSON
+24	…	…	NFP	pos2=-LRB-	21	acl	_	L-PERSON
+25	https://t.co/aqeluJ9Sdx	#hlink#	ADD	_	21	appos	_	O
+

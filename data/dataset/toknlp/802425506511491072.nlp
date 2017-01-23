@@ -1,0 +1,13 @@
+1	You	you	PRP	_	3	nsubj	_	O
+2	both	both	DT	pos2=CC	1	appos	_	O
+3	collect	collect	VBP	_	0	root	_	O
+4	social	social	JJ	_	5	nmod	_	O
+5	security	security	NN	_	3	dobj	_	O
+6	,	,	,	_	3	punct	_	O
+7	stop	stop	VB	_	3	conj	_	O
+8	fighting	fight	VBG	pos2=NN	7	xcomp	_	O
+9	amongst	amongst	IN	_	8	prep	_	O
+10	each	each	DT	_	11	det	_	O
+11	other	other	JJ	_	9	pobj	_	O
+12	https://t.co/82Nkd4aPUq	#hlink#	ADD	pos2=NN	7	dobj	_	U-ORG
+

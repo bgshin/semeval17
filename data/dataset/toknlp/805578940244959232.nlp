@@ -1,0 +1,29 @@
+1	For	for	IN	_	8	prep	_	O
+2	8	0	CD	_	3	nmod	_	B-DATE
+3	years	year	NNS	_	1	pobj	_	L-DATE
+4	,	,	,	_	8	punct	_	O
+5	liberals	liberal	NNS	_	8	nsubj	_	O
+6	like	like	IN	pos2=VBP	5	prep	_	O
+7	@peterdaou	@peterdaou	PRP	pos2=XX	6	pobj	_	O
+8	hated	hate	VBD	pos2=VBN	0	root	_	O
+9	GWB	gwb	NNP	pos2=NN	8	dobj	_	O
+10	for	for	IN	_	8	prep	_	O
+11	drone	drone	NN	_	12	compound	_	O
+12	strikes	strike	NNS	_	10	pobj	_	O
+13	&	&	CC	_	12	cc	_	O
+14	the	the	DT	_	16	det	_	O
+15	NSA	nsa	NN	pos2=NNP	16	compound	_	O
+16	spying	spying	NN	pos2=VBG	12	conj	_	O
+17	.	.	.	_	8	punct	_	O
+
+1	For	for	IN	_	5	prep	_	O
+2	8	0	CD	_	3	nmod	_	B-DATE
+3	years	year	NNS	_	1	pobj	_	L-DATE
+4	he	he	PRP	_	5	nsubj	_	O
+5	ignored	ignore	VBD	_	0	root	_	O
+6	Obama	obama	NNP	_	5	dobj	_	U-PERSON
+7	's	's	POS	_	6	case	_	O
+8	...	..	.	pos2=,	5	punct	_	O
+
+1	@laurabrownesore	@laurabrownesore	UH	pos2=VB	0	root	_	O
+

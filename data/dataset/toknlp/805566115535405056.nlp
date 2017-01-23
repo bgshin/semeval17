@@ -1,0 +1,14 @@
+1	Comelec	comelec	NNP	_	2	nsubj	_	U-ORG
+2	reminds	remind	VBZ	_	0	root	_	O
+3	public	public	JJ	pos2=NN	2	dobj	_	O
+4	that	that	IN	pos2=DT	6	mark	_	O
+5	voter	voter	NN	_	7	poss	_	O
+6	's	's	POS	_	5	case	_	O
+7	registration	registration	NN	_	2	dobj	_	O
+8	on	on	IN	_	7	prep	_	O
+9	going	go	VBG	_	8	pcomp	_	O
+10	now	now	RB	_	9	advmod	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	@PhilippineStar	@philippinestar	XX	pos2=GW	0	root	_	O
+

@@ -1,0 +1,28 @@
+1	#VanessaHartley	#vanessahartley	XX	pos2=ADD	8	dep	_	O
+2	Hating	hate	VBG	_	8	csubj	_	O
+3	people	people	NNS	_	2	dobj	_	O
+4	because	because	IN	_	2	prep	_	O
+5	of	of	IN	_	4	pcomp	_	O
+6	their	their	PRP$	_	7	poss	_	O
+7	color	color	NN	_	4	pobj	_	O
+8	is	be	VBZ	_	0	root	_	O
+9	wrong	wrong	JJ	_	8	acomp	_	O
+10	&	&	CC	_	8	cc	_	O
+11	it	it	PRP	_	14	nsubj	_	O
+12	does	do	VBZ	_	14	aux	_	O
+13	nt	nt	RB	_	14	advmod	_	O
+14	matter	matter	VB	pos2=RB	8	conj	_	O
+15	which	which	WDT	_	16	det	_	O
+16	color	color	NN	_	17	nsubj	_	O
+17	does	do	VBZ	_	14	ccomp	_	O
+18	the	the	DT	_	19	det	_	O
+19	hating	hating	NN	pos2=VBG	17	dobj	_	O
+20	.	.	.	_	14	punct	_	O
+
+1	Its	its	PRP$	_	6	poss	_	O
+2	plain	plain	JJ	pos2=NN	6	nmod	_	O
+3	wrong	wrong	JJ	pos2=NN	5	nmod	_	O
+4	-	-	HYPH	pos2=:	5	punct	_	O
+5	Muhammad	muhammad	NNP	_	6	compound	_	B-PERSON
+6	Ali	ali	NNP	_	0	root	_	L-PERSON
+

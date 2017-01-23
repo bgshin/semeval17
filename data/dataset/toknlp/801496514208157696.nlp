@@ -1,0 +1,29 @@
+1	Either	either	DT	pos2=CC	2	det	_	O
+2	way	way	NN	_	0	root	_	O
+3	the	the	DT	_	6	det	_	O
+4	hail	hail	NN	_	5	compound	_	O
+5	victory	victory	NN	_	6	compound	_	O
+6	move	move	NN	pos2=VB	7	nsubj	_	O
+7	reflects	reflect	VBZ	_	2	relcl	_	O
+8	well	well	RB	pos2=UH	7	advmod	_	O
+9	on	on	IN	_	7	prep	_	O
+10	Richard	richard	NNP	_	11	compound	_	B-PERSON
+11	Spencer	spencer	NNP	_	9	pobj	_	L-PERSON
+12	.	.	.	_	2	punct	_	O
+
+1	Other	other	JJ	_	3	nmod	_	O
+2	alt	alt	JJ	pos2=NN	3	nmod	_	O
+3	rightists	rightist	NNS	_	6	nsubj	_	O
+4	should	should	MD	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	be	be	VB	_	0	root	_	O
+7	afraid	afraid	JJ	_	6	acomp	_	O
+8	to	to	TO	_	9	aux	_	O
+9	do	do	VB	_	7	xcomp	_	O
+10	the	the	DT	_	11	det	_	O
+11	same	same	JJ	pos2=NN	9	dobj	_	O
+12	in	in	IN	_	9	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	future	future	NN	_	12	pobj	_	O
+15	.	.	.	_	6	punct	_	O
+

@@ -1,0 +1,14 @@
+1	Today	today	NN	_	6	npadvmod	_	U-DATE
+2	in	in	IN	_	6	prep	_	O
+3	1999	0	CD	_	2	pobj	_	U-DATE
+4	The	the	DT	pos2=NNP	5	det	_	O
+5	#UnitedNations	#unitednations	NNS	pos2=NNP	6	nsubj	_	O
+6	establishes	establish	VBZ	_	0	root	_	O
+7	#InternationalDayForTheEliminationOfViolenceAgainstWomen	#internationaldayfortheeliminationofviolenceagainstwomen	ADD	pos2=NNS	6	dobj	_	O
+8	and	and	CC	_	6	cc	_	O
+9	is	be	VBZ	_	6	conj	_	O
+10	a	a	DT	_	11	det	_	O
+11	rem	rem	NN	_	9	attr	_	O
+12	…	…	NFP	pos2=:	13	punct	_	O
+13	https://t.co/QHUPCPp4qd	#hlink#	ADD	_	11	nmod	_	O
+

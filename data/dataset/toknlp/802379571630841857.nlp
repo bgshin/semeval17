@@ -1,0 +1,22 @@
+1	How	how	WRB	_	4	advmod	_	O
+2	Trump	trump	NNP	pos2=NN	4	nsubj	_	U-PERSON
+3	can	can	MD	_	4	aux	_	O
+4	repeal	repeal	VB	_	0	root	_	O
+5	Obamacare	obamacare	NNP	_	4	dobj	_	U-PERSON
+6	right	right	RB	_	7	advmod	_	O
+7	away	away	RB	_	4	advmod	_	O
+8	...	..	.	pos2=,	4	punct	_	O
+
+1	Heritage	heritage	NNP	pos2=NN	2	compound	_	B-ORG
+2	Foundation	foundation	NNP	_	3	compound	_	L-ORG
+3	scholars	scholar	NNS	_	5	nsubj	_	O
+4	have	have	VBP	_	5	aux	_	O
+5	developed	develop	VBN	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	plan	plan	NN	_	5	dobj	_	O
+8	Donald	donald	NNP	_	9	compound	_	B-PERSON
+9	Trump	trump	NNP	_	7	appos	_	L-PERSON
+10	...	..	.	pos2=,	5	punct	_	O
+
+1	https://t.co/5JqrVbVXqM	#hlink#	ADD	_	0	root	_	U-ORG
+

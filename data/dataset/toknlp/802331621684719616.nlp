@@ -1,0 +1,17 @@
+1	'	'	``	pos2=SYM	5	punct	_	O
+2	kcws	kcws	NNS	pos2=UH	7	nsubj	_	O
+3	'	'	''	_	2	punct	_	O
+4	by	by	IN	_	2	prep	_	O
+5	koth	koth	NN	pos2=NNS	4	pobj	_	O
+6	:	:	:	_	7	punct	_	O
+7	Deep	deep	JJ	pos2=NNP	11	nmod	_	O
+8	Learning	learn	VBG	pos2=NNP	11	nmod	_	O
+9	Chinese	chinese	NNP	pos2=JJ	10	compound	_	O
+10	Word	word	NNP	pos2=NN	11	compound	_	O
+11	Segment	segment	NN	pos2=NNP	12	dep	_	O
+12	https://t.co/Q0YLQhot1F	#hlink#	ADD	pos2=CD	14	nsubj	_	O
+13	#dev	#dev	XX	pos2=-RRB-	10	appos	_	O
+14	#programming	#programming	VBG	pos2=UH	0	root	_	O
+15	#tech	#tech	UH	pos2=XX	14	discourse	_	O
+16	#cpp	#cpp	UH	pos2=XX	14	discourse	_	O
+

@@ -1,0 +1,26 @@
+1	@BrookeBCNN	@brookebcnn	TO	pos2=JJ	2	aux	_	O
+2	respect	respect	VB	pos2=NN	0	root	_	O
+3	you	you	PRP	_	2	dobj	_	O
+4	,	,	,	_	2	punct	_	O
+5	but	but	CC	_	2	cc	_	O
+6	I	I	PRP	_	7	nsubj	_	O
+7	hope	hope	VBP	_	2	conj	_	O
+8	you	you	PRP	_	9	nsubj	_	O
+9	're	be	VBP	_	7	ccomp	_	O
+10	not	not	RB	_	9	neg	_	O
+11	unaware	unaware	JJ	_	9	acomp	_	O
+12	of	of	IN	_	11	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	hypocrisy	hypocrisy	NN	_	12	pobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	not	not	RB	_	17	neg	_	O
+17	covering	cover	VBG	_	15	pcomp	_	O
+18	the	the	DT	_	19	det	_	O
+19	protests	protest	NNS	_	17	dobj	_	O
+20	at	at	IN	_	17	prep	_	O
+21	the	the	DT	_	24	det	_	B-FAC
+22	Dakota	dakota	NNP	_	24	compound	_	I-FAC
+23	Access	access	NNP	_	24	compound	_	I-FAC
+24	Pipeline	pipeline	NNP	pos2=NN	20	pobj	_	L-FAC
+25	yesterday	yesterday	NN	_	17	npadvmod	_	U-DATE
+

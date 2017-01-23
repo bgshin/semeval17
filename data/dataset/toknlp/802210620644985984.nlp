@@ -1,0 +1,46 @@
+1	Asked	ask	VBN	pos2=VBD	9	advcl	_	O
+2	if	if	IN	_	4	mark	_	O
+3	he	he	PRP	_	4	nsubj	_	O
+4	reads	read	VBZ	_	1	ccomp	_	O
+5	the	the	DT	_	6	det	_	O
+6	NYT	nyt	NNP	_	4	dobj	_	U-ORG
+7	,	,	,	_	9	punct	_	O
+8	Trump	trump	NNP	_	9	nsubj	_	U-ORG
+9	said	say	VBD	_	0	root	_	O
+10	“	"	``	_	9	punct	_	O
+11	I	I	PRP	_	13	nsubj	_	O
+12	do	do	VBP	pos2=RB	13	aux	_	O
+13	read	read	VB	_	9	ccomp	_	O
+14	it	it	PRP	_	13	dobj	_	O
+15	.	.	.	_	9	punct	_	O
+
+1	Unfortunately	unfortunately	RB	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	’d	would	MD	pos2=VBD	3	aux	_	O
+3	live	live	VB	_	0	root	_	O
+4	abt	abt	RB	pos2=NN	3	advmod	_	O
+5	20	0	CD	_	6	nmod	_	O
+6	yrs	yr	NNS	_	7	npadvmod	_	O
+7	longer	long	RBR	pos2=RB	3	advmod	_	O
+8	if	if	IN	_	10	mark	_	O
+9	I	I	PRP	_	10	nsubj	_	O
+10	did	do	VBD	_	7	advcl	_	O
+11	n’t	not	RB	_	10	neg	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	”	"	``	pos2=''	3	punct	_	O
+2	“	"	``	_	3	punct	_	O
+3	Got	get	VBD	pos2=JJ	0	root	_	O
+4	ur	ur	JJ	pos2=JJR	5	nmod	_	O
+5	paper	paper	NN	_	3	dobj	_	O
+6	,	,	,	_	5	punct	_	O
+7	sir	sir	NN	pos2=FW	5	vocative	_	O
+8	!	!	.	_	3	punct	_	O
+
+1	”	"	``	pos2=''	2	punct	_	O
+2	said	say	VBD	_	0	root	_	O
+3	Mike	mike	NNP	_	4	compound	_	B-PERSON
+4	Pence	penny	NNP	_	2	nsubj	_	L-PERSON
+

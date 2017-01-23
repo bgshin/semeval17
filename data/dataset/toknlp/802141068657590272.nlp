@@ -1,0 +1,20 @@
+1	Remarkable	remarkable	JJ	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Expert	expert	NN	pos2=VB	8	nsubj	_	O
+2	who	who	WP	_	3	nsubj	_	O
+3	investigated	investigate	VBD	_	1	relcl	_	O
+4	death	death	NN	_	3	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Litvinenko	litvinenko	NNP	_	5	pobj	_	U-PERSON
+7	'	'	``	pos2=''	8	punct	_	O
+8	killed	kill	VBD	_	0	root	_	O
+9	himself	himself	PRP	_	8	dobj	_	O
+10	'	'	''	_	8	punct	_	O
+11	after	after	IN	_	8	prep	_	O
+12	trip	trip	NN	pos2=VBG	11	pobj	_	O
+13	to	to	IN	_	12	prep	_	O
+14	Russia	russia	NNP	_	13	pobj	_	U-GPE
+15	https://t.co/R4e3joj0kr	#hlink#	ADD	pos2=POS	16	dep	_	O
+16	@MailOnline	@mailonline	ADD	pos2=-RRB-	8	advcl	_	U-ORG
+

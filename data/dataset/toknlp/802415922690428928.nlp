@@ -1,0 +1,19 @@
+1	"	"	``	_	2	punct	_	O
+2	Conservatives	conservative	NNS	pos2=NNPS	5	nsubj	_	O
+3	"	"	''	pos2=,	2	punct	_	O
+4	not	not	RB	_	5	neg	_	O
+5	being	be	VBG	_	15	csubj	_	O
+6	very	very	RB	_	7	advmod	_	O
+7	conservative	conservative	JJ	_	5	acomp	_	O
+8	if	if	IN	_	10	mark	_	O
+9	they	they	PRP	_	10	nsubj	_	O
+10	think	think	VBP	_	5	advcl	_	O
+11	'	'	''	pos2=``	13	punct	_	O
+12	written	write	VBN	pos2=JJ	13	nmod	_	O
+13	agreements	agreement	NNS	_	10	oprd	_	O
+14	'	'	''	_	5	punct	_	O
+15	overrides	override	VBZ	_	0	root	_	O
+16	the	the	DT	_	17	det	_	O
+17	Constitution.#AusPol	constitution.#auspol	NNP	pos2=ADD	15	dobj	_	U-ORG
+18	https://t.co/ynBskTuTw6	#hlink#	ADD	_	17	appos	_	O
+

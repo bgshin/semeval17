@@ -1,0 +1,21 @@
+1	Some	some	DT	_	2	det	_	O
+2	doctors	doctor	NNS	_	3	nsubj	_	O
+3	say	say	VBP	_	0	root	_	O
+4	palliative	palliative	JJ	_	5	nmod	_	O
+5	care	care	NN	_	6	nsubj	_	O
+6	is	be	VBZ	_	3	ccomp	_	O
+7	better	good	JJR	_	6	acomp	_	O
+8	than	than	IN	_	7	prep	_	O
+9	voluntary	voluntary	JJ	_	10	nmod	_	O
+10	euthanasia	euthanasia	NN	_	8	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	Better	good	JJR	pos2=RBR	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	who	who	WP	_	2	pobj	_	O
+4	exactly	exactly	RB	_	0	root	_	O
+5	?	?	.	_	1	punct	_	O
+
+1	#vicpol	#vicpol	UH	pos2=XX	2	discourse	_	O
+2	#auspol	#auspol	UH	pos2=.	0	root	_	O
+

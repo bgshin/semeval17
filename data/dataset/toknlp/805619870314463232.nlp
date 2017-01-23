@@ -1,0 +1,24 @@
+1	@the585PRO	@the0pro	CD	pos2=XX	6	punct	_	O
+2	lolol	lolol	PDT	pos2=IN	5	nmod	_	O
+3	my	my	PRP$	_	4	poss	_	O
+4	brothers	brother	NNS	_	5	compound	_	O
+5	neurologist	neurologist	NN	_	6	nsubj	_	O
+6	was	be	VBD	_	0	root	_	O
+7	just	just	RB	_	8	advmod	_	O
+8	in	in	IN	_	6	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	news	news	NN	_	8	pobj	_	O
+11	recently	recently	RB	_	6	advmod	_	O
+12	for	for	IN	_	6	prep	_	O
+13	medical	medical	JJ	_	14	nmod	_	O
+14	marijuana	marijuana	NN	_	12	pobj	_	O
+15	for	for	IN	_	14	prep	_	O
+16	epilepsy	epilepsy	NN	_	15	pobj	_	O
+17	but	but	CC	_	6	cc	_	O
+18	let	let	VB	pos2=VBP	6	conj	_	O
+19	s	s	PRP	_	21	nsubj	_	O
+20	all	all	DT	pos2=RB	19	appos	_	O
+21	do	do	VBP	pos2=VB	18	ccomp	_	O
+22	molly	molly	NN	pos2=VB	21	dobj	_	O
+23	!!!!!!	!!	.	_	6	punct	_	O
+

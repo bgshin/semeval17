@@ -1,0 +1,13 @@
+1	@jamesmoran	@jamesmoran	UH	pos2=MD	6	discourse	_	O
+2	Lucky	lucky	JJ	pos2=NNP	0	root	_	O
+3	you	you	PRP	_	6	nsubj	_	O
+4	do	do	VBP	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	have	have	VB	_	0	root	_	O
+7	VR	vr	NNP	pos2=NN	6	dobj	_	U-ORG
+8	,	,	,	_	7	punct	_	O
+9	then	then	RB	_	6	advmod	_	O
+10	!	!	.	_	6	punct	_	O
+
+1	https://t.co/1IJcbgBGyQ	#hlink#	ADD	_	0	root	_	U-ORG
+

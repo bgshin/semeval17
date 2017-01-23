@@ -1,0 +1,25 @@
+1	"	"	``	_	5	punct	_	O
+2	A	a	DT	_	4	det	_	O
+3	little	little	JJ	_	4	nmod	_	O
+4	learning	learning	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	11	ccomp	_	O
+6	a	a	DT	_	8	det	_	O
+7	dangerous	dangerous	JJ	_	8	nmod	_	O
+8	thing	thing	NN	_	5	attr	_	O
+9	;	;	,	pos2=:	11	punct	_	O
+10	/	/	SYM	pos2=,	11	punct	_	O
+11	Drink	drink	VB	pos2=NN	0	root	_	O
+12	deep	deep	JJ	pos2=RB	11	advmod	_	O
+13	,	,	,	_	11	punct	_	O
+14	or	or	CC	_	11	cc	_	O
+15	taste	taste	NN	pos2=VB	11	conj	_	O
+16	not	not	RB	pos2=CC	19	neg	_	O
+17	the	the	DT	_	19	det	_	O
+18	Pierian	pierian	NNP	_	19	compound	_	O
+19	Spring	spring	NNP	pos2=NN	15	appos	_	O
+20	.	.	.	_	11	punct	_	O
+21	"	"	''	_	11	punct	_	O
+
+1	Alexander	alexander	NNP	_	2	compound	_	B-PERSON
+2	Pope	pope	NNP	_	0	root	_	L-PERSON
+

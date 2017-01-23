@@ -1,0 +1,19 @@
+1	Donald	donald	NNP	_	3	compound	_	B-PERSON
+2	Trump	trump	NNP	_	3	compound	_	L-PERSON
+3	Changes	change	NNPS	pos2=NNP	4	compound	_	O
+4	Course	course	NN	pos2=NNP	6	nsubj	_	O
+5	,	,	,	_	6	punct	_	O
+6	Seems	seem	VBZ	pos2=NNP	0	root	_	O
+7	Open	open	JJ	pos2=NNP	6	oprd	_	O
+8	to	to	IN	pos2=TO	7	prep	_	O
+9	Compromise	compromise	VB	pos2=NNP	8	pobj	_	O
+10	on	on	IN	pos2=RP	9	prep	_	O
+11	#	#	NN	pos2=-LRB-	10	pobj	_	O
+12	https://t.co/ONZx16tHxt	#hlink#	ADD	_	11	nmod	_	U-MONEY
+13	#donaldtrump	#donaldtrump	IN	pos2=-RRB-	6	prep	_	O
+14	#foreign	#foreign	XX	pos2=FW	15	nmod	_	O
+15	#news	#news	XX	pos2=IN	13	pobj	_	O
+16	Updated	update	VBN	pos2=NNP	14	root	_	O
+17	Via	via	IN	pos2=NNP	16	prep	_	O
+18	@fabxclusive_com	@fabxclusive_com	NNP	pos2=ADD	17	pobj	_	O
+

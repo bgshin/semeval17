@@ -1,0 +1,33 @@
+1	@MichaelGaree	@michaelgaree	NN	pos2=NNP	3	aux	_	O
+2	Been	be	VBN	_	3	aux	_	O
+3	watching	watch	VBG	_	0	root	_	O
+4	good	good	JJ	pos2=NN	6	nmod	_	O
+5	Ole	ole	NNP	_	6	compound	_	O
+6	movies	movie	NNS	_	3	dobj	_	O
+7	for	for	IN	_	3	prep	_	O
+8	a	a	DT	_	10	det	_	B-TIME
+9	couple	couple	NN	_	10	compound	_	I-TIME
+10	hours	hour	NNS	_	7	pobj	_	L-TIME
+11	.	.	.	_	3	punct	_	O
+
+1	Relaxing	relax	VBG	pos2=NN	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	good	good	JJ	_	2	acomp	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	But	but	CC	_	6	cc	_	O
+2	,	,	,	_	6	punct	_	O
+3	Michael	michael	NNP	_	4	compound	_	B-PERSON
+4	Moore	moore	NNP	_	6	nsubj	_	L-PERSON
+5	is	be	VBZ	_	6	aux	_	O
+6	looking	look	VBG	_	0	root	_	O
+7	like	like	IN	_	6	prep	_	O
+8	a	a	DT	_	10	det	_	O
+9	Lego	lego	NNP	_	10	compound	_	U-ORG
+10	Man	man	NNP	pos2=NN	7	pobj	_	O
+11	.	.	.	_	6	punct	_	O
+
+1	Is	be	VBZ	_	0	root	_	O
+2	he	he	PRP	_	1	nsubj	_	O
+3	?	?	.	_	1	punct	_	O
+

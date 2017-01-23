@@ -1,0 +1,31 @@
+1	Wait	wait	VB	pos2=NN	7	advcl	_	O
+2	,	,	,	_	7	punct	_	O
+3	Grayson	grayson	NNP	_	4	compound	_	B-PERSON
+4	Allen	allen	NNP	_	7	nsubj	_	L-PERSON
+5	is	be	VBZ	_	7	aux	_	O
+6	still	still	RB	_	7	advmod	_	O
+7	playing	play	VBG	_	0	root	_	O
+8	!?	!?	.	pos2=NNS	7	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	know	know	VBP	_	0	root	_	O
+3	he	he	PRP	_	4	nsubj	_	O
+4	looks	look	VBZ	_	2	ccomp	_	O
+5	like	like	IN	_	7	mark	_	O
+6	he	he	PRP	_	7	nsubj	_	O
+7	's	's	VBZ	_	4	advcl	_	O
+8	12	0	CD	_	7	attr	_	U-CARDINAL
+9	,	,	,	_	2	punct	_	O
+10	but	but	CC	_	2	cc	_	O
+11	he	he	PRP	_	13	nsubjpass	_	O
+12	's	's	VBZ	_	13	auxpass	_	O
+13	been	be	VBN	_	2	conj	_	O
+14	there	there	RB	_	13	advmod	_	O
+15	at	at	RB	pos2=IN	16	advmod	_	B-DATE
+16	least	least	RBS	pos2=JJS	17	advmod	_	I-DATE
+17	6	0	CD	_	18	nmod	_	I-DATE
+18	years	year	NNS	_	13	npadvmod	_	L-DATE
+19	,	,	,	_	13	punct	_	O
+20	right	right	JJ	pos2=UH	13	discourse	_	O
+21	?	?	.	_	13	punct	_	O
+

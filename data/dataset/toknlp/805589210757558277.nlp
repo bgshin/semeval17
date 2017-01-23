@@ -1,0 +1,24 @@
+1	yes	yes	UH	_	4	discourse	_	O
+2	,	,	,	_	4	punct	_	O
+3	but	but	CC	_	4	cc	_	O
+4	see	see	VB	_	0	root	_	O
+5	how	how	WRB	_	9	advmod	_	O
+6	Marine	marine	NNP	pos2=JJ	8	compound	_	B-PERSON
+7	Le	le	NNP	_	8	compound	_	I-PERSON
+8	Pen	pen	NNP	_	9	nsubj	_	L-PERSON
+9	made	make	VBD	_	4	ccomp	_	O
+10	sure	sure	JJ	_	9	oprd	_	O
+11	it	it	PRP	_	12	nsubj	_	O
+12	was	be	VBD	_	10	ccomp	_	O
+13	all	all	DT	_	14	det	_	O
+14	color	color	NN	_	15	npadvmod	_	O
+15	coded	code	VBN	pos2=VBD	12	acomp	_	O
+16	,	,	,	_	12	punct	_	O
+17	as	as	IN	_	20	prep	_	O
+18	in	in	IN	pos2=RB	17	prep	_	O
+19	,	,	,	_	20	punct	_	O
+20	blonde	blonde	JJ	_	9	advcl	_	O
+21	?	?	.	_	4	punct	_	O
+
+1	https://t.co/RSyzqnquau	#hlink#	ADD	_	0	root	_	U-ORG
+

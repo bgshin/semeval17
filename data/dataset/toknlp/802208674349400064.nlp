@@ -1,0 +1,23 @@
+1	the	the	DT	_	4	det	_	O
+2	Dakota	dakota	NNP	_	4	compound	_	O
+3	Access	access	NNP	_	4	compound	_	O
+4	Pipeline	pipeline	NNP	pos2=NN	7	nsubjpass	_	O
+5	is	be	VBZ	_	7	aux	_	O
+6	being	be	VBG	_	7	auxpass	_	O
+7	funded	fund	VBN	_	0	root	_	O
+8	by	by	IN	_	7	agent	_	O
+9	some	some	DT	_	8	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	the	the	DT	_	14	det	_	O
+12	most	most	RBS	_	13	advmod	_	O
+13	prolific	prolific	JJ	_	14	nmod	_	O
+14	donors	donor	NNS	_	10	pobj	_	O
+15	to	to	IN	_	14	prep	_	O
+16	the	the	DT	_	18	det	_	B-ORG
+17	Democratic	democratic	NNP	pos2=JJ	18	compound	_	I-ORG
+18	Party	party	NNP	_	15	pobj	_	L-ORG
+19	.	.	.	_	7	punct	_	O
+
+1	#NoDAPL	#nodapl	ADD	pos2=-LRB-	2	punct	_	O
+2	https://t.co/dqPfi014K1	#hlink#	ADD	_	0	root	_	O
+

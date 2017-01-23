@@ -1,0 +1,30 @@
+1	Ok	ok	UH	pos2=JJ	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	We	we	PRP	_	3	nsubjpass	_	O
+2	're	be	VBP	_	3	auxpass	_	O
+3	supposed	suppose	VBN	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	be	be	VB	_	3	xcomp	_	O
+6	door	door	NN	pos2=JJ	7	compound	_	O
+7	mats	mat	NNS	_	5	attr	_	O
+8	and	and	CC	_	5	cc	_	O
+9	let	let	VB	_	5	conj	_	O
+10	the	the	DT	_	11	det	_	O
+11	likes	like	NNS	_	22	nsubj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	Donald	donald	NNP	_	14	compound	_	B-PERSON
+14	Trump	trump	NNP	_	12	pobj	_	L-PERSON
+15	,	,	,	_	14	punct	_	O
+16	Steve	steve	NNP	_	17	compound	_	B-PERSON
+17	Bannon	bannon	NNP	_	14	conj	_	L-PERSON
+18	,	,	,	_	17	punct	_	O
+19	and	and	CC	_	3	cc	_	O
+20	Jeff	jeff	NNP	_	21	compound	_	B-PERSON
+21	Sessions	session	NNS	pos2=NNPS	22	nsubj	_	L-PERSON
+22	walk	walk	VBP	pos2=VB	3	conj	_	O
+23	all	all	RB	pos2=DT	24	advmod	_	O
+24	over	over	IN	pos2=RB	22	prep	_	O
+25	us	us	PRP	_	24	pobj	_	O
+26	.	.	.	_	22	punct	_	O
+

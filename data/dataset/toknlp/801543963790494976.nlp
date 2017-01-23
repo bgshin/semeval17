@@ -1,0 +1,9 @@
+1	@Brandon6Cox	@brandon0cox	NN	pos2=XX	3	dep	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	spent	spend	VBD	_	0	root	_	O
+4	my	my	PRP$	_	5	poss	_	O
+5	25k	0k	NN	pos2=CD	3	dobj	_	U-CARDINAL
+6	and	and	CC	_	3	cc	_	O
+7	got	get	VBD	_	3	conj	_	O
+8	verlander	verlander	NN	pos2=RB	7	dobj	_	O
+

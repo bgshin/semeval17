@@ -1,0 +1,11 @@
+1	#world	#world	UH	pos2=NN	5	discourse	_	O
+2	#news	#news	NNS	pos2=FW	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	Hundreds	#crd#	NNS	pos2=UH	5	nsubj	_	U-CARDINAL
+5	#flee	#flee	VBP	pos2=IN	0	root	_	O
+6	#wildfires	#wildfires	NNS	pos2=RB	5	dobj	_	O
+7	near	near	IN	pos2=JJ	6	prep	_	O
+8	#Jerusalem	#jerusalem	NNP	pos2=NN	10	nmod	_	U-GPE
+9	-	-	HYPH	pos2=:	10	punct	_	O
+10	https://t.co/wGxOOdYFRj	#hlink#	ADD	pos2=NNP	7	pobj	_	O
+

@@ -1,0 +1,21 @@
+1	NFL	nfl	NNP	_	4	compound	_	B-ORG
+2	Latest	late	JJS	pos2=NNP	4	nmod	_	I-ORG
+3	Trade	trade	NNP	pos2=NN	4	compound	_	I-ORG
+4	Rumors	rumor	NNPS	pos2=NNS	0	root	_	I-ORG
+5	&	&	CC	_	4	cc	_	I-ORG
+6	Update	update	NN	pos2=VB	4	conj	_	L-ORG
+7	:	:	:	_	4	punct	_	O
+8	Trevor	trevor	NNP	_	10	compound	_	B-PERSON
+9	Siemian	siemian	NNP	_	10	compound	_	L-PERSON
+10	Unfazed	unfazed	NNP	pos2=JJ	4	acl	_	O
+11	With	with	IN	_	10	prep	_	O
+12	Potential	potential	NNP	_	11	pobj	_	O
+13	Coming	come	VBG	pos2=NNP	4	acl	_	O
+14	Of	of	IN	pos2=RB	13	prep	_	O
+15	Tony	tony	NNP	_	16	compound	_	B-PERSON
+16	Romo	romo	NNP	_	14	pobj	_	L-PERSON
+17	To	to	IN	pos2=NNP	13	prep	_	O
+18	Denver	denver	NNP	_	17	pobj	_	U-GPE
+19	…	…	NFP	pos2=NNP	4	discourse	_	O
+20	https://t.co/ss9eZQKiFV	#hlink#	ADD	_	4	appos	_	U-GPE
+

@@ -1,0 +1,8 @@
+1	Sorry	sorry	JJ	pos2=UH	6	nmod	_	O
+2	doctor	doctor	NN	_	4	nmod	_	O
+3	tiny	tiny	JJ	_	4	nmod	_	O
+4	bitch	bitch	NN	_	0	root	_	O
+5	😄	😄	NFP	pos2=.	7	punct	_	O
+6	#ScreamQueens	#screamqueens	NNS	pos2=VBZ	4	appos	_	O
+7	@kirstiealley	@kirstiealley	UH	pos2=RB	1	discourse	_	O
+

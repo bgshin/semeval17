@@ -1,0 +1,12 @@
+1	so	so	RB	pos2=IN	2	advmod	_	O
+2	fidel	fidel	JJ	pos2=NNP	3	nmod	_	O
+3	castro	castro	NNP	pos2=FW	5	nsubj	_	O
+4	has	have	VBZ	_	5	aux	_	O
+5	died	die	VBN	_	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	when	when	WRB	_	3	advmod	_	O
+2	will	will	MD	pos2=VBG	3	aux	_	O
+3	maduro	maduro	VB	pos2=GW	0	root	_	O
+4	ever	ever	RB	_	3	advmod	_	O
+

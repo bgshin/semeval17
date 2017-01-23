@@ -1,0 +1,23 @@
+1	@WickedestWitch1	@wickedestwitch0	NN	pos2=NNS	2	nsubj	_	O
+2	@McCarthyKnew	@mccarthyknew	VBD	pos2=ADD	0	root	_	O
+3	@Uncle_Stewie	@uncle_stewie	IN	pos2=PRP$	2	prep	_	O
+4	Hand	hand	NNP	pos2=NN	5	compound	_	O
+5	Delivered	delivered	NNP	pos2=VBN	3	pobj	_	O
+6	What	what	WP	pos2=WDT	7	dep	_	O
+7	!?	!?	.	_	2	punct	_	O
+
+1	demo	demo	NN	pos2=VBP	3	compound	_	O
+2	Voter	voter	NN	pos2=NNP	3	compound	_	O
+3	Registration	registration	NN	_	4	nsubj	_	O
+4	forms	form	VBZ	pos2=NNS	0	root	_	O
+5	Hand	hand	NNP	pos2=NN	6	dep	_	O
+6	Delivered	deliver	VBN	pos2=NNP	8	nmod	_	O
+7	N	n	NNP	pos2=IN	4	punct	_	O
+8	Florida	florida	NNP	_	7	appos	_	O
+9	,	,	,	_	4	punct	_	O
+10	"	"	``	pos2=''	12	punct	_	O
+11	Live	live	NNP	pos2=JJ	12	compound	_	O
+12	Tape	tape	NNP	pos2=NN	8	conj	_	O
+13	.	.	.	_	4	punct	_	O
+14	"	"	''	_	4	punct	_	O
+

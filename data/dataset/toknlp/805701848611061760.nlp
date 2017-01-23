@@ -1,0 +1,9 @@
+1	When	when	WRB	_	3	advmod	_	O
+2	to	to	TO	_	3	aux	_	O
+3	expect	expect	VB	_	8	advcl	_	O
+4	Westworld	westworld	NNP	_	5	compound	_	O
+5	Season	season	NNP	_	8	dep	_	O
+6	2	0	CD	_	5	npadvmod	_	O
+7	—	-	:	pos2=HYPH	8	punct	_	O
+8	https://t.co/Pxy6uiofqc	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,20 @@
+1	Smoked	smoke	VBD	pos2=VBN	0	root	_	O
+2	turkey	turkey	NN	pos2=JJ	3	compound	_	O
+3	sliders	slider	NNS	_	1	dobj	_	O
+4	on	on	IN	_	1	prep	_	O
+5	@KingsHawaiian	@kingshawaiian	NN	pos2=JJ	6	compound	_	O
+6	rolls	roll	NNS	_	4	pobj	_	O
+7	and	and	CC	_	1	cc	_	O
+8	a	a	DT	_	9	det	_	O
+9	side	side	NN	_	6	conj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	#amazing	#amazing	NN	pos2=NNP	10	pobj	_	O
+12	.	.	.	_	1	punct	_	O
+
+1	Got	get	VBD	pos2=VBN	0	root	_	O
+2	ta	ta	TO	pos2=JJ	3	aux	_	O
+3	love	love	VB	pos2=NN	1	xcomp	_	O
+4	#thanksgiving	#thanksgiving	VBG	pos2=GW	5	nmod	_	O
+5	#leftovers	#leftovers	NNS	pos2=GW	3	dobj	_	O
+6	https://t.co/vaQiDngUYd	#hlink#	ADD	pos2=NN	1	dep	_	O
+

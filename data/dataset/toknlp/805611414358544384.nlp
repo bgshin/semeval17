@@ -1,0 +1,19 @@
+1	$	$	$	pos2=SYM	6	nmod	_	O
+2	ADVT	advt	NN	pos2=NNP	3	compound	_	U-MONEY
+3	NEWS	news	NN	pos2=NNP	0	root	_	O
+4	COMING	come	VBG	pos2=NN	8	nmod	_	O
+5	-	-	:	pos2=HYPH	8	punct	_	O
+6	Signs	sign	NNS	pos2=NNPS	8	compound	_	O
+7	Distribution	distribution	NN	_	8	compound	_	O
+8	Agreement	agreement	NN	pos2=NNP	0	root	_	O
+9	with	with	IN	_	8	prep	_	O
+10	California	california	NNP	_	17	poss	_	U-GPE
+11	's	's	POS	_	10	case	_	O
+12	Largest	largest	NNP	pos2=JJS	15	compound	_	B-ORG
+13	Medical	medical	NNP	pos2=JJ	15	compound	_	I-ORG
+14	Marijuana	marijuana	NNP	_	15	compound	_	I-ORG
+15	Delivery	delivery	NNP	pos2=NN	17	compound	_	I-ORG
+16	Service	service	NN	pos2=NNP	17	compound	_	L-ORG
+17	#	#	NN	pos2=-LRB-	9	pobj	_	O
+18	MJhttps://t.co/L9Om9QLvRh	#hlink#	ADD	pos2=NN	17	nmod	_	O
+

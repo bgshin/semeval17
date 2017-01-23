@@ -1,0 +1,29 @@
+1	"	"	``	pos2=''	6	punct	_	O
+2	Of	of	RB	pos2=IN	3	advmod	_	O
+3	course	course	RB	pos2=NN	6	advmod	_	O
+4	they	they	PRP	_	6	nsubj	_	O
+5	would	would	MD	_	6	aux	_	O
+6	cease	cease	VB	_	0	root	_	O
+7	;	;	,	pos2=:	18	punct	_	O
+8	no	no	DT	pos2=UH	9	det	_	O
+9	Clinton	clinton	NNP	_	18	dep	_	U-PERSON
+10	in	in	IN	_	9	prep	_	O
+11	high	high	JJ	_	12	nmod	_	O
+12	power	power	NN	_	10	pobj	_	O
+13	right	right	RB	_	14	advmod	_	O
+14	now	now	RB	_	18	advmod	_	O
+15	,	,	,	_	18	punct	_	O
+16	so	so	RB	pos2=CC	18	advmod	_	O
+17	no	no	DT	_	18	det	_	O
+18	cash	cash	NN	_	6	dobj	_	O
+19	!	!	.	_	6	punct	_	O
+
+1	Watch	watch	VB	pos2=NNP	0	root	_	B-ORG
+2	Charity	charity	NNP	_	3	compound	_	I-ORG
+3	Foundation	foundation	NNP	pos2=NN	4	compound	_	L-ORG
+4	cease	cease	NN	pos2=VB	1	dobj	_	O
+5	to	to	IN	pos2=TO	1	prep	_	O
+6	exis	exis	GW	pos2=VB	5	pobj	_	O
+7	…	…	NFP	pos2=GW	8	punct	_	O
+8	https://t.co/zz16eY51Fx	#hlink#	ADD	pos2=NN	5	pobj	_	O
+

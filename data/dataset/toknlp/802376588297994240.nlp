@@ -1,0 +1,14 @@
+1	But	but	CC	_	2	cc	_	O
+2	wait	wait	VB	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	THIS	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	original	original	JJ	_	5	nmod	_	O
+5	story	story	NN	_	2	attr	_	O
+6	,	,	,	_	2	punct	_	O
+7	by	by	IN	_	2	prep	_	O
+8	@isareport	@isareport	GW	pos2=-LRB-	7	pobj	_	O
+9	https://t.co/DAUlm2ksDF	#hlink#	ADD	pos2=NN	7	pobj	_	U-ORG
+

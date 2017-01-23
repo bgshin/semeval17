@@ -1,0 +1,9 @@
+1	Lonzo	lonzo	NNP	_	2	compound	_	U-PERSON
+2	ball	ball	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	better	good	JJR	_	3	acomp	_	O
+5	than	than	IN	_	4	prep	_	O
+6	Grayson	grayson	NNP	_	7	compound	_	B-PERSON
+7	Allen	allen	NNP	_	5	pobj	_	L-PERSON
+8	https://t.co/Fk7qEWGq3H	#hlink#	ADD	pos2=NNP	3	dep	_	O
+

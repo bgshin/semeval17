@@ -1,0 +1,28 @@
+1	Happy	happy	JJ	_	2	nmod	_	O
+2	Thanksgiving	thanksgiving	NNP	_	0	root	_	U-DATE
+3	!!	!!	.	_	2	punct	_	O
+
+1	🍁	🍁	TO	pos2=MD	5	cc	_	O
+2	love	love	VBP	pos2=NN	0	root	_	O
+3	you	you	PRP	_	4	nmod	_	O
+4	guys	guy	NNS	_	2	dobj	_	O
+5	so	so	RB	_	6	advmod	_	O
+6	much	much	RB	_	2	advmod	_	O
+7	!	!	.	_	2	punct	_	O
+
+1	thankful	thankful	JJ	_	15	dep	_	O
+2	for	for	IN	_	1	prep	_	O
+3	all	all	PDT	pos2=DT	6	predet	_	O
+4	your	your	PRP$	_	6	poss	_	O
+5	continued	continue	VBD	pos2=JJ	6	nmod	_	O
+6	support	support	NN	_	2	pobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	love	love	NN	pos2=VB	6	conj	_	O
+9	❤	❤	NFP	pos2=:	1	discourse	_	O
+10	what	what	WP	_	15	dep	_	O
+11	are	be	VBP	_	15	dep	_	O
+12	you	you	PRP	_	11	nsubj	_	O
+13	most	most	RBS	pos2=JJS	14	advmod	_	O
+14	…	…	NFP	pos2=-LRB-	15	punct	_	O
+15	https://t.co/iEIHUn2J7K	#hlink#	ADD	_	0	root	_	O
+

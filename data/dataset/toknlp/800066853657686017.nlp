@@ -1,0 +1,17 @@
+1	Pentagon	pentagon	NNP	pos2=NNS	3	nsubj	_	U-ORG
+2	to	to	TO	_	3	aux	_	O
+3	stop	stop	VB	_	11	advcl	_	O
+4	buying	buy	VBG	_	3	xcomp	_	O
+5	Russian	russian	JJ	_	6	nmod	_	U-NORP
+6	helicopters	helicopter	NNS	_	4	dobj	_	O
+7	for	for	IN	_	4	prep	_	O
+8	Afghanistan	afghanistan	NNP	_	7	pobj	_	U-GPE
+9	,	,	,	_	11	punct	_	O
+10	will	will	MD	_	11	aux	_	O
+11	buy	buy	VB	_	0	root	_	O
+12	American	american	JJ	pos2=NNP	13	nmod	_	U-NORP
+13	helicopters	helicopter	NNS	_	11	dobj	_	O
+14	instead	instead	RB	_	15	advmod	_	O
+15	https://t.co/CKjJ5EjlRq	#hlink#	ADD	pos2=VBP	13	conj	_	O
+16	@RFERL	@rferl	-RRB-	pos2=ADD	11	punct	_	U-ORG
+

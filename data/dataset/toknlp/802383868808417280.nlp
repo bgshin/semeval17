@@ -1,0 +1,19 @@
+1	A	a	DT	pos2=NNP	5	det	_	O
+2	George	george	NNP	_	5	compound	_	B-ORG
+3	Soros	soros	NNP	_	5	compound	_	I-ORG
+4	Connected	connected	NNP	_	5	compound	_	I-ORG
+5	Company	company	NNP	_	6	nsubj	_	L-ORG
+6	Provided	provided	VBD	pos2=NNP	0	root	_	O
+7	Voting	voting	NNP	pos2=VBG	8	compound	_	B-ORG
+8	Technology	technology	NNP	_	6	dobj	_	L-ORG
+9	In	in	IN	pos2=NNP	6	prep	_	O
+10	16	0	CD	_	11	nmod	_	U-CARDINAL
+11	States	state	NNS	pos2=NNPS	9	pobj	_	U-GPE
+12	,	,	,	_	11	punct	_	O
+13	Including	include	VBG	pos2=NNP	11	prep	_	O
+14	Key	key	NNP	pos2=JJ	16	compound	_	B-ORG
+15	Swing	swing	NNP	pos2=GW	16	compound	_	I-ORG
+16	States	state	NNP	pos2=NNPS	13	pobj	_	L-ORG
+17	https://t.co/Pf0ixDqka6	#hlink#	ADD	pos2=POS	18	nmod	_	O
+18	#Trump	#trump	NNP	pos2=-RRB-	13	pobj	_	U-ORG
+

@@ -1,0 +1,24 @@
+1	#MosulOffensive	#mosuloffensive	NNP	pos2=ADD	4	nsubj	_	U-GPE
+2	has	have	VBZ	_	4	aux	_	O
+3	completely	completely	RB	_	4	advmod	_	O
+4	encircled	encircle	VBN	_	0	root	_	O
+5	#Mosul	#mosul	NNP	pos2=NNS	4	dobj	_	U-PERSON
+6	,	,	,	_	4	punct	_	O
+7	thus	thus	RB	_	8	advmod	_	O
+8	cutting	cut	VBG	_	4	advcl	_	O
+9	off	off	RP	_	8	prt	_	O
+10	#IS	#is	RB	pos2=NN	8	advmod	_	O
+11	from	from	IN	_	8	prep	_	O
+12	supposed	suppose	VBN	pos2=JJ	13	nmod	_	O
+13	reinforcements	reinforcement	NNS	_	11	pobj	_	O
+14	and	and	CC	_	13	cc	_	O
+15	evasion	evasion	NN	_	13	conj	_	O
+16	.	.	.	_	4	punct	_	O
+
+1	This	this	DT	_	5	det	_	O
+2	according	accord	VBG	pos2=NN	0	root	_	O
+3	to	to	IN	_	2	prep	_	O
+4	Iraq	iraq	NNP	_	5	compound	_	U-GPE
+5	MoD	mod	NNP	pos2=NN	3	pobj	_	U-ORG
+6	.	.	.	_	2	punct	_	O
+

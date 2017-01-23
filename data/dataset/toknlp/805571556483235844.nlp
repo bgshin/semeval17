@@ -1,0 +1,8 @@
+1	Mish	mish	NN	pos2=NNP	0	root	_	O
+2	on	on	IN	_	1	prep	_	O
+3	Beppe	beppe	NNP	_	7	poss	_	U-PERSON
+4	's	's	POS	_	3	case	_	O
+5	World	world	NNP	pos2=NN	7	nmod	_	B-EVENT
+6	-	-	HYPH	pos2=:	7	punct	_	I-EVENT
+7	https://t.co/3Tlv2slALc	#hlink#	ADD	pos2=NNP	2	pobj	_	L-EVENT
+

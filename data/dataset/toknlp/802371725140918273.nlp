@@ -1,0 +1,23 @@
+1	4	0	CD	pos2=LS	2	nmod	_	U-CARDINAL
+2	Stages	stage	NNS	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	Acceptance:1	acceptance:0	NNP	pos2=NN	3	pobj	_	U-ORG
+5	.	.	.	_	2	punct	_	O
+
+1	Election	election	NN	pos2=NNP	2	compound	_	O
+2	Denial2	denial0	NNP	pos2=NN	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Protest3	protest0	LS	pos2=NN	0	root	_	U-CARDINAL
+2	.	.	.	_	1	punct	_	O
+
+1	Recount4	recount0	LS	pos2=NN	0	root	_	U-CARDINAL
+2	.	.	.	_	1	punct	_	O
+
+1	All	all	DT	pos2=RB	5	det	_	O
+2	aboard	aboard	IN	pos2=RB	1	prep	_	O
+3	Trump	trump	NNP	_	4	compound	_	B-ORG
+4	Train	train	NNP	pos2=GW	0	root	_	L-ORG
+5	#UsefulNewVerbs	#usefulnewverbs	POS	pos2=NNPS	4	case	_	O
+6	https://t.co/qB32eb9CHO	#hlink#	ADD	_	2	pobj	_	O
+

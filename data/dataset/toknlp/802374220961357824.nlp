@@ -1,0 +1,6 @@
+1	https://t.co/jCKXZTTdow.Leonard	#hlink#	ADD	pos2=SYM	3	nmod	_	O
+2	Cohen	cohen	NNP	pos2=GW	3	compound	_	U-PERSON
+3	reading	reading	NN	pos2=VBG	0	root	_	O
+4	On	on	IN	pos2=NNP	3	prep	_	O
+5	Moonlight	moonlight	NNP	pos2=NN	4	pobj	_	O
+

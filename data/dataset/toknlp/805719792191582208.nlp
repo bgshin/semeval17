@@ -1,0 +1,14 @@
+1	Cuba	cuba	NNP	_	4	poss	_	U-GPE
+2	's	's	POS	pos2=VBZ	1	case	_	O
+3	Fidel	fidel	NNP	_	4	compound	_	B-PERSON
+4	Castro	castro	NNP	_	13	dep	_	L-PERSON
+5	,	,	,	_	4	punct	_	O
+6	A	a	DT	pos2=NNP	8	det	_	O
+7	Revolutionary	revolutionary	NNP	pos2=JJ	8	compound	_	O
+8	Leader	leader	NNP	pos2=NN	4	appos	_	O
+9	Who	who	WP	pos2=NNP	10	nsubj	_	O
+10	Defied	defy	VBD	_	8	relcl	_	O
+11	The	the	DT	_	12	det	_	O
+12	US	us	NNP	_	10	dobj	_	U-GPE
+13	https://t.co/fzHBD8cnTQ	#hlink#	ADD	pos2=NN	0	root	_	O
+

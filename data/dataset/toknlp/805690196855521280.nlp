@@ -1,0 +1,25 @@
+1	If	if	IN	_	3	mark	_	O
+2	we	we	PRP	_	3	nsubj	_	O
+3	had	have	VBD	_	12	advcl	_	O
+4	death	death	NN	_	5	compound	_	O
+5	penalty	penalty	NN	_	6	compound	_	O
+6	referendum	referendum	NN	_	3	dobj	_	O
+7	Theresa	theresa	NNP	pos2=NN	8	compound	_	B-PERSON
+8	May	may	NNP	_	12	nsubj	_	L-PERSON
+9	could	could	MD	_	12	aux	_	O
+10	nt	nt	RB	pos2=VB	12	advmod	_	O
+11	just	just	RB	_	12	advmod	_	O
+12	bring	bring	VB	_	0	root	_	O
+13	back	back	RB	_	12	advmod	_	O
+14	hanging	hang	VBG	pos2=NN	12	dobj	_	O
+15	using	use	VBG	_	12	advcl	_	O
+16	Royal	royal	NNP	_	17	compound	_	B-ORG
+17	Prerogative	prerogative	NNP	pos2=NN	15	dobj	_	L-ORG
+18	.	.	.	_	12	punct	_	O
+
+1	Need	need	VBP	pos2=VB	0	root	_	O
+2	Act	act	NNP	pos2=NN	1	dobj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	Parliament	parliament	NNP	_	3	pobj	_	U-ORG
+5	.	.	.	_	1	punct	_	O
+

@@ -1,0 +1,10 @@
+1	MY	my	PRP$	_	2	poss	_	O
+2	LIFE	life	NN	_	7	nsubj	_	O
+3	by	by	IN	_	2	prep	_	O
+4	Fidel	fidel	NNP	_	5	compound	_	B-PERSON
+5	Ca	ca	NNP	pos2=GW	3	pobj	_	L-PERSON
+6	strohttps://t.co/2hGT23JyGz#FidelCastro	#hlink#	ADD	_	7	nsubj	_	O
+7	#books	#books	VBZ	pos2=GW	0	root	_	O
+8	#MyLife	#mylife	ADD	pos2=-LRB-	9	punct	_	O
+9	https://t.co/0N4Js8lQPG	#hlink#	ADD	_	7	dobj	_	O
+

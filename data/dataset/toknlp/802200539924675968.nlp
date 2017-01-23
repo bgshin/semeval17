@@ -1,0 +1,24 @@
+1	On	on	IN	_	15	prep	_	O
+2	International	international	NNP	pos2=JJ	3	compound	_	B-DATE
+3	Day	day	NNP	_	1	pobj	_	L-DATE
+4	for	for	IN	_	2	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	Elimination	elimination	NNP	pos2=NN	4	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Violence	violence	NN	pos2=NNP	9	compound	_	O
+9	#	#	NN	_	7	pobj	_	O
+10	16	0	CD	pos2=JJS	11	nmod	_	B-DATE
+11	days	day	NNS	_	15	nsubjpass	_	L-DATE
+12	of	of	IN	_	11	prep	_	O
+13	activism	activism	NN	_	12	pobj	_	O
+14	is	be	VBZ	_	15	auxpass	_	O
+15	launched	launch	VBN	_	0	root	_	O
+16	in	in	IN	_	15	prep	_	O
+17	#Yemen	#yemen	NNP	pos2=NNS	16	pobj	_	U-LOC
+18	“	"	``	pos2=''	19	punct	_	O
+19	Make	make	VB	pos2=VBP	15	advcl	_	O
+20	education	education	NN	_	21	compound	_	O
+21	saf	saf	NN	pos2=GW	19	dobj	_	O
+22	…	…	NFP	pos2=-LRB-	23	punct	_	O
+23	https://t.co/UY1v6eKRPm	#hlink#	ADD	_	15	punct	_	O
+

@@ -1,0 +1,29 @@
+1	@ThePlumLineGS	@theplumlinegs	NNS	pos2=XX	0	root	_	O
+2	@washingtonpost	@washingtonpost	UH	pos2=RB	1	discourse	_	O
+3	...	..	.	pos2=NFP	1	punct	_	O
+
+1	to	to	TO	_	2	aux	_	O
+2	be	be	VB	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	Dem	dem	NNP	pos2=JJ	5	nmod	_	U-NORP
+5	leaders	leader	NNS	_	2	attr	_	O
+6	again	again	RB	_	2	advmod	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	Talking	talk	VBG	_	0	root	_	O
+2	about	about	IN	_	1	prep	_	O
+3	you	you	PRP	_	2	pobj	_	O
+4	Schumer	schumer	NNP	_	3	appos	_	U-PERSON
+5	and	and	CC	_	4	cc	_	O
+6	Pelosi	pelosi	NNP	_	4	conj	_	U-PERSON
+7	.	.	.	_	1	punct	_	O
+
+1	With	with	IN	_	7	prep	_	O
+2	them	them	PRP	_	1	pobj	_	O
+3	in	in	IN	_	2	prep	_	O
+4	charge	charge	NN	_	3	pobj	_	O
+5	,	,	,	_	4	punct	_	O
+6	nothing	nothing	NN	_	7	compound	_	O
+7	changes	change	NNS	pos2=VBZ	0	root	_	O
+8	.	.	.	_	7	punct	_	O
+

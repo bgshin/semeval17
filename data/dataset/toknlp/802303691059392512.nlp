@@ -1,0 +1,14 @@
+1	Look	look	VB	_	0	root	_	O
+2	at	at	IN	_	1	prep	_	O
+3	Kierra	kierra	NNP	_	2	pobj	_	U-PERSON
+4	doing	do	VBG	_	1	advcl	_	O
+5	her	her	PRP$	pos2=PRP	7	poss	_	O
+6	good	good	JJ	_	7	nmod	_	O
+7	singing	singing	NN	_	4	dobj	_	O
+8	and	and	CC	_	7	cc	_	O
+9	growling	growling	NN	pos2=VBG	7	conj	_	O
+10	today	today	NN	_	4	npadvmod	_	U-DATE
+11	.	.	.	_	1	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+

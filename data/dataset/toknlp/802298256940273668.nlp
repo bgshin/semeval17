@@ -1,0 +1,21 @@
+1	@SheaSerrano	@sheaserrano	UH	pos2=NN	5	discourse	_	O
+2	did	do	VBD	_	5	aux	_	O
+3	you	you	PRP	_	5	nsubj	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	crown	crown	VB	pos2=NN	0	root	_	O
+6	one	#crd#	CD	_	7	nmod	_	U-CARDINAL
+7	dude	dude	NN	_	5	dobj	_	O
+8	"	"	``	pos2=''	11	punct	_	O
+9	Little	little	NNP	pos2=JJ	11	compound	_	B-PERSON
+10	Tim	tim	NNP	_	11	compound	_	I-PERSON
+11	Duncan	duncan	NNP	_	7	appos	_	I-PERSON
+12	"	"	''	_	11	punct	_	L-PERSON
+13	and	and	CC	_	5	cc	_	O
+14	gave	give	VBD	_	5	conj	_	O
+15	him	him	PRP	_	14	dative	_	O
+16	the	the	DT	_	17	det	_	O
+17	ball	ball	NN	_	14	dobj	_	O
+18	every	every	DT	_	19	det	_	O
+19	play	play	NN	pos2=VB	14	npadvmod	_	O
+20	?	?	.	_	5	punct	_	O
+

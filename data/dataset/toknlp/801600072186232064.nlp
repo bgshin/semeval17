@@ -1,0 +1,17 @@
+1	A	a	DT	_	3	det	_	O
+2	travel	travel	NN	_	3	compound	_	O
+3	call	call	NN	pos2=VB	0	root	_	O
+4	on	on	IN	_	3	prep	_	O
+5	Grayson	grayson	NNP	_	6	compound	_	B-PERSON
+6	Allen	allen	NNP	_	4	pobj	_	L-PERSON
+7	.	.	.	_	3	punct	_	O
+
+1	Someplace	someplace	NN	pos2=RB	7	nsubj	_	O
+2	,	,	,	_	7	punct	_	O
+3	somewhere	somewhere	RB	pos2=NN	7	advmod	_	O
+4	,	,	,	_	7	punct	_	O
+5	Tony	tony	NNP	_	6	compound	_	B-PERSON
+6	Bennett	bennett	NNP	_	7	nsubj	_	L-PERSON
+7	smiles	smile	VBZ	_	0	root	_	O
+8	.	.	.	_	7	punct	_	O
+

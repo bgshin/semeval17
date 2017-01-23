@@ -1,0 +1,22 @@
+1	RIP	rip	VB	pos2=NN	0	root	_	O
+2	EU	eu	NNP	pos2=NN	3	compound	_	U-ORG
+3	Persona	persona	NN	pos2=NNP	1	dobj	_	O
+4	5	0	CD	_	6	nmod	_	U-CARDINAL
+5	PSN	psn	NN	pos2=FW	6	compound	_	O
+6	theme	theme	NN	_	3	appos	_	O
+7	;	;	,	pos2=:	1	punct	_	O
+8	_	_	''	pos2=NFP	1	punct	_	O
+9	;	;	,	pos2=:	19	punct	_	O
+10	;	;	,	pos2=:	19	punct	_	O
+11	_	_	''	pos2=NFP	1	punct	_	O
+12	;	;	,	pos2=:	16	punct	_	O
+13	;	;	,	pos2=:	19	punct	_	O
+14	_	_	''	pos2=NFP	19	punct	_	O
+15	;	;	:	pos2=,	19	punct	_	O
+16	The	the	DT	_	17	det	_	O
+17	ride	ride	NN	_	19	nsubj	_	O
+18	never	never	RB	_	19	neg	_	O
+19	ends	end	VBZ	_	0	root	_	O
+20	for	for	IN	_	19	prep	_	O
+21	Europe	europe	NNP	_	20	pobj	_	U-LOC
+

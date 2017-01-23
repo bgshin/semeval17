@@ -1,0 +1,24 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	miss	miss	VBP	_	11	ccomp	_	O
+3	my	my	PRP$	_	4	poss	_	O
+4	country	country	NN	_	2	dobj	_	O
+5	,	,	,	_	11	punct	_	O
+6	Palestinethat	palestinethat	NNP	_	10	poss	_	U-PERSON
+7	's	's	POS	pos2=VBZ	6	case	_	O
+8	what	what	WP	_	11	dative	_	O
+9	my	my	PRP$	_	10	poss	_	O
+10	grandmother	grandmother	NN	_	11	nsubj	_	O
+11	told	tell	VBD	_	0	root	_	O
+12	me	me	PRP	_	11	dobj	_	O
+13	when	when	WRB	_	15	advmod	_	O
+14	I	I	PRP	_	15	nsubj	_	O
+15	asked	ask	VBD	_	11	advcl	_	O
+16	why	why	WRB	_	17	advmod	_	O
+17	's	's	VBZ	pos2=AFX	15	ccomp	_	O
+18	she	she	PRP	_	17	nsubj	_	O
+19	sad	sad	JJ	_	17	acomp	_	O
+20	today	today	NN	_	17	npadvmod	_	U-DATE
+21	.	.	.	_	11	punct	_	O
+
+1	#Palestine	#palestine	NNP	pos2=PRP	0	root	_	O
+

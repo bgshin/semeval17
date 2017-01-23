@@ -1,0 +1,13 @@
+1	#Iraq	#iraq	NNP	pos2=XX	2	compound	_	B-PERSON
+2	#Mosul	#mosul	NNP	pos2=POS	4	compound	_	L-PERSON
+3	#Civilians_fleeing	#civilians_fleeing	VBG	pos2=NNP	4	compound	_	O
+4	Mosul	mosul	NNP	_	5	nsubj	_	U-GPE
+5	caught	catch	VBN	pos2=VBD	0	root	_	O
+6	under	under	IN	_	5	prep	_	O
+7	firehttps://t.co/yhW1MnYrNl	#hlink#	ADD	_	6	pobj	_	O
+8	#mosuloffensive	#mosuloffensive	IN	pos2=XX	5	prep	_	O
+9	#journalism	#journalism	UH	pos2=NN	8	discourse	_	O
+10	@IOMIraq	@iomiraq	ADD	pos2=NNP	8	pobj	_	O
+11	@UNHCRIraq	@unhcriraq	ADD	pos2=XX	8	pobj	_	O
+12	@UNICEFiraq	@unicefiraq	ADD	pos2=UH	8	pobj	_	O
+

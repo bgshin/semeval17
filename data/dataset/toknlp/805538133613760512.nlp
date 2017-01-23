@@ -1,0 +1,10 @@
+1	Pros	pro	NNS	pos2=NNPS	7	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	Cons	con	NNS	pos2=NNPS	1	conj	_	O
+4	of	of	IN	_	1	prep	_	O
+5	Cuba	cuba	NNP	_	6	compound	_	U-GPE
+6	Embargo	embargo	NNP	_	4	pobj	_	O
+7	https://t.co/Gr5A21ziyT	#hlink#	ADD	_	0	root	_	O
+8	via	via	IN	_	7	prep	_	O
+9	@procon_org	@procon_org	NNP	pos2=.	8	pobj	_	U-ORG
+

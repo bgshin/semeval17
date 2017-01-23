@@ -1,0 +1,24 @@
+1	@SakinaKamwendo	@sakinakamwendo	NN	pos2=NNP	0	root	_	O
+2	-	-	HYPH	pos2=:	7	punct	_	O
+3	Cde	cde	NNP	_	1	dep	_	O
+4	Fidel	fidel	NNP	_	5	compound	_	B-PERSON
+5	Castro	castro	NNP	_	7	npadvmod	_	L-PERSON
+6	-	-	HYPH	pos2=:	7	punct	_	O
+7	True	true	JJ	pos2=NNP	8	nmod	_	O
+8	Friend	friend	NN	pos2=NNP	3	appos	_	O
+9	Of	of	IN	_	8	prep	_	O
+10	Africa	africa	NNP	pos2=RB	9	pobj	_	U-LOC
+11	.	.	.	_	1	punct	_	O
+
+1	Africa	africa	NNP	_	2	nsubj	_	U-LOC
+2	remembers	remember	VBZ	_	0	root	_	O
+3	your	your	PRP$	_	4	poss	_	O
+4	contribution	contribution	NN	_	2	dobj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	our	our	PRP$	_	7	poss	_	O
+7	struggle	struggle	NN	_	5	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	RIP	rip	NN	pos2=VB	2	dep	_	O
+2	https://t.co/ETUbroNkXA	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

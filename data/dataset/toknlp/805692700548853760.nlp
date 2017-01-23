@@ -1,0 +1,24 @@
+1	@AriBerman	@ariberman	NNP	pos2=ADD	3	vocative	_	O
+2	What	what	WP	_	3	attr	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	best	good	JJS	_	6	nmod	_	O
+6	source	source	NN	_	3	nsubj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	data	datum	NNS	pos2=NN	7	pobj	_	O
+9	for	for	IN	_	8	prep	_	O
+10	number	number	NN	_	9	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	voters	voter	NNS	_	11	pobj	_	O
+13	elected	elect	VBN	_	12	acl	_	O
+14	by	by	IN	_	13	agent	_	O
+15	current	current	JJ	_	17	nmod	_	O
+16	suppression	suppression	NN	_	17	compound	_	O
+17	efforts	effort	NNS	_	14	pobj	_	O
+18	(	(	-LRB-	_	21	punct	_	O
+19	voter	voter	NN	_	20	compound	_	O
+20	ID	id	NN	_	21	compound	_	O
+21	etc.	etc.	FW	_	17	appos	_	O
+22	)	)	-RRB-	_	3	punct	_	O
+23	?	?	.	_	3	punct	_	O
+

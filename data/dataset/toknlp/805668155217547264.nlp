@@ -1,0 +1,18 @@
+1	Our	our	PRP$	_	2	poss	_	O
+2	Cubs	cub	NNPS	pos2=NNS	3	nsubj	_	U-ORG
+3	are	be	VBP	_	0	root	_	O
+4	here	here	RB	_	3	advmod	_	O
+5	..	..	.	pos2=,	3	punct	_	O
+
+1	please	please	UH	_	2	discourse	_	O
+2	help	help	VB	_	0	root	_	O
+3	us	us	PRP	_	2	dobj	_	O
+4	with	with	IN	_	2	prep	_	O
+5	1GB	0gb	NN	pos2=JJ	6	compound	_	O
+6	diapers	diaper	NNS	_	4	pobj	_	O
+7	..	..	.	pos2=,	2	punct	_	O
+
+1	theTunnelBear	thetunnelbear	NNP	pos2=``	2	compound	_	B-PERSON
+2	Thnx	thnx	NNP	pos2=UH	3	dep	_	L-PERSON
+3	You	you	PRP	pos2=NNP	0	root	_	O
+

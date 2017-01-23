@@ -1,0 +1,13 @@
+1	Appreciating	appreciate	VBG	_	0	root	_	O
+2	Bob	bob	NNP	_	3	compound	_	B-PERSON
+3	Dylan	dylan	NNP	_	1	dobj	_	L-PERSON
+4	right	right	RB	_	5	advmod	_	O
+5	now	now	RB	_	1	advmod	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	love	love	VBP	_	0	root	_	O
+3	my	my	PRP$	_	4	poss	_	O
+4	dad	dad	NN	_	2	dobj	_	O
+5	haha	haha	UH	_	2	discourse	_	O
+

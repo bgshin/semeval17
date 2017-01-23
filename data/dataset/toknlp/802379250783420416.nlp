@@ -1,0 +1,30 @@
+1	Bob	bob	NNP	_	2	compound	_	B-PERSON
+2	Dylan	dylan	NNP	_	3	nsubj	_	L-PERSON
+3	singing	sing	VBG	pos2=NN	0	root	_	O
+4	"	"	``	_	3	punct	_	O
+5	It	it	PRP	_	6	nsubj	_	O
+6	's	's	VBZ	_	3	ccomp	_	O
+7	a	a	DT	_	12	det	_	O
+8	Hard	hard	NNP	pos2=JJ	12	compound	_	B-WORK_OF_ART
+9	Rain	rain	NNP	pos2=NN	12	compound	_	I-WORK_OF_ART
+10	Gon	gon	NNP	pos2=VBG	12	compound	_	I-WORK_OF_ART
+11	na	na	NNP	pos2=TO	12	compound	_	I-WORK_OF_ART
+12	Fall	fall	NNP	pos2=VB	6	attr	_	I-WORK_OF_ART
+13	"	"	''	pos2=``	12	punct	_	L-WORK_OF_ART
+14	taped	tape	VBN	pos2=VBD	12	acl	_	O
+15	live	live	RB	pos2=JJ	14	advmod	_	O
+16	in	in	IN	_	14	prep	_	O
+17	1963	0	CD	_	16	pobj	_	U-DATE
+18	on	on	IN	_	14	prep	_	O
+19	Studs	stud	NNS	pos2=NNP	18	pobj	_	O
+20	Terkel	terkel	NNP	pos2=WDT	22	compound	_	O
+21	radio	radio	NN	_	22	compound	_	O
+22	show	show	NN	_	6	attr	_	O
+23	.	.	.	_	3	punct	_	O
+
+1	Nice	nice	JJ	pos2=NNP	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	@WFMTclassical	@wfmtclassical	ADD	pos2=-LRB-	2	punct	_	O
+2	https://t.co/MFg2JArVmk	#hlink#	ADD	_	0	root	_	O
+

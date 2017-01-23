@@ -1,0 +1,25 @@
+1	13	0	CD	pos2=LS	3	nmod	_	U-CARDINAL
+2	Egyptian	egyptian	JJ	_	3	nmod	_	U-NORP
+3	soldiers	soldier	NNS	_	4	nsubj	_	O
+4	killed	kill	VBN	pos2=VBD	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	an	an	DT	_	7	det	_	O
+7	attack	attack	NN	_	5	pobj	_	O
+8	carried	carry	VBN	_	7	acl	_	O
+9	out	out	RP	_	8	prt	_	O
+10	by	by	IN	_	8	agent	_	O
+11	#ISIS	#isis	NNP	pos2=NN	10	pobj	_	U-ORG
+12	on	on	IN	pos2=RP	8	prep	_	O
+13	(	(	-LRB-	_	11	punct	_	O
+14	AL	al	NNP	pos2=NN	16	compound	_	O
+15	-	-	HYPH	_	16	punct	_	O
+16	gas	gas	NN	pos2=NNP	24	dep	_	O
+17	)	)	-RRB-	_	12	punct	_	O
+18	ambush	ambush	NN	pos2=VB	19	compound	_	O
+19	southwest	southwest	NN	pos2=RB	24	dep	_	O
+20	of	of	IN	_	19	prep	_	O
+21	El	el	NNP	_	23	compound	_	B-GPE
+22	Arish	arish	NNP	_	23	compound	_	L-GPE
+23	#Sinai	#sinai	NNP	pos2=POS	20	pobj	_	O
+24	https://t.co/97M45ZdU9O	#hlink#	ADD	_	4	dep	_	O
+

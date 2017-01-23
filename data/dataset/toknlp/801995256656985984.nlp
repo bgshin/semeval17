@@ -1,0 +1,24 @@
+1	Damn	damn	RB	pos2=JJ	6	advmod	_	O
+2	,	,	,	_	7	punct	_	O
+3	reading	read	VBG	_	0	root	_	O
+4	other	other	JJ	pos2=IN	7	nmod	_	O
+5	Green	green	NNP	_	6	compound	_	B-PRODUCT
+6	Meanie	meanie	NNP	_	7	compound	_	L-PRODUCT
+7	theories	theory	NNS	pos2=XX	3	dobj	_	O
+8	is	be	VBZ	_	9	aux	_	O
+9	shaking	shake	VBG	_	3	conj	_	O
+10	my	my	PRP$	_	11	poss	_	O
+11	confidence	confidence	NN	_	9	dobj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	my	my	PRP$	_	14	poss	_	O
+14	pick	pick	NN	_	12	pobj	_	O
+15	...	..	.	pos2=,	14	punct	_	O
+
+1	everyone	everyone	NN	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	suspect	suspect	NN	_	2	attr	_	O
+5	!	!	.	_	2	punct	_	O
+
+1	#ScreamQueens	#screamqueens	NNS	pos2=ADD	0	root	_	U-DATE
+

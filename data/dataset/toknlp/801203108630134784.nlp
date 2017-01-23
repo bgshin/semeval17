@@ -1,0 +1,27 @@
+1	@PrisonPlanet	@prisonplanet	NNP	pos2=NN	2	compound	_	O
+2	Spencer	spencer	NNP	_	3	nsubj	_	U-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	even	even	RB	_	5	advmod	_	O
+5	one	#crd#	CD	_	3	attr	_	U-CARDINAL
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	11	det	_	O
+8	softer	soft	JJR	pos2=RBR	11	nmod	_	O
+9	alt	alt	NN	pos2=JJ	11	compound	_	O
+10	-	-	HYPH	_	11	punct	_	O
+11	rightists	rightist	NNS	_	6	pobj	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	guess	guess	VBP	_	0	root	_	O
+3	Paul	paul	NNP	_	6	nsubj	_	U-PERSON
+4	does	do	VBZ	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	know	know	VB	_	2	ccomp	_	O
+7	much	much	JJ	pos2=RB	6	dobj	_	O
+8	about	about	IN	pos2=RB	7	prep	_	O
+9	shitposting	shitposting	VBG	pos2=NN	8	pcomp	_	O
+10	and	and	CC	_	9	cc	_	O
+11	chan	chan	JJ	pos2=NN	12	nmod	_	O
+12	culture	culture	NN	_	9	conj	_	O
+13	.	.	.	_	2	punct	_	O
+

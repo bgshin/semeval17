@@ -1,0 +1,25 @@
+1	Florence	florence	NNP	_	2	compound	_	B-PERSON
+2	Henderson	henderson	NNP	_	13	nsubj	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	‘	'	''	pos2=XX	2	punct	_	O
+5	Brady	brady	NNP	_	6	compound	_	B-PERSON
+6	Bunch	bunch	NNP	pos2=NN	8	poss	_	I-PERSON
+7	’	'	POS	pos2=''	6	case	_	I-PERSON
+8	Mom	mom	NNP	pos2=NN	13	nsubj	_	L-PERSON
+9	and	and	CC	_	8	cc	_	O
+10	TV	tv	NN	pos2=NNP	11	compound	_	O
+11	Icon	icon	NNP	pos2=NN	8	conj	_	O
+12	,	,	,	_	13	punct	_	O
+13	Dies	die	VBZ	pos2=NNP	0	root	_	O
+14	at	at	IN	_	13	prep	_	O
+15	82	0	CD	_	14	pobj	_	U-CARDINAL
+16	(	(	-LRB-	_	17	punct	_	O
+17	sad	sad	JJ	_	13	parataxis	_	O
+18	)	)	-RRB-	_	17	punct	_	O
+19	#p2	#p0	NN	pos2=CD	20	compound	_	O
+20	#TNTweeters	#tntweeters	NNS	pos2=VBZ	24	dep	_	O
+21	#USLatino	#uslatino	GW	pos2=ADD	24	nmod	_	U-DATE
+22	#UniteBlue	#uniteblue	GW	pos2=VBP	24	nmod	_	O
+23	…	…	NFP	pos2=GW	24	punct	_	O
+24	https://t.co/5UOYInHnzq	#hlink#	ADD	pos2=NN	13	dep	_	O
+

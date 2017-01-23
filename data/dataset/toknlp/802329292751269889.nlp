@@ -1,0 +1,26 @@
+1	@jonathanweisman	@jonathanweisman	UH	pos2=NN	2	discourse	_	O
+2	@AndyRichter	@andyrichter	JJR	pos2=GW	0	root	_	U-PERSON
+3	@washingtonpost	@washingtonpost	TO	pos2=MD	4	aux	_	O
+4	wonder	wonder	VB	pos2=VBP	2	xcomp	_	O
+5	how	how	WRB	_	8	advmod	_	O
+6	they	they	PRP	_	8	nsubj	_	O
+7	would	would	MD	_	8	aux	_	O
+8	feel	feel	VB	_	4	ccomp	_	O
+9	if	if	IN	_	14	mark	_	O
+10	Kim	kim	NNP	_	13	compound	_	B-PERSON
+11	Jong	jong	NNP	_	13	compound	_	I-PERSON
+12	-	-	HYPH	_	13	punct	_	I-PERSON
+13	un	un	NNP	_	14	nsubj	_	L-PERSON
+14	was	be	VBD	_	8	ccomp	_	O
+15	the	the	DT	_	16	det	_	O
+16	one	#crd#	NN	pos2=CD	14	attr	_	O
+17	helping	help	VBG	_	16	acl	_	O
+18	Trump	trump	NNP	pos2=NN	17	dobj	_	U-PERSON
+19	?	?	.	_	2	punct	_	O
+
+1	i.e.	i.e.	FW	_	5	advmod	_	O
+2	Not	not	RB	_	5	neg	_	O
+3	a	a	DT	_	5	det	_	O
+4	white	white	JJ	_	5	nmod	_	O
+5	guy	guy	NN	_	0	root	_	O
+

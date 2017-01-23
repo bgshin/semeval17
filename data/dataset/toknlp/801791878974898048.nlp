@@ -1,0 +1,24 @@
+1	To	to	IN	pos2=TO	0	root	_	O
+2	big	big	JJ	pos2=VB	0	root	_	O
+3	to	to	TO	pos2=NN	0	root	_	O
+4	...	..	.	_	1	punct	_	O
+
+1	be	be	VB	_	0	root	_	O
+2	a	a	DT	_	4	det	_	O
+3	state	state	NN	_	4	compound	_	O
+4	sponsor	sponsor	NN	_	1	attr	_	O
+5	of	of	IN	_	4	prep	_	O
+6	terrorism	terrorism	NN	_	5	pobj	_	O
+7	?	?	.	_	1	punct	_	O
+
+1	#Russia	#russia	NNP	pos2=NN	3	nsubj	_	U-ORG
+2	officially	officially	RB	_	3	advmod	_	O
+3	meets	meet	VBZ	_	0	root	_	O
+4	with	with	IN	_	3	prep	_	O
+5	ally	ally	NN	pos2=JJ	6	compound	_	O
+6	#Hezbollah	#hezbollah	NN	pos2=NNP	4	pobj	_	O
+7	for	for	IN	_	3	prep	_	O
+8	first	#ord#	JJ	_	9	nmod	_	U-ORDINAL
+9	time	time	NN	_	7	pobj	_	O
+10	https://t.co/1svVcwRsQ2	#hlink#	ADD	_	3	dep	_	U-ORG
+

@@ -1,0 +1,16 @@
+1	Field	field	NNP	pos2=NN	6	compound	_	B-ORG
+2	Service	service	NNP	pos2=NN	6	compound	_	I-ORG
+3	Technician	technician	NNP	pos2=NN	6	compound	_	I-ORG
+4	Robots	robots	NNP	pos2=VBZ	6	compound	_	I-ORG
+5	Automation	automation	NNP	pos2=NN	6	compound	_	I-ORG
+6	Jobs	job	NNPS	pos2=NNP	15	dep	_	L-ORG
+7	in	in	IN	_	6	prep	_	O
+8	Chicago	chicago	NNP	_	7	pobj	_	U-GPE
+9	,	,	,	_	6	punct	_	O
+10	IL	il	NNP	pos2=NN	12	compound	_	B-ORG
+11	#Chicago	#chicago	NNP	pos2=IN	12	compound	_	I-ORG
+12	#IL	#il	NNP	pos2=GW	15	dep	_	L-ORG
+13	#jobs	#jobs	GW	pos2=UH	15	nmod	_	O
+14	#jobsearch	#jobsearch	GW	pos2=-LRB-	15	nmod	_	O
+15	https://t.co/hcaUdq0yDp	#hlink#	ADD	pos2=NN	0	root	_	O
+

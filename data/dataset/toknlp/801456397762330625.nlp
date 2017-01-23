@@ -1,0 +1,21 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	added	add	VBD	_	12	ccomp	_	O
+3	a	a	DT	_	4	det	_	O
+4	video	video	NN	_	2	dobj	_	O
+5	to	to	IN	_	2	prep	_	O
+6	a	a	DT	_	8	det	_	O
+7	@YouTube	@youtube	JJ	pos2=CD	8	nmod	_	O
+8	playlist	playlist	NN	_	5	pobj	_	O
+9	https://t.co/ZtEEZp8iaA	#hlink#	ADD	pos2=NNP	14	compound	_	O
+10	Melania	melania	NNP	_	11	compound	_	B-PERSON
+11	Trump	trump	NNP	_	12	nsubj	_	L-PERSON
+12	Plagiarized	plagiarize	VBD	pos2=NNP	0	root	_	O
+13	Michelle	michelle	NNP	_	14	compound	_	B-PERSON
+14	Obama	obama	NNP	_	18	poss	_	I-PERSON
+15	's	's	POS	_	14	case	_	L-PERSON
+16	2008	0	CD	_	18	nmod	_	U-DATE
+17	Speech	speech	NN	pos2=NNP	18	compound	_	O
+18	word	word	NN	_	12	dobj	_	O
+19	for	for	IN	_	18	prep	_	O
+20	words	word	NNS	_	19	pobj	_	O
+

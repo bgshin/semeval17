@@ -1,0 +1,14 @@
+1	Cuba	cuba	NN	pos2=NNP	4	dep	_	U-GPE
+2	:	:	:	_	4	punct	_	O
+3	No	no	DT	pos2=UH	4	det	_	O
+4	monuments	monument	NNS	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	Fidel	fidel	NNP	_	7	compound	_	B-PERSON
+7	Castro	castro	NNP	_	5	pobj	_	L-PERSON
+8	—	-	:	pos2=,	4	punct	_	O
+9	his	his	PRP$	pos2=GW	10	poss	_	O
+10	wish	wish	NN	pos2=GW	4	appos	_	O
+11	https://t.co/uPcspRnpbp	#hlink#	ADD	pos2=NN	7	appos	_	O
+12	#Cuba	#cuba	NNP	pos2=-RRB-	10	appos	_	O
+13	#FidelCastro	#fidelcastro	ADD	pos2=NN	12	pobj	_	O
+

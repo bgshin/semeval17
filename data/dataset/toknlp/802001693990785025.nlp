@@ -1,0 +1,19 @@
+1	Tesla	tesla	NNP	_	2	compound	_	O
+2	Model	model	NNP	pos2=NN	5	poss	_	O
+3	S	s	POS	pos2=NN	2	case	_	O
+4	P100	p0	NN	pos2=NNP	5	compound	_	O
+5	D	d	NN	pos2=NNP	18	dep	_	O
+6	vs	vs	CC	pos2=IN	5	cc	_	O
+7	Dodge	dodge	NNP	_	10	compound	_	U-ORG
+8	Challenger	challenger	NNP	_	10	compound	_	O
+9	SRT	srt	NNP	pos2=NN	10	compound	_	O
+10	Hellcat	hellcat	NNP	_	18	dep	_	O
+11	,	,	,	_	10	punct	_	O
+12	Battle	battle	NNP	pos2=NN	10	appos	_	B-WORK_OF_ART
+13	Of	of	IN	_	12	prep	_	I-WORK_OF_ART
+14	The	the	DT	_	16	det	_	I-WORK_OF_ART
+15	Fastest	fastest	NNP	pos2=JJS	16	compound	_	I-WORK_OF_ART
+16	Cars	car	NNS	pos2=NNPS	13	pobj	_	L-WORK_OF_ART
+17	https://t.co/ErdgYSCHZQ	#hlink#	ADD	_	18	dep	_	O
+18	https://t.co/MEyElVk7Uy	#hlink#	ADD	_	0	root	_	U-ORG
+

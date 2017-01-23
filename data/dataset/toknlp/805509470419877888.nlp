@@ -1,0 +1,21 @@
+1	So	so	RB	_	3	advmod	_	O
+2	#media	#media	RB	pos2=HYPH	3	advmod	_	O
+3	nonstop	nonstop	JJ	pos2=RB	0	root	_	O
+4	about	about	IN	pos2=RB	3	prep	_	O
+5	#Taiwan	#taiwan	NNP	pos2=JJ	6	compound	_	O
+6	protocol	protocol	NN	_	4	pobj	_	O
+7	but	but	CC	_	6	cc	_	O
+8	nonissue	nonissue	NN	pos2=RB	6	conj	_	O
+9	with	with	IN	_	3	prep	_	O
+10	#cuba	#cuba	DT	pos2=JJ	12	det	_	O
+11	embargo	embargo	NN	pos2=JJ	12	compound	_	O
+12	lift	lift	NN	pos2=VBP	9	pobj	_	O
+13	#ransom	#ransom	XX	pos2=FW	15	dep	_	O
+14	#iransanctions	#iransanctions	NNS	pos2=PRP$	15	nsubj	_	O
+15	lift	lift	VB	pos2=NN	3	advcl	_	O
+16	?	?	.	_	3	punct	_	O
+
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=RB	2	nsubj	_	O
+2	fascinating	fascinating	JJ	_	0	root	_	O
+3	!!!	!!	.	_	2	punct	_	O
+

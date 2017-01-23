@@ -1,0 +1,19 @@
+1	@RealAlexJones	@realalexjones	ADD	pos2=NNS	4	nsubj	_	O
+2	is	be	VBZ	_	4	aux	_	O
+3	not	not	RB	_	4	neg	_	O
+4	going	go	VBG	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	approve	approve	VB	_	4	xcomp	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Mike	mike	NNP	_	9	compound	_	B-PERSON
+9	Pence	penny	NNP	_	7	pobj	_	L-PERSON
+10	doing	do	VBG	_	4	advcl	_	O
+11	all	all	PDT	pos2=DT	14	predet	_	O
+12	this	this	DT	_	14	det	_	O
+13	Goblin	goblin	NNP	pos2=NN	14	compound	_	O
+14	Kissing	kissing	NNP	pos2=VBG	10	dobj	_	O
+15	!	!	.	_	4	punct	_	O
+
+1	#TrumpTransitionTeam	#trumptransitionteam	ADD	pos2=XX	2	det	_	O
+2	#MAGA	#maga	NN	pos2=ADD	0	root	_	O
+

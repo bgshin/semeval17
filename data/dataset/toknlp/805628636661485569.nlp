@@ -1,0 +1,19 @@
+1	If	if	IN	_	3	mark	_	O
+2	Stein	stein	NNP	_	3	nsubj	_	U-PERSON
+3	was	be	VBD	_	12	advcl	_	O
+4	genuinely	genuinely	RB	_	5	advmod	_	O
+5	interested	interested	JJ	_	3	acomp	_	O
+6	in	in	IN	_	5	prep	_	O
+7	ferreting	ferret	VBG	_	6	pcomp	_	O
+8	voting	voting	NN	_	9	compound	_	O
+9	irregularities	irregularity	NNS	_	7	dobj	_	O
+10	she	she	PRP	_	12	nsubj	_	O
+11	would	would	MD	_	12	aux	_	O
+12	pursue	pursue	VB	_	0	root	_	O
+13	correcting	correct	VBG	_	12	xcomp	_	O
+14	voter	voter	NN	_	15	compound	_	O
+15	registration	registration	NN	_	13	dobj	_	O
+16	&	&	CC	_	12	cc	_	O
+17	standardize	standardize	VB	_	12	conj	_	O
+18	machines	machine	NNS	_	17	dobj	_	O
+

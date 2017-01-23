@@ -1,0 +1,16 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	'	'	``	pos2=POS	2	punct	_	O
+4	Fatty	fatty	NNP	pos2=JJ	5	compound	_	B-PERSON
+5	Kim	kim	NNP	_	9	nsubj	_	L-PERSON
+6	the	the	DT	_	7	det	_	O
+7	Third	#ord#	NNP	_	5	appos	_	O
+8	'	'	''	pos2=NNP	9	punct	_	O
+9	says	say	VBZ	_	2	ccomp	_	O
+10	the	the	DT	_	12	det	_	O
+11	Chinese	chinese	JJ	_	12	nmod	_	U-NORP
+12	public	public	NN	_	7	appos	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	https://t.co/tZpca8MfrF	#hlink#	ADD	_	0	root	_	U-ORG
+

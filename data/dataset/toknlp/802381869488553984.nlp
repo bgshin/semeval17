@@ -1,0 +1,13 @@
+1	#HillaryClinton	#hillaryclinton	NNP	pos2=ADD	2	compound	_	B-ORG
+2	Proof	proof	NNP	pos2=NN	0	root	_	L-ORG
+3	the	the	DT	_	4	det	_	O
+4	Dems	dems	NNPS	_	5	nsubj	_	U-NORP
+5	are	be	VBP	_	2	acl	_	O
+6	modern	modern	JJ	_	7	nmod	_	O
+7	day	day	NN	_	8	compound	_	O
+8	Nazis	nazi	NNPS	pos2=NNS	5	attr	_	U-NORP
+9	.	.	.	_	5	punct	_	O
+
+1	https://t.co/0EsDqgGBwm	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/P434j8Tg1z	#hlink#	ADD	_	0	root	_	U-ORG
+

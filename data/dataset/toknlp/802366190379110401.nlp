@@ -1,0 +1,27 @@
+1	@BUSHADEMOCRAT	@bushademocrat	NNP	pos2=NN	2	compound	_	U-ORG
+2	@ArthurA_P	@arthura_p	NN	pos2=XX	5	nsubj	_	O
+3	So	so	RB	pos2=NNP	4	advmod	_	O
+4	does	do	VBZ	_	0	root	_	O
+5	Hillary	hillary	NNP	_	4	nsubj	_	U-PERSON
+6	.	.	.	_	4	punct	_	O
+
+1	There	there	EX	_	2	expl	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	no	no	DT	_	5	det	_	O
+4	good	good	JJ	_	5	nmod	_	O
+5	alternative	alternative	NN	pos2=JJ	2	attr	_	O
+6	or	or	CC	_	5	cc	_	O
+7	anything	anything	NN	_	5	conj	_	O
+8	we	we	PRP	_	10	nsubj	_	O
+9	can	can	MD	_	10	aux	_	O
+10	do	do	VB	_	7	relcl	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	But	but	CC	_	2	cc	_	O
+2	fight	fight	VB	pos2=NN	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Medicare	medicare	NNP	_	3	pobj	_	U-ORG
+5	or	or	CC	_	4	cc	_	O
+6	something	something	NN	_	4	conj	_	O
+7	.	.	.	_	2	punct	_	O
+

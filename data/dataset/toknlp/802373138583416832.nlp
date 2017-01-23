@@ -1,0 +1,33 @@
+1	Obviously	obviously	RB	_	6	advmod	_	O
+2	,	,	,	_	6	punct	_	O
+3	this	this	DT	_	6	nsubjpass	_	O
+4	is	be	VBZ	_	6	auxpass	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	aimed	aim	VBN	_	0	root	_	O
+7	at	at	RB	pos2=IN	6	advmod	_	O
+8	all	all	DT	pos2=RB	9	det	_	O
+9	leftists	leftist	NNS	_	7	pobj	_	O
+10	,	,	,	_	6	punct	_	O
+11	but	but	CC	_	6	cc	_	O
+12	there	there	EX	_	13	expl	_	O
+13	are	be	VBP	_	6	conj	_	O
+14	a	a	DT	_	16	det	_	O
+15	scary	scary	JJ	_	16	nmod	_	O
+16	amount	amount	NN	_	13	attr	_	O
+17	who	who	WP	_	18	nsubj	_	O
+18	act	act	VBP	_	16	relcl	_	O
+19	this	this	DT	_	20	det	_	O
+20	way	way	NN	_	18	npadvmod	_	O
+21	.	.	.	_	13	punct	_	O
+
+1	Many	many	JJ	pos2=DT	4	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	whom	whom	WP	_	2	pobj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	part	part	NN	_	4	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	this	this	DT	_	10	det	_	O
+9	new	new	JJ	_	10	nmod	_	O
+10	wave	wave	NN	_	7	pobj	_	O
+

@@ -1,0 +1,18 @@
+1	Goes	go	VBZ	_	0	root	_	O
+2	to	to	TO	pos2=IN	3	aux	_	O
+3	show	show	VB	_	1	advcl	_	O
+4	what	what	WP	_	7	nsubjpass	_	O
+5	can	can	MD	_	7	aux	_	O
+6	be	be	VB	_	7	auxpass	_	O
+7	achieved	achieve	VBN	_	3	ccomp	_	O
+8	by	by	IN	_	7	prep	_	O
+9	committed	commit	VBN	pos2=JJ	10	nmod	_	O
+10	resistance	resistance	NN	_	8	pobj	_	O
+11	to	to	IN	_	10	prep	_	O
+12	planet	planet	NN	pos2=VB	11	pobj	_	O
+13	destroying	destroy	VBG	_	9	xcomp	_	O
+14	fossil	fossil	NN	pos2=JJ	15	compound	_	O
+15	fuels.#NoCarmichael	fuels.#nocarmichael	NNP	pos2=.	13	dobj	_	B-PERSON
+16	…	…	NFP	pos2=-LRB-	17	punct	_	L-PERSON
+17	https://t.co/KS95Ey0Gon	#hlink#	ADD	_	15	appos	_	O
+

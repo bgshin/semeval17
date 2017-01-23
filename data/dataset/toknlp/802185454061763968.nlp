@@ -1,0 +1,14 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	did	do	VBD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	know	know	VB	_	0	root	_	O
+5	Seth	seth	NNP	_	6	compound	_	B-PERSON
+6	Myers	myers	NNP	_	7	nsubj	_	L-PERSON
+7	had	have	VBD	_	4	ccomp	_	O
+8	a	a	DT	_	10	det	_	O
+9	cameo	cameo	JJ	pos2=NN	10	nmod	_	O
+10	appearance	appearance	NN	_	7	dobj	_	O
+11	on	on	IN	_	10	prep	_	O
+12	#ThisIsUs	#thisisus	NN	pos2=NNP	11	pobj	_	O
+13	!	!	.	_	4	punct	_	O
+

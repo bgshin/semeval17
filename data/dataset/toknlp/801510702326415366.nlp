@@ -1,0 +1,10 @@
+1	@OMGitsAliA	@omgitsalia	NNS	pos2=ADD	2	compound	_	O
+2	@trnrtips	@trnrtips	NNS	pos2=UH	6	nsubj	_	O
+3	And	and	CC	_	2	cc	_	O
+4	Melania	melania	NNP	_	5	compound	_	U-PERSON
+5	trump	trump	NN	pos2=NNP	2	conj	_	O
+6	wrote	write	VBD	_	0	root	_	O
+7	her	her	PRP$	_	9	poss	_	O
+8	own	own	JJ	_	9	nmod	_	O
+9	speech	speech	NN	_	6	dobj	_	O
+

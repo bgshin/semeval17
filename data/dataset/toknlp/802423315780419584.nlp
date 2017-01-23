@@ -1,0 +1,26 @@
+1	@ArtStationHQ	@artstationhq	VBG	pos2=XX	12	prep	_	U-CARDINAL
+2	Great	great	JJ	pos2=NNP	3	advmod	_	O
+3	looking	look	VBG	pos2=NN	1	dobj	_	O
+4	,	,	,	_	1	punct	_	O
+5	"	"	``	_	7	punct	_	O
+6	Alternative	alternative	JJ	pos2=NNP	7	nmod	_	O
+7	Robot	robot	NNP	pos2=NN	10	nmod	_	O
+8	"	"	''	_	7	punct	_	O
+9	,	,	,	_	12	punct	_	O
+10	robots	robot	NNS	_	12	nsubj	_	O
+11	should	should	MD	_	12	aux	_	O
+12	stop	stop	VB	_	0	root	_	O
+13	looking	look	VBG	_	12	xcomp	_	O
+14	100	0	CD	_	15	nmod	_	B-PERCENT
+15	%	%	NN	_	16	npadvmod	_	L-PERCENT
+16	mirrored	mirror	VBN	pos2=JJ	13	acomp	_	O
+17	,	,	,	_	12	punct	_	O
+18	so	so	IN	pos2=RB	21	mark	_	O
+19	they	they	PRP	_	21	nsubj	_	O
+20	can	can	MD	_	21	aux	_	O
+21	have	have	VB	_	12	advcl	_	O
+22	a	a	DT	_	25	det	_	O
+23	unique	unique	JJ	_	25	nmod	_	O
+24	human	human	JJ	pos2=NN	25	nmod	_	O
+25	characteristics	characteristic	NNS	_	21	dobj	_	O
+

@@ -1,0 +1,19 @@
+1	@LizCawleyFeeney	@lizcawleyfeeney	UH	pos2=ADD	9	discourse	_	O
+2	@politico	@politico	UH	pos2=VB	9	discourse	_	O
+3	@ArunChaud	@arunchaud	UH	pos2=VBD	9	discourse	_	O
+4	@POLITICOMag	@politicomag	UH	pos2=ADD	9	discourse	_	O
+5	how	how	WRB	_	6	advmod	_	O
+6	have	have	VBP	pos2=VB	9	aux	_	O
+7	the	the	DT	_	8	det	_	O
+8	obamas	obamas	NNS	pos2=NN	9	nsubj	_	O
+9	been	be	VBN	pos2=VBP	0	root	_	O
+10	anything	anything	NN	_	9	attr	_	O
+11	but	but	CC	pos2=IN	10	prep	_	O
+12	gracious	gracious	JJ	_	10	nmod	_	O
+13	to	to	IN	pos2=TO	12	prep	_	O
+14	trump	trump	NN	pos2=VB	13	pobj	_	O
+15	during	during	IN	_	10	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	transition	transition	NN	_	15	pobj	_	O
+18	?	?	.	_	9	punct	_	O
+

@@ -1,0 +1,21 @@
+1	Kameni	kameni	NNP	pos2=NN	3	nsubj	_	U-PERSON
+2	already	already	RB	_	3	advmod	_	O
+3	did	do	VBD	_	0	root	_	O
+4	his	his	PRP$	_	5	poss	_	O
+5	job	job	NN	_	3	dobj	_	O
+6	n	n	RB	pos2=NN	7	advmod	_	O
+7	transformed	transform	VBN	pos2=VBD	3	advcl	_	O
+8	into	into	IN	_	7	prep	_	O
+9	Neur	neur	NNP	_	8	pobj	_	U-GPE
+10	against	against	IN	_	7	prep	_	O
+11	us	us	PRP	pos2=NNP	10	pobj	_	O
+12	..	..	.	_	3	punct	_	O
+
+1	Now	now	RB	pos2=UH	3	advmod	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	ur	ur	JJ	pos2=PRP$	5	nmod	_	O
+5	time	time	NN	_	3	attr	_	O
+6	#Rulli	#rulli	NNP	pos2=NNS	7	nmod	_	B-DATE
+7	#FCBlive	#fcblive	ADD	pos2=NN	5	relcl	_	L-DATE
+

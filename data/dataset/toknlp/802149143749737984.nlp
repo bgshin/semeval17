@@ -1,0 +1,12 @@
+1	just	just	RB	_	0	root	_	O
+2	...	..	.	pos2=,	1	punct	_	O
+
+1	when?I	when?i	NN	pos2=NNS	2	nsubj	_	O
+2	died	die	VBD	_	0	root	_	O
+3	#onedirection	#onedirection	IN	pos2=NN	2	prep	_	O
+4	#MtvStarsNiallHoran	#mtvstarsniallhoran	NN	pos2=ADD	6	compound	_	O
+5	#	#	NN	pos2=-LRB-	6	compound	_	O
+6	3YearsofMidnightMemories	0yearsofmidnightmemories	NNS	pos2=GW	3	pobj	_	U-MONEY
+7	#NiallOnAMAs	#niallonamas	ADD	pos2=GW	8	punct	_	O
+8	https://t.co/ekttViTPta	#hlink#	ADD	_	2	dep	_	O
+

@@ -1,0 +1,14 @@
+1	Watch	watch	VB	pos2=NNP	0	root	_	O
+2	@repjohnlewis	@repjohnlewis	PRP	pos2=NNPS	3	nsubj	_	O
+3	accept	accept	VB	pos2=VBP	1	ccomp	_	O
+4	the	the	DT	_	5	det	_	O
+5	#NBAwards	#nbawards	NNS	pos2=NNPS	3	dobj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	Young	young	NNP	pos2=JJ	8	compound	_	B-ORG
+8	People	people	NNPS	pos2=NNP	10	poss	_	I-ORG
+9	's	's	POS	_	8	case	_	I-ORG
+10	Literatuer	literatuer	NNP	_	6	pobj	_	L-ORG
+11	on	on	IN	pos2=GW	3	prep	_	O
+12	@MSNBC	@msnbc	NNP	pos2=ADD	11	pobj	_	U-ORG
+13	https://t.co/3Y1pi0nlHZ	#hlink#	ADD	_	1	dep	_	O
+

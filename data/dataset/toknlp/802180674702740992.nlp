@@ -1,0 +1,27 @@
+1	Ben	ben	NNP	_	2	compound	_	B-PERSON
+2	Carson	carson	NNP	_	4	nsubjpass	_	L-PERSON
+3	being	be	VBG	_	4	auxpass	_	O
+4	considered	consider	VBN	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	the	the	DT	_	9	det	_	O
+7	same	same	JJ	_	9	nmod	_	O
+8	cabinet	cabinet	NN	_	9	compound	_	O
+9	position	position	NN	_	5	pobj	_	O
+10	Jack	jack	NNP	_	11	compound	_	B-PERSON
+11	Bauer	bauer	NNP	_	9	appos	_	L-PERSON
+12	once	once	RB	_	13	advmod	_	O
+13	had	have	VBD	_	9	relcl	_	O
+14	.	.	.	_	4	punct	_	O
+
+1	Mister	mister	NNP	_	2	compound	_	O
+2	Carson	carson	NNP	_	5	vocative	_	U-PERSON
+3	,	,	,	_	5	punct	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	're	be	VBP	_	0	root	_	O
+6	no	no	DT	pos2=XX	8	det	_	B-PERSON
+7	Jack	jack	NNP	_	8	compound	_	I-PERSON
+8	Bauer	bauer	NNP	_	5	attr	_	L-PERSON
+9	.	.	.	_	5	punct	_	O
+
+1	https://t.co/K1EbRUYJbk	#hlink#	ADD	_	0	root	_	U-ORG
+

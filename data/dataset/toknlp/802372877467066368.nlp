@@ -1,0 +1,25 @@
+1	e.g.	e.g.	FW	pos2=RB	3	advmod	_	O
+2	the	the	DT	_	3	det	_	O
+3	meme	meme	NN	_	0	root	_	O
+4	among	among	IN	_	3	prep	_	O
+5	some	some	DT	_	6	det	_	O
+6	leftists	leftist	NNS	_	4	pobj	_	O
+7	accusing	accuse	VBG	_	6	acl	_	O
+8	Clinton	clinton	NNP	_	9	compound	_	U-PERSON
+9	supporters	supporter	NNS	_	7	dobj	_	O
+10	of	of	IN	_	7	prep	_	O
+11	being	be	VBG	_	10	pcomp	_	O
+12	"	"	``	_	14	punct	_	O
+13	vagina	vagina	NN	_	14	compound	_	O
+14	voters	voter	NNS	_	11	attr	_	O
+15	"	"	''	pos2=``	14	punct	_	O
+16	even	even	RB	_	20	advmod	_	O
+17	when	when	WRB	_	21	advmod	_	O
+18	many	many	JJ	_	21	nsubj	_	O
+19	of	of	IN	_	18	prep	_	O
+20	us	us	PRP	_	19	pobj	_	O
+21	had	have	VBD	_	24	advcl	_	O
+22	strong	strong	JJ	_	23	nmod	_	O
+23	reservations	reservation	NNS	_	21	dobj	_	O
+24	.	.	.	_	1	punct	_	O
+

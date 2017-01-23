@@ -1,0 +1,37 @@
+1	What	what	WDT	pos2=WP	3	det	_	O
+2	a	a	DT	_	3	det	_	O
+3	clown	clown	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Judge	judge	NNP	pos2=NN	4	vocative	_	O
+2	can	can	MD	_	4	aux	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	have	have	VB	_	0	root	_	O
+5	my	my	PRP$	_	7	poss	_	O
+6	public	public	JJ	_	7	nmod	_	O
+7	defender	defender	NN	_	4	dobj	_	O
+8	back	back	RB	pos2=NN	4	advmod	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	wan	wan	VB	pos2=JJ	0	root	_	O
+5	na	to	TO	_	6	aux	_	O
+6	die	die	VB	_	4	xcomp	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	wan	wan	VB	pos2=JJ	0	root	_	O
+5	na	to	TO	_	6	aux	_	O
+6	live	live	VB	pos2=RB	4	xcomp	_	O
+7	on	on	IN	_	6	prep	_	O
+8	death	death	NN	_	9	compound	_	O
+9	row	row	NN	_	7	pobj	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	Maggot	maggot	NN	pos2=NNP	2	dep	_	O
+2	https://t.co/PmKgmVpgWK	#hlink#	ADD	pos2=NN	0	root	_	O
+

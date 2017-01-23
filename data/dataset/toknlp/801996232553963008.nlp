@@ -1,0 +1,21 @@
+1	#CD	#cd	NN	pos2=XX	5	dep	_	O
+2	#Musics	#musics	NNP	pos2=NNS	5	compound	_	O
+3	Ariana	ariana	NNP	_	5	compound	_	O
+4	Grande	grande	NNP	_	5	compound	_	O
+5	Sweet	sweet	NNP	_	20	dep	_	O
+6	Like	like	IN	pos2=NNP	5	prep	_	O
+7	Candy	candy	NNP	_	6	pobj	_	O
+8	3.4	0	CD	_	9	nmod	_	O
+9	oz	oz	NNS	pos2=NN	20	dep	_	O
+10	100	0	CD	_	11	nmod	_	B-QUANTITY
+11	ML	ml	NNS	pos2=NN	9	npadvmod	_	L-QUANTITY
+12	Sealed	seal	VBN	_	20	dep	_	O
+13	In	in	IN	pos2=NNP	12	prep	_	O
+14	Box	box	NN	pos2=NNP	13	pobj	_	O
+15	100	0	CD	_	16	nmod	_	B-PERCENT
+16	%	%	NN	_	20	dep	_	L-PERCENT
+17	Authenic	authenic	NNP	pos2=GW	20	dep	_	O
+18	New	new	JJ	pos2=NNP	20	nmod	_	O
+19	https://t.co/oFmp0bOvZy…	#hlink#	ADD	_	20	nmod	_	O
+20	https://t.co/WIHLch9KtK	#hlink#	ADD	_	0	root	_	U-ORG
+

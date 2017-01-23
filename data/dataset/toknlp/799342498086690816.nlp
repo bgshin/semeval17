@@ -1,0 +1,23 @@
+1	Eat	eat	VB	pos2=VBP	0	root	_	O
+2	out	out	RP	pos2=RB	1	prt	_	O
+3	and	and	CC	_	1	cc	_	O
+4	stay	stay	VB	_	1	conj	_	O
+5	#Healthy	#healthy	NNP	pos2=JJ	4	dobj	_	U-PERSON
+6	.	.	.	_	1	punct	_	O
+
+1	Yes	yes	UH	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	possible	possible	JJ	_	2	acomp	_	O
+4	if	if	IN	_	6	mark	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	follow	follow	VBP	_	2	advcl	_	O
+7	these	these	DT	_	8	det	_	O
+8	tips	tip	NNS	_	6	dobj	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	https://t.co/MzZXhrR6fU…	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/QUg4JGnn3J	#hlink#	ADD	_	0	root	_	U-ORG
+

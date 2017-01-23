@@ -1,0 +1,25 @@
+1	Trump	trump	NNP	pos2=NN	4	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	top	top	JJ	_	4	nmod	_	O
+4	pick	pick	NN	_	19	nsubjpass	_	O
+5	for	for	IN	_	4	prep	_	O
+6	National	national	NNP	_	8	compound	_	B-ORG
+7	Security	security	NNP	_	8	compound	_	I-ORG
+8	Adviser	adviser	NNP	_	5	pobj	_	L-ORG
+9	,	,	,	_	8	punct	_	O
+10	Lt.	lt.	NNP	_	11	compound	_	O
+11	Gen.	gen.	NNP	_	14	compound	_	O
+12	Michael	michael	NNP	_	14	compound	_	B-PERSON
+13	Flynn	flynn	NNP	_	14	compound	_	L-PERSON
+14	@GenFlynn	@genflynn	NNP	pos2=ADD	8	appos	_	O
+15	,	,	,	_	8	punct	_	O
+16	has	have	VBZ	_	19	aux	_	O
+17	literally	literally	RB	_	19	advmod	_	O
+18	been	be	VBN	_	19	auxpass	_	O
+19	paid	pay	VBN	_	0	root	_	O
+20	by	by	IN	_	19	agent	_	O
+21	Putin	putin	NNP	_	23	poss	_	U-PERSON
+22	'	'	POS	pos2=''	21	case	_	O
+23	…	…	NFP	pos2=:	20	pobj	_	O
+24	https://t.co/RPR40dBBkP	#hlink#	ADD	_	20	pobj	_	U-ORG
+

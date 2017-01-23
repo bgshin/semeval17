@@ -1,0 +1,20 @@
+1	Bitcoin	bitcoin	NNP	pos2=NN	2	compound	_	O
+2	Black	black	NNP	_	4	compound	_	B-EVENT
+3	Friday	friday	NNP	_	4	compound	_	L-EVENT
+4	Deals	deals	NNP	pos2=VBZ	19	dep	_	O
+5	for	for	IN	_	4	prep	_	O
+6	the	the	DT	_	9	det	_	O
+7	Digital	digital	NNP	pos2=JJ	8	compound	_	O
+8	Currency	currency	NN	pos2=NNP	9	compound	_	O
+9	Enthusiasts	enthusiast	NNS	pos2=NNPS	5	pobj	_	O
+10	:	:	:	_	4	punct	_	O
+11	On	on	IN	_	19	prep	_	O
+12	the	the	DT	_	13	det	_	B-DATE
+13	day	day	NN	_	11	pobj	_	L-DATE
+14	after	after	IN	_	13	prep	_	O
+15	American	american	JJ	pos2=NNP	16	nmod	_	U-NORP
+16	Thanksgiving	thanksgiving	NNP	_	14	pobj	_	U-DATE
+17	,	,	,	_	19	punct	_	O
+18	……	……	NFP	pos2=-LRB-	19	punct	_	U-DATE
+19	https://t.co/RqMZbKP5aX	#hlink#	ADD	pos2=NN	0	root	_	O
+

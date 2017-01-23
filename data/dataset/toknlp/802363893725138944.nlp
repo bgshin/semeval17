@@ -1,0 +1,17 @@
+1	Bob	bob	NNP	_	2	compound	_	B-PERSON
+2	Dylan	dylan	NNP	_	12	vocative	_	L-PERSON
+3	with	with	IN	_	2	prep	_	O
+4	the	the	DT	_	7	det	_	O
+5	1983	0	CD	_	6	nmod	_	U-DATE
+6	music	music	NN	_	7	compound	_	O
+7	video	video	NN	_	3	pobj	_	O
+8	for	for	IN	_	7	prep	_	O
+9	song	song	NN	_	8	pobj	_	O
+10	18	0	CD	_	9	nmod	_	U-CARDINAL
+11	,	,	,	_	12	punct	_	O
+12	Sweetheart	sweetheart	NN	pos2=NNP	16	dep	_	O
+13	Like	like	IN	pos2=NNP	12	prep	_	O
+14	You	you	PRP	pos2=NNP	13	pobj	_	O
+15	-	-	:	pos2=HYPH	16	punct	_	O
+16	https://t.co/QrduFYx6Em	#hlink#	ADD	_	0	root	_	O
+

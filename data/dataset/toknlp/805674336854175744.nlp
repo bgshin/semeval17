@@ -1,0 +1,19 @@
+1	@muchpolitic	@muchpolitic	UH	pos2=WP	3	discourse	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	cited	cite	VBD	_	0	root	_	O
+4	living	live	VBG	pos2=NN	5	nmod	_	O
+5	wage	wage	NN	pos2=RB	3	dobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	Minimum	minimum	JJ	pos2=NN	2	nmod	_	O
+2	wage	wage	NN	_	5	nsubjpass	_	O
+3	was	be	VBD	_	5	auxpass	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	made	make	VBN	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	be	be	VB	_	5	xcomp	_	O
+8	a	a	DT	_	9	det	_	O
+9	king	king	NN	_	7	attr	_	O
+10	off	off	IN	_	7	prep	_	O
+11	of	of	IN	pos2=RB	10	prep	_	O
+

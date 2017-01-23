@@ -1,0 +1,28 @@
+1	Well	well	UH	_	5	discourse	_	O
+2	,	,	,	_	5	punct	_	O
+3	this	this	DT	_	4	det	_	O
+4	one	#crd#	NN	pos2=CD	5	nsubj	_	O
+5	hatched	hatch	VBN	pos2=VBD	0	root	_	O
+6	but	but	CC	_	5	cc	_	O
+7	now	now	RB	_	9	advmod	_	O
+8	I	I	PRP	_	9	nsubj	_	O
+9	know	know	VBP	_	5	conj	_	O
+10	what	what	WP	pos2=WDT	12	attr	_	O
+11	#Hatchimals	#hatchimals	NNS	pos2=ADD	12	nsubj	_	O
+12	are	be	VBP	_	9	ccomp	_	O
+13	.	.	.	_	9	punct	_	O
+
+1	This	this	DT	_	3	det	_	O
+2	hot	hot	JJ	_	3	nmod	_	O
+3	item	item	NN	_	4	nsubj	_	O
+4	sold	sell	VBN	pos2=VBD	0	root	_	O
+5	out	out	RP	pos2=RB	4	prt	_	O
+6	here	here	RB	_	4	advmod	_	O
+7	@ToysRUs	@toysrus	XX	pos2=RB	4	dep	_	O
+8	in	in	IN	_	4	prep	_	O
+9	Parma	parma	NNP	_	8	pobj	_	U-GPE
+10	.	.	.	_	4	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/5rbVmbKoZ2	#hlink#	ADD	pos2=NN	0	root	_	O
+

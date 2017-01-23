@@ -1,0 +1,21 @@
+1	"	"	``	pos2=SYM	6	punct	_	O
+2	Last	last	JJ	_	3	nmod	_	B-DATE
+3	year	year	NN	_	5	poss	_	I-DATE
+4	's	's	POS	_	3	case	_	L-DATE
+5	success	success	NN	_	6	nsubj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	today	today	NN	_	9	poss	_	U-DATE
+8	's	's	POS	_	7	case	_	O
+9	expectation	expectation	NN	_	6	attr	_	O
+10	"	"	''	_	9	punct	_	O
+11	-	-	:	pos2=,	13	punct	_	O
+12	Cristiano	cristiano	NNP	_	13	compound	_	B-PERSON
+13	Ronaldo	ronaldo	NNP	_	9	appos	_	L-PERSON
+14	(	(	-LRB-	_	13	punct	_	O
+15	@Cristiano	@cristiano	NNP	pos2=NN	13	appos	_	U-ORG
+16	)	)	-RRB-	_	13	punct	_	O
+17	#SportQuotes	#sportquotes	NNS	pos2=VBZ	20	nmod	_	U-DATE
+18	#MondayMotivation	#mondaymotivation	GW	pos2=ADD	20	nmod	_	O
+19	…	…	NFP	pos2=GW	20	punct	_	O
+20	https://t.co/4FiAX5icBq	#hlink#	ADD	pos2=NN	6	dep	_	O
+

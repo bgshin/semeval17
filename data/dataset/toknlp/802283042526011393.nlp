@@ -1,0 +1,30 @@
+1	SOMEONE	someone	NN	_	2	nsubj	_	O
+2	SEND	send	VB	_	0	root	_	O
+3	ME	me	PRP	pos2=NNP	2	dative	_	O
+4	STATS	stat	NNS	pos2=NNPS	2	dobj	_	O
+5	ON	on	IN	_	4	prep	_	O
+6	ACCIDENT	accident	NN	pos2=NNP	7	compound	_	O
+7	RATES	rate	NNS	_	5	pobj	_	O
+8	OF	of	IN	_	7	prep	_	O
+9	SELF	self	NN	_	10	npadvmod	_	O
+10	DRIVING	drive	VBG	pos2=NN	8	pcomp	_	O
+11	CARS	car	NNS	_	10	dobj	_	O
+12	BC	bc	NNP	pos2=FW	13	compound	_	U-LOC
+13	IM	im	NN	pos2=NNP	14	compound	_	O
+14	LOSING	lose	VBG	_	11	acl	_	O
+15	IT	it	PRP	pos2=NN	14	dobj	_	O
+16	OVER	over	RB	pos2=RP	17	advmod	_	O
+17	HERE	here	RB	_	14	advmod	_	O
+18	.	.	.	_	2	punct	_	O
+
+1	SOS	sos	NN	pos2=NNP	2	compound	_	O
+2	HELP	help	NN	_	8	nsubj	_	O
+3	PLEASE	please	UH	_	8	discourse	_	O
+4	,	,	,	_	8	punct	_	O
+5	ELON	elon	NNP	_	6	compound	_	U-ORG
+6	MUSK	musk	NN	pos2=NNP	8	nsubj	_	O
+7	HAS	have	VBZ	_	8	aux	_	O
+8	FORSAKEN	forsake	VBN	_	0	root	_	O
+9	ME	me	PRP	_	8	dobj	_	O
+10	.	.	.	_	8	punct	_	O
+

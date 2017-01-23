@@ -1,0 +1,18 @@
+1	@truthglow	@truthglow	UH	pos2=XX	11	discourse	_	O
+2	@katalin_pota	@katalin_pota	UH	pos2=GW	11	discourse	_	O
+3	@BasemntDwllng	@basemntdwllng	VBG	pos2=UH	4	nmod	_	O
+4	@SenWarren2020	@senwarren0	NN	pos2=ADD	8	dep	_	O
+5	@elizabethforma	@elizabethforma	UH	pos2=NN	11	discourse	_	O
+6	@SenatorWarren	@senatorwarren	NNP	pos2=UH	11	nsubj	_	U-PERSON
+7	Only	only	RB	_	11	advmod	_	O
+8	if	if	IN	_	11	mark	_	O
+9	he	he	PRP	_	11	nsubj	_	O
+10	's	's	VBZ	_	11	aux	_	O
+11	collecting	collect	VBG	_	0	root	_	O
+12	&	&	CC	_	11	cc	_	O
+13	filling	fill	VBG	_	11	conj	_	O
+14	his	his	PRP$	_	15	poss	_	O
+15	cabinet	cabinet	NN	_	13	dobj	_	O
+16	with	with	IN	pos2=XX	13	prep	_	O
+17	,,	,,	.	pos2=,	11	punct	_	O
+

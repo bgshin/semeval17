@@ -1,0 +1,17 @@
+1	Read	read	VB	pos2=VBD	0	root	_	O
+2	my	my	PRP$	_	4	poss	_	O
+3	heartfelt	heartfelt	JJ	_	4	nmod	_	O
+4	tribute	tribute	NN	_	1	dobj	_	O
+5	to	to	IN	_	1	prep	_	O
+6	Fidel	fidel	NNP	_	7	compound	_	B-PERSON
+7	Castro	castro	NNP	_	5	pobj	_	L-PERSON
+8	in	in	IN	_	1	prep	_	O
+9	part	part	NN	pos2=CD	8	pobj	_	O
+10	three	#crd#	CD	_	9	nmod	_	U-CARDINAL
+11	of	of	IN	_	9	prep	_	O
+12	my	my	PRP$	_	14	poss	_	O
+13	@spikedonline	@spikedonline	CD	pos2=JJ	14	nmod	_	O
+14	column	column	NN	_	11	pobj	_	O
+15	https://t.co/WQIy96JOSB	#hlink#	ADD	_	14	appos	_	O
+16	#Castro	#castro	NNP	pos2=-RRB-	14	appos	_	O
+

@@ -1,0 +1,16 @@
+1	If	if	IN	_	3	mark	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	was	be	VBD	_	10	advcl	_	O
+4	n't	not	RB	_	3	neg	_	O
+5	for	for	IN	_	3	prep	_	O
+6	medical	medical	JJ	_	8	nmod	_	O
+7	marijuana	marijuana	NN	_	8	compound	_	O
+8	stress	stress	NN	_	5	pobj	_	O
+9	would	would	MD	_	10	aux	_	O
+10	be	be	VB	_	0	root	_	O
+11	the	the	DT	_	12	det	_	O
+12	end	end	NN	_	10	attr	_	O
+13	of	of	IN	_	12	prep	_	O
+14	me	me	PRP	_	13	pobj	_	O
+15	...	..	.	pos2=,	10	punct	_	O
+

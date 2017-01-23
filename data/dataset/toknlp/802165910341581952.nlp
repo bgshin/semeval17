@@ -1,0 +1,14 @@
+1	Who	who	WP	_	2	nsubj	_	O
+2	says	say	VBZ	_	0	root	_	O
+3	surge	surge	NN	_	4	compound	_	O
+4	pricing	pricing	NN	_	6	nsubjpass	_	O
+5	is	be	VBZ	_	6	auxpass	_	O
+6	gone	go	VBN	_	2	ccomp	_	O
+7	?	?	.	_	2	punct	_	O
+
+1	#uber	#uber	UH	pos2=PRP	5	discourse	_	O
+2	#uberindia	#uberindia	UH	pos2=FW	5	discourse	_	O
+3	#travel	#travel	UH	pos2=GW	5	discourse	_	O
+4	#taxi	#taxi	UH	pos2=ADD	5	discourse	_	O
+5	https://t.co/rSH7jzgpqh	#hlink#	ADD	pos2=UH	0	root	_	O
+

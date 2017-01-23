@@ -1,0 +1,28 @@
+1	Hello	hello	UH	pos2=NNP	3	discourse	_	O
+2	surge	surge	NN	pos2=VB	3	compound	_	O
+3	pricing	pricing	NN	_	0	root	_	O
+4	on	on	IN	pos2=RB	3	prep	_	O
+5	,	,	,	_	4	punct	_	O
+6	previously	previously	RB	_	7	advmod	_	O
+7	cheaper	cheap	JJR	_	2	nmod	_	O
+8	than	than	IN	_	7	prep	_	O
+9	#Careem	#careem	NNP	pos2=XX	8	pobj	_	U-GPE
+10	,	,	,	_	9	punct	_	O
+11	#Uber	#uber	NNP	_	9	appos	_	U-GPE
+12	.	.	.	_	3	punct	_	O
+
+1	A	a	DT	_	3	det	_	O
+2	Rs384	rs0	NN	_	3	compound	_	O
+3	ride	ride	NN	pos2=VBP	5	nsubj	_	O
+4	just	just	RB	_	6	advmod	_	O
+5	cost	cost	NN	pos2=VBD	6	compound	_	O
+6	Rs730	rs0	NN	_	0	root	_	O
+7	!	!	.	_	3	punct	_	O
+
+1	Ye	ye	NNP	pos2=NN	6	nmod	_	O
+2	toh	toh	NN	pos2=XX	6	dep	_	O
+3	hona	hona	NN	pos2=XX	6	dep	_	O
+4	hee	hee	XX	pos2=NN	6	dep	_	O
+5	tha	tha	XX	pos2=NN	6	dep	_	O
+6	😑	😑	XX	pos2=NNP	0	root	_	O
+

@@ -1,0 +1,23 @@
+1	Ca	can	MD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	wait	wait	VB	_	15	advcl	_	O
+4	to	to	TO	_	5	aux	_	O
+5	try	try	VB	_	3	xcomp	_	O
+6	this	this	DT	_	5	dobj	_	O
+7	-	-	HYPH	pos2=:	8	punct	_	O
+8	Google	google	NNP	_	10	compound	_	O
+9	Earth	earth	NNP	_	10	compound	_	U-LOC
+10	VR	vr	NNP	pos2=NN	5	dobj	_	O
+11	-	-	,	pos2=:	15	punct	_	O
+12	this	this	DT	_	13	det	_	O
+13	stuff	stuff	NN	_	15	nsubj	_	O
+14	really	really	RB	_	15	advmod	_	O
+15	is	be	VBZ	_	0	root	_	O
+16	the	the	DT	_	17	det	_	O
+17	future	future	NN	_	15	attr	_	O
+18	of	of	IN	_	17	prep	_	O
+19	exploration	exploration	NN	_	18	pobj	_	O
+20	....	..	.	_	15	punct	_	O
+
+1	https://t.co/roWz5aPdyQ	#hlink#	ADD	_	0	root	_	U-ORG
+

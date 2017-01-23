@@ -1,0 +1,19 @@
+1	#DSU	#dsu	NN	pos2=NNS	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	here	here	RB	_	4	advmod	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	a	a	DT	_	7	det	_	O
+6	great	great	JJ	_	7	nmod	_	O
+7	read	read	NN	pos2=VBN	4	nsubj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	understand	understand	VB	_	7	acl	_	O
+10	Thxgiving	thxgiving	NNP	pos2=JJ	9	dobj	_	U-GPE
+11	and	and	CC	_	10	cc	_	O
+12	present	present	JJ	_	14	nmod	_	B-DATE
+13	-	-	HYPH	_	14	punct	_	I-DATE
+14	day	day	NN	_	17	nmod	_	L-DATE
+15	Native	native	JJ	pos2=NNP	17	nmod	_	B-NORP
+16	American	american	JJ	_	17	nmod	_	L-NORP
+17	relations	relation	NNS	_	10	conj	_	O
+18	https://t.co/1X7gQ00S7t	#hlink#	ADD	_	4	dep	_	O
+

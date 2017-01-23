@@ -1,0 +1,8 @@
+1	😇	😇	NN	pos2=SYM	7	dep	_	O
+2	(	(	-LRB-	_	7	punct	_	O
+3	Vine	vine	NNP	pos2=NN	7	dep	_	U-ORG
+4	by	by	IN	_	3	prep	_	O
+5	#TheWalkingDead	#thewalkingdead	GW	pos2=NNP	4	pobj	_	O
+6	)	)	-RRB-	pos2=GW	7	nmod	_	O
+7	https://t.co/yabcIdM92H	#hlink#	ADD	pos2=NN	0	root	_	O
+

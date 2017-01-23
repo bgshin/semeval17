@@ -1,0 +1,24 @@
+1	@TheView	@theview	NNP	pos2=XX	3	compound	_	O
+2	Steve	steve	NNP	_	3	compound	_	B-PERSON
+3	Bannon	bannon	NNP	_	5	nsubj	_	L-PERSON
+4	now	now	RB	_	5	advmod	_	O
+5	says	say	VBZ	_	0	root	_	O
+6	he	he	PRP	_	7	nsubj	_	O
+7	is	be	VBZ	_	5	ccomp	_	O
+8	an	an	DT	_	12	det	_	O
+9	"	"	``	_	12	punct	_	O
+10	economic	economic	JJ	_	12	nmod	_	O
+11	"	"	''	_	7	punct	_	O
+12	nationalist	nationalist	JJ	pos2=NN	7	attr	_	O
+13	;	;	,	pos2=:	14	punct	_	O
+14	check	check	VB	pos2=NN	18	advcl	_	O
+15	further	far	RB	_	14	advmod	_	O
+16	,	,	,	_	18	punct	_	O
+17	he	he	PRP	_	18	nsubj	_	O
+18	is	be	VBZ	_	0	root	_	O
+19	definitely	definitely	RB	_	18	advmod	_	O
+20	a	a	DT	_	22	det	_	O
+21	white	white	JJ	_	22	nmod	_	O
+22	nationalist	nationalist	NN	_	18	attr	_	O
+23	.	.	.	_	18	punct	_	O
+

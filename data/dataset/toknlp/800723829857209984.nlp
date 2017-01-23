@@ -1,0 +1,20 @@
+1	Watch	watch	VB	pos2=VBP	0	root	_	O
+2	@repJohnLewis	@repjohnlewis	NNS	pos2=PRP	3	nsubj	_	O
+3	give	give	VB	pos2=VBP	1	ccomp	_	O
+4	powerful	powerful	JJ	_	5	nmod	_	O
+5	speech	speech	NN	_	3	dobj	_	O
+6	accepting	accept	VBG	_	5	acl	_	O
+7	a	a	DT	_	9	det	_	O
+8	@NationalBook	@nationalbook	``	pos2=NNP	9	punct	_	O
+9	#NBAwards	#nbawards	NNS	pos2=ADD	6	dobj	_	O
+10	'	'	''	pos2=``	9	punct	_	O
+11	Read	read	VB	pos2=VBD	3	advcl	_	O
+12	my	my	PRP$	_	13	poss	_	O
+13	child	child	NN	_	11	dobj	_	O
+14	,	,	,	_	15	punct	_	O
+15	read	read	VB	pos2=NN	1	dep	_	O
+16	.	.	.	_	1	punct	_	O
+
+1	'	'	``	pos2=-LRB-	2	punct	_	O
+2	https://t.co/E2xkUYYlHm	#hlink#	ADD	pos2=NN	0	root	_	O
+

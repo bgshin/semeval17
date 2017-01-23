@@ -1,0 +1,11 @@
+1	@TheRebelTV	@therebeltv	ADD	pos2=XX	6	advmod	_	O
+2	@Gavin_McInnes	@gavin_mcinnes	NNS	pos2=ADD	6	nsubj	_	O
+3	might	might	MD	_	6	aux	_	O
+4	as	as	RB	_	6	advmod	_	O
+5	well	well	RB	_	6	advmod	_	O
+6	go	go	VB	_	0	root	_	O
+7	full	full	JJ	pos2=RB	8	nmod	_	O
+8	Nazi	nazi	NNP	_	6	npadvmod	_	U-NORP
+9	now	now	RB	_	6	advmod	_	O
+10	.	.	.	_	6	punct	_	O
+

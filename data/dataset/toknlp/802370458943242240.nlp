@@ -1,0 +1,22 @@
+1	Trump	trump	NNP	pos2=NN	5	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	potential	potential	JJ	_	5	nmod	_	O
+4	cabinet	cabinet	NN	_	5	compound	_	O
+5	pick	pick	NN	_	6	nsubj	_	O
+6	suggests	suggest	VBZ	_	0	root	_	O
+7	a	a	DT	_	9	det	_	O
+8	vetting	vetting	NN	_	9	compound	_	O
+9	process	process	NN	_	17	nsubj	_	O
+10	for	for	IN	_	9	prep	_	O
+11	immigrants	immigrant	NNS	_	10	pobj	_	O
+12	nobody	nobody	NN	pos2=VBP	17	nsubj	_	O
+13	in	in	IN	_	12	prep	_	O
+14	Trump	trump	NNP	pos2=NN	15	compound	_	U-PERSON
+15	campaign	campaign	NN	_	13	pobj	_	O
+16	would	would	MD	_	17	aux	_	O
+17	pass	pass	VB	_	6	ccomp	_	O
+18	.	.	.	_	6	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/bnrHGOozE5	#hlink#	ADD	pos2=NN	0	root	_	O
+

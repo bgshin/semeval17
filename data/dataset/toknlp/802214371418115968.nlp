@@ -1,0 +1,28 @@
+1	Be	be	VB	_	0	root	_	O
+2	on	on	IN	_	1	prep	_	O
+3	guard	guard	NN	_	2	pobj	_	O
+4	#BlackLivesMatter	#blacklivesmatter	NNP	pos2=ADD	6	nsubj	_	U-ORG
+5	is	be	VBZ	_	6	aux	_	O
+6	attacking	attack	VBG	_	3	relcl	_	O
+7	Police	police	NNS	pos2=NNP	6	dobj	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	Hillary	hillary	NNP	_	2	compound	_	B-ORG
+2	Podesta	podesta	NNP	_	0	root	_	I-ORG
+3	&	&	CC	_	2	cc	_	I-ORG
+4	Soros	soros	NNP	_	2	conj	_	L-ORG
+5	all	all	DT	pos2=RB	2	appos	_	O
+6	behind	behind	IN	pos2=RB	5	prep	_	O
+7	this	this	DT	_	6	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	They	they	PRP	pos2=NNP	2	nsubj	_	O
+2	Lost	lose	VBN	pos2=VBD	4	nmod	_	O
+3	-	-	HYPH	pos2=:	4	punct	_	O
+4	#BLM	#blm	NN	pos2=NNP	5	nsubj	_	O
+5	needs	need	VBZ	pos2=NNS	0	root	_	O
+6	to	to	TO	_	8	aux	_	O
+7	be	be	VB	_	8	auxpass	_	O
+8	arrested	arrest	VBN	_	5	xcomp	_	O
+9	#pizzagate	#pizzagate	ADD	pos2=.	8	dobj	_	O
+

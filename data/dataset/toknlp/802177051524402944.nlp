@@ -1,0 +1,23 @@
+1	#UnitedNations	#unitednations	ADD	pos2=NNS	4	det	_	B-ORG
+2	African	african	NNP	pos2=JJ	4	compound	_	I-ORG
+3	Development	development	NNP	_	4	compound	_	I-ORG
+4	Bank	bank	NNP	_	6	dep	_	L-ORG
+5	:	:	:	_	6	punct	_	O
+6	Water	water	NN	pos2=NNP	0	root	_	O
+7	at	at	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	heart	heart	NN	_	7	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	COP22	cop0	NN	pos2=NNS	10	pobj	_	U-DATE
+12	and	and	CC	_	11	cc	_	O
+13	actions	action	NNS	_	11	conj	_	O
+14	on	on	IN	_	13	prep	_	O
+15	climate	climate	NN	pos2=JJ	16	compound	_	O
+16	ch	ch	NN	pos2=FW	14	pobj	_	O
+17	...	..	.	pos2=,	6	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	more	more	RBR	pos2=JJR	1	advmod	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/DdoIy6UPid	#hlink#	ADD	pos2=NN	1	dep	_	O
+

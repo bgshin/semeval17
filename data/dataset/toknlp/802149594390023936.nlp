@@ -1,0 +1,15 @@
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=NNS	2	nsubj	_	O
+2	showing	show	VBG	_	0	root	_	O
+3	already	already	RB	pos2=IN	5	advmod	_	O
+4	he	he	PRP	_	5	nsubj	_	O
+5	's	's	VBZ	_	2	ccomp	_	O
+6	the	the	DT	_	8	det	_	O
+7	most	most	RBS	pos2=JJS	8	advmod	_	O
+8	LAWLESS	lawless	JJ	pos2=NNP	5	attr	_	O
+9	in	in	IN	_	8	prep	_	O
+10	history.#NotMyPresident	history.#notmypresident	NNP	pos2=JJ	11	compound	_	B-DATE
+11	#TheResistance	#theresistance	NNP	pos2=ADD	9	pobj	_	I-DATE
+12	#StillWithHer	#stillwithher	ADD	pos2=NNP	14	dep	_	I-DATE
+13	#MAGA	#maga	NN	pos2=ADD	14	dep	_	L-DATE
+14	#DrainTheSwamp	#draintheswamp	ADD	pos2=NN	5	advmod	_	O
+

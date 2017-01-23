@@ -1,0 +1,21 @@
+1	Closer	close	JJR	pos2=JJS	2	nmod	_	O
+2	co-operation	co-operation	NN	_	11	nsubj	_	O
+3	between	between	IN	_	2	prep	_	O
+4	#Russia	#russia	NNP	pos2=NN	5	compound	_	U-ORG
+5	advisers	adviser	NNS	_	3	pobj	_	O
+6	&	&	CC	_	5	cc	_	O
+7	#Hezbollah	#hezbollah	NNP	pos2=NN	5	conj	_	O
+8	in	in	IN	_	2	prep	_	O
+9	#Aleppo	#aleppo	NNP	_	8	pobj	_	U-ORG
+10	would	would	MD	_	11	aux	_	O
+11	seem	seem	VB	_	0	root	_	O
+12	to	to	TO	_	13	aux	_	O
+13	indicate	indicate	VB	_	11	xcomp	_	O
+14	Schwerpunkt	schwerpunkt	NNP	_	13	dobj	_	O
+15	to	to	TO	_	16	aux	_	O
+16	crack	crack	VB	_	13	ccomp	_	O
+17	jihadi	jihadi	JJ	_	18	nmod	_	O
+18	defences	defence	NNS	_	19	nsubj	_	O
+19	identified	identify	VBN	_	16	ccomp	_	O
+20	.	.	.	_	11	punct	_	O
+

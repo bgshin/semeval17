@@ -1,0 +1,13 @@
+1	@gabipitchko	@gabipitchko	UH	pos2=WP	4	discourse	_	O
+2	You	you	PRP	_	4	nsubj	_	O
+3	’re	be	VBP	_	4	aux	_	O
+4	preaching	preach	VBG	_	0	root	_	O
+5	to	to	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	choir	choir	NN	_	5	pobj	_	O
+8	,	,	,	_	7	punct	_	O
+9	Gabi	gabi	NNP	_	7	appos	_	U-PERSON
+10	!	!	.	_	4	punct	_	O
+
+1	#ThisIsUs	#thisisus	ADD	pos2=NN	0	root	_	O
+

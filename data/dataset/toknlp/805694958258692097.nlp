@@ -1,0 +1,19 @@
+1	@rmarkatfresno	@rmarkatfresno	UH	pos2=XX	5	discourse	_	O
+2	@ScottPresler	@scottpresler	GW	pos2=NNP	5	punct	_	O
+3	@keithellison	@keithellison	MD	pos2=NN	5	aux	_	O
+4	rinos	rinos	RB	pos2=UH	5	advmod	_	O
+5	make	make	VB	pos2=NN	0	root	_	O
+6	$$$	$$	NN	pos2=-LRB-	5	dobj	_	O
+7	w	w	IN	pos2=XX	5	prep	_	O
+8	CommonCore	commoncore	NNP	pos2=HYPH	9	compound	_	O
+9	kids	kid	NNS	_	7	pobj	_	O
+10	supposed	suppose	VBN	pos2=VBD	9	acl	_	O
+11	to	to	TO	_	12	aux	_	O
+12	be	be	VB	_	10	xcomp	_	O
+13	on	on	IN	_	12	prep	_	O
+14	anti-depressants	anti-depressant	NNS	_	13	pobj	_	O
+15	watching	watch	VBG	_	14	acl	_	O
+16	tv	tv	NN	_	15	dobj	_	O
+17	getting	get	VBG	_	15	dep	_	O
+18	vaccines	vaccine	NNS	_	17	dobj	_	O
+

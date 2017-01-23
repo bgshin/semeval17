@@ -1,0 +1,26 @@
+1	Warren	warren	NNP	_	2	compound	_	B-PERSON
+2	Spahn	spahn	NNP	_	3	nsubj	_	L-PERSON
+3	died	die	VBD	_	0	root	_	O
+4	13	0	CD	_	5	nmod	_	B-DATE
+5	years	year	NNS	_	6	npadvmod	_	I-DATE
+6	ago	ago	RB	_	3	advmod	_	L-DATE
+7	today	today	NN	_	3	npadvmod	_	U-DATE
+8	in	in	IN	_	3	prep	_	O
+9	Broken	broken	NNP	pos2=JJ	10	compound	_	O
+10	Arrow	arrow	NNP	pos2=NN	8	pobj	_	O
+11	,	,	,	_	10	punct	_	O
+12	OK	ok	JJ	pos2=NNP	23	nmod	_	O
+13	age	age	NN	_	12	npadvmod	_	O
+14	8221	0	CD	_	16	nmod	_	B-DATE
+15	-	-	HYPH	_	16	punct	_	I-DATE
+16	years	year	NNS	_	12	npadvmod	_	L-DATE
+17	in	in	IN	_	16	prep	_	O
+18	MLB	mlb	NNP	_	17	pobj	_	U-ORG
+19	,	,	,	_	18	punct	_	O
+20	Cy	cy	NNP	_	21	compound	_	O
+21	Young	young	NNP	_	22	compound	_	O
+22	Award	award	NNP	pos2=NN	23	compound	_	O
+23	winner	winner	NN	pos2=GW	10	appos	_	O
+24	…	…	NFP	pos2=-LRB-	25	punct	_	O
+25	https://t.co/Pyh9HGaInT	#hlink#	ADD	_	3	dep	_	O
+

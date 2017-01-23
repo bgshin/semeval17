@@ -1,0 +1,28 @@
+1	@FoxNews	@foxnews	NNS	pos2=ADD	3	nsubj	_	O
+2	@DrJillStein	@drjillstein	MD	pos2=ADD	3	aux	_	O
+3	Pull	pull	VB	pos2=VBP	0	root	_	O
+4	up	up	RP	_	3	prt	_	O
+5	any	any	DT	_	3	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	12	det	_	O
+8	50	0	CD	_	12	nmod	_	U-CARDINAL
+9	States	state	NNP	pos2=NNPS	12	compound	_	U-GPE
+10	voter	voter	NN	_	11	compound	_	O
+11	registration	registration	NN	_	12	compound	_	O
+12	forms	form	NNS	pos2=VBZ	6	pobj	_	O
+13	.	.	.	_	3	punct	_	O
+
+1	They	they	PRP	_	3	nsubj	_	O
+2	all	all	DT	_	1	appos	_	O
+3	depend	depend	VBP	_	0	root	_	O
+4	on	on	IN	_	3	prep	_	O
+5	honesty	honesty	NN	_	4	pobj	_	O
+6	when	when	WRB	_	7	advmod	_	O
+7	applying	apply	VBG	_	3	advcl	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	No	no	DT	_	2	det	_	O
+2	proof	proof	NN	_	3	nsubj	_	O
+3	required	require	VBN	_	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+

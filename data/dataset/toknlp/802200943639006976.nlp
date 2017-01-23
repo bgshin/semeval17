@@ -1,0 +1,14 @@
+1	Trump	trump	NN	pos2=JJ	2	compound	_	U-ORG
+2	aide	aide	NN	_	3	nsubj	_	O
+3	mocks	mock	VBZ	_	0	root	_	O
+4	election	election	NN	_	5	compound	_	O
+5	challenge	challenge	NN	pos2=GW	3	dobj	_	O
+6	https://t.co/99RcWbQGK5	#hlink#	ADD	pos2=NN	2	appos	_	O
+7	#Trump2016	#trump0	NN	pos2=-RRB-	13	dep	_	U-ORG
+8	#TrumpTrain	#trumptrain	NN	pos2=ADD	13	dep	_	O
+9	#GOP	#gop	XX	pos2=NN	13	dep	_	O
+10	#ccot	#ccot	XX	pos2=UH	13	dep	_	O
+11	#tcot	#tcot	XX	pos2=UH	13	nmod	_	O
+12	#ThanksTrump	#thankstrump	XX	pos2=ADD	13	nmod	_	O
+13	#UniteBlue	#uniteblue	XX	pos2=ADD	3	dep	_	O
+

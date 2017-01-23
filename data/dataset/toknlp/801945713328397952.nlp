@@ -1,0 +1,14 @@
+1	Big	big	JJ	pos2=NNP	2	nmod	_	O
+2	Triplets	triplet	NNS	pos2=NNPS	5	nsubj	_	O
+3	in	in	IN	_	2	prep	_	O
+4	#Sports	#sports	NNS	pos2=NNP	3	pobj	_	O
+5	are	be	VBP	_	0	root	_	O
+6	in	in	IN	_	5	prep	_	O
+7	my	my	PRP$	_	8	poss	_	O
+8	#FCBarcelona	#fcbarcelona	NN	pos2=NNP	6	pobj	_	O
+9	&	&	CC	_	8	cc	_	O
+10	#DallasCowboys	#dallascowboys	NNS	pos2=GW	8	conj	_	O
+11	#FCBlive	#fcblive	VBP	pos2=GW	5	conj	_	O
+12	#CowboysNation	#cowboysnation	ADD	pos2=GW	13	punct	_	O
+13	https://t.co/REaO868pAS	#hlink#	ADD	_	11	dobj	_	O
+

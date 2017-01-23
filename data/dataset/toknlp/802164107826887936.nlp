@@ -1,0 +1,18 @@
+1	uber	uber	NN	pos2=DT	3	compound	_	O
+2	promo	promo	NN	_	3	compound	_	O
+3	code	code	NN	_	5	nsubj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	get	get	VB	_	0	root	_	O
+6	a	a	DT	_	8	det	_	O
+7	free	free	JJ	_	8	nmod	_	O
+8	ride	ride	NN	_	5	dobj	_	O
+9	#freeuberride	#freeuberride	RB	pos2=IN	5	advmod	_	O
+10	#freeride	#freeride	UH	pos2=FW	5	discourse	_	O
+11	#ubereats	#ubereats	UH	pos2=NNS	5	discourse	_	O
+12	#freeuber	#freeuber	UH	pos2=PRP	5	discourse	_	O
+13	#uber	#uber	UH	pos2=PRP	5	discourse	_	O
+14	#ubercode	#ubercode	UH	pos2=VB	5	discourse	_	O
+15	#uberpromocode	#uberpromocode	UH	pos2=GW	5	discourse	_	O
+16	…	…	NFP	pos2=-LRB-	17	punct	_	O
+17	https://t.co/ht2J27ZqlH	#hlink#	ADD	_	5	dobj	_	O
+

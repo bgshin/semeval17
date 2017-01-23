@@ -1,0 +1,27 @@
+1	We	we	PRP	_	3	nsubj	_	O
+2	're	be	VBP	_	3	aux	_	O
+3	doing	do	VBG	_	24	ccomp	_	O
+4	a	a	DT	_	7	det	_	O
+5	black	black	JJ	pos2=NN	7	nmod	_	O
+6	friday	friday	NN	pos2=NNP	7	compound	_	O
+7	sale	sale	NN	_	3	dobj	_	O
+8	,	,	,	_	3	punct	_	O
+9	but	but	CC	_	3	cc	_	O
+10	we	we	PRP	_	12	nsubj	_	O
+11	're	be	VBP	_	12	aux	_	O
+12	donating	donate	VBG	_	3	conj	_	O
+13	100	0	CD	_	14	nmod	_	B-PERCENT
+14	%	%	NN	_	12	dobj	_	L-PERCENT
+15	of	of	IN	_	14	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	profits	profit	NNS	_	15	pobj	_	O
+18	to	to	TO	_	19	aux	_	O
+19	support	support	VB	_	12	advcl	_	O
+20	the	the	DT	_	23	det	_	O
+21	Dakota	dakota	NNP	_	23	compound	_	O
+22	Access	access	NNP	_	23	compound	_	O
+23	Pipeline	pipeline	NNP	pos2=NN	19	dobj	_	O
+24	prote	prote	VBD	pos2=GW	0	root	_	O
+25	…	…	NFP	pos2=-LRB-	24	discourse	_	O
+26	https://t.co/HOnIhLWvor	#hlink#	ADD	_	24	dobj	_	O
+

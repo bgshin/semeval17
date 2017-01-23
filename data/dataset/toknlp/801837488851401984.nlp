@@ -1,0 +1,15 @@
+1	#Israel	#israel	NNP	pos2=VB	5	compound	_	O
+2	#Arson	#arson	NNP	pos2=POS	5	compound	_	O
+3	#Hamas	#hamas	NNP	pos2=NNPS	5	compound	_	B-NORP
+4	-	-	HYPH	pos2=:	5	punct	_	I-NORP
+5	Terrorists	terrorist	NNPS	pos2=NNS	7	nsubj	_	L-NORP
+6	have	have	VBP	_	7	aux	_	O
+7	set	set	VBN	pos2=NN	0	root	_	O
+8	Israel	israel	NNP	_	7	dobj	_	U-GPE
+9	ablaze	ablaze	RB	_	7	advmod	_	O
+10	today	today	NN	_	7	npadvmod	_	U-DATE
+11	.	.	.	_	7	punct	_	O
+
+1	#Hamas	#hamas	NNS	pos2=ADD	2	nmod	_	O
+2	https://t.co/Zik8tUq8wp	#hlink#	ADD	_	0	root	_	O
+

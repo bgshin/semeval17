@@ -1,0 +1,18 @@
+1	wow	wow	UH	_	0	root	_	O
+2	...	..	.	pos2=,	1	punct	_	O
+
+1	i	I	PRP	_	2	nsubj	_	O
+2	found	find	VBD	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	way	way	NN	_	2	dobj	_	O
+5	to	to	TO	pos2=IN	6	aux	_	O
+6	load	load	VB	pos2=NN	4	relcl	_	O
+7	drawings	drawing	NNS	_	6	dobj	_	O
+8	into	into	IN	_	6	prep	_	O
+9	3	0	CD	_	14	dep	_	U-CARDINAL
+10	d	d	NN	pos2=FW	14	dep	_	O
+11	printing	printing	NN	pos2=VBG	12	compound	_	O
+12	software	software	NN	_	14	nmod	_	O
+13	o-O	o-o	GW	pos2=NN	14	nmod	_	O
+14	https://t.co/wQ93Q220om	#hlink#	ADD	pos2=NN	8	pobj	_	U-ORG
+

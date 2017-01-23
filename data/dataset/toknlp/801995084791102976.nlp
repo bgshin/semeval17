@@ -1,0 +1,20 @@
+1	thankful	thankful	JJ	_	0	root	_	O
+2	that	that	IN	pos2=DT	6	mark	_	O
+3	@elizabethforma	@elizabethforma	NN	pos2=IN	5	nmod	_	O
+4	/	/	SYM	pos2=HYPH	5	punct	_	O
+5	@SenWarren	@senwarren	NN	pos2=ADD	6	nsubj	_	O
+6	exists	exist	VBZ	_	1	ccomp	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	not	not	RB	_	5	neg	_	O
+2	even	even	RB	_	5	advmod	_	O
+3	my	my	PRP$	_	5	poss	_	O
+4	state	state	NN	_	5	compound	_	O
+5	senator	senator	NN	pos2=RB	0	root	_	O
+6	,	,	,	_	5	punct	_	O
+7	but	but	CC	_	5	cc	_	O
+8	she	she	PRP	_	9	nsubj	_	O
+9	's	's	VBZ	_	5	conj	_	O
+10	amazing	amazing	JJ	_	9	acomp	_	O
+11	.	.	.	_	9	punct	_	O
+

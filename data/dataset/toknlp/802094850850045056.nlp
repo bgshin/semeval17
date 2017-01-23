@@ -1,0 +1,18 @@
+1	Do	do	VB	pos2=VBP	3	aux	_	O
+2	nt	nt	RB	_	3	advmod	_	O
+3	miss	miss	VB	_	0	root	_	O
+4	out	out	RP	_	3	prt	_	O
+5	today	today	NN	_	3	npadvmod	_	U-DATE
+6	Dubai	dubai	NNP	_	9	poss	_	U-GPE
+7	's	's	POS	_	6	case	_	O
+8	iconic	iconic	JJ	_	9	nmod	_	O
+9	landmarks	landmark	NNS	_	10	nsubj	_	O
+10	going	go	VBG	_	3	advcl	_	O
+11	Orange	orange	NNP	pos2=XX	12	compound	_	B-ORG
+12	#BurjAlArab	#burjalarab	NNPS	pos2=POS	17	dep	_	L-ORG
+13	#InterContinental	#intercontinental	ADD	pos2=NNP	17	dep	_	O
+14	#SpeakUpae	#speakupae	ADD	pos2=NNP	17	nmod	_	O
+15	#OrangeTheWorld	#orangetheworld	GW	pos2=ADD	17	nmod	_	O
+16	…	…	NFP	pos2=GW	17	punct	_	O
+17	https://t.co/xOVipEmM3H	#hlink#	ADD	_	3	dep	_	O
+

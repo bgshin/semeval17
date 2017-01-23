@@ -1,0 +1,27 @@
+1	@LA_Crystal	@la_crystal	NNP	pos2=UH	2	vocative	_	O
+2	Let	let	VB	pos2=NNP	0	root	_	O
+3	’s	's	PRP	_	5	nsubj	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	say	say	VB	pos2=VBP	2	ccomp	_	O
+6	that	that	IN	pos2=DT	16	mark	_	O
+7	after	after	IN	_	16	prep	_	O
+8	the	the	DT	_	13	det	_	O
+9	whole	whole	JJ	pos2=NN	13	nmod	_	O
+10	#Comey	#comey	NNP	pos2=POS	13	compound	_	U-GPE
+11	election	election	NN	_	12	compound	_	O
+12	interference	interference	NN	_	13	compound	_	O
+13	fiasco	fiasco	NN	pos2=FW	7	pobj	_	O
+14	,	,	,	_	16	punct	_	O
+15	I	I	PRP	pos2=CD	16	nsubj	_	O
+16	reserve	reserve	VBP	pos2=NN	5	ccomp	_	O
+17	judgement	judgement	NN	_	16	dobj	_	O
+18	on	on	IN	_	17	prep	_	O
+19	anything	anything	NN	_	18	pobj	_	O
+20	they	they	PRP	_	21	nsubj	_	O
+21	say	say	VBP	_	19	relcl	_	O
+22	.	.	.	_	2	punct	_	O
+
+1	Or	or	CC	_	2	cc	_	O
+2	do	do	VBP	pos2=VB	0	root	_	O
+3	n't	not	RB	_	2	neg	_	O
+

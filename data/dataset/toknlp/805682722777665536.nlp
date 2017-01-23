@@ -1,0 +1,23 @@
+1	@Loneranger9	@loneranger0	NN	pos2=NNS	6	npadvmod	_	O
+2	@	@	SYM	pos2=$	5	punct	_	O
+3	250	0	CD	_	4	nmod	_	U-CARDINAL
+4	That	that	DT	pos2=WDT	5	nsubj	_	O
+5	's	's	VBZ	pos2=RB	0	root	_	O
+6	below	below	IN	_	5	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	minimum	minimum	JJ	_	9	nmod	_	O
+9	wage	wage	NN	_	6	pobj	_	O
+10	!	!	.	_	5	punct	_	O
+
+1	Ask	ask	VB	_	0	root	_	O
+2	him	him	PRP	_	1	dobj	_	O
+3	to	to	TO	_	4	aux	_	O
+4	get	get	VB	_	1	xcomp	_	O
+5	the	the	DT	_	6	det	_	O
+6	salary	salary	NN	_	4	dobj	_	O
+7	via	via	IN	_	4	prep	_	O
+8	PayTm	paytm	NNP	pos2=RB	7	pobj	_	O
+9	and	and	CC	_	4	cc	_	O
+10	expose	expose	VB	_	4	conj	_	O
+11	Modi	modi	NNP	_	10	dobj	_	U-PERSON
+

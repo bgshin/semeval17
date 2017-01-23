@@ -1,0 +1,28 @@
+1	Is	be	VBZ	_	0	root	_	O
+2	it	it	PRP	_	1	nsubj	_	O
+3	now	now	RB	_	1	advmod	_	O
+4	30	0	CD	_	5	nmod	_	B-DATE
+5	days	day	NNS	_	1	attr	_	L-DATE
+6	until	until	IN	_	5	prep	_	O
+7	Christmas	christmas	NNP	_	6	pobj	_	U-DATE
+8	.	.	.	_	1	punct	_	O
+
+1	Time	time	NN	_	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	join	join	VB	_	1	relcl	_	O
+4	bandwagons	bandwagon	NNS	_	3	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	avatars	avatar	NNS	_	5	pobj	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	"	"	``	pos2=SYM	5	punct	_	O
+2	Persona	persona	NN	pos2=NNP	5	nmod	_	O
+3	5	0	CD	_	2	nmod	_	U-CARDINAL
+4	Christmas	christmas	NNP	_	5	compound	_	U-DATE
+5	icon	icon	NN	_	10	dep	_	O
+6	"	"	''	_	5	punct	_	O
+7	by	by	IN	_	5	prep	_	O
+8	NekoDesiree	nekodesiree	NNP	_	7	pobj	_	O
+9	…	…	NFP	pos2=-LRB-	10	punct	_	O
+10	https://t.co/jomGSlH4Z6	#hlink#	ADD	_	0	root	_	O
+

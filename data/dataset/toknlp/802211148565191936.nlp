@@ -1,0 +1,18 @@
+1	@RandomPundit	@randompundit	NN	pos2=ADD	8	nsubj	_	O
+2	@APHClarkson	@aphclarkson	ADD	pos2=NN	8	punct	_	O
+3	@antony_mon	@antony_mon	NNP	pos2=IN	8	nsubj	_	O
+4	Maybe	maybe	RB	pos2=NNP	8	advmod	_	O
+5	he	he	PRP	_	8	nsubj	_	O
+6	should	should	MD	_	8	aux	_	O
+7	have	have	VB	_	8	aux	_	O
+8	watched	watch	VBN	_	0	root	_	O
+9	some	some	DT	_	8	dobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Putin	putin	NNP	_	13	poss	_	U-PERSON
+12	's	's	POS	_	11	case	_	O
+13	interviews	interview	NNS	pos2=NN	10	pobj	_	O
+14	and	and	CC	_	13	cc	_	O
+15	press	press	NN	pos2=VBP	16	compound	_	O
+16	conferences	conference	NNS	_	13	conj	_	O
+17	.	.	.	_	8	punct	_	O
+

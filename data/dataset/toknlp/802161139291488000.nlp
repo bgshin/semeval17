@@ -1,0 +1,23 @@
+1	Nigel	nigel	NNP	_	2	compound	_	B-PERSON
+2	Farage	farage	NNP	_	3	nsubj	_	L-PERSON
+3	planning	plan	VBG	pos2=NN	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	move	move	VB	_	3	xcomp	_	O
+6	to	to	IN	_	5	prep	_	O
+7	US	us	NNP	_	6	pobj	_	U-GPE
+8	,	,	,	_	3	punct	_	O
+9	maybe	maybe	RB	_	11	advmod	_	O
+10	Maine?#p2	maine?#p0	NNP	pos2=XX	11	compound	_	B-PERSON
+11	#UniteBlue	#uniteblue	NNP	pos2=XX	7	appos	_	L-PERSON
+12	#mepoliticsBuild	#mepoliticsbuild	IN	pos2=VB	11	prep	_	O
+13	a	a	DT	_	14	det	_	O
+14	wall	wall	NN	_	12	pobj	_	O
+15	!	!	.	_	3	punct	_	O
+
+1	Build	build	VB	_	0	root	_	O
+2	a	a	DT	_	3	det	_	O
+3	wall	wall	NN	_	1	dobj	_	O
+4	!	!	.	_	1	punct	_	O
+
+1	https://t.co/Fgs1oaUp4Y	#hlink#	ADD	_	0	root	_	U-ORG
+

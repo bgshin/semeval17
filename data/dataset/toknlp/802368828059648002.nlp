@@ -1,0 +1,18 @@
+1	#WVIAPublicMedia	#wviapublicmedia	IN	pos2=DT	6	mark	_	O
+2	Former	former	JJ	_	5	nmod	_	O
+3	Transition	transition	NNP	pos2=NN	5	compound	_	B-ORG
+4	Team	team	NNP	pos2=NN	5	compound	_	L-ORG
+5	Member	member	NNP	_	6	nsubj	_	O
+6	Describes	describe	VBZ	pos2=NNPS	0	root	_	O
+7	Trump	trump	NNP	_	11	poss	_	U-ORG
+8	's	's	POS	_	7	case	_	O
+9	National	national	NNP	_	11	compound	_	B-ORG
+10	Security	security	NNP	_	11	compound	_	I-ORG
+11	Plan	plan	NNP	_	6	dobj	_	L-ORG
+12	.	.	.	_	6	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	Blog	blog	NN	pos2=NNP	1	dobj	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/s2wxPIPvMW	#hlink#	ADD	pos2=NN	1	dep	_	O
+

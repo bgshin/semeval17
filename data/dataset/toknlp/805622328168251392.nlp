@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det	_	B-ORG
+2	Red	red	NNP	_	3	compound	_	I-ORG
+3	Pope	pope	NNP	_	5	nsubj	_	L-ORG
+4	would	would	MD	_	5	aux	_	O
+5	sentence	sentence	VB	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	poor	poor	JJ	_	5	dobj	_	O
+8	to	to	IN	_	5	prep	_	O
+9	death	death	NN	_	8	pobj	_	O
+10	with	with	IN	_	5	prep	_	O
+11	his	his	PRP$	_	13	poss	_	O
+12	climate	climate	NN	pos2=JJ	13	compound	_	O
+13	idiocy	idiocy	NN	_	10	pobj	_	O
+14	.	.	.	_	5	punct	_	O
+
+1	https://t.co/G38oeczxwy	#hlink#	ADD	pos2=NN	3	nmod	_	O
+2	-	-	HYPH	pos2=:	3	punct	_	O
+3	@washtimes	@washtimes	NNS	pos2=UH	0	root	_	O
+

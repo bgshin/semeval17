@@ -1,0 +1,15 @@
+1	New	new	JJ	pos2=NNP	14	dep	_	O
+2	on	on	IN	pos2=RP	1	prep	_	O
+3	#Steemit	#steemit	NNP	pos2=NN	2	pobj	_	O
+4	:	:	:	_	14	punct	_	O
+5	A	a	DT	_	14	dep	_	O
+6	Brief	brief	JJ	pos2=NNP	7	nmod	_	O
+7	Cigar	cigar	NN	pos2=NNP	14	dep	_	O
+8	Review	review	NNP	pos2=NN	14	dep	_	O
+9	–	-	HYPH	pos2=:	14	punct	_	O
+10	Padron	padron	NNP	_	14	dep	_	O
+11	1964	0	CD	pos2=NNP	14	dep	_	O
+12	Pyramid	pyramid	NNP	pos2=NN	13	compound	_	O
+13	Maduro	maduro	NNP	_	14	dep	_	O
+14	https://t.co/Hf7qMwZbjp	#hlink#	ADD	_	0	root	_	U-TIME
+

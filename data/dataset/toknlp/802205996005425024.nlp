@@ -1,0 +1,24 @@
+1	@MriaHajzer	@mriahajzer	NN	pos2=UH	0	root	_	O
+2	yes	yes	UH	_	1	discourse	_	O
+3	!	!	.	_	1	punct	_	O
+
+1	An	an	DT	_	4	det	_	O
+2	organized	organize	VBN	pos2=JJ	4	nmod	_	O
+3	#terrorist	#terrorist	NN	pos2=PRP$	4	compound	_	O
+4	act	act	NN	pos2=VB	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	Operating	operate	VBG	pos2=NN	0	root	_	O
+2	in	in	IN	_	1	prep	_	O
+3	north	north	NN	pos2=JJ	4	compound	_	O
+4	#IsraelFires	#israelfires	NNS	pos2=NNP	2	pobj	_	O
+5	and	and	CC	_	4	cc	_	O
+6	#Jerusalem	#jerusalem	JJ	pos2=NNP	7	nmod	_	O
+7	area	area	NN	_	4	conj	_	O
+8	!	!	.	_	1	punct	_	O
+
+1	A	a	DT	_	3	det	_	O
+2	surprise	surprise	NN	pos2=JJ	3	compound	_	O
+3	attack	attack	NN	_	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+

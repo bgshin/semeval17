@@ -1,0 +1,16 @@
+1	https://t.co/XDA6n8XoGp	#hlink#	ADD	_	2	nsubj	_	O
+2	Create	create	VB	pos2=VBP	0	root	_	O
+3	articles	article	NNS	_	2	dobj	_	O
+4	for	for	IN	_	3	prep	_	O
+5	#blog	#blog	NNP	pos2=XX	4	pobj	_	B-WORK_OF_ART
+6	#seo	#seo	FW	pos2=UH	14	nmod	_	I-WORK_OF_ART
+7	#marketing	#marketing	VBG	pos2=ADD	14	nmod	_	L-WORK_OF_ART
+8	https://t.co/Nm1tBRzhR5	#hlink#	ADD	_	14	dep	_	O
+9	|	|	SYM	pos2=,	14	punct	_	O
+10	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=VB	14	dep	_	O
+11	6	0	CD	_	14	nmod	_	U-CARDINAL
+12	#SEO	#seo	NN	pos2=IN	13	compound	_	O
+13	Analysis	analysis	NN	pos2=NNP	14	compound	_	O
+14	Tools	tool	NNS	pos2=NNPS	2	dobj	_	O
+15	…	…	.	pos2=WDT	2	punct	_	O
+

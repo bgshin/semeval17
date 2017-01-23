@@ -1,0 +1,19 @@
+1	(	(	-LRB-	_	3	punct	_	O
+2	Global	global	NNP	pos2=JJ	3	compound	_	B-ORG
+3	News	news	NNP	pos2=NN	6	poss	_	L-ORG
+4	)	)	-RRB-	_	3	punct	_	O
+5	:#Hatchimals	:#hatchimals	POS	pos2=PRP$	3	punct	_	O
+6	craze	craze	NN	_	7	nsubj	_	O
+7	causes	cause	VBZ	_	0	root	_	O
+8	frustration	frustration	NN	_	7	dobj	_	O
+9	as	as	IN	_	6	prep	_	O
+10	demand	demand	NN	_	9	pobj	_	O
+11	outstrips	outstrip	VBZ	pos2=JJ	10	prep	_	O
+12	supply	supply	NN	_	11	pobj	_	O
+13	:	:	:	_	14	punct	_	O
+14	The	the	DT	_	15	det	_	O
+15	..	..	.	pos2=,	7	punct	_	O
+
+1	https://t.co/Vy0tR4wWmD	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/hhhBdSHuag	#hlink#	ADD	_	0	root	_	U-ORG
+

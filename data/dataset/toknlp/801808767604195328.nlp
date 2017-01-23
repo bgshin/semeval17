@@ -1,0 +1,24 @@
+1	@fahad_marwat	@fahad_marwat	UH	pos2=LS	8	discourse	_	O
+2	@Khalid_Munir	@khalid_munir	UH	pos2=RB	8	discourse	_	O
+3	well	well	UH	pos2=RB	8	discourse	_	O
+4	traditionally	traditionally	RB	_	8	advmod	_	O
+5	we	we	PRP	_	8	nsubj	_	O
+6	do	do	VBP	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	vote	vote	VB	_	0	root	_	O
+9	rightists	rightist	NNS	_	8	dobj	_	O
+10	into	into	IN	_	8	prep	_	O
+11	power	power	NN	_	10	pobj	_	O
+12	.	.	.	_	8	punct	_	O
+
+1	And	and	CC	_	2	cc	_	O
+2	are	be	VBP	_	0	root	_	O
+3	too	too	RB	_	4	advmod	_	O
+4	fragmented	fragmented	JJ	_	2	acomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	elect	elect	VB	_	4	xcomp	_	O
+7	a	a	DT	_	8	det	_	O
+8	trump	trump	NN	_	6	dobj	_	O
+9	or	or	CC	_	8	cc	_	O
+10	modi	modi	NN	pos2=NNS	8	conj	_	O
+

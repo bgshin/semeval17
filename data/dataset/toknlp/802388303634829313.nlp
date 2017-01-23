@@ -1,0 +1,31 @@
+1	@AdamBaldwin	@adambaldwin	NNP	pos2=NN	6	compound	_	O
+2	Wow	wow	UH	_	1	discourse	_	O
+3	,	,	,	_	1	punct	_	O
+4	first	#ord#	RB	pos2=JJ	8	advmod	_	U-ORDINAL
+5	Hugo	hugo	NNP	_	6	compound	_	B-PERSON
+6	Chavez	chavez	NNP	_	0	root	_	L-PERSON
+7	and	and	CC	_	6	cc	_	O
+8	now	now	RB	_	10	advmod	_	O
+9	Fidel	fidel	NNP	_	10	compound	_	B-PERSON
+10	Castro	castro	NNP	_	6	conj	_	L-PERSON
+11	.	.	.	_	1	punct	_	O
+
+1	Danny	danny	NNP	_	2	compound	_	B-PERSON
+2	Glover	glover	NNP	_	14	nsubj	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	Michael	michael	NNP	_	5	compound	_	B-PERSON
+5	Moore	moore	NNP	_	2	conj	_	L-PERSON
+6	,	,	,	_	5	punct	_	O
+7	Oliver	oliver	NNP	_	8	compound	_	B-PERSON
+8	Stone	stone	NNP	_	5	conj	_	L-PERSON
+9	,	,	,	_	8	punct	_	O
+10	and	and	CC	_	8	cc	_	O
+11	Sean	sean	NNP	_	12	compound	_	B-PERSON
+12	Penn	penn	NNP	_	8	conj	_	L-PERSON
+13	are	be	VBP	_	14	aux	_	O
+14	running	run	VBG	_	0	root	_	O
+15	out	out	IN	_	14	prep	_	O
+16	of	of	IN	_	15	prep	_	O
+17	heroes	hero	NNS	_	16	pobj	_	O
+18	.	.	.	_	14	punct	_	O
+

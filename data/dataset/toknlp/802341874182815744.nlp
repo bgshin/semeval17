@@ -1,0 +1,24 @@
+1	--	--	SYM	pos2=:	2	punct	_	O
+2	@mike_Pence	@mike_pence	NN	pos2=XX	0	root	_	O
+3	..	..	.	pos2=,	2	punct	_	O
+
+1	Stop	stop	VB	_	0	root	_	O
+2	pushing	push	VBG	_	1	xcomp	_	O
+3	#NeverRomney	#neverromney	NN	pos2=NNP	2	dobj	_	U-ORG
+4	as	as	IN	pos2=RB	2	prep	_	O
+5	@realDonaldTrump	@realdonaldtrump	JJ	pos2=NNP	6	nmod	_	O
+6	SOS	sos	NN	pos2=NNP	4	pobj	_	O
+7	you	you	PRP	_	9	nsubj	_	O
+8	are	be	VBP	_	9	aux	_	O
+9	hurting	hurt	VBG	_	5	ccomp	_	O
+10	Trump	trump	NNP	_	12	poss	_	U-ORG
+11	's	's	POS	_	10	case	_	O
+12	transition	transition	NN	_	9	dobj	_	O
+13	with	with	IN	_	12	prep	_	O
+14	incompetency	incompetency	NN	_	13	pobj	_	O
+15	.	.	.	_	1	punct	_	O
+
+1	Pick	pick	VB	pos2=NN	0	root	_	O
+2	another	another	DT	_	3	det	_	O
+3	SOS	sos	NN	pos2=NNP	1	dobj	_	O
+

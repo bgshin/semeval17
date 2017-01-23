@@ -1,0 +1,16 @@
+1	@DocThompsonShow	@docthompsonshow	UH	pos2=VB	6	discourse	_	O
+2	@glennbeck	@glennbeck	UH	pos2=VBP	6	discourse	_	O
+3	you	you	PRP	_	4	nmod	_	O
+4	guys	guy	NNS	_	6	nsubj	_	O
+5	have	have	VBP	_	6	aux	_	O
+6	#isis	#isis	VBN	pos2=RB	0	root	_	O
+7	right	right	RB	_	8	advmod	_	O
+8	here	here	RB	_	6	advmod	_	O
+9	in	in	IN	_	8	prep	_	O
+10	Ft.	ft.	NNP	_	11	compound	_	B-GPE
+11	Worth	worth	NNP	_	9	pobj	_	L-GPE
+12	!	!	.	_	6	punct	_	O
+
+1	😉	😉	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/I9GDeiAMiY	#hlink#	ADD	pos2=NN	0	root	_	O
+

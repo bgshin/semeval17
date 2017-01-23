@@ -1,0 +1,12 @@
+1	Melania	melania	NNP	_	2	compound	_	B-PERSON
+2	Trump	trump	NNP	_	3	nsubj	_	L-PERSON
+3	delivers	deliver	VBZ	_	0	root	_	O
+4	a	a	DT	_	7	det	_	O
+5	rare	rare	JJ	_	7	nmod	_	O
+6	campaign	campaign	NN	_	7	compound	_	O
+7	speech	speech	NN	_	3	dobj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	Pennsylvania	pennsylvania	NNP	_	8	pobj	_	U-GPE
+10	https://t.co/M9NNLw6O8d	#hlink#	ADD	pos2=NNP	11	nmod	_	O
+11	#RealEstate	#realestate	ADD	pos2=-RRB-	3	punct	_	U-ORG
+

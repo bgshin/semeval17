@@ -1,0 +1,22 @@
+1	77%OFF	0off	NN	_	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	https://t.co/Ff0AwjuGLw	#hlink#	ADD	_	5	nsubj	_	O
+4	Really	really	RB	_	5	advmod	_	O
+5	working	work	VBG	_	0	root	_	O
+6	in	in	IN	pos2=RB	5	prep	_	O
+7	LIVE	live	JJ	pos2=NN	8	nmod	_	O
+8	trade	trade	NN	_	6	pobj	_	O
+9	!	!	.	_	5	punct	_	O
+
+1	💰Fully	💰fully	RB	pos2=NNP	2	advmod	_	O
+2	automated	automate	VBN	pos2=VBD	5	nmod	_	O
+3	Forex	forex	NN	pos2=NNP	4	compound	_	O
+4	trading	trading	NN	_	5	compound	_	O
+5	Systems	system	NNS	pos2=NNPS	11	dep	_	O
+6	/	/	SYM	pos2=:	5	punct	_	O
+7	Robots	robot	NNS	_	5	appos	_	O
+8	/	/	SYM	pos2=,	9	punct	_	O
+9	Signa	signa	NN	pos2=NNP	7	prep	_	O
+10	…	…	NFP	pos2=:	11	punct	_	O
+11	https://t.co/CijH6HejsP	#hlink#	ADD	pos2=NN	0	root	_	O
+

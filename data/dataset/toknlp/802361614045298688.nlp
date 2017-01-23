@@ -1,0 +1,12 @@
+1	CNC	cnc	NN	pos2=NNP	7	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	3	0	CD	_	6	nmod	_	U-CARDINAL
+4	D	d	NNP	pos2=NN	6	compound	_	B-ORG
+5	Printing	printing	NNP	pos2=VBG	6	compound	_	I-ORG
+6	Brief	brief	NNP	pos2=RB	7	nsubj	_	L-ORG
+7	is	be	VBZ	_	0	root	_	O
+8	out	out	RB	pos2=RP	7	advmod	_	O
+9	!	!	.	_	7	punct	_	O
+
+1	https://t.co/SG09h38uOE	#hlink#	ADD	_	0	root	_	U-ORG
+

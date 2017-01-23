@@ -1,0 +1,12 @@
+1	#Liberalism	#liberalism	NNP	pos2=NN	2	compound	_	U-ORG
+2	#Progressives	#progressives	NNS	pos2=PRP	4	nsubj	_	O
+3	are	be	VBP	_	4	aux	_	O
+4	failing	fail	VBG	_	0	root	_	O
+5	worldwide	worldwide	RB	_	4	advmod	_	O
+6	from	from	IN	_	4	prep	_	O
+7	#Brexit	#brexit	NNP	pos2=VBG	8	compound	_	O
+8	#Trump	#trump	NNP	pos2=IN	6	pobj	_	O
+9	now	now	RB	_	4	advmod	_	O
+10	#Italy	#italy	NNP	pos2=ADD	11	nmod	_	U-PERSON
+11	https://t.co/o8k8YbeYQb	#hlink#	ADD	_	4	dep	_	O
+

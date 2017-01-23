@@ -1,0 +1,26 @@
+1	@CNNPolitics	@cnnpolitics	NNS	pos2=ADD	2	compound	_	O
+2	foodstamps	foodstamps	NNS	_	8	nsubj	_	O
+3	,	,	,	_	2	punct	_	O
+4	Medicaid	medicaid	NNP	_	2	conj	_	U-ORG
+5	and	and	CC	_	4	cc	_	O
+6	social	social	JJ	_	7	nmod	_	O
+7	security	security	NN	_	4	conj	_	O
+8	are	be	VBP	_	0	root	_	O
+9	not	not	RB	_	8	neg	_	O
+10	enough	enough	JJ	_	8	acomp	_	O
+11	to	to	TO	_	12	aux	_	O
+12	fund	fund	VB	pos2=NN	10	xcomp	_	O
+13	billionaires	billionaire	NNS	_	14	compound	_	O
+14	taxcuts	taxcuts	NNS	pos2=RBS	12	dobj	_	O
+15	.	.	.	_	8	punct	_	O
+
+1	so	so	RB	_	2	advmod	_	O
+2	add	add	VB	_	0	root	_	O
+3	a	a	DT	_	9	det	_	B-MONEY
+4	couple	couple	NN	_	5	qmod	_	I-MONEY
+5	trillion	#crd#	CD	_	9	nmod	_	L-MONEY
+6	national	national	JJ	_	9	nmod	_	O
+7	debt	debt	NN	_	9	nmod	_	O
+8	+	+	SYM	pos2=CC	9	punct	_	O
+9	int	int	NN	_	2	dobj	_	O
+

@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det	_	O
+2	best	good	JJS	_	3	nmod	_	O
+3	holiday	holiday	NN	_	12	dep	_	O
+4	ever	ever	RB	_	3	advmod	_	O
+5	National	national	NNP	pos2=JJ	8	nmod	_	U-NORP
+6	Fast	fast	JJ	pos2=NNP	7	nmod	_	O
+7	food	food	NN	pos2=GW	8	compound	_	O
+8	day	day	NN	_	12	dep	_	O
+9	https://t.co/vrzJQMSWGx	#hlink#	ADD	_	12	nmod	_	O
+10	#NationalFastFoodDay	#nationalfastfoodday	GW	pos2=-RRB-	12	nmod	_	O
+11	@YouTube	@youtube	GW	pos2=ADD	12	nmod	_	O
+12	https://t.co/IYZa9Zz6hD	#hlink#	ADD	pos2=NN	0	root	_	O
+

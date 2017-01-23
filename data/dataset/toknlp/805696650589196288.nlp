@@ -1,0 +1,13 @@
+1	Tell	tell	VB	pos2=JJ	0	root	_	O
+2	consumers	consumer	NNS	_	3	compound	_	O
+3	homeopathy	homeopathy	NN	_	6	nsubj	_	O
+4	does	do	VBZ	_	6	aux	_	O
+5	nt	nt	RB	_	6	advmod	_	O
+6	work	work	VB	pos2=NN	1	ccomp	_	O
+7	:	:	:	_	12	punct	_	O
+8	US	us	NNP	pos2=NN	9	compound	_	U-GPE
+9	government	government	NN	_	10	compound	_	O
+10	orders	order	NNS	pos2=VBZ	11	compound	_	O
+11	producers	producer	NNS	_	12	dep	_	O
+12	https://t.co/MxG3PtMdYS	#hlink#	ADD	pos2=VBP	0	root	_	U-ORG
+

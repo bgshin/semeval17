@@ -1,0 +1,17 @@
+1	@yadavtejashwi	@yadavtejashwi	UH	pos2=XX	3	discourse	_	O
+2	@NitishKumar	@nitishkumar	GW	pos2=XX	7	nmod	_	U-PERSON
+3	@HealthCareGov	@healthcaregov	GW	pos2=ADD	7	nmod	_	O
+4	@GovtofBihar	@govtofbihar	GW	pos2=ADD	7	nmod	_	U-PERSON
+5	@MoHFW_INDIA	@mohfw_india	GW	pos2=NN	7	nmod	_	O
+6	@htTweets	@httweets	GW	pos2=NNS	7	nmod	_	O
+7	Non-availablity	non-availablity	NN	pos2=GW	12	dep	_	O
+8	of	of	IN	_	7	prep	_	O
+9	child	child	NN	_	10	compound	_	O
+10	vaccines	vaccine	NNS	_	8	pobj	_	O
+11	@	@	SYM	pos2=IN	10	punct	_	O
+12	Jamui	jamui	NNP	_	0	root	_	U-GPE
+13	,	,	,	_	12	punct	_	O
+14	Bihar	bihar	NNP	_	15	compound	_	U-GPE
+15	hospital	hospital	NN	_	10	appos	_	O
+16	**	**	SYM	pos2=-RRB-	12	punct	_	U-CARDINAL
+

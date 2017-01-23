@@ -1,0 +1,9 @@
+1	#Yemen	#yemen	NNP	pos2=SYM	5	nmod	_	O
+2	2017	0	CD	_	5	nmod	_	U-DATE
+3	Humanitarian	humanitarian	NNP	pos2=JJ	4	compound	_	B-WORK_OF_ART
+4	Needs	need	NNPS	pos2=GW	5	compound	_	I-WORK_OF_ART
+5	Overview	overview	NN	pos2=GW	6	dep	_	L-WORK_OF_ART
+6	https://t.co/AtGJVqFcTc	#hlink#	ADD	pos2=NN	0	root	_	O
+7	via	via	IN	_	6	prep	_	O
+8	@reliefweb	@reliefweb	NN	pos2=.	7	pobj	_	O
+

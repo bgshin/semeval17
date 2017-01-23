@@ -1,0 +1,17 @@
+1	#Sionisme	#sionisme	NNP	pos2=UH	10	nsubj	_	B-PERSON
+2	#jesuschrist	#jesuschrist	UH	pos2=XX	10	discourse	_	I-PERSON
+3	#Jerusalem	#jerusalem	NNP	pos2=UH	7	nmod	_	L-PERSON
+4	#jerusalempost	#jerusalempost	UH	pos2=IN	5	discourse	_	O
+5	#NewYork	#newyork	ADD	pos2=NNP	9	poss	_	O
+6	#bible	#bible	UH	pos2=JJ	10	discourse	_	O
+7	#BibleStudy	#biblestudy	NN	pos2=NNP	9	compound	_	O
+8	Rudy	rudy	NNP	_	9	compound	_	B-PERSON
+9	Boxman	boxman	NNP	_	10	nsubj	_	L-PERSON
+10	made	make	VBD	_	0	root	_	O
+11	this	this	DT	_	12	det	_	O
+12	painting	painting	NN	pos2=VBG	10	dobj	_	O
+13	SION	sion	NNP	pos2=NN	16	nsubj	_	U-ORG
+14	or	or	CC	_	13	cc	_	O
+15	…	…	NFP	pos2=-LRB-	13	conj	_	O
+16	https://t.co/McWz47hbmR	#hlink#	ADD	_	10	dep	_	U-ORG
+

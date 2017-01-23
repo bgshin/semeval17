@@ -1,0 +1,21 @@
+1	At	at	IN	_	5	prep	_	O
+2	United	united	NNP	_	1	pobj	_	U-ORG
+3	,	,	,	_	5	punct	_	O
+4	there	there	EX	_	5	expl	_	O
+5	are	be	VBP	_	0	root	_	O
+6	great	great	JJ	_	7	nmod	_	O
+7	traditions	tradition	NNS	_	5	attr	_	O
+8	,	,	,	_	7	punct	_	O
+9	which	which	WDT	_	13	dobj	_	O
+10	you	you	PRP	_	13	nsubj	_	O
+11	ca	can	MD	_	13	aux	_	O
+12	n't	not	RB	_	13	neg	_	O
+13	buy	buy	VB	_	7	relcl	_	O
+14	in	in	IN	pos2=RP	13	prep	_	O
+15	o	o	NNP	pos2=NN	14	pobj	_	O
+16	...	..	.	pos2=,	5	punct	_	O
+
+1	#CristianoRonaldo	#cristianoronaldo	GW	pos2=XX	3	nmod	_	B-PERSON
+2	#citations	#citations	GW	pos2=NNS	3	nmod	_	L-PERSON
+3	https://t.co/HrZzHjwVxc	#hlink#	ADD	pos2=NN	0	root	_	O
+

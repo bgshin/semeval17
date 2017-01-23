@@ -1,0 +1,30 @@
+1	@JohnFromCranber	@johnfromcranber	VB	pos2=NNP	0	root	_	O
+2	Damn	damn	RB	pos2=JJ	3	advmod	_	O
+3	straight	straight	JJ	pos2=RB	6	advmod	_	O
+4	he	he	PRP	_	5	nsubj	_	O
+5	is	be	VBZ	_	1	ccomp	_	O
+6	right	right	JJ	_	5	acomp	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	But	but	CC	_	3	cc	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	has	have	VBZ	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	be	be	VB	_	3	xcomp	_	O
+6	the	the	DT	_	8	det	_	O
+7	"	"	``	_	8	punct	_	O
+8	Pay	pay	VB	pos2=NNP	5	attr	_	O
+9	for	for	IN	_	8	prep	_	O
+10	Play	play	NNP	pos2=NN	9	pobj	_	O
+11	"	"	``	pos2=''	14	punct	_	O
+12	Clinton	clinton	NNP	_	14	compound	_	B-ORG
+13	Crime	crime	NNP	_	14	compound	_	I-ORG
+14	Foundation	foundation	NNP	_	10	appos	_	L-ORG
+15	.	.	.	_	3	punct	_	O
+
+1	Comey	comey	NNP	_	2	nsubj	_	U-PERSON
+2	compromised	compromise	VBD	pos2=VBN	0	root	_	O
+3	email	email	NN	_	4	compound	_	O
+4	investig	investig	NN	pos2=NNS	2	dobj	_	O
+5	.	.	.	_	2	punct	_	O
+

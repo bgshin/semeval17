@@ -1,0 +1,11 @@
+1	la	la	FW	pos2=NN	7	nmod	_	O
+2	artista	artista	FW	pos2=NN	7	nmod	_	O
+3	favorita	favorita	FW	_	7	nmod	_	O
+4	de	de	FW	pos2=IN	7	nmod	_	O
+5	ricky	ricky	FW	pos2=JJ	7	nmod	_	O
+6	martin	martin	FW	pos2=NNP	7	nmod	_	O
+7	queen	queen	NN	pos2=UH	0	root	_	O
+8	like	like	IN	pos2=UH	7	prep	_	O
+9	always	always	RB	_	10	advmod	_	O
+10	#LaliEnHoy	#lalienhoy	ADD	pos2=.	8	pobj	_	O
+

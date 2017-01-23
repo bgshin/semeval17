@@ -1,0 +1,11 @@
+1	@tteegar	@tteegar	UH	pos2=XX	8	discourse	_	O
+2	@realDonaldTrump	@realdonaldtrump	ADD	pos2=NN	8	punct	_	B-PERSON
+3	@Cernovich	@cernovich	NNP	pos2=WDT	8	nsubj	_	L-PERSON
+4	@DanScavino	@danscavino	ADD	pos2=XX	8	punct	_	B-DATE
+5	@KellyannePolls	@kellyannepolls	NNS	pos2=ADD	7	poss	_	I-DATE
+6	@mike_pence	@mike_pence	POS	pos2=VBP	5	case	_	L-DATE
+7	@JBurtonExpress	@jburtonexpress	ADD	pos2=NN	8	nsubj	_	O
+8	@immigrant4trump	@immigrant0trump	VBP	pos2=CD	0	root	_	O
+9	DAMN	damn	RB	pos2=JJ	8	advmod	_	O
+10	!!!	!!	.	_	8	punct	_	O
+

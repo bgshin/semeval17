@@ -1,0 +1,9 @@
+1	@swlwords	@swlwords	UH	pos2=NNS	4	discourse	_	O
+2	we	we	PRP	_	4	nsubj	_	O
+3	're	be	VBP	_	4	aux	_	O
+4	gearing	gear	VBG	_	0	root	_	O
+5	up	up	RP	_	4	prt	_	O
+6	for	for	IN	_	4	prep	_	O
+7	persona	persona	NN	_	6	pobj	_	O
+8	5	0	CD	_	7	nmod	_	U-CARDINAL
+

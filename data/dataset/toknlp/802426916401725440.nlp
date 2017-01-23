@@ -1,0 +1,18 @@
+1	@Mediaite	@mediaite	NNP	pos2=UH	0	csubj	_	O
+2	Where	where	WRB	_	3	advmod	_	O
+3	is	be	VBZ	_	1	relcl	_	O
+4	the	the	DT	_	6	det	_	O
+5	"	"	``	_	6	punct	_	O
+6	outrage	outrage	NN	_	3	attr	_	O
+7	"	"	''	_	6	punct	_	O
+8	from	from	IN	_	6	prep	_	O
+9	the	the	DT	_	12	det	_	O
+10	"	"	``	_	12	punct	_	O
+11	fiscal	fiscal	JJ	_	12	nmod	_	O
+12	conservatives	conservative	NNS	_	8	pobj	_	O
+13	"	"	''	_	12	punct	_	O
+14	over	over	IN	pos2=RB	6	prep	_	O
+15	gummit	gummit	DT	pos2=NN	16	det	_	O
+16	spending	spending	NN	_	14	pobj	_	O
+17	?	?	.	_	12	punct	_	O
+

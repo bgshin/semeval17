@@ -1,0 +1,20 @@
+1	Process	process	NN	pos2=VB	12	nsubj	_	O
+2	to	to	IN	pos2=TO	1	prep	_	O
+3	con	con	NN	pos2=VB	2	pobj	_	O
+4	for	for	IN	_	1	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	vegetarianism	vegetarianism	NN	_	4	pobj	_	O
+7	aside	aside	RB	_	1	advmod	_	O
+8	from	from	IN	_	7	prep	_	O
+9	soft	soft	JJ	_	11	nmod	_	O
+10	-	-	HYPH	_	11	punct	_	O
+11	pedal	pedal	NN	pos2=JJ	8	pobj	_	O
+12	boast	boast	VB	pos2=VBP	0	root	_	O
+13	an	an	DT	_	16	det	_	O
+14	scratch	scratch	NN	_	15	compound	_	O
+15	feed	feed	NN	_	16	compound	_	O
+16	damp	damp	NN	pos2=JJ	12	dobj	_	O
+17	:	:	:	_	16	punct	_	O
+18	JnWLMKaKa	jnwlmkaka	GW	pos2=ADD	19	nmod	_	B-CARDINAL
+19	https://t.co/Tdy4xT8eY7	#hlink#	ADD	_	16	appos	_	L-CARDINAL
+

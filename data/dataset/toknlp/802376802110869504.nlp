@@ -1,0 +1,25 @@
+1	Jill	jill	NNP	_	2	compound	_	B-PERSON
+2	Stein	stein	NNP	_	3	nsubj	_	L-PERSON
+3	raked	rake	VBD	pos2=VBN	0	root	_	O
+4	in	in	RP	pos2=IN	3	prt	_	O
+5	more	more	JJR	_	6	nmod	_	O
+6	money	money	NN	_	3	dobj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	recount	recount	NN	_	7	pobj	_	O
+10	then	then	RB	_	12	advmod	_	O
+11	she	she	PRP	_	12	nsubj	_	O
+12	did	do	VBD	_	3	conj	_	O
+13	for	for	IN	_	12	prep	_	O
+14	her	her	PRP$	_	16	poss	_	O
+15	entire	entire	JJ	_	16	nmod	_	O
+16	campaign	campaign	NN	_	13	pobj	_	O
+17	...	..	.	_	12	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	some	some	DT	_	5	det	_	O
+4	desperate	desperate	JJ	_	5	nmod	_	O
+5	leftists	leftist	NNS	_	2	attr	_	O
+6	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,12 @@
+1	#NowPlaying	#nowplaying	VBG	pos2=NNP	11	punct	_	O
+2	Forever	forever	RB	pos2=WRB	1	advmod	_	O
+3	Young	young	NNP	pos2=JJ	9	compound	_	O
+4	-	-	HYPH	pos2=:	9	punct	_	O
+5	Slow	slow	NNP	_	9	compound	_	O
+6	Version	version	NNP	pos2=NN	9	compound	_	O
+7	de	de	NNP	pos2=IN	9	compound	_	B-PERSON
+8	Bob	bob	NNP	_	9	compound	_	I-PERSON
+9	Dylan	dylan	NNP	_	11	dep	_	L-PERSON
+10	♫	♫	NFP	pos2=VBD	11	punct	_	O
+11	https://t.co/gW3mLRL2Ii	#hlink#	ADD	_	0	root	_	O
+

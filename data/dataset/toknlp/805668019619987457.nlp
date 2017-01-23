@@ -1,0 +1,24 @@
+1	#Aleppo	#aleppo	NN	pos2=NNP	10	dep	_	O
+2	:	:	:	_	10	punct	_	O
+3	The	the	DT	_	4	det	_	O
+4	brutality	brutality	NN	_	10	nsubj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Putin	putin	NNP	_	8	poss	_	U-PERSON
+7	's	's	POS	_	6	case	_	O
+8	aggression	aggression	NN	_	5	pobj	_	O
+9	has	have	VBZ	_	10	aux	_	O
+10	dredged	dredge	VBN	_	0	root	_	O
+11	up	up	RP	_	10	prt	_	O
+12	memories	memory	NNS	_	10	dobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	Soviet	soviet	JJ	_	15	nmod	_	U-NORP
+15	crimes	crime	NNS	_	13	pobj	_	O
+16	as	as	IN	_	18	mark	_	O
+17	people	people	NNS	_	18	nsubj	_	O
+18	see	see	VBP	_	10	advcl	_	O
+19	they	they	PRP	_	21	nsubj	_	O
+20	're	be	VBP	_	21	aux	_	O
+21	being	be	VBG	_	18	ccomp	_	O
+22	…	…	NFP	pos2=-LRB-	23	punct	_	O
+23	https://t.co/N0AIU0nT5Y	#hlink#	ADD	_	10	dep	_	U-ORG
+

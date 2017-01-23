@@ -1,0 +1,11 @@
+1	#Iraqiforces	#iraqiforces	NNS	pos2=NNP	10	nmod	_	O
+2	seized	seize	VBN	pos2=VBD	1	acl	_	O
+3	#Qaratapa	#qaratapa	NNP	pos2=IN	5	nmod	_	O
+4	south	south	JJ	pos2=RB	5	nmod	_	O
+5	east	east	NN	pos2=NNP	2	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	#mosul#MosulOperation	#mosul#mosuloperation	NN	pos2=NNP	6	pobj	_	O
+8	#mosulop#mosulops#mosuloffensive#IRAQ#ISIS	#mosulop#mosulops#mosuloffensive#iraq#isis	GW	pos2=NN	10	nmod	_	U-MONEY
+9	…	…	NFP	pos2=GW	10	punct	_	O
+10	https://t.co/qcGPxskhyl	#hlink#	ADD	pos2=NN	0	root	_	O
+

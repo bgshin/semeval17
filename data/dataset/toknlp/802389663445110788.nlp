@@ -1,0 +1,13 @@
+1	Sure	sure	UH	pos2=RB	3	discourse	_	O
+2	have	have	VBP	pos2=VB	3	aux	_	O
+3	learned	learn	VBN	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	lot	lot	NN	_	3	dobj	_	O
+6	about	about	IN	_	5	prep	_	O
+7	Leonard	leonard	NNP	_	8	compound	_	B-PERSON
+8	Cohen	cohen	NNP	_	6	pobj	_	L-PERSON
+9	since	since	IN	_	11	mark	_	O
+10	he	he	PRP	_	11	nsubj	_	O
+11	died	die	VBD	_	3	advcl	_	O
+12	https://t.co/TW9NveXaNW	#hlink#	ADD	_	11	dobj	_	U-ORG
+

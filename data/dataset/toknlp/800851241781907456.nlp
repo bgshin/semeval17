@@ -1,0 +1,31 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	O
+2	@jemelehill	@jemelehill	NN	pos2=RB	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	When	when	WRB	_	7	advmod	_	O
+5	are	be	VBP	_	7	aux	_	O
+6	we	we	PRP	_	7	nsubj	_	O
+7	gon	gon	VBG	pos2=VBP	0	root	_	O
+8	na	to	TO	_	9	aux	_	O
+9	stop	stop	VB	_	7	xcomp	_	O
+10	being	be	VBG	_	9	xcomp	_	O
+11	cute	cute	JJ	_	10	acomp	_	O
+12	and	and	CC	_	9	cc	_	O
+13	call	call	VB	pos2=VBP	9	conj	_	O
+14	the	the	DT	_	18	det	_	O
+15	"	"	``	_	18	punct	_	O
+16	alt	alt	JJ	pos2=NN	18	advmod	_	O
+17	-	-	HYPH	_	18	punct	_	O
+18	right	right	JJ	_	13	oprd	_	O
+19	"	"	''	pos2=``	18	punct	_	O
+20	what	what	WP	_	23	attr	_	O
+21	it	it	PRP	_	23	nsubj	_	O
+22	really	really	RB	_	23	advmod	_	O
+23	is	be	VBZ	_	18	ccomp	_	O
+24	?	?	.	_	23	punct	_	O
+
+1	Beyond	beyond	IN	pos2=RB	0	root	_	O
+2	disgraceful	disgraceful	JJ	_	1	pobj	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	https://t.co/es45wwT2sJ	#hlink#	ADD	_	0	root	_	U-ORG
+

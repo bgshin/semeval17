@@ -1,0 +1,19 @@
+1	Only	only	RB	_	2	advmod	_	O
+2	in	in	IN	_	0	root	_	O
+3	San	san	NNP	_	4	compound	_	B-GPE
+4	Diego	diego	NNP	_	2	pobj	_	L-GPE
+5	!	!	.	_	2	punct	_	O
+
+1	Post	post	AFX	pos2=IN	3	advmod	_	O
+2	Thanksgiving	thanksgiving	NNP	_	3	compound	_	O
+3	Run	run	NNP	pos2=VB	12	nmod	_	O
+4	complete	complete	JJ	pos2=VB	12	dep	_	O
+5	in	in	IN	_	4	prep	_	O
+6	ideal	ideal	JJ	_	7	nmod	_	O
+7	weather	weather	NN	_	5	pobj	_	O
+8	and	and	CC	_	4	cc	_	O
+9	with	with	IN	_	4	conj	_	O
+10	astonishing	astonishing	JJ	_	11	nmod	_	O
+11	…	…	NFP	pos2=-LRB-	9	pobj	_	O
+12	https://t.co/KDpVAxsxZy	#hlink#	ADD	_	0	root	_	O
+

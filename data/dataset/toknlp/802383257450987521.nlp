@@ -1,0 +1,20 @@
+1	Managed	manage	VBN	pos2=JJ	3	nmod	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	care	care	NN	_	4	compound	_	O
+4	plans	plan	NNS	_	0	root	_	O
+5	increasingly	increasingly	RB	_	6	advmod	_	O
+6	taking	take	VBG	_	4	acl	_	O
+7	over	over	RP	pos2=IN	6	prt	_	O
+8	Medicaid	medicaid	NNP	_	12	nmod	_	U-ORG
+9	long	long	JJ	_	11	nmod	_	O
+10	-	-	HYPH	_	11	punct	_	O
+11	term	term	NN	_	12	compound	_	O
+12	care	care	NN	_	6	dobj	_	O
+13	.	.	.	_	4	punct	_	O
+
+1	Not	not	RB	_	2	neg	_	O
+2	everyone	everyone	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	happy	happy	JJ	_	3	acomp	_	O
+5	https://t.co/XZUg2HZelC	#hlink#	ADD	pos2=NN	3	dep	_	O
+

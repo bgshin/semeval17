@@ -1,0 +1,15 @@
+1	There	there	EX	_	2	expl	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	lot	lot	NN	_	2	attr	_	O
+5	of	of	IN	_	4	prep	_	O
+6	birthdays	birthday	NNS	_	5	pobj	_	O
+7	this	this	DT	_	8	det	_	B-DATE
+8	week	week	NN	_	2	npadvmod	_	L-DATE
+9	.	.	.	_	2	punct	_	O
+
+1	Happy	happy	JJ	pos2=NNP	3	nmod	_	B-DATE
+2	Valentines	valentines	NNP	pos2=NNPS	3	compound	_	I-DATE
+3	Day	day	NNP	pos2=NN	0	root	_	L-DATE
+4	!!!!	!!	.	_	3	punct	_	O
+

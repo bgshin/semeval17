@@ -1,0 +1,14 @@
+1	#vidéo	#vidéo	UH	pos2=XX	0	root	_	O
+2	#Google	#google	NNP	pos2=VB	8	dep	_	O
+3	lance	lance	NN	pos2=NNP	8	dep	_	O
+4	enfin	enfin	NNP	pos2=NN	8	dep	_	O
+5	Google	google	NNP	_	8	dep	_	B-ORG
+6	Earth	earth	NNP	_	8	dep	_	L-ORG
+7	#VR	#vr	XX	pos2=NNP	8	dep	_	O
+8	😮🌎	😮🌎	NNP	pos2=NFP	1	vocative	_	U-GPE
+9	!	!	.	_	1	punct	_	O
+
+1	https://t.co/Ryj1axRG7f	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@siecledigital	@siecledigital	JJ	pos2=.	2	pobj	_	O
+

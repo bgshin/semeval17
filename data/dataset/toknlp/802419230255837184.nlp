@@ -1,0 +1,27 @@
+1	@pwsimerimiaw	@pwsimerimiaw	UH	pos2=IN	5	punct	_	O
+2	Several	several	JJ	_	3	nmod	_	O
+3	parallels	parallel	NNS	_	0	root	_	O
+4	with	with	IN	_	3	prep	_	O
+5	Brexit	brexit	NNP	pos2=NN	4	pobj	_	U-GPE
+6	in	in	IN	_	5	prep	_	O
+7	UK	uk	NNP	_	6	pobj	_	U-GPE
+8	,	,	,	_	3	punct	_	O
+9	which	which	WDT	_	11	nsubjpass	_	O
+10	was	be	VBD	_	11	auxpass	_	O
+11	led	lead	VBN	_	3	relcl	_	O
+12	by	by	IN	_	11	agent	_	O
+13	far	far	RB	pos2=JJ	17	advmod	_	O
+14	-	-	HYPH	_	17	punct	_	O
+15	right	right	JJ	_	17	nmod	_	O
+16	-	-	HYPH	_	17	punct	_	O
+17	wing	wing	NN	_	18	compound	_	O
+18	Conservatives	conservative	NNPS	pos2=NNS	12	pobj	_	U-NORP
+19	,	,	,	_	18	punct	_	O
+20	who	who	WP	_	21	nsubj	_	O
+21	fooled	fool	VBD	_	18	relcl	_	O
+22	working	work	VBG	_	21	xcomp	_	O
+23	classes	class	NNS	_	22	dobj	_	O
+24	to	to	TO	_	25	aux	_	O
+25	support	support	VB	_	22	advcl	_	O
+26	them	them	PRP	_	25	dobj	_	O
+

@@ -1,0 +1,20 @@
+1	Samto	samto	NNP	pos2=SYM	0	root	_	B-EVENT
+2	3	0	CD	_	5	nmod	_	I-EVENT
+3	D	d	NNP	pos2=NN	4	compound	_	I-EVENT
+4	Pen	pen	NNP	_	5	compound	_	I-EVENT
+5	Version	version	NN	pos2=NNP	1	appos	_	I-EVENT
+6	3	0	CD	_	5	nmod	_	L-EVENT
+7	for	for	IN	_	5	prep	_	O
+8	3	0	CD	_	10	nmod	_	U-CARDINAL
+9	D	d	NNP	pos2=NN	10	compound	_	O
+10	Drawing	drawing	NN	pos2=NNP	7	pobj	_	O
+11	,	,	,	_	10	punct	_	O
+12	Printing	printing	NNP	pos2=NN	10	appos	_	U-ORG
+13	..	..	.	pos2=,	1	punct	_	O
+
+1	#rt2gain	#rt0gain	NN	pos2=RB	5	nmod	_	O
+2	#teamfollowback	#teamfollowback	UH	pos2=XX	1	discourse	_	O
+3	#followback	#followback	UH	pos2=GW	1	discourse	_	O
+4	#f4f	#f0f	GW	pos2=-LRB-	5	nmod	_	O
+5	https://t.co/nZ1K1whqsr	#hlink#	ADD	_	0	root	_	U-ORG
+

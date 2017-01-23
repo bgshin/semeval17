@@ -1,0 +1,26 @@
+1	@mytchsmitty	@mytchsmitty	UH	pos2=NN	5	discourse	_	O
+2	does	do	VBZ	_	5	aux	_	O
+3	n't	not	RB	_	5	neg	_	O
+4	she	she	PRP	_	5	nsubj	_	O
+5	know	know	VB	_	0	root	_	O
+6	the	the	DT	_	9	det	_	O
+7	whole	whole	JJ	pos2=NN	9	nmod	_	O
+8	DAPL	dapl	NNP	pos2=JJ	9	compound	_	U-ORG
+9	protest	protest	NN	pos2=VB	10	nsubj	_	O
+10	was	be	VBD	_	5	ccomp	_	O
+11	just	just	RB	_	13	advmod	_	O
+12	to	to	TO	_	13	aux	_	O
+13	prevent	prevent	VB	_	10	advcl	_	O
+14	it	it	PRP	_	13	dobj	_	O
+15	going	go	VBG	_	13	advcl	_	O
+16	on	on	IN	pos2=RP	15	prep	_	O
+17	sacred	sacred	JJ	_	18	nmod	_	O
+18	land	land	NN	_	16	pobj	_	O
+19	??	??	.	_	5	punct	_	O
+
+1	Not	not	RB	_	3	neg	_	O
+2	to	to	TO	_	3	aux	_	O
+3	protest	protest	VB	_	0	root	_	O
+4	fossil	fossil	NN	pos2=JJ	5	compound	_	O
+5	fuels	fuel	NNS	_	3	dobj	_	O
+

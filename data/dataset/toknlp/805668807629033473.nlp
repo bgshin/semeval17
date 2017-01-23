@@ -1,0 +1,18 @@
+1	Such	such	PDT	_	4	predet	_	O
+2	a	a	DT	_	4	det	_	O
+3	good	good	JJ	_	4	nmod	_	O
+4	summary	summary	NN	_	13	dep	_	O
+5	of	of	IN	_	4	prep	_	O
+6	so	so	RB	_	7	advmod	_	O
+7	many	many	JJ	_	10	nmod	_	O
+8	little	little	JJ	_	10	nmod	_	O
+9	Brexit	brexit	NNP	pos2=XX	10	compound	_	O
+10	Tories	tory	NNPS	pos2=NNP	5	pobj	_	O
+11	;	;	:	pos2=,	13	punct	_	O
+12	do	do	VBP	pos2=VB	13	aux	_	O
+13	yo	yo	VB	pos2=NN	0	root	_	O
+14	recognise	recognise	VB	_	13	xcomp	_	O
+15	anyone	anyone	NN	_	14	dobj	_	O
+16	@ajaykisgroup	@ajaykisgroup	IN	pos2=-LRB-	14	prep	_	O
+17	https://t.co/icSDWeelCH	#hlink#	ADD	pos2=NN	16	pobj	_	U-ORG
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det	_	O
+2	Return	return	NNP	pos2=NN	3	compound	_	O
+3	review	review	NN	_	8	nsubj	_	O
+4	:	:	:	_	7	punct	_	O
+5	Hisham	hisham	NNP	_	6	compound	_	B-PERSON
+6	Matar	matar	NNP	_	8	poss	_	I-PERSON
+7	's	's	POS	_	6	case	_	L-PERSON
+8	attempts	attempt	NNS	_	0	root	_	O
+9	to	to	TO	_	10	aux	_	O
+10	uncover	uncover	VB	_	8	acl	_	O
+11	his	his	PRP$	_	12	poss	_	O
+12	father	father	NN	_	16	poss	_	O
+13	's	's	POS	_	12	case	_	O
+14	terrible	terrible	JJ	_	16	nmod	_	O
+15	fatehttps://t.co/NYMAPWCVfV#Libya	#hlink#	ADD	pos2=NN	16	nmod	_	U-ORG
+16	#News	#news	NNS	pos2=NNP	10	dobj	_	O
+

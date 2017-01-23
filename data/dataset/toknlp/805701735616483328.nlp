@@ -1,0 +1,29 @@
+1	Thank	thank	VBP	_	0	root	_	O
+2	you	you	PRP	_	1	dobj	_	O
+3	Michael	michael	NNP	_	4	compound	_	B-ORG
+4	Crichton	crichton	NNP	_	1	vocative	_	I-ORG
+5	&	&	CC	_	4	cc	_	I-ORG
+6	@HBO	@hbo	NNP	pos2=NN	4	conj	_	L-ORG
+7	.	.	.	_	1	punct	_	O
+
+1	@WestworldHBO	@westworldhbo	NN	pos2=ADD	5	nsubj	_	O
+2	may	may	MD	_	5	aux	_	O
+3	very	very	RB	_	4	advmod	_	O
+4	well	well	RB	_	5	advmod	_	O
+5	be	be	VB	_	0	root	_	O
+6	the	the	DT	_	8	det	_	O
+7	best	good	JJS	_	8	nmod	_	O
+8	thing	thing	NN	_	5	attr	_	O
+9	I	I	PRP	_	12	nsubj	_	O
+10	've	have	VBP	_	12	aux	_	O
+11	ever	ever	RB	_	12	advmod	_	O
+12	watched	watch	VBN	_	8	relcl	_	O
+13	.	.	.	_	5	punct	_	O
+
+1	Sorry	sorry	JJ	pos2=UH	2	nmod	_	O
+2	@BreakingBad_AMC	@breakingbad_amc	NNP	pos2=NNS	0	root	_	U-GPE
+3	.	.	.	_	2	punct	_	O
+
+1	#Westworld	#westworld	NNP	pos2=XX	2	compound	_	O
+2	#HBO	#hbo	NN	pos2=ADD	0	root	_	O
+

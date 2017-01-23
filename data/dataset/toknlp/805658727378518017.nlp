@@ -1,0 +1,27 @@
+1	Death	death	NN	_	2	compound	_	O
+2	penalty	penalty	NN	_	7	dep	_	O
+3	or	or	CC	_	2	cc	_	O
+4	capital	capital	NN	pos2=JJ	5	nmod	_	O
+5	punishment	punishment	NN	_	2	conj	_	O
+6	It	it	PRP	_	7	nsubj	_	O
+7	is	be	VBZ	_	0	root	_	O
+8	corporal	corporal	JJ	_	9	nmod	_	O
+9	punishment	punishment	NN	_	7	attr	_	O
+10	.	.	.	_	7	punct	_	O
+
+1	As	as	IN	_	4	mark	_	O
+2	its	its	PRP$	_	3	poss	_	O
+3	name	name	NN	_	4	nsubj	_	O
+4	implies	imply	VBZ	_	7	advcl	_	O
+5	,	,	,	_	7	punct	_	O
+6	this	this	DT	_	7	nsubj	_	O
+7	is	be	VBZ	_	0	root	_	O
+8	to	to	TO	_	9	aux	_	O
+9	take	take	VB	_	7	xcomp	_	O
+10	life	life	NN	_	9	dobj	_	O
+11	,	,	,	_	10	punct	_	O
+12	which	which	WDT	_	8	pobj	_	O
+13	...	..	.	pos2=,	7	punct	_	O
+
+1	https://t.co/PqgX6KhKIG	#hlink#	ADD	_	0	root	_	U-ORG
+

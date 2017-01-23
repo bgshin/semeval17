@@ -1,0 +1,24 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	sort	sort	NN	_	2	attr	_	O
+5	of	of	IN	pos2=RB	4	prep	_	O
+6	half	half	NN	pos2=RB	8	advmod	_	U-CARDINAL
+7	-	-	HYPH	_	8	punct	_	O
+8	assed	assed	JJ	pos2=VBN	9	nmod	_	O
+9	joke	joke	NN	_	5	pobj	_	O
+10	that	that	WDT	_	11	nsubj	_	O
+11	reminds	remind	VBZ	_	9	relcl	_	O
+12	you	you	PRP	_	11	dobj	_	O
+13	you	you	PRP	_	17	nsubj	_	O
+14	can	can	MD	_	17	aux	_	O
+15	never	never	RB	_	17	neg	_	O
+16	really	really	RB	_	17	advmod	_	O
+17	be	be	VB	_	11	ccomp	_	O
+18	friends	friend	NNS	_	17	attr	_	O
+19	with	with	IN	_	18	prep	_	O
+20	conservatives	conservative	NNS	_	19	pobj	_	O
+21	.	.	.	_	2	punct	_	O
+
+1	https://t.co/fO3QeRr2rt	#hlink#	ADD	_	0	root	_	U-ORG
+

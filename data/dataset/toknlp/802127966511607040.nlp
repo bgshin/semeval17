@@ -1,0 +1,19 @@
+1	WE	we	PRP	pos2=EX	2	nsubj	_	O
+2	ARE	be	VBP	_	0	root	_	O
+3	CRAZY	crazy	JJ	_	4	nmod	_	O
+4	MOFOS	mofos	NNS	pos2=NNPS	2	attr	_	O
+5	!	!	.	_	2	punct	_	O
+
+1	WE	we	PRP	_	2	nsubj	_	O
+2	TAKE	take	VBP	pos2=VB	0	root	_	O
+3	DOWN	down	RP	pos2=RB	2	prt	_	O
+4	ALL	all	DT	_	5	det	_	O
+5	HATERS	hater	NNS	_	2	dobj	_	O
+6	!	!	.	_	2	punct	_	O
+
+1	#ThisIsUs	#thisisus	ADD	pos2=NN	5	punct	_	U-NORP
+2	#WeAreDirectioners	#wearedirectioners	NNS	pos2=VBZ	0	root	_	O
+3	#directioner	#directioner	UH	pos2=RBR	5	discourse	_	O
+4	#onedirection	#onedirection	UH	pos2=NN	5	discourse	_	O
+5	@NiallOfficial	@niallofficial	UH	pos2=.	2	discourse	_	O
+

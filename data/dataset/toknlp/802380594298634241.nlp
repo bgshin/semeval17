@@ -1,0 +1,21 @@
+1	@mtracey	@mtracey	UH	pos2=XX	6	discourse	_	O
+2	@PrisonPlanet	@prisonplanet	ADD	pos2=NN	4	det	_	O
+3	@Medium	@medium	NNP	pos2=IN	4	compound	_	O
+4	Liberals	liberal	NNPS	pos2=NNS	6	nsubj	_	O
+5	probly	probly	RB	_	6	advmod	_	O
+6	Favored	favor	VBD	pos2=VBN	0	root	_	O
+7	this	this	DT	_	8	det	_	O
+8	Job	job	NN	pos2=NNP	6	dobj	_	O
+9	Killin	killin	NNP	_	11	compound	_	B-ORG
+10	Bullshit	bullshit	NNP	pos2=NN	11	compound	_	I-ORG
+11	Cluster	cluster	NNP	pos2=NN	12	compound	_	L-ORG
+12	fuck	fuck	NN	pos2=VB	6	advcl	_	O
+13	!	!	.	_	6	punct	_	O
+
+1	TPP	tpp	NNP	pos2=NN	5	nsubj	_	U-ORG
+2	Would	would	MD	_	0	root	_	O
+3	Slaughter	slaughter	NNP	pos2=VB	6	compound	_	O
+4	Middle	middle	NNP	_	5	compound	_	O
+5	Class	class	NNP	_	6	compound	_	O
+6	Income	income	NNP	pos2=NN	2	nsubj	_	O
+

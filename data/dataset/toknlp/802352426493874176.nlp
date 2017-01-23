@@ -1,0 +1,26 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@paulkrugman	@paulkrugman	UH	pos2=IN	5	discourse	_	O
+2	how	how	WRB	_	8	advmod	_	O
+3	are	be	VBP	_	5	aux	_	O
+4	houses	house	NNS	_	5	nsubj	_	O
+5	going	go	VBG	_	0	root	_	O
+6	to	to	TO	_	8	aux	_	O
+7	get	get	VB	_	8	auxpass	_	O
+8	built	build	VBN	_	5	xcomp	_	O
+9	in	in	IN	_	8	prep	_	O
+10	an	an	DT	_	13	det	_	O
+11	only	only	JJ	pos2=RB	13	nmod	_	O
+12	service	service	NN	_	13	compound	_	O
+13	economy	economy	NN	_	9	pobj	_	O
+14	?	?	.	_	5	punct	_	O
+
+1	Prefab	prefab	JJ	pos2=NNP	4	nmod	_	O
+2	3	0	CD	_	4	nmod	_	U-CARDINAL
+3	D	d	NN	pos2=NNP	4	compound	_	O
+4	printing	printing	NN	pos2=VBG	0	root	_	O
+5	or	or	CC	_	4	cc	_	O
+6	discarded	discard	VBN	pos2=VBD	8	nmod	_	O
+7	shipping	shipping	NN	pos2=VBG	8	compound	_	O
+8	containers	container	NNS	_	4	conj	_	O
+

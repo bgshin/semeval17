@@ -1,0 +1,21 @@
+1	look	look	VB	pos2=NN	0	root	_	O
+2	at	at	IN	_	1	prep	_	O
+3	that	that	DT	_	2	pobj	_	O
+4	,	,	,	_	1	punct	_	O
+5	one	#crd#	CD	_	6	nmod	_	B-DATE
+6	year	year	NN	_	1	npadvmod	_	L-DATE
+7	of	of	IN	_	6	prep	_	O
+8	vegetarianism	vegetarianism	NN	_	7	pobj	_	O
+9	and	and	CC	_	6	cc	_	O
+10	i	I	PRP	_	13	nsubj	_	O
+11	have	have	VBP	_	13	aux	_	O
+12	nt	nt	RB	_	13	advmod	_	O
+13	dropped	drop	VBN	pos2=VBD	8	parataxis	_	O
+14	deed	deed	NN	pos2=RB	13	dobj	_	O
+15	from	from	IN	_	13	prep	_	O
+16	a	a	DT	_	17	det	_	O
+17	lack	lack	NN	_	15	pobj	_	O
+18	of	of	IN	_	17	prep	_	O
+19	protein	protein	NN	_	18	pobj	_	O
+20	!!	!!	.	_	13	punct	_	O
+

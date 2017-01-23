@@ -1,0 +1,14 @@
+1	But	but	CC	_	4	cc	_	O
+2	the	the	DT	_	3	det	_	O
+3	AP	ap	NN	pos2=NNP	4	nsubj	_	U-ORG
+4	notes	note	VBZ	pos2=NNS	0	root	_	O
+5	'	'	POS	pos2=``	4	punct	_	O
+6	Kim	kim	NNP	_	9	compound	_	B-PERSON
+7	Fat	fat	NNP	_	9	compound	_	I-PERSON
+8	Fat	fat	NNP	pos2=NN	9	compound	_	I-PERSON
+9	Fat	fat	NNP	pos2=NN	12	nsubj	_	I-PERSON
+10	'	'	''	pos2=POS	13	punct	_	L-PERSON
+11	still	still	RB	pos2=JJ	12	advmod	_	O
+12	works	work	VBZ	_	4	ccomp	_	O
+13	https://t.co/CLWS7VIXli	#hlink#	ADD	_	12	appos	_	U-ORG
+

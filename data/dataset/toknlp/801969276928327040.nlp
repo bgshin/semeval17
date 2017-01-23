@@ -1,0 +1,17 @@
+1	@DodgersNation	@dodgersnation	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Verlander	verlander	NNP	_	0	root	_	L-PERSON
+3	or	or	CC	_	2	cc	_	O
+4	Sales	sale	NNS	pos2=NNPS	2	conj	_	O
+5	...	..	.	pos2=,	2	punct	_	O
+
+1	no	no	DT	_	2	det	_	O
+2	one	#crd#	NN	_	0	root	_	O
+3	who	who	WP	_	4	nsubj	_	O
+4	is	be	VBZ	_	2	relcl	_	O
+5	on	on	IN	_	4	prep	_	O
+6	current	current	JJ	_	7	nmod	_	O
+7	roster	roster	NN	_	5	pobj	_	O
+8	,	,	,	_	9	punct	_	O
+9	unfortunately	unfortunately	RB	_	4	advmod	_	O
+10	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,25 @@
+1	@megynkelly	@megynkelly	UH	pos2=RB	3	discourse	_	O
+2	that	that	DT	_	3	nsubj	_	O
+3	's	's	VBZ	_	14	ccomp	_	O
+4	not	not	RB	_	3	neg	_	O
+5	true	true	JJ	_	3	acomp	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	have	have	VBP	_	3	ccomp	_	O
+8	60million	0million	CD	_	9	nmod	_	U-CARDINAL
+9	Trumpsters	trumpsters	NNPS	pos2=NNS	7	dobj	_	U-PERSON
+10	who	who	WP	_	11	nsubj	_	O
+11	hate	hate	VBP	_	9	relcl	_	O
+12	you	you	PRP	_	11	dobj	_	O
+13	,	,	,	_	14	punct	_	O
+14	boycott	boycott	VB	_	0	root	_	O
+15	your	your	PRP$	_	16	poss	_	O
+16	show	show	NN	_	14	dobj	_	O
+17	and	and	CC	_	14	cc	_	O
+18	think	think	VBP	pos2=VB	14	conj	_	O
+19	you	you	PRP	_	20	nsubj	_	O
+20	are	be	VBP	_	18	ccomp	_	O
+21	a	a	DT	_	24	det	_	O
+22	smug	smug	JJ	_	24	nmod	_	O
+23	arrogant	arrogant	JJ	_	24	nmod	_	O
+24	bitch	bitch	NN	_	20	attr	_	O
+

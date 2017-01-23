@@ -1,0 +1,30 @@
+1	@mitchellvii	@mitchellvii	UH	pos2=XX	6	discourse	_	O
+2	first	#ord#	RB	pos2=JJ	6	advmod	_	U-ORDINAL
+3	it	it	PRP	_	6	nsubjpass	_	O
+4	was	be	VBD	_	6	auxpass	_	O
+5	@georgesoros	@georgesoros	RB	pos2=NNS	6	advmod	_	O
+6	funded	fund	VBN	pos2=TO	19	advcl	_	O
+7	protest	protest	NN	pos2=RB	6	dobj	_	O
+8	now	now	RB	_	6	advmod	_	O
+9	that	that	DT	pos2=WDT	11	nsubj	_	O
+10	's	's	VBZ	_	11	aux	_	O
+11	dying	die	VBG	_	7	acl	_	O
+12	so	so	RB	pos2=CC	13	advmod	_	O
+13	bring	bring	VB	_	6	advcl	_	O
+14	on	on	RP	pos2=IN	13	prt	_	O
+15	@DrJillStein	@drjillstein	DT	pos2=NN	16	det	_	O
+16	loser	loser	NN	_	13	dobj	_	O
+17	,	,	,	_	19	punct	_	O
+18	I	I	PRP	_	19	nsubj	_	O
+19	'm	be	VBP	_	0	root	_	O
+20	sick	sick	JJ	_	19	acomp	_	O
+21	of	of	IN	_	20	prep	_	O
+22	it	it	PRP	_	21	pobj	_	O
+23	.	.	.	_	19	punct	_	O
+
+1	Trump	trump	NN	pos2=NNP	2	nsubj	_	U-ORG
+2	won	win	VBD	pos2=MD	0	root	_	O
+3	move	move	VB	pos2=NN	2	xcomp	_	O
+4	on	on	RB	pos2=IN	3	advmod	_	O
+5	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,19 @@
+1	By	by	IN	_	9	prep	_	O
+2	the	the	DT	_	3	det	_	O
+3	time	time	NN	_	1	pobj	_	O
+4	Criss	criss	NNP	_	5	compound	_	B-PERSON
+5	Angel	angel	NNP	_	9	nsubj	_	L-PERSON
+6	and	and	CC	_	5	cc	_	O
+7	David	david	NNP	_	8	compound	_	B-PERSON
+8	Blaine	blaine	NNP	_	5	conj	_	L-PERSON
+9	had	have	VBD	_	0	root	_	O
+10	children	child	NNS	_	9	dobj	_	O
+11	.	.	.	_	9	punct	_	O
+
+1	Was	be	VBD	pos2=NNP	2	csubj	_	O
+2	was	be	VBD	pos2=VBN	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	their	their	PRP$	_	5	poss	_	O
+5	spermatozoa	spermatozoon	NN	pos2=NNS	3	pobj	_	O
+6	?	?	.	_	2	punct	_	O
+

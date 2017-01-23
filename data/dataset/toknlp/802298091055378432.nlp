@@ -1,0 +1,27 @@
+1	You	you	PRP	_	4	nsubj	_	O
+2	've	have	VBP	_	4	aux	_	O
+3	probably	probably	RB	_	4	advmod	_	O
+4	heard	hear	VBN	_	0	root	_	O
+5	of	of	IN	_	4	prep	_	O
+6	the	the	DT	_	8	det	_	B-PRODUCT
+7	Galaxy	galaxy	NNP	_	8	compound	_	I-PRODUCT
+8	Note	note	NNP	pos2=NN	5	pobj	_	I-PRODUCT
+9	7	0	CD	_	10	nmod	_	L-PRODUCT
+10	phones	phone	NNS	_	8	appos	_	O
+11	that	that	WDT	_	14	nsubj	_	O
+12	have	have	VBP	_	14	aux	_	O
+13	been	be	VBN	_	14	aux	_	O
+14	catching	catch	VBG	_	10	relcl	_	O
+15	fire	fire	NN	_	14	dobj	_	O
+16	&	&	CC	_	4	cc	_	O
+17	it	it	PRP	_	19	nsubj	_	O
+18	all	all	DT	_	17	appos	_	O
+19	has	have	VBZ	_	4	conj	_	O
+20	to	to	TO	_	21	aux	_	O
+21	do	do	VB	_	19	xcomp	_	O
+22	with	with	IN	_	21	prep	_	O
+23	the	the	DT	_	24	det	_	O
+24	battery	battery	NN	_	22	pobj	_	O
+25	:	:	:	_	19	punct	_	O
+26	https://t.co/czytwApo16	#hlink#	ADD	pos2=NN	19	appos	_	O
+

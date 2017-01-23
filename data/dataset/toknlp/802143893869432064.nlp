@@ -1,0 +1,26 @@
+1	In	in	IN	_	12	prep	_	O
+2	this	this	DT	_	3	det	_	O
+3	article	article	NN	_	1	pobj	_	O
+4	,	,	,	_	12	punct	_	O
+5	our	our	PRP$	_	7	poss	_	O
+6	Content	content	NN	pos2=NNP	7	compound	_	O
+7	Strategist	strategist	NN	_	12	nsubj	_	O
+8	,	,	,	_	7	punct	_	O
+9	Michele	michele	NNP	_	10	compound	_	B-PERSON
+10	Baker	baker	NNP	_	7	appos	_	L-PERSON
+11	,	,	,	_	12	punct	_	O
+12	takes	take	VBZ	_	0	root	_	O
+13	an	an	DT	_	15	det	_	O
+14	intriguing	intriguing	JJ	_	15	nmod	_	O
+15	look	look	NN	_	12	dobj	_	O
+16	at	at	IN	_	15	prep	_	O
+17	Google	google	NNP	_	19	compound	_	B-ORG
+18	Earth	earth	NNP	_	19	compound	_	I-ORG
+19	VR	vr	NNP	pos2=NN	16	pobj	_	L-ORG
+20	,	,	,	_	12	punct	_	O
+21	and	and	CC	_	12	cc	_	O
+22	where	where	WRB	_	12	conj	_	O
+23	...	..	.	pos2=,	12	punct	_	O
+
+1	https://t.co/W5MWmvVOWT	#hlink#	ADD	_	0	root	_	U-ORG
+

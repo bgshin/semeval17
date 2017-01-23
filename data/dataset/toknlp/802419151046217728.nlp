@@ -1,0 +1,16 @@
+1	Trump	trump	NN	pos2=NNP	15	dep	_	U-PERSON
+2	and	and	CC	_	1	cc	_	O
+3	Clinton	clinton	NNP	_	5	compound	_	O
+4	Trade	trade	NNP	_	5	compound	_	O
+5	Insults	insult	NNPS	pos2=NNS	1	conj	_	O
+6	At	at	IN	pos2=NNP	5	prep	_	O
+7	Alfred	alfred	NNP	_	9	compound	_	B-ORG
+8	E.	e.	NNP	_	9	compound	_	I-ORG
+9	Smith	smith	NNP	_	11	compound	_	I-ORG
+10	Memorial	memorial	NNP	_	11	compound	_	I-ORG
+11	Foundation	foundation	NNP	_	12	compound	_	I-ORG
+12	Dinner	dinner	NN	pos2=NNP	6	pobj	_	L-ORG
+13	|	|	,	pos2=GW	15	punct	_	O
+14	TIME	time	NN	_	15	dep	_	O
+15	https://t.co/Xzt90p3W4w	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

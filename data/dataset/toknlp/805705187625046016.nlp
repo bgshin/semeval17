@@ -1,0 +1,27 @@
+1	OmTime	omtime	NNP	pos2=DT	2	compound	_	U-ORG
+2	magazine	magazine	NN	_	0	dative	_	O
+3	named	name	VBN	pos2=VBD	2	acl	_	O
+4	Mahatma	mahatma	NNP	_	6	compound	_	B-PERSON
+5	Gandhi	gandhi	NNP	_	6	compound	_	L-PERSON
+6	Person	person	NNP	pos2=NN	3	oprd	_	O
+7	of	of	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	B-DATE
+9	year	year	NN	_	7	pobj	_	L-DATE
+10	in	in	IN	_	2	prep	_	O
+11	1930	0	CD	_	10	pobj	_	U-DATE
+12	,	,	,	_	14	punct	_	O
+13	Pope	pope	NNP	_	14	compound	_	O
+14	Francis	francis	NNP	_	10	pobj	_	O
+15	in	in	IN	_	14	prep	_	O
+16	2013	0	CD	_	15	pobj	_	U-DATE
+17	,	,	,	_	22	punct	_	O
+18	.A	.a	NNP	pos2=NFP	19	compound	_	B-PERSON
+19	Person	person	NNP	pos2=NN	16	appos	_	L-PERSON
+20	who	who	WP	_	22	nsubj	_	O
+21	has	have	VBZ	_	22	aux	_	O
+22	done	do	VBN	_	19	relcl	_	O
+23	good	good	JJ	pos2=GW	26	nmod	_	O
+24	o	o	GW	pos2=.	26	nmod	_	O
+25	…	…	GW	pos2=NFP	26	nmod	_	O
+26	https://t.co/eU4x0CinWF	#hlink#	ADD	pos2=NN	22	dobj	_	O
+

@@ -1,0 +1,16 @@
+1	📊	📊	NNP	pos2=DT	3	compound	_	B-ORG
+2	Champions	champion	NNPS	pos2=NNP	3	compound	_	I-ORG
+3	League	league	NNP	_	4	compound	_	I-ORG
+4	Group	group	NNP	pos2=NN	5	compound	_	L-ORG
+5	Stage	stage	NN	pos2=NNP	8	nsubj	_	O
+6	:	:	:	_	8	punct	_	O
+7	Group	group	NNP	pos2=NN	8	compound	_	B-ORG
+8	C	c	NNP	pos2=NN	0	root	_	L-ORG
+9	so	so	RB	_	10	advmod	_	O
+10	far	far	RB	_	8	advmod	_	O
+11	.	.	.	_	8	punct	_	O
+
+1	#UCL	#ucl	GW	pos2=NN	3	nmod	_	O
+2	#FCBlive	#fcblive	GW	pos2=ADD	3	nmod	_	O
+3	https://t.co/ne175SGrlK	#hlink#	ADD	pos2=NN	0	root	_	O
+

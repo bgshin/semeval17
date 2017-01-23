@@ -1,0 +1,27 @@
+1	Do	do	VB	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	try	try	VB	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	hold	hold	VB	_	3	xcomp	_	O
+6	a	a	DT	_	7	det	_	O
+7	conversation	conversation	NN	_	5	dobj	_	O
+8	with	with	IN	_	7	prep	_	O
+9	Paul	paul	NNP	_	8	pobj	_	U-PERSON
+10	while	while	IN	_	12	mark	_	O
+11	he	he	PRP	_	12	nsubj	_	O
+12	's	's	VBZ	pos2=POS	5	advcl	_	O
+13	half	half	RB	pos2=NN	14	advmod	_	U-CARDINAL
+14	asleep	asleep	JJ	_	12	acomp	_	O
+15	because	because	IN	_	19	mark	_	O
+16	he	he	PRP	_	19	nsubj	_	O
+17	will	will	MD	_	19	aux	_	O
+18	just	just	RB	_	19	advmod	_	O
+19	talk	talk	VB	_	12	advcl	_	O
+20	to	to	IN	_	19	prep	_	O
+21	you	you	PRP	_	20	pobj	_	O
+22	about	about	IN	_	19	prep	_	O
+23	Tony	tony	NNP	_	24	compound	_	B-PERSON
+24	Romo	romo	NNP	_	22	pobj	_	L-PERSON
+25	dying	die	VBG	_	24	acl	_	O
+26	.	.	.	_	3	punct	_	O
+

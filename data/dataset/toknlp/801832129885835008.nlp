@@ -1,0 +1,17 @@
+1	@KateUpton	@kateupton	UH	pos2=NN	4	discourse	_	O
+2	maybe	maybe	RB	_	4	advmod	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	need	need	VBP	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	keep	keep	VB	_	4	xcomp	_	O
+7	your	your	PRP$	_	8	poss	_	O
+8	opion	opion	NN	_	6	dobj	_	O
+9	to	to	IN	_	6	prep	_	O
+10	yourself	yourself	PRP	_	9	pobj	_	O
+11	about	about	IN	_	6	prep	_	O
+12	the	the	DT	_	15	det	_	O
+13	cy	cy	JJ	pos2=NN	15	nmod	_	O
+14	young	young	JJ	_	15	nmod	_	O
+15	award	award	NN	_	11	pobj	_	O
+16	.	.	.	_	4	punct	_	O
+

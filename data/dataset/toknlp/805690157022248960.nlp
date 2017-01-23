@@ -1,0 +1,26 @@
+1	So	so	RB	_	20	advmod	_	O
+2	if	if	IN	_	4	mark	_	O
+3	Austria	austria	NNP	_	4	nsubj	_	U-GPE
+4	had	have	VBD	_	20	advcl	_	O
+5	an	an	DT	_	7	det	_	O
+6	electoral	electoral	JJ	_	7	nmod	_	O
+7	college	college	NN	_	4	dobj	_	O
+8	that	that	WDT	pos2=DT	9	nsubj	_	O
+9	favoured	favour	VBD	pos2=JJ	7	relcl	_	O
+10	rural	rural	JJ	_	11	nmod	_	O
+11	voters	voter	NNS	_	9	dobj	_	O
+12	as	as	IN	_	15	mark	_	O
+13	the	the	DT	_	14	det	_	O
+14	US	us	NNP	_	15	nsubj	_	U-GPE
+15	does	do	VBZ	_	9	advcl	_	O
+16	,	,	,	_	20	punct	_	O
+17	they	they	PRP	_	20	nsubj	_	O
+18	might	might	MD	_	20	aux	_	O
+19	have	have	VB	_	20	aux	_	O
+20	elected	elect	VBN	_	0	root	_	O
+21	a	a	DT	_	23	det	_	O
+22	far	far	JJ	pos2=RB	23	nmod	_	O
+23	rig	rig	NN	pos2=GW	20	dobj	_	O
+24	…	…	NFP	pos2=,	20	discourse	_	O
+25	https://t.co/jSy2w62cvj	#hlink#	ADD	_	20	dep	_	U-GPE
+

@@ -1,0 +1,28 @@
+1	@AhhTommy	@ahhtommy	NNP	pos2=NN	3	compound	_	U-ORG
+2	@Joelsherman1	@joelsherman0	NN	pos2=NNP	3	compound	_	O
+3	sox	sox	NN	pos2=TO	4	nsubj	_	O
+4	have	have	VBP	pos2=VB	0	root	_	O
+5	a	a	DT	_	9	det	_	O
+6	Cy	cy	NNP	pos2=NN	7	compound	_	O
+7	Young	young	NNP	pos2=JJ	8	compound	_	O
+8	award	award	NN	_	9	compound	_	O
+9	winner	winner	NN	_	4	dobj	_	O
+10	&	&	CC	_	9	cc	_	O
+11	a	a	DT	_	15	det	_	O
+12	few	few	JJ	_	15	nmod	_	O
+13	interesting	interesting	JJ	_	15	nmod	_	O
+14	young	young	JJ	_	15	nmod	_	O
+15	arms	arm	NNS	_	9	conj	_	O
+16	.	.	.	_	4	punct	_	O
+
+1	Also	also	RB	_	3	advmod	_	O
+2	can	can	MD	_	3	aux	_	O
+3	trade	trade	VB	_	0	root	_	O
+4	guys	guy	NNS	_	3	dobj	_	O
+5	like	like	IN	pos2=VB	4	prep	_	O
+6	Devers	devers	NNP	pos2=NNPS	5	pobj	_	U-PERSON
+7	or	or	CC	_	6	cc	_	O
+8	Moncada	moncada	NNP	_	6	conj	_	U-PERSON
+9	for	for	IN	_	3	prep	_	O
+10	SP.	sp.	NNP	pos2=NN	9	pobj	_	O
+

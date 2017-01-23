@@ -1,0 +1,21 @@
+1	#ISIS	#isis	NN	pos2=NNP	2	nsubj	_	U-ORG
+2	says	say	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	third	#ord#	JJ	_	5	nmod	_	U-ORDINAL
+5	bridge	bridge	NN	_	10	nsubjpass	_	O
+6	on	on	IN	_	5	prep	_	O
+7	Tigris	tigris	NNP	_	6	pobj	_	U-GPE
+8	has	have	VBZ	_	10	aux	_	O
+9	been	be	VBN	_	10	auxpass	_	O
+10	destroyed	destroy	VBN	_	2	ccomp	_	O
+11	due	due	IN	_	10	prep	_	O
+12	to	to	IN	_	11	pcomp	_	O
+13	air	air	NN	_	15	compound	_	O
+14	-	-	HYPH	_	15	punct	_	O
+15	strikes	strike	NNS	_	11	pobj	_	O
+16	in	in	IN	pos2=RB	15	prep	_	O
+17	#Mosul	#mosul	NNP	pos2=NN	16	pobj	_	U-GPE
+18	...	..	.	pos2=,	2	punct	_	O
+
+1	#MosulOffensive	#mosuloffensive	ADD	pos2=JJ	0	root	_	O
+

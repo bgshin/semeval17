@@ -1,0 +1,22 @@
+1	@BostonDude30	@bostondude0	NN	pos2=ADD	3	compound	_	O
+2	@SharylAttkisson	@sharylattkisson	ADD	pos2=NN	0	root	_	O
+3	@DrJillStein	@drjillstein	TO	pos2=NN	4	aux	_	O
+4	recount	recount	VB	pos2=VBP	2	xcomp	_	O
+5	ALL	all	DT	_	6	det	_	O
+6	votes	vote	NNS	_	4	dobj	_	O
+7	then	then	RB	_	4	advmod	_	O
+8	and	and	CC	_	4	cc	_	O
+9	see	see	VB	pos2=VBP	4	conj	_	O
+10	with	with	IN	_	9	prep	_	O
+11	illegals	illegal	NNS	_	10	pobj	_	O
+12	&	&	CC	_	11	cc	_	O
+13	dead	dead	JJ	_	14	nmod	_	O
+14	folks	folk	NNS	_	11	conj	_	O
+15	He	he	PRP	_	17	nsubj	_	O
+16	'll	will	MD	_	17	aux	_	O
+17	win	win	VB	_	14	relcl	_	O
+18	popular	popular	JJ	_	19	nmod	_	O
+19	vote	vote	NN	pos2=VB	17	dobj	_	O
+20	too	too	RB	_	17	advmod	_	O
+21	!	!	.	_	1	punct	_	O
+

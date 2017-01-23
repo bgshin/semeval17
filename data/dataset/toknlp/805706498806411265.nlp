@@ -1,0 +1,23 @@
+1	VP	vp	NN	pos2=NNP	2	compound	_	O
+2	Robredo	robredo	NNP	pos2=NN	7	vocative	_	U-PERSON
+3	:	:	:	_	7	punct	_	O
+4	I	I	PRP	_	7	nsubj	_	O
+5	will	will	MD	_	7	aux	_	O
+6	loudly	loudly	RB	_	7	advmod	_	O
+7	oppose	oppose	VB	_	0	root	_	O
+8	policies	policy	NNS	_	7	dobj	_	O
+9	on	on	IN	_	8	prep	_	O
+10	death	death	NN	_	11	compound	_	O
+11	penalty	penalty	NN	_	9	pobj	_	O
+12	,	,	,	_	7	punct	_	O
+13	on	on	IN	_	7	prep	_	O
+14	extrajudicial	extrajudicial	JJ	_	15	nmod	_	O
+15	killing	killing	NN	_	13	pobj	_	O
+16	,	,	,	_	15	punct	_	O
+17	maltreatment	maltreatment	NN	_	15	appos	_	O
+18	on	on	IN	_	17	prep	_	O
+19	women	woman	NNS	_	18	pobj	_	O
+20	.	.	.	_	7	punct	_	O
+
+1	https://t.co/BV9YP1hQ7m	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,20 @@
+1	Napa	napa	NNP	_	2	compound	_	B-LOC
+2	Valley	valley	NNP	_	5	compound	_	L-LOC
+3	Tesla	tesla	NNP	_	5	compound	_	B-PERSON
+4	Consumer	consumer	NNP	_	5	compound	_	L-PERSON
+5	Reports	report	NNPS	pos2=NNP	6	nsubj	_	O
+6	trashes	trash	VBZ	_	0	root	_	O
+7	Tesla	tesla	NNP	_	12	poss	_	U-ORG
+8	's	's	POS	pos2=AFX	7	case	_	O
+9	'	'	``	_	12	punct	_	O
+10	flawed	flawed	JJ	_	12	nmod	_	O
+11	'	'	''	pos2=POS	12	punct	_	O
+12	Model	model	NN	pos2=NNP	6	dobj	_	O
+13	X	x	NNP	pos2=NN	19	dep	_	B-ORG
+14	-	-	HYPH	pos2=:	19	punct	_	I-ORG
+15	New	new	NNP	_	16	compound	_	I-ORG
+16	York	york	NNP	_	19	dep	_	I-ORG
+17	Post	post	GW	pos2=NNP	19	nmod	_	L-ORG
+18	https://t.co/BMHz9kMA00…	#hlink#	ADD	_	19	nmod	_	O
+19	https://t.co/VrjcBbnC0B	#hlink#	ADD	_	6	dep	_	U-ORG
+

@@ -1,0 +1,23 @@
+1	@Alyssa_Milano	@alyssa_milano	UH	pos2=``	4	discourse	_	O
+2	We	we	PRP	_	4	nsubj	_	O
+3	're	be	VBP	_	4	aux	_	O
+4	hearing	hear	VBG	_	0	root	_	O
+5	lots	lot	NNS	_	4	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	fake	fake	JJ	_	8	nmod	_	O
+8	news	news	NN	_	6	pobj	_	O
+9	about	about	IN	_	8	prep	_	O
+10	Trump	trump	NNP	_	13	poss	_	U-ORG
+11	's	's	POS	_	10	case	_	O
+12	transition	transition	NN	_	13	compound	_	O
+13	activities	activity	NNS	_	9	pobj	_	O
+14	.	.	.	_	4	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	doubt	doubt	VBP	_	0	root	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	2	ccomp	_	O
+5	from	from	IN	_	4	prep	_	O
+6	Russia	russia	NNP	_	5	pobj	_	U-GPE
+7	.	.	.	_	2	punct	_	O
+

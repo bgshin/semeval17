@@ -1,0 +1,21 @@
+1	Porcello	porcello	NNP	_	8	dep	_	U-PERSON
+2	v.	v.	IN	pos2=NNP	1	prep	_	O
+3	Verlander	verlander	NNP	_	2	pobj	_	U-PERSON
+4	|	|	SYM	pos2=,	8	punct	_	O
+5	Joe	joe	NNP	_	6	compound	_	B-PERSON
+6	PosnanskiWhen	posnanskiwhen	NNP	_	8	vocative	_	L-PERSON
+7	you	you	PRP	_	8	nsubj	_	O
+8	get	get	VBP	pos2=VB	13	advcl	_	O
+9	the	the	DT	_	10	det	_	O
+10	chance	chance	NN	_	8	dobj	_	O
+11	@RealBobManning	@realbobmanning	VBG	pos2=MD	10	acl	_	O
+12	I	I	PRP	_	13	nsubj	_	O
+13	think	think	VBP	_	0	root	_	O
+14	you	you	PRP	_	16	nsubj	_	O
+15	should	should	MD	_	16	aux	_	O
+16	read	read	VB	_	13	ccomp	_	O
+17	this	this	DT	_	16	dobj	_	O
+18	.	.	.	_	13	punct	_	O
+
+1	https://t.co/ZASqskU1kU	#hlink#	ADD	_	0	root	_	U-ORG
+

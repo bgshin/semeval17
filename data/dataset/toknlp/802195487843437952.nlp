@@ -1,0 +1,21 @@
+1	Just	just	RB	_	2	advmod	_	O
+2	watched	watch	VBD	pos2=VBN	0	root	_	O
+3	#FantasticBeasts	#fantasticbeasts	NNS	pos2=NNP	2	dobj	_	O
+4	and	and	CC	_	2	cc	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	traveled	travel	VBD	_	2	conj	_	O
+7	back	back	RB	_	6	advmod	_	O
+8	to	to	IN	_	7	prep	_	O
+9	my	my	PRP$	_	11	poss	_	O
+10	teenage	teenage	JJ	_	11	nmod	_	O
+11	years	year	NNS	_	8	pobj	_	O
+12	!	!	.	_	6	punct	_	O
+
+1	@jk_rowling	@jk_rowling	VBG	pos2=UH	0	root	_	O
+2	Thank	thank	VBP	_	1	xcomp	_	O
+3	you	you	PRP	_	2	dobj	_	O
+4	!	!	.	_	1	punct	_	O
+
+1	#Beijing	#beijing	VBG	pos2=-LRB-	2	nmod	_	O
+2	https://t.co/VyJ1apUITN	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

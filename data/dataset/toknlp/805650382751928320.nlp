@@ -1,0 +1,26 @@
+1	@starkswing	@starkswing	UH	pos2=VBG	4	discourse	_	O
+2	@MEHerlihy	@meherlihy	UH	pos2=WRB	4	discourse	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	am	be	VBP	_	0	root	_	O
+5	willing	willing	JJ	_	4	acomp	_	O
+6	to	to	TO	_	7	aux	_	O
+7	hear	hear	VB	_	5	xcomp	_	O
+8	pro	pro	JJ	pos2=IN	11	nmod	_	O
+9	death	death	NN	_	10	compound	_	O
+10	penalty	penalty	NN	_	11	compound	_	O
+11	opinions	opinion	NNS	_	7	dobj	_	O
+12	,	,	,	_	4	punct	_	O
+13	but	but	CC	_	4	cc	_	O
+14	at	at	IN	_	19	prep	_	O
+15	this	this	DT	_	16	det	_	O
+16	point	point	NN	_	14	pobj	_	O
+17	the	the	DT	_	18	det	_	O
+18	DP	dp	NN	pos2=NNP	19	nsubj	_	O
+19	is	be	VBZ	_	4	conj	_	O
+20	inneffective	inneffective	JJ	_	19	acomp	_	O
+21	due	due	IN	_	19	prep	_	O
+22	to	to	IN	_	21	pcomp	_	O
+23	decades	decade	NNS	_	21	pobj	_	U-DATE
+24	of	of	IN	_	23	prep	_	O
+25	appeals	appeal	NNS	_	24	pobj	_	O
+

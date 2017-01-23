@@ -1,0 +1,29 @@
+1	You	you	PRP	_	2	nsubj	_	O
+2	're	be	VBP	_	0	root	_	O
+3	such	such	PDT	pos2=JJ	6	predet	_	O
+4	a	a	DT	_	6	det	_	O
+5	weird	weird	JJ	_	6	nmod	_	O
+6	guy	guy	NN	_	2	attr	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	Euthanasia	euthanasia	NN	_	3	nsubj	_	O
+2	=	=	SYM	pos2=,	3	punct	_	O
+3	suicide	suicide	NN	_	0	root	_	O
+4	for	for	IN	pos2=RB	3	prep	_	O
+5	all	all	DT	pos2=RB	4	pobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	Marriage	marriage	NN	pos2=JJ	2	compound	_	O
+2	equality	equality	NN	_	5	nsubj	_	O
+3	=	=	SYM	pos2=:	5	punct	_	O
+4	everyone	everyone	NN	_	5	nsubj	_	O
+5	marries	marry	VBZ	_	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	goat	goat	NN	_	5	dobj	_	O
+8	.	.	.	_	5	punct	_	O
+
+1	Safe	safe	JJ	pos2=NNP	2	nmod	_	O
+2	Schools	school	NNS	pos2=NNPS	0	root	_	O
+3	=…	=…	NFP	pos2=POS	2	discourse	_	O
+4	https://t.co/8vNoipElOO	#hlink#	ADD	pos2=NN	2	appos	_	O
+

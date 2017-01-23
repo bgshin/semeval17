@@ -1,0 +1,32 @@
+1	Wendy	wendy	NNP	_	2	compound	_	B-PERSON
+2	Dang	dang	NNP	_	3	compound	_	L-PERSON
+3	friend	friend	NN	_	6	nsubj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	Ivanka	ivanka	NNP	_	4	pobj	_	U-PERSON
+6	is	be	VBZ	_	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	GF	gf	NN	pos2=NNP	6	attr	_	O
+9	of	of	IN	_	8	prep	_	O
+10	Putin	putin	NNP	_	9	pobj	_	U-PERSON
+11	.	.	.	_	6	punct	_	O
+
+1	RM	rm	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	is	be	VBZ	_	0	root	_	O
+3	owner	owner	NN	_	2	attr	_	O
+4	of	of	IN	_	3	prep	_	O
+5	#FixItNews	#fixitnews	NNP	pos2=NN	4	pobj	_	O
+6	&	&	CC	_	5	cc	_	O
+7	friend	friend	NN	_	5	conj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	DT	dt	NNP	pos2=NN	8	pobj	_	U-ORG
+10	.	.	.	_	2	punct	_	O
+
+1	Putin	putin	NNP	_	4	nsubj	_	U-PERSON
+2	web	web	NN	_	4	nsubj	_	O
+3	is	be	VBZ	_	4	aux	_	O
+4	running	run	VBG	_	0	root	_	O
+5	deep	deep	JJ	pos2=RB	8	nmod	_	O
+6	w	w	IN	pos2=RB	4	prep	_	O
+7	…	…	HYPH	pos2=NFP	6	pobj	_	O
+8	https://t.co/QULIROG1Vo	#hlink#	ADD	pos2=NN	6	pobj	_	O
+

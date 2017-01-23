@@ -1,0 +1,17 @@
+1	Pro-Tipp	pro-tipp	NNP	pos2=VB	2	compound	_	O
+2	😂	😂	NNP	pos2=NN	4	nmod	_	O
+3	"	"	''	pos2=``	4	punct	_	O
+4	@transl8oratwork	@transl0oratwork	NN	pos2=CD	6	dep	_	O
+5	:	:	:	_	6	punct	_	O
+6	Funny	funny	JJ	_	0	root	_	O
+7	yet	yet	RB	pos2=CC	6	cc	_	O
+8	true	true	JJ	_	6	conj	_	O
+9	!	!	.	_	6	punct	_	O
+
+1	#translation	#translation	UH	pos2=NN	5	nmod	_	O
+2	#translator	#translator	GW	pos2=UH	5	nmod	_	O
+3	#getnoticed	#getnoticed	GW	pos2=NFP	5	nmod	_	O
+4	https://t.co/aE9MPidz0s	#hlink#	ADD	pos2=GW	5	nmod	_	O
+5	https://t.co/X2QN6xC1nj"	#hlink#	ADD	_	0	root	_	O
+6	#xl8	#xl0	-RRB-	pos2=NN	5	punct	_	O
+

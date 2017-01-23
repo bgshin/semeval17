@@ -1,0 +1,14 @@
+1	Awkward	awkward	JJ	_	2	nmod	_	O
+2	moment	moment	NN	_	0	root	_	O
+3	#	#	NN	_	2	npadvmod	_	O
+4	289	0	CD	pos2=LS	3	nmod	_	U-MONEY
+5	-	-	:	pos2=HYPH	6	punct	_	O
+6	RKelly	rkelly	NNP	pos2=JJ	13	nmod	_	O
+7	playing	play	VBG	pos2=NN	6	acl	_	O
+8	in	in	IN	_	7	prep	_	O
+9	your	your	PRP$	_	10	poss	_	O
+10	#uber	#uber	NN	pos2=NNP	8	pobj	_	O
+11	and	and	CC	_	7	cc	_	O
+12	you	you	PRP	_	7	conj	_	O
+13	dance	dance	NN	pos2=VBP	2	appos	_	O
+

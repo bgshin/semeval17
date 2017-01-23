@@ -1,0 +1,16 @@
+1	#Microsoft	#microsoft	NNP	pos2=WP	2	nsubj	_	U-ORG
+2	joins	join	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	B-ORG
+4	#Linux	#linux	NNP	_	5	compound	_	I-ORG
+5	Foundation	foundation	NNP	pos2=NN	2	dobj	_	L-ORG
+6	!	!	.	_	2	punct	_	O
+
+1	Read	read	VB	pos2=VBD	0	root	_	O
+2	all	all	RB	pos2=DT	3	advmod	_	O
+3	about	about	IN	_	1	prep	_	O
+4	it	it	PRP	_	3	pobj	_	O
+5	:	:	:	_	1	punct	_	O
+6	https://t.co/EjYtVUuWy9	#hlink#	ADD	_	1	dep	_	O
+7	#OpenSource	#opensource	ADD	pos2=GW	4	appos	_	O
+8	https://t.co/Yydfuffqrf	#hlink#	ADD	pos2=NN	7	pobj	_	O
+

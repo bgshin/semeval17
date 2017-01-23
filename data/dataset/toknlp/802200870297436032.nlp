@@ -1,0 +1,23 @@
+1	For	for	IN	_	0	root	_	O
+2	the	the	DT	_	5	det	_	B-DATE
+3	next	next	JJ	_	5	nmod	_	I-DATE
+4	like	like	UH	pos2=IN	5	discourse	_	I-DATE
+5	week	week	NN	_	1	pobj	_	L-DATE
+6	..	..	.	pos2=,	1	punct	_	O
+
+1	what	what	WP	_	2	nsubj	_	O
+2	s	s	VBZ	pos2=NN	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Breakfast	breakfast	NN	pos2=NNP	3	pobj	_	O
+5	-	-	HYPH	pos2=:	2	punct	_	O
+6	Thanksgiving	thanksgiving	NNP	_	9	compound	_	O
+7	Leftovers❤️Lunch	leftovers❤️lunch	NNP	_	10	dep	_	O
+8	-	-	HYPH	pos2=:	10	punct	_	O
+9	Thanksgiving	thanksgiving	NNP	_	10	compound	_	O
+10	Leftovers	leftover	NNPS	pos2=NNS	15	nmod	_	O
+11	🤔Dinner	🤔dinner	NNP	pos2=CD	14	compound	_	O
+12	-	-	HYPH	pos2=:	13	punct	_	O
+13	Thanksgiving	thanksgiving	NNP	_	14	compound	_	O
+14	Leftovers	leftover	NNPS	pos2=NNS	10	conj	_	O
+15	🙄	🙄	.	pos2=NNP	2	punct	_	O
+

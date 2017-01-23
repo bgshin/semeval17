@@ -1,0 +1,19 @@
+1	@verynetwork	@verynetwork	UH	pos2=NN	5	discourse	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	keep	keep	VBP	_	5	aux	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	missing	miss	VBG	_	0	root	_	O
+6	out	out	RP	_	5	prt	_	O
+7	on	on	IN	_	5	prep	_	O
+8	one	#crd#	CD	pos2=PRP	7	pobj	_	U-CARDINAL
+9	these	these	DT	pos2=NN	13	det	_	O
+10	every	every	DT	_	11	det	_	O
+11	time	time	NN	_	12	npadvmod	_	O
+12	@HotUKDeals	@hotukdeals	VBZ	pos2=POS	18	dep	_	O
+13	posts	post	NNS	pos2=VBZ	12	dobj	_	O
+14	a	a	DT	_	15	det	_	O
+15	link	link	NN	_	13	npadvmod	_	O
+16	😞#win	😞#win	NNP	pos2=GW	18	nmod	_	U-NORP
+17	#Hatchimals	#hatchimals	ADD	pos2=NNS	18	nmod	_	O
+18	https://t.co/Ieb2gWSdwl	#hlink#	ADD	_	5	dep	_	O
+

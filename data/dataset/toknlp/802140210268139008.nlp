@@ -1,0 +1,18 @@
+1	Remembering	remember	VBG	_	10	csubj	_	O
+2	#cabbagepatchdolls	#cabbagepatchdolls	NNS	pos2=UH	1	dobj	_	O
+3	like	like	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	surge	surge	NN	_	3	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	Popularity	popularity	NN	pos2=NNP	6	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	#Hatchimals	#hatchimals	NNS	pos2=NNP	8	pobj	_	O
+10	takes	take	VBZ	_	0	root	_	O
+11	toymaker	toymaker	NN	_	10	dobj	_	O
+12	by	by	IN	_	10	prep	_	O
+13	surprise	surprise	NN	_	12	pobj	_	O
+14	|	|	SYM	pos2=,	16	punct	_	O
+15	CTV	ctv	NNP	_	16	compound	_	B-ORG
+16	News	news	NNP	pos2=GW	17	nmod	_	L-ORG
+17	https://t.co/WNizJlJ0nt	#hlink#	ADD	_	10	dep	_	O
+

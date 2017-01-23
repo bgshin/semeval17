@@ -1,0 +1,24 @@
+1	Yet	yet	CC	pos2=RB	8	cc	_	O
+2	those	those	DT	_	8	nsubj	_	O
+3	that	that	WDT	_	4	nsubj	_	O
+4	screamed	scream	VBD	_	2	relcl	_	O
+5	the	the	DT	_	7	det	_	B-ORG
+6	Clinton	clinton	NNP	_	7	compound	_	I-ORG
+7	Foundation	foundation	NNP	_	8	nsubj	_	L-ORG
+8	had	have	VBD	_	0	root	_	O
+9	to	to	TO	_	11	aux	_	O
+10	be	be	VB	_	11	auxpass	_	O
+11	wound	wind	VBN	pos2=NN	8	xcomp	_	O
+12	down	down	RP	pos2=RB	11	prt	_	O
+13	are	be	VBP	pos2=RB	23	dep	_	O
+14	suddenly	suddenly	RB	_	13	advmod	_	O
+15	just	just	RB	_	16	advmod	_	O
+16	fine	fine	JJ	pos2=RB	13	acomp	_	O
+17	with	with	IN	_	16	prep	_	O
+18	this	this	DT	_	17	pobj	_	O
+19	and	and	CC	_	18	cc	_	O
+20	huge	huge	JJ	_	23	nmod	_	O
+21	Int'l	int'l	NNP	pos2=JJ	23	nmod	_	B-ORG
+22	…	…	NFP	pos2=NNS	23	punct	_	L-ORG
+23	https://t.co/JzeUIfXFjZ	#hlink#	ADD	_	0	root	_	O
+

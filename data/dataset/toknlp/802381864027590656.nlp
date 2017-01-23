@@ -1,0 +1,12 @@
+1	Programming	program	VBG	pos2=NN	6	compound	_	O
+2	robots	robot	NNS	_	1	dobj	_	O
+3	with	with	IN	_	2	prep	_	O
+4	blocks	block	NNS	_	3	pobj	_	O
+5	–	-	HYPH	pos2=:	6	punct	_	O
+6	Hacker	hacker	NNP	pos2=NN	7	compound	_	B-PERSON
+7	Noon	noon	NNP	pos2=GW	8	dep	_	L-PERSON
+8	https://t.co/89Ew0KxaHi	#hlink#	ADD	pos2=NNP	0	root	_	O
+9	via	via	IN	_	1	prep	_	O
+10	@tavernalinux	@tavernalinux	NFP	pos2=ADD	9	pobj	_	O
+11	https://t.co/BJPbfH84Qh	#hlink#	ADD	pos2=NN	9	pobj	_	O
+

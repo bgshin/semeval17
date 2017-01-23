@@ -1,0 +1,20 @@
+1	Ex-Georgian	ex-georgian	JJ	pos2=NNP	2	nmod	_	O
+2	President	president	NNP	_	3	compound	_	O
+3	Saakashvili	saakashvili	NNP	_	4	nsubj	_	U-PERSON
+4	says	say	VBZ	_	0	root	_	O
+5	Ukraine	ukraine	NNP	_	6	nsubj	_	U-GPE
+6	is	be	VBZ	_	8	aux	_	O
+7	"	"	``	_	8	punct	_	O
+8	running	run	VBG	_	4	ccomp	_	O
+9	against	against	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	clock	clock	NN	_	9	pobj	_	O
+12	"	"	''	pos2=``	8	punct	_	O
+13	to	to	TO	_	14	aux	_	O
+14	prevent	prevent	VB	_	8	advcl	_	O
+15	another	another	DT	_	16	det	_	O
+16	revolution	revolution	NN	_	14	dobj	_	O
+17	.	.	.	_	4	punct	_	O
+
+1	https://t.co/lKNxsqHJAS	#hlink#	ADD	_	0	root	_	U-ORG
+

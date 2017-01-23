@@ -1,0 +1,18 @@
+1	Disturbing	disturbing	JJ	pos2=VBG	2	nmod	_	O
+2	footage	footage	NN	_	3	nsubj	_	O
+3	captures	capture	VBZ	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	moment	moment	NN	_	3	dobj	_	O
+6	a	a	DT	_	8	det	_	O
+7	Russian	russian	JJ	_	8	nmod	_	U-NORP
+8	airstrike	airstrike	NN	_	9	nsubj	_	O
+9	hit	hit	VBD	_	5	relcl	_	O
+10	a	a	DT	_	11	det	_	O
+11	children	child	NNS	_	13	poss	_	O
+12	's	's	POS	_	11	case	_	O
+13	hospital	hospital	NN	_	9	dobj	_	O
+14	in	in	IN	_	9	prep	_	O
+15	#Aleppo	#aleppo	NNP	pos2=CD	16	compound	_	B-GPE
+16	#Syria	#syria	NNP	pos2=ADD	14	pobj	_	L-GPE
+17	https://t.co/24VlKBkolB	#hlink#	ADD	_	13	appos	_	O
+

@@ -1,0 +1,23 @@
+1	#OnThisDay	#onthisday	NNP	pos2=NN	10	nsubj	_	U-ORG
+2	in	in	IN	_	1	prep	_	O
+3	1966	0	CD	_	2	pobj	_	U-DATE
+4	,	,	,	_	10	punct	_	O
+5	Taiyuan	taiyuan	NNP	_	6	compound	_	B-ORG
+6	Party	party	NNP	_	7	compound	_	L-ORG
+7	Chief	chief	NNP	pos2=NNPS	9	compound	_	O
+8	Jia	jia	NNP	_	9	compound	_	B-PERSON
+9	Jun	jun	NNP	_	10	nsubj	_	L-PERSON
+10	admitted	admit	VBD	_	0	root	_	O
+11	his	his	PRP$	_	12	poss	_	O
+12	statement	statement	NN	_	10	dobj	_	O
+13	"	"	``	pos2=''	15	punct	_	O
+14	It	it	PRP	_	15	nsubj	_	O
+15	brings	bring	VBZ	_	10	ccomp	_	O
+16	honour	honour	NN	_	15	dobj	_	O
+17	to	to	IN	_	15	dative	_	O
+18	Leftists	leftist	NNS	pos2=NNPS	17	pobj	_	U-NORP
+19	when	when	WRB	_	22	advmod	_	O
+20	Rightists	rightist	NNPS	pos2=NNS	22	dep	_	U-NORP
+21	…	…	NFP	pos2=VBP	22	punct	_	O
+22	https://t.co/gD4uOJdvTw	#hlink#	ADD	_	15	advcl	_	O
+

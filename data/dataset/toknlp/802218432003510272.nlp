@@ -1,0 +1,33 @@
+1	@KremlinTrolls	@kremlintrolls	NNS	pos2=NNP	0	root	_	O
+2	Meh	meh	UH	pos2=NNP	1	discourse	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	20	ccomp	_	O
+3	in	in	IN	_	2	prep	_	O
+4	our	our	PRP$	_	6	poss	_	O
+5	style	style	NN	pos2=JJ	6	compound	_	O
+6	guide	guide	NN	pos2=VB	3	pobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	write	write	VB	_	2	xcomp	_	O
+9	"	"	``	_	10	punct	_	O
+10	Ukraine	ukraine	NNP	_	8	dobj	_	U-GPE
+11	"	"	''	pos2=``	10	punct	_	O
+12	not	not	RB	_	15	neg	_	O
+13	"	"	``	pos2=''	15	punct	_	O
+14	the	the	DT	_	15	det	_	O
+15	Ukraine	ukraine	NNP	_	10	appos	_	U-GPE
+16	"	"	''	_	15	punct	_	O
+17	,	,	,	_	20	punct	_	O
+18	so	so	RB	pos2=CC	20	advmod	_	O
+19	it	it	PRP	_	20	nsubj	_	O
+20	made	make	VBD	pos2=VBN	0	root	_	O
+21	sense	sense	NN	_	20	dobj	_	O
+22	to	to	TO	_	23	aux	_	O
+23	correct	correct	VB	_	20	xcomp	_	O
+24	anyway	anyway	RB	pos2=UH	23	advmod	_	O
+25	.	.	.	_	20	punct	_	O
+
+1	^	^	SYM	_	2	punct	_	O
+2	djw	djw	NN	pos2=UH	0	root	_	O
+

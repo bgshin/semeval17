@@ -1,0 +1,26 @@
+1	@FashNova	@fashnova	ADD	pos2=VB	16	punct	_	O
+2	Your	your	PRP$	_	3	poss	_	O
+3	keenness	keenness	NN	_	16	nsubj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	brand	brand	VB	pos2=NN	3	acl	_	O
+6	all	all	DT	pos2=RB	8	det	_	O
+7	'	'	``	_	8	punct	_	O
+8	leftists	leftist	NNS	_	5	dobj	_	O
+9	'	'	''	_	8	punct	_	O
+10	as	as	IN	_	8	prep	_	O
+11	a	a	DT	_	15	det	_	O
+12	think	think	NN	pos2=VB	14	npadvmod	_	O
+13	-	-	HYPH	pos2=:	14	punct	_	O
+14	alike	alike	JJ	pos2=RB	15	nmod	_	O
+15	monoblock	monoblock	NN	_	10	pobj	_	O
+16	belies	belie	VBZ	_	0	root	_	O
+17	your	your	PRP$	_	18	poss	_	O
+18	claim	claim	NN	_	16	dobj	_	O
+19	to	to	TO	_	20	aux	_	O
+20	understand	understand	VB	_	18	acl	_	O
+21	plight	plight	NN	_	20	dobj	_	O
+22	of	of	IN	_	21	prep	_	O
+23	each	each	DT	_	24	det	_	O
+24	individual	individual	NN	pos2=JJ	22	pobj	_	O
+25	.	.	.	_	16	punct	_	O
+

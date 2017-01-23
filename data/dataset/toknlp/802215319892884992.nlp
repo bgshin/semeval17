@@ -1,0 +1,23 @@
+1	thanksgiving	thanksgiving	NN	_	2	nsubj	_	O
+2	is	be	VBZ	_	6	ccomp	_	O
+3	over	over	RB	pos2=GW	2	advmod	_	O
+4	,	,	,	_	6	punct	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	's	's	VBZ	_	0	root	_	O
+7	time	time	NN	_	6	attr	_	O
+8	to	to	TO	_	9	aux	_	O
+9	pick	pick	VB	_	7	relcl	_	O
+10	out	out	RP	_	9	prt	_	O
+11	a	a	DT	_	13	det	_	O
+12	christmas	christmas	NN	pos2=NNP	13	compound	_	O
+13	tree	tree	NN	_	9	dobj	_	O
+14	🎄they	🎄they	WDT	pos2=PRP	15	nsubj	_	O
+15	are	be	VBP	_	13	relcl	_	O
+16	on	on	IN	_	15	prep	_	O
+17	sale	sale	NN	_	16	pobj	_	O
+18	today	today	NN	_	15	npadvmod	_	U-DATE
+19	&	&	CC	_	18	cc	_	O
+20	tomorrow	tomorrow	NN	_	18	conj	_	U-DATE
+21	…	…	NFP	pos2=-LRB-	22	punct	_	O
+22	https://t.co/kDzQ6IK5jb	#hlink#	ADD	_	6	dep	_	O
+

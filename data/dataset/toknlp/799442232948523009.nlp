@@ -1,0 +1,18 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	had	have	VBD	_	9	ccomp	_	O
+3	steak	steak	NN	_	5	poss	_	O
+4	n	n	POS	pos2=TO	3	case	_	O
+5	shake	shake	NN	pos2=VB	2	dobj	_	O
+6	yesterday	yesterday	NN	_	2	npadvmod	_	U-DATE
+7	so	so	RB	pos2=IN	9	advmod	_	O
+8	I	I	PRP	_	9	nsubj	_	O
+9	guess	guess	VBP	_	0	root	_	O
+10	I	I	PRP	_	11	nsubj	_	O
+11	celebrated	celebrate	VBD	_	9	ccomp	_	O
+12	...	..	.	pos2=,	9	punct	_	O
+
+1	lol	lol	UH	_	4	nmod	_	O
+2	#Clueless	#clueless	GW	pos2=NNP	4	nmod	_	O
+3	#NationalFastFoodDay	#nationalfastfoodday	GW	pos2=ADD	4	nmod	_	O
+4	https://t.co/2CGLndP2g4	#hlink#	ADD	pos2=NN	0	root	_	O
+

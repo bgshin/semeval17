@@ -1,0 +1,26 @@
+1	Umtiti	umtiti	NNP	pos2=UH	6	nsubj	_	U-ORG
+2	,	,	,	_	1	punct	_	O
+3	Mathieu	mathieu	NNP	_	1	conj	_	U-PERSON
+4	and	and	CC	_	3	cc	_	O
+5	Iniesta	iniesta	NNP	_	3	conj	_	U-PERSON
+6	trained	train	VBD	pos2=VBN	0	root	_	O
+7	today	today	NN	_	6	npadvmod	_	U-DATE
+8	as	as	IN	_	10	mark	_	O
+9	they	they	PRP	_	10	nsubj	_	O
+10	try	try	VBP	_	6	advcl	_	O
+11	to	to	TO	_	12	aux	_	O
+12	get	get	VB	_	10	xcomp	_	O
+13	over	over	IN	pos2=RP	12	prep	_	O
+14	their	their	PRP$	_	15	poss	_	O
+15	injuries	injury	NNS	_	13	pobj	_	O
+16	ahead	ahead	RB	_	15	advmod	_	O
+17	of	of	IN	_	16	prep	_	O
+18	the	the	DT	_	19	det	_	O
+19	Clasico	clasico	NNP	_	17	pobj	_	U-ORG
+20	.	.	.	_	6	punct	_	O
+
+1	[	[	-LRB-	_	2	punct	_	O
+2	sport	sport	NN	_	0	root	_	O
+3	]	]	-RRB-	_	2	punct	_	O
+4	#FCBlive	#fcblive	ADD	pos2=JJ	2	punct	_	O
+

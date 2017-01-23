@@ -1,0 +1,19 @@
+1	@CNNPolitics	@cnnpolitics	NNS	pos2=NNP	2	nsubj	_	O
+2	Quit	quit	VBD	pos2=VBP	0	root	_	O
+3	saying	say	VBG	_	2	xcomp	_	O
+4	alt	alt	NN	pos2=JJ	6	npadvmod	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	right	right	JJ	pos2=NN	3	ccomp	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	clearly	clearly	RB	_	2	advmod	_	O
+4	Nazis	nazi	NNPS	_	2	attr	_	U-NORP
+5	and	and	CC	_	2	cc	_	O
+6	must	must	MD	_	9	aux	_	O
+7	be	be	VB	_	9	auxpass	_	O
+8	properly	properly	RB	_	9	advmod	_	O
+9	identified	identify	VBN	_	2	conj	_	O
+10	.	.	.	_	2	punct	_	O
+

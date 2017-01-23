@@ -1,0 +1,34 @@
+1	These	these	DT	_	2	det	_	O
+2	guys	guy	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	no	no	DT	_	5	det	_	O
+5	fools	fool	NNS	_	3	attr	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	5	0	CD	pos2=LS	2	nmod	_	U-CARDINAL
+2	trains	train	NNS	_	3	nsubj	_	O
+3	go	go	VBP	pos2=VB	0	root	_	O
+4	into	into	IN	_	3	prep	_	O
+5	a	a	DT	_	7	det	_	O
+6	multi-rail	multi-rail	JJ	pos2=NN	7	nmod	_	O
+7	tunnel	tunnel	NN	_	4	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	5	0	CD	pos2=LS	2	nsubj	_	U-CARDINAL
+2	comes	come	VBZ	_	0	root	_	O
+3	out	out	RP	pos2=RB	2	prt	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	Which	which	WDT	_	2	det	_	O
+2	1	0	CD	_	3	nsubj	_	U-CARDINAL
+3	is	be	VBZ	_	0	root	_	O
+4	armed	armed	JJ	pos2=VBN	3	acomp	_	O
+5	?	?	.	_	3	punct	_	O
+
+1	OOPS	oops	UH	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	@KremlinTrolls	@kremlintrolls	NNS	pos2=ADD	3	compound	_	O
+2	@CK0hut	@ck0hut	NN	pos2=ADD	3	compound	_	B-PERSON
+3	@Independent	@independent	NNP	pos2=ADD	0	root	_	L-PERSON
+

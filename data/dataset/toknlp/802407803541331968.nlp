@@ -1,0 +1,24 @@
+1	@DrJillStein	@drjillstein	UH	pos2=NN	13	discourse	_	O
+2	So	so	RB	_	13	advmod	_	O
+3	if	if	IN	_	5	mark	_	O
+4	u	u	PRP	pos2=NNS	5	nsubj	_	O
+5	are	be	VBP	_	13	advcl	_	O
+6	now	now	RB	_	5	advmod	_	O
+7	pro	pro	JJ	_	8	nmod	_	O
+8	HRC	hrc	NNP	pos2=NN	5	attr	_	U-ORG
+9	,	,	,	_	13	punct	_	O
+10	did	do	VBD	_	13	aux	_	O
+11	you	you	PRP	_	13	nsubj	_	O
+12	not	not	RB	_	13	neg	_	O
+13	hear	hear	VB	pos2=VBP	0	root	_	O
+14	how	how	WRB	_	16	advmod	_	O
+15	wikileaks	wikileaks	NNS	pos2=NN	16	nsubj	_	O
+16	revealed	reveal	VBD	_	13	ccomp	_	O
+17	the	the	DT	_	19	det	_	O
+18	massive	massive	JJ	_	19	nmod	_	O
+19	corruption	corruption	NN	_	16	dobj	_	O
+20	at	at	IN	_	19	prep	_	O
+21	Clinton	clinton	NNP	_	22	compound	_	B-ORG
+22	Foundation	foundation	NNP	_	23	compound	_	L-ORG
+23	#Recount2016	#recount0	NN	pos2=POS	20	pobj	_	O
+

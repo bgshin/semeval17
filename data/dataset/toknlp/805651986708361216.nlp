@@ -1,0 +1,24 @@
+1	Watch	watch	VB	_	0	root	_	O
+2	her	her	PRP	pos2=PRP$	3	nsubj	_	O
+3	discuss	discuss	VB	_	1	ccomp	_	O
+4	her	her	PRP$	pos2=PRP	5	poss	_	O
+5	plans	plan	NNS	_	3	dobj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	Florida	florida	NNP	_	6	pobj	_	U-GPE
+8	,	,	,	_	5	punct	_	O
+9	which	which	WDT	_	11	nsubj	_	O
+10	will	will	MD	_	11	aux	_	O
+11	include	include	VB	pos2=VBP	5	relcl	_	O
+12	marine	marine	JJ	pos2=NN	13	nmod	_	O
+13	conservation	conservation	NN	_	11	dobj	_	O
+14	,	,	,	_	13	punct	_	O
+15	gun	gun	NN	_	16	compound	_	O
+16	control	control	NN	_	13	conj	_	O
+17	,	,	,	_	1	punct	_	O
+18	and	and	CC	_	1	cc	_	O
+19	closing	close	VBG	_	16	conj	_	O
+20	the	the	DT	_	22	det	_	O
+21	wage	wage	NN	_	22	compound	_	O
+22	gap	gap	NN	_	19	dobj	_	O
+23	!	!	.	_	1	punct	_	O
+

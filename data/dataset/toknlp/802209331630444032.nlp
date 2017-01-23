@@ -1,0 +1,23 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@JamesRon1980	@jamesron0	NN	pos2=MD	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	wish	wish	VBP	_	13	advcl	_	O
+4	to	to	TO	_	5	aux	_	O
+5	see	see	VB	_	3	xcomp	_	O
+6	Putin	putin	NNP	_	5	dobj	_	U-PERSON
+7	&	&	CC	_	6	cc	_	O
+8	co	co	NN	pos2=RB	6	conj	_	O
+9	in	in	IN	_	5	prep	_	O
+10	Hague	hague	NNP	_	9	pobj	_	U-GPE
+11	,	,	,	_	13	punct	_	O
+12	Russians	russian	NNPS	_	13	nsubj	_	U-NORP
+13	deserve	deserve	VBP	_	0	root	_	O
+14	better	good	JJR	pos2=RBR	13	acomp	_	O
+15	than	than	IN	_	14	prep	_	O
+16	him	him	PRP	_	15	pobj	_	O
+17	!	!	.	_	13	punct	_	O
+
+1	@Ukropo4kA	@ukropo0ka	NN	pos2=NNS	2	nsubj	_	O
+2	@GeenPeil	@geenpeil	ADD	pos2=NN	0	root	_	O
+

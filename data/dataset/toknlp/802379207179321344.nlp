@@ -1,0 +1,25 @@
+1	Just	just	RB	_	3	advmod	_	O
+2	another	another	DT	_	3	det	_	O
+3	effort	effort	NN	_	0	root	_	O
+4	by	by	IN	_	3	prep	_	O
+5	another	another	DT	_	7	det	_	O
+6	#Clinton	#clinton	NNP	pos2=XX	7	compound	_	U-ORG
+7	surrogate	surrogate	NN	pos2=JJ	4	pobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	steal	steal	VB	_	3	acl	_	O
+10	the	the	DT	_	11	det	_	O
+11	election	election	NN	_	9	dobj	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	Mostly	mostly	RB	_	2	advmod	_	O
+2	funded	fund	VBN	_	11	nmod	_	O
+3	by	by	IN	_	2	agent	_	O
+4	George	george	NNP	_	5	compound	_	B-PERSON
+5	Soros	soros	NNP	_	3	pobj	_	L-PERSON
+6	who	who	WP	_	7	nsubj	_	O
+7	is	be	VBZ	_	5	relcl	_	O
+8	no	no	DT	pos2=XX	9	det	_	O
+9	fr	fr	NN	pos2=JJ	7	attr	_	O
+10	…	…	NFP	pos2=-LRB-	11	punct	_	O
+11	https://t.co/NiJFnSkhvx	#hlink#	ADD	_	0	root	_	O
+

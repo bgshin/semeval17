@@ -1,0 +1,9 @@
+1	@Gavin_McInnes	@gavin_mcinnes	VBZ	pos2=ADD	0	root	_	O
+2	Kind	kind	RB	_	3	advmod	_	O
+3	of	of	RB	_	4	advmod	_	O
+4	like	like	IN	pos2=UH	1	prep	_	O
+5	Kim	kim	NNP	_	7	compound	_	B-PERSON
+6	Jong	jong	NNP	_	7	compound	_	I-PERSON
+7	Un	un	NNP	_	4	pobj	_	L-PERSON
+8	...	..	.	pos2=,	1	punct	_	O
+

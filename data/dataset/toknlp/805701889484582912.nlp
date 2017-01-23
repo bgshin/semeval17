@@ -1,0 +1,33 @@
+1	@Roman_RNS	@roman_rns	NNS	pos2=ADD	4	vocative	_	O
+2	Have	have	VBP	_	4	aux	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	seen	see	VBN	_	0	root	_	O
+5	Westworld	westworld	NNP	_	4	dobj	_	U-PERSON
+6	or	or	CC	_	4	cc	_	O
+7	is	be	VBZ	_	4	conj	_	O
+8	it	it	PRP	_	7	nsubj	_	O
+9	on	on	IN	_	7	prep	_	O
+10	your	your	PRP$	_	11	poss	_	O
+11	watchlist	watchlist	NN	_	9	pobj	_	O
+12	?	?	.	_	4	punct	_	O
+
+1	If	if	IN	_	5	mark	_	O
+2	so	so	RB	_	5	advmod	_	O
+3	do	do	VBP	pos2=VB	5	aux	_	O
+4	u	u	PRP	pos2=NNS	5	nsubj	_	O
+5	have	have	VB	_	0	root	_	O
+6	any	any	DT	_	7	det	_	O
+7	plans	plan	NNS	_	5	dobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	make	make	VB	_	7	acl	_	O
+10	videos	video	NNS	_	9	dobj	_	O
+11	about	about	IN	_	10	prep	_	O
+12	it	it	PRP	_	11	pobj	_	O
+13	?	?	.	_	5	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	show	show	NN	_	3	nsubj	_	O
+3	looks	look	VBZ	_	0	root	_	O
+4	really	really	RB	_	5	advmod	_	O
+5	great	great	JJ	_	3	acomp	_	O
+

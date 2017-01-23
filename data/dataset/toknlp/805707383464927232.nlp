@@ -1,0 +1,28 @@
+1	@KatieKhaleesi	@katiekhaleesi	VB	pos2=XX	6	csubj	_	O
+2	The	the	DT	_	5	det	_	O
+3	British	british	JJ	_	5	nmod	_	U-NORP
+4	value	value	NN	_	5	compound	_	O
+5	test	test	NN	_	1	dobj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	a	a	DT	_	9	det	_	O
+8	practical	practical	JJ	_	9	nmod	_	O
+9	exam	exam	NN	_	6	attr	_	O
+10	on	on	IN	_	9	prep	_	O
+11	clubbing	club	VBG	pos2=NN	10	pcomp	_	O
+12	fox	fox	NN	pos2=XX	13	compound	_	O
+13	cubs	cub	NNS	pos2=RB	11	dobj	_	O
+14	,	,	,	_	6	punct	_	O
+15	and	and	CC	_	6	cc	_	O
+16	a	a	DT	_	20	det	_	O
+17	verbal	verbal	JJ	_	20	nmod	_	O
+18	casual	casual	JJ	_	20	nmod	_	O
+19	racism	racism	NN	_	20	compound	_	O
+20	test	test	NN	_	15	relcl	_	O
+21	.	.	.	_	6	punct	_	O
+
+1	Written	write	VBN	pos2=JJ	2	nmod	_	O
+2	test	test	NN	_	4	nsubj	_	O
+3	not	not	RB	_	4	neg	_	O
+4	feasible	feasible	JJ	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+

@@ -1,0 +1,22 @@
+1	Palliative	palliative	JJ	pos2=NN	2	nmod	_	O
+2	care	care	NN	_	5	nsubj	_	O
+3	and	and	CC	_	2	cc	_	O
+4	legalized	legalize	VBD	pos2=VBN	5	nmod	_	O
+5	assisted	assist	VBN	pos2=JJ	0	root	_	O
+6	dying	die	VBG	pos2=NN	5	xcomp	_	O
+7	are	be	VBP	_	14	ccomp	_	O
+8	not	not	RB	_	7	neg	_	O
+9	mutually	mutually	RB	_	10	advmod	_	O
+10	exclusive	exclusive	JJ	_	7	acomp	_	O
+11	;	;	:	pos2=,	14	punct	_	O
+12	most	most	JJS	_	13	nmod	_	O
+13	Aussies	aussie	NNPS	pos2=NNS	14	nsubj	_	U-NORP
+14	want	want	VBP	pos2=VB	0	root	_	O
+15	access	access	NN	_	14	dobj	_	O
+16	to	to	IN	_	15	prep	_	O
+17	both	both	DT	pos2=RB	16	pobj	_	O
+18	!	!	.	_	14	punct	_	O
+
+1	https://t.co/yKTyZa2Q67	#hlink#	ADD	_	0	root	_	O
+2	@abcnews	@abcnews	UH	pos2=-RRB-	1	discourse	_	O
+

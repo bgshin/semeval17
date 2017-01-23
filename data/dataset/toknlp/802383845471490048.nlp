@@ -1,0 +1,24 @@
+1	2012.3.11	0	CD	pos2=LS	23	npadvmod	_	U-CARDINAL
+2	「The	「the	DT	pos2=:	3	det	_	O
+3	truth	truth	NN	_	1	appos	_	O
+4	of	of	IN	_	3	prep	_	O
+5	311	0	CD	_	7	nmod	_	U-CARDINAL
+6	seismic	seismic	JJ	_	7	nmod	_	O
+7	terror	terror	NN	_	4	pobj	_	O
+8	By	by	IN	_	3	prep	_	O
+9	Richard	richard	NNP	_	10	compound	_	B-PERSON
+10	Koshimizu」	koshimizu」	NNP	pos2=GW	8	pobj	_	L-PERSON
+11	https://t.co/iI6ORb89oV	#hlink#	ADD	pos2=NN	9	appos	_	O
+12	#	#	NN	pos2=-RRB-	23	compound	_	O
+13	福島	福島	NN	pos2=NFP	23	compound	_	U-MONEY
+14	#	#	NN	pos2=-LRB-	23	compound	_	O
+15	福島県	福島県	NN	pos2=NFP	23	compound	_	O
+16	#	#	NN	pos2=-LRB-	23	compound	_	O
+17	地震	地震	NN	pos2=NFP	23	compound	_	U-MONEY
+18	#	#	NN	pos2=-LRB-	23	compound	_	O
+19	津波	津波	NN	pos2=NFP	23	compound	_	O
+20	#	#	NN	pos2=.	23	compound	_	O
+21	災害	災害	NN	pos2=NFP	23	compound	_	U-MONEY
+22	#TPP	#tpp	NN	pos2=XX	23	compound	_	O
+23	#TRUMP	#trump	NN	pos2=XX	0	root	_	O
+

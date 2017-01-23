@@ -1,0 +1,15 @@
+1	Gen	gen	NNP	pos2=NN	3	compound	_	B-PERSON
+2	David	david	NNP	_	3	compound	_	I-PERSON
+3	Petraeus	petraeus	NNP	_	4	nsubj	_	L-PERSON
+4	opens	open	VBZ	_	0	root	_	O
+5	door	door	NN	_	4	dobj	_	O
+6	to	to	IN	pos2=TO	4	prep	_	O
+7	#Trump	#trump	VB	pos2=NNP	8	compound	_	O
+8	administra	administra	NN	pos2=GW	6	pobj	_	O
+9	tionhttps://t.co/jPA9exzcRm	#hlink#	ADD	_	5	appos	_	O
+10	#tcot	#tcot	IN	pos2=-RRB-	4	prep	_	O
+11	#uniteblue	#uniteblue	UH	pos2=VB	10	discourse	_	O
+12	#trumpwon	#trumpwon	UH	pos2=FW	10	discourse	_	O
+13	#maga	#maga	UH	pos2=FW	10	discourse	_	O
+14	#TrumpTransition	#trumptransition	NN	pos2=ADD	10	pobj	_	O
+

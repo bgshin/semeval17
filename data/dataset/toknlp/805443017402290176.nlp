@@ -1,0 +1,24 @@
+1	@owillis	@owillis	UH	pos2=NN	2	discourse	_	O
+2	yup	yup	UH	pos2=NN	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Mind	mind	NN	_	2	compound	_	O
+2	boggling	boggle	VBG	pos2=NN	7	nsubj	_	O
+3	as	as	IN	_	2	prep	_	O
+4	Chaffetz	chaffetz	NNP	_	3	pobj	_	U-PERSON
+5	and	and	CC	_	4	cc	_	O
+6	GOP	gop	NNP	_	4	conj	_	U-ORG
+7	sits	sit	NNS	pos2=VBZ	12	acl	_	O
+8	by	by	IN	pos2=RB	2	advmod	_	O
+9	and	and	CC	_	2	cc	_	O
+10	watches	watch	VBZ	pos2=NNS	2	conj	_	O
+11	this	this	DT	_	10	dobj	_	O
+12	.	.	.	_	0	root	_	O
+
+1	How	how	WRB	_	2	advmod	_	O
+2	about	about	IN	_	0	root	_	O
+3	Cuba	cuba	NNP	_	5	compound	_	U-GPE
+4	embargo	embargo	NN	pos2=NNP	5	compound	_	O
+5	violation	violation	NN	_	2	pobj	_	O
+6	????	??	.	_	2	punct	_	O
+

@@ -1,0 +1,17 @@
+1	At	at	IN	_	8	prep	_	O
+2	Any	any	DT	pos2=NNP	4	det	_	O
+3	Price	price	NN	pos2=NNP	4	compound	_	O
+4	review	review	NN	_	1	pobj	_	O
+5	–	-	:	pos2=HYPH	8	punct	_	O
+6	Zac	zac	NNP	_	7	compound	_	B-PERSON
+7	Efron	efron	NNP	_	8	nsubj	_	L-PERSON
+8	lifts	lift	VBZ	_	0	root	_	O
+9	a	a	DT	_	12	det	_	O
+10	strained	strained	JJ	pos2=VBN	12	nmod	_	O
+11	family	family	NN	_	12	compound	_	O
+12	drama	drama	NN	_	8	dobj	_	O
+13	...	..	.	pos2=,	8	punct	_	O
+
+1	https://t.co/eymp8CSDoD	#hlink#	ADD	_	2	nsubj	_	O
+2	#ZacEfron	#zacefron	ADD	pos2=-RRB-	0	root	_	O
+

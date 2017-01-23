@@ -1,0 +1,19 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	were	be	VBD	_	0	root	_	O
+3	against	against	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	war	war	NN	_	3	pobj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	Vietnam	vietnam	NNP	_	6	pobj	_	U-GPE
+8	and	and	CC	_	3	cc	_	O
+9	for	for	IN	_	3	conj	_	O
+10	voter	voter	NN	_	11	compound	_	O
+11	registration	registration	NN	_	9	pobj	_	O
+12	and	and	CC	_	11	cc	_	O
+13	s	s	NN	pos2=AFX	11	conj	_	O
+14	...	..	.	pos2=,	2	punct	_	O
+
+1	#TomSmothers	#tomsmothers	NNS	pos2=GW	2	compound	_	O
+2	#quotations	#quotations	NNS	pos2=ADD	3	dep	_	O
+3	https://t.co/Bxp6a1bf7R	#hlink#	ADD	_	0	root	_	O
+

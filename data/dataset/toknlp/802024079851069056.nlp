@@ -1,0 +1,15 @@
+1	#Music	#music	NNP	pos2=JJ	2	compound	_	O
+2	#ArianaGrande	#arianagrande	NN	pos2=ADD	7	dep	_	O
+3	-	-	:	pos2=,	7	punct	_	O
+4	THE	the	DT	_	7	det	_	O
+5	REMIX	remix	NN	pos2=NNP	7	compound	_	O
+6	-	-	HYPH	pos2=:	7	punct	_	O
+7	JAPAN	japan	NNP	pos2=NN	0	root	_	U-GPE
+8	ONLY	only	RB	_	9	advmod	_	O
+9	#CD	#cd	GW	pos2=NN	14	nmod	_	O
+10	E78	e0	GW	pos2=NN	14	nmod	_	U-PRODUCT
+11	https://t.co/zOxb3hwBpg	#hlink#	ADD	pos2=NN	14	nmod	_	O
+12	#Bestseller	#bestseller	GW	pos2=-RRB-	14	nmod	_	B-DATE
+13	#Hit	#hit	GW	pos2=-LRB-	14	nmod	_	L-DATE
+14	https://t.co/ibZScGfvl3	#hlink#	ADD	pos2=NN	7	appos	_	O
+

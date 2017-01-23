@@ -1,0 +1,25 @@
+1	@jparrie	@jparrie	UH	pos2=NN	9	discourse	_	O
+2	@JonTheLeftist	@jontheleftist	NN	pos2=ADD	9	nsubj	_	O
+3	@theheraldsun	@theheraldsun	IN	pos2=XX	2	prep	_	O
+4	Brining	brine	VBG	_	3	pcomp	_	O
+5	this	this	DT	_	7	det	_	O
+6	terrorist	terrorist	JJ	pos2=NN	7	nmod	_	O
+7	back	back	NN	pos2=RB	4	dobj	_	O
+8	will	will	MD	_	9	aux	_	O
+9	be	be	VB	_	0	root	_	O
+10	red	red	JJ	pos2=VBN	11	nmod	_	O
+11	meat	meat	NN	_	9	attr	_	O
+12	for	for	IN	_	11	prep	_	O
+13	Leftists	leftist	NNPS	pos2=NNS	12	pobj	_	U-NORP
+14	.	.	.	_	9	punct	_	O
+
+1	Media	medium	NNS	pos2=NNP	3	nsubj	_	U-ORG
+2	will	will	MD	_	3	aux	_	O
+3	make	make	VB	_	0	root	_	O
+4	him	him	PRP	_	6	nsubj	_	O
+5	a	a	DT	_	6	det	_	O
+6	star	star	NN	_	3	ccomp	_	O
+7	just	just	RB	_	8	advmod	_	O
+8	like	like	IN	_	6	prep	_	O
+9	Hicks	hicks	NNP	pos2=NNS	8	pobj	_	O
+

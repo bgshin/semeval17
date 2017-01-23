@@ -1,0 +1,16 @@
+1	SA	sa	NNP	pos2=NN	5	poss	_	U-ORG
+2	's	's	POS	pos2=AFX	1	case	_	O
+3	weed	weed	NN	pos2=JJ	5	compound	_	O
+4	oil	oil	NN	_	5	compound	_	O
+5	salesmen	salesman	NNS	_	6	nsubj	_	O
+6	get	get	VBP	pos2=VB	0	root	_	O
+7	ahead	ahead	RB	_	6	advmod	_	O
+8	of	of	IN	_	7	prep	_	O
+9	themselves	themselves	PRP	_	8	pobj	_	O
+10	with	with	IN	_	6	prep	_	O
+11	medical	medical	JJ	_	12	nmod	_	O
+12	marijuana	marijuana	NN	_	13	compound	_	O
+13	products	product	NNS	_	10	pobj	_	O
+14	https://t.co/nm0XEBX7Ir	#hlink#	ADD	pos2=VBP	13	appos	_	O
+15	#MedicalDagga	#medicaldagga	-RRB-	pos2=ADD	6	punct	_	O
+

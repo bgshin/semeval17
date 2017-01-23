@@ -1,0 +1,25 @@
+1	@NetworksManager	@networksmanager	ADD	pos2=NN	3	prep	_	O
+2	@alllibertynews	@alllibertynews	UH	pos2=NNS	3	discourse	_	O
+3	@Nigel_Farage	@nigel_farage	VB	pos2=NNP	0	root	_	O
+4	All	all	DT	_	5	det	_	O
+5	fair	fair	NN	pos2=JJ	3	dobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	After	after	RB	pos2=IN	2	advmod	_	O
+2	all	all	RB	_	6	advmod	_	O
+3	,	,	,	_	6	punct	_	O
+4	Obama	obama	NNP	_	6	nsubj	_	U-PERSON
+5	is	be	VBZ	_	6	aux	_	O
+6	planning	plan	VBG	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	stay	stay	VB	_	6	xcomp	_	O
+9	for	for	IN	_	8	prep	_	O
+10	jab	jab	NN	_	9	pobj	_	O
+11	at	at	IN	_	8	prep	_	O
+12	new	new	JJ	_	13	nmod	_	O
+13	admin	admin	NN	_	11	pobj	_	O
+14	.	.	.	_	6	punct	_	O
+
+1	#nazi	#nazi	UH	pos2=XX	2	discourse	_	O
+2	GeorgeSoros	georgesoros	NNP	pos2=UH	0	root	_	U-PERSON
+

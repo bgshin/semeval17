@@ -1,0 +1,32 @@
+1	@WordsMatter3	@wordsmatter0	NN	pos2=UH	2	compound	_	O
+2	@NBCNews	@nbcnews	NNP	pos2=NNPS	5	vocative	_	O
+3	Yeah	yeah	UH	_	5	discourse	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	got	get	VBD	pos2=VBP	0	root	_	O
+6	me	me	PRP	_	5	dobj	_	O
+7	<	<	-LRB-	pos2=:	8	punct	_	O
+8	sarcasm	sarcasm	NN	_	5	parataxis	_	O
+9	>	>	SYM	pos2=-RRB-	8	punct	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	guess	guess	VBP	_	0	root	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	2	ccomp	_	O
+5	about	about	IN	pos2=RB	4	prep	_	O
+6	equal	equal	JJ	_	7	nmod	_	O
+7	right	right	JJ	pos2=NN	5	pobj	_	O
+8	?	?	.	_	2	punct	_	O
+
+1	Black	black	JJ	pos2=NNP	2	nmod	_	O
+2	riots	riot	NNS	_	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	White	white	JJ	pos2=NNP	5	nmod	_	O
+5	riots	riot	NNS	_	2	conj	_	O
+6	?	?	.	_	2	punct	_	O
+
+1	Anti-Trump	anti-trump	JJ	pos2=NN	3	advmod	_	O
+2	=	=	SYM	_	3	punct	_	O
+3	Intolerant	intolerant	JJ	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+

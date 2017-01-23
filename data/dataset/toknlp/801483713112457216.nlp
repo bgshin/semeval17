@@ -1,0 +1,27 @@
+1	@vicmandrake	@vicmandrake	UH	pos2=VB	0	root	_	O
+2	Because	because	IN	_	6	mark	_	O
+3	for	for	IN	_	6	prep	_	O
+4	decades	decade	NNS	_	3	pobj	_	U-DATE
+5	it	it	PRP	_	6	nsubj	_	O
+6	was	be	VBD	_	1	advcl	_	O
+7	(	(	-LRB-	_	2	punct	_	O
+8	and	and	CC	_	6	cc	_	O
+9	still	still	RB	_	10	advmod	_	O
+10	remains	remain	VBZ	_	6	conj	_	O
+11	)	)	-RRB-	_	10	punct	_	O
+12	in	in	IN	_	8	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	pockets	pocket	NNS	_	12	pobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	corporate	corporate	JJ	_	17	nmod	_	O
+17	America	america	NNP	_	15	pobj	_	U-GPE
+18	.	.	.	_	15	punct	_	O
+
+1	Rightists	rightist	NNS	pos2=NNPS	2	nsubj	_	U-NORP
+2	internalized	internalize	VBD	_	0	root	_	O
+3	their	their	PRP$	_	6	poss	_	O
+4	shitty	shitty	JJ	_	6	nmod	_	O
+5	"	"	``	_	6	punct	_	O
+6	ideas	idea	NNS	_	2	dobj	_	O
+7	"	"	''	_	2	punct	_	O
+

@@ -1,0 +1,24 @@
+1	@politico	@politico	UH	pos2=XX	10	discourse	_	O
+2	@POLITICOMag	@politicomag	VBG	pos2=NNP	5	nmod	_	O
+3	White	white	NNP	pos2=JJ	5	nmod	_	U-PERSON
+4	working	work	VBG	pos2=NN	5	nmod	_	O
+5	class	class	NN	_	10	nsubj	_	O
+6	elected	elect	VBN	pos2=VBD	5	acl	_	O
+7	Trump	trump	NNP	pos2=NN	6	oprd	_	U-ORG
+8	,	,	,	_	10	punct	_	O
+9	will	will	MD	_	10	aux	_	O
+10	bust	bust	VB	pos2=NN	0	root	_	O
+11	unions	union	NNS	_	10	dobj	_	O
+12	,	,	,	_	10	punct	_	O
+13	kill	kill	VB	pos2=VBP	10	conj	_	O
+14	their	their	PRP$	_	16	poss	_	O
+15	health	health	NN	_	16	compound	_	O
+16	care	care	NN	_	13	dobj	_	O
+17	,	,	,	_	16	punct	_	O
+18	privatize	privatize	VB	_	13	conj	_	O
+19	Medicare	medicare	NNP	_	18	dobj	_	B-ORG
+20	&	&	CC	_	19	cc	_	I-ORG
+21	Social	social	NNP	_	22	compound	_	I-ORG
+22	Security	security	NNP	_	19	conj	_	L-ORG
+23	.	.	.	_	10	punct	_	O
+

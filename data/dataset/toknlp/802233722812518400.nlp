@@ -1,0 +1,23 @@
+1	The	the	DT	_	4	det	_	O
+2	updated	update	VBN	_	4	nmod	_	O
+3	Tesla	tesla	NNP	_	4	compound	_	O
+4	Model	model	NNP	_	6	nsubj	_	U-PRODUCT
+5	S	s	POS	pos2=NNP	4	case	_	O
+6	looks	look	VBZ	pos2=VBD	0	root	_	O
+7	like	like	IN	_	6	prep	_	O
+8	a	a	DT	_	9	det	_	O
+9	cat	cat	NN	_	11	poss	_	O
+10	's	's	POS	_	9	case	_	O
+11	face	face	NN	_	7	pobj	_	O
+12	.	.	.	_	6	punct	_	O
+
+1	There	there	RB	_	3	advmod	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	go	go	VBP	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	said	say	VBD	_	0	root	_	O
+3	it	it	PRP	_	2	dobj	_	O
+4	.	.	.	_	2	punct	_	O
+

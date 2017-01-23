@@ -1,0 +1,20 @@
+1	#israel_on_fire	#israel_on_fire	UH	pos2=NN	6	discourse	_	O
+2	#IsraelFires	#israelfires	NNS	pos2=UH	6	dobj	_	O
+3	#Palestine	#palestine	NNP	pos2=PRP	6	dobj	_	O
+4	Did	do	VBD	_	6	aux	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	remember	remember	VB	_	0	root	_	O
+7	?	?	.	_	6	punct	_	O
+
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	palestine	palestine	NN	pos2=NNP	2	attr	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	think	think	VBP	_	0	root	_	O
+3	divine	divine	JJ	pos2=GW	4	nmod	_	O
+4	justice.👆🏻	justice.👆🏻	NNP	pos2=,	5	nmod	_	U-GPE
+5	https://t.co/Sqb7CX7qap	#hlink#	ADD	_	0	root	_	O
+

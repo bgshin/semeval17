@@ -1,0 +1,20 @@
+1	Yes	yes	UH	_	4	discourse	_	O
+2	@realDonaldTrump	@realdonaldtrump	NN	pos2=XX	4	dep	_	O
+3	-	-	:	pos2=HYPH	4	punct	_	O
+4	ignore	ignore	VB	_	0	root	_	O
+5	$	$	$	pos2=,	6	nmod	_	O
+6	millions	#crd#	NNS	_	4	dobj	_	U-MONEY
+7	that	that	WDT	_	9	dobj	_	O
+8	#RudyGiuliani	#rudygiuliani	NNP	pos2=VBP	9	nsubj	_	U-PERSON
+9	took	take	VBD	_	6	relcl	_	O
+10	from	from	IN	_	9	prep	_	O
+11	#Qatar	#qatar	NNP	_	10	pobj	_	U-ORG
+12	,	,	,	_	11	punct	_	O
+13	the	the	DT	_	15	det	_	O
+14	main	main	JJ	_	15	nmod	_	O
+15	sponsor	sponsor	NN	_	11	appos	_	O
+16	of	of	IN	_	15	prep	_	O
+17	#Hamas	#hamas	NNP	pos2=NNS	16	pobj	_	B-PERSON
+18	-…	-…	NFP	pos2=-LRB-	19	punct	_	L-PERSON
+19	https://t.co/pifGrTn5WG	#hlink#	ADD	_	4	dep	_	O
+

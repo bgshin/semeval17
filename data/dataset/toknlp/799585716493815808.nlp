@@ -1,0 +1,18 @@
+1	China	china	NNP	_	2	nsubj	_	U-GPE
+2	concedes	concede	VBZ	_	0	root	_	O
+3	to	to	IN	_	2	prep	_	O
+4	North	north	JJ	pos2=NNP	5	advmod	_	B-NORP
+5	Korean	korean	JJ	_	6	nmod	_	L-NORP
+6	request	request	NN	_	3	pobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	censor	censor	VB	pos2=NN	6	acl	_	O
+9	searches	search	NNS	_	8	dobj	_	O
+10	for	for	IN	_	9	prep	_	O
+11	"	"	``	_	17	punct	_	O
+12	Kim	kim	NNP	_	13	compound	_	B-PERSON
+13	Fatty	fatty	NNP	_	17	dep	_	L-PERSON
+14	the	the	DT	_	15	det	_	O
+15	Third	#ord#	NNP	pos2=JJ	13	appos	_	U-ORDINAL
+16	"	"	''	pos2=``	17	punct	_	O
+17	https://t.co/U2nwIX3oyr	#hlink#	ADD	_	0	root	_	O
+

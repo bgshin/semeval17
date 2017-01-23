@@ -1,0 +1,18 @@
+1	LukeSukie	lukesukie	NNP	pos2=NN	7	nmod	_	U-PERSON
+2	(	(	-LRB-	_	3	punct	_	O
+3	#invisible5	#invisible0	NN	pos2=NNS	1	appos	_	O
+4	)	)	-RRB-	_	1	punct	_	O
+5	Michael	michael	NNP	_	7	nmod	_	O
+6	/	/	SYM	pos2=,	7	punct	_	O
+7	BabetteEmilie	babetteemilie	NNP	pos2=NN	17	nmod	_	O
+8	(	(	-LRB-	_	7	punct	_	O
+9	Loralie	loralie	NNP	pos2=JJR	10	compound	_	O
+10	mom	mom	NN	_	15	poss	_	O
+11	's	's	POS	pos2=AFX	10	case	_	O
+12	)	)	-RRB-	_	7	punct	_	O
+13	Lane	lane	NNP	pos2=NN	15	poss	_	U-DATE
+14	's	's	POS	pos2=VBZ	13	case	_	O
+15	momThats	momthats	NNPS	pos2=NNS	7	appos	_	U-NORP
+16	me	me	PRP	_	17	dep	_	O
+17	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=.	0	root	_	O
+

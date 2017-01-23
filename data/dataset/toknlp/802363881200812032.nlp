@@ -1,0 +1,13 @@
+1	@weebsfortrump	@weebsfortrump	UH	pos2=XX	6	discourse	_	O
+2	@WhiteHouse	@whitehouse	ADD	pos2=UH	6	punct	_	O
+3	@FLOTUS	@flotus	NN	pos2=UH	2	pobj	_	O
+4	yeah	yeah	UH	_	6	discourse	_	O
+5	Melania	melania	NNP	pos2=NN	6	nsubj	_	U-PERSON
+6	is	be	VBZ	_	0	root	_	O
+7	a	a	DT	_	10	det	_	O
+8	stripper	stripper	NN	_	9	compound	_	O
+9	prostitute	prostitute	NN	_	10	compound	_	O
+10	trump	trump	NN	pos2=VB	6	attr	_	O
+11	bought	buy	VBD	_	10	acl	_	O
+12	her	her	PRP	pos2=PRP$	11	dobj	_	O
+

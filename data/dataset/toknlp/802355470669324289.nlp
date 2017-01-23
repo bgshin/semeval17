@@ -1,0 +1,22 @@
+1	Bob	bob	NNP	_	2	compound	_	B-FAC
+2	Dylan	dylan	NNP	_	3	compound	_	I-FAC
+3	Highway	highway	NNP	_	5	nsubj	_	I-FAC
+4	61	0	CD	pos2=NNP	3	npadvmod	_	L-FAC
+5	Revisited	revisit	VBD	pos2=VBN	0	root	_	O
+6	LP	lp	NN	_	5	dobj	_	O
+7	1965	0	CD	pos2=NN	5	npadvmod	_	U-DATE
+8	pressing	press	VBG	_	5	advcl	_	O
+9	with	with	IN	_	8	prep	_	O
+10	alternate	alternate	NN	pos2=JJ	9	pobj	_	O
+11	From	from	IN	_	10	prep	_	O
+12	A	a	DT	pos2=NNP	14	det	_	O
+13	Buick	buick	NNP	_	15	dep	_	B-DATE
+14	6	0	CD	pos2=GW	15	dep	_	L-DATE
+15	https://t.co/BMR1ZezC8K	#hlink#	ADD	_	21	nmod	_	O
+16	≈	≈	NFP	pos2=-RRB-	21	punct	_	O
+17	118	0	CD	_	18	nmod	_	O
+18	hours	hour	NNS	_	21	nmod	_	O
+19	U	u	GW	pos2=PRP	21	nmod	_	O
+20	…	…	NFP	pos2=GW	21	punct	_	O
+21	https://t.co/bRM73t19Q6	#hlink#	ADD	pos2=NN	5	dep	_	O
+

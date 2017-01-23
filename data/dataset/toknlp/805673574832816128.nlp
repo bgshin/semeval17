@@ -1,0 +1,22 @@
+1	>	>	SYM	pos2=-RRB-	2	punct	_	O
+2	admits	admit	VBZ	_	0	root	_	O
+3	to	to	IN	_	2	prep	_	O
+4	illegal	illegal	JJ	_	6	nmod	_	O
+5	voter	voter	NN	_	6	compound	_	O
+6	suppression	suppression	NN	_	3	pobj	_	O
+7	>	>	SYM	pos2=-RRB-	6	punct	_	O
+8	"	"	``	pos2=''	10	punct	_	O
+9	state	state	NN	_	10	compound	_	O
+10	ID	id	NN	_	6	appos	_	O
+11	and	and	CC	_	10	cc	_	O
+12	proof	proof	NN	_	10	conj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	citizenship	citizenship	NN	_	13	pobj	_	O
+15	to	to	TO	_	16	aux	_	O
+16	vote	vote	VB	_	2	advcl	_	O
+17	"	"	``	pos2=''	16	punct	_	O
+18	#FakeNewsMedia	#fakenewsmedia	IN	pos2=ADD	16	prep	_	O
+19	these	these	DT	_	21	det	_	O
+20	days.@DagnyDelinquent	days.@dagnydelinquent	JJ	pos2=NN	21	nmod	_	O
+21	@HuffPostBlog	@huffpostblog	NNS	pos2=NNP	18	pobj	_	O
+

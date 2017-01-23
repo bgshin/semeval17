@@ -1,0 +1,12 @@
+1	Fairmont	fairmont	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	beats	beat	VBZ	pos2=NNS	0	root	_	O
+3	Tipp	tipp	NNP	_	2	dobj	_	U-ORG
+4	38	0	CD	pos2=NNP	6	qmod	_	B-DATE
+5	-	-	SYM	pos2=HYPH	6	punct	_	I-DATE
+6	28	0	CD	_	2	dobj	_	L-DATE
+7	!	!	.	_	2	punct	_	O
+
+1	@GWOC	@gwoc	GW	pos2=NFP	3	nmod	_	B-PERSON
+2	#gobirds	#gobirds	GW	pos2=NNS	3	nmod	_	L-PERSON
+3	https://t.co/ImTyH9DSpa	#hlink#	ADD	pos2=NN	0	root	_	O
+

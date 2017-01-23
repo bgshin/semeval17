@@ -1,0 +1,20 @@
+1	21	0	CD	pos2=LS	0	root	_	U-CARDINAL
+2	/	/	SYM	pos2=,	5	punct	_	O
+3	May	may	NNP	pos2=MD	5	nmod	_	O
+4	/	/	SYM	pos2=,	5	punct	_	O
+5	15	0	CD	_	10	dep	_	O
+6	False	false	JJ	pos2=NNP	9	nmod	_	O
+7	Flag	flag	NNP	pos2=NN	8	compound	_	B-ORG
+8	Weekly	weekly	NNP	_	10	dep	_	L-ORG
+9	News	news	NNP	pos2=NN	10	dep	_	O
+10	https://t.co/rJ3yPRmRyv	#hlink#	ADD	pos2=NNP	12	dep	_	O
+11	#false	#false	IN	pos2=-RRB-	0	root	_	O
+12	#flag	#flag	UH	pos2=FW	11	discourse	_	O
+13	#osama	#osama	UH	pos2=FW	11	discourse	_	O
+14	#bin	#bin	UH	pos2=FW	11	discourse	_	O
+15	#laden	#laden	UH	pos2=VB	11	discourse	_	O
+16	#boston	#boston	UH	pos2=FW	11	discourse	_	O
+17	#bombing	#bombing	UH	pos2=VBG	11	discourse	_	O
+18	#iraq	#iraq	UH	pos2=FW	11	discourse	_	O
+19	#libya	#libya	UH	pos2=FW	11	discourse	_	O
+

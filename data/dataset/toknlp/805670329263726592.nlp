@@ -1,0 +1,12 @@
+1	@vonny_bravo	@vonny_bravo	UH	pos2=NNP	7	discourse	_	O
+2	yes	yes	UH	_	1	discourse	_	O
+3	,	,	,	_	7	punct	_	O
+4	but	but	CC	_	7	cc	_	O
+5	would	would	MD	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	gun	gun	VB	pos2=NN	8	compound	_	O
+8	control	control	NN	_	9	nsubj	_	O
+9	work	work	VB	pos2=NN	0	root	_	O
+10	better	well	RBR	pos2=RB	9	advmod	_	O
+11	?	?	.	_	9	punct	_	O
+

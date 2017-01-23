@@ -1,0 +1,24 @@
+1	Can	can	MD	_	3	aux	_	O
+2	not	not	RB	_	3	neg	_	O
+3	believe	believe	VB	_	0	root	_	O
+4	people	people	NNS	_	6	nsubj	_	O
+5	are	be	VBP	_	6	aux	_	O
+6	attempting	attempt	VBG	_	3	ccomp	_	O
+7	to	to	TO	_	8	aux	_	O
+8	sell	sell	VB	_	6	xcomp	_	O
+9	a	a	DT	_	12	det	_	O
+10	$	$	$	_	11	nmod	_	O
+11	50	0	CD	_	12	nmod	_	U-MONEY
+12	toy	toy	NN	_	8	dobj	_	O
+13	for	for	IN	_	12	prep	_	O
+14	6x	0x	NN	pos2=CD	13	pobj	_	O
+15	the	the	DT	_	16	det	_	O
+16	price	price	NN	_	12	appos	_	O
+17	!	!	.	_	3	punct	_	O
+
+1	Unbelievable	unbelievable	JJ	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	#Hatchimals	#hatchimals	NNS	pos2=ADD	0	root	_	O
+2	#peoplesuck	#peoplesuck	UH	pos2=NN	1	discourse	_	O
+

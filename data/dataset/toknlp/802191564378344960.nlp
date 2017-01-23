@@ -1,0 +1,21 @@
+1	@AkramAlshwafi	@akramalshwafi	NN	pos2=NNS	16	dep	_	O
+2	:	:	:	_	16	punct	_	O
+3	#WatchTeam:9500	#watchteam:0	NN	pos2=JJ	4	compound	_	O
+4	students	student	NNS	_	16	nsubj	_	O
+5	deprived	deprive	VBN	_	4	acl	_	O
+6	from	from	IN	_	5	prep	_	O
+7	school	school	NN	_	6	pobj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	Aselow	aselow	NNP	_	10	compound	_	U-GPE
+10	district	district	NN	pos2=NNP	11	compound	_	O
+11	South	south	NNP	pos2=RB	8	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	Taiz	taiz	NNP	_	12	pobj	_	U-GPE
+14	since	since	IN	_	16	mark	_	O
+15	war	war	NN	_	16	nsubj	_	O
+16	expanded	expand	VBD	pos2=VBN	0	root	_	O
+17	2	0	CD	_	18	nmod	_	U-CARDINAL
+18	district	district	NN	_	16	dobj	_	O
+19	last	last	JJ	pos2=RB	20	nmod	_	B-DATE
+20	Aug.#Yemen	aug.#yemen	NNP	pos2=NN	16	npadvmod	_	L-DATE
+

@@ -1,0 +1,29 @@
+1	@TheChuckBo1	@thechuckbo0	NN	pos2=ADD	5	dep	_	O
+2	@WhitestRabbit	@whitestrabbit	ADD	pos2=NN	1	advmod	_	O
+3	_	_	''	pos2=NFP	2	punct	_	O
+4	that	that	DT	pos2=WDT	5	nsubj	_	O
+5	's	's	VBZ	_	0	root	_	O
+6	because	because	IN	_	11	mark	_	O
+7	these	these	DT	_	9	det	_	O
+8	IQ	iq	NN	_	9	compound	_	O
+9	tests	test	NNS	_	11	nsubjpass	_	O
+10	be	be	VB	pos2=VBP	11	auxpass	_	O
+11	made	make	VBN	_	5	advcl	_	O
+12	by	by	IN	_	11	agent	_	O
+13	WHITE	white	JJ	pos2=NNP	14	nmod	_	O
+14	SUPREMACISTS	supremacist	NNS	pos2=NNPS	12	pobj	_	O
+15	!	!	.	_	5	punct	_	O
+
+1	They	they	PRP	_	3	nsubj	_	O
+2	be	be	VB	pos2=VBP	3	aux	_	O
+3	asking	ask	VBG	_	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+
+1	'	'	``	pos2=POS	6	punct	_	O
+2	s	s	AFX	pos2=NN	0	root	_	O
+3	about	about	IN	pos2=JJ	2	prep	_	O
+4	white	white	JJ	_	5	nmod	_	O
+5	peoples	people	NNS	_	3	pobj	_	O
+6	shltheads	shltheads	NNS	pos2=RB	2	vocative	_	O
+7	!	!	.	_	2	punct	_	O
+

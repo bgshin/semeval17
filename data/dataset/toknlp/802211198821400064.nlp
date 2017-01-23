@@ -1,0 +1,21 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	had	have	VBD	_	0	root	_	O
+3	two	#crd#	CD	_	5	nmod	_	U-CARDINAL
+4	con	con	NN	pos2=JJ	5	compound	_	O
+5	men	man	NNS	_	2	dobj	_	O
+6	running	run	VBG	_	5	acl	_	O
+7	in	in	IN	_	6	prep	_	O
+8	2016	0	CD	_	7	pobj	_	U-DATE
+9	,	,	,	_	2	punct	_	O
+10	and	and	CC	_	2	cc	_	O
+11	both	both	DT	_	14	nsubj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	them	them	PRP	_	12	pobj	_	O
+14	were	be	VBD	_	2	conj	_	O
+15	friendly	friendly	JJ	_	14	acomp	_	O
+16	with	with	IN	_	15	prep	_	O
+17	Putin	putin	NNP	_	16	pobj	_	U-PERSON
+18	.	.	.	_	14	punct	_	O
+
+1	https://t.co/4S4OE6p3D5	#hlink#	ADD	_	0	root	_	U-ORG
+

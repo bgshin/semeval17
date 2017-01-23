@@ -1,0 +1,27 @@
+1	@SpeakerRyan	@speakerryan	ADD	pos2=MD	4	nsubj	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	mean	mean	VBP	pos2=VB	4	parataxis	_	O
+4	privatizing	privatize	VBG	_	0	root	_	O
+5	it	it	PRP	_	4	dobj	_	O
+6	,	,	,	_	4	punct	_	O
+7	oh	oh	UH	_	10	discourse	_	O
+8	that	that	DT	_	10	nsubj	_	O
+9	'll	will	MD	_	10	aux	_	O
+10	be	be	VB	_	4	conj	_	O
+11	great	great	JJ	pos2=RB	10	acomp	_	O
+12	,	,	,	_	10	punct	_	O
+13	an	an	DT	_	17	det	_	O
+14	HMO	hmo	NN	pos2=FW	17	nmod	_	O
+15	worthless	worthless	JJ	_	17	nmod	_	O
+16	plastic	plastic	JJ	pos2=NN	17	nmod	_	O
+17	card	card	NN	_	10	conj	_	O
+18	like	like	IN	_	17	prep	_	O
+19	Medicaid	medicaid	NNP	_	18	pobj	_	U-ORG
+20	,	,	,	_	17	punct	_	O
+21	yea	yea	UH	pos2=GW	17	discourse	_	O
+22	u	u	TO	pos2=XX	23	aux	_	O
+23	care	care	NN	pos2=VB	19	appos	_	O
+24	about	about	IN	_	23	prep	_	O
+25	the	the	DT	_	26	det	_	O
+26	vets	vet	NNS	_	24	pobj	_	O
+

@@ -1,0 +1,22 @@
+1	@elizabethforma	@elizabethforma	UH	pos2=NN	0	root	_	O
+2	@HillaryClinton	@hillaryclinton	ADD	pos2=GW	3	cc	_	O
+3	PLEASE	please	UH	_	1	discourse	_	O
+4	!	!	.	_	1	punct	_	O
+
+1	#AuditTheElection	#audittheelection	NN	pos2=NNP	3	nsubj	_	O
+2	ALSO	also	RB	_	3	advmod	_	O
+3	force	force	NN	pos2=VB	0	root	_	O
+4	Trump	trump	NNP	pos2=NN	3	dobj	_	U-ORG
+5	to	to	TO	_	6	aux	_	O
+6	release	release	VB	_	3	xcomp	_	O
+7	his	his	PRP$	_	8	poss	_	O
+8	taxes	tax	NNS	_	6	dobj	_	O
+9	,	,	,	_	12	punct	_	O
+10	that	that	DT	pos2=WDT	12	nsubj	_	O
+11	would	would	MD	_	12	aux	_	O
+12	disqualify	disqualify	VB	_	0	root	_	O
+13	him	him	PRP	_	12	dobj	_	O
+14	from	from	IN	_	12	prep	_	O
+15	Presidency	presidency	NNP	_	14	pobj	_	O
+16	!!	!!	.	_	12	punct	_	O
+

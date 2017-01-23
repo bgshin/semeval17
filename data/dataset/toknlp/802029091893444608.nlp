@@ -1,0 +1,17 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	BET	bet	NN	pos2=NNP	12	ccomp	_	O
+3	special	special	JJ	_	6	nmod	_	O
+4	,	,	,	_	12	punct	_	O
+5	"	"	''	pos2=``	12	punct	_	O
+6	Love	love	NNP	pos2=NN	10	nsubj	_	U-WORK_OF_ART
+7	and	and	CC	_	6	cc	_	O
+8	Happiness	happiness	NNP	pos2=NN	6	conj	_	O
+9	"	"	''	_	12	punct	_	O
+10	celebrating	celebrate	VBG	_	12	csubj	_	O
+11	Obama	obama	NNP	_	10	dobj	_	U-PERSON
+12	is	be	VBZ	_	0	root	_	O
+13	off	off	IN	pos2=RB	12	prep	_	O
+14	the	the	DT	_	16	det	_	O
+15	CHAIN	chain	NN	pos2=NNP	16	compound	_	O
+16	#ThankYouObama	#thankyouobama	NN	pos2=ADD	13	pobj	_	O
+

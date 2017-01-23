@@ -1,0 +1,27 @@
+1	@ANCALERTS	@ancalerts	NNS	pos2=VBZ	2	compound	_	O
+2	@ABSCBNNews	@abscbnnews	NNP	pos2=NNPS	0	root	_	O
+3	Except	except	IN	pos2=NNP	2	prep	_	O
+4	on	on	IN	_	3	prep	_	O
+5	conservative	conservative	JJ	_	6	nmod	_	O
+6	issues	issue	NNS	_	4	pobj	_	O
+7	(	(	-LRB-	_	6	punct	_	O
+8	like	like	IN	pos2=UH	6	prep	_	O
+9	Marcos	marcos	NNP	_	13	compound	_	B-PERSON
+10	burial	burial	NN	_	8	pobj	_	L-PERSON
+11	/	/	SYM	pos2=HYPH	10	punct	_	O
+12	presid'l	presid'l	JJ	pos2=NN	13	nmod	_	O
+13	history	history	NN	_	10	appos	_	O
+14	)	)	-RRB-	_	6	punct	_	O
+15	,	,	,	_	17	punct	_	O
+16	id	id	NN	pos2=NNS	17	nsubj	_	O
+17	say	say	VBP	pos2=VB	0	root	_	O
+18	@sec_judy	@sec_judy	UH	pos2=CD	13	discourse	_	O
+19	,	,	,	_	17	punct	_	O
+20	Ka	ka	NNP	_	21	compound	_	B-PERSON
+21	Paeng	paeng	NNP	_	17	vocative	_	L-PERSON
+22	,	,	,	_	21	punct	_	O
+23	&	&	CC	_	21	cc	_	O
+24	leftists	leftist	NNS	_	21	conj	_	O
+25	in	in	IN	_	24	prep	_	O
+26	govt	govt	NN	_	25	pobj	_	O
+

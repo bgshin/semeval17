@@ -1,0 +1,25 @@
+1	@A_Real_MSmith	@a_real_msmith	DT	pos2=ADD	2	det	_	O
+2	plan	plan	NN	pos2=VB	0	root	_	O
+3	against	against	IN	_	2	prep	_	O
+4	the	the	DT	_	6	det	_	O
+5	coming	come	VBG	pos2=JJ	6	nmod	_	O
+6	horror	horror	NN	_	3	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	climate	climate	NN	pos2=JJ	9	compound	_	O
+9	change	change	NN	_	7	pobj	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	Obama	obama	NNP	pos2=UH	5	nsubj	_	U-PERSON
+2	just	just	RB	_	5	advmod	_	O
+3	this	this	DT	_	4	det	_	O
+4	June	june	NNP	_	5	npadvmod	_	U-DATE
+5	approved	approve	VBD	pos2=VBN	0	root	_	O
+6	1,500	0	CD	_	9	nmod	_	U-CARDINAL
+7	offshore	offshore	JJ	pos2=IN	9	nmod	_	O
+8	fracking	fracking	NN	pos2=VBG	9	compound	_	O
+9	wells	well	NNS	_	5	dobj	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	They	they	PRP	pos2=DT	2	nsubj	_	O
+2	guy	guy	VBP	pos2=NN	0	root	_	O
+

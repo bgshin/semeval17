@@ -1,0 +1,18 @@
+1	Donald	donald	NNP	_	2	compound	_	B-PERSON
+2	Trump	trump	NNP	pos2=NN	4	nsubj	_	L-PERSON
+3	Is	be	VBZ	_	4	aux	_	O
+4	Considering	consider	VBG	_	0	root	_	O
+5	Gutting	gut	VBG	pos2=NNP	4	xcomp	_	O
+6	Medicare	medicare	NNP	_	5	dobj	_	U-ORG
+7	And	and	CC	pos2=NNP	5	cc	_	O
+8	Giving	give	VBG	_	5	conj	_	O
+9	It	it	PRP	_	8	dobj	_	O
+10	To	to	IN	_	8	dative	_	O
+11	Wall	wall	NNP	_	12	compound	_	O
+12	Street	street	NNP	_	10	pobj	_	O
+13	https://t.co/CuDiqk660K	#hlink#	ADD	pos2=NNP	8	dative	_	O
+14	#topprog	#topprog	-RRB-	pos2=IN	13	punct	_	O
+15	#libcrib	#libcrib	UH	pos2=-RRB-	8	discourse	_	O
+16	#NeverTrump	#nevertrump	ADD	pos2=XX	8	dative	_	O
+17	#uniteblue	#uniteblue	UH	pos2=NN	8	dobj	_	O
+

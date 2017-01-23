@@ -1,0 +1,29 @@
+1	@nia4_trump	@nia0_trump	NN	pos2=LS	2	compound	_	O
+2	@trump2016fan	@trump0fan	NN	pos2=NNP	8	dep	_	O
+3	lol	lol	UH	_	2	discourse	_	O
+4	,	,	,	_	8	punct	_	O
+5	yea	yea	UH	_	8	discourse	_	O
+6	I	I	PRP	_	8	nsubj	_	O
+7	'll	will	MD	_	8	aux	_	O
+8	take	take	VB	_	0	root	_	O
+9	a	a	DT	_	11	det	_	O
+10	republican	republican	JJ	_	11	nmod	_	U-NORP
+11	president	president	NN	_	8	dobj	_	O
+12	for	for	IN	_	8	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	rest	rest	NN	_	12	pobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	my	my	PRP$	_	17	poss	_	O
+17	life	life	NN	_	15	pobj	_	O
+18	!!!	!!	.	_	8	punct	_	O
+
+1	Dems	dems	NNPS	pos2=NNS	4	nsubj	_	U-NORP
+2	will	will	MD	_	4	aux	_	O
+3	never	never	RB	_	4	neg	_	O
+4	win	win	VB	_	0	root	_	O
+5	again	again	RB	_	4	advmod	_	O
+6	,	,	,	_	9	punct	_	O
+7	Islam	islam	NNP	_	9	nsubj	_	O
+8	=	=	SYM	pos2=POS	9	punct	_	O
+9	terror	terror	NN	_	4	dobj	_	O
+

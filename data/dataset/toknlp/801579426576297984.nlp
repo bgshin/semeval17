@@ -1,0 +1,14 @@
+1	@westonve	@westonve	UH	pos2=NN	7	discourse	_	O
+2	and	and	CC	_	7	cc	_	O
+3	you	you	PRP	pos2=PRP$	7	nsubj	_	O
+4	Alt	alt	NNP	pos2=JJ	6	compound	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	rightists	rightist	NNS	pos2=NNPS	3	appos	_	O
+7	are	be	VBP	_	0	root	_	O
+8	what	what	WP	_	9	nsubj	_	O
+9	's	's	VBZ	pos2=AFX	7	ccomp	_	O
+10	wrong	wrong	JJ	_	9	acomp	_	O
+11	with	with	IN	_	10	prep	_	O
+12	your	your	PRP$	_	13	poss	_	O
+13	country	country	NN	_	11	pobj	_	O
+

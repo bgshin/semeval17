@@ -1,0 +1,12 @@
+1	#BlackFriday	#blackfriday	NN	pos2=UH	0	root	_	O
+2	so	so	RB	_	3	advmod	_	O
+3	glad	glad	JJ	_	1	nmod	_	O
+4	to	to	TO	_	5	aux	_	O
+5	see	see	VB	_	3	xcomp	_	O
+6	all	all	PDT	_	10	predet	_	O
+7	the	the	DT	_	10	det	_	O
+8	discouncted	discouncted	VBN	pos2=JJ	10	nmod	_	O
+9	#Furbys	#furbys	NNS	pos2=NNPS	10	compound	_	O
+10	#Hatchimals	#hatchimals	NNS	pos2=ADD	5	dobj	_	O
+11	.	.	.	_	1	punct	_	O
+

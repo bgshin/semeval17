@@ -1,0 +1,19 @@
+1	Galaxy	galaxy	NNP	pos2=NN	2	compound	_	O
+2	Note	note	NN	pos2=VBP	9	nsubj	_	O
+3	4	0	CD	_	2	nmod	_	U-CARDINAL
+4	On	on	IN	_	2	prep	_	O
+5	A	a	DT	pos2=NNP	6	det	_	O
+6	Note	note	NN	pos2=VB	4	pobj	_	O
+7	7	0	CD	_	8	nmod	_	U-CARDINAL
+8	ROM	rom	NN	pos2=NNP	9	nsubj	_	O
+9	Gets	get	VBZ	_	0	root	_	O
+10	Samsung	samsung	NNP	_	12	poss	_	U-ORG
+11	's	's	POS	_	10	case	_	O
+12	Recall	recall	NNP	pos2=GW	14	nmod	_	O
+13	Prompt	prompt	JJ	pos2=NNP	14	nmod	_	O
+14	https://t.co/xRLxF5SAuq	#hlink#	ADD	pos2=NN	9	dobj	_	O
+15	#trends	#trends	VBZ	pos2=NNS	9	conj	_	O
+16	#motivation	#motivation	NN	pos2=UH	18	nmod	_	O
+17	#tsu	#tsu	UH	pos2=XX	18	discourse	_	O
+18	@jimi1010	@jimi0	NN	pos2=.	15	dobj	_	O
+

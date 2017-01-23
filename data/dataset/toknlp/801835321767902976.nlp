@@ -1,0 +1,34 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	tried	try	VBD	_	0	root	_	O
+3	HTC	htc	NNP	pos2=FW	6	nmod	_	U-ORG
+4	vive	vive	FW	pos2=IN	6	nmod	_	O
+5	VR	vr	NNP	pos2=NN	6	compound	_	U-ORG
+6	headset	headset	NN	_	2	dobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	google	google	NNP	pos2=JJ	9	compound	_	O
+9	earth	earth	NN	_	10	compound	_	O
+10	VR	vr	NNP	pos2=NN	6	conj	_	U-ORG
+11	,	,	,	_	13	punct	_	O
+12	then	then	RB	_	13	advmod	_	O
+13	painted	paint	VBD	pos2=VBN	2	dep	_	O
+14	using	use	VBG	_	13	advcl	_	O
+15	Tilt	tilt	NNP	pos2=NN	16	compound	_	O
+16	Brush	brush	NNP	pos2=NN	14	dobj	_	O
+17	.	.	.	_	2	punct	_	O
+
+1	Holy	holy	NNP	pos2=JJ	2	compound	_	B-PERSON
+2	Cow	cow	NNP	pos2=NN	0	root	_	L-PERSON
+3	!	!	.	_	2	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	did	do	VBD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	want	want	VB	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	get	get	VB	_	4	xcomp	_	O
+7	out	out	IN	_	6	prep	_	O
+8	of	of	IN	_	7	prep	_	O
+9	that	that	DT	_	10	det	_	O
+10	world	world	NN	_	8	pobj	_	O
+11	!	!	.	_	4	punct	_	O
+

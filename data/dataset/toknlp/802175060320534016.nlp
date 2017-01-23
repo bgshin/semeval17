@@ -1,0 +1,25 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	woke	wake	VBD	pos2=VBP	0	root	_	O
+3	up	up	RP	_	2	prt	_	O
+4	today	today	NN	_	2	npadvmod	_	U-DATE
+5	in	in	IN	_	2	prep	_	O
+6	my	my	PRP$	_	7	poss	_	O
+7	cousins	cousin	NNS	_	8	compound	_	O
+8	house	house	NN	pos2=VBP	5	pobj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	see	see	VB	_	2	advcl	_	O
+11	a	a	DT	_	14	det	_	O
+12	ONE	#crd#	CD	_	13	nmod	_	U-CARDINAL
+13	DIRECTION	direction	NN	_	14	compound	_	O
+14	blanket	blanket	NN	_	10	dobj	_	O
+15	is	be	VBZ	_	16	auxpass	_	O
+16	wrapped	wrap	VBN	_	13	relcl	_	O
+17	around	around	IN	_	16	prep	_	O
+18	my	my	PRP$	_	19	poss	_	O
+19	body	body	NN	_	17	pobj	_	O
+20	.	.	.	_	2	punct	_	O
+
+1	#OneDirection	#onedirection	GW	pos2=NN	3	nmod	_	O
+2	#MPN	#mpn	GW	pos2=ADD	3	nmod	_	O
+3	https://t.co/xuhO2EMTZT	#hlink#	ADD	pos2=NN	0	root	_	O
+

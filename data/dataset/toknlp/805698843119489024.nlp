@@ -1,0 +1,27 @@
+1	@Barnaby_Joyce	@barnaby_joyce	NN	pos2=NNP	4	compound	_	O
+2	-	-	HYPH	pos2=:	4	punct	_	O
+3	Martin	martin	NNP	_	4	compound	_	B-PERSON
+4	Bryant	bryant	NNP	_	6	poss	_	I-PERSON
+5	's	's	POS	_	4	case	_	L-PERSON
+6	weapons	weapon	NNS	pos2=NNPS	13	nsubjpass	_	O
+7	&	&	CC	_	6	cc	_	O
+8	ammo	ammo	NN	_	6	conj	_	O
+9	'	'	''	pos2=NNS	1	punct	_	O
+10	were	be	VBD	_	13	auxpass	_	O
+11	all	all	DT	pos2=RB	13	dep	_	O
+12	legally	legally	RB	_	13	advmod	_	O
+13	obtained	obtain	VBN	_	0	root	_	O
+14	.	.	.	_	13	punct	_	O
+
+1	PM	pm	NN	pos2=NNP	2	compound	_	O
+2	Howard	howard	NNP	_	3	nsubj	_	U-PERSON
+3	gave	give	VBD	_	0	root	_	O
+4	us	us	PRP	_	3	dative	_	O
+5	strong	strong	JJ	_	8	nmod	_	O
+6	gun	gun	NN	_	7	compound	_	O
+7	control	control	NN	_	8	compound	_	O
+8	laws	law	NNS	_	3	dobj	_	O
+9	#Nationals	#nationals	VBZ	pos2=WDT	8	acl	_	O
+10	trash	trash	VB	pos2=VBP	9	xcomp	_	O
+11	them	them	PRP	_	10	dobj	_	O
+

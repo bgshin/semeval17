@@ -1,0 +1,10 @@
+1	Call	call	VB	pos2=NN	0	root	_	O
+2	For	for	IN	_	6	mark	_	O
+3	Philippines	philippines	NNP	pos2=NNPS	6	nsubj	_	U-GPE
+4	To	to	TO	pos2=IN	6	aux	_	O
+5	Not	not	RB	pos2=NNP	6	neg	_	O
+6	Reinstate	reinstate	VB	_	1	advcl	_	O
+7	Death	death	NN	pos2=NNP	8	compound	_	O
+8	Penalty	penalty	NN	pos2=NNP	6	dobj	_	O
+9	https://t.co/xPNvleF4hv	#hlink#	ADD	pos2=NN	8	appos	_	O
+

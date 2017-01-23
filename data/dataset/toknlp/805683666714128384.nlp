@@ -1,0 +1,24 @@
+1	speak	speak	VB	pos2=VBP	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	truth	truth	NN	_	1	dobj	_	O
+4	even	even	RB	_	8	advmod	_	O
+5	though	though	IN	_	1	advmod	_	O
+6	if	if	IN	_	7	mark	_	O
+7	its	its	PRP$	_	8	nsubj	_	O
+8	leading	lead	VBG	pos2=NN	3	appos	_	O
+9	to	to	IN	_	8	prep	_	O
+10	death	death	NN	_	11	compound	_	O
+11	penalty	penalty	NN	_	9	pobj	_	O
+12	.	.	.	_	1	punct	_	O
+
+1	cause	cause	VB	pos2=IN	0	root	_	O
+2	nothing	nothing	NN	_	4	nsubj	_	O
+3	will	will	MD	_	4	aux	_	O
+4	set	set	VB	_	1	ccomp	_	O
+5	you	you	PRP	_	4	dobj	_	O
+6	free	free	JJ	_	4	advcl	_	O
+7	except	except	IN	_	4	prep	_	O
+8	THE	the	DT	_	9	det	_	O
+9	TRUTH	truth	NN	_	7	pobj	_	O
+10	.	.	.	_	1	punct	_	O
+

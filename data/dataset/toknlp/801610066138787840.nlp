@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det	_	O
+2	left	left	NN	pos2=JJ	5	nsubj	_	O
+3	has	have	VBZ	_	5	aux	_	O
+4	really	really	RB	_	5	advmod	_	O
+5	gone	go	VBN	_	0	root	_	O
+6	Full	full	JJ	_	7	nmod	_	O
+7	retard	retard	NN	pos2=VB	5	npadvmod	_	O
+8	have	have	VBP	_	5	advcl	_	O
+9	n't	not	RB	_	8	neg	_	O
+10	they	they	PRP	_	8	nsubj	_	O
+11	?	?	.	_	8	punct	_	O
+
+1	https://t.co/K3Fah0jVMa	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,20 @@
+1	Anyone	anyone	NN	_	0	root	_	O
+2	who	who	WP	_	3	nsubj	_	O
+3	thinks	think	VBZ	_	1	relcl	_	O
+4	OTW	otw	NNP	pos2=NN	5	nsubj	_	U-ORG
+5	is	be	VBZ	_	3	ccomp	_	O
+6	a	a	DT	_	10	det	_	O
+7	black	black	JJ	pos2=NN	9	advmod	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	hearted	hearted	JJ	pos2=VBN	10	nmod	_	O
+10	ghoul	ghoul	NN	_	5	attr	_	O
+11	.	.	.	_	1	punct	_	O
+
+1	#ACA	#aca	NN	pos2=ADD	2	compound	_	B-PERSON
+2	#Obamacare	#obamacare	NNP	pos2=VBP	7	dep	_	L-PERSON
+3	#fixit	#fixit	UH	pos2=VBD	7	dep	_	O
+4	#haveaheart	#haveaheart	UH	pos2=IN	7	discourse	_	O
+5	#prolife	#prolife	UH	pos2=FW	7	discourse	_	O
+6	#trump	#trump	UH	pos2=ADD	7	discourse	_	O
+7	https://t.co/kAIAcTal43	#hlink#	ADD	pos2=UH	0	root	_	O
+

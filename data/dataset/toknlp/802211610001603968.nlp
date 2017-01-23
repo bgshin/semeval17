@@ -1,0 +1,18 @@
+1	Israel	israel	NNP	_	4	poss	_	U-GPE
+2	's	's	POS	pos2=VBZ	1	case	_	O
+3	New	new	NNP	pos2=JJ	4	compound	_	O
+4	Racism	racism	NN	pos2=NNP	6	dep	_	O
+5	:	:	:	_	6	punct	_	O
+6	Persecution	persecution	NN	_	0	root	_	O
+7	of	of	IN	_	6	prep	_	O
+8	African	african	JJ	pos2=NNP	9	nmod	_	U-NORP
+9	Migrants	migrant	NNS	pos2=NNPS	7	pobj	_	O
+10	in	in	IN	_	9	prep	_	O
+11	Holy	holy	NNP	pos2=JJ	12	compound	_	B-GPE
+12	Land	land	NNP	pos2=NN	10	pobj	_	L-GPE
+13	https://t.co/y8h13SRKbo	#hlink#	ADD	pos2=NNP	17	nmod	_	O
+14	#gaza	#gaza	-RRB-	pos2=IN	13	punct	_	O
+15	#palestine	#palestine	UH	pos2=PRP	6	discourse	_	O
+16	#israel	#israel	UH	pos2=VB	17	discourse	_	O
+17	#BDS	#bds	NNS	pos2=UH	6	appos	_	O
+

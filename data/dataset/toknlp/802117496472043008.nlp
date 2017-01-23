@@ -1,0 +1,15 @@
+1	@VoucherAngels	@voucherangels	NNS	pos2=ADD	2	compound	_	O
+2	#Hatchimals	#hatchimals	NNS	pos2=PRP	4	nsubj	_	O
+3	would	would	MD	_	4	aux	_	O
+4	melt	melt	VB	_	0	root	_	O
+5	his	his	PRP$	_	6	poss	_	O
+6	heart	heart	NN	_	4	dobj	_	O
+7	...	..	.	pos2=,	4	punct	_	O
+
+1	and	and	CC	_	2	cc	_	O
+2	mine	mine	NN	pos2=PRP	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	X	x	SYM	pos2=NN	2	punct	_	O
+2	https://t.co/Exhq8jODHt	#hlink#	ADD	pos2=NN	0	root	_	O
+

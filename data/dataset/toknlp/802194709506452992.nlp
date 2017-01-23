@@ -1,0 +1,14 @@
+1	Valentines	valentines	NNP	pos2=NNS	4	compound	_	B-ORG
+2	Lace	lace	NNP	pos2=NN	4	compound	_	I-ORG
+3	Teddy	teddy	NNP	_	4	compound	_	I-ORG
+4	Open	open	NNP	_	13	dep	_	I-ORG
+5	Back	back	RB	pos2=NNP	4	advmod	_	I-ORG
+6	&	&	CC	_	4	cc	_	I-ORG
+7	Garters	garter	NNPS	pos2=NNP	4	conj	_	I-ORG
+8	Red	red	NNP	pos2=JJ	11	compound	_	I-ORG
+9	L	l	NNP	pos2=NN	13	dep	_	I-ORG
+10	/	/	HYPH	pos2=SYM	13	punct	_	I-ORG
+11	XL	xl	NNP	pos2=GW	13	nmod	_	L-ORG
+12	https://t.co/Ev1Lmaom7H	#hlink#	ADD	_	13	nmod	_	O
+13	https://t.co/Dr6F1CxK3y	#hlink#	ADD	_	0	root	_	U-ORG
+

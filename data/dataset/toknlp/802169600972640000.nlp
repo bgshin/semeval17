@@ -1,0 +1,21 @@
+1	Steve	steve	NNP	_	2	compound	_	B-PERSON
+2	Bannon	bannon	NNP	_	5	poss	_	I-PERSON
+3	’s	's	POS	_	2	case	_	L-PERSON
+4	First	#ord#	NNP	pos2=JJ	5	compound	_	O
+5	Pick	pick	NNP	pos2=NN	11	nsubj	_	O
+6	For	for	IN	_	5	prep	_	O
+7	President	president	NNP	_	9	compound	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	POLITICO	politico	NNP	pos2=NN	6	pobj	_	O
+10	//	//	SYM	pos2=NFP	11	punct	_	O
+11	hold	hold	VB	_	18	ccomp	_	O
+12	on	on	RP	_	11	prt	_	O
+13	to	to	IN	_	11	prep	_	O
+14	your	your	PRP$	_	15	poss	_	O
+15	seats	seat	NNS	_	13	pobj	_	O
+16	:	:	:	_	18	punct	_	O
+17	it	it	PRP	_	18	nsubj	_	O
+18	's	's	VBZ	pos2=GW	0	root	_	O
+19	@SarahPalinUSA	@sarahpalinusa	GW	pos2=ADD	20	nmod	_	U-NORP
+20	https://t.co/Wo0Z6uuLS0	#hlink#	ADD	_	18	attr	_	O
+

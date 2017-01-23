@@ -1,0 +1,17 @@
+1	Is	be	VBZ	_	0	root	_	O
+2	that	that	DT	_	3	det	_	O
+3	possible!#USA	possible!#usa	NN	pos2=ADD	4	nsubj	_	O
+4	helps	help	VBZ	_	1	ccomp	_	O
+5	#Iran	#iran	NNP	pos2=VB	4	dobj	_	B-ORG
+6	&	&	CC	_	5	cc	_	I-ORG
+7	#Houthi	#houthi	NNP	pos2=NN	5	conj	_	L-ORG
+8	to	to	TO	_	9	aux	_	O
+9	strike	strike	VB	_	4	xcomp	_	O
+10	#KSA	#ksa	NNP	pos2=NN	9	dobj	_	B-ORG
+11	&	&	CC	_	10	cc	_	I-ORG
+12	#Yemen	#yemen	NNP	pos2=NNS	10	conj	_	L-ORG
+13	?	?	.	_	1	punct	_	O
+
+1	**********	**	SYM	pos2=NFP	2	punct	_	O
+2	https://t.co/KPbV8xm5Nn	#hlink#	ADD	pos2=NN	0	root	_	O
+

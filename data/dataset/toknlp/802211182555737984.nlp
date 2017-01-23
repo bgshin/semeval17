@@ -1,0 +1,23 @@
+1	#NeilPrakash	#neilprakash	UH	pos2=NN	11	discourse	_	O
+2	,	,	,	_	11	punct	_	O
+3	#Australia	#australia	NNP	pos2=NNS	8	poss	_	U-ORG
+4	's	's	POS	_	3	case	_	O
+5	most	most	RBS	pos2=JJS	6	advmod	_	O
+6	senior	senior	JJ	_	8	nmod	_	O
+7	#ISIS	#isis	NN	pos2=NNP	8	compound	_	O
+8	recruiter	recruiter	NN	_	11	nsubjpass	_	O
+9	has	have	VBZ	_	11	aux	_	O
+10	been	be	VBN	_	11	auxpass	_	O
+11	arrested	arrest	VBN	_	0	root	_	O
+12	in	in	IN	_	11	prep	_	O
+13	the	the	DT	_	15	det	_	B-LOC
+14	Middle	middle	NNP	_	15	compound	_	I-LOC
+15	East	east	NNP	_	12	pobj	_	L-LOC
+16	,	,	,	_	11	punct	_	O
+17	months	month	NNS	_	18	npadvmod	_	U-DATE
+18	after	after	IN	pos2=RB	13	nsubj	_	O
+19	the	the	DT	_	18	pobj	_	O
+20	...	..	.	pos2=,	11	punct	_	O
+
+1	https://t.co/AkkaVToR1k	#hlink#	ADD	_	0	root	_	U-ORG
+

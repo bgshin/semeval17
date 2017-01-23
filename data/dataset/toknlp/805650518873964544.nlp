@@ -1,0 +1,21 @@
+1	Voter	voter	NN	_	2	compound	_	O
+2	registration	registration	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	on	on	IN	pos2=RB	3	prep	_	O
+5	-	-	HYPH	_	4	punct	_	O
+6	going	go	VBG	pos2=JJ	4	pobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	Tweet	tweet	NN	pos2=VB	2	compound	_	O
+2	@IEBCKenya	@iebckenya	NN	pos2=RP	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	directions	direction	NNS	_	3	pobj	_	O
+5	to	to	IN	pos2=TO	4	prep	_	O
+6	where	where	WRB	_	9	advmod	_	O
+7	you	you	PRP	_	9	nsubj	_	O
+8	can	can	MD	_	9	aux	_	O
+9	register	register	VB	_	5	pcomp	_	O
+10	in	in	IN	_	9	prep	_	O
+11	your	your	PRP$	_	12	poss	_	O
+12	constituency#NiShowPower	constituency#nishowpower	NN	pos2=NNS	10	pobj	_	U-DATE
+

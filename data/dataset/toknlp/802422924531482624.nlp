@@ -1,0 +1,18 @@
+1	@Matthew4300	@matthew0	NN	pos2=NNS	6	dep	_	O
+2	u	u	PRP	pos2=NNP	6	nsubj	_	O
+3	did	do	VBD	_	6	aux	_	O
+4	nt	nt	RB	_	6	advmod	_	O
+5	even	even	RB	_	6	advmod	_	O
+6	watch	watch	VB	pos2=VBP	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	video	video	NN	_	6	dobj	_	O
+9	The	the	DT	pos2=NNP	10	det	_	O
+10	Untruth	untruth	NNP	pos2=NN	8	appos	_	O
+11	About	about	IN	pos2=NNP	10	prep	_	O
+12	Steve	steve	NNP	_	13	compound	_	B-PERSON
+13	Ba	ba	NNP	pos2=GW	11	pobj	_	L-PERSON
+14	nnonhttps://t.co/FQ6dQM8w6owalk	#hlink#	ADD	pos2=NN	13	appos	_	O
+15	in	in	IN	_	14	prep	_	O
+16	peace	peace	NN	_	15	pobj	_	O
+17	https://t.co/DMkvge2YqY	#hlink#	ADD	pos2=NN	15	pobj	_	O
+

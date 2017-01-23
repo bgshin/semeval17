@@ -1,0 +1,23 @@
+1	Screenshot	screenshot	NN	_	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	Luis	luis	NNP	_	4	compound	_	B-PERSON
+4	Enrique	enrique	NNP	_	6	nsubj	_	L-PERSON
+5	has	have	VBZ	_	6	aux	_	O
+6	given	give	VBN	_	0	root	_	O
+7	debut	debut	NN	_	6	dobj	_	O
+8	to	to	IN	_	6	prep	_	O
+9	11	0	CD	_	12	nmod	_	U-CARDINAL
+10	Barca	barca	NNP	_	12	compound	_	O
+11	B	b	NN	pos2=NNP	12	compound	_	O
+12	players	player	NNS	_	8	pobj	_	O
+13	since	since	IN	_	6	prep	_	O
+14	taking	take	VBG	_	13	pcomp	_	O
+15	over	over	RP	pos2=RB	14	prt	_	O
+16	in	in	IN	_	14	prep	_	O
+17	2014	0	CD	_	18	nmod	_	U-DATE
+18	#fcblive	#fcblive	NN	pos2=NNS	16	pobj	_	O
+19	[	[	-LRB-	_	20	punct	_	O
+20	sport	sport	NN	_	22	dep	_	O
+21	]	]	-RRB-	_	20	punct	_	O
+22	https://t.co/xsUXoFywgB	#hlink#	ADD	_	6	dep	_	O
+

@@ -1,0 +1,25 @@
+1	@DataLogicTruth	@datalogictruth	ADD	pos2=NN	0	root	_	O
+2	@VanJones68	@vanjones0	NN	pos2=CC	1	pobj	_	O
+3	where	where	WRB	_	4	advmod	_	O
+4	is	be	VBZ	_	2	relcl	_	O
+5	the	the	DT	_	6	det	_	O
+6	FBI	fbi	NNP	_	4	nsubj	_	U-ORG
+7	on	on	IN	_	4	prep	_	O
+8	this	this	DT	_	7	pobj	_	O
+9	and	and	CC	_	4	cc	_	O
+10	why	why	WRB	_	14	advmod	_	O
+11	is	be	VBZ	_	14	auxpass	_	O
+12	trump	trump	NN	pos2=FW	14	nsubjpass	_	O
+13	not	not	RB	_	14	neg	_	O
+14	questioned	question	VBN	pos2=VB	4	conj	_	O
+15	on	on	IN	_	14	prep	_	O
+16	his	his	PRP$	_	17	poss	_	O
+17	participation	participation	NN	_	15	pobj	_	O
+18	w	w	IN	_	17	prep	_	O
+19	/	/	HYPH	_	18	punct	_	O
+20	Cuba	cuba	NNP	_	18	pobj	_	U-GPE
+21	during	during	IN	_	14	prep	_	O
+22	an	an	DT	_	23	det	_	O
+23	embargo	embargo	NN	_	21	pobj	_	O
+24	?	?	.	_	14	punct	_	O
+

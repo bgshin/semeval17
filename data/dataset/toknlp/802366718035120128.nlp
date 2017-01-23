@@ -1,0 +1,27 @@
+1	Rock	rock	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Princess	princess	NNP	pos2=NN	4	vocative	_	L-PERSON
+3	;	;	,	pos2=:	4	punct	_	O
+4	Let	let	VB	pos2=NNP	0	root	_	O
+5	's	's	PRP	_	6	nsubj	_	O
+6	Keep	keep	VB	_	4	ccomp	_	O
+7	This	this	DT	_	8	det	_	O
+8	Secret	secret	NNP	pos2=JJ	6	dobj	_	O
+9	2	0	CD	_	8	nmod	_	U-CARDINAL
+10	Ourselves	ourselves	PRP	pos2=NNPS	6	npadvmod	_	O
+11	;	;	:	pos2=,	14	punct	_	O
+12	DO	do	VB	_	14	aux	_	O
+13	N'T	not	RB	pos2=NNP	14	neg	_	O
+14	Tell	tell	VB	_	26	advcl	_	O
+15	Loony	loony	JJ	pos2=NNP	16	nmod	_	O
+16	Leftists	leftist	NNPS	pos2=NNS	14	dobj	_	U-NORP
+17	That	that	IN	_	21	mark	_	O
+18	They	they	PRP	pos2=NNP	21	nsubj	_	O
+19	Could	could	MD	_	21	aux	_	O
+20	've	have	VB	pos2=VBP	21	aux	_	O
+21	Bought	buy	VBN	_	14	ccomp	_	O
+22	,	,	,	_	26	punct	_	O
+23	Lots	lot	NNS	pos2=NNPS	26	nsubj	_	O
+24	Of	of	IN	pos2=GW	23	prep	_	O
+25	…	…	NFP	pos2=RB	24	pobj	_	O
+26	https://t.co/ZvDNCyuy19	#hlink#	ADD	_	0	root	_	O
+

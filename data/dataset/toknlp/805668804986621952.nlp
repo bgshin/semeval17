@@ -1,0 +1,23 @@
+1	@aronftaylor	@aronftaylor	NNP	pos2=IN	2	compound	_	B-PERSON
+2	Farron	farron	NNP	_	3	nsubj	_	L-PERSON
+3	disgusts	disgust	VBZ	_	18	ccomp	_	O
+4	me	me	PRP	_	3	dobj	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	voted	vote	VBD	_	3	ccomp	_	O
+7	Brexit	brexit	NNP	_	6	dobj	_	U-ORG
+8	for	for	IN	_	6	prep	_	O
+9	a	a	DT	_	12	det	_	O
+10	much	much	RB	_	11	advmod	_	O
+11	brighter	bright	JJR	_	12	nmod	_	O
+12	future	future	NN	pos2=JJ	8	pobj	_	O
+13	for	for	IN	_	12	prep	_	O
+14	our	our	PRP$	_	16	poss	_	O
+15	young	young	JJ	_	16	nmod	_	O
+16	people	people	NNS	_	13	pobj	_	O
+17	I	I	PRP	_	18	nsubj	_	O
+18	voted	vote	VBD	_	0	root	_	O
+19	#Brexit	#brexit	PRP	pos2=NNP	18	dobj	_	U-CARDINAL
+20	@timfarron	@timfarron	TO	pos2=MD	21	aux	_	O
+21	respect	respect	NN	pos2=VB	18	xcomp	_	O
+22	democracy	democracy	NN	_	21	dobj	_	O
+

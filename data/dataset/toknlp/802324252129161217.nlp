@@ -1,0 +1,33 @@
+1	So	so	RB	_	2	advmod	_	O
+2	many	many	JJ	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	the	the	DT	_	6	det	_	O
+5	6	0	CD	_	6	nmod	_	U-CARDINAL
+6	Cs	cs	NNP	pos2=NNS	3	pobj	_	U-PRODUCT
+7	and	and	CC	_	6	cc	_	O
+8	such	such	JJ	_	10	nmod	_	O
+9	deep	deep	JJ	pos2=NN	10	nmod	_	O
+10	learning	learning	NN	pos2=VBG	6	conj	_	O
+11	happening	happen	VBG	_	10	acl	_	O
+12	during	during	IN	_	11	prep	_	O
+13	"	"	``	_	16	punct	_	O
+14	Free	free	NNP	pos2=JJ	15	compound	_	B-WORK_OF_ART
+15	Choice	choice	NNP	pos2=NN	16	compound	_	I-WORK_OF_ART
+16	Friday	friday	NNP	_	12	pobj	_	I-WORK_OF_ART
+17	"	"	''	_	16	punct	_	L-WORK_OF_ART
+18	.	.	.	_	2	punct	_	O
+
+1	Ask	ask	VB	_	0	root	_	O
+2	me	me	PRP	_	1	dobj	_	O
+3	what	what	WP	_	5	dobj	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	did	do	VBD	_	1	ccomp	_	O
+6	,	,	,	_	13	punct	_	O
+7	how	how	WRB	_	9	advmod	_	O
+8	I	I	PRP	_	9	nsubj	_	O
+9	did	do	VBD	_	13	dep	_	O
+10	it	it	PRP	_	9	dobj	_	O
+11	a	a	DT	_	12	det	_	O
+12	…	…	NFP	pos2=:	13	punct	_	O
+13	https://t.co/co1CrUTNZ0	#hlink#	ADD	pos2=NN	1	dep	_	O
+

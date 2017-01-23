@@ -1,0 +1,24 @@
+1	@hayek	@hayek	UH	pos2=XX	3	discourse	_	O
+2	How	how	WRB	_	3	advmod	_	O
+3	are	be	VBP	_	6	aux	_	O
+4	you	you	PRP	_	6	nsubj	_	O
+5	still	still	RB	_	6	advmod	_	O
+6	pretending	pretend	VBG	_	0	root	_	O
+7	there	there	EX	pos2=RB	8	expl	_	O
+8	's	's	VBZ	_	6	ccomp	_	O
+9	a	a	DT	_	11	det	_	O
+10	gold	gold	NN	pos2=JJ	11	compound	_	O
+11	standard	standard	NN	pos2=JJ	8	attr	_	O
+12	?	?	.	_	6	punct	_	O
+
+1	Are	be	VBP	_	0	root	_	O
+2	n't	not	RB	_	1	neg	_	O
+3	you	you	PRP	_	1	nsubj	_	O
+4	ashamed	ashamed	JJ	_	1	acomp	_	O
+5	?	?	.	_	1	punct	_	O
+
+1	@nuwriter	@nuwriter	UH	pos2=NN	4	discourse	_	O
+2	@Leibowitz1987	@leibowitz0	NN	pos2=CD	1	vocative	_	O
+3	@RayPensador	@raypensador	ADD	pos2=XX	0	root	_	O
+4	@InsanityIsFree	@insanityisfree	ADD	pos2=UH	3	pobj	_	O
+

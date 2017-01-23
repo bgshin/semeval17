@@ -1,0 +1,8 @@
+1	want	want	VB	pos2=VBP	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	watch	watch	VB	_	1	xcomp	_	O
+4	!!!!!!!!!!!!!!!!!	!!	.	_	1	punct	_	O
+
+1	#WestWorld	#westworld	NN	pos2=ADD	2	compound	_	O
+2	#WestworldFinale	#westworldfinale	NN	pos2=ADD	0	root	_	O
+

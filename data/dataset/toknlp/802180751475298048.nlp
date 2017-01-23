@@ -1,0 +1,17 @@
+1	Governments	government	NNS	_	4	vocative	_	O
+2	,	,	,	_	4	punct	_	O
+3	media	medium	NNS	pos2=NN	4	nsubj	_	O
+4	combine	combine	VBP	pos2=NN	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	support	support	VB	_	4	advcl	_	O
+7	Israel	israel	NNP	_	10	poss	_	U-GPE
+8	's	's	POS	_	7	case	_	O
+9	mythical	mythical	JJ	_	10	nmod	_	O
+10	kingdom	kingdom	NN	_	6	dobj	_	O
+11	https://t.co/dV3kfMRTAX	#hlink#	ADD	_	10	appos	_	O
+12	#gaza	#gaza	IN	pos2=-RRB-	6	prep	_	O
+13	#palestine	#palestine	UH	pos2=PRP	12	discourse	_	O
+14	#israel	#israel	UH	pos2=FW	12	discourse	_	O
+15	#jerusalem	#jerusalem	UH	pos2=PRP	12	discourse	_	O
+16	#BDS	#bds	NNS	pos2=UH	12	pobj	_	O
+

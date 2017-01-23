@@ -1,0 +1,15 @@
+1	visionary	visionary	JJ	_	3	nmod	_	O
+2	tesla	tesla	NN	_	3	compound	_	O
+3	model	model	NN	_	0	root	_	O
+4	x	x	SYM	pos2=XX	5	punct	_	O
+5	xbox	xbox	NN	pos2=XX	3	prep	_	O
+6	one	#crd#	CD	pos2=NN	5	nmod	_	U-CARDINAL
+7	s	s	POS	pos2=NN	5	case	_	O
+8	usb	usb	NN	_	9	compound	_	O
+9	type	type	NN	_	12	compound	_	O
+10	c	c	NN	pos2=CD	12	compound	_	O
+11	a10	a0	NN	pos2=CD	12	compound	_	O
+12	fusion	fusion	NN	_	3	appos	_	O
+13	🍆	🍆	WDT	pos2=CD	14	det	_	O
+14	🍆	🍆	NN	pos2=.	3	appos	_	O
+

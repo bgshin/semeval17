@@ -1,0 +1,22 @@
+1	There	there	EX	_	3	expl	_	O
+2	could	could	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	a	a	DT	_	5	qmod	_	B-CARDINAL
+5	thousand	#crd#	CD	_	8	nmod	_	L-CARDINAL
+6	more	more	JJR	_	5	qmod	_	O
+7	Hairspray	hairspray	NNP	pos2=NN	8	compound	_	O
+8	remakes	remake	NNS	_	3	attr	_	O
+9	,	,	,	_	3	punct	_	O
+10	and	and	CC	_	3	cc	_	O
+11	I	I	PRP	_	14	nsubj	_	O
+12	will	will	MD	_	14	aux	_	O
+13	still	still	RB	_	14	advmod	_	O
+14	like	like	VB	pos2=IN	3	conj	_	O
+15	the	the	DT	_	16	det	_	O
+16	one	#crd#	NN	pos2=CD	14	dobj	_	O
+17	with	with	IN	_	16	prep	_	O
+18	Zac	zac	NNP	_	19	compound	_	B-PERSON
+19	Efron	efron	NNP	_	17	pobj	_	L-PERSON
+20	better	good	JJR	pos2=RBR	14	advmod	_	O
+21	.	.	.	_	14	punct	_	O
+

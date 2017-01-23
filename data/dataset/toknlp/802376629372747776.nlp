@@ -1,0 +1,28 @@
+1	!!!	!!	.	pos2=SYM	0	predet	_	O
+
+1	THIS	this	DT	_	2	nsubj	_	O
+2	IS	be	VBZ	_	0	root	_	O
+3	The	the	DT	_	4	det	_	O
+4	SIDE	side	NN	_	2	attr	_	O
+5	Of	of	IN	_	4	prep	_	O
+6	his	his	PRP$	_	8	poss	_	O
+7	FACE	face	NN	pos2=NNP	8	compound	_	O
+8	@Trump	@trump	NN	pos2=NNP	5	pobj	_	O
+9	SHOWS	show	VBZ	_	2	conj	_	O
+10	To	to	IN	_	9	prep	_	O
+11	his	his	PRP$	_	12	poss	_	O
+12	#DEPLORABLES	#deplorables	NNS	pos2=NN	10	pobj	_	O
+13	-	-	HYPH	pos2=:	12	punct	_	O
+14	'	'	``	_	9	punct	_	O
+15	NOW	now	RB	_	12	advmod	_	O
+16	'	'	''	_	9	punct	_	O
+17	!!!	!!	.	_	2	punct	_	O
+
+1	///	//	SYM	pos2=NFP	4	punct	_	O
+2	FLIP	flip	NN	pos2=VB	4	compound	_	O
+3	-	-	HYPH	pos2=:	4	punct	_	O
+4	FLOP	flop	NN	pos2=NNP	0	root	_	O
+5	!!!	!!	.	_	4	punct	_	O
+
+1	https://t.co/RDH9KIBsV5	#hlink#	ADD	_	0	root	_	U-ORG
+

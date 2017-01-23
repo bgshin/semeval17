@@ -1,0 +1,8 @@
+1	Pelosi	pelosi	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	laying	lay	VBG	_	0	root	_	O
+3	out	out	RP	pos2=RB	2	prt	_	O
+4	early	early	JJ	pos2=RB	5	nmod	_	O
+5	br	br	GW	pos2=NN	7	nmod	_	O
+6	ibeshttps://t.co/pWP8gNLU1h	#hlink#	ADD	pos2=GW	7	nmod	_	O
+7	https://t.co/fZrNB7BgHv	#hlink#	ADD	_	2	dobj	_	U-ORG
+

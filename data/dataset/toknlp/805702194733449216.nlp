@@ -1,0 +1,25 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	change	change	VB	_	2	xcomp	_	O
+5	our	our	PRP$	_	7	poss	_	O
+6	energy	energy	NN	_	7	compound	_	O
+7	system	system	NN	_	4	dobj	_	O
+8	away	away	RB	_	4	advmod	_	O
+9	from	from	IN	_	8	prep	_	O
+10	fossil	fossil	NN	pos2=JJ	11	compound	_	O
+11	fuels	fuel	NNS	_	9	pobj	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	To	to	TO	_	2	aux	_	O
+2	stop	stop	VB	_	0	root	_	O
+3	producing	produce	VBG	_	2	xcomp	_	O
+4	greenhouse	greenhouse	NN	pos2=JJR	5	compound	_	O
+5	gas	gas	NN	_	6	compound	_	O
+6	emissions	emission	NNS	_	3	dobj	_	O
+7	,	,	,	_	2	punct	_	O
+8	causing	cause	VBG	_	2	advcl	_	O
+9	global	global	JJ	_	10	nmod	_	O
+10	warming	warming	NN	_	8	dobj	_	O
+11	.	.	.	_	2	punct	_	O
+

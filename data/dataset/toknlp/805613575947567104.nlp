@@ -1,0 +1,21 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	looooove	looooove	VBP	pos2=VBD	0	root	_	O
+3	this	this	DT	_	4	det	_	O
+4	version	version	NN	_	2	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Hairspray	hairspray	NNP	_	7	compound	_	U-WORK_OF_ART
+7	bc	bc	NN	pos2=NNS	5	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	Zac	zac	NNP	_	10	compound	_	B-PERSON
+10	Efron	efron	NNP	_	8	pobj	_	L-PERSON
+11	.	.	.	_	2	punct	_	O
+
+1	Without	without	IN	_	3	prep	_	O
+2	Love	love	NN	pos2=NNP	1	pobj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	my	my	PRP$	_	6	poss	_	O
+5	favorite	favorite	JJ	_	6	nmod	_	O
+6	song	song	NN	_	3	nsubj	_	O
+7	🤗🤗	🤗🤗	,	pos2=NFP	6	punct	_	O
+8	https://t.co/Wx5azh43xg	#hlink#	ADD	pos2=NN	6	appos	_	O
+

@@ -1,0 +1,9 @@
+1	Dutch	dutch	JJ	_	2	nmod	_	U-NORP
+2	writers	writer	NNS	_	4	compound	_	O
+3	stage	stage	NN	pos2=VBP	4	compound	_	O
+4	walkout	walkout	NN	_	8	nsubj	_	O
+5	over	over	IN	pos2=RP	4	prep	_	O
+6	#Hezbollah	#hezbollah	NNP	pos2=GW	7	compound	_	U-ORG
+7	contract	contract	NN	pos2=GW	5	pobj	_	O
+8	https://t.co/7UGcJE4ek1	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

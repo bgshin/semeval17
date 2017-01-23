@@ -1,0 +1,31 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	will	will	MD	_	3	aux	_	O
+3	go	go	VB	_	17	ccomp	_	O
+4	so	so	RB	_	5	advmod	_	O
+5	far	far	RB	_	3	advmod	_	O
+6	to	to	TO	_	7	aux	_	O
+7	say	say	VB	_	3	advcl	_	O
+8	s1	s0	NN	pos2=NNS	11	nsubj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	westworld	westworld	NN	pos2=NNP	9	pobj	_	O
+11	is	be	VBZ	_	7	ccomp	_	O
+12	n't	not	RB	_	11	neg	_	O
+13	just	just	RB	_	14	advmod	_	O
+14	good	good	JJ	_	11	acomp	_	O
+15	,	,	,	_	17	punct	_	O
+16	it	it	PRP	_	17	nsubj	_	O
+17	's	's	VBZ	_	0	root	_	O
+18	brilliant	brilliant	JJ	_	17	acomp	_	O
+19	.	.	.	_	17	punct	_	O
+
+1	A	a	DT	_	2	det	_	O
+2	story	story	NN	_	0	root	_	O
+3	within	within	IN	_	2	prep	_	O
+4	a	a	DT	_	5	det	_	O
+5	story	story	NN	_	3	pobj	_	O
+6	within	within	IN	_	5	prep	_	O
+7	a	a	DT	_	8	det	_	O
+8	story	story	NN	_	6	pobj	_	O
+9	about	about	IN	_	8	prep	_	O
+10	storytelling	storytelling	NN	pos2=VBG	9	pobj	_	O
+

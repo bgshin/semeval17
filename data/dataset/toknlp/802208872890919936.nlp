@@ -1,0 +1,15 @@
+1	@Aarias1840	@aarias0	NN	pos2=NNS	3	compound	_	O
+2	@cat_1012000	@cat_0	NN	pos2=LS	3	compound	_	O
+3	@Military4Trump	@military0trump	NN	pos2=XX	4	compound	_	O
+4	@Independent	@independent	NNP	pos2=ADD	14	dep	_	U-ORG
+5	before	before	IN	pos2=RB	4	prep	_	O
+6	&	&	CC	_	5	cc	_	O
+7	after	after	IN	_	5	conj	_	O
+8	American	american	JJ	pos2=NNP	14	nmod	_	O
+9	Democracy	democracy	NNP	pos2=NN	7	pobj	_	O
+10	#Iraq	#iraq	NNP	pos2=POS	14	dep	_	O
+11	#Libya	#libya	NNP	pos2=ADD	13	compound	_	O
+12	#Syria	#syria	NNP	pos2=GW	13	compound	_	B-PERSON
+13	#Yemen	#yemen	NNP	pos2=ADD	14	dep	_	L-PERSON
+14	https://t.co/eevEzTvwui	#hlink#	ADD	_	0	root	_	O
+

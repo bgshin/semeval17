@@ -1,0 +1,16 @@
+1	@iamnevo	@iamnevo	UH	pos2=XX	6	discourse	_	O
+2	@KHNews	@khnews	UH	pos2=NNS	6	discourse	_	O
+3	I	I	PRP	_	6	nsubj	_	O
+4	can	can	MD	_	6	aux	_	O
+5	only	only	RB	_	6	advmod	_	O
+6	agree	agree	VB	_	0	root	_	O
+7	.	.	.	_	6	punct	_	O
+
+1	Republicans	republican	NNPS	pos2=NNS	3	nsubj	_	U-NORP
+2	always	always	RB	_	3	advmod	_	O
+3	want	want	VBP	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	cut	cut	VB	_	3	xcomp	_	O
+6	Medicaid	medicaid	NNP	_	5	dobj	_	U-ORG
+7	.	.	.	_	3	punct	_	O
+

@@ -1,0 +1,16 @@
+1	'	'	``	pos2=POS	15	punct	_	O
+2	Nothing	nothing	NN	_	15	nsubj	_	O
+3	to	to	TO	_	4	aux	_	O
+4	See	see	VB	_	2	relcl	_	O
+5	Here	here	RB	pos2=NNP	4	advmod	_	O
+6	'	'	''	pos2=``	7	punct	_	O
+7	Headlines	headline	NNS	pos2=NNPS	10	compound	_	O
+8	Conceal	conceal	NNP	pos2=VBP	9	compound	_	O
+9	Police	police	NNP	pos2=NNS	10	compound	_	O
+10	Violence	violence	NN	pos2=NNP	15	dep	_	O
+11	at	at	IN	_	10	prep	_	O
+12	Dakota	dakota	NNP	_	13	compound	_	B-FAC
+13	Access	access	NNP	pos2=GW	11	pobj	_	L-FAC
+14	https://t.co/uhn87jxzL2	#hlink#	ADD	_	15	nmod	_	O
+15	#UniteBlue	#uniteblue	ADD	pos2=-RRB-	0	root	_	O
+

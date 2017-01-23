@@ -1,0 +1,22 @@
+1	Meanwhile	meanwhile	RB	_	0	root	_	O
+2	...	..	.	pos2=:	1	punct	_	O
+
+1	China	china	NNP	_	2	compound	_	U-GPE
+2	blocks	block	NNS	pos2=VBZ	4	nsubj	_	O
+3	“	"	``	pos2=''	7	punct	_	O
+4	Kim	kim	NNP	_	5	compound	_	B-PERSON
+5	Fatty	fatty	NNP	_	0	root	_	L-PERSON
+6	the	the	DT	_	7	det	_	O
+7	Third	#ord#	NNP	pos2=JJ	5	appos	_	U-ORDINAL
+8	”	"	''	pos2=``	5	punct	_	O
+9	from	from	IN	_	2	prep	_	O
+10	web	web	NN	_	11	compound	_	O
+11	search	search	NN	_	12	compound	_	O
+12	results	result	NNS	_	9	pobj	_	O
+13	-	-	,	pos2=HYPH	11	punct	_	O
+14	Merci	merci	NNP	_	15	compound	_	B-PERSON
+15	@anitacbeattie	@anitacbeattie	NNP	pos2=XX	5	appos	_	L-PERSON
+16	!	!	.	_	2	punct	_	O
+
+1	https://t.co/22u4Gfkm8j	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,25 @@
+1	Since	since	IN	_	3	mark	_	O
+2	Trump	trump	NNP	pos2=NN	3	nsubj	_	U-PERSON
+3	became	become	VBD	_	15	advcl	_	O
+4	PresidentTPP	presidenttpp	NNP	_	9	compound	_	B-ORG
+5	-	-	HYPH	pos2=SYM	9	punct	_	I-ORG
+6	DeadFidel	deadfidel	NNP	_	9	compound	_	I-ORG
+7	Castro	castro	NNP	_	9	compound	_	I-ORG
+8	-	-	HYPH	pos2=,	9	punct	_	I-ORG
+9	DeadISIS	deadisis	NNP	pos2=NNPS	15	nsubj	_	L-ORG
+10	better	good	JJR	pos2=RBR	11	nmod	_	O
+11	hope	hope	NN	pos2=VBP	3	attr	_	O
+12	((((	((	NFP	pos2=-LRB-	15	punct	_	O
+13	Allah	allah	NNP	_	9	appos	_	O
+14	))))	))	-RRB-	pos2=NFP	9	punct	_	O
+15	has	have	VBZ	_	0	root	_	O
+16	something	something	NN	_	15	dobj	_	O
+17	planned	plan	VBN	_	16	acl	_	O
+18	.	.	.	_	15	punct	_	O
+
+1	Their	their	PRP$	_	2	poss	_	B-DATE
+2	days	day	NNS	_	4	nsubjpass	_	L-DATE
+3	are	be	VBP	_	4	auxpass	_	O
+4	numbered	number	VBN	pos2=JJ	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+

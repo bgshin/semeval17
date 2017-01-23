@@ -1,0 +1,14 @@
+1	Highland	highland	NNP	_	2	compound	_	B-ORG
+2	Council	council	NNP	_	3	compound	_	L-ORG
+3	Website	website	NN	pos2=NNP	4	nsubj	_	O
+4	achieves	achieve	VBZ	_	0	root	_	O
+5	Gold	gold	NNP	pos2=NN	6	compound	_	B-ORG
+6	Standard	standard	NNP	pos2=NN	4	dobj	_	L-ORG
+7	for	for	IN	_	4	prep	_	O
+8	digital	digital	JJ	_	9	nmod	_	O
+9	accessibility	accessibility	NN	_	7	pobj	_	O
+10	#LocalGov	#localgov	GW	pos2=ADD	13	nmod	_	O
+11	#LocalGovDigital	#localgovdigital	GW	pos2=JJ	13	nmod	_	O
+12	#accessibility	#accessibility	GW	pos2=NN	13	nmod	_	O
+13	https://t.co/5gVSXQDLJ5	#hlink#	ADD	pos2=NN	4	dep	_	O
+

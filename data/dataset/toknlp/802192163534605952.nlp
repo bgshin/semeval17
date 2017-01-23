@@ -1,0 +1,12 @@
+1	This	this	DT	_	3	nsubj	_	O
+2	might	might	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	single	single	JJ	_	7	nmod	_	O
+5	most	most	RBS	_	6	advmod	_	O
+6	compelling	compelling	JJ	_	7	nmod	_	O
+7	argument	argument	NN	_	3	attr	_	O
+8	against	against	IN	_	7	prep	_	O
+9	Steve	steve	NNP	_	10	compound	_	B-PERSON
+10	Bannon👇🏾	bannon👇🏾	NNP	pos2=GW	8	pobj	_	L-PERSON
+11	https://t.co/3XkaAIndQZ	#hlink#	ADD	_	8	pobj	_	O
+

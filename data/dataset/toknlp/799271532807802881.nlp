@@ -1,0 +1,19 @@
+1	China	china	NNP	_	2	nsubj	_	U-GPE
+2	blocks	block	VBZ	pos2=NNS	0	root	_	O
+3	searches	search	NNS	pos2=RB	2	dobj	_	O
+4	for	for	IN	_	3	prep	_	O
+5	Kim	kim	NNP	_	7	compound	_	B-PERSON
+6	Jong	jong	NNP	_	7	compound	_	I-PERSON
+7	Un	un	NNP	_	11	poss	_	I-PERSON
+8	's	's	POS	_	7	case	_	L-PERSON
+9	"	"	``	_	11	punct	_	O
+10	King	king	NNP	_	11	compound	_	O
+11	Fatty	fatty	NNP	_	15	nmod	_	O
+12	The	the	DT	pos2=NNP	13	det	_	O
+13	Third	#ord#	NNP	pos2=JJ	11	appos	_	O
+14	"	"	''	pos2=``	15	punct	_	O
+15	nickname	nickname	NN	_	4	pobj	_	O
+16	https://t.co/NGgDc3Gosu	#hlink#	ADD	pos2=''	15	appos	_	O
+17	via	via	IN	_	2	prep	_	O
+18	@HuffPostCanada	@huffpostcanada	NNP	pos2=NN	17	pobj	_	O
+

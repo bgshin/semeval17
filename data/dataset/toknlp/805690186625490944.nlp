@@ -1,0 +1,36 @@
+1	bitch	bitch	NN	_	2	nsubj	_	O
+2	tried	try	VBD	_	0	root	_	O
+3	knocking	knock	VBG	_	2	xcomp	_	O
+4	my	my	PRP$	_	5	poss	_	O
+5	hustle	hustle	NN	_	3	dobj	_	O
+6	the	the	DT	_	8	det	_	O
+7	other	other	JJ	_	8	nmod	_	O
+8	day	day	NN	_	3	npadvmod	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	"	"	``	_	3	punct	_	O
+2	That	that	DT	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	why	why	WRB	_	6	advmod	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	work	work	VBP	_	3	ccomp	_	O
+7	at	at	IN	_	6	prep	_	O
+8	toys	toy	NNS	pos2=NN	7	pobj	_	O
+9	r	r	VBP	pos2=IN	13	det	_	O
+10	us	us	PRP	pos2=NN	13	nsubj	_	O
+11	"	"	``	pos2=''	13	punct	_	O
+12	no	no	DT	pos2=UH	13	det	_	O
+13	bitch	bitch	NN	_	8	appos	_	O
+14	I	I	PRP	_	15	nsubj	_	O
+15	got	get	VBD	_	13	relcl	_	O
+16	2	0	CD	_	17	nmod	_	U-CARDINAL
+17	jobs	job	NNS	_	15	dobj	_	O
+18	and	and	CC	_	15	cc	_	O
+19	I	I	PRP	_	22	nsubj	_	O
+20	do	do	VBP	_	22	aux	_	O
+21	n't	not	RB	_	22	neg	_	O
+22	make	make	VB	_	17	relcl	_	O
+23	minimum	minimum	JJ	pos2=NN	24	nmod	_	O
+24	wage	wage	NN	_	22	dobj	_	O
+25	either💋	either💋	.	pos2=WDT	22	punct	_	O
+

@@ -1,0 +1,25 @@
+1	@cspanwj	@cspanwj	UH	pos2=XX	11	discourse	_	O
+2	@jamiejmcintyre	@jamiejmcintyre	UH	pos2=FW	11	discourse	_	O
+3	@dcexaminer	@dcexaminer	PRP$	pos2=UH	6	poss	_	O
+4	Trump	trump	NNP	pos2=NN	6	poss	_	U-ORG
+5	's	's	POS	_	4	case	_	O
+6	Wall	wall	NNP	pos2=NN	11	nsubj	_	O
+7	on	on	IN	_	2	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	Mexican	mexican	JJ	pos2=NNP	10	nmod	_	U-NORP
+10	Border	border	NNP	pos2=NN	7	pobj	_	U-ORG
+11	is	be	VBZ	_	0	root	_	O
+12	all	all	DT	pos2=RB	13	dep	_	O
+13	buy	buy	VB	pos2=VBP	11	ccomp	_	O
+14	a	a	DT	_	15	det	_	O
+15	Memory	memory	NN	pos2=NNP	13	dobj	_	O
+16	now	now	RB	_	13	advmod	_	O
+17	Donald	donald	NNP	_	18	nsubj	_	U-PERSON
+18	is	be	VBZ	_	11	conj	_	O
+19	President	president	NNP	_	18	attr	_	O
+20	...	..	.	_	18	punct	_	O
+
+1	Voters	voter	NNS	pos2=NNP	2	compound	_	O
+2	Remorse	remorse	NNP	pos2=VB	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+

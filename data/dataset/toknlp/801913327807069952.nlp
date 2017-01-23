@@ -1,0 +1,20 @@
+1	@benji_guedira1	@benji_guedira0	NN	pos2=LS	5	dobj	_	O
+2	@lrozen	@lrozen	UH	pos2=NN	7	compound	_	O
+3	@Charles_Lister	@charles_lister	NNP	pos2=UH	6	compound	_	U-PERSON
+4	You	you	PRP	_	5	nsubj	_	O
+5	mean	mean	VBP	pos2=VB	0	root	_	O
+6	#Hezbollah	#hezbollah	NNP	pos2=IN	7	compound	_	U-PERSON
+7	jihadists	jihadist	NNS	_	5	dobj	_	O
+8	?	?	.	_	5	punct	_	O
+
+1	Or	or	CC	_	3	cc	_	O
+2	Iranian	iranian	JJ	_	3	nmod	_	U-NORP
+3	jihadists	jihadist	NNS	_	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+
+1	Or	or	CC	_	4	cc	_	O
+2	Assad	assad	NNP	_	3	compound	_	B-PERSON
+3	Shabiha	shabiha	NNP	_	4	compound	_	L-PERSON
+4	jihadists	jihadist	NNS	pos2=NNPS	0	root	_	O
+5	?	?	.	_	4	punct	_	O
+

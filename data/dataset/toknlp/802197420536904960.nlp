@@ -1,0 +1,21 @@
+1	How	how	WRB	_	2	advmod	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	your	your	PRP$	_	4	poss	_	O
+4	day	day	NN	_	2	nsubj	_	U-DATE
+5	?	?	.	_	2	punct	_	O
+
+1	$	$	$	_	2	nmod	_	O
+2	200	0	CD	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	Ed	ed	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Gamble	gamble	NNP	pos2=GW	3	compound	_	L-PERSON
+3	cartoon	cartoon	NN	pos2=GW	4	dep	_	O
+4	https://t.co/cJNzVGbQ8E	#hlink#	ADD	pos2=NNP	0	root	_	O
+5	#TCOT	#tcot	-RRB-	pos2=ADD	4	punct	_	U-ORG
+6	#LNYHBT	#lnyhbt	NN	pos2=ADD	7	compound	_	O
+7	#MAGA	#maga	NN	pos2=GW	10	dep	_	O
+8	#DrainTheSwamp	#draintheswamp	GW	pos2=XX	10	nmod	_	B-PERSON
+9	#BuildTheWall	#buildthewall	GW	pos2=ADD	10	nmod	_	L-PERSON
+10	https://t.co/NUvZXZS393	#hlink#	ADD	pos2=NN	4	dep	_	O
+

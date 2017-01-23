@@ -1,0 +1,35 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	not	not	RB	_	4	neg	_	O
+4	care	care	VB	_	0	root	_	O
+5	if	if	IN	_	7	mark	_	O
+6	HRC	hrc	NNP	pos2=NN	7	nsubj	_	U-ORG
+7	goes	go	VBZ	_	4	ccomp	_	O
+8	to	to	IN	_	7	prep	_	O
+9	prison	prison	NN	_	8	pobj	_	O
+10	or	or	CC	_	7	cc	_	O
+11	is	be	VBZ	_	12	auxpass	_	O
+12	deported	deport	VBN	_	7	conj	_	O
+13	.	.	.	_	4	punct	_	O
+
+1	But	but	CC	_	8	cc	_	O
+2	George	george	NNP	_	3	compound	_	B-PERSON
+3	Soros	soros	NNP	_	8	nsubjpass	_	L-PERSON
+4	and	and	CC	_	3	cc	_	O
+5	son	son	NN	_	3	conj	_	O
+6	must	must	MD	_	8	aux	_	O
+7	be	be	VB	_	8	auxpass	_	O
+8	arrested	arrest	VBN	_	0	root	_	O
+9	and	and	CC	_	8	cc	_	O
+10	given	give	VBN	_	8	conj	_	O
+11	to	to	IN	_	10	prep	_	O
+12	Russia	russia	NNP	_	11	pobj	_	U-GPE
+13	.	.	.	_	8	punct	_	O
+
+1	He	he	PRP	_	4	nsubjpass	_	O
+2	must	must	MD	_	4	aux	_	O
+3	be	be	VB	_	4	auxpass	_	O
+4	dealt	deal	VBN	_	0	root	_	O
+5	with	with	IN	_	4	prep	_	O
+6	.	.	.	_	4	punct	_	O
+

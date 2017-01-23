@@ -1,0 +1,21 @@
+1	@nytimesworld	@nytimesworld	UH	pos2=MD	3	discourse	_	O
+2	@JaredWyand	@jaredwyand	TO	pos2=NN	3	aux	_	U-PERSON
+3	wonder	wonder	VB	pos2=VBP	0	root	_	O
+4	how	how	WRB	_	5	advmod	_	O
+5	many	many	JJ	_	6	nmod	_	O
+6	whites	white	NNS	_	14	nsubj	_	O
+7	(	(	-LRB-	_	6	punct	_	O
+8	all	all	DT	_	9	det	_	O
+9	supremacists	supremacist	NNS	_	6	appos	_	O
+10	,	,	,	_	14	punct	_	O
+11	of	of	IN	_	14	prep	_	O
+12	course	course	NN	_	11	pobj	_	O
+13	)	)	-RRB-	_	6	punct	_	O
+14	work	work	NN	pos2=VBP	3	ccomp	_	O
+15	at	at	IN	_	14	prep	_	O
+16	NY	ny	NNP	_	17	compound	_	B-ORG
+17	Times	times	NNP	_	15	pobj	_	L-ORG
+18	?	?	.	_	3	punct	_	O
+
+1	https://t.co/C6m9SjMrhd	#hlink#	ADD	_	0	root	_	U-ORG
+

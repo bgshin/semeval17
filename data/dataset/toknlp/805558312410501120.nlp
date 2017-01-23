@@ -1,0 +1,21 @@
+1	Vegetarianism	vegetarianism	NN	pos2=NNP	3	nmod	_	O
+2	-	-	:	pos2=,	1	punct	_	O
+3	a	a	DT	_	5	det	_	O
+4	good	good	JJ	_	5	nmod	_	O
+5	prescription	prescription	NN	_	0	root	_	O
+6	for	for	IN	_	5	prep	_	O
+7	your	your	PRP$	_	8	poss	_	O
+8	health	health	NN	_	6	pobj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	our	our	PRP$	_	11	poss	_	O
+11	environment	environment	NN	_	8	conj	_	O
+12	!	!	.	_	1	punct	_	O
+
+1	SA	sa	NN	pos2=NNP	2	compound	_	U-ORG
+2	#patients	#patients	NNS	pos2=UH	0	root	_	O
+3	#health	#health	UH	pos2=FW	2	discourse	_	O
+4	#longevity	#longevity	UH	pos2=FW	2	discourse	_	O
+5	#doctors	#doctors	UH	pos2=NNS	2	discourse	_	O
+6	#physicians	#physicians	UH	pos2=NNPS	2	discourse	_	O
+7	#nurses	#nurses	UH	pos2=NNS	2	discourse	_	O
+

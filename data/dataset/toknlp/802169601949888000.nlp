@@ -1,0 +1,19 @@
+1	For	for	IN	_	5	prep	_	O
+2	confirmation	confirmation	NN	_	1	pobj	_	O
+3	we	we	PRP	_	5	nsubj	_	O
+4	'll	will	MD	_	5	aux	_	O
+5	go	go	VB	_	0	root	_	O
+6	to	to	IN	_	5	prep	_	O
+7	Steve	steve	NNP	_	8	compound	_	B-PERSON
+8	Bannon	bannon	NNP	_	6	pobj	_	L-PERSON
+9	of	of	IN	_	8	prep	_	O
+10	#DarknessIsGood	#darknessisgood	NNP	pos2=XX	11	compound	_	U-ORG
+11	fame	fame	NN	_	9	pobj	_	O
+12	.	.	.	_	5	punct	_	O
+
+1	@bizacco	@bizacco	UH	pos2=XX	5	discourse	_	O
+2	@jasoninthehouse	@jasoninthehouse	UH	pos2=IN	5	discourse	_	O
+3	@SenateMajLdr	@senatemajldr	UH	pos2=ADD	5	discourse	_	O
+4	@SpeakerRyan	@speakerryan	ADD	pos2=UH	0	root	_	U-PERSON
+5	@TGowdySC	@tgowdysc	ADD	pos2=UH	4	pobj	_	O
+

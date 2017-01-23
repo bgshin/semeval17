@@ -1,0 +1,21 @@
+1	@nia4_trump	@nia0_trump	NN	pos2=XX	0	root	_	O
+2	@iowa_trump	@iowa_trump	IN	pos2=POS	1	prep	_	O
+3	@AlisynCamerota	@alisyncamerota	NNP	pos2=XX	8	compound	_	O
+4	Gov	gov	NNP	_	8	compound	_	O
+5	Jerry	jerry	NNP	_	8	compound	_	B-ORG
+6	Brown	brown	NNP	_	8	compound	_	I-ORG
+7	-	-	HYPH	pos2=,	8	punct	_	I-ORG
+8	CA	ca	NNP	_	2	pobj	_	L-ORG
+9	,	,	,	_	8	punct	_	O
+10	implemented	implement	VBN	pos2=VBD	6	dep	_	O
+11	voter	voter	NN	_	12	compound	_	O
+12	auto-registration	auto-registration	NN	pos2=CC	10	dobj	_	O
+13	when	when	WRB	_	15	advmod	_	O
+14	you	you	PRP	_	15	nsubj	_	O
+15	get	get	VBP	_	10	advcl	_	O
+16	a	a	DT	_	17	det	_	O
+17	driver	driver	NN	_	19	poss	_	O
+18	's	's	POS	_	17	case	_	O
+19	license	license	NN	_	15	dobj	_	O
+20	.	.	.	_	1	punct	_	O
+

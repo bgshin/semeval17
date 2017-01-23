@@ -1,0 +1,25 @@
+1	Only	only	RB	_	2	advmod	_	O
+2	entirely	entirely	RB	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	That	that	DT	_	3	nsubj	_	O
+2	would	would	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	George	george	NNP	_	6	compound	_	B-PERSON
+5	Hildabeast	hildabeast	NNP	_	6	compound	_	I-PERSON
+6	Soros	soros	NNP	_	3	attr	_	L-PERSON
+7	,	,	,	_	3	punct	_	O
+8	taking	take	VBG	pos2=NN	3	advcl	_	O
+9	time	time	NN	_	8	dobj	_	O
+10	off	off	RP	pos2=RB	8	prt	_	O
+11	from	from	IN	_	8	prep	_	O
+12	playing	play	VBG	_	11	pcomp	_	O
+13	ping	ping	NN	_	14	compound	_	O
+14	pong	pong	NN	pos2=FW	12	dobj	_	O
+15	with	with	IN	_	12	prep	_	O
+16	Podesta	podesta	NNP	_	15	pobj	_	U-PERSON
+17	...	..	.	pos2=,	3	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/1fMiXoDMAR	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,15 @@
+1	@rachelmealey	@rachelmealey	UH	pos2=XX	6	discourse	_	O
+2	@YouTube	@youtube	NNP	pos2=POS	4	compound	_	O
+3	perfect365	perfect0	NN	pos2=PRP$	4	compound	_	O
+4	app	app	NN	_	6	nsubj	_	O
+5	does	do	VBZ	_	6	aux	_	O
+6	live	live	VB	_	0	root	_	O
+7	makeup	makeup	NN	_	8	compound	_	O
+8	pics	pic	NNS	_	6	dobj	_	O
+9	☺	☺	WDT	pos2=NFP	10	nsubj	_	O
+10	shiseido	shiseido	VBP	pos2=FW	8	relcl	_	O
+11	still	still	RB	_	10	advmod	_	O
+12	animal	animal	NN	pos2=JJ	13	compound	_	O
+13	testing	testing	NN	pos2=VBG	10	dobj	_	O
+14	😐	😐	.	pos2=NN	6	punct	_	O
+

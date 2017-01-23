@@ -1,0 +1,15 @@
+1	cool	cool	JJ	_	2	nmod	_	O
+2	tip	tip	NN	_	10	dep	_	O
+3	:	:	:	_	10	punct	_	O
+4	playing	play	VBG	pos2=JJ	10	csubj	_	O
+5	cards	card	NNS	_	4	dobj	_	O
+6	against	against	IN	_	4	prep	_	O
+7	humanity	humanity	NN	_	6	pobj	_	O
+8	with	with	IN	_	4	prep	_	O
+9	conservatives	conservative	NNS	_	8	pobj	_	O
+10	is	be	VBZ	_	0	root	_	O
+11	n't	not	RB	_	10	neg	_	O
+12	actually	actually	RB	_	10	advmod	_	O
+13	as	as	IN	pos2=RB	10	prep	_	O
+14	fun	fun	NN	pos2=JJ	13	pobj	_	O
+

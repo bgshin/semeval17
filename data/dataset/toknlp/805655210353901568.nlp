@@ -1,0 +1,11 @@
+1	NPP	npp	NN	pos2=NNP	2	compound	_	O
+2	Step	step	NN	_	8	dep	_	O
+3	2	0	CD	_	2	nmod	_	U-CARDINAL
+4	:	:	:	_	8	punct	_	O
+5	Discover	discover	VB	pos2=NNP	8	advcl	_	O
+6	Medical	medical	JJ	pos2=NNP	7	nmod	_	O
+7	Marijuana	marijuana	NNP	pos2=NN	8	nmod	_	O
+8	https://t.co/9EfvTDcGTM	#hlink#	ADD	pos2=NN	0	root	_	O
+9	#marijuana	#marijuana	-RRB-	pos2=IN	8	punct	_	O
+10	#cannabis	#cannabis	UH	pos2=NN	8	discourse	_	O
+

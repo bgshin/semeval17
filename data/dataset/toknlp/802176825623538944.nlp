@@ -1,0 +1,16 @@
+1	Coming	come	VBG	pos2=NNP	4	advcl	_	O
+2	Soon	soon	RB	_	1	advmod	_	O
+3	:	:	:	_	4	punct	_	O
+4	Vengeance	vengeance	NNP	pos2=NN	0	root	_	O
+5	Against	against	IN	_	4	prep	_	O
+6	NLRB	nlrb	NNP	_	5	pobj	_	O
+7	For	for	IN	_	4	prep	_	O
+8	Ruling	rule	VBG	pos2=NNP	7	pcomp	_	O
+9	Against	against	IN	pos2=NNP	8	prep	_	O
+10	Trump	trump	NNP	pos2=NN	9	pobj	_	O
+11	in	in	IN	_	8	prep	_	O
+12	Union	union	NNP	_	13	compound	_	O
+13	F	f	NNP	pos2=GW	14	nmod	_	O
+14	ighthttps://t.co/VslOvqX3IL#notemypresident	#hlink#	ADD	_	11	pobj	_	O
+15	#uniteblue	#uniteblue	-RRB-	pos2=ADD	14	punct	_	O
+

@@ -1,0 +1,23 @@
+1	inch	inch	NN	pos2=JJ	2	compound	_	O
+2	NET	net	NN	pos2=JJ	13	nsubj	_	O
+3	[	[	-LRB-	_	2	punct	_	O
+4	russian	russian	JJ	_	5	nmod	_	O
+5	#NO	#no	NN	pos2=FW	2	appos	_	O
+6	]	]	-RRB-	_	2	punct	_	O
+7	President	president	NNP	_	9	compound	_	O
+8	SAAKASHVILI	saakashvili	NNP	_	9	compound	_	U-PERSON
+9	@Georgia	@georgia	NNP	pos2=NN	10	nsubjpass	_	O
+10	attacked	attack	VBN	pos2=VBD	2	acl	_	O
+11	by	by	IN	_	10	agent	_	O
+12	@PutinRF	@putinrf	NNP	pos2=WP	11	pobj	_	U-ORG
+13	LOST	lose	VBD	pos2=VBN	16	ccomp	_	O
+14	2	0	CD	_	15	nmod	_	U-CARDINAL
+15	provinces	province	NNS	_	13	dobj	_	O
+16	said	say	VBD	pos2=VBN	0	root	_	O
+17	#YES	#yes	NNS	pos2=ADD	22	dep	_	O
+18	to	to	IN	pos2=TO	17	prep	_	O
+19	@America	@america	NNP	pos2=VB	18	pobj	_	U-GPE
+20	i	I	PRP	pos2=GW	22	nmod	_	O
+21	…	…	NFP	pos2=VBD	22	punct	_	O
+22	https://t.co/phEOvSdm2Z	#hlink#	ADD	_	16	ccomp	_	U-ORG
+

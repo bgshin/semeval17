@@ -1,0 +1,21 @@
+1	@Charbrevolution	@charbrevolution	NNP	pos2=NN	8	vocative	_	B-ORG
+2	@TheGlobalUG	@theglobalug	ADD	pos2=XX	8	dep	_	L-ORG
+3	@RealBiZI1	@realbizi0	NN	pos2=GW	7	compound	_	O
+4	@VaccineXchange	@vaccinexchange	GW	pos2=XX	7	nmod	_	B-PERSON
+5	@VaxCalc	@vaxcalc	GW	pos2=ADD	7	nmod	_	L-PERSON
+6	https://t.co/4Q4QgGenuy	#hlink#	ADD	pos2=NN	8	dep	_	O
+7	dose	dose	NN	_	8	nsubj	_	O
+8	is	be	VBZ	_	0	root	_	O
+9	the	the	DT	_	10	det	_	O
+10	key	key	NN	pos2=JJ	8	attr	_	O
+11	here	here	RB	_	8	advmod	_	O
+12	.	.	.	_	8	punct	_	O
+
+1	Tin	tin	NN	pos2=NNP	3	compound	_	O
+2	foil	foil	NN	_	3	compound	_	O
+3	hats	hat	NNS	_	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	more	more	JJR	pos2=RBR	6	advmod	_	O
+6	evil	evil	JJ	pos2=NN	4	acomp	_	O
+7	.	.	.	_	4	punct	_	O
+

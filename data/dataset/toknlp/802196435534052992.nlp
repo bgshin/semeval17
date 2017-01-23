@@ -1,0 +1,16 @@
+1	ISIS	isis	NN	pos2=NNP	4	poss	_	O
+2	'	'	POS	pos2=''	1	case	_	O
+3	Japanese	japanese	JJ	_	4	nmod	_	U-NORP
+4	hostages	hostage	NNS	_	7	nsubj	_	O
+5	fake	fake	JJ	pos2=VBP	6	nmod	_	O
+6	video	video	NN	pos2=NNS	7	nsubj	_	O
+7	BUSTED	bust	VBN	pos2=NNP	0	root	_	O
+8	!!	!!	.	_	7	punct	_	O
+
+1	https://t.co/36tWT79lM1	#hlink#	ADD	_	0	root	_	U-ORG
+2	#ISIS	#isis	NN	pos2=VBZ	4	nmod	_	O
+3	#falseflag	#falseflag	UH	pos2=NN	4	discourse	_	O
+4	#CIA	#cia	NN	pos2=ADD	0	root	_	O
+5	#mossad	#mossad	UH	pos2=XX	4	discourse	_	O
+6	#israel	#israel	UH	pos2=.	4	discourse	_	O
+

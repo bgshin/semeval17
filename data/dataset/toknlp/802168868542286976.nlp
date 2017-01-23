@@ -1,0 +1,24 @@
+1	UK	uk	NNP	_	2	compound	_	O
+2	Government	government	NNP	pos2=NN	4	nsubj	_	O
+3	'	'	``	pos2=''	4	punct	_	O
+4	unwilling	unwilling	JJ	_	0	root	_	O
+5	'	'	''	_	4	punct	_	O
+6	to	to	TO	_	7	aux	_	O
+7	learn	learn	VB	_	4	xcomp	_	O
+8	the	the	DT	_	9	det	_	O
+9	lessons	lesson	NNS	_	7	dobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	#Libya	#libya	NNP	pos2=JJ	12	compound	_	U-NORP
+12	interventions	intervention	NNS	_	10	pobj	_	O
+13	https://t.co/zOpZmb3grE	#hlink#	ADD	pos2=VBP	15	nmod	_	O
+14	Shameful	shameful	JJ	_	15	nmod	_	O
+15	behaviour	behaviour	NN	_	12	appos	_	O
+16	.	.	.	_	4	punct	_	O
+
+1	No	no	DT	_	2	det	_	O
+2	wonder	wonder	NN	pos2=VBP	0	root	_	O
+3	our	our	PRP$	_	4	poss	_	O
+4	FP	fp	NN	pos2=NNP	6	nsubj	_	O
+5	so	so	RB	_	6	advmod	_	O
+6	bad	bad	JJ	_	2	advmod	_	O
+

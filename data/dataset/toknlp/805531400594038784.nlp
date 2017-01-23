@@ -1,0 +1,21 @@
+1	California	california	NNP	_	2	nsubj	_	U-GPE
+2	run	run	VB	pos2=VBP	0	root	_	O
+3	into	into	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	ground	ground	NN	_	3	pobj	_	O
+6	by	by	IN	_	2	prep	_	O
+7	corrupt	corrupt	JJ	_	10	nmod	_	O
+8	1	0	CD	_	9	nmod	_	U-CARDINAL
+9	party	party	NN	_	10	compound	_	O
+10	rule	rule	NN	pos2=VB	13	compound	_	O
+11	~	~	POS	pos2=SYM	10	case	_	O
+12	Drivers	driver	NNS	pos2=NNPS	13	compound	_	O
+13	licenses	license	NNS	_	6	pobj	_	O
+14	for	for	IN	_	2	prep	_	O
+15	illegals	illegal	NNS	_	14	pobj	_	O
+16	/	/	SYM	pos2=CC	15	punct	_	O
+17	automatic	automatic	JJ	_	19	nmod	_	O
+18	voter	voter	NN	_	19	compound	_	O
+19	registration	registration	NN	_	15	appos	_	O
+20	https://t.co/BDGbNIFQsc	#hlink#	ADD	pos2=NN	15	appos	_	O
+

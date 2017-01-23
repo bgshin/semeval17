@@ -1,0 +1,11 @@
+1	Samuel	samuel	NNP	_	2	compound	_	B-PERSON
+2	Umtiti	umtiti	NNP	_	3	nsubj	_	L-PERSON
+3	working	work	VBG	_	0	root	_	O
+4	on	on	IN	_	3	prep	_	O
+5	his	his	PRP$	_	6	poss	_	O
+6	recovery	recovery	NN	_	4	pobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	#fcblive	#fcblive	UH	pos2=ADD	2	discourse	_	O
+2	https://t.co/RZ6VrgepoO	#hlink#	ADD	pos2=NN	0	root	_	O
+

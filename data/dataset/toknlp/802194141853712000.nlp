@@ -1,0 +1,33 @@
+1	Would	would	MD	_	2	aux	_	O
+2	seem	seem	VB	_	0	root	_	O
+3	so	so	RB	pos2=CC	2	advmod	_	O
+4	..	..	.	pos2=NFP	2	punct	_	O
+
+1	but	but	CC	_	3	cc	_	O
+2	am	be	VBP	pos2=NN	3	aux	_	O
+3	hoping	hope	VBG	_	0	root	_	O
+4	this	this	DT	_	5	det	_	O
+5	time	time	NN	_	3	npadvmod	_	O
+6	...	..	.	pos2=,	3	punct	_	O
+
+1	A	a	DT	pos2=NNP	2	det	_	O
+2	Jew	jew	NNP	_	3	nsubj	_	U-NORP
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	Jew	jew	NNP	_	3	attr	_	U-NORP
+6	is	be	VBZ	_	3	conj	_	O
+7	a	a	DT	_	8	det	_	O
+8	Jew	jew	NNP	_	6	attr	_	U-NORP
+9	to	to	IN	_	8	prep	_	O
+10	America	america	NNP	_	12	poss	_	U-GPE
+11	's	's	POS	_	10	case	_	O
+12	Nazis	nazi	NNPS	pos2=NNP	9	pobj	_	U-NORP
+13	and	and	CC	_	12	cc	_	O
+14	White	white	NNP	_	15	compound	_	B-ORG
+15	Supremacists	supremacist	NNPS	pos2=NNS	12	conj	_	L-ORG
+16	so	so	RB	pos2=IN	20	dep	_	O
+17	the	the	DT	_	19	det	_	O
+18	r	r	JJ	pos2=GW	19	nmod	_	O
+19	…	…	NFP	pos2=-LRB-	20	punct	_	O
+20	https://t.co/Wshtkl1Zwd	#hlink#	ADD	_	3	dep	_	O
+

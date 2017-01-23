@@ -1,0 +1,21 @@
+1	@MotherJones	@motherjones	NNS	pos2=VBZ	3	compound	_	O
+2	Obama	obama	NNP	pos2=NN	3	compound	_	U-PERSON
+3	Admin	admin	NN	pos2=NNP	7	dep	_	O
+4	:	:	:	_	8	punct	_	O
+5	Historic	historic	JJ	pos2=NNP	7	nmod	_	O
+6	Trial	trial	NNP	pos2=NN	7	compound	_	O
+7	Let	let	NNP	pos2=VB	9	poss	_	O
+8	s	s	POS	pos2=PRP	7	case	_	O
+9	Activists	activist	NNPS	pos2=NNS	0	root	_	O
+10	Who	who	WP	_	11	nsubj	_	O
+11	Blocked	block	VBD	_	9	relcl	_	O
+12	Oil	oil	NNP	pos2=NN	13	compound	_	B-ORG
+13	Train	train	NNP	pos2=NN	16	compound	_	I-ORG
+14	Cite	cite	NNP	pos2=VB	16	compound	_	I-ORG
+15	Climate	climate	NNP	pos2=NN	16	compound	_	I-ORG
+16	Change	change	NNP	_	20	dep	_	L-ORG
+17	in	in	IN	_	16	prep	_	O
+18	Their	their	PRP$	pos2=NNP	19	poss	_	O
+19	Defense	defense	NNP	pos2=NN	17	pobj	_	O
+20	https://t.co/YOkFscvWoc	#hlink#	ADD	pos2=NN	11	dobj	_	O
+

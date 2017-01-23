@@ -1,0 +1,20 @@
+1	#FantasticBeasts	#fantasticbeasts	NNS	pos2=VBZ	3	nsubj	_	O
+2	still	still	RB	_	3	advmod	_	O
+3	holding	hold	VBG	_	0	root	_	O
+4	on	on	RP	pos2=RB	3	prt	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	Could	could	MD	_	2	aux	_	O
+2	go	go	VB	_	0	root	_	O
+3	O	o	VB	pos2=UH	5	compound	_	O
+4	/	/	HYPH	pos2=SYM	5	punct	_	O
+5	U	u	NN	pos2=NNP	6	compound	_	O
+6	#DoctorStrange	#doctorstrange	NNP	pos2=XX	10	dep	_	O
+7	$	$	$	_	9	qmod	_	B-MONEY
+8	220	0	CD	_	9	compound	_	I-MONEY
+9	M	m	CD	pos2=JJ	10	dep	_	L-MONEY
+10	finish	finish	NN	_	2	dobj	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	#BoxOffice	#boxoffice	ADD	pos2=NN	0	root	_	O
+

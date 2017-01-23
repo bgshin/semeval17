@@ -1,0 +1,15 @@
+1	Lunes	lunes	NNP	pos2=NNS	4	nmod	_	B-ORG
+2	de	de	IN	pos2=NNP	0	root	_	I-ORG
+3	The	the	DT	pos2=NNP	7	det	_	I-ORG
+4	Walking	walking	NNP	pos2=VBG	7	compound	_	I-ORG
+5	Dead	dead	NNP	pos2=JJ	7	compound	_	L-ORG
+6	y	y	NNP	pos2=IN	7	compound	_	O
+7	Westworld	westworld	NNP	_	2	pobj	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	El	el	NNP	pos2=JJ	4	dep	_	U-GPE
+2	mundo	mundo	FW	pos2=NN	4	dep	_	O
+3	funciona	funciona	FW	pos2=NN	4	dep	_	O
+4	bien	bien	FW	pos2=NN	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+

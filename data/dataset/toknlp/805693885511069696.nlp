@@ -1,0 +1,26 @@
+1	Chris	chris	NNP	pos2=NN	6	nmod	_	U-PERSON
+2	+	+	SYM	pos2=NNP	5	punct	_	O
+3	15	0	CD	_	5	nmod	_	O
+4	-	-	HYPH	_	5	punct	_	O
+5	char	char	NN	_	6	compound	_	O
+6	username	username	NN	_	7	nsubj	_	O
+7	is	be	VBZ	_	19	ccomp	_	O
+8	a	a	DT	pos2=JJ	9	det	_	O
+9	doubt	doubt	NN	pos2=RB	7	attr	_	O
+10	,	,	,	_	19	punct	_	O
+11	the	the	DT	_	14	det	_	O
+12	'	'	``	_	14	punct	_	O
+13	International	international	NNP	pos2=JJ	14	compound	_	O
+14	Day	day	NNP	pos2=NN	19	npadvmod	_	O
+15	of	of	IN	_	14	prep	_	O
+16	fossil	fossil	NN	pos2=JJ	17	compound	_	O
+17	fuels	fuel	NNS	_	15	pobj	_	O
+18	I	I	PRP	_	19	nsubj	_	O
+19	got	get	VBD	_	0	root	_	O
+20	some	some	DT	_	24	det	_	O
+21	music	music	NN	_	23	npadvmod	_	O
+22	-	-	HYPH	_	23	punct	_	O
+23	related	relate	VBN	pos2=JJ	24	nmod	_	O
+24	puns	pun	NNS	_	19	dobj	_	O
+25	.	.	.	_	19	punct	_	O
+

@@ -1,0 +1,12 @@
+1	2	0	CD	pos2=LS	4	nmod	_	U-CARDINAL
+2	Electoral	electoral	NNP	pos2=JJ	3	compound	_	B-ORG
+3	College	college	NNP	pos2=NN	4	compound	_	L-ORG
+4	members	member	NNS	_	5	nsubj	_	O
+5	try	try	VBP	pos2=VB	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	take	take	VB	_	5	xcomp	_	O
+8	victory	victory	NN	_	7	dobj	_	O
+9	from	from	IN	_	7	prep	_	O
+10	Trump	trump	NNP	pos2=NN	9	pobj	_	B-ORG
+11	https://t.co/81yCkufqeK	#hlink#	ADD	pos2=NNP	10	appos	_	L-ORG
+

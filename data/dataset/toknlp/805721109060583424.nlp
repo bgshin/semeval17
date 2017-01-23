@@ -1,0 +1,18 @@
+1	Recent	recent	JJ	_	3	nmod	_	O
+2	EU	eu	NN	pos2=NNP	3	compound	_	U-ORG
+3	behaviour	behaviour	NN	_	9	dep	_	O
+4	1	0	CD	_	3	npadvmod	_	U-CARDINAL
+5	:	:	:	_	9	punct	_	O
+6	Convulsive	convulsive	JJ	_	9	nmod	_	O
+7	and	and	CC	_	6	cc	_	O
+8	prolonged	prolonged	JJ	pos2=VBN	6	conj	_	O
+9	grief	grief	NN	_	0	root	_	O
+10	for	for	IN	_	9	prep	_	O
+11	tyrant	tyrant	NN	_	10	pobj	_	O
+12	and	and	CC	_	11	cc	_	O
+13	mass	mass	NN	pos2=JJ	14	compound	_	O
+14	murderer	murderer	NN	_	16	compound	_	O
+15	Fidel	fidel	NNP	_	16	compound	_	B-PERSON
+16	Castro	castro	NNP	_	11	conj	_	L-PERSON
+17	.	.	.	_	9	punct	_	O
+

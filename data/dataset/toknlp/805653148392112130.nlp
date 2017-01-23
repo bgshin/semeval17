@@ -1,0 +1,18 @@
+1	this	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	prime	prime	JJ	_	5	nmod	_	O
+5	example	example	NN	_	2	attr	_	O
+6	of	of	IN	_	5	prep	_	O
+7	why	why	WRB	_	9	advmod	_	O
+8	we	we	PRP	_	9	nsubj	_	O
+9	need	need	VBP	_	6	pcomp	_	O
+10	Hillarys	hillarys	NNP	pos2=NNPS	14	nmod	_	U-ORG
+11	stricter	strict	JJR	_	14	nmod	_	O
+12	gun	gun	NN	_	13	compound	_	O
+13	control	control	NN	_	14	compound	_	O
+14	legislation	legislation	NN	_	9	dobj	_	O
+15	.	.	.	_	2	punct	_	O
+
+1	https://t.co/zTnUiNYAPy	#hlink#	ADD	_	0	root	_	U-ORG
+

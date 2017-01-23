@@ -1,0 +1,14 @@
+1	@LeaveEUOfficial	@leaveeuofficial	ADD	pos2=JJ	3	advmod	_	O
+2	@BBCNews	@bbcnews	NNS	pos2=NNPS	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	we	we	PRP	_	3	nsubj	_	O
+5	,	,	,	_	3	punct	_	O
+6	not	not	RB	_	7	neg	_	O
+7	for	for	IN	_	3	prep	_	O
+8	2-3	0	CD	_	9	nmod	_	B-DATE
+9	years	year	NNS	_	7	pobj	_	L-DATE
+10	if	if	IN	_	12	mark	_	O
+11	@Conservatives	@conservatives	NNS	pos2=PRP$	12	nsubj	_	O
+12	telling	tell	VBG	_	7	advcl	_	O
+13	truth	truth	NN	_	12	dobj	_	O
+

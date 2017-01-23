@@ -1,0 +1,21 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@pimping_is_easy	@pimping_is_easy	UH	pos2=XX	6	discourse	_	O
+2	@IsraeliteCanaan	@israelitecanaan	ADD	pos2=UH	6	aux	_	O
+3	@haaretzcom	@haaretzcom	UH	pos2=ADD	6	discourse	_	O
+4	#hamas	#hamas	UH	pos2=NN	6	discourse	_	O
+5	is	be	VBZ	_	6	aux	_	O
+6	killing	kill	VBG	_	0	root	_	O
+7	#Palestine	#palestine	NNP	pos2=NN	6	dobj	_	U-PERSON
+8	.	.	.	_	6	punct	_	O
+
+1	Here	here	RB	_	2	advmod	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	leader	leader	NN	_	6	poss	_	O
+5	's	's	POS	_	4	case	_	O
+6	son	son	NN	_	7	nsubj	_	O
+7	telling	tell	VBG	_	2	ccomp	_	O
+8	truth	truth	NN	_	7	dobj	_	O
+9	https://t.co/ObGxKdXp4E	#hlink#	ADD	pos2=NN	2	nsubj	_	O
+

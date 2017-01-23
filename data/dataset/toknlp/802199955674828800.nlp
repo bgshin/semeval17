@@ -1,0 +1,27 @@
+1	Mexican	mexican	JJ	_	3	nmod	_	U-NORP
+2	construction	construction	NN	_	3	compound	_	O
+3	firms	firm	NNS	_	8	nsubj	_	O
+4	&	&	CC	_	3	cc	_	O
+5	other	other	JJ	_	7	nmod	_	O
+6	foreign	foreign	JJ	pos2=NN	7	nmod	_	O
+7	firms	firm	NNS	_	3	conj	_	O
+8	want	want	VBP	_	0	root	_	O
+9	in	in	RP	pos2=IN	8	prt	_	O
+10	on	on	IN	_	8	prep	_	O
+11	construction	construction	NN	_	10	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	the	the	DT	_	15	det	_	B-FAC
+14	Border	border	NNP	pos2=NN	15	compound	_	I-FAC
+15	Wall	wall	NNP	_	12	pobj	_	L-FAC
+16	..	..	.	pos2=,	8	punct	_	O
+
+1	put	put	VB	pos2=VBD	0	root	_	O
+2	US	us	NNP	pos2=NN	3	compound	_	U-GPE
+3	companies	company	NNS	_	1	dobj	_	O
+4	first	#ord#	RB	pos2=JJ	1	advmod	_	U-ORDINAL
+5	when	when	WRB	_	6	advmod	_	O
+6	building	build	VBG	_	1	advcl	_	O
+7	the	the	DT	_	8	det	_	O
+8	wall	wall	NN	_	6	dobj	_	O
+9	.	.	.	_	1	punct	_	O
+

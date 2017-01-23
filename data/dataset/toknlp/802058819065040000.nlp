@@ -1,0 +1,24 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	think	think	VBP	_	17	ccomp	_	O
+3	Céline	céline	NNP	_	4	compound	_	B-PERSON
+4	Dion	dion	NNP	_	6	nsubj	_	L-PERSON
+5	should	should	MD	_	6	aux	_	O
+6	sing	sing	VB	_	2	ccomp	_	O
+7	the	the	DT	_	8	det	_	O
+8	soundtrack	soundtrack	NN	_	6	dobj	_	O
+9	to	to	IN	pos2=TO	10	aux	_	O
+10	#BeautyAndTheBeast	#beautyandthebeast	VB	pos2=ADD	8	acl	_	O
+11	again.@EmmaWatson	again.@emmawatson	NNP	pos2=ADD	10	dobj	_	O
+12	it	it	PRP	_	13	nsubj	_	O
+13	's	's	VBZ	_	17	ccomp	_	O
+14	Céline	céline	NNP	_	16	poss	_	U-PERSON
+15	's	's	POS	_	14	case	_	O
+16	thing	thing	NN	_	13	attr	_	O
+17	right	right	JJ	pos2=RB	0	root	_	O
+18	?	?	.	_	17	punct	_	O
+
+1	She	she	PRP	_	3	nsubj	_	O
+2	should	should	MD	_	3	aux	_	O
+3	do	do	VB	_	0	root	_	O
+4	it	it	PRP	_	3	dobj	_	O
+

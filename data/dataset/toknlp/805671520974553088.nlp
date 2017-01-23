@@ -1,0 +1,11 @@
+1	Philippines	philippines	NNP	pos2=NNS	4	nsubj	_	U-GPE
+2	'	'	``	pos2=''	4	punct	_	O
+3	should	should	MD	_	4	aux	_	O
+4	reject	reject	VB	_	0	root	_	O
+5	'	'	''	pos2=``	4	punct	_	O
+6	reinstatement	reinstatement	NN	_	4	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	death	death	NN	_	9	compound	_	O
+9	penalty	penalty	NN	_	7	pobj	_	O
+10	https://t.co/OuK9MBf5op	#hlink#	ADD	pos2=NN	4	punct	_	O
+

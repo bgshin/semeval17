@@ -1,0 +1,14 @@
+1	ITS	its	PRP$	pos2=GW	4	poss	_	O
+2	A	a	DT	pos2=JJ	4	det	_	O
+3	GALAXY	galaxy	NN	pos2=NNP	4	compound	_	O
+4	NOTE	note	NN	pos2=VB	5	nsubj	_	O
+5	7	0	CD	_	0	root	_	U-CARDINAL
+6	!	!	.	pos2=,	5	punct	_	O
+
+1	(	(	-LRB-	_	6	punct	_	O
+2	Vine	vine	NNP	pos2=NN	6	dep	_	U-ORG
+3	by	by	IN	pos2=GW	2	prep	_	O
+4	@OMGitsRichiey	@omgitsrichiey	GW	pos2=NNP	3	pobj	_	O
+5	)	)	-RRB-	pos2=GW	6	nmod	_	O
+6	https://t.co/C2fm8kaceP	#hlink#	ADD	pos2=NN	0	root	_	O
+

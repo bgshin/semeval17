@@ -1,0 +1,30 @@
+1	Starting	start	VBG	pos2=NN	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	think	think	VB	_	1	xcomp	_	O
+4	Ben	ben	NNP	_	5	compound	_	B-PERSON
+5	Carson	carson	NNP	_	9	nsubj	_	L-PERSON
+6	did	do	VBD	_	9	aux	_	O
+7	n't	not	RB	_	9	neg	_	O
+8	really	really	RB	_	9	advmod	_	O
+9	bow	bow	VB	_	3	ccomp	_	O
+10	out	out	RP	_	9	prt	_	O
+11	.	.	.	_	1	punct	_	O
+
+1	They	they	PRP	_	5	nsubj	_	O
+2	just	just	RB	_	5	advmod	_	O
+3	did	do	VBD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	want	want	VB	_	0	root	_	O
+6	him	him	PRP	_	5	dobj	_	O
+7	any	any	RB	pos2=DT	8	advmod	_	O
+8	longer	long	RBR	pos2=RB	5	advmod	_	O
+9	or	or	CC	_	5	cc	_	O
+10	he	he	PRP	_	13	nsubj	_	O
+11	could	could	MD	_	13	aux	_	O
+12	n't	not	RB	_	13	neg	_	O
+13	stomach	stomach	VB	_	5	conj	_	O
+14	them	them	PRP	_	13	dobj	_	O
+15	.	.	.	_	13	punct	_	O
+
+1	#trumptransitionteam	#trumptransitionteam	UH	pos2=XX	0	root	_	O
+

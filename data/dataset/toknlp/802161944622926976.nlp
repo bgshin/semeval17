@@ -1,0 +1,22 @@
+1	https://t.co/tMcassM6iB	#hlink#	ADD	pos2=NN	4	dep	_	O
+2	*	*	SYM	pos2=-RRB-	4	punct	_	O
+3	@SnowflakesCharm	@snowflakescharm	NN	pos2=ADD	4	nsubj	_	O
+4	says	say	VBZ	_	0	root	_	O
+5	to	to	IN	pos2=TO	4	prep	_	O
+6	@ricky_martin	@ricky_martin	NNP	pos2=VB	5	pobj	_	U-ORG
+7	"	"	``	_	11	punct	_	O
+8	You	you	PRP	_	11	nsubj	_	O
+9	do	do	VBP	_	11	aux	_	O
+10	n't	not	RB	_	11	neg	_	O
+11	know	know	VB	_	4	ccomp	_	O
+12	the	the	DT	_	13	det	_	O
+13	HALF	half	NN	_	16	nsubj	_	U-CARDINAL
+14	of	of	IN	_	13	prep	_	O
+15	it	it	PRP	_	14	pobj	_	O
+16	dude	dude	NN	pos2=UH	11	ccomp	_	O
+17	!!..	!!..	.	pos2=NFP	4	punct	_	O
+18	"	"	''	pos2=``	4	punct	_	O
+
+1	*	*	SYM	pos2=NFP	2	punct	_	O
+2	https://t.co/GBoOrKu4a1	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

@@ -1,0 +1,22 @@
+1	@SteveCrumpWBTV	@stevecrumpwbtv	NNP	pos2=XX	0	poss	_	U-ORG
+2	where	where	WRB	_	5	advmod	_	O
+3	did	do	VBD	_	5	aux	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	get	get	VB	_	1	relcl	_	O
+6	the	the	DT	_	7	det	_	O
+7	fact	fact	NN	_	5	dobj	_	O
+8	that	that	IN	_	10	mark	_	O
+9	there	there	EX	_	10	expl	_	O
+10	is	be	VBZ	_	7	acl	_	O
+11	infighting	infighting	NN	pos2=VBG	10	attr	_	O
+12	in	in	IN	_	11	prep	_	O
+13	the	the	DT	_	16	det	_	O
+14	Trump	trump	NNP	pos2=NN	16	compound	_	U-PERSON
+15	transition	transition	NN	_	16	compound	_	O
+16	team	team	NN	_	12	pobj	_	O
+17	over	over	IN	pos2=RP	11	prep	_	O
+18	SofS	sofs	NNS	pos2=NNPS	17	pobj	_	O
+19	?	?	.	_	5	punct	_	O
+
+1	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	0	root	_	O
+

@@ -1,0 +1,20 @@
+1	Reporter	reporter	NN	_	3	nsubj	_	O
+2	illegally	illegally	RB	_	3	advmod	_	O
+3	took	take	VBD	_	0	root	_	O
+4	videos	video	NNS	pos2=NN	3	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	a	a	DT	_	8	det	_	O
+7	research	research	NN	_	8	compound	_	O
+8	facility	facility	NN	_	5	pobj	_	O
+9	&	&	CC	_	3	cc	_	O
+10	misused	misuse	VBN	pos2=VBD	3	conj	_	O
+11	info	info	NN	_	10	dobj	_	O
+12	about	about	IN	_	11	prep	_	O
+13	Huntington	huntington	NNP	_	15	poss	_	U-GPE
+14	's	's	POS	_	13	case	_	O
+15	disease	disease	NN	_	12	pobj	_	O
+16	&	&	CC	_	15	cc	_	O
+17	its	its	PRP$	_	18	poss	_	O
+18	ef	ef	NN	pos2=NNS	15	conj	_	O
+19	fecthttps://t.co/ZT31zs9SDW#ANS211	#hlink#	ADD	pos2=NN	15	appos	_	O
+

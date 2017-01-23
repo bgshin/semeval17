@@ -1,0 +1,18 @@
+1	#Fracking	#fracking	VBG	pos2=NNP	6	nsubj	_	O
+2	&	&	CC	_	1	cc	_	O
+3	Drinking	drink	VBG	pos2=NN	1	conj	_	O
+4	#Water	#water	NNP	pos2=PRP$	5	compound	_	O
+5	Map	map	NN	pos2=NNP	3	dobj	_	O
+6	Shows	show	VBZ	pos2=NNP	0	root	_	O
+7	Where	where	WRB	_	11	advmod	_	O
+8	You	you	PRP	pos2=NNP	11	nsubj	_	O
+9	Should	should	MD	_	11	aux	_	O
+10	n’t	not	RB	_	11	neg	_	O
+11	Drink	drink	VB	_	6	ccomp	_	O
+12	Tap	tap	NNP	pos2=GW	13	compound	_	B-WORK_OF_ART
+13	Water	water	NNP	pos2=NN	11	dobj	_	I-WORK_OF_ART
+14	https://t.co/YfLTmOdSAf	#hlink#	ADD	pos2=NNPS	11	dobj	_	I-WORK_OF_ART
+15	#NoDAPL	#nodapl	-RRB-	pos2=ADD	14	punct	_	I-WORK_OF_ART
+16	#DakotaAccessPipeline	#dakotaaccesspipeline	ADD	pos2=-RRB-	11	prep	_	L-WORK_OF_ART
+17	#INDIGENOUS	#indigenous	ADD	pos2=NN	11	prep	_	O
+

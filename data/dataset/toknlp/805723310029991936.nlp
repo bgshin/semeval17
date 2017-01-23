@@ -1,0 +1,24 @@
+1	The	the	DT	_	4	det	_	O
+2	perfect	perfect	JJ	_	4	nmod	_	O
+3	Christmas	christmas	NNP	_	4	compound	_	U-DATE
+4	gift	gift	NN	_	14	nsubj	_	O
+5	for	for	IN	_	4	prep	_	O
+6	any	any	DT	_	8	det	_	O
+7	lapsed	lapse	VBD	pos2=VBN	8	nmod	_	O
+8	Catholics	catholic	NNPS	pos2=NNS	5	pobj	_	U-NORP
+9	or	or	CC	_	8	cc	_	O
+10	dentists	dentist	NNS	_	8	conj	_	O
+11	that	that	WDT	pos2=IN	16	dobj	_	O
+12	you	you	PRP	_	14	nsubj	_	O
+13	only	only	RB	_	14	advmod	_	O
+14	want	want	VBP	_	0	root	_	O
+15	to	to	TO	_	16	aux	_	O
+16	spend	spend	VB	_	14	xcomp	_	O
+17	£	$	$	_	18	nmod	_	O
+18	2.60	0	CD	_	16	dobj	_	U-MONEY
+19	on	on	IN	pos2=RB	16	prep	_	O
+20	.	.	.	_	14	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/XooK4N7MQx	#hlink#	ADD	pos2=NN	0	root	_	O
+

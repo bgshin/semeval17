@@ -1,0 +1,31 @@
+1	@sporker	@sporker	UH	pos2=PRP	5	discourse	_	O
+2	_	_	SYM	pos2=NFP	5	punct	_	O
+3	even	even	RB	_	4	advmod	_	O
+4	Obama	obama	NNP	_	5	nsubj	_	U-PERSON
+5	is	be	VBZ	_	0	root	_	O
+6	that	that	DT	_	7	det	_	O
+7	way	way	NN	_	5	attr	_	O
+8	.	.	.	_	5	punct	_	O
+
+1	noDAPL	nodapl	XX	pos2=UH	3	dep	_	O
+2	he	he	PRP	_	3	nsubj	_	O
+3	silent	silent	JJ	pos2=XX	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Drones	drone	NNS	_	3	dep	_	O
+2	he	he	PRP	_	3	nsubj	_	O
+3	silent	silent	JJ	pos2=VBD	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Ehhh	ehhh	UH	pos2=NNP	4	discourse	_	O
+2	but	but	CC	_	4	cc	_	O
+3	we	we	PRP	_	4	nsubj	_	O
+4	have	have	VBP	_	0	root	_	O
+5	Obamacare	obamacare	NNP	_	4	dobj	_	U-PERSON
+6	.	.	.	_	4	punct	_	O
+
+1	Hard	hard	JJ	pos2=RB	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	figure	figure	VB	_	1	advcl	_	O
+4	out	out	RP	_	3	prt	_	O
+

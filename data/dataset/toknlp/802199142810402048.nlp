@@ -1,0 +1,28 @@
+1	@bienafe	@bienafe	UH	pos2=MD	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	hear	hear	VBP	_	0	root	_	O
+4	ya	ya	PRP	pos2=NN	3	dobj	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	But	but	CC	_	3	cc	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	guarandamntee	guarandamntee	VBP	pos2=VBD	0	root	_	O
+4	you	you	PRP	_	3	dobj	_	O
+5	that	that	IN	_	10	mark	_	O
+6	this	this	DT	_	7	det	_	O
+7	kind	kind	NN	_	10	nsubj	_	O
+8	of	of	IN	pos2=RB	7	prep	_	O
+9	s**t	s**t	NN	pos2=NNP	8	pobj	_	O
+10	goes	go	VBZ	_	3	ccomp	_	O
+11	on	on	RB	pos2=IN	10	advmod	_	O
+12	all	all	DT	_	13	det	_	B-DATE
+13	day	day	NN	_	10	npadvmod	_	L-DATE
+14	,	,	,	_	21	punct	_	O
+15	every	every	DT	_	16	det	_	B-DATE
+16	day	day	NN	_	21	npadvmod	_	L-DATE
+17	in	in	IN	_	16	prep	_	O
+18	DC.	dc.	NNP	_	17	pobj	_	U-GPE
+19	#draintheswamp	#draintheswamp	IN	pos2=XX	16	prep	_	O
+20	@OCAmericans	@ocamericans	NNPS	pos2=ADD	19	pobj	_	U-NORP
+21	@TPInsidr	@tpinsidr	ADD	pos2=NNP	3	punct	_	O
+

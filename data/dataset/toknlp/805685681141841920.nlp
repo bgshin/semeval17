@@ -1,0 +1,14 @@
+1	Area	area	NN	pos2=NNP	2	compound	_	O
+2	vets	vet	NNS	_	3	nsubj	_	O
+3	join	join	VBP	pos2=VB	0	root	_	O
+4	massive	massive	JJ	_	7	nmod	_	O
+5	North	north	NNP	_	6	compound	_	B-GPE
+6	Dakota	dakota	NNP	_	7	compound	_	L-GPE
+7	protest	protest	NN	pos2=VB	3	dobj	_	O
+8	against	against	IN	_	7	prep	_	O
+9	pipeline	pipeline	NN	_	8	pobj	_	O
+10	https://t.co/Kg3Y8aANS0	#hlink#	ADD	pos2=NN	12	nsubj	_	O
+11	#Fem2	#fem0	NNS	pos2=-RRB-	13	nmod	_	O
+12	#Fracking	#fracking	VBG	pos2=-RRB-	11	acl	_	O
+13	#NoDAPL	#nodapl	ADD	pos2=NNS	3	advmod	_	O
+

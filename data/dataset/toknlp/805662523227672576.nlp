@@ -1,0 +1,18 @@
+1	@TRACCS	@traccs	NNS	pos2=NN	17	dep	_	O
+2	named	name	VBN	_	1	acl	_	O
+3	as	as	IN	_	2	prep	_	O
+4	Middle	middle	NNP	_	5	compound	_	B-ORG
+5	East	east	NNP	_	8	poss	_	I-ORG
+6	#goldstd2016	#goldstd0	POS	pos2=NNP	5	case	_	I-ORG
+7	Communications	communication	NNPS	pos2=NNP	8	compound	_	I-ORG
+8	Consultancy	consultancy	NNP	pos2=NN	3	pobj	_	L-ORG
+9	of	of	IN	_	8	prep	_	O
+10	the	the	DT	_	13	det	_	O
+11	Year	year	NNP	_	13	npadvmod	_	O
+12	-	-	HYPH	pos2=,	13	punct	_	O
+13	read	read	VBN	pos2=VB	9	pobj	_	O
+14	more	more	RBR	pos2=JJR	17	dep	_	O
+15	:	:	:	_	17	punct	_	O
+16	…	…	NFP	pos2=-LRB-	17	punct	_	O
+17	https://t.co/9TFthLqyIf	#hlink#	ADD	_	0	root	_	O
+

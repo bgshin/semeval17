@@ -1,0 +1,14 @@
+1	Tesla	tesla	NNP	_	5	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	latest	late	JJS	_	5	nmod	_	O
+4	Easter	easter	NNP	_	5	compound	_	O
+5	Egg	egg	NNP	pos2=NN	6	nsubj	_	O
+6	enables	enable	VBZ	_	0	root	_	O
+7	hypercar	hypercar	NN	_	9	npadvmod	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	like	like	JJ	_	10	nmod	_	O
+10	sprints	sprint	NNS	_	6	dobj	_	O
+11	https://t.co/SmJnfceaxi	#hlink#	ADD	pos2=VBP	13	dep	_	O
+12	#tesla	#tesla	IN	pos2=ADD	7	prep	_	O
+13	https://t.co/79X1wScowM	#hlink#	ADD	pos2=NN	12	pobj	_	O
+

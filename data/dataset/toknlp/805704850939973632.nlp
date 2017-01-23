@@ -1,0 +1,12 @@
+1	@Cubs	@cubs	NNS	pos2=NNP	2	compound	_	O
+2	#Get	#get	NNP	pos2=CC	3	nsubj	_	U-PERSON
+3	rid	rid	VBD	pos2=VB	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	#Chicago	#chicago	NNP	pos2=JJ	6	compound	_	U-NORP
+6	mayor	mayor	NN	_	3	dobj	_	O
+7	by	by	IN	_	3	prep	_	O
+8	voting	vote	VBG	_	7	pcomp	_	O
+9	him	him	PRP	_	8	dobj	_	O
+10	out	out	RP	_	8	prt	_	O
+11	.	.	.	_	3	punct	_	O
+

@@ -1,0 +1,15 @@
+1	#NorwoodUJIABirthright	#norwoodujiabirthright	ADD	pos2=UH	4	det	_	U-GPE
+2	#Limiteless16	#limiteless0	NN	pos2=NNS	4	compound	_	O
+3	#Israel	#israel	NNP	pos2=POS	4	compound	_	U-ORG
+4	tour	tour	NN	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	#ShabbatShalom	#shabbatshalom	NN	pos2=XX	8	nsubj	_	O
+2	from	from	IN	_	1	prep	_	O
+3	the	the	DT	_	5	det	_	O
+4	magical	magical	JJ	_	5	nmod	_	O
+5	city	city	NN	_	2	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	#Jerusalem	#jerusalem	NNP	pos2=ADD	6	pobj	_	U-GPE
+8	https://t.co/sy3A4iFObk	#hlink#	ADD	_	0	root	_	O
+

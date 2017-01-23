@@ -1,0 +1,17 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	know	know	VBP	_	0	root	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	'm	be	VBP	_	2	ccomp	_	O
+5	late	late	JJ	pos2=RB	6	nmod	_	O
+6	af	af	NN	pos2=FW	4	attr	_	O
+7	but	but	CC	_	2	cc	_	O
+8	is	be	VBZ	_	2	conj	_	O
+9	#	#	NN	pos2=$	10	compound	_	O
+10	5SOS	0sos	NNS	pos2=NN	8	attr	_	O
+11	like	like	IN	_	10	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	new	new	JJ	_	14	nmod	_	O
+14	#OneDirection	#onedirection	NN	pos2=NNP	11	pobj	_	O
+15	or	or	CC	_	14	cc	_	O
+16	something	something	NN	_	14	conj	_	O
+

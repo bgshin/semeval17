@@ -1,0 +1,16 @@
+1	#Ghadames	#ghadames	NNS	pos2=DT	2	compound	_	O
+2	city	city	NN	_	6	nsubjpass	_	O
+3	in	in	IN	pos2=RP	2	prep	_	O
+4	#Libya	#libya	NNP	pos2=NN	3	pobj	_	U-GPE
+5	was	be	VBD	_	6	auxpass	_	O
+6	conquered	conquer	VBN	_	0	root	_	O
+7	by	by	IN	_	6	agent	_	O
+8	the	the	DT	_	9	det	_	O
+9	#Carthaginians	#carthaginians	NNPS	pos2=NNP	7	pobj	_	O
+10	in	in	IN	_	6	prep	_	O
+11	795	0	CD	_	15	dep	_	B-DATE
+12	BC#history	bc#history	NNP	pos2=NNS	15	nmod	_	I-DATE
+13	#MyLibya	#mylibya	GW	pos2=ADD	15	nmod	_	I-DATE
+14	#Noble_Libya	#noble_libya	GW	pos2=ADD	15	nmod	_	L-DATE
+15	https://t.co/50sKbBCkrE	#hlink#	ADD	pos2=NN	10	pobj	_	O
+

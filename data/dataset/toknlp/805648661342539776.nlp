@@ -1,0 +1,13 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	Agree	agree	VBP	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	voter	voter	NN	_	4	compound	_	O
+4	registration	registration	NN	_	2	dobj	_	O
+5	I.Ds	#hlink#	ADD	pos2=NN	4	appos	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	https://t.co/MOt7CxdUkY	#hlink#	ADD	_	0	root	_	U-ORG
+

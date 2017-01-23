@@ -1,0 +1,21 @@
+1	Is	be	VBZ	_	0	root	_	O
+2	she	she	PRP	_	5	nsubj	_	O
+3	@sheryllmurray	@sheryllmurray	MD	pos2=UH	1	punct	_	O
+4	still	still	RB	pos2=VB	6	advmod	_	O
+5	an	an	DT	_	6	det	_	O
+6	MP	mp	NNP	pos2=NN	3	appos	_	O
+7	?	?	.	_	1	punct	_	O
+
+1	Stitched	stitch	VBN	pos2=VBD	0	root	_	O
+2	up	up	RP	_	1	prt	_	O
+3	any	any	DT	_	5	det	_	O
+4	blind	blind	JJ	_	5	nmod	_	O
+5	people	people	NNS	_	1	dobj	_	O
+6	lately	lately	RB	_	1	advmod	_	O
+7	Sheryll	sheryll	NNP	_	1	vocative	_	U-PERSON
+8	??	??	.	_	1	punct	_	O
+
+1	#BEASHAMED	#beashamed	VBN	pos2=ADD	2	nmod	_	U-ORG
+2	@Conservatives	@conservatives	NNS	pos2=VBZ	0	root	_	O
+3	#FILIBUSTING	#filibusting	VBG	pos2=NN	2	acl	_	O
+

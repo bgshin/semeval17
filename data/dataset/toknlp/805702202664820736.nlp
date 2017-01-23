@@ -1,0 +1,11 @@
+1	The	the	DT	_	5	det	_	O
+2	latest	late	JJS	_	5	nmod	_	O
+3	Radio	radio	NNP	pos2=NN	5	compound	_	B-ORG
+4	Warwickshire	warwickshire	NNP	_	5	compound	_	I-ORG
+5	Digest	digest	NNP	_	0	root	_	L-ORG
+6	!	!	.	_	5	punct	_	O
+
+1	https://t.co/1tkkl8YU8Y	#hlink#	ADD	_	0	root	_	O
+2	#thewalkingdead	#thewalkingdead	-RRB-	pos2=XX	1	punct	_	O
+3	#westworld	#westworld	UH	pos2=NN	1	discourse	_	O
+

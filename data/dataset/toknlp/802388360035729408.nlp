@@ -1,0 +1,24 @@
+1	Bob	bob	NNP	_	2	compound	_	B-PERSON
+2	Dylan	dylan	NNP	_	3	nsubj	_	L-PERSON
+3	sings	sing	VBZ	_	0	root	_	O
+4	his	his	PRP$	_	7	poss	_	O
+5	2nd	#ord#	NN	pos2=JJ	7	nmod	_	U-ORDINAL
+6	biggest	big	JJS	pos2=RB	7	nmod	_	O
+7	hit	hit	NN	pos2=VBN	3	dobj	_	O
+8	,	,	,	_	23	punct	_	O
+9	Rainy	rainy	NNP	pos2=JJ	10	compound	_	B-DATE
+10	Day	day	NNP	_	23	dep	_	L-DATE
+11	Women	woman	NNS	pos2=NNPS	23	dep	_	O
+12	#	#	NN	pos2=$	23	dep	_	O
+13	12	0	CD	pos2=LS	12	nmod	_	U-MONEY
+14	And	and	CC	_	12	cc	_	O
+15	35	0	CD	_	12	conj	_	U-CARDINAL
+16	live	live	RB	pos2=JJ	15	advmod	_	O
+17	at	at	IN	_	16	prep	_	O
+18	Farm	farm	NNP	_	19	compound	_	B-ORG
+19	Aid	aid	NNP	pos2=NN	17	pobj	_	L-ORG
+20	in	in	IN	_	19	prep	_	O
+21	1986	0	CD	_	20	pobj	_	O
+22	-	-	:	pos2=HYPH	23	punct	_	O
+23	https://t.co/986v3IuYvf	#hlink#	ADD	pos2=NN	7	appos	_	O
+

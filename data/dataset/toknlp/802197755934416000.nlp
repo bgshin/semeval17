@@ -1,0 +1,22 @@
+1	@Kathryn26474021	@kathryn0	NN	pos2=LS	2	compound	_	O
+2	@MotherJones	@motherjones	NNS	pos2=VBZ	0	root	_	O
+3	Indeed	indeed	RB	_	2	advmod	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	If	if	IN	_	4	mark	_	O
+2	Steve	steve	NNP	_	3	compound	_	B-PERSON
+3	Bannon	bannon	NNP	_	4	nsubj	_	L-PERSON
+4	followed	followed	VBD	_	11	advcl	_	O
+5	Kissingers	kissingers	NNP	pos2=NNPS	7	poss	_	U-PERSON
+6	's	's	POS	_	5	case	_	O
+7	orders	order	NNS	_	4	dobj	_	O
+8	,	,	,	_	11	punct	_	O
+9	you	you	PRP	_	11	nsubj	_	O
+10	'd	would	MD	pos2=VBD	11	aux	_	O
+11	hail	hail	VB	_	0	root	_	O
+12	him	him	PRP	_	11	dobj	_	O
+13	as	as	IN	pos2=RB	11	prep	_	O
+14	great	great	JJ	_	15	nmod	_	O
+15	progressive	progressive	JJ	pos2=NN	13	pobj	_	O
+16	.	.	.	_	11	punct	_	O
+

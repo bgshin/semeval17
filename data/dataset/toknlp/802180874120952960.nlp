@@ -1,0 +1,21 @@
+1	Top	top	JJ	pos2=NN	2	nmod	_	O
+2	story	story	NN	_	0	root	_	O
+3	:	:	:	_	2	punct	_	O
+4	WikiLeaks	wikileaks	NNP	_	2	appos	_	U-ORG
+5	on	on	IN	_	4	prep	_	O
+6	Twitter	twitter	NNP	_	5	pobj	_	U-ORG
+7	:	:	:	_	2	punct	_	O
+8	"	"	``	pos2=''	2	punct	_	O
+9	RELEASE	release	NN	_	18	dep	_	O
+10	:	:	:	_	18	punct	_	O
+11	The	the	DT	_	15	det	_	B-ORG
+12	#Yemen	#yemen	NNP	_	13	compound	_	I-ORG
+13	Files	file	NNPS	pos2=NNS	15	compound	_	I-ORG
+14	#HillaryClinton	#hillaryclinton	NNP	pos2=ADD	15	compound	_	I-ORG
+15	#Ye	#ye	NNP	pos2=GW	18	dep	_	L-ORG
+16	…	…	NFP	pos2=ADD	18	punct	_	O
+17	https://t.co/yjpx3BxqNx,	#hlink#	ADD	_	18	nsubj	_	O
+18	see	see	VB	pos2=VBP	2	acl	_	O
+19	more	more	JJR	pos2=RBR	20	nmod	_	O
+20	https://t.co/YOLBZG7ESI	#hlink#	ADD	pos2=NN	18	dobj	_	O
+

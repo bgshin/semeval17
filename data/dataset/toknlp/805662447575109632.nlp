@@ -1,0 +1,16 @@
+1	Do	do	VB	pos2=VBP	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	approve	approve	VB	_	14	advcl	_	O
+4	of	of	IN	_	3	prep	_	O
+5	abortion	abortion	NN	_	10	poss	_	O
+6	's	's	POS	pos2=AFX	5	case	_	O
+7	or	or	CC	_	5	cc	_	O
+8	dead	dead	JJ	_	5	conj	_	O
+9	beat	beat	VBD	pos2=PRP$	10	nmod	_	O
+10	father	father	NN	_	15	poss	_	O
+11	's	's	POS	_	10	case	_	O
+12	do	do	VB	pos2=VBP	14	aux	_	O
+13	n't	not	RB	_	14	neg	_	O
+14	judge	judge	VB	_	0	root	_	O
+15	me	me	PRP	_	14	dobj	_	O
+

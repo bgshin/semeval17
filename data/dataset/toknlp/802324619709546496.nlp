@@ -1,0 +1,13 @@
+1	@ConservAction1	@conservaction0	NN	pos2=UH	12	dep	_	O
+2	@dcexaminer	@dcexaminer	UH	pos2=NN	12	punct	_	O
+3	Please	please	UH	_	12	discourse	_	O
+4	no	no	DT	pos2=VB	8	det	_	O
+5	more	more	RBR	pos2=JJR	8	advmod	_	O
+6	Michael	michael	NNP	_	7	compound	_	B-PERSON
+7	Moore	moore	NNP	_	8	compound	_	L-PERSON
+8	pictures	picture	NNS	pos2=VBZ	3	dobj	_	O
+9	,	,	,	_	12	punct	_	O
+10	I	I	PRP	_	12	nsubj	_	O
+11	just	just	RB	_	12	advmod	_	O
+12	ate	eat	VBD	pos2=VBP	0	root	_	O
+

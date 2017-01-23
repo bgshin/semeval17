@@ -1,0 +1,21 @@
+1	Top	top	NN	pos2=JJ	9	dep	_	O
+2	:	:	:	_	9	punct	_	O
+3	Regime	regime	NN	_	4	compound	_	O
+4	blasts	blast	NNS	pos2=VBZ	9	dep	_	O
+5	Aleppo	aleppo	NNP	_	4	appos	_	U-GPE
+6	;	;	,	pos2=:	9	punct	_	O
+7	aid	aid	NN	pos2=VB	9	nsubj	_	O
+8	urgently	urgently	RB	_	9	advmod	_	O
+9	needed	need	VBN	pos2=VBD	0	root	_	O
+10	:	:	:	_	9	punct	_	O
+11	The	the	DT	_	14	det	_	B-ORG
+12	UN	un	NNP	_	14	compound	_	I-ORG
+13	Security	security	NNP	_	14	compound	_	I-ORG
+14	Council	council	NNP	_	16	nsubj	_	L-ORG
+15	will	will	MD	_	16	aux	_	O
+16	vote	vote	VB	_	9	ccomp	_	O
+17	Monday	monday	NNP	_	16	npadvmod	_	U-DATE
+18	on	on	IN	_	16	prep	_	O
+19	…	…	NFP	pos2=NNP	18	pobj	_	O
+20	https://t.co/Z3OAJCOX9U	#hlink#	ADD	_	18	pobj	_	O
+

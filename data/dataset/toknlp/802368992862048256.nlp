@@ -1,0 +1,23 @@
+1	@JoshButler	@joshbutler	NN	pos2=NNP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	typical	typical	JJ	_	5	nmod	_	O
+5	#leftists	#leftists	NNPS	pos2=NNS	2	attr	_	O
+6	will	will	MD	_	8	aux	_	O
+7	not	not	RB	_	8	neg	_	O
+8	report	report	VB	_	5	relcl	_	O
+9	facts	fact	NNS	_	8	dobj	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	A	a	DT	_	3	det	_	O
+2	paid	pay	VBN	pos2=JJ	3	nmod	_	O
+3	assignment	assignment	NN	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	report	report	VB	pos2=NN	3	relcl	_	O
+6	they	they	PRP	_	7	nsubj	_	O
+7	went	go	VBD	_	5	ccomp	_	O
+8	there	there	RB	_	7	advmod	_	O
+9	?	?	.	_	3	punct	_	O
+
+1	#lazyoaf	#lazyoaf	UH	pos2=XX	0	root	_	O
+

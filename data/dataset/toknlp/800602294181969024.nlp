@@ -1,0 +1,17 @@
+1	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNS	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	you	you	PRP	_	2	pobj	_	O
+4	,	,	,	_	1	punct	_	O
+5	@jimmyfallon	@jimmyfallon	XX	pos2=NNP	7	nmod	_	O
+6	1.	0.	LS	pos2=CD	7	meta	_	U-CARDINAL
+7	Sookie2	sookie0	NN	pos2=XX	1	appos	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	Logan3	logan0	LS	pos2=NN	0	root	_	U-CARDINAL
+2	.	.	.	_	1	punct	_	O
+
+1	Luke4	luke0	LS	pos2=NN	0	root	_	U-CARDINAL
+2	.	.	.	_	1	punct	_	O
+
+1	Glenn	glenn	NNP	_	0	root	_	U-PERSON
+

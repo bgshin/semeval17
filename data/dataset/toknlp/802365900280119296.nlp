@@ -1,0 +1,31 @@
+1	@D_Stieber	@d_stieber	UH	pos2=MD	3	discourse	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	block	block	VB	_	0	root	_	O
+4	them	them	PRP	_	3	dobj	_	O
+5	...	..	.	_	3	punct	_	O
+
+1	like	like	UH	pos2=IN	8	discourse	_	O
+2	the	the	DT	_	4	det	_	O
+3	Fresh	fresh	NNP	pos2=JJ	4	compound	_	O
+4	Prince	prince	NNP	_	8	nsubj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Bel	bel	NNP	_	7	compound	_	O
+7	Air	air	NNP	_	5	pobj	_	O
+8	sang	sing	VBD	pos2=NNP	0	root	_	O
+9	,	,	,	_	8	punct	_	O
+10	🎤	🎤	NNP	pos2=NN	8	punct	_	U-ORG
+11	'	'	``	pos2=POS	13	punct	_	O
+12	no	no	DT	pos2=UH	13	det	_	O
+13	need	need	NN	_	8	dep	_	O
+14	to	to	TO	_	15	aux	_	O
+15	argue	argue	VB	_	13	acl	_	O
+16	,	,	,	_	13	punct	_	O
+17	deplorables	deplorables	NNS	pos2=VBZ	21	nsubj	_	O
+18	just	just	RB	_	21	advmod	_	O
+19	do	do	VBP	_	21	aux	_	O
+20	n't	not	RB	_	21	neg	_	O
+21	understand	understand	VB	_	13	acl	_	O
+22	.	.	.	_	8	punct	_	O
+
+1	'	'	``	pos2=''	0	case	_	O
+

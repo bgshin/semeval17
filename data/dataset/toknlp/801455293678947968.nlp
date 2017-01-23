@@ -1,0 +1,13 @@
+1	#MosulOffensive	#mosuloffensive	NN	pos2=NNS	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	Iraqi	iraqi	JJ	_	4	nmod	_	U-NORP
+4	forces	force	NNS	_	5	nsubj	_	O
+5	clearing	clear	VBG	_	0	root	_	O
+6	out	out	RP	pos2=IN	5	prt	_	O
+7	landmines	landmine	NNS	_	5	dobj	_	O
+8	left	leave	VBN	_	7	acl	_	O
+9	behind	behind	RB	pos2=RP	8	advmod	_	O
+10	by	by	IN	pos2=GW	8	agent	_	O
+11	#Daesh	#daesh	NNP	pos2=VBG	10	pobj	_	O
+12	https://t.co/t9Es2hyjFn	#hlink#	ADD	_	5	dep	_	O
+

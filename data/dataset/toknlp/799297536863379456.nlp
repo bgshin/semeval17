@@ -1,0 +1,12 @@
+1	Apples	apple	NNS	_	10	dep	_	B-ORG
+2	&	&	CC	_	1	cc	_	I-ORG
+3	Pears	pears	NNP	pos2=NNS	4	compound	_	I-ORG
+4	Press	press	NNP	_	10	dep	_	L-ORG
+5	Sunday	sunday	NNP	_	6	compound	_	B-DATE
+6	January	january	NNP	_	4	npadvmod	_	I-DATE
+7	17	0	CD	_	6	nmod	_	I-DATE
+8	,	,	,	_	6	punct	_	I-DATE
+9	2016	0	CD	_	10	dep	_	L-DATE
+10	https://t.co/KXMQ7qPVui	#hlink#	ADD	pos2=NNS	0	root	_	O
+11	#nationalfastfoodday	#nationalfastfoodday	-RRB-	pos2=NN	10	punct	_	O
+

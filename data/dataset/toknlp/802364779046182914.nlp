@@ -1,0 +1,18 @@
+1	One	#crd#	CD	_	6	nmod	_	U-CARDINAL
+2	Man	man	NNP	pos2=NN	6	compound	_	B-ORG
+3	Rock	rock	NNP	_	6	compound	_	I-ORG
+4	Band	band	NNP	pos2=NN	6	compound	_	I-ORG
+5	-	-	HYPH	pos2=:	6	punct	_	I-ORG
+6	Basket	basket	NNP	pos2=NN	9	nsubj	_	I-ORG
+7	of	of	IN	_	6	prep	_	I-ORG
+8	Deplorables	deplorables	NNP	pos2=NNPS	7	pobj	_	L-ORG
+9	#nowplaying	#nowplaying	VBG	pos2=NNP	0	root	_	O
+10	on	on	IN	pos2=RB	9	prep	_	O
+11	Eat	eat	NNP	pos2=VB	10	pobj	_	O
+12	This	this	DT	pos2=NNP	13	det	_	O
+13	#Rock	#rock	NNP	pos2=NN	11	conj	_	O
+14	&	&	CC	_	13	cc	_	O
+15	#Metal	#metal	NNP	pos2=NFP	16	compound	_	O
+16	Webradio	webradio	NNP	pos2=NN	13	conj	_	O
+17	https://t.co/zGjPZHxMsY	#hlink#	ADD	pos2=NN	9	dep	_	O
+

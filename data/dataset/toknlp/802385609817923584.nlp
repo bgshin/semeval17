@@ -1,0 +1,23 @@
+1	@ezlusztig	@ezlusztig	UH	pos2=XX	2	discourse	_	O
+2	@DavidCornDC	@davidcorndc	VB	pos2=ADD	0	root	_	O
+3	#GOP	#gop	NN	pos2=NFP	2	dobj	_	O
+4	so	so	RB	pos2=CC	5	advmod	_	O
+5	hyper	hyper	JJ	pos2=RB	11	nmod	_	O
+6	partisan	partisan	JJ	pos2=NN	11	nmod	_	O
+7	and	and	CC	_	6	cc	_	O
+8	opposed	opposed	JJ	pos2=VBN	6	conj	_	O
+9	to	to	IN	pos2=TO	8	prep	_	O
+10	moderate	moderate	JJ	_	9	pcomp	_	O
+11	Dems	dems	NNPS	pos2=NNP	0	root	_	U-NORP
+12	the	the	DT	_	13	det	_	O
+13	risk	risk	NN	_	11	appos	_	O
+14	the	the	DT	_	15	det	_	O
+15	Republic	republic	NNP	pos2=NN	13	appos	_	O
+16	in	in	IN	_	13	prep	_	O
+17	pursuit	pursuit	NN	_	16	pobj	_	O
+18	of	of	IN	_	17	prep	_	O
+19	their	their	PRP$	_	21	poss	_	O
+20	insidious	insidious	JJ	_	21	nmod	_	O
+21	goals	goal	NNS	_	18	pobj	_	O
+22	.	.	.	_	2	punct	_	O
+

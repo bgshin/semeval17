@@ -1,0 +1,16 @@
+1	Ugh	ugh	UH	_	5	discourse	_	O
+2	,	,	,	_	5	punct	_	O
+3	Jack	jack	NNP	_	4	compound	_	B-PERSON
+4	Pearson	pearson	NNP	_	5	nsubj	_	L-PERSON
+5	is	be	VBZ	_	0	root	_	O
+6	the	the	DT	_	9	det	_	O
+7	best	good	JJS	_	9	nmod	_	O
+8	tv	tv	NN	_	9	compound	_	O
+9	dad	dad	NN	_	5	attr	_	O
+10	since	since	IN	_	9	prep	_	O
+11	Sandy	sandy	NNP	_	12	compound	_	B-PERSON
+12	Cohen	cohen	NNP	_	10	pobj	_	L-PERSON
+13	.	.	.	_	5	punct	_	O
+
+1	#ThisIsUs	#thisisus	ADD	pos2=NN	0	root	_	O
+

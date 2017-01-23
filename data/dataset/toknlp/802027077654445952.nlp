@@ -1,0 +1,22 @@
+1	As	as	IN	_	0	root	_	O
+2	a	a	DT	_	3	det	_	O
+3	kid	kid	NN	_	1	pobj	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	used	use	VBD	_	3	relcl	_	O
+6	to	to	TO	_	7	aux	_	O
+7	hold	hold	VB	_	5	xcomp	_	O
+8	my	my	PRP$	_	9	poss	_	O
+9	breath	breath	NN	_	7	dobj	_	O
+10	longer	long	RBR	pos2=RB	7	advmod	_	O
+11	than	than	IN	_	10	prep	_	O
+12	anybody	anybody	NN	_	11	pobj	_	O
+13	else	else	RB	_	12	advmod	_	O
+14	,	,	,	_	13	punct	_	O
+15	and	and	CC	_	13	cc	_	O
+16	then	then	RB	_	13	conj	_	O
+17	...	..	.	pos2=,	16	punct	_	O
+
+1	#DavidBlaine	#davidblaine	GW	pos2=NN	3	nmod	_	B-PERSON
+2	#citation	#citation	GW	pos2=ADD	3	nmod	_	L-PERSON
+3	https://t.co/ZFklaYnxtG	#hlink#	ADD	pos2=NN	0	root	_	O
+

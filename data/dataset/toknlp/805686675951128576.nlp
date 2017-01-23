@@ -1,0 +1,16 @@
+1	Zac	zac	NNP	_	2	compound	_	B-PERSON
+2	Efron	efron	NNP	_	6	nsubj	_	L-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	Sami	sami	NNP	pos2=NNPS	5	compound	_	B-PERSON
+5	Miró	miró	NNP	_	2	conj	_	L-PERSON
+6	coordinate	coordinate	VB	pos2=VBP	0	root	_	O
+7	for	for	IN	_	6	prep	_	O
+8	their	their	PRP$	_	10	poss	_	O
+9	workout	workout	NN	_	10	compound	_	O
+10	session	session	NN	_	7	pobj	_	O
+11	in	in	IN	_	10	prep	_	O
+12	LA	la	NNP	pos2=GW	11	pobj	_	O
+13	#ZacEfron	#zacefron	GW	pos2=ADD	15	nmod	_	O
+14	https://t.co/HAQBeBd6ED	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/KhOagUm9zU	#hlink#	ADD	_	6	dep	_	O
+

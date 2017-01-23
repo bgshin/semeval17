@@ -1,0 +1,26 @@
+1	@NigelMcphearson	@nigelmcphearson	ADD	pos2=NN	4	cc	_	O
+2	@MJoyce2244	@mjoyce0	NN	pos2=NNS	4	cc	_	O
+3	Not	not	RB	_	4	neg	_	O
+4	so	so	RB	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	Seems	seem	VBZ	_	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	#Kremlintrolls	#kremlintrolls	NNS	pos2=NNP	4	nsubj	_	O
+4	keep	keep	VB	pos2=VBP	1	ccomp	_	O
+5	lying	lie	VBG	_	4	xcomp	_	O
+6	up	up	RP	pos2=IN	5	prt	_	O
+7	a	a	DT	_	8	det	_	O
+8	storm	storm	NN	_	5	dobj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	blame	blame	VB	_	5	advcl	_	O
+11	UKR	ukr	NNP	pos2=NN	10	dobj	_	U-ORG
+12	for	for	IN	_	10	prep	_	O
+13	#MH17	#mh0	NN	pos2=XX	12	pobj	_	U-ORG
+14	even	even	RB	_	19	advmod	_	O
+15	though	though	IN	_	19	mark	_	O
+16	they	they	PRP	_	19	nsubjpass	_	O
+17	've	have	VBP	_	19	aux	_	O
+18	been	be	VBN	_	19	auxpass	_	O
+19	debunked	debunk	VBN	_	10	advcl	_	O
+

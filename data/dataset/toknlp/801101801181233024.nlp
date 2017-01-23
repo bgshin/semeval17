@@ -1,0 +1,16 @@
+1	Nice	nice	JJ	pos2=NNP	2	nmod	_	O
+2	@ScottGPatterson	@scottgpatterson	NN	pos2=NNP	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	Have	have	VB	pos2=VBP	0	root	_	O
+2	fun	fun	NN	_	1	dobj	_	O
+3	!	!	.	_	1	punct	_	O
+
+1	#SMITHRADIO	#smithradio	NN	pos2=ADD	7	dep	_	O
+2	@FallonTonight	@fallontonight	ADD	pos2=XX	7	dep	_	O
+3	@jimmyfallon	@jimmyfallon	UH	pos2=IN	7	dep	_	O
+4	#GilmoreGirls	#gilmoregirls	NNS	pos2=GW	7	nmod	_	O
+5	#GilmoreGirlsRevival	#gilmoregirlsrevival	GW	pos2=JJ	7	nmod	_	O
+6	…	…	NFP	pos2=GW	7	punct	_	O
+7	https://t.co/gEsJjt6KLk	#hlink#	ADD	pos2=NN	0	root	_	O
+

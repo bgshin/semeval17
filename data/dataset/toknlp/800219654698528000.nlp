@@ -1,0 +1,25 @@
+1	ICYMI	icymi	NN	pos2=NNS	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	Winners	winner	NNS	pos2=NNPS	5	nsubjpass	_	O
+4	were	be	VBD	_	5	auxpass	_	O
+5	announced	announce	VBN	_	0	root	_	O
+6	this	this	DT	_	7	det	_	B-DATE
+7	week	week	NN	_	5	npadvmod	_	L-DATE
+8	for	for	IN	_	5	prep	_	O
+9	the	the	DT	_	12	det	_	B-ORG
+10	National	national	NNP	_	11	compound	_	I-ORG
+11	Book	book	NNP	_	12	compound	_	I-ORG
+12	Awards	award	NNPS	pos2=NNP	8	pobj	_	L-ORG
+13	!	!	.	_	5	punct	_	O
+
+1	What	what	WP	_	6	det	_	O
+2	are	be	VBP	_	4	aux	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	reading	read	VBG	_	0	root	_	O
+5	this	this	DT	_	6	det	_	B-DATE
+6	weekend	weekend	NN	_	4	npadvmod	_	L-DATE
+7	?	?	.	_	4	punct	_	O
+
+1	#NBAwards	#nbawards	ADD	pos2=NNS	2	punct	_	O
+2	https://t.co/9jVLNcbVRd	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,9 @@
+1	valentines	valentine	NNS	pos2=FW	8	dep	_	O
+2	day	day	NN	_	8	dep	_	O
+3	pictures	picture	NNS	pos2=VBZ	8	dep	_	O
+4	free	free	JJ	_	5	nmod	_	O
+5	download	download	NN	pos2=GW	8	dep	_	O
+6	-	-	:	pos2=HYPH	8	punct	_	O
+7	https://t.co/K6z5prSPYO	#hlink#	ADD	_	8	nmod	_	O
+8	https://t.co/nfJAf7WulZ	#hlink#	ADD	_	0	root	_	U-ORG
+

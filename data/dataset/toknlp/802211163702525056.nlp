@@ -1,0 +1,35 @@
+1	@mike_pence	@mike_pence	NNP	pos2=IN	2	compound	_	B-PERSON
+2	Ryan	ryan	NNP	_	0	root	_	L-PERSON
+3	(	(	-LRB-	_	2	punct	_	O
+4	Speaker	speaker	NNP	pos2=NN	2	appos	_	O
+5	)	)	-RRB-	_	2	punct	_	O
+6	+	+	SYM	_	2	punct	_	O
+7	Romney	romney	NNP	_	2	appos	_	U-PERSON
+8	(	(	-LRB-	_	9	punct	_	O
+9	Sec	sec	NNP	_	7	appos	_	O
+10	of	of	IN	_	9	prep	_	O
+11	State	state	NN	pos2=NNP	10	pobj	_	O
+12	)	)	-RRB-	_	9	punct	_	O
+13	=	=	SYM	pos2=CC	16	punct	_	O
+14	major	major	JJ	_	16	nmod	_	O
+15	DISASTER	disaster	NN	_	16	compound	_	O
+16	DJT	djt	NN	pos2=NNP	2	appos	_	O
+17	&	&	CC	_	2	cc	_	O
+18	destroy	destroy	VB	_	2	conj	_	O
+19	MAGA	maga	NN	pos2=NNP	20	compound	_	O
+20	movement	movement	NN	_	18	dobj	_	O
+21	!	!	.	_	20	punct	_	O
+
+1	PEOPLE	people	NNS	pos2=NN	2	nsubj	_	O
+2	voted	vote	VBD	pos2=VBN	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	DJT	djt	NNP	pos2=NN	6	nmod	_	B-ORG
+5	/	/	SYM	pos2=HYPH	6	punct	_	I-ORG
+6	PENCE	penny	NNP	pos2=NN	3	pobj	_	L-ORG
+7	,	,	,	_	2	punct	_	O
+8	not	not	RB	_	11	neg	_	O
+9	4	0	CD	_	11	nsubj	_	U-CARDINAL
+10	Never	never	RB	pos2=NNP	11	neg	_	O
+11	Trumpers	trumpers	NNPS	pos2=NNP	2	prep	_	O
+12	.	.	.	_	2	punct	_	O
+

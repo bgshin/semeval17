@@ -1,0 +1,26 @@
+1	Yeah	yeah	UH	_	4	discourse	_	O
+2	police	police	NN	pos2=NNS	3	compound	_	O
+3	action	action	NN	_	4	nsubj	_	O
+4	#BlackLivesMatter	#blacklivesmatter	VBD	pos2=RB	0	root	_	O
+5	that	that	DT	pos2=WDT	6	nsubj	_	O
+6	's	's	VBZ	_	4	ccomp	_	O
+7	your	your	PRP$	_	8	poss	_	O
+8	problem	problem	NN	_	6	attr	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	Not	not	RB	_	7	neg	_	O
+2	the	the	DT	_	6	det	_	O
+3	3,000	0	CD	_	6	nmod	_	U-CARDINAL
+4	young	young	JJ	_	6	nmod	_	O
+5	black	black	JJ	_	6	nmod	_	O
+6	kids	kid	NNS	_	7	nsubj	_	O
+7	gunned	gun	VBN	pos2=VBD	0	root	_	O
+8	down	down	RP	pos2=RB	7	prt	_	O
+9	.	.	.	_	7	punct	_	O
+
+1	Not	not	RB	_	3	neg	_	O
+2	the	the	DT	_	3	det	_	O
+3	drugs	drug	NNS	_	5	dep	_	O
+4	…	…	NFP	pos2=-LRB-	3	cc	_	O
+5	https://t.co/ULD3PSnzzq	#hlink#	ADD	pos2=NN	0	root	_	O
+

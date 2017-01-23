@@ -1,0 +1,15 @@
+1	@WallaNews	@wallanews	POS	pos2=PRP$	2	nsubj	_	O
+2	reports	report	VBZ	pos2=NNS	0	root	_	O
+3	brush	brush	NN	pos2=VBP	4	compound	_	O
+4	fire	fire	NN	_	2	dobj	_	O
+5	approaching	approach	VBG	_	4	acl	_	O
+6	community	community	NN	_	5	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Maaleh	maaleh	NNP	_	9	compound	_	B-ORG
+9	HaChamisha	hachamisha	NNP	_	7	pobj	_	L-ORG
+10	in	in	IN	_	5	prep	_	O
+11	the	the	DT	_	13	det	_	B-LOC
+12	#Jerusalem	#jerusalem	NNP	_	13	compound	_	I-LOC
+13	Hills	hills	NNP	pos2=NNPS	10	pobj	_	L-LOC
+14	.	.	.	_	2	punct	_	O
+

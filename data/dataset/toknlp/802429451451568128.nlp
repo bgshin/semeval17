@@ -1,0 +1,34 @@
+1	"	"	``	pos2=SYM	3	punct	_	O
+2	Dear	dear	JJ	_	3	nmod	_	O
+3	liberals	liberal	NNS	_	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	Its	its	PRP$	pos2=NNPS	8	poss	_	O
+6	not	not	RB	_	8	neg	_	O
+7	the	the	DT	_	8	det	_	O
+8	truth	truth	NN	_	3	appos	_	O
+9	that	that	WDT	_	10	nsubj	_	O
+10	hurts	hurt	VBZ	_	8	relcl	_	O
+11	.	.	.	_	8	neg	_	O
+
+1	Its	its	PRP$	pos2=VBZ	3	poss	_	O
+2	the	the	DT	_	3	det	_	O
+3	pain	pain	NN	_	0	root	_	O
+4	of	of	IN	_	3	prep	_	O
+5	pulling	pull	VBG	_	4	pcomp	_	O
+6	your	your	PRP$	_	7	poss	_	O
+7	head	head	NN	_	5	dobj	_	O
+8	out	out	IN	_	5	prep	_	O
+9	of	of	IN	_	8	prep	_	O
+10	your	your	PRP$	_	11	poss	_	O
+11	asses	ass	NNS	_	9	pobj	_	O
+12	and	and	CC	_	5	cc	_	O
+13	being	be	VBG	_	14	auxpass	_	O
+14	blinded	blind	VBN	_	5	conj	_	O
+15	by	by	IN	_	14	agent	_	O
+16	the	the	DT	_	17	det	_	O
+17	light	light	NN	_	15	pobj	_	O
+18	of	of	IN	_	17	prep	_	O
+19	day	day	NN	_	18	pobj	_	O
+20	.	.	.	_	3	punct	_	O
+21	"	"	''	_	3	punct	_	O
+

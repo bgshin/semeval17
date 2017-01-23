@@ -1,0 +1,14 @@
+1	"	"	``	pos2=SYM	4	punct	_	O
+2	#MarineLePen	#marinelepen	NN	pos2=NNP	4	nsubj	_	O
+3	Will	will	MD	_	4	aux	_	O
+4	Be	be	VB	_	0	root	_	O
+5	the	the	DT	_	8	det	_	O
+6	Next	next	JJ	pos2=NNP	8	nmod	_	O
+7	French	french	JJ	pos2=NNP	8	nmod	_	U-NORP
+8	President	president	NNP	_	4	attr	_	O
+9	"	"	''	_	8	punct	_	O
+10	–	-	:	pos2=,	8	punct	_	O
+11	Christopher	christopher	NNP	_	12	compound	_	B-PERSON
+12	Dickey	dickey	NNP	pos2=GW	8	appos	_	L-PERSON
+13	https://t.co/Ao4VxzZDyc	#hlink#	ADD	_	8	appos	_	O
+

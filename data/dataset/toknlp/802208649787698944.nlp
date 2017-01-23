@@ -1,0 +1,19 @@
+1	Randy	randy	NNP	_	3	compound	_	B-PERSON
+2	Rainbow	rainbow	NNP	_	3	compound	_	L-PERSON
+3	Tackles	tackle	NNPS	pos2=VBZ	5	compound	_	O
+4	Mike	mike	NNP	_	5	compound	_	B-PERSON
+5	Pence	penny	NNP	_	7	poss	_	I-PERSON
+6	's	's	POS	_	5	case	_	L-PERSON
+7	Trip	trip	NNP	pos2=NN	0	root	_	O
+8	To	to	TO	pos2=IN	10	aux	_	O
+9	"	"	``	_	10	punct	_	O
+10	Hamilton	hamilton	NNP	_	7	appos	_	U-PERSON
+11	"	"	''	_	10	punct	_	O
+12	In	in	IN	_	7	prep	_	O
+13	Latest	late	JJS	pos2=NNP	15	nmod	_	O
+14	Musical	musical	JJ	pos2=NNP	15	nmod	_	O
+15	Parody	parody	NN	pos2=NNP	12	pobj	_	O
+16	https://t.co/qofN1lVMoL	#hlink#	ADD	_	15	appos	_	O
+17	via	via	IN	_	7	prep	_	O
+18	@NewNowNext	@newnownext	NN	pos2=ADD	17	pobj	_	O
+

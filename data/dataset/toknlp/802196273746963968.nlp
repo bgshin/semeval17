@@ -1,0 +1,16 @@
+1	#isis	#isis	NNP	pos2=IN	2	compound	_	O
+2	France	france	NNP	_	3	nsubj	_	U-GPE
+3	Foils	foil	VBZ	pos2=NNP	0	root	_	O
+4	ISIS	isis	NNP	pos2=NN	5	compound	_	U-ORG
+5	Attack	attack	NNP	pos2=NN	15	dep	_	O
+6	Planned	plan	VBN	pos2=NNP	5	acl	_	O
+7	for	for	IN	_	6	prep	_	O
+8	Next	next	JJ	pos2=NNP	9	nmod	_	B-DATE
+9	Week	week	NN	pos2=NNP	7	pobj	_	L-DATE
+10	:	:	:	_	15	punct	_	O
+11	Prosecutor	prosecutor	NN	pos2=GW	15	nmod	_	O
+12	-	-	GW	pos2=:	15	punct	_	O
+13	https://t.co/Qcb57EDg1u	#hlink#	ADD	pos2=GW	15	nmod	_	O
+14	https://t.co/G2JRuuLL6I…	#hlink#	ADD	_	15	nmod	_	U-ORG
+15	https://t.co/KZByWNke1g	#hlink#	ADD	_	3	dep	_	U-ORG
+

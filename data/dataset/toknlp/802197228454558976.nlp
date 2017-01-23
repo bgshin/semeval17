@@ -1,0 +1,13 @@
+1	#Uber	#uber	NNP	pos2=PRP$	2	compound	_	O
+2	drivers	driver	NNS	_	7	nsubj	_	O
+3	in	in	IN	_	2	prep	_	O
+4	Mexico	mexico	NNP	_	5	compound	_	B-GPE
+5	City	city	NNP	_	3	pobj	_	L-GPE
+6	are	be	VBP	_	7	aux	_	O
+7	recording	record	VBG	_	0	root	_	O
+8	#airpollution	#airpollution	NN	pos2=XX	7	dobj	_	O
+9	--	--	:	pos2=.	8	punct	_	O
+10	https://t.co/oUyAp9vRjH	#hlink#	ADD	_	8	appos	_	O
+11	#airquality	#airquality	-RRB-	pos2=IN	12	punct	_	O
+12	@CalAireColombia	@calairecolombia	NN	pos2=ADD	7	npadvmod	_	O
+

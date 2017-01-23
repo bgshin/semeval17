@@ -1,0 +1,8 @@
+1	Animal	animal	NN	pos2=JJ	2	compound	_	O
+2	testing	testing	NN	_	5	nsubj	_	O
+3	should	should	MD	_	5	aux	_	O
+4	not	not	RB	_	5	neg	_	O
+5	be	be	VB	_	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	thing	thing	NN	_	5	attr	_	O
+

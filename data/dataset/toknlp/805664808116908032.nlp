@@ -1,0 +1,26 @@
+1	Hey	hey	UH	_	3	discourse	_	O
+2	,	,	,	_	3	punct	_	O
+3	democrats	democrat	NNS	pos2=NNPS	0	root	_	U-NORP
+4	...	..	.	pos2=,	3	punct	_	O
+
+1	the	the	DT	_	3	det	_	O
+2	popular	popular	JJ	_	3	nmod	_	O
+3	vote	vote	NN	_	6	nsubj	_	O
+4	does	do	VBZ	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	make	make	VB	_	0	root	_	O
+7	Hillary	hillary	NNP	_	8	compound	_	U-PERSON
+8	president	president	NN	pos2=NNP	6	dobj	_	O
+9	.	.	.	_	6	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	what	what	WP	_	9	pobj	_	O
+4	the	the	DT	_	7	det	_	O
+5	electoral	electoral	JJ	_	7	nmod	_	O
+6	college	college	NN	_	7	compound	_	O
+7	system	system	NN	_	8	nsubj	_	O
+8	is	be	VBZ	_	2	ccomp	_	O
+9	for	for	IN	_	8	prep	_	O
+10	.	.	.	_	2	punct	_	O
+

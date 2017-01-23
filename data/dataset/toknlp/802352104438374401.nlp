@@ -1,0 +1,23 @@
+1	@janeblackminds	@janeblackminds	UH	pos2=NNS	4	discourse	_	O
+2	@saneprogressive	@saneprogressive	UH	pos2=JJ	7	discourse	_	O
+3	@RealTimBlack	@realtimblack	UH	pos2=VB	4	discourse	_	O
+4	@HAGOODMANAUTHOR	@hagoodmanauthor	NN	pos2=ADD	0	meta	_	O
+5	@claudia_stauber	@claudia_stauber	NNP	pos2=IN	6	compound	_	B-PERSON
+6	Jill	jill	NNP	_	7	nsubj	_	L-PERSON
+7	did	do	VBD	_	4	relcl	_	O
+8	0	0	CD	_	7	dobj	_	U-CARDINAL
+9	with	with	IN	_	7	prep	_	O
+10	RTs	rts	NNS	pos2=NNP	9	pobj	_	O
+11	re	re	RB	pos2=FW	7	advmod	_	O
+12	.	.	.	_	7	punct	_	O
+
+1	WKLS	wkls	NNP	pos2=NNS	0	root	_	U-ORG
+2	on	on	IN	_	1	prep	_	O
+3	Hillary	hillary	NNP	_	4	compound	_	B-PERSON
+4	TPP	tpp	NNP	pos2=NN	5	compound	_	L-PERSON
+5	lie	lie	NN	pos2=VB	2	pobj	_	O
+6	..	..	.	_	1	punct	_	O
+
+1	fears	fear	NNS	pos2=VBZ	2	compound	_	O
+2	Trump	trump	NNP	pos2=NN	0	root	_	O
+

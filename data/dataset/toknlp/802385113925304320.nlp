@@ -1,0 +1,22 @@
+1	@RBReich	@rbreich	UH	pos2=XX	3	discourse	_	O
+2	@washingtonpost	@washingtonpost	UH	pos2=FW	3	discourse	_	O
+3	hahaha	hahaha	UH	_	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+
+1	#gamed	#gamed	NNP	pos2=VBN	3	compound	_	B-ORG
+2	Green	green	NNP	_	3	compound	_	I-ORG
+3	Party	party	NNP	_	0	root	_	L-ORG
+4	funded	fund	VBN	_	3	acl	_	O
+5	by	by	IN	_	4	agent	_	O
+6	the	the	DT	_	10	det	_	O
+7	heartbroken	heartbroken	JJ	pos2=NNP	10	nmod	_	O
+8	Dems	dems	NNPS	pos2=NNP	10	compound	_	U-NORP
+9	-	-	HYPH	_	10	punct	_	O
+10	salt	salt	NN	_	5	pobj	_	O
+11	in	in	IN	_	4	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	wound	wound	NN	_	11	pobj	_	O
+14	!	!	.	_	3	punct	_	O
+
+1	https://t.co/wKT81VmOYM	#hlink#	ADD	_	0	root	_	U-ORG
+

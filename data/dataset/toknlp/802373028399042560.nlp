@@ -1,0 +1,24 @@
+1	@geoffreyvs	@geoffreyvs	IN	pos2=SYM	4	prep	_	O
+2	bush	bush	NN	pos2=JJ	3	compound	_	O
+3	admin	admin	NN	_	4	nsubj	_	O
+4	approved	approve	VBD	pos2=VBN	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	bailout	bailout	NN	_	4	dobj	_	O
+7	before	before	IN	_	9	mark	_	O
+8	Obama	obama	NNP	_	9	nsubj	_	U-PERSON
+9	took	take	VBD	_	4	advcl	_	O
+10	office	office	NN	_	9	dobj	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	Then	then	RB	_	2	advmod	_	O
+2	again	again	RB	_	4	advmod	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	hate	hate	VBP	_	0	root	_	O
+5	Trump	trump	NNP	pos2=NN	4	dobj	_	U-PERSON
+6	so	so	RB	pos2=IN	8	advmod	_	O
+7	you	you	PRP	_	8	nsubj	_	O
+8	prob	prob	VBP	pos2=MD	4	advcl	_	O
+9	hate	hate	NN	pos2=VBP	10	compound	_	O
+10	facts	fact	NNS	_	8	dobj	_	O
+11	🇺🇸🐸#swamp	🇺🇸🐸#swamp	.	pos2=XX	4	punct	_	O
+

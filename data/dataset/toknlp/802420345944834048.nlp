@@ -1,0 +1,13 @@
+1	@starrhaus	@starrhaus	UH	pos2=FW	5	discourse	_	O
+2	@BeachPeanuts	@beachpeanuts	NNS	pos2=VBZ	5	nsubj	_	O
+3	@washingtonpost	@washingtonpost	RB	pos2=MD	5	advmod	_	O
+4	too	too	RB	_	5	advmod	_	O
+5	bad	bad	JJ	_	0	root	_	O
+6	the	the	DT	_	8	det	_	O
+7	obama	obama	NN	pos2=FW	8	compound	_	O
+8	admin	admin	NN	_	9	nsubj	_	O
+9	said	say	VBD	_	5	ccomp	_	O
+10	this	this	DT	_	9	dobj	_	O
+11	yesterday	yesterday	NN	_	12	npadvmod	_	U-DATE
+12	https://t.co/qGfLpxRewZ	#hlink#	ADD	_	9	ccomp	_	U-ORG
+

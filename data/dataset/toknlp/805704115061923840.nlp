@@ -1,0 +1,17 @@
+1	HIGHTLIGHT	hightlight	NNP	pos2=NN	2	compound	_	O
+2	HD	hd	NN	pos2=NNP	3	compound	_	O
+3	Neymar	neymar	NNP	_	4	nsubj	_	U-PERSON
+4	vs	vs	VBZ	pos2=IN	0	root	_	O
+5	James	james	NNP	_	4	attr	_	U-PERSON
+6	WHO	who	WP	pos2=NNP	7	nsubj	_	O
+7	IS	be	VBZ	_	5	relcl	_	O
+8	TALENT	talent	NN	pos2=NNP	7	attr	_	O
+9	,	,	,	_	16	punct	_	O
+10	★Messi★Neymar★Suarez	★messi★neymar★suarez	NNP	pos2=IN	13	compound	_	B-ORG
+11	VS	vs	NNP	pos2=IN	13	compound	_	I-ORG
+12	Cristiano	cristiano	NNP	_	13	compound	_	I-ORG
+13	Ronaldo★Ben	ronaldo★ben	NNP	pos2=GW	16	dep	_	L-ORG
+14	…	…	NFP	pos2=GW	16	punct	_	O
+15	https://t.co/AkxrE4lF8z	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/gAEGzUbPJq	#hlink#	ADD	_	4	dep	_	U-ORG
+

@@ -1,0 +1,17 @@
+1	Blow	blow	VB	_	0	root	_	O
+2	the	the	DT	_	4	det	_	O
+3	#IslamicState	#islamicstate	NN	pos2=ADD	4	compound	_	O
+4	#ISIS	#isis	NN	pos2=NNP	1	dobj	_	O
+5	#hamas	#hamas	NNPS	pos2=XX	4	appos	_	U-ORG
+6	#MuslimBrotherhood	#muslimbrotherhood	VBD	pos2=ADD	16	nmod	_	O
+7	#Taliban	#taliban	NNP	pos2=VBG	6	dobj	_	O
+8	OFF	off	IN	pos2=RP	6	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	FACE	face	NN	pos2=NNP	8	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	EARTH	earth	NNP	pos2=NN	14	compound	_	O
+14	#Israel	#israel	NNP	pos2=GW	11	pobj	_	O
+15	#IStandWithIsrael	#istandwithisrael	ADD	pos2=GW	16	dep	_	O
+16	https://t.co/3inBGYt6ng	#hlink#	ADD	_	1	dep	_	O
+

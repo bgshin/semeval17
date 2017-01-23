@@ -1,0 +1,15 @@
+1	@pmakela1	@pmakela0	NN	pos2=LS	6	dep	_	O
+2	@INechepurenko	@inechepurenko	TO	pos2=ADD	6	punct	_	O
+3	@DavidWMcDuff	@davidwmcduff	NNS	pos2=NNP	6	nsubj	_	O
+4	Do	do	VB	pos2=VBP	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	worry	worry	VB	_	0	root	_	O
+7	.	.	.	_	6	punct	_	O
+
+1	Poroshenko	poroshenko	NNP	pos2=FW	2	nsubj	_	U-PERSON
+2	made	make	VBD	pos2=VBN	0	root	_	O
+3	up	up	RP	_	2	prt	_	O
+4	for	for	IN	_	2	prep	_	O
+5	it	it	PRP	_	4	pobj	_	O
+6	.	.	.	_	2	punct	_	O
+

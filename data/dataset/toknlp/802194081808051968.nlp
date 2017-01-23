@@ -1,0 +1,11 @@
+1	Oh	oh	UH	_	0	root	_	O
+2	god	god	UH	_	1	discourse	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	So	so	RB	_	2	advmod	_	O
+2	proud	proud	JJ	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	xx#3yearsofmidnightmemories	xx0yearsofmidnightmemories	NNS	pos2=VBZ	2	compound	_	O
+2	#onedirection	#onedirection	NN	pos2=UH	0	root	_	O
+

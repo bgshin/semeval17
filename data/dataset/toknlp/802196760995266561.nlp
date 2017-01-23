@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det	_	O
+2	Anti-trump	anti-trump	JJ	pos2=NNP	3	nmod	_	O
+3	Riots	riot	NNS	pos2=NNPS	4	nsubj	_	O
+4	Are	be	VBP	_	12	ccomp	_	O
+5	A	a	DT	pos2=NNP	7	det	_	O
+6	Smoke	smoke	NN	pos2=NNP	7	compound	_	O
+7	Screen	screen	NN	pos2=NNP	4	attr	_	O
+8	The	the	DT	_	10	det	_	O
+9	Real	real	NNP	pos2=JJ	10	compound	_	O
+10	Goal	goal	NNP	pos2=NN	7	appos	_	O
+11	–	-	:	pos2=,	12	punct	_	O
+12	Eliminate	eliminate	VB	pos2=NNP	0	root	_	O
+13	The	the	DT	_	15	det	_	O
+14	Electoral	electoral	NNP	_	15	compound	_	O
+15	College	college	NNP	pos2=NN	12	dobj	_	O
+16	:	:	:	_	12	punct	_	O
+17	https://t.co/Y9Tl2uXfAc	#hlink#	ADD	_	12	dep	_	O
+

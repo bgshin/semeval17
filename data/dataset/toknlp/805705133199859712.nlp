@@ -1,0 +1,10 @@
+1	The	the	DT	_	2	det	_	O
+2	judges	judge	NNS	_	9	nsubj	_	O
+3	who	who	WP	_	5	nsubj	_	O
+4	will	will	MD	_	5	aux	_	O
+5	rule	rule	VB	_	2	relcl	_	O
+6	on	on	IN	pos2=RP	5	prep	_	O
+7	Brexit	brexit	NNP	pos2=DT	8	compound	_	U-GPE
+8	appeal	appeal	NN	pos2=VB	6	pobj	_	O
+9	https://t.co/Mavq8b3EFX	#hlink#	ADD	_	0	root	_	O
+

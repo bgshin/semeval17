@@ -1,0 +1,23 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	'd	would	MD	_	3	aux	_	O
+3	like	like	VB	_	12	ccomp	_	O
+4	to	to	TO	_	5	aux	_	O
+5	voice	voice	VB	_	3	xcomp	_	O
+6	a	a	DT	_	9	det	_	O
+7	very	very	RB	_	8	advmod	_	O
+8	unpopular	unpopular	JJ	_	9	nmod	_	O
+9	opinion	opinion	NN	_	5	dobj	_	O
+10	:	:	:	_	12	punct	_	O
+11	I	I	PRP	_	12	nsubj	_	O
+12	am	be	VBP	_	0	root	_	O
+13	not	not	RB	_	12	neg	_	O
+14	a	a	DT	_	15	det	_	O
+15	fan	fan	NN	_	12	attr	_	O
+16	of	of	IN	_	15	prep	_	O
+17	self	self	NN	_	18	npadvmod	_	O
+18	driving	drive	VBG	pos2=NN	16	pcomp	_	O
+19	cars	car	NNS	_	18	dobj	_	O
+20	.	.	.	_	12	punct	_	O
+
+1	🚫🚗🚕🚙	🚫🚗🚕🚙	SYM	pos2=NFP	0	root	_	U-ORG
+

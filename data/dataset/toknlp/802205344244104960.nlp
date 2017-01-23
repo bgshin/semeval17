@@ -1,0 +1,9 @@
+1	Going	go	VBG	_	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	see	see	VB	_	1	xcomp	_	O
+4	#FantasticBeasts	#fantasticbeasts	NNS	pos2=PRP	3	dobj	_	O
+5	and	and	CC	_	1	cc	_	O
+6	I	I	PRP	_	8	nsubjpass	_	O
+7	am	be	VBP	_	8	auxpass	_	O
+8	LIT	light	VBN	pos2=NNP	1	conj	_	U-ORG
+

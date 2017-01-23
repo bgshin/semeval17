@@ -1,0 +1,20 @@
+1	4.	0.	LS	_	3	meta	_	U-CARDINAL
+2	Michele	michele	NNP	pos2=GW	3	compound	_	B-PERSON
+3	#GilmoreGirlsTop43	#gilmoregirlstop0	NN	pos2=NNP	0	root	_	L-PERSON
+4	.	.	.	_	3	punct	_	O
+
+1	Roon2	roon0	LS	pos2=NN	0	root	_	U-CARDINAL
+2	.	.	.	_	1	punct	_	O
+
+1	Emily	emily	NNP	pos2=NN	6	vocative	_	U-PERSON
+2	and	and	CC	_	1	cc	_	O
+3	Richard	richard	NNP	_	1	conj	_	U-PERSON
+4	(	(	-LRB-	_	6	punct	_	O
+5	I	I	PRP	pos2=NN	6	nsubj	_	O
+6	count	count	VBP	_	0	root	_	O
+7	as	as	IN	_	6	prep	_	O
+8	one	#crd#	CD	_	7	pobj	_	U-CARDINAL
+9	)	)	-RRB-	_	6	punct	_	O
+10	1.	0.	CD	pos2=LS	11	nmod	_	U-CARDINAL
+11	Paris	paris	NNP	pos2=NNS	6	dobj	_	U-GPE
+

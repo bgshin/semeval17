@@ -1,0 +1,26 @@
+1	Michael	michael	NNP	_	2	compound	_	B-PERSON
+2	Moore	moore	NNP	_	3	nsubj	_	L-PERSON
+3	staged	stage	VBD	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	fake	fake	JJ	_	6	nmod	_	O
+6	interview	interview	NN	_	3	dobj	_	O
+7	with	with	IN	_	6	prep	_	O
+8	Assange	assange	NNP	_	7	pobj	_	U-PERSON
+9	to	to	TO	_	10	aux	_	O
+10	imply	imply	VB	_	3	advcl	_	O
+11	Julian	julian	NNP	_	12	compound	_	B-PERSON
+12	Assange	assange	NNP	_	13	nsubj	_	L-PERSON
+13	was	be	VBD	_	10	ccomp	_	O
+14	alive	alive	JJ	_	13	acomp	_	O
+15	.	.	.	_	3	punct	_	O
+
+1	What	what	WDT	pos2=WP	3	det	_	O
+2	a	a	DT	_	3	det	_	O
+3	fraud	fraud	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Was	be	VBD	_	0	root	_	O
+2	postdated	postdated	JJ	pos2=VBN	3	nmod	_	B-DATE
+3	months	month	NNS	_	1	attr	_	L-DATE
+4	.	.	.	_	1	punct	_	O
+

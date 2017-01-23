@@ -1,0 +1,13 @@
+1	Warming	warming	NNP	pos2=VBG	2	compound	_	O
+2	Relations	relation	NNPS	pos2=NNS	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	Person	person	NNP	pos2=NN	3	pobj	_	O
+5	,	,	,	_	4	punct	_	O
+6	Putin	putin	NNP	_	4	conj	_	U-PERSON
+7	and	and	CC	_	6	cc	_	O
+8	Erdogan	erdogan	NNP	_	11	compound	_	B-WORK_OF_ART
+9	Revive	revive	NNP	pos2=VBP	11	compound	_	I-WORK_OF_ART
+10	Pipeline	pipeline	NNP	pos2=NN	11	compound	_	I-WORK_OF_ART
+11	Deal	deal	NNP	pos2=GW	6	conj	_	L-WORK_OF_ART
+12	https://t.co/Gd4mgV8sgz	#hlink#	ADD	_	4	appos	_	O
+

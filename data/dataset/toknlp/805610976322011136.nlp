@@ -1,0 +1,13 @@
+1	@JenniferJMcG	@jenniferjmcg	NNS	pos2=ADD	2	compound	_	O
+2	@Desiree84110612	@desiree0	NN	pos2=VBP	0	root	_	O
+3	@mediumvillain	@mediumvillain	UH	pos2=VBP	2	discourse	_	O
+4	@KiranOpal	@kiranopal	ADD	pos2=MD	5	compound	_	O
+5	@eshaLegal	@eshalegal	NNP	pos2=XX	2	appos	_	O
+6	Like	like	IN	pos2=UH	2	prep	_	O
+7	homeopathy	homeopathy	NN	_	6	pobj	_	O
+8	,	,	,	_	2	punct	_	O
+9	but	but	CC	_	2	cc	_	O
+10	for	for	IN	_	6	conj	_	O
+11	allies	ally	NNS	_	10	pobj	_	O
+12	.	.	.	_	2	punct	_	O
+

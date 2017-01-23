@@ -1,0 +1,21 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	on	on	IN	_	2	prep	_	O
+4	this	this	DT	_	5	det	_	O
+5	plane	plane	NN	_	3	pobj	_	O
+6	and	and	CC	_	2	cc	_	O
+7	they	they	PRP	_	8	nsubj	_	O
+8	said	say	VBD	_	2	conj	_	O
+9	u	u	PRP	_	12	nsubj	_	O
+10	ca	can	MD	_	12	aux	_	O
+11	n't	not	RB	_	12	neg	_	O
+12	board	board	VB	_	8	ccomp	_	O
+13	the	the	DT	_	14	det	_	O
+14	plane	plane	NN	_	12	dobj	_	O
+15	if	if	IN	_	16	mark	_	O
+16	have	have	VBP	pos2=VB	12	advcl	_	O
+17	a	a	DT	_	19	det	_	O
+18	galaxy	galaxy	NN	_	19	compound	_	O
+19	note	note	NN	_	16	dobj	_	O
+20	7	0	CD	_	19	nmod	_	U-CARDINAL
+

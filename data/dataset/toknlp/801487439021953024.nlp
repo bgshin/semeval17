@@ -1,0 +1,26 @@
+1	Trump	trump	NNP	pos2=NN	3	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	erection	erection	NN	_	15	nsubj	_	O
+4	(	(	-LRB-	_	3	punct	_	O
+5	teehee	teehee	NN	pos2=AFX	3	appos	_	O
+6	)	)	-RRB-	_	3	punct	_	O
+7	of	of	IN	_	3	prep	_	O
+8	a	a	DT	_	9	det	_	O
+9	wall	wall	NN	_	7	pobj	_	O
+10	on	on	IN	_	3	prep	_	O
+11	the	the	DT	_	13	det	_	O
+12	Mexican	mexican	JJ	_	13	nmod	_	U-NORP
+13	border	border	NN	_	10	pobj	_	O
+14	will	will	MD	_	15	aux	_	O
+15	go	go	VB	_	0	root	_	O
+16	the	the	DT	_	18	det	_	O
+17	same	same	JJ	_	18	nmod	_	O
+18	way	way	NN	_	15	npadvmod	_	O
+19	as	as	IN	_	15	prep	_	O
+20	Obama	obama	NNP	_	22	poss	_	U-PERSON
+21	's	's	POS	_	20	case	_	O
+22	closure	closure	NN	_	19	pobj	_	O
+23	of	of	IN	_	22	prep	_	O
+24	G'tmo	g'tmo	NNP	pos2=NN	23	pobj	_	U-ORG
+25	.	.	.	_	15	punct	_	O
+

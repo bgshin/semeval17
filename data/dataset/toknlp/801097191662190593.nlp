@@ -1,0 +1,25 @@
+1	@JihadiColin	@jihadicolin	ADD	pos2=NNP	9	punct	_	U-GPE
+2	@CFL68	@cfl0	NN	pos2=$	4	compound	_	O
+3	@MJoyce2244	@mjoyce0	NN	pos2=LS	4	compound	_	O
+4	@ChefOltman1	@chefoltman0	NN	pos2=GW	9	nsubj	_	O
+5	Too	too	RB	_	6	advmod	_	O
+6	bad	bad	JJ	_	8	nmod	_	O
+7	#MH17	#mh0	NN	pos2=IN	8	compound	_	O
+8	truth	truth	NN	_	9	nsubj	_	O
+9	comes	come	VBZ	_	0	root	_	O
+10	free	free	JJ	pos2=RB	9	advcl	_	O
+11	.	.	.	_	9	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	know	know	VBP	_	0	root	_	O
+3	how	how	WRB	_	7	advmod	_	O
+4	that	that	DT	pos2=WDT	7	mark	_	O
+5	really	really	RB	_	7	advmod	_	O
+6	bugs	bug	NNS	pos2=VBZ	7	nsubj	_	O
+7	piss	piss	VBP	pos2=VB	2	ccomp	_	O
+8	out	out	IN	pos2=RP	7	prep	_	O
+9	of	of	IN	_	8	prep	_	O
+10	you	you	PRP	_	9	pobj	_	O
+11	paid	pay	VBD	pos2=VBN	7	advcl	_	O
+12	#Kremlintrolls	#kremlintrolls	NNS	pos2=NNP	11	dobj	_	U-TIME
+

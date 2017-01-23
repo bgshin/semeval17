@@ -1,0 +1,24 @@
+1	Liberals	liberal	NNS	pos2=NNPS	2	nsubj	_	O
+2	demonize	demonize	VBP	pos2=VB	0	root	_	O
+3	Fidel	fidel	NNP	_	2	dobj	_	U-PERSON
+4	as	as	IN	_	2	prep	_	O
+5	a	a	DT	_	7	det	_	O
+6	'	'	``	_	7	punct	_	O
+7	dictator	dictator	NN	_	4	pobj	_	O
+8	'	'	''	_	7	punct	_	O
+9	and	and	CC	_	4	cc	_	O
+10	in	in	IN	_	4	conj	_	O
+11	the	the	DT	_	15	det	_	O
+12	same	same	JJ	_	15	nmod	_	O
+13	breath	breath	NN	_	14	compound	_	O
+14	extol	extol	NN	pos2=VBP	15	compound	_	O
+15	entrepreneurs	entrepreneur	NNS	_	10	pobj	_	O
+16	who	who	WP	_	17	nsubj	_	O
+17	are	be	VBP	_	15	relcl	_	O
+18	entirely	entirely	RB	_	19	advmod	_	O
+19	unwilling	unwilling	JJ	_	17	acomp	_	O
+20	to	to	TO	_	21	aux	_	O
+21	cede	cede	VB	_	19	xcomp	_	O
+22	control	control	NN	_	21	dobj	_	O
+23	.	.	.	_	2	punct	_	O
+

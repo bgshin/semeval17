@@ -1,0 +1,27 @@
+1	so	so	RB	_	15	advmod	_	O
+2	if	if	IN	_	6	mark	_	O
+3	the	the	DT	_	5	det	_	B-ORG
+4	Electoral	electoral	NNP	_	5	compound	_	I-ORG
+5	College	college	NNP	pos2=NN	6	nsubj	_	L-ORG
+6	goes	go	VBZ	_	15	advcl	_	O
+7	with	with	IN	_	6	prep	_	O
+8	Clinton	clinton	NNP	_	7	pobj	_	U-PERSON
+9	,	,	,	_	15	punct	_	O
+10	all	all	PDT	_	13	predet	_	O
+11	the	the	DT	_	13	det	_	O
+12	#Trump	#trump	JJ	pos2=NNP	13	nmod	_	O
+13	folks	folk	NNS	_	15	nsubj	_	O
+14	will	will	MD	_	15	aux	_	O
+15	have	have	VB	_	0	root	_	O
+16	their	their	PRP$	_	17	poss	_	O
+17	turn	turn	NN	pos2=VB	15	dobj	_	O
+18	to	to	TO	pos2=IN	20	aux	_	O
+19	hypocritically	hypocritically	RB	_	20	advmod	_	O
+20	whine	whine	VB	_	17	acl	_	O
+21	,	,	,	_	20	punct	_	O
+22	complain	complain	VB	pos2=VBP	20	conj	_	O
+23	,	,	,	_	22	punct	_	O
+24	and	and	CC	_	22	cc	_	O
+25	protest	protest	NN	pos2=VB	22	conj	_	O
+26	...	..	.	pos2=,	15	punct	_	O
+

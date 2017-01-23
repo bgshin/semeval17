@@ -1,0 +1,15 @@
+1	Palestinians	palestinian	NNPS	pos2=NNS	2	nsubj	_	U-NORP
+2	send	send	VBP	pos2=VB	0	root	_	O
+3	four	#crd#	CD	_	5	nmod	_	U-CARDINAL
+4	firefighting	firefighting	NN	pos2=JJ	5	compound	_	O
+5	teams	team	NNS	_	2	dobj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	help	help	VB	_	2	advcl	_	O
+8	put	put	VB	_	7	xcomp	_	O
+9	out	out	RP	_	8	prt	_	O
+10	Israeli	israeli	JJ	_	11	nmod	_	U-NORP
+11	wildfires	wildfire	NNS	_	8	dobj	_	O
+12	https://t.co/VuTvLmtQGi	#hlink#	ADD	pos2=VBP	14	dep	_	O
+13	#Palestine	#palestine	NNP	pos2=-RRB-	14	compound	_	B-PERSON
+14	#Israel	#israel	NNP	pos2=.	10	pobj	_	L-PERSON
+

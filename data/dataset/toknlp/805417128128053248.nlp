@@ -1,0 +1,12 @@
+1	Let	let	VB	_	0	root	_	O
+2	@theashleygraham	@theashleygraham	PRP	pos2=UH	3	nsubj	_	O
+3	show	show	VB	pos2=VBP	1	ccomp	_	O
+4	you	you	PRP	_	3	dobj	_	O
+5	how	how	WRB	_	7	advmod	_	O
+6	to	to	TO	_	7	aux	_	O
+7	rock	rock	VB	pos2=NN	3	xcomp	_	O
+8	winter	winter	NN	pos2=GW	9	compound	_	O
+9	neutrals	neutral	NNS	_	7	dobj	_	O
+10	https://t.co/hBlpoIutbf	#hlink#	ADD	_	11	nmod	_	O
+11	https://t.co/Llj6vdHyDo	#hlink#	ADD	_	8	appos	_	U-ORG
+

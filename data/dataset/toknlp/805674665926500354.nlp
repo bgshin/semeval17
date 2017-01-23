@@ -1,0 +1,31 @@
+1	@ESQPolitics	@esqpolitics	NNS	pos2=NNP	2	nsubj	_	O
+2	Get	get	VB	pos2=VBP	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	fuck	fuck	NN	_	2	dobj	_	O
+5	out	out	IN	_	2	prep	_	O
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	country	country	NN	_	6	pobj	_	O
+9	or	or	CC	_	2	cc	_	O
+10	shut	shut	VB	pos2=VBD	2	conj	_	O
+11	your	your	PRP$	_	13	poss	_	O
+12	damn	damn	JJ	pos2=NN	13	nmod	_	O
+13	mouth	mouth	NN	_	10	dobj	_	O
+14	.	.	.	_	2	punct	_	O
+
+1	You	you	PRP	_	4	nsubjpass	_	O
+2	are	be	VBP	_	4	auxpass	_	O
+3	not	not	RB	_	4	neg	_	O
+4	wanted	want	VBN	pos2=JJ	0	root	_	O
+5	or	or	CC	_	4	cc	_	O
+6	relevant	relevant	JJ	pos2=VBN	4	conj	_	O
+7	to	to	IN	_	6	prep	_	O
+8	anything	anything	NN	_	7	pobj	_	O
+9	!	!	.	_	4	punct	_	O
+
+1	Just	just	RB	_	2	advmod	_	O
+2	dumb	dumb	JJ	_	3	nmod	_	O
+3	fracking	fracking	NN	pos2=VBG	4	nsubj	_	O
+4	black	black	JJ	pos2=NN	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+

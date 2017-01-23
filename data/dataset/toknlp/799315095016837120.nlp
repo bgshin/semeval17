@@ -1,0 +1,23 @@
+1	Yesterday	yesterday	NN	_	2	npadvmod	_	U-DATE
+2	was	be	VBD	_	0	root	_	O
+3	#NationalFastFoodDay	#nationalfastfoodday	NNP	pos2=VBN	2	attr	_	U-ORG
+4	and	and	CC	_	2	cc	_	O
+5	today	today	NN	_	6	npadvmod	_	U-DATE
+6	is	be	VBZ	_	2	conj	_	O
+7	TAYLOR	taylor	NNP	pos2=JJ	8	compound	_	U-PERSON
+8	DAY	day	NN	pos2=NNP	6	attr	_	O
+9	!!	!!	.	_	6	punct	_	O
+
+1	Coincidence	coincidence	NN	pos2=VB	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	think	think	VB	_	0	root	_	O
+5	so	so	RB	_	4	advmod	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	🤗🌮🍟🍔🍕	🤗🌮🍟🍔🍕	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/D4J31d5N4i	#hlink#	ADD	pos2=NN	0	root	_	O
+

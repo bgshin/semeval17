@@ -1,0 +1,32 @@
+1	@BikeChgo	@bikechgo	NN	pos2=ADD	0	root	_	O
+2	In	in	IN	pos2=GW	1	prep	_	O
+3	process	process	NN	_	2	pobj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	applying	apply	VBG	_	4	pcomp	_	O
+6	Medicaid	medicaid	NNP	_	5	dobj	_	U-ORG
+7	for	for	IN	_	5	prep	_	O
+8	Mom	mom	NNP	pos2=NN	7	pobj	_	O
+9	.	.	.	_	1	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	been	be	VBP	pos2=VBD	3	aux	_	O
+3	reading	read	VBG	_	10	ccomp	_	O
+4	so	so	RB	_	5	advmod	_	O
+5	much	much	RB	_	3	dobj	_	O
+6	lately	lately	RB	_	3	advmod	_	O
+7	,	,	,	_	10	punct	_	O
+8	could	could	MD	_	10	aux	_	O
+9	n't	not	RB	_	10	neg	_	O
+10	finish	finish	VB	_	0	root	_	O
+11	article	article	NN	_	10	dobj	_	O
+12	.	.	.	_	10	punct	_	O
+
+1	Knew	know	VBD	pos2=VB	0	root	_	O
+2	what	what	WP	_	4	dobj	_	O
+3	Ryan	ryan	NNP	_	6	nmod	_	U-PERSON
+4	up	up	IN	pos2=RP	1	prep	_	O
+5	to	to	IN	_	4	prep	_	O
+6	day	day	NN	_	5	pobj	_	O
+7	one	#crd#	CD	_	6	nmod	_	O
+8	.	.	.	_	1	punct	_	O
+

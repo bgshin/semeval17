@@ -1,0 +1,16 @@
+1	White	white	NNP	pos2=JJ	2	compound	_	B-ORG
+2	Supremacist	supremacist	NNP	pos2=NNPS	4	compound	_	L-ORG
+3	Steve	steve	NNP	_	4	compound	_	B-PERSON
+4	Bannon	bannon	NNP	_	7	poss	_	I-PERSON
+5	's	's	POS	_	4	case	_	L-PERSON
+6	true	true	JJ	_	7	nmod	_	O
+7	favorite	favorite	NN	pos2=JJ	10	nsubj	_	O
+8	for	for	IN	_	7	prep	_	O
+9	president	president	NN	_	8	pobj	_	O
+10	was	be	VBD	_	0	root	_	O
+11	not	not	RB	_	10	neg	_	O
+12	Trump	trump	NNP	pos2=NN	10	attr	_	U-ORG
+13	.	.	.	_	10	punct	_	O
+
+1	https://t.co/WwNcGrjPmo	#hlink#	ADD	_	0	root	_	U-ORG
+

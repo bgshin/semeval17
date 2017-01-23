@@ -1,0 +1,21 @@
+1	Black	black	NNP	pos2=JJ	2	nsubj	_	U-ORG
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	6	det	_	O
+4	new	new	JJ	_	6	nmod	_	O
+5	black	black	JJ	pos2=NN	6	nmod	_	O
+6	Uber	uber	NNP	_	2	attr	_	U-ORG
+7	.	.	.	_	2	punct	_	O
+
+1	#black	#black	UH	pos2=VB	12	dep	_	O
+2	#uber	#uber	NN	pos2=ADD	12	dep	_	O
+3	@	@	SYM	pos2=IN	12	punct	_	O
+4	Myeong	myeong	NNP	_	7	compound	_	B-PERSON
+5	Dong	dong	NNP	_	7	compound	_	I-PERSON
+6	-	-	HYPH	pos2=:	7	punct	_	I-PERSON
+7	Seoul	seoul	NNP	_	12	dep	_	L-PERSON
+8	/	/	SYM	pos2=HYPH	9	punct	_	O
+9	明洞	明洞	NN	pos2=NNP	7	appos	_	O
+10	-	-	:	pos2=HYPH	2	punct	_	O
+11	首爾	首爾	NFP	pos2=-LRB-	12	punct	_	O
+12	https://t.co/arQXsEV0bC	#hlink#	ADD	pos2=NN	0	root	_	O
+

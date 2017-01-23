@@ -1,0 +1,12 @@
+1	Argentina	argentina	NNP	pos2=NN	3	nsubj	_	U-GPE
+2	to	to	TO	_	3	aux	_	O
+3	revamp	revamp	VB	_	0	root	_	O
+4	railway	railway	NN	_	5	compound	_	O
+5	line	line	NN	_	3	dobj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	support	support	VB	_	3	advcl	_	O
+8	shale	shale	NN	_	7	dobj	_	O
+9	frac	frac	GW	pos2=NN	11	nmod	_	O
+10	kinghttps://t.co/mtRmoe68LV	#hlink#	ADD	pos2=GW	11	nmod	_	O
+11	https://t.co/tVbQbZd74W	#hlink#	ADD	_	3	dep	_	U-ORG
+

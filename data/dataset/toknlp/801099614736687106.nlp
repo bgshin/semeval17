@@ -1,0 +1,15 @@
+1	Service	service	NN	pos2=NNP	2	compound	_	O
+2	Pack	pack	NN	pos2=NNP	4	nsubj	_	O
+3	1	0	CD	_	2	npadvmod	_	U-DATE
+4	makes	make	VBZ	_	0	root	_	O
+5	all	all	DT	_	7	det	_	O
+6	SQL	sql	NN	pos2=NNP	7	compound	_	O
+7	Server	server	NN	pos2=NNP	9	nsubj	_	O
+8	2016	0	CD	_	9	nmod	_	U-CARDINAL
+9	versions	version	NNS	_	11	nsubj	_	O
+10	functionally	functionally	RB	_	11	advmod	_	O
+11	identical	identical	JJ	_	4	ccomp	_	O
+12	.	.	.	_	4	punct	_	O
+
+1	https://t.co/BqkHdxxmEq	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,30 @@
+1	And	and	CC	_	2	cc	_	O
+2	the	the	DT	_	4	det	_	O
+3	good	good	JJ	_	4	nmod	_	O
+4	part	part	NN	_	7	nsubj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	that	that	DT	_	5	pobj	_	O
+7	?	?	.	_	0	root	_	O
+
+1	A	a	DT	_	2	det	_	O
+2	team	team	NN	_	0	root	_	O
+3	up	up	RP	pos2=RB	2	prt	_	O
+4	with	with	IN	_	2	prep	_	O
+5	Cassidy	cassidy	NNP	_	4	pobj	_	U-PERSON
+6	and	and	CC	_	5	cc	_	O
+7	nurse	nurse	NN	_	5	conj	_	O
+8	Awful	awful	JJ	pos2=NNP	2	nmod	_	O
+9	,	,	,	_	14	punct	_	O
+10	uhm	uhm	UH	pos2=NN	14	discourse	_	O
+11	I	I	PRP	_	12	nsubj	_	O
+12	mean	mean	VBP	_	14	parataxis	_	O
+13	nurse	nurse	NN	pos2=VB	14	compound	_	O
+14	Hoffel	hoffel	NNP	_	2	appos	_	U-PERSON
+15	...	..	.	pos2=,	2	punct	_	O
+
+1	😁*what	😁*what	DT	pos2=WP	2	nsubj	_	O
+2	's	's	VBZ	pos2=POS	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	ship	ship	NN	_	2	attr	_	O
+5	name?*😝#ScreamQueens	name?*😝#screamqueens	NNS	pos2=ADD	4	appos	_	O
+

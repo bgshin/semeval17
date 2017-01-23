@@ -1,0 +1,24 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	mean	mean	VBP	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	He	he	PRP	_	4	nsubj	_	O
+2	wo	wo	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	try	try	VB	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	kill	kill	VB	_	4	xcomp	_	O
+7	her	her	PRP	_	6	dobj	_	O
+8	and	and	CC	_	4	cc	_	O
+9	that	that	DT	_	10	nsubj	_	O
+10	's	's	VBZ	_	4	conj	_	O
+11	probably	probably	RB	_	10	advmod	_	O
+12	the	the	DT	_	14	det	_	O
+13	worse	bad	JJR	_	14	nmod	_	O
+14	thing	thing	NN	_	10	attr	_	O
+15	for	for	IN	_	14	prep	_	O
+16	him	him	PRP	_	15	pobj	_	O
+17	.	.	.	_	10	punct	_	O
+
+1	#Westworld	#westworld	NNP	pos2=XX	0	root	_	U-ORG
+

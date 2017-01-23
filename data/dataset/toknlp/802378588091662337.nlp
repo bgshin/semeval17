@@ -1,0 +1,12 @@
+1	Pelosi	pelosi	NNP	pos2=NN	6	nsubj	_	U-PERSON
+2	,	,	,	_	6	punct	_	O
+3	facing	face	VBG	pos2=NN	4	nmod	_	O
+4	challenger	challenger	NN	_	1	appos	_	O
+5	,	,	,	_	6	punct	_	O
+6	reveals	reveal	VBZ	_	0	root	_	O
+7	new	new	JJ	_	10	nmod	_	O
+8	Democratic	democratic	JJ	_	9	nmod	_	U-NORP
+9	leadership	leadership	NN	_	10	compound	_	O
+10	picks	pick	NNS	pos2=VBZ	6	dobj	_	O
+11	https://t.co/Zwr0ze96UO	#hlink#	ADD	_	10	appos	_	U-ORG
+

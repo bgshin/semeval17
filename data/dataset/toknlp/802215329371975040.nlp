@@ -1,0 +1,25 @@
+1	mi	mi	NN	pos2=FW	2	compound	_	O
+2	mamá	mamá	NNP	pos2=NN	5	nsubj	_	O
+3	did	do	VBD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	tell	tell	VB	_	19	ccomp	_	O
+6	me	me	PRP	_	5	dobj	_	O
+7	there	there	EX	_	8	expl	_	O
+8	was	be	VBD	_	5	ccomp	_	O
+9	codeine	codeine	NN	_	8	attr	_	O
+10	in	in	IN	_	8	prep	_	O
+11	the	the	DT	_	13	det	_	O
+12	cough	cough	NN	_	13	compound	_	O
+13	syrup	syrup	NN	_	10	pobj	_	O
+14	she	she	PRP	_	15	nsubj	_	O
+15	gave	give	VBD	_	19	ccomp	_	O
+16	me	me	PRP	_	15	dobj	_	O
+17	so	so	RB	_	19	advmod	_	O
+18	I	I	PRP	_	19	nsubj	_	O
+19	spent	spend	VBD	_	0	root	_	O
+20	all	all	DT	_	19	dobj	_	O
+21	of	of	IN	_	20	prep	_	O
+22	Thanksgiving	thanksgiving	NNP	_	21	pobj	_	U-DATE
+23	drugged	drug	VBD	pos2=VBN	19	advcl	_	O
+24	wbu	wbu	NN	pos2=NNS	23	dobj	_	O
+

@@ -1,0 +1,30 @@
+1	The	the	DT	_	5	det	_	O
+2	entire	entire	JJ	_	5	nmod	_	O
+3	Trump	trump	NNP	pos2=NN	5	compound	_	U-ORG
+4	transition	transition	NN	_	5	compound	_	O
+5	team	team	NN	_	8	nsubj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	admin	admin	NN	_	5	conj	_	O
+8	is	be	VBZ	_	0	root	_	O
+9	one	#crd#	CD	_	16	nmod	_	U-CARDINAL
+10	gigantic	gigantic	JJ	_	16	nmod	_	O
+11	play	play	NN	pos2=VB	16	nmod	_	O
+12	-	-	HYPH	_	11	punct	_	O
+13	for	for	IN	_	11	prep	_	O
+14	-	-	HYPH	_	13	punct	_	O
+15	play	play	NN	pos2=VB	13	pobj	_	O
+16	operation	operation	NN	_	8	attr	_	O
+17	.	.	.	_	8	punct	_	O
+
+1	So	so	RB	_	2	advmod	_	O
+2	many	many	JJ	_	3	nmod	_	O
+3	people	people	NNS	_	4	nsubj	_	O
+4	were	be	VBD	_	0	root	_	O
+5	(	(	-LRB-	_	4	punct	_	O
+6	and	and	CC	_	4	cc	_	O
+7	continue	continue	VB	_	4	conj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	be	be	VB	_	7	xcomp	_	O
+10	)	)	-RRB-	_	11	punct	_	O
+11	fooled	fool	VBN	_	4	conj	_	O
+

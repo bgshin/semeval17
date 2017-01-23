@@ -1,0 +1,15 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=GW	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	https://t.co/eQWyYXXsaO	#hlink#	NNP	pos2=ADD	9	compound	_	B-ORG
+7	Padron	padron	NNP	_	9	compound	_	I-ORG
+8	Family	family	NNP	pos2=NN	9	compound	_	I-ORG
+9	Reserve	reserve	NNP	_	14	dep	_	L-ORG
+10	50	0	CD	pos2=NNP	11	nmod	_	O
+11	Years	year	NNS	pos2=NNPS	14	npadvmod	_	O
+12	Maduro	maduro	NNP	_	14	compound	_	B-ORG
+13	Cigar	cigar	NNP	pos2=NN	14	compound	_	I-ORG
+14	Review	review	NNP	pos2=NN	0	root	_	L-ORG
+

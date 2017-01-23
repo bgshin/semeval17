@@ -1,0 +1,16 @@
+1	MLB	mlb	NNP	_	2	compound	_	U-ORG
+2	News	news	NN	pos2=NNP	7	dep	_	O
+3	:	:	:	_	7	punct	_	O
+4	Kate	kate	NNP	_	5	compound	_	B-PERSON
+5	Upton	upton	NNP	_	7	nsubj	_	L-PERSON
+6	Not	not	RB	pos2=NNP	7	neg	_	O
+7	Done	done	NNP	pos2=VBN	0	root	_	B-WORK_OF_ART
+8	Criticizing	criticize	VBG	pos2=NNP	7	acl	_	I-WORK_OF_ART
+9	CY	cy	NNP	pos2=NN	10	compound	_	I-WORK_OF_ART
+10	Young	young	NNP	_	15	dep	_	I-WORK_OF_ART
+11	Voting	voting	NN	pos2=NNP	12	compound	_	I-WORK_OF_ART
+12	Process	process	NNP	pos2=NN	15	dep	_	I-WORK_OF_ART
+13	#redsox	#redsox	XX	pos2=GW	15	dep	_	I-WORK_OF_ART
+14	#bhive	#bhive	ADD	pos2=GW	15	nmod	_	L-WORK_OF_ART
+15	https://t.co/LzZpScghwu	#hlink#	ADD	_	8	dobj	_	O
+

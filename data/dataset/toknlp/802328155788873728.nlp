@@ -1,0 +1,28 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@TheRealTnisha	@therealtnisha	ADD	pos2=UH	4	prep	_	O
+2	@jackiemccaffrey	@jackiemccaffrey	UH	pos2=IN	4	discourse	_	O
+3	@JacquotLeGrand	@jacquotlegrand	NNP	pos2=NN	4	nsubj	_	U-PERSON
+4	Argued	argue	VBD	pos2=VBN	0	root	_	O
+5	w	w	IN	pos2=RB	4	prep	_	O
+6	/	/	HYPH	pos2=,	5	punct	_	O
+7	a	a	DT	pos2=JJ	8	det	_	O
+8	lot	lot	NN	_	5	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	"	"	``	_	13	punct	_	O
+11	swing	swing	NN	pos2=VB	13	compound	_	O
+12	-	-	HYPH	_	13	punct	_	O
+13	state	state	NN	_	9	pobj	_	O
+14	"	"	``	pos2=''	16	punct	_	O
+15	Bernie	bernie	NNP	_	16	compound	_	U-PERSON
+16	voters	voter	NNS	_	24	nsubj	_	O
+17	who	who	WP	_	18	nsubj	_	O
+18	sd	sd	VBP	pos2=VBD	16	relcl	_	O
+19	their	their	PRP$	_	21	poss	_	O
+20	protest	protest	NN	_	21	compound	_	O
+21	vote	vote	NN	_	18	dobj	_	O
+22	would	would	MD	_	24	aux	_	O
+23	nt	nt	RB	pos2=VB	24	advmod	_	O
+24	elect	elect	VB	_	4	ccomp	_	O
+25	Trump	trump	NNP	pos2=NN	24	dobj	_	U-ORG
+

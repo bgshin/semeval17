@@ -1,0 +1,26 @@
+1	@CatherineDeveny	@catherinedeveny	VB	pos2=PDT	9	csubj	_	O
+2	my	my	PRP$	_	4	poss	_	O
+3	only	only	JJ	pos2=RB	4	nmod	_	O
+4	concern	concern	NN	_	1	dobj	_	O
+5	with	with	IN	_	4	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	financial	financial	JJ	_	8	nmod	_	O
+8	abortion	abortion	NN	_	5	pobj	_	O
+9	is	be	VBZ	_	0	root	_	O
+10	the	the	DT	_	11	det	_	O
+11	reality	reality	NN	_	9	attr	_	O
+12	that	that	IN	pos2=WDT	15	mark	_	O
+13	fathers	father	NNS	_	15	nsubj	_	O
+14	can	can	MD	_	15	aux	_	O
+15	change	change	VB	_	11	acl	_	O
+16	and	and	CC	_	15	cc	_	O
+17	seek	seek	VB	_	15	conj	_	O
+18	to	to	TO	_	19	aux	_	O
+19	recognise	recognise	VB	_	17	xcomp	_	O
+20	the	the	DT	_	21	det	_	O
+21	child	child	NN	_	19	dobj	_	O
+22	.	.	.	_	9	punct	_	O
+
+1	I.e	i.e	FW	pos2=NN	0	root	_	O
+2	in	in	IN	pos2=RB	1	prep	_	O
+

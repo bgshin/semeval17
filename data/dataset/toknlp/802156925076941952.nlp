@@ -1,0 +1,6 @@
+1	Green	green	NNP	pos2=JJ	2	compound	_	O
+2	Meanie	meanie	NNP	_	5	nmod	_	O
+3	Unmasked	unmasked	JJ	pos2=NNP	5	nmod	_	O
+4	😧	😧	NNP	pos2=''	5	compound	_	U-PRODUCT
+5	#ScreamQueens	#screamqueens	NNS	pos2=ADD	0	root	_	O
+

@@ -1,0 +1,18 @@
+1	Day	day	NN	pos2=NNP	17	dep	_	B-DATE
+2	5	0	CD	pos2=LS	17	dep	_	L-DATE
+3	Advent	advent	NN	pos2=NNP	4	compound	_	O
+4	Gift	gift	NN	pos2=NNP	17	dep	_	O
+5	Countdown	countdown	NNP	pos2=NN	17	dep	_	O
+6	-	-	HYPH	pos2=:	5	punct	_	O
+7	'	'	``	pos2=POS	9	punct	_	O
+8	Gold	gold	NNP	pos2=NN	9	compound	_	O
+9	Standard	standard	NNP	pos2=JJ	17	dep	_	O
+10	'	'	''	pos2=POS	9	punct	_	O
+11	https://t.co/K350kV7uB7	#hlink#	ADD	pos2=NN	17	nmod	_	O
+12	#	#	NN	pos2=-RRB-	13	compound	_	O
+13	20moresleeps	0moresleeps	NNS	pos2=LS	14	compound	_	U-MONEY
+14	#christmasgifts	#christmasgifts	NNS	pos2=VBZ	15	compound	_	O
+15	#luxuryhampers	#luxuryhampers	NNS	pos2=GW	17	dep	_	O
+16	…	…	NFP	pos2=-LRB-	17	punct	_	O
+17	https://t.co/F9nu5q9RoK	#hlink#	ADD	pos2=NN	0	root	_	O
+

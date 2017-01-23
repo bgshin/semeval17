@@ -1,0 +1,21 @@
+1	@MrKAK27	@mrkak0	NN	pos2=NNS	2	compound	_	O
+2	@docrocktex26	@docrocktex0	NN	pos2=LS	6	dep	_	O
+3	More	more	RBR	pos2=JJR	4	advmod	_	O
+4	massive	massive	JJ	_	6	nmod	_	O
+5	voter	voter	NN	_	6	compound	_	O
+6	suppression	suppression	NN	_	0	root	_	O
+7	.	.	.	_	6	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	right	right	JJ	pos2=NN	4	nsubj	_	O
+3	will	will	MD	_	4	aux	_	O
+4	stop	stop	VB	_	0	root	_	O
+5	at	at	IN	_	4	prep	_	O
+6	nothing	nothing	NN	_	5	pobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	disenfranchise	disenfranchise	VB	_	6	relcl	_	O
+9	black	black	JJ	_	12	nmod	_	O
+10	&	&	CC	_	9	cc	_	O
+11	brown	brown	JJ	_	9	conj	_	O
+12	voters	voter	NNS	_	8	dobj	_	O
+

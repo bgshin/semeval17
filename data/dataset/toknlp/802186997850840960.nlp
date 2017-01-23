@@ -1,0 +1,25 @@
+1	#fbf	#fbf	PRP	pos2=NN	0	root	_	O
+2	to	to	IN	pos2=TO	1	prep	_	O
+3	shaking	shake	VBG	_	2	pcomp	_	O
+4	my	my	PRP$	_	7	poss	_	O
+5	bon	bon	NN	_	7	compound	_	O
+6	-	-	HYPH	pos2=,	7	punct	_	O
+7	bon	bon	NN	pos2=FW	3	dobj	_	O
+8	🍑with	🍑with	IN	pos2=NNP	3	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	legend	legend	NN	_	8	pobj	_	O
+11	@ricky_martin	@ricky_martin	NNP	pos2=IN	12	compound	_	O
+12	a	a	DT	_	14	det	_	B-DATE
+13	few	few	JJ	_	14	nmod	_	I-DATE
+14	months	month	NNS	_	15	npadvmod	_	I-DATE
+15	back	back	RB	pos2=NN	3	advmod	_	L-DATE
+16	.	.	.	_	11	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	'll	will	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	back	back	RB	_	3	advmod	_	O
+5	with	with	IN	_	3	prep	_	O
+6	…	…	NFP	pos2=-LRB-	5	pobj	_	O
+7	https://t.co/oQOqJcLg1l	#hlink#	ADD	_	5	pobj	_	O
+

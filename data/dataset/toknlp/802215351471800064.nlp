@@ -1,0 +1,19 @@
+1	Protesters	protester	NNS	pos2=NNPS	2	compound	_	O
+2	Mark	mark	NNP	pos2=VBP	6	vocative	_	U-PERSON
+3	A	a	DT	pos2=NNP	6	det	_	O
+4	Solemn	solemn	NNP	pos2=JJ	6	compound	_	O
+5	#Thanksgiving	#thanksgiving	NNP	pos2=VBG	6	compound	_	B-DATE
+6	Day	day	NNP	pos2=NN	0	root	_	L-DATE
+7	At	at	IN	_	6	prep	_	O
+8	#StandingRock	#standingrock	NN	pos2=NNP	11	qmod	_	O
+9	-	-	HYPH	pos2=:	11	punct	_	O
+10	Several	several	JJ	_	11	qmod	_	B-CARDINAL
+11	thousand	#crd#	CD	_	13	nmod	_	L-CARDINAL
+12	#Native	#native	NNP	pos2=CD	13	compound	_	B-NORP
+13	Americans	american	NNPS	_	7	pobj	_	L-NORP
+14	and	and	CC	_	6	cc	_	O
+15	their	their	PRP$	pos2=RB	13	conj	_	O
+16	...	..	.	pos2=,	11	qmod	_	O
+
+1	https://t.co/Kr3gmMLKhA	#hlink#	ADD	_	0	root	_	U-ORG
+

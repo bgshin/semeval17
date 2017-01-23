@@ -1,0 +1,9 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@GenFlynn	@genflynn	JJ	pos2=ADD	2	nmod	_	O
+2	retweets	retweets	NNS	pos2=VBZ	6	dep	_	O
+3	anti-Semitic	anti-semitic	JJ	_	4	nmod	_	U-NORP
+4	remark	remark	NN	pos2=GW	6	dep	_	O
+5	https://t.co/Ga1p6m1cqQ	#hlink#	ADD	pos2=NN	6	nmod	_	O
+6	https://t.co/rU4H5Ku9RP	#hlink#	ADD	_	0	root	_	U-ORG
+

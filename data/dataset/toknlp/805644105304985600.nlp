@@ -1,0 +1,12 @@
+1	Pope	pope	NNP	_	6	compound	_	O
+2	Francis	francis	NNP	_	6	compound	_	B-ORG
+3	Bracelet	bracelet	NNP	_	4	compound	_	I-ORG
+4	Medal	medal	NNP	_	6	compound	_	I-ORG
+5	Religious	religious	NNP	pos2=JJ	6	compound	_	I-ORG
+6	Charm	charm	NNP	pos2=NN	9	dep	_	L-ORG
+7	by	by	IN	_	6	prep	_	O
+8	ItalianRosaryParts	italianrosaryparts	NNP	pos2=NNPS	7	pobj	_	O
+9	https://t.co/9xme8Fq6U8	#hlink#	ADD	pos2=NNP	0	root	_	O
+10	via	via	IN	_	9	prep	_	O
+11	@Etsy	@etsy	NNP	pos2=.	10	pobj	_	O
+

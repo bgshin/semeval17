@@ -1,0 +1,22 @@
+1	#latestnews	#latestnews	UH	pos2=VBZ	13	discourse	_	O
+2	4	0	CD	pos2=LS	4	nmod	_	U-CARDINAL
+3	#newmexico	#newmexico	FW	pos2=IN	4	nmod	_	O
+4	#politics	#politics	NNS	pos2=FW	13	nmod	_	O
+5	+	+	SYM	_	1	punct	_	O
+6	#nativeamerican	#nativeamerican	NN	pos2=IN	13	nmod	_	O
+7	+	+	SYM	_	6	cc	_	O
+8	#Israel	#israel	NN	pos2=NNP	13	nmod	_	O
+9	+	+	SYM	_	13	punct	_	O
+10	#Palestine	#palestine	NN	pos2=NNP	12	npadvmod	_	O
+11	-	-	HYPH	pos2=:	12	punct	_	O
+12	Protesting	protest	VBG	pos2=NNP	13	nmod	_	O
+13	Rise	rise	NN	pos2=NNP	0	root	_	O
+14	Of	of	IN	_	13	prep	_	O
+15	Alt	alt	RB	pos2=NNP	17	advmod	_	O
+16	-	-	HYPH	pos2=:	17	punct	_	O
+17	Right	right	NNP	pos2=RB	14	pobj	_	O
+18	At	at	IN	pos2=NNP	13	prep	_	O
+19	...	..	.	pos2=,	13	punct	_	O
+
+1	https://t.co/nDlpUZa5wU	#hlink#	ADD	_	0	root	_	U-ORG
+

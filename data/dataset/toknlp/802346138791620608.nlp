@@ -1,0 +1,19 @@
+1	Deep	deep	JJ	pos2=NNP	2	nmod	_	O
+2	Learning	learning	NN	pos2=NNP	7	nmod	_	O
+3	(	(	-LRB-	_	2	punct	_	O
+4	artificial	artificial	JJ	_	5	nmod	_	O
+5	intelligence	intelligence	NN	_	2	appos	_	O
+6	)	)	-RRB-	_	2	punct	_	O
+7	matters	matter	NNS	pos2=VBZ	0	root	_	O
+8	.	.	.	_	7	punct	_	O
+
+1	Essentially	essentially	RB	_	2	advmod	_	O
+2	what	what	WP	_	4	dobj	_	O
+3	@stevewoz	@stevewoz	NNP	pos2=PRP	4	nsubj	_	U-PERSON
+4	said	say	VBD	_	0	root	_	O
+5	at	at	IN	_	4	prep	_	O
+6	#perconalive	#perconalive	NNP	pos2=CD	5	pobj	_	B-DATE
+7	last	last	JJ	_	8	nmod	_	I-DATE
+8	year	year	NN	_	4	npadvmod	_	L-DATE
+9	https://t.co/mSbVzYkg4C	#hlink#	ADD	_	6	appos	_	O
+

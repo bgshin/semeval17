@@ -1,0 +1,27 @@
+1	Really	really	RB	_	2	advmod	_	O
+2	sounds	sound	VBZ	_	0	root	_	O
+3	like	like	IN	_	7	mark	_	O
+4	@realDonaldTrump	@realdonaldtrump	NNP	pos2=XX	7	nsubj	_	U-ORG
+5	does	do	VBZ	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	want	want	VB	_	2	advcl	_	O
+8	this	this	DT	_	9	det	_	O
+9	job	job	NN	_	7	dobj	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	Know	know	VB	_	0	root	_	O
+2	who	who	WP	_	3	nsubj	_	O
+3	did	do	VBD	_	1	ccomp	_	O
+4	?	?	.	_	1	punct	_	O
+
+1	@HillaryClinton	@hillaryclinton	NNP	pos2=LS	0	root	_	U-ORG
+2	.	.	.	_	1	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	why	why	WRB	_	5	advmod	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	'm	be	VBP	_	2	ccomp	_	O
+6	#StillwithHer	#stillwithher	ADD	pos2=GW	5	acomp	_	O
+7	https://t.co/Fqoc71IMy7	#hlink#	ADD	_	6	attr	_	O
+

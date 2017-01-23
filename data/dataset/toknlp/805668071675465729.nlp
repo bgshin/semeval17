@@ -1,0 +1,22 @@
+1	Immigration	immigration	NN	pos2=NNP	4	nsubj	_	O
+2	through	through	IN	_	1	prep	_	O
+3	Mexico	mexico	NNP	_	2	pobj	_	U-GPE
+4	is	be	VBZ	_	0	root	_	O
+5	disgusting	disgusting	JJ	_	7	nmod	_	O
+6	border	border	NN	_	7	compound	_	O
+7	patrol	patrol	NN	_	8	nsubj	_	O
+8	told	tell	VBN	pos2=VBD	4	acomp	_	O
+9	to	to	TO	_	10	aux	_	O
+10	stand	stand	VB	_	8	xcomp	_	O
+11	down	down	RB	pos2=RP	10	advmod	_	O
+12	45	0	CD	_	13	nmod	_	B-DATE
+13	days	day	NNS	_	14	npadvmod	_	I-DATE
+14	ago	ago	RB	_	10	advmod	_	L-DATE
+15	back	back	RB	_	10	advmod	_	O
+16	to	to	IN	pos2=TO	15	prep	_	O
+17	work	work	NN	pos2=VB	19	compound	_	O
+18	border	border	NN	_	19	compound	_	O
+19	patrol	patrol	NN	pos2=VBP	16	pobj	_	O
+20	very	very	RB	_	21	advmod	_	O
+21	happy🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸	happy🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸	.	pos2=RB	4	punct	_	O
+

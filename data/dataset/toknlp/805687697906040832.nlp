@@ -1,0 +1,29 @@
+1	@RandallJSanders	@randalljsanders	NNS	pos2=UH	5	vocative	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	think	think	VB	_	0	root	_	O
+6	we	we	PRP	_	8	nsubj	_	O
+7	'll	will	MD	_	8	aux	_	O
+8	see	see	VB	_	5	ccomp	_	O
+9	anything	anything	NN	_	8	dobj	_	O
+10	like	like	IN	_	9	prep	_	O
+11	that	that	DT	_	10	pobj	_	O
+12	from	from	IN	_	8	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	Cubs	cub	NNPS	pos2=NNP	12	pobj	_	U-ORG
+15	for	for	IN	_	8	prep	_	O
+16	a	a	DT	_	17	det	_	O
+17	while	while	NN	_	15	pobj	_	O
+18	.	.	.	_	5	punct	_	O
+
+1	Cubs	cub	NNS	pos2=NNPS	2	nsubj	_	U-ORG
+2	used	use	VBD	pos2=VBN	0	root	_	O
+3	unprecedented	unprecedented	JJ	_	5	nmod	_	O
+4	prospect	prospect	NN	pos2=JJ	5	compound	_	O
+5	depth	depth	NN	_	2	dobj	_	O
+6	for	for	IN	_	2	prep	_	O
+7	that	that	DT	_	8	det	_	O
+8	one	#crd#	CD	pos2=NN	6	pobj	_	U-CARDINAL
+9	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,12 @@
+1	cc	cc	UH	pos2=NN	5	discourse	_	O
+2	@blackrepublican	@blackrepublican	UH	pos2=MD	5	discourse	_	O
+3	Just	just	RB	pos2=NNP	5	advmod	_	O
+4	a	a	DT	_	5	det	_	O
+5	note	note	NN	_	0	root	_	O
+6	about	about	IN	pos2=RB	5	prep	_	O
+7	one	#crd#	CD	_	8	nmod	_	U-CARDINAL
+8	troll	troll	NN	_	6	pobj	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	https://t.co/CkfedDfV9M	#hlink#	ADD	_	0	root	_	U-ORG
+

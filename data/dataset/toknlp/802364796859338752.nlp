@@ -1,0 +1,29 @@
+1	@aravosis	@aravosis	UH	pos2=NN	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	'm	be	VBP	_	0	root	_	O
+4	surprised	surprised	JJ	_	3	acomp	_	O
+5	trump	trump	NN	_	8	nsubj	_	O
+6	did	do	VBD	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	offer	offer	VB	_	4	ccomp	_	O
+9	Putin	putin	NNP	_	8	dative	_	U-PERSON
+10	a	a	DT	_	12	det	_	O
+11	cabinet	cabinet	NN	_	12	compound	_	O
+12	post	post	NN	_	8	dobj	_	O
+13	or	or	CC	_	12	cc	_	O
+14	vice	vice	RB	pos2=NN	15	advmod	_	O
+15	versa	versa	RB	pos2=NN	8	advmod	_	O
+16	.	.	.	_	3	punct	_	O
+
+1	Pretty	pretty	RB	_	2	advmod	_	O
+2	soon	soon	RB	_	5	advmod	_	O
+3	Russian	russian	JJ	pos2=NNP	5	nsubj	_	U-NORP
+4	will	will	MD	_	5	aux	_	O
+5	be	be	VB	_	0	root	_	O
+6	a	a	DT	_	9	det	_	O
+7	required	require	VBN	pos2=JJ	9	nmod	_	O
+8	2nd	#ord#	JJ	pos2=NN	9	nmod	_	U-ORDINAL
+9	language	language	NN	_	5	attr	_	O
+10	here	here	RB	_	5	advmod	_	O
+11	.	.	.	_	5	punct	_	O
+

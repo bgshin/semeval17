@@ -1,0 +1,20 @@
+1	Quisiera	quisiera	NNP	pos2=NN	2	compound	_	O
+2	saber	saber	NN	pos2=FW	4	dep	_	O
+3	hacer	hacer	FW	pos2=NN	4	advmod	_	O
+4	esto	esto	FW	pos2=NN	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	Beauty	beauty	NN	pos2=NNP	9	nsubj	_	B-WORK_OF_ART
+2	and	and	CC	_	1	cc	_	I-WORK_OF_ART
+3	the	the	DT	_	4	det	_	I-WORK_OF_ART
+4	Beast	beast	NNP	pos2=NN	1	conj	_	L-WORK_OF_ART
+5	(	(	-LRB-	_	4	punct	_	O
+6	Piano	piano	NNP	pos2=NN	7	compound	_	O
+7	Cover	cover	NNP	pos2=GW	4	appos	_	O
+8	)	)	-RRB-	_	4	punct	_	O
+9	https://t.co/xv5f2RwAgD	#hlink#	ADD	_	0	root	_	B-DATE
+10	@YouTube	@youtube	ADD	pos2=-RRB-	9	punct	_	L-DATE
+11	#labellaylabestia	#labellaylabestia	UH	pos2=IN	13	discourse	_	O
+12	#beautyandthebeast	#beautyandthebeast	UH	pos2=FW	13	discourse	_	O
+13	#disney	#disney	UH	pos2=.	10	pobj	_	O
+

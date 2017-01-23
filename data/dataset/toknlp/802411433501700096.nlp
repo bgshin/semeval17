@@ -1,0 +1,13 @@
+1	Steve	steve	NNP	_	2	compound	_	B-PERSON
+2	Bannon	bannon	NNP	_	0	root	_	L-PERSON
+3	:	:	:	_	2	punct	_	O
+4	A	a	DT	pos2=TO	6	det	_	O
+5	closer	close	JJR	_	6	nmod	_	O
+6	look	look	NN	_	2	appos	_	O
+7	at	at	IN	_	6	prep	_	O
+8	Trump	trump	NNP	pos2=NN	11	poss	_	U-ORG
+9	’s	's	POS	_	8	case	_	O
+10	chief	chief	JJ	_	11	nmod	_	O
+11	strategist	strategist	NN	_	7	pobj	_	O
+12	https://t.co/9FwlL3JXPv	#hlink#	ADD	pos2=NN	6	prep	_	O
+

@@ -1,0 +1,9 @@
+1	@justinamash	@justinamash	UH	pos2=MD	5	discourse	_	O
+2	@CNNPolitics	@cnnpolitics	NNS	pos2=NNPS	5	nsubj	_	O
+3	do	do	VBP	pos2=VB	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	forget	forget	VB	_	0	root	_	O
+6	drone	drone	NN	_	7	compound	_	O
+7	strikes	strike	NNS	pos2=VBZ	5	dobj	_	O
+8	😳	😳	.	pos2=''	5	punct	_	O
+

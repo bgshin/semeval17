@@ -1,0 +1,20 @@
+1	Judge	judge	NNP	pos2=NN	2	nsubj	_	O
+2	ruled	rule	VBD	_	0	root	_	O
+3	Dylan	dylan	NNP	_	4	compound	_	B-PERSON
+4	Roof	roof	NNP	pos2=NN	2	dobj	_	L-PERSON
+5	competentto	competentto	TO	pos2=NN	6	aux	_	O
+6	stand	stand	VB	pos2=VBP	2	xcomp	_	O
+7	trial	trial	NN	_	6	dobj	_	O
+8	for	for	IN	_	7	prep	_	O
+9	killing	kill	VBG	_	8	pcomp	_	O
+10	9	0	CD	_	11	nmod	_	U-CARDINAL
+11	People	people	NNS	pos2=NNPS	9	dobj	_	O
+12	atSouth	atsouth	NNP	pos2=WDT	14	compound	_	O
+13	Carolina	carolina	NNP	_	14	compound	_	O
+14	Church	church	NNP	_	9	dobj	_	O
+15	!	!	.	_	2	punct	_	O
+
+1	#Justice	#justice	NNP	pos2=GW	3	nmod	_	O
+2	…	…	NFP	pos2=-LRB-	3	punct	_	O
+3	https://t.co/F3ycdKLb4a	#hlink#	ADD	_	0	root	_	O
+

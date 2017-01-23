@@ -1,0 +1,14 @@
+1	@FifnIsForNobody	@fifnisfornobody	NN	pos2=ADD	7	dep	_	O
+2	*	*	SYM	_	7	punct	_	O
+3	ambiguous	ambiguous	JJ	_	6	nmod	_	O
+4	french	french	JJ	pos2=NN	6	nmod	_	O
+5	chubby	chubby	JJ	pos2=NN	6	nmod	_	O
+6	teen	teen	NN	_	7	nsubj	_	O
+7	surrenders	surrender	VBZ	pos2=NNS	0	root	_	O
+8	to	to	IN	_	7	prep	_	O
+9	a	a	DT	_	12	det	_	O
+10	nazi	nazi	JJ	pos2=FW	12	nmod	_	O
+11	aryan	aryan	JJ	pos2=NN	12	nmod	_	O
+12	XXX	xxx	NN	pos2=NNP	8	pobj	_	O
+13	*	*	SYM	pos2=''	12	punct	_	O
+

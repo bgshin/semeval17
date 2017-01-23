@@ -1,0 +1,17 @@
+1	Succeed	succeed	VB	pos2=NN	0	root	_	O
+2	in	in	IN	_	1	prep	_	O
+3	ANY	any	DT	_	4	det	_	O
+4	market	market	NN	_	2	pobj	_	O
+5	-	-	,	pos2=:	1	punct	_	O
+6	even	even	RB	_	7	advmod	_	O
+7	during	during	IN	_	1	prep	_	O
+8	a	a	DT	_	9	det	_	O
+9	recession	recession	NN	_	7	pobj	_	O
+10	!	!	.	_	1	punct	_	O
+
+1	https://t.co/GkOUme8nkU	#hlink#	ADD	_	0	root	_	O
+2	#DominatingYourMind	#dominatingyourmind	-RRB-	pos2=ADD	1	punct	_	U-ORG
+3	#DYM	#dym	NN	pos2=ADD	5	compound	_	O
+4	@NYTMetro	@nytmetro	ADD	pos2=XX	0	root	_	O
+5	#NBAwards	#nbawards	NNS	pos2=ADD	4	pobj	_	O
+

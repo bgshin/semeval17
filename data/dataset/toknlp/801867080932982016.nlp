@@ -1,0 +1,9 @@
+1	Was	be	VBD	_	0	root	_	O
+2	that	that	IN	pos2=DT	0	root	_	O
+3	Justin	justin	NNP	_	4	compound	_	B-PERSON
+4	Verlander	verlander	NNP	_	0	root	_	L-PERSON
+5	on	on	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	drums	drum	NNS	_	5	pobj	_	O
+8	?	?	.	_	1	punct	_	O
+

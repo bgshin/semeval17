@@ -1,0 +1,17 @@
+1	Happy	happy	JJ	_	5	nmod	_	O
+2	national	national	JJ	_	5	nmod	_	O
+3	fast	fast	JJ	_	4	nmod	_	O
+4	food	food	NN	_	5	compound	_	O
+5	day	day	NN	_	0	root	_	O
+6	!	!	.	_	5	punct	_	O
+
+1	Watch	watch	VB	_	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	animation	animation	NN	_	1	dobj	_	O
+4	here🍟🍔	here🍟🍔	-LRB-	pos2=:	5	punct	_	O
+5	https://t.co/vrzJQMBlhX	#hlink#	ADD	_	3	appos	_	O
+6	#nationalfastfoodday	#nationalfastfoodday	-RRB-	pos2=IN	5	punct	_	O
+7	#fastfoodday	#fastfoodday	GW	pos2=-RRB-	9	nmod	_	O
+8	…	…	NFP	pos2=GW	9	punct	_	O
+9	https://t.co/4XhB4ADrIB	#hlink#	ADD	pos2=NN	1	dep	_	O
+

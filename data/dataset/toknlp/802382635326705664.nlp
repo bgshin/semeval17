@@ -1,0 +1,18 @@
+1	@eric_heffernan	@eric_heffernan	NN	pos2=JJ	2	nsubj	_	O
+2	notice	notice	VB	pos2=NN	0	root	_	O
+3	how	how	WRB	_	11	advmod	_	O
+4	the	the	DT	_	6	det	_	O
+5	open	open	JJ	_	6	nmod	_	O
+6	society	society	NN	_	11	nsubj	_	O
+7	founded	found	VBN	_	6	acl	_	O
+8	by	by	IN	_	7	agent	_	O
+9	george	george	NNP	pos2=NN	10	compound	_	B-PERSON
+10	soros	soros	NNP	pos2=NN	8	pobj	_	L-PERSON
+11	is	be	VBZ	_	2	ccomp	_	O
+12	a	a	DT	_	14	det	_	O
+13	pedophilic	pedophilic	JJ	_	14	nmod	_	O
+14	squiggle	squiggle	NN	_	11	attr	_	O
+15	as	as	RB	_	16	advmod	_	O
+16	well	well	RB	_	11	advmod	_	O
+17	?	?	.	_	2	punct	_	O
+

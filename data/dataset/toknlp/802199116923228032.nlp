@@ -1,0 +1,13 @@
+1	#DrainTheSwamp	#draintheswamp	NN	pos2=NNP	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	start	start	VB	_	0	root	_	O
+4	easily	easily	RB	_	3	advmod	_	O
+5	with	with	IN	_	3	prep	_	O
+6	cutting	cut	VBG	pos2=NN	5	pcomp	_	O
+7	off	off	RP	_	6	prt	_	O
+8	this	this	DT	_	10	det	_	O
+9	vicious	vicious	JJ	_	10	nmod	_	O
+10	snake	snake	NN	_	6	dobj	_	O
+11	#NeverRomney	#neverromney	ADD	pos2=GW	12	punct	_	O
+12	https://t.co/HNAVPbwN9x	#hlink#	ADD	_	3	dep	_	O
+

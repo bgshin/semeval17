@@ -1,0 +1,21 @@
+1	@AhhTommy	@ahhtommy	NN	pos2=ADD	2	compound	_	O
+2	@Joelsherman1	@joelsherman0	NN	pos2=CD	5	compound	_	O
+3	2	0	CD	_	2	npadvmod	_	U-CARDINAL
+4	CY	cy	NNP	pos2=NN	5	compound	_	O
+5	Young	young	NNP	pos2=JJ	6	compound	_	O
+6	award	award	NN	pos2=VBP	7	compound	_	O
+7	winners	winner	NNS	_	0	root	_	O
+8	in	in	IN	_	7	prep	_	O
+9	their	their	PRP$	_	10	poss	_	O
+10	rotation	rotation	NN	_	8	pobj	_	O
+11	actually	actually	RB	_	7	advmod	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	Would	would	MD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	call	call	VB	_	0	root	_	O
+4	that	that	IN	pos2=DT	0	root	_	O
+5	no	no	DT	_	6	det	_	O
+6	pitching	pitching	NN	_	3	oprd	_	O
+7	.	.	.	_	3	punct	_	O
+

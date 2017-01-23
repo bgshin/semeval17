@@ -1,0 +1,21 @@
+1	Shariatpur	shariatpur	NNP	pos2=NN	5	nmod	_	U-GPE
+2	(	(	-LRB-	_	3	punct	_	O
+3	Bangladesh	bangladesh	NNP	_	1	appos	_	U-GPE
+4	)	)	-RRB-	_	3	punct	_	O
+5	razakar	razakar	NN	pos2=JJ	0	nsubj	_	O
+6	(	(	-LRB-	_	5	punct	_	O
+7	liberation	liberation	NN	_	8	compound	_	O
+8	war	war	NN	_	9	compound	_	O
+9	criminal	criminal	JJ	pos2=NN	5	nmod	_	O
+10	)	)	-RRB-	_	5	punct	_	O
+11	Idris	idris	NNP	pos2=NN	12	nsubj	_	U-PERSON
+12	gets	get	VBZ	_	0	root	_	O
+13	death	death	NN	_	14	compound	_	O
+14	penalty	penalty	NN	_	12	dobj	_	O
+15	for	for	IN	_	14	prep	_	O
+16	war	war	NN	_	17	compound	_	O
+17	crimes	crime	NNS	_	15	pobj	_	O
+18	https://t.co/4sLkrHwsJh	#hlink#	ADD	pos2=VBP	14	appos	_	O
+19	via	via	IN	_	12	prep	_	O
+20	@DhakaTribune	@dhakatribune	NN	pos2=NNP	19	pobj	_	O
+

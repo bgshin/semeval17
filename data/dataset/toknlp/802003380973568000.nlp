@@ -1,0 +1,17 @@
+1	#LindsayLohan	#lindsaylohan	NN	pos2=``	2	nsubj	_	O
+2	Is	be	VBZ	_	0	root	_	O
+3	‘	'	``	_	2	punct	_	O
+4	Feeling	feel	VBG	_	2	xcomp	_	O
+5	Thankful	thankful	JJ	_	4	acomp	_	O
+6	’	'	''	pos2=NNS	4	punct	_	O
+7	After	after	IN	_	4	prep	_	O
+8	Blasting	blast	VBG	_	7	pcomp	_	O
+9	#ArianaGrande	#arianagrande	NNP	pos2=NN	8	dobj	_	O
+10	For	for	IN	_	8	prep	_	O
+11	Wearing	wear	VBG	pos2=NNP	10	pcomp	_	O
+12	‘	'	''	pos2=POS	2	punct	_	O
+13	#TooMuch	#toomuch	GW	pos2=XX	16	nmod	_	O
+14	…	…	NFP	pos2=GW	16	punct	_	O
+15	https://t.co/Acf8ogvPxd	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/EOSHtG9ay4	#hlink#	ADD	_	2	dep	_	U-ORG
+

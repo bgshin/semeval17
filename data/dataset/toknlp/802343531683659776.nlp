@@ -1,0 +1,28 @@
+1	@redmcgraw1	@redmcgraw0	LS	pos2=IN	3	meta	_	O
+2	Obama	obama	NNP	_	3	compound	_	U-PERSON
+3	Admin	admin	NN	pos2=NNP	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	asked	ask	VBD	pos2=VBN	0	root	_	O
+2	them	them	PRP	_	1	dobj	_	O
+3	to	to	TO	_	4	aux	_	O
+4	look	look	VB	_	1	xcomp	_	O
+5	at	at	IN	_	4	prep	_	O
+6	alternate	alternate	JJ	pos2=NN	7	nmod	_	O
+7	routes	route	NNS	_	5	pobj	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	Too	too	RB	_	2	advmod	_	O
+2	little	little	JJ	pos2=RB	4	npadvmod	_	O
+3	too	too	RB	_	4	advmod	_	O
+4	late	late	RB	pos2=JJ	8	advmod	_	O
+5	,	,	,	_	8	punct	_	O
+6	the	the	DT	_	7	det	_	O
+7	pipe	pipe	NN	_	8	nsubj	_	O
+8	is	be	VBZ	_	0	root	_	O
+9	nearly	nearly	RB	_	10	advmod	_	O
+10	at	at	IN	_	8	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	riverbank	riverbank	NN	_	10	pobj	_	O
+13	.	.	.	_	8	punct	_	O
+

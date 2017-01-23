@@ -1,0 +1,26 @@
+1	Hillary	hillary	NNP	_	2	compound	_	B-PERSON
+2	ClintonDedicated	clintondedicated	NNP	pos2=VBD	0	root	_	L-PERSON
+3	her	her	PRP$	_	5	poss	_	O
+4	life	life	NN	_	5	compound	_	O
+5	tochildren	tochildren	NN	pos2=NNS	2	appos	_	O
+6	,	,	,	_	5	punct	_	O
+7	families	family	NNS	_	5	conj	_	O
+8	,	,	,	_	7	punct	_	O
+9	women	woman	NNS	_	7	conj	_	O
+10	,	,	,	_	9	punct	_	O
+11	USA	usa	NNP	_	5	appos	_	U-GPE
+12	!	!	.	_	2	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	owe	owe	VBP	_	0	root	_	O
+3	her	her	PRP	pos2=PRP$	2	dative	_	O
+4	a	a	DT	_	5	det	_	O
+5	debt	debt	NN	_	2	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	#gratitude	#gratitude	XX	pos2=FW	6	pobj	_	O
+8	#respect	#respect	UH	pos2=XX	2	discourse	_	O
+9	!	!	.	_	2	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/eBbJwh6OM8	#hlink#	ADD	pos2=NN	0	root	_	O
+

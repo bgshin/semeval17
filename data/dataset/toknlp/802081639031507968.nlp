@@ -1,0 +1,17 @@
+1	With	with	IN	_	11	prep	_	O
+2	Persona	persona	NN	pos2=NNP	1	pobj	_	O
+3	5	0	CD	_	2	npadvmod	_	U-CARDINAL
+4	and	and	CC	_	2	cc	_	O
+5	FFXV	ffxv	NNP	pos2=NN	2	conj	_	U-ORG
+6	on	on	IN	_	11	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	horizon	horizon	NN	pos2=NNP	6	pobj	_	O
+9	,	,	,	_	11	punct	_	O
+10	it	it	PRP	_	11	nsubj	_	O
+11	was	be	VBD	_	0	root	_	O
+12	very	very	RB	_	13	advmod	_	O
+13	difficult	difficult	JJ	_	11	acomp	_	O
+14	not	not	RB	_	15	neg	_	O
+15	to	to	TO	pos2=IN	13	xcomp	_	O
+16	...	..	.	_	11	punct	_	O
+

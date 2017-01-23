@@ -1,0 +1,14 @@
+1	Being	be	VBG	_	7	csubj	_	O
+2	An	an	DT	_	4	det	_	O
+3	Antiwar	antiwar	NNP	pos2=JJ	4	compound	_	O
+4	Activist	activist	NNP	pos2=NN	1	attr	_	O
+5	In	in	IN	_	4	prep	_	O
+6	Israel	israel	NNP	_	5	pobj	_	U-GPE
+7	Is	be	VBZ	_	0	root	_	O
+8	Dangerous	dangerous	JJ	_	7	acomp	_	O
+9	https://t.co/9HlqVPyj2R	#hlink#	ADD	pos2=NN	6	appos	_	O
+10	#gaza	#gaza	IN	pos2=-RRB-	9	prep	_	O
+11	#palestine	#palestine	UH	pos2=PRP	10	discourse	_	O
+12	#israel	#israel	UH	pos2=VB	10	discourse	_	O
+13	#BDS	#bds	NNS	pos2=UH	10	pobj	_	O
+

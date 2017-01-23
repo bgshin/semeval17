@@ -1,0 +1,27 @@
+1	@Keep_Pounding	@keep_pounding	VBG	pos2=ADD	2	nmod	_	O
+2	@Thejayman33	@thejayman0	NN	pos2=POS	4	compound	_	O
+3	Tim	tim	NNP	_	4	compound	_	B-PERSON
+4	Duncan	duncan	NNP	_	7	nsubj	_	L-PERSON
+5	has	have	VBZ	_	7	aux	_	O
+6	never	never	RB	_	7	neg	_	O
+7	committed	commit	VBN	_	0	root	_	O
+8	a	a	DT	_	9	det	_	O
+9	foul	foul	JJ	pos2=NN	7	dobj	_	O
+10	either	either	RB	pos2=NN	7	advmod	_	O
+11	.	.	.	_	7	punct	_	O
+
+1	Some	some	DT	_	2	det	_	O
+2	people	people	NNS	_	6	nsubj	_	O
+3	just	just	RB	_	6	advmod	_	O
+4	ca	can	MD	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	get	get	VB	_	0	root	_	O
+7	over	over	IN	pos2=RP	6	prep	_	O
+8	personal	personal	JJ	_	9	nmod	_	O
+9	issues	issue	NNS	_	7	pobj	_	O
+10	they	they	PRP	_	11	nsubj	_	O
+11	have	have	VBP	_	9	relcl	_	O
+12	w	w	IN	pos2=VBN	6	prep	_	O
+13	/	/	HYPH	_	12	punct	_	O
+14	some1	some0	NN	_	12	pobj	_	O
+

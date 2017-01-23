@@ -1,0 +1,6 @@
+1	#	#	NN	pos2=-LRB-	5	nmod	_	O
+2	4Mrs.Kim	#hlink#	ADD	pos2=NN	5	nmod	_	O
+3	#	#	NN	pos2=-RRB-	5	compound	_	O
+4	3Emily#2Luke#1Sookie	0emily0luke0sookie	NN	pos2=LS	5	compound	_	U-MONEY
+5	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=ADD	0	root	_	O
+

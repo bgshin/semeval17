@@ -1,0 +1,17 @@
+1	@jessesingal	@jessesingal	UH	pos2=``	13	discourse	_	O
+2	If	if	IN	_	7	mark	_	O
+3	all	all	DT	_	6	det	_	O
+4	alt	alt	JJ	pos2=NN	6	nmod	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	rightists	rightist	NNS	_	7	nsubj	_	O
+7	looked	look	VBD	_	13	advcl	_	O
+8	this	this	DT	_	10	det	_	O
+9	good	good	JJ	pos2=NN	10	nmod	_	O
+10	Trump	trump	NNP	pos2=NN	13	nsubj	_	U-ORG
+11	would	would	MD	_	13	aux	_	O
+12	have	have	VB	_	13	aux	_	O
+13	won	win	VBN	_	0	root	_	O
+14	the	the	DT	_	16	det	_	O
+15	popular	popular	JJ	_	16	nmod	_	O
+16	vote	vote	NN	_	13	dobj	_	O
+

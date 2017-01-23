@@ -1,0 +1,10 @@
+1	Yes	yes	UH	_	3	discourse	_	O
+2	,	,	,	_	1	punct	_	O
+3	including	include	VBG	pos2=IN	0	root	_	O
+4	Medicare	medicare	NNP	_	3	pobj	_	U-ORG
+5	and	and	CC	_	4	cc	_	O
+6	social	social	JJ	_	7	nmod	_	O
+7	security	security	NN	pos2=NNP	4	conj	_	O
+8	saving👍	saving👍	:	pos2=NNP	4	cc	_	O
+9	https://t.co/BRs3hUVW9c	#hlink#	ADD	_	4	appos	_	U-ORG
+

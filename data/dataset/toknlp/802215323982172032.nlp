@@ -1,0 +1,16 @@
+1	‘	'	``	pos2=POS	15	punct	_	O
+2	Macy	macy	NNP	_	6	poss	_	U-ORG
+3	’s	's	POS	pos2=VBZ	2	case	_	O
+4	Thanksgiving	thanksgiving	NNP	_	5	compound	_	O
+5	Day	day	NNP	_	6	compound	_	O
+6	Parade	parade	NNP	pos2=NN	10	poss	_	O
+7	’	'	POS	_	6	case	_	O
+8	Scores	score	NNPS	pos2=NNS	10	nmod	_	O
+9	Highest	high	JJS	pos2=NNP	10	nmod	_	O
+10	Ratings	rating	NNS	pos2=NNPS	15	nsubj	_	O
+11	in	in	IN	_	10	prep	_	O
+12	13	0	CD	_	13	nmod	_	B-DATE
+13	Years	year	NNS	_	11	pobj	_	L-DATE
+14	https://t.co/X2lW2igktm	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/EyWsl3aSIw	#hlink#	ADD	_	0	root	_	U-ORG
+

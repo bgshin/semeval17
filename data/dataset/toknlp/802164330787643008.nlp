@@ -1,0 +1,18 @@
+1	#Israel	#israel	NNP	pos2=NN	3	compound	_	O
+2	fire	fire	NN	_	3	compound	_	O
+3	updates	update	NNS	_	7	dep	_	O
+4	:	:	:	_	7	punct	_	O
+5	Major	major	JJ	pos2=NNP	6	nmod	_	O
+6	blaze	blaze	NN	_	7	nsubj	_	O
+7	breaks	break	VBZ	pos2=NNS	13	advcl	_	O
+8	out	out	RP	pos2=RB	7	prt	_	O
+9	near	near	IN	pos2=RB	7	prep	_	O
+10	#Jerusalem	#jerusalem	NNP	pos2=NN	9	pobj	_	U-GPE
+11	,	,	,	_	13	punct	_	O
+12	firebombing	firebombing	NN	pos2=VBG	13	nsubj	_	O
+13	suspected	suspect	VBN	_	0	root	_	O
+14	...	..	.	pos2=,	13	punct	_	O
+
+1	https://t.co/5L8irGzyVU	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/OZNgAF2HBS	#hlink#	ADD	_	0	root	_	U-ORG
+

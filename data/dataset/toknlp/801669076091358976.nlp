@@ -1,0 +1,21 @@
+1	DBP	dbp	NN	_	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Matt	matt	NNP	_	4	compound	_	B-PERSON
+4	Jones	jones	NNP	_	0	root	_	L-PERSON
+5	with	with	IN	_	4	prep	_	O
+6	Grayson	grayson	NNP	_	7	compound	_	B-PERSON
+7	Allen	allen	NNP	_	5	pobj	_	L-PERSON
+8	after	after	IN	_	4	prep	_	O
+9	the	the	DT	_	15	det	_	O
+10	William	william	NNP	_	13	nmod	_	O
+11	&	&	CC	pos2=POS	10	cc	_	O
+12	Mary	mary	NNP	_	10	conj	_	O
+13	win	win	NN	pos2=VBP	15	compound	_	O
+14	-	-	HYPH	pos2=:	15	punct	_	O
+15	YouTube	youtube	NNP	_	8	pobj	_	O
+16	via	via	IN	_	4	prep	_	O
+17	@BleacherReport	@bleacherreport	NNP	pos2=ADD	18	compound	_	B-ORG
+18	App	app	NNP	pos2=NN	16	pobj	_	L-ORG
+19	:	:	:	_	4	punct	_	O
+20	https://t.co/f3lzsmyF2h	#hlink#	ADD	pos2=NN	4	appos	_	O
+

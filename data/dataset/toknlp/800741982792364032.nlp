@@ -1,0 +1,28 @@
+1	@KremlinTrolls	@kremlintrolls	NNS	pos2=UH	6	cc	_	O
+2	@washingtonpost	@washingtonpost	UH	pos2=IN	10	discourse	_	O
+3	Yeah	yeah	UH	_	6	discourse	_	O
+4	,	,	,	_	6	punct	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	hate	hate	VBP	_	10	ccomp	_	O
+7	Trump	trump	NNP	_	6	dobj	_	U-PERSON
+8	,	,	,	_	10	punct	_	O
+9	we	we	PRP	_	10	nsubj	_	O
+10	get	get	VBP	_	0	root	_	O
+11	it	it	PRP	_	10	dobj	_	O
+12	.	.	.	_	10	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	Saudis	saudi	NNPS	pos2=NNP	3	nsubj	_	U-NORP
+3	financed	finance	VBD	pos2=VBN	0	root	_	O
+4	half	half	NN	pos2=PDT	3	dobj	_	U-CARDINAL
+5	of	of	IN	_	4	prep	_	O
+6	Hillary	hillary	NNP	_	8	poss	_	U-PERSON
+7	's	's	POS	_	6	case	_	O
+8	foundation	foundation	NN	_	5	pobj	_	O
+9	,	,	,	_	3	punct	_	O
+10	so	so	RB	pos2=CC	11	advmod	_	O
+11	what	what	WP	_	3	advmod	_	O
+12	?	?	.	_	3	punct	_	O
+
+1	Unfollowed	unfollowed	JJ	pos2=VBN	0	root	_	U-NORP
+

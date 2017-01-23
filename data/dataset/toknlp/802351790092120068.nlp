@@ -1,0 +1,8 @@
+1	Still	still	RB	_	6	advmod	_	O
+2	though	though	RB	_	6	advmod	_	O
+3	,	,	,	_	6	punct	_	O
+4	Bob	bob	NNP	_	5	compound	_	B-PERSON
+5	Dylan	dylan	NNP	_	6	nsubj	_	L-PERSON
+6	trumps	trump	VBZ	_	0	root	_	O
+7	all	all	DT	pos2=RB	6	dobj	_	O
+

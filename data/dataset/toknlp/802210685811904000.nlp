@@ -1,0 +1,18 @@
+1	#ocnBlizzard	#ocnblizzard	NNP	pos2=NN	5	nmod	_	O
+2	x	x	SYM	pos2=LS	3	punct	_	O
+3	#mannequinchallenge	#mannequinchallenge	NN	pos2=XX	1	prep	_	O
+4	x	x	SYM	pos2=FW	5	punct	_	O
+5	#facesoffunk	#facesoffunk	NN	pos2=NNS	7	dep	_	O
+6	:	:	:	_	7	punct	_	O
+7	@maverickrafter	@maverickrafter	NN	pos2=JJ	0	root	_	O
+8	and	and	CC	_	7	cc	_	O
+9	@lantzhiebert	@lantzhiebert	JJ	pos2=NN	11	nmod	_	O
+10	dig	dig	VB	pos2=VBP	7	dep	_	O
+11	@volcom	@volcom	NN	pos2=PRP	10	dobj	_	O
+12	,	,	,	_	10	punct	_	O
+13	extremely	extremely	RB	_	14	advmod	_	O
+14	long	long	RB	pos2=JJ	10	advmod	_	O
+15	...	..	.	pos2=,	7	punct	_	O
+
+1	https://t.co/s3zEtjeKOp	#hlink#	ADD	_	0	root	_	U-ORG
+

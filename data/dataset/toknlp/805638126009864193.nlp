@@ -1,0 +1,23 @@
+1	Be	be	VB	_	0	root	_	O
+2	the	the	DT	_	4	det	_	O
+3	1	0	CD	_	4	nmod	_	B-DATE
+4	st	st	NN	_	1	attr	_	L-DATE
+5	to	to	TO	_	6	aux	_	O
+6	check	check	VB	_	4	relcl	_	O
+7	out	out	RP	_	6	prt	_	O
+8	our	our	PRP$	_	10	poss	_	O
+9	new	new	JJ	_	10	nmod	_	O
+10	look	look	NN	pos2=VB	6	dobj	_	O
+11	at	at	IN	_	10	prep	_	O
+12	https://t.co/skWcZNaN9Z!	#hlink#	ADD	_	11	pobj	_	O
+13	Pl	pl	NNP	pos2=XX	14	nsubj	_	O
+14	give	give	VB	pos2=XX	1	dep	_	O
+15	ur	ur	NN	pos2=DT	16	compound	_	O
+16	feedback	feedback	NN	_	14	dobj	_	O
+17	.	.	.	_	1	punct	_	O
+
+1	#Ayurveda	#ayurveda	NNP	pos2=NFP	4	nmod	_	U-ORG
+2	#Homeopathy	#homeopathy	GW	pos2=NN	4	nmod	_	O
+3	…	…	NFP	pos2=GW	4	punct	_	O
+4	https://t.co/rIUHwYruHP	#hlink#	ADD	_	0	root	_	O
+

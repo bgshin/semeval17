@@ -1,0 +1,8 @@
+1	Black	black	JJ	_	2	nmod	_	O
+2	people	people	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	so	so	RB	pos2=JJ	7	mark	_	O
+5	dope	dope	NN	pos2=NNS	6	compound	_	O
+6	#ThankYouObama	#thankyouobama	NN	pos2=NNS	7	compound	_	O
+7	#BET	#bet	NN	pos2=ADD	3	attr	_	O
+

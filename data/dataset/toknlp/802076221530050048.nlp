@@ -1,0 +1,17 @@
+1	all	all	PDT	_	3	predet	_	O
+2	the	the	DT	_	3	det	_	O
+3	fans	fan	NNS	_	4	nsubj	_	O
+4	want	want	VBP	_	0	root	_	O
+5	that	that	WDT	pos2=IN	8	mark	_	O
+6	Céline	céline	NNP	_	7	compound	_	B-PERSON
+7	#CélineDion	#célinedion	NNP	pos2=ADD	8	nsubj	_	L-PERSON
+8	sings	sing	VBZ	_	4	ccomp	_	O
+9	the	the	DT	_	10	det	_	O
+10	song	song	NN	_	8	dobj	_	O
+11	#Beautyandthebeast	#beautyandthebeast	NNP	pos2=,	10	appos	_	O
+12	for	for	IN	_	8	prep	_	O
+13	the	the	DT	_	15	det	_	O
+14	new	new	JJ	_	15	nmod	_	O
+15	Film	film	NNP	pos2=NN	12	pobj	_	U-ORG
+16	.	.	.	_	4	punct	_	O
+

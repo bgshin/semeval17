@@ -1,0 +1,14 @@
+1	LeBron	lebron	NNP	_	2	compound	_	B-PERSON
+2	James	james	NNP	_	3	nsubj	_	L-PERSON
+3	prepares	prepare	VBZ	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	pay	pay	VB	_	3	xcomp	_	O
+6	off	off	RP	_	5	prt	_	O
+7	bet	bet	NN	pos2=RB	5	dobj	_	O
+8	by	by	IN	_	5	prep	_	O
+9	wearing	wear	VBG	_	8	pcomp	_	O
+10	Cubs	cub	NNPS	pos2=NNP	13	nmod	_	U-ORG
+11	uniform	uniform	JJ	pos2=NN	12	nmod	_	O
+12	Friday	friday	NNP	_	13	nmod	_	U-DATE
+13	https://t.co/NBM8RAuVbG	#hlink#	ADD	_	9	dobj	_	U-TIME
+

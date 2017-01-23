@@ -1,0 +1,20 @@
+1	@BrittPettibone	@brittpettibone	NN	pos2=NNP	7	nsubj	_	O
+2	in	in	IN	_	1	prep	_	O
+3	this	this	DT	_	4	det	_	O
+4	Democrats	democrat	NNPS	pos2=NNP	2	pobj	_	U-NORP
+5	&	&	CC	_	4	cc	_	O
+6	Republicans	republican	NNPS	_	4	conj	_	U-NORP
+7	agree	agree	VBP	_	0	root	_	O
+8	but	but	CC	pos2=IN	7	cc	_	O
+9	bringing	bring	VBG	_	7	conj	_	O
+10	people	people	NNS	_	9	dobj	_	O
+11	like	like	IN	pos2=VBP	10	prep	_	O
+12	Gingrich	gingrich	NNP	_	11	pobj	_	U-PERSON
+13	&	&	CC	_	12	cc	_	O
+14	the	the	DT	pos2=PRP	15	det	_	O
+15	like	like	UH	pos2=JJ	18	discourse	_	O
+16	does	do	VBZ	_	18	aux	_	O
+17	not	not	RB	_	18	neg	_	O
+18	#DrainTheSwamp	#draintheswamp	VB	pos2=XX	7	conj	_	O
+19	@GOP	@gop	NN	pos2=ADD	18	dobj	_	U-ORG
+

@@ -1,0 +1,6 @@
+1	#NowPlaying	#nowplaying	VBG	pos2=ADD	0	root	_	O
+2	Adi?s	adi?s	NNP	pos2=NNPS	4	compound	_	O
+3	-	-	HYPH	pos2=:	4	punct	_	O
+4	Ricky	ricky	NNP	_	5	compound	_	B-PERSON
+5	Martin	martin	NNP	_	1	dobj	_	L-PERSON
+

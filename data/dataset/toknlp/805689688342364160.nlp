@@ -1,0 +1,13 @@
+1	Cristiano	cristiano	NNP	_	3	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	3	compound	_	L-PERSON
+3	Closing	closing	NNP	pos2=VBG	12	dep	_	O
+4	In	in	IN	pos2=RP	3	prep	_	O
+5	On	on	IN	pos2=NNP	3	prep	_	O
+6	Outstanding	outstanding	JJ	pos2=NNP	7	nmod	_	O
+7	Goalscoring	goalscoring	NN	pos2=NNP	8	compound	_	O
+8	Record	record	NNP	pos2=NN	5	pobj	_	O
+9	|	|	NFP	pos2=GW	12	punct	_	O
+10	TheSPORTbible	thesportbible	GW	pos2=ADD	12	nmod	_	U-MONEY
+11	https://t.co/pmT3jAH14O	#hlink#	ADD	pos2=GW	12	nmod	_	O
+12	https://t.co/ClQWwlBywL	#hlink#	ADD	_	0	root	_	U-ORG
+

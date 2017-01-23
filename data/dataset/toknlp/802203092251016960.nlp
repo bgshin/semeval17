@@ -1,0 +1,16 @@
+1	Future	future	NNP	pos2=JJ	2	compound	_	O
+2	Negan	negan	NNP	_	11	nsubj	_	U-PERSON
+3	(	(	-LRB-	_	5	punct	_	O
+4	I	I	PRP	pos2=NN	5	nsubj	_	O
+5	hate	hate	VBP	_	2	parataxis	_	O
+6	this	this	DT	_	7	det	_	O
+7	edit	edit	NN	_	5	dobj	_	O
+8	tbh	tbh	UH	pos2=RB	7	discourse	_	O
+9	)	)	-RRB-	_	5	punct	_	O
+10	#walkingdead	#walkingdead	UH	pos2=IN	11	discourse	_	O
+11	#Twdgames	#twdgames	NNS	pos2=FW	0	root	_	O
+12	#twd	#twd	UH	pos2=FW	11	discourse	_	O
+13	#thewalkingdead	#thewalkingdead	UH	pos2=GW	11	discourse	_	O
+14	…	…	NFP	pos2=-LRB-	11	discourse	_	O
+15	https://t.co/cFsxoLX3Su	#hlink#	ADD	_	11	dobj	_	O
+

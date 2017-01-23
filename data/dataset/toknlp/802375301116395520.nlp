@@ -1,0 +1,13 @@
+1	Vintage	vintage	JJ	pos2=NN	3	nmod	_	O
+2	1971	0	CD	_	6	dep	_	O
+3	Bob	bob	NNP	_	5	compound	_	O
+4	Dylan	dylan	NNP	_	5	compound	_	O
+5	Greatest	greatest	NNP	pos2=JJS	6	nsubj	_	O
+6	Hits	hit	VBZ	pos2=NNP	0	root	_	O
+7	Volume	volume	NN	pos2=NNP	6	dobj	_	O
+8	by	by	IN	_	6	prep	_	O
+9	DecrepitudeAplenty	decrepitudeaplenty	NNP	_	8	pobj	_	U-ORG
+10	https://t.co/aIGthAG525	#hlink#	ADD	pos2=RBR	8	pobj	_	O
+11	via	via	IN	_	6	prep	_	O
+12	@Etsy	@etsy	NNP	pos2=.	11	pobj	_	O
+

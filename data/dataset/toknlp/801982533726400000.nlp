@@ -1,0 +1,18 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@gmarie55	@gmarie0	NN	pos2=CD	2	compound	_	O
+2	Thanks	thanks	NN	pos2=NNS	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	Hopefully	hopefully	RB	_	4	advmod	_	O
+2	your	your	PRP$	_	3	poss	_	O
+3	values	value	NNS	_	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	still	still	RB	_	4	advmod	_	O
+6	our	our	PRP$	_	7	poss	_	O
+7	values	value	NNS	_	4	attr	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	@JustinTrudeau	@justintrudeau	NN	pos2=ADD	2	compound	_	O
+2	#UnitedNations	#unitednations	NNS	pos2=ADD	0	root	_	O
+

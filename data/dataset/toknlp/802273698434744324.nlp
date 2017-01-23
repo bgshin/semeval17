@@ -1,0 +1,18 @@
+1	@OmegaMan34	@omegaman0	NN	pos2=NNS	5	nsubj	_	O
+2	@csquared45	@csquared0	IN	pos2=NN	1	prep	_	O
+3	North	north	NNP	_	4	compound	_	B-GPE
+4	Korea	korea	NNP	_	5	nsubj	_	L-GPE
+5	releases	release	VBZ	_	0	root	_	O
+6	video	video	NN	pos2=IN	5	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Kim	kim	NNP	_	11	compound	_	B-PERSON
+9	Jong	jong	NNP	_	11	compound	_	I-PERSON
+10	-	-	HYPH	_	11	punct	_	I-PERSON
+11	un	un	NNP	pos2=NN	7	pobj	_	L-PERSON
+12	firing	fire	VBG	pos2=NN	5	advcl	_	O
+13	a	a	DT	_	14	det	_	O
+14	handgun	handgun	NN	_	12	dobj	_	O
+15	The	the	DT	pos2=NNP	16	det	_	B-ORG
+16	Telegraph	telegraph	NNP	pos2=NN	11	appos	_	I-ORG
+17	https://t.co/bChhDIfsru	#hlink#	ADD	_	16	appos	_	L-ORG
+

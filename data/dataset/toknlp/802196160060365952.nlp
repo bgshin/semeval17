@@ -1,0 +1,9 @@
+1	1	0	CD	_	2	nmod	_	B-TIME
+2	am	am	NN	pos2=VBP	0	root	_	L-TIME
+3	and	and	CC	_	2	cc	_	O
+4	I	I	PRP	_	7	nsubj	_	O
+5	'm	be	VBP	_	7	aux	_	O
+6	still	still	RB	_	7	advmod	_	O
+7	watching	watch	VBG	_	2	conj	_	O
+8	#ThisIsUs	#thisisus	NNS	pos2=NN	7	dobj	_	O
+

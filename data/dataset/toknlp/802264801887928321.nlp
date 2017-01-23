@@ -1,0 +1,23 @@
+1	Vancouver	vancouver	NNP	_	2	compound	_	U-GPE
+2	Mayor	mayor	NNP	_	7	vocative	_	O
+3	and	and	CC	_	2	cc	_	O
+4	anti-Trump	anti-trump	JJ	_	5	nmod	_	O
+5	rioters	rioter	NNS	_	2	conj	_	O
+6	:	:	:	_	2	punct	_	O
+7	-	-	NFP	pos2=:	8	punct	_	O
+8	https://t.co/7B5pf5SmJE	#hlink#	ADD	pos2=NN	10	nmod	_	O
+9	//	//	NFP	pos2=-LRB-	13	punct	_	O
+10	#GeorgeSoros	#georgesoros	NN	pos2=NNS	13	nsubj	_	O
+11	is	be	VBZ	_	13	aux	_	O
+12	also	also	RB	_	13	advmod	_	O
+13	funding	fund	VBG	_	18	ccomp	_	O
+14	foreign	foreign	JJ	_	15	nmod	_	O
+15	groups	group	NNS	_	13	dobj	_	O
+16	for	for	IN	_	13	prep	_	O
+17	riots	riot	NNS	_	16	pobj	_	O
+18	not	not	RB	_	20	cc	_	O
+19	just	just	RB	_	20	advmod	_	O
+20	in	in	IN	_	0	root	_	O
+21	USA	usa	NNP	_	20	pobj	_	U-GPE
+22	!	!	.	_	13	punct	_	O
+

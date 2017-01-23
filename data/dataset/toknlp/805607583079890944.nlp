@@ -1,0 +1,17 @@
+1	Check	check	VB	_	0	root	_	O
+2	out	out	RP	pos2=IN	1	prt	_	O
+3	NEW	new	JJ	pos2=NNP	6	nmod	_	O
+4	Pillow	pillow	NNP	pos2=NN	11	nmod	_	O
+5	Sham	sham	NNP	_	11	nmod	_	B-ORG
+6	Holiday	holiday	NNP	_	11	nmod	_	I-ORG
+7	Standard	standard	NNP	_	11	nmod	_	I-ORG
+8	Gold	gold	NNP	pos2=NN	11	nmod	_	I-ORG
+9	Shimmer	shimmer	NNP	pos2=NN	11	compound	_	I-ORG
+10	Quilt	quilt	NNP	pos2=NN	11	compound	_	I-ORG
+11	Bedding	bedding	NNP	pos2=NN	14	dep	_	I-ORG
+12	Decorative	decorative	JJ	pos2=NNP	13	nmod	_	L-ORG
+13	#Celebration	#celebration	NNP	pos2=NN	14	dep	_	O
+14	https://t.co/sezdIoFEvZ	#hlink#	ADD	_	1	dobj	_	O
+15	via	via	IN	_	1	prep	_	O
+16	@eBay	@ebay	NNP	pos2=NN	15	pobj	_	O
+

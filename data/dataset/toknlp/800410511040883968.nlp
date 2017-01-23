@@ -1,0 +1,19 @@
+1	Almost	almost	RB	_	2	advmod	_	B-CARDINAL
+2	900k	0k	CD	pos2=NN	3	nmod	_	L-CARDINAL
+3	views	view	NNS	_	0	root	_	O
+4	on	on	IN	_	3	prep	_	O
+5	this	this	DT	_	6	det	_	O
+6	video	video	NN	_	4	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	John	john	NNP	_	9	compound	_	B-PERSON
+9	Lewis	lewis	NNP	_	12	poss	_	I-PERSON
+10	'	'	POS	_	9	case	_	L-PERSON
+11	amazing	amazing	JJ	_	12	nmod	_	O
+12	speech	speech	NN	_	7	pobj	_	O
+13	!	!	.	_	3	punct	_	O
+
+1	#NBAwards	#nbawards	NNS	pos2=UH	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	https://t.co/1MkXX6H7y9	#hlink#	ADD	_	0	root	_	U-ORG
+

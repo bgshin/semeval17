@@ -1,0 +1,14 @@
+1	Now	now	RB	_	2	advmod	_	O
+2	Playing	play	VBG	pos2=NNP	13	dep	_	O
+3	on	on	IN	pos2=RP	2	prep	_	O
+4	#Channel80	#channel0	NN	pos2=NNS	3	pobj	_	O
+5	:	:	:	_	13	punct	_	O
+6	Ricky	ricky	NNP	_	13	dep	_	B-EVENT
+7	Martin	martin	NNP	_	13	dep	_	I-EVENT
+8	-	-	HYPH	pos2=:	13	punct	_	I-EVENT
+9	Casi	casi	NNP	_	11	compound	_	I-EVENT
+10	Un	un	NNP	_	11	compound	_	I-EVENT
+11	Bolero	bolero	NNP	pos2=NN	13	dep	_	L-EVENT
+12	-	-	:	pos2=HYPH	13	punct	_	O
+13	https://t.co/9Bxucccw9R	#hlink#	ADD	pos2=NN	0	root	_	O
+

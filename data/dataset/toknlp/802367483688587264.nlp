@@ -1,0 +1,27 @@
+1	Anyone	anyone	NN	_	2	nsubj	_	O
+2	admit	admit	VB	pos2=NN	0	root	_	O
+3	"	"	``	pos2=''	5	punct	_	O
+4	was	be	VBD	_	5	aux	_	O
+5	going	go	VBG	_	2	ccomp	_	O
+6	to	to	TO	_	7	aux	_	O
+7	vote	vote	VB	_	5	xcomp	_	O
+8	for	for	IN	_	7	prep	_	O
+9	Clinton	clinton	NNP	_	8	pobj	_	U-PERSON
+10	until	until	IN	_	14	mark	_	O
+11	the	the	DT	_	13	det	_	O
+12	Comey	comey	NNP	_	13	compound	_	U-PERSON
+13	letter	letter	NN	_	14	nsubj	_	O
+14	switched	switch	VBD	_	9	parataxis	_	O
+15	me	me	PRP	_	14	dobj	_	O
+16	to	to	IN	_	14	prep	_	O
+17	a	a	DT	_	22	det	_	O
+18	far	far	RB	pos2=JJ	20	advmod	_	O
+19	-	-	HYPH	_	20	punct	_	O
+20	right	right	JJ	_	21	nmod	_	O
+21	wing	wing	NN	_	22	compound	_	O
+22	supporter	supporter	NN	_	16	pobj	_	O
+23	of	of	IN	_	22	prep	_	O
+24	fascism	fascism	NN	_	23	pobj	_	O
+25	.	.	.	_	2	punct	_	O
+26	"	"	''	_	2	punct	_	O
+

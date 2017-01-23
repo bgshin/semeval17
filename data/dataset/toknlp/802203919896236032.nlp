@@ -1,0 +1,13 @@
+1	Friday	friday	NNP	_	3	compound	_	U-DATE
+2	night	night	NN	_	3	compound	_	U-TIME
+3	date	date	NN	_	8	nsubj	_	O
+4	with	with	IN	_	3	prep	_	O
+5	this	this	DT	_	6	det	_	O
+6	one	#crd#	NN	pos2=CD	4	pobj	_	O
+7	@TheLightBolton	@thelightbolton	NNP	pos2=NN	8	nsubj	_	U-GPE
+8	#fantasticbeasts	#fantasticbeasts	VBZ	pos2=NNPS	0	root	_	O
+9	#cinematime	#cinematime	UH	pos2=GW	8	discourse	_	O
+10	#nobettercompany	#nobettercompany	UH	pos2=GW	8	discourse	_	O
+11	🎬😬🍿	🎬😬🍿	NFP	pos2=-LRB-	8	discourse	_	O
+12	https://t.co/hebSkkGF0k	#hlink#	ADD	_	8	dobj	_	O
+

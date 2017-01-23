@@ -1,0 +1,18 @@
+1	Mannequin	mannequin	NN	pos2=NNP	2	compound	_	O
+2	challenge	challenge	NN	pos2=VB	6	nsubj	_	O
+3	#mannequinchallenge	#mannequinchallenge	UH	pos2=XX	2	discourse	_	O
+4	#comedy	#comedy	UH	pos2=NN	2	discourse	_	O
+5	Please	please	UH	_	6	discourse	_	O
+6	like	like	VB	pos2=UH	0	root	_	O
+7	and	and	CC	_	6	cc	_	O
+8	share	share	VB	pos2=NN	6	conj	_	O
+9	Song	song	NN	pos2=NNP	8	dobj	_	O
+10	by	by	IN	_	8	prep	_	O
+11	:	:	:	_	10	punct	_	O
+12	Rae	rae	NNP	_	13	compound	_	B-WORK_OF_ART
+13	Sremmurd	sremmurd	NNP	_	10	pobj	_	I-WORK_OF_ART
+14	-	-	:	pos2=HYPH	17	punct	_	I-WORK_OF_ART
+15	Black	black	NNP	pos2=JJ	16	compound	_	I-WORK_OF_ART
+16	Beatles	beatles	NNPS	pos2=NNS	17	dep	_	L-WORK_OF_ART
+17	https://t.co/qUrPNMCpX7	#hlink#	ADD	_	6	dep	_	O
+

@@ -1,0 +1,12 @@
+1	#Israel	#israel	NNP	pos2=NN	3	nsubjpass	_	U-ORG
+2	is	be	VBZ	_	3	auxpass	_	O
+3	threatened	threaten	VBN	_	0	root	_	O
+4	by	by	IN	_	3	agent	_	O
+5	a	a	DT	_	10	det	_	O
+6	more	more	RBR	_	7	advmod	_	O
+7	capable	capable	JJ	_	10	nmod	_	O
+8	and	and	CC	_	7	cc	_	O
+9	deadly	deadly	JJ	_	7	conj	_	O
+10	#Hezbollah	#hezbollah	NNP	pos2=NNS	4	pobj	_	O
+11	https://t.co/mqf9I26JjP	#hlink#	ADD	pos2=NN	4	pobj	_	O
+

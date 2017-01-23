@@ -1,0 +1,23 @@
+1	Dumping	dumping	NN	pos2=VBG	15	nsubj	_	O
+2	As	as	IN	_	6	mark	_	O
+3	Islamic	islamic	NNP	pos2=JJ	4	compound	_	U-NORP
+4	State	state	NNP	_	6	nsubjpass	_	U-ORG
+5	is	be	VBZ	_	6	auxpass	_	O
+6	chased	chase	VBN	_	1	advcl	_	O
+7	out	out	IN	pos2=RP	6	prep	_	O
+8	of	of	IN	_	7	prep	_	O
+9	Syria	syria	NNP	_	8	pobj	_	U-GPE
+10	and	and	CC	_	9	cc	_	O
+11	Iraq	iraq	NNP	_	9	conj	_	U-GPE
+12	,	,	,	_	15	punct	_	O
+13	will	will	MD	_	15	aux	_	O
+14	Afghanistan	afghanistan	NNP	_	15	nsubj	_	U-GPE
+15	be	be	VB	_	0	root	_	O
+16	the	the	DT	_	18	det	_	O
+17	dumping	dumping	NN	pos2=VBG	18	compound	_	O
+18	ground	ground	NN	_	15	attr	_	O
+19	?	?	.	_	15	punct	_	O
+
+1	#Isis	#isis	-LRB-	pos2=ADD	2	punct	_	O
+2	https://t.co/Onw8Za8ZTa	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

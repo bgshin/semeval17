@@ -1,0 +1,16 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=ADD	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	from	from	IN	_	2	prep	_	O
+7	@demolitionranch	@demolitionranch	ADD	pos2=-LRB-	6	pobj	_	O
+8	https://t.co/AGy9DoKLsu	#hlink#	ADD	pos2=NNP	5	appos	_	O
+9	Kitten	kitten	NNP	pos2=NN	6	pobj	_	O
+10	with	with	IN	_	8	prep	_	O
+11	Broken	broken	NNP	pos2=VBN	12	compound	_	O
+12	Hip	hip	NNP	pos2=NN	10	pobj	_	O
+13	Saved	save	VBN	pos2=VBD	12	acl	_	O
+14	from	from	IN	_	13	prep	_	O
+15	Euthanasia	euthanasia	NNP	pos2=NN	14	pobj	_	O
+

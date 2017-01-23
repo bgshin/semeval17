@@ -1,0 +1,19 @@
+1	@andrewmichta	@andrewmichta	UH	pos2=NNP	13	discourse	_	O
+2	Saakashvili	saakashvili	NNP	_	5	poss	_	U-PERSON
+3	's	's	POS	pos2=VBZ	2	case	_	O
+4	reckless	reckless	JJ	_	5	nmod	_	O
+5	disregard	disregard	NN	_	13	nsubj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	the	the	DT	_	10	det	_	O
+8	well	well	RB	pos2=NN	10	compound	_	O
+9	-	-	HYPH	_	10	punct	_	O
+10	being	being	NN	pos2=VBG	6	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	#lUkraine	#lukraine	NN	pos2=NNP	11	pobj	_	O
+13	is	be	VBZ	_	0	root	_	O
+14	reprehensible	reprehensible	JJ	_	13	acomp	_	O
+15	>	>	SYM	pos2=-RRB-	16	punct	_	O
+16	@pmakela1	@pmakela0	NN	pos2=CD	18	compound	_	O
+17	@SlawomirDebski	@slawomirdebski	NN	pos2=ADD	18	compound	_	O
+18	@RadioFreeTom	@radiofreetom	NN	pos2=ADD	13	vocative	_	O
+

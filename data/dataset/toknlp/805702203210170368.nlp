@@ -1,0 +1,28 @@
+1	Voter	voter	NN	_	2	compound	_	O
+2	suppression	suppression	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	biggest	big	JJS	_	6	nmod	_	O
+6	issue	issue	NN	_	3	attr	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	~	~	SYM	pos2=NFP	2	punct	_	O
+2	the	the	DT	_	7	det	_	O
+3	real	real	JJ	_	7	nmod	_	O
+4	voting	voting	NN	_	6	compound	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	rights	right	NNS	_	7	compound	_	O
+7	scandal	scandal	NN	_	10	appos	_	O
+8	of	of	IN	_	7	prep	_	O
+9	2016	0	CD	_	8	pobj	_	U-DATE
+10	.	.	.	_	0	root	_	O
+
+1	This	this	DT	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	first	#ord#	JJ	_	5	nmod	_	U-ORDINAL
+5	Presidential	presidential	NNP	pos2=JJ	2	attr	_	O
+6	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/vzEHIgJ6WK	#hlink#	ADD	_	0	root	_	U-ORG
+

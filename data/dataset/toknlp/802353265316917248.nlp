@@ -1,0 +1,18 @@
+1	Former	former	JJ	_	4	nmod	_	O
+2	Trump	trump	NNP	pos2=NN	4	nmod	_	U-ORG
+3	top	top	JJ	pos2=NN	4	nmod	_	O
+4	aide	aide	NN	_	5	nsubj	_	O
+5	calls	call	VBZ	pos2=NNS	0	root	_	O
+6	for	for	IN	_	5	prep	_	O
+7	'	'	``	_	8	punct	_	O
+8	accountability	accountability	NN	_	6	pobj	_	O
+9	'	'	''	_	8	punct	_	O
+10	on	on	IN	_	8	prep	_	O
+11	Melania	melania	NNP	_	12	compound	_	B-PERSON
+12	Trump	trump	NNP	pos2=NN	17	dep	_	L-PERSON
+13	speech	speech	NN	_	16	compound	_	O
+14	-	-	HYPH	pos2=:	16	punct	_	B-ORG
+15	Chicago	chicago	NNP	_	16	compound	_	I-ORG
+16	Tribune	tribune	NNP	pos2=GW	17	nmod	_	L-ORG
+17	https://t.co/wPw0qbvfyZ	#hlink#	ADD	_	5	dep	_	O
+

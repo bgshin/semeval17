@@ -1,0 +1,23 @@
+1	when	when	WRB	_	3	advmod	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	think	think	VBP	_	0	root	_	O
+4	people	people	NNS	_	9	nsubj	_	O
+5	from	from	IN	_	4	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	chicago	chicago	NNP	pos2=JJ	8	compound	_	U-GPE
+8	suburbs	suburb	NNS	_	5	pobj	_	O
+9	are	be	VBP	_	3	ccomp	_	O
+10	horrible	horrible	JJ	_	9	acomp	_	O
+11	but	but	CC	_	9	cc	_	O
+12	then	then	RB	_	14	advmod	_	O
+13	you	you	PRP	_	14	nsubj	_	O
+14	meet	meet	VBP	_	9	conj	_	O
+15	people	people	NNS	_	14	dobj	_	O
+16	from	from	IN	_	15	prep	_	O
+17	the	the	DT	_	19	det	_	O
+18	Austrian	austrian	JJ	_	19	nmod	_	U-NORP
+19	countryside	countryside	NN	_	16	pobj	_	O
+20	.	.	.	_	3	punct	_	O
+
+1	#deplorables	#deplorables	UH	pos2=NNS	0	root	_	O
+

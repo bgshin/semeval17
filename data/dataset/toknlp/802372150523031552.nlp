@@ -1,0 +1,21 @@
+1	the	the	DT	_	2	det	_	O
+2	amount	amount	NN	_	14	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	times	time	NNS	_	3	pobj	_	O
+5	I	I	PRP	_	7	nsubj	_	O
+6	've	have	VBP	_	7	aux	_	O
+7	said	say	VBN	pos2=VBD	2	relcl	_	O
+8	hallo	hallo	NN	pos2=RB	7	dobj	_	O
+9	and	and	CC	_	7	cc	_	O
+10	imitated	imitate	VBD	pos2=VBN	7	conj	_	O
+11	Melania	melania	NNP	_	12	compound	_	B-PERSON
+12	Trump	trump	NNP	pos2=NN	10	dobj	_	L-PERSON
+13	tonight	tonight	NN	_	14	npadvmod	_	U-TIME
+14	is	be	VBZ	_	0	root	_	O
+15	at	at	IN	_	14	prep	_	O
+16	an	an	DT	pos2=CD	20	det	_	O
+17	all	all	DT	_	18	det	_	O
+18	time	time	NN	_	20	nmod	_	O
+19	high	high	JJ	pos2=RB	20	nmod	_	O
+20	ahahaha	ahahaha	NN	pos2=NNS	15	pobj	_	O
+

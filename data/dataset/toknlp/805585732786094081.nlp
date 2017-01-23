@@ -1,0 +1,10 @@
+1	What	what	WP	_	2	attr	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	Homeopathy	homeopathy	NNP	pos2=NN	6	dep	_	O
+4	|	|	SYM	pos2=,	6	punct	_	O
+5	National	national	NNP	_	6	compound	_	O
+6	Center	center	NNP	_	2	nsubj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	Homeopathy	homeopathy	NNP	pos2=NN	7	pobj	_	O
+9	https://t.co/6M293cqO5d	#hlink#	ADD	pos2=NN	6	appos	_	O
+

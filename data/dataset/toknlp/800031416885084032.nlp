@@ -1,0 +1,26 @@
+1	For	for	IN	_	9	prep	_	O
+2	a	a	DT	_	6	det	_	O
+3	really	really	RB	_	4	advmod	_	O
+4	good	good	JJ	_	6	nmod	_	O
+5	apple	apple	NN	_	6	compound	_	O
+6	pie	pie	NN	_	1	pobj	_	O
+7	,	,	,	_	9	punct	_	O
+8	you	you	PRP	_	9	nsubj	_	O
+9	need	need	VBP	_	0	root	_	O
+10	the	the	DT	_	11	det	_	O
+11	arts	art	NNS	_	9	dobj	_	O
+12	.	.	.	_	9	punct	_	O
+
+1	-	-	SYM	pos2=HYPH	3	punct	_	O
+2	@NicolaYoon	@nicolayoon	NN	pos2=XX	3	compound	_	O
+3	reading	reading	NN	pos2=VBG	7	nsubj	_	O
+4	from	from	IN	_	3	prep	_	O
+5	THE	the	DT	_	6	det	_	O
+6	SUN	sun	NNP	pos2=NN	4	pobj	_	U-ORG
+7	IS	be	VBZ	_	0	root	_	O
+8	ALSO	also	RB	_	7	advmod	_	O
+9	A	a	DT	_	10	det	_	O
+10	STAR	star	NN	pos2=NNP	7	attr	_	O
+11	…	…	NFP	pos2=:	12	punct	_	O
+12	https://t.co/cHW9lTZHmx	#hlink#	ADD	_	10	nmod	_	O
+

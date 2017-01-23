@@ -1,0 +1,17 @@
+1	Retweeted	retweeted	VBN	pos2=VBD	3	nmod	_	O
+2	P.	p.	NNP	_	3	compound	_	O
+3	J.	j.	NNP	_	7	nmod	_	O
+4	(	(	-LRB-	_	3	punct	_	O
+5	@Portosj81J	@portosj0j	NN	pos2=NNP	3	appos	_	O
+6	)	)	-RRB-	_	3	punct	_	O
+7	:#ThankYouObama	:#thankyouobama	NN	pos2=ADD	16	nsubj	_	O
+8	for	for	IN	_	7	prep	_	O
+9	blatantly	blatantly	RB	_	10	advmod	_	O
+10	lying	lie	VBG	_	8	pcomp	_	O
+11	to	to	IN	_	10	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	American	american	JJ	pos2=NNP	14	nmod	_	U-NORP
+14	People	people	NNS	pos2=GW	11	pobj	_	O
+15	https://t.co/Whamv8KQbH	#hlink#	ADD	pos2=VBP	14	appos	_	O
+16	https://t.co/6lucvKbxu7	#hlink#	ADD	_	0	root	_	U-ORG
+

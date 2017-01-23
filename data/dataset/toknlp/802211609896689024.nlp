@@ -1,0 +1,12 @@
+1	Steven	steven	NNP	_	2	compound	_	B-PERSON
+2	Seagal	seagal	NNP	_	3	nsubj	_	L-PERSON
+3	Meets	meet	VBZ	_	0	root	_	O
+4	With	with	IN	pos2=NNP	3	prep	_	O
+5	Putin	putin	NNP	_	4	pobj	_	U-PERSON
+6	,	,	,	_	7	punct	_	O
+7	Gets	get	VBZ	_	3	conj	_	O
+8	Russian	russian	JJ	pos2=GW	9	nmod	_	U-NORP
+9	Passport	passport	NN	pos2=GW	11	dep	_	O
+10	https://t.co/zhxQ9EMZ0D	#hlink#	ADD	_	11	nmod	_	O
+11	https://t.co/Rh3fwGG5tZ	#hlink#	ADD	_	7	dobj	_	U-ORG
+

@@ -1,0 +1,15 @@
+1	Ashley	ashley	NNP	_	2	compound	_	B-PERSON
+2	Graham	graham	NNP	_	3	nsubj	_	L-PERSON
+3	reveals	reveal	VBZ	_	0	root	_	O
+4	which	which	WDT	_	6	det	_	O
+5	VH1	vh0	NN	pos2=NNP	6	compound	_	U-ORG
+6	diva	diva	NN	pos2=NNP	14	dobj	_	O
+7	she	she	PRP	_	8	nsubj	_	O
+8	's	's	VBZ	_	3	ccomp	_	O
+9	most	most	RBS	pos2=RB	10	advmod	_	O
+10	excited	excited	JJ	_	8	acomp	_	O
+11	to	to	TO	_	12	aux	_	O
+12	see	see	VB	_	10	xcomp	_	O
+13	✨	✨	NFP	pos2=-LRB-	14	punct	_	O
+14	https://t.co/6fkOsIkhXS	#hlink#	ADD	_	12	dobj	_	O
+

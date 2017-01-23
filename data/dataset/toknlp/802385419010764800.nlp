@@ -1,0 +1,12 @@
+1	Bad	bad	JJ	_	2	nmod	_	O
+2	hombres	hombre	NNS	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Raul	raul	NNP	pos2=VB	4	vocative	_	U-PERSON
+2	about	about	RB	pos2=IN	4	advmod	_	O
+3	to	to	TO	_	4	aux	_	O
+4	shoot	shoot	VB	_	0	root	_	O
+5	innocent	innocent	JJ	_	6	nmod	_	O
+6	man	man	NN	_	4	dobj	_	O
+7	https://t.co/9cB84TSAgU	#hlink#	ADD	pos2=.	4	dep	_	U-ORG
+

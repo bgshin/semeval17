@@ -1,0 +1,27 @@
+1	@KremlinTrolls	@kremlintrolls	NNS	pos2=ADD	15	punct	_	O
+2	@GenFlynn	@genflynn	ADD	pos2=NNP	15	advcl	_	O
+3	@politico	@politico	WP	pos2=UH	4	nsubj	_	O
+4	Looks	look	VBZ	_	2	ccomp	_	O
+5	like	like	IN	_	7	mark	_	O
+6	Flynn	flynn	NNP	_	7	nsubj	_	U-PERSON
+7	is	be	VBZ	_	4	advcl	_	O
+8	n't	not	RB	_	7	neg	_	O
+9	too	too	RB	_	10	advmod	_	O
+10	pleased	pleased	JJ	_	7	acomp	_	O
+11	with	with	IN	_	10	prep	_	O
+12	me	me	PRP	_	11	pobj	_	O
+13	,	,	,	_	15	punct	_	O
+14	he	he	PRP	_	15	nsubj	_	O
+15	blocked	block	VBD	_	0	root	_	O
+16	me	me	PRP	_	15	dobj	_	O
+17	.	.	.	_	15	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	blocked	block	VBN	pos2=VBD	0	root	_	O
+3	by	by	IN	_	2	agent	_	O
+4	Flynn	flynn	NNP	_	3	pobj	_	U-PERSON
+5	too	too	RB	_	2	advmod	_	O
+6	@	@	SYM	pos2=IN	7	punct	_	O
+7	20committee	0committee	NN	pos2=VB	2	prep	_	O
+8	?	?	.	_	2	punct	_	O
+

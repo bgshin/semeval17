@@ -1,0 +1,27 @@
+1	tax	tax	NN	pos2=VB	2	compound	_	O
+2	relief	relief	NN	_	0	root	_	O
+3	under	under	IN	_	2	prep	_	O
+4	#PEOTUS	#peotus	NNP	pos2=NN	3	pobj	_	U-ORG
+5	.	.	.	_	2	punct	_	O
+
+1	is	be	VBZ	_	0	root	_	O
+2	this	this	DT	_	1	nsubj	_	O
+3	what	what	WP	_	7	det	_	O
+4	you	you	PRP	_	6	nsubj	_	O
+5	're	be	VBP	_	6	aux	_	O
+6	fighting	fight	VBG	_	1	ccomp	_	O
+7	liberals	liberal	NNS	_	6	dobj	_	O
+8	?	?	.	_	6	punct	_	O
+
+1	or	or	CC	_	2	cc	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	it	it	PRP	_	2	nsubj	_	O
+4	your	your	PRP$	_	5	poss	_	O
+5	access	access	NN	_	2	attr	_	O
+6	to	to	IN	_	5	prep	_	O
+7	#abortion	#abortion	NNP	pos2=NN	6	pobj	_	U-GPE
+8	?	?	.	_	2	punct	_	O
+
+1	https://t.co/qHmAPs18qc#prolife	#hlink#	ADD	_	0	root	_	O
+2	#tcot	#tcot	-RRB-	pos2=UH	1	punct	_	O
+

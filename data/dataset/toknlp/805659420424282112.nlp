@@ -1,0 +1,24 @@
+1	@Robolito180	@robolito0	NN	pos2=NNS	6	vocative	_	O
+2	why	why	WRB	_	6	advmod	_	O
+3	do	do	VBP	_	6	aux	_	O
+4	n't	not	RB	_	6	neg	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	prove	prove	VB	_	0	root	_	O
+7	you	you	PRP	_	10	nsubj	_	O
+8	did	do	VBD	_	10	aux	_	O
+9	n't	not	RB	_	10	neg	_	O
+10	kill	kill	VB	_	6	ccomp	_	O
+11	Michael	michael	NNP	_	12	compound	_	B-PERSON
+12	Jackson	jackson	NNP	_	10	dobj	_	L-PERSON
+13	?	?	.	_	6	punct	_	O
+
+1	Or	or	CC	_	3	cc	_	O
+2	Fidel	fidel	NNP	_	3	compound	_	B-PERSON
+3	Castro	castro	NNP	_	0	root	_	L-PERSON
+4	.	.	.	_	3	punct	_	O
+
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	equally	equally	RB	_	4	advmod	_	O
+4	outrageous	outrageous	JJ	_	2	acomp	_	O
+

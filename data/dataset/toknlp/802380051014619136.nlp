@@ -1,0 +1,26 @@
+1	Published	publish	VBN	pos2=VBD	0	root	_	O
+2	on	on	IN	_	1	prep	_	O
+3	Nov	nov	NNP	_	2	pobj	_	B-DATE
+4	18	0	CD	_	3	nmod	_	L-DATE
+5	,	,	,	_	1	punct	_	O
+6	2016Speech	0speech	VBN	pos2=NN	1	dep	_	O
+7	by	by	IN	_	6	agent	_	O
+8	Stephen	stephen	NNP	_	10	compound	_	B-PERSON
+9	K.	k.	NNP	_	10	compound	_	I-PERSON
+10	Bannon	bannon	NNP	_	7	pobj	_	L-PERSON
+11	(	(	-LRB-	_	10	punct	_	O
+12	Steve	steve	NNP	_	13	compound	_	B-PERSON
+13	Bannon	bannon	NNP	_	10	appos	_	L-PERSON
+14	)	)	-RRB-	_	10	punct	_	O
+15	,	,	,	_	10	punct	_	O
+16	Donald	donald	NNP	_	17	compound	_	B-PERSON
+17	Trump	trump	NNP	_	21	poss	_	I-PERSON
+18	's	's	POS	_	17	case	_	L-PERSON
+19	senior	senior	JJ	_	21	nmod	_	O
+20	strategic	strategic	JJ	_	21	nmod	_	O
+21	advisor	advisor	NN	_	10	appos	_	O
+22	and	and	CC	_	21	cc	_	O
+23	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/bkpnC1uQfO	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,31 @@
+1	@DaRealyestJones	@darealyestjones	UH	pos2=NNS	4	discourse	_	O
+2	no	no	UH	_	4	discourse	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	believe	believe	VBP	_	0	root	_	O
+5	u	u	PRP	pos2=XX	8	nsubj	_	O
+6	,	,	,	_	4	punct	_	O
+7	not	not	RB	_	8	neg	_	O
+8	denying	deny	VBG	_	4	ccomp	_	O
+9	there	there	EX	pos2=RB	10	expl	_	O
+10	was	be	VBD	_	8	ccomp	_	O
+11	testing	testing	NN	pos2=VBG	10	attr	_	O
+12	on	on	IN	_	11	prep	_	O
+13	woc	woc	NN	pos2=NNS	12	pobj	_	O
+14	.	.	.	_	4	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	'm	be	VBP	_	3	aux	_	O
+3	saying	say	VBG	_	0	root	_	O
+4	animal	animal	NN	pos2=JJ	5	compound	_	O
+5	rts	rts	NNS	pos2=IN	6	compound	_	O
+6	ppl	ppl	NNS	pos2=NNP	9	nsubj	_	O
+7	would	would	MD	_	9	aux	_	O
+8	nt	nt	RB	pos2=VB	9	advmod	_	O
+9	support	support	VB	_	3	ccomp	_	O
+10	it	it	PRP	_	9	dobj	_	O
+11	,	,	,	_	9	punct	_	O
+12	which	which	WDT	_	15	dobj	_	O
+13	the	the	DT	_	14	det	_	O
+14	tweet	tweet	NN	_	15	nsubj	_	O
+15	implies	imply	VBZ	_	9	advcl	_	O
+

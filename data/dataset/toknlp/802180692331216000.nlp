@@ -1,0 +1,17 @@
+1	Where	where	WRB	_	2	advmod	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	best	good	JJS	_	5	nmod	_	O
+5	place	place	NN	_	2	nsubj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	buy	buy	VB	_	5	relcl	_	O
+8	a	a	DT	_	10	det	_	O
+9	@utahjazz	@utahjazz	XX	pos2=NN	10	compound	_	O
+10	jersey	jersey	NN	pos2=UH	7	dobj	_	O
+11	??	??	.	_	2	punct	_	O
+
+1	@rudygobert27	@rudygobert0	NN	pos2=LS	0	root	_	O
+2	@gordonhayward	@gordonhayward	UH	pos2=XX	1	discourse	_	O
+3	@daanteee	@daanteee	UH	pos2=FW	1	discourse	_	O
+4	@TreyMambaLyles	@treymambalyles	NNS	pos2=UH	1	dobj	_	O
+

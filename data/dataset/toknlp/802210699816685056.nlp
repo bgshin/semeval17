@@ -1,0 +1,29 @@
+1	Trump	trump	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	won	win	VBD	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	popular	popular	JJ	_	5	nmod	_	O
+5	vote	vote	NN	_	2	dobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	And	and	CC	_	3	cc	_	O
+2	that	that	DT	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	with	with	IN	_	3	prep	_	O
+5	all	all	DT	_	4	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	illegals	illegal	NNS	_	6	pobj	_	O
+9	,	,	,	_	14	punct	_	O
+10	over	over	IN	_	5	appos	_	O
+11	3	0	CD	_	12	compound	_	B-CARDINAL
+12	million	#crd#	CD	_	10	pobj	_	L-CARDINAL
+13	,	,	,	_	8	punct	_	O
+14	and	and	CC	_	15	cc	_	O
+15	the	the	DT	_	17	det	_	O
+16	vote	vote	NN	_	17	compound	_	O
+17	rigging	rigging	NN	pos2=VBG	12	appos	_	O
+18	with	with	IN	_	17	prep	_	O
+19	voting	voting	NN	pos2=VBG	20	compound	_	O
+20	machines	machine	NNS	_	18	pobj	_	O
+21	.	.	.	_	3	punct	_	O
+

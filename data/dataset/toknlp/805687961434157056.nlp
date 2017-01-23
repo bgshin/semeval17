@@ -1,0 +1,28 @@
+1	@NoelCastanza	@noelcastanza	NNP	pos2=ADD	2	compound	_	U-ORG
+2	@Manie_DS	@manie_ds	NNS	pos2=NNPS	0	root	_	O
+3	and	and	CC	_	2	cc	_	O
+4	he	he	PRP	_	6	nsubjpass	_	O
+5	is	be	VBZ	_	6	auxpass	_	O
+6	paid	pay	VBN	_	2	conj	_	O
+7	reasonably	reasonably	RB	_	8	advmod	_	O
+8	well	well	RB	_	6	advmod	_	O
+9	above	above	IN	_	6	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	minimum	minimum	JJ	pos2=NN	12	nmod	_	O
+12	wage	wage	NN	_	9	pobj	_	O
+13	.	.	.	_	6	punct	_	O
+
+1	He	he	PRP	_	4	nsubj	_	O
+2	does	do	VBZ	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	have	have	VB	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	pay	pay	VB	_	4	xcomp	_	O
+7	for	for	IN	_	6	prep	_	O
+8	rent	rent	NN	_	7	pobj	_	O
+9	,	,	,	_	8	punct	_	O
+10	water	water	NN	_	8	conj	_	O
+11	,	,	,	_	10	punct	_	O
+12	or	or	CC	_	10	cc	_	O
+13	elec.	elec.	NN	pos2=FW	10	conj	_	O
+

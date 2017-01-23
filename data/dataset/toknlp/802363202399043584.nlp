@@ -1,0 +1,22 @@
+1	@CNNPolitics	@cnnpolitics	CC	pos2=POS	7	cc	_	O
+2	social	social	JJ	_	3	nmod	_	O
+3	security	security	NN	_	7	nsubjpass	_	O
+4	and	and	CC	_	3	cc	_	O
+5	Medicaid	medicaid	NNP	_	3	conj	_	U-ORG
+6	are	be	VBP	_	7	auxpass	_	O
+7	supported	support	VBN	_	0	root	_	O
+8	via	via	IN	_	7	prep	_	O
+9	payments	payment	NNS	_	8	pobj	_	O
+10	coming	come	VBG	_	9	acl	_	O
+11	in	in	RB	pos2=RP	10	advmod	_	O
+12	from	from	IN	_	10	prep	_	O
+13	payroll	payroll	NN	_	12	pobj	_	O
+14	so	so	RB	pos2=IN	10	advmod	_	O
+15	zero	#crd#	CD	pos2=JJ	16	nmod	_	U-CARDINAL
+16	savings	saving	NNS	_	13	appos	_	O
+17	just	just	RB	_	18	advmod	_	O
+18	diverting	divert	VBG	_	16	acl	_	O
+19	your	your	PRP$	_	20	poss	_	O
+20	money	money	NN	_	18	dobj	_	O
+21	there	there	RB	pos2=EX	18	advmod	_	O
+

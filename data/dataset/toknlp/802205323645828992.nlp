@@ -1,0 +1,22 @@
+1	Israel	israel	NNP	_	2	nsubj	_	U-GPE
+2	deems	deem	VBZ	_	0	root	_	O
+3	comatose	comatose	JJ	_	5	nmod	_	O
+4	Gaza	gaza	NNP	_	5	compound	_	U-GPE
+5	man	man	NN	_	2	dobj	_	O
+6	who	who	WP	_	7	nsubj	_	O
+7	needs	need	VBZ	_	5	relcl	_	O
+8	treatment	treatment	NN	_	7	dobj	_	O
+9	in	in	IN	_	7	prep	_	O
+10	West	west	NNP	_	11	compound	_	B-GPE
+11	Bank	bank	NNP	_	9	pobj	_	L-GPE
+12	a	a	DT	_	14	det	_	O
+13	security	security	NN	_	14	compound	_	O
+14	threat	threat	NN	_	7	dobj	_	O
+15	.	.	.	_	2	punct	_	O
+
+1	#Palestine	#palestine	ADD	pos2=NFP	0	root	_	O
+2	https://t.co/ZeuVK3nHm5	#hlink#	ADD	pos2=NN	1	pobj	_	O
+3	via	via	IN	_	1	prep	_	O
+4	@	@	NFP	pos2=SYM	5	punct	_	O
+5	972mag	0mag	NN	pos2=NNS	3	pobj	_	U-QUANTITY
+

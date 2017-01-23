@@ -1,0 +1,14 @@
+1	#Dana_Milbank	#dana_milbank	NN	pos2=RB	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	‘	'	''	pos2=``	4	punct	_	O
+4	#Nancy_Pelosi	#nancy_pelosi	NN	pos2=NNS	0	root	_	O
+5	and	and	CC	_	4	cc	_	O
+6	Her	her	PRP$	_	7	poss	_	O
+7	Team	team	NNP	pos2=NN	9	nsubj	_	O
+8	Should	should	MD	_	9	aux	_	O
+9	Go	go	VB	_	4	conj	_	O
+10	’	'	''	pos2=-LRB-	9	punct	_	O
+11	https://t.co/k4gW60sr66	#hlink#	ADD	pos2=GW	13	nmod	_	O
+12	#RETWEEETME	#retweeetme	ADD	pos2=GW	9	cc	_	U-ORG
+13	https://t.co/3CMsAYw9Rf	#hlink#	ADD	_	12	pobj	_	O
+

@@ -1,0 +1,24 @@
+1	Bob	bob	NNP	_	2	compound	_	B-PERSON
+2	Dylan	dylan	NNP	_	7	nsubj	_	L-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	The	the	DT	_	6	det	_	O
+5	Grateful	grateful	NNP	pos2=JJ	6	compound	_	O
+6	Dead	dead	NNP	pos2=JJ	2	conj	_	O
+7	sing	sing	VB	pos2=VBG	0	root	_	O
+8	Rainy	rainy	NNP	_	9	compound	_	B-WORK_OF_ART
+9	Day	day	NNP	_	23	dep	_	L-WORK_OF_ART
+10	Women	woman	NNS	pos2=NNPS	23	dep	_	O
+11	#	#	NN	pos2=$	23	dep	_	O
+12	12	0	CD	pos2=LS	11	nmod	_	U-MONEY
+13	And	and	CC	_	11	cc	_	O
+14	35	0	CD	_	11	conj	_	U-CARDINAL
+15	live	live	RB	pos2=JJ	14	advmod	_	O
+16	at	at	IN	_	15	prep	_	O
+17	Madison	madison	NNP	_	19	compound	_	B-FAC
+18	Square	square	NNP	_	19	compound	_	I-FAC
+19	Garden	garden	NNP	_	16	pobj	_	L-FAC
+20	on	on	IN	_	7	prep	_	O
+21	10/17/94	0	CD	_	20	pobj	_	U-CARDINAL
+22	-	-	:	pos2=HYPH	23	punct	_	O
+23	https://t.co/UWIHC0Mh0V	#hlink#	ADD	pos2=NN	7	dobj	_	O
+

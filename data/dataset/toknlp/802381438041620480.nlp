@@ -1,0 +1,13 @@
+1	@DrJillStein	@drjillstein	ADD	pos2=IN	6	aux	_	O
+2	You	you	PRP	_	6	nsubj	_	O
+3	and	and	CC	_	2	cc	_	O
+4	George	george	NNP	_	5	compound	_	B-PERSON
+5	Soros	soros	NNP	_	2	conj	_	L-PERSON
+6	make	make	VB	pos2=VBP	0	root	_	O
+7	a	a	DT	_	9	det	_	O
+8	good	good	JJ	_	9	nmod	_	O
+9	team	team	NN	_	6	dobj	_	O
+10	!	!	.	_	6	punct	_	O
+
+1	https://t.co/2OFxOhZfCd	#hlink#	ADD	_	0	root	_	U-ORG
+

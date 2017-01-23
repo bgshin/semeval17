@@ -1,0 +1,25 @@
+1	What	what	WP	_	2	nsubj	_	O
+2	's	's	VBZ	_	14	csubj	_	O
+3	fascinating	fascinating	JJ	pos2=VBG	2	acomp	_	O
+4	to	to	IN	_	3	prep	_	O
+5	me	me	PRP	_	4	pobj	_	O
+6	in	in	IN	_	2	prep	_	O
+7	reading	read	VBG	_	6	pcomp	_	O
+8	up	up	RP	_	7	prt	_	O
+9	on	on	IN	_	7	prep	_	O
+10	all	all	DT	_	9	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	this	this	DT	_	13	det	_	O
+13	craziness	craziness	NN	_	11	pobj	_	O
+14	is	be	VBZ	_	0	root	_	O
+15	how	how	WRB	_	16	advmod	_	O
+16	open	open	JJ	_	17	nmod	_	O
+17	racism	racism	NN	_	20	nsubj	_	O
+18	has	have	VBZ	_	20	aux	_	O
+19	never	never	RB	_	20	neg	_	O
+20	felt	feel	VBN	_	14	ccomp	_	O
+21	more	more	JJR	pos2=RBR	20	dobj	_	O
+22	...	..	.	pos2=,	14	punct	_	O
+
+1	https://t.co/T9hRjdg3Wn	#hlink#	ADD	_	0	root	_	U-ORG
+

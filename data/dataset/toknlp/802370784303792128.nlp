@@ -1,0 +1,35 @@
+1	@SenSchumer	@senschumer	NN	pos2=ADD	2	vocative	_	O
+2	Thank	thank	VBP	_	0	root	_	O
+3	you	you	PRP	_	2	dobj	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	make	make	VBP	_	0	root	_	O
+3	good	good	JJ	pos2=NN	4	nmod	_	O
+4	$$$	$$	NN	pos2=-RRB-	2	dobj	_	O
+5	off	off	IN	pos2=RP	2	prep	_	O
+6	Medicare	medicare	NNP	_	5	pobj	_	U-ORG
+7	.	.	.	_	2	punct	_	O
+
+1	Please	please	UH	_	2	discourse	_	O
+2	keep	keep	VB	_	0	root	_	O
+3	it	it	PRP	_	2	dobj	_	O
+4	just	just	RB	_	6	advmod	_	O
+5	the	the	DT	_	6	det	_	O
+6	way	way	NN	_	2	npadvmod	_	O
+7	it	it	PRP	_	8	nsubj	_	O
+8	is	be	VBZ	_	6	relcl	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	America	america	NNP	pos2=NN	5	nsubj	_	U-GPE
+2	can	can	MD	_	5	aux	_	O
+3	more	more	RBR	pos2=JJR	5	advmod	_	O
+4	than	than	IN	_	3	advmod	_	O
+5	afford	afford	VB	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	$$$	$$	NN	pos2=NNS	5	dobj	_	O
+8	we	we	PRP	_	9	nsubj	_	O
+9	earn	earn	VBP	_	7	relcl	_	O
+10	off	off	IN	pos2=RP	9	prep	_	O
+11	it	it	PRP	_	10	pobj	_	O
+

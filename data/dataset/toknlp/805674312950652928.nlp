@@ -1,0 +1,23 @@
+1	i	I	PRP	_	3	nsubj	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	told	tell	VBD	_	0	root	_	O
+4	bea	bea	NNP	pos2=NN	3	dobj	_	O
+5	i	I	PRP	pos2=POS	6	nsubj	_	O
+6	wan	wan	VBP	pos2=MD	3	ccomp	_	O
+7	na	to	TO	_	8	aux	_	O
+8	try	try	VB	_	6	xcomp	_	O
+9	vegetarianism	vegetarianism	NN	_	8	dobj	_	O
+10	and	and	CC	_	6	cc	_	O
+11	she	she	PRP	_	12	nsubj	_	O
+12	thinks	think	VBZ	_	6	conj	_	O
+13	it	it	PRP	_	14	nsubj	_	O
+14	's	's	VBZ	_	12	ccomp	_	O
+15	a	a	DT	_	16	det	_	O
+16	joke	joke	NN	_	14	attr	_	O
+17	and	and	CC	_	14	cc	_	O
+18	i	I	PRP	_	21	nsubj	_	O
+19	wo	wo	MD	_	21	aux	_	O
+20	n't	not	RB	_	21	neg	_	O
+21	last	last	VB	pos2=RB	14	conj	_	O
+22	https://t.co/UVCg5HIZkt	#hlink#	ADD	pos2=NN	21	dobj	_	U-ORG
+

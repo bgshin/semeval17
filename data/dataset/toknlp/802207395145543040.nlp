@@ -1,0 +1,9 @@
+1	@elsajustelsa	@elsajustelsa	UH	pos2=NN	8	discourse	_	O
+2	@Chellie2shoes	@chellie0shoes	NNS	pos2=UH	8	nsubjpass	_	O
+3	yeah	yeah	UH	_	2	discourse	_	O
+4	but	but	CC	_	8	cc	_	O
+5	Mike	mike	NNP	_	6	compound	_	B-PERSON
+6	Pence	penny	NNP	_	8	nsubjpass	_	L-PERSON
+7	got	get	VBD	_	8	auxpass	_	O
+8	booed	boo	VBN	_	0	root	_	O
+

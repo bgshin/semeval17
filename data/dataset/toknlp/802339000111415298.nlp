@@ -1,0 +1,30 @@
+1	@blazelikemarley	@blazelikemarley	UH	pos2=XX	3	discourse	_	O
+2	There	there	EX	_	3	expl	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	no	no	DT	_	5	det	_	O
+5	reason	reason	NN	_	3	attr	_	O
+6	for	for	IN	_	9	mark	_	O
+7	you	you	PRP	_	9	nsubj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	hate	hate	VB	pos2=NN	5	relcl	_	O
+10	Trump	trump	NNP	_	9	dobj	_	U-PERSON
+11	,	,	,	_	10	punct	_	O
+12	stupid	stupid	JJ	_	13	nmod	_	O
+13	whore	whore	NN	pos2=UH	10	appos	_	O
+14	.	.	.	_	3	punct	_	O
+
+1	Trump	trump	NN	pos2=NNP	3	nsubj	_	U-PERSON
+2	will	will	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	best	good	JJS	pos2=RBS	6	nmod	_	O
+6	president	president	NN	_	3	attr	_	O
+7	and	and	CC	_	6	cc	_	O
+8	your	your	PRP$	_	9	poss	_	O
+9	protest	protest	NN	_	6	conj	_	O
+10	wo	wo	MD	pos2=RB	12	aux	_	O
+11	nt	nt	RB	_	12	advmod	_	O
+12	stop	stop	VB	_	3	conj	_	O
+13	that	that	DT	_	12	dobj	_	O
+14	.	.	.	_	3	punct	_	O
+

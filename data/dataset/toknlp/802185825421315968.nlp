@@ -1,0 +1,27 @@
+1	@dj_dwjohns1	@dj_dwjohns0	NN	pos2=LS	6	npadvmod	_	O
+2	@tponews	@tponews	UH	pos2=FW	6	discourse	_	O
+3	@RogerJStoneJr	@rogerjstonejr	NNP	pos2=IN	5	compound	_	O
+4	Ben	ben	NNP	_	5	compound	_	B-PERSON
+5	Carson	carson	NNP	_	6	nsubj	_	L-PERSON
+6	said	say	VBD	_	0	root	_	O
+7	the	the	DT	_	9	det	_	O
+8	same	same	JJ	_	9	nmod	_	O
+9	thing	thing	NN	_	6	dobj	_	O
+10	,	,	,	_	6	punct	_	O
+11	but	but	CC	_	6	cc	_	O
+12	he	he	PRP	_	13	nsubj	_	O
+13	accepted	accept	VBD	_	6	conj	_	O
+14	the	the	DT	_	16	det	_	O
+15	HUD	hud	NNP	_	16	compound	_	U-ORG
+16	position	position	NN	_	13	dobj	_	O
+17	.	.	.	_	13	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	hope	hope	VBP	_	0	root	_	O
+3	Newt	newt	NNP	_	4	nsubj	_	U-PERSON
+4	takes	take	VBZ	_	2	ccomp	_	O
+5	it	it	PRP	_	4	dobj	_	O
+6	if	if	IN	_	7	mark	_	O
+7	true	true	JJ	_	4	advcl	_	O
+8	.	.	.	_	2	punct	_	O
+

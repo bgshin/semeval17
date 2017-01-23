@@ -1,0 +1,28 @@
+1	Let	let	VB	_	0	root	_	O
+2	U.S.	u.s.	NNP	_	4	compound	_	U-GPE
+3	lift	lift	NN	pos2=VB	4	compound	_	O
+4	embargo	embargo	NN	pos2=NNP	0	root	_	O
+5	...	..	.	_	1	punct	_	O
+
+1	give	give	VB	pos2=VBP	0	root	_	O
+2	socialism	socialism	NN	_	1	dative	_	O
+3	a	a	DT	_	4	det	_	O
+4	chance	chance	NN	_	1	dobj	_	O
+5	on	on	IN	_	4	prep	_	O
+6	equal	equal	JJ	_	8	nmod	_	O
+7	playing	playing	NN	pos2=VBG	8	compound	_	O
+8	field	field	NN	_	5	pobj	_	O
+9	..	..	.	pos2=,	1	punct	_	O
+
+1	the	the	DT	_	2	det	_	O
+2	US	us	NNP	_	6	nsubj	_	U-GPE
+3	for	for	IN	_	6	prep	_	O
+4	years	year	NNS	_	3	pobj	_	U-DATE
+5	have	have	VBP	_	6	aux	_	O
+6	planted	plant	VBN	_	0	root	_	O
+7	sleepers	sleeper	NNS	_	6	dobj	_	O
+8	in	in	IN	_	6	prep	_	O
+9	C	c	NNP	pos2=NN	8	pobj	_	B-GPE
+10	…	…	NFP	pos2=-LRB-	11	punct	_	L-GPE
+11	https://t.co/K2ZbDlQWy8	#hlink#	ADD	_	6	dep	_	O
+

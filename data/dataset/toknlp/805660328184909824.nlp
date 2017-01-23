@@ -1,0 +1,23 @@
+1	@TygerWDR	@tygerwdr	UH	pos2=ADD	2	discourse	_	O
+2	@DoubleAgentGuy	@doubleagentguy	VBP	pos2=WRB	0	root	_	O
+3	Geeky	geeky	JJ	pos2=NNP	0	root	_	O
+4	yeah	yeah	UH	_	2	discourse	_	O
+5	,	,	,	_	2	punct	_	O
+6	but	but	CC	_	2	cc	_	O
+7	it	it	PRP	_	8	nsubj	_	O
+8	was	be	VBD	_	2	conj	_	O
+9	n't	not	RB	_	8	neg	_	O
+10	great	great	JJ	_	8	acomp	_	O
+11	for	for	IN	_	10	prep	_	O
+12	dancing	dance	VBG	pos2=NN	11	pcomp	_	O
+13	:-(	:-(	NFP	pos2=XX	12	dobj	_	O
+14	In	in	IN	_	12	prep	_	O
+15	that	that	DT	_	16	det	_	O
+16	regard	regard	NN	_	14	pobj	_	O
+17	@DJ_Recca	@dj_recca	NNP	pos2=NN	18	nsubj	_	U-ORG
+18	is	be	VBZ	_	8	ccomp	_	O
+19	the	the	DT	_	21	det	_	O
+20	gold	gold	NN	pos2=JJ	21	compound	_	O
+21	standard	standard	NN	_	18	attr	_	O
+22	.	.	.	_	8	punct	_	O
+

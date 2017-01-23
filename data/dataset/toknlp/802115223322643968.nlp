@@ -1,0 +1,19 @@
+1	SORRY	sorry	UH	pos2=JJ	0	root	_	O
+2	,	,	,	_	1	punct	_	O
+3	HARRY	harry	NNP	_	1	vocative	_	U-PERSON
+4	...	..	.	pos2=,	1	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	'M	be	VBP	_	3	aux	_	O
+3	LEAVING	leave	VBG	_	13	ccomp	_	O
+4	YOU	you	PRP	_	3	dobj	_	O
+5	FOR	for	IN	_	3	prep	_	O
+6	YOUR	your	PRP$	_	7	poss	_	O
+7	TWIN	twin	NN	pos2=NNP	5	pobj	_	O
+8	:	:	:	_	13	punct	_	O
+9	MARCEL	marcel	NNP	pos2=NN	11	compound	_	B-ORG
+10	#JK	#jk	NNP	pos2=GW	11	compound	_	I-ORG
+11	#Onedirection	#onedirection	NNP	pos2=GW	13	dep	_	L-ORG
+12	#HarryStyles	#harrystyles	ADD	pos2=GW	13	dep	_	O
+13	https://t.co/zBmE5inSvw	#hlink#	ADD	_	0	root	_	O
+

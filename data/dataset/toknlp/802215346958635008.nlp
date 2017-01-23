@@ -1,0 +1,21 @@
+1	My	my	PRP$	_	4	poss	_	O
+2	thanksgiving	thanksgiving	NN	pos2=JJ	3	compound	_	O
+3	dinner	dinner	NN	_	4	compound	_	O
+4	grace	grace	NN	pos2=NNP	5	nsubj	_	O
+5	began	begin	VBD	_	0	root	_	O
+6	"	"	``	pos2=''	5	punct	_	O
+7	may	may	MD	_	10	aux	_	O
+8	Daenerys	daenerys	NNP	pos2=VB	9	compound	_	B-PERSON
+9	Targaryen	targaryen	NNP	_	10	nsubj	_	L-PERSON
+10	sit	sit	VB	_	5	ccomp	_	O
+11	on	on	IN	_	10	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	Iron	iron	NNP	pos2=NN	14	compound	_	O
+14	Throne	throne	NNP	_	11	pobj	_	O
+15	"	"	''	_	10	punct	_	O
+16	before	before	IN	_	19	mark	_	O
+17	I	I	PRP	_	19	nsubjpass	_	O
+18	got	get	VBD	_	19	auxpass	_	O
+19	cut	cut	VBN	_	10	advcl	_	O
+20	off	off	RP	_	19	prt	_	O
+

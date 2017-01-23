@@ -1,0 +1,22 @@
+1	Hate	hate	VB	pos2=VBP	0	root	_	O
+2	a	a	DT	pos2=IN	0	root	_	O
+3	Ben	ben	NNP	_	4	compound	_	B-PERSON
+4	Carson	carson	NNP	_	0	root	_	L-PERSON
+5	/	/	SYM	pos2=HYPH	1	punct	_	O
+6	David	david	NNP	_	7	compound	_	B-PERSON
+7	Clarke	clarke	NNP	_	9	compound	_	L-PERSON
+8	ass	ass	NN	pos2=XX	9	compound	_	O
+9	nigga	nigga	NN	_	4	appos	_	O
+10	.	.	.	_	1	punct	_	O
+
+1	The	the	DT	_	4	det	_	O
+2	most	most	RBS	_	3	advmod	_	O
+3	detrimental	detrimental	JJ	_	4	nmod	_	O
+4	type	type	NN	_	0	root	_	O
+5	of	of	IN	_	4	prep	_	O
+6	people	people	NNS	_	5	pobj	_	O
+7	to	to	IN	pos2=TO	4	prep	_	O
+8	black	black	JJ	_	9	nmod	_	O
+9	culture	culture	NN	_	7	pobj	_	O
+10	.	.	.	_	4	punct	_	O
+

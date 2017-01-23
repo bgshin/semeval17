@@ -1,0 +1,27 @@
+1	Ronaldo	ronaldo	NNP	_	3	nsubjpass	_	U-PERSON
+2	was	be	VBD	_	3	auxpass	_	O
+3	subjected	subject	VBN	_	0	root	_	O
+4	to	to	IN	_	3	prep	_	O
+5	homophobic	homophobic	JJ	_	6	nmod	_	O
+6	slurs	slur	NNS	_	4	pobj	_	O
+7	at	at	IN	_	6	prep	_	O
+8	the	the	DT	_	10	det	_	B-FAC
+9	Camp	camp	NNP	_	10	compound	_	I-FAC
+10	Nou	nou	NNP	_	7	pobj	_	L-FAC
+11	again	again	RB	_	3	advmod	_	O
+12	as	as	IN	_	15	mark	_	O
+13	some	some	DT	_	14	det	_	O
+14	fans	fan	NNS	_	15	nsubj	_	O
+15	sang	sing	VBD	_	3	advcl	_	O
+16	-	-	:	pos2=HYPH	15	punct	_	O
+17	‘	'	``	pos2=POS	15	punct	_	O
+18	Cristiano	cristiano	NNP	pos2=NNS	19	vocative	_	U-PERSON
+19	come	come	VB	pos2=VBP	15	xcomp	_	O
+20	out	out	IN	_	19	prep	_	O
+21	of	of	IN	_	20	prep	_	O
+22	the	the	DT	_	23	det	_	O
+23	closet	closet	NN	_	21	pobj	_	O
+24	’	'	''	_	26	punct	_	O
+25	during	during	IN	_	15	prep	_	O
+26	Clasico	clasico	NNP	_	25	pobj	_	U-EVENT
+

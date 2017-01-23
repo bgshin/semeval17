@@ -1,0 +1,22 @@
+1	Even	even	RB	_	2	advmod	_	O
+2	with	with	IN	_	15	prep	_	O
+3	Grayson	grayson	NNP	_	4	compound	_	B-PERSON
+4	Allen	allen	NNP	_	7	poss	_	I-PERSON
+5	's	's	POS	_	4	case	_	L-PERSON
+6	complete	complete	JJ	_	7	nmod	_	O
+7	inability	inability	NN	_	2	pobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	make	make	VB	_	7	acl	_	O
+10	shots	shot	NNS	_	9	dobj	_	O
+11	right	right	RB	_	12	advmod	_	O
+12	now	now	RB	_	9	advmod	_	O
+13	he	he	PRP	_	15	nsubj	_	O
+14	still	still	RB	_	15	advmod	_	O
+15	draws	draw	VBZ	_	0	root	_	O
+16	all	all	PDT	_	18	predet	_	O
+17	the	the	DT	_	18	det	_	O
+18	attention	attention	NN	_	15	dobj	_	O
+19	of	of	IN	_	18	prep	_	O
+20	the	the	DT	_	21	det	_	O
+21	defense	defense	NN	_	19	pobj	_	O
+

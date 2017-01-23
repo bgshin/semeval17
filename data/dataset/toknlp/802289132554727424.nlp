@@ -1,0 +1,20 @@
+1	@WaysandMeansGOP	@waysandmeansgop	XX	pos2=NN	6	dep	_	O
+2	here	here	RB	_	6	advmod	_	O
+3	@poroshenko	@poroshenko	IN	pos2=XX	6	mark	_	O
+4	this	this	DT	_	3	pobj	_	O
+5	should	should	MD	_	6	aux	_	O
+6	end	end	VB	_	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	problems	problem	NNS	_	6	dobj	_	O
+9	with	with	IN	_	8	prep	_	O
+10	$	$	$	pos2=``	11	nmod	_	O
+11	laundering	laundering	NN	pos2=VBG	15	nmod	_	O
+12	&	&	CC	_	11	cc	_	O
+13	currency	currency	NN	_	11	conj	_	O
+14	conversion	conversion	NN	_	15	compound	_	O
+15	problems	problem	NNS	_	9	pobj	_	O
+16	with	with	IN	_	15	prep	_	O
+17	@EximBankUS	@eximbankus	NNP	pos2=NN	16	pobj	_	B-ORG
+18	&	&	CC	_	17	cc	_	I-ORG
+19	#CHINA	#china	NN	pos2=NNP	17	conj	_	L-ORG
+

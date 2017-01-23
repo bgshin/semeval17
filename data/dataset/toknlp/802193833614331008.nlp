@@ -1,0 +1,12 @@
+1	Dance	dance	NN	pos2=NNP	2	compound	_	O
+2	Teacher	teacher	NN	pos2=NNP	3	compound	_	O
+3	Realness	realness	NN	pos2=NNP	11	dep	_	O
+4	with	with	IN	_	3	prep	_	O
+5	my	my	PRP$	_	8	poss	_	O
+6	10th	#ord#	JJ	pos2=NN	7	nmod	_	U-ORDINAL
+7	grade	grade	NN	_	8	compound	_	O
+8	girls	girl	NNS	_	4	pobj	_	O
+9	#mannequinchallenge	#mannequinchallenge	GW	pos2=IN	11	nmod	_	O
+10	https://t.co/1Zw2eawlxU	#hlink#	ADD	pos2=GW	11	nmod	_	O
+11	https://t.co/OxZdMTodez	#hlink#	ADD	_	0	root	_	U-ORG
+

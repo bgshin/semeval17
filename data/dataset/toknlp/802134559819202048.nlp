@@ -1,0 +1,26 @@
+1	Populist	populist	JJ	pos2=NN	2	nmod	_	U-NORP
+2	#politicians	#politicians	NNPS	pos2=NNS	3	nsubj	_	O
+3	want	want	VBP	pos2=VB	0	root	_	O
+4	one	#crd#	CD	_	5	nmod	_	U-CARDINAL
+5	thing	thing	NN	_	3	dobj	_	O
+6	and	and	CC	_	3	cc	_	O
+7	that	that	DT	_	8	nsubj	_	O
+8	's	's	VBZ	_	3	conj	_	O
+9	MONEY	money	NN	pos2=NNP	8	attr	_	O
+10	.	.	.	_	8	punct	_	O
+
+1	They	they	PRP	_	3	nsubj	_	O
+2	will	will	MD	_	3	aux	_	O
+3	screw	screw	VB	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	little	little	JJ	_	6	nmod	_	O
+6	guys	guy	NNS	_	3	dobj	_	O
+7	on	on	IN	_	3	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	proces	proc	NNS	_	7	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	#StillWithHer	#stillwithher	GW	pos2=ADD	3	nmod	_	O
+2	…	…	NFP	pos2=GW	3	punct	_	O
+3	https://t.co/kY8q3YRduX	#hlink#	ADD	pos2=NN	0	root	_	O
+

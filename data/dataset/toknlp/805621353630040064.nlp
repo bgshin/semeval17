@@ -1,0 +1,24 @@
+1	Lies	lie	NNS	pos2=VBZ	5	advcl	_	O
+2	,	,	,	_	5	punct	_	O
+3	these	these	DT	_	4	det	_	O
+4	claims	claim	NNS	_	5	nsubj	_	O
+5	are	be	VBP	_	0	root	_	O
+6	flat	flat	JJ	_	7	nmod	_	O
+7	lies	lie	NNS	pos2=RB	5	attr	_	O
+8	-	-	:	pos2=,	5	punct	_	O
+9	but	but	CC	_	5	cc	_	O
+10	myth	myth	NN	_	11	nsubj	_	O
+11	is	be	VBZ	_	5	conj	_	O
+12	behind	behind	IN	pos2=RB	11	prep	_	O
+13	very	very	RB	_	14	advmod	_	O
+14	real	real	JJ	_	16	nmod	_	O
+15	voter	voter	NN	_	16	compound	_	O
+16	suppression	suppression	NN	_	12	pobj	_	O
+17	that	that	WDT	_	18	nsubj	_	O
+18	keeps	keep	VBZ	_	16	relcl	_	O
+19	Americans	american	NNPS	_	18	dobj	_	U-NORP
+20	from	from	IN	_	18	prep	_	O
+21	voting	vote	VBG	pos2=NN	20	pcomp	_	O
+22	…	…	NFP	pos2=:	23	punct	_	O
+23	https://t.co/sCDWAil3dD	#hlink#	ADD	_	11	dep	_	U-ORG
+

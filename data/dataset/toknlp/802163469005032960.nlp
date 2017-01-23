@@ -1,0 +1,17 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	really	really	RB	_	4	advmod	_	O
+3	can	can	MD	_	7	aux	_	O
+4	fucking	fuck	VBG	pos2=VB	0	root	_	O
+5	not	not	RB	_	6	neg	_	O
+6	with	with	IN	_	4	prep	_	O
+7	ep	ep	NN	_	6	pobj	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	4	0	CD	pos2=LS	2	nmod	_	B-MONEY
+2	#ScreamQueens	#screamqueens	NNS	pos2=ADD	5	nsubj	_	L-MONEY
+3	😂😂😂😥	😂😂😂😥	IN	pos2=NFP	2	prep	_	O
+4	this	this	DT	_	3	pobj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	nuts	nuts	JJ	pos2=NNS	5	acomp	_	O
+7	!!	!!	.	_	5	punct	_	O
+

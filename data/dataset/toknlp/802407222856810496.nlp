@@ -1,0 +1,27 @@
+1	@joshtpm	@joshtpm	UH	pos2=NNS	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	wonder	wonder	VBP	_	0	root	_	O
+4	how	how	WRB	_	5	advmod	_	O
+5	much	much	JJ	_	8	nsubj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	this	this	DT	_	6	pobj	_	O
+8	is	be	VBZ	_	3	ccomp	_	O
+9	Bannon	bannon	NNP	_	8	attr	_	U-PERSON
+10	.	.	.	_	3	punct	_	O
+
+1	Ca	can	MD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	help	help	VB	_	0	root	_	O
+4	but	but	CC	pos2=IN	3	cc	_	O
+5	thinkthat	thinkthat	IN	pos2=VB	7	mark	_	O
+6	he	he	PRP	_	7	nsubj	_	O
+7	wants	want	VBZ	_	3	conj	_	O
+8	Trump	trump	NNP	pos2=NN	10	nsubj	_	U-ORG
+9	to	to	TO	pos2=IN	10	aux	_	O
+10	crash	crash	VB	_	7	ccomp	_	O
+11	and	and	CC	_	10	cc	_	O
+12	burn	burn	VB	_	10	conj	_	O
+13	.	.	.	_	3	punct	_	O
+
+1	https://t.co/D3U4IQKm8U	#hlink#	ADD	_	0	root	_	U-ORG
+

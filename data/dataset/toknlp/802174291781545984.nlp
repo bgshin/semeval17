@@ -1,0 +1,28 @@
+1	Driving	drive	VBG	pos2=NN	0	root	_	O
+2	to	to	IN	_	1	prep	_	O
+3	Tipp	tipp	NNP	_	4	compound	_	B-GPE
+4	City	city	NNP	_	2	pobj	_	L-GPE
+5	,	,	,	_	1	punct	_	O
+6	sharing	share	VBG	_	1	dep	_	O
+7	real	real	JJ	_	9	nmod	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	time	time	NN	_	11	compound	_	O
+10	road	road	NN	_	11	compound	_	O
+11	info	info	NN	_	6	dobj	_	O
+12	with	with	IN	_	11	prep	_	O
+13	wazers	wazers	NNS	pos2=NN	12	pobj	_	O
+14	in	in	IN	_	13	prep	_	O
+15	my	my	PRP$	_	16	poss	_	O
+16	area	area	NN	_	14	pobj	_	O
+17	.	.	.	_	1	punct	_	O
+
+1	ETA	eta	NN	pos2=NNP	0	root	_	O
+2	11:36	0	CD	pos2=,	3	nmod	_	B-TIME
+3	AM	am	NN	_	1	npadvmod	_	L-TIME
+4	using	use	VBG	_	1	acl	_	O
+5	@waze	@waze	NN	pos2=CD	7	compound	_	O
+6	-	-	HYPH	pos2=:	7	punct	_	O
+7	Drive	drive	NNP	pos2=VB	8	compound	_	O
+8	Social	social	NNP	_	4	dobj	_	O
+9	.	.	.	_	1	punct	_	O
+

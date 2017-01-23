@@ -1,0 +1,29 @@
+1	DemocRATs	democrat	NNS	pos2=NNPS	2	nsubj	_	U-NORP
+2	say	say	VBP	pos2=TO	0	root	_	O
+3	tell	tell	VB	pos2=UH	2	xcomp	_	O
+4	want	want	VBP	pos2=NN	3	xcomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	give	give	VB	_	4	xcomp	_	O
+7	Trump	trump	NNP	_	6	dative	_	U-ORG
+8	a	a	DT	_	9	det	_	O
+9	chance	chance	NN	_	6	dobj	_	O
+10	?	?	.	_	2	punct	_	O
+
+1	While	while	IN	_	4	mark	_	O
+2	they	they	PRP	_	4	nsubj	_	O
+3	secretly	secretly	RB	_	4	advmod	_	O
+4	plan	plan	VBP	pos2=VB	0	root	_	O
+5	sabotage	sabotage	NN	pos2=VB	4	dobj	_	O
+6	?	?	.	_	4	punct	_	O
+
+1	GOP	gop	NNP	_	2	compound	_	U-ORG
+2	Congress	congress	NNP	_	4	nsubjpass	_	U-ORG
+3	is	be	VBZ	_	4	auxpass	_	O
+4	expected	expect	VBN	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	fight	fight	VB	_	4	xcomp	_	O
+7	&	&	CC	_	6	cc	_	O
+8	approve	approve	VB	_	6	conj	_	O
+9	Trump	trump	NN	pos2=NNP	10	compound	_	U-PERSON
+10	cabinet	cabinet	NN	_	8	dobj	_	O
+

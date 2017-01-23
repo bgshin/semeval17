@@ -1,0 +1,19 @@
+1	@WismerTrashCry	@wismertrashcry	NN	pos2=ADD	5	nmod	_	O
+2	@	@	SYM	pos2=-LRB-	5	punct	_	O
+3	9_volt88	0_volt0	NN	pos2=CD	4	compound	_	O
+4	@jayne_pea	@jayne_pea	NN	pos2=GW	5	compound	_	O
+5	@Unwan7ed	@unwan0ed	NN	pos2=XX	8	nsubj	_	O
+6	@Shotagonist	@shotagonist	IN	pos2=VBZ	10	prep	_	O
+7	what	what	WDT	pos2=WP	9	det	_	O
+8	Fantasy	fantasy	NNP	pos2=NN	9	compound	_	O
+9	world	world	NN	_	6	pcomp	_	O
+10	do	do	VBP	_	12	aux	_	O
+11	u	u	PRP	pos2=XX	12	nsubj	_	O
+12	live	live	VB	_	0	root	_	O
+13	in	in	IN	_	12	prep	_	O
+14	?	?	.	_	12	punct	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	nazi	nazi	JJ	pos2=NN	3	nmod	_	O
+3	regime	regime	NN	_	0	root	_	O
+

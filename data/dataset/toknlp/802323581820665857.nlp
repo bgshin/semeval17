@@ -1,0 +1,26 @@
+1	@NFLDraftInsiderYes	@nfldraftinsideryes	NNS	pos2=UH	0	root	_	O
+2	,	,	,	_	4	punct	_	O
+3	sorry	sorry	JJ	pos2=UH	4	nmod	_	O
+4	man	man	NN	pos2=UH	1	appos	_	O
+5	...	..	.	_	1	punct	_	O
+
+1	Have	have	VBP	pos2=VB	12	csubj	_	O
+2	to	to	TO	_	3	aux	_	O
+3	learn	learn	VB	_	1	xcomp	_	O
+4	everthing	everthing	NN	pos2=VBG	3	dobj	_	O
+5	about	about	IN	pos2=RB	4	prep	_	O
+6	@NBAWhy	@nbawhy	NNP	pos2=PDT	5	pobj	_	O
+7	this	this	DT	_	11	det	_	O
+8	Kim	kim	NNP	_	11	compound	_	B-PERSON
+9	Jong	jong	NNP	_	11	compound	_	I-PERSON
+10	-	-	HYPH	_	11	punct	_	I-PERSON
+11	un	un	NNP	_	6	appos	_	L-PERSON
+12	is	be	VBZ	_	0	root	_	O
+13	not	not	RB	_	12	neg	_	O
+14	into	into	IN	_	12	prep	_	O
+15	Soccer	soccer	NNP	pos2=NN	14	pobj	_	U-ORG
+16	???	??	.	_	12	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/9hV56kk2zK	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,22 @@
+1	For	for	IN	_	4	mark	_	O
+2	Dems	dems	NNPS	pos2=NNP	4	nsubj	_	U-NORP
+3	to	to	TO	_	4	aux	_	O
+4	recover	recover	VB	_	12	advcl	_	O
+5	,	,	,	_	2	punct	_	O
+6	Nancy	nancy	NNP	_	7	compound	_	B-PERSON
+7	Pelosi	pelosi	NNP	_	4	dobj	_	L-PERSON
+8	,	,	,	_	12	punct	_	O
+9	her	her	PRP$	_	10	poss	_	O
+10	team	team	NN	_	12	nsubj	_	O
+11	should	should	MD	_	12	aux	_	O
+12	go@Milbank	go@milbank	VB	pos2=NNP	0	root	_	O
+13	+	+	SYM	_	12	punct	_	O
+14	rep	rep	NN	pos2=VB	15	compound	_	O
+15	Ryan	ryan	NNP	_	16	nsubj	_	U-PERSON
+16	are	be	VBP	_	12	ccomp	_	O
+17	CLUELESS	clueless	JJ	_	16	acomp	_	O
+18	about	about	IN	_	17	prep	_	O
+19	Dem	dem	NNP	pos2=NN	20	nmod	_	U-PERSON
+20	probs	probs	NNS	pos2=VBZ	18	pobj	_	O
+21	https://t.co/mt8mmci3kg	#hlink#	ADD	_	16	dep	_	O
+

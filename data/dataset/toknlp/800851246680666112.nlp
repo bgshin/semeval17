@@ -1,0 +1,22 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	O
+2	@Karoli	@karoli	NNS	pos2=AFX	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	It	it	PRP	_	5	nsubj	_	O
+5	’s	's	VBZ	_	0	root	_	O
+6	not	not	RB	_	5	neg	_	O
+7	“	"	``	_	10	punct	_	O
+8	alt	alt	JJ	pos2=RB	10	advmod	_	O
+9	-	-	HYPH	_	10	punct	_	O
+10	right	right	JJ	pos2=NN	5	acomp	_	O
+11	.	.	.	_	5	punct	_	O
+
+1	”	"	``	_	3	punct	_	O
+2	It	it	PRP	_	3	nsubj	_	O
+3	’s	's	VBZ	_	0	root	_	O
+4	Neo-Nazi.https	#hlink#	ADD	pos2=NN	3	attr	_	O
+5	:	:	:	pos2=NFP	3	punct	_	O
+6	//	//	NFP	pos2=-LRB-	9	punct	_	O
+7	t.co	#hlink#	ADD	pos2=NN	9	nmod	_	O
+8	/	/	SYM	pos2=-RRB-	9	punct	_	O
+9	4fPkSVlSDl	0fpksvlsdl	NN	pos2=NNS	3	attr	_	O
+

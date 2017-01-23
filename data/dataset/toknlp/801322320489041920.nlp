@@ -1,0 +1,20 @@
+1	@Megsclx08	@megsclx0	NN	pos2=NNS	2	compound	_	O
+2	@Todd4Real	@todd0real	NN	pos2=LS	3	compound	_	O
+3	@LucidTheKat	@lucidthekat	NNP	pos2=NN	5	nsubj	_	O
+4	Obviously	obviously	RB	_	5	advmod	_	O
+5	means	mean	VBZ	_	0	root	_	O
+6	nothing	nothing	NN	_	5	dobj	_	O
+7	since	since	IN	_	11	mark	_	O
+8	it	it	PRP	_	11	nsubj	_	O
+9	has	have	VBZ	_	11	aux	_	O
+10	n't	not	RB	_	11	neg	_	O
+11	stopped	stop	VBN	pos2=VBD	5	advcl	_	O
+12	Soros	soros	NNP	_	11	dobj	_	U-PERSON
+13	from	from	IN	_	11	prep	_	O
+14	funding	fund	VBG	pos2=NN	13	pcomp	_	O
+15	anti-Trump	anti-trump	JJ	_	16	nmod	_	U-NORP
+16	protests	protest	NNS	_	18	nmod	_	O
+17	/	/	SYM	pos2=,	18	punct	_	O
+18	riots	riot	NNS	_	14	dobj	_	O
+19	.	.	.	_	5	punct	_	O
+

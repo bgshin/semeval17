@@ -1,0 +1,13 @@
+1	COP22	cop0	NN	_	2	compound	_	U-DATE
+2	Marrakech	marrakech	NNP	pos2=NN	12	dep	_	U-GPE
+3	:	:	:	_	12	punct	_	O
+4	Women	woman	NNS	pos2=NNP	5	nsubj	_	O
+5	Rising	rise	VBG	_	12	nmod	_	O
+6	for	for	IN	_	5	prep	_	O
+7	Climate	climate	NNP	pos2=NN	8	compound	_	B-WORK_OF_ART
+8	Justice	justice	NNP	_	6	pobj	_	I-WORK_OF_ART
+9	#EmilyArasim	#emilyarasim	GW	pos2=NNP	12	nmod	_	I-WORK_OF_ART
+10	#UnitedNations	#unitednations	GW	pos2=NNS	12	nmod	_	L-WORK_OF_ART
+11	https://t.co/8VcEfy4LBA	#hlink#	ADD	pos2=GW	12	nmod	_	O
+12	https://t.co/8iprB4VhAx	#hlink#	ADD	_	0	root	_	U-ORG
+

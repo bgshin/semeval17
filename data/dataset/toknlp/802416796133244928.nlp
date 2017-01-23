@@ -1,0 +1,22 @@
+1	@ShawnMichaelR	@shawnmichaelr	NN	pos2=ADD	3	compound	_	O
+2	@StefanMolyneux	@stefanmolyneux	NNP	pos2=NN	3	compound	_	O
+3	Moly	moly	NNP	_	4	nsubj	_	U-ORG
+4	quoted	quote	VBD	_	0	root	_	O
+5	Spencer	spencer	NNP	_	4	dobj	_	U-PERSON
+6	heavily	heavily	RB	_	4	advmod	_	O
+7	in	in	IN	_	4	prep	_	O
+8	his	his	PRP$	_	10	poss	_	O
+9	'	'	``	pos2=POS	10	punct	_	O
+10	Untruth	untruth	NN	pos2=NNP	7	pobj	_	O
+11	About	about	IN	pos2=NNP	10	prep	_	O
+12	Steve	steve	NNP	_	13	compound	_	B-PERSON
+13	Bannon	bannon	NNP	_	11	pobj	_	I-PERSON
+14	'	'	POS	pos2=''	13	case	_	L-PERSON
+15	,	,	,	_	10	punct	_	O
+16	which	which	WDT	_	17	nsubj	_	O
+17	was	be	VBD	_	10	relcl	_	O
+18	nice	nice	JJ	_	17	acomp	_	O
+19	of	of	IN	_	18	prep	_	O
+20	him	him	PRP	_	19	pobj	_	O
+21	.	.	.	_	4	punct	_	O
+

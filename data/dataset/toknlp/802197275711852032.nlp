@@ -1,0 +1,16 @@
+1	#Yemen	#yemen	NNP	pos2=ADD	3	nmod	_	O
+2	"	"	``	pos2=''	3	punct	_	O
+3	Smiles	smile	NNS	pos2=NNP	6	nsubj	_	O
+4	wo	wo	MD	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	leave	leave	VB	_	0	root	_	O
+7	us	us	PRP	_	6	dobj	_	O
+8	"	"	``	pos2=''	11	punct	_	O
+9	Yemeni	yemeni	JJ	_	10	nmod	_	U-NORP
+10	children	child	NNS	_	11	nsubj	_	O
+11	told	tell	VBD	_	6	oprd	_	O
+12	me	me	PRP	_	11	dobj	_	O
+13	at	at	IN	_	11	prep	_	O
+14	#UniversalChildrenDay.@YourAbility_org	#universalchildrenday.@yourability_org	NNP	pos2=ADD	13	pobj	_	O
+15	https://t.co/5lL8lMAVKt	#hlink#	ADD	_	11	punct	_	O
+

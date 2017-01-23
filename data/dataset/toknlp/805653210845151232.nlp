@@ -1,0 +1,22 @@
+1	Murder	murder	NN	pos2=VB	2	compound	_	O
+2	accessory	accessory	NN	_	7	nsubj	_	O
+3	on	on	IN	_	2	prep	_	O
+4	ice	ice	NN	_	3	pobj	_	O
+5	before	before	IN	_	2	prep	_	O
+6	Vic	vic	NNP	pos2=JJ	5	pobj	_	U-PERSON
+7	killing	kill	VBG	_	0	root	_	O
+8	https://t.co/b6oJNBjLw9	#hlink#	ADD	pos2=RP	12	nmod	_	O
+9	Another	another	DT	_	10	det	_	O
+10	drug	drug	NN	_	11	npadvmod	_	O
+11	fucked	fuck	VBN	pos2=VBD	12	nmod	_	O
+12	moron	moron	NN	_	7	dobj	_	O
+13	.	.	.	_	7	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	death	death	NN	_	5	compound	_	O
+5	penalty	penalty	NN	_	2	dobj	_	O
+6	back	back	RB	pos2=NN	2	advmod	_	O
+7	.	.	.	_	2	punct	_	O
+

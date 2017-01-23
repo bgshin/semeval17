@@ -1,0 +1,9 @@
+1	Look	look	VB	_	0	root	_	O
+2	at	at	IN	_	1	prep	_	O
+3	Usher	usher	NNP	_	2	pobj	_	U-PERSON
+4	and	and	CC	_	1	cc	_	O
+5	this	this	DT	_	8	det	_	O
+6	fancy	fancy	JJ	_	8	nmod	_	O
+7	footwork	footwork	NN	_	8	compound	_	O
+8	#ThankYouObama	#thankyouobama	NN	pos2=ADD	3	appos	_	O
+

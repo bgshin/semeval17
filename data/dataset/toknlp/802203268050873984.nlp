@@ -1,0 +1,27 @@
+1	@Earthtokim2	@earthtokim0	NN	pos2=NNS	8	nsubj	_	O
+2	@boldandworthy	@boldandworthy	UH	pos2=MD	8	discourse	_	O
+3	seriously	seriously	RB	_	8	advmod	_	O
+4	,	,	,	_	8	punct	_	O
+5	you	you	PRP	_	8	nsubj	_	O
+6	do	do	VBP	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	understand	understand	VB	_	0	root	_	O
+9	the	the	DT	_	10	det	_	O
+10	racism	racism	NN	_	8	dobj	_	O
+11	inherent	inherent	JJ	_	10	nmod	_	O
+12	in	in	IN	_	11	prep	_	O
+13	all	all	DT	_	12	pobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	this	this	DT	_	14	pobj	_	O
+16	.	.	.	_	8	punct	_	O
+
+1	racism	racism	NN	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	n't	not	RB	_	2	neg	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	white	white	JJ	_	6	nmod	_	O
+6	hoods	hood	NNS	_	2	attr	_	O
+7	and	and	CC	_	6	cc	_	O
+8	nazi	nazi	JJ	pos2=NN	9	nmod	_	O
+9	stuff	stuff	NN	_	6	conj	_	O
+

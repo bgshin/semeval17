@@ -1,0 +1,21 @@
+1	Ethics	ethic	NNS	pos2=NNP	2	compound	_	O
+2	counsels	counsel	NNS	pos2=VBZ	10	nsubj	_	O
+3	for	for	IN	_	2	prep	_	O
+4	W	w	NNP	pos2=NN	3	pobj	_	B-ORG
+5	&	&	CC	_	4	cc	_	I-ORG
+6	Obama	obama	NNP	_	4	conj	_	L-ORG
+7	:	:	:	_	2	punct	_	O
+8	Electors	elector	NNS	pos2=NNPS	10	nsubj	_	O
+9	shd	shd	MD	_	10	aux	_	O
+10	vote	vote	VB	_	0	root	_	O
+11	#Clinton	#clinton	NNP	pos2=CD	10	dobj	_	U-PERSON
+12	if	if	IN	_	14	mark	_	O
+13	#Trump	#trump	NNP	pos2=XX	14	nsubj	_	U-ORG
+14	retains	retain	VBZ	_	10	advcl	_	O
+15	ownership	ownership	NN	_	14	dobj	_	O
+16	of	of	IN	_	15	prep	_	O
+17	his	his	PRP$	_	18	poss	_	O
+18	businesses	business	NNS	_	16	pobj	_	O
+19	https://t.co/vbkIilsqI5	#hlink#	ADD	pos2=VBP	20	nsubj	_	B-DATE
+20	#UniteBlue	#uniteblue	ADD	pos2=-RRB-	10	dep	_	L-DATE
+

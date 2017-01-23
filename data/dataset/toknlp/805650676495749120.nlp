@@ -1,0 +1,15 @@
+1	Old	old	JJ	pos2=NNP	3	nmod	_	O
+2	death	death	NN	_	3	compound	_	O
+3	penalty	penalty	NN	_	4	nsubj	_	O
+4	needs	need	VBZ	_	0	root	_	O
+5	to	to	TO	_	7	aux	_	O
+6	be	be	VB	_	7	auxpass	_	O
+7	laid	lay	VBN	_	4	xcomp	_	O
+8	to	to	IN	pos2=TO	7	prep	_	O
+9	rest	rest	VB	pos2=NN	8	pobj	_	O
+10	-	-	:	pos2=HYPH	4	punct	_	O
+11	The	the	DT	pos2=NNP	13	det	_	B-WORK_OF_ART
+12	Daily	daily	NNP	pos2=JJ	13	compound	_	I-WORK_OF_ART
+13	Titan	titan	NNP	_	14	nmod	_	L-WORK_OF_ART
+14	https://t.co/UiaSIPie5g	#hlink#	ADD	pos2=NNP	9	appos	_	O
+

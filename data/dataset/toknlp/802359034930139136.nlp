@@ -1,0 +1,26 @@
+1	"	"	``	pos2=''	7	punct	_	O
+2	But	but	CC	_	7	cc	_	O
+3	now	now	RB	pos2=UH	7	advmod	_	O
+4	,	,	,	_	7	punct	_	O
+5	I	I	PRP	_	7	nsubj	_	O
+6	just	just	RB	_	7	advmod	_	O
+7	want	want	VBP	_	0	root	_	O
+8	to	to	TO	_	9	aux	_	O
+9	wish	wish	VB	_	7	xcomp	_	O
+10	you	you	PRP	_	9	dative	_	O
+11	a	a	DT	_	14	det	_	O
+12	very	very	RB	_	13	advmod	_	O
+13	good	good	JJ	_	14	nmod	_	O
+14	journey	journey	NN	_	9	dobj	_	O
+15	.	.	.	_	7	punct	_	O
+
+1	Goodbye	goodbye	NN	pos2=NNP	0	root	_	O
+2	old	old	JJ	_	3	nmod	_	O
+3	friend	friend	NN	_	1	vocative	_	O
+4	.	.	.	_	1	punct	_	O
+5	"	"	''	_	1	punct	_	O
+
+1	https://t.co/GFVriQYGMI	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@newyorker	@newyorker	NN	pos2=.	2	pobj	_	O
+

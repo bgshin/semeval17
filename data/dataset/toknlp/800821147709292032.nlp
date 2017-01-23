@@ -1,0 +1,31 @@
+1	At	at	IN	_	9	prep	_	O
+2	the	the	DT	_	5	det	_	O
+3	#NBAwards	#nbawards	JJ	pos2=NNS	5	nmod	_	U-NORP
+4	finalist	finalist	NN	_	5	compound	_	O
+5	reading	reading	NN	pos2=VBG	1	pobj	_	O
+6	,	,	,	_	9	punct	_	O
+7	the	the	DT	_	8	det	_	O
+8	poets	poet	NNS	_	9	nsubj	_	O
+9	were	be	VBD	_	0	root	_	O
+10	on	on	IN	pos2=RB	9	prep	_	O
+11	🔥	🔥	NNP	pos2=NN	10	pobj	_	U-GPE
+12	.	.	.	_	9	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	've	have	VBP	_	4	aux	_	O
+3	been	be	VBN	_	4	aux	_	O
+4	reading	read	VBG	_	0	root	_	O
+5	these	these	DT	_	4	dobj	_	O
+6	all	all	DT	_	7	det	_	O
+7	day	day	NN	pos2=NNS	4	npadvmod	_	O
+8	&	&	CC	_	4	cc	_	O
+9	they	they	PRP	_	10	nsubj	_	O
+10	are	be	VBP	_	4	conj	_	O
+11	brilliant	brilliant	JJ	_	10	acomp	_	O
+12	.	.	.	_	10	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	can	can	MD	_	4	aux	_	O
+3	…	…	NFP	pos2=VB	4	punct	_	O
+4	https://t.co/M08wXICKdx	#hlink#	ADD	_	0	root	_	O
+

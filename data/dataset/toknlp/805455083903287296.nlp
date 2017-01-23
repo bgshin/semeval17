@@ -1,0 +1,24 @@
+1	@bo_harv	@bo_harv	UH	pos2=NNP	8	discourse	_	O
+2	You	you	PRP	_	3	nsubj	_	O
+3	mean	mean	VBP	pos2=VB	8	parataxis	_	O
+4	the	the	DT	_	5	det	_	O
+5	Harveys	harvey	NNPS	pos2=NNP	8	nsubj	_	U-PERSON
+6	do	do	VBP	pos2=VB	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	pay	pay	VB	_	0	root	_	O
+9	people	people	NNS	_	8	dobj	_	O
+10	to	to	TO	_	11	aux	_	O
+11	roam	roam	VB	_	8	advcl	_	O
+12	the	the	DT	_	13	det	_	O
+13	desert	desert	NN	_	11	dobj	_	O
+14	with	with	IN	_	11	prep	_	O
+15	guns	gun	NNS	_	14	pobj	_	O
+16	or	or	CC	_	15	cc	_	O
+17	fire	fire	NN	_	18	compound	_	O
+18	drone	drone	NN	_	19	compound	_	O
+19	strikes	strike	NNS	_	15	conj	_	O
+20	?	?	.	_	8	punct	_	O
+
+1	Weird	weird	JJ	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

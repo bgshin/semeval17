@@ -1,0 +1,12 @@
+1	#Solar	#solar	NNP	pos2=RB	3	npadvmod	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	powered	power	VBN	pos2=JJ	11	nmod	_	O
+4	#water	#water	NN	pos2=IN	11	dep	_	O
+5	#supply	#supply	XX	pos2=RB	11	dep	_	O
+6	#project	#project	XX	pos2=FW	11	dep	_	O
+7	#commissioned	#commissioned	XX	pos2=VBN	11	dep	_	O
+8	in	in	IN	pos2=GW	11	prep	_	O
+9	#Yemen	#yemen	GW	pos2=NNP	8	pobj	_	U-GPE
+10	https://t.co/rdJzSeZ6gl	#hlink#	ADD	pos2=GW	11	nmod	_	O
+11	https://t.co/s2GZxg3rIE	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,22 @@
+1	@edsexy_13	@edsexy_0	NN	pos2=LS	3	compound	_	O
+2	@mc61294	@mc0	NN	pos2=POS	3	compound	_	O
+3	guys	guy	NNS	_	6	vocative	_	O
+4	,	,	,	_	6	punct	_	O
+5	guys	guy	NNS	_	6	nsubj	_	O
+6	take	take	VBP	pos2=VB	13	ccomp	_	O
+7	it	it	PRP	_	6	dobj	_	O
+8	easy	easy	JJ	pos2=RB	6	advmod	_	O
+9	the	the	DT	_	10	det	_	O
+10	Cubs	cub	NNPS	pos2=NNS	13	nsubj	_	U-ORG
+11	are	be	VBP	_	13	aux	_	O
+12	just	just	RB	_	13	advmod	_	O
+13	gon	gon	VBG	_	0	root	_	O
+14	na	to	TO	_	15	aux	_	O
+15	go	go	VB	_	13	xcomp	_	O
+16	back	back	RB	_	15	advmod	_	O
+17	to	to	IN	_	16	prep	_	O
+18	back	back	NN	pos2=VB	17	pobj	_	O
+19	World	world	NNP	_	20	compound	_	B-EVENT
+20	Series	series	NNP	pos2=NNPS	15	dobj	_	L-EVENT
+21	anyways	anyways	RB	pos2=UH	15	advmod	_	O
+

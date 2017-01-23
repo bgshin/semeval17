@@ -1,0 +1,12 @@
+1	Please	please	UH	_	3	discourse	_	O
+2	,	,	,	_	3	punct	_	O
+3	make	make	VB	_	0	root	_	O
+4	@celinedion	@celinedion	CD	pos2=NN	5	nsubj	_	O
+5	sing	sing	VB	pos2=VBG	3	ccomp	_	O
+6	the	the	DT	_	7	det	_	O
+7	song	song	NN	_	5	dobj	_	O
+8	once	once	RB	_	9	advmod	_	O
+9	again	again	RB	_	5	advmod	_	O
+10	#BeautyAndTheBeast	#beautyandthebeast	ADD	pos2=RB	3	punct	_	O
+11	!	!	.	_	3	punct	_	O
+

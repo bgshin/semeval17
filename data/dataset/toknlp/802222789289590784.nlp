@@ -1,0 +1,22 @@
+1	Aiya	aiya	NNP	_	4	nsubj	_	U-ORG
+2	wo	wo	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	see	see	VB	_	0	root	_	O
+5	this	this	DT	_	6	det	_	O
+6	face	face	NN	_	4	dobj	_	O
+7	for	for	IN	_	4	prep	_	O
+8	awhile	awhile	RB	pos2=NN	7	pcomp	_	O
+9	and	and	CC	_	4	cc	_	O
+10	obsess	obsess	VB	_	4	conj	_	O
+11	over	over	IN	pos2=RP	10	prep	_	O
+12	Melania	melania	NNP	_	14	poss	_	U-PERSON
+13	's	's	POS	_	12	case	_	O
+14	speech	speech	NN	_	11	pobj	_	O
+15	together	together	RB	_	10	advmod	_	O
+16	!	!	.	_	4	punct	_	O
+
+1	1!1	0!0	NN	pos2=LS	0	root	_	O
+2	!!	!!	.	_	1	punct	_	O
+
+1	https://t.co/JQj5feDO45	#hlink#	ADD	_	0	root	_	U-ORG
+

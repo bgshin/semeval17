@@ -1,0 +1,24 @@
+1	we	we	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	Fidel	fidel	NNP	_	5	compound	_	B-PERSON
+5	Castro	castro	NNP	_	2	dobj	_	L-PERSON
+6	in	in	IN	_	5	prep	_	O
+7	Kenya	kenya	NNP	_	6	pobj	_	U-GPE
+8	to	to	TO	_	9	aux	_	O
+9	gear	gear	VB	_	2	advcl	_	O
+10	up	up	RP	_	9	prt	_	O
+11	a	a	DT	_	12	det	_	O
+12	revolution	revolution	NN	_	9	dobj	_	O
+13	against	against	IN	_	12	prep	_	O
+14	a	a	DT	_	16	det	_	O
+15	corrupt	corrupt	JJ	_	16	nmod	_	O
+16	regime	regime	NN	_	13	pobj	_	O
+17	and	and	CC	_	2	cc	_	O
+18	have	have	VBP	pos2=VB	2	conj	_	O
+19	better	good	JJR	_	21	nmod	_	O
+20	health	health	NN	_	21	compound	_	O
+21	reforms	reform	NNS	_	18	dobj	_	O
+22	#DoctorsStrike	#doctorsstrike	ADD	pos2=VBP	21	relcl	_	O
+23	.	.	.	_	2	punct	_	O
+

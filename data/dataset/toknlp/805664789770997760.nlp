@@ -1,0 +1,16 @@
+1	@uninterrupted	@uninterrupted	UH	pos2=XX	10	discourse	_	O
+2	@cubs	@cubs	UH	pos2=NNS	10	discourse	_	O
+3	@dwyanewade	@dwyanewade	UH	pos2=VB	10	discourse	_	O
+4	@kingjames	@kingjames	UH	pos2=DT	10	discourse	_	O
+5	good	good	JJ	pos2=UH	6	nmod	_	O
+6	thing	thing	NN	_	10	dobj	_	O
+7	he	he	PRP	_	10	nsubj	_	O
+8	's	's	VBZ	_	10	aux	_	O
+9	not	not	RB	_	10	neg	_	O
+10	taking	take	VBG	_	0	root	_	O
+11	up	up	RP	_	10	prt	_	O
+12	baseball	baseball	NN	_	10	dobj	_	O
+13	like	like	IN	pos2=UH	10	prep	_	O
+14	#MichaelJordan	#michaeljordan	NNP	pos2=ADD	15	compound	_	B-EVENT
+15	😂	😂	NNP	pos2=NN	13	pobj	_	L-EVENT
+

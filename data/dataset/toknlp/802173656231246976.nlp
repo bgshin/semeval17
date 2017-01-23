@@ -1,0 +1,15 @@
+1	Fucking	fucking	JJ	pos2=VBG	3	nmod	_	O
+2	true	true	JJ	_	3	nmod	_	O
+3	🙈💕	🙈💕	NN	pos2=NFP	14	dep	_	O
+4	#Larry	#larry	NNP	pos2=ADD	3	vocative	_	O
+5	#LouisTomlinson	#louistomlinson	ADD	pos2=XX	14	dep	_	O
+6	#HarryStyles	#harrystyles	ADD	pos2=NNS	14	dep	_	O
+7	#love	#love	UH	pos2=IN	14	dep	_	O
+8	#couple	#couple	UH	pos2=ADD	14	dep	_	O
+9	#Spain	#spain	NNP	pos2=UH	14	dep	_	U-PERSON
+10	#fans	#fans	UH	pos2=NNS	11	discourse	_	O
+11	#onedirection	#onedirection	UH	pos2=ADD	14	discourse	_	O
+12	#Directioner	#directioner	NNP	pos2=GW	14	dep	_	U-PERSON
+13	…	…	NFP	pos2=-LRB-	14	punct	_	O
+14	https://t.co/s2WOinDJP5	#hlink#	ADD	_	0	root	_	O
+

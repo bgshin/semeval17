@@ -1,0 +1,12 @@
+1	😂😂😂Nicholas	😂😂😂nicholas	NNP	pos2=NNS	2	compound	_	B-PERSON
+2	Sparks	sparks	NNP	pos2=NNS	3	compound	_	L-PERSON
+3	novel	novel	NN	_	11	nsubj	_	O
+4	=	=	,	pos2=SYM	11	punct	_	O
+5	Luke	luke	NNP	_	6	compound	_	B-PERSON
+6	Bryant	bryant	NNP	_	3	appos	_	L-PERSON
+7	+	+	SYM	pos2=POS	11	punct	_	O
+8	Tony	tony	NNP	_	10	compound	_	B-PERSON
+9	Romo	romo	NNP	_	10	compound	_	L-PERSON
+10	@MikeAndMike	@mikeandmike	NNP	pos2=POS	11	compound	_	O
+11	@MGolicJR57	@mgolicjr0	NN	pos2=ADD	0	root	_	O
+

@@ -1,0 +1,22 @@
+1	If	if	IN	_	4	mark	_	O
+2	CNN	cnn	NNP	_	3	compound	_	U-ORG
+3	liberals	liberal	NNS	pos2=NNPS	4	nsubj	_	O
+4	said	say	VBD	_	13	advcl	_	O
+5	that	that	IN	pos2=DT	7	mark	_	O
+6	math	math	NN	_	7	nsubj	_	O
+7	is	be	VBZ	_	4	ccomp	_	O
+8	racist	racist	JJ	_	7	acomp	_	O
+9	,	,	,	_	13	punct	_	O
+10	this	this	DT	_	11	det	_	O
+11	algorithm	algorithm	NN	_	13	nsubj	_	O
+12	must	must	MD	_	13	aux	_	O
+13	be	be	VB	_	0	root	_	O
+14	the	the	DT	_	15	det	_	O
+15	soul	soul	NN	_	13	attr	_	O
+16	of	of	IN	_	15	prep	_	O
+17	KKK.	kkk.	NNP	_	18	compound	_	O
+18	LOL	lol	NNP	pos2=UH	16	pobj	_	O
+19	.	.	.	_	13	punct	_	O
+
+1	https://t.co/6vZcH6RxIV	#hlink#	ADD	_	0	root	_	U-ORG
+

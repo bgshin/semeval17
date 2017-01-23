@@ -1,0 +1,17 @@
+1	@funder	@funder	UH	pos2=NN	3	discourse	_	O
+2	she	she	PRP	_	3	nsubj	_	O
+3	introduced	introduce	VBD	_	0	root	_	O
+4	Ivanka	ivanka	NNP	_	3	dobj	_	U-PERSON
+5	to	to	IN	_	3	prep	_	O
+6	her	her	PRP$	_	7	poss	_	O
+7	husband	husband	NN	_	5	pobj	_	O
+8	!?	!?	.	_	3	punct	_	O
+
+1	Wow	wow	UH	pos2=RB	3	discourse	_	O
+2	all	all	DT	pos2=RB	3	dep	_	O
+3	surrounded	surround	VBN	_	0	root	_	O
+4	by	by	IN	_	3	agent	_	O
+5	Putin	putin	NNP	_	7	poss	_	U-PERSON
+6	's	's	POS	_	5	case	_	O
+7	agents	agent	NNS	_	4	pobj	_	O
+

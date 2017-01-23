@@ -1,0 +1,30 @@
+1	Ben	ben	NNP	_	2	compound	_	B-PERSON
+2	Carson	carson	NNP	_	6	nsubj	_	L-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	Sheriff	sheriff	NNP	_	5	compound	_	O
+5	Clark	clark	NNP	_	2	conj	_	U-PERSON
+6	are	be	VBP	_	0	root	_	O
+7	two	#crd#	CD	_	8	nmod	_	U-CARDINAL
+8	men	man	NNS	_	6	attr	_	O
+9	who	who	WP	_	10	nsubj	_	O
+10	know	know	VBP	_	8	relcl	_	O
+11	that	that	IN	pos2=DT	13	mark	_	O
+12	Trump	trump	NNP	pos2=NN	13	nsubj	_	U-ORG
+13	is	be	VBZ	_	10	ccomp	_	O
+14	n't	not	RB	_	13	neg	_	O
+15	racist	racist	JJ	_	13	acomp	_	O
+16	.	.	.	_	6	punct	_	O
+
+1	Truly	truly	RB	_	2	advmod	_	O
+2	great	great	JJ	_	3	nmod	_	O
+3	Americans	american	NNPS	_	0	root	_	U-NORP
+4	.	.	.	_	3	punct	_	O
+
+1	Unbelievably	unbelievably	RB	_	2	advmod	_	O
+2	talented	talented	JJ	_	4	nmod	_	O
+3	role	role	NN	_	4	compound	_	O
+4	models	model	NNS	_	0	root	_	O
+5	for	for	IN	pos2=RB	4	prep	_	O
+6	all	all	DT	pos2=RB	5	pobj	_	O
+7	.	.	.	_	4	punct	_	O
+

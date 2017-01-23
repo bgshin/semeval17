@@ -1,0 +1,14 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	best	good	JJS	_	5	nmod	_	O
+5	Persona	persona	NN	pos2=NNP	2	attr	_	O
+6	5	0	CD	pos2=GW	7	nmod	_	U-CARDINAL
+7	advertisement	advertisement	NN	_	5	appos	_	O
+8	ever	ever	RB	_	7	advmod	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	#Persona5	#persona0	NN	pos2=GW	3	nmod	_	O
+2	#atlus	#atlus	GW	pos2=ADD	3	nmod	_	O
+3	https://t.co/qL6vFg2HVZ	#hlink#	ADD	pos2=NN	0	root	_	O
+

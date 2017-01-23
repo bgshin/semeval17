@@ -1,0 +1,18 @@
+1	Studs	stud	NNS	pos2=NNP	2	nsubj	_	O
+2	Terkel	terkel	VBD	pos2=NNP	0	root	_	O
+3	1963	0	CD	_	4	nmod	_	U-CARDINAL
+4	interview	interview	NN	_	2	dobj	_	O
+5	with	with	IN	_	4	prep	_	O
+6	Bob	bob	NNP	_	7	compound	_	B-PERSON
+7	Dylan	dylan	NNP	_	5	pobj	_	L-PERSON
+8	airing	air	VBG	_	4	acl	_	O
+9	right	right	RB	_	10	advmod	_	O
+10	now	now	RB	_	8	advmod	_	O
+11	on	on	IN	pos2=RB	8	prep	_	O
+12	@WFMTclassical	@wfmtclassical	NNP	pos2=XX	11	pobj	_	U-PERSON
+13	,	,	,	_	12	punct	_	O
+14	livestream	livestream	NN	_	12	appos	_	O
+15	at	at	IN	_	14	prep	_	O
+16	https://t.co/MFg2JArVmk	#hlink#	ADD	_	15	pobj	_	O
+17	♫♪♫♪♫	♫♪♫♪♫	-RRB-	pos2=.	2	punct	_	O
+

@@ -1,0 +1,24 @@
+1	Latest	late	JJS	pos2=RB	5	nsubj	_	O
+2	on	on	IN	_	1	prep	_	O
+3	#MosulOffensive	#mosuloffensive	NN	pos2=CD	2	pobj	_	O
+4	:	:	:	_	8	punct	_	O
+5	Shiite	shiite	JJ	_	7	nmod	_	U-NORP
+6	militia	militia	NN	_	7	compound	_	O
+7	leaders	leader	NNS	_	8	nsubj	_	O
+8	say	say	VBP	_	0	root	_	O
+9	their	their	PRP$	_	10	poss	_	O
+10	forces	force	NNS	_	12	nsubj	_	O
+11	are	be	VBP	_	12	aux	_	O
+12	awaiting	await	VBG	_	8	ccomp	_	O
+13	PM	pm	NN	pos2=NNP	12	dobj	_	B-GPE
+14	@HaiderAlAbadi	@haideralabadi	NNP	pos2=NNS	16	poss	_	I-GPE
+15	's	's	POS	_	14	case	_	L-GPE
+16	approval	approval	NN	_	12	dobj	_	O
+17	prior	prior	JJ	_	18	advmod	_	O
+18	to	to	IN	_	16	prep	_	O
+19	entering	enter	VBG	_	18	pcomp	_	O
+20	Tal	tal	NNP	_	22	compound	_	B-ORG
+21	-	-	HYPH	pos2=:	22	punct	_	I-ORG
+22	Afar	afar	NNP	_	19	dobj	_	L-ORG
+23	.	.	.	_	8	punct	_	O
+

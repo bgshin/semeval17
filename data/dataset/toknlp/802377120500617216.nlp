@@ -1,0 +1,17 @@
+1	Still	still	RB	_	2	advmod	_	O
+2	up	up	RB	pos2=JJ	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	Tune	tune	NN	pos2=VB	0	root	_	O
+2	in	in	IN	pos2=RP	1	prep	_	O
+3	to	to	IN	pos2=TO	1	prep	_	O
+4	@CNNi	@cnni	NNP	pos2=VB	3	pobj	_	U-GPE
+5	to	to	TO	_	6	aux	_	O
+6	watch	watch	VB	_	1	advcl	_	O
+7	me	me	PRP	_	8	nsubj	_	O
+8	talk	talk	VB	_	6	ccomp	_	O
+9	about	about	IN	_	8	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	Trump	trump	NNP	pos2=NN	12	compound	_	U-PERSON
+12	transition	transition	NN	_	9	pobj	_	O
+

@@ -1,0 +1,14 @@
+1	That	that	DT	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	possibly	possibly	RB	_	2	advmod	_	O
+4	the	the	DT	_	6	det	_	O
+5	best	good	JJS	_	6	nmod	_	O
+6	finale	finale	NN	_	2	attr	_	O
+7	I	I	PRP	_	10	nsubj	_	O
+8	have	have	VBP	_	10	aux	_	O
+9	ever	ever	RB	_	10	advmod	_	O
+10	seen	see	VBN	_	6	relcl	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	#Westworld	#westworld	NNP	pos2=XX	0	root	_	U-ORG
+

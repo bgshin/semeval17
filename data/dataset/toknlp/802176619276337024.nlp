@@ -1,0 +1,21 @@
+1	Tony	tony	NNP	_	2	compound	_	B-PERSON
+2	Romo	romo	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	good	good	JJ	_	6	nmod	_	O
+6	man	man	NN	_	3	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	faith	faith	NN	_	7	pobj	_	O
+10	as	as	RB	_	11	advmod	_	O
+11	well	well	RB	_	3	advmod	_	O
+12	!	!	.	_	3	punct	_	O
+
+1	His	his	PRP$	_	2	poss	_	O
+2	podcast	podcast	NN	_	6	nsubj	_	O
+3	with	with	IN	_	2	prep	_	O
+4	Matt	matt	NNP	_	5	compound	_	B-PERSON
+5	Chandler	chandler	NNP	_	3	pobj	_	L-PERSON
+6	was	be	VBD	_	0	root	_	O
+7	dope	dope	NN	pos2=NNS	6	attr	_	O
+

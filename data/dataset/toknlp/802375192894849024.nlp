@@ -1,0 +1,22 @@
+1	@joanmbird	@joanmbird	UH	pos2=XX	5	discourse	_	O
+2	@ADandygal	@adandygal	UH	pos2=XX	5	discourse	_	O
+3	@nowhitenonsense	@nowhitenonsense	UH	pos2=IN	5	discourse	_	O
+4	what	what	WP	_	5	attr	_	O
+5	are	be	VBP	_	9	aux	_	O
+6	white	white	JJ	_	7	nmod	_	O
+7	nationalists	nationalist	NNS	pos2=NNPS	9	nsubj	_	O
+8	even	even	RB	_	9	advmod	_	O
+9	doing	do	VBG	_	0	root	_	O
+10	?	?	.	_	9	punct	_	O
+
+1	Yes	yes	UH	_	3	discourse	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	regressive	regressive	JJ	_	5	nmod	_	O
+5	leftists	leftist	NNS	_	3	attr	_	O
+6	acting	act	VBG	_	5	acl	_	O
+7	out	out	RP	pos2=RB	6	prt	_	O
+8	in	in	IN	_	6	prep	_	O
+9	violence	violence	NN	_	8	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+

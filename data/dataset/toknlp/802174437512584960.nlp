@@ -1,0 +1,29 @@
+1	Tony	tony	NNP	pos2=JJ	2	nsubj	_	U-PERSON
+2	set	set	VBD	pos2=VBN	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	roam	roam	VB	_	2	xcomp	_	O
+5	-	-	HYPH	_	4	punct	_	O
+6	o	o	SYM	pos2=NN	4	prt	_	O
+7	?	?	.	_	2	punct	_	O
+
+1	Where	where	WRB	_	4	advmod	_	O
+2	will	will	MD	_	4	aux	_	O
+3	#Romo	#romo	TO	pos2=PRP$	4	nsubj	_	O
+4	play	play	VB	_	0	root	_	O
+5	next	next	JJ	pos2=DT	6	nmod	_	B-DATE
+6	season	season	NN	_	4	dobj	_	L-DATE
+7	?	?	.	_	4	punct	_	O
+
+1	#Broncos	#broncos	NNS	pos2=NNP	12	dep	_	O
+2	+140	0	CD	pos2=LS	3	nmod	_	O
+3	#Bears	#bears	NNS	pos2=VBZ	1	npadvmod	_	O
+4	+500	0	CD	_	5	nmod	_	O
+5	#Jets	#jets	NNS	pos2=IN	1	npadvmod	_	O
+6	+650	0	CD	_	8	nmod	_	U-CARDINAL
+7	#	#	NN	pos2=$	8	compound	_	O
+8	49ers	0ers	NNS	_	5	npadvmod	_	O
+9	+1000	0	CD	_	10	nmod	_	O
+10	#Rams	#rams	NNS	pos2=IN	8	npadvmod	_	O
+11	+1000	0	CD	_	12	dep	_	O
+12	https://t.co/NsiTLo4l44	#hlink#	ADD	pos2=NNS	0	root	_	O
+

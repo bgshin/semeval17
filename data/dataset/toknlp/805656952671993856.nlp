@@ -1,0 +1,11 @@
+1	Even	even	RB	_	3	advmod	_	O
+2	the	the	DT	_	3	det	_	O
+3	Jeep	jeep	NNP	pos2=NN	4	nsubj	_	U-ORG
+4	is	be	VBZ	_	0	root	_	O
+5	also	also	RB	_	4	advmod	_	O
+6	unwilling	unwilling	JJ	_	4	acomp	_	O
+7	to	to	TO	_	8	aux	_	O
+8	carry	carry	VB	_	6	xcomp	_	O
+9	him	him	PRP	_	8	dobj	_	O
+10	https://t.co/j60zkHfIHF	#hlink#	ADD	pos2=RP	4	dep	_	U-ORG
+

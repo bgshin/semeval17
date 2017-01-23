@@ -1,0 +1,15 @@
+1	Russia	russia	NNP	_	3	nmod	_	U-GPE
+2	,	,	,	_	3	punct	_	O
+3	US	us	NNP	pos2=PRP	5	nsubj	_	U-GPE
+4	to	to	TO	_	5	aux	_	O
+5	hold	hold	VB	_	0	root	_	O
+6	talks	talk	NNS	_	5	dobj	_	O
+7	on	on	IN	_	6	prep	_	O
+8	rebel	rebel	JJ	pos2=NN	9	nmod	_	O
+9	withdrawal	withdrawal	NN	pos2=NNS	7	pobj	_	O
+10	from	from	IN	_	9	prep	_	O
+11	Aleppo	aleppo	NNP	_	10	pobj	_	U-GPE
+12	:	:	:	_	14	punct	_	O
+13	Lavrov	lavrov	NNP	pos2=GW	14	nmod	_	O
+14	https://t.co/itVTqh5djo	#hlink#	ADD	_	0	root	_	O
+

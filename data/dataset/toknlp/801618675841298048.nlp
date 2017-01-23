@@ -1,0 +1,14 @@
+1	#IslamicState	#islamicstate	ADD	pos2=NN	2	nsubj	_	O
+2	beheads	behead	VBZ	_	0	root	_	O
+3	15	0	CD	_	5	nmod	_	U-CARDINAL
+4	#IraqiArmy	#iraqiarmy	NN	pos2=JJ	5	compound	_	O
+5	soldiers	soldier	NNS	_	2	dobj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	#mosul	#mosul	NNP	pos2=WP	6	pobj	_	O
+8	Read	read	VB	pos2=GW	4	ccomp	_	O
+9	more	more	JJR	pos2=RBR	13	nmod	_	O
+10	https://t.co/G9p7CLl6RZ	#hlink#	ADD	pos2=NN	13	nmod	_	O
+11	#MosulOffensive	#mosuloffensive	GW	pos2=-RRB-	13	nmod	_	O
+12	#ISIS	#isis	GW	pos2=-LRB-	13	nmod	_	O
+13	https://t.co/17Bcn2n0P4	#hlink#	ADD	pos2=NN	8	dobj	_	O
+

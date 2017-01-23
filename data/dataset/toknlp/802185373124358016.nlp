@@ -1,0 +1,15 @@
+1	Tony	tony	NNP	_	2	compound	_	B-PERSON
+2	Romo	romo	NNP	_	5	poss	_	I-PERSON
+3	’s	's	POS	_	2	case	_	L-PERSON
+4	Black	black	NNP	pos2=JJ	5	compound	_	B-EVENT
+5	Friday	friday	NNP	_	14	dep	_	L-EVENT
+6	:	:	:	_	14	punct	_	O
+7	No.	no.	NN	_	9	nmod	_	O
+8	9	0	CD	_	7	nmod	_	U-CARDINAL
+9	jerseys	jersey	NNS	_	14	dep	_	O
+10	dropping	drop	VBG	_	9	acl	_	O
+11	in	in	IN	pos2=GW	10	prep	_	O
+12	price	price	NN	pos2=GW	11	pobj	_	O
+13	https://t.co/3f2NqH7t0O	#hlink#	ADD	_	14	nmod	_	O
+14	https://t.co/NFC7LJRXfD	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,10 @@
+1	@RobertsEmma	@robertsemma	NN	pos2=ADD	2	compound	_	O
+2	@ScreamQueens	@screamqueens	NNS	pos2=NNP	5	vocative	_	O
+3	Can	can	MD	_	5	aux	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	be	be	VB	_	0	root	_	O
+6	Chanel	chanel	NNP	_	7	compound	_	U-ORG
+7	#	#	NN	_	5	attr	_	O
+8	11	0	CD	pos2=LS	7	nmod	_	B-DATE
+9	instead?😭💓#ScreamQueens	instead?😭💓#screamqueens	NNS	pos2=ADD	7	npadvmod	_	L-DATE
+

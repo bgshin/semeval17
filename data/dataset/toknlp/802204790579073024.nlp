@@ -1,0 +1,13 @@
+1	For	for	IN	_	12	prep	_	O
+2	the	the	DT	_	4	det	_	O
+3	#book	#book	NNP	pos2=XX	4	compound	_	O
+4	lovers	lover	NNS	_	1	pobj	_	O
+5	on	on	IN	_	4	prep	_	O
+6	your	your	PRP$	_	7	poss	_	O
+7	list	list	NN	_	5	pobj	_	O
+8	:	:	:	_	12	punct	_	O
+9	#BlackFriday	#blackfriday	NNP	pos2=GW	12	nmod	_	O
+10	#ImWithHer	#imwithher	GW	pos2=ADD	12	nmod	_	O
+11	#StillWithHer	#stillwithher	GW	pos2=ADD	12	nmod	_	O
+12	https://t.co/x22wXlP2A7	#hlink#	ADD	pos2=NN	0	root	_	O
+

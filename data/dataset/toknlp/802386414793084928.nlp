@@ -1,0 +1,17 @@
+1	@RealityCallsV	@realitycallsv	ADD	pos2=NN	6	poss	_	O
+2	@Trump2016MAGA1	@trump0maga0	NN	pos2=IN	4	compound	_	O
+3	George	george	NNP	_	4	compound	_	B-PERSON
+4	soros	soros	NNP	pos2=NN	6	poss	_	I-PERSON
+5	'	'	POS	_	4	case	_	L-PERSON
+6	nephew	nephew	NN	_	9	nsubjpass	_	O
+7	was	be	VBD	_	9	auxpass	_	O
+8	also	also	RB	_	9	advmod	_	O
+9	seen	see	VBN	_	0	root	_	O
+10	in	in	IN	_	9	prep	_	O
+11	a	a	DT	_	12	det	_	O
+12	pic	pic	NN	_	10	pobj	_	O
+13	with	with	IN	_	12	prep	_	O
+14	red	red	JJ	_	15	nmod	_	O
+15	shoes	shoe	NNS	_	13	pobj	_	O
+16	.	.	.	_	9	punct	_	O
+

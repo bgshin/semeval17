@@ -1,0 +1,12 @@
+1	Okay	okay	UH	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	Finally	finally	RB	_	2	advmod	_	O
+2	gon	gon	VBG	_	0	root	_	O
+3	na	to	TO	_	4	aux	_	O
+4	start	start	VB	_	2	xcomp	_	O
+5	watching	watch	VBG	_	4	xcomp	_	O
+6	#StrangerThings	#strangerthings	NNS	pos2=NNP	5	dobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	#ThisIsUs!😧😮☺	#thisisus!😧😮☺	NNS	pos2=ADD	6	conj	_	O
+

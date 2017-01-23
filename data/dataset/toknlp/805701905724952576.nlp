@@ -1,0 +1,23 @@
+1	@UTxBeezykingwi	@utxbeezykingwi	NNP	pos2=NN	6	nsubjpass	_	O
+2	But	but	CC	_	1	cc	_	O
+3	grocery	grocery	NN	pos2=JJ	4	compound	_	O
+4	dudes	dude	NNS	_	6	nsubjpass	_	O
+5	get	get	VBP	pos2=VB	6	auxpass	_	O
+6	paid	pay	VBN	_	12	ccomp	_	O
+7	full	full	JJ	_	9	nmod	_	O
+8	minimum	minimum	JJ	_	9	nmod	_	O
+9	wage	wage	NN	_	6	dobj	_	O
+10	,	,	,	_	12	punct	_	O
+11	that	that	DT	pos2=IN	12	nsubj	_	O
+12	s	s	VBZ	pos2=VBP	0	root	_	O
+13	the	the	DT	_	14	det	_	O
+14	difference	difference	NN	_	12	attr	_	O
+15	,	,	,	_	19	punct	_	O
+16	they	they	PRP	_	19	nsubj	_	O
+17	do	do	VBP	_	19	aux	_	O
+18	n't	not	RB	_	19	neg	_	O
+19	rely	rely	VB	_	0	root	_	O
+20	on	on	IN	_	19	prep	_	O
+21	tips	tip	NNS	_	20	pobj	_	O
+22	.	.	.	_	19	punct	_	O
+

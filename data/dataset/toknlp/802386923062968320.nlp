@@ -1,0 +1,20 @@
+1	Comey	comey	NNP	_	0	predet	_	U-PERSON
+2	,	,	,	_	1	punct	_	O
+3	Russians	russian	NNPS	_	1	conj	_	U-NORP
+4	,	,	,	_	3	punct	_	O
+5	Facebook	facebook	NNP	_	3	conj	_	U-ORG
+6	,	,	,	_	5	punct	_	O
+7	stein	stein	NN	pos2=NNP	5	conj	_	O
+8	,	,	,	_	7	punct	_	O
+9	sanders	sander	NNS	pos2=NN	7	conj	_	O
+10	,	,	,	_	9	punct	_	O
+11	Assange	assange	NNP	_	9	conj	_	U-PERSON
+12	,	,	,	_	11	punct	_	O
+13	vote	vote	NN	pos2=VB	15	compound	_	O
+14	machine	machine	NN	_	15	compound	_	O
+15	hackers	hacker	NNS	_	11	conj	_	O
+16	,	,	,	_	15	punct	_	O
+17	and	and	CC	_	15	cc	_	O
+18	now	now	RB	_	19	advmod	_	O
+19	Obama	obama	NNP	_	15	conj	_	U-PERSON
+

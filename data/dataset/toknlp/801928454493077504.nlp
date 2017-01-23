@@ -1,0 +1,26 @@
+1	@BAN_FOBTS	@ban_fobts	NNS	pos2=ADD	2	compound	_	O
+2	@DVATW	@dvatw	NNP	pos2=XX	5	nsubjpass	_	U-ORG
+3	Just	just	RB	pos2=NNP	5	advmod	_	O
+4	got	get	VBD	_	5	auxpass	_	O
+5	blocked	block	VBN	_	0	root	_	O
+6	by	by	IN	_	5	agent	_	O
+7	Davey	davey	NNP	_	6	pobj	_	U-ORG
+8	.	.	.	_	5	punct	_	O
+
+1	Just	just	RB	_	2	advmod	_	O
+2	shows	show	VBZ	_	0	root	_	O
+3	you	you	PRP	_	2	dobj	_	O
+4	how	how	WRB	_	5	advmod	_	O
+5	thin	thin	JJ	_	7	nmod	_	O
+6	skinned	skinned	JJ	_	7	nmod	_	O
+7	rightists	rightist	NNS	_	2	dobj	_	O
+8	eh	eh	UH	pos2=XX	2	discourse	_	O
+9	?	?	.	_	2	punct	_	O
+
+1	Ca	can	MD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	take	take	VB	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	joke	joke	NN	_	6	compound	_	O
+6	#Pussies	#pussies	NNS	pos2=.	3	dobj	_	O
+

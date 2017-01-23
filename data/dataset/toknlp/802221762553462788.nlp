@@ -1,0 +1,25 @@
+1	@poroshenko	@poroshenko	UH	pos2=VB	5	discourse	_	O
+2	ah	ah	UH	_	5	discourse	_	O
+3	ah	ah	UH	_	2	discourse	_	O
+4	ah	ah	UH	_	3	discourse	_	O
+5	heros	hero	NNS	pos2=UH	0	root	_	O
+6	???	??	.	_	5	punct	_	O
+
+1	Are	be	VBP	_	0	root	_	O
+2	you	you	PRP	_	1	nsubj	_	O
+3	sure	sure	JJ	_	1	acomp	_	O
+4	?	?	.	_	1	punct	_	O
+
+1	Do	do	VBP	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	want	want	VB	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	win	win	VB	_	3	xcomp	_	O
+6	the	the	DT	_	8	det	_	O
+7	best	good	JJS	_	8	nmod	_	O
+8	story	story	NN	_	5	dobj	_	O
+9	to	to	IN	pos2=TO	5	prep	_	O
+10	next	next	JJ	pos2=VB	11	nmod	_	O
+11	oscar	oscar	NN	_	9	pobj	_	O
+12	?	?	.	_	3	punct	_	O
+

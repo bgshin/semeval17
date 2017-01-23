@@ -1,0 +1,19 @@
+1	@KObrien33525	@kobrien0	NN	pos2=ADD	2	compound	_	O
+2	@MAHAMOSA	@mahamosa	NN	pos2=GW	5	nsubj	_	O
+3	@realDonaldTrump	@realdonaldtrump	MD	pos2=TO	5	aux	_	O
+4	maybe	maybe	RB	_	5	advmod	_	O
+5	take	take	VB	_	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	look	look	NN	_	5	dobj	_	O
+8	at	at	IN	_	7	prep	_	O
+9	the	the	DT	_	11	det	_	O
+10	Clinton	clinton	NNP	_	11	compound	_	U-PERSON
+11	foundation	foundation	NN	_	8	pobj	_	O
+12	if	if	IN	_	16	mark	_	O
+13	government	government	NN	_	14	compound	_	O
+14	corruption	corruption	NN	_	16	nsubj	_	O
+15	actually	actually	RB	_	16	advmod	_	O
+16	bothers	bother	VBZ	_	5	advcl	_	O
+17	you	you	PRP	_	16	dobj	_	O
+18	now	now	RB	_	16	advmod	_	O
+

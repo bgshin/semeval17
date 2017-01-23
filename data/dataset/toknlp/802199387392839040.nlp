@@ -1,0 +1,28 @@
+1	@sammymiamixo	@sammymiamixo	UH	pos2=MD	2	discourse	_	O
+2	Check	check	VB	_	0	root	_	O
+3	on	on	IN	_	2	prep	_	O
+4	some	some	DT	_	3	pobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	the	the	DT	_	9	det	_	O
+7	FB	fb	NNP	pos2=NN	9	compound	_	O
+8	swap	swap	NN	_	9	compound	_	O
+9	sites	site	NNS	_	5	pobj	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	There	there	EX	_	3	expl	_	O
+2	have	have	VBP	_	3	aux	_	O
+3	been	be	VBN	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	few	few	JJ	pos2=NN	6	nsubj	_	O
+6	posted	post	VBN	_	3	attr	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	Added	add	VBN	pos2=VBD	2	nmod	_	O
+2	premium	premium	NN	_	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	but	but	CC	_	2	cc	_	O
+5	available	available	JJ	_	2	conj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	#hatchimals	#hatchimals	UH	pos2=NNS	0	root	_	O
+

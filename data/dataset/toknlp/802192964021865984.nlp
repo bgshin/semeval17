@@ -1,0 +1,14 @@
+1	@miksu2006	@miksu0	NN	pos2=LS	4	compound	_	O
+2	@Dwarfpoo	@dwarfpoo	NNP	pos2=FW	4	compound	_	U-GPE
+3	@TruthIwant2	@truthiwant0	NN	pos2=XX	4	compound	_	O
+4	@NAInfidels	@nainfidels	NNS	pos2=ADD	6	nsubj	_	O
+5	@PrisonPlanet	@prisonplanet	TO	pos2=MD	6	aux	_	O
+6	send	send	VB	pos2=VBP	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	Pope	pope	NNP	_	6	dative	_	O
+9	a	a	DT	_	10	det	_	O
+10	clip	clip	NN	_	6	dobj	_	O
+11	from	from	IN	_	10	prep	_	O
+12	#Hamas	#hamas	NNP	pos2=ADD	11	pobj	_	O
+13	https://t.co/EW7UdFlnf5	#hlink#	ADD	_	12	appos	_	O
+

@@ -1,0 +1,17 @@
+1	@BBCNewsnight	@bbcnewsnight	UH	pos2=ADD	0	root	_	O
+2	@Alison_McGovern	@alison_mcgovern	UH	pos2=NN	1	discourse	_	O
+3	...	..	.	pos2=,	1	punct	_	O
+
+1	or	or	CC	_	4	cc	_	O
+2	for	for	IN	_	0	root	_	O
+3	her	her	PRP$	_	4	poss	_	O
+4	support	support	NN	_	2	pobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	"	"	``	_	7	punct	_	O
+7	terrorism	terrorism	NN	_	5	pobj	_	O
+8	"	"	''	_	7	punct	_	O
+9	!	!	.	_	4	punct	_	O
+
+1	#Hamas	#hamas	NNS	pos2=ADD	2	nmod	_	O
+2	https://t.co/1Vq82s3WEl	#hlink#	ADD	_	0	root	_	O
+

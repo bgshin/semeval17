@@ -1,0 +1,26 @@
+1	@MoodyCindy	@moodycindy	NN	pos2=UH	0	root	_	O
+2	yep	yep	UH	_	1	discourse	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	Gigi	gigi	NNP	_	4	nsubj	_	U-PERSON
+2	was	be	VBD	_	4	aux	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	hosting	host	VBG	_	0	root	_	O
+5	tho	tho	NN	pos2=RB	4	dobj	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	they	they	PRP	_	2	nsubj	_	O
+2	covered	cover	VBD	pos2=VBN	0	root	_	O
+3	on	on	IN	_	2	prep	_	O
+4	recent	recent	JJ	_	5	nmod	_	O
+5	things	thing	NNS	_	3	pobj	_	O
+6	and	and	CC	_	2	cc	_	O
+7	Melania	melania	NNP	pos2=NN	9	compound	_	U-PERSON
+8	copying	copy	VBG	pos2=NN	5	acl	_	O
+9	Michelle	michelle	NNP	_	11	poss	_	U-PERSON
+10	's	's	POS	_	9	case	_	O
+11	speech	speech	NN	_	8	dobj	_	O
+12	that	that	WDT	pos2=DT	13	nsubj	_	O
+13	's	's	VBZ	_	11	relcl	_	O
+14	all	all	DT	pos2=RB	13	attr	_	O
+

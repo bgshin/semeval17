@@ -1,0 +1,13 @@
+1	Israeli	israeli	JJ	_	3	nmod	_	U-NORP
+2	military	military	JJ	pos2=NN	3	nmod	_	O
+3	restrictions	restriction	NNS	_	12	nsubj	_	O
+4	imposed	impose	VBN	_	3	acl	_	O
+5	in	in	IN	_	4	prep	_	O
+6	al	al	NNP	_	8	compound	_	B-PERSON
+7	-	-	HYPH	_	8	punct	_	I-PERSON
+8	Khalil	khalil	NNP	_	5	pobj	_	L-PERSON
+9	via	via	IN	pos2=GW	4	prep	_	O
+10	@PalinfoEn	@palinfoen	ADD	pos2=NNP	9	pobj	_	U-TIME
+11	https://t.co/eKwhV7WhvQ	#hlink#	ADD	_	6	appos	_	O
+12	#Palestine	#palestine	NNP	pos2=-RRB-	0	root	_	U-ORG
+

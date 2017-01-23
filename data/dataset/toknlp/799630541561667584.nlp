@@ -1,0 +1,23 @@
+1	@KremlinTrolls	@kremlintrolls	NNS	pos2=ADD	10	dep	_	O
+2	@GenFlynn	@genflynn	ADD	pos2=VBP	6	det	_	O
+3	@rcallimachi	@rcallimachi	UH	pos2=VBP	8	discourse	_	O
+4	@FBI	@fbi	$	pos2=ADD	8	ccomp	_	O
+5	@FBIWFO	@fbiwfo	NNP	pos2=NFP	4	pobj	_	O
+6	This	this	DT	pos2=NNP	10	dobj	_	O
+7	I	I	PRP	pos2=NNP	10	nsubj	_	O
+8	did	do	VBD	_	10	aux	_	O
+9	n't	not	RB	_	10	neg	_	O
+10	know	know	VB	_	0	root	_	O
+11	.	.	.	_	10	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	GRU	gru	NNP	pos2=NN	5	compound	_	U-ORG
+5	headquarters	headquarters	NN	pos2=NNS	3	pobj	_	O
+6	!	!	.	_	2	punct	_	O
+
+1	@GenFlynn	@genflynn	ADD	pos2=NN	0	root	_	O
+2	@	@	SYM	pos2=IN	3	punct	_	O
+3	20committee	0committee	NN	pos2=ADD	1	prep	_	U-MONEY
+

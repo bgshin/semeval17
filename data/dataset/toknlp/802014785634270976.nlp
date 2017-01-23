@@ -1,0 +1,17 @@
+1	Kate	kate	NNP	_	2	compound	_	B-PERSON
+2	Upton	upton	NNP	_	4	nsubjpass	_	L-PERSON
+3	is	be	VBZ	_	4	auxpass	_	O
+4	engaged	engage	VBN	pos2=JJ	0	root	_	O
+5	to	to	IN	_	4	prep	_	O
+6	Justin	justin	NNP	_	7	compound	_	B-PERSON
+7	Verlander	verlander	NNP	_	5	pobj	_	L-PERSON
+8	,	,	,	_	9	punct	_	O
+9	flashes	flash	VBZ	pos2=NNS	4	conj	_	O
+10	her	her	PRP$	_	12	poss	_	O
+11	new	new	JJ	_	12	nmod	_	O
+12	ring	ring	NN	_	9	dobj	_	O
+13	...	..	.	pos2=,	9	punct	_	O
+
+1	https://t.co/WP9xbK4Hdg	#hlink#	ADD	_	2	nsubj	_	O
+2	#kateupton	#kateupton	ADD	pos2=-RRB-	0	root	_	O
+

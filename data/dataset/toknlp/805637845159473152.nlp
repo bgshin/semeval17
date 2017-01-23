@@ -1,0 +1,31 @@
+1	Happy	happy	JJ	pos2=NNP	2	nmod	_	O
+2	Birthday	birthday	NN	pos2=NNP	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	Ca	can	MD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	wait	wait	VB	_	0	root	_	O
+4	on	on	IN	_	3	prep	_	O
+5	Dancing	dance	VBG	pos2=NN	4	pcomp	_	O
+6	with	with	IN	_	5	prep	_	O
+7	thousands	#crd#	NNS	_	6	pobj	_	U-CARDINAL
+8	of	of	IN	_	7	prep	_	O
+9	Jesus	jesus	NNP	_	8	pobj	_	U-PERSON
+10	?	?	.	_	3	punct	_	O
+
+1	Oh	oh	UH	_	0	root	_	O
+2	god	god	UH	_	1	discourse	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	get	get	VBP	_	0	root	_	O
+3	things	thing	NNS	_	2	dobj	_	O
+4	to	to	IN	pos2=TO	2	prep	_	O
+5	gay	gay	JJ	pos2=VB	6	nmod	_	O
+6	marriage	marriage	NN	_	4	pobj	_	O
+7	?	?	.	_	2	punct	_	O
+
+1	a	a	DT	_	3	nmod	_	O
+2	spectacular	spectacular	JJ	_	3	nmod	_	O
+3	https://t.co/OUBzHxFpGV	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

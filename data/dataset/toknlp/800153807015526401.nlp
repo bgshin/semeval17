@@ -1,0 +1,16 @@
+1	Microsoft	microsoft	NNP	pos2=JJ	3	compound	_	U-ORG
+2	love	love	NN	pos2=VBP	3	compound	_	O
+3	affair	affair	NN	_	6	nsubj	_	O
+4	with	with	IN	_	3	prep	_	O
+5	Linux	linux	NNP	pos2=NN	4	pobj	_	U-ORG
+6	continues	continue	VBZ	_	0	root	_	O
+7	as	as	IN	_	9	mark	_	O
+8	it	it	PRP	_	9	nsubj	_	O
+9	joins	join	VBZ	_	6	advcl	_	O
+10	The	the	DT	pos2=NNP	12	det	_	B-ORG
+11	Linux	linux	NNP	_	12	compound	_	I-ORG
+12	Foundation	foundation	NNP	pos2=NN	9	dobj	_	L-ORG
+13	https://t.co/ZNlYdPzGyu	#hlink#	ADD	_	14	nsubj	_	O
+14	#breakingnews	#breakingnews	VBZ	pos2=-RRB-	6	dep	_	O
+15	#zdnet	#zdnet	UH	pos2=NN	6	discourse	_	O
+

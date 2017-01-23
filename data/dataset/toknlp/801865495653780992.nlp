@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det	_	O
+2	@utahjazz	@utahjazz	NNPS	pos2=NNS	4	nsubj	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	bought	buy	VBD	pos2=VBN	0	root	_	O
+5	@kanga_tech	@kanga_tech	NNP	pos2=ADD	4	dobj	_	U-ORG
+6	,	,	,	_	5	punct	_	O
+7	a	a	DT	_	9	det	_	O
+8	training	training	NN	_	9	compound	_	O
+9	program	program	NN	_	5	appos	_	O
+10	built	build	VBN	_	9	acl	_	O
+11	for	for	IN	_	10	prep	_	O
+12	the	the	DT	_	15	det	_	O
+13	@NMFCOfficial	@nmfcofficial	NNP	pos2=JJ	15	compound	_	U-ORG
+14	football	football	NN	_	15	compound	_	O
+15	club	club	NN	_	11	pobj	_	O
+16	.	.	.	_	4	punct	_	O
+
+1	🇦🇺	🇦🇺	NFP	pos2=GW	3	punct	_	O
+2	…	…	NFP	pos2=-LRB-	3	punct	_	O
+3	https://t.co/I7NizeO9Ty	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,12 @@
+1	.	.	.	_	0	punct	_	O
+
+1	Ricky	ricky	NNP	_	2	compound	_	B-PERSON
+2	Gervais	gervais	NNP	_	3	nsubj	_	L-PERSON
+3	speaks	speak	VBZ	_	0	root	_	O
+4	out	out	RP	pos2=RB	3	prt	_	O
+5	against	against	IN	_	3	prep	_	O
+6	animal	animal	NN	_	7	compound	_	O
+7	testing	testing	NN	pos2=VBG	8	compound	_	O
+8	#CambridgeKillers	#cambridgekillers	NNS	pos2=GW	5	pobj	_	O
+9	https://t.co/KKvY8jFiT9	#hlink#	ADD	_	3	dep	_	O
+

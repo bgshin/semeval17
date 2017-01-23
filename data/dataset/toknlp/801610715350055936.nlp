@@ -1,0 +1,24 @@
+1	@BrocKuerzi	@brockuerzi	UH	pos2=NNP	3	discourse	_	O
+2	they	they	PRP	_	3	nsubj	_	O
+3	went	go	VBD	_	0	root	_	O
+4	down	down	RP	pos2=RB	3	prt	_	O
+5	to	to	IN	_	3	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	last	last	JJ	_	8	nmod	_	O
+8	play	play	NN	_	5	pobj	_	O
+9	against	against	IN	_	8	prep	_	O
+10	Kansas	kansas	NNP	_	9	pobj	_	U-GPE
+11	without	without	IN	_	3	prep	_	O
+12	2	0	CD	_	11	pobj	_	O
+13	or	or	CC	_	12	cc	_	O
+14	3	0	CD	_	12	conj	_	U-CARDINAL
+15	of	of	IN	_	12	prep	_	O
+16	their	their	PRP$	_	17	poss	_	O
+17	starters	starter	NNS	_	15	pobj	_	O
+18	and	and	CC	_	3	cc	_	O
+19	Grayson	grayson	NNP	_	20	compound	_	B-PERSON
+20	Allen	allen	NNP	_	22	nsubj	_	L-PERSON
+21	is	be	VBZ	_	22	aux	_	O
+22	winning	win	VBG	_	3	conj	_	O
+23	POY	poy	NNP	pos2=NN	22	dobj	_	U-ORG
+

@@ -1,0 +1,18 @@
+1	hundreds	#crd#	NNS	_	0	root	_	U-CARDINAL
+2	of	of	IN	_	1	prep	_	O
+3	local	local	JJ	_	4	nmod	_	O
+4	girls	girl	NNS	_	2	pobj	_	O
+5	looking	look	VBG	_	4	acl	_	O
+6	for	for	IN	_	5	prep	_	O
+7	a	a	DT	_	9	det	_	O
+8	quick	quick	JJ	_	9	nmod	_	O
+9	fuck	fuck	NN	_	6	pobj	_	O
+10	.	.	.	_	1	punct	_	O
+
+1	Check	check	VB	_	0	root	_	O
+2	This	this	DT	_	1	dobj	_	O
+3	Out	out	RP	pos2=GW	1	prt	_	O
+4	>>	>>	-RRB-	pos2=GW	1	punct	_	O
+5	https://t.co/HbdgP3vaeQ	#hlink#	ADD	_	6	nmod	_	O
+6	https://t.co/oYuB2sJHe5	#hlink#	ADD	_	1	dep	_	U-ORG
+

@@ -1,0 +1,21 @@
+1	@thebeachwife	@thebeachwife	UH	pos2=XX	6	discourse	_	O
+2	@WayneDupreeShow	@waynedupreeshow	UH	pos2=``	6	discourse	_	O
+3	It	it	PRP	_	6	nsubjpass	_	O
+4	's	's	VBZ	_	6	auxpass	_	O
+5	probably	probably	RB	_	6	advmod	_	O
+6	funded	fund	VBN	_	0	root	_	O
+7	by	by	IN	_	6	agent	_	O
+8	George	george	NNP	_	9	compound	_	B-PERSON
+9	Soros	soros	NNP	_	7	pobj	_	L-PERSON
+10	.	.	.	_	6	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	vile	vile	JJ	_	5	nmod	_	O
+5	bastard	bastard	NN	_	2	attr	_	O
+6	that	that	WDT	_	7	nsubj	_	O
+7	hates	hate	VBZ	_	5	relcl	_	O
+8	America	america	NNP	_	7	dobj	_	U-GPE
+9	.	.	.	_	2	punct	_	O
+

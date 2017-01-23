@@ -1,0 +1,9 @@
+1	Trump	trump	NN	pos2=NNP	2	nsubj	_	U-ORG
+2	offers	offer	VBZ	_	0	root	_	O
+3	Flynn	flynn	NNP	_	6	compound	_	O
+4	National	national	NNP	_	6	compound	_	O
+5	Security	security	NNP	_	6	compound	_	O
+6	Adviser	adviser	NNP	pos2=NN	7	compound	_	O
+7	job	job	NN	pos2=GW	2	dobj	_	O
+8	https://t.co/gPdk0XgGEW	#hlink#	ADD	_	7	appos	_	U-ORG
+

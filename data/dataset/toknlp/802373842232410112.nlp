@@ -1,0 +1,24 @@
+1	‣	-	SYM	_	8	punct	_	O
+2	Chomsky	chomsky	NNP	pos2=NN	8	nsubj	_	O
+3	and	and	CC	_	2	cc	_	O
+4	Hillary	hillary	NNP	_	2	conj	_	U-PERSON
+5	|	|	,	pos2=SYM	8	punct	_	O
+6	"	"	``	pos2=''	8	punct	_	O
+7	Why	why	WRB	_	8	advmod	_	O
+8	are	be	VBP	_	0	root	_	O
+9	some	some	DT	_	10	det	_	O
+10	leftists	leftist	NNS	_	8	nsubj	_	O
+11	acting	act	VBG	_	10	acl	_	O
+12	that	that	IN	pos2=WDT	14	mark	_	O
+13	Hillary	hillary	NNP	_	14	nsubj	_	U-PERSON
+14	was	be	VBD	_	11	ccomp	_	O
+15	some	some	DT	_	16	det	_	O
+16	great	great	JJ	pos2=NN	14	acomp	_	O
+17	...	..	.	pos2=,	8	punct	_	O
+18	"	"	''	_	8	punct	_	O
+
+1	|	|	SYM	pos2=NFP	4	punct	_	O
+2	https://t.co/eSX3LMrnJE	#hlink#	ADD	_	4	dep	_	O
+3	|	|	SYM	pos2=-RRB-	4	punct	_	O
+4	#AngryArab	#angryarab	NN	pos2=ADD	0	root	_	O
+

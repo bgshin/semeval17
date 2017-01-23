@@ -1,0 +1,15 @@
+1	FACT	fact	NN	_	9	dep	_	O
+2	:	:	:	_	9	punct	_	O
+3	Robots	robot	NNS	pos2=NNP	9	nsubj	_	O
+4	can	can	MD	_	9	aux	_	O
+5	not	not	RB	_	4	neg	_	O
+6	,	,	,	_	4	punct	_	O
+7	and	and	CC	_	4	cc	_	O
+8	then	then	RB	_	9	advmod	_	O
+9	shipped	ship	VBN	pos2=VBD	0	root	_	O
+10	worldwide	worldwide	RB	_	9	advmod	_	O
+11	for	for	IN	_	9	prep	_	O
+12	global	global	JJ	_	13	nmod	_	O
+13	communism	communism	NN	_	11	pobj	_	O
+14	.	.	.	_	9	punct	_	O
+

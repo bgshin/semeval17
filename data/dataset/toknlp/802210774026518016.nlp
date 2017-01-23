@@ -1,0 +1,21 @@
+1	WW3	ww0	NN	_	18	dep	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	Part-1	part-0	NN	pos2=NNP	6	nmod	_	O
+4	-	-	HYPH	pos2=:	6	punct	_	O
+5	Putin	putin	NNP	_	6	compound	_	O
+6	Views	view	NNPS	pos2=NNP	8	nmod	_	O
+7	-	-	:	pos2=HYPH	5	punct	_	O
+8	Russia	russia	NNP	_	13	nmod	_	U-GPE
+9	And	and	CC	pos2=NNP	8	cc	_	O
+10	America	america	NNP	_	12	compound	_	U-GPE
+11	-	-	HYPH	pos2=:	12	punct	_	O
+12	Trump	trump	NNP	_	13	compound	_	O
+13	Views	views	NNP	pos2=NNPS	18	dep	_	O
+14	On	on	IN	pos2=NNP	13	prep	_	O
+15	-	-	HYPH	pos2=NFP	14	punct	_	O
+16	Ww3	ww0	NN	pos2=NNP	14	pobj	_	O
+17	:	:	:	_	18	punct	_	O
+18	https://t.co/HpiImqiBJe	#hlink#	ADD	pos2=NN	0	root	_	O
+19	via	via	IN	_	18	prep	_	O
+20	@YouTube	@youtube	NNP	pos2=NN	19	pobj	_	O
+

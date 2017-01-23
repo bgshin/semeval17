@@ -1,0 +1,24 @@
+1	Here	here	RB	_	2	advmod	_	O
+2	’s	's	VBZ	_	10	ccomp	_	O
+3	Some	some	DT	pos2=NNP	7	det	_	O
+4	More	more	JJR	pos2=NNP	7	nmod	_	O
+5	Trump	trump	NNP	pos2=NN	6	compound	_	O
+6	Transition	transition	NNP	pos2=NN	7	compound	_	O
+7	News	news	NNP	pos2=NN	2	nsubj	_	O
+8	:	:	:	_	10	punct	_	O
+9	Trump	trump	NNP	pos2=NN	10	nsubj	_	O
+10	picks	pick	VBZ	_	0	root	_	O
+11	his	his	PRP$	_	16	poss	_	O
+12	deputy	deputy	NN	pos2=JJ	16	nmod	_	O
+13	national	national	JJ	_	15	nmod	_	O
+14	-	-	HYPH	_	15	punct	_	O
+15	security	security	NN	_	16	compound	_	O
+16	adviser	adviser	NN	_	10	dobj	_	O
+17	and	and	CC	_	16	cc	_	O
+18	White	white	NNP	_	19	compound	_	B-ORG
+19	House	house	NNP	_	20	compound	_	L-ORG
+20	counsel	counsel	NN	_	16	conj	_	O
+21	.	.	.	_	10	punct	_	O
+
+1	https://t.co/d0y7rojiAk	#hlink#	ADD	_	0	root	_	U-ORG
+

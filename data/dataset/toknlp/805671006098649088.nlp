@@ -1,0 +1,28 @@
+1	Prof	prof	NNP	pos2=NN	7	vocative	_	O
+2	,	,	,	_	7	punct	_	O
+3	what	what	WP	_	7	dobj	_	O
+4	do	do	VBP	_	7	aux	_	O
+5	you	you	PRP	_	7	nsubj	_	O
+6	humanly	humanly	RB	_	7	advmod	_	O
+7	think	think	VBP	pos2=VB	0	root	_	O
+8	when	when	WRB	pos2=IN	12	advmod	_	O
+9	prices	price	NNS	_	12	nsubj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	stuffs	stuff	NNS	pos2=VBZ	10	pobj	_	O
+12	skyrocketed	skyrocket	VBN	pos2=VBD	7	ccomp	_	O
+13	leaving	leave	VBG	_	12	xcomp	_	O
+14	behind	behind	IN	pos2=RB	13	prep	_	O
+15	the	the	DT	_	16	det	_	O
+16	country	country	NN	_	19	poss	_	O
+17	's	's	POS	_	16	case	_	O
+18	minimum	minimum	JJ	pos2=NN	19	nmod	_	O
+19	wage	wage	NN	_	14	pobj	_	O
+20	?	?	.	_	7	punct	_	O
+
+1	Corruption	corruption	NN	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	imminent	imminent	JJ	_	2	acomp	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	@NTAGMN	@ntagmn	NN	pos2=ADD	0	root	_	O
+

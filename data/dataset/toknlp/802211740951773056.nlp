@@ -1,0 +1,23 @@
+1	Russia	russia	NNP	pos2=NN	7	dep	_	U-GPE
+2	:	:	:	_	7	punct	_	O
+3	Zenit	zenit	NNP	_	4	compound	_	U-ORG
+4	stadium	stadium	NN	_	7	nsubjpass	_	O
+5	will	will	MD	_	7	aux	_	O
+6	be	be	VB	_	7	auxpass	_	O
+7	finished	finish	VBN	_	0	root	_	O
+8	‘	'	''	_	7	punct	_	O
+9	by	by	IN	_	7	prep	_	O
+10	the	the	DT	_	11	det	_	B-DATE
+11	end	end	NN	_	9	pobj	_	I-DATE
+12	of	of	IN	_	11	prep	_	I-DATE
+13	this	this	DT	_	14	det	_	I-DATE
+14	year	year	NN	_	12	pobj	_	L-DATE
+15	’	'	''	pos2=POS	7	punct	_	O
+16	–	-	:	pos2=HYPH	17	punct	_	O
+17	Putin	putin	NNP	_	14	appos	_	U-PERSON
+18	...	..	.	pos2=NFP	7	punct	_	O
+
+1	https://t.co/jqgNrJfU78	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@YouTube	@youtube	NN	pos2=NNP	2	pobj	_	O
+

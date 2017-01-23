@@ -1,0 +1,14 @@
+1	When	when	WRB	_	3	advmod	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	wake	wake	VBP	_	0	root	_	O
+4	up	up	RP	pos2=RB	3	prt	_	O
+5	sick	sick	JJ	_	6	nmod	_	O
+6	asf	asf	NN	pos2=NNS	3	dobj	_	O
+7	after	after	IN	_	3	prep	_	O
+8	getting	get	VBG	_	7	pcomp	_	O
+9	to	to	IN	pos2=TO	8	prep	_	O
+10	turnt	turnt	NN	pos2=VB	9	pobj	_	O
+11	on	on	IN	pos2=RP	8	prep	_	O
+12	thanksgiving	thanksgiving	NN	pos2=VBG	13	compound	_	B-DATE
+13	🦃🔪	🦃🔪	NNP	pos2=NN	11	pobj	_	L-DATE
+

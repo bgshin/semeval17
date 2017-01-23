@@ -1,0 +1,19 @@
+1	BLACK	black	JJ	pos2=NN	2	nmod	_	O
+2	FRIDAY	friday	NN	pos2=NNP	9	dep	_	O
+3	:	:	:	_	9	punct	_	O
+4	Up	up	IN	_	6	qmod	_	O
+5	to	to	IN	pos2=TO	6	qmod	_	O
+6	65	0	CD	_	7	nmod	_	B-PERCENT
+7	%	%	NN	_	9	compound	_	L-PERCENT
+8	OFF20	off0	NN	_	9	compound	_	O
+9	%	%	NN	pos2=VBZ	18	dep	_	O
+10	Off	off	IN	pos2=RB	9	prep	_	O
+11	SitewideCode	sitewidecode	NN	pos2=NNP	10	pobj	_	O
+12	:	:	:	_	9	punct	_	O
+13	BLACKFRI	blackfri	NN	pos2=NNP	18	dep	_	O
+14	SALEhttps://t.co/P5RY2rbOFw	#hlink#	ADD	pos2=NN	18	dep	_	O
+15	#postcrossing	#postcrossing	VBG	pos2=-RRB-	18	nmod	_	O
+16	#israel	#israel	GW	pos2=UH	18	nmod	_	O
+17	…	…	NFP	pos2=GW	18	punct	_	O
+18	https://t.co/mxTYSCsk8V	#hlink#	ADD	pos2=NN	0	root	_	O
+

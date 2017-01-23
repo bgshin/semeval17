@@ -1,0 +1,16 @@
+1	@LueYee	@lueyee	UH	pos2=ADD	5	discourse	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	think	think	VB	_	0	root	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	are	be	VBP	_	5	ccomp	_	O
+8	.	.	.	_	5	punct	_	O
+
+1	Conservative	conservative	JJ	pos2=NNP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	different	different	JJ	_	2	acomp	_	O
+4	than	than	IN	_	3	prep	_	O
+5	fascist	fascist	JJ	_	6	nmod	_	O
+6	nazi	nazi	NN	pos2=NNS	4	pobj	_	U-NORP
+

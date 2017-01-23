@@ -1,0 +1,13 @@
+1	China	china	NNP	_	2	nsubj	_	U-GPE
+2	Bans	ban	VBZ	pos2=NNP	0	root	_	O
+3	Web	web	NN	pos2=NNP	4	compound	_	O
+4	Searches	searches	NNP	pos2=NNPS	2	dobj	_	O
+5	For	for	IN	_	2	prep	_	O
+6	'	'	``	pos2=POS	2	punct	_	O
+7	Fatty	fatty	JJ	pos2=NNP	12	nmod	_	O
+8	Kim	kim	NNP	_	10	compound	_	B-PERSON
+9	The	the	NNP	pos2=DT	10	compound	_	I-PERSON
+10	Third	#ord#	NNP	pos2=JJ	12	poss	_	I-PERSON
+11	'	'	POS	pos2=''	10	case	_	L-PERSON
+12	https://t.co/wSqjBQGI18	#hlink#	ADD	pos2=NN	5	pobj	_	O
+

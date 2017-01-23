@@ -1,0 +1,20 @@
+1	BREAKING	breaking	NN	pos2=VBG	19	dep	_	O
+2	:	:	:	_	19	punct	_	O
+3	Nike	nike	NNP	_	6	compound	_	U-ORG
+4	Mercurial	mercurial	NNP	pos2=JJ	6	compound	_	O
+5	Superfly	superfly	NNP	_	6	compound	_	O
+6	Discovery	discovery	NNP	_	19	dep	_	U-PRODUCT
+7	-	-	,	pos2=:	6	punct	_	O
+8	The	the	DT	pos2=NNP	9	det	_	O
+9	Making	making	NNP	pos2=NN	6	appos	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Cristiano	cristiano	NNP	_	12	compound	_	O
+12	Ronaldo	ronaldo	NNP	_	15	poss	_	O
+13	's	's	POS	_	12	case	_	O
+14	New	new	NNP	pos2=JJ	15	compound	_	O
+15	Boots	boot	NNPS	pos2=NNS	10	pobj	_	O
+16	in	in	IN	_	9	prep	_	O
+17	Italy	italy	NNP	_	16	pobj	_	O
+18	:	:	:	_	19	punct	_	O
+19	https://t.co/5QFufAHkye	#hlink#	ADD	pos2=NN	0	root	_	O
+

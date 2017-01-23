@@ -1,0 +1,19 @@
+1	@TraderPaulFX	@traderpaulfx	UH	pos2=NN	4	discourse	_	O
+2	we	we	PRP	_	4	nsubj	_	O
+3	probably	probably	RB	_	4	advmod	_	O
+4	need	need	VBP	_	0	root	_	O
+5	those	those	DT	_	6	det	_	O
+6	riots	riot	NNS	_	4	dobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	end	end	VB	_	4	advcl	_	O
+9	the	the	DT	_	11	det	_	O
+10	rentier	rentier	JJR	pos2=NN	11	nmod	_	O
+11	paradise	paradise	NN	_	8	dobj	_	O
+12	the	the	DT	_	13	det	_	O
+13	country	country	NN	_	15	nsubj	_	O
+14	has	have	VBZ	_	15	aux	_	O
+15	come	come	VBN	_	11	relcl	_	O
+16	brexit	brexit	NN	pos2=RB	15	npadvmod	_	O
+17	or	or	CC	_	16	cc	_	O
+18	no	no	DT	pos2=UH	16	conj	_	O
+

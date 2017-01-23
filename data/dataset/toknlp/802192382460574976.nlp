@@ -1,0 +1,29 @@
+1	@abtsag	@abtsag	IN	pos2=UH	3	prep	_	O
+2	Christmas	christmas	NNP	_	1	pobj	_	U-DATE
+3	is	be	VBZ	_	0	root	_	O
+4	by	by	IN	_	3	prep	_	O
+5	far	far	RB	_	4	pcomp	_	O
+6	the	the	DT	_	8	det	_	O
+7	biggest	big	JJS	_	8	nmod	_	O
+8	holiday	holiday	NN	_	3	attr	_	O
+9	here	here	RB	_	8	advmod	_	O
+10	in	in	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	USA	usa	NNP	_	10	pobj	_	U-GPE
+13	.	.	.	_	3	punct	_	O
+
+1	Thanksgiving	thanksgiving	NNP	pos2=NN	2	nsubj	_	U-DATE
+2	is	be	VBZ	_	0	root	_	O
+3	def	def	NN	pos2=JJ	2	attr	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	behind	behind	IN	pos2=RB	0	root	_	O
+2	Halloween	halloween	NNP	_	1	pobj	_	U-DATE
+3	and	and	CC	_	2	cc	_	O
+4	prob	prob	NN	pos2=VB	2	conj	_	O
+5	Valentines	valentines	NNP	pos2=NNS	2	conj	_	U-ORG
+6	and	and	CC	_	5	cc	_	O
+7	St	st	NNP	_	8	compound	_	B-PERSON
+8	Patrick	patrick	NNP	_	5	conj	_	I-PERSON
+9	's	's	POS	_	8	case	_	L-PERSON
+

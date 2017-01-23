@@ -1,0 +1,17 @@
+1	Sign	sign	VB	pos2=NN	0	root	_	O
+2	up	up	RP	_	1	prt	_	O
+3	for	for	IN	_	1	prep	_	O
+4	@SpinMaster	@spinmaster	NN	pos2=PRP$	5	compound	_	O
+5	newsletter	newsletter	NN	_	3	pobj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	enter	enter	VB	_	1	advcl	_	O
+8	#HatchimalsSweepstakes	#hatchimalssweepstakes	NNS	pos2=GW	7	dobj	_	O
+9	✨➡️	✨➡️	NFP	pos2=-LRB-	13	punct	_	O
+10	https://t.co/3dOxLhLY4HNow	#hlink#	ADD	pos2=VBP	5	appos	_	O
+11	you	you	PRP	_	12	nsubj	_	O
+12	have	have	VBP	pos2=VB	10	ccomp	_	O
+13	a	a	DT	_	14	det	_	O
+14	chance	chance	NN	_	12	dobj	_	O
+15	…	…	NFP	pos2=:	16	punct	_	O
+16	https://t.co/DyVtTtnTgb	#hlink#	ADD	_	14	acl	_	O
+

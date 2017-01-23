@@ -1,0 +1,22 @@
+1	@Tendrra	@tendrra	NNP	pos2=WP	3	vocative	_	U-PERSON
+2	I	I	PRP	_	3	nsubj	_	O
+3	mentioned	mention	VBD	_	0	root	_	O
+4	marriage	marriage	NN	_	5	compound	_	O
+5	equality	equality	NN	_	6	compound	_	O
+6	movement	movement	NN	_	3	dobj	_	O
+7	not	not	RB	pos2=CC	10	neg	_	O
+8	the	the	DT	_	11	det	_	O
+9	Gay	gay	NNP	_	10	compound	_	B-ORG
+10	Rights	right	NNPS	_	11	compound	_	L-ORG
+11	movement	movement	NN	_	6	appos	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	But	but	CC	_	3	cc	_	O
+2	that	that	DT	_	3	nsubj	_	O
+3	becomes	become	VBZ	_	0	root	_	O
+4	a	a	DT	_	7	det	_	O
+5	whole	whole	JJ	pos2=RB	7	nmod	_	O
+6	different	different	JJ	_	7	nmod	_	O
+7	topic	topic	NN	_	3	attr	_	O
+8	.	.	.	_	3	punct	_	O
+

@@ -1,0 +1,15 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=GW	5	compound	_	U-PRODUCT
+5	video	video	NN	pos2=GW	2	dobj	_	O
+6	https://t.co/Le9wPlcAt0	#hlink#	ADD	pos2=NNP	9	nmod	_	O
+7	DIY	diy	NN	pos2=NNP	8	compound	_	O
+8	Action	action	NN	pos2=NNP	9	compound	_	O
+9	Figures	figure	NNS	pos2=VBZ	5	appos	_	O
+10	with	with	IN	_	9	prep	_	O
+11	3	0	CD	_	13	nmod	_	U-CARDINAL
+12	D	d	NN	pos2=NNP	13	compound	_	O
+13	printing	printing	NN	pos2=VBG	10	pobj	_	O
+14	!	!	.	_	2	punct	_	O
+

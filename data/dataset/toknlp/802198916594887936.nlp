@@ -1,0 +1,25 @@
+1	#BlackLivesMatter	#blacklivesmatter	ADD	pos2=XX	5	punct	_	O
+2	#potus	#potus	UH	pos2=FW	5	discourse	_	O
+3	#HillaryClinton	#hillaryclinton	NNP	pos2=ADD	5	vocative	_	U-PERSON
+4	You	you	PRP	_	5	nsubj	_	O
+5	called	call	VBD	_	0	root	_	O
+6	for	for	IN	_	5	prep	_	O
+7	this	this	DT	_	6	pobj	_	O
+8	.	.	.	_	5	punct	_	O
+
+1	Getting	get	VBG	_	0	root	_	O
+2	what	what	WP	_	4	dobj	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	chanted	chant	VBD	pos2=VBN	1	ccomp	_	O
+5	for	for	IN	_	4	prep	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	Disgraceful	disgraceful	JJ	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	have	have	VBP	_	0	root	_	O
+3	i	I	PRP	_	5	nmod	_	O
+4	…	…	NFP	pos2=-LRB-	5	punct	_	O
+5	https://t.co/fSPL5yyNDA	#hlink#	ADD	_	2	dobj	_	U-ORG
+

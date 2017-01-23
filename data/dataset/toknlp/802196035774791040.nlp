@@ -1,0 +1,13 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	still	still	RB	_	3	advmod	_	O
+3	think	think	VBP	pos2=VB	0	root	_	O
+4	this	this	DT	_	5	nsubj	_	O
+5	is	be	VBZ	_	3	ccomp	_	O
+6	my	my	PRP$	_	7	poss	_	O
+7	favourite	favourite	NN	pos2=JJ	5	attr	_	O
+8	Negan	negan	NNP	pos2=JJ	12	nmod	_	U-PERSON
+9	moment	moment	NN	_	12	dep	_	O
+10	lmao	lmao	GW	pos2=NN	12	nmod	_	O
+11	#TheWalkingDead	#thewalkingdead	GW	pos2=XX	12	nmod	_	O
+12	https://t.co/UzejnmmR5k	#hlink#	ADD	pos2=NN	3	dep	_	O
+

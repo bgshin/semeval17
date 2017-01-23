@@ -1,0 +1,12 @@
+1	What	what	WP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	with	with	IN	_	2	prep	_	O
+4	Dec	dec	NNP	_	3	pobj	_	U-ORG
+5	and	and	CC	_	4	cc	_	O
+6	the	the	DT	_	11	det	_	O
+7	kim	kim	NNP	pos2=NN	11	compound	_	O
+8	jong	jong	NN	pos2=FW	11	compound	_	O
+9	un	un	NNP	pos2=NN	11	compound	_	O
+10	jacket	jacket	NN	_	11	compound	_	O
+11	#imaceleb	#imaceleb	NN	pos2=.	4	conj	_	O
+

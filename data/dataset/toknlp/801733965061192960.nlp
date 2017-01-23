@@ -1,0 +1,19 @@
+1	#Hezbollah	#hezbollah	NNP	pos2=NN	5	nsubj	_	O
+2	&	&	CC	_	1	cc	_	O
+3	#Russia	#russia	NNP	pos2=NN	1	conj	_	O
+4	-	-	HYPH	pos2=:	5	punct	_	O
+5	n	n	JJ	pos2=RP	6	nmod	_	O
+6	officers	officer	NNS	_	7	nsubj	_	O
+7	meet	meet	VBP	pos2=VB	0	root	_	O
+8	for	for	IN	_	7	prep	_	O
+9	the	the	DT	_	11	det	_	O
+10	first	#ord#	JJ	_	11	nmod	_	U-ORDINAL
+11	time	time	NN	_	8	pobj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	#Syria	#syria	NFP	pos2=NNP	14	punct	_	O
+14	Source	source	NN	_	12	pobj	_	O
+15	:	:	:	_	18	punct	_	O
+16	Al	al	NNP	_	18	compound	_	B-ORG
+17	-	-	HYPH	_	18	punct	_	I-ORG
+18	Manar	manar	NNP	_	14	appos	_	L-ORG
+

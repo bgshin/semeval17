@@ -1,0 +1,17 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	#Gaza	#gaza	NNP	pos2=VBN	2	attr	_	U-ORG
+4	under	under	IN	_	3	prep	_	O
+5	#Hamas	#hamas	NNP	pos2=PRP$	8	compound	_	U-ORG
+6	rule	rule	NN	pos2=VB	8	compound	_	O
+7	-	-	HYPH	pos2=:	8	punct	_	O
+8	discrimination	discrimination	NN	_	4	pobj	_	O
+9	against	against	IN	_	8	prep	_	O
+10	#ChristiansWhere	#christianswhere	NN	pos2=ADD	9	pobj	_	O
+11	are	be	VBP	_	2	ccomp	_	O
+12	the	the	DT	_	13	det	_	O
+13	#FreeGaza	#freegaza	NNP	pos2=NNS	16	nmod	_	O
+14	protests?@codepink	protests?@codepink	GW	pos2=NNP	16	nmod	_	O
+15	…	…	NFP	pos2=GW	16	punct	_	O
+16	https://t.co/cS5CAHlDPt	#hlink#	ADD	_	11	attr	_	O
+

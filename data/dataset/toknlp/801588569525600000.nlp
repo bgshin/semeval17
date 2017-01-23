@@ -1,0 +1,8 @@
+1	is	be	VBZ	_	0	root	_	O
+2	there	there	EX	pos2=RB	1	expl	_	O
+3	anyone	anyone	NN	_	1	attr	_	O
+4	worse	bad	JJR	_	3	nmod	_	O
+5	than	than	IN	_	4	prep	_	O
+6	Grayson	grayson	NNP	_	7	compound	_	B-PERSON
+7	Allen	allen	NNP	_	5	pobj	_	L-PERSON
+

@@ -1,0 +1,13 @@
+1	@jpus_br	@jpus_br	UH	pos2=NN	0	root	_	O
+2	@ricky_martin	@ricky_martin	NNP	pos2=IN	4	compound	_	O
+3	Buenos	buenos	NNP	_	4	compound	_	B-PERSON
+4	Dias	dias	NNP	_	1	vocative	_	L-PERSON
+5	!	!	.	_	1	punct	_	O
+
+1	and	and	CC	_	2	cc	_	O
+2	have	have	VB	pos2=VBP	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	great	great	JJ	_	5	nmod	_	O
+5	Friday	friday	NNP	_	2	dobj	_	U-DATE
+6	!!	!!	.	_	2	punct	_	O
+

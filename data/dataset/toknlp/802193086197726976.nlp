@@ -1,0 +1,23 @@
+1	Alert	alert	JJ	pos2=VB	0	root	_	O
+2	among	among	IN	_	1	prep	_	O
+3	DMSC	dmsc	NNP	pos2=NN	2	pobj	_	U-ORG
+4	in	in	IN	_	1	prep	_	O
+5	#Derna	#derna	NNP	pos2=NNS	4	pobj	_	U-GPE
+6	fearing	fear	VBG	_	1	advcl	_	O
+7	an	an	DT	_	8	det	_	O
+8	#ISIS	#isis	NN	pos2=NNP	9	nsubj	_	O
+9	come	come	VB	pos2=VBN	6	ccomp	_	O
+10	back	back	RB	_	9	advmod	_	O
+11	to	to	IN	_	10	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	city	city	NN	_	11	pobj	_	O
+14	after	after	IN	_	9	prep	_	O
+15	being	be	VBG	_	16	auxpass	_	O
+16	defeated	defeat	VBN	_	14	pcomp	_	O
+17	some	some	DT	_	18	det	_	B-DATE
+18	months	month	NNS	_	19	npadvmod	_	I-DATE
+19	ago	ago	RB	_	16	advmod	_	L-DATE
+20	.	.	.	_	1	punct	_	O
+
+1	#Libya	#libya	NNP	pos2=XX	0	root	_	O
+

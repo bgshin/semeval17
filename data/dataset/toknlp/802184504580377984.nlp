@@ -1,0 +1,22 @@
+1	#Israel	#israel	NN	pos2=NNP	3	npadvmod	_	O
+2	-	-	HYPH	pos2=:	3	punct	_	O
+3	Palestinian	palestinian	JJ	_	5	nmod	_	U-NORP
+4	terrorist	terrorist	NN	pos2=JJ	5	compound	_	O
+5	shot	shot	NN	pos2=VBN	0	root	_	O
+6	dead	dead	JJ	pos2=VBN	5	oprd	_	O
+7	by	by	IN	_	5	prep	_	O
+8	#IDF	#idf	VBG	pos2=JJ	7	pcomp	_	U-CARDINAL
+9	soldiers	soldier	NNS	_	10	compound	_	O
+10	moments	moment	NNS	_	8	dobj	_	O
+11	after	after	IN	_	8	prep	_	O
+12	attempted	attempt	VBN	pos2=VBD	14	nmod	_	O
+13	stabbing	stabbing	NN	pos2=VBG	14	compound	_	O
+14	attack	attack	NN	_	11	pobj	_	O
+15	in	in	IN	_	14	prep	_	O
+16	Shuafat	shuafat	NNP	_	17	compound	_	U-GPE
+17	area	area	NN	_	15	pobj	_	O
+18	in	in	IN	_	14	prep	_	O
+19	East	east	NNP	pos2=JJ	20	compound	_	B-GPE
+20	#Jerusalem	#jerusalem	NNP	_	18	pobj	_	L-GPE
+21	.	.	.	_	1	punct	_	O
+

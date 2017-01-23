@@ -1,0 +1,23 @@
+1	I	I	PRP	_	5	nsubj	_	O
+2	honestly	honestly	RB	_	5	advmod	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	know	know	VB	_	0	root	_	O
+6	much	much	JJ	_	5	dobj	_	O
+7	about	about	IN	_	6	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	Italian	italian	JJ	_	10	nmod	_	U-NORP
+10	referensum	referensum	NN	pos2=NNS	7	pobj	_	O
+11	,	,	,	_	5	punct	_	O
+12	but	but	CC	_	5	cc	_	O
+13	anything	anything	NN	_	20	nsubj	_	O
+14	that	that	WDT	_	15	nsubj	_	O
+15	makes	make	VBZ	_	13	relcl	_	O
+16	Marine	marine	NNP	pos2=JJ	18	compound	_	B-ORG
+17	Le	le	NNP	_	18	compound	_	I-ORG
+18	Pen	pen	NNP	_	20	nsubj	_	L-ORG
+19	happy	happy	JJ	_	20	advmod	_	O
+20	scares	scare	VBZ	_	5	conj	_	O
+21	me	me	PRP	_	20	dobj	_	O
+22	https://t.co/42GiUUWXv1	#hlink#	ADD	_	20	dobj	_	U-ORG
+

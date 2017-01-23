@@ -1,0 +1,19 @@
+1	Usher	usher	NNP	pos2=VB	3	vocative	_	U-PERSON
+2	You	you	PRP	pos2=NNP	3	nsubj	_	O
+3	Make	make	VBP	pos2=VB	0	root	_	O
+4	Me	me	PRP	pos2=NNP	6	nsubj	_	O
+5	Wan	wan	NNP	pos2=JJ	6	compound	_	O
+6	na	na	NN	pos2=RB	3	ccomp	_	O
+7	over	over	IN	_	6	prep	_	O
+8	Alicia	alicia	NNP	_	10	poss	_	U-PERSON
+9	's	's	POS	pos2=VBZ	8	case	_	O
+10	Unbreakable	unbreakable	JJ	pos2=NNP	7	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	good	good	JJ	_	2	acomp	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+

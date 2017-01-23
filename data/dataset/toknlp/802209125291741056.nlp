@@ -1,0 +1,16 @@
+1	@megynkelly	@megynkelly	RB	pos2=DT	3	det	_	O
+2	good	good	JJ	_	3	nmod	_	O
+3	adage	adage	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	i	I	PRP	_	2	nsubj	_	O
+2	like	like	VBP	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	slogan	slogan	NN	_	2	dobj	_	O
+5	:	:	:	_	4	punct	_	O
+6	"	"	``	_	9	punct	_	O
+7	Love	love	NNP	pos2=NN	9	compound	_	O
+8	Trumps	trump	NNPS	pos2=NNP	9	compound	_	O
+9	Hate	hate	NNP	pos2=VBP	4	appos	_	O
+10	"	"	''	pos2=``	9	punct	_	O
+

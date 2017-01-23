@@ -1,0 +1,11 @@
+1	@LouDobbs	@loudobbs	NNS	pos2=ADD	2	nsubj	_	O
+2	@realDonaldTrump	@realdonaldtrump	VBP	pos2=ADD	3	ccomp	_	O
+3	@BreitbartNewsWins	@breitbartnewswins	VBZ	pos2=NNP	0	root	_	O
+4	Michigan	michigan	NNP	_	3	dobj	_	U-GPE
+5	in	in	IN	_	3	prep	_	O
+6	a	a	DT	_	7	det	_	O
+7	LANDSLIDE	landslide	NN	_	5	pobj	_	O
+8	!!!	!!	.	_	3	punct	_	O
+
+1	#ElectoralCollege#DrainTheSwamp#MAGA@SheriffClarke	#electoralcollege#draintheswamp#maga@sheriffclarke	UH	pos2=ADD	0	root	_	O
+

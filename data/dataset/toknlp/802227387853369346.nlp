@@ -1,0 +1,20 @@
+1	@LaCroix	@lacroix	UH	pos2=XX	6	discourse	_	O
+2	yeah	yeah	UH	_	6	discourse	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	know	know	VBP	_	6	parataxis	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	understand	understand	VBP	_	0	root	_	O
+7	him	him	PRP	_	6	dobj	_	O
+8	and	and	CC	_	6	cc	_	O
+9	can	can	MD	_	10	aux	_	O
+10	respect	respect	VB	_	6	conj	_	O
+11	as	as	IN	_	10	prep	_	O
+12	such	such	JJ	_	11	pcomp	_	O
+13	is	be	VBZ	_	14	auxpass	_	O
+14	returned	return	VBN	pos2=VBD	10	conj	_	O
+15	@KatrinaNation	@katrinanation	ADD	pos2=XX	14	prep	_	O
+16	@najatvb	@najatvb	NN	pos2=XX	17	compound	_	O
+17	@EPN	@epn	NN	pos2=XX	18	npadvmod	_	O
+18	@TzipiHotovely	@tzipihotovely	RB	pos2=XX	14	advmod	_	O
+19	@poroshenko	@poroshenko	UH	pos2=FW	14	discourse	_	O
+

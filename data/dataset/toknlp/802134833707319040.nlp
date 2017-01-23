@@ -1,0 +1,22 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	had	have	VBD	_	0	root	_	O
+3	no	no	DT	_	5	det	_	O
+4	other	other	JJ	_	5	nmod	_	O
+5	interests	interest	NNS	_	2	dobj	_	O
+6	but	but	CC	pos2=IN	2	cc	_	O
+7	baseball	baseball	NN	_	5	conj	_	O
+8	because	because	IN	_	11	mark	_	O
+9	I	I	PRP	_	11	nsubj	_	O
+10	never	never	RB	_	11	neg	_	O
+11	thought	think	VBD	_	2	conj	_	O
+12	I	I	PRP	_	13	nsubj	_	O
+13	'd	would	MD	pos2=VBD	11	ccomp	_	O
+14	no	no	RB	pos2=UH	13	neg	_	O
+15	.	.	.	_	2	punct	_	O
+
+1	..	..	.	pos2=NFP	0	predet	_	O
+
+1	#JustinVerlander	#justinverlander	GW	pos2=XX	3	nmod	_	O
+2	#quote	#quote	UH	pos2=GW	3	nmod	_	O
+3	https://t.co/vo2E9JQD7h	#hlink#	ADD	pos2=NN	0	root	_	O
+

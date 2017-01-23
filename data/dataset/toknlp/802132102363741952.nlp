@@ -1,0 +1,22 @@
+1	if	if	IN	pos2=SYM	4	mark	_	O
+2	insert	insert	NN	pos2=JJ	3	compound	_	O
+3	coin	coin	NN	_	4	nsubj	_	O
+4	sells	sell	VBZ	_	0	root	_	O
+5	persona	persona	NN	_	4	dobj	_	O
+6	5	0	CD	_	7	nmod	_	U-CARDINAL
+7	gear	gear	NN	pos2=NNS	5	appos	_	O
+8	that	that	WDT	_	9	nsubj	_	O
+9	s	s	VBZ	_	7	relcl	_	O
+10	nice	nice	JJ	_	9	acomp	_	O
+11	and	and	CC	_	10	cc	_	O
+12	not	not	RB	_	14	neg	_	O
+13	super	super	RB	pos2=JJ	14	advmod	_	O
+14	garish	garish	JJ	_	10	conj	_	O
+15	im	im	NN	_	16	nsubj	_	O
+16	dropping	drop	VBG	pos2=NN	14	advcl	_	O
+17	so	so	RB	_	18	advmod	_	O
+18	much	much	JJ	pos2=RB	19	nmod	_	O
+19	coin	coin	NN	_	16	dobj	_	O
+20	on	on	IN	_	16	prep	_	O
+21	it	it	PRP	_	20	pobj	_	O
+

@@ -1,0 +1,18 @@
+1	Grayson	grayson	NNP	_	2	compound	_	B-PERSON
+2	Allen	allen	NNP	_	4	nsubj	_	L-PERSON
+3	could	could	MD	_	4	aux	_	O
+4	sneeze	sneeze	VB	_	0	root	_	O
+5	and	and	CC	_	4	cc	_	O
+6	someone	someone	NN	_	9	nsubjpass	_	O
+7	would	would	MD	_	9	aux	_	O
+8	get	get	VB	_	9	auxpass	_	O
+9	charged	charge	VBN	_	4	conj	_	O
+10	with	with	IN	_	9	prep	_	O
+11	a	a	DT	_	12	det	_	O
+12	foul	foul	NN	_	10	pobj	_	O
+13	for	for	IN	_	12	prep	_	O
+14	giving	give	VBG	_	13	pcomp	_	O
+15	him	him	PRP	_	14	dative	_	O
+16	a	a	DT	_	17	det	_	O
+17	cold	cold	JJ	pos2=NN	14	dobj	_	O
+

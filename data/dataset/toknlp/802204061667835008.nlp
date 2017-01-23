@@ -1,0 +1,28 @@
+1	Let	let	VB	_	0	root	_	O
+2	's	's	PRP	_	3	nsubj	_	O
+3	stop	stop	VB	_	1	ccomp	_	O
+4	parsing	parse	VBG	pos2=NN	3	xcomp	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	Just	just	RB	_	3	advmod	_	O
+2	as	as	IN	pos2=RB	0	root	_	O
+3	#AltRight	#altright	NN	pos2=ADD	5	nsubj	_	O
+4	=	=	SYM	_	5	punct	_	O
+5	Nazi	nazi	NNP	pos2=JJ	2	pobj	_	U-NORP
+6	,	,	,	_	2	punct	_	O
+7	populist	populist	JJ	pos2=NN	9	advmod	_	O
+8	=	=	SYM	pos2=-LRB-	9	punct	_	O
+9	anti-immigrant	anti-immigrant	JJ	_	11	nmod	_	O
+10	white	white	JJ	_	11	nmod	_	O
+11	supremacist	supremacist	NN	_	5	conj	_	O
+12	.	.	.	_	11	punct	_	O
+
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	simple	simple	JJ	_	2	acomp	_	O
+4	,	,	,	_	7	punct	_	O
+5	irrefutable	irrefutable	JJ	_	7	nmod	_	O
+6	historical	historical	JJ	_	7	nmod	_	O
+7	fact	fact	NN	_	0	root	_	O
+8	.	.	.	_	7	punct	_	O
+

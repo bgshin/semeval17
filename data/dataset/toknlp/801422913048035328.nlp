@@ -1,0 +1,23 @@
+1	@Securityconcern	@securityconcern	XX	pos2=NN	6	dep	_	O
+2	@JRH123OK	@jrh0ok	NN	pos2=XX	6	dep	_	O
+3	In	in	IN	pos2=RP	2	prep	_	O
+4	#SRAmyth	#sramyth	XX	pos2=NNP	3	pobj	_	O
+5	there	there	EX	_	6	expl	_	O
+6	's	's	VBZ	_	0	root	_	O
+7	a	a	DT	_	11	det	_	O
+8	circular	circular	JJ	_	11	nmod	_	O
+9	connection	connection	NN	_	11	compound	_	O
+10	twixt	twixt	NN	pos2=IN	11	compound	_	O
+11	Fundies	fundies	NNS	pos2=NNP	6	attr	_	O
+12	&	&	CC	_	11	cc	_	O
+13	Atheists	atheist	NNS	pos2=NNPS	11	conj	_	O
+14	,	,	,	_	13	punct	_	O
+15	Feminists	feminist	NNS	pos2=NNPS	13	conj	_	B-ORG
+16	&	&	CC	_	15	cc	_	I-ORG
+17	Fundies	fundies	NNS	pos2=NNPS	15	conj	_	L-ORG
+18	,	,	,	_	15	punct	_	O
+19	Leftists	leftist	NNPS	pos2=NNS	15	conj	_	O
+20	&	&	CC	_	19	cc	_	O
+21	Rightists	rightist	NNPS	pos2=NNS	19	conj	_	O
+22	.	.	.	_	6	punct	_	O
+

@@ -1,0 +1,26 @@
+1	@SSWorks	@ssworks	NNS	pos2=VBZ	14	nsubj	_	O
+2	@Thom_Hartmann	@thom_hartmann	ADD	pos2=XX	14	punct	_	O
+3	If	if	IN	_	5	mark	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	's	's	VBZ	_	14	advcl	_	O
+6	anything	anything	NN	_	5	attr	_	O
+7	like	like	IN	_	6	prep	_	O
+8	medicaid	medicaid	NN	pos2=VBG	7	pobj	_	O
+9	most	most	JJS	pos2=RBS	11	nmod	_	O
+10	healthcare	healthcare	NN	_	11	compound	_	O
+11	specialists	specialist	NNS	_	14	nsubj	_	O
+12	wo	wo	MD	_	14	aux	_	O
+13	n't	not	RB	_	14	neg	_	O
+14	accept	accept	VB	_	0	root	_	O
+15	it	it	PRP	_	14	dobj	_	O
+16	...	..	.	_	14	punct	_	O
+
+1	bring	bring	VB	_	0	root	_	O
+2	down	down	RP	pos2=RB	1	prt	_	O
+3	drug	drug	NN	_	4	compound	_	O
+4	prices	price	NNS	_	1	dobj	_	O
+5	...	..	.	pos2=,	1	punct	_	O
+
+1	better	good	JJR	pos2=RBR	2	advmod	_	O
+2	start	start	VB	pos2=NN	0	root	_	O
+

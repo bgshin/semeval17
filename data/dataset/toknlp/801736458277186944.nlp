@@ -1,0 +1,16 @@
+1	On	on	IN	_	0	root	_	O
+2	my	my	PRP$	_	3	poss	_	O
+3	way	way	NN	_	1	pobj	_	O
+4	to	to	IN	_	3	prep	_	O
+5	Bloemfontein	bloemfontein	NNP	_	4	pobj	_	U-GPE
+6	for	for	IN	_	3	prep	_	O
+7	opening	opening	NN	pos2=VBG	6	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	Verlander	verlander	NNP	_	11	compound	_	U-CARDINAL
+10	-	-	HYPH	_	11	punct	_	O
+11	exhibition	exhibition	NN	_	8	pobj	_	O
+12	.	.	.	_	11	punct	_	O
+
+1	@DutchCulture	@dutchculture	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/0iGVXobTF7	#hlink#	ADD	_	0	root	_	O
+

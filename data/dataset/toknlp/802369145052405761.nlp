@@ -1,0 +1,25 @@
+1	Bob	bob	NNP	_	2	compound	_	B-PERSON
+2	Dylan	dylan	NNP	_	5	poss	_	I-PERSON
+3	's	's	POS	pos2=VBZ	2	case	_	L-PERSON
+4	"	"	``	_	5	punct	_	O
+5	Sara	sara	NNP	_	22	nsubj	_	U-WORK_OF_ART
+6	"	"	''	_	5	punct	_	O
+7	-	-	,	pos2=:	5	punct	_	O
+8	the	the	DT	_	9	det	_	O
+9	kind	kind	NN	_	5	appos	_	O
+10	of	of	IN	_	9	prep	_	O
+11	melody	melody	NN	_	10	pobj	_	O
+12	that	that	WDT	_	13	nsubj	_	O
+13	stands	stand	VBZ	_	9	relcl	_	O
+14	up	up	RP	_	13	prt	_	O
+15	and	and	CC	_	13	cc	_	O
+16	slaps	slap	VBZ	_	13	conj	_	O
+17	you	you	PRP	_	16	dobj	_	O
+18	in	in	IN	_	16	prep	_	O
+19	the	the	DT	_	20	det	_	O
+20	face	face	NN	_	18	pobj	_	O
+21	it	it	PRP	_	22	nsubj	_	O
+22	's	's	VBZ	_	0	root	_	O
+23	so	so	RB	_	24	advmod	_	O
+24	beautiful	beautiful	JJ	_	22	acomp	_	O
+

@@ -1,0 +1,17 @@
+1	Saw	see	VBD	pos2=VB	0	root	_	O
+2	@BaFana3	@bafana0	NN	pos2=PRP	4	poss	_	O
+3	's	's	POS	_	2	case	_	O
+4	name	name	NN	_	1	dobj	_	O
+5	on	on	IN	_	1	prep	_	O
+6	new	new	JJ	_	7	nmod	_	O
+7	wikileaks	wikileaks	NNS	pos2=NN	5	pobj	_	O
+8	documens	documens	FW	pos2=NNS	4	appos	_	O
+9	about	about	IN	pos2=RB	1	prep	_	O
+10	#Yemen	#yemen	NNP	pos2=NNS	9	pobj	_	U-GPE
+11	.	.	.	_	1	punct	_	O
+
+1	Intresting	intresting	JJ	pos2=VBG	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	https://t.co/31XyNmFWtz	#hlink#	ADD	_	0	root	_	U-ORG
+

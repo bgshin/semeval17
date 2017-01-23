@@ -1,0 +1,22 @@
+1	@unprisonplanet	@unprisonplanet	UH	pos2=NN	16	discourse	_	O
+2	@WoffordN	@woffordn	ADD	pos2=NNP	16	cc	_	B-PERSON
+3	@Cernovich	@cernovich	NNP	pos2=WDT	16	nsubj	_	L-PERSON
+4	@BreitbartNews	@breitbartnews	ADD	pos2=VBZ	3	appos	_	O
+5	@thedailybeast	@thedailybeast	UH	pos2=ADD	9	discourse	_	O
+6	I	I	PRP	_	9	nsubj	_	O
+7	would	would	MD	_	9	aux	_	O
+8	n't	not	RB	_	9	neg	_	O
+9	know	know	VB	_	4	ccomp	_	O
+10	about	about	IN	_	9	prep	_	O
+11	any	any	DT	_	12	det	_	O
+12	rightists	rightist	NNS	_	10	pobj	_	O
+13	in	in	IN	_	12	prep	_	O
+14	gov	gov	NN	_	13	pobj	_	O
+15	,	,	,	_	16	punct	_	O
+16	cucks	cucks	VBZ	pos2=NNS	0	root	_	O
+17	yes	yes	UH	_	16	discourse	_	O
+18	,	,	,	_	16	punct	_	O
+19	but	but	CC	_	16	cc	_	O
+20	no	no	DT	_	21	det	_	O
+21	rightists	rightist	NNS	_	16	conj	_	O
+

@@ -1,0 +1,23 @@
+1	Frank	frank	NNP	_	2	nsubj	_	U-PERSON
+2	got	get	VBD	_	0	root	_	O
+3	me	me	PRP	_	4	nsubj	_	O
+4	looking	look	VBG	_	2	ccomp	_	O
+5	at	at	IN	_	4	prep	_	O
+6	racing	racing	NN	pos2=VBG	7	compound	_	O
+7	helmets	helmet	NNS	_	5	pobj	_	O
+8	throughly	throughly	RB	_	4	advmod	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	😂😂	😂😂	``	pos2=NFP	4	punct	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	'm	be	VBP	_	4	aux	_	O
+4	diving	dive	VBG	_	0	root	_	O
+5	deep	deep	RB	pos2=JJ	6	advmod	_	O
+6	into	into	IN	_	4	prep	_	O
+7	automobile	automobile	NN	_	8	compound	_	O
+8	culture	culture	NN	_	6	pobj	_	O
+9	,	,	,	_	4	punct	_	O
+10	learning	learn	VBG	_	4	conj	_	O
+11	German	german	JJ	_	12	nmod	_	U-NORP
+12	slang	slang	NN	_	10	dobj	_	O
+

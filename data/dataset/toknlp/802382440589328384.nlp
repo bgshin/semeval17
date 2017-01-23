@@ -1,0 +1,21 @@
+1	@PatDollard	@patdollard	ADD	pos2=NNP	4	punct	_	O
+2	@JVER1	@jver0	NN	pos2=IN	3	compound	_	O
+3	DEMS	dems	NNPS	pos2=NNS	4	nsubj	_	U-NORP
+4	ARE	be	VBP	_	0	root	_	O
+5	THE	the	DT	_	6	det	_	O
+6	PARTY	party	NN	pos2=NNP	4	attr	_	O
+7	OF	of	IN	pos2=TO	6	prep	_	O
+8	HATE	hate	NN	pos2=NNP	9	compound	_	O
+9	DIVISION	division	NN	pos2=NNP	12	compound	_	O
+10	UNEMPLOYMENT	unemployment	NN	_	11	compound	_	O
+11	CORRUPTION	corruption	NN	_	12	compound	_	O
+12	WELFARE	welfare	NN	pos2=VB	7	pobj	_	O
+13	DUMB	dumb	JJ	pos2=NNP	16	nmod	_	O
+14	DOWN	down	RP	pos2=IN	15	nmod	_	O
+15	EDUCATION	education	NN	pos2=NNP	16	compound	_	O
+16	NEED	need	NN	pos2=VBP	6	conj	_	O
+17	TO	to	TO	_	18	aux	_	O
+18	SAY	say	VB	_	16	acl	_	O
+19	MORE	more	JJR	pos2=ADD	18	dobj	_	O
+20	?	?	.	_	4	punct	_	O
+

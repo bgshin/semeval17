@@ -1,0 +1,24 @@
+1	A	a	DT	_	5	det	_	O
+2	dedicated	dedicated	JJ	pos2=VBN	5	nmod	_	O
+3	Team	team	NNP	pos2=NN	5	compound	_	B-ORG
+4	PKR	pkr	NNP	_	5	compound	_	I-ORG
+5	Tebrau	tebrau	NNP	_	6	nsubj	_	L-ORG
+6	has	have	VBZ	_	0	root	_	O
+7	over	over	IN	pos2=RB	12	prep	_	O
+8	the	the	DT	_	11	det	_	B-DATE
+9	last	last	JJ	_	11	nmod	_	I-DATE
+10	2	0	CD	_	11	nmod	_	I-DATE
+11	years	year	NNS	_	7	pobj	_	L-DATE
+12	brought	bring	VBN	pos2=VBD	0	root	_	O
+13	voter	voter	NN	_	15	compound	_	O
+14	registration	registration	NN	_	15	compound	_	O
+15	services	service	NNS	_	12	dobj	_	O
+16	to	to	IN	_	12	prep	_	O
+17	the	the	DT	_	18	det	_	O
+18	Rakyat	rakyat	NNP	_	16	pobj	_	O
+19	of	of	IN	_	18	prep	_	O
+20	South	south	NNP	pos2=NNPS	19	pobj	_	U-LOC
+21	...	..	.	pos2=,	6	punct	_	O
+
+1	https://t.co/aLOsIbw0Mw	#hlink#	ADD	_	0	root	_	U-ORG
+

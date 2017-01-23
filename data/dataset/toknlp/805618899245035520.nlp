@@ -1,0 +1,19 @@
+1	@mgdempsey11	@mgdempsey0	NN	pos2=LS	2	compound	_	O
+2	@JuliaR1414	@juliar0	NN	pos2=NNS	7	nsubj	_	O
+3	@politico	@politico	UH	pos2=XX	2	discourse	_	O
+4	@BetsyDeVos	@betsydevos	NNPS	pos2=VBZ	2	appos	_	O
+5	Unless	unless	IN	_	7	mark	_	O
+6	the	the	DT	_	9	det	_	O
+7	are	be	VBP	_	0	root	_	O
+8	AA	aa	NN	pos2=JJ	9	compound	_	O
+9	churches	church	NNS	_	7	attr	_	O
+10	doing	do	VBG	_	9	acl	_	O
+11	voter	voter	NN	_	12	compound	_	O
+12	registration	registration	NN	_	13	compound	_	O
+13	drives	drive	NNS	pos2=VBZ	10	dobj	_	O
+14	or	or	CC	_	10	cc	_	O
+15	endorsing	endorse	VBG	_	10	conj	_	O
+16	a	a	DT	_	17	det	_	O
+17	democrat	democrat	NN	pos2=NNP	15	dobj	_	U-NORP
+18	.	.	.	_	7	punct	_	O
+

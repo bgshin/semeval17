@@ -1,0 +1,22 @@
+1	Beppe	beppe	NNP	_	2	compound	_	B-PERSON
+2	Grillo	grillo	NNP	_	12	vocative	_	L-PERSON
+3	"	"	``	pos2=''	5	punct	_	O
+4	A	a	DT	_	5	det	_	O
+5	lesson	lesson	NN	_	2	appos	_	O
+6	for	for	IN	_	5	prep	_	O
+7	all	all	DT	pos2=RB	6	pobj	_	O
+8	:	:	:	_	12	punct	_	O
+9	you	you	PRP	_	12	nsubj	_	O
+10	can	can	MD	_	12	aux	_	O
+11	not	not	RB	_	12	neg	_	O
+12	lie	lie	VB	_	0	root	_	O
+13	to	to	IN	_	12	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	people	people	NNS	_	13	pobj	_	O
+16	forever	forever	RB	_	12	advmod	_	O
+17	without	without	IN	_	12	prep	_	O
+18	suffering	suffer	VBG	pos2=NN	17	pcomp	_	O
+19	consequences	consequence	NNS	_	18	dobj	_	O
+20	"	"	''	pos2=``	12	punct	_	O
+21	https://t.co/Z1O93m5zJ1	#hlink#	ADD	pos2=NN	12	dep	_	O
+

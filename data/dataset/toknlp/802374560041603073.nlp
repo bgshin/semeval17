@@ -1,0 +1,16 @@
+1	These	these	DT	_	2	det	_	O
+2	people	people	NNS	_	3	nsubj	_	O
+3	keep	keep	VBP	pos2=VB	0	root	_	O
+4	shadow	shadow	NN	pos2=VBG	5	compound	_	O
+5	boxing	boxing	NN	pos2=VBG	7	nmod	_	O
+6	imaginary	imaginary	JJ	_	7	nmod	_	O
+7	leftists	leftist	NNS	_	3	dobj	_	O
+8	thinking	think	VBG	_	7	acl	_	O
+9	they	they	PRP	_	10	nsubj	_	O
+10	're	be	VBP	_	8	ccomp	_	O
+11	heavy	heavy	JJ	_	13	nmod	_	O
+12	weight	weight	NN	_	13	compound	_	O
+13	champs	champ	NNS	pos2=JJ	15	nmod	_	O
+14	smh	smh	GW	pos2=XX	15	nmod	_	O
+15	https://t.co/9OBDrhHuhK	#hlink#	ADD	pos2=NN	10	dep	_	O
+

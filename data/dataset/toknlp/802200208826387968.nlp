@@ -1,0 +1,27 @@
+1	Hey	hey	UH	_	5	discourse	_	O
+2	#ISIS	#isis	NN	pos2=NNP	5	vocative	_	O
+3	-	-	:	pos2=,	5	punct	_	O
+4	pretty	pretty	RB	_	5	advmod	_	O
+5	hard	hard	JJ	pos2=RB	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	beat	beat	VB	_	5	advcl	_	O
+8	us	us	PRP	_	7	dobj	_	O
+9	at	at	IN	_	7	prep	_	O
+10	our	our	PRP$	_	12	poss	_	O
+11	#BlackFriday	#blackfriday	NN	pos2=NNP	12	compound	_	O
+12	pricing	pricing	NN	pos2=VBG	9	pobj	_	O
+13	!!!	!!	.	_	5	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	blow	blow	VBP	pos2=VB	0	root	_	O
+3	up	up	RP	pos2=RB	2	prt	_	O
+4	when	when	WRB	_	6	advmod	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	comes	come	VBZ	_	2	advcl	_	O
+7	to	to	IN	_	6	prep	_	O
+8	decadent	decadent	JJ	_	9	nmod	_	O
+9	capitalism	capitalism	NN	_	7	pobj	_	O
+10	!!!	!!	.	_	2	punct	_	O
+
+1	#TrumpsBlackFriday	#trumpsblackfriday	NNP	pos2=NN	0	root	_	O
+

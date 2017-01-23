@@ -1,0 +1,17 @@
+1	Alba	alba	NNP	_	4	nsubj	_	U-GPE
+2	the	the	DT	_	3	det	_	O
+3	dog	dog	NN	_	4	nsubj	_	O
+4	wants	want	VBZ	_	0	root	_	O
+5	more	more	JJR	_	6	nmod	_	O
+6	detail	detail	NN	_	4	dobj	_	O
+7	on	on	IN	_	6	prep	_	O
+8	Brexit	brexit	NNP	pos2=DT	9	compound	_	U-ORG
+9	policy	policy	NN	_	7	pobj	_	O
+10	prior	prior	JJ	pos2=RB	11	advmod	_	O
+11	to	to	IN	_	6	prep	_	O
+12	Article	article	NN	_	11	pobj	_	B-LAW
+13	50	0	CD	_	12	nmod	_	I-LAW
+14	notification	notification	NN	_	15	compound	_	I-LAW
+15	#sadnessinhereyes	#sadnessinhereyes	NNS	pos2=IN	16	dep	_	I-LAW
+16	https://t.co/koBZrBxc1D	#hlink#	ADD	_	12	appos	_	L-LAW
+

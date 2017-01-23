@@ -1,0 +1,22 @@
+1	DYK	dyk	NNP	pos2=NN	0	root	_	U-ORG
+2	?	?	.	_	1	punct	_	O
+
+1	Our	our	PRP$	_	2	poss	_	O
+2	soap	soap	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	#crueltyfree	#crueltyfree	NNP	pos2=ADD	3	attr	_	B-ORG
+5	&	&	CC	_	4	cc	_	I-ORG
+6	#vegan	#vegan	NNP	pos2=ADD	4	conj	_	L-ORG
+7	,	,	,	_	4	punct	_	O
+8	which	which	WDT	_	9	nsubj	_	O
+9	means	mean	VBZ	_	4	relcl	_	O
+10	absolutely	absolutely	RB	_	13	advmod	_	O
+11	no	no	DT	_	13	det	_	O
+12	animal	animal	NN	_	13	compound	_	O
+13	products	product	NNS	_	9	dobj	_	O
+14	or	or	CC	_	13	cc	_	O
+15	testing	testing	NN	_	13	conj	_	O
+16	!	!	.	_	3	punct	_	O
+
+1	#NoMoreDirtyHands	#nomoredirtyhands	NNS	pos2=ADD	0	root	_	O
+

@@ -1,0 +1,18 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@calreid	@calreid	FW	pos2=UH	2	nsubj	_	O
+2	opens	open	VBZ	_	0	root	_	O
+3	our	our	PRP$	_	4	poss	_	O
+4	panel	panel	NN	_	2	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	#NBAwards	#nbawards	``	pos2=NNS	11	punct	_	O
+7	Young	young	NNP	_	8	compound	_	B-ORG
+8	People	people	NNP	pos2=NNPS	11	poss	_	I-ORG
+9	's	's	POS	_	8	case	_	I-ORG
+10	Literature	literature	NNP	pos2=NN	11	compound	_	L-ORG
+11	authors	author	NNS	_	5	pobj	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	#MiamiBookFair2016	#miamibookfair0	NN	pos2=ADD	2	dep	_	O
+2	https://t.co/DVBDYM5bIg	#hlink#	ADD	pos2=NN	0	root	_	O
+

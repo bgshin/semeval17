@@ -1,0 +1,12 @@
+1	Going	go	VBG	_	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	watch	watch	VB	_	1	xcomp	_	O
+4	#FantasticBeasts	#fantasticbeasts	VBG	pos2=NNS	3	dobj	_	O
+5	tomorrow	tomorrow	NN	_	3	npadvmod	_	U-DATE
+6	!	!	.	_	1	punct	_	O
+
+1	\	\	SYM	pos2=-RRB-	4	punct	_	O
+2	o	o	SYM	pos2=RP	4	punct	_	O
+3	/	/	SYM	pos2=HYPH	4	punct	_	O
+4	@jk_rowling	@jk_rowling	NN	pos2=VBG	0	root	_	O
+

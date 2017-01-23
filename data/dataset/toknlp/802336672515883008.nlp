@@ -1,0 +1,17 @@
+1	Millennials	millennial	NNS	pos2=NNPS	6	prt	_	O
+2	,	,	,	_	1	punct	_	O
+3	perpetual	perpetual	JJ	_	5	nmod	_	O
+4	petulant	petulant	JJ	_	5	nmod	_	O
+5	children	child	NNS	_	1	appos	_	O
+6	,	,	,	_	0	root	_	O
+7	The	the	DT	_	9	det	_	O
+8	Daycare	daycare	NNP	pos2=NN	9	compound	_	O
+9	Generation	generation	NN	pos2=NNP	1	appos	_	O
+10	.	.	.	_	1	punct	_	O
+
+1	#p2	#p0	NN	pos2=LS	5	dep	_	O
+2	#tcot	#tcot	UH	pos2=IN	1	discourse	_	O
+3	#maga	#maga	UH	pos2=FW	1	discourse	_	O
+4	#trump	#trump	TO	pos2=UH	5	det	_	O
+5	protest	protest	NN	pos2=VB	0	root	_	O
+

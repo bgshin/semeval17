@@ -1,0 +1,23 @@
+1	@BorisMahogany	@borismahogany	VB	pos2=PDT	0	root	_	O
+2	the	the	DT	_	4	det	_	O
+3	horsehoe	horsehoe	NN	pos2=JJ	4	compound	_	O
+4	theory	theory	NN	_	1	dobj	_	O
+5	AND	and	CC	_	4	cc	_	O
+6	the	the	DT	_	8	det	_	O
+7	bell	bell	NN	pos2=JJ	8	compound	_	O
+8	curve	curve	NN	_	4	conj	_	O
+9	.	.	.	_	1	punct	_	O
+
+1	mmm	mmm	UH	pos2=SYM	4	discourse	_	O
+2	this	this	DT	_	4	nsubj	_	O
+3	will	will	MD	_	4	aux	_	O
+4	put	put	VB	_	0	root	_	O
+5	those	those	DT	_	8	det	_	O
+6	alt	alt	JJ	pos2=NN	8	nmod	_	O
+7	-	-	HYPH	_	8	punct	_	O
+8	rightists	rightist	NNS	_	4	dobj	_	O
+9	to	to	IN	pos2=TO	4	prep	_	O
+10	task	task	NN	_	11	compound	_	O
+11	boy	boy	NN	pos2=UH	12	compound	_	O
+12	howdy	howdy	NN	pos2=UH	9	pobj	_	O
+

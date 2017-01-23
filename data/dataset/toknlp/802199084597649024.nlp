@@ -1,0 +1,15 @@
+1	#DayAfterThanksgiving	#dayafterthanksgiving	VBG	pos2=NNP	5	advcl	_	O
+2	Steve	steve	NNP	_	3	compound	_	B-PERSON
+3	Bannon	bannon	NNP	_	1	dobj	_	L-PERSON
+4	is	be	VBZ	_	5	aux	_	O
+5	asking	ask	VBG	_	0	root	_	O
+6	Trump	trump	NNP	pos2=NN	5	dobj	_	U-ORG
+7	why	why	WRB	_	11	advmod	_	O
+8	ca	can	MD	_	11	aux	_	O
+9	n't	not	RB	_	11	neg	_	O
+10	it	it	PRP	_	11	nsubj	_	O
+11	be	be	VB	_	5	ccomp	_	O
+12	White	white	NNP	pos2=JJ	13	compound	_	O
+13	Friday	friday	NNP	_	11	attr	_	U-DATE
+14	.	.	.	_	5	punct	_	O
+

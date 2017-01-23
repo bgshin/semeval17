@@ -1,0 +1,17 @@
+1	Today	today	NN	pos2=NNP	4	poss	_	U-DATE
+2	's	's	POS	_	1	case	_	O
+3	Tesla	tesla	NNP	_	4	compound	_	U-ORG
+4	cars	car	NNS	pos2=NNPS	6	nsubj	_	O
+5	will	will	MD	_	6	aux	_	O
+6	become	become	VB	_	0	root	_	O
+7	tomorrow	tomorrow	NN	_	10	poss	_	U-DATE
+8	's	's	POS	_	7	case	_	O
+9	self-driving	self-driving	JJ	_	10	nmod	_	O
+10	cars	car	NNS	_	6	attr	_	O
+11	(	(	-LRB-	_	10	punct	_	O
+12	CNET	cnet	NN	pos2=NNP	13	compound	_	O
+13	Update	update	NN	pos2=NNP	10	appos	_	O
+14	)	)	-RRB-	_	10	punct	_	O
+15	#windowsphone	#windowsphone	ADD	pos2=IN	16	nmod	_	O
+16	https://t.co/Y2IrKhPhpp	#hlink#	ADD	pos2=NN	6	dep	_	O
+

@@ -1,0 +1,21 @@
+1	How	how	WRB	_	7	advmod	_	O
+2	can	can	MD	_	7	aux	_	O
+3	so	so	RB	_	5	advmod	_	O
+4	-	-	HYPH	_	5	punct	_	O
+5	called	call	VBN	_	6	nmod	_	O
+6	conservatives	conservative	NNS	_	7	nsubj	_	O
+7	be	be	VB	pos2=VBP	0	root	_	O
+8	fine	fine	JJ	_	7	acomp	_	O
+9	with	with	IN	_	8	prep	_	O
+10	Russia	russia	NNP	_	11	nsubj	_	U-GPE
+11	intervening	intervene	VBG	_	9	pcomp	_	O
+12	repeatedly	repeatedly	RB	_	11	advmod	_	O
+13	in	in	IN	_	11	prep	_	O
+14	our	our	PRP$	_	15	poss	_	O
+15	election	election	NN	_	13	pobj	_	O
+16	?	?	.	_	7	punct	_	O
+
+1	#AuditTheVote	#auditthevote	UH	pos2=ADD	3	discourse	_	O
+2	#recount	#recount	UH	pos2=VB	3	discourse	_	O
+3	#recount2016	#recount0	NN	pos2=UH	0	root	_	O
+

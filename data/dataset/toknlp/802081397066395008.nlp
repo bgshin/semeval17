@@ -1,0 +1,15 @@
+1	Preparing	prepare	VBG	_	14	advcl	_	O
+2	for	for	IN	_	1	prep	_	O
+3	#Advent	#advent	NNP	pos2=NN	2	pobj	_	O
+4	at	at	IN	_	1	prep	_	O
+5	Redeemer	redeemer	NNP	_	7	compound	_	B-ORG
+6	Church	church	NNP	_	7	compound	_	L-ORG
+7	#Jerusalem	#jerusalem	NNP	pos2=POS	4	pobj	_	O
+8	today!#ELCJHL	today!#elcjhl	ADD	pos2=XX	14	dep	_	O
+9	#Christmas	#christmas	NNP	pos2=NNS	12	dep	_	B-ORG
+10	@	@	SYM	pos2=IN	12	punct	_	I-ORG
+11	Lutheran	lutheran	NNP	_	12	compound	_	I-ORG
+12	Church	church	NNP	pos2=GW	14	dep	_	L-ORG
+13	…	…	NFP	pos2=GW	14	punct	_	O
+14	https://t.co/maAoxrk1qM	#hlink#	ADD	_	0	root	_	U-GPE
+

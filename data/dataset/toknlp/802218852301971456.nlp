@@ -1,0 +1,6 @@
+1	Reife	reife	NNP	pos2=JJ	5	nmod	_	B-ORG
+2	Thai	thai	NNP	pos2=JJ	5	dep	_	I-ORG
+3	Girl	girl	NNP	pos2=NN	4	compound	_	L-ORG
+4	#Friedrichshafen	#friedrichshafen	NNP	pos2=POS	5	dep	_	O
+5	https://t.co/iyb2StS55y	#hlink#	ADD	_	0	root	_	O
+

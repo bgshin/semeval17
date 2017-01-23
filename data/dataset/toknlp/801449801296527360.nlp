@@ -1,0 +1,23 @@
+1	Science	science	NN	pos2=NNP	2	compound	_	O
+2	shud	shud	NN	pos2=TO	3	nsubj	_	O
+3	probe	probe	VB	pos2=NN	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	genetic	genetic	JJ	_	6	nmod	_	O
+6	difference	difference	NN	_	3	dobj	_	O
+7	between	between	IN	_	6	prep	_	O
+8	the	the	DT	_	11	det	_	O
+9	two	#crd#	CD	_	10	nmod	_	U-CARDINAL
+10	base	base	NN	_	11	compound	_	O
+11	type	type	NN	_	7	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	PPL	ppl	NNP	_	12	pobj	_	U-ORG
+14	,	,	,	_	3	punct	_	O
+15	by	by	IN	_	3	prep	_	O
+16	their	their	PRP$	_	18	poss	_	O
+17	world	world	NN	_	18	compound	_	O
+18	view:Rightists	view:rightists	NNS	pos2=NNPS	15	pobj	_	O
+19	&	&	CC	_	18	cc	_	O
+20	LEFTISTS	leftist	NNS	_	18	conj	_	O
+21	:	:	:	_	3	punct	_	O
+22	https://t.co/Eh0C879rbw	#hlink#	ADD	pos2=NN	3	dep	_	O
+

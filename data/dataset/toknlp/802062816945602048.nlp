@@ -1,0 +1,15 @@
+1	Hashid	hashid	NNP	pos2=FW	4	compound	_	B-PERSON
+2	al	al	NNP	_	4	compound	_	I-PERSON
+3	-	-	HYPH	_	4	punct	_	I-PERSON
+4	Shaabi	shaabi	NNP	_	6	compound	_	L-PERSON
+5	militia	militia	NN	_	6	compound	_	O
+6	control	control	NN	_	8	nsubj	_	O
+7	3	0	CD	_	8	nmod	_	U-CARDINAL
+8	villages	village	NNS	_	0	root	_	O
+9	West	west	RB	pos2=NNP	8	advmod	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Mosul	mosul	NNP	_	10	pobj	_	U-GPE
+12	...	..	.	pos2=,	8	punct	_	O
+
+1	#MosulOffensive	#mosuloffensive	ADD	pos2=JJ	0	root	_	O
+

@@ -1,0 +1,20 @@
+1	Hunter	hunter	NNP	_	2	compound	_	B-PERSON
+2	Verlander	verlander	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	man	man	NN	_	3	attr	_	O
+6	...	..	.	_	3	punct	_	O
+
+1	no	no	DT	pos2=RB	2	det	_	O
+2	doubt	doubt	NN	_	0	root	_	O
+3	about	about	IN	_	2	prep	_	O
+4	it	it	PRP	_	3	pobj	_	O
+5	!	!	.	_	2	punct	_	O
+
+1	Watch	watch	VB	_	0	root	_	O
+2	him	him	PRP	_	3	nsubj	_	O
+3	fly	fly	VB	pos2=GW	1	ccomp	_	O
+4	on	on	IN	pos2=GW	3	prep	_	O
+5	https://t.co/k2nr3qkjD1	#hlink#	ADD	_	4	pobj	_	O
+6	https://t.co/mVyRb5p0or	#hlink#	ADD	_	1	dep	_	U-ORG
+

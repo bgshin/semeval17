@@ -1,0 +1,30 @@
+1	A	a	DT	_	3	det	_	O
+2	short	short	JJ	_	3	nmod	_	O
+3	piece	piece	NN	_	0	root	_	O
+4	on	on	IN	_	3	prep	_	O
+5	the	the	DT	_	12	det	_	O
+6	to	to	TO	_	8	aux	_	O
+7	be	be	VB	_	8	auxpass	_	O
+8	presented	present	VBN	_	12	nmod	_	O
+9	Shariah	shariah	NNP	_	12	nmod	_	O
+10	compliant	compliant	JJ	_	12	nmod	_	O
+11	gold	gold	NN	pos2=JJ	12	compound	_	O
+12	standard	standard	NN	_	4	pobj	_	O
+13	.	.	.	_	3	punct	_	O
+
+1	V	v	NN	pos2=JJ	2	compound	_	O
+2	imp	imp	NN	_	4	nsubj	_	O
+3	to	to	TO	_	4	aux	_	O
+4	get	get	VB	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	grip	grip	NN	_	4	dobj	_	O
+7	on	on	IN	pos2=RB	6	prep	_	O
+8	.....	..	.	pos2=,	4	punct	_	O
+
+1	if	if	IN	_	2	mark	_	O
+2	having	have	VBG	_	6	advcl	_	O
+3	any	any	DT	pos2=GW	5	det	_	O
+4	inte	inte	FW	pos2=NN	6	nmod	_	O
+5	…	…	NFP	pos2=-LRB-	6	punct	_	O
+6	https://t.co/ibhYSCM6NX	#hlink#	ADD	_	0	root	_	U-GPE
+

@@ -1,0 +1,9 @@
+1	The	the	DT	_	3	det	_	B-WORK_OF_ART
+2	Long	long	NNP	pos2=JJ	3	compound	_	I-WORK_OF_ART
+3	Journey	journey	NNP	pos2=NN	8	nmod	_	L-WORK_OF_ART
+4	https://t.co/sTGuUrug4M	#hlink#	ADD	_	8	nmod	_	O
+5	#gaza	#gaza	-RRB-	pos2=IN	4	punct	_	O
+6	#palestine	#palestine	UH	pos2=PRP	3	discourse	_	O
+7	#israel	#israel	UH	pos2=VB	8	discourse	_	O
+8	#BDS	#bds	NNS	pos2=UH	0	root	_	O
+

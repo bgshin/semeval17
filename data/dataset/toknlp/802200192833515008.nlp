@@ -1,0 +1,23 @@
+1	@FluffyDogAttack	@fluffydogattack	UH	pos2=NN	5	discourse	_	O
+2	@KellyannePolls	@kellyannepolls	NNS	pos2=UH	5	vocative	_	O
+3	I	I	PRP	_	5	nsubj	_	O
+4	've	have	VBP	_	5	aux	_	O
+5	been	be	VBN	_	0	root	_	O
+6	Trump	trump	NNP	pos2=JJ	7	compound	_	U-PERSON
+7	supporter	supporter	NN	pos2=RB	5	attr	_	O
+8	from	from	IN	_	5	prep	_	O
+9	beginning	begin	VBG	pos2=NN	8	pcomp	_	O
+10	but	but	CC	_	5	cc	_	O
+11	he	he	PRP	_	12	nsubj	_	O
+12	starts	start	VBZ	_	5	conj	_	O
+13	flopping	flop	VBG	_	12	xcomp	_	O
+14	&	&	CC	_	12	cc	_	O
+15	we	we	PRP	_	17	nsubj	_	O
+16	will	will	MD	_	17	aux	_	O
+17	have	have	VB	_	12	conj	_	O
+18	civil	civil	JJ	_	19	nmod	_	O
+19	unrest	unrest	NN	_	17	dobj	_	O
+20	.	.	.	_	17	punct	_	O
+
+1	#draintheswamp	#draintheswamp	UH	pos2=XX	0	root	_	O
+

@@ -1,0 +1,15 @@
+1	@larryelder	@larryelder	UH	pos2=PRP	12	discourse	_	O
+2	@justonepatriot	@justonepatriot	UH	pos2=IN	12	discourse	_	O
+3	@BrandonVDixon	@brandonvdixon	ADD	pos2=UH	12	meta	_	U-PERSON
+4	@mike_pence	@mike_pence	IN	pos2=NN	3	prep	_	O
+5	@realDonaldTrump	@realdonaldtrump	ADD	pos2=NN	6	det	_	O
+6	Shame	shame	NNP	pos2=NN	4	pobj	_	U-PERSON
+7	on	on	IN	_	6	prep	_	O
+8	you	you	PRP	_	7	pobj	_	O
+9	DixonRacist	dixonracist	NNP	pos2=VBP	12	vocative	_	U-PERSON
+10	,	,	,	_	12	punct	_	O
+11	sexist	sexist	JJ	_	12	nmod	_	O
+12	hypocriteShame	hypocriteshame	NN	pos2=''	0	root	_	O
+13	on	on	IN	_	12	prep	_	O
+14	you	you	PRP	_	13	pobj	_	O
+

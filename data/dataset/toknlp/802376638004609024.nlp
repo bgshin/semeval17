@@ -1,0 +1,15 @@
+1	@FoxNews	@foxnews	NNS	pos2=UH	5	nsubj	_	O
+2	@foxnewslatino	@foxnewslatino	IN	pos2=UH	1	prep	_	O
+3	this	this	DT	_	2	pobj	_	O
+4	all	all	DT	pos2=RB	3	appos	_	O
+5	coming	come	VBG	_	0	root	_	O
+6	down	down	RP	pos2=RB	5	prt	_	O
+7	from	from	IN	_	5	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	scum	scum	NN	_	10	compound	_	O
+10	media	medium	NNS	pos2=NN	7	pobj	_	O
+11	and	and	CC	_	10	cc	_	O
+12	lib	lib	JJ	pos2=NN	13	nmod	_	O
+13	leftists	leftist	NNS	_	10	conj	_	O
+14	.	.	.	_	5	punct	_	O
+

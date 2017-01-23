@@ -1,0 +1,19 @@
+1	Ca	can	MD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	believe	believe	VB	_	0	root	_	O
+4	it	it	PRP	_	6	nsubjpass	_	O
+5	's	's	VBZ	_	6	auxpass	_	O
+6	been	be	VBN	_	3	ccomp	_	O
+7	3	0	CD	_	8	nmod	_	B-DATE
+8	years	year	NNS	_	6	npadvmod	_	L-DATE
+9	since	since	IN	_	6	prep	_	O
+10	Midnight	midnight	NNP	pos2=NN	11	compound	_	U-DATE
+11	memories	memory	NNS	_	9	pobj	_	O
+12	I	I	PRP	_	13	nsubj	_	O
+13	'm	be	VBP	_	11	relcl	_	O
+14	so	so	RB	_	15	advmod	_	O
+15	proud	proud	JJ	_	13	acomp	_	O
+16	#	#	NN	pos2=$	17	compound	_	O
+17	3YearsofMidnightMemories	0yearsofmidnightmemories	NNS	pos2=ADD	18	compound	_	U-MONEY
+18	#OneDirection	#onedirection	NN	pos2=ADD	15	ccomp	_	O
+

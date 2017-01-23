@@ -1,0 +1,14 @@
+1	Thinking	think	VBG	_	0	root	_	O
+2	about	about	IN	_	1	prep	_	O
+3	self-driving	self-driving	JJ	pos2=VBG	4	nmod	_	O
+4	cars	car	NNS	_	2	pobj	_	O
+5	?	?	.	_	1	punct	_	O
+
+1	read	read	VB	pos2=VBD	0	root	_	O
+2	this	this	DT	_	1	dobj	_	O
+3	:	:	:	_	2	punct	_	O
+4	https://t.co/RLN1UaNbFh	#hlink#	ADD	pos2=NN	2	appos	_	O
+5	#speculativefiction	#speculativefiction	ADD	pos2=-RRB-	2	acl	_	O
+6	@nicopergola	@nicopergola	UH	pos2=IN	7	discourse	_	O
+7	@Erenbey	@erenbey	UH	pos2=NNP	5	pobj	_	O
+

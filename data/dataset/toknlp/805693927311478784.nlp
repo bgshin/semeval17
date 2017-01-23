@@ -1,0 +1,9 @@
+1	@cspanwj	@cspanwj	UH	pos2=LS	8	discourse	_	O
+2	#p2his	#p0his	PRP$	pos2=NN	7	poss	_	O
+3	alleged	alleged	JJ	pos2=VBN	7	nmod	_	O
+4	electoral	electoral	JJ	_	5	nmod	_	O
+5	college	college	NN	_	6	compound	_	O
+6	victory.#AuditTheVote	victory.#auditthevote	NN	pos2=GW	7	compound	_	B-DATE
+7	s#AuditThaDAMVotes	s#auditthadamvotes	NNS	pos2=ADD	8	dep	_	L-DATE
+8	https://t.co/iAjp8lwQfX	#hlink#	ADD	_	0	root	_	O
+

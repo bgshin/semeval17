@@ -1,0 +1,19 @@
+1	Our	our	PRP$	_	4	poss	_	O
+2	own	own	JJ	_	4	nmod	_	O
+3	#MannequinChallenge	#mannequinchallenge	NN	pos2=XX	4	compound	_	O
+4	@Sherbatov_MMA	@sherbatov_mma	NN	pos2=ADD	7	vocative	_	O
+5	@YoniSherbatov	@yonisherbatov	XX	pos2=NNP	10	compound	_	O
+6	@F4PTM	@f0ptm	NN	pos2=XX	0	root	_	O
+7	thank	thank	VBP	_	6	xcomp	_	O
+8	you	you	PRP	_	7	dobj	_	O
+9	Studio	studio	NNP	_	10	compound	_	B-GPE
+10	Halloum	halloum	NNP	_	7	vocative	_	L-GPE
+11	.	.	.	_	4	punct	_	O
+
+1	FULL	full	JJ	_	2	nmod	_	O
+2	VERSION	version	NN	_	6	dep	_	O
+3	ON	on	IN	_	2	prep	_	O
+4	FACEBO	facebo	NNP	pos2=NN	3	pobj	_	B-DATE
+5	…	…	NFP	pos2=-LRB-	2	discourse	_	L-DATE
+6	https://t.co/sALLikuopn	#hlink#	ADD	_	0	root	_	O
+

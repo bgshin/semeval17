@@ -1,0 +1,19 @@
+1	Find	find	VB	_	0	root	_	O
+2	yourself	yourself	PRP	_	1	dative	_	O
+3	a	a	DT	_	5	det	_	O
+4	physics	physics	NN	_	5	compound	_	O
+5	prof	prof	NN	pos2=IN	1	dobj	_	O
+6	who	who	WP	_	8	nsubj	_	O
+7	could	could	MD	_	8	aux	_	O
+8	pass	pass	VB	_	5	relcl	_	O
+9	as	as	IN	pos2=RB	8	prep	_	O
+10	a	a	DT	_	15	det	_	O
+11	3	0	CD	_	12	nmod	_	U-CARDINAL
+12	time	time	NN	_	14	npadvmod	_	O
+13	cy	cy	NN	pos2=DT	15	nmod	_	O
+14	young	young	JJ	_	15	nmod	_	O
+15	winner	winner	NN	_	9	pobj	_	O
+16	.	.	.	_	1	punct	_	O
+
+1	https://t.co/vQkM6kPvYL	#hlink#	ADD	_	0	root	_	U-ORG
+

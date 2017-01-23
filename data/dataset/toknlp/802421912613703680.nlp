@@ -1,0 +1,28 @@
+1	What	what	WP	pos2=WDT	10	dobj	_	O
+2	would	would	MD	_	10	aux	_	O
+3	The	the	DT	_	5	det	_	O
+4	[	[	-LRB-	_	5	punct	_	O
+5	un	un	NN	pos2=NNP	2	appos	_	O
+6	]	]	-RRB-	_	5	punct	_	O
+7	@australian	@australian	:	pos2=NN	5	punct	_	O
+8	&	&	CC	_	9	det	_	O
+9	Conservatives	conservative	NNS	pos2=NNPS	10	nsubj	_	O
+10	say	say	VBP	_	0	root	_	O
+11	if	if	IN	_	15	mark	_	O
+12	@JuliaGillard	@juliagillard	NNP	pos2=VBN	15	nsubj	_	U-ORG
+13	or	or	CC	_	12	cc	_	O
+14	@markdreyfusQCMP	@markdreyfusqcmp	NNP	pos2=ADD	12	conj	_	U-ORG
+15	did	do	VBD	_	10	ccomp	_	O
+16	a	a	DT	_	18	det	_	O
+17	secret	secret	JJ	pos2=NN	18	nmod	_	O
+18	deal	deal	NN	_	15	dobj	_	O
+19	to	to	TO	_	20	aux	_	O
+20	give	give	VB	_	15	advcl	_	O
+21	$	$	$	_	22	nmod	_	O
+22	300miln	0miln	CD	pos2=NNS	20	dobj	_	U-MONEY
+23	to	to	IN	pos2=TO	20	dative	_	O
+24	WA	wa	NNP	pos2=NN	23	pobj	_	U-ORG
+25	?	?	.	_	10	punct	_	O
+
+1	#auspol	#auspol	UH	pos2=XX	0	root	_	O
+

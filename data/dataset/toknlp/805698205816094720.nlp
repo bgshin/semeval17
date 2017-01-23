@@ -1,0 +1,13 @@
+1	What	what	WP	pos2=WDT	5	dobj	_	O
+2	#CristianoRonaldo	#cristianoronaldo	ADD	pos2=NN	5	nsubj	_	U-DATE
+3	and	and	CC	_	2	cc	_	O
+4	#LionelMessi	#lionelmessi	NNP	pos2=NNS	2	conj	_	U-ORG
+5	said	say	VBD	_	0	root	_	O
+6	to	to	IN	_	5	prep	_	O
+7	each	each	DT	_	8	det	_	O
+8	other	other	JJ	_	6	pobj	_	O
+9	during	during	IN	_	5	prep	_	O
+10	El	el	NNP	_	11	compound	_	B-GPE
+11	Clasico	clasico	NNP	_	9	pobj	_	L-GPE
+12	https://t.co/hz3z1Pv74A	#hlink#	ADD	_	8	appos	_	O
+

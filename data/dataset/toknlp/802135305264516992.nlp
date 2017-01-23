@@ -1,0 +1,24 @@
+1	We	we	PRP	_	3	nsubj	_	O
+2	've	have	VBP	_	3	aux	_	O
+3	got	get	VBN	pos2=VBD	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	info	info	NN	_	3	dobj	_	O
+6	on	on	IN	_	5	prep	_	O
+7	how	how	WRB	_	10	advmod	_	O
+8	YOU	you	PRP	_	10	nsubj	_	O
+9	can	can	MD	_	10	aux	_	O
+10	help	help	VB	_	6	pcomp	_	O
+11	those	those	DT	_	10	dobj	_	O
+12	in	in	IN	pos2=RP	11	prep	_	O
+13	need	need	NN	pos2=VBP	12	pobj	_	O
+14	in	in	IN	_	13	prep	_	O
+15	SLC	slc	NN	pos2=NNP	14	pobj	_	U-ORG
+16	w	w	IN	_	10	prep	_	O
+17	/	/	HYPH	pos2=,	16	punct	_	O
+18	@CenturyLink	@centurylink	NN	pos2=ADD	16	pobj	_	O
+19	&	&	CC	_	10	cc	_	O
+20	@utahjazz	@utahjazz	GW	pos2=NFP	23	nmod	_	O
+21	https://t.co/zBx1gS0YDj	#hlink#	ADD	pos2=GW	23	nmod	_	O
+22	#ad	#ad	GW	pos2=ADD	23	nmod	_	O
+23	https://t.co/NPOzmfjyBT	#hlink#	ADD	pos2=NN	5	relcl	_	O
+

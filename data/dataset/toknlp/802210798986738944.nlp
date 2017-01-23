@@ -1,0 +1,17 @@
+1	@davidpsdem	@davidpsdem	UH	pos2=NNP	5	discourse	_	O
+2	Yep	yep	UH	_	5	discourse	_	O
+3	,	,	,	_	5	punct	_	O
+4	that	that	DT	_	5	nsubj	_	O
+5	's	's	VBZ	_	0	root	_	O
+6	Putin	putin	NNP	_	8	poss	_	U-PERSON
+7	's	's	POS	_	6	case	_	O
+8	girl	girl	NN	_	5	attr	_	O
+9	,	,	,	_	5	punct	_	O
+10	same	same	JJ	_	5	acomp	_	O
+11	as	as	IN	_	10	prep	_	O
+12	Bernie	bernie	NNP	_	15	nmod	_	U-PERSON
+13	and	and	CC	_	12	cc	_	O
+14	Trump	trump	NNP	pos2=NN	12	conj	_	U-PERSON
+15	puppets	puppet	NNS	_	11	pobj	_	O
+16	.	.	.	_	5	punct	_	O
+

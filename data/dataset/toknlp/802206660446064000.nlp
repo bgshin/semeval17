@@ -1,0 +1,22 @@
+1	#HappyThanksgiving	#happythanksgiving	VBG	pos2=ADD	0	root	_	O
+2	@tonyromo	@tonyromo	UH	pos2=RB	1	discourse	_	O
+3	!	!	.	_	1	punct	_	O
+
+1	From	from	IN	_	9	prep	_	O
+2	your	your	PRP$	_	5	poss	_	O
+3	#Uber	#uber	NN	pos2=JJR	4	compound	_	O
+4	delivery	delivery	NN	_	5	compound	_	O
+5	driver	driver	NN	_	1	pobj	_	O
+6	you	you	PRP	_	9	nsubj	_	O
+7	did	do	VBD	_	9	aux	_	O
+8	n't	not	RB	_	9	neg	_	O
+9	tip	tip	VB	pos2=NN	0	root	_	O
+10	on	on	IN	_	9	prep	_	O
+11	Thanksgiving	thanksgiving	NNP	_	10	pobj	_	U-DATE
+12	...	..	.	pos2=,	9	punct	_	O
+
+1	Bless	bless	VB	pos2=VBP	0	root	_	O
+2	you	you	PRP	_	1	dobj	_	O
+3	sir	sir	NN	pos2=RB	1	vocative	_	O
+4	.	.	.	_	1	punct	_	O
+

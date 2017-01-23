@@ -1,0 +1,13 @@
+1	Recent	recent	JJ	_	2	nmod	_	O
+2	Findings	finding	NNS	_	4	nsubj	_	O
+3	May	may	MD	pos2=NNP	4	aux	_	O
+4	Lead	lead	VB	_	0	root	_	O
+5	To	to	IN	_	4	prep	_	O
+6	Smart-3	smart-0	NNP	pos2=NN	7	compound	_	O
+7	D	d	NNP	pos2=NN	8	compound	_	O
+8	printing	printing	NN	pos2=VBG	5	pobj	_	O
+9	By	by	IN	_	4	prep	_	O
+10	2018	0	CD	_	11	nmod	_	U-DATE
+11	Researchers	researcher	NNS	_	9	pobj	_	O
+12	Find	find	VBP	pos2=VB	4	advcl	_	O
+

@@ -1,0 +1,33 @@
+1	Well	well	UH	_	4	discourse	_	O
+2	the	the	DT	_	3	det	_	O
+3	answer	answer	NN	_	4	nsubj	_	O
+4	lies	lie	VBZ	_	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	word	word	NN	_	5	pobj	_	O
+8	you	you	PRP	_	9	nsubj	_	O
+9	used	use	VBD	_	7	relcl	_	O
+10	:	:	:	_	9	punct	_	O
+11	"	"	``	_	12	punct	_	O
+12	act	act	NN	pos2=VB	9	xcomp	_	O
+13	"	"	''	_	12	punct	_	O
+14	,	,	,	_	4	punct	_	O
+15	lol	lol	UH	_	4	discourse	_	O
+16	.	.	.	_	4	punct	_	O
+
+1	Michelle	michelle	NNP	_	2	nsubj	_	U-PERSON
+2	is	be	VBZ	_	0	root	_	O
+3	not	not	RB	_	2	neg	_	O
+4	an	an	DT	_	5	det	_	O
+5	actress	actress	NN	_	2	attr	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	Melania	melania	NNP	pos2=NN	3	poss	_	U-PERSON
+2	's	's	POS	_	1	case	_	O
+3	people	people	NNS	_	4	nsubj	_	O
+4	stole	steal	VBD	_	0	root	_	O
+5	Michelle	michelle	NNP	_	7	poss	_	U-PERSON
+6	'	'	POS	pos2=''	5	case	_	O
+7	…	…	NFP	pos2=:	4	dobj	_	O
+8	https://t.co/CpyZsPSaOI	#hlink#	ADD	_	4	dobj	_	U-ORG
+

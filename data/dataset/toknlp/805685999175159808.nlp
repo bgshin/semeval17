@@ -1,0 +1,13 @@
+1	5.	0.	LS	_	3	meta	_	U-CARDINAL
+2	I	I	PRP	_	3	nsubj	_	O
+3	'm	be	VBP	_	0	root	_	O
+4	still	still	RB	_	3	advmod	_	O
+5	not	not	RB	_	3	neg	_	O
+6	mad	mad	JJ	_	3	acomp	_	O
+7	I	I	PRP	_	10	nsubj	_	O
+8	'm	be	VBP	_	10	aux	_	O
+9	not	not	RB	_	10	neg	_	O
+10	dating	date	VBG	_	6	ccomp	_	O
+11	zac	zac	NNP	pos2=IN	12	compound	_	B-PERSON
+12	Efron	efron	NNP	_	10	dobj	_	L-PERSON
+

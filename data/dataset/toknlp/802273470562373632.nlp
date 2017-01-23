@@ -1,0 +1,25 @@
+1	@lizardengland	@lizardengland	UH	pos2=XX	4	discourse	_	O
+2	@mtrc	@mtrc	UH	pos2=MD	4	discourse	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	have	have	VBP	_	0	root	_	O
+5	some	some	DT	_	6	det	_	O
+6	thoughts	thought	NNS	_	4	dobj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	how	how	WRB	_	10	advmod	_	O
+9	to	to	TO	_	10	aux	_	O
+10	apply	apply	VB	_	7	pcomp	_	O
+11	deep	deep	JJ	pos2=NN	12	nmod	_	O
+12	learning	learning	NN	pos2=VBG	10	dobj	_	O
+13	to	to	IN	_	10	prep	_	O
+14	games	game	NNS	_	13	pobj	_	O
+15	,	,	,	_	4	punct	_	O
+16	but	but	CC	_	4	cc	_	O
+17	they	they	PRP	_	21	nsubj	_	O
+18	mostly	mostly	RB	_	21	advmod	_	O
+19	do	do	VBP	_	21	aux	_	O
+20	n't	not	RB	_	21	neg	_	O
+21	look	look	VB	_	4	conj	_	O
+22	traditional	traditional	JJ	_	23	nmod	_	O
+23	games	game	NNS	_	24	compound	_	O
+24	AI	ai	NN	pos2=.	21	dobj	_	O
+

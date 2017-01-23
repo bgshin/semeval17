@@ -1,0 +1,26 @@
+1	Regardless	regardless	RB	_	11	advmod	_	O
+2	of	of	IN	_	1	prep	_	O
+3	how	how	WRB	_	5	advmod	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	feel	feel	VBP	_	2	pcomp	_	O
+6	about	about	IN	_	5	prep	_	O
+7	gun	gun	NN	_	8	compound	_	O
+8	control	control	NN	_	6	pobj	_	O
+9	,	,	,	_	11	punct	_	O
+10	please	please	UH	_	11	discourse	_	O
+11	watch	watch	VB	_	0	root	_	O
+12	this	this	DT	_	11	dobj	_	O
+13	.	.	.	_	11	punct	_	O
+
+1	Kindness	kindness	NN	pos2=NNP	2	nsubj	_	O
+2	has	have	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	power	power	NN	_	2	dobj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	save	save	VB	_	4	acl	_	O
+7	a	a	DT	_	8	det	_	O
+8	life	life	NN	_	6	dobj	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	https://t.co/UmowT2dm1V	#hlink#	ADD	_	0	root	_	U-ORG
+

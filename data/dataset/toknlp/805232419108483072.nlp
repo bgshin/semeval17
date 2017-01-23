@@ -1,0 +1,11 @@
+1	Ashley	ashley	NNP	_	2	compound	_	B-PERSON
+2	Graham	graham	NNP	_	3	nsubj	_	L-PERSON
+3	Confesses	confess	VBZ	pos2=NNP	0	root	_	O
+4	That	that	IN	pos2=DT	8	mark	_	O
+5	Losing	lose	VBG	pos2=NNP	8	csubj	_	O
+6	Weight	weight	NNP	pos2=NN	5	dobj	_	O
+7	Would	would	MD	_	8	aux	_	O
+8	#loseweightnow#loseweightfast#lose	#loseweightnow#loseweightfast#lose	VB	pos2=GW	3	ccomp	_	B-QUANTITY
+9	inches	inch	NNS	_	8	dobj	_	L-QUANTITY
+10	https://t.co/GcZpnsDtfl	#hlink#	ADD	pos2=.	8	npadvmod	_	O
+

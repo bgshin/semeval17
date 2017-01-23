@@ -1,0 +1,18 @@
+1	@kieran_hurley	@kieran_hurley	UH	pos2=NNP	3	discourse	_	O
+2	That	that	DT	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	definitely	definitely	RB	_	3	advmod	_	O
+5	the	the	DT	_	6	det	_	O
+6	frame	frame	NN	_	3	attr	_	O
+7	being	be	VBG	pos2=NN	8	auxpass	_	O
+8	asserted	assert	VBN	_	6	acl	_	O
+9	by	by	IN	_	8	agent	_	O
+10	Marine	marine	NNP	_	12	compound	_	B-ORG
+11	Le	le	NNP	_	12	compound	_	I-ORG
+12	Pen	pen	NNP	_	9	pobj	_	L-ORG
+13	,	,	,	_	3	punct	_	O
+14	in	in	IN	_	3	prep	_	O
+15	any	any	DT	_	16	det	_	O
+16	case	case	NN	_	14	pobj	_	O
+17	.	.	.	_	3	punct	_	O
+

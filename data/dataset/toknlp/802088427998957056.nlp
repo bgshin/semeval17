@@ -1,0 +1,12 @@
+1	How	how	WRB	_	6	advmod	_	O
+2	the	the	DT	_	5	det	_	O
+3	F	f	NNP	_	5	compound	_	O
+4	David	david	NNP	_	5	compound	_	B-PERSON
+5	Blaine	blaine	NNP	_	6	nsubj	_	L-PERSON
+6	pull	pull	VB	pos2=VBP	0	root	_	O
+7	out	out	RP	pos2=RB	6	prt	_	O
+8	those	those	DT	_	6	dobj	_	O
+9	!!!	!!	.	_	6	punct	_	O
+
+1	🙀	🙀	SYM	pos2=NFP	0	root	_	U-ORG
+

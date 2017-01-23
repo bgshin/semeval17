@@ -1,0 +1,28 @@
+1	@EliotHiggins	@eliothiggins	VBZ	pos2=NNS	0	root	_	O
+2	what	what	WP	_	3	dep	_	O
+3	about	about	IN	_	1	prep	_	O
+4	bombing	bombing	NN	pos2=VBG	3	pobj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	yemen	yemen	NN	pos2=NNP	5	pobj	_	O
+7	,	,	,	_	8	punct	_	O
+8	Drone	drone	NN	pos2=NNP	9	compound	_	O
+9	strikes	strike	NNS	pos2=VBZ	4	appos	_	O
+10	in	in	IN	_	9	prep	_	O
+11	Pakistan	pakistan	NNP	_	10	pobj	_	U-GPE
+12	,	,	,	_	9	punct	_	O
+13	bombing	bombing	NN	pos2=VBG	9	conj	_	O
+14	in	in	IN	_	13	prep	_	O
+15	Iraq	iraq	NNP	_	14	pobj	_	U-GPE
+16	and	and	CC	_	15	cc	_	O
+17	Syria	syria	NNP	_	15	conj	_	U-GPE
+18	by	by	IN	_	13	prep	_	O
+19	US	us	NNP	_	18	pobj	_	U-GPE
+20	..	..	.	pos2=,	1	punct	_	O
+
+1	you	you	PRP	_	2	nmod	_	O
+2	people	people	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	disgrace	disgrace	NN	pos2=JJ	3	attr	_	O
+5	to	to	IN	pos2=TO	4	prep	_	O
+6	society	society	NN	_	5	pobj	_	O
+

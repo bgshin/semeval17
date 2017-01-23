@@ -1,0 +1,16 @@
+1	Congrats	congrats	NNS	pos2=VBZ	0	root	_	O
+2	to	to	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	@UtahJazz	@utahjazz	NN	pos2=NNP	2	pobj	_	O
+5	for	for	IN	_	1	prep	_	O
+6	getting	get	VBG	_	5	pcomp	_	O
+7	that	that	DT	pos2=IN	8	det	_	O
+8	W	w	NNP	pos2=NN	6	dobj	_	O
+9	!	!	.	_	1	punct	_	O
+
+1	👊💙	👊💙	SYM	pos2=NFP	5	punct	_	U-ORG
+2	#TakeNote	#takenote	ADD	pos2=GW	5	nmod	_	O
+3	#DENatUTA	#denatuta	GW	pos2=ADD	5	nmod	_	O
+4	#UtahJazz	#utahjazz	GW	pos2=ADD	5	nmod	_	O
+5	https://t.co/XWBfA5wWKT	#hlink#	ADD	pos2=NN	0	root	_	O
+

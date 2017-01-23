@@ -1,0 +1,18 @@
+1	Bob	bob	NNP	_	2	compound	_	B-PERSON
+2	Dylan	dylan	NNP	_	0	root	_	L-PERSON
+3	:	:	:	_	2	punct	_	O
+4	The	the	DT	_	7	det	_	O
+5	1966	0	CD	pos2=NNP	7	nmod	_	U-DATE
+6	Live	live	NNP	pos2=JJ	7	compound	_	O
+7	Recordings	recording	NNS	pos2=NNPS	2	appos	_	O
+8	,	,	,	_	7	punct	_	O
+9	A	a	DT	_	11	det	_	O
+10	Monumental	monumental	JJ	pos2=NNP	11	nmod	_	O
+11	Box	box	NNP	pos2=NN	7	appos	_	O
+12	Set	set	VBN	pos2=NNP	15	nmod	_	O
+13	-	-	HYPH	pos2=:	17	punct	_	O
+14	Santa	santa	NNP	_	15	compound	_	O
+15	monica	monica	NNP	pos2=GW	16	nsubj	_	O
+16	Observed	observe	VBD	pos2=GW	11	acl	_	O
+17	https://t.co/O9sXQWoFXF	#hlink#	ADD	_	16	dobj	_	U-ORG
+

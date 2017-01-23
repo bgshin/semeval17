@@ -1,0 +1,27 @@
+1	Fossil	fossil	NN	pos2=JJ	2	compound	_	O
+2	fuels	fuel	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	n't	not	RB	_	3	neg	_	O
+5	sustainable	sustainable	JJ	_	3	acomp	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	Digging	dig	VBG	_	4	csubj	_	O
+2	for	for	IN	_	1	prep	_	O
+3	more	more	JJR	pos2=RBR	4	nmod	_	O
+4	harms	harm	VBZ	pos2=NNS	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	environment	environment	NN	_	4	dobj	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	Basic	basic	JJ	_	5	nmod	_	O
+2	6th	#ord#	JJ	_	3	nmod	_	U-ORDINAL
+3	grade	grade	NN	_	5	compound	_	O
+4	earth	earth	NN	_	5	compound	_	O
+5	science	science	NN	_	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	Go	go	VB	_	0	root	_	O
+2	watch	watch	VB	pos2=GW	1	advcl	_	O
+3	…	…	NFP	pos2=-LRB-	1	discourse	_	O
+4	https://t.co/0dV9DD8Ss1	#hlink#	ADD	pos2=NN	1	dep	_	U-ORG
+

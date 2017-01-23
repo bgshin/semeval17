@@ -1,0 +1,33 @@
+1	@Brialalexi	@brialalexi	NNP	pos2=NNS	2	compound	_	B-PERSON
+2	@WayneDupreeShow	@waynedupreeshow	NNP	pos2=ADD	0	root	_	L-PERSON
+3	Which	which	WDT	_	4	nsubj	_	O
+4	makes	make	VBZ	_	2	relcl	_	O
+5	me	me	PRP	_	6	nsubj	_	O
+6	wonder	wonder	VB	pos2=NN	4	ccomp	_	O
+7	...	..	.	_	2	punct	_	O
+
+1	why	why	WRB	_	2	advmod	_	O
+2	Stein	stein	NNP	_	0	root	_	U-PERSON
+3	?	?	.	_	2	punct	_	O
+
+1	If	if	IN	_	5	mark	_	O
+2	she	she	PRP	_	5	nsubjpass	_	O
+3	is	be	VBZ	_	5	aux	_	O
+4	being	be	VBG	_	5	auxpass	_	O
+5	funded	fund	VBN	_	17	advcl	_	O
+6	by	by	IN	_	5	agent	_	O
+7	the	the	DT	_	8	det	_	O
+8	Dems	dems	NNPS	pos2=NNP	6	pobj	_	U-NORP
+9	(	(	-LRB-	_	8	punct	_	O
+10	likely	likely	RB	pos2=JJ	8	appos	_	O
+11	)	)	-RRB-	_	8	punct	_	O
+12	,	,	,	_	17	punct	_	O
+13	why	why	WRB	_	17	advmod	_	O
+14	did	do	VBD	_	17	aux	_	O
+15	n't	not	RB	_	17	neg	_	O
+16	they	they	PRP	_	17	nsubj	_	O
+17	file	file	VB	pos2=VBP	0	root	_	O
+18	for	for	IN	_	17	prep	_	O
+19	it	it	PRP	_	18	pobj	_	O
+20	?	?	.	_	17	punct	_	O
+

@@ -1,0 +1,12 @@
+1	Aww	aww	UH	pos2=RB	3	discourse	_	O
+2	so	so	RB	_	3	advmod	_	O
+3	cute	cute	JJ	_	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+
+1	@ricky_martin	@ricky_martin	NNP	pos2=XX	6	dep	_	U-ORG
+2	with	with	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	boys	boy	NNS	_	2	pobj	_	O
+5	))	))	NFP	pos2=-RRB-	6	punct	_	O
+6	https://t.co/UMns2mpJe6	#hlink#	ADD	pos2=NN	0	root	_	O
+

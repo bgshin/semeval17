@@ -1,0 +1,10 @@
+1	@thehill	@thehill	UH	pos2=XX	8	discourse	_	O
+2	@freedomusa	@freedomusa	UH	pos2=NN	1	discourse	_	O
+3	_	_	''	pos2=SYM	8	punct	_	O
+4	@elizabethforma	@elizabethforma	IN	pos2=NN	8	mark	_	O
+5	that	that	DT	pos2=WDT	6	det	_	O
+6	women	woman	NNS	pos2=NN	4	pobj	_	O
+7	is	be	VBZ	_	8	auxpass	_	O
+8	whacked	whack	VBN	pos2=JJ	0	root	_	O
+9	!	!	.	_	8	punct	_	O
+

@@ -1,0 +1,25 @@
+1	@RESachs	@resachs	NNS	pos2=ADD	3	nsubj	_	O
+2	@onceuponA	@onceupona	TO	pos2=POS	3	aux	_	O
+3	wait	wait	VB	pos2=VBP	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	medicare	medicare	NN	pos2=VB	6	compound	_	O
+6	parts	part	NNS	_	2	dobj	_	O
+7	?	?	.	_	3	punct	_	O
+
+1	Ugh	ugh	UH	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	guess	guess	VBP	_	0	root	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	have	have	VBP	pos2=VB	2	ccomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	go	go	VB	_	4	xcomp	_	O
+7	and	and	CC	_	6	cc	_	O
+8	check	check	VB	_	6	conj	_	O
+9	out	out	RP	_	8	prt	_	O
+10	this	this	DT	_	11	det	_	O
+11	draft	draft	NN	_	8	dobj	_	O
+12	now	now	RB	_	8	advmod	_	O
+13	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,22 @@
+1	Messi	messi	NNP	pos2=NN	12	nsubj	_	U-PERSON
+2	at	at	IN	_	1	prep	_	O
+3	an	an	DT	_	4	det	_	O
+4	event	event	NN	_	2	pobj	_	O
+5	(	(	-LRB-	_	1	punct	_	O
+6	Adidas	adidas	NNP	_	8	compound	_	B-ORG
+7	Red	red	NNP	_	8	compound	_	I-ORG
+8	Limit	limit	NNP	pos2=NN	4	appos	_	L-ORG
+9	16	0	CD	pos2=NNPS	8	nmod	_	O
+10	)	)	-RRB-	_	4	punct	_	O
+11	to	to	TO	_	12	aux	_	O
+12	publicise	publicise	VB	_	0	root	_	O
+13	his	his	PRP$	_	15	poss	_	O
+14	new	new	JJ	_	15	nmod	_	O
+15	boots	boot	NNS	_	12	dobj	_	O
+16	#fcblive	#fcblive	ADD	pos2=XX	12	advmod	_	O
+17	[	[	-LRB-	_	12	punct	_	O
+18	via	via	IN	_	12	prep	_	O
+19	@FCBW_A7	@fcbw_a0	NN	pos2=CD	18	pobj	_	O
+20	]	]	-RRB-	pos2=GW	12	punct	_	O
+21	https://t.co/pxngpAQv9m	#hlink#	ADD	_	0	root	_	O
+

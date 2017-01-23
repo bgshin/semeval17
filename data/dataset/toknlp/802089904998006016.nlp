@@ -1,0 +1,16 @@
+1	@cwbatb	@cwbatb	UH	pos2=XX	7	discourse	_	O
+2	@beourguest	@beourguest	UH	pos2=JJS	7	discourse	_	O
+3	@celinedion	@celinedion	UH	pos2=IN	7	discourse	_	O
+4	a	a	DT	_	5	det	_	O
+5	reunion	reunion	NN	_	7	nsubjpass	_	O
+6	is	be	VBZ	_	7	auxpass	_	O
+7	expected	expect	VBN	_	0	root	_	O
+8	.	.	.	_	7	punct	_	O
+
+1	plz	plz	UH	_	2	discourse	_	O
+2	sing	sing	VB	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	theme	theme	NN	_	5	compound	_	O
+5	song	song	NN	_	2	dobj	_	O
+6	#Beautyandthebeast	#beautyandthebeast	NNP	pos2=NN	5	appos	_	O
+

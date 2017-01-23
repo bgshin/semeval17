@@ -1,0 +1,11 @@
+1	LOCK	lock	VB	_	0	root	_	O
+2	HIM	him	PRP	_	1	dobj	_	O
+3	UP	up	RP	pos2=IN	1	prt	_	O
+4	#UniteBlue	#uniteblue	IN	pos2=NNP	1	prep	_	B-LOC
+5	#Resist	#resist	NNP	pos2=ADD	7	compound	_	L-LOC
+6	#LibCrib	#libcrib	NN	pos2=ADD	7	compound	_	O
+7	#p2	#p0	NN	pos2=CD	4	pobj	_	O
+8	#PDMFNB	#pdmfnb	GW	pos2=XX	10	nmod	_	B-PERSON
+9	#CORRUPTION	#corruption	GW	pos2=NN	10	nmod	_	L-PERSON
+10	https://t.co/t2SB4BDrlc	#hlink#	ADD	pos2=NN	1	dep	_	O
+

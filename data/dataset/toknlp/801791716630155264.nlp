@@ -1,0 +1,17 @@
+1	@LaurentRuseckas	@laurentruseckas	NNP	pos2=VBZ	5	advcl	_	O
+2	Well	well	UH	_	5	discourse	_	O
+3	,	,	,	_	5	punct	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	doubt	doubt	VBP	_	0	root	_	O
+6	Saakashvili	saakashvili	NNP	_	7	nsubj	_	U-PERSON
+7	is	be	VBZ	_	5	ccomp	_	O
+8	above	above	IN	pos2=JJ	7	prep	_	O
+9	rent	rent	NN	_	8	pobj	_	O
+10	-	-	HYPH	_	9	punct	_	O
+11	an	an	DT	pos2=NN	13	det	_	O
+12	-	-	HYPH	_	13	punct	_	O
+13	angy	angy	NN	pos2=JJ	15	compound	_	O
+14	-	-	HYPH	_	15	punct	_	O
+15	mob	mob	NN	_	9	dobj	_	O
+16	.	.	.	_	5	punct	_	O
+

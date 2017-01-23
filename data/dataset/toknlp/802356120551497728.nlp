@@ -1,0 +1,32 @@
+1	Shout	shout	VB	_	0	root	_	O
+2	out	out	RP	_	1	prt	_	O
+3	car	car	NN	_	4	compound	_	O
+4	crashes	crash	NNS	pos2=VBZ	1	dobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	Shout	shout	VB	_	0	root	_	O
+2	out	out	RP	pos2=IN	1	prt	_	O
+3	Kim	kim	NNP	_	5	compound	_	B-PERSON
+4	Jong	jong	NNP	_	5	compound	_	I-PERSON
+5	Un	un	NNP	_	1	dobj	_	L-PERSON
+6	.	.	.	_	1	punct	_	O
+
+1	Shout	shout	VB	_	0	root	_	O
+2	out	out	RP	_	1	prt	_	O
+3	the	the	DT	_	4	det	_	O
+4	Lakers	lakers	NNPS	pos2=NNS	6	nsubj	_	U-ORG
+5	maybe	maybe	RB	_	6	advmod	_	O
+6	signing	sign	VBG	_	1	advcl	_	O
+7	him	him	PRP	_	6	dobj	_	O
+8	to	to	IN	_	6	prep	_	O
+9	a	a	DT	_	12	det	_	O
+10	10	0	CD	_	12	nmod	_	B-DATE
+11	-	-	HYPH	_	12	punct	_	I-DATE
+12	day	day	NN	_	8	pobj	_	L-DATE
+13	for	for	IN	_	6	prep	_	O
+14	this	this	DT	_	15	det	_	O
+15	game	game	NN	_	13	pobj	_	O
+16	.	.	.	_	1	punct	_	O
+
+1	https://t.co/Iyn1QxQLFg	#hlink#	ADD	_	0	root	_	U-ORG
+

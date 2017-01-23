@@ -1,0 +1,16 @@
+1	Former	former	JJ	pos2=NNP	4	nmod	_	O
+2	White	white	NNP	_	3	compound	_	B-ORG
+3	House	house	NNP	_	4	compound	_	L-ORG
+4	lawyer	lawyer	NN	_	7	nsubj	_	O
+5	does	do	VBZ	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	think	think	VB	_	0	root	_	O
+8	Trump	trump	NNP	pos2=NN	11	nsubj	_	U-ORG
+9	can	can	MD	_	11	aux	_	O
+10	legally	legally	RB	_	11	advmod	_	O
+11	become	become	VB	pos2=VBN	7	ccomp	_	O
+12	President	president	NNP	_	11	attr	_	O
+13	https://t.co/auxRAxAaSb	#hlink#	ADD	_	11	attr	_	O
+14	#NotMyPresident	#notmypresident	ADD	pos2=-RRB-	11	attr	_	U-ORG
+15	#StillWithHer	#stillwithher	ADD	pos2=NN	14	pobj	_	O
+

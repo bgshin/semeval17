@@ -1,0 +1,27 @@
+1	@christilton	@christilton	UH	pos2=``	5	discourse	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	'm	be	VBP	_	5	aux	_	O
+4	totally	totally	RB	_	5	advmod	_	O
+5	looking	look	VBG	_	0	root	_	O
+6	forward	forward	RB	_	5	advmod	_	O
+7	to	to	IN	_	5	prep	_	O
+8	Yakuza	yakuza	NN	pos2=NNP	7	pobj	_	O
+9	0	0	CD	_	8	nmod	_	U-CARDINAL
+10	and	and	CC	_	8	cc	_	O
+11	Persona	persona	NN	pos2=NNP	8	conj	_	O
+12	5	0	CD	_	8	npadvmod	_	U-CARDINAL
+13	!	!	.	pos2=,	5	punct	_	O
+
+1	But	but	CC	_	5	cc	_	O
+2	after	after	IN	_	5	prep	_	O
+3	XIII	xiii	NNP	pos2=CD	2	pobj	_	U-ORG
+4	I	I	PRP	_	5	nsubj	_	O
+5	'm	be	VBP	_	0	root	_	O
+6	not	not	RB	_	5	neg	_	O
+7	sure	sure	JJ	_	5	acomp	_	O
+8	I	I	PRP	_	11	nsubj	_	O
+9	can	can	MD	_	11	aux	_	O
+10	ever	ever	RB	_	11	advmod	_	O
+11	love	love	VB	_	7	ccomp	_	O
+12	again	again	RB	_	11	advmod	_	O
+

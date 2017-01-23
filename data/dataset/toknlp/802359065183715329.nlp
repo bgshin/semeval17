@@ -1,0 +1,22 @@
+1	@niecey525zappos	@niecey0zappos	NNS	pos2=NN	0	root	_	O
+2	@isitjustus2	@isitjustus0	POS	pos2=NN	1	case	_	O
+3	steve	steve	NNP	pos2=JJ	4	compound	_	O
+4	bannon	bannon	NNP	pos2=NN	5	nsubj	_	O
+5	is	be	VBZ	_	1	ccomp	_	O
+6	not	not	RB	_	5	neg	_	O
+7	any	any	DT	pos2=RB	8	advmod	_	O
+8	worse	bad	JJR	_	5	acomp	_	O
+9	than	than	IN	_	8	prep	_	O
+10	hilary	hilary	NNP	pos2=JJ	11	compound	_	B-PERSON
+11	clinton	clinton	NNP	_	9	pobj	_	L-PERSON
+12	.	.	.	_	1	punct	_	O
+
+1	trump	trump	NN	pos2=VB	4	nsubj	_	O
+2	ca	can	MD	pos2=NN	4	aux	_	O
+3	nt	nt	RB	_	4	advmod	_	O
+4	be	be	VB	_	0	root	_	O
+5	worse	bad	JJR	_	4	acomp	_	O
+6	than	than	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	democrat	democrat	NN	pos2=JJ	6	pobj	_	U-NORP
+

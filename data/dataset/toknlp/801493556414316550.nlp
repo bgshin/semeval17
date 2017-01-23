@@ -1,0 +1,32 @@
+1	@WizKanika	@wizkanika	NNP	pos2=FW	3	compound	_	O
+2	Melania	melania	NNP	_	3	compound	_	B-PERSON
+3	Trump	trump	NNP	_	4	nsubj	_	L-PERSON
+4	is	be	VBZ	_	0	root	_	O
+5	n't	not	RB	_	4	neg	_	O
+6	a	a	DT	_	8	det	_	O
+7	public	public	JJ	_	8	nmod	_	O
+8	figure	figure	NN	_	4	attr	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	She	she	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	spouse	spouse	NN	_	2	attr	_	O
+5	who	who	WP	_	8	nsubjpass	_	O
+6	is	be	VBZ	_	8	aux	_	O
+7	being	be	VBG	_	8	auxpass	_	O
+8	mocked	mock	VBN	_	4	relcl	_	O
+9	for	for	IN	_	8	prep	_	O
+10	a	a	DT	_	11	det	_	O
+11	speech	speech	NN	_	9	pobj	_	O
+12	she	she	PRP	_	15	nsubj	_	O
+13	did	do	VBD	_	15	aux	_	O
+14	n't	not	RB	_	15	neg	_	O
+15	write	write	VB	_	4	relcl	_	O
+16	.	.	.	_	2	punct	_	O
+
+1	Just	just	RB	_	2	advmod	_	O
+2	sayin	sayin	IN	pos2=FW	0	root	_	O
+3	'	'	''	_	2	punct	_	O
+4	.	.	.	_	2	punct	_	O
+

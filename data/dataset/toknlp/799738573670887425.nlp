@@ -1,0 +1,21 @@
+1	Retweeted	retweeted	VBN	pos2=VBD	8	nmod	_	O
+2	The	the	DT	pos2=NNP	4	det	_	B-ORG
+3	Linux	linux	NNP	_	4	compound	_	I-ORG
+4	Foundation	foundation	NNP	pos2=NN	8	nmod	_	L-ORG
+5	(	(	-LRB-	_	4	punct	_	O
+6	@linuxfoundation	@linuxfoundation	NNP	pos2=NN	4	appos	_	O
+7	)	)	-RRB-	_	8	punct	_	O
+8	:Microsoft	:microsoft	NNP	pos2=WP	10	nsubj	_	O
+9	has	have	VBZ	_	10	aux	_	O
+10	joined	join	VBN	_	0	root	_	O
+11	The	the	DT	_	13	det	_	B-ORG
+12	Linux	linux	NNP	_	13	compound	_	I-ORG
+13	Foundation	foundation	NNP	_	10	dobj	_	L-ORG
+14	after	after	IN	_	10	prep	_	O
+15	a	a	DT	_	16	det	_	O
+16	display	display	NN	_	14	pobj	_	O
+17	of	of	IN	pos2=RB	16	prep	_	O
+18	...	..	.	pos2=NFP	10	punct	_	O
+
+1	https://t.co/jGsqW8kPDf	#hlink#	ADD	_	0	root	_	U-ORG
+

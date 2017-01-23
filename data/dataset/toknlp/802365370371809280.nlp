@@ -1,0 +1,25 @@
+1	@CNNPolitics	@cnnpolitics	IN	pos2=PRP$	7	prep	_	O
+2	social	social	JJ	_	3	nmod	_	O
+3	security	security	NN	pos2=NNP	1	pobj	_	O
+4	,	,	,	_	3	punct	_	O
+5	and	and	CC	_	3	cc	_	O
+6	Medicaid	medicaid	NNP	pos2=NN	3	conj	_	U-ORG
+7	are	be	VBP	_	0	root	_	O
+8	self	self	NN	pos2=JJ	9	npadvmod	_	O
+9	sustaining	sustain	VBG	pos2=NN	10	nmod	_	O
+10	program	program	NN	_	7	attr	_	O
+11	,	,	,	_	7	punct	_	O
+12	the	the	DT	_	13	det	_	O
+13	bullwork	bullwork	NN	pos2=NNS	9	dobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	bluecollar	bluecollar	JJ	_	16	nmod	_	O
+16	retirement	retirement	NN	_	14	pobj	_	O
+17	.	.	.	_	7	punct	_	O
+
+1	you	you	PRP	_	2	nsubj	_	O
+2	cut	cut	VBP	pos2=VBD	0	root	_	O
+3	it	it	PRP	_	2	dobj	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	save	save	VBP	pos2=VB	2	advcl	_	O
+6	nothing	nothing	NN	_	5	dobj	_	O
+

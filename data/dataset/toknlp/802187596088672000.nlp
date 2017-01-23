@@ -1,0 +1,10 @@
+1	@verynetwork	@verynetwork	UH	pos2=XX	4	discourse	_	O
+2	#hatchimals	#hatchimals	UH	pos2=NNS	4	discourse	_	O
+3	#BlackFriday	#blackfriday	NNP	pos2=MD	4	vocative	_	O
+4	Count	count	VB	_	0	root	_	O
+5	me	me	PRP	_	4	dobj	_	O
+6	in	in	RP	pos2=IN	4	prt	_	O
+7	!	!	.	_	4	punct	_	O
+
+1	🍀	🍀	SYM	pos2=NFP	0	root	_	U-ORG
+

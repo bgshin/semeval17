@@ -1,0 +1,19 @@
+1	If	if	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	have	have	VBP	_	10	advcl	_	O
+4	any	any	DT	_	5	det	_	O
+5	love	love	NN	_	3	dobj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	Leonard	leonard	NNP	_	8	compound	_	B-PERSON
+8	Cohen	cohen	NNP	_	6	pobj	_	L-PERSON
+9	you	you	PRP	_	10	nsubj	_	O
+10	have	have	VBP	_	0	root	_	O
+11	to	to	TO	_	12	aux	_	O
+12	read	read	VB	_	10	xcomp	_	O
+13	Beautiful	beautiful	JJ	pos2=NNP	14	nmod	_	O
+14	Losers	loser	NNS	_	12	dobj	_	O
+15	like	like	IN	pos2=UH	12	discourse	_	O
+16	right	right	RB	_	17	advmod	_	O
+17	now	now	RB	_	12	advmod	_	O
+18	.	.	.	_	10	punct	_	O
+

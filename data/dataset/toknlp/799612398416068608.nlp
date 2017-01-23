@@ -1,0 +1,15 @@
+1	@KremlinTrolls	@kremlintrolls	NNS	pos2=UH	8	advcl	_	O
+2	Oh	oh	UH	_	8	discourse	_	O
+3	,	,	,	_	8	punct	_	O
+4	and	and	CC	_	6	cc	_	O
+5	we	we	PRP	_	8	nsubj	_	O
+6	must	must	MD	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	forget	forget	VB	_	0	root	_	O
+9	re	re	IN	pos2=NNS	8	prep	_	O
+10	:	:	:	_	9	punct	_	O
+11	Flynn	flynn	NNP	_	9	pobj	_	U-PERSON
+12	--	--	:	_	11	punct	_	O
+13	a	a	DT	_	14	det	_	O
+14	Putinophile	putinophile	NNP	_	11	appos	_	O
+

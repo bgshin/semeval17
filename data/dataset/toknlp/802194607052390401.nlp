@@ -1,0 +1,15 @@
+1	@typerioter	@typerioter	UH	pos2=XX	5	discourse	_	O
+2	hahahahahaahhahahaahha	hahahahahaahhahahaahha	UH	pos2=TO	5	discourse	_	O
+3	bhae	bhae	UH	pos2=VBP	5	discourse	_	O
+4	i	I	PRP	_	5	nsubj	_	O
+5	identify	identify	VBP	_	0	root	_	O
+6	with	with	IN	_	5	prep	_	O
+7	leftists	leftist	NNS	_	6	pobj	_	O
+8	because	because	IN	_	12	mark	_	O
+9	i	I	PRP	_	12	nsubj	_	O
+10	do	do	VBP	_	12	aux	_	O
+11	nt	nt	RB	_	12	advmod	_	O
+12	identify	identify	VB	_	5	advcl	_	O
+13	with	with	IN	_	12	prep	_	O
+14	rightists	rightist	NNS	_	13	pobj	_	O
+

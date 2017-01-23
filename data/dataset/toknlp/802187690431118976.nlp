@@ -1,0 +1,14 @@
+1	Fires	fire	NNS	pos2=VBZ	13	dep	_	O
+2	near	near	IN	pos2=JJ	1	prep	_	O
+3	'	'	``	pos2=''	5	punct	_	O
+4	Abu	abu	NNP	_	5	compound	_	O
+5	Ghosh	ghosh	NNP	_	2	pobj	_	O
+6	'	'	''	pos2=POS	5	punct	_	O
+7	,	,	,	_	13	punct	_	O
+8	northwest	northwest	NN	pos2=RB	13	dep	_	O
+9	of	of	IN	_	8	prep	_	O
+10	occupied	occupy	VBN	pos2=JJ	12	nmod	_	O
+11	Jerusalem.#israelisburning	jerusalem.#israelisburning	NNP	pos2=GW	12	compound	_	B-LOC
+12	#Palestine	#palestine	NNP	pos2=ADD	9	pobj	_	L-LOC
+13	https://t.co/ipYBW32dQD	#hlink#	ADD	_	0	root	_	O
+

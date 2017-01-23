@@ -1,0 +1,19 @@
+1	#Syria	#syria	NNP	pos2=ADD	4	compound	_	O
+2	#Palestine	#palestine	NNP	pos2=NN	4	compound	_	O
+3	-	-	HYPH	pos2=SYM	4	punct	_	O
+4	Calling	call	VBG	pos2=NNP	0	root	_	O
+5	All	all	DT	pos2=NNP	6	det	_	O
+6	Believers	believer	NNPS	pos2=NNS	10	poss	_	O
+7	ᴴᴰ	ᴴᴰ	POS	pos2=VBP	6	case	_	O
+8	┇	┇	NFP	pos2=PRP$	10	punct	_	O
+9	Powerful	powerful	JJ	pos2=NNP	10	nmod	_	O
+10	Speech	speech	NN	pos2=NNP	4	dobj	_	O
+11	┇	┇	NFP	pos2=NNP	10	acl	_	O
+12	The	the	DT	_	13	det	_	O
+13	Da	da	NNP	pos2=NN	11	pobj	_	O
+14	...	..	.	pos2=,	4	punct	_	O
+
+1	https://t.co/Flby52uYX0	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@YouTube	@youtube	NN	pos2=NNP	2	pobj	_	O
+

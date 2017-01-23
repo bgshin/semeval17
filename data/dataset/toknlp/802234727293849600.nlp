@@ -1,0 +1,23 @@
+1	"	"	``	pos2=SYM	6	punct	_	O
+2	Focusing	focus	VBG	_	0	root	_	O
+3	on	on	IN	_	2	prep	_	O
+4	[	[	-LRB-	_	9	punct	_	O
+5	alt	alt	JJ	pos2=NN	6	nmod	_	O
+6	rightists	rightist	NNS	_	9	poss	_	O
+7	'	'	POS	pos2=''	6	case	_	O
+8	]	]	-RRB-	_	9	punct	_	O
+9	respectability	respectability	NN	_	3	pobj	_	O
+10	...	..	.	pos2=,	6	punct	_	O
+
+1	makes	make	VBZ	_	0	root	_	O
+2	white	white	JJ	_	3	nmod	_	O
+3	supremacy	supremacy	NN	_	4	nsubj	_	O
+4	appear	appear	VBP	pos2=VBZ	1	ccomp	_	O
+5	normal	normal	JJ	_	4	oprd	_	O
+6	and	and	CC	_	5	cc	_	O
+7	acceptable	acceptable	JJ	_	5	conj	_	O
+8	.	.	.	_	1	punct	_	O
+9	"	"	''	_	1	punct	_	O
+
+1	https://t.co/k1m75zJnkO	#hlink#	ADD	_	0	root	_	U-ORG
+

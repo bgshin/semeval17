@@ -1,0 +1,30 @@
+1	@AnthonyP1970	@anthonyp0	NN	pos2=LS	2	compound	_	O
+2	@FredHorne5	@fredhorne0	NN	pos2=NNS	0	root	_	O
+3	yep	yep	UH	_	2	discourse	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	Which	which	WDT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	why	why	WRB	_	5	advmod	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	read	read	VBD	pos2=VBP	2	ccomp	_	O
+6	their	their	PRP$	_	8	poss	_	O
+7	satanic	satanic	JJ	_	8	nmod	_	O
+8	koran	koran	NNS	pos2=NN	5	dobj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	see	see	VB	_	5	advcl	_	O
+11	what	what	WP	_	12	nsubj	_	O
+12	made	make	VBD	_	10	ccomp	_	O
+13	them	them	PRP	pos2=DT	14	nsubj	_	O
+14	tick	tick	NN	pos2=VB	12	ccomp	_	O
+15	.	.	.	_	2	punct	_	O
+
+1	Ignorant	ignorant	JJ	_	2	nmod	_	O
+2	leftists	leftist	NNS	_	3	nsubj	_	O
+3	say	say	VBP	_	0	root	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	did	do	VBD	pos2=VBP	3	ccomp	_	O
+6	to	to	TO	_	7	aux	_	O
+7	be	be	VB	_	5	advcl	_	O
+8	muSLIME	muslime	NN	pos2=.	7	attr	_	O
+

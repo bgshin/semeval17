@@ -1,0 +1,25 @@
+1	UN-SRSG	un-srsg	NN	pos2=NNP	6	nsubj	_	O
+2	,	,	,	_	1	punct	_	O
+3	Martin	martin	NNP	_	4	compound	_	B-PERSON
+4	Kobler	kobler	NNP	_	1	appos	_	L-PERSON
+5	,	,	,	_	1	punct	_	O
+6	calls	call	VBZ	pos2=NNS	0	root	_	O
+7	on	on	IN	_	6	prep	_	O
+8	Libyan	libyan	JJ	_	9	nmod	_	U-NORP
+9	parties	party	NNS	_	7	pobj	_	O
+10	to	to	TO	_	11	aux	_	O
+11	implement	implement	VB	_	6	xcomp	_	O
+12	#Ashkirat	#ashkirat	NNP	pos2=PRP	14	poss	_	U-ORG
+13	's	's	POS	_	12	case	_	O
+14	agreement	agreement	NN	_	11	dobj	_	O
+15	and	and	CC	_	11	cc	_	O
+16	get	get	VB	_	11	conj	_	O
+17	out	out	IN	pos2=RB	16	prep	_	O
+18	of	of	IN	_	17	prep	_	O
+19	the	the	DT	_	22	det	_	O
+20	"	"	``	_	22	punct	_	O
+21	political	political	JJ	_	22	nmod	_	O
+22	dep	dep	NN	pos2=GW	18	pobj	_	O
+23	…	…	NFP	pos2=''	24	punct	_	O
+24	https://t.co/AIBHC2PWXv	#hlink#	ADD	_	22	appos	_	O
+

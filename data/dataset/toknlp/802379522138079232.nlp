@@ -1,0 +1,14 @@
+1	@Brian_Was_Here	@brian_was_here	ADD	pos2=NN	13	punct	_	O
+2	_	_	NFP	pos2=''	13	punct	_	O
+3	George	george	NNP	_	13	compound	_	B-PERSON
+4	SorosDebbie	sorosdebbie	NNP	_	13	compound	_	L-PERSON
+5	WassermanHoward	wassermanhoward	NNP	_	13	compound	_	O
+6	Dean	dean	NNP	_	13	compound	_	O
+7	Joe	joe	NNP	_	13	compound	_	B-PERSON
+8	BidenVictor	bidenvictor	NNP	_	13	compound	_	L-PERSON
+9	ThornJeffery	thornjeffery	NNP	_	13	compound	_	O
+10	EpsteinJohn	epsteinjohn	NNP	_	13	compound	_	O
+11	PodestaTony	podestatony	NNP	_	13	compound	_	B-PERSON
+12	PodestaJoe	podestajoe	NNP	_	13	compound	_	I-PERSON
+13	Montano	montano	NNP	_	0	root	_	L-PERSON
+

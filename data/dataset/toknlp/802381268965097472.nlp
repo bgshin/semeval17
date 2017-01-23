@@ -1,0 +1,28 @@
+1	Republicans	republican	NNPS	pos2=NNS	9	nsubj	_	U-NORP
+2	,	,	,	_	9	punct	_	O
+3	Conservatives	conservative	NNPS	pos2=NNS	1	conj	_	U-NORP
+4	,	,	,	_	3	punct	_	O
+5	and	and	CC	_	3	cc	_	O
+6	Non-Bigoted	non-bigoted	NNP	pos2=JJ	7	compound	_	B-PERSON
+7	Trump	trump	NNP	pos2=NN	8	compound	_	L-PERSON
+8	supporters	supporter	NNS	_	3	conj	_	O
+9	exist	exist	VBP	_	0	root	_	O
+10	.	.	.	_	9	punct	_	O
+
+1	Some	some	DT	_	9	nsubj	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	watch	watch	VBP	_	1	relcl	_	O
+4	on	on	IN	pos2=RP	3	prep	_	O
+5	TV.	tv.	NNP	_	4	pobj	_	O
+6	You	you	PRP	_	9	nsubj	_	O
+7	might	might	MD	_	9	aux	_	O
+8	not	not	RB	_	9	neg	_	O
+9	be	be	VB	_	0	root	_	O
+10	.	.	.	_	9	punct	_	O
+
+1	Move	move	VB	_	0	root	_	O
+2	on	on	RP	pos2=IN	1	prt	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	#GH	#gh	UH	pos2=NN	0	root	_	O
+

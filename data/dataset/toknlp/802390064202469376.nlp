@@ -1,0 +1,22 @@
+1	Bob	bob	NNP	_	2	compound	_	B-PERSON
+2	Dylan	dylan	NNP	_	3	nsubj	_	L-PERSON
+3	sings	sing	VBZ	_	0	root	_	O
+4	Like	like	IN	pos2=NNP	3	prep	_	O
+5	A	a	DT	pos2=NNP	7	det	_	O
+6	Rolling	rolling	NNP	pos2=VBG	7	compound	_	O
+7	Stone	stone	NNP	pos2=NN	4	pobj	_	O
+8	live	live	VB	pos2=RB	3	advcl	_	O
+9	at	at	IN	_	8	prep	_	O
+10	The	the	DT	pos2=NNP	12	det	_	B-WORK_OF_ART
+11	Desert	desert	NNP	_	12	compound	_	I-WORK_OF_ART
+12	Trip	trip	NNP	pos2=NN	9	pobj	_	L-WORK_OF_ART
+13	at	at	IN	_	12	prep	_	O
+14	Coachella	coachella	NNP	_	13	pobj	_	U-GPE
+15	on	on	IN	_	8	prep	_	O
+16	October	october	NNP	_	15	pobj	_	B-DATE
+17	14	0	CD	_	16	nmod	_	I-DATE
+18	,	,	,	_	16	punct	_	I-DATE
+19	2016	0	CD	_	16	npadvmod	_	I-DATE
+20	-	-	:	pos2=HYPH	21	punct	_	I-DATE
+21	https://t.co/sb2sfiQX5r	#hlink#	ADD	pos2=NN	16	appos	_	L-DATE
+

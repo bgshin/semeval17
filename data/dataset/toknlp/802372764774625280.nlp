@@ -1,0 +1,26 @@
+1	You	you	PRP	_	3	nsubj	_	O
+2	should	should	MD	_	3	aux	_	O
+3	b	b	VB	pos2=RB	9	ccomp	_	O
+4	ashamed	ashamed	JJ	_	6	nmod	_	O
+5	JILL	jill	NNP	_	6	compound	_	B-PERSON
+6	STEIN	stein	NNP	_	3	dobj	_	L-PERSON
+7	,	,	,	_	9	punct	_	O
+8	u	u	PRP	pos2=NNS	9	nsubj	_	O
+9	are	be	VBP	_	0	root	_	O
+10	in	in	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	tank	tank	NN	_	10	pobj	_	O
+13	w	w	IN	pos2=POS	9	prep	_	O
+14	George	george	NNP	_	15	compound	_	B-PERSON
+15	Soros	soros	NNP	_	13	pobj	_	L-PERSON
+16	&	&	CC	_	15	cc	_	O
+17	Hillary	hillary	NNP	_	18	compound	_	B-PERSON
+18	Clinton	clinton	NNP	_	15	conj	_	L-PERSON
+19	,	,	,	_	20	punct	_	O
+20	go	go	VB	_	9	conj	_	O
+21	to	to	IN	_	20	prep	_	O
+22	hell	hell	NN	_	21	pobj	_	O
+23	..	..	.	_	20	punct	_	O
+
+1	https://t.co/np1hK9puwt@KellyannePolls	#hlink#	ADD	_	0	root	_	U-ORG
+

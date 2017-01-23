@@ -1,0 +1,20 @@
+1	In	in	IN	_	19	prep	_	O
+2	photos	photo	NNS	pos2=NN	1	pobj	_	O
+3	:	:	:	_	19	punct	_	O
+4	“	"	``	_	19	punct	_	O
+5	Scenes	scene	NNS	pos2=NNPS	19	nsubj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	Flight	flight	NNP	pos2=NN	6	pobj	_	O
+8	From	from	IN	_	7	prep	_	O
+9	#Mosul	#mosul	NNP	_	12	poss	_	U-ORG
+10	’s	's	POS	_	9	case	_	O
+11	Front	front	NNP	_	12	compound	_	B-ORG
+12	Lines	line	NNP	pos2=NNPS	8	pobj	_	I-ORG
+13	”	"	''	pos2=GW	19	punct	_	L-ORG
+14	https://t.co/kLociHWbL3	#hlink#	ADD	pos2=NN	19	nsubj	_	O
+15	by	by	IN	_	14	agent	_	O
+16	@SergeyPonomarev	@sergeyponomarev	NNP	pos2=ADD	15	pobj	_	B-ORG
+17	&	&	CC	_	16	cc	_	I-ORG
+18	@tarangoNYT	@tarangonyt	ADD	pos2=NNP	16	conj	_	L-ORG
+19	#MosulOffensive	#mosuloffensive	ADD	pos2=JJ	0	root	_	O
+

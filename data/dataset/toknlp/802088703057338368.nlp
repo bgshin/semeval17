@@ -1,0 +1,17 @@
+1	@JackMarsman	@jackmarsman	ADD	pos2=NN	6	punct	_	O
+2	@poroshenko	@poroshenko	UH	pos2=IN	6	discourse	_	O
+3	@VVD	@vvd	NN	pos2=NFP	5	poss	_	O
+4	@TPOnl	@tponl	ADD	pos2=$	6	punct	_	O
+5	#Poroshenko	#poroshenko	NNP	pos2=WP	6	nsubj	_	U-ORG
+6	has	have	VBZ	_	0	root	_	O
+7	€	$	$	pos2=VBN	8	nmod	_	O
+8	1bio	0bio	CD	pos2=JJ	9	nmod	_	U-MONEY
+9	assets	asset	NNS	_	6	dobj	_	O
+10	and	and	CC	_	6	cc	_	O
+11	pays	pay	VBZ	pos2=VB	6	conj	_	O
+12	zero	#crd#	CD	_	14	nmod	_	U-CARDINAL
+13	tax	tax	NN	_	14	compound	_	O
+14	#clawback	#clawback	NN	pos2=WDT	11	dobj	_	O
+15	please	please	UH	_	16	discourse	_	O
+16	https://t.co/cRGzYAo67U	#hlink#	ADD	_	11	dobj	_	U-ORG
+

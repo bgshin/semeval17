@@ -1,0 +1,23 @@
+1	Is	be	VBZ	_	0	root	_	O
+2	3	0	CD	_	3	nmod	_	U-CARDINAL
+3	D	d	NN	pos2=JJ	4	aux	_	O
+4	printing	print	VBG	pos2=NN	1	nsubj	_	O
+5	possible	possible	JJ	pos2=RB	4	acomp	_	O
+6	on	on	IN	_	4	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	moon	moon	NN	_	6	pobj	_	O
+9	?	?	.	_	1	punct	_	O
+
+1	Elementary	elementary	JJ	pos2=NNP	2	nmod	_	O
+2	students	student	NNS	_	3	nsubj	_	O
+3	create	create	VBP	pos2=VB	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	short	short	JJ	_	6	nmod	_	O
+6	story	story	NN	_	3	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	possibilities	possibility	NNS	_	7	pobj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/LmyJYPRWHT	#hlink#	ADD	pos2=NN	0	root	_	O
+

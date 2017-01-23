@@ -1,0 +1,7 @@
+1	The	the	DT	_	6	det	_	O
+2	(	(	-LRB-	_	3	punct	_	O
+3	Shipped	ship	VBN	pos2=NNP	0	root	_	O
+4	)	)	-RRB-	_	3	punct	_	O
+5	Gold	gold	NN	pos2=NNP	0	root	_	O
+6	Standard	standard	JJ	pos2=NNP	5	nmod	_	O
+

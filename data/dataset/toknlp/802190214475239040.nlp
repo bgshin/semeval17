@@ -1,0 +1,25 @@
+1	Just	just	RB	_	2	advmod	_	O
+2	in	in	IN	pos2=RB	0	root	_	O
+3	:	:	:	_	2	punct	_	O
+4	Trump	trump	NNP	pos2=NN	5	compound	_	U-ORG
+5	advisor	advisor	NN	pos2=NNP	7	compound	_	O
+6	Steve	steve	NNP	_	7	compound	_	B-PERSON
+7	Bannon	bannon	NNP	_	8	nsubj	_	L-PERSON
+8	wants	want	VBZ	_	2	pcomp	_	O
+9	Black	black	NNP	_	10	compound	_	B-EVENT
+10	Friday	friday	NNP	_	11	nsubj	_	L-EVENT
+11	banned	ban	VBN	_	8	ccomp	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	Shopping	shop	VBG	pos2=NN	2	nmod	_	O
+2	day	day	NN	_	5	nsubj	_	O
+3	does	do	VBZ	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	fit	fit	VB	_	0	root	_	O
+6	Alt	alt	NNP	pos2=JJ	8	advmod	_	O
+7	-	-	HYPH	_	8	punct	_	O
+8	Right	right	JJ	pos2=NNP	10	nmod	_	O
+9	color	color	NN	_	10	compound	_	O
+10	scheme	scheme	NN	_	5	dobj	_	O
+11	.	.	.	_	5	punct	_	O
+

@@ -1,0 +1,8 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	really	really	RB	_	3	advmod	_	O
+3	want	want	VBP	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	try	try	VB	_	3	xcomp	_	O
+6	the	the	DT	_	7	det	_	O
+7	#MannequinChallenge	#mannequinchallenge	NN	pos2=NNP	5	dobj	_	O
+

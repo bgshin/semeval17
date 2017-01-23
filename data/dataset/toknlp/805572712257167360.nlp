@@ -1,0 +1,19 @@
+1	@lightskinlyss	@lightskinlyss	UH	pos2=NN	3	discourse	_	O
+2	Please	please	UH	_	3	discourse	_	O
+3	urge	urge	VB	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	French	french	JJ	_	6	nmod	_	U-NORP
+6	charity	charity	NN	_	3	dobj	_	O
+7	Téléthon	téléthon	NNP	pos2=NN	6	appos	_	O
+8	to	to	TO	_	9	aux	_	O
+9	stop	stop	VB	_	3	xcomp	_	O
+10	funding	fund	VBG	_	9	xcomp	_	O
+11	these	these	DT	_	13	det	_	O
+12	cruel	cruel	JJ	_	13	nmod	_	O
+13	experiments	experiment	NNS	_	10	dobj	_	O
+14	on	on	IN	_	10	prep	_	O
+15	dogs	dog	NNS	_	14	pobj	_	O
+16	.	.	.	_	3	punct	_	O
+
+1	https://t.co/KcUpeFX50a	#hlink#	ADD	_	0	root	_	U-ORG
+

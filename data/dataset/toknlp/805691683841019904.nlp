@@ -1,0 +1,20 @@
+1	@nab2149	@nab0	NN	pos2=LS	4	vocative	_	O
+2	@GinaDameron	@ginadameron	ADD	pos2=GW	4	det	_	O
+3	@WaldoWilbur	@waldowilbur	GW	pos2=ADD	4	nsubj	_	O
+4	@realDonaldTrump	@realdonaldtrump	VBP	pos2=UH	0	root	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	's	's	VBZ	_	4	ccomp	_	O
+7	you	you	PRP	_	6	attr	_	O
+8	who	who	WP	_	11	nsubj	_	O
+9	does	do	VBZ	_	11	aux	_	O
+10	n't	not	RB	_	11	neg	_	O
+11	understand	understand	VB	_	6	ccomp	_	O
+12	why	why	WRB	_	17	advmod	_	O
+13	the	the	DT	_	15	det	_	O
+14	electoral	electoral	JJ	_	15	nmod	_	O
+15	college	college	NN	_	17	nsubjpass	_	O
+16	was	be	VBD	_	17	auxpass	_	O
+17	set	set	VBN	_	11	ccomp	_	O
+18	up	up	RP	pos2=NN	17	prt	_	O
+19	.	.	.	_	4	punct	_	O
+

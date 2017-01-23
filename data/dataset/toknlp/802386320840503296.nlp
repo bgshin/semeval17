@@ -1,0 +1,7 @@
+1	@CNNPolitics	@cnnpolitics	NNS	pos2=PRP$	4	discourse	_	O
+2	trump	trump	NN	pos2=JJ	3	compound	_	O
+3	cabinet	cabinet	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	all	all	DT	pos2=RB	6	advmod	_	O
+6	white	white	JJ	_	4	acomp	_	O
+

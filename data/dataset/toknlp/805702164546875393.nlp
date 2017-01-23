@@ -1,0 +1,32 @@
+1	@Derekjw	@derekjw	NNP	pos2=XX	0	root	_	O
+2	Hmmm	hmmm	UH	_	1	discourse	_	O
+3	..	..	.	pos2=,	1	punct	_	O
+
+1	would	would	MD	_	3	aux	_	O
+2	they	they	PRP	_	3	nsubj	_	O
+3	be	be	VB	_	0	root	_	O
+4	#Westworld	#westworld	NNP	pos2=VBN	3	attr	_	U-ORG
+5	,	,	,	_	4	punct	_	O
+6	#BlackMirror	#blackmirror	NNP	pos2=XX	4	conj	_	U-ORG
+7	,	,	,	_	6	punct	_	O
+8	&	&	CC	_	6	cc	_	O
+9	#Utopia	#utopia	NNP	pos2=NN	6	conj	_	O
+10	(	(	-LRB-	_	4	punct	_	O
+11	the	the	DT	_	13	det	_	O
+12	British	british	JJ	pos2=NNP	13	nmod	_	U-NORP
+13	show	show	NN	pos2=VBP	4	appos	_	O
+14	)	)	-RRB-	_	4	punct	_	O
+15	.	.	.	_	3	punct	_	O
+
+1	Those	those	DT	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	ones	#crd#	NNS	_	2	attr	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	talk	talk	VBP	_	4	relcl	_	O
+7	a	a	DT	_	8	det	_	O
+8	lot	lot	NN	_	6	dobj	_	O
+9	about	about	IN	_	8	prep	_	O
+10	right	right	JJ	pos2=NN	9	pobj	_	O
+11	now.#favs	now.#favs	.	pos2=RB	2	punct	_	O
+

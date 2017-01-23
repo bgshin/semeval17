@@ -1,0 +1,29 @@
+1	Well	well	UH	_	6	discourse	_	O
+2	ya	ya	PRP	pos2=UH	3	nsubj	_	O
+3	know	know	VBP	pos2=VB	6	parataxis	_	O
+4	global	global	JJ	_	5	nmod	_	O
+5	warming	warming	NN	_	6	nsubj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	thing	thing	NN	_	6	attr	_	O
+9	,	,	,	_	6	punct	_	O
+10	and	and	CC	_	6	cc	_	O
+11	the	the	DT	_	13	det	_	O
+12	greatest	great	JJS	_	13	nmod	_	O
+13	threat	threat	NN	_	8	appos	_	O
+14	to	to	IN	_	13	prep	_	O
+15	humanity	humanity	NN	_	14	pobj	_	O
+16	,	,	,	_	6	punct	_	O
+17	but	but	CC	_	6	cc	_	O
+18	yea	yea	TO	pos2=UH	19	aux	_	O
+19	burn	burn	VB	pos2=VBP	6	conj	_	O
+20	all	all	PDT	_	23	predet	_	O
+21	the	the	DT	_	23	det	_	O
+22	fossil	fossil	NN	pos2=JJ	23	compound	_	O
+23	fuels	fuel	NNS	_	19	dobj	_	O
+24	!!!	!!	.	_	6	punct	_	O
+
+1	N	n	GW	pos2=JJ	3	nmod	_	O
+2	…	…	NFP	pos2=GW	3	punct	_	O
+3	https://t.co/FXtpQKHEbb	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

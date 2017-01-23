@@ -1,0 +1,18 @@
+1	https://t.co/Pl02bsFmPP	#hlink#	ADD	_	0	root	_	O
+2	most	most	RBS	pos2=-RRB-	3	advmod	_	O
+3	often	often	RB	_	5	advmod	_	O
+4	#Dua	#dua	WP	pos2=NNP	1	punct	_	O
+5	made	make	VBN	_	4	acl	_	O
+6	by	by	IN	_	5	agent	_	O
+7	#Muhammad	#muhammad	NNP	pos2=ADD	6	pobj	_	U-PERSON
+8	(	(	-LRB-	_	9	punct	_	O
+9	s.a.w	s.a.w	NNP	pos2=ADD	7	appos	_	U-PERSON
+10	)	)	-RRB-	_	9	punct	_	O
+11	.@MajedMahmoud2	.@majedmahmoud0	NN	pos2=WDT	13	compound	_	O
+12	Jazakallahu	jazakallahu	NNP	pos2=XX	13	compound	_	U-GPE
+13	khayr	khayr	NN	pos2=NNP	7	appos	_	O
+14	.	.	.	_	1	punct	_	O
+
+1	#islam	#islam	UH	pos2=XX	2	discourse	_	O
+2	#Muslims	#muslims	NNS	pos2=UH	0	root	_	O
+

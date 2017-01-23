@@ -1,0 +1,20 @@
+1	@petestavros	@petestavros	UH	pos2=NNS	4	discourse	_	O
+2	@CamilleRenee8	@camillerenee0	NN	pos2=ADD	4	nsubj	_	O
+3	@megynkelly	@megynkelly	RB	pos2=NN	4	advmod	_	O
+4	begging	beg	VBG	_	12	csubj	_	O
+5	for	for	IN	_	4	prep	_	O
+6	book	book	NN	_	7	compound	_	O
+7	sales	sale	NNS	_	5	pobj	_	O
+8	&	&	CC	_	4	cc	_	O
+9	playing	play	VBG	_	4	conj	_	O
+10	a	a	DT	_	11	det	_	O
+11	victim	victim	NN	_	9	dobj	_	O
+12	is	be	VBZ	_	18	ccomp	_	O
+13	nt	nt	RB	_	14	advmod	_	O
+14	cool	cool	JJ	_	12	acomp	_	O
+15	,	,	,	_	18	punct	_	O
+16	PC	pc	NN	_	17	compound	_	O
+17	crap	crap	NN	_	18	nsubj	_	O
+18	is	be	VBZ	_	0	root	_	O
+19	over	over	RB	pos2=IN	18	advmod	_	O
+

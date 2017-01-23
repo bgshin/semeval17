@@ -1,0 +1,27 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	an	an	DT	_	5	det	_	O
+4	underrated	underrated	JJ	_	5	nmod	_	O
+5	tweet	tweet	NN	_	2	attr	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	The	the	DT	_	5	det	_	O
+2	education	education	NN	_	4	nmod	_	O
+3	/	/	SYM	pos2=,	4	punct	_	O
+4	liberalism	liberalism	NN	_	5	compound	_	O
+5	correlation	correlation	NN	_	7	nsubj	_	O
+6	should	should	MD	_	7	aux	_	O
+7	be	be	VB	_	0	root	_	O
+8	a	a	DT	_	9	det	_	O
+9	wake	wake	NN	pos2=VB	11	nmod	_	O
+10	up	up	RP	pos2=NN	9	prt	_	O
+11	call	call	NN	pos2=VB	7	attr	_	O
+12	for	for	IN	_	11	prep	_	O
+13	conservatives	conservative	NNS	_	12	pobj	_	O
+14	.	.	.	_	7	punct	_	O
+
+1	How	how	WRB	_	4	advmod	_	O
+2	c	c	GW	pos2=JJ	4	nmod	_	O
+3	…	…	:	pos2=GW	4	punct	_	O
+4	https://t.co/RqVbmqybSP	#hlink#	ADD	pos2=NN	0	root	_	O
+

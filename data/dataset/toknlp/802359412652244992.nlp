@@ -1,0 +1,15 @@
+1	True	true	JJ	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Also	also	RB	_	6	advmod	_	O
+2	,	,	,	_	6	punct	_	O
+3	do	do	VBP	pos2=VB	6	aux	_	O
+4	n't	not	RB	_	6	neg	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	support	support	VB	pos2=NN	0	root	_	O
+7	TPP	tpp	NN	pos2=NNP	6	dobj	_	O
+8	??	??	.	_	6	punct	_	O
+
+1	Weird	weird	JJ	pos2=-LRB-	2	nmod	_	O
+2	https://t.co/CuLHsIoUfH	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,11 @@
+1	@megynkelly	@megynkelly	UH	pos2=RB	5	discourse	_	O
+2	@ainsleyearhardt	@ainsleyearhardt	UH	pos2=IN	5	discourse	_	O
+3	You	you	PRP	_	5	nsubj	_	O
+4	should	should	MD	_	5	aux	_	O
+5	take	take	VB	_	0	root	_	O
+6	over	over	RP	pos2=IN	5	prt	_	O
+7	her	her	PRP$	_	8	poss	_	O
+8	show	show	NN	pos2=VB	5	dobj	_	O
+9	permanently	permanently	RB	_	5	advmod	_	O
+10	.	.	.	_	5	punct	_	O
+

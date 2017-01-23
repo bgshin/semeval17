@@ -1,0 +1,17 @@
+1	"	"	``	pos2=SYM	4	punct	_	O
+2	Microsoft	microsoft	NNP	_	4	nsubj	_	U-ORG
+3	has	have	VBZ	_	4	aux	_	O
+4	joined	join	VBN	_	0	root	_	O
+5	the	the	DT	_	7	det	_	B-ORG
+6	Linux	linux	NNP	_	7	compound	_	I-ORG
+7	Foundation	foundation	NNP	_	4	dobj	_	L-ORG
+8	as	as	IN	_	4	prep	_	O
+9	a	a	DT	_	11	det	_	O
+10	Platinum	platinum	NNP	pos2=NN	11	compound	_	U-ORG
+11	member	member	NN	_	8	pobj	_	O
+12	.	.	.	_	4	punct	_	O
+13	"	"	''	_	4	punct	_	O
+
+1	https://t.co/nomXpaUr73via	#hlink#	ADD	_	0	root	_	O
+2	@readmelk	@readmelk	-RRB-	pos2=UH	1	punct	_	O
+

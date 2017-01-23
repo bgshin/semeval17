@@ -1,0 +1,31 @@
+1	“	"	``	pos2=SYM	3	punct	_	O
+2	Facebook	facebook	NNP	_	3	nsubj	_	U-ORG
+3	is	be	VBZ	_	0	root	_	O
+4	what	what	WP	_	5	nsubj	_	O
+5	propelled	propel	VBD	_	3	ccomp	_	O
+6	Breitbart	breitbart	NNP	_	5	dobj	_	U-PERSON
+7	to	to	IN	_	5	prep	_	O
+8	a	a	DT	_	10	det	_	O
+9	massive	massive	JJ	_	10	nmod	_	O
+10	audience	audience	NN	_	7	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	know	know	VBP	_	0	root	_	O
+3	its	its	PRP$	_	4	poss	_	O
+4	power	power	NN	_	2	dobj	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	”	"	''	pos2=``	3	punct	_	O
+2	-	-	:	pos2=,	4	punct	_	O
+3	Steve	steve	NNP	_	4	compound	_	B-PERSON
+4	Bannon	bannon	NNP	_	0	root	_	L-PERSON
+5	.	.	.	_	4	punct	_	O
+
+1	https://t.co/6C8TWR1OpI	#hlink#	ADD	pos2=NN	0	root	_	O
+2	(	(	-LRB-	_	4	punct	_	O
+3	Scary	scary	JJ	_	4	nmod	_	O
+4	article	article	NN	_	1	appos	_	O
+5	.	.	.	_	1	punct	_	O
+6	)	)	-RRB-	_	1	punct	_	O
+

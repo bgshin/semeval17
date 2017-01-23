@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det	_	O
+2	defense	defense	NN	_	11	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	the	the	DT	_	6	det	_	O
+5	US	us	NNP	_	6	compound	_	U-GPE
+6	elections	election	NNS	_	3	pobj	_	O
+7	from	from	IN	_	6	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	Obama	obama	NNP	_	10	compound	_	O
+10	Admin	admin	NNP	pos2=NN	7	pobj	_	O
+11	came	come	VBD	_	0	root	_	O
+12	amidst	amidst	IN	_	11	prep	_	O
+13	hacking	hack	VBG	_	14	nmod	_	O
+14	fears	fear	NNS	_	12	pobj	_	O
+15	&	&	CC	_	14	cc	_	O
+16	allegations	allegation	NNS	_	14	conj	_	O
+17	of	of	IN	_	14	prep	_	O
+18	hacking	hack	VBG	pos2=NN	17	pcomp	_	O
+19	from	from	IN	_	18	prep	_	O
+20	Russi	russi	NNP	_	22	poss	_	B-PERSON
+21	…	…	POS	pos2=NFP	20	case	_	L-PERSON
+22	https://t.co/uxyFVX73d0	#hlink#	ADD	_	19	pobj	_	O
+

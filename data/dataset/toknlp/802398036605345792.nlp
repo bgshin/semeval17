@@ -1,0 +1,26 @@
+1	@JohnStossel	@johnstossel	NN	pos2=UH	0	root	_	O
+2	they	they	PRP	_	3	nsubj	_	O
+3	paid	pay	VBD	_	1	relcl	_	O
+4	for	for	IN	_	3	prep	_	O
+5	it	it	PRP	_	4	pobj	_	O
+6	out	out	IN	_	3	prep	_	O
+7	of	of	IN	_	6	prep	_	O
+8	every	every	DT	_	9	det	_	O
+9	paycheck	paycheck	NN	_	7	pobj	_	O
+10	.	.	.	_	1	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	wealthy	wealthy	JJ	pos2=NN	5	nsubj	_	O
+3	's	's	POS	_	2	case	_	O
+4	elderly	elderly	JJ	_	3	acomp	_	O
+5	give	give	VB	pos2=VBP	0	root	_	O
+6	everything	everything	NN	_	5	dobj	_	O
+7	to	to	IN	_	5	prep	_	O
+8	their	their	PRP$	_	9	poss	_	O
+9	families	family	NNS	_	7	pobj	_	O
+10	then	then	RB	_	11	advmod	_	O
+11	claim	claim	VBP	pos2=VB	5	dep	_	O
+12	Social	social	NNP	_	13	compound	_	B-ORG
+13	Security	security	NNP	_	11	dobj	_	L-ORG
+14	.	.	.	_	5	punct	_	O
+

@@ -1,0 +1,18 @@
+1	@SciencePorn	@scienceporn	ADD	pos2=XX	3	punct	_	O
+2	@seandela321	@seandela0	NN	pos2=IN	0	root	_	O
+3	Sean	sean	NNP	_	2	vocative	_	U-PERSON
+4	if	if	IN	_	7	mark	_	O
+5	you	you	PRP	_	7	nsubj	_	O
+6	really	really	RB	_	7	advmod	_	O
+7	believe	believe	VBP	pos2=VB	1	advcl	_	O
+8	this	this	DT	_	9	nsubj	_	O
+9	please	please	UH	_	7	discourse	_	O
+10	...	..	.	pos2=,	1	punct	_	O
+
+1	gim	gim	VB	_	0	root	_	O
+2	me	me	PRP	_	1	dative	_	O
+3	all	all	PDT	pos2=DT	5	predet	_	O
+4	your	your	PRP$	_	5	poss	_	O
+5	vaccines	vaccine	NNS	_	1	dobj	_	O
+6	back	back	RB	pos2=RP	1	advmod	_	O
+

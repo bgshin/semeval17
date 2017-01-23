@@ -1,0 +1,12 @@
+1	Just	just	RB	_	2	advmod	_	O
+2	keep	keep	VB	_	0	root	_	O
+3	on	on	IN	pos2=RP	2	prt	_	O
+4	tweeting	tweet	VBG	_	2	xcomp	_	O
+5	Team	team	NNP	pos2=NN	6	compound	_	B-ORG
+6	Robots	robot	NNS	pos2=NNP	4	dobj	_	L-ORG
+7	!	!	.	_	2	punct	_	O
+
+1	:)	:)	NFP	pos2=SYM	3	punct	_	O
+2	EDVEN	edven	NNP	pos2=VBN	3	compound	_	O
+3	StillfAYTing	stillfayting	NNP	pos2=NN	0	root	_	O
+

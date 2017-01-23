@@ -1,0 +1,20 @@
+1	"	"	``	_	5	punct	_	O
+2	We	we	PRP	_	5	nsubj	_	O
+3	're	be	VBP	_	5	aux	_	O
+4	already	already	RB	_	5	advmod	_	O
+5	experimenting	experiment	VBG	_	0	root	_	O
+6	with	with	IN	_	5	prep	_	O
+7	more	more	JJR	_	8	nmod	_	O
+8	materials	material	NNS	_	6	pobj	_	O
+9	.	.	.	_	5	punct	_	O
+10	"	"	''	_	5	punct	_	O
+
+1	-	-	SYM	pos2=HYPH	6	punct	_	O
+2	3D_Fuel	0d_fuel	NN	pos2=JJ	3	compound	_	O
+3	co-founder	co-founder	NN	pos2=GW	6	dep	_	O
+4	John	john	NNP	_	5	compound	_	B-PERSON
+5	Schneider	schneider	NNP	_	6	dep	_	L-PERSON
+6	https://t.co/KwRaSF4RwL	#hlink#	ADD	pos2=NNP	0	root	_	O
+7	via	via	IN	_	6	prep	_	O
+8	cnntech	cnntech	NN	pos2=JJ	7	pobj	_	O
+

@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det	_	O
+2	Band	band	NNP	_	16	nsubj	_	O
+3	With	with	IN	_	2	prep	_	O
+4	Bob	bob	NNP	_	5	compound	_	O
+5	Dylan	dylan	NNP	_	3	pobj	_	O
+6	-	-	:	pos2=,	2	punct	_	O
+7	When	when	WRB	_	9	advmod	_	O
+8	I	I	PRP	_	9	nsubj	_	O
+9	Paint	paint	VBP	_	2	advcl	_	O
+10	My	my	PRP$	_	11	poss	_	O
+11	Masterpiece	masterpiece	NN	pos2=NNP	9	dobj	_	O
+12	(	(	-LRB-	_	13	punct	_	O
+13	1-1-72	0	CD	_	11	appos	_	U-CARDINAL
+14	)	)	-RRB-	_	11	punct	_	O
+15	Had	have	VBD	_	16	aux	_	O
+16	@SteveDunfee	@stevedunfee	VBN	pos2=CD	0	root	_	O
+17	@MattBoydston	@mattboydston	GW	pos2=ADD	19	nmod	_	U-MONEY
+18	@Art_Donovan	@art_donovan	GW	pos2=ADD	19	nmod	_	O
+19	https://t.co/d9YZ9uFw9r	#hlink#	ADD	pos2=NN	16	dobj	_	O
+

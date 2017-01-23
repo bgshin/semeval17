@@ -1,0 +1,25 @@
+1	Season	season	NN	_	7	nsubj	_	O
+2	4	0	CD	_	1	nmod	_	U-CARDINAL
+3	of	of	IN	_	1	prep	_	O
+4	arrested	arrest	VBN	pos2=JJ	5	nmod	_	O
+5	development	development	NN	_	3	pobj	_	O
+6	(2013)	(0)	CD	pos2=CC	5	nmod	_	O
+7	announced	announce	VBD	pos2=VBN	0	root	_	O
+8	the	the	DT	_	9	det	_	O
+9	building	building	NN	_	7	dobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	a	a	DT	_	12	det	_	O
+12	wall	wall	NN	_	10	pobj	_	O
+13	on	on	IN	_	12	prep	_	O
+14	the	the	DT	_	18	det	_	O
+15	American	american	JJ	_	17	advmod	_	U-NORP
+16	-	-	HYPH	_	17	punct	_	O
+17	Mexican	mexican	JJ	_	18	nmod	_	U-NORP
+18	border	border	NN	_	13	pobj	_	O
+19	.	.	.	_	7	punct	_	O
+
+1	Original	original	JJ	pos2=NN	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	0	root	_	O
+

@@ -1,0 +1,16 @@
+1	@Superman4Bernie	@superman0bernie	NN	pos2=XX	3	nmod	_	O
+2	@bullimusmaximus	@bullimusmaximus	UH	pos2=NN	3	discourse	_	O
+3	@wdmichael3	@wdmichael0	NN	pos2=CD	10	nsubj	_	O
+4	@NewRepublic	@newrepublic	ADD	pos2=JJ	10	nsubj	_	O
+5	@pseudoerasmus	@pseudoerasmus	IN	pos2=CC	4	prep	_	O
+6	The	the	DT	_	8	det	_	O
+7	NeoFascist	neofascist	NNP	pos2=JJ	8	compound	_	O
+8	Conservatives	conservative	NNPS	pos2=NNS	5	pobj	_	O
+9	all	all	DT	pos2=RB	8	appos	_	O
+10	cling	cling	VBP	pos2=VB	0	root	_	O
+11	to	to	IN	_	10	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	fact	fact	NN	_	11	pobj	_	O
+14	that	that	IN	pos2=DT	10	mark	_	O
+15	...	..	.	pos2=,	10	punct	_	O
+

@@ -1,0 +1,25 @@
+1	A	a	DT	_	6	det	_	O
+2	pretty	pretty	RB	_	5	advmod	_	O
+3	well	well	RB	_	5	advmod	_	O
+4	-	-	HYPH	_	5	punct	_	O
+5	rounded	rounded	JJ	pos2=VBN	6	nmod	_	O
+6	article	article	NN	_	12	dep	_	O
+7	;	;	:	pos2=,	12	punct	_	O
+8	Kim	kim	NNP	_	11	compound	_	B-PERSON
+9	Jong	jong	NNP	_	11	compound	_	I-PERSON
+10	-	-	HYPH	_	11	punct	_	I-PERSON
+11	un	un	NNP	pos2=NN	12	nsubj	_	L-PERSON
+12	is	be	VBZ	_	0	root	_	O
+13	only	only	RB	_	14	advmod	_	O
+14	interested	interested	JJ	_	12	acomp	_	O
+15	in	in	IN	_	14	prep	_	O
+16	longevity	longevity	NN	_	15	pobj	_	O
+17	,	,	,	_	12	punct	_	O
+18	as	as	IN	_	20	mark	_	O
+19	i	I	PRP	_	20	nsubj	_	O
+20	wrote	write	VBD	_	12	advcl	_	O
+21	here	here	RB	_	20	advmod	_	O
+22	:	:	:	_	12	punct	_	O
+23	https://t.co/EKrU8dvgyz	#hlink#	ADD	_	24	nmod	_	O
+24	https://t.co/tW1e1lUxia	#hlink#	ADD	_	12	dep	_	U-ORG
+

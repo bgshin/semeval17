@@ -1,0 +1,16 @@
+1	ask	ask	VB	_	0	root	_	O
+2	them	them	PRP	_	1	dobj	_	O
+3	what	what	WP	_	6	dobj	_	O
+4	they	they	PRP	_	6	nsubj	_	O
+5	'd	would	MD	_	6	aux	_	O
+6	feel	feel	VB	_	1	ccomp	_	O
+7	if	if	IN	_	10	mark	_	O
+8	Brexit	brexit	NNP	_	10	nsubjpass	_	U-PERSON
+9	was	be	VBD	_	10	auxpass	_	O
+10	called	call	VBN	_	6	advcl	_	O
+11	off	off	RP	pos2=RB	10	prt	_	O
+12	now	now	RB	_	10	advmod	_	O
+13	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/Ivah3AcNsj	#hlink#	ADD	_	0	root	_	U-ORG
+

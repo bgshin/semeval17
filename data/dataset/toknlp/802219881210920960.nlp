@@ -1,0 +1,13 @@
+1	New	new	JJ	pos2=NNP	2	nmod	_	O
+2	Story	story	NN	pos2=NNP	0	root	_	O
+3	:	:	:	_	2	punct	_	O
+4	Tipp	tipp	NNP	_	7	compound	_	O
+5	Grad	grad	NNP	_	7	compound	_	O
+6	Aubrey	aubrey	NNP	_	7	compound	_	B-PERSON
+7	Cox	cox	NNP	_	8	nsubj	_	L-PERSON
+8	Picks	pick	VBZ	_	2	acl	_	O
+9	Up	up	RP	pos2=IN	8	prt	_	O
+10	NCAA	ncaa	NNP	pos2=GW	11	compound	_	U-ORG
+11	Honors	honor	NNS	pos2=NNPS	8	dobj	_	O
+12	https://t.co/AncZPkHWNz	#hlink#	ADD	_	8	npadvmod	_	O
+

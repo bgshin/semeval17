@@ -1,0 +1,31 @@
+1	America	america	NNP	pos2=UH	6	nsubj	_	U-GPE
+2	,	,	,	_	6	punct	_	O
+3	for	for	IN	_	6	prep	_	O
+4	instance	instance	NN	_	3	pobj	_	O
+5	,	,	,	_	6	punct	_	O
+6	has	have	VBZ	_	0	root	_	O
+7	more	more	JJR	_	9	qmod	_	B-DATE
+8	than	than	IN	_	9	qmod	_	I-DATE
+9	200	0	CD	_	10	nmod	_	I-DATE
+10	years	year	NNS	_	6	dobj	_	L-DATE
+11	of	of	IN	_	10	prep	_	O
+12	lessons	lesson	NNS	_	11	pobj	_	O
+13	unlearned	unlearn	VBN	pos2=JJ	12	acl	_	O
+14	.	.	.	_	6	punct	_	O
+
+1	As	as	IN	_	6	prep	_	O
+2	for	for	IN	_	1	prep	_	O
+3	Britain	britain	NNP	_	2	pobj	_	U-GPE
+4	,	,	,	_	6	punct	_	O
+5	Brexit	brexit	NNP	_	6	nsubj	_	U-ORG
+6	is	be	VBZ	_	0	root	_	O
+7	100	0	CD	_	8	nmod	_	B-PERCENT
+8	%	%	NN	_	6	attr	_	L-PERCENT
+9	in	in	IN	_	8	prep	_	O
+10	keeping	keep	VBG	pos2=NN	9	pcomp	_	O
+11	with	with	IN	_	10	prep	_	O
+12	its	its	PRP$	_	14	poss	_	O
+13	aloof	aloof	JJ	_	14	nmod	_	O
+14	insularity	insularity	NN	_	11	pobj	_	O
+15	.	.	.	_	6	punct	_	O
+

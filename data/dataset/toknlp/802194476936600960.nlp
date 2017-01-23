@@ -1,0 +1,24 @@
+1	@BBCWorld	@bbcworld	NN	pos2=XX	2	nsubj	_	O
+2	@BBCNews	@bbcnews	VBZ	pos2=NNS	0	root	_	O
+3	Good	good	JJ	pos2=NNP	2	acomp	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	Trump	trump	NN	pos2=NNP	2	nsubj	_	U-PERSON
+2	endorsing	endorse	VBG	pos2=NN	7	advmod	_	O
+3	,	,	,	_	10	punct	_	O
+4	terrorist	terrorist	JJ	pos2=NN	5	nmod	_	O
+5	supremacists	supremacist	NNS	_	10	vocative	_	O
+6	&	&	CC	_	5	cc	_	O
+7	paranoid	paranoid	JJ	_	8	nmod	_	O
+8	racists	racist	NNS	_	5	conj	_	O
+9	,	,	,	_	10	punct	_	O
+10	let	let	VB	_	0	root	_	O
+11	's	's	PRP	_	12	nsubj	_	O
+12	call	call	VB	_	10	ccomp	_	O
+13	such	such	JJ	_	14	nmod	_	O
+14	people	people	NNS	_	12	dobj	_	O
+15	what	what	WP	_	17	attr	_	O
+16	they	they	PRP	_	17	nsubj	_	O
+17	are	be	VBP	_	12	ccomp	_	O
+18	.	.	.	_	10	punct	_	O
+

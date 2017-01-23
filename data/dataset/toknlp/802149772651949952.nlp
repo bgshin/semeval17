@@ -1,0 +1,14 @@
+1	Messi	messi	NNP	_	5	poss	_	U-PERSON
+2	's	's	POS	pos2=VBZ	1	case	_	O
+3	100	0	CD	_	5	nmod	_	U-CARDINAL
+4	international	international	JJ	_	5	nmod	_	O
+5	goals	goal	NNS	_	0	root	_	O
+6	for	for	IN	_	5	prep	_	O
+7	Barcelona	barcelona	NNP	_	6	pobj	_	U-GPE
+8	#fcblive	#fcblive	NFP	pos2=CD	12	punct	_	O
+9	https://t.co/fMkglvusL1	#hlink#	ADD	pos2=NN	5	appos	_	O
+10	[	[	-LRB-	_	12	punct	_	O
+11	via	via	IN	_	5	prep	_	O
+12	@thereisagenius	@thereisagenius	CD	pos2=FW	11	pobj	_	O
+13	]	]	-RRB-	_	9	punct	_	O
+

@@ -1,0 +1,17 @@
+1	@HeyTammyBruce	@heytammybruce	ADD	pos2=NNS	5	cc	_	U-GPE
+2	@USATODAY	@usatoday	NN	pos2=NNP	3	compound	_	O
+3	@IngrahamAngle	@ingrahamangle	NNP	pos2=ADD	5	vocative	_	O
+4	Why	why	WRB	pos2=NNP	5	advmod	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	it	it	PRP	_	5	nsubj	_	O
+7	that	that	WDT	pos2=IN	10	mark	_	O
+8	today	today	NN	_	12	npadvmod	_	U-DATE
+9	society	society	NN	pos2=NNP	10	nsubj	_	O
+10	is	be	VBZ	_	5	ccomp	_	O
+11	casually	casually	RB	_	12	advmod	_	O
+12	comfortable	comfortable	JJ	_	10	acomp	_	O
+13	about	about	IN	_	12	prep	_	O
+14	being	be	VBG	_	13	pcomp	_	O
+15	pubicly	pubicly	RB	pos2=JJ	14	advmod	_	O
+16	distasteful?#deplorables	distasteful?#deplorables	NNS	pos2=.	14	attr	_	O
+

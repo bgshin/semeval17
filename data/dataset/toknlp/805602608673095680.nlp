@@ -1,0 +1,22 @@
+1	@Sparks1Sharon	@sparks0sharon	NN	pos2=ADD	2	compound	_	O
+2	@jjauthor	@jjauthor	NN	pos2=UH	13	npadvmod	_	O
+3	when	when	WRB	_	7	advmod	_	O
+4	this	this	DT	_	5	det	_	O
+5	guy	guy	NN	_	7	nsubjpass	_	O
+6	gets	get	VBZ	_	7	auxpass	_	O
+7	involved	involve	VBN	pos2=JJ	12	advcl	_	O
+8	in	in	IN	_	7	prep	_	O
+9	voter	voter	NN	_	10	compound	_	O
+10	registration	registration	NN	_	8	pobj	_	O
+11	it	it	PRP	_	13	nsubj	_	O
+12	will	will	MD	_	13	aux	_	O
+13	be	be	VB	_	0	root	_	O
+14	a	a	DT	_	16	det	_	O
+15	gamechanger	gamechanger	NN	pos2=JJR	16	compound	_	O
+16	KANSAS	kansas	NN	pos2=NNP	13	attr	_	O
+17	=	=	SYM	_	19	punct	_	O
+18	TOUGH	tough	JJ	_	19	nmod	_	O
+19	vo	vo	NN	pos2=FW	16	appos	_	O
+20	…	…	NFP	pos2=,	21	punct	_	O
+21	https://t.co/CJYQTXQCsi	#hlink#	ADD	_	13	dep	_	O
+

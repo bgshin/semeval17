@@ -1,0 +1,16 @@
+1	Zac	zac	NNP	_	2	compound	_	B-PERSON
+2	Efron	efron	NNP	_	3	nsubj	_	L-PERSON
+3	Goes	go	VBZ	_	0	root	_	O
+4	Shirtless	shirtless	NNP	pos2=JJ	3	acomp	_	O
+5	in	in	IN	_	4	prep	_	O
+6	New	new	NNP	pos2=JJ	7	compound	_	B-GPE
+7	Pic	pic	NNP	_	5	pobj	_	L-GPE
+8	with	with	IN	_	4	prep	_	O
+9	Girlfriend	girlfriend	NNP	pos2=NN	11	compound	_	O
+10	Sami	sami	NNP	_	11	compound	_	B-PERSON
+11	Miro	miro	NNP	_	8	pobj	_	L-PERSON
+12	!...	!..	.	pos2=NNP	3	punct	_	O
+
+1	https://t.co/LM3q3ttkHz	#hlink#	ADD	_	2	nsubj	_	O
+2	#ZacEfron	#zacefron	ADD	pos2=-RRB-	0	root	_	O
+

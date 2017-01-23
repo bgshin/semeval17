@@ -1,0 +1,11 @@
+1	Ricky	ricky	NNP	_	2	compound	_	B-PERSON
+2	Martin	martin	NNP	_	4	nsubj	_	L-PERSON
+3	is	be	VBZ	_	4	aux	_	O
+4	going	go	VBG	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	get	get	VB	_	4	xcomp	_	O
+7	me	me	PRP	_	6	dobj	_	O
+8	through	through	IN	_	6	prep	_	O
+9	this	this	DT	_	10	det	_	O
+10	drawing	drawing	NN	pos2=VBG	8	pobj	_	O
+

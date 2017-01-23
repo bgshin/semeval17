@@ -1,0 +1,16 @@
+1	Check	check	VB	_	9	advcl	_	O
+2	out	out	RP	pos2=RB	1	prt	_	O
+3	Forget	forget	VB	pos2=NNP	1	advcl	_	O
+4	Self-Driving	self-driving	JJ	pos2=NNP	5	nmod	_	O
+5	Cars	car	NNS	pos2=NNPS	3	dobj	_	O
+6	:	:	:	_	9	punct	_	O
+7	Amsterdam	amsterdam	NNP	pos2=NN	9	nsubj	_	U-GPE
+8	Is	be	VBZ	_	9	aux	_	O
+9	Getting	get	VBG	pos2=NNP	0	root	_	O
+10	'	'	``	_	11	punct	_	O
+11	Roboats	roboats	NNP	pos2=NNS	9	dobj	_	U-PERSON
+12	'	'	''	_	11	punct	_	O
+13	on	on	IN	pos2=GW	9	prep	_	O
+14	https://t.co/bhEQEiuBuF:	#hlink#	ADD	_	13	pobj	_	O
+15	https://t.co/FFGQdaRnM2	#hlink#	ADD	_	13	pobj	_	U-ORG
+

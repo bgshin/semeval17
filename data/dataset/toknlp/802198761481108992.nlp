@@ -1,0 +1,12 @@
+1	#French	#french	VB	pos2=PRP$	10	advcl	_	O
+2	terror	terror	NN	_	3	compound	_	O
+3	suspects	suspect	NNS	_	4	nsubj	_	O
+4	took	take	VBD	_	1	ccomp	_	O
+5	orders	order	NNS	_	4	dobj	_	O
+6	from	from	IN	_	4	prep	_	O
+7	#ISIS	#isis	NN	pos2=NNP	6	pobj	_	U-ORG
+8	,	,	,	_	10	punct	_	O
+9	prosecutor	prosecutor	NN	_	10	nsubj	_	O
+10	says	say	VBZ	_	0	root	_	O
+11	https://t.co/5Uo1mOGCUP	#hlink#	ADD	pos2=NN	10	punct	_	O
+

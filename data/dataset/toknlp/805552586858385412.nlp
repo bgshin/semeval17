@@ -1,0 +1,20 @@
+1	Marine	marine	NNP	pos2=JJ	3	compound	_	B-ORG
+2	Le	le	NNP	_	3	compound	_	I-ORG
+3	Pen	pen	NNP	_	4	nsubj	_	L-ORG
+4	wishes	wish	VBZ	_	0	root	_	O
+5	the	the	DT	_	7	det	_	B-ORG
+6	#French	#french	NNP	_	7	compound	_	I-ORG
+7	Election	election	NNP	pos2=NN	8	nsubj	_	L-ORG
+8	was	be	VBD	_	4	ccomp	_	O
+9	tomorrow	tomorrow	NN	_	8	attr	_	U-DATE
+10	....	..	.	pos2=,	4	punct	_	O
+
+1	April	april	NNP	_	3	nmod	_	O
+2	/	/	SYM	pos2=,	3	punct	_	O
+3	May	may	NNP	pos2=MD	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	way	way	NN	_	4	attr	_	O
+7	off	off	IN	pos2=RB	6	prep	_	O
+8	#italianreferendum	#italianreferendum	FW	pos2=UH	7	pobj	_	O
+

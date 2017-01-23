@@ -1,0 +1,24 @@
+1	Good	good	JJ	_	2	nmod	_	O
+2	morning	morning	NN	_	0	root	_	U-TIME
+3	to	to	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	world	world	NN	_	3	pobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	If	if	IN	_	2	mark	_	O
+2	is	be	VBZ	_	4	advcl	_	O
+3	coffee	coffee	NN	pos2=VBN	4	nsubj	_	O
+4	get	get	VB	pos2=VBP	0	root	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	fused	fuse	VBN	pos2=JJ	4	ccomp	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	Order	order	VB	pos2=NN	0	root	_	O
+2	now	now	RB	_	1	advmod	_	O
+3	@	@	-LRB-	pos2=NFP	4	punct	_	O
+4	https://t.co/MyC3uUsuxH	#hlink#	ADD	_	8	nmod	_	U-WORK_OF_ART
+5	#workingout	#workingout	-RRB-	pos2=IN	4	punct	_	O
+6	#monday	#monday	GW	pos2=-RRB-	8	nmod	_	O
+7	…	…	NFP	pos2=GW	8	punct	_	O
+8	https://t.co/qeNbn1oJrE	#hlink#	ADD	pos2=NN	1	dep	_	O
+

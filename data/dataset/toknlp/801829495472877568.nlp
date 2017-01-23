@@ -1,0 +1,29 @@
+1	Evidently	evidently	RB	_	7	advmod	_	O
+2	@AndreaChalupa	@andreachalupa	NNP	pos2=ADD	7	poss	_	U-ORG
+3	's	's	POS	pos2=VBZ	2	case	_	O
+4	huge	huge	JJ	_	7	nmod	_	O
+5	300	0	CD	_	6	nmod	_	B-PERCENT
+6	%	%	NN	_	7	compound	_	L-PERCENT
+7	increase	increase	NN	_	19	nsubj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	followers	follower	NNS	_	8	pobj	_	O
+10	,	,	,	_	7	punct	_	O
+11	from	from	IN	_	7	prep	_	O
+12	4	0	CD	_	14	nmod	_	U-CARDINAL
+13	-	-	HYPH	pos2=SYM	14	punct	_	O
+14	12k	0k	NN	pos2=CD	11	pobj	_	O
+15	in	in	IN	_	11	prep	_	O
+16	just	just	RB	_	17	advmod	_	O
+17	3wks	0wks	RB	pos2=CD	15	pobj	_	O
+18	,	,	,	_	19	punct	_	O
+19	is	be	VBZ	_	0	root	_	O
+20	not	not	RB	_	19	neg	_	O
+21	organic	organic	JJ	_	19	acomp	_	O
+22	.	.	.	_	19	punct	_	O
+
+1	Did	do	VBD	_	3	aux	_	O
+2	she	she	PRP	_	3	nsubj	_	O
+3	buy	buy	VB	_	0	root	_	O
+4	…	…	NFP	pos2=-LRB-	3	discourse	_	O
+5	https://t.co/pWqhnQBkCi	#hlink#	ADD	pos2=NN	3	dobj	_	U-ORG
+

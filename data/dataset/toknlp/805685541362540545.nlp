@@ -1,0 +1,28 @@
+1	@attn	@attn	UH	pos2=XX	5	discourse	_	O
+2	@SenSanders	@sensanders	NNS	pos2=``	5	vocative	_	O
+3	It	it	PRP	_	5	nsubj	_	O
+4	has	have	VBZ	_	5	aux	_	O
+5	helped	help	VBN	_	0	root	_	O
+6	Seattle	seattle	NNP	_	5	dobj	_	U-GPE
+7	,	,	,	_	5	punct	_	O
+8	but	but	CC	_	5	cc	_	O
+9	how	how	WRB	_	11	advmod	_	O
+10	to	to	TO	_	11	aux	_	O
+11	stop	stop	VB	_	5	conj	_	O
+12	insane	insane	JJ	pos2=VBG	14	nmod	_	O
+13	housing	housing	NN	_	14	compound	_	O
+14	prices	price	NNS	_	11	dobj	_	O
+15	?	?	.	_	5	punct	_	O
+
+1	Increasing	increase	VBG	_	7	csubj	_	O
+2	the	the	DT	_	4	det	_	O
+3	minimum	minimum	JJ	pos2=NN	4	nmod	_	O
+4	wage	wage	NN	_	1	dobj	_	O
+5	does	do	VBZ	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	seem	seem	VB	_	0	root	_	O
+8	to	to	TO	_	9	aux	_	O
+9	be	be	VB	_	7	xcomp	_	O
+10	full	full	JJ	_	11	nmod	_	O
+11	solution	solution	NN	_	9	attr	_	O
+

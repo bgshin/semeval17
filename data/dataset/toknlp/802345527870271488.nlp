@@ -1,0 +1,21 @@
+1	So	so	RB	_	6	advmod	_	O
+2	,	,	,	_	6	punct	_	O
+3	the	the	DT	_	8	det	_	O
+4	Obama	obama	NNP	_	5	compound	_	U-PERSON
+5	admin	admin	NN	pos2=VB	8	nmod	_	O
+6	armed	armed	JJ	pos2=VBD	8	nmod	_	O
+7	Yemeni	yemeni	JJ	_	8	nmod	_	U-NORP
+8	rebels	rebel	NNS	_	0	root	_	O
+9	that	that	WDT	_	12	nsubjpass	_	O
+10	are	be	VBP	_	12	aux	_	O
+11	being	be	VBG	_	12	auxpass	_	O
+12	bombed	bomb	VBN	_	8	relcl	_	O
+13	by	by	IN	_	12	agent	_	O
+14	the	the	DT	_	16	det	_	O
+15	US	us	NNP	_	16	compound	_	U-GPE
+16	F-16s	f-0s	NNS	pos2=NNPS	13	pobj	_	O
+17	they	they	PRP	_	18	nsubj	_	O
+18	sold	sell	VBD	_	16	relcl	_	O
+19	to	to	IN	_	18	dative	_	O
+20	Saudi	saudi	JJ	pos2=NNP	19	pobj	_	U-NORP
+

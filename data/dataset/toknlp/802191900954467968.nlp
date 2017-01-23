@@ -1,0 +1,12 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	'm	be	VBP	_	3	aux	_	O
+3	starting	start	VBG	_	0	root	_	O
+4	to	to	TO	pos2=IN	5	aux	_	O
+5	like	like	VB	pos2=IN	3	xcomp	_	O
+6	the	the	DT	_	7	det	_	O
+7	cowboys	cowboy	NNS	pos2=NN	5	dobj	_	O
+8	without	without	IN	_	5	prep	_	O
+9	Tony	tony	NNP	_	10	compound	_	B-PERSON
+10	Romo	romo	NNP	_	8	pobj	_	L-PERSON
+11	https://t.co/V3iNk4bAXC	#hlink#	ADD	_	7	appos	_	O
+

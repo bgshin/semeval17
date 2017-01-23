@@ -1,0 +1,17 @@
+1	this	this	DT	_	3	det	_	O
+2	targeted	target	VBN	pos2=VBD	3	nmod	_	O
+3	ad	ad	NN	_	4	nsubj	_	O
+4	received	receive	VBN	pos2=VBD	0	root	_	O
+5	while	while	IN	_	6	mark	_	O
+6	reading	read	VBG	_	4	advcl	_	O
+7	about	about	IN	_	6	prep	_	O
+8	drone	drone	NN	_	9	compound	_	O
+9	strikes	strike	NNS	_	7	pobj	_	O
+10	:	:	:	_	12	punct	_	O
+11	a	a	DT	_	12	det	_	O
+12	play	play	NN	pos2=VB	6	dobj	_	O
+13	in	in	IN	_	12	prep	_	O
+14	one	#crd#	CD	_	15	nmod	_	U-CARDINAL
+15	act	act	NN	pos2=GW	13	pobj	_	O
+16	https://t.co/SB136C8v7T	#hlink#	ADD	pos2=NN	12	nmod	_	U-ORG
+

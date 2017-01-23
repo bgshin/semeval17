@@ -1,0 +1,23 @@
+1	Got	get	VBD	pos2=VBN	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	give	give	VB	_	1	xcomp	_	O
+4	him	him	PRP	_	3	dative	_	O
+5	credit	credit	NN	_	3	dobj	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	@BryanDawsonUSA	@bryandawsonusa	XX	pos2=NN	9	dep	_	O
+2	The	the	DT	_	4	det	_	O
+3	combined	combine	VBN	pos2=JJ	4	nmod	_	O
+4	creepiness	creepiness	NN	_	9	nsubj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	euphemism	euphemism	NN	_	5	pobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	euthanasia	euthanasia	NN	_	6	conj	_	O
+9	makes	make	VBZ	_	0	root	_	O
+10	this	this	DT	_	14	det	_	O
+11	potentially	potentially	RB	_	14	advmod	_	O
+12	his	his	PRP$	_	14	poss	_	O
+13	signature	signature	NN	_	14	compound	_	O
+14	word	word	NN	_	9	dobj	_	O
+15	.	.	.	_	9	punct	_	O
+

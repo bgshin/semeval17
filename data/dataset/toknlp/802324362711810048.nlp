@@ -1,0 +1,26 @@
+1	"	"	``	pos2=SYM	2	punct	_	O
+2	Ask	ask	VB	pos2=NNP	0	root	_	O
+3	Tim	tim	NNP	_	4	compound	_	B-PERSON
+4	Duncan	duncan	NNP	_	2	dobj	_	L-PERSON
+5	about	about	IN	_	4	prep	_	O
+6	us	us	PRP	_	5	pobj	_	O
+7	.	.	.	_	2	punct	_	O
+8	"	"	''	_	2	punct	_	O
+
+1	Loving	love	VBG	pos2=NNP	0	root	_	O
+2	Antoine	antoine	NNP	_	3	compound	_	B-PERSON
+3	Walker	walker	NNP	_	1	dobj	_	L-PERSON
+4	on	on	IN	_	1	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	@SECNetwork	@secnetwork	NNP	pos2=NN	4	pobj	_	O
+7	tonight	tonight	NN	_	1	npadvmod	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	He	he	PRP	_	3	nsubj	_	O
+2	's	's	VBZ	_	3	aux	_	O
+3	killing	kill	VBG	_	0	root	_	O
+4	it	it	PRP	_	3	dobj	_	O
+5	!	!	.	_	3	punct	_	O
+
+1	#BBN	#bbn	ADD	pos2=NN	0	root	_	U-ORG
+

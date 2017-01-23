@@ -1,0 +1,16 @@
+1	Mainstream	mainstream	NN	pos2=JJ	2	nsubj	_	O
+2	continues	continue	VBZ	_	0	root	_	O
+3	normalizing	normalize	VBG	_	2	xcomp	_	O
+4	Christian	christian	JJ	_	7	nmod	_	U-NORP
+5	male	male	JJ	pos2=NN	7	nmod	_	O
+6	white	white	JJ	_	7	nmod	_	O
+7	supremacists	supremacist	NNS	_	3	dobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	Now	now	RB	_	3	nmod	_	O
+2	"	"	``	_	5	punct	_	O
+3	worker	worker	NN	pos2=NNS	5	nmod	_	O
+4	"	"	''	pos2=GW	5	punct	_	O
+5	propaganda	propaganda	NN	_	6	dep	_	O
+6	https://t.co/LuzIV6Cq4W	#hlink#	ADD	pos2=NN	0	root	_	O
+

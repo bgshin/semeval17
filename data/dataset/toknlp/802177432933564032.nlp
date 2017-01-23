@@ -1,0 +1,17 @@
+1	#shabbatshalom	#shabbatshalom	UH	pos2=ADD	13	discourse	_	O
+2	#Israel	#israel	NNP	pos2=UH	3	compound	_	O
+3	#Jerusalem	#jerusalem	NNP	pos2=NN	7	poss	_	O
+4	s	s	POS	pos2=NN	3	case	_	O
+5	=	=	SYM	pos2=HYPH	7	punct	_	O
+6	SHABBAT	shabbat	NNP	pos2=NN	7	compound	_	O
+7	SHALOM	shalom	NNP	pos2=NN	13	nmod	_	O
+8	TO	to	IN	pos2=NNP	7	prep	_	O
+9	ALL	all	DT	pos2=NNP	8	pobj	_	O
+10	,	,	,	_	13	punct	_	O
+11	HASHEM	hashem	NNP	pos2=NN	13	poss	_	U-ORG
+12	'S	's	POS	_	11	case	_	O
+13	BLESSINGS	blessing	NNS	pos2=NNPS	0	root	_	O
+14	!!!	!!	.	_	13	punct	_	O
+
+1	https://t.co/0BmyZrBvTu	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,22 @@
+1	Google	google	NNP	_	3	compound	_	B-ORG
+2	Earth	earth	NNP	_	3	compound	_	I-ORG
+3	VR	vr	NNP	pos2=NN	5	nsubj	_	L-ORG
+4	may	may	MD	_	5	aux	_	O
+5	be	be	VB	_	0	root	_	O
+6	the	the	DT	_	8	det	_	O
+7	best	good	JJS	_	8	nmod	_	O
+8	way	way	NN	_	5	attr	_	O
+9	to	to	TO	_	10	aux	_	O
+10	explore	explore	VB	_	8	relcl	_	O
+11	the	the	DT	_	12	det	_	O
+12	world	world	NN	_	10	dobj	_	O
+13	without	without	IN	_	10	prep	_	O
+14	a	a	DT	_	16	det	_	O
+15	plane	plane	NN	_	16	compound	_	O
+16	ticket	ticket	NN	_	13	pobj	_	O
+17	https://t.co/AYLVkFBcbK	#hlink#	ADD	pos2=VBN	12	appos	_	O
+18	by	by	IN	_	10	prep	_	O
+19	#CrescentVale	#crescentvale	NNP	pos2=NN	18	pobj	_	U-ORG
+20	via	via	IN	_	10	prep	_	O
+21	@c0nvey	@c0nvey	NNP	pos2=CD	20	pobj	_	O
+

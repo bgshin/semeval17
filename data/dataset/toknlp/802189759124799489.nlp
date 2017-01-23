@@ -1,0 +1,16 @@
+1	@keversmurphy	@keversmurphy	UH	pos2=XX	5	discourse	_	O
+2	@aaroadwatch	@aaroadwatch	UH	pos2=VB	5	discourse	_	O
+3	@GardaTraffic	@gardatraffic	UH	pos2=NNP	5	discourse	_	O
+4	that	that	DT	_	5	nsubj	_	O
+5	's	's	VBZ	_	0	root	_	O
+6	industrial	industrial	JJ	_	5	acomp	_	O
+7	,	,	,	_	5	punct	_	O
+8	due	due	IN	pos2=JJ	5	prep	_	O
+9	to	to	IN	_	8	pcomp	_	O
+10	us	us	PRP	_	11	npadvmod	_	O
+11	producing	produce	VBG	_	8	pcomp	_	O
+12	tipp	tipp	NN	pos2=IN	14	nmod	_	O
+13	top	top	JJ	pos2=NN	14	nmod	_	O
+14	hurlers	hurler	NNS	_	11	dobj	_	O
+15	.	.	.	_	5	punct	_	O
+

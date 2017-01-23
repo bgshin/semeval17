@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det	_	O
+2	cover	cover	NN	_	12	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	the	the	DT	_	7	det	_	O
+5	deep	deep	JJ	_	7	nmod	_	O
+6	learning	learning	NN	pos2=VBG	7	compound	_	O
+7	bible	bible	NN	pos2=XX	3	pobj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	deep	deep	JJ	_	11	nmod	_	O
+10	dream	dream	NN	_	11	compound	_	O
+11	style	style	NN	_	8	pobj	_	O
+12	https://t.co/UZwsSytr1M	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

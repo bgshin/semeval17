@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det	_	O
+2	new	new	JJ	_	3	nmod	_	O
+3	Miniestadi	miniestadi	NNP	_	6	nsubjpass	_	U-ORG
+4	could	could	MD	_	6	aux	_	O
+5	be	be	VB	_	6	auxpass	_	O
+6	renamed	rename	VBN	_	0	root	_	O
+7	after	after	IN	_	6	prep	_	O
+8	Cryuff	cryuff	NNP	pos2=NN	7	pobj	_	U-ORG
+9	as	as	IN	_	6	prep	_	O
+10	one	#crd#	CD	_	9	pobj	_	U-CARDINAL
+11	of	of	IN	_	10	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	options	option	NNS	_	11	pobj	_	O
+14	to	to	TO	_	15	aux	_	O
+15	remember	remember	VB	_	6	advcl	_	O
+16	him	him	PRP	_	15	dobj	_	O
+17	[	[	-LRB-	_	18	punct	_	O
+18	@ClubMitjanit	@clubmitjanit	NN	pos2=ADD	15	dep	_	O
+19	]	]	-RRB-	_	18	punct	_	O
+20	#fcblive	#fcblive	UH	pos2=-RRB-	15	discourse	_	O
+

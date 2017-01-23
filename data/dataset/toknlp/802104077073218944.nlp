@@ -1,0 +1,14 @@
+1	@BrendanABC2	@brendanabc0	NN	pos2=LS	2	compound	_	O
+2	@adrienneABC2	@adrienneabc0	NN	pos2=IN	7	pobj	_	O
+3	those	those	DT	_	5	det	_	O
+4	giant	giant	JJ	_	5	nmod	_	O
+5	eggs	egg	NNS	_	6	nsubj	_	O
+6	look	look	VBP	pos2=VB	0	root	_	O
+7	like	like	IN	pos2=JJ	6	prep	_	O
+8	...	..	.	pos2=,	6	punct	_	O
+
+1	#Hatchimals	#hatchimals	NNS	pos2=ADD	4	nmod	_	O
+2	#EasterCandy	#eastercandy	GW	pos2=JJ	4	nmod	_	B-PERSON
+3	#blackfriday	#blackfriday	GW	pos2=UH	4	nmod	_	L-PERSON
+4	https://t.co/SHCBYZ3d2V	#hlink#	ADD	pos2=NN	0	root	_	O
+

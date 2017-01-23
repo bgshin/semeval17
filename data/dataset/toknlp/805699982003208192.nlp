@@ -1,0 +1,35 @@
+1	They	they	PRP	_	2	nsubj	_	O
+2	steal	steal	VBP	_	0	root	_	O
+3	fox	fox	NN	pos2=VBN	4	compound	_	O
+4	cubs	cub	NNS	pos2=RB	2	dobj	_	O
+5	off	off	RP	pos2=IN	2	prt	_	O
+6	their	their	PRP$	_	7	poss	_	O
+7	moms	mom	NNS	_	9	nsubj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	teach	teach	VB	_	2	advcl	_	O
+10	hounds	hound	NNS	_	9	dobj	_	O
+11	to	to	TO	_	12	aux	_	O
+12	rip	rip	VB	_	9	xcomp	_	O
+13	them	them	PRP	_	12	dobj	_	O
+14	apart	apart	RB	_	12	advmod	_	O
+15	for	for	IN	_	12	prep	_	O
+16	their	their	PRP$	_	17	poss	_	O
+17	sadism	sadism	NN	_	15	pobj	_	O
+18	(	(	-LRB-	_	21	punct	_	O
+19	Terrier	terrier	NNP	pos2=NN	21	compound	_	O
+20	-	-	HYPH	pos2=,	21	punct	_	O
+21	work	work	NN	_	17	appos	_	O
+22	)	)	-RRB-	_	17	punct	_	O
+23	.	.	.	_	2	punct	_	O
+
+1	How	how	WRB	_	2	advmod	_	O
+2	else	else	RB	pos2=JJ	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	sadistic	sadistic	JJ	_	2	acomp	_	O
+4	!	!	.	_	2	punct	_	O
+
+1	#KeepTheBan	#keeptheban	ADD	pos2=XX	0	root	_	O
+

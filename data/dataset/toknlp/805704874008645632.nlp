@@ -1,0 +1,28 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	agree	agree	VBP	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Many	many	JJ	_	2	nmod	_	O
+2	people	people	NNS	_	4	nsubj	_	O
+3	also	also	RB	_	4	advmod	_	O
+4	think	think	VBP	pos2=VB	0	root	_	O
+5	homeopathy	homeopathy	NN	_	6	nsubj	_	O
+6	is	be	VBZ	_	4	ccomp	_	O
+7	good	good	JJ	_	6	acomp	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	just	just	RB	_	14	advmod	_	O
+4	that	that	IN	pos2=DT	12	mark	_	O
+5	the	the	DT	_	6	det	_	O
+6	evidence	evidence	NN	_	12	nsubj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	benefits	benefit	NNS	_	7	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	UK	uk	NNP	_	11	compound	_	U-GPE
+11	immigration	immigration	NN	pos2=NNP	9	pobj	_	O
+12	is	be	VBZ	_	2	ccomp	_	O
+13	…	…	NFP	pos2=-LRB-	12	attr	_	O
+14	https://t.co/Ve2PDujlxW	#hlink#	ADD	_	2	dep	_	O
+

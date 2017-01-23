@@ -1,0 +1,17 @@
+1	@JeffreyToobin	@jeffreytoobin	ADD	pos2=NN	3	punct	_	B-PERSON
+2	@NewYorker	@newyorker	NNP	pos2=NN	3	nsubj	_	L-PERSON
+3	Was	be	VBD	_	0	root	_	O
+4	it	it	PRP	pos2=VBN	6	compound	_	O
+5	voter	voter	NN	_	6	compound	_	O
+6	suppression	suppression	NN	_	3	attr	_	O
+7	or	or	CC	_	3	cc	_	O
+8	did	do	VBD	_	12	aux	_	O
+9	black	black	JJ	pos2=VB	10	nmod	_	O
+10	males	male	NNS	_	12	nsubj	_	O
+11	not	not	RB	_	12	neg	_	O
+12	vote	vote	VB	pos2=NN	3	conj	_	O
+13	for	for	IN	_	12	prep	_	O
+14	a	a	DT	_	15	det	_	O
+15	woman	woman	NN	_	13	pobj	_	O
+16	?	?	.	_	3	punct	_	O
+

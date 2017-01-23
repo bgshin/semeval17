@@ -1,0 +1,26 @@
+1	Why	why	WRB	_	4	advmod	_	O
+2	has	have	VBZ	_	4	aux	_	O
+3	#Cameron	#cameron	NNP	pos2=TO	4	nsubj	_	U-GPE
+4	come	come	VB	pos2=VBN	0	root	_	O
+5	out	out	IN	_	4	prep	_	O
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	shadows	shadow	NNS	_	6	pobj	_	O
+9	now	now	RB	_	4	advmod	_	O
+10	?	?	.	_	4	punct	_	O
+
+1	He	he	PRP	_	3	nsubjpass	_	O
+2	's	's	VBZ	_	3	auxpass	_	O
+3	left	leave	VBN	pos2=JJ	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	country	country	NN	_	3	dobj	_	O
+6	up	up	RP	pos2=IN	3	prt	_	O
+7	a	a	DT	_	8	det	_	O
+8	creak	creak	NN	_	3	npadvmod	_	O
+9	&	&	CC	_	8	cc	_	O
+10	no	no	DT	_	11	det	_	O
+11	paddle	paddle	NN	_	8	conj	_	O
+12	#PoliticalWally	#politicalwally	RB	pos2=GW	11	advmod	_	O
+13	👎🤓✔	👎🤓✔	NFP	pos2=-LRB-	3	punct	_	O
+14	https://t.co/dvYaRG9HKW	#hlink#	ADD	pos2=NN	3	oprd	_	O
+

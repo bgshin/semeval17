@@ -1,0 +1,11 @@
+1	@NewYorker	@newyorker	NN	pos2=NNP	7	nsubj	_	O
+2	would	would	MD	_	7	aux	_	O
+3	the	the	DT	_	5	det	_	B-ORG
+4	Clinton	clinton	NNP	_	5	compound	_	I-ORG
+5	Foundation	foundation	NNP	_	7	nsubj	_	L-ORG
+6	have	have	VBP	_	7	aux	_	O
+7	been	be	VBN	_	0	root	_	O
+8	somehow	somehow	RB	_	9	advmod	_	O
+9	preferable	preferable	JJ	_	7	acomp	_	O
+10	?	?	.	_	7	punct	_	O
+

@@ -1,0 +1,26 @@
+1	#iNews9K	#inews0k	NN	pos2=ADD	2	compound	_	O
+2	#MoreOfTheStory	#moreofthestory	NN	pos2=CD	15	dep	_	O
+3	:	:	:	_	15	punct	_	O
+4	"	"	``	_	15	punct	_	O
+5	Therefore	therefore	RB	_	15	advmod	_	O
+6	if	if	IN	_	8	mark	_	O
+7	you	you	PRP	_	8	nsubj	_	O
+8	're	be	VBP	_	15	advcl	_	O
+9	afraid	afraid	JJ	_	8	acomp	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Trump	trump	NNP	pos2=NN	10	pobj	_	U-ORG
+12	,	,	,	_	15	punct	_	O
+13	you	you	PRP	_	15	nsubj	_	O
+14	must	must	MD	_	15	aux	_	O
+15	be	be	VB	_	22	ccomp	_	O
+16	an	an	DT	_	17	det	_	O
+17	immigrant	immigrant	NN	pos2=JJ	15	attr	_	O
+18	,	,	,	_	22	punct	_	O
+19	"	"	''	pos2=``	22	punct	_	O
+20	Ben	ben	NNP	_	21	compound	_	B-PERSON
+21	Carson	carson	NNP	_	22	nsubj	_	L-PERSON
+22	said	say	VBD	_	0	root	_	O
+23	.	.	.	_	22	punct	_	O
+
+1	https://t.co/9URIYin0l6	#hlink#	ADD	_	0	root	_	U-ORG
+

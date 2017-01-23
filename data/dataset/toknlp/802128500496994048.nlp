@@ -1,0 +1,21 @@
+1	Pre-Order	pre-order	NN	pos2=JJ	2	compound	_	O
+2	Persona	persona	NN	pos2=NNP	7	nsubj	_	O
+3	5	0	CD	_	4	nmod	_	U-CARDINAL
+4	PlayStation	playstation	NNP	pos2=NN	2	npadvmod	_	B-PRODUCT
+5	4	0	CD	_	4	nmod	_	L-PRODUCT
+6	"	"	``	pos2=NNS	7	punct	_	O
+7	Take	take	VB	_	0	root	_	O
+8	Your	your	PRP$	_	9	poss	_	O
+9	Heart	heart	NN	_	7	dobj	_	O
+10	"	"	``	pos2=''	12	punct	_	O
+11	Premium	premium	NNP	pos2=NN	12	compound	_	O
+12	Edition	edition	NNP	pos2=NN	9	appos	_	O
+13	for	for	IN	_	7	prep	_	O
+14	$	$	$	_	15	nmod	_	O
+15	71.99	0	CD	_	13	pobj	_	U-MONEY
+16	w	w	IN	pos2=CD	18	advmod	_	O
+17	/	/	HYPH	pos2=,	16	punct	_	O
+18	Prime	prime	JJ	pos2=GW	19	nmod	_	O
+19	https://t.co/Xx6OwgXq3R	#hlink#	ADD	pos2=NN	20	nmod	_	O
+20	https://t.co/NEUR6QSwkB	#hlink#	ADD	pos2=NN	15	npadvmod	_	U-ORG
+

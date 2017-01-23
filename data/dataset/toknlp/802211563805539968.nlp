@@ -1,0 +1,24 @@
+1	#Moscow	#moscow	NNP	pos2=UH	4	compound	_	O
+2	#SaintPetersburg	#saintpetersburg	NNP	pos2=VBD	4	compound	_	O
+3	Mike	mike	NNP	_	4	compound	_	B-PERSON
+4	Flynn	flynn	NNP	_	8	nsubj	_	L-PERSON
+5	to	to	IN	_	4	prep	_	O
+6	MSNBC	msnbc	NNP	_	7	compound	_	U-ORG
+7	Shill	shill	NNP	_	5	pobj	_	O
+8	Smearing	smear	VBG	pos2=NNP	0	root	_	O
+9	Putin	putin	NNP	_	8	dobj	_	U-PERSON
+10	:	:	:	_	8	punct	_	O
+11	'	'	``	pos2=''	8	punct	_	O
+12	Stop	stop	VB	_	8	xcomp	_	O
+13	It	it	PRP	_	12	dobj	_	O
+14	!	!	.	_	8	punct	_	O
+
+1	'	'	''	pos2=``	8	dep	_	O
+2	(	(	-LRB-	_	3	punct	_	O
+3	Video	video	NN	pos2=NNP	1	appos	_	O
+4	)	)	-RRB-	_	3	punct	_	O
+5	–	-	:	pos2=NFP	8	punct	_	O
+6	Paul	paul	NNP	_	7	compound	_	B-PERSON
+7	Kaiser	kaiser	NNP	pos2=GW	8	dep	_	L-PERSON
+8	https://t.co/yjn1mogUc0	#hlink#	ADD	pos2=NNP	0	root	_	O
+

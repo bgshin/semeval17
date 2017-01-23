@@ -1,0 +1,11 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	wonder	wonder	VBP	_	0	root	_	O
+3	can	can	MD	pos2=IN	5	aux	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	doing	do	VBG	_	2	ccomp	_	O
+6	#mannequinchallenge	#mannequinchallenge	NN	pos2=RB	5	dobj	_	O
+7	in	in	IN	_	5	prep	_	O
+8	#OnceUponATime	#onceuponatime	NNP	pos2=NN	7	pobj	_	O
+9	@OnceABC	@onceabc	ADD	pos2=POS	10	compound	_	O
+10	🙏🏻😁	🙏🏻😁	NNP	pos2=.	5	vocative	_	O
+

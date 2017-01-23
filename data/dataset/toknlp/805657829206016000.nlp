@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det	_	B-ORG
+2	World	world	NNP	_	3	nsubj	_	L-ORG
+3	Reacts	react	VBZ	_	0	root	_	O
+4	to	to	IN	pos2=TO	3	prep	_	O
+5	Fidel	fidel	NNP	_	6	compound	_	B-PERSON
+6	Castro	castro	NNP	_	8	poss	_	I-PERSON
+7	's	's	POS	_	6	case	_	L-PERSON
+8	Death	death	NN	pos2=NNP	4	pobj	_	O
+9	https://t.co/oPyqG1lK94	#hlink#	ADD	pos2=RBR	12	dep	_	O
+10	like	like	IN	pos2=UH	12	mark	_	O
+11	there	there	EX	_	12	expl	_	O
+12	were	be	VBD	_	3	advcl	_	O
+13	a	a	DT	_	14	det	_	O
+14	lot	lot	NN	_	12	attr	_	O
+15	of	of	IN	_	14	prep	_	O
+16	very	very	RB	_	17	advmod	_	O
+17	sad	sad	JJ	_	18	nmod	_	O
+18	people	people	NNS	_	15	pobj	_	O
+19	there	there	RB	_	18	advmod	_	O
+20	.	.	.	_	3	punct	_	O
+

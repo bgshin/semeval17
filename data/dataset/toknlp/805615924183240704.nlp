@@ -1,0 +1,15 @@
+1	#hot	#hot	JJ	pos2=DT	5	nmod	_	O
+2	bangladeshi	bangladeshi	JJ	_	5	nmod	_	O
+3	sex	sex	NN	_	5	compound	_	O
+4	web	web	NN	_	5	compound	_	O
+5	site	site	NN	_	11	nsubj	_	O
+6	non	non	AFX	_	7	neg	_	O
+7	consensual	consensual	JJ	_	10	nmod	_	O
+8	sex	sex	NN	_	9	compound	_	O
+9	story	story	NN	_	10	compound	_	O
+10	vanessa	vanessa	NN	pos2=XX	13	compound	_	O
+11	hudgens	hudgens	VBZ	pos2=FW	0	root	_	O
+12	zac	zac	NNP	pos2=FW	13	compound	_	O
+13	efron	efron	NNP	pos2=NN	14	compound	_	O
+14	sex	sex	NN	_	11	dobj	_	O
+

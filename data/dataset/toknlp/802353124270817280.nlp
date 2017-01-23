@@ -1,0 +1,19 @@
+1	@IndusSpirit	@indusspirit	UH	pos2=ADD	3	discourse	_	O
+2	It	it	PRP	_	3	nsubj	_	O
+3	seems	seem	VBZ	_	0	root	_	O
+4	even	even	RB	pos2=JJ	6	advmod	_	O
+5	Nobel	nobel	NNP	_	6	compound	_	O
+6	prize	prize	NN	_	7	nsubj	_	O
+7	is	be	VBZ	_	3	ccomp	_	O
+8	for	for	IN	_	7	prep	_	O
+9	sale	sale	NN	_	8	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	Amartya	amartya	NNP	_	2	compound	_	B-PERSON
+2	Sen	sen	NNP	_	0	root	_	L-PERSON
+3	then	then	RB	_	7	advmod	_	O
+4	and	and	CC	_	2	cc	_	O
+5	Bob	bob	NNP	_	6	compound	_	B-PERSON
+6	Dylan	dylan	NNP	_	2	conj	_	L-PERSON
+7	now	now	RB	_	6	advmod	_	O
+

@@ -1,0 +1,25 @@
+1	@elizabethforma	@elizabethforma	UH	pos2=NN	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	am	be	VBP	_	0	root	_	O
+4	one	#crd#	CD	_	3	attr	_	U-CARDINAL
+5	of	of	IN	_	4	prep	_	O
+6	your	your	PRP$	_	7	poss	_	O
+7	constituents	constituent	NNS	_	5	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	Too	too	RB	_	2	advmod	_	O
+2	late	late	JJ	pos2=RB	3	nmod	_	O
+3	coming	come	VBG	_	0	root	_	O
+4	to	to	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	table	table	NN	_	4	pobj	_	O
+7	and	and	CC	_	3	cc	_	O
+8	we	we	PRP	_	11	nsubj	_	O
+9	wo	wo	MD	_	11	aux	_	O
+10	n't	not	RB	_	11	neg	_	O
+11	forget	forget	VB	_	3	conj	_	O
+12	that	that	DT	_	11	dobj	_	O
+13	.	.	.	_	11	punct	_	O
+
+1	@maddow	@maddow	UH	pos2=VB	0	root	_	O
+

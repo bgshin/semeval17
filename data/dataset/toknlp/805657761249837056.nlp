@@ -1,0 +1,8 @@
+1	@AriBerman	@ariberman	NNP	pos2=NN	3	nsubj	_	O
+2	Already	already	RB	_	3	advmod	_	O
+3	have	have	VBP	_	0	root	_	O
+4	massive	massive	JJ	_	6	nmod	_	O
+5	voter	voter	NN	_	6	compound	_	O
+6	suppression	suppression	NN	_	3	dobj	_	O
+7	.	.	.	_	3	punct	_	O
+

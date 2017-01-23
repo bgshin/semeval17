@@ -1,0 +1,22 @@
+1	Just	just	RB	_	2	advmod	_	O
+2	imagine	imagine	VB	_	5	advcl	_	O
+3	,	,	,	_	5	punct	_	O
+4	this	this	DT	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	where	where	WRB	_	8	advmod	_	O
+7	kids	kid	NNS	_	8	nsubj	_	O
+8	play	play	VBP	pos2=VB	5	ccomp	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	Toxic	toxic	JJ	_	2	nmod	_	O
+2	fumes	fume	NNS	_	0	root	_	O
+3	galore	galore	RB	pos2=JJ	2	advmod	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	#MosulOffensive	#mosuloffensive	ADD	pos2=JJ	6	punct	_	O
+2	#ChildrenFirst	#childrenfirst	ADD	pos2=RB	6	nmod	_	B-PERSON
+3	#Iraq	#iraq	NNP	pos2=NNS	2	pobj	_	L-PERSON
+4	via	via	IN	pos2=GW	0	root	_	O
+5	@UNICEFiraq	@unicefiraq	ADD	pos2=NNP	4	pobj	_	O
+6	https://t.co/syJwWbKxvq	#hlink#	ADD	_	4	pobj	_	O
+

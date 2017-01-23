@@ -1,0 +1,18 @@
+1	#JackAssWilly	#jackasswilly	NNP	pos2=ADD	3	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	Options	option	NNPS	pos2=NNS	5	nsubj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	go	go	VB	_	0	root	_	O
+6	into	into	IN	_	5	prep	_	O
+7	hiding	hiding	NN	pos2=VBG	6	pobj	_	O
+8	are	be	VBP	_	9	aux	_	O
+9	running	run	VBG	_	5	conj	_	O
+10	out	out	RP	pos2=RB	9	prt	_	O
+11	|	|	SYM	pos2=,	9	punct	_	O
+12	via	via	IN	_	9	prep	_	O
+13	@SportsDroppings	@sportsdroppings	NNS	pos2=NFP	12	pobj	_	O
+14	|	|	NFP	pos2=-LRB-	9	punct	_	O
+15	https://t.co/pMnXNmPz5M	#hlink#	ADD	_	17	dep	_	O
+16	|	|	NFP	pos2=-LRB-	17	punct	_	O
+17	https://t.co/7M13dDApP0	#hlink#	ADD	pos2=NN	13	appos	_	O
+

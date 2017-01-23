@@ -1,0 +1,19 @@
+1	Watching	watch	VBG	_	10	advcl	_	O
+2	the	the	DT	_	4	det	_	O
+3	latest	late	JJS	_	4	nmod	_	O
+4	episode	episode	NN	_	1	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	"	"	``	pos2=''	10	punct	_	O
+7	wowwwwwww	wowwwwwww	UH	pos2=WRB	10	discourse	_	O
+8	y'all	y'all	PRP	_	10	nsubj	_	O
+9	really	really	RB	_	10	advmod	_	O
+10	paid	pay	VBD	_	0	root	_	O
+11	40k	0k	CD	pos2=NNP	10	punct	_	U-CARDINAL
+12	a	a	DT	_	13	det	_	O
+13	day	day	NN	_	10	dobj	_	O
+14	to	to	TO	_	15	aux	_	O
+15	fuck	fuck	VB	_	10	advcl	_	O
+16	robots	robot	NNS	_	15	dobj	_	O
+17	??	??	.	_	10	punct	_	O
+18	"	"	''	_	10	punct	_	O
+

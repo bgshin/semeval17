@@ -1,0 +1,17 @@
+1	@CynthiaCHeath	@cynthiacheath	NN	pos2=ADD	2	compound	_	O
+2	@DefendingtheUSA	@defendingtheusa	NN	pos2=EX	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	someone	someone	NN	_	3	attr	_	O
+5	who	who	WP	_	6	nsubj	_	O
+6	supports	support	VBZ	_	4	relcl	_	O
+7	tpp	tpp	NN	pos2=JJ	6	dobj	_	O
+8	and	and	CC	_	7	cc	_	O
+9	open	open	JJ	_	10	nmod	_	O
+10	borders	border	NNS	pos2=VBZ	7	conj	_	O
+11	a	a	DT	_	14	det	_	O
+12	"	"	``	_	14	punct	_	O
+13	bad	bad	JJ	_	14	nmod	_	O
+14	globalist	globalist	NN	pos2=JJ	16	nmod	_	O
+15	"	"	''	_	14	punct	_	O
+16	#neverromney	#neverromney	UH	pos2=NN	3	discourse	_	O
+

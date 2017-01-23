@@ -1,0 +1,14 @@
+1	How	how	WRB	_	3	advmod	_	O
+2	Netanyahu	netanyahu	NNP	_	3	nsubj	_	U-PERSON
+3	Divides	divide	VBZ	_	0	root	_	O
+4	and	and	CC	_	3	cc	_	O
+5	Occupies	occupy	VBZ	pos2=NNP	3	conj	_	O
+6	America	america	NNP	_	5	dobj	_	U-GPE
+7	https://t.co/pmhYtgDscC	#hlink#	ADD	pos2=RBR	5	dobj	_	O
+8	via	via	IN	_	5	prep	_	O
+9	@H4Palestine	@h0palestine	CD	pos2=NN	8	pobj	_	O
+10	#gaza	#gaza	UH	pos2=ADD	13	discourse	_	O
+11	#palestine	#palestine	UH	pos2=PRP	13	discourse	_	O
+12	#israel	#israel	UH	pos2=VB	13	discourse	_	O
+13	#BDS	#bds	NNS	pos2=UH	0	root	_	O
+

@@ -1,0 +1,15 @@
+1	The	the	DT	_	5	det	_	O
+2	most	most	RBS	_	3	advmod	_	O
+3	popular	popular	JJ	_	5	nmod	_	O
+4	fast	fast	JJ	_	5	nmod	_	O
+5	food	food	NN	_	0	root	_	O
+6	fried	fry	VBN	_	8	nmod	_	O
+7	chicken	chicken	NN	_	8	compound	_	O
+8	sandwiches	sandwich	NNS	_	5	appos	_	O
+9	,	,	,	_	5	punct	_	O
+10	ranked	rank	VBN	pos2=VBD	5	acl	_	O
+11	for	for	IN	_	10	prep	_	O
+12	#NationalFastFoodDay	#nationalfastfoodday	GW	pos2=NN	11	pobj	_	O
+13	https://t.co/pttJvSYQIq	#hlink#	ADD	pos2=GW	14	nmod	_	O
+14	https://t.co/wlvahfuHqa	#hlink#	ADD	_	11	pobj	_	O
+

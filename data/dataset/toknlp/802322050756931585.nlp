@@ -1,0 +1,17 @@
+1	@JeffBOTL	@jeffbotl	XX	pos2=UH	11	dep	_	O
+2	@eddieor	@eddieor	XX	pos2=UH	11	dep	_	O
+3	@RodZdebiak	@rodzdebiak	XX	pos2=NNP	11	dep	_	O
+4	@Mack280	@mack0	XX	pos2=CD	11	dep	_	O
+5	@oppy8107	@oppy0	XX	pos2=CD	11	dep	_	O
+6	@RHGoddess	@rhgoddess	XX	pos2=GW	11	dep	_	O
+7	@ParadigmPres	@paradigmpres	XX	pos2=NNS	11	dep	_	O
+8	@CigarGent_CV66	@cigargent_cv0	XX	pos2=GW	11	dep	_	O
+9	@HN_JAD	@hn_jad	XX	pos2=NFP	11	dep	_	O
+10	@PistolCliffI	@pistolcliffi	XX	pos2=NNP	11	dep	_	O
+11	got	get	VBD	_	0	root	_	O
+12	a	a	DT	_	13	det	_	O
+13	box	box	NN	_	11	dobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	No.8	no.0	NN	pos2=NNP	16	compound	_	B-ORG
+16	Maduro	maduro	NNP	_	14	pobj	_	L-ORG
+

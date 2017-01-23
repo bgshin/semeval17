@@ -1,0 +1,15 @@
+1	bn	bn	NN	pos2=UH	2	compound	_	U-CARDINAL
+2	#blog	#blog	NN	pos2=XX	4	dep	_	O
+3	:	:	:	_	2	punct	_	O
+4	the	the	DT	_	5	det	_	O
+5	world	world	NN	_	6	nsubj	_	O
+6	according	accord	VBG	_	0	root	_	O
+7	to	to	IN	_	6	prep	_	O
+8	@theashleygraham	@theashleygraham	NNP	pos2=XX	7	pobj	_	U-ORG
+9	...	..	.	_	2	punct	_	O
+
+1	https://t.co/p4nQj4VF64	#hlink#	ADD	_	4	nmod	_	O
+2	#IAmSizeSexy	#iamsizesexy	GW	pos2=-RRB-	4	nmod	_	O
+3	#ashleygraham	#ashleygraham	GW	pos2=-LRB-	4	nmod	_	O
+4	https://t.co/McJJOFvC1Z	#hlink#	ADD	pos2=NN	0	root	_	O
+

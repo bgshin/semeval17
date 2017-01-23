@@ -1,0 +1,29 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@CCFA	@ccfa	NN	pos2=NNS	6	nsubj	_	O
+2	Of	of	IN	_	1	prep	_	O
+3	all	all	DT	_	4	det	_	O
+4	things	thing	NNS	_	2	pobj	_	O
+5	,	,	,	_	6	punct	_	O
+6	homeopathy	homeopathy	NN	_	0	root	_	O
+7	?	?	.	_	6	punct	_	O
+
+1	Patients	patient	NNS	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	know	know	VB	_	2	xcomp	_	O
+5	this	this	DT	_	6	nsubj	_	O
+6	is	be	VBZ	_	4	ccomp	_	O
+7	a	a	DT	_	8	det	_	O
+8	scam	scam	NN	_	6	attr	_	O
+9	with	with	IN	_	8	prep	_	O
+10	no	no	DT	_	11	det	_	O
+11	basis	basis	NN	_	9	pobj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	science	science	NN	_	12	pobj	_	O
+14	(	(	-LRB-	_	13	punct	_	O
+15	or	or	CC	_	13	cc	_	O
+16	reality	reality	NN	_	13	conj	_	O
+17	)	)	-RRB-	_	2	punct	_	O
+18	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,9 @@
+1	zac	zac	JJ	pos2=NNP	2	nmod	_	O
+2	efron	efron	NN	pos2=NNP	3	nsubj	_	O
+3	poses	pose	VBZ	_	0	root	_	O
+4	nude	nude	JJ	pos2=NN	8	nmod	_	O
+5	#lovely	#lovely	RB	pos2=PRP$	8	nmod	_	O
+6	libra	libra	NN	pos2=GW	7	compound	_	O
+7	porn	porn	NN	pos2=GW	8	dep	_	O
+8	https://t.co/ukneYt2Wl2	#hlink#	ADD	pos2=NN	3	dobj	_	U-ORG
+

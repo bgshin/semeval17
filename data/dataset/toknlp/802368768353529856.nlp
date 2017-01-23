@@ -1,0 +1,13 @@
+1	Trump	trump	NNP	pos2=NN	4	compound	_	O
+2	Transition	transition	NNP	pos2=NN	4	compound	_	O
+3	Team	team	NNP	pos2=NN	4	compound	_	O
+4	Website	website	NNP	pos2=NN	12	dep	_	O
+5	With	with	IN	_	4	prep	_	O
+6	Goals	goal	NNPS	pos2=NNP	5	pobj	_	O
+7	For	for	IN	pos2=NNP	4	prep	_	O
+8	First	#ord#	NNP	pos2=RB	7	pobj	_	B-DATE
+9	100	0	CD	_	10	nmod	_	I-DATE
+10	Days	day	NNS	pos2=NNPS	12	dep	_	L-DATE
+11	https://t.co/R6A18bAqWu	#hlink#	ADD	_	12	nmod	_	O
+12	https://t.co/77fkrBdzcO	#hlink#	ADD	_	0	root	_	U-ORG
+

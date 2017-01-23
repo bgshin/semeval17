@@ -1,0 +1,19 @@
+1	@TauschManuela	@tauschmanuela	NNP	pos2=ADD	2	compound	_	O
+2	Love	love	NNP	pos2=NN	0	root	_	O
+3	that	that	WDT	pos2=IN	5	dative	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	shared	share	VBD	_	2	relcl	_	O
+6	my	my	PRP$	pos2=IN	12	poss	_	O
+7	Bob	bob	NNP	_	12	nmod	_	O
+8	'	'	``	pos2=POS	12	punct	_	O
+9	Rolling	rolling	NNP	pos2=VBG	10	compound	_	O
+10	Thunder	thunder	NNP	_	12	poss	_	O
+11	'	'	POS	pos2=''	10	case	_	O
+12	Dylan	dylan	NNP	_	5	dobj	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	Love	love	VB	pos2=VBP	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	Bard	bard	NNP	_	1	dobj	_	U-ORG
+4	!	!	.	_	1	punct	_	O
+

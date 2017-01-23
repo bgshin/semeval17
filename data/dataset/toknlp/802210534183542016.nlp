@@ -1,0 +1,23 @@
+1	@jaredwa	@jaredwa	UH	pos2=XX	11	discourse	_	O
+2	@JaynePenelope	@jaynepenelope	UH	pos2=VB	11	discourse	_	O
+3	oh	oh	UH	_	11	discourse	_	O
+4	,	,	,	_	11	punct	_	O
+5	and	and	CC	_	9	cc	_	O
+6	Hillary	hillary	NNP	_	11	nsubj	_	U-PERSON
+7	most	most	RBS	_	8	advmod	_	O
+8	likely	likely	RB	_	11	advmod	_	O
+9	did	do	VBD	_	11	aux	_	O
+10	n't	not	RB	_	11	neg	_	O
+11	win	win	VB	_	0	root	_	O
+12	the	the	DT	_	14	det	_	O
+13	popular	popular	JJ	_	14	nmod	_	O
+14	vote	vote	NN	_	11	dobj	_	O
+15	,	,	,	_	11	punct	_	O
+16	considering	consider	VBG	_	11	advcl	_	O
+17	how	how	WRB	_	18	advmod	_	O
+18	many	many	JJ	_	20	nmod	_	O
+19	illegal	illegal	JJ	_	20	nmod	_	O
+20	votes	vote	NNS	_	22	nsubjpass	_	O
+21	were	be	VBD	_	22	auxpass	_	O
+22	casted	cast	VBN	_	16	ccomp	_	O
+

@@ -1,0 +1,23 @@
+1	Google	google	NNP	_	3	compound	_	O
+2	Earth	earth	NNP	_	3	compound	_	U-LOC
+3	VR.	vr.	NNP	_	5	nsubj	_	O
+4	Utterly	utterly	RB	_	5	advmod	_	O
+5	mindblowing	mindblowing	VBG	pos2=JJ	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	I	I	PRP	_	3	nsubjpass	_	O
+2	'm	be	VBP	_	3	auxpass	_	O
+3	lost	lose	VBN	pos2=JJ	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	words	word	NNS	_	4	pobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	Finally	finally	RB	_	4	advmod	_	O
+2	#VR	#vr	NNP	pos2=PRP	4	nsubj	_	U-ORG
+3	has	have	VBZ	_	4	aux	_	O
+4	found	find	VBN	_	0	root	_	O
+5	its	its	PRP$	_	7	poss	_	O
+6	killer	killer	NN	pos2=JJR	7	compound	_	O
+7	app	app	NN	_	4	dobj	_	O
+8	.	.	.	_	4	punct	_	O
+

@@ -1,0 +1,28 @@
+1	FRACKING	fracking	NN	pos2=NNP	8	dep	_	O
+2	AND	and	CC	_	1	cc	_	O
+3	OUR	our	PRP$	_	4	poss	_	O
+4	FOOD	food	NN	_	1	conj	_	O
+5	:	:	:	_	8	punct	_	O
+6	Erin	erin	NNP	_	7	compound	_	B-PERSON
+7	Brockovich	brockovich	NNP	_	8	nsubj	_	L-PERSON
+8	is	be	VBZ	_	0	root	_	O
+9	at	at	IN	_	8	prep	_	O
+10	it	it	PRP	_	9	pobj	_	O
+11	again	again	RB	_	8	advmod	_	O
+12	.	.	.	_	8	punct	_	O
+
+1	What	what	WDT	pos2=WP	3	det	_	O
+2	a	a	DT	_	3	det	_	O
+3	woman	woman	NN	_	0	root	_	O
+4	!!!	!!	.	_	3	punct	_	O
+
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	definitely	definitely	RB	_	2	advmod	_	O
+4	something	something	NN	_	2	attr	_	O
+5	that	that	WDT	_	6	nsubj	_	O
+6	each	each	DT	_	4	relcl	_	O
+7	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/0kIkMKYUCF	#hlink#	ADD	_	0	root	_	U-ORG
+

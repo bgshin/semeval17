@@ -1,0 +1,7 @@
+1	Pope	pope	NNP	_	2	compound	_	O
+2	Francis	francis	NNP	_	3	nsubj	_	U-PERSON
+3	insults	insult	VBZ	pos2=NNS	0	root	_	O
+4	Catholic	catholic	JJ	pos2=NNP	5	nmod	_	U-NORP
+5	youth	youth	NN	_	3	dobj	_	O
+6	https://t.co/xBp2L0Jag0	#hlink#	ADD	pos2=NN	3	dep	_	O
+

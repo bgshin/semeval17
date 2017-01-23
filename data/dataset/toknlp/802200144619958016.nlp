@@ -1,0 +1,20 @@
+1	@boldandworthy	@boldandworthy	UH	pos2=MD	5	discourse	_	O
+2	most	most	JJS	pos2=RBS	4	nmod	_	O
+3	DT	dt	JJ	pos2=NN	4	nmod	_	O
+4	supporters	supporter	NNS	_	5	nsubj	_	O
+5	are	be	VBP	_	0	root	_	O
+6	angry	angry	JJ	_	5	acomp	_	O
+7	at	at	IN	_	6	prep	_	O
+8	the	the	DT	pos2=PDT	12	det	_	O
+9	the	the	DT	_	12	det	_	O
+10	few	few	JJ	_	12	nmod	_	O
+11	White	white	NNP	pos2=JJ	12	compound	_	B-ORG
+12	Supremacists	supremacist	NNPS	pos2=NNS	7	pobj	_	L-ORG
+13	who	who	WP	_	14	nsubj	_	O
+14	have	have	VBP	_	12	relcl	_	O
+15	high	high	JJ	pos2=RB	18	nmod	_	O
+16	jacked	jack	VBN	pos2=VBD	5	advcl	_	O
+17	the	the	DT	_	18	det	_	O
+18	movement	movement	NN	_	16	dobj	_	O
+19	.	.	.	_	5	punct	_	O
+

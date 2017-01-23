@@ -1,0 +1,26 @@
+1	Pretty	pretty	RB	_	2	advmod	_	O
+2	inspiring	inspiring	JJ	pos2=VBG	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	see	see	VB	_	2	advcl	_	O
+5	where	where	WRB	_	8	pobj	_	O
+6	people	people	NNS	_	7	nsubj	_	O
+7	came	come	VBD	_	4	ccomp	_	O
+8	from	from	IN	_	7	prep	_	O
+9	and	and	CC	_	7	cc	_	O
+10	how	how	WRB	_	12	advmod	_	O
+11	it	it	PRP	_	12	nsubj	_	O
+12	shaped	shape	VBD	pos2=VBN	7	conj	_	O
+13	who	who	WP	_	15	attr	_	O
+14	they	they	PRP	_	15	nsubj	_	O
+15	are	be	VBP	_	12	ccomp	_	O
+16	today	today	NN	pos2=RB	15	npadvmod	_	U-DATE
+17	.	.	.	_	2	punct	_	O
+
+1	Really	really	RB	_	2	advmod	_	O
+2	enjoying	enjoy	VBG	_	0	root	_	O
+3	your	your	PRP$	_	4	poss	_	O
+4	book	book	NN	_	2	dobj	_	O
+5	so	so	RB	_	6	advmod	_	O
+6	far	far	RB	_	7	advmod	_	O
+7	@megynkelly	@megynkelly	RB	pos2=.	2	advmod	_	O
+

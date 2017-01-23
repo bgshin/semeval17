@@ -1,0 +1,24 @@
+1	@bmichael9x	@bmichael0x	NN	pos2=XX	8	npadvmod	_	O
+2	@ElMoteroIsGreat	@elmoteroisgreat	ADD	pos2=GW	4	det	_	O
+3	@sirjamesa12	@sirjamesa0	NN	pos2=CD	4	compound	_	O
+4	Man	man	NNP	pos2=NN	1	appos	_	O
+5	you	you	PRP	pos2=VBZ	6	nmod	_	O
+6	liberals	liberal	NNS	pos2=VBZ	8	nsubj	_	O
+7	sure	sure	JJ	pos2=UH	6	nmod	_	O
+8	like	like	VBP	pos2=UH	0	root	_	O
+9	to	to	TO	_	10	aux	_	O
+10	tell	tell	VB	_	8	xcomp	_	O
+11	people	people	NNS	_	10	dobj	_	O
+12	what	what	WP	_	13	nsubj	_	O
+13	s	s	VBZ	pos2=VBG	10	ccomp	_	O
+14	offensive	offensive	JJ	pos2=NN	13	acomp	_	O
+15	to	to	IN	_	14	prep	_	O
+16	blacks	black	NNS	_	15	pobj	_	O
+17	even	even	RB	_	21	advmod	_	O
+18	though	though	IN	_	21	mark	_	O
+19	you	you	PRP	_	21	nsubj	_	O
+20	never	never	RB	_	21	neg	_	O
+21	met	meet	VBD	_	16	appos	_	O
+22	one	#crd#	CD	pos2=NN	21	dobj	_	U-CARDINAL
+23	.	.	.	_	8	punct	_	O
+

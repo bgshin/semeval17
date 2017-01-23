@@ -1,0 +1,21 @@
+1	The	the	DT	_	6	det	_	O
+2	fourth	#ord#	JJ	_	6	nmod	_	U-ORDINAL
+3	African	african	JJ	pos2=NNP	5	advmod	_	U-NORP
+4	-	-	HYPH	_	5	punct	_	O
+5	Arab	arab	JJ	_	6	nmod	_	U-NORP
+6	summit	summit	NN	_	9	nsubj	_	O
+7	in	in	IN	_	6	prep	_	O
+8	#Equatorial_Guinea	#equatorial_guinea	NN	pos2=NNP	7	pobj	_	O
+9	emphasizes	emphasize	VBZ	_	0	root	_	O
+10	on	on	IN	_	9	prep	_	O
+11	its	its	PRP$	_	12	poss	_	O
+12	support	support	NN	_	10	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	the	the	DT	_	16	det	_	O
+15	proposed	propose	VBN	_	16	nmod	_	O
+16	Government	government	NNP	pos2=NN	13	pobj	_	O
+17	in	in	IN	_	16	prep	_	O
+18	#Libya	#libya	NNP	pos2=GW	17	pobj	_	U-GPE
+19	…	…	NFP	pos2=-LRB-	20	punct	_	O
+20	https://t.co/AknW5VCZ6Q	#hlink#	ADD	_	9	dep	_	O
+

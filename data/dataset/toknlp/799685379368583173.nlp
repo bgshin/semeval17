@@ -1,0 +1,27 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@IntersectionEN	@intersectionen	NNS	pos2=NN	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	fake	fake	JJ	_	11	nmod	_	O
+4	Putin	putin	NNP	_	7	nmod	_	U-PERSON
+5	oppo	oppo	NNP	pos2=FW	8	dep	_	O
+6	-	-	HYPH	pos2=,	8	punct	_	O
+7	a	a	DT	pos2=NNP	8	det	_	O
+8	Kremlin	kremlin	NNP	_	11	nmod	_	U-ORG
+9	"	"	``	pos2=''	11	punct	_	O
+10	Active	active	JJ	pos2=NNP	11	nmod	_	O
+11	Measure	measure	NN	pos2=NNP	2	attr	_	O
+12	.	.	.	_	2	punct	_	O
+13	"	"	''	_	2	punct	_	O
+
+1	Its	its	PRP$	_	2	poss	_	O
+2	aim	aim	NN	_	5	dep	_	O
+3	:	:	:	pos2=HYPH	5	punct	_	O
+4	influence	influence	NN	_	5	compound	_	O
+5	behavior	behavior	NN	_	0	root	_	O
+6	,	,	,	_	5	punct	_	O
+7	enabling	enable	VBG	_	5	acl	_	O
+8	manipulat	manipulat	JJ	pos2=NN	7	dobj	_	O
+9	…	…	NFP	pos2=-LRB-	7	dobj	_	O
+10	https://t.co/9dBCkd6oPh	#hlink#	ADD	pos2=NN	7	dobj	_	O
+

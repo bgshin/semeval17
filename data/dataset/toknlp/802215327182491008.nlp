@@ -1,0 +1,28 @@
+1	Y'all	y'all	PRP	pos2=UH	4	nsubj	_	O
+2	dumb	dumb	JJ	_	3	nmod	_	O
+3	mfs	mf	NNS	pos2=NN	4	nsubj	_	O
+4	thought	think	VBD	_	0	root	_	O
+5	y'all	y'all	PRP	_	7	nsubj	_	O
+6	was	be	VBD	_	7	aux	_	O
+7	eating	eat	VBG	_	4	ccomp	_	O
+8	Thanksgiving	thanksgiving	NNP	pos2=VBG	9	compound	_	U-DATE
+9	food	food	NN	_	7	dobj	_	O
+10	on	on	IN	_	7	prep	_	O
+11	Friday	friday	NNP	_	10	pobj	_	U-DATE
+12	?	?	.	_	4	punct	_	O
+
+1	Ai	be	VB	pos2=VBP	0	root	_	O
+2	n't	not	RB	_	1	neg	_	O
+3	black	black	JJ	pos2=VBN	1	acomp	_	O
+4	Friday	friday	NNP	_	1	npadvmod	_	U-DATE
+5	after	after	IN	_	1	prep	_	O
+6	Thanksgiving	thanksgiving	NNP	pos2=VBG	5	pobj	_	U-DATE
+7	every	every	DT	_	9	det	_	O
+8	mf	mf	NN	pos2=JJ	9	compound	_	O
+9	year	year	NN	_	1	npadvmod	_	O
+10	!?	!?	.	_	1	punct	_	O
+
+1	How	how	WRB	_	2	advmod	_	O
+2	tf	tf	NN	pos2=JJ	0	root	_	O
+3	!!??	!!??	.	pos2=XX	2	punct	_	O
+

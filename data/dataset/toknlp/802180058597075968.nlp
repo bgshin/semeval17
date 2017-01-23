@@ -1,0 +1,16 @@
+1	One	#crd#	CD	_	0	root	_	U-CARDINAL
+2	of	of	IN	_	1	prep	_	O
+3	the	the	DT	_	5	det	_	O
+4	best	good	JJS	_	5	nmod	_	O
+5	weeks	week	NNS	_	2	pobj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	trailers	trailer	NNS	_	6	pobj	_	O
+8	:	:	:	_	12	punct	_	O
+9	https://t.co/hBSs5KoFoK	#hlink#	NN	pos2=ADD	12	dep	_	O
+10	-	-	HYPH	pos2=:	11	punct	_	O
+11	#Jackie	#jackie	NNP	pos2=NN	12	dep	_	O
+12	#BeautyAndTheBeast	#beautyandthebeast	NN	pos2=ADD	13	compound	_	O
+13	#Valerian	#valerian	NNP	pos2=XX	15	dep	_	O
+14	#LiveByNight	#livebynight	ADD	pos2=XX	0	root	_	O
+15	#CollateralBeauty	#collateralbeauty	ADD	pos2=NN	14	pobj	_	O
+

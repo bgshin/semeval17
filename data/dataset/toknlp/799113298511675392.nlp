@@ -1,0 +1,23 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@prchovanec	@prchovanec	UH	pos2=NNP	4	discourse	_	O
+2	That	that	DT	_	4	nsubj	_	O
+3	may	may	MD	_	4	aux	_	O
+4	be	be	VB	_	0	root	_	O
+5	the	the	DT	pos2=PRP	10	det	_	O
+6	only	only	JJ	pos2=RB	10	nmod	_	O
+7	#Science	#science	NNP	pos2=NN	4	attr	_	B-ORG
+8	/	/	SYM	pos2=HYPH	20	punct	_	I-ORG
+9	#Physics	#physics	PRP$	pos2=NNS	10	poss	_	L-ORG
+10	programs	program	NNS	_	4	attr	_	O
+11	that	that	WDT	_	12	nsubj	_	O
+12	receive	receive	VBP	_	10	relcl	_	O
+13	any	any	DT	_	14	det	_	O
+14	funding	funding	NN	_	12	dobj	_	O
+15	from	from	IN	_	14	prep	_	O
+16	#Trump	#trump	NNP	pos2=VBG	17	compound	_	O
+17	administration	administration	NN	_	15	pobj	_	O
+18	|	|	,	pos2=SYM	4	punct	_	O
+19	…	…	NFP	pos2=-LRB-	20	punct	_	O
+20	https://t.co/8JN3TSmLHa	#hlink#	ADD	_	4	dep	_	O
+

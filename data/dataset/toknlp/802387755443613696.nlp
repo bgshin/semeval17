@@ -1,0 +1,21 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	solution	solution	NN	_	2	attr	_	O
+5	to	to	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	rioters	rioter	NNS	_	5	pobj	_	O
+8	blocking	block	VBG	_	7	acl	_	O
+9	stores	store	NNS	_	8	dobj	_	O
+10	and	and	CC	_	8	cc	_	O
+11	attacking	attack	VBG	_	8	conj	_	O
+12	people	people	NNS	_	11	dobj	_	O
+13	on	on	IN	_	11	prep	_	O
+14	behalf	behalf	NN	_	13	pobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	George	george	NNP	_	17	compound	_	B-PERSON
+17	Soros	soros	NNP	_	19	poss	_	I-PERSON
+18	's	's	POS	_	17	case	_	L-PERSON
+19	…	…	NFP	pos2=-LRB-	15	pobj	_	O
+20	https://t.co/j20BSpbgcV	#hlink#	ADD	pos2=NN	15	pobj	_	O
+

@@ -1,0 +1,25 @@
+1	@reformABC	@reformabc	NN	pos2=ADD	3	compound	_	O
+2	@Harlan	@harlan	NNP	pos2=ADD	3	compound	_	U-GPE
+3	@Veteran4Trump	@veteran0trump	NN	pos2=ADD	4	compound	_	O
+4	@newscomauHQ	@newscomauhq	NNP	pos2=NN	6	vocative	_	O
+5	That	that	DT	pos2=NNP	6	nsubj	_	O
+6	's	's	VBZ	_	0	root	_	O
+7	how	how	WRB	_	11	advmod	_	O
+8	the	the	DT	_	10	det	_	B-ORG
+9	Clinton	clinton	NNP	_	10	compound	_	I-ORG
+10	Foundation	foundation	NNP	_	11	nsubj	_	L-ORG
+11	works	work	VBZ	pos2=NNS	6	ccomp	_	O
+12	.	.	.	_	6	punct	_	O
+
+1	Only	only	RB	_	2	advmod	_	B-PERCENT
+2	5	0	CD	_	3	nmod	_	I-PERCENT
+3	%	%	NN	_	4	nsubj	_	L-PERCENT
+4	goes	go	VBZ	_	0	root	_	O
+5	to	to	IN	pos2=TO	4	prep	_	O
+6	charity	charity	NN	_	5	pobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	the	the	DT	_	9	det	_	O
+9	rest	rest	NN	_	6	conj	_	O
+10	to	to	IN	pos2=TO	9	prep	_	O
+11	ClintonCart	clintoncart	NNP	_	10	pobj	_	U-ORG
+

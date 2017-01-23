@@ -1,0 +1,22 @@
+1	@davidaxelrod	@davidaxelrod	UH	pos2=XX	3	discourse	_	O
+2	@realDonaldTrump	@realdonaldtrump	XX	pos2=VB	3	dep	_	O
+3	@washingtonpost	@washingtonpost	UH	pos2=RB	0	root	_	O
+4	...	..	.	_	3	punct	_	O
+
+1	and	and	CC	_	5	cc	_	O
+2	the	the	DT	_	4	det	_	B-ORG
+3	Clinton	clinton	NNP	_	4	compound	_	I-ORG
+4	Foundation	foundation	NNP	_	5	nsubj	_	L-ORG
+5	did	do	VBD	_	0	root	_	O
+6	well	well	RB	_	5	advmod	_	O
+7	during	during	IN	_	5	prep	_	O
+8	the	the	DT	_	10	det	_	B-DATE
+9	Obama	obama	NNP	_	10	compound	_	I-DATE
+10	years	year	NNS	_	7	pobj	_	L-DATE
+11	as	as	IN	_	5	prep	_	O
+12	a	a	DT	_	13	det	_	O
+13	pay	pay	NN	_	11	pobj	_	O
+14	for	for	IN	_	13	prep	_	O
+15	play	play	NN	_	16	compound	_	O
+16	business	business	NN	_	14	pobj	_	O
+

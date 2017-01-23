@@ -1,0 +1,15 @@
+1	Hell	hell	NN	pos2=NNP	2	nsubj	_	O
+2	freezes	freeze	VBZ	pos2=NNS	0	root	_	O
+3	over	over	RP	pos2=IN	2	prt	_	O
+4	as	as	IN	_	6	mark	_	O
+5	Microsoft	microsoft	NNP	_	6	nsubj	_	U-ORG
+6	joins	join	VBZ	_	2	advcl	_	O
+7	the	the	DT	_	11	det	_	B-ORG
+8	Linux	linux	NNP	_	11	compound	_	I-ORG
+9	Foundation	foundation	NNP	_	11	compound	_	L-ORG
+10	-	-	HYPH	pos2=,	11	punct	_	O
+11	ExtremeTech	extremetech	NNP	_	6	dobj	_	O
+12	https://t.co/kXe9E7fI6y	#hlink#	ADD	pos2=NN	6	dobj	_	O
+13	via	via	IN	_	6	prep	_	O
+14	@ExtremeTech	@extremetech	NN	pos2=NNP	13	pobj	_	O
+

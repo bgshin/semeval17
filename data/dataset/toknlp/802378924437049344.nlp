@@ -1,0 +1,30 @@
+1	@RHornik	@rhornik	UH	pos2=ADD	5	discourse	_	O
+2	@jbarro	@jbarro	UH	pos2=VB	5	discourse	_	O
+3	No	no	UH	_	5	discourse	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	did	do	VBD	_	0	root	_	O
+6	n't	not	RB	_	5	neg	_	O
+7	.	.	.	_	5	punct	_	O
+
+1	The	the	DT	_	4	det	_	O
+2	fake	fake	JJ	_	4	nmod	_	O
+3	"	"	``	_	4	punct	_	O
+4	scandals	scandal	NNS	_	19	nsubj	_	O
+5	"	"	''	_	4	punct	_	O
+6	about	about	IN	pos2=RB	4	prep	_	O
+7	HRC	hrc	NNP	pos2=NN	6	pobj	_	U-ORG
+8	that	that	WDT	_	10	nsubjpass	_	O
+9	were	be	VBD	_	10	auxpass	_	O
+10	pushed	push	VBN	_	4	relcl	_	O
+11	by	by	IN	_	10	agent	_	O
+12	Comey	comey	NNP	_	11	pobj	_	U-PERSON
+13	,	,	,	_	12	punct	_	O
+14	Trump	trump	NNP	_	12	conj	_	O
+15	,	,	,	_	14	punct	_	O
+16	Assange	assange	NNP	_	14	conj	_	U-PERSON
+17	and	and	CC	_	16	cc	_	O
+18	Russia	russia	NNP	_	16	conj	_	U-GPE
+19	did	do	VBD	_	0	root	_	O
+20	her	her	PRP	pos2=PRP$	19	dobj	_	O
+21	in.	in.	.	pos2=NN	19	punct	_	O
+

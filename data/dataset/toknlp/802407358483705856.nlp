@@ -1,0 +1,18 @@
+1	Retweeted	retweeted	VBN	pos2=VBD	2	nmod	_	O
+2	CoachDB181	coachdb0	NN	pos2=NNP	0	root	_	U-PERSON
+3	(	(	-LRB-	_	2	punct	_	O
+4	@coachdb181	@coachdb0	NN	pos2=NNS	2	appos	_	O
+5	)	)	-RRB-	_	2	punct	_	O
+6	:@AppSame	:@appsame	NN	pos2=ADD	9	nsubj	_	O
+7	@	@	SYM	pos2=IN	8	punct	_	O
+8	3XT1	0xt0	NN	pos2=ADD	6	prep	_	O
+9	@DrJillStein	@drjillstein	NN	pos2=ADD	10	compound	_	O
+10	@HillaryClinton	@hillaryclinton	NNP	pos2=XX	15	dep	_	O
+11	Using	use	VBG	_	6	acl	_	O
+12	those	those	DT	_	14	det	_	O
+13	Clinton	clinton	NNP	_	14	compound	_	B-ORG
+14	Foundation	foundation	NNP	_	11	dobj	_	L-ORG
+15	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/bl9JdRDcRM	#hlink#	ADD	_	0	root	_	U-ORG
+

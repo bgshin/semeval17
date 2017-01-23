@@ -1,0 +1,33 @@
+1	@donaldbroom	@donaldbroom	UH	pos2=XX	4	discourse	_	O
+2	@elizabethforma	@elizabethforma	UH	pos2=MD	4	discourse	_	O
+3	😂😂	😂😂	MD	pos2=TO	4	aux	_	O
+4	GO	go	VB	_	0	root	_	O
+5	ON	on	IN	pos2=RP	4	prep	_	O
+6	IDIOT	idiot	NN	pos2=NNP	5	pobj	_	O
+7	!	!	.	_	4	punct	_	O
+
+1	UR	ur	NNP	pos2=NN	2	compound	_	B-ORG
+2	PARTY	party	NN	pos2=NNP	3	nsubj	_	L-ORG
+3	IS	be	VBZ	_	0	root	_	O
+4	DEAD	dead	JJ	_	8	nmod	_	O
+5	B	b	NN	pos2=NNS	7	nmod	_	O
+6	/	/	SYM	pos2=HYPH	7	punct	_	O
+7	C	c	NN	pos2=NNP	8	compound	_	O
+8	U	u	NN	pos2=NNP	3	attr	_	O
+9	JUST	just	RB	_	10	advmod	_	O
+10	KEEP	keep	VB	pos2=VBP	3	advcl	_	O
+11	ON	on	IN	pos2=RP	10	prt	_	O
+12	HATING	hate	VBG	pos2=NN	10	xcomp	_	O
+13	!	!	.	_	3	punct	_	O
+
+1	AMERICA	america	NNP	pos2=NN	3	nsubjpass	_	U-GPE
+2	IS	be	VBZ	_	3	auxpass	_	O
+3	FED	feed	VBN	pos2=NNP	0	root	_	O
+4	UP	up	RP	pos2=IN	3	prt	_	O
+5	W	w	NNP	pos2=IN	6	compound	_	B-ORG
+6	UR	ur	NNP	pos2=NN	10	dep	_	L-ORG
+7	,	,	,	_	6	punct	_	O
+8	RA	ra	NNP	pos2=NN	6	npadvmod	_	U-ORG
+9	…	…	NFP	pos2=:	10	punct	_	O
+10	https://t.co/6FgqGA4Ywc	#hlink#	ADD	pos2=NN	3	dobj	_	U-ORG
+

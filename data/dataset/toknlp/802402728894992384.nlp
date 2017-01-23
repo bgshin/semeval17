@@ -1,0 +1,10 @@
+1	Still	still	RB	_	3	advmod	_	O
+2	up	up	RB	pos2=IN	3	advmod	_	O
+3	watching	watch	VBG	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	game	game	NN	_	6	compound	_	O
+6	freak	freak	NN	pos2=JJ	7	nsubj	_	O
+7	play	play	VB	pos2=VBP	3	ccomp	_	O
+8	the	the	DT	_	9	det	_	O
+9	game	game	NN	_	7	dobj	_	O
+

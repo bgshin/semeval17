@@ -1,0 +1,25 @@
+1	@_	@_	SYM	pos2=NFP	4	punct	_	O
+2	StevenOBrien	stevenobrien	NNP	pos2=VBN	4	nsubj	_	O
+3	_	_	SYM	pos2=NFP	4	punct	_	O
+4	Becoming	become	VBG	_	0	root	_	O
+5	painfully	painfully	RB	_	6	advmod	_	O
+6	obvious	obvious	JJ	_	4	acomp	_	O
+7	of	of	IN	_	6	prep	_	O
+8	late	late	RB	pos2=JJ	11	nmod	_	O
+9	"	"	``	_	11	punct	_	O
+10	The	the	DT	_	11	det	_	O
+11	Hill	hill	NNP	_	7	pobj	_	U-ORG
+12	"	"	''	pos2=``	11	punct	_	O
+13	losing	lose	VBG	pos2=JJ	4	advcl	_	O
+14	credibility	credibility	NN	_	13	dobj	_	O
+15	.	.	.	_	4	punct	_	O
+
+1	Planted	plant	VBN	pos2=VBD	2	nmod	_	O
+2	story	story	NN	_	0	root	_	O
+3	by	by	IN	_	2	prep	_	O
+4	some	some	DT	_	7	det	_	O
+5	Trump	trump	NNP	pos2=NN	7	compound	_	U-PERSON
+6	transition	transition	NN	_	7	compound	_	O
+7	disgruntles	disgruntles	NNS	pos2=NN	3	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+

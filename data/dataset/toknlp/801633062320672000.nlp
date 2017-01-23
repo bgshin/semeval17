@@ -1,0 +1,28 @@
+1	Grayson	grayson	NNP	_	2	compound	_	B-PERSON
+2	Allen	allen	NNP	_	3	nsubj	_	L-PERSON
+3	injured	injure	VBD	_	0	root	_	O
+4	his	his	PRP$	_	5	poss	_	O
+5	foot	foot	NN	_	3	dobj	_	O
+6	last	last	JJ	_	7	nmod	_	B-DATE
+7	week	week	NN	_	3	npadvmod	_	L-DATE
+8	in	in	IN	_	3	prep	_	O
+9	the	the	DT	_	11	det	_	B-ORG
+10	Blue	blue	NNP	_	11	compound	_	I-ORG
+11	Devils	devil	NNPS	_	13	poss	_	I-ORG
+12	'	'	POS	_	11	case	_	L-ORG
+13	loss	loss	NN	_	8	pobj	_	O
+14	to	to	IN	_	13	prep	_	O
+15	Kansas	kansas	NNP	_	14	pobj	_	U-GPE
+16	,	,	,	_	3	punct	_	O
+17	but	but	CC	_	3	cc	_	O
+18	it	it	PRP	_	19	nsubj	_	O
+19	seemed	seem	VBD	_	3	conj	_	O
+20	like	like	IN	_	21	mark	_	O
+21	I	I	PRP	_	19	advcl	_	O
+22	...	..	.	pos2=,	19	punct	_	O
+
+1	-	-	SYM	pos2=NFP	4	punct	_	O
+2	via	via	IN	pos2=GW	0	root	_	O
+3	@ESPN	@espn	NNP	pos2=NN	4	compound	_	B-ORG
+4	App	app	NNP	pos2=NN	2	pobj	_	L-ORG
+

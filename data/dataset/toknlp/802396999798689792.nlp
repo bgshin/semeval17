@@ -1,0 +1,29 @@
+1	▓	▓	NFP	pos2=SYM	4	prep	_	O
+2	♡	♡	NFP	pos2=$	19	det	_	O
+3	▓	▓	NFP	pos2=GW	19	det	_	O
+4	#Deutsch	#deutsch	GW	pos2=NFP	19	nmod	_	O
+5	▓	▓	NFP	pos2=GW	19	nmod	_	O
+6	♡	♡	NFP	pos2=GW	19	det	_	O
+7	▓	▓	NFP	pos2=``	19	det	_	O
+8	BUCH	buch	NN	pos2=NNP	19	nmod	_	O
+9	<	<	SYM	pos2=-LRB-	10	punct	_	O
+10	3	0	CD	_	11	nmod	_	U-CARDINAL
+11	TIPP	tipp	NNP	pos2=NN	8	npadvmod	_	U-ORG
+12	▓	▓	NFP	pos2=,	19	discourse	_	O
+13	♡	♡	NFP	pos2=CD	19	det	_	O
+14	▓	▓	NFP	pos2=CD	19	det	_	O
+15	#German	#german	GW	pos2=NNP	19	nmod	_	O
+16	▓	▓	NFP	pos2=GW	19	nmod	_	O
+17	♡	♡	NFP	pos2=GW	19	det	_	O
+18	▓	▓	NFP	pos2=DT	19	det	_	O
+19	SEASON	season	NN	_	24	nsubj	_	O
+20	OF	of	IN	_	19	prep	_	O
+21	DESIRE	desire	NN	_	20	pobj	_	O
+22	-	-	HYPH	pos2=:	25	punct	_	O
+23	@Sadie_Matthews#1	@sadie_matthews0	NNP	pos2=NN	25	compound	_	O
+24	Momente	momente	NNP	pos2=FW	0	root	_	B-PERSON
+25	des	des	FW	pos2=VBZ	24	advmod	_	L-PERSON
+26	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/6hEtkB5GBz	#hlink#	ADD	_	0	root	_	U-ORG
+

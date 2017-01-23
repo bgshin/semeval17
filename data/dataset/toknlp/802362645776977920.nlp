@@ -1,0 +1,15 @@
+1	Cause	cause	NN	pos2=VB	8	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	Severe	severe	JJ	pos2=NNP	4	nmod	_	O
+4	Injury	injury	NN	pos2=NNP	2	pobj	_	O
+5	at	at	IN	_	4	prep	_	O
+6	Pipeline	pipeline	NNP	_	7	compound	_	B-ORG
+7	Protest	protest	NNP	_	5	pobj	_	L-ORG
+8	Becomes	become	VBZ	_	0	root	_	O
+9	New	new	NNP	pos2=JJ	10	compound	_	B-ORG
+10	Point	point	NNP	pos2=NN	8	attr	_	I-ORG
+11	of	of	IN	_	10	prep	_	I-ORG
+12	Dispute	dispute	GW	pos2=NN	11	pobj	_	L-ORG
+13	https://t.co/6IUZkuowZL	#hlink#	ADD	pos2=GW	14	nmod	_	O
+14	https://t.co/jiJy3eYBJA	#hlink#	ADD	_	8	dep	_	U-ORG
+

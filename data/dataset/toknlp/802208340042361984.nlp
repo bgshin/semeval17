@@ -1,0 +1,31 @@
+1	And	and	CC	_	3	cc	_	O
+2	he	he	PRP	_	3	nsubj	_	O
+3	gets	get	VBZ	_	0	root	_	O
+4	away	away	RB	pos2=RP	3	advmod	_	O
+5	with	with	IN	_	3	prep	_	O
+6	this	this	DT	_	5	pobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	He	he	PRP	_	3	nsubj	_	O
+2	will	will	MD	_	3	aux	_	O
+3	ruin	ruin	VB	_	0	root	_	O
+4	America	america	NNP	_	3	dobj	_	U-GPE
+5	along	along	IN	_	3	prep	_	O
+6	with	with	IN	_	5	prep	_	O
+7	Paul	paul	NNP	_	8	compound	_	B-PERSON
+8	Ryan	ryan	NNP	_	6	pobj	_	L-PERSON
+9	,	,	,	_	8	punct	_	O
+10	Steve	steve	NNP	_	11	compound	_	B-PERSON
+11	Bannon	bannon	NNP	_	8	conj	_	L-PERSON
+12	,	,	,	_	11	punct	_	O
+13	Mike	mike	NNP	_	14	compound	_	B-PERSON
+14	Pence	penny	NNP	_	11	conj	_	L-PERSON
+15	and	and	CC	_	14	cc	_	O
+16	all	all	PDT	_	18	predet	_	O
+17	the	the	DT	_	18	det	_	O
+18	others	other	NNS	_	14	conj	_	O
+19	.	.	.	_	3	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/hjfyu3nefU	#hlink#	ADD	pos2=NN	0	root	_	O
+

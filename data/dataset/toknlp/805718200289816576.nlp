@@ -1,0 +1,23 @@
+1	Fidel	fidel	NNP	_	2	compound	_	B-PERSON
+2	Castro	castro	NNP	_	3	nsubj	_	L-PERSON
+3	interred	inter	VBN	pos2=VBD	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	granite	granite	NN	pos2=JJ	4	pobj	_	O
+6	boulder	boulder	NN	pos2=NNP	8	compound	_	O
+7	-	-	HYPH	pos2=:	8	punct	_	O
+8	PICS	pic	NNS	pos2=CD	22	nmod	_	O
+9	Cuban	cuban	JJ	_	10	nmod	_	U-NORP
+10	revolutionary	revolutionary	JJ	pos2=NN	14	nmod	_	O
+11	Fidel	fidel	NNP	_	12	compound	_	B-PERSON
+12	Castro	castro	NNP	_	14	poss	_	I-PERSON
+13	's	's	POS	_	12	case	_	L-PERSON
+14	ashes	ash	NNS	_	16	nsubjpass	_	O
+15	were	be	VBD	_	16	auxpass	_	O
+16	encased	encase	VBN	_	3	conj	_	O
+17	in	in	IN	_	16	prep	_	O
+18	a	a	DT	_	20	det	_	O
+19	large	large	JJ	_	20	nmod	_	O
+20	g	g	NN	pos2=GW	17	pobj	_	O
+21	…	…	NFP	pos2=:	16	punct	_	O
+22	https://t.co/sSydW6Jnpd	#hlink#	ADD	_	3	dep	_	O
+

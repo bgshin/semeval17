@@ -1,0 +1,29 @@
+1	@TylerPopcott	@tylerpopcott	ADD	pos2=XX	3	pobj	_	O
+2	@PrincessSagan	@princesssagan	ADD	pos2=XX	0	root	_	O
+3	like	like	UH	_	2	discourse	_	O
+4	..	..	.	pos2=,	1	punct	_	O
+
+1	you	you	PRP	_	3	nsubj	_	O
+2	're	be	VBP	_	3	aux	_	O
+3	making	make	VBG	_	0	root	_	O
+4	your	your	PRP$	_	6	poss	_	O
+5	line	line	NN	_	6	compound	_	O
+6	cf	cf	NN	pos2=UH	3	dobj	_	O
+7	so	so	IN	pos2=RB	10	mark	_	O
+8	everyone	everyone	NN	_	10	nsubj	_	O
+9	can	can	MD	_	10	aux	_	O
+10	buy	buy	VB	_	3	advcl	_	O
+11	it	it	PRP	_	10	dobj	_	O
+12	but	but	CC	pos2=RB	10	cc	_	O
+13	not	not	RB	_	17	neg	_	O
+14	because	because	IN	_	17	mark	_	O
+15	animal	animal	NN	_	16	compound	_	O
+16	testing	testing	NN	_	17	nsubj	_	O
+17	is	be	VBZ	_	10	conj	_	O
+18	cruel	cruel	JJ	_	17	acomp	_	O
+19	&	&	CC	_	18	cc	_	O
+20	torture	torture	NN	pos2=JJ	18	conj	_	O
+21	?	?	.	_	3	punct	_	O
+
+1	Ok	ok	UH	pos2=JJ	0	root	_	O
+

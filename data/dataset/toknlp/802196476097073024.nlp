@@ -1,0 +1,27 @@
+1	One	#crd#	CD	_	0	root	_	U-CARDINAL
+2	of	of	IN	_	1	prep	_	O
+3	my	my	PRP$	_	5	poss	_	O
+4	first	#ord#	JJ	_	5	nmod	_	U-ORDINAL
+5	papers	paper	NNS	_	2	pobj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	grad	grad	NN	pos2=JJ	6	pobj	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	school	school	NN	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	about	about	IN	_	2	prep	_	O
+4	how	how	WRB	_	7	advmod	_	O
+5	the	the	DT	_	6	det	_	O
+6	Feds	fed	NNPS	pos2=NNS	7	nsubj	_	U-NORP
+7	engineered	engineer	VBD	pos2=VBN	3	pcomp	_	O
+8	US	us	NNP	_	10	compound	_	U-GPE
+9	housing	housing	NN	pos2=VBG	10	compound	_	O
+10	patterns	pattern	NNS	_	7	dobj	_	O
+11	since	since	IN	_	7	prep	_	O
+12	the	the	DT	_	13	det	_	B-DATE
+13	1920s	0s	NNS	_	11	pobj	_	L-DATE
+14	.	.	.	_	2	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/hqvFtePIXE	#hlink#	ADD	pos2=NN	0	root	_	O
+

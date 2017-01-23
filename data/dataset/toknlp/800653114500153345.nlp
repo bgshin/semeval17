@@ -1,0 +1,26 @@
+1	Linux	linux	NNP	pos2=NN	11	nsubj	_	B-ORG
+2	&	&	CC	_	1	cc	_	I-ORG
+3	Open	open	NNP	pos2=JJ	4	compound	_	I-ORG
+4	Source	source	NNP	pos2=NN	1	conj	_	I-ORG
+5	News	news	NNP	pos2=NN	4	nmod	_	I-ORG
+6	Of	of	IN	_	5	prep	_	I-ORG
+7	The	the	DT	_	10	det	_	I-ORG
+8	Week	week	NNP	pos2=NN	10	compound	_	I-ORG
+9	—	-	HYPH	_	10	punct	_	I-ORG
+10	Microsoft	microsoft	NNP	_	6	pobj	_	I-ORG
+11	Joins	join	VBZ	pos2=NNP	0	root	_	I-ORG
+12	Linux	linux	NNP	_	13	compound	_	I-ORG
+13	Foundation	foundation	NNP	_	11	dobj	_	L-ORG
+14	,	,	,	_	13	punct	_	O
+15	openSUSE	opensuse	NNP	pos2=NN	13	conj	_	O
+16	And	and	CC	pos2=NNP	15	cc	_	O
+17	Zorin	zorin	NNP	_	19	compound	_	B-ORG
+18	OS	os	NNP	pos2=FW	19	compound	_	I-ORG
+19	Releases	release	NNPS	pos2=VBZ	21	compound	_	I-ORG
+20	-	-	HYPH	pos2=,	21	punct	_	I-ORG
+21	F	f	NNP	pos2=NNPS	15	conj	_	L-ORG
+22	...	..	.	pos2=,	11	punct	_	O
+
+1	-	-	SYM	pos2=NFP	2	punct	_	O
+2	https://t.co/0NP12p9M3B	#hlink#	ADD	pos2=NN	0	root	_	O
+

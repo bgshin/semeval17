@@ -1,0 +1,9 @@
+1	@nocompulsoryvac	@nocompulsoryvac	UH	pos2=XX	5	discourse	_	O
+2	@LotusOak	@lotusoak	UH	pos2=NN	5	discourse	_	O
+3	not	not	RB	_	5	neg	_	O
+4	so	so	RB	_	5	advmod	_	O
+5	sure	sure	JJ	pos2=RB	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	https://t.co/wKZU8jtIzA	#hlink#	ADD	_	0	root	_	U-ORG
+

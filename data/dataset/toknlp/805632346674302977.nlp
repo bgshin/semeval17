@@ -1,0 +1,14 @@
+1	Watching	watch	VBG	_	13	advcl	_	O
+2	old	old	JJ	pos2=JJR	4	nmod	_	O
+3	Malcolm	malcolm	NNP	_	4	compound	_	B-PERSON
+4	X	x	NNP	pos2=NN	8	nmod	_	L-PERSON
+5	&	&	CC	_	4	cc	_	O
+6	Muhammad	muhammad	NNP	_	7	compound	_	B-PERSON
+7	Ali	ali	NNP	_	4	conj	_	L-PERSON
+8	interviews	interview	NNS	pos2=VBZ	1	dobj	_	O
+9	,	,	,	_	13	punct	_	O
+10	these	these	DT	_	11	det	_	O
+11	niggas	nigga	NNS	_	13	nsubj	_	O
+12	really	really	RB	_	13	advmod	_	O
+13	inspiring	inspire	VBG	pos2=JJ	0	root	_	O
+

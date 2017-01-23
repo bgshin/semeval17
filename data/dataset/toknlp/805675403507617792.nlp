@@ -1,0 +1,21 @@
+1	@Blogsbloke	@blogsbloke	NNP	pos2=UH	4	vocative	_	U-ORG
+2	@AIIAmericanGirI	@aiiamericangiri	ADD	pos2=NN	4	dep	_	U-ORDINAL
+3	@flamethrower82	@flamethrower0	CD	pos2=NN	4	nsubj	_	U-CARDINAL
+4	Look	look	VB	pos2=VBP	0	root	_	O
+5	at	at	IN	_	4	prep	_	O
+6	Cities	city	NNS	pos2=NNP	5	pobj	_	O
+7	Run	run	VBN	pos2=NNP	6	acl	_	O
+8	by	by	IN	_	7	agent	_	O
+9	Democrats	democrat	NNPS	_	8	pobj	_	U-NORP
+10	.	.	.	_	4	punct	_	O
+
+1	Chicago	chicago	NNP	_	0	root	_	U-GPE
+2	?	?	.	_	1	punct	_	O
+
+1	Strict	strict	JJ	pos2=NNP	4	nmod	_	O
+2	"	"	``	_	4	punct	_	O
+3	Gun	gun	NNP	_	4	compound	_	O
+4	Control	control	NNP	pos2=''	6	nmod	_	O
+5	"	"	''	_	4	punct	_	O
+6	https://t.co/hAXnsyrWoI	#hlink#	ADD	_	0	root	_	O
+

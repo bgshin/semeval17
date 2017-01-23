@@ -1,0 +1,29 @@
+1	@bmichael9x	@bmichael0x	NN	pos2=XX	3	compound	_	O
+2	@ElMoteroIsGreat	@elmoteroisgreat	NN	pos2=ADD	3	compound	_	O
+3	@sirjamesa12	@sirjamesa0	NN	pos2=XX	7	nsubj	_	O
+4	Oh	oh	UH	pos2=NNP	7	discourse	_	O
+5	did	do	VBD	_	7	aux	_	O
+6	liberals	liberal	NNS	_	7	nsubj	_	O
+7	deem	deem	VB	pos2=VBP	0	root	_	O
+8	that	that	IN	pos2=DT	10	dobj	_	O
+9	offensive	offensive	NN	pos2=JJ	6	appos	_	O
+10	now	now	RB	_	7	advmod	_	O
+11	?	?	.	_	7	punct	_	O
+
+1	What	what	WDT	_	2	det	_	O
+2	word	word	NN	_	5	dobj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	u	u	PRP	pos2=DT	5	nsubj	_	O
+5	use	use	VB	_	0	root	_	O
+6	now	now	RB	_	5	advmod	_	O
+7	?	?	.	_	5	punct	_	O
+
+1	People	people	NNS	_	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	color	color	NN	_	2	pobj	_	O
+4	?	?	.	_	1	punct	_	O
+
+1	Colored	colored	JJ	_	2	nmod	_	O
+2	people	people	NNS	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+

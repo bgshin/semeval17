@@ -1,0 +1,32 @@
+1	GOPe	gope	NNP	pos2=NN	3	compound	_	U-ORG
+2	insider	insider	NN	_	3	compound	_	O
+3	whos	who	NNS	pos2=NN	4	nsubj	_	O
+4	willing	willing	JJ	pos2=VBG	0	root	_	O
+5	2	0	CD	_	7	compound	_	U-CARDINAL
+6	Sabotage	sabotage	NNP	pos2=VB	7	compound	_	O
+7	an	an	DT	_	12	det	_	O
+8	elected	elect	VBN	_	4	conj	_	O
+9	,	,	,	_	17	punct	_	O
+10	BY	by	IN	_	8	agent	_	O
+11	POPULAR	popular	JJ	_	12	nmod	_	O
+12	VOTE	vote	NN	_	10	pobj	_	O
+13	,	,	,	_	17	punct	_	O
+14	GOP	gop	NNP	_	15	compound	_	U-ORG
+15	Nominee	nominee	NN	pos2=NNP	12	appos	_	O
+16	,	,	,	_	17	punct	_	O
+17	is	be	VBZ	_	0	root	_	O
+18	Traitor	traitor	NNP	pos2=NN	17	nsubj	_	O
+19	!	!	.	_	17	punct	_	O
+
+1	2	0	CD	pos2=LS	2	nsubj	_	U-CARDINAL
+2	KNOW	know	VB	pos2=VBP	10	ccomp	_	O
+3	HRC	hrc	NNP	pos2=NN	4	compound	_	U-ORG
+4	Criminality	criminality	NN	pos2=NNP	2	dobj	_	O
+5	-	-	:	pos2=,	10	punct	_	O
+6	Still	still	RB	pos2=NNP	7	advmod	_	O
+7	do	do	VBP	pos2=VB	10	advcl	_	O
+8	it	it	PRP	_	7	dobj	_	O
+9	,	,	,	_	10	punct	_	O
+10	inexcusable	inexcusable	JJ	_	0	root	_	O
+11	!	!	.	_	10	punct	_	O
+

@@ -1,0 +1,25 @@
+1	shoutout	shoutout	NN	pos2=VB	0	root	_	O
+2	to	to	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	moms	mom	NNS	_	2	pobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	-	-	HYPH	pos2=:	5	punct	_	O
+7	Zac	zac	NNP	_	16	compound	_	O
+8	Efron	efron	NNP	_	16	compound	_	O
+9	-	-	HYPH	pos2=:	16	punct	_	O
+10	Ryan	ryan	NNP	_	16	compound	_	O
+11	Gosling	gosling	NNP	_	16	compound	_	O
+12	-	-	HYPH	_	16	punct	_	O
+13	Franco	franco	NNP	_	14	compound	_	O
+14	Brothers	brother	NNPS	pos2=NNP	16	compound	_	O
+15	-	-	HYPH	pos2=:	16	punct	_	O
+16	Hemsworth	hemsworth	NNP	_	17	compound	_	U-PERSON
+17	brothers	brother	NNS	_	5	pobj	_	O
+18	-	-	:	pos2=HYPH	21	punct	_	O
+19	Channing	channing	NNP	_	20	compound	_	B-PERSON
+20	Tatumfor	tatumfor	NNP	_	21	nsubj	_	L-PERSON
+21	making	make	VBG	_	1	acl	_	O
+22	these	these	DT	_	24	det	_	O
+23	beautiful	beautiful	JJ	_	24	nmod	_	O
+24	men	man	NNS	_	21	dobj	_	O
+

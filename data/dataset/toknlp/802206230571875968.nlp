@@ -1,0 +1,33 @@
+1	@n_heatnation	@n_heatnation	NN	pos2=ADD	2	compound	_	O
+2	@WalkingDead_AMC	@walkingdead_amc	NN	pos2=VBN	4	nsubj	_	O
+3	To	to	TO	_	4	aux	_	O
+4	be	be	VB	_	9	advcl	_	O
+5	honest	honest	JJ	_	4	acomp	_	O
+6	,	,	,	_	9	punct	_	O
+7	I	I	PRP	_	9	nsubj	_	O
+8	quite	quite	RB	_	9	advmod	_	O
+9	liked	like	VBD	_	0	root	_	O
+10	Abraham	abraham	NNP	_	9	dobj	_	U-PERSON
+11	.	.	.	_	9	punct	_	O
+
+1	A	a	DT	_	2	det	_	O
+2	bit	bit	NN	_	3	npadvmod	_	O
+3	"	"	``	pos2=''	8	pobj	_	O
+4	me	me	PRP	_	7	nsubj	_	O
+5	"	"	''	_	2	punct	_	O
+6	to	to	TO	_	7	aux	_	O
+7	begin	begin	VB	_	12	advcl	_	O
+8	with	with	IN	pos2=RB	7	prep	_	O
+9	but	but	CC	_	13	cc	_	O
+10	as	as	IN	_	12	mark	_	O
+11	it	it	PRP	_	12	nsubj	_	O
+12	got	get	VBD	_	15	advcl	_	O
+13	on	on	IN	pos2=RP	15	advmod	_	O
+14	he	he	PRP	_	15	nsubj	_	O
+15	grew	grow	VBD	_	0	root	_	O
+16	on	on	IN	_	15	prep	_	O
+17	me	me	PRP	_	16	pobj	_	O
+18	.	.	.	_	15	punct	_	O
+
+1	#TheWalkingDead	#thewalkingdead	ADD	pos2=XX	0	root	_	O
+

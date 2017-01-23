@@ -1,0 +1,9 @@
+1	@MajaEUspox	@majaeuspox	ADD	pos2=NN	6	punct	_	O
+2	@FedericaMog	@federicamog	ADD	pos2=XX	0	root	_	O
+3	@poroshenko	@poroshenko	IN	pos2=UH	8	advmod	_	O
+4	Federica	federica	NNP	_	3	pobj	_	U-PERSON
+5	with	with	IN	_	2	prep	_	O
+6	a	a	DT	_	8	det	_	O
+7	war	war	NN	_	8	compound	_	O
+8	criminal	criminal	JJ	pos2=NN	5	pobj	_	O
+

@@ -1,0 +1,12 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	7	ccomp	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=GW	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	https://t.co/CxkuPvI2tY	#hlink#	ADD	pos2=NNP	7	nsubj	_	O
+7	Remember	remember	VB	_	0	root	_	O
+8	the	the	DT	_	10	det	_	B-ORG
+9	Clinton	clinton	NNP	_	10	compound	_	I-ORG
+10	Foundation	foundation	NNP	_	7	dobj	_	L-ORG
+11	!	!	.	_	7	punct	_	O
+

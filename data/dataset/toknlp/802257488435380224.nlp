@@ -1,0 +1,16 @@
+1	Samsung	samsung	NNP	_	2	compound	_	B-ORG
+2	Galaxy	galaxy	NNP	_	3	compound	_	L-ORG
+3	Note	note	NN	pos2=VB	0	root	_	O
+4	8	0	CD	_	9	nmod	_	U-CARDINAL
+5	test	test	NN	_	6	compound	_	O
+6	version	version	NN	_	8	npadvmod	_	O
+7	-	-	HYPH	pos2=:	8	punct	_	O
+8	different	different	JJ	_	9	nmod	_	O
+9	S7	s0	NN	_	0	root	_	O
+10	or	or	CC	_	9	cc	_	O
+11	note	note	NN	pos2=VB	9	conj	_	O
+12	7	0	CD	pos2=GW	13	dep	_	U-CARDINAL
+13	https://t.co/uiCcFeRu7K	#hlink#	ADD	pos2=NNS	11	dobj	_	O
+14	via	via	IN	_	9	prep	_	O
+15	@YouTube	@youtube	NN	pos2=ADD	14	pobj	_	O
+

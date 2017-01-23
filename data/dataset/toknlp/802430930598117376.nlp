@@ -1,0 +1,27 @@
+1	UC	uc	NN	pos2=JJ	2	compound	_	O
+2	liberals	liberal	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	always	always	RB	_	3	advmod	_	O
+5	happy	happy	JJ	_	3	acomp	_	O
+6	to	to	TO	_	7	aux	_	O
+7	bash	bash	VB	pos2=NN	5	xcomp	_	O
+8	Muslims	muslim	NNPS	_	7	dobj	_	U-NORP
+9	and	and	CC	_	8	cc	_	O
+10	Dalits	dalits	NNPS	pos2=NNS	8	conj	_	U-NORP
+11	and	and	CC	_	3	cc	_	O
+12	will	will	MD	_	13	aux	_	O
+13	do	do	VB	_	3	conj	_	O
+14	in	in	IN	pos2=RB	13	prep	_	O
+15	every	every	DT	_	16	det	_	O
+16	opportunity	opportunity	NN	_	14	pobj	_	O
+17	.	.	.	_	3	punct	_	O
+
+1	Remember	remember	VB	pos2=VBP	0	root	_	O
+2	they	they	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	understand	understand	VB	_	1	ccomp	_	O
+6	social	social	JJ	_	7	nmod	_	O
+7	justice	justice	NN	_	5	dobj	_	O
+8	..	..	.	_	1	punct	_	O
+

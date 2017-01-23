@@ -1,0 +1,11 @@
+1	@utahjazz	@utahjazz	UH	pos2=XX	4	discourse	_	O
+2	@slcstars	@slcstars	UH	pos2=VBZ	4	discourse	_	O
+3	both	both	DT	pos2=CC	4	nsubj	_	O
+4	win	win	VBP	pos2=NN	0	root	_	O
+5	tonight	tonight	NN	_	4	npadvmod	_	U-TIME
+6	!	!	.	_	4	punct	_	O
+
+1	#GoJazz	#gojazz	ADD	pos2=XX	3	punct	_	O
+2	#WeAreUtahJazz	#weareutahjazz	ADD	pos2=XX	0	root	_	O
+3	#TakeNote	#takenote	ADD	pos2=UH	2	pobj	_	O
+

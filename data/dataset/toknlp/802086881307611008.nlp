@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det	_	B-FAC
+2	Western	western	NNP	pos2=JJ	3	compound	_	I-FAC
+3	Wall	wall	NNP	pos2=NN	0	root	_	L-FAC
+4	,	,	,	_	3	punct	_	O
+5	#Jerusalem	#jerusalem	NNP	pos2=XX	6	compound	_	B-GPE
+6	#Israel	#israel	NNP	_	3	appos	_	L-GPE
+7	.	.	.	_	3	punct	_	O
+
+1	#travel	#travel	UH	pos2=-LRB-	2	discourse	_	O
+2	https://t.co/mbXH6z4ffQ	#hlink#	ADD	pos2=NN	0	root	_	O
+

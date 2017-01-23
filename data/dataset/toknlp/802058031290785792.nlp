@@ -1,0 +1,14 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	big	big	JJ	_	5	nmod	_	O
+5	deal	deal	NN	_	2	attr	_	O
+6	and	and	CC	_	5	cc	_	O
+7	a	a	DT	_	9	det	_	O
+8	smart	smart	JJ	_	9	nmod	_	O
+9	move	move	NN	_	5	conj	_	O
+10	by	by	IN	_	9	prep	_	O
+11	Microsoft	microsoft	NNP	_	10	pobj	_	U-ORG
+12	:	:	:	_	2	punct	_	O
+13	https://t.co/TCy3THish1	#hlink#	ADD	pos2=NN	2	dep	_	O
+

@@ -1,0 +1,25 @@
+1	@elviadiaz1	@elviadiaz0	NN	pos2=LS	2	compound	_	O
+2	HRC	hrc	NNP	pos2=NN	3	nsubj	_	U-ORG
+3	lost	lose	VBD	pos2=VBN	17	ccomp	_	O
+4	the	the	DT	_	6	det	_	B-ORG
+5	Electoral	electoral	NNP	pos2=JJ	6	compound	_	I-ORG
+6	collegeShe	collegeshe	NNP	pos2=NN	3	dobj	_	L-ORG
+7	also	also	RB	_	8	advmod	_	O
+8	lost	lose	VBD	_	3	conj	_	O
+9	30/50	0	CD	_	12	nmod	_	U-CARDINAL
+10	state	state	NN	_	12	nmod	_	O
+11	popular	popular	JJ	_	12	nmod	_	O
+12	votesIOW	votesiow	NN	pos2=XX	8	dobj	_	O
+13	-	-	:	pos2=,	17	punct	_	O
+14	she	she	PRP	_	17	nsubj	_	O
+15	did	do	VBD	_	17	aux	_	O
+16	n't	not	RB	_	17	neg	_	O
+17	win	win	VB	_	0	root	_	O
+18	either	either	RB	pos2=DT	17	advmod	_	O
+19	.	.	.	_	17	punct	_	O
+
+1	EC	ec	NNP	pos2=NN	4	nmod	_	U-ORG
+2	or	or	CC	_	1	cc	_	O
+3	popular	popular	JJ	_	1	conj	_	O
+4	vote	vote	NN	_	0	root	_	O
+

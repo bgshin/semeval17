@@ -1,0 +1,9 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	hate	hate	VBP	_	0	root	_	O
+3	it	it	PRP	_	2	dobj	_	O
+4	when	when	WRB	_	6	advmod	_	O
+5	conservatives	conservative	NNS	_	6	nsubj	_	O
+6	recreate	recreate	VBP	_	2	advcl	_	O
+7	churches	church	NNS	_	6	dobj	_	O
+8	.	.	.	_	2	punct	_	O
+

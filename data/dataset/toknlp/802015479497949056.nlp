@@ -1,0 +1,10 @@
+1	FastWhipActionBowieSmilinKukriNotTopSpeed	fastwhipactionbowiesmilinkukrinottopspeed	VBD	pos2=MD	0	root	_	O
+2	#Israel	#israel	NNP	pos2=PRP	9	poss	_	U-ORG
+3	's	's	POS	pos2=AFX	2	case	_	O
+4	SamsonTheUltimateMAFighter	samsontheultimatemafighter	NNP	pos2=$	9	dep	_	B-DATE
+5	1000	0	CD	_	9	dep	_	L-DATE
+6	#HAMAS	#hamas	NNS	pos2=VBD	9	dep	_	O
+7	FightingHimFaceToFace	fightinghimfacetoface	NNP	pos2=GW	9	dep	_	U-GPE
+8	LOL	lol	UH	pos2=NNP	9	dep	_	O
+9	https://t.co/4HHkcrLtNQ	#hlink#	ADD	pos2=NN	1	dobj	_	O
+

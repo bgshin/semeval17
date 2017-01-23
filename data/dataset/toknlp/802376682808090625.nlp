@@ -1,0 +1,19 @@
+1	@RichardShoaf	@richardshoaf	NNP	pos2=XX	2	compound	_	B-ORG
+2	Melania	melania	NNP	_	5	nsubj	_	I-ORG
+3	&	&	CC	_	2	cc	_	I-ORG
+4	Barron	barron	NNP	_	2	conj	_	L-ORG
+5	remaining	remain	VBG	_	0	root	_	O
+6	in	in	IN	_	5	prep	_	O
+7	#TrumpTower	#trumptower	NN	pos2=NNP	6	pobj	_	O
+8	+	+	SYM	_	9	punct	_	O
+9	#Trump	#trump	NNP	pos2=NN	11	poss	_	O
+10	's	's	POS	_	9	case	_	O
+11	predilection	predilection	NN	_	18	dep	_	O
+12	for	for	IN	_	11	prep	_	O
+13	sleeping	sleep	VBG	_	12	pcomp	_	O
+14	there	there	RB	pos2=NN	13	advmod	_	O
+15	=	=	,	pos2=SYM	18	punct	_	O
+16	#TrumpProfits	#trumpprofits	NNS	pos2=GW	18	nmod	_	O
+17	…	…	NFP	pos2=-LRB-	18	punct	_	O
+18	https://t.co/fpjb8p4BVH	#hlink#	ADD	pos2=NN	5	dep	_	O
+

@@ -1,0 +1,20 @@
+1	YES	yes	UH	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	Watch	watch	VB	_	0	root	_	O
+2	a	a	DT	_	7	det	_	O
+3	Tesla	tesla	NNP	_	5	compound	_	O
+4	Model	model	NNP	_	5	compound	_	B-PRODUCT
+5	X	x	NNP	pos2=NN	7	compound	_	I-PRODUCT
+6	P90	p0	NN	pos2=NNP	7	compound	_	I-PRODUCT
+7	D	d	NN	pos2=NNP	16	dep	_	I-PRODUCT
+8	Drag	drag	NNP	pos2=NN	9	compound	_	L-PRODUCT
+9	Race	race	NNP	pos2=NN	16	dep	_	O
+10	a	a	DT	_	11	det	_	O
+11	Model	model	NNP	pos2=NN	14	poss	_	B-PRODUCT
+12	S	s	POS	pos2=NN	11	case	_	I-PRODUCT
+13	P90	p0	NN	pos2=NNP	14	compound	_	I-PRODUCT
+14	D	d	NN	pos2=CD	16	dep	_	I-PRODUCT
+15	:	:	:	_	16	punct	_	L-PRODUCT
+16	https://t.co/46DSk6PKj8	#hlink#	ADD	_	1	dobj	_	O
+

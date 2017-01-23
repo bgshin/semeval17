@@ -1,0 +1,16 @@
+1	@detroitnews	@detroitnews	UH	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Its	its	PRP$	_	3	poss	_	O
+2	not	not	RB	pos2=JJ	3	neg	_	O
+3	racist	racist	JJ	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	There	there	EX	_	2	expl	_	O
+2	are	be	VBP	_	0	root	_	O
+3	bad	bad	JJ	_	4	nmod	_	O
+4	Hombres	hombres	NNP	pos2=NNS	2	attr	_	O
+5	in	in	IN	_	4	prep	_	O
+6	Mexico	mexico	NNP	_	5	pobj	_	U-GPE
+7	.	.	.	_	2	punct	_	O
+

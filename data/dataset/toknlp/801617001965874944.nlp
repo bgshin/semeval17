@@ -1,0 +1,28 @@
+1	@cagle_erin	@cagle_erin	NNP	pos2=UH	7	dep	_	O
+2	@katiehindersman	@katiehindersman	IN	pos2=NNP	1	prep	_	O
+3	Katie	katie	NNP	_	2	pobj	_	O
+4	,	,	,	_	7	punct	_	O
+5	do	do	VB	pos2=VBP	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	worry	worry	VB	_	0	root	_	O
+8	about	about	IN	_	7	prep	_	O
+9	the	the	DT	_	14	det	_	O
+10	Duke	duke	NNP	_	13	nmod	_	O
+11	/	/	SYM	pos2=HYPH	13	punct	_	O
+12	Grayson	grayson	NNP	_	13	compound	_	B-PERSON
+13	Allen	allen	NNP	_	14	compound	_	L-PERSON
+14	talk	talk	NN	pos2=VB	8	pobj	_	O
+15	.	.	.	_	7	punct	_	O
+
+1	He	he	PRP	_	3	nsubj	_	O
+2	will	will	MD	_	3	aux	_	O
+3	trip	trip	VB	_	0	root	_	O
+4	people	people	NNS	_	3	dobj	_	O
+5	all	all	DT	_	6	det	_	B-DATE
+6	year	year	NN	_	3	npadvmod	_	L-DATE
+7	and	and	CC	_	3	cc	_	O
+8	be	be	VB	_	9	auxpass	_	O
+9	suspended	suspend	VBN	_	3	conj	_	O
+10	by	by	IN	_	9	agent	_	O
+11	Feb.	feb.	NNP	_	10	pobj	_	O
+

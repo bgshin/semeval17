@@ -1,0 +1,5 @@
+1	GBB	gbb	NNP	pos2=NN	4	compound	_	B-ORG
+2	UpdateTipp	updatetipp	NNP	_	4	compound	_	I-ORG
+3	18Fairmont	0fairmont	NNP	pos2=NN	4	compound	_	I-ORG
+4	21Half	0half	NNP	pos2=NN	0	root	_	L-ORG
+

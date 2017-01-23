@@ -1,0 +1,22 @@
+1	Deer	deer	NNP	pos2=NN	3	compound	_	B-FAC
+2	Lakes	lakes	NNP	pos2=NNPS	3	compound	_	I-FAC
+3	Park	park	NNP	_	5	nsubj	_	L-FAC
+4	is	be	VBZ	_	5	aux	_	O
+5	looking	look	VBG	_	0	root	_	O
+6	pretty	pretty	RB	_	7	advmod	_	O
+7	spiffy	spiffy	JJ	pos2=RB	5	acomp	_	O
+8	&	&	CC	_	5	cc	_	O
+9	Allegheny	allegheny	NNP	_	10	compound	_	B-GPE
+10	County	county	NNP	pos2=NN	11	compound	_	L-GPE
+11	officials	official	NNS	pos2=TO	12	nsubj	_	O
+12	attribute	attribute	VBP	pos2=VB	5	conj	_	O
+13	its	its	PRP$	_	16	poss	_	O
+14	$	$	$	_	16	qmod	_	B-MONEY
+15	2.2	0	CD	_	16	compound	_	I-MONEY
+16	million	#crd#	CD	_	12	dobj	_	L-MONEY
+17	in	in	IN	_	16	prep	_	O
+18	improvements	improvement	NNS	_	17	pobj	_	O
+19	to	to	IN	pos2=TO	18	prep	_	O
+20	#fracking	#fracking	VBG	pos2=VB	21	nmod	_	O
+21	revenue	revenue	NN	_	19	pobj	_	O
+

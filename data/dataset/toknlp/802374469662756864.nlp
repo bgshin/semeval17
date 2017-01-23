@@ -1,0 +1,22 @@
+1	you	you	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	out	out	IN	_	2	prep	_	O
+4	of	of	IN	_	3	prep	_	O
+5	your	your	PRP$	_	6	poss	_	O
+6	gourds	gourd	NNS	_	4	pobj	_	O
+7	if	if	IN	_	9	mark	_	O
+8	you	you	PRP	_	9	nsubj	_	O
+9	are	be	VBP	_	2	advcl	_	O
+10	a	a	DT	_	11	det	_	O
+11	jew	jew	NN	pos2=JJ	9	attr	_	O
+12	supporting	support	VBG	_	11	acl	_	O
+13	trump	trump	NN	_	12	dobj	_	O
+14	.	.	.	_	2	punct	_	O
+
+1	https	http	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	//	//	NFP	pos2=-LRB-	6	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	u1Y4Z4Bd4r	u0y0z0bd0r	NN	pos2=ADD	0	root	_	O
+

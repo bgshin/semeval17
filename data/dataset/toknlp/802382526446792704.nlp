@@ -1,0 +1,21 @@
+1	the	the	DT	_	2	det	_	O
+2	fbi	fbi	NNS	pos2=NN	5	nsubj	_	O
+3	and	and	CC	_	2	cc	_	O
+4	comey	comey	NNP	pos2=NN	5	nsubj	_	U-PERSON
+5	did	do	VBD	_	0	root	_	O
+6	nothing	nothing	NN	_	5	dobj	_	O
+7	yet	yet	RB	_	5	advmod	_	O
+8	they	they	PRP	_	9	nsubj	_	O
+9	faked	fake	VBD	_	5	conj	_	O
+10	evidence	evidence	NN	_	9	dobj	_	O
+11	against	against	IN	_	10	prep	_	O
+12	hillary	hillary	NNP	pos2=NN	11	pobj	_	O
+13	the	the	DT	_	14	det	_	O
+14	fbi	fbi	NNP	pos2=NN	12	appos	_	U-ORG
+15	is	be	VBZ	_	10	acl	_	O
+16	a	a	DT	_	20	det	_	O
+17	corrupt	corrupt	JJ	_	20	nmod	_	O
+18	and	and	CC	_	17	cc	_	O
+19	dirty	dirty	JJ	_	17	conj	_	O
+20	scum	scum	NN	pos2=NNS	15	attr	_	O
+

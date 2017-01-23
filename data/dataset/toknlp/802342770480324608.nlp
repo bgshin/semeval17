@@ -1,0 +1,22 @@
+1	Fox	fox	NNP	_	4	nsubj	_	B-ORG
+2	&	&	CC	_	1	cc	_	I-ORG
+3	Friends	friend	NNS	pos2=NNPS	1	conj	_	L-ORG
+4	11\25\16	0\0\0	VBP	pos2=CD	0	root	_	O
+5	:	:	:	_	4	punct	_	O
+6	An	an	DT	_	7	det	_	O
+7	Inquiry	inquiry	NNP	pos2=NN	4	dobj	_	O
+8	Already	already	RB	pos2=NNP	4	advmod	_	O
+9	?	?	.	_	4	punct	_	O
+
+1	Dems	dems	NNPS	pos2=NNP	3	compound	_	O
+2	Push	push	NNP	pos2=VB	3	compound	_	O
+3	Gao	gao	NNP	_	5	nsubj	_	O
+4	To	to	TO	pos2=NNP	5	aux	_	O
+5	Investigate	investigate	VB	pos2=NNP	0	root	_	O
+6	Trump	trump	NNP	pos2=NN	7	compound	_	U-ORG
+7	Transition	transition	NN	pos2=NNP	9	dep	_	O
+8	:	:	:	_	9	punct	_	O
+9	https://t.co/HOlaj2zueb	#hlink#	ADD	_	0	root	_	O
+10	via	via	IN	_	9	prep	_	O
+11	@YouTube	@youtube	NNP	pos2=NN	10	pobj	_	O
+

@@ -1,0 +1,31 @@
+1	Donald	donald	NNP	pos2=NN	3	vocative	_	U-PERSON
+2	:	:	:	_	3	punct	_	O
+3	Offer	offer	VB	pos2=NNP	0	root	_	O
+4	Hillary	hillary	NNP	_	3	dative	_	U-PERSON
+5	the	the	DT	_	7	det	_	O
+6	SOS	sos	NN	pos2=NNP	7	compound	_	O
+7	position	position	NN	_	3	dobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	get	get	VB	_	7	relcl	_	O
+10	Obama	obama	NNP	_	9	dobj	_	U-PERSON
+11	and	and	CC	_	10	cc	_	O
+12	her	her	PRP$	pos2=PRP	10	conj	_	O
+13	off	off	RP	pos2=IN	9	prt	_	O
+14	your	your	PRP$	_	15	poss	_	O
+15	back	back	RB	pos2=NN	16	advmod	_	O
+16	then	then	RB	_	17	advmod	_	O
+17	arrest	arrest	VB	pos2=VBD	3	dep	_	O
+18	her	her	PRP	_	17	dobj	_	O
+19	on	on	IN	_	17	prep	_	O
+20	January	january	NNP	_	19	pobj	_	B-DATE
+21	21	0	CD	_	20	nmod	_	I-DATE
+22	st	st	NN	pos2=NNS	17	npadvmod	_	L-DATE
+23	.	.	.	_	3	punct	_	O
+
+1	Two	#crd#	CD	_	2	nmod	_	U-CARDINAL
+2	Leftists	leftist	NNS	pos2=NNPS	0	root	_	U-NORP
+3	with	with	IN	_	2	prep	_	O
+4	one	#crd#	CD	_	5	nmod	_	U-CARDINAL
+5	stone	stone	NN	_	3	pobj	_	O
+6	.	.	.	_	2	punct	_	O
+

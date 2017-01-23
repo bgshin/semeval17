@@ -1,0 +1,20 @@
+1	North	north	NNP	pos2=NN	2	compound	_	B-GPE
+2	Korea	korea	NNP	_	3	nsubj	_	L-GPE
+3	Wants	want	VBZ	_	0	root	_	O
+4	China	china	NNP	_	6	nsubj	_	U-GPE
+5	to	to	TO	_	6	aux	_	O
+6	Remove	remove	VB	_	3	ccomp	_	O
+7	this	this	DT	_	11	det	_	O
+8	Video	video	NNP	pos2=NN	11	compound	_	O
+9	Kim	kim	NNP	_	11	compound	_	B-PERSON
+10	Jong	jong	NNP	_	11	compound	_	I-PERSON
+11	Un	un	NNP	_	6	dobj	_	L-PERSON
+12	,	,	,	_	11	punct	_	O
+13	Barack	barack	NNP	_	14	compound	_	B-PERSON
+14	obama	obama	NNP	pos2=NN	11	conj	_	L-PERSON
+15	,	,	,	_	14	punct	_	O
+16	Vladamir	vladamir	NNP	_	14	conj	_	B-PERSON
+17	…	…	NFP	pos2=GW	19	punct	_	L-PERSON
+18	https://t.co/RLZVUqSd2s	#hlink#	ADD	_	19	nmod	_	O
+19	https://t.co/KVrSjWv2Qt	#hlink#	ADD	_	3	dep	_	U-ORG
+

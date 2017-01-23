@@ -1,0 +1,13 @@
+1	Who	who	WP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	with	with	IN	_	2	prep	_	O
+4	me	me	PRP	_	3	pobj	_	O
+5	??	??	.	_	2	punct	_	O
+
+1	#couch	#couch	UH	pos2=XX	6	discourse	_	O
+2	#couchpotato	#couchpotato	UH	pos2=FW	6	discourse	_	O
+3	#mannequinchallenge	#mannequinchallenge	UH	pos2=VB	6	dep	_	O
+4	#iheartradio	#iheartradio	UH	pos2=FW	6	dep	_	O
+5	#chris957	#chris0	-LRB-	pos2=GW	6	punct	_	O
+6	https://t.co/rq7JuKs6Wr	#hlink#	ADD	_	0	root	_	O
+

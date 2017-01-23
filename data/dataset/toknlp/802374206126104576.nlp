@@ -1,0 +1,35 @@
+1	How	how	WRB	_	2	advmod	_	O
+2	many	many	JJ	_	3	nmod	_	O
+3	homeless	homeless	JJ	_	4	nmod	_	O
+4	could	could	MD	_	6	aux	_	O
+5	we	we	PRP	_	6	nsubj	_	O
+6	feed	feed	VB	_	0	root	_	O
+7	w	w	IN	_	9	nmod	_	O
+8	/	/	HYPH	pos2=,	9	punct	_	O
+9	funds	fund	NNS	_	10	compound	_	O
+10	req	req	NN	pos2=PRP	11	compound	_	O
+11	’d	would	MD	pos2=VBN	6	dobj	_	O
+12	to	to	TO	_	13	aux	_	O
+13	protect	protect	VB	_	6	advcl	_	O
+14	Melania	melania	NNP	_	15	compound	_	B-PERSON
+15	#Trump	#trump	NNP	pos2=XX	13	dobj	_	L-PERSON
+16	in	in	IN	_	13	prep	_	O
+17	NYC	nyc	NNP	_	16	pobj	_	U-GPE
+18	?	?	.	_	6	punct	_	O
+
+1	(	(	-LRB-	_	5	punct	_	O
+2	1	0	CD	_	5	nmod	_	B-MONEY
+3	mil	mil	NN	pos2=NNS	5	nmod	_	L-MONEY
+4	/	/	SYM	pos2=HYPH	5	punct	_	O
+5	day	day	NN	_	0	root	_	O
+6	for	for	IN	_	5	prep	_	O
+7	NYPD	nypd	NN	pos2=NNP	6	pobj	_	U-ORG
+8	)	)	-RRB-	_	5	punct	_	O
+9	@realDonaldTrump	@realdonaldtrump	NN	pos2=NNS	11	nsubj	_	O
+10	should	should	MD	_	11	aux	_	O
+11	chip	chip	VB	_	8	det	_	O
+12	in	in	IN	pos2=RB	11	prt	_	O
+13	,	,	,	_	11	punct	_	O
+14	no	no	UH	pos2=DT	11	discourse	_	O
+15	?	?	.	_	11	punct	_	O
+

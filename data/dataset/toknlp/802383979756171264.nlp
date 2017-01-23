@@ -1,0 +1,26 @@
+1	You	you	PRP	_	4	nsubj	_	O
+2	ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	tell	tell	VB	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	difference	difference	NN	_	4	dobj	_	O
+7	between	between	IN	_	6	prep	_	O
+8	a	a	DT	_	10	det	_	O
+9	BLM	blm	NNP	pos2=NN	10	compound	_	U-ORG
+10	protest	protest	NN	_	7	pobj	_	O
+11	and	and	CC	_	10	cc	_	O
+12	an	an	DT	_	14	det	_	O
+13	anti-Trump	anti-trump	JJ	_	14	nmod	_	U-NORP
+14	protest	protest	NN	_	10	conj	_	O
+15	anymore	anymore	RB	_	4	advmod	_	O
+16	.	.	.	_	4	punct	_	O
+
+1	Same	same	JJ	_	2	nmod	_	O
+2	chants	chant	NNS	_	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	same	same	JJ	_	5	nmod	_	O
+5	signs	sign	NNS	_	2	appos	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	https://t.co/4FtUPk2FVm	#hlink#	ADD	_	0	root	_	U-ORG
+

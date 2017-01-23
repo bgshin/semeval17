@@ -1,0 +1,14 @@
+1	Here	here	RB	_	2	nsubj	_	O
+2	’s	's	VBZ	_	0	root	_	O
+3	What	what	WP	_	7	dobj	_	O
+4	Samsung	samsung	NNP	_	5	nsubj	_	U-ORG
+5	Plans	plan	VBZ	pos2=NNPS	2	ccomp	_	O
+6	to	to	TO	_	7	aux	_	O
+7	Do	do	VB	_	5	xcomp	_	O
+8	Differently	differently	RB	_	7	advmod	_	O
+9	with	with	IN	_	7	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	Galaxy	galaxy	NNP	pos2=NN	12	compound	_	O
+12	S8	s0	NN	pos2=NNP	9	pobj	_	O
+13	https://t.co/fjfqt4tQj4	#hlink#	ADD	pos2=NN	12	appos	_	O
+

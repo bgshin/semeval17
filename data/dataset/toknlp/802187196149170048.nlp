@@ -1,0 +1,24 @@
+1	#FantasticBeasts	#fantasticbeasts	NNS	pos2=VBZ	3	nsubj	_	O
+2	now	now	RB	_	3	advmod	_	O
+3	flies	fly	VBZ	_	0	root	_	O
+4	high	high	RB	pos2=JJ	5	advmod	_	O
+5	above	above	IN	pos2=RB	3	prep	_	O
+6	#DoctorStrange	#doctorstrange	NN	pos2=XX	5	pobj	_	O
+7	after	after	IN	_	3	prep	_	O
+8	releasing	release	VBG	_	7	pcomp	_	O
+9	last	last	JJ	_	10	nmod	_	B-DATE
+10	week	week	NN	_	8	npadvmod	_	L-DATE
+11	to	to	TO	_	12	aux	_	O
+12	take	take	VB	_	8	advcl	_	O
+13	the	the	DT	_	16	det	_	O
+14	#	#	NN	_	16	nmod	_	O
+15	1	0	CD	pos2=LS	14	nmod	_	U-MONEY
+16	spot	spot	NN	_	12	dobj	_	O
+17	in	in	IN	_	16	prep	_	O
+18	this	this	DT	_	19	det	_	O
+19	week	week	NN	_	21	poss	_	U-DATE
+20	's	's	POS	_	19	case	_	O
+21	U	u	NNP	pos2=GW	17	pobj	_	B-PERSON
+22	…	…	NFP	pos2=-LRB-	23	punct	_	L-PERSON
+23	https://t.co/cmZxQf5sAX	#hlink#	ADD	_	3	dep	_	O
+

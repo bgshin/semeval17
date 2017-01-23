@@ -1,0 +1,20 @@
+1	@ezlusztig	@ezlusztig	UH	pos2=VBG	0	root	_	O
+2	Well	well	UH	_	1	discourse	_	O
+3	...	..	.	pos2=NFP	1	punct	_	O
+
+1	The	the	DT	_	3	det	_	B-ORG
+2	Electoral	electoral	NNP	_	3	compound	_	I-ORG
+3	College	college	NNP	_	6	nsubj	_	L-ORG
+4	has	have	VBZ	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	voted	vote	VBN	pos2=VBD	0	root	_	O
+7	yet	yet	RB	_	6	advmod	_	O
+8	.	.	.	_	6	punct	_	O
+
+1	(	(	-LRB-	_	2	punct	_	O
+2	starts	start	VBZ	pos2=NNS	0	root	_	O
+3	holding	hold	VBG	_	2	xcomp	_	O
+4	breath	breath	NN	_	3	dobj	_	O
+5	)	)	-RRB-	pos2=GW	2	punct	_	O
+6	https://t.co/6lDnLJ3CXD	#hlink#	ADD	pos2=NN	2	dep	_	O
+

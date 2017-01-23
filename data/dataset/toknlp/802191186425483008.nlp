@@ -1,0 +1,24 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@	@	SYM	_	3	punct	_	O
+2	4Correspondents	0correspondents	NNS	pos2=JJ	3	compound	_	O
+3	workshop	workshop	NN	pos2=VB	0	root	_	O
+4	on	on	IN	_	3	prep	_	O
+5	#constructivejournalism	#constructivejournalism	NN	pos2=ADD	4	pobj	_	O
+6	today	today	NN	_	3	npadvmod	_	U-DATE
+7	/	/	HYPH	pos2=SYM	6	punct	_	O
+8	w	w	IN	pos2=RB	3	prep	_	O
+9	@VeroMistiaen	@veromistiaen	NN	pos2=ADD	8	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	How	how	WRB	_	3	advmod	_	O
+2	to	to	TO	_	3	aux	_	O
+3	apply	apply	VB	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	concept	concept	NN	_	3	dobj	_	O
+6	to	to	IN	_	3	prep	_	O
+7	#Egypt	#egypt	NNP	pos2=VB	6	pobj	_	U-ORG
+8	,	,	,	_	3	punct	_	O
+9	…	…	NFP	pos2=-LRB-	3	discourse	_	O
+10	https://t.co/0kaZx2U16M	#hlink#	ADD	pos2=NN	3	dep	_	O
+

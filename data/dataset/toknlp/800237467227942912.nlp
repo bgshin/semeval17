@@ -1,0 +1,13 @@
+1	@lesliermyers	@lesliermyers	UH	pos2=NNS	3	discourse	_	O
+2	@zeitgeistbabe	@zeitgeistbabe	UH	pos2=VB	3	discourse	_	O
+3	@realDonaldTrump	@realdonaldtrump	VB	pos2=IN	0	root	_	O
+4	ALL	all	DT	pos2=PDT	6	det	_	O
+5	HAILKIM	hailkim	NN	pos2=NNP	6	compound	_	O
+6	FATTY	fatty	NN	pos2=JJ	3	dobj	_	O
+7	THE	the	DT	pos2=NN	9	det	_	O
+8	THIRDAndDUMPY	thirdanddumpy	NNP	pos2=NN	9	compound	_	O
+9	TRUMP	trump	NNP	pos2=NN	6	appos	_	B-ORG
+10	THE	the	DT	_	11	det	_	L-ORG
+11	SECOND	#ord#	JJ	pos2=NNP	12	nmod	_	O
+12	https://t.co/oUZewTslBc	#hlink#	ADD	pos2=NN	3	dep	_	O
+

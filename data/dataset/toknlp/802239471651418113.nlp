@@ -1,0 +1,9 @@
+1	Guess	guess	VB	pos2=VBP	0	root	_	O
+2	she	she	PRP	_	5	nsubj	_	O
+3	could	could	MD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	handle	handle	VB	_	1	ccomp	_	O
+6	my	my	PRP$	_	7	poss	_	O
+7	truthfulness	truthfulness	NN	_	5	dobj	_	O
+8	!	!	.	_	1	punct	_	O
+

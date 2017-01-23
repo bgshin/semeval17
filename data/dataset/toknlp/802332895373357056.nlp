@@ -1,0 +1,13 @@
+1	@SmittyDaDon3	@smittydadon0	NN	pos2=PRP	2	nsubj	_	O
+2	ai	be	VBP	pos2=VBZ	0	root	_	O
+3	n't	not	RB	_	2	neg	_	O
+4	that	that	DT	pos2=IN	2	nsubj	_	O
+5	how	how	WRB	_	7	advmod	_	O
+6	y'all	y'all	PRP	_	7	nsubj	_	O
+7	got	get	VBD	_	4	acl	_	O
+8	Tim	tim	NNP	_	9	compound	_	B-PERSON
+9	Duncan	duncan	NNP	_	7	dobj	_	L-PERSON
+10	?	?	.	_	2	punct	_	O
+
+1	🤔	🤔	SYM	pos2=NFP	0	root	_	U-ORG
+

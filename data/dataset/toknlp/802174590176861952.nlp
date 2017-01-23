@@ -1,0 +1,28 @@
+1	But	but	CC	_	4	cc	_	O
+2	seriously	seriously	RB	_	4	advmod	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	wish	wish	VBP	_	0	root	_	O
+5	I	I	PRP	_	7	nsubj	_	O
+6	had	have	VBD	_	7	aux	_	O
+7	had	have	VBN	_	4	ccomp	_	O
+8	friends	friend	NNS	_	7	dobj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	share	share	VB	_	7	xcomp	_	O
+11	my	my	PRP$	_	13	poss	_	O
+12	music	music	NN	_	13	compound	_	O
+13	taste	taste	NN	pos2=VB	10	dobj	_	O
+14	with	with	IN	pos2=RB	10	prep	_	O
+15	.	.	.	_	4	punct	_	O
+
+1	My	my	PRP$	_	2	poss	_	O
+2	mates	mate	NNS	_	5	nsubj	_	O
+3	back	back	RB	_	4	advmod	_	O
+4	then	then	RB	_	5	advmod	_	O
+5	used	use	VBN	pos2=VBD	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	listen	listen	VB	_	5	xcomp	_	O
+8	to	to	IN	_	7	prep	_	O
+9	Ricky	ricky	NNP	_	11	compound	_	B-PERSON
+10	Bloody	bloody	NNP	_	11	compound	_	I-PERSON
+11	Martin	martin	NNP	_	8	pobj	_	L-PERSON
+

@@ -1,0 +1,24 @@
+1	Breitbart	breitbart	NNP	pos2=NN	2	compound	_	U-PERSON
+2	fuckwit	fuckwit	NN	_	4	compound	_	O
+3	Steve	steve	NNP	_	4	compound	_	B-PERSON
+4	Bannon	bannon	NNP	_	5	nsubj	_	L-PERSON
+5	has	have	VBZ	_	0	root	_	O
+6	that	that	DT	pos2=IN	8	det	_	O
+7	manky	manky	NN	pos2=JJ	8	nsubj	_	O
+8	look	look	NN	pos2=VB	5	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	a	a	DT	_	11	det	_	O
+11	man	man	NN	_	9	pobj	_	O
+12	who	who	WP	_	13	nsubj	_	O
+13	spent	spend	VBD	_	11	relcl	_	O
+14	his	his	PRP$	_	16	poss	_	O
+15	formative	formative	JJ	_	16	nmod	_	O
+16	years	year	NNS	_	13	dobj	_	O
+17	masturbating	masturbate	VBG	_	13	xcomp	_	O
+18	inside	inside	IN	_	17	prep	_	O
+19	a	a	DT	_	22	det	_	O
+20	rancid	rancid	JJ	pos2=FW	22	nmod	_	O
+21	wheely	wheely	NN	pos2=JJ	22	compound	_	O
+22	bin	bin	NN	pos2=NNP	18	pobj	_	O
+23	.	.	.	_	5	punct	_	O
+

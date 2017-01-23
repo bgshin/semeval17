@@ -1,0 +1,16 @@
+1	Just	just	RB	_	2	advmod	_	O
+2	realised	realize	VBD	pos2=VBN	0	root	_	O
+3	I	I	PRP	_	5	nsubj	_	O
+4	've	have	VBP	pos2=VB	5	aux	_	O
+5	loved	love	VBN	_	2	ccomp	_	O
+6	zac	zac	NNP	pos2=IN	7	compound	_	B-PERSON
+7	Efron	efron	NNP	_	5	dobj	_	L-PERSON
+8	since	since	IN	_	10	mark	_	O
+9	I	I	PRP	_	10	nsubj	_	O
+10	was	be	VBD	_	5	advcl	_	O
+11	7	0	CD	_	10	attr	_	U-DATE
+12	and	and	CC	_	5	cc	_	O
+13	I	I	PRP	_	14	nsubj	_	O
+14	'm	be	VBP	_	5	conj	_	O
+15	16	0	CD	_	14	attr	_	U-DATE
+

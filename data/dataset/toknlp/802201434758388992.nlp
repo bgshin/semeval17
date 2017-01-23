@@ -1,0 +1,13 @@
+1	@HosamDakhakhni	@hosamdakhakhni	NNS	pos2=ADD	12	nsubj	_	O
+2	#ISIS	#isis	VBZ	pos2=MD	7	auxpass	_	O
+3	NOT	not	RB	_	4	neg	_	O
+4	#AlQaeda	#alqaeda	VBN	pos2=PRP$	6	nmod	_	O
+5	command	command	NN	pos2=JJ	6	compound	_	O
+6	center	center	NN	_	7	nsubj	_	O
+7	discovered	discover	VBN	pos2=VBD	1	acl	_	O
+8	in	in	IN	_	7	prep	_	O
+9	#AlQuwarshe	#alquwarshe	NNP	pos2=NN	11	compound	_	B-PERSON
+10	#Benghazi	#benghazi	NNP	pos2=GW	11	compound	_	I-PERSON
+11	#Libya	#libya	NNP	pos2=ADD	8	pobj	_	L-PERSON
+12	https://t.co/NrfLQLuI2E	#hlink#	ADD	_	0	root	_	O
+

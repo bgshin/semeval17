@@ -1,0 +1,21 @@
+1	An	an	DT	_	2	det	_	O
+2	end	end	NN	_	11	nsubj	_	O
+3	to	to	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	embargo	embargo	NN	_	3	pobj	_	O
+6	20	0	CD	_	7	nmod	_	B-DATE
+7	years	year	NNS	_	8	npadvmod	_	I-DATE
+8	ago	ago	RB	_	11	advmod	_	L-DATE
+9	may	may	MD	_	11	aux	_	O
+10	have	have	VB	_	11	aux	_	O
+11	fixed	fix	VBN	_	0	root	_	O
+12	that	that	DT	_	11	dobj	_	O
+13	.	.	.	_	11	punct	_	O
+
+1	Sheesh	sheesh	UH	pos2=NNP	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	#Cuba	#cuba	NNP	pos2=GW	3	nmod	_	B-PERSON
+2	#Fidel	#fidel	GW	pos2=ADD	3	nmod	_	L-PERSON
+3	https://t.co/AoK7IE7ch6	#hlink#	ADD	_	0	root	_	O
+

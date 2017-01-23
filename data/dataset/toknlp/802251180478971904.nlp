@@ -1,0 +1,20 @@
+1	Poroshenko	poroshenko	NNP	pos2=FW	2	nsubj	_	U-ORG
+2	signed	sign	VBD	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	law	law	NN	_	2	dobj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	strengthen	strengthen	VB	_	2	advcl	_	O
+7	the	the	DT	_	8	det	_	O
+8	protection	protection	NN	_	6	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	information	information	NN	_	11	compound	_	O
+11	space	space	NN	_	9	pobj	_	O
+12	"	"	''	pos2=``	13	punct	_	O
+13	acts	act	NNS	pos2=VBZ	19	dep	_	O
+14	of	of	IN	_	13	prep	_	O
+15	aggression	aggression	NN	_	14	pobj	_	O
+16	or	or	CC	_	15	cc	_	O
+17	propaganda	propaganda	NN	_	15	conj	_	O
+18	"	"	''	pos2=``	19	punct	_	O
+19	https://t.co/3Wd4dNl1ca	#hlink#	ADD	pos2=NN	0	root	_	O
+

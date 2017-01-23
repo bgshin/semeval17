@@ -1,0 +1,12 @@
+1	#Syria	#syria	NN	pos2=NNS	9	dep	_	O
+2	:	:	:	_	9	punct	_	O
+3	#Hezbollah	#hezbollah	NNP	pos2=NN	9	nsubj	_	U-ORG
+4	and	and	CC	_	3	cc	_	O
+5	#Russia	#russia	NNP	_	3	conj	_	U-PERSON
+6	‘	'	``	pos2=''	7	punct	_	O
+7	officially	officially	RB	_	9	advmod	_	O
+8	’	'	''	pos2=``	11	punct	_	O
+9	working	work	VBG	_	0	root	_	O
+10	together	together	RB	pos2=RP	9	advmod	_	O
+11	https://t.co/ByhEiUjHqS	#hlink#	ADD	_	9	dep	_	U-ORG
+

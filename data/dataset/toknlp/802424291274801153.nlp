@@ -1,0 +1,22 @@
+1	technology	technology	NN	_	3	nsubj	_	O
+2	is	be	VBZ	_	3	aux	_	O
+3	developing	develop	VBG	_	10	ccomp	_	O
+4	on	on	IN	pos2=RP	3	prep	_	O
+5	an	an	DT	_	7	det	_	O
+6	exponential	exponential	JJ	_	7	nmod	_	O
+7	curve	curve	NN	_	4	pobj	_	O
+8	,	,	,	_	10	punct	_	O
+9	we	we	PRP	_	10	nsubj	_	O
+10	are	be	VBP	_	0	root	_	O
+11	fast	fast	JJ	pos2=RB	10	acomp	_	O
+12	approaching	approach	VBG	_	10	advcl	_	O
+13	a	a	DT	_	14	det	_	O
+14	moment	moment	NN	_	12	dobj	_	O
+15	where	where	WRB	_	19	advmod	_	O
+16	our	our	PRP$	_	17	poss	_	O
+17	tech	tech	NN	_	19	nsubj	_	O
+18	will	will	MD	_	19	aux	_	O
+19	outsmart	outsmart	VB	_	14	relcl	_	O
+20	us	us	PRP	_	19	dobj	_	O
+21	https://t.co/axRHq02m2j	#hlink#	ADD	_	19	dobj	_	U-ORG
+

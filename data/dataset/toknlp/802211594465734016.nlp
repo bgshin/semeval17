@@ -1,0 +1,26 @@
+1	@JohnnySpectator	@johnnyspectator	NN	pos2=ADD	6	vocative	_	O
+2	@DavidCornDC	@davidcorndc	ADD	pos2=XX	6	poss	_	O
+3	@alexburnsNYT	@alexburnsnyt	MD	pos2=VBD	6	nmod	_	O
+4	well	well	RB	pos2=UH	5	advmod	_	O
+5	popular	popular	JJ	pos2=VB	6	nmod	_	O
+6	vote	vote	NN	_	9	nsubj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	Trumpster	trumpster	NNP	pos2=NN	7	pobj	_	U-GPE
+9	is	be	VBZ	_	0	root	_	O
+10	approx	approx	RB	pos2=JJ	9	advmod	_	O
+11	.	.	.	_	9	punct	_	O
+
+1	61	0	CD	_	2	compound	_	B-CARDINAL
+2	million	#crd#	CD	_	0	root	_	L-CARDINAL
+3	.	.	.	_	2	punct	_	O
+
+1	Hillary	hillary	NNP	pos2=RB	5	nsubj	_	U-PERSON
+2	well	well	RB	_	5	advmod	_	O
+3	over	over	IN	_	5	qmod	_	O
+4	63	0	CD	_	5	compound	_	B-CARDINAL
+5	million	#crd#	CD	_	0	root	_	L-CARDINAL
+6	.	.	.	_	5	punct	_	O
+
+1	Hope	hope	VB	pos2=NN	0	root	_	O
+2	!!	!!	.	_	1	punct	_	O
+

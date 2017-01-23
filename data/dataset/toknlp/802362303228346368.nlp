@@ -1,0 +1,24 @@
+1	@	@	SYM	_	5	punct	_	O
+2	888DidntReadShi	0didntreadshi	NN	pos2=ADD	3	compound	_	O
+3	Nothing	nothing	NN	pos2=NNP	5	nsubj	_	O
+4	is	be	VBZ	_	5	aux	_	O
+5	going	go	VBG	_	0	root	_	O
+6	to	to	TO	_	8	aux	_	O
+7	get	get	VB	_	8	auxpass	_	O
+8	overturned	overturn	VBN	_	5	xcomp	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	While	while	IN	_	10	mark	_	O
+2	they	they	PRP	_	10	nsubj	_	O
+3	re	re	IN	pos2=VBP	0	root	_	O
+4	living	live	VBG	_	3	pcomp	_	O
+5	in	in	IN	_	4	prep	_	O
+6	lalaland	lalaland	NN	pos2=NNP	5	pobj	_	O
+7	,	,	,	_	10	punct	_	O
+8	Trump	trump	NNP	pos2=NN	10	nsubj	_	U-ORG
+9	is	be	VBZ	_	10	aux	_	O
+10	breaking	break	VBG	pos2=JJ	6	advcl	_	O
+11	transition	transition	NN	_	12	compound	_	O
+12	records	record	NNS	_	10	dobj	_	O
+13	.	.	.	_	8	advmod	_	O
+

@@ -1,0 +1,25 @@
+1	@eieioink	@eieioink	UH	pos2=XX	6	discourse	_	O
+2	@megynkelly	@megynkelly	UH	pos2=RB	6	discourse	_	O
+3	when	when	WRB	_	6	advmod	_	O
+4	did	do	VBD	_	6	aux	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	do	do	VB	_	0	root	_	O
+7	that	that	DT	_	6	dobj	_	O
+8	?	?	.	_	6	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	minute	minute	NN	_	7	nmod	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	tweeted	tweet	VBD	_	2	relcl	_	O
+5	that	that	IN	pos2=DT	13	mark	_	O
+6	,	,	,	_	13	punct	_	O
+7	everyone	everyone	NN	_	8	nsubj	_	O
+8	replying	reply	VBG	_	0	root	_	O
+9	to	to	IN	_	8	prep	_	O
+10	my	my	PRP$	_	11	poss	_	O
+11	tweet	tweet	NN	_	9	pobj	_	O
+12	was	be	VBD	_	13	aux	_	O
+13	being	be	VBG	_	4	ccomp	_	O
+14	hateful	hateful	JJ	_	13	acomp	_	O
+15	.	.	.	_	14	advmod	_	O
+

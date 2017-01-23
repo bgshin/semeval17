@@ -1,0 +1,26 @@
+1	Trump	trump	NNP	pos2=NN	2	compound	_	B-ORG
+2	Supporters	supporter	NNPS	pos2=NNS	4	poss	_	I-ORG
+3	’	'	POS	_	2	case	_	L-ORG
+4	favorite	favorite	JJ	pos2=NN	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	Ben	ben	NNP	_	2	compound	_	B-PERSON
+2	Carson	carson	NNP	_	4	nsubj	_	L-PERSON
+3	Formally	formally	RB	pos2=NNP	4	advmod	_	O
+4	Offered	offer	VBD	pos2=VBN	0	root	_	O
+5	Cabinet	cabinet	NNP	_	6	compound	_	U-ORG
+6	Position	position	NN	pos2=NNP	4	dobj	_	O
+7	By	by	IN	_	6	prep	_	O
+8	President	president	NNP	_	10	compound	_	O
+9	-	-	HYPH	pos2=,	10	punct	_	O
+10	Elect	elect	NNP	_	7	pobj	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	Die	die	VB	_	0	root	_	B-WORK_OF_ART
+2	Hard	hard	NNP	pos2=JJ	3	compound	_	I-WORK_OF_ART
+3	Trump	trump	NNP	pos2=NN	1	vocative	_	L-WORK_OF_ART
+4	...	..	.	pos2=,	1	punct	_	O
+
+1	s.	s.	FW	pos2=CC	2	nmod	_	O
+2	https://t.co/rB5LBqMrDj	#hlink#	ADD	pos2=FW	0	root	_	O
+

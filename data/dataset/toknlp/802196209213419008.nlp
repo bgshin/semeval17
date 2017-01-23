@@ -1,0 +1,29 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@JoyAnnReid	@joyannreid	ADD	pos2=NN	0	root	_	O
+2	@JuddLegum	@juddlegum	UH	pos2=ADD	4	discourse	_	O
+3	what	what	WP	_	4	nsubj	_	O
+4	is	be	VBZ	_	1	ccomp	_	O
+5	nuanced	nuanced	JJ	_	4	acomp	_	O
+6	about	about	IN	pos2=RB	5	prep	_	O
+7	white	white	JJ	_	8	nmod	_	O
+8	supremacy	supremacy	NN	_	6	pobj	_	O
+9	?	?	.	_	1	punct	_	O
+
+1	zero	#crd#	CD	pos2=LS	0	root	_	U-CARDINAL
+2	.	.	.	_	1	punct	_	O
+
+1	white	white	JJ	_	2	nmod	_	O
+2	supremacists	supremacist	NNS	_	3	nsubj	_	O
+3	trying	try	VBG	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	head	head	VB	_	3	xcomp	_	O
+6	fake	fake	JJ	_	7	nmod	_	O
+7	non-bigots	non-bigots	NNS	pos2=JJ	5	dobj	_	O
+8	with	with	IN	_	5	prep	_	O
+9	false	false	JJ	_	10	nmod	_	O
+10	angst	angst	NN	_	8	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	🙄	🙄	SYM	pos2=NFP	0	root	_	U-ORG
+

@@ -1,0 +1,18 @@
+1	@TeslaMotors	@teslamotors	NNS	pos2=ADD	4	vocative	_	O
+2	@elonmusk	@elonmusk	UH	pos2=IN	4	discourse	_	O
+3	Why	why	WRB	_	4	advmod	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	the	the	DT	_	9	det	_	O
+6	US	us	NNP	_	9	compound	_	U-GPE
+7	spec	spec	NN	pos2=VB	9	compound	_	O
+8	tesla	tesla	NN	pos2=NNP	9	compound	_	O
+9	model	model	NN	_	12	poss	_	O
+10	s	s	POS	pos2=NN	9	case	_	O
+11	P100	p0	NN	pos2=NNP	12	compound	_	O
+12	D	d	NN	pos2=NNP	4	nsubj	_	O
+13	Faster	fast	RBR	pos2=JJR	4	advmod	_	O
+14	than	than	IN	_	13	prep	_	O
+15	the	the	DT	_	17	det	_	O
+16	EU	eu	NNP	_	17	compound	_	U-ORG
+17	spec	spec	NN	pos2=NNP	14	pobj	_	O
+

@@ -1,0 +1,20 @@
+1	@pedershk	@pedershk	UH	pos2=XX	3	discourse	_	O
+2	@funder	@funder	UH	pos2=IN	3	discourse	_	O
+3	@BernieSanders	@berniesanders	VBZ	pos2=POS	0	root	_	O
+4	Bernie	bernie	NNP	_	5	nsubj	_	U-PERSON
+5	wants	want	VBZ	_	3	ccomp	_	O
+6	to	to	TO	_	7	aux	_	O
+7	wait	wait	VB	_	5	xcomp	_	O
+8	to	to	TO	_	9	aux	_	O
+9	impeach	impeach	VB	_	7	xcomp	_	O
+10	trump	trump	NN	_	9	dobj	_	O
+11	like	like	IN	pos2=UH	10	prep	_	O
+12	Michael	michael	NNP	_	13	compound	_	B-PERSON
+13	Moore	moore	NNP	_	11	pobj	_	L-PERSON
+14	so	so	RB	pos2=IN	16	advmod	_	O
+15	we	we	PRP	_	16	nsubj	_	O
+16	get	get	VBP	_	12	det	_	O
+17	PENCE	penny	NNP	pos2=NNS	18	nsubj	_	O
+18	fuck	fuck	VBP	pos2=NN	16	ccomp	_	O
+19	that	that	DT	pos2=WDT	18	dobj	_	O
+

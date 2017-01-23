@@ -1,0 +1,14 @@
+1	@Angel2204518215	@angel0	NN	pos2=UH	3	discourse	_	O
+2	i	I	PRP	pos2=TO	3	nsubj	_	O
+3	love	love	VBP	_	0	root	_	O
+4	you	you	PRP	_	3	dobj	_	O
+5	more	more	RBR	pos2=JJR	3	advmod	_	O
+6	than	than	IN	_	5	prep	_	O
+7	Ricky	ricky	NNP	_	8	compound	_	B-PERSON
+8	Martin	martin	NNP	_	6	pobj	_	L-PERSON
+9	<	<	SYM	pos2=NNP	10	punct	_	O
+10	3	0	CD	_	13	nmod	_	U-CARDINAL
+11	just	just	RB	_	12	advmod	_	O
+12	sayin	sayin	IN	pos2=FW	3	prep	_	O
+13	'	'	''	pos2=.	3	punct	_	O
+

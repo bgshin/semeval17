@@ -1,0 +1,20 @@
+1	@parentwin	@parentwin	UH	pos2=XX	5	discourse	_	O
+2	Darlena	darlena	NNP	pos2=NNPS	1	vocative	_	U-PERSON
+3	;	;	:	pos2=,	5	punct	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	loved	love	VBD	_	0	root	_	O
+6	your	your	PRP$	_	7	poss	_	O
+7	piece	piece	NN	_	5	dobj	_	O
+8	'	'	''	pos2=``	9	punct	_	O
+9	deplorables	deplorables	NNS	pos2=VBZ	5	dobj	_	O
+10	'	'	''	_	5	punct	_	O
+11	.	.	.	_	5	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	made	make	VBD	_	0	root	_	O
+3	me	me	PRP	_	4	nsubj	_	O
+4	feel	feel	VB	_	2	ccomp	_	O
+5	great	great	JJ	_	4	acomp	_	O
+6	about	about	IN	pos2=RB	5	prep	_	O
+7	Trump.☺	trump.☺	NNP	pos2=.	6	pobj	_	O
+

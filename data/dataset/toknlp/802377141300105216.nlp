@@ -1,0 +1,25 @@
+1	Liberals	liberal	NNS	pos2=NNPS	2	nsubj	_	O
+2	hate	hate	VBP	_	0	root	_	O
+3	sexism	sexism	NN	_	2	dobj	_	O
+4	,	,	,	_	2	punct	_	O
+5	make	make	VB	_	2	conj	_	O
+6	fun	fun	NN	_	5	dobj	_	O
+7	of	of	IN	_	5	prep	_	O
+8	Melania	melania	NNP	_	9	compound	_	B-PERSON
+9	Trump	trump	NNP	_	7	pobj	_	L-PERSON
+10	,	,	,	_	9	punct	_	O
+11	who	who	WP	_	12	nsubj	_	O
+12	is	be	VBZ	_	9	relcl	_	O
+13	a	a	DT	_	14	det	_	O
+14	woman	woman	NN	_	12	attr	_	O
+15	.	.	.	_	2	punct	_	O
+
+1	Can	can	MD	_	3	aux	_	O
+2	someone	someone	NN	_	3	nsubj	_	O
+3	tell	tell	VB	_	0	root	_	O
+4	me	me	PRP	_	3	dobj	_	O
+5	how	how	WRB	pos2=IN	7	advmod	_	O
+6	that	that	DT	pos2=WDT	7	nsubj	_	O
+7	works	work	VBZ	_	3	ccomp	_	O
+8	?	?	.	_	3	punct	_	O
+

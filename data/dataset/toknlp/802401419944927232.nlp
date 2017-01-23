@@ -1,0 +1,27 @@
+1	@DarrylDaugherty	@darryldaugherty	UH	pos2=NN	4	discourse	_	O
+2	@RosLehtinen	@roslehtinen	VBN	pos2=UH	4	discourse	_	O
+3	we	we	PRP	_	4	nsubj	_	O
+4	have	have	VBP	_	0	root	_	O
+5	socialism	socialism	NN	_	4	dobj	_	O
+6	here	here	RB	_	4	advmod	_	O
+7	in	in	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	US	us	NNP	_	7	pobj	_	U-GPE
+10	with	with	IN	_	4	prep	_	O
+11	great	great	JJ	_	12	nmod	_	O
+12	success	success	NN	_	10	pobj	_	O
+13	.	.	.	_	4	punct	_	O
+
+1	Social	social	JJ	pos2=NNP	2	nmod	_	O
+2	security	security	NN	pos2=NNP	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	Medicare	medicare	NNP	pos2=NN	2	appos	_	U-ORG
+5	,	,	,	_	4	punct	_	O
+6	education	education	NN	_	4	conj	_	O
+7	,	,	,	_	6	punct	_	O
+8	post	post	NN	pos2=IN	9	compound	_	O
+9	office	office	NN	_	6	conj	_	O
+10	,	,	,	_	9	punct	_	O
+11	ect	ect	NN	pos2=UH	9	conj	_	O
+12	...	..	.	pos2=,	2	punct	_	O
+

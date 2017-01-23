@@ -1,0 +1,29 @@
+1	LIVEWe	livewe	PRP	pos2=EX	2	nsubj	_	O
+2	're	be	VBP	_	0	root	_	O
+3	live	live	JJ	pos2=VB	2	acomp	_	O
+4	in	in	IN	_	3	prep	_	O
+5	Cuba	cuba	NNP	_	4	pobj	_	U-GPE
+6	,	,	,	_	5	punct	_	O
+7	where	where	WRB	_	12	advmod	_	O
+8	Fidel	fidel	NNP	_	9	compound	_	B-PERSON
+9	Castro	castro	NNP	_	12	nsubjpass	_	L-PERSON
+10	will	will	MD	_	12	aux	_	O
+11	be	be	VB	_	12	auxpass	_	O
+12	laid	lay	VBN	_	5	relcl	_	O
+13	to	to	TO	pos2=IN	14	aux	_	O
+14	rest	rest	VB	pos2=NN	12	xcomp	_	O
+15	today	today	NN	_	14	npadvmod	_	U-DATE
+16	.	.	.	_	2	punct	_	O
+
+1	Castro	castro	NNP	_	3	poss	_	U-PERSON
+2	's	's	POS	_	1	case	_	O
+3	ashes	ash	NNS	_	6	nsubjpass	_	O
+4	will	will	MD	_	6	aux	_	O
+5	be	be	VB	_	6	auxpass	_	O
+6	interred	inter	VBN	_	0	root	_	O
+7	at	at	IN	_	6	prep	_	O
+8	the	the	DT	_	7	pobj	_	O
+9	...	..	.	_	6	punct	_	O
+
+1	https://t.co/FKPog7PsRQ	#hlink#	ADD	_	0	root	_	U-ORG
+

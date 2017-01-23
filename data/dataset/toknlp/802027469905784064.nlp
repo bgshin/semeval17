@@ -1,0 +1,19 @@
+1	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNS	3	compound	_	O
+2	#RIPEdwardHerrmann	#ripedwardherrmann	ADD	pos2=NNP	3	compound	_	O
+3	😞4	😞0	NN	pos2=LS	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Mr.	mr.	NNP	_	3	compound	_	O
+2	Richard	richard	NNP	_	3	compound	_	B-PERSON
+3	Gilmore	gilmore	NNP	_	0	root	_	L-PERSON
+4	3.	0.	.	pos2=CD	5	punct	_	U-CARDINAL
+5	Kurk2	kurk0	NN	pos2=NNP	3	appos	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	Sookie	sookie	NNP	_	6	compound	_	O
+2	St	st	NNP	_	6	compound	_	O
+3	James	james	NNP	_	6	compound	_	O
+4	1.	0.	NNP	pos2=CD	6	compound	_	B-PERSON
+5	Lane	lane	NNP	pos2=VB	6	compound	_	L-PERSON
+6	Kim@FallonTonight	kim@fallontonight	NNP	pos2=ADD	0	root	_	O
+

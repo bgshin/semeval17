@@ -1,0 +1,25 @@
+1	Rollie	rollie	NNP	_	2	compound	_	B-PERSON
+2	Mae	mae	NNP	_	0	root	_	L-PERSON
+3	at	at	IN	_	2	prep	_	O
+4	Thanksgiving😂	thanksgiving😂	NNP	pos2=NNPS	3	pobj	_	U-ORG
+5	..	..	.	pos2=,	2	punct	_	O
+
+1	or	or	CC	_	4	cc	_	O
+2	should	should	MD	_	4	aux	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	say	say	VB	_	0	root	_	O
+5	at	at	IN	_	4	prep	_	O
+6	everyday	everyday	JJ	pos2=NN	7	nmod	_	O
+7	life	life	NN	_	5	pobj	_	O
+8	..	..	.	pos2=,	4	punct	_	O
+
+1	and	and	CC	_	5	cc	_	O
+2	no	no	DT	_	3	det	_	O
+3	wonder	wonder	NN	_	5	npadvmod	_	O
+4	she	she	PRP	_	5	nsubj	_	O
+5	loves	love	VBZ	_	0	root	_	O
+6	U	u	GW	pos2=PRP	9	nmod	_	O
+7	…	…	GW	pos2=NFP	9	nmod	_	O
+8	https://t.co/ySyPIm6FC6	#hlink#	ADD	pos2=GW	9	nmod	_	O
+9	https://t.co/O59KN8o28f	#hlink#	ADD	_	5	dobj	_	U-ORG
+

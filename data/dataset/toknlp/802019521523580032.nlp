@@ -1,0 +1,26 @@
+1	Weekly	weekly	NNP	_	2	compound	_	O
+2	News	news	NNP	pos2=NN	0	root	_	O
+3	From	from	IN	pos2=NNP	2	prep	_	O
+4	Beyond	beyond	NNP	pos2=IN	5	compound	_	O
+5	Infinity	infinity	NNP	pos2=NN	3	pobj	_	O
+6	22/11/16	0	CD	pos2=NNP	5	npadvmod	_	O
+7	Our	our	PRP$	_	12	poss	_	O
+8	weekly	weekly	JJ	_	12	nmod	_	U-DATE
+9	news	news	NN	_	12	compound	_	O
+10	round	round	NN	pos2=RB	12	compound	_	O
+11	-	-	HYPH	_	12	punct	_	O
+12	up	up	NN	pos2=RP	17	dep	_	O
+13	:	:	:	_	17	punct	_	O
+14	Google	google	NNP	_	16	compound	_	B-ORG
+15	Earth	earth	NNP	_	16	compound	_	I-ORG
+16	VR	vr	NNP	pos2=NN	17	nsubjpass	_	L-ORG
+17	launched	launch	VBN	pos2=VBD	2	acl	_	O
+18	via	via	IN	_	17	prep	_	O
+19	free	free	JJ	_	20	nmod	_	O
+20	app	app	NN	_	18	pobj	_	O
+21	;	;	,	pos2=:	22	punct	_	O
+22	ATO	ato	NN	pos2=NNP	17	npadvmod	_	U-ORG
+23	...	..	.	pos2=,	17	punct	_	O
+
+1	https://t.co/1Ef7kmRQS9	#hlink#	ADD	_	0	root	_	U-ORG
+

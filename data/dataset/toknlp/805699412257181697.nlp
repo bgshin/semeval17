@@ -1,0 +1,19 @@
+1	can	can	MD	_	4	aux	_	O
+2	we	we	PRP	_	4	nsubj	_	O
+3	like	like	UH	pos2=VB	4	discourse	_	O
+4	get	get	VB	_	0	root	_	O
+5	zac	zac	JJ	pos2=NNP	6	nmod	_	B-PERSON
+6	efron	efron	NNP	pos2=NN	4	dobj	_	L-PERSON
+7	or	or	CC	_	6	cc	_	O
+8	justin	justin	NNP	pos2=NN	9	compound	_	B-PERSON
+9	bieber	bieber	NNP	pos2=NN	6	conj	_	L-PERSON
+10	for	for	IN	_	4	prep	_	O
+11	next	next	JJ	_	12	nmod	_	B-DATE
+12	year	year	NN	_	14	poss	_	I-DATE
+13	's	's	POS	pos2=AFX	12	case	_	L-DATE
+14	mmbc	mmbc	NN	pos2=NNS	10	pobj	_	O
+15	or	or	CC	_	14	cc	_	O
+16	something	something	NN	_	14	conj	_	O
+17	bc	bc	JJ	pos2=XX	16	nmod	_	O
+18	lol	lol	UH	pos2=NN	4	discourse	_	O
+

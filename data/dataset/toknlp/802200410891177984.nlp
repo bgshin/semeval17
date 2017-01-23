@@ -1,0 +1,22 @@
+1	Interestingly	interestingly	RB	_	7	advmod	_	O
+2	the	the	DT	_	5	det	_	O
+3	"	"	``	_	5	punct	_	O
+4	hard	hard	JJ	_	5	nmod	_	O
+5	rightists	rightist	NNS	_	7	nsubj	_	O
+6	"	"	''	_	5	punct	_	O
+7	pretending	pretend	VBG	_	21	advcl	_	O
+8	to	to	TO	_	9	aux	_	O
+9	be	be	VB	_	7	xcomp	_	O
+10	against	against	IN	_	9	prep	_	O
+11	sexual	sexual	JJ	_	12	nmod	_	O
+12	degeneracy	degeneracy	NN	_	10	pobj	_	O
+13	accept	accept	VBP	pos2=NN	8	pcomp	_	O
+14	homosexuals	homosexual	NNS	_	13	dobj	_	O
+15	(	(	-LRB-	_	14	punct	_	O
+16	and	and	CC	_	14	cc	_	O
+17	likely	likely	RB	pos2=JJ	18	advmod	_	O
+18	pedos	pedos	NNS	_	14	conj	_	O
+19	)	)	-RRB-	_	13	punct	_	O
+20	…	…	NFP	pos2=:	21	punct	_	O
+21	https://t.co/icd2UXJ6x2	#hlink#	ADD	pos2=NN	0	root	_	O
+

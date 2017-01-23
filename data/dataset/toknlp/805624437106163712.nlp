@@ -1,0 +1,7 @@
+1	Cristiano	cristiano	NNP	_	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	6	dep	_	L-PERSON
+3	vs.	vs.	IN	pos2=CC	2	prep	_	O
+4	Billy	billy	NNP	_	5	compound	_	B-PERSON
+5	Wingrove	wingrove	NNP	_	3	pobj	_	L-PERSON
+6	https://t.co/H31gD6Fmdq	#hlink#	ADD	_	0	root	_	O
+

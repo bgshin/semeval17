@@ -1,0 +1,28 @@
+1	OMG	omg	NNP	pos2=NN	3	vocative	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	Hatchi	hatchi	NNP	_	6	compound	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	Hell	hell	NNP	_	3	attr	_	O
+7	out	out	RP	pos2=RB	11	advmod	_	O
+8	there‼️	there‼️	IN	pos2=``	10	mark	_	O
+9	We	we	PRP	_	10	nsubj	_	O
+10	need	need	VBP	_	3	ccomp	_	O
+11	more	more	JJR	pos2=RBR	12	nmod	_	O
+12	#Hatchimals	#hatchimals	NNS	pos2=NNPS	10	dobj	_	B-CARDINAL
+13	😱	😱	NFP	pos2=IN	19	punct	_	L-CARDINAL
+14	@couponing_uk	@couponing_uk	XX	pos2=UH	19	dep	_	O
+15	@ambermaryx	@ambermaryx	UH	pos2=XX	19	discourse	_	O
+16	@whokilledlola	@whokilledlola	UH	pos2=XX	19	discourse	_	O
+17	I	I	PRP	_	19	nsubj	_	O
+18	'm	be	VBP	_	19	aux	_	O
+19	going	go	VBG	_	0	root	_	O
+20	to	to	TO	_	21	aux	_	O
+21	share	share	VB	_	19	xcomp	_	O
+22	my	my	PRP$	_	23	poss	_	O
+23	sources	source	NNS	_	21	dobj	_	O
+24	next	next	RB	pos2=JJ	21	advmod	_	O
+25	!	!	.	_	3	punct	_	O
+
+1	😇	😇	SYM	pos2=NFP	0	root	_	U-ORG
+

@@ -1,0 +1,21 @@
+1	Hansard	hansard	NNP	_	2	compound	_	O
+2	Written	written	NNP	pos2=VBN	3	compound	_	O
+3	Answers	answer	NNS	pos2=NNPS	0	root	_	O
+4	-	-	,	pos2=SYM	3	punct	_	O
+5	—	-	SYM	pos2=:	6	punct	_	O
+6	@DWP	@dwp	NN	pos2=NFP	20	dep	_	O
+7	:	:	:	pos2=SYM	20	punct	_	O
+8	Social	social	NNP	pos2=JJ	9	compound	_	B-ORG
+9	Security	security	NNP	_	10	compound	_	L-ORG
+10	Benefits	benefit	NNS	pos2=NNP	20	dep	_	O
+11	:	:	:	_	20	punct	_	O
+12	Telephone	telephone	NN	pos2=NNP	13	compound	_	O
+13	Services	service	NNS	pos2=NNPS	20	dep	_	O
+14	(	(	-LRB-	_	13	punct	_	O
+15	25	0	CD	_	16	nmod	_	B-DATE
+16	Nov	nov	NNP	_	13	npadvmod	_	I-DATE
+17	2016	0	CD	pos2=GW	16	npadvmod	_	L-DATE
+18	)	)	-RRB-	pos2=GW	13	punct	_	O
+19	https://t.co/8SVmHg4i3J	#hlink#	ADD	_	20	nmod	_	O
+20	https://t.co/j2M7SOz6Qd	#hlink#	ADD	_	0	root	_	U-ORG
+

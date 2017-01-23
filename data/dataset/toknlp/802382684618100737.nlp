@@ -1,0 +1,21 @@
+1	@JeremyWard33	@jeremyward0	NN	pos2=NNS	5	npadvmod	_	O
+2	@PollyTickal	@pollytickal	XX	pos2=ADD	5	dep	_	B-PERSON
+3	@paulkrugman	@paulkrugman	NNP	pos2=XX	4	compound	_	I-PERSON
+4	Krugman	krugman	NNP	_	5	nsubj	_	L-PERSON
+5	went	go	VBD	_	0	root	_	O
+6	off	off	IN	pos2=RP	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	rails	rail	NNS	_	6	pobj	_	O
+9	when	when	WRB	_	11	advmod	_	O
+10	he	he	PRP	_	11	nsubj	_	O
+11	accused	accuse	VBD	_	5	advcl	_	O
+12	Comey	comey	NNP	_	11	dobj	_	U-PERSON
+13	of	of	IN	_	11	prep	_	O
+14	colluding	collude	VBG	_	13	pcomp	_	O
+15	w	w	IN	pos2=RB	14	prep	_	O
+16	/	/	HYPH	pos2=,	15	punct	_	O
+17	Putin	putin	NNP	_	15	pobj	_	O
+18	&	&	CC	_	17	cc	_	O
+19	treason	treason	NN	_	17	conj	_	O
+20	.	.	.	_	5	punct	_	O
+

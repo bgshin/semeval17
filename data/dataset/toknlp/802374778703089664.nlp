@@ -1,0 +1,20 @@
+1	Still	still	RB	_	10	advmod	_	O
+2	Report	report	NN	pos2=NNP	10	nsubj	_	O
+3	#	#	NN	_	2	npadvmod	_	O
+4	1113	0	CD	pos2=LS	3	nmod	_	O
+5	–	-	:	pos2=HYPH	2	punct	_	O
+6	NY	ny	NNP	pos2=NN	7	compound	_	O
+7	Prosecutor	prosecutor	NNP	pos2=NN	9	compound	_	O
+8	Preet	preet	NNP	_	9	compound	_	B-PERSON
+9	Bharara	bharara	NNP	_	10	nsubj	_	L-PERSON
+10	Goes	go	VBZ	_	0	root	_	O
+11	After	after	IN	_	10	prep	_	O
+12	Corrupt	corrupt	NNP	pos2=JJ	14	compound	_	B-ORG
+13	Clinton	clinton	NNP	_	14	compound	_	I-ORG
+14	Foundation	foundation	NNP	_	11	pobj	_	L-ORG
+15	....	..	.	pos2=,	10	punct	_	O
+
+1	https://t.co/GsU2Acy7Pp	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@YouTube	@youtube	NN	pos2=NNP	2	pobj	_	O
+

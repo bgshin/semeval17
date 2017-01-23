@@ -1,0 +1,19 @@
+1	Who	who	WP	_	2	attr	_	O
+2	Are	be	VBP	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	Millions	#crd#	NNPS	pos2=NNS	2	nsubj	_	U-CARDINAL
+5	of	of	IN	_	4	prep	_	O
+6	‘	'	``	_	8	punct	_	O
+7	Bad	bad	NNP	pos2=JJ	8	compound	_	O
+8	Hombres	hombres	NNP	pos2=NNS	5	pobj	_	O
+9	’	'	''	pos2=POS	8	punct	_	O
+10	Slated	slate	VBN	pos2=NNP	4	acl	_	O
+11	for	for	IN	_	10	prep	_	O
+12	US	us	NNP	_	13	compound	_	O
+13	Deportation	deportation	NN	pos2=NNP	11	pobj	_	O
+14	?	?	.	_	2	punct	_	O
+
+1	https://t.co/USnVjLiSnn	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@NonProfitBlogs	@nonprofitblogs	NNS	pos2=ADD	2	pobj	_	O
+

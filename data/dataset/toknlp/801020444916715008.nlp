@@ -1,0 +1,20 @@
+1	Near	near	IN	pos2=NNP	5	prep	_	O
+2	#Bayji	#bayji	NNP	pos2=NNS	1	pobj	_	U-GPE
+3	,	,	,	_	5	punct	_	O
+4	#CJTFOIR	#cjtfoir	NNP	pos2=NN	5	nsubj	_	U-ORG
+5	engaged	engage	VBD	_	0	root	_	O
+6	a	a	DT	_	9	det	_	O
+7	#ISIS	#isis	NNP	pos2=NN	9	nmod	_	U-ORG
+8	tactical	tactical	JJ	_	9	nmod	_	O
+9	unit	unit	NN	_	5	dobj	_	O
+10	and	and	CC	_	5	cc	_	O
+11	destroyed	destroy	VBD	pos2=VBN	5	conj	_	O
+12	2	0	CD	_	13	nmod	_	U-CARDINAL
+13	vehicles	vehicle	NNS	_	11	dobj	_	O
+14	and	and	CC	_	13	cc	_	O
+15	a	a	DT	_	17	det	_	O
+16	bunker#Mosul	bunker#mosul	NNP	pos2=NN	17	compound	_	O
+17	#Mosuloffensive	#mosuloffensive	NNP	pos2=JJ	13	conj	_	O
+18	…	…	NFP	pos2=-LRB-	19	punct	_	O
+19	https://t.co/hOQ6yyg1EB	#hlink#	ADD	_	16	nmod	_	O
+

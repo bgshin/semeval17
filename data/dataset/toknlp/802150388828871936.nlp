@@ -1,0 +1,20 @@
+1	'	'	``	pos2=SYM	2	punct	_	O
+2	Beauty	beauty	NN	pos2=NNP	11	dep	_	O
+3	and	and	CC	_	2	cc	_	O
+4	the	the	DT	_	5	det	_	O
+5	Beast	beast	NNP	pos2=NN	8	poss	_	O
+6	'	'	POS	pos2=''	5	case	_	O
+7	25th	#ord#	JJ	pos2=NN	8	nmod	_	O
+8	Anniversary	anniversary	NN	_	2	conj	_	O
+9	:	:	:	_	11	punct	_	O
+10	20	0	CD	_	11	nmod	_	O
+11	Facts	fact	NNS	_	13	dep	_	O
+12	You	you	PRP	pos2=NNP	15	nsubj	_	O
+13	Did	do	VBD	_	15	aux	_	O
+14	n't	not	RB	_	15	neg	_	O
+15	Know	know	VB	_	19	ccomp	_	O
+16	https://t.co/yq9Xmqw7vx	#hlink#	ADD	pos2=NNP	15	dobj	_	U-ORG
+17	by	by	IN	_	15	prep	_	O
+18	@bverhoev	@bverhoev	XX	pos2=VBG	17	pobj	_	O
+19	#beautyandthebeast	#beautyandthebeast	UH	pos2=XX	0	root	_	O
+

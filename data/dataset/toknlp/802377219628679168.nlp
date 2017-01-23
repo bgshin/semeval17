@@ -1,0 +1,23 @@
+1	@ezlusztig	@ezlusztig	UH	pos2=XX	4	discourse	_	O
+2	@washingtonpost	@washingtonpost	UH	pos2=IN	4	discourse	_	O
+3	It	it	PRP	_	4	nsubj	_	O
+4	needs	need	VBZ	_	0	root	_	O
+5	a	a	DT	_	7	det	_	O
+6	captivating	captivating	JJ	pos2=VBG	7	nmod	_	O
+7	tweeter	tweeter	NN	_	4	dobj	_	O
+8	who	who	WP	_	9	nsubj	_	O
+9	is	be	VBZ	_	7	relcl	_	O
+10	cable	cable	NN	pos2=JJ	11	compound	_	O
+11	sound	sound	NN	pos2=JJ	12	compound	_	O
+12	bite	bite	NN	pos2=VB	13	nsubj	_	O
+13	ready	ready	JJ	pos2=RB	9	acomp	_	O
+14	or	or	CC	_	13	cc	_	O
+15	a	a	DT	_	19	det	_	O
+16	James	james	NNP	_	17	compound	_	B-PERSON
+17	Comey	comey	NNP	_	19	compound	_	L-PERSON
+18	espionage	espionage	NN	_	19	compound	_	O
+19	type	type	NN	_	13	conj	_	O
+20	.	.	.	_	4	punct	_	O
+
+1	2/2	0	CD	pos2=LS	0	root	_	U-CARDINAL
+

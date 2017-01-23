@@ -1,0 +1,10 @@
+1	Abortion	abortion	NN	pos2=NNP	3	nsubj	_	O
+2	really	really	RB	_	3	advmod	_	O
+3	brings	bring	VBZ	_	0	root	_	O
+4	out	out	RP	_	3	prt	_	O
+5	the	the	DT	_	6	det	_	O
+6	kid	kid	NN	_	3	dobj	_	O
+7	in	in	IN	_	3	prep	_	O
+8	you	you	PRP	_	7	pobj	_	O
+9	.	.	.	_	3	punct	_	O
+

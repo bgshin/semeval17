@@ -1,0 +1,28 @@
+1	@MarkGaleotti	@markgaleotti	NNS	pos2=NN	6	vocative	_	O
+2	of	of	IN	pos2=RB	1	prep	_	O
+3	course	course	NN	pos2=RB	2	pobj	_	O
+4	,	,	,	_	6	punct	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	has	have	VBZ	_	0	root	_	O
+7	nothing	nothing	NN	_	6	dobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	do	do	VB	_	7	relcl	_	O
+10	with	with	IN	_	9	prep	_	O
+11	Saakashvili	saakashvili	NNP	_	10	pobj	_	U-PERSON
+12	.	.	.	_	6	punct	_	O
+
+1	Oliver	oliver	NNP	_	2	compound	_	B-PERSON
+2	Stone	stone	NNP	_	4	nsubj	_	L-PERSON
+3	has	have	VBZ	_	4	aux	_	O
+4	made	make	VBN	_	0	root	_	O
+5	ideal	ideal	JJ	_	7	nmod	_	O
+6	propaganda	propaganda	NN	_	7	compound	_	O
+7	film	film	NN	_	4	dobj	_	O
+8	,	,	,	_	4	punct	_	O
+9	and	and	CC	_	4	cc	_	O
+10	Putin	putin	NNP	_	12	nsubj	_	U-PERSON
+11	could	could	MD	_	12	aux	_	O
+12	get	get	VB	_	4	conj	_	O
+13	his	his	PRP$	_	14	poss	_	O
+14	oscar	oscar	NN	pos2=NNS	12	dobj	_	O
+

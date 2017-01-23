@@ -1,0 +1,17 @@
+1	Article	article	NN	_	0	root	_	O
+2	50	0	CD	_	3	nmod	_	O
+3	Shades	shade	NNS	_	1	appos	_	O
+4	of	of	IN	_	3	prep	_	O
+5	Grey	grey	NNP	pos2=NN	4	pobj	_	O
+6	:	:	:	_	9	punct	_	O
+7	Brexit	brexit	NNP	pos2=NN	8	compound	_	U-ORDINAL
+8	clique	clique	NN	_	9	compound	_	O
+9	leaves	leave	VBZ	pos2=NNS	5	meta	_	O
+10	surprised	surprised	JJ	pos2=VBD	11	nmod	_	O
+11	Boris	boris	NNP	pos2=NN	9	dobj	_	U-PERSON
+12	in	in	IN	_	9	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	cold	cold	JJ	pos2=NN	12	pobj	_	O
+15	https://t.co/BInoV93CD0	#hlink#	ADD	pos2=NN	14	appos	_	O
+16	#PoliticsScotland	#politicsscotland	ADD	pos2=-RRB-	9	punct	_	O
+

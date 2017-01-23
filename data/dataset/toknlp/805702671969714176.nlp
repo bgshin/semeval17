@@ -1,0 +1,24 @@
+1	https://t.co/shhOGhTJwO	#hlink#	ADD	pos2=NN	8	dep	_	O
+2	via	via	IN	_	1	prep	_	O
+3	https://t.co/4rGJlFfsxJ	#hlink#	ADD	pos2=NN	2	pobj	_	O
+4	-	-	HYPH	pos2=:	3	punct	_	O
+5	Okay	okay	UH	pos2=NNP	8	discourse	_	O
+6	,	,	,	_	8	punct	_	O
+7	it	it	PRP	_	8	nsubj	_	O
+8	is	be	VBZ	_	0	root	_	O
+9	historical	historical	JJ	_	8	acomp	_	O
+10	but	but	CC	_	8	cc	_	O
+11	HOW	how	WRB	_	16	advmod	_	O
+12	did	do	VBD	_	8	conj	_	O
+13	women	woman	NNS	_	16	nsubj	_	O
+14	PER	per	IN	pos2=FW	13	prep	_	O
+15	SE	se	FW	pos2=NNP	14	pobj	_	O
+16	become	become	VBN	pos2=VBP	12	advcl	_	O
+17	so	so	RB	pos2=IN	18	advmod	_	O
+18	DOWNGRADED	downgrade	VBN	pos2=JJ	16	acomp	_	O
+19	?	?	.	_	16	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	GIVE	give	VBP	_	0	root	_	O
+3	life©	life©	NNS	pos2=NNP	2	dobj	_	O
+

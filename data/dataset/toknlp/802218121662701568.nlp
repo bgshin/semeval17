@@ -1,0 +1,12 @@
+1	Anti-Donald	anti-donald	NNP	pos2=NFP	3	compound	_	O
+2	Trump	trump	NNP	_	3	compound	_	B-ORG
+3	Protests	protest	NNPS	pos2=NNS	7	nsubj	_	L-ORG
+4	and	and	CC	_	3	cc	_	O
+5	Riots	riot	NNS	pos2=NNPS	3	conj	_	O
+6	|	|	SYM	pos2=,	11	punct	_	O
+7	True	true	JJ	pos2=NNP	8	nmod	_	O
+8	News	news	NN	pos2=NNP	9	dep	_	O
+9	https://t.co/EL2WFTPmXt	#hlink#	ADD	pos2=NN	0	root	_	O
+10	via	via	IN	_	9	prep	_	O
+11	@YouTube	@youtube	NN	pos2=NNP	10	pobj	_	O
+

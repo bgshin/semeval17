@@ -1,0 +1,33 @@
+1	@James_Violinist	@james_violinist	NN	pos2=ADD	4	punct	_	O
+2	It	it	PRP	_	4	nsubjpass	_	O
+3	was	be	VBD	_	4	auxpass	_	O
+4	fucked	fuck	VBN	_	0	root	_	O
+5	up	up	RP	pos2=RB	4	prt	_	O
+6	/	/	SYM	pos2=,	4	punct	_	O
+7	a	a	DT	pos2=JJ	8	det	_	O
+8	mistake	mistake	NN	_	4	dobj	_	O
+9	imo	imo	RB	_	4	advmod	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	more	more	JJR	_	5	nmod	_	O
+4	gun	gun	NN	pos2=JJ	5	compound	_	O
+5	control	control	NN	_	2	dobj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	less	less	JJR	pos2=RBR	8	nmod	_	O
+8	fear	fear	NN	_	5	conj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	anger	anger	NN	_	8	conj	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	PSAs	psa	NNS	_	5	nsubj	_	O
+2	like	like	IN	pos2=UH	1	prep	_	O
+3	that	that	DT	_	2	pobj	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	add	add	VBP	pos2=VB	0	root	_	O
+6	to	to	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	paranoia	paranoia	NN	_	6	pobj	_	O
+9	.	.	.	_	5	punct	_	O
+

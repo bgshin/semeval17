@@ -1,0 +1,27 @@
+1	So	so	RB	_	3	advmod	_	O
+2	this	this	DT	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	Stephen	stephen	NNP	_	5	compound	_	B-PERSON
+5	Kinnock	kinnock	NNP	_	8	poss	_	I-PERSON
+6	's	's	POS	_	5	case	_	L-PERSON
+7	actual	actual	JJ	_	8	nmod	_	O
+8	proposal	proposal	NN	_	3	attr	_	O
+9	on	on	IN	_	8	prep	_	O
+10	how	how	WRB	pos2=NN	12	advmod	_	O
+11	to	to	TO	_	12	aux	_	O
+12	tackle	tackle	VB	_	9	pcomp	_	O
+13	immigration	immigration	NN	_	14	compound	_	O
+14	concerns	concern	NNS	_	12	dobj	_	O
+15	.	.	.	_	3	punct	_	O
+
+1	wow	wow	UH	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Majority	majority	NN	pos2=NNP	5	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	EU	eu	NNP	pos2=NN	4	compound	_	U-ORG
+4	citizens	citizen	NNS	_	2	pobj	_	O
+5	su	su	VBP	pos2=GW	0	root	_	O
+6	…	…	NFP	pos2=-LRB-	5	discourse	_	O
+7	https://t.co/4nUOnPjDyJ	#hlink#	ADD	_	5	dep	_	O
+

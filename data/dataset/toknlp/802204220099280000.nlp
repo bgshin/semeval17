@@ -1,0 +1,15 @@
+1	Watching	watch	VBG	_	0	root	_	O
+2	#TheOtherGuys	#theotherguys	NNS	pos2=NN	1	dobj	_	O
+3	and	and	CC	_	1	cc	_	O
+4	am	be	VBP	_	6	auxpass	_	O
+5	now	now	RB	_	6	advmod	_	O
+6	convinced	convince	VBN	pos2=JJ	1	conj	_	O
+7	this	this	DT	_	8	nsubj	_	O
+8	was	be	VBD	_	6	ccomp	_	O
+9	the	the	DT	_	10	det	_	O
+10	beginning	beginning	NN	_	8	attr	_	O
+11	of	of	IN	_	10	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	#MannequinChallenge	#mannequinchallenge	NNP	pos2=NN	14	compound	_	O
+14	😂	😂	NNP	pos2=NN	11	pobj	_	O
+

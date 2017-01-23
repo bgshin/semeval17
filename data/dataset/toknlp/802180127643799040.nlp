@@ -1,0 +1,21 @@
+1	@AEIfdp	@aeifdp	XX	pos2=ADD	3	dep	_	O
+2	@mrubin1971	@mrubin0	NN	pos2=LS	3	nsubj	_	O
+3	@AEI	@aei	VBP	pos2=XX	0	root	_	O
+4	Great	great	JJ	_	5	nmod	_	O
+5	article	article	NN	_	3	dobj	_	O
+6	!	!	.	_	3	punct	_	O
+
+1	Finally	finally	RB	_	3	advmod	_	O
+2	someone	someone	NN	_	13	nsubj	_	O
+3	shining	shine	VBG	_	2	acl	_	O
+4	the	the	DT	_	5	det	_	O
+5	light	light	NN	_	3	dative	_	O
+6	a	a	DT	_	12	det	_	O
+7	corrupt	corrupt	JJ	_	12	nmod	_	O
+8	"	"	``	_	10	punct	_	O
+9	human	human	JJ	_	10	nmod	_	O
+10	rights	right	NNS	_	12	nmod	_	O
+11	"	"	''	_	10	punct	_	O
+12	system	system	NN	_	13	dep	_	O
+13	#Yemen	#yemen	NNP	pos2=''	0	root	_	O
+

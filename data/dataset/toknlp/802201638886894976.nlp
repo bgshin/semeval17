@@ -1,0 +1,21 @@
+1	#FantasticBeasts	#fantasticbeasts	NNS	pos2=UH	0	root	_	O
+2	!!!	!!	.	_	1	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	12	ccomp	_	O
+3	my	my	PRP$	_	4	poss	_	O
+4	son	son	NN	_	6	poss	_	O
+5	's	's	POS	_	4	case	_	O
+6	first	#ord#	JJ	pos2=RB	2	attr	_	U-ORDINAL
+7	In	in	IN	pos2=NNP	6	prep	_	O
+8	Theatre	theatre	NNP	pos2=NN	9	compound	_	U-DATE
+9	movie	movie	NN	_	7	pobj	_	O
+10	,	,	,	_	12	punct	_	O
+11	we	we	PRP	_	12	nsubj	_	O
+12	're	be	VBP	_	0	root	_	O
+13	so	so	RB	_	14	advmod	_	O
+14	excited	excited	JJ	_	12	acomp	_	O
+15	!	!	.	_	12	punct	_	O
+
+1	https://t.co/0DydUg2b3x	#hlink#	ADD	_	0	root	_	U-ORG
+

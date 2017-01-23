@@ -1,0 +1,19 @@
+1	ANONYMOUS	anonymous	JJ	pos2=NNP	4	dep	_	O
+2	-	-	:	pos2=,	4	punct	_	O
+3	The	the	DT	_	4	det	_	O
+4	truth	truth	NN	_	0	root	_	O
+5	on	on	IN	_	4	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	MEXICAN	mexican	JJ	_	8	nmod	_	U-NORP
+8	BORDER	border	NN	pos2=NNP	5	pobj	_	O
+9	BIULD	biuld	MD	pos2=NNP	4	punct	_	O
+10	THE	the	DT	_	11	det	_	O
+11	WALL	wall	NN	pos2=NNP	9	pobj	_	O
+12	!!	!!	.	_	4	punct	_	O
+
+1	@StopStopHillary	@stopstophillary	ADD	pos2=JJ	5	nmod	_	O
+2	@AliciaDede	@aliciadede	GW	pos2=ADD	5	nmod	_	O
+3	@JaredWyand	@jaredwyand	GW	pos2=NFP	5	nmod	_	U-MONEY
+4	@BigStick2013	@bigstick0	GW	pos2=ADD	5	nmod	_	O
+5	https://t.co/FGoELQ3T4j	#hlink#	ADD	pos2=NN	0	root	_	O
+

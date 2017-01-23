@@ -1,0 +1,26 @@
+1	@newsva_en	@newsva_en	VB	pos2=NNP	5	csubj	_	O
+2	that	that	DT	pos2=WDT	4	det	_	O
+3	last	last	JJ	_	4	nmod	_	O
+4	message	message	NN	_	1	dobj	_	O
+5	is	be	VBZ	_	19	ccomp	_	O
+6	for	for	IN	_	5	prep	_	O
+7	Pope	pope	NNP	_	8	compound	_	O
+8	Francis	francis	NNP	_	6	pobj	_	U-PERSON
+9	,	,	,	_	13	punct	_	O
+10	he	he	PRP	_	13	nsubj	_	O
+11	can	can	MD	_	13	aux	_	O
+12	not	not	RB	_	13	neg	_	O
+13	answer	answer	VB	_	5	advcl	_	O
+14	the	the	DT	_	16	det	_	O
+15	4	0	CD	_	16	nmod	_	U-CARDINAL
+16	cardinals	cardinal	NNS	_	13	dobj	_	O
+17	,	,	,	_	19	punct	_	O
+18	he	he	PRP	_	19	nsubj	_	O
+19	knows	know	VBZ	_	0	root	_	O
+20	Amoris	amoris	NNP	_	21	compound	_	B-PERSON
+21	Laetitia	laetitia	NNP	_	22	nsubj	_	L-PERSON
+22	is	be	VBZ	_	19	ccomp	_	O
+23	of	of	IN	_	22	prep	_	O
+24	the	the	DT	_	25	det	_	O
+25	Devil	devil	NNP	_	23	pobj	_	U-LOC
+

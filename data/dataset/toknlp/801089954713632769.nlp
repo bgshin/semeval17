@@ -1,0 +1,16 @@
+1	Understandably	understandably	RB	_	6	advmod	_	O
+2	,	,	,	_	6	punct	_	O
+3	no	no	DT	_	4	det	_	O
+4	peace	peace	NN	_	6	nsubjpass	_	O
+5	can	can	MD	pos2=NN	6	aux	_	O
+6	sustained	sustain	VBN	pos2=VB	0	root	_	O
+7	when	when	WRB	_	9	advmod	_	O
+8	people	people	NNS	_	9	nsubj	_	O
+9	continue	continue	VBP	pos2=VB	6	advcl	_	O
+10	t	t	NN	pos2=RB	9	dobj	_	O
+11	...	..	.	pos2=,	6	punct	_	O
+
+1	#MikheilSaakashvili	#mikheilsaakashvili	GW	pos2=NNS	3	nmod	_	B-PERSON
+2	#quotation	#quotation	GW	pos2=ADD	3	nmod	_	L-PERSON
+3	https://t.co/0zZjfpCc90	#hlink#	ADD	pos2=NN	0	root	_	O
+

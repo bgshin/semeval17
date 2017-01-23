@@ -1,0 +1,25 @@
+1	Even	even	RB	_	4	advmod	_	O
+2	the	the	DT	_	4	det	_	O
+3	Obama	obama	NNP	_	4	compound	_	U-PERSON
+4	admin	admin	NN	_	5	nsubj	_	O
+5	dismisses	dismiss	VBZ	_	0	root	_	O
+6	claims	claim	NNS	_	5	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	election	election	NN	_	9	compound	_	O
+9	hacking	hacking	NN	_	7	pobj	_	O
+10	,	,	,	_	5	punct	_	O
+11	but	but	CC	_	5	cc	_	O
+12	it	it	PRP	_	14	nsubj	_	O
+13	must	must	MD	_	14	aux	_	O
+14	be	be	VB	_	5	conj	_	O
+15	true	true	JJ	_	14	acomp	_	O
+16	since	since	IN	_	14	prep	_	O
+17	a	a	DT	_	20	det	_	O
+18	couple	couple	NN	_	20	compound	_	O
+19	computer	computer	NN	_	20	compound	_	O
+20	nerds	nerd	NNS	_	16	pobj	_	O
+21	from	from	IN	_	20	prep	_	O
+22	M	m	NNP	pos2=JJ	21	pobj	_	B-GPE
+23	…	…	NFP	pos2=IN	24	punct	_	L-GPE
+24	https://t.co/5nCkOQ6RDz	#hlink#	ADD	_	22	appos	_	O
+

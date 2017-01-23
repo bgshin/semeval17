@@ -1,0 +1,25 @@
+1	#Dems	#dems	NNS	pos2=GW	21	prep	_	O
+2	#UniteBlue	#uniteblue	GW	pos2=ADD	21	dobj	_	O
+3	https://t.co/b24MGBAJW5	#hlink#	ADD	pos2=NN	0	root	_	O
+4	{	{	-LRB-	pos2=-RRB-	3	punct	_	O
+5	trump	trump	NN	_	21	nsubj	_	O
+6	,	,	,	_	5	punct	_	O
+7	vote	vote	NN	_	5	conj	_	O
+8	,	,	,	_	7	punct	_	O
+9	web	web	NN	_	7	conj	_	O
+10	,	,	,	_	9	punct	_	O
+11	stop	stop	VB	pos2=NN	9	conj	_	O
+12	,	,	,	_	11	punct	_	O
+13	#thanksgiving	#thanksgiving	VBG	pos2=UH	11	conj	_	O
+14	,	,	,	_	13	punct	_	O
+15	medicare	medicare	NN	pos2=JJ	13	conj	_	O
+16	,	,	,	_	15	punct	_	O
+17	woman	woman	NN	_	15	conj	_	O
+18	,	,	,	_	17	punct	_	O
+19	republicans	republican	NNS	pos2=NN	17	conj	_	U-NORP
+20	,	,	,	_	19	punct	_	O
+21	lost	lose	VBD	pos2=VBN	0	root	_	O
+22	}	}	-RRB-	pos2=SYM	24	punct	_	O
+23	+4	0	CD	_	24	nmod	_	U-CARDINAL
+24	fotos	fotos	NNS	_	21	dobj	_	O
+

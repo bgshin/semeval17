@@ -1,0 +1,19 @@
+1	@YanicTruesdale	@yanictruesdale	NNP	pos2=XX	2	compound	_	O
+2	Michel	michel	NNP	_	3	nsubj	_	U-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNS	4	pobj	_	O
+7	I	I	PRP	_	8	nsubj	_	O
+8	appreciate	appreciate	VBP	_	3	parataxis	_	O
+9	the	the	DT	_	11	det	_	O
+10	comedy	comedy	NN	_	11	compound	_	O
+11	relief	relief	NN	_	8	dobj	_	O
+12	you	you	PRP	_	14	nsubj	_	O
+13	have	have	VBP	_	14	aux	_	O
+14	provided	provided	VBN	_	11	relcl	_	O
+15	all	all	PDT	_	17	predet	_	O
+16	these	these	DT	_	17	det	_	B-DATE
+17	years	year	NNS	_	14	dobj	_	L-DATE
+18	.	.	.	_	3	punct	_	O
+

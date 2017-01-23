@@ -1,0 +1,15 @@
+1	Like	like	IN	pos2=NNP	8	prep	_	O
+2	Grayson	grayson	NNP	_	3	compound	_	B-PERSON
+3	Allen	allen	NNP	_	1	pobj	_	L-PERSON
+4	,	,	,	_	8	punct	_	O
+5	Adam	adam	NNP	_	8	nsubj	_	U-PERSON
+6	is	be	VBZ	_	8	aux	_	O
+7	now	now	RB	_	8	advmod	_	O
+8	operating	operate	VBG	_	0	root	_	O
+9	at	at	IN	_	8	prep	_	O
+10	50	0	CD	_	11	nmod	_	B-PERCENT
+11	percent	percent	NN	_	9	pobj	_	L-PERCENT
+12	.	.	.	_	8	punct	_	O
+
+1	https://t.co/SYTdwTlmQe	#hlink#	ADD	_	0	root	_	U-ORG
+

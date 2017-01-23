@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det	_	O
+2	#SupremeCourt	#supremecourt	NNP	pos2=NN	4	nsubj	_	U-ORG
+3	is	be	VBZ	_	4	aux	_	O
+4	ensuring	ensure	VBG	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	legality	legality	NN	_	4	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	process	process	NN	_	7	pobj	_	O
+10	,	,	,	_	4	punct	_	O
+11	not	not	RB	_	12	neg	_	O
+12	#Brexit	#brexit	VBN	pos2=VB	4	dep	_	O
+13	per	per	IN	pos2=FW	14	advmod	_	O
+14	se	se	FW	pos2=NN	12	advmod	_	O
+15	.	.	.	_	4	punct	_	O
+
+1	We	we	PRP	_	4	nsubj	_	O
+2	should	should	MD	_	4	aux	_	O
+3	actually	actually	RB	_	4	advmod	_	O
+4	be	be	VB	_	0	root	_	O
+5	grateful	grateful	JJ	_	4	acomp	_	O
+6	for	for	IN	_	5	prep	_	O
+7	that	that	DT	_	6	pobj	_	O
+8	.	.	.	_	4	punct	_	O
+

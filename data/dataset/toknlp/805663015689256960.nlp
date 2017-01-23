@@ -1,0 +1,22 @@
+1	@LibertyLovesYou	@libertylovesyou	UH	pos2=``	4	discourse	_	O
+2	So	so	RB	_	4	advmod	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	support	support	VBP	_	0	root	_	O
+5	raising	raise	VBG	_	4	xcomp	_	O
+6	the	the	DT	_	9	det	_	O
+7	federal	federal	JJ	_	9	nmod	_	O
+8	minimum	minimum	JJ	pos2=NN	9	nmod	_	O
+9	wage	wage	NN	_	5	dobj	_	O
+10	to	to	IN	_	5	prep	_	O
+11	$	$	$	_	12	nmod	_	O
+12	11	0	CD	_	10	pobj	_	O
+13	/	/	SYM	pos2=HYPH	14	punct	_	O
+14	hour	hour	NN	_	12	prep	_	O
+15	?	?	.	_	4	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	start	start	NN	pos2=VB	2	attr	_	O
+5	!	!	.	_	2	punct	_	O
+

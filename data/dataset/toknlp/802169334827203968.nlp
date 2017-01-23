@@ -1,0 +1,12 @@
+1	@MatthewGilbert	@matthewgilbert	ADD	pos2=NN	10	nsubj	_	O
+2	@BostonGlobe	@bostonglobe	ADD	pos2=NNP	3	det	_	O
+3	Link	link	NNP	pos2=NN	1	dobj	_	U-GPE
+4	to	to	TO	_	5	aux	_	O
+5	review	review	VB	_	1	advcl	_	O
+6	for	for	IN	_	5	prep	_	O
+7	#ThisIsUs	#thisisus	NN	pos2=NNP	6	pobj	_	O
+8	is	be	VBZ	_	10	aux	_	O
+9	n't	not	RB	_	10	neg	_	O
+10	launching	launch	VBG	pos2=JJ	0	root	_	O
+11	.	.	.	_	10	punct	_	O
+

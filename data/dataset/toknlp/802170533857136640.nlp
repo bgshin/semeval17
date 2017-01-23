@@ -1,0 +1,13 @@
+1	My	my	PRP$	_	3	poss	_	O
+2	new	new	JJ	_	3	nmod	_	O
+3	sounds	sound	NNS	_	5	nsubj	_	O
+4	:	:	:	_	6	punct	_	O
+5	Bad	bad	JJ	pos2=NNP	6	nmod	_	O
+6	Hombres	hombres	NNP	pos2=NNS	9	nmod	_	O
+7	And	and	CC	pos2=NNP	6	cc	_	O
+8	Nasty	nasty	NNP	pos2=JJ	6	conj	_	O
+9	Women	woman	NNS	pos2=NNPS	12	nmod	_	O
+10	https://t.co/iiJdUAbFE3	#hlink#	ADD	pos2=VBP	0	root	_	U-TIME
+11	on	on	IN	_	10	prep	_	O
+12	#SoundCloud	#soundcloud	ADD	pos2=NNP	11	pobj	_	O
+

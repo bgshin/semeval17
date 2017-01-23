@@ -1,0 +1,21 @@
+1	Ashley	ashley	NNP	_	7	compound	_	B-PERSON
+2	Graham	graham	NNP	_	7	compound	_	L-PERSON
+3	Lands	lands	NNP	pos2=NNPS	4	compound	_	O
+4	First	#ord#	NNP	pos2=JJ	5	npadvmod	_	O
+5	British	british	JJ	pos2=NNP	7	nmod	_	U-NORP
+6	Vogue	vogue	NNP	_	7	compound	_	B-PERSON
+7	Cover	cover	NNP	pos2=NN	9	nsubj	_	L-PERSON
+8	,	,	,	_	9	punct	_	O
+9	Explains	explain	VBZ	_	0	root	_	O
+10	Why	why	WRB	pos2=NNP	11	advmod	_	O
+11	Hitting	hit	VBG	pos2=PDT	15	csubj	_	O
+12	the	the	DT	_	14	det	_	O
+13	Beauty	beauty	NNP	pos2=NN	14	compound	_	O
+14	Jackpot	jackpot	NNP	pos2=NN	11	dobj	_	O
+15	Is	be	VBZ	_	9	ccomp	_	O
+16	Not	not	RB	_	15	neg	_	O
+17	...	..	.	pos2=,	9	punct	_	O
+
+1	https://t.co/5MyVrcrSvE	#hlink#	ADD	_	0	root	_	O
+2	#weightloss	#weightloss	-RRB-	pos2=UH	1	punct	_	O
+

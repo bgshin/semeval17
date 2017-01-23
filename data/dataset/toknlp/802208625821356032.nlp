@@ -1,0 +1,14 @@
+1	A	a	DT	_	2	det	_	B-DATE
+2	week	week	NN	_	3	npadvmod	_	I-DATE
+3	ago	ago	RB	_	7	advmod	_	L-DATE
+4	,	,	,	_	7	punct	_	O
+5	Mike	mike	NNP	_	6	compound	_	B-PERSON
+6	Pence	penny	NNP	_	7	nsubj	_	L-PERSON
+7	went	go	VBD	_	0	root	_	O
+8	to	to	IN	_	7	prep	_	O
+9	Hamilton	hamilton	NNP	_	8	pobj	_	U-PERSON
+10	.	.	.	_	7	punct	_	O
+
+1	#NeverForget	#neverforget	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/sOQh5iLbh8	#hlink#	ADD	_	0	root	_	O
+

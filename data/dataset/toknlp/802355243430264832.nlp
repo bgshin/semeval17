@@ -1,0 +1,25 @@
+1	@hellmouse	@hellmouse	UH	pos2=NN	7	discourse	_	O
+2	@WSJ	@wsj	UH	pos2=NN	7	discourse	_	O
+3	I	I	PRP	_	7	nsubjpass	_	O
+4	would	would	MD	_	7	aux	_	O
+5	rather	rather	RB	_	7	advmod	_	O
+6	be	be	VB	_	7	auxpass	_	O
+7	required	require	VBN	_	0	root	_	O
+8	to	to	TO	_	9	aux	_	O
+9	have	have	VB	_	7	xcomp	_	O
+10	a	a	DT	_	11	det	_	O
+11	gun	gun	NN	_	9	dobj	_	O
+12	then	then	RB	pos2=IN	14	advmod	_	O
+13	Obama	obama	NNP	_	14	compound	_	U-PERSON
+14	care	care	NN	pos2=VB	11	conj	_	O
+15	,	,	,	_	14	punct	_	O
+16	and	and	CC	_	14	cc	_	O
+17	paying	pay	VBG	_	14	conj	_	O
+18	the	the	DT	_	19	det	_	O
+19	Medicaid	medicaid	NNP	_	17	dobj	_	U-ORG
+20	and	and	CC	_	19	cc	_	O
+21	housing	housing	NN	_	19	conj	_	O
+22	for	for	IN	_	17	prep	_	O
+23	illegals	illegal	NNS	_	22	pobj	_	O
+24	.	.	.	_	7	punct	_	O
+

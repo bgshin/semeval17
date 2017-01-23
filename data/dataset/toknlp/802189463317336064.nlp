@@ -1,0 +1,21 @@
+1	Donald	donald	NNP	_	2	compound	_	B-PERSON
+2	Trump	trump	NNP	_	4	poss	_	I-PERSON
+3	’s	's	POS	_	2	case	_	L-PERSON
+4	stock	stock	NN	_	11	nsubj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	Dakota	dakota	NNP	_	7	compound	_	O
+7	Access	access	NNP	pos2=NN	10	compound	_	U-PRODUCT
+8	oil	oil	NN	_	9	compound	_	O
+9	pipeline	pipeline	NN	_	10	compound	_	O
+10	company	company	NN	_	5	pobj	_	O
+11	prompts	prompt	VBZ	_	0	root	_	O
+12	concern	concern	NN	_	14	compound	_	O
+13	-	-	HYPH	pos2=:	14	punct	_	O
+14	National	national	NNP	_	16	dep	_	O
+15	|	|	SYM	pos2=,	16	punct	_	O
+16	Globalnews	globalnews	NNP	_	11	dobj	_	O
+17	.	.	.	_	11	punct	_	O
+
+1	ca	ca	NN	pos2=MD	2	dep	_	O
+2	https://t.co/EQ53jg17Mb	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

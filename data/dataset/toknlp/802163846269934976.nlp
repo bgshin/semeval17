@@ -1,0 +1,14 @@
+1	@THE	@the	DT	pos2=NN	3	det	_	O
+2	ORIGINAL	original	JJ	_	3	nmod	_	O
+3	MENUDO	menudo	NN	pos2=NNP	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	@REMAIN	@remain	RB	pos2=POS	3	det	_	O
+2	GREATEST	great	JJS	_	3	nmod	_	O
+3	SINGER	singer	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	@RICKY	@ricky	NFP	pos2=GW	3	punct	_	O
+2	MARTIN	martin	NNP	pos2=GW	0	root	_	U-ORG
+3	https://t.co/7lQcYVclUy	#hlink#	ADD	_	2	appos	_	O
+

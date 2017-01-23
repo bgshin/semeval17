@@ -1,0 +1,20 @@
+1	the	the	DT	_	3	det	_	O
+2	@utahjazz	@utahjazz	NN	pos2=JJ	3	compound	_	O
+3	organization	organization	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	15	ccomp	_	O
+5	one	#crd#	CD	_	4	attr	_	U-CARDINAL
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	purest	purest	NN	pos2=JJS	6	pobj	_	O
+9	and	and	CC	_	5	cc	_	O
+10	most	most	JJS	pos2=RBS	12	nmod	_	O
+11	giving	giving	JJ	pos2=VBG	12	nmod	_	O
+12	organizations	organization	NNS	_	8	appos	_	O
+13	,	,	,	_	15	punct	_	O
+14	i	I	PRP	_	15	nsubj	_	O
+15	love	love	VBP	_	0	root	_	O
+16	it	it	PRP	_	15	dobj	_	O
+17	.	.	.	_	15	punct	_	O
+
+1	https://t.co/Upt4bAgi7t	#hlink#	ADD	_	0	root	_	U-ORG
+

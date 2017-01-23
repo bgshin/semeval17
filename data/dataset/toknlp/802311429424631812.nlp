@@ -1,0 +1,9 @@
+1	Usher	usher	NNP	_	2	nsubj	_	U-PERSON
+2	did	do	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	great	great	JJ	_	5	nmod	_	O
+5	job	job	NN	_	2	dobj	_	O
+6	!	!	.	_	2	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+

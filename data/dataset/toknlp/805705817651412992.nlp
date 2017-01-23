@@ -1,0 +1,13 @@
+1	Time	time	NN	pos2=NNP	12	nmod	_	U-ORG
+2	Perfect	perfect	JJ	pos2=NNP	1	nmod	_	O
+3	for	for	IN	_	2	prep	_	O
+4	#Geotechnical	#geotechnical	NNP	pos2=JJ	5	compound	_	O
+5	#Engineers	#engineers	NNP	pos2=NNS	3	pobj	_	O
+6	to	to	IN	pos2=TO	1	prep	_	O
+7	#Immigrate	#immigrate	NNP	pos2=VB	6	pobj	_	O
+8	to	to	IN	pos2=TO	5	prep	_	O
+9	#Australia	#australia	NNP	_	8	pobj	_	U-GPE
+10	,	,	,	_	12	punct	_	O
+11	#Ca	#ca	GW	pos2=NNP	12	nmod	_	U-GPE
+12	nadahttps://t.co/COPi0x2KhU	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

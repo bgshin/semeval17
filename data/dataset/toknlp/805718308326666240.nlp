@@ -1,0 +1,16 @@
+1	'	'	``	pos2=SYM	4	punct	_	O
+2	Long	long	RB	pos2=NNP	4	advmod	_	O
+3	Live	live	NNP	pos2=VB	4	compound	_	O
+4	Fidel	fidel	NNP	_	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+
+1	'	'	''	pos2=NNS	9	punct	_	O
+2	:	:	:	_	6	punct	_	O
+3	Castro	castro	NNP	_	5	poss	_	U-PERSON
+4	's	's	POS	pos2=VBZ	3	case	_	O
+5	Ashes	ash	NNS	pos2=NNPS	6	nsubj	_	O
+6	Interred	inter	VBN	pos2=NNP	9	dep	_	O
+7	in	in	IN	_	6	prep	_	O
+8	Cuba	cuba	NNP	_	7	pobj	_	U-GPE
+9	https://t.co/BNJqvAV6Db	#hlink#	ADD	pos2=NNP	0	root	_	O
+

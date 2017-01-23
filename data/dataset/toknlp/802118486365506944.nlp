@@ -1,0 +1,17 @@
+1	#Rohingya	#rohingya	NNP	pos2=``	2	compound	_	O
+2	Muslims	muslim	NNPS	pos2=NNP	3	nsubj	_	U-NORP
+3	being	be	VBG	_	9	ccomp	_	O
+4	'	'	``	pos2=''	3	punct	_	O
+5	ethnically	ethnically	RB	_	6	advmod	_	O
+6	cleansed	cleanse	VBN	pos2=JJ	3	acomp	_	O
+7	'	'	''	_	6	punct	_	O
+8	,	,	,	_	9	punct	_	O
+9	says	say	VBZ	_	0	root	_	O
+10	UN	un	NNP	_	11	compound	_	O
+11	official#Rohingyas	official#rohingyas	NNS	pos2=NNP	13	poss	_	O
+12	#Muslims	#muslims	POS	pos2=NNPS	11	case	_	O
+13	#UnitedNations	#unitednations	NNS	pos2=ADD	14	nsubj	_	O
+14	#Ethnic	#ethnic	JJ	pos2=GW	9	ccomp	_	O
+15	…	…	NFP	pos2=-LRB-	16	punct	_	O
+16	https://t.co/PSCqfk32r5	#hlink#	ADD	pos2=NN	12	root	_	O
+

@@ -1,0 +1,17 @@
+1	#Yemen	#yemen	NNP	pos2=UH	8	nsubj	_	O
+2	Only	only	RB	_	8	advmod	_	O
+3	if	if	IN	_	8	mark	_	O
+4	the	the	DT	_	7	det	_	O
+5	US	us	NNP	_	7	compound	_	O
+6	Border	border	NNP	_	7	compound	_	O
+7	Patrol	patrol	NNP	_	8	nsubj	_	O
+8	had	have	VBD	_	0	root	_	O
+9	this	this	DT	_	8	dobj	_	O
+10	in	in	IN	_	8	prep	_	O
+11	their	their	PRP$	_	12	poss	_	O
+12	arsenal	arsenal	NN	_	10	pobj	_	O
+13	!	!	.	_	8	punct	_	O
+
+1	https://t.co/Vno49CxD3e	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/OqTRSif4rT	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,6 @@
+1	@EricBoehlert	@ericboehlert	ADD	pos2=NN	0	root	_	O
+2	@	@	SYM	pos2=IN	5	punct	_	O
+3	1099rock	0rock	NN	pos2=NNP	5	compound	_	O
+4	COMEY	comey	NNP	pos2=NN	5	compound	_	U-PERSON
+5	COUP	coup	NN	_	1	pobj	_	O
+

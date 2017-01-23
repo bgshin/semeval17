@@ -1,0 +1,20 @@
+1	8	0	CD	pos2=LS	4	nmod	_	U-CARDINAL
+2	Dangerous	dangerous	JJ	pos2=NNP	4	nmod	_	O
+3	Side	side	NNP	pos2=NN	4	compound	_	O
+4	Effects	effect	NNS	pos2=NNPS	19	dep	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Fracking	fracking	NNP	pos2=NN	5	pobj	_	O
+7	That	that	IN	pos2=WDT	12	mark	_	O
+8	the	the	DT	_	9	det	_	O
+9	Industry	industry	NNP	pos2=NN	12	nsubj	_	O
+10	Does	do	VBZ	pos2=NNPS	12	aux	_	O
+11	n't	not	RB	_	12	neg	_	O
+12	Want	want	VB	_	19	advcl	_	O
+13	You	you	PRP	_	15	nsubj	_	O
+14	to	to	TO	pos2=IN	15	aux	_	O
+15	Hear	hear	VB	_	12	ccomp	_	O
+16	About	about	IN	pos2=NNP	15	prep	_	O
+17	|	|	SYM	pos2=,	19	punct	_	O
+18	Alte	alte	NNP	pos2=GW	19	nmod	_	O
+19	rnethttps://t.co/NknAwg0MV4	#hlink#	ADD	_	0	root	_	O
+

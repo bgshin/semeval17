@@ -1,0 +1,13 @@
+1	If	if	IN	_	5	mark	_	O
+2	Kim	kim	NNP	_	4	compound	_	B-PERSON
+3	Jong	jong	NNP	_	4	compound	_	I-PERSON
+4	Un	un	NNP	_	5	nsubj	_	L-PERSON
+5	ate	eat	VBD	pos2=NN	0	root	_	O
+6	ass	ass	NN	pos2=NNS	5	dobj	_	O
+7	...	..	.	pos2=,	5	punct	_	O
+
+1	that	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	James	james	NNP	_	4	compound	_	B-PERSON
+4	Kim	kim	NNP	_	2	attr	_	L-PERSON
+

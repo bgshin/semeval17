@@ -1,0 +1,22 @@
+1	Microsoft	microsoft	NNP	_	2	nsubj	_	U-ORG
+2	joins	join	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	B-ORG
+4	Linux	linux	NNP	_	5	compound	_	I-ORG
+5	Foundation	foundation	NNP	_	2	dobj	_	L-ORG
+6	,	,	,	_	5	punct	_	O
+7	a	a	DT	_	8	det	_	O
+8	move	move	NN	pos2=VB	5	appos	_	O
+9	long	long	RB	_	10	advmod	_	O
+10	overdue	overdue	JJ	pos2=NN	8	nmod	_	O
+11	and	and	CC	_	8	cc	_	O
+12	one	#crd#	CD	pos2=NN	8	conj	_	O
+13	which	which	WDT	_	16	nsubj	_	O
+14	will	will	MD	_	16	aux	_	O
+15	hopefully	hopefully	RB	_	16	advmod	_	O
+16	help	help	VB	_	12	relcl	_	O
+17	make	make	VB	_	16	xcomp	_	O
+18	windows	window	NNS	_	20	nsubj	_	O
+19	more	more	RBR	_	20	advmod	_	O
+20	secure	secure	JJ	_	17	ccomp	_	O
+21	https://t.co/yVMyy1O61g	#hlink#	ADD	pos2=NN	5	appos	_	O
+

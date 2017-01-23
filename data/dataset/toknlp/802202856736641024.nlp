@@ -1,0 +1,11 @@
+1	@GarrisonCarr	@garrisoncarr	XX	pos2=NN	5	dep	_	O
+2	Tony	tony	NNP	_	3	compound	_	B-PERSON
+3	Romo	romo	NNP	_	5	nsubj	_	L-PERSON
+4	might	might	MD	_	5	aux	_	O
+5	be	be	VB	_	0	root	_	O
+6	free	free	JJ	pos2=RB	5	acomp	_	O
+7	soon	soon	RB	_	5	advmod	_	O
+8	!	!	.	_	5	punct	_	O
+
+1	jk.	jk.	NNP	pos2=NNS	0	root	_	O
+

@@ -1,0 +1,19 @@
+1	Do	do	VB	_	0	root	_	O
+2	something	something	NN	_	1	dobj	_	O
+3	about	about	IN	_	2	prep	_	O
+4	it	it	PRP	_	3	pobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	Yes	yes	UH	_	3	discourse	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	failure	failure	NN	_	3	attr	_	O
+6	on	on	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	world	world	NN	_	6	pobj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	#UnitedNations	#unitednations	NNS	pos2=ADD	2	nmod	_	O
+2	https://t.co/NSXg3ZG0Wc	#hlink#	ADD	_	0	root	_	O
+

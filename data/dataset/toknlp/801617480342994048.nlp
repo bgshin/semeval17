@@ -1,0 +1,26 @@
+1	4.	0.	LS	_	14	meta	_	U-CARDINAL
+2	Kirk	kirk	NNP	_	0	root	_	O
+3	3.	0.	CD	pos2=LS	2	nmod	_	U-CARDINAL
+4	Mrs.	mrs.	NNP	_	10	compound	_	O
+5	Kim	kim	NNP	_	10	compound	_	O
+6	2.	0.	NNP	pos2=CD	10	compound	_	O
+7	Emily	emily	NNP	_	10	compound	_	O
+8	1.	0.	NNP	pos2=CD	10	compound	_	O
+9	Michel	michel	NNP	_	10	compound	_	B-PERSON
+10	#GilmoreGirlsTop4	#gilmoregirlstop0	NNP	pos2=ADD	2	conj	_	L-PERSON
+11	and	and	CC	_	10	cc	_	O
+12	I	I	PRP	_	14	nsubj	_	O
+13	'll	will	MD	_	14	aux	_	O
+14	throw	throw	VB	_	0	root	_	O
+15	in	in	IN	pos2=RP	14	prep	_	O
+16	Sookie	sookie	NNP	pos2=NN	15	pobj	_	O
+17	for	for	IN	_	14	prep	_	O
+18	good	good	JJ	_	19	nmod	_	O
+19	measure	measure	NN	pos2=RB	17	pobj	_	O
+20	too	too	RB	_	14	advmod	_	O
+21	as	as	IN	_	25	mark	_	O
+22	my	my	PRP$	_	23	poss	_	O
+23	#	#	NN	_	25	nmod	_	O
+24	5	0	LS	pos2=CD	25	dep	_	U-MONEY
+25	https://t.co/wsfVZ9xOjc	#hlink#	ADD	pos2=NN	14	advcl	_	O
+

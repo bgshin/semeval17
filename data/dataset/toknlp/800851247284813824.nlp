@@ -1,0 +1,20 @@
+1	Watch	watch	VB	_	0	root	_	O
+2	the	the	DT	_	4	det	_	O
+3	full	full	JJ	_	4	nmod	_	O
+4	video	video	NN	_	1	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Alt	alt	NNP	pos2=JJ	8	nmod	_	O
+7	Right	right	JJ	pos2=NNP	8	nmod	_	O
+8	group	group	NN	_	5	pobj	_	O
+9	asking	ask	VBG	pos2=NN	4	acl	_	O
+10	,	,	,	_	9	punct	_	O
+11	"	"	``	pos2=''	9	punct	_	O
+12	Are	be	VBP	_	9	ccomp	_	O
+13	Jews	jew	NNPS	_	14	compound	_	U-NORP
+14	People	people	NNS	pos2=NNPS	12	nsubj	_	O
+15	?	?	.	pos2=,	1	punct	_	O
+16	"	"	''	_	1	punct	_	O
+
+1	https://t.co/uoKfv4FgQ0	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/nZyd7CtRjm	#hlink#	ADD	_	0	root	_	U-ORG
+

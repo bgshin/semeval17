@@ -1,0 +1,20 @@
+1	@Lutzie25	@lutzie0	NN	pos2=NNS	6	vocative	_	O
+2	Unlike	unlike	IN	_	1	prep	_	O
+3	you	you	PRP	_	2	pobj	_	O
+4	I	I	PRP	pos2=MD	6	nsubj	_	O
+5	actually	actually	RB	_	6	advmod	_	O
+6	take	take	VBP	_	0	root	_	O
+7	Ephesians	ephesians	NNP	pos2=NNPS	6	dobj	_	O
+8	6:12	0	CD	_	7	nmod	_	U-TIME
+9	seriously	seriously	RB	_	6	advmod	_	O
+10	.	.	.	_	6	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	're	be	VBP	_	0	root	_	O
+3	just	just	RB	_	5	advmod	_	O
+4	a	a	DT	_	5	det	_	O
+5	slave	slave	NN	_	2	attr	_	O
+6	to	to	IN	_	5	prep	_	O
+7	Pope	pope	NNP	_	8	compound	_	O
+8	Francis	francis	NNP	_	6	pobj	_	O
+

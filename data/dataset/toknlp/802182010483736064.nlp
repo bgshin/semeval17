@@ -1,0 +1,14 @@
+1	Freedom	freedom	NN	pos2=NNP	4	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	expression	expression	NN	_	2	pobj	_	O
+4	continues	continue	VBZ	_	0	root	_	O
+5	to	to	TO	_	8	aux	_	O
+6	be	be	VB	_	8	auxpass	_	O
+7	severely	severely	RB	_	8	advmod	_	O
+8	violated	violate	VBN	_	4	xcomp	_	O
+9	in	in	IN	_	8	prep	_	O
+10	Yemen	yemen	NNP	_	9	pobj	_	U-GPE
+11	#yemen	#yemen	GW	pos2=POS	13	nmod	_	O
+12	#CIVICUSmonitor	#civicusmonitor	GW	pos2=ADD	13	nmod	_	O
+13	https://t.co/Xj5Rkg2oL5	#hlink#	ADD	pos2=NN	4	dep	_	O
+

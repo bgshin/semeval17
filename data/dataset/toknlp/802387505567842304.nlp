@@ -1,0 +1,14 @@
+1	Carol	carol	NNP	_	2	compound	_	B-PERSON
+2	Brady	brady	NNP	_	0	root	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	Castro	castro	NNP	_	2	conj	_	O
+5	&	&	CC	_	4	cc	_	O
+6	Leonard	leonard	NNP	_	7	compound	_	B-PERSON
+7	Cohen	cohen	NNP	_	4	conj	_	L-PERSON
+8	??	??	.	_	2	punct	_	O
+
+1	Coincidence	coincidence	NN	pos2=NNP	0	root	_	O
+2	.....	..	.	pos2=,	1	punct	_	O
+
+1	#Trump	#trump	NNP	pos2=XX	0	root	_	O
+

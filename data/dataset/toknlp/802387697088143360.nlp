@@ -1,0 +1,26 @@
+1	And	and	CC	_	3	cc	_	O
+2	we	we	PRP	_	3	nsubj	_	O
+3	're	be	VBP	_	0	root	_	O
+4	very	very	RB	_	5	advmod	_	O
+5	lucky	lucky	JJ	_	3	acomp	_	O
+6	that	that	IN	pos2=DT	9	mark	_	O
+7	Trump	trump	NNP	pos2=MD	9	nsubj	_	U-ORG
+8	not	not	RB	_	9	neg	_	O
+9	be	be	VB	_	5	ccomp	_	O
+10	able	able	JJ	_	9	acomp	_	O
+11	to	to	TO	_	12	aux	_	O
+12	go	go	VB	_	10	xcomp	_	O
+13	because	because	IN	_	16	mark	_	O
+14	he	he	PRP	_	16	nsubj	_	O
+15	's	's	VBZ	_	16	aux	_	O
+16	doing	do	VBG	_	12	advcl	_	O
+17	his	his	PRP$	_	18	poss	_	O
+18	transition	transition	NN	_	16	dobj	_	O
+19	so	so	IN	pos2=RB	23	mark	_	O
+20	we	we	PRP	_	23	nsubj	_	O
+21	wo	wo	MD	_	23	aux	_	O
+22	n't	not	RB	_	23	neg	_	O
+23	be	be	VB	_	3	advcl	_	O
+24	embarrassed	embarrassed	JJ	pos2=VBN	23	acomp	_	O
+25	https://t.co/pIEJBtEBVG	#hlink#	ADD	_	23	dep	_	U-ORG
+

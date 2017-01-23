@@ -1,0 +1,19 @@
+1	When	when	WRB	_	4	advmod	_	O
+2	Steve	steve	NNP	_	3	compound	_	B-PERSON
+3	Bannon	bannon	NNP	_	4	nsubj	_	L-PERSON
+4	watched	watch	VBD	_	10	advcl	_	O
+5	Mississippi	mississippi	NNP	_	6	compound	_	O
+6	Burning	burning	NNP	pos2=VBG	4	dobj	_	O
+7	,	,	,	_	10	punct	_	O
+8	did	do	VBD	_	10	aux	_	O
+9	he	he	PRP	pos2=DT	10	nsubj	_	O
+10	root	root	VB	pos2=NN	0	root	_	O
+11	for	for	IN	_	10	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	Klan	klan	NNP	_	11	pobj	_	U-ORG
+14	?	?	.	_	10	punct	_	O
+
+1	Just	just	RB	_	2	advmod	_	O
+2	curious	curious	JJ	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+

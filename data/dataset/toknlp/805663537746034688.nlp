@@ -1,0 +1,20 @@
+1	Cristiano	cristiano	NNP	_	7	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	7	compound	_	L-PERSON
+3	Vs	vs	NNP	pos2=IN	7	compound	_	O
+4	Zlatan	zlatan	NNP	_	7	compound	_	B-PERSON
+5	Ibrahimovic	ibrahimovic	NNP	_	7	compound	_	L-PERSON
+6	●	●	NNP	pos2=NFP	7	compound	_	O
+7	Battle	battle	NNP	_	19	dep	_	O
+8	For	for	IN	_	7	prep	_	O
+9	Best	good	JJS	pos2=NNP	10	nmod	_	O
+10	Goals	goal	NNS	_	8	pobj	_	O
+11	2015	0	CD	pos2=NFP	13	nmod	_	U-DATE
+12	||	||	HYPH	pos2=NNS	13	punct	_	O
+13	HD	hd	NN	_	14	compound	_	O
+14	||	||	:	pos2=NN	7	punct	_	O
+15	:	:	:	_	7	punct	_	O
+16	Best	good	JJS	_	17	nmod	_	O
+17	goals	goal	NNS	_	7	appos	_	O
+18	…	…	NFP	pos2=-LRB-	17	acl	_	O
+19	https://t.co/OTnp1VSyKx	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,15 @@
+1	Government	government	NN	pos2=NNP	0	root	_	O
+2	at	at	IN	_	1	prep	_	O
+3	odds	odds	NNS	_	2	pobj	_	O
+4	with	with	IN	_	3	prep	_	O
+5	itself	itself	PRP	_	4	pobj	_	O
+6	over	over	IN	pos2=RB	1	prep	_	O
+7	#Uber	#uber	NNP	_	6	pobj	_	U-GPE
+8	?	?	.	_	1	punct	_	O
+
+1	https://t.co/JyiZSTZjeB	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@DhakaTribune	@dhakatribune	NNP	pos2=ADD	4	compound	_	B-ORG
+4	#DT	#dt	NNP	pos2=ADD	2	pobj	_	I-ORG
+5	#BRTA	#brta	ADD	pos2=NN	2	pobj	_	L-ORG
+

@@ -1,0 +1,22 @@
+1	@jdforward	@jdforward	UH	pos2=VB	7	discourse	_	O
+2	Indeed	indeed	RB	pos2=NNP	7	advmod	_	O
+3	White	white	NNP	pos2=JJ	4	compound	_	B-ORG
+4	Supremacists	supremacist	NNPS	pos2=NNS	7	nsubjpass	_	L-ORG
+5	are	be	VBP	_	7	auxpass	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	#AltRight	#altright	VBN	pos2=RB	0	root	_	O
+8	anymore	anymore	RB	_	7	advmod	_	O
+9	...	..	.	pos2=,	7	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	Republicans	republican	NNPS	pos2=NNS	2	attr	_	U-NORP
+4	now	now	RB	_	2	advmod	_	O
+5	!	!	.	_	2	punct	_	O
+
+1	o	o	SYM	pos2=NN	3	punct	_	O
+2	/	/	SYM	pos2=HYPH	3	punct	_	O
+3	Hail	hail	NN	pos2=NNP	4	compound	_	O
+4	Victory	victory	NN	pos2=NNP	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+

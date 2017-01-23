@@ -1,0 +1,18 @@
+1	First	#ord#	RB	pos2=NNP	6	advmod	_	U-ORDINAL
+2	Leonard	leonard	NNP	_	3	compound	_	B-PERSON
+3	Cohen	cohen	NNP	_	0	root	_	L-PERSON
+4	and	and	CC	_	3	cc	_	O
+5	now	now	RB	_	6	advmod	_	O
+6	this	this	DT	_	3	conj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	2016	0	CD	pos2=LS	4	nsubj	_	U-DATE
+2	can	can	MD	_	4	aux	_	O
+3	totally	totally	RB	_	4	advmod	_	O
+4	get	get	VB	_	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	bin	bin	NNP	pos2=NN	9	nmod	_	O
+8	#yearsthatshouldgetinth	#yearsthatshouldgetinth	ADD	pos2=XX	9	punct	_	O
+9	ebinhttps://t.co/uYXpyfuLIE	#hlink#	ADD	_	5	pobj	_	U-GPE
+

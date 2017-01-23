@@ -1,0 +1,22 @@
+1	@Dwarfpoo	@dwarfpoo	NNP	pos2=UH	2	compound	_	U-ORG
+2	@NAInfidels	@nainfidels	NNS	pos2=ADD	3	nsubj	_	O
+3	@FrankChanged	@frankchanged	VBD	pos2=ADD	0	root	_	O
+4	@TruthIwant2	@truthiwant0	NN	pos2=NNS	5	compound	_	O
+5	@PrisonPlanet	@prisonplanet	NN	pos2=IN	3	dobj	_	O
+6	you	you	PRP	_	9	nsubj	_	O
+7	wo	wo	MD	_	9	aux	_	O
+8	n't	not	RB	_	9	neg	_	O
+9	mention	mention	VB	_	3	ccomp	_	O
+10	aid	aid	NN	pos2=VB	9	dobj	_	O
+11	to	to	IN	pos2=TO	9	prep	_	O
+12	#Hamas	#hamas	NNP	pos2=NNS	11	pobj	_	U-ORG
+13	,	,	,	_	12	punct	_	O
+14	supplies	supply	NNS	_	12	conj	_	O
+15	,	,	,	_	14	punct	_	O
+16	goods	good	NNS	_	14	conj	_	O
+17	,	,	,	_	16	punct	_	O
+18	electricity	electricity	NN	_	16	conj	_	O
+19	,	,	,	_	18	punct	_	O
+20	medical	medical	JJ	_	18	conj	_	O
+21	?	?	.	_	3	punct	_	O
+

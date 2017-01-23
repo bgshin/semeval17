@@ -1,0 +1,11 @@
+1	How	how	WRB	_	4	advmod	_	O
+2	can	can	MD	_	4	aux	_	O
+3	#Canada	#canada	NNP	pos2=PRP	4	nsubj	_	U-PERSON
+4	condone	condone	VB	_	0	root	_	O
+5	torture	torture	NN	_	4	dobj	_	O
+6	?	?	.	_	4	punct	_	O
+
+1	#UnitedNations	#unitednations	NNS	pos2=GW	3	nmod	_	O
+2	https://t.co/ToI9HU0xTM	#hlink#	ADD	_	3	nmod	_	O
+3	https://t.co/KafCFsDIfD	#hlink#	ADD	_	0	root	_	U-ORG
+

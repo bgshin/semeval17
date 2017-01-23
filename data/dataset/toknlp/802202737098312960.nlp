@@ -1,0 +1,15 @@
+1	One	#crd#	CD	_	3	nmod	_	U-CARDINAL
+2	splendid	splendid	JJ	_	3	nmod	_	O
+3	view	view	NN	_	4	nsubj	_	O
+4	inspires	inspire	VBZ	_	0	root	_	O
+5	15	0	CD	_	6	nmod	_	U-CARDINAL
+6	painters	painter	NNS	_	4	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	#Jerusalem	#jerusalem	NNP	pos2=NFP	7	pobj	_	O
+9	https://t.co/ax1LwBo16Z	#hlink#	ADD	_	14	nmod	_	O
+10	via	via	IN	_	4	prep	_	O
+11	@israel21c	@israel0c	NN	pos2=CD	10	pobj	_	O
+12	#art	#art	GW	pos2=UH	14	nmod	_	O
+13	#painting	#painting	VBG	pos2=GW	14	nmod	_	O
+14	https://t.co/PGTqaE3a22	#hlink#	ADD	pos2=NN	4	dep	_	O
+

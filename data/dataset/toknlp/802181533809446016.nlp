@@ -1,0 +1,9 @@
+1	Opening	open	VBG	pos2=NN	8	nmod	_	O
+2	de	de	NNP	pos2=NN	6	compound	_	B-PERSON
+3	Ricky	ricky	NNP	_	6	compound	_	I-PERSON
+4	Martin	martin	NNP	_	6	compound	_	L-PERSON
+5	🎶💥@laliespos	🎶💥@laliespos	NNP	pos2=POS	6	compound	_	O
+6	💞	💞	NNP	pos2=NFP	1	dobj	_	O
+7	#LaliEnMexico	#lalienmexico	ADD	pos2=GW	8	dep	_	O
+8	https://t.co/gTMSKEKJZj	#hlink#	ADD	_	0	root	_	O
+

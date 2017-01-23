@@ -1,0 +1,26 @@
+1	There	there	EX	_	4	expl	_	O
+2	has	have	VBZ	_	4	aux	_	O
+3	not	not	RB	_	4	neg	_	O
+4	been	be	VBN	_	0	root	_	O
+5	one	#crd#	CD	_	7	nmod	_	O
+6	reported	report	VBN	_	7	nmod	_	O
+7	case	case	NN	_	4	attr	_	O
+8	of	of	IN	_	7	prep	_	O
+9	voter	voter	NN	_	10	compound	_	O
+10	suppression	suppression	NN	_	8	pobj	_	O
+11	during	during	IN	_	7	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	general	general	JJ	_	14	nmod	_	O
+14	election	election	NN	_	11	pobj	_	O
+15	here	here	RB	_	14	advmod	_	O
+16	in	in	IN	_	15	prep	_	O
+17	AZ	az	NNP	pos2=NN	16	pobj	_	U-ORG
+18	.	.	.	_	4	punct	_	O
+
+1	Is	be	VBZ	_	0	root	_	O
+2	any	any	DT	_	3	det	_	O
+3	evidence	evidence	NN	_	1	nsubj	_	O
+4	g	g	IN	pos2=GW	3	prep	_	O
+5	…	…	NFP	pos2=-LRB-	6	punct	_	O
+6	https://t.co/OGV93cSLwl	#hlink#	ADD	pos2=NN	3	acl	_	O
+

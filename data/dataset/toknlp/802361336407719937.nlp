@@ -1,0 +1,24 @@
+1	@Vxwxg33ZsGp6i6I	@vxwxg0zsgp0i0i	NN	pos2=NNS	2	nsubj	_	O
+2	Protest	protest	VB	pos2=NN	0	root	_	O
+3	to	to	IN	_	2	prep	_	O
+4	Obama	obama	NNP	_	5	compound	_	B-PERSON
+5	Admin	admin	NNP	pos2=NN	3	pobj	_	L-PERSON
+6	.	.	.	_	2	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	country	country	NN	_	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	crisis	crisis	NN	_	3	pobj	_	O
+5	&	&	CC	_	2	cc	_	O
+6	polarized	polarize	VBN	pos2=NN	2	conj	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	hve	hve	VBP	_	3	aux	_	O
+3	Am	be	VBP	pos2=VBN	0	root	_	O
+4	Indian	indian	JJ	_	5	nmod	_	U-NORP
+5	heritage	heritage	NN	_	3	attr	_	O
+6	,	,	,	_	3	punct	_	O
+7	too	too	RB	_	3	advmod	_	O
+8	.	.	.	_	3	punct	_	O
+

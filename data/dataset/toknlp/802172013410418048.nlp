@@ -1,0 +1,17 @@
+1	📉@Olacabs	📉@olacabs	NNP	pos2=NNS	2	nsubj	_	U-PERSON
+2	Said	say	VBD	pos2=NNP	0	root	_	O
+3	to	to	TO	pos2=IN	5	aux	_	O
+4	Be	be	VB	_	5	aux	_	O
+5	Seeking	seek	VBG	pos2=NNP	2	xcomp	_	O
+6	Funds	fund	NNS	pos2=NNPS	5	dobj	_	O
+7	at	at	IN	_	5	prep	_	O
+8	40	0	CD	_	9	nmod	_	B-PERCENT
+9	%	%	NN	_	10	npadvmod	_	L-PERCENT
+10	Lower	lower	JJ	pos2=JJR	11	nmod	_	O
+11	Value	value	NN	_	13	dep	_	O
+12	-	-	:	pos2=HYPH	13	punct	_	O
+13	https://t.co/ULb3QDbr6N	#hlink#	ADD	_	16	nmod	_	O
+14	#india	#india	-RRB-	pos2=IN	13	punct	_	O
+15	#uber	#uber	-RRB-	pos2=UH	13	punct	_	O
+16	#ola	#ola	UH	pos2=NN	2	discourse	_	O
+

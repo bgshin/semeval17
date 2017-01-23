@@ -1,0 +1,21 @@
+1	@hoompa121	@hoompa0	NN	pos2=UH	0	root	_	O
+2	@pedershk	@pedershk	UH	pos2=XX	1	discourse	_	O
+3	@PolSigher	@polsigher	JJR	pos2=NN	4	nmod	_	O
+4	@WI_Elections	@wi_elections	NNS	pos2=ADD	8	mark	_	O
+5	many	many	JJ	pos2=DT	8	nsubj	_	O
+6	did	do	VBD	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	vote	vote	VB	_	1	relcl	_	O
+9	GOP	gop	NNP	pos2=NN	8	dobj	_	U-ORG
+10	because	because	IN	_	12	mark	_	O
+11	they	they	PRP	_	12	nsubj	_	O
+12	wanted	want	VBD	_	1	advcl	_	O
+13	a	a	DT	_	14	det	_	O
+14	plan	plan	NN	_	12	dobj	_	O
+15	for	for	IN	_	14	prep	_	O
+16	social	social	JJ	_	17	nmod	_	O
+17	security	security	NN	pos2=NNP	15	pobj	_	O
+18	and	and	CC	_	17	cc	_	O
+19	jobs	job	NNS	_	17	conj	_	O
+20	.	.	.	_	1	punct	_	O
+

@@ -1,0 +1,18 @@
+1	@hiramboyd	@hiramboyd	UH	pos2=IN	4	discourse	_	O
+2	they	they	PRP	_	4	nsubj	_	O
+3	are	be	VBP	_	4	aux	_	O
+4	looking	look	VBG	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	trade	trade	VB	pos2=NN	4	xcomp	_	O
+7	for	for	IN	_	6	prep	_	O
+8	Sale	sale	NN	pos2=NNP	7	pobj	_	O
+9	or	or	CC	_	8	cc	_	O
+10	Verlander	verlander	NNP	_	8	conj	_	U-PERSON
+11	.	.	.	_	4	punct	_	O
+
+1	Their	their	PRP$	_	2	poss	_	O
+2	farm	farm	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	deep	deep	JJ	pos2=RB	3	acomp	_	O
+5	...	..	.	pos2=,	3	punct	_	O
+

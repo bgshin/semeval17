@@ -1,0 +1,17 @@
+1	#Spurs	#spurs	NNS	pos2=VBZ	2	nsubj	_	O
+2	#GoSpursGo	#gospursgo	VBD	pos2=VBP	0	root	_	O
+3	1997	0	CD	_	4	nmod	_	U-DATE
+4	SP	sp	NN	pos2=NNP	1	appos	_	O
+5	Authentic	authentic	JJ	_	6	nmod	_	O
+6	#	#	NN	_	14	dep	_	O
+7	128	0	CD	pos2=LS	6	nmod	_	U-MONEY
+8	Tim	tim	NNP	_	12	compound	_	B-ORG
+9	Duncan	duncan	NNP	_	12	compound	_	I-ORG
+10	RC	rc	NNP	pos2=NN	12	compound	_	I-ORG
+11	Rookie	rookie	NNP	pos2=NN	12	compound	_	I-ORG
+12	BGS	bgs	NNP	pos2=NN	14	dep	_	L-ORG
+13	9.5	0	CD	_	14	dep	_	U-CARDINAL
+14	https://t.co/k3JlEjbHnN	#hlink#	ADD	_	16	nmod	_	O
+15	#TimDuncan	#timduncan	ADD	pos2=-RRB-	0	root	_	U-ORG
+16	#NBA	#nba	NN	pos2=ADD	15	pobj	_	O
+

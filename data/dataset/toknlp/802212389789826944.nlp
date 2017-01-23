@@ -1,0 +1,35 @@
+1	@petestavros	@petestavros	UH	pos2=NNS	4	discourse	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	was	be	VBD	_	4	aux	_	O
+4	responding	respond	VBG	_	0	root	_	O
+5	to	to	TO	pos2=IN	7	aux	_	O
+6	"	"	``	_	7	punct	_	O
+7	Do	do	VB	_	4	xcomp	_	O
+8	better	good	JJR	pos2=RBR	7	advmod	_	O
+9	,	,	,	_	7	punct	_	O
+10	be	be	VB	_	7	conj	_	O
+11	better	good	JJR	pos2=RBR	10	acomp	_	O
+12	"	"	''	_	7	punct	_	O
+13	.	.	.	_	4	punct	_	O
+
+1	This	this	DT	_	2	det	_	B-DATE
+2	year	year	NN	_	4	npadvmod	_	L-DATE
+3	I	I	PRP	_	4	nsubj	_	O
+4	thnk	thnk	VBP	_	0	root	_	O
+5	she	she	PRP	_	6	nsubj	_	O
+6	deviated	deviate	VBD	pos2=VBN	4	ccomp	_	O
+7	fm	fm	FW	pos2=IN	6	advmod	_	O
+8	that	that	DT	pos2=WDT	6	dobj	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	Will	will	MD	_	2	aux	_	O
+2	read	read	VB	_	0	root	_	O
+3	fm	fm	FW	pos2=DT	4	compound	_	O
+4	library	library	NN	pos2=FW	2	dobj	_	O
+5	,	,	,	_	2	punct	_	O
+6	tks	tks	NNS	pos2=JJ	7	compound	_	O
+7	tho	tho	NN	pos2=RB	2	punct	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	@megynkelly	@megynkelly	UH	pos2=RB	0	root	_	O
+

@@ -1,0 +1,14 @@
+1	NATIONAL	national	JJ	pos2=NNP	4	nmod	_	O
+2	MINIMUM	minimum	JJ	pos2=NNP	4	nmod	_	O
+3	WAGE	wage	NN	_	4	compound	_	O
+4	PROPOSAL	proposal	NN	pos2=NNP	0	root	_	O
+5	IN	in	IN	_	4	prep	_	O
+6	LINE	line	NN	_	5	pobj	_	O
+7	WITH	with	IN	_	6	prep	_	O
+8	SIMILAR	similar	JJ	_	9	nmod	_	O
+9	ECONOMIES	economy	NNS	_	7	pobj	_	O
+10	-	-	:	pos2=,	4	punct	_	O
+11	https://t.co/PrqRDlIlBf	#hlink#	ADD	pos2=NN	4	acl	_	O
+12	via	via	IN	_	4	prep	_	O
+13	@BDliveSA	@bdlivesa	NN	pos2=NNP	12	pobj	_	O
+

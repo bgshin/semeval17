@@ -1,0 +1,20 @@
+1	Omg	omg	NNP	pos2=UH	4	vocative	_	O
+2	i	I	PRP	_	4	nsubj	_	O
+3	'm	be	VBP	_	4	aux	_	O
+4	watching	watch	VBG	_	0	root	_	O
+5	legally	legally	RB	_	6	advmod	_	O
+6	blonde	blonde	JJ	pos2=RB	4	ccomp	_	O
+7	too	too	RB	_	4	advmod	_	O
+8	n	n	IN	pos2=RB	10	mark	_	O
+9	it	it	PRP	_	10	nsubj	_	O
+10	's	's	VBZ	_	4	advcl	_	O
+11	about	about	IN	pos2=RB	10	prep	_	O
+12	animal	animal	NN	_	13	compound	_	O
+13	testing	testing	NN	_	11	pobj	_	O
+14	i	I	PRP	_	17	nsubj	_	O
+15	do	do	VBP	_	17	aux	_	O
+16	n't	not	RB	_	17	neg	_	O
+17	fuckin	fuckin	VB	pos2=NN	13	relcl	_	O
+18	want	want	VB	_	17	xcomp	_	O
+19	this	this	DT	_	18	dobj	_	O
+

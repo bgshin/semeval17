@@ -1,0 +1,17 @@
+1	Loved	love	VBD	pos2=VBN	0	root	_	O
+2	your	your	PRP$	_	3	poss	_	O
+3	article	article	NN	_	1	dobj	_	O
+4	on	on	IN	_	3	prep	_	O
+5	#thepool	#thepool	NNP	pos2=UH	6	compound	_	O
+6	@HackneyDoula	@hackneydoula	NNP	pos2=TO	4	pobj	_	O
+7	especially	especially	RB	_	15	advmod	_	O
+8	the	the	DT	_	15	det	_	O
+9	"	"	``	_	13	punct	_	O
+10	what	what	WP	_	13	dobj	_	O
+11	can	can	MD	_	13	aux	_	O
+12	you	you	PRP	_	13	nsubj	_	O
+13	do	do	VB	_	15	nmod	_	O
+14	"	"	''	pos2=``	13	punct	_	O
+15	section	section	NN	_	0	root	_	O
+16	https://t.co/tvmlFVuCzE	#hlink#	ADD	pos2=NN	15	nmod	_	O
+

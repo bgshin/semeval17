@@ -1,0 +1,18 @@
+1	#NoDAPL	#nodapl	XX	pos2=UH	4	dep	_	O
+2	#CorporateGreed	#corporategreed	XX	pos2=ADD	4	dep	_	O
+3	#corporations	#corporations	NNS	pos2=XX	4	attr	_	O
+4	are	be	VBP	_	0	root	_	O
+5	#evil	#evil	EX	pos2=XX	4	expl	_	O
+6	especially	especially	RB	_	9	advmod	_	O
+7	the	the	DT	_	9	det	_	O
+8	media	medium	NNS	pos2=NN	9	compound	_	O
+9	#corporations	#corporations	NNS	pos2=NNPS	4	attr	_	O
+10	#tpp	#tpp	UH	pos2=IN	9	discourse	_	O
+11	#TrumpTrain	#trumptrain	VBP	pos2=ADD	9	relcl	_	O
+12	#bravo	#bravo	UH	pos2=FW	9	discourse	_	O
+13	#cnn	#cnn	UH	pos2=FW	9	discourse	_	O
+14	#foxnews	#foxnews	UH	pos2=FW	9	discourse	_	O
+15	#soulless	#soulless	UH	pos2=FW	9	discourse	_	O
+16	#wrong	#wrong	UH	pos2=FW	9	discourse	_	O
+17	😣	😣	UH	pos2=.	9	discourse	_	O
+

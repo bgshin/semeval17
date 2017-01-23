@@ -1,0 +1,8 @@
+1	@AlohoNorah	@alohonorah	UH	pos2=NNP	2	discourse	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	it	it	PRP	_	2	nsubj	_	O
+4	de	de	NNP	pos2=DT	6	compound	_	B-ORG
+5	Galaxy	galaxy	NNP	_	6	compound	_	L-ORG
+6	Note	note	NNP	pos2=VBP	2	attr	_	O
+7	7	0	CD	_	6	nmod	_	U-CARDINAL
+

@@ -1,0 +1,25 @@
+1	Before	before	IN	_	5	mark	_	O
+2	Stephen	stephen	NNP	_	3	compound	_	B-PERSON
+3	Bannon	bannon	NNP	_	5	nsubj	_	L-PERSON
+4	was	be	VBD	_	5	aux	_	O
+5	masterminding	mastermind	VBG	_	16	advcl	_	O
+6	Donald	donald	NNP	_	7	compound	_	B-PERSON
+7	Trump	trump	NNP	_	9	poss	_	I-PERSON
+8	’s	's	POS	_	7	case	_	L-PERSON
+9	way	way	NN	_	5	dobj	_	O
+10	into	into	IN	_	9	prep	_	O
+11	the	the	DT	_	13	det	_	B-ORG
+12	White	white	NNP	_	13	compound	_	I-ORG
+13	House	house	NNP	_	10	pobj	_	L-ORG
+14	,	,	,	_	16	punct	_	O
+15	he	he	PRP	_	16	nsubj	_	O
+16	tried	try	VBD	_	0	root	_	O
+17	to	to	TO	_	18	aux	_	O
+18	put	put	VB	_	16	xcomp	_	O
+19	Sarah	sarah	NNP	_	20	compound	_	B-PERSON
+20	Palin	palin	NNP	_	18	dobj	_	L-PERSON
+21	there	there	RB	_	18	advmod	_	O
+22	.	.	.	_	16	punct	_	O
+
+1	https://t.co/JMJeahsiEX	#hlink#	ADD	_	0	root	_	U-ORG
+

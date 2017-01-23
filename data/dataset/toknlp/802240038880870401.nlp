@@ -1,0 +1,20 @@
+1	Told	tell	VBD	pos2=VB	0	root	_	O
+2	her	her	PRP	pos2=PRP$	5	nsubj	_	O
+3	do	do	VB	pos2=VBP	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	come	come	VB	_	1	ccomp	_	O
+6	for	for	IN	_	5	prep	_	O
+7	me	me	PRP	_	6	pobj	_	O
+8	because	because	IN	_	12	mark	_	O
+9	she	she	PRP	_	12	nsubj	_	O
+10	would	would	MD	_	12	aux	_	O
+11	n't	not	RB	_	12	neg	_	O
+12	be	be	VB	_	5	advcl	_	O
+13	able	able	JJ	_	12	acomp	_	O
+14	to	to	TO	_	15	aux	_	O
+15	find	find	VB	_	13	xcomp	_	O
+16	me	me	PRP	_	15	dobj	_	O
+17	!!!	!!	.	_	1	punct	_	O
+
+1	#IAmTheTruth	#iamthetruth	NN	pos2=ADD	0	root	_	O
+

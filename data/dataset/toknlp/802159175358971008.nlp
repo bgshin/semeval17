@@ -1,0 +1,17 @@
+1	Here	here	RB	_	2	advmod	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	how	how	WRB	_	8	advmod	_	O
+4	a	a	DT	_	5	det	_	O
+5	billionaire	billionaire	NN	_	8	nsubj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	Spain	spain	NNP	_	6	pobj	_	U-GPE
+8	thanked	thank	VBD	_	2	ccomp	_	O
+9	his	his	PRP$	_	10	poss	_	O
+10	community	community	NN	_	8	dobj	_	O
+11	for	for	IN	_	8	prep	_	O
+12	his	his	PRP$	_	13	poss	_	O
+13	success	success	NN	pos2=GW	11	pobj	_	O
+14	#UniteBlue	#uniteblue	GW	pos2=IN	13	prep	_	O
+15	https://t.co/hWB3mTNKMn	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/Jelf0pA8kh	#hlink#	ADD	_	13	appos	_	U-ORG
+

@@ -1,0 +1,25 @@
+1	@jackmcapn	@jackmcapn	UH	pos2=XX	2	discourse	_	O
+2	@ThomasWictor	@thomaswictor	VB	pos2=UH	0	root	_	O
+3	@TheFoundingSon	@thefoundingson	NNP	pos2=ADD	2	dobj	_	O
+4	yes	yes	UH	_	2	discourse	_	O
+5	,	,	,	_	2	punct	_	O
+6	and	and	CC	_	2	cc	_	O
+7	as	as	IN	_	11	prep	_	O
+8	a	a	DT	_	9	det	_	O
+9	jew	jew	NN	pos2=NNP	7	pobj	_	O
+10	i	I	PRP	_	11	nsubj	_	O
+11	'm	be	VBP	_	2	conj	_	O
+12	shocked	shocked	JJ	pos2=VBN	11	acomp	_	O
+13	at	at	IN	_	12	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	number	number	NN	_	13	pobj	_	O
+16	of	of	IN	_	15	prep	_	O
+17	#lgbtq	#lgbtq	NNP	pos2=PRP	16	pobj	_	U-ORG
+18	's	's	POS	pos2=AFX	17	case	_	O
+19	who	who	WP	_	20	nsubj	_	O
+20	support	support	VBP	pos2=NN	18	relcl	_	O
+21	#hamas	#hamas	NNS	pos2=XX	20	dobj	_	O
+22	on	on	IN	pos2=RB	20	prep	_	O
+23	here	here	RB	_	22	pcomp	_	O
+24	.	.	.	_	11	punct	_	O
+

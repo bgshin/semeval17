@@ -1,0 +1,22 @@
+1	@DelGirlsHoops	@delgirlshoops	NNS	pos2=VBZ	2	compound	_	O
+2	@thedickflowers	@thedickflowers	NNS	pos2=UH	13	nsubj	_	O
+3	@GeorgeTakei	@georgetakei	VBG	pos2=VBD	2	acl	_	O
+4	The	the	DT	_	8	det	_	O
+5	50	0	CD	_	7	nmod	_	B-DATE
+6	+	+	SYM	pos2=HYPH	5	punct	_	I-DATE
+7	year	year	NN	_	8	compound	_	L-DATE
+8	embargo	embargo	NN	_	3	dobj	_	O
+9	against	against	IN	_	8	prep	_	O
+10	Cuba	cuba	NNP	_	9	pobj	_	U-GPE
+11	has	have	VBZ	_	13	aux	_	O
+12	not	not	RB	_	13	neg	_	O
+13	improved	improve	VBN	pos2=JJ	0	root	_	O
+14	or	or	CC	_	13	cc	_	O
+15	changed	change	VBN	pos2=VBD	13	conj	_	O
+16	anything	anything	NN	_	15	dobj	_	O
+17	for	for	IN	_	15	prep	_	O
+18	the	the	DT	_	20	det	_	O
+19	Cuban	cuban	JJ	_	20	nmod	_	U-NORP
+20	people	people	NNS	_	17	pobj	_	O
+21	.	.	.	_	13	punct	_	O
+

@@ -1,0 +1,8 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	just	just	RB	_	5	advmod	_	O
+4	too	too	RB	_	5	advmod	_	O
+5	perfect	perfect	JJ	_	6	nmod	_	O
+6	@mcsweeneys	@mcsweeneys	NNS	pos2=GW	2	attr	_	O
+7	https://t.co/r0oZUU6kdC	#hlink#	ADD	_	2	dep	_	O
+

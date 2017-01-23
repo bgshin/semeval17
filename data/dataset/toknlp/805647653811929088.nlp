@@ -1,0 +1,20 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=ADD	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	from	from	IN	_	5	prep	_	O
+7	@davis_allegra	@davis_allegra	NNP	pos2=ADD	6	pobj	_	U-GPE
+8	https://t.co/FhXAzurAWu	#hlink#	ADD	pos2=NNP	7	appos	_	O
+9	What	what	WP	pos2=WDT	11	dobj	_	O
+10	I	I	PRP	_	11	nsubj	_	O
+11	Think	think	VBP	_	8	ccomp	_	O
+12	About	about	IN	pos2=RB	11	prep	_	O
+13	:	:	:	_	12	punct	_	O
+14	Gay	gay	NNP	pos2=JJ	18	compound	_	O
+15	Marriage	marriage	NN	pos2=NNP	17	nmod	_	O
+16	/	/	SYM	pos2=,	17	punct	_	O
+17	LGBT	lgbt	NN	pos2=NNP	18	compound	_	O
+18	Rights	right	NNS	pos2=NNPS	12	pobj	_	O
+19	!	!	.	_	2	punct	_	O
+

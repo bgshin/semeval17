@@ -1,0 +1,8 @@
+1	@KremlinTrolls	@kremlintrolls	NNS	pos2=ADD	4	attr	_	O
+2	@noclador	@noclador	UH	pos2=IN	1	discourse	_	O
+3	that	that	DT	pos2=WDT	4	nsubj	_	O
+4	was	be	VBD	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	gift	gift	NN	_	4	attr	_	O
+7	probably	probably	RB	_	4	advmod	_	O
+

@@ -1,0 +1,23 @@
+1	@LindaOrinda	@lindaorinda	ADD	pos2=NN	5	punct	_	O
+2	@politico	@politico	UH	pos2=IN	5	discourse	_	O
+3	@KellyannePolls	@kellyannepolls	NNS	pos2=UH	5	discourse	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	guess	guess	VBP	_	0	root	_	O
+6	history	history	NN	_	7	nsubj	_	O
+7	treats	treat	VBZ	_	5	ccomp	_	O
+8	slaves	slave	NNS	_	7	dobj	_	O
+9	&	&	CC	_	8	cc	_	O
+10	liberals	liberal	NNS	_	8	conj	_	O
+11	as	as	IN	_	7	prep	_	O
+12	less	less	JJR	_	14	qmod	_	O
+13	than	than	IN	_	14	qmod	_	O
+14	one	#crd#	CD	_	15	nmod	_	U-CARDINAL
+15	person	person	NN	_	11	pobj	_	O
+16	,	,	,	_	7	punct	_	O
+17	or	or	CC	_	7	cc	_	O
+18	the	the	DT	_	20	det	_	O
+19	electoral	electoral	JJ	_	20	nmod	_	O
+20	college	college	NN	_	22	nsubj	_	O
+21	is	be	VBZ	_	22	aux	_	O
+22	working	work	VBG	_	7	conj	_	O
+

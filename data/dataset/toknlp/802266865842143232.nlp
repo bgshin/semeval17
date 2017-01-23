@@ -1,0 +1,16 @@
+1	Boston	boston	NNP	_	2	nsubj	_	U-GPE
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	6	det	_	O
+4	next	next	JJ	_	6	nmod	_	O
+5	major	major	JJ	_	6	nmod	_	O
+6	city	city	NN	_	2	attr	_	O
+7	to	to	TO	_	8	aux	_	O
+8	see	see	VB	_	6	relcl	_	O
+9	self-driving	self-driving	JJ	_	10	nmod	_	O
+10	cars	car	NNS	_	8	dobj	_	O
+11	(	(	-LRB-	_	2	punct	_	O
+12	via	via	IN	_	2	prep	_	O
+13	@DigitalJournal	@digitaljournal	JJ	pos2=GW	12	pobj	_	O
+14	)	)	-RRB-	_	2	punct	_	O
+15	https://t.co/gFLUSNPCzC	#hlink#	ADD	pos2=NN	12	pobj	_	O
+

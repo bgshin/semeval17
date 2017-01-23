@@ -1,0 +1,16 @@
+1	Any	any	DT	_	2	det	_	O
+2	comment	comment	NN	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	@jeremycorbyn	@jeremycorbyn	UH	pos2=GW	11	discourse	_	O
+2	@theresa_may	@theresa_may	GW	pos2=-LRB-	11	punct	_	O
+3	https://t.co/ZiuFl3YFsr	#hlink#	ADD	_	11	dep	_	B-ORG
+4	#Syria	#syria	NNP	pos2=-RRB-	5	compound	_	I-ORG
+5	#Aleppo	#aleppo	NNP	pos2=FW	11	dep	_	I-ORG
+6	#WhiteHelmets	#whitehelmets	ADD	pos2=NNPS	11	dep	_	I-ORG
+7	#Tories	#tories	NNP	pos2=NNS	10	compound	_	I-ORG
+8	#Labour	#labour	NNP	pos2=PRP$	10	compound	_	I-ORG
+9	#Iraq	#iraq	NNP	pos2=ADD	10	compound	_	I-ORG
+10	#Libya	#libya	NNP	pos2=POS	11	dep	_	L-ORG
+11	@RTUKnews	@rtuknews	ADD	pos2=NNP	0	root	_	O
+

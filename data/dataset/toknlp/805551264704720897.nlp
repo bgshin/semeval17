@@ -1,0 +1,26 @@
+1	@FelixTheHuman28	@felixthehuman0	NN	pos2=ADD	2	compound	_	O
+2	Vegetarianism	vegetarianism	NNP	pos2=NN	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	better	good	JJR	_	3	acomp	_	O
+5	for	for	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	planet	planet	NN	_	5	pobj	_	O
+8	and	and	CC	_	3	cc	_	O
+9	that	that	DT	_	10	nsubj	_	O
+10	's	's	VBZ	_	3	conj	_	O
+11	why	why	WRB	_	13	advmod	_	O
+12	I	I	PRP	_	13	nsubj	_	O
+13	resent	resent	VBP	pos2=VB	10	ccomp	_	O
+14	it	it	PRP	_	13	dobj	_	O
+15	.	.	.	_	10	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	makes	make	VBZ	_	0	root	_	O
+3	me	me	PRP	_	4	nsubj	_	O
+4	face	face	VB	_	2	ccomp	_	O
+5	up	up	RP	pos2=IN	4	prt	_	O
+6	to	to	IN	_	4	prep	_	O
+7	my	my	PRP$	_	9	poss	_	O
+8	own	own	JJ	_	9	nmod	_	O
+9	hypocracy	hypocracy	NN	_	6	pobj	_	O
+

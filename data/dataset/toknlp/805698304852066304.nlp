@@ -1,0 +1,19 @@
+1	Great	great	JJ	pos2=RB	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	see	see	VB	_	1	advcl	_	O
+4	@KZapponeTD	@kzapponetd	JJ	pos2=XX	5	nmod	_	O
+5	talk	talk	NN	pos2=VB	7	nmod	_	O
+6	positive	positive	JJ	_	7	nmod	_	O
+7	rights	right	NNS	_	3	dobj	_	O
+8	to	to	IN	_	7	prep	_	O
+9	reproductive	reproductive	JJ	_	14	nmod	_	O
+10	autonomy	autonomy	NN	_	12	npadvmod	_	O
+11	-	-	HYPH	pos2=:	12	punct	_	O
+12	enabling	enable	VBG	_	14	nmod	_	O
+13	meaningful	meaningful	JJ	_	14	nmod	_	O
+14	access	access	NN	_	8	pobj	_	O
+15	will	will	MD	_	16	aux	_	O
+16	be	be	VB	_	13	dep	_	O
+17	key	key	JJ	pos2=GW	16	acomp	_	O
+18	https://t.co/WWEvOK8bb9	#hlink#	ADD	pos2=NN	16	dep	_	O
+

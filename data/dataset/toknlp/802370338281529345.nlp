@@ -1,0 +1,16 @@
+1	TPP	tpp	NN	pos2=RB	2	nsubj	_	O
+2	meaningless	meaningless	JJ	pos2=RB	0	root	_	O
+3	without	without	IN	_	2	prep	_	O
+4	America	america	NNP	_	3	pobj	_	U-GPE
+5	according	accord	VBG	_	2	prep	_	O
+6	to	to	IN	_	5	prep	_	O
+7	Shinzo	shinzo	NNP	_	10	compound	_	B-PERSON
+8	Abe	abe	NNP	_	10	compound	_	I-PERSON
+9	-	-	HYPH	pos2=:	10	punct	_	I-PERSON
+10	PM	pm	NNP	pos2=NN	6	pobj	_	L-PERSON
+11	of	of	IN	_	10	prep	_	O
+12	Japan	japan	NNP	_	11	pobj	_	U-GPE
+13	.	.	.	_	2	punct	_	O
+
+1	https://t.co/yxkySjHw8I	#hlink#	ADD	_	0	root	_	U-ORG
+

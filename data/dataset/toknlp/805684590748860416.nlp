@@ -1,0 +1,24 @@
+1	@BlessedTex	@blessedtex	NN	pos2=UH	4	npadvmod	_	O
+2	she	she	PRP	_	4	nsubj	_	O
+3	'd	have	VBD	pos2=MD	4	aux	_	O
+4	claimed	claim	VBN	_	0	root	_	O
+5	Thomistic	thomistic	JJ	_	6	nmod	_	O
+6	view	view	NN	_	4	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	ensoulment	ensoulment	NN	_	7	pobj	_	O
+9	showed	show	VBD	_	4	conj	_	O
+10	church	church	NN	_	12	poss	_	O
+11	's	's	POS	_	10	case	_	O
+12	oppositon	oppositon	NN	_	9	dobj	_	O
+13	to	to	IN	_	12	prep	_	O
+14	abortion	abortion	NN	_	13	pobj	_	O
+15	is	be	VBZ	_	4	ccomp	_	O
+16	recent	recent	JJ	_	17	nmod	_	O
+17	develpmnt	develpmnt	NN	pos2=RB	15	attr	_	O
+18	&	&	CC	_	17	cc	_	O
+19	Benedict	benedict	NNP	_	17	conj	_	U-PERSON
+20	was	be	VBD	_	22	aux	_	O
+21	n't	not	RB	_	22	neg	_	O
+22	having	have	VBG	_	18	dep	_	O
+23	it	it	PRP	_	22	dobj	_	O
+

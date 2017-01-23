@@ -1,0 +1,22 @@
+1	one	#crd#	CD	_	2	nmod	_	U-CARDINAL
+2	thing	thing	NN	_	9	nsubj	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	learned	learn	VBD	_	2	relcl	_	O
+5	this	this	DT	_	8	det	_	O
+6	past	past	JJ	pos2=NN	8	nmod	_	O
+7	week:social	week:social	JJ	pos2=POS	8	nmod	_	O
+8	media	medium	NNS	pos2=NN	9	nsubj	_	O
+9	is	be	VBZ	_	0	root	_	O
+10	woke	woke	JJ	pos2=VBN	9	acomp	_	O
+11	to	to	IN	_	10	prep	_	O
+12	how	how	WRB	_	13	advmod	_	O
+13	detrimental	detrimental	JJ	_	15	nmod	_	O
+14	white	white	JJ	_	15	nmod	_	O
+15	supremacists	supremacist	NNS	_	16	nsubj	_	O
+16	are	be	VBP	_	11	pcomp	_	O
+17	to	to	IN	_	16	prep	_	O
+18	the	the	DT	_	19	det	_	O
+19	growth	growth	NN	_	17	pobj	_	O
+20	of	of	IN	_	19	prep	_	O
+21	America	america	NNP	_	20	pobj	_	U-GPE
+

@@ -1,0 +1,19 @@
+1	Proud	proud	JJ	_	0	root	_	O
+2	to	to	TO	pos2=IN	3	aux	_	O
+3	support	support	VB	pos2=NN	1	xcomp	_	O
+4	#UnitedNations	#unitednations	ADD	pos2=IN	7	nmod	_	O
+5	International	international	NNP	pos2=JJ	6	compound	_	B-EVENT
+6	Campaign	campaign	NNP	pos2=NN	7	compound	_	I-EVENT
+7	day	day	NN	_	3	dobj	_	L-EVENT
+8	for	for	IN	_	3	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	Elimination	elimination	NNP	pos2=NN	8	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	Violence	violence	NNP	pos2=NN	11	pobj	_	O
+13	against	against	IN	_	10	prep	_	O
+14	Women	women	NNP	pos2=NNPS	13	pobj	_	O
+15	.	.	.	_	1	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/IRoBHxwPOO	#hlink#	ADD	pos2=NN	0	root	_	O
+

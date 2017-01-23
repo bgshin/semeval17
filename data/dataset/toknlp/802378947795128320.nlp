@@ -1,0 +1,28 @@
+1	Michael	michael	NNP	_	2	compound	_	B-PERSON
+2	Moore	moore	NNP	_	4	nmod	_	L-PERSON
+3	/	/	SYM	pos2=HYPH	4	punct	_	O
+4	Hillary	hillary	NNP	pos2=NN	8	dep	_	U-PERSON
+5	:	:	:	_	8	punct	_	O
+6	Complete	complete	JJ	pos2=VB	8	nmod	_	O
+7	liberal	liberal	JJ	pos2=NN	8	nmod	_	O
+8	lies	lie	NNS	_	0	root	_	O
+9	and	and	CC	_	8	cc	_	O
+10	distraction	distraction	NN	_	8	conj	_	O
+11	.	.	.	_	8	punct	_	O
+
+1	Conspiracy	conspiracy	NN	pos2=NNP	0	root	_	O
+2	,	,	,	_	1	punct	_	O
+3	Racketeering	racketeering	NN	pos2=NNP	1	conj	_	O
+4	,	,	,	_	3	punct	_	O
+5	Treason	treason	NN	pos2=NNP	3	conj	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	"	"	``	_	6	punct	_	O
+2	What	what	WDT	_	3	det	_	O
+3	difference	difference	NN	_	6	dobj	_	O
+4	does	do	VBZ	_	6	aux	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	make	make	VB	_	0	root	_	O
+7	"	"	''	_	6	punct	_	O
+8	?	?	.	_	6	punct	_	O
+

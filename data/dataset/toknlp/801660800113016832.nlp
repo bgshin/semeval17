@@ -1,0 +1,15 @@
+1	Haaretz	haaretz	NNP	pos2=NN	14	dep	_	U-ORG
+2	:	:	:	_	5	punct	_	O
+3	"	"	``	_	5	punct	_	O
+4	Rightists	rightist	NNS	pos2=NNPS	5	nsubj	_	O
+5	Plan	plan	VBP	pos2=NNP	14	dep	_	O
+6	mega-Jerusalem	mega-jerusalem	''	pos2=:	5	punct	_	O
+7	in	in	IN	_	5	prep	_	O
+8	2040	0	CD	_	7	pobj	_	U-DATE
+9	-	-	:	pos2=,	5	punct	_	O
+10	With	with	IN	_	5	prep	_	O
+11	Invisible	invisible	JJ	pos2=NNP	12	nmod	_	O
+12	Palestinians	palestinian	NNPS	_	10	pobj	_	U-NORP
+13	"	"	''	pos2=-LRB-	5	punct	_	O
+14	https://t.co/xH9fpSezBu	#hlink#	ADD	_	0	root	_	O
+

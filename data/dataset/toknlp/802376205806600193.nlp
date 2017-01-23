@@ -1,0 +1,30 @@
+1	In	in	IN	_	0	root	_	O
+2	honor	honor	NN	_	1	pobj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	Leonard	leonard	NNP	_	5	compound	_	B-PERSON
+5	Cohen	cohen	NNP	_	7	poss	_	I-PERSON
+6	's	's	POS	_	5	case	_	L-PERSON
+7	passing	passing	NN	pos2=VBG	3	pobj	_	O
+8	.	.	.	_	6	punct	_	O
+
+1	Heather	heather	NNP	_	3	compound	_	B-ORG
+2	Jewel	jewel	NNP	_	3	compound	_	I-ORG
+3	Parks	parks	NNP	pos2=NNPS	8	nmod	_	L-ORG
+4	,	,	,	_	3	punct	_	O
+5	a	a	DT	_	3	appos	_	O
+6	Miami	miami	NNP	_	8	nmod	_	U-GPE
+7	,	,	,	_	8	punct	_	O
+8	FL	fl	NNP	_	9	nsubj	_	U-ORG
+9	born	bear	VBN	_	14	npadvmod	_	O
+10	,	,	,	_	8	punct	_	O
+11	Dallas	dallas	NNP	_	14	npadvmod	_	U-GPE
+12	,	,	,	_	11	punct	_	O
+13	TX	tx	NNP	_	11	conj	_	U-GPE
+14	based	base	VBN	pos2=IN	15	nmod	_	O
+15	musician	musician	NN	_	0	root	_	O
+16	and	and	CC	_	15	cc	_	O
+17	owner	owner	NN	_	15	conj	_	O
+18	...	..	.	_	3	punct	_	O
+
+1	https://t.co/ksmO88FUB7	#hlink#	ADD	_	0	root	_	U-ORG
+

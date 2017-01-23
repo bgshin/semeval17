@@ -1,0 +1,23 @@
+1	The	the	DT	_	3	det	_	O
+2	Nazi	nazi	NNP	_	3	compound	_	U-NORP
+3	Democrats	democrat	NNPS	_	5	nsubj	_	U-NORP
+4	are	be	VBP	_	5	aux	_	O
+5	using	use	VBG	_	0	root	_	O
+6	exactly	exactly	RB	_	11	advmod	_	O
+7	the	the	DT	_	11	det	_	O
+8	very	very	RB	pos2=JJ	9	advmod	_	O
+9	same	same	JJ	_	11	nmod	_	O
+10	propaganda	propaganda	NN	_	11	compound	_	O
+11	strategies	strategy	NNS	_	5	dobj	_	O
+12	and	and	CC	_	11	cc	_	O
+13	methods	method	NNS	_	11	conj	_	O
+14	as	as	IN	_	11	prep	_	O
+15	Hitler	hitler	NNP	_	22	poss	_	U-PERSON
+16	's	's	POS	_	15	case	_	O
+17	Joseph	joseph	NNP	_	20	compound	_	B-PERSON
+18	Goebbels	goebbels	NNP	_	21	npadvmod	_	L-PERSON
+19	-	-	HYPH	pos2=SYM	21	punct	_	O
+20	>	>	SYM	pos2=-RRB-	21	punct	_	O
+21	conflated	conflate	VBN	pos2=JJ	22	nmod	_	O
+22	deflection	deflection	NN	_	14	pobj	_	O
+

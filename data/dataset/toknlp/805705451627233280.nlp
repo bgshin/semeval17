@@ -1,0 +1,16 @@
+1	@Nigel_Farage	@nigel_farage	ADD	pos2=JJ	7	discourse	_	O
+2	true	true	JJ	_	5	advmod	_	O
+3	go	go	VB	pos2=NN	7	compound	_	O
+4	nigel	nigel	NNP	pos2=XX	5	nsubj	_	O
+5	go	go	VB	pos2=VBP	0	root	_	O
+6	i	I	PRP	_	7	nsubj	_	O
+7	stay	stay	VBP	pos2=VB	0	root	_	O
+8	with	with	IN	_	7	prep	_	O
+9	brexit	brexit	NN	pos2=PRP	8	pobj	_	O
+10	and	and	CC	_	7	cc	_	O
+11	now	now	RB	_	13	advmod	_	O
+12	i	I	PRP	_	13	nsubj	_	O
+13	hope	hope	VBP	_	7	conj	_	O
+14	early	early	RB	pos2=JJ	15	nmod	_	O
+15	italyexit	italyexit	NN	pos2=JJ	13	advmod	_	O
+

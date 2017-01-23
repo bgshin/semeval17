@@ -1,0 +1,22 @@
+1	Reading	read	VBG	pos2=NN	11	advcl	_	O
+2	this	this	DT	_	3	det	_	O
+3	piece	piece	NN	_	1	dobj	_	O
+4	from	from	IN	_	1	prep	_	O
+5	several	several	JJ	_	6	nmod	_	B-DATE
+6	days	day	NNS	_	7	npadvmod	_	I-DATE
+7	ago	ago	RB	_	4	pcomp	_	L-DATE
+8	,	,	,	_	11	punct	_	O
+9	Obama	obama	NNP	_	10	compound	_	U-PERSON
+10	admin	admin	NN	_	11	nsubj	_	O
+11	seems	seem	VBZ	_	0	root	_	O
+12	bizarrely	bizarrely	RB	_	13	advmod	_	O
+13	passive	passive	JJ	_	11	oprd	_	O
+14	in	in	IN	_	13	prep	_	O
+15	face	face	NN	_	14	pobj	_	O
+16	of	of	IN	_	15	prep	_	O
+17	Russian	russian	JJ	_	18	nmod	_	U-NORP
+18	threat	threat	NN	_	16	pobj	_	O
+19	to	to	IN	pos2=TO	18	prep	_	O
+20	election	election	NN	pos2=GW	19	pobj	_	O
+21	https://t.co/CpOnhjsW3C	#hlink#	ADD	pos2=NN	11	xcomp	_	U-GPE
+

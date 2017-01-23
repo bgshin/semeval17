@@ -1,0 +1,21 @@
+1	Only	only	RB	pos2=JJ	2	advmod	_	O
+2	thing	thing	NN	_	7	nsubj	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	care	care	VBP	_	2	relcl	_	O
+5	about	about	IN	_	4	prep	_	O
+6	rn	rn	NN	pos2=NNP	5	pobj	_	O
+7	is	be	VBZ	_	0	root	_	O
+8	westworld	westworld	NN	pos2=JJ	7	attr	_	O
+9	....	..	.	_	7	punct	_	O
+
+1	and	and	CC	_	6	cc	_	O
+2	the	the	DT	_	3	det	_	O
+3	universe	universe	NN	_	6	nsubj	_	O
+4	does	do	VBZ	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	wan	wan	VB	pos2=JJ	0	root	_	O
+7	na	to	TO	_	8	aux	_	O
+8	see	see	VB	_	6	xcomp	_	O
+9	me	me	PRP	_	8	dobj	_	O
+10	happy	happy	JJ	_	8	ccomp	_	O
+

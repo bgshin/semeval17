@@ -1,0 +1,11 @@
+1	National	national	JJ	pos2=NNP	6	nmod	_	U-NORP
+2	fast	fast	JJ	_	3	nmod	_	O
+3	food	food	NN	_	4	compound	_	O
+4	day	day	NN	_	6	compound	_	O
+5	country	country	NN	_	6	compound	_	O
+6	poster	poster	NN	_	0	root	_	O
+7	.	.	.	_	6	punct	_	O
+
+1	#nationalfastfoodday	#nationalfastfoodday	UH	pos2=-LRB-	2	discourse	_	O
+2	https://t.co/MnUTpSm5ON	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,22 @@
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=ADD	5	nsubj	_	O
+2	@mike_pence	@mike_pence	IN	pos2=VBD	1	prep	_	O
+3	no	no	DT	pos2=UH	4	det	_	O
+4	swamp	swamp	NN	_	2	pobj	_	O
+5	draining	drain	VBG	pos2=NN	0	root	_	O
+6	here	here	RB	_	5	advmod	_	O
+7	more	more	RBR	_	8	advmod	_	O
+8	like	like	IN	_	5	prep	_	O
+9	filling	fill	VBG	_	8	pcomp	_	O
+10	it	it	PRP	_	9	dobj	_	O
+11	up	up	RP	pos2=RB	9	prt	_	O
+12	with	with	IN	_	9	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	dawn	dawn	NN	_	12	pobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	dumb	dumb	JJ	_	21	nmod	_	O
+17	and	and	CC	_	16	cc	_	O
+18	hateful	hateful	JJ	_	16	conj	_	O
+19	sad	sad	JJ	_	21	nmod	_	O
+20	…	…	NFP	pos2=-LRB-	21	punct	_	O
+21	https://t.co/7nltaHxeL7	#hlink#	ADD	_	5	dep	_	O
+

@@ -1,0 +1,24 @@
+1	Cristiano	cristiano	NNP	_	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	6	nsubj	_	L-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	Jose	jose	NNP	_	5	compound	_	B-PERSON
+5	Mourinho	mourinho	NNP	_	2	conj	_	L-PERSON
+6	are	be	VBP	_	0	root	_	O
+7	"	"	``	pos2=''	6	punct	_	O
+8	fully	fully	RB	_	9	advmod	_	O
+9	compliant	compliant	JJ	_	6	acomp	_	O
+10	with	with	IN	_	9	prep	_	O
+11	their	their	PRP$	_	13	poss	_	O
+12	tax	tax	NN	_	13	compound	_	O
+13	obligations	obligation	NNS	_	10	pobj	_	O
+14	"	"	''	_	6	punct	_	O
+15	,	,	,	_	19	punct	_	O
+16	their	their	PRP$	_	17	poss	_	O
+17	agent	agent	NN	_	13	appos	_	O
+18	Jorge	jorge	NNP	_	19	compound	_	B-PERSON
+19	Mendes	mendes	NNP	_	17	appos	_	I-PERSON
+20	'	'	''	pos2=POS	6	punct	_	L-PERSON
+21	...	..	.	pos2=:	6	punct	_	O
+
+1	https://t.co/IWkEoAYkQH	#hlink#	ADD	_	0	root	_	U-ORG
+

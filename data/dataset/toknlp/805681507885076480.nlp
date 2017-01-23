@@ -1,0 +1,27 @@
+1	@katherinehunt15	@katherinehunt0	LS	pos2=UH	4	punct	_	O
+2	@scienceporn	@scienceporn	UH	pos2=``	4	discourse	_	O
+3	It	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	sarcastic	sarcastic	JJ	_	4	acomp	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	You	you	PRP	_	4	nsubj	_	O
+2	ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	force	force	VB	_	13	ccomp	_	O
+5	people	people	NNS	_	4	dobj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	take	take	VB	_	4	xcomp	_	O
+8	vaccines	vaccine	NNS	_	7	dobj	_	O
+9	,	,	,	_	13	punct	_	O
+10	you	you	PRP	_	13	nsubj	_	O
+11	only	only	RB	_	13	advmod	_	O
+12	can	can	MD	_	13	aux	_	O
+13	offer	offer	VB	_	0	root	_	O
+14	it	it	PRP	_	13	dobj	_	O
+15	and	and	CC	_	13	cc	_	O
+16	talk	talk	VB	_	13	conj	_	O
+17	about	about	IN	_	16	prep	_	O
+18	benefits	benefit	NNS	_	17	pobj	_	O
+19	.	.	.	_	13	punct	_	O
+

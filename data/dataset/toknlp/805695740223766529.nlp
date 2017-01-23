@@ -1,0 +1,17 @@
+1	#MLB	#mlb	NN	pos2=XX	2	compound	_	O
+2	#Brewers	#brewers	NNS	pos2=VBZ	16	dep	_	O
+3	2013	0	CD	_	16	dep	_	O
+4	#Topps	#topps	NNP	pos2=NNS	5	compound	_	O
+5	Archives	archive	NNPS	pos2=NNS	6	compound	_	O
+6	Cubs	cub	NNPS	pos2=NNP	16	dep	_	O
+7	Wrigley	wrigley	NNP	_	8	compound	_	B-FAC
+8	Field	field	NNP	pos2=NN	16	dep	_	L-FAC
+9	Giveaway	giveaway	NNP	pos2=NN	16	dep	_	O
+10	CUBS-22	cubs-0	NNP	pos2=NN	12	compound	_	O
+11	Aramis	aramis	NNP	_	12	compound	_	B-PERSON
+12	Ramirez	ramirez	NNP	_	16	dep	_	I-PERSON
+13	https://t.co/rO8vyhoAbh	#hlink#	ADD	pos2=NNP	16	dep	_	I-PERSON
+14	#Deal	#deal	NNP	pos2=-RRB-	16	dep	_	L-PERSON
+15	…	…	NFP	pos2=-LRB-	16	punct	_	O
+16	https://t.co/OeSpuoVvJ6	#hlink#	ADD	_	0	root	_	O
+

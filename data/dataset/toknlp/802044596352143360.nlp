@@ -1,0 +1,21 @@
+1	We	we	PRP	_	3	nsubj	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	finished	finish	VBD	_	0	root	_	O
+4	watching	watch	VBG	_	3	xcomp	_	O
+5	#ThankYouObama	#thankyouobama	NN	pos2=NNP	4	dobj	_	O
+6	on	on	IN	_	4	prep	_	O
+7	@BET	@bet	NN	pos2=NNP	6	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	sorta	sorta	RB	pos2=MD	3	advmod	_	O
+3	feel	feel	VBP	pos2=VB	0	root	_	O
+4	like	like	IN	_	7	mark	_	O
+5	I	I	PRP	_	7	nsubjpass	_	O
+6	was	be	VBD	_	7	auxpass	_	O
+7	supposed	suppose	VBN	_	3	advcl	_	O
+8	to	to	TO	_	9	aux	_	O
+9	be	be	VB	_	7	xcomp	_	O
+10	there	there	RB	_	9	advmod	_	O
+11	....	..	.	pos2=,	3	punct	_	O
+

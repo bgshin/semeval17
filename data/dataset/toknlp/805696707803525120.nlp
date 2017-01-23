@@ -1,0 +1,24 @@
+1	@MrJamesonNeat	@mrjamesonneat	ADD	pos2=UH	2	meta	_	O
+2	@GeorgeTakei	@georgetakei	NNP	pos2=XX	0	root	_	O
+3	LOL	lol	UH	pos2=NNP	1	discourse	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	electoral	electoral	JJ	_	3	nmod	_	O
+3	college	college	NN	_	5	nsubjpass	_	O
+4	is	be	VBZ	_	5	auxpass	_	O
+5	spelled	spell	VBN	_	0	root	_	O
+6	out	out	RP	_	5	prt	_	O
+7	in	in	IN	_	5	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	constitution	constitution	NN	_	7	pobj	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	By	by	IN	_	5	prep	_	O
+2	definition	definition	NN	_	1	pobj	_	O
+3	,	,	,	_	5	punct	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	constitutional	constitutional	JJ	_	5	acomp	_	O
+7	.	.	.	_	5	punct	_	O
+

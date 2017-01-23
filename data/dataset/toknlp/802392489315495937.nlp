@@ -1,0 +1,22 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=ADD	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	from	from	IN	_	5	prep	_	O
+7	@funking_sick	@funking_sick	NNP	pos2=-LRB-	6	pobj	_	U-GPE
+8	https://t.co/mEyZ2bQjKR	#hlink#	ADD	pos2=NNP	9	compound	_	O
+9	Galaxy	galaxy	NNP	pos2=NN	10	compound	_	O
+10	Note	note	VB	pos2=NN	2	dep	_	O
+11	7	0	CD	_	16	qmod	_	U-CARDINAL
+12	|	|	SYM	pos2=,	17	punct	_	O
+13	How	how	WRB	pos2=RB	15	advmod	_	O
+14	to	to	TO	_	15	aux	_	O
+15	FIX	fix	VB	_	10	xcomp	_	O
+16	60	0	CD	_	17	nmod	_	B-PERCENT
+17	%	%	NN	_	18	compound	_	L-PERCENT
+18	battery	battery	NN	_	15	dobj	_	O
+19	charging	charge	VBG	pos2=NN	15	conj	_	O
+20	limitation	limitation	NN	_	19	dobj	_	O
+21	and	and	CC	_	15	cc	_	O
+

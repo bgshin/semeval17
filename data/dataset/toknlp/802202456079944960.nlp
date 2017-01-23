@@ -1,0 +1,8 @@
+1	🏀@J_Doellman	🏀@j_doellman	NN	pos2=ADD	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	back	back	RB	_	2	advmod	_	O
+4	!	!	.	_	2	punct	_	O
+
+1	#fcblive	#fcblive	UH	pos2=ADD	2	discourse	_	O
+2	https://t.co/uBgHGNG34z	#hlink#	ADD	pos2=NN	0	root	_	O
+

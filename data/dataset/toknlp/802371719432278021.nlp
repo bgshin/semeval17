@@ -1,0 +1,23 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	what	what	WP	_	6	nsubj	_	O
+4	may	may	MD	_	6	aux	_	O
+5	be	be	VB	_	6	aux	_	O
+6	happening	happen	VBG	_	2	ccomp	_	O
+7	in	in	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	USA	usa	NNP	_	7	pobj	_	U-GPE
+10	if	if	IN	_	12	mark	_	O
+11	Trump	trump	NNP	pos2=NN	12	nsubj	_	U-PERSON
+12	continues	continue	VBZ	_	6	advcl	_	O
+13	down	down	IN	pos2=RB	12	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	road	road	NN	_	13	pobj	_	O
+16	his	his	PRP$	_	17	poss	_	O
+17	transition	transition	NN	_	18	nsubj	_	O
+18	seems	seem	VBZ	_	12	conj	_	O
+19	to	to	TO	_	21	aux	_	O
+20	be	be	VB	_	21	aux	_	O
+21	taking	take	VBG	_	18	xcomp	_	O
+22	https://t.co/j7V7kNJgsl	#hlink#	ADD	pos2=RP	21	dobj	_	U-ORG
+

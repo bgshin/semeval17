@@ -1,0 +1,10 @@
+1	friggin	friggin	NN	pos2=UH	4	dep	_	O
+2	like	like	IN	pos2=UH	1	prep	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	really	really	RB	_	4	advmod	_	O
+6	about	about	IN	pos2=RB	4	prep	_	O
+7	indie	indie	NN	_	8	npadvmod	_	O
+8	transforming	transform	VBG	_	9	nmod	_	O
+9	robots	robot	NNS	_	6	pobj	_	O
+

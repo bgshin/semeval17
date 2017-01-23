@@ -1,0 +1,24 @@
+1	Floyd	floyd	NNP	_	4	compound	_	B-PERSON
+2	Lee	lee	NNP	_	4	compound	_	I-PERSON
+3	Corkins	corkins	NNP	_	4	compound	_	I-PERSON
+4	II	ii	NNP	pos2=CD	5	nsubj	_	L-PERSON
+5	committed	commit	VBD	pos2=VBN	0	root	_	O
+6	MASS	mass	NN	_	7	compound	_	O
+7	MURDER	murder	NN	_	5	dobj	_	O
+8	because	because	IN	_	5	prep	_	O
+9	of	of	IN	_	8	pcomp	_	O
+10	Southern	southern	NNP	pos2=JJ	13	compound	_	B-ORG
+11	Poverty	poverty	NNP	_	13	compound	_	I-ORG
+12	Law	law	NNP	_	13	compound	_	I-ORG
+13	Center	center	NNP	_	8	pobj	_	L-ORG
+14	.	.	.	_	5	punct	_	O
+
+1	Media	media	NNP	pos2=NNS	4	compound	_	U-ORG
+2	cover	cover	NN	_	4	compound	_	O
+3	-	-	HYPH	_	4	punct	_	O
+4	up	up	NN	pos2=RB	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	#Pizzagate	#pizzagate	ADD	pos2=-LRB-	2	punct	_	O
+2	https://t.co/dzAPgiqcql	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

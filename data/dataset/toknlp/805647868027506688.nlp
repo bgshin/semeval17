@@ -1,0 +1,26 @@
+1	@KingofPopTweets	@kingofpoptweets	NNS	pos2=ADD	6	nsubj	_	O
+2	And	and	CC	_	1	cc	_	O
+3	that	that	DT	_	6	nsubj	_	O
+4	does	do	VBZ	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	include	include	VB	_	0	root	_	O
+7	#Comey	#comey	NNP	pos2=NNS	6	dobj	_	U-ORG
+8	,	,	,	_	7	punct	_	O
+9	voter	voter	NN	_	10	compound	_	O
+10	suppression	suppression	NN	_	7	appos	_	O
+11	&	&	CC	_	10	cc	_	O
+12	intimidation	intimidation	NN	_	10	conj	_	O
+13	if	if	IN	_	18	mark	_	O
+14	they	they	PRP	_	18	nsubjpass	_	O
+15	can	can	MD	_	18	aux	_	O
+16	all	all	DT	pos2=RB	18	dep	_	O
+17	be	be	VB	_	18	auxpass	_	O
+18	investigated	investigate	VBN	_	6	advcl	_	O
+19	.	.	.	_	6	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	gross	gross	JJ	_	4	nmod	_	O
+4	fraud	fraud	NN	_	2	attr	_	O
+5	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,26 @@
+1	Trump	trump	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	needs	need	VBZ	pos2=NNS	13	ccomp	_	O
+3	2	0	CD	_	4	nmod	_	U-CARDINAL
+4	file	file	NN	_	2	dobj	_	O
+5	4	0	CD	_	6	nmod	_	U-CARDINAL
+6	recount	recount	NN	_	4	appos	_	O
+7	in	in	IN	_	6	prep	_	O
+8	Cali	cali	NNP	_	7	pobj	_	U-GPE
+9	&	&	CC	_	8	cc	_	O
+10	other	other	JJ	_	11	nmod	_	O
+11	states	state	NNS	pos2=VBZ	8	conj	_	O
+12	he	he	PRP	_	13	nsubj	_	O
+13	lost	lose	VBD	_	0	root	_	O
+14	.	.	.	_	13	punct	_	O
+
+1	2	0	CD	pos2=LS	3	nsubj	_	O
+2	can	can	MD	pos2=NN	3	aux	_	O
+3	play	play	VB	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	game	game	NN	_	3	dobj	_	O
+6	@realDonaldTrump	@realdonaldtrump	NNP	pos2=XX	7	compound	_	B-PRODUCT
+7	@RNC	@rnc	NNP	pos2=XX	10	poss	_	L-PRODUCT
+8	@mike_pence	@mike_pence	POS	pos2=NNP	7	case	_	O
+9	@LouDobbs	@loudobbs	NNPS	pos2=NNS	10	compound	_	U-PRODUCT
+10	#MAGA	#maga	NN	pos2=ADD	3	npadvmod	_	O
+

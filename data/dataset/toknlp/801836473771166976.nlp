@@ -1,0 +1,26 @@
+1	@shannondrayer	@shannondrayer	NN	pos2=JJ	2	compound	_	O
+2	prediction	prediction	NN	_	6	dep	_	O
+3	:	:	:	_	6	punct	_	O
+4	Walker	walker	NNP	_	6	nsubj	_	U-ORG
+5	will	will	MD	_	6	aux	_	O
+6	get	get	VB	_	0	root	_	O
+7	the	the	DT	_	9	det	_	O
+8	cy	cy	NN	pos2=JJ	9	compound	_	O
+9	young	young	JJ	pos2=RB	11	nmod	_	O
+10	next	next	JJ	_	11	nmod	_	B-DATE
+11	year	year	NN	_	6	npadvmod	_	L-DATE
+12	and	and	CC	_	11	cc	_	O
+13	a	a	DT	_	15	det	_	O
+14	golden	golden	JJ	_	15	nmod	_	O
+15	glove	glove	NN	_	11	conj	_	O
+16	for	for	IN	_	15	prep	_	O
+17	Marte	marte	NNP	_	16	pobj	_	U-GPE
+18	.	.	.	_	6	punct	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	trade	trade	NN	_	3	compound	_	O
+3	curse	curse	NN	_	5	nsubj	_	O
+4	must	must	MD	_	5	aux	_	O
+5	continue	continue	VB	_	0	root	_	O
+6	!	!	.	_	5	punct	_	O
+

@@ -1,0 +1,19 @@
+1	Bob	bob	NNP	_	2	compound	_	B-PERSON
+2	Dylan	dylan	NNP	_	18	dep	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	Seasick	seasick	NNP	_	5	compound	_	B-PERSON
+5	Steve	steve	NNP	_	2	conj	_	L-PERSON
+6	and	and	CC	_	5	cc	_	O
+7	rock	rock	NN	pos2=NNP	10	poss	_	O
+8	’s	's	POS	pos2=VBZ	7	case	_	O
+9	great	great	JJ	_	10	nmod	_	O
+10	hits	hit	NNS	_	5	conj	_	O
+11	and	and	CC	_	10	cc	_	O
+12	myths	myth	NNS	_	10	conj	_	O
+13	–	-	:	pos2=,	18	punct	_	O
+14	The	the	DT	_	17	det	_	B-ORG
+15	Sydney	sydney	NNP	_	17	compound	_	I-ORG
+16	Morning	morning	NNP	_	17	compound	_	I-ORG
+17	Herald	herald	NNP	_	18	nmod	_	L-ORG
+18	https://t.co/aPIpQBcvut	#hlink#	ADD	_	0	root	_	O
+

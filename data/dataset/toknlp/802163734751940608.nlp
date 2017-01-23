@@ -1,0 +1,20 @@
+1	The	the	DT	_	3	advmod	_	O
+2	more	more	RBR	_	3	advmod	_	O
+3	insecure	insecure	JJ	_	5	acomp	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	are	be	VBP	_	11	advcl	_	O
+6	,	,	,	_	11	punct	_	O
+7	the	the	DT	_	9	advmod	_	O
+8	more	more	RBR	_	9	advmod	_	O
+9	prone	prone	JJ	_	5	acomp	_	O
+10	you	you	PRP	_	11	nsubj	_	O
+11	are	be	VBP	_	0	root	_	O
+12	to	to	TO	_	13	aux	_	O
+13	create	create	VB	_	11	xcomp	_	O
+14	c	c	NN	pos2=RB	13	dobj	_	O
+15	...	..	.	_	11	punct	_	O
+
+1	#MikheilSaakashvili	#mikheilsaakashvili	GW	pos2=NNS	3	nmod	_	B-PERSON
+2	#citations	#citations	GW	pos2=NNS	3	nmod	_	L-PERSON
+3	https://t.co/Kb6xrM5eSj	#hlink#	ADD	pos2=NN	0	root	_	O
+

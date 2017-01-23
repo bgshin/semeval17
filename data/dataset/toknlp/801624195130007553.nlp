@@ -1,0 +1,22 @@
+1	Even	even	RB	_	4	advmod	_	O
+2	Mexican	mexican	JJ	_	4	nmod	_	U-NORP
+3	construction	construction	NN	_	4	compound	_	O
+4	companies	company	NNS	_	5	nsubj	_	O
+5	want	want	VBP	_	0	root	_	O
+6	in	in	RP	pos2=IN	5	prt	_	O
+7	on	on	IN	_	5	prep	_	O
+8	the	the	DT	_	12	det	_	O
+9	Trump	trump	NNP	_	11	compound	_	B-ORG
+10	Border	border	NNP	_	11	compound	_	I-ORG
+11	Wall	wall	NNP	_	12	compound	_	L-ORG
+12	action	action	NN	_	7	pobj	_	O
+13	..	..	.	pos2=,	5	punct	_	O
+
+1	money	money	NN	_	4	nsubjpass	_	O
+2	to	to	TO	_	4	aux	_	O
+3	be	be	VB	_	4	auxpass	_	O
+4	made	make	VBN	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	$$	$$	SYM	pos2=-LRB-	0	root	_	U-CARDINAL
+

@@ -1,0 +1,21 @@
+1	Not	not	RB	_	3	neg	_	O
+2	too	too	RB	_	3	advmod	_	O
+3	late	late	JJ	pos2=RB	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	enjoy	enjoy	VB	_	3	xcomp	_	O
+6	#thanksgiving	#thanksgiving	VBG	pos2=NN	5	xcomp	_	O
+7	!	!	.	_	3	punct	_	O
+
+1	Buy	buy	VB	_	0	root	_	O
+2	your	your	PRP$	_	4	poss	_	O
+3	fave	fave	NN	_	4	compound	_	O
+4	#sextoys	#sextoys	NNS	pos2=FW	1	dobj	_	O
+5	@	@	SYM	pos2=-LRB-	12	punct	_	O
+6	https://t.co/WuMGRkEVhm	#hlink#	ADD	pos2=NN	12	nmod	_	O
+7	using	use	VBG	_	1	advcl	_	O
+8	discount	discount	NN	_	10	compound	_	O
+9	coupon	coupon	NN	_	10	compound	_	O
+10	codes	code	NNS	_	7	dobj	_	O
+11	@…	@…	NFP	pos2=:	12	punct	_	O
+12	https://t.co/WS2DLhfhxr	#hlink#	ADD	pos2=NN	1	dep	_	O
+

@@ -1,0 +1,22 @@
+1	What	what	WP	_	4	nsubj	_	O
+2	was	be	VBD	_	4	aux	_	O
+3	SO	so	RB	_	4	advmod	_	O
+4	infuriating	infuriate	VBG	pos2=JJ	5	csubj	_	O
+5	was	be	VBD	_	0	root	_	O
+6	all	all	PDT	pos2=DT	9	predet	_	O
+7	the	the	DT	_	9	det	_	O
+8	moronic	moronic	JJ	_	9	nmod	_	O
+9	Deplorables	deplorables	NNP	pos2=NNS	5	attr	_	U-GPE
+10	just	just	RB	_	11	advmod	_	O
+11	LOVING	love	VBG	_	9	acl	_	O
+12	Assange	assange	NNP	_	11	dobj	_	U-PERSON
+13	w/o	w/o	IN	pos2=XX	11	prep	_	O
+14	even	even	RB	_	15	advmod	_	O
+15	realizing	realize	VBG	_	13	pcomp	_	O
+16	what	what	WP	_	17	nsubj	_	O
+17	was	be	VBD	_	15	ccomp	_	O
+18	actually	actually	RB	_	17	advmod	_	O
+19	ha	ha	UH	pos2=GW	17	discourse	_	O
+20	…	…	NFP	pos2=-LRB-	19	discourse	_	O
+21	https://t.co/iw73172B2p	#hlink#	ADD	_	5	dep	_	O
+

@@ -1,0 +1,14 @@
+1	@MySwitzerland_e	@myswitzerland_e	UH	pos2=XX	4	discourse	_	O
+2	@chateauchillon	@chateauchillon	UH	pos2=IN	4	discourse	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	felt	feel	VBD	_	0	root	_	O
+5	like	like	IN	_	4	prep	_	O
+6	a	a	DT	_	7	det	_	O
+7	scene	scene	NN	_	5	pobj	_	O
+8	from	from	IN	_	7	prep	_	O
+9	#BeautyAndTheBeast	#beautyandthebeast	NNP	pos2=ADD	13	nmod	_	B-LOC
+10	#inLOVEwithSWITZERLAND	#inlovewithswitzerland	NNP	pos2=XX	13	nmod	_	L-LOC
+11	#travelblogger	#travelblogger	GW	pos2=JJR	13	nmod	_	O
+12	…	…	NFP	pos2=GW	13	punct	_	O
+13	https://t.co/9fWtnDiTkQ	#hlink#	ADD	_	8	pobj	_	O
+

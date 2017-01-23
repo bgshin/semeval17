@@ -1,0 +1,25 @@
+1	Huge	huge	JJ	_	24	nmod	_	O
+2	conflicts	conflict	NNS	_	24	dep	_	O
+3	-	-	HYPH	pos2=,	2	punct	_	O
+4	of	of	IN	_	2	prep	_	O
+5	-	-	HYPH	_	4	punct	_	O
+6	interest	interest	NN	_	4	pobj	_	O
+7	due	due	IN	_	2	prep	_	O
+8	to	to	IN	_	7	pcomp	_	O
+9	Rudy	rudy	NNP	_	11	poss	_	U-PERSON
+10	's	's	POS	_	9	case	_	O
+11	speeches	speech	NNS	_	7	pobj	_	O
+12	and	and	CC	_	11	cc	_	O
+13	consulting	consult	VBG	_	11	conj	_	O
+14	abroad	abroad	RB	_	13	advmod	_	O
+15	-	-	,	pos2=HYPH	2	punct	_	O
+16	especially	especially	RB	_	17	advmod	_	O
+17	for	for	IN	_	2	prep	_	O
+18	main	main	JJ	_	19	nmod	_	O
+19	#Hamas	#hamas	NNS	pos2=NNP	17	pobj	_	O
+20	#terror	#terror	NN	pos2=XX	22	compound	_	O
+21	-	-	HYPH	pos2=:	22	punct	_	O
+22	sponso	sponso	NN	pos2=JJ	24	dep	_	O
+23	…	…	NFP	pos2=GW	24	punct	_	O
+24	https://t.co/NcF5hS09IM	#hlink#	ADD	pos2=NN	0	root	_	O
+

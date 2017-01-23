@@ -1,0 +1,15 @@
+1	Fidel	fidel	NNP	_	2	compound	_	B-PERSON
+2	Castro	castro	NNP	_	5	poss	_	I-PERSON
+3	's	's	POS	_	2	case	_	L-PERSON
+4	Apple	apple	NNP	_	5	compound	_	O
+5	Victory	victory	NNP	pos2=NN	7	nsubj	_	O
+6	Could	could	MD	_	7	aux	_	O
+7	Be	be	VB	_	0	root	_	O
+8	Short	short	RB	pos2=JJ	10	advmod	_	O
+9	-	-	HYPH	pos2=:	10	punct	_	O
+10	Lived	lived	NNP	pos2=VBN	7	acomp	_	O
+11	#fakeheadlinebot	#fakeheadlinebot	IN	pos2=RB	7	prep	_	O
+12	#learntocode	#learntocode	FW	pos2=XX	14	nmod	_	O
+13	#makeatwitterbot	#makeatwitterbot	UH	pos2=FW	14	discourse	_	O
+14	#javascript	#javascript	UH	pos2=FW	7	discourse	_	O
+

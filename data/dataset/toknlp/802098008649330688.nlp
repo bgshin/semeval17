@@ -1,0 +1,20 @@
+1	👩🏻💬	👩🏻💬	SYM	pos2=LS	3	punct	_	U-ORG
+2	@MalmstromEU	@malmstromeu	NN	pos2=PRP	3	nsubj	_	O
+3	talked	talk	VBD	pos2=VBN	0	root	_	O
+4	with	with	IN	_	3	prep	_	O
+5	@Poroshenko	@poroshenko	NNP	pos2=NN	4	pobj	_	U-ORG
+6	about	about	IN	pos2=RB	3	prep	_	O
+7	further	far	JJ	pos2=RB	8	advmod	_	O
+8	strengthening	strengthen	VBG	pos2=NN	6	pcomp	_	O
+9	our	our	PRP$	_	11	poss	_	O
+10	economic	economic	JJ	_	11	nmod	_	O
+11	ties	tie	NNS	_	8	dobj	_	O
+12	via	via	IN	_	8	prep	_	O
+13	🇪🇺🇺🇦#DCFTA	🇪🇺🇺🇦#dcfta	NN	pos2=NNP	12	pobj	_	O
+14	.	.	.	_	3	punct	_	O
+
+1	Her	her	PRP$	_	2	poss	_	O
+2	speech	speech	NN	_	4	dep	_	O
+3	:	:	:	_	4	punct	_	O
+4	https://t.co/bQX7bln31f	#hlink#	ADD	pos2=NN	0	root	_	O
+

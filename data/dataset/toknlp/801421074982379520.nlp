@@ -1,0 +1,15 @@
+1	Left	left	JJ	_	3	nmod	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	wing	wing	NN	_	4	compound	_	O
+4	activists	activist	NNS	_	5	nsubj	_	O
+5	slam	slam	NN	pos2=VBP	0	root	_	O
+6	law	law	NN	_	7	compound	_	O
+7	enforcement	enforcement	NN	_	5	dobj	_	O
+8	for	for	IN	_	5	prep	_	O
+9	protecting	protect	VBG	_	8	pcomp	_	O
+10	community	community	NN	_	9	dobj	_	O
+11	from	from	IN	_	9	prep	_	O
+12	destructive	destructive	JJ	_	13	nmod	_	O
+13	prot	prot	NN	pos2=GW	11	pobj	_	O
+14	estshttps://t.co/XJKx76NZqw	#hlink#	ADD	pos2=NN	5	appos	_	O
+

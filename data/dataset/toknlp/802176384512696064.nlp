@@ -1,0 +1,17 @@
+1	Nataf	nataf	NNP	pos2=NN	6	nmod	_	U-ORG
+2	,	,	,	_	6	punct	_	O
+3	less	less	JJR	_	5	qmod	_	B-QUANTITY
+4	than	than	IN	_	5	qmod	_	I-QUANTITY
+5	10	0	CD	_	6	nmod	_	I-QUANTITY
+6	km	km	NNS	pos2=NN	11	dep	_	L-QUANTITY
+7	from	from	IN	_	6	prep	_	O
+8	#Jerusalem	#jerusalem	NNP	pos2=NNS	7	pobj	_	B-ORG
+9	/	/	SYM	pos2=,	11	punct	_	I-ORG
+10	#ElQuds	#elquds	ADD	pos2=NNS	11	nmod	_	L-ORG
+11	https://t.co/A4iDNPOHZX	#hlink#	ADD	_	16	dep	_	O
+12	…	…	NFP	pos2=-RRB-	16	punct	_	O
+13	#IsraelFires	#israelfires	NNS	pos2=VBZ	0	root	_	O
+14	#PalestineBurning	#palestineburning	VBG	pos2=ADD	13	acl	_	O
+15	#Palestine	#palestine	NNP	pos2=CD	16	compound	_	B-PERSON
+16	#Israel	#israel	NNP	pos2=NNS	14	dobj	_	L-PERSON
+

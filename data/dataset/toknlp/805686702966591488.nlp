@@ -1,0 +1,21 @@
+1	Zac	zac	NNP	_	2	compound	_	B-PERSON
+2	Efron	efron	NNP	_	20	dep	_	L-PERSON
+3	&	&	CC	_	2	cc	_	O
+4	Seth	seth	NNP	_	6	compound	_	B-PERSON
+5	Rogen	rogen	NNP	_	6	compound	_	L-PERSON
+6	Flex	flex	NNP	_	2	conj	_	O
+7	Their	their	PRP$	_	8	poss	_	O
+8	Muscles	muscle	NNS	_	20	dep	_	O
+9	In	in	IN	_	8	prep	_	O
+10	Short	short	JJ	pos2=NNP	11	nmod	_	O
+11	Shorts	short	NNS	pos2=NNPS	9	pobj	_	O
+12	—	-	:	pos2=.	20	punct	_	O
+13	'	'	``	pos2=''	11	punct	_	O
+14	Neighbors	neighbor	NNS	_	20	nmod	_	O
+15	2	0	CD	_	16	nmod	_	U-CARDINAL
+16	'	'	POS	pos2=''	11	case	_	O
+17	Pic	pic	JJ	pos2=NNP	18	nmod	_	O
+18	#ZacEfron	#zacefron	ADD	pos2=GW	20	punct	_	O
+19	https://t.co/BPitE2DNdr	#hlink#	ADD	_	20	nsubj	_	O
+20	#ZacEfron	#zacefron	ADD	pos2=-RRB-	0	root	_	O
+

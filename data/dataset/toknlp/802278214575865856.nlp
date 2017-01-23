@@ -1,0 +1,14 @@
+1	Self-driving	self-driving	JJ	pos2=NN	2	nmod	_	O
+2	cars	car	NNS	_	4	nsubj	_	O
+3	could	could	MD	_	4	aux	_	O
+4	be	be	VB	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	key	key	NN	_	4	attr	_	O
+7	to	to	IN	pos2=TO	6	prep	_	O
+8	independence	independence	NN	pos2=VB	7	pobj	_	O
+9	for	for	IN	_	6	prep	_	O
+10	seniors	senior	NNS	_	9	pobj	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	https://t.co/kua2RXjaal	#hlink#	ADD	_	0	root	_	U-ORG
+

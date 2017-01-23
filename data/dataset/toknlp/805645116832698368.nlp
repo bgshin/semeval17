@@ -1,0 +1,18 @@
+1	Blog	blog	NN	_	10	dep	_	O
+2	:	:	:	_	10	punct	_	O
+3	Obama	obama	NNP	_	10	poss	_	U-PERSON
+4	's	's	POS	pos2=VBZ	3	case	_	O
+5	shameful	shameful	JJ	_	10	nmod	_	O
+6	,	,	,	_	10	punct	_	O
+7	phony	phony	JJ	_	10	nmod	_	O
+8	gun	gun	NN	_	9	compound	_	O
+9	control	control	NN	_	10	compound	_	O
+10	rhetoric	rhetoric	NN	_	0	root	_	O
+11	in	in	IN	_	10	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	wake	wake	NN	_	11	pobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	Charleston	charleston	NNP	_	16	compound	_	U-GPE
+16	massacre	massacre	NN	pos2=GW	14	pobj	_	O
+17	https://t.co/QOFtQshrPc	#hlink#	ADD	_	10	appos	_	U-GPE
+

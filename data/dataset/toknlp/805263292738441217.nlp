@@ -1,0 +1,23 @@
+1	Make	make	VB	_	0	root	_	O
+2	like	like	IN	pos2=UH	1	prep	_	O
+3	Ashley	ashley	NNP	_	4	compound	_	B-PERSON
+4	Graham	graham	NNP	_	2	pobj	_	L-PERSON
+5	and	and	CC	_	1	cc	_	O
+6	stand	stand	VB	_	1	conj	_	O
+7	out	out	RP	_	6	prt	_	O
+8	in	in	IN	_	6	prep	_	O
+9	a	a	DT	_	10	det	_	O
+10	pair	pair	NN	_	8	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	Gianvito	gianvito	NNP	_	13	compound	_	B-PERSON
+13	Rossi	rossi	NNP	_	15	poss	_	I-PERSON
+14	's	's	POS	_	13	case	_	L-PERSON
+15	Click	click	NNP	pos2=NNPS	11	pobj	_	O
+16	"	"	``	_	17	punct	_	O
+17	Visit	visit	VB	pos2=NN	6	advcl	_	O
+18	"	"	''	_	17	punct	_	O
+19	to	to	TO	pos2=IN	20	aux	_	O
+20	buy	buy	VB	_	17	advcl	_	O
+21	#DailyMail	#dailymail	GW	pos2=ADD	22	nmod	_	O
+22	https://t.co/lSZ2sxh6Kn	#hlink#	ADD	pos2=NN	20	dobj	_	U-ORG
+

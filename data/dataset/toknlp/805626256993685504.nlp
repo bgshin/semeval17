@@ -1,0 +1,18 @@
+1	@AriBerman	@ariberman	MD	pos2=ADD	3	aux	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	have	have	VB	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	feeling	feeling	NN	pos2=VBG	3	dobj	_	O
+6	their	their	PRP$	_	7	poss	_	O
+7	idea	idea	NN	_	11	nsubj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	voter	voter	NN	_	10	compound	_	O
+10	suppression	suppression	NN	_	8	pobj	_	O
+11	involves	involve	VBZ	_	5	relcl	_	O
+12	deporting	deport	VBG	_	11	xcomp	_	O
+13	all	all	PDT	_	16	predet	_	O
+14	the	the	DT	_	16	det	_	O
+15	brown	brown	JJ	_	16	nmod	_	O
+16	people	people	NNS	_	12	dobj	_	O
+17	.	.	.	_	3	punct	_	O
+

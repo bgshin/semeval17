@@ -1,0 +1,17 @@
+1	Everything	everything	NN	pos2=JJ	2	compound	_	O
+2	liberals	liberal	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	11	advcl	_	O
+4	afraid	afraid	JJ	_	3	acomp	_	O
+5	Trump	trump	NNP	pos2=NN	7	nsubj	_	U-ORG
+6	might	might	MD	_	7	aux	_	O
+7	do	do	VB	_	4	ccomp	_	O
+8	,	,	,	_	11	punct	_	O
+9	Castro	castro	NNP	_	11	nsubj	_	U-PERSON
+10	has	have	VBZ	_	11	aux	_	O
+11	done	do	VBN	_	0	root	_	O
+12	it	it	PRP	_	11	dobj	_	O
+13	except	except	IN	_	11	prep	_	O
+14	100x	0x	NN	pos2=XX	13	pobj	_	O
+15	worse	bad	JJR	pos2=NN	14	nmod	_	O
+16	.	.	.	_	11	punct	_	O
+

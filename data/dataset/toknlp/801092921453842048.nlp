@@ -1,0 +1,25 @@
+1	#MosulOffensive	#mosuloffensive	NN	pos2=CD	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	#Iraq	#iraq	NNP	pos2=NNS	5	poss	_	U-ORG
+4	's	's	POS	pos2=AFX	3	case	_	O
+5	army	army	NN	_	0	root	_	O
+6	(	(	-LRB-	_	5	punct	_	O
+7	9th	#ord#	JJ	pos2=NN	8	nmod	_	O
+8	Division	division	NNP	pos2=NN	5	npadvmod	_	O
+9	)	)	-RRB-	_	5	punct	_	O
+10	during	during	IN	_	5	prep	_	O
+11	ops	op	NNS	pos2=CD	12	compound	_	O
+12	southeast	southeast	NN	pos2=RB	10	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	#Mosul	#mosul	NNP	pos2=NN	13	pobj	_	U-GPE
+15	near	near	IN	_	12	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	Dijlah	dijlah	NNP	_	15	pobj	_	U-LOC
+18	(	(	-LRB-	_	17	punct	_	O
+19	Tigris	tigris	NNP	_	17	appos	_	U-LOC
+20	)	)	-RRB-	_	17	punct	_	O
+21	river	river	NN	_	19	discourse	_	O
+22	.	.	.	_	5	punct	_	O
+
+1	https://t.co/SU6UPojqJg	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det	_	O
+2	architect	architect	NN	_	14	nsubjpass	_	O
+3	of	of	IN	_	2	prep	_	O
+4	the	the	DT	_	7	det	_	O
+5	most	most	RBS	_	6	advmod	_	O
+6	racist	racist	JJ	_	7	nmod	_	O
+7	law	law	NN	_	3	pobj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	modern	modern	JJ	_	11	nmod	_	O
+10	American	american	JJ	_	11	nmod	_	U-NORP
+11	history	history	NN	_	8	pobj	_	O
+12	has	have	VBZ	_	14	aux	_	O
+13	been	be	VBN	_	14	auxpass	_	O
+14	named	name	VBN	_	0	root	_	O
+15	to	to	IN	_	14	prep	_	O
+16	Trump	trump	NNP	_	18	poss	_	U-ORG
+17	's	's	POS	_	16	case	_	O
+18	team	team	NN	_	15	pobj	_	O
+19	https://t.co/okRzoYv0j8	#hlink#	ADD	_	18	appos	_	O
+20	#TrumpTransitionTeam	#trumptransitionteam	ADD	pos2=-RRB-	14	punct	_	O
+

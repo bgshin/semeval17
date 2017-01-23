@@ -1,0 +1,30 @@
+1	@CindyTindell	@cindytindell	NNP	pos2=MD	2	compound	_	B-PERSON
+2	Hell	hell	NNP	pos2=NN	8	vocative	_	L-PERSON
+3	,	,	,	_	8	punct	_	O
+4	the	the	DT	_	5	det	_	O
+5	Left	left	NNP	pos2=JJ	8	nsubj	_	O
+6	ca	can	MD	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	dress	dress	VB	_	0	root	_	O
+9	themselves	themselves	PRP	_	8	dobj	_	O
+10	why	why	WRB	_	13	advmod	_	O
+11	would	would	MD	_	13	aux	_	O
+12	we	we	PRP	_	13	nsubj	_	O
+13	want	want	VB	pos2=VBP	8	ccomp	_	O
+14	them	them	PRP	_	16	nsubj	_	O
+15	to	to	TO	_	16	aux	_	O
+16	dress	dress	VB	_	13	ccomp	_	O
+17	Melania	melania	NNP	_	16	dobj	_	U-PERSON
+18	.	.	.	_	8	punct	_	O
+
+1	She	she	PRP	_	3	nsubj	_	O
+2	would	would	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	better	good	JJR	pos2=RBR	3	acomp	_	O
+5	off	off	RP	pos2=IN	4	prt	_	O
+6	going	go	VBG	_	3	advcl	_	O
+7	to	to	IN	_	6	prep	_	O
+8	Wal	wal	NNP	_	10	compound	_	B-ORG
+9	-	-	HYPH	_	10	punct	_	I-ORG
+10	Mart	mart	NNP	_	7	pobj	_	L-ORG
+

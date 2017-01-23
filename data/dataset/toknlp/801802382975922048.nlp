@@ -1,0 +1,30 @@
+1	@ProgrammerarN	@programmerarn	UH	pos2=ADD	6	discourse	_	O
+2	@Tautroll	@tautroll	UH	pos2=NNP	6	discourse	_	O
+3	@Battlerite	@battlerite	UH	pos2=NNP	6	discourse	_	O
+4	I	I	PRP	_	6	nsubj	_	O
+5	'm	be	VBP	_	6	aux	_	O
+6	showing	show	VBG	_	17	advcl	_	O
+7	Google	google	NNP	_	9	compound	_	B-ORG
+8	Earth	earth	NNP	_	9	compound	_	I-ORG
+9	VR	vr	NNP	pos2=NN	6	dobj	_	L-ORG
+10	to	to	IN	_	6	prep	_	O
+11	my	my	PRP$	_	12	poss	_	O
+12	colleague	colleague	NN	_	10	pobj	_	O
+13	,	,	,	_	17	punct	_	O
+14	he	he	PRP	_	17	nsubj	_	O
+15	ca	can	MD	_	17	aux	_	O
+16	n't	not	RB	_	17	neg	_	O
+17	stop	stop	VB	_	0	root	_	O
+18	anymore	anymore	RB	_	17	advmod	_	O
+19	;D	;d	NFP	pos2=:	17	discourse	_	O
+20	.	.	.	_	17	punct	_	O
+
+1	Try	try	VB	_	0	root	_	O
+2	it	it	PRP	_	1	dobj	_	O
+3	if	if	IN	_	7	mark	_	O
+4	you	you	PRP	_	7	nsubj	_	O
+5	have	have	VBP	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	yet	yet	RB	_	1	advcl	_	O
+8	!	!	.	_	1	punct	_	O
+

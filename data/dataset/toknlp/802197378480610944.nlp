@@ -1,0 +1,29 @@
+1	Box	box	NNP	pos2=NN	2	compound	_	O
+2	Office	office	NN	pos2=NNP	7	dep	_	O
+3	:	:	:	_	7	punct	_	O
+4	Disney	disney	NNP	_	6	poss	_	U-ORG
+5	's	's	POS	_	4	case	_	O
+6	#Moana	#moana	NNP	pos2=NN	7	nsubj	_	O
+7	won	win	VBD	_	0	root	_	O
+8	Thanksgiving	thanksgiving	NNP	_	9	compound	_	B-DATE
+9	Day	day	NNP	_	7	dobj	_	L-DATE
+10	with	with	IN	_	7	prep	_	O
+11	$	$	$	_	13	qmod	_	B-MONEY
+12	9.9	0	CD	_	13	compound	_	I-MONEY
+13	M	m	CD	pos2=NNP	10	pobj	_	L-MONEY
+14	,	,	,	_	7	punct	_	O
+15	while	while	IN	_	17	mark	_	O
+16	#FantasticBeasts	#fantasticbeasts	NNS	pos2=TO	17	nsubj	_	O
+17	put	put	VBD	pos2=VBP	7	advcl	_	O
+18	up	up	RP	_	17	prt	_	O
+19	a	a	DT	_	21	det	_	O
+20	close	close	JJ	pos2=NN	21	nmod	_	O
+21	fight	fight	NN	_	17	dobj	_	O
+22	with	with	IN	_	17	prep	_	O
+23	$	$	$	_	25	qmod	_	B-MONEY
+24	9.6	0	CD	_	25	compound	_	I-MONEY
+25	M	m	CD	pos2=NNP	22	pobj	_	L-MONEY
+26	.	.	.	_	7	punct	_	O
+
+1	https://t.co/lhJOxBpflH	#hlink#	ADD	_	0	root	_	U-ORG
+

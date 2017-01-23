@@ -1,0 +1,28 @@
+1	@elizabethforma	@elizabethforma	UH	pos2=NN	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	thought	think	VBD	_	0	root	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	kneww	kneww	VBD	pos2=VBP	3	ccomp	_	O
+6	something	something	NN	_	5	dobj	_	O
+7	about	about	IN	pos2=RB	6	prep	_	O
+8	big	big	JJ	_	9	nmod	_	O
+9	business	business	NN	_	7	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	If	if	IN	_	5	mark	_	O
+2	you	you	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	know	know	VB	_	14	advcl	_	O
+6	about	about	IN	_	5	prep	_	O
+7	interviewing	interview	VBG	pos2=NN	6	pcomp	_	O
+8	and	and	CC	_	7	cc	_	O
+9	hiring	hire	VBG	pos2=NN	7	conj	_	O
+10	,	,	,	_	14	punct	_	O
+11	you	you	PRP	_	14	nsubj	_	O
+12	do	do	VBP	_	14	aux	_	O
+13	n't	not	RB	_	14	neg	_	O
+14	know	know	VB	_	0	root	_	O
+15	much	much	JJ	pos2=RB	14	dobj	_	O
+16	.	.	.	_	14	punct	_	O
+

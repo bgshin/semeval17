@@ -1,0 +1,25 @@
+1	When	when	WRB	_	11	advmod	_	O
+2	the	the	DT	_	3	det	_	O
+3	person	person	NN	_	11	nsubj	_	O
+4	you	you	PRP	_	6	nsubj	_	O
+5	're	be	VBP	_	6	aux	_	O
+6	sitting	sit	VBG	_	3	relcl	_	O
+7	next	next	RB	_	6	advmod	_	O
+8	to	to	IN	pos2=TO	7	prep	_	O
+9	in	in	IN	pos2=RB	6	prep	_	O
+10	#FantasticBeasts	#fantasticbeasts	NNP	pos2=PRP	9	pobj	_	U-ORG
+11	says	say	VBZ	_	0	root	_	O
+12	"	"	``	pos2=''	11	punct	_	O
+13	aw	aw	UH	pos2=FW	16	discourse	_	O
+14	a	a	DT	_	15	det	_	O
+15	didnae	didnae	NNS	pos2=NN	16	nsubj	_	O
+16	know	know	VBP	pos2=VB	11	ccomp	_	O
+17	it	it	PRP	_	19	nsubjpass	_	O
+18	was	be	VBD	_	19	auxpass	_	O
+19	set	set	VBN	_	16	ccomp	_	O
+20	in	in	IN	_	19	prep	_	O
+21	New	new	NNP	_	22	compound	_	B-GPE
+22	York	york	NNP	_	20	pobj	_	L-GPE
+23	"	"	''	pos2=``	24	punct	_	O
+24	😳🔫	😳🔫	NN	pos2=.	19	npadvmod	_	U-QUANTITY
+

@@ -1,0 +1,14 @@
+1	@truthglow	@truthglow	UH	pos2=XX	10	discourse	_	O
+2	@katalin_pota	@katalin_pota	UH	pos2=GW	10	discourse	_	O
+3	@BasemntDwllng	@basemntdwllng	VBG	pos2=UH	10	csubj	_	O
+4	@SenWarren2020	@senwarren0	NN	pos2=ADD	6	nmod	_	O
+5	@elizabethforma	@elizabethforma	FW	pos2=UH	9	nmod	_	O
+6	@SenatorWarren	@senatorwarren	NNP	pos2=VBN	3	dobj	_	O
+7	At	at	IN	_	3	prep	_	O
+8	1	0	CD	_	9	nmod	_	B-DATE
+9	st	st	NN	pos2=NNS	7	pobj	_	L-DATE
+10	thought	think	VBD	pos2=NN	0	root	_	O
+11	you	you	PRP	_	12	nsubj	_	O
+12	meant	mean	VBD	pos2=VBN	10	ccomp	_	O
+13	philosophically.😂	philosophically.😂	.	pos2=NNP	10	punct	_	O
+

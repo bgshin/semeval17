@@ -1,0 +1,21 @@
+1	@BrandonVDixon	@brandonvdixon	ADD	pos2=NN	4	cc	_	O
+2	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	4	punct	_	O
+3	@mike_pence	@mike_pence	ADD	pos2=IN	4	nsubj	_	O
+4	@BrandonVDixonTRASH	@brandonvdixontrash	VB	pos2=ADD	8	advcl	_	O
+5	LIKE	like	IN	pos2=UH	4	prep	_	O
+6	u	u	PRP	pos2=NN	5	pobj	_	O
+7	,	,	,	_	8	punct	_	O
+8	IS	be	VBZ	_	0	root	_	O
+9	WHAT	what	WP	_	10	det	_	O
+10	S	s	NN	pos2=VBZ	8	nsubj	_	O
+11	WRONG	wrong	JJ	pos2=NN	8	acomp	_	O
+12	WITH	with	IN	_	11	prep	_	O
+13	SOCIETY	society	NN	pos2=NNP	12	pobj	_	O
+14	THE	the	DT	_	15	det	_	O
+15	CAST	cast	NN	pos2=NNP	18	nsubj	_	O
+16	OF	of	IN	_	15	prep	_	O
+17	HAMILTON	hamilton	NNP	pos2=NN	16	pobj	_	U-PERSON
+18	looked	look	VBD	_	8	ccomp	_	O
+19	WEAK	weak	JJ	_	18	acomp	_	O
+20	THANX2u	thanx0u	NN	pos2=NNS	18	npadvmod	_	O
+

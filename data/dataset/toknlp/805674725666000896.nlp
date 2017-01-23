@@ -1,0 +1,25 @@
+1	@War_on_Memes	@war_on_memes	NNS	pos2=ADD	2	nsubj	_	O
+2	@ArtByAlida	@artbyalida	ADD	pos2=GW	24	ccomp	_	O
+3	@DataLogicTruth	@datalogictruth	UH	pos2=XX	2	dobj	_	O
+4	If	if	IN	_	6	mark	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	lower	lower	VBP	_	24	advcl	_	O
+7	your	your	PRP$	_	9	poss	_	O
+8	minimum	minimum	JJ	pos2=NN	9	nmod	_	O
+9	wage	wage	NN	_	6	dobj	_	O
+10	to	to	IN	_	6	prep	_	O
+11	$	$	$	_	12	nmod	_	O
+12	1	0	CD	_	10	pobj	_	U-MONEY
+13	or	or	CC	_	6	cc	_	O
+14	are	be	VBP	_	6	conj	_	O
+15	prepared	prepared	JJ	pos2=VBN	14	acomp	_	O
+16	to	to	TO	_	17	aux	_	O
+17	pay	pay	VB	_	15	xcomp	_	O
+18	$	$	$	_	19	nmod	_	O
+19	3000	0	CD	_	17	dobj	_	U-MONEY
+20	for	for	IN	_	17	prep	_	O
+21	an	an	DT	_	22	det	_	O
+22	iphone	iphone	NN	pos2=NNP	20	pobj	_	O
+23	,	,	,	_	24	punct	_	O
+24	sure	sure	JJ	pos2=UH	0	root	_	O
+

@@ -1,0 +1,20 @@
+1	How	how	WRB	_	7	advmod	_	O
+2	the	the	DT	_	4	det	_	B-ORG
+3	Electoral	electoral	NNP	_	4	compound	_	I-ORG
+4	College	college	NNP	pos2=NN	7	nsubj	_	L-ORG
+5	always	always	RB	_	7	advmod	_	O
+6	has	have	VBZ	_	7	aux	_	O
+7	protected	protect	VBN	_	0	root	_	O
+8	white	white	JJ	_	9	nmod	_	O
+9	power	power	NN	_	7	dobj	_	O
+10	,	,	,	_	7	punct	_	O
+11	from	from	IN	_	7	prep	_	O
+12	slave	slave	NN	_	13	compound	_	O
+13	states	state	NNS	pos2=VBZ	11	pobj	_	O
+14	to	to	IN	pos2=TO	17	prep	_	O
+15	whose	whose	WP$	_	16	poss	_	O
+16	vote	vote	NN	pos2=VB	14	pcomp	_	O
+17	counts	count	VBZ	pos2=NNS	13	relcl	_	O
+18	https://t.co/BddF2RIZli	#hlink#	ADD	pos2=RBR	19	nsubj	_	O
+19	#ElectoralCollege	#electoralcollege	ADD	pos2=-RRB-	7	advcl	_	O
+

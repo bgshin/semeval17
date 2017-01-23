@@ -1,0 +1,15 @@
+1	@BarackObama	@barackobama	NN	pos2=NNP	2	nsubj	_	O
+2	made	make	VBD	pos2=VBN	0	root	_	O
+3	America	america	NNP	_	4	nsubj	_	U-GPE
+4	Respected	respect	VBN	pos2=NNP	2	ccomp	_	O
+5	around	around	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	world	world	NN	_	5	pobj	_	O
+8	again	again	RB	_	4	advmod	_	O
+9	#thankyouObama	#thankyouobama	NNP	pos2=IN	10	compound	_	B-PERSON
+10	@CNN	@cnn	NNP	pos2=ADD	14	nsubj	_	L-PERSON
+11	@foxnews	@foxnews	UH	pos2=POS	14	discourse	_	O
+12	@Msnbc	@msnbc	NNP	pos2=XX	14	nmod	_	U-PERSON
+13	@cbsnews	@cbsnews	UH	pos2=NNPS	14	discourse	_	O
+14	@ABCPolitics	@abcpolitics	NNS	pos2=ADD	2	dobj	_	O
+

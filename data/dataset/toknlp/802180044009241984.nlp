@@ -1,0 +1,18 @@
+1	Justin	justin	NNP	_	9	compound	_	B-ORG
+2	Verlander	verlander	NNP	_	9	compound	_	I-ORG
+3	Detroit	detroit	NNP	_	4	compound	_	I-ORG
+4	Tigers	tiger	NNPS	pos2=NNP	5	compound	_	L-ORG
+5	#	#	NN	pos2=$	6	dep	_	O
+6	128	0	LS	pos2=CD	9	meta	_	U-MONEY
+7	MLB	mlb	NNP	_	9	compound	_	O
+8	Sports	sport	NNPS	pos2=NNS	9	compound	_	B-ORG
+9	Illustrated	illustrated	NNP	pos2=VBN	0	root	_	L-ORG
+10	for	for	IN	_	9	prep	_	O
+11	Kids	kid	NNPS	pos2=NNS	10	pobj	_	O
+12	SI	si	NNP	pos2=NN	17	nmod	_	O
+13	For	for	IN	_	12	prep	_	O
+14	Kids	kid	NNS	pos2=NNPS	13	pobj	_	O
+15	https://t.co/ys5f0JebwR	#hlink#	ADD	pos2=VBP	11	appos	_	O
+16	via	via	IN	_	9	prep	_	O
+17	@pebbkenklessba1	@pebbkenklessba0	NN	pos2=CD	16	pobj	_	O
+

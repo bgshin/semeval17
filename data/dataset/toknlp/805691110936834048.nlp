@@ -1,0 +1,25 @@
+1	@sunshadow7	@sunshadow0	NN	pos2=LS	2	compound	_	O
+2	@farrm51	@farrm0	NN	pos2=LS	4	compound	_	O
+3	@Linzz_1	@linzz_0	NNP	pos2=NN	4	compound	_	B-ORG
+4	Point	point	NNP	pos2=NN	5	nsubj	_	L-ORG
+5	missed	miss	VBD	pos2=VBN	0	root	_	O
+6	totally	totally	RB	_	5	advmod	_	O
+7	...	..	.	pos2=,	5	punct	_	O
+
+1	after	after	IN	_	10	mark	_	O
+2	Port	port	NNP	pos2=NN	3	nmod	_	O
+3	Arthur	arthur	NNP	_	8	nmod	_	O
+4	national	national	JJ	pos2=NNP	5	nmod	_	O
+5	strategies	strategy	NNS	_	8	compound	_	O
+6	abt	abt	NN	pos2=IN	8	compound	_	O
+7	gun	gun	NN	_	8	compound	_	O
+8	control	control	NN	pos2=NNS	10	nsubjpass	_	O
+9	were	be	VBD	_	10	auxpass	_	O
+10	set	set	VBN	pos2=NN	12	pobj	_	O
+11	up	up	RP	pos2=RB	10	prt	_	O
+12	.	.	.	_	0	root	_	O
+
+1	No	no	DT	_	2	det	_	O
+2	changes	change	NNS	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+

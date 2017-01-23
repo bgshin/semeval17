@@ -1,0 +1,17 @@
+1	Anybody	anybody	NN	_	0	nsubj	_	O
+2	else	else	RB	_	1	advmod	_	O
+3	sick	sick	JJ	pos2=NN	1	nmod	_	O
+4	of	of	IN	_	3	prep	_	O
+5	@megynkelly	@megynkelly	RB	pos2=XX	6	advmod	_	O
+6	selling	sell	VBG	_	4	pcomp	_	O
+7	her	her	PRP$	pos2=PRP	8	poss	_	O
+8	book	book	NN	_	6	dobj	_	O
+9	all	all	RB	pos2=DT	10	advmod	_	O
+10	over	over	IN	pos2=RB	6	prep	_	O
+11	twitter	twitter	NN	pos2=NNP	10	pobj	_	O
+12	and	and	CC	_	11	cc	_	O
+13	@FoxNews	@foxnews	NNS	pos2=NN	11	conj	_	O
+14	??	??	.	pos2=SYM	1	punct	_	O
+
+1	https://t.co/wine4OeLjC	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,21 @@
+1	@AtlusUSA	@atlususa	NNP	pos2=NN	6	nsubj	_	O
+2	Where	where	WRB	_	3	advmod	_	O
+3	is	be	VBZ	_	1	relcl	_	O
+4	the	the	DT	_	5	det	_	O
+5	Persona	persona	NN	pos2=NNP	7	nmod	_	O
+6	5	0	CD	_	7	nmod	_	U-CARDINAL
+7	theme	theme	NN	_	0	root	_	O
+8	for	for	IN	_	7	prep	_	O
+9	EU	eu	NNP	pos2=NN	8	pobj	_	U-ORG
+10	and	and	CC	_	9	cc	_	O
+11	ANZ	anz	NNP	_	9	conj	_	U-ORG
+12	?	?	.	_	1	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	find	find	VB	_	0	root	_	O
+5	it	it	PRP	_	4	dobj	_	O
+6	anywhere	anywhere	RB	_	4	advmod	_	O
+7	.	.	.	_	4	punct	_	O
+

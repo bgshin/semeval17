@@ -1,0 +1,19 @@
+1	Speaking	speak	VBG	_	5	csubj	_	O
+2	out	out	RP	pos2=RB	1	prt	_	O
+3	may	may	MD	_	5	aux	_	O
+4	not	not	RB	_	5	neg	_	O
+5	be	be	VB	_	0	root	_	O
+6	in	in	IN	_	5	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	best	good	JJS	_	9	nmod	_	O
+9	interest	interest	NN	_	6	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Jewish	jewish	JJ	_	12	nmod	_	U-NORP
+12	organizations	organization	NNS	_	10	pobj	_	O
+13	and	and	CC	_	12	cc	_	O
+14	other	other	JJ	_	15	nmod	_	O
+15	groups	group	NNS	_	12	conj	_	O
+16	.	.	.	_	5	punct	_	O
+
+1	https://t.co/SvmPFbmLnr	#hlink#	ADD	_	0	root	_	U-ORG
+

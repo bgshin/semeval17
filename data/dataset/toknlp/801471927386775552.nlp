@@ -1,0 +1,27 @@
+1	From	from	IN	_	5	prep	_	O
+2	moment	moment	NN	_	1	pobj	_	O
+3	he	he	PRP	_	5	nsubjpass	_	O
+4	was	be	VBD	_	5	auxpass	_	O
+5	elected	elect	VBN	_	9	advcl	_	O
+6	Far	far	RB	pos2=NNP	8	nmod	_	B-NORP
+7	-	-	HYPH	pos2=:	8	punct	_	I-NORP
+8	Rightists	rightist	NNPS	pos2=NNS	9	nsubj	_	L-NORP
+9	accused	accuse	VBD	pos2=VBN	0	root	_	O
+10	Obama	obama	NNP	_	9	dobj	_	U-PERSON
+11	of	of	IN	_	9	prep	_	O
+12	Jewphobia	jewphobia	NNP	pos2=NNPS	11	pobj	_	O
+13	because	because	IN	_	17	mark	_	O
+14	he	he	PRP	_	17	nsubj	_	O
+15	did	do	VBD	_	17	aux	_	O
+16	n't	not	RB	_	17	neg	_	O
+17	conform	conform	VB	_	9	advcl	_	O
+18	to	to	IN	_	17	prep	_	O
+19	their	their	PRP$	_	20	poss	_	O
+20	politics	politics	NNS	_	18	pobj	_	O
+21	-	-	:	pos2=,	17	punct	_	O
+22	a	a	DT	_	25	det	_	O
+23	baseless	baseless	JJ	_	25	nmod	_	O
+24	vicious	vicious	JJ	_	25	nmod	_	O
+25	attack	attack	NN	_	17	dobj	_	O
+26	.	.	.	_	9	punct	_	O
+

@@ -1,0 +1,21 @@
+1	George	george	NNP	_	2	compound	_	B-PERSON
+2	Soros	soros	NNP	_	3	compound	_	L-PERSON
+3	BOT	bot	NN	pos2=NNP	7	compound	_	O
+4	Funding	funding	NNP	pos2=NN	7	compound	_	O
+5	Jill	jill	NNP	_	7	compound	_	B-PERSON
+6	Stein	stein	NNP	_	7	compound	_	L-PERSON
+7	Recount	recount	NNP	_	20	dep	_	O
+8	At	at	IN	_	7	prep	_	O
+9	Steady	steady	NNP	pos2=JJ	10	compound	_	O
+10	Rate	rate	NN	pos2=NNP	8	pobj	_	O
+11	$	$	$	pos2=HYPH	12	nmod	_	O
+12	160k	0k	CD	pos2=NN	20	dep	_	U-MONEY
+13	Per	per	IN	pos2=NNP	12	prep	_	O
+14	Hour	hour	NN	pos2=NNP	13	pobj	_	O
+15	-	-	:	pos2=HYPH	12	punct	_	O
+16	Without	without	IN	_	12	prep	_	O
+17	Deviation	deviation	NN	pos2=NNP	16	pobj	_	O
+18	#AllLiesMatter	#allliesmatter	GW	pos2=NNP	20	nmod	_	O
+19	…	…	NFP	pos2=GW	20	punct	_	O
+20	https://t.co/rNtoprPd14	#hlink#	ADD	pos2=NN	0	root	_	O
+

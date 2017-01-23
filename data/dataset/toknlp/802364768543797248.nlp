@@ -1,0 +1,31 @@
+1	If	if	IN	_	3	mark	_	O
+2	they	they	PRP	_	3	nsubj	_	O
+3	try	try	VBP	_	12	advcl	_	O
+4	to	to	TO	_	5	aux	_	O
+5	steal	steal	VB	_	3	xcomp	_	O
+6	the	the	DT	_	7	det	_	O
+7	election	election	NN	_	5	dobj	_	O
+8	with	with	IN	_	5	prep	_	O
+9	this	this	DT	_	10	det	_	O
+10	recount	recount	NN	_	8	pobj	_	O
+11	just	just	RB	_	12	advmod	_	O
+12	start	start	VB	pos2=VBP	0	root	_	O
+13	the	the	DT	_	15	det	_	O
+14	civil	civil	JJ	_	15	nmod	_	O
+15	war	war	NN	_	12	dobj	_	O
+16	already	already	RB	_	12	advmod	_	O
+17	.	.	.	_	12	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	perfect	perfect	JJ	_	5	nmod	_	O
+5	excuse	excuse	NN	_	2	attr	_	O
+6	to	to	TO	_	7	aux	_	O
+7	kill	kill	VB	_	5	relcl	_	O
+8	all	all	DT	_	7	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	leftists	leftist	NNS	_	9	pobj	_	O
+12	.	.	.	_	2	punct	_	O
+

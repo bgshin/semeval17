@@ -1,0 +1,17 @@
+1	Famliy	famliy	NN	pos2=NNP	0	root	_	O
+2	hittin	hittin	IN	pos2=VBZ	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	#mannequinchallenge	#mannequinchallenge	NNP	pos2=NN	2	pobj	_	O
+5	&	&	CC	_	4	cc	_	O
+6	#hitemwiththeshoulders	#hitemwiththeshoulders	NNS	pos2=RB	4	conj	_	O
+7	all	all	RB	pos2=DT	8	advmod	_	O
+8	at	at	IN	pos2=RB	5	prep	_	O
+9	once	once	RB	_	8	pcomp	_	O
+10	.	.	.	_	1	punct	_	O
+
+1	Lit	light	VB	pos2=VBN	0	root	_	O
+2	this	this	DT	_	4	det	_	O
+3	Thanksgiving	thanksgiving	NNP	pos2=GW	4	compound	_	B-PERSON
+4	🔥	🔥	NNP	pos2=NFP	1	dobj	_	L-PERSON
+5	https://t.co/fMUcpqGeUo	#hlink#	ADD	_	4	appos	_	O
+

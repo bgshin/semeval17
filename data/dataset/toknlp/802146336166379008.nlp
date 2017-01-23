@@ -1,0 +1,27 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	would	would	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	trust	trust	VB	_	0	root	_	O
+5	@DrJillStein	@drjillstein	NNP	pos2=ADD	4	dobj	_	U-ORG
+6	to	to	TO	_	7	aux	_	O
+7	hold	hold	VB	_	4	xcomp	_	O
+8	my	my	PRP$	_	9	poss	_	O
+9	latte	latte	NN	_	7	dobj	_	O
+10	for	for	IN	_	7	prep	_	O
+11	me	me	PRP	_	10	pobj	_	O
+12	for	for	IN	_	7	prep	_	O
+13	a	a	DT	_	14	det	_	O
+14	sec	sec	NN	pos2=NNP	12	pobj	_	O
+15	.	.	.	_	4	punct	_	O
+
+1	Make	make	VB	pos2=NN	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	that	that	DT	pos2=IN	2	pobj	_	O
+4	what	what	WP	_	6	dobj	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	will	will	MD	pos2=VBP	1	ccomp	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	#StillWithHer	#stillwithher	ADD	pos2=NN	2	det	_	O
+2	#TheResistance	#theresistance	NN	pos2=ADD	0	root	_	O
+

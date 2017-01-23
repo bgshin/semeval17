@@ -1,0 +1,16 @@
+1	@StefanKertesz	@stefankertesz	ADD	pos2=XX	0	root	_	O
+2	@UnhealthyAlcDrg	@unhealthyalcdrg	ADD	pos2=XX	6	nmod	_	O
+3	@andrewkolodny	@andrewkolodny	UH	pos2=XX	6	discourse	_	O
+4	@rubinsteinmd	@rubinsteinmd	UH	pos2=IN	6	discourse	_	O
+5	Poorer	poor	JJR	pos2=NNP	6	nmod	_	O
+6	states	state	NNS	_	1	dobj	_	O
+7	than	than	IN	_	6	prep	_	O
+8	Alabama	alabama	NNP	_	7	pobj	_	U-GPE
+9	have	have	VBP	pos2=VB	6	advcl	_	O
+10	it	it	PRP	_	9	dobj	_	O
+11	because	because	IN	_	13	mark	_	O
+12	they	they	PRP	_	13	nsubj	_	O
+13	accepted	accept	VBD	_	9	advcl	_	O
+14	Medicaid	medicaid	NNP	_	15	compound	_	U-ORG
+15	expansion	expansion	NN	_	13	dobj	_	O
+

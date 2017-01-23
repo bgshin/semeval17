@@ -1,0 +1,21 @@
+1	@EAAZuz	@eaazuz	ADD	pos2=UH	5	nsubj	_	O
+2	@UN_News_Centre	@un_news_centre	UH	pos2=ADD	5	discourse	_	O
+3	even	even	RB	_	5	advmod	_	O
+4	that	that	DT	pos2=WDT	5	nsubj	_	O
+5	carries	carry	VBZ	_	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	responsibility	responsibility	NN	_	5	dobj	_	O
+8	for	for	IN	_	12	mark	_	O
+9	the	the	DT	_	10	det	_	O
+10	LNA	lna	NNP	pos2=NN	12	nsubj	_	U-ORG
+11	to	to	TO	_	12	aux	_	O
+12	address	address	VB	_	7	advcl	_	O
+13	the	the	DT	_	14	det	_	O
+14	issue	issue	NN	_	12	dobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	human	human	JJ	_	17	nmod	_	O
+17	shields	shield	NNS	pos2=NN	15	pobj	_	O
+18	.	.	.	_	5	punct	_	O
+
+1	#Libya	#libya	NNP	pos2=XX	0	root	_	O
+

@@ -1,0 +1,24 @@
+1	At	at	IN	pos2=RB	2	advmod	_	O
+2	least	least	RBS	pos2=JJS	4	advmod	_	O
+3	they	they	PRP	_	4	nsubj	_	O
+4	created	create	VBD	pos2=VBN	0	root	_	O
+5	electoral	electoral	JJ	_	6	nmod	_	O
+6	college	college	NN	_	4	dobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	prevent	prevent	VB	_	4	advcl	_	O
+9	less	less	RBR	_	10	advmod	_	O
+10	popular	popular	JJ	_	11	nmod	_	O
+11	candidate	candidate	NN	_	8	dobj	_	O
+12	from	from	IN	_	8	prep	_	O
+13	getting	get	VBG	_	12	pcomp	_	O
+14	victory	victory	NN	_	13	dobj	_	O
+15	by	by	IN	_	13	prep	_	O
+16	popular	popular	JJ	_	17	nmod	_	O
+17	vote	vote	NN	_	15	pobj	_	O
+18	with	with	IN	_	17	prep	_	O
+19	help	help	NN	_	18	pobj	_	O
+20	of	of	IN	_	19	prep	_	O
+21	bigger	big	JJR	_	22	nmod	_	O
+22	states	state	NNS	_	20	pobj	_	O
+23	.	.	.	_	4	punct	_	O
+

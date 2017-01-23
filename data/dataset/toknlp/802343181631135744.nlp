@@ -1,0 +1,23 @@
+1	Business	business	NN	pos2=NNP	2	compound	_	O
+2	LOTP	lotp	NN	pos2=TO	3	compound	_	O
+3	update	update	NN	_	10	dep	_	O
+4	:	:	:	_	3	punct	_	O
+5	FoxBusiness	foxbusiness	NNP	pos2=NN	10	dep	_	O
+6	:	:	:	_	8	punct	_	O
+7	#Trump	#trump	NNP	pos2=NN	8	compound	_	O
+8	Names	name	NNPS	pos2=NNP	10	compound	_	O
+9	Don	don	NNP	_	10	compound	_	B-PERSON
+10	McGhan	mcghan	NNP	_	17	dep	_	L-PERSON
+11	as	as	IN	_	10	prep	_	O
+12	White	white	NNP	_	13	compound	_	B-ORG
+13	House	house	NNP	_	14	compound	_	L-ORG
+14	Counsel	counsel	NN	pos2=NNP	11	pobj	_	O
+15	:	:	:	_	17	punct	_	O
+16	transition2017	transition0	NN	pos2=CD	17	compound	_	O
+17	Official	official	NN	pos2=NNP	0	root	_	O
+18	.	.	.	_	17	punct	_	O
+
+1	https://t.co/KXvVqEfQlx	#hlink#	ADD	_	0	root	_	O
+2	#busn	#busn	IN	pos2=-RRB-	1	prep	_	O
+3	…	…	NFP	pos2=.	2	pobj	_	O
+

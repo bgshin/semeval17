@@ -1,0 +1,16 @@
+1	3	0	CD	_	3	nmod	_	U-CARDINAL
+2	D	d	NN	pos2=JJ	3	compound	_	O
+3	printing	printing	NN	_	8	dep	_	O
+4	:	:	:	_	8	punct	_	O
+5	it	it	PRP	_	8	nsubj	_	O
+6	'll	will	MD	_	8	aux	_	O
+7	either	either	CC	pos2=RB	8	preconj	_	O
+8	teach	teach	VB	_	0	root	_	O
+9	you	you	PRP	_	8	dative	_	O
+10	patience	patience	NN	pos2=VBP	8	dobj	_	O
+11	,	,	,	_	8	punct	_	O
+12	or	or	CC	_	8	cc	_	O
+13	exhaust	exhaust	VB	_	8	conj	_	O
+14	it	it	PRP	_	13	dobj	_	O
+15	!	!	.	_	8	punct	_	O
+

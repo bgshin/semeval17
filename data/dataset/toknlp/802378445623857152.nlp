@@ -1,0 +1,27 @@
+1	IVANKA	ivanka	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	PLAYING	play	VBG	_	0	root	_	O
+3	FLOTUS	flotus	NNP	pos2=NN	2	dobj	_	U-ORG
+4	?	?	.	_	2	punct	_	O
+
+1	--	--	:	pos2=SYM	10	punct	_	O
+2	Pres.	pres.	NNP	pos2=XX	4	compound	_	O
+3	-	-	HYPH	pos2=:	4	punct	_	O
+4	Elect	elect	NNP	_	5	compound	_	O
+5	Drumpf	drumpf	NNP	pos2=NN	10	dep	_	O
+6	:	:	:	_	10	punct	_	O
+7	Ivanka	ivanka	NNP	_	8	compound	_	O
+8	Drumpf	drumpf	NNP	_	10	nsubj	_	O
+9	Will	will	MD	pos2=NNP	10	aux	_	O
+10	Move	move	VB	_	0	root	_	O
+11	Into	into	IN	pos2=NNP	10	prep	_	O
+12	White	white	NNP	_	13	compound	_	O
+13	House	house	NNP	_	11	pobj	_	O
+14	‘	'	''	pos2=POS	10	punct	_	O
+15	To	to	TO	pos2=IN	16	aux	_	O
+16	Fill	fill	VB	pos2=NNP	10	advcl	_	O
+17	Melania	melania	NNP	_	19	poss	_	O
+18	’s	's	POS	_	17	case	_	O
+19	Vacancy	vacancy	NN	pos2=NNP	16	dobj	_	O
+20	’	'	''	pos2=POS	19	punct	_	O
+21	https://t.co/simAnVLMLU	#hlink#	ADD	pos2=NN	16	dobj	_	O
+

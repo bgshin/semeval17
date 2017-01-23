@@ -1,0 +1,16 @@
+1	#Repost	#repost	NNP	pos2=XX	2	nsubj	_	U-PERSON
+2	@screamqueens	@screamqueens	VBZ	pos2=NNS	0	root	_	O
+3	with	with	IN	_	2	prep	_	O
+4	repostapp・・・Happy	repostapp・・・happy	NNP	pos2=JJ	3	pobj	_	U-PRODUCT
+5	#Thanksgiving	#thanksgiving	VBG	pos2=NNP	2	advcl	_	O
+6	from	from	IN	_	5	prep	_	O
+7	the	the	DT	_	9	det	_	B-ORG
+8	#ScreamQueens	#screamqueens	NNP	_	9	compound	_	I-ORG
+9	Family	family	NNP	pos2=NN	6	pobj	_	L-ORG
+10	!	!	.	_	2	punct	_	O
+
+1	📷	📷	NN	pos2=NFP	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	…	…	NFP	pos2=-LRB-	4	punct	_	O
+4	https://t.co/WtDwsclvtA	#hlink#	ADD	_	0	root	_	O
+

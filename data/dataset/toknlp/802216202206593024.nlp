@@ -1,0 +1,20 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=ADD	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	from	from	IN	_	2	prep	_	O
+7	@bi0ex1	@bi0ex0	CD	pos2=ADD	6	pobj	_	O
+8	https://t.co/MKAf75Pzgp	#hlink#	ADD	pos2=NN	11	nmod	_	O
+9	Anti-Donald	anti-donald	NNP	pos2=CC	11	compound	_	O
+10	Trump	trump	NNP	_	11	compound	_	B-ORG
+11	Protests	protest	NNPS	pos2=NNS	6	pobj	_	L-ORG
+12	and	and	CC	_	11	cc	_	O
+13	Riots	riot	NNS	pos2=NNPS	11	conj	_	O
+14	in	in	IN	_	2	prep	_	O
+15	a	a	DT	_	16	det	_	O
+16	Nutshell	nutshell	NN	pos2=NNP	14	pobj	_	O
+17	(	(	-LRB-	_	16	punct	_	O
+18	VIDEO	video	NN	_	16	appos	_	O
+19	)	)	-RRB-	_	16	punct	_	O
+

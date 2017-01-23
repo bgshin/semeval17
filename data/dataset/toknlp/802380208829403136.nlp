@@ -1,0 +1,17 @@
+1	Bob	bob	NNP	_	2	compound	_	B-PERSON
+2	Dylan	dylan	NNP	_	16	poss	_	I-PERSON
+3	's	's	POS	_	2	case	_	L-PERSON
+4	Greatest	greatest	NNP	pos2=JJS	5	compound	_	B-WORK_OF_ART
+5	Hits	hit	NNPS	pos2=NNS	7	compound	_	I-WORK_OF_ART
+6	-	-	HYPH	pos2=SYM	7	punct	_	I-WORK_OF_ART
+7	12	0	CD	_	16	nmod	_	L-WORK_OF_ART
+8	"	"	''	pos2=``	16	punct	_	O
+9	LP	lp	NN	pos2=NNP	16	nmod	_	O
+10	New	new	NNP	_	11	compound	_	B-GPE
+11	Zealand	zealand	NNP	pos2=NN	15	dep	_	L-GPE
+12	-	-	HYPH	pos2=:	13	punct	_	O
+13	original	original	JJ	_	14	nmod	_	O
+14	vinyl	vinyl	NN	_	16	nmod	_	O
+15	https://t.co/UwBPYLST81	#hlink#	ADD	pos2=NN	16	nmod	_	O
+16	#vinylrecords	#vinylrecords	NNS	pos2=-RRB-	0	root	_	O
+

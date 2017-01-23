@@ -1,0 +1,24 @@
+1	The	the	DT	_	3	det	_	O
+2	education	education	NN	_	3	compound	_	O
+3	system	system	NN	_	0	nsubjpass	_	O
+4	of	of	IN	_	3	prep	_	O
+5	#KRG	#krg	NN	pos2=NNP	4	pobj	_	O
+6	in	in	IN	_	3	prep	_	O
+7	a	a	DT	_	8	det	_	O
+8	perilous	perilous	JJ	pos2=NN	6	pobj	_	O
+9	,	,	,	_	13	punct	_	O
+10	the	the	DT	_	11	det	_	O
+11	question	question	NN	_	13	nsubj	_	O
+12	should	should	MD	_	13	aux	_	O
+13	be	be	VB	_	0	root	_	O
+14	pass	pass	VB	pos2=NN	13	acomp	_	O
+15	to	to	IN	pos2=TO	14	prep	_	O
+16	#UNISEF	#unisef	VB	pos2=$	11	acl	_	O
+17	#UnitedNations	#unitednations	NNS	pos2=ADD	16	dobj	_	O
+18	about	about	IN	pos2=RB	17	prep	_	O
+19	that	that	DT	_	20	det	_	O
+20	case	case	NN	_	18	pobj	_	O
+21	.	.	.	_	13	punct	_	O
+
+1	#UNAMI	#unami	NNS	pos2=XX	0	root	_	O
+

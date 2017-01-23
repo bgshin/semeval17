@@ -1,0 +1,17 @@
+1	Pics	pic	NNS	_	0	root	_	O
+2	from	from	IN	_	1	prep	_	O
+3	@Jon_Huertas	@jon_huertas	NNS	pos2=NNP	2	pobj	_	O
+4	on	on	IN	_	1	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	Interview	interview	NNP	pos2=NN	4	pobj	_	O
+7	by	by	IN	_	1	prep	_	O
+8	#HollywoodLivetoday	#hollywoodlivetoday	NNP	pos2=NN	7	pobj	_	U-ORG
+9	about	about	IN	pos2=RB	1	prep	_	O
+10	#Homewalk	#homewalk	NNP	pos2=CD	9	pobj	_	U-ORG
+11	and	and	CC	_	10	cc	_	O
+12	more	more	JJR	pos2=RBR	10	conj	_	O
+13	!	!	.	_	1	punct	_	O
+
+1	#ThisIsUs	#thisisus	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/wqn4jpcccY	#hlink#	ADD	_	0	root	_	O
+

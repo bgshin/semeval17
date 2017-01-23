@@ -1,0 +1,25 @@
+1	@Blogsbloke	@blogsbloke	UH	pos2=NNP	3	discourse	_	O
+2	@AIIAmericanGirI	@aiiamericangiri	ADD	pos2=NN	3	nmod	_	O
+3	@DeplorableJames	@deplorablejames	NNS	pos2=ADD	9	nsubj	_	O
+4	@	@	SYM	pos2=CC	6	punct	_	O
+5	3rdReiched	0rdreiched	NN	pos2=CC	6	compound	_	O
+6	@Cernovich	@cernovich	NN	pos2=NNP	3	prep	_	O
+7	and	and	CC	_	6	cc	_	O
+8	murder	murder	NN	_	6	conj	_	O
+9	is	be	VBZ	_	13	ccomp	_	O
+10	a	a	DT	_	11	det	_	O
+11	crime	crime	NN	_	9	attr	_	O
+12	,	,	,	_	13	punct	_	O
+13	right	right	JJ	_	0	root	_	O
+14	?	?	.	_	13	punct	_	O
+
+1	gun	gun	NN	pos2=VB	3	nmod	_	O
+2	"	"	``	pos2=''	3	punct	_	O
+3	control	control	NN	_	6	nsubj	_	O
+4	"	"	''	_	3	punct	_	O
+5	only	only	RB	_	6	advmod	_	O
+6	hurts	hurt	VBZ	_	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	innocent	innocent	JJ	_	6	dobj	_	O
+9	.	.	.	_	6	punct	_	O
+

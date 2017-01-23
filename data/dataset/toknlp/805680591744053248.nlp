@@ -1,0 +1,18 @@
+1	People	people	NNS	_	7	nsubj	_	O
+2	with	with	IN	_	1	prep	_	O
+3	armed	armed	JJ	_	4	nmod	_	O
+4	security	security	NN	_	2	pobj	_	O
+5	should	should	MD	_	7	aux	_	O
+6	probably	probably	RB	_	7	advmod	_	O
+7	shut	shut	VB	_	0	root	_	O
+8	up	up	RP	_	7	prt	_	O
+9	about	about	IN	pos2=RB	7	prep	_	O
+10	gun	gun	NN	_	11	compound	_	O
+11	control	control	NN	pos2=NNS	17	dep	_	O
+12	#tcot	#tcot	XX	pos2=IN	17	dep	_	O
+13	#pjnet	#pjnet	XX	pos2=UH	17	dep	_	O
+14	#p2	#p0	XX	pos2=CD	17	dep	_	O
+15	#ccot	#ccot	XX	pos2=GW	17	nmod	_	O
+16	#nra	#nra	XX	pos2=GW	17	nmod	_	O
+17	https://t.co/EYLObpQTKU	#hlink#	ADD	pos2=XX	7	dep	_	O
+

@@ -1,0 +1,14 @@
+1	For	for	IN	_	6	prep	_	O
+2	Syrians	syrian	NNPS	_	1	pobj	_	U-NORP
+3	,	,	,	_	6	punct	_	O
+4	Barack	barack	NNP	_	5	compound	_	B-PERSON
+5	Obama	obama	NNP	_	6	nsubj	_	L-PERSON
+6	is	be	VBZ	_	0	root	_	O
+7	just	just	RB	_	9	advmod	_	O
+8	as	as	RB	_	9	advmod	_	O
+9	bad	bad	JJ	_	6	acomp	_	O
+10	as	as	IN	_	9	prep	_	O
+11	Donald	donald	NNP	_	12	compound	_	B-PERSON
+12	Trump	trump	NNP	pos2=GW	10	pobj	_	L-PERSON
+13	https://t.co/bxSOfkNND9	#hlink#	ADD	pos2=NNP	6	dep	_	O
+

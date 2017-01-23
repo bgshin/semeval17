@@ -1,0 +1,25 @@
+1	You	you	PRP	_	5	nsubj	_	O
+2	might	might	MD	_	5	aux	_	O
+3	as	as	RB	_	5	advmod	_	O
+4	well	well	RB	_	5	advmod	_	O
+5	keep	keep	VB	_	0	root	_	O
+6	dancing	dance	VBG	pos2=NN	5	xcomp	_	O
+7	,	,	,	_	6	punct	_	O
+8	dancing	dance	VBG	pos2=NN	6	conj	_	O
+9	until	until	IN	_	8	prep	_	O
+10	tomorrow	tomorrow	NN	_	9	pobj	_	U-DATE
+11	gives	give	VBZ	_	5	advcl	_	O
+12	up	up	RP	_	11	prt	_	O
+13	with	with	IN	_	11	prep	_	O
+14	a	a	DT	_	15	det	_	O
+15	shout	shout	NN	_	13	pobj	_	O
+16	.	.	.	_	5	punct	_	O
+
+1	-	-	SYM	pos2=NFP	3	punct	_	O
+2	Rita	rita	NNP	_	3	compound	_	B-PERSON
+3	Dove	dove	NNP	pos2=NN	4	nsubj	_	L-PERSON
+4	reading	read	VBG	pos2=NN	0	root	_	O
+5	at	at	IN	_	4	prep	_	O
+6	#MiamiBookFair2016	#miamibookfair0	NN	pos2=NNS	7	compound	_	U-TIME
+7	#NBAwards	#nbawards	NNS	pos2=ADD	5	pobj	_	U-MONEY
+

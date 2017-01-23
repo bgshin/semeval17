@@ -1,0 +1,17 @@
+1	@nytimes	@nytimes	UH	pos2=IN	8	discourse	_	O
+2	any	any	DT	_	5	det	_	O
+3	free	free	JJ	_	4	nmod	_	O
+4	market	market	NN	_	5	compound	_	O
+5	conservatives	conservative	NNS	_	1	dative	_	O
+6	out	out	RB	pos2=IN	7	advmod	_	O
+7	there	there	RB	_	5	advmod	_	O
+8	anymore	anymore	RB	_	0	root	_	O
+9	?	?	.	_	8	punct	_	O
+
+1	Perhaps	perhaps	RB	_	3	advmod	_	O
+2	they	they	PRP	_	3	nsubj	_	O
+3	were	be	VBD	_	0	root	_	O
+4	always	always	RB	_	3	advmod	_	O
+5	a	a	DT	_	6	det	_	O
+6	myth.	myth.	NN	pos2=JJ	3	attr	_	O
+

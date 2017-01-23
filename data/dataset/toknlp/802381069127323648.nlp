@@ -1,0 +1,14 @@
+1	@MissPatriarch	@misspatriarch	VB	pos2=NN	0	root	_	O
+2	@trump2016fan	@trump0fan	NNP	pos2=IN	3	compound	_	B-PERSON
+3	Mitt	mitt	NNP	_	1	dobj	_	L-PERSON
+4	,	,	,	_	3	punct	_	O
+5	Hillary	hillary	NNP	_	3	conj	_	U-PERSON
+6	and	and	CC	_	5	cc	_	O
+7	Obama	obama	NNP	_	9	compound	_	B-PERSON
+8	-	-	HYPH	pos2=:	9	punct	_	I-PERSON
+9	Comey	comey	NNP	_	5	conj	_	L-PERSON
+10	,	,	,	_	1	punct	_	O
+11	and	and	CC	_	1	cc	_	O
+12	many	many	JJ	pos2=RB	13	nmod	_	O
+13	more	more	JJR	_	9	conj	_	O
+

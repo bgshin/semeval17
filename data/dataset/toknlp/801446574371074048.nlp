@@ -1,0 +1,16 @@
+1	#Iraq	#iraq	NNP	pos2=NNS	3	nmod	_	U-GPE
+2	,	,	,	_	3	punct	_	O
+3	#Mosul	#mosul	NNP	pos2=NFP	7	nmod	_	U-GPE
+4	|	|	SYM	pos2=,	6	punct	_	O
+5	#Iraqi_Forces	#iraqi_forces	NNS	pos2=ADD	6	nsubj	_	O
+6	regains	regain	VBZ	_	0	root	_	O
+7	control	control	NN	_	6	dobj	_	O
+8	on	on	IN	_	6	prep	_	O
+9	neighborhoods	neighborhood	NNS	_	8	pobj	_	O
+10	east	east	NN	pos2=RB	9	advmod	_	O
+11	of	of	IN	_	10	prep	_	O
+12	M	m	NNP	pos2=NN	11	pobj	_	O
+13	osulhttps://t.co/etDq7hxPvQ#mosuloffensive	#hlink#	ADD	_	12	appos	_	O
+14	#MosulAid	#mosulaid	ADD	pos2=-RRB-	12	appos	_	O
+15	#journalism	#journalism	UH	pos2=NN	14	pobj	_	O
+

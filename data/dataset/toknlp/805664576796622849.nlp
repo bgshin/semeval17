@@ -1,0 +1,16 @@
+1	If	if	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	think	think	VBP	_	12	advcl	_	O
+4	the	the	DT	_	6	det	_	O
+5	electoral	electoral	JJ	_	6	nmod	_	O
+6	college	college	NN	_	9	nsubjpass	_	O
+7	should	should	MD	_	9	aux	_	O
+8	be	be	VB	_	9	auxpass	_	O
+9	terminated	terminate	VBN	_	3	ccomp	_	O
+10	,	,	,	_	12	punct	_	O
+11	you	you	PRP	_	12	nsubj	_	O
+12	have	have	VBP	_	0	root	_	O
+13	no	no	DT	_	14	det	_	O
+14	logic	logic	NN	_	12	dobj	_	O
+15	...	..	.	pos2=,	12	punct	_	O
+

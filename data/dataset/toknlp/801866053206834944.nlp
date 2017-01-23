@@ -1,0 +1,23 @@
+1	#	#	NN	pos2=SYM	2	dep	_	O
+2	Вата	Вата	LS	pos2=NN	3	nsubj	_	U-MONEY
+3	reports	report	VBZ	pos2=NNS	0	root	_	O
+4	this	this	DT	_	5	det	_	B-DATE
+5	week	week	NN	_	8	npadvmod	_	L-DATE
+6	#Egypt	#egypt	NNP	pos2=MD	7	nsubj	_	U-PERSON
+7	send	send	VB	_	3	ccomp	_	O
+8	his	his	PRP$	_	10	poss	_	O
+9	fighter	fighter	NN	_	10	compound	_	O
+10	jets	jet	NNS	_	7	dobj	_	O
+11	to	to	IN	pos2=TO	7	prep	_	O
+12	#Hamas	#hamas	NNP	pos2=PRP$	13	compound	_	U-GPE
+13	base	base	NN	_	11	pobj	_	O
+14	in	in	IN	pos2=RP	13	prep	_	O
+15	#Syria	#syria	NNP	pos2=NN	14	pobj	_	U-GPE
+16	to	to	TO	_	17	aux	_	O
+17	bolster	bolster	VB	_	7	advcl	_	O
+18	Assad	assad	NNP	_	19	compound	_	U-PERSON
+19	forces	force	NNS	_	17	dobj	_	O
+20	.	.	.	_	3	punct	_	O
+
+1	https://t.co/U0WIfdyjca	#hlink#	ADD	_	0	root	_	U-ORG
+

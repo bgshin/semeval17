@@ -1,0 +1,13 @@
+1	David	david	NNP	_	2	compound	_	B-PERSON
+2	Blaine	blaine	NNP	_	3	compound	_	L-PERSON
+3	shit	shit	NN	pos2=VB	0	root	_	O
+4	on	on	IN	_	3	prep	_	O
+5	Netflix	netflix	NNP	_	4	pobj	_	U-ORG
+6	about	about	RB	pos2=IN	8	advmod	_	O
+7	to	to	TO	_	8	aux	_	O
+8	make	make	VB	_	3	advcl	_	O
+9	me	me	PRP	_	10	nsubj	_	O
+10	throw	throw	VB	_	8	ccomp	_	O
+11	up	up	RP	_	10	prt	_	O
+12	.	.	.	_	3	punct	_	O
+

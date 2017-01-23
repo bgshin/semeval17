@@ -1,0 +1,16 @@
+1	Undersecretary	undersecretary	NN	pos2=NNP	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	Cement	cement	NN	pos2=NNP	2	pobj	_	O
+4	on	on	IN	_	1	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	Mexican	mexican	JJ	pos2=NNP	7	nmod	_	U-NORP
+7	Border	border	NNP	pos2=NN	4	pobj	_	O
+8	..	..	.	pos2=,	1	punct	_	O
+
+1	BUILD	build	VB	_	0	root	_	O
+2	THE	the	DT	_	3	det	_	O
+3	WALL	wall	NN	pos2=NNP	1	dobj	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	https://t.co/wUuutXHPvf	#hlink#	ADD	_	0	root	_	U-ORG
+

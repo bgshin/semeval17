@@ -1,0 +1,20 @@
+1	Thanksgiving	thanksgiving	NNP	pos2=NN	3	nsubjpass	_	U-DATE
+2	was	be	VBD	_	3	auxpass	_	O
+3	created	create	VBN	_	0	root	_	O
+4	because	because	IN	_	8	mark	_	O
+5	the	the	DT	_	7	det	_	O
+6	white	white	JJ	_	7	nmod	_	O
+7	folk	folk	NN	_	8	nsubj	_	O
+8	decided	decide	VBD	_	3	advcl	_	O
+9	to	to	TO	_	10	aux	_	O
+10	steal	steal	VB	_	8	xcomp	_	O
+11	from	from	IN	_	10	prep	_	O
+12	rape	rape	NN	_	11	pobj	_	O
+13	and	and	CC	_	10	cc	_	O
+14	murder	murder	VB	pos2=NN	10	conj	_	O
+15	the	the	DT	_	16	det	_	O
+16	ppl	ppl	NNS	pos2=NNP	14	dobj	_	O
+17	who	who	WP	_	18	nsubj	_	O
+18	were	be	VBD	_	16	relcl	_	O
+19	first	#ord#	RB	pos2=JJ	18	advmod	_	U-ORDINAL
+

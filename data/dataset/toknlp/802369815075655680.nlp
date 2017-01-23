@@ -1,0 +1,25 @@
+1	@Jeff_in_3	@jeff_in_0	NN	pos2=NNS	2	dep	_	O
+2	D	d	LS	pos2=NN	11	meta	_	O
+3	@Kia_Mak	@kia_mak	RB	pos2=NN	4	advmod	_	O
+4	So	so	RB	_	11	advmod	_	O
+5	,	,	,	_	11	punct	_	O
+6	in	in	IN	_	11	prep	_	O
+7	either	either	DT	pos2=CC	8	det	_	O
+8	scenario	scenario	NN	_	6	pobj	_	O
+9	,	,	,	_	11	punct	_	O
+10	she	she	PRP	_	11	nsubj	_	O
+11	looks	look	VBZ	_	0	root	_	O
+12	clueless	clueless	JJ	_	11	acomp	_	O
+13	.	.	.	_	11	punct	_	O
+
+1	Trump	trump	NNP	pos2=NN	3	poss	_	U-PERSON
+2	's	's	POS	_	1	case	_	O
+3	transition	transition	NN	_	5	nsubj	_	O
+4	has	have	VBZ	_	5	aux	_	O
+5	been	be	VBN	_	0	root	_	O
+6	one	#crd#	CD	_	9	nmod	_	U-CARDINAL
+7	big	big	JJ	_	9	nmod	_	O
+8	garbage	garbage	NN	_	9	compound	_	O
+9	fire	fire	NN	_	5	attr	_	O
+10	.	.	.	_	5	punct	_	O
+

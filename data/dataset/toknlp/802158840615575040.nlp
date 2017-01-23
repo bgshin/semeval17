@@ -1,0 +1,6 @@
+1	@SoyUlisesMayen	@soyulisesmayen	ADD	pos2=NNP	0	root	_	O
+2	@ricky_martin	@ricky_martin	NNP	pos2=FW	4	compound	_	O
+3	Equipo	equipo	NNP	pos2=FW	4	compound	_	B-PERSON
+4	Ricky	ricky	NNP	_	1	vocative	_	L-PERSON
+5	!!	!!	.	_	1	punct	_	O
+

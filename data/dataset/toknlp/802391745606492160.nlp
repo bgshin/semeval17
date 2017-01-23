@@ -1,0 +1,15 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	sorry	sorry	JJ	_	2	acomp	_	O
+4	,	,	,	_	3	punct	_	O
+5	Jill	jill	NNP	_	9	vocative	_	U-PERSON
+6	,	,	,	_	2	punct	_	O
+7	but	but	CC	_	2	cc	_	O
+8	this	this	DT	_	9	nsubj	_	O
+9	sounds	sound	VBZ	_	2	conj	_	O
+10	like	like	IN	_	9	prep	_	O
+11	noise	noise	NN	_	10	pobj	_	O
+12	.	.	.	_	9	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+

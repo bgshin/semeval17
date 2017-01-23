@@ -1,0 +1,7 @@
+1	#	#	NN	pos2=$	2	dep	_	O
+2	32	0	LS	pos2=CD	6	meta	_	U-MONEY
+3	-	-	:	pos2=HYPH	6	punct	_	O
+4	Saint	saint	NNP	_	5	compound	_	B-DATE
+5	Valentines	valentines	NNP	_	6	compound	_	I-DATE
+6	Day	day	NNP	pos2=NN	0	root	_	L-DATE
+

@@ -1,0 +1,20 @@
+1	@seanhanity	@seanhanity	UH	pos2=NN	3	discourse	_	O
+2	please	please	UH	_	3	discourse	_	O
+3	look	look	VB	_	0	root	_	O
+4	into	into	IN	_	3	prep	_	O
+5	why	why	WRB	pos2=DT	11	advmod	_	O
+6	old	old	JJ	_	7	nmod	_	O
+7	people	people	NNS	_	11	nsubj	_	O
+8	at	at	IN	_	7	prep	_	O
+9	Serenola	serenola	NNP	_	10	compound	_	B-LOC
+10	Pines	pine	NNP	pos2=NNS	8	pobj	_	L-LOC
+11	take	take	VB	pos2=VBP	4	pcomp	_	O
+12	drug	drug	NN	_	13	compound	_	O
+13	money	money	NN	_	11	dobj	_	O
+14	to	to	TO	_	15	aux	_	O
+15	supplement	supplement	VB	_	11	advcl	_	O
+16	their	their	PRP$	_	19	poss	_	O
+17	social	social	JJ	_	18	nmod	_	O
+18	security	security	NN	_	19	compound	_	O
+19	money	money	NN	_	15	dobj	_	O
+

@@ -1,0 +1,22 @@
+1	@moosehickey	@moosehickey	UH	pos2=XX	13	discourse	_	O
+2	@petestavros	@petestavros	UH	pos2=IN	13	discourse	_	O
+3	@megynkelly	@megynkelly	JJ	pos2=DT	5	nmod	_	O
+4	posting	post	VBG	pos2=NN	5	nmod	_	O
+5	pictures	picture	NNS	_	9	dep	_	O
+6	of	of	IN	_	5	prep	_	O
+7	Ms.	ms.	NNP	_	8	compound	_	O
+8	Kelly	kelly	NNP	_	6	pobj	_	U-PERSON
+9	while	while	IN	_	10	mark	_	O
+10	making	make	VBG	_	13	csubj	_	O
+11	slanderous	slanderous	JJ	_	12	nmod	_	O
+12	comments	comment	NNS	_	10	dobj	_	O
+13	is	be	VBZ	_	0	root	_	O
+14	pretty	pretty	RB	_	15	advmod	_	O
+15	hateful	hateful	JJ	_	13	acomp	_	O
+16	.	.	.	_	13	punct	_	O
+
+1	Name	name	NN	pos2=VB	3	compound	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	calling	calling	NN	pos2=VBG	0	root	_	O
+4	.....	..	.	_	3	punct	_	O
+

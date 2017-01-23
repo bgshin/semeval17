@@ -1,0 +1,29 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	so	so	RB	_	4	advmod	_	O
+4	funny	funny	JJ	_	2	acomp	_	O
+5	watching	watch	VBG	_	2	advcl	_	O
+6	all	all	PDT	_	9	predet	_	O
+7	the	the	DT	_	9	det	_	B-ORG
+8	White	white	NNP	pos2=JJ	9	compound	_	I-ORG
+9	Supremacists	supremacist	NNPS	pos2=NNS	5	dobj	_	L-ORG
+10	and	and	CC	_	8	cc	_	O
+11	conspiracy	conspiracy	NN	_	12	compound	_	O
+12	theory	theory	NN	_	14	nmod	_	O
+13	nuts	nuts	JJ	pos2=NNS	14	nmod	_	O
+14	attack	attack	NN	pos2=VBP	16	compound	_	O
+15	Mitt	mitt	NNP	_	16	compound	_	B-PERSON
+16	Romney	romney	NNP	_	5	dobj	_	L-PERSON
+17	.	.	.	_	2	punct	_	O
+
+1	Romney	romney	NNP	_	2	nsubj	_	U-PERSON
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	only	only	JJ	_	5	nmod	_	O
+5	GOP	gop	NNP	pos2=NN	2	attr	_	U-ORG
+6	with	with	IN	_	5	prep	_	O
+7	a	a	DT	_	9	det	_	O
+8	spine	spine	NN	_	9	compound	_	O
+9	left	left	NN	pos2=VBN	6	pobj	_	O
+10	.	.	.	_	2	punct	_	O
+

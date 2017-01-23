@@ -1,0 +1,12 @@
+1	Who	who	WP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	better	good	JJR	_	2	acomp	_	O
+4	than	than	IN	_	3	prep	_	O
+5	Grayson	grayson	NNP	_	6	compound	_	B-PERSON
+6	Allen	allen	NNP	_	4	pobj	_	L-PERSON
+7	or	or	CC	_	6	cc	_	O
+8	josh	josh	NNP	pos2=GW	10	compound	_	B-PERSON
+9	Jackson	jackson	NNP	_	10	compound	_	L-PERSON
+10	😂😂😂😂😂	😂😂😂😂😂	NNP	pos2=POS	6	conj	_	O
+11	https://t.co/loY8XxN73R	#hlink#	ADD	_	2	dep	_	O
+

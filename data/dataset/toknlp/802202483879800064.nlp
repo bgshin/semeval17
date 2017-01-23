@@ -1,0 +1,34 @@
+1	LMFAO	lmfao	NNP	pos2=NN	0	root	_	U-ORG
+2	.	.	.	_	1	punct	_	O
+
+1	A	a	DT	_	3	det	_	O
+2	white	white	JJ	_	3	nmod	_	O
+3	person	person	NN	_	9	nsubj	_	O
+4	pretending	pretend	VBG	_	3	acl	_	O
+5	to	to	TO	_	6	aux	_	O
+6	be	be	VB	_	4	xcomp	_	O
+7	a	a	DT	_	8	det	_	O
+8	Jew	jew	NNP	_	6	attr	_	U-NORP
+9	is	be	VBZ	_	0	root	_	O
+10	n't	not	RB	_	9	neg	_	O
+11	a	a	DT	_	12	det	_	O
+12	Jew	jew	NNP	_	9	attr	_	U-NORP
+13	.	.	.	_	9	punct	_	O
+
+1	Ask	ask	VB	_	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	Nazi	nazi	NNP	_	0	root	_	U-NORP
+4	's	's	POS	_	3	case	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	Her	her	PRP$	_	2	poss	_	O
+2	children	child	NNS	_	5	nsubj	_	O
+3	do	do	VBP	pos2=VB	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	qualify	qualify	VB	_	0	root	_	O
+6	as	as	IN	_	5	prep	_	O
+7	Jews	jew	NNPS	_	6	pobj	_	U-NORP
+8	.	.	.	_	5	punct	_	O
+
+1	https://t.co/mmsg1lHtSb	#hlink#	ADD	_	0	root	_	U-ORG
+

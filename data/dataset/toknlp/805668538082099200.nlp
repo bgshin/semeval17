@@ -1,0 +1,26 @@
+1	these	these	DT	_	4	det	_	O
+2	old	old	JJ	_	4	nmod	_	O
+3	Cubs	cub	NNPS	pos2=NNS	4	compound	_	U-ORG
+4	fans	fan	NNS	_	5	nsubj	_	O
+5	talking	talk	VBG	_	12	csubj	_	O
+6	about	about	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	city	city	NN	_	10	poss	_	O
+9	's	's	POS	_	8	case	_	O
+10	championship	championship	NN	_	6	pobj	_	O
+11	is	be	VBZ	_	12	aux	_	O
+12	making	make	VBG	_	0	root	_	O
+13	me	me	PRP	_	14	nsubj	_	O
+14	rethink	rethink	VB	_	12	ccomp	_	O
+15	having	have	VBG	_	16	aux	_	O
+16	childrenneed	childrenneed	VBN	pos2=NN	12	punct	_	O
+17	one	#crd#	CD	pos2=PRP	16	dobj	_	O
+18	to	to	TO	_	19	aux	_	O
+19	weep	weep	VB	_	16	advcl	_	O
+20	for	for	IN	_	19	prep	_	O
+21	me	me	PRP	_	20	pobj	_	O
+22	when	when	WRB	_	25	advmod	_	O
+23	the	the	DT	_	24	det	_	O
+24	Phins	phins	NNPS	pos2=NNP	25	nsubj	_	U-PERSON
+25	win	win	VBP	pos2=NN	19	advcl	_	O
+

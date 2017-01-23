@@ -1,0 +1,10 @@
+1	Ariana	ariana	NNP	_	3	compound	_	B-ORG
+2	Grande	grande	NNP	_	3	compound	_	I-ORG
+3	【Right	【right	NNP	pos2=:	9	dep	_	L-ORG
+4	There	there	EX	pos2=NNP	9	dep	_	O
+5	ft.	ft.	NNP	pos2=VBZ	7	compound	_	B-GPE
+6	Big	big	NNP	pos2=JJ	7	compound	_	I-GPE
+7	Sean】#アリアナ	sean】#アリアナ	NNP	pos2=GW	9	dep	_	L-GPE
+8	#arianagrande	#arianagrande	ADD	pos2=GW	9	dep	_	O
+9	https://t.co/4rZOKYDnut	#hlink#	ADD	_	0	root	_	O
+

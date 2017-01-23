@@ -1,0 +1,36 @@
+1	@doubledeez	@doubledeez	UH	pos2=SYM	5	discourse	_	O
+2	_	_	SYM	pos2=''	5	punct	_	O
+3	ca	can	MD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	take	take	VB	_	0	root	_	O
+6	you	you	PRP	_	5	dobj	_	O
+7	seriously	seriously	RB	_	5	advmod	_	O
+8	if	if	IN	_	11	mark	_	O
+9	you	you	PRP	_	11	nsubj	_	O
+10	're	be	VBP	_	11	aux	_	O
+11	working	work	VBG	_	5	advcl	_	O
+12	for	for	IN	_	11	prep	_	O
+13	minimum	minimum	JJ	pos2=NN	14	nmod	_	O
+14	wage	wage	NN	_	12	pobj	_	O
+15	,	,	,	_	11	punct	_	O
+16	no	no	DT	_	17	det	_	O
+17	car	car	NN	_	14	conj	_	O
+18	,	,	,	_	5	punct	_	O
+19	and	and	CC	_	5	cc	_	O
+20	you	you	PRP	_	21	nsubj	_	O
+21	facing	face	VBG	pos2=VBP	5	conj	_	O
+22	about	about	RB	pos2=IN	23	advmod	_	B-CARDINAL
+23	6	0	CD	_	24	nmod	_	L-CARDINAL
+24	blunts	blunts	NNS	pos2=VBZ	21	dobj	_	O
+25	a	a	DT	_	26	det	_	O
+26	day	day	NN	_	24	npadvmod	_	O
+27	....	..	.	_	5	punct	_	O
+
+1	it	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	a	a	DT	pos2=LS	4	det	_	O
+4	no	no	NN	pos2=DT	2	attr	_	O
+5	for	for	IN	_	4	prep	_	O
+6	me	me	PRP	_	5	pobj	_	O
+7	.	.	.	_	2	punct	_	O
+

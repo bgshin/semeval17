@@ -1,0 +1,10 @@
+1	perfect	perfect	JJ	_	3	nmod	_	O
+2	pussy	pussy	NN	pos2=JJ	3	compound	_	O
+3	clips	clip	NNS	pos2=VBZ	0	root	_	O
+4	#vanessa	#vanessa	WDT	pos2=XX	5	nsubj	_	O
+5	hudgens	hudgens	VBZ	pos2=FW	2	relcl	_	O
+6	zac	zac	NNP	pos2=FW	9	nmod	_	O
+7	efron	efron	GW	pos2=NN	9	nmod	_	O
+8	naked	naked	JJ	pos2=GW	9	nmod	_	O
+9	https://t.co/ddaV4nWC1V	#hlink#	ADD	pos2=NN	5	dobj	_	O
+

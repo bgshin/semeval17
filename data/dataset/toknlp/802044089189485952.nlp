@@ -1,0 +1,24 @@
+1	@OnyxOblivion	@onyxoblivion	NNP	pos2=ADD	7	vocative	_	O
+2	This	this	DT	_	3	det	_	B-DATE
+3	year	year	NN	_	1	npadvmod	_	L-DATE
+4	I	I	PRP	_	7	nsubjpass	_	O
+5	’m	be	VBP	_	7	auxpass	_	O
+6	already	already	RB	_	7	advmod	_	O
+7	taken	take	VBN	_	0	root	_	O
+8	care	care	NN	_	7	dobj	_	O
+9	of	of	IN	_	7	prep	_	O
+10	with	with	IN	_	7	prep	_	O
+11	World	world	NNP	pos2=NN	10	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	FF	ff	NNP	pos2=NN	12	pobj	_	U-ORG
+14	,	,	,	_	13	punct	_	O
+15	Persona	persona	NNP	pos2=NN	13	conj	_	O
+16	5	0	CD	_	20	advmod	_	U-CARDINAL
+17	and	and	CC	_	15	cc	_	O
+18	FFXV.	ffxv.	NNP	pos2=VBZ	15	conj	_	U-ORG
+19	So	so	RB	_	20	advmod	_	O
+20	much	much	RB	pos2=JJ	7	advmod	_	O
+21	to	to	TO	_	22	aux	_	O
+22	play	play	VB	_	7	xcomp	_	O
+23	.	.	.	_	7	punct	_	O
+

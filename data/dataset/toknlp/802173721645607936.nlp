@@ -1,0 +1,26 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	SUCCESSFULLY	successfully	RB	_	3	advmod	_	O
+3	CAPTURED	capture	VBD	_	0	root	_	O
+4	THE	the	DT	_	5	det	_	O
+5	HATCHIMAL	hatchimal	NNP	pos2=NN	3	dobj	_	U-GPE
+6	!	!	.	_	3	punct	_	O
+
+1	My	my	PRP$	_	2	poss	_	O
+2	journey	journey	NN	_	4	nsubj	_	O
+3	has	have	VBZ	_	4	aux	_	O
+4	ended	ended	VBN	pos2=JJ	0	root	_	O
+5	and	and	CC	_	4	cc	_	O
+6	I	I	PRP	_	8	nsubj	_	O
+7	will	will	MD	_	8	aux	_	O
+8	go	go	VB	_	4	conj	_	O
+9	down	down	RB	pos2=RP	8	advmod	_	O
+10	in	in	IN	_	8	prep	_	O
+11	the	the	DT	_	13	det	_	O
+12	history	history	NN	_	13	compound	_	O
+13	books	book	NNS	_	10	pobj	_	O
+14	.	.	.	_	8	punct	_	O
+
+1	#hatchimals	#hatchimals	UH	pos2=NNS	3	discourse	_	O
+2	…	…	NFP	pos2=-LRB-	3	punct	_	O
+3	https://t.co/X7WGFTtMlI	#hlink#	ADD	pos2=NN	0	root	_	O
+

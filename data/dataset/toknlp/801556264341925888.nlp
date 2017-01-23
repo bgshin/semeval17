@@ -1,0 +1,21 @@
+1	Melania	melania	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	speaks	speak	VBZ	pos2=VBD	0	root	_	O
+3	5	0	CD	_	5	nmod	_	U-CARDINAL
+4	different	different	JJ	_	5	nmod	_	O
+5	languages	language	NNS	_	2	dobj	_	O
+6	....	..	.	pos2=,	2	punct	_	O
+
+1	bet	bet	VB	pos2=NN	0	root	_	O
+2	none	none	NN	_	1	dobj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	you	you	PRP	_	3	pobj	_	O
+5	could	could	MD	_	6	aux	_	O
+6	read	read	VB	_	1	conj	_	O
+7	Michelle	michelle	NNP	_	8	compound	_	B-PERSON
+8	Obama	obama	NNP	_	10	poss	_	I-PERSON
+9	's	's	POS	_	8	case	_	L-PERSON
+10	speech	speech	NN	_	6	dobj	_	O
+11	in	in	IN	_	6	prep	_	O
+12	5	0	CD	_	13	nmod	_	U-CARDINAL
+13	languages	language	NNS	_	11	pobj	_	O
+

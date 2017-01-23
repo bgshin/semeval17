@@ -1,0 +1,20 @@
+1	That	that	DT	_	2	det	_	O
+2	meeting	meeting	NN	pos2=VBG	0	root	_	O
+3	with	with	IN	_	2	prep	_	O
+4	pelosi	pelosi	NNP	pos2=NN	5	compound	_	O
+5	Shumer	shumer	NNP	_	3	pobj	_	U-PERSON
+6	and	and	CC	_	5	cc	_	O
+7	others	other	NNS	pos2=XX	5	conj	_	O
+8	dems	dems	NNS	pos2=VBZ	5	conj	_	O
+9	..	..	.	pos2=,	2	punct	_	O
+
+1	including	include	VBG	_	0	root	_	O
+2	Hillary	hillary	NNP	_	1	pobj	_	U-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	..	..	.	pos2=,	1	punct	_	O
+
+1	(	(	-LRB-	_	3	punct	_	O
+2	Jill	jill	NNP	_	3	compound	_	B-PERSON
+3	Stein	stein	NNP	_	0	root	_	L-PERSON
+4	)	)	-RRB-	_	3	punct	_	O
+

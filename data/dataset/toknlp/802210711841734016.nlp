@@ -1,0 +1,8 @@
+1	Here	here	RB	_	2	advmod	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	TT	tt	NNP	pos2=NN	4	compound	_	B-ORG
+4	Derby	derby	NNP	_	7	poss	_	I-ORG
+5	's	's	POS	_	4	case	_	L-ORG
+6	#mannequinchallenge	#mannequinchallenge	ADD	pos2=GW	7	nmod	_	O
+7	https://t.co/OObaNR8rIO	#hlink#	ADD	pos2=NN	2	nsubj	_	O
+

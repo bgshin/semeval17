@@ -1,0 +1,24 @@
+1	Mexico	mexico	NNP	_	2	nsubj	_	U-GPE
+2	losing	lose	VBG	_	0	root	_	O
+3	its	its	PRP$	_	4	poss	_	O
+4	head	head	NN	_	2	dobj	_	O
+5	over	over	IN	_	2	prep	_	O
+6	Trump	trump	NNP	pos2=NN	7	compound	_	U-ORG
+7	comment	comment	NN	pos2=VB	5	pobj	_	O
+8	about	about	IN	pos2=RB	7	prep	_	O
+9	bad	bad	JJ	_	10	nmod	_	O
+10	hombres	hombre	NNS	_	8	pobj	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	Mexicans	mexican	NNPS	pos2=NNS	2	nsubj	_	U-NORP
+2	need	need	VBP	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	popular	popular	JJ	_	5	nmod	_	O
+5	uprising	uprising	NN	_	2	dobj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	depose	depose	VB	_	5	acl	_	O
+8	drug	drug	NN	_	9	compound	_	O
+9	cartel	cartel	NN	pos2=NNS	7	dobj	_	O
+10	…	…	NFP	pos2=:	11	punct	_	O
+11	https://t.co/wbHE7qKPEU	#hlink#	ADD	_	2	dep	_	O
+

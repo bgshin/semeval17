@@ -1,0 +1,15 @@
+1	@KC7PDY	@kc0pdy	NN	pos2=XX	2	compound	_	O
+2	@LindaSuhler	@lindasuhler	NNP	pos2=NN	0	root	_	U-ORG
+3	Or	or	CC	_	2	cc	_	O
+4	why	why	WRB	_	8	advmod	_	O
+5	other	other	JJ	_	7	nmod	_	O
+6	civilised	civilised	JJ	_	7	nmod	_	O
+7	nations	nation	NNS	_	8	nsubj	_	O
+8	have	have	VBP	_	2	relcl	_	O
+9	incredibly	incredibly	RB	_	10	advmod	_	O
+10	tight	tight	JJ	_	13	nmod	_	O
+11	gun	gun	NN	_	12	compound	_	O
+12	control	control	NN	_	13	compound	_	O
+13	laws	law	NNS	_	8	dobj	_	O
+14	?	?	.	_	12	punct	_	O
+

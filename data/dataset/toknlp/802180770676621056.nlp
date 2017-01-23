@@ -1,0 +1,21 @@
+1	#Yemen	#yemen	NNS	pos2=NN	11	dep	_	O
+2	:	:	:	_	11	punct	_	O
+3	The	the	DT	_	5	det	_	O
+4	#Yemen	#yemen	NNP	pos2=NN	5	compound	_	O
+5	Files	file	NNS	pos2=NNPS	11	dep	_	O
+6	:	:	:	_	11	punct	_	O
+7	WikiLeaks	wikileaks	NNP	_	20	dep	_	U-ORG
+8	500	0	CD	_	9	nmod	_	U-CARDINAL
+9	files	file	NNS	_	11	nsubj	_	O
+10	allegedly	allegedly	RB	_	11	advmod	_	O
+11	show	show	VBP	pos2=VB	20	dep	_	O
+12	US	us	NNP	pos2=PRP	14	poss	_	U-GPE
+13	'	'	POS	pos2=``	12	case	_	O
+14	arming	arming	NN	pos2=VBG	11	dobj	_	O
+15	and	and	CC	_	14	cc	_	O
+16	funding	funding	NN	pos2=VBG	14	conj	_	O
+17	'	'	''	pos2=POS	20	punct	_	O
+18	#Yemeni	#yemeni	JJ	pos2=CD	19	nmod	_	O
+19	forces	force	NNS	_	20	nmod	_	O
+20	https://t.co/sD6lgBeekq	#hlink#	ADD	_	0	root	_	O
+

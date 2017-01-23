@@ -1,0 +1,16 @@
+1	@mutoroinnocent4	@mutoroinnocent0	NN	pos2=LS	2	compound	_	O
+2	@JohnKerry	@johnkerry	NN	pos2=ADD	10	nsubj	_	O
+3	And	and	CC	_	2	cc	_	O
+4	across	across	IN	_	2	conj	_	O
+5	the	the	DT	_	9	det	_	O
+6	world	world	NN	_	8	compound	_	O
+7	-	-	HYPH	pos2=,	8	punct	_	O
+8	US	us	NNP	pos2=NN	9	compound	_	U-GPE
+9	imperialism	imperialism	NN	_	4	pobj	_	O
+10	kills	kill	VBZ	_	0	root	_	O
+11	thousands	#crd#	NNS	_	10	dobj	_	U-CARDINAL
+12	of	of	IN	_	11	prep	_	O
+13	women	woman	NNS	_	12	pobj	_	O
+14	#wikileaks	#wikileaks	POS	pos2=VBP	13	case	_	O
+15	#yemen	#yemen	UH	pos2=NNS	10	discourse	_	O
+

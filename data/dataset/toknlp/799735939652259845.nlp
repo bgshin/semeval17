@@ -1,0 +1,23 @@
+1	Microsoft	microsoft	NNP	_	2	nsubj	_	U-ORG
+2	joins	join	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	B-ORG
+4	Linux	linux	NNP	_	5	compound	_	I-ORG
+5	Foundation	foundation	NNP	pos2=NN	2	dobj	_	L-ORG
+6	https://t.co/7vFnOBN5JI	#hlink#	ADD	_	5	appos	_	O
+7	|	|	,	pos2=SYM	2	punct	_	O
+8	Really	really	RB	_	9	advmod	_	O
+9	glad	glad	JJ	_	4	nmod	_	O
+10	to	to	TO	_	11	aux	_	O
+11	see	see	VB	_	9	xcomp	_	O
+12	this	this	DT	_	11	dobj	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	Hopefully	hopefully	RB	_	3	advmod	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	bodes	bode	VBZ	pos2=RB	0	root	_	O
+4	well	well	RB	pos2=UH	3	advmod	_	O
+5	for	for	IN	_	3	prep	_	O
+6	Window	window	NNP	pos2=NN	8	poss	_	U-ORG
+7	's	's	POS	_	6	case	_	O
+8	future	future	NN	pos2=JJ	5	pobj	_	O
+

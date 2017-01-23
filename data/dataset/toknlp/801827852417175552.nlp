@@ -1,0 +1,18 @@
+1	@WEIRDCHRISTMAS	@weirdchristmas	NNS	pos2=NNP	2	nsubj	_	O
+2	@wtb6chiny	@wtb0chiny	VBP	pos2=MD	0	root	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	think	think	VBP	pos2=VB	2	ccomp	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	are	be	VBP	_	4	ccomp	_	O
+7	bad	bad	JJ	_	8	nmod	_	O
+8	hombres	hombre	NNS	pos2=FW	9	compound	_	O
+9	amigo	amigo	NN	pos2=FW	6	attr	_	O
+10	,	,	,	_	2	punct	_	O
+11	but	but	CC	_	2	cc	_	O
+12	you	you	PRP	_	16	nsubj	_	O
+13	just	just	RB	pos2=VBP	16	advmod	_	O
+14	a	a	DT	_	16	det	_	O
+15	nasty	nasty	JJ	_	16	nmod	_	O
+16	woman	woman	NN	_	2	conj	_	O
+17	.	.	.	_	2	punct	_	O
+

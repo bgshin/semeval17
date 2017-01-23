@@ -1,0 +1,11 @@
+1	Cubs	cub	NNS	pos2=NNPS	2	nsubj	_	U-ORG
+2	walk	walk	VBP	pos2=NN	0	root	_	O
+3	from	from	IN	_	2	prep	_	O
+4	the	the	DT	_	6	det	_	O
+5	scout	scout	NN	_	6	compound	_	O
+6	hall	hall	NN	_	3	pobj	_	O
+7	to	to	IN	_	3	prep	_	O
+8	Crestwood	crestwood	NNP	_	9	compound	_	U-GPE
+9	reserve	reserve	NN	pos2=NNP	7	pobj	_	O
+10	.	.	.	_	2	punct	_	O
+

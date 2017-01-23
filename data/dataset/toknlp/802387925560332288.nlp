@@ -1,0 +1,22 @@
+1	@BNyeson	@bnyeson	ADD	pos2=XX	5	nmod	_	O
+2	@justinamash	@justinamash	UH	pos2=IN	5	discourse	_	O
+3	@realDonaldTrump	@realdonaldtrump	POS	pos2=JJ	5	nmod	_	O
+4	scum	scum	NN	_	5	compound	_	O
+5	politicians	politician	NNS	_	9	nsubj	_	O
+6	on	on	IN	_	5	prep	_	O
+7	both	both	DT	_	8	det	_	O
+8	sides	side	NNS	_	6	pobj	_	O
+9	signed	sign	VBD	pos2=VBN	0	root	_	O
+10	bills	bill	NNS	_	9	dobj	_	O
+11	like	like	IN	pos2=VBP	10	prep	_	O
+12	nafta	nafta	NNP	pos2=NN	11	pobj	_	O
+13	&	&	CC	pos2=,	9	cc	_	O
+14	were	be	VBD	_	9	conj	_	O
+15	ready	ready	JJ	_	14	acomp	_	O
+16	to	to	TO	_	17	aux	_	O
+17	implement	implement	VB	_	15	xcomp	_	O
+18	tpp	tpp	NN	_	17	dobj	_	O
+19	which	which	WDT	_	20	nsubj	_	O
+20	was	be	VBD	_	18	relcl	_	O
+21	worse	bad	JJR	_	20	acomp	_	O
+

@@ -1,0 +1,22 @@
+1	Is	be	VBZ	_	3	auxpass	_	O
+2	#Ukraine	#ukraine	NN	pos2=NNP	3	nsubjpass	_	O
+3	headed	head	VBN	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	another	another	DT	_	6	det	_	O
+6	revolution	revolution	NN	_	4	pobj	_	O
+7	?	?	.	_	3	punct	_	O
+
+1	#Saakashvili	#saakashvili	NNP	pos2=NNS	11	nsubj	_	U-PERSON
+2	who	who	WP	_	3	nsubj	_	O
+3	resigned	resign	VBD	_	1	relcl	_	O
+4	the	the	DT	_	6	det	_	O
+5	Kiev	kiev	NNP	_	6	compound	_	U-GPE
+6	govt	govt	NN	_	3	dobj	_	O
+7	because	because	IN	_	3	prep	_	O
+8	of	of	IN	_	7	pcomp	_	O
+9	corruption	corruption	NN	_	7	pobj	_	O
+10	,	,	,	_	11	punct	_	O
+11	thinks	think	VBZ	_	0	root	_	O
+12	yes	yes	UH	_	13	discourse	_	O
+13	https://t.co/Rw7QOksbaw	#hlink#	ADD	pos2=NN	11	ccomp	_	U-ORG
+

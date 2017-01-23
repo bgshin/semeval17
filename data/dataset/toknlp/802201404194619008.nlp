@@ -1,0 +1,26 @@
+1	#trumptrain	#trumptrain	UH	pos2=XX	10	discourse	_	O
+2	#maga	#maga	UH	pos2=FW	10	discourse	_	O
+3	#draintheswamp	#draintheswamp	UH	pos2=VB	10	discourse	_	O
+4	#neverRomney	#neverromney	NNP	pos2=UH	6	compound	_	O
+5	Okee	okee	NNP	pos2=UH	6	compound	_	B-PERSON
+6	Dokee	dokee	NNP	_	10	vocative	_	L-PERSON
+7	,	,	,	_	10	punct	_	O
+8	I	I	PRP	_	10	nsubj	_	O
+9	just	just	RB	_	10	advmod	_	O
+10	jumped	jump	VBD	_	0	root	_	O
+11	off	off	RP	pos2=IN	10	prt	_	O
+12	the	the	DT	_	14	det	_	O
+13	Mitchell	mitchell	NNP	_	14	compound	_	U-ORG
+14	train	train	NN	_	10	dobj	_	O
+15	.	.	.	_	10	punct	_	O
+
+1	Oh	oh	UH	_	8	discourse	_	O
+2	well	well	UH	_	1	discourse	_	O
+3	,	,	,	_	8	punct	_	O
+4	I	I	PRP	_	8	nsubj	_	O
+5	ca	can	MD	_	8	aux	_	O
+6	n't	not	RB	_	8	neg	_	O
+7	to	to	IN	pos2=VB	8	aux	_	O
+8	…	…	VB	pos2=NFP	0	root	_	O
+9	https://t.co/R7cyHIHzwS	#hlink#	ADD	_	8	dobj	_	U-ORG
+

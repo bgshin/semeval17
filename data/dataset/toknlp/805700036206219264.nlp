@@ -1,0 +1,20 @@
+1	@santegidionews	@santegidionews	UH	pos2=JJ	2	discourse	_	O
+2	pictures	picture	NNS	pos2=VBZ	0	root	_	O
+3	from	from	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	world	world	NN	_	3	pobj	_	O
+6	:	:	:	_	3	punct	_	O
+7	Madrid	madrid	NNP	_	2	appos	_	U-GPE
+8	,	,	,	_	7	punct	_	O
+9	Spain	spain	NNP	_	11	compound	_	U-GPE
+10	-	-	HYPH	pos2=:	11	punct	_	O
+11	Words	word	NNPS	pos2=NNP	7	appos	_	O
+12	against	against	IN	_	11	prep	_	O
+13	the	the	DT	_	15	det	_	O
+14	death	death	NN	_	15	compound	_	O
+15	penalty	penalty	NN	_	12	pobj	_	O
+16	.....	..	.	pos2=,	2	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/PCqZkW9rLm	#hlink#	ADD	pos2=NN	0	root	_	O
+

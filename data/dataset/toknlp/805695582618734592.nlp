@@ -1,0 +1,16 @@
+1	@CruJones18	@crujones0	NN	pos2=NNS	2	compound	_	O
+2	@Cubs	@cubs	NNS	pos2=NNP	4	nsubj	_	O
+3	this	this	DT	_	4	nsubj	_	O
+4	was	be	VBD	_	0	root	_	O
+5	n't	not	RB	_	4	neg	_	O
+6	a	a	DT	_	8	det	_	O
+7	bad	bad	JJ	_	8	nmod	_	O
+8	attempt	attempt	NN	_	4	attr	_	O
+9	at	at	IN	_	8	prep	_	O
+10	trying	try	VBG	_	9	pcomp	_	O
+11	to	to	TO	_	12	aux	_	O
+12	prove	prove	VB	_	10	xcomp	_	O
+13	it	it	PRP	_	12	dobj	_	O
+14	or	or	CC	_	8	cc	_	O
+15	anything	anything	NN	_	8	conj	_	O
+

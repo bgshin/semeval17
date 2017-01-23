@@ -1,0 +1,25 @@
+1	Do	do	VB	pos2=VBP	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	wait	wait	VB	_	0	root	_	O
+4	for	for	IN	_	8	mark	_	O
+5	the	the	DT	_	6	det	_	O
+6	herd	herd	NN	_	8	nsubj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	act	act	VB	_	3	advcl	_	O
+9	against	against	IN	_	8	prep	_	O
+10	vaccines	vaccine	NNS	_	9	pobj	_	O
+11	because	because	IN	_	14	mark	_	O
+12	the	the	DT	_	13	det	_	O
+13	herd	herd	NN	_	14	nsubj	_	O
+14	takes	take	VBZ	_	8	advcl	_	O
+15	their	their	PRP$	_	16	poss	_	O
+16	orders	order	NNS	_	14	dobj	_	O
+17	from	from	IN	_	14	prep	_	O
+18	government	government	NN	_	17	pobj	_	O
+19	,	,	,	_	18	punct	_	O
+20	newspapers	newspaper	NNS	_	18	conj	_	O
+21	,	,	,	_	20	punct	_	O
+22	...	..	.	pos2=,	3	punct	_	O
+
+1	https://t.co/y0K8pAI4Z9	#hlink#	ADD	_	0	root	_	U-ORG
+

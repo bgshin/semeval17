@@ -1,0 +1,17 @@
+1	Urge	urge	VB	pos2=NN	0	root	_	O
+2	@theresa_may	@theresa_may	NNP	pos2=RB	1	dobj	_	U-PERSON
+3	to	to	TO	_	4	aux	_	O
+4	allow	allow	VB	_	1	xcomp	_	O
+5	aid	aid	NN	_	6	compound	_	O
+6	airdrops	airdrop	NNS	_	4	dobj	_	O
+7	to	to	IN	pos2=TO	4	prep	_	O
+8	#Aleppo	#aleppo	NNP	pos2=VB	7	pobj	_	U-GPE
+9	to	to	TO	_	10	aux	_	O
+10	help	help	VB	_	4	advcl	_	O
+11	save	save	VB	_	10	xcomp	_	O
+12	thousands	#crd#	NNS	_	11	dobj	_	U-CARDINAL
+13	from	from	IN	_	11	prep	_	O
+14	starvation	starvation	NN	_	13	pobj	_	O
+15	:	:	:	_	1	punct	_	O
+16	https://t.co/VubgWu4whN	#hlink#	ADD	_	1	dep	_	O
+

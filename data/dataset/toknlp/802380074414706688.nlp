@@ -1,0 +1,24 @@
+1	@Karoli	@karoli	NNP	pos2=NNS	5	vocative	_	O
+2	@yottapoint	@yottapoint	UH	pos2=NN	5	discourse	_	O
+3	@thedailybeast	@thedailybeast	UH	pos2=IN	5	discourse	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	'm	be	VBP	_	0	root	_	O
+6	with	with	IN	_	5	prep	_	O
+7	you	you	PRP	_	6	pobj	_	O
+8	Karoli	karoli	NNP	_	12	nsubj	_	U-PERSON
+9	so	so	RB	_	10	advmod	_	O
+10	much	much	RB	_	11	advmod	_	O
+11	more	more	JJR	pos2=RBR	16	nmod	_	O
+12	going	go	VBG	pos2=JJ	17	acl	_	O
+13	onTrump	ontrump	IN	pos2=NNP	12	prep	_	O
+14	LIESRUSSIAMISOGYNYRACISMCOMEY	liesrussiamisogynyracismcomey	NNP	pos2=NN	13	pobj	_	U-ORG
+15	(	(	-LRB-	_	16	punct	_	O
+16	DIR	dir	NN	pos2=NNP	14	appos	_	O
+17	.	.	.	_	5	punct	_	O
+
+1	BY	by	IN	_	4	nmod	_	O
+2	RUDY	rudy	NNP	pos2=NN	1	pobj	_	U-ORG
+3	)	)	-RRB-	_	1	punct	_	O
+4	MEDIA	media	NNP	pos2=NN	0	root	_	O
+5	++	++	SYM	pos2=.	4	punct	_	O
+

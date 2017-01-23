@@ -1,0 +1,31 @@
+1	Nazi	nazi	NN	pos2=NNS	3	dep	_	U-NORP
+2	:	:	:	_	3	punct	_	O
+3	Fuck	fuck	VB	pos2=NNP	0	root	_	O
+4	Marcism	marcism	NNP	pos2=NN	3	dobj	_	U-NORP
+5	!	!	.	_	3	punct	_	O
+
+1	Heil	heil	NNP	_	2	compound	_	B-PERSON
+2	Trump	trump	NNP	pos2=NN	0	root	_	L-PERSON
+3	!	!	.	_	2	punct	_	O
+
+1	Me	me	PRP	pos2=NN	3	nsubj	_	O
+2	:	:	:	_	3	punct	_	O
+3	Learn	learn	VB	_	0	root	_	O
+4	to	to	TO	pos2=IN	5	aux	_	O
+5	spell	spell	VB	_	3	xcomp	_	O
+6	Nazi	nazi	NNP	_	5	dobj	_	U-NORP
+7	.	.	.	_	3	punct	_	O
+
+1	Liberal	liberal	JJ	pos2=NNP	3	dep	_	O
+2	:	:	:	_	3	punct	_	O
+3	OMG	omg	NN	pos2=NNP	0	root	_	O
+4	!	!	.	pos2=,	3	punct	_	O
+
+1	HE	he	PRP	_	3	nsubj	_	O
+2	COULD	could	MD	_	3	aux	_	O
+3	BE	be	VB	_	0	root	_	O
+4	DYSLEXIC	dyslexic	JJ	_	3	acomp	_	O
+5	YOU	you	PRP	_	6	nsubj	_	O
+6	MEANIE	meanie	VBP	pos2=NN	3	parataxis	_	O
+7	!	!	.	_	3	punct	_	O
+

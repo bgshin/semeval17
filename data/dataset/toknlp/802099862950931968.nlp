@@ -1,0 +1,12 @@
+1	Getting	get	VBG	_	0	root	_	O
+2	out	out	IN	_	1	prep	_	O
+3	of	of	IN	_	2	prep	_	O
+4	hand	hand	NN	_	3	pobj	_	O
+5	!	!	.	_	1	punct	_	O
+
+1	#christmas	#christmas	UH	pos2=NNS	5	discourse	_	O
+2	#hatchimals	#hatchimals	UH	pos2=NNS	5	discourse	_	O
+3	#kddesignsri	#kddesignsri	UH	pos2=GW	5	discourse	_	O
+4	#rhodeisland	#rhodeisland	UH	pos2=ADD	5	discourse	_	O
+5	https://t.co/ypWyvYwcH2	#hlink#	ADD	pos2=UH	0	root	_	O
+

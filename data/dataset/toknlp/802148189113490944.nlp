@@ -1,0 +1,32 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	know	know	VBP	_	4	parataxis	_	O
+3	,	,	,	_	4	punct	_	O
+4	pumpkin	pumpkin	NN	pos2=UH	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	know	know	VBP	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	country	country	NN	_	3	nsubj	_	O
+3	needs	need	VBZ	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	see	see	VB	_	3	xcomp	_	O
+6	the	the	DT	_	8	det	_	O
+7	legit	legit	JJ	_	8	nmod	_	O
+8	numbers	number	NNS	_	5	dobj	_	O
+9	,	,	,	_	3	punct	_	O
+10	EVEN	even	RB	_	15	advmod	_	O
+11	IF	if	IN	_	15	mark	_	O
+12	THEY	they	PRP	_	15	nsubj	_	O
+13	DO	do	VBP	_	15	aux	_	O
+14	N'T	not	RB	_	15	neg	_	O
+15	HELP	help	VB	_	3	advcl	_	O
+16	OUR	our	PRP$	_	17	poss	_	O
+17	GIRL	girl	NN	_	15	dobj	_	O
+18	.	.	.	_	3	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/0MRDgoXFmM	#hlink#	ADD	pos2=NN	0	root	_	O
+

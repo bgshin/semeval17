@@ -1,0 +1,31 @@
+1	Bonus	bonus	NN	pos2=NNP	2	compound	_	O
+2	Morning	morning	NN	pos2=NNP	4	dep	_	O
+3	:	:	:	_	4	punct	_	O
+4	Husband	husband	NN	_	0	root	_	O
+5	working	work	VBG	_	4	acl	_	O
+6	at	at	IN	_	5	prep	_	O
+7	cabin	cabin	NN	_	6	pobj	_	O
+8	,	,	,	_	4	punct	_	O
+9	boys	boy	NNS	_	11	nsubj	_	O
+10	still	still	RB	_	11	advmod	_	O
+11	asleep	asleep	JJ	pos2=VBP	4	nmod	_	O
+12	,	,	,	_	11	punct	_	O
+13	and	and	CC	_	4	cc	_	O
+14	no	no	DT	_	15	det	_	O
+15	football	football	NN	_	4	conj	_	O
+16	on	on	IN	_	15	prep	_	O
+17	TV	tv	NN	pos2=NNP	16	pobj	_	O
+18	...	..	.	pos2=,	4	punct	_	O
+
+1	YET	yet	RB	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Time	time	NN	_	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	catch	catch	VB	_	1	relcl	_	O
+4	up	up	RP	_	3	prt	_	O
+5	on	on	IN	_	3	prep	_	O
+6	@NBCThisisUs	@nbcthisisus	NNP	pos2=XX	5	pobj	_	B-DATE
+7	#ThisIsUs	#thisisus	ADD	pos2=POS	8	compound	_	I-DATE
+8	#Family	#family	NNP	pos2=RB	3	dobj	_	L-DATE
+

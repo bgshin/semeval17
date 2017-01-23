@@ -1,0 +1,25 @@
+1	Have	have	VB	pos2=VBP	0	root	_	O
+2	a	a	DT	_	4	det	_	O
+3	pesky	pesky	JJ	_	4	nmod	_	O
+4	relative	relative	NN	pos2=JJ	1	dobj	_	O
+5	that	that	WDT	_	8	nsubj	_	O
+6	wo	wo	MD	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	stop	stop	VB	_	4	relcl	_	O
+9	complaining	complain	VBG	_	8	xcomp	_	O
+10	about	about	IN	_	9	prep	_	O
+11	Trump	trump	NNP	pos2=NN	10	pobj	_	U-PERSON
+12	?	?	.	_	1	punct	_	O
+
+1	Check	check	VB	_	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	see	see	VB	_	1	advcl	_	O
+4	if	if	IN	_	7	mark	_	O
+5	they	they	PRP	_	7	nsubjpass	_	O
+6	're	be	VBP	_	7	auxpass	_	O
+7	registered	register	VBN	_	3	ccomp	_	O
+8	to	to	TO	_	9	aux	_	O
+9	vote	vote	VB	pos2=NN	7	xcomp	_	O
+10	:	:	:	_	1	punct	_	O
+11	https://t.co/ddJFVJrUZw	#hlink#	ADD	pos2=NN	1	dep	_	O
+

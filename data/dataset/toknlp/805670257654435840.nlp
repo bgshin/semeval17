@@ -1,0 +1,8 @@
+1	Best	good	JJS	pos2=RBS	3	nmod	_	O
+2	#FidelCastro	#fidelcastro	DT	pos2=CD	3	det	_	O
+3	story	story	NN	_	0	root	_	O
+4	EVER	ever	RB	_	3	advmod	_	O
+5	!	!	.	_	3	punct	_	O
+
+1	https://t.co/34vlEz09tn	#hlink#	ADD	_	0	root	_	U-ORG
+

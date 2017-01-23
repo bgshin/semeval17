@@ -1,0 +1,20 @@
+1	@Steckelton	@steckelton	NNP	pos2=UH	2	compound	_	B-PERSON
+2	@Femmefeministe	@femmefeministe	NNP	pos2=NN	0	root	_	L-PERSON
+3	(	(	-LRB-	_	5	punct	_	O
+4	this	this	DT	_	5	nsubj	_	O
+5	is	be	VBZ	_	2	parataxis	_	O
+6	an	an	DT	_	8	det	_	O
+7	interesting	interesting	JJ	_	8	nmod	_	O
+8	read	read	NN	pos2=VBN	5	attr	_	O
+9	if	if	IN	_	11	mark	_	O
+10	you	you	PRP	_	11	nsubj	_	O
+11	're	be	VBP	_	5	advcl	_	O
+12	interested	interested	JJ	_	11	acomp	_	O
+13	in	in	IN	_	12	prep	_	O
+14	effective	effective	JJ	_	16	nmod	_	O
+15	protest	protest	NN	_	16	compound	_	O
+16	strategies	strategy	NNS	_	13	pobj	_	O
+17	btw	btw	RB	_	12	prep	_	O
+18	https://t.co/Y6TvkWJ69E	#hlink#	ADD	pos2=VBP	16	appos	_	O
+19	)	)	-RRB-	_	5	punct	_	O
+

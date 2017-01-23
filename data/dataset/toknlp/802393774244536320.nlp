@@ -1,0 +1,22 @@
+1	Once	once	IN	pos2=RB	5	mark	_	O
+2	3	0	CD	_	4	nmod	_	O
+3	D	d	NN	pos2=NNP	4	compound	_	O
+4	printing	printing	NN	_	5	nsubj	_	O
+5	goes	go	VBZ	_	12	advcl	_	O
+6	exponential	exponential	JJ	_	5	acomp	_	O
+7	the	the	DT	_	8	det	_	O
+8	face	face	NN	_	12	nsubj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	manufacturing	manufacturing	NN	_	9	pobj	_	O
+11	will	will	MD	_	12	aux	_	O
+12	change	change	VB	_	0	root	_	O
+13	more	more	RBR	_	14	advmod	_	O
+14	dramatically	dramatically	RB	_	12	advmod	_	O
+15	than	than	IN	_	18	mark	_	O
+16	most	most	JJS	_	17	nmod	_	O
+17	people	people	NNS	_	18	nsubj	_	O
+18	realise	realise	VBP	_	12	advcl	_	O
+19	.	.	.	_	12	punct	_	O
+
+1	https://t.co/B7m0to4YQt	#hlink#	ADD	_	0	root	_	U-ORG
+

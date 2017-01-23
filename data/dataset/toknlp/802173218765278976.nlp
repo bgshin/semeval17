@@ -1,0 +1,14 @@
+1	@netanyahu	@netanyahu	UH	pos2=XX	4	discourse	_	O
+2	@IDFrabbi	@idfrabbi	ADD	pos2=UH	7	cc	_	U-PERSON
+3	@IDFSpokesperson	@idfspokesperson	ADD	pos2=NNP	0	root	_	O
+4	#Israel	#israel	NNP	pos2=ADD	7	poss	_	O
+5	#Jerusalem	#jerusalem	POS	pos2=IN	4	case	_	O
+6	SHABBAT	shabbat	NNP	pos2=NN	7	compound	_	B-ORG
+7	SHALOM	shalom	NNP	pos2=NN	3	pobj	_	I-ORG
+8	&	&	CC	_	7	cc	_	I-ORG
+9	BLESSINGS	blessing	NNS	pos2=NNPS	7	conj	_	L-ORG
+10	EVERYONE	everyone	NN	_	9	dobj	_	O
+11	!!!	!!	.	_	9	punct	_	O
+
+1	https://t.co/sljV6VOZzm	#hlink#	ADD	_	0	root	_	U-ORG
+

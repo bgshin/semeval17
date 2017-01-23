@@ -1,0 +1,26 @@
+1	Big	big	JJ	_	2	nmod	_	O
+2	game	game	NN	_	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	@utahjazz	@utahjazz	NN	pos2=XX	3	pobj	_	O
+6	tonight	tonight	NN	_	2	npadvmod	_	U-TIME
+7	!	!	.	_	2	punct	_	O
+
+1	Here	here	RB	_	2	advmod	_	O
+2	are	be	VBP	_	0	root	_	O
+3	my	my	PRP$	_	4	poss	_	O
+4	keys	key	NNS	_	2	nsubj	_	O
+5	to	to	IN	_	4	prep	_	O
+6	a	a	DT	_	7	det	_	O
+7	victory	victory	NN	_	5	pobj	_	O
+8	over	over	IN	_	7	prep	_	O
+9	a	a	DT	_	12	det	_	O
+10	tough	tough	JJ	_	12	nmod	_	O
+11	Hawks	hawk	NNPS	pos2=NNS	12	compound	_	U-NORP
+12	squad	squad	NN	pos2=VBP	8	pobj	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	#takenote	#takenote	UH	pos2=GW	3	nmod	_	O
+2	#ATLa	#atla	GW	pos2=ADD	3	nmod	_	O
+3	tUTAhttps://t.co/eVzwAI4g0y	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

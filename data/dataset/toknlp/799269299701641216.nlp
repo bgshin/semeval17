@@ -1,0 +1,27 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@GenFlynn	@genflynn	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	was	be	VBD	_	0	root	_	O
+3	"	"	``	_	2	punct	_	O
+4	the	the	DT	_	7	det	_	O
+5	first	#ord#	JJ	_	7	nmod	_	U-ORDINAL
+6	U.S.	u.s.	NNP	_	7	compound	_	U-GPE
+7	officer	officer	NN	pos2=NNP	2	attr	_	O
+8	ever	ever	RB	_	9	advmod	_	O
+9	allowed	allow	VBN	pos2=VBD	7	acl	_	O
+10	inside	inside	IN	pos2=RB	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	headquarters	headquarters	NN	_	10	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	GRU	gru	NNP	pos2=NN	13	pobj	_	U-ORG
+16	.	.	.	_	2	punct	_	O
+17	"	"	''	_	2	punct	_	O
+
+1	(	(	-LRB-	_	6	punct	_	O
+2	Russian	russian	JJ	_	4	nmod	_	U-NORP
+3	military	military	JJ	pos2=NN	4	nmod	_	O
+4	intelli	intelli	NNS	pos2=GW	6	dep	_	O
+5	…	…	NFP	pos2=-LRB-	6	punct	_	O
+6	https://t.co/pPrbjTkIGd	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,22 @@
+1	This	this	DT	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	And	and	CC	_	2	cc	_	O
+2	check	check	VB	_	0	root	_	O
+3	this	this	DT	_	2	dobj	_	O
+4	out	out	RP	_	2	prt	_	O
+5	:	:	:	_	2	punct	_	O
+6	https://t.co/TtTP6NJB9V.	#hlink#	ADD	pos2=NN	7	nsubj	_	O
+7	#StillWithHer	#stillwithher	LS	pos2=ADD	2	dobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	Hi	hi	UH	_	6	discourse	_	O
+2	#ElectoralCollege	#electoralcollege	NN	pos2=NNS	6	dep	_	O
+3	:	:	:	_	6	punct	_	O
+4	Are	be	VBP	_	6	aux	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	listening	listen	VBG	pos2=JJ	0	root	_	O
+7	?	?	.	_	6	punct	_	O
+
+1	https://t.co/FzRsuOVBo2	#hlink#	ADD	_	0	root	_	U-ORG
+

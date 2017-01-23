@@ -1,0 +1,13 @@
+1	Marked	marked	JJ	pos2=VBN	12	advcl	_	O
+2	as	as	IN	_	5	mark	_	O
+3	to	to	TO	pos2=IN	5	aux	_	O
+4	-	-	HYPH	pos2=:	5	punct	_	O
+5	read	read	VB	pos2=NN	1	xcomp	_	O
+6	:	:	:	_	8	punct	_	O
+7	My	my	PRP$	_	8	poss	_	O
+8	Life	life	NN	pos2=NNP	12	dep	_	O
+9	by	by	IN	_	8	prep	_	O
+10	Fidel	fidel	NNP	_	11	compound	_	B-PERSON
+11	Castro	castro	NNP	_	9	pobj	_	L-PERSON
+12	https://t.co/dPy670bdeT	#hlink#	ADD	_	0	root	_	O
+

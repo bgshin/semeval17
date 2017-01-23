@@ -1,0 +1,24 @@
+1	The	the	DT	_	4	det	_	O
+2	South	south	JJ	_	3	advmod	_	B-NORP
+3	African	african	JJ	_	4	nmod	_	L-NORP
+4	government	government	NN	_	6	nsubj	_	O
+5	has	have	VBZ	_	6	aux	_	O
+6	moved	move	VBN	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	step	step	NN	_	9	npadvmod	_	O
+9	closer	close	RBR	_	6	advmod	_	O
+10	to	to	IN	_	9	prep	_	O
+11	introducing	introduce	VBG	_	10	pcomp	_	O
+12	a	a	DT	_	15	det	_	O
+13	national	national	JJ	_	15	nmod	_	O
+14	minimum	minimum	JJ	pos2=NN	15	nmod	_	O
+15	wage	wage	NN	_	11	dobj	_	O
+16	–	-	:	pos2=,	15	punct	_	O
+17	the	the	DT	_	18	det	_	O
+18	first	#ord#	JJ	_	15	appos	_	U-ORDINAL
+19	ever	ever	RB	_	18	advmod	_	O
+20	in.	in.	.	pos2=NN	6	punct	_	O
+21	..	..	.	pos2=,	6	punct	_	O
+
+1	https://t.co/4wO6h4oZ4d	#hlink#	ADD	_	0	root	_	U-ORG
+

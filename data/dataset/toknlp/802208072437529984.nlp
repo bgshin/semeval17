@@ -1,0 +1,13 @@
+1	@inwoodbridge	@inwoodbridge	DT	pos2=PRP$	2	det	_	O
+2	Incentive	incentive	NN	pos2=NNP	6	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	popular	popular	JJ	_	5	nmod	_	O
+5	vote	vote	NN	_	3	pobj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	enough	enough	JJ	pos2=RB	6	acomp	_	O
+8	but	but	CC	_	6	cc	_	O
+9	I	I	PRP	_	11	nsubj	_	O
+10	do	do	VBP	_	11	aux	_	O
+11	agree	agree	VB	_	6	conj	_	O
+12	.	.	.	_	11	punct	_	O
+

@@ -1,0 +1,24 @@
+1	@AlwaysInAmerica	@alwaysinamerica	NNP	pos2=ADD	2	compound	_	U-PERSON
+2	@CamilleRenee8	@camillerenee0	NN	pos2=ADD	3	nsubj	_	O
+3	@megynkelly	@megynkelly	VBD	pos2=XX	0	root	_	O
+4	one	#crd#	CD	_	5	nmod	_	U-CARDINAL
+5	thing	thing	NN	_	3	dobj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	have	have	VB	_	6	xcomp	_	O
+9	an	an	DT	_	10	det	_	O
+10	opinion	opinion	NN	_	8	dobj	_	O
+11	about	about	IN	_	10	prep	_	O
+12	something	something	NN	_	11	pobj	_	O
+13	,	,	,	_	8	punct	_	O
+14	another	another	DT	_	16	nsubj	_	O
+15	to	to	TO	_	16	aux	_	O
+16	go	go	VB	_	12	relcl	_	O
+17	after	after	IN	_	16	prep	_	O
+18	her	her	PRP	pos2=PRP$	17	pobj	_	O
+19	the	the	DT	_	20	det	_	O
+20	way	way	NN	_	16	npadvmod	_	O
+21	some	some	DT	_	22	det	_	O
+22	ppl	ppl	NNS	_	23	nsubj	_	O
+23	are	be	VBP	_	20	relcl	_	O
+

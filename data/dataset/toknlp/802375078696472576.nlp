@@ -1,0 +1,9 @@
+1	Keras	kera	NNS	pos2=NNP	2	nsubj	_	O
+2	1.1.2	0	CD	_	8	dep	_	U-CARDINAL
+3	:	:	:	_	5	punct	_	O
+4	Deep	deep	JJ	pos2=NNP	5	nmod	_	O
+5	Learning	learning	NN	pos2=NNP	8	dep	_	O
+6	for	for	IN	_	5	prep	_	O
+7	Python	python	NNP	pos2=NN	6	pobj	_	O
+8	https://t.co/STnk1OhYuD	#hlink#	ADD	pos2=NN	0	root	_	O
+

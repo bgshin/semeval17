@@ -1,0 +1,20 @@
+1	#FantasticBeasts	#fantasticbeasts	NNS	pos2=UH	0	root	_	O
+2	,	,	,	_	1	punct	_	O
+3	@jayingram	@jayingram	NN	pos2=UH	1	conj	_	O
+4	,	,	,	_	3	punct	_	O
+5	@ChefMichaelSmth	@chefmichaelsmth	NN	pos2=NNP	3	conj	_	O
+6	,	,	,	_	5	punct	_	O
+7	@katherenav	@katherenav	UH	pos2=NN	5	discourse	_	O
+8	,	,	,	_	5	punct	_	O
+9	@madeleinethien	@madeleinethien	UH	pos2=NNP	5	discourse	_	O
+10	,	,	,	_	5	punct	_	O
+11	and	and	CC	_	5	cc	_	O
+12	many	many	JJ	_	15	nmod	_	O
+13	more	more	JJR	pos2=RBR	15	nmod	_	O
+14	#Winnipeg	#winnipeg	JJ	pos2=NNP	15	nmod	_	O
+15	bestsellers	bestseller	NNS	_	5	conj	_	O
+16	!	!	.	_	1	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/WayzIbNlEy	#hlink#	ADD	pos2=NN	0	root	_	O
+

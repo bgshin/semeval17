@@ -1,0 +1,16 @@
+1	Socialist	socialist	JJ	pos2=NNP	3	nmod	_	B-ORG
+2	Economic	economic	NNP	pos2=JJ	3	compound	_	I-ORG
+3	Collapse	collapse	NNP	pos2=NN	4	nsubj	_	L-ORG
+4	has	have	VBZ	_	0	root	_	O
+5	Hungry	hungry	NNP	pos2=JJ	7	compound	_	B-ORG
+6	Venezuelans	venezuelan	NNPS	pos2=NNP	7	compound	_	I-ORG
+7	Flee	flee	NNP	pos2=VBP	4	dobj	_	L-ORG
+8	in	in	IN	_	7	prep	_	O
+9	Boats	boat	NNS	pos2=NNP	8	pobj	_	O
+10	to	to	TO	pos2=IN	11	aux	_	O
+11	Escape	escape	VB	pos2=NNP	9	relcl	_	O
+12	https://t.co/h3gAe4lWLB	#hlink#	ADD	pos2=RP	11	dobj	_	O
+13	#UniteBlue	#uniteblue	ADD	pos2=-RRB-	11	dobj	_	O
+14	#HillaryClinton	#hillaryclinton	NNP	pos2=ADD	11	dobj	_	O
+15	#DonaldTrump	#donaldtrump	ADD	pos2=NN	14	pobj	_	O
+

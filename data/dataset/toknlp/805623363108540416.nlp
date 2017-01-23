@@ -1,0 +1,20 @@
+1	Please	please	UH	_	2	discourse	_	O
+2	share	share	VB	_	0	root	_	O
+3	if	if	IN	_	5	mark	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	think	think	VBP	_	2	advcl	_	O
+6	the	the	DT	_	7	det	_	O
+7	NFL	nfl	NNP	_	8	nsubj	_	U-ORG
+8	needs	need	VBZ	_	5	ccomp	_	O
+9	to	to	TO	_	10	aux	_	O
+10	change	change	VB	_	8	xcomp	_	O
+11	it	it	PRP	_	12	nsubj	_	O
+12	's	's	VBZ	_	5	ccomp	_	O
+13	policy	policy	NN	_	12	attr	_	O
+14	on	on	IN	_	13	prep	_	O
+15	medical	medical	JJ	_	16	nmod	_	O
+16	marijuana	marijuana	NN	_	14	pobj	_	O
+17	!	!	.	_	2	punct	_	O
+
+1	https://t.co/amiqbN88uL	#hlink#	ADD	_	0	root	_	U-ORG
+

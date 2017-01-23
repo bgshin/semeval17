@@ -1,0 +1,21 @@
+1	#pmp	#pmp	VB	pos2=NN	17	prep	_	O
+2	course	course	NN	_	3	compound	_	O
+3	prep	prep	NN	pos2=RB	1	dobj	_	O
+4	with	with	IN	_	3	prep	_	O
+5	@mkn_ly	@mkn_ly	NNP	pos2=NN	4	pobj	_	U-GPE
+6	in	in	IN	_	5	prep	_	O
+7	#tripoli	#tripoli	NNP	pos2=NNS	8	compound	_	B-GPE
+8	#libya	#libya	NNP	pos2=XX	6	pobj	_	L-GPE
+9	;	;	:	pos2=,	12	punct	_	O
+10	25	0	CD	_	11	nmod	_	B-PERCENT
+11	%	%	NN	_	12	compound	_	L-PERCENT
+12	discount	discount	NN	_	17	dep	_	O
+13	;	;	,	pos2=:	17	punct	_	O
+14	only	only	RB	_	15	advmod	_	B-CARDINAL
+15	5	0	CD	_	16	nmod	_	L-CARDINAL
+16	seats	seat	NNS	pos2=NN	17	npadvmod	_	O
+17	left	left	JJ	pos2=VBN	0	root	_	O
+18	!	!	.	_	17	punct	_	O
+
+1	https://t.co/zWmUb1KC58	#hlink#	ADD	_	0	root	_	U-ORG
+

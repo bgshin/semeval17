@@ -1,0 +1,28 @@
+1	Not	not	RB	_	4	neg	_	O
+2	a	a	DT	_	4	det	_	O
+3	hack	hack	NN	_	4	compound	_	O
+4	piece	piece	NN	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	Based	base	VBN	_	0	root	_	O
+2	on	on	IN	_	1	prep	_	O
+3	violation	violation	NN	_	2	pobj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	1965	0	CD	_	8	nmod	_	B-LAW
+6	Voting	voting	NNP	pos2=NN	7	compound	_	I-LAW
+7	Rights	right	NNPS	_	8	compound	_	I-LAW
+8	Act	act	NNP	_	4	pobj	_	L-LAW
+9	.	.	.	_	1	punct	_	O
+
+1	Researched	research	VBN	pos2=VBD	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Coordinated	coordinate	VBN	pos2=JJ	3	nmod	_	O
+2	voter	voter	NN	_	3	compound	_	O
+3	suppression	suppression	NN	_	4	nsubj	_	O
+4	happened	happened	VBD	pos2=VBN	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/uq6pd9nnjD	#hlink#	ADD	pos2=NN	0	root	_	O
+

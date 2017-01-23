@@ -1,0 +1,24 @@
+1	https://t.co/sDWpLM0xQD	#hlink#	ADD	pos2=``	2	nsubj	_	O
+2	Forget	forget	VB	pos2=VBP	0	root	_	O
+3	it	it	PRP	_	2	dobj	_	O
+4	Porks	porks	NNP	pos2=NNPS	2	vocative	_	U-PERSON
+5	.	.	.	_	2	punct	_	O
+
+1	Obama	obama	NNP	pos2=NN	3	nsubj	_	U-PERSON
+2	has	have	VBZ	_	3	aux	_	O
+3	turned	turn	VBN	_	0	root	_	O
+4	like	like	IN	pos2=RP	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	tide	tide	NN	_	4	pobj	_	O
+7	and	and	CC	_	3	cc	_	O
+8	is	be	VBZ	_	10	aux	_	O
+9	now	now	RB	_	10	advmod	_	O
+10	praising	praise	VBG	_	3	conj	_	O
+11	Russia	russia	NNP	_	10	dobj	_	U-GPE
+12	as	as	IN	_	10	prep	_	O
+13	a	a	DT	_	15	det	_	O
+14	world	world	NN	_	15	compound	_	O
+15	power	power	NN	_	12	pobj	_	O
+16	@poroshenko	@poroshenko	IN	pos2=WDT	15	prep	_	O
+17	@vicktop55	@vicktop0	NN	pos2=CD	16	pobj	_	O
+

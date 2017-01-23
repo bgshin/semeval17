@@ -1,0 +1,27 @@
+1	Are	be	VBP	_	4	aux	_	O
+2	you	you	PRP	_	4	nsubj	_	O
+3	really	really	RB	_	4	advmod	_	O
+4	using	use	VBG	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	anniversary	anniversary	NN	_	4	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	a	a	DT	_	9	det	_	O
+9	#massacre	#massacre	NN	pos2=FW	7	pobj	_	O
+10	aka	aka	RB	pos2=FW	11	advmod	_	O
+11	#Thanksgiving	#thanksgiving	VBG	pos2=NNP	4	advcl	_	O
+12	to	to	TO	_	13	aux	_	O
+13	show	show	VB	_	11	xcomp	_	O
+14	off	off	RP	_	13	prt	_	O
+15	all	all	PDT	_	17	predet	_	O
+16	the	the	DT	_	17	det	_	O
+17	junk	junk	NN	_	13	dobj	_	O
+18	you	you	PRP	_	19	nsubj	_	O
+19	are	be	VBP	_	17	relcl	_	O
+20	'	'	``	_	21	punct	_	O
+21	thankful	thankful	JJ	_	19	acomp	_	O
+22	'	'	''	_	21	punct	_	O
+23	for	for	IN	_	21	prep	_	O
+24	?	?	.	_	4	punct	_	O
+
+1	#warpedhistory	#warpedhistory	UH	pos2=JJ	0	root	_	O
+

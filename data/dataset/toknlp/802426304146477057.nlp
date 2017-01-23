@@ -1,0 +1,27 @@
+1	"	"	``	_	10	punct	_	O
+2	However	however	RB	_	10	advmod	_	O
+3	,	,	,	_	10	punct	_	O
+4	after	after	IN	_	10	prep	_	O
+5	his	his	PRP$	_	6	poss	_	O
+6	defeat	defeat	NN	_	4	pobj	_	O
+7	,	,	,	_	10	punct	_	O
+8	Dr.	dr.	NNP	_	9	compound	_	O
+9	Wily	wily	NNP	_	10	nsubj	_	U-PERSON
+10	created	create	VBD	_	0	root	_	O
+11	eight	#crd#	CD	_	10	dobj	_	U-CARDINAL
+12	of	of	IN	_	11	prep	_	O
+13	his	his	PRP$	_	15	poss	_	O
+14	own	own	JJ	_	15	nmod	_	O
+15	robots	robot	NNS	_	12	pobj	_	O
+16	to	to	TO	_	17	aux	_	O
+17	counter	counter	VB	_	10	advcl	_	O
+18	Mega	mega	NNP	_	19	compound	_	O
+19	Man	man	NNP	pos2=NN	17	dobj	_	O
+20	.	.	.	_	10	punct	_	O
+21	"	"	''	_	10	punct	_	O
+
+1	(	(	-LRB-	_	3	punct	_	O
+2	MM2	mm0	NN	_	3	compound	_	O
+3	opening	opening	NN	pos2=VBG	0	root	_	O
+4	)	)	-RRB-	_	3	punct	_	O
+

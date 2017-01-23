@@ -1,0 +1,18 @@
+1	Selling	sell	VBG	_	3	nmod	_	O
+2	Hot	hot	NNP	pos2=JJ	3	compound	_	B-ORG
+3	Wheels	wheel	NNPS	pos2=NNS	0	root	_	L-ORG
+4	Tesla	tesla	NNP	_	9	dep	_	B-ORG
+5	Model	model	NNP	pos2=NN	6	compound	_	L-ORG
+6	S	s	NNP	pos2=POS	9	dep	_	O
+7	#HotWheels	#hotwheels	GW	pos2=ADD	9	nmod	_	O
+8	#Tesla	#tesla	GW	pos2=NNP	9	nmod	_	O
+9	https://t.co/tIiV9WSpNG	#hlink#	ADD	pos2=NN	1	dobj	_	O
+10	via	via	IN	pos2=GW	1	prep	_	O
+11	@eBay	@ebay	NNP	pos2=CD	12	compound	_	U-ORG
+12	#ModelS	#models	NNS	pos2=ADD	10	pobj	_	O
+13	#collectible	#collectible	UH	pos2=VBP	1	discourse	_	O
+14	#toy	#toy	UH	pos2=FW	17	discourse	_	O
+15	#ebay	#ebay	UH	pos2=MD	17	discourse	_	O
+16	#buyitnow	#buyitnow	UH	pos2=WRB	17	discourse	_	O
+17	#cool	#cool	UH	pos2=.	1	discourse	_	O
+

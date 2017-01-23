@@ -1,0 +1,14 @@
+1	From	from	IN	_	10	prep	_	O
+2	the	the	DT	_	4	det	_	O
+3	Turing	turing	NNP	pos2=NN	4	compound	_	O
+4	Test	test	NN	pos2=NNP	1	pobj	_	O
+5	to	to	IN	pos2=TO	1	prep	_	O
+6	#deeplearning	#deeplearning	VBG	pos2=NN	5	pcomp	_	O
+7	:	:	:	_	10	punct	_	O
+8	Artificial	artificial	JJ	pos2=NNP	9	nmod	_	O
+9	#Intelligence	#intelligence	NNP	pos2=NN	10	nsubj	_	O
+10	Goes	go	VBZ	pos2=GW	0	root	_	O
+11	Mainst	mainst	NNP	pos2=GW	13	nmod	_	O
+12	reamhttps://t.co/VAvp2zVyE3	#hlink#	ADD	_	13	nmod	_	O
+13	https://t.co/L1cr8zHL1r	#hlink#	ADD	_	10	dep	_	U-ORG
+

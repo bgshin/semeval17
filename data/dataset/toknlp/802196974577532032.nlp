@@ -1,0 +1,11 @@
+1	@KellyannePolls	@kellyannepolls	NNS	pos2=ADD	8	vocative	_	O
+2	@politico	@politico	UH	pos2=IN	8	discourse	_	O
+3	#NeverRomney	#neverromney	UH	pos2=$	8	discourse	_	O
+4	#DrainTheSwamp	#draintheswamp	NNP	pos2=IN	5	compound	_	B-PERSON
+5	Romney	romney	NNP	_	8	vocative	_	L-PERSON
+6	,	,	,	_	8	punct	_	O
+7	Reince	reince	NNP	_	8	nsubj	_	U-ORG
+8	is	be	VBZ	_	0	root	_	O
+9	the	the	DT	_	10	det	_	O
+10	swamp	swamp	NN	_	8	attr	_	O
+

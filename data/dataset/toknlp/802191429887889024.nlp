@@ -1,0 +1,21 @@
+1	A	a	DT	_	3	det	_	O
+2	detailed	detailed	JJ	pos2=VBN	3	nmod	_	O
+3	map	map	NN	_	20	nsubj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	8	det	_	O
+6	Dakota	dakota	NNP	_	8	compound	_	O
+7	Access	access	NNP	_	8	compound	_	O
+8	Pipeline	pipeline	NNP	pos2=NN	4	pobj	_	O
+9	that	that	WDT	pos2=DT	11	nsubjpass	_	O
+10	's	's	VBZ	_	11	auxpass	_	O
+11	led	lead	VBN	_	3	relcl	_	O
+12	to	to	IN	_	11	prep	_	O
+13	months	month	NNS	_	12	pobj	_	U-DATE
+14	of	of	IN	_	13	prep	_	O
+15	clashes	clash	NNS	_	14	pobj	_	O
+16	near	near	IN	_	15	prep	_	O
+17	Standing	standing	NNP	pos2=VBG	18	compound	_	B-LOC
+18	Rock	rock	NNP	_	16	pobj	_	I-LOC
+19	…	…	NFP	pos2=POS	20	punct	_	L-LOC
+20	https://t.co/cdYyPjaTLh	#hlink#	ADD	_	0	root	_	O
+

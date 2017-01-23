@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det	_	O
+2	Covert	covert	NNP	pos2=JJ	3	compound	_	O
+3	Origins	origin	NNPS	pos2=NNS	6	nsubj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	ISIS	isis	NNP	pos2=NN	4	pobj	_	U-ORG
+6	https://t.co/Nd7I8tiG2k	#hlink#	ADD	pos2=NNP	0	root	_	O
+7	#gaza	#gaza	-RRB-	pos2=IN	6	punct	_	O
+8	#palestine	#palestine	UH	pos2=PRP	6	discourse	_	O
+9	#israel	#israel	UH	pos2=VB	10	discourse	_	O
+10	#BDS	#bds	NNS	pos2=VBZ	13	nmod	_	O
+11	#syria	#syria	UH	pos2=FW	13	discourse	_	O
+12	#ISIS	#isis	NN	pos2=$	13	compound	_	O
+13	#StopBombingSyria	#stopbombingsyria	NN	pos2=ADD	6	dobj	_	O
+

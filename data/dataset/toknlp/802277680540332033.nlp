@@ -1,0 +1,16 @@
+1	Free	free	JJ	_	4	nmod	_	O
+2	use	use	NN	_	4	compound	_	O
+3	-	-	HYPH	pos2=:	4	punct	_	O
+4	case	case	NN	_	5	npadvmod	_	O
+5	based	base	VBN	_	0	root	_	O
+6	#DeepLearning	#deeplearning	VBG	pos2=NN	4	acl	_	O
+7	course	course	NN	pos2=RB	6	dobj	_	O
+8	with	with	IN	_	6	prep	_	O
+9	#TensorFlow	#tensorflow	NN	pos2=NNP	8	pobj	_	O
+10	at	at	IN	_	6	prep	_	O
+11	@BigDataU	@bigdatau	ADD	pos2=NNP	10	pobj	_	B-MONEY
+12	https://t.co/M0tQRRZoqu	#hlink#	ADD	_	15	nmod	_	I-MONEY
+13	#BigData	#bigdata	GW	pos2=-RRB-	15	nmod	_	L-MONEY
+14	…	…	NFP	pos2=-LRB-	15	punct	_	O
+15	https://t.co/j8trryoPwg	#hlink#	ADD	_	10	pobj	_	O
+

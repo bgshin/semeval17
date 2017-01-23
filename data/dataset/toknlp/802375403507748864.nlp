@@ -1,0 +1,32 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	face	face	NN	_	2	attr	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Michael	michael	NNP	_	7	compound	_	B-PERSON
+7	Moore	moore	NNP	_	5	pobj	_	L-PERSON
+8	-	-	HYPH	_	7	punct	_	O
+9	than	than	IN	_	4	prep	_	O
+10	-	-	HYPH	_	9	punct	_	O
+11	enough	enough	JJ	pos2=RB	9	pobj	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	A	a	DT	_	3	det	_	O
+2	600	0	CD	_	3	nmod	_	U-CARDINAL
+3	lb	lb	NN	pos2=NNS	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	obnoxious	obnoxious	JJ	_	3	nmod	_	O
+6	,	,	,	_	3	punct	_	O
+7	Ahole	ahole	NNP	pos2=UH	3	appos	_	U-ORG
+8	,	,	,	_	3	punct	_	O
+9	with	with	IN	_	3	prep	_	O
+10	designs	design	NNS	_	9	pobj	_	O
+11	on	on	IN	_	10	prep	_	O
+12	stopping	stop	VBG	_	11	pcomp	_	O
+13	TRUMP	trump	NN	pos2=NNP	12	dobj	_	U-ORG
+14	.	.	.	_	3	punct	_	O
+
+1	A	a	DT	_	2	det	_	O
+2	DREAMER	dreamer	NN	_	3	dep	_	O
+3	https://t.co/4O93BIPX81	#hlink#	ADD	pos2=NN	0	root	_	O
+

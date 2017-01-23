@@ -1,0 +1,24 @@
+1	WTF	wtf	NN	pos2=NNP	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+
+1	Big	big	JJ	_	2	nmod	_	O
+2	cats	cat	NNS	_	4	nsubj	_	O
+3	should	should	MD	_	4	aux	_	O
+4	be	be	VB	_	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	wild	wild	NN	pos2=JJ	5	pobj	_	O
+8	,	,	,	_	4	punct	_	O
+9	not	not	RB	_	20	neg	_	O
+10	at	at	IN	_	7	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	feet	foot	NNS	pos2=NN	10	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	disillusioned	disillusioned	JJ	pos2=VBN	15	nmod	_	O
+15	crackpots	crackpot	NNS	_	13	pobj	_	O
+16	such	such	JJ	_	17	advmod	_	O
+17	as	as	IN	_	15	prep	_	O
+18	the	the	DT	_	19	det	_	O
+19	Pope	pope	NNP	_	17	pobj	_	O
+20	https://t.co/CPqsAcsxrO	#hlink#	ADD	pos2=NNP	4	dep	_	O
+

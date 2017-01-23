@@ -1,0 +1,12 @@
+1	@kizomba_NL	@kizomba_nl	UH	pos2=XX	5	discourse	_	O
+2	@sarahkendzior	@sarahkendzior	UH	pos2=PRP	5	discourse	_	O
+3	@ezraklein	@ezraklein	UH	pos2=MD	5	discourse	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	wonder	wonder	VBP	_	0	root	_	O
+6	what	what	WP	pos2=WDT	8	dobj	_	O
+7	Putin	putin	NNP	_	8	nsubj	_	U-PERSON
+8	has	have	VBZ	_	5	ccomp	_	O
+9	on	on	IN	_	8	prep	_	O
+10	Trump	trump	NNP	pos2=NN	9	pobj	_	U-ORG
+11	?	?	.	_	5	punct	_	O
+

@@ -1,0 +1,11 @@
+1	Ahmed	ahmed	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	lost	lose	VBD	_	0	root	_	O
+3	his	his	PRP$	_	4	poss	_	O
+4	home	home	NN	_	2	dobj	_	O
+5	to	to	IN	_	2	prep	_	O
+6	IS	is	NNP	pos2=VBZ	5	pobj	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	#MosulOffensive	#mosuloffensive	ADD	pos2=-LRB-	2	punct	_	O
+2	https://t.co/NVSKOu0ggb	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,25 @@
+1	@TheDemocrats	@thedemocrats	NNS	pos2=ADD	2	compound	_	O
+2	@SenSchumer	@senschumer	NN	pos2=IN	5	dep	_	O
+3	we	we	PRP	_	5	nsubj	_	O
+4	must	must	MD	_	5	aux	_	O
+5	fight	fight	VB	_	0	root	_	O
+6	as	as	IN	_	5	prep	_	O
+7	democrats	democrat	NNS	pos2=NNPS	6	pobj	_	U-NORP
+8	.	.	.	_	5	punct	_	O
+
+1	Having	have	VBG	_	0	root	_	O
+2	Steve	steve	NNP	_	3	compound	_	B-PERSON
+3	Bannon	bannon	NNP	_	1	dobj	_	L-PERSON
+4	,	,	,	_	3	punct	_	O
+5	Donald	donald	NNP	_	6	compound	_	B-PERSON
+6	Trump	trump	NNP	_	3	conj	_	L-PERSON
+7	,	,	,	_	6	punct	_	O
+8	and	and	CC	_	6	cc	_	O
+9	Breitbart	breitbart	NNP	_	6	conj	_	U-PERSON
+10	leading	lead	VBG	_	1	conj	_	O
+11	our	our	PRP$	_	12	poss	_	O
+12	country	country	NN	_	10	dobj	_	O
+13	how	how	WRB	_	14	advmod	_	O
+14	scary	scary	JJ	_	15	acomp	_	O
+15	!	!	.	_	1	punct	_	O
+

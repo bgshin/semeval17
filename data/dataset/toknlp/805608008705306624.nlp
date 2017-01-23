@@ -1,0 +1,21 @@
+1	@Hello_Murica	@hello_murica	NNP	pos2=ADD	3	nsubj	_	U-PERSON
+2	@monstervadge	@monstervadge	TO	pos2=UH	3	aux	_	O
+3	compare	compare	VB	pos2=VBP	0	root	_	O
+4	total	total	JJ	_	5	nmod	_	O
+5	votes	vote	NNS	_	3	dobj	_	O
+6	in	in	IN	_	3	prep	_	O
+7	a	a	DT	_	8	det	_	O
+8	sample	sample	NN	_	6	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	precincts	precinct	NNS	_	9	pobj	_	O
+11	to	to	IN	pos2=TO	8	prep	_	O
+12	census	census	NN	_	11	pobj	_	O
+13	,	,	,	_	12	punct	_	O
+14	voter	voter	NN	_	15	compound	_	O
+15	registration	registration	NN	_	16	compound	_	O
+16	lists	list	NNS	pos2=VBZ	12	conj	_	O
+17	&	&	CC	_	16	cc	_	O
+18	publicly	publicly	RB	_	19	advmod	_	O
+19	available	available	JJ	_	20	nmod	_	O
+20	data	datum	NNS	pos2=NN	16	conj	_	O
+

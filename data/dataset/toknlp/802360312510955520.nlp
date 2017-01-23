@@ -1,0 +1,22 @@
+1	Senate	senate	NNP	_	2	compound	_	U-ORG
+2	Dems	dems	NNPS	pos2=NNP	3	nsubj	_	U-NORP
+3	need	need	VBP	pos2=NN	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	use	use	VB	_	3	xcomp	_	O
+6	the	the	DT	_	7	det	_	O
+7	filibuster	filibuster	NN	_	5	dobj	_	O
+8	wisely	wisely	RB	_	5	advmod	_	O
+9	,	,	,	_	3	punct	_	O
+10	but	but	CC	_	3	cc	_	O
+11	definitely	definitely	RB	_	12	advmod	_	O
+12	use	use	VB	pos2=VBP	3	conj	_	O
+13	it	it	PRP	_	12	dobj	_	O
+14	for	for	IN	_	12	prep	_	O
+15	Obamacare	obamacare	NNP	_	14	pobj	_	U-ORG
+16	and	and	CC	_	15	cc	_	O
+17	Medicare	medicare	NNP	_	15	conj	_	O
+18	and	and	CC	_	17	cc	_	O
+19	School	school	NNP	_	20	compound	_	O
+20	Privitization	privitization	NNP	pos2=NN	17	conj	_	O
+21	.	.	.	_	3	punct	_	O
+

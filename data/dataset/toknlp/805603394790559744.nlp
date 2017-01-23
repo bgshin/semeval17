@@ -1,0 +1,11 @@
+1	@RMadridBabe	@rmadridbabe	UH	pos2=ADD	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	remember	remember	VBP	_	0	root	_	O
+4	when	when	WRB	_	6	advmod	_	O
+5	Dani	dani	NNP	_	6	nsubj	_	U-PERSON
+6	alves	alves	VBZ	pos2=FW	3	ccomp	_	O
+7	nutmeg	nutmeg	NN	pos2=VBG	10	compound	_	O
+8	Cristiano	cristiano	NNP	_	10	compound	_	B-PERSON
+9	Ronaldo	ronaldo	NNP	_	10	compound	_	L-PERSON
+10	😂	😂	NNP	pos2=.	6	dobj	_	O
+

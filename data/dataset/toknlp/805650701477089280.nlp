@@ -1,0 +1,19 @@
+1	@Anonymous123312	@anonymous0	NNS	pos2=NN	4	nsubj	_	O
+2	do	do	VBP	pos2=VB	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	think	think	VB	_	0	root	_	O
+5	vaccines	vaccine	NNS	_	6	nsubj	_	O
+6	r	r	VBP	pos2=RB	4	ccomp	_	O
+7	bad	bad	JJ	_	6	acomp	_	O
+8	though	though	RB	_	6	advmod	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	got	get	VBD	_	0	root	_	O
+3	them	them	PRP	_	2	dobj	_	O
+4	and	and	CC	_	2	cc	_	O
+5	nothing	nothing	NN	_	6	nsubj	_	O
+6	happened	happened	VBD	pos2=VBN	2	conj	_	O
+7	to	to	IN	_	6	prep	_	O
+8	us	us	PRP	_	7	pobj	_	O
+

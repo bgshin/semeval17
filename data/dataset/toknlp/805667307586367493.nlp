@@ -1,0 +1,15 @@
+1	Will	will	MD	_	5	aux	_	O
+2	gold	gold	NN	pos2=JJ	3	compound	_	O
+3	holdings	holding	NNS	_	5	nsubjpass	_	O
+4	be	be	VB	_	5	auxpass	_	O
+5	taxed	tax	VBN	_	0	root	_	O
+6	?	?	.	_	5	punct	_	O
+
+1	All	all	DT	pos2=PDT	3	det	_	O
+2	your	your	PRP$	_	3	poss	_	O
+3	queries	query	NNS	_	4	nsubj	_	O
+4	answered	answer	VBN	_	0	root	_	O
+5	here	here	RB	_	4	advmod	_	O
+6	https://t.co/xQpN3VN5mw	#hlink#	ADD	_	7	nmod	_	O
+7	https://t.co/n4XefyvkIR	#hlink#	ADD	_	4	dep	_	U-ORG
+

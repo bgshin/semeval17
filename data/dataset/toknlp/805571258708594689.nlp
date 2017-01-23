@@ -1,0 +1,7 @@
+1	Homeopathy	homeopathy	NN	pos2=NNP	2	nsubj	_	O
+2	gave	give	VBD	_	0	root	_	O
+3	my	my	PRP$	_	4	poss	_	O
+4	triplets	triplet	NNS	_	2	dative	_	O
+5	allergies	allergy	NNS	_	2	dobj	_	O
+6	!	!	.	_	2	punct	_	O
+

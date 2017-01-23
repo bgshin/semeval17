@@ -1,0 +1,29 @@
+1	Chelsea	chelsea	NNP	_	2	compound	_	B-PERSON
+2	Handler	handler	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	a	a	DT	_	8	det	_	O
+6	fantasy	fantasy	NN	_	8	compound	_	O
+7	football	football	NN	_	8	compound	_	O
+8	league	league	NN	_	4	pobj	_	O
+9	with	with	IN	_	8	prep	_	O
+10	Dale	dale	NNP	_	12	compound	_	B-PERSON
+11	Earnhardt	earnhardt	NNP	_	12	compound	_	I-PERSON
+12	Jr	jr	NNP	_	9	pobj	_	L-PERSON
+13	,	,	,	_	12	punct	_	O
+14	Zac	zac	NNP	_	15	compound	_	B-PERSON
+15	Efron	efron	NNP	_	12	conj	_	L-PERSON
+16	,	,	,	_	15	punct	_	O
+17	Anna	anna	NNP	_	18	compound	_	B-PERSON
+18	Faris	faris	NNP	_	15	conj	_	L-PERSON
+19	,	,	,	_	18	punct	_	O
+20	and	and	CC	_	18	cc	_	O
+21	Kevin	kevin	NNP	_	22	compound	_	B-PERSON
+22	Durant	durant	NNP	_	18	conj	_	L-PERSON
+23	.....	..	.	pos2=,	3	punct	_	O
+
+1	can	can	MD	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	imagine	imagine	VB	_	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+

@@ -1,0 +1,11 @@
+1	The	the	DT	_	4	det	_	O
+2	Homeopathy	homeopathy	NNP	pos2=NN	3	compound	_	O
+3	Overdose	overdose	NN	pos2=NNP	4	compound	_	O
+4	Paradox	paradox	NN	pos2=NNP	7	nsubj	_	O
+5	:	:	:	_	7	punct	_	O
+6	Negligible	negligible	JJ	_	7	nmod	_	O
+7	Benefits	benefit	NNS	pos2=NNP	0	root	_	O
+8	,	,	,	_	7	punct	_	O
+9	Robust	robust	JJ	pos2=NNP	10	nmod	_	O
+10	Consumption	consumption	NN	pos2=NNP	7	appos	_	O
+

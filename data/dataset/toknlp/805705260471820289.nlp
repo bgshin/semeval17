@@ -1,0 +1,27 @@
+1	Lord	lord	NNP	_	2	compound	_	O
+2	Pannick	pannick	NNP	_	7	advmod	_	U-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	Lord	lord	NNP	_	2	conj	_	O
+5	Keen	keen	NNP	pos2=JJ	10	nmod	_	O
+6	-	-	HYPH	pos2=:	7	punct	_	O
+7	two	#crd#	CD	_	8	nmod	_	U-CARDINAL
+8	lawyers	lawyer	NNS	_	0	root	_	O
+9	doing	do	VBG	_	8	acl	_	O
+10	battle	battle	NN	_	9	dobj	_	O
+11	over	over	IN	_	10	prep	_	O
+12	Brexit	brexit	NNP	_	11	pobj	_	U-GPE
+13	today	today	NN	_	9	npadvmod	_	U-DATE
+14	.	.	.	_	10	punct	_	O
+
+1	You	you	PRP	_	4	nsubj	_	O
+2	could	could	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	make	make	VB	_	0	root	_	O
+5	this	this	DT	_	6	det	_	O
+6	shit	shit	NN	_	4	dobj	_	O
+7	up	up	RP	_	4	prt	_	O
+8	...	..	.	pos2=,	4	punct	_	O
+
+1	#brexit	#brexit	UH	pos2=ADD	2	discourse	_	O
+2	https://t.co/CaGlpWTyL0	#hlink#	ADD	pos2=NN	0	root	_	O
+

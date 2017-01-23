@@ -1,0 +1,15 @@
+1	@OlafWipper	@olafwipper	ADD	pos2=XX	6	advmod	_	O
+2	@scoutinfinity	@scoutinfinity	UH	pos2=NN	6	discourse	_	O
+3	@politicususa	@politicususa	UH	pos2=NN	6	discourse	_	O
+4	@elizabethforma	@elizabethforma	UH	pos2=TO	6	discourse	_	O
+5	possibly	possibly	RB	_	6	advmod	_	O
+6	utilize	utilize	VB	_	0	root	_	O
+7	the	the	DT	_	11	det	_	B-ORG
+8	Boston	boston	NNP	_	10	compound	_	I-ORG
+9	Globe	globe	NNP	_	10	compound	_	I-ORG
+10	Spotlight	spotlight	NNP	pos2=NN	11	compound	_	L-ORG
+11	team	team	NN	_	6	dobj	_	O
+12	for	for	IN	_	11	prep	_	O
+13	investigation	investigation	NN	_	12	pobj	_	O
+14	!!!!	!!	.	_	6	punct	_	O
+

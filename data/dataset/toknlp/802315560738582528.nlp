@@ -1,0 +1,25 @@
+1	@PopMech	@popmech	NN	pos2=VB	11	vocative	_	O
+2	until	until	IN	_	4	mark	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	posts	post	VBZ	_	1	advcl	_	O
+5	a	a	DT	_	8	det	_	O
+6	verified	verify	VBN	pos2=JJ	8	nmod	_	O
+7	0-60	0	CD	_	8	nmod	_	U-CARDINAL
+8	time	time	NN	_	4	dobj	_	O
+9	,	,	,	_	11	punct	_	O
+10	I	I	PRP	_	11	nsubj	_	O
+11	bet	bet	VBP	pos2=VBD	0	root	_	O
+12	it	it	PRP	_	15	nsubj	_	O
+13	ca	can	MD	_	15	aux	_	O
+14	n't	not	RB	_	15	neg	_	O
+15	beat	beat	VB	pos2=VBD	11	ccomp	_	O
+16	a	a	DT	_	18	det	_	O
+17	Tesla	tesla	NNP	_	18	compound	_	O
+18	Model	model	NNP	pos2=NN	23	poss	_	B-PRODUCT
+19	S	s	POS	pos2=NN	18	case	_	I-PRODUCT
+20	P100	p0	NN	pos2=NNP	23	compound	_	I-PRODUCT
+21	D	d	NNP	pos2=NN	23	nmod	_	I-PRODUCT
+22	Ludicrous	ludicrous	JJ	pos2=NNP	23	nmod	_	L-PRODUCT
+23	edition	edition	NN	_	15	dobj	_	O
+24	...	..	.	pos2=,	11	punct	_	O
+

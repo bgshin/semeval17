@@ -1,0 +1,16 @@
+1	Yay	yay	NN	pos2=NNP	0	root	_	O
+2	,	,	,	_	1	punct	_	O
+3	avocado	avocado	NN	pos2=JJ	4	compound	_	O
+4	smashers	smasher	NNS	_	1	appos	_	O
+5	!!!	!!	.	_	1	punct	_	O
+
+1	make	make	VB	pos2=VBP	0	root	_	O
+2	gun	gun	NN	_	3	compound	_	O
+3	control	control	NN	pos2=VB	6	nsubj	_	O
+4	tight	tight	JJ	pos2=RB	6	advmod	_	O
+5	tight	tight	JJ	pos2=RB	6	advmod	_	O
+6	tight	tight	JJ	pos2=NN	1	ccomp	_	O
+7	!!!!!	!!	.	_	1	punct	_	O
+
+1	https://t.co/wKWk3W1WEc	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,18 @@
+1	Bruh	bruh	UH	pos2=NN	15	discourse	_	O
+2	if	if	IN	_	5	mark	_	O
+3	my	my	PRP$	_	4	poss	_	O
+4	girl	girl	NN	_	5	nsubj	_	O
+5	cheated	cheat	VBD	pos2=VBN	15	advcl	_	O
+6	on	on	IN	_	5	prep	_	O
+7	me	me	PRP	_	6	pobj	_	O
+8	with	with	IN	_	5	prep	_	O
+9	Cristiano	cristiano	NNP	_	10	compound	_	B-PERSON
+10	Ronaldo	ronaldo	NNP	_	8	pobj	_	L-PERSON
+11	,	,	,	_	15	punct	_	O
+12	I	I	PRP	_	15	nsubj	_	O
+13	'd	would	MD	_	15	aux	_	O
+14	just	just	RB	_	15	advmod	_	O
+15	be	be	VB	_	0	root	_	O
+16	jealous	jealous	JJ	_	15	acomp	_	O
+17	.	.	.	_	15	punct	_	O
+

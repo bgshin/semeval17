@@ -1,0 +1,19 @@
+1	Repeal	repeal	VB	pos2=NN	9	advcl	_	O
+2	Congress	congress	NNP	_	5	poss	_	U-ORG
+3	’	'	POS	pos2=``	2	case	_	O
+4	special	special	JJ	_	5	nmod	_	O
+5	exemption	exemption	NN	_	1	dobj	_	O
+6	from	from	IN	_	5	prep	_	O
+7	Obamacare	obamacare	NNP	_	6	pobj	_	U-ORG
+8	,	,	,	_	9	punct	_	O
+9	kill	kill	VB	pos2=VBP	0	root	_	O
+10	two	#crd#	CD	_	11	nmod	_	U-CARDINAL
+11	birds	bird	NNS	_	9	dobj	_	O
+12	with	with	IN	_	9	prep	_	O
+13	one	#crd#	CD	_	18	nmod	_	U-CARDINAL
+14	stone	stone	NN	_	17	nmod	_	O
+15	–	-	HYPH	pos2=:	17	punct	_	B-ORG
+16	Washington	washington	NNP	_	17	compound	_	I-ORG
+17	Times	times	NNP	pos2=NNS	18	nmod	_	L-ORG
+18	https://t.co/XBLSIMrGUd	#hlink#	ADD	_	12	pobj	_	O
+

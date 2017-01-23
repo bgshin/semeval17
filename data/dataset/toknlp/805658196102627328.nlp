@@ -1,0 +1,21 @@
+1	Raul	raul	NNP	pos2=NN	6	vocative	_	U-PERSON
+2	:	:	:	_	6	punct	_	O
+3	"	"	``	_	6	punct	_	O
+4	I	I	PRP	_	6	nsubj	_	O
+5	've	have	VBP	_	6	aux	_	O
+6	played	play	VBN	_	0	root	_	O
+7	with	with	IN	_	6	prep	_	O
+8	Zidane	zidane	NNP	_	10	compound	_	B-PERSON
+9	Ronaldo	ronaldo	NNP	_	10	compound	_	I-PERSON
+10	Figo	figo	NNP	_	7	pobj	_	L-PERSON
+11	and	and	CC	_	10	cc	_	O
+12	Cristiano	cristiano	NNP	_	10	conj	_	U-PERSON
+13	...	..	.	pos2=,	6	punct	_	O
+
+1	But	but	CC	_	3	cc	_	O
+2	Messi	messi	NNP	_	3	nsubj	_	U-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	different	different	JJ	_	3	acomp	_	O
+5	.	.	.	_	3	punct	_	O
+6	"	"	''	_	3	punct	_	O
+

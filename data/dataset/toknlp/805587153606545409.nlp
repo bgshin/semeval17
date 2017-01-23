@@ -1,0 +1,31 @@
+1	Houston	houston	NNP	_	3	dep	_	U-GPE
+2	:	:	:	_	3	punct	_	O
+3	A473269	a0	NN	_	0	root	_	O
+4	>>	>>	-RRB-	pos2=SYM	3	punct	_	O
+5	SOS	sos	NN	pos2=NNP	3	dep	_	O
+6	!!!!	!!	.	_	3	punct	_	O
+
+1	SOS	sos	NN	pos2=NNP	0	root	_	O
+2	!!!!!	!!	.	_	1	punct	_	O
+
+1	Help	help	VB	pos2=NN	0	root	_	O
+2	!!!	!!	.	_	1	punct	_	O
+
+1	Folded	fold	VBN	pos2=VBD	2	nmod	_	O
+2	card	card	NN	_	0	root	_	O
+3	!!!	!!	.	_	2	punct	_	O
+
+1	At	at	IN	_	6	nmod	_	O
+2	risk	risk	NN	_	1	pobj	_	O
+3	for	for	IN	_	2	prep	_	O
+4	euthanasia	euthanasia	NN	_	3	pobj	_	O
+5	tomorrow	tomorrow	NN	_	6	compound	_	U-DATE
+6	morning	morning	NN	_	0	root	_	U-TIME
+7	.	.	.	_	6	punct	_	O
+
+1	Need	need	VB	pos2=VBP	0	root	_	O
+2	an	an	DT	_	0	root	_	O
+3	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/4BXruezgg9	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,25 @@
+1	Do	do	VB	pos2=VBP	3	aux	_	O
+2	nt	nt	RB	_	3	advmod	_	O
+3	get	get	VB	_	0	root	_	O
+4	so	so	RB	_	5	advmod	_	O
+5	distracted	distract	VBN	pos2=JJ	3	acomp	_	O
+6	by	by	IN	_	5	agent	_	O
+7	'	'	``	_	3	punct	_	O
+8	gun	gun	NN	_	9	compound	_	O
+9	control	control	NN	_	6	pobj	_	O
+10	'	'	''	pos2=POS	11	punct	_	O
+11	gorilla	gorilla	NN	_	12	compound	_	O
+12	U	u	NNP	pos2=PRP	13	nsubj	_	O
+13	miss	miss	VBP	pos2=AFX	18	ccomp	_	O
+14	mental	mental	JJ	_	15	nmod	_	O
+15	health	health	NN	_	16	compound	_	O
+16	issues	issue	NNS	_	13	dobj	_	O
+17	https://t.co/SthQLFhzBc;	#hlink#	ADD	pos2=VBP	19	nsubj	_	O
+18	“	"	``	pos2=''	23	punct	_	O
+19	Sandy	sandy	NNP	pos2=JJ	21	compound	_	B-ORG
+20	Hook	hook	NNP	_	21	compound	_	I-ORG
+21	Promise	promise	NNP	pos2=NN	23	compound	_	L-ORG
+22	release	release	NN	pos2=VB	23	compound	_	O
+23	PSA	psa	NN	pos2=NNP	0	root	_	U-ORG
+24	”	"	''	pos2=``	23	punct	_	O
+

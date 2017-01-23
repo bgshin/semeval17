@@ -1,0 +1,25 @@
+1	[	[	-LRB-	_	4	punct	_	O
+2	Is	be	VBZ	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	#Bernie	#bernie	VBG	pos2=VBN	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	ranking	rank	VBG	pos2=JJ	7	nmod	_	O
+7	member	member	NN	_	4	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	the	the	DT	_	11	det	_	B-ORG
+10	Budget	budget	NNP	_	11	compound	_	I-ORG
+11	Comm.	comm.	NNP	pos2=NNPS	8	pobj	_	L-ORG
+12	?	?	.	_	4	punct	_	O
+13	]	]	-RRB-	_	4	punct	_	O
+
+1	'	'	SYM	pos2=POS	3	punct	_	O
+2	Pelosi	pelosi	NNP	pos2=NN	3	nsubj	_	U-PERSON
+3	lays	lay	VBZ	_	0	root	_	O
+4	out	out	RP	pos2=RB	3	prt	_	O
+5	several	several	JJ	_	8	nmod	_	O
+6	Dem	dem	NNP	pos2=JJ	8	compound	_	U-NORP
+7	leadership	leadership	NN	_	8	compound	_	O
+8	nominations	nomination	NNS	_	10	poss	_	O
+9	'	'	POS	pos2=''	8	case	_	O
+10	https://t.co/s1GF7T33cI	#hlink#	ADD	pos2=NN	3	dobj	_	O
+

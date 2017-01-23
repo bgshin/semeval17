@@ -1,0 +1,7 @@
+1	#TheWalkingDead	#thewalkingdead	NN	pos2=VBD	6	dep	_	O
+2	109	0	CD	pos2=LS	1	npadvmod	_	U-CARDINAL
+3	Blank	blank	JJ	pos2=NNP	4	nmod	_	O
+4	Variant	variant	NN	pos2=NNP	6	dep	_	O
+5	Cover	cover	NNP	pos2=NN	6	nmod	_	B-PRODUCT
+6	https://t.co/jL35m649c4	#hlink#	ADD	pos2=NN	0	root	_	L-PRODUCT
+

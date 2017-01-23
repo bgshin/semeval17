@@ -1,0 +1,15 @@
+1	China	china	NNP	_	4	poss	_	U-GPE
+2	's	's	POS	_	1	case	_	O
+3	TPP	tpp	NN	pos2=NNP	4	compound	_	O
+4	alternative	alternative	NN	pos2=JJ	5	nsubj	_	O
+5	lacks	lack	VBZ	_	0	root	_	O
+6	protection	protection	NN	_	5	dobj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	workers	worker	NNS	_	7	pobj	_	O
+9	,	,	,	_	8	punct	_	O
+10	environment	environment	NN	_	8	conj	_	O
+11	,	,	,	_	10	punct	_	O
+12	information	information	NN	pos2=GW	10	conj	_	O
+13	https://t.co/n0GDUNgKWe	#hlink#	ADD	_	14	nmod	_	O
+14	https://t.co/WuB6p281x7	#hlink#	ADD	_	5	dep	_	U-ORG
+

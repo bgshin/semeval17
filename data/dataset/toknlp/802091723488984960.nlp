@@ -1,0 +1,27 @@
+1	Too	too	RB	_	2	advmod	_	O
+2	bad	bad	JJ	_	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	#Hezbollah	#hezbollah	NNP	pos2=NN	3	pobj	_	U-GPE
+5	,	,	,	_	2	punct	_	O
+6	declaring	declare	VBG	_	2	advcl	_	O
+7	itself	itself	PRP	_	9	nsubj	_	O
+8	an	an	DT	_	9	det	_	O
+9	ally	ally	NN	_	6	ccomp	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Russia	russia	NNP	_	10	pobj	_	U-GPE
+12	during	during	IN	_	9	prep	_	O
+13	a	a	DT	_	14	det	_	O
+14	time	time	NN	_	12	pobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	high	high	JJ	_	20	nmod	_	O
+17	East	east	NNP	pos2=NN	19	compound	_	U-LOC
+18	-	-	HYPH	_	19	punct	_	O
+19	West	west	NNP	_	20	compound	_	O
+20	tensions	tension	NNS	_	15	pobj	_	O
+21	!	!	.	_	2	punct	_	O
+
+1	#Iran	#iran	NNP	pos2=ADD	2	compound	_	U-GPE
+2	#WW3	#ww0	NN	pos2=GW	3	compound	_	O
+3	@Doranimated	@doranimated	NNP	pos2=VBN	0	root	_	U-ORG
+4	@lill_the_swiss	@lill_the_swiss	.	pos2=ADD	3	punct	_	O
+

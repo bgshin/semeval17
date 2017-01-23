@@ -1,0 +1,7 @@
+1	Comeee	comeee	NNP	pos2=VB	6	dep	_	U-PERSON
+2	onnnnn	onnnnn	IN	pos2=XX	1	prep	_	O
+3	kim	kim	NNP	pos2=FW	5	compound	_	B-PERSON
+4	jong	jong	NNP	pos2=FW	5	compound	_	I-PERSON
+5	un😭😭😭😭	un😭😭😭😭	NNP	pos2=-LRB-	2	pobj	_	L-PERSON
+6	https://t.co/jS7RIIWAf5	#hlink#	ADD	_	0	root	_	O
+

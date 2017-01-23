@@ -1,0 +1,25 @@
+1	@pikhq	@pikhq	IN	pos2=PRP$	3	prep	_	O
+2	Homeopathy	homeopathy	NN	pos2=NNP	1	pobj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	dumb	dumb	JJ	_	3	acomp	_	O
+5	and	and	CC	_	3	cc	_	O
+6	really	really	RB	_	10	advmod	_	O
+7	should	should	MD	_	10	aux	_	O
+8	n't	not	RB	_	10	neg	_	O
+9	be	be	VB	_	10	auxpass	_	O
+10	allowed	allow	VBN	_	3	conj	_	O
+11	anywhere	anywhere	RB	_	10	advmod	_	O
+12	,	,	,	_	10	punct	_	O
+13	but	but	CC	_	3	cc	_	O
+14	that	that	DT	_	15	det	_	O
+15	kind	kind	NN	_	18	nsubj	_	O
+16	of	of	IN	_	15	prep	_	O
+17	BS	bs	NN	pos2=NNP	16	pobj	_	U-ORG
+18	seems	seem	VBZ	_	3	conj	_	O
+19	more	more	RBR	_	20	advmod	_	O
+20	popular	popular	JJ	_	18	oprd	_	O
+21	here	here	RB	_	18	advmod	_	O
+22	than	than	IN	_	21	prep	_	O
+23	elsewhere	elsewhere	RB	_	22	pcomp	_	O
+24	.	.	.	_	18	punct	_	O
+

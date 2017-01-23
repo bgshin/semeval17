@@ -1,0 +1,23 @@
+1	Banda	banda	NNP	_	5	compound	_	B-PERSON
+2	Piper	piper	NNP	_	5	compound	_	I-PERSON
+3	-	-	HYPH	pos2=:	5	punct	_	I-PERSON
+4	Ricky	ricky	NNP	_	5	compound	_	I-PERSON
+5	Martin	martin	NNP	_	20	dep	_	L-PERSON
+6	(	(	-LRB-	_	5	punct	_	O
+7	Livin	livin	NNP	_	9	poss	_	O
+8	'	'	POS	pos2=''	7	case	_	O
+9	la	la	NN	pos2=JJ	5	appos	_	O
+10	vida	vida	FW	pos2=NNP	11	advmod	_	O
+11	loca	loca	FW	pos2=NN	5	appos	_	O
+12	)	)	-RRB-	_	5	punct	_	O
+13	e	e	SYM	pos2=IN	15	compound	_	O
+14	Marron	marron	NNP	pos2=NN	9	appos	_	O
+15	5	0	CD	_	14	nmod	_	U-CARDINAL
+16	(	(	-LRB-	_	18	punct	_	O
+17	This	this	DT	_	18	det	_	O
+18	love	love	NN	_	14	parataxis	_	O
+19	)	)	-RRB-	pos2=GW	18	punct	_	O
+20	https://t.co/70pWahZWSz	#hlink#	ADD	pos2=RBR	0	root	_	O
+21	via	via	IN	_	20	prep	_	O
+22	@YouTube	@youtube	NN	pos2=NNP	21	pobj	_	O
+

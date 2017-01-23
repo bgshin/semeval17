@@ -1,0 +1,20 @@
+1	Check	check	VB	_	0	root	_	O
+2	out	out	RP	_	1	prt	_	O
+3	32GB	0gb	NN	pos2=NNP	6	compound	_	O
+4	Samsung	samsung	NNP	_	5	compound	_	B-ORG
+5	Galaxy	galaxy	NNP	_	6	compound	_	L-ORG
+6	Note	note	NN	pos2=VB	1	dobj	_	O
+7	5	0	CD	_	19	dep	_	U-CARDINAL
+8	SM	sm	NNP	pos2=NN	10	compound	_	B-PRODUCT
+9	-	-	HYPH	_	10	punct	_	I-PRODUCT
+10	N920P	n0p	NN	pos2=NNP	11	compound	_	L-PRODUCT
+11	Sprint	sprint	NNP	pos2=NN	19	dep	_	O
+12	Unlocked	unlocked	JJ	pos2=VBD	14	nmod	_	O
+13	GSM	gsm	NNP	pos2=NN	14	compound	_	U-PRODUCT
+14	Smartphone	smartphone	NN	pos2=NNP	11	appos	_	O
+15	5.7	0	CD	_	14	appos	_	U-CARDINAL
+16	"	"	''	pos2=``	1	punct	_	O
+17	#Samsung	#samsung	VBG	pos2=NNP	19	nmod	_	O
+18	#Bar	#bar	ADD	pos2=NNP	19	punct	_	O
+19	https://t.co/fEZjlyKKoe	#hlink#	ADD	_	1	dep	_	O
+

@@ -1,0 +1,8 @@
+1	Currently	currently	RB	_	2	advmod	_	O
+2	trending	trend	VBG	_	7	dep	_	O
+3	in	in	IN	pos2=RP	2	prep	_	O
+4	entertainment	entertainment	NN	_	5	compound	_	O
+5	news	news	NN	_	3	pobj	_	O
+6	:	:	:	_	7	punct	_	O
+7	https://t.co/QYnRG7C6Jc	#hlink#	ADD	_	0	root	_	U-ORG
+

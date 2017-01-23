@@ -1,0 +1,33 @@
+1	@AdamGreen	@adamgreen	ADD	pos2=XX	7	dobj	_	O
+2	@elizabethforma	@elizabethforma	IN	pos2=UH	1	prep	_	O
+3	What	what	WDT	_	4	det	_	O
+4	trash	trash	NN	_	2	pcomp	_	O
+5	did	do	VBD	_	7	aux	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	put	put	VB	pos2=VBN	0	root	_	O
+8	in	in	IN	pos2=RP	7	prep	_	O
+9	that	that	DT	pos2=IN	11	det	_	O
+10	kids	kid	NNS	_	11	compound	_	O
+11	head	head	NN	pos2=VB	8	pobj	_	O
+12	?	?	.	_	7	punct	_	O
+
+1	Shame	shame	NN	pos2=VB	0	root	_	O
+2	on	on	IN	_	1	prep	_	O
+3	you	you	PRP	_	2	pobj	_	O
+4	-	-	,	pos2=HYPH	1	punct	_	O
+5	Or	or	CC	pos2=NNP	6	cc	_	O
+6	is	be	VBZ	_	4	conj	_	O
+7	he	he	PRP	_	6	nsubj	_	O
+8	an	an	DT	_	9	det	_	O
+9	idiot	idiot	NN	_	6	attr	_	O
+10	?	?	.	_	1	punct	_	O
+
+1	probably	probably	RB	_	3	advmod	_	O
+2	,	,	,	_	3	punct	_	O
+3	seems	seem	VBZ	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	run	run	VB	_	3	xcomp	_	O
+6	in	in	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	family	family	NN	_	6	pobj	_	O
+

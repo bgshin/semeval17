@@ -1,0 +1,30 @@
+1	Let	let	VB	_	0	root	_	O
+2	's	's	PRP	_	4	nsubj	_	O
+3	all	all	DT	pos2=RB	4	det	_	O
+4	unite	unite	NN	pos2=VB	1	ccomp	_	O
+5	!	!	.	_	1	punct	_	O
+
+1	Let	let	VB	_	0	root	_	O
+2	's	's	PRP	_	5	nsubj	_	O
+3	all	all	DT	pos2=RB	2	appos	_	O
+4	boldly	boldly	RB	_	5	advmod	_	O
+5	fight	fight	VBP	pos2=VB	1	ccomp	_	O
+6	the	the	DT	_	7	det	_	O
+7	lying	lying	NN	pos2=VBG	5	dobj	_	O
+8	,	,	,	_	23	punct	_	O
+9	crooked	crooked	JJ	_	23	nmod	_	O
+10	,	,	,	_	23	punct	_	O
+11	disgusting	disgusting	JJ	_	23	nmod	_	O
+12	,	,	,	_	23	punct	_	O
+13	hate	hate	NN	_	15	npadvmod	_	O
+14	-	-	HYPH	pos2=:	15	punct	_	O
+15	spreading	spread	VBG	pos2=NN	23	nmod	_	O
+16	,	,	,	_	23	punct	_	O
+17	nazi	nazi	NN	pos2=RB	19	npadvmod	_	O
+18	-	-	HYPH	_	19	punct	_	O
+19	supporting	support	VBG	_	20	nmod	_	O
+20	demagogue	demagogue	NN	_	23	nmod	_	O
+21	c	c	GW	pos2=.	23	nmod	_	O
+22	…	…	GW	pos2=:	23	nmod	_	O
+23	https://t.co/zTuXQOx2FR	#hlink#	ADD	pos2=NN	1	dep	_	O
+

@@ -1,0 +1,19 @@
+1	The	the	DT	_	5	det	_	O
+2	latest	late	JJS	_	5	nmod	_	O
+3	one	#crd#	CD	_	4	compound	_	B-CARDINAL
+4	hundred	#crd#	CD	_	5	nmod	_	L-CARDINAL
+5	people	people	NNS	_	0	appos	_	O
+6	you	you	PRP	_	8	nsubj	_	O
+7	should	should	MD	_	8	aux	_	O
+8	know	know	VB	_	5	relcl	_	O
+9	!	!	.	_	5	punct	_	O
+
+1	https://t.co/2kjloDV13T	#hlink#	ADD	pos2=NN	0	root	_	O
+2	Thanks	thanks	NNS	pos2=NN	1	npadvmod	_	O
+3	to	to	IN	_	2	prep	_	O
+4	@sandrinapost	@sandrinapost	VB	pos2=XX	3	pobj	_	O
+5	@chhristinaa	@chhristinaa	UH	pos2=FW	4	discourse	_	O
+6	@ycavieres	@ycavieres	UH	pos2=NNS	4	discourse	_	O
+7	#chile	#chile	UH	pos2=VB	4	discourse	_	O
+8	#isis	#isis	UH	pos2=NN	1	discourse	_	O
+

@@ -1,0 +1,5 @@
+1	lingerie	lingerie	NN	_	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	valentines	valentine	NNS	_	2	pobj	_	O
+4	https://t.co/xugnAktQTV	#hlink#	ADD	pos2=NN	0	root	_	O
+

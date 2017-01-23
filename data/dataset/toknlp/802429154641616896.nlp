@@ -1,0 +1,14 @@
+1	@Mediaite	@mediaite	NNP	pos2=IN	6	nsubj	_	B-ORG
+2	The	the	DT	_	5	det	_	I-ORG
+3	Clinton	clinton	NNP	_	5	compound	_	I-ORG
+4	Crime	crime	NNP	_	5	compound	_	I-ORG
+5	Foundation	foundation	NNP	_	1	appos	_	L-ORG
+6	got	get	VBD	_	0	root	_	O
+7	everyone	everyone	NN	_	8	nsubj	_	O
+8	wanting	want	VBG	_	6	ccomp	_	O
+9	to	to	TO	pos2=IN	10	aux	_	O
+10	Pay	pay	VB	pos2=NNP	8	xcomp	_	O
+11	to	to	IN	pos2=TO	10	prep	_	O
+12	Play	play	VB	pos2=NNP	11	pobj	_	O
+13	!	!	.	_	6	punct	_	O
+

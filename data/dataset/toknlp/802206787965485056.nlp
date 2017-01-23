@@ -1,0 +1,14 @@
+1	@CherylJstwin	@cheryljstwin	NN	pos2=NNP	4	poss	_	U-DATE
+2	@megynkelly	@megynkelly	POS	pos2=PRP$	1	case	_	O
+3	sport	sport	NN	_	4	compound	_	O
+4	figures	figure	NNS	_	10	nsubjpass	_	O
+5	&	&	CC	_	4	cc	_	O
+6	certain	certain	JJ	_	7	nmod	_	O
+7	celebrities	celebrity	NNS	_	4	conj	_	O
+8	can	can	MD	_	10	aux	_	O
+9	be	be	VB	_	10	auxpass	_	O
+10	seen	see	VBN	_	0	root	_	O
+11	as	as	IN	_	10	prep	_	O
+12	heroes	hero	NNS	_	11	pobj	_	O
+13	.	.	.	_	10	punct	_	O
+

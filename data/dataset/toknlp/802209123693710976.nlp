@@ -1,0 +1,15 @@
+1	@aaron_pilson	@aaron_pilson	NNP	pos2=XX	3	vocative	_	U-PERSON
+2	@therealcornett	@therealcornett	UH	pos2=XX	3	discourse	_	O
+3	@grammy620	@grammy0	NN	pos2=UH	0	root	_	O
+4	@megynkelly	@megynkelly	UH	pos2=,	3	discourse	_	O
+5	You	you	PRP	_	8	nsubj	_	O
+6	have	have	VBP	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	missed	miss	VBN	_	3	ccomp	_	O
+9	a	a	DT	_	10	det	_	O
+10	thing	thing	NN	_	8	dobj	_	O
+11	by	by	IN	_	8	prep	_	O
+12	not	not	RB	_	13	neg	_	O
+13	watching	watch	VBG	_	11	pcomp	_	O
+14	@megynkelly	@megynkelly	RB	pos2=.	13	advmod	_	O
+

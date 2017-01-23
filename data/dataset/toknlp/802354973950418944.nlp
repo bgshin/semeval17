@@ -1,0 +1,16 @@
+1	6	0	CD	pos2=LS	2	nmod	_	U-CARDINAL
+2	Phones	phone	NNS	pos2=NNPS	4	nsubj	_	O
+3	to	to	TO	pos2=IN	4	aux	_	O
+4	Consider	consider	VB	_	0	root	_	O
+5	If	if	IN	_	8	mark	_	O
+6	You	you	PRP	pos2=NNP	8	nsubj	_	O
+7	Really	really	RB	pos2=NNP	8	advmod	_	O
+8	Wanted	want	VBD	_	4	ccomp	_	O
+9	the	the	DT	_	11	det	_	O
+10	Galaxy	galaxy	NNP	_	11	compound	_	O
+11	Note	note	NNP	pos2=NN	13	dep	_	O
+12	7	0	CD	_	13	dep	_	O
+13	https://t.co/hVM1IuI7a8	#hlink#	ADD	pos2=NNS	8	dobj	_	O
+14	via	via	IN	_	8	prep	_	O
+15	@yahoo	@yahoo	UH	pos2=NN	14	discourse	_	O
+

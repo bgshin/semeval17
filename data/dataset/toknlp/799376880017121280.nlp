@@ -1,0 +1,16 @@
+1	Yesterday	yesterday	NN	_	2	npadvmod	_	U-DATE
+2	was	be	VBD	_	0	root	_	O
+3	#NationalFastFoodDay	#nationalfastfoodday	NNP	pos2=VBN	2	attr	_	U-DATE
+4	and	and	CC	_	3	cc	_	O
+5	@CBNostalgia	@cbnostalgia	NNP	pos2=NN	3	conj	_	U-ORG
+6	Makes	make	VBZ	pos2=NNP	2	conj	_	O
+7	Sure	sure	UH	pos2=NNP	11	discourse	_	O
+8	you	you	PRP	_	11	nsubj	_	O
+9	Do	do	VBP	_	11	aux	_	O
+10	n't	not	RB	_	11	neg	_	O
+11	Forget	forget	VB	_	6	ccomp	_	O
+12	about	about	IN	pos2=RB	11	prep	_	O
+13	#BellyBurger	#bellyburger	GW	pos2=$	12	pobj	_	O
+14	…	…	NFP	pos2=GW	15	punct	_	O
+15	https://t.co/VA6su1Vyzj	#hlink#	ADD	pos2=NN	13	appos	_	O
+

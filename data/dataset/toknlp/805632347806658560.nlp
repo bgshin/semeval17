@@ -1,0 +1,18 @@
+1	Zac	zac	NNP	_	2	compound	_	B-PERSON
+2	Efron	efron	NNP	_	3	nsubj	_	L-PERSON
+3	sports	sport	VBZ	pos2=NNS	0	root	_	O
+4	a	a	DT	pos2=CC	8	det	_	O
+5	neat	neat	JJ	_	17	nmod	_	O
+6	and	and	CC	_	3	cc	_	O
+7	trim	trim	VB	pos2=NN	3	conj	_	O
+8	goatee	goatee	NN	_	7	dobj	_	O
+9	while	while	IN	_	10	mark	_	O
+10	shopping	shop	VBG	pos2=NN	7	advcl	_	O
+11	for	for	IN	_	10	prep	_	O
+12	magazines	magazine	NNS	_	11	pobj	_	O
+13	in	in	IN	_	12	prep	_	O
+14	LA	la	NNP	_	13	pobj	_	O
+15	#ZacEfron	#zacefron	GW	pos2=ADD	17	nmod	_	O
+16	https://t.co/7FCZyXvjBx	#hlink#	ADD	_	17	nmod	_	O
+17	https://t.co/1LRPKbPsio	#hlink#	ADD	_	3	dep	_	O
+

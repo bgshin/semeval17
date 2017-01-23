@@ -1,0 +1,21 @@
+1	Korea	korea	NNP	pos2=NN	2	nsubj	_	U-GPE
+2	sent	send	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	formal	formal	JJ	_	5	nmod	_	O
+5	request	request	NN	_	2	dobj	_	O
+6	to	to	IN	_	5	prep	_	O
+7	China	china	NNP	_	6	pobj	_	U-GPE
+8	to	to	TO	_	9	aux	_	O
+9	stop	stop	VB	_	5	acl	_	O
+10	calling	call	VBG	_	9	xcomp	_	O
+11	Kim	kim	NNP	_	13	compound	_	O
+12	Jong	jong	NNP	_	13	compound	_	O
+13	Un	un	NNP	_	10	dobj	_	O
+14	"	"	''	pos2=``	18	punct	_	O
+15	Kim	kim	NNP	_	16	compound	_	B-PERSON
+16	Fatty	fatty	NNP	_	20	nmod	_	L-PERSON
+17	the	the	DT	_	18	det	_	O
+18	Third	#ord#	NNP	pos2=JJ	16	appos	_	U-ORDINAL
+19	"	"	''	pos2=``	2	punct	_	O
+20	online😂😂	online😂😂	.	pos2=NNP	2	punct	_	O
+

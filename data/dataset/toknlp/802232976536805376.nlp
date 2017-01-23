@@ -1,0 +1,4 @@
+1	ON	on	IN	pos2=NNP	0	root	_	O
+2	MELANIA	melania	NN	pos2=NNP	3	compound	_	U-PERSON
+3	SPEECH	speech	NN	_	1	pobj	_	O
+

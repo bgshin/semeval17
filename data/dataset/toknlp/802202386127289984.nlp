@@ -1,0 +1,26 @@
+1	@harry94niall93	@harry0niall0	NN	pos2=MD	3	npadvmod	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	have	have	VBP	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	big	big	JJ	_	6	nmod	_	O
+6	trouble	trouble	NN	_	3	dobj	_	O
+7	if	if	IN	_	9	mark	_	O
+8	you	you	PRP	_	9	nsubj	_	O
+9	think	think	VBP	_	3	advcl	_	O
+10	that	that	IN	_	12	mark	_	O
+11	I	I	PRP	_	12	nsubj	_	O
+12	'm	be	VBP	_	9	ccomp	_	O
+13	a	a	DT	_	14	det	_	O
+14	nazi	nazi	NN	pos2=JJ	12	attr	_	O
+15	only	only	RB	_	25	advmod	_	O
+16	bc	bc	IN	pos2=NN	18	mark	_	O
+17	I	I	PRP	_	18	nsubj	_	O
+18	said	say	VBD	_	14	acl	_	O
+19	"	"	``	_	18	punct	_	O
+20	shut	shut	VB	pos2=VBN	18	xcomp	_	O
+21	up	up	RP	_	20	prt	_	O
+22	"	"	''	_	25	punct	_	O
+23	,	,	,	_	25	punct	_	O
+24	you	you	PRP	_	25	nsubj	_	O
+25	stupid	stupid	JJ	pos2=VBP	20	advmod	_	O
+

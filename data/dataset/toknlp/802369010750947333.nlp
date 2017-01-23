@@ -1,0 +1,14 @@
+1	@OGregoryblog1	@ogregoryblog0	NN	pos2=NNS	2	nsubj	_	O
+2	Is	be	VBZ	_	0	root	_	O
+3	PolitiFact	politifact	NNP	_	2	nsubj	_	U-ORG
+4	a	a	DT	_	10	det	_	O
+5	Russian	russian	JJ	_	10	nmod	_	U-NORP
+6	or	or	CC	_	5	cc	_	O
+7	alt	alt	JJ	pos2=RB	9	advmod	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	right	right	JJ	pos2=NN	5	conj	_	O
+10	site	site	NN	_	2	attr	_	O
+11	?	?	.	_	2	punct	_	O
+
+1	https://t.co/Oip8D3PpKv	#hlink#	ADD	_	0	root	_	U-ORG
+

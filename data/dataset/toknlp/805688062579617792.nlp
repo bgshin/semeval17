@@ -1,0 +1,16 @@
+1	#MuhammadAli	#muhammadali	NNP	pos2=XX	6	compound	_	O
+2	Muhammad	muhammad	NNP	_	6	compound	_	B-PERSON
+3	Ali	ali	NNP	_	6	compound	_	L-PERSON
+4	VS	vs	NNP	pos2=IN	6	compound	_	O
+5	Sonny	sonny	NNP	_	6	compound	_	B-PERSON
+6	Liston	liston	NNP	_	8	nsubj	_	L-PERSON
+7	1965	0	CD	pos2=NNP	6	npadvmod	_	U-DATE
+8	Signed	sign	VBD	pos2=VBN	0	root	_	O
+9	Autographed	autographed	NNP	pos2=VBN	10	npadvmod	_	O
+10	Framed	frame	VBN	pos2=NNP	15	nmod	_	O
+11	#Photo	#photo	NNP	pos2=IN	12	compound	_	B-ORG
+12	Steine	steine	NNP	pos2=GW	13	dep	_	I-ORG
+13	https://t.co/eF0PL1ptmP	#hlink#	ADD	pos2=POS	15	dep	_	I-ORG
+14	#Legend	#legend	NNP	pos2=-RRB-	15	compound	_	I-ORG
+15	#Boxer	#boxer	NNP	pos2=.	8	dobj	_	L-ORG
+

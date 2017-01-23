@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det	_	O
+2	only	only	JJ	_	3	nmod	_	O
+3	thing	thing	NN	_	8	nsubj	_	O
+4	I	I	PRP	_	6	nsubj	_	O
+5	can	can	MD	_	6	aux	_	O
+6	commit	commit	VB	_	3	relcl	_	O
+7	to	to	IN	pos2=TO	6	prep	_	O
+8	is	be	VBZ	pos2=VB	0	root	_	O
+9	my	my	PRP$	_	10	poss	_	O
+10	vegetarianism	vegetarianism	NN	_	8	attr	_	O
+

@@ -1,0 +1,16 @@
+1	#Iran	#iran	NNP	pos2=XX	2	nsubj	_	O
+2	Using	use	VBG	_	0	root	_	O
+3	#CommercialPlanes	#commercialplanes	NNS	pos2=NNPS	2	dobj	_	O
+4	To	to	TO	pos2=IN	5	aux	_	O
+5	Smuggle	smuggle	VB	pos2=NNP	2	xcomp	_	O
+6	Weapons	weapon	NNS	pos2=NNPS	5	dobj	_	O
+7	https://t.co/edBQFRTlJY	#hlink#	ADD	_	15	dep	_	O
+8	@Kredo0	@kredo0	NNS	pos2=-RRB-	15	dep	_	O
+9	#tcot	#tcot	IN	pos2=VBP	8	prep	_	O
+10	#p2	#p0	NN	pos2=CD	9	pobj	_	O
+11	#hezbollah	#hezbollah	UH	pos2=XX	15	nmod	_	O
+12	#houthi	#houthi	UH	pos2=FW	11	discourse	_	O
+13	#gwot	#gwot	UH	pos2=GW	11	discourse	_	O
+14	…	…	NFP	pos2=-LRB-	15	punct	_	O
+15	https://t.co/lgi1tp7MGx	#hlink#	ADD	_	2	dep	_	O
+

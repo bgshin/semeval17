@@ -1,0 +1,10 @@
+1	Lovely	lovely	JJ	pos2=NNP	5	nmod	_	O
+2	Valentines	valentines	NNP	_	5	compound	_	B-EVENT
+3	Day	day	NNP	_	5	compound	_	I-EVENT
+4	Flyer	flyer	NNP	pos2=NN	5	compound	_	I-EVENT
+5	Template	template	NNP	pos2=NN	6	dep	_	I-EVENT
+6	https://t.co/lppZjnmy5x	#hlink#	ADD	_	0	root	_	I-EVENT
+7	#free	#free	-RRB-	pos2=UH	6	punct	_	I-EVENT
+8	#flyer	#flyer	UH	pos2=-RRB-	6	discourse	_	L-EVENT
+9	#template	#template	UH	pos2=ADD	6	discourse	_	O
+

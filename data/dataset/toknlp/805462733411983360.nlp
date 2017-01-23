@@ -1,0 +1,17 @@
+1	@jihadwatchRS	@jihadwatchrs	NNS	pos2=ADD	2	compound	_	O
+2	@VanJones68	@vanjones0	NN	pos2=ADD	3	nsubj	_	O
+3	preaches	preach	VBZ	_	0	root	_	O
+4	about	about	IN	_	3	prep	_	O
+5	moral	moral	JJ	_	7	nmod	_	O
+6	high	high	JJ	_	7	nmod	_	O
+7	ground	ground	NN	_	4	pobj	_	O
+8	while	while	IN	_	10	mark	_	O
+9	@POTUS	@potus	NNP	pos2=NN	10	nsubj	_	U-ORG
+10	executes	execute	VBZ	_	3	advcl	_	O
+11	drone	drone	NN	_	12	compound	_	O
+12	strikes	strike	NNS	_	10	dobj	_	O
+13	globally	globally	RB	_	10	advmod	_	O
+14	,	,	,	_	3	punct	_	O
+15	#collateraldamage	#collateraldamage	UH	pos2=VB	3	discourse	_	O
+16	#radicalization	#radicalization	UH	pos2=NN	3	discourse	_	O
+

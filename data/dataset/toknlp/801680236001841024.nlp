@@ -1,0 +1,11 @@
+1	@iamjakeneal	@iamjakeneal	UH	pos2=``	3	discourse	_	O
+2	We	we	PRP	_	3	nsubj	_	O
+3	knew	know	VBD	_	0	root	_	O
+4	bout	bout	VB	pos2=IN	3	xcomp	_	O
+5	him	him	PRP	_	4	dobj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	Grayson	grayson	NNP	_	8	compound	_	B-PERSON
+8	Allen	allen	NNP	_	5	conj	_	L-PERSON
+9	before	before	IN	_	4	prep	_	O
+10	anybody	anybody	NN	_	9	pobj	_	O
+

@@ -1,0 +1,12 @@
+1	david	david	FW	pos2=NNP	2	nmod	_	O
+2	blaine	blaine	NN	pos2=NNP	6	nsubj	_	O
+3	AND	and	CC	_	2	cc	_	O
+4	myself	myself	PRP	_	2	conj	_	O
+5	are	be	VBP	_	6	aux	_	O
+6	living	live	VBG	_	0	root	_	O
+7	proof	proof	NN	_	6	dobj	_	O
+8	that	that	IN	pos2=WDT	10	mark	_	O
+9	magic	magic	NN	pos2=JJ	10	nsubj	_	O
+10	IS	be	VBZ	_	7	acl	_	O
+11	real	real	JJ	pos2=RB	10	acomp	_	O
+

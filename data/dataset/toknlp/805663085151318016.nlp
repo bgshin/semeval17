@@ -1,0 +1,19 @@
+1	75	0	CD	_	2	nmod	_	B-PERCENT
+2	percent	percent	NN	_	6	nsubj	_	L-PERCENT
+3	of	of	IN	_	2	prep	_	O
+4	#Trump	#trump	NNP	pos2=NN	5	compound	_	U-ORG
+5	voters	voter	NNS	_	3	pobj	_	O
+6	want	want	VBP	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	accelerate	accelerate	VB	_	6	xcomp	_	O
+9	the	the	DT	_	10	det	_	O
+10	growth	growth	NN	_	8	dobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	#clean	#clean	NNP	pos2=XX	11	pobj	_	O
+13	#energy	#energy	UH	pos2=NN	8	discourse	_	O
+14	.	.	.	_	6	punct	_	O
+
+1	#frac	#frac	GW	pos2=NFP	3	nmod	_	O
+2	kinghttps://t.co/LGmdweMk8q	#hlink#	ADD	pos2=GW	3	nmod	_	O
+3	https://t.co/BwfDLj1PYd	#hlink#	ADD	_	0	root	_	U-ORG
+

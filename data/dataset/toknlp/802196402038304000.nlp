@@ -1,0 +1,13 @@
+1	#Saddam	#saddam	NNP	pos2=PRP	4	poss	_	U-ORG
+2	's	's	POS	pos2=VBZ	1	case	_	O
+3	#Cousin	#cousin	NNP	pos2=$	4	compound	_	B-PERSON
+4	#Arrested	#arrested	NNP	pos2=VBN	0	root	_	L-PERSON
+5	In	in	IN	_	4	prep	_	O
+6	#ISIS	#isis	NNP	pos2=NN	7	compound	_	O
+7	Attack	attack	NNP	pos2=NN	5	pobj	_	O
+8	on	on	IN	_	7	prep	_	O
+9	#Kirkuk	#kirkuk	NNP	pos2=NN	8	pobj	_	O
+10	--	--	:	pos2=.	4	punct	_	O
+11	>	>	-LRB-	pos2=SYM	12	punct	_	O
+12	https://t.co/0nxCjQakW9	#hlink#	ADD	_	4	appos	_	O
+

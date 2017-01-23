@@ -1,0 +1,24 @@
+1	@bpolitics	@bpolitics	IN	pos2=UH	6	mark	_	O
+2	The	the	DT	_	4	det	_	O
+3	Obama	obama	NNP	_	4	compound	_	O
+4	Admin	admin	NNP	pos2=NN	6	nsubj	_	O
+5	is	be	VBZ	_	6	aux	_	O
+6	forcing	force	VBG	_	0	root	_	O
+7	products	product	NNS	_	6	dobj	_	O
+8	from	from	IN	_	6	prep	_	O
+9	non-industries	non-industries	NNS	pos2=VBG	8	pobj	_	O
+10	on	on	IN	_	6	prep	_	O
+11	us	us	PRP	_	10	pobj	_	O
+12	.	.	.	_	6	punct	_	O
+
+1	Remove	remove	VB	_	0	root	_	O
+2	subsidies	subsidy	NNS	_	1	dobj	_	O
+3	and	and	CC	_	2	cc	_	O
+4	no	no	DT	pos2=UH	5	det	_	O
+5	solar	solar	JJ	_	2	conj	_	O
+6	,	,	,	_	5	punct	_	O
+7	no	no	DT	_	8	det	_	O
+8	biofuel	biofuel	NN	_	5	conj	_	O
+9	,	,	,	_	8	punct	_	O
+10	etc.	etc.	FW	_	8	conj	_	O
+

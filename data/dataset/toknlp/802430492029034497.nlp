@@ -1,0 +1,11 @@
+1	@zachwb	@zachwb	UH	pos2=XX	3	discourse	_	O
+2	@EliteDangerous	@elitedangerous	JJ	pos2=UH	0	root	_	O
+3	oh	oh	UH	_	2	pobj	_	O
+4	.......	..	.	_	2	punct	_	O
+
+1	oh	oh	UH	_	4	discourse	_	O
+2	no	no	UH	_	1	discourse	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	did	do	VBD	_	0	root	_	O
+5	n't	not	RB	_	4	neg	_	O
+

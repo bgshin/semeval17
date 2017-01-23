@@ -1,0 +1,21 @@
+1	Our	our	PRP$	_	4	poss	_	O
+2	latest	late	JJS	_	4	nmod	_	O
+3	lab	lab	NN	_	4	compound	_	O
+4	project	project	NN	_	8	nsubj	_	O
+5	at	at	IN	_	4	prep	_	O
+6	UX	ux	NNP	pos2=NN	7	compound	_	U-ORG
+7	studio	studio	NN	_	5	pobj	_	O
+8	was	be	VBD	_	0	root	_	O
+9	about	about	IN	pos2=JJ	8	prep	_	O
+10	self-driving	self-driving	JJ	pos2=VBG	11	nmod	_	O
+11	cars	car	NNS	_	9	pobj	_	O
+12	.	.	.	_	8	punct	_	O
+
+1	Watch	watch	VB	_	0	root	_	O
+2	our	our	PRP$	_	4	poss	_	O
+3	concept	concept	NN	_	4	compound	_	O
+4	video	video	NN	pos2=RB	1	dobj	_	O
+5	here	here	RB	_	1	advmod	_	O
+6	:	:	:	_	1	punct	_	O
+7	https://t.co/Vr6ysBmfSJ	#hlink#	ADD	pos2=NN	1	dep	_	O
+

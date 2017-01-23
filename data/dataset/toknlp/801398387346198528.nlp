@@ -1,0 +1,27 @@
+1	@SmithHeddi	@smithheddi	NNS	pos2=ADD	2	nsubj	_	O
+2	@VincentMarcus	@vincentmarcus	NN	pos2=XX	7	nsubj	_	O
+3	except	except	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	joke	joke	NN	_	3	pobj	_	O
+6	here	here	RB	_	5	advmod	_	O
+7	was	be	VBD	_	14	ccomp	_	O
+8	n't	not	RB	_	7	neg	_	O
+9	Melania	melania	NNP	_	11	poss	_	U-PERSON
+10	's	's	POS	_	9	case	_	O
+11	accent	accent	NN	_	7	attr	_	O
+12	,	,	,	_	14	punct	_	O
+13	it	it	PRP	_	14	nsubj	_	O
+14	was	be	VBD	_	0	root	_	O
+15	the	the	DT	_	17	det	_	O
+16	plagiarised	plagiarise	VBN	_	17	nmod	_	O
+17	speech	speech	NN	_	14	attr	_	O
+18	.	.	.	_	14	punct	_	O
+
+1	the	the	DT	_	2	det	_	O
+2	accent	accent	NN	_	3	nsubj	_	O
+3	was	be	VBD	_	0	root	_	O
+4	just	just	RB	_	6	advmod	_	O
+5	an	an	DT	_	6	det	_	O
+6	impression	impression	NN	_	3	attr	_	O
+7	.	.	.	_	3	punct	_	O
+

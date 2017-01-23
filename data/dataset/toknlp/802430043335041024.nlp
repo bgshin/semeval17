@@ -1,0 +1,26 @@
+1	Obviously	obviously	RB	_	10	advmod	_	O
+2	the	the	DT	_	3	det	_	O
+3	elite	elite	NN	pos2=NNS	8	poss	_	O
+4	's	's	POS	pos2=AFX	3	case	_	O
+5	and	and	CC	_	3	cc	_	O
+6	media	medium	NNS	pos2=NN	8	poss	_	O
+7	's	's	POS	_	6	case	_	O
+8	enemies	enemy	NNS	_	10	nsubj	_	O
+9	now	now	RB	_	10	advmod	_	O
+10	are:.conservatives	are:.conservatives	VBP	pos2=VBZ	0	root	_	O
+11	on	on	IN	_	10	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	right	right	JJ	_	14	nmod	_	O
+14	wing	wing	NN	_	11	pobj	_	O
+15	.	.	.	_	10	punct	_	O
+
+1	pro	pro	JJ	pos2=NN	3	nmod	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	freedom	freedom	NN	_	5	compound	_	O
+4	self	self	NN	_	5	compound	_	O
+5	thinkers	thinker	NNS	_	0	root	_	O
+6	on	on	IN	_	5	prep	_	O
+7	t	t	NN	pos2=GW	6	pobj	_	O
+8	…	…	NFP	pos2=,	5	discourse	_	O
+9	https://t.co/bsoFnBWu6L	#hlink#	ADD	_	5	appos	_	U-ORG
+

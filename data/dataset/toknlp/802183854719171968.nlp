@@ -1,0 +1,20 @@
+1	Gracing	grace	VBG	_	19	dep	_	O
+2	the	the	DT	_	4	det	_	O
+3	red	red	JJ	_	4	nmod	_	O
+4	carpet	carpet	NN	_	1	dobj	_	O
+5	,	,	,	_	4	punct	_	O
+6	Andrew	andrew	NNP	_	7	compound	_	B-PERSON
+7	Aydin	aydin	NNP	_	4	appos	_	L-PERSON
+8	,	,	,	_	7	punct	_	O
+9	Congressman	congressman	NNP	_	11	compound	_	O
+10	John	john	NNP	_	11	compound	_	B-PERSON
+11	Lewis	lewis	NNP	_	7	conj	_	L-PERSON
+12	and	and	CC	_	11	cc	_	O
+13	Nate	nate	NNP	_	14	compound	_	B-PERSON
+14	Powell	powell	NNP	_	11	conj	_	L-PERSON
+15	at	at	IN	_	1	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	#nbawards	#nbawards	NNPS	pos2=NNS	15	pobj	_	O
+18	…	…	NFP	pos2=-LRB-	19	punct	_	O
+19	https://t.co/gUOkjkcFkr	#hlink#	ADD	_	0	root	_	O
+

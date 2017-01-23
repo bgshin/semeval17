@@ -1,0 +1,24 @@
+1	Condolences	condolence	NNS	pos2=VBZ	23	dep	_	O
+2	to	to	IN	_	1	prep	_	O
+3	families	family	NNS	_	2	pobj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	martyrs	martyr	NNS	pos2=NNPS	4	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	d	d	NN	pos2=DT	10	compound	_	O
+9	#Hella	#hella	NNP	pos2=NN	10	compound	_	U-DATE
+10	bombing	bombing	NN	_	7	pobj	_	O
+11	by	by	IN	_	10	prep	_	O
+12	#ISIS	#isis	NNP	pos2=NN	11	pobj	_	U-ORG
+13	in	in	IN	_	10	prep	_	O
+14	#Iraq80	#iraq0	NNP	pos2=NN	13	pobj	_	O
+15	~	~	SYM	pos2=POS	16	punct	_	O
+16	100	0	CD	_	23	dep	_	U-CARDINAL
+17	Martyred	martyr	VBN	pos2=NNP	23	nmod	_	O
+18	,	,	,	_	23	punct	_	O
+19	mainly	mainly	RB	_	20	advmod	_	O
+20	Shia	shia	JJ	pos2=NNP	21	nmod	_	U-NORP
+21	pilgrims	pilgrim	NNS	pos2=NNPS	23	nmod	_	O
+22	~…	~…	NFP	pos2=POS	23	punct	_	O
+23	https://t.co/xcTvWtBw5S	#hlink#	ADD	pos2=NN	0	root	_	O
+

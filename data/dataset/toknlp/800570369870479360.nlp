@@ -1,0 +1,17 @@
+1	EU	eu	NNP	pos2=NN	3	nsubj	_	U-ORG
+2	should	should	MD	_	3	aux	_	O
+3	demand	demand	VB	_	0	root	_	O
+4	Saakashvili	saakashvili	NNP	_	5	nsubj	_	U-PERSON
+5	get	get	VB	_	3	ccomp	_	O
+6	top	top	JJ	pos2=NN	8	nmod	_	O
+7	gov	gov	NN	_	8	compound	_	O
+8	position	position	NN	_	5	dobj	_	O
+9	before	before	IN	pos2=RB	5	prep	_	O
+10	anymore	anymore	JJ	pos2=RB	11	nmod	_	O
+11	cash	cash	NN	_	9	pobj	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	https://t.co/5LcgJtDR3e	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@FT	@ft	NN	pos2=ADD	2	pobj	_	O
+

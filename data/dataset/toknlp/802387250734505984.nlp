@@ -1,0 +1,20 @@
+1	New	new	JJ	pos2=NNP	4	nmod	_	O
+2	#GreenDay	#greenday	NNP	pos2=NN	4	compound	_	O
+3	concept	concept	NN	_	4	compound	_	O
+4	album	album	NN	_	8	dep	_	O
+5	:	:	:	_	8	punct	_	O
+6	George	george	NNP	_	8	compound	_	B-PERSON
+7	Soros	soros	NNP	_	8	compound	_	L-PERSON
+8	Glued	glued	NNP	pos2=VBD	0	root	_	O
+9	a	a	DT	_	10	det	_	O
+10	Wig	wig	NNP	pos2=NN	8	appos	_	O
+11	on	on	IN	_	8	prep	_	O
+12	My	my	PRP$	_	13	poss	_	O
+13	Head	head	NN	pos2=NNP	11	pobj	_	O
+14	and	and	CC	_	17	cc	_	O
+15	Made	make	VBD	pos2=NNP	12	conj	_	O
+16	Love	love	NNP	pos2=NN	15	dobj	_	U-WORK_OF_ART
+17	to	to	IN	_	15	prep	_	O
+18	My	my	PRP$	_	19	poss	_	O
+19	Face	face	NN	pos2=NNP	17	pobj	_	O
+

@@ -1,0 +1,27 @@
+1	Sorry	sorry	UH	pos2=JJ	4	discourse	_	O
+2	but	but	CC	_	4	cc	_	O
+3	there	there	EX	_	4	expl	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	absolutely	absolutely	RB	_	7	advmod	_	O
+6	no	no	DT	_	7	det	_	O
+7	excuse	excuse	NN	_	4	attr	_	O
+8	to	to	TO	_	9	aux	_	O
+9	support	support	VB	_	7	relcl	_	O
+10	or	or	CC	_	9	cc	_	O
+11	ignore	ignore	VB	_	9	conj	_	O
+12	the	the	DT	_	13	det	_	O
+13	concept	concept	NN	_	11	dobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	animal	animal	NN	_	16	compound	_	O
+16	testing	testing	NN	_	14	pobj	_	O
+17	,	,	,	_	16	punct	_	O
+18	its	its	PRP$	_	16	conj	_	O
+19	cruel	cruel	JJ	_	23	advmod	_	O
+20	and	and	CC	_	19	cc	_	O
+21	disgusting	disgusting	JJ	_	19	conj	_	O
+22	and	and	CC	_	4	cc	_	O
+23	needs	need	VBZ	_	4	conj	_	O
+24	to	to	TO	_	26	aux	_	O
+25	be	be	VB	_	26	auxpass	_	O
+26	stopped	stop	VBN	_	23	xcomp	_	O
+

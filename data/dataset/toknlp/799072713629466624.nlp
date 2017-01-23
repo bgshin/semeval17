@@ -1,0 +1,25 @@
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=ADD	0	root	_	O
+2	and	and	CC	_	1	cc	_	O
+3	#TrumpTransitionTeam@JimWebbUSA	#trumptransitionteam@jimwebbusa	NN	pos2=GW	1	conj	_	O
+4	for	for	IN	_	1	prep	_	O
+5	Secretary	secretary	NNP	_	4	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	Defense	defense	NNP	_	6	pobj	_	U-ORG
+8	.	.	.	_	1	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	right	right	JJ	pos2=RB	2	acomp	_	O
+4	in	in	IN	_	2	prep	_	O
+5	2002	0	CD	_	4	pobj	_	U-DATE
+6	about	about	IN	_	2	prep	_	O
+7	Iraq	iraq	NNP	_	6	pobj	_	U-GPE
+8	.	.	.	_	2	punct	_	O
+
+1	https	http	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	//	//	NFP	pos2=-LRB-	6	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	zy07ZWX96A	zy0zwx0a	NN	pos2=ADD	0	root	_	O
+

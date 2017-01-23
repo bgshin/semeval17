@@ -1,0 +1,24 @@
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=ADD	3	vocative	_	O
+2	,	,	,	_	3	punct	_	O
+3	search:	search:	VB	pos2=VBG	0	root	_	O
+4	"	"	``	_	3	punct	_	O
+5	THE	the	DT	pos2=FW	7	det	_	O
+6	ANTI-TRUMP	anti-trump	JJ	pos2=NNP	7	nmod	_	O
+7	RIOTS	riot	NNS	pos2=NNPS	8	nsubj	_	O
+8	ARE	be	VBP	_	3	ccomp	_	O
+9	A	a	DT	pos2=VBN	11	det	_	O
+10	SMOKE	smoke	NN	_	11	compound	_	O
+11	SCREEN	screen	NN	pos2=VB	8	attr	_	O
+12	THE	the	DT	_	14	det	_	O
+13	REAL	real	JJ	_	14	nmod	_	O
+14	GOAL	goal	NN	pos2=NNP	21	nmod	_	O
+15	–	-	:	pos2=,	16	punct	_	O
+16	ELIMINATE	eliminate	VB	_	21	nmod	_	O
+17	THE	the	DT	_	19	det	_	O
+18	ELECTORAL	electoral	JJ	pos2=NNP	19	nmod	_	O
+19	COLLEGE	college	NN	pos2=NNP	16	dobj	_	O
+20	"	"	''	pos2=``	21	punct	_	O
+21	#StopBoxer	#stopboxer	NN	pos2=ADD	23	nmod	_	O
+22	,	,	,	_	23	punct	_	O
+23	#Trump	#trump	NNP	pos2=''	0	root	_	U-ORG
+

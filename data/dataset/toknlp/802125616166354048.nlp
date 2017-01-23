@@ -1,0 +1,31 @@
+1	The	the	DT	_	2	det	_	O
+2	house	house	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	quiet	quiet	JJ	_	3	acomp	_	O
+5	,	,	,	_	3	punct	_	O
+6	and	and	CC	_	3	cc	_	O
+7	I	I	PRP	_	9	nsubj	_	O
+8	am	be	VBP	_	9	aux	_	O
+9	sitting	sit	VBG	_	3	conj	_	O
+10	by	by	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	fire	fire	NN	_	10	pobj	_	O
+13	and	and	CC	_	9	cc	_	O
+14	watching	watch	VBG	_	9	conj	_	O
+15	the	the	DT	_	18	det	_	O
+16	latest	late	JJS	_	18	nmod	_	O
+17	@NBCThisisUs	@nbcthisisus	NN	pos2=JJ	18	compound	_	O
+18	episode	episode	NN	_	14	dobj	_	O
+19	.	.	.	_	9	punct	_	O
+
+1	Yes	yes	UH	_	4	discourse	_	O
+2	,	,	,	_	4	punct	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	perfect	perfect	JJ	_	7	nmod	_	O
+7	morning	morning	NN	_	4	attr	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	#ThisIsUs	#thisisus	ADD	pos2=NN	0	root	_	O
+

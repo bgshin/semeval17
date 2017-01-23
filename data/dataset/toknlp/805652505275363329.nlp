@@ -1,0 +1,25 @@
+1	Waking	wake	VBG	_	5	csubj	_	O
+2	up	up	RP	_	1	prt	_	O
+3	beside	beside	IN	_	1	prep	_	O
+4	UI	ui	NNP	pos2=NN	3	pobj	_	U-ORG
+5	'm	be	VBP	pos2=:	0	root	_	O
+6	a	a	DT	_	8	det	_	O
+7	loaded	load	VBN	pos2=JJ	8	nmod	_	O
+8	gun	gun	NN	_	5	attr	_	O
+9	I	I	PRP	_	12	nsubj	_	O
+10	ca	can	MD	_	12	aux	_	O
+11	n't	not	RB	_	12	neg	_	O
+12	contain	contain	VB	_	8	relcl	_	O
+13	this	this	DT	_	14	det	_	O
+14	anymoreI	anymorei	NNP	pos2=PRP	15	nsubj	_	U-ORG
+15	'm	be	VBP	pos2=VBZ	12	ccomp	_	O
+16	all	all	DT	pos2=RB	15	dep	_	O
+17	yours	yours	NNS	pos2=PRP$	15	attr	_	O
+18	I	I	PRP	_	19	nsubj	_	O
+19	got	get	VBD	pos2=VBP	17	relcl	_	O
+20	no	no	DT	_	21	det	_	O
+21	control	control	NN	_	19	dobj	_	O
+22	No	no	DT	_	23	det	_	O
+23	control	control	NN	_	19	npadvmod	_	O
+24	:)	:)	NFP	pos2=-LRB-	12	discourse	_	O
+

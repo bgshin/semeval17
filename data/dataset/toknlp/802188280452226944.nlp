@@ -1,0 +1,18 @@
+1	Going	go	VBG	_	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	see	see	VB	_	1	xcomp	_	O
+4	the	the	DT	_	7	det	_	O
+5	adorable	adorable	JJ	_	7	nmod	_	O
+6	Eddie	eddie	NNP	_	7	compound	_	B-PERSON
+7	Redmayne	redmayne	NNP	_	3	dobj	_	L-PERSON
+8	in	in	IN	_	3	prep	_	O
+9	#FantasticBeasts	#fantasticbeasts	NNP	pos2=NNS	8	pobj	_	U-GPE
+10	tonight	tonight	NN	_	3	npadvmod	_	U-TIME
+11	.	.	.	_	1	punct	_	O
+
+1	Happy	happy	JJ	pos2=NNP	2	nmod	_	O
+2	Friday	friday	NNP	_	0	root	_	U-DATE
+3	!	!	.	_	2	punct	_	O
+
+1	https://t.co/z8tQJNElFi	#hlink#	ADD	_	0	root	_	U-ORG
+

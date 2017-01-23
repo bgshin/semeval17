@@ -1,0 +1,22 @@
+1	If	if	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	condemn	condemn	VBP	_	11	advcl	_	O
+4	Trump	trump	NNP	_	6	poss	_	U-ORG
+5	’s	's	POS	_	4	case	_	O
+6	pick	pick	NN	_	3	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Steve	steve	NNP	_	9	compound	_	B-PERSON
+9	Bannon	bannon	NNP	_	7	pobj	_	L-PERSON
+10	,	,	,	_	11	punct	_	O
+11	condemn	condemn	VB	pos2=VBP	0	root	_	O
+12	Al	al	NNP	_	13	compound	_	B-PERSON
+13	Sharpton	sharpton	NNP	_	15	poss	_	I-PERSON
+14	’s	's	POS	_	13	case	_	L-PERSON
+15	protest	protest	NN	_	11	dobj	_	O
+16	on	on	IN	_	15	prep	_	O
+17	Trump	trump	NNP	_	19	poss	_	U-ORG
+18	’s	's	POS	_	17	case	_	O
+19	inauguration	inauguration	NN	_	16	pobj	_	O
+20	…	…	NFP	pos2=-LRB-	11	discourse	_	O
+21	https://t.co/3398U1IBmC	#hlink#	ADD	_	11	dobj	_	O
+

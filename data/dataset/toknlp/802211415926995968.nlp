@@ -1,0 +1,27 @@
+1	@	@	SYM	pos2=NFP	2	punct	_	O
+2	20Committee	0committee	NN	pos2=CD	0	root	_	O
+3	FROM	from	IN	_	2	prep	_	O
+4	A	a	DT	pos2=NN	6	det	_	O
+5	DEAR	dear	JJ	_	6	nmod	_	O
+6	LIBERAL	liberal	NN	pos2=NNP	3	pobj	_	O
+7	:	:	:	_	11	punct	_	O
+8	SO	so	RB	pos2=NN	11	advmod	_	O
+9	We	we	PRP	_	11	nsubj	_	O
+10	Should	should	MD	_	11	aux	_	O
+11	Embrace	embrace	VB	pos2=NNP	0	root	_	O
+12	Putin	putin	NNP	_	13	nsubj	_	U-PERSON
+13	Going	go	VBG	pos2=NNP	11	ccomp	_	O
+14	Forward	forward	NNP	pos2=RB	15	compound	_	B-PERSON
+15	Bec	bec	NNP	_	13	vocative	_	L-PERSON
+16	.	.	.	_	11	punct	_	O
+
+1	Russian	russian	JJ	pos2=NN	2	nmod	_	U-NORP
+2	Hacking	hacking	NN	pos2=NNP	3	nsubj	_	O
+3	Is	be	VBZ	pos2=NNP	0	root	_	O
+4	Really	really	RB	_	3	advmod	_	O
+5	OBAMA	obama	NNP	pos2=NN	7	poss	_	U-GPE
+6	's	's	POS	_	5	case	_	O
+7	F	f	NNP	pos2=GW	3	attr	_	B-PRODUCT
+8	…	…	NFP	pos2=HYPH	9	punct	_	I-PRODUCT
+9	https://t.co/yM2K9rdMTU	#hlink#	ADD	_	7	appos	_	L-PRODUCT
+

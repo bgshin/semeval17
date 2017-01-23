@@ -1,0 +1,17 @@
+1	JP	jp	NN	pos2=NNP	2	compound	_	B-PERSON
+2	Morgan	morgan	NNP	_	4	dep	_	L-PERSON
+3	:	:	:	_	4	punct	_	O
+4	OPEC	opec	NNP	_	0	root	_	U-ORG
+5	to	to	TO	_	6	aux	_	O
+6	cut	cut	VB	pos2=VBN	4	xcomp	_	O
+7	output	output	NN	_	6	dobj	_	O
+8	by	by	IN	_	6	prep	_	O
+9	3	0	CD	_	10	nmod	_	B-PERCENT
+10	%	%	NN	_	8	pobj	_	L-PERCENT
+11	in	in	IN	_	6	prep	_	O
+12	2017	0	CD	_	11	pobj	_	U-DATE
+13	if	if	IN	_	14	mark	_	O
+14	reaches	reach	VBZ	pos2=NNS	6	advcl	_	O
+15	dealhttps://t.co/c7HodlKFl8#Libya	#hlink#	ADD	_	16	nmod	_	O
+16	#News	#news	NNS	pos2=NNP	14	dobj	_	O
+

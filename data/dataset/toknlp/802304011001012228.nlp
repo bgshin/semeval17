@@ -1,0 +1,13 @@
+1	Michelle	michelle	NNP	_	2	compound	_	B-PERSON
+2	Williams	williams	NNP	_	3	nsubj	_	L-PERSON
+3	got	get	VBD	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	lil	lil	NN	pos2=JJ	6	compound	_	O
+6	power	power	NN	_	3	dobj	_	O
+7	in	in	IN	_	3	prep	_	O
+8	that	that	DT	_	9	det	_	O
+9	growl	growl	NN	_	7	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+

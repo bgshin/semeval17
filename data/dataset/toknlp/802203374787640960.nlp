@@ -1,0 +1,28 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	love	love	VBP	_	0	root	_	O
+3	you	you	PRP	_	2	dobj	_	O
+4	,	,	,	_	2	punct	_	O
+5	@HillaryClinton	@hillaryclinton	NNP	pos2=XX	2	vocative	_	U-PERSON
+6	!	!	.	_	2	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	always	always	RB	_	2	advmod	_	O
+4	#StillWithHer	#stillwithher	JJR	pos2=JJ	2	acomp	_	O
+5	!	!	.	_	2	punct	_	O
+
+1	💙	💙	NNP	pos2=WP	3	vocative	_	U-PERSON
+2	You	you	PRP	_	3	nsubj	_	O
+3	deserved	deserve	VBD	_	0	root	_	O
+4	to	to	IN	pos2=TO	5	aux	_	O
+5	win!#recount	win!#recount	VB	pos2=NNP	3	xcomp	_	U-GPE
+6	#faithlesselectors	#faithlesselectors	NNS	pos2=NNPS	5	dobj	_	O
+7	#AuditTheVote	#auditthevote	IN	pos2=ADD	9	mark	_	O
+8	You	you	PRP	_	9	nsubj	_	O
+9	are	be	VBP	_	5	advcl	_	O
+10	a	a	DT	_	11	det	_	O
+11	hero	hero	NN	_	9	attr	_	O
+12	!	!	.	_	3	punct	_	O
+
+1	💙	💙	SYM	pos2=NFP	0	root	_	U-ORG
+

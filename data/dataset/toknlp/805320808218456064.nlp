@@ -1,0 +1,12 @@
+1	@holland_tom	@holland_tom	UH	pos2=``	3	discourse	_	O
+2	It	it	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	most	most	RBS	_	5	advmod	_	O
+5	appealing	appealing	JJ	_	6	nmod	_	O
+6	aspect	aspect	NN	_	3	attr	_	O
+7	must	must	MD	_	9	aux	_	O
+8	surely	surely	RB	_	9	advmod	_	O
+9	be	be	VB	_	5	advmod	_	O
+10	its	its	PRP$	_	11	poss	_	O
+11	vegetarianism	vegetarianism	NN	_	9	attr	_	O
+

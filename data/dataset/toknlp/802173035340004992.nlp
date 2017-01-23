@@ -1,0 +1,31 @@
+1	@LiamBME	@liambme	UH	pos2=NNP	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	had	have	VBD	_	0	root	_	O
+4	some	some	DT	_	3	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Persona	persona	NNP	pos2=NN	5	pobj	_	O
+7	5	0	CD	_	6	nmod	_	U-CARDINAL
+8	ruined	ruin	VBN	_	4	acl	_	O
+9	by	by	IN	_	8	agent	_	O
+10	a	a	DT	_	12	det	_	O
+11	YT	yt	NN	pos2=NNP	12	compound	_	O
+12	comment	comment	NN	_	9	pobj	_	O
+13	too	too	RB	_	8	advmod	_	O
+14	.	.	.	_	3	punct	_	O
+
+1	At	at	RB	pos2=IN	2	advmod	_	O
+2	least	least	JJS	pos2=RBS	4	advmod	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	think	think	VBP	_	0	root	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	did	do	VBD	_	4	ccomp	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	fancy	fancy	VB	pos2=JJ	0	root	_	O
+5	googling	google	VBG	_	4	xcomp	_	O
+6	it	it	PRP	_	5	dobj	_	O
+7	.	.	.	_	4	punct	_	O
+

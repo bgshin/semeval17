@@ -1,0 +1,12 @@
+1	OMG	omg	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Niall	niall	NNP	_	4	poss	_	I-PERSON
+3	's	's	POS	_	2	case	_	L-PERSON
+4	eyes	eye	NNS	_	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+
+1	:o	:o	SYM	pos2=ADD	5	punct	_	O
+2	<	<	SYM	pos2=-LRB-	5	punct	_	O
+3	3#MPN	0#mpn	GW	pos2=NN	5	nmod	_	U-MONEY
+4	#OneDirection	#onedirection	GW	pos2=NN	5	nmod	_	O
+5	https://t.co/osNJrJ13Pz	#hlink#	ADD	pos2=NN	0	root	_	O
+

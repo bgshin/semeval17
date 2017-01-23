@@ -1,0 +1,27 @@
+1	@AbbyMartin	@abbymartin	NNP	pos2=ADD	3	compound	_	O
+2	@HuffPostPol	@huffpostpol	NNP	pos2=IN	3	compound	_	O
+3	Democrats	democrat	NNPS	_	4	nsubj	_	U-NORP
+4	punch	punch	VBP	pos2=VBD	0	root	_	O
+5	people	people	NNS	_	4	dobj	_	O
+6	in	in	IN	_	4	prep	_	O
+7	the	the	DT	_	10	det	_	O
+8	back	back	NN	pos2=RB	10	compound	_	O
+9	-	-	HYPH	pos2=:	10	punct	_	O
+10	Republicans	republican	NNPS	_	6	pobj	_	U-NORP
+11	punch	punch	VBP	pos2=NN	4	conj	_	O
+12	people	people	NNS	_	11	dobj	_	O
+13	in	in	IN	_	11	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	face	face	NN	_	13	pobj	_	O
+16	.	.	.	_	11	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	farmed	farm	VBN	pos2=VBD	5	nmod	_	O
+3	-	-	HYPH	_	2	punct	_	O
+4	out	out	RP	_	2	prt	_	O
+5	torture	torture	NN	_	0	root	_	O
+6	during	during	IN	_	5	prep	_	O
+7	Obama	obama	NNP	_	8	compound	_	U-PERSON
+8	admin	admin	NN	_	6	pobj	_	O
+9	.	.	.	_	5	punct	_	O
+

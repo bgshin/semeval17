@@ -1,0 +1,16 @@
+1	#MuhammadAli	#muhammadali	NNP	pos2=XX	2	compound	_	B-PERSON
+2	Muhammad	muhammad	NNP	_	0	root	_	L-PERSON
+3	.	.	.	_	2	punct	_	O
+
+1	Ali	ali	NNP	_	3	compound	_	B-ORG
+2	Signed	signed	NNP	pos2=VBD	3	compound	_	I-ORG
+3	Olympics	olympics	NNPS	pos2=NNP	4	compound	_	I-ORG
+4	Picture	picture	NNP	pos2=NN	6	compound	_	I-ORG
+5	Boxing	boxing	NNP	_	6	compound	_	I-ORG
+6	Halll	halll	NNP	pos2=NN	11	dep	_	I-ORG
+7	Of	of	IN	pos2=NNP	6	prep	_	I-ORG
+8	Fame	fame	NNP	pos2=RB	7	pobj	_	I-ORG
+9	https://t.co/bZuLsh4r3h	#hlink#	ADD	pos2=POS	11	dep	_	I-ORG
+10	#Legend	#legend	NNP	pos2=-RRB-	11	compound	_	I-ORG
+11	#Boxer	#boxer	NNP	pos2=.	0	root	_	L-ORG
+

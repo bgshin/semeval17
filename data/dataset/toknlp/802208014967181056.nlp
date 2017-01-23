@@ -1,0 +1,13 @@
+1	@berly122065	@berly0	NN	pos2=UH	2	vocative	_	O
+2	Thank	thank	VBP	_	0	root	_	O
+3	you	you	PRP	_	2	dobj	_	O
+4	for	for	IN	_	2	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	follow	follow	NN	_	4	pobj	_	O
+7	!	!	.	_	2	punct	_	O
+
+1	#TWD	#twd	NN	pos2=NFP	3	nsubj	_	U-ORG
+2	#TWDFamily	#twdfamily	RB	pos2=ADD	3	advmod	_	O
+3	#TheWalkingDead	#thewalkingdead	VBD	pos2=GW	0	root	_	O
+4	👍🏻😎😎👍🏻#TheBoondockSaints	👍🏻😎😎👍🏻#theboondocksaints	NNS	pos2=ADD	3	dobj	_	O
+

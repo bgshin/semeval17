@@ -1,0 +1,15 @@
+1	She	she	PRP	_	2	nsubj	_	O
+2	helped	help	VBD	_	0	root	_	O
+3	@hillaryclinton	@hillaryclinton	NNP	pos2=ADD	2	dobj	_	U-ORG
+4	and	and	CC	_	3	cc	_	O
+5	the	the	DT	_	6	det	_	O
+6	DNC	dnc	NNP	pos2=NN	3	conj	_	U-ORG
+7	steal	steal	VB	pos2=VBP	2	xcomp	_	O
+8	the	the	DT	_	9	det	_	O
+9	#DemocraticNomination	#democraticnomination	NN	pos2=NNP	7	dobj	_	O
+10	from	from	IN	_	7	prep	_	O
+11	@SenBernieSanders	@senberniesanders	NNS	pos2=NNP	13	poss	_	O
+12	#NancyPelosi	#nancypelosi	POS	pos2=NNP	11	case	_	O
+13	Fights	fight	NNS	pos2=VBZ	10	pobj	_	O
+14	https://t.co/gHLBSvqACl	#hlink#	ADD	pos2=VBP	2	dep	_	U-ORG
+

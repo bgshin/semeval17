@@ -1,0 +1,17 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	hope	hope	VBP	_	0	root	_	O
+3	Donald	donald	NNP	_	4	compound	_	B-PERSON
+4	trump	trump	NN	pos2=NNP	5	nsubj	_	L-PERSON
+5	builds	build	VBZ	_	2	ccomp	_	O
+6	a	a	DT	_	7	det	_	O
+7	wall	wall	NN	_	5	dobj	_	O
+8	and	and	CC	_	5	cc	_	O
+9	says	say	VBZ	_	5	conj	_	O
+10	EA	ea	NNP	_	12	compound	_	B-ORG
+11	MADDEN	madden	NNP	_	12	compound	_	I-ORG
+12	EMOLOYEES	emoloyees	NNP	pos2=NNS	13	nsubj	_	L-ORG
+13	ARE	be	VBP	_	9	ccomp	_	O
+14	BAD	bad	JJ	_	15	nmod	_	O
+15	HOMBRES	hombre	NNS	pos2=NNP	13	attr	_	O
+16	@EAMaddenNFL	@eamaddennfl	.	pos2=FW	2	punct	_	O
+

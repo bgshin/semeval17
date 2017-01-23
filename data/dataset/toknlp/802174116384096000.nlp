@@ -1,0 +1,17 @@
+1	Hatchimals	hatchimals	VBZ	pos2=NNP	0	root	_	O
+2	Free	free	JJ	pos2=NNP	1	acomp	_	O
+3	on	on	IN	_	1	prep	_	O
+4	Black	black	NNP	pos2=JJ	5	compound	_	B-EVENT
+5	Friday	friday	NNP	_	3	pobj	_	L-EVENT
+6	and	and	CC	_	5	cc	_	O
+7	Cyber	cyber	NNP	_	10	nmod	_	O
+8	Monday	monday	NNP	_	5	conj	_	U-DATE
+9	with	with	IN	_	1	prep	_	O
+10	a	a	DT	_	11	det	_	O
+11	Catch	catch	NN	pos2=NNP	9	pobj	_	O
+12	#Hatchimals	#hatchimals	NNS	pos2=NNP	11	nmod	_	O
+13	#BlackFriday	#blackfriday	NNP	pos2=GW	16	nmod	_	B-PERSON
+14	#CyberMonday	#cybermonday	GW	pos2=NNP	16	nmod	_	L-PERSON
+15	…	…	NFP	pos2=GW	16	punct	_	O
+16	https://t.co/oI5fciPZTV	#hlink#	ADD	_	1	dep	_	O
+

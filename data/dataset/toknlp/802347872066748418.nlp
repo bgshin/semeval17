@@ -1,0 +1,6 @@
+1	michael	michael	NNP	pos2=JJ	2	compound	_	B-PERSON
+2	moore	moore	NNP	pos2=NN	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	gay	gay	JJ	pos2=GW	3	acomp	_	O
+5	https://t.co/IKDyOZG5dr	#hlink#	ADD	pos2=NN	3	dep	_	O
+

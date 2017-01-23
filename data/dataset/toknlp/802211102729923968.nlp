@@ -1,0 +1,18 @@
+1	Local	local	JJ	pos2=NNP	3	nmod	_	O
+2	Native	native	NNP	pos2=JJ	3	compound	_	B-NORP
+3	Americans	american	NNPS	_	4	nsubj	_	L-NORP
+4	protested	protest	VBD	_	0	root	_	O
+5	the	the	DT	_	8	det	_	O
+6	Dakota	dakota	NNP	_	8	compound	_	O
+7	Access	access	NNP	_	8	compound	_	O
+8	Pipeline	pipeline	NNP	pos2=NN	4	dobj	_	O
+9	at	at	IN	_	4	prep	_	O
+10	Panorama	panorama	NNP	_	11	compound	_	B-LOC
+11	Bluffs	bluffs	NNP	pos2=NNPS	9	pobj	_	L-LOC
+12	on	on	IN	_	4	prep	_	O
+13	Thursday	thursday	NNP	_	12	pobj	_	U-DATE
+14	.	.	.	_	4	punct	_	O
+
+1	https://t.co/3obtUunezb	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/WmOuYy4glo	#hlink#	ADD	_	0	root	_	U-ORG
+

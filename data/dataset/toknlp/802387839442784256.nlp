@@ -1,0 +1,17 @@
+1	@ilikeqbert	@ilikeqbert	UH	pos2=XX	5	discourse	_	O
+2	@seanhannity	@seanhannity	UH	pos2=NN	5	discourse	_	O
+3	@transition2017	@transition0	NN	pos2=UH	4	compound	_	O
+4	@onthetrail2016	@onthetrail0	NN	pos2=NNP	5	nsubj	_	O
+5	Appears	appear	VBZ	_	0	root	_	O
+6	Jill	jill	NNP	_	7	compound	_	B-PERSON
+7	Stein	stein	NNP	_	16	dep	_	L-PERSON
+8	,	,	,	_	7	punct	_	O
+9	Hillary	hillary	NNP	_	10	compound	_	B-PERSON
+10	Clinton	clinton	NNP	_	7	conj	_	L-PERSON
+11	and	and	CC	_	10	cc	_	O
+12	George	george	NNP	_	13	compound	_	B-PERSON
+13	Soros	soros	NNP	_	10	conj	_	L-PERSON
+14	work	work	NN	pos2=VB	16	dep	_	O
+15	…	…	NFP	pos2=-LRB-	16	punct	_	O
+16	https://t.co/fFkz5yPv3K	#hlink#	ADD	_	5	dep	_	U-ORG
+

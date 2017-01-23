@@ -1,0 +1,21 @@
+1	#Hezbollah	#hezbollah	NNP	pos2=PRP$	4	compound	_	O
+2	Martyr	martyr	NNP	pos2=NN	4	compound	_	O
+3	Qasim	qasim	NNP	_	4	compound	_	B-PERSON
+4	Shamkha	shamkha	NNP	_	5	nsubjpass	_	L-PERSON
+5	Martyred	martyr	VBN	pos2=NNP	0	root	_	O
+6	on	on	IN	_	5	prep	_	O
+7	03/11/2016	0	CD	_	6	pobj	_	U-DATE
+8	in	in	IN	_	5	prep	_	O
+9	West	west	NNP	_	10	compound	_	B-GPE
+10	#Aleppo	#aleppo	NNP	pos2=IN	8	pobj	_	L-GPE
+11	telling	tell	VBG	_	5	advcl	_	O
+12	his	his	PRP$	_	13	poss	_	O
+13	brothers	brother	NNS	_	11	dobj	_	O
+14	he	he	PRP	_	15	nsubj	_	O
+15	wants	want	VBZ	_	11	ccomp	_	O
+16	to	to	TO	_	17	aux	_	O
+17	sleep	sleep	VB	_	15	xcomp	_	O
+18	.	.	.	_	5	punct	_	O
+
+1	https://t.co/cnHurV3A7r	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det	_	O
+2	dems	dems	NNS	pos2=NNPS	5	nsubjpass	_	O
+3	will	will	MD	_	5	aux	_	O
+4	be	be	VB	_	5	auxpass	_	O
+5	lost	lose	VBN	_	0	root	_	O
+6	in	in	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	wilderness	wilderness	NN	_	6	pobj	_	O
+9	for	for	IN	_	5	prep	_	O
+10	decades	decade	NNS	_	9	pobj	_	U-DATE
+11	,	,	,	_	5	punct	_	O
+12	with	with	IN	_	5	prep	_	O
+13	these	these	DT	_	15	det	_	O
+14	nut	nut	NN	_	15	compound	_	O
+15	jobs	job	NNS	_	12	pobj	_	O
+16	in	in	IN	_	15	prep	_	O
+17	power	power	NN	_	16	pobj	_	O
+18	!	!	.	_	5	punct	_	O
+
+1	https://t.co/0WU5r8R53x	#hlink#	ADD	_	0	root	_	U-ORG
+

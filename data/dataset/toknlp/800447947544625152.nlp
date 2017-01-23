@@ -1,0 +1,22 @@
+1	@eubetter	@eubetter	NN	pos2=UH	4	nsubj	_	O
+2	And	and	CC	_	1	cc	_	O
+3	JIT	jit	NNP	pos2=NN	1	conj	_	U-ORG
+4	has	have	VBZ	_	0	root	_	O
+5	tons	ton	NNS	_	4	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	evidence	evidence	NN	_	6	pobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	convict	convict	VB	_	4	xcomp	_	O
+10	#MH17	#mh0	NN	pos2=XX	11	compound	_	O
+11	murderers	murderer	NNS	_	9	dobj	_	O
+12	.	.	.	_	4	punct	_	O
+
+1	#Kremlintrolls	#kremlintrolls	NNS	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	massive	massive	JJ	_	5	nmod	_	O
+5	denial	denial	NN	_	3	pobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	https://t.co/AaaZpcgkN7	#hlink#	ADD	_	0	root	_	U-ORG
+

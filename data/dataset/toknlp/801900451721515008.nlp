@@ -1,0 +1,27 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	sure	sure	JJ	_	2	acomp	_	O
+4	they	they	PRP	_	6	nsubj	_	O
+5	'll	will	MD	_	6	aux	_	O
+6	be	be	VB	_	3	ccomp	_	O
+7	happy	happy	JJ	_	6	acomp	_	O
+8	to	to	TO	_	9	aux	_	O
+9	meet	meet	VB	_	7	xcomp	_	O
+10	with	with	IN	_	9	prep	_	O
+11	you	you	PRP	_	10	pobj	_	O
+12	for	for	IN	_	9	prep	_	O
+13	being	be	VBG	_	14	auxpass	_	O
+14	associated	associate	VBN	pos2=JJ	12	pcomp	_	O
+15	with	with	IN	_	14	prep	_	O
+16	#Hamas	#hamas	NNP	pos2=NNPS	15	pobj	_	B-ORG
+17	&	&	CC	_	16	cc	_	I-ORG
+18	#Hezbollah	#hezbollah	NNP	pos2=NN	16	conj	_	I-ORG
+19	-	-	HYPH	pos2=:	20	punct	_	I-ORG
+20	Two	#crd#	CD	pos2=NNP	18	nmod	_	I-ORG
+21	U.S	u.s	NNP	pos2=NNS	22	nsubj	_	L-ORG
+22	listed	list	VBD	pos2=VBN	18	dep	_	O
+23	Islamic	islamic	JJ	pos2=NNP	26	nmod	_	U-NORP
+24	t	t	GW	pos2=NN	26	nmod	_	O
+25	…	…	GW	pos2=NFP	26	nmod	_	O
+26	https://t.co/lFwVMYsyIZ	#hlink#	ADD	pos2=NN	22	dobj	_	O
+

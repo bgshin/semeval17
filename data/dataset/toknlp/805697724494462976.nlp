@@ -1,0 +1,28 @@
+1	@lookoutcoffee	@lookoutcoffee	UH	pos2=``	3	discourse	_	O
+2	It	it	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	counter	counter	NN	_	3	attr	_	O
+6	to	to	IN	pos2=TO	5	prep	_	O
+7	"	"	``	_	9	punct	_	O
+8	Russians	russian	NNPS	_	9	nsubj	_	U-NORP
+9	hacked	hack	VBD	_	6	pcomp	_	O
+10	election	election	NN	_	9	dobj	_	O
+11	"	"	''	_	9	punct	_	O
+12	and	and	CC	_	9	cc	_	O
+13	"	"	``	pos2=''	15	punct	_	O
+14	Comey	comey	NNP	_	15	nsubj	_	U-PERSON
+15	violated	violate	VBD	_	9	conj	_	O
+16	Hatch	hatch	NNP	_	17	compound	_	O
+17	Act	act	NNP	_	15	dobj	_	O
+18	.	.	.	_	15	punct	_	O
+19	"	"	''	_	15	punct	_	O
+
+1	Defense	defense	NN	pos2=NNP	0	root	_	O
+2	against	against	IN	_	1	prep	_	O
+3	covert	covert	JJ	_	6	nmod	_	O
+4	Electoral	electoral	NNP	_	5	compound	_	B-ORG
+5	College	college	NNP	pos2=NN	6	compound	_	L-ORG
+6	plots	plot	NNS	pos2=VBZ	2	pobj	_	O
+7	.	.	.	_	1	punct	_	O
+

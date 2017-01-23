@@ -1,0 +1,21 @@
+1	Just	just	RB	_	2	advmod	_	O
+2	trying	try	VBG	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	imagine	imagine	VB	_	2	xcomp	_	O
+5	this	this	DT	_	6	nsubj	_	O
+6	was	be	VBD	_	4	ccomp	_	O
+7	real	real	JJ	pos2=RB	6	acomp	_	O
+8	...	..	.	_	2	punct	_	O
+
+1	Those	those	DT	_	4	nsubj	_	O
+2	must	must	MD	_	4	aux	_	O
+3	have	have	VB	_	4	aux	_	O
+4	been	be	VBN	_	0	root	_	O
+5	some	some	DT	_	7	det	_	O
+6	huge	huge	JJ	_	7	nmod	_	O
+7	suitcases	suitcase	NNS	_	4	attr	_	O
+8	haha#Iran	haha#iran	VBP	pos2=POS	4	advcl	_	O
+9	#Israel	#israel	NNP	pos2=NFP	10	compound	_	B-PERSON
+10	#Hezbollah	#hezbollah	NNP	pos2=ADD	11	dep	_	L-PERSON
+11	https://t.co/BgrGHJFCPt	#hlink#	ADD	_	7	appos	_	O
+

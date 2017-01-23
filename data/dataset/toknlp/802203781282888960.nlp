@@ -1,0 +1,25 @@
+1	@mitchellvii	@mitchellvii	UH	pos2=LS	5	discourse	_	O
+2	@lynn_weiser	@lynn_weiser	JJR	pos2=NN	5	nmod	_	O
+3	1	0	LS	pos2=CD	5	meta	_	U-CARDINAL
+4	)	)	-RRB-	_	3	punct	_	O
+5	Constructionists	constructionist	NNS	_	9	nsubj	_	O
+6	on	on	IN	_	5	prep	_	O
+7	SCOTUS2	scotus0	NN	pos2=NNP	6	pobj	_	O
+8	)	)	-RRB-	_	5	punct	_	O
+9	Enforce	enforce	VB	pos2=VBP	0	root	_	O
+10	immig	immig	NN	pos2=NNS	9	dobj	_	O
+11	.	.	.	_	9	punct	_	O
+
+1	laws3	laws0	LS	_	4	meta	_	U-CARDINAL
+2	)	)	-RRB-	_	1	punct	_	O
+3	Voter	voter	NN	_	4	compound	_	O
+4	ID4	id0	NN	_	6	parataxis	_	O
+5	)	)	-RRB-	_	4	punct	_	O
+6	Strengthen	strengthen	VB	pos2=NN	0	root	_	O
+7	#	#	NN	pos2=-LRB-	8	compound	_	O
+8	2A5	0a0	NN	pos2=LS	6	dobj	_	O
+9	)	)	-RRB-	_	6	punct	_	O
+10	#DrainTheSwampIn	#draintheswampin	IN	pos2=VBD	6	prep	_	O
+11	that	that	DT	pos2=WDT	12	det	_	O
+12	order	order	NN	_	10	pobj	_	O
+

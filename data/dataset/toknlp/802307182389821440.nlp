@@ -1,0 +1,12 @@
+1	“	"	``	pos2=SYM	6	punct	_	O
+2	Rethinking	rethink	VBG	pos2=NN	3	nmod	_	O
+3	Generalization	generalization	NN	pos2=NNP	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	Deep	deep	NNP	pos2=JJ	6	compound	_	O
+6	Learning	learning	NNP	pos2=NN	4	pobj	_	O
+7	”	"	''	_	3	punct	_	O
+8	by	by	IN	_	3	prep	_	O
+9	@IntuitMachine	@intuitmachine	NNP	pos2=ADD	8	pobj	_	U-PERSON
+10	https://t.co/tYXqxn5duI	#hlink#	ADD	_	8	pobj	_	O
+11	#decia	#decia	-RRB-	pos2=ADD	6	punct	_	O
+

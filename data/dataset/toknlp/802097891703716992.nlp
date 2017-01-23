@@ -1,0 +1,14 @@
+1	Blog	blog	NN	pos2=NNP	4	dep	_	O
+2	|	|	NFP	pos2=GW	4	punct	_	O
+3	https://t.co/GI4arcaQ6C:	#hlink#	ADD	_	1	appos	_	O
+4	https://t.co/B2aoeCjXoe	#hlink#	ADD	_	0	root	_	O
+5	#TelAviv	#telaviv	-RRB-	pos2=ADD	4	punct	_	O
+6	#Jerusalem	#jerusalem	ADD	pos2=-RRB-	4	punct	_	O
+7	#Beersheba	#beersheba	NNP	pos2=ADD	13	compound	_	O
+8	#Ashdod	#ashdod	NNP	pos2=VBD	13	compound	_	O
+9	#Nazareth	#nazareth	NNP	pos2=ADD	13	compound	_	O
+10	#Haifa	#haifa	NNP	pos2=ADD	13	compound	_	O
+11	#Netanya	#netanya	NNP	pos2=POS	13	compound	_	O
+12	#Eilat	#eilat	NNP	pos2=ADD	13	compound	_	O
+13	#Ashkelon	#ashkelon	NNP	pos2=ADD	6	pobj	_	O
+

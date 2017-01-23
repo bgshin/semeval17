@@ -1,0 +1,11 @@
+1	Adidas	adidas	NNP	_	6	compound	_	B-PERSON
+2	Tubular	tubular	NNP	pos2=JJ	4	compound	_	I-PERSON
+3	Weave	weave	NNP	pos2=VB	4	compound	_	I-PERSON
+4	Sneaker	sneaker	NNP	pos2=NN	5	dep	_	L-PERSON
+5	https://t.co/ig3AU0NlmS	#hlink#	ADD	pos2=NNP	0	root	_	O
+6	#schnäppchen	#schnäppchen	NNP	pos2=-RRB-	4	npadvmod	_	O
+7	#deal	#deal	UH	pos2=XX	10	discourse	_	O
+8	#dealz	#dealz	UH	pos2=FW	10	discourse	_	O
+9	#sparen	#sparen	UH	pos2=WRB	10	discourse	_	O
+10	#tipp	#tipp	UH	pos2=.	6	pobj	_	O
+

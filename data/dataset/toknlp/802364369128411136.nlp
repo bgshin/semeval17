@@ -1,0 +1,20 @@
+1	@JoshButler	@joshbutler	NNP	pos2=NN	2	nsubj	_	O
+2	Lies	lie	VBZ	pos2=NNS	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Ignore	ignore	VB	_	0	root	_	O
+2	all	all	PDT	_	4	predet	_	O
+3	the	the	DT	_	4	det	_	O
+4	UNIONISTS	unionist	NNS	pos2=NNPS	1	dobj	_	O
+5	and	and	CC	_	4	cc	_	O
+6	other	other	JJ	_	7	nmod	_	O
+7	leftists	leftist	NNS	_	4	conj	_	O
+8	pushing	push	VBG	_	4	acl	_	O
+9	pedophilia	pedophilia	NN	_	8	dobj	_	O
+10	as	as	IN	_	8	prep	_	O
+11	a	a	DT	_	12	det	_	O
+12	non-crime	non-crime	NN	_	10	pobj	_	O
+13	.	.	.	_	1	punct	_	O
+
+1	#evil	#evil	UH	pos2=XX	0	root	_	O
+

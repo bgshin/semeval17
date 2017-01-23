@@ -1,0 +1,16 @@
+1	Donald	donald	NNP	_	6	vocative	_	U-PERSON
+2	:	:	:	_	6	punct	_	O
+3	"	"	``	pos2=''	6	punct	_	O
+4	do	do	VBP	_	6	aux	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	have	have	VB	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	speech	speech	NN	_	6	dobj	_	O
+9	prepared	prepare	VBN	pos2=JJ	8	acl	_	O
+10	?	?	.	_	6	punct	_	O
+11	"	"	''	_	6	punct	_	O
+
+1	Me	me	PRP	pos2=NN	3	dep	_	O
+2	:	:	:	_	3	punct	_	O
+3	https://t.co/dT0QamCKwJ	#hlink#	ADD	_	0	root	_	O
+

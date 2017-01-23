@@ -1,0 +1,17 @@
+1	4	0	CD	pos2=LS	4	nmod	_	U-CARDINAL
+2	Straight	straight	JJ	pos2=RB	4	nmod	_	O
+3	-	-	HYPH	_	4	punct	_	O
+4	Size	size	NN	pos2=NNP	16	nmod	_	O
+5	,	,	,	_	9	punct	_	O
+6	Curve	curve	NN	_	8	npadvmod	_	O
+7	-	-	HYPH	pos2=:	8	punct	_	O
+8	Friendly	friendly	JJ	pos2=NNP	9	nmod	_	O
+9	Retailers	retailer	NNPS	pos2=NNS	4	appos	_	O
+10	That	that	WDT	pos2=IN	13	dobj	_	O
+11	Ashley	ashley	NNP	_	12	compound	_	B-PERSON
+12	Graham	graham	NNP	_	13	nsubj	_	L-PERSON
+13	Swears	swear	VBZ	pos2=NNP	9	relcl	_	O
+14	By	by	IN	_	13	prep	_	O
+15	@InStyle	@instyle	ADD	pos2=NNP	14	pobj	_	B-CARDINAL
+16	https://t.co/UxH5hhmUak	#hlink#	ADD	_	0	root	_	L-CARDINAL
+

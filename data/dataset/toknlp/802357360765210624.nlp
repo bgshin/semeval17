@@ -1,0 +1,25 @@
+1	Dear	dear	JJ	_	2	nmod	_	O
+2	President	president	NNP	_	3	compound	_	O
+3	Trump	trump	NNP	_	5	vocative	_	U-PERSON
+4	I	I	PRP	_	5	nsubj	_	O
+5	think	think	VBP	_	0	root	_	O
+6	you	you	PRP	_	8	nsubj	_	O
+7	should	should	MD	_	8	aux	_	O
+8	mak	mak	VB	pos2=RB	5	ccomp	_	O
+9	Dr.	dr.	NNP	_	11	compound	_	O
+10	Ben	ben	NNP	_	11	compound	_	B-PERSON
+11	Carson	carson	NNP	_	12	nsubj	_	L-PERSON
+12	assign	assign	VB	_	8	ccomp	_	O
+13	to	to	IN	_	12	prep	_	O
+14	your	your	PRP$	_	15	poss	_	O
+15	cabinet	cabinet	NN	_	13	pobj	_	O
+16	as	as	IN	_	12	prep	_	O
+17	the	the	DT	_	20	det	_	O
+18	US	us	NNP	_	20	compound	_	O
+19	Surgeon	surgeon	NNP	pos2=NN	20	compound	_	O
+20	General	general	NNP	pos2=RB	16	pobj	_	O
+21	instead	instead	RB	_	22	advmod	_	O
+22	of	of	IN	_	20	prep	_	O
+23	HUD	hud	NNP	_	22	pobj	_	U-ORG
+24	.	.	.	_	5	punct	_	O
+

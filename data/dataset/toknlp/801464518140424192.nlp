@@ -1,0 +1,16 @@
+1	@Cernovich	@cernovich	NNP	pos2=XX	3	vocative	_	U-PERSON
+2	@Black_woIf	@black_woif	ADD	pos2=XX	3	nsubj	_	O
+3	@transition2017	@transition0	VBZ	pos2=CD	0	root	_	O
+4	Traitorous	traitorous	JJ	pos2=NNP	6	nmod	_	O
+5	Anti-American	anti-american	JJ	_	6	nmod	_	U-NORP
+6	paper	paper	NN	_	3	dobj	_	O
+7	that	that	WDT	_	8	nsubj	_	O
+8	wrote	write	VBD	_	6	relcl	_	O
+9	this	this	DT	_	8	dobj	_	O
+10	but	but	CC	pos2=IN	3	cc	_	O
+11	NOTHING	nothing	NN	_	6	conj	_	O
+12	about	about	IN	_	11	prep	_	O
+13	HRC	hrc	NNP	pos2=NN	15	nmod	_	U-ORG
+14	r	r	GW	pos2=CD	15	nmod	_	O
+15	iotshttps://t.co/tmasiXH44o	#hlink#	ADD	_	12	pobj	_	O
+

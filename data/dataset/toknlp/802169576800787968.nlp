@@ -1,0 +1,20 @@
+1	#Uber	#uber	NNP	pos2=PRP	3	nsubj	_	U-PERSON
+2	should	should	MD	_	3	aux	_	O
+3	try	try	VB	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	solve	solve	VB	_	3	xcomp	_	O
+6	their	their	PRP$	_	7	poss	_	O
+7	glitches	glitch	NNS	_	5	dobj	_	O
+8	with	with	IN	_	5	prep	_	O
+9	#BRTA	#brta	NN	pos2=NNP	10	compound	_	O
+10	restrictions	restriction	NNS	_	8	pobj	_	O
+11	and	and	CC	_	5	cc	_	O
+12	try	try	VB	_	5	conj	_	O
+13	ASAP	asap	RB	_	12	advmod	_	O
+14	for	for	IN	_	12	prep	_	O
+15	Uber	uber	NNP	_	16	compound	_	U-ORG
+16	availability	availability	NN	_	14	pobj	_	O
+17	in	in	IN	_	16	prep	_	O
+18	#Dhaka	#dhaka	NNP	pos2=NN	17	pobj	_	U-GPE
+19	.	.	.	_	3	punct	_	O
+

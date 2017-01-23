@@ -1,0 +1,25 @@
+1	@hurricanefloyd	@hurricanefloyd	UH	pos2=FW	4	discourse	_	O
+2	_	_	''	pos2=SYM	4	punct	_	O
+3	@JayBilas	@jaybilas	ADD	pos2=NNS	4	nsubj	_	O
+4	says	say	VBZ	_	0	root	_	O
+5	best	good	JJS	pos2=RBS	3	nmod	_	O
+6	in	in	IN	_	5	prep	_	O
+7	nation	nation	NN	_	6	pobj	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	He	he	PRP	_	3	nsubj	_	O
+2	's	's	VBZ	_	3	aux	_	O
+3	turning	turn	VBG	_	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	his	his	PRP$	_	10	poss	_	O
+6	Grayson	grayson	NNP	_	7	compound	_	B-PERSON
+7	Allen	allen	NNP	_	10	compound	_	L-PERSON
+8	fan	fan	NN	pos2=NNP	9	compound	_	O
+9	club	club	NN	_	10	compound	_	O
+10	card	card	NN	_	4	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	#GoHeels	#goheels	NNS	pos2=ADD	3	nmod	_	O
+2	#MauiInvitational	#mauiinvitational	JJ	pos2=ADD	3	nmod	_	O
+3	#BilasIsADookie	#bilasisadookie	NN	pos2=ADD	0	root	_	O
+

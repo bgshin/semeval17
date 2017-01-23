@@ -1,0 +1,14 @@
+1	@gnudarwin	@gnudarwin	UH	pos2=NN	2	neg	_	O
+2	Unlike	unlike	IN	pos2=NNP	7	prep	_	O
+3	Poroshenko	poroshenko	NNP	pos2=FW	2	pobj	_	U-PERSON
+4	who	who	WP	_	7	nsubj	_	O
+5	has	have	VBZ	_	7	aux	_	O
+6	now	now	RB	_	7	advmod	_	O
+7	murdered	murder	VBN	_	0	root	_	O
+8	9,000	0	CD	_	7	dobj	_	U-CARDINAL
+9	of	of	IN	_	8	prep	_	O
+10	his	his	PRP$	_	12	poss	_	O
+11	own	own	JJ	_	12	nmod	_	O
+12	people	people	NNS	_	9	pobj	_	O
+13	...	..	.	pos2=,	10	det	_	O
+

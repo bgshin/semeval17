@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det	_	O
+2	externalities	externality	NNS	_	0	root	_	O
+3	when	when	WRB	_	6	advmod	_	O
+4	Linux	linux	NNP	_	5	compound	_	B-ORG
+5	Foundation	foundation	NNP	_	6	nsubj	_	L-ORG
+6	joins	join	VBZ	_	2	relcl	_	O
+7	#microsoft	#microsoft	NNP	pos2=IN	8	compound	_	O
+8	GNUOpponents	gnuopponents	NNP	pos2=NNS	6	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	#swpatsVictims	#swpatsvictims	NNPS	pos2=NNP	9	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	Microsoft	microsoft	NNP	_	16	poss	_	U-ORG
+13	's	's	POS	_	12	case	_	O
+14	patent	patent	JJ	pos2=NN	16	nmod	_	O
+15	extortion	extortion	NN	_	16	compound	_	O
+16	campaignTruth	campaigntruth	NN	pos2=.	11	pobj	_	O
+

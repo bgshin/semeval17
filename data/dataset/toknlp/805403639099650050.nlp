@@ -1,0 +1,16 @@
+1	Ashley	ashley	NNP	_	2	compound	_	B-PERSON
+2	Graham	graham	NNP	_	3	nsubj	_	L-PERSON
+3	shows	show	VBZ	_	0	root	_	O
+4	off	off	IN	pos2=RP	3	prep	_	O
+5	her	her	PRP$	_	7	poss	_	O
+6	hourglass	hourglass	NN	_	7	compound	_	O
+7	figure	figure	NN	pos2=VBP	4	pobj	_	O
+8	in	in	IN	_	3	prep	_	O
+9	a	a	DT	_	12	det	_	O
+10	crimson	crimson	JJ	pos2=NN	12	nmod	_	O
+11	mini	mini	JJ	pos2=AFX	12	nmod	_	O
+12	dress	dress	NN	_	8	pobj	_	O
+13	https://t.co/71I7Iw6Doo	#hlink#	ADD	pos2=NN	15	nmod	_	O
+14	via	via	IN	_	3	prep	_	O
+15	@DailyMailCeleb	@dailymailceleb	NN	pos2=ADD	14	pobj	_	O
+

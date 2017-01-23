@@ -1,0 +1,32 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	've	have	VBP	_	4	aux	_	O
+3	been	be	VBN	_	4	aux	_	O
+4	listening	listen	VBG	_	0	root	_	O
+5	to	to	IN	_	4	prep	_	O
+6	Leonard	leonard	NNP	_	7	compound	_	B-PERSON
+7	Cohen	cohen	NNP	_	5	pobj	_	L-PERSON
+8	nonstop	nonstop	RB	pos2=JJ	4	advmod	_	O
+9	for	for	IN	_	4	prep	_	O
+10	the	the	DT	_	12	det	_	B-DATE
+11	past	past	JJ	_	12	nmod	_	I-DATE
+12	month	month	NN	_	9	pobj	_	L-DATE
+13	.	.	.	_	4	punct	_	O
+
+1	Only	only	RB	_	3	advmod	_	O
+2	to	to	TO	_	3	aux	_	O
+3	find	find	VB	_	0	root	_	O
+4	out	out	RP	_	3	prt	_	O
+5	he	he	PRP	_	6	nsubj	_	O
+6	passed	pass	VBD	pos2=VBN	3	ccomp	_	O
+7	literally	literally	RB	_	6	advmod	_	B-DATE
+8	weeks	week	NNS	_	9	npadvmod	_	I-DATE
+9	ago	ago	RB	_	6	advmod	_	L-DATE
+10	.	.	.	_	3	punct	_	O
+
+1	Wow	wow	UH	_	4	discourse	_	O
+2	my	my	PRP$	_	3	poss	_	O
+3	heart	heart	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	so	so	RB	_	6	advmod	_	O
+6	overwhel	overwhel	JJ	pos2=RB	4	acomp	_	O
+

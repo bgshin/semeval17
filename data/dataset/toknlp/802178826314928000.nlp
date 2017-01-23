@@ -1,0 +1,12 @@
+1	#HUMOROUS	#humorous	ADD	pos2=NN	11	dep	_	B-PERSON
+2	#SHORT@lawrence_wray	#short@lawrence_wray	ADD	pos2=UH	11	dep	_	I-PERSON
+3	☑VALENTINE	☑valentine	NNP	pos2=NN	7	poss	_	I-PERSON
+4	'S	's	POS	pos2=VBZ	3	case	_	L-PERSON
+5	SURPRISE❥FINALLY	surprise❥finally	NNP	pos2=``	7	compound	_	O
+6	Perfect	perfect	NNP	pos2=JJ	7	compound	_	B-WORK_OF_ART
+7	Gift	gift	NNP	pos2=NN	11	dep	_	I-WORK_OF_ART
+8	For	for	IN	pos2=GW	7	prep	_	I-WORK_OF_ART
+9	Wife?❥	wife?❥	GW	pos2=NNP	8	pobj	_	L-WORK_OF_ART
+10	https://t.co/b7Ubk9fC00	#hlink#	ADD	_	11	nmod	_	O
+11	https://t.co/zZx1CFDcwk	#hlink#	ADD	_	0	root	_	U-ORG
+

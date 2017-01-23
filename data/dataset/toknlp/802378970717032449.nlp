@@ -1,0 +1,22 @@
+1	#CTMNEWS	#ctmnews	NNS	pos2=XX	2	compound	_	O
+2	#MIAMI	#miami	NNS	pos2=VBP	0	root	_	O
+3	#NYC	#nyc	$	pos2=NN	2	punct	_	O
+4	#HOUSTON	#houston	NNP	pos2=NFP	5	compound	_	O
+5	Joe	joe	NNP	_	2	vocative	_	U-PERSON
+6	:	:	:	_	2	punct	_	O
+7	Donald	donald	NNP	_	9	compound	_	B-PERSON
+8	Trump	trump	NNP	_	9	compound	_	I-PERSON
+9	Administration	administration	NNP	pos2=NN	21	dep	_	I-PERSON
+10	‘	'	POS	pos2=''	9	case	_	L-PERSON
+11	On	on	IN	_	9	prep	_	O
+12	The	the	DT	pos2=NNP	13	det	_	O
+13	Precipice	precipice	NNP	pos2=NN	11	pobj	_	O
+14	’	'	''	pos2=POS	9	punct	_	O
+15	With	with	IN	_	9	prep	_	O
+16	Cabinet	cabinet	NNP	_	17	compound	_	O
+17	Picks	picks	NNP	pos2=NNS	15	pobj	_	O
+18	|	|	SYM	pos2=,	21	dep	_	O
+19	Morning	morning	NNP	pos2=NN	21	dep	_	O
+20	Joe	joe	NNP	_	21	dep	_	O
+21	https://t.co/LsZJhLQmWb	#hlink#	ADD	pos2=NNP	3	root	_	O
+

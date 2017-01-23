@@ -1,0 +1,9 @@
+1	#Benghazi	#benghazi	NNP	pos2=PRP	4	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	Karmic	karmic	NNP	pos2=JJ	4	compound	_	O
+4	Revenge	revenge	NN	pos2=NNP	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	#Libya	#libya	-LRB-	pos2=ADD	2	punct	_	O
+2	https://t.co/Xukk3ymxOQ	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

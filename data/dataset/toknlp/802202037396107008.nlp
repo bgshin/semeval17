@@ -1,0 +1,24 @@
+1	Racist	racist	JJ	pos2=NN	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	B-DATE
+4	week	week	NN	_	2	pobj	_	L-DATE
+5	.	.	.	_	1	punct	_	O
+
+1	Wow	wow	UH	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	Alabama	alabama	NNP	_	3	compound	_	B-ORG
+2	Trump	trump	NNP	_	3	compound	_	I-ORG
+3	Supporter	supporter	NNP	pos2=NN	5	nsubjpass	_	L-ORG
+4	Gets	get	VBZ	pos2=NNPS	5	auxpass	_	O
+5	Fired	fire	VBN	pos2=NNP	0	root	_	O
+6	For	for	IN	pos2=NNP	5	prep	_	O
+7	Incredibly	incredibly	RB	pos2=NNP	8	advmod	_	O
+8	Racist	racist	JJ	_	9	nmod	_	O
+9	Rant	rant	NN	pos2=NNP	6	pobj	_	O
+10	About	about	IN	_	9	prep	_	O
+11	The	the	DT	_	12	det	_	O
+12	Obamas	obamas	NNPS	pos2=NNP	10	pobj	_	U-NORP
+13	https://t.co/9uL0ARheOA	#hlink#	ADD	pos2=VBP	12	appos	_	O
+14	#UniteBlue	#uniteblue	ADD	pos2=-RRB-	5	punct	_	O
+

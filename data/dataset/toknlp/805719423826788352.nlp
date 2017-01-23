@@ -1,0 +1,15 @@
+1	Pope	pope	NNP	pos2=NN	2	compound	_	O
+2	Francis	francis	NNP	_	4	dep	_	U-PERSON
+3	:	:	:	_	4	punct	_	O
+4	convert	convert	VB	pos2=NN	0	root	_	O
+5	,	,	,	_	4	punct	_	O
+6	for	for	IN	_	4	prep	_	O
+7	God	god	NNP	_	9	poss	_	O
+8	’s	's	POS	_	7	case	_	O
+9	kingdom	kingdom	NN	_	6	pobj	_	O
+10	is	be	VBZ	_	4	conj	_	O
+11	in	in	IN	_	10	prep	_	O
+12	our	our	PRP$	_	13	poss	_	O
+13	midst	midst	NN	pos2=JJ	11	pobj	_	O
+14	https://t.co/HDPVawjQVq	#hlink#	ADD	pos2=NN	9	appos	_	O
+

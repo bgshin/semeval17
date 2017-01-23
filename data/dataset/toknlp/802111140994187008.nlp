@@ -1,0 +1,15 @@
+1	You	you	PRP	_	2	nsubj	_	O
+2	’re	be	VBP	_	0	root	_	O
+3	stronger	strong	JJR	_	2	acomp	_	O
+4	than	than	IN	_	6	mark	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	think	think	VBP	_	3	advcl	_	O
+7	…	…	NFP	pos2=NNP	14	punct	_	O
+8	#SpeakUpae	#speakupae	ADD	pos2=NNS	14	punct	_	O
+9	#SpeakUpae	#speakupae	NNS	pos2=IN	14	dep	_	O
+10	#OrangeTheWorld	#orangetheworld	NN	pos2=ADD	14	dep	_	O
+11	#	#	NN	pos2=-LRB-	12	compound	_	O
+12	16Days	0days	NNS	pos2=GW	13	compound	_	U-MONEY
+13	#UnitedNations	#unitednations	NNS	pos2=ADD	14	dep	_	O
+14	https://t.co/CaKIpAYvZ1	#hlink#	ADD	_	2	dep	_	U-ORG
+

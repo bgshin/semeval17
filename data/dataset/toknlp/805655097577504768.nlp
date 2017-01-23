@@ -1,0 +1,26 @@
+1	@Lauren_Southern	@lauren_southern	XX	pos2=``	17	dep	_	O
+2	At	at	IN	_	8	prep	_	O
+3	this	this	DT	_	4	det	_	O
+4	point	point	NN	_	2	pobj	_	O
+5	if	if	IN	_	8	mark	_	O
+6	you	you	PRP	_	8	nsubj	_	O
+7	really	really	RB	_	8	advmod	_	O
+8	care	care	VBP	pos2=VB	17	advcl	_	O
+9	about	about	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	victims	victim	NNS	_	9	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	feminist	feminist	JJ	_	14	nmod	_	O
+14	ideology	ideology	NN	_	12	pobj	_	O
+15	,	,	,	_	17	punct	_	O
+16	euthanasia	euthanasia	NN	_	17	nsubj	_	O
+17	is	be	VBZ	_	0	root	_	O
+18	the	the	DT	_	21	det	_	O
+19	most	most	RBS	_	20	advmod	_	O
+20	merciful	merciful	JJ	_	21	nmod	_	O
+21	way	way	NN	_	17	attr	_	O
+22	to	to	TO	_	23	aux	_	O
+23	treat	treat	VB	_	21	relcl	_	O
+24	them	them	PRP	_	23	dobj	_	O
+25	.	.	.	_	17	punct	_	O
+

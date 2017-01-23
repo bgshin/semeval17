@@ -1,0 +1,20 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	11	ccomp	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=GW	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	https://t.co/quPz0njHdB	#hlink#	ADD	pos2=NNP	1	appos	_	O
+7	Andrea	andrea	NNP	_	8	compound	_	B-PERSON
+8	Gibson	gibson	NNP	_	11	vocative	_	L-PERSON
+9	-	-	:	pos2=HYPH	11	punct	_	O
+10	I	I	PRP	pos2=NN	11	nsubj	_	O
+11	Do	do	VBP	_	0	root	_	O
+12	(	(	-LRB-	_	18	punct	_	O
+13	Gay	gay	JJ	pos2=NNP	18	nmod	_	O
+14	[	[	-LRB-	_	18	punct	_	O
+15	Queer	queer	NNP	pos2=NN	10	appos	_	O
+16	]	]	-RRB-	_	11	punct	_	O
+17	Marriage	marriage	NN	pos2=NNP	18	compound	_	O
+18	Poem	poem	NN	pos2=NNP	11	dobj	_	O
+19	)	)	-RRB-	_	11	punct	_	O
+

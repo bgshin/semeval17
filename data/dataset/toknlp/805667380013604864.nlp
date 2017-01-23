@@ -1,0 +1,10 @@
+1	@news4mass	@news0mass	NN	pos2=XX	0	root	_	O
+2	@americamag	@americamag	VBG	pos2=POS	1	acl	_	O
+3	same	same	JJ	_	4	nmod	_	O
+4	excuses	excuse	NNS	_	2	dobj	_	O
+5	&	&	CC	_	4	cc	_	O
+6	reactions	reaction	NNS	_	4	conj	_	O
+7	for	for	IN	_	4	prep	_	O
+8	fracking	fracking	NN	pos2=VBG	7	pobj	_	O
+9	.	.	.	_	1	punct	_	O
+

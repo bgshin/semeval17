@@ -1,0 +1,27 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	added	add	VBD	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	video	video	NN	_	2	dobj	_	O
+5	to	to	IN	_	2	prep	_	O
+6	a	a	DT	_	8	det	_	O
+7	@YouTube	@youtube	JJ	pos2=CD	8	nmod	_	O
+8	playlist	playlist	NN	_	5	pobj	_	O
+9	https://t.co/jpXFrECWJW	#hlink#	ADD	_	14	nmod	_	O
+10	Mobb	mobb	NNP	_	14	nmod	_	O
+11	Deep	deep	JJ	pos2=NNP	14	nmod	_	O
+12	-	-	:	pos2=HYPH	14	punct	_	O
+13	The	the	DT	_	14	det	_	O
+14	Learning	learning	NN	pos2=NNP	18	nmod	_	O
+15	(	(	-LRB-	_	16	punct	_	O
+16	Burn	burn	VB	pos2=NNP	14	parataxis	_	O
+17	)	)	-RRB-	_	16	punct	_	O
+18	ft.	ft.	NN	pos2=JJ	20	compound	_	O
+19	Big	big	NNP	pos2=JJ	20	compound	_	O
+20	Noyd	noyd	NNP	_	0	root	_	O
+21	&	&	CC	_	20	cc	_	O
+22	Vita	vita	NNP	_	20	conj	_	O
+23	(	(	-LRB-	_	25	punct	_	O
+24	Official	official	JJ	pos2=NNP	25	nmod	_	O
+25	Video	video	NN	pos2=NNP	22	parataxis	_	O
+26	)	)	-RRB-	_	25	punct	_	O
+

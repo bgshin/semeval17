@@ -1,0 +1,14 @@
+1	@stepoya	@stepoya	UH	pos2=XX	6	discourse	_	O
+2	@DefraudTheVote	@defraudthevote	UH	pos2=ADD	6	discourse	_	O
+3	@mike_pence	@mike_pence	NNP	pos2=IN	6	vocative	_	U-CARDINAL
+4	Well	well	UH	_	6	discourse	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	're	be	VBP	_	0	root	_	O
+7	an	an	DT	_	8	det	_	O
+8	idiot	idiot	NN	_	6	attr	_	O
+9	then	then	RB	_	6	advmod	_	O
+10	.	.	.	_	6	punct	_	O
+
+1	Goodbye	goodbye	UH	pos2=NN	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

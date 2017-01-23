@@ -1,0 +1,20 @@
+1	#tech	#tech	UH	pos2=XX	9	discourse	_	O
+2	#summary	#summary	NN	pos2=FW	9	dep	_	O
+3	:	:	:	_	2	punct	_	O
+4	#tesla	#tesla	UH	pos2=ADD	2	discourse	_	O
+5	#model	#model	UH	pos2=NN	9	discourse	_	O
+6	s	s	PRP	pos2=POS	9	nsubjpass	_	O
+7	can	can	MD	_	9	aux	_	O
+8	be	be	VB	_	9	auxpass	_	O
+9	located	locate	VBN	_	0	root	_	O
+10	,	,	,	_	9	punct	_	O
+11	#un	#un	FW	pos2=NNP	9	conj	_	O
+12	#locked	#locked	UH	pos2=FW	9	discourse	_	O
+13	,	,	,	_	9	punct	_	O
+14	#stolen	#stolen	VBN	pos2=RB	9	conj	_	O
+15	by	by	IN	_	14	prep	_	O
+16	manipulating	manipulate	VBG	_	15	pcomp	_	O
+17	#tesla	#tesla	GW	pos2=FW	19	nmod	_	O
+18	#apps	#apps	GW	pos2=NNS	19	nmod	_	O
+19	https://t.co/X7g6voojUL	#hlink#	ADD	pos2=NN	16	dobj	_	O
+

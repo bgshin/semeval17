@@ -1,0 +1,12 @@
+1	💋	💋	NNP	pos2=NFP	3	compound	_	O
+2	Ashley	ashley	NNP	_	3	compound	_	B-PERSON
+3	Graham💋	graham💋	NNP	pos2=POS	5	compound	_	L-PERSON
+4	American	american	JJ	pos2=NNP	5	compound	_	U-NORP
+5	Model	model	NNP	pos2=NN	10	poss	_	U-ORG
+6	💋	💋	POS	pos2=NNP	5	case	_	O
+7	Literate	literate	JJ	pos2=NNP	9	advmod	_	B-ORG
+8	/	/	SYM	pos2=HYPH	9	punct	_	I-ORG
+9	Descriptive💋	descriptive💋	JJ	pos2=VBN	10	nmod	_	L-ORG
+10	Designer	designer	NN	_	11	dep	_	O
+11	https://t.co/On6ltpsqes	#hlink#	ADD	_	0	root	_	O
+

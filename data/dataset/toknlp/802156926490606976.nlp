@@ -1,0 +1,16 @@
+1	Where	where	WRB	_	3	advmod	_	O
+2	To	to	TO	pos2=NNP	3	aux	_	O
+3	Get	get	VB	_	0	root	_	O
+4	The	the	DT	_	6	det	_	O
+5	Tastiest	tasty	JJS	pos2=NNP	6	nmod	_	O
+6	Challah	challah	NNP	pos2=NN	3	dobj	_	O
+7	In	in	IN	pos2=NNP	6	prep	_	O
+8	#Jerusalem	#jerusalem	NNP	pos2=PRP	7	pobj	_	O
+9	via	via	IN	_	3	prep	_	O
+10	@culturetrip	@culturetrip	XX	pos2=NNP	9	pobj	_	O
+11	#israel	#israel	XX	pos2=UH	15	dep	_	O
+12	#foodie	#foodie	XX	pos2=UH	15	dep	_	O
+13	#ShabbatShalom	#shabbatshalom	XX	pos2=GW	15	nmod	_	O
+14	…	…	NFP	pos2=XX	15	punct	_	O
+15	https://t.co/XMbISnvdpZ	#hlink#	ADD	_	9	pobj	_	O
+

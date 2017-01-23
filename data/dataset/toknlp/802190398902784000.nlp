@@ -1,0 +1,25 @@
+1	I	I	PRP	pos2=DT	2	nsubj	_	O
+2	bank	bank	VBP	pos2=NN	0	root	_	O
+3	with	with	IN	_	2	prep	_	O
+4	Wells	wells	NNP	_	5	compound	_	B-ORG
+5	Fargo	fargo	NNP	_	3	pobj	_	L-ORG
+6	which	which	WDT	_	7	nsubj	_	O
+7	means	mean	VBZ	_	4	relcl	_	O
+8	my	my	PRP$	_	9	poss	_	O
+9	money	money	NN	_	11	nsubj	_	O
+10	is	be	VBZ	_	11	aux	_	O
+11	aiding	aid	VBG	_	7	ccomp	_	O
+12	the	the	DT	_	15	det	_	O
+13	Dakota	dakota	NNP	_	14	compound	_	O
+14	Access	access	NNP	pos2=NN	15	compound	_	O
+15	pipeline	pipeline	NN	_	11	dobj	_	O
+16	.	.	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	urge	urge	VBP	_	0	root	_	O
+3	other	other	JJ	_	4	nmod	_	O
+4	Wells	wells	NNP	pos2=NNS	2	dobj	_	U-ORG
+5	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/jgLsa4Nxxu	#hlink#	ADD	_	0	root	_	U-ORG
+

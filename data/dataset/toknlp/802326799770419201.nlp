@@ -1,0 +1,23 @@
+1	World	world	NN	pos2=NNP	4	npadvmod	_	O
+2	3	0	CD	pos2=GW	6	nmod	_	U-CARDINAL
+3	D	d	NNP	pos2=NN	7	compound	_	B-ORG
+4	Printing	printing	NNP	pos2=NN	7	compound	_	I-ORG
+5	Healthcare	healthcare	NNP	_	7	compound	_	I-ORG
+6	Market	market	NNP	_	7	compound	_	I-ORG
+7	Overview	overview	NNP	pos2=NN	0	root	_	L-ORG
+8	by	by	IN	_	7	prep	_	O
+9	Market	market	NNP	_	10	compound	_	O
+10	Scope	scope	NNP	pos2=NN	8	pobj	_	O
+11	,	,	,	_	10	punct	_	O
+12	Market	market	NNP	pos2=NN	13	compound	_	O
+13	Restraints	restraints	NNP	pos2=NNPS	10	conj	_	O
+14	,	,	,	_	13	punct	_	O
+15	and	and	CC	_	13	cc	_	O
+16	Market	market	NNP	pos2=NN	13	conj	_	O
+17	...	..	.	_	1	punct	_	O
+
+1	https://t.co/JtNX5jiyTY	#hlink#	ADD	_	0	root	_	O
+2	#healthcare	#healthcare	-RRB-	pos2=IN	1	punct	_	O
+3	#healt	#healt	UH	pos2=-RRB-	1	discourse	_	O
+4	…	…	NFP	pos2=.	1	discourse	_	O
+

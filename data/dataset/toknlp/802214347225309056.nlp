@@ -1,0 +1,16 @@
+1	1	0	CD	pos2=LS	3	dep	_	U-CARDINAL
+2	Shot	shot	NNP	pos2=VBN	3	compound	_	B-PERSON
+3	Dead	dead	NNP	pos2=JJ	15	dep	_	L-PERSON
+4	,	,	,	_	3	punct	_	O
+5	Another	another	DT	pos2=NNP	6	nsubj	_	O
+6	Wounded	wound	VBN	pos2=NNP	3	appos	_	O
+7	Outside	outside	NNP	pos2=IN	6	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	South	south	NNP	_	10	compound	_	B-FAC
+10	Jersey	jersey	NNP	_	11	compound	_	I-FAC
+11	Mall	mall	NNP	_	8	pobj	_	L-FAC
+12	On	on	IN	pos2=NNP	6	prep	_	O
+13	#BlackFr	#blackfr	GW	pos2=ADD	12	pobj	_	O
+14	idayhttps://t.co/m2Eby38G24…	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/2V8C2BjjL3	#hlink#	ADD	_	0	root	_	U-ORG
+

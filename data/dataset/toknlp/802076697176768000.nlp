@@ -1,0 +1,28 @@
+1	David	david	NNP	_	2	compound	_	B-PERSON
+2	Blaine	blaine	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	so	so	RB	_	5	advmod	_	O
+5	fucking	fucking	JJ	pos2=RB	6	nmod	_	O
+6	awesome	awesome	JJ	pos2=NN	3	acomp	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	You	you	PRP	_	5	nsubj	_	O
+2	just	just	RB	_	5	advmod	_	O
+3	ca	can	MD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	watch	watch	VB	_	0	root	_	O
+6	his	his	PRP$	_	7	poss	_	O
+7	tricks	trick	NNS	_	5	dobj	_	O
+8	without	without	IN	_	5	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	feeling	feeling	NN	pos2=VBG	8	pobj	_	O
+11	that	that	IN	_	15	mark	_	O
+12	everything	everything	NN	_	15	nsubj	_	O
+13	inside	inside	IN	_	12	prep	_	O
+14	you	you	PRP	_	13	pobj	_	O
+15	is	be	VBZ	_	10	acl	_	O
+16	shrank	shrank	JJ	pos2=VBN	15	acomp	_	O
+17	.	.	.	_	5	punct	_	O
+
+1	@davidblaine	@davidblaine	UH	pos2=NN	0	root	_	O
+

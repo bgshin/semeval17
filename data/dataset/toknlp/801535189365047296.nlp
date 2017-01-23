@@ -1,0 +1,24 @@
+1	Great	great	JJ	_	2	nmod	_	O
+2	explanation	explanation	NN	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	the	the	DT	_	6	det	_	B-ORG
+5	Electoral	electoral	NNP	_	6	compound	_	I-ORG
+6	College	college	NNP	_	3	pobj	_	L-ORG
+7	...	..	.	pos2=,	2	punct	_	O
+
+1	and	and	CC	_	2	cc	_	O
+2	the	the	DT	_	3	det	_	O
+3	need	need	NN	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	it	it	PRP	_	4	pobj	_	O
+6	...	..	.	pos2=,	3	punct	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	Anti-Trump	anti-trump	NNP	pos2=JJ	3	compound	_	O
+3	Riots	riot	NNPS	pos2=NNS	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	a	a	DT	_	7	det	_	O
+6	Smoke	smoke	NNP	pos2=NN	7	compound	_	B-WORK_OF_ART
+7	Screen	screen	NN	pos2=NNP	4	attr	_	L-WORK_OF_ART
+8	https://t.co/ZCudTd7wZ3	#hlink#	ADD	_	4	dep	_	O
+

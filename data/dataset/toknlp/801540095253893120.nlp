@@ -1,0 +1,25 @@
+1	@ThaRealJazzyC	@tharealjazzyc	NNP	pos2=UH	4	vocative	_	O
+2	Well	well	UH	_	4	discourse	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	genius	genius	NN	pos2=NNS	4	attr	_	O
+6	because	because	IN	_	9	mark	_	O
+7	we	we	PRP	_	9	nsubj	_	O
+8	all	all	DT	_	7	appos	_	O
+9	know	know	VBP	_	4	advcl	_	O
+10	Melania	melania	NNP	_	11	nsubj	_	U-PERSON
+11	stole	steal	VBD	_	9	ccomp	_	O
+12	Michelle	michelle	NNP	_	13	compound	_	U-PERSON
+13	speech	speech	NN	pos2=NNP	11	dobj	_	O
+14	and	and	CC	_	11	cc	_	O
+15	to	to	TO	_	16	aux	_	O
+16	imply	imply	VB	_	11	advcl	_	O
+17	that	that	IN	_	19	mark	_	O
+18	Melania	melania	NNP	_	19	nsubj	_	U-PERSON
+19	wants	want	VBZ	_	16	ccomp	_	O
+20	Michelle	michelle	NNP	_	21	compound	_	U-PERSON
+21	life	life	NN	pos2=NNP	19	dobj	_	O
+22	...	..	.	pos2=,	4	punct	_	O
+
+1	Well	well	UH	_	0	root	_	O
+

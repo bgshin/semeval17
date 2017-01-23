@@ -1,0 +1,23 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@rachsyme	@rachsyme	UH	pos2=PRP$	5	compound	_	O
+2	interviews	interview	NNS	pos2=VBZ	5	compound	_	O
+3	Robert	robert	NNP	_	5	compound	_	B-PERSON
+4	A.	a.	NNP	_	5	compound	_	I-PERSON
+5	Caro	caro	NNP	_	0	meta	_	L-PERSON
+6	,	,	,	_	5	punct	_	O
+7	who	who	WP	_	9	nsubjpass	_	O
+8	was	be	VBD	_	9	auxpass	_	O
+9	presented	present	VBN	_	5	relcl	_	O
+10	with	with	IN	_	9	prep	_	O
+11	a	a	DT	_	14	det	_	O
+12	lifetime	lifetime	NN	_	14	compound	_	O
+13	achievement	achievement	NN	_	14	compound	_	O
+14	medal	medal	NN	_	10	pobj	_	O
+15	at	at	IN	_	14	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	#NBAwards	#nbawards	NNPS	pos2=NNS	15	pobj	_	U-NORP
+18	.	.	.	_	14	punct	_	O
+
+1	https://t.co/YXhESFBCDL	#hlink#	ADD	_	0	root	_	U-ORG
+

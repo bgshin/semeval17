@@ -1,0 +1,13 @@
+1	@Syria_Hezb_Iran	@syria_hezb_iran	MD	pos2=VB	3	aux	_	O
+2	Turkey	turkey	NNP	pos2=NN	3	nsubj	_	U-GPE
+3	fight	fight	VB	pos2=NN	0	root	_	O
+4	vs	vs	CC	pos2=IN	3	cc	_	O
+5	#SAA	#saa	ADD	pos2=NFP	3	punct	_	O
+6	#Hezbollah	#hezbollah	NNP	pos2=XX	7	compound	_	B-PERSON
+7	#Tiger	#tiger	NNP	pos2=ADD	10	compound	_	L-PERSON
+8	#YPG	#ypg	ADD	pos2=NNP	3	punct	_	O
+9	#SDF	#sdf	NNP	pos2=XX	10	compound	_	O
+10	#Iraq	#iraq	NNP	pos2=NNS	8	dobj	_	O
+11	soon	soon	RB	_	8	advmod	_	O
+12	.	.	.	_	3	punct	_	O
+

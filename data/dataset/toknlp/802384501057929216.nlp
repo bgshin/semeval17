@@ -1,0 +1,8 @@
+1	@poroshenko	@poroshenko	UH	pos2=RB	5	discourse	_	O
+2	,	,	,	_	5	punct	_	O
+3	you	you	PRP	_	5	nsubj	_	O
+4	only	only	RB	_	5	advmod	_	O
+5	spread	spread	VBD	pos2=VBP	0	root	_	O
+6	false	false	JJ	_	7	nmod	_	O
+7	information	information	NN	_	5	dobj	_	O
+

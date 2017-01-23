@@ -1,0 +1,29 @@
+1	Leftists	leftist	NNS	pos2=NNPS	4	nsubj	_	U-NORP
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	get	get	VB	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	complain	complain	VB	_	4	xcomp	_	O
+7	about	about	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	way	way	NN	_	7	pobj	_	O
+10	#white	#white	IN	pos2=FW	9	prep	_	O
+11	ppl	ppl	NNS	pos2=NNP	12	nsubj	_	O
+12	respond	respond	VBP	pos2=VB	4	conj	_	O
+13	to	to	IN	_	12	prep	_	O
+14	#antiwhite	#antiwhite	VB	pos2=ADD	15	compound	_	O
+15	harassment	harassment	NN	_	13	pobj	_	O
+16	/	/	,	pos2=SYM	17	punct	_	O
+17	attacks	attack	NNS	_	12	dep	_	O
+18	!	!	.	_	12	punct	_	O
+
+1	They	they	PRP	_	4	nsubj	_	O
+2	should	should	MD	_	4	aux	_	O
+3	have	have	VB	_	4	aux	_	O
+4	stopped	stop	VBN	_	0	root	_	O
+5	long	long	RB	_	6	advmod	_	O
+6	ago	ago	RB	_	4	advmod	_	O
+7	!	!	.	_	4	punct	_	O
+
+1	#MAGA	#maga	NN	pos2=ADD	0	root	_	O
+

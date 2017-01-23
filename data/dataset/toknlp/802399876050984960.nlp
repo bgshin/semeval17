@@ -1,0 +1,21 @@
+1	@marissatweeting	@marissatweeting	VBG	pos2=UH	5	nmod	_	O
+2	hey	hey	UH	pos2=RB	12	discourse	_	O
+3	marissa	marissa	NN	pos2=NNP	12	vocative	_	O
+4	,	,	,	_	12	punct	_	O
+5	im	im	NN	pos2=VB	0	root	_	O
+6	a	a	DT	_	8	det	_	O
+7	social	social	JJ	_	8	nmod	_	O
+8	worker	worker	NN	_	5	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	sorts	sort	NNS	_	9	pobj	_	O
+11	i	I	PRP	pos2=CD	12	nsubj	_	O
+12	work	work	VBP	_	1	ccomp	_	O
+13	for	for	IN	_	12	prep	_	O
+14	social	social	JJ	_	15	nmod	_	O
+15	security	security	NN	_	13	pobj	_	O
+16	.	.	.	_	1	punct	_	O
+
+1	Coffee	coffee	NN	pos2=NNP	2	compound	_	O
+2	mayby	mayby	RB	pos2=NN	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+

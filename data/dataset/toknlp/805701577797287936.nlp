@@ -1,0 +1,23 @@
+1	1	0	CD	_	14	npadvmod	_	U-CARDINAL
+2	of	of	IN	_	1	prep	_	O
+3	America	america	NNP	_	6	poss	_	U-GPE
+4	's	's	POS	_	3	case	_	O
+5	greatest	great	JJS	_	6	nmod	_	O
+6	Presidents	president	NNS	pos2=NNPS	8	poss	_	O
+7	#RonaldReagan	#ronaldreagan	POS	pos2=VBP	6	case	_	O
+8	quote	quote	NN	pos2=UH	2	pobj	_	O
+9	on	on	IN	pos2=RP	8	prep	_	O
+10	abortion	abortion	NN	_	9	pobj	_	O
+11	“	"	``	pos2=''	14	punct	_	O
+12	I	I	PRP	_	14	nsubj	_	O
+13	've	have	VBP	pos2=RB	14	aux	_	O
+14	noticed	notice	VBN	_	0	root	_	O
+15	that	that	IN	_	22	mark	_	O
+16	everyone	everyone	NN	_	22	nsubj	_	O
+17	who	who	WP	_	18	nsubj	_	O
+18	is	be	VBZ	_	16	relcl	_	O
+19	for	for	IN	_	18	prep	_	O
+20	abortion	abortion	NN	_	19	pobj	_	O
+21	…	…	NFP	pos2=-LRB-	22	punct	_	O
+22	https://t.co/KAwtauPnyB	#hlink#	ADD	pos2=NN	14	ccomp	_	O
+

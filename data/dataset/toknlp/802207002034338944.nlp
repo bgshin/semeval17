@@ -1,0 +1,26 @@
+1	@megynkelly	@megynkelly	RB	pos2=NN	4	advmod	_	O
+2	because	because	IN	_	4	mark	_	O
+3	megyn	megyn	NNS	pos2=NN	4	nsubj	_	O
+4	lost	lose	VBD	_	13	advcl	_	O
+5	all	all	DT	_	6	det	_	O
+6	respect	respect	NN	_	4	dobj	_	O
+7	once	once	IN	_	9	mark	_	O
+8	she	she	PRP	_	9	nsubj	_	O
+9	jumped	jump	VBD	_	4	advcl	_	O
+10	on	on	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	roger	roger	NNP	pos2=NN	10	pobj	_	O
+13	harassed	harass	VBD	_	0	root	_	O
+14	me	me	PRP	_	13	dobj	_	O
+15	too	too	RB	_	13	advmod	_	O
+16	.....	..	.	_	13	punct	_	O
+
+1	but	but	CC	_	2	cc	_	O
+2	took	take	VBD	_	0	root	_	O
+3	the	the	DT	_	7	det	_	O
+4	prime	prime	JJ	_	5	nmod	_	O
+5	time	time	NN	_	6	compound	_	O
+6	slot	slot	NN	_	7	compound	_	O
+7	job	job	NN	_	2	dobj	_	O
+8	?	?	.	_	2	punct	_	O
+

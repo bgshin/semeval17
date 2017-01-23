@@ -1,0 +1,23 @@
+1	China	china	NNP	_	2	compound	_	O
+2	Censors	censor	NNPS	pos2=NNP	5	poss	_	O
+3	‘	'	POS	_	2	case	_	O
+4	Kim	kim	NNP	_	5	compound	_	B-PERSON
+5	Fatty	fatty	NNP	pos2=VBD	0	root	_	L-PERSON
+6	the	the	DT	_	7	det	_	O
+7	Third	#ord#	NNP	pos2=JJ	5	appos	_	U-ORDINAL
+8	’	'	''	pos2=``	5	punct	_	O
+9	From	from	IN	_	5	prep	_	O
+10	Search	search	NNP	pos2=NN	9	pobj	_	O
+11	After	after	IN	_	7	prep	_	O
+12	North	north	JJ	_	13	advmod	_	B-NORP
+13	Korean	korean	JJ	pos2=NNP	14	nmod	_	L-NORP
+14	Request	request	NN	pos2=NNP	11	pobj	_	O
+15	,	,	,	_	18	punct	_	O
+16	#KimFattytheThird	#kimfattythethird	NNP	pos2=NN	18	nsubj	_	U-ORG
+17	,	,	,	_	22	punct	_	O
+18	Has	have	VBZ	_	0	root	_	O
+19	a	a	DT	_	21	det	_	O
+20	nice	nice	JJ	_	21	nmod	_	O
+21	ring	ring	NN	_	18	dobj	_	O
+22	https://t.co/y37EhamHs6	#hlink#	ADD	pos2=NN	21	appos	_	O
+

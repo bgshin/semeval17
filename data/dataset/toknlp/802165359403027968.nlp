@@ -1,0 +1,17 @@
+1	#Google	#google	NNP	pos2=VB	2	compound	_	B-PERSON
+2	#Earth	#earth	NNP	pos2=POS	3	compound	_	L-PERSON
+3	#VR	#vr	NN	pos2=NNP	4	nsubj	_	O
+4	allows	allow	VBZ	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	person	person	NN	_	8	nsubj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	soar	soar	VB	_	4	ccomp	_	O
+9	through	through	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	sky	sky	NN	_	9	pobj	_	O
+12	.	.	.	_	4	punct	_	O
+
+1	Via	via	IN	pos2=GW	0	root	_	O
+2	@NatureWorldNews	@natureworldnews	ADD	pos2=GW	1	pobj	_	O
+3	https://t.co/YsVSfNl4Eq	#hlink#	ADD	_	1	pobj	_	O
+

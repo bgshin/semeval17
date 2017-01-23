@@ -1,0 +1,11 @@
+1	Why	why	WRB	_	5	advmod	_	O
+2	do	do	VBP	_	5	aux	_	O
+3	n't	not	RB	_	5	neg	_	O
+4	we	we	PRP	_	5	nsubj	_	O
+5	have	have	VB	pos2=VBP	0	root	_	O
+6	@Uber	@uber	NNP	pos2=PRP	7	compound	_	B-PERSON
+7	#uber	#uber	NNP	pos2=ADD	5	dobj	_	L-PERSON
+8	?	?	.	_	5	punct	_	O
+
+1	#SalemOR	#salemor	NN	pos2=ADD	0	root	_	O
+

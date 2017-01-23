@@ -1,0 +1,9 @@
+1	Pelosi	pelosi	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	announces	announce	VBZ	_	0	root	_	O
+3	several	several	JJ	_	6	nmod	_	O
+4	Dem	dem	NNP	pos2=JJ	6	compound	_	U-NORP
+5	leadership	leadership	NN	_	6	compound	_	O
+6	nominations	nomination	NNS	_	2	dobj	_	O
+7	https://t.co/dgXARnOUHp	#hlink#	ADD	_	8	nmod	_	O
+8	https://t.co/dO7HKRiDuB	#hlink#	ADD	_	2	dep	_	U-ORG
+

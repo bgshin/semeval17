@@ -1,0 +1,13 @@
+1	You	you	PRP	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	accept	accept	VB	_	0	root	_	O
+4	love	love	NN	_	3	dobj	_	O
+5	!	!	.	_	3	punct	_	O
+
+1	https://t.co/GkOUmepYJu	#hlink#	ADD	_	6	nmod	_	O
+2	#DominatingYourMind	#dominatingyourmind	-RRB-	pos2=ADD	1	punct	_	O
+3	#DYM	#dym	NFP	pos2=NN	6	nmod	_	O
+4	@NYTMetro	@nytmetro	GW	pos2=CD	6	nmod	_	B-PERSON
+5	#NBAwards	#nbawards	GW	pos2=ADD	6	nmod	_	L-PERSON
+6	https://t.co/7QZFRmdrc5	#hlink#	ADD	pos2=NN	0	root	_	O
+

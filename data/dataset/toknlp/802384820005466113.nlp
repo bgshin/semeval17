@@ -1,0 +1,35 @@
+1	@Ravenrantz	@ravenrantz	NNP	pos2=NNS	3	compound	_	O
+2	@realDonaldTrump	@realdonaldtrump	NNP	pos2=IN	3	compound	_	B-PERSON
+3	Romney	romney	NNP	_	4	nsubj	_	L-PERSON
+4	WAS	be	VBD	_	22	ccomp	_	O
+5	Dem	dem	NNP	pos2=NN	9	nmod	_	B-PERSON
+6	w	w	IN	pos2=RB	4	attr	_	L-PERSON
+7	/	/	HYPH	_	6	punct	_	O
+8	planned	plan	VBN	pos2=JJ	9	nmod	_	O
+9	parenthood	parenthood	NN	_	6	pobj	_	O
+10	ON	on	IN	_	9	prep	_	O
+11	his	his	PRP$	_	15	poss	_	O
+12	OWN	own	JJ	pos2=NNP	15	nmod	_	O
+13	board	board	NN	_	15	compound	_	O
+14	-	-	HYPH	pos2=:	15	punct	_	O
+15	Dems	dems	NNP	pos2=NNPS	10	pobj	_	O
+16	Refused	refuse	VBD	_	4	ccomp	_	O
+17	him	him	PRP	_	16	dobj	_	O
+18	in	in	IN	_	16	prep	_	O
+19	WH	wh	NNP	pos2=NN	18	pobj	_	U-ORG
+20	,	,	,	_	22	punct	_	O
+21	so	so	RB	_	22	advmod	_	O
+22	fired	fire	VBD	pos2=JJ	0	root	_	O
+23	P	p	NN	_	25	compound	_	O
+24	/	/	HYPH	pos2=SYM	25	punct	_	O
+25	P	p	NN	pos2=NNP	22	dobj	_	O
+26	&	&	CC	_	25	cc	_	O
+27	poof	poof	NN	pos2=JJ	29	compound	_	O
+28	-	-	HYPH	pos2=,	29	punct	_	O
+29	A	a	DT	pos2=NNP	30	det	_	O
+30	GOP	gop	NNP	pos2=NN	25	conj	_	U-ORG
+31	!	!	.	_	22	punct	_	O
+
+1	NOway	noway	RB	pos2=UH	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+

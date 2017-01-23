@@ -1,0 +1,11 @@
+1	#Rohingya	#rohingya	NNP	pos2=VBG	2	compound	_	O
+2	God	god	NNP	pos2=NN	4	vocative	_	O
+3	please	please	UH	_	4	discourse	_	O
+4	save	save	VB	_	0	root	_	O
+5	Rohingya	rohingya	NNP	_	4	dobj	_	U-NORP
+6	#killing	#killing	VBG	pos2=NNP	4	advcl	_	O
+7	in	in	IN	_	6	prep	_	O
+8	#Myanmar	#myanmar	NNP	pos2=GW	9	compound	_	B-DATE
+9	#unitednations	#unitednations	NNS	pos2=ADD	7	pobj	_	L-DATE
+10	https://t.co/21Ejo0FPCH	#hlink#	ADD	_	5	appos	_	O
+

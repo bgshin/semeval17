@@ -1,0 +1,18 @@
+1	@Brasilmagic	@brasilmagic	NNP	pos2=NFP	0	root	_	O
+2	Including	include	VBG	_	1	prep	_	O
+3	the	the	DT	_	7	det	_	O
+4	many	many	JJ	_	6	nmod	_	O
+5	innocent	innocent	JJ	_	6	nmod	_	O
+6	men	man	NNS	_	7	compound	_	O
+7	women	woman	NNS	_	2	pobj	_	O
+8	and	and	CC	_	7	cc	_	O
+9	children	child	NNS	_	7	conj	_	O
+10	killed	kill	VBN	_	7	acl	_	O
+11	by	by	IN	_	10	agent	_	O
+12	his	his	PRP$	_	16	poss	_	O
+13	direct	direct	JJ	_	16	nmod	_	O
+14	authorized	authorize	VBN	pos2=JJ	16	nmod	_	O
+15	drone	drone	NN	_	16	compound	_	O
+16	strikes	strike	NNS	_	11	pobj	_	O
+17	?	?	.	_	1	punct	_	O
+

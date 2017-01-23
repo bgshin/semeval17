@@ -1,0 +1,26 @@
+1	The	the	DT	_	5	det	_	O
+2	little	little	JJ	_	5	nmod	_	O
+3	black	black	JJ	pos2=NN	5	nmod	_	O
+4	effeminate	effeminate	JJ	_	5	nmod	_	O
+5	punk	punk	NN	_	0	root	_	O
+6	defending	defend	VBG	_	5	acl	_	O
+7	the	the	DT	_	9	det	_	O
+8	white	white	JJ	_	9	nmod	_	O
+9	supremacists	supremacist	NNS	_	6	dobj	_	O
+10	,	,	,	_	12	punct	_	O
+11	I	I	PRP	_	12	nsubj	_	O
+12	hope	hope	VBP	_	0	root	_	O
+13	he	he	PRP	_	14	nsubj	_	O
+14	knows	know	VBZ	_	12	ccomp	_	O
+15	what	what	WP	_	17	nsubj	_	O
+16	hes	hes	VBZ	pos2=RB	17	aux	_	O
+17	doing	do	VBG	_	14	ccomp	_	O
+18	.	.	.	_	12	punct	_	O
+
+1	No	no	DT	_	2	det	_	O
+2	offense	offense	NN	_	0	root	_	O
+3	to	to	IN	_	2	prep	_	O
+4	effeminate	effeminate	JJ	_	5	nmod	_	O
+5	men	man	NNS	_	3	pobj	_	O
+6	.	.	.	_	2	punct	_	O
+

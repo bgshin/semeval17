@@ -1,0 +1,18 @@
+1	#muslims	#muslims	UH	pos2=NNS	4	discourse	_	O
+2	#Paris	#paris	POS	pos2=PRP$	3	compound	_	U-CARDINAL
+3	Prosecutor	prosecutor	NNP	pos2=NN	4	nsubj	_	O
+4	says	say	VBZ	_	0	root	_	O
+5	5	0	CD	_	6	nmod	_	U-CARDINAL
+6	suspects	suspect	NNS	_	8	nsubj	_	O
+7	detained	detain	VBN	_	6	acl	_	O
+8	are	be	VBP	_	4	ccomp	_	O
+9	#ISIS	#isis	NN	pos2=CD	10	compound	_	O
+10	operatives	operative	NNS	_	8	attr	_	O
+11	;	;	,	pos2=:	15	punct	_	O
+12	were	be	VBD	_	13	aux	_	O
+13	planning	plan	VBG	_	17	dep	_	O
+14	imminent	imminent	JJ	_	15	nmod	_	O
+15	attack	attack	NN	_	13	dobj	_	O
+16	-	-	:	pos2=,	17	punct	_	O
+17	https://t.co/Her6pb0FzP	#hlink#	ADD	pos2=NN	0	root	_	O
+

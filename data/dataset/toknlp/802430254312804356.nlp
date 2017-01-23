@@ -1,0 +1,25 @@
+1	@	@	SYM	_	4	punct	_	O
+2	14Froger14	0froger0	NN	pos2=IN	4	attr	_	O
+3	this	this	DT	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	truth	truth	NN	_	4	attr	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	people	people	NNS	_	3	nsubj	_	O
+2	must	must	MD	_	3	aux	_	O
+3	wake	wake	VB	_	0	root	_	O
+4	up	up	RP	pos2=RB	3	prt	_	O
+5	&	&	CC	_	3	cc	_	O
+6	face	face	VB	pos2=VBP	3	conj	_	O
+7	the	the	DT	_	8	det	_	O
+8	truth	truth	NN	_	6	dobj	_	O
+9	,	,	,	_	13	punct	_	O
+10	you	you	PRP	_	13	nsubjpass	_	O
+11	are	be	VBP	_	13	aux	_	O
+12	being	be	VBG	_	13	auxpass	_	O
+13	brainwashed	brainwash	VBN	_	8	relcl	_	O
+14	by	by	IN	_	13	agent	_	O
+15	liberals	liberal	NNS	_	14	pobj	_	O
+16	.	.	.	_	13	punct	_	O
+

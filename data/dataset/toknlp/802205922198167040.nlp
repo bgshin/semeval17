@@ -1,0 +1,17 @@
+1	@thehill	@thehill	UH	pos2=MD	9	discourse	_	O
+2	the	the	DT	_	4	det	_	O
+3	only	only	JJ	_	4	nmod	_	O
+4	thing	thing	NN	_	9	nsubj	_	O
+5	he	he	PRP	_	6	nsubj	_	O
+6	's	's	VBZ	_	4	relcl	_	O
+7	disloyal	disloyal	JJ	_	6	acomp	_	O
+8	to	to	TO	pos2=IN	11	aux	_	O
+9	are	be	VBP	pos2=VB	0	root	_	O
+10	the	the	DT	_	12	det	_	O
+11	white	white	JJ	_	12	nmod	_	O
+12	supremacists	supremacist	NNS	_	9	attr	_	O
+13	in	in	IN	_	12	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	whitehouse	whitehouse	NN	pos2=NNP	13	pobj	_	O
+16	!	!	.	_	9	punct	_	O
+

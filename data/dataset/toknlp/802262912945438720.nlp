@@ -1,0 +1,33 @@
+1	Before	before	IN	_	3	mark	_	O
+2	I	I	PRP	pos2=CD	3	nsubj	_	O
+3	board	board	VBP	pos2=VBD	12	advcl	_	O
+4	my	my	PRP$	_	5	poss	_	O
+5	flight	flight	NN	_	3	dobj	_	O
+6	,	,	,	_	12	punct	_	O
+7	my	my	PRP$	_	8	poss	_	O
+8	wife	wife	NN	_	10	poss	_	O
+9	's	's	POS	_	8	case	_	O
+10	friend	friend	NN	_	12	nsubj	_	O
+11	Pedro	pedro	NNP	_	10	appos	_	U-PERSON
+12	hands	hand	VBZ	pos2=NNS	0	root	_	O
+13	me	me	PRP	_	12	dative	_	O
+14	the	the	DT	_	17	det	_	O
+15	new	new	JJ	_	17	nmod	_	O
+16	Galaxy	galaxy	NNP	_	17	compound	_	O
+17	Note	note	NN	pos2=NNP	12	dobj	_	O
+18	7.	0.	CD	pos2=NNP	17	appos	_	U-CARDINAL
+19	And	and	CC	_	12	cc	_	O
+20	all	all	PDT	pos2=DT	22	predet	_	O
+21	this	this	DT	_	22	det	_	O
+22	time	time	NN	_	12	npadvmod	_	O
+23	I	I	PRP	_	24	nsubj	_	O
+24	thought	think	VBD	_	22	relcl	_	O
+25	he	he	PRP	_	28	nsubj	_	O
+26	did	do	VBD	_	28	aux	_	O
+27	n't	not	RB	_	28	neg	_	O
+28	like	like	VB	_	24	ccomp	_	O
+29	me	me	PRP	_	28	dobj	_	O
+30	.	.	.	_	12	punct	_	O
+
+1	#BlackFriday	#blackfriday	NNP	pos2=NN	0	root	_	O
+

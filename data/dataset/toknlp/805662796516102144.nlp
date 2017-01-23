@@ -1,0 +1,24 @@
+1	@RichardDawkins	@richarddawkins	NNS	pos2=XX	0	root	_	O
+2	If	if	IN	_	9	mark	_	O
+3	the	the	DT	_	6	det	_	O
+4	electoral	electoral	JJ	_	6	nmod	_	O
+5	college	college	NN	_	6	compound	_	O
+6	system	system	NN	_	9	nsubjpass	_	O
+7	had	have	VBD	_	9	aux	_	O
+8	been	be	VBN	_	9	auxpass	_	O
+9	removed	remove	VBN	_	1	advcl	_	O
+10	before	before	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	elections	election	NNS	_	10	pobj	_	O
+13	Trump	trump	NNP	pos2=NN	16	nsubj	_	U-ORG
+14	would	would	MD	_	16	aux	_	O
+15	have	have	VB	_	16	aux	_	O
+16	played	play	VBN	_	12	relcl	_	O
+17	the	the	DT	_	18	det	_	O
+18	game	game	NN	_	16	dobj	_	O
+19	differently	differently	RB	_	16	advmod	_	O
+20	.	.	.	_	1	punct	_	O
+
+1	3	0	CD	_	0	root	_	U-CARDINAL
+2	/	/	SYM	pos2=,	1	punct	_	O
+

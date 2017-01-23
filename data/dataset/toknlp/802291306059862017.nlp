@@ -1,0 +1,27 @@
+1	@Airmanfirst	@airmanfirst	NNP	pos2=LS	2	compound	_	U-ORG
+2	@tan123	@tan0	NN	pos2=PRP	3	compound	_	O
+3	Agree	agree	NNP	pos2=VBP	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	And	and	CC	_	19	cc	_	O
+2	if	if	IN	_	4	mark	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	add	add	VBP	_	19	advcl	_	O
+5	self-driving	self-driving	JJ	pos2=VBG	6	nmod	_	O
+6	cars	car	NNS	_	4	dobj	_	O
+7	to	to	IN	_	4	prep	_	O
+8	the	the	DT	_	11	det	_	O
+9	solar	solar	JJ	_	11	nmod	_	O
+10	panel	panel	NN	_	11	compound	_	O
+11	roads	road	NNS	_	7	pobj	_	O
+12	,	,	,	_	11	punct	_	O
+13	winter	winter	NN	_	19	nsubj	_	O
+14	in	in	IN	_	13	prep	_	O
+15	snow	snow	NN	_	16	compound	_	O
+16	country	country	NN	_	14	pobj	_	O
+17	will	will	MD	_	19	aux	_	O
+18	really	really	RB	_	19	advmod	_	O
+19	be	be	VB	_	0	root	_	O
+20	fun	fun	JJ	_	19	acomp	_	O
+21	.	.	.	_	19	punct	_	O
+

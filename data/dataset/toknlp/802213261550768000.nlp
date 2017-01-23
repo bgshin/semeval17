@@ -1,0 +1,14 @@
+1	So	so	RB	pos2=CC	4	advmod	_	O
+2	Mike	mike	NNP	_	3	compound	_	B-PERSON
+3	Pence	penny	NNP	_	4	nsubj	_	L-PERSON
+4	believes	believe	VBZ	_	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	"	"	``	_	7	punct	_	O
+7	fixing	fix	VBG	_	5	pcomp	_	O
+8	"	"	''	pos2=``	7	punct	_	O
+9	non-straight	non-straight	JJ	_	10	nmod	_	O
+10	people	people	NNS	_	12	poss	_	O
+11	's	's	POS	_	10	case	_	O
+12	sexuality	sexuality	NN	_	7	dobj	_	O
+13	....	..	.	pos2=,	4	punct	_	O
+

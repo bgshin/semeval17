@@ -1,0 +1,17 @@
+1	Rajbehra	rajbehra	NNP	pos2=DT	2	compound	_	U-ORG
+2	cubs	cub	NNS	pos2=VBZ	3	nsubj	_	O
+3	enjoying	enjoy	VBG	_	0	root	_	O
+4	their	their	PRP$	_	6	poss	_	O
+5	afternoon	afternoon	NN	_	6	compound	_	U-TIME
+6	siesta	siesta	NN	_	3	dobj	_	O
+7	in	in	IN	pos2=RB	3	prep	_	O
+8	#Bandhavgarh	#bandhavgarh	NNP	pos2=NN	7	pobj	_	U-GPE
+9	.	.	.	_	3	punct	_	O
+
+1	#bigcats	#bigcats	UH	pos2=NNS	2	discourse	_	O
+2	#Tigers	#tigers	NNS	pos2=NNPS	0	root	_	O
+3	#wildlifephotography	#wildlifephotography	UH	pos2=WRB	2	discourse	_	O
+4	#wildlife	#wildlife	UH	pos2=FW	2	discourse	_	O
+5	…	…	NFP	pos2=-LRB-	2	discourse	_	O
+6	https://t.co/0ahVGaVrYG	#hlink#	ADD	_	2	dobj	_	O
+

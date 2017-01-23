@@ -1,0 +1,33 @@
+1	@rtoberl	@rtoberl	UH	pos2=MD	3	discourse	_	O
+2	A	a	DT	_	3	det	_	O
+3	start	start	NN	pos2=VB	0	root	_	O
+4	!!	!!	.	_	3	punct	_	O
+
+1	need	need	VB	pos2=NN	0	root	_	O
+2	ot	ot	TO	pos2=NN	3	aux	_	O
+3	deport	deport	VB	pos2=VBP	1	xcomp	_	O
+4	all	all	DT	pos2=RB	6	det	_	O
+5	bad	bad	JJ	_	6	nmod	_	O
+6	hombres	hombre	NNS	_	3	dobj	_	O
+7	fast	fast	RB	pos2=JJ	8	nmod	_	O
+8	day	day	NN	_	3	npadvmod	_	O
+9	one	#crd#	CD	_	8	nmod	_	O
+10	.	.	.	_	1	punct	_	O
+
+1	Allgans	allgans	NNS	pos2=NNP	2	nsubj	_	O
+2	locked	lock	VBN	pos2=VBD	0	root	_	O
+3	up	up	RP	_	2	prt	_	O
+4	or	or	CC	_	2	cc	_	O
+5	go	go	VB	_	2	conj	_	O
+6	back	back	RB	_	5	advmod	_	O
+7	to	to	IN	_	6	prep	_	O
+8	El	el	NNP	_	9	compound	_	B-GPE
+9	Salavador	salavador	NNP	_	7	pobj	_	L-GPE
+10	or	or	CC	_	5	cc	_	O
+11	wherever	wherever	WRB	_	15	pobj	_	O
+12	TF	tf	NNP	pos2=NN	14	vocative	_	U-ORG
+13	they	they	PRP	_	14	nsubj	_	O
+14	are	be	VBP	_	5	conj	_	O
+15	from	from	IN	_	14	prep	_	O
+16	!	!	.	_	2	punct	_	O
+

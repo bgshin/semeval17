@@ -1,0 +1,27 @@
+1	@DROSS38040	@dross0	NN	pos2=NNS	4	compound	_	O
+2	@walkmanF29	@walkmanf0	NN	pos2=NNS	4	compound	_	O
+3	@KevJames91	@kevjames0	NN	pos2=XX	4	compound	_	O
+4	@realDonaldTrump	@realdonaldtrump	NN	pos2=XX	0	root	_	O
+5	Yes	yes	UH	_	4	discourse	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	US	us	NNP	pos2=NN	2	compound	_	U-GPE
+2	citizens	citizen	NNS	_	4	nsubj	_	O
+3	happily	happily	RB	_	4	advmod	_	O
+4	employed	employ	VBN	pos2=VBD	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	MINIMAL	minimal	JJ	pos2=NNP	11	nmod	_	O
+7	(	(	-LRB-	_	9	punct	_	O
+8	not	not	RB	_	9	neg	_	O
+9	minimum	minimum	JJ	pos2=NN	6	parataxis	_	O
+10	)	)	-RRB-	_	9	punct	_	O
+11	wage	wage	NN	_	5	pobj	_	O
+12	!	!	.	_	4	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	see	see	VB	_	0	root	_	O
+4	it	it	PRP	_	3	dobj	_	O
+5	now	now	RB	_	3	advmod	_	O
+6	!	!	.	_	3	punct	_	O
+

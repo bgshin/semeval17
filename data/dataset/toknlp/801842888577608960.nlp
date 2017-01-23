@@ -1,0 +1,17 @@
+1	#Ignite	#ignite	NNP	pos2=UH	5	vocative	_	U-GPE
+2	,	,	,	_	1	punct	_	O
+3	#inspire	#inspire	NNP	pos2=VB	1	conj	_	U-GPE
+4	and	and	CC	_	3	cc	_	O
+5	#motivate	#motivate	VB	pos2=VBD	0	root	_	O
+6	your	your	PRP$	_	8	poss	_	O
+7	next	next	JJ	pos2=RB	8	nmod	_	O
+8	#meeting	#meeting	NN	pos2=NNP	5	dobj	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	Discover	discover	VB	pos2=VBP	0	root	_	O
+2	https://t.co/GkOUmepYJu#DominatingYourMind	#hlink#	ADD	_	6	nmod	_	U-ORG
+3	@nytimes	@nytimes	NNS	pos2=IN	4	compound	_	O
+4	#DYM	#dym	NN	pos2=XX	1	dobj	_	O
+5	@NYTMetro	@nytmetro	ADD	pos2=FW	1	punct	_	B-DATE
+6	#NBAwards	#nbawards	NNS	pos2=ADD	5	pobj	_	L-DATE
+

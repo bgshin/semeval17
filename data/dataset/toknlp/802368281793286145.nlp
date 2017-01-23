@@ -1,0 +1,8 @@
+1	@Scarsella	@scarsella	NNP	pos2=NN	4	vocative	_	O
+2	here	here	RB	_	4	advmod	_	O
+3	ya	ya	PRP	pos2=TO	4	nsubj	_	O
+4	go	go	VB	pos2=VBP	0	root	_	O
+5	Einstein	einstein	NNP	pos2=GW	6	nmod	_	O
+6	https://t.co/2P7IYswZWW	#hlink#	ADD	pos2=NNP	3	appos	_	O
+7	@talexander	@talexander	-RRB-	pos2=.	4	punct	_	O
+

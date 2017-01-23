@@ -1,0 +1,13 @@
+1	Nice	nice	JJ	_	2	nmod	_	O
+2	words	word	NNS	_	0	root	_	O
+3	by	by	IN	_	2	prep	_	O
+4	@BritishVogue	@britishvogue	NNP	pos2=VBG	5	compound	_	O
+5	Jan	jan	NNP	_	7	compound	_	U-PERSON
+6	cover	cover	NN	pos2=VBP	7	compound	_	O
+7	girl	girl	NN	_	9	compound	_	O
+8	Ashley	ashley	NNP	_	9	compound	_	B-PERSON
+9	Graham	graham	NNP	_	3	pobj	_	L-PERSON
+10	in	in	IN	_	2	prep	_	O
+11	@lennyletter	@lennyletter	GW	pos2=NNP	10	pobj	_	U-DATE
+12	https://t.co/6yOaHcR3js	#hlink#	ADD	pos2=NN	10	pobj	_	O
+

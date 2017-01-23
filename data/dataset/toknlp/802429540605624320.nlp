@@ -1,0 +1,13 @@
+1	#FidelCastro	#fidelcastro	ADD	pos2=XX	3	det	_	O
+2	dear	dear	JJ	_	3	nmod	_	O
+3	liberals	liberal	NNS	_	0	dative	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	forgot	forget	VBD	pos2=VBP	3	relcl	_	O
+6	the	the	DT	_	7	det	_	O
+7	camps	camp	NNS	_	5	dobj	_	O
+8	he	he	PRP	_	9	nsubj	_	O
+9	put	put	VBD	_	7	relcl	_	O
+10	aids	aids	NNS	pos2=VBG	11	compound	_	O
+11	patients	patient	NNS	_	9	dobj	_	O
+12	in	in	IN	pos2=RB	9	prep	_	O
+

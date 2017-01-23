@@ -1,0 +1,16 @@
+1	#maybehisfoundation	#maybehisfoundation	NN	pos2=UH	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	pay	pay	VB	_	0	root	_	O
+4	his	his	PRP$	_	6	poss	_	O
+5	legal	legal	JJ	_	6	nmod	_	O
+6	fees🙄🙄	fees🙄🙄	NNS	pos2=NN	3	dobj	_	O
+7	#AuditTheVote	#auditthevote	ADD	pos2=POS	3	punct	_	O
+8	#StillWithHer	#stillwithher	IN	pos2=NNP	3	prep	_	O
+9	Donald	donald	NNP	_	10	compound	_	B-PERSON
+10	Trump	trump	NNP	_	8	pobj	_	L-PERSON
+11	and	and	CC	_	10	cc	_	O
+12	the	the	DT	_	14	det	_	B-ORG
+13	Lawsuit	lawsuit	NNP	_	14	compound	_	I-ORG
+14	Presidency	presidency	NNP	pos2=NN	10	conj	_	L-ORG
+15	https://t.co/6L900hd1Ci	#hlink#	ADD	_	3	dobj	_	O
+

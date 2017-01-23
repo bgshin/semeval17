@@ -1,0 +1,26 @@
+1	If	if	IN	_	4	mark	_	O
+2	you	you	PRP	_	4	nsubj	_	O
+3	're	be	VBP	_	4	aux	_	O
+4	going	go	VBG	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	tell	tell	VB	_	4	xcomp	_	O
+7	doctors	doctor	NNS	_	6	dobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	cut	cut	VB	_	6	xcomp	_	O
+10	back	back	RB	pos2=RP	9	prt	_	O
+11	on	on	IN	_	9	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	amount	amount	NN	_	11	pobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	pain	pain	NN	_	16	compound	_	O
+16	meds	med	NNS	_	14	pobj	_	O
+17	they	they	PRP	_	18	nsubj	_	O
+18	prescribe	prescribe	VBP	_	13	relcl	_	O
+19	,	,	,	_	9	punct	_	O
+20	just	just	RB	_	21	advmod	_	O
+21	legalize	legalize	VB	_	24	advcl	_	O
+22	medical	medical	JJ	_	23	nmod	_	O
+23	marijuana	marijuana	NN	_	21	dobj	_	O
+24	nationally	nationally	RB	_	19	meta	_	O
+25	already	already	RB	_	21	advmod	_	O
+

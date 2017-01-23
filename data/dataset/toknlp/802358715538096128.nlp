@@ -1,0 +1,22 @@
+1	Hey	hey	UH	_	3	discourse	_	O
+2	#Trump	#trump	NNP	pos2=POS	3	compound	_	U-ORG
+3	holes	hole	NNS	pos2=VBZ	0	root	_	O
+4	..	..	.	pos2=,	3	punct	_	O
+
+1	so	so	RB	pos2=IN	3	advmod	_	O
+2	he	he	PRP	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	try	try	VB	pos2=JJ	3	xcomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	drain	drain	VB	_	4	xcomp	_	O
+7	swamp	swamp	NN	_	6	dobj	_	O
+8	by	by	IN	_	6	prep	_	O
+9	putting	put	VBG	_	8	pcomp	_	O
+10	up	up	RP	_	9	prt	_	O
+11	exclusive	exclusive	JJ	_	12	nmod	_	O
+12	members	member	NNS	_	9	dobj	_	O
+13	only	only	RB	_	15	advmod	_	O
+14	luxury	luxury	NN	pos2=JJ	15	compound	_	O
+15	condos	condo	NNS	_	16	dep	_	O
+16	https://t.co/29NMwRVNZo	#hlink#	ADD	_	3	dep	_	O
+

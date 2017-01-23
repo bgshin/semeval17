@@ -1,0 +1,21 @@
+1	Great	great	JJ	pos2=RB	5	dep	_	O
+2	now	now	RB	_	5	advmod	_	O
+3	we	we	PRP	_	5	nsubj	_	O
+4	're	be	VBP	_	5	aux	_	O
+5	entering	enter	VBG	_	0	root	_	O
+6	#ThisIsUs	#thisisus	NNP	pos2=DT	7	compound	_	U-PERSON
+7	territory	territory	NN	_	5	dobj	_	O
+8	...	..	.	pos2=,	5	punct	_	O
+
+1	dad	dad	NN	_	2	nsubj	_	O
+2	dies	die	VBZ	_	0	root	_	O
+3	so	so	RB	pos2=IN	5	advmod	_	O
+4	mom	mom	NN	_	5	nsubj	_	O
+5	gets	get	VBZ	_	2	advcl	_	O
+6	with	with	IN	_	5	prep	_	O
+7	dad	dad	NN	_	10	poss	_	O
+8	's	's	POS	_	7	case	_	O
+9	best	good	JJS	_	10	nmod	_	O
+10	friend	friend	NN	_	6	pobj	_	O
+11	#GilmoreGirlsRevival	#gilmoregirlsrevival	.	pos2=ADD	2	punct	_	O
+

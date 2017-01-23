@@ -1,0 +1,30 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	hear	hear	VBP	_	0	root	_	O
+3	this	this	DT	_	4	nsubj	_	O
+4	is	be	VBZ	_	2	ccomp	_	O
+5	the	the	DT	_	6	det	_	O
+6	last	last	JJ	_	4	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	#westworld	#westworld	NN	pos2=NNP	7	pobj	_	O
+9	for	for	IN	_	4	prep	_	O
+10	a	a	DT	_	11	det	_	O
+11	while	while	NN	_	9	pobj	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	'm	be	VBP	_	3	aux	_	O
+3	going	go	VBG	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	miss	miss	VB	_	3	xcomp	_	O
+6	the	the	DT	_	7	det	_	O
+7	#themesong	#themesong	NN	pos2=XX	5	dobj	_	O
+8	the	the	DT	_	9	advmod	_	O
+9	most	most	RBS	pos2=JJS	5	advmod	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	quiet	quiet	JJ	pos2=RB	4	advmod	_	O
+4	inspirational	inspirational	JJ	pos2=NN	2	acomp	_	O
+5	.	.	.	_	2	punct	_	O
+

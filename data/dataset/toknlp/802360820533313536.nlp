@@ -1,0 +1,21 @@
+1	Obama	obama	NNP	_	2	nsubj	_	U-PERSON
+2	Downplays	downplay	VBZ	pos2=NNP	0	root	_	O
+3	Trump	trump	NNP	_	5	compound	_	O
+4	Trade	trade	NNP	_	5	compound	_	O
+5	Agenda	agenda	NNP	pos2=NN	2	dobj	_	O
+6	https://t.co/kH22hJxqJx	#hlink#	ADD	pos2=POS	10	compound	_	O
+7	O	o	NNP	pos2=-RRB-	9	nsubj	_	O
+8	can	can	MD	_	9	aux	_	O
+9	stick	stick	VB	_	2	ccomp	_	O
+10	TPP	tpp	NNP	pos2=NN	9	dobj	_	O
+11	&	&	CC	_	10	cc	_	O
+12	his	his	PRP$	_	14	poss	_	O
+13	0	0	CD	_	14	nmod	_	U-CARDINAL
+14	legacy	legacy	NN	_	10	conj	_	O
+15	#tcot	#tcot	IN	pos2=ADD	9	prep	_	O
+16	#pjneet	#pjneet	FW	pos2=UH	20	dep	_	O
+17	#maga	#maga	FW	pos2=UH	20	dep	_	O
+18	#lnyhbt	#lnyhbt	FW	pos2=UH	20	dep	_	O
+19	#wakeupamerica	#wakeupamerica	FW	pos2=UH	20	dep	_	O
+20	#tgdn	#tgdn	FW	pos2=UH	9	advmod	_	O
+

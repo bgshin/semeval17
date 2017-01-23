@@ -1,0 +1,29 @@
+1	If	if	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	support	support	VBP	_	8	advcl	_	O
+4	this	this	DT	_	3	dobj	_	O
+5	,	,	,	_	8	punct	_	O
+6	history	history	NN	_	8	nsubj	_	O
+7	will	will	MD	_	8	aux	_	O
+8	remember	remember	VB	_	0	root	_	O
+9	you	you	PRP	_	8	dobj	_	O
+10	exactly	exactly	RB	_	12	advmod	_	O
+11	as	as	IN	_	13	mark	_	O
+12	you	you	PRP	_	13	nsubj	_	O
+13	are	be	VBP	_	8	advcl	_	O
+14	-	-	:	pos2=HYPH	8	punct	_	O
+15	Deplorables	deplorables	NNP	pos2=NNPS	13	attr	_	O
+16	&	&	CC	_	15	cc	_	O
+17	Irredeemables	irredeemables	NNP	_	15	conj	_	O
+18	.	.	.	_	8	punct	_	O
+
+1	He	he	PRP	_	3	nsubj	_	O
+2	'll	will	MD	_	3	aux	_	O
+3	get	get	VB	_	0	root	_	O
+4	you	you	PRP	_	3	dobj	_	O
+5	,	,	,	_	3	punct	_	O
+6	too	too	RB	_	3	advmod	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	https://t.co/dCIgAsfFek	#hlink#	ADD	_	0	root	_	U-ORG
+

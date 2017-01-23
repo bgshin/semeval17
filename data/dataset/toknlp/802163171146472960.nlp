@@ -1,0 +1,20 @@
+1	#Daesh	#daesh	NNP	pos2=XX	2	nsubj	_	U-ORG
+2	encouraging	encourage	VBG	_	0	root	_	O
+3	its	its	PRP$	_	5	poss	_	O
+4	Jihadi	jihadi	JJ	pos2=NNP	5	nmod	_	O
+5	fighters	fighter	NNS	_	2	dobj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	migrate	migrate	VB	_	2	xcomp	_	O
+8	to	to	IN	_	7	prep	_	O
+9	#Africa	#africa	NNP	_	8	pobj	_	U-GPE
+10	,	,	,	_	2	punct	_	O
+11	to	to	IN	pos2=TO	2	prep	_	O
+12	#Libya	#libya	NNP	_	11	pobj	_	U-GPE
+13	,	,	,	_	12	punct	_	O
+14	#Nigeria	#nigeria	NNP	_	12	conj	_	U-GPE
+15	and	and	CC	_	14	cc	_	O
+16	#Egypt	#egypt	NNP	_	18	poss	_	U-GPE
+17	's	's	POS	pos2=AFX	16	case	_	O
+18	#Sinai	#sinai	NNP	pos2=ADD	14	conj	_	O
+19	https://t.co/o6Orevjigx	#hlink#	ADD	_	2	dep	_	O
+

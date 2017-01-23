@@ -1,0 +1,27 @@
+1	The	the	DT	_	3	det	_	O
+2	radical	radical	JJ	_	3	nmod	_	O
+3	left	left	NN	pos2=VBD	4	nsubj	_	O
+4	positioned	position	VBN	pos2=VBD	0	root	_	O
+5	Trump	trump	NNP	pos2=NN	4	dobj	_	U-ORG
+6	as	as	IN	_	4	prep	_	O
+7	a	a	DT	_	8	det	_	O
+8	Nazi	nazi	NNP	_	6	pobj	_	U-NORP
+9	when	when	WRB	_	12	advmod	_	O
+10	they	they	PRP	_	12	nsubj	_	O
+11	themselves	themselves	PRP	pos2=VBZ	10	appos	_	O
+12	r	r	VBP	pos2=RP	4	advcl	_	O
+13	deeply	deeply	RB	_	14	advmod	_	O
+14	anti	anti	AFX	pos2=JJ	15	advmod	_	O
+15	Semitic	semitic	JJ	_	12	acomp	_	U-NORP
+16	and	and	CC	_	12	cc	_	O
+17	their	their	PRP$	_	18	poss	_	O
+18	riots	riot	NNS	_	19	nsubj	_	O
+19	are	be	VBP	_	12	conj	_	O
+20	mini	mini	JJ	pos2=AFX	21	nmod	_	O
+21	Intifadas	intifada	NNS	pos2=NNPS	19	attr	_	O
+22	.	.	.	_	4	punct	_	O
+
+1	Keith	keith	NNP	_	2	compound	_	B-PERSON
+2	Ellison	ellison	NNP	_	0	root	_	L-PERSON
+3	.	.	.	_	2	punct	_	O
+

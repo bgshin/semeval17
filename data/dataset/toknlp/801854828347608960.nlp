@@ -1,0 +1,22 @@
+1	Special	special	JJ	_	2	nmod	_	O
+2	kind	kind	NN	pos2=RB	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	friendship	friendship	NN	_	3	pobj	_	O
+5	!	!	.	_	2	punct	_	O
+
+1	Special	special	JJ	_	2	nmod	_	O
+2	kind	kind	NN	pos2=RB	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	Celebration	celebration	NN	pos2=NNP	3	pobj	_	O
+5	!	!	.	_	2	punct	_	O
+
+1	Special	special	JJ	_	2	nmod	_	O
+2	kind	kind	NN	pos2=RB	9	dep	_	O
+3	of	of	IN	_	2	prep	_	O
+4	Love	love	NNP	pos2=NN	7	compound	_	O
+5	❤😍😍	❤😍😍	NNP	pos2=HYPH	7	compound	_	O
+6	#Alba	#alba	NNP	pos2=POS	7	compound	_	O
+7	#Messi	#messi	NNP	pos2=POS	3	pobj	_	O
+8	#FCBlive	#fcblive	ADD	pos2=GW	9	dep	_	O
+9	https://t.co/zz3CSrMCel	#hlink#	ADD	_	0	root	_	U-ORG
+

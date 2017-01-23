@@ -1,0 +1,24 @@
+1	AfD	afd	NN	pos2=JJ	2	compound	_	O
+2	lawmaker	lawmaker	NN	_	5	nsubj	_	O
+3	in	in	IN	_	2	prep	_	O
+4	Berlin	berlin	NNP	_	3	pobj	_	U-GPE
+5	compares	compare	VBZ	_	0	root	_	O
+6	party	party	NN	_	7	compound	_	O
+7	members	member	NNS	_	5	dobj	_	O
+8	to	to	IN	_	5	prep	_	O
+9	Jews	jew	NNPS	_	8	pobj	_	U-NORP
+10	in	in	IN	_	9	prep	_	O
+11	Nazi	nazi	NNP	_	12	compound	_	U-NORP
+12	Germany	germany	NNP	_	10	pobj	_	U-GPE
+13	,	,	,	_	5	punct	_	O
+14	after	after	IN	_	17	mark	_	O
+15	restaurant	restaurant	NN	_	16	compound	_	O
+16	owner	owner	NN	_	17	nsubj	_	O
+17	says	say	VBZ	_	5	advcl	_	O
+18	they	they	PRP	_	21	nsubj	_	O
+19	're	be	VBP	_	21	aux	_	O
+20	not	not	RB	_	21	neg	_	O
+21	welc	welc	VBG	pos2=JJ	17	ccomp	_	O
+22	…	…	NFP	pos2=-LRB-	21	cc	_	O
+23	https://t.co/ateGhze3qH	#hlink#	ADD	_	21	dobj	_	O
+

@@ -1,0 +1,23 @@
+1	#Israel	#israel	NNP	pos2=PDT	9	nsubj	_	O
+2	the	the	DT	_	5	det	_	O
+3	most	most	JJS	pos2=RBS	5	nmod	_	O
+4	humane	humane	JJ	_	5	nmod	_	O
+5	soldiers	soldier	NNS	_	1	appos	_	O
+6	in	in	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	#world	#world	NN	pos2=JJ	6	pobj	_	O
+9	laugh	laugh	VB	pos2=NN	0	root	_	O
+10	as	as	IN	_	9	prep	_	O
+11	a	a	DT	_	13	det	_	O
+12	#Palestine	#palestine	NNP	pos2=JJ	13	compound	_	U-ORG
+13	man	man	NN	_	10	pobj	_	O
+14	is	be	VBZ	_	15	auxpass	_	O
+15	crushed	crush	VBN	_	9	conj	_	O
+16	at	at	IN	_	15	prep	_	O
+17	a	a	DT	_	19	det	_	O
+18	#segregation	#segregation	NNP	pos2=CD	19	compound	_	O
+19	gate	gate	NN	_	16	pobj	_	O
+20	.	.	.	_	9	punct	_	O
+
+1	https://t.co/ZDiwaCku9Z	#hlink#	ADD	_	0	root	_	U-ORG
+

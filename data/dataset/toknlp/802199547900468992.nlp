@@ -1,0 +1,25 @@
+1	What	what	WP	_	12	dobj	_	O
+2	do	do	VBP	_	12	aux	_	O
+3	Bernie	bernie	NNP	_	4	compound	_	B-PERSON
+4	Sanders	sanders	NNP	_	12	nsubj	_	L-PERSON
+5	,	,	,	_	4	punct	_	O
+6	Donald	donald	NNP	_	7	compound	_	B-PERSON
+7	Trump	trump	NNP	_	4	conj	_	L-PERSON
+8	and	and	CC	_	7	cc	_	O
+9	Steve	steve	NNP	_	10	compound	_	B-PERSON
+10	Bannon	bannon	NNP	_	7	conj	_	L-PERSON
+11	all	all	DT	pos2=RB	4	appos	_	O
+12	have	have	VBP	pos2=VB	0	root	_	O
+13	in	in	IN	pos2=RB	12	prep	_	O
+14	common	common	JJ	pos2=NNP	13	pcomp	_	O
+15	?	?	.	_	12	punct	_	O
+
+1	One	#crd#	CD	pos2=PRP	2	nsubj	_	U-CARDINAL
+2	guess	guess	VB	pos2=NN	0	root	_	O
+3	only	only	RB	_	4	advmod	_	O
+4	per	per	IN	_	2	prep	_	O
+5	person	person	NN	_	4	pobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	https://t.co/j3Qf2ZzhbM	#hlink#	ADD	_	0	root	_	U-ORG
+

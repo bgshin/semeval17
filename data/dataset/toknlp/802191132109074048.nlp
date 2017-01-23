@@ -1,0 +1,18 @@
+1	#Yemen	#yemen	NN	pos2=NNS	7	dep	_	O
+2	:	:	:	_	7	punct	_	O
+3	Yemen	yemen	NNP	_	7	dep	_	U-GPE
+4	:	:	:	_	7	punct	_	O
+5	Saudi	saudi	NNP	_	6	compound	_	B-GPE
+6	Arabia	arabia	NNP	_	7	nsubj	_	L-GPE
+7	Supports	support	VBZ	_	0	root	_	O
+8	WFP	wfp	NNP	pos2=NN	7	dobj	_	U-ORG
+9	To	to	TO	pos2=IN	10	aux	_	O
+10	Address	address	VB	_	7	xcomp	_	O
+11	Malnutrition	malnutrition	NNP	pos2=NN	10	dobj	_	O
+12	In	in	IN	pos2=NNP	10	prep	_	O
+13	Hodeidah	hodeidah	NNP	_	12	pobj	_	U-GPE
+14	,	,	,	_	13	punct	_	O
+15	Yemen	yemen	NNP	pos2=GW	17	nmod	_	U-GPE
+16	https://t.co/PEldjaZYIb	#hlink#	ADD	pos2=POS	17	nmod	_	O
+17	https://t.co/97XulWcn3g	#hlink#	ADD	_	7	dep	_	U-ORG
+

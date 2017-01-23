@@ -1,0 +1,27 @@
+1	Ruddock	ruddock	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	wants	want	VBZ	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	stay	stay	VB	_	2	xcomp	_	O
+5	competitive	competitive	JJ	_	4	acomp	_	O
+6	on	on	IN	_	5	prep	_	O
+7	fossil	fossil	NN	pos2=JJ	8	compound	_	O
+8	fuels	fuel	NNS	_	6	pobj	_	O
+9	...	..	.	pos2=,	2	punct	_	O
+
+1	but	but	CC	_	5	cc	_	O
+2	we	we	PRP	_	5	nsubjpass	_	O
+3	will	will	MD	_	5	aux	_	O
+4	be	be	VB	_	5	auxpass	_	O
+5	left	leave	VBN	pos2=JJ	0	root	_	O
+6	holding	hold	VBG	_	5	xcomp	_	O
+7	the	the	DT	_	9	det	_	O
+8	dirty	dirty	JJ	_	9	nmod	_	O
+9	coal	coal	NN	_	6	dobj	_	O
+10	as	as	IN	_	6	prep	_	O
+11	the	the	DT	_	13	det	_	O
+12	world	world	NN	_	13	compound	_	O
+13	changes	change	NNS	pos2=VBZ	10	pobj	_	O
+14	without	without	IN	_	13	prep	_	O
+15	us	us	PRP	_	14	pobj	_	O
+16	#TheDrum	#thedrum	.	pos2=ADD	5	punct	_	O
+

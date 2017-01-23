@@ -1,0 +1,24 @@
+1	The	the	DT	_	3	det	_	O
+2	real	real	JJ	_	3	nmod	_	O
+3	evil	evil	NN	pos2=JJ	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	those	those	DT	_	4	attr	_	O
+6	who	who	WP	_	7	nsubj	_	O
+7	imposed	impose	VBD	_	5	relcl	_	O
+8	a	a	DT	_	10	det	_	O
+9	trade	trade	NN	_	10	compound	_	O
+10	embargo	embargo	NN	_	7	dobj	_	O
+11	over	over	IN	_	10	prep	_	O
+12	Cuba	cuba	NNP	_	11	pobj	_	U-GPE
+13	for	for	IN	_	7	prep	_	O
+14	55yrs	0yrs	NNS	pos2=NNPS	13	pobj	_	O
+15	&	&	CC	_	7	cc	_	O
+16	watched	watch	VBD	pos2=VBN	7	conj	_	O
+17	as	as	IN	_	19	mark	_	O
+18	ppl	ppl	NNS	pos2=NNP	19	nsubj	_	O
+19	suffered	suffer	VBD	pos2=VBN	16	advcl	_	O
+20	&	&	CC	_	19	cc	_	O
+21	vilified	vilify	VBN	pos2=VBD	19	conj	_	O
+22	…	…	NFP	pos2=-LRB-	23	punct	_	O
+23	https://t.co/0liIeWoHlu	#hlink#	ADD	_	4	attr	_	O
+

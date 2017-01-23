@@ -1,0 +1,25 @@
+1	NEWS	news	NN	_	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Christian	christian	JJ	pos2=NNP	4	nmod	_	B-ORG
+4	Media	media	NNP	pos2=NNS	0	root	_	L-ORG
+5	in	in	IN	_	4	prep	_	O
+6	Nigeria	nigeria	NNP	_	5	pobj	_	U-GPE
+7	:	:	:	_	4	punct	_	O
+8	Yolanda	yolanda	NNP	_	9	compound	_	B-PERSON
+9	Adams	adams	NNP	_	4	conj	_	L-PERSON
+10	and	and	CC	_	9	cc	_	O
+11	Common	common	JJ	pos2=NNP	12	nmod	_	O
+12	singing	singing	NN	pos2=VBG	9	conj	_	O
+13	"	"	``	_	14	punct	_	O
+14	Glory	glory	NN	pos2=NNP	9	conj	_	O
+15	"	"	''	_	14	punct	_	O
+16	at	at	IN	_	9	prep	_	O
+17	the	the	DT	_	18	det	_	O
+18	BET	bet	NN	pos2=NNP	21	poss	_	U-ORG
+19	's	's	POS	pos2=VBZ	18	case	_	O
+20	#ThankYouObama	#thankyouobama	NN	pos2=NNP	21	compound	_	O
+21	event	event	NN	_	16	pobj	_	O
+22	by	by	IN	_	9	prep	_	O
+23	…	…	NFP	pos2=-LRB-	22	pobj	_	O
+24	https://t.co/hVCpEFJf8x	#hlink#	ADD	pos2=NN	4	appos	_	U-ORG
+

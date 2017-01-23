@@ -1,0 +1,10 @@
+1	Maybe	maybe	RB	pos2=NNP	4	advmod	_	O
+2	Chelsea	chelsea	NNP	_	4	nsubj	_	U-PERSON
+3	too	too	RB	_	4	advmod	_	O
+4	❤️👍#yr	❤️👍#yr	IN	pos2=XX	9	dep	_	O
+5	#thisisus	#thisisus	XX	pos2=FW	9	dep	_	O
+6	@MClaireEgan	@mclaireegan	XX	pos2=GW	9	nmod	_	O
+7	@justinhartley	@justinhartley	XX	pos2=GW	9	nmod	_	O
+8	#FridayThoughts	#fridaythoughts	GW	pos2=XX	9	nmod	_	O
+9	https://t.co/UPSnQIOQ92	#hlink#	ADD	_	0	root	_	U-ORG
+

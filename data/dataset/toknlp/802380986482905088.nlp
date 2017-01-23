@@ -1,0 +1,26 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	love	love	VBP	_	0	root	_	O
+3	how	how	WRB	_	5	advmod	_	O
+4	conservatives	conservative	NNS	_	5	nsubj	_	O
+5	say	say	VBP	_	2	ccomp	_	O
+6	liberals	liberal	NNS	_	7	nsubj	_	O
+7	are	be	VBP	_	5	ccomp	_	O
+8	the	the	DT	_	10	det	_	O
+9	biggest	big	JJS	_	10	nmod	_	O
+10	crybabies	crybaby	NNS	_	7	attr	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	Give	give	VB	_	0	root	_	O
+2	me	me	PRP	_	1	dative	_	O
+3	five	#crd#	CD	_	4	nmod	_	B-TIME
+4	minutes	minute	NNS	_	1	dobj	_	L-TIME
+5	with	with	IN	_	1	prep	_	O
+6	a	a	DT	pos2=CC	7	det	_	O
+7	conservative	conservative	NN	pos2=JJ	5	pobj	_	O
+8	and	and	CC	_	1	cc	_	O
+9	I	I	PRP	_	11	nsubj	_	O
+10	'll	will	MD	_	11	aux	_	O
+11	have	have	VB	_	1	conj	_	O
+12	them	them	PRP	_	13	nsubj	_	O
+13	crying	cry	VBG	_	11	ccomp	_	O
+

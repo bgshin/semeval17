@@ -1,0 +1,22 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	bought	buy	VBD	_	0	root	_	O
+3	Seventh	#ord#	NNP	pos2=JJ	4	compound	_	U-ORDINAL
+4	Generation	generation	NNP	pos2=NN	6	compound	_	B-ORG
+5	Hand	hand	NNP	pos2=NN	6	compound	_	I-ORG
+6	Wash	wash	NNP	pos2=NN	2	dobj	_	L-ORG
+7	,	,	,	_	6	punct	_	O
+8	Fresh	fresh	NNP	pos2=JJ	9	compound	_	B-ORG
+9	Citrus	citrus	NNP	_	6	conj	_	L-ORG
+10	,	,	,	_	9	punct	_	O
+11	12	0	CD	_	12	nmod	_	B-QUANTITY
+12	Ounce	ounce	NN	pos2=NNP	9	npadvmod	_	L-QUANTITY
+13	in	in	IN	_	12	prep	_	O
+14	support	support	NN	_	13	pobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	End	end	NNP	pos2=NN	17	compound	_	O
+17	Animal	animal	NNP	pos2=NN	18	compound	_	B-PERSON
+18	Testing	testing	NN	pos2=NNP	15	pobj	_	L-PERSON
+19	...	..	.	_	2	punct	_	O
+
+1	https://t.co/T39w3n4EhD	#hlink#	ADD	_	0	root	_	U-ORG
+

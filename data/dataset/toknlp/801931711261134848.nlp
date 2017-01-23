@@ -1,0 +1,31 @@
+1	So	so	RB	_	3	advmod	_	O
+2	ur	ur	PRP$	pos2=JJ	3	nsubj	_	O
+3	saying	say	VBG	pos2=NN	0	root	_	O
+4	#tnm	#tnm	WP	pos2=UH	6	nsubjpass	_	O
+5	is	be	VBZ	_	6	auxpass	_	O
+6	comprised	comprise	VBN	_	3	ccomp	_	O
+7	of	of	IN	_	6	prep	_	O
+8	all	all	DT	_	10	det	_	O
+9	bad	bad	JJ	_	10	nmod	_	O
+10	hombres	hombre	NNS	_	7	pobj	_	O
+11	?	?	.	_	3	punct	_	O
+
+1	From	from	IN	_	12	prep	_	O
+2	the	the	DT	_	7	det	_	O
+3	many	many	JJ	_	1	pobj	_	O
+4	,	,	,	_	12	punct	_	O
+5	many	many	JJ	_	3	appos	_	O
+6	on	on	IN	_	5	prep	_	O
+7	twitter	twitter	NN	pos2=NNP	6	pobj	_	O
+8	,	,	,	_	12	punct	_	O
+9	they	they	PRP	_	12	nsubj	_	O
+10	sure	sure	RB	pos2=JJ	12	advmod	_	O
+11	do	do	VBP	_	12	aux	_	O
+12	give	give	VB	_	0	root	_	O
+13	#the	#the	PRP	pos2=RP	12	dative	_	O
+14	a	a	DT	_	16	det	_	O
+15	bad	bad	JJ	_	16	nmod	_	O
+16	n	n	NN	pos2=GW	12	dobj	_	O
+17	…	…	NFP	pos2=-LRB-	12	discourse	_	O
+18	https://t.co/GWhPvDuozC	#hlink#	ADD	_	12	dep	_	U-ORG
+

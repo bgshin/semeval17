@@ -1,0 +1,16 @@
+1	#AbaddonNewWarlordDomination	#abaddonnewwarlorddomination	NNP	pos2=ADD	2	compound	_	O
+2	Ukraine	ukraine	NNP	_	4	poss	_	U-GPE
+3	's	's	POS	_	2	case	_	O
+4	President	president	NNP	pos2=NN	7	dep	_	O
+5	:	:	:	_	7	punct	_	O
+6	Trump	trump	NNP	pos2=NN	7	nsubj	_	O
+7	Raised	raise	VBN	pos2=NNP	0	root	_	O
+8	'	'	``	pos2=''	10	punct	_	O
+9	Russian	russian	JJ	pos2=NNP	10	nmod	_	U-NORP
+10	Aggression	aggression	NN	pos2=NNP	7	dobj	_	O
+11	'	'	''	_	10	punct	_	O
+12	in	in	IN	_	10	prep	_	O
+13	Phone	phone	NN	pos2=NNP	14	compound	_	O
+14	Call	call	NN	pos2=GW	12	pobj	_	O
+15	https://t.co/HAA5efWIEN	#hlink#	ADD	pos2=NN	10	appos	_	U-ORG
+

@@ -1,0 +1,28 @@
+1	Does	do	VBZ	_	8	aux	_	O
+2	the	the	DT	_	4	det	_	B-LAW
+3	Immigration	immigration	NNP	_	4	compound	_	I-LAW
+4	Reform	reform	NNP	_	7	nmod	_	I-LAW
+5	and	and	CC	_	4	cc	_	I-LAW
+6	Control	control	NNP	_	4	conj	_	I-LAW
+7	Act	act	NNP	_	8	nsubj	_	L-LAW
+8	apply	apply	VB	pos2=VBP	0	root	_	O
+9	to	to	IN	_	8	prep	_	O
+10	your	your	PRP$	_	17	poss	_	O
+11	current	current	JJ	pos2=NN	17	nmod	_	O
+12	(	(	-LRB-	_	11	punct	_	O
+13	or	or	CC	_	11	cc	_	O
+14	most	most	RBS	_	15	advmod	_	O
+15	recent	recent	JJ	_	11	conj	_	O
+16	)	)	-RRB-	_	17	punct	_	O
+17	employer	employer	NN	_	9	pobj	_	O
+18	?	?	.	_	8	punct	_	O
+
+1	Explain	explain	VB	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	fter	fter	NN	pos2=VB	2	compound	_	O
+2	a	a	DT	pos2=LS	0	root	_	O
+3	...	..	.	pos2=:	2	punct	_	O
+
+1	https://t.co/puT9ylOqPI	#hlink#	ADD	_	0	root	_	U-ORG
+

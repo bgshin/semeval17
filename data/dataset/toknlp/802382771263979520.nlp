@@ -1,0 +1,21 @@
+1	If	if	IN	_	3	mark	_	O
+2	Trump	trump	NNP	pos2=NN	3	nsubj	_	U-ORG
+3	kills	kill	VBZ	_	6	advcl	_	O
+4	the	the	DT	_	3	dobj	_	O
+5	,	,	,	_	6	punct	_	O
+6	#TPP	#tpp	VB	pos2=NNP	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	lot	lot	NN	_	6	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	people	people	NNS	_	9	pobj	_	O
+11	will	will	MD	_	12	aux	_	O
+12	be	be	VB	_	6	conj	_	O
+13	delighted	delighted	JJ	pos2=VBN	12	acomp	_	O
+14	in	in	IN	_	12	prep	_	O
+15	both	both	CC	pos2=DT	16	preconj	_	O
+16	#Canada	#canada	NNP	_	14	pobj	_	U-ORG
+17	and	and	CC	_	16	cc	_	O
+18	the	the	DT	_	19	det	_	O
+19	#USA	#usa	NN	pos2=NNP	16	conj	_	O
+20	.	.	.	_	6	punct	_	O
+

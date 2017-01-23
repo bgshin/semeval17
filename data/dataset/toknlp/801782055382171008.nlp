@@ -1,0 +1,14 @@
+1	Pictures	picture	NNS	_	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	Players	player	NNS	_	0	root	_	O
+4	on	on	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	bench	bench	NN	_	4	pobj	_	O
+7	during	during	IN	_	3	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	game	game	NN	_	7	pobj	_	O
+10	.	.	.	_	5	nmod	_	O
+
+1	#fcblive	#fcblive	UH	pos2=ADD	2	discourse	_	O
+2	https://t.co/mcjU39G73i	#hlink#	ADD	pos2=NN	0	root	_	O
+

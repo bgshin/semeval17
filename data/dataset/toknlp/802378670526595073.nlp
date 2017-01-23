@@ -1,0 +1,9 @@
+1	This	this	DT	_	3	det	_	O
+2	Democratic	democratic	JJ	_	3	nmod	_	U-NORP
+3	congressman	congressman	NN	_	5	nsubj	_	O
+4	is	be	VBZ	_	5	aux	_	O
+5	challenging	challenge	VBG	pos2=JJ	0	root	_	O
+6	Nancy	nancy	NNP	_	7	compound	_	B-PERSON
+7	Pelosi	pelosi	NNP	_	5	dobj	_	L-PERSON
+8	https://t.co/p47ZdDcQDv	#hlink#	ADD	_	7	appos	_	O
+

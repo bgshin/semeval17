@@ -1,0 +1,15 @@
+1	Chinese	chinese	JJ	_	2	nmod	_	U-NORP
+2	scientists	scientist	NNS	_	3	nsubj	_	O
+3	convert	convert	VBP	pos2=VB	0	root	_	O
+4	infectious	infectious	JJ	_	5	nmod	_	O
+5	viruses	virus	NNS	_	3	dobj	_	O
+6	into	into	IN	_	3	prep	_	O
+7	live	live	JJ	_	8	nmod	_	O
+8	vaccines	vaccine	NNS	_	6	pobj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	tackle	tackle	VB	_	3	advcl	_	O
+11	deadly	deadly	JJ	_	12	nmod	_	O
+12	viruses	virus	NNS	_	10	dobj	_	O
+13	https://t.co/XqQyTPiwFp	#hlink#	ADD	_	14	nmod	_	O
+14	https://t.co/44EkeoSTOt	#hlink#	ADD	_	10	dobj	_	U-ORG
+

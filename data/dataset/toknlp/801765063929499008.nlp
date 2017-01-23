@@ -1,0 +1,17 @@
+1	Ebad	ebad	NNP	_	3	compound	_	B-PERSON
+2	Hussain	hussain	NNP	_	3	compound	_	I-PERSON
+3	@BrownMaaamba	@brownmaaamba	NNP	_	4	nsubj	_	L-PERSON
+4	says	say	VBZ	_	12	ccomp	_	O
+5	#Hamas	#hamas	IN	pos2=NNP	8	mark	_	O
+6	rockets	rocket	NNS	pos2=NNPS	8	nsubj	_	O
+7	often	often	RB	_	8	advmod	_	O
+8	miss	miss	VBP	_	4	ccomp	_	O
+9	,	,	,	_	12	punct	_	O
+10	so	so	RB	pos2=CC	12	advmod	_	O
+11	#Israel	#israel	NNP	pos2=EX	12	nsubj	_	U-PERSON
+12	is	be	VBZ	_	0	root	_	O
+13	the	the	DT	_	14	det	_	O
+14	terro	terro	GW	pos2=JJ	16	nmod	_	O
+15	risthttps://t.co/jSGpKPSvoF	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/JWV0dSxYj3	#hlink#	ADD	_	12	attr	_	O
+

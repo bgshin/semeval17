@@ -1,0 +1,26 @@
+1	In	in	IN	_	9	prep	_	O
+2	other	other	JJ	_	3	nmod	_	O
+3	news	news	NN	_	1	pobj	_	O
+4	,	,	,	_	9	punct	_	O
+5	North	north	NNP	_	6	compound	_	B-GPE
+6	Korea	korea	NNP	_	9	nsubj	_	L-GPE
+7	has	have	VBZ	_	9	aux	_	O
+8	been	be	VBN	_	9	aux	_	O
+9	begging	beg	VBG	_	0	root	_	O
+10	China	china	NNP	_	9	dobj	_	U-GPE
+11	to	to	TO	_	12	aux	_	O
+12	censor	censor	VB	_	9	xcomp	_	O
+13	"	"	``	pos2=''	15	punct	_	O
+14	fatty	fatty	JJ	pos2=NN	15	nmod	_	O
+15	Kim	kim	NNP	_	12	dobj	_	U-PERSON
+16	the	the	DT	_	17	det	_	O
+17	third	#ord#	JJ	pos2=NN	15	appos	_	U-ORDINAL
+18	"	"	''	pos2=``	17	punct	_	O
+19	from	from	IN	_	12	prep	_	O
+20	its	its	PRP$	_	21	poss	_	O
+21	websites	website	NNS	_	19	pobj	_	O
+22	and	and	CC	_	9	cc	_	O
+23	China	china	NNP	_	25	nsubj	_	U-GPE
+24	finally	finally	RB	_	25	advmod	_	O
+25	coalesced	coalesce	VBD	_	9	conj	_	O
+

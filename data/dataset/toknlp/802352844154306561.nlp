@@ -1,0 +1,17 @@
+1	Trump	trump	NN	pos2=NNP	2	nsubj	_	U-ORG
+2	addressed	address	VBD	_	0	root	_	O
+3	one	#crd#	CD	_	2	dobj	_	U-CARDINAL
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	top	top	JJ	_	7	nmod	_	O
+7	issues	issue	NNS	_	4	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	leftists	leftist	NNS	_	8	pobj	_	O
+10	a	a	DT	_	11	det	_	B-DATE
+11	decade	decade	NN	_	12	npadvmod	_	I-DATE
+12	ago	ago	RB	_	2	advmod	_	L-DATE
+13	&	&	CC	_	2	cc	_	O
+14	they	they	PRP	_	15	nsubj	_	O
+15	protest	protest	VBP	_	2	conj	_	O
+16	https://t.co/dsQ59aWoNf	#hlink#	ADD	_	15	dobj	_	O
+

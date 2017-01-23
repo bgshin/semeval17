@@ -1,0 +1,10 @@
+1	inLeague	inleague	NNP	pos2=``	2	compound	_	O
+2	Press	press	NNP	pos2=NN	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	out	out	RB	pos2=RP	3	advmod	_	O
+5	!	!	.	_	3	punct	_	O
+
+1	https://t.co/u4Xzpj507O	#hlink#	ADD	_	0	root	_	O
+2	#yemencrisis	#yemencrisis	-RRB-	pos2=IN	1	punct	_	O
+3	#yemen	#yemen	UH	pos2=NN	1	discourse	_	O
+

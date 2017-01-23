@@ -1,0 +1,15 @@
+1	There	there	EX	_	2	expl	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	fake	fake	JJ	_	4	nmod	_	O
+4	news	news	NN	_	2	attr	_	O
+5	,	,	,	_	2	punct	_	O
+6	and	and	CC	_	2	cc	_	O
+7	then	then	RB	_	9	advmod	_	O
+8	there	there	EX	pos2=RB	9	expl	_	O
+9	's	's	VBZ	pos2=AFX	2	conj	_	O
+10	bulls**t	bulls**t	DT	pos2=NN	11	det	_	O
+11	news	news	NN	_	9	attr	_	O
+12	.	.	.	_	9	punct	_	O
+
+1	https://t.co/8o3gChgBiZ	#hlink#	ADD	_	0	root	_	U-ORG
+

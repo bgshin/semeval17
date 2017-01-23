@@ -1,0 +1,20 @@
+1	@SheWhoVotes	@shewhovotes	NNS	pos2=NNP	3	nsubj	_	O
+2	Melania	melania	NNP	_	3	nsubj	_	U-PERSON
+3	plagiarized	plagiarize	VBD	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	speech	speech	NN	_	3	dobj	_	O
+6	by	by	IN	_	5	prep	_	O
+7	Michelle	michelle	NNP	_	8	compound	_	B-PERSON
+8	Obama	obama	NNP	_	6	pobj	_	L-PERSON
+9	.	.	.	_	3	punct	_	O
+
+1	Donald	donald	NNP	_	3	nsubj	_	U-PERSON
+2	will	will	MD	pos2=NN	3	aux	_	O
+3	plagiarized	plagiarize	VBN	pos2=VB	0	root	_	O
+4	one	#crd#	CD	pos2=NN	3	npadvmod	_	U-CARDINAL
+5	by	by	IN	_	4	prep	_	O
+6	Hitler	hitler	NNP	_	5	pobj	_	U-PERSON
+7	.	.	.	_	3	punct	_	O
+
+1	https://t.co/0XcW3LYCmp	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,20 @@
+1	Buy	buy	VB	pos2=NNP	0	root	_	O
+2	Abortion	abortion	NN	pos2=NNP	3	compound	_	O
+3	Pill	pill	NNP	pos2=NN	1	dobj	_	O
+4	online	online	RB	pos2=JJ	1	advmod	_	O
+5	|	|	SYM	pos2=,	19	punct	_	O
+6	Cheap	cheap	JJ	pos2=NNP	7	nmod	_	O
+7	Price	price	NN	pos2=NNP	19	dep	_	O
+8	|	|	SYM	pos2=,	19	punct	_	O
+9	Fast	fast	JJ	pos2=NNP	10	nmod	_	O
+10	Delivery	delivery	NN	pos2=NNP	19	dep	_	O
+11	|	|	SYM	pos2=,	19	punct	_	O
+12	Fast	fast	JJ	pos2=NNP	13	nmod	_	O
+13	Shipping	shipping	NN	pos2=NNP	19	dep	_	O
+14	|	|	SYM	pos2=,	13	punct	_	O
+15	Overnight	overnight	JJ	pos2=NNP	16	nmod	_	U-TIME
+16	Delivery	delivery	NN	pos2=NNP	13	appos	_	O
+17	|	|	SYM	pos2=,	19	punct	_	O
+18	@scoopit	@scoopit	ADD	pos2=NFP	19	punct	_	O
+19	https://t.co/NcgTVQxe2m	#hlink#	ADD	_	1	dep	_	O
+

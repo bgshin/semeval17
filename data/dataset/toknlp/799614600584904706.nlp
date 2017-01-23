@@ -1,0 +1,27 @@
+1	Trump	trump	NN	pos2=NNP	4	compound	_	O
+2	picks:	picks:	RB	pos2=NN	4	compound	_	O
+3	-	-	HYPH	pos2=SYM	4	punct	_	O
+4	Bannon	bannon	NNP	_	6	nsubj	_	O
+5	(	(	-LRB-	_	6	punct	_	O
+6	ran	run	VBD	pos2=VB	0	root	_	O
+7	a	a	DT	_	10	det	_	O
+8	white	white	JJ	_	10	nmod	_	O
+9	nationalist	nationalist	JJ	pos2=NN	10	nmod	_	O
+10	website	website	NN	_	6	dobj	_	O
+11	)	)	-RRB-	_	6	punct	_	O
+12	-	-	:	pos2=HYPH	6	punct	_	O
+13	Flynn	flynn	NNP	_	6	dobj	_	U-PERSON
+14	(	(	-LRB-	_	17	punct	_	O
+15	Putinphile	putinphile	NNP	pos2=NNS	17	nmod	_	B-ORG
+16	/	/	SYM	_	17	punct	_	I-ORG
+17	Islamophobe	islamophobe	NNP	pos2=NN	13	appos	_	L-ORG
+18	)	)	-RRB-	_	13	punct	_	O
+19	-	-	:	pos2=SYM	20	punct	_	O
+20	Sessions	session	NNS	pos2=NNPS	13	appos	_	O
+21	(	(	-LRB-	_	22	punct	_	O
+22	rejected	reject	VBD	pos2=VBN	26	nmod	_	O
+23	4	0	CD	_	24	nmod	_	U-CARDINAL
+24	judges	judge	NNS	_	22	dobj	_	O
+25	…	…	NFP	pos2=:	26	punct	_	O
+26	https://t.co/AeNjIEX89h	#hlink#	ADD	pos2=NN	6	dobj	_	O
+

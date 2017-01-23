@@ -1,0 +1,14 @@
+1	IF	if	IN	pos2=WRB	3	mark	_	O
+2	#BlackLivesMatter	#blacklivesmatter	NN	pos2=PRP	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	n't	not	RB	_	3	neg	_	O
+5	IMPORTANT	important	JJ	_	3	acomp	_	O
+6	than	than	IN	_	8	mark	_	O
+7	neither	neither	DT	pos2=CC	8	nsubj	_	O
+8	is	be	VBZ	_	3	advcl	_	O
+9	#BLACKDollars	#blackdollars	NNS	pos2=NNPS	8	attr	_	O
+10	...	..	.	pos2=,	3	punct	_	O
+
+1	💯	💯	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/YJFsDqfSu5	#hlink#	ADD	pos2=NN	0	root	_	O
+

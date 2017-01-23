@@ -1,0 +1,11 @@
+1	THAT	that	DT	pos2=IN	6	det	_	O
+2	SANDY	sandy	NNP	pos2=JJ	3	compound	_	O
+3	HOOK	hook	NNP	pos2=NN	6	compound	_	O
+4	GUN	gun	NN	pos2=NNP	5	compound	_	O
+5	CONTROL	control	NN	pos2=NNP	6	compound	_	O
+6	VIDEO	video	NN	pos2=NNP	8	nsubj	_	O
+7	REALLY	really	RB	_	8	advmod	_	O
+8	SHOOK	shake	VBD	_	0	root	_	O
+9	ME	me	PRP	_	8	dobj	_	O
+10	UP	up	RP	pos2=RB	8	prt	_	O
+

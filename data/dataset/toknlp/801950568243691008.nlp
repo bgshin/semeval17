@@ -1,0 +1,22 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'M	be	VBP	_	0	root	_	O
+3	ON	on	IN	pos2=RB	2	prep	_	O
+4	THE	the	DT	_	6	det	_	O
+5	BEST	good	JJS	_	6	nmod	_	O
+6	TEAM	team	NN	_	3	pobj	_	O
+7	IN	in	IN	pos2=NNP	6	prep	_	O
+8	THE	the	DT	_	9	det	_	O
+9	WORLD	world	NN	pos2=NNP	7	pobj	_	O
+10	AND	and	CC	_	2	cc	_	O
+11	DO	do	VBP	pos2=VB	13	aux	_	O
+12	N'T	not	RB	_	13	neg	_	O
+13	DEPEND	depend	VB	pos2=VBP	2	conj	_	O
+14	ON	on	IN	_	13	prep	_	O
+15	ANY	any	DT	_	16	det	_	O
+16	PLAYER	player	NN	_	14	pobj	_	O
+17	#fcblive	#fcblive	IN	pos2=NN	16	prep	_	O
+18	(	(	-LRB-	_	13	punct	_	O
+19	@lesportiucat	@lesportiucat	GW	pos2=UH	21	nmod	_	O
+20	)	)	-RRB-	pos2=GW	21	nmod	_	O
+21	https://t.co/WnoI73v5As	#hlink#	ADD	pos2=NN	2	dep	_	O
+

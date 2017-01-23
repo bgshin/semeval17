@@ -1,0 +1,19 @@
+1	“	"	``	pos2=SYM	6	punct	_	O
+2	True	true	JJ	_	3	nmod	_	O
+3	compassion	compassion	NN	_	6	nsubj	_	O
+4	does	do	VBZ	_	6	aux	_	O
+5	not	not	RB	_	6	neg	_	O
+6	marginalize	marginalize	VB	_	0	root	_	O
+7	anyone	anyone	NN	_	6	dobj	_	O
+8	,	,	,	_	6	punct	_	O
+9	nor	nor	CC	_	6	cc	_	O
+10	does	do	VBZ	_	12	aux	_	O
+11	it	it	PRP	_	12	nsubj	_	O
+12	humiliate	humiliate	VB	_	6	conj	_	O
+13	and	and	CC	_	12	cc	_	O
+14	exclude	exclude	VB	_	12	conj	_	O
+15	...	..	.	pos2=,	12	punct	_	O
+
+1	”	"	``	pos2=SYM	2	punct	_	O
+2	https://t.co/h1maMDUjdo	#hlink#	ADD	pos2=NN	0	root	_	O
+

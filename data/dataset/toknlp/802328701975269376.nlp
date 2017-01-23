@@ -1,0 +1,23 @@
+1	@CNNPolitics	@cnnpolitics	NNS	pos2=ADD	2	compound	_	O
+2	Result	result	NN	pos2=NNP	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	appeasement	appeasement	NN	_	3	pobj	_	O
+5	by	by	IN	_	2	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	Obama	obama	NNP	_	8	compound	_	U-PERSON
+8	admin	admin	NN	_	5	pobj	_	O
+9	.!	.!	.	_	2	punct	_	O
+
+1	Regime	regime	NN	pos2=NNP	3	nsubj	_	O
+2	was	be	VBD	_	3	aux	_	O
+3	collapsing	collapse	VBG	_	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	'09	'0	CD	_	4	pobj	_	U-DATE
+6	&	&	CC	_	3	cc	_	O
+7	@POTUS	@potus	NNP	pos2=NN	8	nsubj	_	O
+8	saved	save	VBD	_	3	conj	_	O
+9	it	it	PRP	_	8	dobj	_	O
+10	!	!	.	_	8	punct	_	O
+
+1	#IranDeal	#irandeal	ADD	pos2=XX	0	root	_	O
+

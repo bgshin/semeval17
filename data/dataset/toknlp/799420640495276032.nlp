@@ -1,0 +1,19 @@
+1	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=NNP	4	nsubj	_	O
+2	Do	do	VBP	pos2=VB	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	Forgot	forget	VB	pos2=VBN	0	root	_	O
+5	to	to	IN	pos2=TO	4	prep	_	O
+6	#BoycottPepsi	#boycottpepsi	NNP	pos2=VB	5	pobj	_	U-ORG
+7	after	after	IN	_	4	prep	_	O
+8	Pepsi	pepsi	NNP	_	9	compound	_	U-ORG
+9	CEO	ceo	NNP	pos2=NN	11	poss	_	O
+10	’s	's	POS	pos2=AFX	9	case	_	O
+11	Anti-Trump	anti-trump	NNP	pos2=NN	7	pobj	_	U-ORG
+12	...	..	.	pos2=,	4	punct	_	O
+
+1	https://t.co/hSlPAUT5BH	#hlink#	ADD	pos2=NN	0	root	_	O
+2	by	by	IN	_	1	prep	_	O
+3	#Sheepdog176	#sheepdog0	NN	pos2=NNS	2	pobj	_	O
+4	via	via	IN	pos2=FW	1	prep	_	O
+5	@c0nvey	@c0nvey	NN	pos2=CD	4	pobj	_	O
+

@@ -1,0 +1,21 @@
+1	@SnarkCityBitch	@snarkcitybitch	ADD	pos2=XX	5	punct	_	O
+2	@PETERFROTONDO	@peterfrotondo	NN	pos2=NNP	3	compound	_	O
+3	@Stevenwhirsch99	@stevenwhirsch0	NN	pos2=POS	5	nsubj	_	O
+4	Black	black	JJ	pos2=NNP	5	nmod	_	O
+5	lives	live	VBZ	pos2=NNS	0	root	_	O
+6	matter	matter	NN	pos2=RB	5	nsubj	_	O
+7	and	and	CC	_	5	cc	_	O
+8	Trump	trump	NNP	pos2=JJ	9	compound	_	U-ORG
+9	protesters	protester	NNS	_	10	nsubj	_	O
+10	unite	unite	VBP	pos2=VB	5	conj	_	O
+11	in	in	IN	_	10	prep	_	O
+12	their	their	PRP$	_	13	poss	_	O
+13	hate	hate	NN	_	11	pobj	_	O
+14	!	!	.	_	10	punct	_	O
+
+1	They	they	PRP	_	3	nsubj	_	O
+2	often	often	RB	pos2=MD	3	advmod	_	O
+3	protest	protest	VBP	_	0	root	_	O
+4	together	together	RB	_	3	advmod	_	O
+5	.	.	.	_	3	punct	_	O
+

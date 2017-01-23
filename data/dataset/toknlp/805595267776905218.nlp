@@ -1,0 +1,10 @@
+1	Oh	oh	UH	_	6	discourse	_	O
+2	nah	nah	UH	pos2=NN	6	discourse	_	O
+3	Muhammad	muhammad	NNP	_	4	compound	_	B-PERSON
+4	Ali	ali	NNP	_	6	nsubjpass	_	L-PERSON
+5	was	be	VBD	_	6	auxpass	_	O
+6	lit	light	VBN	_	0	root	_	O
+7	for	for	IN	_	6	prep	_	O
+8	this	this	DT	_	7	pobj	_	O
+9	https://t.co/uwW057SyEd	#hlink#	ADD	pos2=NN	6	dep	_	O
+

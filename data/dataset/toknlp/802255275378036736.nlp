@@ -1,0 +1,26 @@
+1	Watching	watch	VBG	_	5	csubj	_	O
+2	POTUS	potus	NNP	pos2=NN	1	dobj	_	U-ORG
+3	and	and	CC	_	2	cc	_	O
+4	FLOTUS	flotus	NNP	_	2	conj	_	U-ORG
+5	hit	hit	VBD	pos2=VBP	0	root	_	O
+6	their	their	PRP$	_	7	poss	_	O
+7	dougie	dougie	NN	pos2=NNP	5	dobj	_	O
+8	to	to	IN	_	5	prep	_	O
+9	Tightrope	tightrope	NNP	pos2=NN	8	pobj	_	O
+10	gives	give	VBZ	_	5	advcl	_	O
+11	me	me	PRP	_	10	dative	_	O
+12	so	so	RB	_	13	advmod	_	O
+13	much	much	RB	pos2=JJ	14	advmod	_	O
+14	unspeakable	unspeakable	JJ	_	15	nmod	_	O
+15	joy	joy	NN	_	10	dobj	_	O
+16	.	.	.	_	5	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	'm	be	VBP	_	4	aux	_	O
+3	really	really	RB	_	4	advmod	_	O
+4	gon	gon	VBG	_	0	root	_	O
+5	na	to	TO	pos2=RP	6	aux	_	O
+6	miss	miss	VB	pos2=XX	4	xcomp	_	O
+7	them	them	PRP	_	6	dobj	_	O
+8	#ThankYouObama	#thankyouobama	ADD	pos2=.	4	punct	_	O
+

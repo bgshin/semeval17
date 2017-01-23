@@ -1,0 +1,19 @@
+1	Un	un	NNP	pos2=JJ	12	compound	_	U-ORG
+2	placer	placer	NN	pos2=FW	7	compound	_	O
+3	abrir	abrir	FW	pos2=NN	7	nmod	_	O
+4	la	la	FW	pos2=NN	7	nmod	_	O
+5	Gala	gala	NNP	_	7	compound	_	O
+6	Ricky	ricky	NNP	_	7	compound	_	B-PERSON
+7	Martin	martin	NNP	_	12	nsubj	_	L-PERSON
+8	&	&	CC	_	7	cc	_	O
+9	Eva	eva	NNP	_	11	compound	_	B-PERSON
+10	Longoria	longoria	NNP	_	11	compound	_	L-PERSON
+11	FoundationA	foundationa	NNP	pos2=POS	7	conj	_	O
+12	pleasure	pleasure	NN	_	0	root	_	O
+13	to	to	TO	_	14	aux	_	O
+14	open	open	VB	_	12	acl	_	O
+15	the	the	DT	_	17	det	_	O
+16	@GlobalGiftGala	@globalgiftgala	GW	pos2=NNP	18	nmod	_	O
+17	…	…	NFP	pos2=GW	18	punct	_	O
+18	https://t.co/KEjcWN7kWF	#hlink#	ADD	pos2=NN	14	dobj	_	O
+

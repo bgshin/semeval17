@@ -1,0 +1,14 @@
+1	@alicegoldfuss	@alicegoldfuss	UH	pos2=XX	3	discourse	_	O
+2	@Mediaite	@mediaite	IN	pos2=NNP	0	root	_	O
+3	a	a	DT	_	6	det	_	O
+4	left	left	JJ	_	5	nmod	_	O
+5	wing	wing	NN	_	6	compound	_	O
+6	version	version	NN	_	2	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Ben	ben	NNP	_	9	compound	_	B-PERSON
+9	Carson	carson	NNP	_	7	pobj	_	L-PERSON
+10	,	,	,	_	9	punct	_	O
+11	grifting	grifting	NN	pos2=VBG	9	appos	_	O
+12	and	and	CC	_	11	cc	_	O
+13	all	all	DT	pos2=RB	11	conj	_	O
+

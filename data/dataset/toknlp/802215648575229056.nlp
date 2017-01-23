@@ -1,0 +1,15 @@
+1	Git	git	NN	pos2=NNP	4	poss	_	O
+2	'	'	POS	pos2=''	1	case	_	O
+3	em	em	NN	pos2=JJ	4	compound	_	O
+4	girls	girl	NNS	_	5	nsubj	_	O
+5	#BarackObama	#barackobama	VBP	pos2=ADD	0	root	_	O
+6	#blm	#blm	UH	pos2=PRP	5	discourse	_	O
+7	#blacklivesmatter	#blacklivesmatter	UH	pos2=FW	5	discourse	_	O
+8	#mylifematters	#mylifematters	UH	pos2=NNS	5	discourse	_	O
+9	#therealskinnysuge	#therealskinnysuge	UH	pos2=VB	5	discourse	_	O
+10	#thepeopleschamp	#thepeopleschamp	UH	pos2=VB	5	discourse	_	O
+11	#skinnyup	#skinnyup	UH	pos2=VB	5	discourse	_	O
+12	#pmd	#pmd	UH	pos2=FW	5	discourse	_	O
+13	…	…	NFP	pos2=-LRB-	5	discourse	_	O
+14	https://t.co/dDEGQ9ubgc	#hlink#	ADD	_	5	dobj	_	O
+

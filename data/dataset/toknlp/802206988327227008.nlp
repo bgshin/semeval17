@@ -1,0 +1,8 @@
+1	Thanksgiving	thanksgiving	NNP	pos2=NN	2	compound	_	U-DATE
+2	#MannequinChallenge	#mannequinchallenge	NN	pos2=NNP	7	dep	_	O
+3	with	with	IN	_	2	prep	_	O
+4	my	my	PRP$	_	5	poss	_	O
+5	family	family	NN	_	3	pobj	_	O
+6	😂❤️	😂❤️	NFP	pos2=VBD	7	punct	_	O
+7	https://t.co/8noH9b2Gf7	#hlink#	ADD	_	0	root	_	O
+

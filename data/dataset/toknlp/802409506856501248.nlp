@@ -1,0 +1,22 @@
+1	They	they	PRP	_	3	nsubj	_	O
+2	should	should	MD	_	3	aux	_	O
+3	get	get	VB	_	0	root	_	O
+4	what	what	WP	_	6	dobj	_	O
+5	they	they	PRP	_	6	nsubj	_	O
+6	voted	vote	VBD	_	3	ccomp	_	O
+7	for	for	IN	_	6	prep	_	O
+8	a	a	DT	_	9	det	_	O
+9	repeal	repeal	NN	_	7	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	#Obamacare	#obamacare	NNP	pos2=NN	10	pobj	_	U-ORG
+12	.	.	.	_	3	punct	_	O
+
+1	Ppl	ppl	NNP	pos2=NNS	2	nsubj	_	U-ORG
+2	learn	learn	VB	pos2=VBP	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	hard	hard	JJ	_	5	nmod	_	O
+5	way	way	NN	_	2	npadvmod	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	https://t.co/YxQCsUMBs6	#hlink#	ADD	_	0	root	_	U-ORG
+

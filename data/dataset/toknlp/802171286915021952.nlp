@@ -1,0 +1,19 @@
+1	See	see	VB	_	0	root	_	O
+2	how	how	WRB	_	5	advmod	_	O
+3	Uber	uber	NNP	pos2=PRP$	4	compound	_	O
+4	drivers	driver	NNS	pos2=VBZ	5	nsubj	_	O
+5	use	use	VBP	pos2=VB	1	ccomp	_	O
+6	weteak	weteak	DT	pos2=NNP	8	poss	_	O
+7	's	's	POS	pos2=AFX	6	case	_	O
+8	software	software	NN	_	5	dobj	_	O
+9	to	to	TO	pos2=IN	10	aux	_	O
+10	track	track	VB	pos2=NN	8	relcl	_	O
+11	income	income	NN	_	10	dobj	_	O
+12	and	and	CC	_	10	cc	_	O
+13	manage	manage	VB	_	10	conj	_	O
+14	expenses	expense	NNS	_	13	dobj	_	O
+15	!	!	.	_	1	punct	_	O
+
+1	https://t.co/a5ty6LnwGU#uber…	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/RioRBPDj3J	#hlink#	ADD	_	0	root	_	U-ORG
+

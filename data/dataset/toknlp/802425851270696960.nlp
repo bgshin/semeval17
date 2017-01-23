@@ -1,0 +1,7 @@
+1	Micro	micro	JJ	pos2=NNP	2	nmod	_	O
+2	robots	robot	NNS	_	6	nmod	_	O
+3	a	a	DT	pos2=FW	5	det	_	O
+4	les	les	FW	pos2=GW	5	nmod	_	O
+5	#nitslúdiques	#nitslúdiques	FW	pos2=ADD	6	nmod	_	O
+6	https://t.co/Th69xTqnOg	#hlink#	ADD	_	0	root	_	U-GPE
+

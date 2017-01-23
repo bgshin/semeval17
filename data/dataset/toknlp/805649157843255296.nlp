@@ -1,0 +1,14 @@
+1	Why	why	WRB	_	4	advmod	_	O
+2	do	do	VBP	pos2=VB	4	aux	_	O
+3	parents	parent	NNS	_	4	nsubj	_	O
+4	refuse	refuse	VB	pos2=VBP	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	vaccinate	vaccinate	VB	_	4	xcomp	_	O
+7	their	their	PRP$	_	8	poss	_	O
+8	children	child	NNS	_	6	dobj	_	O
+9	?	?	.	_	4	punct	_	O
+
+1	#AndrewWakefield	#andrewwakefield	GW	pos2=NFP	3	nmod	_	O
+2	https://t.co/sOBK7UUarD	#hlink#	ADD	pos2=GW	3	nmod	_	O
+3	https://t.co/C1WiaImdQZ	#hlink#	ADD	_	0	root	_	O
+

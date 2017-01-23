@@ -1,0 +1,6 @@
+1	@lozoya_edgar21	@lozoya_edgar0	NN	pos2=CD	2	compound	_	O
+2	thanks	thanks	NNS	pos2=NN	0	root	_	O
+3	Tim	tim	NNP	_	5	compound	_	B-PERSON
+4	Duncan	duncan	NNP	_	5	compound	_	L-PERSON
+5	👴🏼	👴🏼	NNP	pos2=.	2	vocative	_	O
+

@@ -1,0 +1,31 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	15	ccomp	_	O
+3	all	all	DT	pos2=RB	2	dep	_	O
+4	just	just	RB	pos2=JJ	5	advmod	_	O
+5	talk	talk	NN	pos2=VB	2	attr	_	O
+6	and	and	CC	_	5	cc	_	O
+7	rumor	rumor	NN	_	5	conj	_	O
+8	for	for	IN	_	5	prep	_	O
+9	now	now	RB	_	8	pcomp	_	O
+10	,	,	,	_	2	punct	_	O
+11	but	but	CC	_	2	cc	_	O
+12	#Tigers	#tigers	VBZ	pos2=PRP$	2	conj	_	O
+13	fans	fan	NNS	_	12	dobj	_	O
+14	,	,	,	_	15	punct	_	O
+15	are	be	VBP	_	0	root	_	O
+16	you	you	PRP	_	15	nsubj	_	O
+17	possibly	possibly	RB	_	18	advmod	_	O
+18	ready	ready	JJ	_	15	acomp	_	O
+19	to	to	TO	_	20	aux	_	O
+20	move	move	VB	_	18	xcomp	_	O
+21	on	on	RP	pos2=IN	20	prt	_	O
+22	from	from	IN	_	20	prep	_	O
+23	Miguel	miguel	NNP	_	24	compound	_	B-PERSON
+24	Cabrera	cabrera	NNP	_	22	pobj	_	L-PERSON
+25	and	and	CC	_	24	cc	_	O
+26	Justin	justin	NNP	_	27	compound	_	B-PERSON
+27	Verlander	verlander	NNP	_	24	conj	_	L-PERSON
+28	?	?	.	_	15	punct	_	O
+
+1	#MLB	#mlb	NN	pos2=XX	0	root	_	O
+

@@ -1,0 +1,11 @@
+1	The	the	DT	_	5	det	_	O
+2	latest	late	JJS	_	5	nmod	_	O
+3	Goldilocks	goldilocks	NNP	_	5	compound	_	B-ORG
+4	Fitness	fitness	NNP	pos2=NN	5	compound	_	I-ORG
+5	Weekly	weekly	NNP	pos2=RB	0	root	_	L-ORG
+6	!	!	.	_	5	punct	_	O
+
+1	https://t.co/0621hHNkyd	#hlink#	ADD	_	0	root	_	O
+2	#girlpower	#girlpower	-RRB-	pos2=IN	1	punct	_	O
+3	#nationalfastfoodday	#nationalfastfoodday	UH	pos2=NN	1	discourse	_	O
+

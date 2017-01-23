@@ -1,0 +1,24 @@
+1	@blazing_charles	@blazing_charles	UH	pos2=NNS	4	discourse	_	O
+2	,	,	,	_	4	punct	_	O
+3	we	we	PRP	_	4	nsubj	_	O
+4	need	need	VBP	_	0	root	_	O
+5	something	something	NN	_	4	dobj	_	O
+6	like	like	IN	_	5	prep	_	O
+7	the	the	DT	_	11	det	_	O
+8	"	"	``	_	11	punct	_	O
+9	Electoral	electoral	NNP	_	11	compound	_	O
+10	College	college	NNP	_	11	compound	_	O
+11	Votes	vote	NNPS	pos2=NNP	13	nmod	_	O
+12	"	"	''	pos2=POS	11	punct	_	O
+13	System	system	NNP	pos2=NN	6	pobj	_	O
+14	.	.	.	_	4	punct	_	O
+
+1	ANC	anc	NNP	pos2=NN	2	compound	_	U-ORG
+2	hide	hide	NN	pos2=VBP	7	nsubj	_	O
+3	behind	behind	IN	pos2=RB	2	prep	_	O
+4	aggregated	aggregated	JJ	pos2=VBN	5	nmod	_	O
+5	numbers	number	NNS	_	3	pobj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	win	win	VB	_	0	root	_	O
+8	.	.	.	_	7	punct	_	O
+

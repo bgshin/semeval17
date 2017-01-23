@@ -1,0 +1,13 @@
+1	#Australia	#australia	NNP	pos2=NNS	4	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	most	most	RBS	pos2=JJS	4	advmod	_	O
+4	wanted	want	VBD	pos2=JJ	12	nmod	_	O
+5	#jihadist	#jihadist	RBS	pos2=XX	12	punct	_	O
+6	#NeilPrakash	#neilprakash	NN	pos2=XX	12	dep	_	O
+7	arrested	arrest	VBN	_	6	acl	_	O
+8	in	in	IN	_	7	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	#MiddleEast#ام_الربيعين_تجمعنا#mosul#mosulop	#middleeast#ام_الربيعين_تجمعنا#mosul#mosulop	NNP	pos2=GW	8	pobj	_	O
+11	…	…	NFP	pos2=-LRB-	12	punct	_	O
+12	https://t.co/wHzWDrUXDJ	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,25 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@elizabethforma	@elizabethforma	UH	pos2=MD	3	discourse	_	O
+2	You	you	PRP	_	3	nsubj	_	O
+3	need	need	VBP	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	be	be	VB	_	3	xcomp	_	O
+6	aware	aware	JJ	_	5	acomp	_	O
+7	of	of	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	ways	way	NNS	_	7	pobj	_	O
+10	Keith	keith	NNP	_	11	compound	_	B-PERSON
+11	Ellison	ellison	NNP	_	13	nsubj	_	L-PERSON
+12	will	will	MD	_	13	aux	_	O
+13	destroy	destroy	VB	_	9	relcl	_	O
+14	the	the	DT	_	15	det	_	O
+15	party	party	NN	_	13	dobj	_	O
+16	if	if	IN	_	17	mark	_	O
+17	selected	select	VBN	_	13	advcl	_	O
+18	to	to	TO	_	19	aux	_	O
+19	chair	chair	VB	pos2=NN	17	xcomp	_	O
+20	the	the	DT	_	21	det	_	O
+21	DNC	dnc	NN	pos2=NNP	19	dobj	_	U-ORG
+22	https://t.co/Mkm6ECmQam	#hlink#	ADD	pos2=NN	21	appos	_	O
+

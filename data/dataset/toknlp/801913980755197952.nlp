@@ -1,0 +1,14 @@
+1	#Russia	#russia	NNP	pos2=NN	3	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	border	border	NN	_	6	nsubj	_	O
+4	does	do	VBZ	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	end	end	VB	_	11	ccomp	_	O
+7	anywhere	anywhere	RB	_	6	advmod	_	O
+8	,	,	,	_	11	punct	_	O
+9	Vladimir	vladimir	NNP	_	10	compound	_	B-PERSON
+10	Putin	putin	NNP	_	11	nsubj	_	L-PERSON
+11	says	say	VBZ	_	0	root	_	O
+12	https://t.co/5XxVKRNvdG	#hlink#	ADD	_	13	nsubj	_	O
+13	@BBCWorld	@bbcworld	ADD	pos2=-RRB-	11	punct	_	U-ORG
+

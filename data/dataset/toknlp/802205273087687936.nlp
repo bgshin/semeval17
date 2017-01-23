@@ -1,0 +1,11 @@
+1	Mark	mark	NNP	_	2	compound	_	B-PERSON
+2	Wahlberg	wahlberg	NNP	_	7	nsubj	_	L-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	Will	will	NNP	_	5	compound	_	B-PERSON
+5	Ferrell	ferrell	NNP	_	2	conj	_	L-PERSON
+6	lowkey	lowkey	NN	pos2=NNP	7	nsubj	_	O
+7	invented	invent	VBD	_	0	root	_	O
+8	the	the	DT	_	9	det	_	O
+9	#MannequinChallenge	#mannequinchallenge	NN	pos2=ADD	7	dobj	_	O
+10	https://t.co/jP8svP6JqP	#hlink#	ADD	_	6	appos	_	O
+

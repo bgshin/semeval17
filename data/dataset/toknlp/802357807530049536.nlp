@@ -1,0 +1,12 @@
+1	@emilynussbaum	@emilynussbaum	UH	pos2=``	2	discourse	_	O
+2	Tell	tell	VB	pos2=NNP	0	root	_	O
+3	Michael	michael	NNP	_	4	compound	_	B-PERSON
+4	Moore	moore	NNP	_	2	dobj	_	L-PERSON
+5	for	for	IN	_	2	prep	_	O
+6	his	his	PRP$	_	8	poss	_	O
+7	next	next	JJ	_	8	nmod	_	O
+8	doc	doc	NN	pos2=NNP	5	pobj	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	:)	:)	NFP	pos2=SYM	0	root	_	O
+

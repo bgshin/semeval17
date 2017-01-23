@@ -1,0 +1,23 @@
+1	her	her	PRP$	pos2=PRP	2	poss	_	O
+2	words:i	words:i	NNS	pos2=PRP	4	nsubj	_	O
+3	would	would	MD	_	4	aux	_	O
+4	agree	agree	VB	_	15	ccomp	_	O
+5	regarding	regard	VBG	_	4	prep	_	O
+6	recount	recount	NN	_	5	pobj	_	O
+7	but	but	CC	_	4	cc	_	O
+8	you	you	PRP	_	10	nsubj	_	O
+9	'll	will	MD	_	10	aux	_	O
+10	destabilize	destabilize	VB	_	4	conj	_	O
+11	system	system	NN	_	10	dobj	_	O
+12	;	;	,	_	15	punct	_	O
+13	electoral	electoral	JJ	_	14	nmod	_	O
+14	college	college	NN	_	15	nsubj	_	O
+15	is	be	VBZ	_	0	root	_	O
+16	2	0	CD	pos2=TO	17	nmod	_	U-CARDINAL
+17	represent	represent	NN	pos2=VB	15	attr	_	O
+18	;	;	,	pos2=:	15	punct	_	O
+19	have	have	VBP	pos2=VB	15	conj	_	O
+20	se	se	FW	pos2=GW	22	nmod	_	O
+21	…	…	NFP	pos2=-LRB-	22	punct	_	O
+22	https://t.co/Ra4fO4qhVM	#hlink#	ADD	_	19	dobj	_	O
+

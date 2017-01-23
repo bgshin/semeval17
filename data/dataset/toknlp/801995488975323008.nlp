@@ -1,0 +1,15 @@
+1	@elizabethforma	@elizabethforma	UH	pos2=TO	2	discourse	_	O
+2	investigate	investigate	VB	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	presidential	presidential	JJ	_	5	nmod	_	O
+5	transition	transition	NN	_	2	dobj	_	O
+6	.?	.?	.	_	2	punct	_	O
+
+1	You	you	PRP	_	3	nsubj	_	O
+2	really	really	RB	_	3	advmod	_	O
+3	are	be	VBP	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	partisan	partisan	JJ	_	6	nmod	_	O
+6	hack	hack	NN	_	3	attr	_	O
+7	.	.	.	_	3	punct	_	O
+

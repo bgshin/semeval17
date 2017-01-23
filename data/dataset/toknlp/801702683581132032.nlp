@@ -1,0 +1,23 @@
+1	@liesebelle	@liesebelle	UH	pos2=PRP	2	discourse	_	O
+2	remember	remember	VB	pos2=VBP	0	root	_	O
+3	when	when	WRB	_	6	advmod	_	O
+4	the	the	DT	_	5	det	_	O
+5	@utahjazz	@utahjazz	TO	pos2=XX	6	nsubj	_	O
+6	beat	beat	VBD	pos2=VB	2	ccomp	_	O
+7	the	the	DT	_	8	det	_	O
+8	@Lakers	@lakers	NNPS	pos2=NNS	6	dobj	_	O
+9	by	by	IN	_	6	prep	_	O
+10	48	0	CD	_	9	pobj	_	U-CARDINAL
+11	last	last	JJ	_	12	nmod	_	B-DATE
+12	year	year	NN	_	6	npadvmod	_	L-DATE
+13	?	?	.	_	2	punct	_	O
+
+1	Cheer	cheer	VB	pos2=NN	0	root	_	O
+2	up	up	RP	pos2=RB	1	prt	_	O
+3	!	!	.	_	1	punct	_	O
+
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	improvement	improvement	NN	_	2	attr	_	O
+4	😂😂😂	😂😂😂	.	pos2=NN	2	punct	_	O
+

@@ -1,0 +1,11 @@
+1	SOMA	soma	NN	_	10	dep	_	O
+2	in	in	IN	_	1	prep	_	O
+3	Google	google	NNP	_	5	compound	_	B-ORG
+4	Earth	earth	NNP	_	5	compound	_	L-ORG
+5	VR.	vr.	NNP	_	2	pobj	_	O
+6	This	this	DT	_	7	det	_	O
+7	place	place	NN	_	9	nsubj	_	O
+8	is	be	VBZ	_	9	aux	_	O
+9	growing	grow	VBG	_	10	nmod	_	O
+10	https://t.co/TxK44Tk8qx	#hlink#	ADD	pos2=RP	0	root	_	O
+

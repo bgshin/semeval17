@@ -1,0 +1,18 @@
+1	Wizarding	wizarding	VBG	pos2=NNP	2	nmod	_	B-DATE
+2	Week	week	NNP	pos2=NN	6	dep	_	L-DATE
+3	in	in	IN	_	2	prep	_	O
+4	Review	review	NNP	_	3	pobj	_	U-ORG
+5	,	,	,	_	6	punct	_	O
+6	click	click	VB	_	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	link	link	NN	_	6	dobj	_	O
+9	for	for	IN	_	8	prep	_	O
+10	more	more	JJR	pos2=RBR	9	pobj	_	O
+11	!	!	.	_	6	punct	_	O
+
+1	https://t.co/3N9gkVVOhZ	#hlink#	ADD	_	0	root	_	O
+2	#simplypotter	#simplypotter	IN	pos2=-RRB-	1	prep	_	O
+3	#harrypotter	#harrypotter	GW	pos2=UH	2	pobj	_	O
+4	…	…	NFP	pos2=GW	5	punct	_	O
+5	https://t.co/Y0C20Q4dWG	#hlink#	ADD	pos2=NN	2	pobj	_	O
+

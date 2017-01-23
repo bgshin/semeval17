@@ -1,0 +1,29 @@
+1	@Pontifex	@pontifex	NN	pos2=NNP	3	nmod	_	O
+2	black	black	JJ	_	3	nmod	_	O
+3	mass	mass	NN	_	0	root	_	O
+4	who	who	WP	_	5	nsubj	_	O
+5	did	do	VBD	_	3	relcl	_	O
+6	most	most	JJS	pos2=RBS	5	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	bad	bad	JJ	_	10	nmod	_	O
+10	work	work	NN	_	7	pobj	_	O
+11	on	on	IN	_	10	prep	_	O
+12	earth	earth	NN	_	11	pobj	_	O
+13	using	use	VBG	_	5	advcl	_	O
+14	the	the	DT	_	17	det	_	O
+15	mind	mind	NN	_	16	npadvmod	_	O
+16	reading	read	VBG	pos2=NN	17	nmod	_	O
+17	equipment	equipment	NN	_	13	dobj	_	O
+18	as	as	IN	_	20	mark	_	O
+19	I	I	PRP	_	20	nsubj	_	O
+20	specified	specify	VBD	pos2=VBP	5	advcl	_	O
+21	to	to	IN	_	20	prep	_	O
+22	you	you	PRP	_	21	pobj	_	O
+23	Pope	pope	NNP	_	24	compound	_	O
+24	Francis	francis	NNP	_	19	appos	_	U-PERSON
+25	.	.	.	_	3	punct	_	O
+
+1	These	these	DT	_	2	det	_	O
+2	masses	mass	NNS	_	0	root	_	O
+

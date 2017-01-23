@@ -1,0 +1,24 @@
+1	@DrJillStein	@drjillstein	NN	pos2=UH	6	vocative	_	O
+2	Why	why	WRB	_	6	advmod	_	O
+3	do	do	VBP	_	6	aux	_	O
+4	n't	not	RB	_	6	neg	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	start	start	VB	_	0	root	_	O
+7	with	with	IN	_	6	prep	_	O
+8	true	true	JJ	_	10	nmod	_	O
+9	voter	voter	NN	_	10	compound	_	O
+10	registration	registration	NN	_	7	pobj	_	O
+11	and	and	CC	_	10	cc	_	O
+12	photo	photo	NN	_	13	compound	_	O
+13	ID	id	NN	_	10	conj	_	O
+14	to	to	TO	_	15	aux	_	O
+15	vote	vote	VB	_	6	advcl	_	O
+16	.	.	.	_	6	punct	_	O
+
+1	Hacking	hacking	NN	pos2=VBG	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	not	not	RB	_	2	neg	_	O
+4	the	the	DT	_	5	det	_	O
+5	issue	issue	NN	_	2	attr	_	O
+6	.	.	.	_	2	punct	_	O
+

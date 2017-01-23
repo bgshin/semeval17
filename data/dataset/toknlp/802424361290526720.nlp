@@ -1,0 +1,20 @@
+1	"	"	``	pos2=SYM	3	punct	_	O
+2	#Galaxy	#galaxy	NNP	pos2=PRP$	3	compound	_	B-LAW
+3	Note	note	NNP	pos2=NN	5	nsubj	_	I-LAW
+4	7	0	CD	pos2=NNPS	3	nmod	_	L-LAW
+5	has	have	VBZ	_	0	root	_	O
+6	a	a	DT	_	10	det	_	O
+7	#blue	#blue	NN	pos2=FW	10	compound	_	O
+8	#light	#light	NN	pos2=POS	9	compound	_	O
+9	filter	filter	NN	_	10	compound	_	O
+10	option	option	NN	_	5	dobj	_	O
+11	built	build	VBN	_	10	acl	_	O
+12	into	into	IN	_	11	prep	_	O
+13	the	the	DT	_	15	det	_	O
+14	display	display	NN	_	15	compound	_	O
+15	settings	setting	NNS	_	12	pobj	_	O
+16	"	"	''	pos2=``	15	punct	_	O
+17	#android	#android	FW	pos2=GW	19	nmod	_	O
+18	#mobile	#mobile	IN	pos2=ADD	19	nmod	_	O
+19	https://t.co/85PMtduFMU	#hlink#	ADD	pos2=NN	10	acl	_	O
+

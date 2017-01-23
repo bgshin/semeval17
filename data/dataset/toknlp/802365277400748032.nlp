@@ -1,0 +1,11 @@
+1	Pelosi	pelosi	NNP	_	2	nsubj	_	U-PERSON
+2	Broadens	broaden	VBZ	_	0	root	_	O
+3	Leadership	leadership	NNP	pos2=NN	4	compound	_	O
+4	Team	team	NNP	pos2=NN	2	dobj	_	O
+5	in	in	IN	_	2	prep	_	O
+6	Fight	fight	NNP	pos2=NN	5	pobj	_	O
+7	to	to	TO	pos2=IN	8	aux	_	O
+8	Retain	retain	VB	pos2=NNP	6	acl	_	O
+9	Post	post	NNP	pos2=GW	10	nmod	_	U-ORG
+10	https://t.co/JgkvAaO9rr	#hlink#	ADD	_	8	dobj	_	O
+

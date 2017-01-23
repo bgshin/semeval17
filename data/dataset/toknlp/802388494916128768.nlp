@@ -1,0 +1,21 @@
+1	@thehill	@thehill	UH	pos2=NNP	4	discourse	_	O
+2	Will	will	MD	_	4	aux	_	O
+3	someone	someone	NN	_	4	nsubj	_	O
+4	think	think	VB	_	0	root	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Michael	michael	NNP	_	7	compound	_	B-PERSON
+7	Moore	moore	NNP	_	5	pobj	_	L-PERSON
+8	right	right	RB	_	9	advmod	_	O
+9	now	now	RB	_	4	advmod	_	O
+10	?	?	.	_	4	punct	_	O
+
+1	Prayers	prayer	NNS	pos2=NNPS	7	dep	_	O
+2	to	to	IN	pos2=TO	3	aux	_	O
+3	@MMFlint	@mmflint	VB	pos2=NN	1	advcl	_	O
+4	-	-	:	pos2=,	7	punct	_	O
+5	he	he	PRP	_	7	nsubj	_	O
+6	must	must	MD	_	7	aux	_	O
+7	be	be	VB	_	0	root	_	O
+8	inconsolable	inconsolable	JJ	_	7	acomp	_	O
+9	.	.	.	_	7	punct	_	O
+

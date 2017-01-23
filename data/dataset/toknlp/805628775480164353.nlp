@@ -1,0 +1,33 @@
+1	It	it	PRP	_	3	nsubj	_	O
+2	could	could	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	worse	bad	JJR	_	3	acomp	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	"	"	``	_	3	punct	_	O
+3	return	return	NN	pos2=VBP	12	nsubj	_	O
+4	to	to	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	gold	gold	NN	pos2=JJ	7	compound	_	O
+7	standard	standard	NN	pos2=JJ	9	nmod	_	O
+8	"	"	''	pos2=``	9	punct	_	O
+9	proponents	proponent	NNS	_	4	pobj	_	O
+10	would	would	MD	_	12	aux	_	O
+11	truly	truly	RB	_	12	advmod	_	O
+12	destroy	destroy	VB	_	0	root	_	O
+13	the	the	DT	_	14	det	_	O
+14	world	world	NN	_	16	poss	_	O
+15	's	's	POS	_	14	case	_	O
+16	economy	economy	NN	_	12	dobj	_	O
+17	.	.	.	_	12	punct	_	O
+
+1	There	there	EX	_	2	expl	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	n't	not	RB	_	2	neg	_	O
+4	enough	enough	JJ	_	5	nmod	_	O
+5	gold	gold	NN	pos2=VBN	2	attr	_	O
+6	out	out	RB	pos2=RP	7	advmod	_	O
+7	there	there	RB	_	2	advmod	_	O
+8	.	.	.	_	2	punct	_	O
+

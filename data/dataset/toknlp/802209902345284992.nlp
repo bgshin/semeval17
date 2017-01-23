@@ -1,0 +1,14 @@
+1	#iaintlying	#iaintlying	UH	pos2=VBG	4	discourse	_	O
+2	#iwouldntlietoyou	#iwouldntlietoyou	UH	pos2=MD	4	discourse	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	wish	wish	VBP	_	0	root	_	O
+5	these	these	DT	_	6	det	_	O
+6	bills	bill	NNS	_	7	nsubj	_	O
+7	do	do	VBP	pos2=VB	4	ccomp	_	O
+8	a	a	DT	_	9	det	_	O
+9	#mannequinchallenge	#mannequinchallenge	NN	pos2=FW	7	dobj	_	O
+10	#forreal	#forreal	UH	pos2=XX	7	discourse	_	O
+11	#thishowifeel	#thishowifeel	UH	pos2=GW	7	discourse	_	O
+12	…	…	NFP	pos2=-LRB-	13	punct	_	O
+13	https://t.co/9XENDuXqQf	#hlink#	ADD	_	7	dobj	_	O
+

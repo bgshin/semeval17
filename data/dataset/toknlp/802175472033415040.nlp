@@ -1,0 +1,29 @@
+1	Looking	look	VBG	_	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	these	these	DT	_	2	pobj	_	O
+4	?	?	.	_	1	punct	_	O
+
+1	Put	put	VB	_	0	root	_	O
+2	your	your	PRP$	_	3	poss	_	O
+3	name	name	NN	_	1	dobj	_	O
+4	on	on	IN	_	1	prep	_	O
+5	our	our	PRP$	_	6	poss	_	O
+6	#Hatchimals	#hatchimals	NNS	pos2=ADD	7	compound	_	U-NORP
+7	list	list	NN	pos2=RB	4	pobj	_	O
+8	&	&	CC	_	1	cc	_	O
+9	we	we	PRP	_	11	nsubj	_	O
+10	'll	will	MD	_	11	aux	_	O
+11	call	call	VB	_	1	conj	_	O
+12	you	you	PRP	_	11	dobj	_	O
+13	when	when	WRB	_	15	advmod	_	O
+14	they	they	PRP	_	15	nsubj	_	O
+15	're	be	VBP	_	11	advcl	_	O
+16	in	in	RB	pos2=IN	15	advmod	_	O
+17	!	!	.	_	11	punct	_	O
+
+1	Email	email	VB	pos2=NN	0	root	_	O
+2	us	us	PRP	_	1	dobj	_	O
+3	thru	thru	IN	pos2=GW	1	prep	_	O
+4	…	…	NFP	pos2=-LRB-	3	pobj	_	O
+5	https://t.co/o38SO6twoY	#hlink#	ADD	_	3	pobj	_	O
+

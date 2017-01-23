@@ -1,0 +1,30 @@
+1	Tr*mp	tr*mp	NNP	pos2=NN	3	nsubj	_	U-ORG
+2	is	be	VBZ	_	3	aux	_	O
+3	acting	act	VBG	_	15	ccomp	_	O
+4	like	like	IN	_	3	prep	_	O
+5	Kim	kim	NNP	_	8	compound	_	B-PERSON
+6	Jong	jong	NNP	_	8	compound	_	I-PERSON
+7	-	-	HYPH	_	8	punct	_	I-PERSON
+8	un	un	NNP	pos2=NN	4	pobj	_	L-PERSON
+9	and	and	CC	_	4	cc	_	O
+10	on	on	IN	_	4	conj	_	O
+11	Chinese	chinese	JJ	pos2=NNP	13	nmod	_	U-NORP
+12	social	social	JJ	_	13	nmod	_	O
+13	media	medium	NNS	pos2=NN	10	pobj	_	O
+14	they	they	PRP	_	15	nsubj	_	O
+15	call	call	VBP	_	0	root	_	O
+16	KJU	kju	NNP	pos2=VBG	15	oprd	_	O
+17	fatty	fatty	JJ	pos2=NN	13	nmod	_	O
+18	the	the	DT	_	19	det	_	O
+19	third	#ord#	JJ	pos2=NN	16	appos	_	U-ORDINAL
+20	.	.	.	_	15	punct	_	O
+
+1	So	so	RB	_	7	advmod	_	O
+2	by	by	IN	_	7	prep	_	O
+3	that	that	DT	_	4	det	_	O
+4	measure	measure	NN	pos2=VBP	2	pobj	_	O
+5	Tr*imp	tr*imp	NNP	pos2=NNPS	7	nsubj	_	U-PERSON
+6	would	would	MD	_	7	aux	_	O
+7	be	be	VB	_	0	root	_	O
+8	?	?	.	_	7	punct	_	O
+

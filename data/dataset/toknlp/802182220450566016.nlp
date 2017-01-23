@@ -1,0 +1,25 @@
+1	#Syria	#syria	NNP	pos2=NN	3	compound	_	O
+2	#Kurdistan	#kurdistan	NNP	pos2=POS	3	compound	_	O
+3	#Yemen	#yemen	NNP	pos2=NNS	5	compound	_	O
+4	-	-	HYPH	pos2=,	5	punct	_	O
+5	do	do	VB	pos2=VBP	0	root	_	O
+6	something	something	NN	_	5	dobj	_	O
+7	this	this	DT	_	8	det	_	O
+8	weekend	weekend	NN	_	5	npadvmod	_	O
+9	to	to	TO	_	10	aux	_	O
+10	get	get	VB	_	5	advcl	_	O
+11	the	the	DT	_	12	det	_	O
+12	word	word	NN	_	10	dobj	_	O
+13	out	out	RP	pos2=IN	10	prt	_	O
+14	about	about	IN	_	10	prep	_	O
+15	these	these	DT	_	16	det	_	O
+16	conflicts	conflict	NNS	_	14	pobj	_	O
+17	!	!	.	_	12	appos	_	O
+
+1	No	no	DT	pos2=UH	3	det	_	O
+2	#BlackFriday	#blackfriday	NN	pos2=JJ	3	compound	_	O
+3	over-consumption	over-consumption	NN	_	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	please	please	UH	_	3	discourse	_	O
+6	!	!	.	_	3	punct	_	O
+

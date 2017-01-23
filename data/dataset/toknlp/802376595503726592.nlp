@@ -1,0 +1,15 @@
+1	WIKILEAKS	wikileaks	NNP	pos2=VBZ	2	compound	_	O
+2	YEMEN	yemen	NNP	pos2=NN	3	compound	_	O
+3	FILES	file	NNS	pos2=VBZ	7	dep	_	O
+4	RELEASED	release	VBN	_	3	acl	_	O
+5	:	:	:	_	7	punct	_	O
+6	Australia	australia	NNP	_	7	nsubj	_	O
+7	Ends	end	VBZ	pos2=NNP	0	root	_	O
+8	Clinton	clinton	NNP	_	9	compound	_	O
+9	Foundation	foundation	NNP	_	10	compound	_	O
+10	Donations	donation	NNS	pos2=NNPS	7	dobj	_	O
+11	After	after	IN	_	7	prep	_	O
+12	Hillary	hillary	NNP	_	14	poss	_	U-PERSON
+13	's	's	POS	_	12	case	_	O
+14	Losshttps://t.co/AXn8ZwVubk	#hlink#	ADD	pos2=NN	11	pobj	_	O
+

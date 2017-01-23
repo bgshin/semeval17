@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det	_	O
+2	Surprise	surprise	NN	pos2=NNP	3	compound	_	O
+3	review	review	NN	_	10	dep	_	O
+4	:	:	:	_	10	punct	_	O
+5	the	the	DT	_	10	det	_	O
+6	best	good	JJS	_	10	nmod	_	O
+7	euthanasia	euthanasia	NN	_	10	compound	_	O
+8	rom	rom	NN	_	10	compound	_	O
+9	-	-	HYPH	_	10	punct	_	O
+10	com	com	NN	_	0	root	_	O
+11	of	of	IN	_	10	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	year	year	NN	_	11	pobj	_	O
+14	https://t.co/V4AEKbii5L	#hlink#	ADD	pos2=VBP	10	appos	_	O
+15	via	via	IN	_	10	prep	_	O
+16	@IrishTimesCultr	@irishtimescultr	NN	pos2=ADD	15	pobj	_	O
+

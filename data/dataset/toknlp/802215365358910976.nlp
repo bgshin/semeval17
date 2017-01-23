@@ -1,0 +1,21 @@
+1	Thanksgiving	thanksgiving	NNP	pos2=NN	2	compound	_	B-DATE
+2	week	week	NN	_	4	nsubj	_	L-DATE
+3	has	have	VBZ	_	4	aux	_	O
+4	been	be	VBN	_	11	ccomp	_	O
+5	full	full	JJ	_	4	acomp	_	O
+6	of	of	IN	_	5	prep	_	O
+7	fun	fun	NN	pos2=JJ	6	pobj	_	O
+8	,	,	,	_	7	punct	_	O
+9	hiking	hiking	NN	_	7	conj	_	O
+10	,	,	,	_	11	punct	_	O
+11	fall	fall	VB	pos2=NN	0	root	_	O
+12	weather	weather	NN	pos2=RB	11	dobj	_	O
+13	in	in	IN	_	11	prep	_	O
+14	Alabama	alabama	NNP	_	13	pobj	_	U-GPE
+15	,	,	,	_	11	punct	_	O
+16	exploring	explore	VBG	_	11	advcl	_	O
+17	nature	nature	NN	_	16	dobj	_	O
+18	and	and	CC	_	17	cc	_	O
+19	…	…	NFP	pos2=-LRB-	20	punct	_	O
+20	https://t.co/JKhidfqjID	#hlink#	ADD	_	11	dep	_	O
+

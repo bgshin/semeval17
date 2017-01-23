@@ -1,0 +1,31 @@
+1	@candicensd	@candicensd	UH	pos2=``	3	discourse	_	O
+2	That	that	DT	_	3	nsubj	_	O
+3	's	's	VBZ	pos2=POS	7	advcl	_	O
+4	BS	bs	NN	pos2=NNP	3	attr	_	U-ORG
+5	,	,	,	_	7	punct	_	O
+6	abortion	abortion	NN	_	7	nsubj	_	O
+7	increased	increase	VBD	pos2=VBN	0	root	_	O
+8	DRAMATICALLY	dramatically	RB	_	7	advmod	_	O
+9	when	when	WRB	_	13	advmod	_	O
+10	the	the	DT	_	11	det	_	O
+11	government	government	NN	_	13	nsubj	_	O
+12	"	"	``	_	13	punct	_	O
+13	approved	approve	VBD	pos2=VBN	7	advcl	_	O
+14	"	"	''	_	13	punct	_	O
+15	it	it	PRP	_	13	dobj	_	O
+16	.	.	.	_	7	punct	_	O
+
+1	In	in	IN	_	6	prep	_	O
+2	1973	0	CD	_	1	pobj	_	U-DATE
+3	it	it	PRP	_	6	nsubj	_	O
+4	's	's	VBZ	pos2=ADD	6	aux	_	O
+5	was	be	VBD	pos2=VBZ	6	aux	_	O
+6	going	go	VBG	_	12	ccomp	_	O
+7	to	to	TO	_	8	aux	_	O
+8	stop	stop	VB	_	6	xcomp	_	O
+9	poverty	poverty	NN	pos2=FW	8	dobj	_	O
+10	etc	etc	FW	_	12	advmod	_	O
+11	-	-	HYPH	pos2=,	12	punct	_	O
+12	FAIL	fail	VB	pos2=NN	0	root	_	O
+13	!	!	.	_	12	punct	_	O
+

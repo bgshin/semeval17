@@ -1,0 +1,34 @@
+1	Fact	fact	NN	_	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	Muhammad	muhammad	NNP	_	4	compound	_	B-PERSON
+4	Ali	ali	NNP	_	5	nsubj	_	L-PERSON
+5	became	become	VBD	_	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	boxer	boxer	NN	_	5	attr	_	O
+8	because	because	IN	_	12	mark	_	O
+9	his	his	PRP$	_	10	poss	_	O
+10	bike	bike	NN	_	12	nsubjpass	_	O
+11	was	be	VBD	_	12	auxpass	_	O
+12	stolen	steal	VBN	_	5	advcl	_	O
+13	.	.	.	_	5	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	told	tell	VBD	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	policeman	policeman	NN	_	2	dobj	_	O
+5	(	(	-LRB-	_	9	punct	_	O
+6	also	also	RB	_	9	advmod	_	O
+7	a	a	DT	_	9	det	_	O
+8	boxing	boxing	NN	_	9	compound	_	O
+9	trainer	trainer	NN	_	4	appos	_	O
+10	)	)	-RRB-	_	4	punct	_	O
+11	he	he	PRP	_	12	nsubj	_	O
+12	wanted	want	VBD	_	2	ccomp	_	O
+13	to	to	TO	_	15	aux	_	O
+14	"	"	``	_	15	punct	_	O
+15	whup	whup	VB	_	12	xcomp	_	O
+16	"	"	''	_	15	punct	_	O
+17	whoever	whoever	WP	_	18	nsubj	_	O
+18	took	take	VBD	_	15	ccomp	_	O
+19	…	…	RP	pos2=NFP	18	prt	_	U-PRODUCT
+

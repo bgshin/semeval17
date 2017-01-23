@@ -1,0 +1,30 @@
+1	@SarahKSilverman	@sarahksilverman	NN	pos2=XX	3	compound	_	O
+2	-	-	HYPH	pos2=:	3	punct	_	O
+3	Hillary	hillary	NNP	_	6	nsubj	_	U-PERSON
+4	would	would	MD	_	6	aux	_	O
+5	have	have	VB	_	6	aux	_	O
+6	been	be	VBN	_	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	same	same	JJ	_	6	attr	_	O
+9	.	.	.	_	6	punct	_	O
+
+1	Carry	carry	VB	pos2=VBP	0	root	_	O
+2	on	on	IN	pos2=RP	1	prep	_	O
+3	the	the	DT	_	5	det	_	O
+4	drone	drone	NN	_	5	compound	_	O
+5	strikes	strike	NNS	_	2	pobj	_	O
+6	started	start	VBN	pos2=VBD	5	acl	_	O
+7	by	by	IN	_	6	agent	_	O
+8	Obama	obama	NNP	_	7	pobj	_	U-PERSON
+9	.	.	.	_	1	punct	_	O
+
+1	Do	do	VB	pos2=VBP	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	kind	kind	VB	_	0	root	_	O
+4	yourself	yourself	PRP	pos2=RB	3	dobj	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	Trump	trump	NN	pos2=NNP	0	root	_	U-PERSON
+2	also	also	RB	_	1	advmod	_	O
+3	.	.	.	_	1	punct	_	O
+

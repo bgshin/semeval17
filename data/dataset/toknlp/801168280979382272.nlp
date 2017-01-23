@@ -1,0 +1,19 @@
+1	Kim	kim	NNP	_	2	compound	_	B-PERSON
+2	Fatty	fatty	NNP	pos2=JJ	0	root	_	L-PERSON
+3	the	the	DT	_	4	det	_	O
+4	Third	#ord#	NNP	pos2=NNPS	2	appos	_	U-ORDINAL
+5	???	??	.	_	2	punct	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	same	same	JJ	_	3	nmod	_	O
+3	guy	guy	NN	_	0	root	_	O
+4	who	who	WP	_	5	nsubj	_	O
+5	fed	feed	VBD	_	3	relcl	_	O
+6	his	his	PRP$	_	7	poss	_	O
+7	family	family	NN	_	5	dobj	_	O
+8	to	to	IN	_	5	prep	_	O
+9	dogs	dog	NNS	_	8	pobj	_	O
+10	?	?	.	_	3	punct	_	O
+
+1	https://t.co/saNNy47DTk	#hlink#	ADD	_	0	root	_	U-ORG
+

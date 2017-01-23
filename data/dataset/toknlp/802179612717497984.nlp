@@ -1,0 +1,10 @@
+1	Shit	shit	NN	pos2=DT	2	compound	_	O
+2	man	man	NN	pos2=UH	0	root	_	O
+3	....	..	.	_	2	punct	_	O
+
+1	Tony	tony	NNP	_	2	compound	_	B-PERSON
+2	Romo	romo	NNP	_	5	nsubj	_	L-PERSON
+3	should	should	MD	_	5	aux	_	O
+4	be	be	VB	_	5	aux	_	O
+5	starting	start	VBG	_	0	root	_	O
+

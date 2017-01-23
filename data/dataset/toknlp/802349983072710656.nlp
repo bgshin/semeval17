@@ -1,0 +1,10 @@
+1	Leonard	leonard	NNP	_	2	compound	_	B-PERSON
+2	Cohen	cohen	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	also	also	RB	_	3	advmod	_	O
+5	the	the	DT	_	9	det	_	O
+6	most	most	RBS	_	7	advmod	_	O
+7	compelling	compelling	JJ	_	9	nmod	_	O
+8	gnostic	gnostic	JJ	_	9	nmod	_	O
+9	philosopher	philosopher	NN	_	3	attr	_	O
+

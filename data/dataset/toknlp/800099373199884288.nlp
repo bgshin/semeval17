@@ -1,0 +1,26 @@
+1	@realDonaldTrump	@realdonaldtrump	XX	pos2=NNP	2	nmod	_	O
+2	Time	time	NN	pos2=NNP	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	boycott	boycott	VB	_	2	relcl	_	O
+5	Hamilton	hamilton	NNP	_	4	dobj	_	U-PERSON
+6	!	!	.	_	2	punct	_	O
+
+1	Its	its	PRP$	_	3	poss	_	O
+2	also	also	RB	pos2=JJ	3	advmod	_	O
+3	time	time	NN	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	put	put	VB	_	3	relcl	_	O
+6	the	the	DT	_	8	det	_	O
+7	national	national	JJ	_	8	nmod	_	O
+8	guard	guard	NN	_	5	dobj	_	O
+9	on	on	IN	_	5	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	Mexican	mexican	JJ	_	12	nmod	_	U-NORP
+12	border	border	NN	_	9	pobj	_	O
+13	until	until	IN	_	17	mark	_	O
+14	the	the	DT	_	15	det	_	O
+15	wall	wall	NN	_	17	nsubjpass	_	O
+16	's	's	POS	pos2=VBZ	17	auxpass	_	O
+17	built	build	VBN	_	12	advcl	_	O
+18	!	!	.	_	3	punct	_	O
+

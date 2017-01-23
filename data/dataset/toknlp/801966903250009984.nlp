@@ -1,0 +1,17 @@
+1	@BobRathbunTV	@bobrathbuntv	ADD	pos2=XX	6	discourse	_	U-NORP
+2	@ATLHawks	@atlhawks	NNS	pos2=VBZ	0	root	_	O
+3	@utahjazz	@utahjazz	UH	pos2=XX	2	discourse	_	O
+4	@HawksOnFSSE	@hawksonfsse	UH	pos2=NNP	6	discourse	_	O
+5	Not	not	RB	_	6	neg	_	O
+6	all	all	DT	pos2=RB	2	appos	_	O
+7	that	that	DT	pos2=RB	8	advmod	_	O
+8	great	great	JJ	pos2=NN	2	nmod	_	O
+9	of	of	IN	_	8	prep	_	O
+10	a	a	DT	_	11	det	_	O
+11	day	day	NN	_	9	pobj	_	O
+12	,	,	,	_	2	punct	_	O
+13	but	but	CC	_	2	cc	_	O
+14	thanks	thanks	NNS	pos2=NN	2	conj	_	O
+15	anyway	anyway	RB	pos2=UH	2	advmod	_	O
+16	!	!	.	_	2	punct	_	O
+

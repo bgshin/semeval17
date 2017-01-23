@@ -1,0 +1,18 @@
+1	Wow	wow	UH	_	12	discourse	_	O
+2	,	,	,	_	12	punct	_	O
+3	@twitter	@twitter	UH	pos2=IN	12	discourse	_	O
+4	you	you	PRP	_	8	nsubj	_	O
+5	really	really	RB	_	8	advmod	_	O
+6	do	do	VBP	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	know	know	VB	_	12	ccomp	_	O
+9	me	me	PRP	_	8	dobj	_	O
+10	at	at	RB	pos2=IN	11	advmod	_	O
+11	all	all	RB	pos2=DT	12	advmod	_	O
+12	do	do	VBP	pos2=VB	0	root	_	O
+13	you	you	PRP	_	12	nsubj	_	O
+14	?	?	.	_	12	punct	_	O
+
+1	#Immigration	#immigration	ADD	pos2=-LRB-	2	punct	_	O
+2	https://t.co/rD35hPxz41	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,18 @@
+1	How	how	WRB	_	2	advmod	_	O
+2	in	in	IN	_	13	prep	_	O
+3	order	order	NN	_	2	pobj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	take	take	VB	_	3	acl	_	O
+6	ill	ill	JJ	pos2=PDT	10	nmod	_	O
+7	an	an	DT	_	12	det	_	O
+8	anent	anent	JJ	_	10	nmod	_	O
+9	crinkle	crinkle	NN	pos2=JJ	10	compound	_	O
+10	dash	dash	NN	pos2=JJ	12	nmod	_	O
+11	social	social	JJ	_	12	nmod	_	O
+12	security	security	NN	_	13	nsubj	_	O
+13	revive	revive	VB	pos2=NN	0	root	_	O
+14	?	?	.	_	13	punct	_	O
+
+1	:	:	:	pos2=SYM	2	punct	_	O
+2	crIXQ	crixq	NN	pos2=NNS	0	root	_	O
+

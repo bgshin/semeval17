@@ -1,0 +1,32 @@
+1	#Hamas	#hamas	NNP	pos2=NNS	2	nsubj	_	U-ORG
+2	loves	love	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	fires	fire	NNS	_	2	dobj	_	O
+5	in	in	IN	pos2=RP	2	prep	_	O
+6	#Israel	#israel	NNP	pos2=NN	5	pobj	_	U-GPE
+7	.	.	.	_	2	punct	_	O
+
+1	Why	why	WRB	_	2	advmod	_	O
+2	shoot	shoot	VBP	pos2=VB	0	root	_	O
+3	rockets	rocket	NNS	_	2	dobj	_	O
+4	,	,	,	_	2	punct	_	O
+5	when	when	WRB	_	10	advmod	_	O
+6	a	a	DT	_	8	det	_	O
+7	few	few	JJ	_	8	nmod	_	O
+8	matches	match	NNS	_	10	nsubj	_	O
+9	can	can	MD	_	10	aux	_	O
+10	burn	burn	VB	_	2	advcl	_	O
+11	homes	home	NNS	_	10	dobj	_	O
+12	,	,	,	_	11	punct	_	O
+13	forests	forest	NNS	_	11	conj	_	O
+14	and	and	CC	_	13	cc	_	O
+15	force	force	NN	pos2=VB	16	compound	_	O
+16	evauation	evauation	NN	pos2=RB	13	conj	_	O
+17	.	.	.	_	2	punct	_	O
+
+1	There	there	EX	_	2	expl	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	no	no	DT	_	5	det	_	O
+4	Iron	iron	NNP	pos2=NN	5	compound	_	O
+5	Dome	dome	NNP	_	2	attr	_	O
+

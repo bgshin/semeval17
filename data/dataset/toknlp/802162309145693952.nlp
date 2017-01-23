@@ -1,0 +1,20 @@
+1	i	I	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	legit	legit	JJ	_	5	nmod	_	O
+5	boo	boo	NN	pos2=FW	2	dobj	_	O
+6	by	by	IN	_	2	prep	_	O
+7	valentines	valentine	NNS	pos2=NNP	8	compound	_	B-DATE
+8	day	day	NN	_	6	pobj	_	L-DATE
+9	,	,	,	_	11	punct	_	O
+10	im	im	NN	pos2=NNS	11	nsubj	_	O
+11	trying	try	VBG	pos2=TO	8	conj	_	O
+12	be	be	VB	_	11	xcomp	_	O
+13	on	on	IN	_	12	prep	_	O
+14	a	a	DT	_	17	det	_	O
+15	whole	whole	JJ	_	17	nmod	_	O
+16	other	other	JJ	_	17	nmod	_	O
+17	level	level	NN	_	13	pobj	_	O
+18	of	of	IN	_	17	prep	_	O
+19	romatic😹	romatic😹	NN	pos2=.	18	pobj	_	O
+

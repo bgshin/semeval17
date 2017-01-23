@@ -1,0 +1,10 @@
+1	He	he	PRP	_	3	nsubj	_	O
+2	'd	would	MD	pos2=VBD	3	aux	_	O
+3	make	make	VB	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	great	great	JJ	_	6	nmod	_	O
+6	Ambassador	ambassador	NNP	pos2=NN	3	dobj	_	O
+7	to	to	IN	pos2=TO	6	prep	_	O
+8	#Libya	#libya	NNP	pos2=ADD	7	pobj	_	U-GPE
+9	https://t.co/DVXt4LoYzt	#hlink#	ADD	_	6	appos	_	O
+

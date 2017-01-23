@@ -1,0 +1,13 @@
+1	CLASSIFIED	classify	VBN	pos2=JJ	2	nmod	_	O
+2	Report	report	NN	pos2=NNP	12	dep	_	O
+3	:	:	:	_	12	punct	_	O
+4	U.S.	u.s.	NNP	_	6	compound	_	U-GPE
+5	Drone	drone	NN	pos2=NNP	6	compound	_	O
+6	Strikes	strike	NNS	pos2=VBZ	12	nsubj	_	O
+7	not	not	RB	_	9	neg	_	O
+8	against	against	IN	_	6	prep	_	O
+9	al	al	NNP	_	11	compound	_	B-ORG
+10	-	-	HYPH	_	11	punct	_	I-ORG
+11	Qaeda	qaeda	NNP	_	8	pobj	_	L-ORG
+12	https://t.co/7DjxlewHSd	#hlink#	ADD	pos2=NN	0	root	_	O
+

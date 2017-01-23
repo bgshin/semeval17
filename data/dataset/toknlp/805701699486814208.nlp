@@ -1,0 +1,9 @@
+1	Drew	drew	NNP	pos2=VBD	2	compound	_	B-PERSON
+2	Litton	litton	NNP	_	7	poss	_	I-PERSON
+3	's	's	POS	_	2	case	_	L-PERSON
+4	2017	0	CD	_	7	nmod	_	B-ORG
+5	Chicago	chicago	NNP	_	7	compound	_	I-ORG
+6	Cubs	cub	NNPS	pos2=NNP	7	compound	_	L-ORG
+7	Calendar	calendar	NNP	pos2=NN	0	root	_	O
+8	https://t.co/BghmBKdkuV	#hlink#	ADD	_	7	appos	_	O
+

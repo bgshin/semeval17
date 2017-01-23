@@ -1,0 +1,25 @@
+1	For	for	IN	_	7	prep	_	O
+2	Polanyi	polanyi	NNP	_	1	pobj	_	U-PERSON
+3	,	,	,	_	7	punct	_	O
+4	the	the	DT	_	6	det	_	O
+5	self-regulating	self-regulating	JJ	pos2=VBG	6	nmod	_	O
+6	market	market	NN	_	7	nsubj	_	O
+7	was	be	VBD	_	0	root	_	O
+8	utopian	utopian	JJ	_	9	nmod	_	O
+9	fantasy	fantasy	NN	pos2=NNP	7	attr	_	O
+10	,	,	,	_	7	punct	_	O
+11	and	and	CC	_	7	cc	_	O
+12	the	the	DT	_	14	det	_	O
+13	gold	gold	NN	pos2=JJ	14	compound	_	O
+14	standard	standard	NN	_	15	nsubj	_	O
+15	became	become	VBD	_	7	conj	_	O
+16	the	the	DT	_	17	det	_	O
+17	altar	altar	NN	_	15	attr	_	O
+18	on	on	IN	_	24	prep	_	O
+19	which	which	WDT	_	18	pobj	_	O
+20	the	the	DT	_	22	det	_	O
+21	entire	entire	JJ	_	22	nmod	_	O
+22	order	order	NN	_	24	nsubjpass	_	O
+23	was	be	VBD	_	24	auxpass	_	O
+24	sacrificed	sacrifice	VBN	_	17	relcl	_	O
+

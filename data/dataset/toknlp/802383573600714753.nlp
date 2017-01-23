@@ -1,0 +1,18 @@
+1	@queenofcrows	@queenofcrows	UH	pos2=VBZ	2	discourse	_	O
+2	@Gus_802	@gus_0	NN	pos2=IN	7	attr	_	O
+3	The	the	DT	_	5	det	_	O
+4	same	same	JJ	_	5	nmod	_	O
+5	McConnell	mcconnell	NNP	_	0	attr	_	U-PERSON
+6	who	who	WP	_	7	nsubj	_	O
+7	was	be	VBD	_	5	relcl	_	O
+8	minority	minority	NN	pos2=JJ	9	compound	_	O
+9	leader	leader	NN	_	7	attr	_	O
+10	as	as	IN	_	13	mark	_	O
+11	Obamacare	obamacare	NNP	_	13	nsubjpass	_	U-ORG
+12	was	be	VBD	_	13	auxpass	_	O
+13	passed	pass	VBN	_	7	advcl	_	O
+14	?	?	.	_	2	punct	_	O
+
+1	Riiiight	riiiight	NNP	pos2=UH	2	compound	_	B-PERSON
+2	😂	😂	NNP	pos2=NN	0	root	_	L-PERSON
+

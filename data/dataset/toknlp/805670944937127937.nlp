@@ -1,0 +1,21 @@
+1	HHS	hhs	NNP	pos2=NN	2	compound	_	U-ORG
+2	nominee	nominee	NN	_	4	compound	_	O
+3	Tom	tom	NNP	_	4	compound	_	B-PERSON
+4	Price	price	NNP	pos2=NN	5	nsubj	_	L-PERSON
+5	belongs	belong	VBZ	_	0	root	_	O
+6	to	to	IN	_	5	prep	_	O
+7	Drs.	drs.	NNPS	pos2=NNP	8	compound	_	O
+8	group	group	NN	_	6	pobj	_	O
+9	which	which	WDT	_	10	nsubj	_	O
+10	believes	believe	VBZ	_	8	relcl	_	O
+11	vaccines	vaccine	NNS	_	12	nsubj	_	O
+12	cause	cause	VB	pos2=IN	10	ccomp	_	O
+13	autism	autism	NN	_	12	dobj	_	O
+14	&	&	CC	_	13	cc	_	O
+15	Obama	obama	NNP	_	16	compound	_	U-PERSON
+16	care	care	NN	_	13	conj	_	O
+17	is	be	VBZ	_	18	auxpass	_	O
+18	socialized	socialize	VBN	pos2=JJ	19	nmod	_	O
+19	medicine	medicine	NN	_	15	pobj	_	O
+20	.	.	.	_	5	punct	_	O
+

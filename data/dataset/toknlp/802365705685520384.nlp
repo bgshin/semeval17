@@ -1,0 +1,17 @@
+1	Trump	trump	NN	pos2=NNP	4	nsubj	_	O
+2	Ca	can	MD	_	4	aux	_	O
+3	n’t	not	RB	_	4	neg	_	O
+4	Make	make	VB	_	0	root	_	O
+5	America	america	NNP	_	6	compound	_	O
+6	Great	great	NNP	pos2=JJ	16	dep	_	O
+7	If	if	IN	_	9	mark	_	O
+8	He	he	PRP	pos2=NNP	9	nsubj	_	O
+9	Kicks	kick	VBZ	_	16	advcl	_	O
+10	the	the	DT	_	11	det	_	O
+11	Medicare	medicare	NNP	_	9	dobj	_	U-ORG
+12	Can	can	MD	pos2=NNP	16	dep	_	O
+13	Down	down	NNP	pos2=IN	16	dep	_	O
+14	the	the	DT	_	15	det	_	O
+15	Road	road	NNP	pos2=NN	13	pobj	_	O
+16	https://t.co/Ykb4nUM1Ut	#hlink#	ADD	_	4	ccomp	_	O
+

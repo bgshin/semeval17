@@ -1,0 +1,26 @@
+1	Now	now	RB	pos2=UH	5	advmod	_	O
+2	do	do	VB	pos2=VBP	5	aux	_	O
+3	n't	not	RB	_	5	neg	_	O
+4	be	be	VB	_	5	auxpass	_	O
+5	offended	offend	VBN	pos2=JJ	0	root	_	O
+6	,	,	,	_	5	punct	_	O
+7	but	but	CC	_	5	cc	_	O
+8	what	what	WP	pos2=WDT	10	dobj	_	O
+9	America	america	NNP	_	10	nsubj	_	U-GPE
+10	needs	need	VBZ	_	11	csubj	_	O
+11	is	be	VBZ	_	5	conj	_	O
+12	less	less	JJR	pos2=RBR	16	advmod	_	O
+13	Frank	frank	NNP	_	14	compound	_	B-PERSON
+14	Costanza	costanza	NNP	_	11	attr	_	L-PERSON
+15	and	and	CC	_	14	cc	_	O
+16	more	more	JJR	pos2=RBR	18	nmod	_	O
+17	Mike	mike	NNP	_	18	compound	_	B-PERSON
+18	Pence	penny	NNP	_	14	conj	_	L-PERSON
+19	.	.	.	_	11	punct	_	O
+
+1	My	my	PRP$	_	3	poss	_	O
+2	weekend	weekend	NN	_	3	compound	_	U-DATE
+3	column	column	NN	_	5	dep	_	O
+4	:	:	:	_	5	punct	_	O
+5	https://t.co/D18pLE90jF	#hlink#	ADD	_	0	root	_	O
+

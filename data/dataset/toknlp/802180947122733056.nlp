@@ -1,0 +1,29 @@
+1	Happy	happy	JJ	_	2	nmod	_	O
+2	Hawks	hawk	NNPS	_	3	compound	_	B-DATE
+3	Day	day	NNP	pos2=NN	0	root	_	L-DATE
+4	!	!	.	_	3	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	team	team	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	Salt	salt	NNP	_	7	compound	_	B-GPE
+6	Lake	lake	NNP	_	7	compound	_	I-GPE
+7	City	city	NNP	_	4	pobj	_	L-GPE
+8	to	to	TO	_	9	aux	_	O
+9	face	face	VB	_	3	advcl	_	O
+10	the	the	DT	_	11	det	_	O
+11	@utahjazz	@utahjazz	NN	pos2=XX	9	dobj	_	O
+12	tonight	tonight	NN	_	9	npadvmod	_	U-TIME
+13	at	at	IN	_	9	prep	_	O
+14	8	0	CD	_	15	nmod	_	B-TIME
+15	pm	pm	NN	_	16	compound	_	L-TIME
+16	ET!📺	et!📺	NN	pos2=NNP	13	pobj	_	O
+17	:	:	:	_	3	punct	_	O
+18	@FOXSportsSE	@foxsportsse	ADD	pos2=JJ	19	nmod	_	O
+19	📻	📻	NN	pos2=CD	23	dep	_	O
+20	:	:	:	_	23	punct	_	O
+21	@	@	SYM	pos2=NFP	23	punct	_	O
+22	929TheGame	0thegame	NN	pos2=JJ	23	compound	_	O
+23	#TrueToAtlanta	#truetoatlanta	NN	pos2=NNS	3	dep	_	O
+

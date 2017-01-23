@@ -1,0 +1,23 @@
+1	Cat	cat	NN	pos2=NNP	0	root	_	O
+2	in	in	IN	_	1	prep	_	O
+3	the	the	DT	_	6	det	_	B-ORG
+4	Hat	hat	NNP	pos2=NN	6	compound	_	I-ORG
+5	Valentines	valentines	NNP	pos2=NNS	6	compound	_	I-ORG
+6	Fabric	fabric	NNP	pos2=NN	2	pobj	_	L-ORG
+7	--	--	:	_	1	punct	_	O
+8	Last	last	JJ	_	9	nmod	_	O
+9	Piece	piece	NN	pos2=NNP	1	appos	_	O
+10	--	--	:	_	9	punct	_	O
+11	40	0	CD	_	13	qmod	_	O
+12	-	-	SYM	_	13	punct	_	O
+13	70	0	CD	_	14	nmod	_	O
+14	%	%	NN	_	16	compound	_	O
+15	off	off	IN	pos2=RP	9	prep	_	O
+16	Listings	listing	NNS	_	15	pobj	_	O
+17	throughout	throughout	IN	pos2=RB	16	advmod	_	O
+18	our	our	PRP$	pos2=NN	20	poss	_	O
+19	by	by	IN	pos2=GW	21	nmod	_	O
+20	altcollect	altcollect	GW	pos2=-LRB-	21	nmod	_	O
+21	https://t.co/4Ulp3RFwGa	#hlink#	ADD	_	17	pobj	_	U-ORG
+22	#offer	#offer	-RRB-	pos2=UH	21	punct	_	O
+

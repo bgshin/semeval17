@@ -1,0 +1,22 @@
+1	Chris	chris	NNP	pos2=NN	0	root	_	U-PERSON
+2	in	in	IN	pos2=RB	1	prep	_	O
+3	for	for	IN	_	1	prep	_	O
+4	Homeopathy	homeopathy	NNP	pos2=NN	3	pobj	_	O
+5	,	,	,	_	4	punct	_	O
+6	Reiki	reiki	NNP	_	4	conj	_	O
+7	,	,	,	_	6	punct	_	O
+8	IHM	ihm	NNP	_	6	conj	_	U-ORG
+9	,	,	,	_	8	punct	_	O
+10	Hopi	hopi	NNP	pos2=JJ	12	compound	_	B-ORG
+11	Ear	ear	NNP	pos2=NN	12	compound	_	I-ORG
+12	Candle	candle	NNP	pos2=NN	13	compound	_	L-ORG
+13	clients	client	NNS	_	8	conj	_	O
+14	.	.	.	_	1	punct	_	O
+
+1	Call	call	VB	pos2=NN	0	root	_	O
+2	01903	0	CD	_	4	compound	_	O
+3	856	0	CD	_	4	compound	_	B-CARDINAL
+4	801	0	CD	_	1	dobj	_	L-CARDINAL
+5	for	for	IN	_	1	prep	_	O
+6	details	detail	NNS	_	5	pobj	_	O
+

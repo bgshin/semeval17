@@ -1,0 +1,25 @@
+1	@harusokumura	@harusokumura	UH	pos2=PRP	3	discourse	_	O
+2	IT	it	PRP	pos2=NN	3	nsubj	_	O
+3	'S	's	VBZ	_	0	root	_	O
+4	ACTUALLY	actually	RB	_	3	advmod	_	O
+5	PERSONA	persona	NN	pos2=NNP	3	attr	_	O
+6	5	0	CD	_	5	nmod	_	U-CARDINAL
+7	OFFICIAL	official	JJ	pos2=NN	9	nmod	_	O
+8	ART!I	art!i	NNP	pos2=NNS	9	compound	_	O
+9	plan	plan	NN	pos2=VBP	5	appos	_	O
+10	to	to	TO	_	11	aux	_	O
+11	get	get	VB	_	9	acl	_	O
+12	it	it	PRP	_	13	nsubj	_	O
+13	scanned	scan	VBD	pos2=VBN	11	ccomp	_	O
+14	real	real	RB	pos2=JJ	15	advmod	_	O
+15	soon	soon	RB	_	13	advmod	_	O
+16	bc	bc	CC	pos2=XX	21	preconj	_	O
+17	I	I	PRP	_	19	nsubj	_	O
+18	'm	be	VBP	_	19	aux	_	O
+19	putting	put	VBG	_	15	advcl	_	O
+20	it	it	PRP	_	19	dobj	_	O
+21	in	in	IN	_	19	prep	_	O
+22	my	my	PRP$	_	23	poss	_	O
+23	room	room	NN	_	21	pobj	_	O
+24	https://t.co/Yz9ozsnQUd	#hlink#	ADD	_	19	npadvmod	_	U-ORG
+

@@ -1,0 +1,25 @@
+1	@laurenceevans1	@laurenceevans0	NN	pos2=LS	0	root	_	O
+2	@CookSusanna	@cooksusanna	ADD	pos2=NNP	6	nsubj	_	O
+3	@timfarron	@timfarron	ADD	pos2=UH	4	det	_	O
+4	@Arron_banks	@arron_banks	NNS	pos2=VBZ	2	dobj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	account	account	VB	_	1	advcl	_	O
+7	for	for	IN	_	6	prep	_	O
+8	minority	minority	NN	_	9	compound	_	O
+9	views	view	NNS	_	7	pobj	_	O
+10	to	to	IN	_	6	prep	_	O
+11	an	an	DT	_	12	det	_	O
+12	extent	extent	NN	_	10	pobj	_	O
+13	(	(	-LRB-	_	17	punct	_	O
+14	e.g.	e.g.	FW	pos2=RB	24	advmod	_	O
+15	have	have	VBP	pos2=VB	12	acl	_	O
+16	brexit	brexit	NN	pos2=VBN	12	appos	_	O
+17	ok	ok	JJ	pos2=UH	16	acomp	_	O
+18	,	,	,	_	15	punct	_	O
+19	but	but	CC	_	15	cc	_	O
+20	make	make	VB	pos2=VBP	15	conj	_	O
+21	it	it	PRP	_	22	nsubj	_	O
+22	soft	soft	JJ	_	20	ccomp	_	O
+23	)	)	-RRB-	_	24	punct	_	O
+24	2/2	0	CD	_	20	npadvmod	_	U-CARDINAL
+

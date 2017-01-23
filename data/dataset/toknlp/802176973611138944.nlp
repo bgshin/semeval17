@@ -1,0 +1,16 @@
+1	The	the	DT	_	4	det	_	O
+2	latest	late	JJS	_	4	nmod	_	O
+3	Coachella	coachella	NNP	_	4	compound	_	B-LOC
+4	Valley	valley	NNP	_	0	root	_	L-LOC
+5	360	0	CD	_	4	npadvmod	_	U-CARDINAL
+6	!	!	.	pos2=,	4	punct	_	O
+
+1	https://t.co/GBP7zMPZlb	#hlink#	ADD	pos2=NN	0	root	_	O
+2	Thanks	thanks	NNS	pos2=NN	1	npadvmod	_	O
+3	to	to	IN	_	2	prep	_	O
+4	@MichieMou5	@michiemou0	NNS	pos2=XX	3	pobj	_	O
+5	@skellynj	@skellynj	UH	pos2=XX	8	discourse	_	O
+6	@ThePressBoxESPN	@thepressboxespn	NNP	pos2=ADD	2	vocative	_	U-PERSON
+7	#yemencrisis	#yemencrisis	UH	pos2=IN	8	discourse	_	O
+8	#yemen	#yemen	UH	pos2=ADD	6	discourse	_	O
+

@@ -1,0 +1,23 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	would	would	MD	_	4	aux	_	O
+3	have	have	VB	_	4	aux	_	O
+4	settled	settle	VBN	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	occasional	occasional	JJ	_	8	nmod	_	O
+8	interjection	interjection	NN	_	5	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	truth	truth	NN	_	9	pobj	_	O
+11	&	&	CC	_	10	cc	_	O
+12	full	full	JJ	_	13	nmod	_	O
+13	coverage	coverage	NN	_	10	conj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	Obama	obama	NNP	_	18	poss	_	U-PERSON
+16	's	's	POS	_	15	case	_	O
+17	unconstitutional	unconstitutional	JJ	_	18	nmod	_	O
+18	Admin	admin	NN	pos2=NNP	14	pobj	_	O
+19	...	..	.	pos2=,	4	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/bE45feIlMd	#hlink#	ADD	pos2=NN	0	root	_	O
+

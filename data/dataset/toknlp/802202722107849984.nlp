@@ -1,0 +1,34 @@
+1	FASCIST	fascist	JJ	pos2=NN	3	nmod	_	O
+2	NAZI	nazi	NNP	pos2=NN	3	compound	_	U-NORP
+3	TRUMP	trump	NN	pos2=NNP	4	nsubj	_	O
+4	owes	owe	VBZ	_	0	root	_	O
+5	$	$	$	_	7	qmod	_	B-MONEY
+6	650	0	CD	_	7	compound	_	I-MONEY
+7	M	m	CD	pos2=NN	4	dobj	_	L-MONEY
+8	to	to	IN	_	4	prep	_	O
+9	COMMUNIST	communist	JJ	pos2=VB	10	nmod	_	U-NORP
+10	CHINA	china	NNP	pos2=NN	8	pobj	_	B-ORG
+11	&	&	CC	_	10	cc	_	I-ORG
+12	RUSSIA	russia	NNP	pos2=NN	10	conj	_	L-ORG
+13	!	!	.	_	4	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	own	own	VBP	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	RACIST	racist	JJ	_	5	nmod	_	O
+5	SON	son	NN	pos2=NNP	2	dobj	_	O
+6	OF	of	IN	_	5	prep	_	O
+7	A	a	DT	_	8	det	_	O
+8	BITCH	bitch	NN	_	6	pobj	_	O
+9	!	!	.	_	2	punct	_	O
+
+1	Putin	putin	NNP	_	2	nsubj	_	U-PERSON
+2	has	have	VBZ	_	0	root	_	O
+3	TRUMP	trump	NN	pos2=NNP	5	poss	_	O
+4	'S	's	POS	_	3	case	_	O
+5	BALLS	ball	NNS	_	2	dobj	_	O
+6	!	!	.	_	2	punct	_	O
+
+1	#janesville	#janesville	UH	pos2=XX	2	discourse	_	O
+2	#erie	#erie	UH	pos2=NN	0	root	_	O
+

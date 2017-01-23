@@ -1,0 +1,19 @@
+1	A	a	DT	_	2	det	_	O
+2	bit	bit	NN	_	18	dep	_	O
+3	of	of	IN	_	2	prep	_	O
+4	an	an	DT	_	5	det	_	O
+5	explanation	explanation	NN	_	3	pobj	_	O
+6	about	about	IN	_	5	prep	_	O
+7	my	my	PRP$	_	11	poss	_	O
+8	new	new	JJ	_	11	nmod	_	O
+9	book	book	NN	_	11	compound	_	O
+10	-	-	HYPH	pos2=:	11	punct	_	O
+11	Seat	seat	NN	pos2=NNP	6	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	Mars	mars	NNP	_	15	compound	_	U-LOC
+14	-	-	HYPH	pos2=:	15	punct	_	O
+15	#scifi	#scifi	NNP	pos2=XX	12	pobj	_	O
+16	#fiction	#fiction	GW	pos2=NN	18	nmod	_	O
+17	#Fracking	#fracking	VBG	pos2=GW	18	nmod	_	O
+18	https://t.co/2XeXehq1nB	#hlink#	ADD	_	0	root	_	U-ORG
+

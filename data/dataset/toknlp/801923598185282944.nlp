@@ -1,0 +1,12 @@
+1	Happy	happy	JJ	_	3	nmod	_	O
+2	#thanksgiving	#thanksgiving	VBG	pos2=JJ	3	nmod	_	O
+3	day	day	NN	_	0	root	_	O
+4	!!!	!!	.	_	3	punct	_	O
+
+1	https://t.co/GkOUmepYJu	#hlink#	ADD	_	6	nmod	_	O
+2	#DominatingYourMind	#dominatingyourmind	-RRB-	pos2=ADD	1	punct	_	O
+3	#DYM	#dym	NFP	pos2=NN	6	nmod	_	O
+4	@NYTMetro	@nytmetro	GW	pos2=CD	6	nmod	_	B-PERSON
+5	#NBAwards	#nbawards	GW	pos2=ADD	6	nmod	_	L-PERSON
+6	https://t.co/nZQcY1e8Fl	#hlink#	ADD	pos2=NN	0	root	_	O
+

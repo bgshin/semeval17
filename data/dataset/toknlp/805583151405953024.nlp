@@ -1,0 +1,23 @@
+1	Those	those	DT	_	4	det	_	O
+2	filthy	filthy	JJ	_	4	nmod	_	O
+3	media	medium	NNS	pos2=NN	4	compound	_	O
+4	whores	whore	NNS	_	9	nsubjpass	_	O
+5	at	at	IN	_	4	prep	_	O
+6	CNN	cnn	NNP	_	5	pobj	_	U-ORG
+7	should	should	MD	_	9	aux	_	O
+8	be	be	VB	_	9	auxpass	_	O
+9	put	put	VBN	_	0	root	_	O
+10	in	in	IN	pos2=RP	9	prep	_	O
+11	a	a	DT	_	12	det	_	O
+12	cage	cage	NN	_	10	pobj	_	O
+13	and	and	CC	_	9	cc	_	O
+14	scheduled	schedule	VBN	_	9	conj	_	O
+15	for	for	IN	_	14	prep	_	O
+16	euthanasia	euthanasia	NN	_	15	pobj	_	O
+17	if	if	IN	_	18	mark	_	O
+18	not	not	RB	_	22	advcl	_	O
+19	…	…	NFP	pos2=VB	22	punct	_	O
+20	#MAGA	#maga	GW	pos2=NN	22	nmod	_	O
+21	#PizzaGate	#pizzagate	ADD	pos2=GW	22	nmod	_	O
+22	https://t.co/slFCCjlNcP	#hlink#	ADD	pos2=NN	9	dep	_	O
+

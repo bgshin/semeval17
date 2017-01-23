@@ -1,0 +1,18 @@
+1	@dawnellemurray	@dawnellemurray	UH	pos2=NN	2	discourse	_	O
+2	@KellyannePolls	@kellyannepolls	NNS	pos2=VBZ	4	vocative	_	O
+3	@jaredkushner	@jaredkushner	UH	pos2=WDT	4	discourse	_	O
+4	@mike_pence	@mike_pence	VB	pos2=UH	0	root	_	O
+5	@Chuck7817	@chuck0	NN	pos2=CD	4	dobj	_	O
+6	if	if	IN	_	8	mark	_	O
+7	it	it	PRP	_	8	nsubj	_	O
+8	's	's	VBZ	_	4	advcl	_	O
+9	good	good	JJ	_	10	nmod	_	O
+10	enuff	enuff	NN	pos2=NNP	8	attr	_	O
+11	for	for	IN	_	10	prep	_	O
+12	chuck	chuck	NN	pos2=NNP	11	pobj	_	O
+13	...	..	.	pos2=,	4	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	in	in	IN	pos2=RB	2	prep	_	O
+

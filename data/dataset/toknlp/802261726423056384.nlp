@@ -1,0 +1,12 @@
+1	Black	black	JJ	pos2=NNP	6	nmod	_	B-PERSON
+2	Friday	friday	NNP	_	6	compound	_	L-PERSON
+3	giveaway	giveaway	NN	_	6	compound	_	O
+4	samsung	samsung	NN	pos2=FW	5	compound	_	O
+5	galaxy	galaxy	NN	_	6	compound	_	O
+6	note	note	NN	pos2=VBP	9	dep	_	O
+7	7	0	CD	_	9	dep	_	B-DATE
+8	2016	0	CD	_	9	dep	_	L-DATE
+9	https://t.co/i6lqjl1fFP	#hlink#	ADD	pos2=NNS	0	root	_	O
+10	via	via	IN	_	9	prep	_	O
+11	@YouTube	@youtube	NN	pos2=ADD	10	pobj	_	O
+

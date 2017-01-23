@@ -1,0 +1,11 @@
+1	Tactics	tactic	NNS	_	5	nsubjpass	_	O
+2	used	use	VBN	_	1	acl	_	O
+3	could	could	MD	_	5	aux	_	O
+4	be	be	VB	_	5	auxpass	_	O
+5	seen	see	VBN	_	0	root	_	O
+6	as	as	IN	_	5	prep	_	O
+7	key	key	JJ	_	9	nmod	_	O
+8	voter	voter	NN	_	9	compound	_	O
+9	suppression	suppression	NN	_	6	pobj	_	O
+10	https://t.co/erPfz6sPbv	#hlink#	ADD	pos2=NN	5	dep	_	O
+

@@ -1,0 +1,25 @@
+1	@Communism_Kills	@communism_kills	UH	pos2=NNS	3	discourse	_	O
+2	There	there	EX	_	3	expl	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	nothing	nothing	NN	_	3	attr	_	O
+5	wrong	wrong	JJ	_	4	nmod	_	O
+6	with	with	IN	_	5	prep	_	O
+7	vegetarianism	vegetarianism	NN	_	6	pobj	_	O
+8	so	so	RB	_	9	advmod	_	O
+9	long	long	RB	_	3	advmod	_	O
+10	as	as	IN	_	12	mark	_	O
+11	you	you	PRP	_	12	nsubj	_	O
+12	throw	throw	VBP	_	9	advcl	_	O
+13	in	in	IN	pos2=RP	12	prep	_	O
+14	the	the	DT	_	16	det	_	O
+15	occasional	occasional	JJ	_	16	nmod	_	O
+16	fish	fish	NN	_	13	pobj	_	O
+17	,	,	,	_	16	punct	_	O
+18	steak	steak	NN	_	16	conj	_	O
+19	,	,	,	_	18	punct	_	O
+20	chicken	chicken	NN	_	18	conj	_	O
+21	,	,	,	_	20	punct	_	O
+22	&	&	CC	_	20	cc	_	O
+23	pork	pork	NN	_	20	conj	_	O
+24	.	.	.	_	3	punct	_	O
+

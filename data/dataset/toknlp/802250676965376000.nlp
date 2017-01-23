@@ -1,0 +1,19 @@
+1	There	there	EX	_	2	expl	_	O
+2	are	be	VBP	_	0	root	_	O
+3	children	child	NNS	_	2	attr	_	O
+4	that	that	WDT	pos2=IN	6	nsubj	_	O
+5	only	only	RB	_	6	advmod	_	O
+6	know	know	VBP	_	3	relcl	_	O
+7	a	a	DT	_	9	det	_	O
+8	black	black	JJ	_	9	nmod	_	O
+9	man	man	NN	_	6	dobj	_	O
+10	as	as	IN	_	9	prep	_	O
+11	POTUS	potus	NNP	pos2=NN	10	pobj	_	U-ORG
+12	...	..	.	pos2=,	2	punct	_	O
+
+1	my	my	PRP$	pos2=UH	2	poss	_	O
+2	God	god	NNP	pos2=UH	0	vocative	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+

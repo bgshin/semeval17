@@ -1,0 +1,12 @@
+1	@msleamichele	@msleamichele	UH	pos2=NN	4	discourse	_	O
+2	&	&	CC	_	3	cc	_	O
+3	@NiecyNash	@niecynash	NN	pos2=NNS	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	so	so	RB	_	6	advmod	_	O
+6	terrific	terrific	JJ	_	4	acomp	_	O
+7	on	on	IN	_	6	prep	_	O
+8	this	this	DT	_	9	det	_	O
+9	show	show	NN	_	7	pobj	_	O
+10	😁😁	😁😁	.	pos2=NNP	4	punct	_	O
+11	#ScreamQueens	#screamqueens	NNS	pos2=ADD	0	root	_	O
+

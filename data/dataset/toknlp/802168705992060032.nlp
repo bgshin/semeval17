@@ -1,0 +1,31 @@
+1	@ms_tlovee	@ms_tlovee	UH	pos2=``	3	discourse	_	O
+2	It	it	PRP	_	3	nsubj	_	O
+3	was	be	VBD	_	0	root	_	O
+4	devastating	devastating	JJ	_	3	acomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	see	see	VB	_	3	xcomp	_	O
+7	the	the	DT	_	8	det	_	O
+8	way	way	NN	_	6	dobj	_	O
+9	he	he	PRP	_	10	nsubj	_	O
+10	looked	look	VBD	_	8	relcl	_	O
+11	at	at	IN	_	10	prep	_	O
+12	his	his	PRP$	_	13	poss	_	O
+13	mother	mother	NN	_	11	pobj	_	O
+14	.	.	.	_	3	punct	_	O
+
+1	😓	😓	NNP	pos2=NN	0	root	_	O
+2	And	and	CC	_	1	cc	_	O
+3	all	all	PDT	_	5	predet	_	O
+4	the	the	DT	_	5	det	_	O
+5	traditions	tradition	NNS	_	1	conj	_	O
+6	they	they	PRP	_	8	nsubj	_	O
+7	've	have	VBP	_	8	aux	_	O
+8	kept	keep	VBN	_	5	relcl	_	O
+9	to	to	TO	_	10	aux	_	O
+10	remember	remember	VB	_	8	xcomp	_	O
+11	Jack	jack	NNP	_	10	dobj	_	U-PERSON
+12	...	..	.	pos2=,	1	punct	_	O
+
+1	😩	😩	SYM	pos2=NFP	2	punct	_	U-ORG
+2	#ThisIsUs	#thisisus	NN	pos2=NNS	0	root	_	O
+

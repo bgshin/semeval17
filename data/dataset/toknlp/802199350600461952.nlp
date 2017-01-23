@@ -1,0 +1,20 @@
+1	#BREAKING	#breaking	NN	pos2=VBG	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	#ISIS	#isis	NN	pos2=PRP$	4	nsubj	_	O
+4	claims	claim	VBZ	pos2=NNS	0	root	_	O
+5	responsibility	responsibility	NN	_	4	dobj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	attack	attack	NN	_	6	pobj	_	O
+8	on	on	IN	_	7	prep	_	O
+9	checkpoint	checkpoint	NN	_	8	pobj	_	O
+10	that	that	WDT	_	11	nsubj	_	O
+11	killed	kill	VBD	_	7	relcl	_	O
+12	12	0	CD	_	13	nmod	_	U-CARDINAL
+13	soldiers	soldier	NNS	_	11	dobj	_	O
+14	in	in	IN	_	11	prep	_	O
+15	#Egypt	#egypt	NNP	_	18	poss	_	U-GPE
+16	's	's	POS	_	15	case	_	O
+17	Sinai	sinai	NNP	_	18	compound	_	O
+18	peninsula	peninsula	NN	pos2=NNP	14	pobj	_	O
+19	.	.	.	_	4	punct	_	O
+

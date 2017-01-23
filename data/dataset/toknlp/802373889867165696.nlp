@@ -1,0 +1,20 @@
+1	Listen	listen	VB	_	0	root	_	O
+2	to	to	IN	_	1	prep	_	O
+3	Melania	melania	NNP	_	4	compound	_	B-PERSON
+4	Trump	trump	NNP	_	6	poss	_	I-PERSON
+5	's	's	POS	_	4	case	_	L-PERSON
+6	speech	speech	NN	_	2	pobj	_	O
+7	last	last	JJ	_	8	nmod	_	B-TIME
+8	night	night	NN	_	1	npadvmod	_	L-TIME
+9	vs	vs	CC	pos2=IN	4	cc	_	O
+10	Michelle	michelle	NNP	_	11	compound	_	B-PERSON
+11	Obama	obama	NNP	_	13	poss	_	I-PERSON
+12	's	's	POS	_	11	case	_	L-PERSON
+13	speech	speech	NN	_	17	dep	_	O
+14	in	in	IN	_	13	prep	_	O
+15	2008	0	CD	_	14	pobj	_	U-DATE
+16	:	:	:	_	17	punct	_	O
+17	https://t.co/FtnbnmDygU	#hlink#	ADD	pos2=NN	0	root	_	O
+18	via	via	IN	_	17	prep	_	O
+19	@YouTube	@youtube	NNP	pos2=NN	18	pobj	_	O
+

@@ -1,0 +1,24 @@
+1	#Putin	#putin	NN	pos2=NNP	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	EU	eu	NNP	_	4	nsubj	_	U-ORG
+4	Keeps	keep	VBZ	pos2=NNP	0	root	_	O
+5	Trying	try	VBG	_	4	xcomp	_	O
+6	to	to	TO	pos2=IN	9	aux	_	O
+7	'	'	``	pos2=VB	9	punct	_	O
+8	"	"	``	_	9	punct	_	O
+9	Teach	teach	VB	pos2=NNP	5	xcomp	_	O
+10	"	"	''	_	9	punct	_	O
+11	Us	us	PRP	pos2=NNP	9	dobj	_	O
+12	#Democracy	#democracy	NNP	pos2=''	9	dobj	_	U-ORG
+13	,	,	,	_	4	punct	_	O
+14	But	but	CC	pos2=NNP	4	cc	_	O
+15	Bans	ban	NNS	pos2=NNP	16	nsubj	_	O
+16	Are	be	VBP	_	4	conj	_	O
+17	n't	not	RB	_	16	neg	_	O
+18	the	the	DT	_	20	det	_	O
+19	Way#EU	way#eu	NNP	pos2=NN	20	nsubj	_	U-ORG
+20	fears	fear	NNS	pos2=VBZ	16	attr	_	O
+21	#truth	#truth	IN	pos2=VBP	20	prep	_	O
+22	#Sputnik	#sputnik	NNP	pos2=-LRB-	21	pobj	_	O
+23	https://t.co/sSzyX6BwUj	#hlink#	ADD	_	16	dep	_	O
+

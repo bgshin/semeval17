@@ -1,0 +1,17 @@
+1	IOF	iof	NN	pos2=NNP	2	nsubj	_	U-ORG
+2	supresses	supresses	VBZ	pos2=FW	0	root	_	O
+3	Bil’in	bil'in	NNP	pos2=GW	5	nmod	_	U-GPE
+4	weekly	weekly	JJ	pos2=RB	5	nmod	_	U-DATE
+5	march	march	NN	pos2=GW	16	compound	_	O
+6	https://t.co/AB77a9mYUg	#hlink#	ADD	pos2=NN	16	nsubj	_	B-DATE
+7	#FreePalestine	#freepalestine	ADD	pos2=-RRB-	16	det	_	L-DATE
+8	#Palestine	#palestine	NNP	pos2=PRP	7	pobj	_	O
+9	#BoycottIsrael	#boycottisrael	ADD	pos2=NNP	16	det	_	O
+10	#BDS	#bds	NNS	pos2=ADD	9	dobj	_	O
+11	#CNN	#cnn	ADD	pos2=NNP	16	nmod	_	O
+12	#BBC	#bbc	NN	pos2=$	11	pobj	_	O
+13	#FoxNews	#foxnews	ADD	pos2=NNS	16	punct	_	O
+14	#ABC	#abc	NN	pos2=ADD	16	compound	_	O
+15	#NBC	#nbc	NN	pos2=$	16	compound	_	O
+16	#CBS	#cbs	NNS	pos2=NN	2	dobj	_	O
+

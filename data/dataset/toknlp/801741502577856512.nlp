@@ -1,0 +1,21 @@
+1	French	french	JJ	_	2	nmod	_	U-NORP
+2	primaries	primary	NNS	_	3	nsubj	_	O
+3	show	show	VBP	_	0	root	_	O
+4	that	that	IN	pos2=DT	14	mark	_	O
+5	given	give	VBN	pos2=IN	14	prep	_	O
+6	a	a	DT	_	7	det	_	O
+7	chance	chance	NN	_	5	pobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	express	express	VB	_	7	acl	_	O
+10	their	their	PRP$	_	11	poss	_	O
+11	views	view	NNS	_	9	dobj	_	O
+12	French	french	JJ	_	13	nmod	_	U-NORP
+13	rightists	rightist	NNS	_	14	nsubj	_	O
+14	are	be	VBP	_	3	ccomp	_	O
+15	no	no	DT	pos2=RB	17	det	_	O
+16	neo-liberal	neo-liberal	JJ	_	17	nmod	_	O
+17	globalists	globalist	NNS	_	14	attr	_	O
+18	but	but	CC	_	17	cc	_	O
+19	prudent	prudent	JJ	_	20	nmod	_	O
+20	conservatives	conservative	NNS	_	17	conj	_	O
+

@@ -1,0 +1,26 @@
+1	@PastorDScott	@pastordscott	ADD	pos2=UH	2	det	_	O
+2	@RobertJohnDavi	@robertjohndavi	NN	pos2=ADD	7	nsubj	_	O
+3	PLEASE	please	UH	_	4	discourse	_	O
+4	#NeverRomney	#neverromney	VB	pos2=ADD	0	root	_	O
+5	He	he	PRP	_	6	nsubj	_	O
+6	has	have	VBZ	_	4	ccomp	_	O
+7	hateful	hateful	JJ	_	8	nmod	_	O
+8	BELIEFS	belief	NNS	pos2=NN	6	dobj	_	O
+9	about	about	IN	pos2=RB	8	prep	_	O
+10	PEOTUS	peotus	NNP	pos2=NN	9	pobj	_	U-ORG
+11	.	.	.	_	4	punct	_	O
+
+1	That	that	DT	_	4	nsubj	_	O
+2	wo	wo	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	change	change	VB	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	not	not	RB	_	2	neg	_	O
+4	part	part	NN	_	2	attr	_	O
+5	of	of	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	DEPLORABLES	deplorables	NNP	pos2=NNS	5	pobj	_	O
+

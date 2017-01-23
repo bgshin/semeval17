@@ -1,0 +1,14 @@
+1	Russia	russia	NNP	_	2	nsubj	_	U-GPE
+2	says	say	VBZ	_	0	root	_	O
+3	will	will	MD	_	4	aux	_	O
+4	treat	treat	VB	_	2	ccomp	_	O
+5	as	as	IN	_	4	prep	_	O
+6	terrorists	terrorist	NNS	_	7	compound	_	O
+7	rebels	rebel	NNS	_	5	pobj	_	O
+8	who	who	WP	_	9	nsubj	_	O
+9	refuse	refuse	VBP	_	7	relcl	_	O
+10	to	to	TO	_	11	aux	_	O
+11	leave	leave	VB	_	9	xcomp	_	O
+12	Aleppo	aleppo	NNP	_	11	dobj	_	U-GPE
+13	https://t.co/olOkcZGG3o	#hlink#	ADD	pos2=NNP	11	dobj	_	O
+

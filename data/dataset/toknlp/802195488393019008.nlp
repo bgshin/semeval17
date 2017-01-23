@@ -1,0 +1,19 @@
+1	#news	#news	UH	pos2=FW	11	discourse	_	O
+2	#summary	#summary	NN	pos2=FW	11	dep	_	O
+3	:	:	:	_	11	punct	_	O
+4	#uber	#uber	PRP$	pos2=NN	6	poss	_	O
+5	rival	rival	JJ	pos2=NN	6	nmod	_	O
+6	#grab	#grab	NN	pos2=NNP	9	poss	_	O
+7	’s	's	POS	_	6	case	_	O
+8	first	#ord#	JJ	pos2=RB	9	nmod	_	U-ORDINAL
+9	#cfo	#cfo	NN	pos2=NNP	11	nsubj	_	O
+10	is	be	VBZ	_	11	aux	_	O
+11	leaving	leave	VBG	_	0	root	_	O
+12	the	the	DT	_	13	det	_	O
+13	#company	#company	NN	pos2=NNP	11	dobj	_	O
+14	after	after	IN	_	11	prep	_	O
+15	just	just	RB	_	16	advmod	_	O
+16	seven	#crd#	CD	_	17	nmod	_	U-CARDINAL
+17	#months	#months	NNS	pos2=-LRB-	14	pobj	_	O
+18	https://t.co/P28rhv1PcB	#hlink#	ADD	_	13	appos	_	O
+

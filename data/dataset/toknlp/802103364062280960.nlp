@@ -1,0 +1,21 @@
+1	Cassidy	cassidy	NNP	pos2=LS	0	root	_	U-PERSON
+2	.	.	.	_	1	punct	_	O
+
+1	Nurse	nurse	NN	pos2=NNP	2	compound	_	O
+2	Hoffel	hoffel	NNP	_	0	root	_	U-PERSON
+3	.	.	.	_	2	punct	_	O
+
+1	Hmmmm	hmmmm	UH	_	7	discourse	_	O
+2	who	who	WP	_	7	attr	_	O
+3	could	could	MD	_	7	aux	_	O
+4	the	the	DT	_	6	det	_	O
+5	other	other	JJ	_	6	nmod	_	O
+6	one	#crd#	NN	pos2=CD	7	nsubj	_	O
+7	be	be	VB	_	0	root	_	O
+8	?	?	.	_	7	punct	_	O
+
+1	🐲🤔	🐲🤔	VB	pos2=NN	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+
+1	#ScreamQueens	#screamqueens	NNS	pos2=ADD	0	root	_	U-DATE
+

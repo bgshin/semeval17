@@ -1,0 +1,14 @@
+1	First	#ord#	RB	pos2=JJ	2	advmod	_	U-ORDINAL
+2	Drive	drive	NN	pos2=VB	13	dep	_	O
+3	:	:	:	_	13	punct	_	O
+4	Tesla	tesla	NNP	_	5	compound	_	O
+5	Model	model	NNP	pos2=NN	8	poss	_	O
+6	S	s	POS	pos2=NN	5	case	_	O
+7	P100	p0	NN	pos2=NNP	8	compound	_	O
+8	D	d	NN	pos2=NNP	13	dep	_	O
+9	-	-	:	pos2=HYPH	13	punct	_	O
+10	Men	man	NNS	pos2=NNP	13	poss	_	O
+11	's	's	POS	_	10	case	_	O
+12	Journal	journal	NNP	_	13	nmod	_	O
+13	https://t.co/UhZTdHcwNb	#hlink#	ADD	pos2=NN	0	root	_	O
+

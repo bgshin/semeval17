@@ -1,0 +1,17 @@
+1	Democrat	democrat	NNP	pos2=NN	3	compound	_	U-NORP
+2	Lawmakers	lawmaker	NNPS	pos2=NNS	3	compound	_	O
+3	Call	call	NNP	pos2=VBP	0	root	_	B-WORK_OF_ART
+4	For	for	IN	pos2=NNP	3	prep	_	I-WORK_OF_ART
+5	Investigation	investigation	NNP	pos2=NN	4	pobj	_	I-WORK_OF_ART
+6	Of	of	IN	_	5	prep	_	I-WORK_OF_ART
+7	‘	'	``	pos2=POS	10	punct	_	I-WORK_OF_ART
+8	Chaotic	chaotic	JJ	pos2=NNP	10	nmod	_	I-WORK_OF_ART
+9	Trump	trump	NNP	pos2=GW	10	compound	_	I-WORK_OF_ART
+10	Transition	transition	NNP	pos2=NN	6	pobj	_	L-WORK_OF_ART
+11	https://t.co/BiCg15CgVD	#hlink#	ADD	pos2=RB	16	dep	_	O
+12	via	via	IN	_	10	prep	_	O
+13	@dailycallerWarren	@dailycallerwarren	NNP	pos2=CD	12	pobj	_	O
+14	&	&	CC	_	13	cc	_	O
+15	Cumming	cumming	NNP	_	16	compound	_	O
+16	Interfering	interfering	NNP	pos2=VBG	13	conj	_	O
+

@@ -1,0 +1,15 @@
+1	Yep	yep	UH	pos2=JJ	6	discourse	_	O
+2	arrogance	arrogance	NN	_	6	nsubj	_	O
+3	and	and	CC	_	2	cc	_	O
+4	the	the	DT	_	5	det	_	O
+5	Guardian	guardian	NNP	_	2	conj	_	U-ORG
+6	writes	write	VBZ	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	truth	truth	NN	_	6	dobj	_	O
+9	.	.	.	_	6	punct	_	O
+
+1	Hooray	hooray	UH	pos2=NNP	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	https://t.co/4ynXTCzS02	#hlink#	ADD	_	0	root	_	U-ORG
+

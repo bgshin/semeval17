@@ -1,0 +1,11 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNP	3	nmod	_	O
+3	1.	0.	LS	pos2=CD	7	compound	_	U-CARDINAL
+4	Richard	richard	NNP	_	10	compound	_	O
+5	2.	0.	NNP	pos2=CD	10	compound	_	O
+6	Gil	gil	NNP	_	10	compound	_	O
+7	3.	0.	NNP	pos2=CD	10	compound	_	O
+8	Jess	jess	NNP	_	10	compound	_	B-PERSON
+9	4.	0.	NNP	pos2=CD	10	compound	_	I-PERSON
+10	Luke	luke	NNP	_	0	root	_	L-PERSON
+

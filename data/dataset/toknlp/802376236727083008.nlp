@@ -1,0 +1,28 @@
+1	She	she	PRP	_	2	nsubj	_	O
+2	turns	turn	VBZ	_	0	root	_	O
+3	65	0	CD	_	5	nmod	_	B-DATE
+4	next	next	JJ	_	5	nmod	_	I-DATE
+5	year	year	NN	_	2	npadvmod	_	L-DATE
+6	,	,	,	_	2	punct	_	O
+7	so	so	IN	pos2=RB	9	mark	_	O
+8	she	she	PRP	_	9	nsubj	_	O
+9	knows	know	VBZ	_	2	advcl	_	O
+10	she	she	PRP	_	13	nsubjpass	_	O
+11	will	will	MD	_	13	aux	_	O
+12	be	be	VB	_	13	auxpass	_	O
+13	covered	cover	VBN	_	9	ccomp	_	O
+14	by	by	IN	_	13	agent	_	O
+15	Medicare	medicare	NNP	_	14	pobj	_	U-ORG
+16	no	no	RB	_	17	neg	_	O
+17	matter	matter	RB	_	13	advmod	_	O
+18	what	what	WP	_	19	nsubj	_	O
+19	happens	happen	VBZ	_	17	ccomp	_	O
+20	with	with	IN	_	19	prep	_	O
+21	Obamacare	obamacare	NNP	_	20	pobj	_	U-ORG
+22	.	.	.	_	2	punct	_	O
+
+1	Fuck	fuck	VB	pos2=NN	0	root	_	O
+2	th	th	GW	pos2=JJ	4	nmod	_	U-ORDINAL
+3	…	…	NFP	pos2=GW	4	punct	_	O
+4	https://t.co/NqhOnI33ML	#hlink#	ADD	pos2=NN	1	dobj	_	U-ORG
+

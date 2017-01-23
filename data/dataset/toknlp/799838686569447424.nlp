@@ -1,0 +1,12 @@
+1	People	people	NNS	_	3	nsubj	_	O
+2	are	be	VBP	_	3	aux	_	O
+3	calling	call	VBG	_	0	root	_	O
+4	him	him	PRP	_	3	dobj	_	O
+5	Kim	kim	NNP	_	6	compound	_	B-PERSON
+6	Fatty	fatty	NNP	_	3	oprd	_	L-PERSON
+7	The	the	DT	pos2=NNP	8	det	_	O
+8	Third	#ord#	NNP	pos2=NNPS	6	appos	_	U-ORDINAL
+9	?	?	.	_	3	punct	_	O
+
+1	https://t.co/y150vJuLQy	#hlink#	ADD	_	0	root	_	U-ORG
+

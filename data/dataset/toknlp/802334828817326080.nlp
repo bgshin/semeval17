@@ -1,0 +1,24 @@
+1	Venezuela	venezuela	NNP	pos2=NN	4	dep	_	U-GPE
+2	:	:	:	_	4	punct	_	O
+3	Maduro	maduro	NNP	_	4	nsubj	_	U-PERSON
+4	calls	call	VBZ	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	"	"	``	_	5	punct	_	O
+7	rebellion	rebellion	NN	_	5	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	Venezuelan	venezuelan	JJ	_	10	nmod	_	U-NORP
+10	women	woman	NNS	_	8	pobj	_	O
+11	"	"	''	_	5	punct	_	O
+12	:	:	:	_	4	punct	_	O
+13	Thousands	#crd#	NNS	_	16	nsubj	_	U-CARDINAL
+14	of	of	IN	_	13	prep	_	O
+15	people	people	NNS	_	14	pobj	_	O
+16	took	take	VBD	_	11	acomp	_	O
+17	the	the	DT	_	18	det	_	O
+18	streets	street	NNS	_	16	dobj	_	O
+19	of	of	IN	_	18	prep	_	O
+20	Caracas	caracas	NNP	_	19	pobj	_	U-GPE
+21	on	on	IN	_	16	prep	_	O
+22	…	…	NFP	pos2=NNP	21	pobj	_	O
+23	https://t.co/sWbAeUSoHu	#hlink#	ADD	_	21	pobj	_	O
+

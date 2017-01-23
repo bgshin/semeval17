@@ -1,0 +1,15 @@
+1	Imagine	imagine	VB	_	0	root	_	O
+2	how	how	WRB	_	3	advmod	_	O
+3	many	many	JJ	_	4	nmod	_	O
+4	children	child	NNS	_	6	poss	_	O
+5	's	's	POS	_	4	case	_	O
+6	lives	life	NNS	_	9	nsubjpass	_	O
+7	could	could	MD	_	9	aux	_	O
+8	be	be	VB	_	9	auxpass	_	O
+9	saved	save	VBN	_	1	ccomp	_	O
+10	by	by	IN	_	9	prep	_	O
+11	canceling	cancel	VBG	_	10	pcomp	_	O
+12	drone	drone	NN	_	13	compound	_	O
+13	strikes	strike	NNS	pos2=VBZ	11	dobj	_	O
+14	https://t.co/RLjFfVw8A0	#hlink#	ADD	_	12	appos	_	U-GPE
+

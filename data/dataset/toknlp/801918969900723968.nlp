@@ -1,0 +1,17 @@
+1	Thankful	thankful	JJ	_	6	nsubj	_	O
+2	for	for	IN	_	1	prep	_	O
+3	all	all	PDT	_	5	predet	_	O
+4	these	these	DT	_	5	det	_	O
+5	tv	tv	NN	pos2=NNS	2	pobj	_	O
+6	shows	show	VBZ	pos2=NNS	0	root	_	O
+7	that	that	WDT	pos2=IN	8	nsubj	_	O
+8	make	make	VBP	pos2=VB	6	ccomp	_	O
+9	me	me	PRP	_	10	nsubj	_	O
+10	happy	happy	JJ	_	8	ccomp	_	O
+11	#supernatural	#supernatural	UH	pos2=XX	10	prep	_	O
+12	#TeenWolf	#teenwolf	NNP	pos2=ADD	16	dep	_	U-PERSON
+13	#AgentsofSHIELD	#agentsofshield	ADD	pos2=XX	16	dep	_	O
+14	#TheOriginals	#theoriginals	NNS	pos2=GW	13	pobj	_	O
+15	…	…	NFP	pos2=-LRB-	16	punct	_	O
+16	https://t.co/36ZSLeukjQ	#hlink#	ADD	_	11	pobj	_	O
+

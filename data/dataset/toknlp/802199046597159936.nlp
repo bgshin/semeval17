@@ -1,0 +1,19 @@
+1	Spend	spend	VB	pos2=VBP	11	advcl	_	O
+2	#BlackFriday	#blackfriday	NNP	pos2=NN	1	dobj	_	U-DATE
+3	IN	in	IN	pos2=NNP	1	prep	_	O
+4	#The602Club	#the0club	NN	pos2=NNS	3	pobj	_	O
+5	for	for	IN	_	1	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	best	good	JJS	_	8	nmod	_	O
+8	deal	deal	NN	_	5	pobj	_	O
+9	,	,	,	_	11	punct	_	O
+10	we	we	PRP	_	11	nsubj	_	O
+11	talk	talk	VBP	_	0	root	_	O
+12	#FantasticBeasts	#fantasticbeasts	NNS	pos2=XX	11	dobj	_	O
+13	with	with	IN	_	11	prep	_	O
+14	@BethanyLBlanton	@bethanylblanton	NNP	pos2=NN	13	pobj	_	B-ORG
+15	&	&	CC	_	14	cc	_	I-ORG
+16	@pcfchick	@pcfchick	GW	pos2=UH	14	conj	_	L-ORG
+17	…	…	NFP	pos2=GW	11	discourse	_	O
+18	https://t.co/tA1nMWhhcB	#hlink#	ADD	pos2=NN	11	dep	_	U-ORG
+

@@ -1,0 +1,25 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	did	do	VBD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	think	think	VB	_	0	root	_	O
+5	that	that	IN	_	8	mark	_	O
+6	I	I	PRP	_	8	nsubj	_	O
+7	would	would	MD	_	8	aux	_	O
+8	love	love	VB	_	4	ccomp	_	O
+9	it	it	PRP	_	8	dobj	_	O
+10	as	as	RB	_	11	advmod	_	O
+11	much	much	RB	pos2=JJ	8	advmod	_	O
+12	as	as	IN	_	14	mark	_	O
+13	I	I	PRP	_	14	nsubj	_	O
+14	did	do	VBD	_	11	advcl	_	O
+15	but	but	CC	_	8	cc	_	O
+16	#FantasticBeasts	#fantasticbeasts	NNS	pos2=ADD	18	nsubj	_	O
+17	has	have	VBZ	_	18	aux	_	O
+18	become	become	VBN	pos2=VB	8	conj	_	O
+19	one	#crd#	CD	_	18	attr	_	O
+20	of	of	IN	_	19	prep	_	O
+21	my	my	PRP$	_	23	poss	_	O
+22	favourite	favourite	NN	pos2=JJ	23	compound	_	O
+23	movies	movie	NNS	_	20	pobj	_	O
+24	😊	😊	.	pos2=NNP	4	punct	_	O
+

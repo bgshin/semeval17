@@ -1,0 +1,18 @@
+1	North	north	JJ	_	2	advmod	_	B-NORP
+2	Korean	korean	JJ	_	4	nmod	_	L-NORP
+3	nuclear	nuclear	JJ	pos2=NN	4	nmod	_	O
+4	programme	programme	NN	_	7	nsubjpass	_	O
+5	to	to	TO	_	7	aux	_	O
+6	be	be	VB	_	7	auxpass	_	O
+7	HAMMERED	hammer	VBN	_	0	root	_	O
+8	by	by	IN	_	7	agent	_	O
+9	harsh	harsh	JJ	_	12	nmod	_	O
+10	new	new	JJ	_	12	nmod	_	O
+11	UN	un	NNP	_	12	compound	_	U-ORG
+12	sanctions	sanction	NNS	_	8	pobj	_	O
+13	on	on	IN	_	12	prep	_	O
+14	hermit	hermit	NN	_	15	compound	_	O
+15	state	state	NN	pos2=GW	13	pobj	_	O
+16	https://t.co/VKAsyzzeS7	#hlink#	ADD	_	17	nmod	_	O
+17	https://t.co/RHgC0MOFjY	#hlink#	ADD	_	7	dep	_	U-ORG
+

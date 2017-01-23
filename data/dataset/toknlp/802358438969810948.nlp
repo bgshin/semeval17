@@ -1,0 +1,20 @@
+1	@Gregory__Adams	@gregory__adams	NNS	pos2=ADD	2	nsubj	_	O
+2	@JumpVote	@jumpvote	VBP	pos2=UH	0	root	_	O
+3	no	no	DT	_	4	det	_	O
+4	one	#crd#	NN	_	7	nsubjpass	_	O
+5	is	be	VBZ	_	7	aux	_	O
+6	being	be	VBG	_	7	auxpass	_	O
+7	paid	pay	VBN	_	2	ccomp	_	O
+8	to	to	TO	pos2=IN	9	aux	_	O
+9	protest	protest	VB	_	7	advcl	_	O
+10	Trump	trump	NN	pos2=NNP	9	dobj	_	U-PERSON
+11	but	but	CC	pos2=IN	7	cc	_	O
+12	anyone	anyone	NN	_	18	nsubj	_	O
+13	with	with	IN	_	12	prep	_	O
+14	a	a	DT	_	16	det	_	O
+15	thinking	think	VBG	pos2=NN	16	nmod	_	O
+16	mind	mind	NN	_	13	pobj	_	O
+17	just	just	RB	_	18	advmod	_	O
+18	does	do	VBZ	_	7	conj	_	O
+19	.	.	.	_	2	punct	_	O
+

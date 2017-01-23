@@ -1,0 +1,16 @@
+1	Castro	castro	NNP	_	2	compound	_	O
+2	Town	town	NNP	pos2=NN	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	Fidel	fidel	NNP	_	5	nsubj	_	U-PERSON
+5	grew	grow	VBD	_	0	root	_	O
+6	up	up	RP	pos2=RB	5	prt	_	O
+7	here	here	RB	_	5	advmod	_	O
+8	,	,	,	_	5	punct	_	O
+9	but	but	CC	_	5	cc	_	O
+10	he	he	PRP	_	11	nsubj	_	O
+11	came	come	VBD	_	5	conj	_	O
+12	back	back	RB	_	11	advmod	_	O
+13	to	to	TO	pos2=IN	14	aux	_	O
+14	destroy	destroy	VB	_	11	advcl	_	O
+15	ithttps://t.co/FyqmY8aaGR	#hlink#	ADD	pos2=NN	14	dobj	_	U-ORG
+

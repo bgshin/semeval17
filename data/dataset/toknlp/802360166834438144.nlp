@@ -1,0 +1,27 @@
+1	@JimmyPage	@jimmypage	NNP	pos2=NN	2	compound	_	O
+2	Been	been	NNP	pos2=VBN	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	fan	fan	NN	_	2	appos	_	O
+5	4	0	CD	_	6	compound	_	B-DATE
+6	23	0	CD	_	7	nmod	_	I-DATE
+7	yrs	yr	NNS	_	16	npadvmod	_	L-DATE
+8	(	(	-LRB-	_	16	punct	_	O
+9	Sorry	sorry	JJ	pos2=UH	11	advmod	_	O
+10	-	-	HYPH	pos2=SYM	11	punct	_	O
+11	late	late	JJ	pos2=RB	12	nmod	_	O
+12	bloomer😉	bloomer😉	NN	pos2=NNS	7	appos	_	O
+13	)	)	-RRB-	_	14	punct	_	O
+14	Website	website	NN	_	16	poss	_	O
+15	s	s	POS	pos2=VBZ	14	case	_	O
+16	gorgeous	gorgeous	JJ	pos2=NN	17	nmod	_	O
+17	.	.	.	_	2	punct	_	O
+
+1	Pretty	pretty	RB	pos2=UH	2	advmod	_	O
+2	sure	sure	JJ	pos2=RB	0	root	_	O
+3	Bob	bob	NNP	_	4	compound	_	B-PERSON
+4	Dylan	dylan	NNP	_	5	nsubj	_	L-PERSON
+5	changed	change	VBD	_	2	ccomp	_	O
+6	my	my	PRP$	_	7	poss	_	O
+7	life	life	NN	_	5	dobj	_	O
+8	2.	0.	.	pos2=LS	7	nmod	_	U-CARDINAL
+

@@ -1,0 +1,16 @@
+1	Cristiano	cristiano	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	6	dep	_	L-PERSON
+3	:	:	:	_	6	punct	_	O
+4	His	his	PRP$	_	5	poss	_	O
+5	son	son	NN	_	6	nsubj	_	O
+6	gets	get	VBZ	_	0	root	_	O
+7	off	off	RP	pos2=IN	6	prt	_	O
+8	Griezmann	griezmann	NNP	_	6	dobj	_	U-ORG
+9	!	!	.	_	6	punct	_	O
+
+1	-	-	SYM	pos2=:	5	punct	_	O
+2	The	the	DT	pos2=NNP	4	det	_	O
+3	Siver	siver	NNP	_	4	compound	_	O
+4	Times	times	NNP	pos2=GW	5	nmod	_	O
+5	https://t.co/1hp2VR3eEa	#hlink#	ADD	_	0	root	_	O
+

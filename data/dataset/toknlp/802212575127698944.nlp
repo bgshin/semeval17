@@ -1,0 +1,34 @@
+1	@mitchellvii	@mitchellvii	UH	pos2=NNS	5	discourse	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	nt	nt	RB	_	5	advmod	_	O
+5	believe	believe	VB	_	0	root	_	O
+6	he	he	PRP	_	7	nsubj	_	O
+7	lost	lose	VBD	_	5	ccomp	_	O
+8	the	the	DT	_	10	det	_	O
+9	popular	popular	JJ	_	10	nmod	_	O
+10	vote	vote	NN	_	7	dobj	_	O
+11	either	either	RB	_	7	advmod	_	O
+12	.	.	.	_	5	punct	_	O
+
+1	It	it	PRP	_	5	nsubj	_	O
+2	literally	literally	RB	_	5	advmod	_	O
+3	does	do	VBZ	_	5	aux	_	O
+4	nt	nt	RB	_	5	advmod	_	O
+5	add	add	VB	_	0	root	_	O
+6	up	up	RP	_	5	prt	_	O
+7	.	.	.	_	5	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	think	think	VBP	_	0	root	_	O
+3	he	he	PRP	_	4	nsubj	_	O
+4	won	win	VBD	_	2	ccomp	_	O
+5	the	the	DT	_	7	det	_	O
+6	pop	pop	NN	pos2=JJ	7	compound	_	O
+7	vote	vote	NN	_	4	dobj	_	O
+8	in	in	IN	_	4	prep	_	O
+9	a	a	DT	_	10	det	_	O
+10	landslide	landslide	NN	_	8	pobj	_	O
+11	also	also	RB	_	4	advmod	_	O
+12	.	.	.	_	2	punct	_	O
+

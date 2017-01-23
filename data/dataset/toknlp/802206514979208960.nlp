@@ -1,0 +1,28 @@
+1	@RedState4Ever	@redstate0ever	NN	pos2=WRB	9	dobj	_	O
+2	@Merry__Can	@merry__can	ADD	pos2=XX	9	nsubj	_	O
+3	@therealcornett	@therealcornett	UH	pos2=XX	9	discourse	_	O
+4	@megynkelly	@megynkelly	RB	pos2=UH	9	advmod	_	O
+5	In	in	IN	pos2=NNP	4	prep	_	O
+6	June	june	NNP	_	5	pobj	_	U-DATE
+7	,	,	,	_	9	punct	_	O
+8	I	I	PRP	pos2=NNP	9	nsubj	_	O
+9	cut	cut	VBD	_	0	root	_	O
+10	off	off	RP	_	9	prt	_	O
+11	Fox	fox	NNP	_	9	dobj	_	U-ORG
+12	altogether	altogether	RB	_	9	advmod	_	O
+13	!	!	.	_	9	punct	_	O
+
+1	Dana	dana	NNP	_	0	root	_	U-PERSON
+2	,	,	,	_	1	punct	_	O
+3	Juan	juan	NNP	_	1	conj	_	U-PERSON
+4	,	,	,	_	3	punct	_	O
+5	and	and	CC	_	3	cc	_	O
+6	Megyn	megyn	NNP	_	3	conj	_	U-PERSON
+7	all	all	DT	_	8	det	_	O
+8	bat	bat	NN	_	1	appos	_	O
+9	for	for	IN	_	8	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	other	other	JJ	_	12	nmod	_	O
+12	team	team	NN	_	9	pobj	_	O
+13	.	.	.	_	1	punct	_	O
+

@@ -1,0 +1,26 @@
+1	@paulkrugman	@paulkrugman	JJ	pos2=XX	2	nmod	_	O
+2	HRC	hrc	NN	pos2=NNP	3	nsubj	_	U-ORG
+3	pushed	push	VBN	pos2=VBD	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	NAFTA	nafta	NNP	pos2=NN	4	pobj	_	U-ORG
+6	,	,	,	_	3	punct	_	O
+7	AND	and	CC	_	3	cc	_	O
+8	TPP	tpp	NN	pos2=NNP	5	conj	_	O
+9	45	0	CD	_	10	nmod	_	U-CARDINAL
+10	TIMES	time	NNS	_	8	npadvmod	_	O
+11	!	!	.	_	3	punct	_	O
+
+1	Democrats	democrat	NNPS	pos2=NNS	2	nsubj	_	U-NORP
+2	GOT	get	VBD	_	0	root	_	O
+3	NAFTA	nafta	NNP	pos2=NN	4	nsubj	_	U-ORG
+4	passed	pass	VBD	pos2=VBN	2	ccomp	_	O
+5	and	and	CC	_	4	cc	_	O
+6	the	the	DT	_	7	det	_	O
+7	deregulation	deregulation	NN	_	13	dep	_	O
+8	of	of	IN	_	7	prep	_	O
+9	wall	wall	NN	pos2=NNP	10	compound	_	O
+10	street	street	NN	pos2=NNP	8	pobj	_	O
+11	,	,	,	_	13	punct	_	O
+12	…	…	NFP	pos2=-LRB-	13	punct	_	O
+13	https://t.co/Le8QXqlSpa	#hlink#	ADD	pos2=NN	2	dep	_	O
+

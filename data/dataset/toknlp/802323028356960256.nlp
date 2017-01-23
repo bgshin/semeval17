@@ -1,0 +1,18 @@
+1	#Spurs	#spurs	NNS	pos2=VBZ	3	poss	_	U-ORG
+2	#GoSpursGo	#gospursgo	POS	pos2=IN	1	case	_	O
+3	TIm	tim	NNP	_	4	compound	_	B-PERSON
+4	Duncan	duncan	NNP	_	0	root	_	L-PERSON
+5	1998	0	CD	_	7	nmod	_	B-DATE
+6	-	-	SYM	pos2=HYPH	7	punct	_	I-DATE
+7	99	0	CD	_	12	nmod	_	L-DATE
+8	Upper	upper	NNP	pos2=JJ	11	compound	_	B-ORG
+9	Deck	deck	NNP	pos2=NN	11	compound	_	I-ORG
+10	Super	super	NNP	_	11	compound	_	I-ORG
+11	Powers	power	NNPS	pos2=NNP	12	compound	_	L-ORG
+12	Spurs	spur	NNPS	pos2=NNP	13	compound	_	O
+13	#Card	#card	NNP	pos2=POS	17	compound	_	O
+14	#S24	#s0	NN	pos2=NFP	15	dep	_	O
+15	https://t.co/jq6DITNmmv	#hlink#	ADD	_	17	nmod	_	U-ORG
+16	#TimDuncan	#timduncan	ADD	pos2=-RRB-	0	root	_	U-ORG
+17	#NBA	#nba	NN	pos2=ADD	16	pobj	_	O
+

@@ -1,0 +1,21 @@
+1	Ludicrous	ludicrous	JJ	_	3	nmod	_	O
+2	road	road	NN	_	3	compound	_	O
+3	trip	trip	NN	_	9	dep	_	O
+4	:	:	:	_	9	punct	_	O
+5	Tesla	tesla	NNP	_	6	compound	_	O
+6	Model	model	NNP	pos2=NN	9	poss	_	O
+7	S	s	POS	pos2=NN	6	case	_	O
+8	P90	p0	NN	pos2=NNP	9	compound	_	O
+9	D	d	NN	pos2=NNP	0	root	_	O
+10	from	from	IN	_	9	prep	_	O
+11	London	london	NNP	_	10	pobj	_	U-GPE
+12	to	to	IN	_	9	prep	_	O
+13	Berlin	berlin	NNP	_	15	compound	_	U-GPE
+14	#Tesla	#tesla	NNP	pos2=POS	20	dep	_	B-PERSON
+15	#Models	#models	NNP	pos2=NNS	20	dep	_	L-PERSON
+16	#car	#car	XX	pos2=UH	20	dep	_	O
+17	#Automotive	#automotive	NNP	pos2=XX	20	dep	_	U-PERSON
+18	#cars	#cars	XX	pos2=GW	20	nmod	_	O
+19	#Autos	#autos	GW	pos2=XX	20	nmod	_	U-PERSON
+20	https://t.co/1XRmE91xi6	#hlink#	ADD	_	12	pobj	_	O
+

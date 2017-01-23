@@ -1,0 +1,29 @@
+1	Well	well	UH	_	6	discourse	_	O
+2	,	,	,	_	6	punct	_	O
+3	@CabbitAnalytics	@cabbitanalytics	NNS	pos2=UH	6	vocative	_	O
+4	,	,	,	_	6	punct	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	are	be	VBP	_	0	root	_	O
+7	right	right	JJ	_	6	acomp	_	O
+8	.	.	.	_	6	punct	_	O
+
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	no	no	DT	_	6	det	_	O
+4	true	true	JJ	_	6	nmod	_	O
+5	fascist	fascist	JJ	_	6	nmod	_	O
+6	movement	movement	NN	_	2	attr	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	We	we	PRP	_	4	nsubjpass	_	O
+2	are	be	VBP	_	4	aux	_	O
+3	being	be	VBG	_	4	auxpass	_	O
+4	treated	treat	VBN	_	0	root	_	O
+5	to	to	IN	_	4	prep	_	O
+6	an	an	DT	_	8	det	_	O
+7	amateurish	amateurish	JJ	_	8	nmod	_	O
+8	copy	copy	NN	_	5	pobj	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	https://t.co/ArrFFRotRF	#hlink#	ADD	_	0	root	_	U-ORG
+

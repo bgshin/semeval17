@@ -1,0 +1,31 @@
+1	@KieraGorden	@kieragorden	NNP	pos2=ADD	0	root	_	O
+2	But	but	CC	_	1	cc	_	O
+3	the	the	DT	_	6	det	_	O
+4	#Australian	#australian	NNP	pos2=$	6	nmod	_	O
+5	#coal	#coal	UH	pos2=MD	6	discourse	_	O
+6	#LNP	#lnp	NN	pos2=NNP	1	conj	_	U-PERSON
+7	(	(	-LRB-	_	6	punct	_	O
+8	Libs	libs	NNP	pos2=NNS	6	appos	_	U-PERSON
+9	.	.	.	_	6	punct	_	O
+10	)	)	-RRB-	_	6	punct	_	O
+
+1	and	and	CC	_	2	cc	_	O
+2	#GOP	#gop	VB	pos2=$	0	root	_	B-PERSON
+3	#Oil	#oil	NNP	pos2=TO	2	dobj	_	L-PERSON
+4	already	already	RB	_	5	advmod	_	O
+5	know	know	VBP	pos2=VB	2	parataxis	_	O
+6	this	this	DT	_	5	dobj	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	They	they	PRP	_	3	nsubj	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	want	want	VBP	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	earn	earn	VB	_	3	xcomp	_	O
+6	cash	cash	NN	_	5	dobj	_	O
+7	out	out	IN	_	5	prep	_	O
+8	of	of	IN	_	7	prep	_	O
+9	fossil	fossil	NN	pos2=JJ	10	compound	_	O
+10	fuels	fuel	NNS	_	8	pobj	_	O
+11	while	while	IN	_	10	mark	_	O
+

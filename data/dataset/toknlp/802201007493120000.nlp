@@ -1,0 +1,19 @@
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=ADD	5	dep	_	O
+2	Please	please	UH	_	5	discourse	_	O
+3	do	do	VB	_	5	aux	_	O
+4	not	not	RB	_	5	neg	_	O
+5	appoint	appoint	VB	_	0	root	_	O
+6	Ben	ben	NNP	_	7	compound	_	B-PERSON
+7	Carson	carson	NNP	_	5	dobj	_	L-PERSON
+8	to	to	IN	_	5	prep	_	O
+9	your	your	PRP$	_	10	poss	_	O
+10	administration	administration	NN	_	8	pobj	_	O
+11	.	.	.	_	5	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	not	not	RB	_	2	neg	_	O
+4	very	very	RB	_	5	advmod	_	O
+5	bright	bright	JJ	_	2	acomp	_	O
+6	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,24 @@
+1	@jk_rowling	@jk_rowling	VBG	pos2=``	15	csubj	_	O
+2	#FantasticBeasts	#fantasticbeasts	NNS	pos2=ADD	5	poss	_	O
+3	'	'	POS	pos2=``	2	case	_	O
+4	beautiful	beautiful	JJ	_	5	nmod	_	O
+5	screenplay	screenplay	NN	_	1	dobj	_	O
+6	,	,	,	_	5	punct	_	O
+7	perfect	perfect	JJ	_	8	nmod	_	O
+8	cast	cast	NN	_	5	appos	_	O
+9	&	&	CC	_	8	cc	_	O
+10	performances	performance	NNS	_	8	conj	_	O
+11	,	,	,	_	5	punct	_	O
+12	&	&	CC	_	1	cc	_	O
+13	awesome	awesome	JJ	_	14	nmod	_	O
+14	music	music	NN	_	15	nsubj	_	O
+15	makes	make	VBZ	pos2=NNS	0	root	_	O
+16	u	u	PRP	pos2=TO	17	nsubj	_	O
+17	create	create	VB	pos2=VBP	15	ccomp	_	O
+18	an	an	DT	_	19	det	_	O
+19	account	account	NN	_	17	dobj	_	O
+20	just	just	RB	_	22	advmod	_	O
+21	to	to	TO	_	22	aux	_	O
+22	say	say	VB	_	17	advcl	_	O
+23	this	this	DT	_	22	dobj	_	O
+

@@ -1,0 +1,20 @@
+1	@SweetAmber1996	@sweetamber0	NN	pos2=UH	0	root	_	O
+2	oh	oh	UH	_	1	discourse	_	O
+3	my	my	UH	_	2	discourse	_	O
+4	!!	!!	.	_	1	punct	_	O
+
+1	She	she	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	back	back	RB	pos2=JJ	2	advmod	_	O
+4	!	!	.	_	2	punct	_	O
+
+1	Hope	hope	VBP	_	0	root	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	are	be	VBP	_	1	ccomp	_	O
+4	well	well	RB	pos2=JJ	3	acomp	_	O
+5	and	and	CC	_	1	cc	_	O
+6	had	have	VBD	_	1	conj	_	O
+7	a	a	DT	_	9	det	_	O
+8	great	great	JJ	_	9	nmod	_	O
+9	Thanksgiving	thanksgiving	NNP	pos2=NN	6	dobj	_	U-DATE
+

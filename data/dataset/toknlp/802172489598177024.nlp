@@ -1,0 +1,17 @@
+1	Do	do	VB	pos2=VBP	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	forget	forget	VB	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	buy	buy	VB	_	3	xcomp	_	O
+6	crap	crap	NN	pos2=RB	5	dobj	_	O
+7	!	!	.	_	3	punct	_	O
+
+1	https://t.co/5Q0z1OhcQn	#hlink#	ADD	pos2=NNP	0	root	_	O
+2	Also	also	RB	_	5	advmod	_	O
+3	who	who	WP	_	5	nsubjpass	_	O
+4	's	's	VBZ	pos2=PRP	5	auxpass	_	O
+5	got	get	VBN	pos2=VBD	0	root	_	O
+6	my	my	PRP$	_	8	poss	_	O
+7	#Hatchimals	#hatchimals	NNS	pos2=JJ	8	compound	_	O
+8	hookup	hookup	NN	_	5	dobj	_	O
+

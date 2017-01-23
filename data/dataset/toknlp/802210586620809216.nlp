@@ -1,0 +1,10 @@
+1	Why	why	WRB	_	4	advmod	_	O
+2	does	do	VBZ	_	4	aux	_	O
+3	this	this	DT	_	4	nsubj	_	O
+4	sound	sound	VB	pos2=NN	0	root	_	O
+5	like	like	IN	_	4	prep	_	O
+6	a	a	DT	_	9	det	_	O
+7	melania	melania	NN	pos2=JJ	8	compound	_	O
+8	trump	trump	NN	_	9	compound	_	O
+9	speech	speech	NN	_	5	pobj	_	O
+

@@ -1,0 +1,23 @@
+1	@MarkAmesExiled	@markamesexiled	VBD	pos2=XX	0	root	_	O
+2	The	the	DT	_	3	det	_	O
+3	@washingtonpost	@washingtonpost	RBS	pos2=``	4	nsubj	_	O
+4	elevated	elevate	VBD	pos2=VBN	1	conj	_	O
+5	a	a	DT	_	6	det	_	O
+6	loon	loon	NN	_	4	dobj	_	O
+7	(	(	-LRB-	_	6	punct	_	O
+8	who	who	WP	_	10	nsubj	_	O
+9	also	also	RB	_	10	advmod	_	O
+10	operates	operate	VBZ	_	6	relcl	_	O
+11	@KremlinTrolls	@kremlintrolls	NNS	pos2=XX	10	dobj	_	O
+12	)	)	-RRB-	_	6	punct	_	O
+13	to	to	TO	_	14	aux	_	O
+14	judge	judge	VB	_	4	advcl	_	O
+15	what	what	WP	_	16	nsubj	_	O
+16	is	be	VBZ	_	14	ccomp	_	O
+17	proper	proper	JJ	_	18	nmod	_	O
+18	media	medium	NNS	pos2=NN	16	attr	_	O
+19	in	in	IN	_	18	prep	_	O
+20	the	the	DT	_	21	det	_	O
+21	US	us	NNP	_	19	pobj	_	U-GPE
+22	.	.	.	_	1	punct	_	O
+

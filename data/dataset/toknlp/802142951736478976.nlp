@@ -1,0 +1,24 @@
+1	In	in	IN	_	6	prep	_	O
+2	5	0	CD	_	3	nmod	_	B-DATE
+3	years	year	NNS	_	1	pobj	_	L-DATE
+4	I	I	PRP	_	6	nsubj	_	O
+5	will	will	MD	_	6	aux	_	O
+6	live	live	VB	_	0	root	_	O
+7	in	in	IN	_	6	prep	_	O
+8	#Jerusalem	#jerusalem	NNP	pos2=PRP	7	pobj	_	U-GPE
+9	and	and	CC	_	6	cc	_	O
+10	you	you	PRP	_	8	conj	_	O
+11	?	?	.	_	6	punct	_	O
+
+1	Find	find	VB	_	0	root	_	O
+2	out	out	RP	pos2=RB	1	prt	_	O
+3	here	here	RB	_	1	advmod	_	O
+4	!	!	.	_	1	punct	_	O
+
+1	➤	➤	SYM	pos2=NFP	2	punct	_	O
+2	SIGN	sign	NN	pos2=VB	0	root	_	O
+3	IN	in	IN	_	2	prep	_	O
+4	:	:	:	_	3	punct	_	O
+5	https://t.co/YqydMu7QUr	#hlink#	ADD	pos2=NN	6	nmod	_	O
+6	https://t.co/4vIVTeP01p	#hlink#	ADD	_	3	pobj	_	U-ORG
+

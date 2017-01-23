@@ -1,0 +1,23 @@
+1	i	I	PRP	_	2	nsubj	_	O
+2	mentioned	mention	VBD	_	0	root	_	O
+3	animal	animal	NN	_	4	compound	_	O
+4	testing	testing	NN	_	2	dobj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	my	my	PRP$	_	7	poss	_	O
+7	class	class	NN	_	10	poss	_	O
+8	's	's	POS	_	7	case	_	O
+9	group	group	NN	_	10	compound	_	O
+10	chat	chat	NN	pos2=VB	5	pobj	_	O
+11	and	and	CC	_	2	cc	_	O
+12	suddenly	suddenly	RB	_	14	advmod	_	O
+13	it	it	PRP	_	14	nsubj	_	O
+14	turned	turn	VBD	_	2	conj	_	O
+15	into	into	IN	_	14	prep	_	O
+16	a	a	DT	_	17	det	_	O
+17	debate	debate	NN	_	15	pobj	_	O
+18	can	can	MD	_	21	aux	_	O
+19	we	we	PRP	_	21	nsubj	_	O
+20	just	just	RB	_	21	advmod	_	O
+21	calm	calm	VB	pos2=VBP	14	conj	_	O
+22	down	down	RP	pos2=RB	21	prt	_	O
+

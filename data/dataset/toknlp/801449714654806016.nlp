@@ -1,0 +1,21 @@
+1	The	the	DT	_	2	det	_	O
+2	IA	ia	NNP	pos2=NN	4	nsubj	_	U-ORG
+3	just	just	RB	_	4	advmod	_	O
+4	divided	divide	VBD	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	city	city	NN	_	4	dobj	_	O
+7	in	in	IN	_	4	prep	_	O
+8	half	half	NN	_	7	pobj	_	U-CARDINAL
+9	.	.	.	_	4	punct	_	O
+
+1	Civilians	civilian	NNS	pos2=NNPS	3	nsubj	_	O
+2	must	must	MD	_	3	aux	_	O
+3	flee	flee	VB	_	0	root	_	O
+4	before	before	IN	_	6	mark	_	O
+5	they	they	PRP	_	6	nsubj	_	O
+6	starve	starve	VBP	_	3	advcl	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	#MosulOffensive	#mosuloffensive	ADD	pos2=-LRB-	2	punct	_	O
+2	https://t.co/sdG5gChW95	#hlink#	ADD	_	0	root	_	O
+

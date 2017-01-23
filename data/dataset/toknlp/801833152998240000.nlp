@@ -1,0 +1,28 @@
+1	Turkey	turkey	NNP	pos2=NN	4	nmod	_	U-GPE
+2	you	you	PRP	pos2=PRP$	3	nsubj	_	O
+3	meddling	meddle	VBG	pos2=NN	0	root	_	O
+4	fuck	fuck	NN	pos2=VBP	3	dobj	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	'm	be	VBP	_	4	aux	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	kidding	kid	VBG	_	0	root	_	O
+5	,	,	,	_	7	punct	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	are	be	VBP	_	4	ccomp	_	O
+8	a	a	DT	_	12	det	_	O
+9	strong	strong	JJ	_	12	nmod	_	O
+10	independent	independent	JJ	_	12	nmod	_	O
+11	state	state	NN	_	12	compound	_	O
+12	actor	actor	NN	_	7	attr	_	O
+13	who	who	WP	_	14	nsubj	_	O
+14	does	do	VBZ	_	12	relcl	_	O
+15	what	what	WP	_	17	dobj	_	O
+16	she	she	PRP	_	17	nsubj	_	O
+17	pleases	please	VBZ	_	14	ccomp	_	O
+18	.	.	.	_	4	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/CcGONSC0go	#hlink#	ADD	pos2=NN	0	root	_	O
+

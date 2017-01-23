@@ -1,0 +1,32 @@
+1	Luis	luis	NNP	_	2	compound	_	B-PERSON
+2	Enrique	enrique	NNP	_	8	vocative	_	L-PERSON
+3	:	:	:	_	8	punct	_	O
+4	"	"	``	pos2=''	9	advmod	_	O
+5	But	but	CC	_	8	cc	_	O
+6	the	the	DT	_	7	det	_	O
+7	crowd	crowd	NN	_	8	nsubj	_	O
+8	were	be	VBD	_	12	ccomp	_	O
+9	great	great	JJ	_	8	acomp	_	O
+10	,	,	,	_	12	punct	_	O
+11	this	this	DT	_	12	nsubj	_	O
+12	is	be	VBZ	_	0	root	_	O
+13	a	a	DT	_	15	det	_	O
+14	great	great	JJ	_	15	nmod	_	O
+15	place	place	NN	_	12	attr	_	O
+16	to	to	TO	_	17	aux	_	O
+17	play	play	VB	_	15	relcl	_	O
+18	.	.	.	_	12	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	handbags	handbag	NNS	_	2	attr	_	O
+5	with	with	IN	_	4	prep	_	O
+6	a	a	DT	_	8	det	_	O
+7	Celtic	celtic	JJ	_	8	nmod	_	U-NORP
+8	player	player	NN	_	5	pobj	_	O
+9	.	.	.	_	2	punct	_	O
+10	"	"	''	_	2	punct	_	O
+
+1	#fcblive	#fcblive	UH	pos2=XX	0	root	_	O
+

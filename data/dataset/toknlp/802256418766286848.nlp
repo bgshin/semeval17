@@ -1,0 +1,15 @@
+1	There	there	EX	_	3	expl	_	O
+2	must	must	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	band	band	NN	_	3	attr	_	O
+6	called	call	VBN	pos2=VBD	5	acl	_	O
+7	Bad	bad	NNP	_	8	compound	_	B-ORG
+8	Hombres	hombres	NNP	pos2=NNS	6	oprd	_	L-ORG
+9	out	out	RB	pos2=IN	10	advmod	_	O
+10	there	there	RB	_	6	advmod	_	O
+11	somewhere	somewhere	RB	_	6	advmod	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	#TrumpInauguralBand	#trumpinauguralband	NN	pos2=ADD	0	root	_	O
+

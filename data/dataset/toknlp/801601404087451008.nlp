@@ -1,0 +1,9 @@
+1	Grayson	grayson	NNP	pos2=NN	0	root	_	U-PERSON
+2	to	to	IN	_	1	prep	_	O
+3	Allen	allen	NNP	_	2	pobj	_	U-PERSON
+4	.	.	.	_	1	punct	_	O
+
+1	Pure	pure	JJ	_	2	nmod	_	O
+2	beauty	beauty	NN	_	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+

@@ -1,0 +1,21 @@
+1	Second	#ord#	JJ	pos2=RB	3	nmod	_	U-ORDINAL
+2	runner	runner	NN	_	3	compound	_	O
+3	up	up	NN	pos2=RB	6	dep	_	O
+4	:	:	:	_	6	punct	_	O
+5	Protest	protest	NNP	pos2=VB	6	compound	_	B-ORG
+6	Starbucks	starbucks	NNP	pos2=NNPS	8	vocative	_	L-ORG
+7	,	,	,	_	6	punct	_	O
+8	buy	buy	VB	pos2=VBP	0	root	_	O
+9	a	a	DT	_	10	det	_	O
+10	Starbucks	starbucks	NNP	pos2=NNPS	8	dobj	_	U-ORG
+11	and	and	CC	_	8	cc	_	O
+12	tell	tell	VB	_	8	conj	_	O
+13	them	them	PRP	_	12	dative	_	O
+14	your	your	PRP$	_	15	poss	_	O
+15	name	name	NN	_	16	nsubj	_	O
+16	is	be	VBZ	_	12	ccomp	_	O
+17	Trump	trump	NNP	pos2=NN	16	attr	_	U-PERSON
+18	.	.	.	_	8	punct	_	O
+
+1	https://t.co/rmMlAXl3ox	#hlink#	ADD	_	0	root	_	U-ORG
+

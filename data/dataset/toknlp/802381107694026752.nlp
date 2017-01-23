@@ -1,0 +1,14 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	some	some	DT	_	5	det	_	O
+4	Universal	universal	NNP	pos2=JJ	5	compound	_	B-ORG
+5	Robots	robot	NNS	pos2=NNPS	7	nsubj	_	L-ORG
+6	to	to	TO	_	7	aux	_	O
+7	take	take	VB	_	2	ccomp	_	O
+8	care	care	NN	_	7	dobj	_	O
+9	of	of	IN	_	7	prep	_	O
+10	this	this	DT	_	12	det	_	O
+11	Nazi	nazi	NNP	pos2=JJ	12	compound	_	U-NORP
+12	problem	problem	NN	_	9	pobj	_	O
+13	.	.	.	_	2	punct	_	O
+

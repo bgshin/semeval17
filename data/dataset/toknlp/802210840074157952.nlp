@@ -1,0 +1,16 @@
+1	Mannequin	mannequin	NNP	pos2=NN	2	compound	_	O
+2	Challenge	challenge	NNP	_	4	compound	_	O
+3	Part	part	NNP	pos2=NN	4	compound	_	O
+4	2.	0.	NNP	pos2=CD	5	nsubj	_	O
+5	Peep	peep	VB	_	0	root	_	O
+6	me	me	PRP	_	7	nsubj	_	O
+7	being	be	VBG	_	5	advcl	_	O
+8	fat	fat	JJ	pos2=NN	7	acomp	_	O
+9	with	with	IN	_	7	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	whipped	whip	VBN	_	12	nmod	_	O
+12	cream	cream	NN	_	9	pobj	_	O
+13	😂	😂	NNP	pos2=HYPH	15	nmod	_	O
+14	#mannequinchallenge	#mannequinchallenge	GW	pos2=IN	15	nmod	_	O
+15	https://t.co/1o7imOdzMA	#hlink#	ADD	_	5	dep	_	O
+

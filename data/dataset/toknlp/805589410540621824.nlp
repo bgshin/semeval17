@@ -1,0 +1,17 @@
+1	A	a	DT	_	2	det	_	O
+2	couple	couple	NN	_	7	npadvmod	_	O
+3	of	of	IN	_	2	prep	_	O
+4	days	day	NNS	_	3	pobj	_	O
+5	till	till	IN	_	7	mark	_	O
+6	I	I	PRP	_	7	nsubj	_	O
+7	watch	watch	VBP	_	0	root	_	O
+8	my	my	PRP$	_	9	poss	_	O
+9	baby	baby	NN	_	7	dobj	_	O
+10	Ashley	ashley	NNP	_	11	compound	_	B-PERSON
+11	Graham	graham	NNP	_	9	appos	_	L-PERSON
+12	on	on	IN	_	7	prep	_	O
+13	American	american	NNP	pos2=JJ	12	pobj	_	U-NORP
+14	next	next	JJ	pos2=RB	15	nmod	_	O
+15	top	top	JJ	pos2=NN	7	npadvmod	_	O
+16	model❤️❤️	model❤️❤️	.	pos2=NNP	7	punct	_	O
+

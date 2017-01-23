@@ -1,0 +1,27 @@
+1	#Aleppo	#aleppo	NN	pos2=FW	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	#YPG	#ypg	NNS	pos2=EX	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	nonstop	nonstop	JJ	pos2=RB	6	nmod	_	O
+6	crying	cry	VBG	pos2=NN	4	advcl	_	O
+7	about	about	IN	pos2=RB	6	prep	_	O
+8	#Turkey	#turkey	NNP	pos2=CD	7	pobj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	rebels	rebel	NNS	_	8	conj	_	O
+11	,	,	,	_	4	punct	_	O
+12	but	but	CC	_	4	cc	_	O
+13	they	they	PRP	_	14	nsubj	_	O
+14	have	have	VBP	_	4	conj	_	O
+15	no	no	DT	_	16	det	_	O
+16	problem	problem	NN	_	14	dobj	_	O
+17	with	with	IN	_	16	prep	_	O
+18	butcher	butcher	NN	pos2=FW	19	compound	_	O
+19	#Assad	#assad	NNP	pos2=NN	17	pobj	_	O
+20	&	&	CC	_	19	cc	_	O
+21	#Hezbollah	#hezbollah	NNP	pos2=NN	19	conj	_	O
+22	and	and	CC	_	14	cc	_	O
+23	even	even	RB	_	24	advmod	_	O
+24	support	support	VB	pos2=VBP	14	conj	_	O
+25	them	them	PRP	_	24	dobj	_	O
+26	.	.	.	_	14	punct	_	O
+

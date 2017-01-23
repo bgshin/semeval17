@@ -1,0 +1,12 @@
+1	@marydblanchard	@marydblanchard	UH	pos2=MD	3	discourse	_	O
+2	I	I	PRP	pos2=CD	3	nsubj	_	O
+3	call	call	VBP	_	0	root	_	O
+4	him	him	PRP	_	3	dobj	_	O
+5	the	the	DT	_	9	det	_	O
+6	Wal	wal	NNP	_	8	compound	_	B-ORG
+7	-	-	HYPH	_	8	punct	_	I-ORG
+8	Mart	mart	NNP	_	9	compound	_	L-ORG
+9	brand	brand	NN	_	4	dep	_	O
+10	Grayson	grayson	NNP	_	11	compound	_	B-PERSON
+11	Allen	allen	NNP	_	9	appos	_	L-PERSON
+

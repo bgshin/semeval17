@@ -1,0 +1,14 @@
+1	Chinese	chinese	JJ	_	2	nmod	_	U-NORP
+2	websites	website	NNS	_	13	dep	_	O
+3	block	block	NN	pos2=VBP	4	compound	_	O
+4	searches	search	NNS	pos2=VBZ	2	appos	_	O
+5	for	for	IN	_	4	prep	_	O
+6	‘	'	``	pos2=''	10	punct	_	O
+7	Fatty	fatty	JJ	pos2=NNP	8	nmod	_	B-PERSON
+8	Kim	kim	NNP	_	13	dep	_	L-PERSON
+9	the	the	DT	_	10	det	_	O
+10	Third	#ord#	NNP	pos2=JJ	8	appos	_	O
+11	’	'	''	pos2=POS	13	punct	_	O
+12	https://t.co/8sWDYnTlzS	#hlink#	ADD	_	13	nmod	_	O
+13	https://t.co/bDOFD6ftFA	#hlink#	ADD	_	0	root	_	U-ORG
+

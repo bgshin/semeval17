@@ -1,0 +1,18 @@
+1	Ryan	ryan	NNP	_	2	nsubj	_	U-PERSON
+2	wants	want	VBZ	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	end	end	VB	_	2	xcomp	_	O
+5	Obamacare	obamacare	NNP	pos2=PRP$	6	compound	_	O
+6	protections	protection	NNS	_	4	dobj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	Americans	american	NNPS	_	7	pobj	_	U-NORP
+9	with	with	IN	_	4	prep	_	O
+10	pre-existing	pre-existing	JJ	_	11	nmod	_	O
+11	conditions	condition	NNS	_	9	pobj	_	O
+12	!	!	.	_	2	punct	_	O
+
+1	https://t.co/eIUmHc4uol	#hlink#	ADD	_	0	root	_	O
+2	#PaulRyan	#paulryan	ADD	pos2=-RRB-	4	det	_	O
+3	#Obamacare	#obamacare	NNP	pos2=VB	2	pobj	_	O
+4	#healthcare	#healthcare	UH	pos2=ADD	1	discourse	_	O
+

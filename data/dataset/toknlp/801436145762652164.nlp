@@ -1,0 +1,25 @@
+1	Do	do	VBP	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	think	think	VB	_	0	root	_	O
+4	Michelle	michelle	NNP	_	5	compound	_	B-PERSON
+5	Obama	obama	NNP	_	6	nsubj	_	L-PERSON
+6	wanted	want	VBD	_	3	ccomp	_	O
+7	to	to	TO	_	8	aux	_	O
+8	smack	smack	VB	_	6	xcomp	_	O
+9	Melania	melania	NNP	_	10	compound	_	B-PERSON
+10	Trump	trump	NNP	_	8	dobj	_	L-PERSON
+11	for	for	IN	_	8	prep	_	O
+12	plagiarizing	plagiarize	VBG	_	11	pcomp	_	O
+13	her	her	PRP$	_	15	poss	_	O
+14	convention	convention	NN	_	15	compound	_	O
+15	speech	speech	NN	_	12	dobj	_	O
+16	?	?	.	_	3	punct	_	O
+
+1	She	she	PRP	_	2	nsubj	_	O
+2	has	have	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	arms	arm	NNS	pos2=NN	2	dobj	_	O
+5	for	for	IN	_	4	prep	_	O
+6	it	it	PRP	_	5	pobj	_	O
+7	.	.	.	_	2	punct	_	O
+

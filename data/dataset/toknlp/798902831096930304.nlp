@@ -1,0 +1,32 @@
+1	@lasinferencias	@lasinferencias	UH	pos2=NNS	6	discourse	_	O
+2	&	&	CC	_	6	cc	_	O
+3	the	the	DT	_	5	det	_	O
+4	WALL	wall	NNP	pos2=NN	5	compound	_	O
+5	Trump	trump	NNP	pos2=NN	6	nsubj	_	U-ORG
+6	wants	want	VBZ	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	build	build	VB	_	6	xcomp	_	O
+9	?	?	.	_	6	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	researched	research	VBD	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	It	it	PRP	_	3	nsubj	_	O
+2	would	would	MD	_	3	aux	_	O
+3	take	take	VB	_	0	root	_	O
+4	$	$	$	_	5	nmod	_	O
+5	45	0	CD	_	3	parataxis	_	O
+6	+	+	SYM	pos2=CD	7	punct	_	O
+7	billion	#crd#	CD	_	11	qmod	_	O
+8	to	to	TO	_	9	aux	_	O
+9	build	build	VB	_	3	advcl	_	O
+10	his	his	PRP$	_	13	poss	_	O
+11	1900	0	CD	_	12	nmod	_	B-QUANTITY
+12	mile	mile	NN	_	13	compound	_	L-QUANTITY
+13	wall	wall	NN	_	9	dobj	_	O
+14	on	on	IN	_	9	prep	_	O
+15	Mexican	mexican	JJ	_	16	nmod	_	U-NORP
+16	border	border	NN	_	14	pobj	_	O
+17	....	..	.	pos2=,	3	punct	_	O
+

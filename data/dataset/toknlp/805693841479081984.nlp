@@ -1,0 +1,9 @@
+1	Dismantle	dismantle	VB	_	0	root	_	O
+2	the	the	DT	_	5	det	_	O
+3	electoral	electoral	JJ	_	5	nmod	_	O
+4	college	college	NN	_	5	compound	_	O
+5	system	system	NN	_	1	dobj	_	O
+6	!	!	.	_	1	punct	_	O
+
+1	https://t.co/YTfj8a9N9R	#hlink#	ADD	_	0	root	_	U-ORG
+

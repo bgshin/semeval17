@@ -1,0 +1,16 @@
+1	Colin	colin	NNP	_	2	compound	_	B-PERSON
+2	Delaney	delaney	NNP	_	3	nsubj	_	L-PERSON
+3	flashbacks	flashback	NNS	pos2=VBZ	10	nsubj	_	O
+4	tonight	tonight	NN	_	3	npadvmod	_	U-TIME
+5	@THETOMMYDREAMER	@thetommydreamer	NNP	pos2=JJR	3	appos	_	U-ORG
+6	,	,	,	_	10	punct	_	O
+7	yes	yes	UH	_	10	discourse	_	O
+8	@WWE	@wwe	UH	pos2=NN	10	discourse	_	O
+9	we	we	PRP	_	10	nsubj	_	O
+10	remember	remember	VBP	pos2=VB	0	root	_	O
+11	that	that	IN	pos2=DT	13	mark	_	O
+12	from	from	IN	_	10	prep	_	O
+13	the	the	DT	_	15	det	_	O
+14	ecw	ecw	NNP	pos2=NN	15	compound	_	U-ORG
+15	abortion	abortion	NN	_	12	pobj	_	O
+

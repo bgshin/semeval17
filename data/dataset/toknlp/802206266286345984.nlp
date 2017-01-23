@@ -1,0 +1,25 @@
+1	Differences	difference	NNS	_	0	root	_	O
+2	between	between	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	#IslamicState	#islamicstate	NNP	pos2=NN	2	pobj	_	O
+5	(	(	-LRB-	_	4	punct	_	O
+6	#ISIS	#isis	NN	pos2=NNP	4	appos	_	O
+7	)	)	-RRB-	_	4	punct	_	O
+8	and	and	CC	_	4	cc	_	O
+9	Jabhat	jabhat	NNP	_	13	compound	_	B-PERSON
+10	Fatah	fatah	NNP	_	13	compound	_	I-PERSON
+11	al	al	NNP	_	13	compound	_	I-PERSON
+12	-	-	HYPH	_	13	punct	_	I-PERSON
+13	Sham	sham	NNP	_	4	conj	_	L-PERSON
+14	(	(	-LRB-	_	15	punct	_	O
+15	#JFS	#jfs	GW	pos2=NNS	17	nmod	_	U-NORP
+16	)	)	-RRB-	pos2=GW	13	punct	_	O
+17	https://t.co/wSo4YpGSyW	#hlink#	NN	pos2=ADD	13	appos	_	O
+18	November	november	NNP	_	17	npadvmod	_	B-DATE
+19	25	0	CD	_	18	nmod	_	I-DATE
+20	,	,	,	_	18	punct	_	I-DATE
+21	2016	0	CD	_	18	npadvmod	_	L-DATE
+22	at	at	IN	_	17	prep	_	O
+23	12:40	0	CD	_	24	nmod	_	B-TIME
+24	PM	pm	NN	_	22	pobj	_	L-TIME
+

@@ -1,0 +1,8 @@
+1	#Hezbollah	#hezbollah	NNP	pos2=NN	2	compound	_	O
+2	Soldier	soldier	NN	pos2=NNP	7	dep	_	O
+3	:	:	:	_	6	punct	_	O
+4	#Israel	#israel	NNP	pos2=NFP	6	nsubj	_	O
+5	is	be	VBZ	_	6	aux	_	O
+6	burning	burn	VBG	_	7	nmod	_	O
+7	https://t.co/wW0JYwn9i1	#hlink#	ADD	pos2=RP	0	root	_	U-ORG
+

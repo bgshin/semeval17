@@ -1,0 +1,21 @@
+1	Signatures	signature	NNS	pos2=VBZ	15	nsubjpass	_	O
+2	for	for	IN	_	1	prep	_	O
+3	an	an	DT	_	4	det	_	O
+4	initiative	initiative	NN	_	2	pobj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	enact	enact	VB	_	4	relcl	_	O
+7	an	an	DT	_	11	det	_	O
+8	automatic	automatic	JJ	_	11	nmod	_	O
+9	voter	voter	NN	_	10	compound	_	O
+10	registration	registration	NN	_	11	compound	_	O
+11	system	system	NN	_	6	dobj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	Nevada	nevada	NNP	_	12	pobj	_	U-GPE
+14	were	be	VBD	_	15	auxpass	_	O
+15	certified	certify	VBN	_	0	root	_	O
+16	on	on	IN	_	15	prep	_	O
+17	Friday	friday	NNP	_	16	pobj	_	U-DATE
+18	.	.	.	_	15	punct	_	O
+
+1	https://t.co/qVLfjGeOEl	#hlink#	ADD	_	0	root	_	U-ORG
+

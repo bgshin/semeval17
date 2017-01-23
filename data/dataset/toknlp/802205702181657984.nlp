@@ -1,0 +1,19 @@
+1	😂😂WHEN	😂😂when	NN	pos2=NNP	3	vocative	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	SAY	say	VBP	_	0	root	_	O
+4	WE	we	PRP	pos2=NNP	5	nsubj	_	O
+5	TRIED	try	VBD	pos2=VBN	3	ccomp	_	O
+6	20	0	CD	_	8	nmod	_	U-CARDINAL
+7	DAM	dam	NN	pos2=NNP	8	compound	_	O
+8	TIMES	time	NNS	pos2=NNP	5	npadvmod	_	O
+9	!!	!!	.	_	3	punct	_	O
+
+1	STANDING	stand	VBG	pos2=NN	3	csubj	_	O
+2	STILL	still	RB	_	1	advmod	_	O
+3	IS	be	VBZ	_	0	root	_	O
+4	HARD	hard	JJ	pos2=RB	3	acomp	_	O
+5	AF😂😂	af😂😂	NNP	pos2=NNS	8	nmod	_	O
+6	#mannequinchallenge	#mannequinchallenge	GW	pos2=XX	8	nmod	_	O
+7	…	…	NFP	pos2=GW	8	punct	_	O
+8	https://t.co/WQImN1S75l	#hlink#	ADD	_	3	dep	_	O
+

@@ -1,0 +1,11 @@
+1	"	"	``	pos2=SYM	3	punct	_	O
+2	Microsoft	microsoft	NNP	_	3	nsubj	_	U-ORG
+3	joins	join	VBZ	_	0	root	_	O
+4	the	the	DT	_	6	det	_	B-ORG
+5	Linux	linux	NNP	_	6	compound	_	I-ORG
+6	Foundation	foundation	NNP	pos2=NN	3	dobj	_	L-ORG
+7	"	"	''	_	6	punct	_	O
+8	#microsoft	#microsoft	GW	pos2=UH	3	punct	_	O
+9	#feedly	#feedly	RB	pos2=GW	10	nmod	_	O
+10	https://t.co/rqwOxCOYzn	#hlink#	ADD	pos2=NN	3	dep	_	O
+

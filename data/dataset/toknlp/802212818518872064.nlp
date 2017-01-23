@@ -1,0 +1,31 @@
+1	@petestavros	@petestavros	UH	pos2=NNS	7	discourse	_	O
+2	@megynkelly	@megynkelly	UH	pos2=RB	7	discourse	_	O
+3	you	you	PRP	_	7	nsubj	_	O
+4	obviously	obviously	RB	_	7	advmod	_	O
+5	do	do	VBP	pos2=VB	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	watch	watch	VB	_	0	root	_	O
+8	her	her	PRP$	_	9	poss	_	O
+9	show	show	NN	pos2=VB	7	dobj	_	O
+10	!	!	.	_	7	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	like	like	VBP	pos2=UH	6	ccomp	_	O
+3	FOX	fox	NNP	pos2=NN	2	dobj	_	U-ORG
+4	so	so	RB	pos2=IN	6	advmod	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	watch	watch	VBP	_	0	root	_	O
+7	I	I	PRP	_	10	nsubj	_	O
+8	do	do	VBP	_	10	aux	_	O
+9	n't	not	RB	_	10	neg	_	O
+10	like	like	VB	_	6	ccomp	_	O
+11	her	her	PRP$	_	12	poss	_	O
+12	show	show	NN	pos2=VBP	10	dobj	_	O
+13	!	!	.	_	6	punct	_	O
+
+1	To	to	IN	pos2=TO	0	root	_	O
+2	phony	phony	JJ	_	5	nmod	_	O
+3	f	f	GW	pos2=NN	5	nmod	_	O
+4	…	…	NFP	pos2=GW	5	punct	_	O
+5	https://t.co/8ogyS2RDJ6	#hlink#	ADD	pos2=NN	1	pobj	_	O
+

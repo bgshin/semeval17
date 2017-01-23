@@ -1,0 +1,26 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	Kris	kris	NNP	_	4	compound	_	B-PERSON
+4	Kobach	kobach	NNP	_	6	poss	_	L-PERSON
+5	's	's	POS	_	4	case	_	O
+6	plan	plan	NN	_	2	attr	_	O
+7	...	..	.	pos2=,	2	punct	_	O
+
+1	the	the	DT	_	3	det	_	O
+2	Kansas	kansas	NNP	_	3	compound	_	B-PRODUCT
+3	SOS	sos	NNP	pos2=NN	0	root	_	L-PRODUCT
+4	...	..	.	pos2=,	3	punct	_	O
+
+1	and	and	CC	_	3	cc	_	O
+2	he	he	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	on	on	IN	_	3	prep	_	O
+5	the	the	DT	_	8	det	_	O
+6	Trump	trump	NNP	pos2=NN	8	compound	_	U-PERSON
+7	transition	transition	NN	_	8	compound	_	O
+8	team	team	NN	_	4	pobj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	👍	👍	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/tslbfbcXvY	#hlink#	ADD	pos2=NN	0	root	_	O
+

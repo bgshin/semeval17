@@ -1,0 +1,16 @@
+1	Wow	wow	UH	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	Liberals	liberal	NNS	pos2=NNPS	4	nsubj	_	O
+2	are	be	VBP	_	4	aux	_	O
+3	now	now	RB	_	4	advmod	_	O
+4	asking	ask	VBG	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	a	a	DT	_	7	det	_	O
+7	refund	refund	NN	_	5	pobj	_	O
+8	from	from	IN	_	7	prep	_	O
+9	Jill	jill	NNP	_	10	compound	_	B-PERSON
+10	Stein	stein	NNP	_	8	pobj	_	L-PERSON
+11	lol	lol	UH	pos2=GW	4	discourse	_	O
+12	https://t.co/nY0ynceltG	#hlink#	ADD	pos2=NN	4	punct	_	O
+

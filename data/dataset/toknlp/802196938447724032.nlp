@@ -1,0 +1,21 @@
+1	Seth	seth	NNP	_	2	compound	_	B-PERSON
+2	Meyers	meyers	NNP	_	9	nsubj	_	L-PERSON
+3	on	on	IN	_	2	prep	_	O
+4	Steve	steve	NNP	_	5	compound	_	B-PERSON
+5	Bannon	bannon	NNP	_	3	pobj	_	L-PERSON
+6	:	:	:	_	9	punct	_	O
+7	'	'	``	pos2=''	9	punct	_	O
+8	He	he	PRP	_	9	nsubj	_	O
+9	's	's	VBZ	_	0	root	_	O
+10	a	a	DT	_	12	det	_	O
+11	white	white	JJ	_	12	nmod	_	O
+12	nationalist	nationalist	NN	pos2=JJ	9	attr	_	O
+13	and	and	CC	_	12	cc	_	O
+14	an	an	DT	_	15	det	_	O
+15	anti-Semite	anti-semite	JJ	pos2=NN	17	poss	_	U-NORP
+16	'	'	POS	pos2=''	15	case	_	O
+17	https://t.co/eTwMLrf0kV	#hlink#	ADD	_	12	conj	_	O
+18	#Tv	#tv	-RRB-	pos2=NNS	17	punct	_	O
+19	…	…	NFP	pos2=-LRB-	20	punct	_	O
+20	https://t.co/YGEwx3bK08	#hlink#	ADD	pos2=NN	9	dep	_	O
+

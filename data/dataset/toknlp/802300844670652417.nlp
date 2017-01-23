@@ -1,0 +1,16 @@
+1	No	no	UH	pos2=DT	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	CSS	css	NN	pos2=NNP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	#ruby	#ruby	JJ	pos2=VBN	2	acomp	_	O
+4	for	for	IN	_	3	prep	_	O
+5	Agile	agile	NNP	pos2=JJ	4	pobj	_	U-ORG
+6	.	.	.	_	2	punct	_	O
+
+1	Deep	deep	JJ	pos2=NNP	3	nmod	_	O
+2	Learning	learning	NN	pos2=NNP	3	nsubj	_	O
+3	likes	like	NNS	pos2=VBZ	0	root	_	O
+4	#ai	#ai	NN	pos2=NNS	3	advmod	_	O
+5	:)	:)	NFP	pos2=SYM	3	discourse	_	O
+

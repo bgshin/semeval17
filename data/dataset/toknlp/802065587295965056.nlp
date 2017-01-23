@@ -1,0 +1,16 @@
+1	Let	let	VB	_	0	root	_	O
+2	Céline	céline	NNP	pos2=PRP	3	nsubj	_	U-PERSON
+3	sing	sing	VB	pos2=VBG	1	ccomp	_	O
+4	the	the	DT	_	6	det	_	O
+5	theme	theme	NN	_	6	compound	_	O
+6	Song	song	NN	pos2=NNP	3	dobj	_	O
+7	again	again	RB	_	3	advmod	_	O
+8	!	!	.	_	1	punct	_	O
+
+1	#BeautyAndTheBeast	#beautyandthebeast	NN	pos2=VBD	6	dep	_	B-DATE
+2	2017	0	CD	pos2=LS	3	nmod	_	L-DATE
+3	#emmawatson	#emmawatson	NNS	pos2=IN	6	nmod	_	O
+4	#BeOurGuest	#beourguest	GW	pos2=JJS	6	nmod	_	O
+5	#CelineDion	#celinedion	GW	pos2=ADD	6	nmod	_	O
+6	https://t.co/hu0fR6FaFz	#hlink#	ADD	pos2=NN	0	root	_	O
+

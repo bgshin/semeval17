@@ -1,0 +1,37 @@
+1	hey	hey	UH	_	6	discourse	_	O
+2	kim	kim	FW	pos2=JJ	6	vocative	_	O
+3	jong	jong	NNP	pos2=FW	5	compound	_	O
+4	-	-	HYPH	_	5	punct	_	O
+5	un	un	NNP	pos2=NN	6	nsubj	_	O
+6	put	put	VBD	pos2=VB	0	root	_	O
+7	down	down	RP	pos2=RB	6	prt	_	O
+8	the	the	DT	_	9	det	_	O
+9	bioculars	bioculars	NNS	pos2=JJ	6	dobj	_	O
+10	big	big	JJ	_	13	nmod	_	O
+11	guy	guy	NN	_	13	compound	_	O
+12	-	-	HYPH	_	13	punct	_	O
+13	parties	party	NNS	_	15	nsubj	_	O
+14	over-c	over-c	JJ	pos2=HYPH	13	appos	_	O
+15	r	r	VBP	pos2=FW	21	ccomp	_	O
+16	nukey	nukey	JJ	pos2=XX	17	nmod	_	O
+17	nukeys	nukeys	NNS	pos2=XX	15	dobj	_	O
+18	-	-	:	pos2=HYPH	21	punct	_	O
+19	your	your	PRP$	_	20	poss	_	O
+20	ass	ass	NN	_	21	nsubj	_	O
+21	is	be	VBZ	_	0	root	_	O
+22	grass	grass	NN	pos2=VBG	24	nmod	_	O
+23	big	big	JJ	_	24	nmod	_	O
+24	boy	boy	NN	_	21	attr	_	O
+25	.	.	.	_	21	punct	_	O
+
+1	yep	yep	UH	_	3	discourse	_	O
+2	never	never	RB	_	3	neg	_	O
+3	fear	fear	VB	pos2=VBP	0	root	_	O
+4	-	-	:	pos2=,	3	punct	_	O
+5	the	the	DT	_	6	det	_	O
+6	donald	donald	NNP	pos2=NN	10	poss	_	O
+7	's	's	POS	pos2=VBZ	6	case	_	O
+8	here	here	RB	_	3	advmod	_	O
+9	-	-	HYPH	pos2=:	10	punct	_	O
+10	:O)	:o)	NFP	pos2=NNP	3	discourse	_	O
+

@@ -1,0 +1,22 @@
+1	@JanieceStaton	@janiecestaton	NNP	pos2=NN	3	nsubj	_	U-PERSON
+2	especially	especially	RB	_	6	advmod	_	O
+3	when	when	WRB	_	6	advmod	_	O
+4	those	those	DT	_	5	det	_	O
+5	practices	practice	NNS	_	6	nsubj	_	O
+6	waste	waste	VBP	pos2=NN	9	advcl	_	O
+7	energy	energy	NN	_	6	dobj	_	O
+8	,	,	,	_	9	punct	_	O
+9	require	require	VB	pos2=VBP	0	root	_	O
+10	more	more	JJR	pos2=JJ	13	nmod	_	O
+11	drilling	drilling	NN	_	13	nmod	_	O
+12	/	/	SYM	pos2=HYPH	13	punct	_	O
+13	fracking	fracking	NN	_	9	dobj	_	O
+14	,	,	,	_	9	punct	_	O
+15	and	and	CC	_	9	cc	_	O
+16	produce	produce	VB	_	9	conj	_	O
+17	gasses	gas	NNS	_	16	dobj	_	O
+18	causing	cause	VBG	_	17	acl	_	O
+19	climate	climate	NN	_	20	compound	_	O
+20	change	change	NN	_	18	dobj	_	O
+21	.	.	.	_	9	punct	_	O
+

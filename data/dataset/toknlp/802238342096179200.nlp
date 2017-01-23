@@ -1,0 +1,13 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	hate	hate	VBP	_	0	root	_	O
+3	a	a	DT	_	6	det	_	O
+4	"	"	``	_	5	punct	_	O
+5	send	send	VB	_	2	xcomp	_	O
+6	me	me	PRP	_	5	dative	_	O
+7	a	a	DT	_	8	det	_	O
+8	pic	pic	NN	pos2=JJ	5	dobj	_	O
+9	"	"	``	pos2=''	11	punct	_	O
+10	ass	ass	NN	_	11	compound	_	O
+11	nigga	nigga	NN	_	8	appos	_	O
+12	🙄	🙄	''	pos2=.	11	punct	_	O
+

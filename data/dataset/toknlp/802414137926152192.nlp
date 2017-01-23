@@ -1,0 +1,24 @@
+1	@StillWithHer	@stillwithher	NNP	pos2=NN	2	nsubj	_	O
+2	Remember	remember	VB	pos2=NNP	0	root	_	O
+3	when	when	WRB	_	5	advmod	_	O
+4	Qatar	qatar	NNP	_	5	nsubj	_	U-GPE
+5	gave	give	VBD	_	2	ccomp	_	O
+6	$	$	$	_	8	qmod	_	B-MONEY
+7	1	0	CD	_	8	compound	_	I-MONEY
+8	million	#crd#	CD	_	5	dobj	_	L-MONEY
+9	to	to	IN	_	5	dative	_	O
+10	the	the	DT	_	12	det	_	B-ORG
+11	Clinton	clinton	NNP	_	12	compound	_	I-ORG
+12	Foundation	foundation	NNP	_	9	pobj	_	L-ORG
+13	as	as	IN	_	5	prep	_	O
+14	a	a	DT	_	16	det	_	O
+15	"	"	``	_	16	punct	_	O
+16	birthday	birthday	NN	_	13	pobj	_	O
+17	present	present	JJ	pos2=NN	16	nmod	_	O
+18	"	"	''	_	16	punct	_	O
+19	for	for	IN	_	16	prep	_	O
+20	Bill	bill	NNP	_	19	pobj	_	U-PERSON
+21	?	?	.	_	2	punct	_	O
+
+1	#TrumpTrain	#trumptrain	ADD	pos2=NN	0	root	_	O
+

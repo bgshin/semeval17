@@ -1,0 +1,17 @@
+1	@chertex	@chertex	UH	pos2=LS	4	discourse	_	O
+2	@TheRoyalsOnE	@theroyalsone	UH	pos2=NNP	4	discourse	_	O
+3	that	that	DT	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	awesome	awesome	JJ	_	4	acomp	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	met	meet	VBD	pos2=VBP	4	ccomp	_	O
+8	@justinhartley	@justinhartley	PRP	pos2=RB	7	dobj	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	really	really	RB	_	3	advmod	_	O
+3	enjoy	enjoy	VBP	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	show	show	NN	_	3	dobj	_	O
+6	#ThisIsUs	#thisisus	ADD	pos2=NN	3	punct	_	O
+

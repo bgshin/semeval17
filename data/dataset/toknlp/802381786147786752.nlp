@@ -1,0 +1,25 @@
+1	liberals	liberal	NNS	_	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	russia	russia	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	about	about	JJ	_	4	acomp	_	O
+6	to	to	TO	_	7	aux	_	O
+7	occupy	occupy	VB	_	5	xcomp	_	O
+8	dc	dc	NN	pos2=NNS	7	dobj	_	O
+9	!	!	.	_	4	punct	_	O
+
+1	😱lefties	😱lefties	NNS	pos2=NN	7	dep	_	O
+2	:	:	:	_	7	punct	_	O
+3	trump	trump	NN	_	7	nsubj	_	O
+4	&	&	CC	_	3	cc	_	O
+5	putin	putin	NNP	pos2=NN	3	conj	_	O
+6	are	be	VBP	_	7	aux	_	O
+7	gon	gon	VBG	_	0	root	_	O
+8	na	to	TO	_	9	aux	_	O
+9	destroy	destroy	VB	_	7	xcomp	_	O
+10	ISIS	isis	NNP	pos2=NN	9	dobj	_	U-ORG
+11	together	together	RB	_	9	advmod	_	O
+12	!	!	.	_	7	punct	_	O
+
+1	✊	✊	NFP	pos2=SYM	0	root	_	O
+

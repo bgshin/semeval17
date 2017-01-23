@@ -1,0 +1,24 @@
+1	As	as	IN	_	5	mark	_	O
+2	Aleppo	aleppo	NNP	_	5	nsubjpass	_	U-GPE
+3	is	be	VBZ	_	5	aux	_	O
+4	being	be	VBG	_	5	auxpass	_	O
+5	liberated	liberate	VBN	pos2=JJ	19	advcl	_	O
+6	from	from	IN	_	5	prep	_	O
+7	these	these	DT	_	9	det	_	O
+8	false	false	JJ	_	9	nmod	_	O
+9	defenders	defender	NNS	_	6	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	freedom	freedom	NN	_	10	pobj	_	O
+12	,	,	,	_	19	punct	_	O
+13	the	the	DT	_	14	det	_	O
+14	scene	scene	NN	_	19	nsubj	_	O
+15	from	from	IN	_	14	prep	_	O
+16	their	their	PRP$	_	18	poss	_	O
+17	abandoned	abandon	VBN	_	18	nmod	_	O
+18	posts	post	NNS	_	15	pobj	_	O
+19	resemble	resemble	VBP	pos2=VB	0	root	_	O
+20	Hell	hell	NNP	_	19	dobj	_	O
+21	on	on	IN	_	19	prep	_	O
+22	Earth	earth	NNP	_	21	pobj	_	U-LOC
+23	.	.	.	_	19	punct	_	O
+

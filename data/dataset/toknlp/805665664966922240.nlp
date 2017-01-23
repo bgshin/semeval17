@@ -1,0 +1,21 @@
+1	Anti	anti	AFX	pos2=NNP	2	nmod	_	O
+2	Death	death	NN	pos2=NNP	3	compound	_	O
+3	Penalty	penalty	NN	pos2=NNP	4	compound	_	O
+4	advocates	advocate	NNS	pos2=VBZ	5	nsubj	_	O
+5	state	state	VBP	_	0	root	_	O
+6	lethal	lethal	JJ	_	7	nmod	_	O
+7	injections	injection	NNS	_	5	dobj	_	O
+8	painful	painful	JJ	_	7	nmod	_	O
+9	yet	yet	RB	pos2=CC	8	cc	_	O
+10	pro-euthanasia	pro-euthanasia	JJ	_	11	nmod	_	O
+11	supporters	supporter	NNS	_	12	nsubj	_	O
+12	state	state	VBP	pos2=NN	5	advcl	_	O
+13	its	its	PRP$	_	14	poss	_	O
+14	painlessWhich	painlesswhich	NNP	pos2=NN	15	nsubj	_	U-ORG
+15	is	be	VBZ	_	12	ccomp	_	O
+16	it	it	PRP	_	15	nsubj	_	O
+17	?	?	.	_	5	punct	_	O
+
+1	#auspol	#auspol	UH	pos2=XX	2	discourse	_	O
+2	#springst	#springst	UH	pos2=NN	0	root	_	O
+

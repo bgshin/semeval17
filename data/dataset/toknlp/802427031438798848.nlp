@@ -1,0 +1,19 @@
+1	#Podcast	#podcast	NNP	pos2=JJS	4	compound	_	O
+2	Rewind	rewind	NNP	pos2=NN	4	compound	_	O
+3	-	-	HYPH	pos2=:	4	punct	_	O
+4	Orlando	orlando	NNP	_	0	root	_	O
+5	'	'	''	pos2=``	4	punct	_	O
+6	Where	where	WRB	_	10	advmod	_	O
+7	Have	have	VBP	_	10	aux	_	O
+8	Our	our	PRP$	pos2=NNP	9	poss	_	O
+9	Superheroes	superhero	NNPS	pos2=NNS	10	nsubj	_	O
+10	Gone	gone	NNP	pos2=VBN	4	relcl	_	O
+11	?	?	.	_	4	punct	_	O
+
+1	'	'	''	pos2=SYM	6	punct	_	O
+2	(	(	-LRB-	_	3	punct	_	O
+3	June	june	NNP	_	6	nmod	_	B-DATE
+4	2016	0	CD	pos2=GW	3	nmod	_	L-DATE
+5	)	)	-RRB-	_	6	nmod	_	O
+6	https://t.co/KxNRvkpCHu	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,24 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	sister	sister	NN	_	3	nsubj	_	O
+3	called	call	VBD	_	0	root	_	O
+4	me	me	PRP	_	3	dobj	_	O
+5	and	and	CC	_	3	cc	_	O
+6	woke	wake	VBD	_	3	conj	_	O
+7	me	me	PRP	_	6	dobj	_	O
+8	up	up	RP	_	6	prt	_	O
+9	while	while	IN	_	12	mark	_	O
+10	I	I	PRP	_	12	nsubj	_	O
+11	was	be	VBD	_	12	aux	_	O
+12	fighting	fight	VBG	_	6	advcl	_	O
+13	zombies	zombie	NNS	_	12	dobj	_	O
+14	with	with	IN	_	12	prep	_	O
+15	Rick	rick	NNP	_	14	pobj	_	U-PERSON
+16	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	watch	watch	VBP	pos2=VB	0	root	_	O
+3	too	too	RB	_	4	advmod	_	O
+4	much	much	JJ	pos2=RB	6	nmod	_	O
+5	#TheWalkingDead	#thewalkingdead	XX	pos2=NN	6	nmod	_	O
+6	😂	😂	NN	pos2=.	2	dobj	_	O
+

@@ -1,0 +1,20 @@
+1	【Popular	【popular	NNP	pos2=JJ	2	compound	_	B-PERSON
+2	Song】Ahh	song】ahh	NNP	pos2=UH	5	vocative	_	L-PERSON
+3	,	,	,	_	5	punct	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	said	say	VBD	_	0	root	_	O
+6	I	I	PRP	_	8	nsubj	_	O
+7	'm	be	VBP	_	8	aux	_	O
+8	putting	put	VBG	_	5	ccomp	_	O
+9	down	down	RP	_	8	prt	_	O
+10	my	my	PRP$	_	11	poss	_	O
+11	story	story	NN	_	8	dobj	_	O
+12	in	in	IN	_	8	prep	_	O
+13	a	a	DT	_	15	det	_	O
+14	popular	popular	JJ	_	15	nmod	_	O
+15	song	song	NN	_	12	pobj	_	O
+16	#Taylor	#taylor	NNP	pos2=XX	18	compound	_	O
+17	#ArianaGrande	#arianagrande	ADD	pos2=XX	18	compound	_	O
+18	#Justin	#justin	NNP	pos2=XX	15	appos	_	O
+19	#music	#music	UH	pos2=ADD	8	discourse	_	O
+

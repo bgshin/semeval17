@@ -1,0 +1,18 @@
+1	MLB	mlb	NNP	_	3	compound	_	O
+2	Cy	cy	NNP	pos2=NN	3	compound	_	O
+3	Young	young	NNP	_	4	compound	_	O
+4	Award	award	NNP	pos2=NN	17	dep	_	O
+5	2016	0	CD	_	4	npadvmod	_	O
+6	:	:	:	_	17	punct	_	O
+7	AL	al	NN	pos2=NNP	17	dep	_	U-CARDINAL
+8	and	and	CC	_	7	cc	_	O
+9	NL	nl	NNP	pos2=JJ	10	compound	_	B-ORG
+10	Winners	winner	NNPS	pos2=NNS	7	conj	_	L-ORG
+11	,	,	,	_	10	punct	_	O
+12	Voting	vote	VBG	pos2=NN	10	advcl	_	O
+13	Results	result	NNS	_	12	dobj	_	O
+14	and	and	CC	pos2=GW	12	cc	_	O
+15	Reaction	reaction	GW	pos2=NN	17	nmod	_	O
+16	https://t.co/7FmpQDQUFa	#hlink#	ADD	pos2=GW	17	nmod	_	O
+17	https://t.co/B3rl5GOgIk	#hlink#	ADD	_	0	root	_	U-ORG
+

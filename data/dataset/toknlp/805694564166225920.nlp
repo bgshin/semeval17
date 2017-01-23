@@ -1,0 +1,18 @@
+1	Why	why	WRB	_	3	advmod	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	time	time	NN	_	3	attr	_	O
+5	for	for	IN	_	4	prep	_	O
+6	a	a	DT	_	7	det	_	O
+7	rethink	rethink	NN	pos2=VB	5	pobj	_	O
+8	on	on	IN	_	7	prep	_	O
+9	flu	flu	NN	pos2=JJ	10	compound	_	O
+10	vaccination	vaccination	NN	_	8	pobj	_	O
+11	https://t.co/26D480JXeL	#hlink#	ADD	_	13	nmod	_	O
+12	#Immune	#immune	NNP	pos2=IN	13	compound	_	O
+13	System	system	NN	pos2=NNP	17	dep	_	O
+14	-	-	:	pos2=HYPH	17	punct	_	O
+15	Vaccines	vaccine	NNS	pos2=NNPS	17	nmod	_	O
+16	@MedicalNewsLH	@medicalnewslh	ADD	pos2=GW	17	punct	_	O
+17	https://t.co/Tl1iL9K4vq	#hlink#	ADD	pos2=NN	3	dep	_	O
+

@@ -1,0 +1,22 @@
+1	@lisandra_1127	@lisandra_0	UH	pos2=NN	3	discourse	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	🚮	🚮	NNP	pos2=JJ	3	attr	_	U-NORP
+5	because	because	IN	_	7	mark	_	O
+6	nobody	nobody	NN	_	7	nsubj	_	O
+7	is	be	VBZ	_	3	advcl	_	O
+8	ever	ever	RB	_	9	advmod	_	O
+9	spontaneous	spontaneous	JJ	_	7	acomp	_	O
+10	about	about	IN	_	9	prep	_	O
+11	it	it	PRP	_	10	pobj	_	O
+12	anymore	anymore	RB	_	7	advmod	_	O
+13	.	.	.	_	3	punct	_	O
+
+1	&	&	CC	_	2	cc	_	O
+2	let	let	VB	pos2=NN	0	root	_	O
+3	's	's	PRP	_	5	nsubj	_	O
+4	not	not	RB	_	5	neg	_	O
+5	forget	forget	VB	_	2	ccomp	_	O
+6	Valentines	valentines	NNP	pos2=NNS	5	dobj	_	U-ORG
+7	.	.	.	_	2	punct	_	O
+

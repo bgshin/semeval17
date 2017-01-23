@@ -1,0 +1,21 @@
+1	@TaraSetmayer	@tarasetmayer	NNP	pos2=PRP$	2	compound	_	O
+2	Lieberman	lieberman	NNP	_	3	nsubj	_	U-PERSON
+3	praises	praise	VBZ	_	0	root	_	O
+4	McFarland	mcfarland	NNP	_	6	nmod	_	B-ORG
+5	/	/	SYM	pos2=HYPH	6	punct	_	I-ORG
+6	Flynn	flynn	NNP	_	3	dobj	_	L-ORG
+7	in	in	IN	_	3	prep	_	O
+8	transition	transition	NN	_	9	compound	_	O
+9	release	release	NN	pos2=VB	7	pobj	_	O
+10	on	on	IN	_	9	prep	_	O
+11	nomination	nomination	NN	_	10	pobj	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	Lieberman	lieberman	NNP	_	0	root	_	U-PERSON
+2	for	for	IN	_	1	prep	_	O
+3	State	state	NNP	_	4	compound	_	B-ORG
+4	Dept	dept	NNP	_	2	pobj	_	L-ORG
+5	?	?	.	_	1	punct	_	O
+
+1	https://t.co/1QOVDTRMre	#hlink#	ADD	_	0	root	_	U-ORG
+

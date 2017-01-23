@@ -1,0 +1,21 @@
+1	@john4YotesAz	@john0yotesaz	NN	pos2=ADD	2	nsubj	_	O
+2	@JeffPassan	@jeffpassan	ADD	pos2=NN	8	advmod	_	O
+3	@	@	SYM	pos2=NFP	8	punct	_	O
+4	9Richard19	0richard0	NN	pos2=CD	5	compound	_	O
+5	walker	walker	NN	_	8	nsubjpass	_	O
+6	also	also	RB	_	8	advmod	_	O
+7	was	be	VBD	_	8	auxpass	_	O
+8	poised	poise	VBN	_	0	root	_	O
+9	for	for	IN	_	8	prep	_	O
+10	a	a	DT	_	16	det	_	O
+11	top	top	JJ	_	16	nmod	_	O
+12	10	0	CD	_	16	nmod	_	U-CARDINAL
+13	cy	cy	NN	pos2=NNS	16	nmod	_	O
+14	young	young	JJ	_	16	nmod	_	O
+15	finish	finish	NN	pos2=VB	16	compound	_	O
+16	season	season	NN	_	9	pobj	_	O
+17	before	before	IN	_	20	mark	_	O
+18	he	he	PRP	_	20	nsubjpass	_	O
+19	got	get	VBD	_	20	auxpass	_	O
+20	hurt	hurt	VBN	pos2=NN	8	advcl	_	O
+

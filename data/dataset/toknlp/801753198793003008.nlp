@@ -1,0 +1,9 @@
+1	The	the	DT	_	3	det	_	O
+2	latest	late	JJS	_	3	nmod	_	O
+3	Lebanon	lebanon	NNP	_	0	root	_	U-GPE
+4	!	!	.	_	3	punct	_	O
+
+1	https://t.co/cIy08oC5x7	#hlink#	ADD	_	0	root	_	O
+2	#lebanon	#lebanon	IN	pos2=-RRB-	1	prep	_	O
+3	#hezbollah	#hezbollah	UH	pos2=NN	2	discourse	_	O
+

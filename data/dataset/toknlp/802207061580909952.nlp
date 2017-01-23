@@ -1,0 +1,15 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	families	family	NNS	_	3	nsubj	_	O
+3	#Thanksgiving	#thanksgiving	VBG	pos2=VBP	0	root	_	O
+4	#MannequinChallenge	#mannequinchallenge	ADD	pos2=NN	8	advmod	_	O
+5	☺😊😂😅😇😍😝😎🙈❤💃👌✊👍	☺😊😂😅😇😍😝😎🙈❤💃👌✊👍	NNP	pos2=``	3	dobj	_	O
+6	Lol	lol	UH	pos2=NNP	8	discourse	_	O
+7	I	I	PRP	pos2=CD	8	nsubj	_	O
+8	love	love	VBP	_	3	ccomp	_	O
+9	my	my	PRP$	_	10	poss	_	O
+10	family	family	NN	_	8	dobj	_	O
+11	!!	!!	.	_	3	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/uIElXsbrw7	#hlink#	ADD	pos2=NN	0	root	_	O
+

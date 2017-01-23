@@ -1,0 +1,34 @@
+1	Guy	guy	NN	pos2=UH	3	vocative	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	've	have	VBP	_	4	aux	_	O
+4	following	follow	VBG	_	0	root	_	O
+5	your	your	PRP$	_	7	poss	_	O
+6	entire	entire	JJ	_	7	nmod	_	O
+7	career	career	NN	_	4	dobj	_	O
+8	&	&	CC	_	7	cc	_	O
+9	im	im	NN	pos2=VB	7	conj	_	O
+10	a	a	DT	_	12	det	_	O
+11	huge	huge	JJ	_	12	nmod	_	O
+12	fan	fan	NN	_	7	appos	_	O
+13	and	and	CC	_	4	cc	_	O
+14	was	be	VBD	_	15	aux	_	O
+15	wondering	wonder	VBG	_	4	conj	_	O
+16	if	if	IN	_	20	mark	_	O
+17	you	you	PRP	_	20	nsubjpass	_	O
+18	'd	would	MD	_	20	aux	_	O
+19	be	be	VB	_	20	auxpass	_	O
+20	prepared	prepare	VBN	pos2=JJ	15	ccomp	_	O
+21	to	to	TO	_	22	aux	_	O
+22	sing	sing	VB	_	20	xcomp	_	O
+23	at	at	IN	_	22	prep	_	O
+24	my	my	PRP$	_	25	poss	_	O
+25	funeral	funeral	NN	_	23	pobj	_	O
+26	.	.	.	_	4	punct	_	O
+
+1	https	http	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	//	//	NFP	pos2=-LRB-	6	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	5BpuTMBEVe	0bputmbeve	NN	pos2=JJ	0	root	_	O
+

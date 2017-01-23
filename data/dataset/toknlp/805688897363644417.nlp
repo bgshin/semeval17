@@ -1,0 +1,22 @@
+1	@FoxNews	@foxnews	NNP	pos2=ADD	5	nsubj	_	U-ORG
+2	Does	do	VBZ	_	5	aux	_	O
+3	New	new	NNP	_	4	compound	_	B-GPE
+4	York	york	NNP	_	5	nsubj	_	L-GPE
+5	have	have	VBP	pos2=VB	0	root	_	O
+6	the	the	DT	_	8	det	_	O
+7	death	death	NN	_	8	compound	_	O
+8	penalty	penalty	NN	_	5	dobj	_	O
+9	?	?	.	_	5	punct	_	O
+
+1	When	when	WRB	_	3	advmod	_	O
+2	they	they	PRP	_	3	nsubj	_	O
+3	capture	capture	VBP	_	0	root	_	O
+4	this	this	DT	_	5	det	_	O
+5	assassin	assassin	NN	_	3	dobj	_	O
+6	that	that	WDT	pos2=DT	8	nsubj	_	O
+7	should	should	MD	_	8	aux	_	O
+8	be	be	VB	_	5	relcl	_	O
+9	his	his	PRP$	_	10	poss	_	O
+10	sentence	sentence	NN	_	8	attr	_	O
+11	.	.	.	_	3	punct	_	O
+

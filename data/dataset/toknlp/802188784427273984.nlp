@@ -1,0 +1,14 @@
+1	@TDBank_US	@tdbank_us	NNS	pos2=ADD	2	nsubj	_	O
+2	divest	divest	VBP	pos2=VB	0	root	_	O
+3	from	from	IN	_	2	prep	_	O
+4	the	the	DT	_	8	det	_	O
+5	Bakken	bakken	NNP	_	8	compound	_	O
+6	Dakota	dakota	NNP	_	8	compound	_	O
+7	Access	access	NNP	_	8	compound	_	O
+8	Pipeline	pipeline	NNP	pos2=NN	3	pobj	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	#NoDAPL	#nodapl	XX	pos2=ADD	3	dep	_	O
+2	#IStandWithStandingRock	#istandwithstandingrock	XX	pos2=ADD	3	dep	_	O
+3	#WaterIsLife#divestdapl	#waterislife#divestdapl	XX	pos2=ADD	0	root	_	O
+

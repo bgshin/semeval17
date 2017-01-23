@@ -1,0 +1,26 @@
+1	The	the	DT	_	3	det	_	O
+2	curious	curious	JJ	_	3	nmod	_	O
+3	case	case	NN	_	0	root	_	O
+4	of	of	IN	_	3	prep	_	O
+5	charles	charles	NNP	pos2=FW	6	compound	_	B-PERSON
+6	darwin	darwin	NNP	pos2=NN	4	pobj	_	L-PERSON
+7	and	and	CC	_	6	cc	_	O
+8	homeopathy	homeopathy	NN	_	6	conj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	Ullman	ullman	NNP	_	7	compound	_	B-ORG
+2	D.	d.	NNP	_	7	compound	_	I-ORG
+3	Evid	evid	NNP	_	7	compound	_	I-ORG
+4	Based	based	NNP	pos2=VBN	7	compound	_	I-ORG
+5	Complement	complement	NNP	_	7	compound	_	I-ORG
+6	Alternat	alternat	NNP	_	7	compound	_	I-ORG
+7	Med	med	NNP	_	11	nsubj	_	L-ORG
+8	;	;	,	pos2=:	7	punct	_	O
+9	2010	0	CD	_	10	nmod	_	U-DATE
+10	Mar	mar	NNP	_	14	npadvmod	_	O
+11	;	;	,	pos2=:	0	root	_	O
+12	7	0	CD	_	13	nmod	_	B-DATE
+13	(1)	(0)	CD	pos2=SYM	14	nsubj	_	I-DATE
+14	:33-9	0	CD	_	7	appos	_	L-DATE
+15	.	.	.	_	7	punct	_	O
+

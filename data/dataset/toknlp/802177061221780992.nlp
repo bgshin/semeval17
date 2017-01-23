@@ -1,0 +1,16 @@
+1	Police	police	NNS	pos2=NN	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	assailant	assailant	NN	_	4	compound	_	O
+4	shot	shot	NN	pos2=VBD	0	root	_	O
+5	after	after	IN	_	4	prep	_	O
+6	trying	try	VBG	_	5	pcomp	_	O
+7	to	to	TO	_	8	aux	_	O
+8	stab	stab	VB	_	6	xcomp	_	O
+9	security	security	NN	_	8	dobj	_	O
+10	at	at	IN	_	8	prep	_	O
+11	Shuafat	shuafat	NNP	_	12	compound	_	U-GPE
+12	checkpoint	checkpoint	NN	_	10	pobj	_	O
+13	in	in	IN	_	12	prep	_	O
+14	East	east	NNP	pos2=JJ	15	compound	_	B-GPE
+15	#Jerusalem	#jerusalem	NNP	pos2=.	13	pobj	_	L-GPE
+

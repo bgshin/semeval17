@@ -1,0 +1,33 @@
+1	Nu	nu	NN	pos2=NNS	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Happy	happy	JJ	pos2=NNP	4	nmod	_	O
+4	Music	music	NN	pos2=NNP	8	nsubj	_	O
+5	(	(	-LRB-	_	4	punct	_	O
+6	Eddy	eddy	NNP	_	4	appos	_	U-PERSON
+7	)	)	-RRB-	_	4	punct	_	O
+8	Met	meet	VBD	pos2=NNP	29	ccomp	_	O
+9	dit	dit	NN	pos2=FW	10	compound	_	O
+10	uur	uur	NN	pos2=FW	8	dobj	_	O
+11	o.a.	o.a.	FW	pos2=NN	8	advmod	_	O
+12	:	:	:	pos2=SYM	8	punct	_	O
+13	DRAKE	drake	NN	pos2=NNP	29	dep	_	O
+14	-	-	HYPH	pos2=:	13	punct	_	O
+15	ONE	#crd#	CD	pos2=NNP	16	nmod	_	U-CARDINAL
+16	DANCE	dance	NN	pos2=NNP	13	appos	_	O
+17	(	(	-LRB-	_	16	punct	_	O
+18	FT	ft	FW	pos2=NNP	19	nmod	_	O
+19	WIZKID	wizkid	NNP	pos2=FW	16	appos	_	U-ORG
+20	AND	and	CC	_	19	cc	_	O
+21	KYLA	kyla	NNP	pos2=NN	19	conj	_	O
+22	)	)	-RRB-	_	16	punct	_	O
+23	-	-	:	pos2=SYM	24	punct	_	O
+24	2016	0	CD	_	28	nmod	_	O
+25	RICKY	ricky	NNP	pos2=NN	26	compound	_	O
+26	MARTIN	martin	NNP	_	29	vocative	_	O
+27	-	-	HYPH	pos2=:	29	punct	_	O
+28	SHE	she	PRP	pos2=NNP	29	nsubj	_	O
+29	BANGS	bang	VBZ	pos2=NNP	0	root	_	O
+30	...	..	.	pos2=:	29	punct	_	O
+
+1	https://t.co/ndXv1nt5kU	#hlink#	ADD	_	0	root	_	U-ORG
+

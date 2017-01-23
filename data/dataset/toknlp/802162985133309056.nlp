@@ -1,0 +1,20 @@
+1	Do	do	VB	pos2=VBP	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	run	run	VB	_	0	root	_	O
+4	away	away	RB	_	3	advmod	_	O
+5	when	when	WRB	_	8	advmod	_	O
+6	David	david	NNP	_	7	compound	_	B-PERSON
+7	Blaine	blaine	NNP	_	8	nsubj	_	L-PERSON
+8	does	do	VBZ	_	3	advcl	_	O
+9	magic	magic	NN	pos2=VB	8	dobj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	He	he	PRP	_	3	nsubj	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	wants	want	VBZ	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	be	be	VB	_	3	xcomp	_	O
+6	your	your	PRP$	_	7	poss	_	O
+7	friend	friend	NN	_	5	attr	_	O
+8	!	!	.	_	3	punct	_	O
+

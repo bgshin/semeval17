@@ -1,0 +1,30 @@
+1	@HillaryClinton	@hillaryclinton	UH	pos2=ADD	3	discourse	_	O
+2	We	we	PRP	_	3	nsubj	_	O
+3	love	love	VBP	_	0	root	_	O
+4	you	you	PRP	_	3	dobj	_	O
+5	Hillary	hillary	NNP	_	3	vocative	_	U-PERSON
+6	..	..	.	pos2=,	3	punct	_	O
+
+1	we	we	PRP	_	4	nsubj	_	O
+2	have	have	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	given	give	VBN	_	0	root	_	O
+5	up	up	RP	_	4	prt	_	O
+6	the	the	DT	_	7	det	_	O
+7	fight	fight	NN	_	4	dobj	_	O
+8	,	,	,	_	4	punct	_	O
+9	yet	yet	RB	pos2=UH	4	advmod	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	if	if	IN	_	6	mark	_	O
+4	your	your	PRP$	_	6	poss	_	O
+5	still	still	RB	_	6	advmod	_	O
+6	interested	interested	JJ	pos2=VBN	2	acomp	_	O
+7	in	in	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	job	job	NN	_	7	pobj	_	O
+10	:)	:)	NFP	pos2=-LRB-	2	discourse	_	O
+11	#StillWithHer	#stillwithher	ADD	pos2=NN	2	dep	_	O
+

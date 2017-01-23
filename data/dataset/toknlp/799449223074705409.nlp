@@ -1,0 +1,14 @@
+1	What	what	WP	pos2=WDT	3	nsubj	_	O
+2	really	really	RB	_	3	advmod	_	O
+3	happened	happened	VBD	_	0	root	_	O
+4	at	at	IN	_	3	prep	_	O
+5	Trump	trump	NNP	pos2=NN	8	poss	_	U-ORG
+6	's	's	POS	_	5	case	_	O
+7	intelligence	intelligence	NN	_	8	compound	_	O
+8	briefing	briefing	NN	pos2=GW	4	pobj	_	O
+9	https://t.co/acNGbEgzq2	#hlink#	ADD	pos2=NN	8	appos	_	O
+10	#MichaelFlynn	#michaelflynn	ADD	pos2=-RRB-	8	appos	_	B-DATE
+11	#LooseCannon	#loosecannon	ADD	pos2=NN	10	pobj	_	L-DATE
+12	#TrumpCabinet	#trumpcabinet	ADD	pos2=NN	11	pobj	_	O
+13	#TrumpTransitionTeam	#trumptransitionteam	ADD	pos2=NN	11	pobj	_	O
+

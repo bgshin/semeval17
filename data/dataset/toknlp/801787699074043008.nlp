@@ -1,0 +1,16 @@
+1	#Israel	#israel	NN	pos2=NNP	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	#Iran	#iran	NNP	_	4	nsubj	_	O
+4	Smuggles	smuggle	VBZ	_	0	root	_	O
+5	Missile	missile	NNP	_	6	compound	_	B-ORG
+6	Technology	technology	NNP	_	4	dobj	_	L-ORG
+7	to	to	IN	pos2=TO	4	prep	_	O
+8	#Hezbollah	#hezbollah	NNP	pos2=VB	7	pobj	_	B-ORG
+9	on	on	IN	_	4	prep	_	I-ORG
+10	Commercial	commercial	NNP	pos2=JJ	11	compound	_	I-ORG
+11	Flights	flight	NNPS	pos2=NNS	9	pobj	_	L-ORG
+12	@TheTowerDotOrg	@thetowerdotorg	VBP	pos2=GW	4	advcl	_	O
+13	@israelproject	@israelproject	NFP	pos2=ADD	15	dep	_	O
+14	|	|	SYM	pos2=NFP	15	punct	_	O
+15	https://t.co/33OHUmIlY5	#hlink#	ADD	_	4	dep	_	O
+

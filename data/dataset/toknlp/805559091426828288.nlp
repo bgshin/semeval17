@@ -1,0 +1,28 @@
+1	@Wyvern4	@wyvern0	NN	pos2=LS	4	dep	_	O
+2	_	_	SYM	pos2=''	4	punct	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	thought	think	VBD	pos2=NN	0	root	_	O
+5	(	(	-LRB-	_	4	punct	_	O
+6	and	and	CC	_	4	cc	_	O
+7	I	I	PRP	_	9	nsubj	_	O
+8	could	could	MD	_	9	aux	_	O
+9	be	be	VB	_	4	conj	_	O
+10	wrong	wrong	JJ	pos2=LS	9	acomp	_	O
+11	)	)	-RRB-	_	9	punct	_	O
+12	the	the	DT	_	13	det	_	O
+13	ppl	ppl	NNS	pos2=NN	20	nsubj	_	O
+14	in	in	IN	_	13	prep	_	O
+15	the	the	DT	_	16	det	_	O
+16	background	background	NN	_	14	pobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	pic	pic	NN	pos2=JJ	17	pobj	_	O
+19	were	be	VBD	_	20	aux	_	O
+20	protesting	protest	VBG	_	23	ccomp	_	O
+21	drone	drone	NN	_	22	compound	_	O
+22	strikes	strike	NNS	_	20	dobj	_	O
+23	...	..	.	pos2=,	9	punct	_	O
+
+1	O_o	o_o	RB	pos2=UH	2	advmod	_	O
+2	@el_temif	@el_temif	IN	pos2=VBZ	0	root	_	B-PERSON
+3	@Buzzriet	@buzzriet	NNP	pos2=NN	2	pobj	_	L-PERSON
+

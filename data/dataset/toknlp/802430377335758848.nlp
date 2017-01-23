@@ -1,0 +1,27 @@
+1	@s_cooper0404	@s_cooper0	CD	pos2=NN	6	nsubj	_	U-CARDINAL
+2	Most	most	JJS	_	6	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	money	money	NN	_	3	pobj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	from	from	IN	_	6	prep	_	O
+8	weak	weak	JJ	_	9	advmod	_	O
+9	minded	minded	JJ	_	10	nmod	_	O
+10	liberals	liberal	NNS	_	7	pobj	_	O
+11	who	who	WP	_	12	nsubj	_	O
+12	are	be	VBP	_	10	relcl	_	O
+13	in	in	IN	_	12	prep	_	O
+14	denial	denial	NN	_	13	pobj	_	O
+15	that	that	IN	_	19	mark	_	O
+16	their	their	PRP$	_	18	poss	_	O
+17	evil	evil	JJ	_	18	nmod	_	O
+18	witch	witch	NN	_	19	nsubj	_	O
+19	lost	lose	VBD	pos2=VBN	6	ccomp	_	O
+20	.	.	.	_	6	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	laugh	laugh	VBP	_	0	root	_	O
+3	at	at	IN	_	2	prep	_	O
+4	this	this	DT	_	5	det	_	O
+5	silliness	silliness	NN	_	3	pobj	_	O
+

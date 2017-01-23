@@ -1,0 +1,15 @@
+1	Israeli	israeli	JJ	_	2	nmod	_	U-NORP
+2	brutality	brutality	NN	_	3	nsubj	_	O
+3	immune	immune	JJ	pos2=RBR	0	root	_	O
+4	to	to	IN	_	3	prep	_	O
+5	Palestinian	palestinian	JJ	pos2=NNP	6	nmod	_	U-NORP
+6	calls	call	NNS	_	4	pobj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	justice	justice	NN	_	7	pobj	_	O
+9	:	:	:	_	3	punct	_	O
+10	https://t.co/PZmymMtEES	#hlink#	ADD	_	3	dep	_	O
+11	#gaza	#gaza	IN	pos2=-RRB-	3	prep	_	O
+12	#palestine	#palestine	UH	pos2=PRP	11	discourse	_	O
+13	#israel	#israel	UH	pos2=FW	11	discourse	_	O
+14	#jerusalem	#jerusalem	UH	pos2=PRP	11	discourse	_	O
+

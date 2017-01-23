@@ -1,0 +1,23 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	overturning	overturn	VBG	_	3	pcomp	_	O
+5	the	the	DT	_	7	det	_	O
+6	electoral	electoral	JJ	_	7	nmod	_	O
+7	college	college	NN	_	4	dobj	_	O
+8	or	or	CC	_	7	cc	_	O
+9	faithless	faithless	JJ	_	12	nmod	_	O
+10	electoral	electoral	JJ	_	12	nmod	_	O
+11	college	college	NN	_	12	compound	_	O
+12	electors	elector	NNS	_	7	conj	_	O
+13	;	;	,	pos2=:	17	punct	_	O
+14	anything	anything	NN	_	2	attr	_	O
+15	that	that	WDT	_	17	nsubj	_	O
+16	will	will	MD	_	17	aux	_	O
+17	avert	avert	VB	_	14	relcl	_	O
+18	this	this	DT	_	19	det	_	O
+19	planet	planet	NN	_	17	dobj	_	O
+20	destroying	destroy	VBG	_	17	advcl	_	O
+21	calamity	calamity	NN	_	20	dobj	_	O
+22	.	.	.	_	2	punct	_	O
+

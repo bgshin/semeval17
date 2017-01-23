@@ -1,0 +1,13 @@
+1	Are	be	VBP	_	0	root	_	O
+2	you	you	PRP	pos2=PRP$	1	nsubj	_	O
+3	medical	medical	JJ	_	1	acomp	_	O
+4	,	,	,	_	3	punct	_	O
+5	recreational	recreational	JJ	_	3	conj	_	O
+6	or	or	CC	_	5	cc	_	O
+7	illegal	illegal	JJ	_	5	conj	_	O
+8	?	?	.	_	1	punct	_	O
+
+1	https://t.co/cFz84BEOgx	#hlink#	ADD	_	0	root	_	O
+2	#MedicalMarijuanaMovement	#medicalmarijuanamovement	ADD	pos2=-RRB-	0	root	_	O
+3	@CentralFlNORML	@centralflnorml	ADD	pos2=NN	2	pobj	_	O
+

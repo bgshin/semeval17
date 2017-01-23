@@ -1,0 +1,35 @@
+1	@OmegaMan34	@omegaman0	NN	pos2=ADD	2	compound	_	O
+2	@csquared45	@csquared0	NN	pos2=POS	6	compound	_	O
+3	Kim	kim	NNP	_	6	compound	_	B-PERSON
+4	Jong	jong	NNP	_	6	compound	_	I-PERSON
+5	-	-	HYPH	_	6	punct	_	I-PERSON
+6	un	un	NNP	pos2=JJ	7	nsubj	_	L-PERSON
+7	cracks	crack	VBZ	pos2=NNS	0	root	_	O
+8	me	me	PRP	_	7	dobj	_	O
+9	up	up	RP	_	7	prt	_	O
+10	.	.	.	_	7	punct	_	O
+
+1	Kim	kim	NNP	_	4	compound	_	B-PERSON
+2	Jong	jong	NNP	_	4	compound	_	I-PERSON
+3	-	-	HYPH	_	4	punct	_	I-PERSON
+4	un	un	NNP	pos2=NN	6	nsubj	_	L-PERSON
+5	will	will	MD	_	6	aux	_	O
+6	make	make	VB	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	video	video	NN	_	6	dobj	_	O
+9	shooting	shoot	VBG	pos2=NN	8	acl	_	O
+10	his	his	PRP$	_	11	poss	_	O
+11	gun	gun	NN	_	9	dobj	_	O
+12	in	in	IN	_	9	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	air	air	NN	pos2=NNP	12	pobj	_	O
+15	&	&	CC	_	14	cc	_	O
+16	USA	usa	NNP	pos2=NN	14	conj	_	O
+17	like	like	IN	_	9	prep	_	O
+18	Jong	jong	NNP	_	20	compound	_	B-ORG
+19	-	-	HYPH	_	20	punct	_	I-ORG
+20	un	un	NNP	pos2=NN	17	pobj	_	L-ORG
+21	shot	shoot	VBD	_	6	advcl	_	O
+22	his	his	PRP$	_	23	poss	_	O
+23	gun	gun	NN	_	21	dobj	_	O
+

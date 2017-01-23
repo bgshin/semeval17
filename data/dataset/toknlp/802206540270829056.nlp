@@ -1,0 +1,20 @@
+1	@sail1962	@sail0	NN	pos2=LS	12	vocative	_	O
+2	@deejay90192	@deejay0	NN	pos2=LS	12	vocative	_	O
+3	@SenateGOP	@senategop	XX	pos2=ADD	12	dep	_	O
+4	@SenateDems	@senatedems	NNS	pos2=XX	12	punct	_	O
+5	@realDonaldTrump	@realdonaldtrump	XX	pos2=VBP	12	dep	_	O
+6	@mike_pence	@mike_pence	IN	pos2=VBP	5	dative	_	O
+7	GOP	gop	NNP	pos2=XX	6	pobj	_	O
+8	,	,	,	_	12	punct	_	O
+9	many	many	JJ	_	12	nsubj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	us	us	PRP	_	10	pobj	_	O
+12	remember	remember	VB	pos2=VBP	0	root	_	O
+13	how	how	WRB	_	15	advmod	_	O
+14	U	u	PRP	pos2=NNP	15	nsubj	_	O
+15	screwed	screw	VBD	_	12	ccomp	_	O
+16	this	this	DT	_	17	det	_	O
+17	country	country	NN	_	15	dobj	_	O
+18	up	up	RP	pos2=RB	15	prt	_	O
+19	.	.	.	_	12	punct	_	O
+

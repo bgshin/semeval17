@@ -1,0 +1,18 @@
+1	Real	real	JJ	pos2=NNP	2	nmod	_	O
+2	Superstar	superstar	NNP	_	4	compound	_	O
+3	Cristiano	cristiano	NNP	_	4	compound	_	B-PERSON
+4	Ronaldo	ronaldo	NNP	_	5	nsubj	_	L-PERSON
+5	Opens	open	VBZ	_	0	root	_	O
+6	Up	up	RP	pos2=RB	5	prt	_	O
+7	on	on	IN	_	5	prep	_	O
+8	Exactly	exactly	RB	pos2=NNP	9	advmod	_	O
+9	How	how	WRB	_	11	advmod	_	O
+10	He	he	PRP	pos2=NNP	11	nsubj	_	O
+11	Signed	sign	VBD	_	7	pcomp	_	O
+12	for	for	IN	_	11	prep	_	O
+13	Man	man	NNP	_	14	compound	_	B-ORG
+14	Utd	utd	NNP	_	12	pobj	_	L-ORG
+15	>>	>>	-RRB-	pos2=NFP	12	punct	_	O
+16	https://t.co/x9Obxj1zNs	#hlink#	ADD	_	17	nmod	_	O
+17	https://t.co/siFvOLrZtB	#hlink#	ADD	_	7	pobj	_	U-ORG
+

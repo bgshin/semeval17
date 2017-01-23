@@ -1,0 +1,8 @@
+1	James	james	NNP	_	2	compound	_	B-PERSON
+2	Harden	harden	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	better	good	JJR	_	3	acomp	_	O
+5	than	than	IN	_	4	prep	_	O
+6	Cristiano	cristiano	NNP	_	7	compound	_	B-PERSON
+7	Ronaldo	ronaldo	NNP	_	5	pobj	_	L-PERSON
+

@@ -1,0 +1,12 @@
+1	@WeAreCavsNation	@wearecavsnation	NN	pos2=ADD	6	dep	_	O
+2	yeah	yeah	UH	_	6	discourse	_	O
+3	lebron	lebron	NN	pos2=UH	6	nsubj	_	O
+4	does	do	VBZ	_	6	aux	_	O
+5	nt	nt	RB	_	6	advmod	_	O
+6	look	look	VB	_	0	root	_	O
+7	happy	happy	JJ	_	6	acomp	_	O
+8	in	in	IN	_	6	prep	_	O
+9	the	the	DT	_	11	det	_	O
+10	cubs	cub	NNS	pos2=NNPS	11	compound	_	O
+11	jersey	jersey	NN	pos2=VBP	8	pobj	_	O
+

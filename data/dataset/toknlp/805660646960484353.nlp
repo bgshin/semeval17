@@ -1,0 +1,23 @@
+1	@cakotz	@cakotz	UH	pos2=SYM	7	discourse	_	O
+2	@HalpernAlex	@halpernalex	NFP	pos2=VB	7	punct	_	O
+3	more	more	RBR	pos2=JJR	4	advmod	_	O
+4	Liberal	liberal	JJ	pos2=NNP	5	nmod	_	O
+5	Logic	logic	NN	pos2=NNP	7	nsubj	_	O
+6	would	would	MD	_	7	aux	_	O
+7	suggest	suggest	VB	_	0	root	_	O
+8	that	that	IN	_	13	mark	_	O
+9	bio-diesel	bio-diesel	NN	_	13	nsubj	_	O
+10	from	from	IN	_	9	prep	_	O
+11	hemp	hemp	NN	_	10	pobj	_	O
+12	would	would	MD	_	13	aux	_	O
+13	make	make	VB	_	7	ccomp	_	O
+14	fossil	fossil	NN	pos2=JJ	15	compound	_	O
+15	fuels	fuel	NNS	_	16	nsubj	_	O
+16	obsolete	obsolete	JJ	pos2=RB	13	ccomp	_	O
+17	,	,	,	_	13	punct	_	O
+18	if	if	IN	_	20	mark	_	O
+19	we	we	PRP	_	20	nsubj	_	O
+20	let	let	VBP	pos2=VBD	13	advcl	_	O
+21	it	it	PRP	_	20	dobj	_	O
+22	.	.	.	_	7	punct	_	O
+

@@ -1,0 +1,21 @@
+1	@LibtardKiller	@libtardkiller	ADD	pos2=CC	5	cc	_	O
+2	#isis	#isis	NN	pos2=UH	1	pobj	_	O
+3	and	and	CC	_	2	cc	_	O
+4	#BlackLivesMatter	#blacklivesmatter	NN	pos2=GW	2	conj	_	O
+5	beware	beware	VB	pos2=RB	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	now	now	RB	_	2	advmod	_	O
+4	legal	legal	JJ	_	2	acomp	_	O
+5	for	for	IN	_	8	mark	_	O
+6	#americans	#americans	NNS	pos2=PRP	8	nsubj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	protect	protect	VB	_	2	advcl	_	O
+9	themselves	themselves	PRP	_	8	dobj	_	O
+10	in	in	IN	_	8	prep	_	O
+11	this	this	DT	_	10	pobj	_	O
+12	…	…	NFP	pos2=-LRB-	13	punct	_	O
+13	https://t.co/ib6c37mPiC	#hlink#	ADD	pos2=NN	2	dep	_	O
+

@@ -1,0 +1,21 @@
+1	@AnnCoulter	@anncoulter	NNP	pos2=IN	2	compound	_	B-PERSON
+2	Obama	obama	NNP	_	3	nsubj	_	L-PERSON
+3	lifted	lift	VBD	_	0	root	_	O
+4	a	a	DT	_	8	det	_	O
+5	50	0	CD	_	7	nmod	_	B-DATE
+6	-	-	HYPH	_	7	punct	_	I-DATE
+7	year	year	NN	_	8	compound	_	L-DATE
+8	embargo	embargo	NN	_	3	dobj	_	O
+9	with	with	IN	_	8	prep	_	O
+10	Cuba	cuba	NNP	_	9	pobj	_	U-GPE
+11	and	and	CC	_	10	cc	_	O
+12	all	all	DT	_	13	det	_	O
+13	Trump	trump	NNP	pos2=NN	10	conj	_	U-PERSON
+14	did	do	VBD	_	16	aux	_	O
+15	was	be	VBD	_	16	aux	_	O
+16	talk	talk	VB	pos2=NN	3	conj	_	O
+17	on	on	IN	_	16	prep	_	O
+18	the	the	DT	_	20	det	_	O
+19	double	double	JJ	_	20	nmod	_	O
+20	standard	standard	NN	pos2=JJ	17	pobj	_	O
+

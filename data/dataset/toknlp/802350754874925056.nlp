@@ -1,0 +1,30 @@
+1	@NelsonForTruth	@nelsonfortruth	NN	pos2=NNP	0	root	_	O
+2	But	but	CC	_	1	cc	_	O
+3	what	what	WP	_	4	nsubj	_	O
+4	happens	happen	VBZ	_	1	conj	_	O
+5	where	where	WRB	_	7	advmod	_	O
+6	there	there	EX	_	7	expl	_	O
+7	are	be	VBP	_	4	advcl	_	O
+8	no	no	DT	pos2=RB	10	det	_	O
+9	more	more	JJR	_	10	nmod	_	O
+10	jobs	job	NNS	_	12	dobj	_	O
+11	to	to	TO	_	12	aux	_	O
+12	have	have	VB	_	7	attr	_	O
+13	?	?	.	_	4	punct	_	O
+
+1	Also	also	RB	_	14	advmod	_	O
+2	,	,	,	_	14	punct	_	O
+3	like	like	IN	pos2=UH	5	mark	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	said	say	VBD	_	14	advcl	_	O
+6	,	,	,	_	14	punct	_	O
+7	the	the	DT	_	8	det	_	O
+8	majority	majority	NN	_	14	nsubj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	ppl	ppl	NNS	pos2=NN	9	pobj	_	O
+11	on	on	IN	_	10	prep	_	O
+12	Medicaid	medicaid	NNP	_	13	compound	_	U-ORG
+13	DO	do	NNP	pos2=VBP	14	aux	_	O
+14	have	have	VB	pos2=VBP	0	root	_	O
+15	jobs	job	NNS	_	14	dobj	_	O
+

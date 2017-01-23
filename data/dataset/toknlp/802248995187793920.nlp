@@ -1,0 +1,32 @@
+1	@foxygrandpa11	@foxygrandpa0	NN	pos2=NNS	2	nsubj	_	O
+2	fucked	fuck	VBD	pos2=VBN	0	root	_	O
+3	up	up	RP	_	2	prt	_	O
+4	real	real	RB	pos2=JJ	5	advmod	_	O
+5	fast	fast	RB	pos2=JJ	2	advmod	_	O
+6	lol	lol	UH	pos2=NN	2	discourse	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	If	if	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	do	do	VBP	_	11	advcl	_	O
+4	it	it	PRP	_	3	dobj	_	O
+5	in	in	IN	_	3	prep	_	O
+6	a	a	DT	_	8	det	_	O
+7	safe	safe	JJ	_	8	nmod	_	O
+8	way	way	NN	_	5	pobj	_	O
+9	it	it	PRP	_	11	nsubj	_	O
+10	can	can	MD	_	11	aux	_	O
+11	be	be	VB	_	0	root	_	O
+12	helpful	helpful	JJ	_	11	acomp	_	O
+13	imho	imho	RB	pos2=UH	18	advmod	_	O
+14	even	even	RB	_	15	advmod	_	O
+15	tho	tho	IN	pos2=WP	20	mark	_	O
+16	my	my	PRP$	_	17	poss	_	O
+17	therapist	therapist	NN	_	20	nsubj	_	O
+18	always	always	RB	_	20	advmod	_	O
+19	just	just	RB	_	20	advmod	_	O
+20	tell	tell	VB	_	11	advcl	_	O
+21	me	me	PRP	_	20	dobj	_	O
+22	to	to	IN	_	20	prep	_	O
+23	TIPP	tipp	NNP	pos2=NN	22	pobj	_	U-ORG
+

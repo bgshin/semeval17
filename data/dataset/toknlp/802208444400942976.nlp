@@ -1,0 +1,20 @@
+1	Win	win	VB	pos2=VBP	0	root	_	O
+2	the	the	DT	_	3	det	_	B-DATE
+3	Day	day	NN	pos2=NNP	1	dobj	_	L-DATE
+4	the	the	DT	_	5	det	_	O
+5	#Mannequinchallenge	#mannequinchallenge	NNP	pos2=NN	1	dobj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	a	a	DT	_	9	det	_	O
+8	#Dunham	#dunham	NNP	pos2=JJ	9	compound	_	U-GPE
+9	kind	kind	NN	pos2=RB	6	pobj	_	O
+10	of	of	IN	pos2=RB	9	prep	_	O
+11	Way	way	NNP	pos2=NN	10	pobj	_	O
+12	!	!	.	_	1	punct	_	O
+
+1	https://t.co/PK286RolZj	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@YouTube	@youtube	NNP	pos2=ADD	4	compound	_	B-LOC
+4	#Trgthanks	#trgthanks	NNP	pos2=VBZ	6	compound	_	L-LOC
+5	#madeformovers	#madeformovers	NNS	pos2=NNPS	6	compound	_	O
+6	#dunhamfits	#dunhamfits	NNS	pos2=UH	2	pobj	_	O
+

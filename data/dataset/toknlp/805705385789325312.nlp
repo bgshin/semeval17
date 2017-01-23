@@ -1,0 +1,24 @@
+1	Welcome	welcome	VBP	pos2=UH	0	root	_	O
+2	to	to	IN	_	1	prep	_	O
+3	the	the	DT	_	5	det	_	B-DATE
+4	clubThe	clubthe	NNP	pos2=JJ	5	compound	_	I-DATE
+5	year	year	NN	_	2	pobj	_	L-DATE
+6	of	of	IN	_	5	prep	_	O
+7	vilification	vilification	NN	_	6	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	professions	profession	NNS	_	8	pobj	_	O
+11	-	-	:	pos2=,	10	punct	_	O
+12	doctors	doctor	NNS	_	10	appos	_	O
+13	,	,	,	_	12	punct	_	O
+14	judgesWhy	judgeswhy	NNP	pos2=VB	12	appos	_	U-PERSON
+15	?	?	.	_	1	punct	_	O
+
+1	Because	because	IN	_	3	mark	_	O
+2	we	we	PRP	_	3	nsubj	_	O
+3	hold	hold	VBP	_	7	advcl	_	O
+4	Govt	govt	NNP	pos2=NN	3	dobj	_	U-ORG
+5	to	to	IN	pos2=TO	6	aux	_	O
+6	acc	acc	VB	pos2=GW	3	advcl	_	O
+7	ounthttps://t.co/6oKR0TzBo2	#hlink#	ADD	pos2=NN	0	root	_	O
+

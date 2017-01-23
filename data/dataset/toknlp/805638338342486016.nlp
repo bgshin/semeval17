@@ -1,0 +1,11 @@
+1	Oh	oh	UH	_	5	discourse	_	O
+2	how	how	WRB	pos2=UH	5	advmod	_	O
+3	i	I	PRP	_	5	nsubj	_	O
+4	would	would	MD	_	5	aux	_	O
+5	love	love	VB	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	meet	meet	VB	_	5	xcomp	_	O
+8	zac	zac	NNP	pos2=JJ	10	compound	_	B-PERSON
+9	efron	efron	NNP	pos2=GW	10	compound	_	L-PERSON
+10	😍😍😍😍	😍😍😍😍	NNP	pos2=.	7	dobj	_	O
+

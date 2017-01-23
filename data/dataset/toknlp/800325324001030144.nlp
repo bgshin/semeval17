@@ -1,0 +1,16 @@
+1	Saakashvili	saakashvili	NNP	_	3	poss	_	U-PERSON
+2	’s	's	POS	_	1	case	_	O
+3	Resignation	resignation	NN	pos2=NNP	5	dep	_	O
+4	:	:	:	_	5	punct	_	O
+5	Start	start	NN	pos2=VB	0	root	_	O
+6	of	of	IN	_	5	prep	_	O
+7	Ukrainian	ukrainian	JJ	pos2=NNP	8	nmod	_	U-NORP
+8	Parliamentary	parliamentary	NNP	_	6	pobj	_	O
+9	...	..	.	pos2=,	5	punct	_	O
+
+1	https://t.co/v0ZRqHFp2l	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@	@	NFP	pos2=$	5	punct	_	O
+4	2111015	0	CD	pos2=NFP	5	dep	_	U-CARDINAL
+5	https://t.co/oD9DI3TGaF	#hlink#	ADD	pos2=NNS	2	pobj	_	O
+

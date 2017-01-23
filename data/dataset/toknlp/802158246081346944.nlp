@@ -1,0 +1,28 @@
+1	Love	love	NN	pos2=NNP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	love	love	NN	pos2=JJ	2	attr	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	No	no	DT	_	2	det	_	O
+2	room	room	NN	_	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	hate	hate	NN	_	3	pobj	_	O
+5	!	!	.	_	2	punct	_	O
+
+1	@Regrann	@regrann	NNP	pos2=NN	0	root	_	U-ORG
+2	from	from	IN	_	1	prep	_	O
+3	@	@	SYM	pos2=NFP	4	punct	_	O
+4	lauraluna	lauraluna	NN	pos2=NNS	2	pobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	ll	ll	NN	pos2=RB	3	compound	_	O
+2	-	-	HYPH	pos2=:	3	punct	_	O
+3	@ricky_martin	@ricky_martin	NNP	pos2=XX	5	compound	_	O
+4	@jwanyosef	@jwanyosef	NN	pos2=XX	5	compound	_	O
+5	para	para	NN	pos2=NNP	7	compound	_	O
+6	Cuando	cuando	NNP	pos2=XX	7	compound	_	B-PERSON
+7	Un	un	NNP	_	0	root	_	L-PERSON
+8	...	..	.	pos2=,	3	punct	_	O
+
+1	https://t.co/T53HsXYLuW	#hlink#	ADD	_	0	root	_	U-ORG
+

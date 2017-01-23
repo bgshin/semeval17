@@ -1,0 +1,28 @@
+1	Breaking	break	VBG	pos2=NN	4	advcl	_	O
+2	:	:	:	_	4	punct	_	O
+3	President	president	NNP	pos2=NN	4	nsubj	_	O
+4	elect	elect	VB	pos2=NN	0	root	_	O
+5	Trump	trump	NNP	_	4	dobj	_	U-ORG
+6	will	will	MD	_	8	aux	_	O
+7	not	not	RB	_	8	neg	_	O
+8	name	name	VB	_	4	conj	_	O
+9	Chavis	chavis	NNP	pos2=NNPS	8	dobj	_	U-PERSON
+10	as	as	IN	_	8	prep	_	O
+11	Sec	sec	NNP	_	10	pobj	_	U-ORG
+12	.	.	.	_	4	punct	_	O
+
+1	of	of	IN	_	4	prep	_	O
+2	Defense	defense	NNP	pos2=NN	1	pobj	_	U-ORG
+3	,	,	,	_	4	punct	_	O
+4	says	say	VBZ	_	0	root	_	O
+5	he	he	PRP	_	6	nsubj	_	O
+6	let	let	VBD	pos2=VB	4	ccomp	_	O
+7	s	s	PRP	pos2=RB	9	nsubj	_	O
+8	too	too	RB	_	9	advmod	_	O
+9	many	many	JJ	_	12	nmod	_	O
+10	"	"	``	pos2=''	12	punct	_	O
+11	bad	bad	JJ	_	12	nmod	_	O
+12	hombres	hombre	NNS	pos2=FW	13	pobj	_	O
+13	through	through	IN	_	6	prep	_	O
+14	"	"	''	pos2=``	4	punct	_	O
+

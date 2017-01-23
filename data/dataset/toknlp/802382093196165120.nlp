@@ -1,0 +1,10 @@
+1	Time	time	NN	_	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	celebrate	celebrate	VB	_	1	relcl	_	O
+4	for	for	IN	_	3	prep	_	O
+5	Indian	indian	JJ	pos2=NNP	6	nmod	_	U-NORP
+6	Liberals	liberal	NNPS	pos2=NNS	4	pobj	_	U-NORP
+7	?	?	.	_	1	punct	_	O
+
+1	https://t.co/MavM1oSjU4	#hlink#	ADD	_	0	root	_	U-ORG
+

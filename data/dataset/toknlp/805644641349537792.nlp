@@ -1,0 +1,19 @@
+1	Lmk	lmk	NNP	pos2=VB	18	dep	_	U-PERSON
+2	when	when	WRB	_	5	advmod	_	O
+3	u	u	PRP	_	5	nsubj	_	O
+4	can	can	MD	_	5	aux	_	O
+5	refute	refute	VB	_	1	advcl	_	O
+6	the	the	DT	_	9	det	_	O
+7	overwhelming	overwhelming	JJ	_	9	nmod	_	O
+8	scientific	scientific	JJ	_	9	nmod	_	O
+9	evidence	evidence	NN	_	5	dobj	_	O
+10	that	that	IN	pos2=WDT	14	mark	_	O
+11	fossil	fossil	NN	pos2=JJ	12	compound	_	O
+12	fuels	fuel	NNS	_	14	nsubj	_	O
+13	are	be	VBP	_	14	aux	_	O
+14	warming	warm	VBG	_	9	acl	_	O
+15	our	our	PRP$	_	16	poss	_	O
+16	planet	planet	NN	_	14	dobj	_	O
+17	🙃	🙃	,	pos2=-LRB-	18	punct	_	O
+18	https://t.co/VEjJn8bhOW	#hlink#	ADD	_	0	root	_	U-ORG
+

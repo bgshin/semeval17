@@ -1,0 +1,21 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@LordBaelish643	@lordbaelish0	NN	pos2=NNS	0	root	_	O
+2	And	and	CC	_	1	cc	_	O
+3	,	,	,	_	7	punct	_	O
+4	THIS	this	DT	_	5	det	_	O
+5	creature	creature	NN	_	7	nsubj	_	O
+6	@Rosie	@rosie	NNP	pos2=NN	7	nsubj	_	U-PERSON
+7	is	be	VBZ	_	1	conj	_	O
+8	@megynkelly	@megynkelly	NNP	pos2=PRP	11	poss	_	U-PERSON
+9	's	's	POS	pos2=AFX	8	case	_	O
+10	battering	battering	NN	pos2=VBG	11	compound	_	O
+11	ram	ram	NN	pos2=FW	7	attr	_	O
+12	!	!	.	_	7	punct	_	O
+
+1	#BOTHLIBSrdisgusting	#bothlibsrdisgusting	VBG	pos2=NN	0	root	_	O
+2	cc	cc	NN	pos2=NNS	3	compound	_	O
+3	@realDonaldTrump	@realdonaldtrump	NN	pos2=XX	1	pobj	_	O
+4	AND	and	CC	_	3	cc	_	O
+5	#NEVERROMNEY	#neverromney	NN	pos2=RB	3	conj	_	O
+

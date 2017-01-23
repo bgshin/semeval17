@@ -1,0 +1,10 @@
+1	@angelmaximilan	@angelmaximilan	UH	pos2=ADD	9	discourse	_	O
+2	@fariz1234	@fariz0	NN	pos2=CD	9	compound	_	O
+3	@pekaklonto	@pekaklonto	UH	pos2=IN	4	discourse	_	O
+4	@YCH7168	@ych0	NN	pos2=CD	9	compound	_	O
+5	@saya_AAL	@saya_aal	ADD	pos2=XX	9	punct	_	B-ORG
+6	@ToniRadjali	@toniradjali	ADD	pos2=XX	9	punct	_	L-ORG
+7	itu	itu	FW	pos2=NNP	9	compound	_	O
+8	Leonard	leonard	NNP	_	9	compound	_	B-PERSON
+9	Cohen	cohen	NNP	_	0	root	_	L-PERSON
+

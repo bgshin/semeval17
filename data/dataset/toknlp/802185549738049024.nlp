@@ -1,0 +1,18 @@
+1	@OfficialGodsYT	@officialgodsyt	XX	pos2=UH	5	dep	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	pulled	pull	VBN	pos2=VBD	0	root	_	O
+4	thankgiving	thankgiving	VBG	pos2=DT	7	nmod	_	O
+5	elite	elite	JJ	pos2=NN	7	nmod	_	O
+6	tony	tony	JJ	pos2=NN	10	vocative	_	O
+7	romo	romo	TO	pos2=NNP	10	vocative	_	O
+8	do	do	VBP	_	10	aux	_	O
+9	you	you	PRP	_	10	nsubj	_	O
+10	know	know	VB	_	3	advcl	_	O
+11	how	how	WRB	_	12	advmod	_	O
+12	much	much	JJ	_	13	nmod	_	O
+13	arron	arron	NN	pos2=NNP	14	compound	_	O
+14	rodgers	rodgers	NNP	pos2=VBZ	15	nsubj	_	U-PRODUCT
+15	sells	sell	VBZ	_	10	ccomp	_	O
+16	for	for	IN	_	15	prep	_	O
+17	?	?	.	_	3	punct	_	O
+

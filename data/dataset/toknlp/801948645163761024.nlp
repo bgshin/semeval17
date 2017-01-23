@@ -1,0 +1,15 @@
+1	Oh	oh	UH	_	6	discourse	_	O
+2	shit	shit	NN	pos2=UH	1	discourse	_	O
+3	,	,	,	_	6	punct	_	O
+4	we	we	PRP	_	6	nsubj	_	O
+5	are	be	VBP	_	6	aux	_	O
+6	playing	play	VBG	_	0	root	_	O
+7	against	against	IN	_	6	prep	_	O
+8	sociedad	sociedad	NN	pos2=NNP	7	pobj	_	O
+9	on	on	IN	_	6	prep	_	O
+10	Sunday	sunday	NNP	_	9	pobj	_	U-DATE
+11	at	at	IN	_	6	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	anoeta	anoeta	NN	pos2=NNP	11	pobj	_	O
+14	🤔😶#fcblive	🤔😶#fcblive	NNP	pos2=.	6	npadvmod	_	O
+

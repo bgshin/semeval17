@@ -1,0 +1,22 @@
+1	@therealdanelee	@therealdanelee	UH	pos2=PRP	2	discourse	_	O
+2	Deport	deport	VB	pos2=NNP	0	root	_	O
+3	Michael	michael	NNP	_	4	compound	_	B-PERSON
+4	Moore	moore	NNP	_	2	dobj	_	L-PERSON
+5	.	.	.	_	2	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	traitor	traitor	NN	_	2	attr	_	O
+5	and	and	CC	_	2	cc	_	O
+6	is	be	VBZ	_	7	aux	_	O
+7	inciting	incite	VBG	_	2	conj	_	O
+8	revolt	revolt	NN	_	7	dobj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	an	an	DT	_	11	det	_	O
+11	overthrow	overthrow	NN	_	8	conj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	our	our	PRP$	_	14	poss	_	O
+14	government	government	NN	_	12	pobj	_	O
+15	.	.	.	_	2	punct	_	O
+

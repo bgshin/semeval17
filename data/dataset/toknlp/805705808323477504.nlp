@@ -1,0 +1,19 @@
+1	Normal	normal	JJ	_	4	nmod	_	O
+2	,	,	,	_	4	punct	_	O
+3	non-violent	non-violent	JJ	_	4	nmod	_	O
+4	people	people	NNS	_	8	nsubj	_	O
+5	with	with	IN	_	4	prep	_	O
+6	immigration	immigration	NN	_	7	compound	_	O
+7	concerns	concern	NNS	_	5	pobj	_	O
+8	are	be	VBP	_	0	root	_	O
+9	now	now	RB	_	8	advmod	_	O
+10	far	far	RB	_	11	advmod	_	O
+11	right	right	JJ	pos2=RB	12	discourse	_	O
+12	depending	depend	VBG	_	8	prep	_	O
+13	on	on	IN	_	12	prep	_	O
+14	whom	whom	WP	_	13	pobj	_	O
+15	you	you	PRP	_	17	nsubj	_	O
+16	're	be	VBP	_	17	aux	_	O
+17	talking	talk	VBG	_	8	conj	_	O
+18	to	to	IN	pos2=TO	17	prep	_	O
+

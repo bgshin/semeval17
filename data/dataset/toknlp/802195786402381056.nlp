@@ -1,0 +1,12 @@
+1	Do	do	VB	pos2=VBP	5	aux	_	O
+2	the	the	DT	_	3	det	_	O
+3	@utahjazz	@utahjazz	NN	pos2=NNP	5	nsubj	_	O
+4	ever	ever	RB	_	5	advmod	_	O
+5	sell	sell	VB	pos2=VBP	0	root	_	O
+6	out	out	RP	pos2=IN	5	prt	_	O
+7	their	their	PRP$	_	8	poss	_	O
+8	games	game	NNS	_	5	dobj	_	O
+9	??	??	.	_	5	punct	_	O
+
+1	#ramdomthought	#ramdomthought	UH	pos2=MD	0	root	_	O
+

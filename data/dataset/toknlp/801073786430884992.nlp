@@ -1,0 +1,15 @@
+1	#Iraq	#iraq	NNP	pos2=NNS	3	compound	_	O
+2	#Mosul	#mosul	NNP	pos2=POS	3	compound	_	O
+3	Scores	score	NNPS	pos2=NNS	6	nsubj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	#families	#families	NNS	pos2=NNPS	4	pobj	_	O
+6	continue	continue	VBP	pos2=VB	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	flee	flee	VB	_	6	xcomp	_	O
+9	#Mosul#mosuloffensive	#mosul#mosuloffensive	NNP	pos2=XX	8	dobj	_	U-GPE
+10	#media	#media	UH	pos2=IN	8	discourse	_	O
+11	#MosulAid	#mosulaid	GW	pos2=NNP	14	nmod	_	U-PERSON
+12	#news_journalism	#news_journalism	GW	pos2=UH	14	nmod	_	O
+13	…	…	NFP	pos2=GW	14	punct	_	O
+14	https://t.co/N45h0VxMQF	#hlink#	ADD	pos2=NN	6	dep	_	O
+

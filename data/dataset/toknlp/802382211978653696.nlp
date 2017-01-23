@@ -1,0 +1,24 @@
+1	DOING	do	VBG	_	12	advcl	_	O
+2	WHAT	what	WP	pos2=WDT	8	pobj	_	O
+3	DEMS	dems	NNPS	pos2=NNS	6	nsubj	_	U-NORP
+4	DO	do	VBP	pos2=VB	6	aux	_	O
+5	N'T	not	RB	pos2=PRP	6	neg	_	O
+6	HAVE	have	VBP	pos2=VB	1	ccomp	_	O
+7	BALLS	ball	NNS	_	6	dobj	_	O
+8	FOR	for	IN	_	6	prep	_	O
+9	:	:	:	_	8	punct	_	O
+10	Jill	jill	NNP	_	11	compound	_	B-PERSON
+11	Stein	stein	NNP	_	12	nsubj	_	L-PERSON
+12	Raises	raise	VBZ	pos2=NNP	0	root	_	O
+13	Millions	#crd#	NNS	pos2=NNPS	12	dobj	_	U-CARDINAL
+14	for	for	IN	_	12	prep	_	O
+15	Recounts	recount	NNPS	pos2=NNS	14	pobj	_	O
+16	in	in	IN	_	15	prep	_	O
+17	Wisconsin	wisconsin	NNP	_	16	pobj	_	U-GPE
+18	,	,	,	_	17	punct	_	O
+19	Michigan	michigan	NNP	_	17	conj	_	U-GPE
+20	,	,	,	_	19	punct	_	O
+21	Pennsylvania	pennsylvania	NNP	_	23	dep	_	U-GPE
+22	-	-	HYPH	pos2=:	23	punct	_	O
+23	https://t.co/cSRJQhvDRf	#hlink#	ADD	pos2=NNP	19	conj	_	O
+

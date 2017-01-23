@@ -1,0 +1,23 @@
+1	@EconomicTimes	@economictimes	IN	pos2=NNS	6	prep	_	O
+2	Electric	electric	JJ	pos2=NNP	3	nmod	_	O
+3	Vehicles	vehicle	NNPS	pos2=NNS	1	pobj	_	O
+4	must	must	MD	_	6	aux	_	O
+5	be	be	VB	_	6	auxpass	_	O
+6	promoted	promote	VBN	_	0	root	_	O
+7	to	to	TO	pos2=IN	8	aux	_	O
+8	Curb	curb	VB	_	6	advcl	_	O
+9	pollution	pollution	NN	_	8	dobj	_	O
+10	in	in	IN	_	8	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	country	country	NN	_	10	pobj	_	O
+13	&	&	CC	_	12	cc	_	O
+14	support	support	NN	_	12	conj	_	O
+15	for	for	IN	_	8	prep	_	O
+16	fossil	fossil	NN	pos2=JJ	17	compound	_	O
+17	fuels	fuel	NNS	_	18	compound	_	O
+18	vehicles	vehicle	NNS	_	15	pobj	_	O
+19	must	must	MD	_	21	aux	_	O
+20	be	be	VB	_	21	auxpass	_	O
+21	stopped	stop	VBN	_	6	conj	_	O
+22	..	..	.	_	6	punct	_	O
+

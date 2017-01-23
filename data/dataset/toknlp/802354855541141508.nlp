@@ -1,0 +1,23 @@
+1	@writermelle	@writermelle	UH	pos2=VB	5	discourse	_	O
+2	@wselak	@wselak	UH	pos2=FW	5	discourse	_	O
+3	@michaeloferwins	@michaeloferwins	UH	pos2=NNS	5	discourse	_	O
+4	pics	pic	NNS	_	5	nsubj	_	O
+5	are	be	VBP	_	0	root	_	O
+6	Melania	melania	NNP	_	8	poss	_	U-PERSON
+7	's	's	POS	_	6	case	_	O
+8	career	career	NN	_	11	nsubj	_	O
+9	Trump	trump	NNP	pos2=NN	8	appos	_	U-PERSON
+10	1	0	CD	pos2=NNP	9	nmod	_	U-CARDINAL
+11	is	be	VBZ	_	5	conj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	his	his	PRP$	_	14	poss	_	O
+14	portrait	portrait	NN	pos2=JJ	12	pobj	_	O
+15	I	I	PRP	_	16	nsubj	_	O
+16	think	think	VBP	_	17	parataxis	_	O
+17	bought	buy	VBN	pos2=VBD	13	det	_	O
+18	with	with	IN	_	17	prep	_	O
+19	#trumpFoundation	#trumpfoundation	NNP	pos2=CD	20	compound	_	U-ORG
+20	money	money	NN	_	18	pobj	_	O
+21	SO	so	RB	pos2=NNP	17	advmod	_	O
+22	?	?	.	_	11	punct	_	O
+

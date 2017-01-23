@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det	_	O
+2	lady	lady	NN	_	10	nsubj	_	O
+3	next	next	RB	pos2=JJ	2	prep	_	O
+4	to	to	IN	_	3	prep	_	O
+5	me	me	PRP	_	4	pobj	_	O
+6	on	on	IN	_	2	prep	_	O
+7	this	this	DT	_	8	det	_	O
+8	flight	flight	NN	_	6	pobj	_	O
+9	is	be	VBZ	_	10	aux	_	O
+10	playing	play	VBG	_	0	root	_	O
+11	with	with	IN	_	10	prep	_	O
+12	her	her	PRP$	_	14	poss	_	O
+13	galaxy	galaxy	NN	pos2=JJ	14	compound	_	O
+14	note	note	NN	pos2=VBP	11	pobj	_	O
+15	7	0	CD	_	14	nmod	_	U-DATE
+16	and	and	CC	_	10	cc	_	O
+17	I	I	PRP	_	18	nsubj	_	O
+18	'm	be	VBP	_	10	conj	_	O
+19	slightly	slightly	RB	_	20	advmod	_	O
+20	terrified	terrified	JJ	_	18	acomp	_	O
+21	lol	lol	UH	pos2=NN	18	discourse	_	O
+

@@ -1,0 +1,11 @@
+1	guess	guess	VB	pos2=NN	0	root	_	O
+2	whom	whom	WP	_	10	dep	_	O
+3	@theashleygraham	@theashleygraham	NNP	pos2=NN	4	nsubj	_	U-PERSON
+4	is	be	VBZ	_	1	ccomp	_	O
+5	obsessed	obsessed	JJ	pos2=VBN	4	acomp	_	O
+6	with	with	IN	_	5	prep	_	O
+7	right	right	JJ	pos2=RB	10	nmod	_	O
+8	now😊🙏🏼❤️️#AshleyGraham	now😊🙏🏼❤️️#ashleygraham	XX	pos2=GW	10	nmod	_	O
+9	#plussizefashion	#plussizefashion	ADD	pos2=GW	10	punct	_	O
+10	https://t.co/kg7jnGS4l3	#hlink#	ADD	_	6	pobj	_	O
+

@@ -1,0 +1,33 @@
+1	As	as	IN	_	13	mark	_	O
+2	Trump	trump	NNP	pos2=NN	13	nsubj	_	U-PERSON
+3	's	's	POS	_	2	case	_	O
+4	busy	busy	JJ	_	3	acomp	_	O
+5	assembling	assemble	VBG	_	4	xcomp	_	O
+6	his	his	PRP$	_	7	poss	_	O
+7	cabinet	cabinet	NN	_	5	dobj	_	O
+8	,	,	,	_	7	punct	_	O
+9	HRC	hrc	NNP	pos2=NN	7	appos	_	B-ORG
+10	&	&	CC	_	9	cc	_	I-ORG
+11	Stein	stein	NNP	_	9	conj	_	L-ORG
+12	are	be	VBP	_	13	aux	_	O
+13	hoping	hope	VBG	_	0	root	_	O
+14	against	against	IN	_	13	prep	_	O
+15	all	all	DT	_	16	det	_	O
+16	odds	odds	NNS	_	14	pobj	_	O
+17	on	on	IN	_	16	prep	_	O
+18	a	a	DT	_	19	det	_	O
+19	#recount	#recount	NN	pos2=NNP	17	pobj	_	O
+20	in	in	IN	_	13	prep	_	O
+21	3	0	CD	_	22	nmod	_	U-CARDINAL
+22	states	state	NNS	_	20	pobj	_	O
+23	.	.	.	_	4	punct	_	O
+
+1	Good	good	JJ	_	2	nmod	_	O
+2	luck	luck	NN	_	0	root	_	O
+3	w	w	IN	pos2=RB	2	prep	_	O
+4	/	/	HYPH	pos2=,	3	punct	_	O
+5	that	that	DT	pos2=WDT	3	pobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	#RECOUNT2016	#recount0	NN	pos2=NNS	0	root	_	O
+

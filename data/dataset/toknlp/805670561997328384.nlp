@@ -1,0 +1,14 @@
+1	Beat	beat	VB	pos2=NN	0	root	_	O
+2	until	until	IN	_	4	mark	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	thickens	thicken	VBZ	_	1	advcl	_	O
+5	,	,	,	_	1	punct	_	O
+6	and	and	CC	_	1	cc	_	O
+7	is	be	VBZ	_	1	conj	_	O
+8	the	the	DT	_	10	det	_	O
+9	minimum	minimum	JJ	pos2=NN	10	nmod	_	O
+10	wage	wage	NN	_	7	attr	_	O
+11	,	,	,	_	7	punct	_	O
+12	_	_	SYM	pos2=NFP	13	punct	_	O
+13	i.	i.	FW	pos2=NN	7	discourse	_	O
+

@@ -1,0 +1,29 @@
+1	@FoxNews	@foxnews	VBZ	pos2=VBD	6	discourse	_	O
+2	EVERYBODY	everybody	NN	_	1	dobj	_	O
+3	WITH	with	IN	_	2	prep	_	O
+4	ANY	any	DT	_	5	det	_	O
+5	SENSE	sense	NN	_	3	pobj	_	O
+6	KNOWS	know	VBZ	_	0	root	_	O
+7	GEORGE	george	NNP	_	8	compound	_	B-PERSON
+8	SOROS	soros	NNP	_	9	nsubj	_	L-PERSON
+9	IS	be	VBZ	_	6	ccomp	_	O
+10	BEHIND	behind	IN	pos2=RB	9	prep	_	O
+11	ALL	all	DT	_	10	pobj	_	O
+12	OF	of	IN	_	11	prep	_	O
+13	THIS	this	DT	_	14	det	_	O
+14	DISRUPTION	disruption	NN	_	12	pobj	_	O
+15	IN	in	IN	_	14	prep	_	O
+16	OUR	our	PRP$	_	17	poss	_	O
+17	COUNTRY	country	NN	_	15	pobj	_	O
+18	.	.	.	_	6	punct	_	O
+
+1	STILL	still	RB	_	2	advmod	_	O
+2	TRYING	try	VBG	_	0	root	_	O
+3	TO	to	TO	_	4	aux	_	O
+4	CREATE	create	VB	_	2	xcomp	_	O
+5	VIOLENCE	violence	NN	_	4	dobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	SAD	sad	JJ	pos2=NN	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

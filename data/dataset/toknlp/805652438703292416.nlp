@@ -1,0 +1,20 @@
+1	@StoneColdChik	@stonecoldchik	NN	pos2=XX	2	compound	_	O
+2	hackers	hacker	NNS	_	3	nsubj	_	O
+3	breached	breach	VBD	_	0	root	_	O
+4	voter	voter	NN	_	5	compound	_	O
+5	registration	registration	NN	_	6	compound	_	O
+6	databases	database	NNS	_	3	dobj	_	O
+7	in	in	IN	pos2=RB	3	prep	_	O
+8	at	at	RB	_	9	advmod	_	B-CARDINAL
+9	least	least	RBS	pos2=JJS	10	advmod	_	I-CARDINAL
+10	two	#crd#	CD	_	11	nmod	_	L-CARDINAL
+11	states	state	NNS	_	7	pobj	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	She	she	PRP	_	2	nsubj	_	O
+2	stated	state	VBD	_	0	root	_	O
+3	that	that	IN	pos2=DT	6	mark	_	O
+4	voting	voting	NN	pos2=VBG	5	compound	_	O
+5	irregularities	irregularity	NNS	_	6	nsubj	_	O
+6	occurred	occur	VBD	_	2	ccomp	_	O
+

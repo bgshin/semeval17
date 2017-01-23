@@ -1,0 +1,13 @@
+1	@My_Shynanigans	@my_shynanigans	NNS	pos2=ADD	5	dep	_	O
+2	@delilaicerlily	@delilaicerlily	RB	pos2=UH	5	advmod	_	O
+3	@StPaul92266071	@stpaul0	NN	pos2=IN	5	dep	_	O
+4	he	he	PRP	_	5	nsubj	_	O
+5	did	do	VBD	_	0	root	_	O
+6	business	business	NN	pos2=VB	5	dobj	_	O
+7	in	in	IN	_	5	prep	_	O
+8	Cuba	cuba	NNP	_	7	pobj	_	U-GPE
+9	during	during	IN	_	5	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	embargo	embargo	NN	_	9	pobj	_	O
+12	.	.	.	_	5	punct	_	O
+

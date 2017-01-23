@@ -1,0 +1,27 @@
+1	@ArieFriedman	@ariefriedman	NNP	pos2=NN	5	dep	_	O
+2	Before	before	IN	_	1	prep	_	O
+3	election	election	NN	_	2	pobj	_	O
+4	this	this	DT	_	5	det	_	O
+5	twit	twit	NN	_	8	nsubj	_	O
+6	would	would	MD	_	8	aux	_	O
+7	have	have	VB	_	8	aux	_	O
+8	told	tell	VBN	_	0	root	_	O
+9	you	you	PRP	_	8	dobj	_	O
+10	most	most	RBS	_	12	advmod	_	O
+11	'	'	``	pos2=''	12	punct	_	O
+12	educated	educate	VBN	pos2=JJ	15	nmod	_	O
+13	'	'	''	pos2=POS	15	punct	_	O
+14	affluent	affluent	JJ	_	15	nmod	_	O
+15	folks	folk	NNS	_	16	nsubj	_	O
+16	were	be	VBD	_	8	ccomp	_	O
+17	Dems	dems	NNPS	pos2=NNP	16	attr	_	U-NORP
+18	,	,	,	_	17	punct	_	O
+19	who	who	WP	_	20	nsubj	_	O
+20	look	look	VBP	pos2=VB	17	relcl	_	O
+21	down	down	RP	pos2=IN	20	prep	_	O
+22	nose	nose	NN	_	21	pobj	_	O
+23	at	at	IN	_	20	prep	_	O
+24	common	common	JJ	_	25	nmod	_	O
+25	folk	folk	NN	_	23	pobj	_	O
+26	.	.	.	_	8	punct	_	O
+

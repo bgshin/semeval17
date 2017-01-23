@@ -1,0 +1,11 @@
+1	Drones	drone	NNS	_	4	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	robots	robot	NNS	_	1	conj	_	O
+4	make	make	VBP	_	0	root	_	O
+5	solar	solar	JJ	_	6	nmod	_	O
+6	panels	panel	NNS	_	8	nsubj	_	O
+7	more	more	RBR	pos2=JJR	8	advmod	_	O
+8	effic	effic	JJ	pos2=GW	4	ccomp	_	O
+9	ienthttps://t.co/PpFj9y8SVz	#hlink#	ADD	_	8	attr	_	O
+10	https://t.co/5o0Pp6CAaN	#hlink#	ADD	_	8	pobj	_	O
+

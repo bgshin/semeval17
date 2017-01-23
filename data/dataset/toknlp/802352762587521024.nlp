@@ -1,0 +1,37 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	think	think	VBP	_	0	root	_	O
+3	Juan	juan	NNP	_	4	compound	_	B-PERSON
+4	Dixon	dixon	NNP	_	5	nsubj	_	L-PERSON
+5	is	be	VBZ	_	2	ccomp	_	O
+6	definitely	definitely	RB	_	5	advmod	_	O
+7	in	in	IN	_	5	prep	_	O
+8	my	my	PRP$	_	11	poss	_	O
+9	top	top	JJ	pos2=NN	11	nmod	_	O
+10	5	0	CD	_	11	nmod	_	U-CARDINAL
+11	non-Dukies	non-dukies	NNS	_	7	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	all	all	DT	_	14	det	_	O
+14	time	time	NN	_	12	pobj	_	O
+15	.	.	.	_	2	punct	_	O
+
+1	Need	need	VBP	pos2=VB	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	mull	mull	VB	_	1	xcomp	_	O
+4	over	over	IN	pos2=RP	3	prep	_	O
+5	that	that	DT	_	6	det	_	O
+6	list	list	NN	_	4	pobj	_	O
+7	some	some	DT	pos2=RB	3	dobj	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	Right	right	RB	_	2	advmod	_	O
+2	now	now	RB	_	4	advmod	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	Tim	tim	NNP	_	6	compound	_	B-PERSON
+6	Duncan	duncan	NNP	_	4	attr	_	L-PERSON
+7	,	,	,	_	6	punct	_	O
+8	CP3	cp0	NN	pos2=NNP	6	appos	_	U-PRODUCT
+9	,	,	,	_	8	punct	_	O
+10	Juan	juan	NNP	_	6	appos	_	U-PERSON
+11	.	.	.	_	4	punct	_	O
+

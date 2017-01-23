@@ -1,0 +1,23 @@
+1	@CasperMomNJ	@caspermomnj	ADD	pos2=XX	4	dep	_	O
+2	@lilmomma43420	@lilmomma0	NN	pos2=CD	4	compound	_	O
+3	@mikethenice1	@mikethenice0	NN	pos2=LS	4	compound	_	O
+4	@vachilly64	@vachilly0	NN	pos2=XX	0	root	_	O
+5	@ozy	@ozy	UH	pos2=MD	4	discourse	_	O
+6	not	not	RB	_	8	neg	_	O
+7	that	that	RB	pos2=IN	8	advmod	_	O
+8	easy	easy	JJ	pos2=RB	11	nmod	_	O
+9	given	give	VBN	pos2=IN	4	prep	_	O
+10	Rudys	rudys	NNPS	_	11	compound	_	U-PERSON
+11	clients	client	NNS	_	9	pobj	_	O
+12	(	(	-LRB-	_	14	punct	_	O
+13	some	some	DT	_	14	nsubj	_	O
+14	are	be	VBP	_	4	parataxis	_	O
+15	really	really	RB	_	16	advmod	_	O
+16	bad	bad	JJ	_	17	nmod	_	O
+17	hombres	hombre	NNS	_	14	attr	_	O
+18	,	,	,	_	20	punct	_	O
+19	biz	biz	NN	pos2=FW	20	nsubj	_	O
+20	is	be	VBZ	_	4	dep	_	O
+21	biz	biz	NN	pos2=FW	20	attr	_	O
+22	)	)	-RRB-	_	20	punct	_	O
+

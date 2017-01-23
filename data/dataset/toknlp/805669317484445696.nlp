@@ -1,0 +1,25 @@
+1	MOVE	move	VB	pos2=NN	8	advcl	_	O
+2	OVER	over	IN	pos2=RP	1	prep	_	O
+3	Marijuana	marijuana	NN	pos2=NNP	5	compound	_	O
+4	-	-	HYPH	pos2=:	5	punct	_	O
+5	lovers	lover	NNS	_	2	pobj	_	O
+6	,	,	,	_	8	punct	_	O
+7	there	there	EX	_	8	expl	_	O
+8	's	's	VBZ	_	0	root	_	O
+9	a	a	DT	_	16	det	_	O
+10	new	new	JJ	_	16	nmod	_	O
+11	recreational	recreational	JJ	_	13	nmod	_	O
+12	-	-	HYPH	_	13	punct	_	O
+13	cum	cum	NN	_	15	npadvmod	_	O
+14	-	-	HYPH	_	15	punct	_	O
+15	medical	medical	JJ	_	16	nmod	_	O
+16	substance	substance	NN	_	8	attr	_	O
+17	in	in	IN	_	16	prep	_	O
+18	town	town	NN	_	17	pobj	_	O
+19	👉🏼	👉🏼	NNP	pos2=IN	22	nmod	_	U-CARDINAL
+20	MEDICAL	medical	JJ	pos2=NNP	21	nmod	_	O
+21	MAGIC	magic	NN	pos2=NNP	22	compound	_	O
+22	MUSHROOMS	mushroom	NNS	_	24	dep	_	O
+23	🍄	🍄	:	pos2=-LRB-	24	punct	_	O
+24	https://t.co/uzN6akHNXb	#hlink#	ADD	pos2=NN	8	dep	_	O
+

@@ -1,0 +1,29 @@
+1	Much	much	JJ	_	2	nmod	_	O
+2	respect	respect	NN	_	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Fidel	fidel	NNP	_	5	compound	_	B-PERSON
+5	Castro	castro	NNP	_	2	vocative	_	L-PERSON
+6	-	-	HYPH	pos2=:	2	punct	_	O
+7	his	his	PRP$	_	8	poss	_	O
+8	desire	desire	NN	_	3	pobj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	avoid	avoid	VB	_	8	acl	_	O
+11	a	a	DT	_	12	det	_	O
+12	cult	cult	NN	_	10	dobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	personality	personality	NN	_	13	pobj	_	O
+15	and	and	CC	_	10	cc	_	O
+16	so	so	RB	_	18	advmod	_	O
+17	no	no	DT	pos2=UH	18	det	_	O
+18	monuments&streets	monuments&streets	NNS	pos2=NN	14	appos	_	O
+19	to	to	IN	_	18	prep	_	O
+20	his	his	PRP$	_	21	poss	_	O
+21	name	name	NN	_	19	pobj	_	O
+22	.	.	.	_	2	punct	_	O
+
+1	A	a	DT	_	3	det	_	O
+2	true	true	JJ	_	3	nmod	_	O
+3	leader	leader	NN	_	0	root	_	O
+4	indeed	indeed	RB	_	3	advmod	_	O
+5	.	.	.	_	3	punct	_	O
+

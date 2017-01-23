@@ -1,0 +1,38 @@
+1	@tabbydragon	@tabbydragon	UH	pos2=NNP	3	discourse	_	O
+2	Not	not	RB	_	3	neg	_	O
+3	yet	yet	RB	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	have	have	VBP	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	few	few	JJ	_	5	nmod	_	O
+5	books	book	NNS	_	2	dobj	_	O
+6	on	on	IN	_	5	prep	_	O
+7	how	how	WRB	_	9	advmod	_	O
+8	to	to	TO	_	9	aux	_	O
+9	do	do	VB	_	6	pcomp	_	O
+10	that	that	DT	_	9	dobj	_	O
+11	,	,	,	_	2	punct	_	O
+12	but	but	CC	_	2	cc	_	O
+13	lately	lately	RB	_	17	advmod	_	O
+14	,	,	,	_	17	punct	_	O
+15	I	I	PRP	_	17	nsubj	_	O
+16	've	have	VBP	_	17	aux	_	O
+17	used	use	VBN	_	2	conj	_	O
+18	3	0	CD	_	19	nmod	_	U-CARDINAL
+19	D	d	NNP	pos2=NN	20	advmod	_	O
+20	printing	print	VBG	pos2=NN	17	dobj	_	O
+21	instead	instead	RB	_	20	advmod	_	O
+22	.	.	.	_	17	punct	_	O
+
+1	Will	will	MD	_	2	aux	_	O
+2	use	use	VB	_	0	root	_	O
+3	wires	wire	NNS	_	2	dobj	_	O
+4	if	if	IN	_	6	mark	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	use	use	VBP	_	2	advcl	_	O
+7	clay	clay	NN	_	6	dobj	_	O
+8	again	again	RB	_	6	advmod	_	O
+9	.	.	.	_	2	punct	_	O
+

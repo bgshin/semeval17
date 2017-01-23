@@ -1,0 +1,26 @@
+1	3.	0.	LS	pos2=CD	4	meta	_	U-CARDINAL
+2	Michael	michael	NNP	_	3	compound	_	B-PERSON
+3	Moore	moore	NNP	_	4	nsubj	_	L-PERSON
+4	was	be	VBD	_	0	root	_	O
+5	right	right	JJ	pos2=RB	4	acomp	_	O
+6	that	that	IN	_	9	mark	_	O
+7	people	people	NNS	_	9	nsubj	_	O
+8	would	would	MD	_	9	aux	_	O
+9	have	have	VB	_	5	ccomp	_	O
+10	buyers	buyer	NNS	_	11	nsubj	_	O
+11	remorse	remorse	NN	pos2=VB	9	dobj	_	O
+12	.	.	.	_	4	punct	_	O
+
+1	And	and	CC	_	3	cc	_	O
+2	we	we	PRP	_	3	nsubj	_	O
+3	have	have	VBP	_	0	root	_	O
+4	online	online	JJ	pos2=RB	5	nmod	_	O
+5	petitions	petition	NNS	_	3	dobj	_	O
+6	flying	fly	VBG	_	5	acl	_	O
+7	all	all	RB	_	8	advmod	_	O
+8	over	over	IN	_	6	prep	_	O
+9	the	the	DT	_	11	det	_	O
+10	damn	damn	JJ	_	11	nmod	_	O
+11	place	place	NN	_	8	pobj	_	O
+12	.	.	.	_	3	punct	_	O
+

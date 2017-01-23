@@ -1,0 +1,9 @@
+1	Kim	kim	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	fatty	fatty	VBD	pos2=JJ	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	third	#ord#	JJ	pos2=NN	2	dobj	_	U-ORDINAL
+5	!	!	.	_	2	punct	_	O
+
+1	Original	original	JJ	pos2=NN	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+

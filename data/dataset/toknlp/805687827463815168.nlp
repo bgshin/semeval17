@@ -1,0 +1,27 @@
+1	@JohnBall_1972	@johnball_0	NN	pos2=NNS	21	nsubj	_	O
+2	Right	right	RB	pos2=UH	3	advmod	_	O
+3	across	across	IN	_	1	prep	_	O
+4	Europe	europe	NNP	_	3	pobj	_	U-LOC
+5	they	they	PRP	_	7	nsubj	_	O
+6	've	have	VBP	_	7	aux	_	O
+7	had	have	VBN	pos2=VBD	0	root	_	O
+8	enough	enough	JJ	pos2=RB	7	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	being	be	VBG	_	9	pcomp	_	O
+11	'	'	``	pos2=''	10	punct	_	O
+12	the	the	DT	_	14	det	_	O
+13	little	little	JJ	_	14	nmod	_	O
+14	people	people	NNS	_	10	attr	_	O
+15	'	'	''	pos2=POS	10	punct	_	O
+16	,	,	,	_	21	punct	_	O
+17	Marine	marine	NNP	pos2=JJ	19	compound	_	B-ORG
+18	Le	le	NNP	_	19	compound	_	I-ORG
+19	Pen	pen	NNP	_	21	nsubj	_	L-ORG
+20	should	should	MD	_	21	aux	_	O
+21	stand	stand	VB	_	0	root	_	O
+22	a	a	DT	_	23	det	_	O
+23	chance	chance	NN	_	21	dobj	_	O
+24	in	in	IN	_	21	prep	_	O
+25	French	french	JJ	pos2=NNP	26	nmod	_	U-NORP
+26	election	election	NN	_	24	pobj	_	O
+

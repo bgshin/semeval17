@@ -1,0 +1,7 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	WAN	wan	VBP	pos2=NNP	0	root	_	O
+3	NA	to	TO	pos2=NNP	4	aux	_	O
+4	PLAY	play	VB	pos2=NN	2	xcomp	_	O
+5	PERSONA	persona	NN	_	4	dobj	_	O
+6	5	0	CD	_	2	npadvmod	_	U-CARDINAL
+

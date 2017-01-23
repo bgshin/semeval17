@@ -1,0 +1,20 @@
+1	Steve	steve	NNP	_	2	compound	_	B-PERSON
+2	Bannon	bannon	NNP	_	5	poss	_	I-PERSON
+3	’s	's	POS	_	2	case	_	L-PERSON
+4	First	#ord#	NNP	pos2=JJ	5	compound	_	O
+5	Pick	pick	NNP	pos2=NN	19	dep	_	O
+6	For	for	IN	_	5	prep	_	O
+7	President	president	NNP	_	10	compound	_	O
+8	-	-	HYPH	pos2=,	10	punct	_	O
+9	POLITICO	politico	NNP	_	10	compound	_	O
+10	Fascinating	fascinating	NNP	pos2=JJ	6	pobj	_	O
+11	and	and	CC	_	5	cc	_	O
+12	says	say	VBZ	_	5	conj	_	O
+13	a	a	DT	_	14	det	_	O
+14	lot	lot	NN	_	19	nsubj	_	O
+15	about	about	IN	_	14	prep	_	O
+16	Bannon	bannon	NNP	_	15	pobj	_	O
+17	#StillWithHer	#stillwithher	GW	pos2=NNP	19	nmod	_	O
+18	#recount	#recount	GW	pos2=ADD	19	nmod	_	O
+19	https://t.co/5N8U6vSeAx	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,17 @@
+1	Niggas	nigga	NNS	pos2=NNP	3	nsubj	_	O
+2	be	be	VB	pos2=VBP	3	auxpass	_	O
+3	broke	break	VBD	pos2=JJ	0	root	_	O
+4	that	that	DT	_	5	nsubj	_	O
+5	's	's	VBZ	_	3	ccomp	_	O
+6	the	the	DT	_	7	det	_	O
+7	reason	reason	NN	_	5	attr	_	O
+8	they	they	PRP	_	9	nsubj	_	O
+9	hate	hate	VBP	_	7	relcl	_	O
+10	flipping	flip	VBG	_	9	xcomp	_	O
+11	them	them	PRP	_	10	dative	_	O
+12	burgers	burger	NNS	_	10	dobj	_	O
+13	for	for	IN	_	10	prep	_	O
+14	minimum	minimum	JJ	pos2=NN	16	nmod	_	O
+15	wage	wage	NN	_	16	compound	_	O
+16	😅	😅	NN	pos2=NNP	13	pobj	_	O
+

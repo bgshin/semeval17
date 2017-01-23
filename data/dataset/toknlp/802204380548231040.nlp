@@ -1,0 +1,8 @@
+1	Only	only	RB	_	3	advmod	_	O
+2	our	our	PRP$	_	3	poss	_	O
+3	family	family	NN	_	7	dep	_	O
+4	#mannequinchallenge	#mannequinchallenge	XX	pos2=IN	7	dep	_	O
+5	#thanksgiving	#thanksgiving	VBG	pos2=GW	6	nmod	_	O
+6	#familygoals	#familygoals	NNS	pos2=GW	7	nmod	_	O
+7	https://t.co/OeAJ4Of2v9	#hlink#	ADD	_	0	root	_	O
+

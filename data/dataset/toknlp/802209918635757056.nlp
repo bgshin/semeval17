@@ -1,0 +1,32 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	incredible	incredible	JJ	_	2	acomp	_	O
+4	how	how	WRB	_	5	advmod	_	O
+5	many	many	JJ	_	6	nmod	_	O
+6	people	people	NNS	_	8	nsubjpass	_	O
+7	are	be	VBP	_	8	auxpass	_	O
+8	born	bear	VBN	_	2	ccomp	_	O
+9	in	in	IN	_	8	prep	_	O
+10	November	november	NNP	_	9	pobj	_	U-DATE
+11	...	..	.	pos2=,	2	punct	_	O
+
+1	if	if	IN	_	3	mark	_	O
+2	u	u	PRP	pos2=DT	3	nsubj	_	O
+3	think	think	VBP	pos2=VB	8	advcl	_	O
+4	about	about	IN	_	3	prep	_	O
+5	it	it	PRP	_	4	pobj	_	O
+6	,	,	,	_	8	punct	_	O
+7	that	that	DT	_	8	nsubj	_	O
+8	means	mean	VBZ	_	0	root	_	O
+9	they	they	PRP	_	11	nsubjpass	_	O
+10	were	be	VBD	_	11	auxpass	_	O
+11	conceived	conceive	VBN	_	8	ccomp	_	O
+12	in	in	IN	_	11	prep	_	O
+13	february	february	NNP	pos2=NN	12	pobj	_	U-DATE
+14	...	..	.	pos2=,	8	punct	_	O
+
+1	(	(	-LRB-	_	3	punct	_	O
+2	VALENTINES	valentine	NNS	pos2=NNP	3	compound	_	O
+3	DAY	day	NN	pos2=NNP	0	root	_	O
+4	)	)	-RRB-	_	3	punct	_	O
+

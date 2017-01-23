@@ -1,0 +1,16 @@
+1	Take	take	VB	_	0	root	_	O
+2	To	to	IN	pos2=NNP	1	prep	_	O
+3	The	the	DT	_	4	det	_	O
+4	Streets	street	NNPS	pos2=NNS	2	pobj	_	O
+5	!	!	.	_	1	punct	_	O
+
+1	Protest	protest	VB	pos2=NN	0	root	_	O
+2	The	the	DT	_	4	det	_	O
+3	Trump	trump	NNP	pos2=NN	4	compound	_	U-ORG
+4	Inauguration	inauguration	NNP	pos2=NN	7	dep	_	O
+5	January	january	NNP	_	4	npadvmod	_	B-DATE
+6	2017	0	CD	_	7	dep	_	L-DATE
+7	https://t.co/olu4nmT6eG	#hlink#	ADD	pos2=NNS	1	dobj	_	O
+8	via	via	IN	_	1	prep	_	O
+9	@worldcantwait	@worldcantwait	NN	pos2=.	8	pobj	_	O
+

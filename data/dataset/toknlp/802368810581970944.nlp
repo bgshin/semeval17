@@ -1,0 +1,26 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	would	would	MD	_	3	aux	_	O
+3	argue	argue	VB	_	0	root	_	O
+4	that	that	IN	_	6	mark	_	O
+5	he	he	PRP	_	6	nsubj	_	O
+6	is	be	VBZ	_	3	ccomp	_	O
+7	white	white	JJ	_	6	acomp	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	Since	since	IN	_	6	prep	_	O
+2	according	accord	VBG	_	1	pcomp	_	O
+3	to	to	IN	_	2	prep	_	O
+4	leftists	leftist	NNS	pos2=JJ	5	compound	_	O
+5	race	race	NN	pos2=PRP	3	pobj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	a	a	DT	_	9	det	_	O
+8	social	social	JJ	_	9	nmod	_	O
+9	construct	construct	NN	pos2=VB	6	nsubj	_	O
+10	and	and	CC	_	6	cc	_	O
+11	he	he	PRP	_	13	nsubjpass	_	O
+12	was	be	VBD	_	13	auxpass	_	O
+13	raised	raise	VBN	_	6	conj	_	O
+14	by	by	IN	_	13	agent	_	O
+15	whites	white	NNS	_	14	pobj	_	O
+16	https://t.co/ihmaBTypek	#hlink#	ADD	pos2=VBP	13	npadvmod	_	O
+

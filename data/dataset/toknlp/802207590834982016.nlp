@@ -1,0 +1,27 @@
+1	A	a	DT	_	2	qmod	_	B-CARDINAL
+2	dozen	dozen	NN	_	6	compound	_	L-CARDINAL
+3	Chicago	chicago	NNP	_	6	compound	_	U-GPE
+4	hip	hip	NN	_	6	compound	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	hop	hop	NN	_	7	compound	_	O
+7	acts	act	NNS	_	8	nsubj	_	O
+8	come	come	VBP	pos2=VB	0	root	_	O
+9	together	together	RB	_	8	advmod	_	O
+10	Saturday	saturday	NNP	_	8	npadvmod	_	U-DATE
+11	for	for	IN	_	8	prep	_	O
+12	a	a	DT	_	14	det	_	O
+13	benefit	benefit	NN	_	14	compound	_	O
+14	show	show	NN	_	11	pobj	_	O
+15	for	for	IN	_	14	prep	_	O
+16	Standing	standing	NNP	pos2=VBG	17	compound	_	B-GPE
+17	Rock	rock	NNP	_	18	compound	_	L-GPE
+18	protesters	protester	NNS	_	15	pobj	_	O
+19	.	.	.	_	8	punct	_	O
+
+1	https	http	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	//	//	NFP	pos2=-LRB-	6	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	DOjxYPsvKq	dojxypsvkq	NN	pos2=ADD	0	root	_	O
+

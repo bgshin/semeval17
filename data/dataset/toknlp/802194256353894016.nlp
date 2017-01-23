@@ -1,0 +1,21 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@JoyAnnReid	@joyannreid	ADD	pos2=XX	4	prep	_	O
+2	@nytimes	@nytimes	NNS	pos2=UH	4	aux	_	O
+3	been	be	VBN	pos2=VBP	4	aux	_	O
+4	saying	say	VBG	_	0	root	_	O
+5	media	medium	NNS	pos2=NN	7	nsubj	_	O
+6	must	must	MD	_	7	aux	_	O
+7	stop	stop	VB	_	4	ccomp	_	O
+8	providing	provide	VBG	_	7	xcomp	_	O
+9	cover	cover	NN	pos2=VB	8	dobj	_	O
+10	to	to	IN	_	8	prep	_	O
+11	racists	racist	NNS	_	10	pobj	_	O
+12	with	with	IN	_	11	prep	_	O
+13	euphemisms	euphemism	NNS	_	12	pobj	_	O
+14	chosen	choose	VBN	_	13	acl	_	O
+15	by	by	IN	_	14	agent	_	O
+16	white	white	JJ	_	17	nmod	_	O
+17	supremacists	supremacist	NNS	_	15	pobj	_	O
+18	themselves.👀	themselves.👀	.	pos2=NNP	4	punct	_	O
+

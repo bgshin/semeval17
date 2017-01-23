@@ -1,0 +1,30 @@
+1	"	"	``	_	6	punct	_	O
+2	Well	well	UH	_	6	discourse	_	O
+3	,	,	,	_	6	punct	_	O
+4	it	it	PRP	_	6	nsubj	_	O
+5	may	may	MD	_	6	aux	_	O
+6	be	be	VB	_	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	devil	devil	NN	pos2=NNP	6	attr	_	O
+9	or	or	CC	_	6	cc	_	O
+10	it	it	PRP	_	12	nsubj	_	O
+11	may	may	MD	_	12	aux	_	O
+12	be	be	VB	_	6	conj	_	O
+13	the	the	DT	_	14	det	_	O
+14	Lord	lord	NNP	_	12	attr	_	O
+15	.	.	.	_	12	punct	_	O
+
+1	But	but	CC	_	4	cc	_	O
+2	you	you	PRP	_	4	nsubj	_	O
+3	’re	be	VBP	_	4	aux	_	O
+4	gon	gon	VBG	_	13	ccomp	_	O
+5	na	to	TO	pos2=PRP	6	aux	_	O
+6	have	have	VB	pos2=VBP	4	xcomp	_	O
+7	to	to	TO	_	8	aux	_	O
+8	serve	serve	VB	_	6	xcomp	_	O
+9	somebody	somebody	NN	_	8	dobj	_	O
+10	"	"	''	_	9	punct	_	O
+11	-	-	:	pos2=,	13	punct	_	O
+12	Bob	bob	NNP	_	13	compound	_	B-PERSON
+13	Dylan	dylan	NNP	_	0	root	_	L-PERSON
+

@@ -1,0 +1,18 @@
+1	i	I	PRP	_	3	nsubjpass	_	O
+2	am	be	VBP	_	3	auxpass	_	O
+3	obsessed	obsess	VBN	pos2=JJ	0	root	_	O
+4	with	with	IN	_	3	prep	_	O
+5	@kirstiealley	@kirstiealley	JJ	pos2=PRP$	7	nmod	_	O
+6	nail	nail	NN	_	7	compound	_	O
+7	colour	colour	NN	_	4	pobj	_	O
+8	in	in	IN	_	3	prep	_	O
+9	#ScreamQueens	#screamqueens	NNS	pos2=NNP	8	pobj	_	O
+10	this	this	DT	_	11	det	_	B-DATE
+11	week	week	NN	_	3	npadvmod	_	L-DATE
+12	,	,	,	_	3	punct	_	O
+13	..	..	.	pos2=,	3	punct	_	O
+
+1	#badass	#badass	UH	pos2=XX	3	discourse	_	O
+2	#bombshell	#bombshell	UH	pos2=MD	3	discourse	_	O
+3	😍😍😘😘	😍😍😘😘	UH	pos2=.	0	root	_	O
+

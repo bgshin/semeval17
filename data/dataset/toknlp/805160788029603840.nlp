@@ -1,0 +1,20 @@
+1	Ashley	ashley	NNP	_	3	compound	_	B-PERSON
+2	Graham	graham	NNP	_	3	compound	_	L-PERSON
+3	Just	just	NNP	pos2=RB	4	nsubj	_	O
+4	Shut	shut	VBD	pos2=VB	0	root	_	O
+5	Down	down	NNP	pos2=RP	4	prt	_	O
+6	The	the	DT	pos2=NNP	7	det	_	O
+7	Runway	runway	NN	pos2=NNP	4	dobj	_	O
+8	In	in	IN	_	4	prep	_	O
+9	Her	her	PRP$	_	10	poss	_	O
+10	Lingerie	lingerie	NNP	pos2=NN	8	pobj	_	O
+11	At	at	IN	pos2=NNP	4	prep	_	O
+12	NYFW	nyfw	NNP	pos2=NN	14	compound	_	O
+13	-	-	HYPH	pos2=:	14	punct	_	O
+14	See	see	NNP	pos2=VB	15	compound	_	O
+15	Killer	killer	NNP	pos2=NN	16	compound	_	O
+16	Curves	curve	NNS	pos2=NNPS	11	pobj	_	O
+17	!	!	.	_	4	punct	_	O
+
+1	https://t.co/cbUhLwJkoJ	#hlink#	ADD	_	0	root	_	U-ORG
+

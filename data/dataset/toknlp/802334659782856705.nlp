@@ -1,0 +1,24 @@
+1	@FoxNews	@foxnews	NNP	pos2=ADD	4	nsubj	_	U-ORG
+2	Now	now	RB	pos2=UH	4	advmod	_	O
+3	that	that	DT	pos2=IN	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	real	real	RB	pos2=JJ	6	advmod	_	O
+6	smart	smart	JJ	_	4	acomp	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	Shutting	shut	VBG	_	0	root	_	O
+2	down	down	RP	pos2=RB	1	prt	_	O
+3	their	their	PRP$	_	6	poss	_	O
+4	own	own	JJ	_	6	nmod	_	O
+5	neighborhood	neighborhood	NN	_	6	compound	_	O
+6	stores	store	NNS	_	1	dobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	protest	protest	VB	_	1	advcl	_	O
+9	Trump	trump	NNP	pos2=NN	8	dobj	_	U-ORG
+10	.	.	.	_	1	punct	_	O
+
+1	Lol	lol	UH	pos2=NNP	4	discourse	_	O
+2	,	,	,	_	4	punct	_	O
+3	what	what	WP	pos2=WDT	4	det	_	O
+4	idiots	idiot	NNS	_	0	root	_	O
+

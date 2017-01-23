@@ -1,0 +1,26 @@
+1	Your	your	PRP$	_	2	poss	_	O
+2	self	self	NN	_	6	nsubjpass	_	O
+3	worth	worth	JJ	pos2=NN	2	nmod	_	O
+4	is	be	VBZ	_	6	auxpass	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	based	base	VBN	_	0	root	_	O
+7	on	on	IN	_	6	prep	_	O
+8	someone	someone	NN	_	11	poss	_	O
+9	else	else	RB	pos2=NN	8	advmod	_	O
+10	's	's	POS	_	8	case	_	O
+11	thoughts	thought	NNS	_	7	pobj	_	O
+12	,	,	,	_	11	punct	_	O
+13	opinion	opinion	NN	_	11	conj	_	O
+14	or	or	CC	_	13	cc	_	O
+15	threats	threat	NNS	_	13	conj	_	O
+16	.	.	.	_	6	punct	_	O
+
+1	#StandUp	#standup	UH	pos2=NN	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	#SpeakUp	#speakup	UH	pos2=NN	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/5jSGCHlvzJ	#hlink#	ADD	pos2=NN	0	root	_	O
+

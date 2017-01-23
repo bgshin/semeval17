@@ -1,0 +1,21 @@
+1	#isis	#isis	IN	pos2=PRP$	4	compound	_	O
+2	Europe	europe	NNP	_	4	compound	_	U-LOC
+3	|	|	SYM	pos2=NFP	5	punct	_	O
+4	Prosecutor	prosecutor	NNP	_	5	nsubj	_	O
+5	Says	say	VBZ	pos2=NNP	0	root	_	O
+6	Arrests	arrest	NNS	pos2=NNPS	7	nsubj	_	O
+7	Disrupted	disrupt	VBN	pos2=VBD	5	ccomp	_	O
+8	'	'	``	_	9	punct	_	O
+9	Imminent	imminent	JJ	_	12	nmod	_	O
+10	'	'	''	pos2=POS	12	punct	_	O
+11	ISIS	isis	NNP	pos2=NN	12	compound	_	O
+12	Attack	attack	NNP	pos2=NN	7	dobj	_	O
+13	in	in	IN	_	12	prep	_	O
+14	France	france	NNP	_	18	compound	_	O
+15	-	-	HYPH	pos2=:	18	punct	_	O
+16	New	new	NNP	_	17	compound	_	O
+17	York	york	NNP	_	18	compound	_	O
+18	Times	times	NNP	_	13	pobj	_	O
+19	…	…	NFP	pos2=POS	20	punct	_	O
+20	https://t.co/RNqFSwZ7mk	#hlink#	ADD	_	5	punct	_	O
+

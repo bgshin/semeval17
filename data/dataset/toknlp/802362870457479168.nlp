@@ -1,0 +1,19 @@
+1	🚨It	🚨it	NN	pos2=NNP	7	dep	_	O
+2	's	's	AFX	pos2=VBZ	1	nmod	_	O
+3	about	about	IN	pos2=RB	1	prep	_	O
+4	time💥Dana	time💥dana	NNP	pos2=NN	5	compound	_	B-PERSON
+5	Milbank	milbank	NNP	_	3	pobj	_	L-PERSON
+6	:	:	:	_	7	punct	_	O
+7	Time	time	NN	pos2=NNP	0	root	_	O
+8	For	for	IN	pos2=NNP	7	prep	_	O
+9	Pelosi	pelosi	NNP	_	8	pobj	_	U-PERSON
+10	,	,	,	_	9	punct	_	O
+11	Senior	senior	NNP	pos2=JJ	12	compound	_	O
+12	Democrats	democrat	NNPS	_	9	appos	_	U-NORP
+13	to	to	TO	pos2=IN	14	aux	_	O
+14	Step	step	VB	pos2=NNP	7	advcl	_	O
+15	Down	down	RP	pos2=GW	14	prt	_	O
+16	https://t.co/tLyaii3QwU	#hlink#	ADD	pos2=RBR	14	dobj	_	O
+17	via	via	IN	_	14	prep	_	O
+18	@Newsmax	@newsmax	NNP	pos2=NN	17	pobj	_	O
+

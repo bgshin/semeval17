@@ -1,0 +1,21 @@
+1	#IOM	#iom	NN	pos2=ADD	2	compound	_	O
+2	#Iraq	#iraq	NNS	pos2=NN	4	dep	_	O
+3	:	:	:	_	4	punct	_	O
+4	1Month	0month	JJ	pos2=NN	0	root	_	O
+5	into	into	IN	_	4	prep	_	O
+6	#Mosul	#mosul	NNP	pos2=JJ	8	compound	_	B-ORG
+7	Military	military	NNP	pos2=JJ	8	compound	_	I-ORG
+8	Operations	operation	NNPS	pos2=NNP	5	pobj	_	L-ORG
+9	,	,	,	_	4	punct	_	O
+10	over	over	IN	pos2=RB	11	qmod	_	O
+11	68,000	0	CD	_	12	nmod	_	U-CARDINAL
+12	Iraqis	iraqi	NNPS	_	20	nmod	_	U-NORP
+13	#displaced	#displaced	VBN	pos2=ADD	12	acl	_	O
+14	from	from	IN	_	13	prep	_	O
+15	Mosul	mosul	NNP	_	14	pobj	_	U-GPE
+16	+	+	SYM	pos2=POS	20	punct	_	O
+17	adjacent	adjacent	JJ	_	18	nmod	_	O
+18	districts	district	NNS	_	15	conj	_	O
+19	…	…	NFP	pos2=-LRB-	20	punct	_	O
+20	https://t.co/MkLPKLFZzC	#hlink#	ADD	pos2=NN	4	dep	_	O
+

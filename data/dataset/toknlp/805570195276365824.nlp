@@ -1,0 +1,18 @@
+1	@tgcowles	@tgcowles	IN	pos2=UH	6	mark	_	O
+2	Marine	marine	NNP	pos2=JJ	3	compound	_	B-ORG
+3	Le	le	NNP	_	4	compound	_	L-ORG
+4	pen	pen	NN	pos2=NNP	6	nsubj	_	O
+5	is	be	VBZ	_	6	aux	_	O
+6	going	go	VBG	_	12	advcl	_	O
+7	to	to	TO	_	8	aux	_	O
+8	win	win	VB	_	6	xcomp	_	O
+9	,	,	,	_	12	punct	_	O
+10	hopefully	hopefully	RB	_	12	advmod	_	O
+11	trump	trump	NN	pos2=VB	12	nsubj	_	O
+12	makes	make	VBZ	_	0	root	_	O
+13	Merkle	merkle	NNP	_	14	nsubj	_	U-ORG
+14	have	have	VB	pos2=VBP	12	ccomp	_	O
+15	a	a	DT	_	17	det	_	O
+16	mental	mental	JJ	_	17	nmod	_	O
+17	breakdown	breakdown	NN	_	14	dobj	_	O
+

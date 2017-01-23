@@ -1,0 +1,24 @@
+1	@Khanoisseur	@khanoisseur	NNP	pos2=XX	5	poss	_	O
+2	@kindness_love	@kindness_love	POS	pos2=NN	1	case	_	O
+3	__	__	NFP	pos2=SYM	6	punct	_	O
+4	@Norsewolfe	@norsewolfe	NNP	pos2=IN	5	compound	_	B-PERSON
+5	Hillary	hillary	NNP	_	6	nsubj	_	L-PERSON
+6	needs	need	VBZ	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	fire	fire	VB	_	6	xcomp	_	O
+9	up	up	RP	pos2=IN	8	prt	_	O
+10	her	her	PRP$	_	12	poss	_	O
+11	Transition	transition	NN	pos2=NNP	12	compound	_	O
+12	team	team	NN	_	8	dobj	_	O
+13	That	that	WDT	pos2=DT	16	nsubj	_	O
+14	would	would	MD	_	16	aux	_	O
+15	certainly	certainly	RB	_	16	advmod	_	O
+16	get	get	VB	_	12	relcl	_	O
+17	Trump	trump	NNP	pos2=NN	16	dobj	_	U-ORG
+18	back	back	RB	_	16	advmod	_	O
+19	on	on	IN	_	18	prep	_	O
+20	the	the	DT	_	23	det	_	O
+21	3	0	CD	_	22	nmod	_	U-CARDINAL
+22	am	am	NN	pos2=VBP	23	compound	_	O
+23	tweets	tweet	NNS	_	19	pobj	_	O
+

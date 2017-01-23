@@ -1,0 +1,13 @@
+1	https://t.co/aiaNg3ZC4c	#hlink#	ADD	pos2=NNP	6	dep	_	O
+2	Shariatpur	shariatpur	NNP	_	5	poss	_	U-GPE
+3	's	's	POS	_	2	case	_	O
+4	Idris	idris	NNP	_	5	compound	_	B-PERSON
+5	Ali	ali	NNP	_	6	nsubj	_	L-PERSON
+6	awarded	award	VBD	pos2=VBN	0	root	_	O
+7	death	death	NN	_	8	compound	_	O
+8	penalty	penalty	NN	_	6	dobj	_	O
+9	for	for	IN	_	6	prep	_	O
+10	1971	0	CD	_	12	nmod	_	U-DATE
+11	war	war	NN	_	12	compound	_	O
+12	crimes	crime	NNS	_	9	pobj	_	O
+

@@ -1,0 +1,10 @@
+1	(	(	-LRB-	_	4	punct	_	O
+2	melania	melania	NN	pos2=GW	4	compound	_	O
+3	trump	trump	NN	pos2=JJ	4	compound	_	O
+4	voice	voice	NN	_	0	root	_	O
+5	)	)	-RRB-	_	4	punct	_	O
+6	hello	hello	UH	_	4	discourse	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	https://t.co/7RX6WP6zWX	#hlink#	ADD	_	0	root	_	U-ORG
+

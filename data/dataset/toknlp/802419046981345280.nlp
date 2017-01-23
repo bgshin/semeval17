@@ -1,0 +1,17 @@
+1	@johncusack	@johncusack	UH	pos2=``	3	discourse	_	O
+2	You	you	PRP	_	3	nsubj	_	O
+3	were	be	VBD	_	0	root	_	O
+4	on	on	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	plane	plane	NN	_	4	pobj	_	O
+7	to	to	IN	_	3	prep	_	O
+8	Davos	davos	NNP	_	7	pobj	_	U-GPE
+9	with	with	IN	_	3	prep	_	O
+10	Bill	bill	NNP	_	11	compound	_	B-PERSON
+11	Clinton	clinton	NNP	_	9	pobj	_	L-PERSON
+12	.	.	.	_	3	punct	_	O
+
+1	#DavosClass	#davosclass	GW	pos2=ADD	3	nmod	_	O
+2	https://t.co/BTIfhkJvr8	#hlink#	ADD	pos2=GW	3	nmod	_	O
+3	https://t.co/wX2x5PHVJF	#hlink#	ADD	_	0	root	_	O
+

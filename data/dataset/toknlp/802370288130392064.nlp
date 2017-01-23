@@ -1,0 +1,12 @@
+1	♫Everybody	♫everybody	NN	pos2=NNP	2	nsubj	_	O
+2	Knows	know	VBZ	pos2=NNP	0	root	_	O
+3	by	by	IN	_	2	prep	_	O
+4	Leonard	leonard	NNP	_	5	compound	_	B-PERSON
+5	Cohen	cohen	NNP	_	3	pobj	_	L-PERSON
+6	,	,	,	_	2	punct	_	O
+7	from	from	IN	_	2	prep	_	O
+8	#SoundHound	#soundhound	NNP	pos2=XX	7	pobj	_	U-GPE
+9	with	with	IN	_	7	prep	_	O
+10	LiveLyrics®	livelyrics®	NNP	pos2=-LRB-	9	pobj	_	U-GPE
+11	https://t.co/EPV8ul3uft	#hlink#	ADD	_	2	dep	_	O
+

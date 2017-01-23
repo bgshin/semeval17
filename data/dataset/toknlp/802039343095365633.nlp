@@ -1,0 +1,28 @@
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	showing	show	VBG	_	2	pcomp	_	O
+4	us	us	PRP	_	3	dobj	_	O
+5	that	that	IN	pos2=DT	12	mark	_	O
+6	as	as	IN	_	12	prep	_	O
+7	an	an	DT	_	9	det	_	O
+8	African	african	JJ	pos2=NNP	9	advmod	_	B-NORP
+9	American	american	NNP	pos2=JJ	6	pobj	_	L-NORP
+10	we	we	PRP	_	12	nsubj	_	O
+11	can	can	MD	_	12	aux	_	O
+12	be	be	VB	_	3	ccomp	_	O
+13	anything	anything	NN	_	12	attr	_	O
+14	we	we	PRP	_	15	nsubj	_	O
+15	desire	desire	VBP	_	13	relcl	_	O
+16	to	to	TO	_	17	aux	_	O
+17	be	be	VB	_	15	xcomp	_	O
+18	....	..	.	pos2=,	1	punct	_	O
+
+1	even	even	RB	_	3	advmod	_	O
+2	THE	the	DT	_	3	det	_	O
+3	PRESIDENT	president	NN	pos2=NNP	0	appos	_	O
+4	OF	of	IN	_	3	prep	_	O
+5	THE	the	DT	_	8	det	_	B-GPE
+6	UNITED	united	NNP	pos2=JJ	7	compound	_	I-GPE
+7	STATES	state	NNP	pos2=NNS	8	compound	_	L-GPE
+8	👏🏽	👏🏽	NNP	pos2=.	4	pobj	_	O
+

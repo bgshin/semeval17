@@ -1,0 +1,24 @@
+1	So	so	RB	_	4	advmod	_	O
+2	if	if	IN	_	4	mark	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	have	have	VBP	_	14	advcl	_	O
+5	a	a	DT	_	8	det	_	O
+6	Samsung	samsung	NNP	_	8	compound	_	U-ORG
+7	galaxy	galaxy	NN	pos2=NNP	8	compound	_	O
+8	note	note	NN	_	4	dobj	_	O
+9	7	0	CD	_	8	nmod	_	U-CARDINAL
+10	,	,	,	_	14	punct	_	O
+11	you	you	PRP	_	14	nsubj	_	O
+12	ca	can	MD	pos2=VBP	14	aux	_	O
+13	n't	not	RB	_	14	neg	_	O
+14	board	board	VB	pos2=NN	0	root	_	O
+15	planes	plane	NNS	_	14	dobj	_	O
+16	...	..	.	pos2=,	14	punct	_	O
+
+1	glad	glad	JJ	pos2=UH	0	root	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	have	have	VBP	_	1	ccomp	_	O
+4	an	an	DT	_	6	det	_	O
+5	iPhone	iphone	NNP	_	6	compound	_	B-PRODUCT
+6	😊	😊	NN	pos2=.	3	dobj	_	L-PRODUCT
+

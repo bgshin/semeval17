@@ -1,0 +1,27 @@
+1	@StuckonSW	@stuckonsw	NNP	pos2=XX	3	compound	_	B-ORG
+2	@SPLC	@splc	NNP	pos2=$	3	compound	_	I-ORG
+3	@SPLC	@splc	NNP	pos2=NN	4	nsubj	_	L-ORG
+4	is	be	VBZ	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	joke	joke	NN	_	4	attr	_	O
+7	designed	design	VBN	_	6	acl	_	O
+8	to	to	TO	_	9	aux	_	O
+9	fool	fool	VB	_	7	xcomp	_	O
+10	stupid	stupid	JJ	_	11	nmod	_	O
+11	people	people	NNS	_	9	dobj	_	O
+12	.	.	.	_	4	punct	_	O
+
+1	Any	any	DT	_	2	det	_	O
+2	group	group	NN	_	11	nsubj	_	O
+3	who	who	WP	_	4	nsubj	_	O
+4	labels	label	VBZ	_	2	relcl	_	O
+5	Dr.	dr.	NNP	_	7	compound	_	O
+6	Ben	ben	NNP	_	7	compound	_	B-PERSON
+7	Carson	carson	NNP	_	4	dobj	_	L-PERSON
+8	as	as	IN	_	4	prep	_	O
+9	an	an	DT	_	10	det	_	O
+10	extremist	extremist	NN	_	11	nsubj	_	O
+11	is	be	VBZ	_	0	root	_	O
+12	irrelevant	irrelevant	JJ	_	11	acomp	_	O
+13	.	.	.	_	11	punct	_	O
+

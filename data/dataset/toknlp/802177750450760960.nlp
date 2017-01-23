@@ -1,0 +1,25 @@
+1	So	so	RB	_	4	advmod	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	'm	be	VBP	_	4	aux	_	O
+4	gon	gon	VBG	_	0	root	_	O
+5	na	to	TO	_	6	aux	_	O
+6	finish	finish	VB	_	4	xcomp	_	O
+7	the	the	DT	_	8	det	_	O
+8	revival	revival	NN	_	6	dobj	_	O
+9	later	later	RB	_	6	advmod	_	O
+10	,	,	,	_	4	punct	_	O
+11	but	but	CC	_	4	cc	_	O
+12	for	for	IN	_	14	prep	_	O
+13	now	now	RB	_	12	pcomp	_	O
+14	let	let	VB	pos2=VBN	4	conj	_	O
+15	's	's	PRP	_	16	nsubj	_	O
+16	get	get	VB	_	14	ccomp	_	O
+17	my	my	PRP$	_	18	poss	_	O
+18	sister	sister	NN	_	16	dobj	_	O
+19	up	up	IN	pos2=RP	16	prep	_	O
+20	to	to	IN	pos2=TO	19	prep	_	O
+21	speed	speed	NN	pos2=VB	20	pobj	_	O
+22	on	on	IN	pos2=RP	16	prep	_	O
+23	#ThisIsUs	#thisisus	ADD	pos2=NNP	24	nmod	_	U-GPE
+24	❤️	❤️	NN	pos2=.	22	pobj	_	O
+

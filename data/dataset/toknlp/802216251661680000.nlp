@@ -1,0 +1,29 @@
+1	today	today	NN	_	2	nsubj	_	U-DATE
+2	marks	mark	VBZ	pos2=NNS	0	root	_	O
+3	10	0	CD	_	4	nmod	_	B-DATE
+4	yrs	yr	NNS	_	2	dobj	_	L-DATE
+5	since	since	IN	_	2	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	tragic	tragic	JJ	_	8	nmod	_	O
+8	shooting	shooting	NN	_	5	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	Sean	sean	NNP	_	11	compound	_	B-PERSON
+11	Bell	bell	NNP	_	9	pobj	_	L-PERSON
+12	.	.	.	_	2	punct	_	O
+
+1	here	here	RB	_	2	advmod	_	O
+2	's	's	VBZ	_	10	auxpass	_	O
+3	a	a	DT	_	4	det	_	O
+4	song	song	NN	_	10	nsubj	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	co-wrote	co-write	VBD	_	4	relcl	_	O
+7	&	&	CC	_	6	cc	_	O
+8	produced	produce	VBD	pos2=VBN	6	conj	_	O
+9	"	"	``	_	10	punct	_	O
+10	Got	get	VBD	pos2=VBN	0	root	_	O
+11	No	no	DT	pos2=NNP	12	det	_	O
+12	Love	love	NN	pos2=NNP	10	dobj	_	U-WORK_OF_ART
+13	"	"	''	pos2=``	10	punct	_	O
+14	…	…	NFP	pos2=-LRB-	10	discourse	_	O
+15	https://t.co/6cESiLVyP1	#hlink#	ADD	_	10	dobj	_	O
+

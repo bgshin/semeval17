@@ -1,0 +1,12 @@
+1	@ChicagoPhotoSho	@chicagophotosho	UH	pos2=ADD	6	discourse	_	O
+2	@aravosis	@aravosis	NN	pos2=PRP$	0	root	_	O
+3	Original	original	NNP	pos2=JJ	5	compound	_	B-ORG
+4	Nazi	nazi	NNP	_	5	compound	_	I-ORG
+5	Party	party	NNP	_	6	nsubj	_	L-ORG
+6	used	use	VBD	pos2=VBN	2	relcl	_	O
+7	to	to	TO	_	8	aux	_	O
+8	be	be	VB	_	6	xcomp	_	O
+9	at	at	IN	_	8	prep	_	O
+10	zero	#crd#	CD	_	9	pobj	_	U-CARDINAL
+11	too	too	RB	_	8	advmod	_	O
+

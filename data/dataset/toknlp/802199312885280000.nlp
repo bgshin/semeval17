@@ -1,0 +1,26 @@
+1	@Cici0804	@cici0	NN	pos2=NNS	2	compound	_	O
+2	@Brasilmagic	@brasilmagic	NNP	pos2=JJ	5	vocative	_	O
+3	@thinkerdamous	@thinkerdamous	UH	pos2=NNP	5	discourse	_	O
+4	That	that	DT	_	5	nsubj	_	O
+5	's	's	VBZ	_	13	ccomp	_	O
+6	OK	ok	JJ	pos2=NNP	5	acomp	_	O
+7	,	,	,	_	13	punct	_	O
+8	only	only	RB	pos2=JJ	11	advmod	_	O
+9	"	"	``	_	11	punct	_	O
+10	little	little	JJ	_	11	nmod	_	O
+11	people	people	NNS	_	13	nsubj	_	O
+12	"	"	''	_	11	punct	_	O
+13	buy	buy	VBP	pos2=VB	0	root	_	O
+14	cheap	cheap	JJ	_	15	nmod	_	O
+15	things	thing	NNS	_	13	dobj	_	O
+16	Made	make	VBN	_	15	acl	_	O
+17	in	in	IN	pos2=RP	16	prep	_	O
+18	#China	#china	NNP	pos2=NN	17	pobj	_	U-LANGUAGE
+19	,	,	,	_	13	punct	_	O
+20	so	so	RB	pos2=CC	21	advmod	_	O
+21	#MAGA	#maga	NN	pos2=RB	13	dep	_	O
+22	!	!	.	_	13	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/P0AkMVp2Mg	#hlink#	ADD	pos2=NN	0	root	_	O
+

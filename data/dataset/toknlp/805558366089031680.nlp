@@ -1,0 +1,16 @@
+1	DMV	dmv	NN	pos2=JJ	5	nmod	_	U-ORG
+2	automatic	automatic	JJ	_	5	nmod	_	O
+3	voter	voter	NN	_	4	compound	_	O
+4	registration	registration	NN	_	5	compound	_	O
+5	initiative	initiative	NN	_	7	nsubj	_	O
+6	will	will	MD	_	7	aux	_	O
+7	go	go	VB	_	0	root	_	O
+8	before	before	IN	pos2=RB	7	prep	_	O
+9	Nevada	nevada	NNP	_	10	compound	_	B-ORG
+10	Legislature	legislature	NNP	_	8	pobj	_	L-ORG
+11	this	this	DT	_	12	det	_	O
+12	session	session	NN	_	7	npadvmod	_	O
+13	https://t.co/hvn2ZtXEdl	#hlink#	ADD	pos2=''	15	nsubj	_	O
+14	via	via	IN	_	7	prep	_	O
+15	@reviewjournal	@reviewjournal	JJ	pos2=.	14	pobj	_	O
+

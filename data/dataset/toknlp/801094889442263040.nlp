@@ -1,0 +1,28 @@
+1	@FallonTonight	@fallontonight	NN	pos2=ADD	0	root	_	O
+2	(	(	-LRB-	_	1	punct	_	O
+3	without	without	IN	_	1	prep	_	O
+4	the	the	DT	_	6	det	_	O
+5	Gilmore	gilmore	NNP	_	6	compound	_	O
+6	Girls	girl	NNPS	pos2=NNS	3	pobj	_	O
+7	)	)	-RRB-	_	1	punct	_	O
+8	4.	0.	CD	pos2=LS	12	nmod	_	U-CARDINAL
+9	Madeline	madeline	NNP	_	15	compound	_	O
+10	3.	0.	NNP	pos2=CD	15	compound	_	U-CARDINAL
+11	Finn	finn	NNP	_	15	compound	_	O
+12	2.	0.	NNP	pos2=POS	15	compound	_	U-CARDINAL
+13	Zack	zack	NNP	_	15	compound	_	O
+14	1.	0.	NNP	pos2=CD	15	compound	_	B-FAC
+15	Lane	lane	NNP	_	18	dep	_	L-FAC
+16	or	or	CC	_	15	cc	_	O
+17	Sookie	sookie	NNP	_	15	conj	_	U-PERSON
+18	.	.	.	_	1	punct	_	O
+
+1	But	but	CC	_	3	cc	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	❤	❤	VBP	pos2=VBD	0	root	_	O
+4	them	them	PRP	_	3	dobj	_	O
+5	all	all	DT	_	4	appos	_	O
+6	!	!	.	_	3	punct	_	O
+
+1	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNS	0	root	_	O
+

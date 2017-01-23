@@ -1,0 +1,16 @@
+1	Thousands	#crd#	NNS	_	5	nsubj	_	U-CARDINAL
+2	of	of	IN	_	1	prep	_	O
+3	protestors	protestor	NNS	_	2	pobj	_	O
+4	are	be	VBP	_	5	aux	_	O
+5	being	be	VBG	_	0	root	_	O
+6	tear	tear	NN	pos2=VB	8	npadvmod	_	O
+7	-	-	HYPH	pos2=:	8	punct	_	O
+8	gassed	gas	VBN	_	5	acomp	_	O
+9	over	over	IN	_	8	prep	_	O
+10	the	the	DT	_	14	det	_	O
+11	Dakota	dakota	NNP	_	15	nmod	_	O
+12	Access	access	NNP	_	15	nmod	_	O
+13	Pipeline	pipeline	GW	pos2=NNP	15	nmod	_	O
+14	…	…	NFP	pos2=GW	15	punct	_	O
+15	https://t.co/zP8qjGvX7G	#hlink#	ADD	_	5	dep	_	U-GPE
+

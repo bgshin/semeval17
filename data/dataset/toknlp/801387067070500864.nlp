@@ -1,0 +1,26 @@
+1	Anne	anne	NNP	_	2	compound	_	B-PERSON
+2	Aly	aly	NNP	_	6	poss	_	I-PERSON
+3	's	's	POS	pos2=VBZ	2	case	_	L-PERSON
+4	blistering	blistering	JJ	pos2=VBG	6	nmod	_	O
+5	feminism	feminism	NN	_	6	compound	_	O
+6	speech	speech	NN	_	9	dep	_	O
+7	:	:	:	pos2=,	9	punct	_	O
+8	put	put	VBN	pos2=VB	9	nmod	_	O
+9	women	woman	NNS	_	0	root	_	O
+10	in	in	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	room	room	NN	_	10	pobj	_	O
+13	with	with	IN	_	9	prep	_	O
+14	men	man	NNS	_	13	pobj	_	O
+15	and	and	CC	_	9	cc	_	O
+16	we	we	PRP	_	17	nsubj	_	O
+17	are	be	VBP	_	9	conj	_	O
+18	invisible	invisible	JJ	_	17	acomp	_	O
+19	...	..	.	_	17	punct	_	O
+
+1	Melania	melania	NNP	pos2=NN	3	nsubj	_	U-PERSON
+2	certainly	certainly	RB	_	3	advmod	_	O
+3	was	be	VBD	_	0	root	_	O
+4	nt	nt	RB	_	3	advmod	_	O
+5	https://t.co/iwevdZ6NrU	#hlink#	ADD	_	3	attr	_	U-ORG
+

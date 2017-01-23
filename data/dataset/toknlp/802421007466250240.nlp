@@ -1,0 +1,14 @@
+1	KaChing	kaching	VBG	pos2=NN	3	dep	_	O
+2	:	:	:	_	3	punct	_	O
+3	How	how	WRB	_	5	advmod	_	O
+4	to	to	TO	_	5	aux	_	O
+5	Run	run	VB	_	0	root	_	O
+6	an	an	DT	_	8	det	_	O
+7	Online	online	NNP	_	8	compound	_	O
+8	Business	business	NN	pos2=NNP	5	dobj	_	O
+9	that	that	WDT	_	10	nsubj	_	O
+10	Pays	pay	VBZ	pos2=NNP	8	relcl	_	O
+11	and	and	CC	_	10	cc	_	O
+12	Pays	pay	VBZ	_	10	conj	_	O
+13	https://t.co/Ec4Z3sX7Yb	#hlink#	ADD	_	12	dobj	_	U-WORK_OF_ART
+

@@ -1,0 +1,14 @@
+1	Images	image	NNS	_	3	dep	_	O
+2	:	:	:	_	3	punct	_	O
+3	Iniesta	iniesta	NNP	pos2=NN	0	root	_	U-PERSON
+4	on	on	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	track	track	NN	_	4	pobj	_	O
+7	to	to	IN	pos2=TO	6	prep	_	O
+8	recovery	recovery	NN	pos2=VB	9	compound	_	O
+9	#fcblive	#fcblive	NN	pos2=IN	7	pobj	_	O
+10	[	[	-LRB-	_	11	punct	_	O
+11	fcb	fcb	NN	pos2=GW	3	parataxis	_	O
+12	]	]	-RRB-	pos2=GW	11	punct	_	O
+13	https://t.co/wzSTdqxKB8	#hlink#	ADD	_	3	appos	_	O
+

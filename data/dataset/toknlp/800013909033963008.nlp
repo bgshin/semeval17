@@ -1,0 +1,16 @@
+1	Is	be	VBZ	_	0	root	_	O
+2	this	this	DT	_	1	nsubj	_	O
+3	what	what	WP	pos2=WDT	4	nsubj	_	O
+4	happens	happen	VBZ	_	1	ccomp	_	O
+5	to	to	IN	_	4	prep	_	O
+6	a	a	DT	_	7	det	_	O
+7	brain	brain	NN	_	5	pobj	_	O
+8	born	bear	VBN	_	7	acl	_	O
+9	into	into	IN	_	8	prep	_	O
+10	war	war	NN	_	9	pobj	_	O
+11	?	?	.	_	1	punct	_	O
+
+1	@nsabugsme	@nsabugsme	UH	pos2=XX	3	discourse	_	O
+2	#MiamiBookFair2016	#miamibookfair0	NN	pos2=NNS	3	compound	_	O
+3	#NBAwards	#nbawards	NNS	pos2=ADD	0	root	_	O
+

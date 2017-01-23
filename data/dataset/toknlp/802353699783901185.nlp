@@ -1,0 +1,15 @@
+1	An	an	DT	_	9	det	_	O
+2	easy	easy	JJ	_	9	nmod	_	O
+3	-	-	HYPH	_	2	punct	_	O
+4	to	to	TO	_	6	aux	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	follow	follow	VB	pos2=NN	2	xcomp	_	O
+7	deep	deep	JJ	pos2=NN	9	nmod	_	O
+8	learning	learning	NN	_	9	compound	_	O
+9	formula	formula	NN	_	14	dep	_	O
+10	for	for	IN	_	9	prep	_	O
+11	natural	natural	JJ	_	12	nmod	_	O
+12	language	language	NN	_	13	compound	_	O
+13	processing	processing	NN	pos2=VBG	10	pobj	_	O
+14	https://t.co/LHRL9eYyNW	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,18 @@
+1	Chinese	chinese	JJ	_	2	nmod	_	U-NORP
+2	officials	official	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	'	'	``	pos2=''	3	punct	_	O
+5	licking	lick	VBG	_	3	advcl	_	O
+6	their	their	PRP$	_	7	poss	_	O
+7	lips	lip	NNS	_	5	dobj	_	O
+8	'	'	''	pos2=POS	5	punct	_	O
+9	at	at	IN	_	5	prep	_	O
+10	Trump	trump	NNP	_	12	poss	_	U-ORG
+11	's	's	POS	_	10	case	_	O
+12	decision	decision	NN	_	9	pobj	_	O
+13	to	to	TO	_	14	aux	_	O
+14	kill	kill	VB	_	12	acl	_	O
+15	the	the	DT	_	16	det	_	O
+16	TPP	tpp	NN	pos2=NNP	14	dobj	_	O
+17	https://t.co/ryH7H8v6rS	#hlink#	ADD	pos2=NN	12	appos	_	O
+

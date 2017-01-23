@@ -1,0 +1,9 @@
+1	More	more	JJR	pos2=RBR	3	nmod	_	O
+2	fox	fox	JJ	pos2=NN	3	nmod	_	O
+3	people	people	NNS	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	#uniteblue	#uniteblue	UH	pos2=GW	3	discourse	_	O
+2	#notmypresident	#notmypresident	UH	pos2=ADD	3	discourse	_	O
+3	https://t.co/KkZzAi2Ac0	#hlink#	ADD	pos2=UH	0	root	_	O
+

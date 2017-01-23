@@ -1,0 +1,22 @@
+1	The	the	DT	_	4	det	_	O
+2	new	new	JJ	_	4	nmod	_	O
+3	asymmetric	asymmetric	JJ	_	4	nmod	_	O
+4	warfare	warfare	NN	_	16	dep	_	O
+5	:	:	:	_	16	punct	_	O
+6	how	how	WRB	_	16	advmod	_	O
+7	would	would	MD	_	16	aux	_	O
+8	the	the	DT	_	10	det	_	O
+9	next	next	JJ	_	10	nmod	_	O
+10	confrontations	confrontation	NNS	_	16	nsubj	_	O
+11	with	with	IN	_	10	prep	_	O
+12	#Hezbollah	#hezbollah	NNP	pos2=NN	11	pobj	_	U-ORG
+13	and	and	CC	_	12	cc	_	O
+14	#Hamas	#hamas	NNP	pos2=NNPS	12	conj	_	U-ORG
+15	would	would	MD	_	16	aux	_	O
+16	look	look	VB	_	0	root	_	O
+17	like	like	IN	_	16	prep	_	O
+18	?	?	.	_	16	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/7Ezfa7m3O4	#hlink#	ADD	pos2=NN	0	root	_	O
+

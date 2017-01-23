@@ -1,0 +1,24 @@
+1	Protester	protester	NN	pos2=NNP	0	root	_	O
+2	from	from	IN	_	1	prep	_	O
+3	Laguna	laguna	NNP	_	2	pobj	_	O
+4	&	&	CC	_	1	cc	_	O
+5	they	they	PRP	_	6	nsubj	_	O
+6	leave	leave	VBP	_	1	conj	_	O
+7	when	when	WRB	_	9	advmod	_	O
+8	cops	cop	NNS	_	9	nsubj	_	O
+9	do	do	VBP	_	6	advcl	_	O
+10	.	.	.	_	6	punct	_	O
+
+1	Says	say	VBZ	_	0	root	_	O
+2	it	it	PRP	_	1	nsubj	_	O
+3	all	all	DT	pos2=RB	2	appos	_	O
+4	:	:	:	_	1	punct	_	O
+5	Thanksgiving	thanksgiving	NNP	pos2=NN	12	nsubj	_	U-DATE
+6	at	at	IN	_	5	prep	_	O
+7	Dakota	dakota	NNP	_	8	compound	_	O
+8	Access	access	NNP	pos2=GW	10	compound	_	U-PRODUCT
+9	pipeline	pipeline	NN	pos2=GW	10	compound	_	O
+10	protest	protest	NN	pos2=GW	6	pobj	_	O
+11	https://t.co/5Ci2MTadbA	#hlink#	ADD	pos2=NN	5	appos	_	U-GPE
+12	#nodapl	#nodapl	-RRB-	pos2=UH	1	punct	_	O
+

@@ -1,0 +1,7 @@
+1	Shine	shine	VB	pos2=NN	0	root	_	O
+2	with	with	IN	_	1	prep	_	O
+3	his	his	PRP$	_	6	nmod	_	O
+4	mic#MPN	mic#mpn	GW	pos2=NNS	6	nmod	_	B-WORK_OF_ART
+5	#OneDirection	#onedirection	GW	pos2=ADD	6	nmod	_	L-WORK_OF_ART
+6	https://t.co/hGnNrTyNZx	#hlink#	ADD	pos2=NN	2	pobj	_	O
+

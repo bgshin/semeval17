@@ -1,0 +1,25 @@
+1	Green	green	NNP	_	2	compound	_	B-ORG
+2	Party	party	NNP	_	5	nsubj	_	L-ORG
+3	is	be	VBZ	_	5	aux	_	O
+4	simply	simply	RB	_	5	advmod	_	O
+5	trying	try	VBG	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	make	make	VB	_	5	xcomp	_	O
+8	news	news	NN	_	7	dobj	_	O
+9	&	&	CC	_	8	cc	_	O
+10	brand	brand	NN	_	11	compound	_	O
+11	recognition	recognition	NN	_	8	conj	_	O
+12	.	.	.	_	5	punct	_	O
+
+1	Electoral	electoral	JJ	pos2=NNP	3	nmod	_	B-ORG
+2	College	college	NNP	pos2=NN	3	compound	_	L-ORG
+3	voting	voting	NN	pos2=VBG	4	compound	_	O
+4	#HRC	#hrc	NNP	pos2=NN	5	nsubj	_	U-ORG
+5	is	be	VBZ	_	0	root	_	O
+6	as	as	RB	pos2=IN	7	advmod	_	O
+7	likely	likely	RB	pos2=JJ	5	advmod	_	O
+8	Michael	michael	NNP	_	9	compound	_	B-PERSON
+9	Moore	moore	NNP	_	10	nsubj	_	L-PERSON
+10	supporting	support	VBG	_	5	advcl	_	O
+11	Trump	trump	NNP	pos2=NN	10	dobj	_	U-ORG
+

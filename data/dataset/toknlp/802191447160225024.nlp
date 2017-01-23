@@ -1,0 +1,24 @@
+1	@AbbyHoltzman1	@abbyholtzman0	NN	pos2=NNS	2	nsubj	_	O
+2	spent	spend	VBD	pos2=VBN	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	cold	cold	JJ	_	5	nmod	_	O
+5	weekend	weekend	NN	_	2	dobj	_	O
+6	@	@	IN	pos2=SYM	5	prep	_	O
+7	the	the	DT	_	10	det	_	O
+8	Dakota	dakota	NNP	_	10	compound	_	O
+9	Access	access	NNP	pos2=NN	10	compound	_	O
+10	#Pipeline	#pipeline	NNP	pos2=NN	6	pobj	_	O
+11	,	,	,	_	2	punct	_	O
+12	reports	report	VBZ	pos2=NNS	2	conj	_	O
+13	on	on	IN	_	12	prep	_	O
+14	the	the	DT	_	16	det	_	O
+15	spiritual	spiritual	JJ	_	16	nmod	_	O
+16	heart	heart	NN	_	13	pobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	the	the	DT	_	19	det	_	O
+19	story	story	NN	_	17	pobj	_	O
+20	.	.	.	_	2	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/K28nenGqe7	#hlink#	ADD	pos2=NN	0	root	_	O
+

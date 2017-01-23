@@ -1,0 +1,16 @@
+1	15	0	CD	pos2=LS	3	nmod	_	U-CARDINAL
+2	+	+	SYM	_	1	punct	_	O
+3	tours	tour	NNS	_	7	nsubj	_	O
+4	&	&	CC	_	3	cc	_	O
+5	tastings	tasting	NNS	_	3	conj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	show	show	VB	_	0	root	_	O
+8	off	off	RP	pos2=IN	7	prt	_	O
+9	Madison	madison	NNP	_	7	dobj	_	U-PERSON
+10	to	to	IN	_	7	prep	_	O
+11	your	your	PRP$	_	13	poss	_	O
+12	#Thanksgiving	#thanksgiving	VBG	pos2=JJ	13	nmod	_	O
+13	visitors	visitor	NNS	_	10	pobj	_	O
+14	https://t.co/JZqQ5canwr	#hlink#	ADD	pos2=POS	9	appos	_	O
+15	#Visit_Madison	#visit_madison	ADD	pos2=-RRB-	7	punct	_	O
+

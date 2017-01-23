@@ -1,0 +1,30 @@
+1	"	"	``	_	3	punct	_	O
+2	What	what	WP	pos2=WDT	3	nsubj	_	O
+3	hits	hit	VBZ	_	0	root	_	O
+4	Trump	trump	NNP	pos2=NN	6	poss	_	U-ORG
+5	's	's	POS	_	4	case	_	O
+6	EGO	ego	NN	pos2=NNP	3	dobj	_	O
+7	most	most	RBS	pos2=JJS	3	advmod	_	O
+8	?	?	.	_	3	punct	_	O
+
+1	LOW	low	JJ	pos2=NN	2	nmod	_	O
+2	RATINGS	rating	NNS	_	5	nsubj	_	O
+3	&	&	CC	_	2	cc	_	O
+4	NOT	not	RB	_	5	neg	_	O
+5	having	have	VBG	_	0	root	_	O
+6	an	an	DT	_	7	det	_	O
+7	Audience	audience	NN	pos2=NNP	5	dobj	_	O
+8	on	on	IN	_	7	prep	_	O
+9	his	his	PRP$	_	11	poss	_	O
+10	Big	big	NNP	pos2=JJ	11	compound	_	O
+11	Day	day	NNP	pos2=NN	8	pobj	_	O
+12	(	(	-LRB-	_	15	punct	_	O
+13	We	we	PRP	_	15	nsubj	_	O
+14	can	can	MD	_	15	aux	_	O
+15	watch	watch	VB	_	0	root	_	O
+16	it	it	PRP	_	15	dobj	_	O
+17	…	…	NFP	pos2=RP	15	discourse	_	O
+18	"	"	''	pos2=``	15	punct	_	O
+19	GburgDem	gburgdem	NNP	pos2=-LRB-	20	nmod	_	U-ORG
+20	https://t.co/6K3W1rqjID	#hlink#	ADD	_	15	dobj	_	O
+

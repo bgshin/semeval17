@@ -1,0 +1,17 @@
+1	New	new	JJ	pos2=NNP	2	nmod	_	O
+2	Look	look	NNP	pos2=VB	16	dep	_	O
+3	At	at	IN	_	2	prep	_	O
+4	Luke	luke	NNP	_	5	compound	_	B-PERSON
+5	Evans	evans	NNP	_	3	pobj	_	L-PERSON
+6	and	and	CC	_	5	cc	_	O
+7	Emma	emma	NNP	_	8	compound	_	B-PERSON
+8	Watson	watson	NNP	_	5	conj	_	L-PERSON
+9	As	as	IN	_	2	prep	_	O
+10	Gaston	gaston	NNP	_	9	pobj	_	U-PERSON
+11	and	and	CC	_	10	cc	_	O
+12	Belle	belle	NNP	_	10	conj	_	U-PERSON
+13	In	in	IN	pos2=NNP	2	prep	_	O
+14	#BeautyAndTheBeast	#beautyandthebeast	GW	pos2=NFP	13	pobj	_	B-DATE
+15	https://t.co/S7TzatUbQP	#hlink#	ADD	_	16	nmod	_	L-DATE
+16	https://t.co/yiJITivaW7	#hlink#	ADD	_	0	root	_	U-ORG
+

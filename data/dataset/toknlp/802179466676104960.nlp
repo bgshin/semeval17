@@ -1,0 +1,20 @@
+1	Can	can	MD	_	3	aux	_	O
+2	not	not	RB	_	3	neg	_	O
+3	get	get	VB	_	0	root	_	O
+4	enough	enough	JJ	pos2=RB	3	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	#Awa	#awa	NNP	pos2=VBG	5	pobj	_	U-PERSON
+7	right	right	RB	_	8	advmod	_	O
+8	now	now	RB	_	3	advmod	_	O
+9	!	!	.	_	3	punct	_	O
+
+1	#yemenite	#yemenite	UH	pos2=VB	9	dep	_	O
+2	#yemen	#yemen	UH	pos2=WRB	5	discourse	_	O
+3	#music	#music	UH	pos2=MD	1	discourse	_	O
+4	such	such	PDT	_	7	predet	_	O
+5	a	a	DT	_	7	det	_	O
+6	cute	cute	JJ	_	7	nmod	_	O
+7	song	song	NN	_	9	dep	_	O
+8	:	:	:	_	9	punct	_	O
+9	https://t.co/MZxHzchqX0	#hlink#	ADD	_	0	root	_	O
+

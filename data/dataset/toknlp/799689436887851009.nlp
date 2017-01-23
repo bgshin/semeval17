@@ -1,0 +1,29 @@
+1	@senWarren	@senwarren	NNP	pos2=VBN	2	compound	_	O
+2	trump	trump	NN	pos2=FW	3	nsubj	_	O
+3	wants	want	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	wall	wall	NN	_	3	dobj	_	O
+6	on	on	IN	_	5	prep	_	O
+7	Mexican	mexican	JJ	_	8	nmod	_	U-NORP
+8	border	border	NN	_	6	pobj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	What	what	WP	_	2	dep	_	O
+2	about	about	IN	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	Canadian	canadian	JJ	_	5	nmod	_	U-NORP
+5	border	border	NN	_	2	pobj	_	O
+6	?	?	.	_	2	punct	_	O
+
+1	that	that	DT	pos2=WDT	3	nsubj	_	O
+2	would	would	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	just	just	RB	_	6	advmod	_	O
+5	as	as	RB	pos2=IN	6	advmod	_	O
+6	silly	silly	JJ	_	3	acomp	_	O
+7	,	,	,	_	3	punct	_	O
+8	but	but	CC	_	3	cc	_	O
+9	why	why	WRB	_	10	advmod	_	O
+10	not	not	RB	_	3	conj	_	O
+11	?	?	.	_	3	punct	_	O
+

@@ -1,0 +1,10 @@
+1	Remembering	remember	VBG	_	0	root	_	O
+2	Fidel	fidel	NNP	_	3	compound	_	B-PERSON
+3	Castro	castro	NNP	_	1	dobj	_	I-PERSON
+4	'	'	''	pos2=POS	9	dep	_	L-PERSON
+5	:	:	:	_	9	punct	_	O
+6	A	a	DT	_	8	det	_	O
+7	contested	contested	JJ	pos2=VBN	8	nmod	_	O
+8	legacy	legacy	NN	_	9	dep	_	O
+9	https://t.co/wLxnWX2AjH	#hlink#	ADD	pos2=NN	1	dep	_	U-GPE
+

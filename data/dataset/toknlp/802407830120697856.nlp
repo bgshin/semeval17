@@ -1,0 +1,22 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	might	might	MD	_	4	aux	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	need	need	VB	_	0	root	_	O
+5	FBI	fbi	NNP	pos2=NN	4	dobj	_	U-ORG
+6	for	for	IN	_	4	prep	_	O
+7	my	my	PRP$	_	11	poss	_	O
+8	new	new	JJ	_	11	nmod	_	O
+9	social	social	JJ	pos2=NNP	10	nmod	_	O
+10	security	security	NN	_	11	compound	_	O
+11	number	number	NN	_	6	pobj	_	O
+12	that	that	WDT	pos2=IN	16	mark	_	O
+13	no	no	DT	_	14	det	_	O
+14	one	#crd#	NN	_	16	nsubj	_	O
+15	else	else	RB	_	14	advmod	_	O
+16	knows	know	VBZ	_	11	relcl	_	O
+17	including	include	VBG	_	16	prep	_	O
+18	my	my	PRP$	_	20	poss	_	O
+19	own	own	JJ	_	20	nmod	_	O
+20	blood	blood	NN	_	17	pobj	_	O
+21	.	.	.	_	4	punct	_	O
+

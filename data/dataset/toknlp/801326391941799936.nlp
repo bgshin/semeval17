@@ -1,0 +1,8 @@
+1	@IngrahamAngle	@ingrahamangle	ADD	pos2=XX	5	prep	_	O
+2	#WhiteHouse	#whitehouse	ADD	pos2=IN	7	nmod	_	O
+3	#PressSecretary	#presssecretary	ADD	pos2=GW	0	root	_	O
+4	ForPressSecretary	forpresssecretary	NNP	pos2=GW	7	nmod	_	O
+5	#TrumpTransitionTeam	#trumptransitionteam	GW	pos2=ADD	7	nmod	_	O
+6	#Trump	#trump	GW	pos2=NFP	7	nmod	_	O
+7	https://t.co/j08euz0THp	#hlink#	ADD	pos2=NN	3	root	_	O
+

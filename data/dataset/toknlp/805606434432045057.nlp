@@ -1,0 +1,25 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=ADD	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	from	from	IN	_	5	prep	_	O
+7	@mrm_matador	@mrm_matador	NNP	pos2=ADD	6	pobj	_	U-GPE
+8	https://t.co/4taOD6jmyN	#hlink#	ADD	pos2=NNP	7	appos	_	O
+9	Cristiano	cristiano	NNP	_	10	compound	_	B-PERSON
+10	Ronaldo	ronaldo	NNP	_	5	appos	_	L-PERSON
+11	..	..	.	pos2=,	2	punct	_	O
+
+1	Do	do	VBP	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	think	think	VB	_	0	root	_	O
+4	he	he	PRP	_	5	nsubj	_	O
+5	is	be	VBZ	_	3	ccomp	_	O
+6	arrogant	arrogant	JJ	_	5	acomp	_	O
+7	?	?	.	_	3	punct	_	O
+
+1	Ok	ok	UH	_	3	discourse	_	O
+2	,	,	,	_	3	punct	_	O
+3	watch	watch	VB	_	0	root	_	O
+4	this	this	DT	_	3	dobj	_	O
+

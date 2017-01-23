@@ -1,0 +1,17 @@
+1	David	david	NNP	_	2	compound	_	B-PERSON
+2	Blaine	blaine	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	incredible	incredible	JJ	_	3	acomp	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	Everyone	everyone	NN	_	2	nsubj	_	O
+2	needs	need	VBZ	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	check	check	VB	_	2	xcomp	_	O
+5	out	out	RP	pos2=IN	4	prt	_	O
+6	his	his	PRP$	_	7	poss	_	O
+7	special	special	JJ	pos2=NN	4	dobj	_	O
+8	on	on	IN	_	4	prep	_	O
+9	Netflix	netflix	NNP	_	10	compound	_	O
+10	#WOW	#wow	NNP	pos2=NN	8	pobj	_	O
+

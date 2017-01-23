@@ -1,0 +1,5 @@
+1	#Immigration	#immigration	NNP	pos2=NN	3	compound	_	O
+2	#Overseas	#overseas	NNP	pos2=POS	3	compound	_	O
+3	Rev	rev	NNP	pos2=GW	4	dep	_	O
+4	iewshttps://t.co/1k4Shssjz9	#hlink#	ADD	pos2=NNP	0	root	_	O
+

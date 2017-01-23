@@ -1,0 +1,26 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	late	late	JJ	pos2=RB	2	acomp	_	O
+4	to	to	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	#TheWalkingDead	#thewalkingdead	NNP	pos2=XX	7	compound	_	U-ORG
+7	party	party	NN	_	4	pobj	_	O
+8	but	but	CC	_	2	cc	_	O
+9	catching	catch	VBG	_	4	pcomp	_	O
+10	up	up	RP	_	9	prt	_	O
+11	fast	fast	RB	_	9	advmod	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	#season3	#season0	NN	pos2=PRP	4	nsubj	_	O
+2	about	about	RB	pos2=IN	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	start	start	VB	_	2	xcomp	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	#thankful	#thankful	UH	pos2=NN	6	punct	_	O
+2	for	for	IN	_	0	root	_	O
+3	the	the	DT	_	5	det	_	B-DATE
+4	long	long	JJ	_	5	nmod	_	I-DATE
+5	weekend	weekend	NN	_	2	pobj	_	L-DATE
+6	ahead	ahead	RB	_	5	advmod	_	O
+

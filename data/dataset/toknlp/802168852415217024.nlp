@@ -1,0 +1,8 @@
+1	Ridiculously	ridiculously	RB	_	2	advmod	_	O
+2	good	good	JJ	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	😬	😬	NFP	pos2=GW	3	punct	_	O
+2	#ThisIsUs	#thisisus	GW	pos2=ADD	3	nmod	_	U-PERSON
+3	https://t.co/tdS4pJ8hJo	#hlink#	ADD	pos2=NN	0	root	_	O
+

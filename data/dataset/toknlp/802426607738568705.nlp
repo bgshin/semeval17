@@ -1,0 +1,33 @@
+1	"	"	``	pos2=SYM	3	punct	_	O
+2	Darkness	darkness	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	good	good	JJ	_	3	acomp	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	Dick	dick	NNP	_	2	compound	_	B-PERSON
+2	Cheney	cheney	NNP	_	0	root	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	Darth	darth	NNP	_	5	compound	_	B-PERSON
+5	Vader	vader	NNP	_	2	conj	_	L-PERSON
+6	,	,	,	_	5	punct	_	O
+7	Satan	satan	NNP	_	5	appos	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	power	power	NN	_	2	attr	_	O
+4	.	.	.	_	2	punct	_	O
+5	"	"	''	_	2	punct	_	O
+
+1	—	-	SYM	pos2=NFP	6	punct	_	O
+2	chief	chief	NN	pos2=JJ	4	compound	_	O
+3	Trump	trump	NN	pos2=NNP	4	compound	_	O
+4	strategist	strategist	NN	_	6	compound	_	O
+5	Steve	steve	NNP	_	6	compound	_	B-PERSON
+6	Bannon	bannon	NNP	_	11	dep	_	L-PERSON
+7	,	,	,	_	11	punct	_	O
+8	in	in	IN	_	0	root	_	O
+9	a	a	DT	_	11	det	_	O
+10	post-election	post-election	JJ	_	11	nmod	_	O
+11	interview	interview	NN	_	8	pobj	_	O
+

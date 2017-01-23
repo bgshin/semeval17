@@ -1,0 +1,25 @@
+1	Apparently	apparently	RB	_	2	advmod	_	O
+2	#hot	#hot	VBP	pos2=IN	4	poss	_	O
+3	#Christmas	#christmas	POS	pos2=PRP$	2	punct	_	O
+4	gifts	gift	NNS	_	5	nsubj	_	O
+5	are	be	VBP	_	0	root	_	O
+6	#Pokemon	#pokemon	NNP	pos2=CD	7	compound	_	B-ORG
+7	#StarWar	#starwar	NNP	pos2=ADD	5	attr	_	I-ORG
+8	&	&	CC	_	7	cc	_	I-ORG
+9	#Hatchimals	#hatchimals	NNS	pos2=NNP	7	conj	_	L-ORG
+10	.	.	.	_	5	punct	_	O
+
+1	Star	star	NNP	pos2=NN	2	compound	_	O
+2	Wars	war	NNPS	pos2=NNS	0	root	_	O
+3	YES	yes	UH	pos2=RB	2	discourse	_	O
+4	!	!	.	_	2	punct	_	O
+
+1	What	what	WP	pos2=WDT	4	attr	_	O
+2	the	the	DT	_	3	det	_	O
+3	heck	heck	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	a	a	DT	_	0	root	_	O
+6	...	..	.	pos2=,	4	punct	_	O
+
+1	https://t.co/wRwvXwU6a3	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,13 @@
+1	Mix	mix	VB	pos2=UH	0	root	_	O
+2	it	it	PRP	_	1	dobj	_	O
+3	up	up	RP	pos2=RB	1	prt	_	O
+4	thoroughly	thoroughly	RB	_	5	advmod	_	O
+5	broad	broad	JJ	_	6	nmod	_	O
+6	visas	visa	NNS	_	1	dobj	_	O
+7	headed	head	VBN	pos2=VBD	6	acl	_	O
+8	for	for	IN	_	7	prep	_	O
+9	immigration	immigration	NN	_	10	compound	_	O
+10	charlatan	charlatan	NN	_	8	pobj	_	O
+11	:	:	:	_	1	punct	_	O
+12	SyDTC	sydtc	NNP	pos2=JJ	1	dep	_	U-PERSON
+

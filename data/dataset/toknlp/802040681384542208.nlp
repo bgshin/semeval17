@@ -1,0 +1,28 @@
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	2	compound	_	O
+2	4everything!This	0everything!this	NN	pos2=NNS	3	nsubj	_	O
+3	@BET	@bet	VBD	pos2=CC	0	root	_	O
+4	special	special	JJ	pos2=NN	7	poss	_	O
+5	's	's	POS	pos2=AFX	4	case	_	O
+6	giving	give	VBG	_	3	advcl	_	O
+7	me	me	PRP	_	6	dative	_	O
+8	so	so	RB	pos2=IN	9	advmod	_	O
+9	much	much	JJ	pos2=RB	10	nmod	_	O
+10	happiness	happiness	NN	_	6	dobj	_	O
+11	in	in	IN	_	6	prep	_	O
+12	this	this	DT	_	13	det	_	O
+13	moment	moment	NN	_	11	pobj	_	O
+14	.	.	.	_	3	punct	_	O
+
+1	Beyond	beyond	IN	_	4	prep	_	O
+2	that	that	DT	_	1	pobj	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	'm	be	VBP	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	mess	mess	NN	_	4	attr	_	O
+7	;	;	,	pos2=:	4	punct	_	O
+8	anxious	anxious	JJ	_	6	nmod	_	O
+9	&	&	CC	_	8	cc	_	O
+10	already	already	RB	_	11	advmod	_	O
+11	grieving	grieve	VBG	pos2=JJ	8	conj	_	O
+12	!	!	.	_	4	punct	_	O
+

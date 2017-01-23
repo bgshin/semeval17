@@ -1,0 +1,21 @@
+1	on	on	IN	_	11	prep	_	O
+2	googling	google	VBG	pos2=NN	1	pcomp	_	O
+3	,	,	,	_	2	punct	_	O
+4	'	'	''	pos2=``	8	punct	_	O
+5	police	police	NN	pos2=NNS	8	compound	_	O
+6	samsung	samsung	NNP	pos2=NN	8	compound	_	O
+7	galaxy	galaxy	NN	pos2=VBD	8	compound	_	O
+8	note	note	NN	_	11	nsubj	_	O
+9	4	0	CD	_	8	nmod	_	O
+10	'	'	''	pos2=NNS	8	punct	_	O
+11	looks	look	VBZ	pos2=NNS	0	root	_	O
+12	popular7,000	popular0	IN	pos2=NNP	11	prep	_	O
+13	West	west	NNP	pos2=JJ	14	compound	_	B-NORP
+14	Yorks5,000	yorks0	NNP	pos2=NNPS	17	compound	_	L-NORP
+15	Wales2,000	wales0	NN	pos2=NNP	17	compound	_	O
+16	Lancs1,500	lancs0	NN	pos2=NNP	17	compound	_	O
+17	Cumbria1,800	cumbria0	NN	pos2=XX	19	compound	_	O
+18	Essex2,000	essex0	NNP	pos2=NNPS	19	compound	_	B-PERSON
+19	Kent	kent	NNP	_	12	pobj	_	L-PERSON
+20	?	?	.	_	11	punct	_	O
+

@@ -1,0 +1,25 @@
+1	WeatherTech®	weathertech®	NNP	pos2=``	24	dep	_	O
+2	Cargo	cargo	NNP	_	24	dep	_	O
+3	Liner	liner	NNP	pos2=NN	24	dep	_	O
+4	-	-	HYPH	pos2=:	24	punct	_	O
+5	#Tesla	#tesla	NNP	_	24	dep	_	O
+6	Model	model	NNP	pos2=NN	24	dep	_	B-FAC
+7	S	s	NNP	pos2=NN	24	dep	_	I-FAC
+8	-	-	HYPH	_	24	punct	_	I-FAC
+9	Trunk	trunk	NNP	_	10	compound	_	I-FAC
+10	Liner	liner	NNP	pos2=NN	20	dep	_	I-FAC
+11	-	-	HYPH	_	10	punct	_	I-FAC
+12	2012	0	CD	_	14	nmod	_	I-FAC
+13	-	-	HYPH	_	14	punct	_	I-FAC
+14	2013	0	CD	_	10	appos	_	L-FAC
+15	-	-	:	pos2=HYPH	16	punct	_	O
+16	Black	black	JJ	pos2=NNP	20	nmod	_	O
+17	$	$	$	pos2=HYPH	18	nmod	_	O
+18	147.95	0	CD	_	20	dep	_	U-MONEY
+19	-	-	HYPH	pos2=:	20	punct	_	O
+20	https://t.co/kgbH9mDycB	#hlink#	ADD	pos2=NN	24	dep	_	O
+21	|	|	NFP	pos2=,	24	punct	_	O
+22	|	|	NFP	pos2=,	24	punct	_	O
+23	…	…	NFP	_	24	punct	_	O
+24	https://t.co/ihIiOFHhBS	#hlink#	ADD	_	0	root	_	O
+

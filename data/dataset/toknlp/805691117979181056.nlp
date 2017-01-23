@@ -1,0 +1,24 @@
+1	@SirS3mt3x	@sirs0mt0x	NN	pos2=LS	6	nsubj	_	O
+2	@WakeupPeopIe	@wakeuppeopie	IN	pos2=VBD	1	prep	_	O
+3	my	my	PRP$	_	5	poss	_	O
+4	religion	religion	NN	_	5	compound	_	O
+5	teacher	teacher	NN	_	2	pobj	_	O
+6	hates	hate	VBZ	_	0	root	_	O
+7	me	me	PRP	_	6	dobj	_	O
+8	because	because	IN	_	10	mark	_	O
+9	I	I	PRP	_	10	nsubj	_	O
+10	'm	be	VBP	_	6	advcl	_	O
+11	not	not	RB	_	10	neg	_	O
+12	a	a	DT	_	13	det	_	O
+13	Christian	christian	JJ	pos2=NNP	10	attr	_	U-NORP
+14	and	and	CC	_	10	cc	_	O
+15	because	because	IN	_	17	mark	_	O
+16	I	I	PRP	_	17	nsubj	_	O
+17	support	support	VBP	_	10	conj	_	O
+18	the	the	DT	_	19	det	_	O
+19	likes	like	NNS	_	17	dobj	_	O
+20	of	of	IN	_	19	prep	_	O
+21	abortion	abortion	NN	_	20	pobj	_	O
+22	and	and	CC	_	21	cc	_	O
+23	euthenasia	euthenasia	NN	_	21	conj	_	O
+

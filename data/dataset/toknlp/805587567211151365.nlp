@@ -1,0 +1,33 @@
+1	@CCFA	@ccfa	NN	pos2=NNP	2	compound	_	O
+2	Homeopathy	homeopathy	NNP	pos2=NN	3	nsubj	_	U-ORG
+3	is	be	VBZ	_	0	root	_	O
+4	simply	simply	RB	_	3	advmod	_	O
+5	quackery	quackery	NN	pos2=JJ	3	attr	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	Whatever	whatever	WDT	pos2=WP	5	pobj	_	O
+2	it	it	PRP	_	4	nsubjpass	_	O
+3	is	be	VBZ	_	4	auxpass	_	O
+4	used	use	VBN	_	0	root	_	O
+5	for	for	IN	pos2=RB	4	prep	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	Long	long	RB	pos2=JJ	0	root	_	O
+2	as	as	IN	pos2=RB	4	mark	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	know	know	VBP	_	1	advcl	_	O
+5	that	that	DT	pos2=IN	4	dobj	_	O
+6	and	and	CC	_	4	cc	_	O
+7	do	do	VBP	pos2=VB	9	aux	_	O
+8	n't	not	RB	_	9	neg	_	O
+9	expect	expect	VB	_	4	conj	_	O
+10	too	too	RB	_	11	advmod	_	O
+11	much	much	RB	pos2=JJ	9	dobj	_	O
+12	from	from	IN	_	9	prep	_	O
+13	it	it	PRP	_	12	pobj	_	O
+14	?	?	.	_	9	punct	_	O
+
+1	Carry	carry	VB	_	0	root	_	O
+2	on	on	RP	pos2=RB	1	prt	_	O
+3	!	!	.	_	1	punct	_	O
+

@@ -1,0 +1,25 @@
+1	@JohnStossel	@johnstossel	UH	pos2=MD	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	think	think	VBP	_	0	root	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	leave	leave	VBP	_	3	ccomp	_	O
+6	out	out	RP	pos2=RB	5	prt	_	O
+7	one	#crd#	CD	_	9	nmod	_	U-CARDINAL
+8	important	important	JJ	_	9	nmod	_	O
+9	fact	fact	NN	_	5	dobj	_	O
+10	about	about	IN	_	9	prep	_	O
+11	Social	social	NNP	_	12	compound	_	B-ORG
+12	Security	security	NNP	_	10	pobj	_	L-ORG
+13	,	,	,	_	12	punct	_	O
+14	Social	social	NNP	_	15	compound	_	B-ORG
+15	Security	security	NNP	_	16	compound	_	I-ORG
+16	Disability	disability	NNP	pos2=NN	12	conj	_	L-ORG
+17	,	,	,	_	16	punct	_	O
+18	Medicare	medicare	NNP	_	16	conj	_	U-ORG
+19	the	the	DT	_	22	nsubjpass	_	O
+20	are	be	VBP	pos2=NN	22	auxpass	_	O
+21	per	per	IN	pos2=RBS	22	discourse	_	O
+22	paid	pay	VBN	_	18	parataxis	_	O
+23	for	for	IN	pos2=RB	22	prep	_	O
+24	.	.	.	_	3	punct	_	O
+

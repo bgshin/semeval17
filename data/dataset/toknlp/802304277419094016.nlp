@@ -1,0 +1,20 @@
+1	The	the	DT	_	4	det	_	O
+2	background	background	NN	_	3	compound	_	O
+3	singers	singer	NNS	_	4	compound	_	O
+4	breasts	breast	NNS	_	6	nsubj	_	O
+5	are	be	VBP	_	6	aux	_	O
+6	clapping	clap	VBG	_	0	root	_	O
+7	along	along	IN	pos2=RP	6	prep	_	O
+8	to	to	IN	_	6	prep	_	O
+9	Jesus	jesus	NNP	_	8	pobj	_	U-PERSON
+10	Can	can	MD	pos2=NNP	11	aux	_	O
+11	Work	work	VB	pos2=NNP	6	advcl	_	O
+12	It	it	PRP	_	11	dobj	_	O
+13	Out	out	RP	pos2=RB	11	prt	_	O
+14	.	.	.	_	6	punct	_	O
+
+1	*	*	SYM	pos2=NFP	2	punct	_	O
+2	tears	tear	NNS	pos2=VBZ	0	root	_	O
+3	*	*	SYM	pos2=NFP	2	punct	_	O
+4	#ThankYouObama	#thankyouobama	NN	pos2=NNS	2	prep	_	O
+

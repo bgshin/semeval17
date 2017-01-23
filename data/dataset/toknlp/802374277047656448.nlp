@@ -1,0 +1,9 @@
+1	But	but	CC	_	2	cc	_	O
+2	remember	remember	VB	_	0	root	_	O
+3	the	the	DT	_	5	det	_	B-ORG
+4	Clinton	clinton	NNP	_	5	compound	_	I-ORG
+5	Foundation	foundation	NNP	_	2	dobj	_	L-ORG
+6	??	??	.	_	2	punct	_	O
+
+1	https://t.co/BmrLugCTJZ	#hlink#	ADD	_	0	root	_	U-ORG
+

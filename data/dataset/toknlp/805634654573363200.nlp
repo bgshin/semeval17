@@ -1,0 +1,20 @@
+1	ITALY	italy	NNP	pos2=NN	3	compound	_	U-GPE
+2	REFERENDUM	referendum	NN	_	3	compound	_	O
+3	REACTION	reaction	NN	_	12	dep	_	O
+4	:	:	:	_	12	punct	_	O
+5	Le	le	NNP	pos2=NN	6	compound	_	O
+6	Pen	pen	NNP	_	12	nsubj	_	O
+7	&	&	CC	_	6	cc	_	O
+8	other	other	JJ	_	11	nmod	_	O
+9	rightwing	rightwing	VBG	pos2=NN	11	nmod	_	O
+10	European	european	JJ	_	11	nmod	_	U-NORP
+11	leaders	leader	NNS	_	6	conj	_	O
+12	praise	praise	VBP	pos2=NN	0	root	_	O
+13	'	'	``	pos2=''	12	punct	_	O
+14	NO	no	UH	pos2=DT	12	discourse	_	O
+15	'	'	''	pos2=NNS	12	punct	_	O
+16	vote	vote	NN	pos2=VB	12	dobj	_	O
+17	@realDonaldTrump	@realdonaldtrump	GW	pos2=XX	19	nmod	_	O
+18	#TrumpTrain	#trumptrain	GW	pos2=ADD	19	nmod	_	O
+19	https://t.co/xjPrc6o27c	#hlink#	ADD	pos2=NN	12	dep	_	O
+

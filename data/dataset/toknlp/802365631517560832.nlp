@@ -1,0 +1,14 @@
+1	Where	where	WRB	_	3	advmod	_	O
+2	were	be	VBD	_	0	root	_	O
+3	they	they	PRP	_	2	nsubj	_	O
+4	during	during	IN	_	2	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	height	height	NN	_	4	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Obama	obama	NNP	_	10	poss	_	U-ORG
+9	's	's	POS	_	8	case	_	O
+10	Admin	admin	NNP	pos2=NN	7	pobj	_	O
+11	?	?	.	_	2	punct	_	O
+
+1	https://t.co/s1Gc9DXOjQ	#hlink#	ADD	_	0	root	_	U-ORG
+

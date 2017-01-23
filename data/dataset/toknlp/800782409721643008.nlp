@@ -1,0 +1,20 @@
+1	After	after	IN	_	6	prep	_	O
+2	S6	s0	NN	pos2=NNP	1	pobj	_	O
+3	,	,	,	_	6	punct	_	O
+4	my	my	PRP$	_	5	poss	_	O
+5	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNS	6	nsubj	_	O
+6	has	have	VBZ	_	0	root	_	O
+7	changed:4	changed:0	NN	pos2=VBN	6	dobj	_	O
+8	.	.	.	_	6	punct	_	O
+
+1	Richard3	richard0	LS	pos2=NN	0	root	_	U-ORG
+2	.	.	.	_	1	punct	_	O
+
+1	Sookie2	sookie0	LS	pos2=NN	0	root	_	U-CARDINAL
+2	.	.	.	_	1	punct	_	O
+
+1	Jackson1	jackson0	LS	pos2=NN	0	root	_	U-CARDINAL
+2	.	.	.	_	1	punct	_	O
+
+1	Paris	paris	NNP	_	0	root	_	U-GPE
+

@@ -1,0 +1,19 @@
+1	I	I	PRP	pos2=NNP	2	nsubj	_	O
+2	Tried	try	VBD	_	0	root	_	O
+3	The	the	DT	pos2=NNP	5	det	_	B-ORG
+4	College	college	NNP	_	5	compound	_	I-ORG
+5	Thing	thing	NNP	pos2=NN	2	dobj	_	I-ORG
+6	&	&	CC	_	5	cc	_	I-ORG
+7	Minimum	minimum	NNP	pos2=JJ	9	compound	_	I-ORG
+8	Wage	wage	NNP	pos2=NN	9	compound	_	I-ORG
+9	Thing	thing	NNP	pos2=NN	5	conj	_	L-ORG
+10	,	,	,	_	9	punct	_	O
+11	Not	not	RB	_	13	neg	_	O
+12	My	my	PRP$	_	13	poss	_	O
+13	Cup	cup	NNP	pos2=NN	5	conj	_	B-ORG
+14	Of	of	IN	pos2=NNP	13	prep	_	I-ORG
+15	Tea	tea	NNP	pos2=NN	14	pobj	_	L-ORG
+16	,	,	,	_	13	punct	_	O
+17	Sowwy	sowwy	NNP	_	13	conj	_	U-GPE
+18	,	,	,	_	17	punct	_	O
+

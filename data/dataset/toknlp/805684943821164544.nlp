@@ -1,0 +1,21 @@
+1	Writing	write	VBG	_	0	root	_	O
+2	a	a	DT	_	7	det	_	O
+3	new	new	JJ	_	4	nmod	_	O
+4	e	e	NN	pos2=NNP	7	compound	_	O
+5	bookOn	bookon	NNP	pos2=HYPH	7	compound	_	O
+6	homeopathy	homeopathy	NN	_	7	compound	_	O
+7	guidence	guidence	NN	_	1	dobj	_	O
+8	frm	frm	IN	pos2=FW	1	prep	_	O
+9	a	a	DT	_	13	det	_	O
+10	homeopathic	homeopathic	JJ	pos2=NN	13	nmod	_	O
+11	dr.	dr.	NNP	pos2=NN	12	compound	_	O
+12	Best	best	NNP	pos2=JJS	13	compound	_	O
+13	dr	dr	NN	pos2=NNS	8	pobj	_	O
+14	who	who	WP	_	15	nsubj	_	O
+15	practicing	practice	VBG	_	13	relcl	_	O
+16	last	last	JJ	pos2=RB	18	nmod	_	B-DATE
+17	50	0	CD	_	18	nmod	_	I-DATE
+18	yrs	yr	NNS	_	15	dobj	_	L-DATE
+19	in	in	IN	_	15	prep	_	O
+20	Ahmedabad	ahmedabad	NNP	_	19	pobj	_	U-GPE
+

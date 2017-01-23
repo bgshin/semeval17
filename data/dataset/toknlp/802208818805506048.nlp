@@ -1,0 +1,15 @@
+1	In	in	IN	pos2=RB	5	prep	_	O
+2	latest	late	JJS	pos2=RBS	3	nmod	_	O
+3	count	count	NN	_	1	pobj	_	O
+4	@HillaryClinton	@hillaryclinton	NNP	pos2=XX	5	nsubj	_	U-ORG
+5	leads	lead	VBZ	_	0	root	_	O
+6	popular	popular	JJ	_	7	nmod	_	O
+7	election	election	NN	_	5	dobj	_	O
+8	by	by	IN	_	5	prep	_	O
+9	over	over	IN	pos2=AFX	11	qmod	_	B-CARDINAL
+10	2	0	CD	_	11	compound	_	I-CARDINAL
+11	million	#crd#	CD	_	12	nmod	_	L-CARDINAL
+12	votes	vote	NNS	_	8	pobj	_	O
+13	:	:	:	_	5	punct	_	O
+14	https://t.co/XmaNPsIA42	#hlink#	ADD	pos2=NN	5	dep	_	O
+

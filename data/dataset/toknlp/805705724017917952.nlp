@@ -1,0 +1,28 @@
+1	@JeyyLowe	@jeyylowe	NNP	pos2=XX	2	compound	_	B-PERSON
+2	Kinnock	kinnock	NNP	_	5	nsubj	_	L-PERSON
+3	is	be	VBZ	_	5	aux	_	O
+4	essentially	essentially	RB	_	5	advmod	_	O
+5	aping	ape	VBG	_	0	root	_	O
+6	the	the	DT	_	8	det	_	O
+7	UKRAP	ukrap	NNP	pos2=NN	8	compound	_	U-ORG
+8	position	position	NN	_	5	dobj	_	O
+9	,	,	,	_	5	punct	_	O
+10	saying	say	VBG	_	5	advcl	_	O
+11	it	it	PRP	_	12	nsubj	_	O
+12	's	's	VBZ	_	10	ccomp	_	O
+13	ok	ok	JJ	_	12	acomp	_	O
+14	to	to	TO	_	15	aux	_	O
+15	be	be	VB	_	12	xcomp	_	O
+16	racist	racist	JJ	_	15	acomp	_	O
+17	.	.	.	_	5	punct	_	O
+
+1	Labour	labour	NNP	pos2=NN	2	compound	_	U-ORG
+2	as	as	IN	pos2=RB	3	mark	_	O
+3	flummoxed	flummox	VBN	_	0	root	_	O
+4	by	by	IN	_	3	agent	_	O
+5	Brexit	brexit	NNP	_	4	pobj	_	U-PERSON
+6	as	as	IN	_	3	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	Government	government	NNP	pos2=NN	6	pobj	_	O
+9	.	.	.	_	1	punct	_	O
+

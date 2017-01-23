@@ -1,0 +1,9 @@
+1	@tiaa_griffin	@tiaa_griffin	VB	pos2=NNP	0	root	_	O
+2	How	how	WRB	_	3	advmod	_	O
+3	bout	bout	VB	pos2=VBP	1	xcomp	_	O
+4	them	them	PRP	_	0	root	_	O
+5	Cowboys	cowboy	NNPS	pos2=NNS	4	appos	_	U-ORG
+6	!	!	.	_	1	punct	_	O
+
+1	https://t.co/i5nY6K8puX	#hlink#	ADD	_	0	root	_	U-ORG
+

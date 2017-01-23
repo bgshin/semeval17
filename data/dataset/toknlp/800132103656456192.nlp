@@ -1,0 +1,27 @@
+1	@DiannaAgron	@diannaagron	NNP	pos2=ADD	5	vocative	_	O
+2	You	you	PRP	_	5	nsubj	_	O
+3	probably	probably	RB	_	5	advmod	_	O
+4	also	also	RB	_	5	advmod	_	O
+5	think	think	VBP	pos2=VB	0	root	_	O
+6	building	build	VBG	_	13	csubj	_	O
+7	a	a	DT	_	8	det	_	O
+8	wall	wall	NN	_	6	dobj	_	O
+9	on	on	IN	_	8	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	Mexican	mexican	JJ	_	12	nmod	_	U-NORP
+12	border	border	NN	_	9	pobj	_	O
+13	is	be	VBZ	_	5	ccomp	_	O
+14	a	a	DT	_	16	det	_	O
+15	ridiculous	ridiculous	JJ	_	16	nmod	_	O
+16	idea	idea	NN	_	13	attr	_	O
+17	,	,	,	_	13	punct	_	O
+18	like	like	IN	_	23	mark	_	O
+19	most	most	RBS	pos2=JJS	20	advmod	_	O
+20	normal	normal	JJ	_	22	nmod	_	O
+21	human	human	JJ	_	22	nmod	_	O
+22	beings	being	NNS	_	23	nsubj	_	O
+23	do	do	VBP	pos2=VB	13	advcl	_	O
+24	!	!	.	_	5	punct	_	O
+
+1	😐	😐	SYM	pos2=NFP	0	root	_	U-ORG
+

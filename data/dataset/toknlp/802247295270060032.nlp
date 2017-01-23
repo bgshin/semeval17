@@ -1,0 +1,21 @@
+1	@tipp_jim	@tipp_jim	UH	pos2=WP	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	recognise	recognise	VBP	_	0	root	_	O
+4	that	that	DT	pos2=IN	3	dobj	_	O
+5	,	,	,	_	7	punct	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	look	look	VBP	_	3	parataxis	_	O
+8	slightly	slightly	RB	_	9	advmod	_	O
+9	less	less	RBR	_	10	advmod	_	O
+10	tired	tired	JJ	_	7	acomp	_	O
+11	than	than	IN	_	13	mark	_	O
+12	I	I	PRP	_	13	nsubj	_	O
+13	did	do	VBD	_	10	advcl	_	O
+14	when	when	WRB	_	16	advmod	_	O
+15	I	I	PRP	_	16	nsubj	_	O
+16	got	get	VBD	_	13	advcl	_	O
+17	up	up	RB	pos2=RP	18	advmod	_	O
+18	there	there	RB	_	16	advmod	_	O
+19	though	though	IN	pos2=RB	20	mark	_	O
+20	#flippingsteep	#flippingsteep	UH	pos2=NNS	16	discourse	_	O
+

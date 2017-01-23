@@ -1,0 +1,13 @@
+1	@themag_24	@themag_0	NN	pos2=UH	2	compound	_	O
+2	@Devon_Stone8	@devon_stone0	NN	pos2=GW	3	compound	_	O
+3	@unc_tarheelfan	@unc_tarheelfan	NNP	pos2=IN	6	compound	_	O
+4	Yeah	yeah	UH	pos2=NNP	0	root	_	O
+5	Grayson	grayson	NNP	_	6	compound	_	B-PERSON
+6	Allen	allen	NNP	_	0	root	_	L-PERSON
+7	.	.	.	_	6	punct	_	O
+
+1	17	0	CD	_	2	nmod	_	U-CARDINAL
+2	points	point	NNS	_	0	root	_	O
+3	vs	vs	CC	pos2=IN	2	cc	_	O
+4	W&M	w&m	NNP	pos2=NN	2	conj	_	U-ORG
+

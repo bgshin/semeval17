@@ -1,0 +1,10 @@
+1	Happy	happy	JJ	pos2=NNP	5	nmod	_	O
+2	Birthday	birthday	NNP	pos2=NN	5	compound	_	O
+3	Midnight	midnight	NNP	_	5	compound	_	O
+4	Memories	memories	NNP	pos2=NNPS	5	compound	_	O
+5	❤🎉🎂#3YearsofMidnightMemories	❤🎉🎂0yearsofmidnightmemories	NNPS	pos2=VBZ	9	dep	_	O
+6	#onedirection	#onedirection	ADD	pos2=GW	9	nmod	_	O
+7	#zayn	#zayn	GW	pos2=UH	9	nmod	_	O
+8	@onedirection	@onedirection	GW	pos2=ADD	9	nmod	_	O
+9	https://t.co/f82xagCjrP	#hlink#	ADD	pos2=NN	0	root	_	O
+

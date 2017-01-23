@@ -1,0 +1,17 @@
+1	Post	post	AFX	pos2=VB	2	advmod	_	U-ORG
+2	same	same	JJ	_	4	nmod	_	O
+3	-	-	HYPH	_	4	punct	_	O
+4	sex	sex	NN	_	5	compound	_	O
+5	marriage	marriage	NN	_	7	nsubj	_	O
+6	,	,	,	_	11	punct	_	O
+7	elderly	elderly	JJ	_	9	nmod	_	O
+8	gay	gay	JJ	pos2=NN	9	nmod	_	O
+9	Americans	american	NNPS	pos2=NNS	11	nsubj	_	U-NORP
+10	still	still	RB	_	11	advmod	_	O
+11	face	face	VBP	_	0	root	_	O
+12	challenges	challenge	NNS	_	11	dobj	_	O
+13	https://t.co/TubwGBcUID	#hlink#	ADD	_	12	acl	_	O
+14	#conference	#conference	IN	pos2=-RRB-	11	prep	_	O
+15	#speaker	#speaker	UH	pos2=NN	14	discourse	_	O
+16	#aging	#aging	UH	pos2=VBG	14	discourse	_	O
+

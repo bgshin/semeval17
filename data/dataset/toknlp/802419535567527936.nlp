@@ -1,0 +1,15 @@
+1	#NotMyPresident	#notmypresident	ADD	pos2=NN	0	root	_	O
+2	#AntiTrump	#antitrump	IN	pos2=XX	1	prep	_	O
+3	How	how	WRB	_	6	advmod	_	O
+4	will	will	MD	_	6	aux	_	O
+5	#TrumpPresident	#trumppresident	ADD	pos2=XX	6	nsubj	_	O
+6	#steal	#steal	VB	pos2=UH	2	pcomp	_	O
+7	#Fed	#fed	NNP	pos2=VBN	9	compound	_	B-ORG
+8	#Govt	#govt	NNP	pos2=NN	9	compound	_	I-ORG
+9	#CheckBook	#checkbook	NNP	pos2=VB	6	dobj	_	L-ORG
+10	?	?	.	_	1	punct	_	O
+
+1	https://t.co/pFMpclnIZE	#hlink#	ADD	_	3	nmod	_	O
+2	@maddow	@maddow	-RRB-	pos2=UH	3	punct	_	O
+3	@Lawrence	@lawrence	NN	pos2=-RRB-	0	root	_	O
+

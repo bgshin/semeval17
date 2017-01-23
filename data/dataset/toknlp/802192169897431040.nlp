@@ -1,0 +1,18 @@
+1	@da_minicooper	@da_minicooper	NN	pos2=ADD	16	dep	_	O
+2	and	and	CC	_	1	cc	_	O
+3	if	if	IN	_	8	mark	_	O
+4	I	I	PRP	_	8	nsubj	_	O
+5	still	still	RB	_	8	advmod	_	O
+6	do	do	VBP	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	have	have	VB	_	1	conj	_	O
+9	a	a	DT	_	10	det	_	O
+10	boo	boo	NN	_	8	dobj	_	O
+11	by	by	IN	_	8	prep	_	O
+12	Valentines	valentines	NNP	_	11	pobj	_	U-ORG
+13	then	then	RB	_	16	advmod	_	O
+14	I	I	PRP	_	16	nsubj	_	O
+15	'm	be	VBP	_	16	aux	_	O
+16	blaming	blame	VBG	_	0	root	_	O
+17	you	you	PRP	_	16	dobj	_	O
+

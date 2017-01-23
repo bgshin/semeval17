@@ -1,0 +1,28 @@
+1	@Chelseashow	@chelseashow	NNP	pos2=VB	0	root	_	U-PERSON
+2	@realmommagump	@realmommagump	IN	pos2=XX	1	prep	_	O
+3	Side	side	NNP	pos2=NN	2	pobj	_	O
+4	with	with	IN	_	1	prep	_	O
+5	Hollywood	hollywood	NNP	_	4	pobj	_	U-GPE
+6	or	or	CC	_	5	cc	_	O
+7	the	the	DT	_	8	det	_	O
+8	media	medium	NNS	pos2=NN	5	conj	_	O
+9	?	?	.	_	1	punct	_	O
+
+1	Hillary	hillary	NNP	_	2	nsubj	_	U-PERSON
+2	was	be	VBD	_	0	root	_	O
+3	also	also	RB	_	2	advmod	_	O
+4	a	a	DT	_	6	det	_	O
+5	Goldwater	goldwater	NNP	_	6	compound	_	B-ORG
+6	Girl	girl	NNP	pos2=NN	2	attr	_	L-ORG
+7	in	in	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	B-DATE
+9	60's	0's	NNS	pos2=NNPS	7	pobj	_	L-DATE
+10	,	,	,	_	2	punct	_	O
+11	anti	anti	AFX	pos2=VBG	12	advmod	_	O
+12	gay	gay	JJ	_	13	nmod	_	O
+13	marriage	marriage	NN	_	2	attr	_	O
+14	,	,	,	_	13	punct	_	O
+15	pro	pro	JJ	pos2=FW	17	nmod	_	O
+16	Iraq	iraq	NNP	_	17	compound	_	B-EVENT
+17	war	war	NN	_	13	conj	_	L-EVENT
+

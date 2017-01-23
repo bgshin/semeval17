@@ -1,0 +1,8 @@
+1	Most	most	JJS	pos2=RBS	3	nmod	_	O
+2	Epic	epic	NNP	pos2=JJ	3	compound	_	O
+3	#MannequinChallenge	#mannequinchallenge	NNP	pos2=GW	0	root	_	O
+4	EVER	ever	RB	_	3	advmod	_	O
+5	!!!!!!!!!!!	!!	.	_	3	punct	_	O
+
+1	https://t.co/7oxaMNoi2v	#hlink#	ADD	_	0	root	_	U-ORG
+

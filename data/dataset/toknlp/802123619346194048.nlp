@@ -1,0 +1,17 @@
+1	Jack	jack	NNP	_	3	poss	_	U-PERSON
+2	's	's	POS	_	1	case	_	O
+3	effort	effort	NN	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	turn	turn	VB	_	3	acl	_	O
+6	their	their	PRP$	_	7	poss	_	O
+7	family	family	NN	_	10	poss	_	O
+8	's	's	POS	_	7	case	_	O
+9	disastrous	disastrous	JJ	_	10	nmod	_	O
+10	Thanksgiving	thanksgiving	NNP	_	5	dobj	_	U-DATE
+11	into	into	IN	_	5	prep	_	O
+12	a	a	DT	_	14	det	_	O
+13	memorable	memorable	JJ	_	14	nmod	_	O
+14	one	#crd#	CD	pos2=NN	11	pobj	_	U-CARDINAL
+15	😭	😭	WDT	pos2=HYPH	16	det	_	O
+16	#ThisIsUs	#thisisus	NN	pos2=ADD	14	relcl	_	O
+

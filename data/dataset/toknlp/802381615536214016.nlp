@@ -1,0 +1,22 @@
+1	@wseminole99	@wseminole0	NN	pos2=LS	3	prep	_	O
+2	@Cernovich	@cernovich	WDT	pos2=NNP	5	punct	_	O
+3	@ThisIsNotPolite	@thisisnotpolite	ADD	pos2=VBP	0	root	_	O
+4	@farnamstreet	@farnamstreet	NNP	pos2=MD	5	nsubj	_	O
+5	Listen	listen	VB	pos2=NNP	1	relcl	_	O
+6	2	0	CD	_	7	nmod	_	U-CARDINAL
+7	Mike	mike	NNP	_	5	vocative	_	U-PERSON
+8	.	.	.	_	1	punct	_	O
+
+1	It	it	PRP	_	3	nsubj	_	O
+2	will	will	MD	_	3	aux	_	O
+3	be	be	VB	_	12	ccomp	_	O
+4	easier2	easier0	TO	pos2=NNS	5	aux	_	O
+5	avoid	avoid	VB	_	3	xcomp	_	O
+6	the	the	DT	_	9	det	_	O
+7	liberals	liberal	NNS	_	5	dative	_	O
+8	stupidity	stupidity	NN	_	9	compound	_	O
+9	than2	than0	NN	pos2=VBP	10	nsubj	_	O
+10	try	try	VB	pos2=NN	5	ccomp	_	O
+11	2	0	CD	pos2=TO	12	nmod	_	U-CARDINAL
+12	understand	understand	VBP	pos2=VB	0	root	_	O
+

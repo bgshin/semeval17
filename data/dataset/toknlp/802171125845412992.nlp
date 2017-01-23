@@ -1,0 +1,22 @@
+1	Game	game	NN	pos2=DT	2	compound	_	B-DATE
+2	day	day	NN	_	0	root	_	L-DATE
+3	!	!	.	_	2	punct	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	road	road	NN	_	3	compound	_	O
+3	trip	trip	NN	_	4	nsubj	_	O
+4	continues	continue	VBZ	_	0	root	_	O
+5	at	at	IN	_	4	prep	_	O
+6	8:00	0	CD	_	5	pobj	_	U-TIME
+7	on	on	IN	_	4	prep	_	O
+8	@HawksOnFSSE	@hawksonfsse	NNP	pos2=ADD	7	pobj	_	U-ORG
+9	and	and	CC	_	4	cc	_	O
+10	@	@	SYM	pos2=$	11	punct	_	O
+11	929TheGame	0thegame	NN	pos2=JJ	6	prep	_	O
+12	as	as	IN	_	14	mark	_	O
+13	we	we	PRP	_	14	nsubj	_	O
+14	face	face	VBP	_	4	conj	_	O
+15	the	the	DT	_	16	det	_	O
+16	@utahjazz.#TrueToAtlanta	@utahjazz.#truetoatlanta	NNP	pos2=ADD	14	dobj	_	O
+17	https://t.co/deduO3aAol	#hlink#	ADD	_	14	dobj	_	O
+

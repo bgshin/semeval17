@@ -1,0 +1,26 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	hosted	host	VBD	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	#NBAwards	#nbawards	NNPS	pos2=NNS	2	dobj	_	U-PRODUCT
+5	after	after	IN	_	2	prep	_	O
+6	party	party	NN	_	5	pobj	_	O
+7	and	and	CC	_	2	cc	_	O
+8	it	it	PRP	_	10	nsubjpass	_	O
+9	was	be	VBD	_	10	auxpass	_	O
+10	🔥	🔥	VBN	pos2=NNP	2	conj	_	O
+11	!	!	.	_	10	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	laughed	laugh	VBD	_	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	danced	dance	VBN	pos2=VBD	2	conj	_	O
+5	,	,	,	_	4	punct	_	O
+6	and	and	CC	_	4	cc	_	O
+7	celebrated	celebrate	VBD	_	4	conj	_	O
+8	the	the	DT	_	9	det	_	O
+9	night	night	NN	_	7	dobj	_	O
+10	away	away	RB	_	7	advmod	_	O
+11	!	!	.	_	2	punct	_	O
+
+1	https://t.co/jO7gswsKuN	#hlink#	ADD	_	0	root	_	U-ORG
+

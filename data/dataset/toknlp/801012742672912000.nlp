@@ -1,0 +1,15 @@
+1	#IraqiForces	#iraqiforces	NNS	pos2=ADD	14	dep	_	O
+2	storming	storm	VBG	_	1	acl	_	O
+3	Al	al	NNP	_	4	compound	_	B-LOC
+4	Zuhour	zuhour	NNP	_	6	compound	_	L-LOC
+5	district	district	NN	_	6	compound	_	O
+6	east	east	NN	pos2=RB	2	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	#Mosul	#mosul	NNP	pos2=$	11	compound	_	B-ORG
+9	#Mosul	#mosul	NNP	pos2=XX	14	dep	_	I-ORG
+10	#Mosuloffensive	#mosuloffensive	NNP	pos2=POS	14	dep	_	I-ORG
+11	#MosulOp	#mosulop	NNP	pos2=ADD	14	nmod	_	L-ORG
+12	#Iraq#ISIS	#iraq#isis	GW	pos2=POS	14	nmod	_	O
+13	…	…	NFP	pos2=GW	14	punct	_	O
+14	https://t.co/ckqA8R1KJy	#hlink#	ADD	_	0	root	_	O
+

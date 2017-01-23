@@ -1,0 +1,16 @@
+1	Message	message	NN	pos2=VB	2	compound	_	O
+2	@ricky_martin	@ricky_martin	NNP	pos2=UH	15	nsubjpass	_	U-ORG
+3	maybE	maybe	RB	_	7	advmod	_	O
+4	a	a	DT	_	7	det	_	O
+5	snakey	snakey	JJ	pos2=NN	7	nmod	_	O
+6	little	little	JJ	_	7	nmod	_	O
+7	strut	strut	NN	_	2	appos	_	O
+8	,	,	,	_	2	punct	_	O
+9	biblically	biblically	RB	_	10	advmod	_	O
+10	with	with	IN	_	2	prep	_	O
+11	stick	stick	NN	_	10	pobj	_	O
+12	but	but	CC	_	15	punct	_	O
+13	can	can	MD	_	15	aux	_	O
+14	b	b	VB	pos2=PRP	15	discourse	_	O
+15	trusted	trust	VBN	pos2=VBD	0	root	_	O
+

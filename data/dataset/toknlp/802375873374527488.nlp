@@ -1,0 +1,14 @@
+1	#Spurs	#spurs	NNS	pos2=NNP	2	nsubj	_	O
+2	#GoSpursGo	#gospursgo	VBD	pos2=POS	0	root	_	O
+3	1997	0	CD	_	4	nmod	_	U-CARDINAL
+4	Wheels	wheel	NNS	pos2=NNPS	2	dobj	_	O
+5	Tim	tim	NNP	_	10	compound	_	O
+6	Duncan	duncan	NNP	_	10	compound	_	O
+7	RC	rc	NNP	pos2=NN	10	compound	_	O
+8	Rookie	rookie	NNP	pos2=NN	10	compound	_	O
+9	#Card	#card	NNP	pos2=POS	10	compound	_	O
+10	Lot	lot	NNP	pos2=NN	11	dep	_	O
+11	https://t.co/l4Ni3jAOQm	#hlink#	ADD	_	13	nmod	_	O
+12	#TimDuncan	#timduncan	ADD	pos2=-RRB-	0	root	_	O
+13	#NBA	#nba	NN	pos2=ADD	12	pobj	_	O
+

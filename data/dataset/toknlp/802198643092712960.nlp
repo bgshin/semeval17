@@ -1,0 +1,16 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	Is	be	VBZ	_	0	root	_	O
+3	Us	us	PRP	pos2=NNP	4	nsubj	_	O
+4	is	be	VBZ	_	2	ccomp	_	O
+5	such	such	PDT	pos2=JJ	8	predet	_	O
+6	a	a	DT	_	8	det	_	O
+7	great	great	JJ	_	8	nmod	_	O
+8	show	show	NN	_	4	attr	_	O
+9	!	!	.	_	2	punct	_	O
+
+1	Like	like	UH	pos2=IN	5	discourse	_	O
+2	if	if	IN	_	4	mark	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	agree	agree	VBP	_	5	advcl	_	O
+5	#ThisIsUs	#thisisus	ADD	pos2=NNP	0	root	_	U-TIME
+

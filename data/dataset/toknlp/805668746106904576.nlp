@@ -1,0 +1,28 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	shall	shall	MD	_	4	aux	_	O
+3	be	be	VB	_	4	aux	_	O
+4	working	work	VBG	_	0	root	_	O
+5	with	with	IN	_	4	prep	_	O
+6	@SkyNews	@skynews	NNS	pos2=NNP	5	pobj	_	O
+7	on	on	IN	_	6	prep	_	O
+8	their	their	PRP$	_	9	poss	_	O
+9	coverage	coverage	NN	_	7	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	the	the	DT	_	13	det	_	O
+12	Brexit	brexit	NNP	_	13	compound	_	U-PERSON
+13	appeal	appeal	NN	pos2=VBP	10	pobj	_	O
+14	at	at	IN	_	4	prep	_	O
+15	the	the	DT	_	16	det	_	O
+16	@UKSupremeCourt	@uksupremecourt	NN	pos2=NNP	14	pobj	_	O
+17	over	over	IN	_	16	prep	_	O
+18	the	the	DT	_	20	det	_	B-DATE
+19	4	0	CD	_	20	nmod	_	I-DATE
+20	days	day	NNS	_	17	pobj	_	L-DATE
+21	.	.	.	_	4	punct	_	O
+
+1	Live	live	JJ	pos2=VB	2	nmod	_	O
+2	commentary	commentary	NN	_	0	root	_	O
+3	and	and	CC	_	2	cc	_	O
+4	more	more	JJR	pos2=RBR	2	conj	_	O
+5	!	!	.	_	2	punct	_	O
+

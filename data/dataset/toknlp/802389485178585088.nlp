@@ -1,0 +1,22 @@
+1	2016	0	CD	_	2	nmod	_	U-CARDINAL
+2	strikes	strike	NNS	pos2=VBZ	0	root	_	O
+3	again	again	RB	_	2	advmod	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	Send	send	VB	_	0	root	_	O
+2	security	security	NN	_	1	dobj	_	O
+3	to	to	IN	_	1	dative	_	O
+4	Bob	bob	NNP	_	5	compound	_	B-PERSON
+5	Dylan	dylan	NNP	_	3	pobj	_	L-PERSON
+6	,	,	,	_	5	punct	_	O
+7	Paul	paul	NNP	_	8	compound	_	B-PERSON
+8	McCartney	mccartney	NNP	_	5	conj	_	L-PERSON
+9	,	,	,	_	8	punct	_	O
+10	and	and	CC	_	8	cc	_	O
+11	Jimmy	jimmy	NNP	_	12	compound	_	B-PERSON
+12	Carter	carter	NNP	_	14	poss	_	I-PERSON
+13	's	's	POS	_	12	case	_	L-PERSON
+14	homes	home	NNS	_	8	conj	_	O
+15	immediately	immediately	RB	_	14	advmod	_	O
+16	.	.	.	_	1	punct	_	O
+

@@ -1,0 +1,23 @@
+1	@HasanAli1984	@hasanali0	NN	pos2=LS	6	nsubj	_	O
+2	@suvyboy	@suvyboy	IN	pos2=NN	1	prep	_	O
+3	1	0	CD	pos2=LS	2	pobj	_	O
+4	)	)	-RRB-	_	1	punct	_	O
+5	Rubio	rubio	NNP	pos2=NNS	6	nsubj	_	U-PERSON
+6	avoided	avoid	VBD	pos2=VBN	0	root	_	O
+7	/	/	SYM	pos2=,	6	punct	_	O
+8	backtracked	backtrack	VBD	pos2=VBN	6	dep	_	O
+9	on	on	IN	_	8	prep	_	O
+10	the	the	DT	_	15	det	_	O
+11	Trump	trump	NNP	pos2=NN	13	nmod	_	O
+12	/	/	SYM	pos2=HYPH	13	punct	_	O
+13	Cuba	cuba	NNP	_	15	compound	_	O
+14	embargo	embargo	NN	_	15	compound	_	O
+15	controversy	controversy	NN	_	9	pobj	_	O
+16	2	0	CD	_	15	appos	_	U-CARDINAL
+17	)	)	-RRB-	_	13	punct	_	O
+18	Rubio	rubio	NNP	pos2=WP	19	compound	_	B-PERSON
+19	GOTV	gotv	NNP	pos2=NN	6	dobj	_	L-PERSON
+20	with	with	IN	_	19	prep	_	O
+21	younger	young	JJR	_	22	nmod	_	O
+22	Hispanics	hispanic	NNPS	pos2=NNS	20	pobj	_	U-NORP
+

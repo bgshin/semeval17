@@ -1,0 +1,29 @@
+1	NO	no	UH	pos2=DT	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	Yes	yes	UH	_	4	discourse	_	O
+2	#Iraq	#iraq	NNP	pos2=DT	4	nmod	_	O
+3	human	human	JJ	_	4	nmod	_	O
+4	catastrophe	catastrophe	NN	_	25	dep	_	O
+5	(	(	-LRB-	_	4	punct	_	O
+6	led	lead	VBN	pos2=VBD	4	acl	_	O
+7	to	to	IN	_	6	prep	_	O
+8	#ISIS	#isis	NNP	pos2=NN	7	pobj	_	U-GPE
+9	)	)	-RRB-	_	4	punct	_	O
+10	caused	cause	VBN	_	4	acl	_	O
+11	by	by	IN	_	10	agent	_	O
+12	#Bush	#bush	NNP	pos2=XX	14	nmod	_	B-ORG
+13	/	/	SYM	_	14	punct	_	I-ORG
+14	#Blair	#blair	NNP	pos2=NN	11	pobj	_	L-ORG
+15	but	but	CC	_	4	cc	_	O
+16	#Putin	#putin	NNP	pos2=NN	25	dep	_	O
+17	/	/	SYM	pos2=HYPH	18	punct	_	O
+18	#Assad	#assad	NN	pos2=JJ	21	compound	_	O
+19	resp	resp	NN	pos2=JJ	21	compound	_	O
+20	fr	fr	NN	pos2=XX	21	compound	_	O
+21	slaughter	slaughter	NN	_	16	appos	_	O
+22	in	in	IN	_	21	prep	_	O
+23	#Syria	#syria	NNP	pos2=GW	22	pobj	_	U-GPE
+24	…	…	NFP	pos2=-LRB-	25	punct	_	O
+25	https://t.co/PeLZFIW7MH	#hlink#	ADD	_	0	root	_	O
+

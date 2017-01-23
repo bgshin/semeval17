@@ -1,0 +1,9 @@
+1	6.	0.	LS	_	3	meta	_	U-CARDINAL
+2	Vegetarianism	vegetarianism	NN	pos2=NNP	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	best	good	JJS	_	6	nmod	_	O
+6	way	way	NN	_	3	attr	_	O
+7	to	to	TO	_	8	aux	_	O
+8	go	go	VB	_	6	relcl	_	O
+

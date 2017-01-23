@@ -1,0 +1,15 @@
+1	https://t.co/nUsC1cQYMa	#hlink#	ADD	pos2=NNP	8	nmod	_	B-ORG
+2	Tot	tot	NNP	pos2=IN	4	compound	_	I-ORG
+3	Tutors	tutor	NNPS	pos2=NNP	4	compound	_	I-ORG
+4	Kids	kid	NNPS	pos2=NNP	8	poss	_	I-ORG
+5	’	'	POS	pos2=''	4	case	_	I-ORG
+6	Toy	toy	NNP	pos2=NN	7	compound	_	I-ORG
+7	Storage	storage	NNP	pos2=NN	8	compound	_	L-ORG
+8	Organizer	organizer	NN	pos2=NNP	0	root	_	O
+9	with	with	IN	_	8	prep	_	O
+10	12	0	CD	_	12	nmod	_	U-CARDINAL
+11	Plastic	plastic	JJ	pos2=NNP	12	nmod	_	O
+12	Bins	bin	NNS	pos2=NNPS	9	pobj	_	O
+13	#NationalFastFoodDay	#nationalfastfoodday	ADD	pos2=GW	8	punct	_	O
+14	https://t.co/x2Xq2FyldT	#hlink#	ADD	_	13	pobj	_	O
+

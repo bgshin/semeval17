@@ -1,0 +1,18 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	'm	be	VBP	_	4	aux	_	O
+3	really	really	RB	_	4	advmod	_	O
+4	looking	look	VBG	_	0	root	_	O
+5	forward	forward	RB	_	4	advmod	_	O
+6	to	to	IN	_	4	prep	_	O
+7	FFXV	ffxv	NNP	pos2=XX	6	pobj	_	U-GPE
+8	but	but	CC	_	4	cc	_	O
+9	I	I	PRP	_	13	nsubj	_	O
+10	have	have	VBP	_	13	aux	_	O
+11	n't	not	RB	_	13	neg	_	O
+12	actually	actually	RB	_	13	advmod	_	O
+13	finished	finish	VBN	_	4	conj	_	O
+14	Persona	persona	NNP	pos2=NN	13	dobj	_	O
+15	5	0	CD	_	14	nmod	_	U-CARDINAL
+16	yet	yet	RB	pos2=CC	13	advmod	_	O
+17	...	..	.	pos2=,	13	punct	_	O
+

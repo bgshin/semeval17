@@ -1,0 +1,24 @@
+1	@Maddow	@maddow	NNP	pos2=UH	2	compound	_	U-GPE
+2	@MSNBC	@msnbc	NN	pos2=$	4	compound	_	O
+3	@CNN	@cnn	NNP	pos2=ADD	4	compound	_	U-ORG
+4	@CivilRights	@civilrights	NNS	pos2=NNPS	5	nsubj	_	O
+5	@NYT	@nyt	VBD	pos2=NNP	0	root	_	O
+6	Damn	damn	NNP	pos2=RB	5	discourse	_	O
+7	the	the	DT	_	10	det	_	O
+8	smooth	smooth	JJ	_	10	nmod	_	O
+9	transition	transition	NN	_	10	compound	_	O
+10	@POTUS	@potus	NN	pos2=NNP	6	appos	_	O
+11	.	.	.	_	5	punct	_	O
+
+1	Nothing	nothing	NN	_	0	root	_	O
+2	smooth	smooth	JJ	_	1	nmod	_	O
+3	about	about	IN	_	2	prep	_	O
+4	racism	racism	NN	_	3	pobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	Trump	trump	NN	pos2=NNP	3	nsubj	_	U-ORG
+2	has	have	VBZ	_	3	aux	_	O
+3	giv	giv	VBN	pos2=GW	0	root	_	O
+4	…	…	NFP	pos2=-LRB-	3	punct	_	O
+5	https://t.co/EHFmh8xYbx	#hlink#	ADD	_	3	dep	_	O
+

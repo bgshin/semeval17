@@ -1,0 +1,25 @@
+1	All	all	DT	pos2=PDT	2	det	_	O
+2	CSG	csg	NN	pos2=NNP	8	nsubj	_	O
+3	and	and	CC	_	2	cc	_	O
+4	Fracking	fracking	VBG	pos2=NNP	2	conj	_	O
+5	all	all	RB	pos2=DT	6	advmod	_	O
+6	around	around	IN	pos2=RB	4	prep	_	O
+7	Australia	australia	NNP	_	6	pobj	_	U-GPE
+8	is	be	VBZ	_	0	root	_	O
+9	to	to	TO	_	10	aux	_	O
+10	cease	cease	VB	_	8	xcomp	_	O
+11	and	and	CC	_	8	cc	_	O
+12	Mining	mining	NNP	pos2=NN	13	compound	_	B-ORG
+13	Entities	entity	NNPS	pos2=NNS	14	nsubj	_	L-ORG
+14	held	hold	VBD	pos2=VBN	8	conj	_	O
+15	Accountable	accountable	JJ	pos2=NNP	14	oprd	_	O
+16	!	!	.	_	14	punct	_	O
+
+1	-	-	SYM	pos2=NFP	2	punct	_	O
+2	Sign	sign	VB	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	Petition	petition	NN	_	2	dobj	_	O
+5	!	!	.	_	2	punct	_	O
+
+1	https://t.co/PUzPgId7CG	#hlink#	ADD	_	0	root	_	U-ORG
+

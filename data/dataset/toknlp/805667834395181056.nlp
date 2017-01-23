@@ -1,0 +1,9 @@
+1	@Jimparedes	@jimparedes	VBZ	pos2=ADD	0	root	_	O
+2	euthanasia	euthanasia	NN	_	1	dobj	_	O
+3	for	for	IN	_	1	prep	_	O
+4	those	those	DT	_	3	pobj	_	O
+5	who	who	WP	_	8	nsubj	_	O
+6	are	be	VBP	_	8	aux	_	O
+7	barely	barely	RB	_	8	advmod	_	O
+8	living	live	VBG	pos2=JJ	4	relcl	_	O
+

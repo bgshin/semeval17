@@ -1,0 +1,20 @@
+1	End	end	NN	_	2	compound	_	O
+2	Prohibition	prohibition	NN	_	4	dep	_	O
+3	:	:	:	_	4	punct	_	O
+4	Donate	donate	VB	_	0	root	_	O
+5	To	to	IN	_	4	prep	_	O
+6	The	the	DT	_	8	det	_	B-ORG
+7	New	new	NNP	_	8	compound	_	I-ORG
+8	Approach	approach	NNP	_	5	pobj	_	I-ORG
+9	Missouri	missouri	NNP	_	8	npadvmod	_	I-ORG
+10	2016	0	CD	_	11	nmod	_	I-ORG
+11	Medical	medical	NNP	pos2=JJ	8	appos	_	L-ORG
+12	...	..	.	pos2=,	4	punct	_	O
+
+1	https://t.co/RRQl5SE4WV	#hlink#	ADD	_	0	root	_	O
+2	#endprohibition	#endprohibition	NN	pos2=-RRB-	1	vocative	_	O
+3	,	,	,	_	2	punct	_	O
+4	#cannabis	#cannabis	NN	pos2=UH	2	conj	_	O
+5	,	,	,	_	4	punct	_	O
+6	#marijuana	#marijuana	UH	pos2=NN	4	discourse	_	O
+

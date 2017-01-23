@@ -1,0 +1,28 @@
+1	Fossil	fossil	NN	pos2=JJ	2	compound	_	O
+2	fuels	fuel	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	one	#crd#	CD	_	3	attr	_	U-CARDINAL
+5	of	of	IN	_	4	prep	_	O
+6	the	the	DT	_	11	det	_	O
+7	currently	currently	RB	_	10	advmod	_	O
+8	socially	socially	RB	_	10	advmod	_	O
+9	-	-	HYPH	_	10	punct	_	O
+10	acceptable	acceptable	JJ	_	11	nmod	_	O
+11	targets	target	NNS	_	5	pobj	_	O
+12	for	for	IN	_	11	prep	_	O
+13	righteous	righteous	JJ	_	15	nmod	_	O
+14	group	group	NN	_	15	compound	_	O
+15	tantrumming	tantrumming	NN	pos2=VBG	12	pobj	_	O
+16	.	.	.	_	3	punct	_	O
+
+1	Offshore	offshore	JJ	pos2=RB	3	nmod	_	O
+2	wind	wind	NN	_	3	compound	_	O
+3	farms	farm	NNS	_	8	nsubj	_	O
+4	,	,	,	_	8	punct	_	O
+5	for	for	IN	_	8	prep	_	O
+6	example	example	NN	_	5	pobj	_	O
+7	,	,	,	_	8	punct	_	O
+8	are	be	VBP	_	0	root	_	O
+9	n't	not	RB	_	8	neg	_	O
+10	.	.	.	_	8	punct	_	O
+

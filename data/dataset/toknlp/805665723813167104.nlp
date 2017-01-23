@@ -1,0 +1,15 @@
+1	Jill	jill	NNP	_	2	compound	_	B-PERSON
+2	STEIN	stein	NNP	pos2=NN	5	vocative	_	L-PERSON
+3	WHY	why	WRB	_	5	advmod	_	O
+4	YOU	you	PRP	_	5	nsubj	_	O
+5	DO	do	VBP	_	9	aux	_	O
+6	ME	me	PRP	pos2=NNP	5	dative	_	O
+7	A	a	DT	_	8	det	_	O
+8	FAVOR	favor	NN	pos2=NNP	9	nsubj	_	O
+9	GO	go	VB	pos2=VBP	0	root	_	O
+10	RECOUNT	recount	NN	pos2=VB	12	compound	_	O
+11	FIDEL	fidel	NNP	_	12	compound	_	B-PERSON
+12	CASTRO	castro	NNP	_	14	poss	_	L-PERSON
+13	S	s	POS	pos2=NNP	12	case	_	O
+14	BALLS	ball	NNS	pos2=NNPS	9	dobj	_	O
+

@@ -1,0 +1,21 @@
+1	@sovykurosei	@sovykurosei	UH	pos2=LS	3	discourse	_	O
+2	@EvolusStarsider	@evolusstarsider	RBR	pos2=NN	3	punct	_	O
+3	nope	nope	UH	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Obamacare	obamacare	NNP	pos2=NN	3	nsubj	_	U-ORG
+2	would	would	MD	_	3	aux	_	O
+3	cost	cost	VB	_	0	root	_	O
+4	me	me	PRP	_	3	dative	_	O
+5	$	$	$	_	6	nmod	_	O
+6	500	0	CD	_	7	nmod	_	B-MONEY
+7	bucks	buck	NNS	_	3	dobj	_	L-MONEY
+8	.	.	.	_	3	punct	_	O
+
+1	Company	company	NN	pos2=NNP	2	nsubj	_	O
+2	offered	offer	VBD	pos2=VBN	0	root	_	O
+3	healthcsre	healthcsre	RB	pos2=NN	2	advmod	_	O
+4	for	for	IN	_	2	prep	_	O
+5	200	0	CD	_	6	nmod	_	U-CARDINAL
+6	minimum	minimum	NN	pos2=JJ	4	pobj	_	O
+

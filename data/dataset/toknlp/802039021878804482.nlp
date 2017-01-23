@@ -1,0 +1,11 @@
+1	Roots	root	NNS	_	0	root	_	O
+2	and	and	CC	_	1	cc	_	O
+3	Jill	jill	NNP	_	4	compound	_	B-PERSON
+4	Scott	scott	NNP	_	1	conj	_	L-PERSON
+5	!	!	.	_	1	punct	_	O
+
+1	Fyah	fyah	NNP	pos2=NN	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+

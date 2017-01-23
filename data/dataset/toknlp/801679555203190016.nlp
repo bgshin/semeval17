@@ -1,0 +1,19 @@
+1	For	for	IN	_	6	prep	_	O
+2	most	most	JJS	_	1	pobj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	us	us	PRP	pos2=JJR	3	pobj	_	O
+5	life	life	NN	_	6	nsubj	_	O
+6	goes	go	VBZ	_	0	root	_	O
+7	on	on	RP	pos2=IN	6	prt	_	O
+8	in	in	IN	_	6	prep	_	O
+9	one	#crd#	CD	_	10	nmod	_	U-CARDINAL
+10	form	form	NN	_	8	pobj	_	O
+11	or	or	CC	_	10	cc	_	O
+12	another	another	DT	_	10	conj	_	O
+13	.	.	.	_	6	punct	_	O
+
+1	#mosulappeal	#mosulappeal	UH	pos2=XX	4	nmod	_	O
+2	#MosulOffensive	#mosuloffensive	GW	pos2=JJ	4	nmod	_	O
+3	#Iraq	#iraq	GW	pos2=-LRB-	4	nmod	_	U-MONEY
+4	https://t.co/cLPXL6EWbO	#hlink#	ADD	pos2=NN	0	root	_	O
+

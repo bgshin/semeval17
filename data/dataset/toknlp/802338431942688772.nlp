@@ -1,0 +1,25 @@
+1	@YerboutiSheik	@yerboutisheik	ADD	pos2=VB	16	nsubj	_	O
+2	@PrisonPlanet	@prisonplanet	NN	pos2=ADD	1	dobj	_	O
+3	and	and	CC	_	1	cc	_	O
+4	they	they	PRP	_	6	nsubj	_	O
+5	are	be	VBP	_	6	aux	_	O
+6	howling	howl	VBG	_	1	conj	_	O
+7	he	he	PRP	_	9	nsubj	_	O
+8	is	be	VBZ	_	9	aux	_	O
+9	picking	pick	VBG	_	6	ccomp	_	O
+10	"	"	``	_	12	punct	_	O
+11	other	other	JJ	_	12	nmod	_	O
+12	millionaires	millionaire	NNS	_	9	dobj	_	O
+13	"	"	''	_	12	punct	_	O
+14	-	-	,	pos2=SYM	16	punct	_	O
+15	apparently	apparently	RB	_	16	advmod	_	O
+16	was	be	VBD	_	0	root	_	O
+17	not	not	RB	_	16	neg	_	O
+18	a	a	DT	_	19	det	_	O
+19	problem	problem	NN	_	16	attr	_	O
+20	with	with	IN	_	19	prep	_	O
+21	Obama	obama	NNP	_	23	poss	_	U-PERSON
+22	's	's	POS	_	21	case	_	O
+23	admin	admin	NN	_	20	pobj	_	O
+24	...	..	.	pos2=,	16	punct	_	O
+

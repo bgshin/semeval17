@@ -1,0 +1,14 @@
+1	@POPPER722	@popper0	NN	pos2=NNS	3	punct	_	O
+2	@ElectoralCollge	@electoralcollge	ADD	pos2=XX	3	punct	_	O
+3	@POTUS	@potus	NN	pos2=ADD	4	compound	_	O
+4	@whitebg19611	@whitebg0	NN	pos2=CD	8	compound	_	O
+5	@starfirst	@starfirst	RB	pos2=UH	12	advmod	_	O
+6	@Flipboard	@flipboard	NNP	pos2=IN	8	compound	_	B-ORG
+7	Yup&Comey	yup&comey	NNP	pos2=XX	8	compound	_	I-ORG
+8	#FBITrumpland	#fbitrumpland	NNP	pos2=ADD	12	nsubjpass	_	L-ORG
+9	should	should	MD	_	12	aux	_	O
+10	've	have	VB	_	12	aux	_	O
+11	been	be	VBN	_	12	auxpass	_	O
+12	stopped&PutinHack	stopped&putinhack	VBN	pos2=ADD	0	root	_	O
+13	takenSerious	takenserious	JJ	pos2=.	12	oprd	_	O
+

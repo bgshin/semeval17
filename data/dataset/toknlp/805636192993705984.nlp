@@ -1,0 +1,26 @@
+1	If	if	IN	_	5	mark	_	O
+2	you	you	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	like	like	VB	_	11	advcl	_	O
+6	Gay	gay	NNP	pos2=JJ	7	compound	_	U-ORG
+7	marriage	marriage	NN	_	5	dobj	_	O
+8	,	,	,	_	11	punct	_	O
+9	do	do	VB	pos2=VBP	11	aux	_	O
+10	n't	not	RB	_	11	neg	_	O
+11	marry	marry	VB	_	0	root	_	O
+12	someone	someone	NN	_	11	dobj	_	O
+13	the	the	DT	_	15	det	_	O
+14	same	same	JJ	_	15	nmod	_	O
+15	sex	sex	NN	_	11	dobj	_	O
+16	as	as	IN	_	11	prep	_	O
+17	you	you	PRP	_	16	pobj	_	O
+18	.	.	.	_	11	punct	_	O
+
+1	Problem	problem	NN	_	2	nsubj	_	O
+2	solved	solve	VBN	pos2=VBD	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	#Atheism	#atheism	-LRB-	pos2=NFP	2	punct	_	O
+2	https://t.co/DoMGxVIf5J	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

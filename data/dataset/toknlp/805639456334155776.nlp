@@ -1,0 +1,17 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	wan	wan	VBP	_	0	root	_	O
+3	na	to	TO	_	4	aux	_	O
+4	live	live	VB	pos2=VBP	2	xcomp	_	O
+5	in	in	IN	_	4	prep	_	O
+6	a	a	DT	_	7	det	_	O
+7	world	world	NN	_	5	pobj	_	O
+8	where	where	WRB	_	14	advmod	_	O
+9	Vanessa	vanessa	NNP	_	10	compound	_	B-PERSON
+10	Hudgens	hudgens	NNP	_	14	nsubj	_	L-PERSON
+11	and	and	CC	_	10	cc	_	O
+12	Zac	zac	NNP	_	13	compound	_	B-PERSON
+13	Efron	efron	NNP	_	10	conj	_	L-PERSON
+14	get	get	VB	pos2=VBP	4	advcl	_	O
+15	back	back	RB	pos2=RP	14	advmod	_	O
+16	together	together	RB	_	14	advmod	_	O
+

@@ -1,0 +1,22 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	horrible	horrible	JJ	_	2	acomp	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	that	that	DT	pos2=IN	4	det	_	O
+4	wall	wall	NN	_	2	dobj	_	O
+5	on	on	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	border	border	NN	_	5	pobj	_	O
+8	ASAP	asap	RB	_	2	advmod	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	https	http	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	//	//	NFP	pos2=-LRB-	6	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	JC5QPjdMR7	jc0qpjdmr0	NN	pos2=NNS	0	root	_	O
+

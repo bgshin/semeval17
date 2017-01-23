@@ -1,0 +1,20 @@
+1	@DAccampoFamily	@daccampofamily	RB	pos2=NN	4	advmod	_	O
+2	@CLF3rd	@clf0rd	NN	pos2=CD	3	compound	_	O
+3	abortion	abortion	NN	_	4	nsubj	_	O
+4	has	have	VBZ	_	13	advcl	_	O
+5	nothing	nothing	NN	_	4	dobj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	do	do	VB	_	5	relcl	_	O
+8	with	with	IN	_	7	prep	_	O
+9	evolution	evolution	NN	_	8	pobj	_	O
+10	,	,	,	_	13	punct	_	O
+11	women	woman	NNS	_	13	nsubj	_	O
+12	were	be	VBD	_	13	aux	_	O
+13	having	have	VBG	_	0	root	_	O
+14	abortions	abortion	NNS	_	13	dobj	_	O
+15	before	before	IN	_	18	mark	_	O
+16	evolution	evolution	NN	_	18	nsubjpass	_	O
+17	was	be	VBD	_	18	auxpass	_	O
+18	understood	understand	VBN	_	13	advcl	_	O
+19	.	.	.	_	13	punct	_	O
+

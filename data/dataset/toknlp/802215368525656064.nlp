@@ -1,0 +1,8 @@
+1	Hope	hope	VBP	pos2=VB	0	root	_	O
+2	everyone	everyone	NN	_	3	nsubj	_	O
+3	had	have	VBD	_	1	ccomp	_	O
+4	a	a	DT	_	6	det	_	O
+5	good	good	JJ	_	6	nmod	_	O
+6	Thanksgiving	thanksgiving	NNP	pos2=NN	7	nmod	_	U-DATE
+7	https://t.co/F4dZfZRgaW	#hlink#	ADD	pos2=NN	3	dobj	_	O
+

@@ -1,0 +1,16 @@
+1	#Aleppo	#aleppo	NN	pos2=FW	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	Opposition	opposition	NN	_	5	nsubj	_	O
+4	have	have	VBP	_	5	aux	_	O
+5	taken	take	VBN	_	0	root	_	O
+6	25	0	CD	_	8	nmod	_	U-CARDINAL
+7	Iranians	iranian	NNPS	_	8	compound	_	U-NORP
+8	prisoner	prisoner	NN	pos2=RB	5	dobj	_	O
+9	including	include	VBG	_	5	prep	_	O
+10	a	a	DT	_	14	det	_	O
+11	high	high	RB	pos2=NN	13	advmod	_	O
+12	-	-	HYPH	_	13	punct	_	O
+13	ranking	rank	VBG	_	14	nmod	_	O
+14	officer	officer	NN	_	9	pobj	_	O
+15	.	.	.	_	5	punct	_	O
+

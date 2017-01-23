@@ -1,0 +1,14 @@
+1	For	for	IN	_	4	mark	_	O
+2	Democrats	democrat	NNPS	_	4	nsubj	_	U-NORP
+3	to	to	TO	_	4	aux	_	O
+4	recover	recover	VB	_	12	advcl	_	O
+5	,	,	,	_	12	punct	_	O
+6	Nancy	nancy	NNP	_	7	compound	_	B-PERSON
+7	Pelosi	pelosi	NNP	_	12	nsubj	_	L-PERSON
+8	and	and	CC	_	7	cc	_	O
+9	her	her	PRP$	_	10	poss	_	O
+10	team	team	NN	_	7	conj	_	O
+11	should	should	MD	_	12	aux	_	O
+12	go	go	VB	_	0	root	_	O
+13	https://t.co/dGVF1RKT1z	#hlink#	ADD	_	12	npadvmod	_	O
+

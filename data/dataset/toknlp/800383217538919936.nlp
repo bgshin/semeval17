@@ -1,0 +1,16 @@
+1	Celebrate	celebrate	VB	pos2=VBP	0	root	_	O
+2	the	the	DT	_	4	det	_	O
+3	#NBAwards	#nbawards	JJ	pos2=NNP	4	nmod	_	U-NORP
+4	nominees	nominee	NNS	_	1	dobj	_	O
+5	past	past	JJ	pos2=NN	4	nmod	_	O
+6	and	and	CC	_	5	cc	_	O
+7	present	present	JJ	pos2=VBP	5	conj	_	O
+8	with	with	IN	_	1	prep	_	O
+9	related	related	JJ	pos2=VBN	10	nmod	_	O
+10	videos	video	NNS	_	8	pobj	_	O
+11	in	in	IN	_	10	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	#PWTheater	#pwtheater	GW	pos2=NFP	11	pobj	_	O
+14	https://t.co/qk9EIL9Jjy	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/30eNu5kolW	#hlink#	ADD	_	1	dep	_	O
+

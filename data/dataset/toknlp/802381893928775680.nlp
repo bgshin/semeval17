@@ -1,0 +1,22 @@
+1	Pre	pre	AFX	pos2=NNP	3	nmod	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	#ACA	#aca	NN	_	6	dep	_	O
+4	:	:	:	_	6	punct	_	O
+5	50,000	0	CD	_	6	nmod	_	U-CARDINAL
+6	Americans	american	NNPS	pos2=NNS	9	nsubj	_	U-NORP
+7	per	per	IN	_	6	prep	_	O
+8	year	year	NN	_	7	pobj	_	O
+9	die	die	VBP	pos2=NN	0	root	_	O
+10	due	due	IN	pos2=JJ	9	prep	_	O
+11	to	to	IN	_	10	pcomp	_	O
+12	lack	lack	NN	_	10	pobj	_	O
+13	of	of	IN	pos2=RB	12	prep	_	O
+14	or	or	CC	pos2=DT	12	cc	_	O
+15	inadequate	inadequate	JJ	_	16	nmod	_	O
+16	access	access	NN	_	12	conj	_	O
+17	to	to	IN	_	16	prep	_	O
+18	#healthcare	#healthcare	NN	pos2=NNP	21	compound	_	O
+19	-	-	HYPH	pos2=:	21	punct	_	O
+20	Michael	michael	NNP	_	21	compound	_	B-PERSON
+21	Moore	moore	NNP	_	17	pobj	_	L-PERSON
+

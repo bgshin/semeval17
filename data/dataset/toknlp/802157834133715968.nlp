@@ -1,0 +1,13 @@
+1	Hillary	hillary	NNP	_	2	compound	_	B-PERSON
+2	Clinton	clinton	NNP	_	3	nsubj	_	L-PERSON
+3	Met	meet	VBD	pos2=NNP	0	root	_	O
+4	With	with	IN	_	3	prep	_	O
+5	A	a	DT	pos2=NNP	7	det	_	O
+6	Heartwarming	heartwarming	JJ	pos2=NNP	7	nmod	_	O
+7	Surprise	surprise	NN	pos2=NNP	4	pobj	_	O
+8	On	on	IN	_	7	prep	_	O
+9	Thanksgiving	thanksgiving	NNP	_	10	compound	_	B-DATE
+10	Day	day	NNP	pos2=NN	8	pobj	_	L-DATE
+11	#StillWithHer	#stillwithher	ADD	pos2=GW	12	dep	_	O
+12	https://t.co/trn5HGwDtI	#hlink#	ADD	_	3	npadvmod	_	O
+

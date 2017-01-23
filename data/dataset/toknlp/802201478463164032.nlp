@@ -1,0 +1,34 @@
+1	Having	have	VBG	_	2	aux	_	O
+2	worked	work	VBN	pos2=VBD	10	advcl	_	O
+3	in	in	IN	_	2	prep	_	O
+4	a	a	DT	_	6	det	_	O
+5	HUD	hud	NNP	_	6	compound	_	U-ORG
+6	agency	agency	NN	_	3	pobj	_	O
+7	for	for	IN	_	2	prep	_	O
+8	3	0	CD	_	9	nmod	_	B-DATE
+9	yrs	yr	NNS	_	7	pobj	_	L-DATE
+10	gave	give	VBD	_	0	root	_	O
+11	me	me	PRP	_	10	dative	_	O
+12	a	a	DT	_	14	det	_	O
+13	wide	wide	JJ	_	14	nmod	_	O
+14	array	array	NN	_	10	dobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	insight	insight	NN	_	15	pobj	_	O
+17	&	&	CC	_	16	cc	_	O
+18	knowledge	knowledge	NN	_	16	conj	_	O
+19	on	on	IN	_	16	prep	_	O
+20	housing	housing	NN	_	21	compound	_	O
+21	issues	issue	NNS	_	19	pobj	_	O
+22	.	.	.	_	10	punct	_	O
+
+1	All	all	DT	pos2=RB	2	advmod	_	O
+2	important	important	JJ	pos2=RB	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	So	so	RB	pos2=IN	3	advmod	_	O
+2	Ben	ben	NNP	_	3	compound	_	B-PERSON
+3	Carson	carson	NNP	_	0	root	_	L-PERSON
+4	?	?	.	_	3	punct	_	O
+
+1	😳😲WHY	😳😲why	NN	pos2=NNP	0	root	_	O
+

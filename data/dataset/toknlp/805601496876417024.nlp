@@ -1,0 +1,17 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=ADD	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	from	from	IN	_	2	prep	_	O
+7	@jref	@jref	ADD	pos2=NFP	6	pobj	_	O
+8	https://t.co/5Z1lO3g1R4	#hlink#	ADD	pos2=IN	6	pobj	_	O
+9	The	the	DT	_	14	det	_	O
+10	Randi	randi	NNP	_	14	compound	_	O
+11	Show	show	NNP	_	14	compound	_	O
+12	-	-	HYPH	pos2=:	14	punct	_	O
+13	Dr.	dr.	NNP	_	14	compound	_	O
+14	Oz	oz	NNP	_	6	pobj	_	O
+15	and	and	CC	_	14	cc	_	O
+16	Homeopathy	homeopathy	NNP	pos2=NN	14	conj	_	U-WORK_OF_ART
+

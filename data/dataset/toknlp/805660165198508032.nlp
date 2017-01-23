@@ -1,0 +1,9 @@
+1	the	the	DT	_	3	det	_	O
+2	gold	gold	NN	pos2=JJ	3	compound	_	O
+3	standard	standard	NN	_	4	nsubj	_	O
+4	was	be	VBD	_	0	root	_	O
+5	a	a	DT	_	7	det	_	O
+6	terrible	terrible	JJ	_	7	nmod	_	O
+7	idea	idea	NN	_	4	attr	_	O
+8	💅	💅	.	pos2=NN	4	punct	_	O
+

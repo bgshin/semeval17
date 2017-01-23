@@ -1,0 +1,16 @@
+1	Fans	fan	NNS	pos2=NNP	4	compound	_	O
+2	Mistake	mistake	NNP	pos2=VBP	4	compound	_	O
+3	Mark	mark	NNP	_	4	compound	_	B-PERSON
+4	Wright	wright	NNP	_	0	root	_	L-PERSON
+5	For	for	IN	_	4	prep	_	O
+6	Zac	zac	NNP	_	7	compound	_	B-PERSON
+7	Efron	efron	NNP	_	5	pobj	_	L-PERSON
+8	After	after	IN	_	10	mark	_	O
+9	He	he	PRP	pos2=NNP	10	nsubj	_	O
+10	Posts	post	VBZ	pos2=NNPS	5	csubj	_	O
+11	Impressive	impressive	JJ	pos2=NNP	13	nmod	_	O
+12	Throwback	throwback	NNP	pos2=NN	13	compound	_	U-ORG
+13	Photo	photo	NN	pos2=GW	10	dobj	_	O
+14	#star	#star	GW	pos2=XX	15	nmod	_	O
+15	https://t.co/jqaO0c3Bmd	#hlink#	ADD	pos2=NN	13	appos	_	O
+

@@ -1,0 +1,17 @@
+1	Western	western	JJ	_	3	nmod	_	O
+2	ISIS	isis	NNP	pos2=NN	3	compound	_	U-ORG
+3	adventurism	adventurism	NN	_	16	dep	_	O
+4	,	,	,	_	3	punct	_	O
+5	Israel	israel	NNP	_	3	appos	_	U-GPE
+6	behind	behind	IN	_	5	prep	_	O
+7	Hamas	hamas	NNP	_	6	pobj	_	U-ORG
+8	:	:	:	_	16	punct	_	O
+9	Assange	assange	NNP	pos2=JJ	10	compound	_	U-PERSON
+10	revelations	revelation	NNS	pos2=VBZ	16	dep	_	O
+11	https://t.co/IChFq7gF7T	#hlink#	ADD	pos2=VBP	10	acl	_	O
+12	#assange	#assange	-RRB-	pos2=IN	10	punct	_	O
+13	#hamas	#hamas	UH	pos2=NNPS	10	discourse	_	O
+14	#israel	#israel	UH	pos2=FW	16	discourse	_	O
+15	#palestine	#palestine	UH	pos2=PRP	16	discourse	_	O
+16	#BDS	#bds	NNS	pos2=UH	0	root	_	O
+

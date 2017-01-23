@@ -1,0 +1,17 @@
+1	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=NNP	5	cc	_	O
+2	Should	should	MD	_	5	aux	_	O
+3	we	we	PRP	_	5	nsubj	_	O
+4	be	be	VB	_	5	aux	_	O
+5	promoting	promote	VBG	_	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	industry	industry	NN	_	5	dobj	_	O
+8	that	that	WDT	_	10	nsubj	_	O
+9	has	have	VBZ	_	10	aux	_	O
+10	led	lead	VBN	_	7	relcl	_	O
+11	to	to	IN	_	10	prep	_	O
+12	obesity	obesity	NN	_	11	pobj	_	O
+13	,	,	,	_	12	punct	_	O
+14	high	high	JJ	_	15	nmod	_	O
+15	cholesterol?#letsmakeamericaskinnyagain	cholesterol?#letsmakeamericaskinnyagain	NN	pos2=XX	12	conj	_	O
+16	@veganfuture	@veganfuture	UH	pos2=NN	5	discourse	_	O
+

@@ -1,0 +1,17 @@
+1	@ezlusztig	@ezlusztig	UH	pos2=XX	4	discourse	_	O
+2	@HouseOfMichele	@houseofmichele	ADD	pos2=UH	4	vocative	_	U-PERSON
+3	@greenhousenyt	@greenhousenyt	WP	pos2=UH	4	nsubj	_	O
+4	Is	be	VBZ	_	0	root	_	O
+5	that	that	DT	_	4	nsubj	_	O
+6	what	what	WP	_	8	dobj	_	O
+7	you	you	PRP	_	8	nsubj	_	O
+8	call	call	VBP	_	4	ccomp	_	O
+9	ignorant	ignorant	JJ	_	11	nmod	_	O
+10	white	white	JJ	_	11	nmod	_	O
+11	trash	trash	NN	_	8	oprd	_	O
+12	these	these	DT	_	13	det	_	B-DATE
+13	days	day	NNS	_	8	npadvmod	_	L-DATE
+14	,	,	,	_	15	punct	_	O
+15	conservatives	conservative	NNS	_	8	oprd	_	O
+16	?	?	.	_	4	punct	_	O
+

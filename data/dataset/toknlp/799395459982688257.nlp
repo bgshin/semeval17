@@ -1,0 +1,28 @@
+1	China	china	NNP	_	2	nsubj	_	U-GPE
+2	blocks	block	VBZ	pos2=NNS	0	root	_	O
+3	searches	search	NNS	pos2=NN	2	dobj	_	O
+4	for	for	IN	_	3	prep	_	O
+5	'	'	``	_	12	punct	_	O
+6	Fatty	fatty	JJ	pos2=NNP	12	nmod	_	O
+7	'	'	''	pos2=POS	12	punct	_	O
+8	Kim	kim	NNP	_	11	compound	_	O
+9	Jong	jong	NNP	_	11	compound	_	O
+10	-	-	HYPH	_	11	punct	_	O
+11	un	un	NNP	pos2=JJ	12	compound	_	O
+12	nickname	nickname	NN	_	4	pobj	_	O
+13	online	online	RB	pos2=NN	2	advmod	_	O
+14	.	.	.	_	2	punct	_	O
+
+1	Kim	kim	NNP	_	2	compound	_	B-PERSON
+2	Fatty	fatty	NNP	pos2=JJ	0	root	_	L-PERSON
+3	the	the	DT	_	4	det	_	O
+4	Third	#ord#	NNP	pos2=NNPS	2	appos	_	U-ORDINAL
+5	....	..	.	pos2=,	2	punct	_	O
+
+1	brilliant	brilliant	JJ	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	#kimfatty	#kimfatty	UH	pos2=XX	3	discourse	_	O
+2	#china	#china	UH	pos2=FW	3	discourse	_	O
+3	#kimjongun	#kimjongun	UH	pos2=FW	0	root	_	O
+

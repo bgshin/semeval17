@@ -1,0 +1,30 @@
+1	@Dwarfpoo	@dwarfpoo	NNP	pos2=UH	2	compound	_	B-PERSON
+2	@ZainaErhaim	@zainaerhaim	NNP	pos2=XX	8	vocative	_	L-PERSON
+3	What	what	WP	pos2=WDT	6	det	_	O
+4	a	a	DT	_	6	det	_	O
+5	satanic	satanic	JJ	_	6	nmod	_	O
+6	P.O.S.	p.o.s.	NN	pos2=NNP	8	attr	_	O
+7	you	you	PRP	_	8	nsubj	_	O
+8	are	be	VBP	_	0	root	_	O
+9	.	.	.	_	8	punct	_	O
+
+1	Wanting	want	VBG	_	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	see	see	VB	_	1	xcomp	_	O
+4	Bana	bana	NNP	_	7	poss	_	U-PERSON
+5	's	's	POS	_	4	case	_	O
+6	dead	dead	JJ	_	7	nmod	_	O
+7	body	body	NN	_	3	dobj	_	O
+8	in	in	IN	_	3	prep	_	O
+9	East	east	NNP	pos2=JJ	10	compound	_	B-GPE
+10	#ALEPPO	#aleppo	NNP	pos2=XX	8	pobj	_	L-GPE
+11	,	,	,	_	10	punct	_	O
+12	#SYRIA	#syria	NNP	pos2=XX	7	appos	_	U-GPE
+13	now	now	RB	_	15	advmod	_	O
+14	to	to	TO	_	15	aux	_	O
+15	prove	prove	VB	_	3	advcl	_	O
+16	she	she	PRP	_	17	nsubj	_	O
+17	was	be	VBD	_	15	ccomp	_	O
+18	there	there	RB	_	17	advmod	_	O
+19	.	.	.	_	1	punct	_	O
+

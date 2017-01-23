@@ -1,0 +1,31 @@
+1	@normative	@normative	UH	pos2=VB	2	discourse	_	O
+2	Better	good	JJR	pos2=RBR	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	see	see	VB	_	2	advcl	_	O
+5	"	"	``	pos2=''	2	punct	_	O
+6	alt	alt	JJ	pos2=NN	8	nmod	_	O
+7	-	-	HYPH	_	8	punct	_	O
+8	rightists	rightist	NNS	_	4	dobj	_	O
+9	proudly	proudly	RB	_	10	advmod	_	O
+10	do	do	VBP	pos2=VB	14	ccomp	_	O
+11	Nazi	nazi	NNP	_	12	compound	_	U-NORP
+12	salute	salute	NN	pos2=VB	10	dobj	_	O
+13	"	"	''	pos2=``	12	punct	_	O
+14	than	than	IN	_	17	mark	_	O
+15	"	"	``	pos2=''	17	punct	_	O
+16	racists	racist	NNS	_	17	nsubj	_	O
+17	do	do	VBP	pos2=VB	20	acl	_	O
+18	it	it	PRP	_	17	dobj	_	O
+19	"	"	''	_	17	punct	_	O
+20	.	.	.	_	2	punct	_	O
+
+1	Keep	keep	VB	pos2=VBP	0	root	_	O
+2	their	their	PRP$	_	5	poss	_	O
+3	chosen	choose	VBN	_	5	nmod	_	O
+4	label	label	NN	_	5	compound	_	O
+5	assoc	assoc	NN	pos2=NNP	1	dobj	_	O
+6	w	w	IN	pos2=XX	1	prep	_	O
+7	their	their	PRP$	_	9	poss	_	O
+8	reviled	revile	VBN	pos2=JJ	9	nmod	_	O
+9	behavior	behavior	NN	_	6	pobj	_	O
+

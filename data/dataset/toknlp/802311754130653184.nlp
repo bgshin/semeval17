@@ -1,0 +1,18 @@
+1	Anti-Trump	anti-trump	JJ	pos2=NNP	2	nmod	_	O
+2	Protests	protest	NNS	pos2=NNPS	5	nsubj	_	O
+3	And	and	CC	_	2	cc	_	O
+4	Riots	riot	NNS	pos2=NNPS	2	conj	_	O
+5	Backfire	backfire	VBP	pos2=NNP	0	root	_	O
+6	!!	!!	.	_	5	punct	_	O
+
+1	Students	student	NNS	_	0	root	_	O
+2	Starting	start	VBG	pos2=NNP	1	acl	_	O
+3	To	to	TO	pos2=NNP	4	aux	_	O
+4	Realize	realize	VB	_	2	xcomp	_	O
+5	Th	th	NNP	pos2=UH	4	dobj	_	U-PERSON
+6	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/Twx2VvyDAg	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@YouTube	@youtube	NN	pos2=NNP	2	pobj	_	O
+

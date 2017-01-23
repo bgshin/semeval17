@@ -1,0 +1,17 @@
+1	Biden	biden	NNP	pos2=CD	2	compound	_	U-PERSON
+2	spokeswoman	spokeswoman	NN	_	7	dep	_	O
+3	:	:	:	_	7	punct	_	O
+4	VP	vp	NNP	pos2=NN	7	nsubj	_	U-ORG
+5	wo	wo	MD	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	run	run	VB	_	0	root	_	O
+8	DNC	dnc	NNP	pos2=NN	7	dobj	_	B-ORG
+9	https://t.co/cFlTo2I2U1	#hlink#	ADD	pos2=NN	8	appos	_	I-ORG
+10	#Trump2016	#trump0	-RRB-	pos2=NNS	7	punct	_	I-ORG
+11	#TrumpTrain	#trumptrain	ADD	pos2=NN	7	punct	_	L-ORG
+12	#GOP	#gop	XX	pos2=NFP	16	dep	_	O
+13	#ccot	#ccot	UH	pos2=XX	16	dep	_	O
+14	#tcot	#tcot	UH	pos2=XX	16	discourse	_	O
+15	#ThanksTrump	#thankstrump	XX	pos2=UH	16	dep	_	O
+16	#UniteBlue	#uniteblue	ADD	pos2=UH	11	pobj	_	O
+

@@ -1,0 +1,20 @@
+1	@Dinkypteryx	@dinkypteryx	NN	pos2=MD	3	vocative	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	hate	hate	VBP	_	0	root	_	O
+4	these	these	DT	_	8	det	_	O
+5	shitty	shitty	JJ	_	8	nmod	_	O
+6	fake	fake	JJ	_	8	nmod	_	O
+7	logic	logic	NN	pos2=JJ	8	compound	_	O
+8	arguements	arguements	NNS	_	3	dobj	_	O
+9	against	against	IN	_	8	prep	_	O
+10	self-driving	self-driving	JJ	pos2=NN	11	nmod	_	O
+11	cars	car	NNS	_	9	pobj	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	XD	xd	NNP	pos2=NN	3	vocative	_	O
+2	They	they	PRP	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	SO	so	RB	_	5	advmod	_	O
+5	DUMB	dumb	JJ	_	3	acomp	_	O
+6	!	!	.	_	3	punct	_	O
+

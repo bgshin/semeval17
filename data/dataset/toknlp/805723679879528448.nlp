@@ -1,0 +1,20 @@
+1	#Quoteoftheday	#quoteoftheday	NNP	pos2=NN	0	root	_	O
+2	by	by	IN	_	1	prep	_	O
+3	Pope	pope	NNP	_	4	compound	_	O
+4	Francis	francis	NNP	_	2	pobj	_	U-PERSON
+5	.	.	.	_	1	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	7	det	_	O
+4	266th	#ord#	JJ	pos2=NN	7	nmod	_	U-ORDINAL
+5	and	and	CC	_	4	cc	_	O
+6	current	current	JJ	_	4	conj	_	O
+7	Pope	pope	NNP	_	2	attr	_	O
+8	of	of	IN	_	7	prep	_	O
+9	the	the	DT	_	12	det	_	O
+10	Roman	roman	NNP	pos2=JJ	12	compound	_	O
+11	Catholic	catholic	NNP	pos2=JJ	12	compound	_	O
+12	Church	church	NNP	pos2=NN	8	pobj	_	O
+13	https://t.co/Df84DyOvGc	#hlink#	ADD	_	7	appos	_	O
+

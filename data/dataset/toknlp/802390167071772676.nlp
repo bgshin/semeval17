@@ -1,0 +1,25 @@
+1	8	0	CD	_	3	dep	_	U-CARDINAL
+2	essential	essential	JJ	_	3	nmod	_	O
+3	#tech	#tech	NN	pos2=NNS	24	dep	_	O
+4	for	for	IN	_	3	prep	_	O
+5	biz	biz	NN	_	4	pobj	_	O
+6	:	:	:	_	24	punct	_	O
+7	AI	ai	NNP	pos2=NN	24	dep	_	O
+8	,	,	,	_	7	punct	_	O
+9	VR	vr	NNP	pos2=NN	7	conj	_	U-ORG
+10	,	,	,	_	9	punct	_	O
+11	AR	ar	NNP	pos2=NN	9	conj	_	U-ORG
+12	,	,	,	_	11	punct	_	O
+13	Blockchain	blockchain	NNP	pos2=NN	11	conj	_	O
+14	,	,	,	_	13	punct	_	O
+15	IoT	iot	NNP	pos2=NN	13	conj	_	U-ORG
+16	,	,	,	_	15	punct	_	O
+17	Robot	robot	NNP	pos2=NN	15	conj	_	U-ORG
+18	,	,	,	_	17	punct	_	O
+19	Drones	drone	NNS	pos2=NNP	17	conj	_	O
+20	,	,	,	_	19	punct	_	O
+21	3	0	CD	_	24	dep	_	U-CARDINAL
+22	D	d	NN	pos2=NNP	24	dep	_	O
+23	Printing	print	VBG	pos2=GW	24	nmod	_	O
+24	https://t.co/8Zgod2pT3w	#hlink#	ADD	pos2=NNS	0	root	_	O
+

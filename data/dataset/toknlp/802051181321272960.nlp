@@ -1,0 +1,22 @@
+1	David	david	NNP	_	2	compound	_	B-PERSON
+2	Blaine	blaine	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	8	ccomp	_	O
+4	not	not	RB	_	3	neg	_	O
+5	magic	magic	NN	pos2=JJ	3	attr	_	O
+6	,	,	,	_	8	punct	_	O
+7	he	he	PRP	_	8	nsubj	_	O
+8	's	's	VBZ	_	0	root	_	O
+9	incredible	incredible	JJ	_	8	acomp	_	O
+10	.	.	.	_	8	punct	_	O
+
+1	Again	again	RB	_	4	advmod	_	O
+2	,	,	,	_	4	punct	_	O
+3	he	he	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	incredible	incredible	JJ	_	4	acomp	_	O
+6	,	,	,	_	4	punct	_	O
+7	but	but	CC	_	4	cc	_	O
+8	not	not	RB	_	9	neg	_	O
+9	magic	magic	NN	pos2=JJ	5	conj	_	O
+10	.	.	.	_	4	punct	_	O
+

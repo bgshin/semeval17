@@ -1,0 +1,16 @@
+1	BOOM	boom	NN	_	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	Mass	mass	NN	pos2=NNP	4	compound	_	O
+4	immigration	immigration	NN	_	6	nsubj	_	O
+5	has	have	VBZ	_	6	aux	_	O
+6	turned	turn	VBN	_	15	dep	_	O
+7	some	some	DT	_	9	det	_	O
+8	UK	uk	NNP	pos2=NN	9	compound	_	U-GPE
+9	towns	town	NNS	_	6	dobj	_	O
+10	into	into	IN	_	6	prep	_	O
+11	ghettos	ghetto	NNS	pos2=NN	10	pobj	_	O
+12	:	:	:	_	15	punct	_	O
+13	Bombshell	bombshell	NN	pos2=NNP	14	compound	_	O
+14	Report	report	NN	pos2=GW	15	dep	_	O
+15	https://t.co/eboaQxR8Yb	#hlink#	ADD	pos2=NN	0	root	_	U-TIME
+

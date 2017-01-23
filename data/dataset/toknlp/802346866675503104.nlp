@@ -1,0 +1,16 @@
+1	via	via	IN	pos2=FW	8	prep	_	O
+2	@AlexPoucher_com	@alexpoucher_com	NNP	pos2=ADD	7	poss	_	B-ORG
+3	&	&	CC	_	2	cc	_	I-ORG
+4	NYPost	nypost	NNP	pos2=NN	7	compound	_	I-ORG
+5	-	-	HYPH	pos2=:	7	punct	_	I-ORG
+6	Consumer	consumer	NNP	pos2=NN	7	compound	_	I-ORG
+7	Reports	report	NNPS	pos2=NNS	8	nsubj	_	L-ORG
+8	trashes	trash	VBZ	_	0	root	_	O
+9	Tesla	tesla	NNP	_	14	poss	_	U-ORG
+10	’s	's	POS	pos2=AFX	9	case	_	O
+11	‘	'	``	_	14	punct	_	O
+12	flawed	flawed	JJ	_	14	nmod	_	O
+13	’	'	''	_	14	punct	_	O
+14	Model	model	NN	pos2=NNP	8	dobj	_	O
+15	Xhttps://t.co/QWP5yaU99O	#hlink#	ADD	_	14	appos	_	U-ORG
+

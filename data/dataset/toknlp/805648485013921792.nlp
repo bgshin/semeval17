@@ -1,0 +1,16 @@
+1	Why	why	WRB	_	5	advmod	_	O
+2	Real	real	NNP	pos2=JJ	3	compound	_	B-ORG
+3	Madrid	madrid	NNP	_	5	nsubj	_	L-ORG
+4	should	should	MD	_	5	aux	_	O
+5	sell	sell	VB	_	0	root	_	O
+6	Cristiano	cristiano	NNP	_	7	compound	_	B-PERSON
+7	Ronaldo	ronaldo	NNP	_	5	dobj	_	L-PERSON
+8	back	back	RB	_	5	advmod	_	O
+9	to	to	IN	_	8	prep	_	O
+10	Man	man	NNP	_	11	compound	_	B-ORG
+11	United	united	NNP	_	9	pobj	_	L-ORG
+12	...	..	.	pos2=,	5	punct	_	O
+
+1	https://t.co/9r3AOQOyX6	#hlink#	ADD	_	2	nsubj	_	O
+2	#realmadrid	#realmadrid	FW	pos2=-RRB-	0	root	_	O
+

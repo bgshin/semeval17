@@ -1,0 +1,22 @@
+1	#WESTWORLD	#westworld	NNP	pos2=NFP	2	compound	_	O
+2	Dolores	dolores	NNP	_	3	nsubj	_	U-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	MF	mf	NNP	_	5	compound	_	O
+5	Wyatt	wyatt	NNP	_	6	compound	_	U-PERSON
+6	mutherfuckerrrrrrr	mutherfuckerrrrrrr	NN	pos2=IN	3	attr	_	O
+7	I	I	PRP	_	10	nsubj	_	O
+8	do	do	VBP	_	10	aux	_	O
+9	n't	not	RB	_	10	neg	_	O
+10	think	think	VB	_	6	parataxis	_	O
+11	I	I	PRP	_	13	nsubj	_	O
+12	've	have	VBP	_	13	aux	_	O
+13	guessed	guess	VBN	_	10	ccomp	_	O
+14	one	#crd#	CD	pos2=NN	16	nmod	_	U-CARDINAL
+15	MF	mf	NN	pos2=NNP	16	compound	_	O
+16	thing	thing	NN	_	13	dobj	_	O
+17	I	I	PRP	_	18	nsubj	_	O
+18	love	love	VBP	_	16	relcl	_	O
+19	shows	show	VBZ	pos2=NNS	16	relcl	_	O
+20	like	like	IN	_	19	prep	_	O
+21	this	this	DT	_	20	pobj	_	O
+

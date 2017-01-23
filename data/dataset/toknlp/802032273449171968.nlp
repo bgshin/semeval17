@@ -1,0 +1,16 @@
+1	#LOLMuslims:#Hamas	#lolmuslims:#hamas	JJ	pos2=NN	2	nmod	_	O
+2	leader	leader	NN	_	6	dep	_	O
+3	:	:	:	_	6	punct	_	O
+4	Trump	trump	NNP	pos2=NN	6	nsubj	_	U-ORG
+5	may	may	MD	_	6	aux	_	O
+6	be	be	VB	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	Jew	jew	NNP	_	6	attr	_	U-NORP
+9	|	|	,	pos2=SYM	6	punct	_	O
+10	@JTA	@jta	NFP	pos2=ADD	12	punct	_	O
+11	newshttps://t.co/7gSOsJKjmy#Palestinians	#hlink#	ADD	_	12	nsubj	_	O
+12	#Muslims	#muslims	VBZ	pos2=NNS	6	conj	_	O
+13	#Violence	#violence	NN	pos2=NNP	15	compound	_	B-PERSON
+14	#Terror	#terror	NNP	pos2=CC	15	compound	_	I-PERSON
+15	#Barbarism	#barbarism	NNP	pos2=NN	12	nsubj	_	L-PERSON
+

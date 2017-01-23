@@ -1,0 +1,25 @@
+1	Frank	frank	NNP	_	2	compound	_	B-PERSON
+2	Jackson	jackson	NNP	_	3	nsubj	_	L-PERSON
+3	led	lead	VBD	_	0	root	_	O
+4	the	the	DT	_	6	det	_	B-ORG
+5	Blue	blue	NNP	_	6	compound	_	I-ORG
+6	Devils	devil	NNPS	_	3	dobj	_	L-ORG
+7	with	with	IN	_	3	prep	_	O
+8	19	0	CD	_	9	nmod	_	U-CARDINAL
+9	points	point	NNS	_	7	pobj	_	O
+10	along	along	IN	pos2=RB	9	prep	_	O
+11	with	with	IN	_	10	prep	_	O
+12	Grayson	grayson	NNP	_	13	compound	_	B-PERSON
+13	Allen	allen	NNP	_	11	pobj	_	L-PERSON
+14	who	who	WP	_	16	nsubj	_	O
+15	also	also	RB	_	16	advmod	_	O
+16	put	put	VBD	pos2=VBP	13	relcl	_	O
+17	up	up	RP	pos2=RB	16	prt	_	O
+18	17	0	CD	_	16	dobj	_	U-CARDINAL
+19	on	on	IN	_	16	prep	_	O
+20	the	the	DT	_	21	det	_	O
+21	board	board	NN	_	19	pobj	_	O
+22	.	.	.	_	3	punct	_	O
+
+1	#Duke	#duke	NNP	pos2=UH	0	root	_	O
+

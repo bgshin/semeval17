@@ -1,0 +1,27 @@
+1	A	a	DT	_	3	det	_	O
+2	key	key	JJ	_	3	nmod	_	O
+3	part	part	NN	_	7	nsubj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	#	#	NN	pos2=$	6	compound	_	O
+6	3dprinting	0dprinting	NN	pos2=NNP	4	pobj	_	U-MONEY
+7	is	be	VBZ	_	0	root	_	O
+8	the	the	DT	_	11	det	_	O
+9	#	#	NN	pos2=$	11	compound	_	O
+10	3dprint	0dprint	NN	pos2=LS	11	compound	_	U-MONEY
+11	#software	#software	NN	pos2=NNP	7	attr	_	O
+12	used	use	VBN	_	11	acl	_	O
+13	.	.	.	_	7	punct	_	O
+
+1	Here	here	RB	_	3	advmod	_	O
+2	we	we	PRP	_	3	nsubj	_	O
+3	look	look	VBP	_	0	root	_	O
+4	at	at	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	key	key	JJ	_	7	nmod	_	O
+7	players	player	NNS	_	4	pobj	_	O
+8	developing	develop	VBG	_	7	acl	_	O
+9	#	#	NN	pos2=-LRB-	11	compound	_	O
+10	3DP	0dp	NN	pos2=GW	11	compound	_	O
+11	software	software	NN	_	8	dobj	_	O
+12	https://t.co/RvRL2hz6FO	#hlink#	ADD	pos2=NN	3	dep	_	O
+

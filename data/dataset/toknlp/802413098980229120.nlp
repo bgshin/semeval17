@@ -1,0 +1,23 @@
+1	HARRY	harry	NNP	_	2	compound	_	B-PERSON
+2	REID	reid	NNP	_	3	nsubj	_	L-PERSON
+3	UNLOADS	unload	VBZ	pos2=NNS	0	root	_	O
+4	:	:	:	_	3	punct	_	O
+5	Trump	trump	NNP	pos2=NN	6	nsubj	_	U-ORG
+6	put	put	VBN	pos2=VB	3	ccomp	_	O
+7	'	'	''	pos2=``	6	punct	_	O
+8	a	a	DT	_	9	det	_	O
+9	champion	champion	NN	_	6	dobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	white	white	JJ	_	12	nmod	_	O
+12	supremacists	supremacist	NNS	_	10	pobj	_	O
+13	a	a	DT	_	14	det	_	O
+14	step	step	NN	pos2=VBP	15	npadvmod	_	O
+15	away	away	RB	_	6	advmod	_	O
+16	from	from	IN	_	15	prep	_	O
+17	the	the	DT	_	19	det	_	B-PERSON
+18	Oval	oval	NNP	pos2=NN	19	compound	_	I-PERSON
+19	O	o	NNP	pos2=GW	16	pobj	_	I-PERSON
+20	…	…	NFP	pos2=GW	22	punct	_	L-PERSON
+21	https://t.co/BuxkPsAAZU	#hlink#	ADD	_	22	nmod	_	O
+22	https://t.co/fDNz77cdNH	#hlink#	ADD	_	3	dep	_	U-ORG
+

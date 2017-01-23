@@ -1,0 +1,16 @@
+1	@AliAbunimah	@aliabunimah	UH	pos2=ADD	6	discourse	_	O
+2	@adamjohnsonNYC	@adamjohnsonnyc	ADD	pos2=XX	6	punct	_	O
+3	@mehdirhasan	@mehdirhasan	UH	pos2=IN	6	discourse	_	O
+4	@AJUpFront	@ajupfront	VB	pos2=ADD	6	discourse	_	O
+5	Chomsky	chomsky	NNP	_	6	nsubj	_	U-PERSON
+6	makes	make	VBZ	_	0	root	_	O
+7	Michael	michael	NNP	_	8	compound	_	B-PERSON
+8	Moore	moore	NNP	_	9	nsubj	_	L-PERSON
+9	look	look	VB	_	6	ccomp	_	O
+10	like	like	IN	_	9	prep	_	O
+11	an	an	DT	_	12	det	_	O
+12	amateur	amateur	NN	pos2=JJ	10	pobj	_	O
+13	in	in	IN	_	12	prep	_	O
+14	this	this	DT	_	15	det	_	O
+15	regard	regard	NN	_	13	pobj	_	O
+

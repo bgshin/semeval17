@@ -1,0 +1,15 @@
+1	@Joeingles7	@joeingles0	NN	pos2=NNS	9	nsubj	_	O
+2	@utahjazz	@utahjazz	UH	pos2=XX	9	discourse	_	O
+3	@George_Hill3	@george_hill0	NN	pos2=POS	4	compound	_	O
+4	lots	lot	NNS	_	9	nsubj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	energy	energy	NN	_	5	pobj	_	O
+7	like	like	IN	pos2=UH	9	mark	_	O
+8	We	we	PRP	_	9	nsubj	_	O
+9	wanted	want	VBD	_	0	root	_	O
+10	to	to	TO	_	11	aux	_	O
+11	see	see	VB	_	9	xcomp	_	O
+12	!!	!!	.	_	9	punct	_	O
+
+1	#letsgojazz	#letsgojazz	UH	pos2=XX	0	root	_	O
+

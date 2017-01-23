@@ -1,0 +1,32 @@
+1	Was	be	VBD	_	0	root	_	O
+2	it	it	PRP	_	1	nsubj	_	O
+3	a	a	DT	_	5	det	_	O
+4	good	good	JJ	_	5	nmod	_	O
+5	idea	idea	NN	_	1	attr	_	O
+6	to	to	TO	_	7	aux	_	O
+7	kill	kill	VB	_	1	xcomp	_	O
+8	#Gaddafi	#gaddafi	NNP	pos2=NNS	7	dobj	_	U-GPE
+9	?	?	.	_	1	punct	_	O
+
+1	5years	0years	NNS	_	2	npadvmod	_	O
+2	later	later	RB	pos2=RBR	4	advmod	_	O
+3	#libya	#libya	NNP	pos2=PRP	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	a	a	DT	_	7	det	_	O
+6	war	war	NN	_	7	compound	_	O
+7	zone	zone	NN	_	4	attr	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	What	what	WP	_	2	nsubj	_	O
+2	happened	happened	VBD	_	0	root	_	O
+3	to	to	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	#democracy	#democracy	NN	pos2=NNP	3	pobj	_	O
+6	that	that	WDT	_	8	nsubjpass	_	O
+7	was	be	VBD	_	8	auxpass	_	O
+8	promised	promise	VBN	_	5	relcl	_	O
+9	?	?	.	_	2	punct	_	O
+
+1	#libya	#libya	UH	pos2=XX	2	discourse	_	O
+2	#African	#african	UH	pos2=NNP	0	root	_	O
+

@@ -1,0 +1,13 @@
+1	Drumpf	drumpf	NNP	pos2=NN	4	nmod	_	B-ORG
+2	&	&	CC	_	1	cc	_	I-ORG
+3	Valshman	valshman	NNP	_	1	conj	_	I-ORG
+4	AKATrump	akatrump	NNP	pos2=NNPS	12	dep	_	I-ORG
+5	&	&	CC	_	4	cc	_	I-ORG
+6	PoroshenkoDrooling	poroshenkodrooling	NNP	pos2=VBG	4	conj	_	L-ORG
+7	for	for	IN	_	4	prep	_	O
+8	war	war	NN	_	7	pobj	_	O
+9	with	with	IN	_	8	prep	_	O
+10	#RussiaTh	#russiath	GW	pos2=ADD	9	pobj	_	O
+11	readhttps://t.co/839vj8MU8M#Fascism…	#hlink#	ADD	_	12	nmod	_	O
+12	https://t.co/nLXAvtsW4G	#hlink#	ADD	_	0	root	_	O
+

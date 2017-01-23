@@ -1,0 +1,28 @@
+1	THE	the	DT	_	3	det	_	O
+2	TRUMP	trump	NN	pos2=NNP	3	compound	_	U-PERSON
+3	CAMPAIGN	campaign	NN	pos2=NNP	5	nsubj	_	O
+4	LITERALLY	literally	RB	_	5	advmod	_	O
+5	ADMITTED	admit	VBN	pos2=VBD	0	root	_	O
+6	TO	to	IN	_	5	prep	_	O
+7	COMMITTING	commit	VBG	_	6	pcomp	_	O
+8	FORMS	form	NNS	_	7	dobj	_	O
+9	OF	of	IN	_	8	prep	_	O
+10	VOTER	voter	NN	_	11	compound	_	O
+11	SUPPRESSION	suppression	NN	_	9	pobj	_	O
+12	.	.	.	_	5	punct	_	O
+
+1	DEMOCRACY	democracy	NN	_	2	nsubj	_	O
+2	IS	be	VBZ	_	0	root	_	O
+3	AT	at	IN	pos2=NNP	2	prep	_	O
+4	STAKE	stake	NN	pos2=NNP	3	pobj	_	O
+5	N	n	IN	pos2=NNP	2	prep	_	O
+6	ALL	all	DT	pos2=NN	8	det	_	O
+7	YALL	yall	NN	pos2=PRP	8	compound	_	O
+8	CARE	care	NN	pos2=VBP	5	pobj	_	O
+9	AB	ab	NNP	pos2=NN	10	nsubj	_	O
+10	IS	be	VBZ	_	2	conj	_	O
+11	THE	the	DT	_	14	det	_	O
+12	SNL	snl	NNP	pos2=NN	13	nmod	_	O
+13	COLD	cold	NNP	pos2=JJ	14	compound	_	O
+14	OPEN	open	JJ	pos2=NNP	10	attr	_	O
+

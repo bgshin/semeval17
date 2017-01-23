@@ -1,0 +1,25 @@
+1	Come	come	VB	_	6	advcl	_	O
+2	Jan.20	jan.0	NN	pos2=RP	6	mark	_	O
+3	I	I	PRP	_	6	nsubj	_	O
+4	'll	will	MD	_	6	aux	_	O
+5	be	be	VB	_	6	aux	_	O
+6	praying	pray	VBG	_	0	root	_	O
+7	for	for	IN	_	6	prep	_	O
+8	@realDonaldTrump	@realdonaldtrump	NN	pos2=NNP	24	dep	_	O
+9	to	to	TO	pos2=IN	10	aux	_	O
+10	round	round	VB	pos2=RB	6	advcl	_	O
+11	up	up	RP	pos2=IN	10	prt	_	O
+12	George	george	NNP	_	13	compound	_	B-PERSON
+13	Soros	soros	NNP	_	10	dobj	_	L-PERSON
+14	,	,	,	_	13	punct	_	O
+15	Al	al	NNP	_	16	compound	_	B-PERSON
+16	Sharpton	sharpton	NNP	_	13	conj	_	L-PERSON
+17	,	,	,	_	16	punct	_	O
+18	&	&	CC	_	16	cc	_	O
+19	Michael	michael	NNP	_	20	compound	_	B-PERSON
+20	Moore	moore	NNP	_	16	conj	_	L-PERSON
+21	for	for	IN	_	10	prep	_	O
+22	incitin	incitin	GW	pos2=NN	21	pobj	_	U-DATE
+23	…	…	NFP	pos2=-LRB-	24	punct	_	O
+24	https://t.co/5Ifvj3yTj5	#hlink#	ADD	pos2=NN	6	dep	_	O
+

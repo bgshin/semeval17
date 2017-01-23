@@ -1,0 +1,22 @@
+1	@DrJillStein	@drjillstein	NN	pos2=UH	4	prep	_	O
+2	@realDonaldTrump	@realdonaldtrump	MD	pos2=ADD	4	aux	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	belive	belive	VB	pos2=VBP	0	root	_	O
+5	that	that	IN	pos2=WDT	7	mark	_	O
+6	Russia	russia	NNP	_	7	nsubj	_	U-GPE
+7	elected	elect	VBD	pos2=VBN	4	ccomp	_	O
+8	the	the	DT	_	9	det	_	O
+9	President	president	NNP	_	7	dobj	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	Also	also	RB	_	5	advmod	_	O
+2	voter	voter	NN	_	3	compound	_	O
+3	suppression	suppression	NN	_	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	lies	lie	NNS	pos2=VBZ	3	conj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	constant	constant	JJ	_	8	nmod	_	O
+8	allowance	allowance	NN	_	5	conj	_	O
+9	for	for	IN	_	8	prep	_	O
+10	Trumps	trump	NNS	pos2=NNPS	9	pobj	_	O
+

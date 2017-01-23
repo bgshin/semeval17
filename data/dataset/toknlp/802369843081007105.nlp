@@ -1,0 +1,17 @@
+1	Pelosi	pelosi	NNP	_	2	nsubj	_	U-PERSON
+2	Adds	add	VBZ	pos2=NNP	0	root	_	O
+3	Bay	bay	NNP	_	4	compound	_	B-LOC
+4	Area	area	NNP	_	5	compound	_	L-LOC
+5	Rep.	rep.	NNP	_	6	compound	_	O
+6	Swalwell	swalwell	NNP	_	2	dobj	_	U-PERSON
+7	To	to	IN	pos2=NNP	2	prep	_	O
+8	Her	her	PRP$	_	9	poss	_	O
+9	Team	team	NNP	pos2=NN	7	pobj	_	B-WORK_OF_ART
+10	In	in	NNP	pos2=IN	11	compound	_	I-WORK_OF_ART
+11	Fight	fight	NNP	pos2=NN	9	appos	_	I-WORK_OF_ART
+12	Over	over	IN	pos2=NNP	11	prep	_	I-WORK_OF_ART
+13	House	house	NNP	_	15	compound	_	I-WORK_OF_ART
+14	Minority	minority	NNP	pos2=NN	15	compound	_	I-WORK_OF_ART
+15	Leadership	leadership	NNP	pos2=NN	12	pobj	_	L-WORK_OF_ART
+16	https://t.co/YQBSyxaJEs	#hlink#	ADD	_	9	appos	_	O
+

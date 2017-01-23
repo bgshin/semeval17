@@ -1,0 +1,10 @@
+1	When	when	WRB	_	4	advmod	_	O
+2	Tony	tony	NNP	_	3	compound	_	B-PERSON
+3	Romo	romo	NNP	_	4	nsubj	_	L-PERSON
+4	asks	ask	VBZ	_	0	root	_	O
+5	if	if	IN	_	8	mark	_	O
+6	he	he	PRP	_	8	nsubj	_	O
+7	can	can	MD	_	8	aux	_	O
+8	start	start	VB	_	4	ccomp	_	O
+9	https://t.co/bDjFDzZZMT	#hlink#	ADD	_	8	dobj	_	U-ORG
+

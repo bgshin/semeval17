@@ -1,0 +1,16 @@
+1	How	how	WRB	_	3	advmod	_	O
+2	to	to	TO	_	3	aux	_	O
+3	connect	connect	VB	_	0	root	_	O
+4	your	your	PRP$	_	5	poss	_	O
+5	work	work	NN	_	3	dobj	_	O
+6	to	to	IN	_	3	prep	_	O
+7	the	the	DT	_	10	det	_	O
+8	sustainable	sustainable	JJ	_	10	nmod	_	O
+9	development	development	NN	_	10	compound	_	O
+10	goals	goal	NNS	_	6	pobj	_	O
+11	https://t.co/IcseEJUlSS	#hlink#	ADD	pos2=VBP	10	acl	_	O
+12	#SDGs	#sdgs	NNS	pos2=-RRB-	13	compound	_	O
+13	#unitednations	#unitednations	NNS	pos2=UH	10	conj	_	O
+14	#civilsociety	#civilsociety	UH	pos2=FW	13	discourse	_	O
+15	#socialsector	#socialsector	UH	pos2=FW	13	discourse	_	O
+

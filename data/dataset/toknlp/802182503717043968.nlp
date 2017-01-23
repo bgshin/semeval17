@@ -1,0 +1,23 @@
+1	So	so	RB	_	2	advmod	_	O
+2	smear	smear	VB	pos2=NN	0	root	_	O
+3	HRC	hrc	NNP	pos2=NN	2	dobj	_	U-ORG
+4	NOW	now	RB	_	2	advmod	_	O
+5	real	real	JJ	_	6	nmod	_	O
+6	dirt	dirt	NN	_	7	nsubj	_	O
+7	comes	come	VBZ	_	2	advcl	_	O
+8	out	out	RP	pos2=IN	7	prt	_	O
+9	Trump	trump	NNP	pos2=NN	7	vocative	_	U-PERSON
+10	?	?	.	_	2	punct	_	O
+
+1	No	no	DT	_	2	det	_	O
+2	investigations	investigation	NNS	_	3	nsubj	_	O
+3	WikiLinks	wikilinks	VBZ	pos2=NNP	0	root	_	O
+4	Russia	russia	NNP	_	5	compound	_	U-GPE
+5	Comey	comey	NNP	_	3	dobj	_	U-PERSON
+6	and	and	CC	_	3	cc	_	O
+7	now	now	RB	_	9	advmod	_	O
+8	Conflicts	conflict	NNPS	pos2=NNP	9	nsubj	_	O
+9	lies	lie	VBZ	pos2=NNS	3	conj	_	O
+10	#notmypresident	#notmypresident	ADD	pos2=IN	9	advcl	_	O
+11	#stillwithher	#stillwithher	UH	pos2=JJR	9	discourse	_	O
+

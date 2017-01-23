@@ -1,0 +1,20 @@
+1	Obama	obama	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	ends	end	VBZ	_	0	root	_	O
+3	embargo	embargo	NN	pos2=VBG	2	dobj	_	O
+4	with	with	IN	_	3	prep	_	O
+5	Cuba	cuba	NNP	_	4	pobj	_	U-GPE
+6	and	and	CC	_	2	cc	_	O
+7	it	it	PRP	_	8	nsubj	_	O
+8	's	's	VBZ	_	2	conj	_	O
+9	a	a	DT	_	11	det	_	O
+10	"	"	``	_	11	punct	_	O
+11	disgrace	disgrace	NN	_	8	attr	_	O
+12	"	"	''	_	11	punct	_	O
+13	but	but	CC	_	2	cc	_	O
+14	this	this	DT	_	15	det	_	O
+15	shit	shit	NN	_	11	conj	_	O
+16	here	here	RB	_	15	advmod	_	O
+17	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/scHZu45ld9	#hlink#	ADD	_	0	root	_	U-ORG
+

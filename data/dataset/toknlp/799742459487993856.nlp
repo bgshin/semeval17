@@ -1,0 +1,19 @@
+1	SingleTaken✓	singletaken✓	NNP	pos2=NNS	2	nsubj	_	O
+2	Devastated	devastate	VBN	_	0	root	_	O
+3	by	by	IN	_	2	agent	_	O
+4	the	the	DT	_	7	det	_	O
+5	recent	recent	JJ	_	7	nmod	_	O
+6	election	election	NN	_	7	compound	_	O
+7	results	result	NNS	_	3	pobj	_	O
+8	&	&	CC	_	7	cc	_	O
+9	permanently	permanently	RB	_	10	advmod	_	O
+10	flaccid	flaccid	JJ	_	11	nmod	_	O
+11	thanks	thanks	NNS	_	7	conj	_	O
+12	to	to	IN	_	11	prep	_	O
+13	the	the	DT	_	16	det	_	O
+14	faces	face	NNS	pos2=NN	16	nmod	_	O
+15	+	+	SYM	pos2=POS	16	punct	_	O
+16	policies	policy	NNS	_	12	pobj	_	O
+17	behind	behind	IN	pos2=RB	16	prep	_	O
+18	#TrumpTransitionTeam	#trumptransitionteam	NN	pos2=NNP	17	pobj	_	O
+

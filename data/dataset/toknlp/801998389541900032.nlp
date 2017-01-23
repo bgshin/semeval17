@@ -1,0 +1,7 @@
+1	@Yalentia	@yalentia	NNP	pos2=NFP	6	dep	_	O
+2	The	the	DT	_	4	det	_	O
+3	new	new	JJ	_	4	nmod	_	O
+4	persona	persona	NN	_	1	appos	_	O
+5	5	0	CD	_	6	nmod	_	U-CARDINAL
+6	protagonist	protagonist	NN	_	0	root	_	O
+

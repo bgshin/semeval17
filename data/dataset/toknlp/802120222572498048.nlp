@@ -1,0 +1,25 @@
+1	Some	some	DT	_	2	det	_	O
+2	performances	performance	NNS	_	5	nsubj	_	O
+3	have	have	VBP	_	5	aux	_	O
+4	already	already	RB	_	5	advmod	_	O
+5	sold	sell	VBN	_	0	root	_	O
+6	out	out	RP	pos2=RB	5	prt	_	O
+7	for	for	IN	_	5	prep	_	O
+8	#BeautyAndTheBeast	#beautyandthebeast	NN	pos2=NNS	7	pobj	_	O
+9	and	and	CC	_	5	cc	_	O
+10	some	some	DT	_	11	nsubj	_	O
+11	are	be	VBP	_	5	conj	_	O
+12	near	near	IN	pos2=RB	11	prep	_	O
+13	selling	sell	VBG	_	12	pcomp	_	O
+14	out	out	RP	_	13	prt	_	O
+15	.	.	.	_	11	punct	_	O
+
+1	Do	do	VB	pos2=VBP	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	miss	miss	VB	_	0	root	_	O
+4	out	out	RP	pos2=RB	3	prt	_	O
+5	!	!	.	_	3	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/PlWjT87u1S	#hlink#	ADD	pos2=NN	0	root	_	O
+

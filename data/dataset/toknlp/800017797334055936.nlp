@@ -1,0 +1,19 @@
+1	Each	each	DT	pos2=PDT	3	nsubj	_	O
+2	a	a	DT	_	3	det	_	O
+3	country	country	NN	_	0	root	_	O
+4	to	to	IN	_	3	prep	_	O
+5	herself	herself	PRP	_	4	pobj	_	O
+6	...	..	.	pos2=,	3	punct	_	O
+
+1	Rita	rita	NNP	_	2	compound	_	B-PERSON
+2	Dove	dove	NNP	_	3	nsubj	_	L-PERSON
+3	reads	read	VBZ	_	0	root	_	O
+4	from	from	IN	_	3	prep	_	O
+5	her	her	PRP$	pos2=PRP	7	poss	_	O
+6	COLLECTED	collect	VBN	_	7	nmod	_	O
+7	POEMS	poem	NNS	pos2=NN	4	pobj	_	O
+8	1974–2004	0	CD	_	9	nmod	_	B-MONEY
+9	#MiamiBookFair2016	#miamibookfair0	NNS	pos2=NN	7	appos	_	L-MONEY
+10	#NBAwards	#nbawards	ADD	pos2=NNS	11	punct	_	O
+11	https://t.co/7RIL54j3uU	#hlink#	ADD	_	3	dep	_	O
+

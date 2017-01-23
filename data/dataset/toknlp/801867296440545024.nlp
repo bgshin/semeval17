@@ -1,0 +1,7 @@
+1	@MikeSullivan	@mikesullivan	NNP	pos2=XX	2	compound	_	U-GPE
+2	verlander	verlander	NN	pos2=RB	0	root	_	O
+3	on	on	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	drums	drum	NNS	pos2=NN	3	pobj	_	O
+6	...	..	.	pos2=,	2	punct	_	O
+

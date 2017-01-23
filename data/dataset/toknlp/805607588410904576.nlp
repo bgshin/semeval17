@@ -1,0 +1,10 @@
+1	@Brian_Was_Here	@brian_was_here	NN	pos2=SYM	7	dep	_	O
+2	_	_	SYM	pos2=''	7	punct	_	O
+3	voter	voter	NN	_	4	compound	_	O
+4	registration	registration	NN	_	7	nsubj	_	O
+5	has	have	VBZ	_	7	aux	_	O
+6	him	him	PRP	_	7	nsubj	_	O
+7	listed	list	VBN	_	0	root	_	O
+8	as	as	IN	_	7	prep	_	O
+9	republican	republican	JJ	_	8	pcomp	_	U-NORP
+

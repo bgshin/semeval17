@@ -1,0 +1,20 @@
+1	Did	do	VBD	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	miss	miss	VB	pos2=VBP	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	#NBAwards	#nbawards	NNPS	pos2=NNP	6	compound	_	U-ORG
+6	announcement	announcement	NN	pos2=VB	3	dobj	_	O
+7	?	?	.	_	3	punct	_	O
+
+1	Here	here	RB	_	2	advmod	_	O
+2	are	be	VBP	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	titles	title	NNS	_	2	nsubj	_	O
+5	honored	honor	VBN	pos2=VBD	4	acl	_	O
+6	this	this	DT	_	7	det	_	B-DATE
+7	year	year	NN	_	5	npadvmod	_	L-DATE
+8	by	by	IN	_	5	agent	_	O
+9	@nationalbook	@nationalbook	NNP	pos2=GW	8	pobj	_	U-GPE
+10	…	…	NFP	pos2=-LRB-	11	punct	_	O
+11	https://t.co/CKSR6Tt2IJ	#hlink#	ADD	_	2	dep	_	O
+

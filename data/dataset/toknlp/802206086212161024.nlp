@@ -1,0 +1,28 @@
+1	@megynkelly	@megynkelly	UH	pos2=RB	0	root	_	O
+2	@petestavros	@petestavros	UH	pos2=NNS	1	discourse	_	O
+3	....	..	.	_	1	punct	_	O
+
+1	why	why	WRB	pos2=UH	16	advmod	_	O
+2	if	if	IN	_	4	mark	_	O
+3	one	#crd#	PRP	pos2=CD	4	nsubj	_	O
+4	disagrees	disagree	VBZ	_	16	advcl	_	O
+5	with	with	IN	_	4	prep	_	O
+6	some	some	DT	_	7	det	_	O
+7	one	#crd#	CD	pos2=NN	5	pobj	_	U-CARDINAL
+8	on	on	IN	_	7	prep	_	O
+9	twitter	twitter	NN	pos2=NNP	8	pobj	_	O
+10	,	,	,	_	16	punct	_	O
+11	Facebook	facebook	NNP	_	7	appos	_	O
+12	etc.	etc.	FW	_	11	advmod	_	O
+13	,	,	,	_	16	punct	_	O
+14	you	you	PRP	_	16	nsubj	_	O
+15	immediately	immediately	RB	_	16	advmod	_	O
+16	become	become	VBP	pos2=VBD	0	root	_	O
+17	a	a	DT	_	18	det	_	O
+18	hater	hater	NN	_	16	attr	_	O
+19	,	,	,	_	18	punct	_	O
+20	how	how	WRB	_	21	advmod	_	O
+21	about	about	IN	pos2=JJ	18	prep	_	O
+22	critic	critic	NN	_	21	pobj	_	O
+23	?	?	.	_	16	punct	_	O
+

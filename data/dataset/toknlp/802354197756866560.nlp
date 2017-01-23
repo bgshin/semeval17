@@ -1,0 +1,25 @@
+1	To	to	IN	_	6	prep	_	O
+2	me	me	PRP	_	1	pobj	_	O
+3	,	,	,	_	6	punct	_	O
+4	Leonard	leonard	NNP	_	5	compound	_	B-PERSON
+5	Cohen	cohen	NNP	_	6	nsubj	_	L-PERSON
+6	achieves	achieve	VBZ	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	kind	kind	NN	_	6	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	sainthood	sainthood	NN	_	9	pobj	_	O
+11	only	only	RB	_	12	advmod	_	O
+12	through	through	IN	_	6	prep	_	O
+13	his	his	PRP$	_	15	poss	_	O
+14	tremendous	tremendous	JJ	_	15	nmod	_	O
+15	imperfections	imperfection	NNS	_	12	pobj	_	O
+16	-	-	:	pos2=,	19	punct	_	O
+17	he	he	PRP	_	19	nsubj	_	O
+18	never	never	RB	_	19	neg	_	O
+19	pretended	pretend	VBD	_	14	advmod	_	O
+20	to	to	TO	_	21	aux	_	O
+21	be	be	VB	_	19	xcomp	_	O
+22	a	a	DT	_	24	det	_	O
+23	great	great	JJ	_	24	nmod	_	O
+24	man	man	NN	_	21	attr	_	O
+

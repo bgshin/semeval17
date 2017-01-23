@@ -1,0 +1,14 @@
+1	Potential	potential	JJ	pos2=NN	13	dep	_	O
+2	for	for	IN	_	1	prep	_	O
+3	inhalable	inhalable	JJ	_	4	nmod	_	O
+4	vaccines	vaccine	NNS	_	2	pobj	_	O
+5	for	for	IN	_	4	prep	_	O
+6	influenza	influenza	NN	_	5	pobj	_	O
+7	,	,	,	_	6	punct	_	O
+8	pneumonia	pneumonia	NN	_	6	conj	_	O
+9	,	,	,	_	8	punct	_	O
+10	with	with	IN	_	1	prep	_	O
+11	new	new	JJ	_	12	nmod	_	O
+12	approach	approach	NN	_	10	pobj	_	O
+13	https://t.co/aQuTdaNmuQ	#hlink#	ADD	pos2=NN	0	root	_	O
+

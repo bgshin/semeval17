@@ -1,0 +1,24 @@
+1	Something	something	NN	_	9	dep	_	O
+2	to	to	TO	_	3	aux	_	O
+3	fight	fight	VB	_	1	relcl	_	O
+4	for	for	IN	_	3	prep	_	O
+5	:	:	:	_	4	punct	_	O
+6	Schumer	schumer	NNP	_	4	pobj	_	U-PERSON
+7	,	,	,	_	9	punct	_	O
+8	Pelosi	pelosi	NNP	_	9	nsubj	_	U-PERSON
+9	throw	throw	VB	pos2=VBP	0	root	_	O
+10	down	down	RP	_	9	prt	_	O
+11	the	the	DT	_	12	det	_	O
+12	gauntlet	gauntlet	NN	_	9	dobj	_	O
+13	on	on	IN	_	9	prep	_	O
+14	@SpeakerRyan	@speakerryan	NNP	pos2=ADD	16	poss	_	U-ORG
+15	's	's	POS	_	14	case	_	O
+16	plan	plan	NN	_	13	pobj	_	O
+17	to	to	TO	_	18	aux	_	O
+18	privatize	privatize	VB	_	16	acl	_	O
+19	,	,	,	_	20	punct	_	O
+20	voucherize	voucherize	VB	pos2=XX	9	dep	_	O
+21	Med	med	NNP	pos2=GW	23	nmod	_	B-PERSON
+22	…	…	NFP	pos2=-LRB-	23	punct	_	L-PERSON
+23	https://t.co/9uUq0Kv2Je	#hlink#	ADD	pos2=NN	20	dobj	_	O
+

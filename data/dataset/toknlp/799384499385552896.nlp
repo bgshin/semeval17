@@ -1,0 +1,19 @@
+1	Jared	jared	NNP	_	2	compound	_	B-PERSON
+2	Kushner	kushner	NNP	_	12	nsubj	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	Trump	trump	NNP	_	6	poss	_	U-ORG
+5	’s	's	POS	_	4	case	_	O
+6	Son	son	NNP	_	2	appos	_	O
+7	-	-	HYPH	_	6	punct	_	O
+8	in	in	IN	_	6	prep	_	O
+9	-	-	HYPH	_	8	punct	_	O
+10	Law	law	NNP	pos2=NN	8	pobj	_	O
+11	,	,	,	_	12	punct	_	O
+12	Explores	explore	VBZ	pos2=NNP	0	root	_	O
+13	Joining	join	VBG	pos2=NNP	12	xcomp	_	O
+14	Administration	administration	NNP	pos2=NN	13	dobj	_	B-ORG
+15	https://t.co/Pmxq9BBqil	#hlink#	ADD	_	10	appos	_	L-ORG
+16	#FederalStatute	#federalstatute	ADD	pos2=-RRB-	12	punct	_	O
+17	#nepotism	#nepotism	UH	pos2=NN	12	discourse	_	O
+18	#TrumpTransitionTeam	#trumptransitionteam	ADD	pos2=NN	17	pobj	_	O
+

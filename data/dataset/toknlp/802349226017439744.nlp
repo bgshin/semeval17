@@ -1,0 +1,20 @@
+1	Check	check	VB	_	17	advcl	_	O
+2	out	out	RP	pos2=IN	1	prt	_	O
+3	Michael	michael	NNP	_	4	compound	_	B-PERSON
+4	Moore	moore	NNP	_	5	compound	_	L-PERSON
+5	humor	humor	NN	_	1	dobj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	political	political	JJ	_	8	nmod	_	O
+8	satire	satire	NN	_	5	conj	_	O
+9	,	,	,	_	17	punct	_	O
+10	STUPID	stupid	JJ	_	12	nmod	_	O
+11	WHITE	white	JJ	pos2=NNP	12	nmod	_	O
+12	MEN	man	NNS	pos2=NN	17	dep	_	O
+13	1	0	CD	_	17	dep	_	B-DATE
+14	st	st	NN	pos2=FW	15	compound	_	L-DATE
+15	edition	edition	NN	_	16	compound	_	O
+16	hardcover	hardcover	NN	pos2=GW	17	dep	_	O
+17	https://t.co/nRiQ867fc3	#hlink#	ADD	pos2=NN	0	root	_	O
+18	via	via	IN	_	17	prep	_	O
+19	@eBay	@ebay	NNP	pos2=NN	18	pobj	_	O
+

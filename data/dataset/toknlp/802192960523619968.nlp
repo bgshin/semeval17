@@ -1,0 +1,27 @@
+1	When	when	WRB	_	4	advmod	_	O
+2	Ben	ben	NNP	_	3	compound	_	B-PERSON
+3	Carson	carson	NNP	_	4	nsubj	_	L-PERSON
+4	talks	talk	VBZ	_	10	advcl	_	O
+5	about	about	IN	pos2=RB	4	prep	_	O
+6	some	some	DT	_	7	det	_	O
+7	things	thing	NNS	_	5	pobj	_	O
+8	,	,	,	_	10	punct	_	O
+9	It	it	PRP	_	10	nsubj	_	O
+10	is	be	VBZ	_	0	root	_	O
+11	like	like	IN	_	10	prep	_	O
+12	an	an	DT	_	13	det	_	O
+13	explosion	explosion	NN	_	11	pobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	nonsense	nonsense	NN	_	14	pobj	_	O
+16	that	that	WDT	_	17	nsubj	_	O
+17	seems	seem	VBZ	_	13	relcl	_	O
+18	to	to	TO	_	19	aux	_	O
+19	make	make	VB	_	17	xcomp	_	O
+20	us	us	PRP	_	22	nsubj	_	O
+21	all	all	DT	_	20	appos	_	O
+22	feel	feel	VBP	pos2=VB	19	ccomp	_	O
+23	like	like	IN	_	25	mark	_	O
+24	we	we	PRP	_	22	advcl	_	O
+25	…	…	NFP	pos2=VBP	26	punct	_	O
+26	https://t.co/iLd5bwVdOT	#hlink#	ADD	_	24	appos	_	O
+

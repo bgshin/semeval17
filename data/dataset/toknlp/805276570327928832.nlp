@@ -1,0 +1,14 @@
+1	Ashley	ashley	NNP	_	2	compound	_	B-PERSON
+2	Graham	graham	NNP	_	3	nsubj	_	L-PERSON
+3	Nabs	nab	VBZ	pos2=NNP	0	root	_	O
+4	The	the	DT	pos2=NNP	6	det	_	O
+5	Most	most	RBS	pos2=NNP	6	advmod	_	O
+6	Coveted	coveted	JJ	pos2=NNP	3	dobj	_	O
+7	,	,	,	_	3	punct	_	O
+8	Groundbreaking	groundbreaking	VBG	pos2=JJ	9	nmod	_	O
+9	Cover	cover	NN	pos2=NNP	3	dobj	_	O
+10	Of	of	IN	pos2=GW	9	prep	_	O
+11	All	all	DT	pos2=RB	10	pobj	_	O
+12	https://t.co/ps6NBP1VgH	#hlink#	ADD	_	13	nmod	_	O
+13	https://t.co/3z9NBBDPW6	#hlink#	ADD	_	10	pobj	_	U-ORG
+

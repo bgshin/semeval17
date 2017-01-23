@@ -1,0 +1,14 @@
+1	Christmas	christmas	NNP	_	0	root	_	U-DATE
+2	in	in	IN	_	1	prep	_	O
+3	December	december	NNP	_	5	compound	_	O
+4	🎅🏼🎄New	🎅🏼🎄new	NNP	pos2=POS	5	compound	_	O
+5	Years	year	NNPS	pos2=NNS	2	pobj	_	O
+6	in	in	IN	_	1	prep	_	O
+7	January	january	NNP	_	8	compound	_	O
+8	🎉Valentines	🎉valentines	NNP	pos2=NNS	6	pobj	_	O
+9	in	in	IN	_	1	prep	_	O
+10	February	february	NNP	_	11	compound	_	B-DATE
+11	👫Birthday	👫birthday	NNP	pos2=NN	9	pobj	_	L-DATE
+12	in	in	IN	_	1	prep	_	O
+13	March👸❣️	march👸❣️	NNP	_	12	pobj	_	O
+

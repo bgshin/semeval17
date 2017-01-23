@@ -1,0 +1,7 @@
+1	@eastwes	@eastwes	UH	pos2=VBZ	6	punct	_	O
+2	Mr.	mr.	NNP	_	3	compound	_	O
+3	Cobb	cobb	NNP	_	6	nsubj	_	U-PERSON
+4	=	=	SYM	pos2=-LRB-	6	punct	_	O
+5	James	james	NNP	_	6	compound	_	B-PERSON
+6	Comey	comey	NNP	_	0	root	_	L-PERSON
+

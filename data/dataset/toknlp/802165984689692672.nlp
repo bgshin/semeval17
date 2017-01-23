@@ -1,0 +1,19 @@
+1	Sometimes	sometimes	RB	_	4	advmod	_	O
+2	your	your	PRP$	_	3	poss	_	O
+3	feelings	feeling	NNS	_	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	so	so	RB	_	6	advmod	_	O
+6	powerful	powerful	JJ	_	4	acomp	_	O
+7	that	that	IN	_	11	mark	_	O
+8	you	you	PRP	_	11	nsubj	_	O
+9	do	do	VBP	_	11	aux	_	O
+10	n't	not	RB	_	11	neg	_	O
+11	know	know	VB	_	6	ccomp	_	O
+12	wh	wh	NN	pos2=UH	11	dobj	_	O
+13	...	..	.	_	4	punct	_	O
+
+1	More	more	JJR	pos2=RBR	4	nmod	_	O
+2	for	for	IN	_	1	prep	_	O
+3	Scorpio	scorpio	NNP	_	2	pobj	_	O
+4	https://t.co/DmUMQDxIXN	#hlink#	ADD	pos2=NNP	0	root	_	O
+

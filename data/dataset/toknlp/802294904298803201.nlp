@@ -1,0 +1,11 @@
+1	240	0	CD	pos2=LS	2	nmod	_	U-CARDINAL
+2	Fact	fact	NN	pos2=NNP	4	dep	_	O
+3	-	-	:	pos2=HYPH	4	punct	_	O
+4	Checked	check	VBN	pos2=NNP	5	nmod	_	O
+5	Promises	promise	NNS	pos2=NNPS	0	root	_	O
+6	#PresidentObama	#presidentobama	NNP	pos2=GW	8	nsubj	_	O
+7	Has	have	VBZ	pos2=NNP	8	aux	_	O
+8	Kept	keep	VBN	pos2=GW	5	relcl	_	O
+9	https://t.co/bwlY21QLcx#ThankYouObama	#hlink#	ADD	_	8	dobj	_	O
+10	https://t.co/42uKgtnVJw	#hlink#	ADD	_	8	dobj	_	U-ORG
+

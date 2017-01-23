@@ -1,0 +1,17 @@
+1	Check	check	VB	_	0	root	_	O
+2	out	out	RP	pos2=IN	1	prt	_	O
+3	Medical	medical	NNP	pos2=JJ	4	compound	_	B-ORG
+4	Marijuana	marijuana	NNP	_	1	dobj	_	L-ORG
+5	,	,	,	_	4	punct	_	O
+6	First	#ord#	NNP	pos2=JJ	7	compound	_	B-ORG
+7	Aid	aid	NNP	pos2=NN	4	conj	_	I-ORG
+8	,	,	,	_	7	punct	_	I-ORG
+9	Prescription	prescription	NNP	pos2=NN	10	compound	_	I-ORG
+10	Drugs	drugs	NNP	pos2=NNPS	16	compound	_	I-ORG
+11	Storage	storage	NNP	pos2=NN	16	compound	_	I-ORG
+12	Container	container	NNP	_	14	compound	_	I-ORG
+13	Lock	lock	NNP	_	14	compound	_	I-ORG
+14	Box	box	NNP	pos2=NN	16	compound	_	L-ORG
+15	https://t.co/IbGRMSSqUb	#hlink#	ADD	_	16	dep	_	O
+16	@eBay	@ebay	NNP	pos2=-RRB-	7	conj	_	U-ORG
+

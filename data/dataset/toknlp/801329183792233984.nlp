@@ -1,0 +1,23 @@
+1	The	the	DT	_	6	det	_	O
+2	US	us	NNP	_	4	npadvmod	_	U-GPE
+3	-	-	HYPH	_	4	punct	_	O
+4	led	lead	VBN	_	6	nmod	_	O
+5	coalition	coalition	NN	_	6	compound	_	O
+6	forces	force	NNS	_	7	nsubj	_	O
+7	launched	launch	VBD	_	0	root	_	O
+8	24	0	CD	_	9	nmod	_	U-CARDINAL
+9	airstrikes	airstrike	NNS	_	7	dobj	_	O
+10	against	against	IN	_	9	prep	_	O
+11	#ISIS	#isis	NN	pos2=NNP	12	compound	_	O
+12	sites	site	NNS	_	10	pobj	_	O
+13	in	in	IN	_	12	prep	_	O
+14	#Iraq	#iraq	NNP	pos2=NNS	13	pobj	_	U-GPE
+15	and	and	CC	_	14	cc	_	O
+16	#Syria	#syria	NNP	pos2=NN	14	conj	_	U-GPE
+17	.	.	.	_	7	punct	_	O
+
+1	#	#	NN	pos2=-LRB-	4	dep	_	O
+2	#MosulOps	#mosulops	GW	pos2=NNS	4	nmod	_	U-MONEY
+3	…	…	NFP	pos2=GW	4	punct	_	O
+4	https://t.co/JfQuZAg7Ku	#hlink#	ADD	pos2=NN	0	root	_	O
+

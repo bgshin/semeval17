@@ -1,0 +1,19 @@
+1	@wakeup1442	@wakeup0	NN	pos2=XX	3	nmod	_	O
+2	what	what	WDT	pos2=WP	3	det	_	O
+3	tsunami	tsunami	NN	_	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	lost	lose	VBD	_	12	ccomp	_	O
+3	the	the	DT	_	5	det	_	O
+4	popular	popular	JJ	_	5	nmod	_	O
+5	vote	vote	NN	_	2	dobj	_	O
+6	by	by	IN	_	2	prep	_	O
+7	2mil	0mil	NNP	pos2=NN	8	compound	_	U-ORG
+8	votes	vote	NNS	pos2=VBZ	6	pobj	_	O
+9	PS	ps	NNP	pos2=NN	13	dep	_	O
+10	-	-	:	pos2=,	12	punct	_	O
+11	that	that	DT	pos2=WDT	12	nsubj	_	O
+12	was	be	VBD	_	0	root	_	O
+13	irony	irony	NN	pos2=JJ	12	attr	_	O
+

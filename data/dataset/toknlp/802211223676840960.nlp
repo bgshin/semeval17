@@ -1,0 +1,24 @@
+1	Wow	wow	UH	_	0	root	_	O
+2	...	..	.	pos2=,	1	punct	_	O
+
+1	the	the	DT	_	4	det	_	O
+2	#Haifa	#haifa	NNP	pos2=NN	4	compound	_	O
+3	fire	fire	NN	_	4	compound	_	O
+4	story	story	NN	_	5	nsubj	_	O
+5	flew	fly	VBD	_	0	root	_	O
+6	under	under	IN	_	5	prep	_	O
+7	my	my	PRP$	_	8	poss	_	O
+8	radar	radar	NN	_	6	pobj	_	O
+9	....	..	.	pos2=,	5	punct	_	O
+
+1	damn	damn	RB	pos2=UH	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Arson	arson	NN	pos2=NNP	0	root	_	O
+2	or	or	CC	_	1	cc	_	O
+3	Karma	karma	NN	pos2=NNP	1	conj	_	O
+4	?	?	.	_	1	punct	_	O
+
+1	#Israel	#israel	NNP	pos2=XX	2	compound	_	B-PERSON
+2	#Palestine	#palestine	NNP	pos2=ADD	0	root	_	L-PERSON
+

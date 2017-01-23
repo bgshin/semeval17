@@ -1,0 +1,30 @@
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=NNP	2	compound	_	O
+2	Sir	sir	NNP	_	6	vocative	_	O
+3	,	,	,	_	8	punct	_	O
+4	if	if	IN	_	6	mark	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	look	look	VBP	_	0	root	_	O
+7	into	into	IN	_	6	prep	_	O
+8	where	where	WRB	_	13	pobj	_	O
+9	this	this	DT	_	10	det	_	O
+10	money	money	NN	_	12	nsubj	_	O
+11	is	be	VBZ	_	12	aux	_	O
+12	coming	come	VBG	_	7	pcomp	_	O
+13	from	from	IN	_	12	prep	_	O
+14	.	.	.	_	12	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	probably	probably	RB	_	2	advmod	_	O
+4	from	from	IN	_	2	prep	_	O
+5	George	george	NNP	_	6	compound	_	B-PERSON
+6	Soros	soros	NNP	_	4	pobj	_	L-PERSON
+7	.	.	.	_	2	punct	_	O
+
+1	Trying	try	VBG	_	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	steal	steal	VB	_	1	xcomp	_	O
+4	the	the	DT	_	5	det	_	O
+5	election	election	NN	_	3	dobj	_	O
+6	.	.	.	_	1	punct	_	O
+

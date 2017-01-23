@@ -1,0 +1,23 @@
+1	Walton	walton	NNP	_	2	compound	_	U-PERSON
+2	family	family	NN	_	3	nsubj	_	O
+3	earns	earn	VBZ	_	0	root	_	O
+4	more	more	JJR	_	7	qmod	_	B-CARDINAL
+5	than	than	IN	_	7	qmod	_	I-CARDINAL
+6	130	0	CD	_	7	compound	_	I-CARDINAL
+7	million	#crd#	CD	_	8	nmod	_	L-CARDINAL
+8	Americans	american	NNPS	_	3	dobj	_	U-NORP
+9	-	-	:	pos2=,	3	punct	_	O
+10	and	and	CC	_	3	cc	_	O
+11	food	food	NN	_	12	compound	_	O
+12	stamps	stamp	NNS	_	16	nsubj	_	O
+13	and	and	CC	_	12	cc	_	O
+14	Medicaid	medicaid	NNP	_	15	compound	_	U-ORG
+15	funds	fund	NNS	_	12	conj	_	O
+16	used	use	VBN	pos2=VBD	3	conj	_	O
+17	to	to	TO	_	18	aux	_	O
+18	subsidize	subsidize	VB	_	16	xcomp	_	O
+19	its	its	PRP$	_	22	poss	_	O
+20	low	low	JJ	_	22	nmod	_	O
+21	wage	wage	NN	_	22	compound	_	O
+22	earners	earner	NNS	_	18	dobj	_	O
+

@@ -1,0 +1,21 @@
+1	Ethnic	ethnic	JJ	_	2	nmod	_	O
+2	cleansing	cleansing	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	morally	morally	RB	_	5	advmod	_	O
+5	wrong	wrong	JJ	_	3	acomp	_	O
+6	and	and	CC	_	5	cc	_	O
+7	illegal	illegal	JJ	_	5	conj	_	O
+8	,	,	,	_	3	punct	_	O
+9	no	no	RB	_	10	neg	_	O
+10	matter	matter	RB	pos2=NN	7	advmod	_	O
+11	who	who	WP	_	13	nsubj	_	O
+12	is	be	VBZ	_	13	aux	_	O
+13	perpetrating	perpetrate	VBG	_	10	relcl	_	O
+14	it	it	PRP	_	13	dobj	_	O
+15	.	.	.	_	3	punct	_	O
+
+1	#IsraeliApartheid	#israeliapartheid	GW	pos2=VBD	4	nmod	_	O
+2	#Palestine	#palestine	GW	pos2=CD	3	nmod	_	O
+3	#	#	NN	pos2=GW	4	dep	_	O
+4	BDShttps://t.co/RXe8t1uYIL	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

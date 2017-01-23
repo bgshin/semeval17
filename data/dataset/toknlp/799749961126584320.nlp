@@ -1,0 +1,10 @@
+1	Microsoft	microsoft	NNP	_	2	nsubj	_	U-ORG
+2	Takes	take	VBZ	_	0	root	_	O
+3	Platinum	platinum	NNP	pos2=NN	4	compound	_	B-ORG
+4	Membership	membership	NNP	pos2=NN	2	dobj	_	L-ORG
+5	in	in	IN	_	4	prep	_	O
+6	Linux	linux	NNP	_	7	compound	_	B-ORG
+7	Foundation	foundation	NNP	pos2=GW	5	pobj	_	L-ORG
+8	https://t.co/qBhkOgODfl	#hlink#	ADD	_	9	nmod	_	O
+9	https://t.co/sTo8qWr6Kd	#hlink#	ADD	_	2	dobj	_	U-ORG
+

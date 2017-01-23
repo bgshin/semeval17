@@ -1,0 +1,25 @@
+1	Big	big	JJ	pos2=NNP	4	nmod	_	O
+2	Punisher	punisher	NNP	_	4	compound	_	O
+3	-	-	HYPH	pos2=:	4	punct	_	O
+4	Livin	livin	NNP	_	13	nmod	_	O
+5	'	'	''	pos2=POS	4	punct	_	O
+6	la	la	NN	pos2=NNP	8	compound	_	O
+7	Vida	vida	NNP	_	8	compound	_	B-PERSON
+8	Loca	loca	NNP	_	13	dep	_	L-PERSON
+9	(	(	-LRB-	_	8	punct	_	O
+10	remix	remix	NN	pos2=VB	8	appos	_	O
+11	)	)	-RRB-	_	8	punct	_	O
+12	(	(	-LRB-	_	13	punct	_	O
+13	feat	feat	NN	_	0	root	_	O
+14	.	.	.	_	13	punct	_	O
+
+1	Ricky	ricky	NNP	_	2	compound	_	B-PERSON
+2	Martin	martin	NNP	_	0	root	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	Fat	fat	NNP	_	5	compound	_	B-ORG
+5	Joe	joe	NNP	_	2	conj	_	I-ORG
+6	&	&	CC	_	5	cc	_	I-ORG
+7	Cuban	cuban	JJ	pos2=NNP	8	nmod	_	I-ORG
+8	Link	link	NNP	pos2=NN	5	conj	_	L-ORG
+9	)	)	-RRB-	_	2	punct	_	O
+

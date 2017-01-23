@@ -1,0 +1,13 @@
+1	@AndrewAtSFL	@andrewatsfl	ADD	pos2=UH	7	punct	_	B-PERSON
+2	@Giarlton	@giarlton	NNP	pos2=ADD	4	compound	_	L-PERSON
+3	@RobProvince	@robprovince	ADD	pos2=NN	4	compound	_	O
+4	@jonathanweisman	@jonathanweisman	NNP	pos2=UH	7	nsubj	_	O
+5	Did	do	VBD	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	realize	realize	VB	_	0	root	_	O
+8	60	0	CD	_	9	nmod	_	B-TIME
+9	minutes	minute	NNS	_	12	dep	_	L-TIME
+10	was	be	VBD	pos2=RB	7	ccomp	_	O
+11	right	right	JJ	pos2=RB	10	acomp	_	O
+12	winghttps://t.co/h4rFUt7a3r	#hlink#	ADD	pos2=NN	7	dep	_	O
+

@@ -1,0 +1,20 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@MikeYenni	@mikeyenni	NNP	pos2=UH	4	vocative	_	U-PERSON
+2	Did	do	VBD	_	4	aux	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	think	think	VB	pos2=VBP	0	root	_	O
+5	#MAGA	#maga	NN	pos2=NNP	6	nsubj	_	O
+6	was	be	VBD	_	7	aux	_	O
+7	Make	make	VB	pos2=NNP	4	ccomp	_	O
+8	America	america	NNP	_	9	compound	_	B-PERSON
+9	Gay	gay	NNP	_	6	attr	_	L-PERSON
+10	Again	again	RB	pos2=NNP	7	advmod	_	O
+11	?	?	.	_	4	punct	_	O
+
+1	Resign	resign	VB	_	0	root	_	O
+2	now	now	RB	_	1	advmod	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	#UniteBlue	#uniteblue	ADD	pos2=NN	0	root	_	O
+

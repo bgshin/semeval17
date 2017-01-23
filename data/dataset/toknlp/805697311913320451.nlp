@@ -1,0 +1,23 @@
+1	1	0	LS	_	3	meta	_	U-CARDINAL
+2	)	)	-RRB-	_	1	punct	_	O
+3	re-imposition	re-imposition	NN	_	0	root	_	O
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	death	death	NN	_	7	compound	_	O
+7	penalty2	penalty0	NN	pos2=NNP	4	pobj	_	O
+8	)	)	-RRB-	_	3	punct	_	O
+9	lowering	lower	VBG	_	3	acl	_	O
+10	the	the	DT	_	12	det	_	O
+11	minimum	minimum	JJ	pos2=NN	12	nmod	_	O
+12	age	age	NN	_	9	dobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	criminality	criminality	NN	_	13	pobj	_	O
+15	to	to	IN	_	9	prep	_	O
+16	NINE	#crd#	CD	pos2=NNP	17	nmod	_	B-DATE
+17	YEARS	year	NNS	_	18	npadvmod	_	I-DATE
+18	OLD	old	JJ	pos2=NNP	15	pcomp	_	L-DATE
+19	.	.	.	_	3	punct	_	O
+
+1	MY	my	PRP$	pos2=SYM	2	poss	_	O
+2	GOD	god	NN	pos2=NNP	0	root	_	O
+

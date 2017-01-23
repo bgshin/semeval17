@@ -1,0 +1,10 @@
+1	#follow	#follow	UH	pos2=XX	9	discourse	_	O
+2	#videos	#videos	UH	pos2=IN	9	dep	_	O
+3	Google	google	NNP	_	4	compound	_	B-ORG
+4	Earth	earth	NNP	_	9	dep	_	L-ORG
+5	…	…	NFP	pos2=-LRB-	9	punct	_	O
+6	https://t.co/gzjYsF2NQ4	#hlink#	ADD	_	9	nmod	_	O
+7	#VR	#vr	GW	pos2=-RRB-	9	nmod	_	U-ORG
+8	#VirtualReality	#virtualreality	GW	pos2=NN	9	nmod	_	O
+9	https://t.co/r7ByXY0ZnK	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

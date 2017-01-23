@@ -1,0 +1,5 @@
+1	@Hope012015	@hope0	NN	pos2=LS	3	compound	_	O
+2	COMEY	comey	NNP	pos2=NN	3	compound	_	U-PERSON
+3	COUP	coup	NN	pos2=NNP	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+

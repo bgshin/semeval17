@@ -1,0 +1,21 @@
+1	Did	do	VBD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	see	see	VB	_	0	root	_	O
+4	Paul	paul	NNP	_	5	compound	_	B-PERSON
+5	Anka	anka	NNP	_	3	dobj	_	L-PERSON
+6	on	on	IN	_	3	prep	_	O
+7	anyone	anyone	NN	_	10	poss	_	O
+8	's	's	POS	pos2=VBZ	7	case	_	O
+9	@GilmoreGirls	@gilmoregirls	NNS	pos2=NNPS	10	compound	_	O
+10	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNS	6	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	What	what	WP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	up	up	RB	pos2=JJ	2	advmod	_	O
+4	with	with	IN	_	2	prep	_	O
+5	that	that	DT	_	4	pobj	_	O
+6	?!	?!	.	_	2	punct	_	O
+
+1	🐶	🐶	SYM	pos2=NFP	0	root	_	U-ORG
+

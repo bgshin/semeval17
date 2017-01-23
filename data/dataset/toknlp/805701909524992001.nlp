@@ -1,0 +1,14 @@
+1	Immigration	immigration	NN	pos2=NNP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	6	det	_	O
+4	really	really	RB	_	5	advmod	_	O
+5	crucial	crucial	JJ	_	6	nmod	_	O
+6	issue	issue	NN	_	2	attr	_	O
+7	for	for	IN	_	6	prep	_	O
+8	these	these	DT	_	10	det	_	O
+9	tech	tech	NN	pos2=JJ	10	compound	_	O
+10	giants	giant	NNS	_	7	pobj	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	https://t.co/jZSjITnBpB	#hlink#	ADD	_	0	root	_	U-ORG
+

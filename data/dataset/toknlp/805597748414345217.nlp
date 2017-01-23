@@ -1,0 +1,12 @@
+1	@TrentBrock	@trentbrock	UH	pos2=XX	0	root	_	O
+2	ha	ha	UH	_	1	discourse	_	O
+3	!	!	.	_	1	punct	_	O
+
+1	No	no	DT	_	2	det	_	O
+2	shade	shade	NN	_	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	❤️	❤️	VBP	pos2=VBD	0	root	_	O
+3	her	her	PRP	pos2=PRP$	2	dobj	_	O
+

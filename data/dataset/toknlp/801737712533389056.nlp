@@ -1,0 +1,22 @@
+1	NOT	not	RB	_	2	neg	_	O
+2	in	in	IN	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	#UK	#uk	NNP	pos2=NN	5	compound	_	O
+5	news	news	NN	_	2	pobj	_	O
+6	or	or	CC	_	2	cc	_	O
+7	spoken	speak	VBN	_	2	conj	_	O
+8	about	about	IN	pos2=RP	7	prep	_	O
+9	in	in	IN	pos2=FW	7	prep	_	O
+10	#UK	#uk	JJ	pos2=NN	11	nmod	_	O
+11	universities	university	NNS	_	9	pobj	_	O
+12	where	where	WRB	_	16	advmod	_	O
+13	#Hamas	#hamas	NNP	pos2=NNS	16	nsubj	_	B-ORG
+14	&	&	CC	_	13	cc	_	I-ORG
+15	#Hezbollah	#hezbollah	NNP	pos2=TO	13	conj	_	L-ORG
+16	influence	influence	NN	pos2=VBP	11	relcl	_	O
+17	our	our	PRP$	_	18	poss	_	O
+18	students	student	NNS	_	16	dobj	_	O
+19	.	.	.	_	17	punct	_	O
+
+1	https://t.co/hfcO22HF8b	#hlink#	ADD	_	0	root	_	U-ORG
+

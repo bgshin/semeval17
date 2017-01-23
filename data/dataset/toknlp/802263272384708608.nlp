@@ -1,0 +1,19 @@
+1	Tesla	tesla	NNP	_	4	poss	_	U-ORG
+2	’s	's	POS	_	1	case	_	O
+3	autopilot	autopilot	NN	_	4	compound	_	O
+4	model	model	NN	_	5	nsubj	_	O
+5	highlights	highlight	VBZ	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	dangers	danger	NNS	_	5	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	self-driving	self-driving	JJ	_	10	nmod	_	O
+10	cars	car	NNS	_	8	pobj	_	O
+11	and	and	CC	_	10	cc	_	O
+12	potential	potential	JJ	pos2=NN	13	nmod	_	O
+13	flaws	flaw	NNS	_	10	conj	_	O
+14	in	in	IN	_	13	prep	_	O
+15	engineering	engineering	NN	_	14	pobj	_	O
+16	.	.	.	_	5	punct	_	O
+
+1	https://t.co/Y9CfNoQmb4	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,6 @@
+1	#nowplaying	#nowplaying	VBG	pos2=UH	0	root	_	O
+2	Maria	maria	NNP	_	1	dobj	_	U-PERSON
+3	by	by	IN	_	1	prep	_	O
+4	Ricky	ricky	NNP	_	5	compound	_	B-PERSON
+5	Martin	martin	NNP	_	3	pobj	_	L-PERSON
+

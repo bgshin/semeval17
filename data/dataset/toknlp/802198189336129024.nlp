@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det	_	O
+2	excitement	excitement	NN	_	3	nsubj	_	O
+3	felt	feel	VBD	_	0	root	_	O
+4	when	when	WRB	_	7	advmod	_	O
+5	the	the	DT	_	6	det	_	O
+6	#hatchimals	#hatchimals	NNPS	pos2=XX	7	nsubj	_	O
+7	hatches	hatch	VBZ	pos2=NNS	3	ccomp	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	Rosie	rosie	NNP	_	3	poss	_	U-PERSON
+2	's	's	POS	_	1	case	_	O
+3	face	face	NN	_	4	nsubj	_	O
+4	was	be	VBD	_	0	root	_	O
+5	#priceless	#priceless	JJ	pos2=RB	4	acomp	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	#hatchybirthday	#hatchybirthday	UH	pos2=GW	3	discourse	_	O
+2	…	…	NFP	pos2=-LRB-	3	punct	_	O
+3	https://t.co/TUowksE6ZP	#hlink#	ADD	pos2=NN	0	root	_	O
+

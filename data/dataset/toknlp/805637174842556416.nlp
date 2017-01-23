@@ -1,0 +1,13 @@
+1	@BenHowe	@benhowe	NN	pos2=UH	0	root	_	O
+2	like	like	IN	pos2=UH	1	prep	_	O
+3	abortion	abortion	NN	_	2	pobj	_	O
+4	,	,	,	_	1	punct	_	O
+5	gay	gay	JJ	pos2=NN	6	nmod	_	O
+6	marriage	marriage	NN	_	3	conj	_	O
+7	,	,	,	_	6	punct	_	O
+8	and	and	CC	_	6	cc	_	O
+9	obamacare	obamacare	NN	pos2=NNP	6	conj	_	O
+10	?	?	.	_	1	punct	_	O
+
+1	@LawrenceBJones3	@lawrencebjones0	NN	pos2=NNS	0	root	_	O
+

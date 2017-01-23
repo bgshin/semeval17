@@ -1,0 +1,25 @@
+1	@deray	@deray	UH	pos2=JJ	3	discourse	_	O
+2	delta	delta	NN	pos2=JJ	3	compound	_	O
+3	flight	flight	NN	_	5	dep	_	O
+4	,	,	,	_	5	punct	_	O
+5	get	get	VB	_	0	root	_	O
+6	over	over	IN	_	5	prep	_	O
+7	it	it	PRP	_	6	pobj	_	O
+8	.	.	.	_	5	punct	_	O
+
+1	Are	be	VBP	_	0	root	_	O
+2	the	the	DT	_	5	det	_	O
+3	anti	anti	AFX	pos2=NN	4	nmod	_	O
+4	trump	trump	NN	pos2=JJ	5	compound	_	O
+5	riots	riot	NNS	_	1	nsubj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	USA	usa	NNP	_	6	pobj	_	U-GPE
+9	ok	ok	UH	pos2=RB	1	discourse	_	O
+10	.	.	.	_	1	punct	_	O
+
+1	write	write	VB	pos2=NN	0	root	_	O
+2	about	about	IN	pos2=RB	1	prep	_	O
+3	that	that	DT	pos2=WDT	2	pobj	_	O
+4	please	please	UH	_	1	discourse	_	O
+

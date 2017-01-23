@@ -1,0 +1,16 @@
+1	American	american	JJ	pos2=NNP	2	nmod	_	U-NORP
+2	Own	own	NNP	pos2=JJ	3	nsubj	_	O
+3	rejects	reject	VBZ	_	0	root	_	O
+4	Mosque	mosque	NNP	pos2=NN	3	dobj	_	U-PERSON
+5	,	,	,	_	3	punct	_	O
+6	sued	sue	VBN	_	3	advcl	_	O
+7	by	by	IN	_	6	agent	_	O
+8	Obama	obama	NNP	_	9	compound	_	B-PERSON
+9	Administration	administration	NNP	_	7	pobj	_	L-PERSON
+10	!	!	.	_	3	punct	_	O
+
+1	#blackfriday	#blackfriday	UH	pos2=MD	4	dep	_	O
+2	#DayAfterThanksgiving	#dayafterthanksgiving	VBG	pos2=GW	4	dep	_	O
+3	#BanMosques	#banmosques	NNS	pos2=ADD	4	nmod	_	O
+4	https://t.co/tFfemvwHgH	#hlink#	ADD	_	0	root	_	O
+

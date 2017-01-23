@@ -1,0 +1,26 @@
+1	@Evan_McMullin	@evan_mcmullin	NN	pos2=NNP	0	root	_	O
+2	U	u	PRP	pos2=NNP	1	dobj	_	O
+3	off	off	RP	pos2=IN	1	prt	_	O
+4	your	your	PRP$	_	5	poss	_	O
+5	rocker	rocker	NN	pos2=NNP	1	dobj	_	O
+6	?	?	.	_	1	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	not	not	RB	_	2	neg	_	O
+4	supremacists	supremacist	NNS	_	2	attr	_	O
+5	but	but	CC	pos2=IN	2	cc	_	O
+6	how	how	WRB	_	9	advmod	_	O
+7	can	can	MD	_	9	aux	_	O
+8	we	we	PRP	_	9	nsubj	_	O
+9	trust	trust	VB	_	2	conj	_	O
+10	someone	someone	NN	_	9	dobj	_	O
+11	like	like	IN	_	10	prep	_	O
+12	Romney	romney	NNP	_	11	pobj	_	U-PERSON
+13	who	who	WP	_	14	nsubj	_	O
+14	backed	back	VBD	_	10	relcl	_	O
+15	U	u	NNP	pos2=RP	14	dobj	_	U-ORG
+16	among	among	IN	_	14	prep	_	O
+17	other	other	JJ	_	18	nmod	_	O
+18	things	thing	NNS	_	16	pobj	_	O
+

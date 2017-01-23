@@ -1,0 +1,8 @@
+1	#	#	NN	_	2	dep	_	O
+2	2	0	LS	pos2=CD	7	dep	_	U-MONEY
+3	:	:	:	_	7	punct	_	O
+4	Various	various	JJ	pos2=GW	5	nmod	_	O
+5	Positions	position	NNS	pos2=GW	7	dep	_	O
+6	https://t.co/7b3ry0J27a	#hlink#	ADD	_	7	nmod	_	O
+7	https://t.co/5WdtFjqqSc	#hlink#	ADD	_	0	root	_	U-ORG
+

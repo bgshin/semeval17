@@ -1,0 +1,22 @@
+1	https://t.co/Zzb1C0d9Vz	#hlink#	ADD	pos2=NN	21	dep	_	O
+2	[	[	-LRB-	_	21	punct	_	O
+3	Upgraded	upgraded	NNP	pos2=VBN	21	nmod	_	O
+4	]	]	-RRB-	_	1	punct	_	O
+5	Anker	anker	NNP	_	21	dep	_	U-PERSON
+6	24W	0w	NN	pos2=POS	21	dep	_	O
+7	Dual	dual	JJ	pos2=NNP	8	nmod	_	O
+8	USB	usb	NN	pos2=NNP	11	compound	_	O
+9	Wall	wall	NNP	pos2=NN	10	compound	_	O
+10	Charger	charger	NNP	pos2=NN	11	compound	_	U-PRODUCT
+11	PowerPort	powerport	NNP	_	21	dep	_	B-LAW
+12	2	0	CD	_	11	npadvmod	_	L-LAW
+13	(	(	-LRB-	_	11	punct	_	O
+14	with	with	IN	_	11	prep	_	O
+15	2	0	CD	_	16	nmod	_	U-CARDINAL
+16	Ports	port	NNS	pos2=NNPS	14	pobj	_	O
+17	and	and	CC	_	16	cc	_	O
+18	Foldable	foldable	JJ	_	19	nmod	_	O
+19	Plug	plug	NNP	pos2=NN	16	conj	_	U-ORG
+20	)	)	-RRB-	pos2=GW	21	nmod	_	O
+21	https://t.co/pKiRvilS1e	#hlink#	ADD	pos2=NN	0	root	_	O
+

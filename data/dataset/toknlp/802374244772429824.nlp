@@ -1,0 +1,20 @@
+1	#DISEC	#disec	NNP	pos2=NN	2	compound	_	O
+2	Chair	chair	NN	pos2=NNP	3	nsubj	_	O
+3	tries	try	VBZ	_	0	root	_	O
+4	to	to	IN	pos2=TO	3	prep	_	O
+5	silence	silence	NN	pos2=VB	4	pobj	_	O
+6	DPRK.	dprk.	NNP	_	10	vocative	_	O
+7	WE	we	PRP	pos2=NNP	11	nsubjpass	_	O
+8	CAN	can	MD	_	11	aux	_	O
+9	NEVER	never	RB	_	11	neg	_	O
+10	BE	be	VB	_	11	auxpass	_	O
+11	SILENCED	silence	VBN	_	3	conj	_	O
+12	.	.	.	_	11	punct	_	O
+
+1	PRAISE	praise	NN	pos2=VB	6	compound	_	O
+2	KIM	kim	NNP	pos2=FW	5	compound	_	O
+3	JONG	jong	NNP	_	5	compound	_	O
+4	-	-	HYPH	pos2=:	5	punct	_	O
+5	UN	un	NNP	_	6	compound	_	O
+6	#SydMUN16	#sydmun0	NN	pos2=NNS	0	root	_	O
+

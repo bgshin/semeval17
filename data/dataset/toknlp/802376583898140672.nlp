@@ -1,0 +1,13 @@
+1	#podesta#pizzagate#clintons#Obama#pelosi#harryreid#Cnn#Msm#radicalislam#spiritcookingTHIS	#podesta#pizzagate#clintons#obama#pelosi#harryreid#cnn#msm#radicalislam#spiritcookingthis	NN	pos2=DT	2	nsubj	_	O
+2	IS	be	VBZ	_	6	ccomp	_	O
+3	EVIL	evil	JJ	_	4	nmod	_	O
+4	AMERICA	america	NNP	pos2=NN	2	attr	_	U-GPE
+5	,	,	,	_	6	punct	_	O
+6	LOOK	look	VB	_	0	root	_	O
+7	AT	at	IN	_	6	prep	_	O
+8	IT	it	PRP	pos2=NN	7	pobj	_	O
+9	AND	and	CC	_	6	cc	_	O
+10	KNOW	know	VB	pos2=VBP	6	conj	_	O
+11	IT	it	PRP	pos2=NN	10	dobj	_	O
+12	.	.	.	_	6	punct	_	O
+

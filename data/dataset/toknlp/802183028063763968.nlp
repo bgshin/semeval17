@@ -1,0 +1,13 @@
+1	Female	female	JJ	_	3	nmod	_	O
+2	Palestinian	palestinian	JJ	_	3	nmod	_	U-NORP
+3	prisoners	prisoner	NNS	_	10	nsubj	_	O
+4	held	hold	VBN	pos2=VBD	3	acl	_	O
+5	under	under	IN	_	4	prep	_	O
+6	harsh	harsh	JJ	_	7	nmod	_	O
+7	conditions	condition	NNS	_	5	pobj	_	O
+8	https://t.co/AFUxqSc0jn	#hlink#	ADD	pos2=VBP	7	appos	_	O
+9	#gaza	#gaza	-RRB-	pos2=IN	12	punct	_	O
+10	#palestine	#palestine	UH	pos2=PRP	12	discourse	_	O
+11	#israael	#israael	UH	pos2=VB	12	discourse	_	O
+12	#BDS	#bds	NNS	pos2=UH	0	root	_	O
+

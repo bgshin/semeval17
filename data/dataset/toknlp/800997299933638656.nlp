@@ -1,0 +1,15 @@
+1	#Ukraine	#ukraine	DT	pos2=PRP$	4	det	_	O
+2	presidential	presidential	JJ	_	4	nmod	_	O
+3	official	official	JJ	pos2=NN	4	nmod	_	O
+4	counters	counter	NNS	pos2=VBZ	0	root	_	O
+5	Saakashvili	saakashvili	NNP	_	7	poss	_	U-PERSON
+6	’s	's	POS	_	5	case	_	O
+7	corruption	corruption	NN	_	8	nsubj	_	O
+8	claims	claim	VBZ	pos2=NNS	4	relcl	_	O
+9	via	via	IN	_	8	prep	_	O
+10	@Reuters	@reuters	NNS	pos2=NNP	9	pobj	_	O
+11	in	in	IN	_	10	prep	_	O
+12	our	our	PRP$	_	14	poss	_	O
+13	#TRansnationalWeekly	#transnationalweekly	GW	pos2=ADD	14	nmod	_	O
+14	https://t.co/s8F9oM4sD3	#hlink#	ADD	pos2=NN	11	pobj	_	O
+

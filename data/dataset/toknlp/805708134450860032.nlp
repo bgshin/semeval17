@@ -1,0 +1,13 @@
+1	AMAZING	amazing	NN	pos2=JJ	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	Folliculitis	folliculitis	NN	pos2=NNP	6	compound	_	O
+4	Decalvans	decalvans	NNP	pos2=VBZ	6	compound	_	O
+5	Homeopathic	homeopathic	NNP	pos2=JJ	6	compound	_	O
+6	Cure	cure	NNP	pos2=NN	0	root	_	O
+7	by	by	IN	_	6	prep	_	O
+8	Dr.	dr.	NNP	_	9	compound	_	O
+9	Ravi	ravi	NNP	_	12	nmod	_	B-PERSON
+10	S	s	GW	pos2=NNP	12	nmod	_	L-PERSON
+11	inghhttps://t.co/SVl7AoW26Y#Homeopathy	#hlink#	ADD	_	12	nmod	_	O
+12	https://t.co/gtzOAe5wau	#hlink#	ADD	_	7	pobj	_	U-ORG
+

@@ -1,0 +1,15 @@
+1	@chicagotribune	@chicagotribune	UH	pos2=ADD	3	discourse	_	O
+2	om.fucking.g.fuck	#hlink#	ADD	pos2=VBP	0	root	_	O
+3	you	you	PRP	_	2	dobj	_	O
+4	....	..	.	pos2=,	2	punct	_	O
+
+1	craven	craven	LS	pos2=NN	0	nsubj	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	How	how	WRB	_	4	advmod	_	O
+2	Republicans	republican	NNPS	_	4	nsubj	_	U-NORP
+3	can	can	MD	_	4	aux	_	O
+4	rebuild	rebuild	VB	_	0	root	_	O
+5	Obama	obama	NNP	pos2=GW	4	dobj	_	U-PERSON
+6	carehttps://t.co/N7XPyeRcldhttps://t.co/VK29wkI8v0	#hlink#	ADD	_	5	appos	_	O
+

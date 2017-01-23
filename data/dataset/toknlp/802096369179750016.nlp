@@ -1,0 +1,22 @@
+1	ca	can	MD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	confirm	confirm	VB	_	0	root	_	O
+4	that	that	DT	pos2=IN	3	dobj	_	O
+5	but	but	CC	_	3	cc	_	O
+6	if	if	IN	_	15	mark	_	O
+7	#Russia	#russia	NNP	pos2=FW	8	compound	_	O
+8	liaison	liaison	NN	pos2=VBP	3	conj	_	O
+9	with	with	IN	_	8	prep	_	O
+10	#Hezbollah	#hezbollah	NNP	pos2=NN	9	pobj	_	U-ORG
+11	directly	directly	RB	_	12	advmod	_	O
+12	in	in	IN	_	8	prep	_	O
+13	#Aleppo	#aleppo	NNP	_	12	pobj	_	U-LOC
+14	that	that	DT	pos2=WDT	15	nsubj	_	O
+15	means	mean	VBZ	_	11	advcl	_	O
+16	siege	siege	NN	_	17	nsubj	_	O
+17	is	be	VBZ	_	15	ccomp	_	O
+18	about	about	JJ	pos2=IN	17	acomp	_	O
+19	to	to	TO	_	20	aux	_	O
+20	break	break	VB	_	18	xcomp	_	O
+21	https://t.co/g2RmSYoqi9	#hlink#	ADD	pos2=RP	20	dobj	_	O
+

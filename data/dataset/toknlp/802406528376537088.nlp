@@ -1,0 +1,10 @@
+1	Hopfully	hopfully	RB	pos2=NNP	5	advmod	_	O
+2	Kaepernick	kaepernick	NNP	_	5	nsubj	_	U-PERSON
+3	does	do	VBZ	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	defend	defend	VB	_	0	root	_	O
+6	Nicolas	nicolas	NNP	_	7	compound	_	B-PERSON
+7	Maduro	maduro	NNP	_	5	dobj	_	L-PERSON
+8	on	on	IN	_	5	prep	_	O
+9	Sunday	sunday	NNP	_	8	pobj	_	U-DATE
+

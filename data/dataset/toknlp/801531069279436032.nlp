@@ -1,0 +1,15 @@
+1	Move	move	VB	pos2=VBP	0	root	_	O
+2	enthusiastically	enthusiastically	RB	_	1	advmod	_	O
+3	to	to	IN	_	1	prep	_	O
+4	your	your	PRP$	_	7	poss	_	O
+5	scariest	scary	JJS	pos2=RBS	6	advmod	_	O
+6	worthwhile	worthwhile	JJ	_	7	nmod	_	O
+7	#dreams	#dreams	NNS	pos2=UH	3	pobj	_	O
+8	!	!	.	_	1	punct	_	O
+
+1	https://t.co/GkOUmepYJu	#hlink#	ADD	_	5	nmod	_	O
+2	#DominatingYourMind	#dominatingyourmind	-RRB-	pos2=ADD	1	punct	_	O
+3	#DYM	#dym	GW	pos2=NFP	5	nmod	_	O
+4	…	…	NFP	pos2=GW	5	punct	_	O
+5	https://t.co/osyUJW688P	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

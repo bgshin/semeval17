@@ -1,0 +1,14 @@
+1	@RickPorcello	@rickporcello	NNP	pos2=XX	0	root	_	O
+2	Happy	happy	JJ	pos2=NNP	3	nmod	_	O
+3	Thanksgiving	thanksgiving	NNP	_	1	vocative	_	U-DATE
+4	!	!	.	_	1	punct	_	O
+
+1	Congrats	congrats	NNS	pos2=RB	0	root	_	O
+2	on	on	IN	_	1	prep	_	O
+3	winning	win	VBG	_	2	pcomp	_	O
+4	the	the	DT	_	7	det	_	B-WORK_OF_ART
+5	Cy	cy	NNP	_	6	compound	_	I-WORK_OF_ART
+6	Young	young	NNP	pos2=JJ	7	compound	_	L-WORK_OF_ART
+7	award	award	NN	_	3	dobj	_	O
+8	!	!	.	_	1	punct	_	O
+

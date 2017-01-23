@@ -1,0 +1,13 @@
+1	Steve	steve	NNP	_	2	compound	_	B-PERSON
+2	Bannon	bannon	NNP	_	3	nsubj	_	L-PERSON
+3	said	say	VBD	_	0	root	_	O
+4	they	they	PRP	_	6	nsubj	_	O
+5	'd	would	MD	_	6	aux	_	O
+6	help	help	VB	_	3	ccomp	_	O
+7	me	me	PRP	_	8	nsubj	_	O
+8	move	move	VB	_	6	ccomp	_	O
+9	but	but	CC	_	3	cc	_	O
+10	got	get	VBD	_	3	conj	_	O
+11	high	high	JJ	pos2=RB	10	acomp	_	O
+12	instead	instead	RB	_	10	advmod	_	O
+

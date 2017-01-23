@@ -1,0 +1,17 @@
+1	#Syria	#syria	NNP	pos2=NN	2	compound	_	O
+2	Update	update	NN	pos2=VB	12	dep	_	O
+3	:	:	:	_	12	punct	_	O
+4	Lavrov	lavrov	NNP	_	6	compound	_	B-NORP
+5	-	-	HYPH	pos2=:	6	punct	_	I-NORP
+6	Rebels	rebel	NNPS	pos2=NNP	12	nsubj	_	L-NORP
+7	Remaining	remain	VBG	pos2=NNP	6	acl	_	O
+8	in	in	IN	_	7	prep	_	O
+9	Eastern	eastern	NNP	pos2=JJ	11	compound	_	B-LOC
+10	#Aleppo	#aleppo	NNP	_	11	compound	_	I-LOC
+11	City	city	NNP	_	8	pobj	_	L-LOC
+12	Are	be	VBP	pos2=NNP	0	root	_	O
+13	"	"	``	_	14	punct	_	O
+14	Terrorists	terrorist	NNS	pos2=NNPS	12	attr	_	O
+15	"	"	''	pos2=-LRB-	14	punct	_	O
+16	https://t.co/yKJxPrPmCF	#hlink#	ADD	pos2=NN	14	appos	_	O
+

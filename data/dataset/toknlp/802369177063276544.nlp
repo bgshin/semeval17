@@ -1,0 +1,13 @@
+1	Week	week	NN	pos2=NNP	6	dep	_	O
+2	In	in	IN	_	1	prep	_	O
+3	Politics	politics	NNS	pos2=NNP	2	pobj	_	O
+4	:	:	:	_	6	punct	_	O
+5	Trump	trump	NNP	pos2=NN	6	nsubj	_	B-ORG
+6	Makes	make	VBZ	pos2=NNP	0	root	_	I-ORG
+7	First	#ord#	NNP	pos2=JJ	8	compound	_	I-ORG
+8	Cabinet	cabinet	NNP	_	9	compound	_	L-ORG
+9	Appointments	appointment	NNS	pos2=NNPS	6	dobj	_	O
+10	-	-	:	pos2=,	12	punct	_	O
+11	NPR	npr	NNP	pos2=NN	12	nmod	_	B-ORG
+12	https://t.co/AQXmkxNoMp	#hlink#	ADD	pos2=NN	6	dep	_	L-ORG
+

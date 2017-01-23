@@ -1,0 +1,11 @@
+1	68,000	0	CD	pos2=LS	2	nmod	_	U-CARDINAL
+2	Iraqis	iraqi	NNPS	_	8	dep	_	U-NORP
+3	displaced	displace	VBN	_	2	acl	_	O
+4	from	from	IN	_	3	prep	_	O
+5	#MosulOffensive	#mosuloffensive	NNP	pos2=CD	4	pobj	_	U-ORG
+6	:	:	:	_	8	punct	_	O
+7	#UN	#un	NFP	pos2=ADD	8	punct	_	O
+8	https://t.co/QhksPuhHDj	#hlink#	ADD	pos2=NN	0	root	_	O
+9	via	via	IN	_	8	prep	_	O
+10	@YahooNews	@yahoonews	ADD	pos2=NNS	9	pobj	_	O
+

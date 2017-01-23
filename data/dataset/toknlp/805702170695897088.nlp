@@ -1,0 +1,17 @@
+1	Just	just	RB	_	2	advmod	_	O
+2	seen	see	VBN	pos2=VB	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	season	season	NN	_	5	compound	_	O
+5	finale	finale	NN	_	2	dobj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	westworld	westworld	NN	pos2=NNP	6	pobj	_	O
+8	and	and	CC	_	2	cc	_	O
+9	wow	wow	UH	pos2=NN	5	discourse	_	O
+10	...	..	.	_	2	punct	_	O
+
+1	This	this	DT	_	2	det	_	O
+2	show	show	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	…	…	NFP	pos2=-LRB-	3	discourse	_	O
+5	https://t.co/UcIxT7V38S	#hlink#	ADD	_	3	dep	_	O
+

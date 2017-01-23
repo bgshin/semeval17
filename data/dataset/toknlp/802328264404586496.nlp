@@ -1,0 +1,30 @@
+1	@StacyBrewer18	@stacybrewer0	NN	pos2=NNS	2	compound	_	O
+2	@slava381977	@slava0	NN	pos2=LS	5	dobj	_	O
+3	@SputnikInt	@sputnikint	MD	pos2=NN	5	aux	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	have	have	VB	pos2=VBP	0	root	_	O
+6	yet	yet	RB	_	5	advmod	_	O
+7	to	to	TO	_	8	aux	_	O
+8	hear	hear	VB	_	5	xcomp	_	O
+9	of	of	IN	_	8	prep	_	O
+10	any	any	DT	_	11	det	_	O
+11	help	help	NN	_	9	pobj	_	O
+12	from	from	IN	_	11	prep	_	O
+13	Obama	obama	NNP	_	14	compound	_	U-PERSON
+14	admin	admin	NN	_	12	pobj	_	O
+15	.	.	.	_	5	punct	_	O
+
+1	..	..	.	pos2=NFP	0	predet	_	O
+
+1	please	please	UH	_	2	discourse	_	O
+2	post	post	VB	pos2=AFX	0	root	_	O
+3	info	info	NN	pos2=RB	2	dobj	_	O
+4	if	if	IN	_	6	mark	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	have	have	VBP	_	2	advcl	_	O
+7	it	it	PRP	_	6	dobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	Thanks	thanks	NN	pos2=UH	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+

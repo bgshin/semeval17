@@ -1,0 +1,12 @@
+1	@starfirst	@starfirst	UH	pos2=RB	6	discourse	_	O
+2	@washingtonpost	@washingtonpost	UH	pos2=IN	6	discourse	_	O
+3	we	we	PRP	_	6	nsubj	_	O
+4	are	be	VBP	_	6	aux	_	O
+5	not	not	RB	_	6	neg	_	O
+6	giving	give	VBG	_	0	root	_	O
+7	Steve	steve	NNP	_	8	compound	_	B-PERSON
+8	Bannon	bannon	NNP	_	6	dative	_	L-PERSON
+9	a	a	DT	_	10	det	_	O
+10	pass	pass	NN	_	6	dobj	_	O
+11	!	!	.	_	6	punct	_	O
+

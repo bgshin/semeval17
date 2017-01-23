@@ -1,0 +1,25 @@
+1	J'aime	j'aime	FW	_	10	nmod	_	O
+2	une	une	FW	pos2=JJ	10	nmod	_	O
+3	vidéo	vidéo	FW	pos2=NNP	10	nmod	_	O
+4	@YouTube	@youtube	FW	pos2=NNP	10	nmod	_	O
+5	de	de	FW	pos2=IN	10	nmod	_	O
+6	@coolgameinside	@coolgameinside	FW	pos2=RB	8	advmod	_	O
+7	-	-	HYPH	pos2=SYM	8	punct	_	O
+8	New	new	JJ	pos2=NNP	10	nmod	_	O
+9	VR	vr	NNP	pos2=NN	10	compound	_	O
+10	Games	game	NNPS	pos2=NNP	16	dep	_	O
+11	Last	last	JJ	pos2=NNP	12	nmod	_	B-DATE
+12	Week	week	NN	pos2=NNP	10	npadvmod	_	L-DATE
+13	-	-	:	pos2=HYPH	16	punct	_	O
+14	Google	google	NNP	_	16	compound	_	B-ORG
+15	Earth	earth	NNP	_	16	compound	_	I-ORG
+16	VR	vr	NNP	pos2=NN	18	vocative	_	L-ORG
+17	,	,	,	_	18	punct	_	O
+18	Keep	keep	VB	pos2=NNP	0	root	_	O
+19	Watching	watch	VBG	pos2=NNP	18	xcomp	_	O
+20	VR	vr	NNP	pos2=NN	19	dobj	_	U-ORG
+21	,	,	,	_	20	punct	_	O
+22	Bounce	bounce	NNP	pos2=NN	20	conj	_	U-GPE
+23	,	,	,	_	22	punct	_	O
+24	Lantern	lantern	NNP	pos2=NN	22	conj	_	U-ORG
+

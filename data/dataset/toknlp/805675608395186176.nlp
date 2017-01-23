@@ -1,0 +1,24 @@
+1	Rimmel	rimmel	NNP	_	2	compound	_	B-ORG
+2	Cosmetics	cosmetic	NNPS	pos2=NNS	11	dep	_	L-ORG
+3	,	,	,	_	2	punct	_	O
+4	Avon	avon	NNP	_	2	conj	_	U-GPE
+5	and	and	CC	_	4	cc	_	O
+6	Cover	cover	NNP	pos2=NN	7	compound	_	B-PRODUCT
+7	Girl	girl	NN	pos2=NNP	4	conj	_	L-PRODUCT
+8	:	:	:	_	11	punct	_	O
+9	You	you	PRP	_	11	nsubj	_	O
+10	have	have	VBP	_	11	aux	_	O
+11	got	get	VBN	pos2=NN	0	root	_	O
+12	to	to	TO	_	13	aux	_	O
+13	stop	stop	VB	_	11	xcomp	_	O
+14	making	make	VBG	_	13	xcomp	_	O
+15	“	"	``	pos2=''	11	punct	_	O
+16	cosmetics	cosmetic	NNS	_	14	dobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	cruelty	cruelty	NN	_	17	pobj	_	O
+19	”	"	''	_	11	punct	_	O
+20	!	!	.	_	11	punct	_	O
+
+1	https://t.co/JJQ5yabbGD	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/k0RDRPPrFx	#hlink#	ADD	_	0	root	_	U-ORG
+

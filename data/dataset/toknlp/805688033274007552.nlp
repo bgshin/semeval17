@@ -1,0 +1,19 @@
+1	ALABAMA	alabama	NN	pos2=NNP	18	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	GOP	gop	NNP	_	4	compound	_	O
+4	House	house	NNP	_	5	compound	_	U-ORG
+5	Speaker	speaker	NNP	_	6	compound	_	O
+6	Mike	mike	NNP	_	8	nmod	_	U-PERSON
+7	“	"	''	pos2=``	6	punct	_	O
+8	Sanctity	sanctity	NN	pos2=NNP	18	dep	_	O
+9	Of	of	IN	pos2=NNP	8	prep	_	O
+10	Marriage	marriage	NNP	pos2=NN	9	pobj	_	O
+11	”	"	''	pos2=IN	6	punct	_	O
+12	Hubbard	hubbard	NNP	_	13	compound	_	B-PERSON
+13	Convicted	convicted	NNP	pos2=VBN	18	dep	_	L-PERSON
+14	On	on	IN	_	8	prep	_	O
+15	12	0	CD	_	17	nmod	_	U-DATE
+16	Corruption	corruption	NN	pos2=NNP	17	compound	_	O
+17	Charges	charge	NNS	pos2=VBZ	14	pobj	_	O
+18	https://t.co/Iwa8iAQoBq	#hlink#	ADD	_	0	root	_	U-DATE
+

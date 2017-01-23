@@ -1,0 +1,13 @@
+1	@ShittySUFanart	@shittysufanart	NNP	pos2=NN	4	nsubj	_	U-GPE
+2	Ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	wait	wait	VB	_	0	root	_	O
+5	for	for	IN	_	9	mark	_	O
+6	Mike	mike	NNP	_	7	compound	_	B-PERSON
+7	Pence	penny	NNP	_	12	dep	_	L-PERSON
+8	to	to	TO	_	9	aux	_	O
+9	exterminate	exterminate	VB	_	4	advcl	_	O
+10	the	the	DT	_	12	det	_	O
+11	tumblr	tumblr	NN	pos2=NNP	12	compound	_	O
+12	plague	plague	NN	_	9	dobj	_	O
+

@@ -1,0 +1,13 @@
+1	Rauner	rauner	NNP	pos2=PRP$	2	compound	_	U-PERSON
+2	veto	veto	NN	pos2=IN	8	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	automatic	automatic	JJ	_	7	nmod	_	O
+5	voter	voter	NN	_	6	compound	_	O
+6	registration	registration	NN	_	7	compound	_	O
+7	bill	bill	NN	_	3	pobj	_	O
+8	stands	stand	VBZ	_	0	root	_	O
+9	after	after	IN	_	8	prep	_	O
+10	House	house	NNP	pos2=NN	11	compound	_	U-ORG
+11	vote	vote	NN	pos2=VB	9	pobj	_	O
+12	https://t.co/ps5R1jpclD	#hlink#	ADD	pos2=NN	7	appos	_	U-ORG
+

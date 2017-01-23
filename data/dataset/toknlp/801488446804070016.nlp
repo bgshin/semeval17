@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det	_	O
+2	latest	late	JJS	_	3	nmod	_	O
+3	Read	read	NN	pos2=NNP	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Reread	reread	VB	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Repeat	repeat	VB	pos2=NN	0	root	_	O
+2	.!	.!	.	_	1	punct	_	O
+
+1	https://t.co/urNHJ3fHfF	#hlink#	ADD	_	2	nsubj	_	O
+2	#nbawards	#nbawards	NNS	pos2=UH	0	root	_	O
+

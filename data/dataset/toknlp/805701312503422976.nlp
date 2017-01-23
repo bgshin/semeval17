@@ -1,0 +1,9 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	definitely	definitely	RB	_	2	advmod	_	O
+4	too	too	RB	_	5	advmod	_	O
+5	dumb	dumb	JJ	_	2	acomp	_	O
+6	for	for	IN	_	5	prep	_	O
+7	Westworld	westworld	NNP	_	6	pobj	_	O
+8	lol	lol	UH	_	2	discourse	_	O
+

@@ -1,0 +1,19 @@
+1	#Microsoft	#microsoft	NNP	pos2=PRP	2	nsubj	_	U-PERSON
+2	announces	announce	VBZ	_	0	root	_	O
+3	that	that	IN	_	6	mark	_	O
+4	it	it	PRP	_	6	nsubj	_	O
+5	's	's	VBZ	_	6	aux	_	O
+6	joining	join	VBG	_	2	ccomp	_	O
+7	the	the	DT	_	9	det	_	O
+8	#	#	NN	pos2=$	9	compound	_	O
+9	LinuxFoundation	linuxfoundation	NNP	pos2=NN	6	dobj	_	U-ORG
+10	.	.	.	_	2	punct	_	O
+
+1	https	http	NNS	pos2=NN	7	dep	_	O
+2	:	:	:	_	7	punct	_	O
+3	//	//	NFP	pos2=-LRB-	7	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	7	nmod	_	O
+5	/	/	SYM	pos2=GW	7	punct	_	O
+6	BeOxsDa9xL	beoxsda0xl	ADD	pos2=NN	7	punct	_	O
+7	https://t.co/oBmQQQXfzP	#hlink#	ADD	pos2=NN	0	root	_	O
+

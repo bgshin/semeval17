@@ -1,0 +1,20 @@
+1	You	you	PRP	_	2	nsubj	_	O
+2	work	work	VBP	_	0	root	_	O
+3	as	as	IN	_	2	prep	_	O
+4	PR	pr	NN	pos2=NNP	3	pobj	_	O
+5	for	for	IN	_	4	prep	_	O
+6	a	a	DT	_	10	det	_	O
+7	pro-Kremlin	pro-kremlin	JJ	_	9	nmod	_	U-NORP
+8	propaganda	propaganda	NN	_	9	compound	_	O
+9	organization	organization	NN	_	10	compound	_	O
+10	@GicAriana	@gicariana	NN	pos2=ADD	5	pobj	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	You	you	PRP	_	3	nsubj	_	O
+2	're	be	VBP	_	3	aux	_	O
+3	killing	kill	VBG	_	0	root	_	O
+4	irony@kalenskyj	irony@kalenskyj	RP	pos2=GW	3	prt	_	O
+5	@dw_business	@dw_business	GW	pos2=NN	3	punct	_	O
+6	…	…	NFP	pos2=GW	3	discourse	_	O
+7	https://t.co/jgJ83uhOxa	#hlink#	ADD	pos2=NN	3	dobj	_	O
+

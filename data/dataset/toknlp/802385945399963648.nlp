@@ -1,0 +1,6 @@
+1	LEONARD	leonard	NNP	_	2	compound	_	B-PERSON
+2	COHEN	cohen	NNP	pos2=GW	3	compound	_	L-PERSON
+3	TRIBUTE	tribute	NN	pos2=GW	5	dep	_	O
+4	https://t.co/DOtTmWUhrj	#hlink#	ADD	pos2=:	5	nsubj	_	O
+5	@YouTube	@youtube	ADD	pos2=-RRB-	0	root	_	O
+

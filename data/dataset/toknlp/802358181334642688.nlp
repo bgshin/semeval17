@@ -1,0 +1,21 @@
+1	Sen.	sen.	NNP	_	2	compound	_	O
+2	Warren	warren	NNP	_	3	nsubj	_	U-PERSON
+3	wants	want	VBZ	_	0	root	_	O
+4	investigation	investigation	NN	_	3	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Trump	trump	NNP	pos2=NN	9	poss	_	U-PERSON
+7	's	's	POS	_	6	case	_	O
+8	transition	transition	NN	pos2=GW	9	compound	_	O
+9	team	team	NN	_	5	pobj	_	O
+10	https://t.co/lM1Zuo6uem	#hlink#	ADD	pos2=NNP	12	nmod	_	O
+11	Pocahontas	pocahontas	NNP	_	12	compound	_	U-ORG
+12	pussy	pussy	NN	_	13	nsubj	_	O
+13	lies	lie	VBZ	_	3	conj	_	O
+14	as	as	RB	_	15	advmod	_	O
+15	much	much	JJ	pos2=RB	13	advcl	_	O
+16	as	as	IN	_	13	prep	_	O
+17	that	that	DT	_	18	det	_	O
+18	crotch	crotch	NN	_	16	pobj	_	O
+19	Hillary	hillary	NNP	_	18	appos	_	U-PERSON
+20	!	!	.	_	13	punct	_	O
+

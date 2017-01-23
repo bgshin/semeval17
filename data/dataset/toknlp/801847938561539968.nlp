@@ -1,0 +1,27 @@
+1	When	when	WRB	_	3	advmod	_	O
+2	Walker	walker	NNP	_	3	nsubj	_	U-PERSON
+3	wins	win	VBZ	_	9	advcl	_	O
+4	a	a	DT	_	6	det	_	O
+5	Cy	cy	NNP	_	6	compound	_	O
+6	Young	young	NNP	pos2=JJ	3	dobj	_	O
+7	you	you	PRP	_	9	nsubj	_	O
+8	'll	will	MD	_	9	aux	_	O
+9	forget	forget	VB	_	0	root	_	O
+10	all	all	RB	pos2=DT	11	advmod	_	O
+11	about	about	IN	_	9	prep	_	O
+12	JS.	js.	NNP	_	13	compound	_	B-ORG
+13	Power	power	NNP	pos2=NN	14	compound	_	L-ORG
+14	arms	arm	NNS	_	11	pobj	_	O
+15	take	take	VB	pos2=VBP	9	advcl	_	O
+16	longer	long	JJR	pos2=RBR	15	advmod	_	O
+17	to	to	TO	_	18	aux	_	O
+18	develop	develop	VB	_	15	xcomp	_	O
+19	(	(	-LRB-	_	18	punct	_	O
+20	like	like	IN	pos2=VB	18	prep	_	O
+21	Scherzer	scherzer	NNP	_	20	pobj	_	U-PERSON
+22	....	..	.	pos2=,	9	punct	_	O
+
+1	ouch	ouch	UH	pos2=NN	3	discourse	_	O
+2	)	)	-RRB-	_	3	nmod	_	O
+3	https://t.co/L13BM41Xwb	#hlink#	ADD	pos2=NN	0	root	_	O
+

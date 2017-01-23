@@ -1,0 +1,22 @@
+1	Did	do	VBD	_	3	aux	_	O
+2	he	he	PRP	_	3	nsubj	_	O
+3	say	say	VB	_	0	root	_	O
+4	it	it	PRP	_	3	dobj	_	O
+5	or	or	CC	_	3	cc	_	O
+6	did	do	VBD	_	9	aux	_	O
+7	he	he	PRP	_	9	nsubj	_	O
+8	not	not	RB	_	9	neg	_	O
+9	say	say	VB	_	3	conj	_	O
+10	it	it	PRP	_	9	dobj	_	O
+11	?	?	.	_	9	punct	_	O
+
+1	This	this	DT	_	3	det	_	O
+2	#DailyMail	#dailymail	NN	pos2=JJ	3	compound	_	O
+3	article	article	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	confusing	confusing	JJ	pos2=VBG	4	acomp	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	😕#PopeFrancis#Catholic	😕#popefrancis#catholic	ADD	pos2=JJ	2	punct	_	O
+2	Newshttps://t.co/tYONInTGcY	#hlink#	ADD	_	0	root	_	O
+

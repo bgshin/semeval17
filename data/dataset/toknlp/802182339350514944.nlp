@@ -1,0 +1,19 @@
+1	New	new	JJ	_	2	nmod	_	O
+2	stuff	stuff	NN	_	0	root	_	O
+3	from	from	IN	_	2	prep	_	O
+4	#WikiLeaks	#wikileaks	NNS	pos2=NNP	3	pobj	_	O
+5	200	0	CD	_	6	nmod	_	U-CARDINAL
+6	emails	email	NNS	_	4	appos	_	O
+7	,	,	,	_	2	punct	_	O
+8	300	0	CD	_	10	nmod	_	U-CARDINAL
+9	PDF	pdf	NN	pos2=NNP	10	compound	_	O
+10	docs	doc	NNS	_	4	appos	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	#YemenFiles	#yemenfiles	NNS	pos2=ADD	6	dep	_	O
+2	#YemenCrisis	#yemencrisis	ADD	pos2=POS	6	dep	_	B-PERSON
+3	#Yemen	#yemen	NNP	pos2=NNS	6	nmod	_	L-PERSON
+4	#HillarysEmails	#hillarysemails	GW	pos2=NNS	6	nmod	_	O
+5	#YemenEmails	#yemenemails	GW	pos2=ADD	6	nmod	_	O
+6	https://t.co/8vbxHEwBcO	#hlink#	ADD	pos2=NN	0	root	_	O
+

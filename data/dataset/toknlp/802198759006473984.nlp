@@ -1,0 +1,10 @@
+1	@UoNSustain	@uonsustain	NN	pos2=ADD	2	compound	_	O
+2	@UniofNottingham	@uniofnottingham	NN	pos2=ADD	4	nsubj	_	O
+3	*	*	SYM	pos2=NFP	2	punct	_	O
+4	places	place	NNS	pos2=VBZ	0	root	_	O
+5	bulk	bulk	NN	pos2=JJ	6	nmod	_	O
+6	order	order	NN	_	8	nmod	_	O
+7	*	*	SYM	pos2=NFP	6	punct	_	O
+8	#FantasticBeasts	#fantasticbeasts	NNS	pos2=VBZ	4	dobj	_	O
+9	#beastsofuon	#beastsofuon	UH	pos2=NN	4	discourse	_	O
+

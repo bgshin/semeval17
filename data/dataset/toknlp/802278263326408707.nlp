@@ -1,0 +1,23 @@
+1	@DanFromOR	@danfromor	NN	pos2=ADD	3	compound	_	O
+2	@JAS16CA	@jas0ca	NN	pos2=GW	3	compound	_	O
+3	@veggie64_leslie	@veggie0_leslie	NN	pos2=XX	5	compound	_	O
+4	@CloudContact	@cloudcontact	NNP	pos2=NN	5	compound	_	B-PERSON
+5	Yeh	yeh	NNP	_	10	nsubj	_	L-PERSON
+6	,	,	,	_	5	punct	_	O
+7	but	but	CC	_	5	cc	_	O
+8	Michael	michael	NNP	_	9	compound	_	B-PERSON
+9	Moore	moore	NNP	_	10	nsubj	_	L-PERSON
+10	is	be	VBZ	_	0	root	_	O
+11	n't	not	RB	_	10	neg	_	O
+12	POTUS	potus	NNP	pos2=NN	10	attr	_	U-ORG
+13	.	.	.	_	10	punct	_	O
+
+1	#Orangebuffoon	#orangebuffoon	NNP	pos2=ADD	2	nsubj	_	U-PERSON
+2	looks	look	VBZ	_	0	root	_	O
+3	like	like	IN	_	2	prep	_	O
+4	a	a	DT	_	7	det	_	O
+5	drunk	drunk	JJ	_	7	nmod	_	O
+6	sex	sex	NN	_	7	compound	_	O
+7	offender	offender	NN	_	3	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+

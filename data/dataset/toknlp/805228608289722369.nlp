@@ -1,0 +1,16 @@
+1	Might	might	MD	_	2	aux	_	O
+2	be	be	VB	_	0	root	_	O
+3	better	good	JJR	_	2	acomp	_	O
+4	to	to	TO	pos2=IN	6	aux	_	O
+5	just	just	RB	_	6	advmod	_	O
+6	fund	fund	VB	pos2=NN	2	xcomp	_	O
+7	drone	drone	NN	_	8	compound	_	O
+8	strikes	strike	NNS	_	6	dobj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	other	other	JJ	_	12	nmod	_	O
+11	humanitarian	humanitarian	JJ	_	12	nmod	_	O
+12	causes	cause	NNS	_	8	conj	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	https://t.co/N1OCuVrdfR	#hlink#	ADD	_	0	root	_	U-ORG
+

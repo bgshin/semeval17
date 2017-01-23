@@ -1,0 +1,15 @@
+1	@AP	@ap	NFP	pos2=NNP	4	punct	_	O
+2	These	these	DT	_	3	det	_	O
+3	mother**kers	mother**kers	NNS	pos2=NNPS	4	nsubj	_	O
+4	know	know	VBP	pos2=VB	0	root	_	O
+5	how	how	WRB	_	7	advmod	_	O
+6	to	to	TO	_	7	aux	_	O
+7	protest	protest	VB	pos2=NN	4	xcomp	_	O
+8	-	-	HYPH	pos2=:	9	punct	_	O
+9	Trump	trump	NNP	pos2=NN	10	compound	_	O
+10	inauguration	inauguration	NN	_	7	dobj	_	O
+11	will	will	MD	_	12	aux	_	O
+12	be	be	VB	_	4	ccomp	_	O
+13	the	the	DT	_	14	det	_	O
+14	same	same	JJ	_	12	attr	_	O
+

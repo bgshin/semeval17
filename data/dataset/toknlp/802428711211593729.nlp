@@ -1,0 +1,26 @@
+1	@ExFed32	@exfed0	NN	pos2=NNS	11	punct	_	O
+2	@johncardillo	@johncardillo	UH	pos2=IN	1	discourse	_	O
+3	all	all	PDT	_	5	predet	_	O
+4	the	the	DT	_	5	det	_	O
+5	liberals	liberal	NNS	_	11	nsubj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	US	us	NNP	_	6	pobj	_	U-GPE
+9	will	will	MD	_	11	aux	_	O
+10	be	be	VB	_	11	aux	_	O
+11	morning	morning	VBG	pos2=NN	0	root	_	O
+12	their	their	PRP$	_	13	poss	_	O
+13	hero	hero	NN	_	11	dobj	_	O
+14	.	.	.	_	11	punct	_	O
+
+1	Let	let	VB	_	0	root	_	O
+2	's	's	PRP	_	3	nsubj	_	O
+3	see	see	VB	_	1	ccomp	_	O
+4	if	if	IN	_	6	mark	_	O
+5	Obama	obama	NNP	_	6	nsubj	_	U-PERSON
+6	lowers	lower	VBZ	_	3	ccomp	_	O
+7	white	white	JJ	pos2=NNP	9	nmod	_	O
+8	house	house	NN	pos2=NNP	9	compound	_	O
+9	flag	flag	NN	_	6	dobj	_	O
+10	.	.	.	_	1	punct	_	O
+

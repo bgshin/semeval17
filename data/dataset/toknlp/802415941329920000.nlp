@@ -1,0 +1,22 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	hope	hope	VBP	_	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	sake	sake	NN	_	3	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	all	all	DT	_	8	det	_	O
+8	Venezuelans	venezuelan	NNPS	pos2=NNS	6	pobj	_	U-NORP
+9	tonight	tonight	NN	pos2=VBP	2	npadvmod	_	U-TIME
+10	that	that	IN	pos2=WDT	12	mark	_	O
+11	Maduro	maduro	NNP	_	12	nsubj	_	U-PERSON
+12	considers	consider	VBZ	_	2	ccomp	_	O
+13	that	that	IN	_	16	mark	_	O
+14	he	he	PRP	_	16	nsubj	_	O
+15	will	will	MD	_	16	aux	_	O
+16	have	have	VB	_	12	ccomp	_	O
+17	to	to	TO	_	18	aux	_	O
+18	face	face	VB	_	16	xcomp	_	O
+19	Him	him	PRP	_	18	dobj	_	O
+20	too	too	RB	_	18	advmod	_	O
+21	.	.	.	_	2	punct	_	O
+

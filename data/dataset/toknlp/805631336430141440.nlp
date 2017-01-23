@@ -1,0 +1,14 @@
+1	Gay	gay	JJ	pos2=NNP	2	nmod	_	O
+2	men	man	NNS	_	3	compound	_	O
+3	massage	massage	NN	pos2=VBP	5	compound	_	O
+4	chicago	chicago	NNP	pos2=CC	5	compound	_	O
+5	marriage	marriage	NN	_	0	root	_	O
+6	in	in	IN	_	5	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	old	old	JJ	_	9	nmod	_	O
+9	testament	testament	NN	_	6	pobj	_	O
+10	Nathan	nathan	NNP	_	11	compound	_	B-PERSON
+11	Hope	hope	NNP	_	9	appos	_	L-PERSON
+12	And	and	CC	_	11	cc	_	O
+13	https://t.co/0iQO8rmHIk	#hlink#	ADD	_	11	conj	_	U-DATE
+

@@ -1,0 +1,24 @@
+1	Why	why	WRB	_	2	advmod	_	O
+2	am	be	VBP	_	0	root	_	O
+3	I	I	PRP	_	2	nsubj	_	O
+4	not	not	RB	_	2	neg	_	O
+5	surprised	surprised	JJ	pos2=VBN	2	acomp	_	O
+6	?	?	.	_	2	punct	_	O
+
+1	Do	do	VB	pos2=VBP	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	forget	forget	VB	_	6	advcl	_	O
+4	,	,	,	_	6	punct	_	O
+5	WaPo	wapo	NNP	_	6	nsubj	_	U-ORG
+6	thinks	think	VBZ	_	0	root	_	O
+7	Dr.	dr.	NNP	_	9	compound	_	O
+8	Ben	ben	NNP	_	9	compound	_	B-PERSON
+9	Carson	carson	NNP	_	10	nsubj	_	L-PERSON
+10	is	be	VBZ	_	6	ccomp	_	O
+11	a	a	DT	_	13	det	_	O
+12	white	white	JJ	_	13	nmod	_	O
+13	supremacist	supremacist	NN	_	10	attr	_	O
+14	.	.	.	_	6	punct	_	O
+
+1	https://t.co/JL2RgMBFBZ	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,16 @@
+1	Too	too	RB	_	2	advmod	_	O
+2	tired	tired	JJ	_	0	root	_	O
+3	to	to	TO	pos2=IN	4	aux	_	O
+4	comment	comment	VB	pos2=NN	2	xcomp	_	O
+5	without	without	IN	_	4	prep	_	O
+6	swearing	swear	VBG	pos2=NN	5	pcomp	_	O
+7	and	and	CC	_	6	cc	_	O
+8	threatening	threaten	VBG	pos2=JJ	6	conj	_	O
+9	vengeance	vengeance	NN	_	8	dobj	_	O
+10	on	on	IN	_	8	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	infidels	infidel	NNS	_	10	pobj	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	https://t.co/rzZeeKrvPe	#hlink#	ADD	_	0	root	_	U-ORG
+

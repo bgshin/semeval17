@@ -1,0 +1,18 @@
+1	Lavrov	lavrov	NNP	_	2	nsubj	_	U-PERSON
+2	says	say	VBZ	_	0	root	_	O
+3	militants	militant	NNS	_	1	appos	_	O
+4	who	who	WP	_	7	nsubj	_	O
+5	do	do	VBP	_	7	aux	_	O
+6	not	not	RB	_	7	neg	_	O
+7	leave	leave	VB	_	3	relcl	_	O
+8	eastern	eastern	JJ	_	9	nmod	_	O
+9	Aleppo	aleppo	NNP	_	7	dobj	_	U-GPE
+10	to	to	TO	_	12	aux	_	O
+11	be	be	VB	_	12	auxpass	_	O
+12	regarded	regard	VBN	_	7	xcomp	_	O
+13	as	as	IN	_	12	prep	_	O
+14	terrorists	terrorist	NNS	_	13	pobj	_	O
+15	https://t.co/cUtzt3KVso	#hlink#	ADD	pos2=VBP	14	acl	_	O
+16	via	via	IN	_	12	prep	_	O
+17	@skinnergj	@skinnergj	.	pos2=NN	2	punct	_	O
+

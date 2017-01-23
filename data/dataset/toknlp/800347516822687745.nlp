@@ -1,0 +1,14 @@
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=XX	7	nsubj	_	O
+2	In	in	IN	_	1	prep	_	O
+3	a	a	DT	_	4	det	_	O
+4	roomful	roomful	NN	_	2	pobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Adolfs	adolfs	NNP	pos2=NNPS	5	pobj	_	U-GPE
+7	be	be	VB	_	0	root	_	O
+8	a	a	DT	_	12	det	_	O
+9	Ruth	ruth	NNP	_	12	compound	_	B-PERSON
+10	#ruthgruber	#ruthgruber	NNP	pos2=IN	12	compound	_	L-PERSON
+11	#nytimes	#nytimes	NNPS	pos2=IN	12	compound	_	O
+12	#TrumpTransitionTeam	#trumptransitionteam	NNP	pos2=ADD	7	attr	_	U-PERSON
+13	#SundayMorning	#sundaymorning	ADD	pos2=VBG	7	attr	_	O
+

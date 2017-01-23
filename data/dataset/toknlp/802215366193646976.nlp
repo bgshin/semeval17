@@ -1,0 +1,16 @@
+1	@	@	SYM	_	2	punct	_	O
+2	241bigboy	0bigboy	NN	pos2=JJ	0	root	_	U-MONEY
+3	@mostdopemychal	@mostdopemychal	UH	pos2=MD	2	discourse	_	O
+4	thank	thank	VBP	_	2	xcomp	_	O
+5	you	you	PRP	_	4	dobj	_	O
+6	!	!	.	_	2	punct	_	O
+
+1	Happy	happy	JJ	_	2	nmod	_	O
+2	thanksgiving	thanksgiving	NN	pos2=VBG	0	root	_	O
+3	to	to	IN	_	2	prep	_	O
+4	you	you	PRP	_	3	pobj	_	O
+5	&	&	CC	_	4	cc	_	O
+6	your	your	PRP$	_	7	poss	_	O
+7	family	family	NN	_	4	conj	_	O
+8	💛	💛	.	pos2=NNP	2	punct	_	O
+

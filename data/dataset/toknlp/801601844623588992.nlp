@@ -1,0 +1,14 @@
+1	If	if	IN	_	3	mark	_	O
+2	they	they	PRP	_	3	nsubj	_	O
+3	did	do	VBD	_	6	advcl	_	O
+4	can	can	MD	_	6	aux	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	take	take	VB	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	guess	guess	NN	_	6	dobj	_	O
+9	and	and	CC	_	6	cc	_	O
+10	say	say	VB	pos2=VBP	6	conj	_	O
+11	Grayson	grayson	NNP	_	12	compound	_	B-PERSON
+12	Allen	allen	NNP	_	10	dobj	_	L-PERSON
+13	?	?	.	_	6	punct	_	O
+

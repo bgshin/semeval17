@@ -1,0 +1,25 @@
+1	@DrDavidDuke	@drdavidduke	VB	pos2=IN	0	root	_	O
+2	Your	your	PRP$	_	4	poss	_	O
+3	President	president	NNP	_	4	compound	_	O
+4	Elect	elect	NNP	_	6	nsubj	_	U-PERSON
+5	has	have	VBZ	_	6	aux	_	O
+6	called	call	VBN	_	1	ccomp	_	O
+7	for	for	IN	_	6	prep	_	O
+8	drone	drone	NN	_	9	compound	_	O
+9	strikes	strike	NNS	_	7	pobj	_	O
+10	vs.	vs.	CC	pos2=IN	9	cc	_	O
+11	innocent	innocent	JJ	_	12	nmod	_	O
+12	women	woman	NNS	_	9	conj	_	O
+13	and	and	CC	_	12	cc	_	O
+14	children	child	NNS	_	12	conj	_	O
+15	,	,	,	_	17	punct	_	O
+16	why	why	WRB	_	21	advmod	_	O
+17	are	be	VBP	_	14	parataxis	_	O
+18	"	"	``	_	19	punct	_	O
+19	Christians	christian	NNPS	_	17	nsubj	_	U-NORP
+20	"	"	''	_	19	punct	_	O
+21	ok	ok	JJ	pos2=RB	17	acomp	_	O
+22	with	with	IN	_	21	prep	_	O
+23	that	that	DT	_	22	pobj	_	O
+24	?	?	.	_	17	punct	_	O
+

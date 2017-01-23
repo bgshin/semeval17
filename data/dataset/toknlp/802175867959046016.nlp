@@ -1,0 +1,12 @@
+1	@wikileaks	@wikileaks	PRP$	pos2=XX	2	poss	_	O
+2	Drops	drop	NNS	pos2=VBZ	3	nsubj	_	O
+3	leaked	leak	VBN	pos2=VBD	0	root	_	O
+4	#Yemen	#yemen	NNP	pos2=CD	5	compound	_	U-ORG
+5	files	file	NNS	pos2=VBZ	3	dobj	_	O
+6	from	from	IN	_	3	prep	_	O
+7	@USEmbassyYemen2009	@usembassyyemen0	NN	pos2=NNS	6	pobj	_	O
+8	-2015Should	0should	MD	pos2=NN	9	aux	_	O
+9	be	be	VB	_	11	nmod	_	O
+10	interesting	interesting	JJ	_	9	acomp	_	O
+11	https://t.co/5JOzGR7pGl	#hlink#	ADD	pos2=NN	7	appos	_	U-ORG
+

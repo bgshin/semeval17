@@ -1,0 +1,16 @@
+1	"	"	``	_	15	punct	_	O
+2	Anti	anti	AFX	pos2=NNP	4	advmod	_	O
+3	-	-	HYPH	_	4	punct	_	O
+4	Trump	trump	NNP	pos2=NN	5	compound	_	O
+5	riots	riot	NNS	_	0	root	_	O
+6	,	,	,	_	5	punct	_	O
+7	Left	left	JJ	pos2=NNP	9	nmod	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	coast	coast	NN	_	10	compound	_	O
+10	secession	secession	NN	_	5	appos	_	O
+11	&	&	CC	_	10	cc	_	O
+12	Katy	katy	NNP	_	13	compound	_	B-PERSON
+13	Perry	perry	NNP	_	10	conj	_	L-PERSON
+14	"	"	''	pos2=GW	15	punct	_	O
+15	https://t.co/OfkhDPXp0V	#hlink#	ADD	_	0	root	_	O
+

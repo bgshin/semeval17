@@ -1,0 +1,10 @@
+1	Tony	tony	NNP	_	2	compound	_	B-PERSON
+2	Romo	romo	NNP	_	5	nsubj	_	L-PERSON
+3	would	would	MD	_	5	aux	_	O
+4	have	have	VB	_	5	aux	_	O
+5	hit	hit	VBN	pos2=VB	0	root	_	O
+6	him	him	PRP	_	5	dobj	_	O
+7	nice	nice	JJ	_	9	nmod	_	O
+8	lol	lol	UH	pos2=GW	5	discourse	_	O
+9	https://t.co/VC0CQCuNEY	#hlink#	ADD	pos2=NN	5	dobj	_	O
+

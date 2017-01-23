@@ -1,0 +1,17 @@
+1	#victoriaderbyshire	#victoriaderbyshire	UH	pos2=NN	2	dep	_	O
+2	..	..	.	pos2=,	0	punct	_	O
+
+1	even	even	RB	_	3	advmod	_	O
+2	the	the	DT	_	3	det	_	O
+3	people	people	NNS	_	6	nsubj	_	O
+4	who	who	WP	_	5	nsubj	_	O
+5	voted	vote	VBD	_	3	relcl	_	O
+6	remain	remain	VBP	pos2=NN	7	aux	_	O
+7	know	know	VB	pos2=VBP	0	root	_	O
+8	what	what	WP	_	10	dobj	_	O
+9	#brexit	#brexit	NN	pos2=DT	10	nsubj	_	O
+10	means	mean	VBZ	pos2=NNS	7	ccomp	_	O
+11	..	..	.	_	7	punct	_	O
+
+1	#badlosers	#badlosers	NNS	pos2=UH	0	root	_	O
+

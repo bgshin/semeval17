@@ -1,0 +1,9 @@
+1	Obtaining	obtain	VBG	_	0	root	_	O
+2	A	a	DT	_	6	det	_	O
+3	Medical	medical	NNP	pos2=JJ	5	compound	_	B-ORG
+4	Marijuana	marijuana	NNP	_	5	compound	_	I-ORG
+5	Card	card	NNP	pos2=GW	6	compound	_	L-ORG
+6	Ontario	ontario	NNP	pos2=GW	8	nmod	_	U-GPE
+7	https://t.co/3Rjka4SJ0O	#hlink#	ADD	_	8	nmod	_	O
+8	https://t.co/HkpsQ8UhOZ	#hlink#	ADD	_	1	dobj	_	U-ORG
+

@@ -1,0 +1,17 @@
+1	https://t.co/naFe5gztGc	#hlink#	ADD	_	0	root	_	O
+2	<	<	-RRB-	pos2=SYM	1	punct	_	O
+3	-	-	:	pos2=-RRB-	4	punct	_	O
+4	How	how	WRB	_	5	advmod	_	O
+5	Much	much	JJ	_	0	root	_	O
+6	For	for	IN	_	5	prep	_	O
+7	BOOM	boom	NN	_	8	compound	_	O
+8	BOOM	boom	NN	_	6	pobj	_	O
+9	No	no	DT	pos2=NNP	10	det	_	O
+10	Condom	condom	NN	pos2=NNP	7	appos	_	O
+11	?	?	.	_	1	punct	_	O
+
+1	#nsfw	#nsfw	UH	pos2=XX	4	discourse	_	O
+2	#bath	#bath	UH	pos2=FW	4	discourse	_	O
+3	#bubble	#bubble	UH	pos2=VB	4	discourse	_	O
+4	#onedirection	#onedirection	UH	pos2=NN	0	root	_	O
+

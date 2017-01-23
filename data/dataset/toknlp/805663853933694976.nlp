@@ -1,0 +1,24 @@
+1	@GetYourShyneBox	@getyourshynebox	ADD	pos2=XX	4	aux	_	O
+2	you	you	PRP	_	4	nsubj	_	O
+3	still	still	RB	_	4	advmod	_	O
+4	fighting	fight	VBG	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	that	that	DT	_	9	det	_	O
+7	minimum	minimum	JJ	pos2=NN	9	nmod	_	O
+8	wage	wage	NN	_	9	compound	_	O
+9	hike	hike	NN	pos2=VB	5	pobj	_	O
+10	?	?	.	_	4	punct	_	O
+
+1	"	"	``	_	5	punct	_	O
+2	A	a	DT	pos2=JJ	4	det	_	O
+3	hair	hair	NN	pos2=JJ	4	compound	_	O
+4	net	net	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	worth	worth	JJ	_	5	acomp	_	O
+7	👏🏼👏🏼👏🏼A	👏🏼👏🏼👏🏼a	VBG	pos2=IN	12	nmod	_	O
+8	fair	fair	JJ	_	10	nmod	_	O
+9	net	net	NN	pos2=JJ	10	compound	_	O
+10	worth	worth	NN	pos2=JJ	12	nmod	_	O
+11	"	"	''	pos2=``	12	punct	_	O
+12	#HNLM	#hnlm	NN	pos2=ADD	6	npadvmod	_	U-DATE
+

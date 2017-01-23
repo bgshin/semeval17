@@ -1,0 +1,19 @@
+1	Retweeted	retweeted	VBN	pos2=VBD	2	nmod	_	O
+2	#StillWithHer	#stillwithher	NN	pos2=NNP	6	nmod	_	U-PERSON
+3	(	(	-LRB-	_	2	punct	_	O
+4	@deejay90192	@deejay0	NN	pos2=NNS	2	appos	_	O
+5	)	)	-RRB-	_	2	punct	_	O
+6	:#ElectoralCollege	:#electoralcollege	NN	pos2=ADD	0	root	_	O
+7	.	.	.	_	6	punct	_	O
+
+1	@ElectoralCollge	@electoralcollge	NN	pos2=PRP	3	nsubj	_	O
+2	should	should	MD	_	3	aux	_	O
+3	require	require	VB	_	0	root	_	O
+4	Trump	trump	NNP	pos2=NN	3	dobj	_	U-ORG
+5	to	to	TO	_	6	aux	_	O
+6	release	release	VB	_	3	xcomp	_	O
+7	his	his	PRP$	pos2=PRP	6	dobj	_	O
+8	...	..	.	pos2=,	3	punct	_	O
+
+1	https://t.co/Yd6Ayarx1A	#hlink#	ADD	_	0	root	_	U-ORG
+

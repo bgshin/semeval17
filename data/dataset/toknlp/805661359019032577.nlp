@@ -1,0 +1,13 @@
+1	America	america	NNP	_	4	nsubj	_	U-GPE
+2	is	be	VBZ	_	4	aux	_	O
+3	currently	currently	RB	_	4	advmod	_	O
+4	suffering	suffer	VBG	_	0	root	_	O
+5	from	from	IN	_	4	prep	_	O
+6	E.D.	e.d.	NNP	_	5	pobj	_	B-ORG
+7	(	(	-LRB-	_	6	punct	_	I-ORG
+8	Electoral	electoral	NNP	pos2=JJ	9	compound	_	I-ORG
+9	College	college	NNP	pos2=NN	10	compound	_	I-ORG
+10	Dysfunction	dysfunction	NN	pos2=NNP	6	appos	_	L-ORG
+11	)	)	-RRB-	_	6	punct	_	O
+12	#AbolishElectoralCollege	#abolishelectoralcollege	ADD	pos2=NN	4	punct	_	O
+

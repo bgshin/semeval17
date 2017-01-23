@@ -1,0 +1,12 @@
+1	#Palestine	#palestine	NNP	pos2=PRP	2	nsubj	_	U-ORG
+2	threatens	threaten	VBZ	_	0	root	_	O
+3	#CAS	#cas	TO	pos2=JJ	4	aux	_	O
+4	claim	claim	VB	pos2=NN	2	xcomp	_	O
+5	over	over	IN	_	4	prep	_	O
+6	West	west	NNP	_	7	compound	_	B-GPE
+7	Bank	bank	NNP	_	8	compound	_	L-GPE
+8	clubs	club	NNS	_	5	pobj	_	O
+9	:	:	:	_	2	punct	_	O
+10	https://t.co/Nt2a0llMwL	#hlink#	ADD	pos2=NN	11	nmod	_	O
+11	https://t.co/y9Hsc0bkRU	#hlink#	ADD	_	2	dep	_	U-ORG
+

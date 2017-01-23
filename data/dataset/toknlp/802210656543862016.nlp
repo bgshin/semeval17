@@ -1,0 +1,19 @@
+1	@candice_ralston	@candice_ralston	NNP	pos2=ADD	10	vocative	_	B-ORG
+2	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	7	det	_	I-ORG
+3	@mike_pence	@mike_pence	NNP	pos2=IN	1	conj	_	L-ORG
+4	@BeianNorma	@beiannorma	ADD	pos2=NNP	1	conj	_	O
+5	@newtgingrich	@newtgingrich	WDT	pos2=UH	6	aux	_	O
+6	Read	read	VB	pos2=NNP	4	relcl	_	O
+7	Article	article	NNP	pos2=NN	6	dobj	_	O
+8	and	and	CC	_	1	cc	_	O
+9	I	I	PRP	_	10	nsubj	_	O
+10	want	want	VBP	_	0	root	_	O
+11	to	to	TO	_	12	aux	_	O
+12	know	know	VB	_	10	xcomp	_	O
+13	WHY	why	WRB	pos2=NNP	15	advmod	_	O
+14	Romney	romney	NNP	_	15	nsubj	_	U-PERSON
+15	wants	want	VBZ	_	12	ccomp	_	O
+16	the	the	DT	_	17	det	_	O
+17	job	job	NN	_	15	dobj	_	O
+18	???	??	.	_	10	punct	_	O
+

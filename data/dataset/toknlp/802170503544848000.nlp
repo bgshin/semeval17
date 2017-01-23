@@ -1,0 +1,30 @@
+1	@SenWarren	@senwarren	ADD	pos2=NNS	3	det	_	O
+2	@HillaryClinton	@hillaryclinton	NNP	pos2=ADD	3	compound	_	U-GPE
+3	@elizabethforma	@elizabethforma	NN	pos2=IN	7	dep	_	O
+4	Now	now	RB	pos2=UH	7	advmod	_	O
+5	you	you	PRP	_	7	nsubj	_	O
+6	're	be	VBP	_	7	aux	_	O
+7	talking	talk	VBG	_	0	root	_	O
+8	about	about	IN	_	7	prep	_	O
+9	your	your	PRP$	_	12	poss	_	O
+10	Gal	gal	NNP	_	12	compound	_	B-PERSON
+11	Pal	pal	NNP	_	12	compound	_	I-PERSON
+12	Hillary	hillary	NNP	_	8	pobj	_	L-PERSON
+13	!	!	.	_	7	punct	_	O
+
+1	SHE	she	PRP	_	2	nsubj	_	O
+2	USED	use	VBD	pos2=VBN	0	root	_	O
+3	"	"	``	_	6	punct	_	O
+4	SOS	sos	NN	pos2=NNP	6	nmod	_	O
+5	"	"	''	_	6	punct	_	O
+6	job	job	NN	_	2	dobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	make	make	VB	_	2	xcomp	_	O
+9	MILLIONS	#crd#	NNS	_	8	dobj	_	U-CARDINAL
+10	!	!	.	_	2	punct	_	O
+
+1	Pay	pay	VB	pos2=NN	0	root	_	O
+2	to	to	IN	pos2=TO	1	prep	_	O
+3	Play	play	VB	pos2=NNP	2	pobj	_	O
+4	!	!	.	_	1	punct	_	O
+

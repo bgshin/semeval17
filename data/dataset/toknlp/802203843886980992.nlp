@@ -1,0 +1,6 @@
+1	May	may	MD	pos2=NNP	2	aux	_	O
+2	Nazi	nazi	VB	pos2=NNP	0	root	_	U-NORP
+3	it	it	PRP	_	4	nsubj	_	O
+4	coming	come	VBG	_	5	nmod	_	O
+5	https://t.co/WJUmiBDmrk	#hlink#	ADD	pos2=RB	0	root	_	U-ORG
+

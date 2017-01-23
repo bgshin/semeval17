@@ -1,0 +1,23 @@
+1	@HillaryNo1sPres	@hillaryno0spres	NNS	pos2=ADD	6	nsubj	_	O
+2	@GERI1324FAN	@geri0fan	NN	pos2=VBP	3	compound	_	O
+3	@cdldad	@cdldad	NN	pos2=FW	5	compound	_	O
+4	@LawyerRogelio	@lawyerrogelio	NNP	pos2=IN	5	compound	_	B-PERSON
+5	Obama	obama	NNP	_	6	nsubj	_	L-PERSON
+6	made	make	VBD	_	0	root	_	O
+7	sure	sure	JJ	_	6	ccomp	_	O
+8	that	that	IN	_	13	mark	_	O
+9	the	the	DT	_	12	det	_	O
+10	Veterans	veteran	NNPS	pos2=NNP	11	compound	_	O
+11	Admin	admin	NNP	pos2=JJ	12	compound	_	O
+12	budget	budget	NN	_	13	nsubj	_	O
+13	is	be	VBZ	_	7	advcl	_	O
+14	prepared	prepared	JJ	pos2=VBN	13	acomp	_	O
+15	as	as	IN	_	19	mark	_	O
+16	'	'	``	_	19	punct	_	O
+17	must	must	MD	pos2=NN	19	aux	_	O
+18	-	-	HYPH	_	19	punct	_	O
+19	pass	pass	VB	pos2=NN	14	xcomp	_	O
+20	'	'	''	pos2=POS	19	punct	_	O
+21	legislation	legislation	NN	_	19	dobj	_	O
+22	.	.	.	_	6	punct	_	O
+

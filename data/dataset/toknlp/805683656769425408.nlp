@@ -1,0 +1,26 @@
+1	@FoxNews	@foxnews	VBZ	pos2=NNP	0	root	_	O
+2	Our	our	PRP$	_	3	poss	_	O
+3	Country	country	NN	pos2=NNP	1	dobj	_	O
+4	with	with	IN	_	3	prep	_	O
+5	@realDonaldTrump	@realdonaldtrump	NNP	pos2=NN	7	poss	_	U-ORG
+6	's	's	POS	_	5	case	_	O
+7	Presidency	presidency	NNP	pos2=NN	4	pobj	_	O
+8	needs	need	VBZ	_	1	ccomp	_	O
+9	New	new	NNP	pos2=JJ	10	compound	_	O
+10	Laws	laws	NNP	pos2=NNPS	8	dobj	_	O
+11	.	.	.	_	1	punct	_	O
+
+1	One	#crd#	CD	_	7	nsubj	_	U-CARDINAL
+2	of	of	IN	_	1	prep	_	O
+3	them	them	PRP	_	2	pobj	_	O
+4	:	:	:	_	7	punct	_	O
+5	Automatic	automatic	JJ	pos2=NNP	7	nmod	_	O
+6	Death	death	NN	_	7	compound	_	O
+7	Penalty	penalty	NN	pos2=NNP	0	root	_	O
+8	for	for	IN	_	7	prep	_	O
+9	anyone	anyone	NN	_	8	pobj	_	O
+10	Murdering	murder	VBG	_	9	acl	_	O
+11	our	our	PRP$	_	12	poss	_	O
+12	COPS	cop	NNS	_	10	dobj	_	O
+13	!	!	.	_	7	punct	_	O
+

@@ -1,0 +1,9 @@
+1	Run	run	VB	pos2=VBN	0	root	_	O
+2	#MELANIATRUMP	#melaniatrump	NN	pos2=JJ	3	compound	_	O
+3	run	run	NN	pos2=VB	1	dobj	_	O
+4	!	!	.	_	1	punct	_	O
+
+1	Save	save	VB	_	0	root	_	O
+2	yourself	yourself	PRP	_	1	dobj	_	O
+3	https://t.co/SWR5ZgkvME	#hlink#	ADD	pos2=RP	1	dobj	_	U-GPE
+

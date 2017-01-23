@@ -1,0 +1,22 @@
+1	**	**	SYM	_	21	punct	_	O
+2	HISTORY	history	NN	_	21	dep	_	O
+3	OF	of	IN	_	2	prep	_	O
+4	PRESIDENTIAL	presidential	JJ	_	5	nmod	_	O
+5	ECONOMY	economy	NN	_	3	pobj	_	O
+6	RE	re	IN	pos2=NN	2	prep	_	O
+7	:	:	:	_	6	punct	_	O
+8	GOP	gop	NNP	_	9	compound	_	U-ORG
+9	VS	vs	NN	pos2=NNS	10	compound	_	O
+10	DEMS**20	dems**0	NNP	pos2=NN	6	pobj	_	U-GPE
+11	REPUBLICAN	republican	JJ	pos2=NNP	12	nmod	_	U-NORP
+12	PREZS	prezs	NNP	pos2=NN	10	appos	_	U-GPE
+13	SINCE	since	IN	_	12	prep	_	O
+14	LINCOLN**10	lincoln**0	NNP	pos2=XX	15	compound	_	B-ORG
+15	DEMS	dems	NNP	pos2=NNPS	13	pobj	_	I-ORG
+16	&	&	CC	_	15	cc	_	I-ORG
+17	TRICKLE	trickle	NN	pos2=VB	18	compound	_	I-ORG
+18	D0WN	d0wn	NNP	pos2=NN	15	conj	_	L-ORG
+19	HAS	have	VBZ	_	20	aux	_	O
+20	…	…	NFP	pos2=VBN	21	punct	_	O
+21	https://t.co/wwJRocQnaU	#hlink#	ADD	_	0	root	_	O
+

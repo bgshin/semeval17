@@ -1,0 +1,12 @@
+1	#Hamas	#hamas	NNP	pos2=NNS	2	nsubj	_	U-ORG
+2	welcomes	welcome	VBZ	_	0	root	_	O
+3	Erdogan	erdogan	NNP	_	5	poss	_	U-PERSON
+4	's	's	POS	_	3	case	_	O
+5	readiness	readiness	NN	_	2	dobj	_	O
+6	to	to	IN	pos2=TO	5	prep	_	O
+7	intermediate	intermediate	JJ	_	10	nmod	_	O
+8	prisoner	prisoner	NN	_	9	compound	_	O
+9	exchange	exchange	NN	pos2=GW	10	compound	_	O
+10	deal	deal	NN	pos2=GW	6	pobj	_	O
+11	https://t.co/AP4mKJmNOw	#hlink#	ADD	pos2=NN	5	appos	_	O
+

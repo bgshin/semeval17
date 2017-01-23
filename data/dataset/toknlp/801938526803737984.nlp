@@ -1,0 +1,24 @@
+1	You	you	PRP	_	3	nsubj	_	O
+2	obviously	obviously	RB	_	3	advmod	_	O
+3	attended	attend	VBD	_	11	ccomp	_	O
+4	a	a	DT	_	8	det	_	O
+5	Saudi	saudi	NNP	pos2=JJ	7	npadvmod	_	U-NORP
+6	-	-	HYPH	_	7	punct	_	O
+7	funded	fund	VBN	_	12	nmod	_	O
+8	Madrasa	madrasa	NNP	pos2=NN	3	dobj	_	U-ORG
+9	-	-	HYPH	pos2=:	11	punct	_	O
+10	you	you	PRP	_	11	nsubj	_	O
+11	support	support	VBP	pos2=NN	0	root	_	O
+12	#Hamas	#hamas	NNP	pos2=NNS	11	dobj	_	B-ORG
+13	&	&	CC	_	12	cc	_	I-ORG
+14	#Hezbollah	#hezbollah	NN	pos2=NNP	12	conj	_	L-ORG
+15	=	=	SYM	pos2=,	17	punct	_	O
+16	two	#crd#	CD	_	17	nsubj	_	U-CARDINAL
+17	know	know	VBP	pos2=VB	11	parataxis	_	O
+18	terrorist	terrorist	JJ	pos2=NN	19	nmod	_	O
+19	organizations	organization	NNS	_	11	dobj	_	O
+20	.	.	.	_	11	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/LCsuMLBhhW	#hlink#	ADD	pos2=NN	0	root	_	O
+

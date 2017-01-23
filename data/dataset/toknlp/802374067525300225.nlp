@@ -1,0 +1,24 @@
+1	If	if	IN	_	3	mark	_	O
+2	we	we	PRP	_	3	nsubj	_	O
+3	had	have	VBD	_	9	advcl	_	O
+4	democracy	democracy	NN	_	3	dobj	_	O
+5	,	,	,	_	9	punct	_	O
+6	maybe	maybe	RB	_	9	advmod	_	O
+7	we	we	PRP	_	9	nsubj	_	O
+8	'd	would	MD	pos2=VBD	9	aux	_	O
+9	respect	respect	VB	_	0	root	_	O
+10	it	it	PRP	_	9	dobj	_	O
+11	.	.	.	_	9	punct	_	O
+
+1	Russians	russian	NNPS	pos2=NNS	7	dep	_	U-NORP
+2	,	,	,	_	3	punct	_	O
+3	Comey	comey	NNP	_	1	appos	_	U-PERSON
+4	,	,	,	_	7	punct	_	O
+5	media	medium	NNS	pos2=RB	7	nsubj	_	O
+6	all	all	RB	pos2=PDT	7	advmod	_	O
+7	anti-democracy	anti-democracy	JJ	pos2=RB	0	root	_	O
+8	.	.	.	_	7	punct	_	O
+
+1	#NotMyPresElect	#notmypreselect	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/AszwgXcgaz	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,9 @@
+1	#NBA	#nba	NN	pos2=NNP	2	compound	_	O
+2	@nuggets	@nuggets	NNS	pos2=VBZ	8	dep	_	O
+3	#Nuggets	#nuggets	NNS	pos2=NNP	8	dep	_	O
+4	-	-	HYPH	pos2=:	8	punct	_	O
+5	@utahjazz	@utahjazz	XX	pos2=NNS	8	dep	_	O
+6	#Jazz	#jazz	NNP	pos2=GW	7	compound	_	B-PERSON
+7	Highligts	highligts	NNP	pos2=GW	8	dep	_	L-PERSON
+8	https://t.co/f6Bi44xBXU	#hlink#	ADD	_	0	root	_	O
+

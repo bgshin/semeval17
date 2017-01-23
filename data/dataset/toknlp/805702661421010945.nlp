@@ -1,0 +1,21 @@
+1	Renzo	renzo	NNP	_	2	nsubj	_	U-PERSON
+2	was	be	VBD	_	0	root	_	O
+3	Italy	italy	NNP	_	7	poss	_	U-GPE
+4	's	's	POS	_	3	case	_	O
+5	41	0	CD	_	7	nmod	_	B-TIME
+6	st	st	NN	_	7	compound	_	I-TIME
+7	PM	pm	NN	pos2=NNP	2	attr	_	L-TIME
+8	since	since	IN	_	2	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	war	war	NN	_	8	pobj	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	Another	another	DT	_	2	det	_	O
+2	vote	vote	NN	_	0	root	_	O
+3	on	on	IN	_	2	prep	_	O
+4	immigration	immigration	NN	_	3	pobj	_	O
+5	pulling	pull	VBG	_	2	acl	_	O
+6	Europe	europe	NNP	_	5	dobj	_	U-LOC
+7	apart	apart	RB	_	5	advmod	_	O
+8	.	.	.	_	2	punct	_	O
+

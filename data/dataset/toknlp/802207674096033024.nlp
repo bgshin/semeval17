@@ -1,0 +1,26 @@
+1	This	this	DT	_	2	det	_	O
+2	woman	woman	NN	_	3	nsubj	_	O
+3	came	come	VBD	_	10	advcl	_	O
+4	to	to	TO	_	5	aux	_	O
+5	visit	visit	VB	_	3	advcl	_	O
+6	#ImamHussain	#imamhussain	NNP	pos2=IN	7	compound	_	B-PERSON
+7	ع	ع	NNP	pos2=NFP	5	dobj	_	L-PERSON
+8	,	,	,	_	10	punct	_	O
+9	She	she	PRP	_	10	nsubj	_	O
+10	sat	sit	VBD	_	0	root	_	O
+11	in	in	IN	_	10	prep	_	O
+12	front	front	NN	_	11	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	the	the	DT	_	16	det	_	O
+15	holy	holy	JJ	_	16	nmod	_	O
+16	shrine	shrine	NN	pos2=NNP	13	pobj	_	O
+17	with	with	IN	_	10	prep	_	O
+18	photos	photo	NNS	_	17	pobj	_	O
+19	of	of	IN	_	18	prep	_	O
+20	her	her	PRP$	_	22	poss	_	O
+21	family	family	NN	_	22	compound	_	O
+22	members	member	NNS	_	19	pobj	_	O
+23	kille	kille	VBD	pos2=VBP	10	conj	_	O
+24	…	…	NFP	pos2=:	25	punct	_	O
+25	https://t.co/SHJnwCWS4P	#hlink#	ADD	pos2=NN	10	dep	_	O
+

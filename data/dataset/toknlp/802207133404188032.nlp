@@ -1,0 +1,22 @@
+1	@megynkelly	@megynkelly	NNP	pos2=NFP	2	compound	_	B-PERSON
+2	Megyn	megyn	NNP	_	5	vocative	_	L-PERSON
+3	,	,	,	_	5	punct	_	O
+4	Please	please	UH	pos2=NNP	5	discourse	_	O
+5	interview	interview	VB	_	0	root	_	O
+6	Halderman	halderman	NNP	_	5	dobj	_	U-PERSON
+7	from	from	IN	_	5	prep	_	O
+8	the	the	DT	_	9	det	_	B-ORG
+9	Univ	univ	NNP	_	7	pobj	_	I-ORG
+10	of	of	IN	_	9	prep	_	I-ORG
+11	Michigan	michigan	NNP	_	10	pobj	_	L-ORG
+12	re:discrepancy	re:discrepancy	NN	pos2=NNP	11	appos	_	O
+13	in	in	IN	_	12	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	results	result	NNS	_	13	pobj	_	O
+16	in	in	IN	_	15	prep	_	O
+17	counties	county	NNS	_	16	pobj	_	O
+18	with	with	IN	_	17	prep	_	O
+19	e-voting	e-voting	NN	pos2=VBG	20	compound	_	O
+20	machines	machine	NNS	_	18	pobj	_	O
+21	.	.	.	_	5	punct	_	O
+

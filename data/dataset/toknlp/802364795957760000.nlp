@@ -1,0 +1,16 @@
+1	TY	ty	NNP	pos2=NN	6	vocative	_	O
+2	@chrysalisdesign	@chrysalisdesign	IN	pos2=XX	1	prep	_	O
+3	The	the	DT	_	4	det	_	O
+4	latest	late	JJS	_	2	pobj	_	O
+5	The	the	DT	_	6	det	_	O
+6	painters	painter	NNS	_	0	root	_	O
+7	Daily	daily	RB	pos2=NNP	6	advmod	_	U-DATE
+8	!	!	.	_	1	punct	_	O
+
+1	https://t.co/JPELMIWryo	#hlink#	ADD	pos2=NN	0	root	_	O
+2	Thanks	thanks	NNS	pos2=NN	1	npadvmod	_	O
+3	to	to	IN	_	2	prep	_	O
+4	@RCdeWinter	@rcdewinter	NNP	pos2=VB	3	pobj	_	O
+5	#trumps	#trumps	UH	pos2=XX	1	discourse	_	O
+6	#deplorables	#deplorables	UH	pos2=NNS	1	discourse	_	O
+

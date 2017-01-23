@@ -1,0 +1,24 @@
+1	@politico	@politico	UH	pos2=NNP	10	discourse	_	O
+2	Fox	fox	NNP	_	3	compound	_	B-ORG
+3	News	news	NNP	pos2=NN	10	dep	_	L-ORG
+4	:	:	:	_	10	punct	_	O
+5	Former	former	JJ	_	7	nmod	_	O
+6	ICE	ice	NN	_	7	compound	_	O
+7	agent	agent	NN	_	10	dep	_	O
+8	:	:	:	_	10	punct	_	O
+9	I	I	PRP	_	10	nsubj	_	O
+10	arrested	arrest	VBD	_	0	root	_	O
+11	over	over	IN	pos2=RP	12	qmod	_	O
+12	1,000	0	CD	_	14	nmod	_	U-CARDINAL
+13	illegal	illegal	JJ	_	14	nmod	_	O
+14	aliens	alien	NNS	_	10	dobj	_	O
+15	,	,	,	_	10	punct	_	O
+16	routinely	routinely	RB	_	17	advmod	_	O
+17	encountered	encounter	VBD	_	10	conj	_	O
+18	those	those	DT	_	17	dobj	_	O
+19	with	with	IN	_	18	prep	_	O
+20	voter	voter	NN	pos2=JJ	21	compound	_	O
+21	registration	registration	NN	_	22	compound	_	O
+22	cards	card	NNS	_	19	pobj	_	O
+23	.	.	.	_	10	punct	_	O
+

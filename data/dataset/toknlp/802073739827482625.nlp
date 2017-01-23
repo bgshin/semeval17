@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det	_	O
+2	amount	amount	NN	_	5	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	Lithium	lithium	NN	pos2=NNP	3	pobj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	a	a	DT	_	8	det	_	O
+7	Tesla	tesla	NNP	_	8	compound	_	B-ORG
+8	Model	model	NNP	pos2=NN	10	poss	_	I-ORG
+9	S	s	POS	pos2=NNP	8	case	_	L-ORG
+10	battery	battery	NN	_	11	nsubj	_	O
+11	is	be	VBZ	_	5	conj	_	O
+

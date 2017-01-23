@@ -1,0 +1,6 @@
+1	Imma	imma	NNP	pos2=NN	2	nsubj	_	O
+2	miss	miss	VBP	pos2=NNP	0	root	_	O
+3	Obama	obama	NNP	_	4	compound	_	B-PERSON
+4	😭😭	😭😭	NNP	pos2=HYPH	2	dobj	_	L-PERSON
+5	#ThankYouObama	#thankyouobama	ADD	pos2=NN	2	punct	_	O
+

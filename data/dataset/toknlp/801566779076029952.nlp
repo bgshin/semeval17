@@ -1,0 +1,17 @@
+1	#Mosul	#mosul	JJ	pos2=NNP	2	nmod	_	O
+2	battle	battle	NN	_	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	#Iraqi	#iraqi	VBG	pos2=CD	5	nmod	_	O
+5	civilians	civilian	NNS	_	0	root	_	O
+6	‘	'	''	pos2=POS	5	punct	_	O
+7	targeted	target	VBN	_	5	acl	_	O
+8	by	by	IN	_	7	agent	_	O
+9	snipers	sniper	NNS	_	8	pobj	_	O
+10	’	'	''	pos2=POS	5	punct	_	O
+11	as	as	IN	_	13	mark	_	O
+12	they	they	PRP	_	13	nsubj	_	O
+13	flee	flee	VBP	_	5	advcl	_	O
+14	#ISIS	#isis	ADD	pos2=GW	16	punct	_	U-GPE
+15	https://t.co/5Py6C7bmLO#MosulOffensive	#hlink#	ADD	_	16	compound	_	O
+16	#Iraq	#iraq	NNP	pos2=-RRB-	13	dobj	_	U-ORG
+

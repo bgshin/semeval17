@@ -1,0 +1,15 @@
+1	#TheWalkingDead	#thewalkingdead	NNP	pos2=XX	2	compound	_	B-ORG
+2	Favorites	favorite	NNPS	pos2=NNS	0	root	_	L-ORG
+3	@wwwbigbaldhead	@wwwbigbaldhead	RB	pos2=XX	2	conj	_	O
+4	and	and	CC	_	2	cc	_	O
+5	Greg	greg	NNP	_	9	compound	_	B-WORK_OF_ART
+6	Nicotero	nicotero	NNP	_	9	compound	_	I-WORK_OF_ART
+7	Turn	turn	NNP	pos2=VB	9	compound	_	I-WORK_OF_ART
+8	Zombie	zombie	NNP	_	9	compound	_	I-WORK_OF_ART
+9	Appetite	appetite	NNP	pos2=NN	14	dep	_	I-WORK_OF_ART
+10	Into	into	IN	_	9	prep	_	I-WORK_OF_ART
+11	Upscale	upscale	NNP	_	12	compound	_	I-WORK_OF_ART
+12	Restaurant	restaurant	NNP	pos2=NN	10	pobj	_	I-WORK_OF_ART
+13	…	…	NFP	pos2=POS	14	punct	_	L-WORK_OF_ART
+14	https://t.co/mzW6tLcDXL	#hlink#	ADD	_	2	conj	_	O
+

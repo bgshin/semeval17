@@ -1,0 +1,31 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	think	think	VBP	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	only	only	JJ	_	5	nmod	_	O
+5	thing	thing	NN	_	12	nsubj	_	O
+6	about	about	IN	_	5	prep	_	O
+7	Persona	persona	NN	pos2=NNP	6	pobj	_	O
+8	5	0	CD	_	7	nmod	_	U-QUANTITY
+9	I	I	PRP	_	11	nsubj	_	O
+10	'm	be	VBP	_	11	aux	_	O
+11	dreading	dread	VBG	_	5	relcl	_	O
+12	is	be	VBZ	_	2	ccomp	_	O
+13	the	the	DT	_	20	det	_	O
+14	obligatory	obligatory	JJ	_	20	nmod	_	O
+15	beach	beach	NN	_	12	attr	_	O
+16	/	/	SYM	pos2=HYPH	12	punct	_	O
+17	hot	hot	JJ	pos2=NN	19	nmod	_	O
+18	-	-	HYPH	_	19	punct	_	O
+19	springs	spring	NNS	pos2=NN	20	compound	_	O
+20	event	event	NN	_	12	attr	_	O
+21	.	.	.	_	2	punct	_	O
+
+1	Ever	ever	RB	_	6	advmod	_	O
+2	since	since	IN	pos2=RB	6	prep	_	O
+3	3	0	CD	pos2=XX	2	pobj	_	U-DATE
+4	we	we	PRP	_	5	nsubj	_	O
+5	keep	keep	VBP	pos2=VB	0	root	_	O
+6	getting	get	VBG	_	5	xcomp	_	O
+7	it	it	PRP	_	6	dobj	_	O
+8	.	.	.	_	5	punct	_	O
+

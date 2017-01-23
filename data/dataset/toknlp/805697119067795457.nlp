@@ -1,0 +1,16 @@
+1	SURPRISE	surprise	NN	pos2=VB	2	compound	_	O
+2	TOYS	toy	NNS	pos2=NNPS	0	root	_	B-ORG
+3	#Christmas	#christmas	NNP	pos2=VBZ	11	compound	_	I-ORG
+4	#ThomasTrainDisney	#thomastraindisney	NNP	pos2=POS	11	compound	_	I-ORG
+5	Tsum	tsum	NNP	_	11	compound	_	I-ORG
+6	Tsum	tsum	NNP	_	11	compound	_	I-ORG
+7	Hot	hot	NNP	pos2=JJ	8	compound	_	I-ORG
+8	Wheels	wheel	NNPS	pos2=NNP	10	compound	_	I-ORG
+9	Toy	toy	NNP	_	10	compound	_	I-ORG
+10	Cars	car	NNPS	pos2=NNP	11	compound	_	I-ORG
+11	Advent	advent	NNP	pos2=NN	2	appos	_	L-ORG
+12	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/sPosC25k2r	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/Mw64Rh40fh	#hlink#	ADD	_	0	root	_	U-ORG
+

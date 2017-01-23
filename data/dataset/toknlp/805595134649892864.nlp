@@ -1,0 +1,21 @@
+1	End	end	NN	_	2	compound	_	O
+2	Prohibition	prohibition	NN	_	6	dep	_	O
+3	:	:	:	_	6	punct	_	O
+4	Planning	planning	NNP	pos2=VBG	5	compound	_	B-ORG
+5	Commission	commission	NNP	_	6	nsubj	_	L-ORG
+6	recommends	recommend	VBZ	_	0	root	_	O
+7	amending	amend	VBG	_	6	xcomp	_	O
+8	Redlands	redlands	NNP	pos2=NNPS	7	dobj	_	O
+9	&	&	CC	_	8	cc	_	O
+10	#	#	NN	pos2=$	8	conj	_	O
+11	039	0	CD	pos2=LS	10	nmod	_	O
+12	;	;	,	pos2=:	6	punct	_	O
+13	...	..	.	pos2=,	6	punct	_	O
+
+1	https://t.co/xGal4ejMPw	#hlink#	ADD	_	0	root	_	O
+2	#endprohibition	#endprohibition	NN	pos2=-RRB-	1	vocative	_	O
+3	,	,	,	_	2	punct	_	O
+4	#cannabis	#cannabis	NN	pos2=UH	2	conj	_	O
+5	,	,	,	_	4	punct	_	O
+6	#marijuana	#marijuana	UH	pos2=NN	4	discourse	_	O
+

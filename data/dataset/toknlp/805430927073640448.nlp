@@ -1,0 +1,22 @@
+1	Sorry	sorry	UH	pos2=JJ	3	discourse	_	O
+2	not	not	RB	_	3	neg	_	O
+3	sorry	sorry	JJ	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	piss	piss	VB	_	3	xcomp	_	O
+6	on	on	IN	pos2=RP	5	prep	_	O
+7	your	your	PRP$	_	8	poss	_	O
+8	parade	parade	NN	_	6	pobj	_	O
+9	,	,	,	_	3	punct	_	O
+10	but	but	CC	_	3	cc	_	O
+11	Ashley	ashley	NNP	_	12	compound	_	B-PERSON
+12	Graham	graham	NNP	_	13	nsubj	_	L-PERSON
+13	makes	make	VBZ	_	3	conj	_	O
+14	no	no	DT	_	15	det	_	O
+15	difference	difference	NN	_	13	dobj	_	O
+16	whatsoever	whatsoever	RB	_	15	advmod	_	O
+17	.	.	.	_	13	punct	_	O
+
+1	She	she	PRP	_	3	nmod	_	O
+2	…	…	NFP	pos2=VBD	3	punct	_	O
+3	https://t.co/wJqkhyYjSq	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,16 @@
+1	Quick	quick	JJ	_	4	nmod	_	O
+2	favor	favor	NN	_	4	compound	_	O
+3	-	-	HYPH	pos2=:	4	punct	_	O
+4	how	how	NN	pos2=WRB	0	root	_	O
+5	to	to	TO	_	7	aux	_	O
+6	politely	politely	RB	_	7	advmod	_	O
+7	end	end	VB	_	4	relcl	_	O
+8	conversation	conversation	NN	_	7	dobj	_	O
+9	with	with	IN	_	8	prep	_	O
+10	an	an	DT	pos2=NN	14	det	_	O
+11	over	over	IN	pos2=AFX	12	advmod	_	O
+12	chatty	chatty	JJ	_	14	nmod	_	O
+13	#uber	#uber	PRP$	pos2=NNP	14	poss	_	O
+14	driver	driver	NN	_	9	pobj	_	O
+15	?	?	.	_	4	punct	_	O
+

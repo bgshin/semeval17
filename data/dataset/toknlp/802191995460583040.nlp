@@ -1,0 +1,26 @@
+1	Sorry	sorry	UH	pos2=JJ	25	discourse	_	O
+2	,	,	,	_	25	punct	_	O
+3	Ben	ben	NNP	_	4	compound	_	B-PERSON
+4	Carson	carson	NNP	_	25	dep	_	L-PERSON
+5	although	although	IN	_	25	mark	_	O
+6	a	a	DT	_	7	det	_	O
+7	doctor	doctor	NN	_	25	dep	_	O
+8	,	,	,	_	7	punct	_	O
+9	HHS	hhs	NNP	pos2=NN	7	appos	_	U-ORG
+10	and	and	CC	_	9	cc	_	O
+11	Surgeon	surgeon	NNP	pos2=NN	12	compound	_	O
+12	General	general	NNP	_	9	conj	_	O
+13	,	,	,	_	25	punct	_	O
+14	only	only	RB	_	15	advmod	_	O
+15	for	for	IN	_	7	prep	_	O
+16	'	'	``	_	17	punct	_	O
+17	Whites	white	NNPS	pos2=NNS	15	pobj	_	U-NORP
+18	'	'	''	_	17	punct	_	O
+19	in	in	IN	_	17	prep	_	O
+20	a	a	DT	_	23	det	_	O
+21	Trump	trump	NNP	pos2=NN	23	compound	_	B-ORG
+22	cabinet.@MSNBC	cabinet.@msnbc	NNP	pos2=.	23	compound	_	L-ORG
+23	#TCOT	#tcot	NNP	pos2=GW	19	pobj	_	O
+24	…	…	NFP	pos2=-LRB-	25	punct	_	O
+25	https://t.co/Q7NxF804FV	#hlink#	ADD	_	0	root	_	O
+

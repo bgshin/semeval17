@@ -1,0 +1,22 @@
+1	#SeaPorDIos	#seapordios	FW	pos2=NNP	8	nmod	_	O
+2	Porque	porque	FW	pos2=NNP	8	nmod	_	O
+3	como	como	FW	pos2=NNP	8	nmod	_	O
+4	dijo	dijo	FW	_	8	nmod	_	O
+5	el	el	FW	pos2=NN	8	nmod	_	B-FAC
+6	Premio	premio	NNP	pos2=FW	8	compound	_	I-FAC
+7	Nobel:Bob	nobel:bob	NNP	_	8	compound	_	I-FAC
+8	Dylan:	dylan:	NNP	pos2=ADD	12	poss	_	I-FAC
+9	"	"	''	pos2=``	8	punct	_	L-FAC
+10	how	how	WRB	_	11	advmod	_	O
+11	many	many	JJ	_	12	nmod	_	O
+12	years	year	NNS	_	14	dative	_	O
+13	can	can	MD	_	14	aux	_	O
+14	some	some	DT	_	15	det	_	O
+15	people	people	NNS	_	0	root	_	O
+16	existbefore	existbefore	IN	pos2=VBP	18	mark	_	O
+17	they	they	PRP	_	18	nsubj	_	O
+18	're	be	VBP	_	13	ccomp	_	O
+19	...	..	.	pos2=,	8	punct	_	O
+
+1	https://t.co/G4migCafaa	#hlink#	ADD	_	0	root	_	U-ORG
+

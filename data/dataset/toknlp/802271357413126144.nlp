@@ -1,0 +1,21 @@
+1	@TheFive	@thefive	NN	pos2=ADD	7	dep	_	U-PERSON
+2	(	(	-LRB-	_	1	punct	_	O
+3	humor	humor	NN	_	1	appos	_	O
+4	)	)	-RRB-	_	1	punct	_	O
+5	if	if	IN	_	7	mark	_	O
+6	there	there	EX	_	7	expl	_	O
+7	's	's	VBZ	_	11	advcl	_	O
+8	#HeatedBattle	#heatedbattle	NN	pos2=NNS	7	attr	_	O
+9	in	in	IN	pos2=RB	8	prep	_	O
+10	#TrumpTransitionTeam	#trumptransitionteam	NNP	pos2=NN	9	pobj	_	U-GPE
+11	tell	tell	VB	pos2=VBP	0	root	_	O
+12	them	them	PRP	_	11	dobj	_	O
+13	to	to	IN	pos2=TO	11	prep	_	O
+14	#TurnOnTheAC	#turnontheac	VB	pos2=XX	13	pobj	_	O
+15	afterall	afterall	RB	pos2=NN	17	advmod	_	O
+16	they	they	PRP	_	17	nsubj	_	O
+17	are	be	VBP	_	11	ccomp	_	O
+18	in	in	IN	_	17	prep	_	O
+19	#FL	#fl	NNP	pos2=$	18	pobj	_	O
+20	#MakeMyComedyFunnyAgain	#makemycomedyfunnyagain	ADD	pos2=NN	17	advmod	_	O
+

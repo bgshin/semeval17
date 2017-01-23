@@ -1,0 +1,7 @@
+1	@Moonlightswami	@moonlightswami	NNP	pos2=NNS	5	compound	_	O
+2	rick	rick	JJ	pos2=NN	5	compound	_	B-PERSON
+3	porcello	porcello	NNP	pos2=FW	4	compound	_	I-PERSON
+4	Cy	cy	NNP	pos2=XX	5	compound	_	L-PERSON
+5	young	young	JJ	pos2=RB	0	root	_	O
+6	!	!	.	_	5	punct	_	O
+

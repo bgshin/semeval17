@@ -1,0 +1,9 @@
+1	Why	why	WRB	_	2	advmod	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	Bradley	bradley	NNP	_	4	compound	_	B-PERSON
+4	Cooper	cooper	NNP	_	2	nsubj	_	L-PERSON
+5	here	here	RB	_	2	advmod	_	O
+6	.....	..	.	pos2=,	2	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+

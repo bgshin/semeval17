@@ -1,0 +1,16 @@
+1	Jasmin	jasmin	NNP	_	2	compound	_	B-PERSON
+2	Guy	guy	NNP	_	0	root	_	L-PERSON
+3	!	!	.	_	2	punct	_	O
+
+1	(	(	-LRB-	_	5	punct	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	know	know	VB	_	0	root	_	O
+6	what	what	WP	_	9	attr	_	O
+7	that	that	DT	pos2=IN	8	det	_	O
+8	dance	dance	NN	_	9	nsubj	_	O
+9	was	be	VBD	_	5	ccomp	_	O
+10	)	)	-RRB-	_	5	punct	_	O
+11	#ThankYouObama	#thankyouobama	NN	pos2=ADD	9	attr	_	U-DATE
+

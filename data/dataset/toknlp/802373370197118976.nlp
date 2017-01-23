@@ -1,0 +1,27 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@DineshDSouza	@dineshdsouza	UH	pos2=NN	4	discourse	_	O
+2	@HillarysAmerica	@hillarysamerica	UH	pos2=MD	4	discourse	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	think	think	VBP	_	0	root	_	O
+5	most	most	JJS	pos2=RBS	8	nsubj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	us	us	PRP	_	6	pobj	_	O
+8	had	have	VBD	_	4	ccomp	_	O
+9	that	that	DT	pos2=WDT	10	nsubj	_	O
+10	figured	figure	VBN	pos2=VBD	8	ccomp	_	O
+11	out	out	RP	_	10	prt	_	O
+12	but	but	CC	_	4	cc	_	O
+13	is	be	VBZ	_	4	conj	_	O
+14	the	the	DT	_	15	det	_	O
+15	money	money	NN	_	13	attr	_	O
+16	coming	come	VBG	_	15	acl	_	O
+17	thru	thru	IN	_	16	prep	_	O
+18	the	the	DT	_	20	det	_	O
+19	Super	super	NNP	_	20	compound	_	O
+20	Pac	pac	NNP	_	17	pobj	_	O
+21	from	from	IN	_	20	prep	_	O
+22	George	george	NNP	_	23	compound	_	B-PERSON
+23	Soros	soros	NNP	_	21	pobj	_	L-PERSON
+24	?	?	.	_	4	punct	_	O
+

@@ -1,0 +1,10 @@
+1	Kremlin	kremlin	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	states	state	VBZ	pos2=NNS	0	root	_	O
+3	#Putin	#putin	NNP	_	9	nmod	_	O
+4	Unfazed	unfazed	JJ	pos2=NNP	2	ccomp	_	O
+5	by	by	IN	_	4	prep	_	O
+6	#ISIS	#isis	NNP	pos2=GW	7	compound	_	O
+7	Threats	threat	NNS	pos2=GW	5	pobj	_	O
+8	https://t.co/dfum9nrV00	#hlink#	ADD	_	9	nmod	_	O
+9	https://t.co/V0IFvvVFwr	#hlink#	ADD	_	7	appos	_	U-ORG
+

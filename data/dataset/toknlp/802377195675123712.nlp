@@ -1,0 +1,19 @@
+1	SC	sc	NN	pos2=NNP	2	nsubj	_	U-ORG
+2	has	have	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	crowd	crowd	NN	_	2	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	anti-Trump	anti-trump	JJ	_	7	nmod	_	O
+7	protestors	protestor	NNS	_	5	pobj	_	O
+8	,	,	,	_	2	punct	_	O
+9	but	but	CC	_	2	cc	_	O
+10	only	only	RB	_	11	advmod	_	O
+11	2	0	CD	_	13	nmod	_	U-CARDINAL
+12	Trump	trump	NNP	pos2=NN	13	compound	_	U-ORG
+13	supporters	supporter	NNS	_	9	pobj	_	O
+14	.	.	.	_	2	punct	_	O
+
+1	#shocking#CharlestonProtests	#shocking#charlestonprotests	NNS	pos2=GW	3	nmod	_	O
+2	#NotMyPresident	#notmypresident	ADD	pos2=GW	3	punct	_	O
+3	https://t.co/oL1tC8Tdpo	#hlink#	ADD	pos2=NN	0	root	_	O
+

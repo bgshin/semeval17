@@ -1,0 +1,7 @@
+1	@melwalters4	@melwalters0	NN	pos2=NNS	0	root	_	O
+2	or	or	CC	_	1	cc	_	O
+3	the	the	DT	_	5	det	_	B-ORG
+4	Clinton	clinton	NNP	_	5	compound	_	I-ORG
+5	Foundation	foundation	NNP	_	1	conj	_	L-ORG
+6	..	..	.	pos2=,	1	punct	_	O
+

@@ -1,0 +1,19 @@
+1	@King__Lou	@king__lou	UH	pos2=XX	6	discourse	_	O
+2	@fookalo	@fookalo	UH	pos2=MD	6	discourse	_	O
+3	I	I	PRP	_	6	nsubj	_	O
+4	do	do	VBP	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	know	know	VB	_	0	root	_	O
+7	but	but	CC	pos2=IN	6	cc	_	O
+8	apparently	apparently	RB	_	12	advmod	_	O
+9	they	they	PRP	_	12	nsubj	_	O
+10	do	do	VBP	_	12	aux	_	O
+11	n't	not	RB	_	12	neg	_	O
+12	like	like	VB	_	6	conj	_	O
+13	rad	rad	NN	pos2=JJ	14	compound	_	O
+14	dudes	dude	NNS	_	12	dobj	_	O
+15	or	or	CC	_	14	cc	_	O
+16	bad	bad	JJ	_	17	nmod	_	O
+17	hombres	hombre	NNS	_	14	conj	_	O
+18	.	.	.	_	12	punct	_	O
+

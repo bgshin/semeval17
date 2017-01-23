@@ -1,0 +1,14 @@
+1	AleahDivine	aleahdivine	NNP	pos2=NN	4	dep	_	U-ORG
+2	:	:	:	_	4	punct	_	O
+3	#Fashion	#fashion	NNP	pos2=NN	4	nsubj	_	U-ORG
+4	Speaks	speak	VBZ	pos2=NNP	0	root	_	O
+5	Selena	selena	NNP	_	6	compound	_	B-PERSON
+6	Gomez	gomez	NNP	_	7	nsubj	_	L-PERSON
+7	Returns	return	VBZ	_	4	ccomp	_	O
+8	to	to	IN	_	7	prep	_	O
+9	Instagram	instagram	NNP	_	8	pobj	_	B-WORK_OF_ART
+10	With	with	IN	_	7	prep	_	I-WORK_OF_ART
+11	Thanksgiving	thanksgiving	NNP	_	12	compound	_	I-WORK_OF_ART
+12	Message	message	NNP	pos2=NN	10	pobj	_	L-WORK_OF_ART
+13	https://t.co/dewsM1uDY8	#hlink#	ADD	pos2=NN	12	appos	_	O
+

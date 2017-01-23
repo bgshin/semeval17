@@ -1,0 +1,27 @@
+1	@Russ_Warrior	@russ_warrior	XX	pos2=NN	4	dep	_	O
+2	@O_Rich	@o_rich	TO	pos2=MD	4	punct	_	O
+3	_	_	SYM	pos2=``	4	punct	_	O
+4	Think	think	VB	pos2=VBP	0	root	_	O
+5	this	this	DT	_	6	nsubj	_	O
+6	means	mean	VBZ	_	4	ccomp	_	O
+7	US	us	NNP	pos2=PRP	9	nsubj	_	U-GPE
+8	is	be	VBZ	_	9	aux	_	O
+9	dropping	drop	VBG	_	6	ccomp	_	O
+10	its	its	PRP$	_	11	poss	_	O
+11	support	support	NN	_	9	dobj	_	O
+12	for	for	IN	_	11	prep	_	O
+13	Ukraine	ukraine	NNP	_	14	compound	_	U-GPE
+14	coup	coup	NN	_	12	pobj	_	O
+15	?	?	.	_	4	punct	_	O
+
+1	No	no	DT	pos2=RB	3	det	_	O
+2	more	more	JJR	pos2=RBR	3	nmod	_	O
+3	need	need	NN	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	UA	ua	NN	pos2=NNP	4	pobj	_	U-ORG
+6	'	'	''	pos2=POS	3	punct	_	O
+7	useful	useful	JJ	_	3	nmod	_	O
+8	idiots'?Poroshenko	idiots'?poroshenko	IN	pos2=NNS	7	prep	_	O
+9	11	0	CD	_	10	nmod	_	B-PERCENT
+10	%	%	NN	_	8	pobj	_	L-PERCENT
+

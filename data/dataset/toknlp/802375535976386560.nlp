@@ -1,0 +1,21 @@
+1	@bahamiangalpyt	@bahamiangalpyt	UH	pos2=ADD	9	discourse	_	O
+2	and	and	CC	_	9	cc	_	O
+3	if	if	IN	_	7	mark	_	O
+4	the	the	DT	_	7	det	_	O
+5	healthcare	healthcare	NN	_	6	compound	_	O
+6	plan	plan	NN	_	7	compound	_	O
+7	change	change	NN	_	9	nsubj	_	O
+8	,	,	,	_	9	punct	_	O
+9	seems	seem	VBZ	_	0	root	_	O
+10	he	he	PRP	_	12	nsubj	_	O
+11	will	will	MD	_	12	aux	_	O
+12	keep	keep	VB	_	9	ccomp	_	O
+13	the	the	DT	_	15	det	_	O
+14	best	good	JJS	_	15	nmod	_	O
+15	part	part	NN	_	12	dobj	_	O
+16	from	from	IN	_	15	prep	_	O
+17	Obamacare	obamacare	NNP	_	16	pobj	_	U-ORG
+18	.	.	.	_	9	punct	_	O
+
+1	https://t.co/tCq8VQ5k1N	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,8 @@
+1	Trump	trump	NNP	pos2=NN	2	nsubj	_	B-WORK_OF_ART
+2	Wins	win	VBZ	_	0	root	_	I-WORK_OF_ART
+3	Bad	bad	NNP	pos2=JJ	5	compound	_	I-WORK_OF_ART
+4	Hombres	hombres	NNP	_	5	compound	_	I-WORK_OF_ART
+5	Award	award	NNP	pos2=GW	7	dep	_	L-WORK_OF_ART
+6	#spoofs	#spoofs	POS	pos2=ADD	5	case	_	O
+7	https://t.co/PXNENAXJL2	#hlink#	ADD	_	2	dobj	_	O
+

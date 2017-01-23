@@ -1,0 +1,21 @@
+1	@FoxNews	@foxnews	NNS	pos2=ADD	7	attr	_	O
+2	@KennedyNation	@kennedynation	ADD	pos2=NN	7	punct	_	B-ORG
+3	@MittRomney	@mittromney	NNP	pos2=PRP$	4	compound	_	I-ORG
+4	Bet	bet	NNP	pos2=VB	2	dobj	_	L-ORG
+5	it	it	PRP	_	7	nsubj	_	O
+6	will	will	MD	_	7	aux	_	O
+7	be	be	VB	_	0	root	_	O
+8	another	another	DT	_	9	det	_	O
+9	establishment	establishment	NN	pos2=NNP	7	attr	_	O
+10	Republican	republican	NNP	pos2=JJ	9	appos	_	U-NORP
+11	.	.	.	_	7	punct	_	O
+
+1	So	so	RB	_	2	advmod	_	O
+2	much	much	RB	pos2=JJ	0	root	_	O
+3	for	for	IN	_	7	prep	_	O
+4	#draintheswamp	#draintheswamp	NN	pos2=XX	3	pobj	_	O
+5	y'all	y'all	PRP	_	7	nsubjpass	_	O
+6	got	get	VBD	pos2=VBP	7	auxpass	_	O
+7	conned	con	VBN	_	2	advcl	_	O
+8	LOLOLOL	lololol	NNP	pos2=NN	7	dobj	_	U-ORG
+

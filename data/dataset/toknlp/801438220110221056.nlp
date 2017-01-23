@@ -1,0 +1,18 @@
+1	Road	road	NN	pos2=NNP	0	root	_	O
+2	to	to	IN	pos2=TO	1	prep	_	O
+3	#Mosul	#mosul	NNP	pos2=XX	2	pobj	_	U-GPE
+4	,	,	,	_	3	punct	_	O
+5	#Iraq	#iraq	NNP	_	3	appos	_	U-GPE
+6	.	.	.	_	1	punct	_	O
+
+1	/	/	SYM	_	10	punct	_	O
+2	Camino	camino	NNP	pos2=IN	10	dep	_	U-GPE
+3	a	a	DT	pos2=FW	7	det	_	O
+4	Mosul	mosul	NNP	_	7	nmod	_	U-GPE
+5	,	,	,	_	7	punct	_	O
+6	#Irak.#RoadtoMosul	#irak.#roadtomosul	NNP	pos2=JJ	7	compound	_	B-PERSON
+7	#MosulOffensive	#mosuloffensive	NNP	pos2=XX	10	dep	_	L-PERSON
+8	#photojournalism	#photojournalism	GW	pos2=UH	10	nmod	_	O
+9	…	…	NFP	pos2=GW	10	punct	_	O
+10	https://t.co/rcKO5DNcy8	#hlink#	ADD	_	0	root	_	O
+

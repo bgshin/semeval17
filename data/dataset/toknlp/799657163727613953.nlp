@@ -1,0 +1,11 @@
+1	happy	happy	JJ	_	2	nmod	_	O
+2	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=NNP	4	attr	_	O
+3	this	this	DT	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	a	a	DT	_	8	det	_	O
+6	pretty	pretty	RB	_	7	advmod	_	O
+7	important	important	JJ	_	8	nmod	_	O
+8	one	#crd#	NN	pos2=CD	4	attr	_	O
+9	for	for	IN	_	8	prep	_	O
+10	me	me	PRP	_	9	pobj	_	O
+

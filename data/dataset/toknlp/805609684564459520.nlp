@@ -1,0 +1,13 @@
+1	The	the	DT	_	12	det	_	O
+2	Gold	gold	NNP	pos2=NN	5	compound	_	O
+3	Standard	standard	NNP	_	5	compound	_	O
+4	-	-	HYPH	_	5	punct	_	O
+5	Ari	ari	NNP	_	12	compound	_	B-PERSON
+6	Gold	gold	NN	pos2=NNP	12	nmod	_	L-PERSON
+7	|	|	SYM	pos2=,	12	punct	_	O
+8	Humor	humor	NNP	pos2=NN	12	dep	_	O
+9	|	|	SYM	pos2=NFP	12	punct	_	O
+10	970693606	0	CD	pos2=NFP	12	dep	_	U-CARDINAL
+11	https://t.co/7MWZuukDby	#hlink#	ADD	_	12	nmod	_	O
+12	#Humor	#humor	NN	pos2=-RRB-	0	root	_	O
+

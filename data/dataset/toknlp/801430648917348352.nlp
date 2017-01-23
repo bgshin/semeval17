@@ -1,0 +1,20 @@
+1	Police	police	NNS	pos2=NNP	2	compound	_	O
+2	#California	#california	NNP	pos2=RBR	14	nsubj	_	O
+3	under	under	IN	_	2	prep	_	O
+4	Fire	fire	NNP	pos2=NN	3	pobj	_	O
+5	for	for	IN	_	2	prep	_	O
+6	breaking	break	VBG	_	5	pcomp	_	O
+7	up	up	RP	_	6	prt	_	O
+8	VIOLENT	violent	JJ	pos2=NNP	6	dobj	_	O
+9	Riots🤔so	riots🤔so	IN	pos2=NNP	6	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	Left	left	NNP	pos2=JJ	9	pobj	_	O
+12	does	do	VBZ	_	14	aux	_	O
+13	n't	not	RB	_	14	neg	_	O
+14	want	want	VB	_	0	root	_	O
+15	Police	police	NNS	pos2=NNP	19	nmod	_	O
+16	2	0	CD	_	17	nmod	_	U-CARDINAL
+17	Protect?#Trump	protect?#trump	NNS	pos2=NN	18	compound	_	O
+18	#	#	NN	pos2=-LRB-	19	dep	_	O
+19	MAGAhttps://t.co/7FXkXlsOsB	#hlink#	ADD	_	14	ccomp	_	U-MONEY
+

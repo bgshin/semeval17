@@ -1,0 +1,13 @@
+1	Gee	gee	NNP	pos2=NN	2	compound	_	U-ORG
+2	whiz	whiz	NN	pos2=NNP	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	Ricky	ricky	NNP	_	5	compound	_	B-PERSON
+5	Martin	martin	NNP	_	2	appos	_	L-PERSON
+6	!	!	.	_	2	punct	_	O
+
+1	Stare	stare	VB	pos2=VBP	0	root	_	O
+2	at	at	IN	_	1	prep	_	O
+3	my	my	PRP$	_	4	poss	_	O
+4	back	back	NN	_	2	pobj	_	O
+5	!!!	!!	.	_	1	punct	_	O
+

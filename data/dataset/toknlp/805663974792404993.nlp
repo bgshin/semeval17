@@ -1,0 +1,35 @@
+1	$	$	$	pos2=SYM	2	nmod	_	O
+2	15	0	CD	_	4	nmod	_	U-MONEY
+3	minimum	minimum	JJ	pos2=NN	4	nmod	_	O
+4	wage	wage	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	a	a	DT	_	9	det	_	O
+7	win	win	NN	pos2=VB	9	compound	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	win	win	NN	_	5	attr	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	If	if	IN	_	3	mark	_	O
+2	businesses	business	NNS	_	3	nsubj	_	O
+3	continue	continue	VBP	_	8	advcl	_	O
+4	to	to	TO	pos2=IN	5	aux	_	O
+5	boom	boom	VB	pos2=NN	3	xcomp	_	O
+6	,	,	,	_	8	punct	_	O
+7	it	it	PRP	_	8	nsubj	_	O
+8	's	's	VBZ	_	0	root	_	O
+9	a	a	DT	_	10	det	_	O
+10	win	win	NN	_	8	attr	_	O
+11	.	.	.	_	8	punct	_	O
+
+1	Or	or	CC	_	11	cc	_	O
+2	,	,	,	_	11	punct	_	O
+3	if	if	IN	_	5	mark	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	puts	put	VBZ	_	11	advcl	_	O
+6	@LibertyLovesYou	@libertylovesyou	PRP	pos2=RP	5	dobj	_	O
+7	out	out	IN	pos2=RP	5	prep	_	O
+8	of	of	IN	_	7	prep	_	O
+9	b	b	GW	pos2=NN	8	pobj	_	O
+10	…	…	NFP	pos2=:	11	punct	_	O
+11	https://t.co/GuirnBYjnX	#hlink#	ADD	pos2=NN	0	root	_	O
+

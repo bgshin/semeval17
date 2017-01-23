@@ -1,0 +1,28 @@
+1	Clinton	clinton	NNP	_	2	nsubj	_	U-PERSON
+2	won	win	VBD	_	0	root	_	O
+3	popular	popular	JJ	_	4	nmod	_	O
+4	vote	vote	NN	_	2	dobj	_	O
+5	against	against	IN	_	4	prep	_	O
+6	Obama	obama	NNP	_	5	pobj	_	U-PERSON
+7	but	but	CC	_	2	cc	_	O
+8	lost	lose	VBD	pos2=VBN	2	conj	_	O
+9	the	the	DT	_	19	det	_	O
+10	primary	primary	JJ	pos2=NN	19	nmod	_	O
+11	(	(	-LRB-	_	12	punct	_	O
+12	'08	'0	CD	pos2=NN	10	parataxis	_	U-DATE
+13	)	)	-RRB-	_	12	punct	_	O
+14	,	,	,	_	8	punct	_	O
+15	not	not	RB	pos2=CC	19	neg	_	O
+16	her	her	PRP$	_	19	poss	_	O
+17	1	0	CD	_	19	nmod	_	B-DATE
+18	st	st	NN	_	19	compound	_	L-DATE
+19	rodeo	rodeo	NN	_	8	dobj	_	O
+20	but	but	CC	_	19	cc	_	O
+21	not	not	RB	_	22	neg	_	O
+22	asking	ask	VBG	_	8	conj	_	O
+23	for	for	IN	_	22	prep	_	O
+24	recounts	recount	NNS	_	23	pobj	_	O
+25	.	.	.	_	2	punct	_	O
+
+1	https://t.co/H1hqAJVH10	#hlink#	ADD	_	0	root	_	U-ORG
+

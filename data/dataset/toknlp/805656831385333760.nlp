@@ -1,0 +1,26 @@
+1	@realDonaldTrump	@realdonaldtrump	XX	pos2=VB	8	dep	_	O
+2	True	true	JJ	_	7	nmod	_	O
+3	fair	fair	JJ	_	4	nmod	_	O
+4	trade	trade	NN	_	8	nsubj	_	O
+5	=	=	SYM	pos2=HYPH	7	punct	_	O
+6	foreign	foreign	JJ	_	7	nmod	_	O
+7	imports	import	NNS	_	8	nsubj	_	O
+8	meet	meet	VBP	pos2=VB	0	root	_	O
+9	US	us	NNP	pos2=PRP	10	compound	_	U-GPE
+10	regulations	regulation	NNS	_	8	dobj	_	O
+11	over	over	RB	pos2=IN	12	advmod	_	O
+12	there	there	RB	_	8	advmod	_	O
+13	...	..	.	pos2=,	8	punct	_	O
+
+1	EPA	epa	NNP	_	6	nmod	_	U-ORG
+2	,	,	,	_	1	punct	_	O
+3	OSHA	osha	NNP	pos2=NN	1	conj	_	U-ORG
+4	,	,	,	_	3	punct	_	O
+5	Labor	labor	NNP	pos2=NN	6	compound	_	U-ORG
+6	laws	law	NNS	_	7	pcomp	_	O
+7	,	,	,	_	0	root	_	O
+8	minimum	minimum	JJ	pos2=NN	9	nmod	_	O
+9	wage	wage	NN	_	6	conj	_	O
+10	,	,	,	_	9	punct	_	O
+11	etc.	etc.	FW	_	9	conj	_	O
+

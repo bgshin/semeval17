@@ -1,0 +1,34 @@
+1	@nprgreene	@nprgreene	UH	pos2=NNP	2	discourse	_	O
+2	Bless	bless	VB	_	0	root	_	O
+3	your	your	PRP$	_	4	poss	_	O
+4	tact	tact	NN	_	2	dobj	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	try	try	VBP	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	be	be	VB	_	2	xcomp	_	O
+5	delicate	delicate	JJ	_	4	acomp	_	O
+6	saying	say	VBG	pos2=NN	2	xcomp	_	O
+7	"	"	``	_	9	punct	_	O
+8	private	private	JJ	_	9	nmod	_	O
+9	parts	part	NNS	_	6	dobj	_	O
+10	.	.	.	_	2	punct	_	O
+11	"	"	''	_	2	punct	_	O
+
+1	Saakashvili	saakashvili	NNP	_	3	nsubj	_	U-PERSON
+2	boldly	boldly	RB	_	3	advmod	_	O
+3	says	say	VBZ	_	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	"	"	``	pos2=''	3	punct	_	O
+6	he	he	PRP	_	7	nsubj	_	O
+7	wanted	want	VBD	_	3	ccomp	_	O
+8	to	to	TO	_	9	aux	_	O
+9	hang	hang	VB	_	7	xcomp	_	O
+10	me	me	PRP	_	9	dobj	_	O
+11	by	by	IN	_	9	prep	_	O
+12	my	my	PRP$	_	13	poss	_	O
+13	balls	ball	NNS	_	11	pobj	_	O
+14	.	.	.	_	3	punct	_	O
+15	"	"	''	_	3	punct	_	O
+

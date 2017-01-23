@@ -1,0 +1,20 @@
+1	@Greg_Palast	@greg_palast	MD	pos2=NN	3	aux	_	O
+2	Just	just	RB	_	3	advmod	_	O
+3	part	part	VB	pos2=NN	0	root	_	O
+4	&	&	CC	pos2=JJ	3	cc	_	O
+5	parcel	parcel	NN	pos2=VB	3	conj	_	O
+6	of	of	IN	_	3	prep	_	O
+7	GOP	gop	NNP	pos2=JJ	9	compound	_	U-ORG
+8	voter	voter	NN	_	9	compound	_	O
+9	fraud	fraud	NN	_	10	compound	_	O
+10	plan:Voter	plan:voter	NNP	pos2=WDT	6	pobj	_	B-ORG
+11	suppressionGerrymandering	suppressiongerrymandering	VBG	pos2=NNP	3	prep	_	I-ORG
+12	Voter	voter	NNP	pos2=NN	14	compound	_	I-ORG
+13	IDHeavy	idheavy	NNP	_	14	compound	_	I-ORG
+14	Dem	dem	NNP	pos2=NN	15	compound	_	L-ORG
+15	areas	area	NNS	_	11	pobj	_	O
+16	:	:	:	_	3	punct	_	O
+17	Limit	limit	VB	pos2=NN	3	dep	_	O
+18	polling	polling	NN	_	19	compound	_	O
+19	stations	station	NNS	_	17	dobj	_	O
+

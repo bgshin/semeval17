@@ -1,0 +1,27 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	've	have	VBP	_	3	aux	_	O
+3	used	use	VBN	_	0	root	_	O
+4	Black	black	NNP	pos2=JJ	5	compound	_	B-EVENT
+5	Friday	friday	NNP	_	3	dobj	_	L-EVENT
+6	to	to	TO	_	7	aux	_	O
+7	pick	pick	VB	_	3	xcomp	_	O
+8	up	up	RP	_	7	prt	_	O
+9	some	some	DT	_	11	det	_	O
+10	Tim	tim	NNP	_	11	compound	_	B-PERSON
+11	Duncan	duncan	NNP	_	7	dobj	_	L-PERSON
+12	,	,	,	_	11	punct	_	O
+13	James	james	NNP	_	14	compound	_	B-PERSON
+14	Harden	harden	NNP	_	11	conj	_	L-PERSON
+15	and	and	CC	_	14	cc	_	O
+16	Giannis	giannis	NNP	_	17	compound	_	B-PERSON
+17	Antetokounmpo	antetokounmpo	NNP	_	14	conj	_	L-PERSON
+18	merch	merch	NN	pos2=NNP	11	appos	_	O
+19	.	.	.	_	3	punct	_	O
+
+1	Allegiances	allegiance	NNS	_	0	root	_	O
+2	all	all	RB	_	3	advmod	_	O
+3	over	over	IN	_	1	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	shop	shop	NN	_	3	pobj	_	O
+6	.	.	.	_	1	punct	_	O
+

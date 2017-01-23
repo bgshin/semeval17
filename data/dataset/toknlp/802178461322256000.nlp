@@ -1,0 +1,17 @@
+1	@GrimoireOfSaya	@grimoireofsaya	UH	pos2=XX	4	discourse	_	O
+2	ah	ah	UH	_	4	discourse	_	O
+3	u	u	PRP	pos2=RB	4	nsubj	_	O
+4	excited	excited	JJ	pos2=VBD	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	persona	persona	NN	_	5	pobj	_	O
+7	5	0	CD	_	6	nmod	_	U-CARDINAL
+8	?	?	.	_	4	punct	_	O
+
+1	Have	have	VBP	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	played	play	VBN	_	0	root	_	O
+4	that	that	DT	pos2=IN	3	dobj	_	O
+5	yet	yet	RB	pos2=CC	6	advmod	_	O
+6	:c	:c	VBN	pos2=NNP	4	acl	_	O
+7	hehe	hehe	UH	_	6	discourse	_	O
+

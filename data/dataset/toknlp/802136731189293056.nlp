@@ -1,0 +1,20 @@
+1	Yay	yay	NNP	pos2=NN	0	root	_	U-PERSON
+2	!!!	!!	.	_	1	punct	_	O
+
+1	Jill	jill	NNP	_	2	compound	_	B-PERSON
+2	Stein	stein	NNP	_	3	nsubj	_	L-PERSON
+3	raises	raise	VBZ	_	0	root	_	O
+4	$	$	$	_	6	qmod	_	B-MONEY
+5	4	0	CD	_	6	compound	_	I-MONEY
+6	million	#crd#	CD	_	3	dobj	_	L-MONEY
+7	for	for	IN	_	3	prep	_	O
+8	3	0	CD	_	10	nmod	_	U-CARDINAL
+9	-	-	HYPH	_	10	punct	_	O
+10	state	state	NN	_	12	compound	_	O
+11	recount	recount	NN	pos2=GW	12	compound	_	O
+12	effort	effort	NN	_	7	pobj	_	O
+13	https://t.co/sNBF9720v5	#hlink#	ADD	pos2=NN	15	nsubj	_	O
+14	#StillWithHer	#stillwithher	-RRB-	pos2=ADD	13	punct	_	O
+15	#NotMyPresident	#notmypresident	ADD	pos2=NN	12	acl	_	O
+16	@HillaryClinton	@hillaryclinton	ADD	pos2=NNP	15	pobj	_	O
+

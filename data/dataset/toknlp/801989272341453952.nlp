@@ -1,0 +1,14 @@
+1	Ariana	ariana	NNP	_	5	compound	_	B-ORG
+2	Grande	grande	NNP	_	5	compound	_	I-ORG
+3	KIIS	kiis	NNP	_	5	compound	_	I-ORG
+4	FM	fm	NNP	_	5	compound	_	I-ORG
+5	Yours	yours	NNP	pos2=NNPS	13	dep	_	L-ORG
+6	Truly	truly	RB	pos2=NNP	13	advmod	_	O
+7	CD	cd	NNP	pos2=NN	9	compound	_	O
+8	listening	listen	VBG	pos2=NN	9	compound	_	O
+9	party	party	NN	_	5	appos	_	O
+10	in	in	IN	_	9	prep	_	O
+11	Burbank	burbank	NNP	_	10	pobj	_	U-GPE
+12	https://t.co/ClQIcx8Z6V	#hlink#	ADD	pos2=NNP	13	nsubj	_	O
+13	#ArianaGrande	#arianagrande	ADD	pos2=-RRB-	0	root	_	U-GPE
+

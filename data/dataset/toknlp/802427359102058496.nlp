@@ -1,0 +1,20 @@
+1	The	the	DT	_	5	det	_	O
+2	latest	late	JJS	_	5	nmod	_	O
+3	3	0	CD	_	5	nmod	_	U-CARDINAL
+4	D	d	NNP	pos2=NN	5	compound	_	O
+5	Printing	printing	NNP	pos2=NN	0	root	_	O
+6	!	!	.	_	5	punct	_	O
+
+1	https://t.co/klGPqClILT	#hlink#	ADD	pos2=NN	0	root	_	O
+2	Thanks	thanks	NNS	pos2=NN	1	npadvmod	_	O
+3	to	to	IN	_	2	prep	_	O
+4	@ug12	@ug0	CD	pos2=NN	7	nmod	_	O
+5	h	h	NN	pos2=NNS	9	compound	_	O
+6	@Khalid_Tayar	@khalid_tayar	NN	pos2=XX	3	pobj	_	O
+7	@StartersHQ	@startershq	NN	pos2=ADD	5	cc	_	O
+8	#	#	NN	pos2=-LRB-	6	npadvmod	_	O
+9	3dprinting	0dprinting	NN	pos2=VBG	10	compound	_	U-MONEY
+10	#	#	NN	_	6	npadvmod	_	O
+11	3	0	CD	pos2=LS	12	nmod	_	B-QUANTITY
+12	d	d	NNS	pos2=NN	7	npadvmod	_	L-QUANTITY
+

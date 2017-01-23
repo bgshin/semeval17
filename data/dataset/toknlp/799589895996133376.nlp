@@ -1,0 +1,7 @@
+1	"	"	``	pos2=SYM	3	punct	_	O
+2	Kim	kim	NNP	_	3	nsubj	_	U-PERSON
+3	fatty	fatty	VBD	pos2=JJ	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	third	#ord#	JJ	_	2	appos	_	U-ORDINAL
+6	"	"	``	pos2=''	3	punct	_	O
+

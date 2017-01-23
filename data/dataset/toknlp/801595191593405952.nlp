@@ -1,0 +1,17 @@
+1	Grayson	grayson	NNP	_	2	compound	_	B-PERSON
+2	Allen	allen	NNP	_	3	nsubj	_	L-PERSON
+3	murdered	murder	VBD	_	0	root	_	O
+4	dozens	dozen	NNS	_	3	dobj	_	U-CARDINAL
+5	of	of	IN	_	4	prep	_	O
+6	people	people	NNS	_	5	pobj	_	O
+7	in	in	IN	_	6	prep	_	O
+8	northern	northern	JJ	_	9	nmod	_	O
+9	California	california	NNP	_	7	pobj	_	U-GPE
+10	in	in	IN	_	3	prep	_	O
+11	the	the	DT	_	13	det	_	B-DATE
+12	late	late	JJ	_	13	nmod	_	I-DATE
+13	1960s	0s	NNS	_	10	pobj	_	L-DATE
+14	and	and	CC	_	13	cc	_	O
+15	early	early	JJ	pos2=RB	16	nmod	_	B-DATE
+16	1970s	0s	NNS	_	13	conj	_	L-DATE
+

@@ -1,0 +1,31 @@
+1	China	china	NNP	_	4	compound	_	U-GPE
+2	websites	website	NNS	pos2=VBZ	3	compound	_	O
+3	blocks	block	NNS	pos2=VBZ	4	compound	_	O
+4	searches	search	NNS	pos2=VBZ	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	“	"	``	_	8	punct	_	O
+7	Fatty	fatty	NNP	pos2=JJ	8	compound	_	B-PERSON
+8	Kim	kim	NNP	_	5	pobj	_	L-PERSON
+9	the	the	DT	_	10	det	_	O
+10	Third	#ord#	NNP	pos2=NNPS	8	appos	_	U-ORDINAL
+11	.	.	.	_	4	punct	_	O
+
+1	”	"	``	pos2=SYM	5	punct	_	O
+2	Many	many	JJ	_	5	nsubj	_	O
+3	in	in	IN	_	2	prep	_	O
+4	China	china	NNP	_	3	pobj	_	U-GPE
+5	uae	uae	VBD	pos2=NNP	0	root	_	O
+6	the	the	DT	pos2=XX	8	det	_	O
+7	the	the	DT	_	8	det	_	O
+8	term	term	NN	_	5	dobj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	describe	describe	VB	_	5	advcl	_	O
+11	rotund	rotund	JJ	_	14	nmod	_	O
+12	North	north	JJ	_	13	advmod	_	B-NORP
+13	Korean	korean	JJ	_	14	nmod	_	L-NORP
+14	leader	leader	NN	_	17	compound	_	O
+15	Kim	kim	NNP	_	17	compound	_	B-PERSON
+16	Jong	jong	NNP	_	17	compound	_	L-PERSON
+17	Un	un	NNP	_	10	dobj	_	O
+18	.	.	.	_	5	punct	_	O
+

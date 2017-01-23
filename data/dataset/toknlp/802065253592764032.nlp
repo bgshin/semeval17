@@ -1,0 +1,28 @@
+1	Negative	negative	JJ	_	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+
+1	]	]	-RRB-	pos2=SYM	6	punct	_	O
+2	*does	*does	VBZ	pos2=IN	1	auxpass	_	O
+3	a	a	DT	_	0	root	_	O
+4	huge	huge	JJ	_	6	nmod	_	O
+5	garbage	garbage	NN	_	6	compound	_	O
+6	bags	bag	NNS	_	7	nsubj	_	O
+7	bc	bc	VBP	pos2=MD	9	ccomp	_	O
+8	i	I	PRP	_	9	nsubj	_	O
+9	like	like	VBP	pos2=UH	14	ccomp	_	O
+10	anymore	anymore	RB	_	9	advmod	_	O
+11	except	except	IN	_	9	prep	_	O
+12	for	for	IN	_	11	prep	_	O
+13	PS3	ps0	NN	_	12	pobj	_	O
+14	wow	wow	UH	pos2=NN	15	prep	_	O
+15	.	.	.	_	0	root	_	O
+
+1	north	north	JJ	pos2=NN	2	advmod	_	O
+2	american	american	JJ	_	3	nmod	_	O
+3	persona	persona	NN	_	4	nsubj	_	O
+4	5	0	CD	_	0	root	_	U-CARDINAL
+5	!	!	.	pos2=,	4	punct	_	O
+
+1	—	-	SYM	pos2=NFP	2	punct	_	O
+2	https://t.co/35RZtMtcG8	#hlink#	ADD	pos2=NN	0	root	_	O
+

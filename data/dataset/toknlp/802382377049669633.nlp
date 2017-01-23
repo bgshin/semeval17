@@ -1,0 +1,20 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	hope	hope	VBP	_	0	root	_	O
+3	nobody	nobody	NN	pos2=WP	4	nsubj	_	O
+4	tells	tell	VBZ	_	2	ccomp	_	O
+5	him	him	PRP	_	4	dobj	_	O
+6	that	that	IN	_	9	mark	_	O
+7	TPP	tpp	NN	pos2=NNP	9	nsubjpass	_	O
+8	is	be	VBZ	_	9	auxpass	_	O
+9	designed	design	VBN	_	4	ccomp	_	O
+10	for	for	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	benefit	benefit	NN	_	10	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	US	us	NNP	_	16	nmod	_	U-GPE
+15	big	big	JJ	_	16	nmod	_	O
+16	business	business	NN	_	13	pobj	_	O
+17	.	.	.	_	2	punct	_	O
+
+1	https://t.co/2znW7TZVot	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,15 @@
+1	Cyclone	cyclone	NNP	pos2=NN	2	compound	_	O
+2	Racing	racing	NNP	pos2=NN	3	nsubj	_	U-PRODUCT
+3	uses	use	VBZ	_	0	root	_	O
+4	3	0	CD	_	6	nmod	_	U-CARDINAL
+5	D	d	NNP	pos2=NN	6	compound	_	B-ORG
+6	Printing	printing	NNP	pos2=NN	14	dep	_	I-ORG
+7	for	for	IN	_	6	prep	_	I-ORG
+8	Formula	formula	NNP	pos2=NN	9	compound	_	I-ORG
+9	SAE	sae	NNP	_	14	dep	_	I-ORG
+10	Competition	competition	NN	pos2=NNP	14	nmod	_	L-ORG
+11	#	#	GW	pos2=NN	14	nmod	_	U-CARDINAL
+12	3dprinting	0dprinting	GW	pos2=VBG	14	nmod	_	U-MONEY
+13	https://t.co/3yQYB7ryY9	#hlink#	ADD	pos2=GW	14	nmod	_	O
+14	https://t.co/LFqqqmYo0L	#hlink#	ADD	_	3	dobj	_	U-ORG
+

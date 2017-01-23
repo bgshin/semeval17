@@ -1,0 +1,13 @@
+1	@CapehartJ	@capehartj	XX	pos2=ADD	3	dep	_	O
+2	@Shakestweetz	@shakestweetz	NNP	pos2=IN	3	compound	_	O
+3	France	france	NNP	_	0	root	_	U-GPE
+4	.	.	.	_	3	punct	_	O
+
+1	Be	be	VB	_	0	root	_	O
+2	very	very	RB	_	3	advmod	_	O
+3	afraid	afraid	JJ	_	1	acomp	_	O
+4	of	of	IN	_	3	prep	_	O
+5	Marine	marine	NNP	pos2=JJ	7	compound	_	B-ORG
+6	Le	le	NNP	_	7	compound	_	I-ORG
+7	Pen	pen	NNP	_	4	pobj	_	L-ORG
+

@@ -1,0 +1,10 @@
+1	The	the	DT	_	4	det	_	O
+2	latest	late	JJS	_	4	nmod	_	O
+3	Stars	stars	NNP	pos2=NNPS	4	compound	_	O
+4	News	news	NNP	pos2=NN	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+
+1	https://t.co/41B9R0ksBX	#hlink#	ADD	_	0	root	_	O
+2	#beautyandthebeast	#beautyandthebeast	IN	pos2=-RRB-	1	prep	_	O
+3	#moana	#moana	UH	pos2=NN	2	discourse	_	O
+

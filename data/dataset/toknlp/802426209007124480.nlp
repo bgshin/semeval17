@@ -1,0 +1,15 @@
+1	@MarkYoungTruth	@markyoungtruth	NN	pos2=NNP	0	root	_	O
+2	The	the	DT	_	4	det	_	O
+3	same	same	JJ	_	4	nmod	_	O
+4	media	medium	NNS	pos2=NN	1	dobj	_	O
+5	that	that	WDT	pos2=DT	6	nsubj	_	O
+6	hides	hide	VBZ	_	1	relcl	_	O
+7	from	from	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	truth	truth	NN	_	7	pobj	_	O
+10	about	about	IN	_	9	prep	_	O
+11	the	the	DT	_	13	det	_	B-ORG
+12	Clinton	clinton	NNP	_	13	compound	_	I-ORG
+13	Foundation	foundation	NNP	_	10	pobj	_	L-ORG
+14	...	..	.	pos2=,	1	punct	_	O
+

@@ -1,0 +1,10 @@
+1	nigel	nigel	NNP	pos2=NN	2	compound	_	B-PERSON
+2	hayes	hayes	NNP	pos2=NNS	6	nsubj	_	L-PERSON
+3	has	have	VBZ	_	6	aux	_	O
+4	clearly	clearly	RB	_	6	advmod	_	O
+5	been	be	VBN	_	6	aux	_	O
+6	watching	watch	VBG	_	0	root	_	O
+7	grayson	grayson	NN	pos2=FW	9	compound	_	O
+8	allen	allen	NNP	pos2=GW	9	compound	_	U-PERSON
+9	film	film	NN	_	6	dobj	_	O
+

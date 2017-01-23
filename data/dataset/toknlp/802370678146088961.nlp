@@ -1,0 +1,29 @@
+1	@realDonaldTrump	@realdonaldtrump	VB	pos2=IN	0	root	_	O
+2	My	my	PRP$	_	3	poss	_	O
+3	boyfriend	boyfriend	NN	_	4	nsubj	_	O
+4	has	have	VBZ	_	1	ccomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	have	have	VB	_	4	xcomp	_	O
+7	a	a	DT	_	8	det	_	O
+8	cpap	cpap	NN	_	6	dobj	_	O
+9	but	but	CC	_	1	cc	_	O
+10	we	we	PRP	_	13	nsubj	_	O
+11	do	do	VBP	_	13	aux	_	O
+12	n't	not	RB	_	13	neg	_	O
+13	have	have	VB	_	1	conj	_	O
+14	the	the	DT	_	15	det	_	O
+15	money	money	NN	_	13	dobj	_	O
+16	.	.	.	_	13	punct	_	O
+
+1	Medicaid	medicaid	NNP	pos2=NN	4	nsubj	_	U-ORG
+2	wo	wo	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	cover	cover	VB	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	What	what	WP	_	4	dobj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	we	we	PRP	_	4	nsubj	_	O
+4	do	do	VB	_	0	root	_	O
+5	?!	?!	.	_	4	punct	_	O
+

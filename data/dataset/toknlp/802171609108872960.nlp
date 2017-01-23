@@ -1,0 +1,16 @@
+1	me	me	PRP	pos2=NN	3	nsubj	_	O
+2	:	:	:	_	3	punct	_	O
+3	sees	see	VBZ	pos2=NNS	9	ccomp	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	lost	lose	VBD	_	3	ccomp	_	O
+6	a	a	DT	_	7	det	_	O
+7	followerme	followerme	NN	_	5	dobj	_	O
+8	:	:	:	_	9	punct	_	O
+9	makes	make	VBZ	_	0	root	_	O
+10	sure	sure	JJ	_	9	ccomp	_	O
+11	it	it	PRP	_	12	nsubj	_	O
+12	was	be	VBD	_	10	csubj	_	O
+13	n't	not	RB	_	12	neg	_	O
+14	david	david	JJ	pos2=NNP	15	nmod	_	O
+15	blaine	blaine	NN	pos2=NNP	12	attr	_	O
+

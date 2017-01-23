@@ -1,0 +1,24 @@
+1	Great	great	JJ	_	2	nmod	_	O
+2	win	win	NN	_	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	@utahjazz	@utahjazz	NNPS	pos2=XX	3	pobj	_	O
+6	last	last	JJ	_	7	nmod	_	B-TIME
+7	night	night	NN	_	2	npadvmod	_	L-TIME
+8	!	!	.	_	2	punct	_	O
+
+1	These	these	DT	_	2	nsubj	_	O
+2	were	be	VBD	_	0	root	_	O
+3	the	the	DT	_	7	det	_	O
+4	3	0	CD	_	7	nmod	_	U-CARDINAL
+5	most	most	RBS	pos2=JJS	6	advmod	_	O
+6	encouraging	encouraging	JJ	pos2=VBG	7	nmod	_	O
+7	aspects	aspect	NNS	_	2	attr	_	O
+8	of	of	IN	_	7	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	win	win	NN	_	8	pobj	_	O
+11	for	for	IN	_	7	prep	_	O
+12	me	me	PRP	_	11	pobj	_	O
+13	:	:	:	_	2	punct	_	O
+14	https://t.co/wchh35VXez#takenote	#hlink#	ADD	_	2	dep	_	O
+

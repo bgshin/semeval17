@@ -1,0 +1,23 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@DavidCornDC	@davidcorndc	XX	pos2=ADD	6	cc	_	O
+2	@robreiner	@robreiner	UH	pos2=XX	0	root	_	O
+3	what	what	WP	_	4	dep	_	O
+4	about	about	IN	_	2	pcomp	_	O
+5	all	all	PDT	pos2=DT	9	predet	_	O
+6	the	the	DT	_	9	det	_	O
+7	voter	voter	NN	_	8	compound	_	O
+8	suppression	suppression	NN	_	9	compound	_	O
+9	laws	law	NNS	_	4	pobj	_	O
+10	?	?	.	_	7	punct	_	O
+
+1	Heard	hear	VBD	pos2=VB	0	root	_	O
+2	lots	lot	NNS	_	6	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	provisional	provisional	JJ	_	5	nmod	_	O
+5	ballots	ballot	NNS	_	3	pobj	_	O
+6	used	use	VBN	_	1	ccomp	_	O
+7	but	but	CC	_	6	cc	_	O
+8	not	not	RB	_	9	neg	_	O
+9	counted	count	VBN	_	6	conj	_	O
+

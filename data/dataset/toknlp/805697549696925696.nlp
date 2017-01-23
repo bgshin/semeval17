@@ -1,0 +1,18 @@
+1	France	france	NNP	_	7	poss	_	U-GPE
+2	's	's	POS	pos2=VBZ	1	case	_	O
+3	left	left	JJ	_	5	nmod	_	O
+4	-	-	HYPH	_	5	punct	_	O
+5	wing	wing	NN	pos2=VBG	7	nmod	_	O
+6	prime	prime	JJ	_	7	nmod	_	O
+7	minister	minister	NN	_	11	nsubj	_	O
+8	Manuel	manuel	NNP	_	9	compound	_	B-PERSON
+9	Valls	valls	NNP	_	7	appos	_	L-PERSON
+10	to	to	TO	_	11	aux	_	O
+11	launch	launch	VB	_	0	root	_	O
+12	ambitious	ambitious	JJ	_	13	nmod	_	O
+13	bid	bid	NN	pos2=FW	11	dobj	_	O
+14	for	for	IN	_	13	prep	_	O
+15	presidency	presidency	NN	pos2=GW	14	pobj	_	O
+16	https://t.co/rS0Eal387z	#hlink#	ADD	_	17	nmod	_	U-GPE
+17	https://t.co/slwU9S7BcQ	#hlink#	ADD	_	11	dep	_	U-ORG
+

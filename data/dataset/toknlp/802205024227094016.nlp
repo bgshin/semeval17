@@ -1,0 +1,37 @@
+1	Neo	neo	NNP	pos2=IN	2	compound	_	O
+2	Nazi	nazi	NNP	pos2=NN	6	dep	_	U-NORP
+3	:	:	:	_	6	punct	_	O
+4	White	white	JJ	pos2=NNP	5	nmod	_	O
+5	people	people	NNS	_	6	nsubj	_	O
+6	are	be	VBP	_	0	root	_	O
+7	superior	superior	JJ	_	6	acomp	_	O
+8	,	,	,	_	6	punct	_	O
+9	fuck	fuck	VB	pos2=NN	6	dep	_	O
+10	PoC	poc	NNP	pos2=NN	9	dobj	_	U-ORG
+11	!	!	.	_	6	punct	_	O
+
+1	Me	me	PRP	pos2=NN	3	nsubj	_	O
+2	:	:	:	_	3	punct	_	O
+3	Shut	shut	VB	pos2=VBN	0	root	_	O
+4	up	up	RP	pos2=IN	3	prt	_	O
+5	you	you	PRP	pos2=PRP$	9	nmod	_	O
+6	fascist	fascist	JJ	pos2=VBP	7	nmod	_	O
+7	piece	piece	NN	_	3	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	shit	shit	NN	pos2=PRP	8	pobj	_	O
+10	!	!	.	_	3	punct	_	O
+
+1	Liberal	liberal	JJ	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	OMG	omg	NN	pos2=NNP	1	dep	_	O
+4	,	,	,	_	6	punct	_	O
+5	THAT	that	DT	_	6	nsubj	_	O
+6	'S	's	VBZ	_	0	root	_	O
+7	NOT	not	RB	_	6	neg	_	O
+8	HOW	how	WRB	pos2=``	10	advmod	_	O
+9	YOU	you	PRP	pos2=PRP$	10	nsubj	_	O
+10	TALK	talk	VBP	_	6	ccomp	_	O
+11	TO	to	IN	_	10	prep	_	O
+12	PEOPLE	people	NNS	_	11	pobj	_	O
+13	!	!	.	_	6	punct	_	O
+

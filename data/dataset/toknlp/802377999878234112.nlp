@@ -1,0 +1,14 @@
+1	But	but	CC	_	3	cc	_	O
+2	something	something	NN	_	3	qmod	_	O
+3	something	something	NN	_	0	root	_	O
+4	Clinton	clinton	NNP	_	6	compound	_	U-PERSON
+5	foundation	foundation	NN	pos2=GW	8	compound	_	O
+6	something	something	NN	_	8	compound	_	O
+7	Saudi	saudi	NNP	_	8	compound	_	B-GPE
+8	Arabia	arabia	NNP	_	10	dep	_	L-GPE
+9	,	,	,	_	10	punct	_	O
+10	right	right	JJ	pos2=RB	2	nmod	_	O
+11	?	?	.	_	10	punct	_	O
+
+1	https://t.co/puulmOwchI	#hlink#	ADD	_	0	root	_	U-ORG
+

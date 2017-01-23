@@ -1,0 +1,18 @@
+1	How	how	WRB	_	2	advmod	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	it	it	PRP	_	2	nsubj	_	O
+4	that	that	IN	pos2=WDT	14	mark	_	O
+5	in	in	IN	_	14	prep	_	O
+6	2016	0	CD	_	5	pobj	_	U-DATE
+7	&	&	CC	_	5	cc	_	O
+8	with	with	IN	_	5	conj	_	O
+9	the	the	DT	_	10	det	_	O
+10	internet	internet	NN	_	15	compound	_	O
+11	existing	exist	VBG	_	12	nmod	_	O
+12	people	people	NNS	_	14	nsubj	_	O
+13	still	still	RB	_	14	advmod	_	O
+14	think	think	VBP	_	0	root	_	O
+15	vaccines	vaccine	NNS	_	16	nsubj	_	O
+16	are	be	VBP	_	14	ccomp	_	O
+17	unsafe	unsafe	JJ	_	16	acomp	_	O
+

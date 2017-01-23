@@ -1,0 +1,19 @@
+1	Kawhi	kawhi	NNP	_	4	nsubj	_	U-PERSON
+2	is	be	VBZ	_	4	aux	_	O
+3	currently	currently	RB	_	4	advmod	_	O
+4	averaging	average	VBG	_	0	root	_	O
+5	25ppg	0ppg	NN	pos2=NNS	4	dobj	_	U-CARDINAL
+6	.	.	.	_	4	punct	_	O
+
+1	Tim	tim	NNP	_	2	compound	_	B-PERSON
+2	Duncan	duncan	NNP	_	5	poss	_	I-PERSON
+3	's	's	POS	_	2	case	_	L-PERSON
+4	highest	high	JJS	_	5	nmod	_	O
+5	averaging	average	VBG	pos2=NN	9	nsubj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	a	a	DT	_	8	det	_	O
+8	RS	rs	NN	pos2=NNP	6	pobj	_	U-ORG
+9	is	be	VBZ	_	0	root	_	O
+10	25.5	0	CD	_	9	attr	_	U-CARDINAL
+11	.	.	.	_	9	punct	_	O
+

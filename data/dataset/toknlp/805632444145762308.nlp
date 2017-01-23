@@ -1,0 +1,32 @@
+1	Are	be	VBP	_	0	root	_	O
+2	you	you	PRP	_	1	nsubj	_	O
+3	a	a	DT	_	5	det	_	O
+4	registered	register	VBN	pos2=JJ	5	nmod	_	O
+5	voter	voter	NN	_	1	attr	_	O
+6	?	?	.	_	1	punct	_	O
+
+1	No	no	UH	pos2=DT	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	A	a	DT	_	5	det	_	O
+2	one	#crd#	CD	_	3	nmod	_	B-DATE
+3	month	month	NN	_	4	compound	_	L-DATE
+4	mass	mass	NN	_	5	compound	_	O
+5	registration	registration	NN	_	6	nsubj	_	O
+6	kicks	kick	VBZ	_	0	root	_	O
+7	off	off	RP	pos2=RB	6	prt	_	O
+8	on	on	IN	_	6	prep	_	O
+9	Dec	dec	NNP	_	8	pobj	_	B-DATE
+10	21	0	CD	_	9	nmod	_	L-DATE
+11	.	.	.	_	6	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	future	future	NN	_	6	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	this	this	DT	_	5	det	_	O
+5	country	country	NN	_	3	pobj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	in	in	IN	_	6	prep	_	O
+8	your	your	PRP$	_	9	poss	_	O
+9	hands.#NiShowPower	hands.#nishowpower	NN	pos2=.	7	pobj	_	U-DATE
+

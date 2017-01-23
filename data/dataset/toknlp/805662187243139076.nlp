@@ -1,0 +1,35 @@
+1	But	but	CC	_	3	cc	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	'm	be	VBP	_	6	ccomp	_	O
+4	a	a	DT	_	5	det	_	O
+5	bum	bum	NN	_	3	attr	_	O
+6	right	right	JJ	pos2=RB	0	root	_	O
+7	?	?	.	_	6	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	wo	wo	MD	_	4	aux	_	O
+3	nt	nt	RB	_	4	advmod	_	O
+4	be	be	VB	_	6	ccomp	_	O
+5	shit	shit	NN	pos2=VBN	4	attr	_	O
+6	right	right	JJ	pos2=RB	0	root	_	O
+7	?	?	.	_	6	punct	_	O
+
+1	Ill	ill	JJ	pos2=RB	3	advmod	_	U-GPE
+2	be	be	VB	pos2=IN	3	aux	_	O
+3	working	work	VBG	_	11	ccomp	_	O
+4	my	my	PRP$	_	7	poss	_	O
+5	minimum	minimum	JJ	pos2=NN	7	nmod	_	O
+6	wage	wage	NN	_	7	compound	_	O
+7	jobs	job	NNS	_	3	dobj	_	O
+8	til	til	IN	pos2=VBP	10	mark	_	O
+9	I	I	PRP	pos2=CD	10	nsubj	_	O
+10	die	die	VBP	pos2=VB	3	advcl	_	O
+11	right	right	JJ	_	0	root	_	O
+12	?	?	.	_	11	punct	_	O
+
+1	FOH	foh	NN	pos2=NNP	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	😇🖕🏻	😇🖕🏻	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/QAUwveJxy0	#hlink#	ADD	pos2=NN	0	root	_	O
+

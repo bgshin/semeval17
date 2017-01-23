@@ -1,0 +1,21 @@
+1	https://t.co/5jWbWZFQaq"Japan	#hlink#	ADD	pos2=NN	2	nsubj	_	U-ORG
+2	prepares	prepare	VBZ	pos2=NNS	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	NUCLEAR	nuclear	JJ	pos2=NNP	5	nmod	_	O
+5	war	war	NN	_	3	pobj	_	O
+6	with	with	IN	_	5	prep	_	O
+7	North	north	NNP	_	8	compound	_	B-GPE
+8	Korea	korea	NNP	_	6	pobj	_	L-GPE
+9	...	..	.	pos2=,	2	punct	_	O
+
+1	"	"	``	pos2=SYM	6	punct	_	O
+2	[	[	-LRB-	_	4	punct	_	O
+3	repeat	repeat	NN	pos2=VB	4	compound	_	O
+4	post	post	NN	pos2=IN	0	root	_	O
+5	of	of	IN	_	4	prep	_	O
+6	vaultboy	vaultboy	NN	pos2=PRP	5	pobj	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	png	png	NN	pos2=UH	0	root	_	O
+2	]	]	-RRB-	_	1	punct	_	O
+

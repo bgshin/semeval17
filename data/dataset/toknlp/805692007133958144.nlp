@@ -1,0 +1,29 @@
+1	@buffsan	@buffsan	UH	pos2=XX	18	discourse	_	O
+2	@djrothkopf	@djrothkopf	UH	pos2=``	18	discourse	_	O
+3	If	if	IN	_	9	mark	_	O
+4	the	the	DT	_	6	det	_	O
+5	electoral	electoral	JJ	_	6	nmod	_	O
+6	college	college	NN	_	9	nsubj	_	O
+7	is	be	VBZ	_	9	aux	_	O
+8	really	really	RB	_	9	advmod	_	O
+9	acting	act	VBG	_	18	advcl	_	O
+10	to	to	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	benefit	benefit	NN	_	10	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	people	people	NNS	_	13	pobj	_	O
+16	they	they	PRP	_	18	nsubj	_	O
+17	will	will	MD	_	18	aux	_	O
+18	have	have	VB	_	0	root	_	O
+19	to	to	TO	_	20	aux	_	O
+20	do	do	VB	_	18	xcomp	_	O
+21	that	that	DT	_	20	dobj	_	O
+22	.	.	.	_	18	punct	_	O
+
+1	Legally	legally	RB	_	4	advmod	_	O
+2	,	,	,	_	4	punct	_	O
+3	they	they	PRP	_	4	nsubj	_	O
+4	can	can	MD	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+

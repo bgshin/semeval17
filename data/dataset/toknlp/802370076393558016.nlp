@@ -1,0 +1,14 @@
+1	Donald	donald	NNP	_	3	compound	_	B-PERSON
+2	Trump	trump	NNP	_	3	compound	_	L-PERSON
+3	Ran	ran	NNP	pos2=VBD	11	nsubj	_	O
+4	on	on	IN	_	3	prep	_	O
+5	Protecting	protect	VBG	pos2=NNP	4	pcomp	_	O
+6	Social	social	NNP	_	7	compound	_	B-ORG
+7	Security	security	NNP	_	5	dobj	_	L-ORG
+8	But	but	CC	pos2=NNP	7	cc	_	O
+9	Transition	transition	NNP	pos2=NN	10	compound	_	B-ORG
+10	Team	team	NNP	_	11	nsubj	_	L-ORG
+11	Includes	include	VBZ	pos2=NNP	0	root	_	O
+12	Privati	privati	NNP	pos2=GW	13	nmod	_	U-ORG
+13	zershttps://t.co/ANstkkEIJj#socialsecurityTrump	#hlink#	ADD	_	11	dobj	_	O
+

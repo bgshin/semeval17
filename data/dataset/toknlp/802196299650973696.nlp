@@ -1,0 +1,23 @@
+1	Napa	napa	NNP	_	2	compound	_	B-LOC
+2	Valley	valley	NNP	_	4	compound	_	L-LOC
+3	Tesla	tesla	NNP	_	4	compound	_	B-PERSON
+4	Tesla	tesla	NNP	_	7	poss	_	I-PERSON
+5	's	's	POS	_	4	case	_	L-PERSON
+6	Model	model	NNP	_	7	compound	_	B-PRODUCT
+7	X	x	NNP	pos2=NN	8	nsubj	_	L-PRODUCT
+8	is	be	VBZ	_	0	root	_	O
+9	'	'	``	pos2=POS	8	punct	_	O
+10	fast	fast	JJ	_	8	acomp	_	O
+11	and	and	CC	_	10	cc	_	O
+12	flawed	flawed	JJ	_	10	conj	_	O
+13	,	,	,	_	8	punct	_	O
+14	'	'	''	pos2=``	8	punct	_	O
+15	Consumer	consumer	NN	pos2=NNP	16	compound	_	O
+16	Reports	reports	NNP	pos2=NNPS	17	nsubj	_	O
+17	says	say	VBZ	_	8	conj	_	O
+18	'	'	''	pos2=``	17	punct	_	O
+19	-	-	HYPH	pos2=:	20	punct	_	O
+20	MarketWatch	marketwatch	NNP	_	22	nmod	_	U-ORG
+21	…	…	NFP	pos2=GW	22	punct	_	O
+22	https://t.co/zK6T8T5F13	#hlink#	ADD	pos2=NN	8	dep	_	U-ORG
+

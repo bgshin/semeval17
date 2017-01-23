@@ -1,0 +1,13 @@
+1	New	new	NNP	_	2	compound	_	B-ORG
+2	York	york	NNP	_	3	compound	_	I-ORG
+3	Times	times	NNP	_	6	poss	_	I-ORG
+4	’	'	POS	_	3	case	_	I-ORG
+5	Top	top	NNP	pos2=JJ	6	compound	_	I-ORG
+6	Shareholder	shareholder	NNP	pos2=NN	7	nsubj	_	L-ORG
+7	Is	be	VBZ	_	0	root	_	O
+8	a	a	DT	_	11	det	_	O
+9	Clinton	clinton	NNP	_	11	compound	_	B-ORG
+10	Foundation	foundation	NNP	_	11	compound	_	L-ORG
+11	Donor	donor	NNP	pos2=NN	7	attr	_	O
+12	https://t.co/jsBiecqBRO	#hlink#	ADD	_	11	appos	_	O
+

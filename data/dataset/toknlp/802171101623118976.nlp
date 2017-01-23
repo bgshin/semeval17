@@ -1,0 +1,15 @@
+1	Republicans	republican	NNPS	pos2=NNS	2	nsubj	_	U-NORP
+2	Divided	divided	NNP	pos2=VBN	0	root	_	O
+3	Between	between	IN	pos2=NNP	2	prep	_	O
+4	Romney	romney	NNP	_	3	pobj	_	U-PERSON
+5	and	and	CC	_	4	cc	_	O
+6	Giuliani	giuliani	NNP	_	4	conj	_	U-PERSON
+7	for	for	IN	_	2	prep	_	O
+8	Secretary	secretary	NNP	_	7	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	State	state	NNP	_	9	pobj	_	O
+11	https://t.co/TFLWn4uA3T	#hlink#	ADD	pos2=NNP	14	nmod	_	O
+12	#UniteBlue	#uniteblue	ADD	pos2=NNP	8	appos	_	O
+13	#StrongerTogether	#strongertogether	ADD	pos2=IN	12	pobj	_	O
+14	#StillWithHer	#stillwithher	ADD	pos2=NN	12	pobj	_	O
+

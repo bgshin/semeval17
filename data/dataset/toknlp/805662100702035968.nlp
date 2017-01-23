@@ -1,0 +1,13 @@
+1	Muhammad	muhammad	NNP	pos2=NN	2	compound	_	O
+2	ali	ali	NNP	pos2=VBD	6	nsubj	_	O
+3	the	the	DT	_	5	det	_	O
+4	great	great	JJ	_	5	nmod	_	O
+5	boxer	boxer	NN	_	2	appos	_	O
+6	speaks	speak	VBZ	_	0	root	_	O
+7	about	about	IN	_	6	prep	_	O
+8	his	his	PRP$	_	9	poss	_	O
+9	conversion	conversion	NN	_	7	pobj	_	O
+10	to	to	IN	_	9	prep	_	O
+11	islam	islam	NNP	pos2=GW	10	pobj	_	O
+12	https://t.co/cAY8GgGNup	#hlink#	ADD	pos2=NNP	9	appos	_	O
+

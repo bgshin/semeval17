@@ -1,0 +1,34 @@
+1	@activist360	@activist0	NN	pos2=DT	3	nmod	_	O
+2	2	0	CD	pos2=LS	3	nmod	_	U-CARDINAL
+3	mill	mill	NN	pos2=NNS	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	pop	pop	NN	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	vote	vote	NN	pos2=VB	2	nsubj	_	O
+2	says	say	VBZ	_	0	root	_	O
+3	more	more	JJR	pos2=RBR	1	nmod	_	O
+4	than	than	IN	_	3	prep	_	O
+5	those	those	DT	_	7	det	_	O
+6	3	0	CD	_	7	nmod	_	U-CARDINAL
+7	things	thing	NNS	_	4	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	Comey	comey	NNP	_	5	nsubj	_	U-PERSON
+2	,	,	,	_	1	punct	_	O
+3	russia	russia	NN	pos2=NNP	1	appos	_	O
+4	,	,	,	_	5	punct	_	O
+5	rigged	rig	VBD	pos2=VBN	0	root	_	O
+6	blue	blue	JJ	_	7	nmod	_	O
+7	states	state	NNS	_	5	dobj	_	O
+8	going	go	VBG	_	7	acl	_	O
+9	off	off	RP	pos2=IN	8	prt	_	O
+10	th	th	DT	pos2=JJ	12	det	_	O
+11	grid	grid	NN	pos2=FW	12	compound	_	O
+12	#outsidecollusion	#outsidecollusion	NN	pos2=ADD	8	dobj	_	O
+13	.	.	.	_	5	punct	_	O
+
+1	Fishy	fishy	JJ	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

@@ -1,0 +1,24 @@
+1	#USA	#usa	NN	pos2=XX	2	compound	_	O
+2	spottd	spottd	NN	pos2=VBD	23	dep	_	O
+3	3	0	CD	_	4	nmod	_	B-QUANTITY
+4	m	m	NNS	pos2=CD	5	npadvmod	_	L-QUANTITY
+5	long	long	JJ	_	6	nmod	_	O
+6	rockets	rocket	NNS	_	23	dep	_	O
+7	leavng	leavng	VBG	pos2=VBP	6	acl	_	O
+8	#Iran	#iran	NNP	pos2=$	7	dobj	_	O
+9	2	0	CD	_	8	nmod	_	U-CARDINAL
+10	#Gaza	#gaza	NNP	pos2=NNS	8	conj	_	O
+11	&	&	CC	_	16	advmod	_	O
+12	made	make	VBD	pos2=VBN	0	root	_	O
+13	#Israel	#israel	NNP	pos2=JJ	14	nsubj	_	U-ORG
+14	strike	strike	VB	pos2=NN	12	ccomp	_	O
+15	it@seaLet	it@sealet	NN	pos2=NNP	14	dobj	_	O
+16	12	0	CD	_	17	nmod	_	B-QUANTITY
+17	m	m	NNS	pos2=NN	18	npadvmod	_	L-QUANTITY
+18	long	long	JJ	_	19	nmod	_	O
+19	ones	#crd#	NNS	_	20	nsubj	_	O
+20	arrive	arrive	VBP	pos2=VB	23	dep	_	O
+21	#Houthi	#houthi	NNP	pos2=VBG	23	dep	_	B-PERSON
+22	#Y	#y	NFP	pos2=NNP	23	punct	_	L-PERSON
+23	emenhttps://t.co/KPbV8xm5Nn	#hlink#	ADD	_	0	root	_	O
+

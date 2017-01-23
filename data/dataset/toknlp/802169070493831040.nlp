@@ -1,0 +1,16 @@
+1	IF	if	IN	_	5	mark	_	O
+2	WE	we	PRP	_	5	nsubj	_	O
+3	COULD	could	MD	_	5	aux	_	O
+4	ONLY	only	RB	_	5	advmod	_	O
+5	TURN	turn	VB	_	0	root	_	O
+6	BACK	back	RB	pos2=NN	5	advmod	_	O
+7	TIME	time	NN	_	5	npadvmod	_	O
+8	...	..	.	pos2=,	5	punct	_	O
+
+1	#	#	NN	pos2=SYM	2	compound	_	O
+2	3YearsofMidnightMemories	0yearsofmidnightmemories	NNS	pos2=LS	6	dep	_	U-MONEY
+3	#MPN	#mpn	GW	pos2=VBP	6	nmod	_	U-DATE
+4	#OneDirection	#onedirection	GW	pos2=NN	6	nmod	_	O
+5	#MtvStarsNiallHoran	#mtvstarsniallhoran	GW	pos2=ADD	6	nmod	_	O
+6	https://t.co/B1mlV8KZ54	#hlink#	ADD	pos2=NN	0	root	_	O
+

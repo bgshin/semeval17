@@ -1,0 +1,27 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	watched	watch	VBD	_	0	root	_	O
+3	#FantasticBeasts	#fantasticbeasts	NNS	pos2=NNP	2	dobj	_	U-PERSON
+4	again	again	RB	_	2	advmod	_	O
+5	today	today	NN	_	2	npadvmod	_	U-DATE
+6	!	!	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	love	love	VBP	_	0	root	_	O
+3	you	you	PRP	_	2	dobj	_	O
+4	Jo	jo	NNP	_	2	vocative	_	U-PERSON
+5	!	!	.	_	2	punct	_	O
+
+1	Waiting	wait	VBG	_	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	sequels	sequel	NNS	_	2	pobj	_	O
+5	and	and	CC	_	2	cc	_	O
+6	for	for	IN	_	2	conj	_	O
+7	a	a	DT	_	8	det	_	O
+8	meet	meet	NN	pos2=VB	6	pobj	_	O
+9	with	with	IN	_	8	prep	_	O
+10	you	you	PRP	_	9	pobj	_	O
+11	!	!	.	_	1	punct	_	O
+
+1	@jk_rowling	@jk_rowling	VBG	pos2=UH	0	root	_	O
+

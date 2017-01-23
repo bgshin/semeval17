@@ -1,0 +1,14 @@
+1	9	0	CD	pos2=LS	4	nmod	_	U-CARDINAL
+2	Deep	deep	NNP	pos2=JJ	4	compound	_	B-WORK_OF_ART
+3	Learning	learning	NNP	pos2=NN	4	compound	_	I-WORK_OF_ART
+4	Papers	paper	NNPS	pos2=NNS	13	dep	_	L-WORK_OF_ART
+5	that	that	WDT	pos2=IN	6	nsubj	_	O
+6	matter	matter	VBP	pos2=NN	4	relcl	_	O
+7	via	via	IN	_	6	prep	_	O
+8	@kimmaicutler	@kimmaicutler	PRP	pos2=$	7	pobj	_	O
+9	@TIC_Security	@tic_security	NN	pos2=NNP	10	compound	_	O
+10	@bobehayes	@bobehayes	NNS	pos2=UH	13	nmod	_	O
+11	@v_vashishta	@v_vashishta	GW	pos2=IN	13	nmod	_	B-PERSON
+12	@ITCrowdsource	@itcrowdsource	GW	pos2=ADD	13	nmod	_	L-PERSON
+13	https://t.co/wWjIGL2P8Q	#hlink#	ADD	pos2=NN	0	root	_	O
+

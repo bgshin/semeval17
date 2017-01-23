@@ -1,0 +1,16 @@
+1	seriously	seriously	RB	_	2	advmod	_	O
+2	love	love	VBP	pos2=VB	0	root	_	O
+3	grayson	grayson	NN	pos2=NNP	4	compound	_	O
+4	allen	allen	NNP	pos2=IN	2	dobj	_	O
+5	the	the	DT	_	6	det	_	O
+6	most	most	RBS	pos2=JJS	2	advmod	_	O
+7	!!!	!!	.	_	2	punct	_	O
+
+1	raining	rain	VBG	pos2=NN	2	nmod	_	O
+2	3's	0's	NNS	_	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	cameron	cameron	NN	pos2=NNP	3	pobj	_	O
+5	tonight	tonight	NN	_	6	npadvmod	_	U-TIME
+6	fam	fam	NN	pos2=XX	1	vocative	_	O
+7	!!!	!!	.	_	2	punct	_	O
+

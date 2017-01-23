@@ -1,0 +1,12 @@
+1	@KremlinTrolls	@kremlintrolls	NNS	pos2=ADD	4	cc	_	O
+2	@realDonaldTrump	@realdonaldtrump	NNP	pos2=IN	3	compound	_	B-PERSON
+3	Bannon	bannon	NNP	_	4	nsubj	_	L-PERSON
+4	is	be	VBZ	_	0	root	_	O
+5	not	not	RB	_	4	neg	_	O
+6	a	a	DT	_	8	det	_	O
+7	white	white	JJ	_	8	nmod	_	O
+8	nationalist	nationalist	NN	pos2=JJ	4	attr	_	O
+9	at	at	RB	pos2=IN	10	advmod	_	O
+10	all	all	RB	_	4	advmod	_	O
+11	.	.	.	_	4	punct	_	O
+

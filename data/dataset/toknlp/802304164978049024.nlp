@@ -1,0 +1,22 @@
+1	#NBA	#nba	NNP	pos2=NN	21	dep	_	B-DATE
+2	2012	0	CD	_	4	qmod	_	I-DATE
+3	-	-	SYM	pos2=HYPH	4	punct	_	I-DATE
+4	13	0	CD	_	21	dep	_	L-DATE
+5	Preferred	prefer	VBN	pos2=VBD	21	nmod	_	O
+6	All	all	RB	pos2=NNP	9	advmod	_	O
+7	-	-	HYPH	_	21	punct	_	O
+8	World	world	NNP	_	11	compound	_	O
+9	8	0	CD	pos2=POS	21	dep	_	U-CARDINAL
+10	Player	player	NNP	pos2=NN	11	compound	_	B-WORK_OF_ART
+11	Patch	patch	NNP	pos2=NN	21	dep	_	I-WORK_OF_ART
+12	Booklet	booklet	NN	pos2=NNP	21	dep	_	L-WORK_OF_ART
+13	#	#	NN	pos2=,	21	dep	_	O
+14	/	/	SYM	_	11	punct	_	O
+15	25	0	CD	_	21	dep	_	U-CARDINAL
+16	Tim	tim	NNP	_	19	compound	_	B-PERSON
+17	Duncan	duncan	NNP	_	19	compound	_	I-PERSON
+18	Manu	manu	NNP	_	19	compound	_	I-PERSON
+19	Ginobili	ginobili	NNP	pos2=GW	21	dep	_	L-PERSON
+20	https://t.co/TfVupAe3IO…	#hlink#	ADD	_	21	nmod	_	O
+21	https://t.co/OPGOQ4D7TM	#hlink#	ADD	_	0	root	_	U-ORG
+

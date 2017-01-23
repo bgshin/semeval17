@@ -1,0 +1,19 @@
+1	"	"	``	pos2=SYM	3	punct	_	O
+2	Saakashvili	saakashvili	NNP	_	3	nsubj	_	U-PERSON
+3	says	say	VBZ	_	0	root	_	O
+4	Ukraine	ukraine	NNP	_	5	compound	_	U-GPE
+5	president	president	NN	pos2=NNP	2	appos	_	O
+6	allowing	allow	VBG	_	5	acl	_	O
+7	corruption	corruption	NN	_	9	nsubj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	flourish	flourish	VB	_	6	ccomp	_	O
+10	"	"	''	pos2=``	15	punct	_	O
+11	-	-	,	pos2=NFP	17	punct	_	O
+12	https://t.co/7XIfIeoNuu	#hlink#	ADD	pos2=``	15	nmod	_	O
+13	real	real	JJ	_	14	nmod	_	O
+14	signals	signal	NNS	_	15	compound	_	O
+15	government	government	NN	_	17	nsubjpass	_	O
+16	is	be	VBZ	_	17	auxpass	_	O
+17	fucked	fuck	VBN	_	3	ccomp	_	O
+18	.	.	.	_	3	punct	_	O
+

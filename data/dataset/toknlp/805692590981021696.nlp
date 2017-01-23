@@ -1,0 +1,23 @@
+1	Cristiano	cristiano	NNP	_	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	0	root	_	L-PERSON
+3	.	.	.	_	2	punct	_	O
+
+1	Man	man	NN	pos2=NNP	2	nsubj	_	O
+2	takes	take	VBZ	_	0	root	_	O
+3	no	no	DT	pos2=RB	6	det	_	O
+4	Ls.	ls.	NNP	pos2=NNPS	5	compound	_	O
+5	Biggest	biggest	NNP	pos2=JJS	6	compound	_	O
+6	rustler	rustler	NN	_	2	dobj	_	O
+7	in	in	IN	_	6	prep	_	O
+8	world	world	NN	_	9	compound	_	O
+9	football	football	NN	_	7	pobj	_	O
+10	,	,	,	_	2	punct	_	O
+11	proves	prove	VBZ	_	2	conj	_	O
+12	haters	hater	NNS	_	13	nsubj	_	O
+13	wrong	wrong	JJ	pos2=VBP	11	ccomp	_	O
+14	every	every	DT	_	15	det	_	O
+15	game	game	NN	_	11	dobj	_	O
+16	.	.	.	_	2	punct	_	O
+
+1	https://t.co/AccEeaAgnX	#hlink#	ADD	_	0	root	_	U-ORG
+

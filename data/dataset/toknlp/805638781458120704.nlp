@@ -1,0 +1,11 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	believe	believe	VB	_	0	root	_	O
+5	rob	rob	NNP	pos2=JJ	6	compound	_	O
+6	mcelhenney	mcelhenney	NNP	pos2=NN	8	nsubj	_	O
+7	singlehandedly	singlehandedly	RB	_	8	advmod	_	O
+8	legalized	legalize	VBD	pos2=VBN	4	ccomp	_	O
+9	gay	gay	JJ	_	10	nmod	_	O
+10	marriage	marriage	NN	_	8	dobj	_	O
+

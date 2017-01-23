@@ -1,0 +1,17 @@
+1	@angelbyshaggy	@angelbyshaggy	UH	pos2=XX	2	discourse	_	O
+2	@arax_y	@arax_y	GW	pos2=CD	0	root	_	O
+3	-	-	:	pos2=GW	2	punct	_	O
+4	https://t.co/tuwfXECBAB:	#hlink#	ADD	pos2=NN	9	nmod	_	O
+5	David	david	NNP	_	6	compound	_	B-PERSON
+6	blaine	blaine	NNP	pos2=NN	12	nsubj	_	L-PERSON
+7	and	and	CC	_	6	cc	_	O
+8	nathan	nathan	NNP	pos2=NN	9	compound	_	O
+9	fielder	fielder	NN	_	6	conj	_	O
+10	would	would	MD	_	12	aux	_	O
+11	be	be	VB	_	12	aux	_	O
+12	whining	whine	VBG	_	0	root	_	O
+13	abt	abt	NN	pos2=IN	15	compound	_	O
+14	ralph	ralph	NN	pos2=XX	15	compound	_	O
+15	nader	nader	NN	pos2=NNP	12	dobj	_	O
+16	lol	lol	UH	pos2=NN	12	discourse	_	O
+

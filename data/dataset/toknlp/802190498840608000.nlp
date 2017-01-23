@@ -1,0 +1,18 @@
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	9	ccomp	_	O
+3	incorrect	incorrect	JJ	_	2	acomp	_	O
+4	I	I	PRP	pos2=NN	5	nsubj	_	O
+5	do	do	VBP	_	2	ccomp	_	O
+6	,	,	,	_	9	punct	_	O
+7	no	no	DT	_	8	det	_	O
+8	one	#crd#	NN	_	9	nsubj	_	O
+9	gets	get	VBZ	_	0	root	_	O
+10	to	to	TO	_	11	aux	_	O
+11	clock	clock	VB	_	9	xcomp	_	O
+12	out	out	RP	_	11	prt	_	O
+13	today	today	NN	_	11	npadvmod	_	U-DATE
+14	..	..	.	pos2=,	9	punct	_	O
+
+1	#TheWalkingDead	#thewalkingdead	ADD	pos2=XX	2	det	_	O
+2	😆	😆	NN	pos2=.	0	root	_	O
+

@@ -1,0 +1,22 @@
+1	Hello	hello	UH	_	5	discourse	_	O
+2	,	,	,	_	5	punct	_	O
+3	North	north	NNP	pos2=RB	4	compound	_	B-LOC
+4	KoreaI	koreai	NNP	pos2=NNPS	5	nsubj	_	L-LOC
+5	am	be	VBP	pos2=VBZ	0	root	_	O
+6	an	an	DT	_	7	det	_	O
+7	expert	expert	NN	_	5	attr	_	O
+8	on	on	IN	_	7	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	subject	subject	NN	_	8	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	internet	internet	NN	_	13	compound	_	O
+13	memesI	memesi	NN	pos2=NNP	11	pobj	_	O
+14	respectfully	respectfully	RB	_	15	advmod	_	O
+15	request	request	VB	pos2=VBP	5	advcl	_	O
+16	knowledge	knowledge	NN	_	15	dobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	Comrade	comrade	NNP	pos2=NN	19	compound	_	O
+19	Ki	ki	NNP	pos2=GW	17	pobj	_	B-PERSON
+20	…	…	NFP	pos2=-LRB-	21	punct	_	L-PERSON
+21	https://t.co/R3WnlwbQpc	#hlink#	ADD	_	5	dep	_	O
+

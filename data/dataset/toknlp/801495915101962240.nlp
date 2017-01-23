@@ -1,0 +1,23 @@
+1	@MelindaThinker	@melindathinker	NN	pos2=ADD	5	vocative	_	O
+2	I	I	PRP	pos2=NN	5	nsubj	_	O
+3	100	0	CD	pos2=VBP	4	nmod	_	B-PERCENT
+4	percent	percent	NN	_	5	nsubj	_	L-PERCENT
+5	agree	agree	VBP	pos2=VB	0	root	_	O
+6	!	!	.	_	5	punct	_	O
+
+1	And	and	CC	_	9	cc	_	O
+2	passion	passion	NN	_	0	conj	_	O
+3	,	,	,	_	2	punct	_	O
+4	articulate	articulate	JJ	_	6	nmod	_	O
+5	,	,	,	_	6	punct	_	O
+6	hell	hell	NN	pos2=UH	2	conj	_	O
+7	,	,	,	_	9	punct	_	O
+8	Melania	melania	NNP	_	9	nsubj	_	U-PERSON
+9	plagiarized	plagiarize	VBD	_	0	root	_	O
+10	her	her	PRP$	_	11	poss	_	O
+11	mo	mo	NN	pos2=NNP	13	poss	_	O
+12	's	's	POS	pos2=AFX	11	case	_	O
+13	speech	speech	NN	_	9	dobj	_	O
+14	even	even	RB	_	9	advmod	_	O
+15	!	!	.	_	9	punct	_	O
+

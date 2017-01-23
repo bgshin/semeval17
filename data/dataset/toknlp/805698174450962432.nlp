@@ -1,0 +1,25 @@
+1	Marine	marine	NNP	pos2=JJ	3	compound	_	B-ORG
+2	Le	le	NNP	_	3	compound	_	I-ORG
+3	Pen	pen	NNP	_	5	nsubj	_	L-ORG
+4	will	will	MD	_	5	aux	_	O
+5	be	be	VB	_	0	root	_	O
+6	the	the	DT	_	8	det	_	O
+7	next	next	JJ	_	8	nmod	_	O
+8	President	president	NNP	_	5	attr	_	O
+9	of	of	IN	_	8	prep	_	O
+10	France	france	NNP	_	9	pobj	_	U-GPE
+11	.	.	.	_	5	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	forgone	forgone	JJ	pos2=VBN	5	nmod	_	O
+5	conclusion	conclusion	NN	_	2	attr	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	@MLP_officiel	@mlp_officiel	ADD	pos2=XX	5	dep	_	O
+2	#FREXIT	#frexit	NN	pos2=GW	5	dep	_	O
+3	@Nigel_Farage	@nigel_farage	GW	pos2=ADD	5	nmod	_	O
+4	…	…	NFP	pos2=GW	5	punct	_	O
+5	https://t.co/vanbmYEgvW	#hlink#	ADD	pos2=NN	0	root	_	O
+

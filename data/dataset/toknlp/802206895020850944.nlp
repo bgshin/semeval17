@@ -1,0 +1,26 @@
+1	@RoyalHoeliness	@royalhoeliness	NN	pos2=VB	7	nsubj	_	O
+2	for	for	IN	_	1	prep	_	O
+3	future	future	JJ	_	4	nmod	_	O
+4	games	game	NNS	_	2	pobj	_	O
+5	,	,	,	_	7	punct	_	O
+6	would	would	MD	_	7	aux	_	O
+7	recommend	recommend	VB	_	0	root	_	O
+8	Persona	persona	NNP	pos2=NN	7	dobj	_	O
+9	5	0	CD	_	8	nmod	_	U-CARDINAL
+10	,	,	,	_	7	punct	_	O
+11	out	out	IN	pos2=RB	6	dep	_	O
+12	in	in	IN	_	11	prep	_	O
+13	February	february	NNP	_	12	pobj	_	U-DATE
+14	.	.	.	_	7	punct	_	O
+
+1	Always	always	RB	_	4	advmod	_	O
+2	a	a	DT	_	4	det	_	O
+3	great	great	JJ	_	4	nmod	_	O
+4	combo	combo	NN	_	0	root	_	O
+5	of	of	IN	_	4	prep	_	O
+6	RPG	rpg	NN	pos2=NNP	5	pobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	jungian	jungian	JJ	_	9	nmod	_	O
+9	psychology	psychology	NN	_	6	conj	_	O
+10	.	.	.	_	4	punct	_	O
+

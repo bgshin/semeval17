@@ -1,0 +1,26 @@
+1	Democrats	democrat	NNPS	pos2=NNS	2	nsubj	_	U-NORP
+2	knew	know	VBD	_	0	root	_	O
+3	the	the	DT	pos2=PRP	4	det	_	O
+4	this	this	DT	pos2=NN	5	nsubj	_	O
+5	was	be	VBD	_	2	ccomp	_	O
+6	how	how	WRB	_	7	advmod	_	O
+7	important	important	JJ	_	10	acomp	_	O
+8	this	this	DT	_	9	det	_	O
+9	election	election	NN	_	10	nsubj	_	O
+10	was	be	VBD	_	5	ccomp	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	#UniteBlue	#uniteblue	VB	pos2=NNP	2	xcomp	_	O
+5	Be	be	VB	_	4	xcomp	_	O
+6	bigger	big	JJR	_	7	nmod	_	O
+7	re-focus	re-focus	NN	pos2=NNS	5	attr	_	O
+8	on	on	IN	_	7	prep	_	O
+9	OUR	our	PRP$	_	10	poss	_	O
+10	goal	goal	NN	_	8	pobj	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	https://t.co/0CsBKj2nIU	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,18 @@
+1	@_	@_	SYM	pos2=``	5	punct	_	O
+2	ThatGuyT	thatguyt	NNP	pos2=XX	5	vocative	_	U-PERSON
+3	@dannyduchamp	@dannyduchamp	UH	pos2=MD	5	discourse	_	O
+4	i	I	PRP	pos2=TO	5	nsubj	_	O
+5	support	support	VBP	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	abolishing	abolishing	NN	pos2=VBG	5	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	minimum	minimum	JJ	pos2=NN	10	nmod	_	O
+10	wage	wage	NN	_	8	pobj	_	O
+11	,	,	,	_	16	punct	_	O
+12	its	its	PRP$	pos2=VBZ	14	poss	_	O
+13	another	another	DT	_	14	det	_	O
+14	farce	farce	NN	_	10	appos	_	O
+15	from	from	IN	_	14	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	left	left	JJ	pos2=NN	15	pobj	_	O
+

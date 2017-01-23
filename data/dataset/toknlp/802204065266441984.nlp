@@ -1,0 +1,25 @@
+1	We	we	PRP	_	3	nsubjpass	_	O
+2	got	get	VBD	_	3	auxpass	_	O
+3	rid	rid	VBN	pos2=CD	0	root	_	O
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	#RedCoats	#redcoats	NNS	pos2=NNPS	4	pobj	_	O
+7	in	in	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	B-DATE
+9	1700's	0's	NNS	_	7	pobj	_	L-DATE
+10	it	it	PRP	_	11	nsubj	_	O
+11	's	's	VBZ	_	3	conj	_	O
+12	time	time	NN	_	11	attr	_	O
+13	to	to	TO	_	14	aux	_	O
+14	get	get	VB	_	12	relcl	_	O
+15	rid	rid	VBN	pos2=JJ	14	xcomp	_	O
+16	of	of	IN	_	15	prep	_	O
+17	the	the	DT	_	18	det	_	O
+18	#RedHats	#redhats	NNS	pos2=NNPS	16	pobj	_	O
+19	...	..	.	pos2=,	11	punct	_	O
+
+1	#WontBackDown	#wontbackdown	ADD	pos2=NN	4	punct	_	O
+2	#MangoMussolini	#mangomussolini	NNS	pos2=ADD	3	compound	_	O
+3	#democrats	#democrats	NNS	pos2=UH	4	nsubj	_	O
+4	#UniteBlue	#uniteblue	ADD	pos2=NN	0	root	_	O
+

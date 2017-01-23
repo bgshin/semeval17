@@ -1,0 +1,21 @@
+1	BEN	ben	NNP	pos2=NN	6	nmod	_	U-PERSON
+2	'	'	``	pos2=''	6	punct	_	O
+3	THE	the	DT	_	4	det	_	O
+4	SENSATION	sensation	NN	_	6	nmod	_	O
+5	'	'	''	pos2=POS	6	punct	_	O
+6	HALL	hall	NN	pos2=NNP	9	nmod	_	O
+7	v	v	IN	pos2=FW	6	prep	_	O
+8	CARSON	carson	NNP	pos2=NN	11	compound	_	O
+9	JONES	jones	NNP	pos2=RB	11	compound	_	O
+10	-	-	HYPH	pos2=:	11	punct	_	O
+11	OFFICIAL	official	NNP	pos2=JJ	12	nsubj	_	O
+12	WEIGH	weigh	NN	pos2=VB	0	root	_	O
+13	IN	in	NNP	pos2=RB	12	prt	_	O
+14	&	&	CC	_	6	cc	_	O
+15	FACE	face	VB	pos2=NN	6	conj	_	O
+16	OFF	off	RP	pos2=NN	15	prt	_	O
+17	V	v	NN	pos2=NNP	15	dobj	_	O
+18	...	..	.	pos2=,	6	punct	_	O
+
+1	https://t.co/yiGp2K3iSu	#hlink#	ADD	_	0	root	_	U-ORG
+

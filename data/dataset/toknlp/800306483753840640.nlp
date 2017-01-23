@@ -1,0 +1,22 @@
+1	"	"	``	_	21	punct	_	O
+2	Searching	search	VBG	_	10	advcl	_	O
+3	for	for	IN	_	2	prep	_	O
+4	'	'	``	pos2=''	21	punct	_	O
+5	Fatty	fatty	JJ	pos2=NNP	6	nmod	_	B-PERSON
+6	Kim	kim	NNP	_	10	nsubj	_	L-PERSON
+7	the	the	DT	_	8	det	_	O
+8	Third	#ord#	NNP	pos2=JJ	6	appos	_	U-ORDINAL
+9	'	'	''	pos2=``	21	punct	_	O
+10	banned	ban	VBN	_	21	nmod	_	O
+11	on	on	IN	_	10	prep	_	O
+12	Chinese	chinese	JJ	pos2=NNP	13	nmod	_	U-NORP
+13	#SocialMedia	#socialmedia	NN	pos2=NNS	11	pobj	_	O
+14	"	"	''	pos2=``	13	punct	_	O
+15	(	(	-LRB-	_	10	punct	_	O
+16	@ssharwood	@ssharwood	FW	pos2=GW	10	advmod	_	O
+17	)	)	-RRB-	_	21	punct	_	O
+18	https://t.co/sdMpzb278S#China	#hlink#	ADD	_	21	dep	_	O
+19	#Asia	#asia	-RRB-	pos2=NNP	21	punct	_	O
+20	#NorthKorea	#northkorea	NN	pos2=ADD	21	compound	_	O
+21	#Social	#social	NNP	pos2=.	0	root	_	U-ORG
+

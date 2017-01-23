@@ -1,0 +1,27 @@
+1	When	when	WRB	_	8	advmod	_	O
+2	all	all	PDT	pos2=DT	5	predet	_	O
+3	the	the	DT	_	5	det	_	O
+4	nut	nut	NN	_	5	compound	_	O
+5	jobs	job	NNS	_	8	nsubj	_	O
+6	w	w	IN	pos2=POS	5	prep	_	O
+7	guns	gun	NNS	_	6	pobj	_	O
+8	start	start	VBP	_	14	advcl	_	O
+9	in	in	RP	pos2=IN	8	prt	_	O
+10	,	,	,	_	14	punct	_	O
+11	maybe	maybe	RB	_	14	advmod	_	O
+12	it	it	PRP	_	14	nsubj	_	O
+13	will	will	MD	_	14	aux	_	O
+14	be	be	VB	_	0	root	_	O
+15	Trump	trump	NNP	_	17	poss	_	U-ORG
+16	's	's	POS	_	15	case	_	O
+17	presidency	presidency	NN	_	14	attr	_	O
+18	that	that	WDT	_	19	nsubj	_	O
+19	gets	get	VBZ	_	17	relcl	_	O
+20	the	the	DT	_	23	det	_	O
+21	US	us	NNP	_	23	compound	_	U-GPE
+22	gun	gun	NN	_	23	compound	_	O
+23	control	control	NN	_	19	dobj	_	O
+24	...	..	.	pos2=,	14	punct	_	O
+
+1	https://t.co/u48GtpsZZn	#hlink#	ADD	_	0	root	_	U-ORG
+

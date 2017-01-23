@@ -1,0 +1,16 @@
+1	#NVIDIA	#nvidia	NN	pos2=LS	3	compound	_	O
+2	Deep	deep	NNP	pos2=JJ	3	compound	_	B-ORG
+3	Learning	learning	NNP	pos2=NN	0	root	_	L-ORG
+4	,	,	,	_	3	punct	_	O
+5	Cloud	cloud	NNP	_	7	compound	_	B-ORG
+6	Power	power	NNP	pos2=NN	7	compound	_	I-ORG
+7	Nvidia	nvidia	NNP	_	3	conj	_	L-ORG
+8	.	.	.	_	3	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	more	more	JJR	pos2=RBR	1	dobj	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/tktWhV97SM	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	$	$	$	pos2=-RRB-	6	nmod	_	O
+6	NVDA	nvda	NNP	pos2=NN	1	dobj	_	U-MONEY
+

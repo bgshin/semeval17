@@ -1,0 +1,25 @@
+1	So	so	RB	_	2	advmod	_	O
+2	nice	nice	JJ	_	4	dep	_	O
+3	to	to	TO	_	4	aux	_	O
+4	be	be	VB	_	0	root	_	O
+5	on	on	IN	_	4	prep	_	O
+6	this	this	DT	_	7	det	_	O
+7	list	list	NN	_	5	pobj	_	O
+8	among	among	IN	_	4	prep	_	O
+9	such	such	JJ	_	11	nmod	_	O
+10	great	great	JJ	_	11	nmod	_	O
+11	restaurants	restaurant	NNS	_	8	pobj	_	O
+12	.	.	.	_	4	punct	_	O
+
+1	Canoe	canoe	NN	pos2=NNP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	gold	gold	NN	pos2=JJ	5	compound	_	O
+5	standard	standard	NN	_	2	attr	_	O
+6	&	&	CC	_	2	cc	_	O
+7	I	I	PRP	_	8	nsubj	_	O
+8	had	have	VBD	_	2	conj	_	O
+9	a	a	DT	_	10	det	_	O
+10	…	…	NFP	pos2=:	11	nmod	_	O
+11	https://t.co/6dmwqUAOsa	#hlink#	ADD	pos2=NN	8	dobj	_	O
+

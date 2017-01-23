@@ -1,0 +1,23 @@
+1	Let	let	VB	_	0	root	_	O
+2	's	's	PRP	_	3	nsubj	_	O
+3	compare	compare	VB	_	1	ccomp	_	O
+4	ways	way	NNS	_	3	dobj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	celebrate	celebrate	VB	_	4	relcl	_	O
+7	European	european	JJ	pos2=NNP	11	nmod	_	U-NORP
+8	cultureWicher	culturewicher	NNP	pos2=NN	11	nmod	_	O
+9	3	0	CD	_	8	nmod	_	U-CARDINAL
+10	:	:	:	_	11	punct	_	O
+11	Music	music	NN	pos2=NNP	6	dobj	_	O
+12	,	,	,	_	11	punct	_	O
+13	folktales	folktale	NNS	_	11	appos	_	O
+14	,	,	,	_	13	punct	_	O
+15	valuesThe	valuesthe	NNP	pos2=WP$	13	cc	_	O
+16	Alt	alt	NNP	pos2=JJ	18	compound	_	O
+17	-	-	HYPH	pos2=:	18	punct	_	O
+18	Right	right	JJ	pos2=NNP	21	dep	_	O
+19	:	:	:	_	21	punct	_	O
+20	Nazi	nazi	JJ	pos2=NN	21	nmod	_	U-NORP
+21	memes	meme	NNS	_	11	appos	_	O
+22	.	.	.	_	1	punct	_	O
+

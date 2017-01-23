@@ -1,0 +1,25 @@
+1	@Bet_HorseRacing	@bet_horseracing	VBG	pos2=NNP	4	nmod	_	O
+2	Horse	horse	NNP	pos2=NN	3	compound	_	B-LOC
+3	Racing	racing	NNP	pos2=NN	4	compound	_	I-LOC
+4	Tip	tip	NN	pos2=NNP	7	dep	_	I-LOC
+5	:	:	:	_	7	punct	_	I-LOC
+6	Sprint	sprint	NNP	_	7	compound	_	I-LOC
+7	Valley	valley	NNP	pos2=NN	14	nsubj	_	L-LOC
+8	(	(	-LRB-	_	7	punct	_	O
+9	Race	race	NNP	pos2=NN	7	appos	_	B-DATE
+10	1	0	CD	_	9	nmod	_	L-DATE
+11	)	)	-RRB-	_	7	punct	_	O
+12	at	at	IN	_	7	prep	_	O
+13	10:56	0	CD	_	12	pobj	_	U-TIME
+14	is	be	VBZ	_	0	root	_	O
+15	Young	young	JJ	pos2=NNP	16	nmod	_	B-WORK_OF_ART
+16	Cy	cy	NNP	pos2=NN	14	nsubj	_	L-WORK_OF_ART
+17	at	at	IN	_	14	prep	_	O
+18	13/2	0	CD	_	17	pobj	_	U-CARDINAL
+19	.	.	.	_	14	punct	_	O
+
+1	Best	good	JJS	pos2=GW	2	nmod	_	O
+2	odds	odds	NNS	_	0	root	_	O
+3	https://t.co/wBqIpilNDH	#hlink#	ADD	_	2	vocative	_	O
+4	#freetip	#freetip	UH	pos2=-RRB-	2	discourse	_	O
+

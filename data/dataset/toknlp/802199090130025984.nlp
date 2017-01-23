@@ -1,0 +1,13 @@
+1	#onedirection	#onedirection	UH	pos2=NN	3	discourse	_	O
+2	#niallhoran	#niallhoran	UH	pos2=MD	3	discourse	_	O
+3	#harrystyles	#harrystyles	UH	pos2=NNS	0	root	_	O
+4	#WWATour	#wwatour	PRP$	pos2=CD	3	punct	_	O
+5	best	good	JJS	pos2=RBS	8	nmod	_	O
+6	2	0	CD	_	8	nmod	_	U-CARDINAL
+7	lovely	lovely	JJ	_	8	nmod	_	O
+8	dance	dance	NN	pos2=NNS	12	dep	_	O
+9	😊❤️	😊❤️	WDT	pos2=NFP	8	punct	_	O
+10	them	them	PRP	_	8	appos	_	O
+11	👍	👍	NFP	pos2=-LRB-	12	punct	_	O
+12	https://t.co/SDoSQTB3CH	#hlink#	ADD	_	4	root	_	O
+

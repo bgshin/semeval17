@@ -1,0 +1,20 @@
+1	the	the	DT	_	3	det	_	O
+2	real	real	JJ	_	3	nmod	_	O
+3	questions	question	NNS	_	10	dep	_	O
+4	@wtmaIIy	@wtmaiiy	XX	pos2=POS	10	nmod	_	O
+5	@_	@_	HYPH	pos2=NFP	10	det	_	O
+6	haleybuggg	haleybuggg	XX	pos2=NN	8	nmod	_	O
+7	-	-	HYPH	pos2=:	8	punct	_	O
+8	https://t.co/bQNY5J9jbw:	#hlink#	ADD	pos2=NN	10	nmod	_	O
+9	serious	serious	JJ	_	10	nmod	_	O
+10	question	question	NN	_	13	dep	_	O
+11	:	:	:	_	13	punct	_	O
+12	why	why	WRB	_	13	advmod	_	O
+13	are	be	VBP	_	0	root	_	O
+14	joe	joe	JJ	pos2=NNP	19	nmod	_	O
+15	biden	biden	NNP	pos2=RB	19	nmod	_	O
+16	and	and	CC	_	15	cc	_	O
+17	melania	melania	NN	pos2=GW	15	conj	_	O
+18	trump	trump	NN	_	19	compound	_	O
+19	memes	meme	NNS	_	13	nsubj	_	O
+

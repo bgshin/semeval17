@@ -1,0 +1,25 @@
+1	"	"	``	_	2	punct	_	O
+2	F	f	NN	pos2=NNP	0	root	_	O
+3	"	"	''	_	2	punct	_	O
+4	for	for	IN	_	2	prep	_	O
+5	#usa	#usa	NN	pos2=XX	6	compound	_	O
+6	@michaeldean0116	@michaeldean0	NN	pos2=PRP$	4	pobj	_	O
+7	FAKE	fake	JJ	pos2=NNP	8	nmod	_	O
+8	FED	fed	NN	pos2=NNP	6	npadvmod	_	O
+9	...	..	.	pos2=,	2	punct	_	O
+
+1	@BizzyBlazinBudz	@bizzyblazinbudz	SYM	pos2=JJ	6	punct	_	O
+2	FALSE	false	JJ	_	3	nmod	_	O
+3	FLAG	flag	NN	_	6	nsubj	_	O
+4	=	=	SYM	pos2=:	6	punct	_	O
+5	9/11	0	CD	_	6	nmod	_	B-DATE
+6	lNSlDE	lnslde	NNS	pos2=ADD	0	root	_	L-DATE
+7	J0BFRACKING	j0bfracking	VBG	pos2=WRB	6	acl	_	O
+8	an	an	DT	_	14	det	_	O
+9	"	"	``	_	11	punct	_	O
+10	FRIENDLY	friendly	JJ	_	11	nmod	_	O
+11	FIRE	fire	NN	pos2=NNP	13	nmod	_	O
+12	"	"	''	_	11	punct	_	O
+13	#JESUS	#jesus	NN	pos2=XX	14	compound	_	O
+14	#ENDofDAYS	#endofdays	NNS	pos2=ADD	7	dobj	_	O
+

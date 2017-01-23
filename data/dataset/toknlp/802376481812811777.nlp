@@ -1,0 +1,11 @@
+1	@ancerrone	@ancerrone	NNP	pos2=UH	3	compound	_	O
+2	Michael	michael	NNP	_	3	compound	_	B-PERSON
+3	moore	moore	NNP	pos2=NN	4	nsubj	_	L-PERSON
+4	is	be	VBZ	_	0	root	_	O
+5	so	so	RB	pos2=IN	10	advmod	_	O
+6	1990s	0s	NNS	pos2=JJ	4	attr	_	O
+7	,	,	,	_	6	punct	_	O
+8	not	not	RB	_	10	neg	_	O
+9	even	even	RB	_	10	advmod	_	O
+10	relevent	relevent	JJ	_	6	nmod	_	O
+

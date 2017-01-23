@@ -1,0 +1,11 @@
+1	Anti	anti	AFX	pos2=NNP	4	nmod	_	O
+2	Trump	trump	NNP	pos2=NN	4	compound	_	U-ORG
+3	protest	protest	NN	pos2=VB	4	compound	_	O
+4	sparks	spark	NNS	pos2=FW	10	nsubj	_	O
+5	‘	'	``	pos2=POS	6	punct	_	O
+6	riot	riot	NN	_	4	dobj	_	O
+7	’	'	''	_	6	punct	_	O
+8	in	in	IN	_	6	prep	_	O
+9	Portland	portland	NNP	_	8	pobj	_	U-GPE
+10	https://t.co/2gkywcVbut	#hlink#	ADD	pos2=NNP	0	root	_	O
+

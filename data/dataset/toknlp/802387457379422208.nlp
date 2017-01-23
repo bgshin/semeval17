@@ -1,0 +1,12 @@
+1	@MsBlaireWhite	@msblairewhite	NNP	pos2=ADD	2	nsubj	_	U-PERSON
+2	Calls	call	VBZ	pos2=NNS	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Trump	trump	NNP	_	7	poss	_	U-PERSON
+5	's	's	POS	_	4	case	_	O
+6	transition	transition	NN	_	7	compound	_	O
+7	team	team	NN	_	3	pobj	_	O
+8	to	to	TO	_	10	aux	_	O
+9	be	be	VB	_	10	auxpass	_	O
+10	investigated	investigate	VBN	_	2	advcl	_	O
+11	...	..	.	_	2	punct	_	O
+

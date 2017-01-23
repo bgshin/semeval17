@@ -1,0 +1,13 @@
+1	@KingAlfs_PE	@kingalfs_pe	VB	pos2=IN	0	root	_	O
+2	the	the	DT	_	4	det	_	O
+3	Rugby	rugby	NNP	pos2=NN	4	compound	_	O
+4	Leaders	leader	NNPS	pos2=NNS	6	nsubj	_	O
+5	also	also	RB	_	6	advmod	_	O
+6	had	have	VBD	_	1	ccomp	_	O
+7	a	a	DT	_	8	det	_	O
+8	go	go	NN	pos2=VB	6	dobj	_	O
+9	at	at	IN	_	6	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	#MannequinChallenge	#mannequinchallenge	NN	pos2=ADD	9	pobj	_	O
+12	https://t.co/KZPLn6LPot	#hlink#	ADD	_	11	appos	_	O
+

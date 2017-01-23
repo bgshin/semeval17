@@ -1,0 +1,19 @@
+1	@Raz75408897	@raz0	NN	pos2=NNS	0	root	_	O
+2	@megynkelly	@megynkelly	UH	pos2=XX	1	discourse	_	O
+3	of	of	IN	pos2=RB	1	prep	_	O
+4	course	course	NN	pos2=RB	3	pobj	_	O
+5	!	!	.	_	1	punct	_	O
+
+1	but	but	CC	_	6	cc	_	O
+2	since	since	IN	_	12	prep	_	O
+3	when	when	WRB	_	6	advmod	_	O
+4	does	do	VBZ	_	6	aux	_	O
+5	opinion	opinion	NN	pos2=PRP	6	nsubj	_	O
+6	have	have	VB	pos2=VBP	2	pcomp	_	O
+7	to	to	IN	pos2=TO	6	prep	_	O
+8	=	=	SYM	pos2=-LRB-	9	punct	_	O
+9	disrespect	disrespect	NN	pos2=VB	7	pobj	_	O
+10	,	,	,	_	12	punct	_	O
+11	nasty	nasty	JJ	_	12	nmod	_	O
+12	comments	comment	NNS	_	0	root	_	O
+

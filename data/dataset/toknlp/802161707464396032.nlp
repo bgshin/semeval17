@@ -1,0 +1,7 @@
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	beautiful	beautiful	JJ	_	2	acomp	_	O
+4	❤	❤	NFP	pos2=,	2	discourse	_	O
+5	#BeautyAndTheBeast	#beautyandthebeast	ADD	pos2=GW	6	punct	_	O
+6	https://t.co/0WlOCDNtzu	#hlink#	ADD	_	2	dep	_	O
+

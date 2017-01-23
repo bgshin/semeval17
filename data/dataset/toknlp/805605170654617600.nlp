@@ -1,0 +1,35 @@
+1	@BrandonWNY	@brandonwny	NN	pos2=XX	0	root	_	O
+2	using	use	VBG	_	1	acl	_	O
+3	brady	brady	NN	pos2=NNP	2	dobj	_	O
+4	as	as	IN	_	2	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	gold	gold	NN	pos2=JJ	7	compound	_	O
+7	standard	standard	NN	pos2=JJ	4	pobj	_	O
+8	?	?	.	_	1	punct	_	O
+
+1	bills	bill	NNS	_	0	root	_	O
+2	traded	trade	VBN	pos2=VBD	1	acl	_	O
+3	up	up	RP	_	2	prt	_	O
+4	and	and	CC	_	2	cc	_	O
+5	skipped	skip	VBD	pos2=VBN	2	conj	_	O
+6	over	over	IN	pos2=RP	5	prep	_	O
+7	Mack	mack	NNP	_	6	pobj	_	U-PERSON
+8	.	.	.	_	1	punct	_	O
+
+1	Hard	hard	JJ	pos2=RB	4	dep	_	O
+2	not	not	RB	_	4	neg	_	O
+3	to	to	TO	_	4	aux	_	O
+4	see	see	VB	_	0	root	_	O
+5	how	how	WRB	_	6	advmod	_	O
+6	big	big	JJ	_	4	meta	_	O
+7	of	of	IN	_	6	prep	_	O
+8	a	a	DT	_	9	det	_	O
+9	mistake	mistake	NN	_	7	pobj	_	O
+10	that	that	WDT	pos2=DT	11	nsubj	_	O
+11	was	be	VBD	_	9	relcl	_	O
+12	.	.	.	_	4	punct	_	O
+
+1	Oh	oh	UH	_	0	root	_	O
+2	well	well	UH	pos2=RB	1	discourse	_	O
+3	.	.	.	_	1	punct	_	O
+

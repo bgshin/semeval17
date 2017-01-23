@@ -1,0 +1,22 @@
+1	#Hezbollah	#hezbollah	NNP	pos2=PRP$	4	compound	_	O
+2	Martyr	martyr	NNP	pos2=NN	4	compound	_	O
+3	Qasim	qasim	NNP	_	4	compound	_	B-PERSON
+4	Shamkha	shamkha	NNP	_	5	nsubj	_	L-PERSON
+5	19yrs	0yrs	NNS	pos2=VBZ	21	nmod	_	O
+6	old	old	JJ	pos2=RB	5	nmod	_	O
+7	from	from	IN	_	6	prep	_	O
+8	Burj	burj	NNP	_	9	compound	_	B-ORG
+9	Qalawiyeh	qalawiyeh	NNP	_	7	pobj	_	L-ORG
+10	pledging	pledge	VBG	pos2=JJ	8	acl	_	O
+11	allegiance	allegiance	NN	_	10	dobj	_	O
+12	to	to	IN	_	10	prep	_	O
+13	Syeda	syeda	NNP	_	14	compound	_	B-PERSON
+14	Zainab	zainab	NNP	_	12	pobj	_	L-PERSON
+15	(	(	-LRB-	_	14	punct	_	O
+16	AS	as	NNP	pos2=IN	14	appos	_	O
+17	)	)	-RRB-	_	14	punct	_	O
+18	in	in	IN	_	10	prep	_	O
+19	#Aleppo	#aleppo	NNP	pos2=CD	18	pobj	_	U-GPE
+20	…	…	NFP	pos2=-LRB-	21	punct	_	O
+21	https://t.co/Lp9iHOjgzR	#hlink#	ADD	_	0	root	_	O
+

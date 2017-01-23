@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det	_	O
+2	way	way	NN	_	14	nsubj	_	O
+3	the	the	DT	_	5	det	_	O
+4	mainstream	mainstream	JJ	pos2=NN	5	nmod	_	O
+5	media	medium	NNS	pos2=NN	7	nsubj	_	O
+6	is	be	VBZ	_	7	aux	_	O
+7	putting	put	VBG	_	2	relcl	_	O
+8	the	the	DT	_	9	det	_	O
+9	spin	spin	NN	_	7	dobj	_	O
+10	on	on	IN	pos2=RP	7	prep	_	O
+11	#MosulOffensive	#mosuloffensive	NNP	pos2=NN	10	pobj	_	U-GPE
+12	versus	versus	CC	_	11	cc	_	O
+13	#Allepo	#allepo	NNP	pos2=CD	11	conj	_	U-GPE
+14	is	be	VBZ	_	0	root	_	O
+15	disturbing	disturbing	JJ	_	14	acomp	_	O
+16	and	and	CC	_	15	cc	_	O
+17	instructive	instructive	JJ	_	15	conj	_	O
+18	.	.	.	_	14	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	enemy	enemy	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	who	who	WP	_	6	dobj	_	O
+5	THEY	they	PRP	_	6	nsubj	_	O
+6	say	say	VBP	_	3	ccomp	_	O
+

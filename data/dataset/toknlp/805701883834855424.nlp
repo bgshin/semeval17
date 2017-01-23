@@ -1,0 +1,10 @@
+1	truni	truni	UH	pos2=NNS	3	discourse	_	O
+2	i	I	PRP	pos2=CD	3	nsubj	_	O
+3	vogel	vogel	VBP	pos2=XX	0	root	_	O
+4	tum	tum	FW	pos2=NNP	9	nmod	_	O
+5	dhimt	dhimt	FW	pos2=XX	9	nmod	_	O
+6	pas	pas	FW	pos2=JJ	9	nmod	_	O
+7	ep	ep	NN	pos2=FW	9	nmod	_	O
+8	10	0	CD	_	9	nmod	_	B-DATE
+9	t'westworld	t'westworld	NN	pos2=FW	3	dobj	_	L-DATE
+

@@ -1,0 +1,16 @@
+1	Keeping	keep	VBG	_	0	root	_	O
+2	small	small	JJ	_	3	nmod	_	O
+3	nations	nation	NNS	_	1	dobj	_	O
+4	enslaved	enslave	VBN	pos2=VBD	1	oprd	_	O
+5	because	because	IN	_	1	prep	_	O
+6	of	of	IN	_	5	pcomp	_	O
+7	the	the	DT	_	8	det	_	O
+8	deals	deal	NNS	_	5	pobj	_	O
+9	between	between	IN	_	8	prep	_	O
+10	t	t	NN	pos2=NNP	9	pobj	_	O
+11	...	..	.	pos2=,	1	punct	_	O
+
+1	#MikheilSaakashvili	#mikheilsaakashvili	GW	pos2=NNS	3	nmod	_	B-PERSON
+2	#citations	#citations	GW	pos2=NNS	3	nmod	_	L-PERSON
+3	https://t.co/PCBFLL6XpX	#hlink#	ADD	pos2=NN	0	root	_	O
+

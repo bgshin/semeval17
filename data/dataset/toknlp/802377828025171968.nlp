@@ -1,0 +1,27 @@
+1	@MAGA00036	@maga0	NN	pos2=LS	2	compound	_	O
+2	@VeraVanzetti	@veravanzetti	NNS	pos2=ADD	7	nsubj	_	O
+3	@bkohatl	@bkohatl	UH	pos2=RB	7	discourse	_	O
+4	there	there	EX	_	7	expl	_	O
+5	will	will	MD	_	7	aux	_	O
+6	not	not	RB	_	7	neg	_	O
+7	be	be	VB	_	16	ccomp	_	O
+8	a	a	DT	_	9	det	_	O
+9	wall	wall	NN	_	7	attr	_	O
+10	,	,	,	_	13	punct	_	O
+11	Obamacare	obamacare	NNP	_	13	nsubj	_	U-ORG
+12	is	be	VBZ	_	13	aux	_	O
+13	staying	stay	VBG	_	7	advcl	_	O
+14	,	,	,	_	16	punct	_	O
+15	Trump	trump	NNP	pos2=NN	16	nsubj	_	U-PERSON
+16	is	be	VBZ	_	0	root	_	O
+17	pro	pro	JJ	_	18	nmod	_	O
+18	choice	choice	NN	_	16	attr	_	O
+19	,	,	,	_	23	punct	_	O
+20	he	he	PRP	_	23	nsubj	_	O
+21	will	will	MD	_	23	aux	_	O
+22	not	not	RB	_	23	neg	_	O
+23	drain	drain	VB	_	16	conj	_	O
+24	the	the	DT	_	25	det	_	O
+25	swamp	swamp	NN	_	23	dobj	_	O
+26	.	.	.	_	23	punct	_	O
+

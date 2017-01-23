@@ -1,0 +1,19 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	DID	do	VBD	_	4	aux	_	O
+3	N'T	not	RB	_	4	neg	_	O
+4	KNOW	know	VB	pos2=VBP	0	root	_	O
+5	RICKY	ricky	NNP	_	6	compound	_	B-PERSON
+6	MARTIN	martin	NNP	_	7	nsubj	_	L-PERSON
+7	WAS	be	VBD	pos2=NNP	4	ccomp	_	O
+8	A	a	DT	_	9	det	_	O
+9	GUEST	guest	NN	_	7	attr	_	O
+10	AT	at	IN	_	9	prep	_	O
+11	THE	the	DT	pos2=NN	14	det	_	O
+12	1989	0	CD	_	13	nmod	_	U-DATE
+13	WORLD	world	NN	pos2=NNP	14	compound	_	O
+14	TOUR	tour	NN	pos2=NNP	10	pobj	_	O
+15	OH	oh	UH	pos2=:	18	discourse	_	O
+16	MY	my	PRP$	pos2=UH	18	poss	_	O
+17	FUCKING	fucking	JJ	pos2=UH	18	nmod	_	O
+18	GOD	god	NN	pos2=NNP	9	conj	_	O
+

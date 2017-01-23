@@ -1,0 +1,22 @@
+1	@CTheAvenger5765	@ctheavenger0	NN	pos2=NNS	2	nsubj	_	O
+2	@spiderman_game	@spiderman_game	VBD	pos2=XX	0	root	_	O
+3	@PlayStation	@playstation	NNP	pos2=ADD	2	dobj	_	O
+4	What	what	WP	_	5	dep	_	O
+5	about	about	IN	_	2	prep	_	O
+6	Last	last	NNP	pos2=JJ	7	compound	_	O
+7	Guardian	guardian	NNP	pos2=NN	5	pobj	_	O
+8	?	?	.	_	2	punct	_	O
+
+1	Persona	persona	NN	pos2=NNP	2	nsubj	_	O
+2	5	0	CD	_	0	root	_	U-CARDINAL
+3	?	?	.	_	2	punct	_	O
+
+1	I	I	PRP	_	5	nsubj	_	O
+2	just	just	RB	_	5	advmod	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	see	see	VB	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	connection	connection	NN	_	5	dobj	_	O
+8	lol	lol	UH	pos2=NN	5	discourse	_	O
+

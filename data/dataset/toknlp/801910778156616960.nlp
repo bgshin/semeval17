@@ -1,0 +1,12 @@
+1	2x06	0x0	NN	pos2=LS	5	nmod	_	O
+2	-	-	:	pos2=HYPH	8	punct	_	O
+3	"	"	``	_	5	punct	_	O
+4	Blood	blood	NN	pos2=NNP	5	compound	_	O
+5	Drive	drive	NNP	pos2=NN	7	nmod	_	O
+6	"	"	''	_	5	punct	_	O
+7	Screen	screen	NN	pos2=NNP	8	nsubj	_	O
+8	Captures	capture	VBZ	pos2=NNPS	0	root	_	O
+9	#BillieLourd	#billielourd	GW	pos2=JJ	11	nmod	_	O
+10	#ScreamQueens	#screamqueens	GW	pos2=ADD	11	nmod	_	O
+11	https://t.co/HUpgcRshhn	#hlink#	ADD	pos2=NN	8	dobj	_	O
+

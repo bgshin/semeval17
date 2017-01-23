@@ -1,0 +1,19 @@
+1	Activists	activist	NNS	_	4	nsubj	_	O
+2	ca	can	MD	_	4	aux	_	O
+3	n’t	not	RB	_	4	neg	_	O
+4	help	help	VB	_	0	root	_	O
+5	making	make	VBG	_	4	xcomp	_	O
+6	a	a	DT	_	7	det	_	O
+7	spectacle	spectacle	NN	_	5	dobj	_	O
+8	,	,	,	_	4	punct	_	O
+9	even	even	RB	_	10	advmod	_	O
+10	after	after	IN	_	4	prep	_	O
+11	total	total	JJ	_	12	nmod	_	O
+12	failure	failure	NN	_	10	pobj	_	O
+13	in	in	IN	_	12	prep	_	O
+14	Ohio	ohio	NNP	_	13	pobj	_	U-GPE
+15	#fracking	#fracking	GW	pos2=VBG	18	nmod	_	O
+16	fight	fight	GW	pos2=VB	18	nmod	_	O
+17	https://t.co/TQ30LAoejV	#hlink#	ADD	pos2=GW	18	nmod	_	O
+18	https://t.co/VlgrSUwppw	#hlink#	ADD	_	4	dep	_	U-ORG
+

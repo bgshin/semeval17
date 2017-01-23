@@ -1,0 +1,10 @@
+1	NATIONAL	national	JJ	pos2=NNP	4	nmod	_	O
+2	FAST	fast	JJ	_	3	nmod	_	O
+3	FOOD	food	NN	_	4	compound	_	O
+4	DAY	day	NN	pos2=NNP	9	dep	_	O
+5	#NATIONALFASTFOODDAY	#nationalfastfoodday	NN	pos2=RB	6	compound	_	U-DATE
+6	#FASTFOODDAY	#fastfoodday	NN	pos2=GW	9	dep	_	O
+7	#anime	#anime	GW	pos2=UH	9	nmod	_	O
+8	#animation	#animation	GW	pos2=ADD	9	nmod	_	O
+9	https://t.co/eOwYhS02rg	#hlink#	ADD	pos2=NN	0	root	_	O
+

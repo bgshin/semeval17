@@ -1,0 +1,19 @@
+1	@eucopresident	@eucopresident	UH	pos2=ADD	3	discourse	_	O
+2	@poroshenko	@poroshenko	UH	pos2=FW	3	discourse	_	O
+3	@JunckerEU	@junckereu	NN	pos2=XX	11	dep	_	O
+4	to	to	IN	_	3	prep	_	O
+5	Ukraine	ukraine	NNP	_	4	pobj	_	U-GPE
+6	and	and	CC	_	3	cc	_	O
+7	their	their	PRP$	_	8	poss	_	O
+8	timber	timber	NN	_	3	conj	_	O
+9	;	;	:	pos2=,	11	punct	_	O
+10	you	you	PRP	_	11	nsubj	_	O
+11	using	use	VBG	_	18	advcl	_	O
+12	them	them	PRP	_	11	dobj	_	O
+13	as	as	IN	_	11	prep	_	O
+14	a	a	DT	_	15	det	_	O
+15	resource	resource	NN	_	13	pobj	_	O
+16	,	,	,	_	18	punct	_	O
+17	you	you	PRP	_	18	nsubj	_	O
+18	eurohipocrites	eurohipocrites	VBP	pos2=NNS	0	root	_	O
+

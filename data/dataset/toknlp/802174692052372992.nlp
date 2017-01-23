@@ -1,0 +1,15 @@
+1	if	if	IN	_	3	mark	_	O
+2	u	u	PRP	pos2=DT	3	nsubj	_	O
+3	sign	sign	VB	pos2=NN	8	advcl	_	O
+4	tony	tony	JJ	pos2=RP	5	nmod	_	O
+5	romo	romo	NNP	pos2=GW	3	dobj	_	O
+6	u	u	RP	pos2=TO	3	prt	_	O
+7	better	well	RB	pos2=RBR	8	advmod	_	O
+8	make	make	VB	_	0	root	_	O
+9	sure	sure	JJ	_	11	acomp	_	O
+10	u	u	PRP	pos2=-RRB-	11	nsubj	_	O
+11	get	get	VB	pos2=VBP	8	ccomp	_	O
+12	AppleCare	applecare	NNP	_	11	dobj	_	U-ORG
+13	too	too	RB	_	14	advmod	_	O
+14	https://t.co/tSl6IBnYey	#hlink#	ADD	pos2=JJ	12	appos	_	O
+

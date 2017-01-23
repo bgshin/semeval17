@@ -1,0 +1,15 @@
+1	Tripoli	tripoli	NNP	_	5	poss	_	U-GPE
+2	's	's	POS	_	1	case	_	O
+3	Al	al	NNP	_	5	compound	_	B-ORG
+4	-	-	HYPH	_	5	punct	_	I-ORG
+5	Ahli	ahli	NNP	_	6	nsubj	_	L-ORG
+6	wins	win	VBZ	_	0	root	_	O
+7	title	title	NN	_	6	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	2016	0	CD	_	14	nmod	_	U-CARDINAL
+10	Libyan	libyan	JJ	pos2=NNP	12	nmod	_	B-ORG
+11	Football	football	NNP	pos2=NN	12	compound	_	I-ORG
+12	Le	le	NNP	pos2=GW	14	nmod	_	L-ORG
+13	aguehttps://t.co/UwYeOYM96G#Libya	#hlink#	ADD	pos2=NNP	11	appos	_	O
+14	#News	#news	NNP	pos2=-RRB-	8	pobj	_	U-ORG
+

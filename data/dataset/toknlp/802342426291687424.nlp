@@ -1,0 +1,15 @@
+1	Very	very	RB	_	2	advmod	_	O
+2	helpful	helpful	JJ	_	14	nmod	_	O
+3	in	in	IN	_	2	prep	_	O
+4	planning	plan	VBG	pos2=NN	3	pcomp	_	O
+5	for	for	IN	_	4	prep	_	O
+6	how	how	WRB	pos2=NN	8	advmod	_	O
+7	to	to	TO	_	8	aux	_	O
+8	keep	keep	VB	_	5	pcomp	_	O
+9	moving	move	VBG	_	8	xcomp	_	O
+10	forward	forward	RB	_	9	advmod	_	O
+11	in	in	IN	_	9	prep	_	O
+12	#caringcommunity	#caringcommunity	GW	pos2=XX	11	pobj	_	U-GPE
+13	#peacebmindful	#peacebmindful	GW	pos2=-LRB-	14	nmod	_	O
+14	https://t.co/xb9FKbPcGT	#hlink#	ADD	pos2=NN	0	root	_	O
+

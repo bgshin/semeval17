@@ -1,0 +1,11 @@
+1	Director	director	NNP	pos2=NN	7	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	National	national	NNP	_	6	compound	_	O
+4	Intelligence	intelligence	NNP	_	6	compound	_	O
+5	James	james	NNP	_	6	compound	_	B-PERSON
+6	Clapper	clapper	NNP	_	2	pobj	_	L-PERSON
+7	Resigns	resign	VBZ	pos2=NNP	0	root	_	O
+8	https://t.co/I3DrNSK6mq#TrumpRiots	#hlink#	ADD	_	7	dobj	_	O
+9	#TrumpTransition	#trumptransition	ADD	pos2=-RRB-	7	dobj	_	O
+10	#TrumpTransitionTeam	#trumptransitionteam	ADD	pos2=NN	9	pobj	_	O
+

@@ -1,0 +1,20 @@
+1	Bookends	bookend	NNS	pos2=NNP	0	root	_	O
+2	to	to	IN	_	1	prep	_	O
+3	a	a	DT	_	5	det	_	O
+4	Disastrous	disastrous	JJ	pos2=NNP	5	nmod	_	O
+5	Presid	presid	NNP	pos2=GW	2	pobj	_	O
+6	encyhttps://t.co/OXdnZ86rvD	#hlink#	ADD	_	5	appos	_	O
+7	#Obama	#obama	NNP	pos2=PRP	12	poss	_	U-ORG
+8	's	's	POS	pos2=VBZ	7	case	_	O
+9	pathetic	pathetic	JJ	_	12	nmod	_	O
+10	final	final	JJ	_	12	nmod	_	O
+11	non-victory	non-victory	JJ	_	12	nmod	_	O
+12	lap	lap	NN	_	16	acl	_	O
+13	around	around	IN	_	12	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	world	world	NN	_	13	pobj	_	O
+16	.	.	.	_	1	punct	_	O
+
+1	#UniteBlue	#uniteblue	ADD	pos2=NN	2	det	_	O
+2	#TCOT	#tcot	NN	pos2=ADD	0	root	_	O
+

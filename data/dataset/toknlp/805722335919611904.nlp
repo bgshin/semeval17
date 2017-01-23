@@ -1,0 +1,23 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	@UN	@un	NN	pos2=NNP	4	nsubjpass	_	O
+2	was	be	VBD	_	4	auxpass	_	O
+3	not	not	RB	_	4	neg	_	O
+4	created	create	VBN	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	protect	protect	VB	_	4	advcl	_	O
+7	terrorists	terrorist	NNS	_	6	dobj	_	O
+8	or	or	CC	_	6	cc	_	O
+9	to	to	TO	_	10	aux	_	O
+10	support	support	VB	_	6	conj	_	O
+11	resolutions	resolution	NNS	_	10	dobj	_	O
+12	from	from	IN	_	11	prep	_	O
+13	countries	country	NNS	_	12	pobj	_	O
+14	that	that	WDT	pos2=IN	15	nsubj	_	O
+15	finance	finance	VBP	pos2=NN	13	relcl	_	O
+16	terrorism	terrorism	NN	_	15	dobj	_	O
+17	…	…	NFP	pos2=-LRB-	18	punct	_	O
+18	https://t.co/tef8w7KM8z	#hlink#	ADD	_	15	dep	_	O
+

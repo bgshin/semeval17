@@ -1,0 +1,14 @@
+1	@_	@_	SYM	pos2=NFP	5	punct	_	O
+2	Four_Horsemen	four_horsemen	NNP	pos2=NNS	3	compound	_	O
+3	@Independent	@independent	NNP	pos2=POS	5	compound	_	O
+4	Death	death	NN	_	5	compound	_	O
+5	penalty	penalty	NN	_	0	root	_	O
+6	for	for	IN	_	5	prep	_	O
+7	imaginary	imaginary	JJ	_	8	nmod	_	O
+8	crimes	crime	NNS	_	6	pobj	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	Simply	simply	RB	_	2	advmod	_	O
+2	barbaric	barbaric	JJ	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+

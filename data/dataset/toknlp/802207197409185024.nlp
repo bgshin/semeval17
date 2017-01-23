@@ -1,0 +1,10 @@
+1	ICYMI	icymi	NN	pos2=NNP	9	dep	_	O
+2	::	::	,	pos2=NFP	9	punct	_	O
+3	Valentine	valentine	NNP	_	6	poss	_	O
+4	's	's	POS	_	3	case	_	O
+5	Day	day	NNP	pos2=NN	6	compound	_	B-ORG
+6	Swap	swap	NN	pos2=GW	7	dep	_	L-ORG
+7	https://t.co/hXoJPHtJNd	#hlink#	ADD	_	9	dep	_	O
+8	#bloggers	#bloggers	NNS	pos2=VBZ	9	compound	_	O
+9	#lbloggers	#lbloggers	NNS	pos2=UH	0	root	_	O
+

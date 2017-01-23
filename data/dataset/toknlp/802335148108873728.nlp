@@ -1,0 +1,29 @@
+1	@EntheosShines	@entheosshines	VBZ	pos2=NNS	0	root	_	O
+2	Kim	kim	NNP	_	4	compound	_	B-PERSON
+3	Jong	jong	NNP	_	4	compound	_	I-PERSON
+4	Un	un	NNP	_	5	nsubj	_	L-PERSON
+5	wishes	wish	VBZ	_	1	ccomp	_	O
+6	his	his	PRP$	_	7	poss	_	O
+7	propaganda	propaganda	NN	_	8	nsubj	_	O
+8	was	be	VBD	_	5	ccomp	_	O
+9	a	a	DT	pos2=RB	10	det	_	O
+10	good	good	JJ	pos2=NN	8	attr	_	O
+11	as	as	IN	_	10	prep	_	O
+12	this	this	DT	_	11	pobj	_	O
+13	.	.	.	_	1	punct	_	O
+
+1	BHO	bho	NNP	pos2=NN	3	nsubj	_	U-ORG
+2	never	never	RB	_	3	neg	_	O
+3	uses	use	VBZ	_	9	ccomp	_	O
+4	the	the	DT	_	5	det	_	O
+5	restroom	restroom	NN	_	3	dobj	_	O
+6	either	either	RB	pos2=CC	3	advmod	_	O
+7	,	,	,	_	9	punct	_	O
+8	We	we	PRP	_	9	nsubj	_	O
+9	believe	believe	VBP	_	0	root	_	O
+10	that	that	DT	pos2=IN	9	dobj	_	O
+11	.	.	.	_	9	punct	_	O
+
+1	Wink	wink	NN	pos2=NNP	2	compound	_	O
+2	wink	wink	NN	_	0	root	_	O
+

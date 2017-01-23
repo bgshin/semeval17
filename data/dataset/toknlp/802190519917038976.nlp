@@ -1,0 +1,20 @@
+1	Trump	trump	NN	pos2=NNP	3	nsubj	_	U-ORG
+2	has	have	VBZ	_	3	aux	_	O
+3	been	be	VBN	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	recipient	recipient	NN	_	3	attr	_	O
+6	of	of	IN	_	5	prep	_	O
+7	generous	generous	JJ	_	9	nmod	_	O
+8	political	political	JJ	_	9	nmod	_	O
+9	contributions	contribution	NNS	_	6	pobj	_	O
+10	from	from	IN	_	9	prep	_	O
+11	Energy	energy	NNP	pos2=NN	12	nmod	_	B-ORG
+12	Transfer	transfer	NNP	pos2=NN	14	nmod	_	L-ORG
+13	chief	chief	JJ	pos2=NN	14	nmod	_	O
+14	executive	executive	NN	pos2=JJ	16	compound	_	O
+15	Kelcy	kelcy	NNP	_	16	compound	_	B-PERSON
+16	Warren	warren	NNP	_	10	pobj	_	L-PERSON
+17	.	.	.	_	3	punct	_	O
+
+1	https://t.co/VxuikVncBN	#hlink#	ADD	_	0	root	_	U-ORG
+

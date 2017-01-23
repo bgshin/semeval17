@@ -1,0 +1,21 @@
+1	@SenateDems	@senatedems	NNS	pos2=ADD	6	nsubj	_	O
+2	@SenateGOP	@senategop	IN	pos2=POS	1	prep	_	O
+3	drug	drug	NN	_	4	compound	_	O
+4	prices	price	NNS	_	2	pobj	_	O
+5	are	be	VBP	_	6	aux	_	O
+6	damaging	damage	VBG	pos2=JJ	0	root	_	O
+7	American	american	JJ	pos2=NNP	9	nmod	_	U-NORP
+8	health	health	NN	_	9	compound	_	O
+9	systems	system	NNS	_	6	dobj	_	O
+10	.	.	.	_	6	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	AUDIT	audit	NN	_	2	dobj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	MEDICARE	medicare	NNP	pos2=NN	8	compound	_	U-ORG
+6	drug	drug	NN	_	7	compound	_	O
+7	price	price	NN	_	8	compound	_	O
+8	hikes	hike	NNS	_	4	pobj	_	O
+9	https://t.co/fwazyRnAsY	#hlink#	ADD	_	2	dep	_	O
+

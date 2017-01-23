@@ -1,0 +1,25 @@
+1	Kremlin	kremlin	NNP	pos2=NN	4	compound	_	U-ORG
+2	media	medium	NNS	pos2=NN	3	compound	_	O
+3	troll	troll	NN	_	4	compound	_	O
+4	houses	house	NNS	pos2=VBZ	5	nsubj	_	O
+5	pushed	push	VBD	_	0	root	_	O
+6	support	support	NN	_	5	dobj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	trump	trump	NN	_	7	pobj	_	O
+9	and	and	CC	_	5	cc	_	O
+10	crucified	crucify	VBN	pos2=VBD	5	conj	_	O
+11	Clinton	clinton	NNP	_	10	dobj	_	U-PERSON
+12	.	.	.	_	5	punct	_	O
+
+1	All	all	DT	pos2=RB	11	dep	_	O
+2	because	because	IN	_	6	mark	_	O
+3	Putin	putin	NNP	_	6	nsubj	_	U-PERSON
+4	did	do	VBD	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	want	want	VB	_	11	advcl	_	O
+7	to	to	TO	_	8	aux	_	O
+8	see	see	VB	_	6	xcomp	_	O
+9	We	we	PRP	_	11	nmod	_	O
+10	…	…	NFP	pos2=-LRB-	11	punct	_	O
+11	https://t.co/ppcm40zMa9	#hlink#	ADD	_	0	root	_	O
+

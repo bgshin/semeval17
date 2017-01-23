@@ -1,0 +1,20 @@
+1	Poroshenko	poroshenko	NNP	pos2=FW	3	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	rating	rating	NN	_	4	nsubj	_	O
+4	dipped	dip	VBD	pos2=VBN	0	root	_	O
+5	to	to	IN	_	4	prep	_	O
+6	11	0	CD	_	7	nmod	_	B-PERCENT
+7	%	%	NN	_	5	pobj	_	L-PERCENT
+8	,	,	,	_	4	punct	_	O
+9	less	less	JJR	pos2=RBR	7	nmod	_	O
+10	than	than	IN	_	9	prep	_	O
+11	"	"	``	_	19	punct	_	O
+12	unpopular	unpopular	JJ	_	19	nmod	_	O
+13	"	"	''	_	16	punct	_	O
+14	Yanukovich	yanukovich	NNP	_	16	nsubj	_	U-PERSON
+15	ever	ever	RB	_	16	advmod	_	O
+16	had	have	VBD	pos2=VBN	18	qmod	_	O
+17	-	-	SYM	pos2=HYPH	18	punct	_	O
+18	17	0	CD	_	19	nmod	_	B-PERCENT
+19	%	%	NN	_	10	pobj	_	L-PERCENT
+

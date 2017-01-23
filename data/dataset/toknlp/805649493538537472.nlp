@@ -1,0 +1,8 @@
+1	@austin_durbs	@austin_durbs	UH	pos2=NNS	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	drink	drink	VBP	_	0	root	_	O
+4	Gold	gold	NN	pos2=NNP	6	compound	_	B-ORG
+5	Standard	standard	NNP	pos2=JJ	6	compound	_	I-ORG
+6	Whey	whey	NNP	pos2=NN	3	dobj	_	L-ORG
+7	.	.	.	_	3	punct	_	O
+

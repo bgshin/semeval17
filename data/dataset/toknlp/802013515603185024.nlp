@@ -1,0 +1,26 @@
+1	Lopetegui	lopetegui	NNP	pos2=CD	5	vocative	_	U-PERSON
+2	:	:	:	_	4	punct	_	O
+3	"	"	``	_	8	punct	_	O
+4	The	the	DT	_	5	det	_	O
+5	things	thing	NNS	_	17	nsubj	_	O
+6	that	that	WDT	_	8	dobj	_	O
+7	Messi	messi	NNP	_	8	nsubj	_	U-PERSON
+8	does	do	VBZ	_	5	relcl	_	O
+9	and	and	CC	_	10	cc	_	O
+10	with	with	IN	_	17	prep	_	O
+11	such	such	JJ	_	12	nmod	_	O
+12	consistency	consistency	NN	_	10	pobj	_	O
+13	,	,	,	_	17	punct	_	O
+14	I	I	PRP	_	17	nsubj	_	O
+15	have	have	VBP	_	17	aux	_	O
+16	n't	not	RB	_	17	neg	_	O
+17	seen	see	VBN	_	0	root	_	O
+18	anyone	anyone	NN	_	19	nsubj	_	O
+19	do	do	VB	pos2=VBP	17	ccomp	_	O
+20	that	that	DT	pos2=IN	22	det	_	O
+21	"	"	``	pos2=''	22	punct	_	O
+22	#fcblive	#fcblive	NN	pos2=JJ	19	dobj	_	O
+23	[	[	-LRB-	_	24	punct	_	O
+24	cope	cope	VB	pos2=NN	22	parataxis	_	O
+25	]	]	-RRB-	_	24	punct	_	O
+

@@ -1,0 +1,16 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=ADD	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	from	from	IN	_	2	prep	_	O
+7	@barnacules	@barnacules	NNS	pos2=ADD	6	pobj	_	O
+8	https://t.co/AO0cqxuBsG	#hlink#	ADD	pos2=VBP	5	acl	_	O
+9	3	0	CD	_	11	nmod	_	U-CARDINAL
+10	D	d	NNP	pos2=NN	11	compound	_	O
+11	Printing	printing	NNP	pos2=VBG	15	dep	_	O
+12	Fully	fully	RB	pos2=NNP	13	advmod	_	O
+13	Functional	functional	JJ	pos2=NNP	15	nmod	_	O
+14	Platform	platform	NNP	pos2=NN	15	compound	_	O
+15	Jack	jack	NNP	_	0	root	_	O
+

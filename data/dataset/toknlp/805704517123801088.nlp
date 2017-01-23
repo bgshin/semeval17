@@ -1,0 +1,22 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@DailyMailUK	@dailymailuk	JJ	pos2=DT	3	nmod	_	O
+2	front	front	JJ	pos2=NN	3	nmod	_	O
+3	page	page	NN	_	19	dep	_	O
+4	|	|	SYM	pos2=,	19	punct	_	O
+5	Swear	swear	VB	pos2=VBP	0	root	_	O
+6	oath	oath	NN	_	5	dobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	live	live	VB	_	5	advcl	_	O
+9	in	in	IN	_	8	prep	_	O
+10	Britain	britain	NNP	_	9	pobj	_	U-GPE
+11	(	(	-LRB-	_	16	punct	_	O
+12	@jackwdoyle	@jackwdoyle	UH	pos2=ADD	8	discourse	_	O
+13	@martinskog	@martinskog	UH	pos2=FW	8	discourse	_	O
+14	&	&	CC	_	10	cc	_	O
+15	Ian	ian	NNP	_	16	compound	_	B-PERSON
+16	Drury	drury	NNP	_	19	dep	_	L-PERSON
+17	)	)	-RRB-	_	16	punct	_	O
+18	…	…	NFP	pos2=:	19	punct	_	O
+19	https://t.co/t6d89u7xW2	#hlink#	ADD	pos2=NN	0	root	_	O
+

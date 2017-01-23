@@ -1,0 +1,12 @@
+1	4.	0.	LS	_	2	meta	_	U-CARDINAL
+2	Babette3	babette0	NN	pos2=NNS	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Kirk2	kirk0	LS	pos2=NN	0	root	_	U-CARDINAL
+2	.	.	.	_	1	punct	_	O
+
+1	Emily1	emily0	NN	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Sookie#GilmoreGirlsTop4	sookie#gilmoregirlstop0	NN	pos2=ADD	0	root	_	O
+

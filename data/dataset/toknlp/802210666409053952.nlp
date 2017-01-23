@@ -1,0 +1,11 @@
+1	Kathleen	kathleen	NNP	_	2	compound	_	B-PERSON
+2	McFarland	mcfarland	NNP	_	5	dep	_	L-PERSON
+3	:	:	:	_	5	punct	_	O
+4	#Putin	#putin	NNP	pos2=NN	5	nsubj	_	U-ORG
+5	deserves	deserve	VBZ	_	0	root	_	O
+6	the	the	DT	_	9	det	_	B-WORK_OF_ART
+7	Nobel	nobel	NNP	_	9	compound	_	I-WORK_OF_ART
+8	Peace	peace	NNP	_	9	compound	_	I-WORK_OF_ART
+9	Prize	prize	NNP	_	5	dobj	_	L-WORK_OF_ART
+10	https://t.co/u0jMPB4rRO	#hlink#	ADD	_	9	appos	_	O
+

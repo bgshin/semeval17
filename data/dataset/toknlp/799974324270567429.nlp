@@ -1,0 +1,25 @@
+1	Well	well	UH	_	3	discourse	_	O
+2	that	that	DT	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	something	something	NN	_	3	attr	_	O
+5	I	I	PRP	_	7	nsubj	_	O
+6	never	never	RB	_	7	neg	_	O
+7	expected	expect	VBD	_	4	relcl	_	O
+8	2	0	CD	pos2=TO	9	nmod	_	U-CARDINAL
+9	read	read	VBN	pos2=VB	4	relcl	_	O
+10	!	!	.	_	3	punct	_	O
+
+1	Microsoft	microsoft	NNP	_	5	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	#Linux	#linux	NNP	pos2=JJ	5	compound	_	U-ORG
+4	love	love	NN	_	5	compound	_	O
+5	affair	affair	NN	_	6	nsubj	_	O
+6	leads	lead	VBZ	_	0	root	_	O
+7	it	it	PRP	_	6	dobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	join	join	VB	_	6	xcomp	_	O
+10	The	the	DT	pos2=NNP	12	det	_	B-ORG
+11	Linux	linux	NNP	_	12	compound	_	I-ORG
+12	Foundation	foundation	NNP	pos2=NN	13	nmod	_	L-ORG
+13	https://t.co/dS8yEJS4mk	#hlink#	ADD	_	9	dobj	_	O
+

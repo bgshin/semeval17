@@ -1,0 +1,9 @@
+1	School	school	NN	pos2=NNP	5	nsubj	_	O
+2	in	in	IN	_	1	prep	_	O
+3	Hogwarts	hogwarts	NNP	_	2	pobj	_	U-GPE
+4	probably	probably	RB	_	5	advmod	_	O
+5	😇	😇	VBP	pos2=VBD	0	root	_	O
+6	#HARRYPOTTER	#harrypotter	NNP	pos2=$	7	compound	_	U-ORG
+7	#FantasticBeasts	#fantasticbeasts	NNS	pos2=ADD	5	dobj	_	O
+8	💜	💜	.	pos2=NN	5	punct	_	O
+

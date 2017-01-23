@@ -1,0 +1,6 @@
+1	The	the	DT	_	4	det	_	B-PERSON
+2	First	#ord#	NNP	pos2=JJ	4	compound	_	I-PERSON
+3	Self-Driving	self-driving	NNP	pos2=JJ	4	compound	_	I-PERSON
+4	Ci	ci	NNP	pos2=GW	5	nmod	_	L-PERSON
+5	tieshttps://t.co/JRWte39eXl	#hlink#	ADD	_	0	root	_	O
+

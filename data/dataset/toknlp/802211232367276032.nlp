@@ -1,0 +1,8 @@
+1	@SenJohnMcCain	@senjohnmccain	ADD	pos2=NN	5	punct	_	U-GPE
+2	@MarkSalter55	@marksalter0	NN	pos2=NNS	4	compound	_	O
+3	@WSJ	@wsj	NNP	pos2=XX	4	compound	_	O
+4	Plez	plez	NNP	pos2=TO	5	nsubj	_	O
+5	fight	fight	VB	pos2=VBP	0	root	_	O
+6	Putin	putin	NNP	_	5	dobj	_	U-PERSON
+7	!	!	.	_	5	punct	_	O
+

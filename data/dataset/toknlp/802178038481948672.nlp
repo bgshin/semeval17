@@ -1,0 +1,22 @@
+1	@yaycapitalism	@yaycapitalism	UH	pos2=IN	4	discourse	_	O
+2	The	the	DT	_	6	det	_	O
+3	real	real	JJ	_	4	nmod	_	O
+4	axis	axis	NN	_	6	nsubj	_	O
+5	=	=	SYM	pos2=IN	6	punct	_	O
+6	Equality	equality	NN	_	9	nsubj	_	O
+7	vs	vs	CC	pos2=NN	6	cc	_	O
+8	Hierarchy	hierarchy	NN	pos2=NNP	6	conj	_	O
+9	.	.	.	_	0	root	_	O
+
+1	Translates	translate	VBZ	_	0	root	_	O
+2	to	to	IN	_	1	prep	_	O
+3	leftists	leftist	NNS	_	2	pobj	_	O
+4	demanding	demand	VBG	_	3	acl	_	O
+5	forced	force	VBN	_	6	nmod	_	O
+6	equality	equality	NN	_	4	dobj	_	O
+7	&	&	CC	_	6	cc	_	O
+8	rightists	rightist	NNS	_	6	conj	_	O
+9	comfortable	comfortable	JJ	pos2=VBP	8	nmod	_	O
+10	w	w	IN	_	9	prep	_	O
+11	inequality	inequality	NN	_	10	pobj	_	O
+

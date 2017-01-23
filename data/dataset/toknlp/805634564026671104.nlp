@@ -1,0 +1,6 @@
+1	Pope	pope	NNP	_	2	compound	_	O
+2	Francis	francis	NNP	_	3	nsubj	_	U-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	dog	dog	NN	_	5	compound	_	O
+5	shit	shit	NN	_	3	attr	_	O
+

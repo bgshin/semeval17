@@ -1,0 +1,18 @@
+1	@AmericanJohhny	@americanjohhny	ADD	pos2=XX	12	prep	_	O
+2	@autoengmike	@autoengmike	UH	pos2=IN	12	discourse	_	O
+3	@FShagW	@fshagw	ADD	pos2=UH	12	prep	_	O
+4	@Jeff257	@jeff0	NN	pos2=NNS	3	pobj	_	O
+5	@DremaWhite	@dremawhite	ADD	pos2=NN	4	cc	_	U-NORP
+6	@ConversationUS	@conversationus	NN	pos2=CC	5	pobj	_	O
+7	n	n	CC	pos2=IN	9	advmod	_	O
+8	we	we	PRP	_	9	nsubj	_	O
+9	ve	ve	VBP	_	12	aux	_	O
+10	always	always	RB	_	9	advmod	_	O
+11	ben	ben	NNP	pos2=VBN	12	nsubj	_	U-PERSON
+12	told	tell	VBD	pos2=VBN	0	root	_	O
+13	dems	dems	NNS	pos2=PRP	12	dobj	_	O
+14	were	be	VBD	_	12	ccomp	_	O
+15	the	the	DT	_	16	det	_	O
+16	nazis	nazi	NNS	pos2=NN	14	attr	_	O
+17	https://t.co/4WJmSBLL70	#hlink#	ADD	_	13	appos	_	O
+

@@ -1,0 +1,26 @@
+1	*	*	SYM	pos2=NFP	8	punct	_	O
+2	Ben	ben	NNP	_	3	compound	_	B-PERSON
+3	Carson	carson	NNP	_	8	nsubj	_	L-PERSON
+4	whisper	whisper	NN	pos2=JJ	5	compound	_	O
+5	voice	voice	NN	_	3	appos	_	O
+6	*	*	SYM	pos2=NFP	8	punct	_	O
+7	America	america	NNP	_	8	nsubj	_	U-GPE
+8	needs	need	VBZ	_	23	ccomp	_	O
+9	these	these	DT	_	10	det	_	O
+10	hands	hand	NNS	_	8	dobj	_	O
+11	more	more	RBR	pos2=JJR	8	advmod	_	O
+12	than	than	IN	_	11	prep	_	O
+13	ever	ever	RB	pos2=PRP$	12	pcomp	_	O
+14	Movie	movie	NNP	_	16	compound	_	O
+15	Theater	theater	NNP	_	16	compound	_	O
+16	Ticket	ticket	NNP	pos2=NN	17	compound	_	O
+17	Taker	taker	NN	pos2=NNP	12	pobj	_	O
+18	:	:	:	_	23	punct	_	O
+19	sir	sir	NN	pos2=NNP	23	vocative	_	O
+20	,	,	,	_	23	punct	_	O
+21	your	your	PRP$	_	22	poss	_	O
+22	movie	movie	NN	_	23	nsubj	_	O
+23	started	start	VBD	pos2=VBN	0	root	_	O
+24	20minutes	0minutes	NNS	_	25	npadvmod	_	B-DATE
+25	ago	ago	RB	_	23	advmod	_	L-DATE
+

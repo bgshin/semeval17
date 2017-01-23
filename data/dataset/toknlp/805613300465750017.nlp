@@ -1,0 +1,18 @@
+1	BUY	buy	VB	pos2=NN	0	root	_	O
+2	medical	medical	JJ	_	3	nmod	_	O
+3	marijuana	marijuana	NN	_	1	dobj	_	O
+4	,	,	,	_	3	punct	_	O
+5	CANNABIS	cannabis	NN	_	6	compound	_	O
+6	OIL	oil	NN	_	3	conj	_	O
+7	,	,	,	_	6	punct	_	O
+8	moon	moon	NN	pos2=JJ	9	compound	_	O
+9	rocks	rock	NNS	_	6	conj	_	O
+10	AND	and	CC	_	9	cc	_	O
+11	SEEDS	seed	NNS	_	9	conj	_	O
+12	AT	at	IN	_	1	prep	_	O
+13	VERY	very	RB	_	14	advmod	_	O
+14	GOOD	good	JJ	_	15	nmod	_	O
+15	PRICES	price	NNS	pos2=GW	12	pobj	_	O
+16	https://t.co/JAKDnlCnQe	#hlink#	ADD	_	17	nmod	_	U-TIME
+17	https://t.co/LBxvRb4P4p	#hlink#	ADD	_	12	pobj	_	U-ORG
+

@@ -1,0 +1,24 @@
+1	@DavidJuurlink	@davidjuurlink	VB	pos2=XX	0	root	_	O
+2	@brycepardo	@brycepardo	IN	pos2=UH	4	mark	_	O
+3	We	we	PRP	_	4	nsubj	_	O
+4	need	need	VBP	pos2=MD	1	advcl	_	O
+5	stop	stop	VB	pos2=NN	4	xcomp	_	O
+6	bad	bad	JJ	_	7	nmod	_	O
+7	medicine	medicine	NN	_	5	dobj	_	O
+8	before	before	IN	_	10	mark	_	O
+9	we	we	PRP	_	10	nsubj	_	O
+10	stop	stop	VBP	pos2=VB	4	advcl	_	O
+11	'	'	``	pos2=POS	13	punct	_	O
+12	bad	bad	JJ	_	13	nmod	_	O
+13	hombres	hombre	NNS	_	10	dobj	_	O
+14	'	'	''	_	1	punct	_	O
+15	.	.	.	_	1	punct	_	O
+
+1	Otherwise	otherwise	RB	_	6	advmod	_	O
+2	,	,	,	_	6	punct	_	O
+3	the	the	DT	_	4	det	_	O
+4	crisis	crisis	NN	_	6	nsubj	_	O
+5	will	will	MD	_	6	aux	_	O
+6	continue	continue	VB	_	0	root	_	O
+7	.	.	.	_	6	punct	_	O
+

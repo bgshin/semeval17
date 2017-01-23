@@ -1,0 +1,22 @@
+1	As	as	IN	_	7	prep	_	O
+2	an	an	DT	_	4	det	_	O
+3	emoji	emoji	NN	_	4	compound	_	O
+4	user	user	NN	_	1	pobj	_	O
+5	,	,	,	_	7	punct	_	O
+6	I	I	PRP	_	7	nsubj	_	O
+7	am	be	VBP	_	0	root	_	O
+8	thrilled	thrilled	JJ	pos2=VBN	7	acomp	_	O
+9	there	there	EX	_	10	expl	_	O
+10	is	be	VBZ	_	8	ccomp	_	O
+11	a	a	DT	_	15	det	_	O
+12	"	"	``	_	15	punct	_	O
+13	heil	heil	NN	pos2=NNP	15	nmod	_	O
+14	"	"	''	_	15	punct	_	O
+15	emoji	emoji	NN	_	10	attr	_	O
+16	!	!	.	_	7	punct	_	O
+
+1	🙋	🙋	NFP	pos2=NN	4	punct	_	O
+2	lol	lol	UH	_	4	nmod	_	O
+3	#nazi	#nazi	GW	pos2=UH	4	nmod	_	O
+4	https://t.co/jubIDb1qtS	#hlink#	ADD	pos2=NN	0	root	_	O
+

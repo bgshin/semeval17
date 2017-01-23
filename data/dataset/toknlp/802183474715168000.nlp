@@ -1,0 +1,19 @@
+1	Competition	competition	NN	pos2=NNP	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	#BMW	#bmw	JJ	pos2=NNP	4	nmod	_	O
+4	cars	car	NNS	_	2	pobj	_	O
+5	in	in	IN	_	1	prep	_	O
+6	#Benghazi	#benghazi	NNP	pos2=NNS	8	compound	_	B-DATE
+7	-	-	HYPH	pos2=,	8	punct	_	I-DATE
+8	#ELkeesh	#elkeesh	NNP	pos2=XX	5	pobj	_	L-DATE
+9	..	..	.	pos2=NFP	1	punct	_	O
+
+1	#Friday	#friday	NNP	pos2=NN	8	dep	_	O
+2	25	0	CD	_	4	nmod	_	B-DATE
+3	-	-	HYPH	_	4	punct	_	I-DATE
+4	NOV	nov	NN	pos2=NNP	8	dep	_	I-DATE
+5	-	-	HYPH	pos2=:	1	punct	_	I-DATE
+6	2016	0	CD	pos2=GW	7	nmod	_	L-DATE
+7	#Libya	#libya	NNS	pos2=ADD	8	dep	_	O
+8	https://t.co/BFaEi7KfGR	#hlink#	ADD	pos2=NN	0	root	_	O
+

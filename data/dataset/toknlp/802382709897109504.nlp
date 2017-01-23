@@ -1,0 +1,19 @@
+1	Protest	protest	VB	pos2=NN	16	discourse	_	O
+2	Trump	trump	NNP	pos2=NN	5	compound	_	B-ORG
+3	laterProtest	laterprotest	NNP	pos2=POS	5	compound	_	L-ORG
+4	Obama	obama	NNP	_	5	compound	_	B-PERSON
+5	nowDAPL	nowdapl	NNP	pos2=POS	7	nsubjpass	_	L-PERSON
+6	is	be	VBZ	_	7	auxpass	_	O
+7	funded	fund	VBN	_	1	ccomp	_	O
+8	by	by	IN	_	7	agent	_	O
+9	prolific	prolific	JJ	pos2=NNP	11	nmod	_	O
+10	Dem	dem	NNP	pos2=NN	11	compound	_	B-ORG
+11	DonorsDAPL	donorsdapl	NNP	_	8	pobj	_	L-ORG
+12	will	will	MD	_	13	aux	_	O
+13	accelerate	accelerate	VB	_	1	conj	_	O
+14	ClimateChange	climatechange	NNP	_	13	dobj	_	U-ORG
+15	,	,	,	_	16	punct	_	O
+16	is	be	VBZ	_	0	root	_	O
+17	…	…	NFP	pos2=VBG	16	discourse	_	O
+18	https://t.co/k1ckWUlyFU	#hlink#	ADD	pos2=NN	16	attr	_	O
+

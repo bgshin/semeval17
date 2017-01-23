@@ -1,0 +1,25 @@
+1	Municipal	municipal	NNP	pos2=JJ	2	compound	_	B-ORG
+2	Guard	guard	NNP	_	12	nsubj	_	L-ORG
+3	in	in	IN	_	2	prep	_	O
+4	al	al	NNP	_	6	compound	_	B-GPE
+5	-	-	HYPH	_	6	punct	_	I-GPE
+6	Kuwaifiya	kuwaifiya	NNP	_	3	pobj	_	L-GPE
+7	(	(	-LRB-	_	8	punct	_	O
+8	West	west	NNP	pos2=RB	6	appos	_	O
+9	of	of	IN	_	8	prep	_	O
+10	#Benghazi	#benghazi	NNP	pos2=NNS	9	pobj	_	U-GPE
+11	)	)	-RRB-	_	8	punct	_	O
+12	dispose	dispose	NN	pos2=VB	0	root	_	O
+13	of	of	IN	_	12	prep	_	O
+14	13,000	0	CD	_	16	nmod	_	U-CARDINAL
+15	frozen	frozen	JJ	pos2=VBN	16	nmod	_	O
+16	chickens	chicken	NNS	_	13	pobj	_	O
+17	unfit	unfit	JJ	_	16	nmod	_	O
+18	for	for	IN	_	17	prep	_	O
+19	consumption	consumption	NN	_	18	pobj	_	O
+20	.	.	.	_	12	punct	_	O
+
+1	#Libya	#libya	NNP	pos2=GW	3	nmod	_	B-PERSON
+2	…	…	NFP	pos2=-LRB-	3	punct	_	L-PERSON
+3	https://t.co/PGPOIx9CSZ	#hlink#	ADD	_	0	root	_	O
+

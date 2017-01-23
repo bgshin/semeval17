@@ -1,0 +1,27 @@
+1	"	"	``	_	5	punct	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	support	support	VB	_	0	root	_	O
+6	animal	animal	NN	_	7	compound	_	O
+7	cruelty	cruelty	NN	_	5	dobj	_	O
+8	but	but	CC	_	5	cc	_	O
+9	I	I	PRP	_	10	nsubj	_	O
+10	'm	be	VBP	_	5	conj	_	O
+11	okay	okay	JJ	_	10	acomp	_	O
+12	with	with	IN	_	11	prep	_	O
+13	giving	give	VBG	_	12	pcomp	_	O
+14	my	my	PRP$	_	15	poss	_	O
+15	money	money	NN	_	13	dobj	_	O
+16	to	to	IN	_	13	dative	_	O
+17	companies	company	NNS	_	16	pobj	_	O
+18	that	that	WDT	_	19	nsubj	_	O
+19	do	do	VBP	_	17	relcl	_	O
+20	so	so	RB	_	19	advmod	_	O
+21	they	they	PRP	_	22	nsubj	_	O
+22	continue	continue	VBP	pos2=VB	19	conj	_	O
+23	testing	test	VBG	_	22	xcomp	_	O
+24	on	on	IN	_	23	prep	_	O
+25	…	…	NFP	pos2=-LRB-	24	pobj	_	O
+26	https://t.co/FJfROGYBc8	#hlink#	ADD	_	24	pobj	_	O
+

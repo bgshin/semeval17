@@ -1,0 +1,24 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	#NationalFastFoodDay	#nationalfastfoodday	TO	pos2=VBN	4	aux	_	O
+4	fill	fill	VB	pos2=VBP	2	xcomp	_	O
+5	up	up	RP	_	4	prt	_	O
+6	on	on	IN	_	4	prep	_	O
+7	greasy	greasy	JJ	_	8	nmod	_	O
+8	goodness	goodness	NN	_	6	pobj	_	O
+9	and	and	CC	_	4	cc	_	O
+10	then	then	RB	_	11	advmod	_	O
+11	settle	settle	VB	_	4	conj	_	O
+12	that	that	DT	pos2=IN	13	det	_	O
+13	stomach	stomach	NN	_	11	dobj	_	O
+14	with	with	IN	_	11	prep	_	O
+15	our	our	PRP$	_	18	poss	_	O
+16	Nana	nana	NNP	_	18	compound	_	B-PERSON
+17	Mint	mint	NNP	_	18	compound	_	I-PERSON
+18	Ginger	ginger	NNP	_	14	pobj	_	L-PERSON
+19	with	with	IN	_	18	prep	_	O
+20	Lemon	lemon	NNP	_	21	compound	_	B-ORG
+21	Signature	signature	NNP	pos2=NN	22	compound	_	I-ORG
+22	Tea	tea	NNP	pos2=NN	19	pobj	_	L-ORG
+23	!	!	.	_	2	punct	_	O
+

@@ -1,0 +1,15 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	a	a	DT	_	7	det	_	O
+4	nationwide	nationwide	JJ	pos2=RB	7	nmod	_	O
+5	voter	voter	NN	_	6	compound	_	O
+6	registration	registration	NN	_	7	compound	_	O
+7	reset	reset	NN	pos2=VB	2	dobj	_	O
+8	...	..	.	_	2	punct	_	O
+
+1	clean	clean	VB	pos2=JJ	0	root	_	O
+2	it	it	PRP	_	1	dobj	_	O
+3	up	up	RP	pos2=IN	1	prt	_	O
+4	now	now	RB	_	1	advmod	_	O
+5	https://t.co/xHCKszHnd0	#hlink#	ADD	_	1	dep	_	U-ORG
+

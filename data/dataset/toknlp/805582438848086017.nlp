@@ -1,0 +1,28 @@
+1	@MarkHubbard33	@markhubbard0	NN	pos2=NNS	2	nsubj	_	O
+2	did	do	VBD	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	any	any	DT	_	5	det	_	O
+5	good	good	NN	pos2=JJ	3	pobj	_	O
+6	was	be	VBD	_	7	auxpass	_	O
+7	kept	keep	VBN	_	2	dep	_	O
+8	Labour	labour	NNP	_	10	nmod	_	B-ORG
+9	/	/	SYM	pos2=HYPH	10	punct	_	I-ORG
+10	Greens	greens	NNP	pos2=NNS	7	dobj	_	L-ORG
+11	out	out	RP	pos2=RB	7	prt	_	O
+12	for	for	IN	_	7	prep	_	O
+13	3	0	CD	_	14	nmod	_	B-DATE
+14	years	year	NNS	_	12	pobj	_	L-DATE
+15	.	.	.	_	2	punct	_	O
+
+1	He	he	PRP	_	4	nsubj	_	O
+2	should	should	MD	_	4	aux	_	O
+3	have	have	VB	_	4	aux	_	O
+4	gone	go	VBN	_	11	ccomp	_	O
+5	4	0	CD	_	4	npadvmod	_	U-CARDINAL
+6	an	an	DT	_	9	det	_	O
+7	important	important	JJ	_	8	nmod	_	O
+8	rights	right	NNS	_	9	compound	_	O
+9	legacy	legacy	NN	_	11	dep	_	O
+10	:	:	:	_	11	punct	_	O
+11	#euthanasia	#euthanasia	NN	pos2=UH	0	root	_	O
+

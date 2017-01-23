@@ -1,0 +1,20 @@
+1	Former	former	JJ	_	3	nmod	_	O
+2	Swiss	swiss	NNP	pos2=JJ	3	compound	_	B-ORG
+3	Guard	guard	NNP	pos2=NN	8	nmod	_	L-ORG
+4	and	and	CC	_	3	cc	_	O
+5	businessman	businessman	NN	_	3	conj	_	O
+6	says	say	VBZ	_	0	root	_	O
+7	Pope	pope	NNP	_	8	compound	_	O
+8	Francis	francis	NNP	_	9	nsubj	_	U-PERSON
+9	is	be	VBZ	_	6	ccomp	_	O
+10	an	an	DT	_	11	det	_	O
+11	entrepreneur	entrepreneur	NN	_	9	attr	_	O
+12	who	who	WP	_	13	nsubj	_	O
+13	invests	invest	VBZ	_	11	relcl	_	O
+14	in	in	IN	_	13	prep	_	O
+15	the	the	DT	_	16	det	_	O
+16	poor	poor	JJ	_	14	pobj	_	O
+17	.	.	.	_	6	punct	_	O
+
+1	https://t.co/3dzHFppCD2	#hlink#	ADD	_	0	root	_	U-ORG
+

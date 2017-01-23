@@ -1,0 +1,26 @@
+1	Lighten	lighten	VB	_	0	root	_	O
+2	up	up	RP	pos2=RB	1	prt	_	O
+3	,	,	,	_	1	punct	_	O
+4	censors	censor	NNS	_	1	vocative	_	O
+5	in	in	IN	_	4	prep	_	O
+6	#China	#china	NNP	pos2=NN	5	pobj	_	U-GPE
+7	.	.	.	_	1	punct	_	O
+
+1	How	how	WRB	_	5	advmod	_	O
+2	can	can	MD	_	5	aux	_	O
+3	you	you	PRP	_	5	nsubj	_	O
+4	not	not	RB	_	5	neg	_	O
+5	love	love	VB	pos2=VBG	0	root	_	O
+6	the	the	DT	_	8	det	_	O
+7	#search	#search	``	pos2=JJ	8	punct	_	O
+8	term	term	NN	_	5	dobj	_	O
+9	'	'	''	pos2=POS	8	punct	_	O
+10	Fatty	fatty	JJ	pos2=NN	11	nmod	_	O
+11	#Kim	#kim	NNP	pos2=IN	8	appos	_	O
+12	the	the	DT	_	13	det	_	O
+13	Third	#ord#	NNP	pos2=JJ	11	appos	_	U-ORDINAL
+14	'	'	''	_	5	punct	_	O
+15	?	?	.	_	5	punct	_	O
+
+1	https://t.co/YIw0VS5Ojh	#hlink#	ADD	_	0	root	_	U-ORG
+

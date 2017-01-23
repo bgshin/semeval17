@@ -1,0 +1,19 @@
+1	An	an	DT	_	3	det	_	O
+2	Eastern	eastern	NNP	_	3	compound	_	B-PERSON
+3	Madkhali	madkhali	NNP	_	9	nsubjpass	_	L-PERSON
+4	"	"	``	pos2=''	9	punct	_	O
+5	The	the	DT	_	6	det	_	O
+6	Khawarij	khawarij	NNPS	pos2=NNP	9	nsubjpass	_	U-NORP
+7	should	should	MD	_	9	aux	_	O
+8	be	be	VB	_	9	auxpass	_	O
+9	killed	kill	VBN	_	0	root	_	O
+10	by	by	IN	_	9	agent	_	O
+11	the	the	DT	_	12	det	_	O
+12	ruler	ruler	NN	_	10	pobj	_	O
+13	or	or	CC	_	10	cc	_	O
+14	in	in	IN	_	10	conj	_	O
+15	jail	jail	NN	_	14	pobj	_	O
+16	"	"	''	pos2=``	9	punct	_	O
+17	#L	#l	NFP	pos2=-LRB-	18	punct	_	O
+18	ibyahttps://t.co/JbARIw1Vhu	#hlink#	ADD	_	9	dep	_	O
+

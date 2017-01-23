@@ -1,0 +1,10 @@
+1	Avail	avail	VB	pos2=NN	0	root	_	O
+2	#service	#service	NN	pos2=IN	1	dobj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	an	an	DT	_	6	det	_	O
+5	#Immigration	#immigration	NNP	pos2=NN	6	compound	_	U-PRODUCT
+6	#Consultant	#consultant	NN	pos2=NNP	3	pobj	_	O
+7	for	for	IN	_	1	prep	_	O
+8	Immigra	immigra	NNP	pos2=GW	7	pobj	_	O
+9	tionhttps://t.co/fZeCbmWhxc	#hlink#	ADD	pos2=NN	1	dep	_	O
+

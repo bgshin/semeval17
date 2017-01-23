@@ -1,0 +1,17 @@
+1	Cubs	cub	NNPS	pos2=JJ	3	compound	_	U-ORG
+2	lineup	lineup	NN	pos2=VBP	3	compound	_	O
+3	2017:LF	0:lf	NN	pos2=ADD	12	compound	_	U-DATE
+4	SchwarbsCF	schwarbscf	NNP	pos2=ADD	12	compound	_	O
+5	AlmoraRF	almorarf	NNP	pos2=XX	12	compound	_	O
+6	JHey3B	jhey0b	NNP	pos2=GW	12	compound	_	O
+7	KBSS	kbss	NNP	pos2=XX	12	compound	_	O
+8	Russell2B	russell0b	NNP	pos2=NNPS	12	compound	_	O
+9	Javy1B	javy0b	NNP	pos2=NNPS	12	compound	_	O
+10	RizzC	rizzc	NNP	_	12	compound	_	O
+11	Willywith	willywith	NNP	_	12	compound	_	B-PERSON
+12	Zo	zo	NNP	pos2=IN	0	root	_	L-PERSON
+13	the	the	DT	_	16	det	_	O
+14	drifting	drift	VBG	pos2=JJ	16	nmod	_	O
+15	platoon	platoon	NN	_	16	compound	_	O
+16	starter	starter	NN	_	12	appos	_	O
+

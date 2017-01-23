@@ -1,0 +1,31 @@
+1	When	when	WRB	_	3	advmod	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	'm	be	VBP	_	21	advcl	_	O
+4	in	in	IN	pos2=RB	3	prep	_	O
+5	public	public	JJ	pos2=NN	4	pobj	_	O
+6	and	and	CC	_	3	cc	_	O
+7	pull	pull	VB	pos2=VBP	3	conj	_	O
+8	a	a	DT	_	9	det	_	O
+9	pair	pair	NN	_	7	dobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	underwear	underwear	NN	_	10	pobj	_	O
+12	out	out	IN	_	7	prep	_	O
+13	of	of	IN	_	12	prep	_	O
+14	my	my	PRP$	_	16	poss	_	O
+15	sweatshirt	sweatshirt	NN	_	16	compound	_	O
+16	sleeve	sleeve	NN	_	13	pobj	_	O
+17	,	,	,	_	21	punct	_	O
+18	I	I	PRP	_	21	nsubj	_	O
+19	ca	can	MD	_	21	aux	_	O
+20	n't	not	RB	_	21	neg	_	O
+21	help	help	VB	_	0	root	_	O
+22	but	but	CC	pos2=RB	21	cc	_	O
+23	feel	feel	VB	_	21	conj	_	O
+24	like	like	IN	_	23	prep	_	O
+25	David	david	NNP	_	26	compound	_	B-PERSON
+26	Blaine	blaine	NNP	_	24	pobj	_	L-PERSON
+27	.	.	.	_	21	punct	_	O
+
+1	#magic	#magic	UH	pos2=JJ	2	discourse	_	O
+2	#static	#static	UH	pos2=JJ	0	root	_	O
+

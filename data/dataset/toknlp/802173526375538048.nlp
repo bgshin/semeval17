@@ -1,0 +1,20 @@
+1	Obvious	obvious	JJ	pos2=NNP	3	nmod	_	O
+2	Celine	celine	NNP	_	3	compound	_	B-PERSON
+3	Dion	dion	NNP	_	5	nsubj	_	L-PERSON
+4	should	should	MD	_	5	aux	_	O
+5	be	be	VB	_	0	root	_	O
+6	the	the	DT	_	10	det	_	O
+7	#BeautyAndTheBeast	#beautyandthebeast	JJ	pos2=NNP	10	nmod	_	O
+8	movie	movie	NN	_	10	compound	_	O
+9	sound	sound	NN	_	10	compound	_	O
+10	track	track	NN	_	5	attr	_	O
+11	..	..	.	pos2=,	5	punct	_	O
+
+1	come	come	VB	pos2=VBP	4	nsubj	_	O
+2	on	on	IN	pos2=RP	1	prep	_	O
+3	bitches	bitch	NNS	_	2	pobj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	her	her	PRP$	_	6	poss	_	O
+6	song	song	NN	_	4	attr	_	O
+7	😒	😒	,	pos2=NN	4	punct	_	O
+

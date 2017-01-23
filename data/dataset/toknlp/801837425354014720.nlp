@@ -1,0 +1,23 @@
+1	The	the	DT	_	3	det	_	O
+2	Real	real	NNP	pos2=JJ	3	compound	_	O
+3	Goal	goal	NNP	pos2=NN	9	nsubj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	Anti-Trump	anti-trump	NNP	pos2=JJ	7	compound	_	O
+7	Riots	riot	NNS	pos2=NNPS	4	pobj	_	O
+8	–	-	:	_	9	punct	_	O
+9	Eliminate	eliminate	VB	_	0	root	_	O
+10	the	the	DT	_	12	det	_	B-ORG
+11	Electoral	electoral	NNP	pos2=JJ	12	compound	_	I-ORG
+12	College	college	NNP	_	9	dobj	_	L-ORG
+13	and	and	CC	_	12	cc	_	O
+14	the	the	DT	_	15	det	_	O
+15	Constitution	constitution	NNP	_	12	conj	_	U-LAW
+16	Part	part	NNP	pos2=NN	20	dep	_	O
+17	Two	#crd#	CD	pos2=NNP	16	nmod	_	U-CARDINAL
+18	of	of	IN	_	16	prep	_	O
+19	Two	#crd#	CD	pos2=NNP	18	pobj	_	U-CARDINAL
+20	https://t.co/UEz6tydHY2	#hlink#	ADD	pos2=NNPS	15	appos	_	O
+21	Yep	yep	UH	_	20	discourse	_	O
+22	!	!	.	_	9	punct	_	O
+

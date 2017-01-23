@@ -1,0 +1,11 @@
+1	Time	time	NN	_	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	watch	watch	VB	_	1	relcl	_	O
+4	David	david	NNP	_	5	compound	_	B-PERSON
+5	Blaine	blaine	NNP	_	3	dobj	_	L-PERSON
+6	till	till	IN	_	3	prep	_	O
+7	5	0	CD	_	6	pobj	_	B-TIME
+8	in	in	IN	_	3	prep	_	I-TIME
+9	the	the	DT	_	10	det	_	I-TIME
+10	morning	morning	NN	_	8	pobj	_	L-TIME
+

@@ -1,0 +1,18 @@
+1	@MattHarvey33	@mattharvey0	UH	pos2=NN	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	hope	hope	VBP	_	0	root	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	carve	carve	VBP	_	3	ccomp	_	O
+6	up	up	RP	_	5	prt	_	O
+7	opposing	oppose	VBG	_	8	nmod	_	O
+8	lineups	lineup	NNS	_	5	dobj	_	O
+9	like	like	IN	_	8	prep	_	O
+10	that	that	DT	pos2=IN	9	pobj	_	O
+11	this	this	DT	_	12	det	_	B-DATE
+12	year	year	NN	_	5	npadvmod	_	L-DATE
+13	.	.	.	_	3	punct	_	O
+
+1	Cy	cy	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Young	young	NNP	pos2=JJ	3	dep	_	L-PERSON
+3	#ComeBackKing	#comebackking	ADD	pos2=NN	0	root	_	O
+

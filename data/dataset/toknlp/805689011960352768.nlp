@@ -1,0 +1,22 @@
+1	@theboltreport	@theboltreport	UH	pos2=XX	5	discourse	_	O
+2	@corybernardi	@corybernardi	UH	pos2=FW	5	discourse	_	O
+3	@SkyNewsAust	@skynewsaust	MD	pos2=VB	5	aux	_	O
+4	climate	climate	NN	_	5	nsubj	_	O
+5	change	change	VB	pos2=NN	0	root	_	O
+6	not	not	RB	_	9	neg	_	O
+7	the	the	DT	_	9	det	_	O
+8	only	only	JJ	_	9	nmod	_	O
+9	issue	issue	NN	_	5	dobj	_	O
+10	:	:	:	_	12	punct	_	O
+11	gay	gay	JJ	_	12	nmod	_	O
+12	marriage	marriage	NN	_	9	appos	_	O
+13	,	,	,	_	12	punct	_	O
+14	gun	gun	NN	_	15	compound	_	O
+15	laws	law	NNS	_	12	conj	_	O
+16	,	,	,	_	15	punct	_	O
+17	welfare	welfare	NN	_	18	compound	_	O
+18	reform	reform	NN	_	15	conj	_	O
+19	all	all	DT	pos2=RB	21	det	_	O
+20	causing	cause	VBG	_	21	nmod	_	O
+21	division	division	NN	_	12	npadvmod	_	O
+

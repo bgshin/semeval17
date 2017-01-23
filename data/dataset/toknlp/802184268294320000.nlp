@@ -1,0 +1,21 @@
+1	Betsy	betsy	NNP	_	2	compound	_	B-PERSON
+2	DeVos	devos	NNP	_	4	compound	_	L-PERSON
+3	nightmare	nightmare	NN	pos2=VB	4	compound	_	O
+4	dystopia	dystopia	NN	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	American	american	JJ	_	7	nmod	_	U-NORP
+7	schoolchildren	schoolchild	NNS	pos2=NN	5	pobj	_	O
+8	:	:	:	_	4	punct	_	O
+9	Into	into	IN	_	4	prep	_	O
+10	The	the	DT	_	11	det	_	O
+11	Sweatshop	sweatshop	NN	pos2=NNP	9	pobj	_	O
+12	With	with	IN	_	4	prep	_	O
+13	You	you	PRP	_	12	pobj	_	O
+14	!	!	.	_	4	punct	_	O
+
+1	#UniteBlue	#uniteblue	ADD	pos2=NN	5	dep	_	B-PERSON
+2	#Resist	#resist	NNP	pos2=GW	5	nmod	_	L-PERSON
+3	#p2	#p0	GW	pos2=NN	5	nmod	_	O
+4	…	…	NFP	pos2=GW	5	punct	_	O
+5	https://t.co/xfxGQXkP5C	#hlink#	ADD	_	0	root	_	O
+

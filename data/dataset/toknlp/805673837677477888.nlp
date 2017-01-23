@@ -1,0 +1,16 @@
+1	Shuddha	shuddha	NNP	pos2=FW	3	compound	_	B-ORG
+2	Gaali	gaali	NNP	_	3	compound	_	I-ORG
+3	Project	project	NNP	pos2=NN	4	nsubj	_	L-ORG
+4	commences	commence	VBZ	_	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	Mangaluru	mangaluru	NNP	_	5	pobj	_	U-GPE
+7	in	in	IN	_	4	prep	_	O
+8	association	association	NN	_	7	pobj	_	O
+9	with	with	IN	_	8	prep	_	O
+10	St	st	NNP	_	12	compound	_	B-ORG
+11	Georges	georges	NNP	_	12	compound	_	I-ORG
+12	Homeopathy	homeopathy	NNP	pos2=NN	9	pobj	_	L-ORG
+13	.	.	.	_	4	punct	_	O
+
+1	https://t.co/iG0Qlw2hKs	#hlink#	ADD	_	0	root	_	U-ORG
+

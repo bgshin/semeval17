@@ -1,0 +1,23 @@
+1	Three	#crd#	CD	_	2	nmod	_	B-DATE
+2	years	year	NNS	_	0	root	_	L-DATE
+3	of	of	IN	_	2	prep	_	O
+4	Midnight	midnight	NNP	pos2=NN	5	compound	_	B-ORG
+5	Memories	memories	NNP	pos2=NNPS	3	pobj	_	L-ORG
+6	?	?	.	_	2	punct	_	O
+
+1	My	my	PRP$	_	2	poss	_	O
+2	mind	mind	NN	_	4	nsubjpass	_	O
+3	is	be	VBZ	_	4	auxpass	_	O
+4	blown	blow	VBN	pos2=JJ	0	root	_	O
+5	and	and	CC	_	4	cc	_	O
+6	my	my	PRP$	_	7	poss	_	O
+7	heart	heart	NN	_	8	nsubj	_	O
+8	hurts	hurt	VBZ	_	4	conj	_	O
+9	.	.	.	_	8	punct	_	O
+
+1	#favoritealbum	#favoritealbum	UH	pos2=PRP	3	discourse	_	O
+2	#onedirection	#onedirection	UH	pos2=GW	3	discourse	_	O
+3	#timeflies	#timeflies	UH	pos2=NNS	0	root	_	O
+4	…	…	NFP	pos2=-LRB-	3	discourse	_	O
+5	https://t.co/ONsjwcExyy	#hlink#	ADD	_	3	dep	_	O
+

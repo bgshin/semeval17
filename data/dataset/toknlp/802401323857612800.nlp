@@ -1,0 +1,20 @@
+1	169	0	CD	pos2=LS	2	nmod	_	U-CARDINAL
+2	Members	member	NNS	_	6	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	Congress	congress	NNP	_	5	compound	_	B-ORG
+5	Issue	issue	NNP	pos2=NN	3	pobj	_	L-ORG
+6	DEMAND	demand	NN	_	0	root	_	O
+7	That	that	IN	pos2=DT	10	mark	_	O
+8	Trump	trump	NNP	_	10	nsubj	_	U-ORG
+9	IMMEDIATELY	immediately	RB	pos2=NNP	10	advmod	_	O
+10	Dismiss	dismiss	VB	pos2=VBP	6	ccomp	_	O
+11	Steve	steve	NNP	_	12	compound	_	B-PERSON
+12	Bannon	bannon	NNP	_	10	dobj	_	L-PERSON
+13	(	(	-LRB-	_	12	punct	_	O
+14	DETAILS	detail	NNS	pos2=GW	12	appos	_	O
+15	)	)	-RRB-	_	12	punct	_	O
+16	https://t.co/Wdb8X7KJ4I	#hlink#	ADD	pos2=VBP	10	dobj	_	O
+17	via	via	IN	_	10	prep	_	O
+18	@Bipartisan	@bipartisan	NNP	pos2=CD	19	compound	_	O
+19	Report	report	NN	pos2=NNP	17	pobj	_	O
+

@@ -1,0 +1,10 @@
+1	How	how	WRB	_	2	advmod	_	O
+2	cute	cute	JJ	_	4	acomp	_	O
+3	he	he	PRP	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	!!	!!	.	_	4	punct	_	O
+
+1	😫😫💕💕#FBNiffler	😫😫💕💕#fbniffler	GW	pos2=ADD	3	nmod	_	O
+2	#FantasticBeasts	#fantasticbeasts	GW	pos2=NNS	3	nmod	_	O
+3	https://t.co/PfdXUIr9l1	#hlink#	ADD	pos2=NN	0	root	_	O
+

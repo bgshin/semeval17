@@ -1,0 +1,7 @@
+1	"	"	``	pos2=SYM	5	punct	_	O
+2	Kim	kim	NNP	_	3	compound	_	B-PERSON
+3	Fatty	fatty	NNP	_	0	root	_	L-PERSON
+4	the	the	DT	_	5	det	_	O
+5	Third	#ord#	NNP	pos2=JJ	3	appos	_	U-ORDINAL
+6	"	"	''	pos2=``	5	punct	_	O
+

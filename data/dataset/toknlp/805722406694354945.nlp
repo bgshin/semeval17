@@ -1,0 +1,14 @@
+1	Syria	syria	NNP	_	4	nmod	_	U-GPE
+2	national	national	JJ	_	4	nmod	_	O
+3	defense	defense	NN	_	4	compound	_	O
+4	force	force	NN	_	5	nsubj	_	O
+5	destroys	destroy	VBZ	_	0	root	_	O
+6	sniper	sniper	NN	_	7	compound	_	O
+7	nest	nest	NN	_	5	dobj	_	O
+8	in	in	IN	_	5	prep	_	O
+9	Aleppo	aleppo	NNP	_	8	pobj	_	U-GPE
+10	/	/	GW	pos2=SYM	13	nmod	_	O
+11	Video	video	GW	pos2=NNP	12	nmod	_	O
+12	https://t.co/MRBuC6i2lU	#hlink#	ADD	pos2=GW	13	nmod	_	O
+13	https://t.co/yf2oOkc48F	#hlink#	ADD	_	5	dep	_	U-ORG
+

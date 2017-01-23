@@ -1,0 +1,12 @@
+1	regrann	regrann	NN	pos2=RB	11	dep	_	O
+2	from	from	IN	_	1	prep	_	O
+3	jpusbrasil	jpusbrasil	NN	pos2=JJ	11	dep	_	O
+4	-	-	HYPH	pos2=.	8	punct	_	O
+5	@ricky_martin	@ricky_martin	NNP	pos2=NN	8	compound	_	O
+6	#Matteo	#matteo	NNP	pos2=XX	8	compound	_	O
+7	#Valentino	#valentino	NNP	pos2=POS	8	compound	_	O
+8	#Moment	#moment	NNP	pos2=ADD	2	pobj	_	O
+9	#HappyThanksGiving	#happythanksgiving	VBG	pos2=GW	1	acl	_	O
+10	…	…	NFP	pos2=-LRB-	11	punct	_	O
+11	https://t.co/0nR8s0XLDo	#hlink#	ADD	_	0	root	_	O
+

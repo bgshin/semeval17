@@ -1,0 +1,25 @@
+1	Jihadists	jihadist	NNS	pos2=NNPS	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	another	another	DT	_	4	det	_	O
+4	bridge	bridge	NN	_	8	nsubjpass	_	O
+5	in	in	IN	pos2=RP	4	prep	_	O
+6	#Mosul	#mosul	NNP	pos2=NN	5	pobj	_	U-GPE
+7	was	be	VBD	_	8	auxpass	_	O
+8	bombed	bomb	VBN	_	0	root	_	O
+9	by	by	IN	_	8	agent	_	O
+10	coalition	coalition	NN	_	11	compound	_	O
+11	forces	force	NNS	_	9	pobj	_	O
+12	,	,	,	_	8	punct	_	O
+13	rendering	render	VBG	_	8	advcl	_	O
+14	three	#crd#	CD	_	16	nmod	_	U-CARDINAL
+15	access	access	NN	_	16	compound	_	O
+16	bridges	bridge	NNS	_	13	dobj	_	O
+17	out	out	IN	_	13	prep	_	O
+18	of	of	IN	_	17	prep	_	O
+19	commission	commission	NN	_	18	pobj	_	O
+20	so	so	RB	_	21	advmod	_	O
+21	far	far	RB	_	13	advmod	_	O
+22	.	.	.	_	8	punct	_	O
+
+1	#MosulOffensive	#mosuloffensive	ADD	pos2=JJ	0	root	_	O
+

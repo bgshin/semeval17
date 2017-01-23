@@ -1,0 +1,25 @@
+1	Perhaps	perhaps	RB	_	3	advmod	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	time	time	NN	_	3	attr	_	O
+5	to	to	TO	_	6	aux	_	O
+6	depose	depose	VB	_	4	relcl	_	O
+7	Pope	pope	NNP	_	8	compound	_	O
+8	Francis	francis	NNP	_	6	dobj	_	O
+9	and	and	CC	_	6	cc	_	O
+10	elect	elect	VB	_	6	conj	_	O
+11	a	a	DT	_	13	det	_	O
+12	faithful	faithful	JJ	_	13	nmod	_	O
+13	priest	priest	NN	_	10	dobj	_	O
+14	to	to	TO	_	15	aux	_	O
+15	be	be	VB	_	10	advcl	_	O
+16	his	his	PRP$	_	17	poss	_	O
+17	successor	successor	NN	_	15	attr	_	O
+18	:	:	:	_	17	punct	_	O
+19	Robert	robert	NNP	_	21	compound	_	B-PERSON
+20	Cardinal	cardinal	NNP	_	21	compound	_	I-PERSON
+21	Sarah	sarah	NNP	_	17	appos	_	L-PERSON
+22	.	.	.	_	3	punct	_	O
+
+1	https://t.co/3VMkrTGiZq	#hlink#	ADD	_	0	root	_	U-ORG
+

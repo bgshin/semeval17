@@ -1,0 +1,12 @@
+1	@BJAofficial	@bjaofficial	NNP	pos2=XX	4	vocative	_	U-ORG
+2	Have	have	VBP	_	4	aux	_	O
+3	we	we	PRP	_	4	nsubj	_	O
+4	heard	hear	VBN	pos2=VBD	0	root	_	O
+5	all	all	DT	_	4	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	Cigarettes	cigarette	NNS	_	6	pobj	_	O
+8	and	and	CC	_	4	cc	_	O
+9	Valentines	valentines	NNP	pos2=NNS	7	conj	_	U-ORG
+10	now	now	RB	_	4	advmod	_	O
+11	?	?	.	_	4	punct	_	O
+

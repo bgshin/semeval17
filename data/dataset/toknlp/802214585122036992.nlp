@@ -1,0 +1,21 @@
+1	#Hillary	#hillary	NNP	pos2=ADD	4	nsubj	_	U-PERSON
+2	and	and	CC	_	1	cc	_	O
+3	#Obama	#obama	NNP	pos2=``	1	conj	_	O
+4	armed	armed	JJ	pos2=NN	0	root	_	O
+5	and	and	CC	_	4	cc	_	O
+6	started	start	VBD	pos2=VBN	4	conj	_	O
+7	#YemenFiles	#yemenfiles	NNS	pos2=VBG	9	nmod	_	U-DATE
+8	civil	civil	JJ	_	9	nmod	_	O
+9	war	war	NN	_	6	dobj	_	O
+10	for	for	IN	_	9	prep	_	O
+11	oil	oil	NN	_	12	compound	_	O
+12	money	money	NN	_	10	pobj	_	O
+13	.	.	.	_	4	punct	_	O
+
+1	.	.	.	_	0	punct	_	O
+
+1	@wikileaks	@wikileaks	UH	pos2=NNS	4	discourse	_	O
+2	👇🏼#DrainTheSwamp	👇🏼#draintheswamp	GW	pos2=XX	4	nmod	_	O
+3	…	…	NFP	pos2=GW	4	punct	_	O
+4	https://t.co/o65SAxwg6n	#hlink#	ADD	_	0	root	_	O
+

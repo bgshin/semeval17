@@ -1,0 +1,14 @@
+1	marine	marine	JJ	_	2	nmod	_	O
+2	le	le	NN	pos2=FW	3	compound	_	O
+3	pen	pen	NN	_	0	root	_	O
+4	celebrating	celebrate	VBG	_	3	acl	_	O
+5	the	the	DT	_	7	det	_	O
+6	referendum	referendum	NN	_	7	compound	_	O
+7	result	result	NN	pos2=VB	4	dobj	_	O
+8	along	along	IN	_	4	prep	_	O
+9	with	with	IN	pos2=RB	8	prep	_	O
+10	...	..	.	pos2=,	3	punct	_	O
+
+1	paul	paul	JJ	pos2=NNP	2	nmod	_	O
+2	mason	mason	NN	pos2=NNP	0	root	_	O
+

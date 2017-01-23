@@ -1,0 +1,20 @@
+1	#BREAKING	#breaking	NN	pos2=VBG	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	@FoxNews	@foxnews	NN	pos2=NNS	4	nsubj	_	O
+4	confirms	confirm	VBZ	_	0	root	_	O
+5	President	president	NNP	_	7	compound	_	O
+6	-	-	HYPH	_	7	punct	_	O
+7	elect	elect	NNP	_	8	compound	_	O
+8	Trump	trump	NNP	pos2=NN	10	nsubj	_	U-ORG
+9	has	have	VBZ	_	10	aux	_	O
+10	offered	offer	VBN	_	4	ccomp	_	O
+11	Lt.	lt.	NNP	_	12	compound	_	O
+12	@GenFlynn	@genflynn	NNP	pos2=POS	13	compound	_	U-PERSON
+13	position	position	NN	_	10	dobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	National	national	NNP	_	17	compound	_	B-ORG
+16	Security	security	NNP	_	17	compound	_	I-ORG
+17	Adviser	adviser	NNP	_	14	pobj	_	L-ORG
+18	…	…	NFP	pos2=-LRB-	19	nmod	_	O
+19	https://t.co/m0vigEJjTj	#hlink#	ADD	_	17	appos	_	U-ORG
+

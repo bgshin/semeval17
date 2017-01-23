@@ -1,0 +1,18 @@
+1	Imagine	imagine	VB	_	0	root	_	O
+2	that	that	DT	_	1	dobj	_	O
+3	?	?	.	_	1	punct	_	O
+
+1	Bait	bait	NN	pos2=VB	0	root	_	O
+2	and	and	CC	_	1	cc	_	O
+3	switch	switch	NN	pos2=VB	1	conj	_	O
+4	?	?	.	_	1	punct	_	O
+
+1	Noooo	noooo	RB	pos2=UH	2	advmod	_	O
+2	lol	lol	UH	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	#maga	#maga	UH	pos2=NN	4	discourse	_	O
+2	#draintheswamp	#draintheswamp	UH	pos2=GW	4	discourse	_	O
+3	#potus45	#potus0	-LRB-	pos2=GW	4	punct	_	O
+4	https://t.co/cc1JPKppRa	#hlink#	ADD	_	0	root	_	O
+

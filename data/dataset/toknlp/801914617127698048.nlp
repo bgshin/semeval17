@@ -1,0 +1,14 @@
+1	21	0	LS	pos2=CD	0	root	_	U-CARDINAL
+2	.	.	.	pos2=:	1	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	'd	would	MD	pos2=VBD	4	aux	_	O
+3	rather	rather	RB	_	4	advmod	_	O
+4	trade	trade	VB	_	0	root	_	O
+5	Justin	justin	NNP	_	6	compound	_	B-PERSON
+6	Verlander	verlander	NNP	_	4	dobj	_	L-PERSON
+7	than	than	IN	_	6	prep	_	O
+8	Miguel	miguel	NNP	_	9	compound	_	B-PERSON
+9	Cabrera	cabrera	NNP	_	7	pobj	_	L-PERSON
+10	.	.	.	_	4	punct	_	O
+

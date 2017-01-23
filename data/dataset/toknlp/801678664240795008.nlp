@@ -1,0 +1,14 @@
+1	Just	just	RB	_	2	advmod	_	O
+2	#ICYMI	#icymi	RB	pos2=NN	6	advmod	_	O
+3	,	,	,	_	6	punct	_	O
+4	the	the	DT	_	5	det	_	O
+5	@utahjazz	@utahjazz	NNPS	pos2=NN	6	nsubj	_	O
+6	punished	punish	VBD	pos2=VBN	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	Nuggets	nugget	NNPS	_	6	dobj	_	U-ORG
+9	in	in	IN	_	6	prep	_	O
+10	Hill	hill	NNP	_	9	pobj	_	U-ORG
+11	's	's	POS	_	10	case	_	O
+12	re	re	IN	pos2=GW	6	prep	_	O
+13	turnhttps://t.co/rjeVZrwhzX	#hlink#	ADD	pos2=NN	12	pobj	_	O
+

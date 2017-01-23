@@ -1,0 +1,20 @@
+1	soothing	soothe	VBG	pos2=JJ	0	root	_	O
+2	my	my	PRP$	_	4	poss	_	O
+3	thanksgiving	thanksgiving	NN	pos2=JJ	4	compound	_	O
+4	coma	coma	NN	_	1	dobj	_	O
+5	the	the	DT	_	7	det	_	O
+6	only	only	JJ	_	7	nmod	_	O
+7	way	way	NN	_	1	npadvmod	_	O
+8	I	I	PRP	_	9	nsubj	_	O
+9	know	know	VBP	_	7	relcl	_	O
+10	how	how	WRB	_	19	dep	_	O
+11	:	:	:	_	19	punct	_	O
+12	@GilmoreGirls	@gilmoregirls	NNS	pos2=UH	19	dep	_	O
+13	,	,	,	_	12	punct	_	O
+14	leftovers	leftover	NNS	_	12	conj	_	O
+15	,	,	,	_	14	punct	_	O
+16	and	and	CC	_	14	cc	_	O
+17	coffee	coffee	NN	pos2=VB	14	conj	_	O
+18	☕️	☕️	NFP	pos2=-LRB-	19	punct	_	O
+19	https://t.co/GmMekQBYpw	#hlink#	ADD	_	1	dep	_	O
+

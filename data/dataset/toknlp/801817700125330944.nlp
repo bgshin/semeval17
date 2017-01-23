@@ -1,0 +1,14 @@
+1	Samuel	samuel	NNP	_	2	compound	_	B-PERSON
+2	Eto'o	eto'o	NNP	_	0	root	_	L-PERSON
+3	facing	face	VBG	_	2	acl	_	O
+4	10	0	CD	_	6	nmod	_	B-DATE
+5	-	-	HYPH	_	6	punct	_	I-DATE
+6	year	year	NN	_	8	compound	_	L-DATE
+7	prison	prison	NN	_	8	compound	_	O
+8	sentence	sentence	NN	_	3	dobj	_	O
+9	?	?	.	_	2	punct	_	O
+
+1	https://t.co/u7IW1ifrj7	#hlink#	ADD	_	0	root	_	U-ORG
+2	#FCBlive	#fcblive	ADD	pos2=-RRB-	0	root	_	U-ORG
+3	#ViscaBarca	#viscabarca	NN	pos2=ADD	2	pobj	_	O
+

@@ -1,0 +1,20 @@
+1	@FoxNews	@foxnews	UH	pos2=NNS	5	discourse	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	nt	nt	RB	_	5	advmod	_	O
+5	know	know	VB	_	0	root	_	O
+6	which	which	WDT	_	7	det	_	O
+7	riots	riot	NNS	_	9	nsubj	_	O
+8	will	will	MD	_	9	aux	_	O
+9	be	be	VB	_	5	ccomp	_	O
+10	bigger	big	JJR	_	9	acomp	_	O
+11	,	,	,	_	9	punct	_	O
+12	anti	anti	AFX	pos2=NN	14	nmod	_	O
+13	-	-	HYPH	_	14	punct	_	O
+14	trump	trump	NN	pos2=JJ	15	compound	_	O
+15	ones	#crd#	NNS	_	10	appos	_	O
+16	black	black	JJ	_	18	nmod	_	O
+17	friday	friday	NNP	pos2=JJ	18	compound	_	O
+18	ones	#crd#	NNS	_	15	appos	_	O
+19	.	.	.	_	5	punct	_	O
+

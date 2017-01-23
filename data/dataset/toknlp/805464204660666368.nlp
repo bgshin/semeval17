@@ -1,0 +1,18 @@
+1	@WSVN	@wsvn	NNP	pos2=NN	12	vocative	_	U-ORG
+2	,	,	,	_	12	punct	_	O
+3	@local10news	@local0news	NNP	pos2=VBZ	4	dep	_	O
+4	The	the	DT	pos2=NNP	6	det	_	O
+5	current	current	JJ	_	6	nmod	_	O
+6	conditions	condition	NNS	_	12	nsubjpass	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Cuba	cuba	NNP	_	7	pobj	_	U-GPE
+9	have	have	VBP	_	12	aux	_	O
+10	been	be	VBN	_	12	auxpass	_	O
+11	negatively	negatively	RB	_	12	advmod	_	O
+12	affected	affect	VBN	_	0	root	_	O
+13	by	by	IN	_	12	agent	_	O
+14	the	the	DT	_	16	det	_	O
+15	U.S.	u.s.	NNP	_	16	compound	_	U-GPE
+16	embargo	embargo	NN	pos2=NNP	13	pobj	_	O
+17	.	.	.	_	12	punct	_	O
+

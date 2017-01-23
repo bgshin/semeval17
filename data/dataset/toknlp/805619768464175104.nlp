@@ -1,0 +1,15 @@
+1	Presenting	present	VBG	_	14	advcl	_	O
+2	the	the	DT	_	5	det	_	B-ORG
+3	Red	red	NNP	pos2=JJ	4	compound	_	I-ORG
+4	Line	line	NNP	pos2=NN	5	compound	_	L-ORG
+5	symptoms	symptom	NNS	_	1	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	Aconite	aconite	NNP	pos2=NN	6	pobj	_	O
+8	in	in	IN	_	1	prep	_	O
+9	two	#crd#	CD	_	10	nmod	_	O
+10	slides.I	slides.i	NNS	pos2=NNP	8	pobj	_	O
+11	<	<	SYM	pos2=-LRB-	13	punct	_	O
+12	3	0	CD	_	13	nmod	_	U-CARDINAL
+13	Homeopathy	homeopathy	NN	pos2=NNP	14	dep	_	O
+14	https://t.co/4pRcD5Sqnl	#hlink#	ADD	pos2=NN	0	root	_	O
+

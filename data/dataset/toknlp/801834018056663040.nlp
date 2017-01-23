@@ -1,0 +1,22 @@
+1	FOREST	forest	NN	pos2=NNP	2	compound	_	O
+2	FIRES	fire	NNS	pos2=NNP	6	nsubj	_	O
+3	IN	in	IN	pos2=FW	2	prep	_	O
+4	ISRAEL‼️	israel‼️	NNP	pos2=PRP$	3	pobj	_	U-GPE
+5	New	new	JJ	pos2=NNP	6	nmod	_	O
+6	form	form	NN	_	0	root	_	O
+7	of	of	IN	_	6	prep	_	O
+8	forest	forest	NN	pos2=JJ	9	compound	_	O
+9	terrorism	terrorism	NN	_	7	pobj	_	O
+10	,	,	,	_	6	punct	_	O
+11	eye	eye	NN	pos2=VBP	6	appos	_	O
+12	that	that	IN	pos2=WDT	17	mark	_	O
+13	this	this	DT	_	17	nsubjpass	_	O
+14	can	can	MD	_	17	aux	_	O
+15	easily	easily	RB	_	17	advmod	_	O
+16	be	be	VB	_	17	auxpass	_	O
+17	exported	export	VBN	_	0	root	_	O
+18	to	to	IN	pos2=TO	17	prep	_	O
+19	#Europe#Terrorism	#europe#terrorism	GW	pos2=NNP	18	pobj	_	U-NORP
+20	…	…	NFP	pos2=GW	17	prep	_	O
+21	https://t.co/HNSf57NTgy	#hlink#	ADD	pos2=NN	17	prep	_	O
+

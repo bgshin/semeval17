@@ -1,0 +1,27 @@
+1	@FoxNews	@foxnews	NNS	pos2=ADD	7	poss	_	O
+2	@CNN	@cnn	POS	pos2=XX	1	case	_	O
+3	1of2	0of0	NN	pos2=LS	5	npadvmod	_	O
+4	-	-	HYPH	pos2=,	5	punct	_	O
+5	Mentioning	mention	VBG	_	7	nmod	_	O
+6	Popular	popular	NNP	pos2=JJ	7	compound	_	O
+7	Vote	vote	NN	pos2=NNP	18	nsubj	_	O
+8	w	w	IN	pos2=RB	7	prep	_	O
+9	/	/	HYPH	_	8	punct	_	O
+10	out	out	RP	pos2=RB	8	pobj	_	O
+11	explaining	explain	VBG	_	7	acl	_	O
+12	how	how	WRB	_	15	advmod	_	O
+13	MASS	mass	NN	pos2=NNP	14	compound	_	O
+14	IMMIGRATION	immigration	NN	pos2=NNP	15	nsubj	_	O
+15	affects	affect	VBZ	_	11	ccomp	_	O
+16	it	it	PRP	_	15	dobj	_	O
+17	-	-	HYPH	pos2=:	18	punct	_	O
+18	is	be	VBZ	_	0	root	_	O
+19	like	like	IN	_	18	prep	_	O
+20	mentioning	mention	VBG	_	19	pcomp	_	O
+21	the	the	DT	_	22	det	_	O
+22	collapse	collapse	NN	_	20	dobj	_	O
+23	of	of	IN	_	22	prep	_	O
+24	the	the	DT	_	26	det	_	O
+25	-	-	HYPH	pos2=,	26	punct	_	O
+26	-	-	SYM	pos2=.	23	pobj	_	O
+

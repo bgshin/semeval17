@@ -1,0 +1,27 @@
+1	Melania	melania	NNP	_	2	compound	_	B-PERSON
+2	Trump	trump	NNP	_	4	nsubj	_	L-PERSON
+3	has	have	VBZ	_	4	aux	_	O
+4	decided	decide	VBN	_	0	root	_	O
+5	she	she	PRP	_	7	nsubj	_	O
+6	will	will	MD	_	7	aux	_	O
+7	champion	champion	VB	pos2=NN	4	ccomp	_	O
+8	cyber	cyber	JJ	pos2=AFX	9	nmod	_	O
+9	bullying	bullying	NN	_	7	dobj	_	O
+10	as	as	IN	_	7	prep	_	O
+11	FL.	fl.	NNP	pos2=NN	10	pobj	_	U-DATE
+12	She	she	PRP	_	15	nsubj	_	O
+13	should	should	MD	_	15	aux	_	O
+14	probably	probably	RB	_	15	advmod	_	O
+15	start	start	VB	_	4	ccomp	_	O
+16	with	with	IN	_	15	prep	_	O
+17	the	the	DT	_	18	det	_	O
+18	person	person	NN	_	16	pobj	_	O
+19	who	who	WP	_	20	nsubj	_	O
+20	sleeps	sleep	VBZ	_	18	relcl	_	O
+21	next	next	RB	pos2=IN	20	advmod	_	O
+22	to	to	IN	_	21	prep	_	O
+23	her	her	PRP	_	22	pobj	_	O
+24	.	.	.	_	4	punct	_	O
+
+1	wwwwwww	wwwwwww	UH	pos2=NN	0	root	_	O
+

@@ -1,0 +1,22 @@
+1	@skullface	@skullface	IN	pos2=NN	4	mark	_	O
+2	DAVID	david	NNP	_	3	compound	_	B-PERSON
+3	BLAINE	blaine	NNP	_	4	nsubj	_	L-PERSON
+4	DOES	do	VBZ	_	6	aux	_	O
+5	MAGIC	magic	NNP	pos2=NN	0	root	_	O
+6	AT	at	IN	_	5	prep	_	O
+7	KANYE	kanye	NNP	pos2=CD	8	compound	_	O
+8	WEST	west	NNP	pos2=NN	6	pobj	_	O
+9	.	.	.	_	1	punct	_	O
+
+1	Kanye	kanye	UH	pos2=NNP	5	discourse	_	O
+2	does	do	VBZ	_	5	aux	_	O
+3	n't	not	RB	_	5	neg	_	O
+4	really	really	RB	_	5	advmod	_	O
+5	have	have	VB	_	0	root	_	O
+6	a	a	DT	_	10	det	_	O
+7	*	*	SYM	pos2=NFP	10	punct	_	O
+8	great	great	JJ	pos2=NN	10	nmod	_	O
+9	*	*	NFP	pos2=SYM	10	punct	_	O
+10	time	time	NN	_	5	dobj	_	O
+11	.	.	.	_	5	punct	_	O
+

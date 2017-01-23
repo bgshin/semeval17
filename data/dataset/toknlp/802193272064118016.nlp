@@ -1,0 +1,6 @@
+1	Transfer	transfer	NN	pos2=VB	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	the	the	DT	_	5	det	_	O
+4	hat	hat	NN	_	5	compound	_	O
+5	#ThisIsUs	#thisisus	NN	pos2=ADD	2	pobj	_	O
+

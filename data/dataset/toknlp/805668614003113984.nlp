@@ -1,0 +1,23 @@
+1	“	"	``	pos2=SYM	7	punct	_	O
+2	Lead	lead	NN	pos2=VB	3	compound	_	O
+3	claimant	claimant	NN	_	7	nsubj	_	O
+4	in	in	IN	_	3	prep	_	O
+5	case	case	NN	_	4	pobj	_	O
+6	also	also	RB	_	7	advmod	_	O
+7	says	say	VBZ	_	0	root	_	O
+8	newspaper	newspaper	NN	_	9	compound	_	O
+9	coverage	coverage	NN	_	11	nsubj	_	O
+10	has	have	VBZ	_	11	aux	_	O
+11	incited	incite	VBN	_	7	ccomp	_	O
+12	violence	violence	NN	_	11	dobj	_	O
+13	against	against	IN	_	12	prep	_	O
+14	her	her	PRP	pos2=PRP$	13	pobj	_	O
+15	and	and	CC	_	11	cc	_	O
+16	prevented	prevent	VBD	_	11	conj	_	O
+17	her	her	PRP$	pos2=PRP	18	poss	_	O
+18	leading	leading	NN	pos2=VBG	16	dobj	_	O
+19	nor	nor	CC	_	11	cc	_	O
+20	…	…	NFP	pos2=JJ	22	punct	_	O
+21	”	"	``	pos2=''	22	punct	_	O
+22	https://t.co/bBjLiJJljs	#hlink#	ADD	pos2=NN	7	punct	_	O
+

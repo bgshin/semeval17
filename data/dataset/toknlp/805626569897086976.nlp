@@ -1,0 +1,17 @@
+1	@farmerjase	@farmerjase	UH	pos2=VB	7	discourse	_	O
+2	@TonyStuart55	@tonystuart0	NN	pos2=CD	7	nsubj	_	U-PERSON
+3	both	both	CC	pos2=DT	4	preconj	_	O
+4	Obama	obama	NNP	_	7	nsubj	_	U-PERSON
+5	and	and	CC	_	4	cc	_	O
+6	Clinton	clinton	NNP	_	4	conj	_	U-PERSON
+7	were	be	VBD	_	0	root	_	O
+8	anti	anti	AFX	pos2=VBG	9	advmod	_	O
+9	gay	gay	JJ	_	10	nmod	_	O
+10	marriage	marriage	NN	_	7	attr	_	O
+11	just	just	RB	pos2=IN	13	advmod	_	O
+12	a	a	DT	_	13	det	_	O
+13	years	year	NNS	pos2=NN	14	npadvmod	_	O
+14	back	back	RB	_	10	advmod	_	O
+15	too	too	RB	_	7	advmod	_	O
+16	.	.	.	_	7	punct	_	O
+

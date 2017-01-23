@@ -1,0 +1,26 @@
+1	@NathanTriska	@nathantriska	NNP	pos2=ADD	3	vocative	_	U-ORG
+2	I	I	PRP	_	3	nsubj	_	O
+3	went	go	VBD	_	0	root	_	O
+4	to	to	TO	pos2=IN	5	aux	_	O
+5	type	type	VB	_	3	xcomp	_	O
+6	your	your	PRP$	_	7	poss	_	O
+7	name	name	NN	_	5	dobj	_	O
+8	in	in	IN	_	5	prep	_	O
+9	the	the	DT	_	11	det	_	O
+10	search	search	NN	_	11	compound	_	O
+11	bar	bar	NN	_	8	pobj	_	O
+12	..	..	.	pos2=,	3	punct	_	O
+
+1	But	but	CC	_	4	cc	_	O
+2	the	the	DT	_	3	det	_	O
+3	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=NNP	4	nsubj	_	O
+4	popped	pop	VBD	pos2=VBN	0	root	_	O
+5	up	up	RP	pos2=RB	4	prt	_	O
+6	instead	instead	RB	_	4	advmod	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	Same	same	JJ	_	2	nmod	_	O
+2	thing	thing	NN	_	4	dep	_	O
+3	right?😂	right?😂	XX	pos2=IN	4	dep	_	O
+4	@NathanTriska	@nathantriska	XX	pos2=ADD	0	root	_	O
+

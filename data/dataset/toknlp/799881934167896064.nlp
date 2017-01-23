@@ -1,0 +1,24 @@
+1	stephen	stephen	NNP	pos2=NN	2	compound	_	O
+2	colbert	colbert	NNP	pos2=VBD	4	nsubj	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	called	call	VBD	pos2=VBN	0	root	_	O
+5	kim	kim	NNP	pos2=FW	7	compound	_	O
+6	jong	jong	NNP	pos2=FW	7	compound	_	O
+7	un	un	NNP	pos2=NN	4	dobj	_	O
+8	"	"	''	pos2=``	9	punct	_	O
+9	kim	kim	NN	pos2=JJ	10	nsubj	_	O
+10	fatty	fatty	VBD	pos2=JJ	6	acomp	_	O
+11	the	the	DT	_	15	det	_	O
+12	third	#ord#	JJ	_	15	nmod	_	U-ORDINAL
+13	"	"	``	_	15	punct	_	O
+14	im	im	NN	pos2=UH	15	compound	_	O
+15	goigng	goigng	NN	pos2=VBG	10	dobj	_	O
+16	to	to	TO	_	17	aux	_	O
+17	throw	throw	VB	_	10	advcl	_	O
+18	up	up	RP	_	17	prt	_	O
+19	i	I	PRP	_	22	nsubj	_	O
+20	ca	can	MD	_	22	aux	_	O
+21	nt	nt	RB	_	22	advmod	_	O
+22	stop	stop	VB	_	17	conj	_	O
+23	laughing	laugh	VBG	_	22	xcomp	_	O
+

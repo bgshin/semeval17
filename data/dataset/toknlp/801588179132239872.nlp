@@ -1,0 +1,13 @@
+1	Listening	listen	VBG	_	4	csubj	_	O
+2	to	to	IN	_	1	prep	_	O
+3	Melania	melania	NNP	pos2=NN	2	pobj	_	U-PERSON
+4	practice	practice	VB	pos2=NN	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	speech	speech	NN	_	4	dobj	_	O
+7	Michelle	michelle	NNP	_	8	compound	_	B-PERSON
+8	Obama	obama	NNP	_	9	nsubj	_	L-PERSON
+9	wrote	write	VBD	_	6	relcl	_	O
+10	for	for	IN	_	9	prep	_	O
+11	her	her	PRP$	pos2=PRP	12	poss	_	O
+12	#KeepsTrumpUpAtNight#2GirlsandaTag@charley_ck14	#keepstrumpupatnight0girlsandatag@charley_ck0	NN	pos2=NNS	10	pobj	_	U-DATE
+

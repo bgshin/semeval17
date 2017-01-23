@@ -1,0 +1,25 @@
+1	https://t.co/p4kynL8Ub5	#hlink#	ADD	pos2=NN	17	nsubjpass	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@NatGeo	@natgeo	NNP	pos2=NN	2	pobj	_	O
+4	Until	until	IN	_	7	mark	_	O
+5	the	the	DT	_	6	det	_	O
+6	bird	bird	NN	_	7	nsubj	_	O
+7	learns	learn	VBZ	_	17	advcl	_	O
+8	to	to	TO	_	9	aux	_	O
+9	tell	tell	VB	_	7	xcomp	_	O
+10	its	its	PRP$	_	11	poss	_	O
+11	story	story	NN	_	9	dobj	_	O
+12	,	,	,	_	17	punct	_	O
+13	the	the	DT	_	14	det	_	O
+14	hunter	hunter	NN	_	17	nsubjpass	_	O
+15	will	will	MD	_	17	aux	_	O
+16	be	be	VB	_	17	auxpass	_	O
+17	glorified	glorify	VBN	pos2=JJ	0	root	_	O
+18	.	.	.	_	17	punct	_	O
+
+1	Fare	fare	VB	pos2=NN	0	root	_	O
+2	thee	thee	PRP	pos2=RB	1	dobj	_	O
+3	well	well	RB	pos2=JJ	1	advmod	_	O
+4	Castro	castro	NNP	_	1	vocative	_	U-PERSON
+5	.	.	.	_	1	punct	_	O
+

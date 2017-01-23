@@ -1,0 +1,25 @@
+1	i	I	PRP	pos2=SYM	2	nsubj	_	O
+2	fell	fall	VBD	_	15	ccomp	_	O
+3	sorry	sorry	JJ	pos2=RB	2	advmod	_	O
+4	for	for	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	land	land	NN	_	4	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	#Palestine	#palestine	NNP	pos2=PRP	7	pobj	_	U-PERSON
+9	who	who	WP	_	11	nsubj	_	O
+10	's	's	VBZ	pos2=POS	11	aux	_	O
+11	burning	burn	VBG	pos2=NN	6	relcl	_	O
+12	,	,	,	_	15	punct	_	O
+13	why	why	WRB	_	15	advmod	_	O
+14	everybody	everybody	NN	_	15	nsubj	_	O
+15	say	say	VB	pos2=VBP	0	root	_	O
+16	#israelisburning	#israelisburning	VBG	pos2=UH	15	xcomp	_	O
+17	?	?	.	_	15	punct	_	O
+
+1	,	,	,	_	2	punct	_	O
+2	say	say	VBP	pos2=VB	0	root	_	O
+3	#ZionistAreBurning	#zionistareburning	VBG	pos2=NN	2	xcomp	_	O
+4	without	without	IN	_	3	prep	_	O
+5	white	white	JJ	_	6	nmod	_	O
+6	phosphorus	phosphorus	NN	_	4	pobj	_	O
+

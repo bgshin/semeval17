@@ -1,0 +1,20 @@
+1	Who	who	WP	_	2	attr	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	we	we	PRP	_	2	nsubj	_	O
+4	?	?	.	_	2	punct	_	O
+
+1	Is	be	VBZ	_	0	root	_	O
+2	n't	not	RB	_	1	neg	_	O
+3	this	this	DT	_	1	nsubj	_	O
+4	the	the	DT	_	5	det	_	O
+5	lady	lady	NN	_	1	attr	_	O
+6	who	who	WP	_	7	nsubj	_	O
+7	trashes	trash	VBZ	_	5	relcl	_	O
+8	leftists	leftist	NNS	_	7	dobj	_	O
+9	every	every	DT	_	11	det	_	O
+10	15	0	CD	_	11	nmod	_	B-TIME
+11	minutes	minute	NNS	_	7	npadvmod	_	L-TIME
+12	?	?	.	_	1	punct	_	O
+
+1	https://t.co/bpYvTDG3Dm	#hlink#	ADD	_	0	root	_	U-ORG
+

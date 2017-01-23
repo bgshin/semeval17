@@ -1,0 +1,13 @@
+1	Trump	trump	NN	pos2=NNP	2	nsubj	_	U-ORG
+2	drops	drop	VBZ	pos2=NNS	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	bombshell	bombshell	NN	_	2	dobj	_	O
+5	about	about	IN	_	4	prep	_	O
+6	his	his	PRP$	_	7	poss	_	O
+7	plans	plan	NNS	_	5	pobj	_	O
+8	for	for	IN	_	7	prep	_	O
+9	ben	ben	GW	pos2=NNP	12	nmod	_	O
+10	carson	carson	GW	pos2=NNP	11	nmod	_	O
+11	https://t.co/v8SvVSoAsn	#hlink#	ADD	pos2=GW	12	nmod	_	O
+12	https://t.co/g5mRfzLBXd	#hlink#	ADD	_	2	dep	_	U-ORG
+

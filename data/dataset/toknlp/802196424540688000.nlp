@@ -1,0 +1,9 @@
+1	0.5	0	CD	_	2	nmod	_	U-CARDINAL
+2	h	h	NNS	pos2=NN	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	go	go	VB	_	2	relcl	_	O
+5	!	!	.	_	2	punct	_	O
+
+1	#FantasticBeasts	#fantasticbeasts	NNS	pos2=ADD	2	nmod	_	O
+2	https://t.co/iXFVn6Fy9b	#hlink#	ADD	_	0	root	_	O
+

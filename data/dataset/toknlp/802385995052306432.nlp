@@ -1,0 +1,25 @@
+1	@paulkrugman	@paulkrugman	UH	pos2=VB	3	discourse	_	O
+2	how	how	WRB	_	3	advmod	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	your	your	PRP$	_	5	poss	_	O
+5	friend	friend	NN	_	3	nsubj	_	O
+6	George	george	NNP	_	7	compound	_	B-PERSON
+7	Soros	soros	NNP	_	5	appos	_	L-PERSON
+8	who	who	WP	_	9	nsubj	_	O
+9	watched	watch	VBD	_	7	relcl	_	O
+10	his	his	PRP$	_	12	poss	_	O
+11	fellow	fellow	JJ	pos2=NN	12	nmod	_	O
+12	Jews	jew	NNPS	_	14	nsubjpass	_	U-NORP
+13	be	be	VB	pos2=VBP	14	auxpass	_	O
+14	marched	march	VBN	pos2=JJ	9	ccomp	_	O
+15	to	to	IN	_	14	prep	_	O
+16	their	their	PRP$	_	17	poss	_	O
+17	deaths	death	NNS	_	15	pobj	_	O
+18	?	?	.	_	3	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	hypocrite	hypocrite	NN	_	2	attr	_	O
+5	Paul	paul	NNP	_	4	appos	_	U-PERSON
+

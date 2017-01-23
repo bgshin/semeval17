@@ -1,0 +1,22 @@
+1	@ObsoleteDogma	@obsoletedogma	ADD	pos2=NN	8	nsubj	_	O
+2	@dandrezner	@dandrezner	UH	pos2=IN	8	discourse	_	O
+3	@PostRoz	@postroz	ADD	pos2=UH	8	nsubj	_	O
+4	@washingtonpost	@washingtonpost	IN	pos2=VBD	3	prep	_	O
+5	Clinton	clinton	NNP	_	7	compound	_	U-PERSON
+6	foundation	foundation	NN	_	7	compound	_	O
+7	donations	donation	NNS	_	4	pobj	_	O
+8	drop	drop	VBP	pos2=VB	0	root	_	O
+9	like	like	IN	_	8	prep	_	O
+10	a	a	DT	_	11	det	_	O
+11	rock	rock	NN	_	9	pobj	_	O
+12	when	when	WRB	_	14	advmod	_	O
+13	she	she	PRP	_	14	nsubj	_	O
+14	loses	lose	VBZ	_	11	relcl	_	O
+15	,	,	,	_	19	punct	_	O
+16	circle	circle	NN	_	19	nsubj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	life	life	NN	_	17	pobj	_	O
+19	is	be	VBZ	_	8	advcl	_	O
+20	complete	complete	JJ	_	19	acomp	_	O
+21	!	!	.	_	8	punct	_	O
+

@@ -1,0 +1,15 @@
+1	https://t.co/9OgaWVuZ3e	#hlink#	ADD	_	0	root	_	O
+2	<	<	-RRB-	pos2=SYM	14	punct	_	O
+3	-	-	:	pos2=,	10	punct	_	O
+4	Very	very	RB	_	5	advmod	_	O
+5	Tall	tall	JJ	pos2=NNP	10	nmod	_	O
+6	Sexy	sexy	JJ	_	10	nmod	_	O
+7	Teen	teen	NNP	pos2=NN	10	compound	_	O
+8	Striptease	striptease	NNP	pos2=NN	10	compound	_	O
+9	Dance	dance	NNP	_	10	compound	_	O
+10	#tits	#tits	NNPS	pos2=NNS	14	dep	_	O
+11	#boob	#boob	UH	pos2=XX	14	discourse	_	O
+12	#memek	#memek	UH	pos2=FW	14	discourse	_	O
+13	#bispak	#bispak	UH	pos2=FW	14	discourse	_	O
+14	#onedirection	#onedirection	UH	pos2=NN	1	discourse	_	O
+

@@ -1,0 +1,24 @@
+1	@Peacepox	@peacepox	NNP	pos2=XX	7	vocative	_	B-PERSON
+2	@stevecstny	@stevecstny	UH	pos2=XX	7	discourse	_	I-PERSON
+3	@Bipartisanism	@bipartisanism	NNP	pos2=POS	4	compound	_	I-PERSON
+4	@RedState	@redstate	NNP	pos2=ADD	7	nsubj	_	L-PERSON
+5	And	and	CC	_	4	cc	_	O
+6	Israel	israel	NNP	_	4	conj	_	U-GPE
+7	has	have	VBZ	_	0	root	_	O
+8	universal	universal	JJ	pos2=JJR	9	nmod	_	O
+9	healthcare	healthcare	NN	_	7	dobj	_	O
+10	&	&	CC	_	9	cc	_	O
+11	abortion	abortion	NN	_	9	conj	_	O
+12	.	.	.	_	7	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	pay	pay	VBP	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Where	where	WRB	_	2	advmod	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	#Prolife	#prolife	NNP	pos2=NN	5	compound	_	U-PRODUCT
+5	voice	voice	NN	_	2	nsubj	_	O
+6	?	?	.	_	2	punct	_	O
+

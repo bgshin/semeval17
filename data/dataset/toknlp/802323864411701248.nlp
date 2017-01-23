@@ -1,0 +1,10 @@
+1	COLD	cold	JJ	pos2=NNP	2	nmod	_	O
+2	STONE	stone	NN	pos2=NNP	3	nsubj	_	O
+3	PUT	put	VBD	pos2=VB	0	root	_	O
+4	ME	me	PRP	_	3	dobj	_	O
+5	IN	in	IN	_	3	prep	_	O
+6	A	a	DT	_	8	det	_	O
+7	HAPPY	happy	JJ	_	8	nmod	_	O
+8	PLACE	place	NN	pos2=NNP	5	pobj	_	O
+9	...	..	.	pos2=,	3	punct	_	O
+

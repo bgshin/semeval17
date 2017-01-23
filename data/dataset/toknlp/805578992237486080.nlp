@@ -1,0 +1,21 @@
+1	Victoria	victoria	NNP	pos2=NN	5	poss	_	U-GPE
+2	's	's	POS	_	1	case	_	O
+3	limited	limited	JJ	_	5	nmod	_	O
+4	health	health	NN	_	5	compound	_	O
+5	resources	resource	NNS	_	7	nsubj	_	O
+6	would	would	MD	_	7	aux	_	O
+7	be	be	VB	_	0	root	_	O
+8	far	far	RB	_	9	advmod	_	O
+9	more	more	RBR	_	10	advmod	_	O
+10	wisely	wisely	RB	_	11	advmod	_	O
+11	directed	direct	VBN	_	7	acomp	_	O
+12	to	to	TO	_	13	aux	_	O
+13	improve	improve	VB	_	11	xcomp	_	O
+14	palliative	palliative	JJ	pos2=NN	15	nmod	_	O
+15	care	care	NN	_	13	dobj	_	O
+16	than	than	IN	_	11	prep	_	O
+17	introducing	introduce	VBG	_	16	pcomp	_	O
+18	e	e	GW	pos2=NN	20	nmod	_	O
+19	…	…	GW	pos2=NFP	20	nmod	_	O
+20	https://t.co/AsFpdkWqqs	#hlink#	ADD	pos2=NN	17	dobj	_	O
+

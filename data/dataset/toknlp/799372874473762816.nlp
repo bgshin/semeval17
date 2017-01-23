@@ -1,0 +1,22 @@
+1	From	from	IN	_	13	prep	_	O
+2	Mac	mac	NNP	_	5	poss	_	U-PERSON
+3	'	'	POS	pos2=''	2	case	_	O
+4	n	n	POS	pos2=IN	2	case	_	B-ORG
+5	Cheetos	cheetos	NNP	pos2=NNPS	1	pobj	_	L-ORG
+6	to	to	IN	_	1	prep	_	O
+7	The	the	DT	pos2=NNP	8	det	_	O
+8	Whopperito	whopperito	NNP	pos2=NNPS	6	pobj	_	U-ORG
+9	what	what	WP	pos2=WDT	14	pobj	_	O
+10	a	a	DT	_	11	det	_	O
+11	year	year	NN	_	13	npadvmod	_	O
+12	its	its	PRP$	pos2=VBZ	13	poss	_	O
+13	been	be	VBN	pos2=NN	0	root	_	O
+14	for	for	IN	_	13	prep	_	O
+15	fast	fast	JJ	_	16	nmod	_	O
+16	food	food	NN	_	14	pobj	_	O
+17	!	!	.	_	13	punct	_	O
+
+1	-	-	SYM	pos2=NFP	3	punct	_	O
+2	https://t.co/A31SEdIClj	#hlink#	ADD	pos2=NN	3	nmod	_	O
+3	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=-RRB-	0	root	_	O
+

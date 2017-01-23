@@ -1,0 +1,12 @@
+1	Ashley	ashley	NNP	_	5	compound	_	O
+2	Graham	graham	NNP	_	5	compound	_	O
+3	Good	good	NNP	pos2=JJ	4	compound	_	O
+4	Morning	morning	NNP	pos2=NN	5	compound	_	O
+5	America	america	NNP	_	11	dep	_	O
+6	in	in	IN	_	5	prep	_	O
+7	New	new	NNP	_	8	compound	_	B-GPE
+8	York	york	NNP	_	9	compound	_	I-GPE
+9	City	city	NNP	_	6	pobj	_	L-GPE
+10	https://t.co/rQ1zqQigff	#hlink#	ADD	_	11	dep	_	O
+11	#AshleyGraham	#ashleygraham	ADD	pos2=-RRB-	0	root	_	U-GPE
+

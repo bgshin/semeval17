@@ -1,0 +1,10 @@
+1	UK	uk	NNP	pos2=NN	2	nsubj	_	U-GPE
+2	downplays	downplay	VBZ	_	0	root	_	O
+3	Syria	syria	NNP	_	5	poss	_	U-GPE
+4	’s	's	POS	_	3	case	_	O
+5	gains	gain	NNS	_	2	dobj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	Aleppo	aleppo	NNP	_	6	pobj	_	U-GPE
+8	https://t.co/xAyD7iF8OU	#hlink#	ADD	_	9	nmod	_	O
+9	https://t.co/4gWQDXfBdp	#hlink#	ADD	_	2	dep	_	U-ORG
+

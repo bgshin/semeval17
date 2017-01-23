@@ -1,0 +1,16 @@
+1	@RechecktoCheck	@rechecktocheck	NNP	pos2=VB	3	compound	_	O
+2	Hillary	hillary	NNP	_	3	compound	_	B-PERSON
+3	Clinton	clinton	NNP	_	4	nsubj	_	L-PERSON
+4	Picks	pick	VBZ	pos2=NNP	0	root	_	O
+5	TPP	tpp	NN	pos2=NNP	4	dobj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	Fracking	fracking	NNP	pos2=NN	8	compound	_	O
+8	Advocate	advocate	NNP	pos2=NN	5	conj	_	O
+9	To	to	TO	pos2=IN	10	aux	_	O
+10	Set	set	VB	_	4	advcl	_	O
+11	Up	up	RP	_	10	prt	_	O
+12	Her	her	PRP$	_	14	poss	_	O
+13	White	white	NNP	_	14	compound	_	B-ORG
+14	House	house	NNP	_	15	nmod	_	L-ORG
+15	https://t.co/nu6qoonwiB	#hlink#	ADD	_	10	dobj	_	O
+

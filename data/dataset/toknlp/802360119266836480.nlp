@@ -1,0 +1,13 @@
+1	When	when	WRB	_	3	advmod	_	O
+2	Trump	trump	NNP	pos2=NN	3	nsubj	_	U-ORG
+3	jeopardizes	jeopardize	VBZ	_	11	advcl	_	O
+4	their	their	PRP$	_	6	poss	_	O
+5	social	social	JJ	_	6	nmod	_	O
+6	security	security	NN	_	3	dobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	Medicare	medicare	NNP	_	10	compound	_	U-ORG
+9	payments	payment	NNS	_	6	conj	_	O
+10	imma	imma	NN	pos2=TO	11	nsubj	_	O
+11	laugh	laugh	VB	pos2=NN	0	root	_	O
+12	.	.	.	_	11	punct	_	O
+

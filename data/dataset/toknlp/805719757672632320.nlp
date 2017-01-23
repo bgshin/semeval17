@@ -1,0 +1,17 @@
+1	@nytimes	@nytimes	IN	pos2=UH	7	mark	_	O
+2	Liberal	liberal	NNP	pos2=JJ	6	compound	_	O
+3	Nazi	nazi	NNP	pos2=NN	4	compound	_	U-NORP
+4	world	world	NN	pos2=NNP	6	compound	_	O
+5	Fidel	fidel	NNP	_	6	compound	_	B-PERSON
+6	Castro	castro	NNP	_	7	nsubj	_	L-PERSON
+7	was	be	VBD	_	0	root	_	O
+8	there	there	RB	pos2=EX	7	advmod	_	O
+9	liberal	liberal	JJ	_	10	nmod	_	O
+10	god	god	NN	pos2=NNS	7	attr	_	O
+11	every	every	DT	_	15	det	_	O
+12	liberal	liberal	JJ	_	15	nmod	_	O
+13	nazi	nazi	NN	pos2=JJ	14	compound	_	O
+14	dream	dream	NN	_	15	compound	_	O
+15	idol	idol	NN	_	10	appos	_	O
+16	.	.	.	_	7	punct	_	O
+

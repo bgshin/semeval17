@@ -1,0 +1,11 @@
+1	@poroshenko	@poroshenko	UH	pos2=JJ	2	discourse	_	O
+2	mind	mind	VB	pos2=NN	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	Caucescu	caucescu	NNP	pos2=JJ	5	compound	_	U-ORG
+5	end	end	NN	_	2	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	life	life	NN	_	6	pobj	_	O
+8	behind	behind	IN	_	5	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	wall	wall	NN	_	8	pobj	_	O
+

@@ -1,0 +1,18 @@
+1	Infant	infant	NN	pos2=JJ	2	compound	_	O
+2	girls	girl	NNS	_	0	root	_	O
+3	6-9	0	CD	_	4	nmod	_	B-DATE
+4	months	month	NNS	_	2	npadvmod	_	L-DATE
+5	.	.	.	_	2	punct	_	O
+
+1	Cute	cute	JJ	pos2=NNP	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	Christmas	christmas	NNP	_	2	pobj	_	U-DATE
+4	or	or	CC	_	3	cc	_	O
+5	Valentines	valentines	NNP	_	6	compound	_	B-DATE
+6	Day	day	NNP	_	3	conj	_	L-DATE
+7	.	.	.	_	1	punct	_	O
+
+1	$	$	$	_	2	nmod	_	O
+2	3	0	CD	_	3	dep	_	U-MONEY
+3	https://t.co/Yq89xaiki5	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,21 @@
+1	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=LS	2	dep	_	O
+2	4.	0.	LS	_	3	meta	_	U-CARDINAL
+3	Sookie	sookie	NNP	pos2=NN	0	root	_	O
+4	3.	0.	CD	pos2=LS	3	nmod	_	U-CARDINAL
+5	Michel	michel	NNP	_	9	compound	_	O
+6	2.	0.	NNP	pos2=CD	9	compound	_	U-CARDINAL
+7	Lane	lane	NNP	pos2=NN	9	compound	_	O
+8	1.	0.	NNP	pos2=CD	9	compound	_	B-PERSON
+9	Jess	jess	NNP	_	4	appos	_	L-PERSON
+10	(	(	-LRB-	_	12	punct	_	O
+11	I	I	PRP	_	12	nsubj	_	O
+12	know	know	VBP	_	9	parataxis	_	O
+13	what	what	WP	_	16	dobj	_	O
+14	I	I	PRP	_	16	nsubj	_	O
+15	'm	be	VBP	_	16	aux	_	O
+16	doing	do	VBG	_	12	ccomp	_	O
+17	at	at	IN	_	16	prep	_	O
+18	12:01	0	CD	_	19	nmod	_	B-TIME
+19	am	am	NN	pos2=NNS	17	pobj	_	L-TIME
+20	)	)	-RRB-	_	12	punct	_	O
+

@@ -1,0 +1,24 @@
+1	This	this	DT	_	2	det	_	O
+2	bullshit	bullshit	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	exactly	exactly	RB	_	5	advmod	_	O
+5	what	what	WP	_	9	pobj	_	O
+6	Melania	melania	NNP	pos2=NN	7	compound	_	U-PERSON
+7	speech	speech	NN	_	8	nsubj	_	O
+8	was	be	VBD	_	3	ccomp	_	O
+9	about	about	IN	pos2=RB	8	prep	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	Rumors	rumor	NNS	pos2=VBZ	0	root	_	O
+2	about	about	IN	pos2=RB	1	prep	_	B-CARDINAL
+3	10	0	CD	_	5	nmod	_	L-CARDINAL
+4	y.o	y.o	JJ	pos2=CD	5	nmod	_	O
+5	child	child	NN	_	2	pobj	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	Internet	internet	NN	_	2	compound	_	O
+2	bullies	bully	NNS	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	https://t.co/LKBlZ2KuUv	#hlink#	ADD	_	0	root	_	U-ORG
+

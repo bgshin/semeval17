@@ -1,0 +1,33 @@
+1	A	a	DT	pos2=LS	3	det	_	O
+2	@utahjazz	@utahjazz	JJ	pos2=NN	3	nmod	_	O
+3	fan	fan	NN	_	5	nsubj	_	O
+4	PLEASE	please	UH	_	5	discourse	_	O
+5	buy	buy	VB	_	0	root	_	O
+6	these	these	DT	_	7	det	_	O
+7	tix	tix	NN	pos2=VBN	5	dobj	_	O
+8	from	from	IN	_	5	prep	_	O
+9	me	me	PRP	_	8	pobj	_	O
+10	for	for	IN	_	5	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	game	game	NN	_	10	pobj	_	O
+13	on	on	IN	_	5	prep	_	O
+14	Friday	friday	NNP	_	13	pobj	_	U-DATE
+15	.	.	.	_	5	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	're	be	VBP	_	0	root	_	O
+3	great	great	JJ	_	4	nmod	_	O
+4	seats	seat	NNS	_	2	attr	_	O
+5	,	,	,	_	2	punct	_	O
+6	and	and	CC	_	2	cc	_	O
+7	I	I	PRP	_	8	nsubj	_	O
+8	made	make	VBD	_	2	conj	_	O
+9	the	the	DT	_	10	det	_	O
+10	mistake	mistake	NN	_	8	dobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	thinking	think	VBG	pos2=NN	11	pcomp	_	O
+13	it	it	PRP	_	14	nsubj	_	O
+14	was	be	VBD	_	12	ccomp	_	O
+15	in	in	IN	_	14	prep	_	O
+16	ATL	atl	NNP	pos2=NN	15	pobj	_	U-ORG
+

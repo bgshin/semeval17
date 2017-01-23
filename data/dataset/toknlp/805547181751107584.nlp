@@ -1,0 +1,13 @@
+1	Vegetarianism	vegetarianism	NN	pos2=NNP	6	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	taboo	taboo	NN	pos2=JJ	1	conj	_	O
+4	to	to	IN	pos2=TO	1	prep	_	O
+5	plastics	plastic	NNS	_	4	pobj	_	O
+6	keep	keep	VB	pos2=VBP	0	root	_	O
+7	Famke	famke	NNP	_	8	compound	_	B-PERSON
+8	Janssen	janssen	NNP	_	6	dobj	_	L-PERSON
+9	young	young	JJ	pos2=GW	12	nmod	_	O
+10	-	-	:	pos2=HYPH	12	punct	_	O
+11	https://t.co/yn9lNcXORe	#hlink#	ADD	_	12	nmod	_	O
+12	https://t.co/ahYPON12d2	#hlink#	ADD	_	6	dep	_	U-ORG
+

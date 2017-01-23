@@ -1,0 +1,24 @@
+1	@washingtonpost	@washingtonpost	IN	pos2=UH	0	root	_	O
+2	Wondering	wonder	VBG	_	1	pcomp	_	O
+3	what	what	WP	pos2=RP	5	det	_	O
+4	better	good	JJR	_	5	nmod	_	O
+5	system	system	NN	_	8	dobj	_	O
+6	we	we	PRP	_	8	nsubj	_	O
+7	could	could	MD	_	8	aux	_	O
+8	implement	implement	VB	_	2	ccomp	_	O
+9	.	.	.	_	1	punct	_	O
+
+1	Popular	popular	JJ	_	2	nmod	_	O
+2	vote	vote	NN	_	4	nsubj	_	O
+3	should	should	MD	_	4	aux	_	O
+4	have	have	VB	_	0	root	_	O
+5	more	more	JJR	_	6	nmod	_	O
+6	influence	influence	NN	_	4	dobj	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	Electoral	electoral	JJ	pos2=NNP	2	nmod	_	O
+2	college	college	NN	_	3	nsubj	_	O
+3	sounds	sound	VBZ	pos2=NNS	0	root	_	O
+4	sketchy	sketchy	JJ	_	3	acomp	_	O
+5	.	.	.	_	3	punct	_	O
+

@@ -1,0 +1,31 @@
+1	A	a	DT	pos2=PRP	3	nsubj	_	O
+2	must	must	MD	pos2=NN	3	aux	_	O
+3	read	read	VB	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	If	if	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	sit	sit	VBP	_	9	advcl	_	O
+4	still	still	RB	_	3	advmod	_	O
+5	for	for	IN	_	3	prep	_	O
+6	this	this	DT	_	5	pobj	_	O
+7	you	you	PRP	_	9	nsubj	_	O
+8	will	will	MD	_	9	aux	_	O
+9	suffer	suffer	VB	_	0	root	_	O
+10	the	the	DT	_	11	det	_	O
+11	consequences	consequence	NNS	_	9	dobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	a	a	DT	_	15	det	_	O
+14	Trump	trump	NNP	pos2=NN	15	compound	_	U-PERSON
+15	presidency	presidency	NN	_	12	pobj	_	O
+16	.	.	.	_	9	punct	_	O
+
+1	MAKE	make	VB	_	0	root	_	O
+2	SOME	some	DT	_	3	det	_	O
+3	NOISE	noise	NN	_	1	dobj	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	HIT	hit	NN	pos2=VB	3	dep	_	O
+2	…	…	NFP	pos2=:	3	punct	_	O
+3	https://t.co/1G2FP7Vm7k	#hlink#	ADD	_	0	root	_	O
+

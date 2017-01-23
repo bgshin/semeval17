@@ -1,0 +1,19 @@
+1	#NBA	#nba	NN	pos2=NNP	2	compound	_	O
+2	#Cards	#cards	NNP	pos2=NNS	0	root	_	O
+3	1996	0	CD	_	5	qmod	_	B-DATE
+4	-	-	SYM	pos2=HYPH	5	punct	_	I-DATE
+5	1997	0	CD	_	6	nmod	_	L-DATE
+6	#Topps	#topps	NNS	pos2=NNP	2	npadvmod	_	O
+7	Finest	fine	JJS	pos2=NNP	13	nmod	_	O
+8	Tim	tim	NNP	_	13	compound	_	B-PERSON
+9	Duncan	duncan	NNP	_	13	compound	_	L-PERSON
+10	RC	rc	NNP	_	13	compound	_	O
+11	San	san	NNP	_	13	compound	_	O
+12	Antonio	antonio	NNP	_	13	compound	_	O
+13	#Spurs	#spurs	NNP	_	2	npadvmod	_	O
+14	With	with	IN	pos2=GW	13	prep	_	O
+15	Cover	cover	NNP	pos2=GW	14	pobj	_	O
+16	https://t.co/8aU9ghiWtW	#hlink#	ADD	_	18	nmod	_	O
+17	#Spurs	#spurs	NNS	pos2=ADD	15	appos	_	O
+18	https://t.co/2LQazKm4T7	#hlink#	ADD	_	17	pobj	_	O
+

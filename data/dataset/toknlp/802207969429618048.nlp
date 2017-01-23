@@ -1,0 +1,23 @@
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	great	great	JJ	_	2	acomp	_	O
+4	,	,	,	_	2	punct	_	O
+5	but	but	CC	_	2	cc	_	O
+6	who	who	WP	_	7	nsubj	_	O
+7	purchased	purchase	VBD	_	2	conj	_	O
+8	those	those	DT	_	9	det	_	O
+9	shares	share	NNS	_	7	dobj	_	O
+10	?	?	.	_	2	punct	_	O
+
+1	Shifting	shift	VBG	pos2=JJ	5	csubj	_	O
+2	responsibility	responsibility	NN	_	1	dobj	_	O
+3	does	do	VBZ	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	solve	solve	VB	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	problem	problem	NN	_	5	dobj	_	O
+8	.	.	.	_	5	punct	_	O
+
+1	#NoDAPL	#nodapl	ADD	pos2=-LRB-	2	punct	_	O
+2	https://t.co/g14Og2TKjL	#hlink#	ADD	_	0	root	_	O
+

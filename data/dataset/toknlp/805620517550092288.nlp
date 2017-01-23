@@ -1,0 +1,9 @@
+1	Cristiano	cristiano	NNP	_	4	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	4	compound	_	L-PERSON
+3	Workout	workout	NNP	pos2=NN	4	compound	_	O
+4	Routine	routine	NNP	pos2=JJ	8	dep	_	O
+5	and	and	CC	_	4	cc	_	O
+6	Diet	diet	NNP	pos2=NN	7	compound	_	B-PRODUCT
+7	Plan	plan	NNP	pos2=GW	4	conj	_	L-PRODUCT
+8	https://t.co/y6EHQZN14y	#hlink#	ADD	pos2=NN	0	root	_	O
+

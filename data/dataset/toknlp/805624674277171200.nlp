@@ -1,0 +1,9 @@
+1	Sen	sen	NNP	_	2	compound	_	B-PERSON
+2	Merkley	merkley	NNP	_	0	root	_	L-PERSON
+3	on	on	IN	_	2	prep	_	O
+4	voter	voter	NN	_	5	compound	_	O
+5	suppression	suppression	NN	_	3	pobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	https://t.co/NitefPbniY	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,27 @@
+1	Trump	trump	NN	pos2=NNP	4	nsubj	_	U-PERSON
+2	did	do	VBD	_	4	aux	_	O
+3	not	not	RB	_	4	neg	_	O
+4	win	win	VB	_	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	popular	popular	JJ	_	7	nmod	_	O
+7	vote	vote	NN	_	4	dobj	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	expect	expect	VBP	_	0	root	_	O
+3	there	there	RB	pos2=EX	2	advmod	_	O
+4	to	to	TO	_	5	aux	_	O
+5	be	be	VB	_	2	ccomp	_	O
+6	proof	proof	JJ	pos2=NN	5	acomp	_	O
+7	to	to	IN	_	6	prep	_	O
+8	a	a	DT	_	10	det	_	O
+9	scientific	scientific	JJ	_	10	nmod	_	O
+10	certainty	certainty	NN	_	7	pobj	_	O
+11	that	that	IN	pos2=WDT	15	mark	_	O
+12	our	our	PRP$	_	13	poss	_	O
+13	election	election	NN	_	15	nsubjpass	_	O
+14	was	be	VBD	_	15	auxpass	_	O
+15	tampered	tamper	VBN	_	5	advcl	_	O
+16	with	with	IN	_	15	prep	_	O
+17	.	.	.	_	2	punct	_	O
+

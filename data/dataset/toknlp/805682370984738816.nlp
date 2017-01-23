@@ -1,0 +1,19 @@
+1	Oral	oral	JJ	_	2	nmod	_	O
+2	history	history	NN	_	0	root	_	O
+3	&	&	CC	_	2	cc	_	O
+4	policy	policy	NN	_	2	conj	_	O
+5	by	by	IN	_	2	prep	_	O
+6	@Parkesland	@parkesland	NNP	pos2=CD	5	pobj	_	U-ORG
+7	or	or	CC	_	2	cc	_	O
+8	why	why	WRB	_	10	advmod	_	O
+9	#RCT	#rct	NN	pos2=NNP	10	nsubj	_	O
+10	is	be	VBZ	_	2	conj	_	O
+11	not	not	RB	_	10	neg	_	O
+12	the	the	DT	_	14	det	_	O
+13	gold	gold	NN	pos2=JJ	14	compound	_	O
+14	standard	standard	NN	pos2=JJ	18	nmod	_	O
+15	@fp2p	@fp0p	XX	pos2=NN	18	nmod	_	O
+16	@croche123	@croche0	GW	pos2=NN	18	nmod	_	O
+17	@rosalindeyben	@rosalindeyben	GW	pos2=ADD	18	nmod	_	O
+18	https://t.co/ZQHe9ZP93m	#hlink#	ADD	pos2=NN	10	attr	_	O
+

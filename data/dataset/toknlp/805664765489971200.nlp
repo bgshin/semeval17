@@ -1,0 +1,34 @@
+1	@MsRachelWolf	@msrachelwolf	ADD	pos2=NNP	3	punct	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	wan	wan	VBP	_	0	root	_	O
+4	na	to	TO	_	5	aux	_	O
+5	sue	sue	VB	_	3	xcomp	_	O
+6	the	the	DT	_	8	det	_	O
+7	electoral	electoral	JJ	_	8	nmod	_	O
+8	college	college	NN	_	5	dobj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	Someone	someone	NN	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	...	..	.	pos2=,	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	asked	ask	VBD	_	0	root	_	O
+3	if	if	IN	_	6	mark	_	O
+4	it	it	PRP	_	6	nsubj	_	O
+5	could	could	MD	_	6	aux	_	O
+6	be	be	VB	_	2	ccomp	_	O
+7	class	class	NN	pos2=JJ	8	compound	_	O
+8	action	action	NN	_	6	attr	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	U	u	NNP	pos2=SYM	4	nmod	_	O
+2	R	r	JJ	pos2=NNP	4	nmod	_	O
+3	legal	legal	JJ	_	4	nmod	_	O
+4	eagle	eagle	NN	pos2=NNS	0	root	_	O
+5	..	..	.	_	4	punct	_	O
+
+1	can	can	MD	_	0	root	_	O
+2	we	we	PRP	_	1	nsubj	_	O
+3	?	?	.	_	1	punct	_	O
+

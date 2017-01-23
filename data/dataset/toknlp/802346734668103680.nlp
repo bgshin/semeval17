@@ -1,0 +1,24 @@
+1	Just	just	RB	_	2	advmod	_	O
+2	in	in	IN	_	10	prep	_	O
+3	time	time	NN	_	2	pobj	_	O
+4	for	for	IN	_	3	prep	_	O
+5	Trump	trump	NNP	pos2=NN	4	pobj	_	U-ORG
+6	,	,	,	_	10	punct	_	O
+7	the	the	DT	_	9	det	_	O
+8	Obama	obama	NNP	_	9	compound	_	U-PERSON
+9	admin	admin	NN	_	10	nsubj	_	O
+10	expands	expand	VBZ	_	0	root	_	O
+11	JSOC	jsoc	NNP	_	13	poss	_	U-ORG
+12	's	's	POS	_	11	case	_	O
+13	powers	power	NNS	_	10	dobj	_	O
+14	to	to	TO	_	16	aux	_	O
+15	secretly	secretly	RB	_	16	advmod	_	O
+16	wage	wage	VB	pos2=NN	13	acl	_	O
+17	...	..	.	pos2=,	10	punct	_	O
+
+1	https://t.co/uNok0w4xii	#hlink#	ADD	pos2=NN	0	root	_	O
+2	by	by	IN	_	1	prep	_	O
+3	#johncusack	#johncusack	NN	pos2=NNP	2	pobj	_	O
+4	via	via	IN	pos2=FW	1	prep	_	O
+5	@c0nvey	@c0nvey	NN	pos2=CD	4	pobj	_	O
+

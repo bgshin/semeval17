@@ -1,0 +1,27 @@
+1	@pulmyears	@pulmyears	UH	pos2=NNS	2	dep	_	O
+2	...	..	.	pos2=,	0	punct	_	O
+
+1	oblivious	oblivious	JJ	_	10	acomp	_	O
+2	to	to	IN	pos2=TO	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	fact	fact	NN	_	2	pobj	_	O
+5	Trump	trump	NNP	pos2=NN	9	poss	_	U-ORG
+6	's	's	POS	_	5	case	_	O
+7	electoral	electoral	JJ	_	9	nmod	_	O
+8	college	college	NN	_	9	compound	_	O
+9	win	win	NN	pos2=VBP	10	nsubj	_	O
+10	was	be	VBD	_	0	root	_	O
+11	flimsy	flimsy	JJ	pos2=RB	10	acomp	_	O
+12	compared	compare	VBN	_	10	prep	_	O
+13	to	to	IN	_	12	prep	_	O
+14	HRC	hrc	NNP	pos2=NN	13	pobj	_	U-ORG
+15	winning	win	VBG	_	10	advcl	_	O
+16	popular	popular	JJ	_	17	nmod	_	O
+17	vote	vote	NN	_	15	dobj	_	O
+18	by	by	IN	_	15	prep	_	O
+19	nearly	nearly	RB	_	21	advmod	_	B-CARDINAL
+20	3	0	CD	_	21	compound	_	I-CARDINAL
+21	million	#crd#	CD	_	22	nmod	_	L-CARDINAL
+22	votes	vote	NNS	_	18	pobj	_	O
+23	.	.	.	_	10	punct	_	O
+

@@ -1,0 +1,21 @@
+1	@MSNBC	@msnbc	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	says	say	VBZ	_	0	root	_	O
+3	"	"	``	_	2	punct	_	O
+4	In	in	IN	_	10	prep	_	O
+5	2007	0	CD	_	4	pobj	_	U-DATE
+6	The	the	DT	_	7	det	_	O
+7	#UnitedStates	#unitedstates	NNS	pos2=NNPS	10	nsubj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	#America	#america	NNP	_	8	pobj	_	U-ORG
+10	voted	vote	VBD	_	2	ccomp	_	O
+11	the	the	DT	_	13	det	_	O
+12	wrong	wrong	JJ	_	13	nmod	_	O
+13	way	way	NN	_	10	dobj	_	O
+14	on	on	IN	_	13	prep	_	O
+15	genocide	genocide	NN	_	14	pobj	_	O
+16	in	in	IN	_	13	prep	_	O
+17	the	the	DT	_	18	det	_	O
+18	#UnitedNations	#unitednations	NNS	pos2=NNPS	16	pobj	_	O
+19	"	"	``	pos2=''	20	punct	_	O
+20	https://t.co/GGl7vi38uf	#hlink#	ADD	pos2=NN	15	appos	_	O
+

@@ -1,0 +1,16 @@
+1	@google_me4	@google_me0	NN	pos2=PRP$	2	compound	_	O
+2	mines	mine	NNS	_	3	nsubj	_	O
+3	was	be	VBD	_	0	root	_	O
+4	Tim	tim	NNP	_	5	compound	_	B-PERSON
+5	Duncan	duncan	NNP	_	3	attr	_	L-PERSON
+6	,	,	,	_	5	punct	_	O
+7	ray	ray	NNP	pos2=NN	8	compound	_	B-PERSON
+8	Allen	allen	NNP	_	5	conj	_	L-PERSON
+9	,	,	,	_	8	punct	_	O
+10	and	and	CC	_	8	cc	_	O
+11	Carmelo	carmelo	NNP	_	12	compound	_	B-PERSON
+12	Anthony	anthony	NNP	_	8	conj	_	L-PERSON
+13	and	and	CC	_	12	cc	_	O
+14	Allen	allen	NNP	_	15	compound	_	B-PERSON
+15	Iverson	iverson	NNP	_	12	conj	_	L-PERSON
+

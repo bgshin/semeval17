@@ -1,0 +1,25 @@
+1	Leftists	leftist	NNS	pos2=NNPS	2	nsubj	_	O
+2	want	want	VBP	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	transform	transform	VB	_	2	xcomp	_	O
+5	America	america	NNP	_	7	npadvmod	_	U-GPE
+6	-	-	HYPH	_	7	punct	_	O
+7	boiled	boil	VBN	_	9	nmod	_	O
+8	frog	frog	NN	_	9	compound	_	O
+9	strategy	strategy	NN	_	4	dobj	_	O
+10	was	be	VBD	_	11	aux	_	O
+11	working	work	VBG	_	9	relcl	_	O
+12	until	until	IN	_	14	mark	_	O
+13	Trump	trump	NNP	pos2=NN	14	nsubj	_	U-PERSON
+14	came	come	VBD	_	11	advcl	_	O
+15	along	along	RB	pos2=RP	14	advmod	_	O
+16	.	.	.	_	2	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	know	know	VBP	_	0	root	_	O
+3	Trump	trump	NNP	pos2=NN	4	nsubj	_	U-PERSON
+4	sets	set	VBZ	pos2=NNS	2	ccomp	_	O
+5	t	t	GW	pos2=NN	7	nmod	_	O
+6	…	…	GW	pos2=NFP	7	nmod	_	O
+7	https://t.co/uBYaaramAw	#hlink#	ADD	pos2=NN	4	dobj	_	U-ORG
+

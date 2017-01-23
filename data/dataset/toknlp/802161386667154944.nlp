@@ -1,0 +1,14 @@
+1	US	us	NNP	_	2	compound	_	B-ORG
+2	Airstrikes	airstrike	NNPS	pos2=NNS	3	nsubj	_	I-ORG
+3	Hit	hit	NNP	pos2=VBD	0	root	_	L-ORG
+4	34	0	CD	_	3	npadvmod	_	U-CARDINAL
+5	Daesh	daesh	NNP	_	13	compound	_	O
+6	Fighting	fight	VBG	pos2=NNP	13	compound	_	O
+7	Positions	position	NNS	pos2=NNP	6	dobj	_	O
+8	Near	near	IN	pos2=NNP	7	prep	_	O
+9	Libya	libya	NNP	_	11	poss	_	U-GPE
+10	's	's	POS	_	9	case	_	O
+11	S	s	NNP	pos2=NN	8	pobj	_	O
+12	irtehttps://t.co/E2aJFRljJx#Libya	#hlink#	ADD	pos2=HYPH	13	compound	_	O
+13	#News	#news	NNP	pos2=NNS	3	dobj	_	O
+

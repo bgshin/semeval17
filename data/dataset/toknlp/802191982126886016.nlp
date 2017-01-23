@@ -1,0 +1,17 @@
+1	https://t.co/wSBzTsdawx	#hlink#	ADD	_	8	discourse	_	U-ORG
+2	@CNNPolitics	@cnnpolitics	NNS	pos2=ADD	8	discourse	_	U-ORG
+3	@BernieSanders	@berniesanders	NNS	pos2=VBZ	8	dep	_	O
+4	@elizabethforma	@elizabethforma	NN	pos2=UH	6	compound	_	O
+5	-	-	HYPH	pos2=:	6	punct	_	O
+6	Someone	someone	NN	_	3	dobj	_	O
+7	PLEASE	please	UH	pos2=ADD	8	discourse	_	O
+8	tell	tell	VB	_	0	root	_	O
+9	this	this	DT	_	10	det	_	O
+10	fool	fool	NN	pos2=VB	8	dobj	_	O
+11	the	the	DT	_	12	det	_	O
+12	consequences	consequence	NNS	_	7	dobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	his	his	PRP$	_	15	poss	_	O
+15	actions	action	NNS	_	13	pobj	_	O
+16	!	!	.	_	8	punct	_	O
+

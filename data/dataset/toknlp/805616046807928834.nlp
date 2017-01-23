@@ -1,0 +1,8 @@
+1	fantastic	fantastic	JJ	_	3	nmod	_	O
+2	sexy	sexy	JJ	_	3	nmod	_	O
+3	women	woman	NNS	_	4	nsubj	_	O
+4	zac	zac	VBP	pos2=XX	0	root	_	O
+5	efron	efron	NN	pos2=NNP	6	nsubj	_	O
+6	doing	do	VBG	_	3	acl	_	O
+7	sex	sex	NN	_	6	dobj	_	O
+

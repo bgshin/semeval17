@@ -1,0 +1,12 @@
+1	@scooniepenn	@scooniepenn	UH	pos2=ADD	4	discourse	_	O
+2	and	and	CC	_	3	cc	_	O
+3	pro	pro	JJ	pos2=FW	4	nmod	_	O
+4	dt	dt	NN	pos2=RB	0	root	_	O
+5	because	because	IN	_	7	mark	_	O
+6	they	they	PRP	_	7	nsubj	_	O
+7	knew	know	VBD	_	3	advcl	_	O
+8	Putin	putin	NNP	_	10	nsubj	_	U-PERSON
+9	could	could	MD	_	10	aux	_	O
+10	manipulate	manipulate	VB	_	7	ccomp	_	O
+11	him	him	PRP	_	10	dobj	_	O
+

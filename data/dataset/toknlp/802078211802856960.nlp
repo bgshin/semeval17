@@ -1,0 +1,19 @@
+1	What	what	WDT	_	2	det	_	O
+2	direction	direction	NN	_	4	nsubj	_	O
+3	might	might	MD	_	4	aux	_	O
+4	#WaltDisney	#waltdisney	VB	pos2=XX	0	root	_	O
+5	aim	aim	VB	pos2=NN	4	xcomp	_	O
+6	to	to	TO	_	7	aux	_	O
+7	take	take	VB	_	5	xcomp	_	O
+8	in	in	RP	pos2=IN	7	prt	_	O
+9	the	the	DT	_	12	det	_	O
+10	live	live	JJ	_	12	nmod	_	O
+11	action	action	NN	_	12	compound	_	O
+12	version	version	NN	_	7	dobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	#BeautyandtheBeast	#beautyandthebeast	NN	pos2=NNP	13	pobj	_	O
+15	?	?	.	_	4	punct	_	O
+
+1	#productivenews	#productivenews	UH	pos2=-LRB-	2	discourse	_	O
+2	https://t.co/Iq6y5c4CTX	#hlink#	ADD	pos2=NN	0	root	_	O
+

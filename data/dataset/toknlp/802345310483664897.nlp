@@ -1,0 +1,20 @@
+1	Made	make	VBN	pos2=VBD	0	root	_	O
+2	using	use	VBG	_	1	advcl	_	O
+3	3	0	CD	_	4	nmod	_	O
+4	D	d	NN	pos2=NNP	6	compound	_	O
+5	printing	printing	NN	pos2=VBG	6	compound	_	O
+6	technology	technology	NN	_	2	dobj	_	O
+7	and	and	CC	_	1	cc	_	O
+8	fabricated	fabricate	VBN	pos2=VBD	1	conj	_	O
+9	out	out	IN	pos2=RP	8	prep	_	O
+10	of	of	IN	_	9	prep	_	O
+11	PLA	pla	NNP	_	10	pobj	_	U-ORG
+12	,	,	,	_	1	punct	_	O
+13	making	make	VBG	_	1	advcl	_	O
+14	this	this	DT	_	15	det	_	O
+15	chair	chair	NN	_	16	nsubj	_	O
+16	bio-degradable	bio-degradable	JJ	pos2=,	13	ccomp	_	O
+17	:	:	:	_	1	punct	_	O
+18	…	…	NFP	pos2=-LRB-	19	punct	_	O
+19	https://t.co/n9IGefc3d3	#hlink#	ADD	_	1	dep	_	O
+

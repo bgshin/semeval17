@@ -1,0 +1,27 @@
+1	@LemieuxLGM	@lemieuxlgm	UH	pos2=ADD	6	discourse	_	O
+2	@speechboy71	@speechboy0	NN	pos2=LS	1	vocative	_	O
+3	IMO	imo	RB	_	2	advmod	_	O
+4	,	,	,	_	6	punct	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	was	be	VBD	_	0	root	_	O
+7	a	a	DT	_	9	det	_	O
+8	unique	unique	JJ	_	9	nmod	_	O
+9	shitstorm	shitstorm	NN	_	6	attr	_	O
+10	of	of	IN	_	9	prep	_	O
+11	about	about	RB	pos2=IN	12	advmod	_	B-CARDINAL
+12	12	0	CD	_	13	nmod	_	L-CARDINAL
+13	reasons	reason	NNS	_	10	pobj	_	O
+14	and	and	CC	_	6	cc	_	O
+15	unlikely	unlikely	JJ	_	13	nmod	_	O
+16	to	to	TO	_	18	aux	_	O
+17	be	be	VB	_	18	auxpass	_	O
+18	duplicated	duplicate	VBN	_	15	xcomp	_	O
+19	.	.	.	_	6	punct	_	O
+
+1	Dems	dems	NNPS	pos2=NNS	2	nsubj	_	U-NORP
+2	need	need	VBP	pos2=NN	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	hold	hold	VB	_	2	xcomp	_	O
+5	their	their	PRP$	_	6	poss	_	O
+6	values	value	NNS	_	4	dobj	_	O
+

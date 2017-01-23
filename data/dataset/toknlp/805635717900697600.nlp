@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det	_	O
+2	Face	face	NN	pos2=NNP	13	dep	_	O
+3	Of	of	IN	_	2	prep	_	O
+4	Animal	animal	NNP	pos2=NN	5	compound	_	O
+5	Testing	testing	NN	pos2=NNP	3	pobj	_	O
+6	|	|	SYM	pos2=,	13	punct	_	O
+7	Jade	jade	NNP	pos2=NN	8	compound	_	O
+8	Madden@peta	madden@peta	NNP	pos2=GW	13	dep	_	O
+9	@PETA_Latino	@peta_latino	ADD	pos2=XX	13	dep	_	O
+10	@peta2	@peta0	NN	pos2=CD	11	compound	_	O
+11	@nutrition_facts	@nutrition_facts	NNS	pos2=GW	13	dep	_	O
+12	@OneGreenPlanet	@onegreenplanet	ADD	pos2=GW	13	punct	_	O
+13	https://t.co/SNEZMmq6fN	#hlink#	ADD	_	0	root	_	O
+

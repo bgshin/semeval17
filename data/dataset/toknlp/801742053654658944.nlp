@@ -1,0 +1,16 @@
+1	2016	0	CD	pos2=LS	2	nmod	_	U-DATE
+2	#Topps	#topps	NNS	pos2=NNP	15	dep	_	O
+3	Now	now	RB	pos2=NNP	2	advmod	_	O
+4	Max	max	NNP	_	5	compound	_	B-PERSON
+5	Scherzer	scherzer	NNP	_	2	appos	_	L-PERSON
+6	68	0	CD	_	8	nmod	_	U-CARDINAL
+7	Washington	washington	NNP	_	8	compound	_	U-GPE
+8	#Nationals	#nationals	NNS	pos2=NNP	5	npadvmod	_	B-WORK_OF_ART
+9	Cy	cy	NNP	pos2=NN	10	compound	_	I-WORK_OF_ART
+10	Young	young	NNP	pos2=JJ	12	nmod	_	I-WORK_OF_ART
+11	20	0	CD	_	12	nmod	_	I-WORK_OF_ART
+12	Strikeouts	strikeout	NNS	pos2=NNPS	15	dep	_	L-WORK_OF_ART
+13	https://t.co/eMMJ0RWhHL	#hlink#	ADD	pos2=VBP	15	dep	_	O
+14	#Baseball	#baseball	NNP	pos2=-RRB-	15	compound	_	U-WORK_OF_ART
+15	#Cards	#cards	NNS	pos2=.	0	root	_	O
+

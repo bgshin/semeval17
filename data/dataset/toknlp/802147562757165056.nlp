@@ -1,0 +1,13 @@
+1	@	@	SYM	_	4	punct	_	O
+2	3rdPeriodSuits	0rdperiodsuits	NNS	pos2=ADD	3	compound	_	O
+3	@JudeMac_17	@judemac_0	NN	pos2=CD	4	nsubj	_	O
+4	looks	look	VBZ	_	0	root	_	O
+5	like	like	IN	_	8	mark	_	O
+6	Grundstrom	grundstrom	NNP	_	8	nsubj	_	U-GPE
+7	is	be	VBZ	_	8	aux	_	O
+8	winning	win	VBG	_	4	advcl	_	O
+9	the	the	DT	_	11	det	_	B-WORK_OF_ART
+10	Cy	cy	NNP	_	11	compound	_	I-WORK_OF_ART
+11	Young	young	NNP	_	8	dobj	_	L-WORK_OF_ART
+12	.	.	.	_	4	punct	_	O
+

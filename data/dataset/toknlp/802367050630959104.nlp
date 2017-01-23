@@ -1,0 +1,16 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	11	ccomp	_	O
+3	no	no	DT	_	4	det	_	O
+4	time	time	NN	_	2	attr	_	O
+5	for	for	IN	_	4	prep	_	O
+6	unity	unity	NN	_	5	pobj	_	O
+7	--	--	:	_	11	punct	_	O
+8	Trump	trump	NNP	pos2=NN	11	nsubjpass	_	U-ORG
+9	must	must	MD	_	11	aux	_	O
+10	be	be	VB	_	11	auxpass	_	O
+11	confronted	confront	VBN	_	0	root	_	O
+12	with	with	IN	_	11	prep	_	O
+13	relentless	relentless	JJ	_	14	nmod	_	O
+14	protest	protest	NN	_	12	pobj	_	O
+15	https://t.co/YUpViOBmJ5	#hlink#	ADD	pos2=NN	11	dep	_	U-ORG
+

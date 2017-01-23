@@ -1,0 +1,20 @@
+1	@agentbizzle	@agentbizzle	UH	pos2=XX	3	discourse	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	watched	watch	VBD	pos2=VBN	0	root	_	O
+4	Beyond	beyond	NNP	pos2=IN	7	vocative	_	O
+5	do	do	VBP	_	7	aux	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	remember	remember	VB	_	3	ccomp	_	O
+8	what	what	WP	pos2=WDT	9	det	_	O
+9	episode	episode	NN	_	7	dobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Up	up	RP	pos2=NNP	13	advmod	_	O
+12	at	at	IN	_	7	prep	_	O
+13	Noon	noon	NNP	pos2=NN	12	pobj	_	U-TIME
+14	you	you	PRP	_	15	nsubj	_	O
+15	showed	show	VBD	_	7	ccomp	_	O
+16	Persona	persona	NNP	pos2=NN	15	dative	_	O
+17	5	0	CD	pos2=VB	16	nmod	_	U-CARDINAL
+18	on	on	IN	pos2=RB	15	prep	_	O
+19	?	?	.	_	3	punct	_	O
+

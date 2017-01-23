@@ -1,0 +1,10 @@
+1	Supercars	supercar	NNS	pos2=NNP	9	dep	_	O
+2	of	of	IN	_	1	prep	_	O
+3	Cristiano	cristiano	NNP	_	6	compound	_	B-PERSON
+4	Ronaldo	ronaldo	NNP	_	9	dep	_	I-PERSON
+5	-	-	HYPH	pos2=:	9	punct	_	I-PERSON
+6	Top	top	NNP	pos2=JJ	9	dep	_	L-PERSON
+7	10	0	CD	pos2=GW	9	dep	_	U-CARDINAL
+8	https://t.co/TS1c6sB5LB	#hlink#	ADD	_	9	nmod	_	O
+9	https://t.co/I8ums8VpAX	#hlink#	ADD	_	0	root	_	U-ORG
+

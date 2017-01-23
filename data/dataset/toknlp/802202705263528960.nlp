@@ -1,0 +1,13 @@
+1	Leadership	leadership	NN	_	2	compound	_	O
+2	lesson	lesson	NN	_	0	root	_	O
+3	from	from	IN	_	2	prep	_	O
+4	Manager	manager	NNP	pos2=NN	3	pobj	_	O
+5	,	,	,	_	4	punct	_	O
+6	Darius	darius	NNP	_	9	poss	_	U-PERSON
+7	's	's	POS	_	6	case	_	O
+8	favorite	favorite	JJ	_	9	nmod	_	O
+9	team	team	NN	_	4	appos	_	O
+10	!	!	.	_	2	punct	_	O
+
+1	https://t.co/4vwEuoLsBW	#hlink#	ADD	_	0	root	_	U-ORG
+

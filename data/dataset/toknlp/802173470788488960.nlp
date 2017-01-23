@@ -1,0 +1,20 @@
+1	Read	read	VB	pos2=VBD	0	root	_	O
+2	this	this	DT	_	19	det	_	O
+3	>	>	``	pos2=-RRB-	12	punct	_	O
+4	No	no	UH	pos2=DT	12	discourse	_	O
+5	,	,	,	_	12	punct	_	O
+6	Trump	trump	NNP	pos2=NN	12	vocative	_	U-PERSON
+7	,	,	,	_	12	punct	_	O
+8	We	we	PRP	_	12	nsubj	_	O
+9	Ca	can	MD	_	12	aux	_	O
+10	n’t	not	RB	_	12	neg	_	O
+11	Just	just	RB	_	12	advmod	_	O
+12	Get	get	VB	_	19	nmod	_	O
+13	Along	along	IN	pos2=GW	12	prt	_	O
+14	https://t.co/u9QgIMCCvc	#hlink#	ADD	pos2=NN	15	nmod	_	O
+15	#wipolitics	#wipolitics	NNS	pos2=IN	19	nmod	_	O
+16	#wiunion	#wiunion	UH	pos2=ADD	19	discourse	_	O
+17	#UniteBlue	#uniteblue	ADD	pos2=NNP	19	punct	_	O
+18	#tcot	#tcot	UH	pos2=IN	19	discourse	_	O
+19	#MAGA	#maga	NN	pos2=ADD	1	dobj	_	O
+

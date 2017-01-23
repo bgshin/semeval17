@@ -1,0 +1,14 @@
+1	@BobStellaSJ	@bobstellasj	ADD	pos2=XX	2	det	_	O
+2	@Nene_90047	@nene_0	NN	pos2=NNS	6	vocative	_	O
+3	@thehill	@thehill	UH	pos2=RB	2	discourse	_	O
+4	Unless	unless	IN	pos2=WRB	6	mark	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	want	want	VBP	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	work	work	VB	_	6	xcomp	_	O
+9	for	for	IN	_	8	prep	_	O
+10	below	below	IN	pos2=RB	8	prep	_	O
+11	minimum	minimum	JJ	pos2=NN	12	nmod	_	O
+12	wage	wage	NN	_	10	pobj	_	O
+13	.	.	.	_	6	punct	_	O
+

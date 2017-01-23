@@ -1,0 +1,20 @@
+1	Like	like	IN	pos2=UH	0	root	_	O
+2	an	an	DT	_	4	det	_	O
+3	escape	escape	NN	_	4	compound	_	O
+4	capsule	capsule	NN	_	1	pobj	_	O
+5	sent	send	VBN	pos2=VBD	4	acl	_	O
+6	accidentally	accidentally	RB	_	7	advmod	_	O
+7	empty	empty	JJ	_	5	advcl	_	O
+8	.	.	.	_	7	punct	_	O
+
+1	–	-	SYM	pos2=:	4	punct	_	O
+2	Monica	monica	NNP	_	3	compound	_	B-PERSON
+3	Youn	youn	NNP	_	4	nsubj	_	L-PERSON
+4	reads	read	VBZ	_	0	root	_	O
+5	from	from	IN	_	4	prep	_	O
+6	BLACKACRE	blackacre	NNP	pos2=NN	5	pobj	_	O
+7	at	at	IN	_	4	prep	_	O
+8	#MiamiBookFair2016	#miamibookfair0	GW	pos2=CD	7	pobj	_	O
+9	#NBAwards	#nbawards	GW	pos2=ADD	10	nmod	_	O
+10	https://t.co/6fuUrHu33P	#hlink#	ADD	pos2=NN	7	pobj	_	O
+

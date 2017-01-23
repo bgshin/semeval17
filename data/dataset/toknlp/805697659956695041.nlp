@@ -1,0 +1,20 @@
+1	@dharitrinath	@dharitrinath	UH	pos2=XX	0	root	_	O
+2	Wow	wow	UH	_	1	discourse	_	O
+3	...	..	.	_	1	punct	_	O
+
+1	this	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	one	#crd#	CD	_	5	nmod	_	U-CARDINAL
+4	deadly	deadly	JJ	_	5	nmod	_	O
+5	statement	statement	NN	_	2	attr	_	O
+6	!	!	.	_	2	punct	_	O
+
+1	Reminding	remind	VBG	_	0	root	_	O
+2	me	me	PRP	_	1	dobj	_	O
+3	of	of	IN	_	1	prep	_	O
+4	the	the	DT	_	7	det	_	O
+5	Greta	greta	NNP	_	7	compound	_	B-PERSON
+6	Muhammad	muhammad	NNP	_	7	compound	_	I-PERSON
+7	Ali	ali	NNP	_	3	pobj	_	L-PERSON
+8	.	.	.	_	1	punct	_	O
+

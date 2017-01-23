@@ -1,0 +1,26 @@
+1	@realDonaldTrump	@realdonaldtrump	VB	pos2=XX	0	root	_	O
+2	what	what	WP	_	3	attr	_	O
+3	are	be	VBP	_	1	ccomp	_	O
+4	your	your	PRP$	_	5	poss	_	O
+5	thoughts	thought	NNS	_	3	nsubj	_	O
+6	on	on	IN	pos2=RP	5	prep	_	O
+7	#Gerrymandering	#gerrymandering	NNP	pos2=VBG	6	pobj	_	U-GPE
+8	?	?	.	_	1	punct	_	O
+
+1	Great	great	JJ	_	2	nmod	_	O
+2	way	way	NN	pos2=RB	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	fix	fix	VB	_	2	relcl	_	O
+5	washington	washington	NNP	pos2=NN	4	dobj	_	U-GPE
+6	and	and	CC	_	2	cc	_	O
+7	#draintheswamp	#draintheswamp	EX	pos2=XX	8	expl	_	O
+8	is	be	VBZ	_	2	conj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	get	get	VB	_	8	xcomp	_	O
+11	rid	rid	VBN	pos2=JJ	10	acomp	_	O
+12	of	of	IN	_	11	prep	_	O
+13	it	it	PRP	_	12	pobj	_	O
+14	!	!	.	_	8	punct	_	O
+
+1	#MAGA	#maga	NN	pos2=ADD	0	root	_	O
+

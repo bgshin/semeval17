@@ -1,0 +1,22 @@
+1	Yes	yes	UH	_	3	discourse	_	O
+2	@SpeakerRyan	@speakerryan	NN	pos2=ADD	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	Political	political	JJ	pos2=NNP	6	nmod	_	O
+6	Idiot	idiot	NNP	pos2=NN	3	attr	_	O
+7	,	,	,	_	6	punct	_	O
+8	who	who	WP	_	11	nsubj	_	O
+9	should	should	MD	_	11	aux	_	O
+10	be	be	VB	_	11	aux	_	O
+11	chucking	chuck	VBG	_	6	relcl	_	O
+12	burgers	burger	NNS	_	11	dobj	_	O
+13	at	at	IN	_	11	prep	_	O
+14	a	a	DT	pos2=NNP	15	det	_	O
+15	McDonald	mcdonald	NNP	_	13	pobj	_	B-ORG
+16	's	's	POS	_	15	case	_	L-ORG
+17	near	near	IN	_	15	prep	_	O
+18	you	you	PRP	_	17	pobj	_	O
+19	.	.	.	_	3	punct	_	O
+
+1	https://t.co/fkkos51vfI	#hlink#	ADD	_	0	root	_	U-ORG
+

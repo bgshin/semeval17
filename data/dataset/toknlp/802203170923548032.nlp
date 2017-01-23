@@ -1,0 +1,15 @@
+1	@riseupnet	@riseupnet	UH	pos2=NN	7	discourse	_	O
+2	@AnonUKRadio	@anonukradio	UH	pos2=ADD	7	discourse	_	O
+3	@IGD_News	@igd_news	NNS	pos2=UH	4	compound	_	O
+4	@BLM5280	@blm0	NN	pos2=NNS	7	npadvmod	_	O
+5	We	we	PRP	_	7	nsubj	_	O
+6	must	must	MD	_	7	aux	_	O
+7	unite	unite	VB	_	0	root	_	O
+8	ALL	all	RB	pos2=DT	9	advmod	_	O
+9	against	against	IN	_	7	prep	_	O
+10	#oppression	#oppression	NN	pos2=NNP	11	compound	_	O
+11	#IndigenousRights	#indigenousrights	NNS	pos2=NNPS	9	pobj	_	B-DATE
+12	#BlackLivesMatter	#blacklivesmatter	ADD	pos2=GW	7	advcl	_	L-DATE
+13	#J20	#j0	NN	pos2=CD	14	compound	_	O
+14	#disruptJ20	#disruptj0	NN	pos2=NNS	7	dobj	_	O
+

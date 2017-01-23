@@ -1,0 +1,24 @@
+1	@HyattOHare	@hyattohare	NN	pos2=ADD	11	vocative	_	O
+2	as	as	IN	_	1	prep	_	O
+3	part	part	NN	_	2	pobj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	9	det	_	O
+6	#furfest	#furfest	NNP	pos2=JJS	9	compound	_	O
+7	hotel	hotel	NN	_	9	compound	_	O
+8	liaison	liaison	NN	_	9	compound	_	O
+9	team	team	NN	_	4	pobj	_	O
+10	,	,	,	_	11	punct	_	O
+11	THANK	thank	VBP	_	0	root	_	O
+12	YOU	you	PRP	_	11	dobj	_	O
+13	for	for	IN	_	11	prep	_	O
+14	your	your	PRP$	_	16	poss	_	O
+15	incredible	incredible	JJ	_	16	nmod	_	O
+16	hospitality	hospitality	NN	_	13	pobj	_	O
+17	this	this	DT	_	18	det	_	O
+18	weekend	weekend	NN	_	11	npadvmod	_	O
+19	!	!	.	_	11	punct	_	O
+
+1	You	you	PRP	_	3	nmod	_	O
+2	…	…	NFP	pos2=VBP	3	punct	_	O
+3	https://t.co/5var8v99MM	#hlink#	ADD	_	0	root	_	O
+

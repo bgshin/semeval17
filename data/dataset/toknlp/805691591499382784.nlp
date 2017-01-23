@@ -1,0 +1,32 @@
+1	@Roseyanny	@roseyanny	NNP	pos2=NN	12	nsubj	_	U-PERSON
+2	And	and	CC	_	1	cc	_	O
+3	yet	yet	RB	_	1	conj	_	O
+4	,	,	,	_	12	punct	_	O
+5	on	on	IN	_	12	prep	_	O
+6	their	their	PRP$	_	7	poss	_	O
+7	website	website	NN	_	5	pobj	_	O
+8	,	,	,	_	12	punct	_	O
+9	the	the	DT	_	10	det	_	O
+10	BBC	bbc	NNP	_	12	nsubj	_	U-ORG
+11	have	have	VBP	_	12	aux	_	O
+12	sought	seek	VBN	_	0	root	_	O
+13	the	the	DT	_	14	det	_	O
+14	opinion	opinion	NN	_	12	dobj	_	O
+15	of	of	IN	pos2=RB	14	prep	_	O
+16	...	..	.	pos2=,	12	punct	_	O
+
+1	Marine	marine	NNP	pos2=JJ	3	compound	_	B-PERSON
+2	Le	le	NNP	_	3	compound	_	I-PERSON
+3	Pen	pen	NNP	_	0	root	_	L-PERSON
+4	,	,	,	_	3	punct	_	O
+5	who	who	WP	_	10	nsubjpass	_	O
+6	ca	can	MD	_	10	aux	_	O
+7	n't	not	RB	_	10	neg	_	O
+8	even	even	RB	_	10	advmod	_	O
+9	get	get	VB	_	10	auxpass	_	O
+10	heard	hear	VBN	_	3	relcl	_	O
+11	here	here	RB	_	10	advmod	_	O
+12	in	in	IN	_	11	prep	_	O
+13	France	france	NNP	_	12	pobj	_	U-GPE
+14	.	.	.	_	3	punct	_	O
+

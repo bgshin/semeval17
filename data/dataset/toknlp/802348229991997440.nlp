@@ -1,0 +1,13 @@
+1	❤️	❤️	NNP	pos2=NFP	3	compound	_	O
+2	Leonard	leonard	NNP	_	3	compound	_	B-PERSON
+3	Cohen	cohen	NNP	_	12	dep	_	L-PERSON
+4	on	on	IN	_	3	prep	_	O
+5	Democracy	democracy	NNP	_	4	pobj	_	U-ORG
+6	and	and	CC	_	5	cc	_	O
+7	Its	its	PRP$	pos2=NNP	8	poss	_	O
+8	Redemptions	redemption	NNS	pos2=NNPS	5	conj	_	O
+9	–	-	:	pos2=HYPH	12	punct	_	O
+10	Brain	brain	NN	pos2=NNP	11	compound	_	O
+11	Pickings	picking	NNS	_	12	dep	_	O
+12	https://t.co/F8OA8ZA7D4	#hlink#	ADD	pos2=VBP	0	root	_	O
+

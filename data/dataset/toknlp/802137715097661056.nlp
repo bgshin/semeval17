@@ -1,0 +1,24 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@SenWarren	@senwarren	NNP	pos2=ADD	2	compound	_	O
+2	@elizabethforma	@elizabethforma	NN	pos2=NNP	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	disgrace	disgrace	NN	_	3	attr	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	Supported	support	VBD	pos2=VBN	0	root	_	O
+2	Wall	wall	NNP	_	3	compound	_	O
+3	St	st	NNP	pos2=NN	4	compound	_	O
+4	candidate	candidate	NN	_	1	dobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	Whole	whole	JJ	pos2=NN	2	nmod	_	O
+2	career	career	NN	_	4	nsubj	_	O
+3	has	have	VBZ	_	4	aux	_	O
+4	been	be	VBN	_	0	root	_	O
+5	fraudulent	fraudulent	JJ	_	4	acomp	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	https://t.co/LvRqEO7mUG	#hlink#	ADD	_	0	root	_	U-ORG
+

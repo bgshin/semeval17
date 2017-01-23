@@ -1,0 +1,23 @@
+1	Retweeted	retweeted	VBN	pos2=VBD	2	nmod	_	O
+2	Agenda	agenda	NNP	pos2=NN	13	poss	_	O
+3	Of	of	IN	pos2=POS	2	prep	_	O
+4	Evil	evil	NNP	pos2=JJ	5	compound	_	O
+5	🐸	🐸	NNP	pos2=''	3	pobj	_	O
+6	(	(	-LRB-	_	7	punct	_	O
+7	@AgendaOfEvil	@agendaofevil	NNP	pos2=ADD	5	appos	_	U-ORG
+8	)	)	-RRB-	_	7	punct	_	O
+9	:#Obama	:#obama	POS	pos2=IN	2	case	_	O
+10	DOJ	doj	NNP	_	11	compound	_	B-ORG
+11	Fines	fine	NNPS	pos2=NNP	13	compound	_	I-ORG
+12	Police	police	NNP	pos2=NNPS	13	compound	_	I-ORG
+13	Department	department	NNP	_	0	root	_	L-ORG
+14	$	$	$	pos2=HYPH	15	nmod	_	O
+15	10K	0k	CD	pos2=NN	0	root	_	U-MONEY
+16	for	for	IN	_	15	prep	_	O
+17	Refusing	refuse	VBG	_	16	pcomp	_	O
+18	to	to	TO	_	19	aux	_	O
+19	Hire	hire	VB	pos2=NNP	17	xcomp	_	O
+20	...	..	.	pos2=,	15	punct	_	O
+
+1	https://t.co/FHq1ftXsJ3	#hlink#	ADD	_	0	root	_	U-ORG
+

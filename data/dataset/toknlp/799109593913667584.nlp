@@ -1,0 +1,25 @@
+1	-	-	SYM	pos2=,	2	punct	_	O
+2	Expect	expect	VB	pos2=VBP	0	root	_	O
+3	no	no	DT	_	6	det	_	O
+4	real	real	JJ	_	6	nmod	_	O
+5	immigration	immigration	NN	_	6	compound	_	O
+6	reform	reform	NN	_	2	dobj	_	O
+7	,	,	,	_	24	punct	_	O
+8	no	no	DT	_	9	det	_	O
+9	wall	wall	NN	_	6	appos	_	O
+10	on	on	IN	_	9	prep	_	O
+11	the	the	DT	_	13	det	_	O
+12	Mexican	mexican	JJ	pos2=NNP	13	nmod	_	U-NORP
+13	border	border	NN	_	10	pobj	_	O
+14	,	,	,	_	19	punct	_	O
+15	no	no	DT	_	16	det	_	O
+16	repeal	repeal	NN	_	6	appos	_	O
+17	of	of	IN	_	16	prep	_	O
+18	the	the	DT	_	20	det	_	O
+19	sick	sick	JJ	_	20	nmod	_	O
+20	joke	joke	NN	_	17	pobj	_	O
+21	known	know	VBN	_	20	acl	_	O
+22	as	as	IN	_	21	prep	_	O
+23	…	…	NFP	pos2=-LRB-	22	pobj	_	O
+24	https://t.co/BCCiO2K2PP	#hlink#	ADD	pos2=NN	22	pobj	_	U-ORG
+

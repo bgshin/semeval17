@@ -1,0 +1,9 @@
+1	@Pkartkat	@pkartkat	NNP	pos2=UH	0	preconj	_	U-PERSON
+2	unfortunately	unfortunately	RB	_	4	advmod	_	O
+3	that	that	WDT	pos2=DT	4	nsubj	_	O
+4	requires	require	VBZ	_	1	relcl	_	O
+5	a	a	DT	_	7	det	_	O
+6	Galaxy	galaxy	NNP	pos2=NN	7	compound	_	O
+7	Note	note	NN	pos2=NNP	4	dobj	_	O
+8	7	0	CD	_	7	nmod	_	U-CARDINAL
+

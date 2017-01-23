@@ -1,0 +1,18 @@
+1	#ESPN	#espn	NNP	pos2=NN	6	npadvmod	_	B-DATE
+2	2013	0	CD	_	4	qmod	_	I-DATE
+3	-	-	SYM	pos2=HYPH	4	punct	_	I-DATE
+4	14	0	CD	_	9	nmod	_	L-DATE
+5	Panini	panini	NNP	pos2=NN	9	compound	_	B-ORG
+6	Gold	gold	NNP	pos2=NN	9	compound	_	I-ORG
+7	Standard	standard	NNP	pos2=JJ	9	compound	_	I-ORG
+8	Gold	gold	NNP	pos2=NN	9	compound	_	I-ORG
+9	Prospects	prospect	NNPS	pos2=NNS	10	compound	_	L-ORG
+10	#	#	NN	pos2=$	11	dep	_	O
+11	35	0	LS	pos2=CD	13	meta	_	U-MONEY
+12	Harrison	harrison	NNP	_	13	compound	_	B-PERSON
+13	Barnes	barnes	NNP	_	0	root	_	L-PERSON
+14	/	/	SYM	pos2=GW	13	punct	_	O
+15	49	0	CD	_	17	nmod	_	B-DATE
+16	https://t.co/MmeqHxFlnq	#hlink#	ADD	_	17	nmod	_	L-DATE
+17	#TFBJP	#tfbjp	NN	pos2=-RRB-	13	appos	_	O
+

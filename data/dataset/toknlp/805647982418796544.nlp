@@ -1,0 +1,19 @@
+1	'	'	``	pos2=SYM	18	punct	_	O
+2	Neighbors	neighbor	NNS	_	6	nsubj	_	O
+3	2	0	CD	pos2=LS	4	nmod	_	U-CARDINAL
+4	'	'	NNS	pos2=POS	2	appos	_	O
+5	First	#ord#	RB	pos2=JJ	6	advmod	_	O
+6	Look	look	VBP	pos2=VB	9	dep	_	O
+7	:	:	:	_	9	punct	_	O
+8	Seth	seth	NNP	_	9	compound	_	B-PERSON
+9	Rogen	rogen	NNP	_	18	dep	_	L-PERSON
+10	,	,	,	_	9	punct	_	O
+11	Zac	zac	NNP	_	13	compound	_	B-PERSON
+12	Efron	efron	NNP	_	13	compound	_	L-PERSON
+13	Show	show	NNP	pos2=VB	9	conj	_	O
+14	Their	their	PRP$	pos2=NNP	15	poss	_	O
+15	Muscles	muscle	NNS	pos2=NNPS	18	nmod	_	O
+16	#ZacEfron	#zacefron	GW	pos2=ADD	18	nmod	_	O
+17	https://t.co/PLweki2aao	#hlink#	ADD	_	18	nmod	_	O
+18	https://t.co/oq2S4HhI6L	#hlink#	ADD	_	0	root	_	U-ORG
+

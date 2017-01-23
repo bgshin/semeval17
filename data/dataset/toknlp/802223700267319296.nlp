@@ -1,0 +1,34 @@
+1	@SheilaInCT	@sheilainct	LS	pos2=NN	0	root	_	U-CARDINAL
+2	.	.	.	_	1	punct	_	O
+
+1	Next	next	NNP	pos2=JJ	2	compound	_	B-PERSON
+2	Trump	trump	NNP	pos2=NN	3	nsubj	_	L-PERSON
+3	dumps	dump	VBZ	_	0	root	_	O
+4	Posse	posse	NNP	_	5	compound	_	O
+5	Comitatus	comitatus	NNP	pos2=NN	3	dobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	Uses	use	VBZ	pos2=NNS	0	root	_	O
+2	"	"	``	_	3	punct	_	O
+3	Elite	elite	JJ	pos2=NNP	5	nmod	_	O
+4	"	"	''	_	5	punct	_	O
+5	Forces	force	NNS	pos2=NNPS	1	dobj	_	O
+6	,	,	,	_	1	punct	_	O
+7	domestically	domestically	RB	_	1	advmod	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	Bad	bad	JJ	pos2=NNP	2	nmod	_	O
+2	Hombres	hombres	NNP	pos2=NNS	3	nsubj	_	O
+3	trapped	trap	VBN	_	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	US	us	NNP	_	7	compound	_	U-GPE
+6	border	border	NN	_	7	compound	_	O
+7	town	town	NN	_	4	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	SPEC	spec	NNP	pos2=NN	3	compound	_	U-ORG
+2	-	-	HYPH	pos2=SYM	3	punct	_	O
+3	OPS	ops	NNP	pos2=NNS	4	compound	_	O
+4	MOVE	move	NN	pos2=VB	0	root	_	O
+5	IN.	in.	.	pos2=NNP	4	punct	_	O
+

@@ -1,0 +1,19 @@
+1	Christmas	christmas	NNP	pos2=NN	2	compound	_	U-DATE
+2	list	list	NN	_	0	root	_	O
+3	:	:	:	_	2	punct	_	O
+4	Gains	gain	NNS	_	2	appos	_	O
+5	,	,	,	_	4	punct	_	O
+6	10lbs	0lbs	NNS	pos2=CD	4	appos	_	U-CARDINAL
+7	of	of	IN	_	6	prep	_	O
+8	100	0	CD	_	9	nmod	_	B-PERCENT
+9	%	%	NN	_	10	compound	_	L-PERCENT
+10	Whey	whey	NN	pos2=NNP	14	compound	_	O
+11	Gold	gold	NNP	pos2=NN	14	compound	_	B-ORG
+12	Standard	standard	NNP	pos2=JJ	14	compound	_	I-ORG
+13	Protein	protein	NNP	pos2=NN	14	compound	_	I-ORG
+14	Powder	powder	NNP	pos2=NN	7	pobj	_	L-ORG
+15	,	,	,	_	14	punct	_	O
+16	more	more	JJR	_	17	nmod	_	O
+17	gains	gain	NNS	_	14	appos	_	O
+18	.	.	.	_	2	punct	_	O
+

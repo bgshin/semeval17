@@ -1,0 +1,14 @@
+1	@GicAriana	@gicariana	NNP	pos2=NN	9	dep	_	O
+2	Next	next	RB	pos2=NNP	3	advmod	_	O
+3	up	up	RB	pos2=RP	1	advmod	_	O
+4	in	in	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	narrative	narrative	NN	_	4	pobj	_	O
+7	:	:	:	_	9	punct	_	O
+8	Saakashvili	saakashvili	NNP	_	9	nsubj	_	U-PERSON
+9	is	be	VBZ	_	0	root	_	O
+10	a	a	DT	_	12	det	_	O
+11	kremlin	kremlin	NN	pos2=NNP	12	compound	_	O
+12	agent	agent	NN	_	9	attr	_	O
+13	.	.	.	_	9	punct	_	O
+

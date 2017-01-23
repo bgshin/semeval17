@@ -1,0 +1,13 @@
+1	#Banderastan	#banderastan	NNP	_	2	compound	_	B-ORG
+2	Poroshenko	poroshenko	NNP	_	4	nsubj	_	L-ORG
+3	has	have	VBZ	_	4	aux	_	O
+4	exchanged	exchange	VBN	_	0	root	_	O
+5	Ukraine	ukraine	NNP	_	6	compound	_	U-GPE
+6	wood	wood	NN	_	4	dobj	_	O
+7	for	for	IN	_	4	prep	_	O
+8	another	another	DT	_	9	det	_	O
+9	loan	loan	NN	_	7	pobj	_	O
+10	from	from	IN	_	9	prep	_	O
+11	EUhttps://t.co/h8GyTz21Vn	#hlink#	ADD	_	10	pobj	_	O
+12	https://t.co/tFUODzCvSz	#hlink#	ADD	_	4	dep	_	U-ORG
+

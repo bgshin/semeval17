@@ -1,0 +1,21 @@
+1	#VaughanRadio	#vaughanradio	UH	pos2=ADD	7	discourse	_	O
+2	@imkylemillar	@imkylemillar	UH	pos2=JJ	7	discourse	_	O
+3	@vaughan_radio	@vaughan_radio	UH	pos2=IN	7	discourse	_	O
+4	we	we	PRP	_	7	nsubj	_	O
+5	do	do	VBP	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	support	support	VB	_	0	root	_	O
+8	#NationalFastFoodDay	#nationalfastfoodday	NNP	pos2=ADD	7	dobj	_	O
+9	it	it	PRP	_	10	nsubj	_	O
+10	's	's	VBZ	_	7	advcl	_	O
+11	not	not	RB	_	10	neg	_	O
+12	sustainable	sustainable	JJ	_	10	acomp	_	O
+13	.	.	.	_	7	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	better	good	JJR	_	2	acomp	_	O
+4	to	to	TO	_	5	aux	_	O
+5	cook	cook	VB	_	2	xcomp	_	O
+6	yourself	yourself	PRP	_	5	dobj	_	O
+

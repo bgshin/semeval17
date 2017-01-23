@@ -1,0 +1,15 @@
+1	As	as	IN	_	3	mark	_	O
+2	Putin	putin	NNP	_	3	nsubj	_	U-PERSON
+3	rattles	rattle	VBZ	_	9	advcl	_	O
+4	saber	saber	NN	_	3	dobj	_	O
+5	,	,	,	_	9	punct	_	O
+6	one	#crd#	CD	_	8	nmod	_	U-CARDINAL
+7	Russian	russian	JJ	_	8	nmod	_	U-NORP
+8	city	city	NN	_	9	nsubj	_	O
+9	prepares	prepare	VBZ	_	0	root	_	O
+10	to	to	TO	_	11	aux	_	O
+11	rally	rally	VB	_	9	xcomp	_	O
+12	for	for	IN	_	11	prep	_	O
+13	Trump	trump	NNP	pos2=NN	12	pobj	_	B-ORG
+14	https://t.co/T25NcTQIBs	#hlink#	ADD	pos2=NNP	13	appos	_	L-ORG
+

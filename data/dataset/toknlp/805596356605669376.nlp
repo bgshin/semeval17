@@ -1,0 +1,23 @@
+1	First	#ord#	RB	pos2=NNP	2	advmod	_	U-ORDINAL
+2	Brexit	brexit	NNP	pos2=RB	0	root	_	U-PERSON
+3	!	!	.	_	2	punct	_	O
+
+1	Now	now	RB	pos2=UH	2	advmod	_	O
+2	Italy	italy	NNP	_	0	root	_	U-GPE
+3	!	!	.	_	2	punct	_	O
+
+1	Next	next	JJ	_	2	nmod	_	B-DATE
+2	year	year	NN	_	5	compound	_	L-DATE
+3	Marine	marine	NNP	_	5	compound	_	B-ORG
+4	Le	le	NNP	_	5	compound	_	I-ORG
+5	Pen	pen	NNP	_	0	root	_	L-ORG
+6	?	?	.	_	5	punct	_	O
+
+1	and	and	CC	_	3	cc	_	O
+2	Dutch	dutch	JJ	_	3	nmod	_	U-NORP
+3	elections	election	NNS	_	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+
+1	#EUfinished	#eufinished	ADD	pos2=VBN	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+

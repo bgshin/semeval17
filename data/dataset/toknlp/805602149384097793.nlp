@@ -1,0 +1,7 @@
+1	@NOVAxRANGERx	@novaxrangerx	XX	pos2=ADD	2	dep	_	O
+2	@FiveStarMagPW	@fivestarmagpw	XX	pos2=IN	0	root	_	O
+3	The	the	DT	_	5	det	_	O
+4	gold	gold	NN	pos2=JJ	5	compound	_	O
+5	standard	standard	NN	_	2	appos	_	O
+6	.	.	.	_	2	punct	_	O
+

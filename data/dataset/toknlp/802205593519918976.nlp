@@ -1,0 +1,12 @@
+1	#lmao	#lmao	UH	pos2=FW	11	discourse	_	O
+2	😂😂😂😂	😂😂😂😂	LS	pos2=UH	11	punct	_	O
+3	#theface	#theface	UH	pos2=NN	11	discourse	_	O
+4	definitely	definitely	RB	_	11	advmod	_	O
+5	me	me	PRP	_	11	dep	_	O
+6	#mannequin	#mannequin	UH	pos2=IN	9	discourse	_	O
+7	#mannequinchallenge	#mannequinchallenge	UH	pos2=ADD	9	discourse	_	O
+8	#goofy	#goofy	UH	pos2=VB	9	discourse	_	O
+9	#stevebuscemi	#stevebuscemi	UH	pos2=AFX	11	discourse	_	O
+10	…	…	NFP	pos2=-LRB-	11	punct	_	O
+11	https://t.co/Wm1DqMfTNi	#hlink#	ADD	_	0	root	_	O
+

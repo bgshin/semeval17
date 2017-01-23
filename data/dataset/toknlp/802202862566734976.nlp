@@ -1,0 +1,18 @@
+1	@V_of_Europe	@v_of_europe	NN	pos2=NNP	6	nsubj	_	O
+2	did	do	VBD	_	6	aux	_	O
+3	n't	not	RB	_	6	neg	_	O
+4	his	his	PRP$	_	5	poss	_	O
+5	family	family	NN	_	6	nsubj	_	O
+6	make	make	VB	pos2=VBP	0	root	_	O
+7	planes	plane	NNS	_	6	dobj	_	O
+8	for	for	IN	_	6	prep	_	O
+9	the	the	DT	_	12	det	_	O
+10	NAZI	nazi	NNP	pos2=JJ	12	compound	_	U-NORP
+11	war	war	NN	_	12	compound	_	O
+12	machine	machine	NN	_	8	pobj	_	O
+13	,	,	,	_	12	punct	_	O
+14	DIRTY	dirty	JJ	_	17	nmod	_	O
+15	FUCKING	fucking	JJ	_	16	nmod	_	O
+16	CUNT	cunt	NN	pos2=NNP	17	compound	_	O
+17	😱😱	😱😱	NN	pos2=.	12	appos	_	O
+

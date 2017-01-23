@@ -1,0 +1,26 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	MAJOR	major	JJ	_	5	nmod	_	O
+5	FAILURE	failure	NN	_	2	attr	_	O
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	4th	#ord#	JJ	pos2=NN	9	nmod	_	U-ORDINAL
+9	estate	estate	NN	_	6	pobj	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	How	how	WRB	_	7	advmod	_	O
+2	Russia	russia	NNP	_	7	nsubj	_	U-GPE
+3	,	,	,	_	2	punct	_	O
+4	Putin	putin	NNP	_	2	conj	_	U-PERSON
+5	and	and	CC	_	4	cc	_	O
+6	Comey	comey	NNP	_	4	conj	_	U-PERSON
+7	CONSPIRED	conspire	VBD	_	0	root	_	O
+8	with	with	IN	_	7	prep	_	O
+9	@realDonaldTrump	@realdonaldtrump	NNP	pos2=NNS	8	pobj	_	U-ORG
+10	to	to	TO	_	11	aux	_	O
+11	steal	steal	VB	_	7	xcomp	_	O
+12	the	the	DT	_	13	det	_	O
+13	…	…	NFP	pos2=-LRB-	11	dobj	_	O
+14	https://t.co/gAA5yJAkOr	#hlink#	ADD	pos2=NN	11	dobj	_	O
+

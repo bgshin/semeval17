@@ -1,0 +1,13 @@
+1	@Bucshunter	@bucshunter	NNP	pos2=XX	6	vocative	_	O
+2	@mateagold	@mateagold	UH	pos2=MD	6	discourse	_	O
+3	@JohnJHarwood	@johnjharwood	UH	pos2=NN	6	discourse	_	O
+4	@washingtonpost	@washingtonpost	UH	pos2=MD	6	discourse	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	think	think	VBP	_	0	root	_	O
+7	she	she	PRP	_	8	nsubj	_	O
+8	's	's	VBZ	_	6	ccomp	_	O
+9	a	a	DT	_	11	det	_	O
+10	fucking	fucking	JJ	pos2=VBG	11	nmod	_	O
+11	Nazi	nazi	NNP	pos2=NN	8	attr	_	U-NORP
+12	.	.	.	_	6	punct	_	O
+

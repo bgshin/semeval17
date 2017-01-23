@@ -1,0 +1,9 @@
+1	good	good	JJ	_	2	nmod	_	O
+2	morning	morning	NN	_	0	root	_	U-TIME
+3	everyone	everyone	NN	_	2	vocative	_	O
+4	except	except	IN	_	3	prep	_	O
+5	dakota	dakota	JJ	pos2=GW	8	nmod	_	O
+6	access	access	NN	pos2=AFX	7	compound	_	O
+7	pipeline	pipeline	NN	_	8	compound	_	O
+8	supporters	supporter	NNS	_	4	pobj	_	O
+

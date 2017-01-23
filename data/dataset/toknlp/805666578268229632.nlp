@@ -1,0 +1,21 @@
+1	Zac	zac	NNP	_	4	compound	_	B-PERSON
+2	Efron	efron	NNP	_	4	compound	_	L-PERSON
+3	Shares	shares	NNP	pos2=VBZ	4	compound	_	O
+4	New	new	NNP	pos2=NNPS	7	poss	_	O
+5	'	'	POS	pos2=``	4	case	_	O
+6	Dirty	dirty	NNP	pos2=JJ	7	compound	_	O
+7	Grandpa	grandpa	NNP	_	9	poss	_	U-PERSON
+8	'	'	POS	_	7	case	_	O
+9	Photo	photo	NNP	pos2=NN	11	nmod	_	O
+10	,	,	,	_	9	punct	_	O
+11	Dwayne	dwayne	NNP	_	13	compound	_	O
+12	Johnson	johnson	NNP	_	13	compound	_	O
+13	Comments	comments	NNP	pos2=NNPS	16	poss	_	O
+14	'	'	POS	pos2=``	13	case	_	O
+15	Nice	nice	NNP	pos2=JJ	16	compound	_	O
+16	Tits	tit	NNS	pos2=NNPS	18	poss	_	O
+17	'	'	POS	pos2=''	16	case	_	O
+18	#ZacEfron	#zacefron	ADD	pos2=GW	0	root	_	O
+19	https://t.co/O8Egt7ukqP	#hlink#	ADD	_	20	nsubj	_	O
+20	#ZacEfron	#zacefron	ADD	pos2=-RRB-	18	pobj	_	O
+

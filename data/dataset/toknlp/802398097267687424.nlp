@@ -1,0 +1,16 @@
+1	So	so	RB	_	4	mark	_	O
+2	now	now	RB	_	3	advmod	_	O
+3	everybody	everybody	NN	_	0	root	_	O
+4	so	so	RB	_	5	advmod	_	O
+5	inlove	inlove	RB	pos2=JJ	3	advmod	_	O
+6	with	with	IN	_	3	prep	_	O
+7	g	g	DT	pos2=NNS	8	det	_	O
+8	herbo	herbo	NN	_	6	pobj	_	O
+9	?	?	.	_	5	punct	_	O
+
+1	Y'all	y'all	PRP	pos2=UH	2	nsubj	_	O
+2	make	make	VBP	pos2=VB	0	root	_	O
+3	me	me	PRP	_	4	nsubj	_	O
+4	sick	sick	JJ	pos2=VB	5	nmod	_	O
+5	😒	😒	NN	pos2=.	2	ccomp	_	O
+

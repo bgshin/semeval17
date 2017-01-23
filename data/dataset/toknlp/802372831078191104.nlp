@@ -1,0 +1,34 @@
+1	Not	not	RB	_	2	neg	_	O
+2	stolen	steal	VBN	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Saved	save	VBN	pos2=VBD	0	root	_	O
+2	from	from	IN	_	1	prep	_	O
+3	Extreme	extreme	NNP	pos2=JJ	4	compound	_	O
+4	Leftists	leftist	NNPS	pos2=NNS	2	pobj	_	U-NORP
+5	.	.	.	_	1	punct	_	O
+
+1	Wall	wall	NNP	pos2=NN	2	compound	_	O
+2	Streets	street	NNPS	pos2=VBZ	0	root	_	O
+3	up	up	RP	pos2=RB	2	prt	_	O
+4	!	!	.	_	2	punct	_	O
+
+1	People	people	NNS	pos2=NNP	3	poss	_	O
+2	's	's	POS	_	1	case	_	O
+3	spirits	spirit	NNS	_	0	root	_	O
+4	up	up	RP	pos2=RB	3	prt	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	Hope	hope	NN	pos2=NNP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	up	up	RB	pos2=RP	2	advmod	_	O
+4	!	!	.	_	2	punct	_	O
+
+1	8	0	CD	_	2	nmod	_	B-DATE
+2	years	year	NNS	_	7	dep	_	L-DATE
+3	of	of	IN	_	2	prep	_	O
+4	regression	regression	NN	_	5	compound	_	O
+5	st	st	NN	pos2=FW	3	pobj	_	O
+6	…	…	NFP	pos2=-LRB-	7	punct	_	O
+7	https://t.co/VkA0dxhAGt	#hlink#	ADD	_	0	root	_	O
+

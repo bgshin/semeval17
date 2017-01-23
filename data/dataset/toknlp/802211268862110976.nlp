@@ -1,0 +1,18 @@
+1	@megynkelly	@megynkelly	UH	pos2=RB	6	discourse	_	O
+2	@petestavros	@petestavros	UH	pos2=VBZ	6	discourse	_	O
+3	Not	not	RB	_	6	neg	_	O
+4	a	a	DT	_	6	det	_	O
+5	Fox	fox	NNP	_	6	compound	_	U-ORG
+6	fan	fan	NN	pos2=NNP	0	root	_	O
+7	but	but	CC	_	6	cc	_	O
+8	I	I	PRP	_	9	nsubj	_	O
+9	respect	respect	VBP	pos2=NN	6	conj	_	O
+10	MK.	mk.	NNP	_	12	nmod	_	U-CARDINAL
+11	Good	good	JJ	pos2=NNP	12	nmod	_	O
+12	luck	luck	NN	_	9	dobj	_	O
+13	with	with	IN	_	9	prep	_	O
+14	your	your	PRP$	_	15	poss	_	O
+15	book	book	NN	_	13	pobj	_	O
+16	dear	dear	JJ	pos2=RB	15	appos	_	O
+17	!	!	.	_	9	punct	_	O
+

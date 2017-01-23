@@ -1,0 +1,19 @@
+1	Bad	bad	JJ	_	2	nmod	_	O
+2	HOMBRES	hombre	NNS	pos2=NNP	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	Awful	awful	JJ	_	5	nmod	_	O
+5	Women	woman	NNS	pos2=NNPS	2	appos	_	O
+6	of	of	IN	_	5	prep	_	O
+7	all	all	DT	_	8	det	_	O
+8	ages	age	NNS	_	6	pobj	_	O
+9	(	(	-LRB-	_	5	punct	_	O
+10	ft.	ft.	NN	pos2=FW	15	nmod	_	O
+11	“	"	``	_	13	punct	_	O
+12	Odd	odd	JJ	pos2=NNP	13	nmod	_	O
+13	Al	al	NNP	_	8	appos	_	O
+14	”	"	''	pos2=``	13	punct	_	O
+15	Yankovic	yankovic	NNP	pos2=GW	13	appos	_	U-PERSON
+16	)	)	-RRB-	pos2=GW	13	punct	_	O
+17	https://t.co/tjCAa7QHzM	#hlink#	ADD	_	18	nmod	_	O
+18	https://t.co/BKT9WNXUCI	#hlink#	ADD	_	13	appos	_	U-ORG
+

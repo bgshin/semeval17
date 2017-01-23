@@ -1,0 +1,32 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	'm	be	VBP	_	3	aux	_	O
+3	drinking	drink	VBG	_	0	root	_	O
+4	tea	tea	NN	_	3	dobj	_	O
+5	,	,	,	_	3	punct	_	O
+6	playing	play	VBG	_	3	advcl	_	O
+7	all	all	DT	_	9	det	_	O
+8	available	available	JJ	_	9	nmod	_	O
+9	Ep	ep	NN	pos2=NNP	6	dobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	@telltalegames	@telltalegames	NNS	pos2=NNPS	10	pobj	_	O
+12	Batman	batman	NNP	_	16	nsubj	_	U-PERSON
+13	and	and	CC	_	3	cc	_	O
+14	might	might	MD	_	15	aux	_	O
+15	go	go	VB	_	3	conj	_	O
+16	see	see	VB	pos2=UH	15	advcl	_	O
+17	#FantasticBeasts	#fantasticbeasts	NNS	pos2=RB	16	dobj	_	O
+18	over	over	IN	pos2=RB	17	prep	_	O
+19	NE	ne	NNP	pos2=NN	18	pobj	_	U-ORG
+20	.	.	.	_	3	punct	_	O
+
+1	Holler	holler	NN	pos2=NNP	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Or	or	CC	_	2	cc	_	O
+2	do	do	VB	pos2=VBP	0	root	_	O
+3	n't	not	RB	_	2	neg	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	Whatever	whatever	WDT	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

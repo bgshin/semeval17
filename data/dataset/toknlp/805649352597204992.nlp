@@ -1,0 +1,25 @@
+1	Senior	senior	JJ	_	3	nmod	_	O
+2	hurriyat	hurriyat	JJ	pos2=NN	3	nmod	_	O
+3	leaders	leader	NNS	_	14	nsubjpass	_	O
+4	Ali	ali	NNP	_	8	compound	_	B-PERSON
+5	Geelani	geelani	NNP	_	8	compound	_	I-PERSON
+6	Mirwaiz	mirwaiz	NNP	_	8	compound	_	I-PERSON
+7	Umer	umer	NNP	_	8	compound	_	I-PERSON
+8	Farooq	farooq	NNP	_	3	appos	_	L-PERSON
+9	&	&	CC	_	8	cc	_	O
+10	Muhammad	muhammad	NNP	_	12	compound	_	B-PERSON
+11	Yasin	yasin	NNP	_	12	compound	_	I-PERSON
+12	Malik	malik	NNP	_	8	conj	_	L-PERSON
+13	are	be	VBP	_	14	auxpass	_	O
+14	scheduled	schedule	VBN	_	0	root	_	O
+15	to	to	TO	_	16	aux	_	O
+16	lead	lead	VB	_	14	xcomp	_	O
+17	a	a	DT	_	19	det	_	O
+18	protest	protest	NN	_	19	compound	_	O
+19	march	march	NN	_	16	dobj	_	O
+20	to	to	IN	_	19	prep	_	O
+21	Lal	lal	NNP	_	22	compound	_	B-PERSON
+22	Chowk	chowk	NNP	_	20	pobj	_	L-PERSON
+23	on	on	IN	_	16	prep	_	O
+24	Monday	monday	NNP	_	23	pobj	_	U-DATE
+

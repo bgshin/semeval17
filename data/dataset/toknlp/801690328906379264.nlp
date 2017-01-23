@@ -1,0 +1,21 @@
+1	@bardam00	@bardam0	NN	pos2=NNS	2	compound	_	B-PERSON
+2	@ThaRightStuff	@tharightstuff	NNP	pos2=ADD	6	nsubj	_	L-PERSON
+3	@scrowder	@scrowder	IN	pos2=PRP$	2	prep	_	O
+4	Steven	steven	NNP	_	3	pobj	_	U-PERSON
+5	"	"	''	pos2=``	2	punct	_	O
+6	dump	dump	VB	pos2=NN	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	mag	mag	NN	_	6	dobj	_	O
+9	in	in	IN	_	6	prep	_	O
+10	every	every	DT	_	11	det	_	O
+11	fag	fag	NN	_	9	pobj	_	O
+12	"	"	''	pos2=``	14	punct	_	O
+13	Crowder	crowder	NNP	_	14	nsubj	_	U-PERSON
+14	eats	eat	VBZ	_	6	advcl	_	O
+15	Alt	alt	NNP	pos2=JJ	17	compound	_	B-ORG
+16	-	-	HYPH	_	17	punct	_	I-ORG
+17	Rightists	rightist	NNPS	pos2=NNS	14	dobj	_	L-ORG
+18	for	for	IN	_	14	prep	_	O
+19	breakfast	breakfast	NN	_	18	pobj	_	O
+20	.	.	.	_	6	punct	_	O
+

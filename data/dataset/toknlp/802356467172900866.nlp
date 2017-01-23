@@ -1,0 +1,23 @@
+1	Steve	steve	NNP	_	2	compound	_	B-PERSON
+2	Bannon	bannon	NNP	_	4	dep	_	L-PERSON
+3	:	:	:	_	7	punct	_	O
+4	empowering	empower	VBG	_	8	nmod	_	O
+5	right	right	JJ	_	7	nmod	_	O
+6	-	-	HYPH	_	7	punct	_	O
+7	wing	wing	NN	_	8	compound	_	O
+8	diehards	diehard	NNS	_	0	root	_	O
+9	willing	willing	JJ	_	8	nmod	_	O
+10	to	to	TO	_	11	aux	_	O
+11	burn	burn	VB	_	9	xcomp	_	O
+12	it	it	PRP	_	11	dobj	_	O
+13	all	all	DT	_	12	appos	_	O
+14	down	down	RP	pos2=RB	11	prt	_	O
+15	.	.	.	_	2	punct	_	O
+
+1	https	http	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	//	//	NFP	pos2=-LRB-	6	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	yS2PH2gayc	ys0ph0gayc	NN	pos2=NNS	0	root	_	O
+

@@ -1,0 +1,23 @@
+1	‘	'	``	pos2=POS	6	punct	_	O
+2	Pay	pay	VB	pos2=NN	0	root	_	O
+3	-	-	HYPH	_	2	punct	_	O
+4	to	to	IN	pos2=TO	2	prep	_	O
+5	-	-	HYPH	_	4	punct	_	O
+6	Play	play	NN	pos2=VB	4	pobj	_	O
+7	at	at	IN	_	2	prep	_	O
+8	Its	its	PRP$	pos2=NNP	9	poss	_	O
+9	Rawest	raw	JJS	pos2=NNP	7	pobj	_	O
+10	’	'	''	pos2=NNS	2	punct	_	O
+11	:	:	:	_	15	punct	_	O
+12	Critics	critics	NNP	pos2=NNS	14	compound	_	B-ORG
+13	Blast	blast	NNP	_	14	compound	_	I-ORG
+14	Trump	trump	NNP	pos2=NN	16	poss	_	I-ORG
+15	’s	's	POS	_	14	case	_	L-ORG
+16	Connections	connection	NNS	pos2=NNPS	0	root	_	O
+17	to	to	IN	_	16	prep	_	O
+18	Dakota	dakota	NNP	_	20	compound	_	B-ORG
+19	Pipeline	pipeline	NNP	_	20	compound	_	I-ORG
+20	Com	com	NNP	pos2=GW	17	pobj	_	L-ORG
+21	panyhttps://t.co/uNdc2Cq0N7#uniteblue	#hlink#	ADD	_	22	nsubj	_	O
+22	#notmypresident	#notmypresident	ADD	pos2=-RRB-	16	prep	_	O
+

@@ -1,0 +1,13 @@
+1	Fractures	fracture	NNS	pos2=NNP	2	nsubj	_	O
+2	Set	set	VBP	pos2=VBN	0	root	_	O
+3	Better	well	RBR	pos2=NNP	2	advmod	_	O
+4	and	and	CC	_	2	cc	_	O
+5	Healed	heal	VBN	pos2=VBD	2	conj	_	O
+6	Faster	fast	RBR	pos2=NNP	5	advmod	_	O
+7	with	with	IN	_	5	prep	_	O
+8	Homeopathy	homeopathy	NN	pos2=NNP	7	pobj	_	O
+9	-	-	:	pos2=HYPH	10	punct	_	O
+10	Homeopathy	homeopathy	NNP	pos2=NN	8	appos	_	B-ORG
+11	Plus	plus	CC	pos2=GW	10	cc	_	I-ORG
+12	https://t.co/wwldygMtYV	#hlink#	ADD	pos2=NNP	10	conj	_	L-ORG
+

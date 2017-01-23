@@ -1,0 +1,18 @@
+1	@HillaryClinton	@hillaryclinton	NNP	pos2=XX	5	vocative	_	U-GPE
+2	thankfully	thankfully	RB	_	5	advmod	_	O
+3	we	we	PRP	_	5	nsubj	_	O
+4	all	all	DT	pos2=RB	3	appos	_	O
+5	had	have	VBD	_	0	root	_	O
+6	a	a	DT	_	10	det	_	O
+7	nice	nice	JJ	_	10	nmod	_	O
+8	and	and	CC	_	7	cc	_	O
+9	peaceful	peaceful	JJ	_	7	conj	_	O
+10	Thanksgiving	thanksgiving	NNP	pos2=NN	5	dobj	_	U-DATE
+11	.	.	.	_	5	punct	_	O
+
+1	Because	because	IN	_	3	mark	_	O
+2	we	we	PRP	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	all	all	RB	pos2=DT	3	advmod	_	O
+5	#StillWithHer	#stillwithher	ADD	pos2=RB	3	acomp	_	O
+

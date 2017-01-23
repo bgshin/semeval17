@@ -1,0 +1,31 @@
+1	#Comp	#comp	UH	pos2=NN	4	discourse	_	O
+2	we	we	PRP	_	4	nsubj	_	O
+3	’ve	have	VBP	_	4	aux	_	O
+4	got	get	VBN	pos2=VBD	0	root	_	O
+5	special	special	JJ	_	6	nmod	_	O
+6	prize	prize	NN	_	4	dobj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	you	you	PRP	_	7	pobj	_	O
+9	!	!	.	_	4	punct	_	O
+
+1	To	to	IN	pos2=TO	2	aux	_	O
+2	#win	#win	VB	pos2=UH	0	root	_	O
+3	this	this	DT	_	4	det	_	O
+4	year	year	NN	_	9	poss	_	U-DATE
+5	's	's	POS	_	4	case	_	O
+6	number	number	NN	_	9	nmod	_	O
+7	1	0	CD	_	6	nmod	_	U-CARDINAL
+8	#Christmas	#christmas	NNP	pos2=VBZ	9	compound	_	U-ORG
+9	toy	toy	NN	_	2	dobj	_	O
+10	–	-	:	pos2=HYPH	9	punct	_	O
+11	a	a	DT	_	13	det	_	O
+12	#Hatchimals	#hatchimals	NNP	pos2=CD	13	compound	_	O
+13	Egg	egg	NNP	pos2=NN	9	appos	_	O
+14	!	!	.	_	2	punct	_	O
+
+1	Enter	enter	VB	pos2=NN	0	root	_	O
+2	now	now	RB	_	1	advmod	_	O
+3	:	:	:	_	1	punct	_	O
+4	…	…	NFP	pos2=-LRB-	5	punct	_	O
+5	https://t.co/35zjRsiDVD	#hlink#	ADD	_	1	dep	_	O
+

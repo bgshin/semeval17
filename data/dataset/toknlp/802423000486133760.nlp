@@ -1,0 +1,19 @@
+1	Had	have	VBD	_	0	root	_	O
+2	a	a	DT	_	4	det	_	O
+3	fun	fun	JJ	pos2=NN	4	nmod	_	O
+4	day	day	NN	_	1	dobj	_	O
+5	supervising	supervise	VBG	_	4	acl	_	O
+6	primary	primary	JJ	_	7	nmod	_	O
+7	school	school	NN	_	8	compound	_	O
+8	students	student	NNS	_	5	dobj	_	O
+9	on	on	IN	_	8	prep	_	O
+10	computer	computer	NN	_	11	npadvmod	_	O
+11	aided	aid	VBN	pos2=VBD	12	nmod	_	O
+12	design	design	NN	_	9	pobj	_	O
+13	and	and	CC	_	12	cc	_	O
+14	3	0	CD	_	18	nmod	_	U-CARDINAL
+15	d	d	NN	pos2=NNS	16	compound	_	O
+16	printing	printing	NN	pos2=VBG	12	conj	_	O
+17	:D	:d	NFP	pos2=XX	1	discourse	_	O
+18	#omgtech	#omgtech	UH	pos2=NN	1	discourse	_	O
+

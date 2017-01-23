@@ -1,0 +1,12 @@
+1	Pope	pope	NNP	_	2	compound	_	O
+2	Francis	francis	NNP	_	3	nsubj	_	U-PERSON
+3	calls	call	VBZ	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	end	end	NN	_	4	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	Protestant	protestant	NNP	pos2=JJ	8	compound	_	B-ORG
+8	Church	church	NNP	pos2=NN	6	pobj	_	L-ORG
+9	https://t.co/BCAnt1OyJ1	#hlink#	ADD	_	11	dep	_	O
+10	via	via	IN	_	3	prep	_	O
+11	@YouTube	@youtube	NNP	pos2=NN	10	pobj	_	O
+

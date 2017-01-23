@@ -1,0 +1,23 @@
+1	A	a	DT	_	2	det	_	O
+2	milestone	milestone	NN	_	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	our	our	PRP$	_	5	poss	_	O
+5	battle	battle	NN	_	3	pobj	_	O
+6	against	against	IN	_	5	prep	_	O
+7	corporate	corporate	JJ	_	8	nmod	_	O
+8	greed	greed	NN	_	6	pobj	_	O
+9	!	!	.	_	2	punct	_	O
+
+1	We	we	PRP	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	live	live	VB	_	0	root	_	O
+4	without	without	IN	_	3	prep	_	O
+5	fossil	fossil	NN	pos2=JJ	6	compound	_	O
+6	fuels	fuel	NNS	_	4	pobj	_	O
+7	,	,	,	_	3	punct	_	O
+8	not	not	RB	_	6	neg	_	O
+9	water	water	NN	pos2=VB	12	dep	_	O
+10	#NoDAPL	#nodapl	XX	pos2=GW	12	dep	_	O
+11	#StandingRock	#standingrock	ADD	pos2=GW	12	punct	_	O
+12	https://t.co/ny2epnHSs6	#hlink#	ADD	_	3	dep	_	O
+

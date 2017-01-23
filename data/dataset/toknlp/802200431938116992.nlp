@@ -1,0 +1,20 @@
+1	Congratulations	congratulation	NNS	_	0	root	_	O
+2	on	on	IN	_	1	prep	_	O
+3	winning	win	VBG	_	2	pcomp	_	O
+4	Michigan	michigan	NNP	_	3	dobj	_	U-GPE
+5	,	,	,	_	1	punct	_	O
+6	even	even	RB	_	7	advmod	_	O
+7	by	by	IN	_	1	prep	_	O
+8	a	a	DT	_	11	det	_	O
+9	hand	hand	NN	_	10	compound	_	O
+10	vote	vote	NN	_	11	compound	_	O
+11	count	count	NN	_	7	pobj	_	O
+12	and	and	CC	_	11	cc	_	O
+13	verification	verification	NN	_	11	conj	_	O
+14	!	!	.	_	1	punct	_	O
+
+1	Now	now	RB	_	4	discourse	_	O
+2	#DrainTheSwamp	#draintheswamp	GW	pos2=VB	4	nmod	_	O
+3	…	…	NFP	pos2=GW	4	punct	_	O
+4	https://t.co/kdAKAE7aSk	#hlink#	ADD	_	0	root	_	O
+

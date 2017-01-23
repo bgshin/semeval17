@@ -1,0 +1,14 @@
+1	@Dwarfpoo	@dwarfpoo	NNP	pos2=UH	3	compound	_	U-ORG
+2	@NAInfidels	@nainfidels	NNS	pos2=ADD	3	compound	_	O
+3	@TruthIwant2	@truthiwant0	NN	pos2=VBP	8	vocative	_	O
+4	why	why	WRB	_	8	advmod	_	O
+5	do	do	VBP	_	8	aux	_	O
+6	n't	not	RB	_	8	neg	_	O
+7	you	you	PRP	_	8	nsubj	_	O
+8	accuse	accuse	VB	_	0	root	_	O
+9	#Israel	#israel	NNP	pos2=NNS	8	dobj	_	U-PERSON
+10	of	of	IN	_	8	prep	_	O
+11	aiding	aid	VBG	_	10	pcomp	_	O
+12	#Hamas	#hamas	NNS	pos2=NNP	11	dobj	_	O
+13	https://t.co/hiCKPE8s0f	#hlink#	ADD	_	9	appos	_	O
+

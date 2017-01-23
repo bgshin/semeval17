@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det	_	O
+2	basket	basket	NN	_	7	nsubjpass	_	O
+3	of	of	IN	_	2	prep	_	O
+4	deplorables	deplorables	NN	pos2=NNS	3	pobj	_	O
+5	is	be	VBZ	_	7	aux	_	O
+6	getting	get	VBG	_	7	auxpass	_	O
+7	filled	fill	VBN	_	0	root	_	O
+8	up	up	RP	_	7	prt	_	O
+9	as	as	IN	_	12	mark	_	O
+10	crazies	crazy	NNS	_	12	nsubjpass	_	O
+11	are	be	VBP	_	12	auxpass	_	O
+12	named	name	VBN	_	7	advcl	_	O
+13	to	to	IN	pos2=TO	12	prep	_	O
+14	cabinet	cabinet	NN	pos2=VB	15	compound	_	O
+15	positions	position	NNS	_	13	pobj	_	O
+16	...	..	.	pos2=,	7	punct	_	O
+
+1	ugh	ugh	UH	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+

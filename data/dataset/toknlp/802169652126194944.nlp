@@ -1,0 +1,13 @@
+1	@BernieSanders	@berniesanders	NNS	pos2=ADD	2	compound	_	O
+2	@SenSanders	@sensanders	NNS	pos2=VBZ	12	dep	_	O
+3	@elizabethforma	@elizabethforma	FW	pos2=UH	4	nmod	_	O
+4	@SenateDems	@senatedems	NNS	pos2=POS	12	dep	_	O
+5	@LibDems#stand	@libdems#stand	CD	pos2=NN	12	dep	_	O
+6	-	-	HYPH	pos2=SYM	5	punct	_	O
+7	up	up	RP	pos2=RB	5	prt	_	O
+8	2	0	CD	_	9	nmod	_	U-CARDINAL
+9	#donaldtrump	#donaldtrump	NNS	pos2=IN	5	npadvmod	_	O
+10	#conflictofinterest	#conflictofinterest	FW	pos2=IN	9	advmod	_	O
+11	#befirm	#befirm	UH	pos2=-LRB-	12	dep	_	O
+12	https://t.co/7EqhOHYDHc	#hlink#	ADD	_	0	root	_	O
+

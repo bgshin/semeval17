@@ -1,0 +1,24 @@
+1	@orangeontop	@orangeontop	UH	pos2=VB	6	discourse	_	O
+2	@punchaginger	@punchaginger	UH	pos2=JJR	6	discourse	_	O
+3	@prgarc	@prgarc	UH	pos2=MD	6	discourse	_	O
+4	I	I	PRP	_	6	nsubj	_	O
+5	still	still	RB	_	6	advmod	_	O
+6	get	get	VBP	_	16	advcl	_	O
+7	this	this	DT	_	9	det	_	O
+8	same	same	JJ	_	9	nmod	_	O
+9	example	example	NN	_	6	dobj	_	O
+10	,	,	,	_	16	punct	_	O
+11	Trump	trump	NNP	pos2=JJ	13	nmod	_	U-ORG
+12	usual	usual	JJ	_	13	nmod	_	O
+13	PR.	pr.	NNP	_	18	nmod	_	O
+14	The	the	DT	_	15	det	_	O
+15	man	man	NN	_	16	nsubj	_	O
+16	wanted	want	VBD	_	0	root	_	O
+17	innocent	innocent	JJ	_	18	nmod	_	O
+18	kids	kid	NNS	_	20	nsubj	_	O
+19	to	to	TO	_	20	aux	_	O
+20	get	get	VB	_	16	ccomp	_	O
+21	death	death	NN	_	22	compound	_	O
+22	penalty	penalty	NN	_	20	dobj	_	O
+23	.	.	.	_	16	punct	_	O
+

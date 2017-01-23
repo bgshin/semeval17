@@ -1,0 +1,13 @@
+1	Explore	explore	VB	_	0	root	_	O
+2	The	the	DT	_	3	det	_	B-WORK_OF_ART
+3	World	world	NNP	_	1	dobj	_	I-WORK_OF_ART
+4	With	with	IN	_	1	prep	_	I-WORK_OF_ART
+5	Google	google	NNP	_	7	compound	_	I-WORK_OF_ART
+6	Earth	earth	NNP	_	7	compound	_	I-WORK_OF_ART
+7	VR	vr	NNP	pos2=NN	4	pobj	_	I-WORK_OF_ART
+8	Whenever	whenever	WRB	pos2=NNP	10	advmod	_	I-WORK_OF_ART
+9	You	you	PRP	pos2=NNP	10	nsubj	_	I-WORK_OF_ART
+10	Want	want	VBP	_	1	advcl	_	L-WORK_OF_ART
+11	https://t.co/9VSMhKseFy	#hlink#	ADD	_	12	nsubj	_	U-TIME
+12	#DigitalPower	#digitalpower	ADD	pos2=-RRB-	1	dep	_	U-ORG
+

@@ -1,0 +1,13 @@
+1	Friend	friend	NN	pos2=NNP	3	compound	_	O
+2	Steven	steven	NNP	_	3	compound	_	B-PERSON
+3	Seagal	seagal	NNP	_	4	nsubj	_	L-PERSON
+4	Presented	present	VBD	pos2=NNP	0	root	_	O
+5	With	with	IN	_	4	prep	_	O
+6	Russian	russian	JJ	pos2=NNP	7	nmod	_	U-NORP
+7	Passport	passport	NNP	pos2=NN	5	pobj	_	O
+8	By	by	IN	pos2=NNP	4	prep	_	O
+9	Vladimir	vladimir	NNP	_	10	compound	_	B-PERSON
+10	Putin	putin	NNP	_	8	pobj	_	L-PERSON
+11	https://t.co/SGNl1cN5SK	#hlink#	ADD	_	12	nmod	_	O
+12	https://t.co/Kgi5nrJi0b	#hlink#	ADD	_	8	pobj	_	U-ORG
+

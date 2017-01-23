@@ -1,0 +1,19 @@
+1	New	new	JJ	pos2=NNP	0	root	_	O
+2	on	on	IN	_	1	prep	_	O
+3	@Twitter	@twitter	NNP	pos2=NN	2	pobj	_	U-GPE
+4	.	.	.	_	1	punct	_	O
+
+1	Big	big	JJ	_	2	nmod	_	O
+2	fan	fan	NN	_	13	dep	_	O
+3	of	of	IN	_	2	prep	_	O
+4	@NICKIMINAJ	@nickiminaj	NNP	pos2=NN	3	pobj	_	U-ORG
+5	and	and	CC	_	2	cc	_	O
+6	@ArianaGrande	@arianagrande	ADD	pos2=NNP	13	dep	_	U-ORG
+7	#ArianaGrande	#arianagrande	ADD	pos2=NNP	13	dep	_	B-WORK_OF_ART
+8	#NickiMinaj	#nickiminaj	ADD	pos2=XX	13	dep	_	L-WORK_OF_ART
+9	#Barbies	#barbies	NNS	pos2=ADD	13	dep	_	O
+10	#Barbz	#barbz	NNP	pos2=NFP	11	compound	_	B-PERSON
+11	#Arianators	#arianators	NNS	pos2=GW	13	dep	_	L-PERSON
+12	…	…	NFP	pos2=-LRB-	13	punct	_	O
+13	https://t.co/eKUpd5R50s	#hlink#	ADD	_	0	root	_	O
+

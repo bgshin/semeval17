@@ -1,0 +1,11 @@
+1	@MasterMarquette	@mastermarquette	ADD	pos2=NN	4	prep	_	O
+2	@drjjr500	@drjjr0	NN	pos2=NNS	1	pobj	_	O
+3	He	he	PRP	_	4	nsubj	_	O
+4	violated	violate	VBD	_	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	Cuba	cuba	NNP	_	7	compound	_	U-GPE
+7	embargo	embargo	NN	pos2=NNP	4	dobj	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	@ElectoralCollge	@electoralcollge	ADD	pos2=XX	0	root	_	O
+

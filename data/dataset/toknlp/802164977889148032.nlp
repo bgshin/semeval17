@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det	_	B-ORG
+2	Equestrian	equestrian	NNP	pos2=JJ	3	compound	_	I-ORG
+3	Order	order	NNP	pos2=NN	0	root	_	I-ORG
+4	of	of	IN	_	3	prep	_	I-ORG
+5	the	the	DT	_	7	det	_	I-ORG
+6	Holy	holy	NNP	_	7	compound	_	I-ORG
+7	Sepulchre	sepulchre	NNP	pos2=NNPS	4	pobj	_	I-ORG
+8	of	of	IN	_	7	prep	_	I-ORG
+9	#Jerusalem	#jerusalem	NNP	pos2=XX	8	pobj	_	L-ORG
+10	,	,	,	_	3	punct	_	O
+11	#Templar	#templar	NNP	pos2=PRP$	12	compound	_	U-ORG
+12	predecessor	predecessor	NN	pos2=VB	3	appos	_	O
+13	?	?	.	_	3	punct	_	O
+
+1	https://t.co/zJs5bXNsqH	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/LXCuKD2Txq	#hlink#	ADD	_	0	root	_	U-ORG
+

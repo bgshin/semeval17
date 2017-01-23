@@ -1,0 +1,27 @@
+1	Has	have	VBZ	_	4	aux	_	O
+2	#Obama	#obama	NNP	pos2=VBN	4	nsubj	_	U-ORG
+3	ever	ever	RB	_	4	advmod	_	O
+4	apologized	apologize	VBD	pos2=VBN	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	terrorists	terrorist	NNS	_	5	pobj	_	O
+8	,	,	,	_	4	punct	_	O
+9	and	and	CC	_	4	cc	_	O
+10	racists	racist	NNS	pos2=VBZ	7	conj	_	O
+11	whom	whom	WP	_	14	dobj	_	O
+12	he	he	PRP	_	14	nsubjpass	_	O
+13	's	's	VBZ	_	14	auxpass	_	O
+14	embraced	embrace	VBN	_	10	relcl	_	O
+15	?	?	.	_	4	punct	_	O
+
+1	#Hamas	#hamas	NNS	pos2=NNP	3	compound	_	O
+2	#BLM	#blm	NN	pos2=VBP	3	compound	_	O
+3	#CAIR	#cair	NN	pos2=$	5	compound	_	O
+4	#NOI	#noi	NNP	pos2=NN	5	compound	_	B-PERSON
+5	#MuslimBrotherhood	#muslimbrotherhood	NNP	pos2=ADD	8	nsubj	_	L-PERSON
+6	,	,	,	_	5	punct	_	O
+7	to	to	TO	_	8	aux	_	O
+8	name	name	VB	_	0	root	_	O
+9	a	a	DT	_	10	det	_	O
+10	few!🤔🙄	few!🤔🙄	NN	pos2=JJR	8	dobj	_	U-PRODUCT
+

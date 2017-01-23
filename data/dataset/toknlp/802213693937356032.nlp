@@ -1,0 +1,20 @@
+1	@CamilleRenee8	@camillerenee0	NN	pos2=ADD	2	compound	_	O
+2	@AlwaysInAmerica	@alwaysinamerica	NNP	pos2=ADD	6	vocative	_	U-PERSON
+3	@megynkelly	@megynkelly	RB	pos2=RBR	4	advmod	_	O
+4	interesting	interesting	JJ	_	5	nmod	_	O
+5	news	news	NN	_	6	nsubj	_	O
+6	is	be	VBZ	_	11	ccomp	_	O
+7	exciting	exciting	JJ	pos2=VBG	6	acomp	_	O
+8	-	-	:	pos2=,	11	punct	_	O
+9	does	do	VBZ	_	11	aux	_	O
+10	n't	not	RB	_	11	neg	_	O
+11	mean	mean	VB	_	0	root	_	O
+12	she	she	PRP	_	14	nsubj	_	O
+13	is	be	VBZ	_	14	aux	_	O
+14	being	be	VBG	_	11	ccomp	_	O
+15	dishonest	dishonest	JJ	_	14	acomp	_	O
+16	in	in	IN	_	14	prep	_	O
+17	her	her	PRP$	_	18	poss	_	O
+18	work	work	NN	_	16	pobj	_	O
+19	.	.	.	_	11	punct	_	O
+

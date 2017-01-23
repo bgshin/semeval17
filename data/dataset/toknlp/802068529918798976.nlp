@@ -1,0 +1,16 @@
+1	OKAY	okay	UH	pos2=JJ	13	discourse	_	O
+2	if	if	IN	_	6	mark	_	O
+3	you	you	PRP	_	6	nsubj	_	O
+4	have	have	VBP	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	seen	see	VBN	_	13	advcl	_	O
+7	David	david	NNP	_	8	compound	_	B-PERSON
+8	Blaine	blaine	NNP	_	10	poss	_	I-PERSON
+9	's	's	POS	_	8	case	_	L-PERSON
+10	specials	special	NNS	_	6	dobj	_	O
+11	on	on	IN	_	10	prep	_	O
+12	Netflix	netflix	NNP	_	11	pobj	_	U-ORG
+13	watch	watch	VB	pos2=VBP	0	root	_	O
+14	them	them	PRP	_	13	dobj	_	O
+15	IMMEDIATELY	immediately	RB	_	13	advmod	_	O
+

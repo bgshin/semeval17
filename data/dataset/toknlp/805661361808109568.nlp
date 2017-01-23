@@ -1,0 +1,15 @@
+1	Even	even	RB	_	2	advmod	_	O
+2	in	in	IN	_	7	prep	_	O
+3	death	death	NN	_	2	pobj	_	O
+4	,	,	,	_	7	punct	_	O
+5	#FidelCastro	#fidelcastro	NNP	pos2=NN	7	nsubj	_	U-ORG
+6	is	be	VBZ	_	7	aux	_	O
+7	destroying	destroy	VBG	_	0	root	_	O
+8	everything	everything	NN	_	7	dobj	_	O
+9	he	he	PRP	_	10	nsubj	_	O
+10	touches	touch	VBZ	_	8	relcl	_	O
+11	.	.	.	_	7	punct	_	O
+
+1	🚚🔧😂😂	🚚🔧😂😂	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/rRErunctlN	#hlink#	ADD	pos2=NN	0	root	_	O
+

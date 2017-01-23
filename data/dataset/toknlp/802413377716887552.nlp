@@ -1,0 +1,32 @@
+1	@nytimes	@nytimes	UH	pos2=NNS	7	discourse	_	O
+2	i	I	PRP	_	7	nsubj	_	O
+3	just	just	RB	_	7	advmod	_	O
+4	simply	simply	RB	_	7	advmod	_	O
+5	do	do	VBP	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	want	want	VB	_	0	root	_	O
+8	to	to	TO	_	9	aux	_	O
+9	pay	pay	VB	_	7	xcomp	_	O
+10	for	for	IN	_	9	prep	_	O
+11	someone	someone	NN	_	10	pobj	_	O
+12	elses	elses	VBZ	pos2=NNS	11	relcl	_	O
+13	health	health	NN	_	14	compound	_	O
+14	issues	issue	NNS	_	12	dobj	_	O
+15	.	.	.	_	7	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	went	go	VBD	_	0	root	_	O
+3	from	from	IN	_	2	prep	_	O
+4	$	$	$	_	5	nmod	_	O
+5	62	0	CD	_	3	pobj	_	U-MONEY
+6	per	per	IN	_	5	prep	_	O
+7	paycheck	paycheck	NN	_	6	pobj	_	O
+8	to	to	IN	pos2=TO	2	prep	_	O
+9	$	$	$	_	10	nmod	_	O
+10	123	0	CD	_	8	pobj	_	U-MONEY
+11	.	.	.	_	2	punct	_	O
+
+1	FUCK	fuck	VB	pos2=NN	0	root	_	O
+2	obamacare	obamacare	NN	pos2=PRP	1	dobj	_	O
+3	.	.	.	_	1	punct	_	O
+

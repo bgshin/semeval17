@@ -1,0 +1,18 @@
+1	@Go0ob3r	@go0ob0r	NN	pos2=XX	2	compound	_	O
+2	@Maggyw519	@maggyw0	NN	pos2=NNS	11	dep	_	O
+3	@megpat	@megpat	UH	pos2=IN	4	discourse	_	O
+4	@josephine612198	@josephine0	NN	pos2=CD	5	compound	_	O
+5	@SDzzz	@sdzzz	NNP	pos2=ADD	1	dobj	_	U-PERSON
+6	And	and	CC	_	5	cc	_	O
+7	neither	neither	CC	pos2=DT	8	preconj	_	O
+8	he	he	PRP	_	11	nsubj	_	O
+9	or	or	CC	_	8	cc	_	O
+10	Lynch	lynch	NNP	_	8	conj	_	U-ORG
+11	said	say	VBD	_	0	root	_	O
+12	anything	anything	NN	_	11	dobj	_	O
+13	about	about	IN	_	12	prep	_	O
+14	the	the	DT	_	16	det	_	O
+15	Comey	comey	NNP	_	16	compound	_	U-PERSON
+16	letter	letter	NN	_	13	pobj	_	O
+17	.	.	.	_	11	punct	_	O
+

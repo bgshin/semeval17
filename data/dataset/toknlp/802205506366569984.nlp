@@ -1,0 +1,16 @@
+1	@scholarchips	@scholarchips	NNS	pos2=UH	15	dep	_	O
+2	on	on	IN	_	1	prep	_	O
+3	dat	dat	NN	pos2=JJ	4	compound	_	O
+4	#mannequinchallenge	#mannequinchallenge	NN	pos2=XX	2	pobj	_	O
+5	at	at	IN	_	1	prep	_	O
+6	our	our	PRP$	_	12	poss	_	O
+7	4th	#ord#	JJ	_	12	nmod	_	U-ORDINAL
+8	Annual	annual	NNP	_	12	compound	_	O
+9	College	college	NNP	_	11	compound	_	O
+10	Life	life	NNP	_	11	compound	_	O
+11	Skills	skill	NNPS	pos2=NNP	12	compound	_	O
+12	Conference	conference	NNP	_	5	pobj	_	O
+13	😊😃😉😎🙄	😊😃😉😎🙄	''	pos2=NFP	1	punct	_	O
+14	…	…	NFP	pos2=-LRB-	15	punct	_	O
+15	https://t.co/h8jHwah0zs	#hlink#	ADD	_	0	root	_	O
+

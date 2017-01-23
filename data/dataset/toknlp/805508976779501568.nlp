@@ -1,0 +1,20 @@
+1	Peter	peter	NNP	_	2	compound	_	B-PERSON
+2	Hurford	hurford	NNP	_	4	poss	_	I-PERSON
+3	's	's	POS	_	2	case	_	L-PERSON
+4	thoughts	thought	NNS	_	0	root	_	O
+5	on	on	IN	_	4	prep	_	O
+6	a	a	DT	_	8	det	_	O
+7	recent	recent	JJ	_	8	nmod	_	O
+8	study	study	NN	_	5	pobj	_	O
+9	showing	show	VBG	pos2=NN	8	acl	_	O
+10	that	that	IN	_	16	mark	_	O
+11	articles	article	NNS	_	16	nsubj	_	O
+12	advocating	advocate	VBG	_	11	acl	_	O
+13	vegetarianism	vegetarianism	NN	_	12	dobj	_	O
+14	or	or	CC	_	13	cc	_	O
+15	reducetarianism	reducetarianism	NN	pos2=NNS	13	conj	_	O
+16	have	have	VB	pos2=VBP	9	ccomp	_	O
+17	...	..	.	pos2=,	4	punct	_	O
+
+1	https://t.co/pwkiMW9Qit	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,8 @@
+1	#DeepLearning	#deeplearning	VBG	pos2=NNP	7	dep	_	O
+2	-	-	HYPH	pos2=:	7	punct	_	O
+3	A	a	DT	pos2=NN	5	det	_	O
+4	Non-Technical	non-technical	JJ	_	5	nmod	_	O
+5	Introduction	introduction	NN	pos2=GW	1	pobj	_	O
+6	https://t.co/J6VinLeqOQ	#hlink#	ADD	_	7	nmod	_	O
+7	https://t.co/YsOrLXfHv8	#hlink#	ADD	_	0	root	_	U-ORG
+

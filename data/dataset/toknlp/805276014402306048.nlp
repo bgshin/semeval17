@@ -1,0 +1,21 @@
+1	Carlie	carlie	NNP	pos2=NN	3	vocative	_	U-PERSON
+2	:	:	:	_	3	punct	_	O
+3	Imagine	imagine	VB	_	0	root	_	O
+4	wine	wine	NN	_	5	compound	_	O
+5	night	night	NN	_	3	npadvmod	_	O
+6	with	with	IN	_	3	prep	_	O
+7	Ashley	ashley	NNP	_	8	compound	_	B-PERSON
+8	Graham	graham	NNP	_	6	pobj	_	L-PERSON
+9	and	and	CC	_	8	cc	_	O
+10	Camilla	camilla	NNP	_	11	compound	_	B-PERSON
+11	LuddingtonMe	luddingtonme	NNP	_	8	conj	_	L-PERSON
+12	:	:	:	_	3	punct	_	O
+13	Yeah	yeah	UH	_	3	discourse	_	O
+14	but	but	CC	_	15	cc	_	O
+15	imagine	imagine	VB	pos2=VBP	3	conj	_	O
+16	cocaine	cocaine	NN	_	17	compound	_	O
+17	night	night	NN	_	15	dobj	_	O
+18	with	with	IN	_	15	prep	_	O
+19	Lauren	lauren	NNP	_	20	compound	_	B-PERSON
+20	Jauregui	jauregui	NNP	_	18	pobj	_	L-PERSON
+

@@ -1,0 +1,18 @@
+1	Got	get	VBD	pos2=VBN	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	show	show	VB	_	1	xcomp	_	O
+4	the	the	DT	_	5	det	_	O
+5	boys	boy	NNS	_	3	dobj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	Tipp	tipp	NNP	_	6	pobj	_	U-GPE
+8	the	the	DT	_	9	det	_	O
+9	way	way	NN	_	7	appos	_	O
+10	to	to	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	B-GPE
+12	Kingdom	kingdom	NNP	_	10	pobj	_	I-GPE
+13	of	of	IN	_	12	prep	_	I-GPE
+14	Kerry	kerry	NNP	_	13	pobj	_	L-GPE
+15	!	!	.	_	1	punct	_	O
+
+1	https://t.co/jkTAs6jMiw	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,12 @@
+1	President	president	NNP	_	2	compound	_	O
+2	Poroshenko	poroshenko	NNP	_	3	nsubj	_	U-PERSON
+3	awarded	award	VBD	pos2=VBN	0	root	_	O
+4	56	0	CD	_	6	nmod	_	U-CARDINAL
+5	ATO	ato	NN	pos2=NNP	6	compound	_	O
+6	participants	participant	NNS	_	3	dobj	_	O
+7	,	,	,	_	6	punct	_	O
+8	most	most	RBS	pos2=JJS	10	advmod	_	O
+9	-	-	HYPH	pos2=:	10	punct	_	O
+10	posthumously	posthumously	RB	_	11	nmod	_	O
+11	https://t.co/OzDyiimLWW	#hlink#	ADD	_	6	appos	_	O
+

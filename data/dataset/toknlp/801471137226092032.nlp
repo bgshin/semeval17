@@ -1,0 +1,9 @@
+1	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNP	2	compound	_	O
+2	Luke	luke	NNP	_	0	root	_	U-PERSON
+3	,	,	,	_	2	punct	_	O
+4	Lorelai	lorelai	NNP	_	2	conj	_	U-PERSON
+5	,	,	,	_	4	punct	_	O
+6	Jess	jess	NNP	_	4	conj	_	U-PERSON
+7	,	,	,	_	6	punct	_	O
+8	Lane	lane	NNP	_	6	conj	_	U-PERSON
+

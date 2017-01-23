@@ -1,0 +1,26 @@
+1	ICYMI	icymi	NN	_	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	Obamacare	obamacare	NNP	_	5	dep	_	U-ORG
+4	:	:	:	_	5	punct	_	O
+5	Selling	selling	NNP	pos2=NN	0	root	_	O
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	10	det	_	O
+8	'	'	``	_	10	punct	_	O
+9	Cadillac	cadillac	NNP	_	10	compound	_	U-ORG
+10	Tax	tax	NNP	pos2=NN	6	pobj	_	O
+11	'	'	''	_	10	punct	_	O
+12	-	-	:	pos2=,	10	punct	_	O
+13	The	the	DT	pos2=NNP	16	det	_	B-ORG
+14	Biggest	biggest	NNP	pos2=JJS	16	compound	_	I-ORG
+15	Health	health	NNP	_	16	compound	_	I-ORG
+16	Scam	scam	NNP	pos2=NN	10	appos	_	L-ORG
+17	in	in	IN	_	16	prep	_	O
+18	US	us	NNP	_	19	compound	_	U-GPE
+19	History	history	NN	pos2=GW	17	pobj	_	O
+20	https://t.co/P6We3Z1oh6	#hlink#	ADD	_	10	appos	_	O
+21	#tcot	#tcot	IN	pos2=-RRB-	5	prep	_	O
+22	#ccot	#ccot	UH	pos2=VB	21	discourse	_	O
+23	#tlot	#tlot	UH	pos2=ADD	21	discourse	_	O
+24	#lnyhbt	#lnyhbt	UH	pos2=IN	21	discourse	_	O
+25	#J	#j	UH	pos2=NFP	21	discourse	_	O
+

@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det	_	O
+2	gov't	gov't	NNP	pos2=NN	5	nsubj	_	O
+3	quietly	quietly	RB	_	5	advmod	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	approved	approve	VBD	pos2=VBN	0	root	_	O
+6	this	this	DT	_	9	det	_	O
+7	enormous	enormous	JJ	_	9	nmod	_	O
+8	oil	oil	NN	_	9	compound	_	O
+9	pipeline	pipeline	NN	_	5	dobj	_	O
+10	https://t.co/aKmDSYbDRk	#hlink#	ADD	pos2=NN	9	appos	_	O
+11	#NoDakotaAccess	#nodakotaaccess	-RRB-	pos2=ADD	9	punct	_	O
+12	#NoDAPL	#nodapl	ADD	pos2=-RRB-	5	punct	_	O
+

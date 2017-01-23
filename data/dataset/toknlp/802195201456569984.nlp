@@ -1,0 +1,13 @@
+1	@verynetwork	@verynetwork	UH	pos2=XX	2	discourse	_	O
+2	wowzers	wowzers	NNS	pos2=UH	0	root	_	O
+3	!!	!!	.	_	2	punct	_	O
+
+1	superb	superb	JJ	_	2	nmod	_	O
+2	prize	prize	NN	_	0	root	_	O
+3	!!	!!	.	_	2	punct	_	O
+
+1	😍	😍	NFP	pos2=SYM	4	punct	_	O
+2	#hatchimals	#hatchimals	NNS	pos2=UH	4	compound	_	O
+3	#WIN	#win	NN	pos2=VBP	4	compound	_	O
+4	#BlackFriday	#blackfriday	NN	pos2=ADD	0	root	_	O
+

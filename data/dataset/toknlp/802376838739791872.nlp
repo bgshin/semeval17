@@ -1,0 +1,19 @@
+1	LISTEN	listen	VB	pos2=NN	2	compound	_	O
+2	UP	up	NN	pos2=RP	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	Obama	obama	NNP	_	5	nsubj	_	U-PERSON
+5	Tells	tell	VBZ	_	0	root	_	O
+6	YOU	you	PRP	_	5	dobj	_	O
+7	To	to	TO	_	8	aux	_	O
+8	Be	be	VB	_	5	xcomp	_	O
+9	Thankful	thankful	JJ	pos2=NNP	8	acomp	_	O
+10	For	for	IN	_	9	prep	_	O
+11	Obamacare	obamacare	NNP	_	10	pobj	_	U-PERSON
+12	...	..	.	_	5	punct	_	O
+
+1	https://t.co/W53u9elWWx	#hlink#	ADD	_	5	nmod	_	U-ORG
+2	#Trump	#trump	-RRB-	pos2=IN	1	punct	_	O
+3	#makeamericagreatagain	#makeamericagreatagain	GW	pos2=UH	5	nmod	_	O
+4	…	…	NFP	pos2=GW	5	punct	_	O
+5	https://t.co/05BurcE4YS	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,22 @@
+1	Um	um	UH	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	For	for	IN	_	8	prep	_	O
+2	many	many	JJ	_	1	pobj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	us	us	PRP	_	3	pobj	_	O
+5	,	,	,	_	8	punct	_	O
+6	life	life	NN	_	8	npadvmod	_	O
+7	-	-	HYPH	_	8	punct	_	O
+8	threatening	threaten	VBG	pos2=NN	0	root	_	O
+9	.	.	.	_	8	punct	_	O
+
+1	Save	save	VB	pos2=VBP	0	root	_	O
+2	#Medicare	#medicare	NNP	pos2=NN	3	compound	_	B-ORG
+3	#Medicaid	#medicaid	NNP	pos2=FW	5	compound	_	L-ORG
+4	thou	thou	NN	pos2=XX	5	compound	_	O
+5	shalt	shalt	NN	pos2=VBD	1	dobj	_	O
+6	not	not	RB	_	7	neg	_	O
+7	kill	kill	VB	pos2=GW	1	dep	_	O
+8	https://t.co/tZoyQIXMSs	#hlink#	ADD	pos2=NN	7	dobj	_	U-ORG
+

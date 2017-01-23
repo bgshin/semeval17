@@ -1,0 +1,22 @@
+1	@jimmyfallon	@jimmyfallon	UH	pos2=XX	9	discourse	_	O
+2	#gilmoregirlstop4	#gilmoregirlstop0	NN	pos2=CD	9	nmod	_	O
+3	4	0	LS	pos2=CD	9	meta	_	U-CARDINAL
+4	)	)	-RRB-	_	3	punct	_	O
+5	Paris3	paris0	NN	pos2=LS	2	appos	_	O
+6	)	)	-RRB-	_	2	punct	_	O
+7	Luke2	luke0	NN	pos2=LS	2	appos	_	U-DATE
+8	)	)	-RRB-	_	9	punct	_	O
+9	Sookie1	sookie0	NN	pos2=LS	0	root	_	O
+10	)	)	-RRB-	_	9	punct	_	O
+11	Emily	emily	NNP	pos2=RB	9	vocative	_	U-PERSON
+12	...	..	.	_	9	punct	_	O
+
+1	how	how	WRB	_	4	advmod	_	O
+2	could	could	MD	_	4	aux	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	forget	forget	VB	_	0	root	_	O
+5	Emily	emily	NNP	_	4	dobj	_	U-PERSON
+6	,	,	,	_	5	punct	_	O
+7	@jimmyfallon	@jimmyfallon	NNP	pos2=XX	5	appos	_	O
+8	?!	?!	.	_	4	punct	_	O
+

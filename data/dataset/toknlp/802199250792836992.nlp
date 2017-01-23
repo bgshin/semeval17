@@ -1,0 +1,13 @@
+1	@pottermore	@pottermore	UH	pos2=RB	5	discourse	_	O
+2	@jonkerlin	@jonkerlin	UH	pos2=NN	5	discourse	_	O
+3	@SCB_Ben	@scb_ben	NNP	pos2=UH	5	nsubj	_	U-ORG
+4	Finally	finally	RB	_	5	advmod	_	O
+5	got	get	VBD	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	watch	watch	VB	_	5	xcomp	_	O
+8	#FantasticBeasts	#fantasticbeasts	NNS	pos2=XX	7	dobj	_	O
+9	so	so	RB	_	10	advmod	_	O
+10	good	good	JJ	_	12	nmod	_	O
+11	🐍🐉	🐍🐉	NFP	pos2=IN	12	punct	_	O
+12	https://t.co/AHESTWEv4R	#hlink#	ADD	_	5	dep	_	O
+

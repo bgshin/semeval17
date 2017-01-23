@@ -1,0 +1,27 @@
+1	Here	here	RB	_	2	advmod	_	O
+2	comes	come	VBZ	_	9	advcl	_	O
+3	Marine	marine	NNP	pos2=JJ	5	compound	_	B-PERSON
+4	Le	le	NNP	_	5	compound	_	I-PERSON
+5	Pen	pen	NNP	_	2	nsubj	_	L-PERSON
+6	,	,	,	_	9	punct	_	O
+7	she	she	PRP	_	9	nsubj	_	O
+8	is	be	VBZ	_	9	aux	_	O
+9	hoping	hope	VBG	_	21	ccomp	_	O
+10	for	for	IN	_	9	prep	_	O
+11	a	a	DT	_	13	det	_	O
+12	similar	similar	JJ	_	13	nmod	_	O
+13	upset	upset	NN	pos2=JJ	10	pobj	_	O
+14	next	next	JJ	pos2=IN	15	nmod	_	B-DATE
+15	year	year	NN	_	13	npadvmod	_	L-DATE
+16	in	in	IN	_	13	prep	_	O
+17	the	the	DT	_	19	det	_	O
+18	French	french	JJ	pos2=NNP	19	nmod	_	U-NORP
+19	election	election	NN	_	16	pobj	_	O
+20	,	,	,	_	21	punct	_	O
+21	says	say	VBZ	_	0	root	_	O
+22	Italy	italy	NNP	_	23	compound	_	U-GPE
+23	votes	vote	NNS	pos2=VBZ	21	nsubj	_	O
+24	against	against	IN	_	23	prep	_	O
+25	EU	eu	NNP	_	24	pobj	_	U-ORG
+26	...	..	.	pos2=,	21	punct	_	O
+

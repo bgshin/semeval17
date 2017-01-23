@@ -1,0 +1,19 @@
+1	LOOK	look	NN	pos2=VB	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Soldiers	soldier	NNS	pos2=NNPS	4	nsubj	_	O
+4	push	push	VBP	pos2=VB	0	root	_	O
+5	vehicle	vehicle	NN	_	4	dobj	_	O
+6	with	with	IN	_	4	prep	_	O
+7	Fidel	fidel	NNP	_	8	compound	_	B-PERSON
+8	Castro	castro	NNP	_	10	poss	_	I-PERSON
+9	's	's	POS	_	8	case	_	L-PERSON
+10	ashes	ash	NNS	_	6	pobj	_	O
+11	after	after	IN	_	13	mark	_	O
+12	it	it	PRP	_	13	nsubj	_	O
+13	breaks	break	VBZ	_	4	advcl	_	O
+14	down	down	RP	pos2=RB	13	prt	_	O
+15	in	in	IN	_	13	prep	_	O
+16	procession	procession	NN	pos2=GW	15	pobj	_	O
+17	https://t.co/MuCYqky1Jf	#hlink#	ADD	_	18	nmod	_	O
+18	https://t.co/yybzkOeO9y	#hlink#	ADD	_	4	dep	_	U-ORG
+

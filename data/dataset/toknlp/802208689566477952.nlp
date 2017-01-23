@@ -1,0 +1,17 @@
+1	We	we	PRP	_	3	nsubj	_	O
+2	should	should	MD	_	3	aux	_	O
+3	support	support	VB	_	0	root	_	O
+4	this	this	DT	_	6	det	_	O
+5	brave	brave	JJ	_	6	nmod	_	O
+6	people	people	NNS	_	3	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	our	our	PRP$	_	9	poss	_	O
+9	nation	nation	NN	_	7	pobj	_	O
+10	in	in	IN	_	3	prep	_	O
+11	#Syria	#syria	NNP	pos2=FW	10	pobj	_	O
+12	@realDonaldTrump	@realdonaldtrump	ADD	pos2=POS	16	dep	_	O
+13	@mike_pence	@mike_pence	NNP	pos2=IN	16	nmod	_	O
+14	@RepMikePompeo	@repmikepompeo	GW	pos2=ADD	16	nmod	_	O
+15	…	…	NFP	pos2=GW	16	punct	_	O
+16	https://t.co/RcbHrtVe0F	#hlink#	ADD	_	3	dep	_	O
+

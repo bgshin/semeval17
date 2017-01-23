@@ -1,0 +1,26 @@
+1	@NickP118	@nickp0	PDT	pos2=LS	3	predet	_	O
+2	my	my	PRP$	_	3	poss	_	O
+3	congressman	congressman	NN	_	10	vocative	_	O
+4	,	,	,	_	10	punct	_	O
+5	the	the	DT	_	8	det	_	O
+6	despicable	despicable	JJ	_	8	nmod	_	O
+7	Tim	tim	NNP	_	8	compound	_	B-PERSON
+8	Ryan	ryan	NNP	_	10	nsubj	_	L-PERSON
+9	is	be	VBZ	_	10	aux	_	O
+10	challenging	challenge	VBG	pos2=JJ	0	root	_	O
+11	Pelosi	pelosi	NNP	_	10	dobj	_	U-PERSON
+12	for	for	IN	_	10	prep	_	O
+13	minority	minority	NN	_	14	compound	_	O
+14	leader	leader	NN	_	12	pobj	_	O
+15	.	.	.	_	10	punct	_	O
+
+1	He	he	PRP	_	4	nsubjpass	_	O
+2	's	's	VBZ	_	4	aux	_	O
+3	being	be	VBG	_	4	auxpass	_	O
+4	called	call	VBN	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	sexist	sexist	JJ	pos2=NN	4	oprd	_	O
+7	for	for	IN	_	6	prep	_	O
+8	it	it	PRP	_	7	pobj	_	O
+9	😂😂	😂😂	.	pos2=-RRB-	4	punct	_	O
+

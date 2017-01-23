@@ -1,0 +1,14 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	discovered	discover	VBD	pos2=VBN	0	root	_	O
+3	who	who	WP	_	6	attr	_	O
+4	David	david	NNP	_	5	compound	_	B-PERSON
+5	Blaine	blaine	NNP	_	6	nsubj	_	L-PERSON
+6	is	be	VBZ	_	2	ccomp	_	O
+7	yesterday	yesterday	NN	_	6	npadvmod	_	U-DATE
+8	and	and	CC	_	6	cc	_	O
+9	my	my	PRP$	_	10	poss	_	O
+10	life	life	NN	_	12	nsubj	_	O
+11	has	have	VBZ	_	12	aux	_	O
+12	changed	change	VBN	_	6	conj	_	O
+13	forever	forever	RB	_	12	advmod	_	O
+

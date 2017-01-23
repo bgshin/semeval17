@@ -1,0 +1,26 @@
+1	@AMDWaters	@amdwaters	NNS	pos2=VBZ	4	dep	_	O
+2	A	a	DT	pos2=NNP	3	det	_	O
+3	Society	society	NNP	pos2=NN	4	nsubj	_	U-ORG
+4	is	be	VBZ	_	0	root	_	O
+5	Gutless	gutless	JJ	pos2=NNP	4	acomp	_	O
+6	&	&	CC	_	5	cc	_	O
+7	Lawless	lawless	JJ	pos2=NNP	5	conj	_	O
+8	without	without	IN	_	4	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	Deterent	deterent	NNP	pos2=NN	8	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	Death	death	NNP	pos2=NN	14	compound	_	O
+14	Penalty	penalty	NN	pos2=NNP	11	pobj	_	O
+15	,	,	,	_	4	punct	_	O
+16	Feeling	feel	VBG	_	4	advcl	_	O
+17	sorry	sorry	JJ	_	16	acomp	_	O
+18	for	for	IN	_	17	prep	_	O
+19	the	the	DT	_	20	det	_	O
+20	Butcher	butcher	NNP	_	18	pobj	_	U-PERSON
+21	of	of	IN	_	20	prep	_	O
+22	our	our	PRP$	_	23	poss	_	O
+23	children	child	NNS	pos2=NN	21	pobj	_	O
+24	Is	be	VBZ	_	16	ccomp	_	O
+25	Insane	insane	JJ	pos2=NNP	24	acomp	_	O
+

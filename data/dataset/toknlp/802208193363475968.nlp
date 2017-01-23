@@ -1,0 +1,13 @@
+1	@MikeAndMike	@mikeandmike	NNP	pos2=PRP$	2	compound	_	O
+2	Dolphins	dolphin	NNPS	pos2=NNS	3	compound	_	O
+3	Fans	fan	NNPS	pos2=NNS	4	nsubj	_	O
+4	do	do	VBP	_	0	root	_	O
+5	#mannequinChallenge	#mannequinchallenge	NN	pos2=NNP	7	compound	_	O
+6	music	music	NN	pos2=JJ	7	compound	_	O
+7	video	video	NN	_	4	dobj	_	O
+8	dissing	diss	VBG	pos2=NN	7	acl	_	O
+9	@	@	IN	pos2=SYM	8	prep	_	O
+10	49ers	0ers	NNS	pos2=NNPS	9	pobj	_	U-ORG
+11	@SportsCenter	@sportscenter	GW	pos2=ADD	12	nmod	_	O
+12	https://t.co/pJNZKSeEmn	#hlink#	ADD	pos2=NN	4	dep	_	O
+

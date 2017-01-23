@@ -1,0 +1,16 @@
+1	@Glyxalt	@glyxalt	NNP	pos2=SYM	2	compound	_	O
+2	@ConnorWTK1	@connorwtk0	NN	pos2=NNS	5	dep	_	O
+3	1	0	CD	_	5	compound	_	B-DATE
+4	2	0	CD	_	5	compound	_	I-DATE
+5	3	0	CD	_	0	root	_	L-DATE
+6	and	and	CC	_	5	cc	_	O
+7	4Also	0also	NN	pos2=CC	8	compound	_	O
+8	Persona	persona	NNP	pos2=NN	10	nsubj	_	O
+9	5	0	CD	_	8	nmod	_	U-CARDINAL
+10	when	when	WRB	_	12	advmod	_	O
+11	that	that	DT	pos2=WDT	12	nsubj	_	O
+12	comes	come	VBZ	_	5	conj	_	O
+13	out	out	RP	pos2=RB	12	prt	_	O
+14	next	next	JJ	pos2=IN	15	nmod	_	B-DATE
+15	year	year	NN	_	12	npadvmod	_	L-DATE
+

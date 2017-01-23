@@ -1,0 +1,23 @@
+1	@themaingauge	@themaingauge	UH	pos2=VB	11	discourse	_	O
+2	@Ioovekayyy	@ioovekayyy	UH	pos2=NNP	11	discourse	_	O
+3	@larryelder	@larryelder	UH	pos2=JJR	11	discourse	_	O
+4	If	if	IN	_	6	mark	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	look@the	look@the	VBP	pos2=DT	11	advcl	_	O
+7	accounts	account	NNS	pos2=VBZ	8	compound	_	O
+8	activity	activity	NN	_	6	dobj	_	O
+9	,	,	,	_	11	punct	_	O
+10	it	it	PRP	_	11	nsubj	_	O
+11	's	's	VBZ	_	0	root	_	O
+12	a	a	DT	_	16	det	_	O
+13	trolling	trolling	NN	pos2=VBG	16	nmod	_	O
+14	/	/	SYM	pos2=HYPH	15	punct	_	O
+15	antagonizing	antagonize	VBG	pos2=NN	16	nmod	_	O
+16	account	account	NN	_	11	attr	_	O
+17	.	.	.	_	11	punct	_	O
+
+1	All	all	DT	_	2	det	_	O
+2	targets	target	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	rightists	rightist	NNS	_	3	attr	_	O
+

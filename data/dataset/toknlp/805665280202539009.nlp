@@ -1,0 +1,21 @@
+1	#CubsTalk	#cubstalk	ADD	pos2=VB	4	punct	_	O
+2	#Cubbies	#cubbies	NNS	pos2=VBZ	7	advmod	_	O
+3	#CubsNation	#cubsnation	ADD	pos2=NN	7	advmod	_	O
+4	#Signed	#signed	VBD	pos2=NNP	0	root	_	O
+5	JAKE	jake	NNP	pos2=NN	6	compound	_	B-ORG
+6	ARRIETA	arrieta	NNP	_	2	appos	_	I-ORG
+7	Autographed	autographed	NNP	_	9	compound	_	I-ORG
+8	Auto	auto	NNP	_	9	compound	_	I-ORG
+9	Baseball	baseball	NNP	pos2=NN	12	compound	_	L-ORG
+10	w	w	IN	_	9	prep	_	O
+11	/	/	HYPH	_	10	punct	_	O
+12	COA	coa	NN	pos2=NNP	0	root	_	O
+13	Chicago	chicago	NNP	_	14	compound	_	O
+14	Cubs	cub	NNPS	pos2=NNP	17	compound	_	B-EVENT
+15	World	world	NNP	_	17	compound	_	I-EVENT
+16	Series	series	NNP	_	17	compound	_	L-EVENT
+17	C	c	NNP	pos2=NN	10	pobj	_	O
+18	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/E96l6CsAC0…	#hlink#	ADD	_	0	root	_	U-ORG
+

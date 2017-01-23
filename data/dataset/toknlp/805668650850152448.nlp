@@ -1,0 +1,31 @@
+1	Anyone	anyone	NN	_	10	nsubj	_	O
+2	who	who	WP	_	3	nsubj	_	O
+3	bothered	bother	VBD	_	1	relcl	_	O
+4	to	to	TO	_	5	aux	_	O
+5	find	find	VB	_	3	xcomp	_	O
+6	out	out	RP	_	5	prt	_	O
+7	anything	anything	NN	_	5	dobj	_	O
+8	about	about	IN	pos2=RB	7	prep	_	O
+9	#Brexit	#brexit	NNP	pos2=PRP	8	pobj	_	U-ORG
+10	knew	know	VBD	_	0	root	_	O
+11	there	there	EX	_	13	expl	_	O
+12	would	would	MD	_	13	aux	_	O
+13	be	be	VB	_	10	ccomp	_	O
+14	a	a	DT	_	16	det	_	O
+15	legal	legal	JJ	_	16	nmod	_	O
+16	process	process	NN	_	13	attr	_	O
+17	.	.	.	_	10	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	not	not	RB	_	2	neg	_	O
+4	a	a	DT	_	6	det	_	O
+5	'	'	``	pos2=''	6	punct	_	O
+6	threat	threat	NN	_	2	attr	_	O
+7	to	to	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	people	people	NNS	_	11	poss	_	O
+10	's	's	POS	pos2=VBZ	9	case	_	O
+11	voice	voice	NN	_	7	pobj	_	O
+12	'	'	''	pos2=POS	6	punct	_	O
+

@@ -1,0 +1,10 @@
+1	#Israel	#israel	NNP	pos2=NN	4	nsubj	_	U-ORG
+2	is	be	VBZ	_	4	aux	_	O
+3	still	still	RB	_	4	advmod	_	O
+4	burning	burn	VBG	_	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+
+1	😢😢#israelisburning	😢😢#israelisburning	VBG	pos2=UH	0	root	_	O
+2	#haifa	#haifa	UH	pos2=FW	1	discourse	_	O
+3	#jerusalem	#jerusalem	UH	pos2=PRP	1	discourse	_	O
+

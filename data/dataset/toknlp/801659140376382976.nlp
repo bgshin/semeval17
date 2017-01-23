@@ -1,0 +1,25 @@
+1	The	the	DT	_	5	det	_	O
+2	Roundup	roundup	NNP	pos2=NN	4	compound	_	O
+3	—	-	HYPH	pos2=,	4	punct	_	O
+4	Jazz	jazz	NN	pos2=NNP	5	nsubj	_	O
+5	108	0	CD	pos2=NNP	7	nmod	_	U-CARDINAL
+6	,	,	,	_	10	punct	_	O
+7	Nuggets	nugget	NNS	pos2=NNPS	10	nmod	_	O
+8	83	0	CD	_	9	nmod	_	U-CARDINAL
+9	#nba	#nba	NNS	pos2=FW	10	compound	_	O
+10	@utahjazz	@utahjazz	NN	pos2=FW	15	dep	_	O
+11	:	:	:	_	15	punct	_	O
+12	The	the	DT	_	14	det	_	B-ORG
+13	Utah	utah	NNP	_	14	compound	_	I-ORG
+14	Jazz	jazz	NNP	pos2=NN	15	nsubj	_	L-ORG
+15	tipped	tip	VBD	_	0	root	_	O
+16	off	off	RP	pos2=IN	15	prt	_	O
+17	Thanksgiving	thanksgiving	NNP	_	18	compound	_	B-DATE
+18	weekend	weekend	NN	_	15	npadvmod	_	L-DATE
+19	in	in	IN	_	15	prep	_	O
+20	style	style	NN	_	19	pobj	_	O
+21	,	,	,	_	15	punct	_	O
+22	dominating	dominate	VBG	_	15	advcl	_	O
+23	…	…	NFP	pos2=-LRB-	24	punct	_	O
+24	https://t.co/Ji9XwW9gQS	#hlink#	ADD	pos2=NN	15	dep	_	O
+

@@ -1,0 +1,17 @@
+1	Despite	despite	IN	_	8	prep	_	O
+2	their	their	PRP$	_	4	poss	_	O
+3	rocky	rocky	JJ	_	4	nmod	_	O
+4	history	history	NN	_	1	pobj	_	O
+5	,	,	,	_	8	punct	_	O
+6	@Microsoft	@microsoft	NNP	pos2=PRP	8	nsubj	_	U-ORG
+7	has	have	VBZ	_	8	aux	_	O
+8	joined	join	VBN	_	0	root	_	O
+9	the	the	DT	_	10	det	_	O
+10	#LinuxFoundation	#linuxfoundation	NN	pos2=NNP	8	dobj	_	O
+11	as	as	IN	_	8	prep	_	O
+12	a	a	DT	_	14	det	_	O
+13	platinum	platinum	NN	pos2=JJ	14	compound	_	O
+14	member	member	NN	_	11	pobj	_	O
+15	https://t.co/6nAlP0eZQD	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/hNLWm8Iuo3	#hlink#	ADD	_	11	pobj	_	U-ORG
+

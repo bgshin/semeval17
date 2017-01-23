@@ -1,0 +1,12 @@
+1	ICT	ict	NN	pos2=NNP	2	nsubj	_	O
+2	serves	serve	VBZ	pos2=CC	0	root	_	O
+3	death	death	NN	_	4	compound	_	O
+4	penalty	penalty	NN	_	2	dobj	_	O
+5	to	to	IN	_	2	prep	_	O
+6	Idris	idris	NNP	_	5	pobj	_	U-PERSON
+7	for	for	IN	_	2	prep	_	O
+8	crimes	crime	NNS	_	7	pobj	_	O
+9	against	against	IN	_	8	prep	_	O
+10	humanity	humanity	NN	_	9	pobj	_	O
+11	https://t.co/likxm9k29U	#hlink#	ADD	pos2=NN	6	appos	_	U-ORG
+

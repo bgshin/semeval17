@@ -1,0 +1,15 @@
+1	#Self	#self	NN	pos2=NNP	3	npadvmod	_	O
+2	-	-	HYPH	pos2=:	3	punct	_	O
+3	Driving	drive	VBG	pos2=NNP	4	nmod	_	O
+4	#Cars	#cars	NNS	pos2=NNP	7	nsubj	_	O
+5	May	may	MD	pos2=NNP	7	aux	_	O
+6	Never	never	RB	_	7	neg	_	O
+7	Take	take	VB	_	0	root	_	O
+8	Off	off	RP	pos2=NNP	7	prt	_	O
+9	,	,	,	_	7	punct	_	O
+10	But	but	CC	_	7	cc	_	O
+11	#Driverless	#driverless	NNP	pos2=IN	12	compound	_	B-PERSON
+12	#Trucks	#trucks	NNP	pos2=NNS	14	dep	_	L-PERSON
+13	Might	might	MD	pos2=GW	14	dep	_	O
+14	https://t.co/iy0YKjFJ6P	#hlink#	ADD	_	7	conj	_	O
+

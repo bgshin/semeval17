@@ -1,0 +1,17 @@
+1	Seems	seem	VBZ	_	0	root	_	O
+2	Tim	tim	NNP	_	3	compound	_	B-PERSON
+3	Duncan	duncan	NNP	_	5	nsubj	_	L-PERSON
+4	is	be	VBZ	_	5	aux	_	O
+5	doing	do	VBG	_	1	ccomp	_	O
+6	more	more	JJR	pos2=RBR	5	dobj	_	O
+7	than	than	IN	_	6	prep	_	O
+8	just	just	RB	_	9	advmod	_	O
+9	showing	show	VBG	_	7	pcomp	_	O
+10	up	up	RP	_	9	prt	_	O
+11	at	at	IN	_	9	prep	_	O
+12	#Spurs	#spurs	PRP$	pos2=NNP	13	poss	_	U-TIME
+13	practices	practice	NNS	_	11	pobj	_	O
+14	https://t.co/oX0BuZYmlg	#hlink#	ADD	pos2=VBP	15	nsubj	_	O
+15	#spurs	#spurs	VBZ	pos2=NNS	5	advcl	_	O
+16	#gospursgo	#gospursgo	UH	pos2=FW	15	discourse	_	O
+

@@ -1,0 +1,28 @@
+1	@HelenRushby1	@helenrushby0	NN	pos2=NNS	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	agree	agree	VBP	_	0	root	_	O
+4	Helen	helen	NNP	_	3	vocative	_	U-PERSON
+5	.	.	.	_	3	punct	_	O
+
+1	But	but	CC	_	3	cc	_	O
+2	#Labour	#labour	NNP	pos2=EX	3	nsubj	_	U-ORG
+3	has	have	VBZ	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	poor	poor	JJ	_	6	nmod	_	O
+6	legacy	legacy	NN	_	3	dobj	_	O
+7	here	here	RB	_	3	advmod	_	O
+8	too	too	RB	_	3	advmod	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	an	an	DT	_	4	det	_	O
+4	assimilation	assimilation	NN	_	2	dobj	_	O
+5	as	as	RB	_	7	advmod	_	O
+6	well	well	RB	_	7	advmod	_	O
+7	as	as	IN	_	4	cc	_	O
+8	an	an	DT	_	10	det	_	O
+9	immigration	immigration	NN	_	10	compound	_	O
+10	policy	policy	NN	_	4	conj	_	O
+11	.	.	.	_	2	punct	_	O
+

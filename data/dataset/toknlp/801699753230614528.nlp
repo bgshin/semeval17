@@ -1,0 +1,29 @@
+1	https://t.co/BDHAXdXRy6	#hlink#	ADD	pos2=DT	3	nmod	_	O
+2	SMART	smart	JJ	_	3	nmod	_	U-ORG
+3	DUDE	dude	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	This	this	DT	_	2	det	_	O
+2	man	man	NN	_	4	nsubj	_	O
+3	is	be	VBZ	_	4	aux	_	O
+4	going	go	VBG	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	have	have	VB	_	4	xcomp	_	O
+7	his	his	PRP$	_	8	poss	_	O
+8	life	life	NN	_	9	nsubj	_	O
+9	ruined	ruin	VBN	_	6	ccomp	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	SPLC	splc	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	has	have	VBZ	_	0	root	_	O
+3	power	power	NN	_	2	dobj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	make	make	VB	_	3	acl	_	O
+6	sure	sure	JJ	_	5	oprd	_	O
+7	u	u	PRP	pos2=-RRB-	9	nsubj	_	O
+8	never	never	RB	_	9	neg	_	O
+9	leave	leave	VBP	pos2=VB	6	ccomp	_	O
+10	the	the	DT	_	11	det	_	O
+11	Country	country	NNP	pos2=NN	9	dobj	_	O
+12	fyi	fyi	RB	pos2=NN	9	advmod	_	O
+

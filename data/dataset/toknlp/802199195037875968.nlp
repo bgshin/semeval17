@@ -1,0 +1,29 @@
+1	@SpeakerRyan	@speakerryan	IN	pos2=JJ	11	prep	_	O
+2	White	white	JJ	pos2=NNP	3	nmod	_	O
+3	supremacists	supremacist	NNS	_	1	pobj	_	O
+4	,	,	,	_	9	punct	_	O
+5	alt	alt	NN	pos2=JJ	7	npadvmod	_	O
+6	-	-	HYPH	_	7	punct	_	O
+7	right	right	JJ	pos2=NN	8	nmod	_	O
+8	leaders	leader	NNS	_	9	nsubj	_	O
+9	argue	argue	VBP	_	11	parataxis	_	O
+10	,	,	,	_	9	punct	_	O
+11	think	think	VBP	pos2=VB	0	root	_	O
+12	white	white	JJ	_	13	nmod	_	O
+13	people	people	NNS	_	14	nsubj	_	O
+14	are	be	VBP	_	11	ccomp	_	O
+15	the	the	DT	_	17	det	_	O
+16	best	good	JJS	_	17	nmod	_	O
+17	race	race	NN	_	14	attr	_	O
+18	.	.	.	_	11	punct	_	O
+
+1	The	the	DT	_	4	det	_	O
+2	alt	alt	JJ	pos2=NN	4	advmod	_	O
+3	-	-	HYPH	_	4	punct	_	O
+4	right	right	JJ	pos2=NN	8	nsubj	_	O
+5	does	do	VBZ	_	8	aux	_	O
+6	n’t	not	RB	_	8	neg	_	O
+7	necessarily	necessarily	RB	_	8	advmod	_	O
+8	think	think	VB	_	0	root	_	O
+9	that	that	IN	pos2=DT	5	mark	_	O
+

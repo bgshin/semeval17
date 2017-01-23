@@ -1,0 +1,16 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	reminds	remind	VBZ	_	0	root	_	O
+3	me	me	PRP	_	2	dobj	_	O
+4	of	of	IN	_	2	prep	_	O
+5	that	that	DT	_	6	det	_	O
+6	time	time	NN	_	4	pobj	_	O
+7	I	I	PRP	_	9	nsubjpass	_	O
+8	got	get	VBD	_	9	auxpass	_	O
+9	attacked	attack	VBN	_	15	dep	_	O
+10	by	by	IN	_	9	agent	_	O
+11	Alt	alt	NNP	pos2=JJ	13	compound	_	O
+12	-	-	HYPH	_	13	punct	_	O
+13	rightists	rightist	NNS	_	10	pobj	_	O
+14	:	:	:	_	15	punct	_	O
+15	https://t.co/DbQuX0QuDD	#hlink#	ADD	pos2=NN	2	dep	_	O
+

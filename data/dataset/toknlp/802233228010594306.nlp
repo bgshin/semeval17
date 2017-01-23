@@ -1,0 +1,22 @@
+1	TeslaMotors	teslamotors	NNS	pos2=NNP	0	root	_	O
+2	:	:	:	_	1	punct	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	MensJournal	mensjournal	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	pushed	push	VBD	pos2=VBN	0	root	_	O
+3	Model	model	NNP	pos2=NN	6	poss	_	O
+4	S	s	POS	pos2=NNP	3	case	_	O
+5	P100	p0	NN	pos2=NNP	6	compound	_	O
+6	D	d	NN	pos2=NNP	2	dobj	_	O
+7	to	to	IN	_	2	prep	_	O
+8	its	its	PRP$	_	9	poss	_	O
+9	limits	limit	NNS	pos2=NN	7	pobj	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	Their	their	PRP$	_	2	poss	_	O
+2	verdict	verdict	NN	_	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	🚀	🚀	NFP	pos2=-LRB-	5	nmod	_	O
+5	https://t.co/uiU8WPr5c9	#hlink#	ADD	_	0	root	_	O
+6	#teslasharing	#teslasharing	-RRB-	pos2=UH	5	punct	_	O
+

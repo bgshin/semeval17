@@ -1,0 +1,17 @@
+1	#POTUSTrump	#potustrump	NN	pos2=JJ	2	compound	_	O
+2	voters	voter	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	very	very	RB	_	5	advmod	_	O
+5	comfortable	comfortable	JJ	_	3	acomp	_	O
+6	with	with	IN	_	5	prep	_	O
+7	#TrumpTransitionTeam	#trumptransitionteam	NN	pos2=NNP	8	compound	_	O
+8	process	process	NN	_	6	pobj	_	O
+9	because	because	IN	_	12	mark	_	O
+10	the	the	DT	_	11	det	_	O
+11	drama	drama	NN	_	12	nsubj	_	O
+12	reads	read	VBZ	_	3	advcl	_	O
+13	a	a	DT	_	14	det	_	O
+14	lot	lot	NN	_	15	npadvmod	_	O
+15	like	like	IN	pos2=UH	12	prep	_	O
+16	#OldTestament:#MAGAforDummies	#oldtestament:#magafordummies	NNS	pos2=ADD	15	pobj	_	O
+

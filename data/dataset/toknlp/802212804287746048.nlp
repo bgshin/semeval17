@@ -1,0 +1,20 @@
+1	1	0	CD	pos2=LS	2	nmod	_	O
+2	D	d	NNS	pos2=NNP	19	dep	_	O
+3	One	#crd#	CD	pos2=NNP	19	dep	_	U-CARDINAL
+4	Direction	direction	NN	_	19	dep	_	O
+5	22	0	CD	_	6	nmod	_	B-QUANTITY
+6	inch	inch	NN	pos2=IN	19	dep	_	L-QUANTITY
+7	Two	#crd#	CD	pos2=NNP	10	nmod	_	B-WORK_OF_ART
+8	Tone	tone	NNP	pos2=NN	10	compound	_	I-WORK_OF_ART
+9	Teddy	teddy	NNP	_	10	compound	_	I-WORK_OF_ART
+10	Bear	bear	NNP	_	2	appos	_	L-WORK_OF_ART
+11	with	with	IN	_	10	prep	_	O
+12	Varsity	varsity	NNP	pos2=NN	13	compound	_	B-WORK_OF_ART
+13	Jacket	jacket	NNP	pos2=NN	11	pobj	_	L-WORK_OF_ART
+14	https://t.co/MGWrLcEABD	#hlink#	ADD	pos2=NN	19	dep	_	O
+15	#	#	NN	pos2=-RRB-	19	dep	_	O
+16	1	0	LS	pos2=CD	19	dep	_	U-MONEY
+17	d	d	NN	pos2=NNS	19	dep	_	O
+18	#onedirection	#onedirection	ADD	pos2=GW	19	dep	_	O
+19	https://t.co/X6wdIUoPsT	#hlink#	ADD	pos2=NN	0	root	_	O
+

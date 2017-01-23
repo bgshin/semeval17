@@ -1,0 +1,15 @@
+1	Why	why	WRB	_	6	advmod	_	O
+2	this	this	DT	_	3	det	_	O
+3	surge	surge	NN	_	0	root	_	O
+4	of	of	IN	_	3	prep	_	O
+5	US	us	NNP	_	6	compound	_	U-GPE
+6	interest	interest	NN	_	4	pobj	_	O
+7	in	in	IN	_	6	prep	_	O
+8	#Yemen	#yemen	NNP	_	7	pobj	_	U-GPE
+9	?	?	.	_	6	punct	_	O
+
+1	https://t.co/Jgej9QwSG2	#hlink#	ADD	_	3	nsubj	_	O
+2	#ChildrenInNeed	#childreninneed	-RRB-	pos2=ADD	1	punct	_	O
+3	#yemenisstarving	#yemenisstarving	VBG	pos2=UH	0	root	_	O
+4	#yemencrisis	#yemencrisis	UH	pos2=NN	3	discourse	_	O
+

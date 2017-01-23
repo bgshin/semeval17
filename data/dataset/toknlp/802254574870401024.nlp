@@ -1,0 +1,24 @@
+1	https://t.co/Lvay9fWnKX	#hlink#	ADD	pos2=SYM	4	dep	_	O
+2	AUKEY	aukey	NNP	pos2=DT	4	compound	_	O
+3	Car	car	NN	pos2=NNP	4	compound	_	O
+4	Charger	charger	NN	pos2=NNP	21	dep	_	O
+5	with	with	IN	_	4	prep	_	O
+6	Quick	quick	NNP	pos2=JJ	7	compound	_	B-ORG
+7	Charge	charge	NNP	pos2=NN	5	pobj	_	L-ORG
+8	3.0	0	CD	_	7	nmod	_	U-CARDINAL
+9	for	for	IN	_	7	prep	_	O
+10	LG	lg	NNP	pos2=NN	11	compound	_	U-ORG
+11	G5	g0	NNP	pos2=NN	9	pobj	_	U-PRODUCT
+12	,	,	,	_	11	punct	_	O
+13	Samsung	samsung	NNP	_	14	compound	_	B-ORG
+14	Galaxy	galaxy	NNP	_	15	compound	_	L-ORG
+15	S7	s0	NN	pos2=NNP	19	nmod	_	O
+16	/	/	SYM	_	19	punct	_	O
+17	S6	s0	NN	_	19	nmod	_	O
+18	/	/	SYM	_	19	punct	_	O
+19	Edge	edge	NN	pos2=NNP	23	dep	_	O
+20	,	,	,	_	21	punct	_	O
+21	Note	note	VB	pos2=NN	0	root	_	O
+22	7/5/4	0	CD	_	23	dep	_	B-CARDINAL
+23	https://t.co/ufCbniPCRx	#hlink#	ADD	pos2=NN	21	dobj	_	L-CARDINAL
+

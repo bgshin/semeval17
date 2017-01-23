@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det	_	O
+2	deplorables	deplorables	NNS	pos2=NN	4	nsubj	_	O
+3	will	will	MD	_	4	aux	_	O
+4	have	have	VB	_	0	root	_	O
+5	an	an	DT	_	10	det	_	O
+6	awesome	awesome	JJ	_	10	nmod	_	O
+7	four	#crd#	CD	_	8	nmod	_	B-DATE
+8	year	year	NN	_	9	npadvmod	_	L-DATE
+9	long	long	JJ	pos2=RB	10	nmod	_	O
+10	hangover	hangover	NN	_	4	dobj	_	O
+11	,	,	,	_	12	punct	_	O
+12	think	think	VB	_	4	conj	_	O
+13	salt	salt	NN	_	17	nmod	_	O
+14	and	and	CC	_	13	cc	_	O
+15	hemroids	hemroids	NNS	pos2=NN	13	conj	_	O
+16	,	,	,	_	12	punct	_	O
+17	head	head	NN	pos2=VBP	12	conj	_	O
+18	in	in	IN	_	17	prep	_	O
+19	a	a	DT	_	21	det	_	O
+20	sack	sack	NN	_	21	compound	_	O
+21	bar	bar	NN	_	18	pobj	_	O
+22	of	of	IN	_	21	prep	_	O
+23	(	(	-LRB-	_	24	punct	_	O
+24	cont	cont	JJ	pos2=GW	22	pobj	_	O
+25	)	)	-RRB-	pos2=GW	21	punct	_	O
+26	https://t.co/OSc5CNSuKn	#hlink#	ADD	pos2=NN	22	pobj	_	O
+

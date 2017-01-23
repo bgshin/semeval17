@@ -1,0 +1,17 @@
+1	Rehearsals	rehearsal	NNS	_	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	beauty	beauty	NN	_	2	pobj	_	O
+4	and	and	CC	_	3	cc	_	O
+5	the	the	DT	_	6	det	_	O
+6	beast	beast	NN	_	3	conj	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	Featuring	feature	VBG	_	6	prep	_	O
+2	the	the	DT	_	4	det	_	O
+3	massage	massage	NN	_	4	compound	_	O
+4	train	train	NN	_	1	dobj	_	O
+5	#actorslife	#actorslife	IN	pos2=XX	0	root	_	O
+6	#beautyandthebeast	#beautyandthebeast	GW	pos2=FW	5	pobj	_	O
+7	…	…	NFP	pos2=GW	8	punct	_	O
+8	https://t.co/PC1JUUOGE1	#hlink#	ADD	pos2=NN	5	pobj	_	O
+

@@ -1,0 +1,29 @@
+1	@S0phieH	@s0phieh	NNP	pos2=NNS	4	vocative	_	O
+2	Have	have	VBP	_	4	aux	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	messed	mess	VBN	_	0	root	_	O
+5	with	with	IN	_	4	prep	_	O
+6	Google	google	NNP	_	8	compound	_	B-ORG
+7	Earth	earth	NNP	_	8	compound	_	I-ORG
+8	VR	vr	NNP	pos2=NN	5	pobj	_	L-ORG
+9	at	at	RB	pos2=IN	10	advmod	_	O
+10	all	all	RB	_	4	advmod	_	O
+11	?	?	.	_	4	punct	_	O
+
+1	Wondering	wonder	VBG	_	0	root	_	O
+2	if	if	IN	_	5	mark	_	O
+3	I	I	PRP	_	5	nsubj	_	O
+4	can	can	MD	_	5	aux	_	O
+5	justify	justify	VB	_	1	ccomp	_	O
+6	purchasing	purchase	VBG	_	5	xcomp	_	O
+7	VR	vr	NNP	pos2=NN	6	dobj	_	U-ORG
+8	by	by	IN	_	6	prep	_	O
+9	using	use	VBG	_	8	pcomp	_	O
+10	it	it	PRP	_	9	dobj	_	O
+11	to	to	TO	_	12	aux	_	O
+12	combat	combat	VB	pos2=NN	9	xcomp	_	O
+13	shut	shut	VBN	pos2=NN	16	nmod	_	O
+14	-	-	HYPH	pos2=RP	13	punct	_	O
+15	in	in	RP	pos2=IN	13	prt	_	O
+16	problems	problem	NNS	_	12	dobj	_	O
+

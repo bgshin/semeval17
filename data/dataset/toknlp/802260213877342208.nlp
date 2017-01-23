@@ -1,0 +1,14 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	published	publish	VBD	pos2=VBN	0	root	_	O
+4	“	"	``	_	6	punct	_	B-WORK_OF_ART
+5	Black	black	NNP	pos2=JJ	6	compound	_	I-WORK_OF_ART
+6	Box	box	NNP	_	7	nsubj	_	I-WORK_OF_ART
+7	Thinking	think	VBG	pos2=NNP	3	ccomp	_	I-WORK_OF_ART
+8	and	and	CC	_	7	cc	_	I-WORK_OF_ART
+9	Self	self	NNP	pos2=NN	10	npadvmod	_	I-WORK_OF_ART
+10	Driving	drive	VBG	pos2=NNP	7	conj	_	I-WORK_OF_ART
+11	Cars	car	NNS	pos2=NNPS	10	dobj	_	I-WORK_OF_ART
+12	”	"	''	pos2=``	13	punct	_	L-WORK_OF_ART
+13	https://t.co/W9IfmXvWxX	#hlink#	ADD	pos2=NN	3	dobj	_	O
+

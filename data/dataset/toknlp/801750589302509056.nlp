@@ -1,0 +1,32 @@
+1	Luis	luis	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Enrique	enrique	NNP	_	5	dep	_	L-PERSON
+3	:	:	:	_	5	punct	_	O
+4	Neymar	neymar	NNP	_	5	nsubj	_	U-PERSON
+5	booed	boo	VBN	pos2=VBD	0	root	_	O
+6	?	?	.	_	5	punct	_	O
+
+1	"	"	``	_	3	punct	_	O
+2	It	it	PRP	_	3	nsubj	_	O
+3	was	be	VBD	_	0	root	_	O
+4	just	just	RB	_	10	advmod	_	O
+5	the	the	DT	_	10	det	_	O
+6	last	last	JJ	_	10	nmod	_	O
+7	five	#crd#	CD	_	9	qmod	_	O
+8	to	to	IN	pos2=TO	9	qmod	_	O
+9	10	0	CD	_	10	nmod	_	O
+10	minutes	minute	NNS	_	3	attr	_	O
+11	there	there	EX	pos2=RB	12	expl	_	O
+12	was	be	VBD	_	3	conj	_	O
+13	an	an	DT	_	14	det	_	O
+14	issue	issue	NN	_	12	attr	_	O
+15	with	with	IN	_	14	prep	_	O
+16	regards	regard	NNS	_	15	pobj	_	O
+17	to	to	IN	_	16	prep	_	O
+18	the	the	DT	_	19	det	_	O
+19	crowd	crowd	NN	_	17	pobj	_	O
+20	shouting	shout	VBG	pos2=NN	14	acl	_	O
+21	.	.	.	_	12	punct	_	O
+22	"	"	''	_	12	punct	_	O
+
+1	#fcblive	#fcblive	UH	pos2=XX	0	root	_	O
+

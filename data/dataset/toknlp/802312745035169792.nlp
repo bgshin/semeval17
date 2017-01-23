@@ -1,0 +1,42 @@
+1	*	*	SYM	_	8	punct	_	O
+2	Friday	friday	NNP	pos2=ADD	3	compound	_	U-DATE
+3	Night*Me	night*me	NN	pos2=NNP	8	dep	_	O
+4	:	:	:	_	8	punct	_	O
+5	Siri	siri	NNP	_	8	vocative	_	U-PERSON
+6	,	,	,	_	8	punct	_	O
+7	we	we	PRP	_	8	nsubj	_	O
+8	're	be	VBP	_	11	ccomp	_	O
+9	friends	friend	NNS	_	8	attr	_	O
+10	,	,	,	_	8	punct	_	O
+11	right	right	JJ	pos2=UH	0	root	_	O
+12	?	?	.	_	11	punct	_	O
+
+1	Siri	siri	NN	pos2=NNP	0	root	_	O
+2	:	:	:	_	1	punct	_	O
+3	Uh	uh	UH	_	1	discourse	_	O
+4	...	..	.	pos2=,	1	punct	_	O
+
+1	Who	who	WP	_	2	attr	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	Siri	siri	NNP	_	2	nsubj	_	U-PERSON
+4	?	?	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	am	be	VBP	_	8	ccomp	_	O
+3	a	a	DT	_	5	det	_	O
+4	Galaxy	galaxy	NNP	_	5	compound	_	O
+5	Note	note	NN	pos2=NNP	2	attr	_	O
+6	7.	0.	CD	pos2=LS	5	nmod	_	U-CARDINAL
+7	*	*	SYM	pos2=NFP	8	punct	_	O
+8	Catches	catch	VBZ	pos2=NNS	0	root	_	O
+9	Fire*Me	fire*me	NNP	pos2=NNS	8	nsubj	_	O
+10	:	:	:	_	8	punct	_	O
+11	Huh	huh	UH	_	8	discourse	_	O
+12	.	.	.	_	8	punct	_	O
+
+1	Third	#ord#	JJ	pos2=RB	2	nmod	_	O
+2	one	#crd#	CD	pos2=NN	0	root	_	O
+3	this	this	DT	_	4	det	_	O
+4	month	month	NN	_	2	npadvmod	_	O
+5	...	..	.	pos2=,	2	punct	_	O
+

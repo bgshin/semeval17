@@ -1,0 +1,25 @@
+1	Image	image	NN	_	5	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	a	a	DT	_	4	det	_	O
+4	man	man	NN	_	2	pobj	_	O
+5	cries	cry	VBZ	_	0	root	_	O
+6	his	his	PRP$	_	7	poss	_	O
+7	wife	wife	NN	_	5	dobj	_	O
+8	,	,	,	_	7	punct	_	O
+9	who	who	WP	_	10	nsubj	_	O
+10	died	die	VBD	_	7	relcl	_	O
+11	along	along	IN	pos2=RB	10	advmod	_	O
+12	with	with	IN	_	10	prep	_	O
+13	her	her	PRP$	_	15	poss	_	O
+14	three	#crd#	CD	_	15	nmod	_	U-CARDINAL
+15	children	child	NNS	_	12	pobj	_	O
+16	in	in	IN	_	15	prep	_	O
+17	suspected	suspect	VBN	_	5	advcl	_	O
+18	#Russian	#russian	IN	pos2=NN	17	prep	_	O
+19	shelling	shell	VBG	pos2=NN	18	pcomp	_	O
+20	on	on	IN	pos2=RP	19	prep	_	O
+21	Al	al	NNP	_	22	compound	_	B-PERSON
+22	Ferdous	ferdous	NNP	_	20	pobj	_	L-PERSON
+23	…	…	NFP	pos2=NNP	24	punct	_	O
+24	https://t.co/8OuRkMQdxk	#hlink#	ADD	_	22	appos	_	O
+

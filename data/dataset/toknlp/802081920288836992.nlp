@@ -1,0 +1,24 @@
+1	A	a	DT	_	3	det	_	O
+2	hidden	hidden	JJ	pos2=VBN	3	nmod	_	O
+3	gem	gem	NN	_	0	root	_	O
+4	of	of	IN	_	3	prep	_	O
+5	#Jerusalem	#jerusalem	NNP	pos2=PRP	4	pobj	_	U-GPE
+6	.	.	.	_	3	punct	_	O
+
+1	Special	special	JJ	_	2	nmod	_	O
+2	prayers	prayer	NNS	_	0	root	_	O
+3	today	today	NN	_	2	npadvmod	_	U-DATE
+4	for	for	IN	_	2	prep	_	O
+5	rain	rain	NN	_	4	pobj	_	O
+6	,	,	,	_	5	punct	_	O
+7	our	our	PRP$	_	8	poss	_	O
+8	police	police	NNS	pos2=NN	5	conj	_	O
+9	,	,	,	_	8	punct	_	O
+10	and	and	CC	_	8	cc	_	O
+11	firefighting	firefighting	JJ	pos2=NN	12	nmod	_	O
+12	heroes	hero	NNS	_	8	conj	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/wqNHYlW4dU	#hlink#	ADD	pos2=NN	0	root	_	O
+

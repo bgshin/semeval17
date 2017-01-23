@@ -1,0 +1,21 @@
+1	Go	go	VB	pos2=DT	2	compound	_	O
+2	figure	figure	NN	pos2=RB	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	Clinton	clinton	NNP	_	2	compound	_	O
+2	Foundation	foundation	NNP	_	4	poss	_	O
+3	’s	's	POS	pos2=VBZ	2	case	_	O
+4	hurting	hurt	VBG	pos2=NN	0	root	_	O
+5	without	without	IN	_	4	prep	_	O
+6	a	a	DT	_	10	det	_	O
+7	highly	highly	RB	_	8	advmod	_	O
+8	placed	place	VBN	pos2=JJ	10	nmod	_	O
+9	influence	influence	NN	_	10	compound	_	O
+10	peddler	peddler	NN	_	5	pobj	_	O
+11	:	:	:	_	13	punct	_	O
+12	By	by	IN	_	8	agent	_	O
+13	Doug	doug	NNP	_	14	compound	_	B-PERSON
+14	Powers	powers	NNP	pos2=NNS	12	pobj	_	L-PERSON
+15	https://t.co/jH7dO6RUim	#hlink#	ADD	_	10	appos	_	O
+16	#conservative	#conservative	-RRB-	pos2=ADD	4	punct	_	O
+

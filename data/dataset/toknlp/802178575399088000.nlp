@@ -1,0 +1,27 @@
+1	Two	#crd#	CD	_	2	nmod	_	U-CARDINAL
+2	#Hatchimals	#hatchimals	NNS	pos2=NNPS	0	root	_	O
+3	For	for	IN	_	2	prep	_	O
+4	Sale	sale	NN	pos2=NNP	3	pobj	_	O
+5	...	..	.	_	2	punct	_	O
+
+1	Shoot	shoot	VB	_	0	root	_	O
+2	me	me	PRP	_	1	dative	_	O
+3	a	a	DT	_	4	det	_	O
+4	DM	dm	NN	_	1	dobj	_	O
+5	if	if	IN	_	7	mark	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	're	be	VBP	_	1	advcl	_	O
+8	serious	serious	JJ	_	7	acomp	_	O
+9	about	about	IN	_	8	prep	_	O
+10	getting	get	VBG	_	9	pcomp	_	O
+11	them	them	PRP	_	10	dobj	_	O
+12	...	..	.	pos2=:	1	punct	_	O
+
+1	Serious	serious	JJ	_	2	nmod	_	O
+2	inquiries	inquiry	NNS	_	0	root	_	O
+3	only	only	RB	_	4	advmod	_	O
+4	though	though	RB	_	2	advmod	_	O
+5	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/elUncUwgBo	#hlink#	ADD	_	0	root	_	U-ORG
+

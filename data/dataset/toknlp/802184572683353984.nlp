@@ -1,0 +1,17 @@
+1	ADL	adl	NNP	pos2=NN	2	compound	_	U-ORG
+2	Chief	chief	NNP	_	0	root	_	O
+3	Who	who	WP	_	4	nsubj	_	O
+4	Smeared	smear	VBD	pos2=NNP	2	relcl	_	O
+5	Steve	steve	NNP	_	6	compound	_	B-ORG
+6	Bannon	bannon	NNP	_	8	compound	_	I-ORG
+7	Directed	directed	NNP	pos2=VBD	8	compound	_	I-ORG
+8	Project	project	NNP	_	4	dobj	_	L-ORG
+9	at	at	IN	_	4	prep	_	O
+10	Soros	soros	NNP	_	12	npadvmod	_	O
+11	-	-	HYPH	_	12	punct	_	O
+12	Funded	funded	NNP	pos2=VBN	15	compound	_	O
+13	Institute	institute	NNP	_	15	compound	_	O
+14	-	-	HYPH	pos2=:	15	punct	_	O
+15	Breitbart	breitbart	NNP	_	16	dep	_	O
+16	https://t.co/uLXjW6YrCR	#hlink#	ADD	_	9	pobj	_	O
+

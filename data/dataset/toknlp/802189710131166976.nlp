@@ -1,0 +1,26 @@
+1	Just	just	RB	_	2	advmod	_	O
+2	finished	finish	VBD	pos2=JJ	0	root	_	O
+3	catchup	catchup	NN	pos2=RB	2	dobj	_	O
+4	with	with	IN	_	2	prep	_	O
+5	#ThisIsUs	#thisisus	NNP	pos2=NN	4	pobj	_	O
+6	Thank	thank	VBP	_	2	xcomp	_	O
+7	you	you	PRP	_	6	dobj	_	O
+8	for	for	IN	_	6	prep	_	O
+9	showing	show	VBG	_	8	pcomp	_	O
+10	that	that	IN	_	14	mark	_	O
+11	every	every	DT	_	12	det	_	O
+12	family	family	NN	_	14	nsubj	_	O
+13	can	can	MD	_	14	aux	_	O
+14	be	be	VB	_	9	ccomp	_	O
+15	a	a	DT	_	16	det	_	O
+16	little	little	JJ	_	17	npadvmod	_	O
+17	dysfunctional	dysfunctional	JJ	_	14	acomp	_	O
+18	&	&	CC	_	14	cc	_	O
+19	at	at	IN	_	23	prep	_	O
+20	the	the	DT	_	22	det	_	O
+21	same	same	JJ	_	22	nmod	_	O
+22	time	time	NN	_	19	pobj	_	O
+23	love	love	VB	pos2=VBP	14	conj	_	O
+24	each	each	DT	_	25	det	_	O
+25	other	other	JJ	_	23	dobj	_	O
+

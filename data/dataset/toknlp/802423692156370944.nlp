@@ -1,0 +1,20 @@
+1	lol	lol	UH	_	4	discourse	_	O
+2	guys	guy	NNS	_	4	vocative	_	O
+3	here	here	RB	_	2	advmod	_	O
+4	is	be	VBZ	_	12	aux	_	O
+5	Bryce	bryce	NNP	_	11	poss	_	U-PERSON
+6	's	's	POS	_	5	case	_	O
+7	social	social	JJ	_	8	nmod	_	O
+8	security	security	NN	_	9	compound	_	O
+9	number	number	NN	_	11	compound	_	O
+10	🙃	🙃	HYPH	pos2=WDT	11	punct	_	O
+11	bryce	bryce	NN	pos2=FW	12	nsubj	_	O
+12	providing	provide	VBG	_	0	root	_	O
+13	everyone	everyone	NN	_	15	poss	_	O
+14	's	's	POS	_	13	case	_	O
+15	meals	meal	NNS	_	12	dobj	_	O
+16	tonight	tonight	NN	_	12	npadvmod	_	U-TIME
+17	👌👌💦	👌👌💦	NFP	pos2=VBP	12	punct	_	O
+18	@Komodoco	@komodoco	NFP	pos2=GW	12	punct	_	O
+19	https://t.co/KyAVM2Vsbo	#hlink#	ADD	pos2=NN	12	dobj	_	O
+

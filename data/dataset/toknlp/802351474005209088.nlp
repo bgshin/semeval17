@@ -1,0 +1,25 @@
+1	@BIZPACReview	@bizpacreview	NNP	pos2=``	3	vocative	_	O
+2	This	this	DT	pos2=NNP	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	great	great	JJ	_	5	nmod	_	O
+5	news	news	NN	_	3	attr	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	For	for	IN	_	0	root	_	O
+2	a	a	DT	_	4	det	_	O
+3	Mexican	mexican	JJ	_	4	nmod	_	U-NORP
+4	effort	effort	NN	_	1	pobj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	build	build	VB	_	4	acl	_	O
+7	a	a	DT	_	9	det	_	O
+8	parallel	parallel	JJ	_	9	nmod	_	O
+9	wall	wall	NN	_	6	dobj	_	O
+10	on	on	IN	_	6	prep	_	O
+11	their	their	PRP$	_	12	poss	_	O
+12	side	side	NN	_	10	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	border	border	NN	_	13	pobj	_	O
+16	too	too	RB	_	6	advmod	_	O
+17	.	.	.	_	16	punct	_	O
+

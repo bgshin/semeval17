@@ -1,0 +1,10 @@
+1	Dementia	dementia	NN	_	9	dep	_	O
+2	and	and	CC	_	1	cc	_	O
+3	Mercury	mercury	NNP	pos2=NN	1	conj	_	U-ORG
+4	from	from	IN	_	1	prep	_	O
+5	vaccines	vaccine	NNS	_	4	pobj	_	O
+6	#health	#health	IN	pos2=WDT	1	prep	_	O
+7	#wellness	#wellness	GW	pos2=UH	9	nmod	_	O
+8	#wujilife	#wujilife	GW	pos2=IN	9	nmod	_	O
+9	https://t.co/tQv0dW2YNx	#hlink#	ADD	pos2=NN	0	root	_	O
+

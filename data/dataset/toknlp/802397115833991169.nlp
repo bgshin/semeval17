@@ -1,0 +1,10 @@
+1	Samsung	samsung	NNP	_	3	nsubj	_	U-ORG
+2	finally	finally	RB	_	3	advmod	_	O
+3	halts	halt	VBZ	_	0	root	_	O
+4	Galaxy	galaxy	NNP	pos2=NN	5	nsubj	_	O
+5	Note	note	VB	pos2=NNP	3	ccomp	_	O
+6	7	0	CD	pos2=GW	9	dep	_	U-CARDINAL
+7	production	production	NN	_	9	dep	_	O
+8	https://t.co/fY0HdVPf9n	#hlink#	ADD	_	9	nmod	_	O
+9	https://t.co/ld7NUxN4QE	#hlink#	ADD	_	5	dobj	_	O
+

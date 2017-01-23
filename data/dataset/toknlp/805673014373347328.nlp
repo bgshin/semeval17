@@ -1,0 +1,32 @@
+1	so	so	RB	pos2=IN	5	advmod	_	O
+2	my	my	PRP$	_	4	poss	_	O
+3	research	research	NN	_	4	compound	_	O
+4	paper	paper	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	on	on	IN	_	5	prep	_	O
+7	minimum	minimum	JJ	pos2=NN	8	nmod	_	O
+8	wage	wage	NN	_	6	pobj	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	there	there	EX	_	2	expl	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	literally	literally	RB	_	2	advmod	_	O
+4	so	so	RB	_	5	advmod	_	O
+5	much	much	JJ	pos2=RB	2	attr	_	O
+6	I	I	PRP	_	8	nsubj	_	O
+7	could	could	MD	_	8	aux	_	O
+8	write	write	VB	_	5	relcl	_	O
+9	abt	abt	IN	pos2=RB	8	prep	_	O
+10	this	this	DT	_	11	det	_	O
+11	subject	subject	NN	_	9	pobj	_	O
+12	but	but	CC	_	2	cc	_	O
+13	that	that	DT	_	14	nsubj	_	O
+14	's	's	VBZ	_	2	conj	_	O
+15	what	what	WP	_	17	nsubj	_	O
+16	's	's	VBZ	_	17	aux	_	O
+17	making	make	VBG	_	14	ccomp	_	O
+18	it	it	PRP	_	20	nsubj	_	O
+19	so	so	RB	_	20	advmod	_	O
+20	hard	hard	RB	pos2=JJ	17	ccomp	_	O
+21	😭	😭	.	pos2=NNP	14	punct	_	O
+

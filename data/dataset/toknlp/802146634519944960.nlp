@@ -1,0 +1,16 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=GW	5	compound	_	U-PRODUCT
+5	video	video	NN	pos2=GW	2	dobj	_	O
+6	https://t.co/aCuLEQ0U4f	#hlink#	ADD	pos2=NNP	5	appos	_	O
+7	VENTE	vente	FW	pos2=NNP	2	advmod	_	O
+8	PA	pa	NNP	pos2=NN	15	nmod	_	O
+9	'	'	``	pos2=''	15	punct	_	O
+10	CA	ca	NN	pos2=NNP	15	compound	_	O
+11	-	-	HYPH	pos2=:	15	punct	_	O
+12	Ricky	ricky	NNP	_	15	compound	_	B-PERSON
+13	Martin	martin	NNP	_	15	compound	_	I-PERSON
+14	ft.	ft.	NNP	pos2=NN	15	compound	_	I-PERSON
+15	Maluma	maluma	NNP	_	0	root	_	L-PERSON
+

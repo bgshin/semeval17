@@ -1,0 +1,22 @@
+1	Good	good	JJ	pos2=NNP	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	Kate	kate	NNP	_	2	pobj	_	U-PERSON
+4	for	for	IN	_	1	prep	_	O
+5	recognizing	recognize	VBG	_	4	pcomp	_	O
+6	that	that	IN	_	8	mark	_	O
+7	she	she	PRP	_	8	nsubj	_	O
+8	needs	need	VBZ	_	5	ccomp	_	O
+9	to	to	TO	_	10	aux	_	O
+10	be	be	VB	_	8	xcomp	_	O
+11	happy	happy	JJ	_	10	acomp	_	O
+12	with	with	IN	_	11	prep	_	O
+13	herself	herself	PRP	_	12	pobj	_	O
+14	to	to	TO	_	15	aux	_	O
+15	be	be	VB	_	11	xcomp	_	O
+16	happy	happy	JJ	_	15	acomp	_	O
+17	with	with	IN	_	16	prep	_	O
+18	Toby	toby	NNP	_	17	pobj	_	U-PERSON
+19	.	.	.	_	1	punct	_	O
+
+1	#ThisIsUs	#thisisus	ADD	pos2=NN	0	root	_	O
+

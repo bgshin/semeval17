@@ -1,0 +1,16 @@
+1	Palestine	palestine	NNP	pos2=NN	4	dep	_	U-GPE
+2	:	:	:	_	4	punct	_	O
+3	Blazes	blaze	NNS	pos2=NNP	4	nsubj	_	O
+4	Billow	billow	VBP	pos2=NNP	0	root	_	O
+5	Across	across	IN	pos2=NNP	4	prep	_	O
+6	Israel	israel	NNP	_	8	compound	_	U-GPE
+7	-	-	HYPH	_	8	punct	_	O
+8	Occupied	occupied	NNP	pos2=VBN	9	compound	_	O
+9	Lands	land	NNS	pos2=NNPS	5	pobj	_	O
+10	for	for	IN	_	4	prep	_	O
+11	4th	#ord#	JJ	_	12	nmod	_	B-DATE
+12	Day25/11/2016	day0	NN	_	10	pobj	_	L-DATE
+13	https://t.co/VfjzCLfH0I#yemenweek	#hlink#	ADD	pos2=NN	15	dep	_	B-ORG
+14	#Palestine	#palestine	NNP	pos2=-RRB-	15	compound	_	I-ORG
+15	#Israel	#israel	NNP	pos2=.	4	dep	_	L-ORG
+

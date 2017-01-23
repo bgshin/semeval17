@@ -1,0 +1,18 @@
+1	@truthglow	@truthglow	UH	pos2=XX	9	discourse	_	O
+2	@katalin_pota	@katalin_pota	UH	pos2=GW	9	discourse	_	O
+3	@BasemntDwllng	@basemntdwllng	VBG	pos2=UH	4	nmod	_	O
+4	@SenWarren2020	@senwarren0	NN	pos2=ADD	9	npadvmod	_	O
+5	@elizabethforma	@elizabethforma	UH	pos2=NN	9	discourse	_	O
+6	@SenatorWarren	@senatorwarren	POS	pos2=NNP	8	nmod	_	O
+7	U	u	JJ	pos2=PRP	8	nmod	_	O
+8	assholes	asshole	NNS	_	9	nsubj	_	O
+9	got	get	VBD	_	14	advcl	_	O
+10	us	us	PRP	_	9	dobj	_	O
+11	here	here	RB	_	9	advmod	_	O
+12	,	,	,	_	14	punct	_	O
+13	you	you	PRP	_	14	nsubj	_	O
+14	're	be	VBP	_	0	root	_	O
+15	all	all	DT	pos2=RB	16	det	_	O
+16	Fired	fired	NNP	pos2=VBN	14	attr	_	O
+17	!	!	.	_	14	punct	_	O
+

@@ -1,0 +1,21 @@
+1	Tesla	tesla	NNP	_	2	compound	_	B-ORG
+2	Model	model	NNP	pos2=NN	4	poss	_	I-ORG
+3	S	s	POS	pos2=NNP	2	case	_	I-ORG
+4	Hack	hack	NN	pos2=NNP	8	dep	_	L-ORG
+5	:	:	:	_	8	punct	_	O
+6	#Security	#security	NN	pos2=CD	7	compound	_	O
+7	firm	firm	NN	pos2=JJ	8	nsubj	_	O
+8	uses	use	VBZ	_	0	root	_	O
+9	#Android	#android	NNP	pos2=TO	10	nsubj	_	O
+10	hack	hack	VB	pos2=NN	8	dobj	_	O
+11	to	to	TO	_	12	aux	_	O
+12	unlock	unlock	VB	_	10	advcl	_	O
+13	&	&	CC	_	12	cc	_	O
+14	steal	steal	VB	_	12	conj	_	O
+15	car	car	NN	_	14	dobj	_	O
+16	https://t.co/41sMnkqKU0	#hlink#	ADD	pos2=NN	19	nsubj	_	O
+17	via	via	IN	_	8	prep	_	O
+18	@IBTimes	@ibtimes	NNS	pos2=ADD	17	pobj	_	O
+19	#CarIT	#carit	ADD	pos2=VBP	20	compound	_	U-CARDINAL
+20	#Cybercrime	#cybercrime	NNP	pos2=NN	15	appos	_	U-ORG
+

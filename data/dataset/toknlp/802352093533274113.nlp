@@ -1,0 +1,9 @@
+1	The	the	DT	_	2	det	_	O
+2	Boondoggle	boondoggle	NN	pos2=NNP	0	root	_	O
+3	Of	of	IN	_	2	prep	_	O
+4	Infrastructure	infrastructure	NNP	pos2=GW	3	pobj	_	O
+5	Spending	spend	VBG	pos2=GW	2	acl	_	O
+6	https://t.co/T35Bmw5NUh	#hlink#	ADD	pos2=NN	5	dobj	_	U-TIME
+7	#tcot	#tcot	IN	pos2=-RRB-	5	prep	_	O
+8	#tpp	#tpp	UH	pos2=NN	5	discourse	_	O
+

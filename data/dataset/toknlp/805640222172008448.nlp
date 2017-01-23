@@ -1,0 +1,19 @@
+1	Treating	treat	VBG	_	5	csubj	_	O
+2	Lupus	lupus	NNP	pos2=NN	1	dobj	_	O
+3	with	with	IN	_	1	prep	_	O
+4	CannabisLupus	cannabislupus	NNP	_	3	pobj	_	U-ORG
+5	is	be	VBZ	_	0	root	_	O
+6	an	an	DT	_	8	det	_	O
+7	autoimmune	autoimmune	JJ	_	8	nmod	_	O
+8	disease	disease	NN	_	5	attr	_	O
+9	that	that	WDT	_	10	nsubj	_	O
+10	causes	cause	VBZ	_	8	relcl	_	O
+11	inflammation	inflammation	NN	_	10	dobj	_	O
+12	throughout	throughout	IN	_	10	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	body	body	NN	_	12	pobj	_	O
+15	,	,	,	_	5	punct	_	O
+16	...	..	.	pos2=:	5	punct	_	O
+
+1	https://t.co/EAQhKbJKCL	#hlink#	ADD	_	0	root	_	U-ORG
+

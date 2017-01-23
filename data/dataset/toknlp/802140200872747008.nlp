@@ -1,0 +1,18 @@
+1	Me	me	PRP	_	4	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	emily_hibbs1	emily_hibbs0	TO	pos2=``	4	aux	_	O
+4	take	take	VB	pos2=VBP	0	root	_	O
+5	hash	hash	NN	_	4	dobj	_	O
+6	brown	brown	JJ	pos2=NN	4	advmod	_	O
+7	and	and	CC	_	4	cc	_	O
+8	craft	craft	NN	_	6	conj	_	O
+9	Fridays	friday	NNPS	pos2=NNS	4	discourse	_	U-DATE
+10	very	very	RB	_	11	advmod	_	O
+11	seriously	seriously	RB	_	9	advmod	_	O
+12	.	.	.	_	4	punct	_	O
+
+1	#Chip	#chip	NNP	pos2=NFP	4	nmod	_	B-PERSON
+2	#BeautyandtheBeast	#beautyandthebeast	GW	pos2=ADD	4	nmod	_	L-PERSON
+3	…	…	NFP	pos2=GW	4	punct	_	O
+4	https://t.co/xTaCOWY6RL	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,35 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	want	want	VBP	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	move	move	VB	_	3	xcomp	_	O
+6	to	to	IN	_	5	prep	_	O
+7	LA	la	NNP	_	6	pobj	_	U-GPE
+8	,	,	,	_	5	punct	_	O
+9	work	work	VB	pos2=VBP	5	conj	_	O
+10	a	a	DT	_	13	det	_	O
+11	minimum	minimum	JJ	pos2=NN	13	nmod	_	O
+12	wage	wage	NN	_	13	compound	_	O
+13	job	job	NN	_	9	dobj	_	O
+14	.	.	.	_	3	punct	_	O
+
+1	Make	make	VB	_	0	root	_	O
+2	clothes	clothes	NNS	_	1	dobj	_	O
+3	and	and	CC	_	1	cc	_	O
+4	paint	paint	VB	pos2=NN	1	conj	_	O
+5	all	all	DT	_	6	det	_	B-DATE
+6	day	day	NN	_	4	npadvmod	_	L-DATE
+7	.	.	.	_	1	punct	_	O
+
+1	Do	do	VB	pos2=VBP	0	root	_	O
+2	some	some	DT	_	4	det	_	O
+3	community	community	NN	_	4	compound	_	O
+4	organizing	organizing	NN	pos2=VBG	1	dobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	Start	start	VB	_	0	root	_	O
+2	a	a	DT	_	4	det	_	O
+3	modeling	modeling	NN	_	4	compound	_	O
+4	career	career	NN	_	1	dobj	_	O
+5	.	.	.	_	1	punct	_	O
+

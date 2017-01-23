@@ -1,0 +1,24 @@
+1	@RawStory	@rawstory	NN	pos2=UH	0	root	_	O
+2	....	..	.	pos2=,	1	punct	_	O
+
+1	they	they	PRP	_	4	nsubj	_	O
+2	have	have	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	read	read	VBN	pos2=VB	0	root	_	O
+5	about	about	IN	_	4	prep	_	O
+6	his	his	PRP$	_	7	poss	_	O
+7	history	history	NN	_	5	pobj	_	O
+8	with	with	IN	_	7	prep	_	O
+9	that	that	DT	_	10	det	_	O
+10	wall	wall	NN	_	8	pobj	_	O
+11	in	in	IN	_	10	prep	_	O
+12	Scotland	scotland	NNP	_	11	pobj	_	U-GPE
+13	or	or	CC	_	10	cc	_	O
+14	his	his	PRP$	_	16	poss	_	O
+15	shabby	shabby	JJ	_	16	nmod	_	O
+16	business	business	NN	_	10	conj	_	O
+17	deals.#deplorables	deals.#deplorables	NNP	pos2=NNS	16	appos	_	U-ORG
+18	bought	buy	VBD	_	4	conj	_	O
+19	a	a	DT	_	20	det	_	O
+20	lemon	lemon	NN	_	18	dobj	_	O
+

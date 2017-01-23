@@ -1,0 +1,16 @@
+1	This	this	DT	_	3	det	_	O
+2	bitchy	bitchy	JJ	_	3	nmod	_	O
+3	world	world	NN	_	7	npadvmod	_	O
+4	\	\	-RRB-	pos2=HYPH	7	punct	_	O
+5	many	many	JJ	_	6	nmod	_	O
+6	countries	country	NNS	_	7	nsubj	_	O
+7	sent	send	VBD	_	0	root	_	O
+8	their	their	PRP$	_	9	poss	_	O
+9	planes	plane	NNS	_	7	dobj	_	O
+10	to	to	TO	_	11	aux	_	O
+11	quench	quench	VB	_	7	advcl	_	O
+12	the	the	DT	_	14	det	_	O
+13	blazes.#israelisburning	blazes.#israelisburning	NNP	pos2=.	14	compound	_	O
+14	#Palestine	#palestine	NNP	pos2=GW	11	dobj	_	O
+15	https://t.co/yGrhlR0yRw	#hlink#	ADD	_	11	dobj	_	O
+

@@ -1,0 +1,11 @@
+1	So	so	RB	_	2	advmod	_	O
+2	ill	ill	JJ	pos2=UH	4	advcl	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	make	make	VBP	_	0	root	_	O
+5	medicine	medicine	NN	_	10	nsubj	_	O
+6	sick	sick	JJ	pos2=NN	4	ccomp	_	O
+7	-	-	HYPH	pos2=:	10	punct	_	O
+8	Muhammad	muhammad	NNP	_	10	compound	_	B-PERSON
+9	Ali	ali	NNP	_	10	compound	_	L-PERSON
+10	💯	💯	NNP	pos2=.	6	dep	_	O
+

@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det	_	O
+2	Egyptian	egyptian	JJ	_	3	nmod	_	U-NORP
+3	President	president	NNP	_	5	compound	_	O
+4	Mikheil	mikheil	NNP	_	5	compound	_	B-PERSON
+5	Saakashvili	saakashvili	NNP	_	6	nsubj	_	L-PERSON
+6	said	say	VBD	_	0	root	_	O
+7	he	he	PRP	_	9	nsubj	_	O
+8	would	would	MD	_	9	aux	_	O
+9	explain	explain	VB	_	6	ccomp	_	O
+10	if	if	IN	_	11	mark	_	O
+11	wanting	want	VBG	_	6	advcl	_	O
+12	to	to	TO	_	13	aux	_	O
+13	do	do	VB	_	11	xcomp	_	O
+14	it	it	PRP	_	13	dobj	_	O
+15	as	as	IN	_	13	prep	_	O
+16	a	a	DT	_	17	det	_	O
+17	record	record	NN	_	15	pobj	_	O
+18	of	of	IN	_	17	prep	_	O
+19	Palestinian	palestinian	JJ	_	20	nmod	_	U-NORP
+20	ambitions	ambition	NNS	_	18	pobj	_	O
+21	.	.	.	_	6	punct	_	O
+

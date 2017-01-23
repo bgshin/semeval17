@@ -1,0 +1,23 @@
+1	@MrMalky	@mrmalky	UH	pos2=NN	4	discourse	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	've	have	VBP	_	4	aux	_	O
+4	heard	hear	VBN	_	0	root	_	O
+5	worried	worried	JJ	pos2=VBN	6	nmod	_	O
+6	educators	educator	NNS	_	7	nsubj	_	O
+7	discuss	discuss	VBP	_	4	ccomp	_	O
+8	this	this	DT	_	7	dobj	_	O
+9	in	in	IN	_	7	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	context	context	NN	_	9	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	veganism	veganism	NN	_	15	nmod	_	O
+14	/	/	SYM	pos2=,	15	punct	_	O
+15	vegetarianism	vegetarianism	NN	_	12	pobj	_	O
+16	too	too	RB	_	7	advmod	_	O
+17	.	.	.	_	4	punct	_	O
+
+1	Made	make	VBD	pos2=VB	0	root	_	O
+2	me	me	PRP	_	3	nsubj	_	O
+3	shiver	shiver	NN	pos2=VB	1	ccomp	_	O
+4	.	.	.	_	1	punct	_	O
+

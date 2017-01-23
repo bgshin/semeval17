@@ -1,0 +1,16 @@
+1	@SpeakerRyan	@speakerryan	VB	pos2=MD	0	root	_	O
+2	your	your	PRP$	pos2=UH	12	nsubj	_	O
+3	like	like	IN	pos2=UH	1	prep	_	O
+4	a	a	DT	_	5	det	_	O
+5	fish	fish	NN	_	3	pobj	_	O
+6	(	(	-LRB-	_	5	punct	_	O
+7	flip	flip	NN	pos2=VB	8	compound	_	O
+8	flip	flip	NN	_	5	appos	_	O
+9	)	)	-RRB-	_	5	punct	_	O
+10	now	now	RB	_	12	advmod	_	O
+11	your	your	PRP$	_	12	nsubj	_	O
+12	starting	start	VBG	pos2=NN	1	ccomp	_	O
+13	to	to	TO	_	14	aux	_	O
+14	smell	smell	VB	_	12	xcomp	_	O
+15	#draintheswamp	#draintheswamp	NN	pos2=.	14	dobj	_	O
+

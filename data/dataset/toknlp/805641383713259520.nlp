@@ -1,0 +1,17 @@
+1	L	l	JJ	pos2=NNP	2	nmod	_	O
+2	L	l	NN	pos2=JJ	16	dep	_	O
+3	L	l	NN	pos2=JJ	4	compound	_	O
+4	#ZacEfron	#zacefron	NN	pos2=ADD	16	dep	_	O
+5	#Fashion	#fashion	NN	pos2=NNP	8	nmod	_	O
+6	2007	0	CD	_	16	dep	_	U-DATE
+7	Magazine	magazine	NN	pos2=NNP	8	compound	_	O
+8	photo	photo	NN	_	16	dep	_	O
+9	of	of	IN	_	8	prep	_	O
+10	Zac	zac	NNP	_	11	compound	_	B-PERSON
+11	Efron	efron	NNP	_	9	pobj	_	L-PERSON
+12	(031812)	(0)	CD	pos2=POS	16	dep	_	O
+13	#Actor	#actor	NNP	pos2=GW	16	dep	_	B-PERSON
+14	#BestSeller	#bestseller	GW	pos2=ADD	16	nmod	_	L-PERSON
+15	https://t.co/tF4LfGidEZ	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/LrNl7Ok37y	#hlink#	ADD	_	0	root	_	U-ORG
+

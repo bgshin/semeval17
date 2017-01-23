@@ -1,0 +1,20 @@
+1	LEAKED	leak	VBN	pos2=NNP	0	root	_	O
+2	?!	?!	.	_	1	punct	_	O
+
+1	THIS	this	DT	_	2	det	_	O
+2	#LiamPayne	#liampayne	NN	pos2=NNP	4	poss	_	U-DATE
+3	’s	's	POS	_	2	case	_	O
+4	debut	debut	NN	_	6	nsubj	_	O
+5	solo	solo	RB	pos2=NN	6	advmod	_	O
+6	single	single	JJ	pos2=RB	0	root	_	O
+7	?	?	.	_	6	punct	_	O
+
+1	https://t.co/rvAnntvbSR	#hlink#	ADD	_	8	nmod	_	O
+2	#OneDirection	#onedirection	ADD	pos2=NN	5	punct	_	U-ORG
+3	"	"	``	_	5	punct	_	O
+4	Shawn	shawn	NNP	_	5	compound	_	B-PERSON
+5	Mendes	mendes	NNP	_	8	nmod	_	L-PERSON
+6	"	"	''	_	5	punct	_	O
+7	#MTVStarsFifthHarmony	#mtvstarsfifthharmony	ADD	pos2=XX	5	punct	_	U-DATE
+8	#ARIASONEDIRECTION	#ariasonedirection	NN	pos2=ADD	0	root	_	O
+

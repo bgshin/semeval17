@@ -1,0 +1,18 @@
+1	Propaganda	propaganda	NN	pos2=NNP	2	compound	_	O
+2	#AQAP	#aqap	NN	pos2=XX	3	nsubj	_	O
+3	#INFOGRAPHIC	#infographic	JJ	pos2=NN	17	nmod	_	O
+4	13	0	CD	_	5	nmod	_	U-CARDINAL
+5	vehicles	vehicle	NNS	_	6	nsubj	_	O
+6	Destroyed	destroy	VBN	pos2=VBD	2	acl	_	O
+7	10	0	CD	_	9	nmod	_	U-CARDINAL
+8	Land	land	NNP	pos2=NN	9	compound	_	B-PRODUCT
+9	Cruisers	cruiser	NNS	pos2=NNPS	6	dobj	_	L-PRODUCT
+10	,	,	,	_	9	punct	_	O
+11	2	0	CD	pos2=NNP	12	nmod	_	U-CARDINAL
+12	Armored	armored	NNP	pos2=JJ	9	appos	_	U-ORG
+13	,	,	,	_	17	punct	_	O
+14	1Ford	0ford	NNP	pos2=XX	17	nmod	_	U-GPE
+15	#aden	#aden	GW	pos2=IN	17	nmod	_	O
+16	#yemen	#yemen	GW	pos2=UH	17	nmod	_	O
+17	https://t.co/g16iOqQZy7	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,33 @@
+1	Can	can	MD	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	say	say	VB	_	0	root	_	O
+4	George	george	NNP	_	5	compound	_	B-PERSON
+5	Soros	soros	NNP	_	3	dobj	_	L-PERSON
+6	?	?	.	_	3	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	needs	need	VBZ	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	be	be	VB	_	2	xcomp	_	O
+5	on	on	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	top	top	NN	_	5	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	list	list	NN	_	8	pobj	_	O
+11	2	0	CD	_	10	appos	_	U-CARDINAL
+12	investigate	investigate	VB	pos2=NN	10	dep	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	snake	snake	NN	_	2	attr	_	O
+5	🐍who	🐍who	NNP	pos2=WP	7	nsubj	_	O
+6	'll	will	MD	_	7	aux	_	O
+7	do	do	VB	_	4	relcl	_	O
+8	anything	anything	NN	_	7	dobj	_	O
+9	2	0	CD	pos2=GW	8	nmod	_	U-CARDINAL
+10	…	…	NFP	pos2=:	11	punct	_	O
+11	https://t.co/LByrqp09Me	#hlink#	ADD	pos2=NN	2	dep	_	O
+

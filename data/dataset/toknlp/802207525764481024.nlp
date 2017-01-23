@@ -1,0 +1,20 @@
+1	Count	count	VB	pos2=NN	0	root	_	O
+2	third	#ord#	JJ	_	4	nmod	_	U-ORDINAL
+3	party	party	NN	_	4	compound	_	O
+4	votes	vote	NNS	_	1	dobj	_	O
+5	,	,	,	_	1	punct	_	O
+6	and	and	CC	_	1	cc	_	O
+7	he	he	PRP	_	8	nsubj	_	O
+8	lost	lose	VBD	_	1	conj	_	O
+9	the	the	DT	_	11	det	_	O
+10	popular	popular	JJ	_	11	nmod	_	O
+11	vote	vote	NN	_	8	dobj	_	O
+12	by	by	IN	_	8	prep	_	O
+13	approximately	approximately	RB	_	15	advmod	_	B-CARDINAL
+14	7	0	CD	_	15	compound	_	I-CARDINAL
+15	million	#crd#	CD	_	16	nmod	_	L-CARDINAL
+16	votes	vote	NNS	_	12	pobj	_	O
+17	!	!	.	_	8	punct	_	O
+
+1	https://t.co/Yrro5Na0WG	#hlink#	ADD	_	0	root	_	U-ORG
+

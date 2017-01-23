@@ -1,0 +1,15 @@
+1	Is	be	VBZ	_	0	root	_	O
+2	Tesla	tesla	NNP	_	4	compound	_	O
+3	Model	model	NNP	pos2=NN	4	compound	_	O
+4	X	x	NNP	pos2=NN	0	root	_	O
+5	Cannibalizing	cannibalize	VBG	pos2=NNP	0	root	_	O
+6	Model	model	NNP	pos2=NN	7	compound	_	O
+7	S	s	NNP	pos2=POS	5	dobj	_	O
+8	?..	?..	.	pos2=''	1	punct	_	O
+
+1	Related	related	JJ	pos2=VBN	2	nmod	_	O
+2	Articles	article	NNS	_	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	https://t.co/UW6hFIXa9n	#hlink#	ADD	pos2=NN	5	nmod	_	O
+5	https://t.co/rKOGsiR9LU	#hlink#	ADD	_	0	root	_	U-ORG
+

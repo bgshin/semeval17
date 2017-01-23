@@ -1,0 +1,23 @@
+1	https://t.co/eqBcFgliqj	#hlink#	ADD	_	0	root	_	O
+2	#BlackFridayShopping	#blackfridayshopping	VBG	pos2=-RRB-	1	punct	_	O
+3	Tevo	tevo	NNP	pos2=DT	5	compound	_	B-PERSON
+4	Black	black	NNP	_	5	compound	_	I-PERSON
+5	Widow	widow	NNP	pos2=NN	2	pobj	_	L-PERSON
+6	,	,	,	_	1	punct	_	O
+7	for	for	IN	_	2	prep	_	O
+8	sale	sale	NN	_	7	pobj	_	O
+9	.	.	.	_	1	punct	_	O
+
+1	Miss	miss	NNP	pos2=VB	6	vocative	_	O
+2	this	this	DT	_	3	det	_	O
+3	chance	chance	NN	_	1	dobj	_	O
+4	,	,	,	_	6	punct	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	need	need	VBP	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	wait	wait	VB	_	6	xcomp	_	O
+9	for	for	IN	_	8	prep	_	O
+10	one	#crd#	CD	pos2=GW	9	pobj	_	U-CARDINAL
+11	…	…	NFP	pos2=-LRB-	12	punct	_	O
+12	https://t.co/gWypBwzdXE	#hlink#	ADD	pos2=NN	10	appos	_	O
+

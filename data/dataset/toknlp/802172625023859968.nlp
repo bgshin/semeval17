@@ -1,0 +1,22 @@
+1	In	in	IN	_	5	prep	_	O
+2	Scotland	scotland	NNP	_	1	pobj	_	U-GPE
+3	,	,	,	_	5	punct	_	O
+4	Trump	trump	NNP	_	5	nsubj	_	O
+5	Built	build	VBD	pos2=NNP	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	Wall	wall	NNP	pos2=NN	5	dobj	_	O
+8	.	.	.	_	5	punct	_	O
+
+1	Then	then	RB	_	3	advmod	_	O
+2	He	he	PRP	pos2=NNP	3	nsubj	_	O
+3	Sent	send	VBD	pos2=NNP	0	root	_	O
+4	Residents	resident	NNS	pos2=NNP	3	dative	_	O
+5	the	the	DT	_	6	det	_	O
+6	Bill	bill	NNP	pos2=NN	3	dobj	_	U-PERSON
+7	.	.	.	_	3	punct	_	O
+
+1	https://t.co/GcWNEYegSI	#hlink#	ADD	_	0	root	_	O
+2	#StrongerTogether	#strongertogether	-RRB-	pos2=ADD	1	punct	_	O
+3	#StillWithHer	#stillwithher	-RRB-	pos2=ADD	1	punct	_	O
+4	#UniteBlue	#uniteblue	ADD	pos2=NN	0	root	_	O
+

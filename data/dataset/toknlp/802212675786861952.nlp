@@ -1,0 +1,20 @@
+1	@ADIC33	@adic0	NN	pos2=NNS	0	root	_	O
+2	and	and	CC	_	1	cc	_	O
+3	...	..	.	pos2=,	1	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	voted	vote	VBD	_	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Gore	gore	NNP	_	3	pobj	_	U-PERSON
+5	!	!	.	_	2	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	bring	bring	VB	_	2	xcomp	_	O
+5	back	back	RB	pos2=RP	4	advmod	_	O
+6	the	the	DT	_	8	det	_	O
+7	popular	popular	JJ	_	8	nmod	_	O
+8	vote	vote	NN	_	4	dobj	_	O
+9	!	!	.	_	2	punct	_	O
+

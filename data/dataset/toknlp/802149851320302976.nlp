@@ -1,0 +1,27 @@
+1	Messi	messi	NNP	_	5	poss	_	U-PERSON
+2	's	's	POS	pos2=VBZ	1	case	_	O
+3	100	0	CD	_	5	nmod	_	U-CARDINAL
+4	international	international	JJ	_	5	nmod	_	O
+5	goals	goal	NNS	_	9	nsubj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	Barcelona	barcelona	NNP	pos2=NN	6	pobj	_	U-GPE
+8	:	:	:	_	5	punct	_	O
+9	left	left	JJ	_	10	nmod	_	O
+10	foot	foot	NN	_	11	nsubj	_	O
+11	(81)	(0)	CD	pos2=NN	13	ccomp	_	U-DATE
+12	,	,	,	_	10	punct	_	O
+13	right	right	JJ	_	14	nmod	_	O
+14	foot	foot	NN	_	15	nsubj	_	O
+15	(14)	(0)	CD	_	18	ccomp	_	U-PERSON
+16	,	,	,	_	14	punct	_	O
+17	header	header	NN	_	18	nsubj	_	O
+18	(4)	(0)	CD	pos2=NN	22	vocative	_	U-CARDINAL
+19	,	,	,	_	17	punct	_	O
+20	chest	chest	NN	_	17	appos	_	O
+21	(1)	(0)	CD	_	20	nmod	_	U-CARDINAL
+22	#fcblive	#fcblive	NN	pos2=CD	23	nsubj	_	O
+23	[	[	-LRB-	_	0	root	_	O
+24	via	via	IN	_	5	prep	_	O
+25	@MessiStats	@messistats	CD	pos2=NNP	24	pobj	_	O
+26	]	]	-RRB-	_	22	punct	_	O
+

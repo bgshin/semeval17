@@ -1,0 +1,19 @@
+1	#RudyGiuliani	#rudygiuliani	NNS	pos2=NNP	2	nsubj	_	O
+2	took	take	VBD	_	0	root	_	O
+3	$	$	$	pos2=RP	4	nmod	_	O
+4	millions	#crd#	NNS	_	2	dobj	_	U-MONEY
+5	from	from	IN	_	2	prep	_	O
+6	#Hamas	#hamas	NNP	pos2=$	5	pobj	_	U-ORG
+7	#terror	#terror	IN	pos2=NN	9	advmod	_	O
+8	-	-	HYPH	pos2=SYM	9	punct	_	O
+9	sponsor	sponsor	NN	pos2=VB	10	compound	_	O
+10	#Qatar	#qatar	NNP	pos2=NN	15	vocative	_	O
+11	-	-	,	pos2=:	15	punct	_	O
+12	this	this	DT	pos2=NN	15	nsubj	_	O
+13	alone	alone	RB	pos2=NN	12	advmod	_	O
+14	is	be	VBZ	_	15	aux	_	O
+15	disqualifying	disqualify	VBG	_	2	advcl	_	O
+16	for	for	IN	_	15	prep	_	O
+17	#SecState	#secstate	ADD	pos2=GW	16	pobj	_	O
+18	https://t.co/M3UDKKpxxY	#hlink#	ADD	pos2=NN	16	pobj	_	O
+

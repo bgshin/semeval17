@@ -1,0 +1,33 @@
+1	Bulk	bulk	NN	pos2=NNP	4	compound	_	O
+2	Carrier	carrier	NNP	pos2=NN	4	compound	_	B-PERSON
+3	MV	mv	NNP	pos2=NN	4	compound	_	I-PERSON
+4	Amyntor	amyntor	NNP	_	8	npadvmod	_	L-PERSON
+5	,	,	,	_	8	punct	_	O
+6	w	w	IN	pos2=NNP	11	advmod	_	O
+7	/	/	HYPH	_	6	punct	_	O
+8	reinforced	reinforce	VBN	pos2=VBD	9	nmod	_	O
+9	hull	hull	NN	_	6	pobj	_	O
+10	,	,	,	_	9	punct	_	O
+11	heavily	heavily	RB	_	12	advmod	_	O
+12	laden	laden	JJ	pos2=RB	16	nmod	_	O
+13	;	;	,	pos2=:	16	punct	_	O
+14	sailing	sail	VBG	pos2=NN	0	root	_	O
+15	Tuapse	tuapse	NNP	_	16	compound	_	U-GPE
+16	RU	ru	NNP	pos2=NN	14	dobj	_	O
+17	to	to	IN	_	14	prep	_	O
+18	Hudaidah	hudaidah	NNP	_	19	compound	_	B-PERSON
+19	#Yemen	#yemen	NNP	_	17	pobj	_	L-PERSON
+20	.	.	.	_	4	punct	_	O
+
+1	Small	small	JJ	_	2	nmod	_	O
+2	arms	arm	NNS	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	Tanks	tank	NNS	pos2=NNP	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+
+1	Ammo	ammo	NN	pos2=NNP	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+
+1	#vesselofinterst	#vesselofinterst	UH	pos2=RB	0	root	_	O
+

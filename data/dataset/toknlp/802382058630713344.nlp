@@ -1,0 +1,11 @@
+1	Bad	bad	JJ	pos2=NNP	2	nmod	_	O
+2	Hombres	hombres	NNP	pos2=NNS	10	dep	_	U-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	Nasty	nasty	JJ	pos2=NNP	5	nmod	_	B-PERSON
+5	WomenTRUMPINATOR	womentrumpinator	NNP	pos2=NN	2	conj	_	L-PERSON
+6	VS	vs	IN	pos2=NN	5	prep	_	O
+7	KILLARY	killary	NNP	pos2=JJ	8	compound	_	O
+8	RAP	rap	NN	pos2=NNP	9	compound	_	O
+9	BA	ba	NNP	pos2=NN	10	dep	_	O
+10	TTLEhttps://t.co/V0sB5VMEJH	#hlink#	ADD	pos2=NN	0	root	_	O
+

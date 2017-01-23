@@ -1,0 +1,24 @@
+1	Standing	stand	VBG	pos2=NNP	4	csubj	_	O
+2	Rock	rock	NNP	_	4	nsubj	_	O
+3	#nodapl	#nodapl	MD	pos2=POS	4	aux	_	O
+4	Stop	stop	VB	pos2=NNP	0	root	_	O
+5	Dakota	dakota	NNP	_	7	compound	_	O
+6	Access	access	NNP	pos2=GW	7	compound	_	O
+7	PipelineIt	pipelineit	NNP	_	8	nsubj	_	O
+8	is	be	VBZ	_	4	ccomp	_	O
+9	all	all	RB	_	10	advmod	_	O
+10	about	about	IN	_	8	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	power	power	NN	_	10	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	Intention	intention	NN	pos2=NNP	13	pobj	_	O
+15	!	!	.	_	4	punct	_	O
+
+1	stand	stand	VB	_	0	root	_	O
+2	together	together	RB	_	1	advmod	_	O
+3	and	and	CC	_	1	cc	_	O
+4	we	we	PRP	_	0	root	_	O
+5	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/igyWKHfQXv	#hlink#	ADD	_	0	root	_	U-ORG
+

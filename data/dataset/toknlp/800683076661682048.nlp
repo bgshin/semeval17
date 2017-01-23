@@ -1,0 +1,15 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@FallonTonight	@fallontonight	ADD	pos2=UH	4	nmod	_	U-TIME
+2	@ScottGPatterson	@scottgpatterson	ADD	pos2=NN	6	det	_	O
+3	#SMITHRADIO	#smithradio	NN	pos2=POS	4	nmod	_	O
+4	Debut	debut	NN	pos2=VB	6	nmod	_	O
+5	single	single	JJ	pos2=RB	6	nmod	_	O
+6	#HAHA	#haha	NN	pos2=XX	0	root	_	O
+7	11/23	0	CD	_	8	nmod	_	U-CARDINAL
+8	iTunes	itunes	NNS	_	6	npadvmod	_	O
+9	!	!	.	_	1	punct	_	O
+
+1	https://t.co/DyWBVITttU……	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/x4xWtDZzFX	#hlink#	ADD	_	0	root	_	U-ORG
+

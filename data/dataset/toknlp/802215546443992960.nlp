@@ -1,0 +1,22 @@
+1	From	from	IN	_	21	prep	_	O
+2	@empiremagazine	@empiremagazine	NNP	pos2=NN	1	pobj	_	U-GPE
+3	,	,	,	_	21	punct	_	O
+4	New	new	NNP	pos2=JJ	5	compound	_	B-ORG
+5	Pic	pic	NNP	_	21	dep	_	I-ORG
+6	Of	of	IN	_	5	prep	_	I-ORG
+7	Belle	belle	NNP	_	6	pobj	_	L-ORG
+8	(	(	-LRB-	_	5	punct	_	O
+9	#emmawatson	#emmawatson	NNP	pos2=ADD	5	appos	_	O
+10	)	)	-RRB-	_	5	punct	_	O
+11	&	&	CC	_	5	cc	_	O
+12	Gaston	gaston	NNP	_	5	conj	_	O
+13	(	(	-LRB-	_	14	punct	_	O
+14	#lukeevans	#lukeevans	NNS	pos2=UH	5	appos	_	O
+15	)	)	-RRB-	_	14	punct	_	O
+16	In	in	IN	_	5	prep	_	O
+17	@Disney	@disney	NNP	pos2=PRP	19	poss	_	U-GPE
+18	’s	's	POS	pos2=VBZ	17	case	_	O
+19	#BeautyAndTheBeast	#beautyandthebeast	GW	pos2=ADD	16	pobj	_	O
+20	-…	-…	NFP	pos2=GW	21	punct	_	O
+21	https://t.co/UFOXPLwwn1	#hlink#	ADD	pos2=NN	0	root	_	O
+

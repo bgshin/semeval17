@@ -1,0 +1,20 @@
+1	LUNCH	lunch	NN	_	0	root	_	O
+2	TOMORROW	tomorrow	NN	_	1	npadvmod	_	U-DATE
+3	?	?	.	_	1	punct	_	O
+
+1	THE	the	DT	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	GOLD	gold	NN	pos2=JJ	2	compound	_	O
+2	STANDARD	standard	NN	pos2=NNP	0	root	_	O
+3	FOR	for	IN	_	2	prep	_	O
+4	LUNCHThe	lunchthe	NNP	pos2=DT	8	compound	_	B-ORG
+5	Bean	bean	NNP	_	12	dep	_	I-ORG
+6	Roll	roll	NNP	_	12	dep	_	I-ORG
+7	@The_Gold_Rush	@the_gold_rush	NNP	pos2=POS	12	dep	_	I-ORG
+8	Menu	menu	NNP	pos2=NN	12	dep	_	L-ORG
+9	-	-	HYPH	pos2=:	12	punct	_	O
+10	https://t.co/Vxwoq9VTtG	#hlink#	ADD	pos2=NNP	12	nmod	_	O
+11	-	-	HYPH	pos2=GW	12	punct	_	O
+12	https://t.co/ENeHTg7Er7	#hlink#	ADD	pos2=NN	3	pobj	_	O
+

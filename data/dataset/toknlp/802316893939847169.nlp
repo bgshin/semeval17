@@ -1,0 +1,16 @@
+1	@Reuters	@reuters	VBZ	pos2=NNP	0	root	_	O
+2	Kim	kim	NNP	_	4	compound	_	B-PERSON
+3	Jong	jong	NNP	_	4	compound	_	I-PERSON
+4	Un	un	NNP	_	5	nsubj	_	L-PERSON
+5	needs	need	VBZ	_	1	ccomp	_	O
+6	to	to	TO	_	7	aux	_	O
+7	mix	mix	VB	_	5	xcomp	_	O
+8	in	in	IN	_	7	prep	_	O
+9	a	a	DT	_	10	det	_	O
+10	salad	salad	NN	_	8	pobj	_	O
+11	once	once	RB	_	7	advmod	_	O
+12	in	in	IN	_	7	prep	_	O
+13	a	a	DT	_	14	det	_	O
+14	while	while	NN	_	12	pobj	_	O
+15	.	.	.	_	1	punct	_	O
+

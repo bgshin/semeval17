@@ -1,0 +1,30 @@
+1	@GrnEyedMandy	@grneyedmandy	UH	pos2=NN	4	discourse	_	O
+2	He	he	PRP	_	4	nsubj	_	O
+3	'll	will	MD	_	4	aux	_	O
+4	be	be	VB	_	0	root	_	O
+5	as	as	RB	_	6	advmod	_	O
+6	bad	bad	JJ	_	4	acomp	_	O
+7	as	as	IN	_	6	prep	_	O
+8	Kim	kim	NNP	_	9	compound	_	B-PERSON
+9	Fatty	fatty	NNP	_	7	pobj	_	L-PERSON
+10	the	the	DT	_	11	det	_	O
+11	Third	#ord#	NNP	pos2=NNPS	9	appos	_	U-ORDINAL
+12	.	.	.	_	4	punct	_	O
+
+1	He	he	PRP	_	4	nsubj	_	O
+2	'll	will	MD	_	4	aux	_	O
+3	be	be	VB	_	4	aux	_	O
+4	bugging	bug	VBG	pos2=JJ	0	root	_	O
+5	rooms	room	NNS	_	4	dobj	_	O
+6	like	like	IN	_	5	prep	_	O
+7	Mar	mar	NNP	_	8	compound	_	B-PERSON
+8	Lago	lago	NNP	_	6	pobj	_	L-PERSON
+9	or	or	CC	_	8	cc	_	O
+10	whatever	whatever	WDT	pos2=WP	8	conj	_	O
+11	his	his	PRP$	_	13	poss	_	O
+12	shit	shit	NN	_	13	compound	_	O
+13	stain	stain	NN	_	15	nsubjpass	_	O
+14	is	be	VBZ	_	15	auxpass	_	O
+15	called	call	VBN	_	4	advcl	_	O
+16	.	.	.	_	15	punct	_	O
+

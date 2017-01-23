@@ -1,0 +1,21 @@
+1	@Dwarfpoo	@dwarfpoo	NNP	pos2=UH	3	compound	_	O
+2	@TruthIwant2	@truthiwant0	NN	pos2=ADD	3	compound	_	O
+3	@NAInfidels	@nainfidels	NNS	pos2=VBZ	4	nsubj	_	O
+4	@PrisonPlanet	@prisonplanet	XX	pos2=ADD	0	root	_	O
+5	so	so	RB	_	6	advmod	_	O
+6	when	when	WRB	_	8	advmod	_	O
+7	Israel	israel	NNP	_	8	nsubj	_	U-GPE
+8	supplies	supply	VBZ	_	15	advcl	_	O
+9	electricity	electricity	NN	_	8	dobj	_	O
+10	to	to	IN	pos2=TO	8	prep	_	O
+11	#Gaza	#gaza	NNP	_	10	pobj	_	U-GPE
+12	,	,	,	_	15	punct	_	O
+13	do	do	VBP	_	15	aux	_	O
+14	you	you	PRP	_	15	nsubj	_	O
+15	condemn	condemn	VB	_	0	root	_	O
+16	it	it	PRP	_	15	dobj	_	O
+17	for	for	IN	_	15	prep	_	O
+18	helping	help	VBG	_	17	pcomp	_	O
+19	#Hamas	#hamas	NNP	pos2=NNS	18	dobj	_	U-PERSON
+20	?	?	.	_	15	punct	_	O
+

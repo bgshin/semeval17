@@ -1,0 +1,12 @@
+1	UN	un	NNP	pos2=NN	3	nsubj	_	U-ORG
+2	to	to	TO	_	3	aux	_	O
+3	vote	vote	VB	_	0	root	_	O
+4	today	today	NN	_	3	npadvmod	_	U-DATE
+5	on	on	IN	_	3	prep	_	O
+6	Aleppo	aleppo	NNP	_	8	compound	_	U-GPE
+7	ceasefire	ceasefire	NN	pos2=GW	8	compound	_	O
+8	resolution	resolution	NN	pos2=GW	5	pobj	_	O
+9	https://t.co/Ze6kLKoQgb	#hlink#	ADD	pos2=GW	8	nmod	_	B-CARDINAL
+10	#Aleppo	#aleppo	ADD	pos2=IN	8	nmod	_	I-CARDINAL
+11	https://t.co/ytYdq9AxyJ	#hlink#	ADD	pos2=NN	10	pobj	_	L-CARDINAL
+

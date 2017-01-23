@@ -1,0 +1,21 @@
+1	(	(	-LRB-	_	8	punct	_	O
+2	Montreal	montreal	NNP	_	3	compound	_	B-ORG
+3	Gazette	gazette	NNP	_	5	nmod	_	L-ORG
+4	)	)	-RRB-	_	5	punct	_	O
+5	:#Leonard	:#leonard	NNP	pos2=POS	7	poss	_	O
+6	#Cohen	#cohen	POS	pos2=NNP	5	case	_	O
+7	albums	album	NNS	_	8	nsubj	_	O
+8	sell	sell	VBP	pos2=VB	0	root	_	O
+9	fast	fast	RB	pos2=JJ	8	advmod	_	O
+10	in	in	IN	_	8	prep	_	O
+11	Montreal	montreal	NNP	_	10	pobj	_	U-GPE
+12	:	:	:	_	8	punct	_	O
+13	Since	since	IN	_	8	prep	_	O
+14	the	the	DT	_	16	det	_	O
+15	singing	singing	NN	pos2=VBG	16	compound	_	O
+16	poet	poet	NN	_	13	pobj	_	O
+17	..	..	.	_	8	punct	_	O
+
+1	https://t.co/lGpdBSDLKr	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/MjcTNpfo5E	#hlink#	ADD	_	0	root	_	U-ORG
+

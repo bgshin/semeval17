@@ -1,0 +1,23 @@
+1	Wait	wait	VB	_	0	root	_	O
+2	nvm	nvm	NN	pos2=RB	4	compound	_	O
+3	David	david	NNP	_	4	compound	_	B-PERSON
+4	Ross	ross	NNP	_	5	nsubj	_	L-PERSON
+5	is	be	VBZ	_	1	advcl	_	O
+6	on	on	IN	_	5	prep	_	O
+7	it	it	PRP	_	6	pobj	_	O
+8	for	for	IN	_	5	prep	_	O
+9	some	some	DT	_	10	det	_	O
+10	reason	reason	NN	_	8	pobj	_	O
+11	and	and	CC	_	5	cc	_	O
+12	I	I	PRP	_	13	nsubj	_	O
+13	'm	be	VBP	_	5	conj	_	O
+14	not	not	RB	_	13	neg	_	O
+15	sure	sure	JJ	_	13	acomp	_	O
+16	if	if	IN	_	18	mark	_	O
+17	that	that	DT	_	18	nsubj	_	O
+18	's	's	VBZ	_	15	ccomp	_	O
+19	Verlander	verlander	NNP	_	18	attr	_	U-PERSON
+20	or	or	CC	_	19	cc	_	O
+21	someone	someone	NN	_	19	conj	_	O
+22	else	else	RB	pos2=JJ	21	advmod	_	O
+

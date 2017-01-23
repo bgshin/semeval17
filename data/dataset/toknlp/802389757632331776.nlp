@@ -1,0 +1,23 @@
+1	@matthewaraven	@matthewaraven	UH	pos2=NNP	4	discourse	_	O
+2	Can	can	MD	_	4	aux	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	imagine	imagine	VB	_	0	root	_	O
+5	when	when	WRB	_	8	advmod	_	O
+6	Bob	bob	NNP	_	7	compound	_	B-PERSON
+7	Dylan	dylan	NNP	_	8	nsubj	_	L-PERSON
+8	dies	die	VBZ	_	4	advcl	_	O
+9	and	and	CC	_	8	cc	_	O
+10	he	he	PRP	_	11	nsubj	_	O
+11	gets	get	VBZ	_	8	conj	_	O
+12	to	to	IN	_	11	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	room	room	NN	_	12	pobj	_	O
+15	where	where	WRB	_	18	advmod	_	O
+16	Castro	castro	NNP	_	18	nsubj	_	U-PERSON
+17	is	be	VBZ	_	18	aux	_	O
+18	playing	play	VBG	_	14	relcl	_	O
+19	poker	poker	NN	_	18	dobj	_	O
+20	with	with	IN	_	18	prep	_	O
+21	Leonard	leonard	NNP	_	22	compound	_	B-PERSON
+22	Cohen	cohen	NNP	_	20	pobj	_	L-PERSON
+

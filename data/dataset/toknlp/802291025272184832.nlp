@@ -1,0 +1,22 @@
+1	#Tesla	#tesla	NNP	pos2=IN	2	compound	_	B-ORG
+2	Motors	motor	NNPS	pos2=NNS	0	root	_	L-ORG
+3	(	(	-LRB-	_	2	punct	_	O
+4	TSLA	tsla	NNP	pos2=NN	2	appos	_	U-ORG
+5	)	)	-RRB-	_	2	punct	_	O
+6	Model	model	NN	pos2=NNP	9	poss	_	O
+7	S	s	POS	pos2=NN	6	case	_	O
+8	Price	price	NNP	pos2=NN	9	compound	_	O
+9	Rise	rise	NNP	pos2=NN	14	compound	_	O
+10	While	while	IN	_	12	mark	_	O
+11	#ElonMusk	#elonmusk	NNP	_	12	nsubj	_	O
+12	Says	say	VBZ	pos2=NNP	0	root	_	O
+13	Trump	trump	NNP	_	14	compound	_	B-ORG
+14	Presidency	presidency	NNP	_	17	nsubj	_	L-ORG
+15	Wo	wo	MD	_	17	aux	_	O
+16	n’t	not	RB	_	17	neg	_	O
+17	Affect	affect	VB	pos2=NNP	12	ccomp	_	O
+18	Company	company	NNP	_	20	poss	_	U-ORG
+19	’s	's	POS	_	18	case	_	O
+20	Finances	finance	NNPS	pos2=NNS	17	dobj	_	O
+21	https://t.co/ScKpOQdXFn#EV	#hlink#	ADD	_	17	dobj	_	O
+

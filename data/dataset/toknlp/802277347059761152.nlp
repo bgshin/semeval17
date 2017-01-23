@@ -1,0 +1,27 @@
+1	@SupremeXCI	@supremexci	NNS	pos2=LS	5	dep	_	O
+2	_	_	NFP	pos2=''	5	punct	_	O
+3	so	so	RB	pos2=IN	5	advmod	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	saying	say	VBG	_	0	root	_	O
+6	if	if	IN	_	9	mark	_	O
+7	Tim	tim	NNP	_	8	compound	_	B-PERSON
+8	Duncan	duncan	NNP	_	9	nsubj	_	L-PERSON
+9	was	be	VBD	_	5	ccomp	_	O
+10	on	on	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	team	team	NN	_	10	pobj	_	O
+13	playing	play	VBG	_	9	advcl	_	O
+14	fundamentally	fundamentally	RB	_	15	advmod	_	O
+15	sound	sound	JJ	pos2=NN	13	dobj	_	O
+16	,	,	,	_	13	punct	_	O
+17	using	use	VBG	_	13	advcl	_	O
+18	international	international	JJ	_	19	nmod	_	O
+19	players	player	NNS	_	17	dobj	_	O
+20	but	but	CC	_	9	cc	_	O
+21	they	they	PRP	_	23	nsubj	_	O
+22	was	be	VBD	_	23	aux	_	O
+23	going	go	VBG	_	9	conj	_	O
+24	41	0	CD	_	26	qmod	_	U-CARDINAL
+25	-	-	SYM	pos2=HYPH	26	punct	_	O
+26	41	0	CD	_	23	dobj	_	O
+

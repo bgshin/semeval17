@@ -1,0 +1,29 @@
+1	"	"	``	pos2=SYM	4	punct	_	O
+2	US	us	NNP	pos2=NN	3	compound	_	U-GPE
+3	changes	change	NNS	pos2=VBZ	4	nsubj	_	O
+4	vote	vote	VBP	pos2=NN	0	root	_	O
+5	on	on	IN	_	4	prep	_	O
+6	UN	un	NNP	_	7	compound	_	U-ORG
+7	resolution	resolution	NN	_	5	pobj	_	O
+8	against	against	IN	_	7	prep	_	O
+9	Cuba	cuba	NNP	_	10	compound	_	U-GPE
+10	embargo	embargo	NN	pos2=NNP	8	pobj	_	O
+11	"	"	``	pos2=''	14	punct	_	O
+12	Vote	vote	NN	pos2=NNP	14	nsubjpass	_	O
+13	was	be	VBD	_	14	auxpass	_	O
+14	abstained	abstain	VBN	pos2=JJ	4	conj	_	O
+15	!	!	.	_	14	punct	_	O
+
+1	Just	just	RB	_	2	advmod	_	O
+2	when	when	WRB	_	4	advmod	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	though	though	VBP	pos2=IN	0	root	_	O
+5	the	the	DT	_	8	det	_	O
+6	'	'	``	_	8	punct	_	O
+7	apology	apology	NN	_	8	compound	_	O
+8	tour	tour	NN	_	4	dobj	_	O
+9	"	"	''	_	8	punct	_	O
+10	w	w	IN	pos2=GW	8	prep	_	O
+11	…	…	NFP	pos2=HYPH	12	punct	_	O
+12	https://t.co/enesqgb1Wf	#hlink#	ADD	pos2=NN	10	pobj	_	O
+

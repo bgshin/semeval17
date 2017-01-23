@@ -1,0 +1,19 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=ADD	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	from	from	IN	_	2	prep	_	O
+7	@lifenoggin	@lifenoggin	ADD	pos2=NNP	6	pobj	_	O
+8	https://t.co/3fsSWrUQcj	#hlink#	ADD	pos2=NNP	6	pobj	_	O
+9	What	what	WP	pos2=WDT	17	pobj	_	O
+10	Would	would	MD	_	16	aux	_	O
+11	A	a	DT	_	12	det	_	O
+12	World	world	NNP	pos2=NN	16	nsubj	_	O
+13	With	with	IN	_	12	prep	_	O
+14	Self-Driving	self-driving	NNP	pos2=JJ	15	compound	_	O
+15	Cars	car	NNPS	pos2=NNS	13	pobj	_	O
+16	Look	look	VB	pos2=NNP	2	ccomp	_	O
+17	Like	like	IN	_	16	prep	_	O
+18	?	?	.	_	2	punct	_	O
+

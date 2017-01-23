@@ -1,0 +1,12 @@
+1	and	and	CC	_	2	cc	_	O
+2	also	also	RB	_	0	root	_	O
+3	????	??	.	_	2	punct	_	O
+
+1	have	have	VBP	pos2=VB	0	root	_	O
+2	gun	gun	NN	_	3	compound	_	O
+3	control	control	NN	_	4	compound	_	O
+4	laws	law	NNS	_	1	dobj	_	O
+5	???	??	.	_	1	punct	_	O
+
+1	https://t.co/sT721uoOpw	#hlink#	ADD	_	0	root	_	U-ORG
+

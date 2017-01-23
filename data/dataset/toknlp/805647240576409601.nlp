@@ -1,0 +1,16 @@
+1	For	for	IN	_	6	prep	_	O
+2	CA	ca	NNP	pos2=NN	3	compound	_	O
+3	Democrats	democrat	NNPS	_	1	pobj	_	U-NORP
+4	,	,	,	_	6	punct	_	O
+5	this	this	DT	_	6	nsubj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	type	type	NN	_	6	attr	_	O
+9	of	of	IN	_	8	prep	_	O
+10	voter	voter	NN	_	11	compound	_	O
+11	registration	registration	NN	_	12	compound	_	O
+12	drive	drive	NN	_	9	pobj	_	O
+13	.	.	.	_	6	punct	_	O
+
+1	https://t.co/FUDZxbkMib	#hlink#	ADD	_	0	root	_	U-ORG
+

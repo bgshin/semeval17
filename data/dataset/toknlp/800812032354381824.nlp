@@ -1,0 +1,19 @@
+1	“	"	``	_	3	punct	_	O
+2	There	there	EX	_	3	expl	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	an	an	DT	_	6	det	_	O
+5	anti-establishment	anti-establishment	JJ	_	6	nmod	_	O
+6	sentiment	sentiment	NN	_	3	attr	_	O
+7	in	in	IN	_	6	prep	_	O
+8	open	open	JJ	_	9	nmod	_	O
+9	source	source	NN	_	7	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	’s	's	VBZ	_	0	root	_	O
+3	natural	natural	JJ	_	2	acomp	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	”	"	``	pos2=SYM	2	punct	_	O
+2	https://t.co/K6LEVntu2I	#hlink#	ADD	pos2=NN	0	root	_	O
+

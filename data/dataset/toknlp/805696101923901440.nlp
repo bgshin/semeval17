@@ -1,0 +1,26 @@
+1	@Nottinghams1	@nottinghams0	NN	pos2=LS	2	compound	_	O
+2	@TownHa2016	@townha0	NN	pos2=NNS	4	nsubj	_	O
+3	As	as	RB	pos2=IN	4	advmod	_	O
+4	ugly	ugly	JJ	pos2=RB	9	ccomp	_	O
+5	as	as	IN	_	7	mark	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	are	be	VBP	_	4	advcl	_	O
+8	one	#crd#	PRP	pos2=CD	10	nsubj	_	O
+9	would	would	MD	_	10	aux	_	O
+10	wonder	wonder	VB	_	0	root	_	O
+11	why	why	WRB	_	14	advmod	_	O
+12	you	you	PRP	_	14	nsubj	_	O
+13	would	would	MD	_	14	aux	_	O
+14	need	need	VB	_	10	ccomp	_	O
+15	an	an	DT	_	16	det	_	O
+16	abortion	abortion	NN	_	14	dobj	_	O
+17	unless	unless	IN	_	19	mark	_	O
+18	you	you	PRP	_	19	nsubj	_	O
+19	're	be	VBP	_	14	advcl	_	O
+20	into	into	IN	_	19	prep	_	O
+21	beastality	beastality	NNP	pos2=NN	20	pobj	_	O
+22	aka	aka	FW	pos2=RB	23	nmod	_	O
+23	dog	dog	NN	pos2=FW	19	npadvmod	_	O
+24	or	or	CC	_	23	cc	_	O
+25	donkey	donkey	NN	_	23	conj	_	O
+

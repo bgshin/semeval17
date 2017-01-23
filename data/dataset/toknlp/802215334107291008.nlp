@@ -1,0 +1,12 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	Plan	plan	NN	pos2=NNP	5	compound	_	O
+5	B	b	NN	pos2=NNP	2	dobj	_	O
+6	for	for	IN	_	2	prep	_	O
+7	this	this	DT	_	9	det	_	O
+8	baby	baby	NN	_	9	compound	_	O
+9	bump	bump	NN	pos2=VB	6	pobj	_	O
+10	developed	develop	VBN	pos2=VBD	11	nmod	_	O
+11	yesterday.#thanksgiving	yesterday.#thanksgiving	NN	pos2=.	9	advmod	_	O
+

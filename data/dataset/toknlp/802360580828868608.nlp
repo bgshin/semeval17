@@ -1,0 +1,11 @@
+1	Quote	quote	UH	pos2=NN	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	year:	year:	NNPS	pos2=NN	2	pobj	_	O
+5	"	"	``	_	6	punct	_	O
+6	Hello	hello	UH	pos2=NNP	2	discourse	_	O
+7	"	"	''	_	6	punct	_	O
+8	-	-	,	pos2=HYPH	10	punct	_	O
+9	Melania	melania	NNP	_	10	compound	_	B-PERSON
+10	Trump	trump	NNP	pos2=NN	2	pobj	_	L-PERSON
+

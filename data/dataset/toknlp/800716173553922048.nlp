@@ -1,0 +1,11 @@
+1	@jimmyfallon	@jimmyfallon	UH	pos2=XX	10	meta	_	O
+2	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=LS	10	dep	_	O
+3	1.	0.	LS	_	10	meta	_	U-CARDINAL
+4	Paris	paris	NNP	_	10	npadvmod	_	O
+5	2.	0.	CD	pos2=NNP	4	nmod	_	U-CARDINAL
+6	Emily	emily	NNP	_	10	compound	_	O
+7	3.	0.	NNP	pos2=CD	10	compound	_	O
+8	Michel	michel	NNP	_	10	compound	_	B-PERSON
+9	4.	0.	NNP	pos2=CD	10	compound	_	L-PERSON
+10	Sookie	sookie	NNP	pos2=NN	0	root	_	O
+

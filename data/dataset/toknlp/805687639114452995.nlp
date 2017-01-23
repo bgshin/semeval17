@@ -1,0 +1,9 @@
+1	Minimum	minimum	JJ	pos2=NN	2	nmod	_	O
+2	wage	wage	NN	_	7	nsubj	_	O
+3	and	and	CC	_	2	cc	_	O
+4	these	these	DT	_	6	det	_	O
+5	unpaid	unpaid	JJ	_	6	nmod	_	O
+6	internships	internship	NNS	_	2	conj	_	O
+7	😕😕😕	😕😕😕	NFP	pos2=:	8	punct	_	O
+8	https://t.co/J468ny5XjQ	#hlink#	ADD	pos2=NN	0	root	_	O
+

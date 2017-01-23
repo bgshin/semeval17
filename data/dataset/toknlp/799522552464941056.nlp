@@ -1,0 +1,13 @@
+1	Kim	kim	NNP	_	2	compound	_	B-PERSON
+2	Fatty	fatty	NNP	pos2=JJ	8	nsubj	_	L-PERSON
+3	the	the	DT	_	6	det	_	O
+4	Third	#ord#	NNP	pos2=JJ	6	compound	_	O
+5	😂😂😂😂	😂😂😂😂	NNP	_	6	compound	_	O
+6	China	china	NNP	_	2	appos	_	O
+7	has	have	VBZ	_	8	aux	_	O
+8	excelled	excel	VBN	pos2=VBD	0	root	_	O
+9	itself	itself	PRP	_	8	dobj	_	O
+10	this	this	DT	_	11	det	_	O
+11	time	time	NN	_	8	npadvmod	_	O
+12	👌	👌	NNP	pos2=,	8	vocative	_	O
+

@@ -1,0 +1,23 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@barclayswealth	@barclayswealth	UH	pos2=NN	5	discourse	_	O
+2	Yes	yes	UH	_	5	discourse	_	O
+3	,	,	,	_	5	punct	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	'm	be	VBP	_	11	ccomp	_	O
+6	into	into	IN	_	5	prep	_	O
+7	Skillanthropy	skillanthropy	NNP	pos2=NN	6	pobj	_	U-ORG
+8	-	-	:	pos2=HYPH	11	punct	_	O
+9	I	I	PRP	_	11	nsubj	_	O
+10	'm	be	VBP	_	11	aux	_	O
+11	campaigning	campaign	VBG	_	0	root	_	O
+12	to	to	TO	_	13	aux	_	O
+13	get	get	VB	_	11	xcomp	_	O
+14	@Barclays	@barclays	NNS	pos2=NNP	16	nsubj	_	O
+15	to	to	TO	pos2=IN	16	aux	_	O
+16	ditch	ditch	VB	pos2=NN	13	ccomp	_	O
+17	#Fracking	#fracking	VBG	pos2=NNP	16	dobj	_	O
+18	.	.	.	_	11	punct	_	O
+
+1	@F_F_Ryedale	@f_f_ryedale	ADD	pos2=VB	0	root	_	O
+

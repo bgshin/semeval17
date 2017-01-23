@@ -1,0 +1,12 @@
+1	Dear	dear	JJ	pos2=NNP	3	nmod	_	B-ORG
+2	Electoral	electoral	NNP	pos2=JJ	3	compound	_	I-ORG
+3	College	college	NNP	_	0	root	_	L-ORG
+4	.	.	.	_	3	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	ca	can	MD	_	5	aux	_	O
+3	n't	not	RB	_	5	neg	_	O
+4	,	,	,	_	2	punct	_	O
+5	seriously	seriously	RB	_	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+

@@ -1,0 +1,13 @@
+1	@amrwaked	@amrwaked	UH	pos2=``	10	discourse	_	O
+2	If	if	IN	_	4	mark	_	O
+3	evolution	evolution	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	10	advcl	_	O
+5	bullshit	bullshit	NN	pos2=RB	4	attr	_	O
+6	then	then	RB	_	10	advmod	_	O
+7	how	how	WRB	_	10	advmod	_	O
+8	do	do	VBP	pos2=VB	10	aux	_	O
+9	we	we	PRP	_	10	nsubj	_	O
+10	develop	develop	VB	_	0	root	_	O
+11	vaccines	vaccine	NNS	_	10	dobj	_	O
+12	????	??	.	_	10	punct	_	O
+

@@ -1,0 +1,15 @@
+1	Dear	dear	JJ	pos2=NNP	4	nmod	_	O
+2	Electoral	electoral	NNP	pos2=JJ	3	compound	_	B-ORG
+3	College	college	NNP	_	4	compound	_	L-ORG
+4	member	member	NN	_	9	nsubj	_	O
+5	,	,	,	_	6	punct	_	O
+6	Dec	dec	NNP	_	4	npadvmod	_	B-DATE
+7	19	0	CD	_	6	npadvmod	_	L-DATE
+8	will	will	MD	_	9	aux	_	O
+9	be	be	VB	_	0	root	_	O
+10	very	very	RB	_	11	advmod	_	O
+11	interesting	interesting	JJ	_	9	acomp	_	O
+12	.	.	.	_	9	punct	_	O
+
+1	https://t.co/J7OxsFNV4Z	#hlink#	ADD	_	0	root	_	U-ORG
+

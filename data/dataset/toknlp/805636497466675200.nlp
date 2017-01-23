@@ -1,0 +1,19 @@
+1	Eyewitnesses	eyewitness	NNS	_	2	nsubj	_	O
+2	Testify	testify	VBP	pos2=VB	14	ccomp	_	O
+3	:	:	:	_	2	punct	_	O
+4	Pope	pope	NNP	_	5	compound	_	O
+5	Francis	francis	NNP	_	6	nsubj	_	O
+6	Raped	rape	VBD	pos2=NNP	2	dep	_	O
+7	and	and	CC	_	6	cc	_	O
+8	Killed	kill	VBN	pos2=VBD	6	conj	_	O
+9	Children	child	NNS	pos2=NNP	8	dobj	_	O
+10	;	;	,	pos2=:	14	punct	_	O
+11	Sealed	seal	VBN	pos2=NNP	13	nmod	_	O
+12	Vatican	vatican	NNP	_	13	compound	_	U-FAC
+13	Documents	document	NNS	pos2=NNP	14	nsubj	_	O
+14	Expose	expose	VBP	pos2=VB	0	root	_	O
+15	Their	their	PRP$	pos2=NNP	17	poss	_	O
+16	Satanic	satanic	JJ	pos2=NNP	17	nmod	_	O
+17	Rituals	ritual	NNS	pos2=NNPS	14	dobj	_	O
+18	https://t.co/vei35IMsUX	#hlink#	ADD	_	14	dep	_	O
+

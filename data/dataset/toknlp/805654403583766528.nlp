@@ -1,0 +1,10 @@
+1	Europe	europe	NNP	pos2=JJ	5	compound	_	B-ORG
+2	Canine	canine	NNP	pos2=NN	5	compound	_	I-ORG
+3	Vaccines	vaccines	NNP	pos2=NNPS	4	compound	_	I-ORG
+4	Market	market	NNP	pos2=NN	5	compound	_	I-ORG
+5	Report	report	NNP	pos2=NN	0	root	_	L-ORG
+6	2016	0	CD	_	5	npadvmod	_	O
+7	by	by	IN	_	5	prep	_	O
+8	ReportBazzar	reportbazzar	NNP	_	7	pobj	_	O
+9	https://t.co/o52r265xbB	#hlink#	ADD	_	7	pobj	_	O
+

@@ -1,0 +1,15 @@
+1	Nice	nice	JJ	pos2=NNP	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	@Microsoft	@microsoft	NNP	pos2=WP	2	nsubj	_	U-ORG
+2	joins	join	VBZ	pos2=NNS	0	root	_	O
+3	@LinuxFoundation	@linuxfoundation	NN	pos2=ADD	2	dobj	_	O
+4	as	as	IN	_	2	prep	_	O
+5	Platinum	platinum	NNP	pos2=NN	6	compound	_	U-ORG
+6	member	member	NN	_	4	pobj	_	O
+7	https://t.co/DCtd2EIIM8	#hlink#	ADD	pos2=NNP	2	punct	_	O
+8	by	by	IN	_	7	agent	_	O
+9	@EPro	@epro	NNP	pos2=CD	8	pobj	_	U-ORG
+10	in	in	IN	_	9	prep	_	O
+11	@VentureBeat	@venturebeat	NNP	pos2=NN	10	pobj	_	O
+

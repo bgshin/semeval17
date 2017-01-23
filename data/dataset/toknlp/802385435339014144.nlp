@@ -1,0 +1,21 @@
+1	#Spurs	#spurs	NNS	pos2=VBZ	2	nsubj	_	O
+2	#GoSpursGo	#gospursgo	VBD	pos2=VBP	0	root	_	O
+3	2008	0	CD	_	2	npadvmod	_	O
+4	UD	ud	NNP	pos2=NN	6	compound	_	O
+5	First	#ord#	NNP	_	6	compound	_	O
+6	Edition	edition	NNP	_	11	compound	_	O
+7	Starquest	starquest	NNP	_	12	compound	_	O
+8	Green	green	NNP	_	12	compound	_	O
+9	#SQ-8	#sq-0	NNP	pos2=NN	12	compound	_	O
+10	Tim	tim	NNP	_	12	compound	_	B-PERSON
+11	Duncan	duncan	NNP	_	12	compound	_	L-PERSON
+12	PSA	psa	NNP	pos2=NN	13	nsubj	_	O
+13	9	0	CD	_	18	dep	_	U-CARDINAL
+14	None	none	NN	_	15	npadvmod	_	O
+15	Higher	high	JJR	_	20	nmod	_	O
+16	no	no	DT	pos2=GW	17	det	_	O
+17	10	0	CD	pos2=GW	18	dep	_	B-CARDINAL
+18	https://t.co/UcKrKPUHTw	#hlink#	ADD	_	15	dep	_	L-CARDINAL
+19	#TimDuncan	#timduncan	ADD	pos2=-RRB-	0	root	_	U-ORG
+20	#NBA	#nba	NN	pos2=ADD	19	pobj	_	O
+

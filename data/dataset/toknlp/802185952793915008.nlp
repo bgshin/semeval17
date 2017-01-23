@@ -1,0 +1,24 @@
+1	She	she	PRP	_	2	nsubj	_	O
+2	cried	cry	VBD	_	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	family	family	NN	_	3	pobj	_	O
+6	,	,	,	_	5	punct	_	O
+7	neighbors	neighbor	NNS	_	5	conj	_	O
+8	and	and	CC	_	7	cc	_	O
+9	friends	friend	NNS	_	7	conj	_	O
+10	she	she	PRP	_	11	nsubj	_	O
+11	left	leave	VBD	_	2	ccomp	_	O
+12	behind	behind	IN	pos2=RB	11	advmod	_	O
+13	she	she	PRP	_	14	nsubj	_	O
+14	cried	cry	VBD	_	11	advcl	_	O
+15	for	for	IN	_	14	prep	_	O
+16	the	the	DT	_	18	det	_	O
+17	burnt	burn	VBN	pos2=JJ	18	nmod	_	O
+18	trees	tree	NNS	_	15	pobj	_	O
+19	and	and	CC	_	18	cc	_	O
+20	charred	charred	JJ	_	21	nmod	_	O
+21	land	land	NN	_	23	compound	_	O
+22	#Palestine	#palestine	NNP	pos2=WDT	23	compound	_	B-PERSON
+23	#PalestineBurning	#palestineburning	NN	pos2=ADD	18	conj	_	L-PERSON
+

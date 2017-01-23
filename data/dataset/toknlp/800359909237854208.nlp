@@ -1,0 +1,23 @@
+1	@marcelsardo	@marcelsardo	UH	pos2=XX	3	discourse	_	O
+2	@SportsDroppings	@sportsdroppings	POS	pos2=NNPS	3	nmod	_	O
+3	Tool	tool	NN	pos2=NNP	12	nsubj	_	O
+4	or	or	CC	_	3	cc	_	O
+5	not	not	RB	_	3	conj	_	O
+6	,	,	,	_	12	punct	_	O
+7	most	most	JJS	_	12	nsubj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	what	what	WP	_	11	dobj	_	O
+10	Saakashvili	saakashvili	NNP	_	11	nsubj	_	U-PERSON
+11	says	say	VBZ	_	8	pcomp	_	O
+12	is	be	VBZ	_	19	ccomp	_	O
+13	true	true	JJ	_	12	acomp	_	O
+14	,	,	,	_	19	punct	_	O
+15	other	other	JJ	_	16	nmod	_	O
+16	politicians	politician	NNS	_	19	nsubj	_	O
+17	in	in	IN	_	16	prep	_	O
+18	Ukraine	ukraine	NNP	_	17	pobj	_	U-GPE
+19	are	be	VBP	_	0	root	_	O
+20	disconnected	disconnected	JJ	pos2=VBN	19	acomp	_	O
+21	with	with	IN	_	20	prep	_	O
+22	reality	reality	NN	_	21	pobj	_	O
+

@@ -1,0 +1,15 @@
+1	#IsraeltheRegion	#israeltheregion	ADD	pos2=NN	14	dep	_	O
+2	#Hezbollah	#hezbollah	NNP	pos2=UH	14	dep	_	O
+3	#Syriacivilwar	#syriacivilwar	NNP	pos2=XX	14	dep	_	O
+4	#Lebanon	#lebanon	NNP	pos2=ADD	6	compound	_	O
+5	#Assadregime	#assadregime	NNP	pos2=POS	6	compound	_	O
+6	Russia	russia	NNP	_	3	pobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	Hezbollah	hezbollah	NNP	_	6	conj	_	U-ORG
+9	‘	'	''	pos2=``	14	punct	_	O
+10	officially	officially	RB	_	12	advmod	_	O
+11	’	'	''	pos2=``	14	punct	_	O
+12	working	work	VBG	_	14	nmod	_	O
+13	…	…	NFP	pos2=RBR	14	punct	_	O
+14	https://t.co/IwpReFBv6K	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,18 @@
+1	Victory	victory	NN	_	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+
+1	Public	public	JJ	_	2	nmod	_	O
+2	outrage	outrage	NN	_	4	nsubj	_	O
+3	may	may	MD	_	4	aux	_	O
+4	force	force	VB	_	0	root	_	O
+5	Feds	fed	NNPS	pos2=NNS	4	dobj	_	U-NORP
+6	to	to	TO	_	7	aux	_	O
+7	revisit	revisit	VB	_	4	xcomp	_	O
+8	approval	approval	NN	_	7	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	the	the	DT	_	13	det	_	B-ORG
+11	Dakota	dakota	NNP	_	14	nmod	_	I-ORG
+12	Access	access	NNP	pos2=GW	14	nmod	_	I-ORG
+13	Pipeline	pipeline	GW	pos2=NN	14	nmod	_	L-ORG
+14	https://t.co/kmdPEovTMy	#hlink#	ADD	_	4	dobj	_	O
+

@@ -1,0 +1,20 @@
+1	@starfirst	@starfirst	UH	pos2=RB	2	discourse	_	O
+2	@MarciaBunney	@marciabunney	UH	pos2=WRB	8	discourse	_	O
+3	@thedailybeast	@thedailybeast	IN	pos2=UH	8	mark	_	O
+4	alt	alt	JJ	pos2=NN	6	advmod	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	right	right	JJ	pos2=NN	7	nmod	_	O
+7	leaders	leader	NNS	_	3	pobj	_	O
+8	are	be	VBP	_	0	root	_	O
+9	a	a	DT	_	10	det	_	O
+10	pack	pack	NN	_	8	attr	_	O
+11	of	of	IN	_	10	prep	_	O
+12	rabid	rabid	JJ	_	13	nmod	_	O
+13	dingos	dingo	NNS	_	11	pobj	_	O
+14	bad	bad	JJ	_	15	nmod	_	O
+15	hombres	hombre	NNS	_	13	appos	_	O
+16	in	in	IN	_	15	prep	_	O
+17	the	the	DT	_	18	det	_	O
+18	hood	hood	NN	_	16	pobj	_	O
+19	!	!	.	_	8	punct	_	O
+

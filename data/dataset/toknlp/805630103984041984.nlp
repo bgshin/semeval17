@@ -1,0 +1,26 @@
+1	And	and	CC	_	18	cc	_	O
+2	,	,	,	_	18	punct	_	O
+3	just	just	RB	_	11	advmod	_	O
+4	as	as	IN	_	11	prep	_	O
+5	an	an	DT	_	6	det	_	O
+6	aside	aside	RB	pos2=NN	4	pobj	_	O
+7	,	,	,	_	11	punct	_	O
+8	the	the	DT	_	9	det	_	O
+9	people	people	NNS	_	11	nsubj	_	O
+10	STILL	still	RB	_	11	advmod	_	O
+11	hashing	hash	VBG	_	18	advcl	_	O
+12	over	over	IN	pos2=RP	11	prep	_	O
+13	Bernie	bernie	NNP	_	12	pobj	_	U-PERSON
+14	vs.	vs.	IN	pos2=CC	11	prep	_	O
+15	HRC	hrc	NNP	pos2=NN	14	pobj	_	U-ORG
+16	are	be	VBP	_	18	aux	_	O
+17	n't	not	RB	_	18	neg	_	O
+18	taking	take	VBG	_	0	root	_	O
+19	voter	voter	NN	_	20	compound	_	O
+20	suppression	suppression	NN	_	18	dobj	_	O
+21	into	into	IN	_	18	prep	_	O
+22	account	account	NN	_	21	pobj	_	O
+23	at	at	IN	_	18	prep	_	O
+24	…	…	NFP	pos2=NNP	23	pobj	_	O
+25	https://t.co/JMbmotGrfW	#hlink#	ADD	pos2=NN	23	pobj	_	O
+

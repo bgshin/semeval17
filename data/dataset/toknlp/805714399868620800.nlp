@@ -1,0 +1,11 @@
+1	That	that	DT	pos2=IN	3	det	_	O
+2	US	us	NNP	_	3	compound	_	U-GPE
+3	embargo	embargo	NN	pos2=VB	6	nsubj	_	O
+4	on	on	IN	_	3	prep	_	O
+5	Cuba	cuba	NNP	_	4	pobj	_	U-GPE
+6	being	be	VBG	_	0	root	_	O
+7	inadvertently	inadvertently	RB	_	8	advmod	_	O
+8	helpful	helpful	JJ	_	6	acomp	_	O
+9	again	again	RB	_	6	advmod	_	O
+10	https://t.co/7i0c6Lliwp	#hlink#	ADD	_	6	dep	_	O
+

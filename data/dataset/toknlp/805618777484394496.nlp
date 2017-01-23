@@ -1,0 +1,19 @@
+1	@lagavillain	@lagavillain	UH	pos2=SYM	3	discourse	_	O
+2	_	_	SYM	pos2=NFP	3	punct	_	O
+3	Bones	bone	NNS	pos2=NNPS	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	MLK	mlk	NNP	pos2=NN	3	appos	_	U-GPE
+6	,	,	,	_	5	punct	_	O
+7	Muhammad	muhammad	NNP	_	8	compound	_	B-PERSON
+8	Ali	ali	NNP	_	5	conj	_	L-PERSON
+9	,	,	,	_	8	punct	_	O
+10	Jesus	jesus	NNP	_	11	compound	_	B-PERSON
+11	Christ	christ	NNP	_	8	conj	_	L-PERSON
+12	,	,	,	_	3	punct	_	O
+13	and	and	CC	_	3	cc	_	O
+14	the	the	DT	_	15	det	_	O
+15	list	list	NN	_	16	nsubj	_	O
+16	goes	go	VBZ	_	3	conj	_	O
+17	on	on	RP	pos2=RB	16	prt	_	O
+18	.	.	.	_	16	punct	_	O
+

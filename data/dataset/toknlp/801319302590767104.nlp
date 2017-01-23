@@ -1,0 +1,24 @@
+1	No	no	DT	_	2	det	_	O
+2	wonder	wonder	NN	_	5	npadvmod	_	O
+3	Vladimir	vladimir	NNP	_	4	compound	_	B-PERSON
+4	Putin	putin	NNP	_	5	nsubj	_	L-PERSON
+5	hates	hate	VBZ	_	0	root	_	O
+6	Saakashvili	saakashvili	NNP	_	5	dobj	_	U-PERSON
+7	.	.	.	_	5	punct	_	O
+
+1	Saakashvili	saakashvili	NNP	_	2	nsubj	_	U-PERSON
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	corruption	corruption	NN	_	5	compound	_	O
+5	fighter	fighter	NN	_	2	attr	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	#Putin	#putin	NNP	pos2=NN	4	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	middle	middle	JJ	_	4	nmod	_	O
+4	name	name	NN	_	6	nsubj	_	O
+5	should	should	MD	_	6	aux	_	O
+6	be	be	VB	_	0	root	_	O
+7	corruption	corruption	NN	_	6	attr	_	O
+8	.	.	.	_	6	punct	_	O
+

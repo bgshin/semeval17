@@ -1,0 +1,25 @@
+1	forest	forest	NN	_	2	compound	_	O
+2	fires	fire	NNS	_	11	advcl	_	O
+3	in	in	IN	_	2	prep	_	O
+4	Israel	israel	NNP	_	3	pobj	_	U-GPE
+5	,	,	,	_	11	punct	_	O
+6	my	my	PRP$	_	7	poss	_	O
+7	advice	advice	NN	_	4	appos	_	O
+8	to	to	IN	_	7	prep	_	O
+9	Israel	israel	NNP	_	8	pobj	_	U-GPE
+10	,	,	,	_	11	punct	_	O
+11	kick	kick	VB	_	0	root	_	O
+12	out	out	RP	_	11	prt	_	O
+13	all	all	DT	pos2=RB	15	det	_	O
+14	islamic	islamic	JJ	_	15	nmod	_	U-NORP
+15	people	people	NNS	_	11	dobj	_	O
+16	(	(	-LRB-	_	15	punct	_	O
+17	bad	bad	JJ	_	18	nmod	_	O
+18	hombres	hombre	NNS	_	15	appos	_	O
+19	)	)	-RRB-	_	15	punct	_	O
+20	once&for	once&for	NFP	pos2=RB	11	discourse	_	O
+21	all	all	DT	pos2=RB	23	dep	_	O
+22	:	:	:	_	23	punct	_	O
+23	https://t.co/gxM20yG8Tn	#hlink#	ADD	pos2=NN	11	dep	_	O
+24	via	via	IN	pos2=FW	11	prep	_	O
+

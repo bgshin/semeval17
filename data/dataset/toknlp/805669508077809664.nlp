@@ -1,0 +1,15 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	14	ccomp	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=ADD	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	from	from	IN	_	5	prep	_	O
+7	@fluttershy_rlc	@fluttershy_rlc	NNP	pos2=ADD	6	pobj	_	U-ORG
+8	https://t.co/rXWU2zJMX2	#hlink#	ADD	pos2=NNP	7	appos	_	O
+9	Chicago	chicago	NNP	_	13	compound	_	O
+10	Cubs	cub	NNPS	pos2=NNP	13	compound	_	B-EVENT
+11	World	world	NNP	_	13	compound	_	I-EVENT
+12	Series	series	NNP	_	13	compound	_	I-EVENT
+13	Champions	champion	NNPS	pos2=NNP	14	nsubj	_	L-EVENT
+14	Highlights	highlight	VBZ	pos2=NNP	0	root	_	O
+

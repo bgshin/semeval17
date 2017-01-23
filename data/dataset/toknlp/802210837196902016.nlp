@@ -1,0 +1,24 @@
+1	@TedGenoways	@tedgenoways	NNS	pos2=ADD	3	npadvmod	_	O
+2	@summerbrennan	@summerbrennan	NNP	pos2=WP	3	nsubj	_	U-ORG
+3	Makes	make	VBZ	_	0	root	_	O
+4	sense	sense	NN	_	3	dobj	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	He	he	PRP	_	3	nsubj	_	O
+2	already	already	RB	_	3	advmod	_	O
+3	has	have	VBZ	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	ties	tie	NNS	_	3	dobj	_	O
+6	to	to	IN	_	5	prep	_	O
+7	Russia	russia	NNP	_	6	pobj	_	U-GPE
+8	,	,	,	_	3	punct	_	O
+9	and	and	CC	_	3	cc	_	O
+10	Putin	putin	NNP	_	12	nsubj	_	U-PERSON
+11	's	's	POS	pos2=VBZ	10	case	_	O
+12	making	make	VBG	_	3	conj	_	O
+13	the	the	DT	_	14	det	_	O
+14	calls	call	NNS	_	12	dobj	_	O
+15	.	.	.	_	12	punct	_	O
+
+1	https://t.co/Q2Qw2forvy	#hlink#	ADD	_	0	root	_	U-ORG
+

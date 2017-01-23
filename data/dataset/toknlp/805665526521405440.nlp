@@ -1,0 +1,18 @@
+1	#Westworld	#westworld	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	greatest	great	JJS	_	5	nmod	_	O
+5	work	work	NN	_	2	attr	_	O
+6	of	of	IN	_	5	prep	_	O
+7	art	art	NN	_	6	pobj	_	O
+8	I	I	PRP	_	11	nsubj	_	O
+9	've	have	VBP	_	11	aux	_	O
+10	ever	ever	RB	_	11	advmod	_	O
+11	seen	see	VBN	_	5	relcl	_	O
+12	on	on	IN	pos2=RB	11	prep	_	O
+13	TV.	tv.	NNP	_	12	pobj	_	O
+14	A	a	DT	_	16	det	_	O
+15	true	true	JJ	_	16	nmod	_	O
+16	masterpiece	masterpiece	NN	_	11	dobj	_	O
+17	.	.	.	_	2	punct	_	O
+

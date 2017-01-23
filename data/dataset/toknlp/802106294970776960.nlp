@@ -1,0 +1,13 @@
+1	*	*	SYM	_	2	punct	_	O
+2	turns	turn	VBZ	_	0	root	_	O
+3	down	down	RP	pos2=IN	2	prt	_	O
+4	the	the	DT	_	7	det	_	O
+5	Ricky	ricky	NNP	_	6	compound	_	B-PERSON
+6	Martin	martin	NNP	_	7	compound	_	L-PERSON
+7	music	music	NN	pos2=NNP	2	dobj	_	O
+8	playing	play	VBG	_	7	acl	_	O
+9	through	through	IN	_	8	prep	_	O
+10	my	my	PRP$	_	11	poss	_	O
+11	headphones	headphone	NNS	_	9	pobj	_	O
+12	*	*	SYM	pos2=ADD	2	punct	_	O
+

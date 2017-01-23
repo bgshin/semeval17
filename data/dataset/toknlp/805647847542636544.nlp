@@ -1,0 +1,27 @@
+1	@KitOConnell	@kitoconnell	UH	pos2=MD	6	discourse	_	O
+2	No	no	DT	_	3	det	_	O
+3	solution	solution	NN	_	0	root	_	O
+4	to	to	IN	_	3	prep	_	O
+5	a	a	DT	_	7	det	_	O
+6	free	free	JJ	_	7	nmod	_	O
+7	press	press	NN	_	4	pobj	_	O
+8	and	and	CC	_	7	cc	_	O
+9	a	a	DT	_	13	det	_	O
+10	supposedly	supposedly	RB	_	11	advmod	_	O
+11	civil	civil	JJ	_	12	nmod	_	O
+12	liberty	liberty	NN	_	13	compound	_	O
+13	society	society	NN	_	7	conj	_	O
+14	.	.	.	_	12	punct	_	O
+
+1	We	we	PRP	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	pass	pass	VB	_	0	root	_	O
+4	real	real	JJ	_	6	nmod	_	O
+5	gun	gun	NN	_	6	compound	_	O
+6	control	control	NN	_	3	dobj	_	O
+7	maybe	maybe	RB	_	3	advmod	_	O
+8	for	for	IN	_	3	prep	_	O
+9	AR	ar	NNP	pos2=NN	10	compound	_	U-ORG
+10	rifles	rifle	NNS	_	8	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+

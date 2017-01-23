@@ -1,0 +1,10 @@
+1	Why	why	WRB	_	3	advmod	_	O
+2	dogs	dog	NNS	_	3	nsubj	_	O
+3	love	love	VBP	_	0	root	_	O
+4	Bob	bob	NNP	_	5	compound	_	B-PERSON
+5	Dylan	dylan	NNP	_	3	dobj	_	L-PERSON
+6	?	?	.	_	3	punct	_	O
+
+1	https://t.co/w1x3bDg1EO	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/f4jZ9cTVE4	#hlink#	ADD	_	0	root	_	U-ORG
+

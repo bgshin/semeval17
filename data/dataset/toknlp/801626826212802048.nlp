@@ -1,0 +1,26 @@
+1	Mamadi	mamadi	NNP	_	2	compound	_	B-PERSON
+2	Diakite	diakite	NNP	_	4	nsubj	_	L-PERSON
+3	WILL	will	MD	pos2=NNP	4	aux	_	O
+4	break	break	VB	_	0	root	_	O
+5	some	some	DT	_	7	det	_	O
+6	poor	poor	JJ	_	7	nmod	_	O
+7	guy	guy	NN	_	9	poss	_	O
+8	's	's	POS	_	7	case	_	O
+9	nose	nose	NN	_	4	dobj	_	O
+10	this	this	DT	_	11	det	_	B-DATE
+11	season	season	NN	_	4	npadvmod	_	L-DATE
+12	with	with	IN	_	4	prep	_	O
+13	a	a	DT	_	15	det	_	O
+14	blocked	block	VBN	pos2=JJ	15	nmod	_	O
+15	shot	shot	NN	_	12	pobj	_	O
+16	.	.	.	_	4	punct	_	O
+
+1	If	if	IN	_	3	mark	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	happened	happened	VBD	_	8	advcl	_	O
+4	to	to	TO	_	5	aux	_	O
+5	be	be	VB	_	3	xcomp	_	O
+6	Grayson	grayson	NNP	_	7	compound	_	B-PERSON
+7	Allen	allen	NNP	_	5	attr	_	L-PERSON
+8	...	..	.	pos2=,	0	root	_	O
+

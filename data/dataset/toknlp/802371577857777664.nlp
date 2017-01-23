@@ -1,0 +1,15 @@
+1	TF	tf	NN	pos2=NNP	6	vocative	_	O
+2	when	when	WRB	_	6	advmod	_	O
+3	you	you	PRP	_	6	nsubj	_	O
+4	ca	can	MD	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	get	get	VB	_	0	root	_	O
+7	your	your	PRP$	_	8	poss	_	O
+8	paycheck	paycheck	NN	_	6	dobj	_	O
+9	from	from	IN	_	6	prep	_	O
+10	George	george	NNP	_	11	compound	_	B-PERSON
+11	Soros	soros	NNP	_	9	pobj	_	L-PERSON
+12	.	.	.	_	6	punct	_	O
+
+1	https://t.co/C2XWd48TwM	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,18 @@
+1	Holla	holla	NNP	pos2=NN	0	root	_	O
+2	to	to	IN	_	1	prep	_	O
+3	all	all	PDT	pos2=DT	6	predet	_	O
+4	my	my	PRP$	_	6	poss	_	O
+5	bad	bad	JJ	_	6	nmod	_	O
+6	hombres	hombre	NNS	_	2	pobj	_	O
+7	who	who	WP	_	8	nsubj	_	O
+8	decided	decide	VBD	_	6	relcl	_	O
+9	to	to	TO	_	10	aux	_	O
+10	work	work	VB	_	8	xcomp	_	O
+11	today	today	NN	_	10	npadvmod	_	U-DATE
+12	and	and	CC	_	10	cc	_	O
+13	get	get	VB	_	10	conj	_	O
+14	that	that	DT	_	15	det	_	O
+15	money	money	NN	_	13	dobj	_	O
+16	$$$	$$	NFP	pos2=XX	13	discourse	_	U-CARDINAL
+17	#blackgrinday	#blackgrinday	UH	pos2=FW	1	discourse	_	O
+

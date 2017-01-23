@@ -1,0 +1,22 @@
+1	18	0	CD	pos2=LS	2	nmod	_	U-CARDINAL
+2	Yezidi	yezidi	NNS	pos2=NNP	6	dep	_	U-NORP
+3	|	|	SYM	pos2=,	6	punct	_	O
+4	s	s	NN	pos2=AFX	6	nsubj	_	O
+5	have	have	VBP	pos2=VB	6	aux	_	O
+6	fled	flee	VBN	_	0	root	_	O
+7	ISIS	isis	NNP	pos2=NN	6	dobj	_	U-ORG
+8	in	in	IN	_	6	prep	_	O
+9	Tal	tal	NNP	_	10	compound	_	B-GPE
+10	Afar	afar	NNP	_	8	pobj	_	L-GPE
+11	,	,	,	_	6	punct	_	O
+12	among	among	IN	_	6	prep	_	O
+13	them	them	PRP	pos2=DT	12	pobj	_	O
+14	women	woman	NNS	_	18	nmod	_	O
+15	,	,	,	_	10	punct	_	O
+16	West	west	NNP	pos2=RB	13	advmod	_	O
+17	of	of	IN	_	16	prep	_	O
+18	#Mosul	#mosul	NNP	_	17	pobj	_	U-GPE
+19	..	..	.	pos2=,	6	punct	_	O
+
+1	#MosulOffensive	#mosuloffensive	ADD	pos2=JJ	0	root	_	O
+

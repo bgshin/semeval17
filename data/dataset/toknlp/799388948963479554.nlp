@@ -1,0 +1,20 @@
+1	Chicken	chicken	NN	pos2=NNP	2	compound	_	O
+2	tenders	tender	NNS	_	0	root	_	O
+3	...	..	.	pos2=,	2	punct	_	O
+
+1	and	and	CC	_	15	cc	_	O
+2	frozen	frozen	JJ	pos2=VBN	3	nmod	_	O
+3	custard	custard	NN	_	6	nmod	_	O
+4	and	and	CC	_	3	cc	_	O
+5	crinkle	crinkle	NN	_	3	conj	_	O
+6	cuts	cut	NNS	pos2=NN	1	advcl	_	O
+7	and	and	CC	_	6	cc	_	O
+8	cheese	cheese	NN	_	9	compound	_	O
+9	curds	curd	NNS	_	6	conj	_	O
+10	and	and	CC	_	9	cc	_	O
+11	😋	😋	NNP	pos2=VB	12	compound	_	U-LOC
+12	@culvers	@culvers	NNS	pos2=NNPS	9	conj	_	O
+13	#TenderMomentsSweepstakes	#tendermomentssweepstakes	GW	pos2=NNS	15	nmod	_	O
+14	…	…	NFP	pos2=-LRB-	15	punct	_	O
+15	https://t.co/F26hgyER1q	#hlink#	ADD	pos2=NN	0	root	_	O
+

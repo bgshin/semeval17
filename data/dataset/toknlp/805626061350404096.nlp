@@ -1,0 +1,16 @@
+1	Cristiano	cristiano	NNP	_	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	8	dep	_	L-PERSON
+3	vs.	vs.	IN	pos2=CC	2	prep	_	O
+4	Billy	billy	NNP	_	5	compound	_	B-PERSON
+5	Wingrove	wingrove	NNP	_	3	pobj	_	L-PERSON
+6	:	:	:	_	8	punct	_	O
+7	I	I	PRP	_	8	nsubj	_	O
+8	got	get	VBD	_	0	root	_	O
+9	the	the	DT	_	10	det	_	O
+10	music	music	NN	_	8	dobj	_	O
+11	from	from	IN	_	8	prep	_	O
+12	here	here	RB	_	11	pcomp	_	O
+13	:	:	:	_	8	punct	_	O
+14	https://t.co/G0pEh7GsaP…	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/maQuRCPkug	#hlink#	ADD	_	8	dep	_	U-ORG
+

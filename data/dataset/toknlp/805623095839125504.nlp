@@ -1,0 +1,16 @@
+1	"	"	``	_	3	punct	_	O
+2	Gratitude	gratitude	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	flower	flower	NN	_	3	attr	_	O
+6	that	that	WDT	_	7	nsubj	_	O
+7	blooms	bloom	VBZ	pos2=NNS	5	relcl	_	O
+8	in	in	IN	pos2=RB	7	prep	_	O
+9	noble	noble	JJ	_	10	nmod	_	O
+10	souls	soul	NNS	_	8	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+12	"	"	''	_	3	punct	_	O
+
+1	POPE	pope	NNP	pos2=NN	2	compound	_	B-ORG
+2	FRANCIS	francis	NNP	pos2=NN	0	root	_	L-ORG
+

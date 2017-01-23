@@ -1,0 +1,7 @@
+1	@tssznews	@tssznews	UH	pos2=NNS	6	punct	_	O
+2	@TimmiTBoom	@timmitboom	NN	pos2=IN	5	compound	_	O
+3	Cough	cough	NN	pos2=NNP	4	compound	_	O
+4	Cough	cough	NN	pos2=NNP	5	compound	_	O
+5	Persona	persona	NN	pos2=NNP	0	root	_	O
+6	5	0	CD	_	5	npadvmod	_	U-CARDINAL
+

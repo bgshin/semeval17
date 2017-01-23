@@ -1,0 +1,8 @@
+1	#FantasticBeasts	#fantasticbeasts	NNS	pos2=ADD	6	nsubj	_	O
+2	for	for	IN	_	1	prep	_	O
+3	my	my	PRP$	_	5	poss	_	O
+4	last	last	JJ	_	5	nmod	_	B-DATE
+5	day	day	NN	_	2	pobj	_	L-DATE
+6	visiting	visit	VBG	_	0	root	_	O
+7	#chicago	#chicago	NN	pos2=.	6	dobj	_	O
+

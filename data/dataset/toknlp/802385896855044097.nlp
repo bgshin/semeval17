@@ -1,0 +1,17 @@
+1	my	my	PRP$	_	2	poss	_	O
+2	friend	friend	NN	_	4	nsubj	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	told	tell	VBD	_	7	ccomp	_	O
+5	me	me	PRP	_	4	dative	_	O
+6	trump	trump	NN	pos2=VB	4	dobj	_	O
+7	added	add	VBD	pos2=VBN	0	root	_	O
+8	brian	brian	JJ	pos2=RP	9	nmod	_	O
+9	mcknight	mcknight	NNP	pos2=NN	7	dobj	_	O
+10	to	to	IN	_	7	prep	_	O
+11	his	his	PRP$	_	12	poss	_	O
+12	cabinet	cabinet	NN	_	10	pobj	_	O
+13	and	and	CC	_	7	cc	_	O
+14	i	I	PRP	_	15	nsubj	_	O
+15	believed	believe	VBD	_	7	conj	_	O
+16	her	her	PRP	pos2=PRP$	15	dobj	_	O
+

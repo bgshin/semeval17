@@ -1,0 +1,12 @@
+1	New	new	JJ	pos2=NNP	3	nmod	_	O
+2	#BeautyAndTheBeast	#beautyandthebeast	JJ	pos2=NN	3	nmod	_	O
+3	photo	photo	NN	_	11	dep	_	O
+4	of	of	IN	_	3	prep	_	O
+5	Gaston	gaston	NNP	_	4	pobj	_	U-PERSON
+6	wooing	woo	VBG	_	3	acl	_	O
+7	Belle	belle	NNP	pos2=NNPS	8	compound	_	B-PERSON
+8	@EmmaWatson	@emmawatson	NNP	pos2=POS	9	compound	_	L-PERSON
+9	@TheRealLukevans	@thereallukevans	NNS	pos2=XX	6	dobj	_	O
+10	:	:	:	_	3	punct	_	O
+11	https://t.co/aWQ44RvT5p	#hlink#	ADD	pos2=NN	0	root	_	O
+

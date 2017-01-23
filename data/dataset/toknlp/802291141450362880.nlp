@@ -1,0 +1,10 @@
+1	A	a	DT	pos2=LS	5	det	_	O
+2	Deep	deep	JJ	pos2=NNP	5	nmod	_	O
+3	Learning	learning	NNP	pos2=NN	4	compound	_	O
+4	Supercomputer	supercomputer	NNP	pos2=NN	5	compound	_	O
+5	Approach	approach	NN	pos2=NNP	9	dep	_	O
+6	to	to	IN	_	5	prep	_	O
+7	Cancer	cancer	NNP	_	8	compound	_	B-ORG
+8	Research	research	NNP	pos2=NN	6	pobj	_	L-ORG
+9	https://t.co/HJmZZRawfg	#hlink#	ADD	pos2=NNP	0	root	_	O
+

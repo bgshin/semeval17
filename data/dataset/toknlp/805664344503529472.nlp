@@ -1,0 +1,18 @@
+1	Minimum	minimum	JJ	pos2=NN	3	nmod	_	O
+2	wage	wage	NN	_	3	compound	_	O
+3	law	law	NN	_	6	nsubj	_	O
+4	still	still	RB	_	6	advmod	_	O
+5	not	not	RB	_	6	neg	_	O
+6	cutting	cut	VBG	_	0	root	_	O
+7	it	it	PRP	_	6	dobj	_	O
+8	for	for	IN	_	6	prep	_	O
+9	garment	garment	NN	_	10	compound	_	O
+10	workers	worker	NNS	_	8	pobj	_	O
+11	:	:	:	_	13	punct	_	O
+12	@PVamplify	@pvamplify	JJ	pos2=NN	13	nmod	_	O
+13	report	report	NN	pos2=VB	17	dep	_	O
+14	|	|	,	pos2=GW	17	punct	_	O
+15	#Myanmar	#myanmar	NFP	pos2=GW	17	punct	_	O
+16	https://t.co/zaCFfHOi00	#hlink#	ADD	_	17	nmod	_	O
+17	https://t.co/XbP7SMhfPD	#hlink#	ADD	pos2=NN	6	dep	_	U-ORG
+

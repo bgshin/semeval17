@@ -1,0 +1,23 @@
+1	@rtoberl	@rtoberl	UH	pos2=MD	5	discourse	_	O
+2	i	I	PRP	_	5	nsubj	_	O
+3	DO	do	VBP	_	5	aux	_	O
+4	N'T	not	RB	_	5	neg	_	O
+5	KNOW	know	VB	pos2=VBP	0	root	_	O
+6	IF	if	IN	_	9	mark	_	O
+7	YOU	you	PRP	_	9	nsubj	_	O
+8	HAVE	have	VBP	_	9	aux	_	O
+9	READ	read	VBN	_	16	advcl	_	O
+10	THIS	this	DT	_	11	det	_	O
+11	POST	post	NN	pos2=NNP	9	dobj	_	O
+12	IN	in	IN	_	9	prep	_	O
+13	MY	my	PRP$	_	14	poss	_	O
+14	BLOG	blog	NN	_	12	pobj	_	U-FAC
+15	>	>	,	pos2=-LRB-	16	punct	_	O
+16	https://t.co/EroAhTfDoV	#hlink#	ADD	pos2=NN	5	ccomp	_	O
+17	IN	in	IN	_	21	prep	_	O
+18	WHICH	which	WDT	_	17	pobj	_	O
+19	I	I	PRP	_	21	nsubj	_	O
+20	HAVE	have	VBP	_	21	aux	_	O
+21	USED	use	VBN	_	16	relcl	_	O
+22	VIDEOS	video	NNS	pos2=NNP	21	dobj	_	O
+

@@ -1,0 +1,18 @@
+1	Hey	hey	UH	_	2	discourse	_	O
+2	@BernieSanders	@berniesanders	NNS	pos2=ADD	7	vocative	_	O
+3	@elizabethforma	@elizabethforma	UH	pos2=MD	7	discourse	_	O
+4	Have	have	VBP	_	7	aux	_	O
+5	you	you	PRP	_	7	nsubj	_	O
+6	ever	ever	RB	_	7	advmod	_	O
+7	told	tell	VBD	pos2=VBN	0	root	_	O
+8	your	your	PRP$	_	9	poss	_	O
+9	supporters	supporter	NNS	_	7	dobj	_	O
+10	about	about	IN	_	7	prep	_	O
+11	the	the	DT	_	14	det	_	O
+12	1	0	CD	_	13	nmod	_	B-DATE
+13	st	st	NN	pos2=AFX	14	compound	_	L-DATE
+14	Thanksgiving	thanksgiving	NNP	_	10	pobj	_	U-EVENT
+15	?	?	.	_	7	punct	_	O
+
+1	https://t.co/cIbpcgTYLk	#hlink#	ADD	_	0	root	_	U-ORG
+

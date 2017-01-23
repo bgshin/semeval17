@@ -1,0 +1,15 @@
+1	Obama	obama	NNP	pos2=NN	4	nsubj	_	U-PERSON
+2	will	will	MD	_	4	aux	_	O
+3	not	not	RB	_	4	neg	_	O
+4	restrict	restrict	VB	_	0	root	_	O
+5	drone	drone	NN	_	6	compound	_	O
+6	strike	strike	NN	pos2=VB	4	dobj	_	O
+7	'	'	``	pos2=''	8	punct	_	O
+8	playbook	playbook	NN	pos2=NNS	6	appos	_	O
+9	'	'	''	_	8	punct	_	O
+10	before	before	IN	_	12	mark	_	O
+11	Trump	trump	NNP	pos2=NN	12	nsubj	_	U-PERSON
+12	takes	take	VBZ	_	4	advcl	_	O
+13	office	office	NN	_	12	dobj	_	O
+14	https://t.co/wKsZTDVnkp	#hlink#	ADD	pos2=NN	4	dep	_	U-ORG
+

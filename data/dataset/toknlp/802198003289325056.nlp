@@ -1,0 +1,16 @@
+1	PuterPrsn	puterprsn	NNP	_	4	poss	_	U-ORG
+2	's	's	POS	pos2=VBZ	1	case	_	O
+3	Nifty	nifty	NNP	pos2=JJ	4	compound	_	B-ORG
+4	News™	news™	NNP	pos2=NN	5	nsubj	_	L-ORG
+5	is	be	VBZ	_	0	root	_	O
+6	out	out	RB	pos2=RP	5	advmod	_	O
+7	!	!	.	_	5	punct	_	O
+
+1	https://t.co/2FoDtx22NL	#hlink#	ADD	pos2=NN	7	punct	_	O
+2	Stories	story	NNS	pos2=NNPS	7	dep	_	O
+3	via	via	IN	_	2	prep	_	O
+4	@maxnrgmax	@maxnrgmax	NNP	pos2=XX	3	pobj	_	U-FAC
+5	@indyrallen	@indyrallen	UH	pos2=NNP	7	discourse	_	O
+6	#yemencrisis	#yemencrisis	UH	pos2=FW	7	discourse	_	O
+7	#yemen	#yemen	UH	pos2=.	0	root	_	O
+

@@ -1,0 +1,21 @@
+1	Come	come	VB	_	0	root	_	O
+2	down	down	RP	pos2=RB	1	prt	_	O
+3	from	from	IN	_	1	prep	_	O
+4	Thanksgiving	thanksgiving	NNP	_	3	pobj	_	U-DATE
+5	with	with	IN	_	1	prep	_	O
+6	a	a	DT	_	8	det	_	O
+7	new	new	JJ	_	8	nmod	_	O
+8	#Lootcrate	#lootcrate	NNP	pos2=NN	5	pobj	_	U-ORG
+9	.	.	.	_	1	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	magical	magical	JJ	_	2	acomp	_	O
+4	~	~	SYM	pos2=NFP	2	punct	_	O
+5	!	!	.	_	2	punct	_	O
+
+1	#DoctorStrange	#doctorstrange	ADD	pos2=XX	4	nmod	_	O
+2	#FantasticBeasts	#fantasticbeasts	GW	pos2=NNS	4	nmod	_	O
+3	#GameofThrones	#gameofthrones	GW	pos2=ADD	4	nmod	_	O
+4	https://t.co/QXU2vsdbv4	#hlink#	ADD	pos2=NN	0	root	_	O
+

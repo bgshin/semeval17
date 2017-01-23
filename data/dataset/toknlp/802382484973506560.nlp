@@ -1,0 +1,22 @@
+1	@DrJillStein	@drjillstein	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Garbage	garbage	NNP	pos2=NN	0	root	_	L-PERSON
+3	.	.	.	_	2	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	're	be	VBP	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	liar	liar	NN	_	2	attr	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	pocket	pocket	NN	_	3	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	George	george	NNP	_	8	compound	_	B-PERSON
+8	Soros	soros	NNP	_	6	pobj	_	L-PERSON
+9	and	and	CC	_	8	cc	_	O
+10	Hillary	hillary	NNP	_	8	conj	_	U-PERSON
+11	.	.	.	_	2	punct	_	O
+

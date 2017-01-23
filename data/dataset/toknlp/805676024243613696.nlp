@@ -1,0 +1,22 @@
+1	Fantastic	fantastic	JJ	_	2	nmod	_	O
+2	idea	idea	NN	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Imagine	imagine	VB	_	0	root	_	O
+2	Tory	tory	NNP	pos2=JJ	3	compound	_	O
+3	UK	uk	NNP	_	4	nsubj	_	U-GPE
+4	trying	try	VBG	_	1	ccomp	_	O
+5	this	this	DT	_	4	dobj	_	O
+6	?	?	.	_	1	punct	_	O
+
+1	More	more	RBR	_	2	advmod	_	O
+2	likely	likely	JJ	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	push	push	VB	_	2	xcomp	_	O
+5	for	for	IN	_	4	prep	_	O
+6	euthanasia	euthanasia	NN	_	7	compound	_	O
+7	law	law	NN	_	5	pobj	_	O
+8	....	..	.	_	2	punct	_	O
+
+1	https://t.co/bWWKFEs8rg	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,13 @@
+1	Trump	trump	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	owns	own	VBZ	_	0	root	_	O
+3	stock	stock	NN	_	2	dobj	_	O
+4	in	in	IN	_	2	prep	_	O
+5	company	company	NN	_	4	pobj	_	O
+6	building	build	VBG	pos2=NN	5	acl	_	O
+7	Dakota	dakota	NNP	_	9	compound	_	B-ORG
+8	Access	access	NNP	pos2=GW	9	compound	_	L-ORG
+9	pipeline	pipeline	NN	_	6	dobj	_	O
+10	:	:	:	_	12	punct	_	O
+11	https://t.co/YnoPHbO5Ct	#hlink#	ADD	_	12	nmod	_	O
+12	https://t.co/xiBmWSmDe2	#hlink#	ADD	_	2	dep	_	U-ORG
+

@@ -1,0 +1,25 @@
+1	List	list	NN	_	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	people	people	NNS	_	2	pobj	_	O
+4	I	I	PRP	_	6	nsubj	_	O
+5	'd	would	MD	_	6	aux	_	O
+6	love	love	VB	_	1	relcl	_	O
+7	to	to	TO	_	8	aux	_	O
+8	punch	punch	VB	_	6	xcomp	_	O
+9	in	in	IN	pos2=RP	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	mouth:1	mouth:0	NN	pos2=NNP	9	pobj	_	O
+12	.	.	.	_	1	punct	_	O
+
+1	Grayson	grayson	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Allen2	allen0	NNP	pos2=NN	0	root	_	L-PERSON
+3	.	.	.	_	2	punct	_	O
+
+1	Josh	josh	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Norman3	norman0	NNP	pos2=NN	0	root	_	L-PERSON
+3	.	.	.	_	2	punct	_	O
+
+1	Josh	josh	NNP	_	2	compound	_	B-PERSON
+2	Norman	norman	NNP	_	0	root	_	L-PERSON
+3	again	again	RB	_	2	advmod	_	O
+

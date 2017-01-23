@@ -1,0 +1,24 @@
+1	Since	since	IN	_	3	mark	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	7	advcl	_	O
+4	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=NNP	3	attr	_	O
+5	I	I	PRP	_	7	nsubj	_	O
+6	'll	will	MD	_	7	aux	_	O
+7	have	have	VB	_	0	root	_	O
+8	two	#crd#	CD	_	10	nmod	_	U-CARDINAL
+9	number	number	NN	_	10	compound	_	O
+10	9s	0s	NNS	_	7	dobj	_	O
+11	,	,	,	_	10	punct	_	O
+12	a	a	DT	_	13	det	_	O
+13	number	number	NN	_	15	npadvmod	_	O
+14	9	0	CD	_	13	nmod	_	U-CARDINAL
+15	large	large	JJ	pos2=RB	10	nmod	_	O
+16	,	,	,	_	13	punct	_	O
+17	a	a	DT	_	18	det	_	O
+18	number	number	NN	_	13	appos	_	O
+19	6	0	CD	_	18	nmod	_	U-CARDINAL
+20	with	with	IN	_	18	prep	_	O
+21	extra	extra	JJ	_	22	nmod	_	O
+22	dip	dip	NN	_	20	pobj	_	O
+23	....	..	.	pos2=,	7	punct	_	O
+

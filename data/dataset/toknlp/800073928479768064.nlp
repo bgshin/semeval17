@@ -1,0 +1,14 @@
+1	The	the	DT	_	4	det	_	B-ORG
+2	#NBAwards	#nbawards	NNP	pos2=NNPS	3	compound	_	I-ORG
+3	Fiction	fiction	NNP	pos2=NN	4	compound	_	L-ORG
+4	panel	panel	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	about	about	JJ	_	5	acomp	_	O
+7	to	to	TO	_	8	aux	_	O
+8	begin	begin	VB	_	6	xcomp	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	https://t.co/dVCddB4DLl	#hlink#	ADD	_	3	nmod	_	O
+2	#MiamiBookFair2016	#miamibookfair0	ADD	pos2=GW	0	root	_	O
+3	https://t.co/9NaQopLmH8	#hlink#	ADD	pos2=NN	2	pobj	_	O
+

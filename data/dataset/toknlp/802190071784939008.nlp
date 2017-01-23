@@ -1,0 +1,17 @@
+1	Fuck	fuck	VB	pos2=NN	0	root	_	O
+2	anyone	anyone	NN	_	1	dobj	_	O
+3	affiliated	affiliate	VBN	pos2=JJ	2	acl	_	O
+4	with	with	IN	_	3	prep	_	O
+5	the	the	DT	_	8	det	_	B-ORG
+6	Dakota	dakota	NNP	_	8	compound	_	I-ORG
+7	Access	access	NNP	_	8	compound	_	I-ORG
+8	Pipeline	pipeline	NNP	pos2=NN	4	pobj	_	L-ORG
+9	...	..	.	pos2=,	1	punct	_	O
+
+1	"	"	``	_	6	punct	_	O
+2	You	you	PRP	_	3	nmod	_	O
+3	bitch	bitch	NN	pos2=VBP	6	nmod	_	O
+4	*	*	NFP	pos2=VBG	6	punct	_	O
+5	webbie	webbie	NN	pos2=JJ	6	compound	_	U-PERSON
+6	voice	voice	NN	_	0	root	_	O
+

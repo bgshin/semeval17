@@ -1,0 +1,29 @@
+1	@ranieri_renata	@ranieri_renata	UH	pos2=NN	4	discourse	_	O
+2	yeah	yeah	UH	_	4	discourse	_	O
+3	good	good	JJ	_	4	nmod	_	O
+4	point	point	NN	_	7	npadvmod	_	O
+5	,	,	,	_	7	punct	_	O
+6	I	I	PRP	_	7	nsubj	_	O
+7	forgot	forget	VBD	pos2=VBP	0	root	_	O
+8	that	that	IN	pos2=DT	10	mark	_	O
+9	veganism	veganism	NN	_	10	nsubj	_	O
+10	requires	require	VBZ	_	7	ccomp	_	O
+11	a	a	DT	_	12	det	_	O
+12	lot	lot	NN	_	10	dobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	thought	thought	NN	pos2=VBN	13	pobj	_	O
+15	in	in	IN	_	10	prep	_	O
+16	that	that	DT	_	17	det	_	O
+17	sense	sense	NN	_	15	pobj	_	O
+18	!	!	.	_	7	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	'm	be	VBP	_	3	aux	_	O
+3	defo	defo	VBG	pos2=JJ	0	root	_	O
+4	with	with	IN	_	3	prep	_	O
+5	you	you	PRP	_	4	pobj	_	O
+6	on	on	IN	_	3	prep	_	O
+7	vegetarianism	vegetarianism	NN	_	6	pobj	_	O
+8	though	though	RB	pos2=IN	3	advmod	_	O
+9	!	!	.	_	3	punct	_	O
+

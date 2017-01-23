@@ -1,0 +1,12 @@
+1	@AE_Hutchinson	@ae_hutchinson	ADD	pos2=NN	10	punct	_	O
+2	@Strozan1	@strozan0	NN	pos2=CD	10	aux	_	O
+3	@HoopingHeaven	@hoopingheaven	ADD	pos2=NNP	10	punct	_	O
+4	@streetsdiscipIe	@streetsdiscipie	NNP	pos2=XX	6	nmod	_	U-ORG
+5	@utahjazz	@utahjazz	UH	pos2=XX	6	discourse	_	O
+6	@AFCU	@afcu	NN	pos2=ADD	3	pobj	_	O
+7	@vine	@vine	UH	pos2=IN	10	discourse	_	O
+8	y'all	y'all	PRP	_	10	nsubj	_	O
+9	should	should	MD	_	10	aux	_	O
+10	read	read	VB	_	0	root	_	O
+11	yaselves	yaselves	NNS	pos2=PRP	10	dobj	_	O
+

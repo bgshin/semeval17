@@ -1,0 +1,12 @@
+1	Evaluating	evaluate	VBG	_	0	root	_	O
+2	the	the	DT	_	6	det	_	O
+3	BBWAA	bbwaa	NNP	_	5	compound	_	U-ORG
+4	Cy	cy	NNP	pos2=NN	5	compound	_	O
+5	Young	young	NNP	pos2=JJ	6	compound	_	O
+6	voting	voting	NN	pos2=VBG	1	dobj	_	O
+7	through	through	IN	_	1	prep	_	O
+8	the	the	DT	_	9	det	_	B-DATE
+9	years	year	NNS	_	7	pobj	_	L-DATE
+10	https://t.co/SdTjeDfDq9	#hlink#	ADD	pos2=POS	6	appos	_	O
+11	#fantasybaseball	#fantasybaseball	-RRB-	pos2=.	1	punct	_	O
+

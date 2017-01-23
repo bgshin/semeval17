@@ -1,0 +1,24 @@
+1	@FoxNews	@foxnews	NNS	pos2=ADD	2	nsubj	_	O
+2	@KellyannePolls	@kellyannepolls	VBZ	pos2=IN	0	root	_	O
+3	Its	its	PRP$	pos2=NNP	5	poss	_	O
+4	a	a	DT	_	5	det	_	O
+5	waste	waste	NN	_	2	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	taxpayer	taxpayer	NN	_	8	compound	_	O
+8	money	money	NN	_	6	pobj	_	O
+9	and	and	CC	_	2	cc	_	O
+10	just	just	RB	_	11	advmod	_	O
+11	makes	make	VBZ	_	2	conj	_	O
+12	her	her	PRP$	pos2=PRP	13	nsubj	_	O
+13	look	look	VB	pos2=NN	11	ccomp	_	O
+14	bitter	bitter	JJ	_	13	acomp	_	O
+15	and	and	CC	_	14	cc	_	O
+16	stupid	stupid	JJ	_	14	conj	_	O
+17	.	.	.	_	2	punct	_	O
+
+1	Thus	thus	RB	_	3	advmod	_	O
+2	the	the	DT	_	4	det	_	O
+3	#draintheswamp	#draintheswamp	JJ	pos2=NN	4	nmod	_	O
+4	mentality	mentality	NN	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+

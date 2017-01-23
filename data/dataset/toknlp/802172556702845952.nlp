@@ -1,0 +1,14 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	AI	be	VBP	pos2=MD	4	aux	_	O
+3	NT	nt	RB	pos2=NNP	4	advmod	_	O
+4	KNOW	know	VB	pos2=VBP	0	root	_	O
+5	THEY	they	PRP	_	6	nsubj	_	O
+6	DID	do	VBD	_	4	ccomp	_	O
+7	GLEN	glen	NNP	_	6	dobj	_	U-PERSON
+8	LIKE	like	IN	pos2=NNP	6	prep	_	O
+9	THAT	that	DT	_	8	pobj	_	O
+10	!!!	!!	.	_	4	punct	_	O
+
+1	#TheWalkingDead	#thewalkingdead	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/pxgEdiBeAj	#hlink#	ADD	_	0	root	_	O
+

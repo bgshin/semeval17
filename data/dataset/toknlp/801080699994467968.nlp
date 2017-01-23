@@ -1,0 +1,23 @@
+1	Excellent	excellent	JJ	pos2=UH	2	nmod	_	O
+2	read	read	NN	pos2=VBN	22	dep	_	O
+3	to	to	TO	_	4	aux	_	O
+4	understand	understand	VB	_	2	advcl	_	O
+5	#MosulOffensive	#mosuloffensive	NN	pos2=XX	4	dobj	_	O
+6	:	:	:	_	22	punct	_	O
+7	On	on	IN	_	22	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	ground	ground	NN	_	7	pobj	_	O
+10	in	in	IN	_	9	prep	_	O
+11	Mosul	mosul	NNP	_	10	pobj	_	U-GPE
+12	:	:	:	_	22	punct	_	O
+13	why	why	WRB	_	20	advmod	_	O
+14	the	the	DT	_	18	det	_	O
+15	worst	bad	JJS	pos2=RBS	17	nmod	_	O
+16	-	-	HYPH	_	17	punct	_	O
+17	case	case	NN	_	18	compound	_	O
+18	scenarios	scenario	NNS	_	20	nsubj	_	O
+19	are	be	VBP	_	20	aux	_	O
+20	coming	come	VBG	_	22	dep	_	O
+21	true	true	JJ	pos2=RB	22	nmod	_	O
+22	https://t.co/PCCQ1Ta9Ap	#hlink#	ADD	pos2=NN	0	root	_	O
+

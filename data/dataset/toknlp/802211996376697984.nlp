@@ -1,0 +1,28 @@
+1	@krl_brndn	@krl_brndn	NNP	pos2=UH	18	vocative	_	U-ORG
+2	@BosnjoBoy	@bosnjoboy	ADD	pos2=UH	18	punct	_	O
+3	@deSyracuse	@desyracuse	IN	pos2=VBD	2	prep	_	O
+4	the	the	DT	_	6	det	_	O
+5	only	only	JJ	_	6	nmod	_	O
+6	one	#crd#	CD	_	3	pobj	_	O
+7	in	in	IN	_	6	prep	_	O
+8	town	town	NN	_	7	pobj	_	O
+9	to	to	TO	_	11	aux	_	O
+10	have	have	VB	pos2=VBP	11	aux	_	O
+11	fought	fight	VBN	_	6	relcl	_	O
+12	#ISIS	#isis	NN	pos2=ADD	10	dobj	_	O
+13	*	*	SYM	pos2=NFP	12	punct	_	O
+14	in	in	IN	_	11	prep	_	O
+15	that	that	DT	_	16	det	_	O
+16	region	region	NN	_	14	pobj	_	O
+17	*	*	SYM	pos2=NFP	18	punct	_	O
+18	is	be	VBZ	_	0	root	_	O
+19	#FSA	#fsa	NN	pos2=$	18	attr	_	O
+20	.	.	.	_	18	punct	_	O
+
+1	Assad	assad	NNP	pos2=JJ	3	compound	_	U-PERSON
+2	regime	regime	NN	_	3	compound	_	O
+3	strike	strike	NN	pos2=VB	5	nsubj	_	O
+4	only	only	RB	_	5	advmod	_	O
+5	helps	help	VBZ	_	0	root	_	O
+6	Daesh	daesh	NNP	_	5	dobj	_	U-ORG
+

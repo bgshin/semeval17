@@ -1,0 +1,23 @@
+1	Poor	poor	JJ	pos2=NNP	3	nmod	_	O
+2	Tommy	tommy	NNP	_	3	compound	_	U-PERSON
+3	prob	prob	NN	pos2=RB	4	nsubj	_	O
+4	thought	think	VBD	_	0	root	_	O
+5	his	his	PRP$	_	6	poss	_	O
+6	surge	surge	NN	_	10	nsubj	_	O
+7	in	in	IN	_	6	prep	_	O
+8	followers	follower	NNS	_	7	pobj	_	O
+9	would	would	MD	_	10	aux	_	O
+10	go	go	VB	_	4	ccomp	_	O
+11	unnoticed	unnoticed	JJ	_	10	acomp	_	O
+12	while	while	IN	_	15	mark	_	O
+13	people	people	NNS	_	15	nsubjpass	_	O
+14	were	be	VBD	_	15	auxpass	_	O
+15	distracted	distract	VBN	_	10	advcl	_	O
+16	by	by	IN	_	15	agent	_	O
+17	the	the	DT	_	18	det	_	O
+18	election	election	NN	_	16	pobj	_	O
+19	.	.	.	_	4	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/NpkVUldZut	#hlink#	ADD	pos2=NN	0	root	_	O
+

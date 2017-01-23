@@ -1,0 +1,13 @@
+1	Are	be	VBP	_	0	root	_	O
+2	The	the	DT	_	4	det	_	B-NORP
+3	Young	young	NNP	pos2=JJ	4	compound	_	I-NORP
+4	Turks	turk	NNPS	pos2=NNP	1	attr	_	L-NORP
+5	Funded	fund	VBN	pos2=NNP	4	acl	_	O
+6	by	by	IN	_	5	agent	_	O
+7	George	george	NNP	_	8	compound	_	B-PERSON
+8	Soros	soros	NNP	_	6	pobj	_	L-PERSON
+9	?	?	.	_	1	punct	_	O
+
+1	https://t.co/rTHXN3cfX9	#hlink#	ADD	_	2	nsubj	_	O
+2	#unitedstates	#unitedstates	NNS	pos2=UH	0	root	_	O
+

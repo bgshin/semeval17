@@ -1,0 +1,18 @@
+1	Untrustworthy	untrustworthy	JJ	_	2	nmod	_	U-NORP
+2	journalists	journalist	NNS	_	3	nsubj	_	O
+3	left	leave	VBD	_	0	root	_	O
+4	us	us	PRP	_	3	dobj	_	O
+5	vulnerable	vulnerable	JJ	_	3	oprd	_	O
+6	to	to	IN	_	5	prep	_	O
+7	fake	fake	JJ	_	8	nmod	_	O
+8	news	news	NN	_	6	pobj	_	O
+9	:	:	:	_	12	punct	_	O
+10	Steve	steve	NNP	_	11	compound	_	B-PERSON
+11	Deace	deace	NNP	pos2=GW	12	dep	_	L-PERSON
+12	https://t.co/CGGNBDMY5a	#hlink#	ADD	pos2=NNP	8	acl	_	O
+13	via	via	IN	_	12	prep	_	O
+14	@USATODAY	@usatoday	NNP	pos2=NN	13	pobj	_	U-DATE
+15	#college	#college	UH	pos2=XX	16	discourse	_	O
+16	#Democrats	#democrats	NNPS	pos2=NNS	17	dep	_	U-NORP
+17	#UniteBlue	#uniteblue	ADD	pos2=NNP	13	pobj	_	O
+

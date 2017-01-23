@@ -1,0 +1,20 @@
+1	@JayTStewart	@jaytstewart	NN	pos2=NNP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	n't	not	RB	_	2	neg	_	O
+4	he	he	PRP	_	2	nsubj	_	O
+5	the	the	DT	_	7	det	_	O
+6	ultra	ultra	JJ	pos2=NNP	7	nmod	_	O
+7	conservative	conservative	JJ	_	11	nmod	_	O
+8	anti	anti	AFX	pos2=NN	10	advmod	_	O
+9	-	-	HYPH	_	10	punct	_	O
+10	gay	gay	JJ	pos2=NN	11	nmod	_	O
+11	marriage	marriage	NN	_	2	attr	_	O
+12	,	,	,	_	11	punct	_	O
+13	anti-abortion	anti-abortion	JJ	pos2=NN	11	nmod	_	O
+14	,	,	,	_	18	punct	_	O
+15	anti	anti	AFX	pos2=NN	17	advmod	_	O
+16	-	-	HYPH	_	17	punct	_	O
+17	everything	everything	NN	_	18	nmod	_	O
+18	guy	guy	NN	_	19	ccomp	_	O
+19	?	?	.	_	2	punct	_	O
+

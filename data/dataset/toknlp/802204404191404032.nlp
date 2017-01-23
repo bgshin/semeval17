@@ -1,0 +1,21 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	was	be	VBD	_	3	aux	_	O
+3	going	go	VBG	_	12	advcl	_	O
+4	through	through	IN	_	3	prep	_	O
+5	the	the	DT	_	9	det	_	O
+6	Persona	persona	NNP	pos2=NN	9	nmod	_	O
+7	5	0	CD	pos2=NNP	6	nmod	_	U-CARDINAL
+8	English	english	NNP	pos2=JJ	9	compound	_	U-LANGUAGE
+9	website	website	NN	_	4	pobj	_	O
+10	,	,	,	_	12	punct	_	O
+11	I	I	PRP	_	12	nsubj	_	O
+12	saw	see	VBD	_	0	root	_	O
+13	Akechi	akechi	NNP	_	12	dobj	_	U-PERSON
+14	and	and	CC	_	13	cc	_	O
+15	my	my	PRP$	_	16	poss	_	O
+16	heart	heart	NN	_	17	nsubj	_	O
+17	melted	melt	VBN	pos2=VBD	12	ccomp	_	O
+18	.	.	.	_	12	punct	_	O
+
+1	https://t.co/t4sOCnaUvM	#hlink#	ADD	_	0	root	_	U-ORG
+

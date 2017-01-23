@@ -1,0 +1,14 @@
+1	FREE	free	JJ	pos2=NNP	4	nmod	_	O
+2	Amazon	amazon	NNP	_	4	compound	_	O
+3	Prime	prime	NNP	_	4	compound	_	O
+4	Shipping	shipping	NNP	pos2=NN	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+
+1	https://t.co/1DlDPucY0f	#hlink#	ADD	_	2	nsubj	_	O
+2	#fantasysports	#fantasysports	VBZ	pos2=NNS	0	root	_	O
+3	#FantasyHockey	#fantasyhockey	NN	pos2=ADD	2	dobj	_	O
+4	#FantasyFootball	#fantasyfootball	ADD	pos2=GW	7	nmod	_	O
+5	#FantasticBeasts	#fantasticbeasts	GW	pos2=NNS	7	nmod	_	O
+6	…	…	NFP	pos2=GW	7	punct	_	O
+7	https://t.co/phQh7EtcpS	#hlink#	ADD	_	2	dep	_	O
+

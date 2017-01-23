@@ -1,0 +1,12 @@
+1	Barak	barak	NNP	_	2	compound	_	B-PERSON
+2	Obama	obama	NNP	_	11	dep	_	L-PERSON
+3	|	|	SYM	pos2=,	11	punct	_	O
+4	highlighting	highlight	VBG	_	11	dep	_	O
+5	the	the	DT	_	8	det	_	O
+6	many	many	JJ	_	8	nmod	_	O
+7	broken	broken	JJ	pos2=VBN	8	nmod	_	O
+8	promises	promise	NNS	_	4	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	Obamacare	obamacare	NNP	_	9	pobj	_	O
+11	https://t.co/3j6ATrSSB2	#hlink#	ADD	pos2=NNP	0	root	_	O
+

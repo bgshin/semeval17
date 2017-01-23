@@ -1,0 +1,19 @@
+1	#Japan	#japan	NNP	pos2=PRP$	2	compound	_	B-ORG
+2	Issues	issue	NNPS	pos2=NNS	4	compound	_	I-ORG
+3	Emergency	emergency	NNP	_	4	compound	_	I-ORG
+4	Pamphlets	pamphlet	NNPS	pos2=NNS	6	nsubj	_	L-ORG
+5	to	to	TO	pos2=IN	6	aux	_	O
+6	Inform	inform	VB	pos2=NNP	0	root	_	O
+7	Citizens	citizen	NNPS	pos2=NNS	6	dobj	_	U-ORG
+8	to	to	TO	pos2=IN	9	aux	_	O
+9	Prepare	prepare	VB	_	6	xcomp	_	O
+10	for	for	IN	_	9	prep	_	O
+11	Possible	possible	JJ	_	13	nmod	_	O
+12	#Nuclear	#nuclear	NNP	pos2=XX	13	compound	_	O
+13	#War	#war	NNP	pos2=NN	10	pobj	_	O
+14	with	with	IN	_	13	prep	_	O
+15	North	north	NNP	pos2=JJ	16	compound	_	B-NORP
+16	#Korea	#korea	NNP	pos2=NN	14	pobj	_	L-NORP
+17	:	:	:	_	18	punct	_	O
+18	https://t.co/uqqO3YVGur	#hlink#	ADD	pos2=NN	0	root	_	O
+

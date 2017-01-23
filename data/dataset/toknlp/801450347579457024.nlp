@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det	_	O
+2	latest	late	JJS	_	4	advmod	_	O
+3	The	the	DT	pos2=NNP	5	det	_	B-ORG
+4	Daily	daily	NNP	_	5	compound	_	I-ORG
+5	Library	library	NNP	pos2=NN	0	root	_	L-ORG
+6	!	!	.	_	2	punct	_	O
+
+1	https://t.co/HBCSuveT96	#hlink#	ADD	pos2=NN	0	root	_	O
+2	Thanks	thanks	NNS	pos2=NN	1	npadvmod	_	O
+3	to	to	IN	_	4	aux	_	O
+4	@BaileysPrize	@baileysprize	VB	pos2=NNP	2	xcomp	_	O
+5	#nbawards	#nbawards	NNS	pos2=UH	6	compound	_	O
+6	#libraries	#libraries	NNS	pos2=UH	4	dobj	_	O
+

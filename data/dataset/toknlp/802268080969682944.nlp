@@ -1,0 +1,18 @@
+1	Also	also	RB	_	3	advmod	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	call	call	VBP	_	0	root	_	O
+4	em	em	PRP	pos2=NN	3	dobj	_	O
+5	"	"	``	_	11	punct	_	O
+6	Duncan	duncan	NNP	_	11	poss	_	U-PERSON
+7	's	's	POS	pos2=VBZ	6	case	_	O
+8	"	"	``	pos2=''	9	punct	_	O
+9	cuz	cuz	IN	pos2=FW	11	nmod	_	O
+10	"	"	''	pos2=``	9	punct	_	O
+11	timbs	timbs	NNS	pos2=FW	3	oprd	_	O
+12	"	"	''	pos2=``	11	punct	_	O
+13	=	=	SYM	pos2=-LRB-	3	punct	_	O
+14	"	"	``	pos2=''	16	punct	_	O
+15	tim	tim	NN	pos2=PRP	11	appos	_	O
+16	's	's	POS	pos2=VBZ	15	case	_	O
+17	"	"	''	pos2=``	3	punct	_	O
+

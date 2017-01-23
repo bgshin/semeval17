@@ -1,0 +1,22 @@
+1	@MUHAMMA52604469	@muhamma0	NN	pos2=CD	7	dep	_	O
+2	MUHAMMAD	muhammad	NNP	pos2=NN	5	compound	_	B-PERSON
+3	BABAR	babar	NNP	pos2=NN	5	compound	_	I-PERSON
+4	ALI	ali	NNP	_	5	compound	_	I-PERSON
+5	Howdy	howdy	NNP	_	7	vocative	_	L-PERSON
+6	I	I	PRP	_	7	nsubj	_	O
+7	invite	invite	VBP	pos2=VB	0	root	_	O
+8	you	you	PRP	_	7	dobj	_	O
+9	to	to	IN	_	7	prep	_	O
+10	this	this	DT	_	15	det	_	O
+11	particular	particular	JJ	_	13	nmod	_	O
+12	porn	porn	NN	_	13	compound	_	O
+13	cam	cam	NN	pos2=FW	9	pobj	_	O
+14	free	free	JJ	pos2=TO	15	nmod	_	O
+15	sign	sign	NN	pos2=VB	17	nmod	_	O
+16	up	up	RP	pos2=IN	15	prt	_	O
+17	Click	click	NNP	pos2=VB	12	dobj	_	O
+18	on	on	IN	_	17	prep	_	O
+19	my	my	PRP$	_	20	poss	_	O
+20	profile	profile	NN	_	18	pobj	_	O
+21	.	.	.	_	7	punct	_	O
+

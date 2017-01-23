@@ -1,0 +1,28 @@
+1	@kievaliant	@kievaliant	UH	pos2=VB	3	discourse	_	O
+2	@MichaelCordier	@michaelcordier	TO	pos2=NN	3	aux	_	O
+3	count	count	VB	_	0	root	_	O
+4	them	them	PRP	_	3	dobj	_	O
+5	for	for	IN	_	3	prep	_	O
+6	what	what	WP	_	5	pobj	_	O
+7	??	??	.	_	3	punct	_	O
+
+1	Why	why	WRB	_	5	advmod	_	O
+2	do	do	VBP	_	5	aux	_	O
+3	n't	not	RB	_	5	neg	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	worry	worry	VB	_	0	root	_	O
+6	about	about	IN	_	5	prep	_	O
+7	voter	voter	NN	_	8	compound	_	O
+8	registration	registration	NN	_	9	compound	_	O
+9	fraud	fraud	NN	_	6	pobj	_	O
+10	??	??	.	_	5	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	where	where	WRB	_	7	advmod	_	O
+4	the	the	DT	_	5	det	_	O
+5	fraud	fraud	NN	_	7	nsubj	_	O
+6	is	be	VBZ	_	7	aux	_	O
+7	going	go	VBG	_	2	advcl	_	O
+8	on	on	RP	pos2=RB	7	prt	_	O
+

@@ -1,0 +1,16 @@
+1	North	north	NNP	pos2=JJ	2	compound	_	B-ORG
+2	Dakota	dakota	NNP	_	4	compound	_	I-ORG
+3	Fracking	fracking	NNP	_	4	compound	_	I-ORG
+4	Company	company	NNP	_	5	nsubj	_	L-ORG
+5	Fined	fine	VBD	pos2=NNP	0	root	_	O
+6	$	$	$	_	8	qmod	_	B-MONEY
+7	2.1	0	CD	_	8	compound	_	I-MONEY
+8	Million	#crd#	CD	pos2=NNP	5	dobj	_	L-MONEY
+9	For	for	IN	_	5	prep	_	O
+10	Pollution	pollution	NN	pos2=NNP	9	pobj	_	O
+11	Of	of	IN	pos2=RB	10	prep	_	O
+12	Native	native	JJ	pos2=NNP	14	nmod	_	B-NORP
+13	American	american	JJ	pos2=NNP	14	nmod	_	L-NORP
+14	Reservation	reservation	NN	pos2=NNP	11	pobj	_	O
+15	https://t.co/5dj6Qe2OOV	#hlink#	ADD	_	5	dobj	_	O
+

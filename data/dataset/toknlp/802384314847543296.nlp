@@ -1,0 +1,13 @@
+1	@SEC_SAM	@sec_sam	NN	pos2=XX	0	root	_	O
+2	@magnifier661	@magnifier0	NN	pos2=LS	0	root	_	O
+3	@DrMartyFox	@drmartyfox	XX	pos2=ADD	2	dep	_	O
+4	@gotspeed2burn	@gotspeed0burn	XX	pos2=CD	2	dep	_	O
+5	@Babbsgirl2	@babbsgirl0	XX	pos2=CD	11	nmod	_	O
+6	@roycan79	@roycan0	XX	pos2=CD	11	nmod	_	O
+7	@KNP2BP	@knp0bp	XX	pos2=NN	11	nmod	_	O
+8	@debsellsslc	@debsellsslc	XX	pos2=UH	11	nmod	_	O
+9	@MissLizzyNJ	@misslizzynj	XX	pos2=GW	11	nmod	_	O
+10	@GaetaSusan	@gaetasusan	XX	pos2=NNP	11	nmod	_	O
+11	dems	dems	XX	pos2=NNS	12	dep	_	O
+12	should	should	MD	_	0	root	_	O
+

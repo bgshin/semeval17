@@ -1,0 +1,14 @@
+1	More	more	JJR	pos2=RBR	3	nmod	_	O
+2	staffing	staffing	NN	pos2=JJ	3	compound	_	O
+3	decisions	decision	NNS	_	0	root	_	O
+4	expected	expect	VBN	pos2=VBD	3	acl	_	O
+5	today	today	NN	_	4	npadvmod	_	U-DATE
+6	from	from	IN	_	4	prep	_	O
+7	the	the	DT	_	10	det	_	O
+8	President	president	NNP	_	10	compound	_	O
+9	-	-	HYPH	_	10	punct	_	O
+10	elect	elect	NNP	_	6	pobj	_	O
+11	.	.	.	_	7	acl	_	O
+
+1	https://t.co/6PQ70d8XjQ	#hlink#	ADD	_	0	root	_	U-ORG
+

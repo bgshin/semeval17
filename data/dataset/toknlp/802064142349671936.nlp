@@ -1,0 +1,24 @@
+1	saw	see	VBD	pos2=NN	0	root	_	O
+2	david	david	NNP	pos2=FW	3	compound	_	B-PERSON
+3	beckham	beckham	NNP	pos2=NN	1	dobj	_	L-PERSON
+4	on	on	IN	_	1	prep	_	O
+5	david	david	NNP	pos2=FW	6	compound	_	B-PERSON
+6	blaine	blaine	NNP	pos2=NN	8	poss	_	I-PERSON
+7	's	's	POS	_	6	case	_	L-PERSON
+8	tv	tv	NN	_	9	compound	_	O
+9	special	special	JJ	pos2=NNP	4	pobj	_	O
+10	and	and	CC	_	1	cc	_	O
+11	i	I	PRP	_	12	nsubj	_	O
+12	had	have	VBD	_	1	conj	_	O
+13	to	to	TO	_	14	aux	_	O
+14	bite	bite	VB	_	12	xcomp	_	O
+15	down	down	RB	pos2=RP	14	advmod	_	O
+16	so	so	RB	_	17	advmod	_	O
+17	hard	hard	JJ	pos2=RB	14	advmod	_	O
+18	to	to	TO	_	19	aux	_	O
+19	stop	stop	VB	_	14	advcl	_	O
+20	me	me	PRP	_	19	dobj	_	O
+21	from	from	IN	_	19	prep	_	O
+22	screaming	scream	VBG	_	21	pcomp	_	O
+23	daddy	daddy	NN	_	22	dobj	_	O
+

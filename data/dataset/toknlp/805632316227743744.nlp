@@ -1,0 +1,23 @@
+1	#Sexy	#sexy	NNP	pos2=XX	3	compound	_	B-PERSON
+2	#Beauty	#beauty	NNP	pos2=POS	3	compound	_	I-PERSON
+3	Mike	mike	NNP	_	22	dep	_	L-PERSON
+4	and	and	CC	_	3	cc	_	O
+5	Dave	dave	NNP	_	6	compound	_	O
+6	Need	need	NNP	pos2=VBP	3	conj	_	O
+7	Wedding	wedding	NN	pos2=NNP	8	compound	_	O
+8	Dates	date	NNPS	pos2=NNS	3	conj	_	O
+9	(	(	-LRB-	_	8	punct	_	O
+10	Blu	blu	NNP	_	12	compound	_	B-PERSON
+11	-	-	HYPH	_	12	punct	_	I-PERSON
+12	ray	ray	NN	pos2=NNP	14	nmod	_	L-PERSON
+13	/	/	SYM	pos2=HYPH	14	punct	_	O
+14	#DVD	#dvd	NN	pos2=XX	8	appos	_	O
+15	,	,	,	_	8	punct	_	O
+16	2016	0	CD	pos2=LS	8	npadvmod	_	O
+17	)	)	-RRB-	_	8	punct	_	O
+18	Zac	zac	NNP	_	19	compound	_	B-ORG
+19	Efron	efron	NNP	_	3	conj	_	I-ORG
+20	&	&	CC	pos2=GW	19	cc	_	I-ORG
+21	#AnnaKendrick	#annakendrick	ADD	pos2=GW	19	conj	_	L-ORG
+22	https://t.co/gbJ7XZFEFq	#hlink#	ADD	pos2=NN	0	root	_	O
+

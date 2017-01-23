@@ -1,0 +1,14 @@
+1	Are	be	VBP	_	4	auxpass	_	O
+2	n't	not	RB	_	4	neg	_	O
+3	we	we	PRP	_	4	nsubjpass	_	O
+4	supposed	suppose	VBN	pos2=JJ	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	phase	phase	VB	pos2=NN	4	xcomp	_	O
+7	off	off	RP	pos2=RB	6	prt	_	O
+8	and	and	CC	_	6	cc	_	O
+9	divest	divest	VB	_	6	conj	_	O
+10	from	from	IN	_	9	prep	_	O
+11	fossil	fossil	NN	pos2=JJ	12	compound	_	O
+12	fuels	fuel	NNS	_	10	pobj	_	O
+13	?	?	.	_	4	punct	_	O
+

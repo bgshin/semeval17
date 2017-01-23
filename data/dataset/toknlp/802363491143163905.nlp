@@ -1,0 +1,8 @@
+1	State	state	NN	pos2=NNP	3	compound	_	B-WORK_OF_ART
+2	Undertaking	undertaking	NNP	pos2=VBG	3	compound	_	I-WORK_OF_ART
+3	Medicaid	medicaid	NNP	_	7	dep	_	I-WORK_OF_ART
+4	"	"	``	pos2=''	5	punct	_	I-WORK_OF_ART
+5	Transformation	transformation	NN	pos2=NNP	7	dep	_	I-WORK_OF_ART
+6	"	"	''	_	5	punct	_	L-WORK_OF_ART
+7	https://t.co/oefjeilaiy	#hlink#	ADD	pos2=NN	0	root	_	O
+

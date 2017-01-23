@@ -1,0 +1,12 @@
+1	Listen	listen	VB	_	0	root	_	O
+2	to	to	IN	pos2=TO	1	prep	_	O
+3	#NBAwards	#nbawards	NNP	pos2=XX	4	compound	_	B-WORK_OF_ART
+4	Winner	winner	NNP	pos2=NN	6	poss	_	L-WORK_OF_ART
+5	@colsonwhitehead	@colsonwhitehead	POS	pos2=XX	4	case	_	O
+6	interview	interview	NN	_	2	pobj	_	O
+7	on	on	IN	_	6	prep	_	O
+8	@nprfreshair	@nprfreshair	NN	pos2=NNP	7	pobj	_	O
+9	.	.	.	_	1	punct	_	O
+
+1	https://t.co/vfbjPGo3JS	#hlink#	ADD	_	0	root	_	U-ORG
+

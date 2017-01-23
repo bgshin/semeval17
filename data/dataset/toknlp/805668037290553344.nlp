@@ -1,0 +1,26 @@
+1	FRANCE	france	NNP	pos2=NN	7	poss	_	U-GPE
+2	’s	's	POS	pos2=VBZ	1	case	_	O
+3	left	left	JJ	_	5	nmod	_	O
+4	-	-	HYPH	_	5	punct	_	O
+5	wing	wing	NN	pos2=VBG	7	nmod	_	O
+6	prime	prime	JJ	_	7	nmod	_	O
+7	minister	minister	NN	_	9	compound	_	O
+8	Manuel	manuel	NNP	_	9	compound	_	B-PERSON
+9	Valls	valls	NNP	_	11	nsubj	_	L-PERSON
+10	will	will	MD	_	11	aux	_	O
+11	run	run	VB	_	0	root	_	O
+12	to	to	TO	_	13	aux	_	O
+13	be	be	VB	_	11	xcomp	_	O
+14	the	the	DT	_	15	det	_	O
+15	country	country	NN	_	18	poss	_	O
+16	’s	's	POS	_	15	case	_	O
+17	next	next	JJ	_	18	nmod	_	O
+18	president	president	NN	_	13	attr	_	O
+19	,	,	,	_	18	punct	_	O
+20	French	french	JJ	pos2=NNP	22	nmod	_	U-NORP
+21	media	medium	NNS	pos2=NN	22	compound	_	O
+22	report	report	NN	_	18	appos	_	O
+23	....	..	.	pos2=,	11	punct	_	O
+
+1	https://t.co/X9VcdfZiOS	#hlink#	ADD	_	0	root	_	U-ORG
+

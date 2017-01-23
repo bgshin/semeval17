@@ -1,0 +1,22 @@
+1	MORE	more	JJR	pos2=RBR	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	Marine	marine	NNP	pos2=JJ	5	compound	_	B-ORG
+4	Le	le	NNP	_	5	compound	_	I-ORG
+5	Pen	pen	NNP	_	6	nsubj	_	L-ORG
+6	welcomed	welcome	VBD	_	0	root	_	O
+7	Italian	italian	JJ	_	9	nmod	_	U-NORP
+8	referendum	referendum	NN	_	9	compound	_	O
+9	result	result	NN	_	6	dobj	_	O
+10	,	,	,	_	11	punct	_	O
+11	congratulated	congratulate	VBD	pos2=VBN	6	conj	_	O
+12	Salvini	salvini	NNP	_	11	nsubj	_	U-PERSON
+13	,	,	,	_	12	punct	_	O
+14	leader	leader	NN	_	12	appos	_	O
+15	of	of	IN	_	14	prep	_	O
+16	right	right	JJ	pos2=NN	18	nmod	_	O
+17	-	-	HYPH	_	18	punct	_	O
+18	wing	wing	NN	pos2=NNP	20	compound	_	O
+19	Northern	northern	NNP	_	20	compound	_	B-ORG
+20	League	league	NNP	pos2=GW	15	pobj	_	L-ORG
+21	https://t.co/p12ngO9289	#hlink#	ADD	_	12	appos	_	O
+

@@ -1,0 +1,14 @@
+1	@Gamerben111	@gamerben0	NN	pos2=NNS	2	compound	_	O
+2	@WismerTrashCry	@wismertrashcry	NN	pos2=ADD	0	root	_	O
+3	@	@	SYM	pos2=IN	5	punct	_	O
+4	9_volt88	0_volt0	NN	pos2=CD	5	compound	_	O
+5	@Unwan7ed	@unwan0ed	NN	pos2=VBN	2	prep	_	O
+6	@Shotagonist	@shotagonist	WP	pos2=WDT	8	dobj	_	O
+7	you	you	PRP	_	8	nsubj	_	O
+8	voted	vote	VBD	_	4	relcl	_	O
+9	for	for	IN	_	8	prep	_	O
+10	a	a	DT	_	11	det	_	O
+11	nazi	nazi	NN	pos2=NNS	13	nmod	_	O
+12	,	,	,	_	13	punct	_	O
+13	genius	genius	NN	_	9	pobj	_	O
+

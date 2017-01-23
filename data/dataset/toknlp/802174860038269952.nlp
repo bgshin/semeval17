@@ -1,0 +1,12 @@
+1	UK	uk	NNP	pos2=JJ	2	compound	_	U-GPE
+2	govt	govt	NN	_	3	nsubj	_	O
+3	failing	fail	VBG	_	9	ccomp	_	O
+4	to	to	TO	_	5	aux	_	O
+5	learn	learn	VB	_	3	xcomp	_	O
+6	Libya	libya	NNP	_	7	compound	_	U-GPE
+7	lessons	lesson	NNS	_	5	dobj	_	O
+8	,	,	,	_	9	punct	_	O
+9	say	say	VBP	pos2=VB	0	root	_	O
+10	MPshttps://t.co/xmvjLohokI#Libya	#hlink#	ADD	pos2=IN	11	nmod	_	O
+11	#News	#news	NNS	pos2=NNP	9	nsubj	_	O
+

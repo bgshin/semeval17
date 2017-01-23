@@ -1,0 +1,9 @@
+1	Really	really	RB	_	3	advmod	_	O
+2	though	though	RB	pos2=IN	3	advmod	_	O
+3	was	be	VBD	_	0	root	_	O
+4	Justin	justin	NNP	_	5	compound	_	B-PERSON
+5	Verlander	verlander	NNP	_	3	nsubj	_	L-PERSON
+6	up	up	RB	_	7	advmod	_	O
+7	there	there	RB	_	3	advmod	_	O
+8	?	?	.	_	3	punct	_	O
+

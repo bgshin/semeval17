@@ -1,0 +1,15 @@
+1	Just	just	RB	_	2	advmod	_	O
+2	watched	watch	VBD	pos2=VBN	0	root	_	O
+3	#ScreamQueens	#screamqueens	NNS	pos2=NNP	2	dobj	_	U-DATE
+4	now	now	RB	_	2	advmod	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	'm	be	VBP	_	2	conj	_	O
+7	in	in	IN	_	6	prep	_	O
+8	a	a	DT	_	10	det	_	O
+9	pink	pink	JJ	_	10	nmod	_	O
+10	mood	mood	NN	_	7	pobj	_	O
+11	💘	💘	NFP	pos2=NNP	6	discourse	_	O
+12	@ScreamQueens	@screamqueens	GW	pos2=NNS	14	nmod	_	B-PERSON
+13	@RobertsEmma	@robertsemma	GW	pos2=ADD	14	nmod	_	L-PERSON
+14	https://t.co/x2OLNZ2M3X	#hlink#	ADD	pos2=NN	6	dep	_	O
+

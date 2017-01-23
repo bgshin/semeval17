@@ -1,0 +1,23 @@
+1	@BradMcElroy1	@bradmcelroy0	NN	pos2=NNS	6	vocative	_	O
+2	@JeffreyGuterman	@jeffreyguterman	ADD	pos2=NN	6	vocative	_	O
+3	@Deb10122	@deb0	NN	pos2=NNS	4	compound	_	O
+4	@rickkirk71	@rickkirk0	NN	pos2=LS	5	compound	_	O
+5	@anglbebe	@anglbebe	UH	pos2=PRP	6	discourse	_	O
+6	Are	be	VBP	_	0	root	_	O
+7	you	you	PRP	_	6	nsubj	_	O
+8	familiar	familiar	JJ	_	6	acomp	_	O
+9	with	with	IN	_	8	prep	_	O
+10	voter	voter	NN	_	11	compound	_	O
+11	registration	registration	NN	_	9	pobj	_	O
+12	?	?	.	_	6	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	know	know	VBP	_	7	parataxis	_	O
+3	you	you	PRP	_	7	nsubj	_	O
+4	ca	can	MD	_	7	aux	_	O
+5	n't	not	RB	_	7	neg	_	O
+6	just	just	RB	_	7	advmod	_	O
+7	show	show	VB	_	0	root	_	O
+8	up	up	RP	_	7	prt	_	O
+9	?	?	.	_	7	punct	_	O
+

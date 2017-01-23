@@ -1,0 +1,5 @@
+1	Ireland	ireland	NNP	pos2=CD	4	compound	_	U-GPE
+2	exports	export	NNS	pos2=VBZ	4	compound	_	O
+3	abortion	abortion	NN	_	4	compound	_	O
+4	#repealthe8th	#repealthe0th	NN	pos2=.	0	root	_	O
+

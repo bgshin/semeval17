@@ -1,0 +1,14 @@
+1	What	what	WP	_	5	pobj	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	'm	be	VBP	_	0	root	_	O
+4	thankful	thankful	JJ	_	3	acomp	_	O
+5	for	for	IN	_	4	prep	_	O
+6	this	this	DT	_	8	det	_	O
+7	@utahjazz	@utahjazz	NN	pos2=JJ	8	compound	_	O
+8	season	season	NN	_	5	pobj	_	O
+9	!	!	.	_	4	punct	_	O
+
+1	#TakeNote	#takenote	GW	pos2=UH	3	nmod	_	O
+2	#HappyThanksgiving	#happythanksgiving	GW	pos2=VBG	3	nmod	_	O
+3	https://t.co/RMDiXDDMUi	#hlink#	ADD	pos2=NN	0	root	_	O
+

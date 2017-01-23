@@ -1,0 +1,20 @@
+1	PhD	phd	NN	pos2=NNP	2	compound	_	O
+2	Studentship	studentship	NN	pos2=NNP	19	dep	_	O
+3	in	in	IN	_	2	prep	_	O
+4	Additive	additive	JJ	pos2=NN	5	compound	_	B-ORG
+5	Manufacturing	manufacturing	NNP	pos2=NN	19	dep	_	I-ORG
+6	/	/	SYM	pos2=HYPH	2	punct	_	I-ORG
+7	3	0	CD	_	9	nmod	_	I-ORG
+8	D	d	NNP	pos2=NN	9	compound	_	I-ORG
+9	Printing	printing	NNP	pos2=NN	3	pobj	_	L-ORG
+10	for	for	IN	_	2	prep	_	O
+11	the	the	DT	_	12	det	_	B-ORG
+12	Development	development	NNP	pos2=NN	10	pobj	_	I-ORG
+13	of	of	IN	_	12	prep	_	I-ORG
+14	Innovative	innovative	NNP	pos2=JJ	16	compound	_	I-ORG
+15	Antenna	antenna	NNP	_	16	compound	_	I-ORG
+16	Technology	technology	NNP	_	13	pobj	_	L-ORG
+17	,	,	,	_	16	punct	_	O
+18	2017	0	CD	_	19	dep	_	B-CARDINAL
+19	https://t.co/xrPF3qIxng	#hlink#	ADD	pos2=NNS	0	root	_	L-CARDINAL
+

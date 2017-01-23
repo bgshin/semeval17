@@ -1,0 +1,18 @@
+1	All	all	DT	_	4	det	_	O
+2	beauty	beauty	NN	_	4	compound	_	O
+3	-	-	HYPH	pos2=:	4	punct	_	O
+4	lovers	lover	NNS	_	5	nsubj	_	O
+5	need	need	VBP	pos2=NN	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	read	read	VB	_	5	xcomp	_	O
+8	thekatvond	thekatvond	PRP	pos2=DT	11	poss	_	O
+9	's	's	POS	pos2=VBZ	8	case	_	O
+10	powerful	powerful	JJ	_	11	nmod	_	O
+11	words	word	NNS	_	7	dobj	_	O
+12	about	about	IN	_	11	prep	_	O
+13	animal	animal	NN	_	14	compound	_	O
+14	testing	testing	NN	_	12	pobj	_	O
+15	:	:	:	_	5	punct	_	O
+16	https://t.co/BZvOmNzVkB	#hlink#	ADD	_	17	nmod	_	O
+17	https://t.co/dmCz8hqGth	#hlink#	ADD	_	5	dep	_	U-ORG
+

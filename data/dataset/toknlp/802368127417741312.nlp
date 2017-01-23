@@ -1,0 +1,13 @@
+1	someone	someone	NN	_	3	dep	_	O
+2	:	:	:	_	3	punct	_	O
+3	mentions	mention	NNS	pos2=VBZ	9	dep	_	O
+4	pentagonme	pentagonme	NN	pos2=NNS	3	npadvmod	_	O
+5	:	:	:	_	9	punct	_	O
+6	(	(	-LRB-	_	9	punct	_	O
+7	melania	melania	NN	pos2=GW	9	compound	_	O
+8	trump	trump	NN	pos2=JJ	9	compound	_	O
+9	voice	voice	NN	_	0	root	_	O
+10	)	)	-RRB-	_	9	punct	_	O
+11	Hello	hello	UH	pos2=NNP	9	discourse	_	O
+12	.	.	.	_	9	punct	_	O
+

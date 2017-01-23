@@ -1,0 +1,32 @@
+1	@wendycockcroft	@wendycockcroft	UH	pos2=RB	0	root	_	O
+2	Hi	hi	UH	_	1	discourse	_	O
+3	!	!	.	_	1	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	counted	count	VBD	_	0	root	_	O
+3	110,000	0	CD	_	4	nmod	_	U-CARDINAL
+4	votes	vote	NNS	_	2	dobj	_	O
+5	Hillary	hillary	NNP	_	6	nsubj	_	U-PERSON
+6	lost	lose	VBD	pos2=VBN	4	relcl	_	O
+7	across	across	IN	_	6	prep	_	O
+8	the	the	DT	_	11	det	_	O
+9	3	0	CD	_	11	nmod	_	U-CARDINAL
+10	close	close	JJ	pos2=NN	11	nmod	_	O
+11	states	state	NNS	_	7	pobj	_	O
+12	(	(	-LRB-	_	11	punct	_	O
+13	wi	wi	NN	pos2=FW	11	appos	_	O
+14	,	,	,	_	13	punct	_	O
+15	pa	pa	NN	pos2=NNS	13	appos	_	O
+16	,	,	,	_	17	punct	_	O
+17	mi	mi	NN	pos2=LS	13	appos	_	O
+18	)	)	-RRB-	_	11	punct	_	O
+19	v	v	JJ	pos2=VBP	21	nmod	_	O
+20	popular	popular	JJ	_	21	nmod	_	O
+21	vote	vote	NN	_	6	dobj	_	O
+22	.	.	.	_	2	punct	_	O
+
+1	Does	do	VBZ	_	3	aux	_	O
+2	that	that	DT	_	3	nsubj	_	O
+3	work	work	VB	pos2=NN	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+

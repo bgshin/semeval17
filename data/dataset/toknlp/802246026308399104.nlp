@@ -1,0 +1,19 @@
+1	#Spurs	#spurs	NNS	pos2=VBZ	3	poss	_	O
+2	#GoSpursGo	#gospursgo	POS	pos2=IN	1	case	_	O
+3	LOT	lot	NN	pos2=NNP	0	root	_	O
+4	OF	of	IN	_	3	prep	_	O
+5	(13)	(0)	CD	pos2=CC	7	nmod	_	U-CARDINAL
+6	TIM	tim	NNP	pos2=NN	7	compound	_	O
+7	DUNCAN	duncan	NNP	_	4	pobj	_	O
+8	#CardS	#cards	POS	pos2=NNS	7	case	_	O
+9	W	w	IN	pos2=NNP	13	nmod	_	O
+10	/	/	HYPH	pos2=SYM	9	punct	_	O
+11	ROOKIE	rookie	NN	_	13	nmod	_	O
+12	INSERT	insert	NN	_	13	compound	_	O
+13	SPURS	spur	NNS	pos2=NNPS	18	nmod	_	O
+14	FUTURE	future	JJ	pos2=GW	15	nmod	_	O
+15	HOF	hof	NN	pos2=NNP	18	nmod	_	O
+16	https://t.co/GTamuTBL3Q	#hlink#	ADD	pos2=NN	18	nmod	_	O
+17	#TimDuncan	#timduncan	ADD	pos2=-RRB-	0	root	_	U-ORG
+18	#NBA	#nba	NN	pos2=ADD	17	pobj	_	O
+

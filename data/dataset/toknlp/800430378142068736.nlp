@@ -1,0 +1,16 @@
+1	Microsoft	microsoft	NNP	_	2	nsubj	_	U-ORG
+2	Joins	join	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	B-ORG
+4	Linux	linux	NNP	_	5	compound	_	I-ORG
+5	Foundation	foundation	NNP	_	2	dobj	_	L-ORG
+6	As	as	IN	_	9	mark	_	O
+7	Everyone	everyone	NNP	pos2=NN	9	nsubj	_	O
+8	Now	now	RB	pos2=NNP	9	advmod	_	O
+9	Loves	love	VBZ	pos2=NNP	2	advcl	_	O
+10	Open	open	NNP	pos2=JJ	11	compound	_	O
+11	Source	source	NN	pos2=NNP	9	dobj	_	O
+12	https://t.co/iugqEY8nNr	#hlink#	ADD	_	15	dep	_	O
+13	#msftedu	#msftedu	XX	pos2=-RRB-	15	dep	_	O
+14	#edtech	#edtech	-LRB-	pos2=UH	15	punct	_	O
+15	https://t.co/aiGTZV3hrS	#hlink#	ADD	_	2	dep	_	O
+

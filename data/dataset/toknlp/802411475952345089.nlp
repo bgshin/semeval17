@@ -1,0 +1,14 @@
+1	#DOX'ed	#dox'ed	NN	pos2=NNS	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	Cuban	cuban	JJ	_	4	nmod	_	U-NORP
+4	dissidents	dissident	NNS	_	5	nsubj	_	O
+5	vow	vow	VBP	pos2=VB	0	root	_	O
+6	retaliation	retaliation	NN	_	5	dobj	_	O
+7	against	against	IN	_	6	prep	_	O
+8	enablers	enabler	NNS	_	7	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	#FidelCastro	#fidelcastro	NNP	pos2=NN	9	pobj	_	U-GPE
+11	in	in	IN	_	8	prep	_	O
+12	Obama	obama	NNP	_	13	compound	_	U-PERSON
+13	admin	admin	NN	_	11	pobj	_	O
+

@@ -1,0 +1,24 @@
+1	One	#crd#	CD	_	2	nmod	_	U-CARDINAL
+2	thing	thing	NN	_	7	nsubj	_	O
+3	I	I	PRP	_	6	nsubj	_	O
+4	ca	can	MD	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	stand	stand	VB	_	2	relcl	_	O
+7	is	be	VBZ	pos2=PDT	0	root	_	O
+8	this	this	DT	_	11	nsubj	_	O
+9	anti-Japan	anti-japan	JJ	_	23	nmod	_	O
+10	Korean	korean	JJ	_	23	nmod	_	U-NORP
+11	slimy	slimy	JJ	pos2=NN	15	nmod	_	O
+12	NGO	ngo	NNP	_	15	compound	_	B-ORG
+13	Human	human	NNP	_	14	compound	_	I-ORG
+14	Rights	right	NNPS	pos2=NNS	15	compound	_	I-ORG
+15	Watch	watch	NNP	_	20	nsubj	_	L-ORG
+16	funded	fund	VBN	_	15	acl	_	O
+17	by	by	IN	_	16	agent	_	O
+18	George	george	NNP	_	19	compound	_	B-PERSON
+19	Soros	soros	NNP	_	17	pobj	_	L-PERSON
+20	exploits	exploit	VBZ	pos2=NNS	7	ccomp	_	O
+21	Hiro	hiro	NNP	pos2=GW	20	dobj	_	B-PERSON
+22	…	…	NFP	pos2=NNP	23	punct	_	L-PERSON
+23	https://t.co/iWDchSHdOu	#hlink#	ADD	_	7	dep	_	O
+

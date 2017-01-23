@@ -1,0 +1,16 @@
+1	When	when	WRB	_	3	advmod	_	O
+2	will	will	MD	_	3	aux	_	O
+3	#BlackLivesMatter	#blacklivesmatter	VB	pos2=TO	0	root	_	O
+4	protest	protest	VB	pos2=NN	3	advcl	_	O
+5	the	the	DT	_	7	det	_	O
+6	black	black	JJ	_	7	nmod	_	O
+7	violence	violence	NN	_	4	dobj	_	O
+8	that	that	WDT	_	9	nsubj	_	O
+9	kills	kill	VBZ	_	7	relcl	_	O
+10	nearly	nearly	RB	_	11	advmod	_	O
+11	all	all	DT	_	12	nmod	_	O
+12	blacks	black	NNS	_	9	dobj	_	O
+13	?	?	.	_	3	punct	_	O
+
+1	https://t.co/CsztsCufp5	#hlink#	ADD	_	0	root	_	U-ORG
+

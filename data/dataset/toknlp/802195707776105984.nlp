@@ -1,0 +1,20 @@
+1	@truthglow	@truthglow	UH	pos2=XX	4	discourse	_	O
+2	@WMoulthrope	@wmoulthrope	ADD	pos2=NN	4	punct	_	O
+3	@katalin_pota	@katalin_pota	NNP	pos2=UH	4	compound	_	U-ORG
+4	@SenWarren2020	@senwarren0	NN	pos2=ADD	9	predet	_	O
+5	@elizabethforma	@elizabethforma	UH	pos2=GW	9	discourse	_	O
+6	@SenatorWarren	@senatorwarren	NNP	pos2=IN	11	npadvmod	_	U-PERSON
+7	A	a	DT	_	9	det	_	O
+8	deal	deal	NN	pos2=VB	9	compound	_	O
+9	brokrd	brokrd	NN	pos2=VBN	6	appos	_	O
+10	in	in	IN	_	9	prep	_	O
+11	last	last	JJ	_	12	nmod	_	O
+12	weeknd	weeknd	NN	pos2=CC	0	root	_	O
+13	Rig	rig	NNP	pos2=NN	14	compound	_	O
+14	DT	dt	NN	pos2=NNP	15	compound	_	O
+15	win	win	NN	pos2=VB	10	pobj	_	O
+16	No	no	DT	pos2=UH	19	det	_	O
+17	chrgs	chrgs	NNS	pos2=NN	18	compound	_	O
+18	DT	dt	NN	pos2=NNP	19	compound	_	O
+19	stps	stp	NNS	pos2=FW	4	dobj	_	O
+

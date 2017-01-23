@@ -1,0 +1,23 @@
+1	how	how	WRB	_	4	advmod	_	O
+2	must	must	MD	_	4	aux	_	O
+3	deplorables	deplorables	PRP	pos2=NNS	4	nsubj	_	O
+4	feel	feel	VB	_	0	root	_	O
+5	having	have	VBG	_	4	xcomp	_	O
+6	world	world	NN	_	7	compound	_	O
+7	leaders	leader	NNS	_	5	dobj	_	O
+8	knowing	know	VBG	_	4	advcl	_	O
+9	they	they	PRP	_	10	nsubj	_	O
+10	re	re	VBP	pos2=IN	16	discourse	_	O
+11	crazy	crazy	JJ	_	10	acomp	_	O
+12	,	,	,	_	16	punct	_	O
+13	uneducated	uneducated	JJ	_	16	nmod	_	O
+14	manipulative	manipulative	JJ	_	16	nmod	_	O
+15	liarswhose	liarswhose	NN	pos2=JJ	16	compound	_	O
+16	integrity	integrity	NN	_	22	nsubjpass	_	O
+17	&	&	CC	_	16	cc	_	O
+18	ethics	ethic	NNS	_	16	conj	_	O
+19	ca	can	MD	pos2=NN	22	aux	_	O
+20	nt	nt	RB	_	22	advmod	_	O
+21	be	be	VB	_	22	auxpass	_	O
+22	trusted	trust	VBN	_	8	ccomp	_	O
+

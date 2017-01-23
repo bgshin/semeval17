@@ -1,0 +1,22 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	hope	hope	VBP	_	0	root	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	had	have	VBD	pos2=VBP	2	ccomp	_	O
+5	great	great	JJ	_	6	nmod	_	O
+6	Thanksgiving	thanksgiving	NNP	pos2=NN	4	dobj	_	U-EVENT
+7	!	!	.	_	2	punct	_	O
+
+1	And	and	CC	_	3	cc	_	O
+2	if	if	IN	_	8	mark	_	O
+3	your	your	PRP$	_	5	poss	_	O
+4	out	out	RP	pos2=JJ	9	compound	_	O
+5	shopping	shopping	NN	pos2=VBG	13	dep	_	O
+6	today	today	NN	_	5	npadvmod	_	U-DATE
+7	we	we	PRP	_	8	nsubj	_	O
+8	hope	hope	VBP	_	13	advcl	_	O
+9	your	your	PRP$	_	10	nsubj	_	O
+10	getting	get	VBG	_	8	ccomp	_	O
+11	some	some	DT	_	12	det	_	O
+12	…	…	NFP	pos2=:	13	punct	_	O
+13	https://t.co/43Xrrn9f3L	#hlink#	ADD	pos2=NN	0	root	_	O
+

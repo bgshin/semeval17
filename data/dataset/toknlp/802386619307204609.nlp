@@ -1,0 +1,25 @@
+1	@globeandmail	@globeandmail	VB	pos2=UH	0	root	_	O
+2	alt	alt	JJ	pos2=NN	4	advmod	_	O
+3	-	-	HYPH	pos2=SYM	4	punct	_	O
+4	right	right	JJ	pos2=NN	6	nsubjpass	_	O
+5	was	be	VBD	_	6	auxpass	_	O
+6	adopted	adopt	VBN	_	1	ccomp	_	O
+7	by	by	IN	_	6	agent	_	O
+8	Deplorables	deplorables	NNP	pos2=NNPS	7	pobj	_	U-GPE
+9	.	.	.	_	1	punct	_	O
+
+1	Average	average	JJ	_	3	nmod	_	O
+2	middle	middle	JJ	pos2=NN	3	nmod	_	O
+3	Americans	american	NNPS	_	0	root	_	U-NORP
+4	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	've	have	VBP	_	4	aux	_	O
+3	now	now	RB	_	4	advmod	_	O
+4	moved	move	VBN	_	0	root	_	O
+5	to	to	IN	_	4	prep	_	O
+6	Libertarian	libertarian	NNP	_	5	pobj	_	U-ORG
+7	.	.	.	_	4	punct	_	O
+
+1	@infowars	@infowars	UH	pos2=NNS	0	root	_	O
+

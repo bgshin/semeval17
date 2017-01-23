@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det	_	O
+2	thrill	thrill	NN	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	seeing	see	VBG	_	3	pcomp	_	O
+5	a	a	DT	_	7	det	_	O
+6	wheelchair	wheelchair	NN	pos2=JJ	7	compound	_	O
+7	user	user	NN	_	4	dobj	_	O
+8	in	in	IN	_	4	prep	_	O
+9	a	a	DT	_	10	det	_	O
+10	movie	movie	NN	_	8	pobj	_	O
+11	doing	do	VBG	_	10	acl	_	O
+12	boring	boring	JJ	pos2=NN	15	nmod	_	O
+13	,	,	,	_	15	punct	_	O
+14	meaningless	meaningless	JJ	_	15	nmod	_	O
+15	things	thing	NNS	_	11	dobj	_	O
+16	that	that	WDT	_	17	nsubj	_	O
+17	have	have	VBP	_	15	relcl	_	O
+18	nothing	nothing	NN	_	17	dobj	_	O
+19	to	to	TO	_	20	aux	_	O
+20	do	do	VB	_	18	relcl	_	O
+21	with	with	IN	_	20	prep	_	O
+22	euthanasia	euthanasia	NN	_	21	pobj	_	O
+23	.	.	.	_	2	punct	_	O
+

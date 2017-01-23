@@ -1,0 +1,15 @@
+1	1	0	LS	_	14	meta	_	U-CARDINAL
+2	)	)	-RRB-	_	1	punct	_	O
+3	Emily	emily	NNP	pos2=NN	4	nsubj	_	U-PERSON
+4	planning	plan	VBG	pos2=NN	0	root	_	O
+5	Gran	gran	NNP	_	7	poss	_	U-PERSON
+6	's	's	POS	_	5	case	_	O
+7	funeral2	funeral0	NN	pos2=LS	4	dobj	_	O
+8	)	)	-RRB-	_	4	punct	_	O
+9	TJ3	tj0	NN	pos2=LS	11	nmod	_	O
+10	)	)	-RRB-	_	11	punct	_	O
+11	Finn4	finn0	NN	pos2=NNP	14	dep	_	O
+12	)	)	-RRB-	_	11	punct	_	O
+13	Mrs	mrs	NNP	pos2=NNS	14	compound	_	B-PERSON
+14	Kim#GilmoreGirlsTop4	kim#gilmoregirlstop0	NNP	pos2=NN	0	root	_	L-PERSON
+

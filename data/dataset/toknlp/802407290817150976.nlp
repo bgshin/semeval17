@@ -1,0 +1,13 @@
+1	"	"	``	_	3	punct	_	O
+2	Steve	steve	NNP	_	3	compound	_	B-PERSON
+3	Bannon	bannon	NNP	_	11	nmod	_	L-PERSON
+4	and	and	CC	_	3	cc	_	O
+5	Identity	identity	NNP	pos2=NN	6	compound	_	O
+6	Politics	politics	NNPS	pos2=NNS	3	conj	_	O
+7	"	"	''	pos2=-LRB-	6	punct	_	O
+8	https://t.co/A5oQmiXMLg	#hlink#	ADD	_	11	nmod	_	O
+9	#law	#law	FW	pos2=-RRB-	11	nmod	_	O
+10	+	+	SYM	pos2=-RRB-	11	punct	_	O
+11	policy	policy	NN	_	12	npadvmod	_	O
+12	#feedly	#feedly	RB	pos2=.	0	root	_	O
+

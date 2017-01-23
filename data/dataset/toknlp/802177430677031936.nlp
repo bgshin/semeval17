@@ -1,0 +1,20 @@
+1	#JustReleased	#justreleased	XX	pos2=VBN	0	root	_	O
+2	!!!!	!!	.	_	1	punct	_	O
+
+1	#UBER	#uber	NN	pos2=NNP	6	nsubj	_	O
+2	by	by	IN	_	1	prep	_	O
+3	Boo	boo	NNP	_	4	compound	_	B-PERSON
+4	Gotti	gotti	NNP	_	5	compound	_	L-PERSON
+5	stream	stream	NN	pos2=VB	2	pobj	_	O
+6	free	free	JJ	pos2=RB	0	root	_	O
+7	on	on	IN	pos2=RP	6	prep	_	O
+8	#APPLEMUSIC	#applemusic	NN	pos2=NNP	7	pobj	_	O
+9	and	and	CC	_	6	cc	_	O
+10	all	all	DT	_	11	det	_	O
+11	retailers	retailer	NNS	_	8	conj	_	O
+12	worldwide	worldwide	RB	_	11	advmod	_	O
+13	!!!!	!!	.	_	6	punct	_	O
+
+1	#	#	NN	pos2=-LRB-	2	dep	_	O
+2	BMThttps://t.co/yVym8arJH3	#hlink#	ADD	pos2=NN	0	root	_	U-MONEY
+

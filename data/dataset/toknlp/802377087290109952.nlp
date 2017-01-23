@@ -1,0 +1,16 @@
+1	@MarkAmesExiledWell	@markamesexiledwell	VB	pos2=UH	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	evolution	evolution	NN	_	1	dobj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	this	this	DT	_	15	det	_	O
+6	loon:@molodyko	loon:@molodyko	NNP	pos2=NN	1	vocative	_	O
+7	-	-	SYM	pos2=HYPH	9	punct	_	O
+8	>	>	SYM	pos2=XX	9	punct	_	O
+9	@KremlinTrolls	@kremlintrolls	NNS	pos2=NN	15	dep	_	O
+10	-	-	SYM	pos2=:	9	punct	_	O
+11	>	>	SYM	_	15	punct	_	O
+12	@propornot	@propornot	NN	pos2=RB	15	dep	_	O
+13	-	-	SYM	pos2=:	15	punct	_	O
+14	>	>	SYM	pos2=XX	15	punct	_	O
+15	@washingtonpost	@washingtonpost	NN	pos2=UH	4	pobj	_	O
+

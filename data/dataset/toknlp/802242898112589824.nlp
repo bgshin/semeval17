@@ -1,0 +1,16 @@
+1	Am	be	VBP	pos2=VB	0	root	_	O
+2	apreciat	apreciat	JJ	pos2=VBN	5	nmod	_	O
+3	un	un	JJ	pos2=NN	5	nmod	_	O
+4	videoclip	videoclip	NN	_	5	compound	_	O
+5	pe	pe	NN	pos2=XX	6	compound	_	O
+6	@YouTube	@youtube	NNP	pos2=NN	1	nsubj	_	O
+7	,	,	,	_	6	punct	_	O
+8	https://t.co/p0DfkUDw1E	#hlink#	NNP	pos2=ADD	15	nmod	_	O
+9	Tesla	tesla	NNP	_	10	compound	_	B-ORG
+10	Model	model	NNP	pos2=NN	14	compound	_	L-ORG
+11	S	s	NN	pos2=NNP	13	compound	_	O
+12	-	-	HYPH	pos2=:	13	punct	_	O
+13	Official	official	NNP	pos2=JJ	15	nmod	_	O
+14	Walkthrough	walkthrough	JJ	pos2=NNP	15	nmod	_	O
+15	HD	hd	NN	pos2=NNP	6	appos	_	O
+

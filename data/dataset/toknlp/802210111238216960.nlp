@@ -1,0 +1,25 @@
+1	Imagine	imagine	VB	_	0	root	_	O
+2	that	that	DT	_	1	dobj	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	And	and	CC	_	3	cc	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	bet	bet	VBP	_	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	election	election	NN	_	4	pobj	_	O
+7	the	the	DT	_	8	det	_	O
+8	candidate	candidate	NN	_	14	nsubj	_	O
+9	who	who	WP	_	10	nsubj	_	O
+10	wins	win	VBZ	_	8	relcl	_	O
+11	the	the	DT	_	13	det	_	O
+12	popular	popular	JJ	_	13	nmod	_	O
+13	vote	vote	NN	_	10	dobj	_	O
+14	wins	win	VBZ	_	3	ccomp	_	O
+15	the	the	DT	_	16	det	_	O
+16	election	election	NN	_	14	dobj	_	O
+17	.	.	.	_	3	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/lhPHPgnq9y	#hlink#	ADD	pos2=NN	0	root	_	O
+

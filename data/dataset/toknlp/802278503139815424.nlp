@@ -1,0 +1,13 @@
+1	@shaynegretzky94	@shaynegretzky0	NN	pos2=LS	4	vocative	_	O
+2	@stewyryan	@stewyryan	MD	pos2=UH	4	aux	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	hear	hear	VBP	pos2=VB	0	root	_	O
+5	there	there	EX	_	6	expl	_	O
+6	is	be	VBZ	_	4	ccomp	_	O
+7	alot	alot	RB	pos2=NN	6	advmod	_	O
+8	of	of	IN	_	7	prep	_	O
+9	bad	bad	JJ	_	10	nmod	_	O
+10	hombres	hombre	NNS	_	8	pobj	_	O
+11	in	in	IN	_	10	prep	_	O
+12	Houston	houston	NNP	_	11	pobj	_	U-GPE
+

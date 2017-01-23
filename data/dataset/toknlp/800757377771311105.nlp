@@ -1,0 +1,24 @@
+1	@weebyhimouto	@weebyhimouto	UH	pos2=IN	4	discourse	_	O
+2	maybe	maybe	RB	_	4	advmod	_	O
+3	he	he	PRP	_	4	nsubj	_	O
+4	expects	expect	VBZ	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	test	test	NN	_	11	nsubj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	world	world	NN	_	7	pobj	_	O
+10	to	to	TO	pos2=IN	11	aux	_	O
+11	ban	ban	VB	pos2=NN	4	ccomp	_	O
+12	name	name	NN	_	11	dobj	_	O
+13	calling	call	VBG	_	12	acl	_	O
+14	him	him	PRP	_	13	dobj	_	O
+15	like	like	IN	pos2=UH	13	prep	_	O
+16	china	china	NN	pos2=NNP	17	nsubj	_	O
+17	blocking	block	VBG	_	15	pcomp	_	O
+18	searches	search	NNS	pos2=NN	17	dobj	_	O
+19	of	of	IN	_	18	prep	_	O
+20	Kim	kim	NNP	_	21	compound	_	B-PERSON
+21	Fatty	fatty	NNP	_	19	pobj	_	L-PERSON
+22	the	the	DT	_	23	det	_	O
+23	Third	#ord#	NNP	pos2=JJ	21	appos	_	U-ORDINAL
+

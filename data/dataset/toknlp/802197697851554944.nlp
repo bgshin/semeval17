@@ -1,0 +1,20 @@
+1	@BasemntDwllng	@basemntdwllng	VBG	pos2=ADD	9	prep	_	O
+2	@truthglow	@truthglow	UH	pos2=XX	1	discourse	_	O
+3	@katalin_pota	@katalin_pota	UH	pos2=NNP	1	discourse	_	O
+4	@SenWarren2020	@senwarren0	NN	pos2=UH	1	dobj	_	O
+5	@elizabethforma	@elizabethforma	UH	pos2=NN	4	discourse	_	O
+6	@SenatorWarren	@senatorwarren	UH	pos2=NNP	4	discourse	_	O
+7	You	you	PRP	_	8	nsubj	_	O
+8	're	be	VBP	_	9	aux	_	O
+9	forget	forget	VB	pos2=VBN	0	root	_	O
+10	1	0	CD	_	11	nmod	_	U-CARDINAL
+11	thing	thing	NN	_	9	dobj	_	O
+12	,	,	,	_	16	punct	_	O
+13	the	the	DT	_	14	det	_	O
+14	2mjrPty	0mjrpty	NNP	pos2=NN	18	poss	_	O
+15	's	's	POS	pos2=AFX	14	case	_	O
+16	are	be	VBP	_	11	acl	_	O
+17	1	0	CD	_	18	nmod	_	U-CARDINAL
+18	team	team	NN	_	16	attr	_	O
+19	!	!	.	_	16	punct	_	O
+

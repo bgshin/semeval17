@@ -1,0 +1,29 @@
+1	Fidel	fidel	NNP	_	2	compound	_	B-PERSON
+2	Castro	castro	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	10	ccomp	_	O
+4	finally	finally	RB	_	3	advmod	_	O
+5	dead	dead	JJ	_	3	acomp	_	O
+6	,	,	,	_	10	punct	_	O
+7	I	I	PRP	_	10	nsubj	_	O
+8	will	will	MD	_	10	aux	_	O
+9	be	be	VB	_	10	aux	_	O
+10	drinking	drink	VBG	_	0	root	_	O
+11	some	some	DT	_	13	det	_	O
+12	Cuba	cuba	NNP	_	13	compound	_	B-GPE
+13	Libre	libre	NNP	_	10	dobj	_	L-GPE
+14	tomorrow	tomorrow	NN	_	10	npadvmod	_	U-DATE
+15	to	to	TO	_	16	aux	_	O
+16	celebrate	celebrate	VB	_	10	advcl	_	O
+17	...	..	.	pos2=,	10	punct	_	O
+
+1	who	who	WP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	next	next	JJ	pos2=RB	2	acomp	_	O
+4	?	?	.	_	2	punct	_	O
+
+1	Maduro	maduro	NNP	_	0	root	_	U-PERSON
+2	?	?	.	_	1	punct	_	O
+
+1	@jordanvazquez14	@jordanvazquez0	NN	pos2=LS	2	compound	_	O
+2	@A_Ruz22	@a_ruz0	NN	pos2=NNS	0	root	_	O
+

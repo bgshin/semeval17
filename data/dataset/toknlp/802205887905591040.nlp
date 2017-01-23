@@ -1,0 +1,33 @@
+1	I	I	PRP	_	5	nsubj	_	O
+2	can	can	MD	_	5	aux	_	O
+3	and	and	CC	_	5	cc	_	O
+4	will	will	MD	pos2=VB	5	aux	_	O
+5	fight	fight	VB	_	0	root	_	O
+6	for	for	IN	_	5	prep	_	O
+7	#BlackLivesMatter	#blacklivesmatter	NNP	pos2=NN	6	pobj	_	U-GPE
+8	.	.	.	_	5	punct	_	O
+
+1	However	however	RB	_	4	advmod	_	O
+2	,	,	,	_	4	punct	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	am	be	VBP	_	0	root	_	O
+5	white	white	JJ	_	4	acomp	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	I	I	PRP	_	5	nsubjpass	_	O
+2	never	never	RB	_	5	neg	_	O
+3	will	will	MD	_	5	aux	_	O
+4	be	be	VB	_	5	auxpass	_	O
+5	turned	turn	VBN	_	0	root	_	O
+6	down	down	RP	pos2=RB	5	prt	_	O
+7	for	for	IN	_	5	prep	_	O
+8	a	a	DT	_	9	det	_	O
+9	job	job	NN	_	7	pobj	_	O
+10	because	because	IN	_	5	prep	_	O
+11	of	of	IN	_	10	pcomp	_	O
+12	my	my	PRP$	_	14	poss	_	O
+13	skin	skin	NN	_	14	compound	_	O
+14	tone.4	tone.0	NN	pos2=NNS	10	pobj	_	O
+15	/	/	SYM	_	14	punct	_	O
+16	?	?	.	pos2=SYM	5	punct	_	O
+

@@ -1,0 +1,29 @@
+1	The	the	DT	_	3	det	_	O
+2	#Trump	#trump	NNP	pos2=JJ	3	compound	_	U-NORP
+3	cabinet	cabinet	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	an	an	DT	_	7	det	_	O
+6	utter	utter	JJ	_	7	nmod	_	O
+7	disaster	disaster	NN	_	4	attr	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	Full	full	JJ	_	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	cronies	crony	NNS	_	2	pobj	_	O
+4	and	and	CC	_	3	cc	_	O
+5	swamp	swamp	NN	_	6	compound	_	O
+6	dwellers	dweller	NNS	_	3	conj	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	#MAGA	#maga	VBP	pos2=MD	0	root	_	O
+3	people	people	NNS	_	6	nsubjpass	_	O
+4	have	have	VBP	_	6	aux	_	O
+5	been	be	VBN	_	6	auxpass	_	O
+6	taken	take	VBN	_	2	ccomp	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	Next	next	JJ	pos2=RB	2	nmod	_	B-DATE
+2	…	…	NFP	pos2=-LRB-	3	punct	_	L-DATE
+3	https://t.co/Bjs9PDLoSX	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,21 @@
+1	Many	many	JJ	_	2	nmod	_	O
+2	people	people	NNS	_	5	nsubj	_	O
+3	on	on	IN	_	2	prep	_	O
+4	Medicaid	medicaid	NNP	_	3	pobj	_	U-ORG
+5	are	be	VBP	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	elderly	elderly	JJ	_	5	attr	_	O
+8	who	who	WP	_	9	nsubj	_	O
+9	live	live	VBP	_	7	relcl	_	O
+10	in	in	IN	_	9	prep	_	O
+11	nursing	nursing	NN	pos2=JJ	12	compound	_	O
+12	homes	home	NNS	_	10	pobj	_	O
+13	,	,	,	_	5	punct	_	O
+14	so	so	CC	pos2=RB	5	cc	_	O
+15	this	this	DT	_	16	nsubj	_	O
+16	is	be	VBZ	_	5	conj	_	O
+17	a	a	DT	_	19	det	_	O
+18	true	true	JJ	_	19	nmod	_	O
+19	representation	representation	NN	_	16	attr	_	O
+20	https://t.co/CnBTCo851D	#hlink#	ADD	_	15	appos	_	O
+

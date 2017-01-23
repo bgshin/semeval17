@@ -1,0 +1,17 @@
+1	Oh	oh	UH	_	3	discourse	_	O
+2	Happy	happy	JJ	pos2=NNP	3	nmod	_	B-DATE
+3	Day	day	NNP	pos2=NN	6	vocative	_	L-DATE
+4	,	,	,	_	6	punct	_	O
+5	Conservatives	conservative	NNPS	pos2=NNS	6	nsubj	_	U-NORP
+6	Laugh	laugh	VBP	pos2=NNP	0	root	_	O
+7	As	as	IN	_	6	prep	_	O
+8	LiberalsCry	liberalscry	NNP	_	7	pobj	_	U-ORG
+9	And	and	CC	pos2=NNP	8	cc	_	O
+10	All	all	PDT	pos2=NNP	12	predet	_	O
+11	Their	their	PRP$	_	12	poss	_	O
+12	Dreams	dream	NNPS	pos2=NNS	8	conj	_	O
+13	Fade	fade	NNP	pos2=VBP	8	conj	_	O
+14	Away	away	RB	pos2=GW	13	advmod	_	O
+15	@jturnershow	@jturnershow	GW	pos2=IN	16	nmod	_	O
+16	https://t.co/X8JALJVUHc	#hlink#	ADD	_	6	dep	_	O
+

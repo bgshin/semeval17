@@ -1,0 +1,21 @@
+1	They	they	PRP	_	2	nsubj	_	O
+2	smile	smile	VBP	_	0	root	_	O
+3	at	at	IN	_	2	prep	_	O
+4	you	you	PRP	_	3	pobj	_	O
+5	@BorisJohnson	@borisjohnson	VBP	pos2=NNP	2	advcl	_	O
+6	for	for	IN	_	5	prep	_	O
+7	selling	sell	VBG	_	6	pcomp	_	O
+8	arms	arm	NNS	_	7	dobj	_	O
+9	to	to	IN	_	7	dative	_	O
+10	Saudi	saudi	NNP	_	11	compound	_	B-GPE
+11	Arabia	arabia	NNP	_	9	pobj	_	L-GPE
+12	and	and	CC	_	5	cc	_	O
+13	at	at	IN	_	15	prep	_	O
+14	you	you	PRP	_	15	nsubj	_	O
+15	@angelneptustar	@angelneptustar	VBP	pos2=RB	5	conj	_	O
+16	for	for	IN	_	15	prep	_	O
+17	defending	defend	VBG	_	16	pcomp	_	O
+18	BoomBoomB	boomboomb	NNP	pos2=GW	17	dobj	_	U-PERSON
+19	…	…	NFP	pos2=-LRB-	20	punct	_	O
+20	https://t.co/0MqxMaUG7V	#hlink#	ADD	_	2	dep	_	O
+

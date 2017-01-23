@@ -1,0 +1,21 @@
+1	Honey	honey	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	's	's	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	sweet	sweet	JJ	_	5	nmod	_	O
+5	success	success	NN	_	2	attr	_	O
+6	for	for	IN	_	5	prep	_	O
+7	Cuba	cuba	NNP	_	6	pobj	_	U-GPE
+8	as	as	IN	_	12	mark	_	O
+9	other	other	JJ	_	11	nmod	_	O
+10	bee	bee	NN	_	11	compound	_	O
+11	populations	population	NNS	_	12	nsubj	_	O
+12	suffer	suffer	VBP	pos2=GW	2	advcl	_	O
+13	https://t.co/1sMWADs7XY	#hlink#	ADD	pos2=NNP	12	dobj	_	O
+14	Cuba	cuba	NNP	_	15	nsubj	_	U-GPE
+15	has	have	VBZ	_	12	conj	_	O
+16	no	no	DT	_	17	det	_	O
+17	pesticides	pesticide	NNS	_	15	dobj	_	O
+18	due	due	IN	_	15	prep	_	O
+19	to	to	IN	_	18	pcomp	_	O
+20	embargo.#SaveOurBees	embargo.#saveourbees	NNS	pos2=.	18	pobj	_	O
+

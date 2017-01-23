@@ -1,0 +1,13 @@
+1	#IraqiAirForce	#iraqiairforce	NN	pos2=JJ	2	compound	_	O
+2	target	target	NN	pos2=VB	4	compound	_	O
+3	#ISIS	#isis	NNP	pos2=NN	4	compound	_	U-ORG
+4	Headquarter	headquarter	NN	pos2=NNP	12	dep	_	O
+5	in	in	IN	_	4	prep	_	O
+6	#mosul	#mosul	NNP	pos2=FW	5	pobj	_	O
+7	#Mosul	#mosul	NNP	pos2=POS	9	compound	_	O
+8	#Mosuloffensive	#mosuloffensive	NNP	pos2=POS	9	compound	_	O
+9	#MosulOp	#mosulop	NNP	pos2=ADD	12	dep	_	O
+10	#Iraq#ISIS#IslamicState	#iraq#isis#islamicstate	ADD	pos2=GW	12	dep	_	O
+11	…	…	NFP	pos2=-LRB-	12	punct	_	O
+12	https://t.co/zqB8lauNZc	#hlink#	ADD	_	0	root	_	U-ORG
+

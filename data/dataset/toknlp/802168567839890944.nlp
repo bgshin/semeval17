@@ -1,0 +1,19 @@
+1	#Update	#update	ADD	pos2=VB	6	nsubj	_	O
+2	#YemenAt	#yemenat	RB	pos2=VBD	3	advmod	_	O
+3	least	least	JJS	pos2=RBS	6	advmod	_	O
+4	#Houthi	#houthi	NNP	pos2=NNS	8	poss	_	U-ORG
+5	's	's	POS	pos2=AFX	4	case	_	O
+6	fired	fire	VBD	pos2=VBN	0	root	_	O
+7	11	0	CD	_	8	nmod	_	U-CARDINAL
+8	missiles	missile	NNS	_	6	dobj	_	O
+9	into	into	IN	_	6	prep	_	O
+10	the	the	DT	_	13	det	_	O
+11	southern	southern	JJ	_	13	nmod	_	O
+12	border	border	NN	_	13	compound	_	O
+13	village	village	NN	_	9	pobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	#Al_Tuwal	#al_tuwal	NNP	pos2=NN	14	pobj	_	U-GPE
+16	in	in	IN	_	13	prep	_	O
+17	#SaudiArabia	#saudiarabia	NNP	pos2=GW	16	pobj	_	U-GPE
+18	https://t.co/yAMCKCGCqZ	#hlink#	ADD	_	6	dep	_	O
+

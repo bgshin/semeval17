@@ -1,0 +1,33 @@
+1	HEY	hey	UH	pos2=SYM	3	discourse	_	O
+2	OLD	old	JJ	_	3	nmod	_	O
+3	MAN	man	NN	_	18	nsubj	_	O
+4	,	,	,	_	3	punct	_	O
+5	PRACTICING	practice	VBG	_	3	acl	_	O
+6	BLOW	blow	NN	_	7	compound	_	O
+7	JOBS	job	NNS	_	5	dobj	_	O
+8	ON	on	IN	_	5	prep	_	O
+9	A	a	DT	pos2=NNP	10	det	_	O
+10	MIKE	mike	NNP	pos2=NN	8	pobj	_	U-ORG
+11	,	,	,	_	3	punct	_	O
+12	UNLESS	unless	IN	_	14	mark	_	O
+13	IT	it	PRP	pos2=NNP	14	nsubj	_	O
+14	'S	's	VBZ	_	3	advcl	_	O
+15	A	a	DT	pos2=NNP	16	det	_	O
+16	PENCE	penny	NNP	pos2=NN	14	attr	_	U-ORG
+17	,	,	,	_	18	punct	_	O
+18	IS	be	VBZ	_	0	root	_	O
+19	A	a	DT	_	20	det	_	O
+20	WASTE	waste	NN	_	18	attr	_	O
+21	OF	of	IN	_	20	prep	_	O
+22	TIME	time	NN	_	21	pobj	_	O
+23	.	.	.	_	18	punct	_	O
+
+1	YOU	you	PRP	_	2	nsubj	_	O
+2	HAVE	have	VBP	_	0	root	_	O
+3	PLENTY	plenty	NN	_	2	dobj	_	O
+4	OF	of	IN	_	3	prep	_	O
+5	REAL	real	JJ	_	6	nmod	_	O
+6	MEAT	meat	NN	_	4	pobj	_	O
+7	…	…	NFP	pos2=:	2	discourse	_	O
+8	https://t.co/nv1wubd0JW	#hlink#	ADD	_	2	dep	_	O
+

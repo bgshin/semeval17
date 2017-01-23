@@ -1,0 +1,18 @@
+1	@b50	@b0	IN	pos2=NN	6	prep	_	O
+2	Liberals	liberal	NNS	pos2=NNPS	1	pobj	_	O
+3	(	(	-LRB-	_	2	punct	_	O
+4	most	most	JJS	pos2=RBS	8	nmod	_	O
+5	)	)	-RRB-	_	2	punct	_	O
+6	are	be	VBP	_	0	root	_	O
+7	not	not	RB	_	6	neg	_	O
+8	thugs	thug	NNS	_	6	attr	_	O
+9	.	.	.	_	6	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	why	why	WRB	_	5	advmod	_	O
+4	they	they	PRP	_	5	nsubj	_	O
+5	re	re	VBP	pos2=IN	2	ccomp	_	O
+6	liberals	liberal	NNS	_	5	dobj	_	O
+7	.	.	.	_	2	punct	_	O
+

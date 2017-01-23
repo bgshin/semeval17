@@ -1,0 +1,28 @@
+1	Grayson	grayson	NNP	_	2	compound	_	B-PERSON
+2	Allen	allen	NNP	_	0	root	_	L-PERSON
+3	?	?	.	_	2	punct	_	O
+
+1	2015	0	CD	pos2=LS	3	nmod	_	U-CARDINAL
+2	Championship	championship	NN	pos2=NNP	3	compound	_	O
+3	game	game	NN	_	5	compound	_	O
+4	MVP.	mvp.	NNP	pos2=NN	5	compound	_	O
+5	Freshman	freshman	NNP	pos2=NN	0	root	_	O
+6	All	all	DT	pos2=NNP	7	det	_	O
+7	American	american	NNP	_	5	appos	_	U-NORP
+8	.	.	.	_	5	punct	_	O
+
+1	1000	0	CD	pos2=LS	4	nmod	_	U-CARDINAL
+2	+	+	SYM	_	1	punct	_	O
+3	College	college	NN	pos2=NNP	4	compound	_	O
+4	points	point	NNS	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	Duke	duke	NNP	pos2=UH	0	root	_	O
+2	All	all	DT	pos2=NNP	3	det	_	O
+3	American	american	NNP	pos2=JJ	1	appos	_	U-NORP
+4	.	.	.	_	1	punct	_	O
+
+1	According	accord	VBG	pos2=GW	3	nmod	_	O
+2	…	…	NFP	pos2=IN	3	punct	_	O
+3	https://t.co/nAP02x1wou	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

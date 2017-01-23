@@ -1,0 +1,14 @@
+1	#Venezuela	#venezuela	NN	pos2=NNP	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Maduro	maduro	NNP	_	4	nsubj	_	U-PERSON
+4	calls	call	VBZ	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	'	'	``	pos2=POS	5	punct	_	O
+7	rebellion	rebellion	NN	pos2=CD	5	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	Venezuelan	venezuelan	JJ	_	10	nmod	_	U-NORP
+10	women	woman	NNS	_	13	poss	_	O
+11	'	'	POS	pos2=''	10	case	_	O
+12	https://t.co/TgCXlFzCoA	#hlink#	ADD	_	13	nmod	_	O
+13	https://t.co/2Wsg0A0Su8	#hlink#	ADD	_	4	dep	_	U-ORG
+

@@ -1,0 +1,20 @@
+1	#PTVSALES	#ptvsales	NNS	pos2=NN	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Galaxy	galaxy	NNP	pos2=NN	4	compound	_	O
+4	Note	note	NNP	pos2=NN	9	dep	_	O
+5	4	0	CD	_	4	npadvmod	_	O
+6	-	-	:	pos2=HYPH	9	punct	_	O
+7	Black	black	JJ	pos2=NNP	9	nmod	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	Display	display	NN	_	16	dep	_	O
+10	:	:	:	_	16	punct	_	O
+11	5.7	0	CD	_	16	nmod	_	U-CARDINAL
+12	”	"	``	pos2=NNS	16	punct	_	O
+13	Quad	quad	NNP	pos2=NN	14	compound	_	O
+14	HD	hd	NN	pos2=NNP	16	compound	_	O
+15	Super	super	NNP	pos2=NNPS	16	compound	_	B-PRODUCT
+16	AMOLED	amoled	NNP	pos2=NNPS	0	root	_	L-PRODUCT
+17	...	..	.	pos2=,	16	punct	_	O
+
+1	https://t.co/0UNmYDeyG7	#hlink#	ADD	_	0	root	_	U-ORG
+

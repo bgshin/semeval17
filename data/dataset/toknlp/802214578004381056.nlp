@@ -1,0 +1,39 @@
+1	Ben	ben	NNP	_	2	compound	_	B-PERSON
+2	Carson	carson	NNP	_	3	nsubj	_	L-PERSON
+3	got	get	VBD	_	11	ccomp	_	O
+4	the	the	DT	_	6	det	_	O
+5	last	last	JJ	_	6	nmod	_	O
+6	job	job	NN	_	3	dobj	_	O
+7	on	on	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	list	list	NN	_	7	pobj	_	O
+10	,	,	,	_	11	punct	_	O
+11	why	why	WRB	_	0	root	_	O
+12	?	?	.	pos2=,	11	punct	_	O
+
+1	Housing	housing	NN	pos2=NNP	6	dep	_	O
+2	,	,	,	_	1	punct	_	O
+3	URBAN	urban	JJ	pos2=NNP	4	nmod	_	O
+4	DEVELOPMENT	development	NN	pos2=NNP	1	conj	_	O
+5	,	,	,	_	10	punct	_	O
+6	ALL	all	DT	_	8	det	_	O
+7	BLACK	black	JJ	pos2=NNP	8	nmod	_	O
+8	MEN	man	NNS	pos2=NNPS	10	nsubj	_	O
+9	CAN	can	MD	_	10	aux	_	O
+10	DO	do	VB	_	0	root	_	O
+11	THIS	this	DT	_	12	det	_	O
+12	JOB	job	NN	_	10	dobj	_	O
+13	.	.	.	_	10	punct	_	O
+
+1	He	he	PRP	_	3	nsubj	_	O
+2	will	will	MD	_	3	aux	_	O
+3	stay	stay	VB	_	0	root	_	O
+4	out	out	IN	pos2=RB	3	prep	_	O
+5	of	of	IN	_	4	prep	_	O
+6	OUR	our	PRP$	_	7	poss	_	O
+7	WAY	way	NN	_	5	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	🎺	🎺	NNP	pos2=SYM	2	nsubj	_	U-ORG
+2	SAID	say	VBD	pos2=NNP	0	root	_	O
+

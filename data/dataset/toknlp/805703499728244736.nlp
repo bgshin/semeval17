@@ -1,0 +1,26 @@
+1	..	..	.	pos2=NFP	0	predet	_	O
+
+1	migrants	migrant	NNS	_	3	nsubj	_	O
+2	should	should	MD	_	3	aux	_	O
+3	pledge	pledge	VB	pos2=NN	19	ccomp	_	O
+4	to	to	TO	_	5	aux	_	O
+5	follow	follow	VB	_	3	xcomp	_	O
+6	British	british	JJ	_	7	nmod	_	U-NORP
+7	values	value	NNS	_	5	dobj	_	O
+8	https://t.co/8reoZIfmUe	#hlink#	ADD	pos2=VBP	9	compound	_	O
+9	Britain	britain	NNP	_	11	nsubj	_	U-GPE
+10	WILL	will	MD	_	11	aux	_	O
+11	be	be	VB	_	3	conj	_	O
+12	a	a	DT	_	14	det	_	O
+13	muslim	muslim	JJ	_	14	nmod	_	U-NORP
+14	country	country	NN	_	11	attr	_	O
+15	by	by	IN	_	11	prep	_	O
+16	2040	0	CD	_	15	pobj	_	U-DATE
+17	,	,	,	_	19	punct	_	O
+18	it	it	PRP	_	19	nsubj	_	O
+19	's	's	VBZ	_	0	root	_	O
+20	what	what	WP	_	23	dobj	_	O
+21	the	the	DT	_	22	det	_	O
+22	Govt	govt	NNP	pos2=NN	23	nsubj	_	U-ORG
+23	wants	want	VBZ	_	19	ccomp	_	O
+

@@ -1,0 +1,21 @@
+1	i	I	PRP	_	2	nsubj	_	O
+2	have	have	VBP	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	talk	talk	VB	_	2	xcomp	_	O
+5	about	about	IN	_	4	prep	_	O
+6	animal	animal	NN	_	7	compound	_	O
+7	testing	testing	NN	_	5	pobj	_	O
+8	for	for	IN	_	7	prep	_	O
+9	two	#crd#	CD	_	10	nmod	_	B-TIME
+10	minutes	minute	NNS	_	8	pobj	_	L-TIME
+11	and	and	CC	_	2	cc	_	O
+12	that	that	DT	_	13	nsubj	_	O
+13	's	's	VBZ	_	2	conj	_	O
+14	too	too	RB	_	15	advmod	_	O
+15	short	short	JJ	_	13	acomp	_	O
+16	,	,	,	_	17	punct	_	O
+17	idk	idk	VB	pos2=RB	12	acl	_	O
+18	what	what	WP	_	20	dobj	_	O
+19	to	to	TO	_	20	aux	_	O
+20	say	say	VB	_	17	xcomp	_	O
+

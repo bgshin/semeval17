@@ -1,0 +1,27 @@
+1	@JoyAnnReid	@joyannreid	NN	pos2=XX	8	npadvmod	_	O
+2	After	after	IN	_	1	prep	_	O
+3	the	the	DT	_	5	det	_	O
+4	privatize	privatize	VB	pos2=NN	8	advcl	_	O
+5	medicare	medicare	NN	pos2=NNP	4	dobj	_	O
+6	,	,	,	_	8	punct	_	O
+7	SS	ss	NN	pos2=NNP	8	nsubj	_	U-ORG
+8	cut	cut	VBD	pos2=VBN	0	root	_	O
+9	medicaid	medicaid	NN	pos2=NNS	8	dobj	_	O
+10	and	and	CC	_	8	cc	_	O
+11	roll	roll	VB	pos2=NN	8	conj	_	O
+12	back	back	RP	pos2=RB	11	prt	_	O
+13	workers	worker	NNS	_	11	dobj	_	O
+14	,	,	,	_	13	punct	_	O
+15	women	woman	NNS	_	13	conj	_	O
+16	,	,	,	_	15	punct	_	O
+17	POC	poc	NN	pos2=NNP	15	conj	_	O
+18	,	,	,	_	17	punct	_	O
+19	environmental	environmental	JJ	_	20	nmod	_	O
+20	protection	protection	NN	_	17	conj	_	O
+21	and	and	CC	_	20	cc	_	O
+22	taxes	tax	NNS	_	20	conj	_	O
+23	.	.	.	_	8	punct	_	O
+
+1	Also	also	RB	_	2	advmod	_	O
+2	war	war	NN	_	0	root	_	O
+

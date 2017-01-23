@@ -1,0 +1,9 @@
+1	#ScreamQueens	#screamqueens	NNS	pos2=ADD	8	dep	_	O
+2	|	|	SYM	pos2=NFP	8	punct	_	O
+3	Recensione	recensione	NNP	pos2=NN	7	compound	_	O
+4	2×06	0×0	NN	pos2=CD	6	compound	_	O
+5	-	-	HYPH	pos2=:	6	punct	_	O
+6	Blood	blood	NN	pos2=NNP	7	compound	_	O
+7	Drive	drive	NN	pos2=GW	8	dep	_	O
+8	https://t.co/8SMUxhgoaH	#hlink#	ADD	pos2=NN	0	root	_	O
+

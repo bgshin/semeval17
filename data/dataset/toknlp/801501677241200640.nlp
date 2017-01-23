@@ -1,0 +1,26 @@
+1	@YeyoZa	@yeyoza	ADD	pos2=UH	0	root	_	O
+2	@FormerlyFormer	@formerlyformer	ADD	pos2=NNP	1	pobj	_	O
+3	And	and	CC	_	1	cc	_	O
+4	then	then	RB	_	6	advmod	_	O
+5	they	they	PRP	_	6	nsubj	_	O
+6	have	have	VBP	_	1	conj	_	O
+7	the	the	DT	_	8	det	_	O
+8	audacity	audacity	NN	_	6	dobj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	claim	claim	VB	pos2=NN	8	acl	_	O
+11	rightists	rightist	NNS	_	12	nsubj	_	O
+12	stay	stay	VB	pos2=VBP	10	ccomp	_	O
+13	away	away	RB	_	12	advmod	_	O
+14	because	because	IN	_	16	mark	_	O
+15	they	they	PRP	_	16	nsubj	_	O
+16	are	be	VBP	_	12	advcl	_	O
+17	"	"	``	_	20	punct	_	O
+18	anti	anti	AFX	pos2=RB	20	advmod	_	O
+19	-	-	HYPH	_	20	punct	_	O
+20	intellectual	intellectual	JJ	_	16	acomp	_	O
+21	"	"	''	pos2=NN	20	punct	_	O
+22	and	and	CC	_	20	cc	_	O
+23	money	money	NN	_	24	npadvmod	_	O
+24	hungry	hungry	JJ	_	20	conj	_	O
+25	.	.	.	_	6	punct	_	O
+

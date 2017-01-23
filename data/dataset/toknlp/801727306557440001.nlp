@@ -1,0 +1,13 @@
+1	Look	look	VB	_	0	root	_	O
+2	at	at	IN	_	1	prep	_	O
+3	the	the	DT	_	5	det	_	O
+4	anti-Trump	anti-trump	JJ	_	5	nmod	_	U-NORP
+5	riots	riot	NNS	_	2	pobj	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	Case	case	NN	_	2	nsubj	_	O
+2	closed	close	VBN	pos2=VBD	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	https://t.co/gbZifIIuR2	#hlink#	ADD	_	0	root	_	U-ORG
+

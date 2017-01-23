@@ -1,0 +1,18 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	am	be	VBP	_	0	root	_	O
+3	so	so	RB	_	4	advmod	_	O
+4	excited	excited	JJ	_	2	acomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	see	see	VB	_	4	xcomp	_	O
+7	@liza_weil	@liza_weil	NNP	pos2=XX	6	dobj	_	U-GPE
+8	,	,	,	_	7	punct	_	O
+9	@seangunn	@seangunn	NNP	pos2=XX	7	conj	_	U-GPE
+10	and	and	CC	_	9	cc	_	O
+11	@ScottGPatterson	@scottgpatterson	NNP	pos2=XX	9	conj	_	U-GPE
+12	on	on	IN	pos2=RP	6	prep	_	O
+13	@FallonTonight	@fallontonight	NNP	pos2=NN	12	pobj	_	U-GPE
+14	.	.	.	_	2	punct	_	O
+
+1	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNS	2	compound	_	O
+2	#FallonTonight	#fallontonight	NN	pos2=ADD	0	root	_	O
+

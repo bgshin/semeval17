@@ -1,0 +1,26 @@
+1	@genigma79	@genigma0	NN	pos2=LS	2	dep	_	O
+2	@jupjup159	@jupjup0	LS	pos2=NN	7	meta	_	O
+3	@REnlightenment	@renlightenment	ADD	pos2=NN	7	advmod	_	O
+4	He	he	PRP	_	7	nsubj	_	O
+5	's	's	VBZ	_	7	aux	_	O
+6	already	already	RB	_	7	advmod	_	O
+7	doing	do	VBG	_	0	root	_	O
+8	it	it	PRP	_	7	dobj	_	O
+9	.	.	.	_	7	punct	_	O
+
+1	Funds	fund	NNS	pos2=VBZ	4	nmod	_	O
+2	Black	black	NNP	pos2=JJ	3	nsubj	_	O
+3	Lives	live	VBZ	pos2=NNS	4	nmod	_	O
+4	Matter	matter	NN	pos2=NNP	7	npadvmod	_	O
+5	;	;	:	pos2=,	8	punct	_	O
+6	funds	fund	NNS	pos2=VBZ	9	agent	_	O
+7	anti-Trump	anti-trump	JJ	_	8	nmod	_	O
+8	riots	riot	NNS	_	6	dobj	_	O
+9	.	.	.	_	0	root	_	O
+
+1	Ultimate	ultimate	JJ	_	2	nmod	_	U-ORG
+2	aim	aim	NN	_	5	dep	_	O
+3	,	,	,	_	5	punct	_	O
+4	global	global	JJ	_	5	nmod	_	O
+5	government	government	NN	_	0	root	_	O
+

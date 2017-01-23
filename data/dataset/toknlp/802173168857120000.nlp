@@ -1,0 +1,18 @@
+1	#Uber	#uber	NNP	pos2=PRP	2	nsubj	_	U-PERSON
+2	writes	write	VBZ	_	0	root	_	O
+3	to	to	IN	_	2	prep	_	O
+4	Maha	maha	NNP	_	5	compound	_	U-PERSON
+5	govt	govt	NN	_	3	pobj	_	O
+6	,	,	,	_	2	punct	_	O
+7	expresses	express	VBZ	_	2	conj	_	O
+8	concern	concern	NN	_	7	dobj	_	O
+9	on	on	IN	_	8	prep	_	O
+10	proposed	propose	VBN	pos2=JJ	11	nmod	_	O
+11	rules	rule	NNS	_	9	pobj	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	more	more	RBR	pos2=JJR	1	advmod	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/fl0tovZ8CR	#hlink#	ADD	pos2=NN	1	dep	_	O
+

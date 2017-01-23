@@ -1,0 +1,22 @@
+1	guessing	guess	VBG	_	0	root	_	O
+2	Congress	congress	NNP	_	5	nmod	_	U-ORG
+3	,	,	,	_	1	punct	_	O
+4	oversight	oversight	NN	_	5	compound	_	O
+5	committees	committee	NNS	_	1	dobj	_	O
+6	...	..	.	pos2=:	1	punct	_	O
+
+1	the	the	DT	_	2	det	_	O
+2	ones	#crd#	NNS	_	7	nsubj	_	O
+3	who	who	WP	_	4	nsubj	_	O
+4	created	create	VBD	_	2	relcl	_	O
+5	scandals	scandal	NNS	_	4	dobj	_	O
+6	,	,	,	_	7	punct	_	O
+7	peppered	pepper	VBD	pos2=VBN	0	root	_	O
+8	Obama	obama	NNP	_	9	compound	_	U-PERSON
+9	admin	admin	NN	pos2=VB	7	dobj	_	O
+10	with	with	IN	_	9	prep	_	O
+11	constant	constant	JJ	_	12	nmod	_	O
+12	subpoen	subpoen	NN	pos2=JJ	10	pobj	_	O
+13	…	…	NFP	pos2=-LRB-	14	punct	_	O
+14	https://t.co/hnyBwuXmAi	#hlink#	ADD	_	7	dep	_	O
+

@@ -1,0 +1,10 @@
+1	@LifeOf_Pollo	@lifeof_pollo	NNP	pos2=WP	5	nmod	_	O
+2	Now	now	RB	_	3	advmod	_	O
+3	for	for	IN	_	0	root	_	O
+4	Raul	raul	NNP	_	5	compound	_	B-PERSON
+5	Castro	castro	NNP	_	3	pobj	_	L-PERSON
+6	and	and	CC	_	5	cc	_	O
+7	Nicolas	nicolas	NNP	_	8	compound	_	B-PERSON
+8	Maduro	maduro	NNP	_	5	conj	_	L-PERSON
+9	.	.	.	_	1	punct	_	O
+

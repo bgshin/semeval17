@@ -1,0 +1,15 @@
+1	@SenateDems	@senatedems	NNS	pos2=ADD	3	vocative	_	O
+2	@nytimes	@nytimes	UH	pos2=NNS	3	discourse	_	O
+3	Let	let	VB	_	0	root	_	O
+4	them	them	PRP	_	5	nsubj	_	O
+5	do	do	VB	_	3	ccomp	_	O
+6	it	it	PRP	_	5	dobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	Deplorables	deplorables	NNS	pos2=NNP	2	nsubj	_	O
+2	need	need	VBP	pos2=NN	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	feel	feel	VB	_	2	xcomp	_	O
+5	pain	pain	NN	_	4	dobj	_	O
+6	.	.	.	_	2	punct	_	O
+

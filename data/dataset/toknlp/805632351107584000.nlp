@@ -1,0 +1,37 @@
+1	me	me	PRP	_	4	dep	_	O
+2	,	,	,	_	15	punct	_	O
+3	in	in	IN	_	15	prep	_	O
+4	2008	0	CD	_	3	pobj	_	U-DATE
+5	,	,	,	_	15	punct	_	O
+6	a	a	DT	_	10	det	_	O
+7	liberal	liberal	JJ	pos2=NN	10	nmod	_	O
+8	:	:	:	_	10	punct	_	O
+9	gay	gay	JJ	pos2=NN	10	nmod	_	O
+10	marriage	marriage	NN	_	15	nsubj	_	O
+11	,	,	,	_	10	punct	_	O
+12	obama	obama	NN	pos2=NNP	10	conj	_	O
+13	,	,	,	_	15	punct	_	O
+14	society	society	NN	_	15	nsubj	_	O
+15	is	be	VBZ	_	0	root	_	O
+16	Alright	alright	JJ	pos2=UH	15	acomp	_	O
+17	!	!	.	_	15	punct	_	O
+
+1	me	me	PRP	_	11	nsubj	_	O
+2	,	,	,	_	11	punct	_	O
+3	in	in	IN	_	11	prep	_	O
+4	2016	0	CD	_	3	pobj	_	U-DATE
+5	,	,	,	_	11	punct	_	O
+6	a	a	DT	_	7	det	_	O
+7	socialist	socialist	NN	pos2=JJ	11	dep	_	O
+8	:	:	:	_	11	punct	_	O
+9	it	it	PRP	_	11	nsubj	_	O
+10	would	would	MD	_	11	aux	_	O
+11	be	be	VB	_	0	root	_	O
+12	nice	nice	JJ	_	11	acomp	_	O
+13	to	to	TO	_	14	aux	_	O
+14	avoid	avoid	VB	_	11	xcomp	_	O
+15	a	a	DT	_	17	det	_	O
+16	nuclear	nuclear	JJ	_	17	nmod	_	O
+17	holocaust	holocaust	NN	pos2=NNP	14	dobj	_	O
+18	.	.	.	_	11	punct	_	O
+

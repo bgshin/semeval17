@@ -1,0 +1,18 @@
+1	To	to	IN	pos2=TO	0	root	_	O
+2	all	all	DT	pos2=PDT	3	det	_	O
+3	Trumpsters	trumpsters	NNPS	pos2=NNP	1	pobj	_	U-PERSON
+4	...	..	.	pos2=,	1	punct	_	O
+
+1	need	need	VB	pos2=VBP	0	root	_	O
+2	a	a	DT	_	3	det	_	O
+3	job	job	NN	_	1	dobj	_	O
+4	?	?	.	_	1	punct	_	O
+
+1	Contact	contact	VB	pos2=NN	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	#TrumpTransitionTeam	#trumptransitionteam	NN	pos2=NNP	1	dobj	_	O
+4	!	!	.	_	1	punct	_	O
+
+1	#RotsaRuck	#rotsaruck	NN	pos2=UH	0	root	_	O
+2	!!!	!!	.	_	1	punct	_	O
+

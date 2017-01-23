@@ -1,0 +1,19 @@
+1	How	how	WRB	_	3	advmod	_	O
+2	to	to	TO	_	3	aux	_	O
+3	deal	deal	VB	_	0	root	_	O
+4	with	with	IN	_	3	prep	_	O
+5	border	border	NN	_	6	compound	_	O
+6	control	control	NN	_	4	pobj	_	O
+7	or	or	CC	_	6	cc	_	O
+8	the	the	DT	_	10	det	_	O
+9	immigration	immigration	NN	_	10	compound	_	O
+10	desk	desk	NN	_	6	conj	_	O
+11	!	!	.	_	3	punct	_	O
+
+1	New	new	JJ	pos2=NNP	2	nmod	_	O
+2	post	post	NN	pos2=RB	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	#ttot	#ttot	UH	pos2=ADD	2	discourse	_	O
+2	https://t.co/P0SnnbZoNd	#hlink#	ADD	pos2=NN	0	root	_	O
+

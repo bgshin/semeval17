@@ -1,0 +1,28 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	always	always	RB	_	2	advmod	_	O
+4	a	a	DT	_	8	det	_	O
+5	"	"	``	_	8	punct	_	O
+6	badly	badly	RB	_	7	advmod	_	O
+7	worded	word	VBN	pos2=JJ	8	nmod	_	O
+8	joke	joke	NN	_	2	attr	_	O
+9	"	"	''	pos2=``	8	punct	_	O
+10	when	when	WRB	_	12	advmod	_	O
+11	leftists	leftist	NNS	_	12	nsubj	_	O
+12	call	call	VBP	_	8	relcl	_	O
+13	on	on	IN	_	12	prep	_	O
+14	terrorists	terrorist	NNS	_	13	pobj	_	O
+15	to	to	TO	_	16	aux	_	O
+16	kill	kill	VB	_	12	xcomp	_	O
+17	people	people	NNS	_	16	dobj	_	O
+18	they	they	PRP	_	21	nsubj	_	O
+19	do	do	VBP	_	21	aux	_	O
+20	n't	not	RB	_	21	neg	_	O
+21	like	like	VB	_	17	relcl	_	O
+22	.	.	.	_	2	punct	_	O
+
+1	@pattonoswalt	@pattonoswalt	UH	pos2=NN	2	discourse	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	…	…	NFP	pos2=-LRB-	2	discourse	_	O
+4	https://t.co/ygJsR9p8VZ	#hlink#	ADD	_	2	dep	_	O
+

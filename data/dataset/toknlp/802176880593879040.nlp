@@ -1,0 +1,22 @@
+1	@TheEconomist	@theeconomist	ADD	pos2=UH	0	root	_	O
+2	#Assad	#assad	NNP	pos2=NN	7	poss	_	U-ORG
+3	's	's	POS	_	2	case	_	O
+4	blood	blood	NN	_	6	npadvmod	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	soaked	soak	VBN	_	7	nmod	_	O
+7	hands	hand	NNS	_	1	dobj	_	O
+8	?	?	.	_	1	punct	_	O
+
+1	👀	👀	NNP	pos2=NN	7	nsubjpass	_	O
+2	And	and	CC	_	1	cc	_	O
+3	#SaudiHELLabia	#saudihellabia	NNP	pos2=NN	1	conj	_	U-ORG
+4	's	's	POS	_	3	case	_	O
+5	blood	blood	NN	_	7	npadvmod	_	O
+6	-	-	HYPH	pos2=:	7	punct	_	O
+7	stained	stain	VBN	_	0	root	_	O
+8	?	?	.	_	7	punct	_	O
+
+1	😒	😒	SYM	pos2=NFP	3	punct	_	U-ORG
+2	#Syria	#syria	NN	pos2=NNP	3	compound	_	O
+3	#Yemen	#yemen	NNS	pos2=UH	0	root	_	O
+

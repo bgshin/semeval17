@@ -1,0 +1,17 @@
+1	@EricTrump	@erictrump	NN	pos2=TO	3	nsubj	_	O
+2	please	please	UH	_	3	discourse	_	O
+3	talk	talk	VB	_	0	root	_	O
+4	truth	truth	NN	_	3	dobj	_	O
+5	to	to	IN	pos2=TO	3	prep	_	O
+6	power	power	NN	pos2=VB	5	pobj	_	O
+7	with	with	IN	_	3	prep	_	O
+8	your	your	PRP$	_	9	nsubj	_	O
+9	pops	pop	VBZ	pos2=NNS	7	pobj	_	O
+10	us	us	PRP	_	9	dobj	_	O
+11	deplorables	deplorables	NNS	pos2=TO	10	appos	_	O
+12	do	do	VBP	pos2=VB	14	aux	_	O
+13	nt	nt	RB	_	14	advmod	_	O
+14	want	want	VB	_	11	root	_	O
+15	bitch	bitch	NN	pos2=JJ	16	compound	_	O
+16	romney	romney	NN	pos2=RB	14	dobj	_	O
+

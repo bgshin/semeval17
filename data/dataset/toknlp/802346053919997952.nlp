@@ -1,0 +1,15 @@
+1	Saakashvili	saakashvili	NNP	_	2	nsubj	_	U-PERSON
+2	followed	followed	VBD	pos2=VBN	0	root	_	O
+3	Savchenko	savchenko	NNP	_	5	nsubj	_	U-PERSON
+4	has	have	VBZ	_	5	aux	_	O
+5	passed	pass	VBN	_	2	ccomp	_	O
+6	a	a	DT	_	8	det	_	O
+7	drug	drug	NN	_	8	compound	_	O
+8	test	test	NN	_	5	dobj	_	O
+9	live	live	VBP	pos2=NN	5	advmod	_	O
+10	:	:	:	_	14	punct	_	O
+11	https://t.co/f3XAP4kfHU	#hlink#	ADD	_	12	nmod	_	O
+12	https://t.co/vFiVfoulOQ	#hlink#	ADD	_	14	nmod	_	O
+13	#news	#news	-RRB-	pos2=IN	12	punct	_	O
+14	#Russia	#russia	NN	pos2=NNP	2	dobj	_	O
+

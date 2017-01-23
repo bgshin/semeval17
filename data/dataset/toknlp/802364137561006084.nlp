@@ -1,0 +1,24 @@
+1	@CheleReamey	@chelereamey	UH	pos2=XX	19	discourse	_	O
+2	@funder	@funder	UH	pos2=IN	19	discourse	_	O
+3	@ZeldaShagnasty	@zeldashagnasty	NN	pos2=ADD	4	compound	_	O
+4	@FBI	@fbi	NNP	pos2=NN	8	compound	_	U-ORG
+5	@TheJusticeDept	@thejusticedept	IN	pos2=ADD	2	punct	_	O
+6	speaking	speak	VBG	pos2=NN	5	pcomp	_	O
+7	of	of	IN	_	6	prep	_	O
+8	FBI	fbi	NNP	_	7	pobj	_	U-ORG
+9	,	,	,	_	8	punct	_	O
+10	any	any	DT	_	11	det	_	O
+11	word	word	NN	_	8	appos	_	O
+12	about	about	IN	_	11	prep	_	O
+13	Huma	huma	NNP	_	15	poss	_	U-PERSON
+14	's	's	POS	_	13	case	_	O
+15	email	email	NN	_	12	pobj	_	O
+16	that	that	IN	pos2=WDT	19	mark	_	O
+17	Comey	comey	NNP	_	19	nsubj	_	U-PERSON
+18	just	just	RB	_	19	advmod	_	O
+19	had	have	VBD	_	0	root	_	O
+20	to	to	TO	_	21	aux	_	O
+21	write	write	VB	_	19	xcomp	_	O
+22	about	about	IN	pos2=RB	21	prep	_	O
+23	?	?	.	_	19	punct	_	O
+

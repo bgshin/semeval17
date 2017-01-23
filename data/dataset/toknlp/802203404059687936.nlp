@@ -1,0 +1,10 @@
+1	Help	help	VB	_	0	root	_	O
+2	your	your	PRP$	_	3	poss	_	O
+3	support	support	NN	_	1	dobj	_	O
+4	for	for	IN	_	3	prep	_	O
+5	Uber	uber	NNP	_	4	pobj	_	U-ORG
+6	in	in	IN	_	5	prep	_	O
+7	Maryland	maryland	NNP	_	6	pobj	_	U-GPE
+8	https://t.co/EvA5dB0qnf	#hlink#	ADD	pos2=NNP	3	appos	_	O
+9	#Uber	#uber	NNP	pos2=-RRB-	3	appos	_	O
+

@@ -1,0 +1,16 @@
+1	Ashley	ashley	NNP	_	2	compound	_	B-PERSON
+2	Graham	graham	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	vision	vision	NN	_	3	attr	_	O
+6	in	in	IN	_	5	prep	_	O
+7	velvet	velvet	NN	_	6	pobj	_	O
+8	at	at	IN	_	5	prep	_	O
+9	VH1	vh0	NNP	pos2=NN	11	compound	_	B-ORG
+10	Divas	divas	NNP	pos2=NNPS	11	compound	_	I-ORG
+11	Holiday	holiday	NNP	_	15	dep	_	L-ORG
+12	bash	bash	NN	pos2=GW	15	dep	_	O
+13	😍	😍	GW	pos2=NFP	15	nmod	_	U-NORP
+14	https://t.co/k7kTamYp85	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/2JbfAxvWUk	#hlink#	ADD	_	8	pobj	_	U-ORG
+

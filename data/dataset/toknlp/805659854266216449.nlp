@@ -1,0 +1,30 @@
+1	@AliVelshi	@alivelshi	NNP	pos2=NNS	2	vocative	_	O
+2	Forget	forget	VB	pos2=VBP	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	pipeline	pipeline	NN	_	2	dobj	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	There	there	EX	_	2	expl	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	endless	endless	JJ	_	4	nmod	_	O
+4	sunshine	sunshine	NN	_	2	attr	_	O
+5	and	and	CC	_	4	cc	_	O
+6	plentiful	plentiful	JJ	_	7	nmod	_	O
+7	wind	wind	NN	_	4	conj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	provide	provide	VB	_	6	advcl	_	O
+10	us	us	PRP	_	9	dobj	_	O
+11	with	with	IN	_	9	prep	_	O
+12	power	power	NN	_	11	pobj	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	Why	why	WRB	_	3	advmod	_	O
+2	fossil	fossil	NN	pos2=JJ	3	compound	_	O
+3	fuels	fuel	NNS	_	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	crazy	crazy	JJ	_	2	acomp	_	O
+4	!	!	.	_	2	punct	_	O
+

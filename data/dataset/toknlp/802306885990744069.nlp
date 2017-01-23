@@ -1,0 +1,21 @@
+1	Until	until	IN	_	4	mark	_	O
+2	self-driving	self-driving	JJ	pos2=VBG	3	nmod	_	O
+3	cars	car	NNS	_	4	nsubj	_	O
+4	show	show	VBP	_	14	advcl	_	O
+5	up	up	RP	pos2=RB	4	prt	_	O
+6	,	,	,	_	9	punct	_	O
+7	"	"	``	pos2=''	9	punct	_	O
+8	driving	drive	VBG	_	9	compound	_	O
+9	mode	mode	NN	_	4	dobj	_	O
+10	"	"	''	_	9	punct	_	O
+11	for	for	IN	_	9	prep	_	O
+12	smartphones	smartphone	NNS	_	11	pobj	_	O
+13	might	might	MD	_	14	aux	_	O
+14	prevent	prevent	VB	_	0	root	_	O
+15	your	your	PRP$	_	16	poss	_	O
+16	distractions	distraction	NNS	_	14	dobj	_	O
+17	from	from	IN	_	14	prep	_	O
+18	killing	kill	VBG	_	17	pcomp	_	O
+19	ot	ot	IN	pos2=RP	18	prep	_	O
+20	hershttps://t.co/SsA8VjEcFz	#hlink#	ADD	pos2=NN	14	dep	_	O
+

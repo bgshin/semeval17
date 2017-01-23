@@ -1,0 +1,10 @@
+1	One	#crd#	CD	_	2	nmod	_	U-CARDINAL
+2	Direction	direction	NN	pos2=NNP	9	dep	_	O
+3	Official	official	JJ	pos2=NNP	8	nmod	_	O
+4	Concert	concert	NNP	pos2=NN	5	compound	_	O
+5	Tank	tank	NNP	pos2=NN	6	compound	_	O
+6	Size	size	NN	pos2=NNP	8	compound	_	O
+7	Medium	medium	NNP	pos2=JJ	8	compound	_	O
+8	#onedirection	#onedirection	NN	pos2=ADD	9	dep	_	O
+9	https://t.co/ebO0axL0FU	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

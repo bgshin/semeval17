@@ -1,0 +1,18 @@
+1	To	to	TO	_	2	aux	_	O
+2	motivate	motivate	VB	_	9	advcl	_	O
+3	deep	deep	JJ	pos2=NN	4	nmod	_	O
+4	learning	learning	NN	_	2	dobj	_	O
+5	&	&	CC	_	4	cc	_	O
+6	resilience	resilience	NN	_	4	conj	_	O
+7	help	help	NN	pos2=VBP	8	compound	_	O
+8	youth	youth	NN	pos2=RB	9	nsubj	_	O
+9	develop	develop	VB	pos2=JJ	0	root	_	O
+10	initiative	initiative	NN	_	9	dobj	_	O
+11	.	.	.	_	9	punct	_	O
+
+1	Great	great	JJ	_	2	nmod	_	O
+2	tips	tip	NNS	_	5	dep	_	O
+3	from	from	IN	_	2	prep	_	O
+4	@DrPriceMitchell	@drpricemitchell	NNP	pos2=ADD	3	pobj	_	O
+5	https://t.co/C6U4V9l2c1	#hlink#	ADD	_	0	root	_	O
+

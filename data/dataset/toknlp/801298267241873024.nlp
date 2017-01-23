@@ -1,0 +1,15 @@
+1	@jimmyfallon	@jimmyfallon	NNP	pos2=IN	3	compound	_	O
+2	Emily	emily	NNP	_	3	compound	_	B-PERSON
+3	Gilmore	gilmore	NNP	_	0	root	_	L-PERSON
+4	,	,	,	_	3	punct	_	O
+5	Michel	michel	NNP	_	6	compound	_	B-PERSON
+6	Gerard	gerard	NNP	_	3	conj	_	L-PERSON
+7	,	,	,	_	6	punct	_	O
+8	Jess	jess	NNP	_	9	compound	_	B-PERSON
+9	Mariano	mariano	NNP	_	6	conj	_	L-PERSON
+10	,	,	,	_	9	punct	_	O
+11	and	and	CC	_	9	cc	_	O
+12	Luke	luke	NNP	_	13	compound	_	B-NORP
+13	Danes	dane	NNPS	pos2=NNP	9	conj	_	L-NORP
+14	#GilmoreGirlsTop4	#gilmoregirlstop0	POS	pos2=VBP	13	case	_	O
+

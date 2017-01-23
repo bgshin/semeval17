@@ -1,0 +1,16 @@
+1	Those	those	DT	_	5	det	_	O
+2	classy	classy	JJ	_	5	nmod	_	O
+3	,	,	,	_	6	punct	_	O
+4	tolerant	tolerant	JJ	_	5	nmod	_	O
+5	leftists	leftist	NNS	_	6	nsubj	_	O
+6	are	be	VBP	_	0	root	_	O
+7	already	already	RB	_	6	advmod	_	O
+8	back	back	RB	_	6	advmod	_	O
+9	to	to	IN	_	8	prep	_	O
+10	their	their	PRP$	_	12	poss	_	O
+11	old	old	JJ	_	12	nmod	_	O
+12	tricks	trick	NNS	_	9	pobj	_	O
+13	.	.	.	_	6	punct	_	O
+
+1	https://t.co/E8ictScln9	#hlink#	ADD	_	0	root	_	U-ORG
+

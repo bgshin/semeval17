@@ -1,0 +1,27 @@
+1	Criticized	criticize	VBD	pos2=VBN	0	root	_	O
+2	the	the	DT	_	8	det	_	O
+3	Clinton	clinton	NNP	_	4	compound	_	O
+4	Foundation	foundation	NNP	_	8	nmod	_	O
+5	/	/	SYM	pos2=HYPH	7	punct	_	O
+6	State	state	NNP	pos2=NN	7	compound	_	O
+7	Dept.	dept.	NNP	pos2=POS	4	prep	_	O
+8	relationship	relationship	NN	_	1	dobj	_	O
+9	.	.	.	_	1	punct	_	O
+
+1	First	#ord#	JJ	pos2=RB	2	nmod	_	U-ORDINAL
+2	move	move	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	nominate	nominate	VB	_	3	xcomp	_	O
+6	some1	some0	NN	_	5	dobj	_	O
+7	w	w	IN	pos2=RB	2	prep	_	O
+8	/	/	HYPH	pos2=,	7	punct	_	O
+9	an	an	DT	pos2=JJ	10	det	_	O
+10	appearance	appearance	NN	_	7	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	a	a	DT	_	13	det	_	O
+13	conflict	conflict	NN	_	11	pobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	interest	interest	NN	_	14	pobj	_	O
+16	?	?	.	_	3	punct	_	O
+

@@ -1,0 +1,18 @@
+1	https://t.co/GJj54KZkWW	#hlink#	ADD	pos2=NN	3	compound	_	B-ORG
+2	Selfie	selfie	NNP	pos2=NN	3	compound	_	I-ORG
+3	Stick	stick	NNP	pos2=NN	12	nsubj	_	L-ORG
+4	,	,	,	_	3	punct	_	O
+5	Extendable	extendable	JJ	pos2=NNP	6	nmod	_	O
+6	Monopod	monopod	NN	pos2=NNP	3	appos	_	O
+7	with	with	IN	_	6	prep	_	O
+8	Bluetooth	bluetooth	NNP	_	9	compound	_	O
+9	Remote	remote	NNP	pos2=JJ	7	pobj	_	U-PRODUCT
+10	and	and	CC	_	9	cc	_	O
+11	Tripod	tripod	NNP	_	9	conj	_	U-PRODUCT
+12	Stand	stand	VB	pos2=NNP	0	root	_	O
+13	for	for	IN	_	12	prep	_	O
+14	iPhone	iphone	NNP	_	13	pobj	_	B-DATE
+15	7	0	CD	_	16	nmod	_	I-DATE
+16	6S	0s	NNS	pos2=NN	17	dep	_	L-DATE
+17	https://t.co/95iIRbaBUd	#hlink#	ADD	_	12	dep	_	O
+

@@ -1,0 +1,24 @@
+1	@Habesh321	@habesh0	NN	pos2=NNS	2	nsubj	_	O
+2	Naive	naive	JJ	_	0	root	_	O
+3	2	0	CD	pos2=TO	4	nsubj	_	U-CARDINAL
+4	believe	believe	VBP	pos2=VB	0	root	_	O
+5	govmts	govmts	NNS	pos2=TO	8	nsubj	_	O
+6	do	do	VBP	pos2=VB	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	do	do	VB	_	4	ccomp	_	O
+9	what	what	WP	_	11	dobj	_	O
+10	it	it	PRP	_	11	nsubj	_	O
+11	takes	take	VBZ	_	8	ccomp	_	O
+12	already	already	RB	_	11	advmod	_	O
+13	.	.	.	_	4	punct	_	O
+
+1	Unless	unless	IN	_	4	mark	_	O
+2	you	you	PRP	_	4	nsubj	_	O
+3	're	be	VBP	_	4	aux	_	O
+4	advocating	advocate	VBG	_	0	root	_	O
+5	drone	drone	NN	_	6	compound	_	O
+6	strikes	strike	NNS	_	4	dobj	_	O
+7	in	in	IN	_	6	prep	_	O
+8	Europe	europe	NNP	_	7	pobj	_	U-LOC
+9	!	!	.	_	4	punct	_	O
+

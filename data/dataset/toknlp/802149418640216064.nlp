@@ -1,0 +1,10 @@
+1	NO	no	DT	_	2	det	_	O
+2	ONE	#crd#	NN	pos2=NNP	3	nsubj	_	O
+3	SAW	see	VBD	pos2=NN	0	root	_	O
+4	THAT	that	IN	pos2=DT	9	mark	_	O
+5	HAPPENING	happen	VBG	_	9	nmod	_	O
+6	😍	😍	IN	pos2=NNP	5	prep	_	B-DATE
+7	@LiamPayne	@liampayne	GW	pos2=ADD	9	nmod	_	I-DATE
+8	#OneDirection	#onedirection	GW	pos2=ADD	9	nmod	_	L-DATE
+9	https://t.co/E5V3v0PXTb	#hlink#	ADD	pos2=NN	3	ccomp	_	O
+

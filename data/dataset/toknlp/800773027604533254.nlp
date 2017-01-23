@@ -1,0 +1,20 @@
+1	#TheLinuxFoundation	#thelinuxfoundation	NNP	pos2=NN	2	compound	_	O
+2	Microsoft	microsoft	NNP	_	7	poss	_	U-ORG
+3	's	's	POS	_	2	case	_	O
+4	open	open	JJ	_	5	nmod	_	O
+5	source	source	NN	_	7	compound	_	O
+6	love	love	NN	pos2=IN	7	compound	_	O
+7	fest	fest	NN	_	8	nsubj	_	O
+8	continues	continue	VBZ	_	0	root	_	O
+9	as	as	IN	_	11	mark	_	O
+10	it	it	PRP	_	11	nsubj	_	O
+11	joins	join	VBZ	_	8	advcl	_	O
+12	Linux	linux	NNP	_	13	compound	_	B-ORG
+13	Foundation	foundation	NNP	pos2=NN	11	dobj	_	L-ORG
+14	.	.	.	_	8	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	more	more	RBR	pos2=JJR	1	advmod	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/HXqRGtTB5J	#hlink#	ADD	pos2=NN	1	dep	_	O
+

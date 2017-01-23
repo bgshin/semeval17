@@ -1,0 +1,15 @@
+1	@M_Sighil	@m_sighil	NNP	pos2=ADD	4	nsubj	_	O
+2	@nypost	@nypost	IN	pos2=POS	1	prep	_	O
+3	Hinduism	hinduism	NNP	_	2	pobj	_	O
+4	says	say	VBZ	_	0	root	_	O
+5	vegetarianism	vegetarianism	NN	_	6	nsubj	_	O
+6	is	be	VBZ	_	4	ccomp	_	O
+7	a	a	DT	_	9	det	_	O
+8	noble	noble	JJ	_	9	nmod	_	O
+9	pursuit	pursuit	NN	_	13	nmod	_	O
+10	-	-	:	_	13	punct	_	O
+11	not	not	RB	_	13	neg	_	O
+12	a	a	DT	_	13	det	_	O
+13	requirement	requirement	NN	_	6	attr	_	O
+14	.	.	.	_	4	punct	_	O
+

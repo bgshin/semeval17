@@ -1,0 +1,12 @@
+1	@TeeDubyaD	@teedubyad	NN	pos2=VBN	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	sure	sure	JJ	_	2	pcomp	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	Dark	dark	JJ	pos2=NNP	2	nmod	_	O
+2	horse	horse	NN	_	0	root	_	O
+3	Cy	cy	NNP	pos2=NN	5	nmod	_	O
+4	Young	young	JJ	pos2=NNP	5	nmod	_	O
+5	candidate	candidate	NN	_	2	appos	_	O
+6	too	too	RB	_	2	advmod	_	O
+

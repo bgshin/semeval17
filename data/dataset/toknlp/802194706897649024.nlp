@@ -1,0 +1,12 @@
+1	Syrian	syrian	JJ	_	3	nmod	_	B-ORG
+2	Army	army	NNP	pos2=NN	3	compound	_	L-ORG
+3	targets	target	NNS	pos2=VBZ	5	poss	_	O
+4	#ISIS	#isis	POS	pos2=VBP	3	case	_	O
+5	positions	position	NNS	_	9	nsubj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	Deir	deir	NNP	_	8	compound	_	B-GPE
+8	Ezzor	ezzor	NNP	_	6	pobj	_	L-GPE
+9	https://t.co/tVeMOB35lP	#hlink#	ADD	pos2=NNP	0	root	_	O
+10	#DeirEzzor	#deirezzor	-RRB-	pos2=ADD	9	punct	_	U-GPE
+11	#Syria	#syria	NN	pos2=NNP	0	root	_	O
+

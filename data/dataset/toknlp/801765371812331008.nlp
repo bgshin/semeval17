@@ -1,0 +1,18 @@
+1	@utahjazz	@utahjazz	UH	pos2=XX	4	discourse	_	O
+2	@gordonhayward	@gordonhayward	UH	pos2=MD	4	discourse	_	O
+3	@George_Hill3	@george_hill0	NN	pos2=MD	4	compound	_	O
+4	Escape	escape	NN	pos2=VB	11	nsubj	_	O
+5	from	from	IN	_	4	prep	_	O
+6	a	a	DT	_	8	det	_	O
+7	long	long	JJ	pos2=RB	8	nmod	_	O
+8	tunnel🙌Today	tunnel🙌today	NNP	pos2=NN	10	poss	_	U-ORG
+9	's	's	POS	_	8	case	_	O
+10	victory	victory	NN	_	5	pobj	_	O
+11	is	be	VBZ	_	0	root	_	O
+12	the	the	DT	_	14	det	_	O
+13	best👍👍👍Expect	best👍👍👍expect	NNP	pos2=JJ	14	compound	_	U-ORG
+14	victory	victory	NN	_	11	attr	_	O
+15	in	in	IN	_	14	prep	_	O
+16	…	…	NFP	pos2=NNP	15	pobj	_	O
+17	https://t.co/Ab2YPZC15H	#hlink#	ADD	pos2=NN	15	pobj	_	U-GPE
+

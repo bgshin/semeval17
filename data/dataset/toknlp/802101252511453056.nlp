@@ -1,0 +1,24 @@
+1	⚽️	⚽️	NNP	pos2=SYM	2	compound	_	O
+2	Training	training	NN	pos2=NNP	3	nsubj	_	O
+3	underway	underway	JJ	pos2=NN	0	root	_	O
+4	at	at	IN	_	3	prep	_	O
+5	Ciutat	ciutat	NNP	_	6	compound	_	B-ORG
+6	Esportiva	esportiva	NNP	_	4	pobj	_	L-ORG
+7	.	.	.	_	3	punct	_	O
+
+1	Aleix	aleix	NNP	_	2	compound	_	B-PERSON
+2	Vidal	vidal	NNP	_	5	nsubj	_	L-PERSON
+3	does	do	VBZ	_	5	aux	_	O
+4	not	not	RB	_	5	neg	_	O
+5	train	train	VB	pos2=VBN	0	root	_	O
+6	due	due	IN	_	5	prep	_	O
+7	to	to	IN	_	6	pcomp	_	O
+8	personal	personal	JJ	_	9	nmod	_	O
+9	reasons	reason	NNS	_	6	pobj	_	O
+10	,	,	,	_	5	punct	_	O
+11	with	with	IN	_	5	prep	_	O
+12	permission	permission	NN	_	11	pobj	_	O
+13	from	from	IN	_	12	prep	_	O
+14	…	…	NFP	pos2=NNP	13	pobj	_	O
+15	https://t.co/OcuBwh3gj6	#hlink#	ADD	pos2=NN	5	dep	_	O
+

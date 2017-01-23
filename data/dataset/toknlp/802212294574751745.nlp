@@ -1,0 +1,16 @@
+1	Startling	startling	JJ	_	2	nmod	_	O
+2	results	result	NNS	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	the	the	DT	_	6	det	_	O
+5	anti-Trump	anti-trump	JJ	_	6	nmod	_	O
+6	riots	riot	NNS	_	3	pobj	_	O
+7	!	!	.	_	2	punct	_	O
+
+1	#MAGA	#maga	NN	pos2=ADD	2	nsubj	_	O
+2	#Outnumbered	#outnumbered	VBN	pos2=VBD	0	root	_	O
+3	#BuildingAmerica	#buildingamerica	ADD	pos2=NNP	7	nmod	_	U-PRODUCT
+4	#NotMyPresident	#notmypresident	ADD	pos2=GW	2	punct	_	O
+5	#AltRightRising	#altrightrising	VBG	pos2=GW	4	pobj	_	O
+6	…	…	NFP	pos2=-LRB-	7	punct	_	O
+7	https://t.co/cdYVaKi4dv	#hlink#	ADD	_	5	root	_	O
+

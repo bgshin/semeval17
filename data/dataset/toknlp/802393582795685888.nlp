@@ -1,0 +1,33 @@
+1	So	so	RB	pos2=CC	3	advmod	_	O
+2	Fidel	fidel	NNP	_	3	nsubj	_	U-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	dead	dead	JJ	_	3	acomp	_	O
+5	,	,	,	_	3	punct	_	O
+6	but	but	CC	_	3	cc	_	O
+7	can	can	MD	_	9	aux	_	O
+8	someone	someone	NN	_	9	nsubj	_	O
+9	enlighten	enlighten	VB	_	3	conj	_	O
+10	me	me	PRP	_	9	dobj	_	O
+11	as	as	IN	pos2=RB	9	prep	_	O
+12	to	to	IN	_	11	prep	_	O
+13	what	what	WP	_	14	nsubj	_	O
+14	's	's	VBZ	_	12	pcomp	_	O
+15	next	next	JJ	pos2=RB	14	acomp	_	O
+16	??	??	.	_	9	punct	_	O
+
+1	Venezuelans	venezuelan	NNPS	pos2=NNS	2	nsubj	_	U-NORP
+2	rejoiced	rejoice	VBD	_	0	root	_	O
+3	when	when	WRB	_	5	advmod	_	O
+4	Chavez	chavez	NNP	_	5	nsubj	_	U-PERSON
+5	died	die	VBD	_	2	advcl	_	O
+6	,	,	,	_	2	punct	_	O
+7	but	but	CC	_	2	cc	_	O
+8	Maduro	maduro	NNP	_	9	nsubj	_	U-PERSON
+9	's	's	VBZ	pos2=POS	2	conj	_	O
+10	just	just	RB	_	12	advmod	_	O
+11	as	as	RB	pos2=IN	12	advmod	_	O
+12	bad	bad	JJ	_	14	advmod	_	O
+13	/	/	SYM	pos2=,	14	punct	_	O
+14	worse	bad	JJR	pos2=JJ	9	acomp	_	O
+15	.	.	.	_	9	punct	_	O
+

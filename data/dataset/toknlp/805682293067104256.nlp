@@ -1,0 +1,15 @@
+1	Parents	parent	NNS	pos2=NNP	3	compound	_	O
+2	Sue	sue	NNP	pos2=VBP	3	compound	_	B-PERSON
+3	#California	#california	NNP	_	14	dep	_	L-PERSON
+4	for	for	IN	_	3	prep	_	O
+5	Law	law	NNP	_	4	pobj	_	O
+6	That	that	WDT	pos2=DT	11	mark	_	O
+7	Forces	forces	NNP	pos2=NNPS	8	compound	_	O
+8	Children	child	NNP	pos2=NNS	11	nsubjpass	_	O
+9	to	to	TO	pos2=IN	11	aux	_	O
+10	Get	get	VB	pos2=NNP	11	auxpass	_	O
+11	Vaccinated	vaccinate	VBN	pos2=GW	14	dep	_	O
+12	https://t.co/mT687CwQB6#SB277	#hlink#	ADD	pos2=GW	14	nmod	_	U-ORG
+13	#Vaccines	#vaccines	NNS	pos2=IN	14	dep	_	O
+14	https://t.co/OJJHUX3cvb	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

@@ -1,0 +1,19 @@
+1	Need	need	VB	pos2=VBP	0	root	_	O
+2	a	a	DT	_	3	det	_	O
+3	man	man	NN	_	1	dobj	_	O
+4	who	who	WP	_	5	nsubj	_	O
+5	looks	look	VBZ	_	3	relcl	_	O
+6	at	at	IN	_	5	prep	_	O
+7	me	me	PRP	_	6	pobj	_	O
+8	like	like	IN	_	5	prep	_	O
+9	this	this	DT	_	10	det	_	O
+10	guy	guy	NN	_	11	nsubj	_	O
+11	looks	look	VBZ	_	1	ccomp	_	O
+12	at	at	IN	_	11	prep	_	O
+13	Kim	kim	NNP	_	16	compound	_	B-PERSON
+14	Jong	jong	NNP	_	16	compound	_	I-PERSON
+15	-	-	HYPH	_	16	punct	_	I-PERSON
+16	un	un	NNP	pos2=GW	12	pobj	_	L-PERSON
+17	😩😍	😩😍	NFP	pos2=NNP	18	punct	_	O
+18	https://t.co/EH4KaHzqZ1	#hlink#	ADD	pos2=NN	1	dep	_	O
+

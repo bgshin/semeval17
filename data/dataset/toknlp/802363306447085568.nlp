@@ -1,0 +1,11 @@
+1	And	and	CC	_	3	cc	_	O
+2	these	these	DT	_	3	det	_	O
+3	assclownsWant	assclownswant	NN	pos2=VBP	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	steal	steal	VB	_	3	acl	_	O
+6	Medicare?#NOGOP	medicare?#nogop	NNP	pos2=XX	5	dobj	_	U-LAW
+7	#GOPTreason	#goptreason	ADD	pos2=GW	10	nmod	_	O
+8	#PartyBeforeCountry	#partybeforecountry	GW	pos2=NNP	10	nmod	_	B-PERSON
+9	#Shame	#shame	GW	pos2=ADD	10	nmod	_	L-PERSON
+10	https://t.co/JGuTvHzXjm	#hlink#	ADD	pos2=NN	5	dobj	_	O
+

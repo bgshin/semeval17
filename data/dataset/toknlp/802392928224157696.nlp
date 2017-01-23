@@ -1,0 +1,18 @@
+1	#progressives	#progressives	UH	pos2=NNS	12	discourse	_	O
+2	#press	#press	UH	pos2=XX	12	discourse	_	O
+3	#academia	#academia	UH	pos2=NN	12	discourse	_	O
+4	#liberals	#liberals	UH	pos2=NNS	12	discourse	_	O
+5	crying	cry	VBG	_	12	csubj	_	O
+6	death	death	NN	_	5	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	assassin	assassin	NN	pos2=NNP	11	compound	_	O
+9	Fidel	fidel	NNP	_	10	compound	_	B-PERSON
+10	Castro	castro	NNP	_	11	compound	_	L-PERSON
+11	#Maduro	#maduro	NNP	pos2=POS	7	pobj	_	O
+12	#EvoMorales	#evomorales	VBZ	pos2=VBD	0	root	_	O
+13	his	his	PRP$	_	14	poss	_	O
+14	pupils	pupil	NNS	_	17	nmod	_	O
+15	ALBA	alba	NNP	pos2=GW	17	nmod	_	U-GPE
+16	…	…	NFP	pos2=-LRB-	17	punct	_	O
+17	https://t.co/NnjA6scPxn	#hlink#	ADD	_	12	dobj	_	U-GPE
+

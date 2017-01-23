@@ -1,0 +1,34 @@
+1	Could	could	MD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	disagree	disagree	VB	_	0	root	_	O
+4	more	more	RBR	pos2=JJR	3	advmod	_	O
+5	!	!	.	_	3	punct	_	O
+
+1	Democrat	democrat	JJ	pos2=NNP	3	nmod	_	U-NORP
+2	dream	dream	NN	_	3	compound	_	O
+3	team	team	NN	_	7	dep	_	O
+4	-	-	:	pos2=HYPH	3	punct	_	O
+5	#Pelosi	#pelosi	NNP	pos2=NNS	0	root	_	O
+6	,	,	,	_	5	punct	_	O
+7	#Schumer	#schumer	NNP	pos2=NN	5	conj	_	U-GPE
+8	,	,	,	_	7	punct	_	O
+9	#Ellison	#ellison	NNP	pos2=CD	7	conj	_	U-GPE
+10	.	.	.	_	3	punct	_	O
+
+1	Oh	oh	UH	_	4	discourse	_	O
+2	please	please	UH	_	1	discourse	_	O
+3	,	,	,	_	7	punct	_	O
+4	oh	oh	UH	_	7	discourse	_	O
+5	please	please	UH	_	4	discourse	_	O
+6	,	,	,	_	7	punct	_	O
+7	oh	oh	UH	pos2=RB	0	root	_	O
+8	please	please	UH	_	7	discourse	_	O
+9	.	.	.	_	1	punct	_	O
+
+1	https	http	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	//	//	NFP	pos2=-LRB-	6	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	wEnsN2ZAH3	wensn0zah0	NN	pos2=NNS	0	root	_	O
+

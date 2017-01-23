@@ -1,0 +1,30 @@
+1	@raeraexox0	@raeraexox0	NN	pos2=TO	3	nsubjpass	_	O
+2	get	get	VB	pos2=VBP	3	auxpass	_	O
+3	used	use	VBN	pos2=JJ	0	root	_	O
+4	to	to	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	crafting	craft	VBG	pos2=NN	7	nmod	_	O
+7	metas	metas	NNS	pos2=NNP	4	pobj	_	O
+8	,	,	,	_	7	punct	_	O
+9	run&gun	run&gun	UH	pos2=NNS	7	discourse	_	O
+10	,	,	,	_	11	punct	_	O
+11	let	let	VB	pos2=VBD	0	root	_	O
+12	the	the	DT	_	13	det	_	O
+13	rng	rng	NN	_	14	nsubj	_	O
+14	take	take	VB	pos2=NN	11	ccomp	_	O
+15	control	control	NN	_	14	dobj	_	O
+16	.	.	.	_	11	punct	_	O
+
+1	Just	just	RB	_	2	advmod	_	O
+2	get	get	VB	pos2=VBP	0	root	_	O
+3	familiar	familiar	JJ	_	2	acomp	_	O
+4	with	with	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	map	map	NN	_	4	pobj	_	O
+7	,	,	,	_	6	punct	_	O
+8	locations	location	NNS	_	6	conj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	loot	loot	VB	pos2=NN	8	conj	_	O
+11	spots	spot	NNS	_	10	dobj	_	O
+12	.	.	.	_	2	punct	_	O
+

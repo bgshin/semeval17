@@ -1,0 +1,20 @@
+1	#LindsayLohan	#lindsaylohan	VB	pos2=ADD	0	root	_	O
+2	backs	back	NNS	pos2=VBZ	1	dobj	_	O
+3	out	out	IN	pos2=RB	1	prep	_	O
+4	of	of	IN	_	3	prep	_	O
+5	a	a	DT	_	8	det	_	O
+6	#Kettering	#kettering	VBG	pos2=JJ	8	nmod	_	O
+7	holiday	holiday	NN	_	8	compound	_	O
+8	appearance	appearance	NN	_	4	pobj	_	O
+9	,	,	,	_	1	punct	_	O
+10	just	just	RB	_	11	advmod	_	O
+11	after	after	IN	_	1	prep	_	O
+12	throwing	throw	VBG	_	11	pcomp	_	O
+13	shade	shade	NN	_	12	dobj	_	O
+14	at	at	IN	_	12	prep	_	O
+15	#ArianaGrande	#arianagrande	NNP	pos2=ADD	14	pobj	_	U-ORG
+16	.	.	.	_	1	punct	_	O
+
+1	#	#	NN	pos2=-LRB-	2	dep	_	O
+2	LiLohttps://t.co/G2sNgjVCHd	#hlink#	ADD	pos2=NN	0	root	_	U-MONEY
+

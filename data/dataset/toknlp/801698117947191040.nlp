@@ -1,0 +1,21 @@
+1	[	[	-LRB-	_	4	punct	_	O
+2	Infodocket	infodocket	NNP	pos2=NN	0	root	_	U-ORG
+3	]	]	-RRB-	_	2	punct	_	O
+4	Go	go	VB	pos2=NNP	0	root	_	O
+5	Flying	fly	VBG	pos2=NNP	4	xcomp	_	O
+6	:	:	:	_	8	punct	_	O
+7	Google	google	NNP	_	8	nsubj	_	U-ORG
+8	Introduces	introduce	VBZ	_	0	root	_	O
+9	a	a	DT	_	12	det	_	O
+10	Virtual	virtual	JJ	pos2=NNP	12	nmod	_	O
+11	Reality	reality	NNP	pos2=NN	12	compound	_	B-ORG
+12	Version	version	NNP	pos2=NN	8	dobj	_	I-ORG
+13	of	of	IN	_	12	prep	_	I-ORG
+14	#GoogleEarth	#googleearth	NNP	pos2=NN	13	pobj	_	L-ORG
+15	(	(	-LRB-	_	18	punct	_	O
+16	Google	google	NNP	_	18	compound	_	B-ORG
+17	Earth	earth	NNP	_	18	compound	_	I-ORG
+18	VR	vr	NNP	pos2=GW	14	appos	_	L-ORG
+19	)	)	-RRB-	pos2=GW	18	punct	_	O
+20	https://t.co/UPc3NAONUv	#hlink#	ADD	_	8	dobj	_	O
+

@@ -1,0 +1,30 @@
+1	Ben	ben	NNP	_	2	compound	_	B-PERSON
+2	Shapiro	shapiro	NNP	_	0	root	_	L-PERSON
+3	on	on	IN	_	2	prep	_	O
+4	Steve	steve	NNP	_	5	compound	_	B-PERSON
+5	Bannon	bannon	NNP	_	3	pobj	_	L-PERSON
+6	,	,	,	_	5	punct	_	O
+7	the	the	DT	_	10	det	_	O
+8	alt	alt	NN	pos2=JJ	10	npadvmod	_	O
+9	-	-	HYPH	_	10	punct	_	O
+10	right	right	JJ	pos2=NN	5	appos	_	O
+11	,	,	,	_	2	punct	_	O
+12	and	and	CC	_	2	cc	_	O
+13	how	how	WRB	_	16	advmod	_	O
+14	they	they	PRP	_	16	nsubj	_	O
+15	're	be	VBP	_	16	aux	_	O
+16	using	use	VBG	_	12	pcomp	_	O
+17	Trump	trump	NNP	_	16	dobj	_	U-ORG
+18	while	while	IN	_	20	mark	_	O
+19	he	he	PRP	_	20	nsubj	_	O
+20	's	's	VBZ	_	16	advcl	_	O
+21	too	too	RB	_	22	advmod	_	O
+22	stupid	stupid	JJ	_	20	acomp	_	O
+23	to	to	TO	_	24	aux	_	O
+24	see	see	VB	_	20	xcomp	_	O
+25	it	it	PRP	_	24	dobj	_	O
+26	.	.	.	_	2	punct	_	O
+
+1	#FuckTrump	#fucktrump	ADD	pos2=-LRB-	2	punct	_	O
+2	https://t.co/A3qv1LNE56	#hlink#	ADD	_	0	root	_	O
+

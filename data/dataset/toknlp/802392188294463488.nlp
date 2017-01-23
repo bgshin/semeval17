@@ -1,0 +1,19 @@
+1	unfollow	unfollow	VB	_	0	root	_	O
+2	me	me	PRP	_	1	dobj	_	O
+3	if	if	IN	_	6	mark	_	O
+4	you	you	PRP	_	6	nsubj	_	O
+5	're	be	VBP	_	6	aux	_	O
+6	mourning	mourn	VBG	_	1	advcl	_	O
+7	Castro	castro	NNP	_	6	dobj	_	U-PERSON
+8	.	.	.	_	1	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	needed	need	VBD	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	die	die	VB	_	2	xcomp	_	O
+5	,	,	,	_	2	punct	_	O
+6	and	and	CC	_	2	cc	_	O
+7	Maduro	maduro	NNP	_	8	nsubj	_	U-PERSON
+8	is	be	VBZ	_	2	conj	_	O
+9	next	next	JJ	pos2=RB	8	acomp	_	O
+

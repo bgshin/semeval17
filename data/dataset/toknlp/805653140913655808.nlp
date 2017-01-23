@@ -1,0 +1,14 @@
+1	#life	#life	UH	pos2=NN	13	dep	_	O
+2	"	"	``	_	9	punct	_	O
+3	The	the	DT	_	9	det	_	O
+4	Greatest	greatest	NNP	pos2=RBS	6	compound	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	Muhammad	muhammad	NNP	_	9	compound	_	O
+7	Ali	ali	NNP	_	9	compound	_	O
+8	Inspirational	inspirational	NNP	pos2=JJ	9	compound	_	O
+9	Video	video	NNP	pos2=NN	13	dep	_	O
+10	"	"	''	_	9	punct	_	O
+11	on	on	IN	pos2=GW	9	prep	_	O
+12	@YouTube	@youtube	NNP	pos2=ADD	11	pobj	_	O
+13	https://t.co/1YLbRylKWV	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,13 @@
+1	Did	do	VBD	_	4	aux	_	O
+2	the	the	DT	_	3	det	_	O
+3	self	self	NN	_	4	nsubj	_	O
+4	proclaimed	proclaim	VBD	pos2=VBN	0	root	_	O
+5	petty	petty	JJ	_	6	nmod	_	O
+6	queen	queen	NN	pos2=JJ	7	nsubj	_	O
+7	block	block	VB	pos2=VBD	4	ccomp	_	O
+8	me	me	PRP	_	7	dobj	_	O
+9	?!?!	?!?!	.	pos2=''	4	punct	_	O
+
+1	LMAO	lmao	NN	pos2=NNP	0	root	_	O
+2	#winning	#winning	UH	pos2=NN	1	discourse	_	O
+

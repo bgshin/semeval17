@@ -1,0 +1,31 @@
+1	What	what	WDT	_	2	det	_	O
+2	time	time	NN	_	3	attr	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	it	it	PRP	_	3	nsubj	_	O
+5	?!	?!	.	_	3	punct	_	O
+
+1	Ahh	ahh	UH	_	3	discourse	_	O
+2	,	,	,	_	3	punct	_	O
+3	yes	yes	UH	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Time	time	NN	_	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	your	your	PRP$	_	5	poss	_	O
+4	daily	daily	JJ	pos2=NN	5	nmod	_	U-DATE
+5	reminder	reminder	NN	_	2	pobj	_	O
+6	that	that	IN	pos2=WDT	9	mark	_	O
+7	Steve	steve	NNP	_	8	compound	_	B-PERSON
+8	#Bannon	#bannon	NNP	_	9	nsubj	_	L-PERSON
+9	is	be	VBZ	_	5	acl	_	O
+10	n't	not	RB	_	9	neg	_	O
+11	just	just	RB	_	13	advmod	_	O
+12	an	an	DT	_	13	det	_	O
+13	anti-Semite	anti-semite	NN	pos2=JJ	9	attr	_	U-NORP
+14	,	,	,	_	1	punct	_	O
+15	but	but	CC	_	1	cc	_	O
+16	also	also	RB	_	15	advmod	_	O
+17	a	a	DT	_	18	det	_	O
+18	…	…	NFP	pos2=-LRB-	19	nmod	_	O
+19	https://t.co/wr4XK4PQsP	#hlink#	ADD	pos2=NN	1	conj	_	O
+

@@ -1,0 +1,14 @@
+1	@ERAAction	@eraaction	ADD	pos2=NN	2	nsubj	_	O
+2	Thankful	thankful	JJ	pos2=NNP	0	root	_	O
+3	that	that	IN	_	5	mark	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	won	win	VBD	_	2	ccomp	_	O
+6	the	the	DT	_	8	det	_	O
+7	popular	popular	JJ	_	8	nmod	_	O
+8	vote	vote	NN	_	5	dobj	_	O
+9	!	!	.	_	2	punct	_	O
+
+1	#AuditTheVote	#auditthevote	GW	pos2=UH	3	nmod	_	O
+2	#StillWithHer	#stillwithher	GW	pos2=ADD	3	nmod	_	O
+3	https://t.co/k6Pf6JmRvG	#hlink#	ADD	pos2=NN	0	root	_	O
+

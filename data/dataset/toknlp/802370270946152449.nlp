@@ -1,0 +1,26 @@
+1	@balajis	@balajis	UH	pos2=VBZ	2	nsubj	_	O
+2	fascinating	fascinating	JJ	pos2=UH	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	Deep	deep	JJ	pos2=NNP	2	nmod	_	O
+2	learning	learning	NN	_	5	nsubj	_	O
+3	may	may	MD	_	5	aux	_	O
+4	also	also	RB	_	5	advmod	_	O
+5	hold	hold	VB	_	0	root	_	O
+6	cues	cue	NNS	_	5	dobj	_	O
+7	for	for	IN	_	5	prep	_	O
+8	this	this	DT	_	7	pobj	_	O
+9	in	in	IN	pos2=RP	5	prep	_	O
+10	adversarial	adversarial	JJ	_	11	nmod	_	O
+11	nets	net	NNS	_	9	pobj	_	O
+12	-	-	:	pos2=,	11	punct	_	O
+13	where	where	WRB	pos2=NN	16	advmod	_	O
+14	competing	compete	VBG	_	15	nmod	_	O
+15	algorithms	algorithm	NNS	_	16	nsubj	_	O
+16	win	win	NN	pos2=VBP	18	nmod	_	O
+17	/	/	SYM	pos2=,	18	punct	_	O
+18	lose	lose	NN	pos2=VB	11	appos	_	O
+19	depending	depend	VBG	_	5	prep	_	O
+20	on	on	IN	_	19	prep	_	O
+21	outcome	outcome	NN	_	20	pobj	_	O
+

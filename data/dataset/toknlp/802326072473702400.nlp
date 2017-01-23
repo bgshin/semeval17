@@ -1,0 +1,17 @@
+1	Samsung	samsung	NNP	_	3	nsubj	_	U-ORG
+2	is	be	VBZ	_	3	aux	_	O
+3	rolling	roll	VBG	_	0	root	_	O
+4	out	out	RP	pos2=IN	3	prt	_	O
+5	the	the	DT	_	8	det	_	O
+6	Note	note	NN	pos2=NNP	7	compound	_	O
+7	7’s	0's	NNS	pos2=VBZ	8	compound	_	U-PRODUCT
+8	software	software	NN	_	3	dobj	_	O
+9	to	to	IN	_	3	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	Galaxy	galaxy	NNP	_	12	compound	_	U-PRODUCT
+12	Note	note	NN	pos2=NNP	9	pobj	_	O
+13	5	0	CD	_	12	nmod	_	U-CARDINAL
+14	in	in	IN	_	12	prep	_	O
+15	Korea	korea	NNP	_	14	pobj	_	U-GPE
+16	https://t.co/k4jyoP9aVf	#hlink#	ADD	pos2=NNP	3	npadvmod	_	O
+

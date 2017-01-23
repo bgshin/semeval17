@@ -1,0 +1,22 @@
+1	@greenday	@greenday	UH	pos2=NNP	7	discourse	_	O
+2	@eltonofficial	@eltonofficial	UH	pos2=MD	7	discourse	_	O
+3	We	we	PRP	_	7	nsubj	_	O
+4	honestly	honestly	RB	_	7	advmod	_	O
+5	did	do	VBD	_	7	aux	_	O
+6	not	not	RB	_	7	neg	_	O
+7	know	know	VB	_	0	root	_	O
+8	you	you	PRP	_	9	nmod	_	O
+9	guys	guy	NNS	_	10	nsubj	_	O
+10	were	be	VBD	_	7	ccomp	_	O
+11	still	still	RB	_	10	advmod	_	O
+12	alive	alive	JJ	_	10	acomp	_	O
+13	.	.	.	_	7	punct	_	O
+
+1	Grats	grats	NNS	pos2=NNP	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	#DrainTheSwamp	#draintheswamp	ADD	pos2=XX	4	punct	_	O
+2	#NRA	#nra	NN	pos2=GW	4	dep	_	O
+3	#FoxNews	#foxnews	ADD	pos2=NNS	0	root	_	O
+4	#realDonaldTrump	#realdonaldtrump	ADD	pos2=NN	3	pobj	_	O
+

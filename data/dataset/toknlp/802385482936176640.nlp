@@ -1,0 +1,21 @@
+1	Cutting	cut	VBG	pos2=JJ	3	nmod	_	O
+2	tool	tool	NN	_	3	compound	_	O
+3	maker	maker	NN	_	4	compound	_	O
+4	Sandvik	sandvik	NNP	_	5	nsubj	_	U-ORG
+5	looks	look	VBZ	_	0	root	_	O
+6	to	to	IN	_	5	prep	_	O
+7	software	software	NN	_	6	pobj	_	O
+8	,	,	,	_	5	punct	_	O
+9	3	0	CD	_	10	nmod	_	U-CARDINAL
+10	D	d	NN	pos2=JJ	11	compound	_	O
+11	printing	printing	NN	pos2=VBG	13	nsubj	_	O
+12	to	to	TO	_	13	aux	_	O
+13	stay	stay	VB	_	5	advcl	_	O
+14	ahead	ahead	RB	_	13	advmod	_	O
+15	..	..	.	_	5	punct	_	O
+
+1	Related	related	JJ	pos2=VBN	2	nmod	_	O
+2	Articles	article	NNS	_	0	root	_	O
+3	:	:	:	_	2	punct	_	O
+4	https://t.co/FN8hGWit0s	#hlink#	ADD	pos2=NN	2	appos	_	U-ORG
+

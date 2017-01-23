@@ -1,0 +1,18 @@
+1	Nikki	nikki	NNP	_	2	compound	_	B-PERSON
+2	Haley	haley	NNP	_	4	poss	_	I-PERSON
+3	’s	's	POS	_	2	case	_	L-PERSON
+4	family	family	NN	_	17	dep	_	O
+5	In	in	IN	pos2=NNP	4	prep	_	O
+6	India	india	NNP	_	7	compound	_	U-GPE
+7	Cheer	cheer	NNP	pos2=VB	5	pobj	_	O
+8	Her	her	PRP$	_	9	poss	_	O
+9	Appointment	appointment	NN	pos2=NNP	17	dep	_	O
+10	As	as	IN	_	9	prep	_	O
+11	UN	un	NNP	_	13	compound	_	U-ORG
+12	Envoy	envoy	NNP	pos2=NN	13	compound	_	O
+13	#nikkkihaley	#nikkkihaley	NNP	pos2=XX	10	pobj	_	B-PERSON
+14	#unenvoy	#unenvoy	UH	pos2=NNP	17	dep	_	L-PERSON
+15	#unitednations	#unitednations	NNS	pos2=UH	17	dep	_	O
+16	#donaldtrump	#donaldtrump	-LRB-	pos2=IN	17	punct	_	O
+17	https://t.co/8R0ZGcfI2C	#hlink#	ADD	_	0	root	_	O
+

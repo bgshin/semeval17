@@ -1,0 +1,19 @@
+1	@MLBRandomStats	@mlbrandomstats	VBZ	pos2=UH	0	root	_	O
+2	what	what	WP	_	3	attr	_	O
+3	's	's	VBZ	_	1	ccomp	_	O
+4	the	the	DT	_	6	det	_	O
+5	Tigers	tiger	NNPS	pos2=NNP	6	compound	_	U-ORG
+6	record	record	NN	pos2=VB	3	nsubj	_	O
+7	when	when	WRB	_	10	advmod	_	O
+8	Justin	justin	NNP	_	9	compound	_	B-PERSON
+9	Verlander	verlander	NNP	_	10	nsubj	_	L-PERSON
+10	goes	go	VBZ	_	3	advcl	_	O
+11	6	0	CD	_	9	appos	_	U-CARDINAL
+12	+	+	SYM	pos2=-RRB-	11	punct	_	O
+13	and	and	CC	_	10	cc	_	O
+14	strikes	strike	VBZ	pos2=NNS	10	conj	_	O
+15	out	out	RP	pos2=RB	14	prt	_	O
+16	6	0	CD	_	14	dobj	_	U-CARDINAL
+17	+	+	SYM	_	16	punct	_	O
+18	?	?	.	_	1	punct	_	O
+

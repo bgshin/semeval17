@@ -1,0 +1,18 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	am	be	VBP	_	0	root	_	O
+3	thankful	thankful	JJ	_	2	acomp	_	O
+4	that	that	IN	_	6	mark	_	O
+5	#ScreamQueens	#screamqueens	NNP	pos2=ADD	6	nsubj	_	U-PERSON
+6	is	be	VBZ	_	3	ccomp	_	O
+7	back	back	RB	pos2=NN	6	advmod	_	O
+8	...	..	.	pos2=,	2	punct	_	O
+
+1	have	have	VB	pos2=VBP	0	root	_	O
+2	2	0	CD	_	3	nmod	_	U-CARDINAL
+3	episodes	episode	NNS	_	1	dobj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	catch	catch	VB	_	3	relcl	_	O
+6	up	up	RP	_	5	prt	_	O
+7	on	on	IN	_	5	prep	_	O
+8	😂🙃	😂🙃	NNP	pos2=NN	7	pobj	_	O
+

@@ -1,0 +1,22 @@
+1	Fidel	fidel	NNP	_	2	compound	_	B-PERSON
+2	Castro	castro	NNP	_	3	nsubj	_	L-PERSON
+3	was	be	VBD	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	brutal	brutal	JJ	_	6	nmod	_	O
+6	dictator	dictator	NN	_	3	attr	_	O
+7	that	that	WDT	pos2=IN	11	advmod	_	O
+8	Du30	du0	NN	pos2=NNP	9	nsubj	_	O
+9	aspires	aspire	VBZ	_	6	relcl	_	O
+10	to	to	TO	_	11	aux	_	O
+11	be	be	VB	_	9	xcomp	_	O
+12	,	,	,	_	6	punct	_	O
+13	romanticized	romanticize	VBN	_	6	acl	_	O
+14	by	by	IN	_	13	agent	_	O
+15	the	the	DT	_	16	det	_	O
+16	likes	like	NNS	pos2=NN	14	pobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	Andanar	andanar	NNP	_	17	pobj	_	U-ORG
+19	.	.	.	_	3	punct	_	O
+
+1	https://t.co/VpftppJE4g	#hlink#	ADD	_	0	root	_	U-ORG
+

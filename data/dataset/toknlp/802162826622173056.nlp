@@ -1,0 +1,20 @@
+1	@Dwarfpoo	@dwarfpoo	NNP	pos2=UH	2	compound	_	U-ORG
+2	@NAInfidels	@nainfidels	NNS	pos2=ADD	8	nsubj	_	O
+3	@FrankChanged	@frankchanged	VBN	pos2=VBD	2	acl	_	O
+4	@TruthIwant2	@truthiwant0	IN	pos2=VBP	3	agent	_	O
+5	former	former	JJ	_	6	nmod	_	O
+6	#Mossad	#mossad	NNP	pos2=NN	4	pobj	_	U-ORG
+7	should	should	MD	_	8	aux	_	O
+8	know	know	VB	_	0	root	_	O
+9	that	that	IN	pos2=DT	12	mark	_	O
+10	Al	al	NNP	_	11	compound	_	B-ORG
+11	Jazeera	jazeera	NNP	_	12	nsubj	_	L-ORG
+12	is	be	VBZ	_	8	ccomp	_	O
+13	the	the	DT	_	17	det	_	O
+14	Qatari	qatari	JJ	pos2=NNP	17	nmod	_	U-NORP
+15	owned	own	VBN	pos2=JJ	17	nmod	_	O
+16	propaganda	propaganda	NN	_	17	compound	_	O
+17	outlet	outlet	NN	_	12	attr	_	O
+18	for	for	IN	_	17	prep	_	O
+19	#Hamas	#hamas	NNS	pos2=NNP	18	pobj	_	U-DATE
+

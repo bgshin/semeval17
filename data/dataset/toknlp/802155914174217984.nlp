@@ -1,0 +1,9 @@
+1	Courtesy	courtesy	NN	_	8	dep	_	O
+2	of	of	IN	_	1	prep	_	O
+3	@empiremagazine.#Belle	@empiremagazine.#belle	NNP	pos2=NN	4	compound	_	B-ORG
+4	#Gaston	#gaston	NNP	pos2=XX	2	pobj	_	L-ORG
+5	#BeautyAndTheBeast	#beautyandthebeast	ADD	pos2=VBD	8	nmod	_	O
+6	#BeOurGuest	#beourguest	GW	pos2=JJS	8	nmod	_	B-PERSON
+7	#Disney	#disney	GW	pos2=ADD	8	nmod	_	L-PERSON
+8	https://t.co/0PotjXwnWY	#hlink#	ADD	pos2=NN	0	root	_	O
+

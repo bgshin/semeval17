@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det	_	O
+2	NPR	npr	NNP	pos2=NN	10	nsubj	_	U-ORG
+3	on	on	IN	_	2	prep	_	O
+4	Trump	trump	NNP	pos2=NN	3	pobj	_	U-ORG
+5	:	:	:	_	10	punct	_	O
+6	"	"	``	_	10	punct	_	O
+7	He	he	PRP	_	10	nsubj	_	O
+8	may	may	MD	_	10	aux	_	O
+9	not	not	RB	_	10	neg	_	O
+10	be	be	VB	_	0	root	_	O
+11	the	the	DT	_	13	det	_	O
+12	deranged	deranged	JJ	pos2=VBN	13	nmod	_	O
+13	demagogue	demagogue	NN	_	10	attr	_	O
+14	feared	fear	VBN	pos2=VBD	13	acl	_	O
+15	by	by	IN	_	14	agent	_	O
+16	his	his	PRP$	_	17	poss	_	O
+17	opponents	opponent	NNS	_	15	pobj	_	O
+18	.	.	.	_	10	punct	_	O
+19	"	"	''	_	10	punct	_	O
+
+1	https://t.co/sPAMAKf9uV	#hlink#	ADD	_	0	root	_	U-ORG
+

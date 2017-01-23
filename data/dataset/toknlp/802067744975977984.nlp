@@ -1,0 +1,13 @@
+1	I	I	PRP	pos2=CD	2	nsubj	_	O
+2	miss	miss	VBP	_	0	root	_	O
+3	Tony	tony	NNP	_	4	compound	_	B-PERSON
+4	romo	romo	NNP	pos2=RB	2	dobj	_	L-PERSON
+5	,	,	,	_	2	punct	_	O
+6	but	but	CC	_	2	cc	_	O
+7	I	I	PRP	_	8	nsubj	_	O
+8	love	love	VBP	_	2	conj	_	O
+9	what	what	WP	_	12	dobj	_	O
+10	Dak	dak	NNP	_	12	nsubj	_	U-PERSON
+11	is	be	VBZ	_	12	aux	_	O
+12	doing	do	VBG	_	8	ccomp	_	O
+

@@ -1,0 +1,26 @@
+1	OTD	otd	NN	pos2=NNP	7	nsubj	_	O
+2	in	in	IN	_	1	prep	_	O
+3	1944	0	CD	_	2	pobj	_	U-DATE
+4	the	the	DT	_	6	det	_	B-ORG
+5	War	war	NNP	_	6	compound	_	I-ORG
+6	Dept	dept	NNP	_	7	nsubj	_	L-ORG
+7	published	publish	VBD	_	0	root	_	O
+8	a	a	DT	_	9	det	_	O
+9	list	list	NN	_	7	dobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	1,718	0	CD	_	12	nmod	_	U-CARDINAL
+12	Americans	american	NNPS	_	10	pobj	_	U-NORP
+13	wounded	wound	VBD	pos2=VBN	12	acl	_	O
+14	fighting	fight	VBG	pos2=NN	7	advcl	_	O
+15	"	"	``	pos2=''	18	punct	_	O
+16	alt	alt	JJ	pos2=NN	18	nmod	_	O
+17	-	-	HYPH	_	18	punct	_	O
+18	rightists	rightist	NNS	_	14	dobj	_	O
+19	,	,	,	_	14	punct	_	O
+20	"	"	''	_	14	punct	_	O
+21	including	include	VBG	_	14	prep	_	O
+22	these	these	DT	_	24	det	_	O
+23	56	0	CD	pos2=GW	25	dep	_	U-CARDINAL
+24	…	…	NFP	pos2=NNS	25	punct	_	O
+25	https://t.co/QPb1pscZr4	#hlink#	ADD	_	21	pobj	_	O
+

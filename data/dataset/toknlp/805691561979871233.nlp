@@ -1,0 +1,24 @@
+1	louisa	louisa	NN	pos2=JJ	2	compound	_	O
+2	wall	wall	NN	_	11	nsubj	_	O
+3	(	(	-LRB-	_	2	punct	_	O
+4	mp	mp	FW	pos2=NN	2	appos	_	O
+5	)	)	-RRB-	_	2	punct	_	O
+6	-	-	:	pos2=,	11	punct	_	O
+7	a	a	DT	_	9	det	_	O
+8	queer	queer	NN	pos2=JJ	13	compound	_	O
+9	woc	woc	NN	pos2=NNP	8	appos	_	O
+10	-	-	HYPH	pos2=:	11	punct	_	O
+11	supports	support	VBZ	pos2=NNS	15	ccomp	_	O
+12	cannabis	cannabis	NN	_	13	compound	_	O
+13	legalisation	legalisation	NN	_	11	dobj	_	O
+14	-	-	:	pos2=,	15	punct	_	O
+15	supports	support	VBZ	_	0	root	_	O
+16	decriminalisation	decriminalisation	NN	_	15	dobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	euthanasia	euthanasia	NN	_	17	pobj	_	O
+19	-	-	HYPH	pos2=,	20	punct	_	O
+20	believes	believe	VBZ	pos2=NNS	15	conj	_	O
+21	in	in	IN	_	20	prep	_	O
+22	maori	maori	JJ	pos2=NN	23	nmod	_	O
+23	rights	right	NNS	_	21	pobj	_	O
+

@@ -1,0 +1,25 @@
+1	@PhinsDiehard	@phinsdiehard	ADD	pos2=XX	4	det	_	O
+2	@blueruby8	@blueruby0	NN	pos2=LS	4	compound	_	B-ORG
+3	@FoxNews	@foxnews	NNP	pos2=POS	4	compound	_	I-ORG
+4	Bull	bull	NNP	pos2=NN	0	root	_	L-ORG
+5	.	.	.	_	4	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	at	at	IN	_	2	prep	_	O
+4	Mar-A-Lago	mar-a-lago	NNP	_	3	pobj	_	U-ORG
+5	all	all	DT	_	6	det	_	B-DATE
+6	weekend	weekend	NN	_	2	npadvmod	_	L-DATE
+7	.	.	.	_	2	punct	_	O
+
+1	Probably	probably	RB	_	2	advmod	_	O
+2	playing	play	VBG	_	0	root	_	O
+3	#golf	#golf	PRP	pos2=XX	2	dobj	_	O
+4	with	with	IN	_	2	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	"	"	``	_	7	punct	_	O
+7	elites	elite	NNS	_	4	pobj	_	O
+8	"	"	''	_	7	punct	_	O
+9	#MAGA	#maga	NN	pos2=$	10	compound	_	O
+10	#DrainTheSwamp	#draintheswamp	NN	pos2=ADD	7	appos	_	O
+

@@ -1,0 +1,11 @@
+1	Who	who	WP	_	2	attr	_	O
+2	's	's	VBZ	pos2=POS	0	root	_	O
+3	David	david	NNP	_	4	compound	_	B-PERSON
+4	Blaine	blaine	NNP	_	6	poss	_	I-PERSON
+5	's	's	POS	_	4	case	_	L-PERSON
+6	deck	deck	NN	_	2	nsubj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	cards	card	NNS	pos2=NN	9	compound	_	O
+9	dealer	dealer	NN	_	7	pobj	_	O
+10	?	?	.	_	2	punct	_	O
+

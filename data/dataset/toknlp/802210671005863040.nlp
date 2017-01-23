@@ -1,0 +1,24 @@
+1	@JohnGrahamIV	@johngrahamiv	XX	pos2=ADD	13	dep	_	O
+2	@ikebarinholtz	@ikebarinholtz	UH	pos2=XX	13	discourse	_	O
+3	@DrJillStein	@drjillstein	ADD	pos2=XX	6	vocative	_	U-PERSON
+4	@PPact	@ppact	ADD	pos2=XX	3	pobj	_	O
+5	@NAACP	@naacp	NFP	pos2=NNP	3	discourse	_	O
+6	Even	even	RB	_	9	advmod	_	O
+7	if	if	IN	_	9	mark	_	O
+8	she	she	PRP	_	9	nsubj	_	O
+9	's	's	VBZ	_	13	advcl	_	O
+10	wrong	wrong	JJ	pos2=VBG	9	acomp	_	O
+11	it	it	PRP	_	13	nsubj	_	O
+12	still	still	RB	_	13	advmod	_	O
+13	hurts	hurt	VBZ	_	0	root	_	O
+14	Trump	trump	NNP	pos2=NN	13	dobj	_	U-ORG
+15	.	.	.	_	13	punct	_	O
+
+1	Keeps	keep	VBZ	_	0	root	_	O
+2	popular	popular	JJ	_	3	nmod	_	O
+3	vote	vote	NN	_	1	dobj	_	O
+4	in	in	IN	_	1	prep	_	O
+5	news	news	NN	_	6	compound	_	O
+6	cycle	cycle	NN	_	4	pobj	_	O
+7	.	.	.	_	1	punct	_	O
+

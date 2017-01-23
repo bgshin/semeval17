@@ -1,0 +1,22 @@
+1	As	as	IN	_	3	mark	_	O
+2	we	we	PRP	_	3	nsubj	_	O
+3	turn	turn	VBP	_	0	root	_	O
+4	to	to	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	French	french	JJ	_	7	nmod	_	U-NORP
+7	election	election	NN	_	4	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	Marine	marine	NNP	pos2=JJ	3	compound	_	B-ORG
+2	Le	le	NNP	_	3	compound	_	I-ORG
+3	Pen	pen	NNP	_	5	poss	_	I-ORG
+4	's	's	POS	_	3	case	_	L-ORG
+5	campaign	campaign	NN	_	7	nsubj	_	O
+6	might	might	MD	pos2=NN	7	aux	_	O
+7	fuel	fuel	VB	_	0	root	_	O
+8	this	this	DT	_	9	det	_	O
+9	trend	trend	NN	_	7	dobj	_	O
+10	.	.	.	_	7	punct	_	O
+
+1	https://t.co/ypx9f4p7H0	#hlink#	ADD	_	0	root	_	U-ORG
+

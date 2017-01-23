@@ -1,0 +1,9 @@
+1	An	an	DT	_	2	det	_	O
+2	Overview	overview	NN	pos2=NNP	0	root	_	O
+3	to	to	IN	_	2	prep	_	O
+4	3	0	CD	_	8	dep	_	U-CARDINAL
+5	D	d	NNP	pos2=GW	8	nmod	_	B-ORG
+6	Printing	printing	GW	pos2=VBG	8	nmod	_	L-ORG
+7	https://t.co/RDEvYYNdgg	#hlink#	ADD	_	8	nmod	_	O
+8	https://t.co/rDIrz4TEu1	#hlink#	ADD	_	3	pobj	_	U-ORG
+

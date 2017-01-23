@@ -1,0 +1,22 @@
+1	@Art_Guy1	@art_guy0	NN	pos2=NNS	5	vocative	_	O
+2	@trcfwtt	@trcfwtt	UH	pos2=IN	5	discourse	_	O
+3	@JoyAnnReid	@joyannreid	FW	pos2=VBN	4	nmod	_	O
+4	trump	trump	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	the	the	DT	_	8	det	_	O
+7	circus	circus	NN	pos2=NNP	8	compound	_	O
+8	clown	clown	NN	_	5	attr	_	O
+9	sent	send	VBN	pos2=VBD	8	acl	_	O
+10	to	to	TO	_	11	aux	_	O
+11	distract	distract	VB	_	9	advcl	_	O
+12	us	us	PRP	_	11	dobj	_	O
+13	.	.	.	_	5	punct	_	O
+
+1	Watch	watch	VB	pos2=NNP	0	root	_	O
+2	pence	penny	NNS	pos2=NN	1	dobj	_	O
+3	,	,	,	_	2	punct	_	O
+4	Ryan	ryan	NNP	_	2	conj	_	U-PERSON
+5	,	,	,	_	4	punct	_	O
+6	and	and	CC	_	4	cc	_	O
+7	Putin	putin	NNP	_	4	conj	_	U-PERSON
+

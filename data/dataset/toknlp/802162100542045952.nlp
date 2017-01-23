@@ -1,0 +1,20 @@
+1	Feel	feel	VB	pos2=VBP	0	root	_	O
+2	most	most	JJS	_	1	dobj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	my	my	PRP$	_	5	poss	_	O
+5	week	week	NN	_	3	pobj	_	O
+6	has	have	VBZ	_	8	aux	_	O
+7	been	be	VBN	_	8	auxpass	_	O
+8	spent	spend	VBN	_	1	ccomp	_	O
+9	in	in	IN	_	8	prep	_	O
+10	an	an	DT	_	11	det	_	O
+11	#uber	#uber	NN	pos2=NNP	9	pobj	_	O
+12	#weekendscoming	#weekendscoming	VBG	pos2=FW	8	xcomp	_	O
+13	#car	#car	XX	pos2=UH	12	dep	_	O
+14	#taxi	#taxi	FW	pos2=XX	12	dobj	_	O
+15	#travelling	#travelling	VBG	pos2=ADD	19	dep	_	O
+16	@	@	SYM	pos2=NFP	17	punct	_	O
+17	Covent	covent	NNP	pos2=GW	19	nmod	_	O
+18	…	…	NFP	pos2=-LRB-	19	punct	_	O
+19	https://t.co/oGpCnlJRi0	#hlink#	ADD	pos2=NN	14	root	_	O
+

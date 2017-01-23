@@ -1,0 +1,26 @@
+1	@GypsySpirit46	@gypsyspirit0	NN	pos2=NNS	14	dep	_	O
+2	@GovMikeHuckabee	@govmikehuckabee	UH	pos2=ADD	1	discourse	_	O
+3	NO	no	UH	_	2	discourse	_	O
+4	,	,	,	_	1	punct	_	O
+5	not	not	RB	pos2=CC	7	neg	_	O
+6	the	the	DT	_	7	det	_	O
+7	#TrumpTransitionTeam	#trumptransitionteam	NNP	pos2=NN	1	appos	_	U-ORG
+8	,	,	,	_	7	punct	_	O
+9	the	the	DT	_	11	det	_	O
+10	#AltLeftMedia	#altleftmedia	NNP	pos2=NN	11	compound	_	O
+11	R	r	NNP	pos2=VB	7	conj	_	O
+12	THE	the	DT	pos2=NNP	13	det	_	O
+13	ONES	#crd#	NNS	pos2=NNPS	14	nsubj	_	O
+14	LYING	lie	VBG	_	0	root	_	O
+15	!	!	.	_	14	punct	_	O
+
+1	When	when	WRB	_	4	advmod	_	O
+2	r	r	JJ	pos2=PRP$	3	nmod	_	O
+3	ppl	ppl	NNS	pos2=NN	4	nsubj	_	O
+4	going	go	VBG	_	9	advcl	_	O
+5	2	0	CD	pos2=RBR	7	nmod	_	U-CARDINAL
+6	OPEN	open	JJ	pos2=VB	4	acomp	_	O
+7	THEIR	their	PRP$	_	8	poss	_	O
+8	👀	👀	NN	pos2=NNP	0	root	_	O
+9	's	's	POS	pos2=AFX	8	case	_	O
+

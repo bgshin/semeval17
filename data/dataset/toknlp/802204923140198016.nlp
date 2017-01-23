@@ -1,0 +1,15 @@
+1	@Nat1831Turner	@nat0turner	NN	pos2=GW	4	poss	_	O
+2	@staceys_75	@staceys_0	POS	pos2=NNP	1	case	_	B-EVENT
+3	War	war	NNP	pos2=NN	4	compound	_	L-EVENT
+4	mongers	monger	NNS	pos2=NNPS	10	nsubj	_	O
+5	and	and	CC	_	4	cc	_	O
+6	actual	actual	JJ	_	9	nmod	_	O
+7	Nazi	nazi	NNP	pos2=JJ	9	compound	_	U-NORP
+8	war	war	NN	_	9	compound	_	O
+9	criminals	criminal	NNS	_	4	conj	_	O
+10	are	be	VBP	_	0	root	_	O
+11	on	on	IN	_	10	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	left	left	JJ	pos2=NN	11	pobj	_	O
+14	https://t.co/35UEap1Jev	#hlink#	ADD	pos2=NN	10	dep	_	U-ORG
+

@@ -1,0 +1,8 @@
+1	@Hromadske	@hromadske	NNP	pos2=UH	2	nsubj	_	B-ORG
+2	Imagine	imagine	VB	pos2=NNP	0	root	_	I-ORG
+3	Poroshenko	poroshenko	NNP	_	2	dobj	_	I-ORG
+4	&	&	CC	_	3	cc	_	I-ORG
+5	Co.	co.	NNP	_	3	conj	_	L-ORG
+6	saying	say	VBG	_	2	advcl	_	O
+7	this	this	DT	_	6	dobj	_	O
+

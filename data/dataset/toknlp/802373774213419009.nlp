@@ -1,0 +1,9 @@
+1	@Darla4Unity	@darla0unity	NN	pos2=UH	4	dep	_	O
+2	@ClownGroovy	@clowngroovy	MD	pos2=ADD	4	aux	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	say	say	VB	_	0	root	_	O
+5	we	we	PRP	_	6	nsubj	_	O
+6	Deport	deport	VBP	pos2=NNP	4	ccomp	_	O
+7	George	george	NNP	_	8	compound	_	B-PERSON
+8	Soros👍👊🇺🇸	soros👍👊🇺🇸	NNP	_	6	dobj	_	L-PERSON
+

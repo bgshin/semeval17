@@ -1,0 +1,15 @@
+1	Tyson	tyson	NNP	_	2	compound	_	B-PERSON
+2	Ross	ross	NNP	_	4	nsubj	_	L-PERSON
+3	Could	could	MD	_	4	aux	_	O
+4	Be	be	VB	_	0	root	_	O
+5	Exactly	exactly	RB	pos2=NNP	9	advmod	_	O
+6	What	what	WDT	pos2=WP	7	det	_	O
+7	Cubs	cub	NNPS	pos2=NNP	9	nsubj	_	U-ORG
+8	Are	be	VBP	pos2=NNP	9	aux	_	O
+9	Looking	look	VBG	_	4	acomp	_	O
+10	For	for	IN	_	9	prep	_	O
+11	https://t.co/lY8E7NaUjk	#hlink#	ADD	pos2=NN	10	pobj	_	U-ORG
+12	via	via	IN	_	9	prep	_	O
+13	@ChatCubs	@chatcubs	ADD	pos2=NNS	12	pobj	_	O
+14	https://t.co/AdEXnrTGt0	#hlink#	ADD	_	12	pobj	_	O
+

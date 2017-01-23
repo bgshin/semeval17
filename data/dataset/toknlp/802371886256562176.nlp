@@ -1,0 +1,26 @@
+1	@EricKleefeld	@erickleefeld	NN	pos2=XX	0	root	_	O
+2	but	but	CC	_	1	cc	_	O
+3	Dems	dems	NNPS	pos2=NNP	4	nsubj	_	U-NORP
+4	are	be	VBP	_	1	conj	_	O
+5	so	so	RB	_	6	advmod	_	O
+6	weak	weak	JJ	_	4	acomp	_	O
+7	that	that	IN	pos2=RB	24	det	_	O
+8	even	even	RB	_	11	advmod	_	O
+9	if	if	IN	_	11	mark	_	O
+10	there	there	EX	_	11	expl	_	O
+11	were	be	VBD	_	24	advcl	_	O
+12	more	more	RBR	pos2=JJR	13	advmod	_	O
+13	obvious	obvious	JJ	_	14	nmod	_	O
+14	issues	issue	NNS	_	11	attr	_	O
+15	,	,	,	_	11	punct	_	O
+16	ala	ala	IN	pos2=VBZ	11	prep	_	O
+17	Florida	florida	NNP	_	16	pobj	_	U-GPE
+18	in	in	IN	_	14	prep	_	O
+19	2000	0	CD	_	18	pobj	_	U-DATE
+20	,	,	,	_	24	punct	_	O
+21	they	they	PRP	_	24	nsubj	_	O
+22	'd	would	MD	pos2=VBD	24	aux	_	O
+23	pressure	pressure	NN	pos2=VB	24	compound	_	O
+24	concession	concession	NN	_	6	ccomp	_	O
+25	.	.	.	_	4	punct	_	O
+

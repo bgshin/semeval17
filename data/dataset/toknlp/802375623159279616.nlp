@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det	_	B-ORG
+2	Clinton	clinton	NNP	_	3	compound	_	I-ORG
+3	Foundation	foundation	NNP	_	4	nsubj	_	L-ORG
+4	spends	spend	VBZ	_	0	root	_	O
+5	more	more	JJR	pos2=RBR	6	nmod	_	O
+6	millions	#crd#	NNS	_	4	dobj	_	U-CARDINAL
+7	on	on	IN	pos2=TO	4	prep	_	O
+8	travel	travel	NN	_	7	pobj	_	O
+9	rather	rather	RB	_	10	advmod	_	O
+10	than	than	IN	_	6	prep	_	O
+11	Charitable	charitable	JJ	pos2=NNP	12	nmod	_	O
+12	Grants	grant	NNS	pos2=NNPS	10	pobj	_	O
+13	.	.	.	_	4	punct	_	O
+
+1	No	no	DT	_	2	det	_	O
+2	wonder	wonder	NN	_	5	nsubj	_	O
+3	Haiti	haiti	NNP	_	5	nsubj	_	U-GPE
+4	barely	barely	RB	_	5	advmod	_	O
+5	received	receive	VBD	_	0	root	_	O
+6	anything	anything	NN	_	5	dobj	_	O
+

@@ -1,0 +1,18 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	must	must	MD	_	4	aux	_	O
+3	be	be	VB	_	4	aux	_	O
+4	having	have	VBG	_	0	root	_	O
+5	deja	deja	NN	pos2=VBN	6	compound	_	O
+6	vú	vú	NNP	pos2=NN	4	dobj	_	U-PERSON
+7	cuz	cuz	IN	pos2=CC	13	mark	_	O
+8	I	I	PRP	_	9	nsubj	_	O
+9	could	could	MD	_	14	aux	_	O
+10	a	a	DT	pos2=XX	12	det	_	O
+11	swore	swore	JJ	pos2=NN	12	nmod	_	O
+12	thanksgiving	thanksgiving	NN	_	13	nsubj	_	O
+13	was	be	VBD	_	4	advcl	_	O
+14	yesterday	yesterday	NN	_	13	npadvmod	_	U-DATE
+15	?	?	.	_	4	punct	_	O
+
+1	#thanksgivingleftovers	#thanksgivingleftovers	NNS	pos2=UH	0	root	_	O
+

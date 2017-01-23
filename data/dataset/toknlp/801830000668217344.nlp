@@ -1,0 +1,21 @@
+1	@RandallGrahm	@randallgrahm	UH	pos2=NNP	4	discourse	_	O
+2	have	have	VBP	pos2=VB	4	aux	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	heard	hear	VBN	_	0	root	_	O
+5	this	this	DT	_	4	dobj	_	O
+6	?	?	.	_	4	punct	_	O
+
+1	fascinating	fascinating	JJ	pos2=NN	0	root	_	O
+2	,	,	,	_	1	punct	_	O
+3	and	and	CC	_	1	cc	_	O
+4	I	I	PRP	_	6	nsubj	_	O
+5	literally	literally	RB	_	6	advmod	_	O
+6	laughed	laugh	VBD	_	1	conj	_	O
+7	out	out	RB	pos2=RP	8	advmod	_	O
+8	loud	loud	JJ	pos2=RB	6	advmod	_	O
+9	at	at	IN	_	6	prep	_	O
+10	Saakashvili	saakashvili	NNP	_	12	poss	_	U-PERSON
+11	's	's	POS	_	10	case	_	O
+12	candor	candor	NN	_	9	pobj	_	O
+13	https://t.co/1DqxPujPTd	#hlink#	ADD	_	6	punct	_	O
+

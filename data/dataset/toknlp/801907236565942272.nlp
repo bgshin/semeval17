@@ -1,0 +1,17 @@
+1	BREAKING	break	VBG	pos2=NN	16	advcl	_	O
+2	Fox	fox	NNP	_	3	compound	_	O
+3	NEWS	news	NN	_	1	dobj	_	O
+4	:	:	:	_	6	punct	_	O
+5	(	(	-LRB-	_	6	punct	_	O
+6	WTF	wtf	NN	pos2=LS	16	dep	_	O
+7	)	)	-RRB-	_	6	punct	_	O
+8	President	president	NNP	_	9	compound	_	O
+9	OBAMA	obama	NNP	pos2=NN	16	dep	_	U-PERSON
+10	at	at	IN	_	1	prep	_	O
+11	fault	fault	NN	_	10	pobj	_	O
+12	for	for	IN	_	6	prep	_	O
+13	ANTI	anti	AFX	pos2=NNP	14	nmod	_	O
+14	TRUMP	trump	NN	pos2=JJ	15	compound	_	O
+15	riots	riot	NNS	_	12	pobj	_	O
+16	https://t.co/AgCPWrMJ8y	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,12 @@
+1	tony	tony	JJ	pos2=NN	4	nmod	_	O
+2	romo	romo	GW	pos2=NNP	4	nmod	_	O
+3	Wallpaper	wallpaper	GW	pos2=NNP	4	nmod	_	O
+4	https://t.co/kcG2lK7Bc9	#hlink#	ADD	pos2=NN	11	dep	_	O
+5	#Pc	#pc	-RRB-	pos2=XX	4	punct	_	O
+6	#Wallpaper	#wallpaper	-RRB-	pos2=JJR	4	punct	_	O
+7	#TonyRomo	#tonyromo	ADD	pos2=NN	11	nmod	_	B-PERSON
+8	#Tony	#tony	NNP	pos2=GW	11	nmod	_	I-PERSON
+9	#Romo	#romo	GW	pos2=NNP	11	nmod	_	I-PERSON
+10	#Cowboys	#cowboys	GW	pos2=NNS	11	nmod	_	L-PERSON
+11	https://t.co/DKVItrwLK2	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

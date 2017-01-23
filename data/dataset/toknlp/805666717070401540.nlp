@@ -1,0 +1,23 @@
+1	Raul	raul	NNP	_	2	compound	_	B-PERSON
+2	Castro	castro	NNP	_	3	nsubj	_	L-PERSON
+3	receives	receive	VBZ	_	0	root	_	O
+4	Fidel	fidel	NNP	_	6	poss	_	U-PERSON
+5	's	's	POS	_	4	case	_	O
+6	ashes	ash	NNS	_	3	dobj	_	O
+7	encased	encase	VBN	pos2=VBD	6	acl	_	O
+8	in	in	IN	_	7	prep	_	O
+9	a	a	DT	_	11	det	_	O
+10	cedar	cedar	NN	_	11	compound	_	O
+11	box	box	NN	_	8	pobj	_	O
+12	and	and	CC	_	3	cc	_	O
+13	places	place	VBZ	pos2=NNS	3	conj	_	O
+14	them	them	PRP	_	13	dobj	_	O
+15	in	in	IN	_	13	prep	_	O
+16	a	a	DT	_	17	det	_	O
+17	large	large	JJ	pos2=NN	15	pobj	_	O
+18	...	..	.	_	3	punct	_	O
+
+1	-	-	NFP	pos2=GW	3	punct	_	O
+2	https://t.co/KNwiXrc9MO…	#hlink#	ADD	pos2=GW	3	nmod	_	O
+3	https://t.co/r5Nw16vKHL	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,22 @@
+1	That	that	DT	pos2=IN	3	det	_	O
+2	Westworld	westworld	NNP	_	3	compound	_	O
+3	finale	finale	NN	_	4	nsubj	_	O
+4	was	be	VBD	_	0	root	_	O
+5	so	so	RB	_	6	advmod	_	O
+6	good	good	JJ	_	4	acomp	_	O
+7	!	!	.	_	4	punct	_	O
+
+1	Hoping	hope	VBG	pos2=UH	0	root	_	O
+2	we	we	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	have	have	VB	_	1	ccomp	_	O
+6	to	to	TO	_	7	aux	_	O
+7	wait	wait	VB	_	5	xcomp	_	O
+8	too	too	RB	_	9	advmod	_	O
+9	long	long	JJ	pos2=RB	7	advmod	_	O
+10	for	for	IN	_	7	prep	_	O
+11	Season	season	NN	pos2=NNP	10	pobj	_	B-DATE
+12	2	0	CD	_	11	nmod	_	L-DATE
+13	...	..	.	pos2=,	1	punct	_	O
+

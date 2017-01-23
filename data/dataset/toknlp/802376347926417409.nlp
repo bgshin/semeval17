@@ -1,0 +1,14 @@
+1	#DISEC	#disec	VB	pos2=NNP	0	root	_	O
+2	The	the	DT	_	4	det	_	O
+3	draft	draft	NN	_	4	compound	_	O
+4	resolution	resolution	NN	_	5	nsubj	_	O
+5	needs	need	VBZ	_	1	ccomp	_	O
+6	more	more	JJR	_	7	nmod	_	O
+7	pictures	picture	NNS	_	5	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	Kim	kim	NNP	_	12	compound	_	B-PERSON
+10	Jong	jong	NNP	_	12	compound	_	I-PERSON
+11	-	-	HYPH	_	12	punct	_	I-PERSON
+12	un	un	NNP	pos2=VBN	13	compound	_	L-PERSON
+13	#SydMUN16	#sydmun0	NN	pos2=.	8	pobj	_	O
+

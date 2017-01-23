@@ -1,0 +1,21 @@
+1	Fossil	fossil	NN	pos2=JJ	2	compound	_	O
+2	fuels	fuel	NNS	_	6	nsubj	_	O
+3	by	by	IN	_	2	prep	_	O
+4	their	their	PRP$	_	5	poss	_	O
+5	nature	nature	NN	_	3	pobj	_	O
+6	are	be	VBP	_	0	root	_	O
+7	finite	finite	JJ	_	6	acomp	_	O
+8	.	.	.	_	6	punct	_	O
+
+1	We	we	PRP	_	3	nsubj	_	O
+2	are	be	VBP	_	3	aux	_	O
+3	going	go	VBG	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	run	run	VB	_	3	xcomp	_	O
+6	out	out	RP	pos2=RB	5	prt	_	O
+7	sooner	soon	RBR	_	5	advmod	_	O
+8	rather	rather	RB	_	9	advmod	_	O
+9	than	than	IN	_	7	cc	_	O
+10	later	later	RB	_	7	conj	_	O
+11	.	.	.	_	3	punct	_	O
+

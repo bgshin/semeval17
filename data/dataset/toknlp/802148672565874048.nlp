@@ -1,0 +1,27 @@
+1	Ethics	ethic	NNS	pos2=NNP	0	root	_	O
+2	by	by	IN	_	1	prep	_	O
+3	Nielsen	nielsen	NNP	_	4	compound	_	U-ORG
+4	ratings	rating	NNS	_	2	pobj	_	O
+5	!	!	.	_	1	punct	_	O
+
+1	Was	be	VBD	_	0	root	_	O
+2	there	there	EX	pos2=RB	1	expl	_	O
+3	already	already	RB	_	1	advmod	_	O
+4	a	a	DT	_	6	det	_	O
+5	@blackmirror	@blackmirror	NN	pos2=JJR	6	compound	_	O
+6	episode	episode	NN	_	1	attr	_	O
+7	about	about	IN	_	6	prep	_	O
+8	this	this	DT	_	7	pobj	_	O
+9	,	,	,	_	1	punct	_	O
+10	or	or	CC	_	1	cc	_	O
+11	am	be	VBP	_	13	aux	_	O
+12	I	I	PRP	_	13	nsubj	_	O
+13	thinking	think	VBG	_	1	conj	_	O
+14	The	the	DT	pos2=NNP	16	det	_	B-WORK_OF_ART
+15	Running	running	NNP	pos2=VBG	16	compound	_	I-WORK_OF_ART
+16	Man	man	NNP	pos2=NN	13	dobj	_	I-WORK_OF_ART
+17	?	?	.	_	13	punct	_	L-WORK_OF_ART
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/YANBFzFWCD	#hlink#	ADD	pos2=NN	0	root	_	O
+

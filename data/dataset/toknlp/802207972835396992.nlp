@@ -1,0 +1,18 @@
+1	Demonstration	demonstration	NN	_	5	nsubj	_	O
+2	in	in	IN	_	1	prep	_	O
+3	#Tripoli	#tripoli	NNP	pos2=NNS	2	pobj	_	U-GPE
+4	today	today	NN	_	1	npadvmod	_	U-DATE
+5	condemns	condemn	VBZ	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	assassination	assassination	NN	_	5	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	Sheikh	sheikh	NNP	_	13	compound	_	B-PERSON
+10	Nader	nader	NNP	_	13	compound	_	I-PERSON
+11	Al	al	NNP	_	13	compound	_	I-PERSON
+12	-	-	HYPH	_	13	punct	_	I-PERSON
+13	Omrani	omrani	NNP	_	8	pobj	_	L-PERSON
+14	.	.	.	_	5	punct	_	O
+
+1	#Libya	#libya	-LRB-	pos2=ADD	2	punct	_	O
+2	https://t.co/rI7qoHb7gS	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

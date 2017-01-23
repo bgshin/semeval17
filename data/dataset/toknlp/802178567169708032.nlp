@@ -1,0 +1,11 @@
+1	all	all	DT	_	3	det	_	O
+2	three	#crd#	CD	_	3	nmod	_	U-CARDINAL
+3	ages	age	NNS	_	6	nsubj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	randall	randall	NN	pos2=NNS	4	pobj	_	O
+6	are	be	VBP	_	0	root	_	O
+7	my	my	PRP$	_	9	poss	_	O
+8	favorite	favorite	JJ	_	9	nmod	_	O
+9	characters	character	NNS	_	6	attr	_	O
+10	#ThisIsUs	#thisisus	ADD	pos2=.	6	advmod	_	O
+

@@ -1,0 +1,23 @@
+1	privacy	privacy	NN	_	4	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	security	security	NN	_	1	conj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	always	always	RB	_	4	advmod	_	O
+6	issues	issue	NNS	pos2=VBZ	4	attr	_	O
+7	that	that	WDT	_	8	nsubj	_	O
+8	concern	concern	VBP	pos2=NN	6	relcl	_	O
+9	social	social	JJ	_	10	nmod	_	O
+10	media	medium	NNS	pos2=NN	11	compound	_	O
+11	users	user	NNS	_	8	dobj	_	O
+12	.	.	.	_	4	punct	_	O
+
+1	Here	here	RB	_	2	advmod	_	O
+2	are	be	VBP	_	0	root	_	O
+3	some	some	DT	_	4	det	_	O
+4	ways	way	NNS	_	2	nsubj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	stay	stay	VB	_	4	relcl	_	O
+7	safe	safe	JJ	_	8	nmod	_	O
+8	#fnm231	#fnm0	NN	pos2=IN	6	dobj	_	O
+9	https://t.co/gVakTrn60q	#hlink#	ADD	pos2=NN	2	dep	_	O
+

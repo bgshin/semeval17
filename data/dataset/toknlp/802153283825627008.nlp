@@ -1,0 +1,10 @@
+1	@HillaryClinton	@hillaryclinton	NNP	pos2=ADD	6	compound	_	O
+2	Always	always	RB	_	3	advmod	_	O
+3	with	with	IN	_	1	prep	_	O
+4	you	you	PRP	_	3	pobj	_	O
+5	Mrs.	mrs.	NNP	_	6	compound	_	O
+6	Clinton	clinton	NNP	_	0	root	_	U-PERSON
+7	.	.	.	_	1	punct	_	O
+
+1	#stillwithher	#stillwithher	UH	pos2=NN	0	root	_	O
+

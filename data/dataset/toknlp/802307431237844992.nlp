@@ -1,0 +1,24 @@
+1	When	when	WRB	_	3	advmod	_	O
+2	AI	ai	NNP	pos2=NN	3	nsubj	_	O
+3	Goes	go	VBZ	_	9	advcl	_	O
+4	Wrong	wrong	NNP	pos2=JJ	3	dobj	_	O
+5	,	,	,	_	9	punct	_	O
+6	We	we	PRP	_	9	nsubj	_	O
+7	Wo	wo	MD	_	9	aux	_	O
+8	n’t	not	RB	_	9	neg	_	O
+9	Be	be	VB	_	0	root	_	O
+10	Able	able	JJ	_	9	acomp	_	O
+11	to	to	TO	_	12	aux	_	O
+12	Ask	ask	VB	_	10	xcomp	_	O
+13	It	it	PRP	_	12	dobj	_	O
+14	Why	why	WRB	_	12	ccomp	_	O
+15	.	.	.	_	9	punct	_	O
+
+1	#BigData	#bigdata	ADD	pos2=NN	7	dep	_	O
+2	#DeepLearning	#deeplearning	VBG	pos2=ADD	7	nmod	_	O
+3	#MachineLearning	#machinelearning	VBG	pos2=ADD	7	nmod	_	O
+4	#DataScience	#datascience	GW	pos2=ADD	7	nmod	_	O
+5	#AI	#ai	GW	pos2=$	7	nmod	_	U-MONEY
+6	…	…	GW	pos2=NFP	7	nmod	_	O
+7	https://t.co/9Wp6DbYBPE	#hlink#	ADD	pos2=NN	0	root	_	O
+

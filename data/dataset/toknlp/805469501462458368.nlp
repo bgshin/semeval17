@@ -1,0 +1,21 @@
+1	U.S.	u.s.	NNP	_	2	compound	_	U-GPE
+2	Inference	inference	NN	pos2=NNP	9	nsubjpass	_	O
+3	in	in	IN	_	2	prep	_	O
+4	CubaThe	cubathe	NNP	pos2=DT	7	nmod	_	U-GPE
+5	U.S.	u.s.	NNP	_	7	nmod	_	U-GPE
+6	economic	economic	JJ	_	7	nmod	_	O
+7	embargo	embargo	NN	pos2=NNP	3	pobj	_	O
+8	was	be	VBD	_	9	auxpass	_	O
+9	initiated	initiate	VBN	_	0	root	_	O
+10	in	in	IN	_	9	prep	_	O
+11	1960	0	CD	_	10	pobj	_	U-DATE
+12	by	by	IN	_	9	agent	_	O
+13	President	president	NNP	_	17	compound	_	O
+14	Dwight	dwight	NNP	_	17	compound	_	B-PERSON
+15	D.	d.	NNP	_	17	compound	_	I-PERSON
+16	Eisenhower	eisenhower	NNP	_	17	compound	_	L-PERSON
+17	in.	in.	NNP	pos2=.	12	pobj	_	O
+18	..	..	.	pos2=,	9	punct	_	O
+
+1	https://t.co/7xAm0vTJPs	#hlink#	ADD	_	0	root	_	U-ORG
+

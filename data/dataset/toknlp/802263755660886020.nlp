@@ -1,0 +1,24 @@
+1	@wisdom2m3	@wisdom0m0	VBG	pos2=LS	4	advcl	_	O
+2	your	your	PRP$	_	3	poss	_	O
+3	mom	mom	NN	_	4	nsubj	_	O
+4	cheated	cheat	VBD	pos2=VBN	0	root	_	O
+5	on	on	IN	_	4	prep	_	O
+6	your	your	PRP$	_	7	poss	_	O
+7	dad	dad	NN	_	5	pobj	_	O
+8	with	with	IN	_	4	prep	_	O
+9	bad	bad	JJ	_	10	nmod	_	O
+10	hombres	hombre	NNS	pos2=UH	8	pobj	_	O
+11	all	all	PDT	_	13	predet	_	O
+12	the	the	DT	_	13	det	_	O
+13	time	time	NN	_	4	npadvmod	_	O
+14	.	.	.	_	4	punct	_	O
+
+1	He	he	PRP	_	3	nsubj	_	O
+2	secretly	secretly	RB	_	3	advmod	_	O
+3	knew	know	VBD	_	0	root	_	O
+4	and	and	CC	_	3	cc	_	O
+5	kinda	kinda	RB	_	6	advmod	_	O
+6	liked	like	VBD	_	3	conj	_	O
+7	it	it	PRP	_	6	dobj	_	O
+8	.	.	.	_	3	punct	_	O
+

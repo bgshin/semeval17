@@ -1,0 +1,20 @@
+1	Mass	mass	NN	pos2=NNP	2	compound	_	O
+2	immigration	immigration	NN	_	6	nsubj	_	O
+3	to	to	IN	_	2	prep	_	O
+4	Britain	britain	NNP	_	3	pobj	_	U-GPE
+5	has	have	VBZ	_	6	aux	_	O
+6	changed	change	VBN	_	0	root	_	O
+7	it	it	PRP	_	6	dobj	_	O
+8	beyond	beyond	IN	_	6	prep	_	O
+9	recognition	recognition	NN	_	8	pobj	_	O
+10	and	and	CC	_	6	cc	_	O
+11	turned	turn	VBD	pos2=VBN	6	conj	_	O
+12	communities	community	NNS	_	11	dobj	_	O
+13	into	into	IN	_	11	prep	_	O
+14	ghettos	ghetto	NNS	pos2=NN	13	pobj	_	O
+15	,	,	,	_	11	punct	_	O
+16	reveals	reveal	VBZ	_	11	conj	_	O
+17	damning	damn	VBG	pos2=JJ	19	nmod	_	O
+18	…	…	NFP	pos2=-LRB-	19	punct	_	O
+19	https://t.co/QGYJkS8JeE	#hlink#	ADD	_	16	dobj	_	U-ORG
+

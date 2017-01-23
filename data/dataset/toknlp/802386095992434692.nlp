@@ -1,0 +1,22 @@
+1	@NathanDallon	@nathandallon	ADD	pos2=XX	9	det	_	U-QUANTITY
+2	@AnnCoulter	@anncoulter	GW	pos2=ADD	4	nmod	_	O
+3	@ScottMcConnell9	@scottmcconnell0	GW	pos2=NN	4	nmod	_	O
+4	Loyalty	loyalty	NN	pos2=NNP	9	poss	_	O
+5	's	's	POS	pos2=GW	4	case	_	O
+6	V.important	#hlink#	ADD	_	9	nmod	_	O
+7	2.Dems	#hlink#	ADD	pos2=IN	9	compound	_	B-ORG
+8	GOPe	gope	NNP	pos2=-RRB-	9	compound	_	I-ORG
+9	Press	press	NNP	pos2=VB	11	nsubj	_	L-ORG
+10	all	all	DT	pos2=RB	11	advmod	_	O
+11	working	work	VBG	pos2=NN	0	root	_	O
+12	against	against	IN	_	11	prep	_	O
+13	him	him	PRP	_	12	pobj	_	O
+14	.	.	.	_	11	punct	_	O
+
+1	Mitt	mitt	NNP	pos2=JJ	5	nmod	_	U-PERSON
+2	foreign	foreign	JJ	_	3	nmod	_	O
+3	policy	policy	NN	_	4	compound	_	O
+4	vision	vision	NN	_	5	compound	_	O
+5	diff	diff	NN	pos2=FW	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+

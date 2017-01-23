@@ -1,0 +1,33 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@DrJillStein	@drjillstein	NN	pos2=ADD	0	root	_	O
+2	@EJLandwehr	@ejlandwehr	NNP	pos2=PRP$	3	nmod	_	O
+3	Answers	answer	NNS	pos2=NNPS	1	dobj	_	O
+4	?	?	.	_	1	punct	_	O
+
+1	What	what	WP	_	2	attr	_	O
+2	are	be	VBP	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	Qs	q	NNPS	pos2=NNP	2	nsubj	_	U-PRODUCT
+5	?	?	.	_	2	punct	_	O
+
+1	Problem	problem	NN	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	voter	voter	NN	_	4	compound	_	O
+4	suppression	suppression	NN	_	2	attr	_	O
+5	,	,	,	_	2	punct	_	O
+6	not	not	RB	_	7	neg	_	O
+7	vote	vote	VB	pos2=NN	2	conj	_	O
+8	chicanery	chicanery	NN	_	7	dobj	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	Focus	focus	VB	pos2=NN	8	advcl	_	O
+2	on	on	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	former	former	JJ	pos2=NN	2	pobj	_	O
+5	,	,	,	_	8	punct	_	O
+6	not	not	RB	_	8	neg	_	O
+7	the	the	DT	_	8	det	_	O
+8	latter	latter	JJ	pos2=NN	0	root	_	O
+9	.	.	.	_	8	punct	_	O
+

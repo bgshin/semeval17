@@ -1,0 +1,14 @@
+1	Christopher	christopher	NNP	_	2	compound	_	B-PERSON
+2	Bollyn	bollyn	NNP	pos2=GW	3	compound	_	L-PERSON
+3	page	page	NN	_	13	dep	_	O
+4	https://t.co/7KUwT4rJ12	#hlink#	ADD	pos2=NN	13	nmod	_	O
+5	#	#	NN	pos2=-RRB-	6	dep	_	O
+6	911	0	LS	pos2=CD	8	meta	_	U-MONEY
+7	#falseflag	#falseflag	:	pos2=NN	6	punct	_	O
+8	#mossad	#mossad	XX	pos2=FW	13	nmod	_	O
+9	#israel	#israel	UH	pos2=XX	13	discourse	_	O
+10	#gaza	#gaza	UH	pos2=XX	13	discourse	_	O
+11	#palestine	#palestine	UH	pos2=PRP	13	discourse	_	O
+12	#israel	#israel	UH	pos2=VB	13	discourse	_	O
+13	#BDS	#bds	NNS	pos2=UH	0	root	_	O
+

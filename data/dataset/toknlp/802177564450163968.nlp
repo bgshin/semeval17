@@ -1,0 +1,21 @@
+1	if	if	IN	_	4	mark	_	O
+2	Persona	persona	NN	pos2=NNP	4	nsubj	_	O
+3	5	0	CD	_	2	nmod	_	U-CARDINAL
+4	is	be	VBZ	_	15	advcl	_	O
+5	already	already	RB	_	4	advmod	_	O
+6	out	out	JJ	pos2=RB	4	acomp	_	O
+7	and	and	CC	_	6	cc	_	O
+8	ready	ready	JJ	_	6	conj	_	O
+9	in	in	IN	_	8	prep	_	O
+10	Japan	japan	NNP	_	9	pobj	_	U-GPE
+11	why	why	WRB	_	15	advmod	_	O
+12	ca	can	MD	_	15	aux	_	O
+13	n't	not	RB	_	15	neg	_	O
+14	we	we	PRP	_	15	nsubj	_	O
+15	have	have	VB	_	0	root	_	O
+16	it	it	PRP	_	15	dobj	_	O
+17	nowpleasemy	nowpleasemy	JJ	pos2=IN	18	nmod	_	O
+18	crops	crop	NNS	_	20	nsubj	_	O
+19	are	be	VBP	_	20	aux	_	O
+20	dying	die	VBG	_	15	ccomp	_	O
+

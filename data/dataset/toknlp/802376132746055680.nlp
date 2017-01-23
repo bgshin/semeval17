@@ -1,0 +1,12 @@
+1	Melania	melania	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Trump	trump	NNP	_	3	nsubj	_	L-PERSON
+3	opts	opt	VBZ	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	bow	bow	NN	_	4	pobj	_	O
+6	undone	undo	VBN	_	5	acl	_	O
+7	at	at	IN	_	6	prep	_	O
+8	third	#ord#	JJ	_	9	nmod	_	U-ORDINAL
+9	debate	debate	NN	_	7	pobj	_	O
+10	https://t.co/YoiapaY0cp	#hlink#	ADD	_	5	appos	_	O
+11	#Fashion	#fashion	NNP	pos2=ADD	10	npadvmod	_	U-FAC
+

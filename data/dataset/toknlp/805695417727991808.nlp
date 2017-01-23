@@ -1,0 +1,19 @@
+1	@afdglock45	@afdglock0	NN	pos2=XX	6	nmod	_	O
+2	@_	@_	NFP	pos2=SYM	7	compound	_	O
+3	Tom_Bishop	tom_bishop	NNP	pos2=XX	6	nmod	_	O
+4	@Soldier1eaODGrn	@soldier0eaodgrn	GW	pos2=XX	9	aux	_	O
+5	@fox5dc	@fox0dc	GW	pos2=NN	0	root	_	O
+6	@Cernovich	@cernovich	NNP	pos2=GW	9	nsubj	_	O
+7	@wttg	@wttg	GW	pos2=NNS	9	aux	_	O
+8	Ever	ever	RB	pos2=GW	9	advmod	_	O
+9	notice	notice	VB	pos2=NN	5	root	_	O
+10	cities	city	NNS	_	9	dobj	_	O
+11	with	with	IN	_	9	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	most	most	JJS	_	14	nmod	_	O
+14	niggers	nigger	NNS	_	11	pobj	_	O
+15	have	have	VBP	_	10	acl	_	O
+16	gun	gun	NN	pos2=VBN	17	compound	_	O
+17	control	control	NN	pos2=VB	15	dobj	_	O
+18	?	?	.	_	9	punct	_	O
+

@@ -1,0 +1,23 @@
+1	@MannyPortugal	@mannyportugal	VB	pos2=XX	0	root	_	O
+2	what	what	WDT	pos2=WP	3	det	_	O
+3	kind	kind	NN	_	11	dobj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	natural	natural	JJ	_	6	nmod	_	O
+6	disasters	disaster	NNS	_	4	pobj	_	O
+7	would	would	MD	_	11	aux	_	O
+8	such	such	JJ	_	10	nmod	_	O
+9	fossil	fossil	NN	pos2=JJ	10	compound	_	O
+10	fuels	fuel	NNS	_	11	nsubj	_	O
+11	create	create	VBP	pos2=NN	1	ccomp	_	O
+12	,	,	,	_	11	punct	_	O
+13	ex	ex	FW	pos2=NN	15	dep	_	O
+14	:	:	:	_	15	punct	_	O
+15	contamination	contamination	NN	_	10	appos	_	O
+16	of	of	IN	_	15	prep	_	O
+17	the	the	DT	_	19	det	_	O
+18	water	water	NN	_	19	compound	_	O
+19	streams	stream	NNS	pos2=VBZ	16	pobj	_	O
+20	it	it	PRP	_	21	nsubj	_	O
+21	runs	run	VBZ	_	15	relcl	_	O
+22	through	through	IN	pos2=RB	21	prep	_	O
+

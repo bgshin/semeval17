@@ -1,0 +1,10 @@
+1	#Syria	#syria	NNP	pos2=GW	7	npadvmod	_	B-PERSON
+2	#Hezbollah	#hezbollah	ADD	pos2=NNP	7	dobj	_	L-PERSON
+3	https://t.co/wWi5lpXfE8	#hlink#	ADD	pos2=NNP	6	nmod	_	O
+4	Nasrallah	nasrallah	NNP	_	6	poss	_	U-PERSON
+5	's	's	POS	_	4	case	_	O
+6	bodyguard	bodyguard	NN	_	7	nsubj	_	O
+7	identified	identify	VBD	pos2=VBN	0	root	_	O
+8	in	in	IN	_	7	prep	_	O
+9	#Aleppo	#aleppo	NNP	pos2=FW	8	pobj	_	U-DATE
+

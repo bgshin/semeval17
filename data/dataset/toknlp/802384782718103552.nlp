@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det	_	O
+2	#deplorables	#deplorables	NNS	pos2=NNPS	5	nsubjpass	_	O
+3	should	should	MD	_	5	aux	_	O
+4	be	be	VB	_	5	auxpass	_	O
+5	forced	force	VBN	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	pay	pay	VB	_	5	xcomp	_	O
+8	#DonaldTrump	#donaldtrump	NN	pos2=RP	7	dobj	_	O
+9	for	for	IN	_	7	prep	_	O
+10	#DonaldTrumps	#donaldtrumps	PRP$	pos2=NNPS	12	poss	_	O
+11	own	own	JJ	_	12	nmod	_	O
+12	security	security	NN	_	9	pobj	_	O
+13	at	at	IN	_	7	prep	_	O
+14	#DonaldTrumps	#donaldtrumps	ADD	pos2=NNS	13	pobj	_	O
+15	#TrumpTower	#trumptower	ADD	pos2=NN	13	pobj	_	O
+

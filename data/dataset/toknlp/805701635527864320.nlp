@@ -1,0 +1,29 @@
+1	Did	do	VBD	_	4	aux	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	really	really	RB	_	4	advmod	_	O
+4	stay	stay	VBP	pos2=VB	0	root	_	O
+5	up	up	RP	pos2=RB	4	prt	_	O
+6	this	this	DT	_	7	advmod	_	O
+7	late	late	JJ	pos2=RB	9	nmod	_	O
+8	so	so	RB	pos2=IN	11	advmod	_	O
+9	I	I	PRP	_	11	nsubj	_	O
+10	could	could	MD	_	11	aux	_	O
+11	watch	watch	VB	_	4	advcl	_	O
+12	the	the	DT	_	14	det	_	O
+13	Westworld	westworld	NNP	_	14	compound	_	U-ORG
+14	finale	finale	NN	pos2=VB	11	dobj	_	O
+15	?	?	.	_	4	punct	_	O
+
+1	Yes	yes	UH	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Was	be	VBD	_	0	root	_	O
+2	it	it	PRP	_	1	nsubj	_	O
+3	absolutely	absolutely	RB	_	4	advmod	_	O
+4	worth	worth	JJ	pos2=DT	1	acomp	_	O
+5	it	it	PRP	_	4	npadvmod	_	O
+6	?	?	.	_	1	punct	_	O
+
+1	Totally	totally	RB	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

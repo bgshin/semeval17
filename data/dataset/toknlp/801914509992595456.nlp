@@ -1,0 +1,21 @@
+1	Translation	translation	NN	_	11	dep	_	O
+2	:	:	:	_	11	punct	_	O
+3	after	after	IN	_	11	prep	_	O
+4	"	"	``	_	6	punct	_	O
+5	bad	bad	JJ	_	6	nmod	_	O
+6	hombres	hombre	NNS	pos2=NNP	8	nmod	_	O
+7	"	"	''	pos2=``	6	punct	_	O
+8	TV	tv	NN	_	3	pobj	_	O
+9	,	,	,	_	11	punct	_	O
+10	it	it	PRP	_	11	nsubj	_	O
+11	's	's	VBZ	_	0	root	_	O
+12	back	back	RB	_	11	advmod	_	O
+13	to	to	IN	_	12	prep	_	O
+14	more	more	RBR	pos2=JJR	15	advmod	_	O
+15	sanguine	sanguine	JJ	_	17	nmod	_	O
+16	political	political	JJ	_	17	nmod	_	O
+17	debates	debate	NNS	_	13	pobj	_	O
+18	.	.	.	_	11	punct	_	O
+
+1	https://t.co/BULcgQK79P	#hlink#	ADD	_	0	root	_	U-ORG
+

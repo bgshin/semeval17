@@ -1,0 +1,10 @@
+1	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=XX	2	dep	_	O
+2	1.	0.	LS	_	9	meta	_	U-CARDINAL
+3	Luke	luke	NNP	pos2=NN	9	nmod	_	O
+4	2	0	CD	_	3	nmod	_	U-CARDINAL
+5	Jess	jess	NNP	pos2=NN	7	nmod	_	U-PERSON
+6	3	0	CD	pos2=NNP	9	nmod	_	U-CARDINAL
+7	Sookie	sookie	NNP	pos2=NN	9	nmod	_	O
+8	4	0	CD	_	7	npadvmod	_	U-CARDINAL
+9	kirk	kirk	NN	pos2=NNS	0	root	_	O
+

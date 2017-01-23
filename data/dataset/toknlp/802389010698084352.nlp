@@ -1,0 +1,28 @@
+1	We	we	PRP	_	3	nsubj	_	O
+2	have	have	VBP	_	3	aux	_	O
+3	achieved	achieve	VBN	_	0	root	_	O
+4	rapprochement	rapprochement	NN	_	3	dobj	_	O
+5	w	w	IN	pos2=XX	4	prep	_	O
+6	Cuba	cuba	NNP	_	5	pobj	_	U-GPE
+7	under	under	IN	_	3	prep	_	O
+8	Obama	obama	NNP	_	7	pobj	_	U-PERSON
+9	.	.	.	_	3	punct	_	O
+
+1	What	what	WP	_	17	dep	_	O
+2	does	do	VBZ	_	17	aux	_	O
+3	the	the	DT	_	5	det	_	O
+4	future	future	JJ	pos2=NN	5	nmod	_	O
+5	hold	hold	NN	pos2=VB	17	nsubj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	US	us	NNP	_	9	compound	_	U-GPE
+8	-	-	HYPH	pos2=:	9	punct	_	O
+9	Cuba	cuba	NNP	_	10	compound	_	U-GPE
+10	relations	relation	NNS	pos2=NNPS	6	pobj	_	O
+11	w	w	IN	pos2=POS	10	prep	_	O
+12	Fidel	fidel	NNP	_	13	compound	_	U-PERSON
+13	dead	dead	JJ	pos2=RB	11	pobj	_	O
+14	&	&	CC	_	13	cc	_	O
+15	US	us	NNP	pos2=GW	13	conj	_	U-GPE
+16	…	…	NFP	pos2=:	17	punct	_	O
+17	https://t.co/4hb1V1TAVk	#hlink#	ADD	_	0	root	_	U-GPE
+

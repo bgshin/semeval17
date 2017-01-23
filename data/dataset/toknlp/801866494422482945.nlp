@@ -1,0 +1,16 @@
+1	Happy	happy	JJ	pos2=NNP	2	nmod	_	O
+2	Thanksgiving	thanksgiving	NNP	_	0	root	_	U-DATE
+3	from	from	IN	_	2	prep	_	O
+4	a	a	DT	_	5	det	_	O
+5	couple	couple	NN	_	3	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	bad	bad	JJ	_	8	nmod	_	O
+8	hombres	hombre	NNS	pos2=FW	6	pobj	_	O
+9	!	!	.	_	2	punct	_	O
+
+1	#movember	#movember	UH	pos2=PRP	3	discourse	_	O
+2	#firefighters	#firefighters	UH	pos2=NNS	3	discourse	_	O
+3	#thanksgiving	#thanksgiving	VBG	pos2=UH	0	root	_	O
+4	…	…	NFP	pos2=-LRB-	3	discourse	_	O
+5	https://t.co/GBr5ooFjM5	#hlink#	ADD	_	3	dep	_	O
+

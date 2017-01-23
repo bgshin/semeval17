@@ -1,0 +1,31 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	O
+2	@kevinroose	@kevinroose	NN	pos2=AFX	9	dep	_	O
+3	:	:	:	_	9	punct	_	O
+4	Literal	literal	JJ	pos2=NNP	5	nmod	_	O
+5	Nazi	nazi	NNP	pos2=NN	9	vocative	_	U-NORP
+6	:	:	:	_	9	punct	_	O
+7	"	"	``	_	9	punct	_	O
+8	I	I	PRP	_	9	nsubj	_	O
+9	am	be	VBP	_	0	root	_	O
+10	a	a	DT	_	12	det	_	O
+11	literal	literal	JJ	_	12	nmod	_	O
+12	Nazi	nazi	NNP	pos2=NN	9	attr	_	U-NORP
+13	.	.	.	_	9	punct	_	O
+14	"	"	''	_	9	punct	_	O
+
+1	Media	media	NNP	pos2=NNS	10	nsubj	_	U-ORG
+2	:	:	:	_	10	punct	_	O
+3	"	"	``	_	10	punct	_	O
+4	This	this	DT	_	8	det	_	O
+5	alt	alt	JJ	pos2=NN	7	advmod	_	O
+6	-	-	HYPH	_	7	punct	_	O
+7	right	right	JJ	pos2=RB	8	nmod	_	O
+8	reactionary	reactionary	JJ	pos2=NN	10	nsubj	_	O
+9	is	be	VBZ	pos2=NN	10	aux	_	O
+10	stirring	stir	VBG	_	0	root	_	O
+11	up	up	RP	_	10	prt	_	O
+12	nationalist	nationalist	JJ	pos2=NN	13	nmod	_	O
+13	fervor	fervor	NN	_	10	dobj	_	O
+14	.	.	.	_	10	punct	_	O
+15	"	"	''	_	10	punct	_	O
+

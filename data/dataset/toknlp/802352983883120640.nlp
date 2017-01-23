@@ -1,0 +1,16 @@
+1	@JomarCaranzaOco	@jomarcaranzaoco	UH	pos2=ADD	3	discourse	_	O
+2	that	that	DT	_	3	nsubj	_	O
+3	s	s	VBZ	_	0	root	_	O
+4	why	why	WRB	_	7	advmod	_	O
+5	I	I	PRP	_	7	nsubj	_	O
+6	only	only	RB	_	7	advmod	_	O
+7	posted	post	VBD	_	3	advcl	_	O
+8	1	0	CD	_	9	nmod	_	U-CARDINAL
+9	photo	photo	NN	pos2=NNS	7	dobj	_	O
+10	from	from	IN	_	9	prep	_	O
+11	the	the	DT	_	14	det	_	O
+12	anti	anti	AFX	pos2=JJ	13	nmod	_	O
+13	trump	trump	NN	pos2=JJ	14	compound	_	O
+14	protest	protest	NN	pos2=VBP	10	pobj	_	O
+15	haha	haha	UH	_	7	discourse	_	O
+

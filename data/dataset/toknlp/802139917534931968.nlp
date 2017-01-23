@@ -1,0 +1,15 @@
+1	Harry	harry	NNP	_	2	nsubj	_	U-PERSON
+2	have	have	VBP	pos2=VB	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	beautiful	beautiful	JJ	_	5	nmod	_	O
+5	voices	voice	NNS	_	2	dobj	_	O
+6	just	just	RB	_	7	advmod	_	O
+7	like	like	IN	_	5	prep	_	O
+8	his	his	PRP$	_	9	poss	_	O
+9	heart	heart	NN	_	7	pobj	_	O
+10	..	..	.	pos2=,	2	punct	_	O
+
+1	❤#HarryStyles	❤#harrystyles	NNS	pos2=GW	3	nmod	_	O
+2	#OneDirection	#onedirection	ADD	pos2=GW	3	punct	_	O
+3	https://t.co/Jj52jueOy5	#hlink#	ADD	pos2=NN	0	root	_	O
+

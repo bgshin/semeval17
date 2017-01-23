@@ -1,0 +1,9 @@
+1	#Erdogan	#erdogan	NNP	pos2=PRP	4	poss	_	U-ORG
+2	’s	's	POS	pos2=VBZ	1	case	_	O
+3	Hard	hard	NNP	pos2=JJ	4	compound	_	B-ORG
+4	Times	times	NNP	_	8	nsubj	_	L-ORG
+5	in	in	IN	_	4	prep	_	O
+6	#Syria	#syria	NNP	pos2=GW	7	compound	_	B-DATE
+7	#Al	#al	NNP	pos2=-LRB-	5	pobj	_	L-DATE
+8	eppohttps://t.co/EBNcrTOiBE	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,10 @@
+1	They	they	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	all	all	DT	pos2=RB	2	dep	_	O
+4	conservatives	conservative	NNS	_	2	attr	_	O
+5	and	and	CC	_	2	cc	_	O
+6	mostly	mostly	RB	_	7	advmod	_	O
+7	voted	vote	VBD	pos2=VBN	2	conj	_	O
+8	trump	trump	NN	pos2=GW	7	dobj	_	O
+9	https://t.co/3UeCMb4Ehm	#hlink#	ADD	pos2=NN	2	dep	_	O
+

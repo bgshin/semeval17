@@ -1,0 +1,27 @@
+1	@aravosis	@aravosis	NN	pos2=UH	2	nsubj	_	O
+2	Is	be	VBZ	_	0	root	_	O
+3	someone	someone	NN	_	2	attr	_	O
+4	in	in	IN	_	3	prep	_	O
+5	YOUR	your	PRP$	_	6	poss	_	O
+6	family	family	NN	_	4	pobj	_	O
+7	a	a	DT	_	9	det	_	O
+8	RU	ru	NNP	pos2=NN	9	compound	_	O
+9	apologist	apologist	NN	_	3	appos	_	O
+10	?	?	.	_	2	punct	_	O
+
+1	Be	be	VB	_	0	root	_	O
+2	a	a	DT	_	4	det	_	O
+3	patriot&report	patriot&report	ADD	pos2=NN	1	punct	_	O
+4	them	them	PRP	_	3	nmod	_	O
+5	to	to	IN	_	3	prep	_	O
+6	Saudi	saudi	JJ	pos2=NNP	13	nmod	_	U-NORP
+7	&	&	CC	_	6	cc	_	O
+8	Qatari	qatari	JJ	_	6	conj	_	U-NORP
+9	dictatorship	dictatorship	NN	_	11	npadvmod	_	O
+10	-	-	HYPH	_	11	punct	_	O
+11	funded	fund	VBN	_	13	nmod	_	O
+12	#Clinton	#clinton	NNP	_	13	compound	_	U-ORG
+13	foundation	foundation	NN	_	5	pobj	_	O
+14	today	today	NN	_	3	npadvmod	_	U-DATE
+15	!	!	.	_	1	punct	_	O
+

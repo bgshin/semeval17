@@ -1,0 +1,14 @@
+1	Life	life	NN	pos2=NNP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	Climb	climb	NN	pos2=NNP	2	attr	_	O
+5	,	,	,	_	2	punct	_	O
+6	but	but	CC	_	2	cc	_	O
+7	The	the	DT	_	8	det	_	O
+8	View	view	NNP	pos2=NN	9	nsubj	_	U-ORG
+9	is	be	VBZ	_	2	conj	_	O
+10	Great	great	JJ	pos2=NNP	9	acomp	_	O
+11	.	.	.	_	9	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+

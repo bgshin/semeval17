@@ -1,0 +1,14 @@
+1	Creepy	creepy	JJ	_	3	nmod	_	O
+2	name	name	NN	_	3	compound	_	O
+3	dropping	dropping	NN	pos2=VBG	6	nsubj	_	O
+4	wo	wo	MD	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	hide	hide	VB	_	0	root	_	O
+7	your	your	PRP$	_	9	poss	_	O
+8	fake	fake	JJ	_	9	nmod	_	O
+9	followers	follower	NNS	_	6	dobj	_	O
+10	@nocladorHappy	@nocladorhappy	IN	pos2=POS	6	prep	_	O
+11	#Thanksgiving!@RadioFreeTom	#thanksgiving!@radiofreetom	GW	pos2=NN	13	nmod	_	O
+12	@IlvesTo	@ilvesto	GW	pos2=ADD	13	nmod	_	O
+13	omashttps://t.co/XtRU1l7U73	#hlink#	ADD	pos2=NN	10	pobj	_	O
+

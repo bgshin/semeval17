@@ -1,0 +1,15 @@
+1	You	you	PRP	_	2	nsubj	_	O
+2	go	go	VBP	_	8	ccomp	_	O
+3	your	your	PRP$	_	4	poss	_	O
+4	way	way	NN	_	2	npadvmod	_	O
+5	,	,	,	_	8	punct	_	O
+6	I	I	PRP	_	8	nsubj	_	O
+7	'll	will	MD	_	8	aux	_	O
+8	go	go	VB	_	0	root	_	O
+9	your	your	PRP$	_	10	poss	_	O
+10	way	way	NN	pos2=RB	8	npadvmod	_	O
+11	too	too	RB	_	14	advmod	_	O
+12	-	-	HYPH	pos2=:	14	punct	_	O
+13	Leonard	leonard	NNP	_	14	compound	_	B-PERSON
+14	Cohen	cohen	NNP	_	10	appos	_	L-PERSON
+

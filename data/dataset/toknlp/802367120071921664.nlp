@@ -1,0 +1,24 @@
+1	@JaySekulow	@jaysekulow	ADD	pos2=UH	2	det	_	O
+2	@PatriciaAHenso1	@patriciaahenso0	NN	pos2=NNS	5	nsubjpass	_	O
+3	Have	have	VBP	_	5	aux	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	considered	consider	VBN	_	0	root	_	O
+6	that	that	IN	pos2=WDT	9	mark	_	O
+7	James	james	NNP	_	8	compound	_	B-PERSON
+8	Comey	comey	NNP	_	9	nsubj	_	L-PERSON
+9	has	have	VBZ	_	5	ccomp	_	O
+10	his	his	PRP$	_	11	poss	_	O
+11	motives	motive	NNS	_	9	dobj	_	O
+12	?	?	.	_	5	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	'll	will	MD	_	3	aux	_	O
+3	bet	bet	VB	_	0	root	_	O
+4	he	he	PRP	_	8	nsubj	_	O
+5	a	a	DT	_	8	det	_	O
+6	great	great	JJ	_	8	nmod	_	O
+7	chess	chess	NN	_	8	compound	_	O
+8	player	player	NN	_	3	ccomp	_	O
+9	…	…	NFP	pos2=IN	10	punct	_	O
+10	https://t.co/TEBBPlsofW	#hlink#	ADD	_	8	appos	_	O
+

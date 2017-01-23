@@ -1,0 +1,21 @@
+1	#MosulOffensive	#mosuloffensive	NN	pos2=NNS	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	Iraqi	iraqi	JJ	_	4	nmod	_	U-NORP
+4	army	army	NN	_	5	nsubj	_	O
+5	makes	make	VBZ	_	0	root	_	O
+6	advances	advance	NNS	_	5	dobj	_	O
+7	,	,	,	_	8	punct	_	O
+8	captures	capture	VBZ	_	5	dep	_	O
+9	four	#crd#	CD	_	10	nmod	_	U-CARDINAL
+10	villages	village	NNS	_	8	dobj	_	O
+11	and	and	CC	_	8	cc	_	O
+12	aiming	aim	VBG	pos2=JJ	8	conj	_	O
+13	to	to	TO	_	14	aux	_	O
+14	take	take	VB	_	12	xcomp	_	O
+15	a	a	DT	_	16	det	_	O
+16	fifth	#ord#	NN	pos2=RB	14	dobj	_	U-ORDINAL
+17	from	from	IN	_	14	prep	_	O
+18	#ISIS	#isis	NN	pos2=NNP	19	compound	_	U-NORP
+19	militants	militant	NNS	_	17	pobj	_	O
+20	https://t.co/gMuzJKlMGK	#hlink#	ADD	pos2=VBP	19	appos	_	O
+

@@ -1,0 +1,15 @@
+1	Nice	nice	JJ	pos2=NNP	6	nmod	_	O
+2	10	0	CD	_	4	nmod	_	O
+3	-	-	HYPH	_	4	punct	_	O
+4	k	k	NN	pos2=SYM	6	compound	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	run	run	NN	pos2=VBN	0	root	_	O
+7	in	in	IN	_	6	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	morning	morning	NN	_	10	compound	_	U-TIME
+10	sun	sun	NN	_	7	pobj	_	O
+11	.	.	.	_	6	punct	_	O
+
+1	#Jerusalem	#jerusalem	-LRB-	pos2=NFP	2	punct	_	O
+2	https://t.co/1IMoAz9REx	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

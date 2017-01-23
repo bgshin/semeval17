@@ -1,0 +1,19 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=GW	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	https://t.co/tmHmfDcSwk	#hlink#	ADD	pos2=NNP	8	compound	_	O
+7	Fidel	fidel	NNP	_	8	compound	_	B-PERSON
+8	Castro	castro	NNP	_	10	poss	_	I-PERSON
+9	's	's	POS	_	8	case	_	L-PERSON
+10	ashes	ash	NNS	_	11	nsubj	_	O
+11	arrive	arrive	VBP	pos2=VB	2	conj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	Santiago	santiago	NNP	_	15	compound	_	O
+14	de	de	NNP	pos2=IN	15	compound	_	O
+15	Cuba	cuba	NNP	_	12	pobj	_	O
+16	to	to	TO	_	18	aux	_	O
+17	be	be	VB	_	18	auxpass	_	O
+18	interred	inter	VBN	_	11	advcl	_	O
+

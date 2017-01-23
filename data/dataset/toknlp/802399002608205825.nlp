@@ -1,0 +1,10 @@
+1	Fidel	fidel	NNP	_	3	nsubjpass	_	U-PERSON
+2	is	be	VBZ	_	3	auxpass	_	O
+3	gone	go	VBN	pos2=JJ	7	advcl	_	O
+4	,	,	,	_	7	punct	_	O
+5	maduro	maduro	NN	pos2=IN	8	npadvmod	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	are	be	VBP	_	0	root	_	O
+8	next	next	JJ	pos2=RB	7	acomp	_	O
+9	.	.	.	_	7	punct	_	O
+

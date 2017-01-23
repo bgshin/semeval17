@@ -1,0 +1,29 @@
+1	Nancy	nancy	NNP	_	2	compound	_	B-PERSON
+2	Pelosi	pelosi	NNP	_	8	nsubj	_	L-PERSON
+3	"	"	``	pos2=''	8	punct	_	O
+4	Donald	donald	NNP	_	5	compound	_	B-PERSON
+5	Trump	trump	NNP	_	8	nsubj	_	L-PERSON
+6	is	be	VBZ	_	8	aux	_	O
+7	not	not	RB	_	8	neg	_	O
+8	going	go	VBG	_	0	root	_	O
+9	to	to	TO	_	10	aux	_	O
+10	be	be	VB	_	8	xcomp	_	O
+11	President	president	NNP	_	10	attr	_	O
+12	of	of	IN	_	11	prep	_	O
+13	the	the	DT	_	15	det	_	B-GPE
+14	United	united	NNP	_	15	compound	_	I-GPE
+15	States	state	NNP	_	12	pobj	_	L-GPE
+16	,	,	,	_	17	punct	_	O
+17	take	take	VB	pos2=VBP	14	dep	_	O
+18	it	it	PRP	_	17	dobj	_	O
+19	to	to	IN	_	17	prep	_	O
+20	the	the	DT	_	21	det	_	O
+21	bank	bank	NN	_	19	pobj	_	O
+22	.	.	.	_	8	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	guarantee	guarantee	VBP	_	0	root	_	O
+3	it	it	PRP	_	2	dobj	_	O
+4	"	"	``	pos2=''	5	punct	_	O
+5	https://t.co/zwXBDWCMx0	#hlink#	ADD	_	2	dep	_	O
+

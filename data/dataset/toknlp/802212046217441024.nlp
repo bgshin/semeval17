@@ -1,0 +1,21 @@
+1	If	if	IN	_	4	mark	_	O
+2	you	you	PRP	_	4	nsubj	_	O
+3	're	be	VBP	_	4	aux	_	O
+4	looking	look	VBG	_	12	advcl	_	O
+5	for	for	IN	_	4	prep	_	O
+6	work	work	NN	_	5	pobj	_	O
+7	in	in	IN	_	6	prep	_	O
+8	#Palestine	#palestine	NNP	_	7	pobj	_	U-GPE
+9	,	,	,	_	8	punct	_	O
+10	TX	tx	NNP	pos2=NN	8	npadvmod	_	U-GPE
+11	,	,	,	_	12	punct	_	O
+12	check	check	VB	_	0	root	_	O
+13	out	out	RP	_	12	prt	_	O
+14	this	this	DT	_	15	det	_	O
+15	#job	#job	NN	pos2=NFP	12	dobj	_	O
+16	:	:	:	_	12	punct	_	O
+17	https://t.co/PI9uvTGMpj	#hlink#	ADD	_	15	appos	_	O
+18	#Retail	#retail	NNP	pos2=-RRB-	15	appos	_	O
+19	#Hiring	#hiring	VBG	pos2=NNP	15	acl	_	O
+20	#CareerArc	#careerarc	ADD	pos2=NN	19	pobj	_	O
+

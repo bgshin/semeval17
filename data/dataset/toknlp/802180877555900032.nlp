@@ -1,0 +1,22 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@realDonaldTrump	@realdonaldtrump	``	pos2=ADD	3	punct	_	O
+2	Strategist	strategist	NN	_	3	compound	_	O
+3	Plots	plot	NNS	pos2=VBZ	0	root	_	O
+4	"	"	''	pos2=``	3	punct	_	O
+5	New	new	NNP	pos2=JJ	7	compound	_	B-ORG
+6	Political	political	NNP	pos2=JJ	7	compound	_	I-ORG
+7	Movement	movement	NNP	pos2=NN	3	appos	_	L-ORG
+8	"	"	``	pos2=''	3	punct	_	O
+9	Reactionary	reactionary	JJ	pos2=NNP	12	advmod	_	O
+10	is	be	VBZ	_	7	parataxis	_	O
+11	n't	not	RB	_	10	neg	_	O
+12	new	new	JJ	_	10	acomp	_	O
+13	.	.	.	_	10	punct	_	O
+
+1	Scary	scary	JJ	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	#neverBannon	#neverbannon	ADD	pos2=-LRB-	2	punct	_	O
+2	https://t.co/Dkz55vgBa8	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,14 @@
+1	My	my	PRP$	_	3	poss	_	O
+2	Fantastic	fantastic	JJ	pos2=NNP	3	nmod	_	O
+3	Beasts	beast	NNS	pos2=NNPS	4	compound	_	O
+4	illustration	illustration	NN	_	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+
+1	{	{	-LRB-	_	7	punct	_	O
+2	My	my	PRP$	_	3	poss	_	O
+3	Art	art	NN	pos2=NNP	7	dep	_	O
+4	}	}	-RRB-	pos2=GW	7	punct	_	O
+5	#FantasticBeasts	#fantasticbeasts	GW	pos2=NNS	7	nmod	_	O
+6	https://t.co/KySQzt8v5A	#hlink#	ADD	pos2=GW	7	nmod	_	O
+7	https://t.co/OCCZMsDWcW	#hlink#	ADD	_	0	root	_	U-ORG
+

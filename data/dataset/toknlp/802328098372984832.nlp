@@ -1,0 +1,18 @@
+1	Download	download	NN	pos2=VB	2	compound	_	O
+2	Adventures	adventure	NNS	pos2=NNPS	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	3	0	CD	_	8	nmod	_	U-DATE
+5	D	d	NNP	pos2=NN	7	compound	_	O
+6	Printing	printing	NNP	pos2=VBG	7	compound	_	O
+7	Limitless	limitless	NNP	pos2=JJ	8	compound	_	O
+8	Possibilities	possibility	NNS	pos2=NNPS	3	pobj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	Profit	profit	NNP	pos2=NN	8	conj	_	O
+11	Using	use	VBG	pos2=NNP	2	acl	_	O
+12	3	0	CD	_	17	dep	_	U-CARDINAL
+13	D	d	NNP	pos2=NN	17	dep	_	B-ORG
+14	Printers	printer	NNPS	pos2=GW	15	compound	_	I-ORG
+15	Pdf	pdf	NNP	pos2=GW	17	dep	_	L-ORG
+16	https://t.co/BwfEvVF9xa	#hlink#	ADD	_	17	nmod	_	O
+17	https://t.co/LtRSGsT7hB	#hlink#	ADD	_	11	dobj	_	U-ORG
+

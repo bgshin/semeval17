@@ -1,0 +1,11 @@
+1	To	to	IN	_	7	prep	_	O
+2	my	my	PRP$	_	5	poss	_	O
+3	leftist	leftist	JJ	pos2=NN	5	nmod	_	O
+4	"	"	``	pos2=''	5	punct	_	O
+5	friends	friend	NNS	_	1	pobj	_	O
+6	"	"	''	_	5	punct	_	O
+7	😂	😂	VBP	pos2=NFP	0	root	_	O
+8	#TGIF	#tgif	GW	pos2=NFP	10	nmod	_	O
+9	#DrainTheSwamp	#draintheswamp	GW	pos2=ADD	10	nmod	_	O
+10	https://t.co/9Du2Jyhwfd	#hlink#	ADD	pos2=NN	7	dobj	_	O
+

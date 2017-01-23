@@ -1,0 +1,25 @@
+1	@HEELWrestling	@heelwrestling	VBG	pos2=NNP	4	prep	_	O
+2	That	that	DT	_	3	det	_	O
+3	tactic	tactic	NN	_	1	pobj	_	O
+4	worked	work	VBD	pos2=VBN	0	root	_	O
+5	so	so	RB	_	6	advmod	_	O
+6	well	well	RB	_	4	advmod	_	O
+7	for	for	IN	_	4	prep	_	O
+8	Labour	labour	NNP	_	7	pobj	_	U-ORG
+9	under	under	IN	_	4	prep	_	O
+10	austerity	austerity	NN	_	9	pobj	_	O
+11	and	and	CC	_	4	cc	_	O
+12	I	I	PRP	_	13	nsubj	_	O
+13	'm	be	VBP	_	4	conj	_	O
+14	sure	sure	JJ	_	13	acomp	_	O
+15	will	will	MD	_	16	aux	_	O
+16	rid	rid	VB	_	14	ccomp	_	O
+17	the	the	DT	_	19	det	_	O
+18	anti-EU	anti-eu	JJ	_	19	nmod	_	O
+19	sentiment	sentiment	NN	_	16	dobj	_	O
+20	from	from	IN	_	16	prep	_	O
+21	those	those	DT	_	20	pobj	_	O
+22	harmed	harm	VBN	_	21	acl	_	O
+23	by	by	IN	_	22	agent	_	O
+24	Brexit	brexit	NNP	_	23	pobj	_	O
+

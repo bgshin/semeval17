@@ -1,0 +1,8 @@
+1	#Protein	#protein	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	is	be	VBZ	_	0	root	_	O
+3	n't	not	RB	_	2	neg	_	O
+4	just	just	RB	_	7	advmod	_	O
+5	#meat.#vegetarian#animals#tsemtulku#food#healthylifestyle#ne	#meat.#vegetarian#animals#tsemtulku#food#healthylifestyle#ne	GW	pos2=NFP	7	nmod	_	O
+6	wagehttps://t.co/F1EVl1Qfb5	#hlink#	ADD	_	7	nmod	_	O
+7	https://t.co/uQDcQNQWk5	#hlink#	ADD	_	2	dep	_	O
+

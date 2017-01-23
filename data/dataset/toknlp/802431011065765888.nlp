@@ -1,0 +1,17 @@
+1	How	how	WRB	_	7	advmod	_	O
+2	The	the	DT	_	6	det	_	O
+3	Booming	booming	NNP	pos2=VBG	6	compound	_	O
+4	Fake	fake	NNP	_	6	compound	_	O
+5	News	news	NNP	_	6	compound	_	O
+6	Biz	biz	NNP	_	7	nsubj	_	O
+7	Proves	prove	VBZ	pos2=NNP	0	root	_	O
+8	That	that	IN	pos2=DT	10	mark	_	O
+9	Liberals	liberal	NNPS	pos2=NNS	10	nsubj	_	U-NORP
+10	Are	be	VBP	_	7	ccomp	_	O
+11	Just	just	RB	_	12	advmod	_	O
+12	Smarter	smart	JJR	pos2=NNP	10	acomp	_	O
+13	Than	than	IN	pos2=NNP	12	prep	_	O
+14	Conservatives	conservative	NNS	pos2=GW	13	pobj	_	U-NORP
+15	https://t.co/HKlCAcFwjR	#hlink#	ADD	pos2=POS	16	nmod	_	O
+16	https://t.co/KGlmRJ2spQ	#hlink#	ADD	_	14	appos	_	U-ORG
+

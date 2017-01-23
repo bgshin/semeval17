@@ -1,0 +1,18 @@
+1	@elizabethforma	@elizabethforma	UH	pos2=NN	5	discourse	_	O
+2	@AnneWSchaef	@annewschaef	ADD	pos2=GW	5	aux	_	O
+3	@smerconish	@smerconish	UH	pos2=MD	5	discourse	_	O
+4	Pls	pls	UH	pos2=NNPS	5	discourse	_	O
+5	help	help	VB	_	0	root	_	O
+6	Hillary	hillary	NNP	_	7	nsubj	_	U-PERSON
+7	ask	ask	VB	_	5	ccomp	_	O
+8	for	for	IN	_	7	prep	_	O
+9	a	a	DT	_	10	det	_	O
+10	recount	recount	NN	_	8	pobj	_	O
+11	in	in	IN	_	10	prep	_	O
+12	Mi	mi	NNP	_	11	pobj	_	U-GPE
+13	,	,	,	_	12	punct	_	O
+14	Wi	wi	NNP	_	12	conj	_	U-GPE
+15	and	and	CC	_	14	cc	_	O
+16	Pa	pa	NNP	pos2=UH	14	conj	_	U-GPE
+17	!	!	.	_	5	punct	_	O
+

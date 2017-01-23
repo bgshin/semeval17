@@ -1,0 +1,17 @@
+1	Read	read	VB	pos2=VBD	0	root	_	O
+2	Fighting	fight	VBG	_	1	xcomp	_	O
+3	Back	back	RB	pos2=NNP	2	advmod	_	O
+4	Daily	daily	RB	pos2=NNP	2	advmod	_	U-DATE
+5	▸	▸	PRP	pos2=NNP	2	dobj	_	O
+6	today	today	NN	_	9	poss	_	U-DATE
+7	's	's	POS	_	6	case	_	O
+8	top	top	JJ	_	9	nmod	_	O
+9	stories	story	NNS	_	2	dobj	_	O
+10	via	via	IN	_	2	prep	_	O
+11	@TraceyEmmott	@traceyemmott	NNP	pos2=XX	12	compound	_	B-DATE
+12	@PanelMembers	@panelmembers	NNS	pos2=NNPS	10	pobj	_	I-DATE
+13	@NAPAC	@napac	NNP	pos2=ADD	16	nmod	_	L-DATE
+14	#yemencrisis	#yemencrisis	GW	pos2=UH	16	nmod	_	O
+15	#yemen	#yemen	GW	pos2=UH	16	nmod	_	O
+16	https://t.co/J8l9X2nHWR	#hlink#	ADD	pos2=NN	1	dep	_	O
+

@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det	_	O
+2	biggest	big	JJS	_	3	nmod	_	O
+3	problem	problem	NN	_	6	nsubj	_	O
+4	in	in	IN	_	3	prep	_	O
+5	world	world	NN	_	4	pobj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	that	that	IN	pos2=DT	9	mark	_	O
+8	media	media	NN	pos2=NNS	9	nsubj	_	O
+9	is	be	VBZ	_	6	ccomp	_	O
+10	in	in	IN	_	9	prep	_	O
+11	hands	hand	NNS	_	10	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	bunch	bunch	NN	_	12	pobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	low	low	JJ	_	17	nmod	_	O
+16	IQ	iq	NN	_	17	compound	_	O
+17	morons	moron	NNS	_	14	pobj	_	O
+18	who	who	WP	_	20	nsubj	_	O
+19	r	r	VBP	pos2=VBZ	20	aux	_	O
+20	making	make	VBG	_	17	relcl	_	O
+21	it	it	PRP	pos2=RP	22	nsubj	_	O
+22	dumber	dumb	JJR	pos2=GW	20	ccomp	_	O
+23	#Westworld	#westworld	NFP	pos2=NNP	24	punct	_	O
+24	https://t.co/l8HbpNKw5d	#hlink#	ADD	_	20	npadvmod	_	U-ORG
+

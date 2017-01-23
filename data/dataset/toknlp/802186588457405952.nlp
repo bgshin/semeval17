@@ -1,0 +1,21 @@
+1	#BREAKING	#breaking	NN	pos2=VBG	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	Israeli	israeli	JJ	_	4	nmod	_	U-NORP
+4	soldiers	soldier	NNS	_	5	nsubj	_	O
+5	shot	shoot	VBD	_	0	root	_	O
+6	a	a	DT	_	9	det	_	O
+7	Palestinian	palestinian	JJ	_	9	nmod	_	U-NORP
+8	young	young	JJ	_	9	nmod	_	O
+9	man	man	NN	_	5	dobj	_	O
+10	near	near	IN	_	9	prep	_	O
+11	Shuafat	shuafat	NNP	_	12	compound	_	U-GPE
+12	camp	camp	NN	pos2=VBP	14	nmod	_	O
+13	military	military	JJ	pos2=NN	14	nmod	_	O
+14	checkpoint	checkpoint	NN	_	15	compound	_	O
+15	moments	moment	NNS	_	16	npadvmod	_	O
+16	ago	ago	RB	_	5	advmod	_	O
+17	.	.	.	_	5	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/ViWhKUqZ5C	#hlink#	ADD	pos2=NN	0	root	_	O
+

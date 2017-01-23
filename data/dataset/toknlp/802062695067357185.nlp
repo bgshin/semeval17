@@ -1,0 +1,26 @@
+1	@geox571_robert	@geox0_robert	UH	pos2=NN	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	think	think	VBP	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	future	future	NN	pos2=JJ	6	nsubj	_	O
+6	looks	look	VBZ	_	3	ccomp	_	O
+7	like	like	IN	_	3	discourse	_	O
+8	3	0	CD	_	9	nmod	_	U-CARDINAL
+9	parties	party	NNS	_	7	pobj	_	O
+10	:	:	:	_	9	punct	_	O
+11	a	a	DT	_	16	det	_	O
+12	socialist	socialist	JJ	pos2=NN	16	nmod	_	O
+13	left	left	JJ	pos2=NN	16	nmod	_	O
+14	,	,	,	_	15	punct	_	O
+15	multi-cultural	multi-cultural	JJ	_	16	nmod	_	O
+16	liberals	liberal	NNS	_	9	conj	_	O
+17	,	,	,	_	16	punct	_	O
+18	and	and	CC	_	16	cc	_	O
+19	FN	fn	NN	pos2=NNP	21	compound	_	O
+20	-	-	HYPH	_	21	punct	_	O
+21	style	style	NN	_	22	compound	_	O
+22	rightists	rightist	NNS	_	16	conj	_	O
+23	.	.	.	_	3	punct	_	O
+
+1	@JamesFallows	@jamesfallows	NNS	pos2=ADD	0	root	_	O
+

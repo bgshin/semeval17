@@ -1,0 +1,25 @@
+1	4th	#ord#	JJ	_	2	nmod	_	B-DATE
+2	day	day	NN	_	24	dep	_	L-DATE
+3	of	of	IN	_	2	prep	_	O
+4	"	"	``	_	5	punct	_	O
+5	Fighting	fight	VBG	_	3	pcomp	_	O
+6	the	the	DT	_	7	det	_	O
+7	Flames	flame	NNS	pos2=NNP	5	dobj	_	O
+8	"	"	''	pos2=``	5	punct	_	O
+9	:	:	:	_	15	punct	_	O
+10	#Jerusalem	#jerusalem	NNP	pos2=IN	11	compound	_	O
+11	Region	region	NNP	pos2=NN	13	compound	_	O
+12	Deputy	deputy	NNP	_	13	compound	_	O
+13	Director	director	NNP	_	15	compound	_	O
+14	Felix	felix	NNP	_	15	compound	_	B-PERSON
+15	Lotan	lotan	NNP	_	16	nsubj	_	L-PERSON
+16	reporting	report	VBG	pos2=NN	0	root	_	O
+17	from	from	IN	_	16	prep	_	O
+18	1	0	CD	_	17	pobj	_	U-CARDINAL
+19	of	of	IN	_	18	prep	_	O
+20	the	the	DT	_	21	det	_	O
+21	scenes	scene	NNS	_	19	pobj	_	O
+22	:	:	:	_	24	punct	_	O
+23	…	…	NFP	pos2=-LRB-	24	punct	_	O
+24	https://t.co/jOoK4FxSHn	#hlink#	ADD	_	0	root	_	O
+

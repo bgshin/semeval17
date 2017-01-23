@@ -1,0 +1,17 @@
+1	#MuhammadAli	#muhammadali	NNS	pos2=NN	5	compound	_	O
+2	MUHAMMAD	muhammad	NNP	pos2=NN	5	compound	_	B-ORG
+3	ALI	ali	NNP	_	5	compound	_	I-ORG
+4	AUTOGRAPHED	autographed	NNP	pos2=VBN	5	compound	_	I-ORG
+5	#PhotoGRAPH	#photograph	NNP	pos2=NN	13	nsubjpass	_	L-ORG
+6	with	with	IN	_	5	prep	_	O
+7	Earnie	earnie	NNP	_	11	compound	_	O
+8	Shavers	shavers	NNP	_	10	compound	_	O
+9	-	-	HYPH	pos2=:	10	punct	_	O
+10	Double	double	NNP	pos2=JJ	11	compound	_	O
+11	COA	coa	NN	pos2=NNP	16	poss	_	O
+12	's	's	POS	pos2=AFX	11	case	_	O
+13	Included	include	VBN	pos2=NNP	0	root	_	O
+14	https://t.co/3q0YOHFcIQ	#hlink#	ADD	_	16	nmod	_	U-ORG
+15	#Legend	#legend	-RRB-	pos2=NNP	14	punct	_	O
+16	#Boxer	#boxer	NN	pos2=-RRB-	13	dobj	_	O
+

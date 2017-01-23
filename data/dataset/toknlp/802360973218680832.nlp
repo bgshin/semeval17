@@ -1,0 +1,29 @@
+1	Definitely	definitely	RB	_	2	advmod	_	O
+2	not	not	RB	_	4	neg	_	O
+3	,	,	,	_	2	punct	_	O
+4	Subman	subman	NNP	_	0	root	_	U-ORG
+5	.	.	.	_	4	punct	_	O
+
+1	Fascists	fascist	NNS	pos2=NNPS	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	invariably	invariably	RB	_	2	advmod	_	O
+4	leftists	leftist	NNS	_	2	attr	_	O
+5	(	(	-LRB-	_	4	punct	_	O
+6	Hitler	hitler	NNP	_	1	appos	_	U-PERSON
+7	,	,	,	_	6	punct	_	O
+8	Mao	mao	NNP	_	6	conj	_	U-PERSON
+9	,	,	,	_	8	punct	_	O
+10	Stalin	stalin	NNP	_	8	conj	_	U-PERSON
+11	)	)	-RRB-	_	4	punct	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	Trump	trump	NN	pos2=NNP	2	nsubj	_	U-ORG
+2	is	be	VBZ	_	0	root	_	O
+3	definitely	definitely	RB	_	2	advmod	_	O
+4	not	not	RB	_	2	neg	_	O
+5	a	a	DT	_	6	det	_	O
+6	leftist	leftist	NN	pos2=JJ	2	attr	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	https://t.co/ImnBbLtScI	#hlink#	ADD	_	0	root	_	U-ORG
+

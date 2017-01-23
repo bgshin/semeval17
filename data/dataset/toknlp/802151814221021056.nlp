@@ -1,0 +1,15 @@
+1	Fell	fall	VBD	pos2=NNP	0	root	_	O
+2	asleep	asleep	JJ	pos2=RB	1	oprd	_	O
+3	while	while	IN	_	4	mark	_	O
+4	watching	watch	VBG	_	1	advcl	_	O
+5	persona	persona	NN	_	7	nmod	_	O
+6	5	0	CD	_	7	nmod	_	U-CARDINAL
+7	walkthrough	walkthrough	NN	pos2=RB	4	dobj	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	Again	again	RB	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Gosh	gosh	UH	_	0	vocative	_	O
+2	....	..	.	pos2=,	1	punct	_	O
+

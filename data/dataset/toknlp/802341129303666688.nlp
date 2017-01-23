@@ -1,0 +1,23 @@
+1	Inspire	inspire	VB	_	0	root	_	O
+2	and	and	CC	_	1	cc	_	O
+3	motivate	motivate	VB	_	1	conj	_	O
+4	your	your	PRP$	_	5	poss	_	O
+5	children	child	NNS	_	3	dobj	_	O
+6	or	or	CC	_	5	cc	_	O
+7	students	student	NNS	_	5	conj	_	O
+8	by	by	IN	_	3	prep	_	O
+9	reading	read	VBG	_	8	pcomp	_	O
+10	them	them	PRP	_	9	dative	_	O
+11	the	the	DT	_	12	det	_	O
+12	biography	biography	NN	_	9	dobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	San	san	NNP	_	16	compound	_	B-ORG
+15	Antonio	antonio	NNP	_	16	compound	_	I-ORG
+16	Spurs	spur	NNPS	pos2=NNP	17	compound	_	L-ORG
+17	star	star	NN	pos2=NNP	19	compound	_	O
+18	Tim	tim	NNP	_	19	compound	_	B-PERSON
+19	Duncan	duncan	NNP	_	13	pobj	_	L-PERSON
+20	.	.	.	_	1	punct	_	O
+
+1	https://t.co/eymTgcn14f	#hlink#	ADD	_	0	root	_	U-ORG
+

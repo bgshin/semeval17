@@ -1,0 +1,32 @@
+1	How	how	WRB	_	4	advmod	_	O
+2	can	can	MD	_	4	aux	_	O
+3	we	we	PRP	_	4	nsubj	_	O
+4	believe	believe	VB	_	0	root	_	O
+5	him	him	PRP	_	4	dobj	_	O
+6	?	?	.	_	4	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	lies	lie	VBZ	_	0	root	_	O
+3	about	about	IN	_	2	prep	_	O
+4	everything	everything	NN	_	3	pobj	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	still	still	RB	_	3	advmod	_	O
+3	want	want	VBP	_	0	root	_	O
+4	him	him	PRP	_	5	nsubj	_	O
+5	prosecuted	prosecute	VBN	_	3	ccomp	_	O
+6	for	for	IN	_	5	prep	_	O
+7	Cuba	cuba	NNP	_	6	pobj	_	U-GPE
+8	.	.	.	_	3	punct	_	O
+
+1	What	what	WDT	pos2=WP	2	det	_	O
+2	embargo	embargo	NN	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	Donald	donald	NNP	_	3	nsubj	_	U-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	…	…	NFP	pos2=-LRB-	3	discourse	_	O
+5	https://t.co/aDFTrMjY4u	#hlink#	ADD	_	3	dep	_	O
+

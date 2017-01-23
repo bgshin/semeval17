@@ -1,0 +1,19 @@
+1	when	when	WRB	_	2	advmod	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	6	det	_	O
+4	other	other	JJ	_	6	nmod	_	O
+5	castro	castro	NN	pos2=TO	6	compound	_	O
+6	turn	turn	NN	pos2=VB	2	nsubj	_	O
+7	??	??	.	_	2	punct	_	O
+
+1	and	and	CC	_	2	cc	_	O
+2	maduro	maduro	NN	pos2=UH	0	root	_	O
+3	??	??	.	_	2	punct	_	O
+
+1	and	and	CC	_	3	cc	_	O
+2	all	all	PDT	_	5	predet	_	O
+3	the	the	DT	_	5	det	_	O
+4	fcking	fcking	VBG	pos2=NN	5	nmod	_	O
+5	dictators	dictator	NNS	_	0	root	_	O
+6	??	??	.	_	5	punct	_	O
+

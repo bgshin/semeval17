@@ -1,0 +1,19 @@
+1	@jodyrosen	@jodyrosen	UH	pos2=ADD	5	discourse	_	O
+2	@robdelaney	@robdelaney	UH	pos2=NNP	5	discourse	_	O
+3	That	that	DT	_	5	nsubj	_	O
+4	's	's	VBZ	_	5	aux	_	O
+5	coming	come	VBG	pos2=JJ	0	root	_	O
+6	,	,	,	_	5	punct	_	O
+7	but	but	CC	_	5	cc	_	O
+8	I	I	PRP	_	9	nsubj	_	O
+9	think	think	VBP	_	5	conj	_	O
+10	the	the	DT	_	11	det	_	O
+11	victims	victim	NNS	_	13	nsubj	_	O
+12	are	be	VBP	_	13	aux	_	O
+13	going	go	VBG	_	9	ccomp	_	O
+14	to	to	TO	_	15	aux	_	O
+15	be	be	VB	_	13	xcomp	_	O
+16	Medicaid	medicaid	NNP	pos2=VBN	17	compound	_	U-ORG
+17	recipients	recipient	NNS	_	15	attr	_	O
+18	.	.	.	_	9	punct	_	O
+

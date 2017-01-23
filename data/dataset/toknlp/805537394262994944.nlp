@@ -1,0 +1,14 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	what	what	WDT	pos2=IN	4	det	_	O
+4	democracy	democracy	NN	_	6	nsubj	_	O
+5	should	should	MD	_	6	aux	_	O
+6	look	look	VB	_	2	ccomp	_	O
+7	like	like	IN	_	6	prep	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	LIKE	like	UH	pos2=VB	3	discourse	_	O
+2	AND	and	CC	pos2=GW	3	cc	_	O
+3	SHARE	share	VB	pos2=NN	0	root	_	O
+4	https://t.co/4Tzp7fPrER	#hlink#	ADD	pos2=NN	3	dobj	_	O
+

@@ -1,0 +1,13 @@
+1	Prepare	prepare	VB	_	0	root	_	O
+2	to	to	TO	_	4	aux	_	O
+3	be	be	VB	_	4	auxpass	_	O
+4	enlightened	enlighten	VBN	pos2=JJ	1	xcomp	_	O
+5	!	!	.	_	1	punct	_	O
+
+1	#TrumpWon	#trumpwon	ADD	pos2=XX	3	det	_	O
+2	#TrumpTransitionTeam	#trumptransitionteam	XX	pos2=ADD	3	compound	_	O
+3	@realDonaldTrump	@realdonaldtrump	NN	pos2=XX	0	root	_	O
+4	...	..	.	pos2=,	3	punct	_	O
+
+1	https://t.co/DsUzq7lXw1	#hlink#	ADD	_	0	root	_	U-ORG
+

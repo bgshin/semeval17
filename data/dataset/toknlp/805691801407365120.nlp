@@ -1,0 +1,20 @@
+1	#LoneStarGunRights	#lonestargunrights	VBZ	pos2=PRP$	0	root	_	O
+2	Texas	texas	NNP	_	4	compound	_	B-ORG
+3	Gun	gun	NNP	_	4	compound	_	I-ORG
+4	Store	store	NNP	pos2=NN	5	compound	_	L-ORG
+5	Owner	owner	NNP	pos2=NN	6	nsubj	_	O
+6	Appeared	appear	VBD	pos2=NNP	1	ccomp	_	O
+7	With	with	IN	_	6	prep	_	O
+8	Gun	gun	NNP	_	9	compound	_	B-ORG
+9	Control	control	NNP	_	10	compound	_	I-ORG
+10	Group	group	NNP	_	7	pobj	_	L-ORG
+11	-	-	:	pos2=,	6	punct	_	O
+12	But	but	CC	pos2=NNP	6	cc	_	O
+13	Why	why	WRB	pos2=NNP	6	conj	_	O
+14	?.	?.	.	_	1	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	Blog	blog	NN	pos2=NNP	1	dobj	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/5xmwWFAlX1	#hlink#	ADD	pos2=NN	1	dep	_	O
+

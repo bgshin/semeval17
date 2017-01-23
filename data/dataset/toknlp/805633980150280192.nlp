@@ -1,0 +1,24 @@
+1	@Statistar30	@statistar0	NN	pos2=NNS	4	vocative	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	personally	personally	RB	_	4	advmod	_	O
+4	try	try	VBP	pos2=VB	0	root	_	O
+5	not	not	RB	_	7	neg	_	O
+6	to	to	TO	_	7	aux	_	O
+7	get	get	VB	_	4	xcomp	_	O
+8	political	political	JJ	_	7	acomp	_	O
+9	on	on	IN	_	7	prep	_	O
+10	twitter	twitter	NN	pos2=NNP	9	pobj	_	O
+11	but	but	CC	_	4	cc	_	O
+12	all	all	PDT	_	15	predet	_	O
+13	the	the	DT	_	15	det	_	O
+14	drone	drone	NN	_	15	compound	_	O
+15	strikes	strike	NNS	_	10	conj	_	O
+16	and	and	CC	_	15	cc	_	O
+17	supporting	support	VBG	_	15	conj	_	O
+18	Israel	israel	NNP	_	20	poss	_	U-GPE
+19	's	's	POS	_	18	case	_	O
+20	genocide	genocide	NN	_	17	dobj	_	O
+21	of	of	IN	_	20	prep	_	O
+22	Palestinians	palestinian	NNPS	_	21	pobj	_	U-NORP
+23	👎	👎	POS	pos2=VBP	22	case	_	O
+

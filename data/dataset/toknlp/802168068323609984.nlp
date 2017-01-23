@@ -1,0 +1,25 @@
+1	Now	now	RB	_	10	advmod	_	O
+2	that	that	IN	pos2=DT	4	mark	_	O
+3	thanksgiving	thanksgiving	NN	pos2=NNP	4	nsubj	_	O
+4	is	be	VBZ	_	1	ccomp	_	O
+5	over	over	RB	pos2=JJR	4	advmod	_	O
+6	,	,	,	_	10	punct	_	O
+7	I	I	PRP	_	10	nsubj	_	O
+8	'm	be	VBP	_	10	aux	_	O
+9	just	just	RB	_	10	advmod	_	O
+10	looking	look	VBG	_	0	root	_	O
+11	forward	forward	RB	_	10	advmod	_	O
+12	to	to	IN	_	10	prep	_	O
+13	the	the	DT	_	17	det	_	B-DATE
+14	Valentines	valentines	NNP	_	15	compound	_	I-DATE
+15	Day	day	NNP	pos2=NN	17	compound	_	L-DATE
+16	card	card	NN	_	17	compound	_	O
+17	memes	meme	NNS	_	12	pobj	_	O
+18	💕	💕	WDT	pos2=VBP	17	relcl	_	O
+19	¯\_	¯\_	VBP	pos2=NFP	17	relcl	_	O
+20	(ツ)	(ツ)	NFP	pos2=CD	10	punct	_	O
+21	_	_	NFP	pos2=''	23	punct	_	O
+22	/	/	SYM	pos2=GW	23	punct	_	O
+23	¯	¯	NFP	pos2=-LRB-	10	punct	_	O
+24	https://t.co/W7VH05aw0l	#hlink#	ADD	pos2=NN	10	dep	_	O
+

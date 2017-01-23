@@ -1,0 +1,18 @@
+1	Your	your	PRP$	_	3	poss	_	O
+2	wildest	wild	JJS	_	3	nmod	_	O
+3	#dreams	#dreams	NNS	pos2=PRP	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	on	on	IN	_	4	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	other	other	JJ	_	8	nmod	_	O
+8	side	side	NN	_	5	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	your	your	PRP$	_	12	poss	_	O
+11	biggest	big	JJS	_	12	nmod	_	O
+12	#f	#f	NFP	pos2=IN	9	pobj	_	O
+13	earshttps://t.co/GkOUmepYJu	#hlink#	ADD	_	17	nmod	_	O
+14	#DominatingYourMind	#dominatingyourmind	-RRB-	pos2=GW	13	punct	_	O
+15	#DYM	#dym	GW	pos2=NFP	17	nmod	_	O
+16	…	…	NFP	pos2=GW	17	punct	_	O
+17	https://t.co/rtw4UXOJz0	#hlink#	ADD	pos2=NN	4	dep	_	O
+

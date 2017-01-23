@@ -1,0 +1,16 @@
+1	#English	#english	JJ	pos2=PRP$	2	nmod	_	O
+2	government	government	NN	_	3	nsubj	_	O
+3	demands	demand	VBZ	pos2=NNS	0	root	_	O
+4	intercession	intercession	NN	_	3	dobj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	#Libya	#libya	NNP	_	5	pobj	_	U-ORG
+7	"	"	''	_	3	punct	_	O
+8	without	without	IN	_	3	prep	_	O
+9	a	a	DT	_	10	det	_	O
+10	doubt	doubt	NN	_	8	pobj	_	O
+11	"	"	``	pos2=''	13	punct	_	O
+12	spared	spare	VBN	pos2=VBD	13	nmod	_	O
+13	lives	life	NNS	pos2=VBZ	15	nmod	_	O
+14	https://t.co/HPXkmswBwC	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/pDmmM1X5Co	#hlink#	ADD	_	3	dep	_	U-ORG
+

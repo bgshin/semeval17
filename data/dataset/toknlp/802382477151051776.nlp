@@ -1,0 +1,28 @@
+1	@MelanieDBR	@melaniedbr	NN	pos2=UH	4	nmod	_	O
+2	Very	very	RB	_	3	advmod	_	O
+3	interesting	interesting	JJ	_	4	nmod	_	O
+4	article	article	NN	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	Why	why	WRB	_	7	advmod	_	O
+2	ca	can	MD	_	7	aux	_	O
+3	n't	not	RB	_	7	neg	_	O
+4	the	the	DT	_	5	det	_	O
+5	Dems	dems	NNPS	pos2=NNP	7	nsubj	_	U-NORP
+6	just	just	RB	_	7	advmod	_	O
+7	step	step	VB	pos2=VBP	0	root	_	O
+8	back	back	RB	_	7	advmod	_	O
+9	from	from	IN	_	8	prep	_	O
+10	identity	identity	NN	_	11	compound	_	O
+11	politics	politics	NNS	_	9	pobj	_	O
+12	for	for	IN	_	15	mark	_	O
+13	2sec	0sec	NNP	pos2=JJ	15	nsubj	_	U-PRODUCT
+14	to	to	TO	_	15	aux	_	O
+15	look	look	VB	_	7	advcl	_	O
+16	at	at	IN	_	15	prep	_	O
+17	his	his	PRP$	_	20	poss	_	O
+18	absurdly	absurdly	RB	_	19	advmod	_	O
+19	bad	bad	JJ	_	20	nmod	_	O
+20	record	record	NN	_	16	pobj	_	O
+21	?	?	.	_	7	punct	_	O
+

@@ -1,0 +1,18 @@
+1	Tony	tony	NNP	_	4	compound	_	B-ORG
+2	Romo	romo	NNP	_	4	compound	_	I-ORG
+3	Trade	trade	NNP	_	4	compound	_	I-ORG
+4	News	news	NNP	_	9	nsubj	_	I-ORG
+5	&	&	CC	_	4	cc	_	I-ORG
+6	Rumors	rumor	NNS	pos2=NNPS	4	conj	_	L-ORG
+7	:	:	:	_	9	punct	_	O
+8	Here	here	RB	_	9	advmod	_	O
+9	's	's	VBZ	_	0	root	_	O
+10	Where	where	WRB	_	13	advmod	_	O
+11	He	he	PRP	pos2=NNP	13	nsubj	_	O
+12	Might	might	MD	_	13	aux	_	O
+13	Go	go	VB	_	9	advcl	_	O
+14	In	in	IN	pos2=NNP	13	prep	_	O
+15	2017	0	CD	_	14	pobj	_	O
+16	-	-	:	pos2=HYPH	17	punct	_	O
+17	https://t.co/fi01WrSVa6	#hlink#	ADD	pos2=NN	9	dep	_	O
+

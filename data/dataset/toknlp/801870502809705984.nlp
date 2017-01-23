@@ -1,0 +1,18 @@
+1	TP100	tp0	NN	_	15	nsubj	_	O
+2	from	from	IN	_	1	prep	_	O
+3	Erbil	erbil	NNP	_	2	pobj	_	U-GPE
+4	with	with	IN	_	1	prep	_	O
+5	@bbcnewsgops	@bbcnewsgops	NNPS	pos2=NNS	4	pobj	_	U-GPE
+6	,	,	,	_	5	punct	_	O
+7	@BBCNews	@bbcnews	NNPS	pos2=NNS	5	conj	_	U-PERSON
+8	,	,	,	_	7	punct	_	O
+9	solid	solid	JJ	_	10	nmod	_	O
+10	9Mbps	0mbps	NNS	_	7	conj	_	O
+11	over	over	IN	pos2=RP	10	prep	_	O
+12	their	their	PRP$	_	14	poss	_	O
+13	VSAT	vsat	NN	pos2=NNP	14	compound	_	O
+14	system	system	NN	_	11	pobj	_	O
+15	#welldonechaps	#welldonechaps	VBZ	pos2=GW	0	root	_	O
+16	#mosuloffensive	#mosuloffensive	ADD	pos2=GW	17	punct	_	O
+17	https://t.co/Pfv6NHHyfC	#hlink#	ADD	pos2=NN	15	dobj	_	O
+

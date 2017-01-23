@@ -1,0 +1,11 @@
+1	@CGasparino	@cgasparino	UH	pos2=ADD	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	guess	guess	VBP	_	0	root	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	need	need	VBP	_	3	ccomp	_	O
+6	a	a	DT	_	8	det	_	O
+7	reading	reading	NN	pos2=VBG	8	compound	_	O
+8	lesson	lesson	NN	_	5	dobj	_	O
+9	Charlie	charlie	NNP	pos2=GW	10	nmod	_	B-PERSON
+10	https://t.co/IzS4sKJ9C1	#hlink#	ADD	_	5	dep	_	L-PERSON
+

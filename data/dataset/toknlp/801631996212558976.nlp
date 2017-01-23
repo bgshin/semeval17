@@ -1,0 +1,19 @@
+1	42	0	CD	_	2	nmod	_	B-PERCENT
+2	%	%	NN	_	0	root	_	L-PERCENT
+3	OFF	off	RB	pos2=NN	2	advmod	_	O
+4	!	!	.	_	2	punct	_	O
+
+1	JUSTIN	justin	NNP	_	13	nmod	_	B-ORG
+2	VERLANDER	verlander	NNP	_	13	dep	_	I-ORG
+3	Pennant	pennant	NNP	pos2=NN	13	dep	_	I-ORG
+4	Base	base	NNP	pos2=NN	13	dep	_	I-ORG
+5	Bobblehead	bobblehead	NNP	_	13	dep	_	I-ORG
+6	Home	home	NNP	_	13	dep	_	I-ORG
+7	Detroit	detroit	NNP	_	8	compound	_	I-ORG
+8	Tigers	tiger	NNPS	pos2=NNP	10	dobj	_	L-ORG
+9	https://t.co/t0eoBpwJMJ	#hlink#	ADD	pos2=VBP	10	nsubj	_	O
+10	#sports	#sports	VBZ	pos2=-RRB-	13	dep	_	O
+11	#forevercol	#forevercol	UH	pos2=GW	10	discourse	_	O
+12	…	…	NFP	pos2=-LRB-	13	punct	_	O
+13	https://t.co/9HS6WqoNVh	#hlink#	ADD	_	0	root	_	O
+

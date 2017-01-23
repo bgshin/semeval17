@@ -1,0 +1,30 @@
+1	If	if	IN	_	4	mark	_	O
+2	we	we	PRP	_	4	nsubj	_	O
+3	have	have	VBP	_	4	aux	_	O
+4	found	find	VBN	_	7	advcl	_	O
+5	in	in	IN	_	4	prep	_	O
+6	GOD	god	NN	pos2=NNP	5	pobj	_	O
+7	meaning	mean	VBG	pos2=NN	12	relcl	_	O
+8	for	for	IN	_	7	prep	_	O
+9	our	our	PRP$	_	11	poss	_	O
+10	own	own	JJ	_	11	nmod	_	O
+11	lives	life	NNS	_	8	pobj	_	O
+12	,	,	,	_	16	punct	_	O
+13	we	we	PRP	_	16	nsubj	_	O
+14	can	can	MD	_	16	aux	_	O
+15	not	not	RB	_	16	neg	_	O
+16	be	be	VB	_	0	root	_	O
+17	indifferent	indifferent	JJ	_	16	acomp	_	O
+18	to	to	IN	_	17	prep	_	O
+19	those	those	DT	_	18	pobj	_	O
+20	who	who	WP	_	21	nsubj	_	O
+21	are	be	VBP	_	19	relcl	_	O
+22	sad	sad	JJ	_	21	acomp	_	O
+23	or	or	CC	_	22	cc	_	O
+24	suffering	suffering	NN	pos2=VBG	22	conj	_	O
+25	.	.	.	_	16	punct	_	O
+
+1	--	--	SYM	pos2=:	3	punct	_	O
+2	Pope	pope	NNP	_	3	compound	_	O
+3	Francis	francis	NNP	_	0	root	_	O
+

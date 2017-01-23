@@ -1,0 +1,14 @@
+1	Muslim	muslim	NNP	pos2=NN	2	nsubj	_	U-NORP
+2	is	be	VBZ	_	0	root	_	O
+3	always	always	RB	_	2	advmod	_	O
+4	the	the	DT	_	5	det	_	O
+5	target	target	NN	_	2	attr	_	O
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	ethnic	ethnic	JJ	_	9	nmod	_	O
+9	cleansing	cleansing	NN	_	6	pobj	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	#Rohingya	#rohingya	NNP	pos2=XX	2	compound	_	B-PERSON
+2	#Palestine	#palestine	NNP	pos2=ADD	0	root	_	L-PERSON
+

@@ -1,0 +1,23 @@
+1	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	4	cc	_	O
+2	@maddow	@maddow	UH	pos2=``	4	discourse	_	O
+3	That	that	DT	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	not	not	RB	_	4	neg	_	O
+6	what	what	WP	_	16	dobj	_	O
+7	Hillary	hillary	NNP	_	16	nsubj	_	U-PERSON
+8	,	,	,	_	7	punct	_	O
+9	Reid	reid	NNP	_	7	conj	_	U-PERSON
+10	,	,	,	_	9	punct	_	O
+11	Pelosi	pelosi	NNP	_	9	conj	_	U-PERSON
+12	and	and	CC	_	11	cc	_	O
+13	rest	rest	NN	_	11	conj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	democrats	democrat	NNS	pos2=NNPS	14	pobj	_	U-NORP
+16	said	say	VBD	_	4	ccomp	_	O
+17	back	back	RB	_	16	advmod	_	O
+18	then	then	RB	_	16	advmod	_	O
+19	!	!	.	_	4	punct	_	O
+
+1	REMEMBER	remember	VB	_	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+

@@ -1,0 +1,21 @@
+1	@SouthboundRiser	@southboundriser	NNP	pos2=PRP$	2	compound	_	B-PERSON
+2	Trump	trump	NNP	pos2=NN	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	just	just	RB	_	6	advmod	_	O
+5	a	a	DT	_	6	det	_	O
+6	middleman	middleman	NN	_	3	attr	_	O
+7	for	for	IN	_	6	prep	_	O
+8	GOP	gop	NNP	_	9	compound	_	U-ORG
+9	agenda	agenda	NN	_	7	pobj	_	O
+10	&	&	CC	_	9	cc	_	O
+11	Putin	putin	NNP	_	9	conj	_	U-PERSON
+12	goals	goal	NNS	pos2=VBZ	9	appos	_	O
+13	.	.	.	_	3	punct	_	O
+
+1	His	his	PRP$	_	2	poss	_	O
+2	payoff	payoff	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	:	:	:	_	3	punct	_	O
+5	self-enrichment	self-enrichment	NN	_	3	attr	_	O
+6	.	.	.	_	3	punct	_	O
+

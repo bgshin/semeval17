@@ -1,0 +1,18 @@
+1	While	while	IN	_	6	mark	_	O
+2	Fidel	fidel	NNP	_	3	compound	_	B-PERSON
+3	Castro	castro	NNP	_	4	compound	_	L-PERSON
+4	fan	fan	NN	pos2=NNP	6	nsubj	_	O
+5	was	be	VBD	_	6	aux	_	O
+6	typing	type	VBG	_	10	advcl	_	O
+7	this	this	DT	_	6	dobj	_	O
+8	,	,	,	_	10	punct	_	O
+9	irony	irony	NN	_	10	nsubj	_	O
+10	said	say	VBD	_	0	root	_	O
+11	cheers	cheer	NNS	_	17	nmod	_	O
+12	to	to	IN	_	11	prep	_	O
+13	Kim	kim	NNP	_	16	compound	_	B-PERSON
+14	Jong	jong	NNP	_	16	compound	_	L-PERSON
+15	Un	un	NNP	_	16	compound	_	O
+16	😂😂	😂😂	NNP	pos2=NFP	12	pobj	_	O
+17	https://t.co/c2pqjDXX86	#hlink#	ADD	_	10	ccomp	_	O
+

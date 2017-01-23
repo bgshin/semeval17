@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det	_	O
+2	Liberals	liberal	NNPS	pos2=NNS	4	nsubj	_	U-NORP
+3	are	be	VBP	_	4	aux	_	O
+4	acquiring	acquire	VBG	_	0	root	_	O
+5	18	0	CD	_	7	nmod	_	U-CARDINAL
+6	new	new	JJ	_	7	nmod	_	O
+7	F-18s	f-0s	NNS	pos2=NNPS	4	dobj	_	U-PRODUCT
+8	,	,	,	_	4	punct	_	O
+9	but	but	CC	_	4	cc	_	O
+10	the	the	DT	_	11	det	_	O
+11	RCAF	rcaf	NNP	pos2=NN	12	nsubj	_	U-ORG
+12	says	say	VBZ	_	4	conj	_	O
+13	all	all	PDT	_	15	predet	_	O
+14	the	the	DT	_	15	det	_	O
+15	ones	#crd#	NNS	_	19	nsubj	_	O
+16	they	they	PRP	_	17	nsubj	_	O
+17	have	have	VBP	_	15	relcl	_	O
+18	will	will	MD	_	19	aux	_	O
+19	fly	fly	VB	_	12	ccomp	_	O
+20	until	until	IN	_	19	prep	_	O
+21	2025	0	CD	_	20	pobj	_	U-DATE
+22	:	:	:	_	23	punct	_	O
+23	https://t.co/P8asfmznMp	#hlink#	ADD	pos2=NN	21	appos	_	O
+

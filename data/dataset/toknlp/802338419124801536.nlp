@@ -1,0 +1,27 @@
+1	Send	send	VB	_	0	root	_	O
+2	all	all	DT	_	3	det	_	O
+3	info	info	NN	_	1	dobj	_	O
+4	to	to	IN	_	1	prep	_	O
+5	US	us	NNP	_	6	compound	_	U-GPE
+6	attorneys	attorney	NNS	_	4	pobj	_	O
+7	,	,	,	_	1	punct	_	O
+8	to	to	IN	pos2=TO	1	prep	_	O
+9	@FEC	@fec	NNP	pos2=VB	8	pobj	_	U-ORG
+10	,	,	,	_	1	punct	_	O
+11	to	to	TO	pos2=IN	12	aux	_	O
+12	@TheJusticeDept	@thejusticedept	VB	pos2=NNP	1	advcl	_	O
+13	PROTEST	protest	VB	pos2=NN	12	advcl	_	O
+14	the	the	DT	_	15	det	_	O
+15	fraud	fraud	NN	_	13	dobj	_	O
+16	&	&	CC	_	15	cc	_	O
+17	corruption	corruption	NN	_	15	conj	_	O
+18	.	.	.	_	1	punct	_	O
+
+1	Our	our	PRP$	_	2	poss	_	O
+2	country	country	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	what	what	WP	_	7	dep	_	O
+5	we	we	PRP	_	3	ccomp	_	O
+6	…	…	NFP	pos2=VBP	7	punct	_	O
+7	https://t.co/CCBb3Ytf0O	#hlink#	ADD	_	5	appos	_	O
+

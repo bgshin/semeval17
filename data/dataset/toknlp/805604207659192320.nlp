@@ -1,0 +1,20 @@
+1	@MelbHomeopathic	@melbhomeopathic	NNP	pos2=XX	12	nsubj	_	O
+2	One	#crd#	CD	pos2=NNP	6	nmod	_	O
+3	accurately	accurately	RB	_	4	advmod	_	O
+4	prescribed	prescribe	VBN	pos2=VBD	0	root	_	O
+5	#homeopathic	#homeopathic	TO	pos2=JJ	6	nmod	_	O
+6	remedy	remedy	NN	pos2=VB	4	dobj	_	O
+7	4	0	CD	_	6	npadvmod	_	O
+8	#heartburn	#heartburn	FW	pos2=NNS	10	nmod	_	O
+9	10	0	CD	_	10	nmod	_	B-DATE
+10	years	year	NNS	_	11	npadvmod	_	I-DATE
+11	ago	ago	RB	_	12	advmod	_	L-DATE
+12	worked	work	VBD	_	0	root	_	O
+13	4	0	CD	pos2=IN	12	npadvmod	_	U-CARDINAL
+14	me	me	PRP	_	12	npadvmod	_	O
+15	.	.	.	_	12	punct	_	O
+
+1	#Homeopathy	#homeopathy	NN	pos2=JJ	2	compound	_	O
+2	rocks	rock	NNS	_	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+

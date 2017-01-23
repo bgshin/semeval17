@@ -1,0 +1,13 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	amateur	amateur	JJ	_	4	nmod	_	B-TIME
+4	hour	hour	NN	_	2	attr	_	L-TIME
+5	in	in	IN	_	2	prep	_	O
+6	the	the	DT	_	9	det	_	O
+7	Trump	trump	NNP	pos2=NN	9	compound	_	U-PERSON
+8	transition	transition	NN	_	9	compound	_	O
+9	team	team	NN	_	5	pobj	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	https://t.co/CAbjp8QiKx	#hlink#	ADD	_	0	root	_	U-ORG
+

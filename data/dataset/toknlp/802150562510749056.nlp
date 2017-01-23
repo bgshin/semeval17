@@ -1,0 +1,20 @@
+1	Black	black	JJ	pos2=NNP	2	nmod	_	O
+2	firday	firday	NN	pos2=RB	3	compound	_	O
+3	saleHead	salehead	NN	pos2=NNP	19	dep	_	O
+4	commissionsPersona	commissionspersona	NN	pos2=NNP	3	npadvmod	_	O
+5	5	0	CD	_	7	nmod	_	U-CARDINAL
+6	HUD	hud	NNP	pos2=NN	7	compound	_	U-ORG
+7	commissions	commission	NNS	_	4	dobj	_	O
+8	(	(	-LRB-	_	10	punct	_	O
+9	best	good	JJS	pos2=RBS	19	nmod	_	O
+10	if	if	IN	_	12	mark	_	O
+11	you	you	PRP	_	12	nsubj	_	O
+12	get	get	VBP	_	19	advcl	_	O
+13	both	both	DT	pos2=CC	12	dobj	_	O
+14	for	for	IN	_	12	prep	_	O
+15	$	$	$	_	16	nmod	_	O
+16	2	0	CD	_	14	pobj	_	U-MONEY
+17	extra	extra	JJ	pos2=AFX	16	nmod	_	O
+18	)	)	-RRB-	_	19	punct	_	O
+19	https://t.co/zrGzilVJRC	#hlink#	ADD	pos2=NN	0	root	_	O
+

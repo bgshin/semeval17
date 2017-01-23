@@ -1,0 +1,26 @@
+1	@YahooNews	@yahoonews	JJ	pos2=IN	2	nmod	_	O
+2	BILLIONAIRE	billionaire	NN	_	0	root	_	O
+3	(	(	-LRB-	_	2	punct	_	O
+4	A	a	DT	pos2=NN	5	det	_	O
+5	WOMEN	woman	NNS	pos2=NN	2	appos	_	O
+6	)	)	-RRB-	_	2	punct	_	O
+7	WHO	who	WP	_	8	nsubj	_	O
+8	MADE	make	VBD	pos2=VBN	2	relcl	_	O
+9	FORTUNE	fortune	NN	pos2=NNP	8	dobj	_	O
+10	IN	in	IN	_	8	prep	_	O
+11	PRIVATE	private	JJ	_	12	nmod	_	O
+12	BUSINESS	business	NN	_	10	pobj	_	O
+13	WHICH	which	WDT	_	14	nsubj	_	O
+14	IS	be	VBZ	_	12	relcl	_	O
+15	NORMALWAY	normalway	RB	pos2=NN	14	advmod	_	U-ORDINAL
+16	,	,	,	_	2	punct	_	O
+17	NOT	not	RB	_	18	neg	_	O
+18	IN	in	IN	_	2	prep	_	O
+19	GOVERMENT	goverment	NN	pos2=NNP	20	compound	_	O
+20	POSTs	post	NNS	pos2=NNPS	18	pobj	_	O
+21	AS	as	IN	_	2	prep	_	O
+22	PER	per	IN	pos2=NNP	21	prep	_	O
+23	REPUBICANS	repubicans	NNPS	pos2=NNP	22	pobj	_	O
+24	&	&	CC	_	23	cc	_	O
+25	DEMS	dems	NNS	pos2=NNPS	23	conj	_	O
+

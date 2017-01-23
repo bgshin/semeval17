@@ -1,0 +1,10 @@
+1	Microsoft	microsoft	NNP	_	2	nsubj	_	U-ORG
+2	Buries	bury	VBZ	_	0	root	_	O
+3	Old	old	NNP	pos2=JJ	4	compound	_	O
+4	Animosity	animosity	NN	pos2=NNP	2	dobj	_	O
+5	by	by	IN	_	2	prep	_	O
+6	Joining	join	VBG	pos2=NNP	5	pcomp	_	O
+7	#LinuxFoundation	#linuxfoundation	GW	pos2=-LRB-	6	dobj	_	O
+8	https://t.co/DpeOYXA9C1	#hlink#	ADD	_	9	nmod	_	O
+9	https://t.co/ts3R4L63sr	#hlink#	ADD	_	6	dobj	_	O
+

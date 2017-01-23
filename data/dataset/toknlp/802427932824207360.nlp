@@ -1,0 +1,15 @@
+1	Seeing	see	VBG	pos2=JJ	0	root	_	O
+2	nature	nature	NN	_	5	poss	_	O
+3	's	's	POS	_	2	case	_	O
+4	true	true	JJ	_	5	nmod	_	O
+5	colours	color	NNS	_	1	dobj	_	O
+6	using	use	VBG	_	1	advcl	_	O
+7	3	0	CD	_	11	nmod	_	U-CARDINAL
+8	D	d	NN	pos2=NNP	10	npadvmod	_	O
+9	-	-	HYPH	pos2=:	10	punct	_	O
+10	printed	print	VBN	_	11	nmod	_	O
+11	nanostructures	nanostructure	NNS	_	6	dobj	_	O
+12	@Nature	@nature	GW	pos2=POS	14	nmod	_	O
+13	Newshttps://t.co/B7mbAvBcLI	#hlink#	ADD	pos2=GW	14	nmod	_	O
+14	https://t.co/e0YR04FOaw	#hlink#	ADD	_	1	dep	_	U-ORG
+

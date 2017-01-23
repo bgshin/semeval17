@@ -1,0 +1,15 @@
+1	Tommy	tommy	NNP	_	2	compound	_	B-PERSON
+2	Hilfiger	hilfiger	NNP	_	3	nsubj	_	L-PERSON
+3	Thinks	think	VBZ	_	0	root	_	O
+4	Designers	designer	NNPS	pos2=NNS	6	nsubj	_	O
+5	Should	should	MD	_	6	aux	_	O
+6	Be	be	VB	_	3	ccomp	_	O
+7	Proud	proud	JJ	_	6	acomp	_	O
+8	to	to	IN	pos2=TO	7	prep	_	O
+9	Dress	dress	NNP	pos2=VB	11	compound	_	O
+10	Melania	melania	NNP	_	11	compound	_	B-PERSON
+11	Trump	trump	NNP	pos2=GW	8	pobj	_	L-PERSON
+12	https://t.co/LoVLDbaTp5	#hlink#	ADD	pos2=NNP	10	appos	_	O
+13	via	via	IN	_	6	prep	_	O
+14	@harpersbazaarus	@harpersbazaarus	NN	pos2=.	13	pobj	_	O
+

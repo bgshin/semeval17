@@ -1,0 +1,30 @@
+1	Actually	actually	RB	_	3	advmod	_	O
+2	bWAR	bwar	NNP	pos2=EX	3	nsubj	_	U-ORG
+3	does	do	VBZ	_	9	ccomp	_	O
+4	an	an	DT	_	5	det	_	O
+5	adjustment	adjustment	NN	_	3	dobj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	defense	defense	NN	_	6	pobj	_	O
+8	I	I	PRP	_	9	nsubj	_	O
+9	think	think	VBP	_	0	root	_	O
+10	.	.	.	_	9	punct	_	O
+
+1	Not	not	RB	_	5	neg	_	O
+2	a	a	DT	_	5	det	_	O
+3	very	very	RB	_	4	advmod	_	O
+4	good	good	JJ	_	5	nmod	_	O
+5	one	#crd#	NN	pos2=CD	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	essence	essence	NN	_	2	attr	_	O
+5	of	of	IN	_	4	prep	_	O
+6	the	the	DT	_	10	det	_	O
+7	Verlander	verlander	NNP	_	9	nmod	_	O
+8	/	/	SYM	pos2=HYPH	9	punct	_	O
+9	Porcello	porcello	NNP	_	10	compound	_	O
+10	debate	debate	NN	_	5	pobj	_	O
+11	.	.	.	_	2	punct	_	O
+

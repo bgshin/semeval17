@@ -1,0 +1,10 @@
+1	Hate	hate	NN	pos2=VB	2	compound	_	O
+2	breeds	breed	NNS	pos2=VBZ	3	nsubj	_	O
+3	hate	hate	VBP	pos2=NN	0	root	_	O
+4	..	..	.	_	3	punct	_	O
+
+1	fire	fire	NN	_	2	compound	_	O
+2	breeds	breed	NNS	pos2=VBZ	4	nsubj	_	O
+3	fire#Palestine	fire#palestine	ADD	pos2=GW	4	punct	_	U-NORP
+4	https://t.co/khRnbFFV9E	#hlink#	ADD	_	0	root	_	O
+

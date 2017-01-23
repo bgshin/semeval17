@@ -1,0 +1,26 @@
+1	Tom	tom	NNP	_	2	compound	_	B-PERSON
+2	Brady	brady	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	patriot	patriot	NN	_	3	attr	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	@BillSimmons	@billsimmons	NNS	pos2=ADD	4	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	@BenAffleck	@benaffleck	NN	pos2=EX	1	conj	_	O
+4	were	be	VBD	_	0	root	_	O
+5	right	right	JJ	pos2=RB	4	acomp	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	Obama	obama	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	created	create	VBD	pos2=VBN	0	root	_	O
+3	spy	spy	NN	_	4	compound	_	O
+4	gate	gate	NN	_	2	dobj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	distract	distract	VB	_	2	advcl	_	O
+7	public	public	JJ	pos2=NN	6	dobj	_	O
+8	from	from	IN	_	6	prep	_	O
+9	dro	dro	NN	pos2=GW	8	pobj	_	O
+10	…	…	NFP	pos2=-LRB-	11	punct	_	O
+11	https://t.co/E7dkpuI6EV	#hlink#	ADD	_	6	dobj	_	O
+

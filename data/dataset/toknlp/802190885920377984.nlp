@@ -1,0 +1,20 @@
+1	now	now	RB	_	4	advmod	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	'm	be	VBP	_	4	aux	_	O
+4	going	go	VBG	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	rewatch	rewatch	VB	_	4	xcomp	_	O
+7	#TheWalkingDead	#thewalkingdead	VBG	pos2=JJ	6	xcomp	_	B-DATE
+8	season	season	NN	_	7	npadvmod	_	I-DATE
+9	1	0	CD	_	8	nmod	_	I-DATE
+10	and	and	CC	_	8	cc	_	I-DATE
+11	season	season	NN	_	8	conj	_	I-DATE
+12	2	0	CD	pos2=MD	11	nmod	_	L-DATE
+13	so	so	RB	_	14	advmod	_	O
+14	see	see	VB	_	11	appos	_	O
+15	you	you	PRP	_	18	nsubj	_	O
+16	all	all	DT	pos2=RB	18	det	_	O
+17	later	late	JJ	pos2=RB	18	nmod	_	O
+18	mates	mate	NNS	_	14	ccomp	_	O
+19	.	.	.	_	4	punct	_	O
+

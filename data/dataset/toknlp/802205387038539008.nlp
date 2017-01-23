@@ -1,0 +1,11 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	hatchimal	hatchimal	NN	pos2=JJ	2	dobj	_	O
+5	please	please	UH	_	2	discourse	_	O
+6	!!!	!!	.	_	2	punct	_	O
+
+1	#Hatchimals	#hatchimals	NNS	pos2=ADD	0	root	_	O
+2	#isnttheresomeonthatcanhelp	#isnttheresomeonthatcanhelp	UH	pos2=IN	1	discourse	_	O
+3	#payitforward	#payitforward	UH	pos2=FW	1	discourse	_	O
+

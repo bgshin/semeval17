@@ -1,0 +1,16 @@
+1	Gaston	gaston	NNP	_	15	dep	_	U-PERSON
+2	and	and	CC	_	1	cc	_	O
+3	Belle	belle	NNP	_	1	conj	_	U-PERSON
+4	in	in	IN	_	1	prep	_	O
+5	a	a	DT	_	7	det	_	O
+6	New	new	NNP	pos2=JJ	7	compound	_	O
+7	Beauty	beauty	NNP	_	4	pobj	_	B-ORG
+8	and	and	CC	_	7	cc	_	I-ORG
+9	the	the	DT	_	11	det	_	I-ORG
+10	Beast	beast	NNP	_	11	compound	_	I-ORG
+11	Photo	photo	NNP	pos2=NN	7	conj	_	I-ORG
+12	https://t.co/Y3h4UMzF3u	#hlink#	ADD	_	15	dep	_	I-ORG
+13	#Disney	#disney	NNP	pos2=-RRB-	15	nmod	_	I-ORG
+14	#BeautyAndTheBeast	#beautyandthebeast	ADD	pos2=VBD	15	punct	_	L-ORG
+15	https://t.co/ToMr1ZA2lc	#hlink#	ADD	_	0	root	_	O
+

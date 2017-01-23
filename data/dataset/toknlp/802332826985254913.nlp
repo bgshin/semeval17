@@ -1,0 +1,19 @@
+1	Years	year	NNS	_	7	vocative	_	U-DATE
+2	of	of	IN	_	1	prep	_	O
+3	research	research	NN	_	4	compound	_	O
+4	cuts	cut	NNS	_	2	pobj	_	O
+5	:	:	:	_	7	punct	_	O
+6	China	china	NNP	pos2=NN	7	nsubj	_	U-GPE
+7	is	be	VBZ	_	0	root	_	O
+8	ahead	ahead	RB	_	7	advmod	_	O
+9	of	of	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	US	us	NNP	_	9	pobj	_	U-GPE
+12	in	in	IN	_	7	prep	_	O
+13	#machinelearning	#machinelearning	VBG	pos2=NNP	12	pcomp	_	O
+14	#deeplearning	#deeplearning	VBG	pos2=GW	15	nmod	_	O
+15	#ArtificialIntelligence	#artificialintelligence	ADD	pos2=GW	11	appos	_	O
+16	https://t.co/b418pvl0Sh	#hlink#	ADD	pos2=NN	15	attr	_	O
+17	via	via	IN	_	14	prep	_	O
+18	@wef	@wef	NN	pos2=ADD	17	pobj	_	O
+

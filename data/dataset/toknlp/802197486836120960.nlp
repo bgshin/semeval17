@@ -1,0 +1,21 @@
+1	@jemelehill	@jemelehill	UH	pos2=RB	6	discourse	_	O
+2	@theNFLchick	@thenflchick	ADD	pos2=UH	5	nmod	_	O
+3	@SKTV	@sktv	NN	pos2=NNP	5	nmod	_	O
+4	_	_	SYM	pos2=''	5	punct	_	O
+5	religion	religion	NN	_	6	nsubj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	a	a	DT	_	9	det	_	O
+8	scare	scare	NN	_	9	compound	_	O
+9	tactic	tactic	NN	_	6	attr	_	O
+10	and	and	CC	_	6	cc	_	O
+11	these	these	DT	_	12	det	_	O
+12	folks	folk	NNS	_	13	nsubj	_	O
+13	are	be	VBP	_	6	conj	_	O
+14	a	a	DT	_	16	det	_	O
+15	prime	prime	JJ	_	16	nmod	_	O
+16	example	example	NN	_	13	attr	_	O
+17	.	.	.	_	13	punct	_	O
+
+1	#stomptheyard	#stomptheyard	UH	pos2=XX	2	discourse	_	O
+2	#steppinforchrist	#steppinforchrist	UH	pos2=NN	0	root	_	O
+

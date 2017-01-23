@@ -1,0 +1,25 @@
+1	@JeffreyGuterman	@jeffreyguterman	NN	pos2=ADD	2	compound	_	O
+2	@realDonaldTrump	@realdonaldtrump	NNP	pos2=XX	5	dep	_	U-PERSON
+3	Also	also	RB	_	5	advmod	_	O
+4	,	,	,	_	5	punct	_	O
+5	learn	learn	VB	_	0	root	_	O
+6	what	what	WP	_	10	attr	_	O
+7	the	the	DT	_	9	det	_	B-ORG
+8	Electoral	electoral	NNP	pos2=JJ	9	compound	_	I-ORG
+9	College	college	NNP	pos2=NN	10	nsubj	_	L-ORG
+10	is	be	VBZ	_	5	ccomp	_	O
+11	.	.	.	_	5	punct	_	O
+
+1	Popular	popular	JJ	pos2=NNP	2	nmod	_	O
+2	vote	vote	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	BYPRODUCT	byproduct	NN	_	3	attr	_	O
+6	not	not	RB	_	5	neg	_	O
+7	a	a	DT	_	8	det	_	O
+8	basis	basis	NN	_	5	appos	_	O
+9	for	for	IN	_	8	prep	_	O
+10	our	our	PRP$	_	11	poss	_	O
+11	elections	election	NNS	_	9	pobj	_	O
+12	.	.	.	_	3	punct	_	O
+

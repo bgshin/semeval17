@@ -1,0 +1,22 @@
+1	#DidYouKnow	#didyouknow	NN	pos2=JJ	2	compound	_	O
+2	diabetes	diabetes	NN	pos2=NNS	4	nsubj	_	O
+3	can	can	MD	_	4	aux	_	O
+4	affect	affect	VB	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	kidneys	kidney	NNS	_	4	dobj	_	O
+7	resulting	result	VBG	_	6	acl	_	O
+8	in	in	IN	_	7	prep	_	O
+9	#kidney	#kidney	NN	pos2=JJ	10	compound	_	O
+10	failure	failure	NN	_	8	pobj	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	https	http	NNS	pos2=NN	9	dep	_	O
+2	:	:	:	_	9	punct	_	O
+3	//	//	NFP	pos2=-LRB-	9	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	pNEBXewl1N#Diabetes	pnebxewl0n#diabetes	NN	pos2=NNS	9	dep	_	O
+7	#Health	#health	GW	pos2=NN	9	nmod	_	O
+8	…	…	NFP	pos2=GW	9	punct	_	O
+9	https://t.co/n3ebZYkKSv	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

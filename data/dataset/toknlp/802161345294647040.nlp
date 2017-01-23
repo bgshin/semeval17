@@ -1,0 +1,29 @@
+1	@paulboy	@paulboy	UH	pos2=VB	3	discourse	_	O
+2	The	the	DT	_	10	det	_	O
+3	make	make	VB	pos2=NN	10	nmod	_	O
+4	-	-	HYPH	_	3	punct	_	O
+5	up	up	RP	pos2=NN	3	prt	_	O
+6	free	free	JJ	pos2=NN	8	advmod	_	O
+7	=	=	SYM	pos2=-LRB-	8	punct	_	O
+8	fresh	fresh	JJ	_	10	nmod	_	O
+9	face	face	NN	_	10	compound	_	O
+10	look	look	NN	_	15	prep	_	O
+11	-	-	:	pos2=HYPH	14	punct	_	O
+12	so	so	RB	_	14	advmod	_	O
+13	damn	damn	RB	pos2=JJ	14	advmod	_	O
+14	attractive	attractive	JJ	_	10	acomp	_	O
+15	.	.	.	_	0	root	_	O
+
+1	#StillWithHer	#stillwithher	NNP	pos2=ADD	3	dep	_	O
+2	She	she	PRP	_	3	nsubj	_	O
+3	continues	continue	VBZ	_	0	root	_	O
+4	2be	0be	NNP	pos2=RB	5	nmod	_	U-DATE
+5	a	a	DT	_	8	det	_	O
+6	great	great	JJ	_	8	nmod	_	O
+7	role	role	NN	_	8	compound	_	O
+8	model	model	NN	_	3	dobj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	#Clinton2016	#clinton0	NN	pos2=NNS	2	nsubj	_	O
+2	#MyPresident	#mypresident	ADD	pos2=NN	0	root	_	O
+

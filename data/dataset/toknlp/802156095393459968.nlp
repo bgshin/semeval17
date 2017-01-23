@@ -1,0 +1,17 @@
+1	Will	will	MD	_	9	aux	_	O
+2	failing	fail	VBG	_	9	nsubjpass	_	O
+3	to	to	TO	_	4	aux	_	O
+4	learn	learn	VB	_	2	xcomp	_	O
+5	lessons	lesson	NNS	_	4	dobj	_	O
+6	from	from	IN	_	5	prep	_	O
+7	#Libya	#libya	NNP	pos2=NNS	6	pobj	_	U-EVENT
+8	be	be	VB	_	9	auxpass	_	O
+9	played	play	VBN	_	0	root	_	O
+10	out	out	RP	pos2=RB	9	prt	_	O
+11	in	in	IN	_	9	prep	_	O
+12	#Mosul	#mosul	NNP	pos2=DT	13	compound	_	U-ORG
+13	stabilisation	stabilisation	NN	_	11	pobj	_	O
+14	?	?	.	_	9	punct	_	O
+
+1	https://t.co/UkSI40ju0h	#hlink#	ADD	_	0	root	_	U-ORG
+

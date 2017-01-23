@@ -1,0 +1,15 @@
+1	@SandraTXAS	@sandratxas	NNS	pos2=ADD	14	dep	_	O
+2	@EmfingerSScout	@emfingersscout	ADD	pos2=GW	14	dep	_	O
+3	@AppSame	@appsame	VBP	pos2=XX	14	dep	_	O
+4	@michaelkeyes	@michaelkeyes	NNS	pos2=UH	14	nmod	_	B-ORG
+5	@Stonewall_77	@stonewall_0	NNP	pos2=POS	6	compound	_	I-ORG
+6	Immigration	immigration	NNP	pos2=NN	7	nsubjpass	_	L-ORG
+7	based	base	VBN	_	4	relcl	_	O
+8	upon	upon	IN	_	7	prep	_	O
+9	Economic	economic	JJ	pos2=NNP	10	nmod	_	O
+10	prosperity	prosperity	NN	_	8	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	Amer	amer	NNP	_	11	pobj	_	B-PERSON
+13	…	…	NFP	pos2=NNP	14	punct	_	L-PERSON
+14	https://t.co/j9lEJub83f	#hlink#	ADD	_	0	root	_	O
+

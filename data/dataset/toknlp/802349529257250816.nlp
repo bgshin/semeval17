@@ -1,0 +1,14 @@
+1	They	they	PRP	_	2	nsubj	_	O
+2	think	think	VBP	_	0	root	_	O
+3	disclosure	disclosure	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	2	ccomp	_	O
+5	a	a	DT	_	6	det	_	O
+6	movie	movie	NN	_	4	attr	_	O
+7	starring	star	VBG	pos2=NN	6	acl	_	O
+8	Michael	michael	NNP	_	9	compound	_	B-PERSON
+9	Douglas	douglas	NNP	_	7	dobj	_	L-PERSON
+10	&	&	CC	_	9	cc	_	O
+11	Demi	demi	NNP	_	12	compound	_	B-PERSON
+12	Moore	moore	NNP	_	9	conj	_	L-PERSON
+13	https://t.co/eERKguHd5z	#hlink#	ADD	_	6	appos	_	O
+

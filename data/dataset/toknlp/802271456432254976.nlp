@@ -1,0 +1,30 @@
+1	Yes	yes	UH	_	5	discourse	_	O
+2	we	we	PRP	_	5	nsubj	_	O
+3	can	can	MD	_	5	aux	_	O
+4	all	all	DT	pos2=RB	5	dep	_	O
+5	believe	believe	VB	_	0	root	_	O
+6	it	it	PRP	_	7	nsubj	_	O
+7	's	's	VBZ	_	5	ccomp	_	O
+8	not	not	RB	_	7	neg	_	O
+9	butter	butter	NN	pos2=VB	7	attr	_	O
+10	!	!	.	_	5	punct	_	O
+
+1	They	they	PRP	_	3	nsubj	_	O
+2	are	be	VBP	_	3	aux	_	O
+3	making	make	VBG	_	0	root	_	O
+4	self	self	NN	_	5	npadvmod	_	O
+5	driving	drive	VBG	pos2=NN	6	nmod	_	O
+6	cars	car	NNS	_	3	dobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	Who	who	WP	_	4	attr	_	O
+2	the	the	DT	_	3	det	_	O
+3	fuck	fuck	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	still	still	RB	_	4	advmod	_	O
+6	impressed	impressed	JJ	pos2=VBN	4	acomp	_	O
+7	with	with	IN	_	6	prep	_	O
+8	imitation	imitation	NN	_	9	compound	_	O
+9	butter	butter	NN	_	7	pobj	_	O
+10	?	?	.	_	4	punct	_	O
+

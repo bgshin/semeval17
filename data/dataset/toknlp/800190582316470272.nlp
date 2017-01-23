@@ -1,0 +1,16 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	12	ccomp	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=GW	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	https://t.co/PYWbJj0Zuo	#hlink#	ADD	pos2=NNP	1	appos	_	O
+7	Linux	linux	NNP	pos2=NN	8	nsubj	_	U-ORG
+8	loves	love	VBZ	_	5	relcl	_	O
+9	Microsoft	microsoft	NNP	_	8	dobj	_	U-ORG
+10	:	:	:	_	12	punct	_	O
+11	Microsoft	microsoft	NNP	_	12	nsubj	_	U-ORG
+12	joins	join	VBZ	_	0	root	_	O
+13	the	the	DT	_	15	det	_	B-ORG
+14	Linux	linux	NNP	_	15	compound	_	I-ORG
+15	Foundation	foundation	NNP	pos2=NN	12	dobj	_	L-ORG
+

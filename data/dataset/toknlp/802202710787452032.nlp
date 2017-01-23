@@ -1,0 +1,25 @@
+1	@NinaByzantina	@ninabyzantina	UH	pos2=NN	6	discourse	_	O
+2	So	so	RB	pos2=CC	6	advmod	_	O
+3	the	the	DT	_	4	det	_	O
+4	fact	fact	NN	_	9	nsubj	_	O
+5	that	that	IN	_	8	mark	_	O
+6	your	your	PRP$	_	7	poss	_	O
+7	grandparents	grandparent	NNS	_	4	acl	_	O
+8	where	where	WRB	_	10	advmod	_	O
+9	anti-fascists	anti-fascists	NNS	_	10	nsubj	_	O
+10	makes	make	VBZ	_	15	pcomp	_	O
+11	your	your	PRP$	_	13	poss	_	O
+12	"	"	``	_	13	punct	_	O
+13	lugenpresse	lugenpresse	NN	pos2=JJ	10	dobj	_	O
+14	"	"	''	_	13	punct	_	O
+15	-	-	,	pos2=:	19	punct	_	O
+16	husband	husband	NN	_	21	nmod	_	O
+17	less	less	JJR	pos2=RBR	16	nmod	_	O
+18	of	of	IN	_	17	prep	_	O
+19	a	a	DT	_	20	det	_	O
+20	nazi	nazi	NN	_	18	pobj	_	O
+21	?	?	.	_	0	root	_	O
+
+1	Amazing	amazing	JJ	_	2	nmod	_	O
+2	logic	logic	NN	_	0	root	_	O
+

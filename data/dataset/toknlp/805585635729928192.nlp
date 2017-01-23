@@ -1,0 +1,9 @@
+1	cause	cause	VB	pos2=NN	0	root	_	O
+2	like	like	IN	pos2=UH	4	prep	_	O
+3	euthanasia	euthanasia	NN	_	2	pobj	_	O
+4	get	get	VB	_	1	dep	_	O
+5	it	it	PRP	_	4	dobj	_	O
+6	?	?	.	_	1	punct	_	O
+
+1	lmaooo	lmaooo	UH	pos2=NN	0	root	_	O
+

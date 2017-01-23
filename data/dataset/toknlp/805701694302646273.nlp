@@ -1,0 +1,19 @@
+1	Always	always	RB	_	2	advmod	_	O
+2	keep	keep	VB	pos2=VBP	0	root	_	O
+3	up	up	IN	pos2=RP	2	oprd	_	O
+4	to	to	IN	_	3	prep	_	O
+5	date	date	NN	_	4	pobj	_	O
+6	with	with	IN	_	2	prep	_	O
+7	#Westworld	#westworld	NNP	pos2=PRP	6	pobj	_	U-ORG
+8	try	try	VB	pos2=VBP	2	dep	_	O
+9	a	a	DT	_	11	det	_	O
+10	free	free	JJ	_	11	nmod	_	O
+11	trial	trial	NN	_	8	dobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	#HBO	#hbo	NN	pos2=NNP	12	pobj	_	O
+14	through	through	IN	_	8	prep	_	O
+15	amazon	amazon	NN	pos2=NNP	14	pobj	_	O
+16	!	!	.	_	2	punct	_	O
+
+1	https://t.co/U7kxL2BAz3	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,18 @@
+1	Current	current	JJ	_	2	nmod	_	O
+2	situation	situation	NN	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Is	be	VBZ	_	4	aux	_	O
+2	Black	black	NNP	pos2=JJ	3	compound	_	B-EVENT
+3	Friday	friday	NNP	_	0	root	_	L-EVENT
+4	dying	die	VBG	_	0	root	_	O
+5	out	out	RP	pos2=RB	4	prt	_	O
+6	?	?	.	_	4	punct	_	O
+
+1	#uber	#uber	UH	pos2=PRP	6	dep	_	O
+2	#lyft	#lyft	NN	pos2=ADD	6	dep	_	O
+3	@	@	SYM	pos2=IN	4	punct	_	O
+4	Target	target	NNP	pos2=NN	2	prep	_	U-ORG
+5	…	…	NFP	pos2=,	6	punct	_	O
+6	https://t.co/PsY00kpZml	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

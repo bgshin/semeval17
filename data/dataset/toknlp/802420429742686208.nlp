@@ -1,0 +1,20 @@
+1	https://t.co/hi93PMxxMI	#hlink#	ADD	_	5	nsubj	_	O
+2	The	the	DT	_	3	det	_	O
+3	Tories	tory	NNPS	_	5	nsubj	_	U-NORP
+4	are	be	VBP	_	5	aux	_	O
+5	hammering	hammer	VBG	_	0	root	_	O
+6	Britain	britain	NNP	_	8	poss	_	U-GPE
+7	's	's	POS	_	6	case	_	O
+8	economy	economy	NN	pos2=NNP	5	dobj	_	O
+9	Morning	morning	NNP	_	11	compound	_	B-ORG
+10	Star	star	NNP	_	11	compound	_	I-ORG
+11	Online	online	NNP	pos2=RB	8	appos	_	L-ORG
+12	THE	the	DT	pos2=NNP	13	det	_	O
+13	Conservatives	conservative	NNPS	pos2=NNS	17	poss	_	U-NORP
+14	'	'	POS	_	13	case	_	O
+15	long	long	JJ	_	17	nmod	_	O
+16	-	-	HYPH	_	17	punct	_	O
+17	term	term	NN	_	0	root	_	O
+18	…	…	NFP	pos2=,	19	punct	_	O
+19	https://t.co/zVVIUm6ub1	#hlink#	ADD	pos2=NN	17	appos	_	O
+

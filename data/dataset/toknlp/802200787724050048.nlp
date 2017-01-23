@@ -1,0 +1,12 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	pray	pray	VBP	_	0	root	_	O
+3	@realDonaldTrump	@realdonaldtrump	PRP	pos2=ADD	4	nsubj	_	O
+4	does	do	VBZ	_	2	ccomp	_	O
+5	the	the	DT	_	7	det	_	O
+6	right	right	JJ	_	7	nmod	_	O
+7	thing	thing	NN	_	4	dobj	_	O
+8	#MAGA	#maga	GW	pos2=XX	11	nmod	_	B-TIME
+9	#draintheswamp	#draintheswamp	GW	pos2=UH	11	nmod	_	L-TIME
+10	#NeverRomney	#neverromney	GW	pos2=ADD	11	nmod	_	O
+11	https://t.co/hmwhuE5r0s	#hlink#	ADD	pos2=NN	2	dep	_	O
+

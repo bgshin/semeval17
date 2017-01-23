@@ -1,0 +1,19 @@
+1	SEXY	sexy	JJ	pos2=NN	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	Ashley	ashley	NNP	_	2	compound	_	B-PERSON
+2	Graham	graham	NNP	_	15	dep	_	L-PERSON
+3	Does	do	VBZ	pos2=NNP	15	aux	_	O
+4	Mannequin	mannequin	NNP	_	5	compound	_	O
+5	Challenge	challenge	NNP	pos2=VB	15	dep	_	O
+6	in	in	IN	_	5	prep	_	O
+7	Pink	pink	NNP	pos2=JJ	8	compound	_	O
+8	Lingerie	lingerie	NNP	pos2=NN	6	pobj	_	O
+9	|	|	SYM	pos2=,	15	punct	_	O
+10	ADDITION	addition	NN	_	15	dep	_	O
+11	ELLE	elle	NNP	pos2=NN	12	compound	_	O
+12	Spring	spring	NNP	pos2=NN	15	dep	_	B-DATE
+13	2017	0	CD	_	14	nmod	_	L-DATE
+14	Collection	collection	NN	pos2=NNP	15	dep	_	O
+15	https://t.co/pUmNnA3xNF	#hlink#	ADD	_	0	root	_	O
+

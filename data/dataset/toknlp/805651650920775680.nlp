@@ -1,0 +1,20 @@
+1	Maarvi	maarvi	NNP	pos2=NN	5	nsubj	_	U-PERSON
+2	and	and	CC	_	1	cc	_	O
+3	I	I	PRP	_	1	conj	_	O
+4	are	be	VBP	_	5	aux	_	O
+5	having	have	VBG	_	0	root	_	O
+6	a	a	DT	_	8	det	_	O
+7	Zac	zac	NNP	_	8	compound	_	B-PERSON
+8	Efron	efron	NNP	_	5	dobj	_	L-PERSON
+9	vs	vs	VBZ	pos2=IN	5	prep	_	O
+10	Ashley	ashley	NNP	_	11	compound	_	B-PERSON
+11	Tisdale	tisdale	NNP	_	9	dobj	_	L-PERSON
+12	on	on	IN	_	9	prep	_	O
+13	the	the	DT	_	16	det	_	B-ORG
+14	Suite	suite	NNP	pos2=NN	15	compound	_	I-ORG
+15	Life	life	NNP	pos2=NN	16	compound	_	L-ORG
+16	moment	moment	NN	_	12	pobj	_	O
+17	minus	minus	CC	pos2=IN	16	cc	_	O
+18	the	the	DT	_	19	det	_	O
+19	kiss	kiss	NN	_	16	conj	_	O
+

@@ -1,0 +1,21 @@
+1	1	0	CD	_	12	nsubj	_	U-CARDINAL
+2	of	of	IN	_	1	prep	_	O
+3	the	the	DT	_	5	det	_	O
+4	biggest	big	JJS	_	5	nmod	_	O
+5	trends	trend	NNS	_	2	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	this	this	DT	_	8	det	_	B-DATE
+8	year	year	NN	_	6	pobj	_	L-DATE
+9	2016	0	CD	_	11	nmod	_	O
+10	-	-	HYPH	pos2=:	11	punct	_	O
+11	winners	winner	NNS	_	12	nsubj	_	O
+12	have	have	VBP	_	0	root	_	O
+13	U	u	PRP	pos2=VBN	12	dobj	_	O
+14	in	in	IN	_	12	prep	_	O
+15	common	common	JJ	_	17	nmod	_	O
+16	-	-	HYPH	pos2=:	17	punct	_	O
+17	#Cubs	#cubs	NNS	pos2=NNP	14	pobj	_	O
+18	#Trump	#trump	NN	pos2=XX	19	compound	_	O
+19	#Bucks	#bucks	NNS	pos2=NNP	20	compound	_	O
+20	#Penguins	#penguins	NNS	pos2=ADD	17	appos	_	O
+

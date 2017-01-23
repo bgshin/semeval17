@@ -1,0 +1,19 @@
+1	Digital	digital	JJ	pos2=NNP	2	nmod	_	O
+2	labor	labor	NN	_	3	nsubj	_	O
+3	undercuts	undercut	VBZ	pos2=JJ	0	root	_	O
+4	minimum	minimum	JJ	pos2=NN	5	nmod	_	O
+5	wage	wage	NN	_	3	dobj	_	O
+6	,	,	,	_	3	punct	_	O
+7	#Robotic	#robotic	NNP	pos2=JJ	8	compound	_	O
+8	Process	process	NN	pos2=NNP	11	poss	_	O
+9	#Automation	#automation	POS	pos2=NN	8	case	_	O
+10	gains	gain	NNS	pos2=VBZ	11	compound	_	O
+11	traction	traction	NN	_	5	appos	_	O
+12	in	in	IN	_	11	prep	_	O
+13	#FinancialServices	#financialservices	NNS	pos2=NNP	12	pobj	_	O
+14	.	.	.	_	3	punct	_	O
+
+1	#FinTech	#fintech	GW	pos2=XX	3	nmod	_	O
+2	…	…	NFP	pos2=GW	3	punct	_	O
+3	https://t.co/1zvlYYdMMX	#hlink#	ADD	pos2=NN	0	root	_	O
+

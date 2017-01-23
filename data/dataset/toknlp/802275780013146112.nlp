@@ -1,0 +1,22 @@
+1	Japan	japan	NNP	_	2	nsubj	_	U-GPE
+2	prepares	prepare	VBZ	_	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	NUCLEAR	nuclear	JJ	pos2=NNP	5	nmod	_	O
+5	war	war	NN	_	3	pobj	_	O
+6	with	with	IN	_	5	prep	_	O
+7	North	north	NNP	_	8	compound	_	B-GPE
+8	Korea	korea	NNP	_	11	poss	_	I-GPE
+9	's	's	POS	_	8	case	_	L-GPE
+10	Genocidal	genocidal	JJ	pos2=NNP	11	nmod	_	O
+11	Dictator	dictator	NNP	pos2=NN	6	pobj	_	O
+12	,	,	,	_	2	punct	_	O
+13	"	"	``	_	2	punct	_	O
+14	Fat	fat	NNP	pos2=JJ	15	compound	_	O
+15	Bastard	bastard	NNP	pos2=NN	21	dep	_	O
+16	"	"	''	_	21	punct	_	O
+17	Kim	kim	NNP	_	20	compound	_	B-PERSON
+18	Jong	jong	NNP	_	20	compound	_	I-PERSON
+19	-	-	HYPH	pos2=GW	20	punct	_	I-PERSON
+20	Un	un	NNP	_	21	dep	_	L-PERSON
+21	https://t.co/Ap3jmI1ZRc	#hlink#	ADD	pos2=NN	2	dep	_	O
+

@@ -1,0 +1,25 @@
+1	How	how	WRB	_	3	advmod	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	feel	feel	VBP	_	0	root	_	O
+4	after	after	IN	_	7	mark	_	O
+5	post	post	AFX	pos2=NN	10	advmod	_	O
+6	#Thanksgiving	#thanksgiving	HYPH	pos2=VBG	7	advmod	_	O
+7	headed	head	VBN	pos2=VBD	3	advcl	_	O
+8	to	to	IN	pos2=TO	7	prep	_	O
+9	#BlackFriday	#blackfriday	NNP	pos2=HYPH	8	pobj	_	U-ORG
+10	looking	look	VBG	_	3	advcl	_	O
+11	for	for	IN	_	10	prep	_	O
+12	deals	deal	NNS	_	11	pobj	_	O
+13	and	and	CC	_	10	cc	_	O
+14	doing	do	VBG	_	10	conj	_	O
+15	my	my	PRP$	_	16	poss	_	O
+16	#cardio	#cardio	UH	pos2=NNS	14	dobj	_	O
+17	on	on	IN	pos2=RB	14	prep	_	O
+18	...	..	.	pos2=,	3	punct	_	O
+
+1	#Doyoueven	#doyoueven	NNP	pos2=VB	0	root	_	U-PERSON
+2	?	?	.	_	1	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/urB99xDDsU	#hlink#	ADD	pos2=NN	0	root	_	O
+

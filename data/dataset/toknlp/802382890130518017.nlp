@@ -1,0 +1,26 @@
+1	Obama	obama	NNP	_	4	nsubj	_	U-PERSON
+2	has	have	VBZ	_	4	aux	_	O
+3	already	already	RB	_	4	advmod	_	O
+4	put	put	VBN	pos2=VBD	16	ccomp	_	O
+5	his	his	PRP$	_	7	poss	_	O
+6	EVIL	evil	JJ	pos2=NN	7	nmod	_	O
+7	plan	plan	NN	_	4	dobj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	action	action	NN	_	8	pobj	_	O
+10	with	with	IN	_	9	prep	_	O
+11	George	george	NNP	_	12	compound	_	B-PERSON
+12	Soros	soros	NNP	_	10	pobj	_	L-PERSON
+13	,	,	,	_	16	punct	_	O
+14	you	you	PRP	_	16	nsubj	_	O
+15	must	must	MD	_	16	aux	_	O
+16	like	like	VB	_	0	root	_	O
+17	him	him	PRP	_	16	dobj	_	O
+18	if	if	IN	_	21	mark	_	O
+19	you	you	PRP	_	21	nsubj	_	O
+20	are	be	VBP	_	21	aux	_	O
+21	supporting	support	VBG	_	16	advcl	_	O
+22	this	this	DT	_	24	det	_	O
+23	EVIL	evil	JJ	pos2=NN	24	nmod	_	O
+24	…	…	NFP	pos2=-LRB-	21	dobj	_	O
+25	https://t.co/ccKki1l3Z5	#hlink#	ADD	_	21	dobj	_	O
+

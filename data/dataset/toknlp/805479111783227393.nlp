@@ -1,0 +1,24 @@
+1	@wxtermelon	@wxtermelon	UH	pos2=XX	4	discourse	_	O
+2	@inezfmerritt	@inezfmerritt	UH	pos2=WP	4	discourse	_	O
+3	i	I	PRP	_	4	nsubj	_	O
+4	used	use	VBD	_	0	root	_	O
+5	that	that	DT	pos2=IN	4	dobj	_	O
+6	as	as	IN	_	4	prep	_	O
+7	a	a	DT	_	6	pobj	_	O
+8	for	for	IN	pos2=JJ	7	prep	_	O
+9	animal	animal	NN	_	10	compound	_	O
+10	testing	testing	NN	_	8	pobj	_	O
+11	,	,	,	_	4	punct	_	O
+12	broke	break	VBD	_	4	conj	_	O
+13	my	my	PRP$	_	14	poss	_	O
+14	heart	heart	NN	_	12	dobj	_	O
+15	though	though	RB	pos2=IN	12	advmod	_	O
+16	as	as	IN	_	19	mark	_	O
+17	i	I	PRP	_	19	nsubj	_	O
+18	completely	completely	RB	_	19	advmod	_	O
+19	disagree	disagree	VBP	pos2=VB	12	advcl	_	O
+20	!!	!!	.	_	4	punct	_	O
+
+1	:(	:(	NFP	pos2=SYM	2	punct	_	O
+2	xx	xx	NN	pos2=UH	0	root	_	O
+

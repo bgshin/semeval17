@@ -1,0 +1,15 @@
+1	At	at	IN	_	14	prep	_	O
+2	Any	any	DT	pos2=NNP	7	det	_	O
+3	Price	price	NN	pos2=NNP	4	compound	_	O
+4	review	review	NN	_	6	compound	_	O
+5	–	-	HYPH	pos2=:	6	punct	_	O
+6	generations	generation	NNS	_	7	compound	_	O
+7	clash	clash	NN	pos2=VBP	1	pobj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	the	the	DT	_	11	det	_	O
+10	American	american	JJ	pos2=NNP	11	nmod	_	U-NORP
+11	midwest	midwest	NN	pos2=GW	8	pobj	_	O
+12	#ZacEfron	#zacefron	GW	pos2=ADD	14	nmod	_	O
+13	https://t.co/xnS8vmIWj3	#hlink#	ADD	_	14	nmod	_	O
+14	https://t.co/SF6r47rbHX	#hlink#	ADD	_	0	root	_	U-ORG
+

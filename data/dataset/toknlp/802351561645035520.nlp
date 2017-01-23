@@ -1,0 +1,12 @@
+1	Steve	steve	NNP	_	2	compound	_	B-PERSON
+2	Bannon	bannon	NNP	_	3	nsubj	_	L-PERSON
+3	Lays	lay	VBZ	_	0	root	_	O
+4	Out	out	RP	pos2=NNP	3	prt	_	O
+5	His	his	PRP$	_	8	poss	_	O
+6	AMAZING	amazing	JJ	_	8	nmod	_	O
+7	Political	political	NNP	pos2=JJ	8	compound	_	O
+8	Philosophy	philosophy	NNP	pos2=NN	3	dobj	_	O
+9	https://t.co/wDjQJOxPpF	#hlink#	ADD	_	8	appos	_	O
+10	via	via	IN	_	3	prep	_	O
+11	@YouTube	@youtube	NNP	pos2=NN	10	pobj	_	O
+

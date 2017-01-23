@@ -1,0 +1,21 @@
+1	@truthglow	@truthglow	UH	pos2=XX	4	discourse	_	O
+2	@WMoulthrope	@wmoulthrope	ADD	pos2=NN	4	punct	_	O
+3	@katalin_pota	@katalin_pota	NNP	pos2=UH	4	compound	_	U-ORG
+4	@SenWarren2020	@senwarren0	NN	pos2=ADD	0	root	_	O
+5	@elizabethforma	@elizabethforma	UH	pos2=NN	4	discourse	_	O
+6	@SenatorWarren	@senatorwarren	NNP	pos2=UH	8	compound	_	O
+7	He	he	NNP	pos2=PRP	8	compound	_	O
+8	Comey	comey	NNP	_	9	nsubj	_	U-PERSON
+9	is	be	VBZ	_	4	relcl	_	O
+10	a	a	DT	_	11	det	_	O
+11	pawn	pawn	NN	_	9	attr	_	O
+12	.	.	.	_	9	punct	_	O
+
+1	Yankd	yankd	NNP	pos2=VBN	0	root	_	U-GPE
+2	by	by	IN	_	1	prep	_	O
+3	DOJ	doj	NNP	_	2	pobj	_	U-ORG
+4	and	and	CC	_	3	cc	_	O
+5	his	his	PRP$	_	7	poss	_	O
+6	FBI	fbi	NNP	_	7	compound	_	U-ORG
+7	uproar	uproar	NN	_	3	conj	_	O
+

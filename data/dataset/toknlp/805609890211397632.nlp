@@ -1,0 +1,11 @@
+1	https://t.co/6W6tzNPXPz	#hlink#	ADD	_	9	discourse	_	U-ORG
+2	this	this	DT	_	3	det	_	O
+3	picture	picture	NN	_	9	nsubj	_	O
+4	drawn	draw	VBN	_	3	acl	_	O
+5	by	by	IN	_	4	agent	_	O
+6	muhammad	muhammad	NNP	pos2=NN	7	compound	_	B-PERSON
+7	ali	ali	NNP	pos2=NN	5	pobj	_	L-PERSON
+8	is	be	VBZ	_	9	aux	_	O
+9	KILLING	kill	VBG	_	0	root	_	O
+10	ME	me	PRP	pos2=NNP	9	dobj	_	O
+

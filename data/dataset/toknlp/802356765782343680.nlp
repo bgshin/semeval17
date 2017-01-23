@@ -1,0 +1,35 @@
+1	Quick	quick	JJ	pos2=NNP	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	Do	do	VB	pos2=VBP	0	root	_	O
+2	one	#crd#	CD	_	1	dobj	_	U-CARDINAL
+3	of	of	IN	_	2	prep	_	O
+4	those	those	DT	_	10	det	_	O
+5	on	on	IN	_	10	nmod	_	O
+6	-	-	HYPH	_	5	punct	_	O
+7	the	the	DT	pos2=FW	9	det	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	street	street	NN	_	5	pobj	_	O
+10	things	thing	NNS	_	3	pobj	_	O
+11	where	where	WRB	_	13	advmod	_	O
+12	you	you	PRP	_	13	nsubj	_	O
+13	ask	ask	VBP	_	10	relcl	_	O
+14	random	random	JJ	_	15	nmod	_	O
+15	people	people	NNS	_	13	dobj	_	O
+16	if	if	IN	_	19	mark	_	O
+17	we	we	PRP	_	19	nsubj	_	O
+18	should	should	MD	_	19	aux	_	O
+19	pull	pull	VB	_	1	advcl	_	O
+20	out	out	IN	pos2=RP	19	prep	_	O
+21	of	of	IN	_	20	prep	_	O
+22	TPP	tpp	NN	pos2=NNP	21	pobj	_	O
+23	and	and	CC	_	19	cc	_	O
+24	then	then	RB	_	25	advmod	_	O
+25	ask	ask	VB	_	19	conj	_	O
+26	them	them	PRP	_	25	dobj	_	O
+27	what	what	WP	_	30	pobj	_	O
+28	it	it	PRP	_	29	nsubj	_	O
+29	stands	stand	VBZ	_	25	ccomp	_	O
+30	for	for	IN	_	29	prep	_	O
+31	!	!	.	_	1	punct	_	O
+

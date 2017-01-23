@@ -1,0 +1,17 @@
+1	EPA	epa	NNP	_	2	nsubj	_	U-ORG
+2	Hits	hit	VBZ	pos2=NNS	0	root	_	O
+3	ND	nd	NNP	pos2=NN	5	compound	_	B-ORG
+4	Fracking	fracking	NNP	pos2=NN	5	compound	_	I-ORG
+5	Company	company	NNP	_	2	dobj	_	L-ORG
+6	With	with	IN	_	2	prep	_	O
+7	$	$	$	_	9	qmod	_	B-MONEY
+8	2	0	CD	_	9	compound	_	I-MONEY
+9	Million	#crd#	CD	pos2=NNP	10	nmod	_	L-MONEY
+10	Fine	fine	NNP	pos2=JJ	6	pobj	_	O
+11	for	for	IN	_	2	prep	_	O
+12	Polluting	pollute	VBG	pos2=NNP	11	pcomp	_	O
+13	Reservation	reservation	NNP	pos2=GW	16	nmod	_	O
+14	Land	land	GW	pos2=NNP	15	nmod	_	O
+15	https://t.co/49Tyk4NrgN	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/BsGWZJXUE1	#hlink#	ADD	_	12	dobj	_	O
+

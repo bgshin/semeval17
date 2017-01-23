@@ -1,0 +1,19 @@
+1	@CelineAzertio	@celineazertio	ADD	pos2=NN	5	det	_	O
+2	L’Oréal	l'oréal	NNP	pos2=UH	0	root	_	U-ORG
+3	no	no	RB	_	4	neg	_	O
+4	longer	long	JJR	pos2=RBR	5	nmod	_	O
+5	tests	test	NNS	pos2=VBZ	2	dobj	_	O
+6	on	on	IN	_	5	prep	_	O
+7	animals	animal	NNS	_	6	pobj	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	Please	please	UH	_	2	discourse	_	O
+2	see	see	VB	_	0	root	_	O
+3	this	this	DT	_	4	det	_	O
+4	link	link	NN	_	2	dobj	_	O
+5	for	for	IN	_	2	prep	_	O
+6	more	more	JJR	_	7	nmod	_	O
+7	information	information	NN	_	5	pobj	_	O
+8	:	:	:	_	2	punct	_	O
+9	https://t.co/QbK1pCwJ7v.	#hlink#	ADD	_	2	dep	_	O
+

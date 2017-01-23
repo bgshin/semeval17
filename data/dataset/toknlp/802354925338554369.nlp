@@ -1,0 +1,23 @@
+1	Breaking	breaking	NN	pos2=VBG	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	Trump	trump	NNP	pos2=NN	5	nsubj	_	U-ORG
+4	has	have	VBZ	_	5	aux	_	O
+5	announced	announce	VBN	_	0	root	_	O
+6	his	his	PRP$	_	7	poss	_	O
+7	Ambassador	ambassador	NNP	pos2=NN	8	compound	_	O
+8	pick	pick	NN	pos2=VB	5	dobj	_	O
+9	to	to	IN	_	5	prep	_	O
+10	Benghazi	benghazi	NNP	_	9	pobj	_	U-GPE
+11	,	,	,	_	10	punct	_	O
+12	Libya	libya	NNP	_	10	appos	_	U-GPE
+13	.	.	.	_	5	punct	_	O
+
+1	Former	former	JJ	_	2	nmod	_	O
+2	Secretary	secretary	NNP	_	8	nmod	_	O
+3	of	of	IN	_	2	prep	_	O
+4	State	state	NNP	_	3	pobj	_	U-ORG
+5	Hillary	hillary	NNP	_	8	compound	_	O
+6	Diane	diane	NNP	_	8	compound	_	B-PERSON
+7	Rodham	rodham	NNP	_	8	compound	_	L-PERSON
+8	Clinton#Transition	clinton#transition	NNP	_	0	root	_	O
+

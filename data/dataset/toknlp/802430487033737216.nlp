@@ -1,0 +1,20 @@
+1	Honored	honor	VBN	_	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	represent	represent	VB	_	1	xcomp	_	O
+4	@Seedstars	@seedstars	NNS	pos2=NNP	3	dobj	_	O
+5	2	0	CD	_	9	nmod	_	U-CARDINAL
+6	discuss	discuss	VB	pos2=VBP	3	conj	_	O
+7	Robots	robot	NNS	_	6	dobj	_	O
+8	,	,	,	_	7	punct	_	O
+9	Materials	material	NNS	pos2=NNPS	7	conj	_	O
+10	,	,	,	_	9	punct	_	O
+11	Energy	energy	NNP	pos2=NN	9	conj	_	B-ORG
+12	&	&	CC	_	11	cc	_	I-ORG
+13	Agriculture	agriculture	NNP	pos2=NN	11	conj	_	L-ORG
+14	at	at	IN	_	6	prep	_	O
+15	XI	xi	NNP	_	17	compound	_	B-ORG
+16	Innovation	innovation	NNP	_	17	compound	_	I-ORG
+17	Congress	congress	NNP	_	14	pobj	_	L-ORG
+18	#sswcee	#sswcee	IN	pos2=POS	6	prep	_	O
+19	https://t.co/dBA87tr1Wd	#hlink#	ADD	_	18	pobj	_	U-GPE
+

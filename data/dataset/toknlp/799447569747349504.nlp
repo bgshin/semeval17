@@ -1,0 +1,26 @@
+1	North	north	NNP	_	2	compound	_	B-GPE
+2	Korea	korea	NNP	_	5	nsubj	_	L-GPE
+3	is	be	VBZ	_	5	aux	_	O
+4	literally	literally	RB	_	5	advmod	_	O
+5	begging	beg	VBG	_	0	root	_	O
+6	China	china	NNP	_	5	dobj	_	U-GPE
+7	to	to	TO	_	8	aux	_	O
+8	stop	stop	VB	_	5	xcomp	_	O
+9	calling	call	VBG	_	8	xcomp	_	O
+10	Kim	kim	NNP	_	12	compound	_	O
+11	Jong	jong	NNP	_	12	compound	_	O
+12	Un	un	NNP	_	9	dobj	_	O
+13	"	"	''	pos2=``	14	punct	_	O
+14	Kim	kim	NNP	_	15	compound	_	B-PERSON
+15	Fatty	fatty	NNP	_	12	conj	_	L-PERSON
+16	the	the	DT	_	17	det	_	O
+17	Third	#ord#	NNP	pos2=JJ	15	appos	_	U-ORDINAL
+18	.	.	.	_	5	punct	_	O
+19	"	"	''	_	5	punct	_	O
+
+1	Politics	politics	NNS	_	0	root	_	O
+2	at	at	IN	_	1	prep	_	O
+3	its	its	PRP$	_	4	poss	_	O
+4	finest	fine	JJS	_	2	pobj	_	O
+5	.	.	.	_	1	punct	_	O
+

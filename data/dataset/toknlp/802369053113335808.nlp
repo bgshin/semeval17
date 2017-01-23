@@ -1,0 +1,14 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@StephenBannon	@stephenbannon	NN	pos2=ADD	2	nsubj	_	O
+2	has	have	VBZ	_	6	aux	_	O
+3	no	no	DT	_	4	det	_	O
+4	problem	problem	NN	_	2	dobj	_	O
+5	being	be	VBG	_	6	auxpass	_	O
+6	compared	compare	VBN	_	0	root	_	O
+7	to	to	IN	_	6	prep	_	O
+8	satan	satan	NN	pos2=NNS	7	pobj	_	O
+9	:	:	:	_	11	punct	_	O
+10	https://t.co/64k7kjXFAi	#hlink#	ADD	_	11	nmod	_	O
+11	https://t.co/TtkmMs5erj	#hlink#	ADD	_	0	root	_	U-ORG
+

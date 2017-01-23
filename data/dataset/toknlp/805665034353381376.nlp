@@ -1,0 +1,25 @@
+1	No	no	UH	_	9	discourse	_	O
+2	,	,	,	_	9	punct	_	O
+3	the	the	DT	_	6	det	_	B-ORG
+4	Pew	pew	NNP	_	5	compound	_	I-ORG
+5	Center	center	NNP	_	6	compound	_	L-ORG
+6	study	study	NN	_	9	nsubj	_	O
+7	did	do	VBD	_	9	aux	_	O
+8	not	not	RB	_	9	neg	_	O
+9	show	show	VB	_	0	root	_	O
+10	evidence	evidence	NN	_	9	dobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	voter	voter	NN	_	13	compound	_	O
+13	fraud	fraud	NN	_	11	pobj	_	O
+14	.	.	.	_	9	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	about	about	IN	pos2=JJ	2	prep	_	O
+4	problems	problem	NNS	_	3	pobj	_	O
+5	with	with	IN	_	4	prep	_	O
+6	voter	voter	NN	_	7	compound	_	O
+7	registration	registration	NN	_	8	compound	_	O
+8	systems	system	NNS	_	5	pobj	_	O
+9	https://t.co/NJS6sO7ybT	#hlink#	ADD	_	6	appos	_	O
+

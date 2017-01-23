@@ -1,0 +1,26 @@
+1	#Syria	#syria	NN	pos2=NNS	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	Regime	regime	NN	pos2=NNP	5	nmod	_	O
+4	+	+	SYM	pos2=-RRB-	6	punct	_	O
+5	#Hezbollah	#hezbollah	NNP	pos2=NN	6	nsubj	_	O
+6	broke	break	VBD	_	0	root	_	O
+7	the	the	DT	_	9	det	_	O
+8	ceasefire	ceasefire	NN	_	9	compound	_	O
+9	agreement	agreement	NN	_	6	dobj	_	O
+10	for	for	IN	_	9	prep	_	O
+11	#AlTall	#altall	JJ	pos2=NNP	12	nmod	_	O
+12	area	area	NN	_	10	pobj	_	O
+13	in	in	IN	_	12	prep	_	O
+14	north	north	NN	pos2=RB	13	pobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	#Damascus	#damascus	NNP	pos2=NN	15	pobj	_	U-GPE
+17	,	,	,	_	6	punct	_	O
+18	and	and	CC	_	6	cc	_	O
+19	launched	launch	VBD	_	6	conj	_	O
+20	a	a	DT	_	24	det	_	O
+21	large	large	JJ	_	23	nmod	_	O
+22	-	-	HYPH	_	23	punct	_	O
+23	scale	scale	NN	_	24	compound	_	O
+24	offensive	offensive	NN	_	19	dobj	_	O
+25	.	.	.	_	6	punct	_	O
+

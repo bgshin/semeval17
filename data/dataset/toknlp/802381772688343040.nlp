@@ -1,0 +1,24 @@
+1	The	the	DT	_	3	det	_	O
+2	forced	force	VBN	_	3	nmod	_	O
+3	alliance	alliance	NN	_	9	nsubj	_	O
+4	between	between	IN	_	3	prep	_	O
+5	Western	western	JJ	_	6	nmod	_	U-NORP
+6	leftists	leftist	NNS	_	4	pobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	Muslims	muslim	NNPS	_	6	conj	_	U-NORP
+9	is	be	VBZ	_	0	root	_	O
+10	total	total	JJ	_	13	nmod	_	O
+11	and	and	CC	_	10	cc	_	O
+12	utter	utter	JJ	_	10	conj	_	O
+13	shit	shit	NN	_	9	attr	_	O
+14	.	.	.	_	9	punct	_	O
+
+1	Read	read	VB	pos2=VBD	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	comments	comment	NNS	_	1	dobj	_	O
+4	to	to	IN	_	3	prep	_	O
+5	this	this	DT	_	7	det	_	O
+6	innocuo	innocuo	FW	pos2=JJ	8	nmod	_	O
+7	…	…	NFP	pos2=-LRB-	8	punct	_	O
+8	https://t.co/dU9MVWHevR	#hlink#	ADD	_	4	pobj	_	O
+

@@ -1,0 +1,20 @@
+1	Scaremongering	scaremongering	NN	pos2=VBG	18	dep	_	O
+2	-	-	:	pos2=HYPH	18	punct	_	O
+3	Its	its	NNP	pos2=NNPS	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	best	good	JJS	_	7	nmod	_	O
+7	interests	interest	NNS	_	4	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	UK	uk	NNP	_	8	pobj	_	B-ORG
+10	&	&	CC	_	9	cc	_	I-ORG
+11	EU	eu	NNP	pos2=NN	9	conj	_	L-ORG
+12	to	to	TO	_	13	aux	_	O
+13	share	share	VB	_	18	advcl	_	O
+14	info	info	NN	_	13	dobj	_	O
+15	&	&	CC	_	13	cc	_	O
+16	it	it	PRP	_	18	nsubj	_	O
+17	won`t	won`t	MD	pos2=VBD	18	aux	_	O
+18	stop	stop	VB	_	0	root	_	O
+19	https://t.co/zIXYcWDntg	#hlink#	ADD	pos2=RP	18	dobj	_	U-ORG
+

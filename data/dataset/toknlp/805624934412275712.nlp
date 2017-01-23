@@ -1,0 +1,28 @@
+1	@miss_svmmer	@miss_svmmer	IN	pos2=NN	3	mark	_	O
+2	they	they	PRP	_	3	nsubj	_	O
+3	are	be	VBP	_	9	advcl	_	O
+4	,	,	,	_	9	punct	_	O
+5	i	I	PRP	_	9	nsubj	_	O
+6	ca	can	MD	_	9	aux	_	O
+7	n't	not	RB	_	9	neg	_	O
+8	even	even	RB	_	9	advmod	_	O
+9	wear	wear	VB	_	0	root	_	O
+10	them	them	PRP	_	9	dative	_	O
+11	more	more	JJR	pos2=RBR	9	dobj	_	B-DATE
+12	than	than	IN	_	11	prep	_	I-DATE
+13	a	a	DT	_	14	det	_	I-DATE
+14	day	day	NN	_	12	pobj	_	L-DATE
+15	.	.	.	_	9	punct	_	O
+
+1	&	&	CC	_	3	cc	_	O
+2	Revlon	revlon	NNP	_	3	nsubj	_	U-ORG
+3	does	do	VBZ	_	0	root	_	O
+4	animal	animal	NN	pos2=VB	5	compound	_	O
+5	testing	testing	NN	_	3	dobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	Any	any	DT	_	3	det	_	O
+2	other	other	JJ	_	3	nmod	_	O
+3	brands	brand	NNS	_	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+

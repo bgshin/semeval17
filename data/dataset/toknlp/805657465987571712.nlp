@@ -1,0 +1,12 @@
+1	International	international	NNP	pos2=JJ	2	compound	_	B-ORG
+2	Journal	journal	NNP	_	11	dep	_	I-ORG
+3	of	of	IN	_	2	prep	_	I-ORG
+4	Vaccines	vaccine	NNS	pos2=NNP	3	pobj	_	L-ORG
+5	and	and	CC	_	4	cc	_	O
+6	Rese	rese	NNP	pos2=GW	11	dep	_	B-ORG
+7	archhttps://t.co/aLk7HawiBo#SciDocPublishers	#hlink#	ADD	pos2=VBP	11	dep	_	L-ORG
+8	#vaccines	#vaccines	NNS	pos2=VBZ	11	nmod	_	O
+9	#influenza	#influenza	GW	pos2=UH	11	nmod	_	O
+10	…	…	NFP	pos2=GW	11	punct	_	O
+11	https://t.co/UI3zST9tia	#hlink#	ADD	pos2=NN	0	root	_	O
+

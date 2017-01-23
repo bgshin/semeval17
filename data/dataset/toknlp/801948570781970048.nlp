@@ -1,0 +1,18 @@
+1	Crush	crush	VB	pos2=NN	6	advcl	_	O
+2	#fears	#fears	UH	pos2=NNS	1	discourse	_	O
+3	,	,	,	_	6	punct	_	O
+4	you	you	PRP	_	6	nsubj	_	O
+5	can	can	MD	_	6	aux	_	O
+6	be	be	VB	_	0	root	_	O
+7	#unstoppable	#unstoppable	JJ	pos2=ADD	6	acomp	_	O
+8	!	!	.	_	6	punct	_	O
+
+1	Discover	discover	VB	pos2=VBP	0	root	_	O
+2	the	the	DT	_	8	dep	_	O
+3	10	0	CD	_	8	dep	_	U-CARDINAL
+4	#secrets#DominatingYourMind	#secrets#dominatingyourmind	XX	pos2=NNS	8	dep	_	O
+5	@nytimes	@nytimes	NNS	pos2=IN	8	nmod	_	O
+6	#DYM	#dym	GW	pos2=XX	8	nmod	_	B-PERSON
+7	#NBAwards	#nbawards	GW	pos2=ADD	8	nmod	_	L-PERSON
+8	https://t.co/GkOUmepYJu	#hlink#	ADD	pos2=NN	1	dobj	_	O
+

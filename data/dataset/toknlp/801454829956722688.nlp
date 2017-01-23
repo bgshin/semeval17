@@ -1,0 +1,25 @@
+1	@friendofjeremy	@friendofjeremy	UH	pos2=NN	4	discourse	_	O
+2	@downbeat63	@downbeat0	PRP$	pos2=NN	3	poss	_	O
+3	Mass	mass	NN	pos2=NNP	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	already	already	RB	_	4	advmod	_	O
+6	behind	behind	IN	pos2=RB	4	prep	_	O
+7	Corbyn	corbyn	NNP	_	6	pobj	_	U-PERSON
+8	,	,	,	_	4	punct	_	O
+9	but	but	CC	_	4	cc	_	O
+10	he	he	PRP	_	11	nsubj	_	O
+11	continues	continue	VBZ	_	4	conj	_	O
+12	to	to	TO	_	13	aux	_	O
+13	appease	appease	VB	_	11	xcomp	_	O
+14	the	the	DT	_	15	det	_	O
+15	Blairites	blairites	NNPS	pos2=NNP	13	dobj	_	O
+16	.	.	.	_	11	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	rightists	rightist	NNS	_	5	nsubjpass	_	O
+3	must	must	MD	_	5	aux	_	O
+4	be	be	VB	_	5	auxpass	_	O
+5	kicked	kick	VBN	_	0	root	_	O
+6	out	out	RP	_	5	prt	_	O
+7	.	.	.	_	5	punct	_	O
+

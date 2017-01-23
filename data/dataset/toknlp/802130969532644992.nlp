@@ -1,0 +1,17 @@
+1	UK	uk	NNP	_	3	nsubj	_	U-GPE
+2	'	'	''	pos2=``	1	punct	_	O
+3	about	about	IN	pos2=RB	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	repeat	repeat	VB	_	3	xcomp	_	O
+6	#Libya	#libya	NNP	pos2=IN	7	compound	_	O
+7	mistakes	mistake	NNS	_	5	dobj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	#Mosul	#mosul	NNP	_	8	pobj	_	U-PERSON
+10	'	'	''	pos2=POS	3	punct	_	O
+11	,	,	,	_	12	punct	_	O
+12	warns	warn	VBZ	_	0	root	_	O
+13	Crispin	crispin	NNP	_	16	nmod	_	B-PERSON
+14	B	b	GW	pos2=NNP	16	nmod	_	L-PERSON
+15	lunthttps://t.co/08Us0CLEw9	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/kplbxOp7Os	#hlink#	ADD	_	12	dobj	_	U-ORG
+

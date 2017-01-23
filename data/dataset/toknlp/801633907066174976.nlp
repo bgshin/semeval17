@@ -1,0 +1,11 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	would	would	MD	_	3	aux	_	O
+3	LOVE	love	VB	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	give	give	VB	_	3	xcomp	_	O
+6	Grayson	grayson	NNP	_	7	compound	_	B-PERSON
+7	Allen	allen	NNP	_	5	dative	_	L-PERSON
+8	a	a	DT	_	10	det	_	O
+9	fake	fake	JJ	pos2=NN	10	nmod	_	O
+10	number	number	NN	_	5	dobj	_	O
+

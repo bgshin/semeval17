@@ -1,0 +1,17 @@
+1	Putin	putin	NNP	_	2	nsubj	_	U-PERSON
+2	called	call	VBD	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	government	government	NN	_	2	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Saakashvili	saakashvili	NNP	_	5	pobj	_	U-PERSON
+7	an	an	DT	_	8	det	_	O
+8	insult	insult	NN	_	2	oprd	_	O
+9	to	to	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	citizens	citizen	NNS	_	9	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	Odessa	odessa	NNP	_	12	pobj	_	O
+14	https://t.co/jox02n9ahM	#hlink#	ADD	pos2=NNP	8	appos	_	O
+15	#news	#news	-RRB-	pos2=VBZ	16	punct	_	O
+16	#Russia	#russia	NNP	pos2=NN	2	oprd	_	O
+

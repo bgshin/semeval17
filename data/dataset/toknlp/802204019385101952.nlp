@@ -1,0 +1,19 @@
+1	🏀	🏀	SYM	pos2=NNP	8	punct	_	O
+2	Descans	descans	NNPS	pos2=NNP	8	nmod	_	O
+3	/	/	SYM	pos2=HYPH	2	punct	_	O
+4	Half	half	JJ	pos2=NN	6	nmod	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	time	time	NN	_	8	nmod	_	O
+7	/	/	SYM	pos2=HYPH	8	punct	_	O
+8	Descanso	descanso	NN	pos2=NNP	10	dep	_	O
+9	:	:	:	_	10	punct	_	O
+10	@GSBasketbol	@gsbasketbol	NN	pos2=NNP	0	root	_	O
+11	,	,	,	_	10	punct	_	O
+12	39	0	CD	_	10	npadvmod	_	U-CARDINAL
+13	-	-	:	pos2=HYPH	14	punct	_	O
+14	@FCBbasket	@fcbbasket	NN	pos2=NNS	10	appos	_	O
+15	,	,	,	_	14	punct	_	O
+16	35	0	CD	_	18	nmod	_	U-CARDINAL
+17	#fcblive	#fcblive	XX	pos2=NNS	18	nmod	_	O
+18	#GSOFCB	#gsofcb	NN	pos2=NNS	14	npadvmod	_	O
+

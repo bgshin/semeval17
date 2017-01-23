@@ -1,0 +1,20 @@
+1	@PwC_IN	@pwc_in	NNP	pos2=NN	2	compound	_	B-ORG
+2	Automation	automation	NNP	pos2=NN	0	root	_	L-ORG
+3	,	,	,	_	2	punct	_	O
+4	Cloud	cloud	NNP	_	2	conj	_	U-GPE
+5	,	,	,	_	4	punct	_	O
+6	AR	ar	NNP	pos2=NN	4	conj	_	U-ORG
+7	,	,	,	_	6	punct	_	O
+8	3	0	CD	_	10	nmod	_	U-CARDINAL
+9	D	d	NNP	pos2=NN	10	compound	_	O
+10	Printing	printing	NNP	pos2=NN	6	conj	_	O
+11	,	,	,	_	10	punct	_	O
+12	Mobility	mobility	NN	pos2=NNP	10	conj	_	O
+13	,	,	,	_	12	punct	_	O
+14	Bots	bot	NNS	pos2=NNPS	12	conj	_	O
+15	,	,	,	_	14	punct	_	O
+16	IOT	iot	NN	pos2=NNP	14	conj	_	U-ORG
+17	,	,	,	_	16	punct	_	O
+18	Analytics	analytics	NNP	pos2=NNS	19	compound	_	B-ORG
+19	#TechMegatrend	#techmegatrend	NNP	pos2=NN	16	conj	_	L-ORG
+

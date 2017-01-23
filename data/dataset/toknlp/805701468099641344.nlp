@@ -1,0 +1,16 @@
+1	Yeah	yeah	UH	_	6	discourse	_	O
+2	where	where	WRB	_	4	advmod	_	O
+3	's	's	VBZ	pos2=AFX	6	aux	_	O
+4	season	season	NN	_	6	npadvmod	_	O
+5	2	0	CD	_	4	nmod	_	U-CARDINAL
+6	gon	gon	VBG	pos2=XX	0	root	_	O
+7	na	to	TO	pos2=PRP	8	aux	_	O
+8	go	go	VB	_	6	xcomp	_	O
+9	?	?	.	_	6	punct	_	O
+
+1	Incredible	incredible	JJ	_	5	nmod	_	O
+2	season	season	NN	_	3	compound	_	O
+3	finale	finale	NN	pos2=JJ	4	compound	_	O
+4	yo	yo	NN	pos2=JJ	5	compound	_	O
+5	#WestWorld	#westworld	NN	pos2=XX	0	root	_	O
+

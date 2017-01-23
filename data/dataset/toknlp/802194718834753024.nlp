@@ -1,0 +1,20 @@
+1	Good	good	JJ	pos2=NNP	2	nmod	_	O
+2	#Thankgiving	#thankgiving	NNP	pos2=NN	3	nsubj	_	U-PERSON
+3	listens	listen	VBZ	pos2=NNS	0	root	_	O
+4	..	..	.	pos2=,	3	punct	_	O
+
+1	on	on	IN	_	0	root	_	O
+2	Native	native	JJ	pos2=NNP	4	nmod	_	B-NORP
+3	American	american	JJ	_	4	nmod	_	L-NORP
+4	spirituality	spirituality	NN	_	1	pobj	_	O
+5	and	and	CC	_	4	cc	_	O
+6	the	the	DT	_	8	det	_	O
+7	Dakota	dakota	NNP	_	8	compound	_	O
+8	Access	access	NNP	pos2=NN	10	poss	_	O
+9	#Pipeline	#pipeline	POS	pos2=NNP	8	case	_	O
+10	protest	protest	NN	_	4	conj	_	O
+11	.	.	.	_	1	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/gxuWWTueWp	#hlink#	ADD	pos2=NN	0	root	_	O
+

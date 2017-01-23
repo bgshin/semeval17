@@ -1,0 +1,19 @@
+1	Ayyyyeeeee	ayyyyeeeee	NNP	pos2=DT	2	compound	_	B-DATE
+2	Thanksgiving	thanksgiving	NNP	_	0	root	_	I-DATE
+3	2016	0	CD	_	2	npadvmod	_	L-DATE
+4	in	in	IN	_	2	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	books	book	NNS	_	4	pobj	_	O
+7	!	!	.	_	2	punct	_	O
+
+1	Good	good	JJ	_	2	nmod	_	O
+2	time	time	NN	_	10	dep	_	O
+3	good	good	JJ	_	4	nmod	_	O
+4	time	time	NN	_	5	compound	_	O
+5	#mannequinchallenge	#mannequinchallenge	NN	pos2=ADD	2	vocative	_	O
+6	@	@	SYM	pos2=IN	8	punct	_	O
+7	New	new	NNP	_	8	compound	_	B-GPE
+8	Orleans	orleans	NNP	pos2=GW	10	dep	_	L-GPE
+9	…	…	NFP	pos2=:	10	punct	_	O
+10	https://t.co/NaW9zObgqS	#hlink#	ADD	_	0	root	_	U-GPE
+

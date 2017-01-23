@@ -1,0 +1,9 @@
+1	Postcard	postcard	NN	pos2=JJ	2	compound	_	O
+2	stamps	stamp	NNS	_	4	nsubj	_	O
+3	can	can	MD	_	4	aux	_	O
+4	add	add	VB	_	0	root	_	O
+5	value	value	NN	_	4	dobj	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	https://t.co/h12gkMzzOV	#hlink#	ADD	_	0	root	_	U-ORG
+

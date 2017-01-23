@@ -1,0 +1,13 @@
+1	Fracking	fracking	NN	pos2=NNP	2	nsubj	_	O
+2	found	find	VBN	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	cause	cause	VB	_	2	xcomp	_	O
+5	quakes	quake	NNS	_	4	dobj	_	O
+6	|	|	NFP	pos2=SYM	12	punct	_	O
+7	Otago	otago	NNP	_	12	dep	_	B-ORG
+8	Daily	daily	NNP	_	11	compound	_	I-ORG
+9	Times	times	NNP	_	11	compound	_	I-ORG
+10	Online	online	NNP	_	11	compound	_	I-ORG
+11	News	news	NNP	_	12	dep	_	L-ORG
+12	https://t.co/pbARZiYDjJ	#hlink#	ADD	_	2	dep	_	O
+

@@ -1,0 +1,27 @@
+1	@PPact	@ppact	ADD	pos2=NN	4	punct	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	'm	be	VBP	_	4	aux	_	O
+4	raising	raise	VBG	_	0	root	_	O
+5	$	$	$	_	4	punct	_	O
+6	for	for	IN	_	4	prep	_	O
+7	a	a	DT	_	9	det	_	O
+8	new	new	JJ	_	9	nmod	_	O
+9	film	film	NN	_	6	pobj	_	O
+10	on	on	IN	_	9	prep	_	O
+11	abortion	abortion	NN	_	12	compound	_	O
+12	rights	right	NNS	_	10	pobj	_	O
+13	in	in	IN	_	9	prep	_	O
+14	Red	red	NNP	pos2=JJ	15	compound	_	B-GPE
+15	States	state	NNP	pos2=NNPS	13	pobj	_	L-GPE
+16	+	+	SYM	pos2=POS	15	punct	_	O
+17	TRAP	trap	NN	_	18	compound	_	O
+18	laws	law	NNS	_	26	dep	_	O
+19	that	that	WDT	_	21	nsubj	_	O
+20	are	be	VBP	_	21	aux	_	O
+21	putting	put	VBG	_	18	relcl	_	O
+22	women	woman	NNS	_	21	dobj	_	O
+23	at	at	IN	_	21	prep	_	O
+24	risk	risk	NN	_	23	pobj	_	O
+25	-	-	:	pos2=HYPH	26	punct	_	O
+26	https://t.co/vhvb2bheYP	#hlink#	ADD	pos2=NN	4	dep	_	O
+

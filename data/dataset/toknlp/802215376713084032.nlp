@@ -1,0 +1,24 @@
+1	It	it	PRP	_	3	nsubj	_	O
+2	's	's	VBZ	_	3	aux	_	O
+3	freaking	freak	VBG	_	0	root	_	O
+4	ONE	#crd#	CD	_	5	nmod	_	B-DATE
+5	day	day	NN	_	3	npadvmod	_	L-DATE
+6	after	after	IN	_	5	prep	_	O
+7	thanksgiving	thanksgiving	NN	pos2=VBG	6	pobj	_	O
+8	and	and	CC	_	3	cc	_	O
+9	Katrina	katrina	NNP	_	12	nsubj	_	U-EVENT
+10	is	be	VBZ	_	12	aux	_	O
+11	already	already	RB	_	12	advmod	_	O
+12	blasting	blast	VBG	_	3	conj	_	O
+13	the	the	DT	_	15	det	_	O
+14	xmas	xmas	NN	pos2=NNS	15	compound	_	O
+15	music	music	NN	_	12	dobj	_	O
+16	...	..	.	pos2=,	12	punct	_	O
+
+1	GOD	god	NNP	pos2=NN	2	nsubj	_	O
+2	HELP	help	VB	_	0	root	_	O
+3	US	us	NNP	pos2=PRP	2	dobj	_	U-GPE
+4	...	..	.	pos2=,	2	punct	_	O
+
+1	😒	😒	SYM	pos2=NFP	0	root	_	U-ORG
+

@@ -1,0 +1,15 @@
+1	You	you	PRP	_	2	nsubj	_	O
+2	promised	promise	VBD	_	0	root	_	O
+3	#draintheswamp	#draintheswamp	RB	pos2=XX	2	advmod	_	O
+4	,	,	,	_	2	punct	_	O
+5	NO	no	DT	pos2=NNP	6	det	_	O
+6	MITT	mitt	NNP	pos2=NN	2	dep	_	U-GPE
+7	,	,	,	_	2	punct	_	O
+8	YES	yes	UH	pos2=NNP	13	discourse	_	O
+9	RUDY	rudy	NNP	pos2=NN	6	appos	_	U-PERSON
+10	for	for	IN	_	9	prep	_	O
+11	SOS	sos	NNP	pos2=NN	14	nmod	_	B-ORG
+12	@realDonaldTrump	@realdonaldtrump	XX	pos2=NNP	14	nmod	_	L-ORG
+13	@realDennisLynch	@realdennislynch	XX	pos2=ADD	14	nmod	_	O
+14	@KellyannePolls	@kellyannepolls	NNS	pos2=XX	10	pobj	_	O
+

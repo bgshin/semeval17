@@ -1,0 +1,21 @@
+1	President	president	NNP	pos2=NN	3	compound	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	elect	elect	NNP	pos2=VB	5	compound	_	O
+4	Donald	donald	NNP	_	5	compound	_	B-PERSON
+5	Trump	trump	NNP	_	7	nsubj	_	L-PERSON
+6	is	be	VBZ	_	7	aux	_	O
+7	spending	spend	VBG	_	0	root	_	O
+8	Black	black	NNP	_	9	compound	_	B-EVENT
+9	Friday	friday	NNP	_	7	dobj	_	L-EVENT
+10	in	in	IN	_	7	prep	_	O
+11	South	south	NNP	_	12	compound	_	O
+12	Florida	florida	NNP	_	10	pobj	_	U-GPE
+13	,	,	,	_	7	punct	_	O
+14	mulling	mull	VBG	pos2=NN	7	advcl	_	O
+15	over	over	IN	pos2=RP	14	prep	_	O
+16	transition	transition	NN	_	17	compound	_	O
+17	issues	issue	NNS	_	15	pobj	_	O
+18	.	.	.	_	7	punct	_	O
+
+1	https://t.co/NRKSXCUBRY	#hlink#	ADD	_	0	root	_	U-ORG
+

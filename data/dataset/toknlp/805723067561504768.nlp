@@ -1,0 +1,16 @@
+1	"	"	``	pos2=SYM	5	punct	_	O
+2	#Refugees	#refugees	NNS	pos2=PRP	5	nsubj	_	O
+3	should	should	MD	_	5	aux	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	go	go	VB	_	11	ccomp	_	O
+6	home	home	RB	_	5	advmod	_	O
+7	to	to	IN	pos2=TO	6	prep	_	O
+8	#Syria	#syria	NNP	pos2=VB	7	pobj	_	U-GPE
+9	"	"	''	pos2=``	5	punct	_	O
+10	they	they	PRP	_	11	nsubj	_	O
+11	said	say	VBD	_	0	root	_	O
+12	.	.	.	_	11	punct	_	O
+
+1	#Aleppo	#aleppo	-LRB-	pos2=ADD	2	punct	_	O
+2	https://t.co/DrpGj8kD8h	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

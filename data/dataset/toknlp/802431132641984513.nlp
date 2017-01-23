@@ -1,0 +1,24 @@
+1	“	"	``	pos2=SYM	6	punct	_	O
+2	Data	datum	NNS	pos2=NNP	7	nsubjpass	_	O
+3	collecting	collect	VBG	_	2	acl	_	O
+4	jobs	job	NNS	_	3	dobj	_	O
+5	can	can	MD	_	7	aux	_	O
+6	be	be	VB	_	7	auxpass	_	O
+7	automated	automate	VBN	_	12	npadvmod	_	O
+8	64	0	CD	_	9	nmod	_	B-PERCENT
+9	%	%	NN	_	7	npadvmod	_	L-PERCENT
+10	and	and	CC	_	7	cc	_	O
+11	data	data	NN	pos2=NNS	12	compound	_	O
+12	processing	processing	NN	pos2=VBG	13	compound	_	O
+13	jobs	job	NNS	_	0	root	_	O
+14	69	0	CD	_	15	nmod	_	B-PERCENT
+15	%	%	NN	_	13	appos	_	L-PERCENT
+16	,	,	,	_	7	punct	_	O
+17	according	accord	VBG	_	7	prep	_	O
+18	to	to	IN	_	17	prep	_	O
+19	McKinsey	mckinsey	NNP	_	18	pobj	_	U-ORG
+20	”	"	''	pos2=``	23	punct	_	O
+21	https://t.co/GIoPL22qbb	#hlink#	ADD	pos2=NN	23	nsubj	_	O
+22	via	via	IN	_	17	prep	_	O
+23	@Instapaper	@instapaper	NNP	pos2=NN	22	pobj	_	O
+

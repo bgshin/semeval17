@@ -1,0 +1,20 @@
+1	@TheLibertyFight	@thelibertyfight	ADD	pos2=UH	5	punct	_	U-TIME
+2	@SpeakerRyan	@speakerryan	ADD	pos2=GW	5	punct	_	B-PERSON
+3	@realDonaldTrump	@realdonaldtrump	NNP	pos2=IN	4	compound	_	I-PERSON
+4	Putin	putin	NNP	_	5	nsubj	_	L-PERSON
+5	wants	want	VBZ	_	0	root	_	O
+6	war	war	NN	_	5	dobj	_	O
+7	w	w	IN	_	5	prep	_	O
+8	/	/	HYPH	_	7	punct	_	O
+9	everyone	everyone	NN	_	7	pobj	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	like	like	IN	pos2=UH	2	prep	_	O
+4	taking	take	VBG	_	3	pcomp	_	O
+5	Kim	kim	NNP	_	7	compound	_	B-PERSON
+6	Jong	jong	NNP	_	7	compound	_	I-PERSON
+7	Un	un	NNP	_	4	dobj	_	L-PERSON
+8	seriously	seriously	RB	_	4	advmod	_	O
+

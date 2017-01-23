@@ -1,0 +1,33 @@
+1	"	"	``	pos2=SYM	3	punct	_	O
+2	there	there	EX	_	3	expl	_	O
+3	were	be	VBD	_	0	root	_	O
+4	reportedly	reportedly	RB	_	3	advmod	_	O
+5	as	as	RB	_	8	advmod	_	B-CARDINAL
+6	many	many	JJ	_	8	qmod	_	I-CARDINAL
+7	as	as	IN	_	8	qmod	_	I-CARDINAL
+8	12,000	0	CD	_	9	nmod	_	L-CARDINAL
+9	people	people	NNS	_	3	attr	_	O
+10	in	in	IN	_	9	prep	_	O
+11	the	the	DT	_	13	det	_	O
+12	protest	protest	NN	_	13	compound	_	O
+13	camps	camp	NNS	_	10	pobj	_	O
+14	.	.	.	_	3	punct	_	O
+15	"	"	''	_	3	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	had	have	VBD	_	0	root	_	O
+3	no	no	DT	_	4	det	_	O
+4	idea	idea	NN	_	2	dobj	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	was	be	VBD	_	4	relcl	_	O
+7	that	that	IN	pos2=DT	8	advmod	_	O
+8	large	large	JJ	_	6	acomp	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	https	http	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	//	//	NFP	pos2=-LRB-	6	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	n6m4uUGRyJ	n0m0uugryj	NN	pos2=NNS	0	root	_	O
+

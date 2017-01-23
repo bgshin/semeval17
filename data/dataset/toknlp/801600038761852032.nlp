@@ -1,0 +1,12 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	happy	happy	JJ	_	2	acomp	_	O
+5	Grayson	grayson	NNP	_	6	compound	_	B-PERSON
+6	Allen	allen	NNP	_	8	poss	_	I-PERSON
+7	's	's	POS	pos2=VBZ	6	case	_	L-PERSON
+8	playing	playing	NN	pos2=VBG	4	xcomp	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	💙💙💙	💙💙💙	SYM	pos2=NFP	0	root	_	U-ORG
+

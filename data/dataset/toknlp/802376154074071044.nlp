@@ -1,0 +1,30 @@
+1	@EricBoehlert	@ericboehlert	UH	pos2=ADD	5	discourse	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	'm	be	VBP	_	5	aux	_	O
+4	really	really	RB	_	5	advmod	_	O
+5	asking	ask	VBG	pos2=JJ	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	Are	be	VBP	_	5	aux	_	O
+2	any	any	DT	_	4	det	_	O
+3	GOP	gop	NNP	pos2=JJ	4	compound	_	U-ORG
+4	leaders	leader	NNS	_	5	nsubj	_	O
+5	demanding	demand	VBG	_	0	root	_	O
+6	investigations	investigation	NNS	_	5	dobj	_	O
+7	?	?	.	_	5	punct	_	O
+
+1	For	for	IN	_	6	cc	_	O
+2	that	that	DT	_	3	det	_	O
+3	matter	matter	NN	_	1	pobj	_	O
+4	,	,	,	_	8	punct	_	O
+5	anyone	anyone	NN	_	0	root	_	O
+6	in	in	IN	_	5	prep	_	O
+7	Obama	obama	NNP	_	8	compound	_	U-PERSON
+8	admin	admin	NN	pos2=VB	6	pobj	_	O
+9	pledging	pledge	VBG	pos2=NN	5	acl	_	O
+10	action	action	NN	_	9	dobj	_	O
+11	?	?	.	_	1	punct	_	O
+
+1	1	0	CD	_	0	root	_	U-CARDINAL
+2	/	/	SYM	pos2=,	1	punct	_	O
+

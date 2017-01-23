@@ -1,0 +1,20 @@
+1	@CarmineZozzora	@carminezozzora	ADD	pos2=NNS	6	punct	_	O
+2	@bfraser747	@bfraser0	NN	pos2=CD	6	dep	_	O
+3	@TheView	@theview	ADD	pos2=XX	6	aux	_	O
+4	@WhoopiGoldberg	@whoopigoldberg	VBG	pos2=NNP	2	acl	_	O
+5	amazing	amazing	JJ	pos2=TO	6	advcl	_	O
+6	ask	ask	VB	pos2=VBP	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	view	view	NN	_	6	dobj	_	O
+9	about	about	IN	_	8	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	Mexican	mexican	JJ	pos2=NNP	12	nmod	_	U-NORP
+12	wall	wall	NN	_	9	pobj	_	O
+13	on	on	IN	_	12	prep	_	O
+14	their	their	PRP$	_	18	poss	_	O
+15	southern	southern	JJ	_	18	nmod	_	O
+16	border	border	NN	_	18	compound	_	O
+17	-	-	HYPH	pos2=:	18	punct	_	O
+18	case	case	NN	_	13	pobj	_	O
+19	closed	close	VBN	pos2=VBD	6	ccomp	_	O
+

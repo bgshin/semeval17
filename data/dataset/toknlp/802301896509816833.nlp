@@ -1,0 +1,22 @@
+1	Landscape	landscape	NN	pos2=NNP	13	dep	_	O
+2	of	of	IN	_	1	prep	_	O
+3	poverty	poverty	NN	_	4	compound	_	O
+4	feat	feat	NN	pos2=VBP	2	pobj	_	O
+5	£	$	$	_	6	nmod	_	O
+6	20435.99	0	CD	_	1	npadvmod	_	U-MONEY
+7	in	in	IN	_	6	prep	_	O
+8	pennies	penny	NNS	_	7	pobj	_	O
+9	-	-	:	pos2=HYPH	13	punct	_	O
+10	United	united	NNP	_	11	compound	_	B-GPE
+11	Kingdom	kingdom	NNP	_	13	compound	_	L-GPE
+12	poverty	poverty	NN	_	13	compound	_	O
+13	line	line	NN	_	0	root	_	O
+14	...	..	.	pos2=,	13	punct	_	O
+
+1	by	by	IN	_	6	prep	_	O
+2	Michael	michael	NNP	_	4	compound	_	B-PERSON
+3	Dean	dean	NNP	_	4	compound	_	L-PERSON
+4	@Tate	@tate	NNP	pos2=POS	1	pobj	_	O
+5	#TurnerPrize	#turnerprize	ADD	pos2=GW	6	dep	_	O
+6	https://t.co/7Bd7lmDQ5W	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,5 @@
+1	still	still	RB	_	2	advmod	_	O
+2	miss	miss	VBP	pos2=VBZ	0	root	_	O
+3	Hershel	hershel	NNP	_	4	compound	_	B-PERSON
+4	#TheWalkingDead	#thewalkingdead	NNP	pos2=ADD	2	dobj	_	L-PERSON
+

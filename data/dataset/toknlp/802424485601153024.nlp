@@ -1,0 +1,17 @@
+1	Alt	alt	JJ	pos2=NN	2	nmod	_	O
+2	writing	writing	NN	_	4	dep	_	O
+3	:	:	:	_	4	punct	_	O
+4	Creating	create	VBG	_	14	csubj	_	O
+5	anti-liberal	anti-liberal	JJ	_	7	nmod	_	O
+6	news	news	NN	_	7	compound	_	O
+7	stories	story	NNS	_	4	dobj	_	O
+8	for	for	IN	_	7	prep	_	O
+9	subversion	subversion	NN	_	8	pobj	_	O
+10	knowing	know	VBG	_	11	nmod	_	O
+11	conservatives	conservative	NNS	_	14	nsubj	_	O
+12	will	will	MD	_	14	aux	_	O
+13	never	never	RB	_	14	neg	_	O
+14	fact	fact	VB	_	0	root	_	O
+15	check#notmypresident	check#notmypresident	JJ	pos2=VBN	16	nmod	_	O
+16	#UsefulNewVerbs	#usefulnewverbs	NNS	pos2=ADD	14	dobj	_	O
+

@@ -1,0 +1,20 @@
+1	#feminism	#feminism	UH	pos2=NN	5	discourse	_	O
+2	#StillWithHer	#stillwithher	NN	pos2=ADD	3	compound	_	O
+3	#liberals	#liberals	NNS	pos2=UH	5	dep	_	O
+4	:	:	:	_	5	punct	_	O
+5	speak	speak	VB	pos2=VBP	0	root	_	O
+6	out	out	RP	pos2=IN	5	prt	_	O
+7	against	against	IN	_	5	prep	_	O
+8	real	real	JJ	_	9	nmod	_	O
+9	horror	horror	NN	_	7	pobj	_	O
+10	,	,	,	_	19	punct	_	O
+11	not	not	RB	pos2=CC	12	neg	_	O
+12	some	some	DT	pos2=PDT	15	nmod	_	O
+13	the	the	DT	_	15	det	_	O
+14	#msm	#msm	UH	pos2=JJ	15	discourse	_	O
+15	caricature	caricature	NN	_	9	appos	_	O
+16	of	of	IN	_	15	prep	_	O
+17	@realDonaldTrump	@realdonaldtrump	GW	pos2=ADD	16	pobj	_	O
+18	…	…	NFP	pos2=GW	19	punct	_	O
+19	https://t.co/s9MFV37i7z	#hlink#	ADD	pos2=NN	5	dep	_	O
+

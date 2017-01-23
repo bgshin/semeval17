@@ -1,0 +1,29 @@
+1	@DrJillStein	@drjillstein	NN	pos2=UH	3	vocative	_	O
+2	Why	why	WRB	_	3	advmod	_	O
+3	are	be	VBP	_	0	root	_	O
+4	you	you	PRP	_	3	nsubj	_	O
+5	all	all	DT	_	4	appos	_	O
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	sudden	sudden	JJ	_	9	nmod	_	O
+9	scamming	scamming	NN	pos2=VBG	6	pobj	_	O
+10	the	the	DT	_	11	det	_	O
+11	Americans	american	NNPS	_	9	appos	_	U-NORP
+12	?	?	.	_	3	punct	_	O
+
+1	Taking	take	VBG	_	0	root	_	O
+2	millions	#crd#	NNS	_	1	dobj	_	U-CARDINAL
+3	from	from	IN	_	1	prep	_	O
+4	George	george	NNP	_	5	compound	_	B-PERSON
+5	Soros	soros	NNP	_	3	pobj	_	L-PERSON
+6	...	..	.	pos2=,	1	punct	_	O
+
+1	so	so	RB	_	4	advmod	_	O
+2	now	now	RB	_	4	advmod	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	join	join	VBP	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	devil	devil	NN	pos2=NNP	4	dobj	_	O
+7	himself	himself	PRP	_	4	npadvmod	_	O
+8	.	.	.	_	4	punct	_	O
+

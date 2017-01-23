@@ -1,0 +1,14 @@
+1	Watch	watch	VB	pos2=VBP	0	root	_	O
+2	peanut	peanut	NN	pos2=VBG	3	compound	_	O
+3	butter	butter	NN	_	5	compound	_	O
+4	drone	drone	NN	_	5	compound	_	O
+5	strikes	strike	NNS	pos2=VBZ	1	dobj	_	O
+6	that	that	WDT	_	8	nsubj	_	O
+7	could	could	MD	_	8	aux	_	O
+8	save	save	VB	_	5	relcl	_	O
+9	endangered	endangered	JJ	pos2=VBN	10	nmod	_	O
+10	ferrets	ferret	NNS	_	8	dobj	_	O
+11	https://t.co/r6sY0Er2fK	#hlink#	ADD	_	8	dep	_	O
+12	#USFWS	#usfws	NNS	pos2=VBZ	13	compound	_	O
+13	#endangeredspecies	#endangeredspecies	NNS	pos2=UH	1	dep	_	O
+

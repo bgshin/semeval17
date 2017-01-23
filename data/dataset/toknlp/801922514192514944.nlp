@@ -1,0 +1,20 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	managed	manage	VBD	_	16	ccomp	_	O
+3	to	to	TO	_	4	aux	_	O
+4	find	find	VB	_	2	xcomp	_	O
+5	Nintendo	nintendo	NNP	_	4	dobj	_	U-ORG
+6	in	in	IN	_	4	prep	_	O
+7	Google	google	NNP	_	9	compound	_	O
+8	Earth	earth	NNP	_	9	compound	_	O
+9	VR.	vr.	NNP	_	6	pobj	_	O
+10	How	how	WRB	_	11	advmod	_	O
+11	many	many	JJ	_	13	nmod	_	O
+12	nerd	nerd	NN	_	13	compound	_	O
+13	points	point	NNS	pos2=VBZ	16	dobj	_	O
+14	do	do	VBP	_	16	aux	_	O
+15	I	I	PRP	_	16	nsubj	_	O
+16	get	get	VB	_	0	root	_	O
+17	?	?	.	_	16	punct	_	O
+
+1	#alwayssunnyingoogleearthvr	#alwayssunnyingoogleearthvr	UH	pos2=XX	0	root	_	O
+

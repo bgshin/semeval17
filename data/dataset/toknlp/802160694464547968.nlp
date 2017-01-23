@@ -1,0 +1,9 @@
+1	#Libya	#libya	NNP	pos2=NNS	0	root	_	O
+2	Under	under	IN	pos2=NNP	1	prep	_	O
+3	Pressure	pressure	NN	pos2=NNP	2	pobj	_	O
+4	to	to	TO	pos2=IN	5	aux	_	O
+5	Devalue	devalue	VB	pos2=NNP	3	acl	_	O
+6	Its	its	PRP$	pos2=NNP	8	poss	_	O
+7	Curr	curr	NNP	pos2=GW	8	nmod	_	O
+8	encyhttps://t.co/ub4BauHMWf	#hlink#	ADD	pos2=NNP	5	dobj	_	O
+

@@ -1,0 +1,15 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	brothers	brother	NNS	_	3	compound	_	O
+3	keeper	keeper	NN	pos2=VBP	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	the	the	DT	_	8	det	_	O
+6	new	new	JJ	_	8	nmod	_	O
+7	clinton	clinton	NNP	pos2=NN	8	compound	_	O
+8	foundation	foundation	NN	_	4	attr	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	Watch	watch	VB	pos2=NNP	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	https://t.co/JixUaDXl9F	#hlink#	ADD	_	0	root	_	U-ORG
+

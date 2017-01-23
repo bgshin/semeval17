@@ -1,0 +1,9 @@
+1	@miltonalvarado	@miltonalvarado	UH	pos2=SYM	6	discourse	_	O
+2	_	_	SYM	pos2=''	6	punct	_	O
+3	@NaGOATo	@nagoato	NNP	pos2=IN	4	compound	_	B-PERSON
+4	Makoto	makoto	NNP	_	6	nsubj	_	I-PERSON
+5	's	's	POS	pos2=VBZ	4	case	_	L-PERSON
+6	looks	look	VBZ	pos2=CD	8	nmod	_	O
+7	great	great	JJ	_	6	acomp	_	O
+8	https://t.co/AGK10D2ATh	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,15 @@
+1	@RandyScottESPN	@randyscottespn	NNP	pos2=XX	3	compound	_	O
+2	Kyle	kyle	NNP	_	3	compound	_	B-PERSON
+3	Hendricks	hendricks	NNP	_	7	nsubj	_	L-PERSON
+4	,	,	,	_	7	punct	_	O
+5	should	should	MD	_	7	aux	_	O
+6	've	have	VB	_	7	aux	_	O
+7	been	be	VBN	_	0	root	_	O
+8	cy	cy	JJ	pos2=DT	10	nmod	_	O
+9	young	young	JJ	_	10	nmod	_	O
+10	winner	winner	NN	_	7	attr	_	O
+11	,	,	,	_	7	punct	_	O
+12	pretty	pretty	RB	pos2=JJ	13	advmod	_	O
+13	amazing	amazing	JJ	_	14	nmod	_	O
+14	contract	contract	NN	_	7	npadvmod	_	O
+

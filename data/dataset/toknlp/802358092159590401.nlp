@@ -1,0 +1,12 @@
+1	@qkode	@qkode	UH	pos2=NN	0	root	_	O
+2	No	no	DT	pos2=UH	5	det	_	O
+3	more	more	JJR	pos2=RBR	5	nmod	_	O
+4	Nancy	nancy	NNP	_	5	compound	_	B-PERSON
+5	Pelosi	pelosi	NNP	_	1	vocative	_	L-PERSON
+6	!	!	.	_	1	punct	_	O
+
+1	Works	work	VBZ	_	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	me	me	PRP	_	2	pobj	_	O
+4	.	.	.	_	1	punct	_	O
+

@@ -1,0 +1,26 @@
+1	Excited	excited	JJ	pos2=VBN	0	root	_	O
+2	to	to	TO	_	4	aux	_	O
+3	be	be	VB	_	4	aux	_	O
+4	joining	join	VBG	_	1	xcomp	_	O
+5	the	the	DT	_	8	det	_	O
+6	great	great	JJ	pos2=NNP	8	nmod	_	O
+7	John	john	NNP	_	8	compound	_	B-PERSON
+8	Carr	carr	NNP	_	4	dobj	_	L-PERSON
+9	at	at	IN	_	4	prep	_	O
+10	@Georgetown	@georgetown	NNP	pos2=ADD	9	pobj	_	U-GPE
+11	tomorrow	tomorrow	NN	_	4	npadvmod	_	U-DATE
+12	at	at	IN	_	4	prep	_	O
+13	6:30	0	CD	_	14	nmod	_	B-TIME
+14	pm	pm	NN	_	12	pobj	_	L-TIME
+15	to	to	TO	_	16	aux	_	O
+16	discuss	discuss	VB	_	4	advcl	_	O
+17	#Pilgrimage	#pilgrimage	NN	pos2=NNP	16	dobj	_	O
+18	.	.	.	_	1	punct	_	O
+
+1	Please	please	UH	_	2	discourse	_	O
+2	join	join	VB	_	0	root	_	O
+3	us	us	PRP	_	2	dobj	_	O
+4	!	!	.	_	2	punct	_	O
+
+1	https://t.co/v6tARSg543	#hlink#	ADD	_	0	root	_	U-ORG
+

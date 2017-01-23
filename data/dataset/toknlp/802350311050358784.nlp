@@ -1,0 +1,27 @@
+1	#Dem	#dem	NNP	pos2=SYM	2	compound	_	O
+2	CO2	co0	NN	_	5	nsubj	_	O
+3	in	in	IN	_	2	prep	_	O
+4	Antarctic	antarctic	NNP	_	3	pobj	_	U-LOC
+5	hit	hit	VBD	pos2=VB	0	root	_	O
+6	4	0	CD	_	7	compound	_	B-DATE
+7	million	#crd#	CD	_	8	nmod	_	I-DATE
+8	year	year	NN	_	9	npadvmod	_	L-DATE
+9	high	high	JJ	pos2=RB	5	dobj	_	O
+10	in	in	IN	_	5	prep	_	O
+11	2016	0	CD	_	10	pobj	_	U-DATE
+12	,	,	,	_	5	punct	_	O
+13	but	but	CC	_	5	cc	_	O
+14	Myron	myron	NNP	_	15	compound	_	B-PERSON
+15	Ebell	ebell	NNP	_	20	nsubj	_	L-PERSON
+16	of	of	IN	_	15	prep	_	O
+17	Trump	trump	NNP	pos2=NN	19	compound	_	U-ORG
+18	transition	transition	NN	_	19	compound	_	O
+19	team	team	NN	_	16	pobj	_	O
+20	says	say	VBZ	_	5	conj	_	O
+21	not	not	RB	_	23	neg	_	O
+22	to	to	TO	_	23	aux	_	O
+23	worry	worry	VB	_	20	xcomp	_	O
+24	.	.	.	_	20	punct	_	O
+
+1	https://t.co/dqXjQK6EKC	#hlink#	ADD	_	0	root	_	U-ORG
+

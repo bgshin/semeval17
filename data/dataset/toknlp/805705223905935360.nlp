@@ -1,0 +1,27 @@
+1	"	"	``	pos2=SYM	12	punct	_	O
+2	All	all	DT	pos2=PDT	3	det	_	O
+3	11	0	CD	_	12	nsubj	_	U-CARDINAL
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	UK	uk	NNP	_	10	poss	_	U-GPE
+7	’s	's	POS	_	6	case	_	O
+8	most	most	RBS	pos2=JJS	9	advmod	_	O
+9	senior	senior	JJ	_	10	nmod	_	O
+10	judges	judge	NNS	_	4	pobj	_	O
+11	will	will	MD	_	12	aux	_	O
+12	take	take	VB	_	0	root	_	O
+13	their	their	PRP$	_	14	poss	_	O
+14	seats	seat	NNS	_	12	dobj	_	O
+15	on	on	IN	_	14	prep	_	O
+16	the	the	DT	_	19	det	_	O
+17	supreme	supreme	JJ	pos2=NNP	19	nmod	_	O
+18	court	court	NN	pos2=NNP	19	compound	_	O
+19	bench	bench	NN	_	15	pobj	_	O
+20	on	on	IN	_	12	prep	_	O
+21	Monday	monday	NNP	_	20	pobj	_	U-DATE
+22	to	to	TO	_	23	aux	_	O
+23	decide	decide	VB	_	12	advcl	_	O
+24	...	..	.	pos2=,	12	punct	_	O
+
+1	https://t.co/sGDqnCgIyf	#hlink#	ADD	_	0	root	_	U-ORG
+

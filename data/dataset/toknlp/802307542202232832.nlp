@@ -1,0 +1,20 @@
+1	See	see	VB	pos2=UH	0	root	_	O
+2	also	also	RB	_	1	advmod	_	O
+3	,	,	,	_	1	punct	_	O
+4	from	from	IN	_	1	prep	_	O
+5	December	december	NNP	_	4	pobj	_	B-DATE
+6	2015	0	CD	_	5	nmod	_	I-DATE
+7	:	:	:	_	8	punct	_	L-DATE
+8	https://t.co/bvHoea6TVl	#hlink#	ADD	pos2=NN	5	appos	_	O
+9	<	<	-RRB-	pos2=SYM	8	punct	_	O
+10	-	-	HYPH	pos2=:	11	punct	_	O
+11	deja	deja	NN	pos2=FW	12	compound	_	O
+12	vu	vu	NN	pos2=NNS	8	appos	_	O
+13	,	,	,	_	8	punct	_	O
+14	all	all	RB	pos2=DT	16	advmod	_	O
+15	over	over	RB	_	16	advmod	_	O
+16	again	again	RB	_	8	advmod	_	O
+17	.	.	.	_	1	punct	_	O
+
+1	https://t.co/lzTuT2wp8s	#hlink#	ADD	_	0	root	_	U-ORG
+

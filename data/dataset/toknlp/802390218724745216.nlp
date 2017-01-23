@@ -1,0 +1,11 @@
+1	Trump	trump	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	Turns	turn	VBZ	pos2=NNPS	0	root	_	O
+3	Down	down	RP	pos2=NNP	2	prt	_	O
+4	the	the	DT	_	5	det	_	O
+5	TPP	tpp	NN	pos2=NNP	2	dobj	_	O
+6	|	|	SYM	pos2=,	10	punct	_	O
+7	America	america	NNP	_	9	compound	_	O
+8	Gun	gun	NNP	pos2=GW	9	compound	_	O
+9	Ban	ban	NNP	pos2=GW	10	dep	_	O
+10	https://t.co/7uzK2kdlvu	#hlink#	ADD	_	2	dep	_	O
+

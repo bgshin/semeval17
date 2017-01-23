@@ -1,0 +1,31 @@
+1	*	*	SYM	_	2	punct	_	O
+2	Disclaimer	disclaimer	NN	pos2=VB	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	These	these	DT	_	2	det	_	O
+2	thoughts	thought	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	my	my	PRP$	_	5	poss	_	O
+5	own	own	JJ	_	3	attr	_	O
+6	and	and	CC	_	3	cc	_	O
+7	do	do	VBP	_	9	aux	_	O
+8	not	not	RB	_	9	neg	_	O
+9	reflect	reflect	VB	_	3	conj	_	O
+10	those	those	DT	_	9	dobj	_	O
+11	held	hold	VBN	_	10	acl	_	O
+12	by	by	IN	_	11	agent	_	O
+13	the	the	DT	_	14	det	_	O
+14	company	company	NN	_	12	pobj	_	O
+15	I	I	PRP	_	16	nsubj	_	O
+16	work	work	VBP	_	14	relcl	_	O
+17	for	for	IN	_	16	prep	_	O
+18	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	have	have	VBP	_	3	aux	_	O
+3	worked	work	VBN	_	0	root	_	O
+4	in.	in.	NN	pos2=RB	3	npadvmod	_	O
+5	..	..	.	pos2=,	3	punct	_	O
+
+1	https://t.co/OYEnhv3mQ9	#hlink#	ADD	_	0	root	_	U-ORG
+

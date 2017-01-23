@@ -1,0 +1,28 @@
+1	i	I	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	understand	understand	VB	_	0	root	_	O
+5	why	why	WRB	_	12	advmod	_	O
+6	outcries	outcry	NNS	_	12	nsubj	_	O
+7	against	against	IN	_	6	prep	_	O
+8	the	the	DT	_	11	det	_	O
+9	dakota	dakota	JJ	pos2=NN	11	nmod	_	O
+10	access	access	NN	pos2=FW	11	compound	_	O
+11	pipeline	pipeline	NN	_	7	pobj	_	O
+12	are	be	VBP	_	4	ccomp	_	O
+13	so	so	RB	_	14	advmod	_	O
+14	few	few	JJ	_	12	acomp	_	O
+15	.	.	.	_	4	punct	_	O
+
+1	where	where	WRB	_	2	advmod	_	O
+2	are	be	VBP	_	0	root	_	O
+3	the	the	DT	_	6	det	_	O
+4	social	social	JJ	_	5	nmod	_	O
+5	justice	justice	NN	pos2=NNP	6	compound	_	O
+6	warriors	warrior	NNS	_	2	nsubj	_	O
+7	when	when	WRB	_	9	advmod	_	O
+8	you	you	PRP	_	9	nsubj	_	O
+9	need	need	VBP	_	2	advcl	_	O
+10	them	them	PRP	_	9	dobj	_	O
+11	?!	?!	.	_	2	punct	_	O
+

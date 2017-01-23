@@ -1,0 +1,22 @@
+1	If	if	IN	_	4	mark	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	could	could	MD	_	4	aux	_	O
+4	be	be	VB	_	10	advcl	_	O
+5	one	#crd#	CD	_	7	nmod	_	U-CARDINAL
+6	male	male	JJ	pos2=NN	7	nmod	_	O
+7	celebrity	celebrity	NN	_	4	attr	_	O
+8	I	I	PRP	_	10	nsubj	_	O
+9	would	would	MD	_	10	aux	_	O
+10	be	be	VB	_	0	root	_	O
+11	Zac	zac	NNP	_	12	compound	_	B-PERSON
+12	Efron	efron	NNP	_	10	attr	_	L-PERSON
+13	.	.	.	_	10	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	dude	dude	NN	_	3	nsubj	_	O
+3	has	have	VBZ	_	0	root	_	O
+4	his	his	PRP$	_	5	poss	_	O
+5	life	life	NN	_	3	dobj	_	O
+6	together	together	RB	_	3	advmod	_	O
+7	.	.	.	_	3	punct	_	O
+

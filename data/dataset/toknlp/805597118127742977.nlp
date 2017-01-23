@@ -1,0 +1,20 @@
+1	@MuslimCurry	@muslimcurry	VB	pos2=ADD	3	discourse	_	O
+2	This	this	DT	_	3	nsubj	_	O
+3	seems	seem	VBZ	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	be	be	VB	_	3	xcomp	_	O
+6	the	the	DT	_	8	det	_	O
+7	gold	gold	NN	pos2=JJ	8	compound	_	O
+8	standard	standard	NN	_	5	attr	_	O
+9	for	for	IN	_	8	prep	_	O
+10	Chinese	chinese	JJ	pos2=NNP	13	nmod	_	U-NORP
+11	&	&	CC	_	10	cc	_	O
+12	desi	desi	NN	pos2=JJ	10	conj	_	O
+13	families	family	NNS	pos2=VBZ	9	pobj	_	O
+14	carrying	carry	VBG	_	8	acl	_	O
+15	out	out	RP	pos2=IN	14	prt	_	O
+16	business	business	NN	pos2=IN	14	dobj	_	O
+17	the	the	DT	_	18	det	_	O
+18	world	world	NN	_	14	npadvmod	_	O
+19	over	over	IN	pos2=RB	14	prep	_	O
+

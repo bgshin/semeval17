@@ -1,0 +1,19 @@
+1	First	#ord#	RB	pos2=JJ	2	advmod	_	U-ORDINAL
+2	Look	look	VB	pos2=NNP	0	root	_	O
+3	at	at	IN	_	2	prep	_	O
+4	Neighbors	neighbor	NNS	_	5	nmod	_	O
+5	2	0	CD	_	3	pobj	_	U-CARDINAL
+6	with	with	IN	_	2	prep	_	O
+7	Zac	zac	NNP	_	9	compound	_	B-PERSON
+8	Efron	efron	NNP	_	9	compound	_	L-PERSON
+9	Shirtless	shirtless	NNP	pos2=JJ	6	pobj	_	O
+10	!	!	.	_	2	punct	_	O
+
+1	(	(	-LRB-	_	2	punct	_	O
+2	PHOTO	photo	NN	_	0	root	_	O
+3	)	)	-RRB-	_	2	punct	_	O
+4	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/5C68gj5D9V	#hlink#	ADD	_	2	nsubj	_	O
+2	#zacefron	#zacefron	ADD	pos2=-RRB-	0	root	_	O
+

@@ -1,0 +1,17 @@
+1	Porcello	porcello	NNP	_	2	nsubj	_	U-PERSON
+2	nips	nip	VBZ	pos2=NNS	6	ccomp	_	O
+3	Verlander	verlander	NNP	_	2	dobj	_	U-PERSON
+4	,	,	,	_	6	punct	_	O
+5	Scherzer	scherzer	NNP	_	6	nsubj	_	U-PERSON
+6	romps	romp	VBZ	pos2=NNS	0	root	_	O
+7	in	in	IN	pos2=RP	6	prep	_	O
+8	Cy	cy	NNP	_	10	nmod	_	O
+9	Young	young	JJ	pos2=NNP	10	nmod	_	O
+10	win	win	NN	pos2=VBP	7	pobj	_	O
+11	https://t.co/XYGHiYzrBH	#hlink#	ADD	pos2=NN	14	dep	_	O
+12	:	:	:	_	14	punct	_	O
+13	Auto	auto	NN	pos2=NNP	14	compound	_	O
+14	pickup	pickup	NN	_	6	dobj	_	O
+15	by	by	IN	_	14	prep	_	O
+16	wikyou	wikyou	NN	pos2=NNP	15	pobj	_	U-DATE
+

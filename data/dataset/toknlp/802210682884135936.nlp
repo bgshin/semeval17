@@ -1,0 +1,16 @@
+1	Here	here	RB	_	2	advmod	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	Putin	putin	NNP	_	5	poss	_	U-PERSON
+4	's	's	POS	_	3	case	_	O
+5	man	man	NN	_	2	nsubj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	our	our	PRP$	_	9	poss	_	O
+8	White	white	NNP	pos2=JJ	9	compound	_	B-ORG
+9	House.@LindseyGrahamSC	house.@lindseygrahamsc	NNP	pos2=NNPS	6	pobj	_	I-ORG
+10	@jasoninthehouse	@jasoninthehouse	IN	pos2=ADD	5	prep	_	I-ORG
+11	@SenMikeLee	@senmikelee	NNP	pos2=ADD	15	nmod	_	I-ORG
+12	@SenOrrinHatch	@senorrinhatch	NNP	pos2=XX	15	nmod	_	L-ORG
+13	@SenJohnHoeven	@senjohnhoeven	GW	pos2=NNP	15	nmod	_	O
+14	…	…	NFP	pos2=GW	15	punct	_	O
+15	https://t.co/9KF21k8TDo	#hlink#	ADD	_	5	appos	_	O
+

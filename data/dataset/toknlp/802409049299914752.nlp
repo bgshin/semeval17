@@ -1,0 +1,27 @@
+1	End	end	NN	_	6	dep	_	O
+2	of	of	IN	_	1	prep	_	O
+3	Clinton	clinton	NNP	pos2=CD	4	compound	_	U-PERSON
+4	admin	admin	NN	_	2	pobj	_	O
+5	:	:	:	_	6	punct	_	O
+6	surplusEnd	surplusend	NNP	pos2=NN	0	root	_	O
+7	of	of	IN	_	6	prep	_	O
+8	GWB	gwb	NNP	pos2=NN	7	pobj	_	U-ORG
+9	's	's	AFX	pos2=POS	8	nmod	_	O
+10	:	:	:	_	6	punct	_	O
+11	Great	great	JJ	pos2=NNP	12	nmod	_	O
+12	RecessionEnd	recessionend	NNP	pos2=NN	6	appos	_	O
+13	of	of	IN	_	12	prep	_	O
+14	Obama	obama	NNP	_	17	poss	_	U-PERSON
+15	's	's	POS	pos2=AFX	14	case	_	O
+16	:	:	:	_	17	punct	_	O
+17	unemployment	unemployment	NN	_	13	pobj	_	O
+18	hovering	hover	VBG	pos2=NN	17	acl	_	O
+19	5%End	0end	NN	pos2=NNP	18	dobj	_	O
+20	of	of	IN	_	19	prep	_	O
+21	Trump	trump	NN	pos2=NNP	20	pobj	_	B-ORG
+22	's	's	POS	pos2=AFX	21	case	_	L-ORG
+23	:	:	:	_	24	punct	_	O
+24	...	..	.	pos2=,	17	punct	_	O
+
+1	#ISenseAPattern	#isenseapattern	ADD	pos2=XX	0	root	_	O
+

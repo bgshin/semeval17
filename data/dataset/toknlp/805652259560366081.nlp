@@ -1,0 +1,13 @@
+1	persuasive	persuasive	JJ	_	2	nmod	_	O
+2	speech	speech	NN	_	0	root	_	O
+3	on	on	IN	_	2	prep	_	O
+4	depression	depression	NN	_	3	pobj	_	O
+5	https://t.co/R3dzmYSBmT	#hlink#	ADD	pos2=POS	6	nmod	_	O
+6	pros	pro	NNS	_	2	conj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	cons	con	NNS	_	6	conj	_	O
+9	for	for	IN	_	6	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	death	death	NN	_	12	compound	_	O
+12	penalty	penalty	NN	_	9	pobj	_	O
+

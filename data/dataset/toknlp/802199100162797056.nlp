@@ -1,0 +1,8 @@
+1	Seems	seem	VBZ	_	0	root	_	O
+2	legit	legit	JJ	_	1	oprd	_	O
+3	....	..	.	pos2=,	1	punct	_	O
+
+1	#DrainTheSwamp	#draintheswamp	GW	pos2=XX	3	nmod	_	O
+2	#DayAfterThanksgiving	#dayafterthanksgiving	VBG	pos2=GW	3	nmod	_	O
+3	https://t.co/B9K1MW7iUd	#hlink#	ADD	pos2=NN	0	root	_	O
+

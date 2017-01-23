@@ -1,0 +1,27 @@
+1	@DarHuddleston	@darhuddleston	NN	pos2=ADD	2	compound	_	O
+2	#	#	NN	pos2=$	8	dep	_	O
+3	0bumas	0bumas	LS	pos2=NN	2	prep	_	U-MONEY
+4	Anti	anti	AFX	pos2=VBZ	5	advmod	_	O
+5	American	american	JJ	_	7	nmod	_	U-NORP
+6	Muslim	muslim	NNP	pos2=JJ	7	compound	_	U-NORP
+7	phoney	phoney	NN	pos2=JJ	8	nsubj	_	O
+8	incites	incite	VBZ	pos2=NNS	0	root	_	O
+9	cop	cop	NN	pos2=JJ	10	compound	_	O
+10	killing	killing	NN	pos2=VBG	8	dobj	_	O
+11	,	,	,	_	8	punct	_	O
+12	Riots	riot	NNS	pos2=NNPS	15	nmod	_	O
+13	-	-	:	pos2=HYPH	15	punct	_	O
+14	CIVIL	civil	JJ	pos2=NNP	15	nmod	_	O
+15	WAR	war	NN	pos2=NNP	10	conj	_	O
+16	.	.	.	_	8	punct	_	O
+
+1	Goal	goal	NN	pos2=UH	5	dep	_	O
+2	martial	martial	JJ	_	3	nmod	_	O
+3	law	law	NN	_	5	dep	_	O
+4	2	0	CD	_	1	nmod	_	U-CARDINAL
+5	stop	stop	VB	pos2=NN	0	root	_	O
+6	@Trump	@trump	IN	pos2=VBG	5	prep	_	O
+7	BECOMING	become	VBG	_	6	pcomp	_	O
+8	45	0	CD	_	9	nmod	_	B-DATE
+9	POTUSMAGA	potusmaga	NN	pos2=NNS	7	attr	_	L-DATE
+

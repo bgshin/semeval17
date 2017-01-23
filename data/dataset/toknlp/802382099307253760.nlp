@@ -1,0 +1,27 @@
+1	@QBDAD	@qbdad	NN	pos2=XX	2	nsubj	_	O
+2	@FoxNews	@foxnews	VBZ	pos2=NNS	0	root	_	O
+3	BEING	be	VBG	_	2	xcomp	_	O
+4	DESPERATE	desperate	JJ	_	5	nmod	_	O
+5	CALLS	call	NNS	_	3	attr	_	O
+6	FOR	for	IN	_	5	prep	_	O
+7	DESPERATE	desperate	JJ	_	9	nmod	_	O
+8	MORONIC	moronic	JJ	_	9	nmod	_	O
+9	ACTIONS	action	NNS	_	6	pobj	_	O
+10	....	..	.	pos2=,	2	punct	_	O
+
+1	FUNNY	funny	JJ	_	2	nmod	_	O
+2	THOU	thou	NN	pos2=NNP	3	compound	_	O
+3	😂CNN	😂cnn	NNP	pos2=NN	4	nsubj	_	O
+4	NEEDS	need	VBZ	_	0	root	_	O
+5	RATING	rating	NN	pos2=VBG	4	dobj	_	O
+6	AT	at	IN	pos2=RB	4	prep	_	O
+7	AT	at	IN	pos2=NNP	4	prep	_	O
+8	COST	cost	NN	_	7	pobj	_	O
+9	,	,	,	_	4	punct	_	O
+10	AS	as	RB	pos2=IN	12	advmod	_	O
+11	WELL	well	RB	_	12	advmod	_	O
+12	AS	as	IN	_	8	cc	_	O
+13	ANY	any	DT	pos2=JJ	15	det	_	O
+14	LIBERALS	liberal	NNS	pos2=NNPS	15	compound	_	O
+15	MEDIA	medium	NNS	pos2=NNP	4	conj	_	O
+

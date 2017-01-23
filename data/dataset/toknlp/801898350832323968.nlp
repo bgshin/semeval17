@@ -1,0 +1,22 @@
+1	#Tigers	#tigers	NNS	pos2=VBZ	2	compound	_	O
+2	#Memorabilia	#memorabilia	NNP	pos2=NN	0	root	_	O
+3	2013	0	CD	_	6	nmod	_	U-DATE
+4	DETROIT	detroit	NNP	pos2=NN	5	compound	_	O
+5	TIGERS	tiger	NNPS	pos2=NNP	7	compound	_	O
+6	TICKET	ticket	NN	pos2=NNP	7	compound	_	O
+7	LOT	lot	NN	_	2	appos	_	O
+8	OF	of	IN	_	7	prep	_	O
+9	3	0	CD	_	8	pobj	_	U-CARDINAL
+10	vs	vs	CC	pos2=IN	7	cc	_	O
+11	WHITE	white	JJ	pos2=NNP	16	nmod	_	B-ORG
+12	SOX	sox	NNP	pos2=NNPS	16	compound	_	L-ORG
+13	CABRERA	cabrera	NNP	pos2=NN	16	compound	_	B-ORG
+14	VERLANDER	verlander	NNP	_	16	compound	_	I-ORG
+15	VGC	vgc	NNP	pos2=XX	16	compound	_	I-ORG
+16	L@@K	l@@k	NNP	pos2=XX	2	appos	_	L-ORG
+17	!	!	.	_	2	punct	_	O
+
+1	https://t.co/SXUgq2LL1d	#hlink#	ADD	_	3	nsubj	_	U-ORG
+2	#Vintage	#vintage	-RRB-	pos2=NNP	1	punct	_	U-ORG
+3	#Sports	#sports	NNS	pos2=-RRB-	0	root	_	O
+

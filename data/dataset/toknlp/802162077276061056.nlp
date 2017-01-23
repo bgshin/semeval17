@@ -1,0 +1,26 @@
+1	(	(	-LRB-	_	2	punct	_	O
+2	Video	video	NN	pos2=NNP	5	parataxis	_	O
+3	)	)	-RRB-	_	2	punct	_	O
+4	Powerful	powerful	JJ	_	5	nmod	_	O
+5	message	message	NN	_	0	root	_	O
+6	from	from	IN	_	5	prep	_	O
+7	Tony	tony	NNP	_	8	compound	_	B-PERSON
+8	Romo	romo	NNP	_	6	pobj	_	L-PERSON
+9	.	.	.	_	5	punct	_	O
+
+1	Might	might	MD	_	5	aux	_	O
+2	as	as	RB	_	5	advmod	_	O
+3	well	well	RB	_	5	advmod	_	O
+4	be	be	VB	_	5	auxpass	_	O
+5	titled	title	VBN	_	0	root	_	O
+6	'	'	``	pos2=''	5	punct	_	O
+7	How	how	WRB	_	9	advmod	_	O
+8	to	to	TO	_	9	aux	_	O
+9	be	be	VB	_	5	xcomp	_	O
+10	a	a	DT	_	12	det	_	O
+11	good	good	JJ	_	12	nmod	_	O
+12	teammate	teammate	NN	_	9	attr	_	O
+13	'	'	''	pos2=POS	12	punct	_	O
+14	@PositiveCoachUS	@positivecoachus	ADD	pos2=GW	15	punct	_	O
+15	https://t.co/rEWqFXBElv	#hlink#	ADD	_	12	appos	_	U-ORG
+

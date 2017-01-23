@@ -1,0 +1,25 @@
+1	@TassmanianD	@tassmaniand	ADD	pos2=XX	7	punct	_	O
+2	@NPR	@npr	NNP	pos2=NN	7	nsubj	_	U-ORG
+3	Maybe	maybe	RB	_	7	advmod	_	O
+4	the	the	DT	_	5	det	_	O
+5	administration	administration	NN	_	7	nsubj	_	O
+6	should	should	MD	_	7	aux	_	O
+7	make	make	VB	_	0	root	_	O
+8	a	a	DT	_	9	det	_	O
+9	registry	registry	NN	_	7	dobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	armed	armed	JJ	_	13	nmod	_	O
+12	white	white	JJ	_	13	nmod	_	O
+13	supremacists	supremacist	NNS	_	10	pobj	_	O
+14	.	.	.	_	7	punct	_	O
+
+1	We	we	PRP	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	deport	deport	VB	_	0	root	_	O
+4	them	them	PRP	_	3	dobj	_	O
+5	after	after	IN	pos2=RB	3	prep	_	O
+6	"	"	``	_	8	punct	_	O
+7	extreme	extreme	JJ	_	8	nmod	_	O
+8	vetting	vetting	NN	_	5	pobj	_	O
+9	"	"	''	_	8	punct	_	O
+

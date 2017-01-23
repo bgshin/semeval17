@@ -1,0 +1,15 @@
+1	Jeff	jeff	NNP	_	2	compound	_	B-PERSON
+2	Capel	capel	NNP	_	3	nsubj	_	L-PERSON
+3	updates	update	VBZ	pos2=NNS	0	root	_	O
+4	injury	injury	NN	_	5	compound	_	O
+5	status	status	NN	_	3	dobj	_	O
+6	on	on	IN	_	3	prep	_	O
+7	freshmen	freshman	NNS	pos2=NN	6	pobj	_	O
+8	and	and	CC	_	3	cc	_	O
+9	Grayson	grayson	NNP	_	10	compound	_	B-PERSON
+10	Allen	allen	NNP	_	11	dep	_	L-PERSON
+11	https://t.co/eBRv1raGga	#hlink#	ADD	pos2=NNP	7	appos	_	O
+12	via	via	IN	_	11	prep	_	O
+13	@	@	-LRB-	pos2=NFP	14	punct	_	O
+14	247Sports	0sports	NNS	_	12	pobj	_	O
+

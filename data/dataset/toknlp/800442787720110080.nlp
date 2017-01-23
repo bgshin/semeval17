@@ -1,0 +1,16 @@
+1	@BBCSteveR	@bbcstever	ADD	pos2=WRB	12	nsubj	_	O
+2	@KremlinTrolls	@kremlintrolls	NNS	pos2=VBZ	4	nsubj	_	O
+3	pretty	pretty	RB	_	4	advmod	_	O
+4	clear	clear	JJ	pos2=VBP	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	ass	ass	NN	_	4	dobj	_	O
+7	backwards	backwards	RB	pos2=JJ	4	advmod	_	O
+8	neo	neo	IN	pos2=JJ	4	prep	_	O
+9	nazi	nazi	JJ	pos2=NN	11	nmod	_	O
+10	alt	alt	JJ	pos2=NN	11	nmod	_	O
+11	right	right	NN	pos2=RB	8	pobj	_	O
+12	is	be	VBZ	_	0	root	_	O
+13	russia	russia	NN	pos2=NNP	14	npadvmod	_	O
+14	backed	back	VBN	pos2=VBD	12	acomp	_	O
+15	.	.	.	_	12	punct	_	O
+

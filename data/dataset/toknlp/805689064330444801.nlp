@@ -1,0 +1,16 @@
+1	What	what	WP	_	2	attr	_	O
+2	are	be	VBP	_	0	root	_	O
+3	the	the	DT	_	6	det	_	O
+4	5	0	CD	_	6	nmod	_	U-CARDINAL
+5	biggest	big	JJS	_	6	nmod	_	O
+6	mistakes	mistake	NNS	_	2	nsubj	_	O
+7	that	that	WDT	pos2=IN	9	dobj	_	O
+8	people	people	NNS	_	9	nsubj	_	O
+9	assume	assume	VBP	_	6	relcl	_	O
+10	about	about	IN	_	9	prep	_	O
+11	homeopathy	homeopathy	NN	_	10	pobj	_	O
+12	...	..	.	_	2	punct	_	O
+
+1	https://t.co/nFSrUE5aLN#itshomeopathic	#hlink#	ADD	_	2	nsubj	_	O
+2	#homeopathictreatments	#homeopathictreatments	NNS	pos2=-RRB-	0	root	_	O
+

@@ -1,0 +1,17 @@
+1	This	this	DT	_	2	det	_	O
+2	Comedian	comedian	NN	pos2=NNP	6	poss	_	O
+3	’s	's	POS	_	2	case	_	O
+4	Election	election	NNP	pos2=NN	5	compound	_	O
+5	Silver	silver	NNP	pos2=NN	6	compound	_	O
+6	Lining	lining	NN	pos2=NNP	8	nsubj	_	O
+7	:	:	:	_	10	punct	_	O
+8	Making	make	VBG	_	0	root	_	O
+9	Sweet	sweet	NNP	pos2=JJ	10	compound	_	O
+10	Love	love	NNP	pos2=NN	8	dobj	_	O
+11	to	to	IN	_	8	dative	_	O
+12	Mike	mike	NNP	_	13	compound	_	B-PERSON
+13	Pence	penny	NNP	_	11	pobj	_	L-PERSON
+14	via	via	IN	pos2=GW	8	prep	_	O
+15	@papermagazine	@papermagazine	ADD	pos2=CD	14	pobj	_	O
+16	https://t.co/9mPUfIWKFl	#hlink#	ADD	pos2=NN	14	pobj	_	O
+

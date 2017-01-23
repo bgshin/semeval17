@@ -1,0 +1,27 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	always	always	RB	_	2	advmod	_	O
+4	odd	odd	JJ	_	2	acomp	_	O
+5	to	to	IN	_	4	prep	_	O
+6	me	me	PRP	_	5	pobj	_	O
+7	when	when	WRB	_	11	advmod	_	O
+8	ppl	ppl	NNS	pos2=NNP	10	nmod	_	O
+9	/	/	SYM	pos2=HYPH	10	punct	_	O
+10	analysts	analyst	NNS	_	11	nsubj	_	O
+11	say	say	VBP	pos2=VB	2	advcl	_	O
+12	this	this	DT	_	11	dobj	_	O
+13	...	..	.	_	2	punct	_	O
+
+1	it	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	like	like	IN	pos2=UH	2	prep	_	O
+4	saying	say	VBG	_	3	pcomp	_	O
+5	The	the	DT	_	7	det	_	O
+6	Royals	royals	NNP	pos2=NNPS	7	compound	_	O
+7	Bullpen	bullpen	NNP	pos2=NN	9	nsubj	_	O
+8	should	should	MD	_	9	aux	_	O
+9	win	win	VB	_	4	ccomp	_	O
+10	Cy	cy	NNP	pos2=GW	11	compound	_	B-PERSON
+11	Young	young	NNP	pos2=JJ	9	dobj	_	L-PERSON
+12	https://t.co/4YnNDhhKGm	#hlink#	ADD	pos2=NN	9	dobj	_	O
+

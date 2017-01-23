@@ -1,0 +1,19 @@
+1	#ChildrensRights	#childrensrights	NNS	pos2=PRP$	2	compound	_	O
+2	incl	incl	NN	pos2=IN	18	dep	_	O
+3	living	live	VBG	pos2=NN	2	acl	_	O
+4	in	in	IN	_	3	prep	_	O
+5	peace	peace	NN	pos2=NNP	4	pobj	_	O
+6	,	,	,	_	2	punct	_	O
+7	yet	yet	CC	pos2=RB	18	nmod	_	O
+8	over	over	IN	pos2=RB	9	qmod	_	O
+9	3,000	0	CD	_	10	nmod	_	U-CARDINAL
+10	kids	kid	NNS	_	11	nsubj	_	O
+11	injured	injure	VBN	pos2=VBD	16	ccomp	_	O
+12	/	/	SYM	pos2=,	13	punct	_	O
+13	killed	kill	VBN	pos2=VBD	11	dep	_	O
+14	in	in	IN	_	13	prep	_	O
+15	#Yemen	#yemen	NNP	pos2=NNS	14	pobj	_	O
+16	#EveryLastChild	#everylastchild	GW	pos2=XX	18	nmod	_	O
+17	#SavetheChildren	#savethechildren	GW	pos2=ADD	18	nmod	_	O
+18	https://t.co/6OFw4P00eM	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

@@ -1,0 +1,27 @@
+1	@SethMacFarlane	@sethmacfarlane	NN	pos2=UH	21	nsubj	_	O
+2	so	so	RB	pos2=IN	21	advmod	_	O
+3	all	all	PDT	_	8	predet	_	O
+4	the	the	DT	_	8	det	_	O
+5	violent	violent	JJ	_	8	nmod	_	O
+6	anti	anti	AFX	pos2=NN	7	nmod	_	O
+7	trump	trump	NN	pos2=JJ	8	compound	_	O
+8	riots	riot	NNS	_	0	root	_	O
+9	and	and	CC	_	8	cc	_	O
+10	trump	trump	NN	pos2=VB	11	compound	_	O
+11	beatings	beating	NNS	_	8	conj	_	O
+12	you	you	PRP	_	15	nsubj	_	O
+13	do	do	VBP	_	15	aux	_	O
+14	nt	nt	RB	_	15	advmod	_	O
+15	give	give	VB	_	8	relcl	_	O
+16	a	a	DT	_	17	det	_	O
+17	shit	shit	NN	_	15	dobj	_	O
+18	but	but	CC	_	15	cc	_	O
+19	1	0	CD	_	20	nmod	_	U-CARDINAL
+20	guy	guy	NN	_	21	nsubj	_	O
+21	hurts	hurt	VBZ	_	0	root	_	O
+22	some	some	DT	_	24	det	_	O
+23	womens	womens	NNS	_	24	compound	_	O
+24	feelings	feeling	NNS	_	21	dobj	_	O
+25	your	your	PRP$	_	26	poss	_	O
+26	pissed	pissed	JJ	pos2=VBN	21	advcl	_	O
+

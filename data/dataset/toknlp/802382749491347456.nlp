@@ -1,0 +1,25 @@
+1	WOW	wow	UH	_	0	root	_	O
+2	!!!	!!	.	_	1	punct	_	O
+
+1	ITS	its	PRP$	_	4	poss	_	O
+2	INCREDIBLE	incredible	JJ	pos2=NNP	4	nmod	_	O
+3	HOW	how	WRB	_	6	advmod	_	O
+4	#FOXNEWS	#foxnews	NNP	pos2=PRP	6	nsubj	_	U-ORG
+5	IS	be	VBZ	_	6	aux	_	O
+6	SELLING	sell	VBG	_	0	root	_	O
+7	THE	the	DT	_	9	det	_	O
+8	#TRUMP	#trump	NN	pos2=JJ	9	compound	_	O
+9	BILLIONAIRES	billionaire	NNS	pos2=NNPS	6	dobj	_	B-ORG
+10	AND	and	CC	_	9	cc	_	I-ORG
+11	WALL	wall	NNP	pos2=NN	12	compound	_	I-ORG
+12	STREET	street	NNP	pos2=NN	14	compound	_	I-ORG
+13	CROOK	crook	NNP	pos2=NN	14	compound	_	I-ORG
+14	CABINET	cabinet	NNP	pos2=NN	15	compound	_	L-ORG
+15	MEMBERS	member	NNS	pos2=NNPS	9	conj	_	O
+16	.	.	.	_	6	punct	_	O
+
+1	HEY	hey	UH	_	0	root	_	O
+2	...	..	.	pos2=:	1	punct	_	O
+
+1	https://t.co/xM6EWv8GUr	#hlink#	ADD	_	0	root	_	U-ORG
+

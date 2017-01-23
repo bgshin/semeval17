@@ -1,0 +1,19 @@
+1	Congratulations	congratulation	NNS	_	0	root	_	O
+2	Mr	mr	NNP	pos2=XX	1	vocative	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	Trump	trump	NN	pos2=NNP	5	vocative	_	U-PERSON
+2	,	,	,	_	5	punct	_	O
+3	YOU	you	PRP	_	5	nsubj	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	lost	lose	VBD	_	0	root	_	O
+6	the	the	DT	_	8	det	_	O
+7	popular	popular	JJ	_	8	nmod	_	O
+8	vote	vote	NN	_	5	dobj	_	O
+9	by	by	IN	_	5	prep	_	O
+10	over	over	IN	pos2=AFX	11	qmod	_	O
+11	2,000,000	0	CD	_	9	pobj	_	U-CARDINAL
+12	.	.	.	_	5	punct	_	O
+
+1	https://t.co/sAud2jiaa9	#hlink#	ADD	_	0	root	_	U-ORG
+

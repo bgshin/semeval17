@@ -1,0 +1,22 @@
+1	Muhammad	muhammad	NNP	_	2	compound	_	B-PERSON
+2	Ali	ali	NNP	_	4	nsubj	_	L-PERSON
+3	actually	actually	RB	_	4	advmod	_	O
+4	threw	throw	VBD	_	0	root	_	O
+5	his	his	PRP$	_	8	poss	_	O
+6	Olympic	olympic	NNP	pos2=JJ	8	compound	_	U-EVENT
+7	gold	gold	NN	_	8	compound	_	O
+8	medal	medal	NN	pos2=NNP	4	dobj	_	O
+9	into	into	IN	_	4	prep	_	O
+10	a	a	DT	_	11	det	_	O
+11	river	river	NN	_	9	pobj	_	O
+12	as	as	IN	_	4	prep	_	O
+13	a	a	DT	_	14	det	_	O
+14	way	way	NN	_	12	pobj	_	O
+15	to	to	TO	_	16	aux	_	O
+16	protest	protest	VB	_	14	relcl	_	O
+17	racial	racial	JJ	_	18	nmod	_	O
+18	discrimination	discrimination	NN	_	16	dobj	_	O
+19	in	in	IN	_	18	prep	_	O
+20	America	america	NNP	_	19	pobj	_	U-GPE
+21	.	.	.	_	4	punct	_	O
+

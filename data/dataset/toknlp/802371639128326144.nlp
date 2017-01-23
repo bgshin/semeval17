@@ -1,0 +1,19 @@
+1	@goldsaucr	@goldsaucr	UH	pos2=PRP	3	discourse	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	joke	joke	NN	_	3	attr	_	O
+6	,	,	,	_	3	punct	_	O
+7	but	but	CC	_	3	cc	_	O
+8	maybe	maybe	RB	_	11	advmod	_	O
+9	do	do	VB	pos2=VBP	11	aux	_	O
+10	n't	not	RB	_	11	neg	_	O
+11	be	be	VB	_	3	conj	_	O
+12	the	the	DT	_	14	det	_	O
+13	biggest	big	JJS	_	14	nmod	_	O
+14	sweetheart	sweetheart	NN	_	11	attr	_	O
+15	to	to	IN	pos2=TO	14	prep	_	O
+16	kim	kim	VB	pos2=NNP	15	pobj	_	O
+17	jong	jong	FW	pos2=NN	18	nmod	_	O
+18	un	un	NN	pos2=FW	14	appos	_	O
+

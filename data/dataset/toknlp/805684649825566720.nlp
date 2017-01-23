@@ -1,0 +1,11 @@
+1	@Fazzino	@fazzino	NNP	pos2=UH	2	compound	_	B-PERSON
+2	@Cubs	@cubs	NNP	pos2=NNS	0	root	_	L-PERSON
+3	A	a	DT	pos2=NNP	5	det	_	O
+4	Christmas	christmas	NNP	_	5	compound	_	U-DATE
+5	caro	caro	NNP	pos2=NN	2	appos	_	O
+6	by	by	IN	_	5	prep	_	O
+7	Charles	charles	NNP	_	8	compound	_	B-PERSON
+8	Dickens	dickens	NNP	_	6	pobj	_	L-PERSON
+9	l	l	FW	pos2=IN	10	dep	_	O
+10	#sundaymorning	#sundaymorning	FW	pos2=.	8	advmod	_	O
+

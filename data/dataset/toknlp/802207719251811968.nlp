@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det	_	O
+2	US	us	NNP	_	3	compound	_	U-GPE
+3	public	public	NN	pos2=JJ	5	nsubj	_	O
+4	essentially	essentially	RB	_	5	advmod	_	O
+5	decided	decide	VBD	_	0	root	_	O
+6	an	an	DT	_	7	det	_	O
+7	election	election	NN	_	5	dobj	_	O
+8	based	base	VBN	_	7	acl	_	O
+9	on	on	IN	_	8	prep	_	O
+10	amplified	amplify	VBN	pos2=JJ	11	nmod	_	O
+11	lies	lie	NNS	_	9	pobj	_	O
+12	and	and	CC	_	11	cc	_	O
+13	suppressed	suppress	VBN	pos2=JJ	14	nmod	_	O
+14	truths	truth	NNS	_	11	conj	_	O
+15	--	--	:	_	5	punct	_	O
+16	and	and	CC	_	5	cc	_	O
+17	some	some	DT	_	18	det	_	O
+18	people	people	NNS	_	19	nsubj	_	O
+19	want	want	VBP	_	5	conj	_	O
+20	a	a	DT	_	23	det	_	O
+21	direct	direct	JJ	pos2=RB	23	nmod	_	O
+22	popular	popular	JJ	_	23	nmod	_	O
+23	vote	vote	NN	_	19	dobj	_	O
+24	!	!	.	_	19	punct	_	O
+

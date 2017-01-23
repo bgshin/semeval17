@@ -1,0 +1,18 @@
+1	[	[	-LRB-	_	6	punct	_	O
+2	WCCFtech	wccftech	NNP	pos2=ADD	4	nmod	_	U-ORG
+3	]	]	-RRB-	_	4	punct	_	O
+4	Samsung	samsung	NNP	_	6	nsubj	_	U-ORG
+5	Is	be	VBZ	pos2=NNP	6	aux	_	O
+6	Releasing	release	VBG	_	0	root	_	O
+7	Galaxy	galaxy	NNP	pos2=NN	8	compound	_	O
+8	Note	note	NN	pos2=VB	6	dobj	_	O
+9	7	0	CD	pos2=IN	8	nmod	_	U-CARDINAL
+10	Software	software	NN	pos2=NNP	17	dep	_	O
+11	for	for	IN	_	10	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	Note	note	NN	pos2=NNP	11	pobj	_	O
+14	5	0	CD	_	16	nmod	_	O
+15	–	-	HYPH	pos2=:	16	punct	_	O
+16	Images	image	NNS	_	17	nmod	_	O
+17	https://t.co/x6exDbKzFh	#hlink#	ADD	_	6	dep	_	O
+

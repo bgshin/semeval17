@@ -1,0 +1,14 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	love	love	VBP	_	0	root	_	O
+3	scream	scream	VBP	pos2=NN	2	dep	_	O
+4	queens	queen	NNS	pos2=GW	3	dobj	_	O
+5	😍😍😊	😍😍😊	NNP	pos2=NFP	6	compound	_	U-GPE
+6	#screamqueens	#screamqueens	NNS	pos2=UH	7	nsubj	_	O
+7	#love	#love	VBP	pos2=IN	2	meta	_	O
+8	#happy	#happy	UH	pos2=IN	7	discourse	_	O
+9	#hot	#hot	UH	pos2=IN	7	discourse	_	O
+10	#omg	#omg	UH	pos2=FW	7	discourse	_	O
+11	#lol	#lol	UH	pos2=GW	7	discourse	_	O
+12	#like	#like	UH	pos2=ADD	7	discourse	_	O
+13	https://t.co/r1rxeAIGCS	#hlink#	ADD	pos2=UH	7	dobj	_	O
+

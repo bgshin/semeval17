@@ -1,0 +1,29 @@
+1	YOUNG	young	JJ	pos2=NNP	2	nmod	_	O
+2	MAN	man	NN	pos2=NNP	3	nsubj	_	O
+3	SEEKS	seek	VBZ	_	0	root	_	O
+4	EUTHANASIA	euthanasia	NN	pos2=NNP	3	dobj	_	O
+5	FOR	for	IN	_	4	prep	_	O
+6	MENTAL	mental	JJ	_	7	nmod	_	O
+7	ILLNESS	illness	NN	_	8	compound	_	O
+8	PAIN	pain	NN	_	5	pobj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	WILL	will	MD	_	2	aux	_	O
+2	CBD	cbd	VB	pos2=NN	0	root	_	O
+3	HELP	help	NN	pos2=VB	2	dobj	_	O
+4	?	?	.	_	2	punct	_	O
+
+1	November	november	NNP	_	10	npadvmod	_	B-DATE
+2	28	0	CD	_	1	nmod	_	I-DATE
+3	,	,	,	_	1	punct	_	I-DATE
+4	2016	0	CD	_	1	npadvmod	_	L-DATE
+5	,	,	,	_	10	punct	_	O
+6	Adam	adam	NNP	_	9	compound	_	B-PERSON
+7	Maier	maier	NNP	_	9	compound	_	I-PERSON
+8	-	-	HYPH	pos2=:	9	punct	_	I-PERSON
+9	Clayton	clayton	NNP	_	10	compound	_	L-PERSON
+10	posts	post	NNS	pos2=VBZ	0	root	_	O
+11	...	..	.	pos2=,	10	punct	_	O
+
+1	https://t.co/YKlbM7IYvM	#hlink#	ADD	_	0	root	_	U-ORG
+

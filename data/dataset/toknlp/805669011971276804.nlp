@@ -1,0 +1,23 @@
+1	#Aleppo	#aleppo	NN	pos2=FW	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	Opposition	opposition	NN	pos2=NNP	5	nsubj	_	O
+4	are	be	VBP	_	5	aux	_	O
+5	holding	hold	VBG	_	0	root	_	O
+6	their	their	PRP$	_	7	poss	_	O
+7	ground	ground	NN	_	5	dobj	_	O
+8	and	and	CC	_	5	cc	_	O
+9	were	be	VBD	_	5	conj	_	O
+10	able	able	JJ	_	9	acomp	_	O
+11	to	to	TO	_	12	aux	_	O
+12	recapture	recapture	VB	_	10	xcomp	_	O
+13	a	a	DT	_	14	det	_	O
+14	number	number	NN	_	12	dobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	positions	position	NNS	_	15	pobj	_	O
+17	in	in	IN	_	16	prep	_	O
+18	#Youth_Housing	#youth_housing	NNP	pos2=NN	17	pobj	_	U-ORG
+19	and	and	CC	_	18	cc	_	O
+20	the	the	DT	_	21	det	_	O
+21	#Military_Academy	#military_academy	NNP	pos2=NN	18	conj	_	U-ORG
+22	.	.	.	_	5	punct	_	O
+

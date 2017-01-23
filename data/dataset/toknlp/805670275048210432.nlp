@@ -1,0 +1,16 @@
+1	Pray	pray	VB	_	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	Aleppo	aleppo	NNP	_	2	pobj	_	U-GPE
+4	!	!	.	_	1	punct	_	O
+
+1	O	o	UH	pos2=SYM	4	discourse	_	O
+2	God	god	NNP	pos2=NN	4	vocative	_	O
+3	please	please	UH	_	4	discourse	_	O
+4	help	help	VB	_	0	root	_	O
+5	these	these	DT	_	6	det	_	O
+6	people	people	NNS	_	4	dobj	_	O
+7	!	!	.	_	4	punct	_	O
+
+1	😔	😔	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/VPxLG5mzCq	#hlink#	ADD	pos2=NN	0	root	_	O
+

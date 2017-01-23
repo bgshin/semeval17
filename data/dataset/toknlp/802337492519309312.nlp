@@ -1,0 +1,10 @@
+1	@Conservatexian	@conservatexian	NNP	pos2=MD	2	nsubj	_	U-ORG
+2	Need	need	VBP	pos2=VB	0	root	_	O
+3	to	to	TO	pos2=IN	4	aux	_	O
+4	chuck	chuck	VB	pos2=NNP	2	xcomp	_	O
+5	pelosi	pelosi	NN	pos2=NNP	4	dobj	_	O
+6	into	into	IN	_	4	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	potomac	potomac	NN	pos2=NNS	6	pobj	_	U-LOC
+9	!	!	.	_	2	punct	_	O
+

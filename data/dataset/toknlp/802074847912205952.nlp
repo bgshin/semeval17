@@ -1,0 +1,33 @@
+1	So	so	RB	_	2	advmod	_	O
+2	is	be	VBZ	_	4	aux	_	O
+3	@celinedion	@celinedion	NNP	pos2=CD	4	nsubj	_	O
+4	gon	gon	VBG	_	0	root	_	O
+5	na	to	TO	_	6	aux	_	O
+6	sing	sing	VB	pos2=VBG	4	xcomp	_	O
+7	the	the	DT	_	10	det	_	O
+8	#BeautyAndTheBeast	#beautyandthebeast	JJ	pos2=JJS	10	nmod	_	O
+9	theme	theme	NN	_	10	compound	_	O
+10	song	song	NN	_	6	dobj	_	O
+11	?	?	.	_	4	punct	_	O
+
+1	Cos	cos	UH	pos2=NNP	6	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	mean	mean	VBP	_	6	parataxis	_	O
+4	it	it	PRP	_	6	nsubj	_	O
+5	'd	would	MD	_	6	aux	_	O
+6	be	be	VB	_	0	root	_	O
+7	really	really	RB	_	8	advmod	_	O
+8	great	great	JJ	_	6	acomp	_	O
+9	if	if	IN	_	11	mark	_	O
+10	she	she	PRP	_	11	nsubj	_	O
+11	did	do	VBD	_	6	advcl	_	O
+12	.	.	.	_	6	punct	_	O
+
+1	It	it	PRP	_	3	nsubj	_	O
+2	'd	would	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	perfect	perfect	JJ	_	3	acomp	_	O
+5	,	,	,	_	3	punct	_	O
+6	actually	actually	RB	_	3	advmod	_	O
+7	...	..	.	pos2=,	3	punct	_	O
+

@@ -1,0 +1,28 @@
+1	He	he	PRP	_	4	nsubj	_	O
+2	did	do	VBD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	fight	fight	VB	_	8	advcl	_	O
+5	anything	anything	NN	_	4	dobj	_	O
+6	,	,	,	_	8	punct	_	O
+7	that	that	DT	_	8	nsubj	_	O
+8	's	's	VBZ	_	0	root	_	O
+9	his	his	PRP$	_	10	poss	_	O
+10	excuse	excuse	NN	_	8	attr	_	O
+11	,	,	,	_	8	punct	_	O
+12	just	just	RB	_	15	advmod	_	O
+13	like	like	IN	_	15	mark	_	O
+14	it	it	PRP	_	15	nsubj	_	O
+15	was	be	VBD	_	8	advcl	_	O
+16	Chávez	chávez	NNP	_	18	poss	_	U-ORG
+17	's	's	POS	_	16	case	_	O
+18	excuse	excuse	NN	_	15	attr	_	O
+19	and	and	CC	_	15	cc	_	O
+20	it	it	PRP	_	21	nsubj	_	O
+21	's	's	VBZ	_	15	conj	_	O
+22	Maduro	maduro	NNP	_	24	poss	_	U-PERSON
+23	's	's	POS	_	22	case	_	O
+24	excuse	excuse	NN	_	21	attr	_	O
+25	.	.	.	_	8	punct	_	O
+
+1	https://t.co/46RUw3K7am	#hlink#	ADD	_	0	root	_	U-ORG
+

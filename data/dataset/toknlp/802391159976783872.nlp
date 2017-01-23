@@ -1,0 +1,22 @@
+1	Internet	internet	NN	_	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	Tents	tent	NNS	pos2=NNPS	2	pobj	_	O
+4	and	and	CC	_	3	cc	_	O
+5	3	0	CD	_	8	nmod	_	U-CARDINAL
+6	D	d	NNP	pos2=NN	10	compound	_	O
+7	printing	printing	NN	pos2=VBG	8	compound	_	O
+8	workshops	workshop	NNS	_	3	conj	_	O
+9	with	with	IN	_	8	prep	_	O
+10	@mr_koz	@mr_koz	NNP	pos2=NN	9	pobj	_	U-ORG
+11	,	,	,	_	10	punct	_	O
+12	@ajfisher	@ajfisher	NNP	pos2=UH	10	conj	_	U-GPE
+13	,	,	,	_	12	punct	_	O
+14	@geekscape	@geekscape	NNP	pos2=XX	12	conj	_	U-GPE
+15	and	and	CC	_	14	cc	_	O
+16	Andy	andy	NNP	_	17	compound	_	B-PERSON
+17	Kitchen	kitchen	NNP	_	14	conj	_	L-PERSON
+18	!	!	.	_	1	punct	_	O
+
+1	#buzzconf	#buzzconf	UH	pos2=ADD	2	discourse	_	O
+2	https://t.co/tf0Vi2KcNL	#hlink#	ADD	pos2=NN	0	root	_	O
+

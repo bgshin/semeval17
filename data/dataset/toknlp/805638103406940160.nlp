@@ -1,0 +1,12 @@
+1	@humelton	@humelton	IN	pos2=NNP	0	root	_	O
+2	Legal	legal	JJ	_	3	nmod	_	O
+3	terminology	terminology	NN	_	1	pobj	_	O
+4	for	for	IN	_	3	prep	_	O
+5	opposing	oppose	VBG	_	4	pcomp	_	O
+6	gay	gay	JJ	_	7	nmod	_	O
+7	marriage	marriage	NN	_	5	dobj	_	O
+8	?	?	.	_	1	punct	_	O
+
+1	Homo	homo	NNP	pos2=UH	2	compound	_	B-ORG
+2	MatrimOHNO	matrimohno	NNP	pos2=ADD	0	root	_	L-ORG
+

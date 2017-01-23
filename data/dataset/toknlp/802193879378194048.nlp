@@ -1,0 +1,23 @@
+1	#Taiz	#taiz	NNP	pos2=SYM	3	compound	_	B-ORG
+2	East	east	NNP	_	3	compound	_	I-ORG
+3	Front	front	NNP	_	5	nsubj	_	L-ORG
+4	,	,	,	_	7	punct	_	O
+5	flares	flare	NNS	_	0	root	_	O
+6	upSmoke	upsmoke	NNP	pos2=WDT	7	nsubj	_	O
+7	rises	rise	VBZ	pos2=NNS	5	ccomp	_	O
+8	from	from	IN	_	7	prep	_	O
+9	Rep	rep	NNP	_	10	compound	_	B-ORG
+10	Palace	palace	NNP	_	12	compound	_	L-ORG
+11	reception	reception	NN	_	12	compound	_	O
+12	yards	yard	NNS	_	8	pobj	_	O
+13	.	.	.	_	5	punct	_	O
+
+1	Heavy	heavy	JJ	pos2=NNP	3	nmod	_	O
+2	fire	fire	NN	_	3	compound	_	O
+3	exchange	exchange	NN	_	4	nsubj	_	O
+4	heard	hear	VBN	_	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	precincts.#YemenSocial	precincts.#yemensocial	NNP	pos2=JJ	8	compound	_	O
+8	Media	media	NNP	pos2=NNS	5	pobj	_	O
+

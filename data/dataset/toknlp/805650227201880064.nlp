@@ -1,0 +1,27 @@
+1	Donald	donald	NNP	_	2	compound	_	B-PERSON
+2	Trump	trump	NNP	_	5	nsubj	_	L-PERSON
+3	does	do	VBZ	_	5	aux	_	O
+4	not	not	RB	_	5	neg	_	O
+5	have	have	VB	_	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	clue	clue	NN	_	5	dobj	_	O
+8	about	about	IN	_	7	prep	_	O
+9	global	global	JJ	_	10	nmod	_	O
+10	warming	warming	NN	_	8	pobj	_	O
+11	.	.	.	_	5	punct	_	O
+
+1	Maybe	maybe	RB	_	6	advmod	_	O
+2	the	the	DT	_	3	det	_	O
+3	Rockefeller	rockefeller	NNP	_	6	nsubj	_	U-ORG
+4	's	's	POS	_	3	case	_	O
+5	can	can	MD	pos2=NN	6	aux	_	O
+6	clue	clue	VB	_	0	root	_	O
+7	them	them	PRP	_	6	dobj	_	O
+8	in	in	IN	pos2=RP	6	prep	_	O
+9	about	about	IN	pos2=JJ	6	prep	_	O
+10	fossil	fossil	NN	pos2=JJ	11	compound	_	O
+11	fuels	fuel	NNS	_	9	pobj	_	O
+12	.	.	.	_	6	punct	_	O
+
+1	https://t.co/7Tnxh91p5e	#hlink#	ADD	_	0	root	_	U-ORG
+

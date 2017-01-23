@@ -1,0 +1,26 @@
+1	can	can	MD	_	5	aux	_	O
+2	conservatives	conservative	NNS	_	5	nsubj	_	O
+3	and	and	CC	_	2	cc	_	O
+4	rightists	rightist	NNS	_	2	conj	_	O
+5	stop	stop	VBP	pos2=VB	0	root	_	O
+6	calling	call	VBG	_	5	xcomp	_	O
+7	everyone	everyone	NN	_	6	dobj	_	O
+8	else	else	RB	pos2=JJ	7	advmod	_	O
+9	"	"	``	_	10	punct	_	O
+10	liberals	liberal	NNS	_	6	oprd	_	O
+11	"	"	''	_	10	punct	_	O
+12	you	you	PRP	_	13	nsubj	_	O
+13	know	know	VBP	_	10	parataxis	_	O
+14	that	that	DT	pos2=WDT	17	nsubj	_	O
+15	does	do	VBZ	_	17	aux	_	O
+16	n't	not	RB	_	17	neg	_	O
+17	mean	mean	VB	_	13	ccomp	_	O
+18	the	the	DT	_	20	det	_	O
+19	same	same	JJ	_	20	nmod	_	O
+20	thing	thing	NN	_	17	dobj	_	O
+21	as	as	IN	_	20	prep	_	O
+22	"	"	``	_	25	punct	_	O
+23	leftist	leftist	JJ	pos2=NN	25	nmod	_	O
+24	"	"	''	_	25	punct	_	O
+25	right	right	JJ	pos2=RB	21	pobj	_	O
+

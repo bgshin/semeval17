@@ -1,0 +1,17 @@
+1	Arab	arab	JJ	_	3	nmod	_	U-NORP
+2	social	social	JJ	_	3	nmod	_	O
+3	media	medium	NNS	pos2=NN	16	nsubj	_	O
+4	ablaze	ablaze	RB	pos2=NN	3	advmod	_	O
+5	with	with	IN	_	3	prep	_	O
+6	'	'	``	_	7	punct	_	O
+7	#Israelisburning	#israelisburning	VBG	pos2=ADD	5	pcomp	_	O
+8	'	'	''	pos2=POS	7	punct	_	O
+9	posts	post	NNS	pos2=VBZ	7	dobj	_	O
+10	celebrating	celebrate	VBG	_	9	acl	_	O
+11	f	f	IN	pos2=-LRB-	10	prep	_	O
+12	ireshttps://t.co/IAaI45nKju	#hlink#	ADD	pos2=NN	11	pobj	_	O
+13	#tcot	#tcot	IN	pos2=-RRB-	10	prep	_	O
+14	#uniteblue	#uniteblue	UH	pos2=GW	13	discourse	_	O
+15	…	…	NFP	pos2=-LRB-	16	punct	_	O
+16	https://t.co/HhLVRl06i4	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,14 @@
+1	LOOK	look	NN	pos2=VB	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	City	city	NN	pos2=NNP	4	nsubj	_	O
+4	estimates	estimate	VBZ	pos2=NNS	0	root	_	O
+5	5	0	CD	_	6	compound	_	B-CARDINAL
+6	million	#crd#	CD	_	7	nmod	_	L-CARDINAL
+7	people	people	NNS	_	8	nsubj	_	O
+8	attend	attend	VBP	pos2=VB	4	ccomp	_	O
+9	Cubs	cubs	NNP	pos2=NNPS	11	compound	_	B-EVENT
+10	World	world	NNP	_	11	compound	_	I-EVENT
+11	Series	series	NNP	_	12	compound	_	L-EVENT
+12	parade	parade	NN	pos2=GW	8	dobj	_	O
+13	https://t.co/rCP3yEwfyP	#hlink#	ADD	pos2=NN	11	nmod	_	O
+

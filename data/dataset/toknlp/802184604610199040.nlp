@@ -1,0 +1,25 @@
+1	Started	start	VBD	_	0	root	_	O
+2	my	my	PRP$	_	3	poss	_	O
+3	day	day	NN	_	1	dobj	_	O
+4	considering	consider	VBG	_	1	advcl	_	O
+5	watching	watch	VBG	_	4	xcomp	_	O
+6	#GilmoreGirlsRevival	#gilmoregirlsrevival	NNP	pos2=NN	5	dobj	_	U-ORG
+7	,	,	,	_	9	punct	_	O
+8	then	then	RB	_	9	advmod	_	O
+9	found	find	VBD	pos2=VBN	1	dep	_	O
+10	out	out	RP	_	9	prt	_	O
+11	what	what	WP	_	13	attr	_	O
+12	#Hatchimals	#hatchimals	NNS	pos2=PRP	13	nsubj	_	O
+13	are	be	VBP	_	9	ccomp	_	O
+14	,	,	,	_	9	punct	_	O
+15	now	now	RB	_	18	advmod	_	O
+16	I	I	PRP	_	18	nsubj	_	O
+17	'm	be	VBP	_	18	aux	_	O
+18	playing	play	VBG	_	9	advcl	_	O
+19	@telltalegames	@telltalegames	NNS	pos2=NNP	18	dobj	_	O
+20	'	'	''	pos2=POS	18	punct	_	O
+21	#Batman	#batman	NNP	pos2=NN	18	dobj	_	U-PRODUCT
+22	.	.	.	_	1	punct	_	O
+
+1	Hm.	hm.	NNP	pos2=JJ	0	root	_	O
+

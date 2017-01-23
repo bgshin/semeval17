@@ -1,0 +1,27 @@
+1	@grrrr_shark	@grrrr_shark	UH	pos2=NNP	4	discourse	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	never	never	RB	_	4	neg	_	O
+4	bought	buy	VBD	_	0	root	_	O
+5	from	from	IN	_	4	prep	_	O
+6	them	them	PRP	_	5	pobj	_	O
+7	because	because	IN	_	9	mark	_	O
+8	they	they	PRP	_	9	nsubj	_	O
+9	were	be	VBD	_	4	advcl	_	O
+10	strongly	strongly	RB	_	11	advmod	_	O
+11	into	into	IN	_	9	prep	_	O
+12	animal	animal	NN	_	13	compound	_	O
+13	testing	testing	NN	_	11	pobj	_	O
+14	,	,	,	_	13	punct	_	O
+15	gone	go	VBN	_	9	advcl	_	O
+16	so	so	RB	_	17	advmod	_	O
+17	far	far	RB	_	15	advmod	_	O
+18	that	that	IN	pos2=DT	21	mark	_	O
+19	now	now	RB	_	21	advmod	_	O
+20	I	I	PRP	_	21	nsubj	_	O
+21	'm	be	VBP	_	17	ccomp	_	O
+22	into	into	IN	_	21	prep	_	O
+23	natural	natural	JJ	_	25	nmod	_	O
+24	only	only	JJ	pos2=RB	25	nmod	_	O
+25	products	product	NNS	_	22	pobj	_	O
+26	!	!	.	_	4	punct	_	O
+

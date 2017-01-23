@@ -1,0 +1,12 @@
+1	Nice	nice	JJ	_	3	nmod	_	O
+2	coffee	coffee	NN	_	3	compound	_	O
+3	art	art	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Very	very	RB	pos2=JJ	2	advmod	_	O
+2	hipster	hipster	NN	pos2=JJ	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	6/10	0	CD	pos2=LS	2	dep	_	B-CARDINAL
+2	https://t.co/EgfH9KjerX	#hlink#	ADD	_	0	root	_	L-CARDINAL
+

@@ -1,0 +1,11 @@
+1	Jimmy	jimmy	NNP	_	2	compound	_	B-PERSON
+2	Howard	howard	NNP	_	0	root	_	L-PERSON
+3	:	:	:	_	2	punct	_	O
+4	the	the	DT	_	7	det	_	O
+5	red	red	JJ	_	6	nmod	_	O
+6	wings	wing	NNS	_	7	compound	_	O
+7	version	version	NN	_	2	appos	_	O
+8	of	of	IN	_	7	prep	_	O
+9	Justin	justin	NNP	_	10	compound	_	B-PERSON
+10	verlander	verlander	NNP	pos2=NN	8	pobj	_	L-PERSON
+

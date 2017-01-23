@@ -1,0 +1,11 @@
+1	@cinnamontoastk	@cinnamontoastk	UH	pos2=NN	0	root	_	O
+2	Because	because	IN	_	7	mark	_	O
+3	white	white	JJ	_	4	nmod	_	O
+4	day	day	NN	_	7	nsubjpass	_	O
+5	is	be	VBZ	_	7	aux	_	O
+6	being	be	VBG	_	7	auxpass	_	O
+7	taken	take	VBN	_	1	advcl	_	O
+8	by	by	IN	_	7	agent	_	O
+9	Valentines	valentines	NNP	_	10	compound	_	B-DATE
+10	day	day	NN	_	8	pobj	_	L-DATE
+

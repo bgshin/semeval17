@@ -1,0 +1,30 @@
+1	Here	here	RB	_	2	advmod	_	O
+2	's	's	VBZ	_	7	ccomp	_	O
+3	Obama	obama	NNP	_	4	compound	_	U-PERSON
+4	legacy	legacy	NN	_	2	nsubj	_	O
+5	;	;	:	pos2=,	7	punct	_	O
+6	we	we	PRP	_	7	nsubj	_	O
+7	started	start	VBD	_	0	root	_	O
+8	his	his	PRP$	_	9	poss	_	O
+9	presidency	presidency	NN	_	7	dobj	_	O
+10	with	with	IN	_	7	prep	_	O
+11	3	0	CD	_	12	nmod	_	U-CARDINAL
+12	wars	war	NNS	_	10	pobj	_	O
+13	and	and	CC	_	7	cc	_	O
+14	we	we	PRP	_	15	nsubj	_	O
+15	end	end	VBP	_	7	conj	_	O
+16	it	it	PRP	_	15	dobj	_	O
+17	with	with	IN	_	15	prep	_	O
+18	7	0	CD	_	17	pobj	_	U-CARDINAL
+19	!	!	.	_	15	punct	_	O
+
+1	&	&	CC	_	3	cc	_	O
+2	drone	drone	NN	_	3	compound	_	O
+3	strikes	strike	NNS	_	0	root	_	O
+4	;	;	:	pos2=,	7	punct	_	O
+5	&	&	CC	_	3	cc	_	O
+6	Hillary	hillary	NNP	_	7	nsubj	_	U-PERSON
+7	wanted	want	VBD	_	0	root	_	O
+8	…	…	NFP	pos2=-LRB-	9	punct	_	O
+9	https://t.co/aMIO2bXs1k	#hlink#	ADD	_	7	dobj	_	U-ORG
+

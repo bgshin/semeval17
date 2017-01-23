@@ -1,0 +1,18 @@
+1	Overview	overview	NN	pos2=NNP	17	dep	_	O
+2	of	of	IN	_	1	prep	_	O
+3	MXNet	mxnet	NNP	pos2=PDT	2	pobj	_	U-ORG
+4	the	the	DT	_	7	det	_	O
+5	Deep	deep	NNP	pos2=JJ	7	compound	_	O
+6	Learning	learning	NN	pos2=NNP	7	compound	_	O
+7	framework	framework	NN	_	3	appos	_	O
+8	that	that	WDT	pos2=IN	17	dep	_	O
+9	Amazon	amazon	NNP	_	11	nsubj	_	U-ORG
+10	has	have	VBZ	_	11	aux	_	O
+11	announced	announce	VBN	_	7	relcl	_	O
+12	support	support	NN	_	11	dobj	_	O
+13	for	for	IN	_	12	prep	_	O
+14	this	this	DT	_	15	det	_	B-DATE
+15	week	week	NN	_	13	pobj	_	L-DATE
+16	…	…	NFP	pos2=-LRB-	17	punct	_	O
+17	https://t.co/eBoNJty7kr	#hlink#	ADD	_	0	root	_	U-ORG
+

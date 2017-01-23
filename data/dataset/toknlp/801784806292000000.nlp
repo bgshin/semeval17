@@ -1,0 +1,16 @@
+1	Telling.#Assad	telling.#assad	NNP	pos2=NN	15	dep	_	U-GPE
+2	,	,	,	_	1	punct	_	O
+3	#Hezbollah	#hezbollah	NNP	_	1	conj	_	U-GPE
+4	and	and	CC	_	3	cc	_	O
+5	#YPG	#ypg	NN	pos2=XX	6	compound	_	O
+6	fight	fight	NN	pos2=VB	3	conj	_	O
+7	as	as	IN	pos2=RB	6	prep	_	O
+8	one	#crd#	CD	pos2=PRP	7	pobj	_	U-CARDINAL
+9	again	again	RB	_	7	advmod	_	O
+10	,	,	,	_	15	punct	_	O
+11	according	accord	VBG	_	15	prep	_	O
+12	to	to	IN	_	11	prep	_	O
+13	pro-regime	pro-regime	JJ	_	14	nmod	_	O
+14	sources.#Syria	sources.#syria	NNP	pos2=NN	12	pobj	_	U-GPE
+15	https://t.co/9aRZSBmdGo	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,28 @@
+1	Thanks	thanks	NNS	pos2=NN	14	npadvmod	_	O
+2	to	to	IN	_	1	prep	_	O
+3	the	the	DT	_	5	det	_	O
+4	draconian	draconian	JJ	_	5	nmod	_	O
+5	decades	decade	NNS	_	2	pobj	_	O
+6	long	long	JJ	pos2=RB	7	nmod	_	O
+7	embargo	embargo	NN	_	14	nsubj	_	O
+8	on	on	IN	_	7	prep	_	O
+9	Cuba	cuba	NNP	_	11	compound	_	U-GPE
+10	-	-	HYPH	pos2=,	11	punct	_	O
+11	Bee	bee	NNP	_	8	pobj	_	O
+12	's	's	POS	pos2=PRP	11	case	_	O
+13	are	be	VBP	_	14	aux	_	O
+14	flourishing	flourish	VBG	_	0	root	_	O
+15	in	in	IN	_	14	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	absence	absence	NN	_	15	pobj	_	O
+18	of	of	IN	_	17	prep	_	O
+19	pesticides	pesticide	NNS	_	18	pobj	_	O
+20	.	.	.	_	14	punct	_	O
+
+1	https	http	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	//	//	NFP	pos2=-LRB-	6	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	cuiTZ0vczb	cuitz0vczb	NN	pos2=NNS	0	root	_	O
+

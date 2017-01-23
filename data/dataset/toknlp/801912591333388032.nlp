@@ -1,0 +1,29 @@
+1	Fuck	fuck	VB	pos2=UH	0	root	_	O
+2	the	the	DT	_	4	det	_	O
+3	Un	un	NNP	pos2=NN	4	compound	_	U-ORG
+4	#UnitedNations	#unitednations	NNS	pos2=ADD	1	dobj	_	O
+5	for	for	IN	_	1	prep	_	O
+6	what	what	WP	_	10	dobj	_	O
+7	the	the	DT	_	8	det	_	O
+8	jew	jew	NN	pos2=NNP	10	nsubj	_	O
+9	is	be	VBZ	_	10	aux	_	O
+10	doing	do	VBG	_	5	pcomp	_	O
+11	to	to	IN	_	10	prep	_	O
+12	Palestine	palestine	NNP	_	11	pobj	_	U-GPE
+13	.	.	.	_	1	punct	_	O
+
+1	Now	now	RB	pos2=UH	4	advmod	_	O
+2	the	the	DT	_	3	det	_	O
+3	world	world	NN	_	4	nsubj	_	O
+4	knows	know	VBZ	_	0	root	_	O
+5	why	why	WRB	_	9	advmod	_	O
+6	the	the	DT	_	8	det	_	O
+7	Hero	hero	NNP	pos2=NN	8	compound	_	O
+8	Hitler	hitler	NNP	_	9	nsubj	_	U-PERSON
+9	burned	burn	VBD	_	4	ccomp	_	O
+10	the	the	DT	_	12	det	_	O
+11	fucking	fucking	JJ	_	12	nmod	_	O
+12	jews	jew	NNS	pos2=NN	9	dobj	_	O
+13	alive	alive	JJ	_	9	advcl	_	O
+14	.	.	.	_	4	punct	_	O
+

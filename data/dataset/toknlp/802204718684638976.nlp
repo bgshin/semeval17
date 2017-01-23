@@ -1,0 +1,11 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@taylorswift13	@taylorswift0	NN	pos2=CD	4	nsubj	_	O
+2	&	&	CC	_	1	cc	_	O
+3	squad	squad	NN	pos2=RB	1	conj	_	O
+4	complete	complete	VBP	pos2=VB	0	root	_	O
+5	the	the	DT	_	8	dep	_	O
+6	#MannequinChallenge	#mannequinchallenge	GW	pos2=NN	8	nmod	_	O
+7	https://t.co/sHV0hOcdc4	#hlink#	ADD	_	8	nmod	_	O
+8	https://t.co/RZJi5XuOvS	#hlink#	ADD	_	4	dobj	_	O
+

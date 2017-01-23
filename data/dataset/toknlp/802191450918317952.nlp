@@ -1,0 +1,15 @@
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=ADD	3	dep	_	O
+2	Please	please	UH	_	3	discourse	_	O
+3	help	help	VB	_	0	root	_	O
+4	Native	native	JJ	pos2=NNP	5	nmod	_	B-NORP
+5	American	american	NNP	pos2=JJ	3	dobj	_	L-NORP
+6	in	in	IN	_	5	prep	_	O
+7	Dakota	dakota	NNP	_	8	compound	_	O
+8	Access	access	NNP	_	10	compound	_	U-PRODUCT
+9	Pipeline	pipeline	NN	pos2=NNP	10	compound	_	O
+10	controversy	controversy	NN	_	6	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	PLEASE	please	UH	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

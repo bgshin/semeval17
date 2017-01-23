@@ -1,0 +1,16 @@
+1	MSM	msm	NN	pos2=NNP	3	nsubj	_	O
+2	finally	finally	RB	_	3	advmod	_	O
+3	works	work	VBZ	_	0	root	_	O
+4	out	out	RP	_	3	prt	_	O
+5	the	the	DT	_	7	det	_	O
+6	gas	gas	NN	_	7	compound	_	O
+7	industry	industry	NN	_	3	dobj	_	O
+8	blackmailing	blackmail	VBG	pos2=NN	3	advcl	_	O
+9	of	of	IN	_	8	prep	_	O
+10	Australian	australian	JJ	_	11	nmod	_	U-NORP
+11	governments	government	NNS	_	9	pobj	_	O
+12	#auspol	#auspol	VBP	pos2=XX	3	advcl	_	O
+13	#fracking	#fracking	VBG	pos2=GW	15	nmod	_	O
+14	#CSG	#csg	GW	pos2=ADD	15	nmod	_	O
+15	https://t.co/lAZ4zsjXQM	#hlink#	ADD	pos2=NN	3	dep	_	U-ORG
+

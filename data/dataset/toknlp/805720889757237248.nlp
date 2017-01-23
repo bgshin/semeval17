@@ -1,0 +1,21 @@
+1	Pope	pope	NNP	_	2	compound	_	O
+2	Francis	francis	NNP	_	4	poss	_	U-PERSON
+3	’	'	POS	_	2	case	_	O
+4	Letter	letter	NN	pos2=NNP	20	dep	_	O
+5	To	to	IN	_	4	prep	_	O
+6	Dying	die	VBG	pos2=NNP	5	pcomp	_	O
+7	9	0	CD	_	9	nmod	_	B-DATE
+8	-	-	HYPH	pos2=:	9	punct	_	I-DATE
+9	Year	year	NN	pos2=JJ	11	npadvmod	_	I-DATE
+10	-	-	HYPH	_	15	punct	_	I-DATE
+11	Old	old	NNP	pos2=JJ	15	compound	_	L-DATE
+12	Paolina	paolina	NNP	_	15	compound	_	O
+13	–	-	HYPH	pos2=,	15	punct	_	O
+14	A	a	NNP	pos2=DT	15	compound	_	O
+15	Kiss	kiss	NNP	pos2=NN	6	dobj	_	O
+16	Of	of	IN	_	15	prep	_	O
+17	The	the	DT	_	18	det	_	O
+18	Pope	pope	NNP	_	16	pobj	_	O
+19	https://t.co/8Dp1Ag5cH9	#hlink#	ADD	_	20	nmod	_	O
+20	https://t.co/qZl7Kbg8Hi	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,18 @@
+1	Watch	watch	VB	pos2=NNP	0	root	_	O
+2	“	"	``	pos2=''	3	punct	_	O
+3	AI	ai	NN	pos2=FW	1	dobj	_	O
+4	,	,	,	_	3	punct	_	O
+5	Deep	deep	JJ	pos2=NNP	6	nmod	_	B-WORK_OF_ART
+6	Learning	learning	NN	pos2=NNP	3	conj	_	L-WORK_OF_ART
+7	,	,	,	_	6	punct	_	O
+8	and	and	CC	_	6	cc	_	O
+9	Machine	machine	NN	pos2=NNP	10	compound	_	O
+10	Learning	learning	NN	pos2=NNP	6	conj	_	O
+11	:	:	:	_	10	punct	_	O
+12	A	a	DT	_	13	det	_	O
+13	Primer	primer	NNP	pos2=NN	17	dep	_	O
+14	”	"	''	pos2=``	3	punct	_	O
+15	on	on	IN	pos2=GW	13	prep	_	O
+16	#Vimeo	#vimeo	NNP	pos2=ADD	15	pobj	_	O
+17	https://t.co/rMJeapq40h	#hlink#	ADD	_	3	appos	_	O
+

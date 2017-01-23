@@ -1,0 +1,5 @@
+1	Tipp	tipp	NNP	_	2	compound	_	B-ORG
+2	28Fairmont	0fairmont	NNP	pos2=GW	4	dep	_	L-ORG
+3	38Final	0final	JJ	pos2=-LRB-	4	nmod	_	O
+4	https://t.co/b4qR9Mu7rB	#hlink#	ADD	_	0	root	_	U-ORG
+

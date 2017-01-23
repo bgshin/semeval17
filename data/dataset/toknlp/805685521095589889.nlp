@@ -1,0 +1,21 @@
+1	Latest	late	JJS	pos2=NNP	2	nmod	_	O
+2	Research	research	NN	pos2=NNP	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	#Homeopathy	#homeopathy	NNP	pos2=NN	3	pobj	_	U-GPE
+5	.	.	.	_	2	punct	_	O
+
+1	Arnica	arnica	NNP	_	2	compound	_	U-GPE
+2	montana	montana	NNP	pos2=NN	3	nsubj	_	O
+3	stimulates	stimulate	VBZ	_	0	root	_	O
+4	extracellular	extracellular	JJ	_	7	nmod	_	O
+5	matrix	matrix	NN	_	7	compound	_	O
+6	gene	gene	NN	_	7	compound	_	O
+7	expression	expression	NN	_	3	dobj	_	O
+8	in	in	IN	_	3	prep	_	O
+9	a	a	DT	_	10	det	_	O
+10	macrophage	macrophage	NN	_	8	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/2TmJ0YNaHf	#hlink#	ADD	pos2=NN	0	root	_	O
+

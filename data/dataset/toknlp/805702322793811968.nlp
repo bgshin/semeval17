@@ -1,0 +1,18 @@
+1	What	what	WDT	_	2	det	_	O
+2	percent	percent	NN	_	6	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	America	america	NNP	_	3	pobj	_	U-GPE
+5	is	be	VBZ	_	6	aux	_	O
+6	having	have	VBG	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	dream	dream	NN	_	6	dobj	_	O
+9	that	that	IN	pos2=WDT	11	mark	_	O
+10	they	they	PRP	_	11	nsubj	_	O
+11	're	be	VBP	_	8	acl	_	O
+12	a	a	DT	_	13	det	_	O
+13	cowboy	cowboy	NN	_	11	attr	_	O
+14	tonight	tonight	NN	_	11	npadvmod	_	U-TIME
+15	?	?	.	_	6	punct	_	O
+
+1	#Westworld	#westworld	NNP	pos2=XX	0	root	_	U-ORG
+

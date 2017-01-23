@@ -1,0 +1,18 @@
+1	'	'	``	pos2=NNS	4	punct	_	O
+2	I	I	PRP	_	4	nsubjpass	_	O
+3	am	be	VBP	_	4	auxpass	_	O
+4	opposed	oppose	VBN	pos2=JJ	0	root	_	O
+5	to	to	IN	_	4	prep	_	O
+6	a	a	DT	_	8	det	_	O
+7	multi-cultural	multi-cultural	JJ	_	8	nmod	_	O
+8	France	france	NNP	_	5	pobj	_	U-GPE
+9	'	'	''	pos2=POS	8	punct	_	O
+10	-	-	:	pos2=HYPH	11	punct	_	O
+11	interview	interview	NN	pos2=VB	8	appos	_	O
+12	with	with	IN	_	11	prep	_	O
+13	Le	le	NNP	_	14	compound	_	B-ORG
+14	Pen	pen	NNP	_	12	pobj	_	L-ORG
+15	.	.	.	_	11	punct	_	O
+
+1	https://t.co/O1JzWxjd0H	#hlink#	ADD	_	0	root	_	U-ORG
+

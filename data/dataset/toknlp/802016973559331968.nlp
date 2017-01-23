@@ -1,0 +1,9 @@
+1	#stop	#stop	NN	pos2=XX	8	dep	_	O
+2	killing	kill	VBG	pos2=NN	1	acl	_	O
+3	#civilians	#civilians	NNPS	pos2=NNS	2	dobj	_	U-PERSON
+4	in	in	IN	pos2=RB	2	prep	_	O
+5	#Syria	#syria	NNP	pos2=NNS	6	compound	_	B-GPE
+6	#Russia	#russia	NNP	pos2=GW	4	pobj	_	L-GPE
+7	#unitednations	#unitednations	ADD	pos2=NNS	8	dep	_	O
+8	https://t.co/fsRa7I9OBf	#hlink#	ADD	_	0	root	_	O
+

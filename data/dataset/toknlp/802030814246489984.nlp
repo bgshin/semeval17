@@ -1,0 +1,14 @@
+1	More	more	JJR	pos2=RBR	2	nmod	_	O
+2	#newarrivals	#newarrivals	NNS	pos2=IN	0	root	_	O
+3	#pentatonix	#pentatonix	UH	pos2=FW	2	discourse	_	O
+4	#christmasalbum	#christmasalbum	UH	pos2=FW	2	discourse	_	O
+5	#arianagrande	#arianagrande	UH	pos2=FW	2	discourse	_	O
+6	#frankzappa	#frankzappa	UH	pos2=FW	2	discourse	_	O
+7	#leonardcohen	#leonardcohen	UH	pos2=VB	2	discourse	_	O
+8	with	with	IN	_	2	prep	_	O
+9	Hallelujah	hallelujah	NNP	pos2=UH	10	compound	_	B-PERSON
+10	#bobdylan	#bobdylan	NNP	pos2=XX	8	pobj	_	L-PERSON
+11	...	..	.	_	2	punct	_	O
+
+1	https://t.co/EbtID26Oj6	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,20 @@
+1	Retweeted	retweeted	VBN	pos2=VBD	2	nmod	_	O
+2	#StillWithHer	#stillwithher	NN	pos2=NNP	6	nmod	_	U-PERSON
+3	(	(	-LRB-	_	2	punct	_	O
+4	@deejay90192	@deejay0	NN	pos2=NNS	2	appos	_	O
+5	)	)	-RRB-	_	2	punct	_	O
+6	:Republicans	:republicans	NNS	pos2=NNPS	9	nsubj	_	O
+7	Can	can	MD	_	9	aux	_	O
+8	not	not	RB	_	9	neg	_	O
+9	Claim	claim	VB	_	0	root	_	O
+10	a	a	DT	_	11	det	_	O
+11	Mandate	mandate	NN	pos2=NNP	9	dobj	_	O
+12	When	when	WRB	_	15	advmod	_	O
+13	Hillary	hillary	NNP	_	14	compound	_	B-PERSON
+14	Clinton	clinton	NNP	_	15	nsubj	_	L-PERSON
+15	Has	have	VBZ	_	11	relcl	_	O
+16	a	a	DT	_	15	dobj	_	O
+17	...	..	.	pos2=,	9	punct	_	O
+
+1	https://t.co/DybFjF2HTZ	#hlink#	ADD	_	0	root	_	U-ORG
+

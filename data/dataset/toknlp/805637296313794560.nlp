@@ -1,0 +1,31 @@
+1	Rod	rod	NNP	_	2	compound	_	B-PERSON
+2	Serling	serling	NNP	_	3	nsubj	_	L-PERSON
+3	wrote	write	VBD	_	0	root	_	O
+4	or	or	CC	_	3	cc	_	O
+5	adapted	adapt	VBD	pos2=VBN	3	conj	_	O
+6	two	#crd#	CD	_	8	nmod	_	B-CARDINAL
+7	-	-	HYPH	_	8	punct	_	I-CARDINAL
+8	thirds	#ord#	NNS	_	5	dobj	_	L-CARDINAL
+9	of	of	IN	_	8	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	156	0	CD	_	12	nmod	_	U-CARDINAL
+12	episodes	episode	NNS	_	9	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	"	"	``	_	17	punct	_	O
+15	The	the	DT	_	17	det	_	B-WORK_OF_ART
+16	Twilight	twilight	NNP	_	17	compound	_	I-WORK_OF_ART
+17	Zone	zone	NNP	_	13	pobj	_	L-WORK_OF_ART
+18	,	,	,	_	3	punct	_	O
+19	"	"	''	_	3	punct	_	O
+20	and	and	CC	_	3	cc	_	O
+21	the	the	DT	_	22	det	_	O
+22	quality	quality	NN	_	24	nsubj	_	O
+23	never	never	RB	_	24	neg	_	O
+24	wavered	waver	VBD	_	3	conj	_	O
+25	.	.	.	_	24	punct	_	O
+
+1	Still	still	RB	_	4	advmod	_	O
+2	the	the	DT	_	4	det	_	O
+3	gold	gold	NN	pos2=JJ	4	compound	_	O
+4	standard	standard	NN	pos2=JJ	0	root	_	O
+

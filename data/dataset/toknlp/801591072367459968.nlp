@@ -1,0 +1,9 @@
+1	Grayson	grayson	NNP	_	2	compound	_	B-PERSON
+2	Allen	allen	NNP	_	4	nsubj	_	L-PERSON
+3	only	only	RB	_	4	advmod	_	O
+4	plays	play	VBZ	_	0	root	_	O
+5	well	well	RB	_	4	advmod	_	O
+6	against	against	IN	_	4	prep	_	O
+7	bad	bad	JJ	_	8	nmod	_	O
+8	teams	team	NNS	_	6	pobj	_	O
+

@@ -1,0 +1,25 @@
+1	@redxgio	@redxgio	UH	pos2=XX	0	root	_	O
+2	Hi	hi	UH	_	1	discourse	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	Did	do	VBD	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	get	get	VB	_	0	root	_	O
+4	over	over	IN	pos2=RP	3	prep	_	O
+5	Glenn	glenn	NNP	_	4	pobj	_	U-PERSON
+6	and	and	CC	_	5	cc	_	O
+7	Abraham	abraham	NNP	_	9	poss	_	U-PERSON
+8	's	's	POS	_	7	case	_	O
+9	death	death	NN	_	5	conj	_	O
+10	?	?	.	_	3	punct	_	O
+
+1	Or	or	CC	_	2	cc	_	O
+2	are	be	VBP	_	5	aux	_	O
+3	you	you	PRP	_	5	nsubj	_	O
+4	still	still	RB	_	5	advmod	_	O
+5	greaving	greaving	VBG	_	0	root	_	O
+6	?	?	.	_	5	punct	_	O
+
+1	#TheWalkingDead	#thewalkingdead	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/5n4umHRzFx	#hlink#	ADD	_	0	root	_	O
+

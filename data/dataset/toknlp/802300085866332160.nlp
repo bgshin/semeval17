@@ -1,0 +1,19 @@
+1	6	0	CD	pos2=LS	3	nmod	_	U-CARDINAL
+2	crazy	crazy	JJ	_	3	nmod	_	O
+3	things	thing	NNS	_	11	nsubj	_	O
+4	Deep	deep	JJ	pos2=NNP	5	nmod	_	O
+5	Learning	learning	NN	pos2=NNP	3	appos	_	O
+6	and	and	CC	_	5	cc	_	O
+7	Topological	topological	NNP	pos2=JJ	8	compound	_	B-ORG
+8	Data	data	NNP	pos2=NNS	9	compound	_	I-ORG
+9	Analysis	analysis	NN	pos2=NNP	5	conj	_	L-ORG
+10	can	can	MD	_	11	aux	_	O
+11	do	do	VB	_	0	root	_	O
+12	with	with	IN	_	11	prep	_	O
+13	your	your	PRP$	_	14	poss	_	O
+14	data#Nitaipartners	data#nitaipartners	NNS	pos2=NNP	12	pobj	_	U-DATE
+15	#Bigdata	#bigdata	NNP	pos2=GW	14	appos	_	B-WORK_OF_ART
+16	#dataminin	#dataminin	GW	pos2=UH	18	nmod	_	I-WORK_OF_ART
+17	…	…	NFP	pos2=GW	18	punct	_	L-WORK_OF_ART
+18	https://t.co/xhLRCHAm3U	#hlink#	ADD	_	14	appos	_	O
+

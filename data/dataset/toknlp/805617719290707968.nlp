@@ -1,0 +1,23 @@
+1	"	"	``	pos2=SYM	22	punct	_	O
+2	Being	be	VBG	_	4	csubj	_	O
+3	catholic	catholic	JJ	_	2	acomp	_	O
+4	is	be	VBZ	pos2=RB	0	root	_	O
+5	cool	cool	JJ	_	4	acomp	_	O
+6	and	and	CC	_	4	cc	_	O
+7	all	all	DT	pos2=RB	11	nsubj	_	O
+8	like	like	IN	pos2=VBP	7	prep	_	O
+9	Pope	pope	NNP	_	10	compound	_	O
+10	Francis	francis	NNP	_	8	pobj	_	O
+11	bless	bless	VB	pos2=VBP	4	conj	_	O
+12	the	the	DT	_	13	det	_	O
+13	fuck	fuck	NN	_	11	dobj	_	O
+14	up	up	RP	_	11	prt	_	O
+15	but	but	CC	_	13	cc	_	O
+16	other	other	JJ	_	13	conj	_	O
+17	than	than	IN	_	16	prep	_	O
+18	that	that	DT	pos2=IN	17	pobj	_	O
+19	no	no	DT	pos2=RB	22	det	_	O
+20	"	"	''	pos2=``	22	punct	_	O
+21	-	-	:	pos2=,	22	punct	_	O
+22	Leslie	leslie	NNP	_	0	root	_	O
+

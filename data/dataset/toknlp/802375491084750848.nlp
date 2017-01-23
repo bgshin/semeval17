@@ -1,0 +1,7 @@
+1	Clinton	clinton	NNP	_	2	compound	_	B-ORG
+2	Foundation	foundation	NNP	_	0	root	_	L-ORG
+3	out	out	IN	pos2=RP	2	prep	_	O
+4	Klein	klein	NNP	_	5	compound	_	O
+5	Foundation	foundation	NNP	_	3	pobj	_	O
+6	in.	in.	.	pos2=NN	2	punct	_	O
+

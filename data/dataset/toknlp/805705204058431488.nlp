@@ -1,0 +1,25 @@
+1	Brexit	brexit	NN	pos2=NNP	8	dep	_	O
+2	:	:	:	_	8	punct	_	O
+3	sooner	soon	RBR	pos2=RB	8	advmod	_	O
+4	or	or	CC	_	3	cc	_	O
+5	later	late	RBR	pos2=JJR	3	conj	_	O
+6	May	may	NNP	pos2=MD	8	nsubj	_	O
+7	must	must	MD	_	8	aux	_	O
+8	confront	confront	VB	_	17	ccomp	_	O
+9	those	those	DT	_	8	dobj	_	O
+10	arguing	argue	VBG	pos2=NN	9	acl	_	O
+11	for	for	IN	_	10	prep	_	O
+12	a	a	DT	_	15	det	_	O
+13	'	'	``	_	15	punct	_	O
+14	hard	hard	JJ	_	15	nmod	_	O
+15	exit	exit	NN	_	11	pobj	_	O
+16	'	'	''	_	15	punct	_	O
+17	says	say	VBZ	_	0	root	_	O
+18	@FT	@ft	NNP	pos2=NN	17	nsubj	_	U-PERSON
+19	That	that	DT	_	20	nsubj	_	O
+20	's	's	VBZ	_	17	ccomp	_	O
+21	you	you	PRP	_	20	attr	_	O
+22	Liam	liam	NNP	_	23	compound	_	B-PERSON
+23	Fox	fox	NNP	_	24	dep	_	L-PERSON
+24	https://t.co/CAYU859J7O	#hlink#	ADD	pos2=NNP	20	attr	_	O
+

@@ -1,0 +1,12 @@
+1	Black	black	JJ	pos2=NNP	2	nmod	_	O
+2	peoples	people	NNS	_	3	compound	_	O
+3	reactions	reaction	NNS	_	8	nsubj	_	O
+4	to	to	IN	_	3	prep	_	O
+5	David	david	NNP	_	6	compound	_	B-PERSON
+6	Blaine	blaine	NNP	_	7	compound	_	L-PERSON
+7	performances	performance	NNS	_	4	pobj	_	O
+8	are	be	VBP	_	0	root	_	O
+9	the	the	DT	_	10	det	_	O
+10	best	good	JJS	pos2=RBS	8	attr	_	O
+11	lol	lol	UH	pos2=NN	8	discourse	_	O
+

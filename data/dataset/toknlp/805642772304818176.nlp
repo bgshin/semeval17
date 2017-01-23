@@ -1,0 +1,10 @@
+1	Autism	autism	NN	pos2=NNP	2	compound	_	O
+2	cure	cure	NN	_	9	dep	_	O
+3	and	and	CC	_	2	cc	_	O
+4	treatment	treatment	NN	_	2	conj	_	O
+5	with	with	IN	_	4	prep	_	O
+6	homeopathy	homeopathy	NN	_	5	pobj	_	O
+7	-	-	:	pos2=GW	9	punct	_	O
+8	https://t.co/zSwpXTTeIv	#hlink#	ADD	_	9	nmod	_	O
+9	https://t.co/rKjJggsLB5	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,23 @@
+1	@therealdanelee	@therealdanelee	UH	pos2=XX	3	discourse	_	O
+2	he	he	PRP	_	3	nsubj	_	O
+3	spoke	speak	VBD	_	0	root	_	O
+4	against	against	IN	_	3	prep	_	O
+5	Tpp	tpp	NNP	pos2=NN	4	pobj	_	U-ORG
+6	and	and	CC	_	3	cc	_	O
+7	is	be	VBZ	_	9	aux	_	O
+8	now	now	RB	_	9	advmod	_	O
+9	speaking	speak	VBG	_	3	conj	_	O
+10	out	out	RP	pos2=IN	9	prt	_	O
+11	against	against	IN	_	9	prep	_	O
+12	Dapl	dapl	NNP	_	11	pobj	_	U-ORG
+13	.	.	.	_	3	punct	_	O
+
+1	You	you	PRP	_	4	nsubj	_	O
+2	are	be	VBP	_	4	aux	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	trolling	troll	VBG	pos2=NN	0	root	_	O
+5	with	with	IN	_	4	prep	_	O
+6	fake	fake	JJ	_	7	nmod	_	O
+7	news	news	NN	_	5	pobj	_	O
+8	now	now	RB	_	7	advmod	_	O
+

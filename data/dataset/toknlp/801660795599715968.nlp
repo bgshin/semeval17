@@ -1,0 +1,15 @@
+1	Hill	hill	NN	pos2=NNP	2	compound	_	O
+2	scores	score	NNS	pos2=VBZ	8	nsubj	_	O
+3	22	0	CD	_	2	npadvmod	_	U-CARDINAL
+4	in	in	IN	_	2	prep	_	O
+5	return	return	NN	_	4	pobj	_	O
+6	,	,	,	_	8	punct	_	O
+7	Jazz	jazz	NN	pos2=NNP	8	nsubj	_	O
+8	beat	beat	VBD	pos2=NN	0	root	_	O
+9	Nuggets	nugget	NNS	pos2=NNPS	8	dobj	_	O
+10	108-83	0	CD	pos2=GW	11	dep	_	U-CARDINAL
+11	https://t.co/duEB7rAW1Q#NBA	#hlink#	ADD	pos2=NNS	9	appos	_	O
+12	@utahjazz	@utahjazz	IN	pos2=-RRB-	11	prep	_	O
+13	#Jazz	#jazz	-LRB-	pos2=ADD	12	pobj	_	O
+14	https://t.co/fvy4Du3eoq	#hlink#	ADD	_	12	pobj	_	O
+

@@ -1,0 +1,13 @@
+1	https://t.co/tcmRivLmih	#hlink#	ADD	_	3	dep	_	B-ORG
+2	Apple	apple	NNP	_	3	compound	_	I-ORG
+3	Watch	watch	NNP	pos2=VB	12	dep	_	L-ORG
+4	MMF62LL	mmf0ll	RB	pos2=NN	12	dep	_	O
+5	/	/	SYM	pos2=HYPH	9	punct	_	O
+6	A	a	DT	pos2=JJ	11	det	_	O
+7	Sport	sport	NN	pos2=NNP	12	nmod	_	O
+8	38	0	CD	_	9	nmod	_	B-QUANTITY
+9	mm	mm	NN	pos2=NNS	11	compound	_	L-QUANTITY
+10	Smartwatch	smartwatch	NNP	pos2=NN	11	compound	_	B-WORK_OF_ART
+11	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=GW	12	dep	_	L-WORK_OF_ART
+12	https://t.co/9XwBc0Wny6	#hlink#	ADD	_	0	root	_	U-ORG
+

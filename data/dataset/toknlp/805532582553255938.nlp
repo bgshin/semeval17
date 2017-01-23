@@ -1,0 +1,13 @@
+1	BritishVogue	britishvogue	NN	pos2=NNP	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	Why	why	WRB	_	5	advmod	_	O
+4	Ashley	ashley	NNP	_	7	poss	_	U-PERSON
+5	’s	's	POS	pos2=VBZ	4	case	_	O
+6	our	our	PRP$	_	7	poss	_	O
+7	girl	girl	NN	_	0	root	_	O
+8	this	this	DT	_	9	det	_	B-DATE
+9	month	month	NN	_	7	npadvmod	_	L-DATE
+10	:	:	:	_	7	punct	_	O
+11	https://t.co/iSi7hjg2IZ	#hlink#	ADD	_	12	nmod	_	O
+12	https://t.co/1GepV5gHi3	#hlink#	ADD	_	7	appos	_	U-ORG
+

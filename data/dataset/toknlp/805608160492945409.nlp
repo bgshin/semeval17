@@ -1,0 +1,19 @@
+1	New	new	JJ	pos2=NNP	3	nmod	_	O
+2	environmental	environmental	JJ	_	3	nmod	_	O
+3	documentary	documentary	NN	_	0	root	_	O
+4	'	'	``	pos2=''	3	punct	_	O
+5	Before	before	IN	_	3	prep	_	O
+6	The	the	DT	_	7	det	_	B-ORG
+7	Flood	flood	NNP	pos2=NN	9	poss	_	I-ORG
+8	'	'	POS	pos2=''	7	case	_	L-ORG
+9	stars	star	NNS	pos2=VBZ	5	pobj	_	O
+10	Obama	obama	NNP	_	9	appos	_	U-PERSON
+11	,	,	,	_	10	punct	_	O
+12	Pope	pope	NNP	_	13	compound	_	O
+13	Francis	francis	NNP	_	10	conj	_	U-PERSON
+14	and	and	CC	_	13	cc	_	O
+15	Leo	leo	NNP	_	16	compound	_	B-PERSON
+16	DiCaprio	dicaprio	NNP	_	13	conj	_	L-PERSON
+17	#environment	#environment	ADD	pos2=GW	18	dep	_	O
+18	https://t.co/odR3OyC0vY	#hlink#	ADD	_	5	pobj	_	O
+

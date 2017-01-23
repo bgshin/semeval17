@@ -1,0 +1,10 @@
+1	#Saakashvili	#saakashvili	NNP	pos2=NNS	2	nsubj	_	U-PERSON
+2	has	have	VBZ	_	0	root	_	O
+3	his	his	PRP$	_	4	poss	_	O
+4	say	say	NN	pos2=UH	2	dobj	_	O
+5	on	on	IN	_	2	prep	_	O
+6	#Ukraine	#ukraine	NNP	pos2=ADD	7	compound	_	B-DATE
+7	#Odessa	#odessa	NNP	pos2=GW	5	pobj	_	I-DATE
+8	#Georgia	#georgia	ADD	pos2=NNP	9	dep	_	L-DATE
+9	https://t.co/bqMj2D5po1	#hlink#	ADD	_	5	pobj	_	O
+

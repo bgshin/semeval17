@@ -1,0 +1,13 @@
+1	Consequences	consequence	NNS	_	12	dep	_	O
+2	of	of	IN	_	1	prep	_	O
+3	a	a	DT	_	6	det	_	O
+4	'	'	``	_	6	punct	_	O
+5	hard	hard	JJ	pos2=RB	6	nmod	_	O
+6	Brexit	brexit	NNP	pos2=NN	2	pobj	_	U-PERSON
+7	'	'	''	pos2=POS	6	punct	_	O
+8	for	for	IN	_	1	prep	_	O
+9	EWCs	ewcs	NNS	pos2=GW	8	pobj	_	O
+10	-	-	:	pos2=GW	12	punct	_	O
+11	https://t.co/wLaFf1QZ7n	#hlink#	ADD	pos2=NN	12	nmod	_	O
+12	https://t.co/ymYxmr6GD6	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,22 @@
+1	Interesting	interesting	JJ	pos2=VBG	3	dep	_	O
+2	how	how	WRB	_	5	advmod	_	O
+3	the	the	DT	_	4	det	_	O
+4	left	left	JJ	pos2=NN	5	nsubj	_	O
+5	keeps	keep	VBZ	_	0	root	_	O
+6	comparing	compare	VBG	_	5	xcomp	_	O
+7	#Trump	#trump	NNP	pos2=NNS	6	dobj	_	U-ORG
+8	to	to	IN	_	6	prep	_	O
+9	Hitler	hitler	NNP	_	8	pobj	_	U-PERSON
+10	when	when	WRB	_	11	advmod	_	O
+11	under	under	IN	_	6	advcl	_	O
+12	Obama	obama	NNP	_	14	poss	_	U-PERSON
+13	's	's	POS	_	12	case	_	O
+14	regime	regime	NN	_	11	pobj	_	O
+15	these	these	DT	_	18	det	_	O
+16	#Nazi	#nazi	JJ	pos2=HYPH	18	nmod	_	U-ORDINAL
+17	type	type	NN	_	18	compound	_	O
+18	inventions	invention	NNS	_	19	nsubj	_	O
+19	are	be	VBP	_	14	relcl	_	O
+20	…	…	NFP	pos2=VBG	21	punct	_	O
+21	https://t.co/MS0GVkFNkC	#hlink#	ADD	_	19	attr	_	O
+

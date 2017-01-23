@@ -1,0 +1,20 @@
+1	@jmo201	@jmo0	NN	pos2=LS	7	dep	_	O
+2	@lisom	@lisom	UH	pos2=XX	7	discourse	_	O
+3	@TheDemocrats	@thedemocrats	NNS	pos2=VBZ	4	compound	_	O
+4	@elizabethforma	@elizabethforma	NN	pos2=FW	7	nsubj	_	O
+5	2018	0	CD	_	6	nmod	_	U-DATE
+6	may	may	MD	_	7	aux	_	O
+7	see	see	VB	_	0	root	_	O
+8	the	the	DT	_	12	det	_	O
+9	MOST	most	RBS	_	10	advmod	_	O
+10	ACTIVE	active	JJ	_	12	nmod	_	O
+11	Democratic	democratic	JJ	_	12	nmod	_	U-NORP
+12	primaries	primary	NNS	_	7	dobj	_	O
+13	with	with	IN	_	12	prep	_	O
+14	more	more	JJR	_	15	nmod	_	O
+15	challenges	challenge	NNS	_	13	pobj	_	O
+16	than	than	IN	_	15	prep	_	O
+17	ever	ever	RB	_	18	advmod	_	O
+18	before	before	RB	_	16	pcomp	_	O
+19	.	.	.	_	7	punct	_	O
+

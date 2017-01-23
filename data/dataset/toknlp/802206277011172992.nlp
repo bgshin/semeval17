@@ -1,0 +1,24 @@
+1	Remember	remember	VB	_	4	advcl	_	O
+2	;	;	,	pos2=:	4	punct	_	O
+3	Clinton	clinton	NNP	_	4	nsubj	_	U-PERSON
+4	WON	win	VBD	pos2=NNP	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	popular	popular	JJ	_	7	nmod	_	O
+7	vote	vote	NN	_	4	dobj	_	O
+8	by	by	IN	_	4	prep	_	O
+9	MILLIONS	#crd#	NNS	_	8	pobj	_	U-CARDINAL
+10	and	and	CC	_	4	cc	_	O
+11	probably	probably	RB	_	12	advmod	_	O
+12	won	win	VBD	pos2=MD	4	conj	_	O
+13	electoral	electoral	JJ	_	14	nmod	_	O
+14	vote	vote	NN	pos2=VB	12	dobj	_	O
+15	too	too	RB	_	12	advmod	_	O
+16	(	(	-LRB-	_	20	punct	_	O
+17	if	if	IN	_	19	mark	_	O
+18	not	not	RB	_	19	neg	_	O
+19	for	for	IN	_	23	advcl	_	O
+20	Russian	russian	JJ	_	21	nmod	_	U-NORP
+21	intervention	intervention	NN	_	19	pobj	_	O
+22	)	)	-RRB-	_	20	punct	_	O
+23	#AuditTheVote	#auditthevote	ADD	pos2=NN	4	dobj	_	U-DATE
+

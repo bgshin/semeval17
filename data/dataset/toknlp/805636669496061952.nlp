@@ -1,0 +1,15 @@
+1	@cenkuygur	@cenkuygur	UH	pos2=PRP$	7	discourse	_	O
+2	@RealAlexJones	@realalexjones	NNS	pos2=GW	7	vocative	_	O
+3	-	-	:	pos2=NFP	7	punct	_	O
+4	https://t.co/kDAhDomYtJ:	#hlink#	ADD	pos2=NNP	0	root	_	O
+5	Pope	pope	NNP	_	6	compound	_	O
+6	Francis	francis	NNP	_	7	nsubj	_	B-PERSON
+7	Grieves	grieve	VBZ	pos2=NNP	0	root	_	L-PERSON
+8	Death	death	NN	pos2=NNP	7	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	fellow	fellow	JJ	_	11	nmod	_	O
+11	bigot	bigot	NN	_	9	pobj	_	O
+12	in	in	IN	_	7	prep	_	O
+13	WH	wh	NNP	pos2=NN	12	pobj	_	U-ORG
+14	!	!	.	_	7	punct	_	O
+

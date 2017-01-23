@@ -1,0 +1,11 @@
+1	Grayson	grayson	NNP	_	4	compound	_	B-ORG
+2	Allen	allen	NNP	_	4	compound	_	I-ORG
+3	-	-	HYPH	pos2=:	4	punct	_	I-ORG
+4	Willam	willam	NNP	_	8	dep	_	I-ORG
+5	&	&	CC	pos2=NFP	4	cc	_	I-ORG
+6	Mary	mary	NNP	_	4	conj	_	L-ORG
+7	:	:	:	_	8	punct	_	O
+8	https://t.co/FAEwfVIOGa	#hlink#	ADD	_	0	root	_	O
+9	via	via	IN	_	8	prep	_	O
+10	@YouTube	@youtube	NNP	pos2=NN	9	pobj	_	O
+

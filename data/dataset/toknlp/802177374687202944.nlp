@@ -1,0 +1,19 @@
+1	#Yemen	#yemen	NN	pos2=NNS	3	dep	_	O
+2	:	:	:	_	3	punct	_	O
+3	Thanks	thanks	NNS	pos2=NN	0	root	_	O
+4	to	to	IN	_	3	prep	_	O
+5	@KSrelief	@ksrelief	NNP	pos2=VB	4	pobj	_	U-PERSON
+6	for	for	IN	_	3	prep	_	O
+7	US$	us$	$	pos2=NNP	18	nmod	_	O
+8	10M	0m	NN	pos2=CD	9	compound	_	U-MONEY
+9	contribution	contribution	NN	_	18	dep	_	O
+10	to	to	TO	_	11	aux	_	O
+11	help	help	VB	_	3	xcomp	_	O
+12	@WFP	@wfp	VB	pos2=POS	11	xcomp	_	O
+13	fight	fight	VB	pos2=NN	11	dep	_	O
+14	malnutrition	malnutrition	NN	_	13	dobj	_	O
+15	in	in	IN	_	13	prep	_	O
+16	#Hodeidah	#hodeidah	NNP	pos2=GW	15	pobj	_	B-DATE
+17	…	…	NFP	pos2=-LRB-	18	punct	_	L-DATE
+18	https://t.co/BkvZw8eeQR	#hlink#	ADD	_	3	dep	_	O
+

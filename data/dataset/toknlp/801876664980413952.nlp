@@ -1,0 +1,25 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	from	from	IN	_	2	prep	_	O
+4	#UnitedNations	#unitednations	NNP	pos2=NNS	6	compound	_	B-ORG
+5	Country	country	NNP	_	6	compound	_	I-ORG
+6	Statistics	statistic	NNPS	pos2=NNP	7	compound	_	L-ORG
+7	app	app	NN	pos2=NNP	3	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	With	with	IN	_	0	root	_	O
+2	only	only	RB	_	3	advmod	_	B-PERCENT
+3	18	0	CD	_	4	nmod	_	I-PERCENT
+4	%	%	NN	_	8	nsubj	_	L-PERCENT
+5	of	of	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	population	population	NN	_	5	pobj	_	O
+8	having	have	VBG	_	1	pcomp	_	O
+9	access	access	NN	_	8	dobj	_	O
+10	to	to	IN	_	9	prep	_	O
+11	internet	internet	NN	_	10	pobj	_	O
+12	(	(	-LRB-	_	13	punct	_	O
+13	cont	cont	JJ	pos2=VB	15	nmod	_	O
+14	…	…	NFP	pos2=CD	15	punct	_	O
+15	https://t.co/8zkJUKO5aT	#hlink#	ADD	pos2=NN	11	appos	_	O
+

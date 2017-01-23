@@ -1,0 +1,15 @@
+1	@FCBarcelona	@fcbarcelona	ADD	pos2=NNP	5	dep	_	B-PERSON
+2	#Messi	#messi	NNP	pos2=NNS	5	nsubj	_	L-PERSON
+3	#FCBLive	#fcblive	XX	pos2=ADD	5	dep	_	O
+4	thr	thr	NN	pos2=UH	6	advmod	_	O
+5	are	be	VBP	_	0	root	_	O
+6	two	#crd#	CD	_	7	nmod	_	U-CARDINAL
+7	clubs	club	NNS	_	5	attr	_	O
+8	in	in	IN	_	7	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	world	world	NN	_	8	pobj	_	O
+11	FCB	fcb	NNP	_	7	appos	_	U-ORG
+12	and	and	CC	_	11	cc	_	O
+13	the	the	DT	_	14	det	_	O
+14	others	other	NNS	_	11	conj	_	O
+

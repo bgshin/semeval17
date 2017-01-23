@@ -1,0 +1,20 @@
+1	@MashiRafael	@mashirafael	UH	pos2=``	3	discourse	_	O
+2	WHY	why	WRB	_	6	advmod	_	O
+3	Do	do	VBP	_	19	aux	_	O
+4	YOU	you	PRP	_	3	nsubj	_	O
+5	Illegal	illegal	JJ	pos2=VB	8	nmod	_	O
+6	IGNORE	ignore	NN	pos2=VB	7	compound	_	O
+7	#UnitedNations	#unitednations	NNS	pos2=ADD	8	compound	_	O
+8	Findings	finding	NNS	_	3	dobj	_	O
+9	Of	of	IN	_	8	prep	_	O
+10	YOUR	your	PRP$	_	11	poss	_	O
+11	Mistreatment	mistreatment	NN	pos2=NNP	9	pobj	_	O
+12	Of	of	IN	pos2=RB	11	prep	_	O
+13	#JulianAssange	#julianassange	NNP	pos2=RB	12	pobj	_	O
+14	Regarding	regard	VBG	pos2=NNP	8	prep	_	O
+15	Violation	violation	NN	pos2=NNP	14	pobj	_	O
+16	Of	of	IN	_	15	prep	_	O
+17	NO	no	DT	_	18	det	_	O
+18	Internet	internet	NN	_	16	pobj	_	O
+19	?!	?!	.	_	0	root	_	O
+

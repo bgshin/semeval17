@@ -1,0 +1,29 @@
+1	@kimberlyconroy	@kimberlyconroy	UH	pos2=XX	5	discourse	_	O
+2	@petestavros	@petestavros	UH	pos2=VBZ	5	discourse	_	O
+3	@megynkelly	@megynkelly	UH	pos2=RB	5	discourse	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	's	's	VBZ	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	TRUTH	truth	NN	pos2=NNP	5	attr	_	O
+8	!	!	.	_	5	punct	_	O
+
+1	Deal	deal	VB	pos2=NN	0	root	_	O
+2	with	with	IN	_	1	prep	_	O
+3	it	it	PRP	_	2	pobj	_	O
+4	...	..	.	pos2=,	1	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	like	like	VBP	pos2=IN	0	root	_	O
+3	Fox	fox	NNP	_	4	compound	_	B-ORG
+4	News	news	NNP	pos2=NNPS	2	dobj	_	L-ORG
+5	so	so	RB	pos2=IN	7	mark	_	O
+6	U	u	TO	pos2=PRP	7	aux	_	O
+7	watch	watch	VB	pos2=VBP	11	advcl	_	O
+8	her	her	PRP$	pos2=PRP	7	dobj	_	O
+9	&	&	CC	_	2	cc	_	O
+10	she	she	PRP	_	11	nsubj	_	O
+11	is	be	VBZ	_	2	conj	_	O
+12	to	to	TO	pos2=IN	13	aux	_	O
+13	…	…	NFP	pos2=VB	11	xcomp	_	O
+14	https://t.co/ayWDTzDFjg	#hlink#	ADD	_	13	attr	_	O
+

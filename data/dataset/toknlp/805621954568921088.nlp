@@ -1,0 +1,29 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@Liz_Wheeler	@liz_wheeler	NN	pos2=ADD	5	dep	_	O
+2	@CStamper	@cstamper	PRP$	pos2=NN	5	poss	_	O
+3	_	_	SYM	pos2=''	5	punct	_	O
+4	voter	voter	NN	_	5	compound	_	O
+5	suppression	suppression	NN	_	7	nsubj	_	O
+6	very	very	RB	_	7	advmod	_	O
+7	real	real	JJ	pos2=RB	0	root	_	O
+8	in	in	IN	_	7	prep	_	O
+9	WI	wi	NN	pos2=NNP	8	pobj	_	U-GPE
+10	per	per	IN	_	7	prep	_	O
+11	higher	high	JJR	_	12	nmod	_	O
+12	court	court	NN	_	13	compound	_	O
+13	injunction	injunction	NN	_	10	pobj	_	O
+14	.	.	.	_	7	punct	_	O
+
+1	Keep	keep	VB	_	0	root	_	O
+2	up	up	RP	pos2=RB	1	prt	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	Secretary	secretary	NNP	_	2	compound	_	O
+2	Clinton	clinton	NNP	_	5	nsubj	_	U-PERSON
+3	did	do	VBD	_	5	aux	_	O
+4	not	not	RB	_	5	neg	_	O
+5	request	request	VB	_	0	root	_	O
+6	recount	recount	NN	_	5	dobj	_	O
+7	.	.	.	_	5	punct	_	O
+

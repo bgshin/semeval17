@@ -1,0 +1,25 @@
+1	Working	work	VBG	pos2=NNP	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	minimum	minimum	JJ	pos2=NN	4	nmod	_	O
+4	wage	wage	NN	_	2	pobj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	#sheffield	#sheffield	NNP	pos2=NN	7	compound	_	B-WORK_OF_ART
+7	Time	time	NNP	pos2=NN	5	pobj	_	L-WORK_OF_ART
+8	for	for	IN	_	1	prep	_	O
+9	change	change	NN	pos2=PRP$	10	compound	_	O
+10	Time	time	NN	pos2=NNP	8	pobj	_	O
+11	for	for	IN	_	10	prep	_	O
+12	action	action	NN	_	11	pobj	_	O
+13	.	.	.	_	1	punct	_	O
+
+1	£	$	$	pos2=SYM	2	nmod	_	O
+2	10	0	CD	_	6	nmod	_	U-MONEY
+3	living	living	NN	pos2=VBG	6	compound	_	O
+4	wage	wage	NN	_	6	compound	_	O
+5	Pay	pay	NNP	pos2=NN	6	compound	_	O
+6	rise	rise	NN	pos2=VB	0	root	_	O
+7	for	for	IN	_	6	prep	_	O
+8	all	all	DT	pos2=PDT	7	pobj	_	O
+9	…	…	NFP	pos2=-LRB-	10	punct	_	O
+10	https://t.co/QEGfSEWTTn	#hlink#	ADD	_	6	dep	_	O
+

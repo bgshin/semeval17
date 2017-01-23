@@ -1,0 +1,19 @@
+1	Grayson	grayson	NNP	_	2	compound	_	B-PERSON
+2	Allen	allen	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	good	good	JJ	_	3	acomp	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	think	think	VBP	_	0	root	_	O
+3	he	he	PRP	_	5	nsubj	_	O
+4	can	can	MD	_	5	aux	_	O
+5	pay	pay	VB	_	2	ccomp	_	O
+6	next	next	JJ	_	7	nmod	_	O
+7	level	level	NN	_	5	dobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	2nd	#ord#	JJ	pos2=NN	2	nmod	_	U-ORDINAL
+2	round	round	NN	pos2=RB	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+

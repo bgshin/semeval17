@@ -1,0 +1,13 @@
+1	@ricky_martin	@ricky_martin	UH	pos2=NNP	3	discourse	_	O
+2	i	I	PRP	_	3	nsubj	_	O
+3	adore	adore	VBP	_	0	root	_	O
+4	you	you	PRP	_	3	dobj	_	O
+5	,	,	,	_	3	punct	_	O
+6	babe	babe	NN	pos2=WP	3	vocative	_	O
+7	do	do	VBP	pos2=VB	3	dep	_	O
+8	n't	not	RB	_	7	neg	_	O
+9	.	.	.	_	7	punct	_	O
+
+1	Please	please	UH	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

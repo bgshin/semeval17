@@ -1,0 +1,17 @@
+1	@Roark	@roark	NNP	pos2=NN	6	dep	_	O
+2	__	__	NFP	pos2=XX	6	punct	_	O
+3	Michael	michael	NNP	_	4	compound	_	B-PERSON
+4	Moore	moore	NNP	_	6	nsubj	_	L-PERSON
+5	must	must	MD	_	6	aux	_	O
+6	be	be	VB	_	0	root	_	O
+7	the	the	DT	_	9	det	_	O
+8	biggest	big	JJS	pos2=RBS	9	nmod	_	O
+9	Bronotsaurus	bronotsaurus	NNP	pos2=NN	6	attr	_	U-PERSON
+10	;	;	,	pos2=:	6	punct	_	O
+11	big	big	JJ	_	9	nmod	_	O
+12	,	,	,	_	11	punct	_	O
+13	fat	fat	NN	pos2=JJ	11	conj	_	O
+14	&	&	CC	_	13	cc	_	O
+15	lazy	lazy	JJ	_	13	conj	_	O
+16	!!	!!	.	_	6	punct	_	O
+

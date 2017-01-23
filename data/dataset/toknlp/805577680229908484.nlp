@@ -1,0 +1,24 @@
+1	After	after	IN	_	8	prep	_	O
+2	Trump	trump	NNP	pos2=NN	3	compound	_	B-ORG
+3	Win	win	NNP	_	1	pobj	_	L-ORG
+4	,	,	,	_	8	punct	_	O
+5	Parallel	parallel	JJ	pos2=NNP	6	nmod	_	O
+6	Path	path	NN	pos2=NNP	8	nsubjpass	_	O
+7	Is	be	VBZ	_	8	auxpass	_	O
+8	Seen	see	VBN	_	0	root	_	O
+9	for	for	IN	_	8	prep	_	O
+10	Marine	marine	NNP	pos2=JJ	12	compound	_	B-PERSON
+11	Le	le	NNP	_	12	compound	_	I-PERSON
+12	Pen	pen	NNP	_	9	pobj	_	L-PERSON
+13	of	of	IN	_	12	prep	_	O
+14	France	france	NNP	_	16	poss	_	U-GPE
+15	’s	's	POS	pos2=VBZ	14	case	_	O
+16	Far	far	NNP	pos2=RB	18	nmod	_	O
+17	Right	right	JJ	pos2=GW	18	nmod	_	O
+18	https://t.co/bip1UiwMmD.	#hlink#	ADD	pos2=VBZ	19	nsubj	_	O
+19	Glorious	glorious	JJ	pos2=NNP	22	dep	_	O
+20	:	:	:	_	22	punct	_	O
+21	Wir	wir	NNP	pos2=NN	22	compound	_	O
+22	marchieren	marchieren	NN	pos2=FW	23	dep	_	O
+23	!	!	.	_	8	punct	_	O
+

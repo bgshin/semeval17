@@ -1,0 +1,32 @@
+1	Messi	messi	NNP	pos2=NN	9	dep	_	U-PERSON
+2	:	:	:	_	9	punct	_	O
+3	"	"	``	_	9	punct	_	O
+4	In	in	IN	_	9	prep	_	O
+5	football	football	NN	_	4	pobj	_	O
+6	these	these	DT	_	7	det	_	B-DATE
+7	days	day	NNS	_	9	npadvmod	_	L-DATE
+8	it	it	PRP	_	9	nsubj	_	O
+9	's	's	VBZ	_	0	root	_	O
+10	important	important	JJ	_	9	acomp	_	O
+11	to	to	TO	_	13	aux	_	O
+12	be	be	VB	_	13	auxpass	_	O
+13	organised	organize	VBN	_	9	xcomp	_	O
+14	.	.	.	_	9	punct	_	O
+
+1	To	to	TO	_	2	aux	_	O
+2	have	have	VB	_	10	csubj	_	O
+3	a	a	DT	_	4	det	_	O
+4	team	team	NN	_	2	dobj	_	O
+5	that	that	WDT	_	6	nsubj	_	O
+6	is	be	VBZ	_	4	relcl	_	O
+7	well	well	RB	_	9	advmod	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	organised	organize	VBN	_	6	acomp	_	O
+10	is	be	VBZ	_	0	root	_	O
+11	the	the	DT	_	14	det	_	O
+12	most	most	RBS	_	13	advmod	_	O
+13	important	important	JJ	_	14	nmod	_	O
+14	thing	thing	NN	_	10	attr	_	O
+15	"	"	''	pos2=``	14	punct	_	O
+16	#fcblive	#fcblive	UH	pos2=.	10	discourse	_	O
+

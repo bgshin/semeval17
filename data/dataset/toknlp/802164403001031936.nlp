@@ -1,0 +1,16 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	some	some	DT	_	4	det	_	O
+4	drama	drama	NN	_	2	dobj	_	O
+5	on	on	IN	_	4	prep	_	O
+6	twitter	twitter	NN	pos2=NNP	5	pobj	_	O
+7	its	its	PRP$	_	9	poss	_	O
+8	been	be	VBN	_	4	acl	_	O
+9	boring	boring	JJ	pos2=VBG	8	acomp	_	O
+10	for	for	IN	_	9	prep	_	O
+11	too	too	RB	_	12	advmod	_	O
+12	long	long	JJ	pos2=RB	13	nmod	_	O
+13	#MtvStarsNiallHoran	#mtvstarsniallhoran	NNS	pos2=NNP	10	pobj	_	O
+14	#MPN	#mpn	ADD	pos2=XX	13	cc	_	O
+15	#OneDirection	#onedirection	NN	pos2=ADD	14	pobj	_	O
+

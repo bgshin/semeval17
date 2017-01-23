@@ -1,0 +1,6 @@
+1	Chanel	chanel	NNP	_	4	compound	_	B-ORG
+2	Por	por	NNP	_	4	compound	_	I-ORG
+3	Homme	homme	NNP	_	4	compound	_	I-ORG
+4	😂	😂	NNP	pos2=HYPH	5	dep	_	L-ORG
+5	#ScreamQueens	#screamqueens	ADD	pos2=NNS	0	root	_	O
+

@@ -1,0 +1,13 @@
+1	#embracing	#embracing	VBG	pos2=UH	6	nmod	_	O
+2	#autonomous	#autonomous	UH	pos2=FW	4	discourse	_	O
+3	#self	#self	PRP	pos2=IN	4	nsubj	_	O
+4	driving	drive	VBG	pos2=NN	1	ccomp	_	O
+5	#cars	#cars	NNS	pos2=XX	4	dobj	_	O
+6	#corporations	#corporations	NNS	pos2=NNPS	0	root	_	O
+7	that	that	WDT	pos2=DT	9	nsubj	_	O
+8	shall	shall	MD	_	9	aux	_	O
+9	#revolution	#revolution	VB	pos2=XX	6	relcl	_	O
+10	an	an	DT	pos2=GW	11	det	_	O
+11	#industry	#industry	GW	pos2=ADD	12	nmod	_	O
+12	https://t.co/bc5WooDvA2	#hlink#	ADD	pos2=NN	9	dobj	_	O
+

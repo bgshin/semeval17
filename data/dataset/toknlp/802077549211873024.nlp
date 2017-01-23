@@ -1,0 +1,10 @@
+1	@openDemocracy	@opendemocracy	NNP	pos2=``	3	nmod	_	O
+2	Good	good	JJ	pos2=NNP	3	nmod	_	O
+3	Luck!#Democracy	luck!#democracy	NNP	pos2=NN	4	nsubj	_	U-ORG
+4	is	be	VBZ	_	0	root	_	O
+5	an	an	DT	_	6	det	_	O
+6	illusion!#Iraq#Palestine#Hamas#Egypt#MuslimBrotherhood#Trump#Pensionand	illusion!#iraq#palestine#hamas#egypt#muslimbrotherhood#trump#pensionand	NN	pos2=XX	4	attr	_	O
+7	so	so	RB	_	8	advmod	_	O
+8	on	on	RB	_	4	advmod	_	O
+9	...	..	.	pos2=,	4	punct	_	O
+

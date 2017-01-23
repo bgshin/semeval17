@@ -1,0 +1,10 @@
+1	The	the	DT	_	3	det	_	O
+2	Medicare	medicare	NNP	_	3	compound	_	B-ORG
+3	Killers	killer	NNPS	pos2=NNS	5	nsubj	_	I-ORG
+4	https://t.co/ujLgEte7ff#TrumpTransition	#hlink#	ADD	pos2=POS	0	root	_	I-ORG
+5	#TrumpTransitionTeam	#trumptransitionteam	ADD	pos2=-RRB-	0	root	_	I-ORG
+6	#trumpeffect	#trumpeffect	UH	pos2=IN	9	discourse	_	L-ORG
+7	#StopBannon	#stopbannon	ADD	pos2=NNP	9	punct	_	O
+8	#TrumpsFirstOrder	#trumpsfirstorder	ADD	pos2=GW	7	pobj	_	O
+9	#trumpprotests	#trumpprotests	UH	pos2=NNS	5	pobj	_	O
+

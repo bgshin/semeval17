@@ -1,0 +1,12 @@
+1	@TeaPartyOrg	@teapartyorg	NNP	pos2=VBG	6	vocative	_	O
+2	Well	well	UH	pos2=NNP	6	discourse	_	O
+3	George	george	NNP	_	4	compound	_	B-PERSON
+4	Soros	soros	NNP	_	6	nsubj	_	L-PERSON
+5	is	be	VBZ	_	6	aux	_	O
+6	looking	look	VBG	_	0	root	_	O
+7	pretty	pretty	RB	pos2=JJ	8	advmod	_	O
+8	Facist	facist	JJ	_	6	acomp	_	O
+9	...!!!	..!!	.	pos2=''	6	punct	_	O
+
+1	https://t.co/TW59qLiHMv	#hlink#	ADD	_	0	root	_	U-ORG
+

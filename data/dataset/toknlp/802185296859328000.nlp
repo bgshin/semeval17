@@ -1,0 +1,15 @@
+1	Anyone	anyone	NN	_	3	nsubj	_	O
+2	else	else	RB	_	1	advmod	_	O
+3	realised	realize	VBD	_	0	root	_	O
+4	that	that	IN	_	8	mark	_	O
+5	getting	get	VBG	_	8	csubj	_	O
+6	a	a	DT	_	7	det	_	O
+7	#Hatchimals	#hatchimals	NN	pos2=NNP	5	dobj	_	O
+8	is	be	VBZ	_	3	ccomp	_	O
+9	actually	actually	RB	_	8	advmod	_	O
+10	harder	hard	JJR	pos2=RBR	8	acomp	_	O
+11	than	than	IN	_	10	prep	_	O
+12	copping	cop	VBG	pos2=NN	11	pcomp	_	O
+13	#yeezyboost	#yeezyboost	IN	pos2=XX	12	prep	_	O
+14	😳	😳	NN	pos2=.	13	pobj	_	O
+

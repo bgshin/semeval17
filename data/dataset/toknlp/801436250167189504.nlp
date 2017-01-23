@@ -1,0 +1,18 @@
+1	Gigi	gigi	NNP	_	2	compound	_	B-PERSON
+2	Hadid	hadid	NNP	_	3	nsubj	_	L-PERSON
+3	apologizes	apologize	VBZ	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	Melania	melania	NNP	_	7	compound	_	B-PERSON
+6	Trump	trump	NNP	_	7	compound	_	L-PERSON
+7	AMA	ama	NNP	pos2=GW	8	compound	_	O
+8	impression	impression	NN	pos2=GW	4	pobj	_	O
+9	https://t.co/atKjI6bpIk	#hlink#	ADD	pos2=IN	12	nmod	_	O
+10	Freedom	freedom	NN	pos2=NNP	8	acl	_	O
+11	Of	of	IN	_	10	prep	_	O
+12	Speech	speech	NNP	_	11	pobj	_	U-ORG
+13	Takes	take	VBZ	pos2=NNP	3	advcl	_	O
+14	Another	another	DT	pos2=NNP	15	det	_	O
+15	Hit	hit	NNP	pos2=NN	13	dobj	_	O
+16	Under	under	IN	pos2=NNP	13	prep	_	O
+17	@realDonaldTrump	@realdonaldtrump	NN	pos2=ADD	16	pobj	_	O
+

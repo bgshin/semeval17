@@ -1,0 +1,28 @@
+1	@AIIAmericanGirI	@aiiamericangiri	ADD	pos2=NN	4	punct	_	O
+2	@flamethrower82	@flamethrower0	NN	pos2=LS	4	dep	_	O
+3	-	-	:	pos2=,	4	punct	_	O
+4	Let	let	VB	_	0	root	_	O
+5	's	's	PRP	_	6	nsubj	_	O
+6	see	see	VB	_	4	ccomp	_	O
+7	if	if	IN	_	10	mark	_	O
+8	we	we	PRP	_	10	nsubj	_	O
+9	can	can	MD	_	10	aux	_	O
+10	agree	agree	VB	_	6	ccomp	_	O
+11	what	what	WP	_	15	attr	_	O
+12	the	the	DT	_	14	det	_	O
+13	relevant	relevant	JJ	_	14	nmod	_	O
+14	data	data	NN	pos2=NNS	15	nsubj	_	O
+15	is	be	VBZ	_	10	ccomp	_	O
+16	.	.	.	_	4	punct	_	O
+
+1	Gun	gun	NN	pos2=NNP	2	compound	_	O
+2	homicide	homicide	NN	_	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	other	other	JJ	_	5	nmod	_	O
+5	homicide	homicide	NN	_	2	conj	_	O
+6	,	,	,	_	5	punct	_	O
+7	gun	gun	NN	_	8	compound	_	O
+8	control	control	NN	_	9	compound	_	O
+9	laws	law	NNS	_	5	conj	_	O
+10	?	?	.	_	2	punct	_	O
+

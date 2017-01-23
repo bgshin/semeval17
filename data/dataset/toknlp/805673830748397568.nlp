@@ -1,0 +1,21 @@
+1	Hey	hey	UH	_	3	discourse	_	O
+2	,	,	,	_	7	punct	_	O
+3	the	the	DT	_	5	det	_	O
+4	perfect	perfect	JJ	_	5	nmod	_	O
+5	gift	gift	NN	_	8	nsubj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	those	those	DT	_	0	root	_	O
+8	nostalgic	nostalgic	JJ	_	7	nmod	_	O
+9	about	about	IN	_	7	prep	_	O
+10	OLD	old	JJ	pos2=NN	12	nmod	_	O
+11	-	-	HYPH	_	12	punct	_	O
+12	TIMEY	timey	NN	pos2=JJ	14	compound	_	O
+13	voter	voter	NN	_	14	compound	_	O
+14	suppression	suppression	NN	_	9	pobj	_	O
+15	:	:	:	_	16	punct	_	O
+16	https://t.co/RtrtWS3EHL	#hlink#	ADD	_	14	appos	_	O
+17	via	via	IN	_	16	prep	_	O
+18	@thecut	@thecut	GW	pos2=JJ	17	pobj	_	O
+19	…	…	NFP	pos2=GW	20	punct	_	O
+20	https://t.co/jrakcynygH	#hlink#	ADD	pos2=NN	17	pobj	_	O
+

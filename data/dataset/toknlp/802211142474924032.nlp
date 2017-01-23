@@ -1,0 +1,12 @@
+1	@hiattf	@hiattf	UH	pos2=XX	5	discourse	_	O
+2	@JesseFFerguson	@jessefferguson	ADD	pos2=NN	0	root	_	O
+3	@washingtonpost	@washingtonpost	UH	pos2=ADD	2	discourse	_	O
+4	and	and	CC	_	2	cc	_	O
+5	vacationing	vacation	VBG	_	2	conj	_	O
+6	with	with	IN	_	5	prep	_	O
+7	Putin	putin	NNP	_	9	poss	_	U-PERSON
+8	's	's	POS	_	7	case	_	O
+9	girlfriend	girlfriend	NN	_	6	pobj	_	O
+10	,	,	,	_	5	punct	_	O
+11	literally	literally	RB	_	5	advmod	_	O
+

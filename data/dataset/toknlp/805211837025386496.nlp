@@ -1,0 +1,22 @@
+1	@AprilDeming	@aprildeming	VBG	pos2=ADD	0	root	_	O
+2	@dallasgoldtooth	@dallasgoldtooth	UH	pos2=XX	1	discourse	_	O
+3	@amnesty	@amnesty	UH	pos2=FW	1	discourse	_	O
+4	@Medium	@medium	NNP	pos2=UH	7	nsubj	_	U-GPE
+5	@POTUS	@potus	MD	pos2=NNS	7	aux	_	O
+6	just	just	RB	_	7	advmod	_	O
+7	think	think	VB	_	1	ccomp	_	O
+8	of	of	IN	_	7	prep	_	O
+9	all	all	PDT	_	12	predet	_	O
+10	the	the	DT	_	12	det	_	O
+11	dead	dead	JJ	_	12	nmod	_	O
+12	kids	kid	NNS	_	8	pobj	_	O
+13	from	from	IN	_	12	prep	_	O
+14	his	his	PRP$	_	16	poss	_	O
+15	drone	drone	NN	_	16	compound	_	O
+16	strikes	strike	NNS	pos2=VBZ	13	pobj	_	O
+17	.	.	.	_	1	punct	_	O
+
+1	scary	scary	JJ	_	2	nmod	_	O
+2	person	person	NN	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+

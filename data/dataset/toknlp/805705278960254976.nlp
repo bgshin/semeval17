@@ -1,0 +1,30 @@
+1	From	from	IN	_	4	prep	_	O
+2	#brexit	#brexit	NN	pos2=PRP	1	pobj	_	O
+3	to	to	IN	pos2=TO	4	aux	_	O
+4	#nexit	#nexit	VB	pos2=PRP	0	root	_	O
+5	to	to	IN	pos2=TO	4	prep	_	O
+6	#frexit	#frexit	PRP	pos2=NN	5	pobj	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	Netherlands	netherlands	NNP	pos2=NNS	0	root	_	U-GPE
+2	on	on	IN	_	1	prep	_	O
+3	March	march	NNP	_	4	compound	_	B-DATE
+4	15th	#ord#	NN	_	2	pobj	_	L-DATE
+5	,	,	,	_	1	punct	_	O
+6	then	then	RB	_	7	advmod	_	O
+7	France	france	NNP	_	1	dep	_	U-GPE
+8	in	in	IN	_	7	prep	_	O
+9	April	april	NNP	_	11	nmod	_	B-DATE
+10	/	/	SYM	pos2=,	11	punct	_	I-DATE
+11	May	may	NNP	pos2=MD	8	pobj	_	L-DATE
+12	..	..	.	pos2=,	1	punct	_	O
+
+1	what	what	WP	_	5	pobj	_	O
+2	will	will	MD	_	4	aux	_	O
+3	Europe	europe	NNP	pos2=VB	4	nsubj	_	U-LOC
+4	look	look	VB	_	0	root	_	O
+5	like	like	IN	_	4	prep	_	O
+6	next	next	JJ	pos2=IN	7	nmod	_	B-DATE
+7	December	december	NNP	_	5	pobj	_	L-DATE
+8	?	?	.	_	4	punct	_	O
+

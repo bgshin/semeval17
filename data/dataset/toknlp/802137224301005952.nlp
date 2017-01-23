@@ -1,0 +1,15 @@
+1	We	we	PRP	_	3	nsubj	_	O
+2	are	be	VBP	_	3	aux	_	O
+3	fleeing	flee	VBG	_	0	root	_	O
+4	your	your	PRP$	_	5	poss	_	O
+5	bombs	bomb	NNS	_	3	dobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	#migrants	#migrants	UH	pos2=NNS	7	discourse	_	O
+2	#paris	#paris	UH	pos2=FW	7	discourse	_	O
+3	#falseflag	#falseflag	UH	pos2=FW	7	nmod	_	O
+4	#syria	#syria	UH	pos2=FW	7	nmod	_	O
+5	#StopBombingSyria	#stopbombingsyria	GW	pos2=UH	7	nmod	_	B-PERSON
+6	#libya	#libya	GW	pos2=UH	7	nmod	_	L-PERSON
+7	https://t.co/t2pmRMcvXP	#hlink#	ADD	pos2=NN	0	root	_	O
+

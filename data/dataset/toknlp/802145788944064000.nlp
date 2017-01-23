@@ -1,0 +1,17 @@
+1	The	the	DT	_	4	det	_	O
+2	latest	late	JJS	_	4	nmod	_	O
+3	Daily	daily	NNP	pos2=JJ	4	compound	_	O
+4	Insights	insight	NNS	pos2=NNPS	0	root	_	O
+5	on	on	IN	_	4	prep	_	O
+6	Ancestral	ancestral	NNP	pos2=JJ	7	compound	_	B-ORG
+7	Health	health	NNP	pos2=NN	5	pobj	_	L-ORG
+8	from	from	IN	_	4	prep	_	O
+9	@FOGG_Group	@fogg_group	NNP	pos2=XX	8	pobj	_	U-GPE
+10	!	!	.	_	4	punct	_	O
+
+1	https://t.co/5aJhvpPbgn	#hlink#	ADD	pos2=NN	0	root	_	O
+2	Thanks	thanks	NNS	pos2=NN	1	npadvmod	_	O
+3	to	to	IN	_	2	prep	_	O
+4	@adamclyne	@adamclyne	VB	pos2=PRP	3	pobj	_	O
+5	#uniteblue	#uniteblue	UH	pos2=NN	1	discourse	_	O
+

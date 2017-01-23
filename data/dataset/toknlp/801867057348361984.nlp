@@ -1,0 +1,5 @@
+1	Wa	wa	NN	pos2=NNP	2	compound	_	O
+2	Verlander	verlander	NNP	pos2=GW	3	nsubj	_	U-PERSON
+3	playing	play	VBG	_	0	root	_	O
+4	drums	drum	NNS	_	3	dobj	_	O
+

@@ -1,0 +1,21 @@
+1	@Lakota_Timez	@lakota_timez	NNP	pos2=ADD	3	nsubj	_	U-PERSON
+2	A	a	DT	_	3	det	_	O
+3	fine	fine	NN	pos2=JJ	0	root	_	O
+4	on	on	IN	_	3	prep	_	O
+5	that	that	DT	_	6	det	_	O
+6	level	level	NN	_	4	pobj	_	O
+7	does	do	VBZ	_	10	aux	_	O
+8	not	not	RB	_	10	neg	_	O
+9	really	really	RB	_	10	advmod	_	O
+10	make	make	VB	_	16	advcl	_	O
+11	much	much	JJ	_	12	nmod	_	O
+12	difference	difference	NN	_	10	dobj	_	O
+13	,	,	,	_	16	punct	_	O
+14	does	do	VBZ	_	16	aux	_	O
+15	it	it	PRP	_	16	nsubj	_	O
+16	😔	😔	VB	pos2=VBZ	0	root	_	O
+17	#fracking	#fracking	PRP	pos2=ADD	18	nsubj	_	O
+18	destroys	destroy	VBZ	_	16	ccomp	_	O
+19	#environment	#environment	ADD	pos2=XX	18	dobj	_	O
+20	@AnnBatiza	@annbatiza	ADD	pos2=NN	18	dobj	_	U-MONEY
+

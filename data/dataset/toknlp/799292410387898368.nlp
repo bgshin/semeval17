@@ -1,0 +1,21 @@
+1	lol	lol	UH	_	7	discourse	_	O
+2	All	all	PDT	_	6	predet	_	O
+3	the	the	DT	_	6	det	_	O
+4	new	new	JJ	_	6	nmod	_	O
+5	world	world	NN	_	6	compound	_	O
+6	leaders	leader	NNS	_	7	nsubj	_	O
+7	are	be	VBP	_	0	root	_	O
+8	thin	thin	JJ	pos2=RB	9	advmod	_	O
+9	skinned	skinned	JJ	_	7	acomp	_	O
+10	egomaniacs'Kim	egomaniacs'kim	NNP	pos2=IN	11	compound	_	B-PERSON
+11	Fatty	fatty	NNP	pos2=JJ	20	dep	_	L-PERSON
+12	the	the	DT	_	13	det	_	O
+13	Third	#ord#	NNP	pos2=JJ	11	appos	_	U-ORDINAL
+14	'	'	''	pos2=NNS	7	punct	_	O
+15	:	:	:	_	20	punct	_	O
+16	Chinese	chinese	JJ	_	17	nmod	_	U-NORP
+17	websites	website	NNS	_	20	dep	_	O
+18	block	block	NN	pos2=VBP	19	compound	_	O
+19	search	search	NN	pos2=VB	20	dep	_	O
+20	termhttps://t.co/oXkaJuzTDY	#hlink#	ADD	pos2=NN	7	dep	_	U-ORG
+

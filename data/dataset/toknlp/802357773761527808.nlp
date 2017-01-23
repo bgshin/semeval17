@@ -1,0 +1,20 @@
+1	@Milbank	@milbank	NNP	pos2=VB	10	dep	_	O
+2	-	-	:	pos2=,	10	punct	_	O
+3	by	by	IN	pos2=RB	15	prep	_	O
+4	your	your	PRP$	_	6	poss	_	O
+5	fellow	fellow	JJ	_	6	nmod	_	O
+6	liberal	liberal	NN	pos2=JJ	8	poss	_	O
+7	's	's	POS	_	6	case	_	O
+8	standards	standard	NNS	_	3	pobj	_	O
+9	,	,	,	_	15	punct	_	O
+10	calling	call	VBG	_	15	csubj	_	O
+11	for	for	IN	_	14	mark	_	O
+12	Pelosi	pelosi	NNP	_	14	nsubj	_	U-PERSON
+13	to	to	TO	_	14	aux	_	O
+14	go	go	VB	_	10	advcl	_	O
+15	makes	make	VBZ	_	0	root	_	O
+16	you	you	PRP	_	19	nsubj	_	O
+17	a	a	DT	_	18	det	_	O
+18	sexist	sexist	JJ	_	19	nmod	_	O
+19	pighttps://t.co/trejr37ynr	#hlink#	ADD	pos2=NN	15	ccomp	_	U-ORG
+

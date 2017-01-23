@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det	_	O
+2	NAZI	nazi	NNP	pos2=NN	7	nsubj	_	U-NORP
+3	's	's	POS	pos2=AFX	2	case	_	O
+4	and	and	CC	_	2	cc	_	O
+5	Italian	italian	JJ	_	6	nmod	_	U-NORP
+6	Fascists	fascist	NNPS	pos2=NNS	2	conj	_	U-NORP
+7	were	be	VBD	_	0	root	_	O
+8	coercive	coercive	JJ	_	9	nmod	_	O
+9	socialists	socialist	NNS	_	7	attr	_	O
+10	,	,	,	_	9	punct	_	O
+11	basically	basically	RB	_	13	advmod	_	O
+12	the	the	DT	_	13	det	_	O
+13	communists	communist	NNS	pos2=NNPS	9	appos	_	O
+14	.	.	.	_	7	punct	_	O
+
+1	Do	do	VB	pos2=VBP	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	confuse	confuse	VB	_	0	root	_	O
+4	1941	0	CD	_	6	nmod	_	U-DATE
+5	Stalin	stalin	NNP	pos2=NN	6	compound	_	U-PERSON
+6	propaganda	propaganda	NN	_	3	dobj	_	O
+7	with	with	IN	_	6	prep	_	O
+8	history	history	NN	_	7	pobj	_	O
+9	.	.	.	_	3	punct	_	O
+

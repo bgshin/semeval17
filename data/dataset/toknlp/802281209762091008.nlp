@@ -1,0 +1,19 @@
+1	An	an	DT	_	4	det	_	O
+2	in-house	in-house	JJ	pos2=NN	4	nmod	_	O
+3	AI	ai	NN	pos2=NNP	4	compound	_	O
+4	system	system	NN	_	6	nsubj	_	O
+5	can	can	MD	_	6	aux	_	O
+6	spot	spot	VB	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	lawsuit	lawsuit	NN	_	6	dobj	_	O
+9	coming	come	VBG	_	8	acl	_	O
+10	long	long	RB	_	9	advmod	_	O
+11	before	before	IN	_	9	prep	_	O
+12	human	human	JJ	pos2=VBG	14	nmod	_	O
+13	in-house	in-house	JJ	pos2=NN	14	nmod	_	O
+14	lawyers	lawyer	NNS	_	11	pobj	_	O
+15	.	.	.	_	6	punct	_	O
+
+1	#futurist	#futurist	UH	pos2=ADD	2	discourse	_	O
+2	https://t.co/mPVKWoegSe	#hlink#	ADD	pos2=NN	0	root	_	O
+

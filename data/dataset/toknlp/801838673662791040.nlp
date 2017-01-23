@@ -1,0 +1,23 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	n't	not	RB	_	2	neg	_	O
+4	the	the	DT	_	7	det	_	O
+5	1	0	CD	_	7	nmod	_	B-PERCENT
+6	st	st	NN	_	7	compound	_	L-PERCENT
+7	time	time	NN	_	2	attr	_	O
+8	@AliAbunimah	@aliabunimah	NNP	pos2=ADD	12	nsubj	_	B-ORG
+9	&	&	CC	_	8	cc	_	I-ORG
+10	the	the	DT	_	11	det	_	I-ORG
+11	#Hamas	#hamas	NNPS	pos2=NNP	8	conj	_	L-ORG
+12	supporting	support	VBG	_	7	relcl	_	O
+13	#IntifadaBrigade	#intifadabrigade	JJ	pos2=PRP$	15	nmod	_	O
+14	mock	mock	JJ	_	15	nmod	_	O
+15	disasters	disaster	NNS	_	12	dobj	_	O
+16	/	/	SYM	pos2=:	17	punct	_	O
+17	terror	terror	NN	_	18	compound	_	O
+18	attacks	attack	NNS	_	12	dobj	_	O
+19	while	while	IN	_	20	mark	_	O
+20	p	p	IN	pos2=GW	12	advcl	_	O
+21	…	…	NFP	pos2=-LRB-	22	punct	_	O
+22	https://t.co/BN5Gg2y8aa	#hlink#	ADD	pos2=NN	2	dep	_	O
+

@@ -1,0 +1,20 @@
+1	With	with	IN	_	0	root	_	O
+2	two	#crd#	CD	_	3	nmod	_	U-CARDINAL
+3	people	people	NNS	_	1	pobj	_	O
+4	,	,	,	_	3	punct	_	O
+5	big	big	JJ	pos2=RB	3	nmod	_	O
+6	&	&	CC	_	5	cc	_	O
+7	over	over	RB	pos2=RP	5	conj	_	O
+8	!	!	.	_	6	punct	_	O
+
+1	Good	good	JJ	pos2=NNP	2	nmod	_	O
+2	news	news	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	Melania	melania	NNP	_	6	poss	_	U-PERSON
+5	's	's	POS	_	4	case	_	O
+6	speech	speech	NN	_	3	attr	_	O
+7	at	at	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	top	top	NN	_	7	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+

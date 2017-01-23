@@ -1,0 +1,14 @@
+1	Ahhhhh	ahhhhh	UH	_	3	discourse	_	O
+2	this	this	DT	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	amazing	amazing	JJ	_	3	acomp	_	O
+5	!	!	.	_	3	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	can	can	MD	_	4	aux	_	O
+3	not	not	RB	_	4	neg	_	O
+4	wait👸🏽	wait👸🏽	VB	pos2=.	0	root	_	O
+5	#BeautyAndTheBeast	#beautyandthebeast	GW	pos2=ADD	7	nmod	_	U-LAW
+6	💙💛	💙💛	GW	pos2=NFP	7	nmod	_	O
+7	https://t.co/W0HD7DiVfs	#hlink#	ADD	pos2=NN	4	dobj	_	U-ORG
+

@@ -1,0 +1,11 @@
+1	CIVILIANS	civilian	NNS	pos2=NNPS	2	nsubj	_	O
+2	FLEE	flee	VBP	pos2=VB	0	root	_	O
+3	ALEPPO	aleppo	NNP	_	4	compound	_	O
+4	BATTLE	battle	NNP	pos2=NN	2	dobj	_	O
+5	ON	on	IN	_	4	prep	_	O
+6	CNN	cnn	NNP	_	5	pobj	_	O
+7	:	:	:	_	2	punct	_	O
+8	https://t.co/kkZRNaWo0m	#hlink#	ADD	_	6	appos	_	O
+9	via	via	IN	_	2	prep	_	O
+10	@YouTube	@youtube	NNP	pos2=NN	9	pobj	_	O
+

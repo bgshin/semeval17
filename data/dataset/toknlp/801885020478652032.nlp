@@ -1,0 +1,18 @@
+1	#BreakingNewslist	#breakingnewslist	NN	pos2=XX	9	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	the	the	DT	_	5	det	_	O
+4	terrorist	terrorist	JJ	pos2=NN	5	nmod	_	O
+5	groups	group	NNS	_	2	pobj	_	O
+6	at	at	IN	_	5	prep	_	O
+7	#Jordan	#jordan	NNP	pos2=JJ	8	compound	_	U-ORG
+8	meeting	meeting	NN	pos2=VBG	6	pobj	_	O
+9	are	be	VBP	_	0	root	_	O
+10	..	..	.	pos2=,	9	punct	_	O
+
+1	#Hamas	#hamas	NNS	pos2=NNP	4	compound	_	O
+2	#katabThawratAlAshreen	#katabthawratalashreen	ADD	pos2=VBP	4	compound	_	O
+3	#AlJaishAlislami	#aljaishalislami	NNS	pos2=VBP	4	compound	_	O
+4	#BaathParty	#baathparty	NN	pos2=ADD	0	root	_	O
+5	&	&	CC	_	4	cc	_	O
+6	others	other	NNS	_	4	conj	_	O
+

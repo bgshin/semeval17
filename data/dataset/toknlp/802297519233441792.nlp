@@ -1,0 +1,21 @@
+1	Michael	michael	NNP	_	2	compound	_	B-PERSON
+2	Moore	moore	NNP	_	5	dep	_	L-PERSON
+3	:	:	:	_	5	punct	_	O
+4	They	they	PRP	pos2=NNP	5	nsubj	_	O
+5	Voted	vote	VBD	_	0	root	_	O
+6	For	for	IN	pos2=NNP	5	prep	_	O
+7	A	a	DT	pos2=NNP	8	det	_	O
+8	Guy	guy	NNP	_	6	pobj	_	O
+9	Named	name	VBN	pos2=NNP	8	acl	_	O
+10	‘	'	``	pos2=''	11	punct	_	O
+11	Hussein	hussein	NNP	_	9	oprd	_	U-PERSON
+12	’	'	''	pos2=``	11	punct	_	O
+13	Twice	twice	RB	pos2=NNP	11	advmod	_	O
+14	,	,	,	_	17	punct	_	O
+15	Trump	trump	NNP	_	16	compound	_	B-ORG
+16	Voters	voter	NNPS	pos2=NNS	17	nsubj	_	L-ORG
+17	Are	be	VBP	_	0	root	_	O
+18	Not	not	RB	_	17	neg	_	O
+19	Racist	racist	JJ	_	17	acomp	_	O
+20	https://t.co/kY4x7CfjpQ	#hlink#	ADD	pos2=NN	17	dep	_	O
+

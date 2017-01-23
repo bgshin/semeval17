@@ -1,0 +1,13 @@
+1	Vitamin	vitamin	NN	_	2	compound	_	O
+2	C	c	NN	_	3	npadvmod	_	O
+3	proven	prove	VBN	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	cure	cure	VB	_	3	xcomp	_	O
+6	over	over	IN	pos2=RB	7	qmod	_	O
+7	30	0	CD	_	10	dep	_	U-CARDINAL
+8	major	major	JJ	pos2=NN	9	nmod	_	O
+9	dise	dise	NN	pos2=NNS	10	dep	_	O
+10	aseshttps://t.co/1ajqtxMeXu#conservatives	#hlink#	ADD	_	5	dobj	_	U-ORG
+11	#survivlaist	#survivlaist	-RRB-	pos2=IN	10	punct	_	O
+12	#survivalsituation	#survivalsituation	NN	pos2=UH	5	dobj	_	O
+

@@ -1,0 +1,15 @@
+1	NFL	nfl	NNP	_	3	compound	_	O
+2	Junkies	junkie	NNS	pos2=NNPS	3	compound	_	O
+3	Podcast	podcast	NN	pos2=NNP	6	dep	_	O
+4	:	:	:	_	6	punct	_	O
+5	What	what	WP	_	6	nsubj	_	O
+6	's	's	VBZ	_	0	root	_	O
+7	next	next	JJ	pos2=RB	6	acomp	_	O
+8	for	for	IN	_	7	prep	_	O
+9	Romo	romo	NNP	_	8	pobj	_	U-PERSON
+10	,	,	,	_	11	punct	_	O
+11	Cousins	cousin	NNS	pos2=NNPS	6	nsubj	_	O
+12	?	?	.	_	6	punct	_	O
+
+1	https://t.co/M2mZ0CoADc	#hlink#	ADD	_	0	root	_	U-ORG
+

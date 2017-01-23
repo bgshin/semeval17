@@ -1,0 +1,13 @@
+1	Homeopathy	homeopathy	NN	pos2=NNP	2	nsubj	_	O
+2	shown	show	VBN	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	accelerate	accelerate	VB	_	2	xcomp	_	O
+5	the	the	DT	_	6	det	_	O
+6	healing	healing	NN	_	4	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	bone	bone	NN	_	9	compound	_	O
+9	fractures	fracture	NNS	_	7	pobj	_	O
+10	in	in	IN	_	6	prep	_	O
+11	study	study	NN	_	10	pobj	_	O
+12	https://t.co/wwLwiEIrM0	#hlink#	ADD	pos2=NN	4	dobj	_	U-GPE
+

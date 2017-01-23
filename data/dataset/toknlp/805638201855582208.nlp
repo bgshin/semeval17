@@ -1,0 +1,18 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	save	save	VBP	pos2=VB	12	ccomp	_	O
+3	$	$	$	_	4	nmod	_	O
+4	3,500	0	CD	_	2	dobj	_	U-MONEY
+5	a	a	DT	_	6	det	_	O
+6	year	year	NN	_	4	npadvmod	_	O
+7	on	on	IN	_	2	prep	_	O
+8	Transportation	transportation	NNP	pos2=NN	9	compound	_	O
+9	Costs	cost	NNS	pos2=NNPS	7	pobj	_	O
+10	-	-	:	pos2=,	12	punct	_	O
+11	all	all	DT	_	8	appos	_	O
+12	hail	hail	VBP	pos2=NN	0	root	_	O
+13	the	the	DT	_	14	det	_	O
+14	bus	bus	NN	_	12	dobj	_	O
+15	!	!	.	_	12	punct	_	O
+
+1	https://t.co/hUcqs46yfV	#hlink#	ADD	_	0	root	_	U-ORG
+

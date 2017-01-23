@@ -1,0 +1,16 @@
+1	Florida	florida	NNP	_	3	nsubj	_	U-GPE
+2	really	really	RB	_	3	advmod	_	O
+3	needs	need	VBZ	_	0	root	_	O
+4	to	to	TO	pos2=IN	5	aux	_	O
+5	#AudittheVote	#auditthevote	VB	pos2=RB	3	xcomp	_	O
+6	too	too	RB	_	5	advmod	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	#NotMyPresident	#notmypresident	ADD	pos2=NN	7	cc	_	O
+2	#TrumpProtest	#trumpprotest	JJS	pos2=ADD	7	punct	_	O
+3	#imwithher	#imwithher	UH	pos2=IN	7	discourse	_	O
+4	#VoteRecount	#voterecount	ADD	pos2=GW	7	punct	_	U-PERSON
+5	#Election2016	#election0	NN	pos2=CD	4	dobj	_	O
+6	#stillwithher	#stillwithher	UH	pos2=ADD	4	discourse	_	O
+7	#werestillhere	#werestillhere	UH	pos2=RB	0	root	_	O
+

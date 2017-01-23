@@ -1,0 +1,21 @@
+1	@JoyAnnReid	@joyannreid	XX	pos2=FW	7	dep	_	O
+2	@jamesmpope	@jamesmpope	UH	pos2=XX	7	discourse	_	O
+3	@PostRoz	@postroz	UH	pos2=XX	7	discourse	_	O
+4	@Fahrenthold	@fahrenthold	UH	pos2=NNP	7	discourse	_	O
+5	Can	can	MD	_	7	aux	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	imagine	imagine	VB	_	0	root	_	O
+8	the	the	DT	_	10	det	_	O
+9	Trump	trump	NNP	pos2=NN	10	compound	_	O
+10	WH	wh	NNP	pos2=NN	7	dobj	_	O
+11	w/o	w/o	IN	_	7	prep	_	O
+12	Melania	melania	NNP	_	11	pobj	_	O
+13	?	?	.	_	7	punct	_	O
+
+1	Makes	make	VBZ	_	0	root	_	O
+2	Clinton	clinton	NNP	_	3	compound	_	B-PERSON
+3	WH	wh	NNP	pos2=NN	4	nsubj	_	L-PERSON
+4	look	look	VB	pos2=VBP	1	ccomp	_	O
+5	puritanical	puritanical	JJ	_	4	acomp	_	O
+6	.	.	.	_	1	punct	_	O
+

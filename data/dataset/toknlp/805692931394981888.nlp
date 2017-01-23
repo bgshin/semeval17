@@ -1,0 +1,22 @@
+1	@RailaOdingaKindly	@railaodingakindly	RB	pos2=ADD	2	advmod	_	O
+2	ensure	ensure	VB	pos2=VBP	0	root	_	O
+3	good	good	JJ	_	5	nmod	_	O
+4	voter	voter	NN	_	5	compound	_	O
+5	registration	registration	NN	_	2	dobj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	Nyanza	nyanza	NNP	_	8	compound	_	U-GPE
+8	region	region	NN	_	6	pobj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	its	its	PRP$	_	11	poss	_	O
+11	environ	environ	NN	_	8	conj	_	O
+12	as	as	IN	_	2	prep	_	O
+13	a	a	DT	_	14	det	_	O
+14	strategy	strategy	NN	_	12	pobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	early	early	JJ	pos2=RB	17	nmod	_	O
+17	victory	victory	NN	_	15	pobj	_	O
+18	come	come	VBN	pos2=VB	14	acl	_	O
+19	nxt	nxt	XX	pos2=JJ	20	nmod	_	B-DATE
+20	year	year	NN	_	18	npadvmod	_	L-DATE
+21	august	august	NN	pos2=NNP	18	npadvmod	_	O
+

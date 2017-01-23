@@ -1,0 +1,17 @@
+1	Stop	stop	VB	_	5	advcl	_	O
+2	It	it	PRP	_	1	dobj	_	O
+3	,	,	,	_	5	punct	_	O
+4	Liberals…Hillary	liberals…hillary	NNP	_	5	nsubj	_	U-ORG
+5	Lost	lose	VBD	pos2=NNP	0	root	_	O
+6	The	the	DT	_	8	det	_	O
+7	Popular	popular	NNP	pos2=JJ	8	compound	_	O
+8	Vote	vote	NN	pos2=NNP	5	dobj	_	O
+9	By	by	IN	pos2=NNP	5	prep	_	O
+10	Several	several	JJ	pos2=NNP	11	qmod	_	B-CARDINAL
+11	Million	#crd#	CD	pos2=NNP	9	pobj	_	L-CARDINAL
+12	,	,	,	_	5	punct	_	O
+13	Here	here	RB	pos2=NNP	14	advmod	_	O
+14	’s	's	VBZ	_	16	dep	_	O
+15	Why	why	WRB	pos2=GW	16	advmod	_	O
+16	https://t.co/myjAN4DHHo	#hlink#	ADD	_	5	dep	_	O
+

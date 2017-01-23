@@ -1,0 +1,25 @@
+1	@GuyBurdickSince	@guyburdicksince	NNP	pos2=IN	2	compound	_	O
+2	Putin	putin	NNP	_	4	poss	_	U-PERSON
+3	's	's	POS	_	2	case	_	O
+4	endgame	endgame	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	18	ccomp	_	O
+6	to	to	TO	_	7	aux	_	O
+7	get	get	VB	_	5	xcomp	_	O
+8	states	state	NNS	_	10	nsubj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	dissolve	dissolve	VB	_	7	ccomp	_	O
+11	the	the	DT	_	12	det	_	O
+12	Union	union	NNP	pos2=NN	10	dobj	_	O
+13	;	;	,	pos2=:	18	punct	_	O
+14	Trump	trump	NNP	_	17	poss	_	U-ORG
+15	's	's	POS	_	14	case	_	O
+16	devious	devious	JJ	_	17	nmod	_	O
+17	rhetoric	rhetoric	NN	_	18	nsubj	_	O
+18	turned	turn	VBD	pos2=VBN	0	root	_	O
+19	policy	policy	NN	_	21	nsubj	_	O
+20	may	may	MD	_	21	aux	_	O
+21	make	make	VB	_	18	advcl	_	O
+22	for	for	IN	_	21	prep	_	O
+23	short	short	JJ	_	24	nmod	_	O
+24	reign	reign	NN	_	22	pobj	_	O
+

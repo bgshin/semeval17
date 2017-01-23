@@ -1,0 +1,20 @@
+1	Strikes	strike	VBZ	_	0	root	_	O
+2	me	me	PRP	_	1	dobj	_	O
+3	that	that	IN	_	17	mark	_	O
+4	a	a	DT	_	6	det	_	O
+5	propaganda	propaganda	NN	_	6	compound	_	O
+6	drive	drive	NN	pos2=VB	17	nsubj	_	O
+7	that	that	WDT	_	8	nsubj	_	O
+8	made	make	VBD	_	6	relcl	_	O
+9	it	it	PRP	_	10	nsubj	_	O
+10	harder	hard	JJR	pos2=RBR	8	ccomp	_	O
+11	to	to	TO	_	12	aux	_	O
+12	organise	organise	VB	_	10	advcl	_	O
+13	voter	voter	NN	_	14	compound	_	O
+14	registration	registration	NN	_	12	dobj	_	O
+15	might	might	MD	_	17	aux	_	O
+16	have	have	VB	_	17	aux	_	O
+17	had	have	VBN	_	1	ccomp	_	O
+18	an	an	DT	_	19	det	_	O
+19	impact	impact	NN	_	17	dobj	_	O
+

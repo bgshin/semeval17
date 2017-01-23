@@ -1,0 +1,22 @@
+1	@TheJerrbear1	@thejerrbear0	NN	pos2=NNS	6	dep	_	O
+2	@AndrewDBailey	@andrewdbailey	XX	pos2=RB	6	dep	_	O
+3	@utahjazz	@utahjazz	UH	pos2=XX	6	discourse	_	O
+4	well	well	UH	pos2=RB	6	discourse	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	needed	need	VBD	pos2=VBN	0	root	_	O
+7	to	to	TO	_	9	aux	_	O
+8	be	be	VB	_	9	auxpass	_	O
+9	brought	bring	VBN	_	6	xcomp	_	O
+10	up	up	RP	_	9	prt	_	O
+11	again	again	RB	_	9	advmod	_	O
+12	,	,	,	_	6	punct	_	O
+13	obviously	obviously	RB	_	6	advmod	_	O
+14	.	.	.	_	6	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	world	world	NN	_	3	nsubj	_	O
+3	needs	need	VBZ	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	know	know	VB	_	3	xcomp	_	O
+6	.	.	.	_	3	punct	_	O
+

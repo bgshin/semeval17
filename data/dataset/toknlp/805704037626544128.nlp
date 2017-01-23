@@ -1,0 +1,10 @@
+1	Immigrant	immigrant	JJ	pos2=NN	2	nmod	_	O
+2	Workers	worker	NNS	pos2=NNPS	3	nsubj	_	O
+3	Positive	positive	JJ	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	Developed	develop	VBN	pos2=NNP	6	nmod	_	O
+6	Countries	country	NNS	pos2=NNPS	4	pobj	_	O
+7	https://t.co/PjOBx6XFnw	#hlink#	ADD	pos2=VBP	2	appos	_	O
+8	via	via	IN	_	3	prep	_	O
+9	@reddit	@reddit	NN	pos2=.	8	pobj	_	O
+

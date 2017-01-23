@@ -1,0 +1,19 @@
+1	in	in	IN	_	5	prep	_	O
+2	all	all	DT	_	3	det	_	O
+3	reality	reality	NN	_	1	pobj	_	O
+4	i	I	PRP	_	5	nsubj	_	O
+5	'm	be	VBP	_	0	root	_	O
+6	super	super	RB	_	7	advmod	_	O
+7	thankful	thankful	JJ	_	5	acomp	_	O
+8	that	that	IN	_	11	mark	_	O
+9	Grayson	grayson	NNP	_	10	compound	_	B-PERSON
+10	Allen	allen	NNP	_	11	nsubj	_	L-PERSON
+11	is	be	VBZ	_	7	ccomp	_	O
+12	a	a	DT	_	15	det	_	O
+13	real	real	JJ	_	14	nmod	_	O
+14	life	life	NN	_	10	appos	_	O
+15	human	human	JJ	pos2=NN	11	attr	_	O
+16	being	be	VBG	pos2=NN	11	advcl	_	O
+17	bc	bc	JJ	pos2=VBN	16	acomp	_	O
+18	wowww😍😍😍	wowww😍😍😍	.	pos2=NNS	5	punct	_	O
+

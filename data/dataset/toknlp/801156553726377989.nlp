@@ -1,0 +1,15 @@
+1	Quite	quite	PDT	pos2=RB	3	predet	_	O
+2	the	the	DT	_	3	det	_	O
+3	transformation	transformation	NN	_	6	dep	_	O
+4	:	:	:	_	6	punct	_	O
+5	#Microsoft	#microsoft	NNP	pos2=WP	6	nsubj	_	O
+6	Buries	bury	VBZ	_	0	root	_	O
+7	Old	old	NNP	pos2=JJ	8	compound	_	O
+8	Animosity	animosity	NN	pos2=NNP	6	dobj	_	O
+9	by	by	IN	_	6	prep	_	O
+10	Joining	join	VBG	pos2=NNP	9	pcomp	_	B-ORG
+11	#Linux	#linux	NNP	pos2=GW	12	compound	_	I-ORG
+12	Foundation	foundation	NNP	pos2=GW	10	dobj	_	L-ORG
+13	https://t.co/7099VRMuW9…	#hlink#	ADD	_	14	nmod	_	O
+14	https://t.co/yD2uMhwhcA	#hlink#	ADD	_	10	npadvmod	_	U-ORG
+

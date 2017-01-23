@@ -1,0 +1,19 @@
+1	@verynetwork	@verynetwork	UH	pos2=XX	5	discourse	_	O
+2	#Hatchimals	#hatchimals	NNS	pos2=UH	5	discourse	_	O
+3	#Blackfriday	#blackfriday	NNP	pos2=UH	6	nsubj	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	've	have	VBP	_	0	root	_	O
+6	3	0	CD	_	8	nmod	_	U-CARDINAL
+7	little	little	JJ	_	8	nmod	_	O
+8	ones	#crd#	NNS	_	5	dobj	_	O
+9	who	who	WP	_	11	nsubj	_	O
+10	'd	would	MD	pos2=VBD	11	aux	_	O
+11	love	love	VB	pos2=NN	8	relcl	_	O
+12	to	to	TO	_	13	aux	_	O
+13	win	win	VB	_	11	xcomp	_	O
+14	a	a	DT	_	15	det	_	O
+15	Hatchimal	hatchimal	NNP	pos2=NN	13	dobj	_	U-GPE
+16	!	!	.	_	5	punct	_	O
+
+1	https://t.co/0RUOri9ytF	#hlink#	ADD	_	0	root	_	U-ORG
+

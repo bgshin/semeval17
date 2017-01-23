@@ -1,0 +1,26 @@
+1	#RIPFlorenceHenderson	#ripflorencehenderson	NNP	pos2=ADD	3	acomp	_	U-DATE
+2	She	she	PRP	pos2=NNP	3	nsubj	_	O
+3	Was	be	VBD	_	0	root	_	O
+4	<	<	SYM	pos2=RBS	5	punct	_	O
+5	3	0	CD	_	3	attr	_	U-CARDINAL
+6	Because	because	IN	_	10	mark	_	O
+7	,	,	,	_	10	punct	_	O
+8	She	she	PRP	pos2=NNP	10	nsubjpass	_	O
+9	Was	be	VBD	_	10	auxpass	_	O
+10	Born	bear	VBN	_	3	advcl	_	O
+11	On	on	IN	_	10	prep	_	O
+12	Valentines	valentines	NNP	_	13	compound	_	B-DATE
+13	Day	day	NNP	_	11	pobj	_	L-DATE
+14	,	,	,	_	10	punct	_	O
+15	Aw	aw	NNP	pos2=UH	10	vocative	_	U-PERSON
+16	...	..	.	pos2=,	3	punct	_	O
+
+1	Every's1	every's0	NN	pos2=XX	0	root	_	O
+2	Mama	mama	NNP	pos2=NN	1	vocative	_	O
+3	...	..	.	pos2=,	1	punct	_	O
+
+1	#YouWillBeMiss	#youwillbemiss	UH	pos2=ADD	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	https://t.co/1SqjvXt0wW	#hlink#	ADD	_	0	root	_	U-ORG
+

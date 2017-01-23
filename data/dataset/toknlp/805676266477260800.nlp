@@ -1,0 +1,18 @@
+1	Breastfed	breastfed	JJ	pos2=VBN	2	nmod	_	O
+2	babies	baby	NNS	_	3	nsubj	_	O
+3	have	have	VBP	pos2=VB	0	root	_	O
+4	better	good	JJR	_	6	nmod	_	O
+5	antibody	antibody	NN	_	6	compound	_	O
+6	response	response	NN	_	3	dobj	_	O
+7	to	to	IN	_	6	prep	_	O
+8	vaccines	vaccine	NNS	_	7	pobj	_	O
+9	than	than	IN	_	6	prep	_	O
+10	formula-fed.Call	#hlink#	ADD	pos2=VBG	13	nmod	_	O
+11	FREE	free	JJ	pos2=-RRB-	13	nmod	_	O
+12	#breastfeeding	#breastfeeding	JJ	pos2=NN	13	nmod	_	O
+13	consultation	consultation	NN	_	9	pobj	_	O
+14	.	.	.	_	3	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/hB5jxFDCv6	#hlink#	ADD	pos2=NN	0	root	_	O
+

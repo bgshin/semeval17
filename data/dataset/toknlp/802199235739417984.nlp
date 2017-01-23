@@ -1,0 +1,23 @@
+1	@realDonaldTrump	@realdonaldtrump	UH	pos2=NN	5	discourse	_	O
+2	we	we	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	want	want	VB	_	0	root	_	O
+6	Romney	romney	NNP	_	7	compound	_	B-PERSON
+7	#TheSnake	#thesnake	NNP	pos2=ADD	5	dobj	_	L-PERSON
+8	!	!	.	_	5	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	want	want	VBP	_	0	root	_	O
+3	Rudys	rudys	NNPS	_	4	compound	_	U-PERSON
+4	loyalty	loyalty	NN	_	2	dobj	_	O
+5	!	!	.	_	2	punct	_	O
+
+1	Retweet	retweet	NN	pos2=VB	7	dep	_	O
+2	#MAGA	#maga	NN	pos2=XX	7	dep	_	U-PERSON
+3	#Trump2016	#trump0	NN	pos2=CD	7	dep	_	O
+4	#NeverRomney	#neverromney	XX	pos2=ADD	7	dep	_	O
+5	#Fraud	#fraud	NNP	pos2=XX	6	compound	_	B-PERSON
+6	#Phony	#phony	NNP	pos2=XX	7	dep	_	L-PERSON
+7	#DrainTheSwamp	#draintheswamp	ADD	pos2=XX	0	root	_	O
+

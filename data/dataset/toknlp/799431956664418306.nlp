@@ -1,0 +1,24 @@
+1	Fast	fast	JJ	_	2	nmod	_	O
+2	food	food	NN	_	3	compound	_	O
+3	companies	company	NNS	_	4	nsubj	_	O
+4	spend	spend	VBP	_	0	root	_	O
+5	$	$	$	pos2=-LRB-	6	nmod	_	O
+6	2B	0b	NN	pos2=CD	7	compound	_	U-MONEY
+7	advertising	advertising	NN	_	4	dobj	_	O
+8	to	to	IN	_	4	prep	_	O
+9	children	child	NNS	_	8	pobj	_	O
+10	each	each	DT	_	11	det	_	B-DATE
+11	year	year	NN	_	4	npadvmod	_	L-DATE
+12	.	.	.	_	4	punct	_	O
+
+1	How	how	WRB	_	2	advmod	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	parent	parent	NN	_	2	nsubj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	compete	compete	VB	_	2	xcomp	_	O
+7	?	?	.	_	2	punct	_	O
+
+1	https://t.co/m1P5Hde0gX	#hlink#	ADD	_	0	root	_	O
+2	#NationalFastFoodDay	#nationalfastfoodday	-RRB-	pos2=ADD	1	punct	_	O
+

@@ -1,0 +1,7 @@
+1	Ashley	ashley	NNP	_	2	compound	_	B-PERSON
+2	Graham	graham	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	so	so	RB	_	5	advmod	_	O
+5	hot	hot	JJ	_	6	nmod	_	O
+6	wtf	wtf	NN	pos2=NNS	3	attr	_	O
+

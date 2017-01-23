@@ -1,0 +1,27 @@
+1	Taiwan	taiwan	NNP	_	3	npadvmod	_	U-GPE
+2	-	-	HYPH	pos2=:	3	punct	_	O
+3	barred	bar	VBN	_	0	root	_	O
+4	from	from	IN	_	3	prep	_	O
+5	UN	un	NNP	_	9	poss	_	U-ORG
+6	's	's	POS	_	5	case	_	O
+7	aviation	aviation	NN	_	8	compound	_	O
+8	safety	safety	NN	_	9	compound	_	O
+9	body	body	NN	_	4	pobj	_	O
+10	,	,	,	_	9	punct	_	O
+11	recognised	recognize	VBN	_	9	acl	_	O
+12	by	by	IN	_	11	agent	_	O
+13	22	0	CD	_	14	nmod	_	U-CARDINAL
+14	countries	country	NNS	_	12	pobj	_	O
+15	;	;	,	pos2=:	16	punct	_	O
+16	has	have	VBZ	_	0	root	_	O
+17	a	a	DT	_	19	det	_	O
+18	female	female	JJ	_	19	nmod	_	O
+19	president	president	NN	_	16	dobj	_	O
+20	and	and	CC	_	16	cc	_	O
+21	on	on	IN	_	26	prep	_	O
+22	its	its	PRP$	_	23	poss	_	O
+23	way	way	NN	_	21	pobj	_	O
+24	to	to	IN	pos2=TO	23	prep	_	O
+25	…	…	NFP	pos2=VB	24	pobj	_	O
+26	https://t.co/gi7q9apSq7	#hlink#	ADD	pos2=NN	0	root	_	O
+

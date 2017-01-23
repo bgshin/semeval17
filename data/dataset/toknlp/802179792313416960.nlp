@@ -1,0 +1,26 @@
+1	Deeply	deeply	RB	_	2	advmod	_	O
+2	flawed	flawed	JJ	_	8	nmod	_	O
+3	&	&	CC	_	2	cc	_	O
+4	elite	elite	JJ	pos2=NN	2	conj	_	O
+5	centric	centric	JJ	_	8	nmod	_	O
+6	GCC	gcc	NN	pos2=NNP	8	compound	_	O
+7	ws	ws	NN	pos2=FW	8	compound	_	O
+8	backd	backd	NN	pos2=VBN	0	root	_	O
+9	by	by	IN	_	8	prep	_	O
+10	UN	un	NNP	_	9	pobj	_	B-ORG
+11	&	&	CC	_	10	cc	_	I-ORG
+12	Intl	intl	NNP	_	13	compound	_	I-ORG
+13	Comunity	comunity	NNP	pos2=NN	10	conj	_	L-ORG
+14	.	.	.	_	8	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	kept	keep	VBD	_	0	root	_	O
+3	Saleh	saleh	NNP	_	5	advmod	_	B-PERSON
+4	n	n	POS	pos2=IN	3	case	_	L-PERSON
+5	control&reshufled	control&reshufled	VBD	pos2=JJ	2	conj	_	O
+6	elite	elite	JJ	pos2=NN	5	acomp	_	O
+7	,	,	,	_	5	punct	_	O
+8	ultimately	ultimately	RB	_	10	advmod	_	O
+9	…	…	NFP	pos2=-LRB-	10	punct	_	O
+10	https://t.co/bQuAkzsGlr	#hlink#	ADD	pos2=NN	2	dep	_	O
+

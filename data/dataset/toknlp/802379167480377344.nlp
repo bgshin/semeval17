@@ -1,0 +1,23 @@
+1	Trump	trump	NNP	pos2=NN	3	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	State	state	NNP	pos2=NN	11	nsubj	_	B-ORG
+4	of	of	IN	_	3	prep	_	I-ORG
+5	TransitionDavid	transitiondavid	NNP	_	6	compound	_	I-ORG
+6	Petraeus	petraeus	NNP	_	4	pobj	_	L-ORG
+7	and	and	CC	_	6	cc	_	O
+8	John	john	NNP	_	9	compound	_	B-PERSON
+9	Bolton	bolton	NNP	_	6	conj	_	L-PERSON
+10	would	would	MD	_	11	aux	_	O
+11	be	be	VB	_	0	root	_	O
+12	strong	strong	JJ	_	15	nmod	_	O
+13	,	,	,	_	15	punct	_	O
+14	experienced	experienced	JJ	pos2=VBN	15	nmod	_	O
+15	diplomats	diplomat	NNS	_	11	attr	_	O
+16	.	.	.	_	11	punct	_	O
+
+1	Editorial	editorial	JJ	pos2=NN	0	root	_	O
+2	by	by	IN	pos2=RB	1	prep	_	O
+3	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/CvxnELet86	#hlink#	ADD	_	0	root	_	U-ORG
+

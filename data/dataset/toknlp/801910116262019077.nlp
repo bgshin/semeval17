@@ -1,0 +1,20 @@
+1	Amazing	amazing	JJ	_	2	nmod	_	O
+2	interview	interview	NN	_	11	nsubj	_	O
+3	with	with	IN	_	2	prep	_	O
+4	Mikheil	mikheil	NNP	_	5	compound	_	B-PERSON
+5	Saakashvili	saakashvili	NNP	_	3	pobj	_	L-PERSON
+6	:	:	:	_	11	punct	_	O
+7	What	what	WP	_	12	pobj	_	O
+8	Will	will	MD	pos2=NNP	11	aux	_	O
+9	Presidential	presidential	NNP	pos2=JJ	10	compound	_	O
+10	Relations	relation	NNS	pos2=NNPS	11	nsubj	_	O
+11	Be	be	VB	pos2=NNP	0	root	_	O
+12	Like	like	IN	pos2=NNP	11	prep	_	O
+13	Between	between	IN	pos2=NNP	11	prep	_	O
+14	Trump	trump	NNP	_	13	pobj	_	O
+15	And	and	CC	pos2=NNP	14	cc	_	O
+16	Putin	putin	NNP	_	14	conj	_	U-PERSON
+17	?	?	.	_	11	punct	_	O
+
+1	https://t.co/MwTiHebT4u	#hlink#	ADD	_	0	root	_	U-ORG
+

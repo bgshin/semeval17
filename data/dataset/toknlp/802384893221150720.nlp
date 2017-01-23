@@ -1,0 +1,26 @@
+1	Comey	comey	NNP	_	2	nsubj	_	U-PERSON
+2	gave	give	VBD	_	0	root	_	O
+3	the	the	DT	_	5	det	_	B-ORG
+4	White	white	NNP	_	5	compound	_	I-ORG
+5	House	house	NNP	_	2	dobj	_	L-ORG
+6	to	to	IN	_	2	dative	_	O
+7	Trump	trump	NNP	_	6	pobj	_	U-ORG
+8	and	and	CC	_	2	cc	_	O
+9	the	the	DT	_	10	det	_	O
+10	senate	senate	NN	pos2=NNP	5	conj	_	O
+11	to	to	IN	_	10	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	GOP	gop	NNP	_	11	pobj	_	U-ORG
+14	.	.	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	wonder	wonder	VBP	_	0	root	_	O
+3	what	what	WP	_	5	dobj	_	O
+4	he	he	PRP	_	5	nsubj	_	O
+5	gets	get	VBZ	_	2	ccomp	_	O
+6	in	in	IN	_	5	prep	_	O
+7	return	return	NN	_	6	pobj	_	O
+8	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/lktLrkY3vd	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,13 @@
+1	OMG	omg	NNP	pos2=NN	4	nsubj	_	O
+2	THE	the	DT	_	3	det	_	O
+3	CUBS	cub	NNPS	pos2=NNS	4	nsubj	_	O
+4	SCORED	score	VBD	pos2=NNP	0	root	_	O
+5	4	0	CD	_	6	nmod	_	U-CARDINAL
+6	RUNS	run	NNS	_	4	dobj	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	9%Trump	0trump	NN	pos2=SYM	3	dep	_	O
+2	61,820,845	0	CD	pos2=LS	3	compound	_	B-CARDINAL
+3	46	0	CD	pos2=LS	0	root	_	L-CARDINAL
+4	.	.	.	_	3	punct	_	O
+

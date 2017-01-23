@@ -1,0 +1,30 @@
+1	@EscapeVelo	@escapevelo	NNP	pos2=UH	5	nsubj	_	O
+2	Every	every	DT	_	3	det	_	O
+3	election	election	NN	_	5	nsubj	_	O
+4	has	have	VBZ	_	5	aux	_	O
+5	had	have	VBN	pos2=VBD	0	root	_	O
+6	someone	someone	NN	_	5	dobj	_	O
+7	pushing	push	VBG	_	6	acl	_	O
+8	for	for	IN	_	7	prep	_	O
+9	a	a	DT	_	10	det	_	O
+10	recount	recount	NN	_	8	pobj	_	O
+11	...	..	.	_	5	punct	_	O
+
+1	seems	seem	VBZ	_	0	root	_	O
+2	strange	strange	JJ	_	1	oprd	_	O
+3	for	for	IN	_	14	mark	_	O
+4	the	the	DT	_	6	det	_	O
+5	"	"	``	_	6	punct	_	O
+6	winner	winner	NN	_	3	pobj	_	O
+7	"	"	''	_	6	punct	_	O
+8	of	of	IN	_	6	prep	_	O
+9	the	the	DT	_	11	det	_	O
+10	popular	popular	JJ	_	11	nmod	_	O
+11	vote	vote	NN	_	8	pobj	_	O
+12	to	to	TO	pos2=IN	14	aux	_	O
+13	to	to	TO	_	14	aux	_	O
+14	call	call	VB	_	1	advcl	_	O
+15	for	for	IN	_	14	prep	_	O
+16	it	it	PRP	_	15	pobj	_	O
+17	;)	;)	NFP	pos2=-RRB-	1	discourse	_	O
+

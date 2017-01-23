@@ -1,0 +1,16 @@
+1	Let	let	VB	_	0	root	_	O
+2	our	our	PRP$	_	3	poss	_	O
+3	bones	bone	NNS	_	4	nsubj	_	O
+4	break	break	VBP	pos2=VB	1	ccomp	_	O
+5	into	into	IN	_	4	prep	_	O
+6	song	song	NN	_	8	compound	_	O
+7	-	-	HYPH	pos2=,	8	punct	_	O
+8	@Deardarkness	@deardarkness	NN	pos2=NNP	9	compound	_	O
+9	reading	reading	NN	pos2=VBG	5	pobj	_	O
+10	from	from	IN	_	9	prep	_	O
+11	BLUE	blue	JJ	pos2=NNP	12	nmod	_	O
+12	LAWS	law	NNS	pos2=NNPS	10	pobj	_	O
+13	at	at	IN	_	4	prep	_	O
+14	#MiamiBookFair2016	#miamibookfair0	NN	pos2=NNS	15	compound	_	O
+15	#NBAwards	#nbawards	NNS	pos2=ADD	13	pobj	_	U-MONEY
+

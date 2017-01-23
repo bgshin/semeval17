@@ -1,0 +1,8 @@
+1	Another	another	DT	_	3	det	_	O
+2	lovely	lovely	JJ	_	3	nmod	_	O
+3	day	day	NN	_	7	dep	_	O
+4	in	in	IN	_	3	prep	_	O
+5	#Jerusalem	#jerusalem	NNP	pos2=PRP	4	pobj	_	U-GPE
+6	🌞🌞🌞	🌞🌞🌞	NFP	pos2=-LRB-	7	punct	_	O
+7	https://t.co/HYPveaVNKq	#hlink#	ADD	_	0	root	_	O
+

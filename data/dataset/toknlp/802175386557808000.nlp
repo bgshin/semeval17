@@ -1,0 +1,28 @@
+1	@DanDeFreest	@dandefreest	NN	pos2=JJS	7	nsubj	_	O
+2	//	//	NFP	pos2=-LRB-	7	punct	_	O
+3	@elizabethforma	@elizabethforma	IN	pos2=UH	7	prep	_	O
+4	This	this	DT	_	3	pobj	_	O
+5	ca	can	MD	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	be	be	VB	_	0	root	_	O
+8	legal	legal	JJ	_	7	acomp	_	O
+9	!	!	.	_	7	punct	_	O
+
+1	He	he	PRP	_	3	nsubj	_	O
+2	is	be	VBZ	_	3	aux	_	O
+3	profiting	profit	VBG	_	0	root	_	O
+4	from	from	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	@SecretService	@secretservice	NNP	pos2=NN	4	pobj	_	U-FAC
+7	and	and	CC	_	3	cc	_	O
+8	it	it	PRP	_	9	nsubj	_	O
+9	is	be	VBZ	_	3	conj	_	O
+10	BLATANT	blatant	JJ	_	9	acomp	_	O
+11	!	!	.	_	9	punct	_	O
+
+1	Can	can	MD	_	3	aux	_	O
+2	u	u	PRP	pos2=GW	3	nsubj	_	O
+3	do	do	VB	_	0	root	_	O
+4	something	something	NN	_	3	dobj	_	O
+5	.	.	.	_	3	punct	_	O
+

@@ -1,0 +1,21 @@
+1	So	so	RB	_	3	advmod	_	O
+2	who	who	WP	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	next	next	JJ	pos2=RB	3	acomp	_	O
+5	?	?	.	_	3	punct	_	O
+
+1	Maduro	maduro	NNP	_	0	root	_	U-PERSON
+2	?	?	.	_	1	punct	_	O
+
+1	A	a	DT	_	2	det	_	O
+2	little	little	JJ	_	3	npadvmod	_	O
+3	young	young	JJ	_	5	dep	_	O
+4	,	,	,	_	9	punct	_	O
+5	perhaps	perhaps	RB	_	9	advmod	_	O
+6	,	,	,	_	5	punct	_	O
+7	but	but	CC	_	9	cc	_	O
+8	it	it	PRP	_	9	nsubj	_	O
+9	is	be	VBZ	_	0	root	_	O
+10	Venezuela	venezuela	NNP	_	9	attr	_	U-GPE
+11	....	..	.	pos2=,	9	punct	_	O
+

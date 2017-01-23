@@ -1,0 +1,27 @@
+1	#Spurs	#spurs	NNS	pos2=NNP	2	compound	_	O
+2	#GoSpursGo	#gospursgo	NNP	pos2=RB	0	root	_	O
+3	1997	0	CD	_	5	qmod	_	B-DATE
+4	-	-	SYM	pos2=HYPH	5	punct	_	I-DATE
+5	98	0	CD	_	9	nmod	_	L-DATE
+6	Skybox	skybox	NNP	_	9	compound	_	B-ORG
+7	Z	z	NNP	pos2=NN	9	compound	_	I-ORG
+8	-	-	HYPH	pos2=:	9	punct	_	I-ORG
+9	Force	force	NNP	pos2=NN	10	compound	_	L-ORG
+10	#	#	NN	_	2	npadvmod	_	O
+11	3	0	CD	pos2=LS	10	nmod	_	U-MONEY
+12	Tim	tim	NNP	_	15	compound	_	B-PERSON
+13	Duncan	duncan	NNP	_	15	compound	_	L-PERSON
+14	Slam	slam	NNP	_	15	compound	_	O
+15	Cam	cam	NNP	_	19	nsubj	_	O
+16	97	0	CD	_	18	qmod	_	U-CARDINAL
+17	-	-	SYM	pos2=HYPH	18	punct	_	O
+18	98	0	CD	_	19	nmod	_	O
+19	Spurs	spur	NNS	pos2=NNPS	24	ccomp	_	O
+20	BGS	bgs	NN	pos2=FW	19	npadvmod	_	O
+21	9.5	0	CD	_	26	nmod	_	U-CARDINAL
+22	Gem	gem	NNP	pos2=NN	23	compound	_	B-ORG
+23	Mint	mint	NNP	pos2=NN	20	appos	_	L-ORG
+24	https://t.co/UoEu6Edd8Z	#hlink#	ADD	_	26	punct	_	O
+25	#TimDuncan	#timduncan	ADD	pos2=-RRB-	0	root	_	U-ORG
+26	#NBA	#nba	NN	pos2=ADD	25	pobj	_	O
+

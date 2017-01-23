@@ -1,0 +1,28 @@
+1	AI	ai	NN	pos2=NNP	7	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	deep	deep	JJ	_	5	nmod	_	O
+4	learning	learning	NN	_	5	compound	_	O
+5	systems	system	NNS	_	1	conj	_	O
+6	can	can	MD	_	7	aux	_	O
+7	develop	develop	VB	_	0	root	_	O
+8	synthetic	synthetic	JJ	_	9	nmod	_	O
+9	procedures	procedure	NNS	_	7	dobj	_	O
+10	better	good	JJR	pos2=RBR	7	advmod	_	O
+11	than	than	IN	_	13	mark	_	O
+12	humans	human	NNS	_	13	nsubj	_	O
+13	can	can	MD	pos2=NN	10	advcl	_	O
+14	.	.	.	_	7	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	shall	shall	MD	_	4	aux	_	O
+3	soon	soon	RB	_	4	advmod	_	O
+4	be	be	VB	_	0	root	_	O
+5	obsolete	obsolete	JJ	_	4	acomp	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	Any	any	DT	_	4	det	_	O
+2	new	new	JJ	_	4	nmod	_	O
+3	job	job	NN	_	4	compound	_	O
+4	suggestions	suggestion	NNS	_	0	root	_	O
+5	?	?	.	_	4	punct	_	O
+

@@ -1,0 +1,28 @@
+1	@RebelFkingHeart	@rebelfkingheart	NN	pos2=ADD	2	meta	_	O
+2	@DavidYankovich	@davidyankovich	WDT	pos2=ADD	0	root	_	O
+3	I	I	PRP	_	6	nsubjpass	_	O
+4	am	be	VBP	_	6	auxpass	_	O
+5	terribly	terribly	RB	_	6	advmod	_	O
+6	saddened	sadden	VBN	pos2=JJ	1	relcl	_	O
+7	by	by	IN	_	6	agent	_	O
+8	your	your	PRP$	_	9	poss	_	O
+9	story	story	NN	_	7	pobj	_	O
+10	.	.	.	_	1	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	want	want	VBP	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	learn	learn	VB	_	2	xcomp	_	O
+5	more	more	JJR	_	4	dobj	_	O
+6	about	about	IN	_	5	prep	_	O
+7	euthanasia	euthanasia	NN	_	6	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	wish	wish	VBP	_	0	root	_	O
+3	you	you	PRP	_	2	dative	_	O
+4	peace	peace	NN	pos2=VBP	2	dobj	_	O
+5	,	,	,	_	2	punct	_	O
+6	my	my	PRP$	_	7	poss	_	O
+7	friend.❤️	friend.❤️	.	pos2=NNS	2	punct	_	O
+

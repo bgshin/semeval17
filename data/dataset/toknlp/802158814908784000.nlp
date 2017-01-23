@@ -1,0 +1,23 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	mother	mother	NN	_	3	nsubj	_	O
+3	believes	believe	VBZ	_	0	root	_	O
+4	David	david	NNP	_	5	compound	_	B-PERSON
+5	Blaine	blaine	NNP	_	6	nsubj	_	L-PERSON
+6	is	be	VBZ	_	3	ccomp	_	O
+7	Saran	saran	NNP	_	2	appos	_	U-PERSON
+8	someone	someone	NN	_	6	attr	_	O
+9	please	please	UH	pos2=VB	11	discourse	_	O
+10	confirmJa	confirmja	NNP	pos2=:	11	dep	_	O
+11	Rule	rule	VB	pos2=NNP	6	ccomp	_	O
+12	or	or	CC	_	11	cc	_	O
+13	Bruno	bruno	NNP	_	14	compound	_	O
+14	Mars	mars	NNP	_	11	conj	_	U-LOC
+15	I	I	PRP	_	18	nsubj	_	O
+16	could	could	MD	_	18	aux	_	O
+17	really	really	RB	_	18	advmod	_	O
+18	use	use	VB	_	14	parataxis	_	O
+19	your	your	PRP$	_	20	poss	_	O
+20	input	input	NN	_	18	dobj	_	O
+21	right	right	RB	_	22	advmod	_	O
+22	now	now	RB	_	18	advmod	_	O
+

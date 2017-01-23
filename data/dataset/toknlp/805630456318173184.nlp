@@ -1,0 +1,8 @@
+1	Cristiano	cristiano	NNP	_	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	0	root	_	L-PERSON
+3	with	with	IN	_	2	prep	_	O
+4	class	class	NN	_	3	pobj	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	https://t.co/JPeXfYqptV	#hlink#	ADD	_	0	root	_	U-ORG
+

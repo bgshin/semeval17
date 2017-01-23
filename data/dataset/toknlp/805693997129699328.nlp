@@ -1,0 +1,14 @@
+1	@miniminter	@miniminter	UH	pos2=WP	4	discourse	_	O
+2	IVE	ive	RB	pos2=NN	4	advmod	_	O
+3	BEEN	be	VBN	pos2=IN	4	aux	_	O
+4	ASKING	ask	VBG	_	0	root	_	O
+5	THIS	this	DT	_	6	det	_	O
+6	SHIT	shit	NN	_	4	dobj	_	O
+7	TO	to	IN	_	4	prep	_	O
+8	YOU	you	PRP	_	7	pobj	_	O
+9	FOR	for	IN	_	4	prep	_	O
+10	TWO	#crd#	CD	_	13	nmod	_	O
+11	FRICK	frick	NNP	pos2=NN	13	compound	_	O
+12	FRACKING	fracking	NN	pos2=NNP	13	compound	_	O
+13	YEARS	year	NNS	_	9	pobj	_	O
+

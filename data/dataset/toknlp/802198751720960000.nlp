@@ -1,0 +1,16 @@
+1	Reminiscent	reminiscent	JJ	pos2=NNP	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	Palin	palin	NNP	_	2	pobj	_	U-PERSON
+4	.	.	.	_	1	punct	_	O
+
+1	At	at	RB	pos2=IN	2	advmod	_	O
+2	least	least	RBS	pos2=JJS	4	advmod	_	O
+3	she	she	PRP	_	4	nsubj	_	O
+4	was	be	VBD	_	0	root	_	O
+5	entertaining	entertaining	JJ	pos2=VBG	4	acomp	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	#StillWithHer	#stillwithher	GW	pos2=ADD	3	nmod	_	O
+2	#TrumpTransition	#trumptransition	GW	pos2=ADD	3	nmod	_	O
+3	https://t.co/2WETdg8aRW	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

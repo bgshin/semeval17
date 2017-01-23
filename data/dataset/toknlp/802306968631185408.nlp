@@ -1,0 +1,23 @@
+1	@abc_sydmun	@abc_sydmun	UH	pos2=NNP	3	discourse	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	delicious	delicious	JJ	_	3	acomp	_	O
+5	,	,	,	_	3	punct	_	O
+6	but	but	CC	_	3	cc	_	O
+7	still	still	RB	_	10	advmod	_	O
+8	not	not	RB	_	10	neg	_	O
+9	as	as	RB	_	10	advmod	_	O
+10	good	good	JJ	_	3	acomp	_	O
+11	as	as	IN	_	10	prep	_	O
+12	Kim	kim	NNP	_	15	compound	_	B-PERSON
+13	Jong	jong	NNP	_	15	compound	_	I-PERSON
+14	-	-	HYPH	_	15	punct	_	I-PERSON
+15	un	un	NNP	_	18	poss	_	I-PERSON
+16	's	's	POS	_	15	case	_	L-PERSON
+17	suave	suave	JJ	_	18	nmod	_	O
+18	lisp	lisp	NN	pos2=NNS	11	pobj	_	O
+19	.	.	.	_	3	punct	_	O
+
+1	Yum	yum	NNP	pos2=UH	0	root	_	U-ORG
+2	.	.	.	_	1	punct	_	O
+

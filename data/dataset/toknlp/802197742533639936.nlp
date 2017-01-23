@@ -1,0 +1,14 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	same	same	JJ	_	5	nmod	_	O
+5	actor	actor	NN	_	2	attr	_	O
+6	who	who	WP	_	7	nsubj	_	O
+7	played	play	VBD	_	5	relcl	_	O
+8	Kowalski	kowalski	NNP	_	7	dobj	_	U-PERSON
+9	in	in	IN	_	7	prep	_	O
+10	#FantasticBeasts	#fantasticbeasts	NNS	pos2=NNP	9	pobj	_	U-DATE
+11	..........	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/udapPEaQ1M	#hlink#	ADD	_	0	root	_	U-ORG
+

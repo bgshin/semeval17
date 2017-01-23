@@ -1,0 +1,27 @@
+1	@stephenasmith	@stephenasmith	UH	pos2=PRP	4	discourse	_	O
+2	Ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	wait	wait	VB	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	get	get	VB	_	4	xcomp	_	O
+7	some	some	DT	_	10	det	_	O
+8	Dak	dak	NNP	_	9	compound	_	B-ORG
+9	Prescott	prescott	NNP	_	10	compound	_	L-ORG
+10	socks	sock	NNS	pos2=VBZ	6	dobj	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	Imagine	imagine	VB	_	0	root	_	O
+2	both	both	CC	pos2=DT	5	preconj	_	O
+3	Tony	tony	NNP	_	4	compound	_	B-PERSON
+4	Romo	romo	NNP	_	5	compound	_	L-PERSON
+5	socks	sock	NNS	pos2=VBZ	1	dobj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	Dak	dak	NNP	pos2=JJ	8	compound	_	U-PERSON
+8	socks	sock	NNS	_	5	conj	_	O
+9	in	in	IN	_	1	prep	_	O
+10	the	the	DT	_	13	det	_	O
+11	same	same	JJ	_	13	nmod	_	O
+12	sock	sock	NN	_	13	compound	_	O
+13	drawer	drawer	NN	_	9	pobj	_	O
+14	!	!	.	_	1	punct	_	O
+

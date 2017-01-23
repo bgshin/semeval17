@@ -1,0 +1,18 @@
+1	An	an	DT	_	2	det	_	O
+2	account	account	NN	_	17	dep	_	O
+3	of	of	IN	_	2	prep	_	O
+4	a	a	DT	_	5	det	_	O
+5	woman	woman	NN	_	3	pobj	_	O
+6	who	who	WP	_	8	nsubj	_	O
+7	bravely	bravely	RB	_	8	advmod	_	O
+8	stood	stand	VBD	_	5	relcl	_	O
+9	up	up	RP	pos2=IN	8	prt	_	O
+10	for	for	IN	_	8	prep	_	O
+11	her	her	PRP$	_	14	poss	_	O
+12	Uber	uber	NNP	_	14	compound	_	U-ORG
+13	cab	cab	NN	_	14	compound	_	O
+14	driver	driver	NN	_	10	pobj	_	O
+15	#uber	#uber	GW	pos2=IN	17	nmod	_	O
+16	#savethebees	#savethebees	GW	pos2=IN	17	nmod	_	O
+17	https://t.co/O7dV8fBFrb	#hlink#	ADD	pos2=NN	0	root	_	O
+

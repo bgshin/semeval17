@@ -1,0 +1,23 @@
+1	You	you	PRP	_	2	nsubj	_	O
+2	know	know	VBP	_	4	parataxis	_	O
+3	conservatives	conservative	NNS	_	4	nsubj	_	O
+4	think	think	VBP	pos2=VB	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	Dems	dems	NNPS	_	7	nsubj	_	U-NORP
+7	are	be	VBP	_	4	ccomp	_	O
+8	leftist	leftist	JJ	_	7	acomp	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	Should	should	MD	_	3	aux	_	O
+2	probably	probably	RB	_	3	advmod	_	O
+3	raise	raise	VB	_	0	root	_	O
+4	awareness	awareness	NN	_	3	dobj	_	O
+5	against	against	IN	_	4	prep	_	O
+6	that	that	DT	_	7	det	_	O
+7	misconception	misconception	NN	_	5	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	@JuliaCarmel	@juliacarmel	NN	pos2=NNP	3	nmod	_	O
+2	__	__	SYM	pos2=NFP	3	punct	_	O
+3	@DemSocialists	@demsocialists	NNS	pos2=ADD	0	root	_	O
+

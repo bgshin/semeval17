@@ -1,0 +1,16 @@
+1	Lying	lie	VBG	pos2=NNP	0	root	_	O
+2	Pokahontas	pokahontas	NNP	_	3	compound	_	B-PERSON
+3	Warren	warren	NNP	_	1	vocative	_	L-PERSON
+4	!	!	.	_	1	punct	_	O
+
+1	Where	where	WRB	_	2	advmod	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	Ben	ben	NNP	_	4	compound	_	B-PERSON
+4	Carson	carson	NNP	_	2	nsubj	_	L-PERSON
+5	on	on	IN	_	4	prep	_	O
+6	this	this	DT	_	7	det	_	O
+7	list	list	NN	_	5	pobj	_	O
+8	?!?	?!?	.	_	2	punct	_	O
+
+1	https://t.co/9Pb9J9ixiG	#hlink#	ADD	_	0	root	_	U-ORG
+

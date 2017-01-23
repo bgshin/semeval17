@@ -1,0 +1,17 @@
+1	@isabellelange	@isabellelange	UH	pos2=SYM	6	discourse	_	O
+2	_	_	SYM	pos2=NFP	6	punct	_	O
+3	happy	happy	JJ	_	6	nmod	_	O
+4	bday	bday	NN	pos2=FW	6	compound	_	O
+5	isabelle	isabelle	NN	pos2=JJ	6	compound	_	O
+6	thx	thx	NN	pos2=XX	16	dep	_	O
+7	for	for	IN	_	6	prep	_	O
+8	beefin	beefin	NN	pos2=VBN	7	pobj	_	O
+9	with	with	IN	_	6	prep	_	O
+10	me	me	PRP	_	9	pobj	_	O
+11	all	all	DT	pos2=RB	14	det	_	O
+12	last	last	JJ	pos2=RB	14	nmod	_	O
+13	year😩👌💦	year😩👌💦	NNP	pos2=NN	14	compound	_	O
+14	#Hollywood	#hollywood	NNP	pos2=GW	16	nmod	_	O
+15	#OneDirection	#onedirection	ADD	pos2=GW	16	dep	_	O
+16	https://t.co/Shhz5SZWXN	#hlink#	ADD	_	0	root	_	O
+

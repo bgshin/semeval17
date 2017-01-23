@@ -1,0 +1,15 @@
+1	@n8_p_s	@n0_p_s	NNS	pos2=UH	4	advmod	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	would	would	MD	_	4	aux	_	O
+4	ask	ask	VB	_	0	root	_	O
+5	Verlander	verlander	NNP	_	4	dobj	_	U-PERSON
+6	about	about	IN	_	4	prep	_	O
+7	that	that	DT	_	6	pobj	_	O
+8	but	but	CC	_	4	cc	_	O
+9	he	he	PRP	_	11	nsubjpass	_	O
+10	's	's	VBZ	_	11	auxpass	_	O
+11	blocked	block	VBN	pos2=VBD	4	conj	_	O
+12	me	me	PRP	_	11	dobj	_	O
+13	I	I	PRP	_	14	nsubj	_	O
+14	think	think	VBP	_	4	ccomp	_	O
+

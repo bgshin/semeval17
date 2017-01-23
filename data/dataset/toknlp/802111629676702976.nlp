@@ -1,0 +1,18 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	must	must	MD	_	3	aux	_	O
+3	have	have	VB	_	0	root	_	O
+4	@SlingerWSYX6	@slingerwsyx0	NN	pos2=VBN	3	dobj	_	O
+5	on	on	IN	_	3	prep	_	O
+6	my	my	PRP$	_	7	poss	_	O
+7	show	show	NN	pos2=VBP	5	pobj	_	O
+8	this	this	DT	_	9	det	_	B-TIME
+9	morning	morning	NN	_	3	npadvmod	_	L-TIME
+10	to	to	TO	_	11	aux	_	O
+11	talk	talk	VB	_	3	advcl	_	O
+12	about	about	IN	_	11	prep	_	O
+13	his	his	PRP$	_	14	poss	_	O
+14	quest	quest	NN	_	12	pobj	_	O
+15	for	for	IN	_	14	prep	_	O
+16	#Hatchimals	#hatchimals	NNS	pos2=NNP	17	compound	_	U-DATE
+17	#gooddaycolumbus	#gooddaycolumbus	NN	pos2=UH	15	pobj	_	O
+

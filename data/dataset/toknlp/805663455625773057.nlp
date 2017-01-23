@@ -1,0 +1,15 @@
+1	@ElectoralCollge	@electoralcollge	ADD	pos2=XX	2	nsubj	_	O
+2	#electorsSpearheading	#electorsspearheading	VBG	pos2=IN	9	csubj	_	O
+3	the	the	DT	_	6	det	_	O
+4	Newest	new	JJS	pos2=NNP	6	nmod	_	O
+5	Voter	voter	NN	pos2=NNP	6	compound	_	O
+6	Suppression	suppression	NN	pos2=NNP	2	dobj	_	O
+7	EffortKris	effortkris	NNP	_	8	compound	_	B-PERSON
+8	Kobach	kobach	NNP	_	6	appos	_	L-PERSON
+9	has	have	VBZ	_	0	root	_	O
+10	quite	quite	PDT	pos2=RB	13	predet	_	O
+11	a	a	DT	_	13	det	_	O
+12	track	track	NN	_	13	compound	_	O
+13	record	record	NN	_	9	dobj	_	O
+14	https://t.co/NKUzrV6c7o	#hlink#	ADD	pos2=NN	13	appos	_	O
+

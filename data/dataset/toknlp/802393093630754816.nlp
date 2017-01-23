@@ -1,0 +1,30 @@
+1	@Cuban4Trump	@cuban0trump	NN	pos2=XX	2	nsubj	_	O
+2	@abc_es	@abc_es	VBZ	pos2=POS	0	root	_	O
+3	Tide	tide	NNP	_	5	nsubj	_	U-PRODUCT
+4	is	be	VBZ	_	5	aux	_	O
+5	turning	turn	VBG	_	2	ccomp	_	O
+6	!	!	.	_	2	punct	_	O
+
+1	Next	next	JJ	pos2=RB	3	nmod	_	O
+2	-	-	HYPH	pos2=,	3	punct	_	O
+3	kick	kick	NN	pos2=VB	4	compound	_	O
+4	Maduro	maduro	NNP	_	0	root	_	U-PERSON
+5	to	to	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	curb	curb	NN	_	5	pobj	_	O
+8	&	&	CC	_	4	cc	_	O
+9	embark	embark	VB	pos2=VBP	0	root	_	O
+10	Santos	santos	NNP	_	9	dobj	_	U-PERSON
+11	on	on	IN	_	9	prep	_	O
+12	a	a	DT	_	15	det	_	O
+13	7	0	CD	_	14	nmod	_	B-DATE
+14	year	year	NN	_	15	compound	_	L-DATE
+15	trip	trip	NN	_	11	pobj	_	O
+16	with	with	IN	_	15	prep	_	O
+17	his	his	PRP$	_	22	poss	_	O
+18	Nobel	nobel	NNP	_	22	compound	_	O
+19	peace	peace	NN	_	20	compound	_	O
+20	prize	prize	NN	pos2=NNP	21	compound	_	O
+21	paper	paper	NN	_	22	compound	_	O
+22	weight	weight	NN	_	16	pobj	_	O
+

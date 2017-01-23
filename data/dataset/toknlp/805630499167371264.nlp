@@ -1,0 +1,20 @@
+1	"	"	``	pos2=SYM	5	punct	_	O
+2	North	north	NNP	_	3	compound	_	B-GPE
+3	Carolina	carolina	NNP	_	4	compound	_	L-GPE
+4	Republicans	republican	NNPS	pos2=NNP	5	nsubj	_	U-NORP
+5	passed	pass	VBD	_	0	root	_	O
+6	a	a	DT	_	13	det	_	O
+7	“	"	``	_	13	punct	_	O
+8	monster	monster	NN	_	13	nmod	_	O
+9	”	"	''	_	13	punct	_	O
+10	voter	voter	NN	_	12	compound	_	O
+11	-	-	HYPH	_	12	punct	_	O
+12	suppression	suppression	NN	_	13	compound	_	O
+13	law	law	NN	_	5	dobj	_	O
+14	that	that	WDT	_	15	nsubj	_	O
+15	required	require	VBD	_	13	relcl	_	O
+16	strict	strict	JJ	_	18	nmod	_	O
+17	photo	photo	NN	_	18	compound	_	O
+18	ID	id	NN	_	15	dobj	_	O
+19	"	"	''	pos2=``	5	punct	_	O
+

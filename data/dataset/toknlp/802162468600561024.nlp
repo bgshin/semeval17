@@ -1,0 +1,18 @@
+1	We	we	PRP	_	4	nsubj	_	O
+2	out	out	RP	pos2=RB	3	advmod	_	O
+3	here	here	RB	_	4	advmod	_	O
+4	shopping	shop	VBG	pos2=NN	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	clothes	clothes	NNS	_	5	pobj	_	O
+7	and	and	CC	_	4	cc	_	O
+8	it	it	PRP	_	9	nsubj	_	O
+9	feels	feel	VBZ	_	4	conj	_	O
+10	so	so	RB	_	11	advmod	_	O
+11	good	good	JJ	_	9	acomp	_	O
+12	to	to	TO	_	13	aux	_	O
+13	fit	fit	VB	_	9	xcomp	_	O
+14	in	in	IN	pos2=RP	13	prep	_	O
+15	smalls	smalls	NNP	pos2=NNS	14	pobj	_	U-GPE
+16	again	again	RB	_	13	advmod	_	O
+17	👏🏾👌🏾💪🏾	👏🏾👌🏾💪🏾	.	pos2=NNP	9	punct	_	O
+

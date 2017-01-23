@@ -1,0 +1,21 @@
+1	@BBCNewsAsia	@bbcnewsasia	NN	pos2=ADD	2	compound	_	O
+2	#UnitedNations	#unitednations	NNS	pos2=ADD	5	nsubj	_	O
+3	should	should	MD	_	5	aux	_	O
+4	really	really	RB	_	5	advmod	_	O
+5	stop	stop	VB	_	16	ccomp	_	O
+6	meddling	meddle	VBG	pos2=NN	5	xcomp	_	O
+7	in	in	IN	_	6	prep	_	O
+8	countries	country	NNS	_	7	pobj	_	O
+9	domestic	domestic	JJ	_	10	nmod	_	O
+10	issues	issue	NNS	_	5	dobj	_	O
+11	,	,	,	_	16	punct	_	O
+12	at	at	IN	pos2=RB	13	advmod	_	O
+13	best	well	RBS	pos2=JJS	16	advmod	_	O
+14	they	they	PRP	_	16	nsubj	_	O
+15	should	should	MD	_	16	aux	_	O
+16	call	call	VB	_	0	root	_	O
+17	for	for	IN	_	16	prep	_	O
+18	borders	border	NNS	_	17	pobj	_	O
+19	strenthening	strenthening	VBG	pos2=NN	18	acl	_	O
+20	.	.	.	_	16	punct	_	O
+

@@ -1,0 +1,26 @@
+1	@moosehickey	@moosehickey	UH	pos2=XX	4	discourse	_	O
+2	@megynkelly	@megynkelly	UH	pos2=RB	4	discourse	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	watch	watch	VBP	_	0	root	_	O
+5	Fox	fox	NNP	_	6	compound	_	B-ORG
+6	News	news	NNP	_	4	dobj	_	L-ORG
+7	every	every	DT	_	8	det	_	O
+8	night	night	NN	_	4	npadvmod	_	O
+9	!	!	.	_	4	punct	_	O
+
+1	Bill	bill	NNP	pos2=NN	4	nsubj	_	B-PERSON
+2	&	&	CC	_	1	cc	_	L-PERSON
+3	her	her	PRP	pos2=EX	1	conj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	must	must	NN	_	4	attr	_	O
+7	for	for	IN	_	6	prep	_	O
+8	me	me	PRP	_	7	pobj	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	To	to	IN	pos2=TO	0	root	_	O
+2	each	each	DT	pos2=VB	4	det	_	O
+3	his	his	PRP$	_	4	poss	_	O
+4	own	own	JJ	pos2=NN	1	pobj	_	O
+5	.	.	.	_	1	punct	_	O
+

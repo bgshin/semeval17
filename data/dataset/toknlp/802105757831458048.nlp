@@ -1,0 +1,14 @@
+1	delighted	delighted	JJ	pos2=VBD	8	advcl	_	O
+2	to	to	TO	_	3	aux	_	O
+3	see	see	VB	_	1	xcomp	_	O
+4	my	my	PRP$	_	5	poss	_	O
+5	book	book	NN	_	3	dobj	_	O
+6	#Hezbollah	#hezbollah	NNP	pos2=,	5	appos	_	U-WORK_OF_ART
+7	positively	positively	RB	_	8	advmod	_	O
+8	received	receive	VBD	pos2=VBN	0	root	_	O
+9	in	in	IN	_	8	prep	_	O
+10	Choice	choice	NNP	pos2=NN	11	compound	_	O
+11	Rev	rev	NNP	pos2=GW	9	pobj	_	O
+12	iewshttps://t.co/3NhF1ByczD	#hlink#	ADD	_	13	nmod	_	O
+13	https://t.co/N64OqABS2a	#hlink#	ADD	_	8	dep	_	U-ORG
+

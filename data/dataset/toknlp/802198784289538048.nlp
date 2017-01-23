@@ -1,0 +1,27 @@
+1	@elizabethforma	@elizabethforma	UH	pos2=NN	8	discourse	_	O
+2	Hey	hey	UH	pos2=NNP	8	discourse	_	O
+3	Liz	liz	NNP	_	8	vocative	_	U-PERSON
+4	,	,	,	_	8	punct	_	O
+5	the	the	DT	_	6	det	_	O
+6	People	people	NNPS	pos2=NNS	8	nsubj	_	O
+7	are	be	VBP	_	8	aux	_	O
+8	despairing	despair	VBG	pos2=JJ	18	advcl	_	O
+9	at	at	IN	_	8	prep	_	O
+10	all	all	PDT	pos2=RB	14	predet	_	O
+11	this	this	DT	_	14	det	_	O
+12	Russian	russian	JJ	_	14	nmod	_	U-NORP
+13	hacking	hacking	NN	pos2=VBG	14	compound	_	O
+14	stuff	stuff	NN	_	9	pobj	_	O
+15	-	-	:	pos2=,	18	punct	_	O
+16	can	can	MD	_	18	aux	_	O
+17	you	you	PRP	_	18	nsubj	_	O
+18	let	let	VB	_	0	root	_	O
+19	us	us	PRP	_	20	nsubj	_	O
+20	know	know	VB	_	18	ccomp	_	O
+21	you	you	PRP	_	23	nsubj	_	O
+22	're	be	VBP	_	23	aux	_	O
+23	working	work	VBG	_	20	ccomp	_	O
+24	on	on	IN	_	23	prep	_	O
+25	it	it	PRP	_	24	pobj	_	O
+26	?	?	.	_	18	punct	_	O
+

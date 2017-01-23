@@ -1,0 +1,16 @@
+1	Google	google	NNP	_	3	compound	_	B-ORG
+2	Earth	earth	NNP	_	3	compound	_	I-ORG
+3	VR	vr	NNP	pos2=NN	4	vocative	_	L-ORG
+4	let	let	VB	pos2=VBP	0	root	_	O
+5	s	s	PRP	pos2=RP	0	root	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	fly	fly	VBP	pos2=VB	4	ccomp	_	O
+8	anywhere	anywhere	RB	_	7	advmod	_	O
+9	without	without	IN	_	7	prep	_	O
+10	leaving	leave	VBG	_	9	pcomp	_	O
+11	the	the	DT	_	12	det	_	O
+12	house	house	NN	_	10	dobj	_	O
+13	https://t.co/L74OHlJfbn	#hlink#	ADD	pos2=NN	15	nmod	_	O
+14	via	via	IN	_	7	prep	_	O
+15	@MailOnline	@mailonline	NN	pos2=ADD	14	pobj	_	O
+

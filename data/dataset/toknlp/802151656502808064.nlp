@@ -1,0 +1,14 @@
+1	No	no	DT	pos2=UH	2	det	_	O
+2	Surprises:Tories	surprises:tories	NNS	pos2=NNPS	3	nsubj	_	O
+3	reject	reject	VBP	pos2=VB	0	root	_	O
+4	Foreign	foreign	NNP	_	5	compound	_	B-ORG
+5	Affairs	affair	NNPS	pos2=NNP	6	compound	_	I-ORG
+6	Committee	committee	NNP	_	7	compound	_	L-ORG
+7	criticism	criticism	NN	_	3	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	#Libya	#libya	NNP	pos2=CD	10	compound	_	U-ORG
+10	intervention	intervention	NN	_	8	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	https://t.co/BcY0JeDDqy	#hlink#	ADD	_	0	root	_	U-ORG
+

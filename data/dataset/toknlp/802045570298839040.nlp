@@ -1,0 +1,15 @@
+1	@elizabethforma	@elizabethforma	UH	pos2=NN	5	discourse	_	O
+2	@HillaryClinton	@hillaryclinton	UH	pos2=IN	5	discourse	_	O
+3	We	we	PRP	_	5	nsubj	_	O
+4	all	all	DT	_	3	appos	_	O
+5	hope	hope	VBP	_	0	root	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	join	join	VBP	pos2=VB	5	ccomp	_	O
+8	her	her	PRP	pos2=PRP$	7	dobj	_	O
+9	soon	soon	RB	_	7	advmod	_	O
+10	,	,	,	_	7	punct	_	O
+11	Out	out	IN	pos2=NNP	7	prep	_	O
+12	of	of	IN	_	11	prep	_	O
+13	Office	office	NNP	pos2=NN	12	pobj	_	O
+14	.	.	.	_	5	punct	_	O
+

@@ -1,0 +1,12 @@
+1	Been	be	VBN	pos2=RBR	2	aux	_	O
+2	looking	look	VBG	_	0	root	_	O
+3	forward	forward	RB	pos2=RP	2	advmod	_	O
+4	to	to	IN	_	2	prep	_	O
+5	this	this	DT	_	4	pobj	_	O
+6	for	for	IN	_	2	prep	_	O
+7	a	a	DT	_	9	det	_	O
+8	long	long	JJ	_	9	nmod	_	O
+9	time	time	NN	_	6	pobj	_	O
+10	#FantasticBeasts	#fantasticbeasts	ADD	pos2=NNS	11	punct	_	O
+11	https://t.co/Fg69txOmYS	#hlink#	ADD	_	2	dep	_	O
+

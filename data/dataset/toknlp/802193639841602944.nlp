@@ -1,0 +1,18 @@
+1	Another	another	DT	_	4	det	_	O
+2	major	major	JJ	pos2=NN	4	nmod	_	O
+3	#Norwegian	#norwegian	NNP	pos2=JJ	4	compound	_	U-NORP
+4	investor	investor	NN	_	5	nsubj	_	O
+5	divests	divest	VBZ	_	0	root	_	O
+6	from	from	IN	_	5	prep	_	O
+7	#DakotaAccessPipeline	#dakotaaccesspipeline	NNP	pos2=NN	6	pobj	_	U-ORG
+8	,	,	,	_	5	punct	_	O
+9	sold	sell	VBD	pos2=VBN	5	dep	_	O
+10	$	$	$	_	12	qmod	_	B-MONEY
+11	23.8	0	CD	_	12	compound	_	I-MONEY
+12	m	m	CD	pos2=JJ	13	nmod	_	L-MONEY
+13	shares	share	NNS	_	9	dobj	_	O
+14	https://t.co/PDyktL3bye	#hlink#	ADD	pos2=VBP	9	npadvmod	_	O
+15	via	via	IN	_	9	prep	_	O
+16	@EcoWatch	@ecowatch	NNP	pos2=NN	15	pobj	_	B-LAW
+17	#StandingRock	#standingrock	ADD	pos2=NN	9	advmod	_	L-LAW
+

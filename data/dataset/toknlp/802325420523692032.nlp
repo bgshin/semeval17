@@ -1,0 +1,13 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@PeterMonPhotog	@petermonphotog	NN	pos2=NNS	9	nsubj	_	O
+2	on	on	IN	pos2=RP	1	prep	_	O
+3	#Periscope	#periscope	NN	pos2=NNP	2	pobj	_	O
+4	:	:	:	_	6	punct	_	O
+5	Black	black	JJ	pos2=NNP	6	nmod	_	O
+6	lives	life	NNS	pos2=VBZ	7	compound	_	O
+7	matter	matter	NN	pos2=RB	8	compound	_	O
+8	protest	protest	NN	_	9	nsubj	_	O
+9	continues	continue	VBZ	_	0	root	_	O
+10	https://t.co/xoSqaNqdSE	#hlink#	ADD	_	9	dobj	_	O
+

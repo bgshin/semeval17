@@ -1,0 +1,17 @@
+1	Fox	fox	NNP	_	2	compound	_	B-ORG
+2	News	news	NNP	_	14	nsubj	_	L-ORG
+3	The	the	DT	_	5	det	_	O
+4	antiquated	antiquated	JJ	pos2=VBN	5	nmod	_	O
+5	Jeep	jeep	NNP	pos2=NN	14	nsubj	_	U-ORG
+6	carrying	carry	VBG	pos2=NN	5	acl	_	O
+7	deceased	deceased	JJ	_	9	nmod	_	O
+8	Cuban	cuban	JJ	_	9	nmod	_	U-NORP
+9	dictator	dictator	NN	_	11	compound	_	O
+10	Fidel	fidel	NNP	_	11	compound	_	B-PERSON
+11	Castro	castro	NNP	_	13	poss	_	I-PERSON
+12	's	's	POS	_	11	case	_	L-PERSON
+13	remains	remains	NNS	pos2=VBZ	6	dobj	_	O
+14	broke	break	VBD	pos2=JJ	0	root	_	O
+15	…	…	NFP	pos2=RP	14	discourse	_	O
+16	https://t.co/1ea7UemTC2	#hlink#	ADD	pos2=NN	14	dobj	_	O
+

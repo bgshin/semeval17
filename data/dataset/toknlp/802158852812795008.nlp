@@ -1,0 +1,18 @@
+1	Help	help	VB	pos2=NN	0	root	_	O
+2	Louisiana	louisiana	NNP	_	1	dobj	_	O
+3	#vote	#vote	IN	pos2=NNP	1	prep	_	O
+4	Democrat	democrat	NNP	_	3	pobj	_	O
+5	&	&	CC	_	1	cc	_	O
+6	keep	keep	VB	_	1	conj	_	O
+7	control	control	NN	_	6	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	Senate.#UniteBlue	senate.#uniteblue	NNP	pos2=NNPS	8	pobj	_	O
+11	#union	#union	ADD	pos2=NN	14	nmod	_	O
+12	#jobs	#jobs	NNS	pos2=FW	11	dobj	_	O
+13	at	at	IN	_	6	prep	_	O
+14	stake	stake	NN	_	13	pobj	_	O
+15	.	.	.	_	1	punct	_	O
+
+1	https://t.co/HQfnjFIXPv	#hlink#	ADD	_	0	root	_	U-ORG
+

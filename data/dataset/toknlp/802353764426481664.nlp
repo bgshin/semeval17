@@ -1,0 +1,23 @@
+1	UN	un	NNP	pos2=RB	5	nsubj	_	U-ORG
+2	close	close	JJ	pos2=RB	1	nmod	_	O
+3	to	to	IN	pos2=TO	2	prep	_	O
+4	sanctions	sanction	NNS	_	3	pobj	_	O
+5	deal	deal	VBP	pos2=NN	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	slash	slash	VB	_	5	xcomp	_	O
+8	North	north	NNP	_	9	compound	_	B-GPE
+9	Korea	korea	NNP	_	11	compound	_	L-GPE
+10	export	export	NN	_	11	compound	_	O
+11	earnings	earnings	NNS	_	7	dobj	_	O
+12	:	:	:	_	19	punct	_	O
+13	diplomatsNorth	diplomatsnorth	JJ	pos2=NN	15	nmod	_	O
+14	Korean	korean	JJ	_	15	nmod	_	U-NORP
+15	leader	leader	NN	_	18	compound	_	O
+16	Kim	kim	NNP	_	18	compound	_	B-PERSON
+17	Jong	jong	NNP	_	18	compound	_	L-PERSON
+18	Un	un	NNP	_	19	nsubj	_	O
+19	takes	take	VBZ	_	0	root	_	O
+20	...	..	.	pos2=,	19	punct	_	O
+
+1	https://t.co/A2ypiMxSFh	#hlink#	ADD	_	0	root	_	U-ORG
+

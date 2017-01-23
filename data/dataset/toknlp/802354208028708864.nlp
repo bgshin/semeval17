@@ -1,0 +1,25 @@
+1	@WatchOutforLucy	@watchoutforlucy	NNP	pos2=IN	2	compound	_	O
+2	Medicaid	medicaid	NNP	_	3	nsubj	_	U-ORG
+3	is	be	VBZ	_	0	root	_	O
+4	Medicare	medicare	NNP	_	3	attr	_	O
+5	4	0	CD	_	10	nmod	_	U-CARDINAL
+6	low	low	JJ	_	7	nmod	_	O
+7	income	income	NN	_	8	compound	_	O
+8	people	people	NNS	_	10	poss	_	O
+9	n	n	POS	pos2=VBP	8	case	_	O
+10	families	family	NNS	_	4	conj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	Normally	normally	RB	_	4	advmod	_	O
+2	one	#crd#	PRP	_	4	nsubj	_	O
+3	must	must	MD	_	4	aux	_	O
+4	meet	meet	VB	_	0	root	_	O
+5	requirements	requirement	NNS	_	4	dobj	_	O
+6	set	set	VBN	_	5	acl	_	O
+7	by	by	IN	_	6	agent	_	O
+8	states	state	NNS	_	7	pobj	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	Medicare	medicare	NNP	pos2=NN	2	compound	_	O
+2	4seniors	0seniors	NNS	pos2=.	0	root	_	O
+

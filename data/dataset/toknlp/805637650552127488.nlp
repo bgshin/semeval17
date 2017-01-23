@@ -1,0 +1,17 @@
+1	Cristiano	cristiano	NNP	_	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	3	nsubj	_	L-PERSON
+3	keeps	keep	VBZ	_	0	root	_	O
+4	his	his	PRP$	pos2=RB	5	poss	_	O
+5	cool	cool	JJ	pos2=NN	3	dobj	_	O
+6	as	as	IN	_	9	mark	_	O
+7	Barcelona	barcelona	NNP	_	8	compound	_	U-GPE
+8	fans	fan	NNS	_	9	nsubj	_	O
+9	turn	turn	VBP	_	3	advcl	_	O
+10	nasty	nasty	JJ	pos2=RB	9	acomp	_	O
+11	with	with	IN	_	10	prep	_	O
+12	homophobic	homophobic	JJ	_	13	nmod	_	O
+13	slurs	slur	NNS	pos2=NN	11	pobj	_	O
+14	-	-	:	pos2=,	16	punct	_	O
+15	https://t.co/RqyJ1TeXMg	#hlink#	ADD	pos2=NN	16	nmod	_	O
+16	https://t.co/Gyuky3D68K	#hlink#	ADD	_	3	dep	_	U-ORG
+

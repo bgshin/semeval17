@@ -1,0 +1,12 @@
+1	3	0	CD	pos2=LS	4	nmod	_	U-CARDINAL
+2	D	d	NN	pos2=NNS	3	npadvmod	_	O
+3	Printed	print	VBN	_	4	nmod	_	O
+4	Robots	robot	NNS	pos2=NNP	5	nsubj	_	O
+5	Walk	walk	VBP	pos2=VB	0	root	_	O
+6	Their	their	PRP$	_	7	poss	_	O
+7	Way	way	NN	pos2=NNP	5	dobj	_	O
+8	to	to	IN	_	7	prep	_	O
+9	Success	success	NN	pos2=NNP	8	pobj	_	O
+10	:	:	:	_	5	punct	_	O
+11	https://t.co/vqbUnP20SQ	#hlink#	ADD	_	5	dep	_	O
+

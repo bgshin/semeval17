@@ -1,0 +1,19 @@
+1	@marisagerards	@marisagerards	UH	pos2=NNS	18	discourse	_	O
+2	@ricardopeach	@ricardopeach	UH	pos2=VB	18	discourse	_	O
+3	#Vêrlander	#vêrlander	NNP	pos2=NN	18	dep	_	U-ORG
+4	"	"	``	pos2=''	18	punct	_	O
+5	its	its	PRP$	pos2=VBZ	18	nmod	_	O
+6	not	not	RB	_	7	neg	_	O
+7	about	about	IN	_	18	dep	_	O
+8	culture	culture	NN	pos2=VB	7	pobj	_	O
+9	its	its	PRP$	pos2=PRP	12	poss	_	O
+10	about	about	IN	pos2=JJ	18	nmod	_	O
+11	putting	put	VBG	_	10	pcomp	_	O
+12	people	people	NNS	_	11	dobj	_	O
+13	in	in	IN	_	11	prep	_	O
+14	their	their	PRP$	_	15	poss	_	O
+15	place	place	NN	_	13	pobj	_	O
+16	"	"	''	pos2=``	18	punct	_	O
+17	#HeritageDay	#heritageday	ADD	pos2=GW	18	nmod	_	O
+18	https://t.co/dQItnry1eW	#hlink#	ADD	_	0	root	_	O
+

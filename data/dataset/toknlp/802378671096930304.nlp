@@ -1,0 +1,14 @@
+1	Zamnnn	zamnnn	NNP	pos2=UH	4	vocative	_	U-PERSON
+2	,	,	,	_	4	punct	_	O
+3	too	too	RB	_	4	advmod	_	O
+4	cute	cute	JJ	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	resist	resist	VB	_	4	xcomp	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	Comey	comey	NNP	pos2=JJ	4	compound	_	U-PERSON
+2	sgt	sgt	NN	pos2=XX	4	compound	_	O
+3	hayla	hayla	XX	pos2=NN	4	compound	_	O
+4	ni	ni	NN	pos2=XX	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+

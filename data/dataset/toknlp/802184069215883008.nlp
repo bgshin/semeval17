@@ -1,0 +1,18 @@
+1	Lawyer	lawyer	NN	_	2	compound	_	O
+2	files	file	NNS	pos2=VBZ	3	nsubj	_	O
+3	appeal	appeal	VBP	_	0	root	_	O
+4	to	to	TO	pos2=IN	5	aux	_	O
+5	transfer	transfer	VB	_	3	xcomp	_	O
+6	hunger	hunger	NN	_	8	npadvmod	_	O
+7	-	-	HYPH	pos2=:	8	punct	_	O
+8	striking	strike	VBG	pos2=JJ	10	nmod	_	O
+9	Palestinian	palestinian	JJ	_	10	nmod	_	U-NORP
+10	prisoners	prisoner	NNS	_	5	dobj	_	O
+11	to	to	IN	pos2=TO	5	prep	_	O
+12	#Ramallah	#ramallah	NNP	pos2=VB	13	compound	_	U-GPE
+13	hospital	hospital	NN	_	15	compound	_	O
+14	#Palestine	#palestine	NNP	pos2=POS	15	compound	_	B-PERSON
+15	#Israel	#israel	NNP	pos2=GW	11	pobj	_	L-PERSON
+16	…	…	NFP	pos2=-LRB-	17	punct	_	O
+17	https://t.co/8v1W3tAmsm	#hlink#	ADD	_	15	appos	_	O
+

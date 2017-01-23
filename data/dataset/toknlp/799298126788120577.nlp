@@ -1,0 +1,22 @@
+1	Retweeted	retweeted	VBN	pos2=VBD	2	nmod	_	O
+2	UberFacts	uberfacts	NNP	pos2=NNS	0	root	_	U-ORG
+3	(	(	-LRB-	_	2	punct	_	O
+4	@UberFacts	@uberfacts	NNS	pos2=GW	2	appos	_	O
+5	)	)	-RRB-	_	2	punct	_	O
+6	:An	:an	JJ	pos2=MD	7	nmod	_	O
+7	excuse	excuse	NN	_	2	appos	_	O
+8	...	..	.	pos2=,	2	punct	_	O
+
+1	Exactly	exactly	RB	_	2	advmod	_	O
+2	what	what	WP	_	6	dobj	_	O
+3	I	I	PRP	_	6	nsubj	_	O
+4	did	do	VBD	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	need	need	VB	_	0	root	_	O
+7	.	.	.	_	6	punct	_	O
+
+1	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=UH	0	root	_	O
+2	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/OIZAlL5Csj	#hlink#	ADD	_	0	root	_	U-ORG
+

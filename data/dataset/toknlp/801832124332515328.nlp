@@ -1,0 +1,25 @@
+1	Nigel	nigel	NNP	_	2	compound	_	B-PERSON
+2	Farage	farage	NNP	_	3	nsubj	_	L-PERSON
+3	plans	plan	VBZ	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	move	move	VB	_	3	xcomp	_	O
+6	to	to	IN	_	5	prep	_	O
+7	USA	usa	NNP	_	6	pobj	_	U-GPE
+8	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	thought	think	VBD	_	0	root	_	O
+3	Trump	trump	NNP	pos2=NN	4	nsubj	_	U-PERSON
+4	was	be	VBD	_	2	ccomp	_	O
+5	against	against	IN	_	4	prep	_	O
+6	allowing	allow	VBG	_	5	pcomp	_	O
+7	"	"	``	_	9	punct	_	O
+8	bad	bad	JJ	_	9	nmod	_	O
+9	hombres	hombre	NNS	pos2=FW	6	dobj	_	O
+10	"	"	''	_	9	punct	_	O
+11	into	into	IN	_	6	prep	_	O
+12	America	america	NNP	_	11	pobj	_	U-GPE
+13	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/XRMAWINqAN	#hlink#	ADD	_	0	root	_	U-ORG
+

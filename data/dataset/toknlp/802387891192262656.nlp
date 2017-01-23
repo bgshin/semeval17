@@ -1,0 +1,27 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@RepCheri	@repcheri	NNS	pos2=NN	0	predet	_	O
+2	recommended	recommend	VBN	_	1	acl	_	O
+3	by	by	IN	_	2	agent	_	O
+4	Nancy	nancy	NNP	_	5	compound	_	B-PERSON
+5	Pelosi	pelosi	NNP	_	3	pobj	_	L-PERSON
+6	to	to	TO	pos2=IN	7	aux	_	O
+7	helm	helm	VB	pos2=NNP	2	xcomp	_	O
+8	Democratic	democratic	JJ	pos2=NNP	9	nmod	_	O
+9	Policy	policy	NNP	pos2=NN	12	nmod	_	O
+10	&	&	CC	_	9	cc	_	O
+11	Communications	communication	NNPS	pos2=NNP	9	conj	_	O
+12	Committee	committee	NNP	_	7	dobj	_	O
+13	as	as	IN	_	7	prep	_	O
+14	part	part	NN	_	13	pobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	triumvirate	triumvirate	NN	_	15	pobj	_	O
+17	.	.	.	_	16	punct	_	O
+
+1	https	http	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	//	//	NFP	pos2=-LRB-	6	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	GZPb9V4pbx	gzpb0v0pbx	NN	pos2=ADD	0	root	_	O
+

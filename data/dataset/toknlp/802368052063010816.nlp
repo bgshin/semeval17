@@ -1,0 +1,26 @@
+1	NEW	new	NN	pos2=JJ	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	Trump	trump	NNP	pos2=NN	5	poss	_	U-ORG
+4	's	's	POS	_	3	case	_	O
+5	Pick	pick	NN	pos2=NNP	10	nsubj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	Secretary	secretary	NNP	_	6	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	Education	education	NNP	pos2=NN	8	pobj	_	U-ORG
+10	Is	be	VBZ	pos2=NNP	0	root	_	O
+11	Sister	sister	NN	pos2=NNP	10	attr	_	O
+12	of	of	IN	_	11	prep	_	O
+13	Blackwater	blackwater	NNP	pos2=NN	14	compound	_	B-ORG
+14	FounderOLD	founderold	NNP	pos2=NN	12	pobj	_	I-ORG
+15	:	:	:	_	10	punct	_	I-ORG
+16	Half	half	PDT	pos2=NNP	19	predet	_	I-ORG
+17	the	the	DT	_	19	det	_	I-ORG
+18	Muslim	muslim	NNP	pos2=JJ	19	compound	_	I-ORG
+19	Brotherhood	brotherhood	NNP	_	20	nsubj	_	L-ORG
+20	works	work	VBZ	_	10	conj	_	O
+21	for	for	IN	_	20	prep	_	O
+22	the	the	DT	_	24	det	_	O
+23	Obama	obama	NNP	_	24	compound	_	O
+24	Admin	admin	NNP	pos2=NN	21	pobj	_	O
+25	!...	!..	.	pos2=ADD	20	punct	_	O
+

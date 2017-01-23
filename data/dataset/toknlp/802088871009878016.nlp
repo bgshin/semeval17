@@ -1,0 +1,11 @@
+1	Good	good	JJ	_	2	nmod	_	O
+2	morning	morning	NN	_	0	root	_	U-TIME
+3	#Twitter	#twitter	NNP	pos2=NN	2	vocative	_	O
+4	!	!	.	_	2	punct	_	O
+
+1	#Isis	#isis	NNP	pos2=NN	5	nmod	_	B-PERSON
+2	#Daeshbag	#daeshbag	NNP	pos2=GW	5	nmod	_	L-PERSON
+3	#MosulOps	#mosulops	GW	pos2=VBZ	5	nmod	_	O
+4	#MosulOffensive	#mosuloffensive	GW	pos2=ADD	5	nmod	_	O
+5	https://t.co/eRSwEEHDEZ	#hlink#	ADD	pos2=NN	0	root	_	O
+

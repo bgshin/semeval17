@@ -1,0 +1,22 @@
+1	#Canada	#canada	NNP	pos2=NN	4	dep	_	U-PERSON
+2	:	:	:	_	4	punct	_	O
+3	@MinCanadaFA	@mincanadafa	NN	pos2=NNP	4	nsubj	_	U-PERSON
+4	says	say	VBZ	_	0	root	_	O
+5	#Hezbollah	#hezbollah	NNP	pos2=NN	11	nsubj	_	U-PERSON
+6	(	(	-LRB-	_	5	punct	_	O
+7	and	and	CC	_	5	cc	_	O
+8	#Iran	#iran	NNP	pos2=JJ	5	conj	_	U-WORK_OF_ART
+9	)	)	-RRB-	_	4	punct	_	O
+10	“	"	``	pos2=''	11	punct	_	O
+11	profess	profess	VB	pos2=VBP	4	ccomp	_	O
+12	a	a	DT	_	16	det	_	O
+13	bloody	bloody	JJ	_	16	nmod	_	O
+14	,	,	,	_	16	punct	_	O
+15	distorted	distort	VBN	pos2=JJ	16	nmod	_	O
+16	version	version	NN	_	11	dobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	#Islam	#islam	NNP	pos2=GW	17	pobj	_	U-NORP
+19	”	"	''	pos2=``	11	punct	_	O
+20	https://t.co/hxPbWKcDJK	#hlink#	ADD	_	21	nsubj	_	O
+21	@LindaFrum	@lindafrum	ADD	pos2=-RRB-	11	cc	_	O
+

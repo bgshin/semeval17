@@ -1,0 +1,27 @@
+1	For	for	IN	_	6	prep	_	O
+2	#CriminalMinds	#criminalminds	NNS	pos2=NNPS	3	compound	_	B-DATE
+3	#Hotchner	#hotchner	NNP	pos2=ADD	1	pobj	_	L-DATE
+4	and	and	CC	_	3	cc	_	O
+5	#Morgan	#morgan	NNP	pos2=VBD	3	conj	_	U-PERSON
+6	back	back	RB	pos2=NN	7	prep	_	O
+7	.	.	.	_	0	root	_	O
+
+1	For	for	IN	_	5	prep	_	O
+2	#TheWalkingDead	#thewalkingdead	NNP	pos2=RB	1	pobj	_	O
+3	Faster	fast	RBR	pos2=NNP	4	advmod	_	O
+4	paced	pace	VBN	pos2=JJ	5	nmod	_	O
+5	show	show	NN	pos2=VBP	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	For	for	IN	_	7	mark	_	O
+2	'	'	``	_	5	punct	_	O
+3	Our	our	PRP$	pos2=NNP	5	poss	_	O
+4	'	'	''	pos2=POS	5	punct	_	O
+5	group	group	NN	_	7	nsubj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	rise	rise	VB	_	0	root	_	O
+8	up	up	RP	pos2=IN	7	prt	_	O
+9	fr	fr	GW	pos2=NN	11	nmod	_	O
+10	…	…	NFP	pos2=GW	11	punct	_	O
+11	https://t.co/l9ZzaKLv5h	#hlink#	ADD	pos2=NN	7	dobj	_	O
+

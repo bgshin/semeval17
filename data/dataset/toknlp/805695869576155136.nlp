@@ -1,0 +1,28 @@
+1	@nevergiveup065	@nevergiveup0	NN	pos2=UH	0	root	_	O
+2	Not	not	RB	_	3	neg	_	O
+3	really	really	RB	_	1	advmod	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	electoral	electoral	JJ	_	3	nmod	_	O
+3	college	college	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	an	an	DT	_	6	det	_	O
+6	anachronism	anachronism	NN	_	4	attr	_	O
+7	,	,	,	_	6	punct	_	O
+8	created	create	VBN	pos2=VBD	6	acl	_	O
+9	for	for	IN	_	8	prep	_	O
+10	a	a	DT	_	11	det	_	O
+11	reality	reality	NN	_	9	pobj	_	O
+12	that	that	WDT	_	15	nsubj	_	O
+13	does	do	VBZ	_	15	aux	_	O
+14	n't	not	RB	_	15	neg	_	O
+15	exist	exist	VB	_	11	relcl	_	O
+16	anymore	anymore	RB	_	15	advmod	_	O
+17	.	.	.	_	4	punct	_	O
+
+1	Should	should	MD	_	3	aux	_	O
+2	be	be	VB	_	3	auxpass	_	O
+3	changed	change	VBN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+

@@ -1,0 +1,33 @@
+1	only	only	RB	_	3	advmod	_	O
+2	the	the	DT	_	3	det	_	O
+3	left	left	NN	pos2=JJ	5	nsubj	_	O
+4	would	would	MD	_	5	aux	_	O
+5	bring	bring	VB	_	0	root	_	O
+6	up	up	RP	_	5	prt	_	O
+7	the	the	DT	_	9	det	_	O
+8	"	"	``	_	9	punct	_	O
+9	value	value	NN	_	5	dobj	_	O
+10	"	"	''	_	9	punct	_	O
+11	of	of	IN	_	9	prep	_	O
+12	a	a	DT	_	13	det	_	O
+13	person	person	NN	_	11	pobj	_	O
+14	in	in	IN	_	13	prep	_	O
+15	the	the	DT	_	16	det	_	O
+16	admin	admin	NN	_	14	pobj	_	O
+17	.	.	.	_	5	punct	_	O
+
+1	How	how	WRB	_	2	advmod	_	O
+2	about	about	IN	_	0	root	_	O
+3	how	how	WRB	_	4	advmod	_	O
+4	much	much	JJ	pos2=RB	7	advmod	_	O
+5	Reid	reid	NNP	_	10	nsubjpass	_	U-PERSON
+6	,	,	,	_	5	punct	_	O
+7	Pelosi	pelosi	NNP	_	5	conj	_	U-PERSON
+8	,	,	,	_	7	punct	_	O
+9	etc	etc	FW	_	7	conj	_	O
+10	made	make	VBN	pos2=VBD	2	pcomp	_	O
+11	while	while	IN	_	12	mark	_	O
+12	in	in	IN	_	10	advcl	_	O
+13	…	…	NFP	pos2=NNP	12	pobj	_	O
+14	https://t.co/Z4g0xKXl9u	#hlink#	ADD	pos2=NN	12	pobj	_	U-GPE
+

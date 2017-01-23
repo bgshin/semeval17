@@ -1,0 +1,22 @@
+1	NYC	nyc	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	celebrates	celebrate	VBZ	_	0	root	_	O
+3	free	free	JJ	_	4	nmod	_	O
+4	cabs	cab	NNS	_	2	dobj	_	O
+5	!	!	.	_	2	punct	_	O
+
+1	Go	go	VB	_	0	root	_	O
+2	free	free	JJ	_	1	advcl	_	O
+3	on	on	IN	pos2=RP	1	prep	_	O
+4	#Uber	#uber	NN	pos2=NNP	3	pobj	_	O
+5	for	for	IN	pos2=CC	1	prep	_	O
+6	mobile	mobile	JJ	pos2=NN	5	pobj	_	O
+7	with	with	IN	_	1	prep	_	O
+8	credit	credit	NN	_	9	compound	_	O
+9	code	code	NN	_	10	compound	_	O
+10	MIGUELT10	miguelt0	NN	_	7	pobj	_	O
+11	.	.	.	_	1	punct	_	O
+
+1	Hot	hot	JJ	_	2	nmod	_	O
+2	promo	promo	NN	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+

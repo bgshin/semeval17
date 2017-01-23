@@ -1,0 +1,25 @@
+1	@mikepodwal	@mikepodwal	UH	pos2=VB	2	discourse	_	O
+2	All	all	RB	pos2=NNP	3	advmod	_	O
+3	over	over	RB	_	7	advmod	_	O
+4	,	,	,	_	7	punct	_	O
+5	often	often	RB	_	6	advmod	_	O
+6	in	in	IN	_	9	conj	_	O
+7	silly	silly	JJ	_	8	nmod	_	O
+8	ways	way	NNS	_	6	pobj	_	O
+9	.	.	.	_	0	root	_	O
+
+1	For	for	IN	_	7	prep	_	O
+2	easier	easy	JJR	pos2=JJ	3	nmod	_	O
+3	reading	reading	NN	pos2=VBG	1	pobj	_	O
+4	,	,	,	_	7	punct	_	O
+5	I	I	PRP	_	7	nsubj	_	O
+6	’ve	have	VBP	_	7	aux	_	O
+7	collected	collect	VBN	_	0	root	_	O
+8	my	my	PRP$	_	9	poss	_	O
+9	tweets	tweet	NNS	_	7	dobj	_	O
+10	about	about	IN	pos2=RB	9	prep	_	O
+11	#GoogleEarthVR	#googleearthvr	NN	pos2=NNP	10	pobj	_	O
+12	here	here	RB	_	11	advmod	_	O
+13	:	:	:	_	7	punct	_	O
+14	https://t.co/REaKF7tvxq	#hlink#	ADD	pos2=NN	7	dep	_	O
+

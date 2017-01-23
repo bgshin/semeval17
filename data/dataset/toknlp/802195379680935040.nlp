@@ -1,0 +1,7 @@
+1	#UBER	#uber	NNP	pos2=NN	2	nsubj	_	B-WORK_OF_ART
+2	Offering	offer	VBG	pos2=GW	0	root	_	I-WORK_OF_ART
+3	#SelfDriving	#selfdriving	GW	pos2=VBG	4	nmod	_	I-WORK_OF_ART
+4	Cars	car	NNS	pos2=GW	2	dobj	_	L-WORK_OF_ART
+5	https://t.co/mjBCW8wycp	#hlink#	ADD	_	6	nmod	_	O
+6	https://t.co/90w72v5dP5	#hlink#	ADD	_	2	dep	_	U-ORG
+

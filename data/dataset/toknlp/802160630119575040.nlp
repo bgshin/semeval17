@@ -1,0 +1,19 @@
+1	#israeli	#israeli	UH	pos2=NNS	4	discourse	_	O
+2	#bagel	#bagel	UH	pos2=NNP	4	discourse	_	O
+3	s	s	PRP	pos2=NNS	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	a	a	DT	_	10	det	_	O
+7	whole	whole	JJ	pos2=NN	10	nmod	_	O
+8	'	'	POS	pos2=''	7	case	_	O
+9	nother	nother	JJ	pos2=NN	10	nmod	_	O
+10	league	league	NN	pos2=NNS	5	pobj	_	O
+11	!	!	.	_	4	punct	_	O
+
+1	#jerusalem	#jerusalem	UH	pos2=PRP	2	discourse	_	O
+2	#sciencetheearth	#sciencetheearth	NN	pos2=ADD	0	root	_	O
+3	@	@	IN	pos2=SYM	2	prep	_	O
+4	Jaffa	jaffa	NNP	_	5	compound	_	O
+5	Gate	gate	NNP	_	3	pobj	_	O
+6	https://t.co/xBmoNQvCUE	#hlink#	ADD	_	2	appos	_	O
+

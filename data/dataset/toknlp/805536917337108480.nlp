@@ -1,0 +1,23 @@
+1	@gzac954	@gzac0	NN	pos2=LS	4	compound	_	O
+2	@JeffreyGuterman	@jeffreyguterman	ADD	pos2=NN	4	punct	_	O
+3	@Deb10122	@deb0	NN	pos2=NNS	4	compound	_	O
+4	@rickkirk71	@rickkirk0	NN	pos2=LS	8	nsubj	_	O
+5	@anglbebe	@anglbebe	UH	pos2=PRP	8	discourse	_	O
+6	do	do	VB	pos2=VBP	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	be	be	VB	_	0	root	_	O
+9	naive	naive	JJ	_	8	acomp	_	O
+10	.	.	.	_	8	punct	_	O
+
+1	Without	without	IN	_	6	prep	_	O
+2	photo	photo	NN	_	3	compound	_	O
+3	ID	id	NN	pos2=FW	1	pobj	_	O
+4	anybody	anybody	NN	_	6	nsubj	_	O
+5	can	can	MD	_	6	aux	_	O
+6	use	use	VB	_	0	root	_	O
+7	voter	voter	NN	_	8	compound	_	O
+8	registration	registration	NN	_	6	dobj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	vote	vote	VB	_	6	xcomp	_	O
+11	.	.	.	_	6	punct	_	O
+

@@ -1,0 +1,13 @@
+1	A	a	DT	_	2	det	_	O
+2	picture	picture	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	worth	worth	JJ	_	3	acomp	_	O
+5	a	a	DT	_	6	qmod	_	O
+6	thousand	#crd#	CD	_	7	nmod	_	O
+7	words	word	NNS	_	4	npadvmod	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	#notmypresident	#notmypresident	UH	pos2=GW	3	nmod	_	O
+2	#ThankYouObama	#thankyouobama	GW	pos2=ADD	3	nmod	_	O
+3	https://t.co/GzSMFBTCa3	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

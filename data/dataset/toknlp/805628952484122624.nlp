@@ -1,0 +1,7 @@
+1	Like	like	IN	pos2=UH	0	root	_	O
+2	Muhammad	muhammad	NNP	_	3	compound	_	B-PERSON
+3	Ali	ali	NNP	_	1	pobj	_	L-PERSON
+4	my	my	PRP$	pos2=GW	5	poss	_	O
+5	nigga	nigga	NN	_	3	appos	_	O
+6	https://t.co/nPWSwDHyiH	#hlink#	ADD	_	3	appos	_	O
+

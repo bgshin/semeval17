@@ -1,0 +1,14 @@
+1	#FidelCare	#fidelcare	NN	pos2=ADD	4	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	#Obamacare	#obamacare	NNP	pos2=EX	1	conj	_	U-PERSON
+4	are	be	VBP	_	0	root	_	O
+5	very	very	RB	_	6	advmod	_	O
+6	similar.#FidelCastro	similar.#fidelcastro	JJ	pos2=HYPH	4	acomp	_	O
+7	#WorstPresidentEver	#worstpresidentever	NN	pos2=RB	13	dep	_	O
+8	-	-	HYPH	pos2=:	13	punct	_	O
+9	Both	both	DT	pos2=NNP	10	dep	_	O
+10	praised	praise	VBN	pos2=VBD	4	advcl	_	O
+11	by	by	IN	_	10	agent	_	O
+12	#LiberalStupids	#liberalstupids	NNS	pos2=ADD	11	pobj	_	O
+13	https://t.co/BEnYvou7hL	#hlink#	ADD	pos2=FW	4	dep	_	U-ORG
+

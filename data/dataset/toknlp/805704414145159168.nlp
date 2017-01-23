@@ -1,0 +1,20 @@
+1	@ezlusztig	@ezlusztig	UH	pos2=MD	2	discourse	_	O
+2	Check	check	VB	_	0	root	_	O
+3	out	out	RP	pos2=IN	2	prt	_	O
+4	Kobach	kobach	NNP	_	7	compound	_	U-ORG
+5	voter	voter	NN	_	6	compound	_	O
+6	suppression	suppression	NN	_	7	compound	_	O
+7	activities	activity	NNS	_	2	dobj	_	O
+8	"	"	``	pos2=''	9	punct	_	O
+9	CROSSCHECKING	crosschecking	NN	pos2=VBG	7	appos	_	O
+10	"	"	''	_	9	punct	_	O
+11	that	that	WDT	_	12	nsubj	_	O
+12	purged	purge	VBD	_	9	relcl	_	O
+13	1.1	0	CD	_	14	nmod	_	U-CARDINAL
+14	M	m	NNP	pos2=VBN	15	compound	_	U-ORG
+15	votes	vote	NNS	_	12	dobj	_	O
+16	in	in	IN	_	12	prep	_	O
+17	swing	swing	NN	pos2=JJ	18	compound	_	O
+18	states	state	NNS	_	16	pobj	_	O
+19	.	.	.	_	2	punct	_	O
+

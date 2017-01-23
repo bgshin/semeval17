@@ -1,0 +1,26 @@
+1	@vinosgirl	@vinosgirl	UH	pos2=``	6	discourse	_	O
+2	He	he	PRP	_	6	nsubj	_	O
+3	should	should	MD	_	6	aux	_	O
+4	have	have	VB	_	6	aux	_	O
+5	just	just	RB	_	6	advmod	_	O
+6	expanded	expand	VBN	_	0	root	_	O
+7	Medicaid	medicaid	NNP	pos2=NN	6	dobj	_	U-ORG
+8	.	.	.	_	6	punct	_	O
+
+1	80	0	CD	_	2	nmod	_	B-PERCENT
+2	%	%	NN	_	8	nsubj	_	L-PERCENT
+3	of	of	IN	_	2	prep	_	O
+4	ppl	ppl	NNS	pos2=NN	3	pobj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	ACA	aca	NN	pos2=NNP	5	pobj	_	O
+7	are	be	VBP	_	8	aux	_	O
+8	getting	get	VBG	_	0	root	_	O
+9	for	for	IN	_	8	prep	_	O
+10	it	it	PRP	_	9	pobj	_	O
+11	free	free	JJ	_	12	nmod	_	O
+12	courtesy	courtesy	NN	_	8	npadvmod	_	O
+13	of	of	IN	_	12	prep	_	O
+14	everyone	everyone	NN	_	13	pobj	_	O
+15	else	else	RB	_	14	advmod	_	O
+16	.	.	.	_	8	punct	_	O
+

@@ -1,0 +1,29 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	watched	watch	VBD	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	first	#ord#	JJ	_	6	nmod	_	U-ORDINAL
+6	episode	episode	NN	_	3	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	#ThisIsUs	#thisisus	NN	pos2=NNP	7	pobj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	omg	omg	NN	pos2=NNS	8	conj	_	O
+11	😱	😱	NNP	pos2=NN	13	advmod	_	U-PERSON
+12	I	I	PRP	_	13	nsubj	_	O
+13	had	have	VBD	_	3	conj	_	O
+14	no	no	DT	_	15	det	_	O
+15	idea	idea	NN	_	13	dobj	_	O
+16	this	this	DT	_	18	nsubj	_	O
+17	was	be	VBD	_	18	aux	_	O
+18	coming	come	VBG	_	15	relcl	_	O
+19	.	.	.	_	13	punct	_	O
+
+1	That	that	DT	_	2	det	_	O
+2	moment	moment	NN	_	3	nsubj	_	O
+3	was	be	VBD	_	0	root	_	O
+4	so	so	RB	_	5	advmod	_	O
+5	beautiful	beautiful	JJ	_	3	acomp	_	O
+6	and	and	CC	_	5	cc	_	O
+7	amazing	amazing	JJ	_	5	conj	_	O
+8	😢💙💙💙	😢💙💙💙	NN	pos2=.	3	npadvmod	_	O
+

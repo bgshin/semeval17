@@ -1,0 +1,23 @@
+1	@ricky_martin	@ricky_martin	UH	pos2=``	11	discourse	_	O
+2	why	why	WRB	_	11	advmod	_	O
+3	"	"	``	_	5	punct	_	O
+4	almost	almost	RB	_	5	advmod	_	O
+5	Latina	latina	NNP	pos2=JJ	11	nsubj	_	U-NORP
+6	"	"	''	pos2=``	5	punct	_	O
+7	Hillary	hillary	NNP	_	11	nsubj	_	U-PERSON
+8	did	do	VBD	_	11	aux	_	O
+9	not	not	RB	_	11	neg	_	O
+10	already	already	RB	_	11	advmod	_	O
+11	work	work	VB	_	16	advcl	_	O
+12	this	this	DT	_	11	dobj	_	O
+13	for	for	IN	_	11	dative	_	O
+14	you	you	PRP	_	13	pobj	_	O
+15	#epicfail	#epicfail	MD	pos2=VBP	16	aux	_	O
+16	Hope	hope	VB	pos2=VBP	0	root	_	O
+17	they	they	PRP	_	18	nsubj	_	O
+18	release	release	VB	pos2=VBP	16	ccomp	_	O
+19	him	him	PRP	_	18	dobj	_	O
+20	!	!	.	_	16	punct	_	O
+
+1	#FreeOscarLopezRivera	#freeoscarlopezrivera	NN	pos2=ADD	0	root	_	O
+

@@ -1,0 +1,23 @@
+1	The	the	DT	_	6	det	_	O
+2	greatest	great	JJS	_	6	nmod	_	O
+3	and	and	CC	_	2	cc	_	O
+4	deadliest	deadly	JJS	_	2	conj	_	O
+5	magic	magic	NN	pos2=JJ	6	compound	_	O
+6	trick	trick	NN	_	11	ccomp	_	O
+7	I	I	PRP	_	10	nsubj	_	O
+8	've	have	VBP	_	10	aux	_	O
+9	ever	ever	RB	_	10	advmod	_	O
+10	seen	see	VBN	_	6	relcl	_	O
+11	.	.	.	_	0	root	_	O
+
+1	You	you	PRP	_	4	nsubj	_	O
+2	wo	wo	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	regret	regret	VB	_	0	root	_	O
+5	watching	watch	VBG	_	4	xcomp	_	O
+6	David	david	NNP	_	7	compound	_	B-PERSON
+7	Blaine	blaine	NNP	_	5	dobj	_	L-PERSON
+8	.	.	.	_	4	punct	_	O
+
+1	https://t.co/3thqdm7ICX	#hlink#	ADD	_	0	root	_	U-ORG
+

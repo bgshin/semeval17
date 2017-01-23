@@ -1,0 +1,12 @@
+1	https://t.co/YxwpOcmX47	#hlink#	ADD	pos2=NN	3	nsubj	_	O
+2	#NewsAbuse	#newsabuse	ADD	pos2=-RRB-	3	punct	_	O
+3	Check	check	VB	_	0	root	_	O
+4	out	out	RP	_	3	prt	_	O
+5	the	the	DT	_	6	det	_	O
+6	distortions	distortion	NNS	_	3	dobj	_	O
+7	,	,	,	_	6	punct	_	O
+8	especially	especially	RB	_	9	advmod	_	O
+9	Marine	marine	JJ	pos2=NNP	11	nmod	_	O
+10	le	le	NN	pos2=FW	11	compound	_	O
+11	pen	pen	NN	pos2=FW	6	appos	_	O
+

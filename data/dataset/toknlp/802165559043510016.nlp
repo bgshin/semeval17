@@ -1,0 +1,9 @@
+1	Celine	celine	NNP	_	2	compound	_	B-PERSON
+2	Dion	dion	NNP	_	4	nsubj	_	L-PERSON
+3	must	must	MD	_	4	aux	_	O
+4	sing	sing	VB	_	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	theme	theme	NN	_	7	compound	_	O
+7	song	song	NN	_	4	dobj	_	O
+8	#Beautyandthebeast	#beautyandthebeast	NNP	pos2=NN	7	appos	_	O
+

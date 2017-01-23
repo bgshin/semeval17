@@ -1,0 +1,21 @@
+1	Hopefully	hopefully	RB	_	3	advmod	_	O
+2	God	god	NNP	_	3	nsubj	_	O
+3	bless	bless	VB	pos2=VBP	0	root	_	O
+4	Late	late	NNP	pos2=JJ	6	compound	_	O
+5	Fidel	fidel	NNP	_	6	compound	_	B-PERSON
+6	Castro	castro	NNP	_	9	compound	_	L-PERSON
+7	Legendary	legendary	NNP	pos2=JJ	9	compound	_	O
+8	Cuba	cuba	NNP	_	9	compound	_	O
+9	Leader	leader	NNP	pos2=NN	3	dobj	_	O
+10	and	and	CC	_	3	cc	_	O
+11	help	help	VB	pos2=VBP	3	conj	_	O
+12	Cuba	cuba	NNP	_	13	compound	_	U-GPE
+13	people	people	NNS	pos2=NNPS	16	poss	_	O
+14	's	's	POS	pos2=AFX	13	case	_	O
+15	in	in	IN	_	11	prep	_	O
+16	this	this	DT	_	18	det	_	O
+17	crucial	crucial	JJ	_	18	nmod	_	O
+18	time	time	NN	_	15	pobj	_	O
+19	Thank	thank	VBP	_	11	xcomp	_	O
+20	you	you	PRP	_	19	dobj	_	O
+

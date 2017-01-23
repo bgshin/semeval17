@@ -1,0 +1,17 @@
+1	FBI	fbi	NNP	_	4	poss	_	U-ORG
+2	'S	's	POS	pos2=VBZ	1	case	_	O
+3	COMEY	comey	NNP	_	4	compound	_	O
+4	Dealt	dealt	NNP	pos2=VBD	0	root	_	O
+5	With	with	IN	_	4	prep	_	O
+6	Hillary	hillary	NNP	_	10	poss	_	U-PERSON
+7	's	's	POS	_	6	case	_	O
+8	Shady	shady	NNP	pos2=JJ	9	compound	_	O
+9	Whitewater	whitewater	NNP	_	10	compound	_	O
+10	Scandal	scandal	NN	pos2=NNP	5	pobj	_	O
+11	20	0	CD	_	12	nmod	_	B-DATE
+12	Years	year	NNS	_	13	npadvmod	_	I-DATE
+13	Ago	ago	RB	pos2=NNP	4	advmod	_	L-DATE
+14	!	!	.	_	4	punct	_	O
+
+1	https://t.co/8vleJweJjQ	#hlink#	ADD	_	0	root	_	U-ORG
+

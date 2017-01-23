@@ -1,0 +1,25 @@
+1	If	if	IN	_	4	mark	_	O
+2	Tony	tony	NNP	_	3	compound	_	B-PERSON
+3	Romo	romo	NNP	_	4	nsubj	_	L-PERSON
+4	played	play	VBD	_	15	advcl	_	O
+5	for	for	IN	_	4	prep	_	O
+6	a	a	DT	_	7	det	_	O
+7	team	team	NN	_	5	pobj	_	O
+8	other	other	JJ	_	7	nmod	_	O
+9	than	than	IN	_	8	prep	_	O
+10	Dallas	dallas	NNP	_	9	pobj	_	U-GPE
+11	,	,	,	_	15	punct	_	O
+12	he	he	PRP	_	15	nsubj	_	O
+13	would	would	MD	_	15	aux	_	O
+14	n't	not	RB	_	15	neg	_	O
+15	receive	receive	VB	_	0	root	_	O
+16	anywhere	anywhere	RB	_	15	advmod	_	O
+17	near	near	IN	pos2=RB	15	prep	_	O
+18	the	the	DT	_	20	det	_	O
+19	same	same	JJ	_	20	nmod	_	O
+20	kind	kind	NN	_	17	pobj	_	O
+21	of	of	IN	pos2=RB	20	prep	_	O
+22	media	medium	NNS	pos2=NN	23	compound	_	O
+23	slurpage	slurpage	NN	pos2=IN	21	pobj	_	O
+24	https://t.co/DDa6FLy3qj	#hlink#	ADD	pos2=NN	15	dobj	_	O
+

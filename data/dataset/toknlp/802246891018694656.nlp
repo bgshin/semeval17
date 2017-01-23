@@ -1,0 +1,23 @@
+1	Looks	look	VBZ	_	0	root	_	O
+2	like	like	IN	_	10	mark	_	O
+3	the	the	DT	_	7	det	_	O
+4	the	the	DT	_	7	det	_	O
+5	Mercedes	mercedes	NNP	_	6	compound	_	U-ORG
+6	S	s	NNP	pos2=POS	7	compound	_	O
+7	series	series	NN	_	10	nsubjpass	_	O
+8	has	have	VBZ	_	10	aux	_	O
+9	been	be	VBN	_	10	auxpass	_	O
+10	replaced	replace	VBN	_	1	advcl	_	O
+11	by	by	IN	_	10	agent	_	O
+12	the	the	DT	_	15	det	_	B-ORG
+13	Tesla	tesla	NNP	_	15	compound	_	I-ORG
+14	Model	model	NNP	pos2=NN	15	compound	_	I-ORG
+15	S	s	NNP	pos2=POS	11	pobj	_	L-ORG
+16	as	as	IN	_	21	mark	_	O
+17	the	the	DT	_	20	det	_	O
+18	new	new	JJ	_	20	nmod	_	O
+19	brown	brown	JJ	_	20	nmod	_	O
+20	person	person	NN	pos2=XX	21	nsubj	_	O
+21	mobile	mobile	JJ	pos2=NN	10	advcl	_	O
+22	.	.	.	_	1	punct	_	O
+

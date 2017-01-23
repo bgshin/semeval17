@@ -1,0 +1,18 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	've	have	VBP	_	3	aux	_	O
+3	said	say	VBN	pos2=VBD	0	root	_	O
+4	dude	dude	NN	_	3	dobj	_	O
+5	about	about	RB	pos2=IN	6	advmod	_	B-CARDINAL
+6	30,000	0	CD	_	7	nmod	_	L-CARDINAL
+7	times	time	NNS	_	3	npadvmod	_	O
+8	so	so	RB	_	9	advmod	_	O
+9	far	far	RB	_	3	advmod	_	O
+10	this	this	DT	_	11	det	_	O
+11	trip	trip	NN	_	13	nmod	_	O
+12	so	so	IN	pos2=RB	14	mark	_	O
+13	euthanasia	euthanasia	NN	_	14	nsubj	_	O
+14	is	be	VBZ	_	3	advcl	_	O
+15	my	my	PRP$	_	17	poss	_	O
+16	only	only	JJ	_	17	nmod	_	O
+17	option	option	NN	_	14	attr	_	O
+

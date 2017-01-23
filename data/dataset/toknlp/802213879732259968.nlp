@@ -1,0 +1,22 @@
+1	@truth_spiral	@truth_spiral	JJ	pos2=XX	2	nmod	_	B-DATE
+2	@RobMorroLiberty	@robmorroliberty	NN	pos2=ADD	4	nsubj	_	I-DATE
+3	@megynkelly	@megynkelly	RB	pos2=UH	4	advmod	_	L-DATE
+4	@FoxNews	@foxnews	VBZ	pos2=NNPS	0	root	_	O
+5	@FoxBusiness	@foxbusiness	NNP	pos2=PRP	4	dobj	_	O
+6	Honestly	honestly	RB	pos2=NNP	4	advmod	_	O
+7	?	?	.	_	4	punct	_	O
+
+1	Current	current	JJ	_	2	nmod	_	B-DATE
+2	day	day	NN	_	0	root	_	L-DATE
+3	short	short	JJ	pos2=RB	7	nmod	_	O
+4	haired	haired	JJ	_	7	nmod	_	O
+5	80s	0s	NNS	pos2=NNPS	7	compound	_	U-DATE
+6	power	power	NN	_	7	compound	_	O
+7	businesswoman	businesswoman	NN	_	8	compound	_	O
+8	Megyn	megyn	NNP	_	2	vocative	_	U-PERSON
+9	.	.	.	_	2	punct	_	O
+
+1	So	so	RB	_	2	advmod	_	O
+2	fine	fine	JJ	pos2=RB	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+

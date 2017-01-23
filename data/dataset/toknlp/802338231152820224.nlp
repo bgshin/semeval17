@@ -1,0 +1,30 @@
+1	@MMFlint	@mmflint	NNP	pos2=ADD	3	nsubj	_	U-ORG
+2	Just	just	RB	pos2=NNP	3	advmod	_	O
+3	watched	watch	VBD	_	0	root	_	O
+4	your	your	PRP$	_	8	poss	_	O
+5	amazing	amazing	JJ	_	8	nmod	_	O
+6	"	"	``	pos2=''	8	punct	_	O
+7	Michael	michael	NNP	_	8	compound	_	B-PERSON
+8	Moore	moore	NNP	_	3	dobj	_	L-PERSON
+9	in	in	IN	_	3	prep	_	O
+10	Trumpland	trumpland	NNP	_	9	pobj	_	U-GPE
+11	"	"	''	_	3	punct	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	Magnificent	magnificent	JJ	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	If	if	IN	_	6	mark	_	O
+2	only	only	RB	_	3	advmod	_	O
+3	more	more	JJR	_	4	nmod	_	O
+4	citizens	citizen	NNS	_	6	nsubj	_	O
+5	had	have	VBD	_	6	aux	_	O
+6	seen	see	VBN	_	11	advcl	_	O
+7	it	it	PRP	_	6	dobj	_	O
+8	,	,	,	_	11	punct	_	O
+9	HRC	hrc	NNP	pos2=NN	11	nsubj	_	U-ORG
+10	might	might	MD	_	11	aux	_	O
+11	be	be	VB	_	0	root	_	O
+12	President	president	NNP	_	11	attr	_	O
+13	.	.	.	_	11	punct	_	O
+

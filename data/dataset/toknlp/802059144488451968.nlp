@@ -1,0 +1,13 @@
+1	ricky	ricky	JJ	pos2=NN	4	nmod	_	O
+2	martin	martin	NNP	pos2=FW	3	compound	_	O
+3	csn	csn	NNP	pos2=MD	4	compound	_	O
+4	fuck	fuck	NN	pos2=VB	0	root	_	O
+5	with	with	IN	_	4	prep	_	O
+6	a	a	DT	_	8	det	_	O
+7	steak	steak	NN	_	8	compound	_	O
+8	knife	knife	NN	_	5	pobj	_	O
+9	i	I	PRP	_	11	nsubj	_	O
+10	would	would	MD	_	11	aux	_	O
+11	tahnk	tahnk	VB	_	4	relcl	_	O
+12	him	him	PRP	_	11	dobj	_	O
+

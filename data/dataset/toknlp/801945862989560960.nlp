@@ -1,0 +1,5 @@
+1	Jacob	jacob	NNP	pos2=GW	2	compound	_	B-PERSON
+2	✌🏻️🤑	✌🏻️🤑	NNP	pos2=GW	4	dep	_	L-PERSON
+3	#screamqueens	#screamqueens	ADD	pos2=VBZ	4	dep	_	O
+4	https://t.co/WMHBEq1gxt	#hlink#	ADD	_	0	root	_	O
+

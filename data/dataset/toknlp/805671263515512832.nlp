@@ -1,0 +1,21 @@
+1	https://t.co/eJWczwb7qP	#hlink#	ADD	_	15	dep	_	O
+2	@MileyCyrus	@mileycyrus	IN	pos2=ADD	6	mark	_	O
+3	You	you	PRP	_	6	nsubj	_	O
+4	would	would	MD	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	want	want	VB	_	15	advcl	_	O
+7	to	to	TO	_	8	aux	_	O
+8	live	live	VB	_	6	xcomp	_	O
+9	in	in	IN	_	8	prep	_	O
+10	Australia	australia	NNP	_	9	pobj	_	U-GPE
+11	we	we	PRP	_	15	nsubj	_	O
+12	ca	can	MD	_	15	aux	_	O
+13	n't	not	RB	_	15	neg	_	O
+14	even	even	RB	_	15	advmod	_	O
+15	pass	pass	VB	_	0	root	_	O
+16	gay	gay	JJ	pos2=NN	17	nmod	_	O
+17	marriage	marriage	NN	_	15	dobj	_	O
+18	.	.	.	_	15	punct	_	O
+
+1	😡😡	😡😡	SYM	pos2=NFP	0	root	_	U-ORG
+

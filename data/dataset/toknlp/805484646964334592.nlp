@@ -1,0 +1,19 @@
+1	Girls	girl	NNS	pos2=NNPS	0	root	_	O
+2	who	who	WP	_	3	nsubj	_	O
+3	think	think	VBP	_	1	relcl	_	O
+4	that	that	IN	_	7	mark	_	O
+5	they	they	PRP	_	7	nsubj	_	O
+6	will	will	MD	_	7	aux	_	O
+7	single	single	VB	pos2=JJ	3	ccomp	_	O
+8	handedly	handedly	RB	pos2=JJ	7	advmod	_	O
+9	stop	stop	VB	pos2=NN	7	conj	_	O
+10	animal	animal	NN	pos2=VBG	11	compound	_	O
+11	testing	testing	NN	_	9	dobj	_	O
+12	by	by	IN	_	9	prep	_	O
+13	complaining	complain	VBG	_	12	pcomp	_	O
+14	about	about	IN	_	13	prep	_	O
+15	it	it	PRP	_	14	pobj	_	O
+16	on	on	IN	_	13	prep	_	O
+17	a	a	DT	_	18	det	_	O
+18	status🙄🙄🙄	status🙄🙄🙄	NN	pos2=NNP	16	pobj	_	O
+

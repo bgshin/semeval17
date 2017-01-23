@@ -1,0 +1,23 @@
+1	College	college	NN	pos2=NNP	2	compound	_	O
+2	professors	professor	NNS	_	4	nsubj	_	O
+3	are	be	VBP	_	4	aux	_	O
+4	teaching	teach	VBG	_	0	root	_	O
+5	our	our	PRP$	_	6	poss	_	O
+6	children	child	NNS	_	4	dobj	_	O
+7	how	how	WRB	_	8	advmod	_	O
+8	great	great	JJ	_	9	nmod	_	O
+9	socialism	socialism	NN	_	10	nsubj	_	O
+10	is	be	VBZ	_	4	conj	_	O
+11	while	while	IN	_	13	mark	_	O
+12	parents	parent	NNS	_	13	nsubj	_	O
+13	pay	pay	VBP	pos2=VB	10	advcl	_	O
+14	expensive	expensive	JJ	_	15	nmod	_	O
+15	tuition	tuition	NN	_	13	dobj	_	O
+16	.	.	.	_	10	punct	_	O
+
+1	See	see	VB	_	0	root	_	O
+2	the	the	DT	_	5	nmod	_	O
+3	re	re	GW	pos2=NN	5	nmod	_	O
+4	…	…	NFP	pos2=GW	5	nmod	_	O
+5	https://t.co/E7Hgorusd7	#hlink#	ADD	pos2=NN	1	dobj	_	O
+

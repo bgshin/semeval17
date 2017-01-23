@@ -1,0 +1,18 @@
+1	@The_Last_NewsPa	@the_last_newspa	UH	pos2=NNP	5	discourse	_	O
+2	He	he	PRP	_	5	nsubj	_	O
+3	's	's	VBZ	_	5	aux	_	O
+4	not	not	RB	_	5	neg	_	O
+5	talking	talk	VBG	_	0	root	_	O
+6	about	about	IN	_	5	prep	_	O
+7	killing	kill	VBG	_	6	pcomp	_	O
+8	Americans	american	NNPS	_	7	dobj	_	U-NORP
+9	via	via	IN	_	7	prep	_	O
+10	drone	drone	NN	_	11	compound	_	O
+11	strikes	strike	NNS	pos2=VBZ	9	pobj	_	O
+12	like	like	IN	_	11	prep	_	O
+13	your	your	PRP$	_	16	poss	_	O
+14	head	head	NN	_	15	compound	_	O
+15	thug	thug	NN	pos2=UH	16	compound	_	O
+16	obama	obama	NN	pos2=RB	12	pobj	_	O
+17	!	!	.	_	5	punct	_	O
+

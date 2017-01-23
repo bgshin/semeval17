@@ -1,0 +1,27 @@
+1	Big	big	JJ	pos2=NNP	5	nmod	_	O
+2	Oil	oil	NNP	pos2=NN	5	poss	_	O
+3	's	's	POS	_	2	case	_	O
+4	Isadore	isadore	NNP	_	5	compound	_	B-FAC
+5	Hall	hall	NNP	_	6	nsubj	_	L-FAC
+6	was	be	VBD	_	0	root	_	O
+7	in	in	IN	_	6	prep	_	O
+8	DC	dc	NNP	pos2=NN	7	pobj	_	U-GPE
+9	last	last	JJ	_	10	nmod	_	B-DATE
+10	week	week	NN	_	6	npadvmod	_	L-DATE
+11	pretending	pretend	VBG	_	6	advcl	_	O
+12	to	to	TO	_	13	aux	_	O
+13	be	be	VB	_	11	xcomp	_	O
+14	the	the	DT	_	16	det	_	O
+15	new	new	JJ	_	16	nmod	_	O
+16	congressman	congressman	NN	_	13	attr	_	O
+17	--	--	:	pos2=.	26	punct	_	O
+18	even	even	RB	_	19	advmod	_	O
+19	asking	ask	VBG	_	16	appos	_	O
+20	Pelosi	pelosi	NNP	_	19	dobj	_	U-PERSON
+21	to	to	TO	_	22	aux	_	O
+22	let	let	VB	_	19	xcomp	_	O
+23	him	him	PRP	_	24	nsubj	_	O
+24	vot	vot	VB	pos2=GW	22	ccomp	_	O
+25	…	…	NFP	pos2=-LRB-	26	punct	_	O
+26	https://t.co/wUD7etOJNx	#hlink#	ADD	_	6	dep	_	O
+

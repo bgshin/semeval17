@@ -1,0 +1,22 @@
+1	@VeblenThorstein	@veblenthorstein	NN	pos2=NNP	17	nsubj	_	O
+2	And	and	CC	_	1	cc	_	O
+3	,	,	,	_	1	punct	_	O
+4	Slavery	slavery	NN	pos2=NNP	1	conj	_	O
+5	,	,	,	_	4	punct	_	O
+6	Abortion	abortion	NN	pos2=NNP	4	conj	_	O
+7	,	,	,	_	4	punct	_	O
+8	and	and	CC	_	4	cc	_	O
+9	the	the	DT	_	10	det	_	O
+10	Politics	politics	NNS	pos2=NNPS	4	conj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	Constitutional	constitutional	JJ	pos2=NNP	13	nmod	_	O
+13	Meaning	meaning	NN	pos2=NNP	11	pobj	_	O
+14	-	-	:	pos2=HYPH	17	punct	_	O
+15	Justin	justin	NNP	_	17	compound	_	B-PERSON
+16	Buckley	buckley	NNP	_	17	compound	_	I-PERSON
+17	Dyer	dyer	NNP	_	0	root	_	L-PERSON
+18	.	.	.	_	17	punct	_	O
+
+1	/	/	SYM	_	2	punct	_	O
+2	2	0	CD	_	0	root	_	U-CARDINAL
+

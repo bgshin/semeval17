@@ -1,0 +1,12 @@
+1	Hey	hey	UH	_	2	discourse	_	O
+2	#deplorables	#deplorables	VBZ	pos2=UH	0	root	_	O
+3	your	your	PRP$	_	4	poss	_	O
+4	boy	boy	NN	_	6	nsubj	_	O
+5	is	be	VBZ	_	6	aux	_	O
+6	screwing	screw	VBG	_	2	ccomp	_	O
+7	you	you	PRP	_	6	dobj	_	O
+8	already	already	RB	_	6	advmod	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	https://t.co/2PGrbh4TVw	#hlink#	ADD	_	0	root	_	U-ORG
+

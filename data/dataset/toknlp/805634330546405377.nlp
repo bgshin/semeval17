@@ -1,0 +1,31 @@
+1	Me	me	PRP	pos2=NN	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	I	I	PRP	_	5	nsubj	_	O
+4	will	will	MD	_	5	aux	_	O
+5	marry	marry	VB	_	0	root	_	O
+6	only	only	RB	_	11	advmod	_	O
+7	if	if	IN	_	11	mark	_	O
+8	Victor	victor	NNP	_	11	nsubj	_	U-PERSON
+9	and	and	CC	_	8	cc	_	O
+10	Yuuri	yuuri	NNP	_	8	conj	_	U-PERSON
+11	marry	marry	VBP	pos2=VB	5	advcl	_	O
+12	each	each	DT	_	13	det	_	O
+13	other	other	JJ	_	11	dobj	_	O
+14	.	.	.	_	5	punct	_	O
+
+1	Mom	mom	NN	_	4	dep	_	O
+2	:	:	:	_	1	punct	_	O
+3	Who	who	WP	_	4	attr	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	Vi	vi	NNP	pos2=CD	4	nsubj	_	U-PERSON
+6	..	..	.	pos2=,	4	punct	_	O
+
+1	Me	me	PRP	pos2=NN	3	nsubj	_	O
+2	:	:	:	_	3	punct	_	O
+3	LEGALIZE	legalize	VB	_	0	root	_	O
+4	GAY	gay	JJ	pos2=NNP	5	nmod	_	O
+5	MARRIAGE	marriage	NN	pos2=NNP	3	dobj	_	O
+6	!!	!!	.	_	3	punct	_	O
+
+1	https://t.co/KzE5af3mjp	#hlink#	ADD	_	0	root	_	U-ORG
+

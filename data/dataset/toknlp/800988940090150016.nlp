@@ -1,0 +1,13 @@
+1	#PMU	#pmu	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	launched	launch	VBD	pos2=VBN	0	root	_	O
+3	4th	#ord#	JJ	_	4	nmod	_	U-ORDINAL
+4	stage	stage	NN	_	2	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	#TelAfar	#telafar	XX	pos2=ADD	12	dep	_	O
+7	operation#Mosul	operation#mosul	XX	pos2=JJ	12	dep	_	B-WORK_OF_ART
+8	#Mosuloffensive	#mosuloffensive	XX	pos2=NNP	12	dep	_	I-WORK_OF_ART
+9	#MosulOp	#mosulop	XX	pos2=GW	12	dep	_	I-WORK_OF_ART
+10	#Iraq#ISIS#IslamicState	#iraq#isis#islamicstate	XX	pos2=GW	12	nmod	_	I-WORK_OF_ART
+11	…	…	NFP	pos2=XX	12	punct	_	L-WORK_OF_ART
+12	https://t.co/Zxsi7u1bQl	#hlink#	ADD	_	2	dep	_	O
+

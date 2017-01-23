@@ -1,0 +1,20 @@
+1	@sweetatertot2	@sweetatertot0	NN	pos2=LS	2	compound	_	O
+2	@KellyannePolls	@kellyannepolls	NNS	pos2=VBZ	3	nsubj	_	O
+3	@realDonaldTrump	@realdonaldtrump	VBP	pos2=ADD	0	root	_	O
+4	@mike_pence	@mike_pence	NN	pos2=PRP	3	dobj	_	O
+5	To	to	TO	_	6	aux	_	O
+6	get	get	VB	_	3	advcl	_	O
+7	his	his	PRP$	_	8	poss	_	O
+8	legislation	legislation	NN	_	6	dobj	_	O
+9	through	through	IN	_	6	prep	_	O
+10	Senate	senate	NNP	_	9	pobj	_	U-ORG
+11	he	he	PRP	_	13	nsubj	_	O
+12	will	will	MD	_	13	aux	_	O
+13	need	need	VB	_	8	acl	_	O
+14	every	every	DT	_	18	det	_	O
+15	single	single	JJ	_	18	nmod	_	O
+16	vote	vote	NN	_	18	compound	_	O
+17	-	-	HYPH	pos2=:	18	punct	_	O
+18	McCain	mccain	NNP	_	13	dobj	_	U-PERSON
+19	,	,	,	_	18	punct	_	O
+

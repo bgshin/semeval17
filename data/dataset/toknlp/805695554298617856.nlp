@@ -1,0 +1,24 @@
+1	@heiIDonaIdTrump	@heiidonaidtrump	UH	pos2=NNP	7	discourse	_	O
+2	Maybe	maybe	RB	_	7	advmod	_	O
+3	the	the	DT	_	5	det	_	B-ORG
+4	Electoral	electoral	NNP	pos2=JJ	5	compound	_	I-ORG
+5	College	college	NNP	_	7	nsubj	_	L-ORG
+6	can	can	MD	_	7	aux	_	O
+7	fix	fix	VB	_	0	root	_	O
+8	it	it	PRP	_	7	dobj	_	O
+9	before	before	IN	_	12	mark	_	O
+10	his	his	PRP$	_	11	poss	_	O
+11	clock	clock	NN	_	12	nsubj	_	O
+12	starts	start	VBZ	pos2=NNS	7	advcl	_	O
+13	.	.	.	_	7	punct	_	O
+
+1	What	what	WP	_	3	dobj	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	hope	hope	VBP	_	0	root	_	O
+4	anyway	anyway	RB	_	3	advmod	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	Less	less	JJR	pos2=RBR	2	nmod	_	O
+2	hassle	hassle	NN	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+

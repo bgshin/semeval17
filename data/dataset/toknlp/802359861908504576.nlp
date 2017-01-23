@@ -1,0 +1,23 @@
+1	KT	kt	NNP	pos2=NN	2	compound	_	B-PERSON
+2	McFarland	mcfarland	NNP	_	3	nsubj	_	L-PERSON
+3	chosen	choose	VBN	pos2=RB	0	root	_	O
+4	as	as	IN	_	3	prep	_	O
+5	Trump	trump	NNP	_	10	poss	_	U-ORG
+6	's	's	POS	_	5	case	_	O
+7	Deputy	deputy	NNP	_	10	compound	_	O
+8	Nat	nat	NNP	_	10	compound	_	O
+9	Security	security	NNP	_	10	compound	_	O
+10	Advisor	advisor	NNP	_	4	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	Great	great	JJ	_	2	nmod	_	O
+2	pick	pick	NN	_	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	#MAGA	#maga	NN	pos2=ADD	2	compound	_	O
+2	#PJNET	#pjnet	NN	pos2=ADD	0	root	_	O
+3	#tcot	#tcot	IN	pos2=UH	2	prep	_	O
+4	#ccot	#ccot	NN	pos2=GW	5	compound	_	O
+5	#	#	NN	pos2=-LRB-	3	pobj	_	O
+6	TPPhttps://t.co/aGwkOEYLix	#hlink#	ADD	_	5	nmod	_	U-ORG
+

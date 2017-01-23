@@ -1,0 +1,23 @@
+1	@Linashamy	@linashamy	NNP	pos2=XX	2	compound	_	O
+2	Russians	russian	NNPS	_	3	nsubj	_	O
+3	hav	hav	VBP	pos2=VBZ	9	ccomp	_	O
+4	weak	weak	JJ	_	5	nmod	_	O
+5	memory	memory	NN	_	3	dobj	_	O
+6	,	,	,	_	9	punct	_	O
+7	Syrians	syrian	NNPS	_	9	nsubj	_	U-NORP
+8	must	must	MD	_	9	aux	_	O
+9	let	let	VB	_	0	root	_	O
+10	Russian	russian	JJ	pos2=NNP	11	nsubj	_	U-NORP
+11	remembr	remembr	VB	pos2=IN	9	ccomp	_	O
+12	the	the	DT	_	13	det	_	O
+13	humiliation	humiliation	NN	_	11	dobj	_	O
+14	&	&	CC	_	13	cc	_	O
+15	disgrace	disgrace	NN	_	13	conj	_	O
+16	they	they	PRP	_	17	nsubj	_	O
+17	facd	facd	VBP	pos2=VBD	13	relcl	_	O
+18	in	in	IN	_	17	prep	_	O
+19	Afghanistan	afghanistan	NNP	_	18	pobj	_	U-GPE
+20	in	in	IN	_	17	prep	_	O
+21	1980's	0's	NNS	pos2=NNPS	20	pobj	_	U-DATE
+22	#Aleppo	#aleppo	NNP	pos2=FW	19	appos	_	O
+

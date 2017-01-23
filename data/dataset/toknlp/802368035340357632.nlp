@@ -1,0 +1,23 @@
+1	@TeresaEdelglass	@teresaedelglass	NN	pos2=ADD	2	nsubj	_	O
+2	Is	be	VBZ	_	4	auxpass	_	O
+3	this	this	DT	_	4	nsubjpass	_	O
+4	supposed	suppose	VBN	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	look	look	VB	_	4	xcomp	_	O
+7	like	like	IN	_	6	prep	_	O
+8	the	the	DT	_	11	det	_	B-ORG
+9	Electoral	electoral	NNP	_	10	compound	_	I-ORG
+10	College	college	NNP	_	11	compound	_	L-ORG
+11	map	map	NN	pos2=VB	7	pobj	_	O
+12	?	?	.	_	4	punct	_	O
+
+1	Need	need	VBP	pos2=NN	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	point	point	VB	_	1	xcomp	_	O
+4	that	that	DT	pos2=IN	3	dobj	_	O
+5	out	out	RP	pos2=RB	3	prt	_	O
+6	to	to	IN	_	3	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	#Leftists	#leftists	NNS	pos2=NNPS	6	pobj	_	O
+9	.	.	.	_	1	punct	_	O
+

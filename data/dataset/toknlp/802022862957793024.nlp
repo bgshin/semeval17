@@ -1,0 +1,20 @@
+1	@Adam_LZ	@adam_lz	TO	pos2=ADD	2	aux	_	O
+2	watch	watch	VB	pos2=VBP	0	root	_	O
+3	that	that	DT	pos2=IN	7	det	_	O
+4	new	new	JJ	_	7	nmod	_	O
+5	david	david	NNP	pos2=NN	6	compound	_	O
+6	blaine	blaine	NNP	pos2=NN	7	compound	_	U-TIME
+7	show	show	NN	pos2=VBP	2	dobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	shits	shit	NNS	pos2=VBZ	2	compound	_	O
+2	nuts	nut	NNS	pos2=JJ	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	you	you	PRP	_	4	nsubj	_	O
+2	wo	wo	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	regret	regret	VB	_	0	root	_	O
+5	it	it	PRP	_	4	dobj	_	O
+6	.	.	.	_	4	punct	_	O
+

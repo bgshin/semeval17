@@ -1,0 +1,14 @@
+1	#Microsoft	#microsoft	NNP	pos2=WP	2	nsubj	_	U-ORG
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	changed	change	VBN	pos2=JJ	5	nmod	_	O
+5	company	company	NN	_	2	attr	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	And	and	CC	_	3	cc	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	like	like	VBP	_	0	root	_	O
+4	it	it	PRP	_	3	dobj	_	O
+5	:	:	:	_	3	punct	_	O
+6	https://t.co/eIaPBQf30Z	#hlink#	ADD	_	3	dep	_	O
+

@@ -1,0 +1,7 @@
+1	Indian	indian	JJ	pos2=NNP	6	nmod	_	O
+2	Motorcycle	motorcycle	NNP	pos2=NN	4	compound	_	B-PERSON
+3	Maduro	maduro	NNP	_	4	compound	_	I-PERSON
+4	Churchill	churchill	NNP	pos2=GW	6	dep	_	L-PERSON
+5	https://t.co/e562tQJ8p3	#hlink#	ADD	_	6	nmod	_	O
+6	https://t.co/SjrvC2xpyd	#hlink#	ADD	_	0	root	_	U-ORG
+

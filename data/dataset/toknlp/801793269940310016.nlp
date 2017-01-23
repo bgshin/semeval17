@@ -1,0 +1,23 @@
+1	Travel	travel	VB	pos2=NN	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	World	world	NNP	pos2=NN	1	dobj	_	U-ORG
+4	with	with	IN	_	1	prep	_	O
+5	the	the	DT	_	10	det	_	O
+6	all	all	DT	pos2=RB	10	det	_	O
+7	new	new	JJ	_	10	nmod	_	O
+8	Google	google	NNP	_	10	compound	_	B-ORG
+9	Earth	earth	NNP	_	10	compound	_	I-ORG
+10	VR	vr	NNP	pos2=NN	4	pobj	_	L-ORG
+11	!	!	.	_	1	punct	_	O
+
+1	Follow	follow	VB	_	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	link	link	NN	_	1	dobj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	read	read	VB	_	1	advcl	_	O
+6	the	the	DT	_	7	det	_	O
+7	Blog	blog	NN	pos2=NNP	5	dobj	_	O
+8	:	:	:	_	10	punct	_	O
+9	https://t.co/q9oLGu5bZE	#hlink#	ADD	_	10	nmod	_	O
+10	https://t.co/H6PTOi34fq	#hlink#	ADD	_	1	dep	_	U-ORG
+

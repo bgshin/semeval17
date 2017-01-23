@@ -1,0 +1,18 @@
+1	#theProtestors	#theprotestors	NNS	pos2=NNP	6	dobj	_	O
+2	Who	who	WP	_	3	nsubj	_	O
+3	do	do	VBP	_	6	aux	_	O
+4	the	the	DT	_	5	det	_	O
+5	Dems	dems	NNPS	_	6	nsubj	_	U-NORP
+6	follow	follow	VB	pos2=NN	0	root	_	O
+7	...	..	.	pos2=,	6	punct	_	O
+
+1	George	george	NNP	_	5	compound	_	B-EVENT
+2	Soros	soros	NNP	_	5	compound	_	I-EVENT
+3	Nazi	nazi	NNP	_	5	compound	_	I-EVENT
+4	War	war	NNP	_	5	compound	_	I-EVENT
+5	Criminal	criminal	NNP	pos2=NNPS	0	root	_	L-EVENT
+6	.	.	.	_	5	punct	_	O
+
+1	https://t.co/0EsDqgYcUW	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/ix9P0rK5Pd	#hlink#	ADD	_	0	root	_	U-ORG
+

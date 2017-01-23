@@ -1,0 +1,17 @@
+1	Chicago	chicago	NNP	_	2	compound	_	O
+2	Cubs	cub	NNPS	pos2=NNP	16	dep	_	O
+3	"	"	``	pos2=''	4	punct	_	O
+4	WIN	win	NN	pos2=VB	16	dep	_	O
+5	"	"	''	pos2=``	7	punct	_	O
+6	LASER	laser	NN	pos2=NNP	7	compound	_	O
+7	FRAME	frame	NN	pos2=NNP	16	dep	_	O
+8	Chrome	chrome	NNP	_	9	compound	_	B-ORG
+9	Metal	metal	NNP	pos2=NN	11	compound	_	I-ORG
+10	License	license	NNP	pos2=NN	11	compound	_	I-ORG
+11	Plate	plate	NNP	pos2=NN	16	dep	_	I-ORG
+12	Cover	cover	NNP	_	16	dep	_	I-ORG
+13	Tag	tag	NNP	pos2=GW	14	compound	_	I-ORG
+14	Baseball	baseball	NNP	pos2=GW	16	dep	_	L-ORG
+15	https://t.co/LTUx0ec27a	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/X0Hoz63bIQ	#hlink#	ADD	_	0	root	_	U-ORG
+

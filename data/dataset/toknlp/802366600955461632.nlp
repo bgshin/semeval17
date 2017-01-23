@@ -1,0 +1,27 @@
+1	@afrikababybam	@afrikababybam	UH	pos2=XX	5	discourse	_	O
+2	LOL	lol	UH	pos2=NNP	5	discourse	_	O
+3	nah	nah	UH	pos2=RB	5	discourse	_	O
+4	he	he	PRP	_	5	nsubj	_	O
+5	was	be	VBD	_	0	root	_	O
+6	solo	solo	JJ	pos2=RB	7	nmod	_	O
+7	😂	😂	NN	pos2=NNP	5	attr	_	O
+8	but	but	CC	_	5	cc	_	O
+9	there	there	EX	_	10	expl	_	O
+10	were	be	VBD	_	5	conj	_	O
+11	a	a	DT	_	12	det	_	O
+12	group	group	NN	_	10	attr	_	O
+13	of	of	IN	_	12	prep	_	O
+14	kids	kid	NNS	_	13	pobj	_	O
+15	chanting	chant	VBG	_	16	aux	_	O
+16	build	build	VB	pos2=VBP	12	acl	_	O
+17	that	that	DT	pos2=WDT	18	det	_	O
+18	wall	wall	NN	_	16	dobj	_	O
+19	at	at	IN	_	16	prep	_	O
+20	a	a	DT	_	21	det	_	O
+21	protest	protest	NN	_	19	pobj	_	O
+22	after	after	IN	_	25	mark	_	O
+23	trump	trump	NN	_	25	nsubjpass	_	O
+24	was	be	VBD	_	25	auxpass	_	O
+25	elected	elect	VBN	_	16	advcl	_	O
+26	.	.	.	_	10	punct	_	O
+

@@ -1,0 +1,25 @@
+1	Ashley	ashley	NNP	_	2	compound	_	B-PERSON
+2	Graham	graham	NNP	_	0	root	_	L-PERSON
+3	on	on	IN	_	2	prep	_	O
+4	December	december	NNP	_	3	pobj	_	B-DATE
+5	2	0	CD	_	4	nmod	_	I-DATE
+6	,	,	,	_	4	punct	_	I-DATE
+7	2016	0	CD	_	4	npadvmod	_	L-DATE
+8	in	in	IN	_	2	prep	_	O
+9	New	new	NNP	_	10	compound	_	B-GPE
+10	York	york	NNP	_	11	compound	_	I-GPE
+11	City	city	NNP	_	8	pobj	_	L-GPE
+12	.	.	.	_	2	punct	_	O
+
+1	-	-	SYM	_	11	punct	_	O
+2	2016	0	CD	_	4	nmod	_	O
+3	VH1's	vh0's	NNS	_	8	det	_	O
+4	Divas	diva	NNS	pos2=NNP	5	compound	_	O
+5	Holiday	holiday	NNP	pos2=NN	11	dep	_	O
+6	:	:	:	_	11	punct	_	O
+7	Unsilent	unsilent	JJ	pos2=NNP	8	nmod	_	O
+8	Night	night	NNP	pos2=NN	11	dep	_	O
+9	-	-	:	pos2=HYPH	11	punct	_	O
+10	Arrivals	arrival	NNS	pos2=GW	11	nmod	_	O
+11	https://t.co/X40XUcb5go	#hlink#	ADD	pos2=VBP	0	root	_	O
+

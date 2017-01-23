@@ -1,0 +1,28 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@NavyFederal	@navyfederal	VB	pos2=MD	8	discourse	_	O
+2	the	the	DT	_	7	det	_	O
+3	"	"	``	_	5	punct	_	O
+4	killer	killer	NN	pos2=JJR	5	compound	_	O
+5	honeymoon	honeymoon	NN	_	7	nmod	_	O
+6	"	"	''	pos2=``	7	punct	_	O
+7	commercial	commercial	NN	pos2=JJ	1	dobj	_	O
+8	is	be	VBZ	_	0	root	_	O
+9	so	so	RB	_	10	advmod	_	O
+10	insensitive	insensitive	JJ	_	12	compound	_	O
+11	-	-	HYPH	pos2=:	12	punct	_	O
+12	u	u	PRP	pos2=NN	13	nsubj	_	O
+13	have	have	VBP	pos2=VB	25	ccomp	_	O
+14	drone	drone	NN	_	15	compound	_	O
+15	strikes	strike	NNS	pos2=VBZ	13	dobj	_	O
+16	missing	miss	VBG	_	15	acl	_	O
+17	90	0	CD	_	18	nmod	_	B-PERCENT
+18	%	%	NN	_	16	dobj	_	L-PERCENT
+19	of	of	IN	_	18	prep	_	O
+20	targets	target	NNS	_	19	pobj	_	O
+21	-	-	:	pos2=,	25	punct	_	O
+22	not	not	RB	_	25	neg	_	O
+23	too	too	RB	_	24	advmod	_	O
+24	funny	funny	JJ	_	25	nmod	_	O
+25	#liberty	#liberty	NN	pos2=UH	8	attr	_	O
+

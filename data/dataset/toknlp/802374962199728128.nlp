@@ -1,0 +1,29 @@
+1	@phardinjackson	@phardinjackson	UH	pos2=NN	3	discourse	_	O
+2	Not	not	RB	_	3	neg	_	O
+3	surprised	surprised	JJ	pos2=VBN	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	People	people	NNS	_	2	nsubj	_	O
+2	hate	hate	VBP	_	4	aux	_	O
+3	being	be	VBG	_	4	auxpass	_	O
+4	duped	dupe	VBN	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	Truth	truth	NN	pos2=NNP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	brutal	brutal	JJ	_	2	acomp	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	Putin	putin	NNP	_	2	nsubj	_	U-PERSON
+2	manipulated	manipulate	VBD	pos2=VBN	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	FBI	fbi	NNP	_	2	compound	_	U-ORG
+2	Comey	comey	NNP	_	3	nsubj	_	U-PERSON
+3	reinforced	reinforce	VBD	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	myth	myth	NN	_	3	dobj	_	O
+6	Putin	putin	NNP	_	7	nsubj	_	U-PERSON
+7	created	create	VBD	_	5	relcl	_	O
+8	.	.	.	_	3	punct	_	O
+

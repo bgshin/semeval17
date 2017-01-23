@@ -1,0 +1,15 @@
+1	Here	here	RB	_	2	advmod	_	O
+2	's	's	VBZ	_	4	aux	_	O
+3	Clinton	clinton	NNP	_	4	nsubj	_	U-PERSON
+4	giving	give	VBG	_	0	root	_	O
+5	her	her	PRP	pos2=PRP$	4	dative	_	O
+6	support	support	NN	_	4	dobj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	BLM	blm	NNP	pos2=NN	9	compound	_	O
+9	#BlackLivesMatter	#blacklivesmatter	NNP	pos2=XX	7	pobj	_	O
+10	#VoteGreen	#votegreen	ADD	pos2=NNP	14	dep	_	O
+11	@RCTILJH	@rctiljh	NNP	pos2=XX	14	nmod	_	O
+12	@JudahWorldChamp	@judahworldchamp	GW	pos2=ADD	14	nmod	_	O
+13	@ShwahWahWah	@shwahwahwah	GW	pos2=ADD	14	nmod	_	O
+14	https://t.co/aPQNdukVUW	#hlink#	ADD	pos2=NN	4	dep	_	U-ORG
+

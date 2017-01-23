@@ -1,0 +1,29 @@
+1	Clinton	clinton	NNP	_	7	nsubj	_	U-PERSON
+2	,	,	,	_	1	punct	_	O
+3	and	and	CC	_	1	cc	_	O
+4	again	again	RB	_	1	conj	_	O
+5	and	and	CC	_	7	cc	_	O
+6	Hillary	hillary	NNP	_	7	nsubj	_	U-PERSON
+7	has	have	VBZ	_	0	root	_	O
+8	consequences	consequence	NNS	_	7	dobj	_	O
+9	.	.	.	_	7	punct	_	O
+
+1	’	'	''	pos2=SYM	3	punct	_	O
+2	”	"	``	pos2=''	7	punct	_	O
+3	Politico	politico	NNP	pos2=NN	7	dep	_	O
+4	:	:	:	_	7	punct	_	O
+5	Comey	comey	NNP	_	7	poss	_	O
+6	’s	's	POS	_	5	case	_	O
+7	decision	decision	NN	_	0	root	_	O
+8	to	to	IN	pos2=TO	7	prep	_	O
+9	a	a	DT	_	10	det	_	O
+10	lot	lot	NN	_	8	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	legal	legal	JJ	_	13	nmod	_	O
+13	custom	custom	NN	_	11	pobj	_	O
+14	that	that	WDT	pos2=IN	17	dep	_	O
+15	a	a	DT	_	17	det	_	O
+16	voter	voter	NN	_	17	compound	_	O
+17	registration	registration	NN	_	13	relcl	_	O
+18	,	,	,	_	17	punct	_	O
+

@@ -1,0 +1,27 @@
+1	When	when	WRB	_	3	advmod	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	're	be	VBP	_	8	advcl	_	O
+4	a	a	DT	_	5	det	_	O
+5	Trump	trump	NNP	pos2=NN	3	attr	_	U-ORG
+6	,	,	,	_	8	punct	_	O
+7	critics	critic	NNS	_	8	nsubj	_	O
+8	have	have	VBP	_	0	root	_	O
+9	the	the	DT	_	11	det	_	O
+10	opposite	opposite	JJ	_	11	nmod	_	O
+11	effect	effect	NN	_	8	dobj	_	O
+12	.	.	.	_	8	punct	_	O
+
+1	Melania	melania	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	avenged	avenge	VBN	pos2=VBD	0	root	_	O
+3	by	by	IN	_	2	agent	_	O
+4	bigger	big	JJR	_	6	nmod	_	O
+5	fashion	fashion	NN	_	6	compound	_	O
+6	designers	designer	NNS	_	3	pobj	_	O
+7	than	than	IN	_	6	prep	_	O
+8	M.	m.	NNP	_	9	compound	_	B-PERSON
+9	Obama	obama	NNP	_	7	pobj	_	I-PERSON
+10	's	's	POS	_	9	case	_	L-PERSON
+11	.	.	.	_	2	punct	_	O
+
+1	https://t.co/EXLEdmjbnb	#hlink#	ADD	_	0	root	_	U-ORG
+

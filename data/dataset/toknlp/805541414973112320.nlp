@@ -1,0 +1,15 @@
+1	@EileenMyles	@eileenmyles	PRP$	pos2=VBZ	3	poss	_	O
+2	drone	drone	NN	_	3	compound	_	O
+3	strikes	strike	NNS	pos2=VBZ	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	and	and	CC	_	3	cc	_	O
+6	how	how	WRB	_	8	advmod	_	O
+7	she	she	PRP	_	8	nsubj	_	O
+8	helped	help	VBD	_	9	aux	_	O
+9	fund	fund	VB	_	5	pcomp	_	O
+10	Al	al	NNP	_	11	compound	_	B-ORG
+11	Qaeda	qaeda	NNP	_	9	dobj	_	L-ORG
+12	and	and	CC	_	11	cc	_	O
+13	Isis	isis	NNP	_	11	conj	_	U-LOC
+14	?	?	.	_	3	punct	_	O
+

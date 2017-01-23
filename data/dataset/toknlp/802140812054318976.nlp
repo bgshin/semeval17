@@ -1,0 +1,21 @@
+1	Yep	yep	UH	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Dems	dems	NNPS	pos2=UH	6	nsubj	_	U-NORP
+2	neither	neither	CC	pos2=RB	3	preconj	_	O
+3	can	can	MD	pos2=NN	0	root	_	O
+4	nor	nor	CC	_	3	cc	_	O
+5	should	should	MD	_	6	aux	_	O
+6	ditch	ditch	VB	_	3	conj	_	O
+7	“	"	``	_	9	punct	_	O
+8	identity	identity	NN	_	9	compound	_	O
+9	politics	politics	NNS	_	6	dobj	_	O
+10	”	"	''	_	9	punct	_	O
+11	https://t.co/DQ6jgygOEe	#hlink#	ADD	pos2=VBP	14	nsubj	_	O
+12	@cspanwj	@cspanwj	-RRB-	pos2=XX	11	punct	_	O
+13	#uniteblue	#uniteblue	UH	pos2=VB	6	discourse	_	O
+14	#NotMyPresident	#notmypresident	ADD	pos2=NN	17	punct	_	O
+15	#Trump	#trump	NNP	pos2=IN	17	nmod	_	U-PERSON
+16	#tcot	#tcot	UH	pos2=ADD	17	discourse	_	O
+17	#MAGA	#maga	NN	pos2=ADD	3	conj	_	U-PERSON
+

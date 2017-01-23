@@ -1,0 +1,16 @@
+1	#Breaking	#breaking	VBG	pos2=NNP	15	nmod	_	O
+2	Footage	footage	NN	pos2=NNP	1	dobj	_	O
+3	from	from	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	scene	scene	NN	_	3	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	attempted	attempt	VBN	pos2=VBD	9	nmod	_	O
+8	#terror	#terror	HYPH	pos2=PRP$	9	punct	_	O
+9	attack	attack	NN	_	6	pobj	_	O
+10	in	in	IN	_	1	prep	_	O
+11	#Shoafat	#shoafat	NNP	pos2=FW	10	pobj	_	O
+12	#jerusalem	#jerusalem	UH	pos2=NNP	1	discourse	_	O
+13	,	,	,	_	1	punct	_	O
+14	#israel	#israel	UH	pos2=-LRB-	1	discourse	_	O
+15	https://t.co/4ohq8jkU8y	#hlink#	ADD	pos2=NN	0	root	_	O
+

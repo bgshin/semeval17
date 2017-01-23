@@ -1,0 +1,10 @@
+1	@PutinRF_Eng	@putinrf_eng	ADD	pos2=VBG	2	nsubj	_	O
+2	@MedvedevRussiaE	@medvedevrussiae	VBP	pos2=UH	0	root	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	2	ccomp	_	O
+5	Time	time	NN	pos2=NNP	4	attr	_	O
+6	to	to	IN	pos2=TO	5	prep	_	O
+7	Annhialate	annhialate	NNP	pos2=VB	6	pobj	_	U-GPE
+8	@poroshenko	@poroshenko	IN	pos2=-LRB-	9	nmod	_	O
+9	https://t.co/bUVRo44n8e	#hlink#	ADD	_	5	relcl	_	O
+

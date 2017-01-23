@@ -1,0 +1,15 @@
+1	https://t.co/yUbO4cAYE6	#hlink#	ADD	_	6	dep	_	O
+2	<	<	-RRB-	pos2=SYM	6	punct	_	O
+3	-	-	HYPH	pos2=:	4	punct	_	O
+4	Thai	thai	NNP	pos2=JJ	5	compound	_	U-NORP
+5	Politician	politician	NN	pos2=NNP	6	compound	_	O
+6	Scandal	scandal	NNP	pos2=NN	0	root	_	O
+7	At	at	IN	_	6	prep	_	O
+8	Bangkok	bangkok	NNP	_	10	compound	_	B-ORG
+9	Fitness	fitness	NNP	pos2=NN	10	compound	_	L-ORG
+10	#tits	#tits	NNPS	pos2=NNS	7	pobj	_	O
+11	#boob	#boob	UH	pos2=XX	6	discourse	_	O
+12	#memek	#memek	UH	pos2=FW	14	discourse	_	O
+13	#bispak	#bispak	UH	pos2=FW	14	discourse	_	O
+14	#onedirection	#onedirection	UH	pos2=NN	6	discourse	_	O
+

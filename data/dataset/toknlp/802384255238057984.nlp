@@ -1,0 +1,23 @@
+1	#Leftists	#leftists	NNS	pos2=PRP	2	nsubj	_	O
+2	complain	complain	VBP	pos2=VB	13	ccomp	_	O
+3	about	about	IN	_	2	prep	_	O
+4	@realDonaldTrump	@realdonaldtrump	NNP	pos2=NN	7	poss	_	U-ORG
+5	's	's	POS	_	4	case	_	O
+6	#Cabinet	#cabinet	NNP	pos2=NN	7	compound	_	O
+7	selections	selection	NNS	_	3	pobj	_	O
+8	:	:	:	_	13	punct	_	O
+9	PO	po	NNP	pos2=FW	13	nsubj	_	U-ORG
+10	'd	would	MD	pos2=VBD	13	aux	_	O
+11	they	they	PRP	_	13	nsubj	_	O
+12	actually	actually	RB	_	13	advmod	_	O
+13	WORKED	work	VBD	_	0	root	_	O
+14	4	0	CD	pos2=IN	13	npadvmod	_	U-CARDINAL
+15	their	their	PRP$	_	16	poss	_	O
+16	wealth	wealth	NN	_	13	dobj	_	O
+17	instead	instead	RB	_	18	advmod	_	O
+18	of	of	IN	_	13	prep	_	O
+19	fleecing	fleece	VBG	_	18	pcomp	_	O
+20	the	the	DT	_	21	det	_	O
+21	public	public	NN	pos2=JJ	19	dobj	_	O
+22	.	.	.	_	13	punct	_	O
+

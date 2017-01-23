@@ -1,0 +1,20 @@
+1	@BreitbartNews	@breitbartnews	NNP	pos2=UH	8	vocative	_	O
+2	Hey	hey	UH	_	8	discourse	_	O
+3	@Jack	@jack	NNP	pos2=POS	4	compound	_	O
+4	China	china	NNP	_	7	poss	_	O
+5	's	's	POS	_	4	case	_	O
+6	CENSORSHIP	censorship	NN	pos2=NNP	7	compound	_	O
+7	Policy	policy	NN	pos2=NNP	8	nsubj	_	O
+8	sounds	sound	VBZ	_	0	root	_	O
+9	A	a	DT	_	10	det	_	O
+10	LOT	lot	NN	_	11	npadvmod	_	O
+11	LIKE	like	IN	pos2=UH	8	prep	_	O
+12	@Twitter	@twitter	NNP	pos2=PRP	15	poss	_	U-GPE
+13	's	's	POS	_	12	case	_	O
+14	#Fascist	#fascist	NNP	pos2=JJ	15	compound	_	U-PRODUCT
+15	PC	pc	NN	pos2=NNP	11	pobj	_	O
+16	#Censorship	#censorship	NNP	pos2=NN	15	appos	_	O
+17	of	of	IN	_	16	prep	_	O
+18	ideas	idea	NNS	_	17	pobj	_	O
+19	https://t.co/yTbAF0YQKv	#hlink#	ADD	_	8	dep	_	O
+

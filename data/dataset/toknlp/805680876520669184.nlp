@@ -1,0 +1,19 @@
+1	@DeplorableJames	@deplorablejames	NNS	pos2=ADD	4	dobj	_	O
+2	@AIIAmericanGirI	@aiiamericangiri	ADD	pos2=NNS	4	punct	_	O
+3	@flamethrower82	@flamethrower0	NN	pos2=NNS	4	nsubj	_	O
+4	See	see	VB	pos2=UH	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	knew	know	VBD	_	0	root	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	read	read	VBD	pos2=VBP	2	ccomp	_	O
+5	that	that	DT	pos2=RB	6	det	_	O
+6	wrong	wrong	NN	pos2=JJ	4	dobj	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	Yay	yay	NN	pos2=NNP	3	compound	_	O
+2	gun	gun	NN	_	3	compound	_	O
+3	control	control	NN	_	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+

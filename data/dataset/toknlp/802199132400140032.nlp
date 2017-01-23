@@ -1,0 +1,6 @@
+1	The	the	DT	_	3	det	_	O
+2	Vicious	vicious	JJ	pos2=NNP	3	nmod	_	O
+3	Snake	snake	NNP	pos2=NN	5	nmod	_	O
+4	https://t.co/AGE7m9q9ls	#hlink#	ADD	pos2=NNPS	5	nsubj	_	O
+5	#DrainTheSwamp#NeverRomney@realDonaldTrump	#draintheswamp#neverromney@realdonaldtrump	ADD	pos2=-RRB-	0	root	_	O
+

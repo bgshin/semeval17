@@ -1,0 +1,8 @@
+1	#DrainTheSwamp	#draintheswamp	NN	pos2=UH	0	root	_	O
+2	...	..	.	pos2=,	1	punct	_	O
+
+1	suckers	sucker	NNS	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	https://t.co/zjN1Tos7jG	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,13 @@
+1	Low	low	JJ	_	2	nmod	_	O
+2	key	key	NN	pos2=JJ	0	root	_	O
+3	...	..	.	pos2=,	2	punct	_	O
+
+1	is	be	VBZ	_	0	root	_	O
+2	that	that	IN	pos2=DT	5	mark	_	O
+3	Verlander	verlander	NNP	_	1	nsubj	_	U-PERSON
+4	in	in	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	halftime	halftime	NN	_	7	compound	_	O
+7	show	show	NN	pos2=VBP	4	pobj	_	O
+8	...?!?!	..?!?!	.	_	1	punct	_	O
+

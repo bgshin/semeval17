@@ -1,0 +1,15 @@
+1	@ricky_martin	@ricky_martin	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	relaxes	relax	VBZ	_	0	root	_	O
+3	with	with	IN	_	2	prep	_	O
+4	his	his	PRP$	_	5	poss	_	O
+5	team	team	NN	_	3	pobj	_	O
+6	on	on	IN	_	5	prep	_	O
+7	thevoiceau	thevoiceau	NN	pos2=DT	6	pobj	_	O
+8	😁✌🏻️	😁✌🏻️	NNP	pos2=HYPH	11	compound	_	U-LOC
+9	#RickyMartin	#rickymartin	ADD	pos2=NNP	14	dep	_	O
+10	#Ricky_Martin	#ricky_martin	NN	pos2=ADD	11	compound	_	O
+11	#	#	NN	pos2=-LRB-	14	dep	_	O
+12	РикиМартин	РикиМартин	NFP	pos2=GW	11	nmod	_	U-MONEY
+13	…	…	NFP	pos2=-LRB-	14	punct	_	O
+14	https://t.co/aDYllmyMYx	#hlink#	ADD	pos2=NN	2	dep	_	O
+

@@ -1,0 +1,12 @@
+1	Poroshenko	poroshenko	NNP	pos2=IN	3	compound	_	B-ORG
+2	Sure	sure	NNP	pos2=UH	3	compound	_	I-ORG
+3	Trump	trump	NNP	_	6	nsubj	_	L-ORG
+4	Will	will	MD	pos2=NNP	6	aux	_	O
+5	Not	not	RB	pos2=CC	6	neg	_	O
+6	Change	change	VB	_	0	root	_	O
+7	US	us	NNP	_	8	compound	_	U-GPE
+8	Policy	policy	NNP	pos2=NN	6	dobj	_	O
+9	on	on	IN	_	8	prep	_	O
+10	Ukraine	ukraine	NNP	_	9	pobj	_	U-GPE
+11	https://t.co/1Rhjhgy7iF	#hlink#	ADD	pos2=NNP	6	dobj	_	O
+

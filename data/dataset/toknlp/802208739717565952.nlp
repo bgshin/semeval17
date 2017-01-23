@@ -1,0 +1,16 @@
+1	https://t.co/GLee5OK0kF	#hlink#	ADD	_	0	root	_	O
+2	@lisamurkowski	@lisamurkowski	-RRB-	pos2=XX	1	punct	_	O
+3	@seanhannity	@seanhannity	UH	pos2=NN	1	discourse	_	O
+4	@SenDanSullivan	@sendansullivan	ADD	pos2=GW	8	det	_	O
+5	@AkGovBillWalker	@akgovbillwalker	NN	pos2=IN	8	poss	_	O
+6	@houmaj	@houmaj	POS	pos2=IN	5	case	_	O
+7	Past	past	NNP	pos2=JJ	8	compound	_	B-PERSON
+8	Time	time	NNP	pos2=NN	1	npadvmod	_	L-PERSON
+9	to	to	TO	_	10	aux	_	O
+10	take	take	VB	_	1	advcl	_	O
+11	care	care	NN	_	10	dobj	_	O
+12	for	for	IN	_	10	prep	_	O
+13	our	our	PRP$	_	14	poss	_	O
+14	planet	planet	NN	_	12	pobj	_	O
+15	.	.	.	_	1	punct	_	O
+

@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det	_	O
+2	Crankies	crankies	NNP	pos2=NNPS	0	root	_	U-ORG
+3	on	on	IN	pos2=RB	2	prep	_	O
+4	tour	tour	NN	_	3	pobj	_	O
+5	again	again	RB	_	2	advmod	_	O
+6	?	?	.	_	2	punct	_	O
+
+1	#democracy	#democracy	UH	pos2=XX	4	discourse	_	O
+2	#sovereignty	#sovereignty	UH	pos2=GW	4	discourse	_	O
+3	#draintheswamp	#draintheswamp	UH	pos2=NFP	4	discourse	_	O
+4	https://t.co/iWN0CiBcf9	#hlink#	ADD	pos2=UH	0	root	_	O
+

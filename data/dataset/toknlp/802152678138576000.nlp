@@ -1,0 +1,17 @@
+1	Remember	remember	VB	_	0	root	_	O
+2	when	when	WRB	_	4	advmod	_	O
+3	Chanel	chanel	NNP	_	4	nsubj	_	U-ORG
+4	owned	own	VBD	_	1	ccomp	_	O
+5	the	the	DT	_	6	det	_	O
+6	mall	mall	NN	_	4	dobj	_	O
+7	for	for	IN	_	4	prep	_	O
+8	herself	herself	PRP	_	7	pobj	_	O
+9	during	during	IN	_	4	prep	_	O
+10	Black	black	NNP	pos2=JJ	11	compound	_	B-EVENT
+11	Friday	friday	NNP	_	9	pobj	_	L-EVENT
+12	.	.	.	_	1	punct	_	O
+
+1	Lol	lol	UH	pos2=NNP	3	nmod	_	O
+2	#ScreamQueens	#screamqueens	GW	pos2=NNS	3	nmod	_	O
+3	https://t.co/wrHIGKr9hS	#hlink#	ADD	pos2=NN	0	root	_	O
+

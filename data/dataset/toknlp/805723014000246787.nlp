@@ -1,0 +1,24 @@
+1	OH	oh	UH	_	0	root	_	O
+2	NO	no	UH	pos2=DT	1	discourse	_	O
+3	!	!	.	_	1	punct	_	O
+
+1	The	the	DT	_	5	det	_	O
+2	Jeep	jeep	NNP	pos2=NN	8	nsubj	_	U-ORG
+3	Conveying	convey	VBG	pos2=NNP	2	acl	_	O
+4	Fidel	fidel	NNP	_	5	compound	_	B-PERSON
+5	Castro	castro	NNP	_	7	poss	_	I-PERSON
+6	's	's	POS	_	5	case	_	L-PERSON
+7	Ashes	ashes	NNP	pos2=NNPS	3	dobj	_	O
+8	Broke	break	VBD	pos2=NNP	0	root	_	O
+9	Down	down	NNP	pos2=RP	8	prt	_	O
+10	During	during	IN	pos2=NNP	8	prep	_	O
+11	Funeral	funeral	NNP	_	12	compound	_	B-WORK_OF_ART
+12	Procession	procession	NNP	pos2=NN	17	dep	_	L-WORK_OF_ART
+13	https://t.co/l0FeeqgCXS	#hlink#	ADD	pos2=NNP	15	compound	_	O
+14	Fidel	fidel	NNP	_	15	compound	_	B-PERSON
+15	Castro	castro	NNP	_	17	dep	_	L-PERSON
+16	,	,	,	_	17	punct	_	O
+17	News	news	NNP	pos2=NN	10	pobj	_	O
+18	,	,	,	_	15	punct	_	O
+19	politics	politics	NNS	_	15	appos	_	O
+

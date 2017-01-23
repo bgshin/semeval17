@@ -1,0 +1,29 @@
+1	@ROBO3	@robo0	NN	pos2=NNS	2	compound	_	O
+2	D	d	NN	pos2=NNP	4	dep	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	had	have	VBD	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	clog	clog	NN	pos2=JJ	4	dobj	_	O
+7	,	,	,	_	6	punct	_	O
+8	easy	easy	JJ	_	9	nmod	_	O
+9	fix	fix	NN	_	6	conj	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	Went	go	VBD	_	0	root	_	O
+2	back	back	RB	_	1	advmod	_	O
+3	to	to	TO	pos2=IN	2	prep	_	O
+4	printing	print	VBG	pos2=NN	3	pcomp	_	O
+5	all	all	DT	_	6	det	_	B-DATE
+6	day	day	NN	_	4	npadvmod	_	L-DATE
+7	.	.	.	_	1	punct	_	O
+
+1	Best	good	JJS	pos2=RBS	4	nmod	_	O
+2	3	0	CD	_	4	nmod	_	U-CARDINAL
+3	d	d	NN	pos2=NNS	4	compound	_	O
+4	printer	printer	NN	pos2=GW	0	root	_	O
+5	ever	ever	RB	_	4	advmod	_	O
+6	!	!	.	_	4	punct	_	O
+
+1	Thanks	thanks	NN	pos2=UH	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+

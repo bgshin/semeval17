@@ -1,0 +1,24 @@
+1	@crampell	@crampell	UH	pos2=XX	5	discourse	_	O
+2	@tripgabriel	@tripgabriel	UH	pos2=VB	5	discourse	_	O
+3	@nytimes	@nytimes	UH	pos2=IN	5	discourse	_	O
+4	she	she	PRP	_	5	nsubj	_	O
+5	goes	go	VBZ	_	0	root	_	O
+6	on	on	RP	pos2=RB	5	prt	_	O
+7	to	to	TO	_	8	aux	_	O
+8	say	say	VB	_	5	xcomp	_	O
+9	she	she	PRP	_	11	nsubj	_	O
+10	just	just	RB	_	11	advmod	_	O
+11	wants	want	VBZ	_	8	ccomp	_	O
+12	be	be	VB	_	13	auxpass	_	O
+13	grandfathered	grandfather	VBN	pos2=JJ	11	xcomp	_	O
+14	in	in	IN	pos2=RP	13	prep	_	O
+15	till	till	IN	_	17	mark	_	O
+16	she	she	PRP	_	17	nsubj	_	O
+17	's	's	VBZ	_	11	advcl	_	O
+18	medicare	medicare	NN	pos2=RBR	19	npadvmod	_	O
+19	eligible	eligible	JJ	_	17	acomp	_	O
+20	.	.	.	_	5	punct	_	O
+
+1	selfish	selfish	JJ	pos2=NN	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

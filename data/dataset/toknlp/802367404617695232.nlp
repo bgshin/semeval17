@@ -1,0 +1,20 @@
+1	anyway	anyway	UH	pos2=RB	2	discourse	_	O
+2	watch	watch	VB	pos2=VBP	0	root	_	O
+3	michael	michael	NNP	pos2=JJ	4	compound	_	B-PERSON
+4	moore	moore	NNP	pos2=NN	2	dobj	_	L-PERSON
+5	in	in	IN	_	2	prep	_	O
+6	trumpland	trumpland	NN	pos2=NNP	5	pobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	hear	hear	VB	_	2	advcl	_	O
+9	more	more	JJR	_	8	dobj	_	O
+10	about	about	IN	_	9	prep	_	O
+11	how	how	WRB	_	12	advmod	_	O
+12	hillary	hillary	JJ	pos2=PRP$	14	acomp	_	O
+13	clinton	clinton	NNP	pos2=NN	14	nsubj	_	O
+14	is	be	VBZ	_	10	pcomp	_	O
+15	amazing	amazing	JJ	_	14	acomp	_	O
+16	and	and	CC	_	14	cc	_	O
+17	we	we	PRP	_	18	nsubj	_	O
+18	failed	fail	VBD	_	14	conj	_	O
+19	her	her	PRP	pos2=PRP$	18	dobj	_	O
+

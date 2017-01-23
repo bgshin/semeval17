@@ -1,0 +1,21 @@
+1	When	when	WRB	_	4	advmod	_	O
+2	did	do	VBD	_	4	aux	_	O
+3	#Thanksgiving	#thanksgiving	VBG	pos2=NNP	4	nsubj	_	O
+4	turn	turn	VB	pos2=NN	0	root	_	O
+5	into	into	IN	_	4	prep	_	O
+6	Valentines	valentines	NNP	_	7	compound	_	B-DATE
+7	Day	day	NNP	_	5	pobj	_	L-DATE
+8	?	?	.	_	4	punct	_	O
+
+1	So	so	RB	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Many	many	JJ	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Couples	couple	NNS	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Pictures	picture	NNS	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

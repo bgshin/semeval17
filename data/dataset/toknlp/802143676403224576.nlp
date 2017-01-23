@@ -1,0 +1,18 @@
+1	Increasingly	increasingly	RB	_	2	advmod	_	O
+2	looks	look	VBZ	_	0	root	_	O
+3	like	like	IN	_	6	mark	_	O
+4	Russia	russia	NNP	_	3	pobj	_	U-GPE
+5	just	just	RB	_	6	advmod	_	O
+6	conducted	conduct	VBD	_	2	advcl	_	O
+7	a	a	DT	_	9	det	_	O
+8	sophisticated	sophisticated	JJ	_	9	nmod	_	O
+9	intel	intel	NN	pos2=NNP	6	dobj	_	O
+10	&	&	CC	_	9	cc	_	O
+11	propaganda	propaganda	NN	_	12	compound	_	O
+12	operation	operation	NN	_	9	conj	_	O
+13	of	of	IN	_	9	prep	_	O
+14	historic	historic	JJ	_	15	nmod	_	O
+15	significance	significance	NN	_	13	pobj	_	O
+16	…	…	NFP	pos2=-LRB-	9	cc	_	O
+17	https://t.co/4jlnI0SJyR	#hlink#	ADD	_	9	appos	_	O
+

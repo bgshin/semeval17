@@ -1,0 +1,16 @@
+1	3	0	CD	_	4	nmod	_	U-CARDINAL
+2	D	d	NNP	pos2=NN	4	compound	_	O
+3	Printing	printing	NNP	pos2=NN	4	compound	_	O
+4	Software	software	NNP	pos2=NN	0	root	_	O
+5	–	-	:	pos2=,	4	punct	_	O
+6	Who	who	WP	_	7	attr	_	O
+7	Are	be	VBP	_	4	relcl	_	O
+8	the	the	DT	_	10	det	_	O
+9	Main	main	NNP	pos2=JJ	10	compound	_	O
+10	Players	player	NNS	pos2=NNPS	7	nsubj	_	O
+11	?	?	.	_	7	punct	_	O
+
+1	-	-	SYM	pos2=GW	3	punct	_	O
+2	Nanalyze	nanalyze	NNP	pos2=GW	3	nmod	_	O
+3	https://t.co/kM5TKEUg0a	#hlink#	ADD	pos2=NN	0	root	_	O
+

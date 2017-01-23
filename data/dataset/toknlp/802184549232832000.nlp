@@ -1,0 +1,15 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@TomTolesToons	@tomtolestoons	NNS	pos2=ADD	2	nsubj	_	O
+2	gets	get	VBZ	_	0	root	_	O
+3	#TrumpTravesty	#trumptravesty	RB	pos2=JJ	2	advmod	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	#BlindTrustOrBust	#blindtrustorbust	ADD	pos2=XX	7	dep	_	O
+2	#NotMyPresidentElect	#notmypresidentelect	ADD	pos2=GW	7	dep	_	O
+3	#UniteBlue	#uniteblue	ADD	pos2=XX	7	dep	_	O
+4	#LibCrib	#libcrib	ADD	pos2=GW	7	nmod	_	O
+5	#FightTrump	#fighttrump	GW	pos2=ADD	7	nmod	_	O
+6	…	…	NFP	pos2=GW	7	punct	_	O
+7	https://t.co/9619xvHOLq	#hlink#	ADD	_	0	root	_	O
+

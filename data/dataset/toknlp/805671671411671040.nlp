@@ -1,0 +1,16 @@
+1	Is	be	VBZ	_	4	aux	_	O
+2	North	north	NNP	pos2=JJ	3	compound	_	B-GPE
+3	Dakota	dakota	NNP	_	7	nmod	_	L-GPE
+4	fracking	fracking	VBG	pos2=NN	0	root	_	O
+5	out	out	IN	_	4	prep	_	O
+6	of	of	IN	_	5	prep	_	O
+7	control	control	NN	_	6	pobj	_	O
+8	?	?	.	_	4	punct	_	O
+
+1	✋	✋	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/7PP7xRGQPN	#hlink#	ADD	_	0	root	_	O
+3	#energy	#energy	-RRB-	pos2=UH	2	punct	_	O
+4	#oil	#oil	UH	pos2=GW	2	discourse	_	O
+5	#fracking	#fracking	VBG	pos2=UH	6	nmod	_	O
+6	https://t.co/usF1licUjw	#hlink#	ADD	pos2=NN	2	dep	_	O
+

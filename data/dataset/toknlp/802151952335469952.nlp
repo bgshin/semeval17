@@ -1,0 +1,15 @@
+1	Got	get	VBD	_	0	root	_	O
+2	my	my	PRP$	_	3	poss	_	O
+3	mom	mom	NN	_	4	nsubj	_	O
+4	hooked	hook	VBD	pos2=VBN	1	ccomp	_	O
+5	on	on	IN	pos2=RP	4	prep	_	O
+6	#ThisIsUs	#thisisus	NNP	pos2=NN	5	pobj	_	U-ORG
+7	.	.	.	_	1	punct	_	O
+
+1	Binge	binge	NN	pos2=JJ	3	compound	_	O
+2	watch	watch	NN	pos2=VB	3	compound	_	B-DATE
+3	weekend	weekend	NN	_	0	root	_	L-DATE
+4	.	.	.	_	3	punct	_	O
+
+1	❤️	❤️	SYM	pos2=NFP	0	root	_	U-ORG
+

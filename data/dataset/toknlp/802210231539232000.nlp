@@ -1,0 +1,27 @@
+1	@petestavros	@petestavros	UH	pos2=NNS	0	root	_	O
+2	@megynkelly	@megynkelly	UH	pos2=RB	1	discourse	_	O
+3	....	..	.	_	1	punct	_	O
+
+1	then	then	RB	_	6	advmod	_	O
+2	do	do	VB	pos2=VBP	6	aux	_	O
+3	n't	not	RB	_	6	neg	_	O
+4	just	just	RB	_	6	advmod	_	O
+5	simply	simply	RB	_	6	advmod	_	O
+6	brand	brand	VBP	pos2=VB	0	root	_	O
+7	everyone	everyone	NN	_	6	dobj	_	O
+8	and	and	CC	_	7	cc	_	O
+9	anyone	anyone	NN	_	7	conj	_	O
+10	who	who	WP	_	11	nsubj	_	O
+11	disagrees	disagree	VBZ	pos2=VBP	9	relcl	_	O
+12	with	with	IN	_	11	prep	_	O
+13	you	you	PRP	_	12	pobj	_	O
+14	as	as	IN	_	11	prep	_	O
+15	a	a	DT	_	17	det	_	O
+16	"	"	``	_	17	punct	_	O
+17	hater	hater	NN	_	14	pobj	_	O
+18	"	"	''	_	17	punct	_	O
+19	in	in	IN	_	17	prep	_	O
+20	a	a	DT	_	21	det	_	O
+21	generalization	generalization	NN	_	19	pobj	_	O
+22	!	!	.	_	6	punct	_	O
+

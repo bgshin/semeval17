@@ -1,0 +1,10 @@
+1	@MLP_officiel	@mlp_officiel	``	pos2=NNP	4	punct	_	O
+2	Do	do	VB	pos2=VBP	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	stop	stop	VB	_	0	root	_	O
+5	fighting	fight	VBG	_	4	xcomp	_	O
+6	Marine	marine	NNP	_	8	compound	_	B-ORG
+7	Le	le	NNP	_	8	compound	_	I-ORG
+8	Pen	pen	NNP	_	5	dobj	_	L-ORG
+9	!!!	!!	.	_	4	punct	_	O
+

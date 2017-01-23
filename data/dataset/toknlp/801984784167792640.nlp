@@ -1,0 +1,19 @@
+1	Sheriff	sheriff	NNP	pos2=NN	2	compound	_	O
+2	Clarke	clarke	NNP	_	3	nsubj	_	U-PERSON
+3	Crushes	crush	VBZ	pos2=NNP	0	root	_	O
+4	Obama	obama	NNP	_	3	dobj	_	U-PERSON
+5	For	for	IN	_	3	prep	_	O
+6	Failing	fail	VBG	pos2=NNP	5	pcomp	_	O
+7	To	to	IN	pos2=TO	8	aux	_	O
+8	Calm	calm	VB	pos2=NNP	6	xcomp	_	O
+9	Down	down	RP	pos2=RB	8	prt	_	O
+10	Anti-Trump	anti-trump	JJ	pos2=NNP	11	nmod	_	U-CARDINAL
+11	Riots	riot	NNS	pos2=NNPS	8	dobj	_	O
+12	[	[	-LRB-	_	13	punct	_	O
+13	Video	video	NN	pos2=NNP	18	dep	_	O
+14	]	]	-RRB-	_	13	punct	_	O
+15	–	-	HYPH	pos2=:	18	punct	_	O
+16	Conservative	conservative	JJ	pos2=NNP	18	nmod	_	O
+17	101	0	CD	pos2=GW	18	dep	_	B-CARDINAL
+18	https://t.co/i2VLyOj1dQ	#hlink#	ADD	pos2=NN	3	dep	_	L-CARDINAL
+

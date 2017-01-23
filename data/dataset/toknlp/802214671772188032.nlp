@@ -1,0 +1,19 @@
+1	#Injustice	#injustice	NNP	pos2=NN	0	root	_	U-GPE
+2	for	for	IN	_	1	prep	_	O
+3	#Children	#children	NNP	pos2=NNS	2	pobj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	#Caliphate	#caliphate	NNP	pos2=NN	4	pobj	_	U-ORG
+7	and	and	CC	_	1	cc	_	O
+8	those	those	DT	_	13	det	_	O
+9	displaced	displace	VBN	_	8	acl	_	O
+10	by	by	IN	_	9	agent	_	O
+11	#ISIS	#isis	NNP	pos2=NN	10	pobj	_	U-ORG
+12	left	left	JJ	pos2=VBD	13	nmod	_	O
+13	stateless	stateless	JJ	pos2=NN	1	conj	_	O
+14	.	.	.	_	13	punct	_	O
+
+1	#humanrights	#humanrights	UH	pos2=NNS	3	discourse	_	O
+2	#citizenship	#citizenship	UH	pos2=NFP	3	discourse	_	O
+3	https://t.co/wg9o6yGElr	#hlink#	ADD	pos2=UH	0	root	_	O
+

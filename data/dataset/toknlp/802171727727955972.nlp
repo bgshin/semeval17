@@ -1,0 +1,13 @@
+1	Poroshenko	poroshenko	NNP	pos2=FW	3	nsubjpass	_	U-PERSON
+2	was	be	VBD	_	3	auxpass	_	O
+3	allowed	allow	VBN	_	12	ccomp	_	O
+4	to	to	TO	pos2=IN	5	aux	_	O
+5	fine	fine	VB	_	3	xcomp	_	O
+6	the	the	DT	_	7	det	_	O
+7	TV	tv	NN	_	5	dobj	_	O
+8	for	for	IN	_	5	prep	_	O
+9	separatism	separatism	NN	_	8	pobj	_	O
+10	-	-	:	pos2=GW	12	punct	_	O
+11	https://t.co/rO415QXRgH	#hlink#	ADD	_	12	nmod	_	O
+12	https://t.co/HQXm6wMD2j	#hlink#	ADD	_	0	root	_	U-ORG
+

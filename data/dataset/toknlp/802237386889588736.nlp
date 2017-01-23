@@ -1,0 +1,27 @@
+1	Obama	obama	NNP	_	2	nsubj	_	U-PERSON
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	greatest	great	JJS	_	5	nmod	_	O
+5	POTUS	potus	NN	pos2=NNP	2	attr	_	O
+6	so	so	RB	pos2=IN	7	advmod	_	O
+7	sad	sad	JJ	_	5	nmod	_	O
+8	Trump	trump	NNP	pos2=NN	12	nsubjpass	_	U-PERSON
+9	will	will	MD	_	12	aux	_	O
+10	always	always	RB	_	12	advmod	_	O
+11	be	be	VB	_	12	auxpass	_	O
+12	pictured	picture	VBN	_	2	conj	_	O
+13	beside	beside	IN	_	12	prep	_	O
+14	him	him	PRP	_	13	pobj	_	O
+15	in	in	IN	_	12	prep	_	O
+16	history	history	NN	_	15	pobj	_	O
+17	.	.	.	_	12	punct	_	O
+
+1	Trump	trump	NN	pos2=NNP	2	nsubj	_	U-ORG
+2	is	be	VBZ	_	0	root	_	O
+3	n't	not	RB	_	2	neg	_	O
+4	worthy	worthy	JJ	_	2	acomp	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/KiT8440acj	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,26 @@
+1	@oldandrewuk	@oldandrewuk	UH	pos2=``	4	discourse	_	O
+2	We	we	PRP	_	4	nsubj	_	O
+3	've	have	VBP	_	4	aux	_	O
+4	had	have	VBN	pos2=VBD	0	root	_	O
+5	North	north	NNP	_	6	compound	_	B-GPE
+6	Korea	korea	NNP	_	4	dobj	_	L-GPE
+7	,	,	,	_	6	punct	_	O
+8	Fidel	fidel	NNP	_	9	compound	_	B-PERSON
+9	Castro	castro	NNP	_	6	conj	_	L-PERSON
+10	and	and	CC	_	9	cc	_	O
+11	neo	neo	NN	pos2=JJ	13	npadvmod	_	O
+12	-	-	HYPH	_	13	punct	_	O
+13	pagan	pagan	JJ	_	14	nmod	_	O
+14	cults	cult	NNS	_	9	conj	_	O
+15	.	.	.	_	4	punct	_	O
+
+1	Some	some	DT	_	2	det	_	O
+2	wags	wag	NNS	_	5	nsubjpass	_	O
+3	have	have	VBP	_	5	aux	_	O
+4	been	be	VBN	_	5	auxpass	_	O
+5	condemned	condemn	VBN	_	0	root	_	O
+6	more	more	RBR	pos2=JJR	5	advmod	_	O
+7	than	than	IN	_	6	prep	_	O
+8	others	other	NNS	_	7	pobj	_	O
+9	.	.	.	_	5	punct	_	O
+

@@ -1,0 +1,24 @@
+1	@MayaInTheSkyah	@mayaintheskyah	UH	pos2=NNP	0	root	_	O
+2	Something	something	NN	_	1	dobj	_	O
+3	about	about	IN	_	2	prep	_	O
+4	this	this	DT	_	5	det	_	O
+5	kid	kid	NN	_	3	pobj	_	O
+6	who	who	WP	_	7	nsubj	_	O
+7	's	's	VBZ	_	5	relcl	_	O
+8	bad	bad	JJ	pos2=RB	7	acomp	_	O
+9	at	at	IN	_	7	prep	_	O
+10	baseball	baseball	NN	_	9	pobj	_	O
+11	but	but	CC	_	8	cc	_	O
+12	good	good	JJ	pos2=NN	8	conj	_	O
+13	at	at	IN	_	12	prep	_	O
+14	building	build	VBG	pos2=NN	13	pcomp	_	O
+15	robots	robot	NNS	_	14	dobj	_	O
+16	.	.	.	_	15	prt	_	O
+
+1	Then	then	RB	_	5	advmod	_	O
+2	a	a	DT	_	3	det	_	O
+3	book	book	NN	_	0	root	_	O
+4	on	on	IN	_	3	prep	_	O
+5	space	space	NN	_	4	pobj	_	O
+6	.	.	.	_	3	punct	_	O
+

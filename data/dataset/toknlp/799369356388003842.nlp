@@ -1,0 +1,12 @@
+1	This	this	DT	_	3	nsubj	_	O
+2	will	will	MD	_	3	aux	_	O
+3	settle	settle	VB	_	0	root	_	O
+4	it	it	PRP	_	3	dobj	_	O
+5	once	once	RB	_	3	advmod	_	O
+6	and	and	CC	_	3	cc	_	O
+7	for	for	IN	_	5	conj	_	O
+8	all	all	DT	pos2=RB	7	pobj	_	O
+9	...	..	.	pos2=,	3	punct	_	O
+
+1	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=UH	0	root	_	U-DATE
+

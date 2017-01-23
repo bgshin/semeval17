@@ -1,0 +1,13 @@
+1	Michael	michael	NNP	_	2	compound	_	B-PERSON
+2	Moore	moore	NNP	_	5	nsubj	_	L-PERSON
+3	would	would	MD	_	5	aux	_	O
+4	have	have	VB	_	5	aux	_	O
+5	corrected	correct	VBN	_	0	root	_	O
+6	it	it	PRP	_	5	dobj	_	O
+7	the	the	DT	_	9	det	_	O
+8	same	same	JJ	_	9	nmod	_	O
+9	way	way	NN	_	5	npadvmod	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	https://t.co/NWbIZp0pP3	#hlink#	ADD	_	0	root	_	U-ORG
+

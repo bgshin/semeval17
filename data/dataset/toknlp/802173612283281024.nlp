@@ -1,0 +1,27 @@
+1	Its	its	PRP$	pos2=VBZ	3	poss	_	O
+2	a	a	DT	_	3	det	_	O
+3	travesty	travesty	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Votes	vote	NNS	pos2=VBZ	8	nsubjpass	_	O
+2	in	in	IN	_	1	prep	_	O
+3	swing	swing	NN	_	4	compound	_	O
+4	states	state	NNS	_	2	pobj	_	O
+5	may	may	MD	_	8	aux	_	O
+6	have	have	VB	_	8	aux	_	O
+7	been	be	VBN	_	8	auxpass	_	O
+8	tampered	tamper	VBN	_	0	root	_	O
+9	with	with	IN	_	8	prep	_	O
+10	&	&	CC	pos2=JJ	8	cc	_	O
+11	audit	audit	NN	_	13	nsubjpass	_	O
+12	is	be	VBZ	_	13	auxpass	_	O
+13	needed	need	VBN	_	8	conj	_	O
+14	2	0	CD	pos2=TO	21	dep	_	U-CARDINAL
+15	make	make	VB	pos2=VBP	13	advcl	_	O
+16	sure	sure	JJ	_	21	dep	_	O
+17	election	election	NN	_	18	compound	_	O
+18	outcome	outcome	NN	_	19	compound	_	O
+19	ac	ac	NN	pos2=GW	21	dep	_	O
+20	…	…	NFP	pos2=-LRB-	21	punct	_	O
+21	https://t.co/DrKFi2O0St	#hlink#	ADD	_	13	dep	_	O
+

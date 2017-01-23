@@ -1,0 +1,27 @@
+1	almost	almost	RB	_	2	advmod	_	O
+2	every	every	DT	_	3	nmod	_	O
+3	hour	hour	NN	_	5	npadvmod	_	O
+4	we	we	PRP	_	5	nsubj	_	O
+5	find	find	VBP	pos2=VB	0	root	_	O
+6	out	out	RP	_	5	prt	_	O
+7	how	how	WRB	_	8	advmod	_	O
+8	dirty	dirty	JJ	_	10	acomp	_	O
+9	comey	comey	NNP	pos2=NN	10	nsubj	_	U-PERSON
+10	was	be	VBD	_	5	ccomp	_	O
+11	and	and	CC	_	10	cc	_	O
+12	rudy	rudy	NN	pos2=NNP	10	conj	_	O
+13	and	and	CC	_	12	cc	_	O
+14	the	the	DT	_	16	det	_	O
+15	dirty	dirty	JJ	_	16	nmod	_	O
+16	agents	agent	NNS	_	12	conj	_	O
+17	they	they	PRP	_	18	nsubj	_	O
+18	knew	know	VBD	_	10	conj	_	O
+19	abount	abount	JJ	pos2=NN	20	nmod	_	O
+20	putin	putin	NNP	pos2=NN	18	dobj	_	U-PERSON
+21	and	and	CC	_	18	cc	_	O
+22	did	do	VBD	_	18	conj	_	O
+23	nothing	nothing	NN	_	22	dobj	_	O
+24	and	and	CC	pos2=IN	23	cc	_	O
+25	fake	fake	JJ	_	26	nmod	_	O
+26	emails	email	NNS	_	23	conj	_	O
+

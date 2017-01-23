@@ -1,0 +1,8 @@
+1	#DeepLearning	#deeplearning	VBG	pos2=IN	5	advcl	_	B-ORG
+2	Key	key	NNP	pos2=JJ	3	compound	_	I-ORG
+3	Terms	term	NNPS	pos2=NNS	1	dobj	_	L-ORG
+4	,	,	,	_	5	punct	_	O
+5	Explained	explain	VBD	pos2=VBN	0	root	_	O
+6	#KDN	#kdn	IN	pos2=GW	5	prep	_	O
+7	https://t.co/NXkynvpCfU	#hlink#	ADD	pos2=NN	6	pobj	_	U-ORG
+

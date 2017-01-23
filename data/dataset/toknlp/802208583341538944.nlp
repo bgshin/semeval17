@@ -1,0 +1,24 @@
+1	@OverworldTNTPig	@overworldtntpig	ADD	pos2=XX	2	compound	_	B-PERSON
+2	@lloyd_burgett	@lloyd_burgett	NNP	pos2=PRP	5	nsubj	_	L-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	she	she	PRP	_	2	conj	_	O
+5	does	do	VBZ	_	0	root	_	O
+6	now	now	RB	_	5	advmod	_	O
+7	,	,	,	_	5	punct	_	O
+8	more	more	JJR	pos2=RBR	5	discourse	_	O
+9	than	than	IN	_	8	prep	_	O
+10	mike	mike	NNP	pos2=JJ	15	nmod	_	U-PERSON
+11	"	"	``	pos2=POS	15	punct	_	O
+12	conversion	conversion	NN	_	13	compound	_	O
+13	therapy	therapy	NN	_	15	nmod	_	O
+14	"	"	''	_	15	punct	_	O
+15	pence	penny	NNS	pos2=NN	9	pobj	_	O
+16	.	.	.	_	5	punct	_	O
+
+1	Keep	keep	VB	_	0	root	_	O
+2	deflecting	deflect	VBG	_	1	xcomp	_	O
+3	your	your	PRP$	_	5	poss	_	O
+4	bad	bad	JJ	_	5	nmod	_	O
+5	candidate	candidate	NN	_	2	dobj	_	O
+6	though	though	IN	pos2=RB	2	advmod	_	O
+

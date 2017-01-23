@@ -1,0 +1,24 @@
+1	@shadychatterly	@shadychatterly	UH	pos2=RB	6	discourse	_	O
+2	@docrocktex26	@docrocktex0	NN	pos2=CD	3	compound	_	O
+3	@JaykeJacobs	@jaykejacobs	NNS	pos2=ADD	23	dep	_	O
+4	@JTheJudge	@jthejudge	NNP	pos2=VBP	5	compound	_	O
+5	Reagan	reagan	NNP	_	6	nsubj	_	U-PERSON
+6	was	be	VBD	_	0	root	_	O
+7	nt	nt	RB	pos2=VBN	6	advmod	_	O
+8	for	for	IN	_	6	prep	_	O
+9	gun	gun	NN	_	10	compound	_	O
+10	control	control	NN	_	8	pobj	_	O
+11	then	then	RB	pos2=IN	13	advmod	_	O
+12	he	he	PRP	_	13	nsubj	_	O
+13	saw	see	VBD	_	6	conj	_	O
+14	some	some	DT	_	16	det	_	O
+15	Blk	blk	NNP	pos2=NN	16	compound	_	B-ORG
+16	Panthers	panther	NNPS	pos2=NNS	13	dobj	_	L-ORG
+17	with	with	IN	_	16	prep	_	O
+18	guns	gun	NNS	_	17	pobj	_	O
+19	,	,	,	_	23	punct	_	O
+20	then	then	RB	_	23	advmod	_	O
+21	he	he	PRP	_	23	nsubjpass	_	O
+22	was	be	VBD	_	23	auxpass	_	O
+23	forit	forit	VBN	pos2=JJ	0	root	_	O
+

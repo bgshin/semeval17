@@ -1,0 +1,30 @@
+1	No	no	UH	pos2=DT	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	What	what	WP	pos2=WDT	2	nsubj	_	O
+2	sets	set	VBZ	_	5	csubj	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	apart	apart	RB	_	2	advmod	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	that	that	IN	_	8	mark	_	O
+7	you	you	PRP	_	8	nsubj	_	O
+8	're	be	VBP	_	5	ccomp	_	O
+9	such	such	JJ	_	10	nmod	_	O
+10	hypocrites	hypocrite	NNS	_	8	attr	_	O
+11	.	.	.	_	5	punct	_	O
+
+1	Now	now	RB	_	2	advmod	_	O
+2	allow	allow	VB	pos2=VBP	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	peaceful	peaceful	JJ	_	5	nmod	_	O
+5	transition	transition	NN	_	2	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	power	power	NN	_	6	pobj	_	O
+8	to	to	IN	pos2=TO	5	prep	_	O
+9	#Trump	#trump	NNP	pos2=VB	8	pobj	_	U-GPE
+10	.	.	.	_	2	punct	_	O
+
+1	Typical	typical	JJ	_	3	nmod	_	O
+2	…	…	NFP	pos2=-LRB-	3	punct	_	O
+3	https://t.co/jGfs4EgQaX	#hlink#	ADD	pos2=NN	0	root	_	O
+

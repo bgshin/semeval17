@@ -1,0 +1,8 @@
+1	She	she	PRP	_	2	nsubj	_	O
+2	won	win	VBD	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	popular	popular	JJ	_	5	nmod	_	O
+5	vote	vote	NN	pos2=GW	2	dobj	_	O
+6	https://t.co/uaRbIWimVM	#hlink#	ADD	_	7	nmod	_	O
+7	https://t.co/xsQf0x6V8F	#hlink#	ADD	_	2	dep	_	U-ORG
+

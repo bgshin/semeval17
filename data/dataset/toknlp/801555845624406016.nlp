@@ -1,0 +1,24 @@
+1	Kim	kim	NNP	pos2=NN	5	vocative	_	U-PERSON
+2	fatty	fatty	JJ	pos2=VBD	7	advmod	_	O
+3	the	the	DT	_	4	det	_	O
+4	third	#ord#	JJ	pos2=NN	5	nsubj	_	U-ORDINAL
+5	is	be	VBZ	_	0	root	_	O
+6	the	the	DT	_	9	det	_	O
+7	most	most	RBS	_	8	advmod	_	O
+8	hilarious	hilarious	JJ	_	9	nmod	_	O
+9	nickname	nickname	NN	_	5	attr	_	O
+10	I	I	PRP	_	13	nsubj	_	O
+11	've	have	VBP	_	13	aux	_	O
+12	ever	ever	RB	_	13	advmod	_	O
+13	heard	hear	VBN	_	9	relcl	_	O
+14	for	for	IN	_	13	prep	_	O
+15	North	north	NNP	_	16	compound	_	B-GPE
+16	Korea	korea	NNP	_	17	compound	_	L-GPE
+17	Leader	leader	NNP	pos2=NN	14	pobj	_	O
+18	lol	lol	UH	pos2=NNP	5	discourse	_	O
+19	.	.	.	_	5	punct	_	O
+
+1	#fatbastard	#fatbastard	UH	pos2=XX	3	discourse	_	O
+2	#layoffthecarbs	#layoffthecarbs	UH	pos2=FW	3	discourse	_	O
+3	#probablyavirgin	#probablyavirgin	UH	pos2=NN	0	root	_	O
+

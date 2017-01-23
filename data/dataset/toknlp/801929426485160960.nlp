@@ -1,0 +1,11 @@
+1	@JETSpls	@jetspls	NNP	pos2=NNS	3	compound	_	O
+2	Grayson	grayson	NNP	_	3	compound	_	B-PERSON
+3	Allen	allen	NNP	_	4	nsubj	_	L-PERSON
+4	is	be	VBZ	_	0	root	_	O
+5	a	a	DT	_	7	det	_	O
+6	better	good	JJR	pos2=RBR	7	nmod	_	O
+7	fit	fit	NN	pos2=VBN	4	attr	_	O
+8	for	for	IN	_	7	prep	_	O
+9	you	you	PRP	_	10	nmod	_	O
+10	guys	guy	NNS	_	8	pobj	_	O
+

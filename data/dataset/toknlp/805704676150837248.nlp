@@ -1,0 +1,13 @@
+1	Hollywood	hollywood	NNP	_	3	compound	_	B-EVENT
+2	Anti-Gun	anti-gun	NNP	pos2=JJ	3	compound	_	I-EVENT
+3	Control	control	NNP	pos2=NN	6	dep	_	I-EVENT
+4	“	"	''	pos2=``	6	punct	_	I-EVENT
+5	Agenda	agenda	NNP	pos2=NN	6	compound	_	I-EVENT
+6	Film	film	NNP	pos2=NN	12	dep	_	I-EVENT
+7	”	"	''	pos2=``	6	punct	_	L-EVENT
+8	a	a	DT	_	10	det	_	O
+9	MASSIVE	massive	JJ	_	10	nmod	_	O
+10	FLOP	flop	NN	pos2=GW	12	dep	_	O
+11	https://t.co/6RkHGQdfjX	#hlink#	ADD	_	12	nmod	_	O
+12	https://t.co/IycSVwLsMm	#hlink#	ADD	_	0	root	_	U-ORG
+

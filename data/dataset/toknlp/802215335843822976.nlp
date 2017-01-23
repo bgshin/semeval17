@@ -1,0 +1,25 @@
+1	―	―	NFP	pos2=VB	5	punct	_	O
+2	if	if	IN	_	4	mark	_	O
+3	only.►	only.►	NFP	pos2=PRP$	5	punct	_	O
+4	happy	happy	JJ	_	5	nmod	_	O
+5	thanksgiving	thanksgiving	NN	pos2=VBG	0	root	_	O
+6	everyone	everyone	NN	_	5	vocative	_	O
+7	!	!	.	_	1	punct	_	O
+
+1	🦃❤►	🦃❤►	NNP	pos2=SYM	3	nmod	_	O
+2	cc	cc	FW	pos2=NN	3	nmod	_	O
+3	hell	hell	NN	pos2=NNP	8	poss	_	O
+4	's	's	POS	pos2=VBZ	3	case	_	O
+5	canary►	canary►	NN	pos2=JJ	6	compound	_	O
+6	ac	ac	NN	pos2=JJ	0	root	_	O
+7	twin	twin	JJ	pos2=NN	8	nmod	_	O
+8	audio	audio	NN	_	6	appos	_	O
+9	...	..	.	pos2=,	1	punct	_	O
+
+1	(	(	-LRB-	_	6	punct	_	O
+2	Vine	vine	NNP	pos2=NN	6	dep	_	U-ORG
+3	by	by	IN	_	2	prep	_	O
+4	@marvelxjane	@marvelxjane	GW	pos2=NNP	3	pobj	_	O
+5	)	)	-RRB-	pos2=GW	6	nmod	_	O
+6	https://t.co/ZrabZHDBva	#hlink#	ADD	pos2=NN	0	root	_	O
+

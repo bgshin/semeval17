@@ -1,0 +1,20 @@
+1	After	after	IN	pos2=RB	3	mark	_	O
+2	#Uber	#uber	NNP	pos2=NN	3	nsubj	_	U-PERSON
+3	came	come	VBD	_	9	advcl	_	O
+4	with	with	IN	_	3	prep	_	O
+5	#	#	NN	pos2=$	7	compound	_	U-CARDINAL
+6	UberWEDDINGS	uberweddings	NNP	pos2=NNS	7	compound	_	B-ORG
+7	#Ola	#ola	NNP	pos2=ADD	4	pobj	_	L-ORG
+8	will	will	MD	_	9	aux	_	O
+9	let	let	VB	_	0	root	_	O
+10	you	you	PRP	_	11	nsubj	_	O
+11	listen	listen	VB	_	9	ccomp	_	O
+12	to	to	IN	_	11	prep	_	O
+13	#AppleMusic	#applemusic	NNP	pos2=ADD	12	pobj	_	U-GPE
+14	,	,	,	_	15	punct	_	O
+15	Watch	watch	VB	pos2=NNP	9	conj	_	O
+16	#SonyLIV	#sonyliv	NNP	pos2=XX	17	compound	_	O
+17	Movies	movie	NNS	pos2=NNPS	15	dobj	_	O
+18	…	…	NFP	pos2=-LRB-	19	punct	_	O
+19	https://t.co/delHI2O9MT	#hlink#	ADD	_	15	npadvmod	_	O
+

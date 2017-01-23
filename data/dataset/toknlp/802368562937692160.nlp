@@ -1,0 +1,26 @@
+1	The	the	DT	_	3	det	_	O
+2	two	#crd#	CD	_	3	nmod	_	U-CARDINAL
+3	concepts	concept	NNS	_	16	nsubj	_	O
+4	1.	0.	LS	pos2=CD	6	meta	_	U-CARDINAL
+5	Clinton	clinton	NNP	_	6	nsubj	_	U-PERSON
+6	blew	blow	VBD	_	3	advcl	_	O
+7	her	her	PRP$	_	8	poss	_	O
+8	election	election	NN	_	6	dobj	_	O
+9	;	;	,	pos2=:	6	punct	_	O
+10	2.	0.	LS	pos2=CD	12	meta	_	U-CARDINAL
+11	Comey	comey	NNP	_	12	nsubj	_	O
+12	cost	cost	VBD	pos2=NN	6	conj	_	O
+13	Clinton	clinton	NNP	_	12	dative	_	U-PERSON
+14	the	the	DT	_	15	det	_	O
+15	election	election	NN	_	12	dobj	_	O
+16	are	be	VBP	_	0	root	_	O
+17	not	not	RB	_	16	neg	_	O
+18	contradictory	contradictory	JJ	_	16	acomp	_	O
+19	at	at	RB	_	20	advmod	_	O
+20	all	all	RB	_	16	advmod	_	O
+21	.	.	.	_	16	punct	_	O
+
+1	Why	why	WRB	_	3	advmod	_	O
+2	…	…	NFP	pos2=-LRB-	3	punct	_	O
+3	https://t.co/YvJsI9o9Qy	#hlink#	ADD	_	0	root	_	O
+

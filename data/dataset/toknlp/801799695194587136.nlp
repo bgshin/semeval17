@@ -1,0 +1,24 @@
+1	Evidently	evidently	RB	_	5	advmod	_	O
+2	@noclador	@noclador	PRP	pos2=EX	5	poss	_	O
+3	's	's	POS	pos2=VBZ	2	case	_	O
+4	dramatic	dramatic	JJ	_	5	nmod	_	O
+5	gain	gain	NN	_	13	nsubj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	about	about	IN	pos2=RB	8	advmod	_	B-CARDINAL
+8	1k	0k	CD	pos2=NN	9	nmod	_	L-CARDINAL
+9	followers	follower	NNS	_	6	pobj	_	O
+10	in	in	IN	_	5	prep	_	O
+11	9	0	CD	_	12	nmod	_	B-DATE
+12	days	day	NNS	_	10	pobj	_	L-DATE
+13	is	be	VBZ	_	0	root	_	O
+14	not	not	RB	_	13	neg	_	O
+15	organicDid	organicdid	IN	pos2=JJ	17	mark	_	O
+16	he	he	PRP	_	17	nsubj	_	O
+17	buy	buy	VBP	pos2=VB	13	ccomp	_	O
+18	fake	fake	JJ	_	19	nmod	_	O
+19	followers	follower	NNS	_	17	dobj	_	O
+20	?	?	.	_	13	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/eyoFOxHytk	#hlink#	ADD	pos2=NN	0	root	_	O
+

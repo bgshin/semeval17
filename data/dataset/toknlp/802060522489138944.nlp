@@ -1,0 +1,10 @@
+1	This	this	DT	_	3	det	_	B-DATE
+2	weeks	week	NNS	pos2=VBZ	3	compound	_	L-DATE
+3	obsession	obsession	NN	_	8	dep	_	O
+4	:	:	:	_	8	punct	_	O
+5	David	david	NNP	_	6	compound	_	B-PERSON
+6	Blaine	blaine	NNP	_	8	compound	_	L-PERSON
+7	street	street	NN	pos2=NNP	8	compound	_	O
+8	magic	magic	NN	_	0	root	_	O
+9	.	.	.	_	8	punct	_	O
+

@@ -1,0 +1,23 @@
+1	Kim	kim	NNP	_	3	compound	_	B-PERSON
+2	Jong	jong	NNP	_	3	compound	_	I-PERSON
+3	Un	un	NNP	_	6	nsubj	_	L-PERSON
+4	does	do	VBZ	_	6	aux	_	O
+5	n’t	not	RB	_	6	neg	_	O
+6	like	like	VB	pos2=IN	0	root	_	O
+7	being	be	VBG	_	8	auxpass	_	O
+8	called	call	VBN	_	6	xcomp	_	O
+9	‘	'	''	pos2=``	6	punct	_	O
+10	Kim	kim	NNP	_	11	compound	_	B-PERSON
+11	Fatty	fatty	NNP	_	8	oprd	_	L-PERSON
+12	the	the	DT	_	13	det	_	O
+13	Third’Compains	third'compains	NNPS	pos2=NNP	8	oprd	_	U-NORP
+14	to	to	IN	_	13	prep	_	O
+15	China	china	NNP	_	14	pobj	_	U-GPE
+16	...	..	.	_	6	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	censor	censor	VBP	pos2=NN	0	root	_	O
+3	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/szfHN5Auh1	#hlink#	ADD	_	0	root	_	U-ORG
+

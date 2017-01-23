@@ -1,0 +1,20 @@
+1	"	"	``	pos2=SYM	2	punct	_	O
+2	Hafta	hafta	NN	pos2=NNP	11	dep	_	O
+3	96	0	CD	_	2	nmod	_	U-CARDINAL
+4	:	:	:	_	11	punct	_	O
+5	#NabhaJailbreak	#nabhajailbreak	NN	pos2=NNP	11	npadvmod	_	O
+6	,	,	,	_	11	punct	_	O
+7	Congress	congress	NNP	_	10	poss	_	U-ORG
+8	's	's	POS	_	7	case	_	O
+9	Twitter	twitter	NNP	_	10	compound	_	O
+10	handle	handle	NN	pos2=VB	11	nsubj	_	O
+11	hacked	hack	VBN	pos2=VBD	0	root	_	O
+12	and	and	CC	_	11	cc	_	O
+13	Fidel	fidel	NNP	_	14	compound	_	B-PERSON
+14	Castro	castro	NNP	_	19	dep	_	L-PERSON
+15	|	|	SYM	pos2=,	19	punct	_	O
+16	Newslaundry	newslaundry	NNP	_	19	dep	_	U-NORP
+17	"	"	GW	pos2=''	19	punct	_	O
+18	https://t.co/VJzTOfIzdz	#hlink#	ADD	pos2=GW	19	nmod	_	O
+19	https://t.co/TilDbsGObW	#hlink#	ADD	_	11	conj	_	U-ORG
+

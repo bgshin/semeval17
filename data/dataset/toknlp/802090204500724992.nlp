@@ -1,0 +1,15 @@
+1	The	the	DT	_	4	det	_	B-ORG
+2	Daily	daily	NNP	_	4	compound	_	I-ORG
+3	Squib	squib	NNP	pos2=NN	4	compound	_	I-ORG
+4	Guide	guide	NNP	pos2=NN	14	dep	_	L-ORG
+5	to	to	IN	_	4	prep	_	O
+6	#Syria	#syria	NNP	pos2=NFP	7	compound	_	B-WORK_OF_ART
+7	Crisis	crisis	NNP	pos2=NN	5	pobj	_	L-WORK_OF_ART
+8	https://t.co/srXI6WMFTv	#hlink#	ADD	_	14	dep	_	O
+9	#isis	#isis	-RRB-	pos2=VBZ	8	punct	_	O
+10	#isil	#isil	UH	pos2=-RRB-	14	dep	_	O
+11	#Hezbollah	#hezbollah	NNP	pos2=UH	14	nmod	_	U-PERSON
+12	#AlQassas	#alqassas	GW	pos2=NNS	14	nmod	_	O
+13	#FarouqBrigades	#farouqbrigades	ADD	pos2=GW	14	nmod	_	O
+14	https://t.co/V59n7GtMoO	#hlink#	ADD	_	0	root	_	O
+

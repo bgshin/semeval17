@@ -1,0 +1,27 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	remember	remember	VBP	_	0	root	_	O
+3	Muhammad	muhammad	NNP	_	4	compound	_	B-PERSON
+4	Ali	ali	NNP	_	2	dobj	_	L-PERSON
+5	,	,	,	_	2	punct	_	O
+6	after	after	IN	_	8	mark	_	O
+7	he	he	PRP	_	8	nsubj	_	O
+8	lost	lose	VBD	_	2	advcl	_	O
+9	to	to	IN	_	8	prep	_	O
+10	Ken	ken	NNP	_	11	compound	_	B-PERSON
+11	Norton	norton	NNP	_	9	pobj	_	L-PERSON
+12	or	or	CC	_	8	cc	_	O
+13	maybe	maybe	RB	_	15	advmod	_	O
+14	it	it	PRP	_	15	nsubj	_	O
+15	was	be	VBD	_	8	conj	_	O
+16	Joe	joe	NNP	_	17	compound	_	B-PERSON
+17	Frazier	frazier	NNP	_	15	attr	_	L-PERSON
+18	in	in	IN	_	15	prep	_	O
+19	that	that	DT	_	21	det	_	O
+20	first	#ord#	JJ	pos2=RB	21	nmod	_	U-ORDINAL
+21	fight	fight	NN	_	18	pobj	_	O
+22	,	,	,	_	15	punct	_	O
+23	saying	say	VBG	_	15	advcl	_	O
+24	...	..	.	pos2=,	15	punct	_	O
+
+1	https://t.co/1ODeaRco51	#hlink#	ADD	_	0	root	_	U-ORG
+

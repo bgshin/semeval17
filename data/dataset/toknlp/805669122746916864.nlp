@@ -1,0 +1,15 @@
+1	3	0	LS	pos2=CD	5	meta	_	U-CARDINAL
+2	)	)	-RRB-	_	1	punct	_	O
+3	10	0	CD	_	4	nmod	_	B-DATE
+4	year	year	NN	_	5	compound	_	L-DATE
+5	moratorium	moratorium	NN	_	0	root	_	O
+6	on	on	IN	_	5	prep	_	O
+7	all	all	DT	_	8	det	_	O
+8	immigration	immigration	NN	_	6	pobj	_	O
+9	and	and	CC	_	5	cc	_	O
+10	Visa	visa	NNP	pos2=NN	11	compound	_	U-ORG
+11	applications	application	NNS	_	5	conj	_	O
+12	from	from	IN	_	11	prep	_	O
+13	Californian	californian	NNP	_	14	compound	_	B-GPE
+14	Republic	republic	NNP	_	12	pobj	_	L-GPE
+

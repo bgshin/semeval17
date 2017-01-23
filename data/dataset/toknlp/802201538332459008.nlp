@@ -1,0 +1,27 @@
+1	Steve	steve	NNP	_	2	compound	_	B-PERSON
+2	Bannon	bannon	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	12	ccomp	_	O
+4	my	my	PRP$	_	9	poss	_	O
+5	Favorite	favorite	NNP	pos2=JJ	8	compound	_	O
+6	Trump	trump	NNP	pos2=NN	8	compound	_	O
+7	-	-	HYPH	pos2=:	8	punct	_	O
+8	Pick	pick	NNP	_	9	compound	_	O
+9	Yet	yet	NNP	pos2=RB	3	attr	_	O
+10	,	,	,	_	12	punct	_	O
+11	Breitbart	breitbart	NNP	_	12	nsubj	_	U-ORG
+12	is	be	VBZ	_	0	root	_	O
+13	a	a	DT	_	14	det	_	O
+14	threat	threat	NN	_	12	attr	_	O
+15	to	to	IN	pos2=TO	14	prep	_	O
+16	media🎉coming	media🎉coming	VBG	pos2=NNP	15	pcomp	_	O
+17	from	from	IN	_	16	prep	_	O
+18	a	a	DT	_	19	det	_	O
+19	fellow	fellow	NN	pos2=JJ	17	pobj	_	O
+20	Jew	jew	NNP	_	19	appos	_	U-NORP
+21	,	,	,	_	26	punct	_	O
+22	Trump	trump	NNP	_	26	nmod	_	U-ORG
+23	will	will	MD	_	26	nmod	_	O
+24	ha	ha	GW	pos2=VB	26	nmod	_	O
+25	…	…	NFP	pos2=GW	26	punct	_	O
+26	https://t.co/Sn9ZxdH33m	#hlink#	ADD	_	12	dep	_	O
+

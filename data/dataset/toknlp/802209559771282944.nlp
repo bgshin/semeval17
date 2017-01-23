@@ -1,0 +1,29 @@
+1	Why	why	WRB	_	2	advmod	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	Armstrong	armstrong	NNP	_	2	nsubj	_	U-ORG
+4	still	still	RB	_	5	advmod	_	O
+5	speaking	speak	VBG	_	3	acl	_	O
+6	for	for	IN	_	5	prep	_	O
+7	Carson	carson	NNP	_	6	pobj	_	U-PERSON
+8	?	?	.	_	2	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	bothers	bother	VBZ	_	0	root	_	O
+3	me	me	PRP	_	2	dobj	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	am	be	VBP	_	4	aux	_	O
+3	not	not	RB	_	4	neg	_	O
+4	basing	base	VBG	_	0	root	_	O
+5	my	my	PRP$	_	6	poss	_	O
+6	concerns	concern	NNS	_	4	dobj	_	O
+7	solely	solely	RB	_	8	advmod	_	O
+8	on	on	IN	_	6	prep	_	O
+9	the	the	DT	_	11	det	_	O
+10	Mother	mother	NNP	pos2=NN	11	compound	_	O
+11	Jones	jones	NNP	_	8	pobj	_	O
+12	...	..	.	pos2=,	4	punct	_	O
+
+1	https://t.co/IXOb4iZMAo	#hlink#	ADD	_	0	root	_	U-ORG
+

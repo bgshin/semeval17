@@ -1,0 +1,24 @@
+1	No	no	DT	pos2=UH	4	det	_	O
+2	More	more	RBR	pos2=JJR	3	advmod	_	O
+3	Anti-American	anti-american	JJ	_	4	nmod	_	U-NORP
+4	Politicians	politician	NNS	pos2=NNPS	0	root	_	O
+5	who	who	WP	_	6	nsubj	_	O
+6	speak	speak	VBP	_	4	relcl	_	O
+7	with	with	IN	_	6	prep	_	O
+8	"	"	``	_	10	punct	_	O
+9	FORKED	forked	JJ	pos2=VBN	10	nmod	_	O
+10	Toung	toung	NNP	_	7	pobj	_	U-PERSON
+11	"	"	''	_	10	punct	_	O
+12	...	..	.	pos2=,	4	punct	_	O
+
+1	Romney	romney	NNP	_	2	nsubj	_	U-ORG
+2	is	be	VBZ	_	0	root	_	O
+3	part	part	NN	_	2	attr	_	O
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	Swamp	swamp	NNP	pos2=NN	4	pobj	_	U-LOC
+7	hurting	hurt	VBG	_	10	nmod	_	O
+8	America	america	NNP	_	7	dobj	_	U-GPE
+9	…	…	NFP	pos2=POS	10	punct	_	O
+10	https://t.co/NO91rLV8LN	#hlink#	ADD	_	2	dep	_	U-GPE
+

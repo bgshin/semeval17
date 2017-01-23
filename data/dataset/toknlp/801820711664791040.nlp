@@ -1,0 +1,12 @@
+1	@djvancourt	@djvancourt	UH	pos2=NN	2	discourse	_	O
+2	watch	watch	VB	pos2=VBP	0	root	_	O
+3	he	he	PRP	_	5	nsubj	_	O
+4	is	be	VBZ	_	5	aux	_	O
+5	gon	gon	VBG	_	2	ccomp	_	O
+6	na	to	TO	_	7	aux	_	O
+7	win	win	VB	_	5	xcomp	_	O
+8	the	the	DT	_	10	det	_	B-WORK_OF_ART
+9	Cy	cy	NNP	pos2=NN	10	compound	_	I-WORK_OF_ART
+10	Young	young	NNP	_	7	dobj	_	L-WORK_OF_ART
+11	now	now	RB	_	7	advmod	_	O
+

@@ -1,0 +1,18 @@
+1	Get	get	VB	pos2=VBP	0	root	_	O
+2	moving	move	VBG	pos2=NN	1	xcomp	_	O
+3	after	after	IN	_	2	prep	_	O
+4	Thanksgiving	thanksgiving	NNP	pos2=NN	3	pobj	_	U-DATE
+5	:	:	:	_	1	punct	_	O
+6	our	our	PRP$	_	10	poss	_	O
+7	top	top	JJ	pos2=NN	10	nmod	_	O
+8	10	0	CD	_	10	nmod	_	U-CARDINAL
+9	Latino	latino	JJ	_	10	nmod	_	U-NORP
+10	playlist	playlist	NN	_	1	dobj	_	O
+11	@shakira	@shakira	WDT	pos2=ADD	17	dep	_	O
+12	@daddy_yankee	@daddy_yankee	UH	pos2=XX	15	discourse	_	O
+13	@juanes	@juanes	UH	pos2=NNS	15	discourse	_	O
+14	@ricky_martin	@ricky_martin	UH	pos2=NNP	15	discourse	_	O
+15	@carlosvives	@carlosvives	UH	pos2=NNS	1	discourse	_	O
+16	…	…	NFP	pos2=-LRB-	17	punct	_	O
+17	https://t.co/xOjZIKV7wH	#hlink#	ADD	_	1	dep	_	O
+

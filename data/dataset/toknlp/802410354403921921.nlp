@@ -1,0 +1,12 @@
+1	@NicolasMaduro	@nicolasmaduro	TO	pos2=MD	2	aux	_	O
+2	FUCK	fuck	VB	pos2=NN	6	advcl	_	O
+3	YOU	you	PRP	_	2	dobj	_	O
+4	MADURO	maduro	NNP	pos2=WP	6	vocative	_	U-PERSON
+5	YOU	you	PRP	_	6	nsubj	_	O
+6	'RE	be	VBP	_	0	root	_	O
+7	NEXT	next	JJ	pos2=RB	6	acomp	_	O
+8	!!!!	!!	.	_	6	punct	_	O
+
+1	HUEVON	huevon	NNP	pos2=NN	0	root	_	U-ORG
+2	!!!	!!	.	_	1	punct	_	O
+

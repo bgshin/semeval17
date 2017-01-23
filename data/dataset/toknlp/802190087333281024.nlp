@@ -1,0 +1,24 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	suppose	suppose	VBP	_	0	root	_	O
+3	white	white	JJ	_	4	nmod	_	O
+4	supremacists	supremacist	NNS	_	6	nsubj	_	O
+5	should	should	MD	_	6	aux	_	O
+6	be	be	VB	_	2	ccomp	_	O
+7	competent	competent	JJ	_	6	acomp	_	O
+8	enough	enough	RB	pos2=JJ	7	advmod	_	O
+9	to	to	TO	_	10	aux	_	O
+10	stand	stand	VB	_	7	xcomp	_	O
+11	trial	trial	NN	_	10	dobj	_	O
+12	if	if	IN	_	14	mark	_	O
+13	they	they	PRP	_	14	nsubj	_	O
+14	are	be	VBP	_	6	advcl	_	O
+15	to	to	TO	pos2=IN	16	aux	_	O
+16	work	work	VB	pos2=NN	14	xcomp	_	O
+17	in	in	IN	_	16	prep	_	O
+18	the	the	DT	_	20	det	_	B-ORG
+19	White	white	NNP	_	20	compound	_	I-ORG
+20	House	house	NNP	_	17	pobj	_	L-ORG
+21	...	..	.	pos2=,	2	punct	_	O
+
+1	@NYDailyNews	@nydailynews	NNS	pos2=ADD	0	root	_	O
+

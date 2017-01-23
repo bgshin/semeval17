@@ -1,0 +1,19 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@JustinTrudeau	@justintrudeau	XX	pos2=ADD	5	nmod	_	O
+2	@cafreeland	@cafreeland	UH	pos2=XX	8	discourse	_	O
+3	@najatvb	@najatvb	UH	pos2=XX	8	discourse	_	O
+4	@poroshenko	@poroshenko	UH	pos2=FW	8	discourse	_	O
+5	Crimea	crimea	NNP	pos2=UH	8	nsubj	_	U-GPE
+6	not	not	RB	_	8	neg	_	O
+7	so	so	RB	_	8	advmod	_	O
+8	different	different	JJ	_	0	root	_	O
+9	from	from	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	Joan	joan	NNP	_	9	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	Ark	ark	NNP	_	14	compound	_	O
+14	story	story	NN	_	12	pobj	_	O
+15	@realDonaldTrump	@realdonaldtrump	XX	pos2=WDT	8	prep	_	O
+16	⚽️👀👅☃💞	⚽️👀👅☃💞	.	pos2=NN	8	punct	_	O
+

@@ -1,0 +1,16 @@
+1	Concise	concise	JJ	pos2=NN	3	nmod	_	O
+2	Visual	visual	JJ	_	3	nmod	_	O
+3	Summary	summary	NN	pos2=NNP	0	root	_	O
+4	of	of	IN	_	3	prep	_	O
+5	#DeepLearning	#deeplearning	VBG	pos2=NN	6	nmod	_	O
+6	Architectures	architecture	NNS	_	4	pobj	_	O
+7	:	:	:	_	3	punct	_	O
+8	https://t.co/IuXMWJfvyO	#hlink#	ADD	pos2=NN	3	appos	_	O
+9	#abdsc	#abdsc	-RRB-	pos2=XX	3	punct	_	O
+10	...	..	.	pos2=,	3	punct	_	O
+
+1	by	by	IN	_	4	prep	_	O
+2	#anu_analytics	#anu_analytics	NNS	pos2=NNP	1	pobj	_	O
+3	via	via	IN	_	0	root	_	O
+4	@c0nvey	@c0nvey	NN	pos2=NNP	3	pobj	_	O
+

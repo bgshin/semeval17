@@ -1,0 +1,24 @@
+1	@evanperez	@evanperez	UH	pos2=NNP	3	discourse	_	O
+2	Never	never	RB	_	3	neg	_	O
+3	trust	trust	VB	_	13	advcl	_	O
+4	Comey😡	comey😡	NNPS	pos2=NNP	3	dobj	_	O
+5	if	if	IN	_	7	mark	_	O
+6	it	it	PRP	_	7	nsubj	_	O
+7	was	be	VBD	_	13	advcl	_	O
+8	n't	not	RB	_	7	neg	_	O
+9	for	for	IN	_	7	prep	_	O
+10	him	him	PRP	_	9	pobj	_	O
+11	we	we	PRP	_	13	nsubj	_	O
+12	would	would	MD	_	13	aux	_	O
+13	have	have	VB	_	0	root	_	O
+14	Hillary	hillary	NNP	_	17	compound	_	B-ORG
+15	😠	😠	NNP	pos2=HYPH	17	compound	_	I-ORG
+16	F	f	NNP	pos2=VB	17	compound	_	I-ORG
+17	Comey	comey	NNP	_	13	dobj	_	L-ORG
+18	!!	!!	.	_	13	punct	_	O
+
+1	Get	get	VB	_	0	root	_	O
+2	rid	rid	VBN	pos2=JJ	1	xcomp	_	O
+3	of	of	IN	_	2	prep	_	O
+4	him	him	PRP	_	3	pobj	_	O
+

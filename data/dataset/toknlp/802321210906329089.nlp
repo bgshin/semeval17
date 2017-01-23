@@ -1,0 +1,21 @@
+1	NVIDIA	nvidia	NNP	_	2	nsubj	_	U-ORG
+2	Doubles	double	VBZ	pos2=NNP	0	root	_	O
+3	Down	down	RB	pos2=RP	2	advmod	_	O
+4	On	on	IN	_	3	prep	_	O
+5	Self-Driving	self-driving	JJ	pos2=VBG	6	nmod	_	O
+6	Cars	car	NNS	pos2=NNPS	4	pobj	_	O
+7	With	with	IN	_	2	prep	_	O
+8	Xavier	xavier	NNP	_	10	compound	_	O
+9	AI	ai	NNP	_	10	compound	_	O
+10	Chip	chip	NNP	pos2=NN	7	pobj	_	O
+11	And	and	CC	_	10	cc	_	O
+12	A	a	DT	pos2=NNP	14	det	_	O
+13	Hat	hat	NNP	pos2=NN	14	compound	_	O
+14	Tip	tip	NN	pos2=NNP	10	conj	_	O
+15	To	to	IN	pos2=NNP	14	prep	_	O
+16	Next	next	NNP	pos2=JJ	20	nmod	_	O
+17	Gen	gen	NNP	_	20	nmod	_	O
+18	Volta	volta	NNP	_	19	compound	_	O
+19	GPU	gpu	NNP	pos2=GW	20	dep	_	O
+20	https://t.co/VerHBKWZX4	#hlink#	ADD	pos2=NN	15	pobj	_	O
+

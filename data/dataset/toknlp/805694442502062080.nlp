@@ -1,0 +1,18 @@
+1	"	"	``	pos2=SYM	3	punct	_	B-ORG
+2	Chicago	chicago	NNP	_	3	compound	_	I-ORG
+3	Cubs	cubs	NNP	pos2=NNPS	13	dep	_	L-ORG
+4	2016	0	CD	_	3	npadvmod	_	U-DATE
+5	Topps	topps	NNP	_	11	compound	_	B-EVENT
+6	Baseball	baseball	NNP	_	11	compound	_	I-EVENT
+7	World	world	NNP	_	11	compound	_	I-EVENT
+8	Series	series	NNP	_	11	compound	_	I-EVENT
+9	Champions	champion	NNPS	pos2=NNP	10	compound	_	I-EVENT
+10	Box	box	NNP	_	11	compound	_	I-EVENT
+11	Set	set	NNP	pos2=VBN	13	dep	_	L-EVENT
+12	"	"	''	pos2=``	17	punct	_	O
+13	https://t.co/IUH27KSpNN	#hlink#	ADD	_	17	dep	_	O
+14	#baseball	#baseball	-RRB-	pos2=XX	13	punct	_	O
+15	#mlb	#mlb	UH	pos2=GW	17	dep	_	O
+16	#sports	#sports	NNS	pos2=UH	17	nmod	_	O
+17	https://t.co/KWAf9iM63O	#hlink#	ADD	_	0	root	_	O
+

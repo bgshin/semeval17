@@ -1,0 +1,19 @@
+1	@YouTube	@youtube	ADD	pos2=NNP	7	punct	_	O
+2	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	7	punct	_	O
+3	@mike_pence	@mike_pence	IN	pos2=NN	7	advcl	_	O
+4	@KellyannePolls	@kellyannepolls	NNS	pos2=ADD	5	compound	_	O
+5	@SenatorSessions	@senatorsessions	NNS	pos2=ADD	3	pobj	_	O
+6	PLEASE	please	UH	_	7	discourse	_	O
+7	MAKE	make	VB	_	0	root	_	O
+8	SURE	sure	JJ	pos2=RB	7	ccomp	_	O
+9	WE	we	PRP	_	10	nsubj	_	O
+10	GET	get	VBP	pos2=VB	8	advcl	_	O
+11	@TGowdySC	@tgowdysc	NNS	pos2=VBN	10	dobj	_	O
+12	INVOLVED	involve	VBN	pos2=JJ	11	acl	_	O
+13	IN	in	IN	_	12	prep	_	O
+14	YOUR	your	PRP$	_	15	poss	_	O
+15	ADMIN	admin	NN	_	13	pobj	_	O
+16	(	(	-LRB-	_	17	punct	_	O
+17	continue	continue	VB	pos2=VBP	10	parataxis	_	O
+18	)	)	-RRB-	_	17	punct	_	O
+

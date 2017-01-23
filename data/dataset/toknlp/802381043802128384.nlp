@@ -1,0 +1,23 @@
+1	@SpeakerRyan	@speakerryan	VB	pos2=MD	22	advcl	_	O
+2	the	the	DT	_	3	det	_	O
+3	#disabled	#disabled	NNS	pos2=XX	1	dobj	_	O
+4	and	and	CC	_	3	cc	_	O
+5	people	people	NNS	_	3	conj	_	O
+6	w	w	VBP	pos2=IN	1	conj	_	O
+7	#chronicillness	#chronicillness	HYPH	pos2=RB	6	punct	_	O
+8	depend	depend	VBP	pos2=VB	6	pobj	_	O
+9	on	on	IN	_	8	prep	_	O
+10	#Medicare	#medicare	NNP	pos2=PRP	9	pobj	_	U-ORG
+11	wo	wo	MD	_	13	aux	_	O
+12	n't	not	RB	_	13	neg	_	O
+13	qualify	qualify	VB	_	1	advcl	_	O
+14	for	for	IN	_	13	prep	_	O
+15	reduced	reduce	VBN	pos2=GW	16	nmod	_	O
+16	#Medicaid	#medicaid	NN	pos2=FW	14	pobj	_	O
+17	,	,	,	_	16	punct	_	O
+18	low	low	JJ	_	19	nmod	_	O
+19	income	income	NN	_	16	conj	_	O
+20	,	,	,	_	22	punct	_	O
+21	will	will	MD	_	22	aux	_	O
+22	die	die	VB	_	0	root	_	O
+

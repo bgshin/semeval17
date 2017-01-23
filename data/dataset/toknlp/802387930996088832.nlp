@@ -1,0 +1,11 @@
+1	@Brian_Was_Here	@brian_was_here	ADD	pos2=NN	5	punct	_	O
+2	_	_	NFP	pos2=-LRB-	5	punct	_	O
+3	George	george	NNP	_	4	compound	_	B-PERSON
+4	Soros	soros	NNP	_	5	nsubj	_	L-PERSON
+5	needs	need	VBZ	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	go	go	VB	_	5	xcomp	_	O
+8	with	with	IN	_	7	prep	_	O
+9	him	him	PRP	_	8	pobj	_	O
+10	.	.	.	_	5	punct	_	O
+

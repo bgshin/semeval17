@@ -1,0 +1,25 @@
+1	@	@	SYM	_	3	punct	_	O
+2	2TAPU	0tapu	NN	pos2=NFP	3	compound	_	O
+3	@Julie_B92	@julie_b0	NN	pos2=NNS	4	nsubj	_	O
+4	Suspect	suspect	VBP	pos2=VB	0	root	_	O
+5	all	all	PDT	_	9	predet	_	O
+6	those	those	DT	_	2	appos	_	O
+7	blocking	block	VBG	_	6	acl	_	O
+8	euthanasia	euthanasia	NN	_	9	compound	_	O
+9	debate	debate	NN	_	7	dobj	_	O
+10	in	in	IN	_	9	prep	_	O
+11	Parl	parl	NNP	_	10	pobj	_	U-PERSON
+12	.	.	.	_	4	punct	_	O
+
+1	also	also	RB	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	No	no	DT	_	2	det	_	O
+2	representation	representation	NN	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	our	our	PRP$	_	5	poss	_	O
+5	lives	life	NNS	_	3	pobj	_	O
+6	by	by	IN	_	2	prep	_	O
+7	them	them	PRP	_	6	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+

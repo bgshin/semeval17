@@ -1,0 +1,25 @@
+1	VIDEO	video	NN	_	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	#Russia	#russia	NNP	pos2=NN	5	compound	_	B-ORG
+4	FM	fm	NNP	pos2=FW	5	compound	_	I-ORG
+5	Lavrov	lavrov	NNP	_	9	nsubj	_	L-ORG
+6	(	(	-LRB-	_	5	punct	_	O
+7	@mfa_russia	@mfa_russia	NNP	pos2=NN	5	appos	_	U-ORG
+8	)	)	-RRB-	_	5	punct	_	O
+9	caught	catch	VBD	pos2=VBN	0	root	_	O
+10	lying	lie	VBG	_	9	xcomp	_	O
+11	red	red	JJ	_	13	advmod	_	O
+12	-	-	HYPH	_	13	punct	_	O
+13	handed	handed	JJ	_	10	advcl	_	O
+14	about	about	IN	pos2=JJ	13	prep	_	O
+15	airstrikes	airstrike	NNS	_	14	pobj	_	O
+16	in	in	IN	_	15	prep	_	O
+17	#Aleppo	#aleppo	NNP	_	16	pobj	_	U-GPE
+18	,	,	,	_	17	punct	_	O
+19	#Idlib	#idlib	NNP	_	17	conj	_	B-ORG
+20	&	&	CC	_	19	cc	_	I-ORG
+21	#Homs	#homs	NNP	pos2=NNS	19	conj	_	L-ORG
+22	in	in	IN	_	10	prep	_	O
+23	…	…	NFP	pos2=NNP	22	pobj	_	O
+24	https://t.co/YDGo4J91vj	#hlink#	ADD	_	9	dep	_	U-GPE
+

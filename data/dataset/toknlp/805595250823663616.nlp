@@ -1,0 +1,21 @@
+1	move	move	VB	pos2=NN	0	root	_	O
+2	over	over	IN	pos2=RB	1	prep	_	O
+3	radioisotope	radioisotope	NN	_	2	pobj	_	O
+4	,	,	,	_	3	punct	_	O
+5	glycotargeting	glycotargeting	JJ	pos2=NN	8	nmod	_	O
+6	and	and	CC	_	5	cc	_	O
+7	aberrant	aberrant	JJ	_	5	conj	_	O
+8	glycosylation	glycosylation	NN	_	10	nsubj	_	O
+9	may	may	MD	_	10	aux	_	O
+10	be	be	VB	_	1	advcl	_	O
+11	the	the	DT	_	14	det	_	O
+12	new	new	JJ	_	14	nmod	_	O
+13	gold	gold	NN	pos2=JJ	14	compound	_	O
+14	standard	standard	NN	pos2=JJ	10	attr	_	O
+15	for	for	IN	_	14	prep	_	O
+16	diagnosis	diagnosis	NN	_	15	pobj	_	O
+17	and	and	CC	_	16	cc	_	O
+18	cu	cu	GW	pos2=XX	20	nmod	_	O
+19	…	…	NFP	pos2=-LRB-	20	punct	_	O
+20	https://t.co/tM1jO9pjHV	#hlink#	ADD	pos2=NN	1	dep	_	O
+

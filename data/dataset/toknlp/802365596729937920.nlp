@@ -1,0 +1,28 @@
+1	@KamVTV	@kamvtv	NNS	pos2=XX	2	nsubj	_	O
+2	@greeneyes0084	@greeneyes0	VBP	pos2=NN	0	root	_	O
+3	perhaps	perhaps	RB	_	2	advmod	_	O
+4	the	the	DT	_	5	det	_	O
+5	train	train	NN	_	7	nsubj	_	O
+6	should	should	MD	_	7	aux	_	O
+7	make	make	VB	_	2	ccomp	_	O
+8	a	a	DT	_	9	det	_	O
+9	stop	stop	NN	pos2=VB	7	dobj	_	O
+10	at	at	IN	_	9	prep	_	O
+11	Romney	romney	NNP	_	12	compound	_	U-ORG
+12	station	station	NN	_	10	pobj	_	O
+13	so	so	IN	pos2=RB	16	mark	_	O
+14	he	he	PRP	_	16	nsubj	_	O
+15	can	can	MD	_	16	aux	_	O
+16	play	play	VB	_	7	advcl	_	O
+17	a	a	DT	_	19	det	_	O
+18	key	key	JJ	_	19	nmod	_	O
+19	role	role	NN	_	16	dobj	_	O
+20	in	in	IN	_	19	prep	_	O
+21	Trump	trump	NNP	pos2=NN	23	poss	_	U-ORG
+22	's	's	POS	_	21	case	_	O
+23	cabinet	cabinet	NN	_	20	pobj	_	O
+24	?	?	.	_	2	punct	_	O
+
+1	🚉	🚉	NFP	pos2=SYM	2	punct	_	O
+2	#foreverromney	#foreverromney	UH	pos2=NN	0	root	_	O
+

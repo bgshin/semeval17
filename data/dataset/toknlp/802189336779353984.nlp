@@ -1,0 +1,25 @@
+1	Trump	trump	NN	pos2=NNP	2	nsubj	_	U-PERSON
+2	saw	see	VBD	_	0	root	_	O
+3	'	'	``	_	4	punct	_	O
+4	Urban	urban	JJ	pos2=NNP	24	nmod	_	O
+5	'	'	''	_	4	punct	_	O
+6	in	in	IN	_	2	prep	_	O
+7	Dept	dept	NNP	pos2=NN	6	pobj	_	B-ORG
+8	of	of	IN	_	7	prep	_	I-ORG
+9	Housing	housing	NNP	_	8	pobj	_	I-ORG
+10	&	&	CC	_	9	cc	_	I-ORG
+11	Urban	urban	NNP	_	12	compound	_	I-ORG
+12	Development	development	NNP	_	9	conj	_	L-ORG
+13	and	and	CC	_	2	cc	_	O
+14	offered	offer	VBD	_	2	conj	_	O
+15	the	the	DT	_	16	det	_	O
+16	job	job	NN	_	14	dobj	_	O
+17	to	to	IN	_	14	dative	_	O
+18	the	the	DT	_	21	det	_	O
+19	last	last	JJ	_	21	nmod	_	O
+20	black	black	JJ	_	21	nmod	_	O
+21	person	person	NN	_	17	pobj	_	O
+22	he	he	PRP	_	23	nsubj	_	O
+23	talked	talk	VBD	_	21	relcl	_	O
+24	tohttps://t.co/Y1R6yAZxJg	#hlink#	ADD	_	21	appos	_	O
+

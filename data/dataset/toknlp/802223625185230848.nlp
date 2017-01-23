@@ -1,0 +1,18 @@
+1	P.S.	p.s.	NN	pos2=NNP	5	dep	_	O
+2	Y'all	y'all	PRP	pos2=NN	5	nsubj	_	O
+3	could	could	MD	_	5	aux	_	O
+4	have	have	VB	_	5	aux	_	O
+5	told	tell	VBN	pos2=VBD	0	root	_	O
+6	me	me	PRP	_	5	dobj	_	O
+7	Yolanda	yolanda	NNP	_	8	compound	_	B-PERSON
+8	Adams	adams	NNP	_	9	nsubj	_	L-PERSON
+9	ATE	eat	VBD	pos2=NNP	5	ccomp	_	O
+10	"	"	``	_	11	punct	_	O
+11	Glory	glory	NN	pos2=NNP	9	dobj	_	O
+12	"	"	''	_	11	punct	_	O
+13	with	with	IN	_	9	prep	_	O
+14	Common	common	NNP	pos2=JJ	13	pobj	_	O
+15	on	on	IN	_	9	prep	_	O
+16	#ThankYouObama	#thankyouobama	NNP	pos2=ADD	17	compound	_	B-LOC
+17	🙌🏾	🙌🏾	NNP	pos2=.	15	pobj	_	L-LOC
+

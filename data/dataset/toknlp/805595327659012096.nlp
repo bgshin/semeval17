@@ -1,0 +1,24 @@
+1	Phosphorus	phosphorus	NN	_	7	dep	_	O
+2	:	:	:	_	7	punct	_	O
+3	highly	highly	RB	_	4	advmod	_	O
+4	flamable	flamable	JJ	_	7	dep	_	O
+5	:	:	:	_	7	punct	_	O
+6	A	a	DT	_	7	det	_	O
+7	person	person	NN	_	13	nsubj	_	O
+8	who	who	WP	_	10	nsubjpass	_	O
+9	is	be	VBZ	_	10	auxpass	_	O
+10	affected	affect	VBN	_	7	relcl	_	O
+11	by	by	IN	_	10	agent	_	O
+12	Phosphorus	phosphorus	NNP	pos2=NN	11	pobj	_	O
+13	is	be	VBZ	_	0	root	_	O
+14	energetic	energetic	JJ	_	20	advmod	_	O
+15	,	,	,	_	20	punct	_	O
+16	outgoing	outgoing	JJ	_	20	advmod	_	O
+17	,	,	,	_	20	punct	_	O
+18	hyperactive	hyperactive	JJ	_	20	advmod	_	O
+19	,	,	,	_	20	punct	_	O
+20	sociable	sociable	JJ	_	13	acomp	_	O
+21	,	,	,	_	13	punct	_	O
+22	…	…	NFP	pos2=-LRB-	13	discourse	_	O
+23	https://t.co/HiSERAJz9Z	#hlink#	ADD	pos2=NN	13	dep	_	O
+

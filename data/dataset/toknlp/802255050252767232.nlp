@@ -1,0 +1,25 @@
+1	https://t.co/p7Fd5Sm2Y5	#hlink#	ADD	pos2=NNP	24	dep	_	O
+2	Car	car	NNP	pos2=NN	3	compound	_	O
+3	Charger	charger	NNP	pos2=NN	24	dep	_	O
+4	,	,	,	_	3	punct	_	O
+5	Maxboost	maxboost	NNP	_	24	dep	_	B-PERSON
+6	4.8A	0a	NN	pos2=NNP	8	nmod	_	L-PERSON
+7	/	/	SYM	_	8	punct	_	O
+8	24W	0w	NN	_	24	dep	_	O
+9	2	0	CD	_	13	nmod	_	O
+10	Smart	smart	NNP	pos2=JJ	12	compound	_	O
+11	Port	port	NNP	_	12	compound	_	B-WORK_OF_ART
+12	Car	car	NNP	pos2=NN	13	compound	_	I-WORK_OF_ART
+13	Charger	charger	NN	pos2=NNP	24	dep	_	L-WORK_OF_ART
+14	[	[	-LRB-	_	15	punct	_	O
+15	Black	black	NNP	pos2=JJ	3	appos	_	O
+16	]	]	-RRB-	_	15	punct	_	O
+17	for	for	IN	_	13	prep	_	O
+18	iPhone	iphone	NNP	_	17	pobj	_	O
+19	7	0	CD	_	20	nmod	_	O
+20	6S	0s	NNS	pos2=NN	13	npadvmod	_	O
+21	Plus	plus	CC	_	20	cc	_	O
+22	6	0	CD	pos2=GW	23	nmod	_	O
+23	P	p	NN	pos2=IN	20	conj	_	O
+24	https://t.co/YY5JjNDDNw	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,28 @@
+1	@beavisita	@beavisita	UH	pos2=XX	3	discourse	_	O
+2	@X1075	@x0	NN	pos2=CD	3	compound	_	O
+3	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=UH	0	root	_	O
+4	...	..	.	pos2=,	3	punct	_	O
+
+1	then	then	RB	_	3	advmod	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	picked	pick	VBD	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	perfect	perfect	JJ	_	6	nmod	_	O
+6	one	#crd#	NN	pos2=CD	3	dobj	_	O
+7	!!	!!	.	_	3	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	the	the	DT	_	6	det	_	O
+4	ONLY	only	JJ	pos2=RB	6	nmod	_	O
+5	fast	fast	JJ	_	6	nmod	_	O
+6	food	food	NN	_	2	attr	_	O
+7	I	I	PRP	_	9	nsubj	_	O
+8	will	will	MD	_	9	aux	_	O
+9	eat	eat	VB	_	6	relcl	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	Bean	bean	NNP	pos2=NN	3	nmod	_	B-PERSON
+2	…	…	NFP	pos2=POS	3	punct	_	L-PERSON
+3	https://t.co/nR6dQc2m5J	#hlink#	ADD	_	0	root	_	O
+

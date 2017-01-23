@@ -1,0 +1,10 @@
+1	Miami	miami	NNP	_	4	nsubj	_	U-GPE
+2	should	should	MD	_	4	aux	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	tank	tank	VB	_	0	root	_	O
+5	and	and	CC	_	4	cc	_	O
+6	grab	grab	VB	_	4	conj	_	O
+7	grayson	grayson	NN	pos2=FW	8	compound	_	O
+8	allen	allen	NNP	pos2=NN	6	dobj	_	O
+9	..	..	.	pos2=,	4	punct	_	O
+

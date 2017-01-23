@@ -1,0 +1,8 @@
+1	abortion	abortion	NN	_	2	compound	_	O
+2	lovers	lover	NNS	_	5	nsubj	_	O
+3	are	be	VBP	_	5	aux	_	O
+4	undoutably	undoutably	RB	pos2=JJ	5	advmod	_	O
+5	supporting	support	VBG	_	0	root	_	O
+6	crooked	crooked	JJ	_	7	nmod	_	O
+7	hillary	hillary	NN	pos2=JJ	5	dobj	_	O
+

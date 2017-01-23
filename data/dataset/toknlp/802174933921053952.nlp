@@ -1,0 +1,14 @@
+1	freep​.com	freep​.com	NN	pos2=NNP	5	nsubj	_	O
+2	>>	>>	-RRB-	pos2=NFP	1	punct	_	O
+3	Kate	kate	NNP	_	4	compound	_	B-PERSON
+4	Upton	upton	NNP	_	5	nsubj	_	L-PERSON
+5	clarifies	clarify	VBZ	_	0	root	_	O
+6	her	her	PRP$	pos2=PRP	9	poss	_	O
+7	Cy	cy	NNP	pos2=NN	8	compound	_	O
+8	Young	young	NNP	pos2=JJ	9	compound	_	O
+9	blast	blast	NN	_	5	dobj	_	O
+10	on	on	IN	_	9	prep	_	O
+11	Rick	rick	NNP	_	12	compound	_	B-PERSON
+12	Porcello	porcello	NNP	_	10	pobj	_	L-PERSON
+13	https://t.co/AgbL4hDqJP	#hlink#	ADD	_	9	appos	_	O
+

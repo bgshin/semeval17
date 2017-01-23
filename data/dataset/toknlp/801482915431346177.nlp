@@ -1,0 +1,11 @@
+1	CA	ca	NN	pos2=NNP	2	nsubj	_	O
+2	has	have	VBZ	_	0	root	_	O
+3	way	way	RB	pos2=NN	5	advmod	_	O
+4	too	too	RB	_	5	advmod	_	O
+5	many	many	JJ	_	6	nmod	_	O
+6	imbeciles	imbecile	NNS	_	2	dobj	_	O
+7	-	-	:	pos2=,	8	punct	_	O
+8	https://t.co/k3o4GNfkeA	#hlink#	ADD	pos2=NN	6	acl	_	O
+9	via	via	IN	_	8	prep	_	O
+10	@LifeZette	@lifezette	NN	pos2=NNP	9	pobj	_	O
+

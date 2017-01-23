@@ -1,0 +1,37 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	mixed	mixed	JJ	pos2=VBN	2	acomp	_	O
+4	on	on	IN	_	2	prep	_	O
+5	Dylann	dylann	NNP	_	6	compound	_	B-LOC
+6	Roof	roof	NNP	pos2=NN	4	pobj	_	L-LOC
+7	.	.	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	am	be	VBP	_	0	root	_	O
+3	happy	happy	JJ	_	2	acomp	_	O
+4	to	to	TO	_	5	aux	_	O
+5	see	see	VB	_	3	xcomp	_	O
+6	he	he	PRP	_	9	nsubj	_	O
+7	's	's	VBZ	_	9	aux	_	O
+8	not	not	RB	_	9	neg	_	O
+9	getting	get	VBG	_	5	ccomp	_	O
+10	gentle	gentle	JJ	_	11	nmod	_	O
+11	treatment	treatment	NN	_	9	dobj	_	O
+12	as	as	IN	_	16	mark	_	O
+13	so	so	RB	_	14	advmod	_	O
+14	many	many	JJ	_	15	nmod	_	O
+15	supremacists	supremacist	NNS	_	16	nsubj	_	O
+16	are	be	VBP	_	9	advcl	_	O
+17	.	.	.	_	2	punct	_	O
+
+1	But	but	CC	_	3	cc	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	hate	hate	VBP	_	0	root	_	O
+4	death	death	NN	_	5	compound	_	O
+5	penalty	penalty	NN	_	3	dobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	Yay	yay	NN	pos2=NNP	3	nmod	_	B-ORG
+2	/	/	SYM	pos2=HYPH	3	punct	_	I-ORG
+3	Boo	boo	NNP	pos2=NN	0	root	_	L-ORG
+

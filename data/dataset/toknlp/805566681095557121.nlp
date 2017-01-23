@@ -1,0 +1,31 @@
+1	Brexit	brexit	NNP	pos2=LS	0	root	_	U-PERSON
+2	.	.	.	_	1	punct	_	O
+
+1	Trump	trump	NN	pos2=LS	0	root	_	U-ORG
+2	.	.	.	_	1	punct	_	O
+
+1	Matteo	matteo	NNP	_	2	compound	_	B-PERSON
+2	Renzi	renzi	NNP	_	3	nsubj	_	L-PERSON
+3	loses	lose	VBZ	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Marine	marine	JJ	pos2=NNP	3	nmod	_	O
+2	Le	le	NNP	_	3	compound	_	B-FAC
+3	Pen	pen	NNP	_	0	root	_	L-FAC
+4	next	next	RB	pos2=JJ	3	advmod	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	Merkel	merkel	NNP	pos2=NN	2	compound	_	U-PERSON
+2	defeat	defeat	NN	pos2=VB	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	world	world	NN	_	3	nsubj	_	O
+3	wins	win	VBZ	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	#matteorenzi	#matteorenzi	UH	pos2=NNS	4	nmod	_	O
+2	#MAGA	#maga	GW	pos2=NN	4	nmod	_	B-PERSON
+3	#LePen	#lepen	GW	pos2=ADD	4	nmod	_	L-PERSON
+4	https://t.co/jXMUmIxsUj	#hlink#	ADD	pos2=NN	0	root	_	O
+

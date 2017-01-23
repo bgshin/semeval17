@@ -1,0 +1,18 @@
+1	@SebGorka	@sebgorka	ADD	pos2=NN	5	prep	_	B-PERSON
+2	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	8	discourse	_	L-PERSON
+3	@GenFlynn	@genflynn	ADD	pos2=XX	0	root	_	O
+4	@AJDelgado13	@ajdelgado0	NN	pos2=ADD	5	compound	_	O
+5	@mike_pence	@mike_pence	NNP	pos2=NN	3	dobj	_	U-PERSON
+6	And	and	CC	_	1	cc	_	O
+7	he	he	PRP	_	8	nsubj	_	O
+8	's	's	VBZ	_	1	conj	_	O
+9	not	not	RB	_	8	neg	_	O
+10	in	in	IN	_	8	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	house	house	NN	_	10	pobj	_	O
+13	yet	yet	RB	_	8	advmod	_	O
+14	!	!	.	_	8	punct	_	O
+
+1	@jaredkushner	@jaredkushner	UH	pos2=NN	2	discourse	_	O
+2	@DonaldJTrumpJr	@donaldjtrumpjr	UH	pos2=NN	0	root	_	O
+

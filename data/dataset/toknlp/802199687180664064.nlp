@@ -1,0 +1,14 @@
+1	#BOTVA16	#botva0	NN	pos2=LS	2	advmod	_	O
+2	Best	good	JJS	pos2=NNP	3	advmod	_	O
+3	Recurring	recur	VBG	pos2=NN	8	nmod	_	O
+4	ActorMichael	actormichael	NNP	_	5	compound	_	O
+5	Cudlitz	cudlitz	NNP	_	10	compound	_	O
+6	@Cudlitz	@cudlitz	NNP	pos2=POS	10	compound	_	O
+7	#TheWalkingDeadJeffrey	#thewalkingdeadjeffrey	NNP	pos2=ADD	10	compound	_	O
+8	Dean	dean	NNP	_	10	compound	_	B-PERSON
+9	Morgan	morgan	NNP	_	10	compound	_	L-PERSON
+10	@JDMorgan	@jdmorgan	NNP	pos2=GW	12	dep	_	O
+11	#	#	NN	pos2=-LRB-	12	dep	_	O
+12	TWDhttps://t.co/sXNBUpkU35VOTE	#hlink#	ADD	_	0	root	_	U-ORG
+13	NOW	now	RB	_	1	advmod	_	O
+

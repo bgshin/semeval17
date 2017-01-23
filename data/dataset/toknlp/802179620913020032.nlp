@@ -1,0 +1,13 @@
+1	#Turkey	#turkey	NNP	pos2=UH	2	compound	_	O
+2	#Yemen	#yemen	NNP	pos2=POS	3	compound	_	O
+3	Oil	oil	NN	pos2=NNP	12	dep	_	O
+4	down	down	RP	pos2=RB	3	prt	_	O
+5	on	on	IN	_	3	prep	_	O
+6	strong	strong	JJ	_	7	nmod	_	O
+7	dollar	dollar	NN	_	5	pobj	_	O
+8	,	,	,	_	12	punct	_	O
+9	OPEC	opec	NNP	pos2=JJ	10	compound	_	U-ORG
+10	uncertainty	uncertainty	NN	pos2=GW	12	dep	_	O
+11	https://t.co/iPSglj0AGZ	#hlink#	ADD	_	12	nmod	_	O
+12	https://t.co/evZulRiPTU	#hlink#	ADD	_	0	root	_	U-ORG
+

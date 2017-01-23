@@ -1,0 +1,24 @@
+1	@QuintenBreach	@quintenbreach	NN	pos2=UH	4	dep	_	O
+2	,	,	,	_	4	punct	_	O
+3	please	please	UH	pos2=VB	4	discourse	_	O
+4	DM	dm	VB	_	0	root	_	O
+5	us	us	PRP	_	4	dative	_	O
+6	your	your	PRP$	_	7	poss	_	O
+7	info	info	NN	_	4	dobj	_	O
+8	so	so	IN	pos2=RB	11	mark	_	O
+9	we	we	PRP	_	11	nsubj	_	O
+10	can	can	MD	_	11	aux	_	O
+11	send	send	VB	_	4	advcl	_	O
+12	your	your	PRP$	_	14	poss	_	O
+13	your	your	PRP$	_	14	poss	_	O
+14	prize	prize	NN	_	11	dobj	_	O
+15	for	for	IN	_	14	prep	_	O
+16	participating	participate	VBG	_	15	pcomp	_	O
+17	in	in	IN	_	16	prep	_	O
+18	#NationalFastFoodDay	#nationalfastfoodday	NNP	pos2=NN	17	pobj	_	U-GPE
+19	!	!	.	_	4	punct	_	O
+
+1	Thank	thank	VBP	_	0	root	_	O
+2	you	you	PRP	_	1	dobj	_	O
+3	!	!	.	_	1	punct	_	O
+

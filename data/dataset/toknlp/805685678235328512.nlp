@@ -1,0 +1,18 @@
+1	2016	0	CD	pos2=LS	10	nmod	_	O
+2	World	world	NNP	pos2=NN	4	compound	_	O
+3	Series	series	NNP	_	4	compound	_	O
+4	Champions	champion	NNPS	pos2=NNP	10	compound	_	O
+5	Chicago	chicago	NNP	_	6	compound	_	O
+6	Cubs	cub	NNPS	pos2=NNP	10	compound	_	O
+7	MLB	mlb	NNP	_	10	compound	_	O
+8	Handmade	handmade	NNP	pos2=JJ	10	compound	_	O
+9	Charm	charm	NNP	pos2=NN	10	compound	_	O
+10	Bracelet	bracelet	NNP	pos2=NN	0	root	_	O
+11	7	0	CD	_	10	npadvmod	_	B-CARDINAL
+12	1/2	0	CD	_	11	npadvmod	_	L-CARDINAL
+13	"	"	``	pos2=''	14	punct	_	O
+14	Adj	adj	NN	pos2=NNP	10	appos	_	O
+15	.	.	.	_	10	punct	_	O
+
+1	https://t.co/W4gcJwYDRs	#hlink#	ADD	_	0	root	_	U-ORG
+

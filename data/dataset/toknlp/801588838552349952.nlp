@@ -1,0 +1,26 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	start	start	VB	_	2	xcomp	_	O
+5	talking	talk	VBG	_	4	xcomp	_	O
+6	more	more	JJR	pos2=RBR	5	dobj	_	O
+7	about	about	IN	_	5	prep	_	O
+8	how	how	WRB	_	12	advmod	_	O
+9	Grayson	grayson	NNP	_	10	compound	_	B-PERSON
+10	Allen	allen	NNP	_	12	nsubj	_	L-PERSON
+11	can	can	MD	_	12	aux	_	O
+12	play	play	VB	_	7	pcomp	_	O
+13	point	point	NN	_	14	compound	_	O
+14	guard	guard	NN	pos2=VB	12	dobj	_	O
+15	in	in	IN	_	12	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	NBA	nba	NNP	pos2=NN	15	pobj	_	U-ORG
+18	.	.	.	_	2	punct	_	O
+
+1	Such	such	PDT	_	6	predet	_	O
+2	a	a	DT	_	6	det	_	O
+3	terrific	terrific	JJ	_	6	nmod	_	O
+4	and	and	CC	_	3	cc	_	O
+5	willing	willing	JJ	_	3	conj	_	O
+6	passer	passer	NN	_	0	root	_	O
+

@@ -1,0 +1,26 @@
+1	There	there	EX	_	2	expl	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	this	this	DT	_	5	det	_	O
+4	Jaguar	jaguar	NNP	_	5	compound	_	U-ORG
+5	ad	ad	NN	_	2	attr	_	O
+6	that	that	WDT	_	7	nsubj	_	O
+7	keeps	keep	VBZ	_	5	relcl	_	O
+8	coming	come	VBG	_	7	xcomp	_	O
+9	up	up	RP	_	8	prt	_	O
+10	on	on	IN	_	8	prep	_	O
+11	my	my	PRP$	_	12	poss	_	O
+12	tl	tl	NN	_	10	pobj	_	O
+13	and	and	CC	_	12	cc	_	O
+14	every	every	DT	_	15	det	_	O
+15	time	time	NN	_	12	conj	_	O
+16	i	I	PRP	_	17	nsubj	_	O
+17	see	see	VBP	_	15	relcl	_	O
+18	it	it	PRP	_	17	dobj	_	O
+19	i	I	PRP	pos2=MD	20	nsubj	_	O
+20	think	think	VBP	_	17	ccomp	_	O
+21	of	of	IN	_	20	prep	_	O
+22	a	a	DT	_	24	det	_	O
+23	tesla	tesla	NN	pos2=NNP	24	compound	_	O
+24	model	model	NN	_	21	pobj	_	O
+25	s	s	POS	pos2=NN	24	case	_	O
+

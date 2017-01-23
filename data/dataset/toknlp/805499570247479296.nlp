@@ -1,0 +1,15 @@
+1	@yo_beet	@yo_beet	NNP	pos2=ADD	3	nmod	_	U-PERSON
+2	@sahluwal	@sahluwal	UH	pos2=XX	3	discourse	_	O
+3	@realDonaldTrump	@realdonaldtrump	NN	pos2=NNP	4	nsubj	_	O
+4	violated	violate	VBD	pos2=VBN	9	ccomp	_	O
+5	Cuba	cuba	NNP	_	6	compound	_	U-GPE
+6	embargo	embargo	NN	pos2=NNP	4	dobj	_	O
+7	,	,	,	_	9	punct	_	O
+8	I	I	PRP	_	9	nsubj	_	O
+9	am	be	VBP	_	0	root	_	O
+10	mad	mad	JJ	_	9	acomp	_	O
+11	he	he	PRP	_	12	nsubj	_	O
+12	divided	divide	VBD	pos2=VBN	10	ccomp	_	O
+13	this	this	DT	_	14	det	_	O
+14	country	country	NN	_	12	dobj	_	O
+

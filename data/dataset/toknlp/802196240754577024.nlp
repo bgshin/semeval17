@@ -1,0 +1,16 @@
+1	#Turkey	#turkey	NNP	pos2=UH	3	compound	_	O
+2	#Yemen	#yemen	NNP	pos2=POS	3	compound	_	O
+3	EU	eu	NNP	pos2=NN	6	nsubj	_	O
+4	should	should	MD	_	6	aux	_	O
+5	not	not	RB	_	6	neg	_	O
+6	freeze	freeze	VB	_	13	ccomp	_	O
+7	accession	accession	NN	_	8	compound	_	O
+8	talks	talk	NNS	_	6	dobj	_	O
+9	with	with	IN	_	8	prep	_	O
+10	Turkey	turkey	NNP	_	9	pobj	_	U-GPE
+11	,	,	,	_	13	punct	_	O
+12	Germany	germany	NNP	_	13	nsubj	_	U-GPE
+13	says	say	VBZ	_	0	root	_	O
+14	https://t.co/4TYJwZePoO	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/BBoOfUY6Jh	#hlink#	ADD	_	13	punct	_	U-ORG
+

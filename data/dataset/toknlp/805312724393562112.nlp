@@ -1,0 +1,6 @@
+1	Yoga	yoga	NN	_	5	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	Vegetarianism	vegetarianism	NNP	pos2=NN	1	conj	_	O
+4	https://t.co/V2N6nZtgRS	#hlink#	ADD	_	5	nsubj	_	O
+5	#meditation	#meditation	ADD	pos2=-RRB-	0	root	_	O
+

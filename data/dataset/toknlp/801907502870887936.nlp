@@ -1,0 +1,18 @@
+1	Messi	messi	NNP	pos2=NN	5	dep	_	U-PERSON
+2	:	:	:	_	5	punct	_	O
+3	"	"	``	_	5	punct	_	O
+4	Anoeta	anoeta	NNP	pos2=NN	5	nsubj	_	U-ORG
+5	is	be	VBZ	_	0	root	_	O
+6	a	a	DT	_	8	det	_	O
+7	complicated	complicated	JJ	_	8	nmod	_	O
+8	stadium	stadium	NN	_	5	attr	_	O
+9	where	where	WRB	_	13	advmod	_	O
+10	we	we	PRP	_	13	nsubj	_	O
+11	have	have	VBP	_	13	aux	_	O
+12	n't	not	RB	_	13	neg	_	O
+13	won	win	VBN	_	8	relcl	_	O
+14	in	in	IN	pos2=RP	13	prep	_	O
+15	years	year	NNS	_	14	pobj	_	U-DATE
+16	"	"	''	pos2=``	17	punct	_	O
+17	#fcblive	#fcblive	UH	pos2=.	5	discourse	_	O
+

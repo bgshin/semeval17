@@ -1,0 +1,17 @@
+1	Killed	kill	VBD	pos2=VBN	0	root	_	O
+2	10,000	0	CD	_	3	nmod	_	U-CARDINAL
+3	Refugees	refugee	NNS	pos2=NNPS	1	dobj	_	O
+4	200,000	0	CD	_	8	nmod	_	U-CARDINAL
+5	Displaced	displace	VBN	pos2=VBD	8	nmod	_	O
+6	3,000,000	0	CD	_	7	nmod	_	U-CARDINAL
+7	@UN_HRC	@un_hrc	NNS	pos2=XX	8	compound	_	O
+8	response:Inquiries	response:inquiries	NNS	pos2=AFX	3	appos	_	O
+9	0	0	CD	_	11	nmod	_	O
+10	Urgent	urgent	NNP	pos2=JJ	11	compound	_	O
+11	Sessions	session	NNS	pos2=NNPS	3	appos	_	O
+12	0	0	CD	_	13	nmod	_	U-CARDINAL
+13	Condemnations	condemnation	NNS	_	3	appos	_	O
+14	of	of	IN	_	13	prep	_	O
+15	…	…	NFP	pos2=-LRB-	14	pobj	_	O
+16	https://t.co/WYnHkylrLy	#hlink#	ADD	pos2=NN	1	dep	_	O
+

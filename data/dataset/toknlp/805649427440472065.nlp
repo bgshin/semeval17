@@ -1,0 +1,26 @@
+1	Given	give	VBN	_	0	root	_	O
+2	my	my	PRP$	_	3	poss	_	O
+3	experience	experience	NN	_	1	pobj	_	O
+4	with	with	IN	_	3	prep	_	O
+5	my	my	PRP$	_	8	poss	_	O
+6	real	real	JJ	_	7	nmod	_	O
+7	estate	estate	NN	_	8	compound	_	O
+8	inheritance	inheritance	NN	_	4	pobj	_	O
+9	&	&	CC	_	8	cc	_	O
+10	the	the	DT	_	11	det	_	O
+11	issues	issue	NNS	_	8	conj	_	O
+12	w	w	IN	pos2=RB	3	prep	_	O
+13	/	/	HYPH	_	12	punct	_	O
+14	#fracking	#fracking	VBG	pos2=NN	12	pcomp	_	O
+15	so	so	RB	_	16	advmod	_	O
+16	glad	glad	JJ	pos2=RB	14	acomp	_	O
+17	I	I	PRP	_	18	nsubj	_	O
+18	passed	pass	VBD	_	16	ccomp	_	O
+19	on	on	RP	pos2=IN	18	prt	_	O
+20	buying	buy	VBG	_	18	xcomp	_	O
+21	real	real	JJ	_	22	nmod	_	O
+22	estate	estate	NN	_	20	dobj	_	O
+23	in	in	IN	_	20	prep	_	O
+24	#BoulderCounty	#bouldercounty	NNP	pos2=NN	23	pobj	_	O
+25	#yikes	#yikes	UH	pos2=NNS	18	discourse	_	O
+

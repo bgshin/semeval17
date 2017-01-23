@@ -1,0 +1,15 @@
+1	@SenatorMRoberts	@senatormroberts	NNS	pos2=VBZ	8	nsubj	_	O
+2	Only	only	RB	_	8	advmod	_	O
+3	because	because	IN	_	8	mark	_	O
+4	burning	burn	VBG	pos2=JJ	6	nmod	_	O
+5	fossil	fossil	NN	pos2=JJ	6	compound	_	O
+6	fuels	fuel	NNS	_	9	nsubjpass	_	O
+7	never	never	RB	_	8	neg	_	O
+8	includes	include	VBZ	_	0	root	_	O
+9	the	the	DT	_	10	det	_	O
+10	cost	cost	NN	_	8	dobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	carbon	carbon	NN	_	13	compound	_	O
+13	pollution	pollution	NN	_	11	pobj	_	O
+14	.	.	.	_	8	punct	_	O
+

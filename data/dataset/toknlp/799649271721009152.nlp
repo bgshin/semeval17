@@ -1,0 +1,11 @@
+1	Trump	trump	NNP	pos2=NN	3	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	cabinet	cabinet	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	#AttorneyGeneral	#attorneygeneral	JJ	pos2=ADD	5	nmod	_	O
+2	#NotMyPresident	#notmypresident	ADD	pos2=GW	5	punct	_	O
+3	#JeffSessions	#jeffsessions	NNS	pos2=GW	5	nmod	_	O
+4	#TrumpTransitionTeam	#trumptransitionteam	ADD	pos2=GW	5	punct	_	O
+5	https://t.co/6g2ExytdFo	#hlink#	ADD	_	0	root	_	O
+

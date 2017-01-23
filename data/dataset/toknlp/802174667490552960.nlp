@@ -1,0 +1,23 @@
+1	Visiting	visit	VBG	_	0	root	_	O
+2	Pittsburgh	pittsburgh	NNP	_	1	dobj	_	U-GPE
+3	?	?	.	_	1	punct	_	O
+
+1	Lyft	lyft	NNP	_	3	nsubj	_	U-ORG
+2	is	be	VBZ	_	3	aux	_	O
+3	giving	give	VBG	_	0	root	_	O
+4	new	new	JJ	_	5	nmod	_	O
+5	users	user	NNS	_	3	dobj	_	O
+6	TEN	#crd#	CD	pos2=NNP	8	nmod	_	U-CARDINAL
+7	FREE	free	JJ	_	8	nmod	_	O
+8	RIDES	ride	NNS	_	3	dobj	_	O
+9	!!	!!	.	_	3	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	Code	code	NNP	pos2=NN	4	dep	_	O
+3	:	:	:	_	4	punct	_	O
+4	LICK	lick	NN	pos2=VB	0	root	_	O
+5	#uber	#uber	PRP	pos2=IN	6	nsubj	_	O
+6	#lyft	#lyft	VBP	pos2=MD	4	advcl	_	O
+7	#taxi	#taxi	UH	pos2=XX	6	discourse	_	O
+8	#cab	#cab	UH	pos2=.	6	discourse	_	O
+

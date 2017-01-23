@@ -1,0 +1,22 @@
+1	@suho_ftw	@suho_ftw	SYM	pos2=XX	4	punct	_	U-TIME
+2	@DearAuntCrabby	@dearauntcrabby	IN	pos2=VBD	4	mark	_	O
+3	Everyone	everyone	NN	_	4	nsubj	_	O
+4	knew	know	VBD	_	0	root	_	O
+5	that	that	IN	_	8	mark	_	O
+6	Trump	trump	NNP	pos2=NN	8	nsubj	_	U-ORG
+7	would	would	MD	_	8	aux	_	O
+8	fill	fill	VB	_	4	ccomp	_	O
+9	his	his	PRP$	_	10	poss	_	O
+10	cabinet	cabinet	NN	_	8	dobj	_	O
+11	with	with	IN	_	8	prep	_	O
+12	the	the	DT	_	19	det	_	O
+13	For	for	IN	pos2=NNP	8	prep	_	O
+14	Private	private	JJ	pos2=NNP	16	nmod	_	O
+15	Profit	profit	NN	pos2=NNP	16	compound	_	O
+16	types	type	NNS	pos2=NN	13	pobj	_	O
+17	=	=	SYM	pos2=,	19	punct	_	O
+18	no	no	DT	_	19	det	_	O
+19	surprise	surprise	NN	_	15	dobj	_	O
+20	here	here	RB	_	19	advmod	_	O
+21	!	!	.	_	4	punct	_	O
+

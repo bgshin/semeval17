@@ -1,0 +1,23 @@
+1	The	the	DT	_	3	det	_	O
+2	#BeautyAndTheBeast	#beautyandthebeast	NNP	pos2=JJS	3	compound	_	U-PRODUCT
+3	trailer	trailer	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	finally	finally	RB	_	4	advmod	_	O
+6	here	here	RB	_	4	advmod	_	O
+7	!	!	.	_	4	punct	_	O
+
+1	So	so	RB	_	5	advmod	_	O
+2	you	you	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	miss	miss	VB	_	0	root	_	O
+6	anything	anything	NN	_	5	dobj	_	O
+7	,	,	,	_	8	punct	_	O
+8	read	read	VB	_	5	dep	_	O
+9	our	our	PRP$	_	11	poss	_	O
+10	in-depth	in-depth	JJ	_	11	nmod	_	O
+11	analysis	analysis	NN	_	8	dobj	_	O
+12	!	!	.	_	5	punct	_	O
+
+1	https://t.co/fxmYUbv9LG	#hlink#	ADD	_	0	root	_	U-ORG
+

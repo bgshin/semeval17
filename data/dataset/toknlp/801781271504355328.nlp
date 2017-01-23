@@ -1,0 +1,23 @@
+1	@VeraVanzetti	@veravanzetti	NNS	pos2=ADD	14	vocative	_	O
+2	@wfedullo	@wfedullo	UH	pos2=IN	1	discourse	_	O
+3	@charliekirk11	@charliekirk0	IN	pos2=PRP$	1	prep	_	O
+4	Faggots	faggot	NNS	pos2=NNP	3	pobj	_	O
+5	,	,	,	_	4	punct	_	O
+6	Jews	jew	NNPS	_	4	appos	_	U-NORP
+7	,	,	,	_	6	punct	_	O
+8	commies	commie	NNS	_	6	conj	_	O
+9	,	,	,	_	8	punct	_	O
+10	liberals	liberal	NNS	_	8	conj	_	O
+11	,	,	,	_	14	punct	_	O
+12	climate	climate	NN	pos2=JJ	13	compound	_	O
+13	scientists	scientist	NNS	_	14	nsubj	_	O
+14	are	be	VBP	_	0	root	_	O
+15	all	all	DT	pos2=RB	17	det	_	O
+16	subhuman	subhuman	JJ	_	17	nmod	_	O
+17	scum	scum	NN	pos2=JJ	14	attr	_	O
+18	USA	usa	NNP	_	19	compound	_	O
+19	USA	usa	NNP	_	17	appos	_	O
+20	Burn	burn	VB	pos2=NNP	14	advcl	_	O
+21	all	all	DT	pos2=PDT	22	det	_	O
+22	non-Rightists	non-rightists	NNS	pos2=JJ	20	dobj	_	U-NORP
+

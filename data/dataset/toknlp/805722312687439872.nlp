@@ -1,0 +1,10 @@
+1	Regime	regime	NN	_	2	compound	_	O
+2	blasts	blast	NNS	pos2=VBZ	9	dep	_	O
+3	Aleppo	aleppo	NNP	_	2	appos	_	U-GPE
+4	;	;	,	pos2=:	9	punct	_	O
+5	aid	aid	NN	pos2=VB	7	nsubj	_	O
+6	urgently	urgently	RB	_	7	advmod	_	O
+7	needed	need	VBN	_	9	nmod	_	O
+8	-	-	,	pos2=:	9	punct	_	O
+9	https://t.co/K3hzvJlKcH	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,15 @@
+1	Tony	tony	NNP	pos2=JJ	2	compound	_	B-PERSON
+2	romo	romo	NNP	pos2=NN	5	nsubj	_	L-PERSON
+3	is	be	VBZ	_	5	aux	_	O
+4	currently	currently	RB	_	5	advmod	_	O
+5	singing	sing	VBG	_	0	root	_	O
+6	fake	fake	JJ	_	7	nmod	_	O
+7	love	love	NN	_	5	dobj	_	O
+8	by	by	IN	_	5	prep	_	O
+9	drake	drake	NNP	pos2=NN	8	pobj	_	O
+10	to	to	IN	_	5	prep	_	O
+11	Prescott	prescott	NNP	_	10	pobj	_	U-PERSON
+12	....	..	.	_	5	punct	_	O
+
+1	RIP	rip	NN	pos2=VB	0	root	_	O
+

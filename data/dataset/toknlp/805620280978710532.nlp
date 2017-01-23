@@ -1,0 +1,32 @@
+1	Also	also	RB	_	5	advmod	_	O
+2	low	low	JJ	_	4	nmod	_	O
+3	-	-	HYPH	_	4	punct	_	O
+4	key	key	NN	pos2=JJ	9	nmod	_	O
+5	wanting	want	VBG	pos2=NN	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	look	look	VB	_	5	xcomp	_	O
+8	into	into	IN	_	7	prep	_	O
+9	veganism	veganism	NN	_	8	pobj	_	O
+10	&	&	CC	_	9	cc	_	O
+11	vegetarianism	vegetarianism	NN	_	9	conj	_	O
+12	?	?	.	_	5	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	'm	be	VBP	_	3	aux	_	O
+3	feeling	feel	VBG	_	0	root	_	O
+4	like	like	IN	_	3	prep	_	O
+5	trash	trash	NN	_	4	pobj	_	O
+6	&	&	CC	_	3	cc	_	O
+7	want	want	VBP	pos2=VB	3	conj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	do	do	VB	_	7	xcomp	_	O
+10	something	something	NN	_	9	dobj	_	O
+11	good	good	JJ	_	10	nmod	_	O
+12	for	for	IN	_	9	prep	_	O
+13	my	my	PRP$	_	14	poss	_	O
+14	diet	diet	NN	_	12	pobj	_	O
+15	and	and	CC	_	14	cc	_	O
+16	the	the	DT	_	17	det	_	O
+17	earth	earth	NN	_	14	conj	_	U-LOC
+18	.	.	.	_	3	punct	_	O
+

@@ -1,0 +1,20 @@
+1	You	you	PRP	_	4	nsubj	_	B-ORG
+2	White	white	NNP	pos2=JJ	3	compound	_	I-ORG
+3	Supremacists	supremacist	NNPS	pos2=NNS	4	nsubj	_	L-ORG
+4	are	be	VBP	_	0	root	_	O
+5	ignorant	ignorant	JJ	_	4	acomp	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	believe	believe	VBP	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	Egyptians	egyptian	NNPS	_	5	nsubj	_	U-NORP
+5	were	be	VBD	_	2	ccomp	_	O
+6	white	white	JJ	_	5	acomp	_	O
+7	but	but	CC	_	2	cc	_	O
+8	their	their	PRP$	_	9	poss	_	O
+9	art	art	NN	_	10	nsubj	_	O
+10	says	say	VBZ	_	2	conj	_	O
+11	otherwise	otherwise	RB	_	12	advmod	_	O
+12	https://t.co/2qV3Iqi09d	#hlink#	ADD	_	10	xcomp	_	U-ORG
+

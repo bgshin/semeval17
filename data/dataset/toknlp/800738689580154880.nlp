@@ -1,0 +1,17 @@
+1	Putin	putin	NNP	pos2=NN	5	dep	_	U-PERSON
+2	:	:	:	_	5	punct	_	O
+3	Saakashvili	saakashvili	NNP	_	5	poss	_	U-PERSON
+4	's	's	POS	_	3	case	_	O
+5	appointment	appointment	NN	_	9	nsubj	_	O
+6	as	as	IN	_	5	prep	_	O
+7	Odessa	odessa	NNP	_	8	compound	_	U-GPE
+8	Governor	governor	NNP	_	6	pobj	_	O
+9	was	be	VBD	_	0	root	_	O
+10	'	'	``	_	11	punct	_	O
+11	insult	insult	NN	_	9	attr	_	O
+12	'	'	''	_	11	punct	_	O
+13	to	to	IN	_	11	prep	_	O
+14	Ukrainians	ukrainian	NNPS	pos2=GW	13	pobj	_	U-NORP
+15	https://t.co/Fi5LKHw953	#hlink#	ADD	pos2=POS	16	nmod	_	O
+16	https://t.co/YT1zHruKAb	#hlink#	ADD	_	11	appos	_	U-ORG
+

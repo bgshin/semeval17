@@ -1,0 +1,10 @@
+1	Checking	check	VBG	_	7	advcl	_	O
+2	out	out	RP	_	1	prt	_	O
+3	this	this	DT	_	4	det	_	O
+4	song	song	NN	_	1	dobj	_	O
+5	on	on	IN	_	1	prep	_	O
+6	Sutros	sutros	NNP	pos2=NNPS	5	pobj	_	U-PERSON
+7	https://t.co/0UXkmcmOfQ	#hlink#	ADD	_	0	root	_	O
+8	via	via	IN	_	7	prep	_	O
+9	@sutros	@sutros	.	pos2=NNS	8	pobj	_	O
+

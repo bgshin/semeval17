@@ -1,0 +1,15 @@
+1	Jeep	jeep	NN	pos2=NNP	6	nsubj	_	O
+2	ferrying	ferry	VBG	_	1	acl	_	O
+3	Castro	castro	NNP	_	5	poss	_	U-PERSON
+4	's	's	POS	_	3	case	_	O
+5	ashes	ash	NNS	_	2	dobj	_	O
+6	broke	break	VBD	_	0	root	_	O
+7	down	down	RP	pos2=RB	6	prt	_	O
+8	and	and	CC	_	6	cc	_	O
+9	needed	need	VBN	pos2=VBD	6	conj	_	O
+10	to	to	TO	_	12	aux	_	O
+11	be	be	VB	_	12	auxpass	_	O
+12	pushed	push	VBN	_	9	xcomp	_	O
+13	😂😂	😂😂	NFP	pos2=RP	12	agent	_	O
+14	https://t.co/wGV0EuVjPz	#hlink#	ADD	pos2=NN	12	dobj	_	O
+

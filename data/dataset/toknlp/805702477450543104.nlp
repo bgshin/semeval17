@@ -1,0 +1,14 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=GW	5	compound	_	U-PRODUCT
+5	video	video	NN	pos2=GW	2	dobj	_	O
+6	https://t.co/fuMCjZBvYw	#hlink#	NNP	pos2=ADD	8	compound	_	B-ORG
+7	Medical	medical	NNP	pos2=JJ	8	compound	_	I-ORG
+8	Marijuana	marijuana	NNP	pos2=NN	5	appos	_	I-ORG
+9	and	and	CC	_	8	cc	_	I-ORG
+10	Impacts	impact	NNPS	pos2=NNS	8	conj	_	L-ORG
+11	on	on	IN	_	10	prep	_	O
+12	Epilepsy	epilepsy	NN	pos2=NNP	11	pobj	_	O
+13	2014	0	CD	_	12	nmod	_	U-DATE
+

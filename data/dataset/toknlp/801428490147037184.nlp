@@ -1,0 +1,15 @@
+1	@KennedyConnolly	@kennedyconnolly	RB	pos2=VB	5	advmod	_	O
+2	most	most	RBS	pos2=JJS	3	advmod	_	O
+3	arrogant	arrogant	JJ	_	4	nmod	_	O
+4	rightists	rightist	NNS	_	5	nsubj	_	O
+5	are	be	VBP	_	0	root	_	O
+6	authoritarian	authoritarian	JJ	_	5	acomp	_	O
+7	and	and	CC	_	5	cc	_	O
+8	do	do	VB	pos2=VBP	10	aux	_	O
+9	n't	not	RB	_	10	neg	_	O
+10	pretend	pretend	VB	_	5	conj	_	O
+11	to	to	TO	_	12	aux	_	O
+12	be	be	VB	_	10	xcomp	_	O
+13	liberal	liberal	JJ	_	12	acomp	_	O
+14	.	.	.	_	5	punct	_	O
+

@@ -1,0 +1,14 @@
+1	Poroshenko	poroshenko	NNP	pos2=FW	13	nmod	_	U-PERSON
+2	sure	sure	JJ	pos2=UH	7	discourse	_	O
+3	Trump	trump	NNP	pos2=NN	5	poss	_	U-PERSON
+4	won`t	won`t	POS	pos2=MD	3	case	_	O
+5	change	change	NN	pos2=VBP	7	compound	_	O
+6	U.S.	u.s.	NNP	_	7	compound	_	U-GPE
+7	policy	policy	NN	_	1	appos	_	O
+8	on	on	IN	_	7	prep	_	O
+9	Ukraine	ukraine	NNP	_	11	compound	_	U-GPE
+10	–	-	HYPH	pos2=,	11	punct	_	O
+11	Reuters	reuters	NNP	pos2=GW	8	pobj	_	O
+12	https://t.co/TnDiEcTxwe	#hlink#	ADD	_	13	nmod	_	O
+13	https://t.co/6ahExikLJl	#hlink#	ADD	_	0	root	_	U-ORG
+

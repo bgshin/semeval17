@@ -1,0 +1,14 @@
+1	joke	joke	NN	_	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	vaccines	vaccine	NNS	_	4	nsubj	_	O
+4	cause	cause	VBP	pos2=NN	10	dep	_	O
+5	autismwoke	autismwoke	NN	pos2=CD	4	dobj	_	O
+6	:	:	:	_	10	punct	_	O
+7	homo	homo	NN	pos2=JJ	8	compound	_	O
+8	autistus	autistus	NN	pos2=FW	10	nsubj	_	O
+9	is	be	VBZ	_	10	aux	_	O
+10	mans	mans	VBG	pos2=PRP$	0	root	_	O
+11	next	next	JJ	pos2=IN	13	nmod	_	O
+12	evolutionary	evolutionary	JJ	_	13	nmod	_	O
+13	step	step	NN	_	10	pobj	_	O
+

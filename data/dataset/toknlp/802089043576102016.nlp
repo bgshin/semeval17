@@ -1,0 +1,20 @@
+1	Join	join	VB	_	0	root	_	O
+2	us	us	PRP	_	1	dobj	_	O
+3	today	today	NN	_	1	npadvmod	_	U-DATE
+4	JBR	jbr	NNP	pos2=IN	1	vocative	_	O
+5	The	the	DT	pos2=NNP	6	det	_	O
+6	Walk	walk	NNP	pos2=NN	4	appos	_	O
+7	at	at	IN	_	1	prep	_	O
+8	5:30	0	CD	_	7	pobj	_	U-TIME
+9	for	for	IN	_	1	prep	_	O
+10	a	a	DT	_	12	det	_	O
+11	special	special	JJ	_	12	nmod	_	O
+12	performance	performance	NN	_	9	pobj	_	O
+13	for	for	IN	_	12	prep	_	O
+14	the	the	DT	_	16	det	_	B-ORG
+15	Orange	orange	NNP	pos2=NN	16	compound	_	I-ORG
+16	Campaign#SpeakUpae	campaign#speakupae	NNP	pos2=NNPS	13	pobj	_	L-ORG
+17	#OrangeTheWorld	#orangetheworld	GW	pos2=NNP	19	nmod	_	O
+18	…	…	NFP	pos2=GW	19	punct	_	O
+19	https://t.co/fsYVYLh60g	#hlink#	ADD	_	1	dep	_	U-ORG
+

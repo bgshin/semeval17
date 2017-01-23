@@ -1,0 +1,13 @@
+1	@CNN	@cnn	NN	pos2=NNP	3	dep	_	O
+2	-	-	:	pos2=,	3	punct	_	O
+3	Are	be	VBP	_	0	root	_	O
+4	you	you	PRP	_	3	nsubj	_	O
+5	sure	sure	JJ	pos2=RB	3	acomp	_	O
+6	that	that	DT	_	7	nsubj	_	O
+7	's	's	VBZ	_	5	ccomp	_	O
+8	not	not	RB	_	7	neg	_	O
+9	a	a	DT	_	11	det	_	O
+10	Anti-Trump	anti-trump	JJ	pos2=NNP	11	nmod	_	O
+11	protest	protest	NN	pos2=VB	7	attr	_	O
+12	?	?	.	_	3	punct	_	O
+

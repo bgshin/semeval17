@@ -1,0 +1,25 @@
+1	@Seestur	@seestur	NNP	pos2=PRP	7	nsubj	_	O
+2	@thinkprogress	@thinkprogress	UH	pos2=ADD	7	discourse	_	O
+3	"	"	''	pos2=``	2	punct	_	O
+4	to	to	TO	_	5	aux	_	O
+5	achieve	achieve	VB	_	2	advcl	_	O
+6	just	just	RB	_	7	advmod	_	O
+7	ends	end	VBZ	pos2=NNS	0	root	_	O
+8	"	"	``	pos2=''	7	punct	_	O
+9	=	=	SYM	pos2=NFP	10	punct	_	O
+10	fighting	fight	VBG	_	7	xcomp	_	O
+11	ANY	any	DT	_	12	det	_	O
+12	attempt	attempt	NN	_	10	dobj	_	O
+13	to	to	TO	_	14	aux	_	O
+14	prove	prove	VB	_	12	acl	_	O
+15	citizenship	citizenship	NN	_	14	dobj	_	O
+16	to	to	TO	_	17	aux	_	O
+17	vote	vote	VB	_	14	advcl	_	O
+18	.	.	.	_	7	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	call	call	VBP	_	0	root	_	O
+3	it	it	PRP	_	2	dobj	_	O
+4	voter	voter	NN	pos2=XX	2	oprd	_	O
+5	suppression.#Insanity	suppression.#insanity	.	pos2=NNP	2	punct	_	O
+

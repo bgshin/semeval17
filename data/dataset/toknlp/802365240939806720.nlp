@@ -1,0 +1,12 @@
+1	MICHAEL	michael	NNP	_	2	compound	_	B-PERSON
+2	MOORE	moore	NNP	_	3	nsubj	_	L-PERSON
+3	SETS	set	VBZ	_	0	root	_	O
+4	CNN	cnn	NNP	pos2=CC	3	dobj	_	U-ORG
+5	STRAIGHT	straight	RB	pos2=NNP	6	advmod	_	O
+6	ON	on	IN	_	3	prep	_	O
+7	HILLARY	hillary	NNP	_	8	compound	_	B-PERSON
+8	CLINTON	clinton	NNP	_	6	pobj	_	L-PERSON
+9	https://t.co/8PpqMCaTkQ	#hlink#	ADD	pos2=VBZ	4	appos	_	O
+10	via	via	IN	_	3	prep	_	O
+11	@YouTube	@youtube	NNP	pos2=NN	10	pobj	_	O
+

@@ -1,0 +1,10 @@
+1	@BloodyFlowers	@bloodyflowers	NNS	pos2=VBZ	0	root	_	O
+2	@otepofficial	@otepofficial	UH	pos2=JJ	1	discourse	_	O
+3	YES	yes	UH	_	1	discourse	_	O
+4	!	!	.	_	1	punct	_	O
+
+1	Conservatives	conservative	NNS	pos2=NNPS	2	nsubj	_	O
+2	HATE	hate	VBP	_	0	root	_	O
+3	facts	fact	NNS	_	2	dobj	_	O
+4	!	!	.	_	2	punct	_	O
+

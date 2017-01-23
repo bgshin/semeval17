@@ -1,0 +1,16 @@
+1	Taked	take	VBD	pos2=VBN	0	root	_	O
+2	5	0	CD	_	3	nmod	_	B-TIME
+3	mins	min	NNS	_	1	npadvmod	_	L-TIME
+4	to	to	TO	_	5	aux	_	O
+5	express	express	VB	_	1	xcomp	_	O
+6	your	your	PRP$	_	7	poss	_	O
+7	disgust	disgust	NN	_	5	dobj	_	O
+8	to	to	IN	_	5	prep	_	O
+9	your	your	PRP$	_	10	poss	_	O
+10	#bank	#bank	NN	pos2=``	8	pobj	_	O
+11	that	that	DT	pos2=IN	12	nsubj	_	O
+12	s	s	VBZ	pos2=JJR	10	case	_	O
+13	funding	funding	NN	pos2=VBG	12	attr	_	O
+14	#DAPL	#dapl	NFP	pos2=ADD	15	punct	_	O
+15	https://t.co/XZE5YVF6wy	#hlink#	ADD	_	10	appos	_	O
+

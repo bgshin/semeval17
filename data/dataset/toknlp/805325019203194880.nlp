@@ -1,0 +1,22 @@
+1	@St_Rev	@st_rev	XX	pos2=PDT	7	dep	_	O
+2	those	those	DT	_	5	det	_	O
+3	damn	damn	RB	pos2=JJ	4	advmod	_	O
+4	left	left	JJ	pos2=VBN	5	nmod	_	O
+5	libertarians	libertarian	NNS	_	7	nsubj	_	O
+6	,	,	,	_	7	punct	_	O
+7	remember	remember	VB	_	0	root	_	O
+8	when	when	WRB	_	10	advmod	_	O
+9	they	they	PRP	_	10	nsubj	_	O
+10	divided	divide	VBD	pos2=VBN	7	advcl	_	O
+11	public	public	JJ	_	12	nmod	_	O
+12	opinion	opinion	NN	_	10	dobj	_	O
+13	on	on	IN	_	12	prep	_	O
+14	obama	obama	NN	pos2=NNP	13	pobj	_	O
+15	using	use	VBG	_	10	advcl	_	O
+16	drone	drone	NN	_	17	compound	_	O
+17	strikes	strike	NNS	_	15	dobj	_	O
+18	and	and	CC	_	17	cc	_	O
+19	mass	mass	NN	_	17	conj	_	O
+20	survei-wait.huh	#hlink#	ADD	pos2=NN	17	conj	_	O
+21	.	.	.	_	7	punct	_	O
+

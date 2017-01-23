@@ -1,0 +1,23 @@
+1	A	a	DT	_	2	det	_	O
+2	wall	wall	NN	_	8	nsubj	_	O
+3	on	on	IN	_	2	prep	_	O
+4	the	the	DT	_	6	det	_	O
+5	Mexican	mexican	JJ	_	6	nmod	_	U-NORP
+6	border	border	NN	_	3	pobj	_	O
+7	could	could	MD	_	8	aux	_	O
+8	hurt	hurt	VB	_	0	root	_	O
+9	111	0	CD	_	11	nmod	_	U-CARDINAL
+10	endangered	endangered	JJ	pos2=VBN	11	nmod	_	O
+11	species	species	NNS	pos2=NN	8	dobj	_	O
+12	.	.	.	_	8	punct	_	O
+
+1	Our	our	PRP$	_	2	poss	_	O
+2	report	report	NN	_	9	nsubj	_	O
+3	on	on	IN	_	2	prep	_	O
+4	@realDonaldTrump	@realdonaldtrump	NNP	pos2=ADD	6	poss	_	U-ORG
+5	's	's	POS	_	4	case	_	O
+6	impact	impact	NN	_	3	pobj	_	O
+7	on	on	IN	_	6	prep	_	O
+8	wildlife	wildlife	NN	_	7	pobj	_	O
+9	https://t.co/GtjxatnJfm	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,19 @@
+1	Donald	donald	NNP	_	2	compound	_	B-PERSON
+2	Trump	trump	NNP	_	0	vocative	_	L-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	the	the	DT	_	5	det	_	O
+5	Rise	rise	NN	pos2=NNP	2	conj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	Alt	alt	NNP	pos2=JJ	10	compound	_	B-ORG
+8	-	-	HYPH	_	10	punct	_	I-ORG
+9	Reality	reality	NNP	_	10	compound	_	I-ORG
+10	Media	media	NNP	pos2=GW	6	pobj	_	L-ORG
+11	https://t.co/Fs5wXD9InN	#hlink#	ADD	pos2=NN	5	prep	_	O
+12	#MAGA	#maga	-RRB-	pos2=NN	5	prep	_	O
+13	#NeverTrump	#nevertrump	ADD	pos2=-RRB-	5	prep	_	O
+14	#ExGOP	#exgop	ADD	pos2=XX	5	prep	_	O
+15	#CruzCrew	#cruzcrew	ADD	pos2=XX	5	prep	_	O
+16	#DonaldTrump	#donaldtrump	ADD	pos2=XX	5	prep	_	O
+17	#UniteBlue	#uniteblue	ADD	pos2=NNP	5	prep	_	O
+18	#Democrats	#democrats	NNS	pos2=ADD	5	prep	_	O
+

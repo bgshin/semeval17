@@ -1,0 +1,16 @@
+1	W	w	IN	pos2=NNS	6	prep	_	B-ORG
+2	/	/	HYPH	pos2=SYM	1	punct	_	I-ORG
+3	Trump	trump	NNP	pos2=NN	1	pobj	_	L-ORG
+4	,	,	,	_	6	punct	_	O
+5	nationalists	nationalist	NNS	_	6	nsubj	_	O
+6	strike	strike	VBP	pos2=VB	0	root	_	O
+7	back	back	RB	pos2=RP	6	advmod	_	O
+8	against	against	IN	_	7	prep	_	O
+9	immigration	immigration	NN	_	8	pobj	_	O
+10	#politics	#politics	NNPS	pos2=NNS	11	compound	_	O
+11	#elections	#elections	NNS	pos2=UH	15	nmod	_	O
+12	#news	#news	GW	pos2=UH	15	nmod	_	O
+13	#startup	#startup	GW	pos2=NFP	15	nmod	_	O
+14	https://t.co/lJjGIhWMY0	#hlink#	ADD	pos2=GW	15	nmod	_	O
+15	https://t.co/NpyCp9YkGd	#hlink#	ADD	_	6	dep	_	U-ORG
+

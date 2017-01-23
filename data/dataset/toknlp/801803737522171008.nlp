@@ -1,0 +1,22 @@
+1	Iraqi	iraqi	JJ	_	2	nmod	_	U-NORP
+2	PM	pm	NNP	pos2=NN	3	nsubj	_	U-ORG
+3	arrived	arrive	VBD	pos2=VBN	0	root	_	O
+4	frontline	frontline	NN	pos2=RB	3	dobj	_	O
+5	near	near	IN	pos2=RB	3	prep	_	O
+6	#TalAfar	#talafar	NNP	pos2=NN	5	pobj	_	U-GPE
+7	,	,	,	_	6	punct	_	O
+8	new	new	JJ	_	9	nmod	_	O
+9	operations	operation	NNS	_	11	nsubj	_	O
+10	to	to	TO	_	11	aux	_	O
+11	retake	retake	VB	_	3	advcl	_	O
+12	#ISIS	#isis	NN	pos2=NNP	14	npadvmod	_	O
+13	-	-	HYPH	_	14	punct	_	O
+14	held	hold	VBN	_	15	nmod	_	O
+15	territories	territory	NNS	_	11	dobj	_	O
+16	expected	expect	VBN	pos2=VBD	15	acl	_	O
+17	tomorrow	tomorrow	NN	_	16	npadvmod	_	U-DATE
+18	..	..	.	pos2=,	3	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/kirTqyp4zm	#hlink#	ADD	pos2=NN	0	root	_	O
+

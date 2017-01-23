@@ -1,0 +1,19 @@
+1	@DCorleone62	@dcorleone0	NN	pos2=ADD	4	compound	_	O
+2	@Celeste112405	@celeste0	NN	pos2=LS	4	compound	_	O
+3	@FOXLADY9	@foxlady0	NN	pos2=XX	4	compound	_	O
+4	SD	sd	NN	pos2=FW	0	root	_	O
+5	selling	sell	VBG	_	4	acl	_	O
+6	weapons	weapon	NNS	_	5	dobj	_	O
+7	to	to	IN	_	5	dative	_	O
+8	countries	country	NNS	_	7	pobj	_	O
+9	that	that	IN	pos2=WDT	11	mark	_	O
+10	that	that	DT	_	11	nsubj	_	O
+11	donated	donate	VBD	pos2=VBN	8	relcl	_	O
+12	to	to	IN	_	11	prep	_	O
+13	the	the	DT	_	15	det	_	B-ORG
+14	Clinton	clinton	NNP	_	15	compound	_	I-ORG
+15	Foundation	foundation	NNP	_	12	pobj	_	L-ORG
+16	?	?	.	_	4	punct	_	O
+
+1	#CORRUPTION	#corruption	NN	pos2=ADD	0	root	_	O
+

@@ -1,0 +1,27 @@
+1	@noplaceforsheep	@noplaceforsheep	UH	pos2=NNS	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	met	meet	VBD	_	0	root	_	O
+4	him	him	PRP	_	3	dobj	_	O
+5	once	once	RB	_	3	advmod	_	O
+6	and	and	CC	_	3	cc	_	O
+7	commented	comment	VBD	_	3	conj	_	O
+8	it	it	PRP	_	10	nsubj	_	O
+9	must	must	MD	_	10	aux	_	O
+10	be	be	VB	_	7	ccomp	_	O
+11	tough	tough	JJ	_	10	acomp	_	O
+12	supporting	support	VBG	_	10	advcl	_	O
+13	Amnesty	amnesty	NNP	_	12	dobj	_	U-ORG
+14	and	and	CC	_	12	cc	_	O
+15	being	be	VBG	_	12	conj	_	O
+16	immigration	immigration	NN	pos2=NNP	17	compound	_	O
+17	minister	minister	NN	_	15	attr	_	O
+18	.	.	.	_	3	punct	_	O
+
+1	He	he	PRP	_	4	nsubj	_	O
+2	did	do	VBD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	stop	stop	VB	_	0	root	_	O
+5	to	to	TO	pos2=IN	6	aux	_	O
+6	chat	chat	VB	_	4	advcl	_	O
+7	...	..	.	pos2=,	4	punct	_	O
+

@@ -1,0 +1,21 @@
+1	my	my	PRP$	_	2	poss	_	O
+2	votes	vote	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	RONALDO	ronaldo	NNP	_	4	pobj	_	U-PERSON
+6	..	..	.	pos2=:	3	punct	_	O
+
+1	@Cristiano	@cristiano	NN	pos2=NNP	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	this	this	DT	_	4	det	_	B-DATE
+4	years	year	NNS	_	2	pobj	_	L-DATE
+5	BALLON	ballon	NNP	pos2=NN	7	nmod	_	O
+6	"	"	``	pos2=''	7	punct	_	O
+7	DOR	dor	NNP	pos2=NN	4	appos	_	U-ORG
+8	.....	..	.	pos2=,	1	punct	_	O
+
+1	2016	0	CD	pos2=LS	0	root	_	U-DATE
+2	.......	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/IOcjn5Fljn	#hlink#	ADD	_	0	root	_	U-ORG
+

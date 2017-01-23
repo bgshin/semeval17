@@ -1,0 +1,13 @@
+1	@KhanSolo	@khansolo	NNP	pos2=ADD	5	discourse	_	U-PERSON
+2	_	_	NFP	pos2=SYM	5	punct	_	O
+3	Tony	tony	NNP	_	4	compound	_	B-PERSON
+4	Romo	romo	NNP	_	5	nsubj	_	L-PERSON
+5	is	be	VBZ	_	0	root	_	O
+6	not	not	RB	_	5	neg	_	O
+7	worth	worth	JJ	pos2=RB	5	acomp	_	O
+8	a	a	DT	_	9	det	_	O
+9	pick	pick	NN	_	7	npadvmod	_	O
+10	lower	low	JJR	pos2=RBR	5	acomp	_	O
+11	than	than	IN	_	10	prep	_	O
+12	fourth	#ord#	JJ	pos2=RB	11	pobj	_	U-ORDINAL
+

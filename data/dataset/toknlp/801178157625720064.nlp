@@ -1,0 +1,10 @@
+1	Sookie	sookie	NNP	pos2=NN	5	nsubj	_	U-PERSON
+2	,	,	,	_	1	punct	_	O
+3	jess	jess	NN	pos2=NNP	1	appos	_	O
+4	,	,	,	_	1	punct	_	O
+5	miss	miss	VBP	pos2=NN	0	root	_	O
+6	patty	patty	NN	pos2=NNP	5	dobj	_	O
+7	,	,	,	_	6	punct	_	O
+8	babette	babette	NN	pos2=FW	9	compound	_	B-PERSON
+9	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=.	6	conj	_	L-PERSON
+

@@ -1,0 +1,19 @@
+1	U.N.	u.n.	NNP	_	2	compound	_	U-ORG
+2	Names	name	NNS	pos2=NNP	0	root	_	O
+3	U.S.	u.s.	NNP	_	4	compound	_	U-GPE
+4	Judge	judge	NNP	_	2	appos	_	O
+5	to	to	TO	pos2=IN	6	aux	_	O
+6	Lead	lead	NNP	pos2=VB	9	compound	_	O
+7	War	war	NNP	_	8	compound	_	O
+8	Crimes	crime	NNPS	pos2=NNS	9	compound	_	O
+9	Inquiry	inquiry	NNP	_	14	dep	_	O
+10	Into	into	IN	_	9	prep	_	O
+11	2014	0	CD	_	13	nmod	_	U-DATE
+12	Gaza	gaza	NNP	pos2=GW	13	compound	_	B-EVENT
+13	Conflict	conflict	NN	pos2=GW	10	pobj	_	L-EVENT
+14	https://t.co/L9VDue8jKS	#hlink#	ADD	_	0	root	_	O
+15	#gaza	#gaza	IN	pos2=-RRB-	14	prep	_	O
+16	#palestine	#palestine	UH	pos2=PRP	15	discourse	_	O
+17	#israel	#israel	UH	pos2=VB	15	discourse	_	O
+18	#BDS	#bds	NNS	pos2=UH	15	pobj	_	O
+

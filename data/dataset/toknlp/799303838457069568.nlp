@@ -1,0 +1,15 @@
+1	Omfg	omfg	NNP	pos2=UH	5	advcl	_	O
+2	in	in	IN	_	1	prep	_	O
+3	china	china	NN	pos2=NNP	2	pobj	_	O
+4	they	they	PRP	_	5	nsubj	_	O
+5	call	call	VBP	_	0	root	_	O
+6	kim	kim	FW	pos2=NNP	5	dobj	_	O
+7	jong	jong	FW	pos2=NNP	8	advmod	_	O
+8	un	un	FW	pos2=NNP	5	oprd	_	O
+9	"	"	''	pos2=``	10	punct	_	O
+10	kim	kim	NN	pos2=JJ	5	oprd	_	O
+11	fatty	fatty	VBD	pos2=JJ	14	nmod	_	O
+12	the	the	DT	_	13	det	_	O
+13	third	#ord#	JJ	_	10	appos	_	U-ORDINAL
+14	"	"	``	pos2=''	5	punct	_	O
+

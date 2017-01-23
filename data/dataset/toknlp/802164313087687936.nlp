@@ -1,0 +1,13 @@
+1	MARIA	maria	NNP	pos2=NN	12	dep	_	B-PERSON
+2	-	-	HYPH	pos2=:	12	punct	_	I-PERSON
+3	RICKY	ricky	NNP	_	4	compound	_	I-PERSON
+4	MARTIN	martin	NNP	_	12	dep	_	L-PERSON
+5	do	do	VBP	pos2=VB	9	aux	_	O
+6	Album	album	NNP	_	10	compound	_	O
+7	Ricky	ricky	NNP	_	10	compound	_	B-PERSON
+8	Martin	martin	NNP	_	10	compound	_	I-PERSON
+9	-	-	HYPH	pos2=:	10	punct	_	I-PERSON
+10	iTunes	itunes	NNP	pos2=NNS	12	dep	_	L-PERSON
+11	:	:	:	_	12	punct	_	O
+12	https://t.co/bJWI2WjPvV	#hlink#	ADD	pos2=NN	0	root	_	O
+

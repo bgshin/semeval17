@@ -1,0 +1,26 @@
+1	@JamesLeo9	@jamesleo0	NN	pos2=NNS	5	dep	_	O
+2	@andydhare	@andydhare	UH	pos2=LS	5	discourse	_	O
+3	😂	😂	NNP	pos2=UH	8	nmod	_	O
+4	She	she	PRP	pos2=NNP	5	nsubj	_	O
+5	's	's	VBZ	_	0	root	_	O
+6	new	new	JJ	_	5	acomp	_	O
+7	to	to	IN	_	6	prep	_	O
+8	vegetarianism	vegetarianism	NN	_	7	pobj	_	O
+9	!	!	.	_	5	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	sure	sure	JJ	_	8	advmod	_	O
+4	shell	shell	NN	pos2=VBP	5	nsubj	_	O
+5	expand	expand	VB	pos2=VBP	2	acomp	_	O
+6	her	her	PRP$	_	7	poss	_	O
+7	range	range	NN	_	5	dobj	_	O
+8	soon	soon	RB	_	5	advmod	_	O
+9	and	and	CC	_	5	cc	_	O
+10	be	be	VB	_	11	aux	_	O
+11	demanding	demand	VBG	_	5	conj	_	O
+12	more	more	JJR	pos2=RBR	14	nmod	_	O
+13	taxing	taxing	JJ	pos2=VBG	14	nmod	_	O
+14	foodstuffs	foodstuff	NNS	_	11	dobj	_	O
+15	.	.	.	_	2	punct	_	O
+

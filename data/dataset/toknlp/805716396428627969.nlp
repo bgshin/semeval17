@@ -1,0 +1,24 @@
+1	Fidel	fidel	NNP	_	2	compound	_	B-PERSON
+2	Castro	castro	NNP	_	11	nsubj	_	L-PERSON
+3	a	a	DT	_	4	det	_	O
+4	friend	friend	NN	_	2	appos	_	O
+5	of	of	IN	_	4	prep	_	O
+6	the	the	DT	_	10	det	_	B-ORG
+7	Poor	poor	NNP	pos2=JJ	9	compound	_	I-ORG
+8	Working	working	NNP	_	9	compound	_	I-ORG
+9	Class	class	NNP	_	10	compound	_	I-ORG
+10	People	people	NNPS	pos2=NNP	11	nsubj	_	L-ORG
+11	leaves	leave	VBZ	_	22	ccomp	_	O
+12	£	$	$	_	13	nmod	_	O
+13	900,000,000	0	CD	_	11	dobj	_	U-MONEY
+14	What	what	WDT	pos2=WP	16	det	_	O
+15	a	a	DT	_	16	det	_	O
+16	Shame	shame	NN	pos2=NNP	11	dobj	_	O
+17	,	,	,	_	22	punct	_	O
+18	how	how	WRB	_	22	advmod	_	O
+19	will	will	MD	_	22	aux	_	O
+20	his	his	PRP$	_	21	poss	_	O
+21	family	family	NN	_	22	nsubj	_	O
+22	Cope	cope	VB	pos2=NNP	0	root	_	O
+23	?	?	.	_	22	punct	_	O
+

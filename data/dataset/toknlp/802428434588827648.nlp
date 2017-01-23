@@ -1,0 +1,24 @@
+1	White	white	JJ	pos2=NNP	2	nmod	_	O
+2	Liberals	liberal	NNPS	pos2=NNS	3	nsubj	_	U-NORP
+3	make	make	VBP	pos2=VB	0	root	_	O
+4	me	me	PRP	_	5	nsubj	_	O
+5	sick	sick	JJ	_	3	ccomp	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	Like	like	IN	pos2=UH	4	discourse	_	O
+2	y'all	y'all	PRP	pos2=PRP$	3	nmod	_	O
+3	ancestors	ancestor	NNS	_	4	nsubj	_	O
+4	were	be	VBD	_	0	root	_	O
+5	n't	not	RB	_	4	neg	_	O
+6	dictators	dictator	NNS	_	4	attr	_	O
+7	or	or	CC	_	4	cc	_	O
+8	had	have	VBD	_	4	conj	_	O
+9	that	that	DT	_	10	det	_	O
+10	mindset	mindset	NN	_	8	dobj	_	O
+11	in	in	IN	_	10	prep	_	O
+12	America	america	NNP	_	11	pobj	_	U-GPE
+13	very	very	RB	_	14	advmod	_	O
+14	similar	similar	JJ	_	16	nmod	_	O
+15	Fidel	fidel	NNP	_	16	compound	_	B-PERSON
+16	Castro	castro	NNP	_	12	conj	_	L-PERSON
+

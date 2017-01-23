@@ -1,0 +1,27 @@
+1	ManyFL	manyfl	NNP	pos2=``	3	compound	_	B-PERSON
+2	Cnt	cnt	NNP	_	3	compound	_	I-PERSON
+3	Obamacare	obamacare	NNP	_	11	nsubj	_	L-PERSON
+4	Even	even	RB	pos2=NNP	5	advmod	_	O
+5	Amid	amid	IN	pos2=NNP	3	prep	_	O
+6	Talk	talk	NNP	_	8	compound	_	O
+7	Demise	demise	NNP	pos2=NN	8	compound	_	O
+8	ppl	ppl	NNP	pos2=NNS	26	dep	_	O
+9	r	r	POS	pos2=NN	8	case	_	O
+10	stdly	stdly	TO	pos2=NN	11	aux	_	O
+11	sign	sign	VB	pos2=NN	15	advcl	_	O
+12	up	up	RP	_	11	prt	_	O
+13	/	/	SYM	pos2=,	11	punct	_	O
+14	renwg	renwg	NN	pos2=JJ	20	nmod	_	O
+15	cvrg	cvrg	NN	pos2=NNS	26	dep	_	O
+16	/	/	SYM	pos2=,	11	punct	_	O
+17	refus	refus	FW	pos2=NN	20	advmod	_	O
+18	blv	blv	FW	pos2=NN	20	nmod	_	O
+19	bnfit	bnfit	NN	pos2=FW	20	compound	_	O
+20	cnt	cnt	NN	pos2=RB	11	dobj	_	O
+21	on	on	IN	_	11	prep	_	O
+22	wld	wld	MD	pos2=VBN	23	aux	_	O
+23	b	b	VB	pos2=FW	26	dep	_	O
+24	tkn	tkn	GW	pos2=NN	25	advmod	_	O
+25	away	away	RB	pos2=RP	23	advmod	_	O
+26	https://t.co/ehskzpveQT	#hlink#	ADD	pos2=NN	0	root	_	O
+

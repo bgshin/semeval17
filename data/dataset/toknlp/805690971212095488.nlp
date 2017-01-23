@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det	_	O
+2	latest	late	JJS	_	3	nmod	_	O
+3	Pray	pray	NN	pos2=NNP	0	root	_	O
+4	To	to	IN	pos2=NNP	5	aux	_	O
+5	End	end	VB	pos2=NNP	3	relcl	_	O
+6	Abortion	abortion	NN	pos2=NNP	5	dobj	_	O
+7	!	!	.	_	3	punct	_	O
+
+1	https://t.co/0GFZY1EV94	#hlink#	ADD	pos2=NN	0	root	_	O
+2	Thanks	thanks	NNS	pos2=NN	1	npadvmod	_	O
+3	to	to	IN	_	2	prep	_	O
+4	@ajfr4765	@ajfr0	CD	pos2=NNS	5	nmod	_	B-MONEY
+5	@prolifebuttons	@prolifebuttons	NNS	pos2=NNPS	3	pobj	_	I-MONEY
+6	@DennisDeWine	@dennisdewine	ADD	pos2=VBP	2	vocative	_	L-MONEY
+7	#prolife	#prolife	FW	pos2=UH	6	advmod	_	O
+8	#tcot	#tcot	UH	pos2=RB	1	discourse	_	O
+

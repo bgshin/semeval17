@@ -1,0 +1,33 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@potus	@potus	UH	pos2=FW	2	discourse	_	O
+2	@flotus	@flotus	UH	pos2=LS	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	50	0	CD	_	2	nmod	_	B-DATE
+2	yrs	yr	NNS	_	0	root	_	L-DATE
+3	of	of	IN	_	2	prep	_	O
+4	embargo	embargo	NN	_	3	pobj	_	O
+5	?	?	.	_	2	punct	_	O
+
+1	Did	do	VBD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	do	do	VB	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	thing	thing	NN	_	3	dobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	TY	ty	NNP	pos2=NN	0	root	_	U-ORG
+2	for	for	IN	_	1	prep	_	O
+3	trying	try	VBG	_	2	pcomp	_	O
+4	to	to	TO	_	5	aux	_	O
+5	change	change	VB	_	3	xcomp	_	O
+6	Cuba	cuba	NNP	_	5	dobj	_	U-GPE
+7	4	0	CD	_	6	nmod	_	U-CARDINAL
+8	the	the	DT	_	9	advmod	_	O
+9	better	good	JJR	pos2=RBR	5	advmod	_	O
+10	.	.	.	_	1	punct	_	O
+
+1	#endembargo	#endembargo	UH	pos2=FW	2	discourse	_	O
+2	#endtheembargo	#endtheembargo	UH	pos2=FW	0	root	_	O
+

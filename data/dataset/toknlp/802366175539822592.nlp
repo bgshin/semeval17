@@ -1,0 +1,27 @@
+1	@JasonZumwalt	@jasonzumwalt	NN	pos2=JJS	2	compound	_	O
+2	Leftists	leftist	NNPS	pos2=NNS	3	nsubj	_	U-NORP
+3	want	want	VBP	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	ban	ban	VB	_	3	xcomp	_	O
+6	guns	gun	NNS	_	5	dobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	Leftists	leftist	NNS	pos2=NNPS	2	nsubj	_	U-NORP
+2	insult	insult	VBP	pos2=NN	0	root	_	O
+3	gun	gun	NN	_	4	compound	_	O
+4	owners	owner	NNS	_	2	dobj	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	say	say	VBP	pos2=VB	0	root	_	O
+3	some	some	DT	pos2=RB	6	det	_	O
+4	,	,	,	_	2	punct	_	O
+5	implying	imply	VBG	_	2	advcl	_	O
+6	yourself	yourself	PRP	_	5	dobj	_	O
+7	,	,	,	_	2	punct	_	O
+8	perhaps	perhaps	RB	_	11	advmod	_	O
+9	,	,	,	_	11	punct	_	O
+10	own	own	JJ	pos2=VBP	11	nmod	_	O
+11	guns	gun	NNS	_	5	dobj	_	O
+12	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,21 @@
+1	@LadyThriller69have	@ladythriller0have	NN	pos2=VBP	3	npadvmod	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	seen	see	VBN	pos2=VBP	0	root	_	O
+4	what	what	WP	_	9	dobj	_	O
+5	the	the	DT	_	7	det	_	O
+6	anti-Trump	anti-trump	JJ	_	7	nmod	_	U-NORP
+7	riots	riot	NNS	_	9	nsubj	_	O
+8	are	be	VBP	_	9	aux	_	O
+9	doing	do	VBG	_	3	ccomp	_	O
+10	?	?	.	_	3	punct	_	O
+
+1	that	that	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	what	what	WP	_	6	nsubj	_	O
+4	is	be	VBZ	_	6	aux	_	O
+5	actually	actually	RB	_	6	advmod	_	O
+6	scaring	scare	VBG	_	2	ccomp	_	O
+7	millions	#crd#	NNS	_	6	dobj	_	U-CARDINAL
+8	of	of	IN	_	7	prep	_	O
+9	people	people	NNS	_	8	pobj	_	O
+

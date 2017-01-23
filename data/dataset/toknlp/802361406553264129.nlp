@@ -1,0 +1,16 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@samsung	@samsung	NNP	pos2=VBG	3	compound	_	O
+2	Galaxy	galaxy	NNP	pos2=NN	3	compound	_	O
+3	Note	note	NNP	pos2=NN	13	dep	_	O
+4	7	0	CD	pos2=NNP	8	nmod	_	O
+5	&	&	CC	_	4	cc	_	O
+6	3	0	CD	_	4	conj	_	O
+7	more	more	JJR	_	6	qmod	_	O
+8	smartphones	smartphone	NNS	_	3	appos	_	O
+9	of	of	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	B-DATE
+11	year	year	NN	pos2=GW	9	pobj	_	I-DATE
+12	https://t.co/3ukexJjQj0	#hlink#	ADD	_	13	nmod	_	I-DATE
+13	https://t.co/l0DCE3K7eM	#hlink#	ADD	_	0	root	_	L-DATE
+

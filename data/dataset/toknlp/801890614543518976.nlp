@@ -1,0 +1,27 @@
+1	Some1	some0	NN	_	2	nsubj	_	O
+2	sent	send	VBD	_	15	ccomp	_	O
+3	me	me	PRP	_	2	dative	_	O
+4	#Hamas	#hamas	NNP	pos2=CC	6	nmod	_	U-NORP
+5	green	green	JJ	_	6	nmod	_	O
+6	flag	flag	NN	pos2=NNP	2	dobj	_	O
+7	attached	attach	VBN	pos2=VBD	6	acl	_	O
+8	2	0	CD	_	7	npadvmod	_	U-CARDINAL
+9	this	this	DT	_	11	det	_	O
+10	@Kurdustan_Army	@kurdustan_army	NN	pos2=NNP	11	compound	_	O
+11	tweet	tweet	NN	_	15	dep	_	O
+12	,	,	,	_	15	punct	_	O
+13	*	*	SYM	pos2=NFP	15	punct	_	O
+14	directly	directly	RB	_	15	advmod	_	O
+15	in2	in0	VB	pos2=GW	0	root	_	O
+16	my	my	PRP$	_	17	poss	_	O
+17	phone	phone	NN	_	15	dobj	_	O
+18	*	*	,	pos2=NFP	15	punct	_	O
+19	but	but	CC	_	15	cc	_	O
+20	I	I	PRP	_	22	nsubj	_	O
+21	'm	be	VBP	_	22	aux	_	O
+22	blockd	blockd	VBG	pos2=RB	15	conj	_	O
+23	from	from	IN	_	22	prep	_	O
+24	posting	post	VBG	_	23	pcomp	_	O
+25	it	it	PRP	_	24	dobj	_	O
+26	.	.	.	_	22	punct	_	O
+

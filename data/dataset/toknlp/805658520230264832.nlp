@@ -1,0 +1,26 @@
+1	@NanoAzpurua	@nanoazpurua	NNP	pos2=UH	2	compound	_	B-PERSON
+2	@TheeDaven	@theedaven	NNP	pos2=POS	3	compound	_	L-PERSON
+3	chipotle	chipotle	NN	pos2=NNP	7	nsubj	_	O
+4	also	also	RB	_	7	advmod	_	O
+5	does	do	VBZ	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	pay	pay	VB	_	0	root	_	O
+8	minimum	minimum	JJ	pos2=NN	9	nmod	_	O
+9	wage	wage	NN	_	7	dobj	_	O
+10	.	.	.	_	7	punct	_	O
+
+1	if	if	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	want	want	VBP	_	12	advcl	_	O
+4	to	to	TO	_	5	aux	_	O
+5	form	form	VB	_	3	xcomp	_	O
+6	a	a	DT	_	8	det	_	O
+7	retarded	retarded	JJ	_	8	nmod	_	O
+8	argument	argument	NN	_	5	dobj	_	O
+9	based	base	VBN	_	8	acl	_	O
+10	on	on	IN	_	9	prep	_	O
+11	assumptions	assumption	NNS	_	10	pobj	_	O
+12	go	go	VBP	pos2=VB	0	root	_	O
+13	ahead	ahead	RB	_	12	advmod	_	O
+14	.	.	.	_	12	punct	_	O
+

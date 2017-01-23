@@ -1,0 +1,16 @@
+1	Frank	frank	NNP	_	2	compound	_	B-PERSON
+2	Jackson	jackson	NNP	_	15	dep	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	Grayson	grayson	NNP	_	5	compound	_	B-PERSON
+5	Allen	allen	NNP	_	7	compound	_	L-PERSON
+6	pace	pace	NN	_	7	compound	_	O
+7	No.	no.	NN	_	2	npadvmod	_	O
+8	6	0	CD	_	7	nmod	_	U-CARDINAL
+9	Duke	duke	NNP	pos2=NN	15	dep	_	O
+10	past	past	IN	pos2=NN	9	prep	_	O
+11	William	william	NNP	_	10	pobj	_	B-ORG
+12	&	&	CC	pos2=GW	11	cc	_	I-ORG
+13	Mary	mary	NNP	pos2=GW	11	conj	_	L-ORG
+14	https://t.co/LTztCW2A3E	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/SVW0uDeM1w	#hlink#	ADD	_	0	root	_	U-ORG
+

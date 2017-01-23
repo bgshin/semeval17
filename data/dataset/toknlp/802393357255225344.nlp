@@ -1,0 +1,16 @@
+1	Images	image	NNS	_	15	dep	_	O
+2	of	of	IN	_	1	prep	_	O
+3	Fidel	fidel	NNP	_	6	poss	_	U-PERSON
+4	's	's	POS	_	3	case	_	O
+5	90th	#ord#	JJ	_	6	nmod	_	U-ORDINAL
+6	birthday	birthday	NN	_	2	pobj	_	O
+7	,	,	,	_	1	punct	_	O
+8	accompanied	accompany	VBN	_	1	acl	_	O
+9	by	by	IN	_	8	agent	_	O
+10	Venezuela	venezuela	NNP	_	14	poss	_	U-GPE
+11	's	's	POS	_	10	case	_	O
+12	Nicolas	nicolas	NNP	_	14	compound	_	B-PERSON
+13	Maduro	maduro	NNP	_	14	compound	_	L-PERSON
+14	👇	👇	NNP	pos2=POS	9	pobj	_	O
+15	https://t.co/yYl4pHOVSM	#hlink#	ADD	_	0	root	_	O
+

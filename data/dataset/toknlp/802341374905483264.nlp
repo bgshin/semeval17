@@ -1,0 +1,7 @@
+1	@WCVB	@wcvb	NNP	pos2=NN	2	compound	_	O
+2	Pelosi	pelosi	NNP	_	3	nsubj	_	U-PERSON
+3	needs	need	VBZ	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	resign	resign	VB	_	3	xcomp	_	O
+6	@NancyPelosi	@nancypelosi	NNP	pos2=NN	5	dobj	_	U-LANGUAGE
+

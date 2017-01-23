@@ -1,0 +1,22 @@
+1	@petabites	@petabites	UH	pos2=NNS	5	discourse	_	O
+2	@Jason_Pollock	@jason_pollock	UH	pos2=NN	5	discourse	_	O
+3	@askceil	@askceil	UH	pos2=VB	5	discourse	_	O
+4	It	it	PRP	_	5	nsubj	_	O
+5	took	take	VBD	_	0	root	_	O
+6	environmentally	environmentally	RB	_	7	advmod	_	O
+7	dangerous	dangerous	JJ	_	8	nmod	_	O
+8	fracking	fracking	NN	_	5	dobj	_	O
+9	within	within	IN	_	5	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	US	us	NNP	_	12	compound	_	U-GPE
+12	borders	border	NNS	pos2=VBZ	9	pobj	_	O
+13	to	to	TO	_	14	aux	_	O
+14	get	get	VB	_	5	xcomp	_	O
+15	the	the	DT	_	17	det	_	O
+16	oil	oil	NN	_	17	compound	_	O
+17	price	price	NN	_	14	dobj	_	O
+18	down	down	RB	pos2=RP	14	advmod	_	O
+19	so	so	RB	_	20	advmod	_	O
+20	low	low	JJ	pos2=RB	14	advmod	_	O
+21	.	.	.	_	5	punct	_	O
+

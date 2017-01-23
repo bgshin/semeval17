@@ -1,0 +1,22 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=GW	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	https://t.co/2rfV6vcJDS	#hlink#	NNP	pos2=ADD	8	compound	_	O
+7	Dak	dak	NNP	_	8	compound	_	B-PERSON
+8	Prescott	prescott	NNP	_	9	nsubj	_	L-PERSON
+9	Responds	respond	VBZ	pos2=NNP	5	relcl	_	O
+10	to	to	IN	_	9	prep	_	O
+11	Tony	tony	NNP	_	12	compound	_	B-PERSON
+12	Romo	romo	NNP	_	14	poss	_	I-PERSON
+13	's	's	POS	_	12	case	_	L-PERSON
+14	Statement	statement	NN	pos2=NNP	10	pobj	_	O
+15	on	on	IN	_	14	prep	_	O
+16	Cowboys	cowboy	NNPS	pos2=NNP	15	pobj	_	O
+17	&	&	CC	_	16	cc	_	O
+18	QB	qb	NN	pos2=NNP	16	conj	_	O
+19	Situation	situation	NN	pos2=NNP	14	npadvmod	_	O
+20	|	|	SYM	pos2=,	21	punct	_	O
+21	NFL	nfl	NNP	pos2=NN	14	npadvmod	_	U-ORG
+

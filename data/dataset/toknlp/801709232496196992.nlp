@@ -1,0 +1,14 @@
+1	Kate	kate	NNP	_	2	compound	_	B-PERSON
+2	Upton	upton	NNP	_	3	nsubj	_	L-PERSON
+3	tucks	tuck	VBZ	_	0	root	_	O
+4	into	into	IN	_	3	prep	_	O
+5	a	a	DT	_	6	det	_	O
+6	donut	donut	NN	_	4	pobj	_	O
+7	DURING	during	IN	_	3	prep	_	O
+8	her	her	PRP$	_	10	poss	_	O
+9	gruelling	gruelling	JJ	_	10	nmod	_	O
+10	workout	workout	NN	_	7	pobj	_	O
+11	#KateUpton	#kateupton	ADD	pos2=NNP	7	pobj	_	O
+12	https://t.co/joqMMkvlEF	#hlink#	ADD	_	13	nsubj	_	O
+13	#KateUpton	#kateupton	ADD	pos2=-RRB-	11	pobj	_	O
+

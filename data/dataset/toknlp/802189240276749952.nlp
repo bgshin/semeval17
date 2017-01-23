@@ -1,0 +1,21 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@theIRC	@theirc	NNP	pos2=PRP$	4	compound	_	B-ORG
+2	International	international	NNP	_	4	compound	_	I-ORG
+3	Rescue	rescue	NNP	_	4	compound	_	I-ORG
+4	Committee	committee	NNP	_	7	nsubj	_	L-ORG
+5	is	be	VBZ	_	7	aux	_	O
+6	currently	currently	RB	_	7	advmod	_	O
+7	offering	offer	VBG	_	0	root	_	O
+8	jobs	job	NNS	_	7	dobj	_	O
+9	in	in	IN	_	8	prep	_	O
+10	#USA	#usa	NN	pos2=NNP	9	pobj	_	U-GPE
+11	,	,	,	_	10	punct	_	O
+12	#DemocraticRepCongo	#democraticrepcongo	NNP	pos2=NN	10	conj	_	U-GPE
+13	,	,	,	_	12	punct	_	O
+14	#Iraq	#iraq	NNP	pos2=XX	12	conj	_	U-GPE
+15	and	and	CC	_	14	cc	_	O
+16	#Libya	#libya	NNP	pos2=GW	14	conj	_	U-GPE
+17	-…	-…	NFP	pos2=GW	18	punct	_	O
+18	https://t.co/0CL94wPCc6	#hlink#	ADD	_	7	dep	_	O
+

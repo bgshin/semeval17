@@ -1,0 +1,8 @@
+1	Melania	melania	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Trump	trump	NNP	_	3	nsubj	_	L-PERSON
+3	Gives	give	VBZ	_	0	root	_	O
+4	Rare	rare	JJ	pos2=NNP	6	nmod	_	O
+5	Campaign	campaign	NN	pos2=NNP	6	compound	_	O
+6	Speech	speech	NN	pos2=NNP	3	dobj	_	O
+7	https://t.co/JIZwk45Z5E	#hlink#	ADD	_	3	dobj	_	O
+

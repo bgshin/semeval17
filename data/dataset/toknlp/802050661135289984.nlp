@@ -1,0 +1,24 @@
+1	So	so	RB	_	2	advmod	_	O
+2	many	many	JJ	_	3	nmod	_	O
+3	games	game	NNS	_	5	nsubj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	think	think	VB	_	0	root	_	O
+6	about	about	IN	pos2=RB	5	prep	_	O
+7	now	now	RB	_	6	pcomp	_	O
+8	that	that	IN	pos2=WDT	11	mark	_	O
+9	I	I	PRP	_	11	nsubj	_	O
+10	actually	actually	RB	_	11	advmod	_	O
+11	have	have	VBP	_	5	ccomp	_	O
+12	a	a	DT	_	13	det	_	O
+13	ps4	ps0	NN	_	11	dobj	_	O
+14	..	..	.	pos2=,	5	punct	_	O
+
+1	persona	persona	NN	_	2	nsubj	_	O
+2	5	0	CD	_	8	dep	_	U-CARDINAL
+3	,	,	,	_	8	punct	_	O
+4	FFXIV	ffxiv	NN	pos2=NNP	8	nmod	_	O
+5	AND	and	CC	_	4	cc	_	O
+6	FFXV	ffxv	NN	pos2=NNP	4	conj	_	O
+7	,	,	,	_	8	punct	_	O
+8	OW	ow	NNP	pos2=NN	0	root	_	U-ORG
+

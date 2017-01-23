@@ -1,0 +1,6 @@
+1	Trip	trip	NN	pos2=VB	0	root	_	O
+2	to	to	IN	_	1	prep	_	O
+3	Istanbul	istanbul	NNP	_	2	pobj	_	B-PERSON
+4	✈️✈️✈️🏀🏀🏀#fcblive	✈️✈️✈️🏀🏀🏀#fcblive	POS	pos2=NNP	3	case	_	L-PERSON
+5	https://t.co/ZlXPOvO9nb	#hlink#	ADD	_	2	pobj	_	O
+

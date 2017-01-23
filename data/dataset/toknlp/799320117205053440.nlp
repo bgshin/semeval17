@@ -1,0 +1,23 @@
+1	Like	like	UH	pos2=IN	0	root	_	O
+2	what	what	WP	_	0	root	_	O
+3	!!!	!!	.	_	1	punct	_	O
+
+1	#NationalFastFoodDay	#nationalfastfoodday	NNP	pos2=MD	3	vocative	_	O
+2	Well	well	UH	_	3	discourse	_	O
+3	look	look	VB	_	0	root	_	O
+4	at	at	IN	_	3	prep	_	O
+5	that	that	DT	_	4	pobj	_	O
+6	...	..	.	pos2=,	3	punct	_	O
+
+1	who	who	WP	_	2	nsubj	_	O
+2	say	say	VBP	pos2=VB	0	root	_	O
+3	food	food	NN	_	2	dobj	_	O
+4	??	??	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	say	say	VBP	_	0	root	_	O
+3	celebration@NicoleJG8	celebration@nicolejg0	NNS	pos2=ADD	6	nmod	_	O
+4	@scarlette_hara	@scarlette_hara	GW	pos2=AFX	6	nmod	_	O
+5	…	…	NFP	pos2=GW	6	punct	_	O
+6	https://t.co/kZaxRm8Kx1	#hlink#	ADD	pos2=NN	2	ccomp	_	O
+

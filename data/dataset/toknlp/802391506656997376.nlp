@@ -1,0 +1,12 @@
+1	Leonard	leonard	NNP	_	2	compound	_	B-PERSON
+2	Cohen	cohen	NNP	_	5	poss	_	I-PERSON
+3	's	's	POS	_	2	case	_	L-PERSON
+4	'	'	POS	pos2=''	2	case	_	B-WORK_OF_ART
+5	Book	book	NNP	pos2=NN	11	dep	_	I-WORK_OF_ART
+6	of	of	IN	_	5	prep	_	I-WORK_OF_ART
+7	Longing	longing	NN	pos2=NNP	6	pobj	_	L-WORK_OF_ART
+8	'	'	''	_	11	dep	_	O
+9	:	:	:	_	11	punct	_	O
+10	NPR	npr	NNP	pos2=GW	11	nmod	_	U-ORG
+11	https://t.co/hwcadQYvrJ	#hlink#	ADD	pos2=NN	0	root	_	O
+

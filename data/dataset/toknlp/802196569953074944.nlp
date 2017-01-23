@@ -1,0 +1,15 @@
+1	Do	do	VBP	pos2=VB	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	know	know	VB	_	0	root	_	O
+4	if	if	IN	_	6	mark	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	have	have	VBP	_	3	ccomp	_	O
+7	the	the	DT	_	8	det	_	O
+8	stomach	stomach	NN	_	6	dobj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	watch	watch	VB	_	8	acl	_	O
+11	another	another	DT	_	12	det	_	O
+12	episode	episode	NN	_	10	dobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	#TheWalkingDead	#thewalkingdead	NN	pos2=ADD	13	pobj	_	O
+

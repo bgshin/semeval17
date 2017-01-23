@@ -1,0 +1,18 @@
+1	Alas	alas	UH	pos2=NNP	4	discourse	_	O
+2	,	,	,	_	4	punct	_	O
+3	#CAIR	#cair	NN	pos2=PRP$	4	nsubj	_	O
+4	favors	favor	VBZ	_	0	root	_	O
+5	extremists	extremist	NNS	_	4	dobj	_	O
+6	such	such	JJ	_	7	advmod	_	O
+7	as	as	IN	_	5	prep	_	O
+8	pro	pro	JJ	pos2=FW	10	nmod	_	O
+9	-	-	HYPH	_	10	punct	_	O
+10	#Hezbollah	#hezbollah	NNP	pos2=NN	11	compound	_	O
+11	terrorism	terrorism	NN	_	13	compound	_	O
+12	Malcolm	malcolm	NNP	_	13	compound	_	B-PERSON
+13	Shabazz	shabazz	NNP	_	7	pobj	_	L-PERSON
+14	https://t.co/7seukDHRLJ	#hlink#	ADD	_	15	nsubj	_	O
+15	@DanielPipes	@danielpipes	VBZ	pos2=ADD	4	conj	_	O
+16	@RyanMauro	@ryanmauro	ADD	pos2=XX	15	dobj	_	B-PERSON
+17	@CAIRNational	@cairnational	ADD	pos2=JJ	16	pobj	_	L-PERSON
+

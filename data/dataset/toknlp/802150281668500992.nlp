@@ -1,0 +1,10 @@
+1	Tony	tony	NNP	_	2	compound	_	B-PERSON
+2	Romo	romo	NNP	_	5	compound	_	L-PERSON
+3	auto	auto	NN	pos2=NNP	4	compound	_	O
+4	contest	contest	NN	pos2=NNP	5	compound	_	O
+5	prize	prize	NN	pos2=VB	0	root	_	O
+6	out	out	IN	_	5	prep	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Huddle	huddle	NNP	pos2=NN	7	pobj	_	O
+9	https://t.co/Svjh6UlPnJ	#hlink#	ADD	_	5	appos	_	O
+

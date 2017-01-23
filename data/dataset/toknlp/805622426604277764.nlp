@@ -1,0 +1,11 @@
+1	Spain	spain	NNP	pos2=NN	2	compound	_	U-GPE
+2	probe	probe	NN	pos2=VB	4	compound	_	O
+3	Cristiano	cristiano	NNP	_	4	compound	_	B-PERSON
+4	Ronaldo	ronaldo	NNP	_	10	dep	_	L-PERSON
+5	after	after	IN	_	2	prep	_	O
+6	tax	tax	NN	_	7	compound	_	O
+7	evasion	evasion	NN	_	8	compound	_	O
+8	reports	report	NNS	pos2=VBZ	5	pobj	_	O
+9	https://t.co/mIyhYmLb3i	#hlink#	ADD	_	10	nmod	_	O
+10	https://t.co/gBYRCnSOZn	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,17 @@
+1	#LGBT	#lgbt	NN	pos2=ADD	3	compound	_	O
+2	#p2	#p0	NNP	pos2=LS	3	compound	_	B-PERSON
+3	Burton	burton	NNP	_	4	nsubj	_	L-PERSON
+4	defends	defend	VBZ	_	0	root	_	O
+5	bill	bill	NN	pos2=JJ	6	compound	_	O
+6	advocates	advocate	NNS	_	7	nsubj	_	O
+7	say	say	VBP	pos2=VB	4	ccomp	_	O
+8	could	could	MD	_	9	aux	_	O
+9	harm	harm	VB	_	7	ccomp	_	O
+10	LGBT	lgbt	JJ	pos2=NN	11	nmod	_	U-NORP
+11	students	student	NNS	_	9	dobj	_	O
+12	-	-	:	pos2=HYPH	16	punct	_	O
+13	Dallas	dallas	NNP	pos2=GW	14	compound	_	B-ORG
+14	Voice	voice	NNP	pos2=GW	16	dep	_	L-ORG
+15	https://t.co/vHf6ULDkTF…	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/m3kDW2lDAq	#hlink#	ADD	_	4	dobj	_	U-ORG
+

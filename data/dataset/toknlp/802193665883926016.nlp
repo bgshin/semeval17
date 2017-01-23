@@ -1,0 +1,11 @@
+1	Watch	watch	VB	_	0	root	_	O
+2	@TaylorSwift13's	@taylorswift0's	NNS	pos2=PRP$	5	compound	_	B-DATE
+3	Thanksgiving	thanksgiving	NNP	_	4	compound	_	I-DATE
+4	Day	day	NNP	pos2=NN	5	compound	_	L-DATE
+5	#MannequinChallenge	#mannequinchallenge	NN	pos2=NNP	1	dobj	_	O
+6	(	(	-LRB-	_	5	punct	_	O
+7	Video	video	NN	pos2=GW	5	appos	_	O
+8	)	)	-RRB-	pos2=GW	5	punct	_	O
+9	https://t.co/xuIjmuNAKn	#hlink#	ADD	_	10	nmod	_	O
+10	https://t.co/0NgYTI9MYT	#hlink#	ADD	_	1	dep	_	U-ORG
+

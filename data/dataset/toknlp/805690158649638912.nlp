@@ -1,0 +1,20 @@
+1	File	file	NN	pos2=NNP	4	compound	_	B-ORG
+2	Equal	equal	NNP	pos2=JJ	3	compound	_	I-ORG
+3	Protection	protection	NNP	pos2=NN	4	compound	_	I-ORG
+4	Lawsuit	lawsuit	NNP	pos2=NN	6	nsubj	_	L-ORG
+5	to	to	TO	pos2=IN	6	aux	_	O
+6	Overturn	overturn	VB	pos2=NNP	0	root	_	O
+7	Unconstitutional	unconstitutional	JJ	pos2=NNP	8	nmod	_	O
+8	Winner	winner	NNP	pos2=NN	9	nsubj	_	O
+9	Take	take	VB	pos2=NNP	6	ccomp	_	O
+10	All	all	DT	pos2=NNP	14	det	_	O
+11	Electoral	electoral	NNP	pos2=JJ	12	compound	_	O
+12	College	college	NNP	pos2=NN	14	compound	_	O
+13	#	#	NN	pos2=,	14	compound	_	O
+14	1p1vote	0p0vote	NN	pos2=NNP	9	dobj	_	U-MONEY
+15	...	..	.	pos2=,	6	punct	_	O
+
+1	https://t.co/7VknCz3mUV	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@Change	@change	NNP	pos2=NN	2	pobj	_	O
+

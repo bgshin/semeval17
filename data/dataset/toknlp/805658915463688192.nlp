@@ -1,0 +1,17 @@
+1	@mjmaune	@mjmaune	UH	pos2=NN	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	followed	followed	VBD	_	0	root	_	O
+4	Pope	pope	NNP	_	5	compound	_	O
+5	Francis	francis	NNP	_	8	poss	_	U-PERSON
+6	'	'	POS	pos2=''	5	case	_	O
+7	Latin	latin	NNP	pos2=JJ	8	compound	_	U-LANGUAGE
+8	twitter	twitter	NN	pos2=NNP	3	dobj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	speak	speak	VB	_	0	root	_	O
+5	Latin	latin	NNP	_	4	dobj	_	U-LANGUAGE
+6	.	.	.	_	4	punct	_	O
+

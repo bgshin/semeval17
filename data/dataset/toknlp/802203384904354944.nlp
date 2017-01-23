@@ -1,0 +1,12 @@
+1	Electoral	electoral	NNP	pos2=JJ	2	compound	_	B-ORG
+2	College	college	NNP	_	4	nsubj	_	L-ORG
+3	must	must	MD	_	4	aux	_	O
+4	reject	reject	VB	_	0	root	_	O
+5	Trump	trump	NNP	pos2=NN	4	dobj	_	U-PERSON
+6	https://t.co/5L8ai9piHj	#hlink#	ADD	pos2=NNP	5	appos	_	O
+7	#rejecttrump	#rejecttrump	IN	pos2=XX	4	prep	_	O
+8	#notmypresident	#notmypresident	UH	pos2=ADD	7	discourse	_	O
+9	#takingbackdemocracy	#takingbackdemocracy	UH	pos2=FW	7	discourse	_	O
+10	#blacklivesmatter	#blacklivesmatter	UH	pos2=IN	7	discourse	_	O
+11	#nevertrump	#nevertrump	UH	pos2=.	7	discourse	_	O
+

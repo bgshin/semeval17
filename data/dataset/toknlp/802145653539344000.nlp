@@ -1,0 +1,17 @@
+1	Gaston	gaston	NNP	_	2	nsubj	_	U-PERSON
+2	is	be	VBZ	_	0	root	_	O
+3	Charming	charming	JJ	pos2=NNP	2	acomp	_	O
+4	as	as	IN	_	3	prep	_	O
+5	Hell	hell	NNP	_	4	pobj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	New	new	NNP	_	8	compound	_	B-ORG
+8	Beauty	beauty	NNP	_	6	pobj	_	I-ORG
+9	&	&	CC	_	8	cc	_	I-ORG
+10	the	the	DT	_	11	det	_	I-ORG
+11	Beast	beast	NNP	pos2=NN	8	conj	_	I-ORG
+12	Pichttps://t.co/72d1TqKvW5#Gaston	#hlink#	ADD	pos2=NNPS	8	appos	_	I-ORG
+13	#LukeEvans	#lukeevans	ADD	pos2=VBZ	8	appos	_	I-ORG
+14	#BeautyAndTheBeast	#beautyandthebeast	ADD	pos2=JJS	13	pobj	_	L-ORG
+15	#disney	#disney	UH	pos2=ADD	16	discourse	_	O
+16	#staygeeky	#staygeeky	UH	pos2=NN	13	pobj	_	O
+

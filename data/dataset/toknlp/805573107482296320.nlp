@@ -1,0 +1,23 @@
+1	Americans	american	NNPS	pos2=NNS	2	nsubj	_	U-NORP
+2	NEED	need	VBP	_	0	root	_	O
+3	TO	to	TO	_	4	aux	_	O
+4	PUSH	push	VB	_	2	xcomp	_	O
+5	AGAINST	against	IN	_	4	prep	_	O
+6	THIS	this	DT	_	5	pobj	_	O
+7	WHICH	which	WDT	_	8	nsubj	_	O
+8	ALLOWS	allow	VBZ	_	6	relcl	_	O
+9	ANYONE	anyone	NN	_	11	nsubj	_	O
+10	TO	to	TO	_	11	aux	_	O
+11	VOTE	vote	VB	pos2=NN	8	ccomp	_	O
+12	,	,	,	_	10	punct	_	O
+13	INCLUDING	include	VBG	_	9	prep	_	O
+14	ILLEGALS	illegal	NNS	pos2=NNPS	13	pobj	_	O
+15	~	~	TO	pos2=NFP	16	aux	_	O
+16	write	write	VB	_	4	advcl	_	O
+17	your	your	PRP$	_	18	poss	_	O
+18	congressman	congressman	NN	_	16	dobj	_	O
+19	today	today	NN	_	16	npadvmod	_	U-DATE
+20	!	!	.	_	2	punct	_	O
+
+1	https://t.co/bozz1PJGyy	#hlink#	ADD	_	0	root	_	U-ORG
+

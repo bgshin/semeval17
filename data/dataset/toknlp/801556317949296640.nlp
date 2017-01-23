@@ -1,0 +1,8 @@
+1	Melania	melania	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Trump	trump	NNP	pos2=NN	3	nsubj	_	L-PERSON
+3	writing	write	VBG	_	0	root	_	O
+4	her	her	PRP$	_	6	poss	_	O
+5	inauguration	inauguration	NN	_	6	compound	_	O
+6	speech	speech	NN	_	3	dobj	_	O
+7	https://t.co/BDidZTGJrw	#hlink#	ADD	_	3	dep	_	U-ORG
+

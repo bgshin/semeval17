@@ -1,0 +1,25 @@
+1	@silentoceanz	@silentoceanz	UH	pos2=MD	2	discourse	_	O
+2	Start	start	VB	_	0	root	_	O
+3	with	with	IN	_	2	prep	_	O
+4	#NoDAPL	#nodapl	NNS	pos2=NNP	3	pobj	_	O
+5	#NoBombing	#nobombing	VBG	pos2=POS	4	acl	_	O
+6	Syria	syria	NNP	_	11	compound	_	U-GPE
+7	Yemen	yemen	NNP	_	11	compound	_	O
+8	Libya	libya	NNP	_	11	compound	_	O
+9	End	end	NNP	pos2=NN	11	compound	_	O
+10	Glass	glass	NNP	_	11	compound	_	O
+11	Stengal	stengal	NNP	pos2=NNPS	0	root	_	O
+12	put	put	VBN	pos2=VB	11	acl	_	O
+13	in	in	RP	pos2=RB	12	prt	_	O
+14	by	by	IN	_	12	agent	_	O
+15	Bill	bill	NNP	_	16	compound	_	B-PERSON
+16	Clinton	clinton	NNP	_	14	pobj	_	L-PERSON
+17	,	,	,	_	16	punct	_	O
+18	no	no	DT	_	19	det	_	O
+19	TPP	tpp	NN	_	16	appos	_	O
+20	,	,	,	_	16	punct	_	O
+21	No	no	DT	pos2=NNP	22	det	_	O
+22	Pedophiles	pedophile	NNS	pos2=NNPS	16	appos	_	O
+23	in	in	IN	_	22	prep	_	O
+24	Dc	dc	NNP	_	23	pobj	_	U-GPE
+

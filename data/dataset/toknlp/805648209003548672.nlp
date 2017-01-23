@@ -1,0 +1,21 @@
+1	@SenaLouWho	@senalouwho	ADD	pos2=UH	14	nsubjpass	_	O
+2	@LShrug	@lshrug	ADD	pos2=XX	14	auxpass	_	O
+3	@Jeff257	@jeff0	NN	pos2=NNS	5	compound	_	O
+4	@autoengmike	@autoengmike	UH	pos2=ADD	14	discourse	_	O
+5	@FShagW	@fshagw	NNP	pos2=UH	14	nsubjpass	_	O
+6	And	and	CC	_	5	cc	_	O
+7	yes	yes	UH	_	5	discourse	_	O
+8	,	,	,	_	14	punct	_	O
+9	your	your	PRP$	_	12	poss	_	O
+10	extremist	extremist	NN	_	12	compound	_	O
+11	gun	gun	NN	_	12	compound	_	O
+12	control	control	NN	_	14	nsubjpass	_	O
+13	is	be	VBZ	_	14	auxpass	_	O
+14	designed	design	VBN	_	0	root	_	O
+15	to	to	TO	_	16	aux	_	O
+16	kill	kill	VB	_	14	xcomp	_	O
+17	families	family	NNS	_	19	nmod	_	O
+18	,	,	,	_	19	punct	_	O
+19	children	child	NNS	_	16	dobj	_	O
+20	...	..	.	pos2=,	14	punct	_	O
+

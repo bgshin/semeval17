@@ -1,0 +1,12 @@
+1	Luckily	luckily	RB	_	3	advmod	_	O
+2	we	we	PRP	_	3	nsubj	_	O
+3	have	have	VBP	_	0	root	_	O
+4	Pokemon	pokemon	NNP	pos2=VBN	3	dobj	_	U-ORG
+5	now	now	RB	_	3	advmod	_	O
+6	and	and	CC	_	3	cc	_	O
+7	Persona	persona	NNP	pos2=NN	11	nmod	_	B-DATE
+8	5	0	CD	_	7	nmod	_	I-DATE
+9	next	next	JJ	_	10	nmod	_	I-DATE
+10	year	year	NN	_	11	compound	_	L-DATE
+11	yassss	yassss	NN	pos2=.	6	dep	_	O
+

@@ -1,0 +1,8 @@
+1	Good	good	JJ	_	2	nmod	_	O
+2	morning	morning	NN	_	0	root	_	U-TIME
+3	!	!	.	_	2	punct	_	O
+
+1	❤️	❤️	NFP	pos2=GW	3	punct	_	O
+2	#ScreamQueens	#screamqueens	GW	pos2=ADD	3	nmod	_	U-PERSON
+3	https://t.co/ec2ogo7Nrs	#hlink#	ADD	pos2=NN	0	root	_	O
+

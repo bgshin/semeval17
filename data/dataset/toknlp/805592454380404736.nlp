@@ -1,0 +1,10 @@
+1	Doctors	doctor	NNS	_	2	nsubj	_	O
+2	warn	warn	VBP	pos2=VB	0	root	_	O
+3	Victoria	victoria	NNP	_	2	dobj	_	U-PERSON
+4	against	against	IN	_	2	prep	_	O
+5	legalising	legalise	VBG	_	4	pcomp	_	O
+6	euthanasia	euthanasia	NN	_	5	dobj	_	O
+7	https://t.co/cjbGOahpl1	#hlink#	ADD	pos2=NN	4	pobj	_	O
+8	via	via	IN	_	2	prep	_	O
+9	@skinnergj	@skinnergj	.	pos2=NN	2	punct	_	O
+

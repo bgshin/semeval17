@@ -1,0 +1,20 @@
+1	@elizabethforma	@elizabethforma	UH	pos2=NN	4	discourse	_	O
+2	Have	have	VBP	pos2=VB	4	aux	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	thought	think	VBN	pos2=VBD	0	root	_	O
+5	about	about	IN	_	4	prep	_	O
+6	running	run	VBG	_	5	pcomp	_	O
+7	for	for	IN	_	6	prep	_	O
+8	president	president	NN	pos2=NNP	7	pobj	_	O
+9	in	in	IN	_	6	prep	_	O
+10	2020	0	CD	_	9	pobj	_	U-DATE
+11	?	?	.	_	4	punct	_	O
+
+1	You	you	PRP	_	3	nsubj	_	O
+2	'd	would	MD	_	3	aux	_	O
+3	make	make	VB	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	great	great	JJ	_	6	nmod	_	O
+6	one	#crd#	NN	pos2=CD	3	dobj	_	O
+7	!!	!!	.	_	3	punct	_	O
+

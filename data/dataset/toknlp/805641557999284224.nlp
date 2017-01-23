@@ -1,0 +1,11 @@
+1	#julie	#julie	DT	pos2=NN	5	det	_	O
+2	strain	strain	NN	pos2=VB	5	compound	_	O
+3	vintage	vintage	NN	pos2=JJ	5	compound	_	O
+4	erotica	erotica	NN	_	5	compound	_	O
+5	forum	forum	NN	pos2=FW	10	dep	_	O
+6	zac	zac	JJ	pos2=NNP	10	nmod	_	O
+7	efron	efron	GW	pos2=NN	10	nmod	_	O
+8	fake	fake	JJ	_	10	nmod	_	O
+9	naked	naked	JJ	_	10	nmod	_	O
+10	https://t.co/Bmn8Spr22X	#hlink#	ADD	pos2=NN	0	root	_	O
+

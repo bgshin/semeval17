@@ -1,0 +1,24 @@
+1	We	we	PRP	_	3	nsubj	_	O
+2	've	have	VBP	_	3	aux	_	O
+3	got	get	VBN	_	0	root	_	O
+4	15	0	CD	_	5	nmod	_	B-DATE
+5	days	day	NNS	_	3	dobj	_	L-DATE
+6	until	until	IN	_	3	prep	_	O
+7	Valentines	valentines	NNP	pos2=NNS	6	pobj	_	U-ORG
+8	so	so	RB	_	18	advmod	_	O
+9	if	if	IN	_	11	mark	_	O
+10	you	you	PRP	_	11	nsubj	_	O
+11	're	be	VBP	_	18	advcl	_	O
+12	secretly	secretly	RB	_	11	advmod	_	O
+13	in	in	IN	_	11	prep	_	O
+14	love	love	NN	_	13	pobj	_	O
+15	with	with	IN	_	14	prep	_	O
+16	me	me	PRP	_	15	pobj	_	O
+17	now	now	RB	_	18	advmod	_	O
+18	is	be	VBZ	_	0	root	_	O
+19	the	the	DT	_	20	det	_	O
+20	time	time	NN	_	18	nsubj	_	O
+21	to	to	TO	_	22	aux	_	O
+22	speak	speak	VB	_	20	relcl	_	O
+23	up	up	RP	pos2=RB	22	prt	_	O
+

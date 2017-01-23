@@ -1,0 +1,18 @@
+1	Are	be	VBP	_	0	root	_	O
+2	n't	not	RB	_	1	neg	_	O
+3	you	you	PRP	_	1	nsubj	_	O
+4	just	just	RB	_	7	advmod	_	O
+5	the	the	DT	_	7	det	_	O
+6	tiniest	tiny	JJS	_	7	nmod	_	O
+7	bit	bit	NN	_	8	npadvmod	_	O
+8	sad	sad	JJ	_	1	acomp	_	O
+9	your	your	PRP$	_	10	poss	_	O
+10	friend	friend	NN	_	12	nsubjpass	_	O
+11	got	get	VBD	_	12	auxpass	_	O
+12	murdered	murder	VBN	_	8	ccomp	_	O
+13	?	?	.	_	1	punct	_	O
+
+1	"	"	``	pos2=SYM	3	punct	_	O
+2	MehLove	mehlove	NNP	pos2=WRB	3	compound	_	O
+3	#ScreamQueens	#screamqueens	NNS	pos2=ADD	0	root	_	O
+

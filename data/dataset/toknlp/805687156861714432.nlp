@@ -1,0 +1,13 @@
+1	Interesting	interesting	JJ	_	2	nmod	_	O
+2	article	article	NN	_	0	root	_	O
+3	on	on	IN	_	2	prep	_	O
+4	vaccines	vaccine	NNS	_	3	pobj	_	O
+5	and	and	CC	_	2	cc	_	O
+6	how	how	WRB	_	9	advmod	_	O
+7	they	they	PRP	_	9	nsubj	_	O
+8	can	can	MD	_	9	aux	_	O
+9	trigger	trigger	VB	_	2	conj	_	O
+10	autoimmune	autoimmune	JJ	_	11	nmod	_	O
+11	diseases	disease	NNS	_	9	dobj	_	O
+12	https://t.co/h8Ue0eAOrY	#hlink#	ADD	_	2	appos	_	U-ORG
+

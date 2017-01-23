@@ -1,0 +1,19 @@
+1	https://t.co/onVtkOdSKI	#hlink#	ADD	_	5	dep	_	O
+2	<	<	-RRB-	pos2=XX	5	punct	_	O
+3	-	-	:	pos2=-RRB-	5	punct	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	Fuck	fuck	VBP	_	0	root	_	O
+6	The	the	DT	_	7	det	_	O
+7	Out	out	NNP	pos2=NNPS	5	dobj	_	O
+8	Of	of	IN	_	7	prep	_	O
+9	A	a	DT	pos2=NNP	12	det	_	O
+10	White	white	NNP	_	12	compound	_	B-ORG
+11	College	college	NNP	_	12	compound	_	I-ORG
+12	Girl	girl	NNP	_	8	pobj	_	I-ORG
+13	For	for	IN	_	5	prep	_	I-ORG
+14	Fun	fun	NNP	pos2=NNPS	18	nmod	_	L-ORG
+15	#nsfw	#nsfw	XX	pos2=NNP	18	nmod	_	O
+16	#bath	#bath	XX	pos2=UH	18	nmod	_	O
+17	#bubble	#bubble	XX	pos2=UH	18	nmod	_	O
+18	#onedirection	#onedirection	XX	pos2=UH	13	pobj	_	O
+

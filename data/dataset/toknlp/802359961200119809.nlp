@@ -1,0 +1,22 @@
+1	@RPopBox	@rpopbox	NN	pos2=XX	0	root	_	O
+2	@aliciawitty	@aliciawitty	UH	pos2=NNP	1	discourse	_	O
+3	Where	where	WRB	_	6	advmod	_	O
+4	did	do	VBD	_	6	aux	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	see	see	VB	_	1	relcl	_	O
+7	Jimmy	jimmy	NNP	_	6	dobj	_	U-PERSON
+8	to	to	TO	_	9	aux	_	O
+9	get	get	VB	_	6	advcl	_	O
+10	his	his	PRP$	_	11	poss	_	O
+11	autograph	autograph	NN	_	9	dobj	_	O
+12	?	?	.	_	1	punct	_	O
+
+1	Meeting	meet	VBG	pos2=NN	0	root	_	O
+2	Bob	bob	NNP	_	3	compound	_	B-PERSON
+3	Dylan	dylan	NNP	_	1	dobj	_	L-PERSON
+4	?	?	.	_	1	punct	_	O
+
+1	Way	way	NN	pos2=RB	2	advmod	_	O
+2	cool	cool	JJ	pos2=RB	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+

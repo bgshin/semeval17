@@ -1,0 +1,15 @@
+1	Doctors	doctor	NNS	_	2	nsubj	_	O
+2	hit	hit	VBD	pos2=VBP	0	root	_	O
+3	campaign	campaign	NN	_	4	compound	_	O
+4	trail	trail	NN	_	2	dobj	_	O
+5	as	as	IN	_	2	prep	_	O
+6	race	race	NN	_	5	pobj	_	O
+7	to	to	IN	_	6	prep	_	O
+8	medical	medical	JJ	_	9	nmod	_	O
+9	council	council	NN	pos2=JJ	10	compound	_	O
+10	elections	election	NNS	pos2=NN	7	pobj	_	O
+11	heats	heat	VBZ	pos2=NNS	2	advcl	_	O
+12	up	up	RP	pos2=IN	11	prt	_	O
+13	https://t.co/iiFdwb9v0W	#hlink#	ADD	_	14	nmod	_	O
+14	#homeopathy	#homeopathy	NN	pos2=ADD	11	dobj	_	O
+

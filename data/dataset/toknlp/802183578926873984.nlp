@@ -1,0 +1,18 @@
+1	This	this	DT	_	2	det	_	O
+2	#blackfriday	#blackfriday	NN	pos2=VBD	3	nsubj	_	O
+3	#CyberMonday	#cybermonday	VBD	pos2=MD	0	root	_	O
+4	everything	everything	NN	_	3	dobj	_	O
+5	20	0	CD	_	6	nmod	_	B-PERCENT
+6	%	%	NN	_	7	npadvmod	_	L-PERCENT
+7	off	off	RB	pos2=RP	3	advmod	_	O
+8	!	!	.	_	3	punct	_	O
+
+1	#TheWalkingDead	#thewalkingdead	ADD	pos2=XX	8	dep	_	O
+2	#homealone	#homealone	ADD	pos2=NN	5	nmod	_	O
+3	&	&	CC	_	2	cc	_	O
+4	more	more	JJR	pos2=RBR	2	conj	_	O
+5	#giftsforhim	#giftsforhim	IN	pos2=PRP	8	nmod	_	B-WORK_OF_ART
+6	#giftsforgeeks	#giftsforgeeks	GW	pos2=NNS	5	pobj	_	I-WORK_OF_ART
+7	…	…	NFP	pos2=GW	8	punct	_	L-WORK_OF_ART
+8	https://t.co/1etfNysgC5	#hlink#	ADD	pos2=NN	0	root	_	O
+

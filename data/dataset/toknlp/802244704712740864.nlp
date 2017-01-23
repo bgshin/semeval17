@@ -1,0 +1,13 @@
+1	Tesla	tesla	NNP	_	2	compound	_	B-ORG
+2	Factory	factory	NNP	pos2=NN	3	compound	_	L-ORG
+3	overview	overview	NN	pos2=VBP	7	npadvmod	_	O
+4	they	they	PRP	_	7	nsubj	_	O
+5	're	be	VBP	_	7	aux	_	O
+6	already	already	RB	_	7	advmod	_	O
+7	producing	produce	VBG	_	0	root	_	O
+8	Model	model	NNP	pos2=NN	7	dobj	_	B-PRODUCT
+9	3	0	CD	_	8	nmod	_	L-PRODUCT
+10	or	or	CC	_	8	cc	_	O
+11	S	s	NN	pos2=GW	8	conj	_	O
+12	https://t.co/HE6iTMyMVV	#hlink#	ADD	pos2=NN	8	appos	_	O
+

@@ -1,0 +1,19 @@
+1	Jacqueline	jacqueline	NNP	_	2	compound	_	B-PERSON
+2	Woodson	woodson	NNP	_	9	nsubjpass	_	L-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	Jimmy	jimmy	NNP	_	5	compound	_	B-PERSON
+5	Baldwin	baldwin	NNP	_	2	conj	_	L-PERSON
+6	have	have	VBP	_	9	aux	_	O
+7	both	both	DT	pos2=RB	9	dep	_	O
+8	been	be	VBN	_	9	auxpass	_	O
+9	nominated	nominate	VBN	_	0	root	_	O
+10	a	a	DT	_	13	det	_	O
+11	National	national	NNP	_	13	compound	_	B-WORK_OF_ART
+12	Book	book	NNP	_	13	compound	_	I-WORK_OF_ART
+13	Award	award	NNP	_	9	dobj	_	L-WORK_OF_ART
+14	4	0	CD	_	15	nmod	_	U-CARDINAL
+15	times	time	NNS	_	9	npadvmod	_	O
+16	!	!	.	_	9	punct	_	O
+
+1	#NBAwards	#nbawards	NNS	pos2=ADD	0	root	_	O
+

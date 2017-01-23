@@ -1,0 +1,18 @@
+1	Imagine	imagine	VB	_	0	root	_	O
+2	if	if	IN	_	4	mark	_	O
+3	Obama	obama	NNP	_	4	nsubj	_	U-PERSON
+4	did	do	VBD	_	1	ccomp	_	O
+5	this	this	DT	_	4	dobj	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	Rightists	rightist	NNS	pos2=NNPS	3	nsubj	_	O
+2	would	would	MD	_	3	aux	_	O
+3	have	have	VB	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	seizure	seizure	NN	_	3	dobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	#txlege	#txlege	UH	pos2=GW	3	nmod	_	O
+2	#MAGA	#maga	GW	pos2=NN	3	nmod	_	O
+3	https://t.co/7Uy3gdPZPx	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

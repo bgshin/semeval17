@@ -1,0 +1,20 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	O
+2	@washingtonpost	@washingtonpost	NN	pos2=AFX	6	dep	_	O
+3	:	:	:	_	6	punct	_	O
+4	D.C.	d.c.	NNP	pos2=NN	5	compound	_	U-GPE
+5	restaurant	restaurant	NN	_	6	nsubj	_	O
+6	apologizes	apologize	VBZ	_	0	root	_	O
+7	after	after	IN	_	6	prep	_	O
+8	hosting	host	VBG	_	7	pcomp	_	O
+9	alt	alt	JJ	pos2=NN	11	advmod	_	O
+10	-	-	HYPH	_	11	punct	_	O
+11	right	right	JJ	_	12	nmod	_	O
+12	dinner	dinner	NN	_	8	dobj	_	O
+13	with	with	IN	_	12	prep	_	O
+14	"	"	``	_	17	punct	_	O
+15	Sieg	sieg	NNP	pos2=JJ	16	compound	_	O
+16	Heil	heil	NNP	_	17	compound	_	O
+17	salute	salute	NN	pos2=VB	13	pobj	_	O
+18	"	"	''	pos2=``	17	punct	_	O
+19	https://t.co/yNgfTTIxGp	#hlink#	ADD	pos2=NN	17	appos	_	O
+

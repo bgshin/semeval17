@@ -1,0 +1,18 @@
+1	Ah	ah	UH	_	17	discourse	_	O
+2	the	the	DT	_	6	det	_	O
+3	time	time	NN	_	5	npadvmod	_	O
+4	-	-	HYPH	_	5	punct	_	O
+5	honoured	honour	VBN	_	6	nmod	_	O
+6	tradition	tradition	NN	_	17	nsubj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	wrapping	wrap	VBG	_	7	pcomp	_	O
+9	a	a	DT	_	11	det	_	O
+10	hard	hard	JJ	_	11	nmod	_	O
+11	day	day	NN	_	13	poss	_	U-DATE
+12	's	's	POS	_	11	case	_	O
+13	work	work	NN	_	8	dobj	_	O
+14	with	with	IN	_	8	prep	_	O
+15	a	a	DT	_	16	det	_	O
+16	#mannequinchallenge	#mannequinchallenge	NN	pos2=ADD	14	pobj	_	O
+17	https://t.co/g41HIZgw5U	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

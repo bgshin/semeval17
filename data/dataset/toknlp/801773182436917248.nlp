@@ -1,0 +1,12 @@
+1	INSANE	insane	JJ	_	4	nmod	_	O
+2	ANTI	anti	AFX	pos2=NN	3	nmod	_	O
+3	TRUMP	trump	NN	pos2=JJ	4	compound	_	O
+4	RIOTS	riot	NNS	_	5	nsubj	_	O
+5	SPREAD	spread	VBN	pos2=VBP	0	root	_	O
+6	ACROSS	across	IN	_	5	prep	_	O
+7	AMERICA	america	NNP	pos2=NN	6	pobj	_	U-GPE
+8	:	:	:	_	5	punct	_	O
+9	https://t.co/7pXYrOuZBj	#hlink#	ADD	_	7	appos	_	O
+10	via	via	IN	_	5	prep	_	O
+11	@YouTube	@youtube	NNP	pos2=NN	10	pobj	_	O
+

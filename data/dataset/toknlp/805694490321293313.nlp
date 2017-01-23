@@ -1,0 +1,22 @@
+1	Unable	unable	JJ	_	9	advcl	_	O
+2	to	to	TO	_	3	aux	_	O
+3	import	import	VB	pos2=NN	1	xcomp	_	O
+4	#pesticides	#pesticides	NNS	pos2=RB	3	dobj	_	O
+5	due	due	IN	pos2=JJ	3	prep	_	O
+6	to	to	IN	_	5	pcomp	_	O
+7	embargo	embargo	NN	pos2=VB	5	pobj	_	O
+8	there	there	EX	pos2=RB	9	expl	_	O
+9	were	be	VBD	_	0	root	_	O
+10	no	no	DT	pos2=RB	12	det	_	O
+11	#beehive	#beehive	JJ	pos2=NN	12	nmod	_	O
+12	losses	loss	NNS	_	9	attr	_	O
+13	.	.	.	_	9	punct	_	O
+
+1	Now	now	RB	_	7	discourse	_	O
+2	#Cuba	#cuba	NNP	pos2=IN	3	compound	_	O
+3	exports	export	NNS	pos2=VBZ	7	nmod	_	O
+4	valuable	valuable	JJ	_	6	nmod	_	O
+5	organic	organic	JJ	_	6	nmod	_	O
+6	honey	honey	NN	_	7	dep	_	O
+7	https://t.co/AwDXCoFoNP	#hlink#	ADD	pos2=NN	0	root	_	O
+

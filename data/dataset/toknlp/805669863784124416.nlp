@@ -1,0 +1,23 @@
+1	@K_ToddRamer	@k_toddramer	NN	pos2=ADD	8	dep	_	O
+2	@TomiLahren	@tomilahren	ADD	pos2=UH	8	advmod	_	O
+3	I	I	PRP	_	8	nsubj	_	O
+4	'd	would	MD	pos2=VBD	8	aux	_	O
+5	also	also	RB	_	8	advmod	_	O
+6	rather	rather	RB	_	8	advmod	_	O
+7	not	not	RB	_	8	neg	_	O
+8	use	use	VB	_	20	advcl	_	O
+9	fossil	fossil	JJ	pos2=NN	10	nmod	_	O
+10	fuels	fuel	NNS	_	8	dobj	_	O
+11	,	,	,	_	8	punct	_	O
+12	cause	cause	VB	pos2=NN	8	conj	_	O
+13	,	,	,	_	12	punct	_	O
+14	you	you	PRP	_	15	nsubj	_	O
+15	know	know	VBP	_	12	parataxis	_	O
+16	,	,	,	_	20	punct	_	O
+17	they	they	PRP	_	20	nsubj	_	O
+18	'll	will	MD	_	20	aux	_	O
+19	eventually	eventually	RB	_	20	advmod	_	O
+20	run	run	VB	_	0	root	_	O
+21	out	out	RP	_	20	prt	_	O
+22	.	.	.	_	20	punct	_	O
+

@@ -1,0 +1,19 @@
+1	OMG	omg	NN	pos2=NNP	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	JAMES	james	NNP	pos2=NNS	2	compound	_	B-PERSON
+2	COMEY	comey	NNP	_	5	nsubj	_	L-PERSON
+3	WO	wo	MD	_	5	aux	_	O
+4	N’T	not	RB	pos2=CC	5	neg	_	O
+5	SLEEP	sleep	VB	_	0	root	_	O
+6	TONIGHT	tonight	NN	_	5	npadvmod	_	U-TIME
+7	AFTER	after	IN	_	5	prep	_	O
+8	WHAT	what	WP	_	11	dobj	_	O
+9	TRUMP	trump	NN	pos2=NNP	11	nsubj	_	O
+10	JUST	just	RB	_	11	advmod	_	O
+11	EXPOSED	expose	VBN	_	7	pcomp	_	O
+12	ABOUT	about	RB	pos2=IN	11	advmod	_	O
+13	...	..	.	pos2=,	5	punct	_	O
+
+1	https://t.co/qeKpAZVG6b	#hlink#	ADD	_	0	root	_	U-ORG
+

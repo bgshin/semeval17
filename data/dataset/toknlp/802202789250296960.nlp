@@ -1,0 +1,25 @@
+1	@westminsterpal	@westminsterpal	JJ	pos2=IN	4	nmod	_	O
+2	Gods	gods	NNP	pos2=NNS	4	nmod	_	O
+3	natural	natural	JJ	_	4	nmod	_	O
+4	fires	fire	NNS	_	6	nsubjpass	_	O
+5	being	be	VBG	_	6	auxpass	_	O
+6	blamed	blame	VBN	_	0	root	_	O
+7	by	by	IN	_	6	agent	_	O
+8	the	the	DT	_	10	det	_	O
+9	nazi	nazi	JJ	pos2=NNP	10	nmod	_	O
+10	party	party	NN	_	7	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	ISRAHELL	israhell	NNP	pos2=NN	11	pobj	_	U-ORG
+13	on	on	IN	_	6	prep	_	O
+14	original	original	JJ	_	16	nmod	_	O
+15	jewish	jewish	JJ	_	16	nmod	_	U-NORP
+16	ancestors	ancestor	NNS	_	13	pobj	_	O
+17	in	in	IN	_	6	prep	_	O
+18	the	the	DT	_	19	det	_	O
+19	region	region	NN	_	17	pobj	_	O
+20	.	.	.	_	6	punct	_	O
+
+1	SHAME	shame	NN	_	0	root	_	O
+2	ON	on	IN	_	1	prep	_	O
+3	ZIONISTS	zionist	NNS	pos2=NNPS	2	pobj	_	U-NORP
+

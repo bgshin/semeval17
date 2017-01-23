@@ -1,0 +1,19 @@
+1	Israeli	israeli	JJ	_	2	nmod	_	U-NORP
+2	forces	force	NNS	_	4	nsubj	_	O
+3	violently	violently	RB	_	4	advmod	_	O
+4	disperse	disperse	VBP	pos2=JJ	11	ccomp	_	O
+5	march	march	NN	pos2=NNP	4	dobj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	Kafr	kafr	NNP	_	8	compound	_	B-GPE
+8	Qaddum	qaddum	NNP	_	6	pobj	_	L-GPE
+9	,	,	,	_	11	punct	_	O
+10	protesters	protester	NNS	_	11	nsubj	_	O
+11	suffer	suffer	VBP	_	0	root	_	O
+12	tear	tear	NN	pos2=JJ	14	compound	_	O
+13	gas	gas	NN	_	14	compound	_	O
+14	inhalation	inhalation	NN	_	11	dobj	_	O
+15	|	|	,	pos2=SYM	18	punct	_	O
+16	Maan	maan	NNP	_	18	dep	_	B-PERSON
+17	…	…	NFP	pos2=NNP	18	punct	_	L-PERSON
+18	https://t.co/kLxunod2yF	#hlink#	ADD	pos2=NN	11	dep	_	O
+

@@ -1,0 +1,29 @@
+1	@LauriLinnea	@laurilinnea	NN	pos2=ADD	0	root	_	O
+2	The	the	DT	_	3	det	_	O
+3	fact	fact	NN	_	1	pobj	_	O
+4	that	that	IN	_	9	mark	_	O
+5	youre	youre	NN	pos2=PRP$	9	nsubj	_	O
+6	CLOSE	close	JJ	pos2=RB	5	nmod	_	O
+7	to	to	IN	_	6	prep	_	O
+8	Medicare	medicare	NNP	_	7	pobj	_	U-ORG
+9	means	mean	VBZ	pos2=NNS	3	acl	_	O
+10	you	you	PRP	_	11	nsubj	_	O
+11	have	have	VBP	pos2=VB	9	ccomp	_	O
+12	the	the	DT	_	13	det	_	O
+13	advantage	advantage	NN	_	11	dobj	_	O
+14	over	over	IN	_	11	prep	_	O
+15	those	those	DT	_	14	pobj	_	O
+16	who	who	WP	_	17	nsubj	_	O
+17	are	be	VBP	_	15	relcl	_	O
+18	30	0	CD	_	19	nmod	_	B-DATE
+19	years	year	NNS	_	20	npadvmod	_	L-DATE
+20	away	away	RB	_	17	advmod	_	O
+21	.	.	.	_	1	punct	_	O
+
+1	THEY	they	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	screwed	screw	VBN	pos2=JJ	5	nmod	_	O
+5	ones	#crd#	NNS	_	2	attr	_	O
+6	.	.	.	_	2	punct	_	O
+

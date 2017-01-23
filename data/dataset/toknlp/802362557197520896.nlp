@@ -1,0 +1,19 @@
+1	Medicare	medicare	NNP	pos2=NN	3	nmod	_	U-ORG
+2	,	,	,	_	3	punct	_	O
+3	people	people	NNS	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Do	do	VB	pos2=VBP	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	mess	mess	VB	_	0	root	_	O
+4	with	with	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	olds	old	NNS	_	4	pobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	Mobilize	mobilize	VB	_	0	root	_	O
+2	them	them	PRP	_	1	dobj	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	https://t.co/J6fHMBltWV	#hlink#	ADD	_	0	root	_	U-ORG
+

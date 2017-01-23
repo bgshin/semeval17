@@ -1,0 +1,16 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@faithfulelector	@faithfulelector	UH	pos2=XX	6	pobj	_	O
+2	@HamiltonElector	@hamiltonelector	GW	pos2=VB	0	root	_	O
+3	@moralelectors	@moralelectors	NNS	pos2=UH	5	compound	_	O
+4	@Electoralcollge	@electoralcollge	NNP	pos2=POS	5	compound	_	O
+5	Vote	vote	NN	pos2=VB	2	dobj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	who	who	WP	_	8	nsubj	_	O
+8	earned	earn	VBD	_	6	pcomp	_	O
+9	it	it	PRP	_	8	dobj	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	https://t.co/ylKjFFKuHN	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/J2vnA8wLON	#hlink#	ADD	_	0	root	_	U-ORG
+

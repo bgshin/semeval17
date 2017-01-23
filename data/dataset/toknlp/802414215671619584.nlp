@@ -1,0 +1,18 @@
+1	Why	why	WRB	_	6	advmod	_	O
+2	the	the	DT	_	3	det	_	O
+3	Internet	internet	NN	_	6	nsubj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	Things	thing	NNS	pos2=NNPS	4	pobj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	matter	matter	NN	_	6	attr	_	O
+9	of	of	IN	_	8	prep	_	O
+10	power	power	NN	_	9	pobj	_	O
+11	,	,	,	_	10	punct	_	O
+12	data	datum	NNS	pos2=NN	10	conj	_	O
+13	and	and	CC	_	12	cc	_	O
+14	security	security	NN	_	12	conj	_	O
+15	-	-	:	pos2=HYPH	17	punct	_	O
+16	https://t.co/7erTDzdRVE	#hlink#	ADD	_	17	nmod	_	O
+17	https://t.co/hsze3uy9TV	#hlink#	ADD	_	6	dep	_	U-ORG
+

@@ -1,0 +1,21 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	'm	be	VBP	_	3	aux	_	O
+3	gon	gon	VBG	_	0	root	_	O
+4	na	to	TO	_	5	aux	_	O
+5	write	write	VB	_	3	xcomp	_	O
+6	a	a	DT	_	7	det	_	O
+7	book	book	NN	_	5	dobj	_	O
+8	based	base	VBN	_	7	acl	_	O
+9	on	on	IN	_	8	prep	_	O
+10	Jigsaw	jigsaw	NNP	pos2=NN	9	pobj	_	O
+11	capturing	capture	VBG	_	7	acl	_	O
+12	David	david	NNP	_	13	compound	_	B-PERSON
+13	Blaine	blaine	NNP	_	11	dobj	_	L-PERSON
+14	lmao	lmao	IN	pos2=VBD	11	dative	_	O
+15	everyone	everyone	NN	_	17	nsubj	_	O
+16	's	's	POS	pos2=VBZ	15	case	_	O
+17	gon	gon	VBG	pos2=JJ	14	pcomp	_	O
+18	na	to	TO	pos2=NN	19	aux	_	O
+19	h8	h0	NN	pos2=VB	17	xcomp	_	O
+20	it	it	PRP	_	19	dobj	_	O
+

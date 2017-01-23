@@ -1,0 +1,28 @@
+1	@LibyaLiberty	@libyaliberty	NN	pos2=DT	3	compound	_	O
+2	Virtue	virtue	NN	pos2=JJ	3	compound	_	O
+3	signalling	signalling	NN	pos2=VBG	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Common	common	JJ	_	2	nmod	_	O
+2	practice	practice	NN	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Everyone	everyone	NN	_	2	nsubj	_	O
+2	make	make	VB	pos2=VBP	0	root	_	O
+3	nice	nice	JJ	pos2=NN	2	ccomp	_	O
+4	until	until	IN	_	2	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	next	next	JJ	_	7	nmod	_	O
+7	disagreement	disagreement	NN	_	4	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	Watch	watch	VB	_	0	root	_	O
+2	donations	donation	NNS	_	1	dobj	_	O
+3	to	to	IN	_	1	prep	_	O
+4	Clinton	clinton	NNP	_	5	compound	_	B-ORG
+5	Foundation	foundation	NNP	pos2=NN	3	pobj	_	L-ORG
+6	+	+	SYM	pos2=-RRB-	5	cc	_	O
+7	/	/	SYM	pos2=,	6	punct	_	O
+8	-	-	SYM	pos2=:	6	punct	_	O
+9	.	.	.	_	1	punct	_	O
+

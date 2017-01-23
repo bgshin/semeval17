@@ -1,0 +1,20 @@
+1	Microsoft	microsoft	NNP	_	2	nsubj	_	U-ORG
+2	joins	join	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	B-ORG
+4	Linux	linux	NNP	_	5	compound	_	I-ORG
+5	Foundation	foundation	NNP	_	2	dobj	_	L-ORG
+6	,	,	,	_	5	punct	_	O
+7	a	a	DT	_	10	det	_	O
+8	new	new	JJ	_	10	nmod	_	O
+9	Firefox	firefox	NNP	_	10	compound	_	U-ORG
+10	release	release	NN	_	5	appos	_	O
+11	,	,	,	_	5	punct	_	O
+12	an	an	DT	pos2=UH	9	vocative	_	O
+13	...	..	.	pos2=,	2	punct	_	O
+
+1	via	via	IN	pos2=GW	0	root	_	O
+2	@jehb	@jehb	NFP	pos2=GW	5	punct	_	O
+3	https://t.co/I48MPrtgVA	#hlink#	ADD	pos2=GW	5	nmod	_	O
+4	@opensourceway	@opensourceway	GW	pos2=ADD	5	nmod	_	O
+5	https://t.co/deWHWfknvX	#hlink#	ADD	pos2=NN	1	pobj	_	O
+

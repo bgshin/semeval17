@@ -1,0 +1,27 @@
+1	@cakotz	@cakotz	UH	pos2=NN	8	discourse	_	O
+2	*	*	SYM	pos2=NFP	8	punct	_	O
+3	Little	little	JJ	_	5	nmod	_	O
+4	bunny	bunny	NN	_	5	compound	_	O
+5	dude*We	dude*we	NNS	pos2=NN	8	nsubj	_	O
+6	do	do	VBP	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	need	need	VB	_	0	root	_	O
+9	Fossil	fossil	NNP	pos2=JJ	10	compound	_	U-ORG
+10	fuels	fuel	NNS	_	8	dobj	_	O
+11	in	in	IN	_	8	prep	_	O
+12	a	a	DT	_	16	det	_	O
+13	long	long	JJ	_	14	nmod	_	O
+14	term	term	NN	_	16	compound	_	O
+15	energy	energy	NN	_	16	compound	_	O
+16	strategy	strategy	NN	_	11	pobj	_	O
+17	for	for	IN	_	16	prep	_	O
+18	the	the	DT	_	20	det	_	O
+19	united	united	JJ	pos2=VBN	20	nmod	_	O
+20	states	state	NNS	pos2=NN	17	pobj	_	O
+21	*	*	SYM	pos2=POS	20	punct	_	O
+22	end	end	NN	pos2=VB	25	nmod	_	O
+23	little	little	JJ	_	25	nmod	_	O
+24	bunny	bunny	NN	pos2=JJ	25	compound	_	O
+25	dude	dude	NN	_	20	appos	_	O
+26	*	*	SYM	pos2=NFP	25	punct	_	O
+

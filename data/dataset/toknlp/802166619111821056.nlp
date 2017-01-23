@@ -1,0 +1,14 @@
+1	#Uber	#uber	NNP	pos2=NN	13	dep	_	U-PERSON
+2	for	for	IN	_	1	prep	_	O
+3	#Millennials	#millennials	NNS	pos2=NNP	2	pobj	_	O
+4	who	who	WP	_	5	nsubj	_	O
+5	want	want	VBP	_	3	relcl	_	O
+6	an	an	DT	_	7	det	_	O
+7	orchestra	orchestra	NN	_	5	dobj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	their	their	PRP$	_	11	poss	_	O
+10	living	living	NN	pos2=VBG	11	compound	_	O
+11	rooms	room	NNS	_	8	pobj	_	O
+12	@AnilArjunK	@anilarjunk	ADD	pos2=-LRB-	13	punct	_	U-NORP
+13	https://t.co/4Zsyuua07A	#hlink#	ADD	pos2=NN	0	root	_	O
+

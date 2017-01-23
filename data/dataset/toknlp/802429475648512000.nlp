@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det	_	O
+2	system	system	NN	_	4	nsubjpass	_	O
+3	is	be	VBZ	_	4	auxpass	_	O
+4	rigged	rig	VBN	pos2=JJ	7	advcl	_	O
+5	,	,	,	_	7	punct	_	O
+6	Liberals	liberal	NNS	pos2=NNPS	7	nsubj	_	O
+7	are	be	VBP	_	0	root	_	O
+8	lawless	lawless	JJ	_	7	acomp	_	O
+9	and	and	CC	_	8	cc	_	O
+10	corrupt	corrupt	JJ	_	8	conj	_	O
+11	.	.	.	_	7	punct	_	O
+
+1	#SackBrandis	#sackbrandis	ADD	pos2=NNS	3	punct	_	O
+2	#LockHimUp	#lockhimup	XX	pos2=ADD	3	dep	_	O
+3	#auspol	#auspol	UH	pos2=XX	0	root	_	O
+

@@ -1,0 +1,10 @@
+1	can	can	MD	_	4	aux	_	O
+2	you	you	PRP	_	4	nsubj	_	O
+3	still	still	RB	_	4	advmod	_	O
+4	be	be	VB	_	0	root	_	O
+5	pregnant	pregnant	JJ	_	4	acomp	_	O
+6	after	after	IN	_	4	prep	_	O
+7	an	an	DT	pos2=VBG	8	det	_	O
+8	abortion	abortion	NN	_	6	pobj	_	O
+9	https://t.co/f8ikQDRff0	#hlink#	ADD	pos2=NN	8	appos	_	U-ORG
+

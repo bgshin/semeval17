@@ -1,0 +1,16 @@
+1	Representing	represent	VBG	_	0	prep	_	O
+2	in	in	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	@bostonglobe	@bostonglobe	NN	pos2=NNP	2	pobj	_	O
+5	for	for	IN	_	1	prep	_	O
+6	my	my	PRP$	_	7	poss	_	O
+7	peeps	peep	NNS	_	5	pobj	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	#brownandproud	#brownandproud	UH	pos2=FW	6	dep	_	O
+2	#bad	#bad	FW	pos2=UH	4	nmod	_	O
+3	-	-	HYPH	pos2=SYM	4	punct	_	O
+4	hombres	hombre	NNS	pos2=FW	6	nmod	_	O
+5	#thanksgiving	#thanksgiving	VBG	pos2=GW	6	nmod	_	O
+6	https://t.co/4jZjknBHaj	#hlink#	ADD	pos2=NN	0	root	_	O
+

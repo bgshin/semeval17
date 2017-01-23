@@ -1,0 +1,25 @@
+1	@shilpitewari:In	@shilpitewari:in	NNP	pos2=IN	2	compound	_	O
+2	India	india	NNP	_	5	vocative	_	U-GPE
+3	,	,	,	_	5	punct	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	am	be	VBP	_	0	root	_	O
+6	sure	sure	JJ	_	5	discourse	_	O
+7	top	top	JJ	_	10	nmod	_	O
+8	management	management	NN	_	10	nmod	_	O
+9	/	/	SYM	pos2=:	10	punct	_	O
+10	Admin	admin	NN	pos2=NNP	13	nsubj	_	O
+11	would	would	MD	_	13	aux	_	O
+12	've	have	VB	_	13	aux	_	O
+13	fallen	fall	VBN	_	0	root	_	O
+14	Prey	prey	NNP	pos2=NN	13	dobj	_	U-PERSON
+15	to	to	IN	pos2=TO	13	prep	_	O
+16	Leftists'	leftists'	NNP	pos2=VB	18	nmod	_	B-ORG
+17	/	/	SYM	pos2=``	18	punct	_	I-ORG
+18	Psedoseculiars	psedoseculiars	NNP	pos2=NNPS	21	poss	_	I-ORG
+19	'	'	POS	pos2=''	18	case	_	L-ORG
+20	setting	setting	NN	pos2=VBG	21	compound	_	O
+21	tempetions	tempetions	NNS	pos2=XX	15	pobj	_	O
+22	-	-	,	pos2=HYPH	13	punct	_	O
+23	:)	:)	NFP	_	13	discourse	_	O
+24	!	!	.	_	5	punct	_	O
+

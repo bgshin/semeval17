@@ -1,0 +1,16 @@
+1	How	how	WRB	_	4	advmod	_	O
+2	#EU	#eu	RBS	pos2=NN	4	nsubj	_	O
+3	secretly	secretly	RB	_	4	advmod	_	O
+4	embraced	embrace	VBD	pos2=VBN	0	root	_	O
+5	#Israeli	#israeli	NNP	pos2=IN	6	compound	_	U-ORG
+6	ministry	ministry	NN	_	4	dobj	_	O
+7	in	in	IN	_	6	prep	_	O
+8	East	east	NNP	pos2=JJ	9	compound	_	B-GPE
+9	#Jerusalem	#jerusalem	NNP	pos2=POS	11	poss	_	I-GPE
+10	@dvcronin	@dvcronin	POS	pos2=IN	9	case	_	I-GPE
+11	V	v	NNP	pos2=GW	7	pobj	_	L-GPE
+12	@intifada	@intifada	ADD	pos2=GW	13	nmod	_	O
+13	https://t.co/ehWjfr5X9q	#hlink#	ADD	_	15	nmod	_	U-GPE
+14	#Palestinians	#palestinians	-RRB-	pos2=NNS	13	punct	_	U-ORG
+15	#HumanRights	#humanrights	NNS	pos2=ADD	10	pobj	_	O
+

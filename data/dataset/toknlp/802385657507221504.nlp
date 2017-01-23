@@ -1,0 +1,14 @@
+1	Melania	melania	NNP	pos2=NN	7	nsubj	_	U-PERSON
+2	And	and	CC	pos2=NNP	1	cc	_	O
+3	Barron	barron	NNP	_	4	compound	_	B-PERSON
+4	Trump	trump	NNP	_	1	conj	_	L-PERSON
+5	Wo	wo	MD	_	7	aux	_	O
+6	n’t	not	RB	_	7	neg	_	O
+7	Live	live	VB	_	0	root	_	O
+8	In	in	IN	_	7	prep	_	O
+9	White	white	NNP	_	10	compound	_	B-ORG
+10	House	house	NNP	_	8	pobj	_	L-ORG
+11	https://t.co/GxZHng6oZd	#hlink#	ADD	_	13	nmod	_	O
+12	via	via	IN	_	7	prep	_	O
+13	@theonion	@theonion	NN	pos2=CD	12	pobj	_	O
+

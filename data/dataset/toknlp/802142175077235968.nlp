@@ -1,0 +1,21 @@
+1	#Jerusalem	#jerusalem	NNP	pos2=NN	3	compound	_	B-ORG
+2	Prayer	prayer	NNP	pos2=NN	3	compound	_	I-ORG
+3	Team	team	NNP	pos2=NN	6	vocative	_	L-ORG
+4	|	|	,	pos2=SYM	6	punct	_	O
+5	Please	please	UH	pos2=NNP	6	discourse	_	O
+6	continue	continue	VB	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	pray	pray	VB	_	6	xcomp	_	O
+9	for	for	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	fires	fire	NNS	_	9	pobj	_	O
+12	in.	in.	NN	pos2=.	8	npadvmod	_	O
+13	..	..	.	pos2=,	6	punct	_	O
+
+1	#Egypt	#egypt	NNP	pos2=VB	2	compound	_	B-PERSON
+2	#Israel	#israel	NNP	pos2=NFP	0	root	_	L-PERSON
+3	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/rEfMHZLZpk	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/WoFFRNl1Sz	#hlink#	ADD	_	0	root	_	U-ORG
+

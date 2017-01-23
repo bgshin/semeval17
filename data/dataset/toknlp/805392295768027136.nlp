@@ -1,0 +1,17 @@
+1	roast	roast	NN	pos2=JJ	2	compound	_	O
+2	dinners	dinner	NNS	_	3	nsubj	_	O
+3	r	r	VBP	pos2=MD	0	root	_	O
+4	so	so	RB	pos2=IN	8	advmod	_	O
+5	shit	shit	NN	pos2=VB	3	attr	_	O
+6	but	but	CC	_	5	cc	_	O
+7	vegetarianism	vegetarianism	NN	_	5	conj	_	O
+8	makes	make	VBZ	_	3	conj	_	O
+9	it	it	PRP	_	10	nsubj	_	O
+10	worse	bad	JJR	pos2=JJ	8	ccomp	_	O
+11	veggie	veggie	NN	pos2=JJ	12	compound	_	O
+12	gravy	gravy	NN	_	14	nsubj	_	O
+13	genuinely	genuinely	RB	_	14	advmod	_	O
+14	tastes	taste	VBZ	_	8	conj	_	O
+15	like	like	IN	pos2=UH	14	prep	_	O
+16	asshole	asshole	NN	_	15	pobj	_	O
+

@@ -1,0 +1,27 @@
+1	Who	who	WP	_	2	nsubj	_	O
+2	knew	know	VBD	_	0	root	_	O
+3	we	we	PRP	_	5	nsubj	_	O
+4	'd	would	MD	_	5	aux	_	O
+5	make	make	VB	_	2	ccomp	_	O
+6	a	a	DT	_	10	det	_	O
+7	compelling	compelling	JJ	pos2=VBG	10	nmod	_	O
+8	Melania	melania	NNP	pos2=NN	10	compound	_	U-PERSON
+9	speech	speech	NN	_	10	compound	_	O
+10	generator	generator	NN	pos2=GW	5	dobj	_	O
+11	@JianPiero	@jianpiero	ADD	pos2=GW	8	cc	_	O
+12	https://t.co/sNjSnihhjn:	#hlink#	ADD	_	13	compound	_	O
+13	Brexit	brexit	NNP	pos2=-RRB-	11	pobj	_	U-ORG
+14	.	.	.	_	2	punct	_	O
+
+1	Trump	trump	NN	pos2=LS	0	root	_	U-ORG
+2	.	.	.	_	1	punct	_	O
+
+1	Orlando	orlando	NNP	_	2	compound	_	U-GPE
+2	shooting	shooting	NN	pos2=VBG	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	All	all	PDT	pos2=DT	3	predet	_	O
+2	the	the	DT	_	3	det	_	O
+3	truth	truth	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+

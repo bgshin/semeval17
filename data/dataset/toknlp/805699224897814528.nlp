@@ -1,0 +1,9 @@
+1	Motivational	motivational	JJ	pos2=NNP	2	nmod	_	O
+2	Quote	quote	NNP	pos2=NN	0	root	_	O
+3	by	by	IN	_	2	prep	_	O
+4	Muhammad	muhammad	NNP	_	5	compound	_	B-PERSON
+5	Ali	ali	NNP	_	3	pobj	_	I-PERSON
+6	https://t.co/R1dl9Itu6G	#hlink#	ADD	pos2=NNP	8	nmod	_	I-PERSON
+7	#HannesGerber	#hannesgerber	ADD	pos2=GW	3	pobj	_	L-PERSON
+8	https://t.co/ajngnyQAdU	#hlink#	ADD	_	7	pobj	_	O
+

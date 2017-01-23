@@ -1,0 +1,13 @@
+1	U.S.	u.s.	NNP	_	2	nsubj	_	U-GPE
+2	wants	want	VBZ	pos2=CC	0	root	_	O
+3	test	test	NN	_	5	compound	_	O
+4	-	-	HYPH	_	5	punct	_	O
+5	track	track	NN	_	6	compound	_	O
+6	network	network	NN	_	2	dobj	_	O
+7	for	for	IN	_	2	prep	_	O
+8	self-driving	self-driving	JJ	_	9	nmod	_	O
+9	cars	car	NNS	_	7	pobj	_	O
+10	https://t.co/fBfvkXECBy	#hlink#	ADD	pos2=VBP	6	appos	_	O
+11	via	via	IN	_	10	prep	_	O
+12	@SFGate	@sfgate	ADD	pos2=NN	11	pobj	_	O
+

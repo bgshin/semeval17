@@ -1,0 +1,13 @@
+1	A	a	DT	pos2=LS	3	det	_	O
+2	closer	close	JJR	_	3	nmod	_	O
+3	look	look	NN	_	10	dep	_	O
+4	at	at	IN	_	3	prep	_	O
+5	Trump	trump	NNP	pos2=NN	8	poss	_	U-ORG
+6	's	's	POS	_	5	case	_	O
+7	Cabinet	cabinet	NNP	pos2=NN	8	compound	_	U-ORG
+8	choices	choice	NNS	_	4	pobj	_	O
+9	:	:	:	_	10	punct	_	O
+10	https://t.co/6VtpKo4Uqi	#hlink#	ADD	pos2=NN	0	root	_	O
+11	via	via	IN	_	10	prep	_	O
+12	@YouTube	@youtube	NNP	pos2=NN	11	pobj	_	O
+

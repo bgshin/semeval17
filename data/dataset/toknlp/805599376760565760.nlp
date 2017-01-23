@@ -1,0 +1,27 @@
+1	#cannabis	#cannabis	UH	pos2=ADD	2	nmod	_	O
+2	https://t.co/IsSul8PZ2i	#hlink#	ADD	pos2=UH	0	root	_	O
+3	...	..	.	pos2=,	2	punct	_	O
+
+1	of	of	IN	_	0	nsubj	_	O
+2	the	the	DT	_	3	det	_	O
+3	discretion	discretion	NN	_	1	pobj	_	O
+4	that	that	WDT	_	6	nsubj	_	O
+5	's	's	VBZ	_	6	aux	_	O
+6	going	go	VBG	_	3	relcl	_	O
+7	on	on	RP	_	6	prt	_	O
+8	at	at	IN	_	6	prep	_	O
+9	the	the	DT	_	11	det	_	O
+10	federal	federal	JJ	_	11	nmod	_	O
+11	level	level	NN	_	8	pobj	_	O
+12	,	,	,	_	14	punct	_	O
+13	"	"	''	_	14	punct	_	O
+14	said	say	VBD	_	0	root	_	O
+15	Michael	michael	NNP	_	16	compound	_	B-PERSON
+16	Bronstein	bronstein	NNP	_	14	nsubj	_	L-PERSON
+17	,	,	,	_	16	punct	_	O
+18	co-founder	co-founder	NN	_	16	appos	_	O
+19	of	of	IN	_	18	prep	_	O
+20	the	the	DT	_	22	det	_	O
+21	A	a	NNP	pos2=DT	22	compound	_	O
+22	…	…	NNP	pos2=NN	19	pobj	_	O
+

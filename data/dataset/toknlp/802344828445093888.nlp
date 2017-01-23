@@ -1,0 +1,11 @@
+1	Leonard	leonard	NNP	_	2	compound	_	B-PERSON
+2	Cohen	cohen	NNP	_	6	poss	_	I-PERSON
+3	's	's	POS	_	2	case	_	L-PERSON
+4	Son	son	NNP	_	6	compound	_	B-WORK_OF_ART
+5	Shares	shares	NNP	pos2=NNPS	6	compound	_	I-WORK_OF_ART
+6	Tribute	tribute	NNP	pos2=VBP	10	dep	_	I-WORK_OF_ART
+7	to	to	IN	_	6	prep	_	I-WORK_OF_ART
+8	Late	late	NNP	pos2=JJ	9	compound	_	I-WORK_OF_ART
+9	Father	father	NNP	_	7	pobj	_	L-WORK_OF_ART
+10	https://t.co/06pNV1g8Eh	#hlink#	ADD	_	0	root	_	O
+

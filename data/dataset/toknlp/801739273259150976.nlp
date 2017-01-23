@@ -1,0 +1,28 @@
+1	@Sparx_75	@sparx_0	NN	pos2=NNP	3	nsubj	_	O
+2	ive	ive	RB	pos2=NN	3	advmod	_	O
+3	had	have	VBD	_	0	root	_	O
+4	no	no	DT	_	5	det	_	O
+5	problem	problem	NN	_	3	dobj	_	O
+6	with	with	IN	_	5	prep	_	O
+7	it	it	PRP	_	6	pobj	_	O
+8	in	in	IN	_	3	prep	_	O
+9	games	game	NNS	_	8	pobj	_	O
+10	,	,	,	_	3	punct	_	O
+11	but	but	CC	_	3	cc	_	O
+12	google	google	NNP	pos2=JJ	13	compound	_	O
+13	earth	earth	NN	_	15	nsubj	_	O
+14	really	really	RB	_	15	advmod	_	O
+15	messed	mess	VBD	_	3	conj	_	O
+16	me	me	PRP	_	15	dobj	_	O
+17	up	up	RP	_	15	prt	_	O
+18	..	..	.	_	15	punct	_	O
+
+1	VR	vr	NN	pos2=NNP	2	nsubj	_	U-ORG
+2	is	be	VBZ	_	0	root	_	O
+3	lots	lot	NNS	_	2	attr	_	O
+4	of	of	IN	_	3	prep	_	O
+5	fun	fun	NN	pos2=JJ	4	pobj	_	O
+6	still	still	RB	_	7	advmod	_	O
+7	tho	tho	RB	pos2=UH	2	advmod	_	O
+8	..	..	.	pos2=,	2	punct	_	O
+

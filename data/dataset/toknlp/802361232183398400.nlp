@@ -1,0 +1,25 @@
+1	One	#crd#	CD	_	2	nmod	_	U-CARDINAL
+2	thing	thing	NN	_	8	nsubj	_	O
+3	we	we	PRP	_	5	nsubj	_	O
+4	're	be	VBP	_	5	aux	_	O
+5	learning	learn	VBG	_	2	relcl	_	O
+6	about	about	IN	_	5	prep	_	O
+7	Trump	trump	NNP	pos2=NN	6	pobj	_	U-ORG
+8	is	be	VBZ	_	21	ccomp	_	O
+9	that	that	IN	_	15	mark	_	O
+10	his	his	PRP$	_	11	poss	_	O
+11	train	train	NN	_	15	nsubj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	thought	thought	NN	_	12	pobj	_	O
+14	rarely	rarely	RB	_	15	advmod	_	O
+15	runs	run	VBZ	_	8	ccomp	_	O
+16	on	on	IN	_	15	prep	_	O
+17	a	a	DT	_	19	det	_	O
+18	single	single	JJ	_	19	nmod	_	O
+19	track	track	NN	_	16	pobj	_	O
+20	,	,	,	_	21	punct	_	O
+21	writes	write	VBZ	_	0	root	_	O
+22	Ron	ron	NNP	_	23	compound	_	B-PERSON
+23	Elving	elving	NNP	_	21	nsubj	_	L-PERSON
+24	https://t.co/lpJXvLzNKE	#hlink#	ADD	_	19	appos	_	O
+

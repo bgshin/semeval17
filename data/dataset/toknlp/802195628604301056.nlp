@@ -1,0 +1,18 @@
+1	#ISIS	#isis	NNP	pos2=NN	3	compound	_	O
+2	Social	social	NNP	_	3	compound	_	B-ORG
+3	Media	media	NNP	pos2=NNPS	4	compound	_	L-ORG
+4	Expert	expert	NN	pos2=NNP	12	nsubj	_	O
+5	who	who	WP	_	6	nsubj	_	O
+6	urged	urge	VBD	_	4	relcl	_	O
+7	US	us	NNP	pos2=PRP	8	compound	_	U-GPE
+8	Muslims	muslim	NNPS	_	6	dobj	_	U-NORP
+9	to	to	TO	pos2=IN	10	aux	_	O
+10	behead	behead	VB	_	6	xcomp	_	O
+11	@PamelaGeller	@pamelageller	NNP	pos2=NNS	10	dobj	_	U-ORG
+12	killed	kill	VBN	_	0	root	_	O
+13	by	by	IN	_	12	agent	_	O
+14	drone	drone	NN	_	13	pobj	_	O
+15	.	.	.	_	12	punct	_	O
+
+1	https://t.co/FaxAnfenhm	#hlink#	ADD	_	0	root	_	U-ORG
+

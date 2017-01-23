@@ -1,0 +1,13 @@
+1	First	#ord#	RB	pos2=JJ	5	advmod	_	U-ORDINAL
+2	CHAVEZ	chavez	NNP	pos2=NN	0	vocative	_	U-PERSON
+3	,	,	,	_	2	punct	_	O
+4	Now	now	RB	pos2=NNP	5	advmod	_	O
+5	FIDEL	fidel	NNP	_	2	conj	_	U-PERSON
+6	,	,	,	_	5	punct	_	O
+7	Next	next	NNP	pos2=JJ	5	conj	_	U-ORG
+8	...	..	.	pos2=,	5	punct	_	O
+
+1	NICOLAS	nicolas	NNP	pos2=NNS	2	compound	_	B-PERSON
+2	MADURO	maduro	NNP	_	0	root	_	L-PERSON
+3	!!!	!!	.	_	2	punct	_	O
+

@@ -1,0 +1,11 @@
+1	@brendan_gacek	@brendan_gacek	NNP	pos2=SYM	3	compound	_	O
+2	Grayson	grayson	NNP	_	3	compound	_	B-PERSON
+3	Allen	allen	NNP	_	4	nsubj	_	L-PERSON
+4	is	be	VBZ	_	0	root	_	O
+5	a	a	DT	_	10	det	_	O
+6	Dwayne	dwayne	NNP	_	9	compound	_	B-PERSON
+7	wade	wade	NNP	pos2=NN	9	compound	_	I-PERSON
+8	James	james	NNP	_	9	compound	_	L-PERSON
+9	harden	harden	NNP	pos2=VB	10	compound	_	O
+10	hybrid	hybrid	NN	pos2=JJ	4	attr	_	O
+

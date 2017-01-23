@@ -1,0 +1,31 @@
+1	Wow	wow	UH	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	saw	see	VBD	_	0	root	_	O
+3	a	a	DT	_	6	det	_	O
+4	single	single	JJ	_	6	nmod	_	O
+5	Facebook	facebook	NNP	_	6	compound	_	U-ORG
+6	video	video	NN	_	2	dobj	_	O
+7	on	on	IN	_	2	prep	_	O
+8	one	#crd#	CD	_	9	nmod	_	U-CARDINAL
+9	patient	patient	NN	_	7	pobj	_	O
+10	who	who	WP	_	11	nsubj	_	O
+11	uses	use	VBZ	_	9	relcl	_	O
+12	medical	medical	JJ	_	13	nmod	_	O
+13	marijuana	marijuana	NN	_	11	dobj	_	O
+14	!	!	.	_	2	punct	_	O
+
+1	That	that	DT	_	3	nsubj	_	O
+2	must	must	MD	_	3	aux	_	O
+3	mean	mean	VB	_	0	root	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	solves	solve	VBZ	_	3	ccomp	_	O
+6	every	every	DT	_	7	det	_	O
+7	ailment	ailment	NN	_	5	dobj	_	O
+8	on	on	IN	_	7	prep	_	O
+9	earth	earth	NN	_	8	pobj	_	O
+10	!	!	.	_	3	punct	_	O
+
+1	Wowowowow	wowowowow	NNP	pos2=VB	0	root	_	U-PERSON
+

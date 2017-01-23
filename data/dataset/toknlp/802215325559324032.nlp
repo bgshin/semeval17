@@ -1,0 +1,10 @@
+1	#Trump	#trump	NNP	pos2=IN	2	compound	_	O
+2	Gorges	gorge	NNPS	pos2=NNS	9	nsubj	_	O
+3	On	on	IN	_	2	prep	_	O
+4	Himself	himself	PRP	pos2=NNP	3	pobj	_	O
+5	During	during	IN	_	2	prep	_	O
+6	Thanksgiving	thanksgiving	NNP	_	7	compound	_	U-DATE
+7	Feast	feast	NNP	_	5	pobj	_	O
+8	@cnnbrk	@cnnbrk	ADD	pos2=IN	9	dep	_	O
+9	https://t.co/E3aTRAtku9	#hlink#	ADD	_	0	root	_	O
+

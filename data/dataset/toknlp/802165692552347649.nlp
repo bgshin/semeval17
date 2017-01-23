@@ -1,0 +1,14 @@
+1	BREAKING	break	VBG	pos2=NN	2	nmod	_	O
+2	NEWS	news	NN	pos2=NNP	5	nsubj	_	O
+3	PRESIDENT	president	NNP	pos2=NN	4	compound	_	O
+4	OBAMA	obama	NNP	pos2=NN	5	nsubj	_	U-PERSON
+5	TALKS	talk	VBZ	pos2=NNPS	0	root	_	O
+6	ABOUT	about	IN	pos2=RB	5	prep	_	O
+7	ANTI	anti	AFX	pos2=FW	8	nmod	_	O
+8	TRUMP	trump	NN	pos2=JJ	9	compound	_	O
+9	RIOTS	riot	NNS	_	6	pobj	_	O
+10	:	:	:	_	5	punct	_	O
+11	https://t.co/SQDQeTeKU6	#hlink#	ADD	pos2=NN	9	appos	_	O
+12	via	via	IN	_	5	prep	_	O
+13	@YouTube	@youtube	NNP	pos2=NN	12	pobj	_	O
+

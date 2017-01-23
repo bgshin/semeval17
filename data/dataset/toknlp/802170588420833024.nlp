@@ -1,0 +1,24 @@
+1	#ORANGEday	#orangeday	NN	pos2=NNS	6	dep	_	O
+2	:	:	:	_	7	punct	_	O
+3	all	all	DT	pos2=RB	0	root	_	O
+4	against	against	IN	_	3	prep	_	O
+5	violence	violence	NN	_	4	pobj	_	O
+6	on	on	IN	_	5	prep	_	O
+7	women	woman	NNS	_	6	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	@EnelGroup	@enelgroup	NN	pos2=NNP	2	nsubj	_	O
+2	joins	join	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	B-DATE
+4	#UnitedNations	#unitednations	NNS	pos2=NNP	5	compound	_	I-DATE
+5	day	day	NN	_	2	dobj	_	L-DATE
+6	with	with	IN	_	2	prep	_	O
+7	a	a	DT	_	9	det	_	O
+8	live	live	JJ	_	9	nmod	_	O
+9	event	event	NN	_	6	pobj	_	O
+10	and	and	CC	_	2	cc	_	O
+11	globally	globally	RB	_	14	nmod	_	O
+12	o	o	GW	pos2=XX	14	nmod	_	O
+13	…	…	GW	pos2=NFP	14	nmod	_	O
+14	https://t.co/1CzBB2zPoz	#hlink#	ADD	pos2=NN	2	conj	_	O
+

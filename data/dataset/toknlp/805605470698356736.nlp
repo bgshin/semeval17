@@ -1,0 +1,7 @@
+1	Well	well	UH	pos2=RB	2	discourse	_	O
+2	said	say	VBD	pos2=VBN	0	root	_	O
+3	#Muhammad	#muhammad	NNP	pos2=IN	5	compound	_	O
+4	Ali	ali	NNP	_	5	compound	_	O
+5	Jinnah	jinnah	NNP	_	6	dep	_	O
+6	https://t.co/c2PbycJNsJ	#hlink#	ADD	_	2	ccomp	_	O
+

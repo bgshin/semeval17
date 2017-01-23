@@ -1,0 +1,10 @@
+1	psa	psa	NN	_	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	cristiano	cristiano	NN	pos2=JJ	4	compound	_	O
+4	ronaldo	ronaldo	NNP	pos2=NN	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	NOT	not	RB	_	5	neg	_	O
+7	of	of	IN	_	5	prep	_	O
+8	this	this	DT	_	9	det	_	O
+9	earth	earth	NN	_	7	pobj	_	U-LOC
+

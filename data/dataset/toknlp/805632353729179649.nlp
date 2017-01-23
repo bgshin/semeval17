@@ -1,0 +1,22 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	about	about	JJ	pos2=RB	2	acomp	_	O
+4	to	to	TO	_	5	aux	_	O
+5	be	be	VB	_	3	xcomp	_	O
+6	2017	0	CD	_	5	attr	_	U-DATE
+7	and	and	CC	_	2	cc	_	O
+8	i	I	PRP	_	12	nsubj	_	O
+9	still	still	RB	_	12	advmod	_	O
+10	ca	can	MD	_	12	aux	_	O
+11	n't	not	RB	_	12	neg	_	O
+12	get	get	VB	_	2	conj	_	O
+13	over	over	IN	pos2=RP	12	prep	_	O
+14	zac	zac	NNP	pos2=JJ	15	compound	_	B-DATE
+15	efron	efron	NNP	pos2=NN	13	pobj	_	L-DATE
+16	and	and	CC	_	15	cc	_	O
+17	vanessa	vanessa	NNP	pos2=NN	15	conj	_	U-GPE
+18	hudgens	hudgens	VBZ	pos2=NNP	20	aux	_	O
+19	not	not	RB	_	20	neg	_	O
+20	dating	date	VBG	_	12	conj	_	O
+21	anymore	anymore	RB	_	20	advmod	_	O
+

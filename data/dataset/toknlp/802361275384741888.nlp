@@ -1,0 +1,21 @@
+1	North	north	JJ	pos2=NNP	4	nmod	_	B-ORG
+2	SF	sf	NNP	_	3	compound	_	I-ORG
+3	Bay	bay	NNP	_	4	compound	_	I-ORG
+4	Leftists	leftist	NNPS	pos2=NNS	6	nsubj	_	L-ORG
+5	,	,	,	_	4	punct	_	O
+6	Where	where	WRB	_	8	advmod	_	O
+7	Art	art	NNP	pos2=NN	8	compound	_	B-PERSON
+8	Thou	thou	NNP	_	0	root	_	L-PERSON
+9	?	?	.	_	4	punct	_	O
+
+1	(	(	-LRB-	_	10	punct	_	O
+2	New	new	JJ	_	3	nmod	_	O
+3	Sub	sub	NN	pos2=NNP	10	dep	_	O
+4	:	:	:	_	10	punct	_	O
+5	/	/	SYM	_	8	punct	_	O
+6	r	r	VB	pos2=NNS	8	nmod	_	O
+7	/	/	SYM	pos2=,	8	punct	_	O
+8	SFNorthBayAnarchists	sfnorthbayanarchists	NNS	pos2=GW	10	nmod	_	O
+9	)	)	-RRB-	pos2=GW	10	nmod	_	O
+10	https://t.co/5dyPxtgleK	#hlink#	ADD	pos2=NN	0	root	_	O
+

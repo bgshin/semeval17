@@ -1,0 +1,27 @@
+1	#architecture	#architecture	UH	pos2=VB	8	discourse	_	O
+2	The	the	DT	_	4	det	_	O
+3	Lily	lily	NNP	pos2=JJ	4	compound	_	U-PERSON
+4	light	light	NN	_	8	nsubj	_	O
+5	&	&	CC	_	4	cc	_	O
+6	quot	quot	NN	pos2=RB	4	conj	_	O
+7	;	;	,	pos2=:	8	punct	_	O
+8	paved	pave	VBD	pos2=VBN	21	ccomp	_	O
+9	the	the	DT	_	10	det	_	O
+10	way	way	NN	_	8	dobj	_	O
+11	for	for	IN	_	14	mark	_	O
+12	things	thing	NNS	_	14	nsubj	_	O
+13	to	to	TO	_	14	aux	_	O
+14	come	come	VB	_	10	relcl	_	O
+15	in	in	IN	_	14	prep	_	O
+16	3	0	CD	_	17	nmod	_	O
+17	D	d	NNS	pos2=NN	15	pobj	_	O
+18	printing&quot	printing&quot	RB	pos2=ADD	14	advmod	_	O
+19	;	;	,	pos2=:	21	punct	_	O
+20	,	,	,	_	21	punct	_	O
+21	says	say	VBZ	_	0	root	_	O
+22	Janne	janne	NNP	_	21	nsubj	_	U-PERSON
+23	...	..	.	pos2=,	21	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/HNE4vGrn07	#hlink#	ADD	pos2=NN	0	root	_	O
+

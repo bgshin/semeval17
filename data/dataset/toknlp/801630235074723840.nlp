@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det	_	O
+2	only	only	JJ	_	3	nmod	_	O
+3	person	person	NN	_	4	nsubj	_	O
+4	self-interested	self-interested	JJ	_	5	nmod	_	O
+5	#Saakashvili	#saakashvili	NNP	pos2=NNS	8	nsubj	_	U-ORG
+6	has	have	VBZ	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	criticized	criticize	VBN	_	13	csubj	_	O
+9	in	in	IN	_	8	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	Ukrainian	ukrainian	JJ	_	12	nmod	_	U-NORP
+12	govt	govt	NN	_	9	pobj	_	O
+13	is	be	VBZ	_	0	root	_	O
+14	self-interested	self-interested	JJ	_	13	acomp	_	O
+15	#Tymoshenko	#tymoshenko	NNP	pos2=NNS	13	vocative	_	U-GPE
+16	.	.	.	_	13	punct	_	O
+
+1	#DestructiveForces	#destructiveforces	NNS	pos2=ADD	0	root	_	O
+

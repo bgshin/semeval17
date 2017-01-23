@@ -1,0 +1,27 @@
+1	@crossfitnans	@crossfitnans	UH	pos2=NNS	10	discourse	_	O
+2	@CampbellforLa	@campbellforla	NN	pos2=GW	7	compound	_	O
+3	@Loca2733Mc	@loca0mc	NNP	pos2=NN	6	nsubj	_	O
+4	Technically	technically	RB	_	10	advmod	_	O
+5	,	,	,	_	10	punct	_	O
+6	Soc	soc	NNP	_	7	compound	_	B-ORG
+7	Sec	sec	NNP	_	10	nsubj	_	I-ORG
+8	&	&	CC	_	7	cc	_	I-ORG
+9	Medicare	medicare	NNP	_	7	conj	_	L-ORG
+10	ARE	be	VBP	_	14	ccomp	_	O
+11	entitlements	entitlement	NNS	_	10	attr	_	O
+12	-	-	:	pos2=,	14	punct	_	O
+13	you	you	PRP	_	14	nsubj	_	O
+14	're	be	VBP	_	0	root	_	O
+15	"	"	``	_	16	punct	_	O
+16	entitled	entitle	VBN	pos2=JJ	14	acomp	_	O
+17	"	"	''	pos2=``	16	punct	_	O
+18	to	to	IN	_	16	prep	_	O
+19	them	them	PRP	_	18	pobj	_	O
+20	b	b	VB	pos2=IN	22	compound	_	O
+21	/	/	HYPH	pos2=,	22	punct	_	O
+22	c	c	NN	pos2=IN	24	dobj	_	O
+23	you	you	PRP	_	24	nsubj	_	O
+24	Paid	pay	VBD	_	19	relcl	_	O
+25	into	into	IN	_	24	prep	_	O
+26	them	them	PRP	_	25	pobj	_	O
+

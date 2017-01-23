@@ -1,0 +1,17 @@
+1	Yet	yet	RB	pos2=CC	3	advmod	_	O
+2	another	another	DT	_	3	det	_	O
+3	example	example	NN	_	7	nsubj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	@sohhomeopathy	@sohhomeopathy	NN	pos2=PRP	4	pobj	_	O
+6	blindly	blindly	RB	_	7	advmod	_	O
+7	tweeting	tweet	VBG	_	0	root	_	O
+8	something	something	NN	_	7	dobj	_	O
+9	without	without	IN	_	7	prep	_	O
+10	realising	realise	VBG	_	9	pcomp	_	O
+11	PR	pr	NN	_	12	compound	_	O
+12	consequences	consequence	NNS	_	10	dobj	_	O
+13	.	.	.	_	7	punct	_	O
+
+1	#homeopathy	#homeopathy	UH	pos2=ADD	2	discourse	_	O
+2	https://t.co/fLMjsMEkOu	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,22 @@
+1	Hashtag	hashtag	NN	pos2=NNP	2	compound	_	O
+2	Activism	activism	NN	pos2=NNP	0	root	_	O
+3	and	and	CC	_	2	cc	_	O
+4	Why	why	WRB	_	5	advmod	_	O
+5	#BlackLivesMatter	#blacklivesmatter	RB	pos2=NNP	21	dep	_	O
+6	In	in	IN	pos2=NNP	5	prep	_	O
+7	(	(	-LRB-	_	2	punct	_	O
+8	and	and	CC	_	6	cc	_	O
+9	To	to	IN	pos2=TO	6	conj	_	O
+10	)	)	-RRB-	_	6	punct	_	O
+11	the	the	DT	_	12	det	_	O
+12	Classroom	classroom	NN	pos2=NNP	6	pobj	_	O
+13	by	by	IN	_	12	prep	_	O
+14	Prudence	prudence	NNP	_	19	compound	_	O
+15	Cumberbatch	cumberbatch	NNP	_	19	compound	_	O
+16	Nicole	nicole	NNP	_	19	compound	_	B-PERSON
+17	Trujillo	trujillo	NNP	_	19	compound	_	I-PERSON
+18	-	-	HYPH	_	19	punct	_	I-PERSON
+19	Pagán	pagán	NNP	_	13	pobj	_	L-PERSON
+20	,	,	,	_	21	punct	_	O
+21	https://t.co/iaIsK0YcnP	#hlink#	ADD	pos2=NNP	2	conj	_	U-GPE
+

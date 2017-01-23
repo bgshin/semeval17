@@ -1,0 +1,13 @@
+1	Grayson	grayson	NNP	_	2	compound	_	B-PERSON
+2	Allen	allen	NNP	_	0	root	_	L-PERSON
+3	?	?	.	_	2	punct	_	O
+
+1	Who	who	WP	_	2	attr	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	she	she	PRP	_	2	nsubj	_	O
+4	?	?	.	_	2	punct	_	O
+
+1	-	-	SYM	pos2=:	3	punct	_	O
+2	Joel	joel	NNP	_	3	compound	_	B-PERSON
+3	Berry	berry	NNP	_	0	root	_	L-PERSON
+

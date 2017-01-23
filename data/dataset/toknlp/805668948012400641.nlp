@@ -1,0 +1,21 @@
+1	@TeaPainUSA	@teapainusa	NN	pos2=ADD	5	nmod	_	O
+2	@SchuetteOnDuty	@schuetteonduty	JJ	pos2=NN	5	nmod	_	O
+3	UR	ur	NNP	pos2=NN	5	compound	_	U-ORG
+4	voter	voter	NN	_	5	compound	_	O
+5	suppression	suppression	NN	_	6	nsubj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	clear	clear	JJ	_	8	nmod	_	O
+8	assault	assault	NN	_	6	attr	_	O
+9	on	on	IN	_	8	prep	_	O
+10	older	old	JJR	_	11	nmod	_	O
+11	whites	white	NNS	_	9	pobj	_	O
+12	&	&	CC	_	11	cc	_	O
+13	blacks	black	NNS	_	11	conj	_	O
+14	U	u	PRP	pos2=NNP	16	nsubj	_	O
+15	clearly	clearly	RB	_	16	advmod	_	O
+16	R	r	VBP	pos2=VB	6	advcl	_	O
+17	a	a	DT	pos2=''	19	det	_	O
+18	@StevenKBannon	@stevenkbannon	NN	pos2=ADD	19	compound	_	O
+19	subscriber	subscriber	NN	_	16	dobj	_	O
+20	#shameful	#shameful	.	pos2=XX	6	punct	_	O
+

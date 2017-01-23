@@ -1,0 +1,17 @@
+1	#UnitedNations	#unitednations	ADD	pos2=NNS	3	det	_	U-CARDINAL
+2	Special	special	JJ	pos2=NNP	3	nmod	_	O
+3	Envoy	envoy	NNP	pos2=NN	7	nsubj	_	O
+4	on	on	IN	_	3	prep	_	O
+5	Syria	syria	NNP	_	6	compound	_	U-GPE
+6	Affirmed	affirmed	NNP	pos2=VBD	4	pobj	_	O
+7	Continued	continue	VBD	pos2=NNP	0	root	_	O
+8	US	us	NNP	_	9	compound	_	U-GPE
+9	Efforts	effort	NNPS	pos2=NNS	7	dobj	_	O
+10	in	in	IN	_	9	prep	_	O
+11	Ending	end	VBG	_	10	pcomp	_	O
+12	Conflict	conflict	NN	pos2=NNP	11	dobj	_	O
+13	in	in	IN	_	12	prep	_	O
+14	Syria	syria	NNP	_	13	pobj	_	O
+15	#USINDODailyNews	#usindodailynews	POS	pos2=GW	14	case	_	O
+16	https://t.co/ZbvZvwzuR1	#hlink#	ADD	_	13	pobj	_	O
+

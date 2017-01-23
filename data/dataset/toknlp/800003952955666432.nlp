@@ -1,0 +1,28 @@
+1	Yes	yes	UH	_	3	discourse	_	O
+2	,	,	,	_	3	punct	_	O
+3	Let	let	VB	_	0	root	_	O
+4	's	's	PRP	_	5	nsubj	_	O
+5	celebrate	celebrate	VB	_	3	ccomp	_	O
+6	the	the	DT	_	8	det	_	O
+7	slow	slow	JJ	_	8	nmod	_	O
+8	death	death	NN	_	5	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	Americans	american	NNPS	_	9	pobj	_	U-NORP
+11	by	by	IN	_	5	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	chemicals	chemical	NNS	_	11	pobj	_	O
+14	,	,	,	_	13	punct	_	O
+15	MSG	msg	NN	pos2=NNP	13	conj	_	U-ORG
+16	,	,	,	_	15	punct	_	O
+17	GMOs	gmos	NNS	pos2=NNPS	15	conj	_	O
+18	etc	etc	FW	pos2=CC	17	advmod	_	O
+19	in	in	IN	_	5	prep	_	O
+20	junk	junk	NN	_	21	compound	_	O
+21	food	food	NN	_	19	pobj	_	O
+22	.	.	.	_	3	punct	_	O
+
+1	Ridiculous	ridiculous	JJ	_	0	root	_	O
+2	...	..	.	pos2=,	1	punct	_	O
+
+1	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=UH	0	root	_	U-DATE
+

@@ -1,0 +1,28 @@
+1	#Eurozone	#eurozone	NNP	pos2=IN	4	aux	_	O
+2	These	these	DT	_	3	det	_	O
+3	people	people	NNS	_	4	nsubj	_	O
+4	need	need	VBP	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	discover	discover	VB	_	4	xcomp	_	O
+7	the	the	DT	_	8	det	_	O
+8	beauty	beauty	NN	_	6	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	having	have	VBG	_	9	pcomp	_	O
+11	a	a	DT	_	13	det	_	O
+12	democratic	democratic	JJ	_	13	nmod	_	O
+13	nation	nation	NN	_	10	dobj	_	O
+14	as	as	RB	pos2=IN	15	advmod	_	O
+15	perfect	perfect	JJ	_	13	nmod	_	O
+16	as	as	IN	_	23	mark	_	O
+17	the	the	DT	_	22	det	_	O
+18	DPRK.	dprk.	NNP	_	22	compound	_	O
+19	Kim	kim	NNP	_	22	compound	_	B-PERSON
+20	Jong	jong	NNP	_	22	compound	_	I-PERSON
+21	-	-	HYPH	_	22	punct	_	I-PERSON
+22	un	un	NNP	_	23	nsubj	_	L-PERSON
+23	is	be	VBZ	_	15	advcl	_	O
+24	life	life	NN	_	23	attr	_	O
+25	.	.	.	_	4	punct	_	O
+
+1	#SydMUN16	#sydmun0	NN	pos2=ADD	0	root	_	O
+

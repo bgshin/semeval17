@@ -1,0 +1,11 @@
+1	@thehill	@thehill	UH	pos2=PRP	2	discourse	_	O
+2	are	be	VBP	_	0	root	_	O
+3	they	they	PRP	_	2	nsubj	_	O
+4	all	all	DT	pos2=RB	3	appos	_	O
+5	from	from	IN	_	2	prep	_	O
+6	@megynkelly	@megynkelly	NNP	pos2=RB	5	pobj	_	U-GPE
+7	?	?	.	_	2	punct	_	O
+
+1	Who	who	WP	_	2	nsubj	_	O
+2	cares	care	VBZ	_	0	root	_	O
+

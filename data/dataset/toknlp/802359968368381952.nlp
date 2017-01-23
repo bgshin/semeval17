@@ -1,0 +1,13 @@
+1	November	november	NNP	_	10	npadvmod	_	B-DATE
+2	22	0	CD	_	1	npadvmod	_	L-DATE
+3	:	:	:	_	10	punct	_	O
+4	Breaking	break	VBG	pos2=NN	5	nmod	_	O
+5	News	news	NN	pos2=NNP	10	dep	_	O
+6	:	:	:	_	10	punct	_	O
+7	Medicare	medicare	NNP	pos2=NN	10	compound	_	U-ORG
+8	Part	part	NN	pos2=NNP	10	compound	_	O
+9	B	b	NNP	pos2=NN	10	compound	_	O
+10	Experiment	experiment	NN	pos2=NNP	11	nsubj	_	O
+11	Dead	dead	JJ	pos2=GW	12	nmod	_	O
+12	https://t.co/IV1edgfHTT	#hlink#	ADD	pos2=NN	0	root	_	O
+

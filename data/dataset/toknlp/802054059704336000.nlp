@@ -1,0 +1,14 @@
+1	Partido	partido	NNP	pos2=NN	3	compound	_	O
+2	para	para	NN	pos2=FW	3	compound	_	O
+3	hoy	hoy	NN	pos2=XX	4	compound	_	O
+4	@NBA	@nba	NNP	pos2=NN	0	root	_	U-PRODUCT
+5	.	.	.	_	4	punct	_	O
+
+1	@ATLHawks	@atlhawks	NNS	pos2=NN	7	dep	_	O
+2	vs	vs	CC	pos2=IN	1	prep	_	O
+3	@utahjazz⏰	@utahjazz⏰	IN	pos2=VBG	7	nmod	_	O
+4	22:00	0	CD	_	5	nmod	_	U-TIME
+5	hs1️⃣7️⃣	hs0️⃣0️⃣	NNS	pos2=CD	7	dep	_	O
+6	Fecha	fecha	NNP	pos2=FW	7	nmod	_	O
+7	https://t.co/F1BqXqEfOZ	#hlink#	ADD	pos2=NN	0	root	_	O
+

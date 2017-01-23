@@ -1,0 +1,23 @@
+1	@PrisonPlanet	@prisonplanet	NN	pos2=ADD	6	compound	_	O
+2	@SuncoastPlace	@suncoastplace	XX	pos2=IN	7	dep	_	O
+3	soros	soros	VBZ	pos2=XX	0	root	_	O
+4	clinton	clinton	NNP	pos2=XX	6	compound	_	O
+5	pelosi	pelosi	NNP	pos2=NN	6	compound	_	O
+6	podesta	podesta	NNP	pos2=VBZ	7	nsubj	_	O
+7	doing	do	VBG	_	3	ccomp	_	O
+8	this	this	DT	_	7	dobj	_	O
+9	..	..	.	pos2=,	3	punct	_	O
+
+1	vote	vote	VB	pos2=NN	10	advcl	_	O
+2	every	every	DT	_	3	det	_	O
+3	dem	dem	NN	_	1	dobj	_	O
+4	out	out	RP	pos2=RB	1	prt	_	O
+5	from	from	IN	_	1	prep	_	O
+6	now	now	RB	_	5	pcomp	_	O
+7	on	on	RB	pos2=IN	1	advmod	_	O
+8	-	-	,	pos2=:	10	punct	_	O
+9	they	they	PRP	_	10	nsubj	_	O
+10	are	be	VBP	_	0	root	_	O
+11	against	against	IN	_	10	prep	_	O
+12	democracy	democracy	NN	_	11	pobj	_	O
+

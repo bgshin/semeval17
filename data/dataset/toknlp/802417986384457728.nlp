@@ -1,0 +1,20 @@
+1	Fuk	fuk	NNP	_	2	nsubj	_	U-PERSON
+2	knows	know	VBZ	_	0	root	_	O
+3	y	y	IN	pos2=XX	2	prep	_	O
+4	#auspol	#auspol	XX	pos2=NNP	3	pobj	_	O
+5	wld	wld	MD	pos2=TO	6	aux	_	O
+6	give	give	VB	_	2	ccomp	_	O
+7	to	to	IN	_	6	dative	_	O
+8	the	the	DT	_	11	det	_	B-ORG
+9	Clinton	clinton	NNP	_	10	compound	_	I-ORG
+10	Foundation	foundation	NNP	_	11	compound	_	L-ORG
+11	%	%	NN	_	7	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	Donations	donation	NNS	pos2=NNP	12	pobj	_	O
+14	go	go	VBP	_	19	advcl	_	O
+15	to	to	IN	_	14	prep	_	O
+16	Charity	charity	NN	pos2=NNP	15	pobj	_	O
+17	5.7	0	CD	_	18	nmod	_	B-PERCENT
+18	%	%	NN	_	19	dep	_	L-PERCENT
+19	https://t.co/O3L5loM6Pz	#hlink#	ADD	pos2=NN	2	dep	_	O
+

@@ -1,0 +1,11 @@
+1	Lol	lol	UH	pos2=NNP	0	root	_	B-PERSON
+2	Justin	justin	NNP	_	3	compound	_	I-PERSON
+3	verlander	verlander	NNP	pos2=NN	1	nsubj	_	L-PERSON
+4	on	on	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	drums	drum	NNS	_	4	pobj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	lions	lion	NNS	pos2=JJ	10	compound	_	O
+9	halftime	halftime	NN	pos2=VBP	10	compound	_	U-TIME
+10	show	show	NN	pos2=VBP	7	pobj	_	O
+

@@ -1,0 +1,9 @@
+1	Trying	try	VBG	_	0	root	_	O
+2	to	to	TO	_	4	aux	_	O
+3	slowly	slowly	RB	pos2=VB	4	advmod	_	O
+4	transition	transition	VB	_	1	xcomp	_	O
+5	myself	myself	PRP	_	4	dobj	_	O
+6	into	into	IN	_	4	prep	_	O
+7	vegetarianism	vegetarianism	NN	_	6	pobj	_	O
+8	.	.	.	_	1	punct	_	O
+

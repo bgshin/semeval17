@@ -1,0 +1,20 @@
+1	Water	water	NN	pos2=NNP	2	compound	_	O
+2	Pipe	pipe	NNP	pos2=NN	0	root	_	U-EVENT
+3	?	?	.	_	2	punct	_	O
+
+1	stop	stop	VB	pos2=NN	0	root	_	O
+2	Geo	geo	NNP	pos2=PRP$	7	compound	_	O
+3	engineering	engineering	NN	_	5	nsubj	_	O
+4	=	=	SYM	pos2=:	5	punct	_	O
+5	#chemtrail	#chemtrail	IN	pos2=VB	9	mark	_	O
+6	Fracking	fracking	NN	pos2=VBG	7	compound	_	O
+7	#Fracking	#fracking	NNP	pos2=NN	9	nsubj	_	O
+8	would	would	MD	_	9	aux	_	O
+9	be	be	VB	_	1	advcl	_	O
+10	a	a	DT	_	12	det	_	O
+11	great	great	JJ	_	12	nmod	_	O
+12	start	start	NN	_	9	attr	_	O
+13	.	.	.	_	1	punct	_	O
+
+1	https://t.co/17tW4kWPWW	#hlink#	ADD	_	0	root	_	U-ORG
+

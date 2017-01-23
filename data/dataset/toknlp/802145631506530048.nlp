@@ -1,0 +1,15 @@
+1	#DetroitTigers	#detroittigers	NNS	pos2=ADD	14	dep	_	O
+2	#Card	#card	NNP	pos2=POS	14	dep	_	O
+3	Justin	justin	NNP	_	14	dep	_	B-ORG
+4	Verlander	verlander	NNP	_	14	dep	_	I-ORG
+5	Autographed	autographed	NNP	_	10	compound	_	I-ORG
+6	Baseball	baseball	NNP	_	7	compound	_	I-ORG
+7	Card	card	NNP	pos2=NN	10	compound	_	I-ORG
+8	-	-	HYPH	_	10	punct	_	I-ORG
+9	Detroit	detroit	NNP	_	10	compound	_	I-ORG
+10	Tigers	tiger	NNPS	pos2=NNP	14	dep	_	L-ORG
+11	https://t.co/I88ncw3NsW	#hlink#	ADD	pos2=VBP	14	nmod	_	O
+12	#Cards	#cards	NNS	pos2=-RRB-	14	nmod	_	O
+13	…	…	NFP	pos2=-LRB-	14	punct	_	O
+14	https://t.co/60P71xy73m	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,25 @@
+1	Hmm	hmm	UH	_	6	discourse	_	O
+2	,	,	,	_	6	punct	_	O
+3	who	who	WP	_	8	nsubj	_	O
+4	do	do	VBP	_	6	aux	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	think	think	VB	_	0	root	_	O
+7	will	will	MD	_	8	aux	_	O
+8	prevail	prevail	VB	_	6	ccomp	_	O
+9	,	,	,	_	6	punct	_	O
+10	Fatty	fatty	NNP	pos2=JJ	11	compound	_	B-PERSON
+11	Kim	kim	NNP	_	8	vocative	_	L-PERSON
+12	the	the	DT	_	13	det	_	O
+13	Third	#ord#	NNP	pos2=JJ	11	conj	_	U-ORDINAL
+14	or	or	CC	_	13	cc	_	O
+15	Gen	gen	NNP	_	16	compound	_	B-PERSON
+16	Flynn	flynn	NNP	_	13	conj	_	L-PERSON
+17	?	?	.	_	6	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	expect	expect	VBP	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	puddle	puddle	NN	_	5	compound	_	O
+5	pf	pf	NN	pos2=IN	6	dep	_	O
+6	https://t.co/QS6cnY1N3s	#hlink#	ADD	pos2=NN	2	dep	_	O
+

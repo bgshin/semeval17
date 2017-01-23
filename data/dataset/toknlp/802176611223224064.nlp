@@ -1,0 +1,26 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@wikileaks	@wikileaks	UH	pos2=PRP$	6	discourse	_	O
+2	news	news	NN	_	3	compound	_	O
+3	release	release	NN	pos2=VB	5	compound	_	O
+4	#Yemen	#yemen	NNP	pos2=ADD	5	compound	_	O
+5	#YemenCrisis	#yemencrisis	NN	pos2=POS	6	nsubj	_	O
+6	SHows	show	VBZ	_	0	root	_	O
+7	that	that	IN	_	9	mark	_	O
+8	it	it	PRP	_	9	nsubj	_	O
+9	is	be	VBZ	_	6	ccomp	_	O
+10	US	us	NNP	pos2=PRP	11	nsubjpass	_	U-GPE
+11	manufactured	manufacture	VBN	pos2=JJ	9	ccomp	_	O
+12	.	.	.	_	6	punct	_	O
+
+1	Same	same	JJ	pos2=RB	0	root	_	O
+2	as	as	IN	_	1	prep	_	O
+3	#Syria	#syria	NNP	pos2=FW	9	nmod	_	O
+4	"	"	``	pos2=''	9	punct	_	O
+5	civil	civil	JJ	_	7	nmod	_	O
+6	-	-	HYPH	_	7	punct	_	O
+7	war	war	NN	_	9	nmod	_	O
+8	"	"	''	_	9	punct	_	O
+9	#ISIS	#isis	NN	pos2=NFP	2	pobj	_	O
+10	https://t.co/xIito7tN4m	#hlink#	ADD	_	1	dep	_	O
+

@@ -1,0 +1,26 @@
+1	@HillaryClinton	@hillaryclinton	NNP	pos2=ADD	2	compound	_	U-ORG
+2	@ChildDefender	@childdefender	NN	pos2=ADD	0	root	_	O
+3	"	"	''	pos2=``	2	punct	_	O
+4	but	but	CC	_	2	cc	_	O
+5	we	we	PRP	_	6	nsubj	_	O
+6	can	can	MD	_	2	conj	_	O
+7	now	now	RB	_	6	advmod	_	O
+8	.	.	.	_	6	punct	_	O
+9	"	"	''	_	6	punct	_	O
+
+1	One	#crd#	CD	pos2=NN	6	nmod	_	U-CARDINAL
+2	4	0	CD	_	3	nmod	_	U-CARDINAL
+3	u	u	NNS	pos2=SYM	5	dep	_	O
+4	<	<	SYM	pos2=XX	5	punct	_	O
+5	3	0	CD	_	6	nmod	_	O
+6	#StillWithHer	#stillwithher	NNS	pos2=IN	10	pobj	_	O
+7	#ThePeoplesPresident	#thepeoplespresident	IN	pos2=ADD	6	prep	_	O
+8	My	my	PRP$	_	9	poss	_	O
+9	President	president	NNP	pos2=NN	7	pobj	_	O
+10	.	.	.	_	0	root	_	O
+
+1	Not	not	RB	_	2	neg	_	O
+2	quitting	quit	VBG	_	0	root	_	O
+3	yet	yet	RB	_	2	advmod	_	O
+4	.	.	.	_	2	punct	_	O
+

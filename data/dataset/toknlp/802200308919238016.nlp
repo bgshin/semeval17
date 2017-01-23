@@ -1,0 +1,23 @@
+1	@KennedyNation	@kennedynation	NN	pos2=ADD	6	discourse	_	O
+2	I	I	PRP	_	6	nsubj	_	O
+3	actually	actually	RB	_	6	advmod	_	O
+4	did	do	VBD	_	6	aux	_	O
+5	not	not	RB	_	6	neg	_	O
+6	know	know	VB	_	0	root	_	O
+7	that	that	IN	pos2=DT	11	mark	_	O
+8	#EltonJohn	#eltonjohn	NNP	pos2=ADD	11	nsubj	_	U-PERSON
+9	and	and	CC	_	8	cc	_	O
+10	#GreenDay	#greenday	NNP	pos2=NN	8	conj	_	U-PERSON
+11	were	be	VBD	_	6	ccomp	_	O
+12	all	all	DT	pos2=RB	11	dep	_	O
+13	still	still	RB	_	11	advmod	_	O
+14	alive	alive	JJ	_	11	acomp	_	O
+15	.	.	.	_	6	punct	_	O
+
+1	So	so	RB	_	2	advmod	_	O
+2	relevant	relevant	JJ	pos2=VB	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	#Outnumbered	#outnumbered	VBN	pos2=VBD	2	nmod	_	O
+2	#DrainTheSwamp	#draintheswamp	NN	pos2=ADD	0	root	_	O
+

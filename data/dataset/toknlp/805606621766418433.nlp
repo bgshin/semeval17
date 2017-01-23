@@ -1,0 +1,15 @@
+1	White	white	JJ	pos2=NNP	4	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	black	black	JJ	pos2=NN	1	conj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	not	not	RB	pos2=JJ	4	neg	_	O
+6	brothers	brother	NNS	_	4	attr	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	-	-	SYM	pos2=NFP	4	punct	_	O
+2	Muhammad	muhammad	NNP	_	3	compound	_	B-PERSON
+3	Ali	ali	NNP	pos2=GW	4	dep	_	L-PERSON
+4	https://t.co/OViLeF67IJ	#hlink#	ADD	pos2=NNP	0	root	_	O
+5	via	via	IN	_	4	prep	_	O
+6	@YouTube	@youtube	NNP	pos2=NN	5	pobj	_	O
+

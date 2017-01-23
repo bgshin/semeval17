@@ -1,0 +1,17 @@
+1	President	president	NNP	pos2=NN	3	compound	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	elect	elect	NNP	_	4	compound	_	O
+4	Trump	trump	NNP	pos2=NN	6	nsubj	_	U-ORG
+5	could	could	MD	_	6	aux	_	O
+6	make	make	VB	_	0	root	_	O
+7	big	big	JJ	_	8	nmod	_	O
+8	bucks	buck	NNS	_	6	dobj	_	O
+9	from	from	IN	_	6	prep	_	O
+10	Dakota	dakota	NNP	_	12	compound	_	B-ORG
+11	Access	access	NNP	_	12	compound	_	I-ORG
+12	Pipeline	pipeline	NNP	pos2=NN	9	pobj	_	L-ORG
+13	,	,	,	_	12	punct	_	O
+14	@AP	@ap	NFP	pos2=XX	15	nsubj	_	U-GPE
+15	reports	report	VBZ	pos2=NNS	6	parataxis	_	O
+16	https://t.co/RNC7sWOgIY	#hlink#	ADD	pos2=NN	15	dobj	_	U-GPE
+

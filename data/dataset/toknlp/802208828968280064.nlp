@@ -1,0 +1,16 @@
+1	@SebGorka	@sebgorka	ADD	pos2=NN	4	prep	_	B-PERSON
+2	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	1	pobj	_	L-PERSON
+3	@GenFlynn	@genflynn	ADD	pos2=XX	0	root	_	O
+4	@AJDelgado13	@ajdelgado0	NN	pos2=ADD	3	pobj	_	O
+5	@mike_pence	@mike_pence	ADD	pos2=NN	1	discourse	_	O
+6	@jaredkushner	@jaredkushner	UH	pos2=IN	5	discourse	_	O
+7	@DonaldJTrumpJr	@donaldjtrumpjr	IN	pos2=VB	5	prep	_	O
+8	The	the	DT	_	10	det	_	O
+9	Trump	trump	NNP	_	10	compound	_	O
+10	Bump	bump	NNP	pos2=NN	7	pobj	_	O
+11	!	!	.	_	1	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	like	like	VBP	pos2=UH	0	root	_	O
+3	it😂	it😂	.	pos2=NNP	2	punct	_	U-PRODUCT
+

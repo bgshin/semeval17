@@ -1,0 +1,22 @@
+1	@moosehickey	@moosehickey	UH	pos2=XX	5	discourse	_	O
+2	@kimberlyconroy	@kimberlyconroy	UH	pos2=VB	7	discourse	_	O
+3	@petestavros	@petestavros	UH	pos2=VBZ	7	det	_	O
+4	@megynkelly	@megynkelly	UH	pos2=ADD	0	discourse	_	O
+5	Please	please	UH	_	7	discourse	_	O
+6	,	,	,	_	7	punct	_	O
+7	dude	dude	NN	pos2=UH	4	vocative	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	You	you	PRP	_	3	nsubj	_	O
+2	probably	probably	RB	_	3	advmod	_	O
+3	loved	love	VBD	_	0	root	_	O
+4	her	her	PRP	_	3	dobj	_	O
+5	until	until	IN	_	7	mark	_	O
+6	she	she	PRP	_	7	nsubj	_	O
+7	stood	stand	VBD	_	3	advcl	_	O
+8	up	up	RP	pos2=IN	7	prt	_	O
+9	to	to	IN	_	7	prep	_	O
+10	your	your	PRP$	_	11	poss	_	O
+11	boy	boy	NN	_	9	pobj	_	O
+12	.	.	.	_	3	punct	_	O
+

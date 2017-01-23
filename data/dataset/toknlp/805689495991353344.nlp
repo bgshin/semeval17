@@ -1,0 +1,13 @@
+1	Cristiano	cristiano	NNP	_	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	9	nsubj	_	L-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	Jese	jese	NNP	pos2=NNPS	2	conj	_	O
+5	on	on	IN	pos2=RP	10	prep	_	O
+6	target	target	NN	_	5	pobj	_	O
+7	as	as	IN	_	9	mark	_	O
+8	#RealMadrid	#realmadrid	VBN	pos2=JJ	9	nsubj	_	O
+9	beats	beat	VBZ	pos2=NNS	0	root	_	O
+10	Roma	rom	NNP	pos2=GW	12	nmod	_	B-PERSON
+11	#RealMadrid	#realmadrid	GW	pos2=POS	12	nmod	_	L-PERSON
+12	https://t.co/8xAHrf75lK	#hlink#	ADD	_	9	dobj	_	O
+

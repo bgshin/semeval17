@@ -1,0 +1,22 @@
+1	Michael	michael	NNP	_	2	compound	_	B-PERSON
+2	Moore	moore	NNP	_	4	nsubj	_	L-PERSON
+3	Just	just	RB	pos2=NNP	4	advmod	_	O
+4	Escalated	escalate	VBD	_	0	root	_	O
+5	Twitter	twitter	NNP	_	6	compound	_	B-WORK_OF_ART
+6	War	war	NNP	_	4	dobj	_	I-WORK_OF_ART
+7	With	with	IN	pos2=NNP	6	prep	_	I-WORK_OF_ART
+8	Trump	trump	NNP	_	7	pobj	_	L-WORK_OF_ART
+9	,	,	,	_	4	punct	_	O
+10	“	"	``	pos2=''	4	punct	_	O
+11	You	you	PRP	_	14	nsubj	_	O
+12	Have	have	VBP	_	14	aux	_	O
+13	n’t	not	RB	_	14	neg	_	O
+14	Seen	see	VBN	_	4	ccomp	_	O
+15	____	__	''	pos2=NFP	14	punct	_	O
+16	”	"	''	_	14	punct	_	O
+17	,	,	,	_	21	punct	_	O
+18	Holy	holy	NNP	pos2=JJ	19	compound	_	O
+19	Sh*t	sh*t	NNP	pos2=GW	21	dep	_	O
+20	-	-	HYPH	pos2=:	21	punct	_	O
+21	https://t.co/Gf3YpAM4Wa	#hlink#	ADD	pos2=NNP	4	dep	_	O
+

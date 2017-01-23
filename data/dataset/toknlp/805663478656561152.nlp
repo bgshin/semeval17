@@ -1,0 +1,28 @@
+1	@SteezyEvelyn	@steezyevelyn	ADD	pos2=UH	0	root	_	O
+2	@TomiLahren	@tomilahren	IN	pos2=ADD	4	mark	_	O
+3	she	she	PRP	_	4	nsubj	_	O
+4	is	be	VBZ	_	1	advcl	_	O
+5	one	#crd#	CD	_	4	attr	_	U-CARDINAL
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	10	det	_	O
+8	dumbest	dumb	JJS	_	10	nmod	_	O
+9	public	public	JJ	_	10	nmod	_	O
+10	figures	figure	NNS	_	6	pobj	_	O
+11	ever	ever	RB	_	10	advmod	_	O
+12	.	.	.	_	1	punct	_	O
+
+1	how	how	WRB	_	4	advmod	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	think	think	VB	_	0	root	_	O
+5	fossil	fossil	NN	pos2=IN	6	compound	_	O
+6	fuels	fuel	NNS	_	7	nsubj	_	O
+7	are	be	VBP	_	4	ccomp	_	O
+8	the	the	DT	_	11	det	_	O
+9	only	only	JJ	_	11	nmod	_	O
+10	energy	energy	NN	_	11	compound	_	O
+11	source	source	NN	_	7	attr	_	O
+12	,	,	,	_	7	punct	_	O
+13	like	like	IN	_	7	prep	_	O
+14	wtf	wtf	NN	pos2=NNS	13	pobj	_	O
+

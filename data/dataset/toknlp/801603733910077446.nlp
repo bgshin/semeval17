@@ -1,0 +1,17 @@
+1	Trying	try	VBG	_	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	find	find	VB	_	1	xcomp	_	O
+4	which	which	WDT	_	2	pobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	@MichelleObama	@michelleobama	NN	pos2=DT	2	compound	_	O
+2	speech	speech	NN	_	0	root	_	O
+3	for	for	IN	_	6	mark	_	O
+4	Melania	melania	NNP	pos2=NN	6	nsubj	_	U-PERSON
+5	to	to	TO	_	6	aux	_	O
+6	use	use	VB	_	2	advcl	_	O
+7	next	next	RB	pos2=JJ	6	advmod	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	#KeepsTrumpUpAtNight	#keepstrumpupatnight	ADD	pos2=UH	0	root	_	U-TIME
+

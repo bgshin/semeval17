@@ -1,0 +1,22 @@
+1	Hints	hint	NNS	_	6	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	the	the	DT	_	5	det	_	B-FAC
+4	Berlin	berlin	NNP	_	5	compound	_	I-FAC
+5	Wall	wall	NNP	_	2	pobj	_	L-FAC
+6	falling	fall	VBG	_	13	advcl	_	O
+7	after	after	IN	_	6	prep	_	O
+8	the	the	DT	_	10	det	_	B-EVENT
+9	Cold	cold	NNP	_	10	compound	_	I-EVENT
+10	War	war	NNP	pos2=NN	7	pobj	_	L-EVENT
+11	:	:	:	_	13	punct	_	O
+12	Microsoft	microsoft	NNP	_	13	nsubj	_	U-ORG
+13	joins	join	VBZ	_	0	root	_	O
+14	The	the	DT	pos2=NNP	16	det	_	B-ORG
+15	Linux	linux	NNP	_	16	compound	_	I-ORG
+16	Foundation	foundation	NNP	_	13	dobj	_	L-ORG
+17	as	as	IN	_	13	prep	_	O
+18	a	a	DT	_	20	det	_	O
+19	Platinum	platinum	NNP	pos2=NN	20	compound	_	U-ORG
+20	member	member	NN	_	17	pobj	_	O
+21	https://t.co/WbQbIURfjd	#hlink#	ADD	_	20	appos	_	U-ORG
+

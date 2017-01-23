@@ -1,0 +1,19 @@
+1	Please	please	UH	_	2	discourse	_	O
+2	go	go	VB	_	14	advcl	_	O
+3	watch	watch	VB	_	2	advcl	_	O
+4	#FantasticBeasts	#fantasticbeasts	NNS	pos2=XX	3	dobj	_	O
+5	in	in	IN	_	3	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	theatres	theatre	NNS	_	5	pobj	_	O
+8	if	if	IN	_	10	mark	_	O
+9	you	you	PRP	_	10	nsubj	_	O
+10	have	have	VBP	_	14	advcl	_	O
+11	n't	not	RB	_	10	neg	_	O
+12	alreadyThe	alreadythe	DT	pos2=VBN	13	det	_	O
+13	movie	movie	NN	_	14	nsubj	_	O
+14	is	be	VBZ	_	0	root	_	O
+15	amazingThe	amazingthe	JJ	pos2=JJR	16	nmod	_	O
+16	visuals	visuals	NNS	_	17	nsubj	_	O
+17	are	be	VBP	_	14	conj	_	O
+18	splendid	splendid	JJ	_	17	acomp	_	O
+

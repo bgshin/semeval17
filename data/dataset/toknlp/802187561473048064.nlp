@@ -1,0 +1,22 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	'm	be	VBP	_	3	aux	_	O
+3	including	include	VBG	_	0	root	_	O
+4	the	the	DT	_	8	det	_	O
+5	three	#crd#	CD	_	7	nmod	_	O
+6	-	-	HYPH	_	7	punct	_	O
+7	minute	minute	NN	_	8	compound	_	O
+8	#video	#video	NN	pos2=XX	3	dobj	_	O
+9	from	from	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	#TempleInstitute	#templeinstitute	NNP	pos2=NN	9	pobj	_	U-FAC
+12	in	in	IN	_	8	prep	_	O
+13	#Jerusalem	#jerusalem	NNP	_	12	pobj	_	U-GPE
+14	in	in	IN	_	3	prep	_	O
+15	this	this	DT	_	16	det	_	O
+16	post	post	NN	pos2=AFX	14	pobj	_	O
+17	:	:	:	_	21	punct	_	O
+18	#Bible	#bible	JJ	pos2=NNP	21	nmod	_	O
+19	#Prophecy	#prophecy	GW	pos2=NN	21	nmod	_	U-NORP
+20	#Jesus	#jesus	GW	pos2=-LRB-	21	nmod	_	O
+21	https://t.co/wZMpxN6Ose	#hlink#	ADD	pos2=NN	16	appos	_	O
+

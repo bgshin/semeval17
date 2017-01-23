@@ -1,0 +1,30 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@chrislhayes	@chrislhayes	UH	pos2=NNS	4	discourse	_	O
+2	@wrdcsc	@wrdcsc	UH	pos2=NNP	4	discourse	_	O
+3	Pizzagate	pizzagate	NNP	_	4	nsubj	_	U-PERSON
+4	was	be	VBD	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	difference	difference	NN	_	4	attr	_	O
+7	in	in	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	election	election	NN	_	7	pobj	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	Comey	comey	NNP	pos2=DT	2	compound	_	U-PERSON
+2	letter	letter	NN	_	8	nsubj	_	O
+3	,	,	,	_	2	punct	_	O
+4	tied	tie	VBN	pos2=VBD	2	acl	_	O
+5	to	to	IN	_	4	prep	_	O
+6	Weiner	weiner	NNP	_	5	pobj	_	U-PERSON
+7	,	,	,	_	8	punct	_	O
+8	led	lead	VBD	_	0	root	_	O
+9	to	to	IN	_	8	prep	_	O
+10	10	0	CD	_	11	nmod	_	B-DATE
+11	days	day	NNS	_	9	pobj	_	L-DATE
+12	of	of	IN	_	11	prep	_	O
+13	HRC	hrc	NNP	pos2=NN	15	compound	_	U-ORG
+14	pedophilia	pedophilia	NN	_	15	compound	_	O
+15	stories	story	NNS	_	12	pobj	_	O
+16	.	.	.	_	8	punct	_	O
+

@@ -1,0 +1,31 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	U-ORG
+2	@JayOmu	@jayomu	NN	pos2=NNS	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	Inb4	inb0	NNP	pos2=NN	5	compound	_	U-ORG
+5	@jack	@jack	NN	pos2=VBP	0	root	_	O
+6	saying	say	VBG	_	5	acl	_	O
+7	they	they	PRP	_	9	nsubj	_	O
+8	never	never	RB	_	9	neg	_	O
+9	knew	know	VBD	_	6	ccomp	_	O
+10	about	about	IN	_	9	prep	_	O
+11	CP	cp	NN	pos2=NNP	10	pobj	_	U-ORG
+12	on	on	IN	_	9	prep	_	O
+13	twitter	twitter	NN	pos2=NNP	12	pobj	_	O
+14	.	.	.	_	5	punct	_	O
+
+1	You	you	PRP	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	purge	purge	VB	_	0	root	_	O
+4	alt	alt	JJ	pos2=RB	6	nmod	_	O
+5	right	right	JJ	pos2=NN	6	nmod	_	O
+6	accounts	account	NNS	pos2=VBZ	3	dobj	_	O
+7	but	but	CC	_	3	cc	_	O
+8	not	not	RB	_	11	neg	_	O
+9	CP.	cp.	NNP	_	11	nsubj	_	O
+10	Well	well	RB	pos2=NNP	11	advmod	_	O
+11	played	play	VBN	pos2=VBD	3	conj	_	O
+12	.	.	.	_	11	punct	_	O
+
+1	#TwitterGate	#twittergate	ADD	pos2=NN	2	det	_	O
+2	#…	#…	NN	pos2=UH	0	root	_	O
+

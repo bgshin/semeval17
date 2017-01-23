@@ -1,0 +1,16 @@
+1	@miltonalvarado	@miltonalvarado	UH	pos2=SYM	6	discourse	_	O
+2	_	_	''	pos2=SYM	6	punct	_	O
+3	@NaGOATo	@nagoato	:	pos2=ADD	6	punct	_	O
+4	yeah	yeah	UH	_	6	discourse	_	O
+5	they	they	PRP	_	6	nsubj	_	O
+6	found	find	VBD	_	0	root	_	O
+7	it	it	PRP	_	6	dobj	_	O
+8	in	in	IN	_	6	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	files	file	NNS	_	8	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	PS3	ps0	NN	_	14	compound	_	O
+14	version	version	NN	_	11	pobj	_	O
+15	https://t.co/USlEFOE10u	#hlink#	ADD	pos2=NN	10	appos	_	O
+

@@ -1,0 +1,29 @@
+1	He	he	PRP	_	2	nsubj	_	O
+2	meant	mean	VBD	_	0	root	_	O
+3	what	what	WP	_	5	dobj	_	O
+4	he	he	PRP	_	5	nsubj	_	O
+5	said	say	VBD	_	2	ccomp	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	Apology	apology	NN	_	2	nsubj	_	O
+2	meaningless	meaningless	JJ	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	He	he	PRP	_	3	nsubj	_	O
+2	'	'	``	pos2=VBZ	3	punct	_	O
+3	s	s	VBZ	pos2=POS	0	root	_	O
+4	no	no	DT	pos2=RB	5	det	_	O
+5	clue	clue	NN	pos2=RB	3	attr	_	O
+6	who	who	WP	_	9	attr	_	O
+7	we	we	PRP	_	9	nsubj	_	O
+8	Deplorables	deplorables	NNPS	pos2=NNP	7	appos	_	U-PERSON
+9	are	be	VBP	_	5	relcl	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	Pls	pls	UH	pos2=NNS	2	discourse	_	O
+2	@realDonaldTrump	@realdonaldtrump	VB	pos2=ADD	0	root	_	O
+3	#NeverRomney	#neverromney	UH	pos2=ADD	2	discourse	_	O
+4	He	he	PRP	_	6	nmod	_	O
+5	…	…	NFP	pos2=VBZ	6	punct	_	O
+6	https://t.co/6yzFU4vtsm	#hlink#	ADD	_	2	dobj	_	O
+

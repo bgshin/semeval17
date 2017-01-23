@@ -1,0 +1,15 @@
+1	We	we	PRP	_	3	nsubj	_	O
+2	now	now	RB	_	3	advmod	_	O
+3	yield	yield	VBP	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	floor	floor	NN	_	3	dobj	_	O
+6	to	to	IN	_	3	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	@grizzlygriptape	@grizzlygriptape	JJ	pos2=NNP	9	nmod	_	O
+9	team	team	NN	_	6	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	#UnitedNations	#unitednations	NNS	pos2=GW	3	nmod	_	O
+2	https://t.co/xLWnjoaqPt	#hlink#	ADD	_	3	nmod	_	O
+3	https://t.co/MzcZ3FGetG	#hlink#	ADD	_	0	root	_	U-ORG
+

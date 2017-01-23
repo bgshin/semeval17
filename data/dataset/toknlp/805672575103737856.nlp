@@ -1,0 +1,16 @@
+1	Dakota	dakota	NNP	pos2=GW	2	compound	_	B-PERSON
+2	Access	access	NNP	pos2=GW	3	compound	_	L-PERSON
+3	protest	protest	NN	pos2=VBP	6	nsubj	_	O
+4	in	in	IN	_	3	prep	_	O
+5	Portland	portland	NNP	_	4	pobj	_	U-GPE
+6	turns	turn	VBZ	_	0	root	_	O
+7	into	into	IN	_	6	prep	_	O
+8	celebration	celebration	NN	_	7	pobj	_	O
+9	after	after	IN	_	6	prep	_	O
+10	halt	halt	NN	_	9	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	…	…	NFP	pos2=-LRB-	11	pobj	_	O
+13	https://t.co/Mi1a7XKgP9	#hlink#	ADD	_	14	nsubj	_	O
+14	#Fracking	#fracking	VBG	pos2=-RRB-	11	pcomp	_	O
+15	#NoDAPL	#nodapl	NNS	pos2=NN	14	dobj	_	O
+

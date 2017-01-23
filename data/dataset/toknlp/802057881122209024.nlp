@@ -1,0 +1,12 @@
+1	David	david	NNP	_	2	compound	_	B-PERSON
+2	Blaine	blaine	NNP	_	0	root	_	L-PERSON
+3	vs	vs	IN	pos2=CC	2	prep	_	O
+4	Criss	criss	NNP	_	5	compound	_	B-PERSON
+5	Angel	angel	NNP	_	3	pobj	_	L-PERSON
+6	.	.	.	_	2	punct	_	O
+
+1	Who	who	WP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	better	good	JJR	_	2	acomp	_	O
+4	?	?	.	_	2	punct	_	O
+

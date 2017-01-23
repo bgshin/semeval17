@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det	_	O
+2	#mannequinchallenge	#mannequinchallenge	NN	pos2=NNP	6	nsubj	_	O
+3	and	and	CC	_	2	cc	_	O
+4	#younameitchallenge	#younameitchallenge	NN	pos2=VB	2	conj	_	O
+5	please	please	UH	_	6	discourse	_	O
+6	stop	stop	VB	_	0	root	_	O
+7	doing	do	VBG	_	6	xcomp	_	O
+8	it	it	PRP	_	7	dobj	_	O
+9	..	..	.	pos2=,	6	punct	_	O
+
+1	it	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	annoying	annoying	JJ	_	2	acomp	_	O
+4	now	now	RB	_	2	advmod	_	O
+

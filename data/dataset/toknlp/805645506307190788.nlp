@@ -1,0 +1,22 @@
+1	Retweet	retweet	NN	pos2=VB	0	root	_	O
+2	if	if	IN	_	4	mark	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	are	be	VBP	_	8	advcl	_	O
+5	SICK	sick	JJ	pos2=NNP	4	acomp	_	O
+6	of	of	IN	_	5	prep	_	O
+7	ppl	ppl	NNS	pos2=JJ	6	pobj	_	O
+8	shoving	shove	VBG	_	0	root	_	O
+9	godlessness	godlessness	NN	_	8	dobj	_	O
+10	down	down	RP	pos2=IN	8	prep	_	O
+11	r	r	JJ	pos2=PRP$	12	nmod	_	O
+12	throats	throat	NNS	_	10	pobj	_	O
+13	w	w	IN	_	8	prep	_	O
+14	/	/	HYPH	_	13	punct	_	O
+15	abortion	abortion	NN	_	13	pobj	_	O
+16	,	,	,	_	12	punct	_	O
+17	gay	gay	JJ	pos2=NN	18	nmod	_	O
+18	marriage	marriage	NN	_	8	dobj	_	O
+19	&	&	CC	_	18	cc	_	O
+20	taking	take	VBG	pos2=NN	18	conj	_	O
+21	freedom	freedom	NN	_	20	dobj	_	O
+

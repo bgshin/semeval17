@@ -1,0 +1,20 @@
+1	Syrian	syrian	JJ	pos2=NNP	2	nmod	_	B-ORG
+2	Army	army	NNP	pos2=NN	3	nsubj	_	L-ORG
+3	Recaptures	recapture	VBZ	_	0	root	_	O
+4	Half	half	NN	pos2=NNP	3	dobj	_	U-CARDINAL
+5	of	of	IN	_	4	prep	_	O
+6	Rebel	rebel	NNP	pos2=NN	8	npadvmod	_	O
+7	-	-	HYPH	_	8	punct	_	O
+8	held	hold	VBN	_	10	nmod	_	O
+9	Eastern	eastern	NNP	pos2=JJ	10	compound	_	B-LOC
+10	Aleppo	aleppo	NNP	_	5	pobj	_	L-LOC
+11	:	:	:	_	3	punct	_	O
+12	More	more	JJR	_	14	qmod	_	B-CARDINAL
+13	than	than	IN	_	14	qmod	_	I-CARDINAL
+14	20	0	CD	_	15	nmod	_	L-CARDINAL
+15	people	people	NNS	_	3	dobj	_	O
+16	,	,	,	_	15	punct	_	O
+17	including	include	VBG	_	15	prep	_	O
+18	…	…	NFP	pos2=-LRB-	17	pobj	_	O
+19	https://t.co/YPcmjWr4Ki	#hlink#	ADD	pos2=NN	17	pobj	_	U-WORK_OF_ART
+

@@ -1,0 +1,29 @@
+1	@KeithOlbermann	@keitholbermann	ADD	pos2=UH	4	discourse	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	'll	will	MD	_	4	aux	_	O
+4	print	print	VB	pos2=NN	0	root	_	O
+5	&	&	CC	_	4	cc	_	O
+6	carry	carry	VB	_	4	conj	_	O
+7	during	during	IN	pos2=RP	6	prep	_	O
+8	anti-trump	anti-trump	JJ	_	11	nmod	_	O
+9	inaugural	inaugural	JJ	_	10	nmod	_	O
+10	protest	protest	NN	_	11	compound	_	O
+11	march	march	NN	pos2=NNP	7	pobj	_	O
+12	.	.	.	_	4	punct	_	O
+
+1	HOPE	hope	VB	pos2=NN	0	root	_	O
+2	someone	someone	NN	_	5	nsubj	_	O
+3	near	near	IN	_	2	prep	_	O
+4	me	me	PRP	_	3	pobj	_	O
+5	has	have	VBZ	_	1	ccomp	_	O
+6	NAKED	naked	JJ	pos2=NNP	7	nmod	_	B-PERSON
+7	Melania	melania	NNP	pos2=NN	5	dobj	_	L-PERSON
+8	so	so	IN	pos2=RB	11	mark	_	O
+9	we	we	PRP	_	11	nsubj	_	O
+10	can	can	MD	_	11	aux	_	O
+11	pair	pair	VB	pos2=NN	5	advcl	_	O
+12	'	'	''	pos2=POS	1	punct	_	O
+13	em	em	PRP	pos2=NN	1	dobj	_	O
+14	up	up	RP	_	1	prt	_	O
+15	!	!	.	_	1	punct	_	O
+

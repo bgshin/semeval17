@@ -1,0 +1,14 @@
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	3	compound	_	B-PERSON
+2	#PRESERVEHISLEGACY	#preservehislegacy	NNP	pos2=IN	3	compound	_	I-PERSON
+3	Obama	obama	NNP	_	4	nsubj	_	L-PERSON
+4	is	be	VBZ	_	0	root	_	O
+5	Presidential	presidential	JJ	pos2=NNP	4	acomp	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	Temper	temper	NN	pos2=NNP	3	compound	_	O
+2	Tantrum	tantrum	NNP	_	3	compound	_	O
+3	Trump	trump	NNP	pos2=NN	4	nsubj	_	U-PERSON
+4	is	be	VBZ	_	0	root	_	O
+5	#notmypresident	#notmypresident	ADD	pos2=JJ	6	punct	_	O
+6	https://t.co/edq3wcf2dt	#hlink#	ADD	_	4	attr	_	O
+

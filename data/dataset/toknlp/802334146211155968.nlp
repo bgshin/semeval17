@@ -1,0 +1,26 @@
+1	@guardian_sydmun	@guardian_sydmun	NNP	pos2=VB	2	compound	_	U-GPE
+2	@FoxNewsSydMUN16	@foxnewssydmun0	NN	pos2=VBP	4	nsubj	_	O
+3	seriously	seriously	RB	_	4	advmod	_	O
+4	guys	guy	NNS	pos2=VBZ	0	root	_	O
+5	...	..	.	pos2=,	4	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	leave	leave	VBP	_	0	root	_	O
+3	you	you	PRP	_	2	dobj	_	O
+4	alone	alone	RB	pos2=JJ	2	oprd	_	O
+5	for	for	IN	_	2	prep	_	O
+6	5	0	CD	_	7	nmod	_	B-TIME
+7	minutes	minute	NNS	_	5	pobj	_	L-TIME
+8	.	.	.	_	2	punct	_	O
+
+1	Just	just	RB	_	2	advmod	_	O
+2	accept	accept	VB	pos2=IN	0	root	_	O
+3	Kim	kim	NNP	_	6	compound	_	B-PERSON
+4	Jong	jong	NNP	_	6	compound	_	I-PERSON
+5	-	-	HYPH	_	6	punct	_	I-PERSON
+6	un	un	NNP	_	2	dobj	_	L-PERSON
+7	as	as	IN	_	2	prep	_	O
+8	your	your	PRP$	_	9	poss	_	O
+9	saviour	saviour	NN	_	7	pobj	_	O
+10	.	.	.	_	2	punct	_	O
+

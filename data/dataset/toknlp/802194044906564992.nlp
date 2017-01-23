@@ -1,0 +1,12 @@
+1	When	when	WRB	_	3	advmod	_	O
+2	Grandpa	grandpa	NNP	_	3	nsubj	_	U-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	n't	not	RB	_	3	neg	_	O
+5	interested	interested	JJ	_	3	acomp	_	O
+6	in	in	IN	_	5	prep	_	O
+7	your	your	PRP$	_	8	poss	_	O
+8	#mannequinchallenge	#mannequinchallenge	NN	pos2=PRP	6	pobj	_	O
+9	on	on	IN	_	3	prep	_	O
+10	#ThanksgivingDay	#thanksgivingday	ADD	pos2=NNP	9	pobj	_	O
+11	https://t.co/liWrA5LbV2	#hlink#	ADD	_	9	pobj	_	O
+

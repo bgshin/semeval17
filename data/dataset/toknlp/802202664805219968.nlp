@@ -1,0 +1,21 @@
+1	Get	get	VB	_	0	root	_	O
+2	a	a	DT	_	4	det	_	O
+3	gift	gift	NN	_	4	compound	_	O
+4	card	card	NN	_	1	dobj	_	O
+5	today	today	NN	_	1	npadvmod	_	U-DATE
+6	and	and	CC	_	1	cc	_	O
+7	we	we	PRP	_	9	nsubj	_	O
+8	'll	will	MD	_	9	aux	_	O
+9	add	add	VB	_	1	conj	_	O
+10	20	0	CD	_	11	nmod	_	B-PERCENT
+11	%	%	NN	_	9	dobj	_	L-PERCENT
+12	at	at	IN	_	9	prep	_	O
+13	no	no	DT	pos2=UH	14	det	_	O
+14	charge	charge	NN	_	12	pobj	_	O
+15	@TheMediaTheatre	@themediatheatre	VBP	pos2=.	20	dep	_	O
+16	#Christmas	#christmas	NNP	pos2=NNS	17	compound	_	B-DATE
+17	#FantasticBeasts	#fantasticbeasts	NNS	pos2=GW	18	compound	_	I-DATE
+18	@MontcoMoms	@montcomoms	NNS	pos2=GW	20	dep	_	I-DATE
+19	…	…	NFP	pos2=-LRB-	20	punct	_	L-DATE
+20	https://t.co/jV1MiWngJm	#hlink#	ADD	pos2=NN	0	root	_	O
+

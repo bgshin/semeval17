@@ -1,0 +1,19 @@
+1	@TOFOP	@tofop	NNP	pos2=XX	2	compound	_	O
+2	Fofop	fofop	NNP	pos2=JJ	3	compound	_	O
+3	ep	ep	NN	pos2=VBP	0	root	_	O
+4	244	0	CD	_	3	npadvmod	_	U-CARDINAL
+5	-	-	:	pos2=HYPH	3	punct	_	O
+6	about	about	RB	pos2=IN	7	advmod	_	B-CARDINAL
+7	12	0	CD	_	8	nmod	_	L-CARDINAL
+8	min	min	NNS	_	3	npadvmod	_	O
+9	in	in	IN	pos2=RB	4	advmod	_	O
+10	..	..	.	pos2=,	3	punct	_	O
+
+1	Wil	wil	NNP	_	2	nsubj	_	U-PERSON
+2	predicts	predict	VBZ	_	0	root	_	O
+3	Samsung	samsung	NNP	_	5	compound	_	U-ORG
+4	galaxy	galaxy	NN	_	5	compound	_	O
+5	note	note	NN	pos2=VB	2	dobj	_	O
+6	7	0	CD	_	7	nmod	_	B-DATE
+7	release.#Wilpredicts	release.#wilpredicts	NNS	_	5	appos	_	L-DATE
+

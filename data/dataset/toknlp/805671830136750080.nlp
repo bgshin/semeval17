@@ -1,0 +1,20 @@
+1	Peco	peco	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	extends	extend	VBZ	pos2=VBD	0	root	_	O
+3	gas	gas	NN	_	4	compound	_	O
+4	lines	line	NNS	_	2	dobj	_	O
+5	to	to	IN	_	4	prep	_	O
+6	some	some	DT	_	7	det	_	O
+7	neighborhoods	neighborhood	NNS	_	5	pobj	_	O
+8	who	who	WP	_	11	nsubj	_	O
+9	long	long	RB	pos2=VBP	19	dep	_	O
+10	to	to	TO	_	11	aux	_	O
+11	tie	tie	VB	_	7	relcl	_	O
+12	to	to	IN	_	11	prep	_	O
+13	Pa	pa	NNP	pos2=VB	15	compound	_	U-GPE
+14	shale	shale	NN	_	15	compound	_	O
+15	boom	boom	NN	_	12	pobj	_	O
+16	https://t.co/uvRVHzlFsf	#hlink#	ADD	_	19	nmod	_	O
+17	#natgas	#natgas	GW	pos2=IN	19	nmod	_	O
+18	…	…	NFP	pos2=-LRB-	19	punct	_	O
+19	https://t.co/8pVADjwWJj	#hlink#	ADD	_	15	appos	_	O
+

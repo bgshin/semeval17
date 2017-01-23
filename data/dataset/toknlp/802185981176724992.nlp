@@ -1,0 +1,27 @@
+1	#YEMENPro	#yemenpro	NN	pos2=XX	3	compound	_	O
+2	-	-	HYPH	pos2=SYM	3	punct	_	O
+3	#AQAP	#aqap	NN	pos2=$	4	compound	_	O
+4	#INFOGRAPHIC	#infographic	NN	pos2=NNP	5	nsubj	_	O
+5	Claims	claim	VBZ	pos2=NNS	0	root	_	O
+6	13	0	CD	_	9	nmod	_	U-CARDINAL
+7	Belt	belt	NNP	pos2=NN	8	compound	_	B-ORG
+8	Forces	force	NNPS	pos2=NNP	9	compound	_	L-ORG
+9	Vehicles	vehicle	NNS	pos2=NNP	5	dobj	_	O
+10	Destroyed	destroy	VBN	pos2=VBD	9	acl	_	O
+11	(	(	-LRB-	_	7	punct	_	O
+12	10	0	CD	_	14	nmod	_	U-CARDINAL
+13	Land	land	NNP	pos2=NN	14	compound	_	B-PRODUCT
+14	Cruisers	cruiser	NNS	pos2=NNPS	10	dobj	_	L-PRODUCT
+15	,	,	,	_	14	punct	_	O
+16	2	0	CD	pos2=NNP	20	npadvmod	_	U-CARDINAL
+17	Armored	armored	JJ	pos2=NNP	16	nmod	_	O
+18	,	,	,	_	20	punct	_	O
+19	1	0	CD	_	20	nmod	_	U-CARDINAL
+20	Ford	ford	NNP	_	14	appos	_	U-ORG
+21	)	)	-RRB-	_	10	punct	_	O
+22	In	in	IN	pos2=NNP	5	prep	_	O
+23	&	&	CC	_	5	cc	_	O
+24	Ar	ar	NNP	pos2=GW	26	nmod	_	B-PERSON
+25	…	…	NFP	pos2=-LRB-	26	punct	_	L-PERSON
+26	https://t.co/Xn1NAV6KRO	#hlink#	ADD	_	5	conj	_	O
+

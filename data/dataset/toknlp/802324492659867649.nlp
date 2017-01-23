@@ -1,0 +1,21 @@
+1	Obama	obama	NNP	pos2=NN	2	compound	_	U-PERSON
+2	admin	admin	NN	_	3	nsubj	_	O
+3	did	do	VBD	_	0	root	_	O
+4	a	a	DT	_	7	det	_	O
+5	pretty	pretty	RB	_	6	advmod	_	O
+6	good	good	JJ	_	7	nmod	_	O
+7	job	job	NN	_	3	dobj	_	O
+8	marginizimg	marginizimg	VBG	pos2=IN	7	acl	_	O
+9	him	him	PRP	_	8	dobj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	Snowden	snowden	NNP	_	4	nsubj	_	U-PERSON
+2	is	be	VBZ	_	4	aux	_	O
+3	now	now	RB	_	4	advmod	_	O
+4	begging	beg	VBG	_	0	root	_	O
+5	Obama	obama	NNP	_	4	dobj	_	U-PERSON
+6	for	for	IN	_	4	prep	_	O
+7	a	a	DT	_	8	det	_	O
+8	pardon	pardon	NN	_	6	pobj	_	O
+9	https://t.co/2cHOMGUlu1	#hlink#	ADD	pos2=NN	4	dep	_	U-ORG
+

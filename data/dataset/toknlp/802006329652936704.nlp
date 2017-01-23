@@ -1,0 +1,13 @@
+1	Tesla	tesla	NNP	_	3	compound	_	B-ORG
+2	Model	model	NNP	pos2=NN	3	compound	_	I-ORG
+3	S	s	NNP	pos2=POS	4	nsubj	_	L-ORG
+4	Hits	hit	VBZ	pos2=NNP	0	root	_	O
+5	The	the	DT	_	6	det	_	O
+6	Track	track	NNP	pos2=NN	4	dobj	_	O
+7	Ahead	ahead	RB	_	4	advmod	_	O
+8	Of	of	IN	pos2=NNP	7	prep	_	O
+9	Electric	electric	JJ	pos2=NNP	11	nmod	_	O
+10	GT	gt	NNP	pos2=NN	11	compound	_	O
+11	Championship	championship	NNP	pos2=NN	8	pobj	_	O
+12	https://t.co/UOIOb1HcHZ	#hlink#	ADD	_	4	dep	_	O
+

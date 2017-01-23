@@ -1,0 +1,26 @@
+1	@AdversAerialOne	@adversaerialone	ADD	pos2=NN	5	advmod	_	O
+2	@reply	@reply	XX	pos2=PRP$	5	dep	_	O
+3	Barack	barack	NNP	_	4	compound	_	B-PERSON
+4	Obama	obama	NNP	_	5	nsubj	_	L-PERSON
+5	said	say	VBD	_	0	root	_	O
+6	he	he	PRP	_	7	nsubj	_	O
+7	wanted	want	VBD	_	5	ccomp	_	O
+8	smooth	smooth	JJ	_	9	nmod	_	O
+9	transition	transition	NN	_	7	dobj	_	O
+10	,	,	,	_	7	punct	_	O
+11	too	too	RB	_	12	advmod	_	O
+12	bad	bad	JJ	_	7	advmod	_	O
+13	.	.	.	_	5	punct	_	O
+
+1	we	we	PRP	_	5	nsubj	_	O
+2	as	as	IN	pos2=VBP	5	mark	_	O
+3	a	a	DT	_	4	det	_	O
+4	ppl	ppl	NNS	pos2=NNP	5	nsubj	_	O
+5	know	know	VBP	pos2=WRB	0	root	_	O
+6	Trump	trump	NNP	pos2=NN	7	nsubj	_	U-ORG
+7	lost	lose	VBD	pos2=VBN	5	ccomp	_	O
+8	&	&	CC	_	7	cc	_	O
+9	had	have	VBD	_	7	conj	_	O
+10	outside	outside	JJ	pos2=RB	11	nmod	_	O
+11	help	help	NN	_	9	dobj	_	O
+

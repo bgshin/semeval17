@@ -1,0 +1,14 @@
+1	Hillary	hillary	NNP	_	3	poss	_	U-PERSON
+2	’s	's	POS	_	1	case	_	O
+3	hordes	horde	NNS	pos2=NN	4	nsubj	_	O
+4	step	step	VBP	pos2=NN	0	root	_	O
+5	up	up	RP	pos2=RB	4	prt	_	O
+6	violent	violent	JJ	_	9	nmod	_	O
+7	anti	anti	AFX	pos2=NN	8	nmod	_	O
+8	Trump	trump	NN	pos2=NNP	9	compound	_	O
+9	riots	riot	NNS	_	4	dobj	_	O
+10	:	:	:	_	11	punct	_	O
+11	https://t.co/uAPwCYFfSX	#hlink#	ADD	pos2=NN	8	appos	_	O
+12	via	via	IN	_	11	prep	_	O
+13	@YouTube	@youtube	NNP	pos2=NN	12	pobj	_	O
+

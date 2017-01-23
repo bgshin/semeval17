@@ -1,0 +1,11 @@
+1	https://t.co/X2QpNtjDnm	#hlink#	ADD	_	0	root	_	O
+2	https://t.co/8CNcwjlbO2	#hlink#	ADD	_	0	root	_	O
+3	Who	who	WP	_	6	dobj	_	O
+4	did	do	VBD	_	6	aux	_	O
+5	Soros	soros	NNP	_	6	nsubj	_	U-PERSON
+6	buy	buy	VB	_	2	relcl	_	O
+7	off	off	RP	pos2=RB	6	prt	_	O
+8	in	in	IN	_	6	prep	_	O
+9	Oakland	oakland	NNP	_	8	pobj	_	U-GPE
+10	?	?	.	_	1	punct	_	O
+

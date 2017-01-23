@@ -1,0 +1,15 @@
+1	As	as	IN	_	6	prep	_	O
+2	of	of	IN	_	1	prep	_	O
+3	last	last	JJ	_	4	nmod	_	B-TIME
+4	night	night	NN	_	2	pobj	_	L-TIME
+5	I	I	PRP	_	6	nsubj	_	O
+6	am	be	VBP	_	0	root	_	O
+7	a	a	DT	_	9	det	_	O
+8	proud	proud	JJ	_	9	nmod	_	O
+9	owner	owner	NN	_	6	attr	_	O
+10	of	of	IN	_	9	prep	_	O
+11	a	a	DT	_	13	det	_	O
+12	#Niffler	#niffler	NNP	pos2=$	13	compound	_	U-ORG
+13	#FantasticBeasts	#fantasticbeasts	NNS	pos2=POS	10	pobj	_	O
+14	😀😀😀😀🤗🤗🤗🤗	😀😀😀😀🤗🤗🤗🤗	.	pos2=NNP	6	punct	_	O
+

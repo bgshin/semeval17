@@ -1,0 +1,12 @@
+1	Deep	deep	JJ	pos2=NNP	2	nmod	_	B-WORK_OF_ART
+2	Learning	learning	NN	pos2=NNP	10	dep	_	I-WORK_OF_ART
+3	:	:	:	_	10	punct	_	I-WORK_OF_ART
+4	A	a	DT	_	5	det	_	I-WORK_OF_ART
+5	Practitioner	practitioner	NN	pos2=NNP	7	poss	_	I-WORK_OF_ART
+6	's	's	POS	_	5	case	_	I-WORK_OF_ART
+7	Approach	approach	NN	pos2=NNP	10	nsubj	_	L-WORK_OF_ART
+8	here	here	RB	_	7	advmod	_	O
+9	https://t.co/Jz7Sge8Gth	#hlink#	ADD	pos2=VBZ	10	nsubj	_	U-DATE
+10	#deeplearning	#deeplearning	VBG	pos2=-RRB-	0	root	_	O
+11	@machinelearnbot	@machinelearnbot	UH	pos2=RB	10	discourse	_	O
+

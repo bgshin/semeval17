@@ -1,0 +1,34 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	U-ORG
+2	@KatzOnEarth	@katzonearth	NN	pos2=AFX	4	dep	_	O
+3	:	:	:	_	4	punct	_	O
+4	Remember	remember	VB	pos2=NNP	12	advcl	_	O
+5	,	,	,	_	12	punct	_	O
+6	the	the	DT	_	9	det	_	O
+7	alt	alt	NN	pos2=JJ	9	compound	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	right	right	JJ	pos2=NN	12	nsubj	_	O
+10	are	be	VBP	_	12	aux	_	O
+11	n't	not	RB	_	12	neg	_	O
+12	trying	try	VBG	_	0	root	_	O
+13	to	to	TO	_	14	aux	_	O
+14	win	win	VB	_	12	xcomp	_	O
+15	outright	outright	RB	pos2=JJ	14	advmod	_	O
+16	.	.	.	_	12	punct	_	O
+
+1	They	they	PRP	_	3	nsubj	_	O
+2	're	be	VBP	_	3	aux	_	O
+3	going	go	VBG	_	0	root	_	O
+4	full	full	JJ	pos2=RB	5	nmod	_	O
+5	Nazi	nazi	NNP	pos2=NN	3	advmod	_	U-NORP
+6	to	to	TO	_	7	aux	_	O
+7	make	make	VB	_	3	advcl	_	O
+8	the	the	DT	_	11	det	_	O
+9	new	new	JJ	_	11	nmod	_	O
+10	Trump	trump	NNP	pos2=NN	11	compound	_	U-ORG
+11	regime	regime	NN	_	12	nsubj	_	O
+12	look	look	VBP	pos2=VB	7	ccomp	_	O
+13	moderate	moderate	JJ	_	12	acomp	_	O
+14	.	.	.	_	3	punct	_	O
+
+1	…	…	NFP	pos2=SYM	0	root	_	O
+

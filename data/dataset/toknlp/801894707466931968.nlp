@@ -1,0 +1,20 @@
+1	@tai_walker	@tai_walker	NN	pos2=UH	4	discourse	_	O
+2	we	we	PRP	_	4	nsubj	_	O
+3	'll	will	MD	_	4	aux	_	O
+4	miss	miss	VB	pos2=VBP	0	root	_	O
+5	you	you	PRP	_	4	dobj	_	O
+6	in	in	IN	_	4	prep	_	O
+7	Seattle	seattle	NNP	_	6	pobj	_	U-GPE
+8	!	!	.	_	4	punct	_	O
+
+1	Especially	especially	RB	_	4	advmod	_	O
+2	when	when	WRB	_	4	advmod	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	win	win	VBP	_	0	root	_	O
+5	your	your	PRP$	_	9	poss	_	O
+6	NL	nl	NNP	pos2=NN	8	compound	_	B-WORK_OF_ART
+7	Cy	cy	NNP	pos2=NN	8	compound	_	I-WORK_OF_ART
+8	Young	young	NNP	pos2=JJ	9	compound	_	L-WORK_OF_ART
+9	award	award	NN	_	4	dobj	_	O
+10	!	!	.	_	4	punct	_	O
+

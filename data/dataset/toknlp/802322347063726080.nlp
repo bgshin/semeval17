@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det	_	O
+2	#Obama	#obama	NNP	pos2=NN	3	compound	_	U-ORG
+3	admin	admin	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	has	have	VBZ	_	2	aux	_	O
+2	carried	carry	VBN	_	0	root	_	O
+3	out	out	RP	_	2	prt	_	O
+4	a	a	DT	_	7	det	_	O
+5	deliberately	deliberately	RB	_	6	advmod	_	O
+6	deceptive	deceptive	JJ	_	7	nmod	_	O
+7	campaign	campaign	NN	_	2	dobj	_	O
+8	accusing	accuse	VBG	_	7	acl	_	O
+9	Iran	iran	NNP	_	8	dobj	_	U-GPE
+10	of	of	IN	_	8	prep	_	O
+11	sending	send	VBG	_	10	pcomp	_	O
+12	arms	arm	NNS	_	11	dobj	_	O
+13	to	to	IN	pos2=TO	11	prep	_	O
+14	#Houthis#y	#houthis#y	NNP	pos2=VB	13	pobj	_	U-GPE
+15	emenhttps://t.co/KYu02C73ww	#hlink#	ADD	pos2=NN	7	acl	_	O
+

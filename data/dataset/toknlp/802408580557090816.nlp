@@ -1,0 +1,31 @@
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=ADD	3	compound	_	B-PERSON
+2	#Elizabeth	#elizabeth	NNP	pos2=IN	3	compound	_	I-PERSON
+3	Warren	warren	NNP	_	4	nsubj	_	L-PERSON
+4	is	be	VBZ	_	0	root	_	O
+5	a	a	DT	_	7	det	_	O
+6	real	real	JJ	_	7	nmod	_	O
+7	joke	joke	NN	_	4	attr	_	O
+8	!	!	.	_	4	punct	_	O
+
+1	"	"	``	pos2=SYM	4	punct	_	O
+2	abusing	abuse	VBG	_	0	root	_	O
+3	Taxpayer	taxpayer	NN	pos2=NNP	4	compound	_	O
+4	funds	fund	NNS	_	2	dobj	_	O
+5	"	"	''	_	2	punct	_	O
+6	?	?	.	_	2	punct	_	O
+
+1	Has	have	VBZ	_	4	aux	_	O
+2	n't	not	RB	_	4	neg	_	O
+3	she	she	PRP	_	4	nsubj	_	O
+4	heard	hear	VBD	pos2=VBN	0	root	_	O
+5	of	of	IN	_	4	prep	_	O
+6	#Clinton	#clinton	NNP	_	7	compound	_	O
+7	Foundation	foundation	NNP	_	5	pobj	_	O
+8	?	?	.	_	4	punct	_	O
+
+1	Mind	mind	NN	pos2=VB	5	compound	_	O
+2	ur	ur	PRP$	pos2=JJ	4	poss	_	O
+3	own	own	JJ	_	4	nmod	_	O
+4	biz	biz	NN	pos2=FW	1	dep	_	O
+5	Liz	liz	NNP	_	0	root	_	U-PERSON
+

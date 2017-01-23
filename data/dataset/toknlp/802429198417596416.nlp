@@ -1,0 +1,16 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	got	get	VBP	pos2=VBD	0	root	_	O
+3	ta	ta	TO	_	4	aux	_	O
+4	write	write	VB	pos2=VBP	2	xcomp	_	O
+5	EVERY	every	DT	_	7	det	_	O
+6	SINGLE	single	JJ	_	7	nmod	_	O
+7	FIC	fic	NN	pos2=NNP	4	dobj	_	O
+8	with	with	IN	_	4	prep	_	O
+9	robots	robot	NNS	_	8	pobj	_	O
+10	questioning	question	VBG	_	9	acl	_	O
+11	their	their	PRP$	_	12	poss	_	O
+12	orientation	orientation	NN	_	10	dobj	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	Lord	lord	NNP	_	0	root	_	O
+

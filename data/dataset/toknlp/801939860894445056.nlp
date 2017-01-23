@@ -1,0 +1,27 @@
+1	@MsJulieLenarz	@msjulielenarz	ADD	pos2=XX	7	prep	_	O
+2	@SharNeal	@sharneal	JJ	pos2=ADD	3	nmod	_	O
+3	@Leila69420824	@leila0	NN	pos2=CD	7	dep	_	O
+4	-	-	:	pos2=,	7	punct	_	O
+5	you	you	PRP	_	7	nsubj	_	O
+6	openly	openly	RB	_	7	advmod	_	O
+7	support	support	VBP	pos2=VB	0	root	_	O
+8	#Hamas	#hamas	NNP	pos2=NNPS	7	dobj	_	B-ORG
+9	&	&	CC	_	8	cc	_	I-ORG
+10	#Hezbollah	#hezbollah	NNP	pos2=NN	8	conj	_	L-ORG
+11	-	-	:	pos2=HYPH	7	punct	_	O
+12	good	good	JJ	_	13	nmod	_	O
+13	luck	luck	NN	_	7	dobj	_	O
+14	w	w	IN	pos2=RB	13	prep	_	O
+15	/	/	HYPH	pos2=,	14	punct	_	O
+16	the	the	DT	_	19	det	_	O
+17	72	0	CD	_	19	nmod	_	U-CARDINAL
+18	virgin	virgin	JJ	pos2=NN	19	nmod	_	O
+19	boys	boy	NNS	_	14	pobj	_	O
+20	u	u	PRP	pos2=TO	21	nsubj	_	O
+21	get	get	VBP	pos2=VB	7	advcl	_	O
+22	in	in	IN	pos2=RP	21	prep	_	O
+23	'	'	``	_	24	punct	_	O
+24	paradise	paradise	NN	_	22	pobj	_	O
+25	'	'	''	_	22	punct	_	O
+26	🖕from🇺🇸	🖕from🇺🇸	''	pos2=NN	7	punct	_	O
+

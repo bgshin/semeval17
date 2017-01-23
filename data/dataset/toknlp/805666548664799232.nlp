@@ -1,0 +1,22 @@
+1	L	l	JJ	pos2=NN	2	nmod	_	O
+2	#ZacEfron	#zacefron	ADD	pos2=NN	10	dep	_	O
+3	#Fashion	#fashion	NNP	pos2=NN	10	compound	_	O
+4	ZAC	zac	NNP	_	10	compound	_	B-PERSON
+5	EFRON	efron	NNP	_	10	compound	_	L-PERSON
+6	CHARLIE	charlie	NNP	_	10	compound	_	B-PERSON
+7	ST	st	NNP	pos2=NN	10	compound	_	L-PERSON
+8	CLOUD	cloud	NNP	pos2=NN	10	compound	_	B-GPE
+9	BLU	blu	NNP	pos2=NN	10	compound	_	I-GPE
+10	RAY	ray	NNP	pos2=NN	0	root	_	L-GPE
+11	IN	in	IN	pos2=NNP	10	prep	_	O
+12	ORIGINAL	original	JJ	_	13	nmod	_	O
+13	CASE	case	NN	_	11	pobj	_	O
+14	,	,	,	_	10	punct	_	O
+15	MINT	mint	NN	pos2=NNP	16	compound	_	O
+16	CONDITION	condition	NN	_	10	dep	_	O
+17	!!	!!	.	_	10	punct	_	O
+
+1	#Actor	#actor	NNP	pos2=GW	3	nmod	_	B-PERSON
+2	#BestSeller	#bestseller	GW	pos2=ADD	3	nmod	_	L-PERSON
+3	https://t.co/IGypLDlbus	#hlink#	ADD	_	0	root	_	O
+

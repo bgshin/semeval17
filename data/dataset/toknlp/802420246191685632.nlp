@@ -1,0 +1,13 @@
+1	Scientists	scientist	NNS	_	2	nsubj	_	O
+2	develop	develop	VBP	pos2=VB	0	root	_	O
+3	artificial	artificial	JJ	_	6	nmod	_	O
+4	human	human	JJ	_	6	nmod	_	O
+5	lung	lung	NN	_	6	compound	_	O
+6	model	model	NN	_	2	dobj	_	O
+7	using	use	VBG	_	2	advcl	_	O
+8	3	0	CD	_	9	nmod	_	U-CARDINAL
+9	D	d	NN	pos2=NNP	12	dep	_	O
+10	printing	printing	NN	pos2=VBG	12	dep	_	O
+11	-	-	:	pos2=HYPH	12	punct	_	O
+12	https://t.co/jFlvih4waD	#hlink#	ADD	pos2=NN	7	dobj	_	O
+

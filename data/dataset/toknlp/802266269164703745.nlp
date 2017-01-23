@@ -1,0 +1,22 @@
+1	Black	black	NNP	pos2=JJ	2	compound	_	B-EVENT
+2	Friday	friday	NNP	_	5	vocative	_	L-EVENT
+3	I	I	PRP	_	5	nsubj	_	O
+4	'm	be	VBP	_	5	aux	_	O
+5	shopping	shop	VBG	_	0	root	_	O
+6	for	for	IN	_	5	prep	_	O
+7	a	a	DT	_	9	det	_	O
+8	good	good	JJ	_	9	nmod	_	O
+9	game	game	NN	_	6	pobj	_	O
+10	heading	head	VBG	pos2=NN	9	acl	_	O
+11	to	to	IN	_	10	prep	_	O
+12	Trent	trent	NNP	_	13	compound	_	B-PERSON
+13	Arena	arena	NNP	_	11	pobj	_	L-PERSON
+14	tonight	tonight	NN	_	10	npadvmod	_	U-TIME
+15	Fairmont	fairmont	NNP	_	18	nsubj	_	U-ORG
+16	versus	versus	CC	pos2=IN	15	cc	_	O
+17	Tipp	tipp	NNP	_	15	conj	_	U-ORG
+18	let	let	VBP	pos2=VBD	5	conj	_	O
+19	the	the	DT	_	20	det	_	O
+20	grind	grind	NN	_	21	nsubj	_	O
+21	begin	begin	VB	pos2=VBP	18	ccomp	_	O
+

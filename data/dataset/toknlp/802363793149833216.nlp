@@ -1,0 +1,8 @@
+1	@VOlDFUCKER	@voldfucker	NN	pos2=RBR	4	dep	_	O
+2	like	like	UH	pos2=IN	1	discourse	_	O
+3	pre	pre	AFX	pos2=FW	4	nmod	_	O
+4	tpp	tpp	NN	_	0	root	_	O
+5	or	or	CC	_	4	cc	_	O
+6	his	his	PRP$	_	7	poss	_	O
+7	death	death	NN	_	4	conj	_	O
+

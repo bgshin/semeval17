@@ -1,0 +1,20 @@
+1	The	the	DT	_	2	det	_	O
+2	trolls	troll	NNS	_	5	nsubj	_	O
+3	and	and	CC	_	2	cc	_	O
+4	bots	bot	NNS	_	2	conj	_	O
+5	are	be	VBP	_	0	root	_	O
+6	out	out	RB	pos2=JJ	5	advmod	_	O
+7	in	in	IN	_	5	prep	_	O
+8	force	force	NN	_	7	pobj	_	O
+9	tonight	tonight	NN	_	5	npadvmod	_	U-TIME
+10	.	.	.	_	5	punct	_	O
+
+1	#ThanksPutin	#thanksputin	NN	pos2=UH	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	@PutinRF_Eng	@putinrf_eng	ADD	pos2=VBG	5	punct	_	U-GPE
+2	#KremlinTrolls	#kremlintrolls	NNS	pos2=GW	5	nmod	_	O
+3	@DarthPutinKGB	@darthputinkgb	GW	pos2=ADD	5	nmod	_	U-GPE
+4	#TrumpWon	#trumpwon	GW	pos2=ADD	5	nmod	_	O
+5	https://t.co/dRhec0xDrQ	#hlink#	ADD	pos2=NN	0	root	_	O
+

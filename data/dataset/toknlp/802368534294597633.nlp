@@ -1,0 +1,13 @@
+1	Everybody	everybody	NN	_	2	nsubj	_	O
+2	knows	know	VBZ	_	0	root	_	O
+3	song	song	NN	pos2=FW	5	compound	_	O
+4	Leonard	leonard	NNP	_	5	compound	_	B-PERSON
+5	Cohen	cohen	NNP	_	2	dobj	_	L-PERSON
+6	..	..	.	pos2=,	2	punct	_	O
+
+1	reality	reality	NN	_	0	root	_	O
+2	n	n	IN	pos2=POS	1	prep	_	O
+3	practicality	practicality	NN	_	2	pobj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	life	life	NN	_	4	pobj	_	O
+

@@ -1,0 +1,7 @@
+1	Grayson	grayson	NNP	_	2	compound	_	B-PERSON
+2	Allen	allen	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	so	so	RB	_	5	advmod	_	O
+5	cute	cute	JJ	_	3	acomp	_	O
+6	😭😭😭	😭😭😭	.	pos2=NN	3	punct	_	U-PRODUCT
+

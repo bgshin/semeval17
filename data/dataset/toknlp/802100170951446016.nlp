@@ -1,0 +1,16 @@
+1	@Regrann	@regrann	NNP	pos2=NN	0	root	_	U-ORG
+2	from	from	IN	_	1	prep	_	O
+3	@jardinesdemexico	@jardinesdemexico	NN	pos2=XX	5	compound	_	O
+4	-	-	HYPH	pos2=:	5	punct	_	O
+5	#rickymartin	#rickymartin	NNP	pos2=XX	6	compound	_	O
+6	#JardinesDeMéxico	#jardinesdeméxico	NN	pos2=XX	7	compound	_	O
+7	¡Gracias	¡gracias	NNP	pos2=NNS	2	pobj	_	U-PERSON
+8	!	!	.	_	1	punct	_	O
+
+1	🙏🏻	🙏🏻	SYM	pos2=NFP	6	punct	_	U-ORG
+2	#OneWorldTour	#oneworldtour	GW	pos2=NN	6	nmod	_	O
+3	#México	#méxico	GW	pos2=NFP	6	nmod	_	B-WORK_OF_ART
+4	#Meksika	#meksika	GW	pos2=FW	6	nmod	_	I-WORK_OF_ART
+5	…	…	GW	pos2=NFP	6	nmod	_	L-WORK_OF_ART
+6	https://t.co/pjhisj92bp	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,29 @@
+1	Early	early	RB	_	3	advmod	_	B-TIME
+2	this	this	DT	_	3	det	_	I-TIME
+3	morning	morning	NN	_	6	npadvmod	_	L-TIME
+4	I	I	PRP	_	6	nsubj	_	O
+5	was	be	VBD	_	6	aux	_	O
+6	reading	read	VBG	_	0	root	_	O
+7	:	:	:	_	6	punct	_	O
+8	"	"	``	_	6	punct	_	O
+9	The	the	DT	_	12	det	_	B-ORG
+10	Medical	medical	NNP	_	12	compound	_	I-ORG
+11	Cannabis	cannabis	NNP	_	12	compound	_	I-ORG
+12	Guidebook	guidebook	NNP	pos2=NN	6	dobj	_	L-ORG
+13	,	,	,	_	12	punct	_	O
+14	The	the	DT	_	16	det	_	O
+15	Definitive	definitive	JJ	pos2=NNP	16	nmod	_	O
+16	Guide	guide	NNP	pos2=NN	12	conj	_	O
+17	to	to	IN	_	16	prep	_	O
+18	Using	use	VBG	_	17	pcomp	_	O
+19	and	and	CC	_	18	cc	_	O
+20	Growing	grow	VBG	pos2=NNP	18	conj	_	O
+21	Medicinal	medicinal	JJ	pos2=NNP	22	nmod	_	O
+22	Marijuana	marijuana	NNP	pos2=NN	20	dobj	_	O
+23	,	,	,	_	22	punct	_	O
+24	"	"	''	pos2=``	22	punct	_	O
+25	2014	0	LS	pos2=CD	20	npadvmod	_	U-DATE
+26	.	.	.	pos2=:	6	punct	_	O
+
+1	;-)	;-)	NFP	pos2=SYM	0	root	_	O
+

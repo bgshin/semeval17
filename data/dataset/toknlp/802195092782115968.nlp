@@ -1,0 +1,22 @@
+1	Recording	record	VBG	_	11	advcl	_	O
+2	a	a	DT	_	4	det	_	O
+3	mysterious	mysterious	JJ	_	4	nmod	_	O
+4	song	song	NN	_	1	dobj	_	O
+5	in	in	IN	_	1	prep	_	O
+6	2015	0	CD	_	5	pobj	_	U-DATE
+7	,	,	,	_	11	punct	_	O
+8	#FantasticBeasts	#fantasticbeasts	NNS	pos2=PRP$	9	compound	_	O
+9	singer	singer	NN	pos2=JJR	11	nsubj	_	O
+10	@emmimusic	@emmimusic	XX	pos2=WP	11	dep	_	O
+11	had	have	VBD	_	0	root	_	O
+12	no	no	DT	_	13	det	_	O
+13	idea	idea	NN	_	11	dobj	_	O
+14	it	it	PRP	_	16	nsubjpass	_	O
+15	was	be	VBD	_	16	auxpass	_	O
+16	written	write	VBN	_	13	relcl	_	O
+17	by	by	IN	_	16	agent	_	O
+18	@jk_rowling	@jk_rowling	VBG	pos2=NNP	17	pcomp	_	O
+19	:	:	:	_	11	punct	_	O
+20	…	…	NFP	pos2=-LRB-	21	punct	_	O
+21	https://t.co/7FlG1r0ol6	#hlink#	ADD	_	11	dep	_	O
+

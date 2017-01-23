@@ -1,0 +1,18 @@
+1	Good	good	JJ	_	2	nmod	_	O
+2	article	article	NN	_	0	root	_	O
+3	by	by	IN	_	2	prep	_	O
+4	@Reza_Zadeh	@reza_zadeh	NNP	pos2=VBG	3	pobj	_	U-ORG
+5	about	about	IN	_	2	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	theoretical	theoretical	JJ	_	8	nmod	_	O
+8	difficulties	difficulty	NNS	_	5	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	deep	deep	JJ	_	11	nmod	_	O
+11	learning	learning	NN	_	9	pobj	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	#datascience	#datascience	UH	pos2=NN	4	discourse	_	O
+2	#deeplearning	#deeplearning	VBG	pos2=UH	4	nmod	_	O
+3	#AI	#ai	GW	pos2=ADD	4	nmod	_	O
+4	https://t.co/R28Rw5DXMT	#hlink#	ADD	_	0	root	_	U-ORG
+

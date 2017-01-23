@@ -1,0 +1,9 @@
+1	@EdmondScofield	@edmondscofield	NNP	pos2=XX	7	vocative	_	O
+2	Well	well	UH	pos2=NNP	7	discourse	_	O
+3	Steve	steve	NNP	_	4	compound	_	B-PERSON
+4	Bannon	bannon	NNP	_	7	nsubj	_	L-PERSON
+5	does	do	VBZ	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	help	help	VB	_	0	root	_	O
+8	.	.	.	_	7	punct	_	O
+

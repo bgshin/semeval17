@@ -1,0 +1,29 @@
+1	@holland_tom	@holland_tom	UH	pos2=LS	5	discourse	_	O
+2	@UK_CAGE	@uk_cage	UH	pos2=NNP	5	discourse	_	O
+3	They	they	PRP	_	5	nsubj	_	O
+4	'll	will	MD	_	5	aux	_	O
+5	say	say	VB	_	0	root	_	O
+6	that	that	IN	pos2=DT	9	mark	_	O
+7	Nazi	nazi	NNP	pos2=JJ	8	compound	_	U-NORP
+8	referrals	referral	NNS	_	9	nsubj	_	O
+9	are	be	VBP	_	5	ccomp	_	O
+10	fine	fine	JJ	pos2=RB	9	acomp	_	O
+11	as	as	IN	_	14	mark	_	O
+12	it	it	PRP	_	14	nsubjpass	_	O
+13	's	's	VBZ	_	14	auxpass	_	O
+14	driven	drive	VBN	_	9	advcl	_	O
+15	by	by	IN	_	14	agent	_	O
+16	ideology	ideology	NN	_	15	pobj	_	O
+17	,	,	,	_	9	punct	_	O
+18	whereas	whereas	IN	_	14	prep	_	O
+19	Islamism	islamism	NNP	_	16	conj	_	O
+20	.....	..	.	_	5	punct	_	O
+
+1	*coughs*	*coughs*	XX	pos2=UH	2	dep	_	O
+2	...	..	.	pos2=,	0	punct	_	O
+
+1	,	,	,	_	3	punct	_	O
+2	.obviously	.obviously	NNP	pos2=EX	3	nsubj	_	U-ORG
+3	is	be	VBZ	_	0	root	_	O
+4	n't	not	RB	_	3	neg	_	O
+

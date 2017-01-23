@@ -1,0 +1,12 @@
+1	So	so	RB	_	2	advmod	_	O
+2	excited	excited	JJ	pos2=VBN	0	root	_	O
+3	For	for	IN	_	2	prep	_	O
+4	This	this	DT	pos2=NNP	5	det	_	O
+5	One	#crd#	CD	pos2=NNP	3	pobj	_	U-CARDINAL
+6	😆😍#BeautyAndTheBeast	😆😍#beautyandthebeast	VBD	pos2=IN	2	ccomp	_	O
+7	my	my	PRP$	_	9	poss	_	O
+8	favorite	favorite	JJ	pos2=NN	9	nmod	_	O
+9	princess	princess	NN	pos2=GW	6	dobj	_	O
+10	❤️	❤️	NFP	pos2=-LRB-	2	discourse	_	O
+11	https://t.co/jyYgz6gABT	#hlink#	ADD	_	2	dep	_	O
+

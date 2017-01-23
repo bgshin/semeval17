@@ -1,0 +1,25 @@
+1	Ask	ask	VB	_	0	root	_	O
+2	@liliantintori	@liliantintori	PRP	pos2=NN	1	dobj	_	O
+3	about	about	IN	_	1	prep	_	O
+4	misogyny	misogyny	NN	_	3	pobj	_	O
+5	!	!	.	_	1	punct	_	O
+
+1	Every	every	DT	_	2	det	_	O
+2	time	time	NN	_	8	npadvmod	_	O
+3	she	she	PRP	_	4	nsubj	_	O
+4	visits	visit	VBZ	_	2	relcl	_	O
+5	@leopoldolopez	@leopoldolopez	IN	pos2=XX	7	mark	_	O
+6	they	they	PRP	_	7	nsubj	_	O
+7	strip	strip	VBP	pos2=TO	4	advcl	_	O
+8	search	search	VB	pos2=VBP	0	root	_	O
+9	her	her	PRP	_	8	dobj	_	O
+10	and	and	CC	_	9	cc	_	O
+11	his	his	PRP$	_	12	poss	_	O
+12	mom	mom	NN	_	9	conj	_	O
+13	!	!	.	_	8	punct	_	O
+
+1	Maduro	maduro	NNP	pos2=UH	4	dep	_	U-PERSON
+2	i	I	PRP	pos2=GW	4	dep	_	O
+3	…	…	NFP	pos2=VBD	4	punct	_	O
+4	https://t.co/D0SuW5L413	#hlink#	ADD	_	0	root	_	U-ORG
+

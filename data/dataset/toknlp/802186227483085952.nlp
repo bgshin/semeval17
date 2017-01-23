@@ -1,0 +1,38 @@
+1	@PoliticsPeach	@politicspeach	UH	pos2=MD	5	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	know	know	VBP	_	5	parataxis	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	are	be	VBP	_	0	root	_	O
+6	not	not	RB	_	5	neg	_	O
+7	a	a	DT	_	9	det	_	O
+8	Trump	trump	NNP	pos2=NN	9	compound	_	U-ORG
+9	fan	fan	NN	_	5	attr	_	O
+10	,	,	,	_	5	punct	_	O
+11	but	but	CC	_	5	cc	_	O
+12	,	,	,	_	15	punct	_	O
+13	he	he	PRP	_	15	nsubj	_	O
+14	will	will	MD	_	15	aux	_	O
+15	do	do	VB	_	5	conj	_	O
+16	more	more	JJR	pos2=RBR	15	dobj	_	O
+17	for	for	IN	_	15	prep	_	O
+18	AA	aa	NN	pos2=NNP	17	pobj	_	U-ORG
+19	's	's	AFX	pos2=POS	18	nmod	_	O
+20	than	than	IN	_	22	mark	_	O
+21	BO	bo	NNP	pos2=NN	22	nsubj	_	U-ORG
+22	did	do	VBD	_	15	advcl	_	O
+23	.	.	.	_	15	punct	_	O
+
+1	Which	which	WDT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	low	low	JJ	_	5	nmod	_	O
+5	bar	bar	NN	_	2	attr	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	hope	hope	VBP	_	0	root	_	O
+3	Ben	ben	NNP	_	4	compound	_	B-PERSON
+4	Carson	carson	NNP	_	5	nsubj	_	L-PERSON
+5	actps	actps	VBZ	pos2=IN	2	ccomp	_	O
+6	HUD	hud	NNP	_	5	dobj	_	U-ORG
+

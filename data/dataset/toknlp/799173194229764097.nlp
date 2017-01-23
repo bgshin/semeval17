@@ -1,0 +1,16 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	time	time	NN	_	2	attr	_	O
+4	to	to	TO	_	5	aux	_	O
+5	pay	pay	VB	_	3	relcl	_	O
+6	more	more	JJR	_	7	nmod	_	O
+7	attention	attention	NN	_	5	dobj	_	O
+8	to	to	IN	_	5	dative	_	O
+9	Jared	jared	NNP	_	11	nmod	_	B-PERSON
+10	Kushner	kushner	NNP	_	11	nmod	_	L-PERSON
+11	https://t.co/H5ryO1fouq	#hlink#	ADD	_	8	pobj	_	O
+12	#JaredKushner	#jaredkushner	-RRB-	pos2=ADD	11	punct	_	O
+13	#TrumpSonlnLaw	#trumpsonlnlaw	ADD	pos2=NN	8	pobj	_	O
+14	#TrumpTransitionTeam	#trumptransitionteam	ADD	pos2=XX	15	compound	_	O
+15	#USElections2016	#uselections0	NN	pos2=ADD	13	pobj	_	O
+

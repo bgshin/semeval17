@@ -1,0 +1,16 @@
+1	Do	do	VBP	pos2=VB	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	need	need	VB	_	0	root	_	O
+4	make	make	VB	pos2=NN	3	xcomp	_	O
+5	up	up	RP	pos2=NN	4	prt	_	O
+6	to	to	TO	_	7	aux	_	O
+7	cover	cover	VB	_	4	advcl	_	O
+8	up	up	RP	_	7	prt	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	#WhatMakesYouBeautiful	#whatmakesyoubeautiful	JJ	pos2=NN	4	nmod	_	O
+2	#OneDirection	#onedirection	NN	pos2=ADD	4	compound	_	O
+3	#	#	NN	pos2=GW	4	compound	_	O
+4	1DHarry	0dharry	NN	pos2=ADD	5	dep	_	U-MONEY
+5	https://t.co/pcZkwRXimV	#hlink#	ADD	pos2=NN	0	root	_	O
+

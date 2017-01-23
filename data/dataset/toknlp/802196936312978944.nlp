@@ -1,0 +1,13 @@
+1	And	and	CC	_	12	cc	_	O
+2	the	the	DT	_	3	det	_	O
+3	spoiler	spoiler	NN	_	12	nsubj	_	O
+4	I	I	PRP	_	6	nsubj	_	O
+5	just	just	RB	_	6	advmod	_	O
+6	read	read	VBD	pos2=VBP	3	relcl	_	O
+7	for	for	IN	_	6	prep	_	O
+8	episode	episode	NN	_	7	pobj	_	O
+9	7	0	CD	_	8	nmod	_	U-CARDINAL
+10	of	of	IN	_	8	prep	_	O
+11	#TheWalkingDead	#thewalkingdead	ADD	pos2=GW	10	pobj	_	O
+12	https://t.co/WpdPRO4cIb	#hlink#	ADD	_	0	root	_	O
+

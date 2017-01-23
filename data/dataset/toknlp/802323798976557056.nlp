@@ -1,0 +1,19 @@
+1	#Eurozone	#eurozone	NNP	_	2	compound	_	B-GPE
+2	Ireland	ireland	NNP	_	3	nsubj	_	L-GPE
+3	reunifies	reunify	VBZ	_	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	why	why	WRB	_	8	advmod	_	O
+6	ca	can	MD	_	3	conj	_	O
+7	n't	not	RB	_	6	neg	_	O
+8	I	I	PRP	_	6	nsubj	_	O
+9	?	?	.	_	6	punct	_	O
+
+1	(	(	-LRB-	_	6	punct	_	O
+2	Praise	praise	NN	pos2=NNP	6	compound	_	O
+3	Kim	kim	NNP	_	6	compound	_	B-PERSON
+4	Jong	jong	NNP	_	6	compound	_	I-PERSON
+5	-	-	HYPH	_	6	punct	_	I-PERSON
+6	un	un	NNP	pos2=VBN	0	root	_	L-PERSON
+7	)	)	-RRB-	_	6	punct	_	O
+8	#SydMUN16	#sydmun0	NN	pos2=NNS	0	root	_	U-DATE
+

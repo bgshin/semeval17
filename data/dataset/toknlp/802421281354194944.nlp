@@ -1,0 +1,18 @@
+1	@pupbasket	@pupbasket	JJS	pos2=JJ	2	nmod	_	O
+2	conservatives	conservative	NNS	_	3	nsubj	_	O
+3	called	call	VBD	_	12	advcl	_	O
+4	me	me	PRP	_	3	dobj	_	O
+5	a	a	DT	_	6	det	_	O
+6	scammer	scammer	NN	_	3	oprd	_	O
+7	as	as	IN	_	3	prep	_	O
+8	an	an	DT	_	9	det	_	O
+9	insult	insult	NN	_	7	pobj	_	O
+10	,	,	,	_	12	punct	_	O
+11	I	I	PRP	_	12	nsubj	_	O
+12	take	take	VBP	_	0	root	_	O
+13	it	it	PRP	_	12	dobj	_	O
+14	as	as	IN	_	12	prep	_	O
+15	a	a	DT	_	17	det	_	O
+16	compliment	compliment	NN	_	17	compound	_	O
+17	❤️	❤️	NN	pos2=.	14	pobj	_	O
+

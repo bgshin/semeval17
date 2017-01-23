@@ -1,0 +1,23 @@
+1	@GavinL_Barnett	@gavinl_barnett	UH	pos2=RB	3	cc	_	O
+2	just	just	RB	_	4	advmod	_	O
+3	as	as	RB	_	4	advmod	_	O
+4	long	long	RB	_	0	root	_	O
+5	as	as	IN	_	8	mark	_	O
+6	you	you	PRP	_	8	nsubj	_	O
+7	're	be	VBP	_	8	aux	_	O
+8	making	make	VBG	_	4	advcl	_	O
+9	more	more	JJR	pos2=RBR	8	dobj	_	O
+10	than	than	IN	_	9	prep	_	O
+11	minimum	minimum	JJ	_	12	nmod	_	O
+12	wage	wage	NN	_	10	pobj	_	O
+13	.	.	.	_	8	punct	_	O
+
+1	Got	get	VBN	pos2=VBD	0	root	_	O
+2	ta	ta	TO	pos2=MD	3	aux	_	O
+3	be	be	VB	_	1	xcomp	_	O
+4	superior	superior	JJ	_	3	acomp	_	O
+5	to	to	IN	_	4	prep	_	O
+6	some	some	DT	_	7	det	_	O
+7	people	people	NNS	_	5	pobj	_	O
+8	.	.	.	_	1	punct	_	O
+

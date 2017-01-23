@@ -1,0 +1,16 @@
+1	@nytimes	@nytimes	UH	pos2=NNS	9	discourse	_	O
+2	@sapna	@sapna	UH	pos2=DT	9	discourse	_	O
+3	Fake	fake	JJ	_	4	nmod	_	O
+4	news	news	NN	_	9	nsubj	_	O
+5	like	like	IN	_	4	prep	_	O
+6	FBI	fbi	NNP	_	7	compound	_	U-ORG
+7	director	director	NN	_	8	compound	_	O
+8	Comey	comey	NNP	_	9	nsubj	_	U-PERSON
+9	put	put	VBD	pos2=VB	0	root	_	O
+10	out	out	RP	pos2=RB	9	prt	_	O
+11	right	right	RB	pos2=NN	12	advmod	_	O
+12	before	before	IN	_	9	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	election	election	NN	_	12	pobj	_	O
+15	.	.	.	_	9	punct	_	O
+

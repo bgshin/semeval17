@@ -1,0 +1,29 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	used	use	VBD	pos2=MD	0	root	_	O
+3	see	see	RB	pos2=VB	5	neg	_	O
+4	-	-	HYPH	_	5	punct	_	O
+5	think	think	VB	pos2=NN	7	compound	_	O
+6	-	-	HYPH	pos2=:	7	punct	_	O
+7	wonder	wonder	NN	_	2	dobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	help	help	VB	_	2	xcomp	_	O
+10	us	us	PRP	_	11	nsubj	_	O
+11	investigate	investigate	VB	_	9	ccomp	_	O
+12	the	the	DT	_	13	det	_	O
+13	UNCRC	uncrc	NNP	pos2=NN	11	dobj	_	U-ORG
+14	.	.	.	_	2	punct	_	O
+
+1	This	this	DT	_	2	det	_	B-DATE
+2	week	week	NN	_	3	nsubj	_	L-DATE
+3	is	be	VBZ	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	25th	#ord#	JJ	_	6	nmod	_	U-ORDINAL
+6	anniversary	anniversary	NN	_	3	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	UNCRC	uncrc	NNP	pos2=NN	7	pobj	_	U-ORG
+10	.	.	.	_	3	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/AWcIr3Ig7M	#hlink#	ADD	pos2=NN	0	root	_	O
+

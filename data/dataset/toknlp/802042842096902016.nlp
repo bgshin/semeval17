@@ -1,0 +1,12 @@
+1	thanks	thanks	NNS	pos2=UH	4	discourse	_	O
+2	God	god	NNP	_	1	vocative	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	Friday	friday	NNP	_	4	attr	_	U-DATE
+6	.	.	.	_	4	punct	_	O
+
+1	#Thanksgiving	#thanksgiving	VBG	pos2=NNP	4	nmod	_	O
+2	#arianagrande	#arianagrande	GW	pos2=UH	4	nmod	_	O
+3	#arianator😍	#arianator😍	GW	pos2=-LRB-	4	nmod	_	O
+4	https://t.co/xX4LFmLBoz	#hlink#	ADD	pos2=NN	0	root	_	O
+

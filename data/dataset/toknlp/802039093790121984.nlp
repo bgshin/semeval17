@@ -1,0 +1,33 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	still	still	RB	_	2	advmod	_	O
+4	proud	proud	JJ	_	2	acomp	_	O
+5	for	for	IN	_	4	prep	_	O
+6	voting	vote	VBG	pos2=NN	5	pcomp	_	O
+7	for	for	IN	_	6	prep	_	O
+8	Barack	barack	NNP	_	9	compound	_	B-PERSON
+9	Obama	obama	NNP	_	7	pobj	_	L-PERSON
+10	...	..	.	pos2=,	2	punct	_	O
+
+1	both	both	DT	_	2	det	_	O
+2	times	time	NNS	_	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	Eat	eat	VB	_	0	root	_	O
+2	a	a	DT	_	3	det	_	O
+3	dick	dick	NN	_	1	dobj	_	O
+4	if	if	IN	_	6	mark	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	have	have	VBP	_	1	advcl	_	O
+7	a	a	DT	_	8	det	_	O
+8	issue	issue	NN	_	6	dobj	_	O
+9	with	with	IN	_	8	prep	_	O
+10	it	it	PRP	_	9	pobj	_	O
+11	.	.	.	_	1	punct	_	O
+
+1	Be	be	VB	_	2	auxpass	_	O
+2	advised	advise	VBN	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+

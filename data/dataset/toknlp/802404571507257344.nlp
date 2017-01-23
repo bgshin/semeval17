@@ -1,0 +1,21 @@
+1	@KellyannePolls	@kellyannepolls	NNS	pos2=ADD	2	nsubj	_	O
+2	Is	be	VBZ	_	0	root	_	O
+3	White	white	NNP	pos2=JJ	5	compound	_	B-ORG
+4	Supremacist	supremacist	NN	pos2=NNP	5	compound	_	L-ORG
+5	self	self	NN	_	6	npadvmod	_	O
+6	proclaimed	proclaim	VBD	pos2=VBN	2	ccomp	_	O
+7	Alt	alt	NNP	pos2=JJ	9	npadvmod	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	right	right	JJ	_	10	nmod	_	O
+10	member	member	NN	_	13	compound	_	O
+11	Steve	steve	NNP	_	13	compound	_	B-PERSON
+12	Bannon	bannon	NNP	_	13	compound	_	L-PERSON
+13	#StopBannon	#stopbannon	NNP	pos2=ADD	20	dep	_	O
+14	also	also	RB	_	20	advmod	_	O
+15	a	a	DT	_	18	det	_	O
+16	"	"	``	_	18	punct	_	O
+17	brilliant	brilliant	JJ	_	18	nmod	_	O
+18	c	c	NN	pos2=GW	20	dep	_	O
+19	…	…	:	pos2=''	18	punct	_	O
+20	https://t.co/MOADmA2oqp	#hlink#	ADD	_	2	dep	_	O
+

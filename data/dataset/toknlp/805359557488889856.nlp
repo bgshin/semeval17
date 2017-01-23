@@ -1,0 +1,16 @@
+1	Plus	plus	CC	_	3	cc	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	size	size	NN	_	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+
+1	More	more	RBR	pos2=JJR	2	advmod	_	O
+2	Like	like	IN	_	10	dep	_	O
+3	My	my	PRP$	_	4	poss	_	O
+4	Size	size	NN	pos2=NNP	2	pobj	_	O
+5	|	|	SYM	pos2=,	7	punct	_	O
+6	Ashley	ashley	NNP	_	7	compound	_	B-PERSON
+7	Graham	graham	NNP	_	10	dep	_	L-PERSON
+8	|	|	,	pos2=GW	10	punct	_	O
+9	TEDxBerkleeValencia	tedxberkleevalencia	NNP	pos2=ADD	10	nmod	_	O
+10	https://t.co/4Rpl8lVoVc	#hlink#	ADD	_	0	root	_	O
+

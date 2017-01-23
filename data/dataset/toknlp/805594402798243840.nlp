@@ -1,0 +1,23 @@
+1	#	#	NN	pos2=SYM	3	compound	_	O
+2	420Magazine	0magazine	NN	pos2=JJ	3	compound	_	O
+3	IL	il	NN	_	9	dep	_	O
+4	:	:	:	_	9	punct	_	O
+5	East	east	NNP	pos2=JJ	9	compound	_	B-ORG
+6	Peoria	peoria	NNP	_	9	compound	_	I-ORG
+7	Medical	medical	NNP	_	9	compound	_	I-ORG
+8	Marijuana	marijuana	NNP	_	9	compound	_	I-ORG
+9	Dispensary	dispensary	NNP	pos2=NN	0	root	_	L-ORG
+10	To	to	IN	pos2=TO	9	prep	_	O
+11	Host	host	NNP	pos2=VB	13	compound	_	B-WORK_OF_ART
+12	Open	open	NNP	pos2=JJ	13	compound	_	I-WORK_OF_ART
+13	House	house	NNP	_	10	pobj	_	I-WORK_OF_ART
+14	Ahead	ahead	RB	pos2=NNP	9	advmod	_	I-WORK_OF_ART
+15	Of	of	IN	pos2=RB	14	prep	_	I-WORK_OF_ART
+16	Licen	licen	NNP	pos2=RB	15	pobj	_	L-WORK_OF_ART
+17	...	..	.	pos2=,	9	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	Blog	blog	NN	pos2=NNP	1	dobj	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/10fy4n6CfX	#hlink#	ADD	pos2=NN	1	dep	_	O
+

@@ -1,0 +1,16 @@
+1	4	0	LS	pos2=CD	15	meta	_	U-CARDINAL
+2	)	)	-RRB-	_	1	punct	_	O
+3	Kirk	kirk	NNP	pos2=NN	7	nmod	_	U-PERSON
+4	3	0	CD	pos2=LS	3	nmod	_	U-CARDINAL
+5	)	)	-RRB-	_	1	punct	_	O
+6	Mrs.	mrs.	NNP	_	7	compound	_	O
+7	Kim	kim	NNP	_	15	nmod	_	U-PERSON
+8	2	0	CD	pos2=NNP	7	npadvmod	_	U-CARDINAL
+9	)	)	-RRB-	_	7	punct	_	O
+10	Luke	luke	NNP	pos2=NN	15	nmod	_	U-PERSON
+11	1	0	CD	pos2=NN	10	nmod	_	U-CARDINAL
+12	)	)	-RRB-	_	7	punct	_	O
+13	Richard	richard	NNP	_	14	compound	_	B-PERSON
+14	Gilmore	gilmore	NNP	_	15	compound	_	L-PERSON
+15	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=ADD	0	root	_	O
+

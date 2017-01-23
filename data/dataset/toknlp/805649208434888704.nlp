@@ -1,0 +1,29 @@
+1	@avonet5555	@avonet0	NN	pos2=CD	4	compound	_	O
+2	@YouTube	@youtube	NNP	pos2=NN	4	compound	_	O
+3	Dec	dec	NNP	_	4	compound	_	B-DATE
+4	19th	#ord#	NN	_	6	vocative	_	L-DATE
+5	,	,	,	_	6	punct	_	O
+6	throw	throw	VB	pos2=VBP	0	root	_	O
+7	all	all	PDT	_	9	predet	_	O
+8	the	the	DT	_	9	det	_	O
+9	bums	bum	NNS	_	6	dobj	_	O
+10	out	out	RP	pos2=RB	6	prt	_	O
+11	.	.	.	_	6	punct	_	O
+
+1	It	it	PRP	_	3	nsubjpass	_	O
+2	was	be	VBD	_	3	auxpass	_	O
+3	rigged	rig	VBN	pos2=JJ	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Voter	voter	NN	_	2	compound	_	O
+2	suppression	suppression	NN	_	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	ballot	ballot	NN	_	5	compound	_	O
+5	box	box	NN	_	6	compound	_	O
+6	tampering	tampering	NN	pos2=VBG	2	conj	_	O
+7	&	&	CC	_	6	cc	_	O
+8	foreign	foreign	JJ	_	9	nmod	_	O
+9	interference	interference	NN	_	6	conj	_	O
+10	&	&	CC	_	9	cc	_	O
+11	more💙	more💙	NN	pos2=.	9	conj	_	O
+

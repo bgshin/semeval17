@@ -1,0 +1,26 @@
+1	@splingtwanger	@splingtwanger	UH	pos2=XX	4	discourse	_	O
+2	ooo	ooo	UH	pos2=NN	4	discourse	_	O
+3	that	that	DT	_	4	nsubj	_	O
+4	s	s	VBZ	_	7	meta	_	O
+5	nice	nice	JJ	pos2=NN	4	acomp	_	O
+6	that	that	DT	pos2=WDT	7	nsubj	_	O
+7	means	mean	VBZ	_	0	root	_	O
+8	there	there	RB	pos2=EX	4	advmod	_	O
+9	r	r	VBP	pos2=JJ	7	ccomp	_	O
+10	jobs	job	NNS	_	9	dobj	_	O
+11	!!!	!!	.	_	7	punct	_	O
+
+1	just	just	RB	_	2	advmod	_	O
+2	got	get	VBD	pos2=VBN	0	root	_	O
+3	ta	ta	TO	_	4	aux	_	O
+4	wait	wait	VB	_	2	xcomp	_	O
+5	fir	fir	NN	_	7	nmod	_	O
+6	gay	gay	JJ	pos2=NN	7	nmod	_	O
+7	marriage	marriage	NN	_	4	dobj	_	O
+8	to	to	IN	pos2=TO	9	aux	_	O
+9	b	b	VB	pos2=JJ	12	nmod	_	O
+10	legal	legal	JJ	pos2=NN	12	nmod	_	O
+11	then	then	RB	pos2=NN	13	advmod	_	O
+12	im	im	NN	pos2=IN	13	nsubj	_	O
+13	Moving	move	VBG	pos2=NNP	2	dep	_	O
+

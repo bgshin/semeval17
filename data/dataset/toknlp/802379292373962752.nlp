@@ -1,0 +1,16 @@
+1	I	I	PRP	_	5	nsubj	_	O
+2	've	have	VBP	_	5	aux	_	O
+3	literally	literally	RB	_	5	advmod	_	O
+4	been	be	VBN	_	5	aux	_	O
+5	seeing	see	VBG	_	0	root	_	O
+6	&	&	CC	_	5	cc	_	O
+7	hearing	hear	VBG	pos2=NN	5	conj	_	O
+8	Leonard	leonard	NNP	_	9	compound	_	B-PERSON
+9	Cohen	cohen	NNP	_	12	poss	_	I-PERSON
+10	's	's	POS	_	9	case	_	L-PERSON
+11	"	"	``	_	12	punct	_	O
+12	Hallelujah	hallelujah	NNP	_	7	dobj	_	U-WORK_OF_ART
+13	"	"	''	_	12	punct	_	O
+14	EVERYWHERE	everywhere	RB	_	7	advmod	_	O
+15	.	.	.	_	5	punct	_	O
+

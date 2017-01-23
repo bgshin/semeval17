@@ -1,0 +1,26 @@
+1	White	white	JJ	pos2=NNP	3	nmod	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	collar	collar	NN	_	4	compound	_	O
+4	supremacy	supremacy	NN	_	7	nsubjpass	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	CODE	code	NN	pos2=NNP	5	attr	_	O
+7	used	use	VBN	_	6	acl	_	O
+8	by	by	IN	_	7	agent	_	O
+9	liberal	liberal	JJ	_	10	nmod	_	O
+10	fascists	fascist	NNS	_	8	pobj	_	O
+11	for	for	IN	_	7	prep	_	O
+12	People	people	NNS	pos2=NNPS	11	pobj	_	O
+13	who	who	WP	_	14	nsubj	_	O
+14	Work	work	VBP	pos2=NNP	12	relcl	_	O
+15	for	for	IN	_	14	prep	_	O
+16	Living	live	VBG	_	15	pcomp	_	O
+17	in	in	IN	_	16	prep	_	O
+18	a	a	DT	_	25	det	_	O
+19	Real	real	JJ	pos2=NNP	21	nmod	_	O
+20	Job	job	NN	pos2=NNP	25	dep	_	O
+21	#pjnet	#pjnet	NN	pos2=IN	25	dep	_	O
+22	#trump	#trump	XX	pos2=UH	25	dep	_	O
+23	#tcot	#tcot	XX	pos2=UH	25	dep	_	O
+24	#UniteBlue	#uniteblue	XX	pos2=NNP	25	nmod	_	O
+25	#p2	#p0	XX	pos2=NN	17	pobj	_	O
+

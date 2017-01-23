@@ -1,0 +1,34 @@
+1	@HighOnNoon	@highonnoon	NN	pos2=ADD	4	punct	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	've	have	VBP	_	4	aux	_	O
+4	got	get	VBN	pos2=VBD	0	root	_	O
+5	3	0	CD	_	7	nmod	_	U-CARDINAL
+6	actual	actual	JJ	_	7	nmod	_	O
+7	people	people	NNS	_	4	dobj	_	O
+8	too	too	RB	_	9	advmod	_	O
+9	so	so	RB	_	4	advmod	_	O
+10	do	do	VBP	pos2=VB	14	aux	_	O
+11	n't	not	RB	_	16	neg	_	O
+12	you	you	PRP	_	14	nsubj	_	O
+13	'	'	``	_	14	punct	_	O
+14	chicken	chicken	NN	_	9	meta	_	O
+15	'	'	''	_	14	punct	_	O
+16	me	me	PRP	_	14	dobj	_	O
+17	.	.	.	_	10	punct	_	O
+
+1	They	they	PRP	_	4	nsubj	_	O
+2	'	'	''	pos2=``	3	punct	_	O
+3	ve	ve	NN	pos2=VBP	4	nsubj	_	O
+4	found	find	VBD	pos2=VBN	10	ccomp	_	O
+5	a	a	DT	_	7	det	_	O
+6	good	good	JJ	_	7	nmod	_	O
+7	home	home	NN	pos2=RB	4	dobj	_	O
+8	,	,	,	_	10	punct	_	O
+9	I	I	PRP	_	10	nsubj	_	O
+10	saved	save	VBD	_	0	root	_	O
+11	them	them	PRP	_	10	dobj	_	O
+12	all	all	DT	pos2=RB	11	appos	_	O
+13	from	from	IN	_	10	prep	_	O
+14	euthanasia	euthanasia	NN	_	13	pobj	_	O
+15	.	.	.	_	10	punct	_	O
+

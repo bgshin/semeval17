@@ -1,0 +1,30 @@
+1	"	"	``	pos2=SYM	5	punct	_	O
+2	Chinese	chinese	JJ	_	3	nmod	_	U-NORP
+3	websites	website	NNS	_	5	nsubj	_	O
+4	are	be	VBP	_	5	aux	_	O
+5	blocking	block	VBG	_	0	root	_	O
+6	search	search	NN	_	7	compound	_	O
+7	results	result	NNS	_	5	dobj	_	O
+8	for	for	IN	_	5	prep	_	O
+9	“	"	``	_	5	punct	_	O
+10	Fatty	fatty	NNP	pos2=JJ	11	compound	_	B-PERSON
+11	Kim	kim	NNP	_	8	pobj	_	L-PERSON
+12	the	the	DT	_	13	det	_	O
+13	Third	#ord#	NNP	pos2=JJ	11	appos	_	U-ORDINAL
+14	”	"	''	_	11	punct	_	O
+15	and	and	CC	_	11	cc	_	O
+16	“	"	``	_	18	punct	_	O
+17	Kim	kim	NNP	_	18	compound	_	B-PERSON
+18	Fatty	fatty	NNP	_	11	conj	_	L-PERSON
+19	the	the	DT	_	20	det	_	O
+20	Third	#ord#	NNP	pos2=NNPS	18	appos	_	U-ORDINAL
+21	.	.	.	_	5	punct	_	O
+
+1	”	"	``	_	4	punct	_	O
+2	The	the	DT	_	3	det	_	O
+3	names	name	NNS	_	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	...	..	.	pos2=,	4	punct	_	O
+
+1	https://t.co/wYXPm1I066	#hlink#	ADD	_	0	root	_	U-ORG
+

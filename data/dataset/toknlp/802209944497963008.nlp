@@ -1,0 +1,18 @@
+1	Pillar	pillar	NN	pos2=NNP	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	the	the	DT	_	5	det	_	O
+4	#Chappaqua	#chappaqua	NNP	pos2=CD	5	compound	_	U-PRODUCT
+5	community	community	NN	_	2	pobj	_	O
+6	an	an	DT	_	7	det	_	O
+7	outcast	outcast	NN	_	11	dep	_	O
+8	after	after	IN	_	7	prep	_	O
+9	backing	back	VBG	_	8	pcomp	_	O
+10	Trump	trump	NNP	pos2=NN	9	dobj	_	O
+11	https://t.co/riZfmGh3rl	#hlink#	ADD	pos2=POS	15	dep	_	O
+12	Petty	petty	NNP	pos2=JJ	17	nmod	_	O
+13	libs#tcot	libs#tcot	RB	pos2=XX	9	advmod	_	O
+14	#uniteblue	#uniteblue	UH	pos2=ADD	17	discourse	_	O
+15	#Clinton	#clinton	NNP	pos2=CD	0	root	_	U-PERSON
+16	#ows	#ows	UH	pos2=VBZ	17	discourse	_	O
+17	#tlot	#tlot	UH	pos2=ADD	15	discourse	_	O
+

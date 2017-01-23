@@ -1,0 +1,27 @@
+1	Let	let	VB	_	17	advcl	_	O
+2	's	's	PRP	_	3	nsubj	_	O
+3	call	call	VB	_	1	ccomp	_	O
+4	the	the	DT	_	6	det	_	O
+5	white	white	JJ	_	6	nmod	_	O
+6	supremacists	supremacist	NNS	_	3	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	the	the	DT	_	12	det	_	O
+9	"	"	``	_	12	punct	_	O
+10	alt	alt	JJ	pos2=NN	12	advmod	_	O
+11	-	-	HYPH	_	12	punct	_	O
+12	right	right	JJ	_	7	pobj	_	O
+13	"	"	''	pos2=``	12	punct	_	O
+14	what	what	WP	pos2=WDT	17	attr	_	O
+15	they	they	PRP	_	17	nsubj	_	O
+16	truly	truly	RB	_	17	advmod	_	O
+17	are	be	VBP	_	0	root	_	O
+18	:	:	:	_	17	punct	_	O
+19	21	0	CD	_	22	nmod	_	B-PERCENT
+20	st	st	NN	pos2=JJ	21	compound	_	L-PERCENT
+21	century	century	NN	pos2=JJ	22	compound	_	O
+22	NAZIS	nazis	NN	pos2=NNPS	17	attr	_	O
+23	.	.	.	_	17	punct	_	O
+
+1	#AltRightIsNazi	#altrightisnazi	ADD	pos2=-LRB-	2	punct	_	O
+2	https://t.co/fkQXeN7trb	#hlink#	ADD	_	0	root	_	O
+

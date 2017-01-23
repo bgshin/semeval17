@@ -1,0 +1,12 @@
+1	New	new	NNP	pos2=JJ	2	compound	_	B-NORP
+2	Yorkers	yorkers	NNPS	pos2=NNP	3	nsubj	_	L-NORP
+3	denounce	denounce	VBP	pos2=VB	0	root	_	O
+4	Israel	israel	NNP	_	6	compound	_	U-GPE
+5	lobby	lobby	NN	pos2=GW	6	compound	_	O
+6	fundraiser	fundraiser	NN	pos2=GW	3	dobj	_	O
+7	https://t.co/ArUGm6SKUr	#hlink#	ADD	_	6	appos	_	O
+8	#gaza	#gaza	IN	pos2=-RRB-	3	prep	_	O
+9	#palestine	#palestine	UH	pos2=PRP	8	discourse	_	O
+10	#israel	#israel	UH	pos2=VB	8	discourse	_	O
+11	#BDS	#bds	NNS	pos2=UH	8	pobj	_	O
+

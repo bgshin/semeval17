@@ -1,0 +1,17 @@
+1	@scholasticuk	@scholasticuk	UH	pos2=``	3	discourse	_	O
+2	This	this	DT	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	me	me	PRP	_	3	attr	_	O
+5	in	in	IN	_	3	prep	_	O
+6	a	a	DT	_	7	det	_	O
+7	nutshell	nutshell	NN	_	5	pobj	_	O
+8	!	!	.	_	3	punct	_	O
+
+1	lol	lol	UH	_	2	discourse	_	O
+2	#FantasticBeasts	#fantasticbeasts	NNS	pos2=NNPS	5	nsubj	_	O
+3	#HarryPotterAddict	#harrypotteraddict	IN	pos2=ADD	2	prep	_	O
+4	Everything	everything	NN	pos2=NNP	3	pobj	_	O
+5	crossed	cross	VBD	_	0	root	_	O
+6	:D	:d	NFP	pos2=-LRB-	5	discourse	_	O
+7	https://t.co/5Qr8A3qQ7a	#hlink#	ADD	_	5	dobj	_	O
+

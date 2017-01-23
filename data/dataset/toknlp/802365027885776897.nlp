@@ -1,0 +1,16 @@
+1	TERRIBLE	terrible	JJ	_	2	nmod	_	O
+2	NEWS	news	NN	_	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	WE	we	PRP	_	2	nsubj	_	O
+2	NEED	need	VBP	_	0	root	_	O
+3	TO	to	TO	_	4	aux	_	O
+4	PRAY	pray	VB	_	2	xcomp	_	O
+5	FOR	for	IN	_	4	prep	_	O
+6	MELANIA	melania	NNP	pos2=NN	7	compound	_	B-PERSON
+7	TRUMP	trump	NNP	pos2=NN	5	pobj	_	L-PERSON
+8	BECAUSE	because	IN	pos2=GW	11	mark	_	O
+9	…	…	NFP	pos2=GW	11	punct	_	O
+10	https://t.co/T8eeYurh1X	#hlink#	ADD	_	11	nmod	_	O
+11	https://t.co/5POcGquYKO	#hlink#	ADD	_	6	nmod	_	U-ORG
+

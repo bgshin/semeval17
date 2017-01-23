@@ -1,0 +1,29 @@
+1	@GoogleSniper8A	@googlesniper0a	NN	pos2=ADD	0	root	_	O
+2	@dcexaminer	@dcexaminer	UH	pos2=NN	1	discourse	_	O
+3	who	who	WP	_	4	nsubj	_	O
+4	's	's	VBZ	_	1	relcl	_	O
+5	Michael	michael	NNP	_	6	compound	_	B-PERSON
+6	Moore	moore	NNP	_	4	nsubj	_	L-PERSON
+7	?	?	.	_	1	punct	_	O
+
+1	,	,	,	_	4	punct	_	O
+2	roger	roger	NNP	pos2=IN	3	compound	_	B-PERSON
+3	Moore	moore	NNP	_	7	poss	_	I-PERSON
+4	's	's	POS	_	3	case	_	L-PERSON
+5	ugly	ugly	JJ	_	7	nmod	_	O
+6	kid	kid	NN	pos2=JJ	7	compound	_	O
+7	brother	brother	NN	_	0	root	_	O
+8	.	.	.	_	7	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	looks	look	VBZ	_	0	root	_	O
+3	like	like	IN	_	5	mark	_	O
+4	he	he	PRP	_	5	nsubj	_	O
+5	is	be	VBZ	_	2	advcl	_	O
+6	half	half	NN	pos2=JJ	7	nmod	_	U-CARDINAL
+7	bullfrog	bullfrog	NN	pos2=NNP	10	nsubjpass	_	O
+8	&	&	CC	_	7	cc	_	O
+9	half	half	NN	pos2=RB	7	conj	_	U-CARDINAL
+10	baked	bake	VBN	_	5	acomp	_	O
+11	.	.	.	_	2	punct	_	O
+

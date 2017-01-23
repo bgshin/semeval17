@@ -1,0 +1,26 @@
+1	@PublicGoodANZ	@publicgoodanz	NNP	pos2=UH	9	nsubj	_	U-ORG
+2	So	so	RB	pos2=IN	9	advmod	_	O
+3	the	the	DT	_	4	det	_	O
+4	Trade	trade	NNP	_	9	nsubj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	Services	services	NNP	pos2=NNPS	8	compound	_	O
+7	Agreement	agreement	NNP	_	8	compound	_	O
+8	TISA	tisa	NNP	pos2=NN	5	pobj	_	O
+9	is	be	VBZ	_	0	root	_	O
+10	the	the	DT	_	12	det	_	O
+11	real	real	JJ	_	12	nmod	_	O
+12	payload	payload	NN	_	9	attr	_	O
+13	#TPP	#tpp	NNP	pos2=NN	12	appos	_	U-ORG
+14	was	be	VBD	_	15	aux	_	O
+15	delivering	deliver	VBG	_	12	relcl	_	O
+16	.	.	.	_	9	punct	_	O
+
+1	Arrived	arrive	VBD	pos2=VBN	0	root	_	O
+2	in	in	IN	_	1	prep	_	O
+3	Beehive	beehive	NNP	pos2=NN	2	pobj	_	U-ORG
+4	in	in	IN	_	1	prep	_	O
+5	@johnkeypm	@johnkeypm	NNP	pos2=NNS	7	poss	_	U-GPE
+6	's	's	POS	_	5	case	_	O
+7	pocket	pocket	NN	_	4	pobj	_	O
+8	.	.	.	_	1	punct	_	O
+

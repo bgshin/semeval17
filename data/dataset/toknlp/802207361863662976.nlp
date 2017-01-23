@@ -1,0 +1,7 @@
+1	@hannahtweeted	@hannahtweeted	UH	pos2=VBN	3	discourse	_	O
+2	@mike_pence	@mike_pence	NN	pos2=NNP	3	nsubj	_	O
+3	found	find	VBD	pos2=VBN	0	root	_	O
+4	one	#crd#	CD	_	0	root	_	U-CARDINAL
+5	more	more	JJR	_	4	nmod	_	O
+6	.	.	.	_	3	punct	_	O
+

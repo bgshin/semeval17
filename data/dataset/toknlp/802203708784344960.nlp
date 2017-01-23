@@ -1,0 +1,31 @@
+1	No	no	DT	_	3	det	_	O
+2	second	#ord#	JJ	_	3	nmod	_	U-ORDINAL
+3	vote	vote	NN	_	7	dep	_	O
+4	on	on	IN	_	3	prep	_	O
+5	Brexit	brexit	NNP	_	4	pobj	_	U-ORG
+6	,	,	,	_	7	punct	_	O
+7	let	let	VB	_	0	root	_	O
+8	's	's	PRP	_	9	nsubj	_	O
+9	try	try	VB	_	7	ccomp	_	O
+10	Major	major	NNP	pos2=JJ	9	dobj	_	O
+11	,	,	,	_	10	punct	_	O
+12	Blair	blair	NNP	_	10	conj	_	U-PERSON
+13	,	,	,	_	12	punct	_	O
+14	Clarke	clarke	NNP	_	12	conj	_	U-PERSON
+15	,	,	,	_	14	punct	_	O
+16	&	&	CC	_	14	cc	_	O
+17	Heseltine	heseltine	NNP	_	14	conj	_	U-PERSON
+18	,	,	,	_	20	punct	_	O
+19	for	for	IN	_	9	prep	_	O
+20	treason	treason	NN	_	19	pobj	_	O
+21	instead	instead	RB	_	9	advmod	_	O
+22	.	.	.	_	7	punct	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	Nazi	nazi	NNP	_	3	compound	_	B-ORG
+3	EU	eu	NNP	pos2=NN	5	dep	_	L-ORG
+4	:	:	:	_	5	punct	_	O
+5	https://t.co/ltdgSC8zJ2	#hlink#	ADD	_	0	root	_	O
+6	@lbc	@lbc	-RRB-	pos2=IN	5	punct	_	O
+7	@UKIP	@ukip	NN	pos2=-RRB-	5	npadvmod	_	O
+

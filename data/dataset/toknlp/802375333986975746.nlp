@@ -1,0 +1,30 @@
+1	Duh	duh	UH	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Putin	putin	NNP	_	3	nsubj	_	U-PERSON
+2	must	must	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	mad	mad	JJ	_	3	acomp	_	O
+5	at	at	IN	_	4	prep	_	O
+6	soros	soros	NNS	pos2=NNP	5	pobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	Some	some	DT	_	3	det	_	O
+2	russian	russian	JJ	_	3	nmod	_	U-NORP
+3	steep	steep	NN	pos2=NNS	5	nsubj	_	O
+4	was	be	VBD	_	5	aux	_	O
+5	trying	try	VBG	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	convince	convince	VB	_	5	xcomp	_	O
+8	me	me	PRP	_	7	dobj	_	O
+9	soros	soros	RB	pos2=WP	10	advmod	_	U-PERSON
+10	pays	pay	VBZ	_	7	ccomp	_	O
+11	people	people	NNS	_	10	dative	_	O
+12	v$15	v0	NN	pos2=NNS	14	nmod	_	O
+13	/	/	SYM	pos2=HYPH	14	punct	_	O
+14	hr	hr	NN	_	18	dep	_	O
+15	to	to	TO	_	16	aux	_	O
+16	protest	protest	VB	_	10	advcl	_	O
+17	…	…	NFP	pos2=-LRB-	18	punct	_	O
+18	https://t.co/DWcKjqjEjP	#hlink#	ADD	_	16	dobj	_	O
+

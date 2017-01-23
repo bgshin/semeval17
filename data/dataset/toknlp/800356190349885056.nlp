@@ -1,0 +1,16 @@
+1	The	the	DT	_	5	det	_	O
+2	latest	late	JJS	_	5	nmod	_	O
+3	Back	back	NNP	pos2=RB	4	compound	_	B-ORG
+4	Porch	porch	NNP	pos2=NN	5	compound	_	I-ORG
+5	Books	book	NNPS	pos2=NNP	0	root	_	L-ORG
+6	!	!	.	_	5	punct	_	O
+
+1	https://t.co/ZoWtjJFQK7	#hlink#	ADD	pos2=NN	0	root	_	O
+2	Thanks	thanks	NNS	pos2=NN	1	npadvmod	_	O
+3	to	to	IN	_	4	aux	_	O
+4	@karnami	@karnami	VB	pos2=NNS	1	advcl	_	O
+5	@CensieJ	@censiej	NNP	pos2=XX	7	compound	_	U-NORP
+6	@maximumpopbooks	@maximumpopbooks	NNS	pos2=UH	7	compound	_	O
+7	#books	#books	NNS	pos2=UH	4	dobj	_	O
+8	#nbawards	#nbawards	UH	pos2=NNS	1	discourse	_	O
+

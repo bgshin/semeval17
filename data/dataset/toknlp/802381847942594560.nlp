@@ -1,0 +1,25 @@
+1	@nytpolitics	@nytpolitics	UH	pos2=NNS	0	root	_	O
+2	No	no	UH	pos2=DT	1	discourse	_	O
+3	!	!	.	_	1	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	about	about	IN	pos2=RB	2	prep	_	O
+4	the	the	DT	_	8	det	_	O
+5	shit	shit	NN	_	8	nmod	_	O
+6	false	false	JJ	_	8	nmod	_	O
+7	equivalency	equivalency	NN	_	8	compound	_	O
+8	coverage	coverage	NN	_	3	pobj	_	O
+9	by	by	IN	_	8	prep	_	O
+10	media	medium	NNS	pos2=NN	9	pobj	_	O
+11	and	and	CC	_	10	cc	_	O
+12	Comey	comey	NNP	_	10	conj	_	U-PERSON
+13	.	.	.	_	2	punct	_	O
+
+1	Media	medium	NNS	pos2=NNP	6	nmod	_	O
+2	systematic	systematic	JJ	_	4	nmod	_	O
+3	character	character	NN	_	4	compound	_	O
+4	diso	diso	NN	pos2=GW	6	dep	_	O
+5	…	…	NFP	pos2=,	6	punct	_	O
+6	https://t.co/Ax99r2AaPd	#hlink#	ADD	_	0	root	_	U-GPE
+

@@ -1,0 +1,19 @@
+1	@CNN	@cnn	NNP	pos2=ADD	3	vocative	_	O
+2	This	this	DT	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	how	how	WRB	_	6	advmod	_	O
+5	we	we	PRP	_	6	nsubj	_	O
+6	got	get	VBD	pos2=VBP	3	ccomp	_	O
+7	to	to	IN	_	6	prep	_	O
+8	Terminator	terminator	NNP	pos2=NN	7	pobj	_	U-WORK_OF_ART
+9	3	0	CD	_	8	npadvmod	_	U-CARDINAL
+10	:	:	:	_	11	punct	_	O
+11	Rise	rise	NN	pos2=VB	0	root	_	O
+12	of	of	IN	_	11	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	Machines	machine	NNPS	pos2=NNS	12	pobj	_	O
+15	.	.	.	_	11	punct	_	O
+
+1	#Hatchimals	#hatchimals	NNS	pos2=ADD	2	nmod	_	O
+2	https://t.co/wIzvQgezvF	#hlink#	ADD	_	0	root	_	O
+

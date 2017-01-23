@@ -1,0 +1,33 @@
+1	A	a	DT	pos2=NNP	4	det	_	O
+2	Grayson	grayson	NNP	_	3	compound	_	B-ORG
+3	Allen	allen	NNP	_	5	nsubj	_	L-ORG
+4	3	0	CD	pos2=NNP	3	nmod	_	O
+5	gives	give	VBZ	_	0	root	_	O
+6	him	him	PRP	_	5	dative	_	O
+7	10	0	CD	_	5	dobj	_	U-CARDINAL
+8	and	and	CC	_	5	cc	_	O
+9	puts	put	VBZ	pos2=NNS	5	conj	_	O
+10	Duke	duke	NNP	_	9	dobj	_	O
+11	up	up	RP	pos2=IN	9	prt	_	O
+12	12	0	CD	pos2=LS	9	dobj	_	U-CARDINAL
+13	.	.	.	_	5	punct	_	O
+
+1	He	he	PRP	_	3	nsubjpass	_	O
+2	's	's	VBZ	pos2=AFX	3	auxpass	_	O
+3	bumped	bump	VBN	_	0	root	_	O
+4	and	and	CC	_	3	cc	_	O
+5	to	to	IN	_	2	conj	_	O
+6	the	the	DT	_	7	det	_	O
+7	line	line	NN	_	5	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	Hits	hit	VBZ	pos2=NNS	0	root	_	O
+2	both	both	DT	pos2=CC	1	dobj	_	O
+3	,	,	,	_	1	punct	_	O
+4	has	have	VBZ	_	1	dep	_	O
+5	12	0	CD	_	4	dobj	_	U-CARDINAL
+6	,	,	,	_	1	punct	_	O
+7	Duke	duke	NNP	pos2=VB	8	compound	_	O
+8	up	up	RP	pos2=IN	4	advmod	_	O
+9	14	0	CD	_	8	npadvmod	_	U-CARDINAL
+

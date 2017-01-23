@@ -1,0 +1,24 @@
+1	Dylann	dylann	NNP	pos2=NN	2	compound	_	U-PERSON
+2	Roof	roof	NN	pos2=NNP	3	nsubj	_	O
+3	competent	competent	JJ	_	0	root	_	O
+4	to	to	TO	pos2=IN	5	aux	_	O
+5	stand	stand	VB	_	3	xcomp	_	O
+6	trial	trial	NN	_	5	dobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	Time	time	NN	pos2=NNP	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	register	register	VB	_	1	relcl	_	O
+4	all	all	DT	pos2=RB	6	det	_	O
+5	white	white	JJ	_	6	nmod	_	O
+6	supremacists	supremacist	NNS	_	3	dobj	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	They	they	PRP	_	3	nsubj	_	O
+2	will	will	MD	_	3	aux	_	O
+3	kill	kill	VB	_	0	root	_	O
+4	again	again	RB	_	3	advmod	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	https://t.co/9lenEvytaU	#hlink#	ADD	_	0	root	_	U-ORG
+

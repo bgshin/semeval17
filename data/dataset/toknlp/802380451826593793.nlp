@@ -1,0 +1,27 @@
+1	@BobPhillyPa	@bobphillypa	NNP	pos2=UH	3	dep	_	U-ORG
+2	@jennajameson	@jennajameson	IN	pos2=VBD	1	prep	_	O
+3	its	its	PRP$	_	0	root	_	O
+4	not	not	RB	pos2=NN	5	neg	_	O
+5	about	about	IN	_	1	prep	_	O
+6	liberals	liberal	NNS	_	5	pobj	_	O
+7	or	or	CC	_	6	cc	_	O
+8	conservatives	conservative	NNS	_	6	conj	_	O
+9	.	.	.	_	1	punct	_	O
+
+1	Im	im	NN	pos2=UH	6	nsubj	_	O
+2	neither	neither	RB	pos2=CC	6	advmod	_	O
+3	and	and	CC	_	1	cc	_	O
+4	could	could	MD	_	6	aux	_	O
+5	nt	nt	RB	pos2=VB	6	advmod	_	O
+6	care	care	VB	_	0	root	_	O
+7	about	about	IN	pos2=RB	6	prep	_	O
+8	either	either	RB	pos2=DT	6	advmod	_	O
+9	.	.	.	_	6	punct	_	O
+
+1	Its	its	PRP$	pos2=PRP	5	poss	_	O
+2	about	about	IN	pos2=JJ	0	root	_	O
+3	basic	basic	JJ	_	5	nmod	_	O
+4	human	human	JJ	_	5	nmod	_	O
+5	decency	decency	NN	_	2	pobj	_	O
+6	.	.	.	_	1	punct	_	O
+

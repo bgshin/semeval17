@@ -1,0 +1,18 @@
+1	@alexpiletska	@alexpiletska	UH	pos2=FW	5	discourse	_	O
+2	@SethMacFarlane	@sethmacfarlane	NN	pos2=UH	5	npadvmod	_	O
+3	@yashar	@yashar	UH	pos2=XX	5	discourse	_	O
+4	@Delta	@delta	NNP	pos2=NNS	5	nsubj	_	O
+5	Give	give	VB	_	12	advcl	_	O
+6	these	these	DT	_	7	det	_	O
+7	Deplorables	deplorables	NNPS	pos2=NNP	5	dative	_	U-PERSON
+8	an	an	DT	_	9	det	_	O
+9	inch	inch	NN	_	5	dobj	_	O
+10	,	,	,	_	12	punct	_	O
+11	they	they	PRP	_	12	nsubj	_	O
+12	take	take	VBP	_	0	root	_	O
+13	the	the	DT	_	16	det	_	O
+14	whole	whole	JJ	pos2=NN	16	nmod	_	O
+15	damn	damn	JJ	pos2=RB	16	nmod	_	O
+16	country	country	NN	_	12	dobj	_	O
+17	...	..	.	pos2=,	12	punct	_	O
+

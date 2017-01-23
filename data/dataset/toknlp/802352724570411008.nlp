@@ -1,0 +1,11 @@
+1	#Montreal	#montreal	NNP	pos2=GW	6	dep	_	O
+2	-	-	:	pos2=HYPH	6	punct	_	O
+3	https://t.co/XWs2oKf87F	#hlink#	ADD	pos2=NNP	0	root	_	O
+4	Leonard	leonard	NNP	_	5	compound	_	B-PERSON
+5	Cohen	cohen	NNP	_	6	nsubj	_	L-PERSON
+6	songs	songs	VBZ	pos2=NNS	0	root	_	O
+7	more	more	RBR	_	8	advmod	_	O
+8	popular	popular	JJ	_	6	acomp	_	O
+9	than	than	IN	_	8	prep	_	O
+10	ever	ever	RB	_	9	pcomp	_	O
+

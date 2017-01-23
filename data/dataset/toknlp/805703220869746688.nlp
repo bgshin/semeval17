@@ -1,0 +1,22 @@
+1	@LyleShelton	@lyleshelton	NNP	pos2=ADD	11	nsubj	_	U-PERSON
+2	@guardian	@guardian	IN	pos2=VB	1	prep	_	O
+3	your	your	PRP$	_	4	poss	_	O
+4	ignorance	ignorance	NN	_	2	pobj	_	O
+5	about	about	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	facts	fact	NNS	_	5	pobj	_	O
+8	associated	associate	VBN	_	7	acl	_	O
+9	with	with	IN	_	8	prep	_	O
+10	euthanasia	euthanasia	NN	_	9	pobj	_	O
+11	are	be	VBP	_	0	root	_	O
+12	utterly	utterly	RB	_	13	advmod	_	O
+13	reprehensible	reprehensible	JJ	_	11	acomp	_	O
+14	and	and	CC	_	13	cc	_	O
+15	irresponsible	irresponsible	JJ	_	13	conj	_	O
+16	.	.	.	_	11	punct	_	O
+
+1	Shame	shame	NN	pos2=VB	0	root	_	O
+2	on	on	IN	_	1	prep	_	O
+3	you	you	PRP	_	2	pobj	_	O
+4	.	.	.	_	1	punct	_	O
+

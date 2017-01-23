@@ -1,0 +1,17 @@
+1	Paying	pay	VBG	_	8	csubj	_	O
+2	a	a	DT	_	3	det	_	O
+3	docotor	docotor	NN	pos2=JJR	1	dobj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	perform	perform	VB	_	1	advcl	_	O
+6	euthanasia	euthanasia	NN	_	5	dobj	_	O
+7	just	just	RB	_	8	advmod	_	O
+8	takes	take	VBZ	_	0	root	_	O
+9	a	a	DT	_	10	det	_	O
+10	lot	lot	NN	_	8	dobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	money	money	NN	_	11	pobj	_	O
+13	and	and	CC	_	10	cc	_	O
+14	a	a	DT	_	16	det	_	O
+15	little	little	JJ	_	16	nmod	_	O
+16	persuasion	persuasion	NN	_	10	conj	_	O
+

@@ -1,0 +1,25 @@
+1	@Slate	@slate	NNP	pos2=ADD	2	compound	_	B-PERSON
+2	@PatMcCroryNC	@patmccrorync	NNP	pos2=ADD	3	nsubj	_	L-PERSON
+3	IS	be	VBZ	_	19	ccomp	_	O
+4	N'T	not	RB	_	3	neg	_	O
+5	it	it	PRP	_	3	nsubj	_	O
+6	amazing	amazing	JJ	_	3	acomp	_	O
+7	stealing	steal	VBG	pos2=NN	9	csubj	_	O
+8	elections	election	NNS	_	7	dobj	_	O
+9	is	be	VBZ	_	3	ccomp	_	O
+10	so	so	RB	_	11	advmod	_	O
+11	acceptable	acceptable	JJ	_	9	acomp	_	O
+12	when	when	WRB	_	14	advmod	_	O
+13	leftists	leftist	NNS	_	14	nsubj	_	O
+14	do	do	VBP	_	19	advcl	_	O
+15	it	it	PRP	_	14	dobj	_	O
+16	;	;	:	pos2=,	19	punct	_	O
+17	do	do	VB	_	19	aux	_	O
+18	n't	not	RB	_	19	neg	_	O
+19	let	let	VB	_	0	root	_	O
+20	conservative	conservative	JJ	pos2=NN	21	nsubj	_	O
+21	pursue	pursue	VB	pos2=NN	19	ccomp	_	O
+22	FAIR	fair	JJ	pos2=NN	23	nmod	_	O
+23	results	result	NNS	_	21	dobj	_	O
+24	!	!	.	_	19	punct	_	O
+

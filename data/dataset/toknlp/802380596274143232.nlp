@@ -1,0 +1,13 @@
+1	why	why	WRB	_	2	advmod	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	there	there	EX	_	2	expl	_	O
+4	an	an	DT	_	5	det	_	O
+5	episode	episode	NN	_	2	attr	_	O
+6	of	of	IN	_	5	prep	_	O
+7	phineas	phineas	NNP	pos2=NN	6	pobj	_	U-PERSON
+8	and	and	CC	_	5	cc	_	O
+9	ferb	ferb	NN	pos2=NNS	5	conj	_	O
+10	w	w	IN	pos2=VBP	9	prep	_	O
+11	hetero	hetero	NN	pos2=JJ	12	compound	_	O
+12	robots	robot	NNS	_	10	pobj	_	O
+

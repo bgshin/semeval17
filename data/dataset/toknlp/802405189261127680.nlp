@@ -1,0 +1,19 @@
+1	Clinton	clinton	NNP	_	2	compound	_	B-ORG
+2	Foundation	foundation	NNP	pos2=NN	3	compound	_	L-ORG
+3	Donations	donation	NNS	_	4	nsubj	_	O
+4	take	take	VBP	pos2=VB	0	root	_	O
+5	fall	fall	NN	pos2=VBP	4	dobj	_	O
+6	After	after	IN	_	4	prep	_	O
+7	Election	election	NNP	pos2=NN	6	pobj	_	O
+8	https://t.co/1oagHMTspj	#hlink#	ADD	pos2=NNP	11	nsubj	_	O
+9	EVEN	even	RB	_	11	advmod	_	O
+10	MOST	most	JJS	pos2=RBS	11	advmod	_	O
+11	DEADLY	deadly	JJ	pos2=RB	14	ccomp	_	O
+12	OF	of	IN	_	11	prep	_	O
+13	DONATORS	donators	NNS	_	12	pobj	_	O
+14	DO	do	VBP	_	16	aux	_	O
+15	NOT	not	RB	_	16	neg	_	O
+16	WANT	want	VB	_	4	conj	_	O
+17	RAMIFICATIONS	ramification	NNS	_	16	dobj	_	O
+18	!	!	.	_	4	punct	_	O
+

@@ -1,0 +1,6 @@
+1	@Jack_Septic_Eye	@jack_septic_eye	NN	pos2=TO	2	nsubj	_	O
+2	play	play	VB	pos2=VBP	0	root	_	O
+3	google	google	NNP	pos2=NN	5	compound	_	O
+4	earth	earth	NN	_	5	compound	_	O
+5	VR	vr	NN	pos2=NNP	2	dobj	_	O
+

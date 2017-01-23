@@ -1,0 +1,20 @@
+1	Retweeted	retweeted	VBD	pos2=VBN	0	root	_	O
+2	Daniel	daniel	NNP	_	4	compound	_	B-PERSON
+3	José	josé	NNP	_	4	compound	_	I-PERSON
+4	Older	older	NNP	pos2=JJR	1	dobj	_	L-PERSON
+5	(	(	-LRB-	_	4	punct	_	O
+6	@djolder	@djolder	NN	pos2=UH	4	appos	_	O
+7	)	)	-RRB-	_	4	punct	_	O
+8	:The	:the	IN	pos2=CD	1	prep	_	O
+9	honorable	honorable	JJ	_	10	nmod	_	O
+10	@repjohnlewis	@repjohnlewis	NNS	pos2=IN	8	pobj	_	O
+11	receiving	receive	VBG	_	10	acl	_	O
+12	the	the	DT	_	13	det	_	O
+13	#NBAwards	#nbawards	NNPS	pos2=NNS	11	dobj	_	U-PERSON
+14	and	and	CC	_	11	cc	_	O
+15	recalling	recall	VBG	_	11	conj	_	O
+16	being	be	VBG	pos2=NN	15	xcomp	_	O
+17	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/trclpZkTOw	#hlink#	ADD	_	0	root	_	U-ORG
+

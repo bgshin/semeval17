@@ -1,0 +1,20 @@
+1	Changes	change	NNS	pos2=VBZ	10	nsubj	_	O
+2	to	to	IN	_	1	prep	_	O
+3	the	the	DT	_	5	det	_	O
+4	Immigration	immigration	NNP	_	5	compound	_	O
+5	Rules	rule	NNPS	pos2=NNS	2	pobj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	guidance	guidance	NN	_	5	conj	_	O
+8	(	(	-LRB-	_	10	punct	_	O
+9	changes	change	NNS	_	10	nsubj	_	O
+10	took	take	VBD	pos2=WDT	0	root	_	O
+11	effect	effect	NN	_	10	dobj	_	O
+12	on	on	IN	_	11	prep	_	O
+13	24th	#ord#	JJ	pos2=NN	14	nmod	_	B-DATE
+14	November	november	NNP	_	12	pobj	_	I-DATE
+15	2016	0	CD	pos2=NN	14	npadvmod	_	L-DATE
+16	)	)	-RRB-	_	10	punct	_	O
+17	.	.	.	_	10	punct	_	O
+
+1	https://t.co/sJVOO2r3N2	#hlink#	ADD	_	0	root	_	U-ORG
+

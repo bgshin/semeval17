@@ -1,0 +1,23 @@
+1	@ThomasLStanley3	@thomaslstanley0	NN	pos2=NNS	2	compound	_	O
+2	@TrumpDynastyUSA	@trumpdynastyusa	NN	pos2=ADD	4	nsubj	_	O
+3	@realDonaldTrump	@realdonaldtrump	TO	pos2=NNS	4	aux	_	O
+4	bring	bring	VB	pos2=VBP	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	draft	draft	NN	_	4	dobj	_	O
+7	back	back	RB	pos2=NN	4	advmod	_	O
+8	!	!	.	_	4	punct	_	O
+
+1	Deport	deport	VB	pos2=VBP	0	root	_	O
+2	all	all	DT	_	3	det	_	O
+3	refuges	refuge	NNS	_	1	dobj	_	O
+4	&	&	CC	_	3	cc	_	O
+5	illegals	illegal	NNS	_	3	conj	_	O
+6	out	out	RP	pos2=RB	1	prt	_	O
+7	!	!	.	_	1	punct	_	O
+
+1	Death	death	NN	_	2	compound	_	O
+2	penalty	penalty	NN	_	4	compound	_	O
+3	4killing	0killing	NN	pos2=VBG	4	compound	_	O
+4	officers	officer	NNS	_	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+

@@ -1,0 +1,30 @@
+1	#UnitedNations	#unitednations	NNS	pos2=ADD	3	vocative	_	O
+2	what	what	WP	_	3	attr	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	point	point	NN	_	3	nsubj	_	O
+6	just	just	RB	_	9	advmod	_	O
+7	another	another	DT	_	9	det	_	O
+8	talking	talk	VBG	pos2=NN	9	nmod	_	O
+9	shop	shop	NN	_	5	appos	_	O
+10	..	..	.	pos2=,	3	punct	_	O
+
+1	running	run	VBG	_	0	root	_	O
+2	around	around	RB	pos2=IN	1	advmod	_	O
+3	shaking	shake	VBG	_	1	dep	_	O
+4	a	a	DT	_	5	det	_	O
+5	stick	stick	NN	_	3	dobj	_	O
+6	..	..	.	pos2=,	1	punct	_	O
+
+1	as	as	RB	pos2=IN	2	advmod	_	O
+2	much	much	RB	pos2=JJ	3	advmod	_	O
+3	good	good	JJ	pos2=NN	0	root	_	O
+4	as	as	IN	_	3	prep	_	O
+5	a	a	DT	_	6	det	_	O
+6	scarecrow	scarecrow	NN	_	4	pobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	No	no	DT	pos2=UH	2	det	_	O
+2	notice	notice	NN	_	3	nsubj	_	O
+3	taken	take	VBN	_	0	root	_	O
+

@@ -1,0 +1,12 @@
+1	@celinedion	@celinedion	PRP	pos2=NN	3	nsubj	_	O
+2	must	must	MD	_	3	aux	_	O
+3	sing	sing	VB	_	0	root	_	O
+4	#BeautyAndTheBeast	#beautyandthebeast	RB	pos2=PRP	3	advmod	_	O
+5	again	again	RB	_	3	advmod	_	O
+6	!!!!!!	!!	.	_	3	punct	_	O
+
+1	@Disney	@disney	NNP	pos2=UH	4	nmod	_	B-PERSON
+2	@DisneyStudios	@disneystudios	GW	pos2=NNS	4	nmod	_	L-PERSON
+3	@WaltDisneyWorld	@waltdisneyworld	GW	pos2=ADD	4	nmod	_	O
+4	https://t.co/zCRzTtryQX	#hlink#	ADD	pos2=NN	0	root	_	O
+

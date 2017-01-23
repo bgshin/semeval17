@@ -1,0 +1,26 @@
+1	@CNNnews18	@cnnnews0	NN	pos2=NNS	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	fossil	fossil	JJ	pos2=NN	4	nmod	_	O
+4	fuels	fuel	NNS	_	2	nsubj	_	O
+5	sustainable	sustainable	JJ	_	2	acomp	_	O
+6	?	?	.	_	2	punct	_	O
+
+1	Electric	electric	JJ	pos2=NNP	3	nmod	_	O
+2	vehicle	vehicle	NN	_	3	compound	_	O
+3	tech	tech	NN	_	6	nsubjpass	_	O
+4	must	must	MD	_	6	aux	_	O
+5	be	be	VB	_	6	auxpass	_	O
+6	promoted	promote	VBN	_	0	root	_	O
+7	on	on	IN	_	6	prep	_	O
+8	a	a	DT	_	10	det	_	O
+9	large	large	JJ	_	10	nmod	_	O
+10	scale	scale	NN	_	7	pobj	_	O
+11	to	to	TO	_	12	aux	_	O
+12	curb	curb	VB	_	6	advcl	_	O
+13	pollution	pollution	NN	_	12	dobj	_	O
+14	&	&	CC	_	12	cc	_	O
+15	stop	stop	VB	_	12	conj	_	O
+16	fuel	fuel	NN	_	17	compound	_	O
+17	imports	import	NNS	_	15	dobj	_	O
+18	..	..	.	pos2=,	6	punct	_	O
+

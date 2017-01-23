@@ -1,0 +1,12 @@
+1	POPE	pope	NNP	pos2=NN	2	compound	_	O
+2	FRANCIS	francis	NNP	_	4	nsubj	_	O
+3	has	have	VBZ	_	4	aux	_	O
+4	declared	declare	VBN	_	0	root	_	O
+5	himself	himself	PRP	_	3	npadvmod	_	O
+6	God	god	NNP	_	4	dobj	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	https://t.co/UjK7sMt1lp	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@YouTube	@youtube	NN	pos2=NNP	2	pobj	_	O
+

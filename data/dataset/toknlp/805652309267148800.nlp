@@ -1,0 +1,19 @@
+1	Marijuana	marijuana	NN	_	2	compound	_	O
+2	stocks	stock	NNS	_	6	dep	_	O
+3	:	:	:	_	6	punct	_	O
+4	Do	do	VB	pos2=VBP	6	aux	_	O
+5	n’t	not	RB	_	6	neg	_	O
+6	listen	listen	VB	_	0	root	_	O
+7	to	to	IN	_	6	prep	_	O
+8	these	these	DT	_	9	det	_	O
+9	morons	moron	NNS	_	7	pobj	_	O
+10	//	//	NFP	pos2=-LRB-	18	punct	_	O
+11	Medical	medical	JJ	pos2=NNP	12	nmod	_	O
+12	marijuana	marijuana	NN	_	18	dep	_	O
+13	investing	invest	VBG	pos2=NN	12	acl	_	O
+14	cannabis	cannabis	NN	_	15	compound	_	O
+15	pot	pot	NN	pos2=GW	13	dobj	_	O
+16	…	…	NFP	pos2=GW	18	punct	_	O
+17	https://t.co/j97hd1a1Pp	#hlink#	ADD	_	18	nmod	_	O
+18	https://t.co/XEO5bZ5AB2	#hlink#	ADD	_	6	dep	_	U-ORG
+

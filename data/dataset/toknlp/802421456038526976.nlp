@@ -1,0 +1,26 @@
+1	When	when	WRB	_	3	advmod	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	comes	come	VBZ	_	11	advcl	_	O
+4	to	to	IN	_	3	prep	_	O
+5	social	social	JJ	_	6	nmod	_	O
+6	security	security	NN	pos2=NNP	4	pobj	_	O
+7	or	or	CC	_	6	cc	_	O
+8	Medicare	medicare	NNP	_	6	conj	_	U-ORG
+9	,	,	,	_	11	punct	_	O
+10	you	you	PRP	_	11	nsubj	_	O
+11	have	have	VBP	_	0	root	_	O
+12	to	to	TO	_	13	aux	_	O
+13	ask	ask	VB	_	11	xcomp	_	O
+14	yourself	yourself	PRP	_	13	dobj	_	O
+15	WWPRD	wwprd	NNP	pos2=RP	13	vocative	_	U-PERSON
+16	?	?	.	_	11	punct	_	O
+
+1	What	what	WP	_	5	dobj	_	O
+2	Would	would	MD	_	5	aux	_	O
+3	Paul	paul	NNP	_	4	compound	_	B-PERSON
+4	Ryan	ryan	NNP	_	5	nsubj	_	L-PERSON
+5	Destroy	destroy	VB	pos2=NNP	0	root	_	O
+6	?	?	.	_	5	punct	_	O
+
+1	#NoHealthcareForYou	#nohealthcareforyou	ADD	pos2=XX	0	root	_	O
+

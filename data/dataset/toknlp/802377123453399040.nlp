@@ -1,0 +1,35 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@SpeakerRyan	@speakerryan	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	says	say	VBZ	_	0	root	_	O
+3	“	"	``	pos2=''	2	punct	_	O
+4	…	…	NFP	pos2=,	6	punct	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	makes	make	VBZ	_	2	ccomp	_	O
+7	no	no	DT	_	8	det	_	O
+8	sense	sense	NN	_	6	dobj	_	O
+9	for	for	IN	_	8	prep	_	O
+10	1	0	CD	_	12	nmod	_	U-CARDINAL
+11	fed	feed	VBN	pos2=JJ	12	nmod	_	O
+12	agency	agency	NN	_	9	pobj	_	O
+13	to	to	TO	_	14	aux	_	O
+14	dictate	dictate	VB	_	6	xcomp	_	O
+15	every	every	DT	_	16	det	_	O
+16	American	american	NNP	_	20	poss	_	U-ORG
+17	’s	's	POS	_	16	case	_	O
+18	health	health	NN	_	19	compound	_	O
+19	ins	in	NNS	pos2=NNP	20	compound	_	O
+20	plan	plan	NN	pos2=VBP	14	dobj	_	O
+21	.	.	.	_	2	punct	_	O
+
+1	”	"	``	_	6	punct	_	O
+2	It	it	PRP	_	3	nsubj	_	O
+3	does	do	VBZ	_	0	root	_	O
+4	if	if	IN	_	7	mark	_	O
+5	it	it	PRP	_	7	nsubj	_	O
+6	’s	's	VBZ	_	7	aux	_	O
+7	working	work	VBG	pos2=JJ	3	ccomp	_	O
+8	!	!	.	_	3	punct	_	O
+
+1	#Medicare	#medicare	NNP	pos2=VB	0	root	_	O
+

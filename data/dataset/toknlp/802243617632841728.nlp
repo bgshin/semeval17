@@ -1,0 +1,12 @@
+1	Smart	smart	JJ	_	2	nmod	_	O
+2	roads	road	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	8	ccomp	_	O
+4	the	the	DT	_	7	det	_	O
+5	companion	companion	NN	_	7	nmod	_	O
+6	self-driving	self-driving	JJ	pos2=VBG	7	nmod	_	O
+7	cars	car	NNS	_	3	attr	_	O
+8	need	need	VBP	pos2=NN	0	root	_	O
+9	.	.	.	_	8	punct	_	O
+
+1	https://t.co/LkuuAcmdFM	#hlink#	ADD	_	0	root	_	U-ORG
+

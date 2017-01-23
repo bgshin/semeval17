@@ -1,0 +1,25 @@
+1	Castro	castro	NNP	_	2	nsubj	_	U-PERSON
+2	was	be	VBD	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	tyrant	tyrant	NN	_	2	attr	_	O
+5	by	by	IN	_	4	prep	_	O
+6	any	any	DT	_	7	det	_	O
+7	standard	standard	NN	_	5	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	But	but	CC	_	5	cc	_	O
+2	the	the	DT	_	4	det	_	O
+3	trade	trade	NN	_	4	compound	_	O
+4	embargo	embargo	NN	_	5	nsubj	_	O
+5	failed	fail	VBD	_	11	ccomp	_	O
+6	to	to	TO	pos2=IN	7	aux	_	O
+7	moderate	moderate	VB	pos2=JJ	5	xcomp	_	O
+8	his	his	PRP$	_	9	poss	_	O
+9	regime	regime	NN	_	7	dobj	_	O
+10	,	,	,	_	11	punct	_	O
+11	says	say	VBZ	_	0	root	_	O
+12	@DanielGriswold	@danielgriswold	NN	pos2=NNS	11	nsubj	_	O
+13	:	:	:	_	11	punct	_	O
+14	…	…	NFP	pos2=-LRB-	15	punct	_	O
+15	https://t.co/u1HRGx2Wo6	#hlink#	ADD	_	11	dep	_	O
+

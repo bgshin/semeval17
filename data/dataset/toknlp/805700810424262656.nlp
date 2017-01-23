@@ -1,0 +1,19 @@
+1	#PhilodemicSocietyOfGeorgetownUniversity	#philodemicsocietyofgeorgetownuniversity	NN	pos2=NNP	3	compound	_	B-PERSON
+2	Golden	golden	NNP	_	3	compound	_	I-PERSON
+3	Rice	rice	NNP	_	0	root	_	L-PERSON
+4	,	,	,	_	3	punct	_	O
+5	Roads	road	NNPS	pos2=NNS	3	conj	_	O
+6	,	,	,	_	5	punct	_	O
+7	and	and	CC	_	5	cc	_	O
+8	Vegetarianism	vegetarianism	NNP	pos2=NN	5	conj	_	O
+9	:	:	:	_	3	punct	_	O
+10	A	a	DT	pos2=NNP	12	det	_	O
+11	Science	science	NNP	pos2=NN	12	compound	_	O
+12	D	d	NN	pos2=NNP	3	appos	_	O
+13	...	..	.	pos2=,	3	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	Blog	blog	NN	pos2=NNP	1	dobj	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/UTPbNr6zCu	#hlink#	ADD	pos2=NN	1	dep	_	O
+

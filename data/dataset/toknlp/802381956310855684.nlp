@@ -1,0 +1,26 @@
+1	@rabois	@rabois	UH	pos2=XX	2	discourse	_	O
+2	@Jasonrodrigues	@jasonrodrigues	NNS	pos2=UH	0	root	_	O
+3	if	if	IN	_	5	mark	_	O
+4	liberals	liberal	NNS	_	5	nsubj	_	O
+5	had	have	VBD	_	11	advcl	_	O
+6	some	some	DT	_	7	det	_	O
+7	brain	brain	NN	_	5	dobj	_	O
+8	,	,	,	_	11	punct	_	O
+9	they	they	PRP	_	11	nsubj	_	O
+10	would	would	MD	_	11	aux	_	O
+11	focus	focus	VB	_	2	ccomp	_	O
+12	on	on	IN	_	11	prep	_	O
+13	2018	0	CD	_	15	nmod	_	U-DATE
+14	midterm	midterm	NN	_	15	compound	_	O
+15	election	election	NN	_	12	pobj	_	O
+16	and	and	CC	_	11	cc	_	O
+17	move	move	VB	pos2=VBP	11	conj	_	O
+18	forward	forward	RB	_	17	advmod	_	O
+19	.	.	.	_	2	punct	_	O
+
+1	They	they	PRP	_	3	nsubj	_	O
+2	will	will	MD	_	3	aux	_	O
+3	lose	lose	VB	_	0	root	_	O
+4	everything	everything	NN	_	3	dobj	_	O
+5	.	.	.	_	3	punct	_	O
+

@@ -1,0 +1,6 @@
+1	@Tang_Lys	@tang_lys	NNS	pos2=XX	2	nsubj	_	O
+2	putin	putin	VBP	pos2=NN	0	root	_	O
+3	t	t	NN	pos2=IN	4	compound	_	O
+4	chiant	chiant	NN	pos2=JJ	2	dobj	_	O
+5	:'(	:'(	.	pos2=-LRB-	2	punct	_	O
+

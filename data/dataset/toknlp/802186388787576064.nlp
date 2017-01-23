@@ -1,0 +1,11 @@
+1	#Friday	#friday	NNP	pos2=NN	2	compound	_	B-PERSON
+2	#Geneva	#geneva	NNP	pos2=ADD	3	compound	_	L-PERSON
+3	#unitednations	#unitednations	NNS	pos2=ADD	10	dep	_	O
+4	@	@	SYM	pos2=IN	3	punct	_	O
+5	United	united	NNP	_	6	compound	_	B-ORG
+6	Nations	nations	NNP	_	7	compound	_	I-ORG
+7	Office	office	NNP	_	3	appos	_	I-ORG
+8	at	at	IN	_	7	prep	_	I-ORG
+9	Geneva	geneva	NNP	_	8	pobj	_	L-ORG
+10	https://t.co/aE2TLUqlkd	#hlink#	ADD	pos2=NNP	0	root	_	O
+

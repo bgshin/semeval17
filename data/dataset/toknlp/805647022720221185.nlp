@@ -1,0 +1,12 @@
+1	*	*	SYM	_	2	punct	_	O
+2	Googles	google	NNS	pos2=VBZ	0	root	_	O
+3	why	why	WRB	_	9	advmod	_	O
+4	Zac	zac	NNP	_	5	compound	_	B-PERSON
+5	Efron	efron	NNP	_	9	nsubj	_	L-PERSON
+6	and	and	CC	_	5	cc	_	O
+7	Vanessa	vanessa	NNP	_	8	compound	_	B-PERSON
+8	Hudgens	hudgens	NNP	_	5	conj	_	L-PERSON
+9	broke	break	VBD	_	2	ccomp	_	O
+10	up	up	RP	pos2=RB	9	prt	_	O
+11	*	*	SYM	pos2=ADD	9	punct	_	O
+

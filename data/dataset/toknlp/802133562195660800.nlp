@@ -1,0 +1,28 @@
+1	You	you	PRP	_	3	nsubj	_	O
+2	should	should	MD	_	3	aux	_	O
+3	name	name	VB	_	0	root	_	O
+4	your	your	PRP$	_	5	poss	_	O
+5	chins	chin	NNS	_	3	dobj	_	O
+6	bad	bad	JJ	_	7	nmod	_	O
+7	hombres	hombre	NNS	_	5	appos	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	There	there	RB	pos2=EX	2	expl	_	O
+2	your	your	PRP$	_	4	poss	_	O
+3	worst	bad	JJS	pos2=JJ	4	nmod	_	O
+4	enemy	enemy	NN	_	5	nsubj	_	O
+5	right	right	JJ	pos2=RB	0	root	_	O
+6	?	?	.	_	5	punct	_	O
+
+1	There	there	EX	_	2	expl	_	O
+2	are	be	VBP	_	0	root	_	O
+3	bad	bad	JJ	_	4	nmod	_	O
+4	hombres	hombre	NNS	_	2	attr	_	O
+5	out	out	RB	_	6	advmod	_	O
+6	there	there	RB	_	2	advmod	_	O
+7	under	under	IN	_	2	prep	_	O
+8	my	my	PRP$	_	9	poss	_	O
+9	chin	chin	NN	pos2=GW	7	pobj	_	O
+10	…	…	NFP	pos2=,	11	punct	_	O
+11	https://t.co/oHrWuH1ldu	#hlink#	ADD	_	2	dep	_	O
+

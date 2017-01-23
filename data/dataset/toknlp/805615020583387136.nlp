@@ -1,0 +1,12 @@
+1	Pope	pope	NNP	_	2	compound	_	O
+2	Francis	francis	NNP	_	3	nsubj	_	U-PERSON
+3	Urges	urge	VBZ	pos2=NNP	0	root	_	O
+4	Scientists	scientist	NNPS	pos2=NNS	3	dobj	_	O
+5	to	to	TO	pos2=IN	6	aux	_	O
+6	Find	find	VB	_	3	xcomp	_	O
+7	Solution	solution	NN	pos2=NNP	6	dobj	_	O
+8	for	for	IN	_	7	prep	_	O
+9	Climate	climate	NNP	pos2=NN	10	compound	_	B-ORG
+10	Change	change	NNP	pos2=GW	8	pobj	_	L-ORG
+11	https://t.co/A6k0WBtOz6	#hlink#	ADD	_	3	dobj	_	O
+

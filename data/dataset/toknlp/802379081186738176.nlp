@@ -1,0 +1,17 @@
+1	Label	label	NN	_	2	compound	_	O
+2	scan	scan	NN	_	16	dep	_	O
+3	of	of	IN	_	2	prep	_	O
+4	Bob	bob	NNP	_	5	compound	_	B-PERSON
+5	Dylan	dylan	NNP	_	11	poss	_	I-PERSON
+6	's	's	POS	_	5	case	_	L-PERSON
+7	10th	#ord#	RB	pos2=JJ	8	advmod	_	U-ORDINAL
+8	biggest	big	JJS	pos2=RB	9	advmod	_	O
+9	hit	hit	VBN	pos2=VBD	11	nmod	_	O
+10	George	george	NNP	_	11	compound	_	B-PERSON
+11	Jackson	jackson	NNP	_	3	pobj	_	L-PERSON
+12	(	(	-LRB-	_	11	punct	_	O
+13	Acoustic	acoustic	JJ	pos2=NNP	14	nmod	_	O
+14	version	version	NN	_	11	appos	_	O
+15	)	)	-RRB-	_	11	punct	_	O
+16	https://t.co/0szk1Dlzgz	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,30 @@
+1	@BruceBartlett	@brucebartlett	NN	pos2=NNP	2	dep	_	O
+2	1.	0.	LS	_	4	meta	_	U-CARDINAL
+3	People	people	NNS	_	4	nsubj	_	O
+4	lied	lie	VBD	_	0	root	_	O
+5	to	to	IN	_	4	prep	_	O
+6	pollsters	pollster	NNS	_	5	pobj	_	O
+7	bc	bc	IN	pos2=XX	9	mark	_	O
+8	they	they	PRP	_	9	nsubj	_	O
+9	were	be	VBD	_	4	advcl	_	O
+10	ashamed	ashamed	JJ	_	9	acomp	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	2.	0.	LS	_	3	meta	_	U-CARDINAL
+2	Comey	comey	NNP	_	3	compound	_	O
+3	effect	effect	NN	pos2=VB	0	root	_	O
+4	3.	0.	CD	pos2=,	3	nmod	_	U-CARDINAL
+5	If	if	IN	_	8	mark	_	O
+6	we	we	PRP	_	8	nsubj	_	O
+7	could	could	MD	_	8	aux	_	O
+8	trust	trust	VB	_	3	advcl	_	O
+9	polls	poll	NNS	_	8	dobj	_	O
+10	100	0	CD	_	11	nmod	_	B-PERCENT
+11	%	%	NN	_	8	npadvmod	_	L-PERCENT
+12	,	,	,	_	14	punct	_	O
+13	why	why	WRB	_	16	advmod	_	O
+14	have	have	VBP	pos2=VB	11	appos	_	O
+15	an	an	DT	_	16	det	_	O
+16	election	election	NN	_	14	dobj	_	O
+17	?	?	.	_	3	punct	_	O
+

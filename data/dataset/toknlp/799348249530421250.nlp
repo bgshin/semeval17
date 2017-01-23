@@ -1,0 +1,8 @@
+1	So	so	RB	_	3	advmod	_	O
+2	@Snowden	@snowden	NNP	pos2=RB	3	nsubj	_	U-PERSON
+3	lied	lie	VBD	_	0	root	_	O
+4	to	to	IN	pos2=TO	3	prep	_	O
+5	everyone.@CIA	everyone.@cia	NNP	pos2=GW	4	pobj	_	U-GPE
+6	@NSAGov	@nsagov	GW	pos2=ADD	7	nmod	_	O
+7	https://t.co/Xhknr8VkwA	#hlink#	ADD	_	3	dep	_	O
+

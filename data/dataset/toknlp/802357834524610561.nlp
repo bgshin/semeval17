@@ -1,0 +1,23 @@
+1	@arangolord	@arangolord	UH	pos2=XX	10	discourse	_	O
+2	@IsThisWhoYouAre	@isthiswhoyouare	ADD	pos2=NN	3	det	_	O
+3	@michaeloferwins	@michaeloferwins	NNS	pos2=UH	10	nsubj	_	O
+4	using	use	VBG	_	3	acl	_	O
+5	a	a	DT	_	6	det	_	O
+6	child	child	NN	_	4	dobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	harass	harass	VB	_	4	xcomp	_	O
+9	people	people	NNS	_	8	dobj	_	O
+10	is	be	VBZ	_	0	root	_	O
+11	disgusting	disgusting	JJ	_	10	acomp	_	O
+12	.	.	.	_	10	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	all	all	PDT	pos2=DT	6	predet	_	O
+4	a	a	DT	_	6	det	_	O
+5	hateful	hateful	JJ	_	6	nmod	_	O
+6	game	game	NN	_	2	attr	_	O
+7	to	to	IN	pos2=TO	8	aux	_	O
+8	#altright	#altright	VB	pos2=XX	6	acl	_	O
+9	deplorables	deplorables	NNS	pos2=NN	8	dobj	_	O
+

@@ -1,0 +1,21 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	uncle	uncle	NN	_	5	poss	_	O
+3	's	's	POS	_	2	case	_	O
+4	twitter	twitter	NN	pos2=JJ	5	compound	_	O
+5	feed	feed	NN	_	6	nsubj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	full	full	JJ	_	6	acomp	_	O
+8	of	of	IN	_	7	prep	_	O
+9	"	"	``	_	13	punct	_	O
+10	George	george	NNP	_	11	compound	_	B-PERSON
+11	Soros	soros	NNP	_	13	nsubj	_	L-PERSON
+12	is	be	VBZ	_	13	aux	_	O
+13	funding	fund	VBG	_	8	pcomp	_	O
+14	anti-Trump	anti-trump	JJ	_	15	nmod	_	O
+15	riots	riot	NNS	_	13	dobj	_	O
+16	"	"	''	pos2=``	13	punct	_	O
+17	posts	post	NNS	_	13	dobj	_	O
+18	.	.	.	_	6	punct	_	O
+
+1	#tytlive	#tytlive	UH	pos2=XX	0	root	_	O
+

@@ -1,0 +1,14 @@
+1	Mr	mr	NNP	pos2=PRP$	2	compound	_	B-PERSON
+2	Trump	trump	NNP	pos2=NN	3	nsubj	_	L-PERSON
+3	win	win	VB	pos2=NN	0	root	_	O
+4	without	without	IN	_	3	prep	_	O
+5	him	him	PRP	_	4	pobj	_	O
+6	,	,	,	_	9	punct	_	O
+7	he	he	PRP	_	9	nsubj	_	O
+8	can	can	MD	_	9	aux	_	O
+9	bring	bring	VB	_	0	root	_	O
+10	Confucius	confucius	NNP	_	9	dobj	_	U-PERSON
+11	in	in	IN	_	9	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	cabinet	cabinet	NN	_	11	pobj	_	O
+

@@ -1,0 +1,12 @@
+1	#opensource	#opensource	UH	pos2=VB	8	discourse	_	O
+2	What	what	WP	pos2=WDT	4	dative	_	O
+3	#Microsoft	#microsoft	NNP	pos2=IN	4	nsubj	_	U-ORG
+4	joining	join	VBG	_	8	csubj	_	O
+5	the	the	DT	_	7	det	_	B-ORG
+6	#Linux	#linux	NNP	_	7	compound	_	I-ORG
+7	Foundation	foundation	NNP	pos2=NN	4	dobj	_	L-ORG
+8	means	mean	VBZ	_	0	root	_	O
+9	for	for	IN	_	8	prep	_	O
+10	us	us	PRP	_	9	pobj	_	O
+11	https://t.co/dY1hscac49	#hlink#	ADD	_	10	appos	_	U-ORG
+

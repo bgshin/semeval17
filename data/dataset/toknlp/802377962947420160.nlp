@@ -1,0 +1,22 @@
+1	MSM	msm	NN	pos2=NNP	4	nmod	_	O
+2	&	&	CC	_	1	cc	_	O
+3	lefty	lefty	NN	pos2=JJ	1	conj	_	O
+4	pundits	pundit	NNS	_	21	dep	_	O
+5	after	after	IN	_	4	prep	_	O
+6	decrying	decry	VBG	_	5	pcomp	_	O
+7	#Trump	#trump	NNP	pos2=``	8	compound	_	U-PERSON
+8	cabinet	cabinet	NN	_	6	dobj	_	O
+9	as	as	IN	_	6	prep	_	O
+10	"	"	``	_	13	punct	_	O
+11	all	all	DT	pos2=JJ	13	det	_	O
+12	white	white	JJ	_	13	nmod	_	O
+13	men	man	NNS	_	9	pobj	_	O
+14	"	"	''	pos2=``	13	punct	_	O
+15	for	for	IN	_	6	prep	_	O
+16	the	the	DT	_	19	det	_	B-DATE
+17	past	past	JJ	_	19	nmod	_	I-DATE
+18	two	#crd#	CD	_	19	nmod	_	I-DATE
+19	weeks	week	NNS	_	15	pobj	_	L-DATE
+20	:	:	:	_	21	punct	_	O
+21	https://t.co/XPv5aSyYUE	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,25 @@
+1	@COVERGIRL	@covergirl	NN	pos2=XX	6	nsubj	_	O
+2	still	still	RB	_	3	advmod	_	O
+3	doing	do	VBG	_	1	acl	_	O
+4	animal	animal	NN	_	5	compound	_	O
+5	testing	testing	NN	_	3	dobj	_	O
+6	breaks	break	VBZ	_	0	root	_	O
+7	my	my	PRP$	_	11	poss	_	O
+8	heart	heart	NN	_	9	compound	_	O
+9	b	b	NN	pos2=IN	11	nmod	_	O
+10	/	/	SYM	pos2=HYPH	11	punct	_	O
+11	c	c	NN	pos2=NNS	15	nsubj	_	O
+12	do	do	VBP	_	14	aux	_	O
+13	you	you	PRP	_	14	nsubj	_	O
+14	know	know	VB	_	6	parataxis	_	O
+15	how	how	WRB	_	16	advmod	_	O
+16	much	much	JJ	pos2=RB	20	dative	_	O
+17	I	I	PRP	_	18	nsubj	_	O
+18	want	want	VBP	_	14	ccomp	_	O
+19	to	to	TO	_	20	aux	_	O
+20	support	support	VB	_	18	xcomp	_	O
+21	their	their	PRP$	_	23	poss	_	O
+22	diversity	diversity	NN	_	23	compound	_	O
+23	campaign	campaign	NN	_	20	dobj	_	O
+24	??	??	.	_	6	punct	_	O
+

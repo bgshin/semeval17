@@ -1,0 +1,17 @@
+1	#mannequinchallenge	#mannequinchallenge	UH	pos2=XX	3	discourse	_	O
+2	#family	#family	UH	pos2=XX	3	discourse	_	O
+3	lol	lol	UH	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	had	have	VBD	_	0	root	_	O
+3	so	so	RB	_	4	advmod	_	O
+4	much	much	JJ	pos2=RB	5	nmod	_	O
+5	fun	fun	NN	pos2=JJ	2	dobj	_	O
+6	today	today	NN	_	2	npadvmod	_	U-DATE
+7	.	.	.	_	2	punct	_	O
+
+1	#happythankgiving	#happythankgiving	VBG	pos2=UH	3	nmod	_	O
+2	😂🙂🦃	😂🙂🦃	NFP	pos2=-LRB-	3	punct	_	O
+3	https://t.co/4SRXbt2ziw	#hlink#	ADD	pos2=NN	0	root	_	O
+

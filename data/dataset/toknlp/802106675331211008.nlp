@@ -1,0 +1,30 @@
+1	@ODDERZinnit	@odderzinnit	NN	pos2=NNP	2	compound	_	O
+2	Persona	persona	NN	pos2=NNP	4	nsubj	_	O
+3	5	0	CD	_	2	npadvmod	_	U-CARDINAL
+4	is	be	VBZ	_	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	only	only	JJ	pos2=RB	7	nmod	_	O
+7	one	#crd#	CD	pos2=NN	4	attr	_	O
+8	I	I	PRP	_	10	nsubj	_	O
+9	'll	will	MD	_	10	aux	_	O
+10	preorder	preorder	VB	_	7	relcl	_	O
+11	without	without	IN	_	10	prep	_	O
+12	hesitation	hesitation	NN	_	11	pobj	_	O
+13	.	.	.	_	4	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	may	may	MD	_	4	aux	_	O
+3	never	never	RB	_	4	neg	_	O
+4	play	play	VB	_	0	root	_	O
+5	another	another	DT	_	7	det	_	O
+6	Tales	tales	NNP	pos2=NNS	7	compound	_	O
+7	game	game	NN	_	4	dobj	_	O
+8	after	after	IN	_	4	prep	_	O
+9	Zestiria	zestiria	NNP	_	8	pobj	_	U-WORK_OF_ART
+10	.	.	.	_	4	punct	_	O
+
+1	Utter	utter	JJ	_	3	nmod	_	O
+2	doo	doo	NN	pos2=FW	3	compound	_	O
+3	doo	doo	NN	pos2=FW	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+

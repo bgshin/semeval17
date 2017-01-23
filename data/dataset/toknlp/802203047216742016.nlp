@@ -1,0 +1,20 @@
+1	Ya	ya	NNP	pos2=PRP	2	compound	_	B-PERSON
+2	Allah	allah	NNP	_	5	vocative	_	L-PERSON
+3	,	,	,	_	5	punct	_	O
+4	Please	please	UH	pos2=NNP	5	discourse	_	O
+5	Help	help	VB	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	muslims	muslim	NNS	pos2=NN	5	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	#Iraq	#iraq	NNP	pos2=$	8	pobj	_	B-DATE
+10	#Syria#Gaza#Yemen	#syria#gaza#yemen	ADD	pos2=NNP	14	punct	_	L-DATE
+11	#Burma#KashmirPlease	#burma#kashmirplease	ADD	pos2=NNP	14	punct	_	O
+12	do	do	VB	pos2=VBP	14	aux	_	O
+13	n't	not	RB	_	14	neg	_	O
+14	scroll	scroll	VB	_	5	ccomp	_	O
+15	down	down	RP	pos2=RB	14	prt	_	O
+16	without	without	IN	_	14	prep	_	O
+17	sa	sa	NN	pos2=GW	16	pobj	_	O
+18	…	…	NFP	pos2=-LRB-	19	punct	_	O
+19	https://t.co/tvpEUo8bjM	#hlink#	ADD	_	14	dep	_	O
+

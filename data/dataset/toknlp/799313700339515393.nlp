@@ -1,0 +1,15 @@
+1	Evil	evil	JJ	pos2=NN	3	nmod	_	O
+2	Blogger	blogger	NNP	_	3	compound	_	O
+3	Lady	lady	NNP	pos2=NN	14	dep	_	O
+4	:	:	:	_	14	punct	_	O
+5	Kim	kim	NNP	_	14	dep	_	U-PERSON
+6	"	"	``	pos2=''	14	punct	_	O
+7	Fatty	fatty	NNP	pos2=JJ	14	nmod	_	B-WORK_OF_ART
+8	The	the	DT	pos2=NNP	13	det	_	I-WORK_OF_ART
+9	Third	#ord#	NNP	pos2=JJ	14	nmod	_	I-WORK_OF_ART
+10	"	"	``	pos2=''	14	punct	_	I-WORK_OF_ART
+11	Jong	jong	NNP	_	13	compound	_	I-WORK_OF_ART
+12	-	-	HYPH	_	13	punct	_	I-WORK_OF_ART
+13	Un	un	NNP	_	14	dep	_	L-WORK_OF_ART
+14	https://t.co/h4qXc8U49w	#hlink#	ADD	pos2=NN	0	root	_	O
+

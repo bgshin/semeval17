@@ -1,0 +1,22 @@
+1	Big	big	JJ	_	3	nmod	_	O
+2	pharm	pharm	NN	pos2=JJ	3	compound	_	O
+3	companies	company	NNS	_	4	nsubj	_	O
+4	spend	spend	VBP	_	0	root	_	O
+5	millions	#crd#	NNS	_	4	dobj	_	U-CARDINAL
+6	to	to	TO	_	7	aux	_	O
+7	keep	keep	VB	_	4	advcl	_	O
+8	medical	medical	JJ	_	9	nmod	_	O
+9	marijuana	marijuana	NN	pos2=NNS	7	dobj	_	O
+10	away	away	RB	_	7	advmod	_	O
+11	from	from	IN	_	10	prep	_	O
+12	patients	patient	NNS	_	11	pobj	_	O
+13	who	who	WP	_	14	nsubj	_	O
+14	need	need	VBP	_	12	relcl	_	O
+15	it	it	PRP	_	14	dobj	_	O
+16	.	.	.	_	4	punct	_	O
+
+1	Opioids	opioid	NNS	_	2	nsubj	_	O
+2	kill	kill	VBP	_	0	root	_	O
+3	people	people	NNS	_	2	dobj	_	O
+4	https://t.co/WHSLR2FFyy	#hlink#	ADD	pos2=VBP	2	dobj	_	O
+

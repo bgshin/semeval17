@@ -1,0 +1,30 @@
+1	@twomiletower	@twomiletower	DT	pos2=UH	2	det	_	O
+2	way	way	NN	pos2=RB	11	npadvmod	_	O
+3	i	I	PRP	_	4	nsubj	_	O
+4	see	see	VBP	_	2	relcl	_	O
+5	it	it	PRP	_	4	dobj	_	O
+6	,	,	,	_	2	punct	_	O
+7	death	death	NN	_	8	compound	_	O
+8	penalty	penalty	NN	_	11	nsubj	_	O
+9	does	do	VBZ	_	11	aux	_	O
+10	nt	nt	RB	_	11	advmod	_	O
+11	work	work	VB	_	0	root	_	O
+12	as	as	IN	_	11	prep	_	O
+13	a	a	DT	_	14	det	_	O
+14	deterrent	deterrent	NN	_	12	pobj	_	O
+15	.	.	.	_	11	punct	_	O
+
+1	it	it	PRP	_	3	nsubj	_	O
+2	only	only	RB	pos2=JJ	3	advmod	_	O
+3	works	work	VBZ	_	0	root	_	O
+4	when	when	WRB	_	7	advmod	_	O
+5	the	the	DT	_	6	det	_	O
+6	person	person	NN	_	7	nsubj	_	O
+7	is	be	VBZ	_	3	advcl	_	O
+8	too	too	RB	_	9	advmod	_	O
+9	dangerous	dangerous	JJ	_	7	acomp	_	O
+10	to	to	IN	pos2=TO	9	prep	_	O
+11	society	society	NN	_	10	pobj	_	O
+12	to	to	TO	_	13	aux	_	O
+13	live	live	VB	pos2=RB	7	advcl	_	O
+

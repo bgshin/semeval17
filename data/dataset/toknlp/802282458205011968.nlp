@@ -1,0 +1,7 @@
+1	#fantasyambassador	#fantasyambassador	UH	pos2=XX	5	discourse	_	O
+2	How	how	WRB	_	3	advmod	_	O
+3	about	about	IN	_	0	root	_	O
+4	Michael	michael	NNP	_	5	compound	_	B-PERSON
+5	Moore	moore	NNP	_	3	pobj	_	L-PERSON
+6	?	?	.	_	3	punct	_	O
+

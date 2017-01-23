@@ -1,0 +1,15 @@
+1	#(	#(	-LRB-	pos2=SYM	3	punct	_	O
+2	JIGGA	jigga	NN	pos2=NNP	3	compound	_	O
+3	MAN	man	NN	_	0	root	_	O
+4	)	)	-RRB-	_	3	punct	_	O
+5	Paris	paris	NNP	_	7	compound	_	U-GPE
+6	L.	l.	NNP	_	7	compound	_	B-PERSON
+7	Wilson	wilson	NNP	_	2	nsubj	_	L-PERSON
+8	The	the	DT	pos2=NNP	11	det	_	O
+9	Gold	gold	NNP	pos2=NN	11	compound	_	B-ORG
+10	Standard	standard	NNP	_	11	compound	_	I-ORG
+11	Artist	artist	NNP	pos2=NN	7	appos	_	L-ORG
+12	.	.	.	_	3	punct	_	O
+
+1	https://t.co/HByA0RJTa8	#hlink#	ADD	_	0	root	_	U-ORG
+

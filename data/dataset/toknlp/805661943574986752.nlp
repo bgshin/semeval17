@@ -1,0 +1,25 @@
+1	#ItsTime	#itstime	NN	pos2=ADD	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	make	make	VB	_	1	relcl	_	O
+4	abortion	abortion	NN	_	5	nsubj	_	O
+5	illegal	illegal	JJ	_	3	ccomp	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	#Murder	#murder	NNP	pos2=NN	4	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	innocents	innocent	NNS	pos2=NNPS	2	pobj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	still	still	RB	_	4	advmod	_	O
+6	#murder	#murder	JJR	pos2=JJ	4	acomp	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	God	god	NNP	_	3	nsubj	_	O
+2	will	will	MD	_	3	aux	_	O
+3	judge	judge	VB	_	0	root	_	O
+4	#America	#america	NNP	pos2=PRP	3	dobj	_	U-PERSON
+5	for	for	IN	_	3	prep	_	O
+6	this	this	DT	_	7	det	_	O
+7	abominab	abominab	NN	pos2=GW	5	pobj	_	O
+8	…	…	NFP	pos2=-LRB-	9	punct	_	O
+9	https://t.co/tbPLDRhI1w	#hlink#	ADD	_	3	dep	_	O
+

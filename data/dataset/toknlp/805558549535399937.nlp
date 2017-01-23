@@ -1,0 +1,11 @@
+1	Animal	animal	NN	pos2=JJ	2	compound	_	O
+2	testing	testing	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	cruel	cruel	JJ	_	3	acomp	_	O
+5	,	,	,	_	4	punct	_	O
+6	unnecessary	unnecessary	JJ	_	4	conj	_	O
+7	,	,	,	_	6	punct	_	O
+8	and	and	CC	_	6	cc	_	O
+9	inhumane.#StopAnimalTests	inhumane.#stopanimaltests	NNS	pos2=ADD	10	nmod	_	O
+10	https://t.co/CoKNEoOqeA	#hlink#	ADD	pos2=VBP	6	conj	_	O
+

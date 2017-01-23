@@ -1,0 +1,11 @@
+1	So	so	RB	_	2	advmod	_	O
+2	thankful	thankful	JJ	_	10	dep	_	O
+3	for	for	IN	_	2	prep	_	O
+4	all	all	PDT	pos2=DT	7	predet	_	O
+5	my	my	PRP$	_	7	poss	_	O
+6	bad	bad	JJ	_	7	nmod	_	O
+7	hombres	hombre	NNS	_	3	pobj	_	O
+8	this	this	DT	_	9	det	_	O
+9	Thanksgiving🦃	thanksgiving🦃	-LRB-	pos2=NNP	10	punct	_	O
+10	https://t.co/ov45kkGBSN	#hlink#	ADD	pos2=NN	0	root	_	O
+

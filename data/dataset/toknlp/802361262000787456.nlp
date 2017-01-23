@@ -1,0 +1,29 @@
+1	If	if	IN	_	3	mark	_	O
+2	Trump	trump	NNP	pos2=NN	3	nsubj	_	U-ORG
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	good	good	JJ	_	6	nmod	_	O
+6	man	man	NN	_	3	attr	_	O
+7	he	he	PRP	_	9	nsubj	_	O
+8	will	will	MD	_	9	aux	_	O
+9	leave	leave	VB	_	6	relcl	_	O
+10	Medicare	medicare	NNP	_	9	dobj	_	U-ORG
+11	,	,	,	_	10	punct	_	O
+12	healthcare	healthcare	NN	_	10	conj	_	O
+13	&	&	CC	_	12	cc	_	O
+14	amp	amp	NN	_	12	conj	_	O
+15	;	;	,	pos2=:	10	punct	_	O
+16	SS	ss	NN	pos2=FW	12	conj	_	U-ORG
+17	alone	alone	RB	pos2=JJ	16	advmod	_	O
+18	.	.	.	_	3	punct	_	O
+
+1	He	he	PRP	_	3	nsubj	_	O
+2	will	will	MD	_	3	aux	_	O
+3	address	address	VB	_	0	root	_	O
+4	capitalism	capitalism	NN	_	3	dobj	_	O
+5	and	and	CC	_	4	cc	_	O
+6	student	student	NN	_	4	conj	_	O
+7	lo	lo	GW	pos2=JJ	3	punct	_	O
+8	…	…	NFP	pos2=GW	3	discourse	_	O
+9	https://t.co/8AtHqwHW2N	#hlink#	ADD	pos2=NN	3	dobj	_	O
+

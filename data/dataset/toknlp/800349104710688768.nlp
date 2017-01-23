@@ -1,0 +1,17 @@
+1	A	a	DT	pos2=LS	3	det	_	O
+2	CLOSE	close	NN	pos2=JJ	0	root	_	O
+3	UP	up	NN	pos2=RP	2	prt	_	O
+4	OF	of	IN	_	2	prep	_	O
+5	A	a	DT	pos2=NNP	6	det	_	O
+6	FAMILY	family	NN	_	4	pobj	_	O
+7	SEPARATED	separate	VBN	_	2	acl	_	O
+8	BY	by	IN	_	7	agent	_	O
+9	THE	the	DT	_	11	det	_	O
+10	MEXICAN	mexican	JJ	_	11	nmod	_	U-NORP
+11	WALL	wall	NN	pos2=NNP	8	pobj	_	O
+12	.	.	.	_	7	punct	_	O
+
+1	https://t.co/IjHgN72Glg	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@nytimesphoto	@nytimesphoto	FW	pos2=NN	2	pobj	_	O
+

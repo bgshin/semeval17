@@ -1,0 +1,17 @@
+1	@AMindHalfFull	@amindhalffull	UH	pos2=NN	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	forgot	forget	VBD	_	0	root	_	O
+4	Persona	persona	NNP	pos2=NN	3	dobj	_	O
+5	5	0	CD	_	4	nmod	_	U-CARDINAL
+6	was	be	VBD	_	3	ccomp	_	O
+7	a	a	DT	_	8	det	_	O
+8	thing	thing	NN	_	6	attr	_	O
+9	But	but	CC	_	3	cc	_	O
+10	yes	yes	UH	_	6	discourse	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	There	there	EX	_	2	expl	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	always	always	RB	_	2	advmod	_	O
+4	this	this	DT	_	2	attr	_	O
+

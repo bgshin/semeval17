@@ -1,0 +1,15 @@
+1	@bunkerwsmith	@bunkerwsmith	UH	pos2=XX	5	discourse	_	O
+2	@T1GlistenerElf	@t0glistenerelf	IN	pos2=PDT	0	root	_	O
+3	Another	another	DT	_	5	det	_	O
+4	pathetic	pathetic	JJ	_	5	nmod	_	O
+5	nazi	nazi	NN	pos2=NNS	2	pobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	If	if	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	got	get	VBD	pos2=VBP	7	advcl	_	O
+4	a	a	DT	_	5	det	_	O
+5	problem	problem	NN	_	3	dobj	_	O
+6	then	then	RB	_	7	advmod	_	O
+7	leave	leave	VB	pos2=VBP	0	root	_	O
+

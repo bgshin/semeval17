@@ -1,0 +1,28 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	not	not	RB	_	2	neg	_	O
+4	the	the	DT	_	5	det	_	O
+5	1800's	0's	NNS	_	2	attr	_	O
+6	anymore	anymore	RB	pos2=RBR	2	advmod	_	O
+7	John	john	NNP	_	2	attr	_	U-PERSON
+8	.	.	.	_	2	punct	_	O
+
+1	Remember	remember	VB	_	0	root	_	O
+2	9-11	0	CD	pos2=LS	1	dobj	_	U-CARDINAL
+3	.	.	.	_	1	punct	_	O
+
+1	There	there	EX	_	2	expl	_	O
+2	are	be	VBP	_	0	root	_	O
+3	Bad	bad	JJ	pos2=NNP	4	nmod	_	O
+4	Hombres	hombres	NNP	pos2=NNS	2	attr	_	O
+5	from	from	IN	_	4	prep	_	O
+6	overseas	overseas	RB	pos2=JJ	5	pcomp	_	O
+7	that	that	WDT	pos2=DT	8	nsubj	_	O
+8	want	want	VBP	_	4	relcl	_	O
+9	to	to	TO	_	10	aux	_	O
+10	destroy	destroy	VB	_	8	xcomp	_	O
+11	the	the	DT	_	12	det	_	O
+12	U.S.	u.s.	NNP	_	10	dobj	_	U-GPE
+13	…	…	NFP	pos2=-LRB-	14	punct	_	O
+14	https://t.co/O7Upv0eEVY	#hlink#	ADD	_	2	dep	_	O
+

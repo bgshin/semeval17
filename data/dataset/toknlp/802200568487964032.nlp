@@ -1,0 +1,15 @@
+1	There	there	EX	_	3	expl	_	O
+2	's	's	VBZ	_	3	aux	_	O
+3	going	go	VBG	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	be	be	VB	_	3	xcomp	_	O
+6	a	a	DT	_	9	det	_	O
+7	SS	ss	NN	pos2=JJ	8	compound	_	U-ORG
+8	valentines	valentine	NNS	pos2=NN	9	compound	_	O
+9	ep	ep	NN	pos2=PRP	5	attr	_	O
+10	can	can	MD	_	12	aux	_	O
+11	you	you	PRP	_	12	nsubj	_	O
+12	hear	hear	VB	pos2=VBP	8	parataxis	_	O
+13	me	me	PRP	_	14	nsubj	_	O
+14	Scream	scream	VB	pos2=NNP	12	ccomp	_	O
+

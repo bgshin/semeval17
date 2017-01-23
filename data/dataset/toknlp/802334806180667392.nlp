@@ -1,0 +1,24 @@
+1	@Veknironth	@veknironth	NNP	pos2=NN	13	npadvmod	_	O
+2	As	as	IN	_	1	prep	_	O
+3	a	a	DT	_	6	det	_	O
+4	high	high	JJ	_	5	nmod	_	O
+5	school	school	NN	_	6	compound	_	O
+6	quarterback	quarterback	NN	_	2	pobj	_	O
+7	,	,	,	_	13	punct	_	O
+8	Kim	kim	NNP	_	11	compound	_	B-PERSON
+9	Jong	jong	NNP	_	11	compound	_	I-PERSON
+10	-	-	HYPH	_	11	punct	_	I-PERSON
+11	un	un	NNP	pos2=VBN	13	nsubj	_	L-PERSON
+12	once	once	RB	_	13	advmod	_	O
+13	threw	throw	VBD	_	0	root	_	O
+14	an	an	DT	_	15	det	_	O
+15	interception	interception	NN	_	13	dobj	_	O
+16	to	to	IN	_	13	prep	_	O
+17	himself	himself	PRP	_	16	pobj	_	O
+18	and	and	CC	_	13	cc	_	O
+19	returned	return	VBD	_	13	conj	_	O
+20	it	it	PRP	_	19	dobj	_	O
+21	for	for	IN	_	19	prep	_	O
+22	a	a	DT	_	23	det	_	O
+23	touchdown	touchdown	NN	_	21	pobj	_	O
+

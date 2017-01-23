@@ -1,0 +1,19 @@
+1	@JackPosobiec	@jackposobiec	NNP	pos2=NNS	0	root	_	O
+2	Also	also	RB	_	4	advmod	_	O
+3	gun	gun	NN	pos2=VBZ	4	compound	_	O
+4	control	control	NN	_	1	appos	_	O
+5	which	which	WDT	_	6	nsubj	_	O
+6	leads	lead	VBZ	_	4	relcl	_	O
+7	to	to	IN	_	6	prep	_	O
+8	property	property	NN	_	9	compound	_	O
+9	confiscation	confiscation	NN	_	7	pobj	_	O
+10	&	&	CC	_	9	cc	_	O
+11	extemporaneousness	extemporaneousness	NN	pos2=IN	12	compound	_	O
+12	execution	execution	NN	_	9	conj	_	O
+13	&	&	CC	_	12	cc	_	O
+14	FEMA	fema	NNP	pos2=NN	15	compound	_	U-ORG
+15	camps	camp	NNS	_	12	conj	_	O
+16	&	&	CC	_	15	cc	_	O
+17	extermination	extermination	NN	_	18	compound	_	O
+18	#Agenda21	#agenda0	NN	pos2=NNS	15	conj	_	O
+

@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det	_	O
+2	joys	joy	NNS	pos2=NN	12	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	studying	study	VBG	_	3	pcomp	_	O
+5	for	for	IN	_	4	prep	_	O
+6	2	0	CD	_	8	nmod	_	U-CARDINAL
+7	final	final	JJ	pos2=NN	8	nmod	_	O
+8	exams	exam	NNS	_	5	pobj	_	O
+9	:	:	:	_	12	punct	_	O
+10	going	go	VBG	_	12	nmod	_	O
+11	US	us	NNP	pos2=PRP	12	compound	_	U-GPE
+12	federalism	federalism	NN	_	0	root	_	O
+13	to	to	IN	_	12	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	topic	topic	NN	_	13	pobj	_	O
+16	of	of	IN	_	15	prep	_	O
+17	euthanasia	euthanasia	NN	_	16	pobj	_	O
+18	and	and	CC	_	17	cc	_	O
+19	disability	disability	NN	_	17	conj	_	O
+20	>	>	SYM	pos2=''	12	punct	_	O
+21	.	.	.	_	12	punct	_	O
+
+1	>	>	SYM	pos2=XX	0	root	_	O
+

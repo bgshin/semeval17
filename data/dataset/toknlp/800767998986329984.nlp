@@ -1,0 +1,21 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@UC_ArtSci	@uc_artsci	NNP	pos2=XX	4	compound	_	O
+2	Prof	prof	NNP	_	4	compound	_	O
+3	Chris	chris	NNP	_	4	compound	_	B-PERSON
+4	Bachelder	bachelder	NNP	_	0	root	_	L-PERSON
+5	a	a	DT	_	7	det	_	O
+6	#NBAwards	#nbawards	ADD	pos2=NNP	7	nmod	_	O
+7	finalist	finalist	NN	_	4	appos	_	O
+8	for	for	IN	_	7	prep	_	O
+9	novel	novel	NN	_	8	pobj	_	O
+10	dubbed	dub	VBN	pos2=VBD	9	acl	_	O
+11	"	"	``	pos2=''	13	punct	_	O
+12	comic	comic	JJ	_	13	nmod	_	O
+13	masterpiece	masterpiece	NN	_	10	oprd	_	O
+14	.	.	.	_	4	punct	_	O
+15	"	"	''	_	4	punct	_	O
+
+1	https://t.co/co64lt6O3t	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/ASwSD0sC9O	#hlink#	ADD	_	0	root	_	U-ORG
+

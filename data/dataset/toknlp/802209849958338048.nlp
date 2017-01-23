@@ -1,0 +1,10 @@
+1	@PennStateMGYM	@pennstatemgym	UH	pos2=ADD	6	discourse	_	O
+2	@RaeSremmurd	@raesremmurd	ADD	pos2=UH	6	punct	_	O
+3	@espn	@espn	UH	pos2=NNP	6	discourse	_	O
+4	Now	now	RB	pos2=UH	6	advmod	_	O
+5	that	that	DT	_	6	nsubj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	awesome	awesome	JJ	_	9	nmod	_	O
+8	#mannequinchallenge	#mannequinchallenge	NN	pos2=XX	9	compound	_	O
+9	#WeAre	#weare	NN	pos2=ADD	6	attr	_	O
+

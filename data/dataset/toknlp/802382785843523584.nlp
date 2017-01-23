@@ -1,0 +1,13 @@
+1	@thetreymanhere	@thetreymanhere	UH	pos2=RB	6	discourse	_	O
+2	@GayPatriot	@gaypatriot	RB	pos2=NN	6	advmod	_	O
+3	now	now	RB	pos2=UH	6	advmod	_	O
+4	we	we	PRP	_	6	nsubj	_	O
+5	just	just	RB	_	6	advmod	_	O
+6	need	need	VBP	_	0	root	_	O
+7	similar	similar	JJ	_	8	nmod	_	O
+8	news	news	NN	_	6	dobj	_	O
+9	about	about	IN	_	8	prep	_	O
+10	George	george	NNP	_	11	compound	_	B-PERSON
+11	Soros	soros	NNP	_	9	pobj	_	L-PERSON
+12	!	!	.	_	6	punct	_	O
+

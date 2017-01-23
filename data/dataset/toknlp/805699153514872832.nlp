@@ -1,0 +1,27 @@
+1	Me	me	PRP	pos2=UH	4	nsubj	_	O
+2	ha	ha	UH	pos2=RP	0	root	_	O
+3	gustado	gustado	XX	pos2=IN	7	nmod	_	O
+4	un	un	VBG	pos2=IN	7	nmod	_	O
+5	vídeo	vídeo	NNP	pos2=FW	7	nmod	_	U-ORG
+6	de	de	GW	pos2=NNP	7	nmod	_	O
+7	@YouTube	@youtube	NNP	pos2=GW	2	discourse	_	O
+8	(	(	-LRB-	_	12	punct	_	O
+9	https://t.co/oAIW35egSE	#hlink#	ADD	pos2=NN	12	nmod	_	O
+10	-	-	HYPH	pos2=:	12	punct	_	O
+11	Cristiano	cristiano	NNP	_	12	compound	_	B-PERSON
+12	Ronaldo	ronaldo	NNP	_	7	appos	_	L-PERSON
+13	..	..	.	pos2=,	9	punct	_	O
+
+1	If	if	IN	_	5	mark	_	O
+2	you	you	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	believe	believe	VB	_	8	advcl	_	O
+6	in	in	IN	_	5	prep	_	O
+7	Him	him	PRP	pos2=NNP	6	pobj	_	O
+8	watch	watch	VBP	pos2=VB	0	root	_	O
+9	the	the	DT	_	10	det	_	O
+10	video	video	NN	_	8	dobj	_	O
+11	|	|	,	pos2=SYM	8	punct	_	O
+12	you	you	PRP	_	10	appos	_	O
+

@@ -1,0 +1,8 @@
+1	Are	be	VBP	_	3	aux	_	O
+2	we	we	PRP	_	3	nsubj	_	O
+3	going	go	VBG	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	have	have	VB	_	3	xcomp	_	O
+6	fireworks	firework	NNS	_	5	dobj	_	O
+7	#ThisIsUs	#thisisus	.	pos2=NN	3	punct	_	O
+

@@ -1,0 +1,19 @@
+1	Fascinating	fascinating	JJ	_	2	nmod	_	O
+2	interview	interview	NN	_	0	root	_	O
+3	with	with	IN	_	2	prep	_	O
+4	former	former	JJ	_	6	nmod	_	O
+5	Georgia	georgia	NNP	_	6	compound	_	U-GPE
+6	President	president	NNP	_	8	compound	_	O
+7	Mikheil	mikheil	NNP	_	8	compound	_	B-PERSON
+8	Saakashvili	saakashvili	NNP	_	3	pobj	_	L-PERSON
+9	-	-	,	pos2=:	2	punct	_	O
+10	very	very	RB	_	11	advmod	_	O
+11	candid	candid	JJ	_	2	nmod	_	O
+12	about	about	IN	_	11	prep	_	O
+13	Putin	putin	NNP	_	12	pobj	_	U-PERSON
+14	,	,	,	_	13	punct	_	O
+15	Trump	trump	NNP	_	13	conj	_	B-ORG
+16	&	&	CC	_	15	cc	_	I-ORG
+17	NATO	nato	NNP	_	15	conj	_	L-ORG
+18	https://t.co/GJaoRPAwGv	#hlink#	ADD	pos2=NN	13	appos	_	O
+

@@ -1,0 +1,25 @@
+1	@arangolord	@arangolord	UH	pos2=XX	7	discourse	_	O
+2	@MEArthurton	@mearthurton	UH	pos2=ADD	7	discourse	_	O
+3	@Lookinabout	@lookinabout	UH	pos2=NNP	7	discourse	_	O
+4	shhh	shhh	UH	_	7	discourse	_	O
+5	I	I	PRP	_	7	nsubj	_	O
+6	can	can	MD	_	7	aux	_	O
+7	see	see	VB	_	0	root	_	O
+8	this	this	DT	_	9	det	_	O
+9	tweet	tweet	NN	_	7	dobj	_	O
+10	not	not	RB	_	11	neg	_	O
+11	private	private	JJ	_	8	appos	_	O
+12	!	!	.	_	7	punct	_	O
+
+1	#deplorables	#deplorables	NNS	pos2=UH	4	nsubj	_	O
+2	are	be	VBP	_	4	aux	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	using	use	VBG	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	kid	kid	NN	_	4	dobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	play	play	VB	_	4	xcomp	_	O
+9	a	a	DT	_	11	det	_	O
+10	mean	mean	JJ	pos2=NN	11	nmod	_	O
+11	game	game	NN	_	8	dobj	_	O
+

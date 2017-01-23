@@ -1,0 +1,25 @@
+1	If	if	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	celebrated	celebrate	VBD	_	10	advcl	_	O
+4	Thanksgiving	thanksgiving	NNP	_	3	dobj	_	U-DATE
+5	from	from	IN	_	3	prep	_	O
+6	abroad	abroad	RB	_	5	pcomp	_	B-DATE
+7	this	this	DT	_	8	det	_	I-DATE
+8	year	year	NN	_	3	npadvmod	_	L-DATE
+9	,	,	,	_	10	punct	_	O
+10	send	send	VB	pos2=VBP	0	root	_	O
+11	us	us	PRP	_	10	dative	_	O
+12	photos	photo	NNS	pos2=VBZ	10	dobj	_	O
+13	from	from	IN	_	12	prep	_	O
+14	your	your	PRP$	_	15	poss	_	O
+15	experience	experience	NN	_	13	pobj	_	O
+16	&	&	CC	_	10	cc	_	O
+17	we	we	PRP	_	19	nsubj	_	O
+18	can	can	MD	_	19	aux	_	O
+19	share	share	VB	_	10	conj	_	O
+20	them	them	PRP	_	19	dobj	_	O
+21	!	!	.	_	19	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/lvbwId1esd	#hlink#	ADD	pos2=NN	0	root	_	O
+

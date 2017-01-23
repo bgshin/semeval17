@@ -1,0 +1,24 @@
+1	40	0	CD	_	11	nsubjpass	_	U-CARDINAL
+2	of	of	IN	_	1	prep	_	O
+3	Messi	messi	NNP	_	6	poss	_	U-PERSON
+4	's	's	POS	_	3	case	_	O
+5	471	0	CD	_	6	nmod	_	U-CARDINAL
+6	goals	goal	NNS	_	2	pobj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	Barca	barca	NNP	_	7	pobj	_	U-PERSON
+9	have	have	VBP	_	11	aux	_	O
+10	been	be	VBN	_	11	auxpass	_	O
+11	assisted	assist	VBN	_	0	root	_	O
+12	by	by	IN	_	11	agent	_	O
+13	his	his	PRP$	_	15	poss	_	O
+14	striking	striking	JJ	_	15	nmod	_	O
+15	partners	partner	NNS	_	12	pobj	_	O
+16	Neymar	neymar	NNP	_	15	appos	_	O
+17	(20)	(0)	CD	pos2=-RRB-	16	nmod	_	O
+18	and	and	CC	_	16	cc	_	O
+19	Suarez	suarez	NNP	_	16	conj	_	B-ORG
+20	(20)	(0)	CD	pos2=GW	11	punct	_	I-ORG
+21	#fcblive	#fcblive	IN	pos2=GW	11	prep	_	L-ORG
+22	…	…	NFP	pos2=-LRB-	21	pobj	_	O
+23	https://t.co/GVjFQb99WX	#hlink#	ADD	_	21	pobj	_	U-ORG
+

@@ -1,0 +1,10 @@
+1	#Ashley	#ashley	NNP	pos2=XX	2	compound	_	B-PERSON
+2	#Graham	#graham	NNP	pos2=XX	3	nsubj	_	L-PERSON
+3	#needed	#needed	VBD	pos2=ADD	0	root	_	O
+4	#affirmation	#affirmation	NN	pos2=CD	3	dobj	_	O
+5	after	after	IN	_	3	prep	_	O
+6	being	be	VBG	_	5	pcomp	_	O
+7	#dumped	#dumped	GW	pos2=VBN	9	nmod	_	O
+8	https://t.co/sDfLv7UED1	#hlink#	ADD	pos2=GW	9	nmod	_	O
+9	https://t.co/niBTWsX5ar	#hlink#	ADD	_	3	dep	_	U-ORG
+

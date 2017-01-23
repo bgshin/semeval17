@@ -1,0 +1,19 @@
+1	@LauraOutThere	@lauraoutthere	ADD	pos2=WRB	5	punct	_	O
+2	someone	someone	NN	_	3	nsubj	_	O
+3	has	have	VBZ	_	5	aux	_	O
+4	feelings	feeling	NNS	_	5	nsubj	_	O
+5	hurt	hurt	VBN	pos2=VB	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	Those	those	DT	_	4	det	_	O
+2	sweet	sweet	JJ	_	4	nmod	_	O
+3	tolerant	tolerant	JJ	_	4	nmod	_	O
+4	liberals	liberal	NNS	_	6	nsubj	_	O
+5	never	never	RB	_	6	neg	_	O
+6	DM	dm	VBP	pos2=VB	0	root	_	O
+7	me	me	PRP	_	6	dobj	_	O
+8	.	.	.	_	6	punct	_	O
+
+1	Bummed	bum	VBN	pos2=VBD	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+

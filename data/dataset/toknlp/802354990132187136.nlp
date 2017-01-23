@@ -1,0 +1,22 @@
+1	MT	mt	NN	pos2=NNP	2	compound	_	O
+2	@RRudowitz	@rrudowitz	NN	pos2=NNS	6	dep	_	O
+3	:	:	:	_	6	punct	_	O
+4	Top	top	JJ	pos2=NNP	7	nmod	_	O
+5	3	0	CD	_	7	nmod	_	U-CARDINAL
+6	#Medicaid	#medicaid	VBN	pos2=NN	7	nmod	_	O
+7	issues	issue	NNS	_	10	dep	_	O
+8	post-election	post-election	JJ	pos2=RB	7	nmod	_	O
+9	:	:	:	_	13	punct	_	O
+10	ACA	aca	NN	_	11	compound	_	O
+11	repeal	repeal	NN	_	0	root	_	O
+12	,	,	,	_	11	punct	_	O
+13	block	block	NN	pos2=VB	14	compound	_	O
+14	grants	grant	NNS	_	11	conj	_	O
+15	and	and	CC	_	14	cc	_	O
+16	administrative	administrative	JJ	_	17	nmod	_	O
+17	changes	change	NNS	_	14	conj	_	O
+18	.	.	.	_	13	punct	_	O
+
+1	https://t.co/21b0qLAFdp	#hlink#	ADD	_	0	root	_	O
+2	#AUPOSC	#auposc	-RRB-	pos2=ADD	1	punct	_	U-ORG
+

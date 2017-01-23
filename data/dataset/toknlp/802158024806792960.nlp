@@ -1,0 +1,19 @@
+1	Ride	ride	NN	pos2=VB	3	compound	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	sharing	sharing	NN	pos2=VBG	4	compound	_	O
+4	starts	start	NNS	pos2=VBZ	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	change	change	VB	_	4	xcomp	_	O
+7	the	the	DT	_	8	det	_	O
+8	way	way	NN	_	9	compound	_	O
+9	cities	city	NNS	_	6	dobj	_	O
+10	,	,	,	_	13	punct	_	O
+11	urban	urban	JJ	_	12	nmod	_	O
+12	landlords	landlord	NNS	_	13	nsubj	_	O
+13	think	think	VBP	pos2=VB	0	root	_	O
+14	about	about	IN	_	18	nmod	_	O
+15	real	real	JJ	_	16	nmod	_	O
+16	estate	estate	NN	_	14	pobj	_	O
+17	#uber	#uber	GW	pos2=IN	18	nmod	_	O
+18	https://t.co/5amnC0Ozp5	#hlink#	ADD	pos2=NN	13	dep	_	O
+

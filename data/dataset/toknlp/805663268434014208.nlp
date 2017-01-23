@@ -1,0 +1,25 @@
+1	There	there	EX	_	2	expl	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	whole	whole	JJ	pos2=NN	5	nmod	_	O
+5	industry	industry	NN	_	2	attr	_	O
+6	,	,	,	_	5	punct	_	O
+7	a	a	DT	_	9	det	_	O
+8	veritable	veritable	JJ	_	9	nmod	_	O
+9	Ministry	ministry	NNP	pos2=NN	5	appos	_	B-ORG
+10	of	of	IN	_	9	prep	_	I-ORG
+11	Truth	truth	NNP	_	10	pobj	_	L-ORG
+12	,	,	,	_	5	punct	_	O
+13	tasked	task	VBD	pos2=VBN	9	acl	_	O
+14	w	w	IN	pos2=RB	13	prep	_	O
+15	/	/	HYPH	_	14	punct	_	O
+16	lying	lie	VBG	pos2=NN	14	pcomp	_	O
+17	to	to	TO	_	18	aux	_	O
+18	undermine	undermine	VB	_	16	advcl	_	O
+19	efforts	effort	NNS	_	18	dobj	_	O
+20	to	to	TO	_	21	aux	_	O
+21	raise	raise	VB	_	19	acl	_	O
+22	#wages	#wages	NNS	pos2=ADD	21	dobj	_	B-MONEY
+23	https://t.co/Gtw5ohn7xK	#hlink#	ADD	_	24	nmod	_	I-MONEY
+24	#FF15	#ff0	NN	pos2=NNS	21	npadvmod	_	L-MONEY
+

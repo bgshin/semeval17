@@ -1,0 +1,14 @@
+1	@eniapantsss	@eniapantsss	UH	pos2=XX	5	discourse	_	O
+2	@juliagoettl	@juliagoettl	UH	pos2=MD	5	discourse	_	O
+3	@ellie2000c	@ellie0c	NN	pos2=MD	5	nsubj	_	O
+4	@emily_casseday	@emily_casseday	NNP	pos2=MD	3	appos	_	O
+5	Get	get	VB	pos2=VBP	0	root	_	O
+6	the	the	DT	_	8	det	_	O
+7	pasta	pasta	NN	_	8	compound	_	O
+8	fascists	fascist	NNS	_	12	nsubj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	bad	bad	JJ	_	11	nmod	_	O
+11	hombres	hombre	NNS	pos2=FW	8	conj	_	O
+12	outta	outta	NN	pos2=VBN	5	ccomp	_	O
+13	here	here	RB	_	12	advmod	_	O
+

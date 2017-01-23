@@ -1,0 +1,24 @@
+1	Plans	plan	VBZ	pos2=NNS	0	root	_	O
+2	this	this	DT	_	3	det	_	B-DATE
+3	weekend	weekend	NN	_	1	nsubj	_	L-DATE
+4	?	?	.	_	1	punct	_	O
+
+1	Thinking	think	VBG	pos2=NN	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	seeing	see	VBG	pos2=NN	2	pcomp	_	O
+4	#FantasticBeasts	#fantasticbeasts	NNS	pos2=PRP	3	dobj	_	U-PERSON
+5	?	?	.	_	1	punct	_	O
+
+1	All	all	DT	_	2	det	_	O
+2	muggles	muggle	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	welcome	welcome	JJ	_	3	acomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	come	come	VB	_	4	xcomp	_	O
+7	DOWNSTAIRS	downstairs	RB	_	6	advmod	_	O
+8	for	for	IN	_	6	prep	_	O
+9	some	some	DT	_	10	det	_	O
+10	bowlin	bowlin	NN	pos2=NNP	8	pobj	_	O
+11	…	…	NFP	pos2=-LRB-	12	punct	_	O
+12	https://t.co/j7bVBtk3Dy	#hlink#	ADD	_	3	dep	_	O
+

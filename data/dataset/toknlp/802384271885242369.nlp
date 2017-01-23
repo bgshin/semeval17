@@ -1,0 +1,36 @@
+1	Man	man	NN	pos2=NNP	5	nsubj	_	O
+2	,	,	,	_	5	punct	_	O
+3	2016	0	CD	pos2=''	5	nsubj	_	U-DATE
+4	has	have	VBZ	_	5	aux	_	O
+5	been	be	VBN	_	0	root	_	O
+6	a	a	DT	_	8	det	_	O
+7	heavy	heavy	JJ	_	8	nmod	_	O
+8	hitter	hitter	NN	_	5	attr	_	O
+9	!	!	.	_	5	punct	_	O
+
+1	Robert	robert	NNP	_	2	compound	_	B-PERSON
+2	Vaughn	vaughn	NNP	_	0	root	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	Leonard	leonard	NNP	_	5	compound	_	B-PERSON
+5	Cohen	cohen	NNP	_	2	conj	_	L-PERSON
+6	,	,	,	_	5	punct	_	O
+7	Arnie	arnie	NNP	_	8	compound	_	B-PERSON
+8	Palmer	palmer	NNP	_	5	conj	_	L-PERSON
+9	,	,	,	_	8	punct	_	O
+10	Gene	gene	NNP	_	11	compound	_	B-PERSON
+11	Wilder	wilder	NNP	_	8	conj	_	L-PERSON
+12	,	,	,	_	11	punct	_	O
+13	John	john	NNP	_	14	compound	_	B-PERSON
+14	Saunders	saunders	NNP	_	11	conj	_	L-PERSON
+15	,	,	,	_	14	punct	_	O
+16	Flo	flo	NNP	_	17	compound	_	B-PERSON
+17	Henderson	henderson	NNP	_	14	conj	_	L-PERSON
+18	,	,	,	_	17	punct	_	O
+19	Ali	ali	NNP	_	17	conj	_	U-PERSON
+20	,	,	,	_	19	punct	_	O
+21	etc.	etc.	FW	_	19	conj	_	O
+22	.	.	.	_	2	punct	_	O
+
+1	Sigh	sigh	NN	pos2=UH	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

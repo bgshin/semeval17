@@ -1,0 +1,17 @@
+1	Worldwide	worldwide	JJ	pos2=RB	3	nmod	_	O
+2	kickoff	kickoff	NN	_	3	compound	_	O
+3	times	time	NNS	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	game	game	NN	_	4	pobj	_	O
+7	against	against	IN	_	6	prep	_	O
+8	Real	real	NNP	pos2=JJ	9	compound	_	B-ORG
+9	Sociedad	sociedad	NNP	_	7	pobj	_	L-ORG
+10	.	.	.	_	3	punct	_	O
+
+1	[	[	-LRB-	_	2	punct	_	O
+2	fcb	fcb	NN	pos2=NNP	5	dep	_	O
+3	]	]	-RRB-	_	2	punct	_	O
+4	#FCBlive	#fcblive	ADD	pos2=GW	5	punct	_	O
+5	https://t.co/iE1xU9kKBP	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

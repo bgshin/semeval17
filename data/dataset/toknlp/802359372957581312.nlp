@@ -1,0 +1,17 @@
+1	@jbarro	@jbarro	UH	pos2=XX	16	discourse	_	O
+2	@Nate_Cohn	@nate_cohn	NNP	pos2=XX	16	dep	_	U-GPE
+3	Very	very	RB	_	4	advmod	_	O
+4	concerning	concerning	JJ	pos2=VBG	2	nmod	_	O
+5	that	that	IN	pos2=DT	9	mark	_	O
+6	Obama	obama	NNP	_	7	compound	_	U-PERSON
+7	admin	admin	NN	_	9	nsubj	_	O
+8	not	not	RB	_	9	neg	_	O
+9	addressing	address	VBG	_	16	advcl	_	O
+10	serious	serious	JJ	_	11	nmod	_	O
+11	questions	question	NNS	_	9	dobj	_	O
+12	a	a	DT	pos2=XX	15	det	_	O
+13	re	re	AFX	pos2=JJ	14	nmod	_	O
+14	election	election	NN	_	15	compound	_	O
+15	tampering	tampering	NN	pos2=VBG	16	dep	_	O
+16	https://t.co/7XgAYOv4eI	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

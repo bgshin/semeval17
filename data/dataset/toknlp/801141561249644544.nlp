@@ -1,0 +1,22 @@
+1	BREAKING	break	VBG	pos2=NN	6	nmod	_	O
+2	-	-	:	pos2=HYPH	6	punct	_	O
+3	Top	top	NNP	pos2=JJ	6	compound	_	O
+4	Fox	fox	NNP	_	6	compound	_	B-ORG
+5	News	news	NNP	_	6	compound	_	I-ORG
+6	Host	host	NNP	pos2=NN	21	dep	_	L-ORG
+7	to	to	IN	pos2=TO	8	aux	_	O
+8	QUIT	quit	VB	pos2=NN	5	advcl	_	O
+9	-	-	HYPH	pos2=:	8	punct	_	O
+10	to	to	IN	pos2=TO	8	prep	_	O
+11	Work	work	VB	pos2=NNP	10	pobj	_	O
+12	for	for	IN	_	8	prep	_	O
+13	Donald	donald	NNP	_	19	compound	_	B-PERSON
+14	J.	j.	NNP	_	19	compound	_	I-PERSON
+15	Trump	trump	NNP	_	19	compound	_	L-PERSON
+16	#TrumpTransitionTeam	#trumptransitionteam	NNP	pos2=POS	19	compound	_	O
+17	#Fox	#fox	NNP	_	19	compound	_	B-ORG
+18	News	news	NNP	_	19	compound	_	L-ORG
+19	#POTUS	#potus	NNP	pos2=POS	12	pobj	_	O
+20	@SEC_SAM	@sec_sam	ADD	pos2=GW	21	dep	_	O
+21	https://t.co/JiFxi5RsFl	#hlink#	ADD	_	0	root	_	O
+

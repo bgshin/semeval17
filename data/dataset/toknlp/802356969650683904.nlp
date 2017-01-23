@@ -1,0 +1,12 @@
+1	NY	ny	NNP	pos2=NN	5	poss	_	U-GPE
+2	’s	's	POS	_	1	case	_	O
+3	largest	large	JJS	_	5	nmod	_	O
+4	Medicaid	medicaid	NNP	pos2=NN	5	compound	_	U-ORG
+5	provider	provider	NN	_	7	nsubj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	pull	pull	VB	_	0	root	_	O
+8	out	out	IN	pos2=RB	7	prep	_	O
+9	of	of	IN	_	8	prep	_	O
+10	LI	li	NNP	pos2=NN	9	pobj	_	O
+11	https://t.co/8zoePx1Dso	#hlink#	ADD	pos2=NNP	7	dobj	_	O
+

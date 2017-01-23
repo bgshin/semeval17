@@ -1,0 +1,29 @@
+1	'	'	``	_	4	punct	_	O
+2	We	we	PRP	_	4	nsubj	_	O
+3	’ve	have	VBP	_	4	aux	_	O
+4	Seen	see	VBN	_	0	root	_	O
+5	What	what	WP	pos2=NNP	9	dobj	_	O
+6	Obama	obama	NNP	_	7	compound	_	U-PERSON
+7	Admin	admin	NN	pos2=NNP	9	nsubj	_	O
+8	Is	be	VBZ	_	9	aux	_	O
+9	Doing	do	VBG	pos2=NNP	4	ccomp	_	O
+10	,	,	,	_	4	punct	_	O
+11	Just	just	RB	pos2=NNP	12	advmod	_	O
+12	Hauling	haul	VBG	_	4	advcl	_	O
+13	in	in	IN	pos2=RP	12	prep	_	O
+14	3rd	#ord#	JJ	pos2=NN	15	nmod	_	U-ORDINAL
+15	World	world	NN	pos2=NNP	13	pobj	_	O
+16	:	:	:	_	18	punct	_	O
+17	Ann	ann	NNP	_	18	compound	_	B-PERSON
+18	Coulter	coulter	NNP	_	12	dobj	_	L-PERSON
+19	on	on	IN	_	18	prep	_	O
+20	Cabinet	cabinet	NNP	_	19	pobj	_	U-ORG
+21	,	,	,	_	20	punct	_	O
+22	Immigration	immigration	NNP	_	20	conj	_	U-ORG
+23	,	,	,	_	22	punct	_	O
+24	The	the	DT	pos2=NNP	25	det	_	O
+25	Wall	wall	NNP	pos2=NN	22	conj	_	O
+26	...	..	.	pos2=,	4	punct	_	O
+
+1	https://t.co/2bQhmU1Jxa	#hlink#	ADD	_	0	root	_	U-ORG
+

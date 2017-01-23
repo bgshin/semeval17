@@ -1,0 +1,18 @@
+1	#Beauty	#beauty	NNP	pos2=NN	4	compound	_	O
+2	#ArianaGrande	#arianagrande	NN	pos2=RB	4	compound	_	O
+3	-	-	HYPH	pos2=:	4	punct	_	O
+4	CHRISTMAS	christmas	NNP	pos2=NN	10	nsubj	_	O
+5	&	&	CC	_	4	cc	_	O
+6	CHILL	chill	NN	pos2=NNP	8	compound	_	O
+7	-	-	HYPH	pos2=:	8	punct	_	O
+8	JAPAN	japan	NNP	pos2=NN	4	conj	_	U-GPE
+9	ONLY	only	RB	_	10	advmod	_	O
+10	#CD	#cd	VBD	pos2=IN	0	root	_	O
+11	BONUS	bonus	NN	pos2=NNP	17	dep	_	O
+12	TRACK	track	NN	_	13	compound	_	O
+13	C94	c0	NN	pos2=GW	17	dep	_	O
+14	https://t.co/pDp9gEqAW6	#hlink#	ADD	pos2=NN	17	nmod	_	O
+15	#Deals	#deals	NNS	pos2=VBZ	17	nmod	_	B-DATE
+16	#TopSeller	#topseller	ADD	pos2=GW	17	punct	_	L-DATE
+17	https://t.co/1cEhc7IqDj	#hlink#	ADD	_	10	dobj	_	O
+

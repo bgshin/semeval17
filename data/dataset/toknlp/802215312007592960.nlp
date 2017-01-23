@@ -1,0 +1,23 @@
+1	Fans	fan	NNS	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	find	find	VB	_	0	root	_	O
+4	Base	base	NNP	pos2=NN	5	compound	_	O
+5	Series	series	NNP	pos2=NN	3	dobj	_	O
+6	2	0	CD	_	5	nmod	_	O
+7	in	in	IN	_	3	prep	_	O
+8	The	the	DT	_	10	det	_	O
+9	Armory	armory	NNP	pos2=NN	10	compound	_	O
+10	packs	pack	NNS	pos2=VBZ	7	pobj	_	O
+11	located	locate	VBN	_	10	acl	_	O
+12	in	in	IN	_	11	prep	_	O
+13	the	the	DT	_	15	det	_	O
+14	Thanksgiving	thanksgiving	NNP	_	15	compound	_	U-DATE
+15	store	store	NN	_	12	pobj	_	O
+16	!	!	.	_	3	punct	_	O
+
+1	Happy	happy	JJ	pos2=NNP	2	nmod	_	O
+2	Collecting	collect	VBG	pos2=NNP	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	https://t.co/aEk2ShOMbY	#hlink#	ADD	_	0	root	_	U-ORG
+

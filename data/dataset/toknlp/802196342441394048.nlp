@@ -1,0 +1,10 @@
+1	Where	where	WRB	_	4	advmod	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	sign	sign	VB	_	0	root	_	O
+5	on	on	RP	pos2=IN	4	prt	_	O
+6	?	?	.	_	4	punct	_	O
+
+1	@NYSBA	@nysba	NFP	pos2=ADD	2	punct	_	O
+2	https://t.co/mGOcL22Bpn	#hlink#	ADD	pos2=NN	0	root	_	O
+

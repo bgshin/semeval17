@@ -1,0 +1,23 @@
+1	Really	really	RB	_	2	advmod	_	O
+2	stunning	stunning	JJ	_	3	nmod	_	O
+3	experience	experience	NN	_	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	@googlevr	@googlevr	NNP	pos2=NN	7	poss	_	U-GPE
+6	's	's	POS	pos2=VBZ	5	case	_	O
+7	#googleearth	#googleearth	NN	pos2=NNP	4	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	Amazed	amazed	JJ	pos2=VBD	0	root	_	O
+2	how	how	WRB	_	3	advmod	_	O
+3	dependent	dependent	JJ	_	8	acomp	_	O
+4	on	on	IN	_	3	prep	_	O
+5	map	map	NN	pos2=JJ	6	compound	_	O
+6	lines	line	NNS	_	4	pobj	_	O
+7	I	I	PRP	_	8	nsubj	_	O
+8	am	be	VBP	_	1	ccomp	_	O
+9	for	for	IN	_	8	prep	_	O
+10	navigating	navigate	VBG	_	9	pcomp	_	O
+11	.	.	.	_	1	punct	_	O
+
+1	https://t.co/Tmh7wTB5UU	#hlink#	ADD	_	0	root	_	U-ORG
+

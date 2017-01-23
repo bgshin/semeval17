@@ -1,0 +1,35 @@
+1	NEW	new	JJ	pos2=NNP	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	#RIGHTSTYLEmag	#rightstylemag	NN	pos2=DT	2	compound	_	O
+2	issue	issue	NN	_	3	nsubj	_	O
+3	1	0	CD	_	0	root	_	U-CARDINAL
+4	!	!	.	pos2=,	3	punct	_	O
+
+1	Fashion	fashion	NN	_	2	nsubj	_	O
+2	done	do	VBN	_	0	root	_	O
+3	RIGHT	right	RB	pos2=JJ	2	advmod	_	O
+4	!	!	.	_	2	punct	_	O
+
+1	Richard	richard	NNP	_	2	compound	_	B-PERSON
+2	Spencer	spencer	NNP	_	0	root	_	L-PERSON
+3	!	!	.	_	2	punct	_	O
+
+1	Ben	ben	NNP	_	2	compound	_	B-PERSON
+2	Carson	carson	NNP	_	0	root	_	L-PERSON
+3	!	!	.	_	2	punct	_	O
+
+1	Dabiq	dabiq	NNP	pos2=UH	2	compound	_	B-PERSON
+2	Chic	chic	NNP	pos2=JJ	0	root	_	L-PERSON
+3	!	!	.	_	2	punct	_	O
+
+1	Guyliner	guyliner	NN	pos2=NNP	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	Enjoy	enjoy	VB	pos2=NNP	0	root	_	O
+2	&	&	CC	_	1	cc	_	O
+3	SHARE	share	VB	pos2=NN	1	conj	_	O
+4	!!	!!	.	_	1	punct	_	O
+
+1	https://t.co/lmQU4VDk4q	#hlink#	ADD	_	0	root	_	U-ORG
+

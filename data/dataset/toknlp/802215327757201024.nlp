@@ -1,0 +1,15 @@
+1	Ham	ham	NNP	pos2=NN	3	nsubj	_	U-PERSON
+2	should	should	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	main	main	JJ	_	6	nmod	_	O
+6	dish	dish	NN	_	3	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Thanksgiving	thanksgiving	NNP	pos2=NN	7	pobj	_	U-DATE
+9	not	not	RB	pos2=CC	13	neg	_	O
+10	some	some	DT	_	13	det	_	O
+11	dry	dry	JJ	_	13	nmod	_	O
+12	ass	ass	NN	_	13	compound	_	O
+13	turkey	turkey	NN	pos2=XX	6	appos	_	O
+14	😂	😂	.	pos2=NNP	3	punct	_	O
+

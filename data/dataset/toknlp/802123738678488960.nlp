@@ -1,0 +1,17 @@
+1	Oh	oh	UH	_	0	root	_	O
+2	hai	hai	UH	pos2=FW	1	discourse	_	O
+3	@skynewsniall	@skynewsniall	UH	pos2=XX	1	discourse	_	O
+4	@skygillian	@skygillian	UH	pos2=VB	1	discourse	_	O
+5	!!	!!	.	_	1	punct	_	O
+
+1	👋🏻Looking	👋🏻looking	VBG	pos2=RB	10	dep	_	O
+2	great	great	JJ	pos2=RB	1	acomp	_	O
+3	in	in	IN	_	1	prep	_	O
+4	your	your	PRP$	_	7	poss	_	O
+5	David	david	NNP	_	6	compound	_	B-PERSON
+6	Blaine	blaine	NNP	_	7	compound	_	L-PERSON
+7	box	box	NN	pos2=VB	3	pobj	_	O
+8	@SkyNews	@skynews	NNP	pos2=GW	10	nmod	_	B-PERSON
+9	Central	central	NNP	pos2=JJ	10	nmod	_	L-PERSON
+10	https://t.co/2LdCvsSSIg	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,23 @@
+1	@elizabethforma	@elizabethforma	UH	pos2=NN	3	discourse	_	O
+2	we	we	PRP	_	3	nsubj	_	O
+3	need	need	VBP	_	0	root	_	O
+4	our	our	PRP$	_	5	poss	_	O
+5	leadership	leadership	NN	_	3	dobj	_	O
+6	more	more	RBR	pos2=JJR	8	advmod	_	O
+7	the	the	DT	_	8	det	_	O
+8	ever	ever	RB	pos2=NN	3	advmod	_	O
+9	...	..	.	pos2=,	3	punct	_	O
+
+1	help	help	VB	_	0	root	_	O
+2	us	us	PRP	_	3	nsubj	_	O
+3	pressure	pressure	VB	pos2=NN	1	ccomp	_	O
+4	the	the	DT	_	6	det	_	O
+5	electoral	electoral	JJ	_	6	nmod	_	O
+6	college	college	NN	_	3	dobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	do	do	VB	_	3	xcomp	_	O
+9	what	what	WP	_	10	nsubj	_	O
+10	is	be	VBZ	_	8	ccomp	_	O
+11	right	right	JJ	pos2=RB	10	acomp	_	O
+12	https://t.co/GsjxNkipj6	#hlink#	ADD	pos2=NN	7	pobj	_	O
+

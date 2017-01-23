@@ -1,0 +1,21 @@
+1	Ppl	ppl	NNP	pos2=NNS	2	nsubj	_	U-ORG
+2	talking	talk	VBG	_	0	root	_	O
+3	about	about	IN	_	2	prep	_	O
+4	the	the	DT	_	8	det	_	O
+5	left	left	JJ	pos2=VBN	8	nmod	_	O
+6	privileging	privilege	VBG	pos2=NN	8	nmod	_	O
+7	id	id	NN	_	8	compound	_	O
+8	politics	politics	NNS	_	3	pobj	_	O
+9	over	over	IN	_	8	prep	_	O
+10	class	class	NN	_	9	pobj	_	O
+11	:	:	:	_	2	punct	_	O
+12	category	category	NN	_	13	compound	_	O
+13	error	error	NN	_	8	conj	_	O
+14	.	.	.	_	2	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	liberals	liberal	NNS	_	2	attr	_	O
+5	.	.	.	_	2	punct	_	O
+

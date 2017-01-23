@@ -1,0 +1,17 @@
+1	More	more	JJR	pos2=RBR	12	nmod	_	O
+2	on	on	IN	_	1	prep	_	O
+3	"	"	``	_	2	punct	_	O
+4	voter	voter	NN	_	5	compound	_	O
+5	suppression	suppression	NN	_	6	compound	_	O
+6	operations	operation	NNS	_	2	pobj	_	O
+7	"	"	''	_	2	punct	_	O
+8	and	and	CC	_	1	cc	_	O
+9	"	"	``	_	12	punct	_	O
+10	Facebook	facebook	NNP	_	12	nmod	_	U-ORG
+11	dark	dark	JJ	_	12	nmod	_	O
+12	posts	post	NNS	_	0	root	_	O
+13	"	"	''	_	12	punct	_	O
+14	.	.	.	_	12	punct	_	O
+
+1	https://t.co/vbuL9mbcbI	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,8 @@
+1	@cambridge_peter	@cambridge_peter	NN	pos2=XX	2	dep	_	O
+2	@Michael_Heaver	@michael_heaver	ADD	pos2=GW	0	root	_	O
+3	@g_m_hodgson	@g_m_hodgson	IN	pos2=NNP	2	prep	_	O
+4	This	this	DT	_	3	pobj	_	O
+5	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/7r0rR8oj4u	#hlink#	ADD	_	0	root	_	U-ORG
+

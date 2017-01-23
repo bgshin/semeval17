@@ -1,0 +1,22 @@
+1	@MsFriedmann	@msfriedmann	ADD	pos2=MD	5	punct	_	O
+2	@SineadStubbins	@sineadstubbins	NNS	pos2=NNPS	5	vocative	_	O
+3	Have	have	VBP	_	5	aux	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	tried	try	VBN	pos2=VBD	0	root	_	O
+6	the	the	DT	_	9	det	_	O
+7	Nars	nars	NNP	_	9	nmod	_	U-ORG
+8	Audacious	audacious	JJ	pos2=NNP	9	nmod	_	O
+9	lipsticks	lipstick	NNS	_	5	dobj	_	O
+10	?	?	.	_	5	punct	_	O
+
+1	Longevity	longevity	NN	pos2=NNP	0	root	_	O
+2	,	,	,	_	1	punct	_	O
+3	pigmentation	pigmentation	NN	_	1	conj	_	O
+4	,	,	,	_	3	punct	_	O
+5	comfort	comfort	NN	_	3	conj	_	O
+6	AND	and	CC	_	5	cc	_	O
+7	no	no	DT	_	9	det	_	O
+8	animal	animal	NN	_	9	compound	_	O
+9	testing	testing	NN	_	5	conj	_	O
+10	.	.	.	_	1	punct	_	O
+

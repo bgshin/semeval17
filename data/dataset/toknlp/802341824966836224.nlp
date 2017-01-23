@@ -1,0 +1,16 @@
+1	When	when	WRB	_	4	advmod	_	O
+2	will	will	MD	_	4	aux	_	O
+3	#Amerikkka	#amerikkka	NNP	pos2=XX	4	nsubj	_	O
+4	wake	wake	VB	_	0	root	_	O
+5	up	up	RP	_	4	prt	_	O
+6	?	?	.	_	4	punct	_	O
+
+1	Before	before	IN	pos2=RB	3	mark	_	O
+2	their#SocialSecurity#Medicare#Medicaid#AbortionRightsare	their#socialsecurity#medicare#medicaid#abortionrightsare	NNP	pos2=PRP	3	nsubj	_	U-PERSON
+3	tossed	toss	VBD	pos2=VBN	0	root	_	O
+4	asideby	asideby	IN	pos2=RP	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	#Trumpand	#trumpand	NNP	pos2=NN	4	pobj	_	U-GPE
+7	the	the	DT	_	8	det	_	O
+8	#GOP	#gop	NNP	pos2=NN	6	appos	_	O
+

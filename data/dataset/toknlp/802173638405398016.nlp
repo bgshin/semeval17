@@ -1,0 +1,13 @@
+1	Oh	oh	UH	_	0	root	_	O
+2	,	,	,	_	3	punct	_	O
+3	Gaston	gaston	NNP	_	1	vocative	_	U-PERSON
+4	!	!	.	_	1	punct	_	O
+
+1	Always	always	RB	_	3	advmod	_	O
+2	the	the	DT	_	3	det	_	O
+3	charmer	charmer	NN	_	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+
+1	#BeautyAndTheBeast	#beautyandthebeast	ADD	pos2=-LRB-	2	punct	_	O
+2	https://t.co/Vrss1XBc6O	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,26 @@
+1	@drewistotle	@drewistotle	UH	pos2=XX	4	discourse	_	O
+2	@dixiefreshkicks	@dixiefreshkicks	UH	pos2=VBZ	4	discourse	_	O
+3	It	it	PRP	_	4	nsubj	_	O
+4	seems	seem	VBZ	_	0	root	_	O
+5	like	like	IN	_	4	prep	_	O
+6	a	a	DT	_	8	det	_	O
+7	Dem	dem	NNP	pos2=NN	8	compound	_	U-NORP
+8	ploy	ploy	NN	_	5	pobj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	fuel	fuel	VB	_	8	acl	_	O
+11	the	the	DT	_	15	det	_	O
+12	protest	protest	NN	_	14	nmod	_	O
+13	/	/	SYM	pos2=HYPH	14	punct	_	O
+14	riot	riot	NN	_	15	compound	_	O
+15	fire	fire	NN	_	10	dobj	_	O
+16	.	.	.	_	4	punct	_	O
+
+1	Everytime	everytime	RB	pos2=IN	3	advmod	_	O
+2	violence	violence	NN	_	3	nsubj	_	O
+3	occurs	occur	VBZ	_	7	advcl	_	O
+4	,	,	,	_	7	punct	_	O
+5	more	more	JJR	_	6	nmod	_	O
+6	people	people	NNS	_	7	nsubj	_	O
+7	go	go	VBP	pos2=VB	0	root	_	O
+8	Trump	trump	NNP	pos2=UH	7	dobj	_	O
+

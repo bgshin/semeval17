@@ -1,0 +1,11 @@
+1	Deep	deep	JJ	pos2=NNP	2	nmod	_	B-WORK_OF_ART
+2	Learning	learning	NN	_	4	dep	_	I-WORK_OF_ART
+3	:	:	:	_	4	punct	_	I-WORK_OF_ART
+4	Intelligence	intelligence	NNP	pos2=NN	0	root	_	I-WORK_OF_ART
+5	from	from	IN	_	4	prep	_	I-WORK_OF_ART
+6	#BigData	#bigdata	NNP	pos2=NN	8	compound	_	I-WORK_OF_ART
+7	-	-	HYPH	pos2=,	8	punct	_	I-WORK_OF_ART
+8	YouTube	youtube	NNP	_	5	pobj	_	L-WORK_OF_ART
+9	https://t.co/t8dNeneCPJ	#hlink#	ADD	_	10	nmod	_	O
+10	#Analytics	#analytics	NNS	pos2=NNP	4	prep	_	O
+

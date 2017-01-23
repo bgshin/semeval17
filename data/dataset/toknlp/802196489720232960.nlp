@@ -1,0 +1,25 @@
+1	Tonight	tonight	NN	pos2=NNP	3	poss	_	U-TIME
+2	's	's	POS	_	1	case	_	O
+3	plan	plan	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	to	to	TO	pos2=IN	6	aux	_	O
+6	sketch	sketch	VB	pos2=NN	4	xcomp	_	O
+7	,	,	,	_	6	punct	_	O
+8	design	design	NN	pos2=VB	6	conj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	colour	colour	NN	_	8	conj	_	O
+11	in	in	IN	pos2=RP	8	prep	_	O
+12	clothes	clothes	NNS	_	11	pobj	_	O
+13	,	,	,	_	12	punct	_	O
+14	shoes	shoe	NNS	_	12	conj	_	O
+15	and	and	CC	_	14	cc	_	O
+16	accessories	accessory	NNS	_	14	conj	_	O
+17	for	for	IN	_	16	prep	_	O
+18	all	all	PDT	pos2=DT	21	predet	_	O
+19	our	our	PRP$	_	21	poss	_	O
+20	favourite	favourite	JJ	pos2=NN	21	nmod	_	O
+21	characters	character	NNS	_	22	nsubj	_	O
+22	f	f	VBP	pos2=GW	17	pobj	_	O
+23	…	…	NFP	pos2=:	24	punct	_	O
+24	https://t.co/AYX46VUMdo	#hlink#	ADD	pos2=NN	21	appos	_	O
+

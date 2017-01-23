@@ -1,0 +1,19 @@
+1	CONFIRMED	confirm	VBN	pos2=NN	0	root	_	O
+2	:	:	:	_	1	punct	_	O
+3	The	the	DT	_	4	det	_	O
+4	Doctor	doctor	NNP	pos2=NN	5	nsubj	_	O
+5	Is	be	VBZ	_	1	ccomp	_	O
+6	IN	in	FW	pos2=NNP	5	acomp	_	O
+7	!	!	.	_	1	punct	_	O
+
+1	Ben	ben	NNP	_	2	compound	_	B-PERSON
+2	Carson	carson	NNP	_	3	nsubj	_	L-PERSON
+3	Is	be	VBZ	_	0	root	_	O
+4	Donald	donald	NNP	_	5	compound	_	B-PERSON
+5	Trump	trump	NNP	_	7	poss	_	I-PERSON
+6	's	's	POS	_	5	case	_	L-PERSON
+7	New	new	NNP	pos2=NNPS	3	attr	_	O
+8	...	..	.	pos2=,	3	punct	_	O
+
+1	https://t.co/RsByRzv70V	#hlink#	ADD	_	0	root	_	U-ORG
+

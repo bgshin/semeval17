@@ -1,0 +1,18 @@
+1	You	you	PRP	_	2	nsubj	_	O
+2	think	think	VBP	_	0	root	_	O
+3	Samsung	samsung	NNP	_	5	nsubj	_	U-ORG
+4	ever	ever	RB	_	5	advmod	_	O
+5	figured	figure	VBD	pos2=VBN	2	ccomp	_	O
+6	out	out	RP	pos2=IN	5	prt	_	O
+7	why	why	WRB	_	14	advmod	_	O
+8	their	their	PRP$	_	10	poss	_	O
+9	Galaxy	galaxy	NNP	pos2=NN	10	compound	_	O
+10	Note	note	NN	pos2=NNP	14	nsubj	_	O
+11	7	0	CD	_	12	nmod	_	U-CARDINAL
+12	batteries	battery	NNS	_	14	nsubj	_	O
+13	were	be	VBD	_	14	aux	_	O
+14	exploding	explode	VBG	_	5	ccomp	_	O
+15	?	?	.	_	2	punct	_	O
+
+1	⛷	⛷	NFP	pos2=SYM	0	root	_	O
+

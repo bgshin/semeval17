@@ -1,0 +1,22 @@
+1	#Hezbollah	#hezbollah	NNP	pos2=UH	2	compound	_	U-PERSON
+2	group	group	NN	_	4	poss	_	O
+3	’s	's	POS	_	2	case	_	O
+4	forces	force	NNS	_	6	nsubj	_	O
+5	had	have	VBD	_	6	aux	_	O
+6	seized	seize	VBN	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	road	road	NN	_	6	dobj	_	O
+9	to	to	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	NW	nw	NNP	pos2=NN	9	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	#Mosul	#mosul	NNP	pos2=XX	12	pobj	_	O
+14	linking	link	VBG	_	8	acl	_	O
+15	the	the	DT	_	16	det	_	O
+16	city	city	NN	_	14	dobj	_	O
+17	to	to	IN	_	14	prep	_	O
+18	Syria	syria	NNP	_	20	poss	_	U-GPE
+19	’s	's	POS	_	18	case	_	O
+20	#Raqqah	#raqqah	NNP	pos2=ADD	17	pobj	_	O
+21	https://t.co/veQ0NSdiCl	#hlink#	ADD	_	8	appos	_	O
+

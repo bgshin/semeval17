@@ -1,0 +1,16 @@
+1	Today	today	NN	_	3	npadvmod	_	U-DATE
+2	I	I	PRP	_	3	nsubj	_	O
+3	'm	be	VBP	_	0	root	_	O
+4	thankful	thankful	JJ	_	3	acomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	have	have	VB	_	4	xcomp	_	O
+7	a	a	DT	_	8	det	_	O
+8	family	family	NN	_	6	dobj	_	O
+9	filled	fill	VBN	_	8	acl	_	O
+10	with	with	IN	_	9	prep	_	O
+11	Bad	bad	JJ	pos2=NNP	12	nmod	_	O
+12	Hombres	hombres	NNP	pos2=NNS	15	nmod	_	U-PERSON
+13	and	and	CC	_	12	cc	_	O
+14	Nasty	nasty	NNP	pos2=JJ	12	conj	_	B-ORG
+15	Women	woman	NNS	pos2=NNPS	10	pobj	_	L-ORG
+

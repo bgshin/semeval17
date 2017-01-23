@@ -1,0 +1,31 @@
+1	Silent	silent	JJ	_	2	nmod	_	O
+2	voices	voice	NNS	_	9	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	women	woman	NNS	_	3	pobj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	abortion	abortion	NN	_	8	compound	_	O
+8	debate	debate	NN	_	5	pobj	_	O
+9	seem	seem	VBP	pos2=VB	0	root	_	O
+10	to	to	TO	_	11	aux	_	O
+11	be	be	VB	_	9	xcomp	_	O
+12	the	the	DT	_	14	det	_	O
+13	big	big	JJ	_	14	nmod	_	O
+14	issue	issue	NN	_	11	attr	_	O
+15	worth	worth	JJ	_	14	nmod	_	O
+16	serious	serious	JJ	_	17	nmod	_	O
+17	consideration	consideration	NN	_	15	npadvmod	_	O
+18	.	.	.	_	9	punct	_	O
+
+1	That	that	DT	pos2=RB	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	voice	voice	NN	_	2	attr	_	O
+5	of	of	IN	_	4	prep	_	O
+6	:	:	:	_	2	punct	_	O
+7	women	woman	NNS	_	5	pobj	_	O
+8	who	who	WP	_	10	nsubj	_	O
+9	have	have	VBP	_	10	aux	_	O
+10	un	un	VBN	pos2=NN	7	relcl	_	O
+11	…	…	.	pos2=VBN	2	punct	_	O
+

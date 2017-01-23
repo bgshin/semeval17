@@ -1,0 +1,28 @@
+1	Notion	notion	NN	_	0	root	_	O
+2	that	that	IN	_	5	mark	_	O
+3	Gigi	gigi	NNP	_	4	compound	_	B-PERSON
+4	Hadid	hadid	NNP	_	6	nsubj	_	I-PERSON
+5	'	'	POS	pos2=``	4	case	_	L-PERSON
+6	racist	racist	JJ	pos2=NN	1	acl	_	O
+7	'	'	''	pos2=NNS	6	punct	_	O
+8	for	for	IN	_	6	prep	_	O
+9	mocking	mock	VBG	_	8	pcomp	_	O
+10	Melania	melania	NNP	pos2=NN	11	nsubj	_	U-PERSON
+11	stealing	steal	VBG	_	8	pcomp	_	O
+12	Obama	obama	NNP	_	13	compound	_	U-PERSON
+13	speech	speech	NN	pos2=VB	11	dobj	_	O
+14	ridic	ridic	JJ	_	6	conj	_	O
+15	!	!	.	_	1	punct	_	O
+
+1	If	if	IN	_	3	mark	_	O
+2	she	she	PRP	_	3	nsubj	_	O
+3	was	be	VBD	_	7	advcl	_	O
+4	American	american	JJ	_	6	nmod	_	U-NORP
+5	same	same	JJ	_	6	nmod	_	O
+6	joke	joke	NN	_	7	nsubj	_	O
+7	applies	apply	VBZ	_	0	root	_	O
+8	,	,	,	_	7	punct	_	O
+9	different	different	JJ	_	10	nmod	_	O
+10	accent	accent	NN	_	7	dobj	_	O
+11	!	!	.	_	7	punct	_	O
+

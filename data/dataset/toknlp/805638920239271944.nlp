@@ -1,0 +1,10 @@
+1	Spouses	spouse	NNS	_	5	nsubj	_	O
+2	for	for	IN	_	1	prep	_	O
+3	Life	life	NN	pos2=NNP	2	pobj	_	O
+4	--	--	:	pos2=,	9	punct	_	O
+5	Documentary	documentary	NN	pos2=NNP	9	dep	_	O
+6	about	about	IN	_	5	prep	_	O
+7	Gay	gay	NNP	_	8	compound	_	B-PERSON
+8	Marr	marr	NNP	_	6	pobj	_	L-PERSON
+9	iagehttps://t.co/GP9Wxx9nma	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,14 @@
+1	Paln	paln	JJ	pos2=NN	2	nmod	_	U-NORP
+2	children	child	NNS	_	12	dep	_	O
+3	victims	victim	NNS	_	2	appos	_	O
+4	of	of	IN	_	3	prep	_	O
+5	'	'	``	pos2=''	7	punct	_	O
+6	forced	force	VBN	pos2=JJ	7	nmod	_	O
+7	confession	confession	NN	_	4	pobj	_	O
+8	'	'	''	_	7	punct	_	O
+9	https://t.co/BLeXW4qpbd	#hlink#	ADD	pos2=NN	6	dobj	_	O
+10	#palestine	#palestine	PRP	pos2=IN	12	nsubj	_	O
+11	#israel	#israel	UH	pos2=VB	12	discourse	_	O
+12	#BDS	#bds	VBZ	pos2=NNS	0	root	_	O
+13	#jerusalem	#jerusalem	UH	pos2=PRP	12	discourse	_	O
+

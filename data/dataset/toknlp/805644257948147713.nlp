@@ -1,0 +1,13 @@
+1	Days	day	NNS	_	10	npadvmod	_	O
+2	before	before	IN	pos2=RB	1	prep	_	O
+3	new	new	JJ	_	7	nmod	_	O
+4	Michigan	michigan	NNP	_	7	nmod	_	U-GPE
+5	medical	medical	JJ	_	6	nmod	_	O
+6	marijuana	marijuana	NN	_	7	compound	_	O
+7	laws	law	NNS	_	2	pobj	_	O
+8	,	,	,	_	10	punct	_	O
+9	industry	industry	NN	_	10	nsubj	_	O
+10	gets	get	VBZ	_	0	root	_	O
+11	ready	ready	JJ	_	10	acomp	_	O
+12	https://t.co/lPFOSMTOKL	#hlink#	ADD	pos2=NN	11	xcomp	_	U-ORG
+

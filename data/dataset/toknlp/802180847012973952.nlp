@@ -1,0 +1,11 @@
+1	Hi	hi	UH	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	Negan	negan	NNP	pos2=JJ	7	nmod	_	B-PERSON
+4	😎	😎	NNP	pos2=HYPH	7	nmod	_	L-PERSON
+5	#thewalkingdead	#thewalkingdead	GW	pos2=XX	7	nmod	_	O
+6	#Dibujo	#dibujo	GW	pos2=NNP	7	nmod	_	O
+7	https://t.co/khW0IXzBjn	#hlink#	ADD	pos2=NN	2	dep	_	O
+

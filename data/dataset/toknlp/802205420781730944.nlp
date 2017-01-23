@@ -1,0 +1,8 @@
+1	Jesuit	jesuit	NNP	pos2=NN	3	compound	_	U-NORP
+2	treasure	treasure	NN	_	3	compound	_	O
+3	#maps	#maps	NNS	pos2=XX	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+
+1	🤔	🤔	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/JHHcIUO9lr	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,12 @@
+1	End	end	NN	_	6	nmod	_	O
+2	-	-	HYPH	_	1	punct	_	O
+3	to	to	IN	_	1	prep	_	O
+4	-	-	HYPH	_	3	punct	_	O
+5	End	end	NN	pos2=VB	3	pobj	_	O
+6	#DeepLearning	#deeplearning	NN	pos2=VBG	11	dep	_	O
+7	for	for	IN	_	6	prep	_	O
+8	#SelfDriving	#selfdriving	VBG	pos2=GW	7	pcomp	_	O
+9	Cars	car	NNS	pos2=GW	8	dobj	_	O
+10	https://t.co/qJ9vjvzQxe	#hlink#	ADD	_	11	nmod	_	O
+11	https://t.co/OYSLybMdsF	#hlink#	ADD	_	0	root	_	U-ORG
+

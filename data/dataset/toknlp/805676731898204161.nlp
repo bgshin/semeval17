@@ -1,0 +1,21 @@
+1	All	all	PDT	_	3	predet	_	O
+2	the	the	DT	_	3	det	_	O
+3	proof	proof	NN	_	0	root	_	O
+4	we	we	PRP	_	5	nsubj	_	O
+5	wanted	want	VBD	_	3	relcl	_	O
+6	!!!	!!	.	_	3	punct	_	O
+
+1	‘Plus	'plus	NNP	pos2=NN	3	compound	_	O
+2	-	-	HYPH	pos2=SYM	3	punct	_	O
+3	size	size	NN	_	5	nmod	_	O
+4	’	'	''	pos2=POS	5	punct	_	O
+5	model	model	NN	_	8	nsubj	_	O
+6	Ashley	ashley	NNP	_	7	compound	_	B-PERSON
+7	Graham	graham	NNP	_	8	nsubj	_	L-PERSON
+8	fronts	front	VBZ	pos2=IN	0	root	_	O
+9	Vogue	vogue	NNP	_	12	poss	_	U-ORG
+10	’s	's	POS	_	9	case	_	O
+11	January	january	NNP	_	12	compound	_	U-DATE
+12	issue	issue	NN	_	8	dobj	_	O
+13	https://t.co/ThHhOD1Hre	#hlink#	ADD	_	8	dep	_	U-ORG
+

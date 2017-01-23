@@ -1,0 +1,15 @@
+1	Our	our	PRP$	_	3	poss	_	O
+2	MBFM	mbfm	NN	pos2=NNP	3	compound	_	O
+3	#MannequinChallenge	#mannequinchallenge	NN	pos2=XX	5	nsubj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	have	have	VB	_	0	root	_	O
+6	a	a	DT	_	8	det	_	O
+7	little	little	JJ	_	8	nmod	_	O
+8	fun	fun	NN	_	5	dobj	_	O
+9	for	for	IN	_	5	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	holidays	holiday	NNS	_	9	pobj	_	O
+12	!	!	.	_	5	punct	_	O
+
+1	https://t.co/hMrzgVZYhd	#hlink#	ADD	_	0	root	_	U-ORG
+

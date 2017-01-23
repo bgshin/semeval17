@@ -1,0 +1,25 @@
+1	@jaredwa	@jaredwa	UH	pos2=XX	14	discourse	_	O
+2	@JaynePenelope	@jaynepenelope	ADD	pos2=UH	14	advcl	_	O
+3	Thank	thank	VBP	_	2	root	_	O
+4	God	god	NNP	_	3	dobj	_	O
+5	the	the	DT	_	7	det	_	O
+6	popular	popular	JJ	_	7	nmod	_	O
+7	vote	vote	NN	_	10	nsubj	_	O
+8	does	do	VBZ	_	10	aux	_	O
+9	n't	not	RB	_	10	neg	_	O
+10	matter	matter	VB	_	3	ccomp	_	O
+11	,	,	,	_	14	punct	_	O
+12	we	we	PRP	_	14	nsubj	_	O
+13	'd	would	MD	_	14	aux	_	O
+14	have	have	VB	_	0	root	_	O
+15	a	a	DT	_	14	discourse	_	O
+16	corrupt	corrupt	JJ	_	21	nmod	_	O
+17	pay	pay	NN	_	22	nmod	_	O
+18	-	-	HYPH	_	17	punct	_	O
+19	to	to	IN	pos2=TO	17	prep	_	O
+20	-	-	HYPH	_	19	punct	_	O
+21	play	play	NN	pos2=VB	19	pobj	_	O
+22	criminal	criminal	NN	pos2=JJ	23	nsubj	_	O
+23	elected	elect	VBN	_	14	ccomp	_	O
+24	.	.	.	_	14	punct	_	O
+

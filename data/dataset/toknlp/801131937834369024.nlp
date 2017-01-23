@@ -1,0 +1,20 @@
+1	March	march	NNP	pos2=NN	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	Book	book	NNP	_	4	compound	_	O
+4	Three	#crd#	NNP	pos2=CD	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	the	the	DT	_	9	det	_	O
+7	first	#ord#	JJ	_	9	nmod	_	U-ORDINAL
+8	graphic	graphic	JJ	_	9	nmod	_	O
+9	novel	novel	NN	_	5	attr	_	O
+10	to	to	TO	_	11	aux	_	O
+11	win	win	VB	_	9	relcl	_	O
+12	a	a	DT	_	15	det	_	O
+13	National	national	NNP	_	15	compound	_	B-WORK_OF_ART
+14	Book	book	NNP	_	15	compound	_	I-WORK_OF_ART
+15	Award	award	NNP	_	11	dobj	_	L-WORK_OF_ART
+16	https://t.co/Z9LgUmsD8a	#hlink#	ADD	_	14	appos	_	O
+17	@IDWPublishing	@idwpublishing	VBG	pos2=-RRB-	19	nmod	_	O
+18	@nationalbook	@nationalbook	VB	pos2=XX	14	discourse	_	O
+19	#NBAwards	#nbawards	NNS	pos2=ADD	18	dobj	_	O
+

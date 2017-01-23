@@ -1,0 +1,28 @@
+1	Homeopathy	homeopathy	NN	pos2=NNP	5	nsubjpass	_	O
+2	can	can	MD	_	5	aux	_	O
+3	be	be	VB	_	5	auxpass	_	O
+4	safely	safely	RB	_	5	advmod	_	O
+5	used	use	VBN	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	treat	treat	VB	_	5	advcl	_	O
+8	animals	animal	NNS	_	7	dobj	_	O
+9	as	as	RB	_	11	advmod	_	O
+10	well	well	RB	_	11	advmod	_	O
+11	as	as	IN	_	8	cc	_	O
+12	humans	human	NNS	_	8	conj	_	O
+13	.	.	.	_	5	punct	_	O
+
+1	It	it	PRP	_	4	nsubjpass	_	O
+2	can	can	MD	_	4	aux	_	O
+3	be	be	VB	_	4	auxpass	_	O
+4	used	use	VBN	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	treat	treat	VB	_	4	xcomp	_	O
+7	both	both	CC	pos2=DT	8	preconj	_	O
+8	acute	acute	JJ	_	3	acomp	_	O
+9	and	and	CC	_	8	cc	_	O
+10	chronic	chronic	JJ	_	8	conj	_	O
+11	...	..	.	pos2=,	4	punct	_	O
+
+1	https://t.co/CDUkO9yMK6	#hlink#	ADD	_	0	root	_	U-ORG
+

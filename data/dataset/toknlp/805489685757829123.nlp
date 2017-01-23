@@ -1,0 +1,29 @@
+1	Trump	trump	NN	pos2=NNP	3	nsubj	_	U-ORG
+2	will	will	MD	_	3	aux	_	O
+3	pay	pay	VB	_	0	root	_	O
+4	his	his	PRP$	_	5	poss	_	O
+5	way	way	NN	_	3	dobj	_	O
+6	because	because	IN	_	8	mark	_	O
+7	he	he	PRP	_	8	nsubj	_	O
+8	got	get	VBD	_	3	advcl	_	O
+9	away	away	RB	pos2=RP	8	advmod	_	O
+10	with	with	IN	_	8	prep	_	O
+11	fraud	fraud	NN	_	10	pobj	_	O
+12	,	,	,	_	11	punct	_	O
+13	rape	rape	NN	_	11	conj	_	O
+14	,	,	,	_	13	punct	_	O
+15	breaking	break	VBG	_	13	conj	_	O
+16	embargo	embargo	NN	_	17	compound	_	O
+17	laws	law	NNS	_	15	dobj	_	O
+18	with	with	IN	_	17	prep	_	O
+19	Cuba	cuba	NNP	_	18	pobj	_	U-GPE
+20	,	,	,	_	15	punct	_	O
+21	assaulting	assault	VBG	pos2=NN	15	conj	_	O
+22	.	.	.	_	3	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	USA	usa	NNP	_	5	nmod	_	U-GPE
+3	c	c	GW	pos2=NN	5	nmod	_	O
+4	…	…	:	pos2=NFP	5	punct	_	O
+5	https://t.co/aZyu7ka0WM	#hlink#	ADD	_	0	root	_	O
+

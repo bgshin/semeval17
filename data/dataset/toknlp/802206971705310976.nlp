@@ -1,0 +1,17 @@
+1	Israeli	israeli	JJ	_	2	nmod	_	U-NORP
+2	forces	force	NNS	_	3	nsubj	_	O
+3	shoot	shoot	VBP	pos2=NN	0	root	_	O
+4	dead	dead	JJ	pos2=RB	5	advmod	_	O
+5	Palestinian	palestinian	JJ	pos2=NNP	3	dobj	_	U-NORP
+6	near	near	IN	pos2=RB	3	prep	_	O
+7	Shufat	shufat	NNP	pos2=DT	8	compound	_	U-GPE
+8	checkpoint	checkpoint	NN	_	6	pobj	_	O
+9	for	for	IN	_	8	prep	_	O
+10	alleged	alleged	JJ	pos2=VBN	12	nmod	_	O
+11	stab	stab	NN	_	12	compound	_	O
+12	attack	attack	NN	_	14	compound	_	O
+13	#Palestine	#palestine	NNP	pos2=CD	14	compound	_	B-PERSON
+14	#Israel	#israel	NNP	pos2=GW	9	pobj	_	L-PERSON
+15	…	…	NFP	pos2=-LRB-	3	discourse	_	O
+16	https://t.co/lZoakqLchW	#hlink#	ADD	_	3	dep	_	O
+

@@ -1,0 +1,23 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=GW	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	https://t.co/WRDDRv4MKf	#hlink#	ADD	pos2=NNP	1	appos	_	O
+7	Adrian	adrian	NNP	_	8	compound	_	B-PERSON
+8	Younge	younge	NNP	_	4	conj	_	L-PERSON
+9	and	and	CC	_	8	cc	_	O
+10	Ali	ali	NNP	_	12	compound	_	B-PERSON
+11	Shaheed	shaheed	NNP	_	12	compound	_	I-PERSON
+12	Muhammad	muhammad	NNP	_	8	conj	_	L-PERSON
+13	(	(	-LRB-	_	14	punct	_	O
+14	feat	feat	NN	_	12	appos	_	O
+15	.	.	.	_	2	punct	_	O
+
+1	Method	method	NN	pos2=NNP	2	compound	_	O
+2	Man	man	NN	pos2=NNP	6	dep	_	O
+3	)	)	-RRB-	_	6	punct	_	O
+4	–	-	:	_	6	punct	_	O
+5	Bulletproof	bulletproof	JJ	pos2=NNP	6	nmod	_	B-WORK_OF_ART
+6	Love	love	NN	pos2=NNP	0	root	_	L-WORK_OF_ART
+

@@ -1,0 +1,6 @@
+1	The	the	DT	_	4	det	_	B-WORK_OF_ART
+2	#Hamas	#hamas	NNP	pos2=NNPS	4	compound	_	I-WORK_OF_ART
+3	Unity	unity	NNP	pos2=NN	4	compound	_	I-WORK_OF_ART
+4	Deal	deal	NNP	pos2=GW	5	nmod	_	L-WORK_OF_ART
+5	https://t.co/ljUwqVMUfO	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,10 @@
+1	@JasonForbes6	@jasonforbes0	NN	pos2=NNS	6	dep	_	O
+2	@ArieFriedman	@ariefriedman	ADD	pos2=NN	3	nsubj	_	O
+3	@LadyRoarJet	@ladyroarjet	ADD	pos2=XX	7	advmod	_	O
+4	@stlkrash	@stlkrash	IN	pos2=UH	6	mark	_	O
+5	They	they	PRP	_	6	nsubj	_	O
+6	are	be	VBP	_	0	root	_	O
+7	bad	bad	JJ	_	8	nmod	_	O
+8	hombres	hombre	NNS	_	6	attr	_	O
+9	!	!	.	_	6	punct	_	O
+

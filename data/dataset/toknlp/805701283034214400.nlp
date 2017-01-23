@@ -1,0 +1,20 @@
+1	Between	between	IN	_	11	prep	_	B-ORG
+2	#Westworld	#westworld	NNP	pos2=NN	1	pobj	_	L-ORG
+3	,	,	,	_	2	punct	_	O
+4	#GameOfThrones	#gameofthrones	NNS	pos2=NNPS	2	conj	_	O
+5	,	,	,	_	4	punct	_	O
+6	and	and	CC	_	4	cc	_	O
+7	#TheNightOf	#thenightof	NNP	pos2=CD	4	conj	_	U-GPE
+8	,	,	,	_	11	punct	_	O
+9	#HBO	#hbo	NNP	pos2=NN	11	nsubj	_	U-ORG
+10	is	be	VBZ	_	11	aux	_	O
+11	going	go	VBG	_	0	root	_	O
+12	to	to	TO	_	13	aux	_	O
+13	clean	clean	VB	_	11	xcomp	_	O
+14	up	up	RP	_	13	prt	_	O
+15	at	at	IN	_	13	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	Emmys	emmy	NNPS	pos2=NNP	15	pobj	_	U-WORK_OF_ART
+18	in	in	IN	_	13	prep	_	O
+19	2017	0	CD	_	18	pobj	_	U-DATE
+

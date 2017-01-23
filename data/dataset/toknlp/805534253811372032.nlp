@@ -1,0 +1,24 @@
+1	Can	can	MD	_	3	aux	_	O
+2	someone	someone	NN	_	3	nsubj	_	O
+3	tell	tell	VB	_	0	root	_	O
+4	me	me	PRP	_	3	dobj	_	O
+5	where	where	WRB	pos2=IN	8	advmod	_	O
+6	I	I	PRP	_	8	nsubj	_	O
+7	can	can	MD	_	8	aux	_	O
+8	get	get	VB	_	3	ccomp	_	O
+9	a	a	DT	_	12	det	_	O
+10	good	good	JJ	_	12	nmod	_	O
+11	red	red	JJ	_	12	nmod	_	O
+12	eyeshadow	eyeshadow	NN	pos2=NNS	8	dobj	_	O
+13	from	from	IN	_	8	prep	_	O
+14	??	??	.	_	3	punct	_	O
+
+1	(	(	-LRB-	_	5	punct	_	O
+2	Not	not	RB	pos2=CC	5	neg	_	O
+3	animal	animal	NN	pos2=JJ	4	compound	_	O
+4	testing	testing	NN	_	5	compound	_	O
+5	brands	brand	NNS	pos2=VBZ	0	root	_	O
+6	pls	pls	VBZ	pos2=VBP	7	nmod	_	O
+7	x	x	LS	pos2=SYM	4	appos	_	O
+8	)	)	-RRB-	_	5	punct	_	O
+

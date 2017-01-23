@@ -1,0 +1,20 @@
+1	@thehill	@thehill	UH	pos2=MD	6	discourse	_	O
+2	@MyShadowDogs	@myshadowdogs	PRP$	pos2=POS	3	poss	_	O
+3	Trump	trump	NN	pos2=NNP	6	nsubj	_	U-PERSON
+4	is	be	VBZ	_	6	aux	_	O
+5	likely	likely	RB	pos2=JJ	6	advmod	_	O
+6	supporting	support	VBG	_	0	root	_	O
+7	Putin	putin	NNP	_	6	dobj	_	U-PERSON
+8	talking	talk	VBG	_	6	advcl	_	O
+9	on	on	IN	_	8	prep	_	O
+10	unsecured	unsecured	JJ	_	12	nmod	_	O
+11	phone	phone	NN	_	12	compound	_	O
+12	lines	line	NNS	_	9	pobj	_	O
+13	bc	bc	FW	pos2=IN	12	advmod	_	O
+14	Trump	trump	NNP	_	19	poss	_	U-ORG
+15	's	's	POS	_	14	case	_	O
+16	tied	tie	VBN	_	12	acl	_	O
+17	to	to	IN	_	16	prep	_	O
+18	Russia	russia	NNP	_	19	compound	_	B-EVENT
+19	#DworkinReport	#dworkinreport	NNP	pos2=.	17	pobj	_	L-EVENT
+

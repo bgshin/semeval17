@@ -1,0 +1,17 @@
+1	Thanks	thanks	NNS	pos2=NN	16	npadvmod	_	O
+2	to	to	IN	_	1	prep	_	O
+3	@nick146143	@nick0	NNP	pos2=CD	4	compound	_	B-PERSON
+4	Deborah	deborah	NNP	_	2	pobj	_	L-PERSON
+5	,	,	,	_	16	punct	_	O
+6	@FlavaFeast	@flavafeast	XX	pos2=NNP	16	dep	_	O
+7	for	for	IN	_	16	prep	_	O
+8	looking	look	VBG	_	7	pcomp	_	O
+9	after	after	IN	_	8	prep	_	O
+10	our	our	PRP$	_	11	poss	_	O
+11	@compassgroupuk	@compassgroupuk	XX	pos2=NN	16	nmod	_	O
+12	#CompassGrads	#compassgrads	POS	pos2=PRP$	11	case	_	O
+13	graduation	graduation	NN	_	12	dobj	_	O
+14	today	today	NN	_	11	npadvmod	_	U-DATE
+15	…	…	NFP	pos2=IN	16	punct	_	O
+16	https://t.co/VG1Lt3xCQF	#hlink#	ADD	_	0	root	_	O
+

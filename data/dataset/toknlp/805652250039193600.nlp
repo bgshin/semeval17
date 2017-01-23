@@ -1,0 +1,11 @@
+1	@JenaFriedman	@jenafriedman	MD	pos2=NN	4	aux	_	O
+2	Do	do	VB	pos2=VBP	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	forget	forget	VB	_	0	root	_	O
+5	GOP	gop	NNP	pos2=NN	10	dep	_	U-ORG
+6	:	:	:	_	4	punct	_	O
+7	Crosscheck	crosscheck	NN	pos2=VB	4	ccomp	_	O
+8	,	,	,	_	7	punct	_	O
+9	voter	voter	NN	_	10	compound	_	O
+10	suppression	suppression	NN	_	7	appos	_	O
+

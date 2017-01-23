@@ -1,0 +1,10 @@
+1	Diamond	diamond	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Shaq	shaq	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	better	good	JJR	_	3	acomp	_	O
+5	than	than	IN	_	4	prep	_	O
+6	Pink	pink	NNP	pos2=JJ	9	compound	_	O
+7	Diamond	diamond	NNP	_	9	compound	_	O
+8	Tim	tim	NNP	_	9	compound	_	B-PERSON
+9	Duncan	duncan	NNP	_	5	pobj	_	L-PERSON
+

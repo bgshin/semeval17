@@ -1,0 +1,17 @@
+1	HYPOCRISY.@elizabethforma	hypocrisy.@elizabethforma	NN	pos2=ADD	2	compound	_	O
+2	@BernieSanders	@berniesanders	NNS	pos2=ADD	4	vocative	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	voices	voice	NNS	_	4	attr	_	O
+7	now	now	RB	_	4	advmod	_	O
+8	--	--	:	pos2=,	4	punct	_	O
+9	SPEAK	speak	VB	pos2=VBP	4	advcl	_	O
+10	OUT	out	RP	pos2=RB	9	prt	_	O
+11	ON	on	IN	_	9	prep	_	O
+12	THIS	this	DT	_	13	det	_	O
+13	STUFF	stuff	NN	_	11	pobj	_	O
+14	.	.	.	_	4	punct	_	O
+
+1	https://t.co/DXGPWetuZ3	#hlink#	ADD	_	0	root	_	U-ORG
+

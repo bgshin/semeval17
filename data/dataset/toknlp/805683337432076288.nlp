@@ -1,0 +1,19 @@
+1	Fracking	fracking	NN	pos2=VBG	6	dep	_	O
+2	in	in	IN	_	1	prep	_	O
+3	Fermanagh	fermanagh	NNP	_	2	pobj	_	U-GPE
+4	:	:	:	pos2=NNP	6	punct	_	O
+5	Council	council	NNP	pos2=NN	6	compound	_	U-ORG
+6	plan	plan	NN	_	18	dep	_	O
+7	‘	'	''	pos2=``	6	punct	_	O
+8	too	too	RB	_	9	advmod	_	O
+9	weak	weak	JJ	_	6	nmod	_	O
+10	’	'	''	pos2=NNS	6	punct	_	O
+11	on	on	IN	_	6	prep	_	O
+12	fracking	fracking	NN	pos2=VBG	11	pobj	_	O
+13	(	(	-LRB-	_	12	punct	_	O
+14	From	from	IN	_	12	prep	_	O
+15	Impartial	impartial	JJ	pos2=NNP	16	nmod	_	O
+16	Reporter	reporter	NN	pos2=GW	14	pobj	_	O
+17	)	)	-RRB-	_	12	punct	_	O
+18	https://t.co/nEYuko5Mdc	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,9 @@
+1	Join	join	VB	pos2=NNP	0	root	_	O
+2	4.7	0	CD	_	3	compound	_	B-CARDINAL
+3	million	#crd#	CD	_	4	nmod	_	L-CARDINAL
+4	others	other	NNS	_	1	dobj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	save	save	VB	_	1	advcl	_	O
+7	#hil	#hil	ADD	pos2=-LRB-	6	dobj	_	O
+8	laryhttps://t.co/kKSCKOGTZy	#hlink#	ADD	_	6	dobj	_	U-GPE
+

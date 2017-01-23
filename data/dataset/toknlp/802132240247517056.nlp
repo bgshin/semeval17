@@ -1,0 +1,24 @@
+1	LIAAAAAM	liaaaaam	NNP	pos2=NN	2	compound	_	O
+2	OMG	omg	NN	pos2=NNP	0	root	_	O
+3	!!	!!	.	_	2	punct	_	O
+
+1	🔥🔥🔥I	🔥🔥🔥i	NNP	pos2=JJ	2	compound	_	U-PERSON
+2	JIST	jist	NN	pos2=NNP	3	nsubj	_	O
+3	CA	can	MD	pos2=NN	0	root	_	O
+4	N'T	not	RB	_	3	neg	_	O
+5	..	..	.	pos2=,	3	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	'M	be	VBP	_	3	aux	_	O
+3	LOSING	lose	VBG	_	0	root	_	O
+4	MY	my	PRP$	_	5	poss	_	O
+5	SHIT	shit	NN	_	3	dobj	_	O
+6	HERE	here	RB	_	3	advmod	_	O
+7	OHSSKXVSJSB#LiamPayne	ohsskxvsjsb#liampayne	GW	pos2=NNP	13	nmod	_	O
+8	#OneDirection	#onedirection	NN	pos2=ADD	9	compound	_	O
+9	#	#	NN	_	13	dep	_	O
+10	1	0	CD	pos2=GW	11	nmod	_	O
+11	D	d	NNS	pos2=NN	13	nmod	_	O
+12	…	…	NFP	pos2=:	13	punct	_	O
+13	https://t.co/p5Sap3RUQX	#hlink#	ADD	_	3	dep	_	O
+

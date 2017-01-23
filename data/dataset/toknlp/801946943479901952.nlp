@@ -1,0 +1,21 @@
+1	@JakeDcloward	@jakedcloward	VB	pos2=ADD	6	discourse	_	O
+2	@George_Hill3	@george_hill0	NN	pos2=NNS	1	dobj	_	O
+3	@utahjazz	@utahjazz	IN	pos2=VBD	1	prep	_	O
+4	his	his	PRP$	_	5	poss	_	O
+5	name	name	NN	_	3	pobj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	Indiana	indiana	NNP	_	8	compound	_	U-GPE
+8	George	george	NNP	_	6	attr	_	U-PERSON
+9	because	because	IN	_	11	mark	_	O
+10	he	he	PRP	_	11	nsubj	_	O
+11	is	be	VBZ	_	6	advcl	_	O
+12	from	from	IN	_	11	prep	_	O
+13	Indiana	indiana	NNP	_	12	pobj	_	U-GPE
+14	not	not	RB	_	17	neg	_	O
+15	because	because	IN	_	17	mark	_	O
+16	he	he	PRP	_	17	nsubj	_	O
+17	played	play	VBD	_	13	relcl	_	O
+18	for	for	IN	_	17	prep	_	O
+19	pacers	pacer	NNS	pos2=NNPS	18	pobj	_	O
+20	.	.	.	_	6	punct	_	O
+

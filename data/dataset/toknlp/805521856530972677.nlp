@@ -1,0 +1,23 @@
+1	idk	idk	UH	pos2=VB	5	discourse	_	O
+2	why	why	WRB	_	5	advmod	_	O
+3	my	my	PRP$	_	4	poss	_	O
+4	family	family	NN	_	5	nsubj	_	O
+5	feels	feel	VBZ	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	need	need	NN	_	5	dobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	tag	tag	VB	_	7	acl	_	O
+10	me	me	PRP	_	9	dobj	_	O
+11	in	in	IN	_	9	prep	_	O
+12	any	any	DT	_	13	det	_	O
+13	post	post	NN	pos2=AFX	11	pobj	_	O
+14	relevant	relevant	JJ	_	13	nmod	_	O
+15	to	to	IN	_	14	prep	_	O
+16	vegetarianism	vegetarianism	NN	_	15	pobj	_	O
+17	they	they	PRP	_	18	nsubj	_	O
+18	see	see	VBP	_	16	relcl	_	O
+19	on	on	IN	_	18	prep	_	O
+20	facebook	facebook	NN	pos2=NNP	19	pobj	_	O
+21	but	but	CC	_	5	cc	_	O
+22	ok	ok	UH	pos2=JJ	18	discourse	_	O
+

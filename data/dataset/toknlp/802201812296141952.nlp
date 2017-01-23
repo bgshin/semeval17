@@ -1,0 +1,14 @@
+1	#Trump	#trump	NNP	pos2=XX	13	dep	_	U-GPE
+2	works!#MAGA	works!#maga	NN	pos2=ADD	13	dep	_	O
+3	#DraintheSwamp	#draintheswamp	XX	pos2=ADD	13	dep	_	O
+4	#TrumpPence16	#trumppence0	NN	pos2=XX	13	dep	_	O
+5	#Trump2020	#trump0	XX	pos2=NN	13	dep	_	O
+6	#BasketofDeplorables	#basketofdeplorables	XX	pos2=NNS	13	dep	_	O
+7	#TrumpTrain	#trumptrain	XX	pos2=ADD	13	dep	_	O
+8	#fakenews	#fakenews	XX	pos2=AFX	13	dep	_	O
+9	#	#	NN	pos2=HYPH	13	dep	_	O
+10	2A	0a	NN	_	11	compound	_	U-MONEY
+11	#	#	NN	_	13	dep	_	O
+12	1	0	CD	pos2=GW	11	nmod	_	U-MONEY
+13	Ahttps://t.co/B1aBVi7Sf4	#hlink#	ADD	pos2=NN	0	root	_	O
+

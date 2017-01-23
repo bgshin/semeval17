@@ -1,0 +1,21 @@
+1	@De7ails	@de0ails	NNS	pos2=UH	6	discourse	_	O
+2	@nxtaliabxstos	@nxtaliabxstos	UH	pos2=NNS	6	discourse	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	know	know	VBP	_	6	parataxis	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	got	get	VBD	pos2=VBP	0	root	_	O
+7	all	all	PDT	_	10	predet	_	O
+8	these	these	DT	_	10	det	_	O
+9	nasty	nasty	JJ	_	10	nmod	_	O
+10	conservatives	conservative	NNS	_	14	nsubj	_	O
+11	in	in	IN	_	10	prep	_	O
+12	my	my	PRP$	_	13	poss	_	O
+13	mentions	mention	NNS	_	11	pobj	_	O
+14	rn	rn	NN	pos2=RB	6	dobj	_	O
+15	!!	!!	.	_	6	punct	_	O
+
+1	Death	death	NN	_	2	compound	_	O
+2	threats	threat	NNS	pos2=VBZ	0	root	_	O
+3	nd	nd	RB	pos2=VBP	4	advmod	_	O
+4	all	all	RB	pos2=DT	2	advmod	_	O
+

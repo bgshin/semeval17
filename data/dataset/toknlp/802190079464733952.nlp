@@ -1,0 +1,24 @@
+1	Dakota	dakota	NNP	pos2=GW	2	compound	_	O
+2	Access	access	NNP	pos2=GW	4	compound	_	O
+3	Pipeline	pipeline	NN	pos2=NNP	4	compound	_	O
+4	protest	protest	NN	pos2=VB	7	dep	_	O
+5	,	,	,	_	6	punct	_	O
+6	go	go	VB	_	0	root	_	O
+7	check	check	VB	_	6	xcomp	_	O
+8	it	it	PRP	_	7	dobj	_	O
+9	out	out	RP	_	7	prt	_	O
+10	.	.	.	_	6	punct	_	O
+
+1	Stuff	stuff	NN	pos2=NNP	0	root	_	O
+2	you	you	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	hear	hear	VB	_	1	relcl	_	O
+6	about	about	IN	pos2=RB	5	prep	_	O
+7	on	on	IN	pos2=RB	5	prep	_	O
+8	TV.#dakotapipeline	tv.#dakotapipeline	NNP	_	9	compound	_	B-PERSON
+9	#dakota	#dakota	NNP	pos2=UH	7	pobj	_	L-PERSON
+10	...	..	.	_	5	punct	_	O
+
+1	https://t.co/V06XQsp5ns	#hlink#	ADD	_	0	root	_	U-ORG
+

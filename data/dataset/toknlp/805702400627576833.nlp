@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det	_	O
+2	government	government	NN	_	3	nsubj	_	O
+3	needs	need	VBZ	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	start	start	VB	_	3	xcomp	_	O
+6	listening	listen	VBG	pos2=NN	5	xcomp	_	O
+7	and	and	CC	_	5	cc	_	O
+8	stop	stop	VB	_	5	conj	_	O
+9	doing	do	VBG	_	8	xcomp	_	O
+10	damage	damage	NN	_	9	dobj	_	O
+11	to	to	IN	_	10	prep	_	O
+12	UK	uk	NNP	pos2=VB	11	pobj	_	U-GPE
+13	higher	high	JJR	_	14	nmod	_	O
+14	education	education	NN	_	8	dobj	_	O
+15	with	with	IN	_	14	prep	_	O
+16	negative	negative	JJ	_	17	nmod	_	O
+17	massages	massage	NNS	_	15	pobj	_	O
+18	on	on	IN	_	17	prep	_	O
+19	immi	immi	NN	pos2=NNS	18	pobj	_	O
+20	…	…	NFP	pos2=,	21	punct	_	O
+21	https://t.co/vCD25LYxyf	#hlink#	ADD	_	19	appos	_	O
+

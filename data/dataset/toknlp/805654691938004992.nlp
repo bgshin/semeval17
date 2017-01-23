@@ -1,0 +1,15 @@
+1	📷	📷	``	pos2=SYM	5	punct	_	O
+2	Young	young	NNP	pos2=JJ	3	compound	_	B-ORG
+3	People	people	NNPS	pos2=NNP	5	poss	_	I-ORG
+4	’s	's	POS	_	3	case	_	I-ORG
+5	Revolution	revolution	NNP	_	10	ccomp	_	L-ORG
+6	,	,	,	_	5	punct	_	O
+7	From	from	IN	_	5	prep	_	O
+8	Minimum	minimum	NNP	pos2=JJ	9	compound	_	O
+9	Wage	wage	NNP	pos2=NN	7	pobj	_	O
+10	To	to	IN	pos2=NNP	0	root	_	O
+11	Millions	#crd#	NNPS	pos2=NNS	10	pobj	_	U-CARDINAL
+12	.	.	.	_	5	punct	_	O
+
+1	https://t.co/VIZKXzyC23	#hlink#	ADD	_	0	root	_	U-ORG
+

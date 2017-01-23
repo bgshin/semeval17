@@ -1,0 +1,28 @@
+1	Steve	steve	NNP	_	2	compound	_	B-PERSON
+2	Bannon	bannon	NNP	_	6	vocative	_	L-PERSON
+3	:	:	:	_	6	punct	_	O
+4	"	"	``	_	6	punct	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	blame	blame	VBP	_	0	root	_	O
+7	this	this	DT	_	10	det	_	O
+8	liberal	liberal	JJ	_	10	nmod	_	O
+9	PC	pc	NN	_	10	compound	_	O
+10	culture	culture	NN	_	6	dobj	_	O
+11	for	for	IN	_	6	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	lack	lack	NN	_	11	pobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	a	a	DT	_	17	det	_	O
+16	White	white	NNP	pos2=JJ	17	compound	_	O
+17	Friday	friday	NNP	_	14	pobj	_	U-DATE
+18	.	.	.	_	6	punct	_	O
+
+1	Obama	obama	NNP	pos2=NN	4	nsubjpass	_	U-PERSON
+2	should	should	MD	_	4	aux	_	O
+3	be	be	VB	_	4	auxpass	_	O
+4	impeached	impeach	VBN	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	this	this	DT	_	5	pobj	_	O
+7	!	!	.	pos2=,	4	punct	_	O
+8	"	"	''	_	4	punct	_	O
+

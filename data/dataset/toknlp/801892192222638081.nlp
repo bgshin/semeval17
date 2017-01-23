@@ -1,0 +1,13 @@
+1	@CGasparino	@cgasparino	ADD	pos2=XX	6	nsubjpass	_	U-LANGUAGE
+2	@GoFullAuto	@gofullauto	IN	pos2=FW	1	prep	_	O
+3	@gvrvs	@gvrvs	PRP$	pos2=POS	4	poss	_	O
+4	Wall	wall	NNP	pos2=NN	2	pobj	_	U-PERSON
+5	is	be	VBZ	_	6	auxpass	_	O
+6	set	set	VBN	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	begin	begin	VB	_	6	xcomp	_	O
+9	construction	construction	NN	_	8	dobj	_	O
+10	in	in	IN	_	8	prep	_	O
+11	M	m	NNP	pos2=NN	10	pobj	_	B-GPE
+12	archhttps://t.co/IzS4sKJ9C1	#hlink#	ADD	_	11	appos	_	L-GPE
+

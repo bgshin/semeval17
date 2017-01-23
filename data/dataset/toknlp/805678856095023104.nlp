@@ -1,0 +1,15 @@
+1	Especially	especially	RB	_	6	advmod	_	O
+2	if	if	IN	_	6	mark	_	O
+3	you	you	PRP	_	6	nsubj	_	O
+4	do	do	VBP	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	wan	wan	VB	pos2=JJ	0	root	_	O
+7	na	to	TO	_	8	aux	_	O
+8	get	get	VB	_	6	xcomp	_	O
+9	minimum	minimum	JJ	_	10	nmod	_	O
+10	wage	wage	NN	_	8	dobj	_	O
+11	all	all	PDT	pos2=DT	13	predet	_	O
+12	your	your	PRP$	_	13	poss	_	O
+13	life	life	NN	_	8	npadvmod	_	O
+14	.	.	.	_	6	punct	_	O
+

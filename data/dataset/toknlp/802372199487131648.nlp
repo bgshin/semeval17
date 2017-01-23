@@ -1,0 +1,19 @@
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	exactly	exactly	RB	_	4	advmod	_	O
+4	how	how	WRB	_	6	advmod	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	is	be	VBZ	_	2	ccomp	_	O
+7	right	right	JJ	pos2=RB	6	acomp	_	O
+8	this	this	DT	_	9	det	_	O
+9	moment	moment	NN	_	6	npadvmod	_	O
+10	with	with	IN	_	6	prep	_	O
+11	a	a	DT	_	13	det	_	O
+12	Trump	trump	NNP	pos2=NN	13	compound	_	U-ORG
+13	cabinet	cabinet	NN	_	10	pobj	_	O
+14	!	!	.	_	2	punct	_	O
+
+1	🖕🏼🖕🏼🖕🏼🖕🏼🖕🏼	🖕🏼🖕🏼🖕🏼🖕🏼🖕🏼	NFP	pos2=GW	3	punct	_	O
+2	https://t.co/zK51fTbtdF	#hlink#	ADD	_	3	nmod	_	O
+3	https://t.co/DThdIY1C6E	#hlink#	ADD	_	0	root	_	U-ORG
+

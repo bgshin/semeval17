@@ -1,0 +1,16 @@
+1	Modified	modify	VBN	pos2=VBD	3	nmod	_	O
+2	tesla	tesla	NN	pos2=PRP$	3	compound	_	O
+3	model	model	NN	_	5	poss	_	O
+4	s	s	POS	_	3	case	_	O
+5	hearse	hearse	NN	_	6	nsubj	_	O
+6	offers	offer	VBZ	_	0	root	_	O
+7	ev	ev	NN	pos2=JJ	8	compound	_	O
+8	ride	ride	NN	pos2=VB	6	dobj	_	O
+9	to	to	IN	pos2=TO	8	prep	_	O
+10	#TechNews	#technews	NNP	pos2=VB	13	compound	_	B-ORG
+11	#Tech	#tech	NNP	pos2=POS	13	compound	_	I-ORG
+12	#News	#news	NNP	pos2=POS	13	compound	_	I-ORG
+13	#Gadget	#gadget	NNP	pos2=GW	9	pobj	_	L-ORG
+14	#Apps	#apps	VBZ	pos2=ADD	6	conj	_	O
+15	https://t.co/JotfLG146R	#hlink#	ADD	_	14	dobj	_	O
+

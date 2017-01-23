@@ -1,0 +1,13 @@
+1	Do	do	VB	pos2=VBP	0	root	_	O
+2	yourself	yourself	PRP	_	1	dative	_	O
+3	a	a	DT	_	4	det	_	O
+4	favor	favor	NN	_	1	dobj	_	O
+5	and	and	CC	_	1	cc	_	O
+6	watch	watch	VB	_	1	conj	_	O
+7	Congressman	congressman	NNP	pos2=NN	8	compound	_	O
+8	Lewis	lewis	NNP	_	6	dobj	_	U-PERSON
+9	at	at	IN	_	6	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	#NBAwards	#nbawards	NNPS	pos2=NNS	9	pobj	_	O
+12	https://t.co/vTcqQ34ffb	#hlink#	ADD	_	9	pobj	_	O
+

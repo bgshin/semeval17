@@ -1,0 +1,10 @@
+1	🌹	🌹	NN	pos2=SYM	5	dep	_	O
+2	(	(	-LRB-	_	9	punct	_	O
+3	src	src	NN	_	5	dep	_	O
+4	:	:	:	_	5	punct	_	O
+5	allocine	allocine	NN	pos2=JJ	9	dep	_	O
+6	)	)	-RRB-	_	5	punct	_	O
+7	#BeautyAndTheBeast	#beautyandthebeast	GW	pos2=IN	9	nmod	_	O
+8	#lukeevans	#lukeevans	GW	pos2=NNS	9	nmod	_	O
+9	https://t.co/Yl9Dhdrlv6	#hlink#	ADD	pos2=NN	0	root	_	O
+

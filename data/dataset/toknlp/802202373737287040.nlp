@@ -1,0 +1,29 @@
+1	Hollyweird	hollyweird	JJ	pos2=NNP	2	nmod	_	O
+2	addle	addle	NN	pos2=VBP	3	nsubj	_	O
+3	minded	minded	JJ	pos2=AFX	12	discourse	_	O
+4	&	&	CC	_	3	cc	_	O
+5	obtuse	obtuse	JJ	_	3	conj	_	O
+6	Kristen	kristen	NNP	_	7	compound	_	O
+7	Bell	bell	NNP	_	12	nsubj	_	O
+8	&	&	CC	_	7	cc	_	O
+9	idiots	idiot	NNS	_	7	conj	_	O
+10	like	like	IN	pos2=VBP	9	prep	_	O
+11	her	her	PRP	pos2=PRP$	10	pobj	_	O
+12	are	be	VBP	_	0	root	_	O
+13	too	too	RB	_	14	advmod	_	O
+14	stupid	stupid	JJ	_	12	acomp	_	O
+15	to	to	TO	_	16	aux	_	O
+16	know	know	VB	_	14	xcomp	_	O
+17	Nazi	nazi	NNP	_	18	nsubj	_	U-NORP
+18	is	be	VBZ	_	16	ccomp	_	O
+19	the	the	DT	_	22	det	_	B-ORG
+20	National	national	NNP	_	22	compound	_	I-ORG
+21	Socialist	socialist	NNP	_	22	compound	_	I-ORG
+22	Party	party	NNP	_	18	attr	_	L-ORG
+23	.	.	.	_	12	punct	_	O
+
+1	Run	run	VBN	pos2=VB	0	root	_	O
+2	by	by	IN	_	1	agent	_	O
+3	Libs	libs	NNP	pos2=NNPS	2	pobj	_	U-ORG
+4	.	.	.	_	1	punct	_	O
+

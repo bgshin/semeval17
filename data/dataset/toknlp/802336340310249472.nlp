@@ -1,0 +1,21 @@
+1	#legalize	#legalize	UH	pos2=XX	5	discourse	_	O
+2	,	,	,	_	5	punct	_	O
+3	#marijuananews	#marijuananews	NNP	pos2=PRP$	4	compound	_	B-ORG
+4	Group	group	NNP	_	5	nsubj	_	L-ORG
+5	plans	plan	VBZ	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	protest	protest	VB	_	5	xcomp	_	O
+8	Sen.	sen.	NNP	_	10	compound	_	O
+9	Jeff	jeff	NNP	_	10	compound	_	B-PERSON
+10	Sessions	sessions	NNP	pos2=NNPS	7	dobj	_	L-PERSON
+11	,	,	,	_	10	punct	_	O
+12	Trump	trump	NNP	_	15	poss	_	O
+13	's	's	POS	_	12	case	_	O
+14	AG	ag	NNP	pos2=NN	15	compound	_	U-ORG
+15	pick	pick	NN	pos2=VB	10	appos	_	O
+16	,	,	,	_	10	punct	_	O
+17	over	over	IN	_	7	prep	_	O
+18	anti-marijuana	anti-marijuana	JJ	pos2=NN	19	nmod	_	O
+19	stance	stance	NN	_	17	pobj	_	O
+20	https://t.co/S2lxluS7Gq	#hlink#	ADD	pos2=NN	7	npadvmod	_	O
+

@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det	_	O
+2	latest	late	JJS	_	3	nmod	_	O
+3	Libraries	library	NNS	pos2=NNP	0	root	_	O
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	world	world	NN	_	4	pobj	_	O
+7	!	!	.	_	3	punct	_	O
+
+1	https://t.co/co89deesYO	#hlink#	ADD	pos2=NN	0	root	_	O
+2	Thanks	thanks	NNS	pos2=NN	1	npadvmod	_	O
+3	to	to	IN	_	2	prep	_	O
+4	@gacos_utokyo	@gacos_utokyo	VB	pos2=NNP	3	pcomp	_	O
+5	@KentonLibrary	@kentonlibrary	NN	pos2=NNP	6	compound	_	O
+6	@biblioteca_uc3	@biblioteca_uc0	NN	pos2=CD	4	dobj	_	B-QUANTITY
+7	m	m	FW	pos2=XX	8	nmod	_	L-QUANTITY
+8	#nbawards	#nbawards	NNS	pos2=.	2	pobj	_	O
+

@@ -1,0 +1,8 @@
+1	Calm	calm	VB	pos2=JJ	0	root	_	O
+2	before	before	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	storm	storm	NN	_	2	pobj	_	O
+5	...	..	.	pos2=,	1	punct	_	O
+
+1	#ThisIsUs	#thisisus	ADD	pos2=NN	0	root	_	O
+

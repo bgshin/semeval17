@@ -1,0 +1,8 @@
+1	@poroshenko	@poroshenko	UH	pos2=XX	4	discourse	_	O
+2	@novostidnua_en	@novostidnua_en	RB	pos2=VB	4	advmod	_	O
+3	better	well	RB	pos2=RBR	4	advmod	_	O
+4	develop	develop	VB	pos2=VBP	0	root	_	O
+5	wind	wind	NN	_	4	dobj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	solar	solar	JJ	_	5	conj	_	O
+

@@ -1,0 +1,28 @@
+1	you	you	PRP	_	2	nsubj	_	O
+2	know	know	VBP	_	5	parataxis	_	O
+3	which	which	WDT	_	4	det	_	O
+4	republican	republican	JJ	pos2=NNP	5	nsubj	_	U-NORP
+5	had	have	VBD	_	0	root	_	O
+6	a	a	DT	_	8	det	_	O
+7	tough	tough	JJ	_	8	nmod	_	O
+8	night	night	NN	_	5	dobj	_	O
+9	at	at	IN	_	5	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	theater	theater	NN	_	9	pobj	_	O
+12	?	?	.	_	5	punct	_	O
+
+1	Lincoln	lincoln	NNP	pos2=NN	0	root	_	U-ORG
+2	.	.	.	_	1	punct	_	O
+
+1	now	now	RB	pos2=UH	2	advmod	_	O
+2	get	get	VB	pos2=VBP	0	root	_	O
+3	back	back	RB	_	2	advmod	_	O
+4	to	to	IN	_	3	prep	_	O
+5	transitioning	transition	VBG	pos2=NN	4	pcomp	_	O
+6	,	,	,	_	2	punct	_	O
+7	you	you	PRP	_	8	nmod	_	O
+8	lollygaggers	lollygaggers	NNS	pos2=VBP	5	dobj	_	O
+9	!!!	!!	.	_	2	punct	_	O
+
+1	#TrumpTransitionTeam	#trumptransitionteam	ADD	pos2=XX	0	root	_	O
+

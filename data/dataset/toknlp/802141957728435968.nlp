@@ -1,0 +1,16 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@sacca	@sacca	UH	pos2=NN	0	root	_	O
+2	on	on	IN	_	6	prep	_	O
+3	#Periscope	#periscope	NN	pos2=NNP	2	pobj	_	O
+4	:	:	:	_	6	punct	_	O
+5	David	david	NNP	_	6	compound	_	B-PERSON
+6	Blaine	blaine	NNP	_	1	vocative	_	L-PERSON
+7	.	.	.	_	6	punct	_	O
+
+1	Breaking	break	VBG	pos2=JJ	2	nmod	_	O
+2	heads	head	NNS	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	https://t.co/fMpkNUx4Se	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,15 @@
+1	#BrettMcGurk	#brettmcgurk	NN	pos2=NNS	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	#ISIS	#isis	NN	pos2=NNP	5	nsubjpass	_	O
+4	Was	be	VBD	pos2=NNP	5	auxpass	_	O
+5	Released	release	VBN	_	0	root	_	O
+6	from#CampBucca	from#campbucca	NNP	pos2=ADD	5	dobj	_	B-WORK_OF_ART
+7	By	by	IN	_	5	agent	_	I-WORK_OF_ART
+8	#HillaryClintonin	#hillaryclintonin	NNP	pos2=NN	9	compound	_	I-WORK_OF_ART
+9	Concert	concert	NNP	pos2=NN	7	pobj	_	L-WORK_OF_ART
+10	w	w	IN	pos2=NNP	5	prep	_	O
+11	#Saudi	#saudi	NNP	pos2=XX	13	poss	_	O
+12	's	's	POS	_	11	case	_	O
+13	…	…	NFP	pos2=-LRB-	10	pobj	_	O
+14	https://t.co/p8gCUbHsPx	#hlink#	ADD	pos2=NN	5	dep	_	O
+

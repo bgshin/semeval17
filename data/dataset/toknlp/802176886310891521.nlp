@@ -1,0 +1,31 @@
+1	First	#ord#	RB	pos2=JJ	2	advmod	_	U-ORDINAL
+2	Drive	drive	NN	pos2=VB	12	dep	_	O
+3	:	:	:	_	12	punct	_	O
+4	Tesla	tesla	NNP	_	5	compound	_	O
+5	Model	model	NNP	pos2=NN	8	poss	_	O
+6	S	s	POS	pos2=NN	5	case	_	O
+7	P100	p0	NN	pos2=NNP	8	compound	_	O
+8	D	d	NN	pos2=NNP	13	pobj	_	O
+9	-	-	:	pos2=,	12	punct	_	O
+10	It	it	PRP	_	12	nsubj	_	O
+11	may	may	MD	_	12	aux	_	O
+12	look	look	VB	_	0	root	_	O
+13	like	like	IN	_	12	prep	_	O
+14	a	a	DT	_	19	det	_	O
+15	garden	garden	NN	pos2=VB	17	compound	_	O
+16	-	-	HYPH	_	17	punct	_	O
+17	variety	variety	NN	_	19	compound	_	O
+18	Model	model	NNP	pos2=NN	19	compound	_	B-PRODUCT
+19	S	s	NNP	pos2=NN	13	pobj	_	L-PRODUCT
+20	,	,	,	_	12	punct	_	O
+21	but	but	CC	pos2=IN	12	cc	_	O
+22	Tesla	tesla	NNP	_	25	poss	_	U-ORG
+23	's	's	POS	_	22	case	_	O
+24	latest	late	JJS	_	25	nmod	_	O
+25	packs	pack	NNS	pos2=VBZ	28	acl	_	O
+26	the	the	DT	_	27	det	_	O
+27	bigg	bigg	NN	pos2=NNS	25	dobj	_	O
+28	...	..	.	pos2=,	12	punct	_	O
+
+1	https://t.co/8h8bjNyS1R	#hlink#	ADD	_	0	root	_	U-ORG
+

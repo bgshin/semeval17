@@ -1,0 +1,24 @@
+1	@maduro_en	@maduro_en	NNP	pos2=UH	2	compound	_	U-ORG
+2	@VTVcanal8	@vtvcanal0	NN	pos2=WP	3	nsubj	_	O
+3	lies	lie	VBZ	pos2=NNS	0	root	_	O
+4	and	and	CC	_	3	cc	_	O
+5	more	more	JJR	pos2=RBR	6	nmod	_	O
+6	lies	lie	NNS	pos2=VBZ	3	conj	_	O
+7	...	..	.	_	3	punct	_	O
+
+1	Here	here	RB	_	2	advmod	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	one	#crd#	CD	_	4	nmod	_	U-CARDINAL
+4	truth	truth	NN	_	2	nsubj	_	O
+5	,	,	,	_	4	punct	_	O
+6	the	the	DT	_	7	det	_	O
+7	world	world	NN	_	4	appos	_	O
+8	&	&	CC	_	7	cc	_	O
+9	Cubans	cuban	NNPS	_	7	conj	_	U-NORP
+10	celebrate	celebrate	VBP	_	2	advcl	_	O
+11	the	the	DT	_	12	det	_	O
+12	death	death	NN	_	10	dobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	Castro	castro	NNP	_	13	pobj	_	O
+15	https://t.co/RsK8zJRavO	#hlink#	ADD	_	14	appos	_	O
+

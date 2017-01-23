@@ -1,0 +1,24 @@
+1	she	she	PRP	_	2	nsubj	_	O
+2	set	set	VBD	pos2=VB	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	stage	stage	NN	_	2	dobj	_	O
+5	for	for	IN	_	2	prep	_	O
+6	TPP	tpp	NN	pos2=NNP	5	pobj	_	O
+7	,	,	,	_	2	punct	_	O
+8	and	and	CC	_	2	cc	_	O
+9	made	make	VBD	_	2	conj	_	O
+10	sure	sure	JJ	pos2=UH	9	oprd	_	O
+11	all	all	PDT	_	13	predet	_	O
+12	the	the	DT	_	13	det	_	O
+13	stars	star	NNS	_	15	nsubjpass	_	O
+14	were	be	VBD	_	15	auxpass	_	O
+15	aligned	align	VBN	_	10	ccomp	_	O
+16	for	for	IN	_	15	prep	_	O
+17	it	it	PRP	_	16	pobj	_	O
+18	while	while	IN	_	19	mark	_	O
+19	serving	serve	VBG	_	15	advcl	_	O
+20	in	in	IN	_	19	prep	_	O
+21	the	the	DT	_	23	det	_	O
+22	state	state	NN	_	23	compound	_	O
+23	dept.	dept.	NN	pos2=NNP	20	pobj	_	O
+

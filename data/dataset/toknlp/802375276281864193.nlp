@@ -1,0 +1,14 @@
+1	@ScottPresler	@scottpresler	UH	pos2=NN	5	discourse	_	O
+2	obviously	obviously	RB	_	5	advmod	_	O
+3	she	she	PRP	_	5	nsubj	_	O
+4	should	should	MD	_	5	aux	_	O
+5	donate	donate	VB	_	0	root	_	O
+6	it	it	PRP	_	5	dobj	_	O
+7	all	all	DT	_	6	appos	_	O
+8	to	to	IN	_	5	prep	_	O
+9	the	the	DT	_	13	det	_	O
+10	clinton	clinton	NNP	pos2=NN	13	compound	_	U-PERSON
+11	crime	crime	NN	_	13	compound	_	O
+12	family	family	NN	_	13	compound	_	O
+13	foundation	foundation	NN	_	8	pobj	_	O
+

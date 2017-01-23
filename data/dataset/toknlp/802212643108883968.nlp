@@ -1,0 +1,10 @@
+1	@realDonaldTrump	@realdonaldtrump	VB	pos2=ADD	0	root	_	O
+2	LIKE	like	UH	pos2=IN	1	discourse	_	O
+3	IF	if	IN	_	5	mark	_	O
+4	YOU	you	PRP	_	5	nsubj	_	O
+5	LOVE	love	VBP	_	1	advcl	_	O
+6	TRUMP	trump	NN	pos2=NNP	5	dobj	_	O
+7	AND	and	CC	pos2=NNP	6	cc	_	O
+8	PENCE	penny	NN	pos2=NNP	6	conj	_	O
+9	@mike_pence	@mike_pence	NN	pos2=.	1	dobj	_	O
+

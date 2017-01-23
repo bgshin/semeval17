@@ -1,0 +1,28 @@
+1	Great	great	JJ	_	2	nmod	_	O
+2	visit	visit	NN	_	0	root	_	O
+3	to	to	IN	_	2	prep	_	O
+4	St	st	NNP	_	6	compound	_	B-ORG
+5	Brigids	brigids	NNP	pos2=NNPS	6	compound	_	I-ORG
+6	Callan	callan	NNP	_	3	pobj	_	L-ORG
+7	today	today	NN	_	2	npadvmod	_	U-DATE
+8	.	.	.	_	2	punct	_	O
+
+1	Met	meet	VBD	pos2=VB	0	root	_	O
+2	some	some	DT	_	4	det	_	O
+3	great	great	JJ	_	4	nmod	_	O
+4	students	student	NNS	_	1	dobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	Good	good	JJ	_	2	nmod	_	O
+2	rivalry	rivalry	NN	_	0	root	_	O
+3	between	between	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	tipp	tipp	NN	pos2=NNP	8	nmod	_	O
+6	and	and	CC	_	5	cc	_	O
+7	kk	kk	NN	pos2=JJ	5	conj	_	O
+8	girls	girl	NNS	_	3	pobj	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/y1j2QZrqqw	#hlink#	ADD	pos2=NN	0	root	_	O
+

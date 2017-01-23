@@ -1,0 +1,26 @@
+1	Conflicts	conflict	NNS	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	only	only	RB	_	4	advmod	_	B-CARDINAL
+4	1	0	CD	_	2	attr	_	L-CARDINAL
+5	of	of	IN	_	4	prep	_	O
+6	many	many	JJ	_	7	nmod	_	O
+7	issues	issue	NNS	_	5	pobj	_	O
+8	facing	face	VBG	_	7	acl	_	O
+9	racist	racist	JJ	pos2=NN	11	advmod	_	O
+10	/	/	SYM	pos2=,	11	punct	_	O
+11	sexist	sexist	JJ	_	13	advmod	_	O
+12	/	/	SYM	_	13	punct	_	O
+13	abusive	abusive	JJ	_	15	advmod	_	O
+14	/	/	SYM	_	15	punct	_	O
+15	narcissistic	narcissistic	JJ	_	17	nmod	_	O
+16	despicable	despicable	JJ	_	17	nmod	_	O
+17	Trump	trump	NNP	pos2=NN	8	dobj	_	U-ORG
+18	.	.	.	_	2	punct	_	O
+
+1	He	he	PRP	_	3	nsubj	_	O
+2	also	also	RB	_	3	advmod	_	O
+3	violated	violate	VBD	_	0	root	_	O
+4	US	us	NNP	pos2=PRP	3	dobj	_	U-GPE
+5	…	…	NFP	pos2=-LRB-	3	punct	_	O
+6	https://t.co/u4XprRpZ2e	#hlink#	ADD	_	3	dobj	_	U-GPE
+

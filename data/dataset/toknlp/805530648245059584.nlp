@@ -1,0 +1,10 @@
+1	@panelfmedia	@panelfmedia	UH	pos2=NN	9	discourse	_	O
+2	@BreitbartNews	@breitbartnews	NNPS	pos2=ADD	9	nmod	_	U-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	heres	heres	VBZ	pos2=CC	2	conj	_	O
+5	part	part	NN	_	4	dobj	_	O
+6	2	0	CD	_	5	nmod	_	U-CARDINAL
+7	by	by	IN	_	4	agent	_	O
+8	msnbc	msnbc	NNP	pos2=NNS	7	pobj	_	U-ORG
+9	https://t.co/2kuhrV9Sth	#hlink#	ADD	pos2=NNP	0	root	_	O
+

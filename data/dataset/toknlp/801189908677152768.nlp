@@ -1,0 +1,24 @@
+1	Microsoft	microsoft	NNP	_	2	nsubj	_	U-ORG
+2	joins	join	VBZ	_	16	ccomp	_	O
+3	Linux	linux	NNP	_	4	compound	_	B-ORG
+4	Foundation	foundation	NNP	pos2=NN	2	dobj	_	L-ORG
+5	in	in	IN	_	2	prep	_	O
+6	another	another	DT	_	7	det	_	O
+7	nod	nod	NN	_	5	pobj	_	O
+8	to	to	TO	pos2=IN	12	aux	_	O
+9	open	open	JJ	pos2=VB	11	nmod	_	O
+10	-	-	HYPH	_	11	punct	_	O
+11	source	source	NN	_	12	compound	_	O
+12	code	code	NN	_	15	dep	_	O
+13	:	:	:	_	16	punct	_	O
+14	Microsoft	microsoft	NNP	_	16	nsubj	_	U-ORG
+15	has	have	VBZ	_	16	aux	_	O
+16	joined	join	VBN	_	0	root	_	O
+17	the	the	DT	_	19	det	_	B-ORG
+18	Linux	linux	NNP	_	19	compound	_	I-ORG
+19	Foundation	foundation	NNP	_	16	dobj	_	L-ORG
+20	,	,	,	_	19	punct	_	O
+21	the	the	DT	_	22	det	_	O
+22	…	…	NFP	pos2=-LRB-	23	punct	_	O
+23	https://t.co/0gMBYeHrdA	#hlink#	ADD	pos2=NN	19	appos	_	O
+

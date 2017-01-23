@@ -1,0 +1,19 @@
+1	📷	📷	NFP	pos2=SYM	10	punct	_	O
+2	#nlpoli	#nlpoli	UH	pos2=NNS	10	discourse	_	O
+3	#DrainTheSwamp	#draintheswamp	NN	pos2=ADD	9	compound	_	O
+4	#Newfoundland	#newfoundland	NNP	pos2=CC	9	compound	_	O
+5	#Nfld	#nfld	NNP	pos2=VBD	9	compound	_	O
+6	#NL	#nl	NNP	pos2=POS	9	compound	_	O
+7	MHA	mha	NNP	_	9	compound	_	O
+8	Bernard	bernard	NNP	_	9	compound	_	B-PERSON
+9	Davis	davis	NNP	_	10	nsubj	_	L-PERSON
+10	is	be	VBZ	_	0	root	_	O
+11	an	an	DT	_	15	det	_	O
+12	Anti-White	anti-white	JJ	_	15	nmod	_	O
+13	,	,	,	_	10	punct	_	O
+14	Cultural	cultural	NNP	pos2=JJ	15	compound	_	O
+15	Marxist	marxist	NNP	_	10	attr	_	U-NORP
+16	....	..	.	pos2=,	10	punct	_	O
+
+1	https://t.co/paEtl0HGay	#hlink#	ADD	_	0	root	_	U-ORG
+

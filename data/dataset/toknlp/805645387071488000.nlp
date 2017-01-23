@@ -1,0 +1,14 @@
+1	Pediatric	pediatric	JJ	pos2=NNP	2	nmod	_	O
+2	Vaccines	vaccine	NNS	pos2=NNP	6	nmod	_	O
+3	2015	0	CD	pos2=POS	13	dep	_	U-DATE
+4	Market	market	NN	pos2=NNP	5	compound	_	O
+5	Trend	trend	NN	pos2=NNP	6	compound	_	O
+6	Analysis	analysis	NN	pos2=NNP	13	dep	_	O
+7	,	,	,	_	6	punct	_	O
+8	Research	research	NNP	pos2=NN	9	compound	_	B-ORG
+9	Scope	scope	NN	pos2=NNP	6	conj	_	L-ORG
+10	,	,	,	_	9	punct	_	O
+11	Forecasts	forecast	NNS	pos2=VBZ	9	conj	_	O
+12	2022	0	CD	_	13	dep	_	U-DATE
+13	https://t.co/Uevn3JnlqG	#hlink#	ADD	pos2=NNS	0	root	_	O
+

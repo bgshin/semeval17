@@ -1,0 +1,26 @@
+1	Our	our	PRP$	_	2	poss	_	O
+2	Addiction	addiction	NN	_	9	nsubj	_	O
+3	to	to	IN	_	2	prep	_	O
+4	Fossil	fossil	NNP	pos2=NN	5	compound	_	B-ORG
+5	Fuels	fuel	NNPS	pos2=NNS	3	pobj	_	L-ORG
+6	Will	will	MD	pos2=NNP	9	aux	_	O
+7	Most	most	RBS	pos2=NNP	8	advmod	_	O
+8	Certainly	certainly	RB	_	9	advmod	_	O
+9	Lead	lead	VB	pos2=GW	0	root	_	O
+10	To	to	IN	_	9	prep	_	O
+11	Our	our	PRP$	_	13	poss	_	O
+12	Own	own	JJ	pos2=NNP	13	nmod	_	O
+13	Extinction	extinction	NN	pos2=NNP	10	pobj	_	O
+14	.	.	.	_	9	punct	_	O
+
+1	Maybe	maybe	RB	_	2	advmod	_	O
+2	Better	good	JJR	pos2=NNP	0	root	_	O
+3	For	for	IN	_	2	prep	_	O
+4	The	the	DT	_	5	det	_	O
+5	Planet	planet	NNP	_	3	pobj	_	O
+6	Once	once	IN	_	10	mark	_	O
+7	We	we	PRP	_	10	nmod	_	O
+8	A	a	DT	pos2=GW	9	det	_	O
+9	…	…	NFP	pos2=ADD	10	punct	_	O
+10	https://t.co/yuZucMdDop	#hlink#	ADD	pos2=NN	5	appos	_	O
+

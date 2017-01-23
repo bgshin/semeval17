@@ -1,0 +1,22 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@AnnCoulter	@anncoulter	NNP	pos2=NN	3	nsubj	_	U-GPE
+2	can	can	MD	_	3	aux	_	O
+3	@realDonaldTrump	@realdonaldtrump	VB	pos2=XX	0	root	_	O
+4	federalise	federalise	VB	pos2=VBD	3	xcomp	_	O
+5	the	the	DT	_	8	det	_	B-ORG
+6	California	california	NNP	_	8	compound	_	I-ORG
+7	National	national	NNP	_	8	compound	_	I-ORG
+8	Guard	guard	NNP	_	4	dobj	_	L-ORG
+9	and	and	CC	_	4	cc	_	O
+10	purge	purge	VB	pos2=NN	4	conj	_	O
+11	San	san	NNP	_	12	compound	_	B-GPE
+12	Francisco	francisco	NNP	_	10	dobj	_	L-GPE
+13	of	of	IN	_	10	prep	_	O
+14	all	all	PDT	_	17	predet	_	O
+15	the	the	DT	_	17	det	_	O
+16	bad	bad	JJ	_	17	nmod	_	O
+17	hombres	hombre	NNS	_	13	pobj	_	O
+18	like	like	IN	pos2=UH	17	prep	_	O
+19	@JaneKim	@janekim	NNS	pos2=NNP	18	pobj	_	U-GPE
+

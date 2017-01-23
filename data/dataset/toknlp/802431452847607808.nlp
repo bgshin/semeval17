@@ -1,0 +1,25 @@
+1	@cher	@cher	WP	pos2=UH	2	nsubj	_	O
+2	AMAZES	amaze	VBZ	_	0	root	_	O
+3	ME	me	PRP	_	2	dobj	_	O
+4	THAT	that	IN	_	7	mark	_	O
+5	MORONS	moron	NNS	pos2=NNPS	2	dobj	_	O
+6	WHO	who	WP	pos2=NNP	7	nsubj	_	O
+7	CLAIM	claim	VBP	_	5	relcl	_	O
+8	THEY	they	PRP	pos2=NNP	15	nsubj	_	O
+9	R	r	JJ	pos2=PRP$	11	nmod	_	O
+10	RIGHT	right	JJ	pos2=NN	11	nmod	_	O
+11	WING	wing	NN	pos2=NNP	12	compound	_	O
+12	CONSERVATIVE	conservative	JJ	pos2=NN	16	compound	_	O
+13	CAN	can	MD	_	15	aux	_	O
+14	ONLY	only	RB	_	15	advmod	_	O
+15	SPEW	spew	VB	_	7	ccomp	_	O
+16	VENOM	venom	NN	_	15	dobj	_	O
+17	NEVER	never	RB	_	21	neg	_	O
+18	A	a	DT	_	21	det	_	O
+19	SOLUTION	solution	NN	_	21	nmod	_	O
+20	2ANY	0any	JJ	pos2=NN	21	nmod	_	O
+21	PROBLEM	problem	NN	_	22	nsubj	_	O
+22	EASIER	easy	JJR	pos2=NN	24	nmod	_	O
+23	2	0	CD	_	24	nmod	_	B-DATE
+24	👉LIBERALS	👉liberals	NNS	_	15	npadvmod	_	L-DATE
+

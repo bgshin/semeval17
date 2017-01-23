@@ -1,0 +1,24 @@
+1	"	"	``	pos2=SYM	2	punct	_	O
+2	England	england	NNP	_	13	nsubj	_	U-GPE
+3	and	and	CC	_	2	cc	_	O
+4	Wales	wales	NNP	pos2=NNPS	2	conj	_	U-GPE
+5	at	at	IN	_	2	prep	_	O
+6	under	under	IN	pos2=RB	7	qmod	_	O
+7	five	#crd#	CD	_	9	nmod	_	B-PERCENT
+8	per	per	NN	pos2=IN	9	compound	_	I-PERCENT
+9	cent	cent	NN	_	5	pobj	_	L-PERCENT
+10	,	,	,	_	13	punct	_	O
+11	while	while	IN	_	13	mark	_	O
+12	Christians	christian	NNPS	pos2=NNP	13	nsubj	_	U-NORP
+13	account	account	VBP	_	18	nmod	_	O
+14	for	for	IN	_	13	prep	_	O
+15	nearly	nearly	RB	_	16	advmod	_	B-CARDINAL
+16	60	0	CD	_	14	pobj	_	L-CARDINAL
+17	per	per	IN	pos2=NN	16	prep	_	O
+18	...	..	.	pos2=,	19	prep	_	O
+19	"	"	''	_	0	root	_	O
+
+1	https://t.co/NS0FQSGjAL	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@MailOnline	@mailonline	NN	pos2=ADD	2	pobj	_	O
+

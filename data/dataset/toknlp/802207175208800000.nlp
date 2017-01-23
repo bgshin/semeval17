@@ -1,0 +1,16 @@
+1	Every	every	DT	_	2	det	_	O
+2	cop	cop	NN	_	8	nsubj	_	O
+3	killed	kill	VBN	_	2	acl	_	O
+4	by	by	IN	_	3	agent	_	O
+5	a	a	DT	_	7	det	_	O
+6	#BlackLivesMatter	#blacklivesmatter	NNP	pos2=``	7	compound	_	U-NORP
+7	terrorist	terrorist	NN	_	4	pobj	_	O
+8	is	be	VBZ	_	0	root	_	O
+9	more	more	JJR	_	10	nmod	_	O
+10	blood	blood	NN	_	8	attr	_	O
+11	on	on	IN	_	10	prep	_	O
+12	@jack	@jack	NNP	pos2=PRP	14	poss	_	U-GPE
+13	's	's	POS	_	12	case	_	O
+14	hands	hand	NNS	_	11	pobj	_	O
+15	.	.	.	_	8	punct	_	O
+

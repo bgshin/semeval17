@@ -1,0 +1,13 @@
+1	#Banderastan	#banderastan	NNP	pos2=MD	2	compound	_	B-PERSON
+2	#Ukraine	#ukraine	NNP	pos2=NN	5	nsubj	_	L-PERSON
+3	not	not	RB	_	5	neg	_	O
+4	to	to	TO	_	5	aux	_	O
+5	extradite	extradite	VB	_	0	root	_	O
+6	#Saakashvili	#saakashvili	NNP	pos2=NNS	5	dobj	_	U-ORG
+7	on	on	IN	_	5	prep	_	O
+8	#Georgia	#georgia	NNP	_	10	poss	_	U-ORG
+9	's	's	POS	_	8	case	_	O
+10	request	request	NN	pos2=GW	7	pobj	_	O
+11	https://t.co/cYJTIWELKK	#hlink#	ADD	_	12	nmod	_	O
+12	https://t.co/hTFyt5cg2T	#hlink#	ADD	_	5	dep	_	U-ORG
+

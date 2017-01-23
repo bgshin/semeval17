@@ -1,0 +1,12 @@
+1	@wickeddpapi	@wickeddpapi	UH	pos2=NN	4	discourse	_	O
+2	im	im	NN	pos2=UH	4	nmod	_	O
+3	like	like	UH	pos2=IN	4	discourse	_	O
+4	🤔	🤔	NN	pos2=NNP	5	mark	_	O
+5	so	so	RB	pos2=IN	7	advmod	_	O
+6	maduro	maduro	NNP	pos2=FW	7	nsubj	_	U-PERSON
+7	is	be	VBZ	_	0	root	_	O
+8	next	next	JJ	pos2=RB	7	acomp	_	O
+9	?	?	.	_	7	punct	_	O
+
+1	Lok	lok	NNP	pos2=VB	0	root	_	O
+

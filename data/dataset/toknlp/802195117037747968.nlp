@@ -1,0 +1,10 @@
+1	@BroderickGreer	@broderickgreer	NNP	pos2=NN	3	compound	_	O
+2	Steve	steve	NNP	_	3	compound	_	B-PERSON
+3	Bannon	bannon	NNP	_	5	nsubj	_	L-PERSON
+4	has	have	VBZ	_	5	aux	_	O
+5	done	do	VBN	_	0	root	_	O
+6	nothing	nothing	NN	_	5	dobj	_	O
+7	to	to	IN	_	5	prep	_	O
+8	you	you	PRP	_	7	pobj	_	O
+9	.	.	.	_	5	punct	_	O
+

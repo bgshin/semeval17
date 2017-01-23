@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det	_	O
+2	latest	late	JJS	_	5	advmod	_	O
+3	The	the	DT	_	5	det	_	O
+4	Deep	deep	JJ	pos2=NNP	5	nmod	_	O
+5	learning	learning	NN	pos2=VBG	0	root	_	O
+6	Daily	daily	NNP	pos2=RB	5	appos	_	U-DATE
+7	!	!	.	_	2	punct	_	O
+
+1	https://t.co/OrWjjIczgT	#hlink#	ADD	pos2=NN	0	root	_	O
+2	Thanks	thanks	NNS	pos2=NN	1	npadvmod	_	O
+3	to	to	IN	_	2	prep	_	O
+4	@PrabhaGana	@prabhagana	NNP	pos2=VB	5	compound	_	B-PERSON
+5	@Mark_Carey	@mark_carey	NNP	pos2=XX	3	pobj	_	L-PERSON
+6	#deeplearning	#deeplearning	VBG	pos2=UH	2	prep	_	O
+7	#datascience	#datascience	NN	pos2=.	6	pobj	_	O
+

@@ -1,0 +1,25 @@
+1	Harry	harry	NNP	_	5	nsubj	_	U-PERSON
+2	and	and	CC	_	1	cc	_	O
+3	I	I	PRP	_	1	conj	_	O
+4	have	have	VBP	_	5	aux	_	O
+5	become	become	VBN	_	0	root	_	O
+6	obsessed	obsessed	JJ	pos2=VBN	5	acomp	_	O
+7	with	with	IN	_	6	prep	_	O
+8	magic	magic	NN	pos2=JJ	9	compound	_	O
+9	tricks	trick	NNS	_	7	pobj	_	O
+10	and	and	CC	_	5	cc	_	O
+11	now	now	RB	_	13	advmod	_	O
+12	we	we	PRP	_	13	nsubj	_	O
+13	spend	spend	VBP	_	5	conj	_	O
+14	hours	hour	NNS	_	13	dobj	_	U-TIME
+15	a	a	DT	_	16	det	_	O
+16	day	day	NN	_	14	npadvmod	_	O
+17	watching	watch	VBG	_	13	xcomp	_	O
+18	David	david	NNP	_	19	compound	_	B-PERSON
+19	Blaine	blaine	NNP	_	24	nmod	_	L-PERSON
+20	and	and	CC	_	19	cc	_	O
+21	Penn	penn	NNP	_	19	conj	_	B-ORG
+22	&	&	CC	pos2=NNP	21	cc	_	I-ORG
+23	Teller	teller	NNP	pos2=NN	21	conj	_	L-ORG
+24	videos	video	NNS	_	17	dobj	_	O
+

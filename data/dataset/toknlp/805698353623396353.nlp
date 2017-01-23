@@ -1,0 +1,30 @@
+1	@pastorbones	@pastorbones	UH	pos2=NNS	3	discourse	_	O
+2	@YouTube	@youtube	UH	pos2=ADD	3	discourse	_	O
+3	wow	wow	UH	_	0	root	_	O
+4	!!	!!	.	_	3	punct	_	O
+
+1	How	how	WRB	_	2	advmod	_	O
+2	awful	awful	JJ	_	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	thought	think	VBD	_	0	root	_	O
+3	this	this	DT	_	4	nsubj	_	O
+4	was	be	VBD	_	2	ccomp	_	O
+5	next	next	JJ	pos2=RB	4	acomp	_	O
+6	because	because	IN	_	4	prep	_	O
+7	of	of	IN	_	6	pcomp	_	O
+8	transgender	transgender	NN	pos2=JJ	9	compound	_	O
+9	acceptance	acceptance	NN	_	6	pobj	_	O
+10	,	,	,	_	9	punct	_	O
+11	not	not	RB	pos2=CC	13	neg	_	O
+12	gay	gay	JJ	_	13	nmod	_	O
+13	marriage	marriage	NN	_	9	appos	_	O
+14	.	.	.	_	2	punct	_	O
+
+1	Great	great	JJ	_	2	nmod	_	O
+2	video	video	NN	_	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	#pizzagate	#pizzagate	UH	pos2=ADD	0	root	_	O
+

@@ -1,0 +1,10 @@
+1	Grayson	grayson	NNP	_	2	compound	_	B-PERSON
+2	Allen	allen	NNP	_	4	nsubj	_	L-PERSON
+3	just	just	RB	_	4	advmod	_	O
+4	gave	give	VBD	_	0	root	_	O
+5	dude	dude	NN	pos2=PRP	4	dobj	_	O
+6	such	such	PDT	pos2=JJ	9	predet	_	O
+7	a	a	DT	_	9	det	_	O
+8	sick	sick	JJ	pos2=NN	9	nmod	_	O
+9	move	move	NN	_	4	npadvmod	_	O
+

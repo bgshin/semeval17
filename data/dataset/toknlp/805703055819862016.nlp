@@ -1,0 +1,21 @@
+1	@peterburrows191	@peterburrows0	NN	pos2=NNS	3	vocative	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	see	see	VBP	_	0	root	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	're	be	VBP	_	3	ccomp	_	O
+6	a	a	DT	_	8	det	_	O
+7	Liberal	liberal	JJ	pos2=NNP	8	nmod	_	O
+8	councillor	councillor	NN	_	5	attr	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	Liberals	liberal	NNS	pos2=NNPS	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	pro	pro	JJ	_	4	nmod	_	O
+4	immigration	immigration	NN	pos2=NNS	2	attr	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	@HackneyAbbott	@hackneyabbott	ADD	pos2=XX	4	punct	_	O
+2	@jeremycorbyn	@jeremycorbyn	UH	pos2=IN	4	discourse	_	O
+3	@afneil	@afneil	UH	pos2=VB	4	discourse	_	O
+4	@johnmcdonnellMP	@johnmcdonnellmp	UH	pos2=ADD	0	root	_	O
+

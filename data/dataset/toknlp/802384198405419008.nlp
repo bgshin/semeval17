@@ -1,0 +1,26 @@
+1	Seriously	seriously	RB	_	6	advmod	_	O
+2	if	if	IN	_	6	mark	_	O
+3	deplorables	deplorables	NNS	pos2=PRP	6	nsubj	_	O
+4	do	do	VBP	_	6	aux	_	O
+5	nt	nt	RB	_	6	advmod	_	O
+6	know	know	VB	_	0	root	_	O
+7	that	that	IN	_	9	mark	_	O
+8	64.4	0	CD	pos2=NNP	9	nsubj	_	U-CARDINAL
+9	is	be	VBZ	_	6	ccomp	_	O
+10	a	a	DT	pos2=RB	13	det	_	O
+11	larger	large	JJR	_	13	qmod	_	O
+12	than	than	IN	_	13	qmod	_	O
+13	62.3	0	CD	pos2=NNP	9	attr	_	O
+14	they	they	PRP	_	18	nsubj	_	O
+15	should	should	MD	_	18	aux	_	O
+16	nt	nt	RB	_	18	advmod	_	O
+17	be	be	VB	_	18	aux	_	O
+18	teaching	teach	VBG	pos2=NN	13	relcl	_	O
+19	in	in	IN	_	18	prep	_	O
+20	our	our	PRP$	_	21	poss	_	O
+21	schools	school	NNS	_	19	pobj	_	O
+22	or	or	CC	_	21	cc	_	O
+23	han	han	JJ	pos2=AFX	24	nmod	_	O
+24	…	…	NFP	pos2=-LRB-	25	punct	_	O
+25	https://t.co/HbkVq9w4VO	#hlink#	ADD	_	21	conj	_	O
+

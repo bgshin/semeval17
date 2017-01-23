@@ -1,0 +1,17 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@realDonaldTrump	@realdonaldtrump	VB	pos2=XX	0	root	_	O
+2	Why	why	WRB	_	4	advmod	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	considering	consider	VBG	_	1	ccomp	_	O
+5	that	that	IN	pos2=DT	10	pobj	_	O
+6	GUN	gun	NN	pos2=NNP	9	compound	_	O
+7	-	-	HYPH	_	9	punct	_	O
+8	GRABBER	grabber	NNP	pos2=NN	9	compound	_	O
+9	Petraeus	petraeus	NNP	_	4	dobj	_	O
+10	for	for	IN	_	9	prep	_	O
+11	anything	anything	NN	_	10	pobj	_	O
+12	?????	??	.	_	1	punct	_	O
+
+1	https://t.co/pw8oNawXhT	#hlink#	ADD	_	0	root	_	U-ORG
+

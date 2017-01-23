@@ -1,0 +1,12 @@
+1	"	"	``	pos2=SYM	7	punct	_	O
+2	TPP	tpp	NN	pos2=NNP	4	compound	_	O
+3	Grants	grants	NNP	pos2=NNPS	4	compound	_	O
+4	Banks	banks	NNP	pos2=NNPS	11	dep	_	O
+5	Terrifying	terrifying	JJ	pos2=NNP	7	nmod	_	O
+6	Secret	secret	NNP	_	7	compound	_	O
+7	Powers	powers	NNP	pos2=NNPS	11	dep	_	O
+8	"	"	''	_	7	punct	_	O
+9	on	on	IN	_	7	prep	_	O
+10	YouTube	youtube	NNP	_	9	pobj	_	U-ORG
+11	https://t.co/7JAqw4U7w9	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det	_	O
+2	future	future	NN	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	3	0	CD	_	6	nmod	_	U-CARDINAL
+5	D	d	NN	pos2=NNP	6	compound	_	O
+6	printing	printing	NN	pos2=VBG	3	pobj	_	O
+7	?	?	.	_	2	punct	_	O
+
+1	formnext	formnext	NN	pos2=JJ	3	nsubj	_	O
+2	2016	0	CD	_	1	npadvmod	_	U-DATE
+3	showcases	showcase	VBZ	pos2=NNS	0	root	_	O
+4	new	new	JJ	_	5	nmod	_	O
+5	tech	tech	NN	_	3	dobj	_	O
+6	from	from	IN	_	3	prep	_	O
+7	Nano	nano	NNP	_	8	compound	_	U-ORG
+8	Dimension	dimension	NN	pos2=NNP	6	pobj	_	O
+9	,	,	,	_	16	punct	_	O
+10	HP	hp	NN	pos2=NNP	16	dep	_	U-ORG
+11	,	,	,	_	16	punct	_	O
+12	others	other	NNS	_	16	dep	_	O
+13	-	-	:	pos2=HYPH	16	punct	_	O
+14	#	#	NN	pos2=$	15	compound	_	O
+15	3dp	0dp	NN	pos2=GW	16	dep	_	U-MONEY
+16	https://t.co/d0S5GkrlUk	#hlink#	ADD	pos2=NN	3	dep	_	O
+

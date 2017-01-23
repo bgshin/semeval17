@@ -1,0 +1,25 @@
+1	On	on	IN	_	10	prep	_	O
+2	my	my	PRP$	_	3	poss	_	O
+3	way	way	NN	_	1	pobj	_	O
+4	to	to	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	@DGVN_de	@dgvn_de	NNP	pos2=NN	9	poss	_	O
+7	#youth	#youth	POS	pos2=NN	6	case	_	O
+8	conference	conference	NN	_	9	compound	_	O
+9	#up2youth	#up0youth	NN	pos2=RB	4	pobj	_	O
+10	🌍👫	🌍👫	VBZ	pos2=VBD	0	root	_	O
+11	very	very	RB	_	12	advmod	_	O
+12	excited	excited	JJ	_	10	acomp	_	O
+13	to	to	TO	_	14	aux	_	O
+14	create	create	VB	_	10	xcomp	_	O
+15	a	a	DT	_	17	det	_	O
+16	better	good	JJR	pos2=RBR	17	nmod	_	O
+17	#world	#world	NN	pos2=VBN	14	dobj	_	O
+18	for	for	IN	_	17	prep	_	O
+19	tomorrow	tomorrow	NN	_	18	pobj	_	U-DATE
+20	!	!	.	_	10	punct	_	O
+
+1	#dgvn	#dgvn	UH	pos2=GW	3	discourse	_	O
+2	…	…	NFP	pos2=-LRB-	3	punct	_	O
+3	https://t.co/BqSasX8sN7	#hlink#	ADD	pos2=NN	0	root	_	O
+

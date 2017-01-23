@@ -1,0 +1,29 @@
+1	Catherine	catherine	NNP	_	2	compound	_	B-PERSON
+2	Deveny	deveny	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	douche	douche	NN	_	3	attr	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	say	say	VBP	_	0	root	_	O
+3	this	this	DT	_	2	dobj	_	O
+4	as	as	IN	_	2	prep	_	O
+5	a	a	DT	_	6	det	_	O
+6	woman	woman	NN	_	4	pobj	_	O
+7	,	,	,	_	6	punct	_	O
+8	a	a	DT	_	9	det	_	O
+9	mother	mother	NN	_	6	conj	_	O
+10	and	and	CC	_	9	cc	_	O
+11	an	an	DT	_	12	det	_	O
+12	awareness	awareness	NN	_	9	conj	_	O
+13	that	that	IN	pos2=WDT	15	mark	_	O
+14	woman	woman	NN	_	15	nsubj	_	O
+15	pay	pay	VB	pos2=NN	12	acl	_	O
+16	for	for	IN	_	15	prep	_	O
+17	gov	gov	NN	_	16	pobj	_	O
+18	keeping	keep	VBG	pos2=NN	14	acl	_	O
+19	abort	abort	NN	pos2=VB	18	dobj	_	O
+20	…	…	NFP	pos2=-LRB-	21	punct	_	O
+21	https://t.co/ILWLkwf4P7	#hlink#	ADD	_	6	appos	_	O
+

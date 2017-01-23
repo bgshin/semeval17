@@ -1,0 +1,26 @@
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=ADD	3	nsubj	_	O
+2	has	have	VBZ	_	3	aux	_	O
+3	lost	lose	VBN	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	popular	popular	JJ	_	6	nmod	_	O
+6	vote	vote	NN	_	3	dobj	_	O
+7	by	by	IN	_	3	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	largest	large	JJS	_	10	nmod	_	O
+10	margin	margin	NN	_	7	pobj	_	O
+11	in	in	IN	_	10	prep	_	O
+12	US	us	NNP	pos2=NN	13	compound	_	U-GPE
+13	history	history	NN	_	11	pobj	_	O
+14	.	.	.	_	3	punct	_	O
+
+1	In	in	IN	_	7	prep	_	O
+2	otherwards	otherwards	NNS	pos2=RB	1	pobj	_	O
+3	,	,	,	_	7	punct	_	O
+4	his	his	PRP$	_	5	poss	_	O
+5	Presidency	presidency	NNP	pos2=NN	7	nsubj	_	O
+6	is	be	VBZ	_	7	aux	_	O
+7	gon	gon	VBG	_	0	root	_	O
+8	na	to	TO	_	9	aux	_	O
+9	suck	suck	VB	_	7	xcomp	_	O
+10	.	.	.	_	7	punct	_	O
+

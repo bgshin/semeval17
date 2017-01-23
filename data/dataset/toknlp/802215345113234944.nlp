@@ -1,0 +1,13 @@
+1	Having	have	VBG	_	9	csubj	_	O
+2	to	to	TO	_	3	aux	_	O
+3	work	work	VB	_	1	xcomp	_	O
+4	the	the	DT	_	5	det	_	B-DATE
+5	day	day	NN	_	3	npadvmod	_	L-DATE
+6	after	after	IN	_	3	prep	_	O
+7	Thanksgiving	thanksgiving	NNP	_	6	pobj	_	U-DATE
+8	should	should	MD	_	9	aux	_	O
+9	be	be	VB	_	0	root	_	O
+10	a	a	DT	_	12	det	_	O
+11	crime	crime	NN	_	12	compound	_	O
+12	smh	smh	NN	pos2=.	9	attr	_	O
+

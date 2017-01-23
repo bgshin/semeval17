@@ -1,0 +1,10 @@
+1	#trumptrain	#trumptrain	UH	pos2=XX	5	discourse	_	O
+2	#maga	#maga	UH	pos2=FW	5	discourse	_	O
+3	#draintheswamp	#draintheswamp	UH	pos2=IN	5	discourse	_	O
+4	#neverRomney	#neverromney	NNP	pos2=NN	3	vocative	_	O
+5	Thanks	thanks	UH	pos2=NN	0	root	_	O
+6	Obama	obama	NNP	_	5	vocative	_	U-PERSON
+7	!	!	.	_	1	punct	_	O
+
+1	https://t.co/gFPz1bkFPa	#hlink#	ADD	_	0	root	_	U-ORG
+

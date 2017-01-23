@@ -1,0 +1,24 @@
+1	War	war	NN	pos2=NNP	22	dep	_	O
+2	on	on	IN	_	1	prep	_	O
+3	Poor	poor	JJ	pos2=NNP	4	nmod	_	O
+4	https://t.co/u8miNOAoad	#hlink#	ADD	pos2=NNP	2	pobj	_	O
+5	With	with	IN	_	1	prep	_	O
+6	Trump	trump	NNP	pos2=NN	5	pobj	_	U-PERSON
+7	and	and	CC	_	6	cc	_	O
+8	Ryan	ryan	NNP	_	6	conj	_	U-PERSON
+9	in	in	IN	_	1	prep	_	O
+10	control	control	NN	_	9	pobj	_	O
+11	,	,	,	_	22	punct	_	O
+12	antipoverty	antipoverty	JJ	pos2=NN	13	nmod	_	O
+13	programs	program	NNS	_	15	compound	_	O
+14	Head	head	NNP	pos2=NN	15	compound	_	O
+15	Start	start	NNP	pos2=VBP	10	conj	_	O
+16	,	,	,	_	15	punct	_	O
+17	food	food	NN	_	18	compound	_	O
+18	stamps	stamp	NNS	_	15	conj	_	O
+19	,	,	,	_	18	punct	_	O
+20	and	and	CC	_	18	cc	_	O
+21	Medicaid	medicaid	NNP	pos2=GW	22	nsubj	_	U-ORG
+22	imperiled	imperil	VBN	pos2=VBD	0	root	_	O
+23	.	.	.	_	22	punct	_	O
+

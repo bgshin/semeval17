@@ -1,0 +1,35 @@
+1	2014	0	CD	_	7	dep	_	U-DATE
+2	(	(	-LRB-	_	7	punct	_	O
+3	Edzard	edzard	NNP	_	4	compound	_	B-PERSON
+4	Ernst	ernst	NNP	_	6	nmod	_	L-PERSON
+5	)	)	-RRB-	_	6	punct	_	O
+6	Edzard	edzard	NNP	_	7	compound	_	B-PERSON
+7	Ernst	ernst	NNP	_	20	nsubj	_	L-PERSON
+8	,	,	,	_	7	punct	_	O
+9	hero	hero	NN	_	7	appos	_	O
+10	of	of	IN	_	9	prep	_	O
+11	"	"	``	_	13	punct	_	O
+12	West	west	NNP	_	13	compound	_	O
+13	Wing	wing	NNP	_	10	pobj	_	O
+14	"	"	''	_	13	punct	_	O
+15	,	,	,	_	7	punct	_	O
+16	derided	deride	VBN	_	7	acl	_	O
+17	by	by	IN	_	16	agent	_	O
+18	Conservatives	conservative	NNPS	pos2=NNS	17	pobj	_	U-NORP
+19	,	,	,	_	7	punct	_	O
+20	has	have	VBZ	_	0	root	_	O
+21	a	a	DT	_	22	det	_	O
+22	duty	duty	NN	_	20	dobj	_	O
+23	to	to	TO	_	24	aux	_	O
+24	try	try	VB	_	22	acl	_	O
+25	to	to	TO	_	26	aux	_	O
+26	protect	protect	VB	_	24	xcomp	_	O
+27	their	their	PRP$	_	28	poss	_	O
+28	habitat	habitat	NN	_	26	dobj	_	O
+29	.	.	.	_	20	punct	_	O
+
+1	In	in	IN	_	4	prep	_	O
+2	effect	effect	NN	_	1	pobj	_	O
+3	,	,	,	_	4	punct	_	O
+4	they	they	PRP	_	0	root	_	O
+

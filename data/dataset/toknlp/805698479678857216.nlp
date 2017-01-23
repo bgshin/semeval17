@@ -1,0 +1,10 @@
+1	Year	year	NN	pos2=NNP	9	dep	_	O
+2	of	of	IN	_	1	prep	_	O
+3	Mercy	mercy	NNP	pos2=NN	4	compound	_	B-ORG
+4	Provisions	provision	NNPS	pos2=NNS	2	pobj	_	I-ORG
+5	on	on	IN	_	4	prep	_	I-ORG
+6	Abortion	abortion	NNP	pos2=NN	7	compound	_	I-ORG
+7	Confession	confession	NNP	pos2=NN	5	pobj	_	L-ORG
+8	Extended	extended	GW	pos2=JJ	9	nmod	_	O
+9	https://t.co/eyyjBAmZEu	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

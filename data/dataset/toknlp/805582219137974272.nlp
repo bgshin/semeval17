@@ -1,0 +1,33 @@
+1	Marine	marine	JJ	pos2=NNP	3	nmod	_	B-ORG
+2	Le	le	NNP	pos2=NN	3	compound	_	I-ORG
+3	Pen	pen	NNP	_	0	root	_	L-ORG
+4	:	:	:	_	3	punct	_	O
+5	"	"	``	_	3	punct	_	O
+6	The	the	DT	_	7	det	_	O
+7	Italians	italian	NNPS	_	9	nsubj	_	U-NORP
+8	have	have	VBP	_	9	aux	_	O
+9	disavowed	disavow	VBN	_	3	acl	_	O
+10	the	the	DT	_	11	det	_	O
+11	EU	eu	NNP	_	9	dobj	_	U-ORG
+12	and	and	CC	_	11	cc	_	O
+13	Renzi	renzi	NNP	_	11	conj	_	U-PERSON
+14	.	.	.	_	9	punct	_	O
+
+1	We	we	PRP	_	3	nsubj	_	O
+2	must	must	MD	_	3	aux	_	O
+3	listen	listen	VB	_	0	root	_	O
+4	to	to	IN	_	3	prep	_	O
+5	this	this	DT	_	6	det	_	O
+6	thirst	thirst	NN	_	4	pobj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	freedom	freedom	NN	_	7	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	nations	nation	NNS	_	9	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+12	"	"	''	_	3	punct	_	O
+
+1	(	(	-LRB-	_	3	punct	_	O
+2	Dangerous	dangerous	JJ	_	3	nmod	_	O
+3	times	time	NNS	_	0	root	_	O
+4	)	)	-RRB-	_	3	punct	_	O
+

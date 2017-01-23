@@ -1,0 +1,22 @@
+1	@BenghaziVictim	@benghazivictim	UH	pos2=ADD	6	discourse	_	O
+2	@TravisDuCote	@travisducote	UH	pos2=ADD	6	discourse	_	O
+3	he	he	PRP	_	6	nsubjpass	_	O
+4	's	's	VBZ	_	6	auxpass	_	O
+5	always	always	RB	_	6	advmod	_	O
+6	been	be	VBN	_	0	root	_	O
+7	a	a	DT	_	13	det	_	O
+8	weird	weird	JJ	_	13	nmod	_	O
+9	gold	gold	NN	pos2=JJ	13	compound	_	O
+10	standard	standard	NN	pos2=JJ	12	compound	_	O
+11	/	/	HYPH	pos2=SYM	12	punct	_	O
+12	bitcoin	bitcoin	NN	_	13	compound	_	O
+13	guy	guy	NN	_	6	attr	_	O
+14	but	but	CC	_	6	cc	_	O
+15	in	in	IN	_	18	prep	_	O
+16	2008	0	CD	_	15	pobj	_	U-DATE
+17	he	he	PRP	_	18	nsubj	_	O
+18	was	be	VBD	_	6	conj	_	O
+19	all	all	DT	pos2=RB	18	attr	_	O
+20	for	for	IN	_	19	prep	_	O
+21	Obama	obama	NNP	_	20	pobj	_	U-PERSON
+

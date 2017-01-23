@@ -1,0 +1,32 @@
+1	@TrueflintThomas	@trueflintthomas	NNS	pos2=ADD	4	compound	_	O
+2	@KeepAmerGr8	@keepamergr0	NN	pos2=NNS	3	compound	_	O
+3	@RobinWood	@robinwood	NN	pos2=ADD	4	compound	_	O
+4	@HuffPostBlog	@huffpostblog	NNP	pos2=NNS	0	root	_	O
+5	As	as	IN	_	8	mark	_	O
+6	old	old	JJ	_	7	nmod	_	O
+7	cliche	cliche	NN	_	8	nsubj	_	O
+8	goes	go	VBZ	_	12	advcl	_	O
+9	"	"	``	_	12	punct	_	O
+10	I	I	PRP	_	12	nsubj	_	O
+11	'll	will	MD	_	12	aux	_	O
+12	give	give	VB	_	0	root	_	O
+13	U	u	NNP	pos2=RP	12	dative	_	O
+14	3	0	CD	_	15	nmod	_	U-CARDINAL
+15	guesses	guess	NNS	_	12	dobj	_	O
+16	..	..	.	pos2=,	12	punct	_	O
+
+1	1	0	CD	_	2	nmod	_	B-PERCENT
+2	st	st	NN	pos2=NNS	6	dep	_	L-PERCENT
+3	2	0	CD	pos2=TO	2	npadvmod	_	O
+4	do	do	VB	pos2=VBP	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	count	count	VB	_	0	root	_	O
+7	!	!	.	_	6	punct	_	O
+8	"	"	''	_	6	punct	_	O
+
+1	Is	be	VBZ	_	0	root	_	O
+2	Comey	comey	NNP	_	1	nsubj	_	U-PERSON
+3	still	still	RB	_	4	advmod	_	O
+4	there	there	RB	_	1	advmod	_	O
+5	?!	?!	.	_	1	punct	_	O
+

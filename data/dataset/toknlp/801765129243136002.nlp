@@ -1,0 +1,18 @@
+1	@JewishPress	@jewishpress	NNP	pos2=ADD	2	nsubj	_	U-ORG
+2	Seems	seem	VBZ	_	0	root	_	O
+3	like	like	IN	_	2	prep	_	O
+4	the	the	DT	_	6	det	_	O
+5	white	white	JJ	_	6	nmod	_	O
+6	supremacists	supremacist	NNS	pos2=NNPS	3	pobj	_	O
+7	&	&	CC	_	6	cc	_	O
+8	extreme	extreme	JJ	_	9	nmod	_	O
+9	rightists	rightist	NNS	_	6	conj	_	O
+10	predominantly	predominantly	RB	_	11	advmod	_	O
+11	Christian	christian	JJ	_	12	nmod	_	U-NORP
+12	candidates	candidate	NNS	_	14	nsubj	_	O
+13	are	be	VBP	_	14	aux	_	O
+14	dominating	dominate	VBG	_	9	parataxis	_	O
+15	governments	government	NNS	_	14	dobj	_	O
+16	globally	globally	RB	_	14	advmod	_	O
+17	.	.	.	_	2	punct	_	O
+

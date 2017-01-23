@@ -1,0 +1,23 @@
+1	@megynkelly	@megynkelly	RB	pos2=UH	3	advmod	_	O
+2	#SettleForMore	#settleformore	RBR	pos2=PRP$	0	root	_	O
+3	Excellent	excellent	JJ	_	4	nmod	_	O
+4	read	read	NN	pos2=VBN	2	root	_	O
+5	!	!	.	_	4	punct	_	O
+
+1	My	my	PRP$	_	2	poss	_	O
+2	wife	wife	NN	_	6	nsubj	_	O
+3	and	and	CC	_	2	cc	_	O
+4	I	I	PRP	_	2	conj	_	O
+5	thoroughly	thoroughly	RB	_	6	advmod	_	O
+6	enjoyed	enjoy	VBD	_	0	root	_	O
+7	it	it	PRP	_	6	dobj	_	O
+8	.	.	.	_	6	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	big	big	JJ	_	4	nmod	_	O
+4	fans	fan	NNS	_	2	attr	_	O
+5	of	of	IN	_	4	prep	_	O
+6	yours	yours	PRP	pos2=NNS	5	pobj	_	O
+7	.	.	.	_	2	punct	_	O
+

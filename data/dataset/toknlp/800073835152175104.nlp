@@ -1,0 +1,18 @@
+1	#China	#china	NNP	pos2=JJ	10	vocative	_	O
+2	websites	website	NNS	pos2=VBZ	0	root	_	O
+3	block	block	NN	pos2=VBP	4	compound	_	O
+4	searches	search	NNS	pos2=VBZ	2	dobj	_	O
+5	for	for	IN	_	4	prep	_	O
+6	#FattyKimTheThird	#fattykimthethird	NN	pos2=GW	5	pobj	_	O
+7	-	-	:	pos2=HYPH	10	punct	_	O
+8	https://t.co/db2Iw4crLYWHY	#hlink#	ADD	_	4	appos	_	O
+9	THEY	they	PRP	_	10	nsubj	_	O
+10	WANT	want	VBP	pos2=VB	0	root	_	O
+11	TO	to	TO	_	12	aux	_	O
+12	DENY	deny	VB	_	10	xcomp	_	O
+13	THE	the	DT	_	16	det	_	B-PRODUCT
+14	F	f	NNP	pos2=NN	16	nmod	_	I-PRODUCT
+15	***	**	SYM	pos2=HYPH	16	punct	_	I-PRODUCT
+16	TRUTH	truth	NN	pos2=NNP	12	dobj	_	L-PRODUCT
+17	?	?	.	_	10	punct	_	O
+

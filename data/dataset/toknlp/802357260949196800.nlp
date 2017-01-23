@@ -1,0 +1,13 @@
+1	#StopTPP#TPP	#stoptpp#tpp	NFP	pos2=ADD	7	punct	_	O
+2	Synopsis	synopsis	NN	_	7	dep	_	O
+3	:	:	:	_	7	punct	_	O
+4	https://t.co/AOTD7aMPJeOpenDoor2Sue	#hlink#	ADD	pos2=JJ	7	dep	_	O
+5	USA	usa	NNP	pos2=NN	7	dep	_	U-GPE
+6	:	:	:	_	7	punct	_	O
+7	https://t.co/4lqRCB6ERI	#hlink#	ADD	_	0	root	_	O
+8	via	via	IN	_	7	prep	_	O
+9	@nytimes@RepFilemonVela	@nytimes@repfilemonvela	NNP	pos2=NN	8	pobj	_	B-ORG
+10	&	&	CC	_	9	cc	_	I-ORG
+11	@LloydDoggettTX	@lloyddoggetttx	NNP	pos2=ADD	12	compound	_	I-ORG
+12	TX	tx	NNP	pos2=NN	9	conj	_	L-ORG
+

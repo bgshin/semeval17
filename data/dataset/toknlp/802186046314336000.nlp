@@ -1,0 +1,17 @@
+1	Ben	ben	NNP	_	2	compound	_	B-PERSON
+2	Carson	carson	NNP	_	6	dep	_	L-PERSON
+3	;	;	:	pos2=,	2	punct	_	O
+4	One	#crd#	CD	pos2=NNP	0	root	_	U-CARDINAL
+5	of	of	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	reasons	reason	NNS	_	5	pobj	_	O
+8	comedians	comedian	NNS	_	10	nsubj	_	O
+9	will	will	MD	_	10	aux	_	O
+10	have	have	VB	_	7	relcl	_	O
+11	material	material	NN	_	10	dobj	_	O
+12	for	for	IN	_	11	prep	_	O
+13	years	year	NNS	_	12	pobj	_	U-DATE
+14	!	!	.	_	2	punct	_	O
+
+1	https://t.co/aKqg0sQgGR	#hlink#	ADD	_	0	root	_	U-ORG
+

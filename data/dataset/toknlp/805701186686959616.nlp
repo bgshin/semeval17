@@ -1,0 +1,18 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	8	ccomp	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=GW	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	https://t.co/SpiQ5wSO6a	#hlink#	ADD	pos2=NNP	5	appos	_	O
+7	This	this	DT	pos2=NNP	8	nsubj	_	O
+8	Ai	be	VBZ	pos2=MD	14	ccomp	_	O
+9	n't	not	RB	_	8	neg	_	O
+10	No	no	DT	pos2=RB	11	det	_	O
+11	Westworld	westworld	NNP	_	8	attr	_	U-PERSON
+12	,	,	,	_	14	punct	_	O
+13	We	we	PRP	pos2=NNP	14	nsubj	_	O
+14	Make	make	VBP	_	0	root	_	O
+15	Our	our	PRP$	pos2=NNP	16	poss	_	O
+16	Choices	choice	NNS	pos2=NNPS	14	dobj	_	O
+17	!	!	.	_	14	punct	_	O
+

@@ -1,0 +1,13 @@
+1	"	"	``	pos2=SYM	6	punct	_	O
+2	Voter	voter	NN	_	3	compound	_	O
+3	suppression	suppression	NN	_	6	nsubj	_	O
+4	in	in	IN	_	3	prep	_	O
+5	Mississippi	mississippi	NNP	_	4	pobj	_	U-GPE
+6	worked	work	VBD	_	12	dep	_	O
+7	"	"	``	pos2=''	6	punct	_	O
+8	https://t.co/L50WLvC2JV	#hlink#	ADD	pos2=FW	9	compound	_	O
+9	cc	cc	NN	pos2=NNS	6	dobj	_	O
+10	:	:	:	_	12	punct	_	O
+11	@DelbertHosemann	@delberthosemann	ADD	pos2=NNP	12	nmod	_	B-CARDINAL
+12	https://t.co/vSH1oM0iON	#hlink#	ADD	_	0	root	_	L-CARDINAL
+

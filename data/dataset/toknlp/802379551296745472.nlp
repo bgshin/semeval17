@@ -1,0 +1,17 @@
+1	Deliverancing	deliverancing	NN	pos2=NNP	16	dep	_	O
+2	:	:	:	_	16	punct	_	O
+3	Trump	trump	NNP	pos2=NN	5	poss	_	U-ORG
+4	's	's	POS	_	3	case	_	O
+5	deplorables	deplorables	NNS	pos2=NN	6	nsubj	_	O
+6	squealing	squeal	VBG	_	1	ccomp	_	O
+7	like	like	IN	pos2=UH	6	prep	_	O
+8	pigs	pig	NNS	_	7	pobj	_	O
+9	when	when	WRB	_	11	advmod	_	O
+10	they	they	PRP	_	11	nsubj	_	O
+11	realize	realize	VBP	_	6	advcl	_	O
+12	he	he	PRP	_	13	nsubj	_	O
+13	screwed	screw	VBD	_	11	ccomp	_	O
+14	them	them	PRP	_	13	dobj	_	O
+15	too	too	RB	_	13	advmod	_	O
+16	#UsefulNewVerbs	#usefulnewverbs	.	pos2=NNS	0	root	_	O
+

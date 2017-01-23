@@ -1,0 +1,21 @@
+1	#Uber	#uber	PRP$	pos2=NNP	2	poss	_	O
+2	rival	rival	NN	pos2=JJ	8	nsubj	_	O
+3	Grab	grab	NNP	pos2=NN	6	poss	_	O
+4	's	's	POS	_	3	case	_	O
+5	first	#ord#	JJ	_	6	nmod	_	U-ORDINAL
+6	CFO	cfo	NNP	pos2=NN	2	appos	_	O
+7	is	be	VBZ	_	8	aux	_	O
+8	leaving	leave	VBG	_	0	root	_	O
+9	the	the	DT	_	10	det	_	O
+10	company	company	NN	_	8	dobj	_	O
+11	after	after	IN	_	8	prep	_	O
+12	just	just	RB	_	13	advmod	_	B-DATE
+13	seven	#crd#	CD	_	14	nmod	_	I-DATE
+14	months	month	NNS	_	11	pobj	_	L-DATE
+15	.	.	.	_	8	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	more	more	RBR	pos2=JJR	1	advmod	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/fBeQWgvbCv	#hlink#	ADD	pos2=NN	1	dep	_	O
+

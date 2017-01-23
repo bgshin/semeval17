@@ -1,0 +1,24 @@
+1	BREAKING	breaking	NN	pos2=VBG	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	History	history	NN	pos2=NNP	4	compound	_	O
+4	Channel	channel	NNP	pos2=NN	5	nsubj	_	O
+5	finds	find	VBZ	_	0	root	_	O
+6	a	a	DT	_	9	det	_	O
+7	"	"	``	_	9	punct	_	O
+8	dark	dark	JJ	_	9	nmod	_	O
+9	underside	underside	NN	_	5	dobj	_	O
+10	"	"	''	_	9	punct	_	O
+11	to	to	IN	_	9	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	Nazi	nazi	NNP	pos2=JJ	14	compound	_	U-NORP
+14	regime	regime	NN	_	11	pobj	_	O
+15	.	.	.	_	5	punct	_	O
+
+1	Whoa	whoa	UH	_	4	discourse	_	O
+2	,	,	,	_	1	punct	_	O
+3	Who	who	WP	pos2=NNP	4	nsubj	_	O
+4	knew	know	VBD	pos2=VBZ	0	root	_	O
+5	?	?	.	_	4	punct	_	O
+
+1	https://t.co/gORgv7cTPI	#hlink#	ADD	_	0	root	_	U-ORG
+

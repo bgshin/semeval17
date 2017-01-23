@@ -1,0 +1,23 @@
+1	#Saakashvili	#saakashvili	NNP	pos2=NN	2	nsubj	_	O
+2	quits	quit	VBZ	_	0	root	_	O
+3	Ukrainian	ukrainian	JJ	pos2=NNP	4	nmod	_	U-NORP
+4	post	post	NN	pos2=RB	2	dobj	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	Former	former	JJ	_	3	nmod	_	O
+2	Georgian	georgian	JJ	_	3	nmod	_	U-NORP
+3	president	president	NN	_	5	nsubjpass	_	O
+4	is	be	VBZ	_	5	auxpass	_	O
+5	expected	expect	VBN	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	try	try	VB	_	5	xcomp	_	O
+8	to	to	TO	_	9	aux	_	O
+9	lead	lead	VB	_	7	xcomp	_	O
+10	the	the	DT	_	11	det	_	O
+11	opposition	opposition	NN	_	9	dobj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	#Kiev	#kiev	NNP	pos2=NNS	12	pobj	_	U-GPE
+14	.	.	.	_	5	punct	_	O
+
+1	https://t.co/DFadwrxKOw	#hlink#	ADD	_	0	root	_	U-ORG
+

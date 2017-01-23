@@ -1,0 +1,13 @@
+1	#klassfeeronderdruk	#klassfeeronderdruk	UH	pos2=XX	4	discourse	_	O
+2	bcs	bcs	NN	pos2=NNS	4	npadvmod	_	O
+3	Selena	selena	NNP	pos2=NN	4	nsubj	_	U-PERSON
+4	attackeerd	attackeerd	VBD	pos2=NN	0	root	_	O
+5	mevr	mevr	NN	pos2=RB	4	dobj	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	Peeters	peeters	NNS	pos2=NNP	2	nsubj	_	O
+2	met	meet	VBD	_	0	root	_	O
+3	Tipp	tipp	NNP	_	5	compound	_	B-ORG
+4	-	-	HYPH	pos2=,	5	punct	_	I-ORG
+5	Ex	ex	NNP	_	2	dobj	_	L-ORG
+

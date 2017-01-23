@@ -1,0 +1,23 @@
+1	@QPRFC	@qprfc	NN	pos2=NNS	22	nsubj	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	've	have	VBP	_	4	aux	_	O
+4	watched	watch	VBN	_	1	relcl	_	O
+5	it	it	PRP	_	4	dobj	_	O
+6	twice	twice	RB	_	4	advmod	_	O
+7	&	&	CC	_	4	cc	_	O
+8	have	have	VBP	_	10	aux	_	O
+9	n't	not	RB	_	10	neg	_	O
+10	spotted	spot	VBN	_	4	conj	_	O
+11	Bircham	bircham	NNP	_	15	poss	_	U-ORG
+12	's	's	POS	_	11	case	_	O
+13	blue	blue	JJ	_	15	nmod	_	O
+14	hair	hair	NN	_	15	compound	_	O
+15	spray	spray	NN	pos2=VBP	10	dobj	_	O
+16	😱	😱	WDT	pos2=NNP	18	det	_	O
+17	3rd	#ord#	JJ	pos2=NN	18	nmod	_	U-ORDINAL
+18	time	time	NN	_	21	npadvmod	_	O
+19	for	for	IN	_	18	prep	_	O
+20	me	me	PRP	_	19	pobj	_	O
+21	now	now	RB	_	22	advmod	_	O
+22	#MannequinChallenge	#mannequinchallenge	ADD	pos2=.	0	root	_	U-DATE
+

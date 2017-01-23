@@ -1,0 +1,21 @@
+1	#IslamicState	#islamicstate	ADD	pos2=NN	5	nsubj	_	O
+2	"	"	``	_	3	punct	_	O
+3	#ISIS	#isis	NN	pos2=ADD	5	nsubj	_	O
+4	"	"	''	_	3	punct	_	O
+5	claims	claim	VBZ	pos2=NNS	0	root	_	O
+6	responsibility	responsibility	NN	_	5	dobj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	terror	terror	NN	_	9	compound	_	O
+9	attack	attack	NN	_	7	pobj	_	O
+10	on	on	IN	_	9	prep	_	O
+11	security	security	NN	_	12	compound	_	O
+12	checkpoint	checkpoint	NN	_	10	pobj	_	O
+13	for	for	IN	_	12	prep	_	O
+14	Egyptian	egyptian	JJ	pos2=NNP	15	nmod	_	B-ORG
+15	Army	army	NNP	pos2=NN	13	pobj	_	L-ORG
+16	at	at	IN	_	9	prep	_	O
+17	#Arish	#arish	NNP	_	16	pobj	_	O
+18	in	in	IN	_	5	prep	_	O
+19	…	…	NFP	pos2=NNP	18	pobj	_	O
+20	https://t.co/f14mf5B14t	#hlink#	ADD	_	18	pobj	_	U-GPE
+

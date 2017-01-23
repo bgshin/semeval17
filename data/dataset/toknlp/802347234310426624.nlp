@@ -1,0 +1,23 @@
+1	@DaveGarrett44	@davegarrett0	NN	pos2=ADD	7	dep	_	O
+2	@merelyawoman	@merelyawoman	UH	pos2=MD	1	discourse	_	O
+3	MEHH	mehh	UH	pos2=NNP	7	discourse	_	O
+4	I	I	PRP	_	7	nsubj	_	O
+5	do	do	VBP	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	get	get	VB	_	0	root	_	O
+8	OT	ot	NNP	pos2=NN	7	dobj	_	U-ORG
+9	and	and	CC	_	7	cc	_	O
+10	I	I	PRP	_	11	nsubj	_	O
+11	'm	be	VBP	_	7	conj	_	O
+12	not	not	RB	_	11	neg	_	O
+13	on	on	IN	_	11	prep	_	O
+14	medicaid	medicaid	NN	pos2=VBN	13	pobj	_	O
+15	so	so	IN	pos2=RB	18	mark	_	O
+16	it	it	PRP	_	18	nsubj	_	O
+17	'll	will	MD	_	18	aux	_	O
+18	be	be	VB	_	14	acl	_	O
+19	a	a	DT	_	21	det	_	O
+20	banner	banner	NN	_	21	compound	_	O
+21	year	year	NN	_	18	attr	_	O
+22	!	!	.	_	7	punct	_	O
+

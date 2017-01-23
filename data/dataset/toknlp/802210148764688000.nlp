@@ -1,0 +1,19 @@
+1	#CTMNEWS	#ctmnews	NNS	pos2=XX	2	compound	_	O
+2	#MIAMI	#miami	NNS	pos2=VBP	3	nsubj	_	O
+3	#NYC	#nyc	VBP	pos2=$	0	root	_	O
+4	#HOUSTON	#houston	NNP	pos2=IN	6	compound	_	O
+5	Donald	donald	NNP	_	6	compound	_	B-PERSON
+6	Trump	trump	NNP	_	3	dobj	_	L-PERSON
+7	,	,	,	_	10	punct	_	O
+8	Mike	mike	NNP	_	9	compound	_	O
+9	Pence	penny	NNP	_	10	nsubj	_	O
+10	’s	's	VBZ	pos2=POS	18	ccomp	_	O
+11	Different	different	JJ	pos2=NNP	15	nmod	_	O
+12	‘	'	``	pos2=POS	15	punct	_	O
+13	Hamilton	hamilton	NNP	_	15	nmod	_	U-PERSON
+14	’	'	''	pos2=POS	15	punct	_	O
+15	Reactions	reaction	NNS	_	10	attr	_	O
+16	|	|	,	pos2=SYM	18	punct	_	O
+17	MSNBC	msnbc	NNP	pos2=NN	18	nmod	_	U-ORG
+18	https://t.co/K5L7QkHA1J	#hlink#	ADD	pos2=NNP	3	dep	_	O
+

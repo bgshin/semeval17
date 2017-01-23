@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det	_	O
+2	Prem	prem	NNP	_	3	compound	_	O
+3	Model	model	NNP	pos2=NN	5	poss	_	O
+4	#UnitedNations	#unitednations	POS	pos2=ADD	3	case	_	O
+5	team	team	NN	_	6	nsubj	_	O
+6	participated	participate	VBD	_	0	root	_	O
+7	in	in	IN	_	6	prep	_	O
+8	the	the	DT	_	13	det	_	O
+9	annual	annual	JJ	_	13	nmod	_	U-DATE
+10	Chiang	chiang	NNP	_	13	compound	_	B-EVENT
+11	Mai	mai	NNP	_	13	compound	_	I-EVENT
+12	MUN	mun	NNP	_	13	compound	_	I-EVENT
+13	Conference	conference	NNP	pos2=NN	7	pobj	_	L-EVENT
+14	:	:	:	_	16	punct	_	O
+15	https://t.co/hyYpP3zY3E…	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/Zby3rMbC8y	#hlink#	ADD	_	6	dep	_	U-ORG
+

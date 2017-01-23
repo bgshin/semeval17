@@ -1,0 +1,21 @@
+1	@pinko_snob	@pinko_snob	UH	pos2=NNP	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	agree	agree	VBP	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Was	be	VBD	_	2	auxpass	_	O
+2	used	use	VBN	_	0	root	_	O
+3	to	to	IN	pos2=TO	2	prep	_	O
+4	good	good	JJ	_	5	nmod	_	O
+5	effect	effect	NN	_	3	pobj	_	O
+6	in	in	IN	_	2	prep	_	O
+7	that	that	DT	_	8	det	_	O
+8	protest	protest	NN	_	6	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	Trump	trump	NNP	pos2=NN	9	pobj	_	U-ORG
+11	in	in	IN	_	10	prep	_	O
+12	Chicago	chicago	NNP	_	11	pobj	_	U-GPE
+13	during	during	IN	_	2	prep	_	O
+14	primaries	primary	NNS	_	13	pobj	_	O
+15	.	.	.	_	2	punct	_	O
+

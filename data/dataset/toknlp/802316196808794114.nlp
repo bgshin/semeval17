@@ -1,0 +1,19 @@
+1	Startup	startup	NN	pos2=VB	2	compound	_	O
+2	ebo	ebo	NN	pos2=NNP	3	nsubj	_	O
+3	uses	use	VBZ	_	0	root	_	O
+4	GPU	gpu	NNP	pos2=NN	6	npadvmod	_	O
+5	-	-	HYPH	pos2=,	6	punct	_	O
+6	accelerated	accelerate	VBN	_	8	nmod	_	O
+7	deep	deep	JJ	pos2=NN	8	nmod	_	O
+8	learning	learning	NN	_	3	dobj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	help	help	VB	_	3	xcomp	_	O
+11	with	with	IN	_	10	prep	_	O
+12	faster	fast	JJR	pos2=RBR	18	nmod	_	O
+13	gift	gift	NN	_	15	npadvmod	_	O
+14	-	-	HYPH	_	15	punct	_	O
+15	giving	give	VBG	pos2=GW	11	pobj	_	O
+16	🎁	🎁	NFP	pos2=GW	15	dative	_	O
+17	https://t.co/zy0JohOcIq	#hlink#	ADD	_	18	nmod	_	O
+18	https://t.co/v61pJgluMB	#hlink#	ADD	_	16	root	_	O
+

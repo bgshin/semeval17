@@ -1,0 +1,14 @@
+1	@LarryGlickman	@larryglickman	NNP	pos2=XX	6	dep	_	O
+2	The	the	DT	_	4	det	_	O
+3	Jew	jew	NNP	_	4	compound	_	U-NORP
+4	boy	boy	NN	pos2=NNP	6	nsubj	_	O
+5	has	have	VBZ	_	6	aux	_	O
+6	spoken	speak	VBN	_	0	root	_	O
+7	.	.	.	_	6	punct	_	O
+
+1	@RepCicilline	@repcicilline	ADD	pos2=NN	5	punct	_	O
+2	@TheTattooedProf	@thetattooedprof	ADD	pos2=IN	5	punct	_	O
+3	@BernieSanders	@berniesanders	NNS	pos2=ADD	0	root	_	O
+4	@chuckschumer	@chuckschumer	UH	pos2=PRP	3	discourse	_	O
+5	@elizabethforma	@elizabethforma	UH	pos2=FW	3	discourse	_	O
+

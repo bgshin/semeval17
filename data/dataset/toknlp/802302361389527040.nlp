@@ -1,0 +1,10 @@
+1	Michael	michael	NNP	_	2	compound	_	B-PERSON
+2	Moore	moore	NNP	_	5	dep	_	L-PERSON
+3	:	:	:	_	5	punct	_	O
+4	Trump	trump	NNP	pos2=NN	5	nsubj	_	U-ORG
+5	has	have	VBZ	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	be	be	VB	_	5	xcomp	_	O
+8	opp	opp	JJ	pos2=GW	7	acomp	_	O
+9	osedhttps://t.co/DGliW8W6iI	#hlink#	ADD	pos2=NN	4	appos	_	O
+

@@ -1,0 +1,15 @@
+1	Label	label	NN	_	2	compound	_	O
+2	scan	scan	NN	_	14	dep	_	O
+3	of	of	IN	_	2	prep	_	O
+4	Bob	bob	NNP	_	5	compound	_	B-PERSON
+5	Dylan	dylan	NNP	_	14	poss	_	I-PERSON
+6	's	's	POS	_	5	case	_	L-PERSON
+7	4th	#ord#	JJ	pos2=RB	14	nmod	_	U-ORDINAL
+8	highest	high	RBS	pos2=JJS	9	advmod	_	O
+9	charting	chart	VBG	_	14	nmod	_	O
+10	single	single	JJ	pos2=NN	13	nmod	_	O
+11	Positively	positively	RB	_	12	advmod	_	O
+12	4th	#ord#	JJ	pos2=GW	13	nmod	_	O
+13	Street	street	NNP	pos2=NN	14	nmod	_	O
+14	https://t.co/AY7qOc9pkB	#hlink#	ADD	_	0	root	_	O
+

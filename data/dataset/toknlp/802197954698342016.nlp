@@ -1,0 +1,19 @@
+1	“	"	``	_	3	punct	_	O
+2	Safe	safe	JJ	pos2=NNP	3	nmod	_	O
+3	Negro	negro	NNP	pos2=NN	18	nmod	_	O
+4	”	"	''	_	3	punct	_	O
+5	:	:	:	_	3	punct	_	O
+6	Why	why	WRB	_	8	advmod	_	O
+7	Liberals	liberal	NNPS	pos2=NNS	8	nsubj	_	U-NORP
+8	Are	be	VBP	_	3	relcl	_	O
+9	Afraid	afraid	JJ	pos2=NNP	8	acomp	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Ben	ben	NNP	_	12	compound	_	B-PERSON
+12	Carson	carson	NNP	_	10	pobj	_	L-PERSON
+13	https://t.co/luKcDV1sb6	#hlink#	ADD	_	12	appos	_	O
+14	…	…	NFP	pos2=-RRB-	3	punct	_	O
+15	#tcot	#tcot	UH	pos2=IN	18	nmod	_	O
+16	#pjnet	#pjnet	GW	pos2=UH	18	nmod	_	O
+17	#p2	#p0	GW	pos2=-LRB-	18	nmod	_	O
+18	https://t.co/iwO0b3LpYc	#hlink#	ADD	pos2=NN	0	root	_	O
+

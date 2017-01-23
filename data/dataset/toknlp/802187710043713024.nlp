@@ -1,0 +1,10 @@
+1	Rare	rare	JJ	_	2	nmod	_	O
+2	photo	photo	NN	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	@realjerryjones	@realjerryjones	NNS	pos2=XX	3	pobj	_	O
+5	auctioning	auction	VBG	_	4	acl	_	O
+6	off	off	RP	pos2=IN	5	prt	_	O
+7	Tony	tony	NNP	_	8	compound	_	B-PERSON
+8	Romo	romo	NNP	_	9	dep	_	L-PERSON
+9	https://t.co/MHuUQNBAVW	#hlink#	ADD	_	5	dobj	_	O
+

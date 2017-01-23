@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det	_	O
+2	Spurs	spur	NNPS	pos2=NNS	3	nsubj	_	U-ORG
+3	are	be	VBP	_	0	root	_	O
+4	still	still	RB	_	3	advmod	_	O
+5	a	a	DT	_	8	det	_	O
+6	real	real	JJ	_	8	nmod	_	O
+7	disciplined	disciplined	JJ	_	8	nmod	_	O
+8	team	team	NN	_	3	attr	_	O
+9	even	even	RB	_	10	advmod	_	O
+10	without	without	IN	_	8	prep	_	O
+11	Tim	tim	NNP	_	12	compound	_	B-PERSON
+12	Duncan	duncan	NNP	_	10	pobj	_	L-PERSON
+13	.	.	.	_	3	punct	_	O
+

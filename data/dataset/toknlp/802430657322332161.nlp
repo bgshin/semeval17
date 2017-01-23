@@ -1,0 +1,31 @@
+1	Liberals	liberal	NNS	pos2=NNPS	2	nsubj	_	O
+2	say	say	VBP	_	0	root	_	O
+3	voter	voter	NN	_	4	compound	_	O
+4	ID	id	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	2	ccomp	_	O
+6	racist	racist	JJ	_	5	acomp	_	O
+7	because	because	IN	_	9	mark	_	O
+8	it	it	PRP	_	9	nsubj	_	O
+9	is	be	VBZ	_	5	advcl	_	O
+10	hard	hard	JJ	_	9	acomp	_	O
+11	for	for	IN	_	17	mark	_	O
+12	brown	brown	JJ	pos2=NN	14	advmod	_	O
+13	/	/	SYM	pos2=HYPH	14	punct	_	O
+14	black	black	JJ	_	15	nmod	_	O
+15	people	people	NNS	_	17	nsubj	_	O
+16	to	to	TO	_	17	aux	_	O
+17	get	get	VB	_	9	advcl	_	O
+18	an	an	DT	_	20	det	_	O
+19	ID	id	NN	_	20	compound	_	O
+20	card	card	NN	_	17	dobj	_	O
+21	.	.	.	_	2	punct	_	O
+
+1	Talk	talk	VB	pos2=NN	0	root	_	O
+2	about	about	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	bigotry	bigotry	NN	_	2	pobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	low	low	JJ	_	7	nmod	_	O
+7	expectations	expectation	NNS	_	5	pobj	_	O
+8	!	!	.	_	1	punct	_	O
+

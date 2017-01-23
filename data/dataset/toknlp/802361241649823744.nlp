@@ -1,0 +1,11 @@
+1	Gender	gender	NN	_	3	compound	_	O
+2	pay	pay	NN	pos2=VB	3	compound	_	O
+3	gap	gap	NN	_	4	nsubj	_	O
+4	continues	continue	VBZ	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	shrink	shrink	VB	_	4	xcomp	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/8fu3MMfYHo	#hlink#	ADD	_	0	root	_	O
+

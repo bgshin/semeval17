@@ -1,0 +1,29 @@
+1	LOOPY	loopy	JJ	_	3	nmod	_	O
+2	LEFTY	lefty	NN	pos2=JJ	3	compound	_	O
+3	LIBERALS	liberal	NNS	pos2=NNPS	4	nsubj	_	O
+4	TAKE	take	VBP	pos2=VB	0	root	_	O
+5	A	a	DT	_	6	det	_	O
+6	THRASHING	thrashing	NN	_	4	dobj	_	O
+7	IN	in	IN	_	6	prep	_	O
+8	ITALY	italy	NNP	pos2=NN	7	pobj	_	U-GPE
+9	-	-	:	pos2=,	6	punct	_	O
+10	When	when	WRB	_	12	advmod	_	O
+11	people	people	NNS	_	12	nsubj	_	O
+12	have	have	VBP	_	18	advcl	_	O
+13	very	very	RB	_	14	advmod	_	O
+14	little	little	JJ	_	15	nmod	_	O
+15	Wot	wot	NNP	pos2=''	12	dobj	_	U-PRODUCT
+16	have	have	VBP	pos2=VB	18	aux	_	O
+17	they	they	PRP	_	18	nsubj	_	O
+18	got	get	VBN	pos2=VBP	4	conj	_	O
+19	to	to	TO	_	20	aux	_	O
+20	lose	lose	VB	_	18	xcomp	_	O
+21	!	!	.	_	18	punct	_	O
+
+1	SIGN	sign	NN	pos2=VB	2	compound	_	O
+2	ARTICLE	article	NN	_	0	root	_	O
+3	50	0	CD	_	2	nmod	_	O
+4	NOW	now	RB	_	6	advmod	_	O
+5	-	-	HYPH	pos2=:	6	punct	_	O
+6	BREXIT	brexit	NN	pos2=NNP	2	appos	_	O
+

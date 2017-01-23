@@ -1,0 +1,27 @@
+1	@Charress	@charress	NNP	pos2=NFP	3	compound	_	B-ORG
+2	Le	le	NNP	pos2=NN	3	compound	_	I-ORG
+3	Pen	pen	NNP	_	5	nsubjpass	_	L-ORG
+4	is	be	VBZ	_	5	auxpass	_	O
+5	poised	poise	VBN	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	win	win	VB	_	5	xcomp	_	O
+8	1	0	CD	_	10	nmod	_	B-PERCENT
+9	st	st	NN	_	10	compound	_	L-PERCENT
+10	round	round	NN	pos2=RB	7	dobj	_	O
+11	&	&	CC	_	10	cc	_	O
+12	Juppe	juppe	NNP	_	10	conj	_	U-PERSON
+13	will	will	MD	_	14	aux	_	O
+14	prob	prob	VB	pos2=RB	15	nsubj	_	O
+15	destroy	destroy	VB	_	10	relcl	_	O
+16	her	her	PRP	pos2=PRP$	15	dobj	_	O
+17	in	in	IN	_	15	prep	_	O
+18	2nd	#ord#	NN	pos2=JJ	17	pobj	_	U-DATE
+19	.	.	.	_	5	punct	_	O
+
+1	But	but	CC	_	5	cc	_	O
+2	stranger	strange	JJR	pos2=NN	3	nmod	_	O
+3	things	thing	NNS	_	5	nsubj	_	O
+4	have	have	VBP	_	5	aux	_	O
+5	happened	happened	VBN	pos2=VBD	0	root	_	O
+6	https://t.co/1AkScZVT8p	#hlink#	ADD	_	5	dep	_	U-ORG
+

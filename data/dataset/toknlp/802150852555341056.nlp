@@ -1,0 +1,14 @@
+1	#Langley	#langley	DT	pos2=XX	2	det	_	O
+2	woman	woman	NN	_	3	nsubj	_	O
+3	capitalizes	capitalize	VBZ	_	0	root	_	O
+4	on	on	IN	_	3	prep	_	O
+5	#Hatchimals	#hatchimals	PRP$	pos2=NNS	6	poss	_	O
+6	craze	craze	NN	_	4	pobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	raise	raise	VB	_	3	advcl	_	O
+9	money	money	NN	_	8	dobj	_	O
+10	for	for	IN	_	8	prep	_	O
+11	@BCChildrensHosp	@bcchildrenshosp	GW	pos2=NFP	13	nmod	_	B-DATE
+12	#CDNhealth	#cdnhealth	GW	pos2=ADD	13	nmod	_	L-DATE
+13	https://t.co/bpAes5pqgG	#hlink#	ADD	pos2=NN	10	pobj	_	O
+

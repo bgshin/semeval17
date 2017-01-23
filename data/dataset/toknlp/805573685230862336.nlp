@@ -1,0 +1,21 @@
+1	Tonight	tonight	NN	_	6	npadvmod	_	U-TIME
+2	#Italian	#italian	JJ	pos2=POS	4	nmod	_	U-NORP
+3	prime	prime	JJ	_	4	nmod	_	O
+4	minister	minister	NN	_	5	compound	_	O
+5	#Renzi	#renzi	NNP	pos2=ADD	6	nsubj	_	U-PERSON
+6	intends	intend	VBZ	_	0	root	_	O
+7	to	to	IN	pos2=TO	6	prep	_	O
+8	#resign	#resign	VB	pos2=NNP	7	pobj	_	O
+9	&	&	CC	_	6	cc	_	O
+10	#Marine	#marine	NNP	pos2=IN	12	compound	_	O
+11	Le	le	NNP	_	12	compound	_	O
+12	Pen	pen	NNP	_	13	nsubj	_	O
+13	welcomed	welcome	VBD	_	6	conj	_	O
+14	#Italian	#italian	NNP	pos2=NNS	16	compound	_	U-NORP
+15	#referendum	#referendum	NN	pos2=POS	16	compound	_	O
+16	results	result	NNS	_	13	dobj	_	O
+17	,	,	,	_	16	punct	_	O
+18	co	co	FW	pos2=GW	16	conj	_	O
+19	…	…	NFP	pos2=-LRB-	20	punct	_	O
+20	https://t.co/qpKIXJChpL	#hlink#	ADD	pos2=NN	13	npadvmod	_	O
+

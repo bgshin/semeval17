@@ -1,0 +1,10 @@
+1	And	and	CC	_	5	cc	_	O
+2	Melania	melania	NNP	_	5	nsubj	_	U-PERSON
+3	did	do	VBD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	plagiarize	plagiarize	VB	_	0	root	_	O
+6	her	her	PRP$	_	7	poss	_	O
+7	speech	speech	NN	_	5	dobj	_	O
+8	either	either	CC	pos2=RB	9	preconj	_	O
+9	https://t.co/ZyAJSpDFj4	#hlink#	ADD	pos2=NN	5	dep	_	O
+

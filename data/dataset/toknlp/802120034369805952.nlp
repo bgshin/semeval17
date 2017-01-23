@@ -1,0 +1,12 @@
+1	11/16/16	0	CD	pos2=LS	8	npadvmod	_	U-CARDINAL
+2	https://t.co/IUUgyPLls3	#hlink#	ADD	_	7	nmod	_	O
+3	FastCast	fastcast	NNP	pos2=NN	5	dep	_	U-ORG
+4	:	:	:	_	8	punct	_	O
+5	Cy	cy	NNP	pos2=NN	6	compound	_	O
+6	Young	young	NNP	pos2=JJ	7	compound	_	O
+7	winners	winner	NNS	_	8	nsubj	_	O
+8	revealed	reveal	VBD	_	0	root	_	O
+9	https://t.co/dCB7tikPu6	#hlink#	ADD	pos2=RBR	8	dobj	_	U-ORG
+10	via	via	IN	_	8	prep	_	O
+11	@YouTube	@youtube	NNP	pos2=NN	10	pobj	_	O
+

@@ -1,0 +1,18 @@
+1	#NeverRomey	#neverromey	NNP	pos2=UH	2	nsubj	_	O
+2	Come	come	VB	pos2=VBP	0	root	_	O
+3	on	on	IN	pos2=RP	2	prep	_	O
+4	Trump	trump	NNP	pos2=NN	6	compound	_	B-PERSON
+5	Transition	transition	NNP	_	6	compound	_	I-PERSON
+6	Romney	romney	NNP	_	3	pobj	_	L-PERSON
+7	fought	fight	VBD	_	2	advcl	_	O
+8	to	to	TO	_	9	aux	_	O
+9	defeat	defeat	VB	_	7	xcomp	_	O
+10	Trump	trump	NNP	_	11	nsubj	_	U-PERSON
+11	Put	put	VB	pos2=NNP	9	ccomp	_	O
+12	this	this	DT	_	13	det	_	O
+13	snake	snake	NN	_	11	dobj	_	O
+14	under	under	IN	_	11	prep	_	O
+15	his	his	PRP$	_	17	poss	_	O
+16	rock#NeverRomey	rock#neverromey	GW	pos2=ADD	17	nmod	_	U-NORP
+17	https://t.co/n9oaT7ZoLx	#hlink#	ADD	pos2=NN	14	pobj	_	O
+

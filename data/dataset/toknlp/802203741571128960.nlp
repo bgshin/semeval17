@@ -1,0 +1,24 @@
+1	This	this	DT	_	3	nsubj	_	O
+2	simply	simply	RB	_	3	advmod	_	O
+3	means	mean	VBZ	_	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	English	english	NNP	_	4	pobj	_	U-LANGUAGE
+6	he	he	PRP	_	8	nsubj	_	O
+7	is	be	VBZ	_	8	aux	_	O
+8	providing	provide	VBG	_	3	ccomp	_	O
+9	more	more	JJR	pos2=RBR	10	nmod	_	O
+10	support	support	NN	_	8	dobj	_	O
+11	for	for	IN	_	10	prep	_	O
+12	@MoveOn	@moveon	NNP	pos2=NN	11	pobj	_	U-ORG
+13	and	and	CC	_	12	cc	_	O
+14	#BlackLivesMatter	#blacklivesmatter	NNP	pos2=ADD	12	conj	_	U-GPE
+15	to	to	TO	_	16	aux	_	O
+16	set	set	VB	_	8	advcl	_	O
+17	them	them	PRP	_	16	dobj	_	O
+18	up	up	RP	_	16	prt	_	O
+19	and	and	CC	_	16	cc	_	O
+20	do	do	VB	pos2=VBP	16	conj	_	O
+21	h	h	GW	pos2=NN	20	dobj	_	O
+22	…	…	NFP	pos2=GW	23	nmod	_	O
+23	https://t.co/GLKidi15nZ	#hlink#	ADD	pos2=NN	20	dobj	_	O
+

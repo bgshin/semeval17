@@ -1,0 +1,18 @@
+1	@AussiePeteC	@aussiepetec	ADD	pos2=SYM	5	dep	_	O
+2	>	>	SYM	pos2=-RRB-	3	punct	_	O
+3	Ad	ad	NN	pos2=FW	4	compound	_	O
+4	hominem	hominem	NN	pos2=RB	5	compound	_	O
+5	Irrelevant	irrelevant	NNP	pos2=JJ	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	Gun	gun	NN	pos2=NNP	2	compound	_	O
+2	control	control	NN	_	3	nsubj	_	O
+3	places	place	VBZ	pos2=NNS	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	people	people	NNS	_	3	dobj	_	O
+6	YOU	you	PRP	_	7	nsubj	_	O
+7	ELECTED	elect	VBN	pos2=VBD	5	relcl	_	O
+8	above	above	IN	pos2=RB	7	prep	_	O
+9	you	you	PRP	_	8	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+

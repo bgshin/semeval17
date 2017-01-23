@@ -1,0 +1,32 @@
+1	Dear	dear	JJ	_	2	nmod	_	O
+2	MSM	msm	NNP	pos2=NN	11	vocative	_	U-ORG
+3	,	,	,	_	4	punct	_	O
+4	CNN	cnn	NNP	_	5	compound	_	U-ORG
+5	bitches	bitch	NNS	pos2=FW	2	appos	_	O
+6	,	,	,	_	2	punct	_	O
+7	every	every	DT	_	11	det	_	O
+8	election	election	NN	_	11	nmod	_	O
+9	one	#crd#	CD	pos2=NN	11	nmod	_	U-CARDINAL
+10	turning	turning	NN	pos2=VBG	11	compound	_	O
+11	point	point	NN	_	0	root	_	O
+12	..	..	.	_	11	punct	_	O
+
+1	there	there	RB	_	3	advmod	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	go	go	VBP	_	0	root	_	O
+4	again	again	RB	_	3	advmod	_	O
+5	I	I	PRP	_	8	nsubj	_	O
+6	will	will	MD	_	8	aux	_	O
+7	not	not	RB	_	8	neg	_	O
+8	use	use	VB	_	3	conj	_	O
+9	my	my	PRP$	_	10	poss	_	O
+10	opponents	opponent	NNS	_	8	dobj	_	O
+11	youth	youth	RB	pos2=NN	8	advmod	_	O
+12	&	&	CC	_	11	cc	_	O
+13	NOW	now	RB	_	11	conj	_	O
+14	"	"	''	pos2=``	15	punct	_	O
+15	basket	basket	NN	_	10	conj	_	O
+16	of	of	IN	_	15	prep	_	O
+17	deplorables	deplorables	NNS	pos2=NN	16	pobj	_	O
+18	"	"	''	pos2=``	8	punct	_	O
+

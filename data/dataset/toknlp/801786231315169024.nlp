@@ -1,0 +1,36 @@
+1	@lionheartx10	@lionheartx0	NN	pos2=UH	5	compound	_	O
+2	google	google	NNP	pos2=JJ	5	compound	_	O
+3	earth	earth	NN	_	5	compound	_	O
+4	vr	vr	NN	pos2=FW	5	compound	_	O
+5	lad	lad	NN	_	7	vocative	_	O
+6	,	,	,	_	7	punct	_	O
+7	do	do	VB	pos2=VBP	0	root	_	O
+8	that	that	DT	_	7	dobj	_	O
+9	first	#ord#	RB	pos2=JJ	7	advmod	_	U-ORDINAL
+10	...	..	.	_	7	punct	_	O
+
+1	it	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	best	good	JJS	_	5	nmod	_	O
+5	thing	thing	NN	_	2	attr	_	O
+6	o	o	VBZ	pos2=IN	2	vocative	_	O
+7	the	the	DT	pos2=FW	8	det	_	O
+8	vive	vive	FW	pos2=NN	6	dobj	_	O
+9	by	by	IN	_	6	prep	_	O
+10	a	a	DT	_	12	det	_	O
+11	country	country	NN	_	12	compound	_	O
+12	mile	mile	NN	_	9	pobj	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	GO	go	VB	_	0	root	_	O
+2	TO	to	IN	_	1	prep	_	O
+3	NEW	new	NNP	pos2=JJ	4	compound	_	B-GPE
+4	YORK	york	NNP	pos2=NN	5	compound	_	L-GPE
+5	LAD	lad	NN	pos2=NNP	2	pobj	_	O
+6	!	!	.	_	1	punct	_	O
+
+1	THE	the	DT	_	2	det	_	O
+2	TOKYO	tokyo	NNP	pos2=NN	0	root	_	U-GPE
+3	!	!	.	_	2	punct	_	O
+

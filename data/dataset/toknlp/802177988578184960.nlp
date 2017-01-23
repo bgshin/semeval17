@@ -1,0 +1,25 @@
+1	@CNN	@cnn	NNP	pos2=IN	12	nsubj	_	O
+2	The	the	DT	_	3	det	_	O
+3	level	level	NN	_	1	appos	_	O
+4	of	of	IN	_	3	prep	_	O
+5	govt	govt	NN	_	4	pobj	_	O
+6	/	/	SYM	pos2=HYPH	5	punct	_	O
+7	political	political	JJ	_	8	nmod	_	O
+8	corruption	corruption	NN	_	5	appos	_	O
+9	in	in	IN	_	8	prep	_	O
+10	US	us	NNP	_	9	pobj	_	U-GPE
+11	is	be	VBZ	_	12	aux	_	O
+12	nearing	near	VBG	_	0	root	_	O
+13	that	that	DT	_	12	dobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	banana	banana	NN	_	16	compound	_	O
+16	republics	republic	NNS	_	14	pobj	_	O
+17	.	.	.	_	12	punct	_	O
+
+1	https	http	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	//	//	NFP	pos2=-LRB-	6	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	lmtgyZ3Bsu	lmtgyz0bsu	NN	pos2=NNS	0	root	_	O
+

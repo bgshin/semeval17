@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det	_	O
+2	#ElectoralCollege	#electoralcollege	NNP	pos2=NN	4	nsubj	_	U-ORG
+3	should	should	MD	_	4	aux	_	O
+4	choose	choose	VB	_	0	root	_	O
+5	#HRC.	#hrc.	NNP	pos2=NNS	4	dobj	_	U-ORG
+6	If	if	IN	_	8	mark	_	O
+7	you	you	PRP	_	8	nsubj	_	O
+8	agree	agree	VBP	_	10	advcl	_	O
+9	,	,	,	_	10	punct	_	O
+10	read	read	VB	pos2=VBP	4	conj	_	O
+11	&	&	CC	_	10	cc	_	O
+12	sign	sign	VB	pos2=NN	10	conj	_	O
+13	here	here	RB	_	12	advmod	_	O
+14	:	:	:	_	10	punct	_	O
+15	https://t.co/H0OEyQ7Vuh	#hlink#	ADD	pos2=NN	16	nmod	_	O
+16	#TrumpLeaks	#trumpleaks	NNS	pos2=ADD	10	dobj	_	O
+

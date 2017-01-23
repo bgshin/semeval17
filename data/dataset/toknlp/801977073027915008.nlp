@@ -1,0 +1,18 @@
+1	Ken	ken	NNP	_	2	compound	_	B-PERSON
+2	Rosenthal	rosenthal	NNP	_	3	nsubj	_	L-PERSON
+3	Got	get	VBD	pos2=NNP	17	ccomp	_	O
+4	Some	some	DT	_	5	det	_	O
+5	Clarification	clarification	NN	_	3	dobj	_	O
+6	From	from	IN	_	5	prep	_	O
+7	Kate	kate	NNP	_	8	compound	_	B-PERSON
+8	Upton	upton	NNP	_	6	pobj	_	L-PERSON
+9	On	on	IN	_	3	prep	_	O
+10	Her	her	PRP$	_	14	poss	_	O
+11	Cy	cy	NNP	pos2=NN	13	compound	_	O
+12	Young	young	NNP	_	13	compound	_	O
+13	Twitter	twitter	NNP	_	14	compound	_	O
+14	Rant	rant	NN	pos2=NNP	9	pobj	_	O
+15	:	:	:	_	17	punct	_	O
+16	https://t.co/NxPFIfN4he	#hlink#	ADD	_	17	nmod	_	O
+17	https://t.co/91PBk6HATN	#hlink#	ADD	_	0	root	_	O
+

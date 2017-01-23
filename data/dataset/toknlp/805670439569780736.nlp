@@ -1,0 +1,8 @@
+1	#Aleppo	#aleppo	NNP	pos2=FW	5	vocative	_	O
+2	#standwithaleppo	#standwithaleppo	UH	pos2=FW	5	discourse	_	O
+3	,	,	,	_	5	punct	_	O
+4	where	where	WRB	_	5	advmod	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	@Rami_Zien	@rami_zien	NNP	pos2=VBN	5	nsubj	_	U-PERSON
+7	?	?	.	_	5	punct	_	O
+

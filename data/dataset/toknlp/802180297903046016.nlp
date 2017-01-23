@@ -1,0 +1,10 @@
+1	Tips	tip	NNS	_	9	dep	_	O
+2	for	for	IN	_	1	prep	_	O
+3	winter	winter	NN	_	9	dep	_	U-DATE
+4	driving.#london	driving.#london	NNP	pos2=.	9	dep	_	U-PERSON
+5	#cab	#cab	XX	pos2=UH	9	dep	_	O
+6	#taxi	#taxi	XX	pos2=UH	9	dep	_	O
+7	#uber	#uber	XX	pos2=GW	9	nmod	_	O
+8	#yellowlondontaxi	#yellowlondontaxi	XX	pos2=-LRB-	9	nmod	_	O
+9	https://t.co/qDb366icfu	#hlink#	ADD	pos2=XX	0	root	_	O
+

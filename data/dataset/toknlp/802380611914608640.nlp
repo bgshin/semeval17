@@ -1,0 +1,11 @@
+1	@OccupyWallStNYC	@occupywallstnyc	XX	pos2=VB	2	nmod	_	O
+2	@GhostPanther	@ghostpanther	NN	pos2=XX	0	root	_	O
+3	...	..	.	pos2=,	2	punct	_	O
+
+1	and	and	CC	_	5	cc	_	O
+2	@russellcrowe	@russellcrowe	UH	pos2=VB	0	root	_	O
+3	as	as	IN	_	2	prep	_	O
+4	Steve	steve	NNP	_	5	compound	_	B-PERSON
+5	Bannon	bannon	NNP	_	3	pobj	_	L-PERSON
+6	.	.	.	_	2	punct	_	O
+

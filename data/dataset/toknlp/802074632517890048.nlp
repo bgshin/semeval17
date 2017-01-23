@@ -1,0 +1,24 @@
+1	@BoldProgressive	@boldprogressive	ADD	pos2=XX	2	det	_	O
+2	@elizabethforma	@elizabethforma	NN	pos2=UH	0	root	_	O
+3	and	and	CC	_	2	cc	_	O
+4	a	a	DT	_	6	det	_	O
+5	corruption	corruption	NN	_	6	compound	_	O
+6	crisis	crisis	NN	_	2	conj	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	Lives	life	NNS	pos2=VBZ	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	no	no	RB	_	4	neg	_	O
+4	longer	long	RBR	pos2=JJR	5	advmod	_	O
+5	lives	live	VBZ	pos2=NNS	2	conj	_	O
+6	,	,	,	_	5	punct	_	O
+7	left	left	JJ	_	8	nmod	_	O
+8	control	control	NN	_	2	attr	_	O
+9	,	,	,	_	2	punct	_	O
+10	no	no	DT	_	11	det	_	O
+11	individual	individual	NN	pos2=JJ	2	dep	_	O
+12	!	!	.	_	2	punct	_	O
+
+1	Ashamed	ashamed	JJ	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+

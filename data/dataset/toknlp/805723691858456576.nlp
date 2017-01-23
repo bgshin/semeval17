@@ -1,0 +1,24 @@
+1	"	"	``	pos2=''	5	punct	_	O
+2	Raul	raul	NNP	_	4	compound	_	B-PERSON
+3	Castro:There	castro:there	NNP	_	4	compound	_	L-PERSON
+4	Won	won	NNP	pos2=VBD	5	nsubj	_	O
+5	Be	be	VB	pos2=NNP	0	root	_	O
+6	Monuments	monument	NNS	pos2=NNPS	5	attr	_	O
+7	To	to	IN	_	6	prep	_	O
+8	Fidel	fidel	NNP	_	9	compound	_	B-PERSON
+9	No	no	NNP	pos2=DT	10	compound	_	L-PERSON
+10	Need	need	NN	_	7	pobj	_	O
+11	For	for	IN	pos2=NNP	10	prep	_	O
+12	Raul:Cuba	raul:cuba	NNP	pos2=NNPS	11	pobj	_	U-ORG
+13	Is	be	VBZ	_	5	conj	_	O
+14	A	a	DT	_	17	det	_	O
+15	Monumental	monumental	JJ	pos2=NNP	17	nmod	_	O
+16	Memento	memento	NNP	pos2=NN	17	compound	_	O
+17	Mori	mori	NNP	_	23	nmod	_	O
+18	Of	of	IN	pos2=NNP	17	prep	_	O
+19	Fidel	fidel	NNP	_	20	compound	_	O
+20	Holocastro	holocastro	NNP	_	18	pobj	_	O
+21	"	"	''	pos2=``	23	punct	_	O
+22	Arturo	arturo	NNP	_	23	compound	_	B-PERSON
+23	Cuenca	cuenca	NNP	_	13	attr	_	L-PERSON
+

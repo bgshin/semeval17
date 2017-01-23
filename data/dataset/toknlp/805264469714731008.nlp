@@ -1,0 +1,9 @@
+1	#nikki	#nikki	VB	pos2=UH	0	root	_	O
+2	minaj	minaj	NN	pos2=JJ	4	nmod	_	O
+3	nude	nude	JJ	pos2=NN	4	nmod	_	O
+4	pictures	picture	NNS	_	1	dobj	_	O
+5	ashley	ashley	JJ	pos2=XX	8	nmod	_	O
+6	graham	graham	GW	pos2=NN	8	nmod	_	O
+7	nude	nude	JJ	pos2=GW	8	nmod	_	O
+8	https://t.co/9rSY37nTvi	#hlink#	ADD	pos2=NN	1	dep	_	O
+

@@ -1,0 +1,27 @@
+1	What	what	WP	pos2=WDT	5	dobj	_	O
+2	more	more	JJR	pos2=RBR	1	nmod	_	O
+3	can	can	MD	_	5	aux	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	give	give	VB	_	0	root	_	O
+6	?	?	.	_	5	punct	_	O
+
+1	Michael	michael	NNP	_	2	compound	_	B-PERSON
+2	Jackson	jackson	NNP	_	0	root	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	Celine	celine	NNP	_	5	compound	_	B-PERSON
+5	Dion	dion	NNP	_	2	conj	_	L-PERSON
+6	,	,	,	_	5	punct	_	O
+7	Julio	julio	NNP	_	8	compound	_	B-PERSON
+8	Iglesias	iglesias	NNP	_	5	conj	_	L-PERSON
+9	,	,	,	_	8	punct	_	O
+10	Ricky	ricky	NNP	_	11	compound	_	B-PERSON
+11	Martin	martin	NNP	_	8	conj	_	L-PERSON
+12	,	,	,	_	11	punct	_	O
+13	Mariah	mariah	NNP	_	14	compound	_	B-PERSON
+14	Carey	carey	NNP	_	11	conj	_	L-PERSON
+15	,	,	,	_	14	punct	_	O
+16	Shakira	shakira	NNP	_	14	conj	_	U-PERSON
+17	......	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/KRX6Q7NfbM	#hlink#	ADD	_	0	root	_	U-ORG
+

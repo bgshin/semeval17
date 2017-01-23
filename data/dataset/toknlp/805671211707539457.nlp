@@ -1,0 +1,20 @@
+1	This	this	DT	_	2	det	_	O
+2	...	..	.	pos2=,	0	nsubjpass	_	O
+
+1	is	be	VBZ	_	0	root	_	O
+2	upsetting	upsetting	JJ	pos2=VBG	1	acomp	_	O
+3	and	and	CC	_	2	cc	_	O
+4	a	a	DT	_	6	det	_	O
+5	manipulative	manipulative	JJ	_	6	nmod	_	O
+6	way	way	NN	_	2	conj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	diverting	divert	VBG	_	7	pcomp	_	O
+9	the	the	DT	_	10	det	_	O
+10	conversation	conversation	NN	_	8	dobj	_	O
+11	about	about	IN	_	10	prep	_	O
+12	gun	gun	NN	_	13	compound	_	O
+13	control	control	NN	_	11	pobj	_	O
+14	.	.	.	_	1	punct	_	O
+
+1	https://t.co/jYTXGtpJBU	#hlink#	ADD	_	0	root	_	U-ORG
+

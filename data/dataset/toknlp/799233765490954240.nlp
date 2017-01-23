@@ -1,0 +1,10 @@
+1	@nytimes	@nytimes	UH	pos2=NNS	4	discourse	_	O
+2	#HillaryClinton	#hillaryclinton	NNP	pos2=ADD	4	nsubj	_	U-PERSON
+3	already	already	RB	_	4	advmod	_	O
+4	made	make	VBD	_	0	root	_	O
+5	that	that	DT	pos2=IN	6	det	_	O
+6	#mistake	#mistake	NN	pos2=ADD	4	dobj	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	#TrumpTransitionTeam	#trumptransitionteam	ADD	pos2=XX	0	root	_	O
+

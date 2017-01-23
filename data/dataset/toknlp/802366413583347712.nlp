@@ -1,0 +1,26 @@
+1	But	but	CC	_	5	cc	_	O
+2	looked	look	VBD	pos2=VB	0	root	_	O
+3	what	what	WP	_	4	nsubj	_	O
+4	happened	happened	VBD	_	2	ccomp	_	O
+5	when	when	WRB	_	7	advmod	_	O
+6	Comey	comey	NNP	_	7	nsubj	_	U-PERSON
+7	helped	help	VBD	_	4	advcl	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	If	if	IN	_	3	mark	_	O
+2	he	he	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	9	advcl	_	O
+4	an	an	DT	_	5	det	_	O
+5	accomplice	accomplice	NN	_	3	attr	_	O
+6	through	through	IN	_	5	prep	_	O
+7	ignorance	ignorance	NN	_	6	pobj	_	O
+8	,	,	,	_	9	punct	_	O
+9	is	be	VBZ	_	0	root	_	O
+10	he	he	PRP	_	9	nsubj	_	O
+11	still	still	RB	_	9	advmod	_	O
+12	a	a	DT	_	13	det	_	O
+13	traitor	traitor	NN	_	9	attr	_	O
+14	?	?	.	_	9	punct	_	O
+
+1	https://t.co/hCobeCI4Kq	#hlink#	ADD	_	0	root	_	U-ORG
+

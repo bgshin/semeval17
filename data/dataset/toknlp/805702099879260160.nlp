@@ -1,0 +1,20 @@
+1	Thank	thank	VBP	_	0	root	_	O
+2	you	you	PRP	_	1	dobj	_	O
+3	for	for	IN	_	1	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	code	code	NN	_	3	pobj	_	O
+6	!	!	.	_	1	punct	_	O
+
+1	Finally	finally	RB	_	5	advmod	_	O
+2	,	,	,	_	5	punct	_	O
+3	I	I	PRP	_	5	nsubj	_	O
+4	can	can	MD	_	5	aux	_	O
+5	get	get	VB	_	0	root	_	O
+6	in.	in.	.	pos2=NN	5	punct	_	O
+7	#Westworld	#westworld	NFP	pos2=NNP	5	discourse	_	O
+8	#WestworldFinale	#westworldfinale	LS	pos2=NN	5	punct	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	@WestworldHBO	@westworldhbo	ADD	pos2=-LRB-	2	punct	_	O
+2	https://t.co/8Ku9rkIwDj	#hlink#	ADD	_	0	root	_	O
+

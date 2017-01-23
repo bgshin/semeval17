@@ -1,0 +1,25 @@
+1	So	so	RB	_	2	advmod	_	O
+2	many	many	JJ	_	4	nmod	_	O
+3	Cabinet	cabinet	NNP	pos2=NN	4	compound	_	U-ORG
+4	billionaires	billionaire	NNS	_	24	dep	_	O
+5	,	,	,	_	4	punct	_	O
+6	waiting	wait	VBG	_	4	acl	_	O
+7	2	0	CD	_	8	nmod	_	U-CARDINAL
+8	flipflop	flipflop	NN	pos2=NNS	6	dobj	_	O
+9	on	on	IN	pos2=RB	6	prep	_	O
+10	#TPP.	#tpp.	NNP	pos2=NN	9	pobj	_	U-DATE
+11	That	that	DT	pos2=WDT	12	nsubj	_	O
+12	boosts	boost	VBZ	_	24	ccomp	_	O
+13	US	us	NNP	_	14	compound	_	U-GPE
+14	power	power	NN	_	12	dobj	_	O
+15	for	for	IN	_	12	prep	_	O
+16	1	0	CD	_	17	nmod	_	B-PERCENT
+17	%	%	NN	_	15	pobj	_	L-PERCENT
+18	supposedly	supposedly	RB	_	19	advmod	_	O
+19	at	at	IN	_	12	prep	_	O
+20	expense	expense	NN	_	19	pobj	_	O
+21	of	of	IN	_	20	prep	_	O
+22	rest	rest	NN	pos2=JJ	21	pobj	_	O
+23	…	…	NFP	pos2=-LRB-	24	punct	_	O
+24	https://t.co/3WsN4rF1qc	#hlink#	ADD	_	0	root	_	O
+

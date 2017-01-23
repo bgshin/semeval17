@@ -1,0 +1,17 @@
+1	Bulking	bulk	VBG	_	0	root	_	O
+2	Up	up	RP	_	1	prt	_	O
+3	!	!	.	_	1	punct	_	O
+
+1	A	a	DT	pos2=LS	2	det	_	O
+2	Guide	guide	NN	pos2=NNP	4	nsubj	_	O
+3	to	to	IN	pos2=TO	4	aux	_	O
+4	Bulk	bulk	VB	pos2=NNP	0	root	_	O
+5	Food	food	NN	pos2=NNP	6	compound	_	O
+6	Bargains	bargain	NNS	pos2=NNPS	4	dobj	_	O
+7	and	and	CC	pos2=GW	6	cc	_	O
+8	Storage	storage	NN	pos2=NNP	6	conj	_	O
+9	https://t.co/ZAjqdAGNIG	#hlink#	ADD	pos2=NNP	8	dobj	_	O
+10	#tpp	#tpp	IN	pos2=XX	8	prep	_	O
+11	#pjnet	#pjnet	UH	pos2=NN	10	discourse	_	O
+12	#xcot	#xcot	UH	pos2=NN	10	discourse	_	O
+

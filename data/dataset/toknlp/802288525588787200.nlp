@@ -1,0 +1,11 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	WANT	want	VBP	_	0	root	_	O
+3	TO	to	TO	_	4	aux	_	O
+4	GO	go	VB	_	2	xcomp	_	O
+5	SEE	see	VB	_	4	advcl	_	O
+6	THE	the	DT	_	7	det	_	O
+7	MOVIE	movie	NN	pos2=NNP	5	dobj	_	O
+8	"	"	``	pos2=''	9	punct	_	O
+9	LOVING	love	VBG	pos2=ADD	7	appos	_	B-WORK_OF_ART
+10	"	"	''	_	9	punct	_	L-WORK_OF_ART
+

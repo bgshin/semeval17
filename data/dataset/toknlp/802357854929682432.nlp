@@ -1,0 +1,29 @@
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	on	on	IN	_	2	prep	_	O
+5	domestic	domestic	JJ	_	6	nmod	_	O
+6	policy	policy	NN	_	4	pobj	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	real	real	JJ	_	3	nmod	_	O
+3	changes	change	NNS	_	10	nsubj	_	O
+4	that	that	WDT	_	7	dobj	_	O
+5	we	we	PRP	_	7	nsubj	_	O
+6	'll	will	MD	_	7	aux	_	O
+7	see	see	VB	_	3	relcl	_	O
+8	more	more	RBR	pos2=JJR	9	advmod	_	O
+9	clearly	clearly	RB	_	7	advmod	_	O
+10	are	be	VBP	_	0	root	_	O
+11	both	both	CC	pos2=DT	12	preconj	_	O
+12	foreign	foreign	JJ	_	15	nmod	_	O
+13	&	&	CC	_	12	cc	_	O
+14	trade	trade	NN	pos2=JJ	12	conj	_	O
+15	policy	policy	NN	_	10	attr	_	O
+16	.	.	.	_	10	punct	_	O
+
+1	#jgsf1987	#jgsf0	NN	pos2=LS	3	dep	_	O
+2	#DonaldTrump	#donaldtrump	XX	pos2=ADD	3	dep	_	O
+3	#TPP	#tpp	XX	pos2=NN	0	root	_	O
+

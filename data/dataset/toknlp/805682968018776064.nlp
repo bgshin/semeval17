@@ -1,0 +1,32 @@
+1	@Andulos	@andulos	VBZ	pos2=NNP	0	root	_	O
+2	what	what	WP	_	3	nsubj	_	O
+3	's	's	VBZ	_	6	aux	_	O
+4	gun	gun	NN	pos2=JJ	5	compound	_	O
+5	control	control	NN	_	6	nsubj	_	O
+6	doing	do	VBG	_	1	ccomp	_	O
+7	what	what	WP	_	8	nsubj	_	O
+8	's	's	VBZ	_	6	ccomp	_	O
+9	it	it	PRP	_	10	nsubj	_	O
+10	's	's	VBZ	_	13	aux	_	O
+11	already	already	RB	_	10	advmod	_	O
+12	not	not	RB	_	13	neg	_	O
+13	doing	do	VBG	_	1	conj	_	O
+14	?	?	.	_	1	punct	_	O
+
+1	Do	do	VBP	pos2=VB	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	own	own	VB	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	gun	gun	NN	_	3	dobj	_	O
+6	or	or	CC	_	3	cc	_	O
+7	gone	go	VBN	_	3	conj	_	O
+8	into	into	IN	pos2=RB	7	prep	_	O
+9	to	to	TO	_	10	aux	_	O
+10	go	go	VB	_	7	advcl	_	O
+11	get	get	VB	_	10	advcl	_	O
+12	a	a	DT	_	13	det	_	O
+13	gun	gun	NN	_	11	dobj	_	O
+14	?	?	.	_	3	punct	_	O
+
+1	:	:	:	pos2=SYM	0	predet	_	O
+

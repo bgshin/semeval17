@@ -1,0 +1,20 @@
+1	Obama	obama	NNP	_	4	poss	_	U-PERSON
+2	's	's	POS	pos2=VBZ	1	case	_	O
+3	dirty	dirty	JJ	_	4	nmod	_	O
+4	secret	secret	NN	_	9	nsubj	_	O
+5	:	:	:	pos2=HYPH	9	punct	_	O
+6	Funded	fund	VBN	pos2=JJ	9	nmod	_	O
+7	fossil	fossil	NN	pos2=JJ	9	compound	_	O
+8	fuel	fuel	NN	_	9	compound	_	O
+9	projects	project	NNS	_	0	root	_	O
+10	worldwide	worldwide	RB	_	9	advmod	_	O
+11	while	while	IN	_	12	mark	_	O
+12	cutting	cut	VBG	_	9	advcl	_	O
+13	American	american	JJ	pos2=NNP	15	nmod	_	U-NORP
+14	power	power	NN	_	15	compound	_	O
+15	plants	plant	NNS	_	12	dobj	_	O
+16	&	&	CC	_	15	cc	_	O
+17	jobs	job	NNS	_	15	conj	_	O
+18	https://t.co/9kPV2ddLyw	#hlink#	ADD	pos2=VBP	15	appos	_	O
+19	#ObamasLegacy	#obamaslegacy	-RRB-	pos2=ADD	9	punct	_	U-ORG
+

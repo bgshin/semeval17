@@ -1,0 +1,7 @@
+1	Drain	drain	VB	pos2=NN	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	swamp	swamp	NN	_	1	dobj	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	#Deplorables	#deplorables	NNS	pos2=VBZ	0	root	_	O
+

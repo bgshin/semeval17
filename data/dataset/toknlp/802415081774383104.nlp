@@ -1,0 +1,19 @@
+1	Australia	australia	NNP	_	3	poss	_	U-GPE
+2	's	's	POS	_	1	case	_	O
+3	world	world	NN	_	8	npadvmod	_	O
+4	-	-	HYPH	_	8	punct	_	O
+5	first	#ord#	RB	pos2=JJ	6	advmod	_	U-ORDINAL
+6	3	0	CD	_	7	nmod	_	U-CARDINAL
+7	D	d	NN	pos2=NNP	9	compound	_	O
+8	printing	printing	NN	pos2=VBG	9	compound	_	O
+9	technology	technology	NN	_	13	nsubj	_	O
+10	will	will	MD	_	13	aux	_	O
+11	soon	soon	RB	_	13	advmod	_	O
+12	be	be	VB	_	13	aux	_	O
+13	making	make	VBG	_	0	root	_	O
+14	jet	jet	NN	pos2=JJ	15	compound	_	O
+15	engines	engine	NNS	_	13	dobj	_	O
+16	in	in	IN	_	13	prep	_	O
+17	Europe	europe	NNP	_	16	pobj	_	U-LOC
+18	https://t.co/rHRK4WcR7o	#hlink#	ADD	pos2=NNP	13	dep	_	O
+

@@ -1,0 +1,24 @@
+1	@sassree	@sassree	UH	pos2=VB	4	discourse	_	O
+2	Steve	steve	NNP	_	3	compound	_	B-PERSON
+3	Bannon	bannon	NNP	_	4	nsubj	_	L-PERSON
+4	runs	run	VBZ	_	0	root	_	O
+5	the	the	DT	_	9	det	_	O
+6	racist	racist	JJ	_	9	nmod	_	O
+7	antisemitic	antisemitic	JJ	_	9	nmod	_	O
+8	islamophoic	islamophoic	JJ	pos2=NN	9	nmod	_	O
+9	website	website	NN	_	4	dobj	_	O
+10	Breitbart	breitbart	NNP	_	9	appos	_	U-ORG
+11	which	which	WDT	_	9	appos	_	O
+12	he	he	PRP	_	13	nsubj	_	O
+13	professes	profess	VBZ	_	9	relcl	_	O
+14	to	to	TO	_	15	aux	_	O
+15	lead	lead	VB	_	13	xcomp	_	O
+16	the	the	DT	_	19	det	_	O
+17	alt	alt	JJ	pos2=NN	19	advmod	_	O
+18	-	-	HYPH	_	19	punct	_	O
+19	right	right	JJ	pos2=NN	15	dobj	_	O
+20	that	that	WDT	_	21	nsubj	_	O
+21	are	be	VBP	_	19	relcl	_	O
+22	Neo	neo	NNP	pos2=JJ	23	compound	_	O
+23	Nazis	nazi	NNPS	pos2=NNP	21	attr	_	U-NORP
+

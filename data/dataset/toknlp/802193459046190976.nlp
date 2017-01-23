@@ -1,0 +1,10 @@
+1	This	this	DT	_	2	det	_	O
+2	year	year	NN	_	5	poss	_	U-DATE
+3	's	's	POS	_	2	case	_	O
+4	hottest	hot	JJS	_	5	nmod	_	O
+5	toy	toy	NN	_	8	dep	_	O
+6	:	:	:	_	8	punct	_	O
+7	#Hatchimals	#hatchimals	NNS	pos2=ADD	8	dep	_	O
+8	https://t.co/cK7B6TINZi	#hlink#	ADD	_	0	root	_	O
+9	@iheartradioca	@iheartradioca	-RRB-	pos2=UH	8	punct	_	O
+

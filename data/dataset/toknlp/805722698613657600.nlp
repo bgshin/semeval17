@@ -1,0 +1,14 @@
+1	#Russia	#russia	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	says	say	VBZ	_	0	root	_	O
+3	proposed	propose	VBN	pos2=VBD	5	nmod	_	O
+4	#UN	#un	NN	pos2=CD	5	compound	_	O
+5	resolution	resolution	NN	_	13	dep	_	O
+6	on	on	IN	_	5	prep	_	O
+7	#Aleppo	#aleppo	NNP	pos2=ADD	6	pobj	_	U-ORG
+8	'	'	``	pos2=POS	10	punct	_	O
+9	provocative	provocative	JJ	_	10	nmod	_	O
+10	step	step	NN	_	13	dep	_	O
+11	'	'	''	pos2=GW	10	punct	_	O
+12	https://t.co/g3s05O7hxK	#hlink#	ADD	_	13	nmod	_	O
+13	https://t.co/Pq4mMXugsj	#hlink#	ADD	_	2	dep	_	U-ORG
+

@@ -1,0 +1,26 @@
+1	In	in	IN	_	13	prep	_	O
+2	memory	memory	NN	_	1	pobj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	Fidel	fidel	NNP	_	3	pobj	_	U-PERSON
+5	,	,	,	_	4	punct	_	O
+6	a	a	DT	_	8	det	_	O
+7	little	little	JJ	_	8	nmod	_	O
+8	quote	quote	NN	pos2=UH	4	appos	_	O
+9	from	from	IN	_	8	prep	_	O
+10	Bob	bob	NNP	_	11	compound	_	B-PERSON
+11	Dylan:I	dylan:i	NNP	_	9	pobj	_	L-PERSON
+12	was	be	VBD	_	13	auxpass	_	O
+13	sleepin	sleepin	VBN	pos2=RBR	0	root	_	O
+14	’	'	''	pos2=``	13	punct	_	O
+15	like	like	IN	pos2=UH	13	prep	_	O
+16	a	a	DT	_	17	det	_	O
+17	ratWhen	ratwhen	NN	pos2=NNP	15	pobj	_	O
+18	I	I	PRP	_	19	nsubj	_	O
+19	heard	hear	VBD	_	17	relcl	_	O
+20	something	something	NN	_	21	compound	_	O
+21	jerkin	jerkin	NN	pos2=VB	19	dobj	_	O
+22	’	'	''	_	13	punct	_	O
+23	...	..	.	pos2=:	13	punct	_	O
+
+1	https://t.co/byqZ6yJC55	#hlink#	ADD	_	0	root	_	U-ORG
+

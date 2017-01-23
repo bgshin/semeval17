@@ -1,0 +1,16 @@
+1	@FoxNews	@foxnews	NNP	pos2=VBZ	3	compound	_	O
+2	Donald	donald	NNP	_	3	compound	_	B-PERSON
+3	Trump	trump	NNP	_	4	nsubj	_	L-PERSON
+4	needs	need	VBZ	_	0	root	_	O
+5	this	this	DT	_	6	det	_	O
+6	idiot	idiot	NN	_	4	dobj	_	O
+7	for	for	IN	_	4	prep	_	O
+8	his	his	PRP$	_	9	poss	_	O
+9	nomination	nomination	NN	_	7	pobj	_	O
+10	to	to	IN	_	9	prep	_	O
+11	his	his	PRP$	_	12	poss	_	O
+12	cabinet	cabinet	NN	_	10	pobj	_	O
+13	what	what	WP	pos2=WDT	15	det	_	O
+14	a	a	DT	_	15	det	_	O
+15	joke	joke	NN	_	12	pcomp	_	O
+

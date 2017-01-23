@@ -1,0 +1,22 @@
+1	hey	hey	UH	pos2=JJ	6	discourse	_	O
+2	PA	pa	NNP	pos2=NN	6	vocative	_	U-ORG
+3	can	can	MD	_	6	aux	_	O
+4	you	you	PRP	_	6	nsubj	_	O
+5	um	um	UH	_	6	discourse	_	O
+6	let	let	VB	_	17	advcl	_	O
+7	me	me	PRP	_	8	nsubj	_	O
+8	register	register	VB	pos2=RP	6	ccomp	_	O
+9	for	for	IN	_	8	prep	_	O
+10	a	a	DT	_	14	det	_	O
+11	medical	medical	JJ	_	12	nmod	_	O
+12	marijuana	marijuana	NN	_	14	compound	_	O
+13	identification	identification	NN	_	14	compound	_	O
+14	card	card	NN	_	9	pobj	_	O
+15	plz	plz	UH	_	17	discourse	_	O
+16	also	also	RB	_	17	advmod	_	O
+17	gets	get	VBZ	_	0	root	_	O
+18	some	some	DT	_	19	det	_	O
+19	dispensaries	dispensary	NNS	_	17	dobj	_	O
+20	thanks	thanks	NNS	pos2=NN	17	npadvmod	_	O
+21	:-)	:-)	NFP	pos2=.	17	discourse	_	O
+

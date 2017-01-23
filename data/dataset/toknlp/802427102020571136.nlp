@@ -1,0 +1,26 @@
+1	Liberals	liberal	NNS	pos2=NNPS	6	vocative	_	O
+2	,	,	,	_	6	punct	_	O
+3	I	I	PRP	_	6	nsubj	_	O
+4	would	would	MD	_	6	aux	_	O
+5	n’t	not	RB	_	6	neg	_	O
+6	give	give	VB	_	0	root	_	O
+7	up	up	RP	pos2=JJ	6	prt	_	O
+8	hope	hope	NN	_	6	dobj	_	O
+9	.	.	.	_	6	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	’s	's	VBZ	_	0	root	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	possible	possible	JJ	_	2	acomp	_	O
+5	the	the	DT	_	6	det	_	O
+6	recount	recount	NN	_	8	nsubj	_	O
+7	will	will	MD	_	8	aux	_	O
+8	have	have	VB	_	2	ccomp	_	O
+9	an	an	DT	_	10	det	_	O
+10	effect	effect	NN	_	8	dobj	_	O
+11	in	in	IN	_	8	prep	_	O
+12	an	an	DT	_	14	det	_	O
+13	alternate	alternate	JJ	_	14	nmod	_	O
+14	universe	universe	NN	_	11	pobj	_	O
+15	.	.	.	_	2	punct	_	O
+

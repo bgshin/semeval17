@@ -1,0 +1,23 @@
+1	Hairspray	hairspray	NNP	pos2=NN	2	compound	_	O
+2	Live	live	NNP	pos2=RB	0	root	_	O
+3	...	..	.	pos2=,	2	punct	_	O
+
+1	not	not	RB	_	2	neg	_	O
+2	sure	sure	JJ	_	0	root	_	O
+3	how	how	WRB	_	5	advmod	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	feel	feel	VBP	_	2	ccomp	_	O
+6	about	about	IN	_	5	prep	_	O
+7	this	this	DT	_	6	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	Zac	zac	NNP	_	2	compound	_	B-PERSON
+2	Efron	efron	NNP	_	5	nsubj	_	L-PERSON
+3	will	will	MD	_	5	aux	_	O
+4	forever	forever	RB	_	5	advmod	_	O
+5	be	be	VB	_	0	root	_	O
+6	Link	link	NNP	pos2=JJ	5	attr	_	O
+7	to	to	IN	_	6	prep	_	O
+8	me	me	PRP	_	7	pobj	_	O
+9	.	.	.	_	5	punct	_	O
+

@@ -1,0 +1,12 @@
+1	Read	read	VB	pos2=VBD	0	root	_	O
+2	our	our	PRP$	_	3	poss	_	O
+3	statement	statement	NN	_	1	dobj	_	O
+4	on	on	IN	_	3	prep	_	O
+5	Steve	steve	NNP	_	6	compound	_	B-PERSON
+6	Bannon	bannon	NNP	_	8	poss	_	I-PERSON
+7	's	's	POS	_	6	case	_	L-PERSON
+8	appointment	appointment	NN	_	4	pobj	_	O
+9	here	here	RB	_	8	advmod	_	O
+10	:	:	:	_	1	punct	_	O
+11	https://t.co/Cvqwzba5qp	#hlink#	ADD	pos2=NN	1	dep	_	O
+

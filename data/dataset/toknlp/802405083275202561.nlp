@@ -1,0 +1,28 @@
+1	Australia	australia	NNP	_	4	nsubj	_	B-ORG
+2	&	&	CC	_	1	cc	_	I-ORG
+3	Norway	norway	NNP	_	1	conj	_	L-ORG
+4	played	play	VBD	_	0	root	_	O
+5	fast	fast	RB	_	4	advmod	_	O
+6	&	&	CC	_	4	cc	_	O
+7	lose	lose	VB	pos2=NN	4	conj	_	O
+8	w	w	IN	pos2=NNS	4	discourse	_	O
+9	/	/	HYPH	_	8	punct	_	O
+10	taxpayer	taxpayer	NN	_	11	compound	_	O
+11	$$	$$	NN	pos2=NNS	8	pobj	_	O
+12	donated	donate	VBN	pos2=VBD	11	acl	_	O
+13	to	to	IN	_	12	prep	_	O
+14	Clinton	clinton	NNP	_	15	compound	_	B-ORG
+15	Foundation	foundation	NNP	_	13	pobj	_	L-ORG
+16	.	.	.	_	4	punct	_	O
+
+1	👎🏼Pay	👎🏼pay	NN	pos2=NNP	0	root	_	O
+2	2	0	CD	_	5	nmod	_	U-CARDINAL
+3	play	play	NN	pos2=VBP	5	compound	_	O
+4	arms	arm	NNS	pos2=NN	5	compound	_	O
+5	deals	deal	NNS	_	1	dobj	_	O
+6	,	,	,	_	1	punct	_	O
+7	perhaps	perhaps	RB	_	1	advmod	_	O
+8	?	?	.	_	1	punct	_	O
+
+1	https://t.co/nKGC6AWTDq	#hlink#	ADD	_	0	root	_	U-ORG
+

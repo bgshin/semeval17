@@ -1,0 +1,21 @@
+1	It	it	PRP	_	4	nsubjpass	_	O
+2	already	already	RB	_	4	advmod	_	O
+3	WAS	be	VBD	_	4	auxpass	_	O
+4	normalized	normalize	VBN	pos2=JJ	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	See	see	VB	pos2=VBP	0	root	_	O
+2	:	:	:	_	4	punct	_	O
+3	Obamacare	obamacare	NNP	pos2=JJ	4	compound	_	O
+4	MT	mt	NNP	pos2=NN	13	nsubjpass	_	O
+5	@justinamash	@justinamash	IN	pos2=NNP	4	prep	_	O
+6	Business	business	NN	pos2=NNP	8	npadvmod	_	O
+7	-	-	HYPH	_	8	punct	_	O
+8	specific	specific	JJ	_	9	nmod	_	O
+9	meddling	meddling	NN	_	5	pobj	_	O
+10	should	should	MD	_	13	aux	_	O
+11	n't	not	RB	_	13	neg	_	O
+12	be	be	VB	_	13	auxpass	_	O
+13	normalized	normalize	VBN	pos2=JJ	1	ccomp	_	O
+14	.	.	.	_	1	punct	_	O
+

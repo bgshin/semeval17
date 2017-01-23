@@ -1,0 +1,12 @@
+1	#researchpreneur	#researchpreneur	UH	pos2=XX	4	discourse	_	O
+2	#Twitter	#twitter	NNP	pos2=RBR	3	compound	_	B-PERSON
+3	#Futurism	#futurism	NNP	pos2=WP	4	vocative	_	L-PERSON
+4	Are	be	VBP	_	0	root	_	O
+5	we	we	PRP	_	4	nsubj	_	O
+6	alone	alone	RB	pos2=JJ	4	acomp	_	O
+7	?	?	.	_	4	punct	_	O
+
+1	https://t.co/eAkPaFJC6M	#hlink#	ADD	pos2=NN	0	root	_	O
+2	on	on	IN	_	1	prep	_	O
+3	futurism	futurism	NN	_	2	pobj	_	O
+

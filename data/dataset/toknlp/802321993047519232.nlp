@@ -1,0 +1,25 @@
+1	@FoxNewsSydMUN16	@foxnewssydmun0	NN	pos2=PRP$	2	compound	_	O
+2	Time	time	NNP	pos2=NN	3	nsubj	_	U-ORG
+3	is	be	VBZ	_	0	root	_	O
+4	not	not	RB	_	3	neg	_	O
+5	a	a	DT	_	7	det	_	O
+6	human	human	JJ	_	7	nmod	_	O
+7	concept	concept	NN	_	3	attr	_	O
+8	because	because	IN	_	13	mark	_	O
+9	Kim	kim	NNP	_	12	compound	_	B-PERSON
+10	Jong	jong	NNP	_	12	compound	_	I-PERSON
+11	-	-	HYPH	_	12	punct	_	I-PERSON
+12	un	un	NNP	_	13	nsubj	_	L-PERSON
+13	is	be	VBZ	_	3	advcl	_	O
+14	a	a	DT	_	15	det	_	O
+15	God	god	NNP	_	13	attr	_	O
+16	who	who	WP	_	17	nsubj	_	O
+17	is	be	VBZ	_	15	relcl	_	O
+18	immortal	immortal	JJ	_	17	acomp	_	O
+19	thus	thus	RB	pos2=IN	22	advmod	_	O
+20	your	your	PRP$	_	21	poss	_	O
+21	point	point	NN	_	22	nsubj	_	O
+22	is	be	VBZ	_	13	conj	_	O
+23	invalid	invalid	JJ	_	22	acomp	_	O
+24	.	.	.	_	3	punct	_	O
+

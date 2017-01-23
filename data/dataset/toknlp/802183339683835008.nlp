@@ -1,0 +1,20 @@
+1	In	in	IN	_	9	prep	_	O
+2	line	line	NN	_	1	pobj	_	O
+3	with	with	IN	_	2	prep	_	O
+4	other	other	JJ	_	6	nmod	_	O
+5	cabinet	cabinet	NN	_	6	compound	_	O
+6	picks	pick	NNS	pos2=VBZ	3	pobj	_	O
+7	@realDonaldTrump	@realdonaldtrump	NN	pos2=ADD	9	nsubj	_	O
+8	has	have	VBZ	_	9	aux	_	O
+9	picked	pick	VBN	_	0	root	_	O
+10	Madoff	madoff	NNP	_	9	dobj	_	O
+11	for	for	IN	_	9	prep	_	O
+12	Treasury	treasury	NNP	_	11	pobj	_	U-ORG
+13	.	.	.	_	9	punct	_	O
+
+1	#NeverTrump	#nevertrump	ADD	pos2=XX	5	dep	_	B-PERSON
+2	#Democrat	#democrat	NNP	pos2=GW	5	nmod	_	L-PERSON
+3	#UniteBlue	#uniteblue	GW	pos2=ADD	5	nmod	_	O
+4	…	…	NFP	pos2=GW	5	punct	_	O
+5	https://t.co/bnmvrAg3sF	#hlink#	ADD	_	0	root	_	O
+

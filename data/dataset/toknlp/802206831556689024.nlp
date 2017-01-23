@@ -1,0 +1,32 @@
+1	@TuckerCarlson	@tuckercarlson	MD	pos2=TO	2	aux	_	O
+2	love	love	VB	pos2=VBP	8	advcl	_	O
+3	your	your	PRP$	_	5	poss	_	O
+4	new	new	JJ	_	5	nmod	_	O
+5	show	show	NN	_	2	dobj	_	O
+6	,	,	,	_	5	punct	_	O
+7	well	well	RB	pos2=UH	8	advmod	_	O
+8	deserved	deserve	VBN	pos2=JJ	0	root	_	O
+9	.	.	.	_	8	punct	_	O
+
+1	Quick	quick	JJ	pos2=NNP	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+
+1	can	can	MD	_	3	aux	_	O
+2	anyone	anyone	NN	pos2=PRP	3	nsubj	_	O
+3	find	find	VB	_	0	root	_	O
+4	the	the	DT	_	7	det	_	O
+5	popular	popular	JJ	_	7	nmod	_	O
+6	vote	vote	NN	_	7	compound	_	O
+7	button	button	NN	_	3	dobj	_	O
+8	when	when	WRB	_	10	advmod	_	O
+9	they	they	PRP	_	10	nsubj	_	O
+10	vote	vote	VBP	pos2=VBD	3	advcl	_	O
+11	for	for	IN	_	10	prep	_	O
+12	POTUS	potus	NNP	pos2=NN	11	pobj	_	U-ORG
+13	?	?	.	_	3	punct	_	O
+
+1	#TrumpWon	#trumpwon	LS	pos2=NN	0	root	_	U-CARDINAL
+2	.	.	.	_	1	punct	_	O
+
+1	#MAGA	#maga	NN	pos2=ADD	0	root	_	O
+

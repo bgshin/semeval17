@@ -1,0 +1,12 @@
+1	Uh	uh	UH	_	3	discourse	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	left	leave	VBD	pos2=VBP	0	root	_	O
+4	out	out	RP	_	3	prt	_	O
+5	the	the	DT	_	6	det	_	O
+6	TIES	tie	NNS	pos2=NNPS	3	dobj	_	O
+7	TO	to	IN	_	6	prep	_	O
+8	STEVE	steve	NNP	pos2=VB	9	compound	_	O
+9	BANNON	bannon	NNP	pos2=GW	7	pobj	_	O
+10	PART	part	NN	pos2=GW	11	dep	_	O
+11	https://t.co/pLXynqq3Fd	#hlink#	ADD	pos2=NN	3	dep	_	O
+

@@ -1,0 +1,22 @@
+1	@dianepbh	@dianepbh	UH	pos2=XX	4	discourse	_	O
+2	@aft	@aft	UH	pos2=MD	4	discourse	_	O
+3	@nea	@nea	UH	pos2=``	4	discourse	_	O
+4	Let	let	VB	_	0	root	_	O
+5	s	s	PRP	pos2=DT	6	nsubj	_	O
+6	start	start	VB	_	4	ccomp	_	O
+7	local	local	JJ	pos2=RB	8	nmod	_	O
+8	clapouts	clapouts	NNS	pos2=NN	6	dobj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	support	support	VB	_	6	advcl	_	O
+11	#NationalClapOut	#nationalclapout	NN	pos2=ADD	10	dobj	_	O
+12	for	for	IN	_	11	prep	_	O
+13	#obama	#obama	NN	pos2=NNP	12	pobj	_	O
+14	on	on	IN	_	10	prep	_	O
+15	January	january	NNP	_	14	pobj	_	B-DATE
+16	19	0	CD	_	15	nmod	_	L-DATE
+17	.	.	.	_	4	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	3	compound	_	O
+2	@BarackObama	@barackobama	NN	pos2=ADD	3	compound	_	O
+3	#WhiteHouse	#whitehouse	NN	pos2=ADD	0	root	_	O
+

@@ -1,0 +1,12 @@
+1	https://t.co/g6uYFS5enH	#hlink#	ADD	pos2=SYM	11	nmod	_	O
+2	Anker	anker	NNP	pos2=NN	11	dep	_	U-ORG
+3	24W	0w	NN	pos2=POS	11	dep	_	O
+4	Dual	dual	JJ	pos2=NNP	5	nmod	_	O
+5	USB	usb	NN	pos2=NNP	8	compound	_	O
+6	Car	car	NNP	pos2=NN	7	compound	_	B-WORK_OF_ART
+7	Charger	charger	NNP	pos2=NN	8	compound	_	I-WORK_OF_ART
+8	PowerDrive	powerdrive	NNP	pos2=NN	11	dep	_	I-WORK_OF_ART
+9	2	0	CD	pos2=GW	11	dep	_	I-WORK_OF_ART
+10	#NationalFastFoodDay	#nationalfastfoodday	ADD	pos2=NNS	11	dep	_	L-WORK_OF_ART
+11	https://t.co/2TswwkfB97	#hlink#	ADD	_	0	root	_	O
+

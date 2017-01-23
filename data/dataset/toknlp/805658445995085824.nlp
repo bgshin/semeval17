@@ -1,0 +1,13 @@
+1	Fidel	fidel	NNP	_	2	compound	_	B-PERSON
+2	Castro	castro	NNP	_	4	poss	_	I-PERSON
+3	's	's	POS	_	2	case	_	L-PERSON
+4	Legacy	legacy	NNP	_	9	nsubj	_	O
+5	and	and	CC	_	4	cc	_	O
+6	the	the	DT	_	7	det	_	O
+7	Hypocrisy	hypocrisy	NN	pos2=NNP	4	conj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	His	his	PRP$	_	10	poss	_	O
+10	Detractors	detractor	NNS	pos2=NNPS	0	root	_	O
+11	#Castro	#castro	POS	pos2=IN	10	case	_	O
+12	https://t.co/qIyPx5Dgzv	#hlink#	ADD	pos2=NN	8	pobj	_	O
+

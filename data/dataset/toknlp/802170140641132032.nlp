@@ -1,0 +1,25 @@
+1	Our	our	PRP$	_	3	poss	_	O
+2	biggest	big	JJS	_	3	nmod	_	O
+3	sale	sale	NN	_	5	nsubj	_	O
+4	ever	ever	RB	_	3	advmod	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	live	live	JJ	pos2=VB	5	acomp	_	O
+7	now	now	RB	_	5	advmod	_	O
+8	!	!	.	_	5	punct	_	O
+
+1	Free	free	JJ	_	2	nmod	_	O
+2	shipping	shipping	NN	_	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	US	us	NNP	_	3	pobj	_	U-GPE
+6	on	on	IN	_	2	prep	_	O
+7	any	any	DT	_	9	det	_	O
+8	size	size	NN	_	9	compound	_	O
+9	order	order	NN	_	6	pobj	_	O
+10	!	!	.	_	2	punct	_	O
+
+1	#thewalkingdead	#thewalkingdead	UH	pos2=XX	4	discourse	_	O
+2	#disney	#disney	UH	pos2=GW	4	discourse	_	O
+3	…	…	NFP	pos2=-LRB-	4	punct	_	O
+4	https://t.co/rCiycx3DE5	#hlink#	ADD	_	0	root	_	O
+

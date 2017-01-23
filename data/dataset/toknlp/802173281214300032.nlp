@@ -1,0 +1,16 @@
+1	One	#crd#	CD	_	2	nmod	_	U-CARDINAL
+2	Direction	direction	NN	pos2=NNP	6	compound	_	O
+3	Moment	moment	NN	pos2=NNP	6	compound	_	O
+4	Perfume	perfume	NN	pos2=NNP	6	compound	_	O
+5	Ad	ad	NN	pos2=NNP	6	compound	_	O
+6	Poster	poster	NN	pos2=NNP	15	dep	_	O
+7	Niall	niall	NNP	_	8	compound	_	B-PERSON
+8	Horan	horan	NNP	_	15	dep	_	L-PERSON
+9	Harry	harry	NNP	_	10	compound	_	O
+10	Styles	styles	NNP	pos2=NNPS	15	dep	_	O
+11	Liam	liam	NNP	_	13	compound	_	B-PERSON
+12	Payne	payne	NNP	_	13	compound	_	I-PERSON
+13	Louis	louis	NNP	_	15	dep	_	L-PERSON
+14	#onedirection	#onedirection	ADD	pos2=GW	15	dep	_	O
+15	https://t.co/jSIzOBKJMk	#hlink#	ADD	_	0	root	_	O
+

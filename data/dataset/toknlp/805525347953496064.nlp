@@ -1,0 +1,22 @@
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=XX	9	dep	_	O
+2	if	if	IN	_	4	mark	_	O
+3	goal	goal	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	9	advcl	_	O
+5	integrity	integrity	NN	pos2=VBG	4	attr	_	O
+6	then	then	RB	_	9	advmod	_	O
+7	why	why	WRB	_	9	advmod	_	O
+8	not	not	RB	_	9	neg	_	O
+9	cross-reference	cross-reference	VB	pos2=NN	0	root	_	O
+10	voter	voter	NN	_	12	compound	_	O
+11	registration	registration	NN	_	12	compound	_	O
+12	list	list	NN	_	9	dobj	_	O
+13	with	with	IN	_	9	prep	_	O
+14	citizenship	citizenship	NN	_	15	compound	_	O
+15	status	status	NN	_	13	pobj	_	O
+16	while	while	IN	_	18	mark	_	O
+17	they	they	PRP	_	18	nsubj	_	O
+18	're	be	VBP	_	9	advcl	_	O
+19	at	at	IN	_	18	prep	_	O
+20	it	it	PRP	_	19	pobj	_	O
+21	?	?	.	_	9	punct	_	O
+

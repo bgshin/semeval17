@@ -1,0 +1,20 @@
+1	@prettiestthings	@prettiestthings	NNS	pos2=UH	7	nsubj	_	O
+2	"	"	``	_	5	punct	_	O
+3	Alt	alt	NNP	pos2=JJ	5	compound	_	O
+4	-	-	HYPH	_	5	punct	_	O
+5	rightists	rightist	NNS	_	1	appos	_	O
+6	"	"	''	_	5	punct	_	O
+7	are	be	VBP	_	16	ccomp	_	O
+8	notorious	notorious	JJ	_	7	acomp	_	O
+9	for	for	IN	_	8	prep	_	O
+10	their	their	PRP$	_	12	poss	_	O
+11	Asian	asian	JJ	_	12	nmod	_	U-NORP
+12	fetishes	fetish	NNS	_	9	pobj	_	O
+13	,	,	,	_	16	punct	_	O
+14	so	so	RB	pos2=IN	16	advmod	_	O
+15	it	it	PRP	_	16	nsubj	_	O
+16	's	's	VBZ	_	0	root	_	O
+17	honestly	honestly	RB	_	16	advmod	_	O
+18	not	not	RB	_	19	neg	_	O
+19	surprising	surprising	JJ	_	16	acomp	_	O
+

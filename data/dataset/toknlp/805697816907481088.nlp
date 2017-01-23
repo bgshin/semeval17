@@ -1,0 +1,20 @@
+1	#MuhammadAli	#muhammadali	NNS	pos2=DT	3	nsubj	_	O
+2	VERY	very	RB	_	3	advmod	_	O
+3	RARE	rare	JJ	_	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	Muhammad	muhammad	NNP	_	8	compound	_	B-PERSON
+6	Ali	ali	NNP	_	8	compound	_	L-PERSON
+7	AUTOGRAPHED	autographed	NNP	pos2=NN	8	compound	_	O
+8	ORIGNAL	orignal	NNP	pos2=NN	3	parataxis	_	O
+9	,	,	,	_	8	punct	_	O
+10	FIGHT	fight	NN	pos2=NNP	11	compound	_	O
+11	CARD	card	NN	_	8	appos	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	with	with	IN	_	3	prep	_	O
+2	C.O.A.	c.o.a.	NNP	pos2=JJ	4	nmod	_	U-ORG
+3	fantastic	fantastic	JJ	_	4	nmod	_	O
+4	https://t.co/DUbouOeoQM	#hlink#	ADD	pos2=NN	0	root	_	O
+5	#Legend	#legend	-RRB-	pos2=NNP	4	punct	_	O
+6	#Boxer	#boxer	-RRB-	pos2=NN	1	pobj	_	O
+

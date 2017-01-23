@@ -1,0 +1,22 @@
+1	"	"	``	_	6	punct	_	O
+2	Well	well	UH	_	6	discourse	_	O
+3	Zac	zac	NNP	_	4	compound	_	B-PERSON
+4	Efron	efron	NNP	_	6	nsubj	_	L-PERSON
+5	is	be	VBZ	_	6	aux	_	O
+6	gon	gon	VBG	_	0	root	_	O
+7	na	to	TO	_	8	aux	_	O
+8	resize	resize	VB	_	6	xcomp	_	O
+9	all	all	PDT	pos2=DT	11	predet	_	O
+10	your	your	PRP$	_	11	poss	_	O
+11	holes	hole	NNS	_	8	dobj	_	O
+12	.	.	.	_	6	punct	_	O
+13	"	"	''	_	6	punct	_	O
+
+1	@omggjackiee	@omggjackiee	UH	pos2=PRP	6	discourse	_	O
+2	@Trashcollab	@trashcollab	UH	pos2=NNP	6	discourse	_	O
+3	I	I	PRP	_	6	nsubj	_	O
+4	'm	be	VBP	_	6	aux	_	O
+5	still	still	RB	_	6	advmod	_	O
+6	giggling	giggle	VBG	_	0	root	_	O
+7	https://t.co/1RdGywk6F5	#hlink#	ADD	pos2=NN	6	dobj	_	U-ORG
+

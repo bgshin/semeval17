@@ -1,0 +1,18 @@
+1	Secret	secret	JJ	pos2=NNP	2	nmod	_	O
+2	recordings	recording	NNS	_	3	nsubj	_	O
+3	reveal	reveal	VBP	pos2=VB	0	root	_	O
+4	Dublin	dublin	NNP	_	6	compound	_	U-GPE
+5	pregnancy	pregnancy	NN	_	6	compound	_	O
+6	centre	centre	NN	_	3	dobj	_	O
+7	advising	advise	VBG	_	3	advcl	_	O
+8	women	woman	NNS	_	7	dobj	_	O
+9	that	that	WDT	pos2=DT	11	dobj	_	O
+10	abortion	abortion	NN	_	11	nsubj	_	O
+11	leads	lead	VBZ	pos2=NNS	7	ccomp	_	O
+12	to	to	IN	_	11	prep	_	O
+13	#breastcancer	#breastcancer	PRP	pos2=VB	12	pobj	_	O
+14	.	.	.	_	3	punct	_	O
+
+1	#repealthe8th	#repealthe0th	-LRB-	pos2=NN	2	punct	_	O
+2	https://t.co/PkYGVEitLY	#hlink#	ADD	pos2=NN	0	root	_	O
+

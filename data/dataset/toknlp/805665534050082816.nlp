@@ -1,0 +1,19 @@
+1	Oh	oh	UH	_	5	discourse	_	O
+2	the	the	DT	_	4	det	_	O
+3	Westworld	westworld	NNP	_	4	compound	_	O
+4	finale	finale	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	a	a	DT	_	9	det	_	O
+7	feature	feature	NN	_	9	compound	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	length	length	NN	_	14	nsubj	_	O
+10	film?Cool.**pours	film?cool.**pours	NNPS	pos2=NNS	12	nmod	_	U-ORG
+11	tall	tall	JJ	_	12	nmod	_	O
+12	whiskey	whiskey	NN	_	9	appos	_	O
+13	,	,	,	_	5	punct	_	O
+14	puts	put	VBZ	pos2=NNS	5	dep	_	O
+15	on	on	IN	pos2=RP	14	prep	_	O
+16	seat	seat	NN	_	17	compound	_	O
+17	belt	belt	NN	_	15	pobj	_	O
+18	**	**	SYM	pos2=-RRB-	9	punct	_	O
+

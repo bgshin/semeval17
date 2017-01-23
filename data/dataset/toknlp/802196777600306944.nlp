@@ -1,0 +1,9 @@
+1	its	its	PRP$	_	3	poss	_	O
+2	always	always	RB	pos2=JJ	3	advmod	_	O
+3	valentines	valentine	NNS	pos2=VBZ	8	nsubj	_	O
+4	with	with	IN	_	3	prep	_	O
+5	this	this	DT	_	6	det	_	O
+6	one	#crd#	NN	pos2=CD	4	pobj	_	O
+7	#BabySelcaDay	#babyselcaday	GW	pos2=NN	8	nmod	_	U-NORP
+8	https://t.co/fi9wyn1TBZ	#hlink#	ADD	pos2=NN	0	root	_	O
+

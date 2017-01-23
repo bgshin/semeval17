@@ -1,0 +1,18 @@
+1	Dallas	dallas	NNP	_	4	compound	_	O
+2	Cowboys	cowboy	NNPS	pos2=NNP	4	compound	_	O
+3	Trade	trade	NNP	_	4	compound	_	O
+4	Rumors	rumor	NNS	pos2=NNPS	9	dep	_	O
+5	:	:	:	_	9	punct	_	O
+6	Tony	tony	NNP	_	7	compound	_	B-PERSON
+7	Romo	romo	NNP	_	9	nsubj	_	L-PERSON
+8	Would	would	MD	pos2=NNP	9	aux	_	O
+9	Do	do	VB	_	0	root	_	O
+10	Well	well	RB	pos2=UH	9	advmod	_	O
+11	in	in	IN	_	9	prep	_	O
+12	These	these	DT	_	13	det	_	O
+13	Teams	team	NNS	pos2=NNPS	11	pobj	_	O
+14	https://t.co/N5X6SexaKZ	#hlink#	ADD	pos2=VBP	17	nmod	_	O
+15	#dallas_cowboys	#dallas_cowboys	NNS	pos2=-RRB-	17	nmod	_	O
+16	…	…	NFP	pos2=-LRB-	17	punct	_	O
+17	https://t.co/nZ15cgMFsb	#hlink#	ADD	_	9	dep	_	O
+

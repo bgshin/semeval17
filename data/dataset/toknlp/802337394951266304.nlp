@@ -1,0 +1,22 @@
+1	#Spurs	#spurs	NNS	pos2=VBZ	0	root	_	O
+2	#GoSpursGo	#gospursgo	IN	pos2=POS	1	prep	_	O
+3	TIM	tim	NNP	pos2=NN	4	compound	_	B-PRODUCT
+4	DUNCAN	duncan	NNP	_	2	pobj	_	I-PRODUCT
+5	2009	0	CD	_	7	qmod	_	I-PRODUCT
+6	-	-	SYM	pos2=HYPH	7	punct	_	I-PRODUCT
+7	10	0	CD	_	8	nmod	_	L-PRODUCT
+8	PANINI	panini	NN	pos2=NNP	16	nsubj	_	O
+9	CERTIFIED	certify	VBN	pos2=JJ	10	nmod	_	O
+10	MIRROR	mirror	NN	pos2=NNP	11	nsubj	_	O
+11	BLUE	blue	JJ	pos2=NN	12	nmod	_	O
+12	#	#	NN	_	8	appos	_	O
+13	25	0	CD	pos2=LS	12	nmod	_	B-ORG
+14	1/100	0	CD	pos2=IN	15	nmod	_	I-ORG
+15	FIRST	#ord#	RB	pos2=JJ	16	advmod	_	I-ORG
+16	ONE	#crd#	CD	pos2=NN	4	appos	_	L-ORG
+17	!!!	!!	.	_	1	punct	_	O
+
+1	https://t.co/mH5IK1RzZa	#hlink#	ADD	_	0	root	_	U-ORG
+2	#TimDuncan	#timduncan	ADD	pos2=-RRB-	0	root	_	U-ORG
+3	#NBA	#nba	NN	pos2=ADD	2	pobj	_	O
+

@@ -1,0 +1,22 @@
+1	This	this	DT	_	2	det	_	O
+2	machine	machine	NN	_	4	nmod	_	O
+3	*	*	SYM	pos2=NFP	2	punct	_	O
+4	gestures	gesture	NNS	_	8	nsubj	_	O
+5	to	to	IN	pos2=TO	4	prep	_	O
+6	laptop	laptop	NN	pos2=VB	5	pobj	_	O
+7	-*	-*	HYPH	pos2=NFP	8	punct	_	O
+8	shames	shame	VBZ	pos2=NNP	0	root	_	O
+9	Alt	alt	NNP	pos2=JJ	11	compound	_	O
+10	-	-	HYPH	_	11	punct	_	O
+11	Rightists	rightist	NNPS	pos2=NNS	6	appos	_	U-NORP
+12	*	*	SYM	pos2=NFP	11	punct	_	O
+13	.	.	.	_	8	punct	_	O
+
+1	*	*	SYM	_	2	punct	_	O
+2	rephrased	rephrase	VBN	pos2=VBD	0	root	_	O
+3	because	because	IN	_	6	mark	_	O
+4	no	no	DT	pos2=UH	7	det	_	O
+5	more	more	RBR	pos2=JJR	6	advmod	_	O
+6	freaking	freaking	JJ	pos2=VBG	7	nmod	_	O
+7	killing	killing	NN	pos2=VBG	2	dobj	_	O
+

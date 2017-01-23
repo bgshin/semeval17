@@ -1,0 +1,8 @@
+1	@TheMovieChick06	@themoviechick0	NN	pos2=VBZ	7	dep	_	U-PERSON
+2	how	how	WRB	_	3	advmod	_	O
+3	cute	cute	JJ	_	4	acomp	_	O
+4	is	be	VBZ	_	7	nmod	_	O
+5	this?#thewalkingdead	this?#thewalkingdead	GW	pos2=NFP	7	nmod	_	O
+6	https://t.co/aQInYK66HB#iFunny	#hlink#	ADD	_	7	nmod	_	O
+7	https://t.co/2dKPuVUAFv	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,20 @@
+1	@Hiatus2017	@hiatus0	NN	pos2=NNP	16	nsubj	_	O
+2	Could	could	MD	_	16	aux	_	O
+3	CA	ca	NNP	pos2=EX	9	poss	_	O
+4	’s	's	POS	pos2=VB	3	case	_	O
+5	illegal	illegal	JJ	_	9	nmod	_	O
+6	voter	voter	NN	_	9	compound	_	O
+7	registration	registration	NN	_	8	compound	_	O
+8	drive	drive	NN	pos2=VB	9	compound	_	O
+9	torpedo	torpedo	NN	_	14	poss	_	O
+10	Hillary	hillary	NNP	_	9	appos	_	U-PERSON
+11	’s	's	POS	pos2=VBZ	9	case	_	O
+12	carefully	carefully	RB	_	13	advmod	_	O
+13	laid	lay	VBN	_	14	nmod	_	O
+14	plans	plan	NNS	pos2=VBZ	16	nmod	_	O
+15	4	0	CD	_	16	nmod	_	U-CARDINAL
+16	victory	victory	NN	_	0	root	_	O
+17	?	?	.	_	16	punct	_	O
+
+1	https://t.co/RrDjYEtUz7	#hlink#	ADD	_	0	root	_	U-ORG
+

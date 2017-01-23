@@ -1,0 +1,27 @@
+1	@ShxdyG	@shxdyg	NNP	pos2=VBG	2	compound	_	B-ORG
+2	Gasland	gasland	NNP	_	0	root	_	L-ORG
+3	.	.	.	_	2	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	on	on	IN	_	2	prep	_	O
+4	oil	oil	NN	_	5	compound	_	O
+5	fracking	fracking	NN	_	3	pobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	Homeowners	homeowner	NNS	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	able	able	JJ	_	2	acomp	_	O
+4	to	to	TO	_	5	aux	_	O
+5	set	set	VB	_	3	xcomp	_	O
+6	their	their	PRP$	_	8	poss	_	O
+7	faucet	faucet	NN	_	8	compound	_	O
+8	water	water	NN	_	5	dobj	_	O
+9	on	on	IN	_	5	prep	_	O
+10	fire	fire	NN	_	9	pobj	_	O
+11	because	because	IN	_	13	mark	_	O
+12	it	it	PRP	_	13	nsubj	_	O
+13	's	's	VBZ	_	5	advcl	_	O
+14	so	so	RB	_	15	advmod	_	O
+15	contaminated	contaminated	JJ	pos2=VBN	13	acomp	_	O
+

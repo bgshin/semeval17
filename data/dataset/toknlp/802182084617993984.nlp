@@ -1,0 +1,21 @@
+1	Donald	donald	NNP	_	2	compound	_	B-PERSON
+2	Trump	trump	NNP	_	4	nsubj	_	L-PERSON
+3	Could	could	MD	pos2=NNP	4	aux	_	O
+4	Win	win	VB	pos2=NNP	14	ccomp	_	O
+5	40	0	CD	_	6	nmod	_	B-PERCENT
+6	Percent	percent	NN	pos2=NNP	4	dobj	_	L-PERCENT
+7	of	of	IN	_	6	prep	_	O
+8	Minorities	minority	NNS	pos2=NNPS	10	poss	_	O
+9	'	'	POS	_	8	case	_	O
+10	Vote	vote	NN	pos2=NNP	7	pobj	_	O
+11	in	in	IN	_	4	prep	_	O
+12	2020	0	CD	_	11	pobj	_	U-DATE
+13	,	,	,	_	14	punct	_	O
+14	Says	say	VBZ	_	0	root	_	O
+15	Steve	steve	NNP	_	18	compound	_	B-PERSON
+16	Bannon	bannon	NNP	_	18	compound	_	I-PERSON
+17	-	-	HYPH	pos2=GW	18	punct	_	I-PERSON
+18	Breit	breit	NNP	_	14	nsubj	_	L-PERSON
+19	barthttps://t.co/e4mYyJn2HO	#hlink#	ADD	_	20	nmod	_	O
+20	https://t.co/ivWC1hZjut	#hlink#	ADD	_	18	appos	_	U-ORG
+

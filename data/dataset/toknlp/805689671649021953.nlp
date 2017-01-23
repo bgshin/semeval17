@@ -1,0 +1,25 @@
+1	@FoxNews	@foxnews	PRP$	pos2=IN	3	poss	_	O
+2	death	death	NN	_	3	compound	_	O
+3	penalty	penalty	NN	_	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+
+1	No	no	UH	pos2=DT	3	discourse	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	put	put	VB	pos2=VBD	0	root	_	O
+4	him	him	PRP	_	3	dobj	_	O
+5	behind	behind	IN	_	3	prep	_	O
+6	bars	bar	NNS	_	5	pobj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	life	life	NN	_	7	pobj	_	O
+9	in	in	IN	_	3	prep	_	O
+10	general	general	JJ	_	11	nmod	_	O
+11	population	population	NN	_	9	pobj	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	Death	death	NN	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	an	an	DT	_	5	det	_	O
+4	easy	easy	JJ	_	5	nmod	_	O
+5	way	way	NN	_	2	attr	_	O
+6	out	out	RB	pos2=RP	5	advmod	_	O
+

@@ -1,0 +1,14 @@
+1	Are	be	VBP	_	0	root	_	O
+2	number	number	NN	_	9	nmod	_	O
+3	one	#crd#	CD	_	2	nmod	_	U-CARDINAL
+4	noological	noological	JJ	pos2=NN	7	nmod	_	O
+5	round	round	JJ	pos2=NN	7	nmod	_	O
+6	purchase	purchase	NN	_	7	compound	_	O
+7	form	form	NN	pos2=IN	2	appos	_	O
+8	social	social	JJ	_	9	nmod	_	O
+9	security	security	NN	_	1	attr	_	O
+10	?	?	.	_	1	punct	_	O
+
+1	:	:	:	pos2=SYM	2	punct	_	O
+2	XbVtGiS	xbvtgis	NN	pos2=NNP	0	root	_	O
+

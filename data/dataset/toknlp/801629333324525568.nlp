@@ -1,0 +1,22 @@
+1	While	while	IN	_	3	mark	_	O
+2	@TymoshenkoUA	@tymoshenkoua	NNP	pos2=PRP	3	nsubj	_	U-ORG
+3	orchestrates	orchestrate	VBZ	_	7	advcl	_	O
+4	them	them	PRP	_	3	dobj	_	O
+5	,	,	,	_	7	punct	_	O
+6	#Saakashvili	#saakashvili	NNP	pos2=PRP	7	nsubj	_	U-PERSON
+7	says	say	VBZ	_	0	root	_	O
+8	large	large	JJ	_	10	nmod	_	O
+9	-	-	HYPH	_	10	punct	_	O
+10	scale	scale	NN	_	11	compound	_	O
+11	protests	protest	NNS	_	12	nsubj	_	O
+12	are	be	VBP	_	7	ccomp	_	O
+13	a	a	DT	_	14	det	_	O
+14	scenario	scenario	NN	_	12	attr	_	O
+15	that	that	WDT	_	17	nsubj	_	O
+16	could	could	MD	_	17	aux	_	O
+17	lead	lead	VB	_	14	relcl	_	O
+18	to	to	IN	_	17	prep	_	O
+19	sna	sna	NN	pos2=GW	18	pobj	_	O
+20	…	…	NFP	pos2=-LRB-	21	punct	_	O
+21	https://t.co/YytTRmslzR	#hlink#	ADD	_	12	dep	_	O
+

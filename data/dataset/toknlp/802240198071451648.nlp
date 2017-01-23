@@ -1,0 +1,18 @@
+1	“	"	``	pos2=SYM	7	punct	_	O
+2	Self	self	NN	pos2=NNP	4	npadvmod	_	O
+3	-	-	HYPH	_	4	punct	_	O
+4	Driving	drive	VBG	pos2=NNP	5	nmod	_	O
+5	Cars	car	NNS	pos2=NNPS	7	nsubj	_	O
+6	are	be	VBP	_	7	aux	_	O
+7	Hurtling	hurtle	VBG	pos2=NNP	0	root	_	O
+8	Towards	towards	IN	_	7	prep	_	O
+9	an	an	DT	_	12	det	_	O
+10	AI	ai	NNP	pos2=``	12	compound	_	B-ORG
+11	Brick	brick	NNP	_	12	compound	_	I-ORG
+12	Wall	wall	NNP	_	8	pobj	_	I-ORG
+13	”	"	''	_	7	punct	_	L-ORG
+14	by	by	IN	_	7	prep	_	O
+15	@SeanMEverett	@seanmeverett	GW	pos2=NNP	14	pobj	_	B-DATE
+16	https://t.co/uYl8YFtppZ	#hlink#	ADD	pos2=GW	17	nmod	_	I-DATE
+17	https://t.co/y0BWhunSMu	#hlink#	ADD	_	14	pobj	_	L-DATE
+

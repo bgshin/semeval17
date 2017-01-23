@@ -1,0 +1,16 @@
+1	Watching	watch	VBG	_	9	csubj	_	O
+2	Chanel	chanel	NNP	pos2=NN	3	nsubj	_	U-ORG
+3	taunt	taunt	VB	pos2=NN	1	ccomp	_	O
+4	desperate	desperate	JJ	_	5	nmod	_	O
+5	masses	mass	NNS	_	3	dobj	_	O
+6	on	on	IN	_	3	prep	_	O
+7	Black	black	NNP	_	8	compound	_	B-EVENT
+8	Friday	friday	NNP	_	6	pobj	_	L-EVENT
+9	is	be	VBZ	_	0	root	_	O
+10	the	the	DT	_	12	det	_	O
+11	funniest	funny	JJS	_	12	nmod	_	O
+12	thing	thing	NN	_	9	attr	_	O
+13	in	in	IN	_	12	prep	_	O
+14	life	life	NN	_	13	pobj	_	O
+15	#ScreamQueens	#screamqueens	NNS	pos2=ADD	12	nmod	_	U-GPE
+

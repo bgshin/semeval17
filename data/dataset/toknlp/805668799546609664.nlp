@@ -1,0 +1,43 @@
+1	Cubs	cub	NNS	pos2=NNPS	5	dep	_	U-ORG
+2	-	-	:	pos2=,	5	punct	_	O
+3	"	"	``	_	5	punct	_	O
+4	We	we	PRP	_	5	nsubj	_	O
+5	want	want	VBP	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	win	win	VB	_	5	xcomp	_	O
+8	the	the	DT	_	10	det	_	B-EVENT
+9	World	world	NNP	_	10	compound	_	I-EVENT
+10	Series	series	NNP	_	7	dobj	_	L-EVENT
+11	in	in	IN	_	7	prep	_	O
+12	2016	0	CD	_	11	pobj	_	U-DATE
+13	.	.	.	_	5	punct	_	O
+14	"	"	''	_	5	punct	_	O
+
+1	Devil	devil	NNP	pos2=NN	9	nsubj	_	O
+2	-	-	HYPH	pos2=:	9	punct	_	O
+3	"	"	``	_	9	punct	_	O
+4	OK	ok	UH	pos2=JJ	9	discourse	_	O
+5	,	,	,	_	9	punct	_	O
+6	but	but	CC	_	9	cc	_	O
+7	it	it	PRP	_	9	nsubj	_	O
+8	's	's	VBZ	_	9	aux	_	O
+9	gon	gon	VBG	pos2=JJ	0	root	_	O
+10	na	to	TO	_	11	aux	_	O
+11	cost	cost	VB	_	9	xcomp	_	O
+12	you	you	PRP	_	11	dobj	_	O
+13	.	.	.	_	9	punct	_	O
+14	"	"	''	_	9	punct	_	O
+
+1	Cubs	cub	NNS	pos2=NNPS	10	attr	_	U-ORG
+2	-	-	:	pos2=,	10	punct	_	O
+3	"	"	``	pos2=''	10	punct	_	O
+4	pfft	pfft	UH	pos2=RB	10	discourse	_	O
+5	,	,	,	_	10	punct	_	O
+6	how	how	WRB	_	7	advmod	_	O
+7	bad	bad	JJ	_	10	acomp	_	O
+8	could	could	MD	_	10	aux	_	O
+9	it	it	PRP	_	10	nsubj	_	O
+10	be	be	VB	_	0	root	_	O
+11	?	?	.	_	10	punct	_	O
+12	"	"	''	_	10	punct	_	O
+

@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det	_	O
+2	DAPL	dapl	NNP	_	3	compound	_	U-ORG
+3	Victory	victory	NN	pos2=NNP	4	nsubj	_	O
+4	Shows	show	VBZ	pos2=NNP	0	root	_	O
+5	You	you	PRP	_	6	nsubj	_	O
+6	Need	need	VBP	_	4	ccomp	_	O
+7	To	to	TO	_	8	aux	_	O
+8	Be	be	VB	_	6	xcomp	_	O
+9	An	an	DT	_	10	det	_	O
+10	Activist	activist	NN	pos2=NNP	8	attr	_	O
+11	In	in	IN	_	10	prep	_	O
+12	2017	0	CD	_	11	pobj	_	B-DATE
+13	…	…	NFP	pos2=NNS	14	punct	_	L-DATE
+14	https://t.co/pyPcBSXdcq	#hlink#	ADD	_	16	nsubj	_	O
+15	#donaldtrump	#donaldtrump	-RRB-	pos2=IN	14	punct	_	O
+16	#Fracking	#fracking	VBG	pos2=-RRB-	12	qmod	_	O
+17	#NoDAPL	#nodapl	ADD	pos2=NNS	16	dobj	_	O
+

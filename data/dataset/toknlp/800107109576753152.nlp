@@ -1,0 +1,24 @@
+1	Bunch	bunch	NN	pos2=NNP	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	propagandists	propagandist	NNS	_	2	pobj	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	Nazis	nazi	NNS	pos2=NNPS	4	nsubj	_	U-NORP
+2	yesterday	yesterday	NN	_	1	npadvmod	_	U-DATE
+3	,	,	,	_	1	punct	_	O
+4	Nazis	nazi	NNPS	pos2=NNP	0	root	_	U-NORP
+5	today	today	NN	_	4	npadvmod	_	U-DATE
+6	.	.	.	_	1	punct	_	O
+
+1	Russian	russian	JJ	_	2	nmod	_	U-NORP
+2	Goulag	goulag	NNP	pos2=NN	7	dep	_	U-PERSON
+3	:	:	:	_	5	punct	_	O
+4	Nothing	nothing	NN	pos2=JJ	0	root	_	O
+5	new	new	JJ	_	4	nmod	_	O
+6	in	in	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	East	east	NNP	_	6	pobj	_	U-LOC
+9	.	.	.	_	2	punct	_	O
+
+1	https://t.co/ntkb7tyHvo	#hlink#	ADD	_	0	root	_	U-ORG
+

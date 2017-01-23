@@ -1,0 +1,13 @@
+1	@ScreamQueens	@screamqueens	NNS	pos2=ADD	2	compound	_	O
+2	@JohnStamos	@johnstamos	NNS	pos2=NN	6	dep	_	O
+3	:	:	:	_	6	punct	_	O
+4	Happy	happy	JJ	pos2=NNP	6	nmod	_	O
+5	Thanksgiving	thanksgiving	NNP	_	6	compound	_	B-DATE
+6	Day	day	NNP	pos2=NN	0	root	_	L-DATE
+7	!!	!!	.	_	6	punct	_	O
+
+1	#ScreamQueens	#screamqueens	VBZ	pos2=NNS	0	root	_	O
+2	SUCCESSES	success	NNS	pos2=NNPS	1	dobj	_	O
+3	always	always	RB	_	1	advmod	_	O
+4	!!	!!	.	_	1	punct	_	O
+

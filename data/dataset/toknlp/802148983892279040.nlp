@@ -1,0 +1,10 @@
+1	#Hear	#hear	NNP	pos2=XX	4	compound	_	O
+2	Ricky	ricky	NNP	_	4	compound	_	B-PERSON
+3	Martin	martin	NNP	_	4	compound	_	I-PERSON
+4	Vida	vida	NNP	_	9	dep	_	L-PERSON
+5	at	at	IN	_	4	prep	_	O
+6	https://t.co/uvmMc76EuL	#hlink#	ADD	_	5	pobj	_	O
+7	#Latin	#latin	NNP	pos2=XX	5	pobj	_	O
+8	#LatinPop	#latinpop	ADD	pos2=XX	0	root	_	O
+9	#LatinDance	#latindance	ADD	pos2=NN	8	pobj	_	O
+

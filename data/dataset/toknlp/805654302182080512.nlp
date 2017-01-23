@@ -1,0 +1,14 @@
+1	USA	usa	NNP	pos2=NN	2	compound	_	U-GPE
+2	election	election	NN	_	10	nsubj	_	O
+3	rigged	rig	VBN	pos2=VBD	2	acl	_	O
+4	against	against	IN	_	3	prep	_	O
+5	HRCRussian	hrcrussian	NNP	pos2=JJ	6	compound	_	B-GPE
+6	hacking&interferenceVoter	hacking&interferencevoter	NNP	pos2=NN	7	compound	_	L-GPE
+7	suppression	suppression	NN	_	9	compound	_	O
+8	Corrupt	corrupt	NNP	pos2=JJ	9	compound	_	O
+9	FBIWikiLeaks	fbiwikileaks	NNP	pos2=NNPS	4	pobj	_	O
+10	lies	lie	VBZ	_	0	root	_	O
+11	Gerryma	gerryma	NNP	pos2=GW	13	nmod	_	B-PERSON
+12	…	…	NFP	pos2=-LRB-	13	punct	_	L-PERSON
+13	https://t.co/9SCvY4jDvx	#hlink#	ADD	_	10	dep	_	O
+

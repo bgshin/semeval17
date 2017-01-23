@@ -1,0 +1,6 @@
+1	And	and	CC	_	5	cc	_	O
+2	soon	soon	RB	pos2=IN	5	advmod	_	O
+3	Social	social	NNP	_	4	compound	_	B-ORG
+4	Security	security	NNP	_	5	nmod	_	L-ORG
+5	https://t.co/ea7w1sqiz7	#hlink#	ADD	pos2=NNP	0	root	_	O
+

@@ -1,0 +1,16 @@
+1	@struggle_sesh	@struggle_sesh	UH	pos2=NFP	5	discourse	_	O
+2	you	you	PRP	_	5	nsubjpass	_	O
+3	'd	would	MD	_	5	aux	_	O
+4	be	be	VB	_	5	auxpass	_	O
+5	suprised	suprised	VBN	_	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	Leftists	leftist	NNS	pos2=NNPS	5	nsubj	_	U-NORP
+2	do	do	VBP	_	5	aux	_	O
+3	n't	not	RB	_	5	neg	_	O
+4	really	really	RB	_	5	advmod	_	O
+5	care	care	VB	_	0	root	_	O
+6	about	about	IN	_	5	prep	_	O
+7	reality	reality	NN	_	6	pobj	_	O
+8	.	.	.	_	5	punct	_	O
+

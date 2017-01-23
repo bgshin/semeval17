@@ -1,0 +1,23 @@
+1	@Comms153	@comms0	NN	pos2=``	3	nmod	_	U-CARDINAL
+2	Great	great	JJ	_	3	nmod	_	O
+3	use	use	NN	_	0	root	_	O
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	video	video	NN	_	4	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Melania	melania	NNP	_	9	compound	_	B-PERSON
+9	Trump	trump	NNP	_	7	pobj	_	L-PERSON
+10	plagiarising	plagiarise	VBG	_	3	acl	_	O
+11	Michelle	michelle	NNP	_	12	compound	_	B-PERSON
+12	Obama	obama	NNP	_	14	poss	_	I-PERSON
+13	's	's	POS	_	12	case	_	L-PERSON
+14	speech	speech	NN	_	10	dobj	_	O
+15	,	,	,	_	14	punct	_	O
+16	a	a	DT	_	21	det	_	O
+17	very	very	RB	_	18	advmod	_	O
+18	funny	funny	JJ	_	21	nmod	_	O
+19	and	and	CC	_	18	cc	_	O
+20	relevant	relevant	JJ	_	18	conj	_	O
+21	example	example	NN	_	14	conj	_	O
+22	!	!	.	_	3	punct	_	O
+

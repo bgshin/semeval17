@@ -1,0 +1,20 @@
+1	@megynkelly	@megynkelly	VB	pos2=RB	0	root	_	O
+2	how	how	WRB	_	6	nmod	_	O
+3	and	and	CC	_	2	cc	_	O
+4	why	why	WRB	_	2	conj	_	O
+5	hateful	hateful	JJ	_	6	nmod	_	O
+6	messages	message	NNS	_	9	dobj	_	O
+7	to	to	IN	_	6	prep	_	O
+8	her	her	PRP	pos2=VB	7	pobj	_	O
+9	anyway	anyway	RB	pos2=UH	1	advmod	_	O
+10	.	.	.	_	1	punct	_	O
+
+1	A	a	DT	_	7	det	_	O
+2	very	very	RB	_	3	advmod	_	O
+3	bright	bright	JJ	_	7	nmod	_	O
+4	,	,	,	_	7	punct	_	O
+5	compassionate	compassionate	JJ	_	7	nmod	_	O
+6	high	high	JJ	_	7	nmod	_	O
+7	achiever	achiever	NN	_	0	root	_	O
+8	?	?	.	_	7	punct	_	O
+

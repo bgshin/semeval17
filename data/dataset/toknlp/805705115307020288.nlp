@@ -1,0 +1,19 @@
+1	7	0	CD	pos2=LS	10	npadvmod	_	U-CARDINAL
+2	+	+	SYM	_	1	punct	_	O
+3	TOP	top	JJ	pos2=NN	4	nmod	_	O
+4	YouTube	youtube	NNP	_	8	nmod	_	U-ORG
+5	#VideoMarketing	#videomarketing	VBG	pos2=GW	8	nmod	_	O
+6	Stats	stat	NNS	pos2=NNPS	5	dobj	_	O
+7	https://t.co/lvPuEFrvUc	#hlink#	ADD	pos2=NNP	8	nmod	_	O
+8	Markets	market	NNS	pos2=NNP	10	nsubj	_	O
+9	have	have	VBP	_	10	aux	_	O
+10	learned	learn	VBN	_	0	root	_	O
+11	their	their	PRP$	_	12	poss	_	O
+12	lessons	lesson	NNS	_	10	dobj	_	O
+13	from	from	IN	_	12	prep	_	O
+14	Brexit	brexit	NNP	pos2=NN	13	pobj	_	U-GPE
+15	and	and	CC	_	14	cc	_	O
+16	T	t	NNP	pos2=GW	14	conj	_	O
+17	…	…	NFP	pos2=-LRB-	10	punct	_	O
+18	https://t.co/3wqaEkbrHN	#hlink#	ADD	_	10	dep	_	O
+

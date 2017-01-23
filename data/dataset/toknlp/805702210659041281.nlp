@@ -1,0 +1,25 @@
+1	So	so	RB	pos2=IN	7	advmod	_	O
+2	that	that	IN	pos2=DT	7	mark	_	O
+3	Westworld	westworld	NNP	_	4	compound	_	U-ORG
+4	show	show	NN	pos2=VBP	7	dep	_	O
+5	,	,	,	_	7	punct	_	O
+6	it	it	PRP	_	7	nsubj	_	O
+7	is	be	VBZ	_	0	root	_	O
+8	n't	not	RB	_	7	neg	_	O
+9	too	too	RB	_	10	advmod	_	O
+10	bad	bad	JJ	_	7	acomp	_	O
+11	.	.	.	_	7	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	guess	guess	VBP	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	If	if	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	like	like	VBP	pos2=IN	0	root	_	O
+4	that	that	DT	_	5	det	_	O
+5	sort	sort	NN	_	3	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	thing	thing	NN	_	6	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+

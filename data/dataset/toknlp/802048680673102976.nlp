@@ -1,0 +1,17 @@
+1	#UN	#un	NN	pos2=ADD	2	compound	_	O
+2	#UnitedNations	#unitednations	NNS	pos2=NN	4	dep	_	O
+3	:	:	:	_	4	punct	_	O
+4	Security	security	NN	pos2=NNP	9	nsubjpass	_	O
+5	en	en	FW	pos2=IN	6	nmod	_	O
+6	#Mexico	#mexico	NNP	pos2=WP	9	nsubjpass	_	O
+7	Must	must	MD	_	9	aux	_	O
+8	be	be	VB	_	9	auxpass	_	O
+9	Handled	handle	VBN	_	0	root	_	O
+10	by	by	IN	_	9	agent	_	O
+11	Civilians	civilian	NNPS	pos2=NNS	10	pobj	_	U-NORP
+12	,	,	,	_	16	punct	_	O
+13	not	not	RB	_	16	neg	_	O
+14	the	the	DT	_	15	det	_	O
+15	Army	army	NNP	pos2=NN	16	nmod	_	U-ORG
+16	https://t.co/5VuA1s5jg0	#hlink#	ADD	_	9	dep	_	O
+

@@ -1,0 +1,19 @@
+1	#MuhammadAli	#muhammadali	NNP	pos2=XX	5	compound	_	O
+2	Muhammad	muhammad	NNP	_	5	compound	_	B-PERSON
+3	Ali	ali	NNP	_	5	compound	_	I-PERSON
+4	Leon	leon	NNP	_	5	compound	_	I-PERSON
+5	Spinks	spinks	NNP	_	0	root	_	L-PERSON
+6	On	on	IN	pos2=NNP	5	prep	_	O
+7	Site	site	NNP	_	10	compound	_	B-ORG
+8	Boxing	boxing	NNP	_	10	compound	_	I-ORG
+9	Press	press	NNP	_	10	compound	_	L-ORG
+10	Brochure	brochure	NNP	pos2=NN	6	pobj	_	O
+11	September	september	NNP	_	10	npadvmod	_	B-DATE
+12	15	0	CD	_	11	nmod	_	L-DATE
+13	.	.	.	_	5	punct	_	O
+
+1	1978	0	CD	pos2=LS	2	dep	_	O
+2	https://t.co/CeWTnS6lqv	#hlink#	ADD	_	0	root	_	O
+3	#Legend	#legend	-RRB-	pos2=ADD	2	punct	_	O
+4	#Boxer	#boxer	NN	pos2=-RRB-	2	npadvmod	_	O
+

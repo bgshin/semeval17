@@ -1,0 +1,11 @@
+1	@Artfull01	@artfull0	NN	pos2=CD	0	root	_	O
+2	women	woman	NNS	_	4	poss	_	O
+3	's	's	POS	_	2	case	_	O
+4	right	right	NN	pos2=JJ	1	dobj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	choose	choose	VB	_	4	acl	_	O
+7	,	,	,	_	10	punct	_	O
+8	opposing	oppose	VBG	_	4	acl	_	O
+9	gay	gay	JJ	_	10	nmod	_	O
+10	marriage	marriage	NN	_	8	dobj	_	O
+

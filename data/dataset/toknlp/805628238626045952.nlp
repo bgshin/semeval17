@@ -1,0 +1,17 @@
+1	@Sidler28	@sidler0	NN	pos2=NNS	3	dep	_	O
+2	@TSBible	@tsbible	JJ	pos2=XX	3	nmod	_	O
+3	PS	ps	NN	pos2=FW	9	dep	_	O
+4	:	:	:	_	3	punct	_	O
+5	'	'	``	pos2=''	3	punct	_	O
+6	meeting	meeting	NN	pos2=VBG	9	nsubj	_	O
+7	'	'	''	_	6	punct	_	O
+8	has	have	VBZ	_	9	aux	_	O
+9	become	become	VBN	_	0	root	_	O
+10	'	'	``	pos2=''	11	punct	_	O
+11	neeting	neeting	VBG	pos2=JJ	9	attr	_	O
+12	'	'	''	_	11	punct	_	O
+13	in	in	IN	_	11	prep	_	O
+14	this	this	DT	_	15	det	_	O
+15	article	article	NN	_	13	pobj	_	O
+16	https://t.co/N4r3kyzA8i	#hlink#	ADD	_	9	dep	_	O
+

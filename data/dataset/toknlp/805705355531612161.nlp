@@ -1,0 +1,25 @@
+1	In	in	IN	_	12	prep	_	O
+2	the	the	DT	_	3	det	_	O
+3	light	light	NN	_	1	pobj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	Brexit	brexit	NNP	_	4	pobj	_	U-GPE
+6	and	and	CC	_	5	cc	_	O
+7	Trump	trump	NNP	pos2=NN	5	conj	_	U-PERSON
+8	,	,	,	_	12	punct	_	O
+9	what	what	WP	_	12	dobj	_	O
+10	can	can	MD	_	12	aux	_	O
+11	you	you	PRP	_	12	nsubj	_	O
+12	do	do	VB	_	0	root	_	O
+13	to	to	TO	_	14	aux	_	O
+14	make	make	VB	_	12	advcl	_	O
+15	the	the	DT	_	16	det	_	O
+16	world	world	NN	_	17	nsubj	_	O
+17	better	good	JJR	pos2=RBR	14	ccomp	_	O
+18	?	?	.	_	12	punct	_	O
+
+1	Read	read	VB	_	0	root	_	O
+2	this	this	DT	_	1	dobj	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	https://t.co/ha50vAsHeG	#hlink#	ADD	_	0	root	_	U-ORG
+

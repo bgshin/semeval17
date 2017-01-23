@@ -1,0 +1,10 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	huge	huge	JJ	_	5	nmod	_	O
+4	-	-	HYPH	pos2=.	5	punct	_	O
+5	#Microsoft	#microsoft	NNP	pos2=WP	6	nsubj	_	O
+6	joins	join	VBZ	_	2	advcl	_	O
+7	the	the	DT	_	8	det	_	O
+8	#LinuxFoundation	#linuxfoundation	NN	pos2=ADD	6	dobj	_	O
+9	https://t.co/vaWkR12V6r	#hlink#	ADD	_	5	appos	_	O
+

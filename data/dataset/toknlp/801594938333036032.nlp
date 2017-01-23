@@ -1,0 +1,14 @@
+1	Latest	late	JJS	pos2=NN	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	@UN	@un	NN	pos2=NNP	4	nsubj	_	O
+4	says	say	VBZ	_	0	root	_	O
+5	over	over	IN	_	6	qmod	_	O
+6	68,000	0	CD	_	7	nmod	_	U-CARDINAL
+7	civilians	civilian	NNS	_	12	nsubj	_	O
+8	displaced	displace	VBN	_	7	acl	_	O
+9	by	by	IN	_	8	agent	_	O
+10	#MosulOffensive	#mosuloffensive	ADD	pos2=NNP	9	pobj	_	B-ORG
+11	https://t.co/lPsCejwv8a#mosul	#hlink#	ADD	pos2=NN	9	pobj	_	I-ORG
+12	#Iraqi	#iraqi	-RRB-	pos2=NNP	4	punct	_	I-ORG
+13	#Iraq	#iraq	ADD	pos2=NNS	4	punct	_	L-ORG
+

@@ -1,0 +1,16 @@
+1	If	if	IN	_	5	mark	_	O
+2	only	only	RB	_	5	advmod	_	O
+3	there	there	EX	_	5	expl	_	O
+4	had	have	VBD	_	5	aux	_	O
+5	been	be	VBN	_	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	sign	sign	NN	_	5	attr	_	O
+8	...	..	.	_	5	punct	_	O
+
+1	or	or	CC	_	2	cc	_	O
+2	60	0	CD	pos2=LS	0	root	_	U-CARDINAL
+3	.	.	.	_	2	punct	_	O
+
+1	https://t.co/4AF9icKskc	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/Lg4Cur67DJ	#hlink#	ADD	_	0	root	_	U-ORG
+

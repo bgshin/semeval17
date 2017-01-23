@@ -1,0 +1,33 @@
+1	Hey	hey	UH	_	8	discourse	_	O
+2	,	,	,	_	8	punct	_	O
+3	@georgesoros	@georgesoros	UH	pos2=NNS	8	discourse	_	O
+4	,	,	,	_	8	punct	_	O
+5	please	please	UH	_	8	discourse	_	O
+6	do	do	VB	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	stop	stop	VB	_	0	root	_	O
+9	inciting	incite	VBG	_	8	xcomp	_	O
+10	these	these	DT	_	13	det	_	O
+11	anti	anti	AFX	pos2=NN	12	nmod	_	O
+12	Trump	trump	NN	pos2=NNP	13	compound	_	U-ORG
+13	riots	riot	NNS	_	9	dobj	_	O
+14	.	.	.	_	8	punct	_	O
+
+1	You	you	PRP	_	3	nsubj	_	O
+2	're	be	VBP	_	3	aux	_	O
+3	ensuring	ensure	VBG	_	0	root	_	O
+4	a	a	DT	_	8	det	_	O
+5	Trump	trump	NN	pos2=NNP	7	nmod	_	O
+6	/	/	SYM	pos2=HYPH	7	punct	_	O
+7	Pence	penny	NNP	pos2=NN	8	compound	_	O
+8	re-election	re-election	NN	_	3	dobj	_	O
+9	in	in	IN	_	3	prep	_	O
+10	2020	0	CD	_	9	pobj	_	U-DATE
+11	.	.	.	_	3	punct	_	O
+
+1	Thank	thank	VBP	_	0	root	_	O
+2	you	you	PRP	_	1	dobj	_	O
+3	,	,	,	_	1	punct	_	O
+4	u	u	CD	pos2=DT	5	nmod	_	O
+5	moron	moron	NN	_	1	vocative	_	O
+

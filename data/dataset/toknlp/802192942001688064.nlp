@@ -1,0 +1,13 @@
+1	https://t.co/cEC3YFFyTJ	#hlink#	ADD	pos2=NNP	4	nsubj	_	O
+2	Trump	trump	NNP	pos2=NN	4	nsubj	_	U-ORG
+3	will	will	MD	_	4	aux	_	O
+4	appoint	appoint	VB	_	0	root	_	O
+5	bankruptcy	bankruptcy	NN	_	6	compound	_	O
+6	czar	czar	NN	pos2=NNP	7	compound	_	O
+7	Ross	ross	NNP	_	4	dobj	_	U-PERSON
+8	as	as	IN	_	4	prep	_	O
+9	Secretary	secretary	NNP	_	8	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Commerce	commerce	NNP	_	10	pobj	_	U-ORG
+12	.	.	.	_	4	punct	_	O
+

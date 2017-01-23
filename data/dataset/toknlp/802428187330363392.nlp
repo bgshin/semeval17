@@ -1,0 +1,22 @@
+1	@FacMagnaAmerica	@facmagnaamerica	XX	pos2=JJS	4	dep	_	O
+2	liberals	liberal	NNS	_	4	nsubj	_	O
+3	now	now	RB	_	4	advmod	_	O
+4	are	be	VBP	_	0	root	_	O
+5	leftist	leftist	JJ	_	4	acomp	_	O
+6	,	,	,	_	4	punct	_	O
+7	nazi	nazi	NN	pos2=NNS	2	appos	_	O
+8	(	(	-LRB-	_	7	punct	_	O
+9	neo	neo	NN	pos2=JJ	7	appos	_	O
+10	)	)	-RRB-	_	7	punct	_	O
+11	are	be	VBP	_	4	conj	_	O
+12	leftist	leftist	JJ	_	11	acomp	_	O
+13	too	too	RB	_	11	advmod	_	O
+14	.	.	.	_	11	punct	_	O
+
+1	Why	why	WRB	_	4	advmod	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	support	support	VB	_	0	root	_	O
+5	them	them	PRP	_	4	dobj	_	O
+6	?	?	.	_	4	punct	_	O
+

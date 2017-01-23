@@ -1,0 +1,22 @@
+1	Yo	yo	NN	pos2=UH	7	vocative	_	O
+2	,	,	,	_	1	punct	_	O
+3	@MittRomney	@mittromney	NN	pos2=NNP	1	appos	_	O
+4	,	,	,	_	7	punct	_	O
+5	do	do	VB	pos2=VBP	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	let	let	VB	_	0	root	_	O
+8	@KellyannePolls	@kellyannepolls	NNS	pos2=PRP	9	nsubj	_	O
+9	stand	stand	VB	_	7	ccomp	_	O
+10	behind	behind	IN	_	9	prep	_	O
+11	you	you	PRP	_	10	pobj	_	O
+12	at	at	IN	_	9	prep	_	O
+13	the	the	DT	_	15	det	_	O
+14	bus	bus	NN	_	15	compound	_	O
+15	stop	stop	NN	pos2=VB	12	pobj	_	O
+16	.	.	.	_	7	punct	_	O
+
+1	#p2	#p0	NN	pos2=LS	4	nmod	_	O
+2	#UniteBlue	#uniteblue	GW	pos2=XX	4	nmod	_	B-PERSON
+3	#tcot	#tcot	GW	pos2=ADD	4	nmod	_	L-PERSON
+4	https://t.co/dngFGwJ3vT	#hlink#	ADD	pos2=NN	0	root	_	O
+

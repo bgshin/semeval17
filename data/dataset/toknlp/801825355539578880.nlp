@@ -1,0 +1,21 @@
+1	Ana	ana	NNP	_	2	compound	_	B-PERSON
+2	Navarro	navarro	NNP	_	3	nsubj	_	L-PERSON
+3	destroys	destroy	VBZ	_	0	root	_	O
+4	Melania	melania	NNP	_	5	compound	_	B-PERSON
+5	Trump	trump	NNP	pos2=NN	9	poss	_	I-PERSON
+6	’s	's	POS	_	5	case	_	L-PERSON
+7	cyberbullying	cyberbullying	NN	_	9	compound	_	O
+8	speech	speech	NN	_	9	compound	_	O
+9	hypocrisy	hypocrisy	NN	_	3	dobj	_	O
+10	:	:	:	_	3	punct	_	O
+11	‘	'	''	pos2=``	3	punct	_	O
+12	He	he	PRP	_	3	dobj	_	O
+13	...	..	.	pos2=,	3	punct	_	O
+
+1	is	be	VBZ	_	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	dirt	dirt	NN	_	1	nsubj	_	O
+4	and	and	CC	_	3	cc	_	O
+5	brainless	brainless	JJ	_	6	nmod	_	O
+6	https://t.co/QhV1YV9G8U	#hlink#	ADD	pos2=NN	3	conj	_	O
+

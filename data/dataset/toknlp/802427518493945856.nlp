@@ -1,0 +1,8 @@
+1	Capital	capital	NNP	pos2=NN	4	compound	_	O
+2	Steez	steez	NNP	_	4	compound	_	O
+3	-	-	HYPH	pos2=,	4	punct	_	O
+4	Free	free	NNP	_	0	root	_	O
+5	The	the	DT	pos2=NNP	6	det	_	O
+6	Robots	robot	NNPS	pos2=NNS	2	appos	_	U-PRODUCT
+7	💯💯💯	💯💯💯	.	pos2=NNP	4	punct	_	O
+

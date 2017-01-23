@@ -1,0 +1,17 @@
+1	200	0	CD	pos2=LS	2	nmod	_	U-CARDINAL
+2	Palestinians	palestinian	NNPS	_	3	nsubj	_	U-NORP
+3	travel	travel	VBP	pos2=NN	0	root	_	O
+4	from	from	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	B-GPE
+6	#Gaza	#gaza	NNP	_	7	compound	_	I-GPE
+7	Strip	strip	NNP	pos2=NN	4	pobj	_	L-GPE
+8	to	to	IN	pos2=TO	3	prep	_	O
+9	#AlAqsa	#alaqsa	NNP	pos2=VB	8	pobj	_	U-GPE
+10	for	for	IN	_	3	prep	_	O
+11	Friday	friday	NNP	_	12	compound	_	U-DATE
+12	prayers	prayer	NNS	pos2=GW	10	pobj	_	O
+13	https://t.co/DF5U8LC5aq	#hlink#	ADD	pos2=VBP	11	appos	_	O
+14	via	via	IN	_	3	prep	_	O
+15	…	…	NFP	pos2=-LRB-	14	pobj	_	O
+16	https://t.co/soEnSCsYxX	#hlink#	ADD	pos2=NN	14	pobj	_	O
+

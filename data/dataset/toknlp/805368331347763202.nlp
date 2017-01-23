@@ -1,0 +1,10 @@
+1	How	how	WRB	_	2	advmod	_	O
+2	many	many	JJ	_	6	nsubj	_	O
+3	into	into	IN	_	2	prep	_	O
+4	gain	gain	NN	pos2=JJ	5	compound	_	O
+5	knowledge	knowledge	NN	_	3	pobj	_	O
+6	ripped	rip	VBD	pos2=VBN	0	root	_	O
+7	vegetarianism	vegetarianism	NN	_	6	dobj	_	O
+8	:	:	:	_	6	punct	_	O
+9	uXOTRvONO	uxotrvono	NN	pos2=ADD	6	dep	_	O
+

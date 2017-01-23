@@ -1,0 +1,17 @@
+1	@Disdain4Plebs	@disdain0plebs	NNS	pos2=NN	2	nsubj	_	O
+2	@BreitbartNews	@breitbartnews	VBZ	pos2=VBP	0	root	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	2	ccomp	_	O
+5	Steve	steve	NNP	_	6	compound	_	B-PERSON
+6	Bannon	bannon	NNP	_	10	poss	_	I-PERSON
+7	's	's	POS	_	6	case	_	L-PERSON
+8	new	new	JJ	_	10	nmod	_	O
+9	PR	pr	NN	pos2=NNP	10	compound	_	O
+10	team	team	NN	_	4	attr	_	O
+11	trying	try	VBG	_	10	acl	_	O
+12	to	to	TO	_	13	aux	_	O
+13	appeal	appeal	VB	_	11	xcomp	_	O
+14	to	to	IN	_	13	prep	_	O
+15	the	the	DT	_	16	det	_	O
+16	youths	youth	NNS	_	14	pobj	_	O
+

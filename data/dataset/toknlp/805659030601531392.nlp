@@ -1,0 +1,24 @@
+1	@hey_dickhead	@hey_dickhead	RB	pos2=NFP	3	advmod	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	absolutely	absolutely	RB	_	5	advmod	_	O
+5	insane	insane	JJ	_	3	acomp	_	O
+6	by	by	IN	_	3	prep	_	O
+7	saying	say	VBG	_	6	pcomp	_	O
+8	this.I	this.i	NNP	pos2=NNS	9	nsubj	_	U-ORG
+9	follow	follow	VB	pos2=NN	7	ccomp	_	O
+10	Kellie	kellie	NNP	_	11	compound	_	B-PERSON
+11	Leitch	leitch	NNP	_	9	dobj	_	L-PERSON
+12	,	,	,	_	13	punct	_	O
+13	support	support	VB	pos2=NN	3	dep	_	O
+14	Marine	marine	NNP	pos2=JJ	16	compound	_	B-ORG
+15	Le	le	NNP	_	16	compound	_	I-ORG
+16	Pen	pen	NNP	_	13	dobj	_	I-ORG
+17	&	&	CC	_	16	cc	_	I-ORG
+18	Frauke	frauke	NNP	_	19	compound	_	I-ORG
+19	Petry	petry	NNP	_	16	conj	_	L-ORG
+20	your	your	PRP$	_	21	poss	_	O
+21	argument	argument	NN	_	22	nsubj	_	O
+22	is	be	VBZ	_	3	conj	_	O
+23	invalid	invalid	JJ	_	22	acomp	_	O
+

@@ -1,0 +1,18 @@
+1	@doughelmreich	@doughelmreich	UH	pos2=XX	5	discourse	_	O
+2	@JPosnanski	@jposnanski	NNP	pos2=VBD	3	compound	_	O
+3	One	#crd#	CD	pos2=NNP	5	nmod	_	U-CARDINAL
+4	last	last	JJ	pos2=RB	5	nmod	_	O
+5	thought	thought	NN	pos2=VBD	0	root	_	O
+6	on	on	IN	_	5	prep	_	O
+7	Porcello	porcello	NNP	_	9	compound	_	B-ORG
+8	-	-	HYPH	_	9	punct	_	I-ORG
+9	Verlander	verlander	NNP	_	6	pobj	_	L-ORG
+10	,	,	,	_	5	punct	_	O
+11	or	or	CC	_	5	cc	_	O
+12	perhaps	perhaps	RB	_	14	advmod	_	O
+13	the	the	DT	_	14	det	_	O
+14	process	process	NN	_	5	conj	_	O
+15	itself	itself	PRP	pos2=NN	14	appos	_	O
+16	:	:	:	_	14	punct	_	O
+17	https://t.co/xktsG1vyT1	#hlink#	ADD	_	14	appos	_	O
+

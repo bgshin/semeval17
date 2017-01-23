@@ -1,0 +1,12 @@
+1	The	the	DT	_	4	det	_	O
+2	best	good	JJS	pos2=RBS	4	nmod	_	O
+3	#BlackFriday	#blackfriday	NN	pos2=CD	4	compound	_	O
+4	purchase	purchase	NN	pos2=VB	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+
+1	#TheWalkingDead	#thewalkingdead	ADD	pos2=XX	5	nmod	_	O
+2	@WalkingDead_AMC	@walkingdead_amc	GW	pos2=ADD	5	nmod	_	O
+3	#Walmart	#walmart	GW	pos2=NNP	5	nmod	_	B-PERSON
+4	#TWD	#twd	GW	pos2=NFP	5	nmod	_	L-PERSON
+5	https://t.co/TmXlOeh3rA	#hlink#	ADD	pos2=NN	0	root	_	O
+

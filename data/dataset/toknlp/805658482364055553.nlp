@@ -1,0 +1,23 @@
+1	Breaking	break	VBG	pos2=NNP	0	root	_	O
+2	News	news	NNP	pos2=NN	1	dobj	_	O
+3	!!	!!	.	_	1	punct	_	O
+
+1	Hear	hear	VB	pos2=VBP	14	advcl	_	O
+2	this	this	DT	_	1	dobj	_	O
+3	all	all	DT	pos2=RB	5	det	_	O
+4	Homosexual	homosexual	JJ	_	5	nmod	_	O
+5	people	people	NNS	_	9	nsubj	_	O
+6	not	not	RB	_	7	neg	_	O
+7	everyone	everyone	NN	_	8	nsubj	_	O
+8	supports	support	VBZ	_	1	ccomp	_	O
+9	gay	gay	JJ	_	10	nmod	_	O
+10	marriage	marriage	NN	_	8	dobj	_	O
+11	,	,	,	_	14	punct	_	O
+12	some	some	DT	_	13	det	_	O
+13	people	people	NNS	_	14	nsubj	_	O
+14	believe	believe	VBP	_	0	root	_	O
+15	marriage	marriage	NN	_	16	nsubj	_	O
+16	is	be	VBZ	_	14	ccomp	_	O
+17	…	…	NFP	pos2=-LRB-	18	punct	_	O
+18	https://t.co/Dz67isLvSn	#hlink#	ADD	_	16	attr	_	O
+

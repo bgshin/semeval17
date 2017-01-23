@@ -1,0 +1,22 @@
+1	Iraqi	iraqi	JJ	_	4	nmod	_	U-NORP
+2	#army	#army	NN	pos2=NNP	4	compound	_	O
+3	#aviation	#aviation	NN	pos2=IN	4	compound	_	O
+4	Mi-35	mi-0	NN	pos2=UH	21	dep	_	O
+5	#helicopter	#helicopter	IN	pos2=NN	4	prep	_	O
+6	firing	fire	VBG	_	5	pcomp	_	O
+7	a	a	DT	_	8	det	_	O
+8	#missile	#missile	NN	pos2=NNP	6	dobj	_	O
+9	at	at	IN	_	6	prep	_	O
+10	an	an	DT	_	12	det	_	O
+11	#ISIS	#isis	NN	pos2=NNP	12	compound	_	O
+12	target	target	NN	_	9	pobj	_	O
+13	south	south	RB	pos2=NN	12	advmod	_	O
+14	of	of	IN	_	13	prep	_	O
+15	#Mosul	#mosul	NNP	pos2=XX	14	pobj	_	U-GPE
+16	,	,	,	_	15	punct	_	O
+17	Iraq	iraq	NNP	_	18	compound	_	B-EVENT
+18	@AFPphoto	@afpphoto	NNP	pos2=XX	12	appos	_	L-EVENT
+19	by	by	IN	_	6	prep	_	O
+20	…	…	NFP	pos2=NNP	19	pobj	_	O
+21	https://t.co/Fn5hySsoPA	#hlink#	ADD	_	0	root	_	U-ORG
+

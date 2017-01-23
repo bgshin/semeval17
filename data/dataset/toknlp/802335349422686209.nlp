@@ -1,0 +1,29 @@
+1	@dannyowe	@dannyowe	UH	pos2=PRP	7	discourse	_	O
+2	@blacksocialite	@blacksocialite	UH	pos2=IN	7	discourse	_	O
+3	@deray	@deray	UH	_	7	discourse	_	O
+4	they	they	PRP	_	7	nsubj	_	O
+5	ca	can	MD	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	repeal	repeal	VB	_	0	root	_	O
+8	it	it	PRP	_	7	dobj	_	O
+9	but	but	CC	pos2=IN	7	cc	_	O
+10	they	they	PRP	_	12	nsubj	_	O
+11	can	can	MD	_	12	aux	_	O
+12	defund	defund	VB	_	7	conj	_	O
+13	it	it	PRP	_	12	dobj	_	O
+14	.	.	.	_	12	punct	_	O
+
+1	Medicaid	medicaid	NNP	pos2=NN	2	compound	_	U-ORG
+2	expansion	expansion	NN	_	4	nsubj	_	O
+3	would	would	MD	_	4	aux	_	O
+4	go	go	VB	_	0	root	_	O
+5	away	away	RB	_	4	advmod	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	Costs	cost	NNS	pos2=VBZ	0	root	_	O
+2	too	too	RB	_	3	advmod	_	O
+3	high	high	JJ	_	1	nmod	_	O
+4	to	to	TO	pos2=IN	5	aux	_	O
+5	purchase	purchase	VB	pos2=NN	3	xcomp	_	O
+6	.	.	.	_	1	punct	_	O
+

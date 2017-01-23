@@ -1,0 +1,31 @@
+1	Home	home	NN	pos2=RB	0	root	_	O
+2	from	from	IN	_	1	prep	_	O
+3	@utahjazz	@utahjazz	JJ	pos2=HYPH	4	nmod	_	O
+4	game	game	NN	_	2	pobj	_	O
+5	in	in	IN	_	1	prep	_	O
+6	time	time	NN	_	5	pobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	see	see	VB	_	1	advcl	_	O
+9	@BYUbasketball	@byubasketball	PRP	pos2=XX	10	nsubj	_	O
+10	losing	lose	VBG	_	8	ccomp	_	O
+11	their	their	PRP$	_	12	poss	_	O
+12	cool	cool	NN	pos2=JJ	10	dobj	_	O
+13	.	.	.	_	1	punct	_	O
+
+1	Haws	haws	NNP	pos2=NNS	2	compound	_	U-PERSON
+2	PF	pf	NN	pos2=NNP	13	dep	_	O
+3	vs	vs	CC	pos2=FW	2	cc	_	O
+4	shot	shot	NN	pos2=VBN	5	compound	_	O
+5	clock	clock	NN	_	2	conj	_	O
+6	,	,	,	_	5	punct	_	O
+7	Mika	mika	NNP	_	9	nmod	_	O
+8	4th	#ord#	JJ	pos2=NN	9	nmod	_	U-ORDINAL
+9	PF	pf	NN	pos2=NNP	5	conj	_	O
+10	,	,	,	_	13	punct	_	O
+11	Haws	haws	NNP	_	13	compound	_	O
+12	T.	t.	NNP	_	13	compound	_	O
+13	Got	got	NNP	pos2=VBD	0	root	_	O
+14	ta	ta	TO	_	15	aux	_	O
+15	calm	calm	VB	_	13	xcomp	_	O
+16	down	down	RP	pos2=RB	15	prt	_	O
+

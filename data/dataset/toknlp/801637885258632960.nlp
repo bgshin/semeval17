@@ -1,0 +1,23 @@
+1	Fan	fan	NN	pos2=JJ	2	compound	_	O
+2	opinion	opinion	NN	_	9	dep	_	O
+3	:	:	:	_	9	punct	_	O
+4	right	right	RB	pos2=JJ	5	advmod	_	O
+5	now	now	RB	_	9	advmod	_	O
+6	I	I	PRP	_	9	nsubj	_	O
+7	would	would	MD	_	9	aux	_	O
+8	absolutely	absolutely	RB	_	9	advmod	_	O
+9	take	take	VB	_	0	root	_	O
+10	Justin	justin	NNP	_	11	compound	_	B-PERSON
+11	Verlander	verlander	NNP	_	9	dobj	_	L-PERSON
+12	as	as	IN	_	9	prep	_	O
+13	a	a	DT	_	15	det	_	O
+14	Red	red	NNP	_	15	compound	_	B-ORG
+15	Sox	sox	NNP	pos2=NNPS	12	pobj	_	L-ORG
+16	.	.	.	_	9	punct	_	O
+
+1	Hands	hand	NNS	pos2=NNPS	0	root	_	O
+2	down	down	RP	pos2=RB	1	advmod	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	#RedSox	#redsox	ADD	pos2=XX	0	root	_	O
+

@@ -1,0 +1,18 @@
+1	@UaNews_online	@uanews_online	NNP	pos2=ADD	2	compound	_	B-PERSON
+2	Dekanoidze	dekanoidze	NNP	_	4	nsubj	_	L-PERSON
+3	also	also	RB	_	4	advmod	_	O
+4	said	say	VBD	_	0	root	_	O
+5	that	that	IN	_	12	mark	_	O
+6	Odesa	odesa	NNP	_	7	compound	_	U-GPE
+7	ex-governor	ex-governor	NN	pos2=NNP	9	compound	_	O
+8	Mikheil	mikheil	NNP	_	9	compound	_	B-PERSON
+9	Saakashvili	saakashvili	NNP	_	12	nsubj	_	L-PERSON
+10	did	do	VBD	_	12	aux	_	O
+11	not	not	RB	_	12	neg	_	O
+12	know	know	VB	_	4	ccomp	_	O
+13	anything	anything	NN	_	12	dobj	_	O
+14	about	about	IN	_	13	prep	_	O
+15	her	her	PRP$	_	16	poss	_	O
+16	resignation	resignation	NN	_	14	pobj	_	O
+17	:	:	:	_	4	punct	_	O
+

@@ -1,0 +1,15 @@
+1	When	when	WRB	_	4	advmod	_	O
+2	your	your	PRP$	_	3	poss	_	O
+3	friends	friend	NNS	_	4	nsubj	_	O
+4	come	come	VB	pos2=VBP	14	advcl	_	O
+5	back	back	RB	_	4	advmod	_	O
+6	from	from	IN	_	5	prep	_	O
+7	college	college	NN	_	6	pobj	_	O
+8	for	for	IN	_	4	prep	_	O
+9	thanksgiving	thanksgiving	NN	pos2=VBG	8	pobj	_	B-DATE
+10	break😬😂😂	break😬😂😂	NNP	pos2=WDT	14	nmod	_	L-DATE
+11	@nolte_taylor	@nolte_taylor	NNP	pos2=GW	14	nmod	_	O
+12	@Tay_murphy77	@tay_murphy0	GW	pos2=CD	14	nmod	_	O
+13	@bethanymreid	@bethanymreid	GW	pos2=ADD	14	nmod	_	O
+14	https://t.co/LsuuXJ2Jj1	#hlink#	ADD	pos2=NN	0	root	_	O
+

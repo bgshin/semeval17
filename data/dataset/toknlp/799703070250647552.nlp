@@ -1,0 +1,14 @@
+1	@jimcramer	@jimcramer	NN	pos2=PRP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	this	this	DT	_	2	nsubj	_	O
+4	what	what	WP	pos2=WDT	6	dobj	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	wanted	want	VBD	_	2	ccomp	_	O
+7	for	for	IN	_	6	prep	_	O
+8	twitter	twitter	NN	pos2=NNP	7	pobj	_	O
+9	?	?	.	_	2	punct	_	O
+
+1	https://t.co/JS4AZPFLhy	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@dailystarnews	@dailystarnews	UH	pos2=.	2	pobj	_	O
+

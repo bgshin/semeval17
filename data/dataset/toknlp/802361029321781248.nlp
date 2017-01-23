@@ -1,0 +1,34 @@
+1	Catching	catch	VBG	_	0	root	_	O
+2	up	up	RP	_	1	prt	_	O
+3	on	on	IN	_	1	prep	_	O
+4	#TheDailyShow	#thedailyshow	NNP	pos2=NN	3	pobj	_	O
+5	&	&	CC	_	1	cc	_	O
+6	found	find	VBD	pos2=VBN	1	conj	_	O
+7	out	out	RP	pos2=IN	6	prt	_	O
+8	Steve	steve	NNP	_	9	compound	_	B-PERSON
+9	Bannon	bannon	NNP	_	11	poss	_	I-PERSON
+10	's	's	POS	_	9	case	_	L-PERSON
+11	motto	motto	NN	_	12	nsubj	_	O
+12	is	be	VBZ	_	6	ccomp	_	O
+13	"	"	``	_	12	punct	_	O
+14	Honey	honey	NNP	pos2=NN	15	compound	_	O
+15	badger	badger	NN	pos2=NNP	18	nsubj	_	O
+16	do	do	VBP	pos2=VB	18	aux	_	O
+17	n't	not	RB	_	18	neg	_	O
+18	give	give	VB	_	12	ccomp	_	O
+19	a	a	DT	_	20	det	_	O
+20	shit	shit	NN	_	18	dobj	_	O
+21	.	.	.	_	1	punct	_	O
+22	"	"	''	_	1	punct	_	O
+
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	fact	fact	NN	_	2	attr	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	About	about	RB	pos2=IN	4	advmod	_	O
+2	a	a	DT	_	4	det	_	O
+3	White	white	NNP	pos2=JJ	4	compound	_	B-ORG
+4	Supremacist	supremacist	NN	pos2=NNP	0	root	_	L-ORG
+

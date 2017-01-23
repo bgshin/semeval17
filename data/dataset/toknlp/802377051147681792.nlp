@@ -1,0 +1,29 @@
+1	Ivanka	ivanka	NNP	pos2=NN	3	nsubj	_	U-PERSON
+2	Will	will	MD	pos2=NNP	3	aux	_	O
+3	Move	move	VB	_	0	root	_	O
+4	Into	into	IN	_	3	prep	_	O
+5	WhiteHouse	whitehouse	NNP	_	4	pobj	_	U-ORG
+6	To	to	TO	pos2=NNP	7	aux	_	O
+7	Fill	fill	VB	pos2=NNP	3	advcl	_	O
+8	Melania	melania	NNP	_	10	poss	_	U-PERSON
+9	’s	's	POS	_	8	case	_	O
+10	Vacancy	vacancy	NN	pos2=NNP	7	dobj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	"	"	``	pos2=SYM	4	punct	_	O
+2	She	she	PRP	_	4	nsubj	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	rolls	roll	VBZ	_	0	root	_	O
+5	up	up	RP	pos2=IN	4	prt	_	O
+6	her	her	PRP$	_	7	poss	_	O
+7	sleeves	sleeve	NNS	_	4	dobj	_	O
+8	or	or	CC	_	7	cc	_	O
+9	drops	drop	NNS	pos2=VBZ	7	conj	_	O
+10	to	to	IN	_	4	prep	_	O
+11	her	her	PRP$	_	12	poss	_	O
+12	knees	knee	NNS	_	10	pobj	_	O
+13	...	..	.	pos2=,	4	punct	_	O
+14	"	"	''	_	4	punct	_	O
+
+1	https://t.co/acxyygpIX2	#hlink#	ADD	_	0	root	_	U-ORG
+

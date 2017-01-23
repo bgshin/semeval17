@@ -1,0 +1,25 @@
+1	@StopTrumpNow16	@stoptrumpnow0	NN	pos2=UH	7	compound	_	O
+2	@seanhannity	@seanhannity	UH	pos2=MD	7	discourse	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	mean	mean	VBP	pos2=VB	7	parataxis	_	O
+5	like	like	UH	pos2=IN	1	discourse	_	O
+6	George	george	NNP	_	7	compound	_	B-PERSON
+7	Soros	soros	NNP	_	0	root	_	L-PERSON
+8	?	?	.	_	7	punct	_	O
+
+1	Oh	oh	UH	_	2	discourse	_	O
+2	wait	wait	VB	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	actually	actually	RB	_	2	advmod	_	O
+4	the	the	DT	_	5	det	_	O
+5	one	#crd#	CD	pos2=NN	2	attr	_	U-CARDINAL
+6	funding	fund	VBG	pos2=NN	5	acl	_	O
+7	the	the	DT	_	10	det	_	O
+8	anti	anti	AFX	pos2=NN	9	nmod	_	O
+9	Trump	trump	NN	pos2=NNP	10	compound	_	U-ORG
+10	riots	riot	NNS	_	6	dobj	_	O
+11	.	.	.	_	2	punct	_	O
+

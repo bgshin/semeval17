@@ -1,0 +1,24 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	all	all	RB	pos2=DT	2	advmod	_	O
+4	for	for	IN	_	2	prep	_	O
+5	open	open	JJ	_	6	nmod	_	O
+6	mindedness	mindedness	NN	_	4	pobj	_	O
+7	but	but	CC	_	2	cc	_	O
+8	I	I	PRP	_	12	nsubj	_	O
+9	honestly	honestly	RB	_	12	advmod	_	O
+10	do	do	VBP	_	12	aux	_	O
+11	n't	not	RB	_	12	neg	_	O
+12	understand	understand	VB	_	2	conj	_	O
+13	the	the	DT	_	14	det	_	O
+14	beliefs	belief	NNS	pos2=NN	12	dobj	_	O
+15	many	many	JJ	_	16	nmod	_	O
+16	rightists	rightist	NNS	_	17	nsubj	_	O
+17	have	have	VBP	_	14	relcl	_	O
+18	especially	especially	RB	_	21	advmod	_	O
+19	the	the	DT	_	21	det	_	O
+20	right	right	JJ	_	21	nmod	_	O
+21	wi	wi	NN	pos2=GW	23	dep	_	O
+22	…	…	NFP	pos2=-LRB-	23	punct	_	O
+23	https://t.co/6pelUV44dc	#hlink#	ADD	_	12	dep	_	O
+

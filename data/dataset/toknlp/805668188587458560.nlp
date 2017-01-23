@@ -1,0 +1,28 @@
+1	Massive	massive	JJ	_	3	nmod	_	O
+2	voter	voter	NN	_	3	compound	_	O
+3	suppression	suppression	NN	_	6	nsubj	_	O
+4	is	be	VBZ	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	coming	come	VBG	_	0	root	_	O
+7	.	.	.	_	6	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	here	here	RB	_	2	advmod	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	Look	look	VB	_	7	advcl	_	O
+2	at	at	IN	_	1	prep	_	O
+3	NC.	nc.	NNP	_	2	pobj	_	O
+4	They	they	PRP	_	7	nsubj	_	O
+5	are	be	VBP	_	7	aux	_	O
+6	literally	literally	RB	_	7	advmod	_	O
+7	trying	try	VBG	_	0	root	_	O
+8	to	to	TO	_	9	aux	_	O
+9	install	install	VB	_	7	xcomp	_	O
+10	a	a	DT	_	12	det	_	O
+11	governor	governor	NN	_	12	compound	_	O
+12	rath	rath	NN	pos2=GW	9	dobj	_	O
+13	…	…	NFP	pos2=-LRB-	14	punct	_	O
+14	https://t.co/aH20SP7sAU	#hlink#	ADD	_	12	appos	_	O
+

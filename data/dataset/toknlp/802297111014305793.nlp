@@ -1,0 +1,15 @@
+1	#Tesla	#tesla	NNP	pos2=NN	2	compound	_	O
+2	Model	model	NNP	pos2=NN	5	poss	_	B-PRODUCT
+3	S	s	POS	pos2=TO	2	case	_	L-PRODUCT
+4	drop	drop	NN	_	5	compound	_	O
+5	top	top	NN	pos2=JJ	0	root	_	O
+6	,	,	,	_	5	punct	_	O
+7	spotted	spot	VBN	_	5	acl	_	O
+8	by	by	IN	_	7	agent	_	O
+9	my	my	PRP$	_	10	poss	_	O
+10	buddy	buddy	NN	_	8	pobj	_	O
+11	in	in	IN	_	10	prep	_	O
+12	LA	la	NNP	_	13	compound	_	U-GPE
+13	@TeslaMotors	@teslamotors	NNS	pos2=GW	11	pobj	_	O
+14	https://t.co/uIlHBdL9p9	#hlink#	ADD	_	5	appos	_	U-GPE
+

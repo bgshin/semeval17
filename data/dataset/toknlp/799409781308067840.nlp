@@ -1,0 +1,25 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=GW	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	https://t.co/LtkHTrvjuI	#hlink#	ADD	pos2=NNP	1	appos	_	O
+7	Kim	kim	NNP	_	9	compound	_	B-PERSON
+8	Jong	jong	NNP	_	9	compound	_	I-PERSON
+9	Un	un	NNP	_	12	nsubj	_	L-PERSON
+10	Does	do	VBZ	_	12	aux	_	O
+11	n’t	not	RB	_	12	neg	_	O
+12	Like	like	VB	pos2=NNP	2	ccomp	_	O
+13	‘	'	``	pos2=POS	12	punct	_	O
+14	Kim	kim	NNP	_	15	compound	_	B-PERSON
+15	Fatty	fatty	NNP	_	21	nsubj	_	L-PERSON
+16	the	the	DT	_	17	det	_	O
+17	Third	#ord#	NNP	pos2=JJ	19	poss	_	O
+18	’	'	POS	pos2=''	17	case	_	O
+19	Nickname	nickname	NN	pos2=NNP	15	appos	_	O
+20	,	,	,	_	21	punct	_	O
+21	Asks	ask	VBZ	_	12	ccomp	_	O
+22	China	china	NNP	_	21	dobj	_	U-GPE
+23	to	to	TO	pos2=IN	24	aux	_	O
+24	Censor	censor	VB	pos2=NNP	21	xcomp	_	O
+

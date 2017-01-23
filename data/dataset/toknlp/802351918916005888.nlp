@@ -1,0 +1,14 @@
+1	#TRUMP2016	#trump0	NN	pos2=NFP	3	compound	_	O
+2	Donald	donald	NNP	_	3	compound	_	B-PERSON
+3	Trump	trump	NNP	pos2=NN	7	poss	_	L-PERSON
+4	#NotMyPresident	#notmypresident	POS	pos2=NNP	3	case	_	O
+5	ball	ball	NN	_	7	compound	_	O
+6	-	-	HYPH	_	7	punct	_	O
+7	chain	chain	NN	_	13	dep	_	O
+8	#Hillary	#hillary	NNP	pos2=ADD	13	nmod	_	O
+9	#BlackLivesMatter	#blacklivesmatter	GW	pos2=XX	13	nmod	_	O
+10	#tcot	#tcot	GW	pos2=UH	13	nmod	_	O
+11	#trump	#trump	GW	pos2=UH	13	nmod	_	O
+12	#tpp	#tpp	GW	pos2=UH	13	nmod	_	O
+13	https://t.co/dnHsBT3hP1	#hlink#	ADD	pos2=NN	0	root	_	O
+

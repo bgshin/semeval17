@@ -1,0 +1,10 @@
+1	@poroshenko	@poroshenko	DT	pos2=PRP$	3	det	_	O
+2	signs	sign	NNS	pos2=VBZ	3	compound	_	O
+3	decree	decree	NN	pos2=VBP	9	dep	_	O
+4	on	on	IN	_	3	prep	_	O
+5	granting	grant	VBG	_	4	pcomp	_	O
+6	#IsraelFires	#israelfires	NNS	pos2=GW	5	dative	_	O
+7	#humanitarian	#humanitarian	GW	pos2=IN	9	nmod	_	O
+8	aidhttps://t.co/4u8MNqAIBt	#hlink#	ADD	pos2=GW	9	nmod	_	O
+9	https://t.co/wMBrh4CFmN	#hlink#	ADD	_	0	root	_	U-ORG
+

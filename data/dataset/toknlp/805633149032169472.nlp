@@ -1,0 +1,14 @@
+1	Check	check	VB	_	0	root	_	O
+2	out	out	RP	_	1	prt	_	O
+3	this	this	DT	_	4	det	_	O
+4	video	video	NN	_	1	dobj	_	O
+5	:	:	:	_	4	punct	_	O
+6	"	"	``	_	8	punct	_	O
+7	Gay	gay	NNP	pos2=JJ	8	compound	_	O
+8	Marriage	marriage	NNP	pos2=NN	4	appos	_	O
+9	"	"	''	_	8	punct	_	O
+10	https://t.co/ru9uuf3I85	#hlink#	ADD	_	8	appos	_	O
+11	#SparkMade	#sparkmade	ADD	pos2=-RRB-	13	punct	_	O
+12	via	via	IN	_	1	prep	_	O
+13	@AdobeSpark	@adobespark	ADD	pos2=NNP	12	pobj	_	O
+

@@ -1,0 +1,9 @@
+1	FastKarateBoxingMinidrill	fastkarateboxingminidrill	NN	pos2=VB	4	compound	_	O
+2	JumpingBeanDrill	jumpingbeandrill	NNP	pos2=MD	4	compound	_	O
+3	NotTopSpeed	nottopspeed	NNP	pos2=XX	4	compound	_	O
+4	#Palestine	#palestine	NNP	pos2=POS	5	nsubj	_	O
+5	#HAMAS	#hamas	VBD	pos2=POS	0	root	_	O
+6	Like1000PhilistineEnemiesSamsonSlew	like0philistineenemiessamsonslew	NNP	pos2=GW	7	compound	_	B-PERSON
+7	#Israel	#israel	NNP	pos2=ADD	8	dep	_	L-PERSON
+8	https://t.co/E469DwNqeK	#hlink#	ADD	_	5	dobj	_	O
+

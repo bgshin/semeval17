@@ -1,0 +1,24 @@
+1	Manufacturing	manufacturing	NN	pos2=VBG	2	compound	_	O
+2	growth	growth	NN	_	8	nsubjpass	_	O
+3	and	and	CC	_	2	cc	_	O
+4	value	value	NN	_	2	conj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	dollar	dollar	NN	_	5	pobj	_	O
+7	are	be	VBP	_	8	auxpass	_	O
+8	diminished	diminish	VBN	_	0	root	_	O
+9	.	.	.	_	8	punct	_	O
+
+1	Dollar	dollar	NN	pos2=NNP	2	nsubj	_	O
+2	has	have	VBZ	_	0	root	_	O
+3	no	no	DT	_	5	det	_	O
+4	intrinsic	intrinsic	JJ	_	5	nmod	_	O
+5	value	value	NN	_	2	dobj	_	O
+6	after	after	IN	_	2	prep	_	O
+7	end	end	NN	_	6	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	gold	gold	NN	pos2=JJ	10	compound	_	O
+10	standard	standard	NN	_	8	pobj	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	@bookman10108	@bookman0	NN	pos2=LS	0	root	_	O
+

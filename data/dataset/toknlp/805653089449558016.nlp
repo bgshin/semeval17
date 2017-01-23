@@ -1,0 +1,17 @@
+1	Study	study	NN	pos2=VB	16	dep	_	O
+2	Proving	prove	VBG	pos2=NNP	1	acl	_	O
+3	Vaccines	vaccine	NNS	pos2=NNPS	2	dobj	_	O
+4	Cause	cause	IN	pos2=VB	6	mark	_	O
+5	Autism	autism	NNP	pos2=NN	6	nsubj	_	O
+6	Banned	ban	VBN	pos2=NNP	2	advcl	_	O
+7	From	from	IN	_	6	prep	_	O
+8	InternetA	interneta	NN	pos2=NNP	16	dep	_	O
+9	peer	peer	NN	pos2=RB	11	npadvmod	_	O
+10	-	-	HYPH	pos2=:	11	punct	_	O
+11	reviewed	review	VBN	_	13	nmod	_	O
+12	scientific	scientific	JJ	_	13	nmod	_	O
+13	study	study	NN	_	16	dep	_	O
+14	…	…	NFP	pos2=GW	16	punct	_	O
+15	https://t.co/tezAonkM5U	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/nuQbS1Jz8V	#hlink#	ADD	_	0	root	_	U-ORG
+

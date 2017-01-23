@@ -1,0 +1,29 @@
+1	@Chris_Hawkey	@chris_hawkey	UH	pos2=NN	2	discourse	_	O
+2	come	come	VB	pos2=VBP	0	root	_	O
+3	on	on	IN	pos2=RP	2	prep	_	O
+4	bud	bud	NN	pos2=NNP	3	pobj	_	O
+5	...	..	.	pos2=,	2	punct	_	O
+
+1	Those	those	DT	_	2	det	_	O
+2	pants	pant	NNS	_	3	nsubj	_	O
+3	looked	look	VBD	pos2=VBP	0	root	_	O
+4	like	like	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	ones	#crd#	NNS	_	4	pobj	_	O
+7	that	that	WDT	_	10	dobj	_	O
+8	hobo	hobo	NN	pos2=VBP	9	compound	_	O
+9	clowns	clown	NNS	_	10	nsubj	_	O
+10	wear	wear	VBP	pos2=VB	6	relcl	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	That	that	DT	_	2	det	_	O
+2	guy	guy	NN	_	3	nsubj	_	O
+3	was	be	VBD	_	0	root	_	O
+4	Ricky	ricky	NNP	_	5	compound	_	B-PERSON
+5	Martin	martin	NNP	_	6	compound	_	L-PERSON
+6	singing	singing	NN	pos2=VBG	7	nsubj	_	O
+7	sped	speed	VBD	_	3	ccomp	_	O
+8	up	up	RP	_	7	prt	_	O
+9	country	country	NN	_	10	compound	_	O
+10	songs	song	NNS	_	7	dobj	_	O
+

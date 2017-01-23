@@ -1,0 +1,17 @@
+1	Edifying	edifying	JJ	pos2=VBG	16	nmod	_	O
+2	»	»	NFP	pos2=IN	16	punct	_	O
+3	What	what	WDT	pos2=WP	4	nsubj	_	O
+4	changes	change	VBZ	pos2=NNS	2	pcomp	_	O
+5	when	when	WRB	_	8	advmod	_	O
+6	Pope	pope	NNP	_	7	compound	_	O
+7	Francis	francis	NNP	_	8	nsubj	_	U-PERSON
+8	grants	grant	VBZ	_	4	advcl	_	O
+9	all	all	DT	_	10	det	_	O
+10	priests	priest	NNS	_	8	dative	_	O
+11	the	the	DT	_	12	det	_	O
+12	authority	authority	NN	_	8	dobj	_	O
+13	to	to	TO	_	14	aux	_	O
+14	forgive	forgive	VB	_	12	acl	_	O
+15	abortions	abortion	NNS	_	14	dobj	_	O
+16	https://t.co/CKDh1SkQgJ	#hlink#	ADD	_	0	root	_	O
+

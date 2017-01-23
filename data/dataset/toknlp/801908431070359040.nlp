@@ -1,0 +1,17 @@
+1	U	u	NN	pos2=NNP	8	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	#Memphis	#memphis	NNP	pos2=PRP$	4	compound	_	U-ORG
+4	student	student	NN	_	7	compound	_	O
+5	Nadine	nadine	NNP	_	7	compound	_	B-PERSON
+6	Taha	taha	NNP	_	7	compound	_	L-PERSON
+7	@Nadine_M_Taha	@nadine_m_taha	NNP	pos2=NN	2	pobj	_	O
+8	justifies	justify	VBZ	_	0	root	_	O
+9	#Hamas	#hamas	NNP	pos2=NNPS	8	dobj	_	U-ORG
+10	and	and	CC	_	8	cc	_	O
+11	glorifies	glorify	VBZ	_	8	conj	_	O
+12	terrorism	terrorism	NN	_	11	dobj	_	O
+13	.	.	.	_	8	punct	_	O
+
+1	https://t.co/sPSAS8F5lO	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/NetKZSKu5I	#hlink#	ADD	_	0	root	_	U-ORG
+

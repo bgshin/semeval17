@@ -1,0 +1,10 @@
+1	BREAKING	breaking	NN	pos2=VBG	4	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	Donald	donald	NNP	_	4	compound	_	B-PERSON
+4	Trump	trump	NNP	_	6	poss	_	I-PERSON
+5	’s	's	POS	_	4	case	_	L-PERSON
+6	Medicare	medicare	NNP	_	7	nmod	_	U-ORG
+7	https://t.co/cToNbHSH07	#hlink#	ADD	pos2=NNPS	0	root	_	O
+8	#thetimeisnow	#thetimeisnow	UH	pos2=-RRB-	6	discourse	_	O
+9	!!!	!!	.	_	6	punct	_	O
+

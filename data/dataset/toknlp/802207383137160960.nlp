@@ -1,0 +1,7 @@
+1	Attempt	attempt	NN	pos2=VB	2	compound	_	O
+2	#	#	NN	_	6	dep	_	O
+3	1	0	CD	pos2=LS	2	nmod	_	U-MONEY
+4	#mannequinchallenge	#mannequinchallenge	:	pos2=IN	6	punct	_	O
+5	#dogs	#dogs	NNS	pos2=ADD	6	dep	_	O
+6	https://t.co/TUPMoKm4P0	#hlink#	ADD	_	0	root	_	O
+

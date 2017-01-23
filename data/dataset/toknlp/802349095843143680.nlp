@@ -1,0 +1,22 @@
+1	@CherylReynolds	@cherylreynolds	NNS	pos2=VBZ	3	discourse	_	O
+2	He	he	PRP	_	3	nsubj	_	O
+3	Sounds	sound	VBZ	_	12	advcl	_	O
+4	Like	like	IN	_	3	prep	_	O
+5	A	a	DT	pos2=NNP	7	det	_	O
+6	Great	great	JJ	pos2=NNP	7	nmod	_	O
+7	Secretary	secretary	NNP	_	4	pobj	_	O
+8	Of	of	IN	pos2=NNP	7	prep	_	O
+9	State	state	NNP	_	8	pobj	_	U-ORG
+10	,	,	,	_	12	punct	_	O
+11	I	I	PRP	pos2=NNP	12	nsubj	_	O
+12	Hope	hope	VBP	_	0	root	_	O
+13	That	that	IN	pos2=DT	15	mark	_	O
+14	Trump	trump	NNP	pos2=NN	15	nsubj	_	U-ORG
+15	Gets	get	VBZ	_	12	ccomp	_	O
+16	More	more	JJR	_	18	nmod	_	O
+17	Transition	transition	NN	pos2=NNP	18	compound	_	O
+18	Personnel	personnel	NNS	pos2=NNP	15	dobj	_	O
+19	Just	just	RB	pos2=NNP	20	advmod	_	O
+20	Like	like	IN	_	18	prep	_	O
+21	Kris	kris	NNP	_	20	pobj	_	U-PERSON
+

@@ -1,0 +1,33 @@
+1	@michiganlions	@michiganlions	NNS	pos2=UH	7	nsubj	_	O
+2	@KingBronko	@kingbronko	IN	pos2=POS	1	prep	_	O
+3	Steve	steve	NNP	_	4	compound	_	B-PERSON
+4	Bannon	bannon	NNP	_	2	pobj	_	L-PERSON
+5	wo	wo	MD	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	count	count	VB	_	0	root	_	O
+8	lol	lol	UH	pos2=NN	7	discourse	_	O
+9	.	.	.	_	7	punct	_	O
+
+1	Also	also	RB	_	5	advmod	_	O
+2	,	,	,	_	5	punct	_	O
+3	I	I	PRP	_	5	nsubj	_	O
+4	am	be	VBP	_	5	aux	_	O
+5	gon	gon	VBG	_	0	root	_	O
+6	na	to	TO	_	7	aux	_	O
+7	need	need	VB	_	5	xcomp	_	O
+8	a	a	DT	_	9	det	_	O
+9	definition	definition	NN	_	7	dobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	alt	alt	NN	pos2=JJ	13	npadvmod	_	O
+12	-	-	HYPH	_	13	punct	_	O
+13	right	right	JJ	pos2=UH	10	pobj	_	O
+14	,	,	,	_	5	punct	_	O
+15	because	because	IN	_	17	mark	_	O
+16	I	I	PRP	_	17	nsubj	_	O
+17	have	have	VBP	_	5	advcl	_	O
+18	no	no	DT	_	19	det	_	O
+19	idea	idea	NN	_	17	dobj	_	O
+20	what	what	WP	_	22	attr	_	O
+21	it	it	PRP	_	22	nsubj	_	O
+22	is	be	VBZ	_	19	relcl	_	O
+

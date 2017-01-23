@@ -1,0 +1,11 @@
+1	Galaxy	galaxy	NNP	pos2=NN	2	compound	_	O
+2	Note	note	NN	pos2=VBP	5	nsubj	_	O
+3	7	0	CD	_	4	nmod	_	U-CARDINAL
+4	fail	fail	NN	pos2=VBP	5	nsubj	_	O
+5	opens	open	VBZ	pos2=JJ	0	root	_	O
+6	door	door	NN	_	5	dobj	_	O
+7	for	for	IN	_	5	prep	_	O
+8	rivals	rival	NNS	pos2=GW	7	pobj	_	O
+9	https://t.co/4a5HuJKAjX	#hlink#	ADD	_	10	nmod	_	O
+10	https://t.co/WTiFHDv1zJ	#hlink#	ADD	_	6	appos	_	U-ORG
+

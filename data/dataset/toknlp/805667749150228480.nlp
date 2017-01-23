@@ -1,0 +1,9 @@
+1	Signature	signature	NN	_	3	dep	_	O
+2	:	:	:	_	3	punct	_	O
+3	Russia	russia	NNP	_	0	root	_	U-GPE
+4	!	!	.	_	3	punct	_	O
+
+1	#StandWithAleppo	#standwithaleppo	GW	pos2=XX	3	nmod	_	B-PERSON
+2	#Aleppo	#aleppo	GW	pos2=-LRB-	3	nmod	_	L-PERSON
+3	https://t.co/l1PwKQX2sx	#hlink#	ADD	pos2=NN	0	root	_	O
+

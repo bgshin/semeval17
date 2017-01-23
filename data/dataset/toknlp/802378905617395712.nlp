@@ -1,0 +1,20 @@
+1	If	if	IN	_	3	mark	_	O
+2	#work	#work	NN	pos2=EX	3	nsubj	_	O
+3	is	be	VBZ	_	8	advcl	_	O
+4	for	for	IN	_	3	prep	_	O
+5	#robots	#robots	NNS	pos2=NNPS	4	pobj	_	O
+6	&	&	CC	_	5	cc	_	O
+7	#life	#life	NN	pos2=EX	5	conj	_	O
+8	is	be	VBZ	_	0	root	_	O
+9	for	for	IN	_	8	prep	_	O
+10	humans	human	NNS	_	9	pobj	_	O
+11	then	then	RB	_	12	advmod	_	O
+12	start	start	VBP	pos2=VB	8	advcl	_	O
+13	doing	do	VBG	_	12	xcomp	_	O
+14	this	this	DT	_	13	dobj	_	O
+15	right	right	RB	pos2=NN	16	advmod	_	O
+16	now	now	RB	_	13	advmod	_	O
+17	!	!	.	_	8	punct	_	O
+
+1	https://t.co/bOle8CB82y	#hlink#	ADD	_	0	root	_	U-ORG
+

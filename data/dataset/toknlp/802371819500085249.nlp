@@ -1,0 +1,26 @@
+1	@MasonRMcClellan	@masonrmcclellan	NNP	pos2=IN	2	compound	_	O
+2	Medicaid	medicaid	NNP	_	3	nsubj	_	U-ORG
+3	is	be	VBZ	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	main	main	JJ	_	6	nmod	_	O
+6	cause	cause	NN	_	3	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	ER	er	NN	_	9	compound	_	O
+9	overcrowding	overcrowding	NN	_	7	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	Medicaid	medicaid	NNP	pos2=NN	2	compound	_	U-ORG
+2	patients	patient	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	8x	0x	RB	pos2=CD	6	advmod	_	O
+5	more	more	RBR	_	6	advmod	_	O
+6	likely	likely	JJ	_	3	acomp	_	O
+7	to	to	TO	_	8	aux	_	O
+8	go	go	VB	_	6	xcomp	_	O
+9	to	to	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	ER	er	NN	_	9	pobj	_	O
+12	for	for	IN	_	8	prep	_	O
+13	non-emergencies	non-emergencies	NNS	_	12	pobj	_	O
+14	.	.	.	_	3	punct	_	O
+

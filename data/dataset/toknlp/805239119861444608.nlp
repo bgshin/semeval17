@@ -1,0 +1,25 @@
+1	@peterdaou	@peterdaou	UH	pos2=PRP	0	root	_	O
+2	or	or	CC	_	3	cc	_	O
+3	when	when	WRB	_	8	advmod	_	O
+4	Democrat	democrat	NNP	pos2=JJ	5	compound	_	U-NORP
+5	leaders	leader	NNS	_	8	nsubj	_	O
+6	did	do	VBD	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	care	care	VB	_	1	advcl	_	O
+9	when	when	WRB	_	19	advmod	_	O
+10	Afghani	afghani	JJ	pos2=NNP	13	nmod	_	U-NORP
+11	and	and	CC	_	10	cc	_	O
+12	Iraqi	iraqi	JJ	_	10	conj	_	U-NORP
+13	children	child	NNS	_	19	nsubjpass	_	O
+14	and	and	CC	_	13	cc	_	O
+15	innocent	innocent	JJ	_	16	nmod	_	O
+16	adults	adult	NNS	_	13	conj	_	O
+17	have	have	VBP	_	19	aux	_	O
+18	been	be	VBN	_	19	auxpass	_	O
+19	killed	kill	VBN	_	8	advcl	_	O
+20	by	by	IN	_	19	agent	_	O
+21	their	their	PRP$	_	23	poss	_	O
+22	drone	drone	NN	_	23	compound	_	O
+23	strikes	strike	NNS	_	20	pobj	_	O
+24	?	?	.	_	22	punct	_	O
+

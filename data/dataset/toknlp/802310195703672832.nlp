@@ -1,0 +1,18 @@
+1	They	they	PRP	_	2	nsubj	_	O
+2	remixing	remix	VBG	pos2=VBP	0	root	_	O
+3	all	all	DT	pos2=RB	2	dobj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	Usher	usher	NNP	_	7	poss	_	U-PERSON
+6	's	's	POS	_	5	case	_	O
+7	classics	classic	NNS	_	4	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	And	and	CC	_	5	cc	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	mind	mind	VB	_	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+

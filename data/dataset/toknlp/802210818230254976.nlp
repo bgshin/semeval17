@@ -1,0 +1,16 @@
+1	The	the	DT	_	5	det	_	O
+2	latest	late	JJS	_	5	nmod	_	O
+3	STOP	stop	NN	pos2=VBP	5	nmod	_	O
+4	ETHNIC	ethnic	JJ	_	5	nmod	_	O
+5	CLEANSING	cleansing	NN	_	0	root	_	O
+6	OF	of	IN	_	5	prep	_	O
+7	PALESTINE	palestine	NNP	pos2=NN	6	pobj	_	U-GPE
+8	!	!	.	_	5	punct	_	O
+
+1	https://t.co/jzfRDpvyXv	#hlink#	ADD	pos2=NN	0	root	_	O
+2	Thanks	thanks	NNS	pos2=NN	1	npadvmod	_	O
+3	to	to	IN	_	2	prep	_	O
+4	@stichtingros	@stichtingros	NNS	pos2=VB	3	pobj	_	O
+5	#palestine	#palestine	UH	pos2=PRP	1	discourse	_	O
+6	#israel	#israel	UH	pos2=.	1	discourse	_	O
+

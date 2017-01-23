@@ -1,0 +1,13 @@
+1	@FoxNews	@foxnews	UH	pos2=NNS	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	hope	hope	VBP	_	0	root	_	O
+4	they	they	PRP	_	5	nsubj	_	O
+5	keep	keep	VBP	pos2=VB	3	ccomp	_	O
+6	Pelosi	pelosi	NNP	_	5	dobj	_	U-PERSON
+7	so	so	RB	pos2=IN	9	advmod	_	O
+8	it	it	PRP	_	9	nsubj	_	O
+9	's	's	VBZ	_	3	ccomp	_	O
+10	business	business	NN	_	9	attr	_	O
+11	as	as	IN	_	10	prep	_	O
+12	usual	usual	JJ	_	11	pcomp	_	O
+

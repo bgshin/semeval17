@@ -1,0 +1,24 @@
+1	The	the	DT	_	7	det	_	O
+2	22	0	CD	_	4	nmod	_	B-DATE
+3	-	-	HYPH	_	4	punct	_	I-DATE
+4	year	year	NN	_	6	npadvmod	_	I-DATE
+5	-	-	HYPH	_	6	punct	_	I-DATE
+6	old	old	JJ	_	7	nmod	_	L-DATE
+7	faces	face	NNS	pos2=VBZ	0	root	_	O
+8	33	0	CD	_	10	nmod	_	U-CARDINAL
+9	federal	federal	JJ	_	10	nmod	_	O
+10	charges	charge	NNS	_	7	appos	_	O
+11	stemming	stem	VBG	_	10	acl	_	O
+12	from	from	IN	_	11	prep	_	O
+13	the	the	DT	_	16	det	_	O
+14	June	june	NNP	_	16	nmod	_	B-DATE
+15	2015	0	CD	_	14	nmod	_	L-DATE
+16	shooting	shooting	NN	pos2=VBG	12	pobj	_	O
+17	that	that	WDT	_	18	nsubj	_	O
+18	killed	kill	VBD	_	16	relcl	_	O
+19	nine	#crd#	CD	_	20	nmod	_	U-CARDINAL
+20	parishioners	parishioner	NNS	_	18	dobj	_	O
+21	.	.	.	_	7	punct	_	O
+
+1	https://t.co/ySP1xDYuk1	#hlink#	ADD	_	0	root	_	U-ORG
+

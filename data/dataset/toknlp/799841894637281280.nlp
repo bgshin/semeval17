@@ -1,0 +1,11 @@
+1	BREAKING	break	VBG	pos2=NN	2	nmod	_	O
+2	NEWS	news	NN	pos2=NNP	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Miron	miron	NNP	_	5	compound	_	B-PERSON
+5	Ebell	ebell	NNP	_	3	pobj	_	L-PERSON
+6	!!!	!!	.	_	2	punct	_	O
+
+1	#TrumpTransitionTeam	#trumptransitionteam	GW	pos2=XX	3	nmod	_	O
+2	#EPA	#epa	GW	pos2=NFP	3	nmod	_	O
+3	https://t.co/yjr0TXF48k	#hlink#	ADD	pos2=NN	0	root	_	O
+

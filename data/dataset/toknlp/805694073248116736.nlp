@@ -1,0 +1,11 @@
+1	Dave	dave	NNP	_	3	poss	_	U-PERSON
+2	's	's	POS	pos2=VBZ	1	case	_	O
+3	worried	worried	JJ	_	0	root	_	O
+4	about	about	IN	_	3	prep	_	O
+5	Le	le	NNP	pos2=NN	6	compound	_	B-ORG
+6	Pen	pen	NNP	_	7	compound	_	L-ORG
+7	victory	victory	NN	_	4	pobj	_	O
+8	!	!	.	_	3	punct	_	O
+
+1	https://t.co/j7n17yoTcz	#hlink#	ADD	_	0	root	_	U-ORG
+

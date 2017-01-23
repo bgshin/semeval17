@@ -1,0 +1,29 @@
+1	If	if	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	dislike	dislike	VBP	_	11	advcl	_	O
+4	someone	someone	NN	_	3	dobj	_	O
+5	because	because	IN	_	3	prep	_	O
+6	of	of	IN	_	5	pcomp	_	O
+7	skin	skin	NN	_	8	compound	_	O
+8	colour	colour	NN	_	5	pobj	_	O
+9	,	,	,	_	11	punct	_	O
+10	you	you	PRP	_	11	nsubj	_	O
+11	're	be	VBP	_	0	root	_	O
+12	a	a	DT	_	13	det	_	O
+13	muppet	muppet	NN	_	11	attr	_	O
+14	.	.	.	_	11	punct	_	O
+
+1	If	if	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	're	be	VBP	_	11	advcl	_	O
+4	concerned	concerned	JJ	pos2=VBN	3	acomp	_	O
+5	about	about	IN	_	4	prep	_	O
+6	mass	mass	NN	pos2=JJ	7	compound	_	O
+7	immigration	immigration	NN	_	5	pobj	_	O
+8	,	,	,	_	11	punct	_	O
+9	you	you	PRP	_	11	nsubjpass	_	O
+10	're	be	VBP	_	11	auxpass	_	O
+11	entitled	entitle	VBN	pos2=JJ	0	root	_	O
+12	to	to	IN	pos2=TO	11	prep	_	O
+13	be.#SkyNews	be.#skynews	NNP	pos2=.	12	pobj	_	O
+

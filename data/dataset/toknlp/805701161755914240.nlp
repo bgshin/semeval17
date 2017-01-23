@@ -1,0 +1,12 @@
+1	R	r	JJ	pos2=VB	2	nmod	_	O
+2	u	u	AFX	pos2=PRP	3	advmod	_	O
+3	happy	happy	JJ	_	0	root	_	O
+4	with	with	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	win	win	NN	_	4	pobj	_	O
+7	over	over	IN	_	6	prep	_	O
+8	North	north	NNP	pos2=JJ	9	compound	_	B-LOC
+9	#Dakota	#dakota	NNP	pos2=POS	11	compound	_	L-LOC
+10	access	access	NN	pos2=GW	11	compound	_	O
+11	pipeline?#Westworld#TheWalkingDead#MariahsWorld#ChristmasAHorrorMovie#SecretsAndLies	pipeline?#westworld#thewalkingdead#mariahsworld#christmasahorrormovie#secretsandlies	NNS	pos2=ADD	7	pobj	_	O
+

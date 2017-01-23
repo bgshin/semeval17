@@ -1,0 +1,4 @@
+1	FUCK	fuck	NN	pos2=VB	3	compound	_	O
+2	BOB	bob	NNP	pos2=NN	3	compound	_	B-PERSON
+3	DYLAN	dylan	NNP	pos2=NN	0	root	_	L-PERSON
+

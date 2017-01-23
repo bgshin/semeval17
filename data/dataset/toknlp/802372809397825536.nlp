@@ -1,0 +1,19 @@
+1	@HuffPostPol	@huffpostpol	NN	pos2=NNP	2	compound	_	O
+2	Thanks	thanks	NNS	pos2=NN	0	root	_	O
+3	to	to	IN	_	2	prep	_	O
+4	all	all	DT	pos2=PDT	3	pobj	_	O
+5	that	that	WDT	pos2=DT	6	nsubj	_	O
+6	voted	vote	VBD	_	4	relcl	_	O
+7	to	to	TO	_	8	aux	_	O
+8	trade	trade	VB	_	6	xcomp	_	O
+9	their	their	PRP$	_	11	poss	_	O
+10	social	social	JJ	_	11	nmod	_	O
+11	security	security	NN	_	8	dobj	_	O
+12	and	and	CC	_	11	cc	_	O
+13	Medicare	medicare	NNP	pos2=NN	11	conj	_	U-ORG
+14	for	for	IN	_	8	prep	_	O
+15	an	an	DT	_	17	det	_	O
+16	imaginary	imaginary	JJ	_	17	nmod	_	O
+17	wall	wall	NN	_	14	pobj	_	O
+18	.	.	.	_	2	punct	_	O
+

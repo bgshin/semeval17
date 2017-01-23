@@ -1,0 +1,9 @@
+1	Fidel	fidel	NNP	_	2	compound	_	B-PERSON
+2	Castro	castro	NNP	_	4	dep	_	L-PERSON
+3	:	:	:	_	4	punct	_	O
+4	Master	master	NNP	pos2=NN	0	root	_	O
+5	of	of	IN	_	4	prep	_	O
+6	His	his	PRP$	_	7	poss	_	O
+7	Image	image	NN	pos2=NNP	5	pobj	_	O
+8	https://t.co/fAMrncHdok	#hlink#	ADD	_	4	appos	_	O
+

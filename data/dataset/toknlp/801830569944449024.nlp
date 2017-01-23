@@ -1,0 +1,20 @@
+1	Leo	leo	NNP	_	2	compound	_	B-PERSON
+2	Messi	messi	NNP	_	3	nsubj	_	L-PERSON
+3	delivered	deliver	VBD	_	0	root	_	O
+4	59	0	CD	_	6	nmod	_	U-CARDINAL
+5	completed	complete	VBN	pos2=VBD	6	nmod	_	O
+6	passes	pass	NNS	pos2=VBZ	3	dobj	_	O
+7	in	in	IN	_	3	prep	_	O
+8	Glsagow	glsagow	NNP	_	7	pobj	_	U-GPE
+9	.	.	.	_	3	punct	_	O
+
+1	More	more	JJR	_	2	nmod	_	O
+2	stats	stat	NNS	_	7	dep	_	O
+3	like	like	IN	pos2=VBP	2	prep	_	O
+4	this	this	DT	_	3	pobj	_	O
+5	here	here	RB	_	2	advmod	_	O
+6	:	:	:	_	9	punct	_	O
+7	https://t.co/bDIVWNtQjl	#hlink#	ADD	pos2=JJ	9	dep	_	O
+8	#FCBlive	#fcblive	ADD	pos2=GW	0	root	_	O
+9	https://t.co/HNrjb7F8sU	#hlink#	ADD	pos2=NN	8	pobj	_	O
+

@@ -1,0 +1,13 @@
+1	Here	here	RB	_	2	advmod	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	a	a	DT	_	6	det	_	O
+4	Leonard	leonard	NNP	_	5	compound	_	B-PERSON
+5	Cohen	cohen	NNP	_	6	compound	_	L-PERSON
+6	song	song	NN	_	2	nsubj	_	O
+7	that	that	WDT	pos2=IN	9	dobj	_	O
+8	I	I	PRP	_	9	nsubj	_	O
+9	like	like	VBP	pos2=VBD	6	relcl	_	O
+10	a	a	DT	_	11	det	_	O
+11	lot	lot	NN	_	12	npadvmod	_	O
+12	https://t.co/cHHGvHsiZ0	#hlink#	ADD	pos2=NN	6	appos	_	U-ORG
+

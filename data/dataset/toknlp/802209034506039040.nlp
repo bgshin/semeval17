@@ -1,0 +1,27 @@
+1	@ezlusztig	@ezlusztig	UH	pos2=XX	9	discourse	_	O
+2	@RandyEBarnett	@randyebarnett	NNP	pos2=WP	9	nsubj	_	U-PERSON
+3	Actually	actually	RB	_	9	advmod	_	O
+4	your	your	PRP$	_	6	poss	_	O
+5	popular	popular	JJ	_	6	nmod	_	O
+6	vote	vote	NN	_	9	nsubj	_	O
+7	does	do	VBZ	_	9	aux	_	O
+8	n't	not	RB	_	9	neg	_	O
+9	count	count	VB	_	0	root	_	O
+10	at	at	RB	_	11	advmod	_	O
+11	all	all	RB	_	9	advmod	_	O
+12	.	.	.	_	9	punct	_	O
+
+1	Only	only	RB	_	4	advmod	_	O
+2	your	your	PRP$	_	4	poss	_	O
+3	EC	ec	NNP	pos2=JJ	4	compound	_	U-ORG
+4	votes	vote	NNS	pos2=VBZ	5	nsubj	_	O
+5	count	count	VBP	pos2=NN	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	Just	just	RB	_	2	advmod	_	O
+2	like	like	IN	pos2=UH	0	root	_	O
+3	every	every	DT	_	5	det	_	O
+4	other	other	JJ	_	5	nmod	_	O
+5	state	state	NN	_	2	pobj	_	O
+6	.	.	.	_	2	punct	_	O
+

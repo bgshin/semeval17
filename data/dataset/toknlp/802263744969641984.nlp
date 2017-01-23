@@ -1,0 +1,10 @@
+1	Agreed	agree	VBD	pos2=VBN	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Tim	tim	NNP	_	2	compound	_	B-PERSON
+2	Duncan	duncan	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	legend	legend	NN	_	3	attr	_	O
+6	https://t.co/aKipViuHex	#hlink#	ADD	pos2=NN	5	acl	_	U-ORG
+

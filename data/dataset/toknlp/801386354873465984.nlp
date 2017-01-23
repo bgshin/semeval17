@@ -1,0 +1,25 @@
+1	@jimmyfallon	@jimmyfallon	XX	pos2=UH	18	dep	_	O
+2	1.	0.	LS	pos2=CD	18	meta	_	U-CARDINAL
+3	Emily	emily	NNP	pos2=XX	10	compound	_	O
+4	2.	0.	NNP	pos2=CD	10	compound	_	O
+5	Michel	michel	NNP	_	10	compound	_	O
+6	3.	0.	NNP	pos2=CD	10	compound	_	O
+7	Kirk	kirk	NNP	_	10	compound	_	O
+8	4.	0.	NNP	pos2=POS	10	compound	_	O
+9	TJ.	tj.	NNP	_	10	compound	_	O
+10	Love	love	NNP	pos2=VBP	0	root	_	U-WORK_OF_ART
+11	the	the	DT	_	13	det	_	O
+12	quirky	quirky	JJ	_	13	nmod	_	O
+13	ones	#crd#	NNS	_	10	appos	_	O
+14	and	and	CC	_	10	cc	_	O
+15	Emily	emily	NNP	_	10	conj	_	U-PERSON
+16	coz	coz	IN	pos2=VBD	18	mark	_	O
+17	she	she	PRP	_	18	nsubj	_	O
+18	's	's	VBZ	_	0	root	_	O
+19	such	such	PDT	_	21	predet	_	O
+20	a	a	DT	_	21	det	_	O
+21	BIATCH	biatch	NN	pos2=NNP	18	attr	_	O
+22	!	!	.	_	18	punct	_	O
+
+1	#gilmoregirlstop4	#gilmoregirlstop0	NN	pos2=LS	0	root	_	O
+

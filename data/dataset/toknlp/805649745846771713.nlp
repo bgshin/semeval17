@@ -1,0 +1,26 @@
+1	@Brialalexi	@brialalexi	NNP	pos2=NNS	5	compound	_	U-ORG
+2	CA	ca	NN	pos2=MD	5	compound	_	O
+3	voter	voter	NN	_	4	compound	_	O
+4	registration	registration	NN	_	5	compound	_	O
+5	system	system	NN	_	7	nsubjpass	_	O
+6	is	be	VBZ	_	7	auxpass	_	O
+7	set	set	VBN	_	0	root	_	O
+8	up	up	RP	_	7	prt	_	O
+9	for	for	IN	_	7	prep	_	O
+10	illegals	illegal	NNS	_	9	pobj	_	O
+11	,	,	,	_	7	punct	_	O
+12	min	min	JJ	pos2=NN	14	nmod	_	O
+13	req	req	NN	pos2=JJ	14	compound	_	O
+14	ID	id	NN	_	10	conj	_	O
+15	to	to	TO	_	16	aux	_	O
+16	get	get	VB	_	7	advcl	_	O
+17	DL	dl	NNP	pos2=NN	16	dobj	_	U-ORG
+18	,	,	,	_	21	punct	_	O
+19	voter	voter	NN	_	20	compound	_	O
+20	registration	registration	NN	_	21	nsubj	_	O
+21	is	be	VBZ	_	7	conj	_	O
+22	automatic	automatic	JJ	_	21	acomp	_	O
+23	unless	unless	IN	_	25	mark	_	O
+24	not	not	RB	_	25	neg	_	O
+25	requested	request	VBN	_	21	advcl	_	O
+

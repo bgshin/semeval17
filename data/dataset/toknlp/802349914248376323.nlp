@@ -1,0 +1,10 @@
+1	Pelosi	pelosi	NNP	_	2	compound	_	B-PERSON
+2	Challenger	challenger	NNP	_	3	nsubj	_	L-PERSON
+3	Brings	bring	VBZ	pos2=NNP	0	root	_	O
+4	‘	'	``	pos2=''	3	punct	_	O
+5	Industrial	industrial	NNP	pos2=JJ	6	compound	_	O
+6	Midwest	midwest	NNP	_	8	poss	_	U-LOC
+7	’	'	POS	pos2=''	6	case	_	O
+8	Perspective	perspective	NN	pos2=NNP	3	dobj	_	O
+9	https://t.co/ajQfSqAfSq	#hlink#	ADD	_	8	appos	_	O
+

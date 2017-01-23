@@ -1,0 +1,22 @@
+1	David	david	NNP	_	2	compound	_	B-PERSON
+2	Blaine	blaine	NNP	_	8	poss	_	I-PERSON
+3	's	's	POS	_	2	case	_	L-PERSON
+4	Frog	frog	NNP	_	8	compound	_	B-WORK_OF_ART
+5	Trick	trick	NNP	pos2=NN	7	compound	_	I-WORK_OF_ART
+6	-	-	HYPH	pos2=:	7	punct	_	I-WORK_OF_ART
+7	Illuminati	illuminati	NNP	_	8	compound	_	L-WORK_OF_ART
+8	Exposed	exposed	NNP	pos2=VBN	21	dep	_	O
+9	(	(	-LRB-	_	8	punct	_	O
+10	Satanic	satanic	JJ	pos2=NNP	12	advmod	_	U-NORP
+11	/	/	SYM	pos2=HYPH	12	punct	_	O
+12	Demonic	demonic	JJ	_	13	nmod	_	O
+13	Rituals	ritual	NNS	pos2=NNPS	8	appos	_	O
+14	)	)	-RRB-	_	8	punct	_	O
+15	[	[	-LRB-	_	16	punct	_	O
+16	LINK	link	NN	_	8	appos	_	O
+17	IN	in	IN	_	16	prep	_	O
+18	BIO	bio	NN	pos2=FW	17	pobj	_	O
+19	]	]	-RRB-	_	16	punct	_	O
+20	…	…	NFP	pos2=:	21	punct	_	O
+21	https://t.co/F3ICWIKNs8	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

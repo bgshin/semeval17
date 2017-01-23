@@ -1,0 +1,17 @@
+1	@BadAstronomer	@badastronomer	NNP	pos2=PRP$	2	compound	_	B-PERSON
+2	Trump	trump	NNP	pos2=NN	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	like	like	IN	pos2=UH	3	prep	_	O
+5	#TheWalkingDead	#thewalkingdead	NNP	pos2=XX	6	compound	_	B-PERSON
+6	Negan	negan	NNP	_	4	pobj	_	L-PERSON
+7	,	,	,	_	3	punct	_	O
+8	breaking	break	VBG	_	3	advcl	_	O
+9	people	people	NNS	_	8	dobj	_	O
+10	until	until	IN	_	12	mark	_	O
+11	they	they	PRP	_	12	nsubj	_	O
+12	are	be	VBP	_	8	advcl	_	O
+13	willing	willing	JJ	_	12	acomp	_	O
+14	to	to	TO	_	15	aux	_	O
+15	serve	serve	VB	_	13	xcomp	_	O
+16	.	.	.	_	3	punct	_	O
+

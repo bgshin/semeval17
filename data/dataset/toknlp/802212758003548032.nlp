@@ -1,0 +1,24 @@
+1	@Lejeffers3	@lejeffers0	NN	pos2=NNS	2	compound	_	O
+2	@Emilyj12	@emilyj0	NN	pos2=NNS	0	root	_	O
+3	@megynkelly	@megynkelly	RB	pos2=UH	4	advmod	_	O
+4	seriously	seriously	RB	_	2	advmod	_	O
+5	wow	wow	UH	pos2=RB	2	discourse	_	O
+6	!	!	.	_	2	punct	_	O
+
+1	So	so	RB	_	2	advmod	_	O
+2	awesome	awesome	JJ	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Looks	look	VBZ	_	0	root	_	O
+2	like	like	IN	_	5	mark	_	O
+3	I	I	PRP	_	5	nsubj	_	O
+4	'm	be	VBP	_	5	aux	_	O
+5	going	go	VBG	_	1	advcl	_	O
+6	to	to	TO	_	7	aux	_	O
+7	have	have	VB	_	5	xcomp	_	O
+8	to	to	TO	_	9	aux	_	O
+9	get	get	VB	_	7	xcomp	_	O
+10	a	a	DT	_	11	det	_	O
+11	copy	copy	NN	_	9	dobj	_	O
+12	to	to	IN	pos2=TO	9	prep	_	O
+

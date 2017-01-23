@@ -1,0 +1,14 @@
+1	#Polish	#polish	NNP	pos2=JJ	2	compound	_	U-GPE
+2	authorities	authority	NNS	_	3	nsubj	_	O
+3	want	want	VBP	_	0	root	_	O
+4	more	more	JJR	pos2=RBR	3	dobj	_	O
+5	#surveillance	#surveillance	IN	pos2=GW	3	dobj	_	O
+6	https://t.co/sa8hr2VRSG	#hlink#	ADD	_	12	nmod	_	O
+7	#Polska	#polska	NNP	pos2=IN	8	compound	_	B-PERSON
+8	#Poland	#poland	NNP	pos2=XX	12	vocative	_	L-PERSON
+9	#inwigilacja	#inwigilacja	UH	pos2=ADD	12	discourse	_	O
+10	#security	#security	UH	pos2=NN	12	discourse	_	O
+11	#bezpieczeństwo	#bezpieczeństwo	UH	pos2=CD	12	discourse	_	O
+12	#EU	#eu	NN	pos2=UH	5	pobj	_	O
+13	#encryption	#encryption	UH	pos2=NN	3	discourse	_	O
+

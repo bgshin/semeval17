@@ -1,0 +1,13 @@
+1	@megynkelly	@megynkelly	UH	pos2=RB	6	discourse	_	O
+2	@amazon	@amazon	UH	pos2=IN	6	discourse	_	O
+3	Canadian	canadian	JJ	_	4	nmod	_	U-NORP
+4	site	site	NN	_	6	nsubjpass	_	O
+5	is	be	VBZ	_	6	auxpass	_	O
+6	flooded	flood	VBN	_	0	root	_	O
+7	with	with	IN	_	6	prep	_	O
+8	fake	fake	JJ	_	9	nmod	_	O
+9	reviews	review	NNS	_	7	pobj	_	O
+10	on	on	IN	_	9	prep	_	O
+11	#SettleForMore	#settleformore	NN	pos2=NNP	10	pobj	_	O
+12	!	!	.	_	6	punct	_	O
+

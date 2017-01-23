@@ -1,0 +1,19 @@
+1	@novriltataki	@novriltataki	UH	pos2=XX	3	discourse	_	O
+2	they	they	PRP	_	3	nsubj	_	O
+3	tend	tend	VBP	_	13	ccomp	_	O
+4	to	to	TO	_	5	aux	_	O
+5	be	be	VB	_	3	xcomp	_	O
+6	leftists	leftist	NNS	_	5	attr	_	O
+7	or	or	CC	_	6	cc	_	O
+8	at	at	IN	_	9	advmod	_	O
+9	least	least	JJS	_	10	advmod	_	O
+10	interventionists	interventionist	NNS	_	6	conj	_	O
+11	so	so	RB	pos2=IN	13	advmod	_	O
+12	they	they	PRP	_	13	nsubj	_	O
+13	're	be	VBP	_	0	root	_	O
+14	a	a	DT	_	15	det	_	O
+15	bit	bit	NN	_	13	attr	_	O
+16	of	of	IN	_	15	prep	_	O
+17	a	a	DT	_	18	det	_	O
+18	problem	problem	NN	_	16	pobj	_	O
+

@@ -1,0 +1,16 @@
+1	Professor	professor	NNP	pos2=NN	3	compound	_	O
+2	James	james	NNP	_	3	compound	_	B-PERSON
+3	Small	small	NNP	_	5	dep	_	L-PERSON
+4	:	:	:	_	5	punct	_	O
+5	Gives	give	VBZ	_	0	root	_	O
+6	Us	us	NNP	pos2=PRP	5	dative	_	O
+7	The	the	DT	_	9	det	_	O
+8	Untold	untold	NNP	pos2=JJ	9	compound	_	O
+9	Story	story	NNP	pos2=NN	5	dobj	_	O
+10	Of	of	IN	pos2=NNP	9	prep	_	O
+11	Fidel	fidel	NNP	_	12	compound	_	B-PERSON
+12	Castro	castro	NNP	_	10	pobj	_	L-PERSON
+13	https://t.co/sNbkFnHOqQ	#hlink#	ADD	pos2=NNP	9	acl	_	O
+14	via	via	IN	_	5	prep	_	O
+15	@YouTube	@youtube	NNP	pos2=NN	14	pobj	_	O
+

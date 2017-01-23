@@ -1,0 +1,20 @@
+1	Unsurprisingly	unsurprisingly	RB	_	9	advmod	_	O
+2	,	,	,	_	9	punct	_	O
+3	both	both	DT	pos2=CC	6	preconj	_	O
+4	Marine	marine	NNP	pos2=JJ	6	compound	_	B-ORG
+5	Le	le	NNP	_	6	compound	_	I-ORG
+6	Pen	pen	NNP	_	9	nsubj	_	I-ORG
+7	&	&	CC	_	6	cc	_	I-ORG
+8	Farage	farage	NNP	_	6	conj	_	L-ORG
+9	choose	choose	VBP	pos2=VB	0	root	_	O
+10	wishfully	wishfully	RB	_	9	advmod	_	O
+11	to	to	TO	_	12	aux	_	O
+12	interpret	interpret	VB	_	9	xcomp	_	O
+13	the	the	DT	_	14	det	_	O
+14	#italyreferendum	#italyreferendum	NN	pos2=NNP	12	dobj	_	O
+15	as	as	IN	_	14	prep	_	O
+16	action	action	NN	_	15	pobj	_	O
+17	against	against	IN	_	16	prep	_	O
+18	#EU	#eu	NN	pos2=NNP	17	pobj	_	O
+19	...	..	.	pos2=,	9	punct	_	O
+

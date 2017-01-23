@@ -1,0 +1,12 @@
+1	4	0	CD	_	5	dep	_	U-CARDINAL
+2	great	great	JJ	_	4	nmod	_	O
+3	Black	black	NNP	pos2=JJ	4	compound	_	B-EVENT
+4	Friday	friday	NNP	_	5	nsubj	_	L-EVENT
+5	deals	deal	VBZ	pos2=NNS	0	root	_	O
+6	on	on	IN	pos2=RP	5	prep	_	O
+7	slightly	slightly	RB	_	8	advmod	_	O
+8	used	use	VBN	pos2=JJ	10	nmod	_	O
+9	NFL	nfl	NNP	_	10	compound	_	U-ORG
+10	quarterbacks	quarterback	NNS	_	6	pobj	_	O
+11	https://t.co/qYFwIywGRU	#hlink#	ADD	pos2=VBP	5	dep	_	O
+

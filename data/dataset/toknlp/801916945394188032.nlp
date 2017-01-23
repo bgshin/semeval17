@@ -1,0 +1,20 @@
+1	'	'	``	pos2=''	5	punct	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	was	be	VBD	_	5	aux	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	getting	get	VBG	_	0	root	_	O
+6	up	up	RP	pos2=IN	5	prt	_	O
+7	to	to	TO	_	8	aux	_	O
+8	get	get	VB	_	5	advcl	_	O
+9	a	a	DT	_	10	det	_	O
+10	teaspoon	teaspoon	NN	_	8	dobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	mayonnaise	mayonnaise	NN	_	11	pobj	_	O
+13	'	'	''	pos2=POS	14	punct	_	O
+14	😂	😂	NN	pos2=WDT	10	conj	_	O
+15	I	I	PRP	_	16	nsubj	_	O
+16	love	love	VBP	_	14	relcl	_	O
+17	#ScreamQueens	#screamqueens	NNS	pos2=PRP	16	dobj	_	U-ORG
+18	so	so	RB	_	19	advmod	_	O
+19	much	much	RB	pos2=JJ	16	advmod	_	O
+

@@ -1,0 +1,32 @@
+1	HistoryToLearn	historytolearn	NN	pos2=NNS	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	Muhammad	muhammad	NNP	_	4	compound	_	B-PERSON
+4	Ali	ali	NNP	_	5	nsubj	_	L-PERSON
+5	hugs	hug	VBZ	_	0	root	_	O
+6	Pelé	pelé	NNP	pos2=NN	5	dobj	_	U-PERSON
+7	at	at	IN	_	5	prep	_	O
+8	his	his	PRP$	_	10	poss	_	O
+9	goodbye	goodbye	NN	pos2=JJ	10	compound	_	O
+10	match	match	NN	pos2=RB	7	pobj	_	O
+11	.	.	.	_	5	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	said	say	VBD	_	0	root	_	O
+3	:	:	:	_	2	punct	_	O
+4	"	"	``	_	2	punct	_	O
+5	My	my	PRP$	_	6	poss	_	O
+6	friend	friend	NN	_	1	appos	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	My	my	PRP$	_	2	poss	_	O
+2	friend	friend	NN	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Now	now	RB	_	3	advmod	_	O
+2	there	there	EX	_	3	expl	_	O
+3	are	be	VBP	_	0	root	_	O
+4	two	#crd#	CD	_	3	attr	_	U-CARDINAL
+5	of	of	IN	_	4	prep	_	O
+6	…	…	NFP	pos2=-LRB-	5	pobj	_	O
+7	https://t.co/IPFzWaNOsG	#hlink#	ADD	_	3	dep	_	O
+

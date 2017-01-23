@@ -1,0 +1,20 @@
+1	2day	0day	NN	pos2=NNP	3	discourse	_	O
+2	we	we	PRP	_	3	nsubj	_	O
+3	celebrate	celebrate	VBP	_	0	root	_	O
+4	#Libya’n	#libya'n	NNP	pos2=CD	3	dobj	_	O
+5	#women	#women	IN	pos2=NNP	3	prep	_	O
+6	working	work	VBG	_	5	pcomp	_	O
+7	4	0	CD	pos2=NNP	8	nmod	_	U-CARDINAL
+8	peace	peace	NN	_	6	dobj	_	O
+9	,	,	,	_	8	punct	_	O
+10	protection	protection	NN	_	11	compound	_	O
+11	women	woman	NNS	_	8	appos	_	O
+12	&	&	CC	_	11	cc	_	O
+13	girls	girl	NNS	_	11	conj	_	O
+14	&	&	CC	_	6	cc	_	O
+15	supporting	support	VBG	_	6	conj	_	O
+16	#ViolenceAgainstWomen	#violenceagainstwomen	NNS	pos2=NN	15	dobj	_	O
+17	surv	surv	GW	pos2=JJ	19	nmod	_	O
+18	…	…	NFP	pos2=-LRB-	19	punct	_	O
+19	https://t.co/vS0Z4helCw	#hlink#	ADD	pos2=NN	3	dep	_	O
+

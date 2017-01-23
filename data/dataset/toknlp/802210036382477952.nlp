@@ -1,0 +1,18 @@
+1	#Valentines	#valentines	NNS	pos2=NNP	13	poss	_	O
+2	#Gifts	#gifts	POS	pos2=NNS	1	case	_	U-CARDINAL
+3	Polo	polo	NNP	pos2=NN	7	compound	_	B-PERSON
+4	Ralph	ralph	NNP	_	7	compound	_	I-PERSON
+5	Lauren	lauren	NNP	_	7	compound	_	L-PERSON
+6	Bear	bear	NNP	_	7	compound	_	O
+7	Plush	plush	NNP	pos2=JJ	13	nmod	_	O
+8	15	0	CD	_	17	dep	_	U-CARDINAL
+9	"	"	``	pos2=''	11	punct	_	O
+10	Jointed	jointed	JJ	pos2=VBN	11	nmod	_	O
+11	#TeddyBear	#teddybear	NN	pos2=NNP	13	nmod	_	O
+12	1997	0	CD	_	13	nmod	_	U-DATE
+13	Sweater	sweater	NN	pos2=NNP	17	dep	_	O
+14	Stuffed	stuff	VBN	pos2=NNP	17	nmod	_	O
+15	Animal	animal	NNP	pos2=NN	17	nmod	_	B-PERSON
+16	…	…	NFP	pos2=-LRB-	17	punct	_	L-PERSON
+17	https://t.co/qIggcJ7kmI	#hlink#	ADD	pos2=NN	0	root	_	O
+

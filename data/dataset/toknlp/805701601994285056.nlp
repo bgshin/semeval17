@@ -1,0 +1,9 @@
+1	Westworld.Damn.There	#hlink#	ADD	pos2=NN	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	life	life	NN	_	2	attr	_	O
+4	after	after	IN	_	3	prep	_	O
+5	Game	game	NN	pos2=NNP	4	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	Thrones	thrones	NNP	pos2=NNS	6	pobj	_	U-WORK_OF_ART
+8	.	.	.	_	2	punct	_	O
+

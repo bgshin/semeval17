@@ -1,0 +1,12 @@
+1	Full	full	JJ	_	2	nmod	_	O
+2	Gallery	gallery	NN	pos2=NNP	11	dep	_	O
+3	:	:	:	_	11	punct	_	O
+4	https://t.co/ao9DCcEziJAbigail	#hlink#	ADD	_	11	nmod	_	O
+5	Mac	mac	NNP	_	7	compound	_	B-ORG
+6	-	-	HYPH	pos2=:	7	punct	_	I-ORG
+7	Learning	learning	NNP	pos2=VBG	11	dep	_	L-ORG
+8	to	to	IN	pos2=TO	7	prep	_	O
+9	deep	deep	JJ	pos2=VB	10	nmod	_	O
+10	throat	throat	NN	_	8	pobj	_	O
+11	https://t.co/VvdyVSCNjJ	#hlink#	ADD	pos2=NN	0	root	_	O
+

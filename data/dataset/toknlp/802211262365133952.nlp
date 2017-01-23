@@ -1,0 +1,14 @@
+1	Donald	donald	NNP	_	2	compound	_	B-PERSON
+2	Trump	trump	NNP	_	3	nsubj	_	L-PERSON
+3	Owns	own	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	Stake	stake	NN	pos2=NNP	3	dobj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	the	the	DT	_	13	det	_	O
+8	Dakota	dakota	NNP	_	11	nmod	_	O
+9	Access	access	NNP	pos2=GW	11	nmod	_	O
+10	Pipeline	pipeline	GW	pos2=NN	11	nmod	_	O
+11	https://t.co/S0DeOxdPei	#hlink#	ADD	_	13	nmod	_	O
+12	#TrumpDirtyMoney	#trumpdirtymoney	-RRB-	pos2=ADD	11	punct	_	O
+13	#DakotaAccessPipeline	#dakotaaccesspipeline	NN	pos2=ADD	6	pobj	_	O
+

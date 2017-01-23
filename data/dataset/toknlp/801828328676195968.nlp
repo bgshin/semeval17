@@ -1,0 +1,20 @@
+1	@shlomikliab	@shlomikliab	UH	pos2=ADD	3	discourse	_	O
+2	#Hamas	#hamas	NNP	pos2=POS	3	nsubj	_	U-PERSON
+3	plays	play	VBZ	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	same	same	JJ	_	6	nmod	_	O
+6	game	game	NN	_	3	dobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	Real	real	JJ	_	2	nmod	_	O
+2	change	change	NN	_	4	nsubjpass	_	O
+3	is	be	VBZ	_	4	auxpass	_	O
+4	needed	need	VBN	_	0	root	_	O
+5	,	,	,	_	4	punct	_	O
+6	which	which	WDT	pos2=WP	7	nsubj	_	O
+7	is	be	VBZ	_	4	advcl	_	O
+8	why	why	WRB	_	11	advmod	_	O
+9	I	I	PRP	_	11	nsubj	_	O
+10	back	back	RB	pos2=VBP	11	advmod	_	O
+11	@Mudar_Zahran	@mudar_zahran	ADD	pos2=RB	7	advcl	_	U-DATE
+

@@ -1,0 +1,18 @@
+1	@yadavtejashwi	@yadavtejashwi	UH	pos2=XX	9	discourse	_	O
+2	@NitishKumar	@nitishkumar	GW	pos2=XX	9	punct	_	U-PERSON
+3	@HealthCareGov	@healthcaregov	GW	pos2=ADD	6	nmod	_	O
+4	@GovtofBihar	@govtofbihar	GW	pos2=ADD	6	nmod	_	U-PERSON
+5	@MoHFW_INDIA	@mohfw_india	GW	pos2=NN	6	nmod	_	U-ORG
+6	@htTweets	@httweets	POS	pos2=VBZ	8	nmod	_	O
+7	Jamui	jamui	NNP	_	8	compound	_	U-GPE
+8	hospital	hospital	NN	pos2=NNP	9	nsubj	_	O
+9	says	say	VBZ	_	0	root	_	O
+10	some	some	DT	_	11	det	_	O
+11	vaccines	vaccine	NNS	_	12	nsubj	_	O
+12	are	be	VBP	_	9	ccomp	_	O
+13	not	not	RB	_	12	neg	_	O
+14	avlbl	avlbl	JJ	pos2=VBN	12	acomp	_	O
+15	since	since	IN	_	12	prep	_	O
+16	1	0	CD	_	17	nmod	_	U-CARDINAL
+17	yr	yr	NN	pos2=NNS	15	pobj	_	O
+

@@ -1,0 +1,13 @@
+1	HEADLINE	headline	NN	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	#Tesla	#tesla	NNP	pos2=NN	3	compound	_	O
+2	Model	model	NNP	pos2=NN	3	compound	_	O
+3	S	s	NNP	pos2=POS	4	nsubj	_	O
+4	Swallows	swallow	VBZ	pos2=NNP	0	root	_	O
+5	Christmas	christmas	NNP	_	6	compound	_	O
+6	Tree	tree	NNP	pos2=NN	4	dobj	_	O
+7	!	!	.	_	4	punct	_	O
+
+1	https://t.co/I9LOYVgdDs	#hlink#	ADD	_	0	root	_	U-ORG
+

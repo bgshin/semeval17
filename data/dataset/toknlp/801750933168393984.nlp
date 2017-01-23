@@ -1,0 +1,32 @@
+1	Luis	luis	NNP	_	2	compound	_	B-PERSON
+2	Enrique	enrique	NNP	_	12	vocative	_	L-PERSON
+3	:	:	:	_	12	punct	_	O
+4	"	"	``	_	12	punct	_	O
+5	In	in	IN	_	12	prep	_	O
+6	the	the	DT	_	8	det	_	B-DATE
+7	first	#ord#	JJ	_	8	nmod	_	I-DATE
+8	half	half	NN	_	5	pobj	_	L-DATE
+9	I	I	PRP	_	12	nsubj	_	O
+10	ca	can	MD	_	12	aux	_	O
+11	n't	not	RB	_	12	neg	_	O
+12	remember	remember	VB	_	0	root	_	O
+13	Celtic	celtic	JJ	pos2=NNP	14	nsubj	_	U-NORP
+14	having	have	VBG	_	12	xcomp	_	O
+15	a	a	DT	_	17	det	_	O
+16	clear	clear	JJ	_	17	nmod	_	O
+17	chance	chance	NN	_	14	dobj	_	O
+18	and	and	CC	_	17	cc	_	O
+19	Messi	messi	NNP	_	17	conj	_	U-PERSON
+20	as	as	IN	_	17	prep	_	O
+21	usual	usual	JJ	pos2=NN	20	pcomp	_	O
+22	was	be	VBD	_	17	acl	_	O
+23	at	at	IN	_	22	prep	_	O
+24	a	a	DT	_	27	det	_	O
+25	really	really	RB	_	26	advmod	_	O
+26	high	high	JJ	_	27	nmod	_	O
+27	level	level	NN	_	23	pobj	_	O
+28	.	.	.	_	12	punct	_	O
+29	"	"	''	_	12	punct	_	O
+
+1	#fcblive	#fcblive	UH	pos2=XX	0	root	_	O
+

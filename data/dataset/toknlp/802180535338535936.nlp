@@ -1,0 +1,29 @@
+1	She	she	PRP	_	3	nsubj	_	O
+2	secretly	secretly	RB	_	3	advmod	_	O
+3	loved	love	VBD	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	satisfaction	satisfaction	NN	_	3	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	rejecting	reject	VBG	_	6	pcomp	_	O
+8	him	him	PRP	_	7	dobj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	She	she	PRP	_	2	nsubj	_	O
+2	wondered	wonder	VBD	_	0	root	_	O
+3	if	if	IN	_	5	mark	_	O
+4	that	that	DT	_	5	nsubj	_	O
+5	made	make	VBD	_	2	ccomp	_	O
+6	her	her	PRP	_	9	nsubj	_	O
+7	a	a	DT	_	9	det	_	O
+8	mean	mean	JJ	pos2=NN	9	nmod	_	O
+9	woman	woman	NN	_	5	ccomp	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	https	http	NNS	pos2=NN	7	dep	_	O
+2	:	:	:	_	7	punct	_	O
+3	//	//	NFP	pos2=-LRB-	7	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	Xhf6d7ucF2	xhf0d0ucf0	NN	pos2=NNS	7	compound	_	O
+7	#writeyourpassion	#writeyourpassion	NN	pos2=UH	0	root	_	O
+

@@ -1,0 +1,13 @@
+1	https://t.co/YDHWuqqZhQIf	#hlink#	ADD	_	3	discourse	_	O
+2	this	this	DT	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	true	true	JJ	_	3	acomp	_	O
+5	about	about	IN	_	4	prep	_	O
+6	Barron	barron	NNP	_	7	compound	_	B-PERSON
+7	Trump	trump	NNP	pos2=NN	5	pobj	_	L-PERSON
+8	it	it	PRP	_	9	nsubj	_	O
+9	is	be	VBZ	_	3	ccomp	_	O
+10	very	very	RB	_	11	advmod	_	O
+11	sad	sad	JJ	_	9	acomp	_	O
+12	.	.	.	_	3	punct	_	O
+

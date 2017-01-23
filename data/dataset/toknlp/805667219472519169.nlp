@@ -1,0 +1,26 @@
+1	@ProphetOfRagret	@prophetofragret	NN	pos2=NNS	6	advcl	_	O
+2	In	in	IN	_	1	prep	_	O
+3	fact	fact	NN	_	2	pobj	_	O
+4	,	,	,	_	6	punct	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	'm	be	VBP	_	0	root	_	O
+7	completely	completely	RB	_	8	advmod	_	O
+8	fine	fine	JJ	_	6	acomp	_	O
+9	with	with	IN	_	8	prep	_	O
+10	gloating	gloat	VBG	_	9	pcomp	_	O
+11	to	to	IN	_	10	prep	_	O
+12	them	them	PRP	_	11	pobj	_	O
+13	about	about	IN	_	10	prep	_	O
+14	the	the	DT	_	16	det	_	O
+15	2016	0	CD	_	16	nmod	_	U-DATE
+16	Cubs	cub	NNPS	pos2=NNP	13	pobj	_	U-ORG
+17	and	and	CC	_	13	cc	_	O
+18	about	about	IN	_	13	conj	_	O
+19	the	the	DT	_	20	det	_	O
+20	Sox	sox	NNP	pos2=NNPS	21	nsubj	_	U-ORG
+21	being	be	VBG	_	18	pcomp	_	O
+22	shit	shit	NN	pos2=VBN	21	attr	_	O
+23	right	right	RB	_	24	advmod	_	O
+24	now	now	RB	_	21	advmod	_	O
+25	.	.	.	_	6	punct	_	O
+

@@ -1,0 +1,26 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@MikeYenni	@mikeyenni	ADD	pos2=UH	2	compound	_	O
+2	@NOLAnews	@nolanews	NNP	pos2=NNPS	5	vocative	_	U-ORG
+3	Will	will	MD	_	5	aux	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	make	make	VB	_	0	root	_	O
+6	it	it	PRP	_	7	nsubj	_	O
+7	easier	easy	JJR	pos2=RBR	5	ccomp	_	O
+8	for	for	IN	_	11	mark	_	O
+9	you	you	PRP	_	11	nsubj	_	O
+10	to	to	TO	_	11	aux	_	O
+11	pick	pick	VB	_	7	advcl	_	O
+12	up	up	RP	_	11	prt	_	O
+13	underage	underage	JJ	_	14	nmod	_	O
+14	boys	boy	NNS	_	11	dobj	_	O
+15	?	?	.	_	5	punct	_	O
+
+1	Resign	resign	VB	_	0	root	_	O
+2	now	now	RB	_	1	advmod	_	O
+3	,	,	,	_	1	punct	_	O
+4	clown	clown	NN	pos2=UH	1	vocative	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	#UniteBlue	#uniteblue	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,13 @@
+1	More	more	RBR	pos2=JJR	2	advmod	_	O
+2	creepy	creepy	JJ	_	5	nmod	_	O
+3	Elton	elton	NNP	_	4	compound	_	B-PERSON
+4	John	john	NNP	_	5	compound	_	L-PERSON
+5	info	info	NN	pos2=NNP	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	#pizzagate	#pizzagate	UH	pos2=ADD	5	discourse	_	O
+2	#pedofiles	#pedofiles	UH	pos2=NNS	5	discourse	_	O
+3	#pedophiles	#pedophiles	UH	pos2=NNS	5	discourse	_	O
+4	#coverup	#coverup	UH	pos2=ADD	5	discourse	_	O
+5	https://t.co/kQnujXu96A	#hlink#	ADD	pos2=UH	0	root	_	O
+

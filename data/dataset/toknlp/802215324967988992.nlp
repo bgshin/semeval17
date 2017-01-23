@@ -1,0 +1,32 @@
+1	Stopped	stop	VBD	pos2=VBN	11	advcl	_	O
+2	mid-story	mid-story	JJ	pos2=NN	1	advmod	_	O
+3	for	for	IN	_	1	prep	_	O
+4	Thanksgiving	thanksgiving	NNP	_	3	pobj	_	U-DATE
+5	and	and	CC	_	3	cc	_	O
+6	to	to	TO	_	7	aux	_	O
+7	sell	sell	VB	_	1	advcl	_	O
+8	fudge	fudge	NN	pos2=NNS	7	dobj	_	O
+9	,	,	,	_	11	punct	_	O
+10	not	not	RB	_	11	neg	_	O
+11	got	get	VBN	pos2=VBD	0	root	_	O
+12	to	to	TO	_	13	aux	_	O
+13	get	get	VB	_	11	xcomp	_	O
+14	back	back	RB	_	13	advmod	_	O
+15	to	to	IN	_	14	prep	_	O
+16	it	it	PRP	_	15	pobj	_	O
+17	.	.	.	_	11	punct	_	O
+
+1	Have	have	VBP	pos2=VB	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	read	read	VB	_	1	xcomp	_	O
+4	what	what	WP	_	8	dobj	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	wrote	write	VBD	_	3	ccomp	_	O
+7	to	to	TO	_	8	aux	_	O
+8	get	get	VB	_	6	xcomp	_	O
+9	back	back	RB	_	8	advmod	_	O
+10	in	in	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	flow	flow	NN	_	10	pobj	_	O
+13	.	.	.	_	1	punct	_	O
+

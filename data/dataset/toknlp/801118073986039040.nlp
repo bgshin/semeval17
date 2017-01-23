@@ -1,0 +1,27 @@
+1	#ISIS	#isis	NN	pos2=NNP	2	nsubj	_	O
+2	claimed	claim	VBD	pos2=VBN	0	root	_	O
+3	responsibility	responsibility	NN	_	2	dobj	_	O
+4	for	for	IN	_	3	prep	_	O
+5	a	a	DT	_	7	det	_	O
+6	suicide	suicide	NN	_	7	compound	_	O
+7	op	op	NN	_	4	pobj	_	O
+8	,	,	,	_	2	punct	_	O
+9	launched	launch	VBN	_	2	advcl	_	O
+10	by	by	IN	_	9	agent	_	O
+11	#Morocco	#morocco	NNP	pos2=VBG	12	compound	_	O
+12	national	national	JJ	pos2=NNP	10	pobj	_	O
+13	,	,	,	_	9	punct	_	O
+14	in	in	IN	_	9	prep	_	O
+15	Al	al	NNP	_	17	compound	_	B-PERSON
+16	-	-	HYPH	_	17	punct	_	I-PERSON
+17	Intisar	intisar	NNP	_	14	pobj	_	L-PERSON
+18	,	,	,	_	17	punct	_	O
+19	E.#Mosul	e.#mosul	NNP	_	17	conj	_	U-ORG
+20	,	,	,	_	19	punct	_	O
+21	allegedly	allegedly	RB	_	22	advmod	_	O
+22	killing	kill	VBG	_	9	advcl	_	O
+23	18	0	CD	pos2=RP	22	dobj	_	U-CARDINAL
+24	.	.	.	_	2	punct	_	O
+
+1	#MosulOffensive	#mosuloffensive	ADD	pos2=JJ	0	root	_	O
+

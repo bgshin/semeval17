@@ -1,0 +1,16 @@
+1	Pelosi	pelosi	NNP	pos2=NN	3	nmod	_	U-PERSON
+2	Dear	dear	JJ	pos2=NNP	3	nmod	_	O
+3	Colleague	colleague	NN	pos2=NNP	5	dep	_	O
+4	:	:	:	_	5	punct	_	O
+5	Update	update	VB	pos2=NN	0	root	_	O
+6	on	on	IN	_	5	prep	_	O
+7	Conversations	conversation	NNS	pos2=NNP	6	pobj	_	O
+8	About	about	IN	_	7	prep	_	O
+9	Our	our	PRP$	pos2=NNP	10	poss	_	O
+10	Path	path	NN	pos2=NNP	8	pobj	_	O
+11	Moving	move	VBG	_	5	advcl	_	O
+12	Forward	forward	RB	pos2=NNP	11	advmod	_	O
+13	https://t.co/Xs2FPsmodB	#hlink#	ADD	pos2=RBR	11	npadvmod	_	O
+14	via	via	IN	_	11	prep	_	O
+15	@nancypelosi	@nancypelosi	NN	pos2=.	14	pobj	_	O
+

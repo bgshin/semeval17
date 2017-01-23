@@ -1,0 +1,13 @@
+1	A	a	DT	_	4	det	_	O
+2	topless	topless	JJ	pos2=NN	4	nmod	_	O
+3	Cristiano	cristiano	NNP	_	4	compound	_	B-PERSON
+4	Ronaldo	ronaldo	NNP	_	5	nsubj	_	L-PERSON
+5	shows	show	VBZ	_	0	root	_	O
+6	off	off	RP	pos2=IN	5	prt	_	O
+7	his	his	PRP$	_	11	poss	_	O
+8	nice	nice	JJ	_	11	nmod	_	O
+9	new	new	JJ	_	11	nmod	_	O
+10	CR7	cr0	NN	_	11	compound	_	U-PRODUCT
+11	blanket	blanket	NN	_	5	dobj	_	O
+12	https://t.co/OFJceoChOL	#hlink#	ADD	pos2=NN	11	appos	_	U-ORG
+

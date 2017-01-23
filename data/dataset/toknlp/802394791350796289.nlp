@@ -1,0 +1,17 @@
+1	SputnikInt	sputnikint	NN	pos2=NNP	0	root	_	O
+2	:	:	:	_	1	punct	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	NicolasMaduro	nicolasmaduro	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	puts	put	VBZ	_	0	root	_	O
+3	responsibility	responsibility	NN	_	2	dobj	_	O
+4	for	for	IN	_	3	prep	_	O
+5	#Venezuela	#venezuela	NNP	_	8	poss	_	U-ORG
+6	's	's	POS	_	5	case	_	O
+7	currency	currency	NN	_	8	compound	_	O
+8	drop	drop	NN	pos2=VB	4	pobj	_	O
+9	on	on	IN	_	8	prep	_	O
+10	US	us	NNP	pos2=GW	9	pobj	_	U-GPE
+11	https://t.co/9H6sKjT3r6	#hlink#	ADD	_	12	nmod	_	O
+12	https://t.co/xFT71zB53m	#hlink#	ADD	_	2	dep	_	U-ORG
+

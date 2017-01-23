@@ -1,0 +1,22 @@
+1	@kh07scott	@kh0scott	NNP	pos2=IN	3	vocative	_	O
+2	This	this	DT	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	what	what	WP	_	8	dative	_	O
+5	my	my	PRP$	_	7	poss	_	O
+6	Guardian	guardian	NNP	pos2=NN	7	compound	_	U-ORG
+7	angle	angle	NN	_	8	nsubj	_	O
+8	told	tell	VBD	_	3	ccomp	_	O
+9	me	me	PRP	_	8	dobj	_	O
+10	in	in	IN	_	8	prep	_	O
+11	a	a	DT	_	12	det	_	O
+12	dream	dream	NN	_	10	pobj	_	O
+13	.	.	.	_	3	punct	_	O
+
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	why	why	WRB	_	6	advmod	_	O
+4	abortion	abortion	NN	_	6	nsubj	_	O
+5	must	must	MD	pos2=NN	6	aux	_	O
+6	end	end	VB	_	2	ccomp	_	O
+7	.	.	.	_	2	punct	_	O
+

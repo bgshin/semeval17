@@ -1,0 +1,26 @@
+1	Thankful	thankful	JJ	_	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	my	my	PRP$	_	4	poss	_	O
+4	fam	fam	NN	_	2	pobj	_	O
+5	,	,	,	_	1	punct	_	O
+6	the	the	DT	_	7	det	_	O
+7	slores	slores	NNS	pos2=NN	4	appos	_	O
+8	,	,	,	_	7	punct	_	O
+9	house3	house0	NN	_	7	conj	_	O
+10	,	,	,	_	9	punct	_	O
+11	tswift	tswift	NN	pos2=RB	9	conj	_	O
+12	,	,	,	_	11	punct	_	O
+13	Grayson	grayson	NNP	_	14	compound	_	B-PERSON
+14	Allen	allen	NNP	_	11	conj	_	L-PERSON
+15	,	,	,	_	14	punct	_	O
+16	wine	wine	NN	_	14	conj	_	O
+17	,	,	,	_	16	punct	_	O
+18	cats	cat	NNS	_	16	conj	_	O
+19	,	,	,	_	18	punct	_	O
+20	and	and	CC	_	18	cc	_	O
+21	most	most	JJS	pos2=RBS	25	nsubj	_	O
+22	of	of	IN	_	21	prep	_	O
+23	all	all	DT	_	24	det	_	O
+24	cannolis	cannolis	NN	pos2=NNS	22	pobj	_	O
+25	♥️♥️#happyturkeyday	♥️♥️#happyturkeyday	.	pos2=NNP	1	punct	_	U-DATE
+

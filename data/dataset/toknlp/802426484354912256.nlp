@@ -1,0 +1,25 @@
+1	@ketorisaidso	@ketorisaidso	UH	pos2=NNP	10	discourse	_	O
+2	Meanwhile	meanwhile	RB	pos2=NNP	10	advmod	_	O
+3	,	,	,	_	10	punct	_	O
+4	the	the	DT	_	7	det	_	O
+5	whiny	whiny	JJ	_	7	nmod	_	O
+6	white	white	JJ	_	7	nmod	_	O
+7	millennials	millennial	NNS	pos2=NNPS	10	nsubj	_	O
+8	will	will	MD	_	10	aux	_	O
+9	now	now	RB	_	10	advmod	_	O
+10	get	get	VB	_	0	root	_	O
+11	to	to	TO	pos2=IN	12	aux	_	O
+12	live	live	VB	_	10	xcomp	_	O
+13	with	with	IN	_	12	prep	_	O
+14	a	a	DT	_	17	det	_	O
+15	shit	shit	NN	pos2=JJ	17	nmod	_	O
+16	minimum	minimum	JJ	pos2=NN	17	nmod	_	O
+17	wage	wage	NN	_	13	pobj	_	O
+18	,	,	,	_	17	punct	_	O
+19	no	no	DT	_	21	det	_	O
+20	overtime	overtime	NN	_	21	compound	_	O
+21	pay	pay	NN	pos2=VBP	16	dep	_	O
+22	,	,	,	_	21	punct	_	O
+23	no	no	DT	pos2=UH	24	det	_	O
+24	Obamacare	obamacare	NNP	pos2=NN	21	appos	_	U-PERSON
+

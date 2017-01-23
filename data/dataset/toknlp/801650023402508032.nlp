@@ -1,0 +1,14 @@
+1	4	0	CD	_	13	npadvmod	_	U-CARDINAL
+2	:	:	:	_	13	punct	_	O
+3	Lang	lang	NNP	pos2=NN	13	dep	_	O
+4	3	0	CD	_	3	nmod	_	U-CARDINAL
+5	:	:	:	_	13	punct	_	O
+6	Logan	logan	NNP	pos2=NN	13	dep	_	O
+7	2	0	CD	_	6	nmod	_	U-CARDINAL
+8	:	:	:	_	13	punct	_	O
+9	Luke	luke	NNP	pos2=NN	13	dep	_	O
+10	1	0	CD	_	9	nmod	_	U-CARDINAL
+11	:	:	:	_	13	punct	_	O
+12	Sookie#GilmoreGirlsTop4	sookie#gilmoregirlstop0	NN	pos2=XX	13	dep	_	O
+13	#teamlogan	#teamlogan	ADD	pos2=UH	0	root	_	O
+

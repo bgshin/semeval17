@@ -1,0 +1,6 @@
+1	Randall	randall	NNP	pos2=MD	2	nsubj	_	U-PERSON
+2	discover	discover	VBP	pos2=VB	0	root	_	O
+3	some	some	DT	_	4	det	_	O
+4	letters	letter	NNS	_	5	compound	_	O
+5	#ThisIsUs	#thisisus	NNS	pos2=ADD	2	dobj	_	U-DATE
+

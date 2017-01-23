@@ -1,0 +1,23 @@
+1	@shwood	@shwood	UH	pos2=NN	0	root	_	O
+2	Because	because	IN	_	11	mark	_	O
+3	in	in	IN	_	11	prep	_	O
+4	places	place	NNS	_	3	pobj	_	O
+5	where	where	WRB	_	9	advmod	_	O
+6	your	your	PRP$	_	7	poss	_	O
+7	vote	vote	NN	_	9	nsubjpass	_	O
+8	is	be	VBZ	_	9	auxpass	_	O
+9	tracked	track	VBN	pos2=VBD	4	relcl	_	O
+10	you	you	PRP	_	11	nsubj	_	O
+11	get	get	VBP	pos2=VB	1	advcl	_	O
+12	a	a	DT	_	13	det	_	O
+13	visit	visit	NN	_	11	dobj	_	O
+14	the	the	DT	_	16	det	_	B-DATE
+15	next	next	JJ	_	16	nmod	_	I-DATE
+16	day	day	NN	_	11	npadvmod	_	L-DATE
+17	from	from	IN	_	16	prep	_	O
+18	Kim	kim	NNP	_	21	compound	_	B-PERSON
+19	Jong	jong	NNP	_	21	compound	_	I-PERSON
+20	-	-	HYPH	_	21	punct	_	I-PERSON
+21	Un	un	NNP	_	17	pobj	_	L-PERSON
+22	.	.	.	_	19	punct	_	O
+

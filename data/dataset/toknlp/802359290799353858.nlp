@@ -1,0 +1,18 @@
+1	@mmpadellan	@mmpadellan	UH	pos2=VB	4	discourse	_	O
+2	@jillr0311	@jillr0	UH	pos2=NNP	4	discourse	_	O
+3	She	she	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	hard	hard	JJ	_	4	acomp	_	O
+6	to	to	TO	_	8	aux	_	O
+7	get	get	VB	_	8	auxpass	_	O
+8	rid	rid	VBN	pos2=JJ	4	xcomp	_	O
+9	of	of	IN	_	8	prep	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	Deplorables	deplorables	NNS	pos2=NNP	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	sticky	sticky	JJ	pos2=RB	5	nmod	_	O
+4	little	little	JJ	_	5	nmod	_	O
+5	devils	devil	NNS	_	2	attr	_	O
+6	.	.	.	_	2	punct	_	O
+

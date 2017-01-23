@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det	_	O
+2	future	future	NN	_	5	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	#connectedcars	#connectedcars	NNS	pos2=NNPS	3	pobj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	upon	upon	IN	_	5	prep	_	O
+7	us	us	PRP	_	6	pobj	_	O
+8	:	:	:	_	5	punct	_	O
+9	https://t.co/t4WrJUfR0z	#hlink#	ADD	_	14	nmod	_	O
+10	via	via	IN	_	9	prep	_	O
+11	@futurism	@futurism	NN	pos2=NFP	10	pobj	_	O
+12	#IIoT	#iiot	GW	pos2=NNP	14	nmod	_	O
+13	#carbots	#carbots	GW	pos2=NNS	14	nmod	_	O
+14	https://t.co/WFtSFkCOAz	#hlink#	ADD	pos2=NN	5	dep	_	O
+

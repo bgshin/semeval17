@@ -1,0 +1,13 @@
+1	@realmadriden	@realmadriden	IN	pos2=UH	0	root	_	O
+2	LUCAS	lucas	NNP	pos2=JJ	6	compound	_	B-PERSON
+3	VAZQUEZ	vazquez	NNP	_	6	compound	_	I-PERSON
+4	O	o	NNP	pos2=IN	6	compound	_	I-PERSON
+5	CRISTIANO	cristiano	NNP	pos2=NN	6	compound	_	I-PERSON
+6	RONALDO	ronaldo	NNP	_	1	pobj	_	L-PERSON
+7	THE	the	DT	pos2=NNP	9	det	_	O
+8	BEST	good	JJS	_	9	nmod	_	O
+9	PLAYER	player	NN	_	6	appos	_	O
+10	OF	of	IN	_	9	prep	_	O
+11	THE	the	DT	_	12	det	_	O
+12	WORLD	world	NN	pos2=NNP	10	pobj	_	O
+

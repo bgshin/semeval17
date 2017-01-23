@@ -1,0 +1,19 @@
+1	#UnitedNations	#unitednations	NNS	pos2=ADD	2	nsubj	_	O
+2	dismisses	dismiss	VBZ	_	0	root	_	O
+3	rumours	rumour	NNS	_	2	dobj	_	O
+4	that	that	IN	pos2=WDT	17	mark	_	O
+5	its	its	PRP$	_	7	poss	_	O
+6	special	special	JJ	_	7	nmod	_	O
+7	envoy	envoy	NN	_	17	nsubj	_	O
+8	for	for	IN	_	7	prep	_	O
+9	#Syrian	#syrian	JJ	pos2=CD	10	nmod	_	O
+10	conflict	conflict	NN	_	8	pobj	_	O
+11	,	,	,	_	10	punct	_	O
+12	Staffan	staffan	NNP	_	14	compound	_	B-PERSON
+13	de	de	NNP	pos2=FW	14	compound	_	I-PERSON
+14	Mistura	mistura	NNP	_	10	appos	_	L-PERSON
+15	,	,	,	_	10	punct	_	O
+16	had	have	VBD	_	17	aux	_	O
+17	resigned	resign	VBN	pos2=JJ	3	acl	_	O
+18	.	.	.	_	2	punct	_	O
+

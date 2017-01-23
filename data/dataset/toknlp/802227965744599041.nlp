@@ -1,0 +1,19 @@
+1	The	the	DT	_	4	det	_	B-ORG
+2	#Bloomberg	#bloomberg	NNP	_	4	compound	_	I-ORG
+3	Aspen	aspen	NNP	_	4	compound	_	I-ORG
+4	Initiative	initiative	NNP	_	11	nsubj	_	I-ORG
+5	on	on	IN	_	4	prep	_	I-ORG
+6	Cities	city	NNPS	pos2=NNP	5	pobj	_	I-ORG
+7	and	and	CC	_	6	cc	_	I-ORG
+8	#Autonomous	#autonomous	NNP	pos2=IN	9	compound	_	I-ORG
+9	Vehicles	vehicle	NNPS	pos2=NNS	6	conj	_	L-ORG
+10	is	be	VBZ	_	11	aux	_	O
+11	launching	launch	VBG	_	0	root	_	O
+12	in	in	IN	pos2=RP	11	prep	_	O
+13	five	#crd#	CD	_	14	nmod	_	U-CARDINAL
+14	cities	city	NNS	_	12	pobj	_	O
+15	.	.	.	_	11	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/3YIYwBkYGr	#hlink#	ADD	pos2=NN	0	root	_	O
+

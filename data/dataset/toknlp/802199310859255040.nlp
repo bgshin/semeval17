@@ -1,0 +1,19 @@
+1	When	when	WRB	_	4	advmod	_	O
+2	David	david	NNP	_	3	compound	_	B-PERSON
+3	Blaine	blaine	NNP	_	4	nsubj	_	L-PERSON
+4	is	be	VBZ	_	14	advcl	_	O
+5	about	about	JJ	pos2=IN	4	acomp	_	O
+6	to	to	TO	_	7	aux	_	O
+7	cough	cough	VB	_	5	xcomp	_	O
+8	up	up	RP	_	7	prt	_	O
+9	a	a	DT	_	10	det	_	O
+10	frog	frog	NN	_	7	dobj	_	O
+11	,	,	,	_	14	punct	_	O
+12	Dave	dave	NNP	_	13	compound	_	B-PERSON
+13	Chappelle	chappelle	NNP	_	14	nsubj	_	L-PERSON
+14	is	be	VBZ	_	0	root	_	O
+15	all	all	DT	_	14	attr	_	O
+16	of	of	IN	_	15	prep	_	O
+17	us	us	PRP	_	16	pobj	_	O
+18	https://t.co/PIKjM884DZ	#hlink#	ADD	_	14	attr	_	O
+

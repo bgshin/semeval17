@@ -1,0 +1,8 @@
+1	This	this	DT	_	2	det	_	O
+2	episode	episode	NN	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	#thisisus	#thisisus	NN	pos2=NNP	3	pobj	_	O
+5	.....	..	.	_	2	punct	_	O
+
+1	https://t.co/q5cR0OFw1p	#hlink#	ADD	_	0	root	_	U-ORG
+

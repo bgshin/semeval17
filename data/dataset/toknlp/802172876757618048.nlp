@@ -1,0 +1,14 @@
+1	Whatthefuck	whatthefuck	NNP	pos2=WP	13	dep	_	O
+2	Liam	liam	NNP	_	13	dep	_	B-PERSON
+3	OMG	omg	NNP	pos2=NN	13	dep	_	L-PERSON
+4	#liampayne	#liampayne	XX	pos2=UH	13	dep	_	O
+5	#onedirection	#onedirection	XX	pos2=UH	13	dep	_	O
+6	#hot	#hot	XX	pos2=UH	13	dep	_	O
+7	#sixpack	#sixpack	XX	pos2=UH	13	dep	_	O
+8	#leeyum	#leeyum	XX	pos2=UH	13	dep	_	O
+9	#ily	#ily	XX	pos2=RB	13	dep	_	O
+10	#king	#king	XX	pos2=VBG	13	dep	_	O
+11	#lifesaver	#lifesaver	XX	pos2=GW	13	nmod	_	O
+12	…	…	NFP	pos2=XX	13	punct	_	O
+13	https://t.co/M18vYnH5Ip	#hlink#	ADD	_	0	root	_	O
+

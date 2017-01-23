@@ -1,0 +1,12 @@
+1	Medical	medical	JJ	_	2	nmod	_	O
+2	marijuana	marijuana	NN	_	3	nsubj	_	O
+3	looks	look	VBZ	_	0	root	_	O
+4	like	like	IN	_	3	prep	_	O
+5	cash	cash	NN	_	6	compound	_	O
+6	crop	crop	NN	_	4	pobj	_	O
+7	to	to	IN	_	6	prep	_	O
+8	Miami	miami	NNP	_	10	poss	_	U-GPE
+9	’s	's	POS	_	8	case	_	O
+10	entrepreneurs	entrepreneur	NNS	_	7	pobj	_	O
+11	https://t.co/VOi1zfX0vC	#hlink#	ADD	pos2=VBP	10	appos	_	O
+

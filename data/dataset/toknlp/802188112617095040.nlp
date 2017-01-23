@@ -1,0 +1,9 @@
+1	129	0	CD	_	2	nmod	_	B-DATE
+2	days	day	NNS	_	3	npadvmod	_	L-DATE
+3	until	until	IN	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	release	release	NN	_	3	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	Persona	persona	NN	pos2=NNP	6	pobj	_	O
+8	5	0	CD	_	5	npadvmod	_	U-CARDINAL
+

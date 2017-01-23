@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det	_	O
+2	bad	bad	JJ	_	3	nmod	_	O
+3	losers	loser	NNS	_	4	nsubj	_	O
+4	think	think	VBP	_	0	root	_	O
+5	they	they	PRP	_	6	nsubj	_	O
+6	know	know	VBP	_	4	ccomp	_	O
+7	better	well	RBR	pos2=JJR	6	advmod	_	O
+8	https://t.co/CEEmtgIVpH	#hlink#	ADD	_	3	appos	_	O
+9	#Truth	#truth	NNP	pos2=-RRB-	10	compound	_	U-ORG
+10	#Democrats	#democrats	NNS	pos2=NNPS	11	nsubj	_	O
+11	#ows	#ows	VBZ	pos2=UH	4	ccomp	_	O
+12	#tcot	#tcot	UH	pos2=IN	11	discourse	_	O
+13	#tlot	#tlot	UH	pos2=IN	11	discourse	_	O
+14	#ccot	#ccot	UH	pos2=VB	11	discourse	_	O
+15	#p2	#p0	UH	pos2=CD	11	discourse	_	O
+16	#uniteblue	#uniteblue	UH	pos2=PRP	11	discourse	_	O
+17	#catholic	#catholic	UH	pos2=JJ	11	discourse	_	O
+18	#Texas	#texas	NNS	pos2=UH	11	dobj	_	O
+

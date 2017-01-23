@@ -1,0 +1,25 @@
+1	north	north	NN	pos2=RB	2	compound	_	O
+2	korea	korea	NN	pos2=NNP	13	nsubj	_	O
+3	,	,	,	_	13	punct	_	O
+4	after	after	IN	_	13	prep	_	O
+5	banning	ban	VBG	_	4	pcomp	_	O
+6	sarcastic	sarcastic	JJ	_	7	nmod	_	O
+7	comments	comment	NNS	_	5	dobj	_	O
+8	about	about	IN	_	7	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	government	government	NN	_	8	pobj	_	O
+11	,	,	,	_	13	punct	_	O
+12	now	now	RB	_	13	advmod	_	O
+13	asks	ask	VBZ	_	0	root	_	O
+14	china	china	NN	pos2=NNP	13	dobj	_	O
+15	to	to	TO	_	16	aux	_	O
+16	censor	censor	VB	_	13	xcomp	_	O
+17	“	"	``	pos2=''	16	punct	_	O
+18	kim	kim	JJ	pos2=NN	24	nmod	_	O
+19	fatty	fatty	JJ	pos2=NN	23	nmod	_	O
+20	the	the	DT	_	23	det	_	O
+21	third	#ord#	JJ	_	24	nmod	_	U-ORDINAL
+22	”	"	``	pos2=''	24	punct	_	O
+23	…	…	NFP	pos2=-LRB-	24	punct	_	O
+24	https://t.co/HbdRL0UFx6	#hlink#	ADD	pos2=NN	16	dobj	_	O
+

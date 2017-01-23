@@ -1,0 +1,26 @@
+1	#FantasticBeasts	#fantasticbeasts	NNS	pos2=ADD	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	an	an	DT	_	5	det	_	O
+4	excellent	excellent	JJ	_	5	nmod	_	O
+5	movie	movie	NN	_	2	attr	_	O
+6	,	,	,	_	2	punct	_	O
+7	in	in	IN	_	2	prep	_	O
+8	my	my	PRP$	_	9	poss	_	O
+9	opinion	opinion	NN	_	7	pobj	_	O
+10	,	,	,	_	2	punct	_	O
+11	but	but	CC	_	2	cc	_	O
+12	I	I	PRP	_	16	nsubj	_	O
+13	still	still	RB	_	16	advmod	_	O
+14	ca	can	MD	_	16	aux	_	O
+15	n't	not	RB	_	16	neg	_	O
+16	wait	wait	VB	_	2	conj	_	O
+17	for	for	IN	_	20	mark	_	O
+18	@cinemasins	@cinemasins	NNS	pos2=NNPS	20	nsubj	_	O
+19	to	to	TO	_	20	aux	_	O
+20	sin	sin	VB	_	16	advcl	_	O
+21	the	the	DT	_	22	det	_	O
+22	sh*t	sh*t	NN	pos2=NNS	20	dobj	_	O
+23	out	out	IN	_	20	prep	_	O
+24	of	of	IN	_	23	prep	_	O
+25	it	it	PRP	_	24	pobj	_	O
+

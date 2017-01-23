@@ -1,0 +1,13 @@
+1	This	this	DT	_	3	nsubj	_	O
+2	also	also	RB	_	3	advmod	_	O
+3	renders	render	VBZ	_	0	root	_	O
+4	me	me	PRP	_	5	nsubj	_	O
+5	speechless	speechless	JJ	_	3	ccomp	_	O
+6	.......	..	.	_	3	punct	_	O
+
+1	irony	irony	NN	pos2=UH	0	root	_	O
+2	anyone	anyone	NN	_	1	dobj	_	O
+3	?	?	.	_	1	punct	_	O
+
+1	https://t.co/aU9ny0GCgn	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,27 @@
+1	sungjae	sungjae	DT	pos2=NNS	2	nsubj	_	O
+2	changed	change	VBD	_	0	root	_	O
+3	his	his	PRP$	_	4	poss	_	O
+4	phone	phone	NN	_	2	dobj	_	O
+5	thrice	thrice	RB	pos2=NN	2	advmod	_	O
+6	this	this	DT	_	7	det	_	B-DATE
+7	year	year	NN	_	2	npadvmod	_	L-DATE
+8	.	.	.	_	2	punct	_	O
+
+1	from	from	IN	_	15	prep	_	O
+2	samsung	samsung	NNP	pos2=JJ	4	compound	_	O
+3	galaxy	galaxy	NN	pos2=NNP	4	compound	_	O
+4	note	note	NN	pos2=VBP	1	pobj	_	O
+5	5	0	CD	_	4	nmod	_	U-CARDINAL
+6	to	to	IN	pos2=TO	7	aux	_	O
+7	samsung	samsung	VB	pos2=NNP	3	advcl	_	O
+8	galaxy	galaxy	NN	_	9	compound	_	O
+9	s6	s0	NN	pos2=NNP	10	compound	_	O
+10	edge	edge	NN	_	7	dobj	_	O
+11	and	and	CC	_	14	cc	_	O
+12	now	now	RB	_	15	advmod	_	O
+13	he	he	PRP	_	15	nsubj	_	O
+14	's	's	VBZ	_	15	aux	_	O
+15	using	use	VBG	_	0	root	_	O
+16	…	…	NFP	pos2=-LRB-	15	dobj	_	O
+17	https://t.co/TEpFObRrTm	#hlink#	ADD	pos2=NN	15	dobj	_	O
+

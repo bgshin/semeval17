@@ -1,0 +1,37 @@
+1	#Westworld	#westworld	NN	pos2=NFP	2	compound	_	O
+2	twist	twist	NN	_	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	Dolores	dolores	NNP	_	5	nsubj	_	U-PERSON
+5	realizes	realize	VBZ	_	0	root	_	O
+6	she	she	PRP	_	7	nsubj	_	O
+7	is	be	VBZ	_	5	ccomp	_	O
+8	a	a	DT	_	9	det	_	O
+9	brownie	brownie	NN	_	7	attr	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	"	"	``	_	3	punct	_	O
+2	That	that	DT	pos2=WDT	3	nsubj	_	O
+3	does	do	VBZ	_	0	root	_	O
+4	n't	not	RB	_	3	neg	_	O
+5	...	..	.	pos2=,	3	punct	_	O
+
+1	look	look	VB	pos2=VBP	0	root	_	O
+2	like	like	IN	_	1	prep	_	O
+3	anything	anything	NN	_	2	pobj	_	O
+4	to	to	IN	_	1	prep	_	O
+5	me	me	PRP	_	4	pobj	_	O
+6	/	/	SYM	pos2=,	7	punct	_	O
+7	I	I	PRP	pos2=CD	8	nsubj	_	O
+8	looked	look	VBD	_	3	relcl	_	O
+9	in	in	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	water	water	NN	_	9	pobj	_	O
+12	and	and	CC	_	8	cc	_	O
+13	there	there	RB	pos2=EX	14	advmod	_	O
+14	saw	see	VBD	pos2=NN	8	conj	_	O
+15	...	..	.	pos2=,	1	punct	_	O
+
+1	myself	myself	PRP	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+3	"	"	''	_	1	punct	_	O
+

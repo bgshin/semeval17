@@ -1,0 +1,23 @@
+1	Cuban	cuban	JJ	_	2	nmod	_	B-NORP
+2	Americans	american	NNPS	pos2=NNS	4	nsubj	_	L-NORP
+3	are	be	VBP	_	4	aux	_	O
+4	celebrating	celebrate	VBG	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	death	death	NN	_	4	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	a	a	DT	_	10	det	_	O
+9	evil	evil	JJ	pos2=NN	10	nmod	_	O
+10	dictator	dictator	NN	_	7	pobj	_	O
+11	white	white	JJ	_	14	nmod	_	O
+12	and	and	CC	_	11	cc	_	O
+13	black	black	JJ	_	11	conj	_	O
+14	liberals	liberal	NNS	_	16	nsubj	_	O
+15	are	be	VBP	_	16	aux	_	O
+16	mourning	mourn	VBG	_	4	conj	_	O
+17	his	his	PRP$	_	18	poss	_	O
+18	deaths	death	NNS	_	16	dobj	_	O
+19	I	I	PRP	_	21	nsubj	_	O
+20	fucking	fuck	VBG	pos2=VBP	21	advmod	_	O
+21	hate	hate	VBP	pos2=NN	16	parataxis	_	O
+22	Americans	american	NNPS	_	21	dobj	_	U-NORP
+

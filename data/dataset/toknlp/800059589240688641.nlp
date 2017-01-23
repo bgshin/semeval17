@@ -1,0 +1,28 @@
+1	Donald	donald	NNP	_	2	compound	_	B-PERSON
+2	Trump	trump	NNP	_	5	nsubj	_	L-PERSON
+3	does	do	VBZ	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	need	need	VB	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	build	build	VB	_	5	xcomp	_	O
+8	a	a	DT	_	9	det	_	O
+9	wall	wall	NN	_	7	dobj	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	Just	just	RB	_	2	advmod	_	O
+2	put	put	VB	pos2=VBD	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	load	load	NN	_	2	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	lads	lad	NNS	_	5	pobj	_	O
+7	from	from	IN	_	6	prep	_	O
+8	New	new	NNP	_	9	compound	_	B-GPE
+9	Zealand	zealand	NNP	_	7	pobj	_	L-GPE
+10	on	on	IN	_	2	prep	_	O
+11	the	the	DT	_	13	det	_	O
+12	Mexican	mexican	JJ	pos2=NNP	13	nmod	_	U-NORP
+13	border	border	NN	_	10	pobj	_	O
+14	.	.	.	_	2	punct	_	O
+
+1	#IREvNZL	#irevnzl	XX	pos2=ADD	0	root	_	O
+

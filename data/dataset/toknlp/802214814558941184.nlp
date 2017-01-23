@@ -1,0 +1,26 @@
+1	2/2	0	CD	pos2=LS	2	nmod	_	U-CARDINAL
+2	#Yanukovich	#yanukovich	NNS	pos2=NNP	20	attr	_	O
+3	to	to	IN	pos2=TO	2	prep	_	O
+4	#Ukraine	#ukraine	NNP	pos2=CD	5	compound	_	O
+5	ppl	ppl	NNS	pos2=NN	3	pobj	_	O
+6	:	:	:	_	2	punct	_	O
+7	@poroshenko	@poroshenko	TO	pos2=MD	8	aux	_	O
+8	give	give	VB	_	5	acl	_	O
+9	order	order	NN	_	8	dobj	_	O
+10	to	to	TO	_	11	aux	_	O
+11	stop	stop	VB	_	9	acl	_	O
+12	the	the	DT	_	13	det	_	O
+13	war	war	NN	_	11	dobj	_	O
+14	,	,	,	_	15	punct	_	O
+15	let	let	VB	pos2=JJ	0	root	_	O
+16	soldiers	soldier	NNS	_	17	nsubj	_	O
+17	go	go	VB	_	15	ccomp	_	O
+18	home	home	RB	_	17	advmod	_	O
+19	this	this	DT	_	20	nsubj	_	O
+20	is	be	VBZ	_	0	root	_	O
+21	when	when	WRB	_	24	advmod	_	O
+22	#Ukraine	#ukraine	NNP	pos2=PRP	24	nsubj	_	U-ORG
+23	will	will	MD	_	24	aux	_	O
+24	start	start	VB	_	8	advcl	_	O
+25	recovering	recover	VBG	_	24	xcomp	_	O
+

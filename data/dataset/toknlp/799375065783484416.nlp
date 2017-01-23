@@ -1,0 +1,17 @@
+1	China	china	NNP	_	3	compound	_	U-GPE
+2	censors	censor	NNS	pos2=VBZ	3	compound	_	O
+3	websites	website	NNS	pos2=VBZ	0	root	_	O
+4	over	over	IN	pos2=RP	3	prep	_	O
+5	'	'	``	pos2=''	3	punct	_	O
+6	Kim	kim	NNP	_	7	compound	_	B-PERSON
+7	Fatty	fatty	NNP	_	16	dep	_	L-PERSON
+8	the	the	DT	_	9	det	_	O
+9	Third	#ord#	NNP	pos2=JJ	11	poss	_	U-ORDINAL
+10	'	'	POS	pos2=''	9	case	_	O
+11	nickname	nickname	NN	_	7	appos	_	O
+12	for	for	IN	_	11	prep	_	O
+13	North	north	JJ	_	14	advmod	_	B-NORP
+14	Korean	korean	JJ	_	15	nmod	_	L-NORP
+15	leader	leader	NN	_	12	pobj	_	O
+16	https://t.co/Bb0NquoVTN	#hlink#	ADD	_	4	pobj	_	O
+

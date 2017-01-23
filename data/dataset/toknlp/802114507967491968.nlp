@@ -1,0 +1,14 @@
+1	@sterlingkb1	@sterlingkb0	NN	pos2=LS	3	nsubj	_	O
+2	Just	just	RB	_	3	advmod	_	O
+3	caught	catch	VBD	pos2=VBN	0	root	_	O
+4	up	up	RP	_	3	prt	_	O
+5	on	on	IN	_	3	prep	_	O
+6	#ThisIsUs	#thisisus	NNP	pos2=NN	5	pobj	_	U-GPE
+7	.	.	.	_	3	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	were	be	VBD	_	0	root	_	O
+3	outstanding	outstanding	JJ	_	5	nmod	_	O
+4	👏🏼👏🏼👏🏼👏🏼	👏🏼👏🏼👏🏼👏🏼	NNP	pos2=$	5	compound	_	U-DATE
+5	#Heartstrings😥	#heartstrings😥	NNS	pos2=NNP	2	attr	_	U-TIME
+

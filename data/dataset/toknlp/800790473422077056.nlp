@@ -1,0 +1,6 @@
+1	#GilmoreGirlsTop4Richard	#gilmoregirlstop0richard	NN	pos2=XX	5	compound	_	O
+2	GilmoreRichard	gilmorerichard	NNP	_	5	compound	_	B-ORG
+3	GilmoreRichard	gilmorerichard	NNP	_	5	compound	_	I-ORG
+4	GilmoreRichard	gilmorerichard	NNP	_	5	compound	_	I-ORG
+5	Gilmore	gilmore	NNP	_	0	root	_	L-ORG
+

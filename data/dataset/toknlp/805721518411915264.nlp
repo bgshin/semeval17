@@ -1,0 +1,15 @@
+1	The	the	DT	_	14	dep	_	O
+2	Not	not	RB	_	14	neg	_	O
+3	-	-	HYPH	_	14	punct	_	O
+4	So	so	RB	_	7	advmod	_	O
+5	-	-	HYPH	_	7	punct	_	O
+6	Secret	secret	NNP	pos2=JJ	7	compound	_	O
+7	Secret	secret	NNP	pos2=JJ	14	dep	_	O
+8	Life	life	NN	pos2=NNP	7	appos	_	O
+9	Of	of	IN	_	8	prep	_	O
+10	Fidel	fidel	NNP	_	11	compound	_	B-PERSON
+11	Castro	castro	NNP	_	14	dep	_	I-PERSON
+12	-	-	HYPH	pos2=GW	13	punct	_	L-PERSON
+13	https://t.co/u9xoH1m5lT	#hlink#	ADD	_	14	nmod	_	O
+14	https://t.co/D9lNxeSFOk	#hlink#	ADD	_	0	root	_	U-ORG
+

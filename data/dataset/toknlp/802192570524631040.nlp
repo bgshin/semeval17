@@ -1,0 +1,26 @@
+1	Lest	lest	IN	pos2=WRB	3	mark	_	O
+2	anyone	anyone	NN	_	3	nsubj	_	O
+3	say	say	VBP	pos2=VB	14	advcl	_	O
+4	that	that	IN	pos2=WDT	10	mark	_	O
+5	#Palestine	#palestine	NNP	_	10	nsubj	_	B-ORG
+6	&	&	CC	_	5	cc	_	I-ORG
+7	#Israel	#israel	NNP	pos2=PRP	5	conj	_	L-ORG
+8	ca	can	MD	_	10	aux	_	O
+9	n't	not	RB	_	10	neg	_	O
+10	work	work	VB	_	3	ccomp	_	O
+11	together	together	RB	_	10	advmod	_	O
+12	,	,	,	_	14	punct	_	O
+13	#IsraelFires	#israelfires	NNS	pos2=EX	14	nsubj	_	O
+14	are	be	VBP	_	0	root	_	O
+15	Exhibit	exhibit	NNP	pos2=VB	16	compound	_	O
+16	A	a	NNP	pos2=DT	14	attr	_	O
+17	that	that	WDT	pos2=IN	14	punct	_	O
+18	,	,	,	_	22	punct	_	O
+19	yes	yes	UH	_	22	discourse	_	O
+20	,	,	,	_	22	punct	_	O
+21	they	they	PRP	_	22	nsubj	_	O
+22	can	can	MD	_	17	aux	_	O
+23	.	.	.	_	14	punct	_	O
+
+1	https://t.co/C6Hdj5WViW	#hlink#	ADD	_	0	root	_	U-ORG
+

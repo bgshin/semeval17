@@ -1,0 +1,9 @@
+1	Whoevedr	whoevedr	NNP	pos2=WP	2	nsubj	_	U-PERSON
+2	did	do	VBD	_	0	root	_	O
+3	this	this	DT	_	4	nsubj	_	O
+4	needs	need	VBZ	_	2	advcl	_	O
+5	THE	the	DT	_	7	det	_	O
+6	DEATH	death	NN	_	7	compound	_	O
+7	PENALTY	penalty	NN	_	4	dobj	_	O
+8	https://t.co/SdIlyZ4kXz	#hlink#	ADD	pos2=NN	7	appos	_	O
+

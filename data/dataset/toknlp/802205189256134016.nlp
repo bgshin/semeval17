@@ -1,0 +1,27 @@
+1	Look	look	VB	_	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	yourself	yourself	PRP	_	2	pobj	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	NDP	ndp	NNP	pos2=NN	2	compound	_	B-ORG
+2	MLA	mla	NNP	pos2=FW	3	nsubj	_	L-ORG
+3	compared	compare	VBD	pos2=VBN	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	Gov	gov	NNP	_	6	compound	_	U-ORG
+6	Minister	minister	NNP	_	3	dobj	_	O
+7	to	to	IN	_	3	prep	_	O
+8	one	#crd#	CD	_	7	pobj	_	U-CARDINAL
+9	of	of	IN	_	8	prep	_	O
+10	the	the	DT	_	13	det	_	O
+11	most	most	RBS	_	12	advmod	_	O
+12	disgusting	disgusting	JJ	_	13	nmod	_	O
+13	men	man	NNS	_	9	pobj	_	O
+14	in	in	IN	_	13	prep	_	O
+15	human	human	JJ	_	16	nmod	_	O
+16	history	history	NN	_	14	pobj	_	O
+17	,	,	,	pos2=.	16	punct	_	O
+18	Joseph	joseph	NNP	_	19	compound	_	B-PERSON
+19	Goebb	goebb	NNP	_	21	dep	_	L-PERSON
+20	…	…	NFP	pos2=-LRB-	21	punct	_	O
+21	https://t.co/ZapzICYm7O	#hlink#	ADD	_	3	dep	_	O
+

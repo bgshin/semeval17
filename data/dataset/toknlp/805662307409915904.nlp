@@ -1,0 +1,30 @@
+1	@PRPOnline	@prponline	ADD	pos2=NN	4	det	_	O
+2	#pizzagate	#pizzagate	UH	pos2=ADD	4	discourse	_	O
+3	#Podesta	#podesta	NNP	pos2=$	4	compound	_	U-NORP
+4	#Pedophiles	#pedophiles	NNS	pos2=NNP	0	root	_	O
+5	...	..	.	pos2=,	4	punct	_	O
+
+1	do	do	VB	pos2=VBP	3	aux	_	O
+2	nt	nt	RB	_	3	advmod	_	O
+3	get	get	VB	_	7	advcl	_	O
+4	better	good	JJR	_	3	acomp	_	O
+5	,	,	,	_	7	punct	_	O
+6	they	they	PRP	_	7	nsubj	_	O
+7	get	get	VBP	_	0	root	_	O
+8	at	at	IN	_	7	prep	_	O
+9	what	what	WP	_	11	dobj	_	O
+10	they	they	PRP	_	11	nsubj	_	O
+11	do	do	VBP	_	8	pcomp	_	O
+12	.	.	.	_	7	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	know	know	VBP	_	0	root	_	O
+3	the	the	DT	pos2=PRP	5	det	_	O
+4	only	only	JJ	_	5	nmod	_	O
+5	remedy	remedy	NN	_	6	nsubj	_	O
+6	is	be	VBZ	_	2	ccomp	_	O
+7	the	the	DT	_	9	det	_	O
+8	death	death	NN	_	9	compound	_	O
+9	penalty	penalty	NN	_	6	attr	_	O
+10	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,10 @@
+1	Discover	discover	VB	pos2=VBP	0	root	_	O
+2	The	the	DT	pos2=NNP	4	det	_	O
+3	Many	many	JJ	_	4	nmod	_	O
+4	Dangers	danger	NNS	pos2=NNPS	1	dobj	_	O
+5	Of	of	IN	_	4	prep	_	O
+6	Vaccines	vaccine	NNS	pos2=NNPS	5	pobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	Vaccination	vaccination	NN	pos2=GW	6	conj	_	O
+9	https://t.co/ByHc8MPdFv	#hlink#	ADD	pos2=NN	8	dobj	_	O
+

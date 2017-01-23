@@ -1,0 +1,17 @@
+1	TOO	too	RB	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	GOOD	good	JJ	pos2=NN	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	TO	to	LS	pos2=TO	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	MISS	miss	NNP	pos2=NN	3	compound	_	U-GPE
+2	@BlazingMinds	@blazingminds	NNS	pos2=VBZ	3	compound	_	O
+3	#FantasticBeasts	#fantasticbeasts	NNS	pos2=VBZ	7	nsubj	_	O
+4	in	in	IN	_	3	prep	_	O
+5	3	0	CD	_	6	nmod	_	B-DATE
+6	D	d	NNS	pos2=NN	4	pobj	_	L-DATE
+7	https://t.co/9by1Zexh45	#hlink#	ADD	_	0	root	_	U-ORG
+

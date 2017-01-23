@@ -1,0 +1,24 @@
+1	Iggy	iggy	NNP	pos2=NN	8	advmod	_	U-PERSON
+2	from	from	IN	_	1	prep	_	O
+3	the	the	DT	_	6	det	_	B-EVENT
+4	"	"	``	_	6	punct	_	I-EVENT
+5	Revolution	revolution	NNP	_	6	compound	_	I-EVENT
+6	Club	club	NNP	_	2	pobj	_	I-EVENT
+7	"	"	''	_	6	punct	_	L-EVENT
+8	mad	mad	JJ	pos2=VBD	0	root	_	O
+9	that	that	IN	pos2=WDT	11	mark	_	O
+10	Trump	trump	NNP	pos2=NN	11	nsubj	_	U-PERSON
+11	called	call	VBD	pos2=VBN	8	ccomp	_	O
+12	#Chicago	#chicago	NNP	_	11	dobj	_	U-PERSON
+13	a	a	DT	_	16	det	_	O
+14	"	"	``	_	16	punct	_	O
+15	sanctuary	sanctuary	NN	pos2=NNP	16	compound	_	O
+16	city	city	NN	_	11	oprd	_	O
+17	"	"	''	pos2=``	16	punct	_	O
+18	What	what	WP	pos2=WDT	11	oprd	_	O
+19	????	??	.	_	8	punct	_	O
+
+1	#BlackLivesMatter	#blacklivesmatter	GW	pos2=ADD	3	nmod	_	B-WORK_OF_ART
+2	#MAGA	#maga	GW	pos2=NFP	3	nmod	_	L-WORK_OF_ART
+3	https://t.co/Ip7q8snL45	#hlink#	ADD	pos2=NN	0	root	_	O
+

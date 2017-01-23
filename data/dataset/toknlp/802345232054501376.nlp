@@ -1,0 +1,13 @@
+1	Trump	trump	NNP	pos2=NN	4	poss	_	U-ORG
+2	’s	's	POS	_	1	case	_	O
+3	Wild	wild	NNP	pos2=JJ	4	compound	_	B-WORK_OF_ART
+4	Ride	ride	NNP	_	12	dep	_	I-WORK_OF_ART
+5	With	with	IN	_	4	prep	_	I-WORK_OF_ART
+6	the	the	DT	_	7	det	_	I-WORK_OF_ART
+7	Press	press	NNP	pos2=NN	5	pobj	_	I-WORK_OF_ART
+8	as	as	IN	_	11	mark	_	I-WORK_OF_ART
+9	Transition	transition	NNP	pos2=NN	10	compound	_	I-WORK_OF_ART
+10	Turmoil	turmoil	NNP	_	11	nsubj	_	I-WORK_OF_ART
+11	Continues	continue	VBZ	_	4	advcl	_	L-WORK_OF_ART
+12	https://t.co/B7nXwEkaRw	#hlink#	ADD	_	0	root	_	O
+

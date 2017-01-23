@@ -1,0 +1,19 @@
+1	YES	yes	UH	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	#campaignfinance	#campaignfinance	NN	pos2=PRP$	2	compound	_	O
+2	reform	reform	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	underlying	underlying	JJ	pos2=VBG	6	nmod	_	O
+6	change	change	NN	_	3	attr	_	O
+7	that	that	WDT	_	8	nsubj	_	O
+8	supports	support	VBZ	_	6	relcl	_	O
+9	the	the	DT	_	10	det	_	O
+10	effort	effort	NN	_	8	dobj	_	O
+11	to	to	TO	_	12	aux	_	O
+12	#draintheswamp	#draintheswamp	VB	pos2=``	10	acl	_	O
+13	Go	go	VB	pos2=GW	12	xcomp	_	O
+14	…	…	NFP	pos2=RB	15	punct	_	O
+15	https://t.co/mX9niXmlt2	#hlink#	ADD	pos2=NN	13	dep	_	U-ORG
+

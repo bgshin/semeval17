@@ -1,0 +1,8 @@
+1	I	I	PRP	_	5	nsubj	_	O
+2	JUST	just	RB	_	5	advmod	_	O
+3	TIPP	tipp	NNP	pos2=NN	4	compound	_	O
+4	D	d	NNP	pos2=NN	5	compound	_	O
+5	KIMCHI	kimchi	NN	pos2=NNP	0	root	_	O
+6	AND	and	CC	_	5	cc	_	O
+7	CRIED	cry	VBD	pos2=VBN	5	conj	_	O
+

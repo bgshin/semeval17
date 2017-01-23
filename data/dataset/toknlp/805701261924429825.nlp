@@ -1,0 +1,13 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	'm	be	VBP	_	3	aux	_	O
+3	watching	watch	VBG	_	0	root	_	O
+4	Westworld	westworld	NNP	_	5	compound	_	O
+5	1x10	0x0	NN	pos2=CD	3	dobj	_	O
+6	"	"	``	pos2=''	7	punct	_	O
+7	Episode	episode	NN	_	3	npadvmod	_	O
+8	10	0	CD	_	7	nmod	_	U-CARDINAL
+9	"	"	''	pos2=NNS	7	punct	_	O
+10	https://t.co/W54ukmd9Ql	#hlink#	ADD	_	7	appos	_	O
+11	#Westworld	#westworld	NNP	pos2=-RRB-	7	appos	_	O
+12	#trakt	#trakt	UH	pos2=NN	11	pobj	_	O
+

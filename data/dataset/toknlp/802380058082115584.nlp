@@ -1,0 +1,21 @@
+1	"	"	``	pos2=SYM	3	punct	_	O
+2	9/11	0	CD	pos2=,	3	nsubj	_	U-CARDINAL
+3	was	be	VBD	_	0	root	_	O
+4	an	an	DT	_	5	det	_	O
+5	attempt	attempt	NN	_	3	attr	_	O
+6	to	to	TO	_	7	aux	_	O
+7	stop	stop	VB	_	5	acl	_	O
+8	a	a	DT	_	9	det	_	O
+9	transformation	transformation	NN	_	7	dobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	the	the	DT	_	14	det	_	O
+12	international	international	JJ	_	14	nmod	_	O
+13	monetary	monetary	JJ	_	14	nmod	_	O
+14	system	system	NN	_	10	pobj	_	O
+15	in	in	IN	_	9	prep	_	O
+16	its	its	PRP$	_	18	poss	_	O
+17	early	early	JJ	_	18	nmod	_	O
+18	stages	stage	NNS	_	15	pobj	_	O
+19	"	"	''	pos2=``	20	punct	_	O
+20	https://t.co/g7IqXllFdS	#hlink#	ADD	pos2=NN	18	appos	_	O
+

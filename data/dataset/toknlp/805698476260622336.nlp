@@ -1,0 +1,19 @@
+1	@kenquandt	@kenquandt	UH	pos2=-LRB-	4	discourse	_	O
+2	https://t.co/e0wGW9oAg3	#hlink#	ADD	pos2=RBR	4	nmod	_	O
+3	Direct	direct	JJ	pos2=NNP	4	nmod	_	O
+4	Contact	contact	NN	pos2=NNP	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+
+1	Tell	tell	VB	_	0	root	_	O
+2	the	the	DT	_	4	det	_	B-ORG
+3	Electoral	electoral	NNP	_	4	compound	_	I-ORG
+4	College	college	NNP	pos2=NN	1	dobj	_	L-ORG
+5	why	why	WRB	_	8	advmod	_	O
+6	they	they	PRP	_	8	nsubj	_	O
+7	must	must	MD	_	8	aux	_	O
+8	invoke	invoke	VB	_	1	ccomp	_	O
+9	Emergency	emergency	NNP	pos2=NN	10	compound	_	O
+10	Safety	safety	NNP	pos2=NN	11	compound	_	O
+11	Measures	measure	NNS	pos2=NNPS	8	dobj	_	O
+12	#NotMyPresident	#notmypresident	ADD	pos2=NNP	11	acl	_	O
+

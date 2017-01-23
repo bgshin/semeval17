@@ -1,0 +1,20 @@
+1	SMT	smt	NN	pos2=NNP	3	nmod	_	O
+2	5	0	CD	_	3	nmod	_	U-CARDINAL
+3	APOCALYPSE	apocalypse	NN	pos2=NNP	8	dep	_	O
+4	;	;	,	pos2=:	3	punct	_	O
+5	PKMN	pkmn	NNP	pos2=NN	6	compound	_	O
+6	SUNMOON	sunmoon	NNP	pos2=NN	10	case	_	U-PERSON
+7	;	;	,	pos2=:	6	punct	_	O
+8	PERSONA	persona	NN	pos2=NNP	9	compound	_	O
+9	Q	q	NNP	pos2=NN	12	compound	_	O
+10	;	;	:	pos2=,	0	root	_	O
+11	PROF	prof	NNP	pos2=JJ	12	compound	_	O
+12	LAYTON	layton	NNP	pos2=NN	6	conj	_	U-PERSON
+13	;	;	,	pos2=:	12	punct	_	O
+14	AA6	aa0	NN	_	12	appos	_	O
+15	;	;	,	_	12	punct	_	O
+16	AA	aa	NN	_	12	appos	_	O
+17	VS	vs	IN	pos2=NN	16	prep	_	O
+18	PROF	prof	NNP	pos2=JJ	19	compound	_	O
+19	LAYTON	layton	NNP	_	17	pobj	_	U-PERSON
+

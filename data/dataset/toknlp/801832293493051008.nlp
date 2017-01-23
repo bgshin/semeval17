@@ -1,0 +1,23 @@
+1	Why	why	WRB	pos2=WDT	2	advmod	_	O
+2	focus	focus	VB	pos2=VBP	0	root	_	O
+3	on	on	IN	_	2	prep	_	O
+4	#Nusra	#nusra	NNP	pos2=NNS	3	pobj	_	U-ORG
+5	and	and	CC	_	2	cc	_	O
+6	overlook	overlook	VB	pos2=VBP	2	conj	_	O
+7	Mullahs	mullah	NNPS	pos2=NNS	8	compound	_	U-NORP
+8	tyrants	tyrant	NNS	_	6	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	#Iran	#iran	NNP	_	12	poss	_	U-ORG
+11	's	's	POS	_	10	case	_	O
+12	terrorists	terrorist	NNS	_	9	pobj	_	O
+13	from	from	IN	_	12	prep	_	O
+14	#Hezbollah	#hezbollah	NNP	pos2=VBG	16	compound	_	B-ORG
+15	#Afghanistan	#afghanistan	NNP	pos2=POS	16	compound	_	I-ORG
+16	#Iraq	#iraq	NNP	pos2=XX	13	pobj	_	L-ORG
+17	who	who	WP	_	18	nsubj	_	O
+18	murder	murder	VBP	pos2=NN	12	relcl	_	O
+19	Syrians	syrian	NNPS	_	18	dobj	_	U-NORP
+20	?	?	.	_	2	punct	_	O
+
+1	#AssadMustGo	#assadmustgo	ADD	pos2=XX	0	root	_	O
+

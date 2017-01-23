@@ -1,0 +1,27 @@
+1	#Russia	#russia	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	prepares	prepare	VBZ	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	bring	bring	VB	_	2	xcomp	_	O
+5	up	up	RP	pos2=RB	4	prt	_	O
+6	to	to	IN	pos2=TO	4	prep	_	O
+7	3,000	0	CD	_	12	nmod	_	U-CARDINAL
+8	Soviet	soviet	NNP	pos2=JJ	10	compound	_	U-NORP
+9	-	-	HYPH	_	10	punct	_	O
+10	era	era	NN	_	12	compound	_	O
+11	T-80	t-0	NN	_	12	compound	_	O
+12	tanks	tank	NNS	pos2=VBZ	6	pobj	_	O
+13	back	back	RB	_	4	advmod	_	O
+14	into	into	IN	_	13	prep	_	O
+15	active	active	JJ	_	16	nmod	_	O
+16	service	service	NN	_	14	pobj	_	O
+17	.	.	.	_	2	punct	_	O
+
+1	https	http	NNS	pos2=NN	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	//	//	NFP	pos2=-LRB-	8	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	0	root	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	sRTqMehrgc	srtqmehrgc	JJ	pos2=NN	4	prep	_	O
+7	…	…	NFP	pos2=-LRB-	6	pobj	_	O
+8	https://t.co/Rjx8ZOosyG	#hlink#	ADD	pos2=NN	6	pobj	_	O
+

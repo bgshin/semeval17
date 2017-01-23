@@ -1,0 +1,17 @@
+1	Ben	ben	NNP	_	2	compound	_	B-PERSON
+2	Carson	carson	NNP	_	4	nsubj	_	L-PERSON
+3	will	will	MD	_	4	aux	_	O
+4	be	be	VB	_	10	ccomp	_	O
+5	awesome	awesome	JJ	_	4	acomp	_	O
+6	with	with	IN	_	5	prep	_	O
+7	HUD	hud	NNP	pos2=NN	6	pobj	_	U-ORG
+8	,	,	,	_	10	punct	_	O
+9	word	word	NN	_	10	nsubj	_	O
+10	is	be	VBZ	_	0	root	_	O
+11	he	he	PRP	_	12	nsubj	_	O
+12	plays	play	VBZ	_	10	ccomp	_	O
+13	a	a	DT	_	14	det	_	O
+14	lot	lot	NN	_	12	dobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	Simcity	simcity	NNP	pos2=NN	15	pobj	_	U-PRODUCT
+

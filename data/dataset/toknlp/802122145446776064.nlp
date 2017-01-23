@@ -1,0 +1,20 @@
+1	@carbajalbelind1	@carbajalbelind0	NN	pos2=LS	3	compound	_	O
+2	@AuditorioTelmex	@auditoriotelmex	ADD	pos2=XX	3	compound	_	O
+3	@ricky_martin	@ricky_martin	NNP	pos2=MD	12	vocative	_	U-GPE
+4	very	very	RB	_	5	advmod	_	O
+5	happy	happy	JJ	_	3	dep	_	O
+6	for	for	IN	_	5	prep	_	O
+7	u	u	NNP	pos2=PRP	8	compound	_	B-GPE
+8	Bel	bel	NNP	_	6	pobj	_	L-GPE
+9	,	,	,	_	12	punct	_	O
+10	I	I	PRP	_	12	nsubj	_	O
+11	really	really	RB	_	12	advmod	_	O
+12	hope	hope	VBP	_	0	root	_	O
+13	there	there	EX	_	15	expl	_	O
+14	will	will	MD	_	15	aux	_	O
+15	be	be	VB	_	12	ccomp	_	O
+16	a	a	DT	_	19	det	_	O
+17	#owt	#owt	JJ	pos2=NN	19	nmod	_	O
+18	dvd	dvd	NN	_	19	compound	_	O
+19	💃🙌🙋	💃🙌🙋	NN	pos2=.	15	attr	_	O
+

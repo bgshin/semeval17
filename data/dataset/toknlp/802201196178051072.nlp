@@ -1,0 +1,16 @@
+1	A	a	DT	_	2	det	_	O
+2	couple	couple	NN	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	bad	bad	JJ	_	5	nmod	_	O
+5	hombres	hombre	NNS	_	3	pobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	#CousinLovin	#cousinlovin	NN	pos2=ADD	4	nsubj	_	O
+2	@	@	SYM	pos2=IN	4	punct	_	O
+3	East	east	NNP	_	4	compound	_	B-GPE
+4	Hampton	hampton	NNP	_	0	root	_	L-GPE
+5	,	,	,	_	4	punct	_	O
+6	New	new	NNP	_	7	compound	_	B-GPE
+7	York	york	NNP	_	4	npadvmod	_	L-GPE
+8	https://t.co/qpAExb84c3	#hlink#	ADD	pos2=NN	4	appos	_	O
+

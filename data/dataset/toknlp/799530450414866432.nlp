@@ -1,0 +1,15 @@
+1	@rkhedia	@rkhedia	UH	pos2=NN	3	discourse	_	O
+2	There	there	EX	_	3	expl	_	O
+3	was	be	VBD	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	context	context	NN	_	3	attr	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	wall	wall	NN	_	0	expl	_	O
+3	on	on	IN	_	2	prep	_	O
+4	the	the	DT	_	6	det	_	O
+5	Mexican	mexican	JJ	pos2=NNP	6	nmod	_	U-NORP
+6	border	border	NN	_	3	pobj	_	O
+7	.	.	.	_	2	punct	_	O
+

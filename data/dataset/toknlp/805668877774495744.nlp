@@ -1,0 +1,21 @@
+1	Vaccines	vaccine	NNS	_	2	nsubj	_	O
+2	contains	contain	VBZ	_	0	root	_	O
+3	mercury	mercury	NN	pos2=NNP	2	dobj	_	O
+4	..	..	.	pos2=,	2	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	will	will	MD	_	4	aux	_	O
+3	not	not	RB	_	4	neg	_	O
+4	fuck	fuck	VB	_	0	root	_	O
+5	up	up	RP	_	4	prt	_	O
+6	my	my	PRP$	_	8	poss	_	O
+7	potential	potential	JJ	pos2=NN	8	nmod	_	O
+8	childrens	child	NNS	pos2=JJR	9	compound	_	O
+9	life	life	NN	_	4	dobj	_	O
+10	with	with	IN	_	4	prep	_	O
+11	an	an	DT	_	13	det	_	O
+12	excessive	excessive	JJ	_	13	nmod	_	O
+13	amount	amount	NN	_	10	pobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	chemicals	chemical	NNS	_	14	pobj	_	O
+

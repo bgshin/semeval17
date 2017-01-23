@@ -1,0 +1,11 @@
+1	New	new	JJ	pos2=NNP	10	dep	_	O
+2	on	on	IN	pos2=RP	1	prep	_	O
+3	#Steemit	#steemit	NN	pos2=NNP	2	pobj	_	O
+4	:	:	:	_	10	punct	_	O
+5	Cristiano	cristiano	NNP	_	6	compound	_	B-PERSON
+6	Ronaldo	ronaldo	NNP	_	10	dep	_	L-PERSON
+7	all	all	DT	pos2=GW	9	det	_	O
+8	Luxury	luxury	NNP	pos2=NN	9	compound	_	O
+9	Cars	car	NNS	pos2=NNPS	10	dep	_	O
+10	https://t.co/fQvByiiDfZ	#hlink#	ADD	_	0	root	_	O
+

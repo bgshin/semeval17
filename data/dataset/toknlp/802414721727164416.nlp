@@ -1,0 +1,16 @@
+1	@Randazzoj	@randazzoj	NNP	pos2=VBG	0	root	_	O
+2	its	its	PRP$	_	3	poss	_	O
+3	confirmed	confirm	VBN	pos2=NN	1	acl	_	O
+4	by	by	IN	_	3	agent	_	O
+5	steve	steve	NNP	pos2=JJ	6	compound	_	B-PERSON
+6	bannon	bannon	NNP	pos2=NN	4	pobj	_	L-PERSON
+7	and	and	CC	_	6	cc	_	O
+8	joe	joe	NNP	pos2=VB	9	compound	_	B-PERSON
+9	arpaio	arpaio	NNP	pos2=FW	6	conj	_	L-PERSON
+10	and	and	CC	_	1	cc	_	O
+11	the	the	DT	_	13	det	_	O
+12	cowboy	cowboy	NN	pos2=JJ	13	compound	_	O
+13	sheriff	sheriff	NN	_	9	appos	_	O
+14	from	from	IN	_	13	prep	_	O
+15	tv	tv	NN	_	14	pobj	_	O
+

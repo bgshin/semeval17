@@ -1,0 +1,25 @@
+1	@politico	@politico	IN	pos2=UH	5	prep	_	O
+2	POTUS	potus	NNP	pos2=NN	4	compound	_	O
+3	Elect	elect	NNP	_	4	compound	_	O
+4	Trump	trump	NNP	_	5	nsubj	_	U-ORG
+5	Chose	choose	VBD	pos2=NNP	0	root	_	O
+6	Steve	steve	NNP	_	9	compound	_	B-PERSON
+7	Bannon	bannon	NNP	_	9	compound	_	L-PERSON
+8	Chief	chief	NNP	_	9	compound	_	O
+9	Strategist	strategist	NNP	pos2=NN	5	dobj	_	O
+10	He	he	PRP	pos2=NNP	11	nsubj	_	O
+11	's	's	VBZ	_	5	ccomp	_	O
+12	only	only	RB	_	14	advmod	_	O
+13	an	an	DT	_	15	det	_	O
+14	advisor	advisor	NN	pos2=JJ	15	compound	_	O
+15	POTUS	potus	NN	pos2=NNP	18	nsubj	_	O
+16	Elect	elect	NNP	_	17	compound	_	O
+17	Trump	trump	NNP	pos2=NN	15	appos	_	U-ORG
+18	Makes	make	VBZ	_	11	ccomp	_	O
+19	Final	final	JJ	pos2=NNP	21	nmod	_	O
+20	Wise	wise	NNP	pos2=JJ	21	compound	_	O
+21	Decisions	decision	NNS	pos2=NNPS	18	dobj	_	O
+22	In	in	IN	_	18	prep	_	O
+23	The	the	DT	_	24	det	_	O
+24	End	end	NN	pos2=NNP	22	pobj	_	O
+

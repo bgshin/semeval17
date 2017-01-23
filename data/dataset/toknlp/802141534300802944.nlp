@@ -1,0 +1,16 @@
+1	No	no	DT	_	2	det	_	O
+2	respite	respite	NN	_	0	root	_	O
+3	'	'	''	_	2	punct	_	O
+4	from	from	IN	_	2	prep	_	O
+5	Israeli	israeli	JJ	_	6	nmod	_	U-NORP
+6	violence	violence	NN	_	4	pobj	_	O
+7	against	against	IN	_	6	prep	_	O
+8	Palestinian	palestinian	JJ	_	9	nmod	_	U-NORP
+9	children	child	NNS	_	7	pobj	_	O
+10	https://t.co/k0UBs5CWOu	#hlink#	ADD	pos2=VBP	2	appos	_	O
+11	#gaza	#gaza	IN	pos2=-RRB-	2	prep	_	O
+12	#palestine	#palestine	UH	pos2=PRP	11	discourse	_	O
+13	#israel	#israel	UH	pos2=VB	11	discourse	_	O
+14	#BDS	#bds	NNS	pos2=UH	11	pobj	_	O
+15	#jerusalem	#jerusalem	UH	pos2=PRP	2	discourse	_	O
+

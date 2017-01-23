@@ -1,0 +1,13 @@
+1	https://t.co/aIQcpgQ6XB	#hlink#	ADD	pos2=NNP	2	nsubj	_	O
+2	Got	get	VBN	pos2=VBD	0	root	_	O
+3	to	to	TO	pos2=IN	4	aux	_	O
+4	love	love	VB	pos2=NN	2	xcomp	_	O
+5	capitalist	capitalist	NN	pos2=JJ	4	dobj	_	O
+6	on	on	IN	_	4	prep	_	O
+7	both	both	DT	_	8	det	_	O
+8	sides	side	NNS	_	6	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	border	border	NN	_	9	pobj	_	O
+12	!	!	.	_	2	punct	_	O
+

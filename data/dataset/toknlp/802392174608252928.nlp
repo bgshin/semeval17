@@ -1,0 +1,17 @@
+1	#Maduro	#maduro	NNP	pos2=UH	5	vocative	_	U-ORG
+2	,	,	,	_	5	punct	_	O
+3	you	you	PRP	_	5	nsubj	_	O
+4	must	must	MD	_	5	aux	_	O
+5	be	be	VB	_	0	root	_	O
+6	the	the	DT	_	8	det	_	O
+7	next	next	JJ	_	8	nmod	_	O
+8	one	#crd#	CD	pos2=NN	5	attr	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	#	#	NN	_	2	dep	_	O
+2	2017	0	LS	pos2=TO	3	meta	_	U-MONEY
+3	do	do	VBP	pos2=VB	0	root	_	O
+4	your	your	PRP$	_	5	poss	_	O
+5	work	work	NN	pos2=VB	3	dobj	_	O
+6	well	well	RB	pos2=UH	3	advmod	_	O
+

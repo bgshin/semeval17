@@ -1,0 +1,17 @@
+1	can	can	MD	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	roll	roll	VB	_	0	root	_	O
+4	up	up	RP	_	3	prt	_	O
+5	to	to	IN	_	3	prep	_	O
+6	my	my	PRP$	_	7	poss	_	O
+7	house	house	NN	_	5	pobj	_	O
+8	with	with	IN	_	3	prep	_	O
+9	roses	rose	NNS	_	8	pobj	_	O
+10	on	on	IN	_	3	prep	_	O
+11	valentines	valentine	NNS	pos2=NNP	10	pobj	_	O
+12	?	?	.	_	3	punct	_	O
+
+1	🤔🌹	🤔🌹	NFP	pos2=GW	3	punct	_	O
+2	@DILLONFRANCIS	@dillonfrancis	GW	pos2=NN	3	nmod	_	O
+3	https://t.co/OPKFCY3Z5O	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

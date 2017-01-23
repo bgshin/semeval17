@@ -1,0 +1,31 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	also	also	RB	_	2	advmod	_	O
+4	fantastic	fantastic	JJ	_	2	acomp	_	O
+5	for	for	IN	_	4	prep	_	O
+6	pain	pain	NN	_	5	pobj	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	am	be	VBP	_	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	pain	pain	NN	_	3	pobj	_	O
+5	24/7	0	CD	_	4	nmod	_	U-CARDINAL
+6	from	from	IN	_	4	prep	_	O
+7	my	my	PRP$	_	8	poss	_	O
+8	hip	hip	NN	_	6	pobj	_	O
+9	,	,	,	_	2	punct	_	O
+10	but	but	CC	_	2	cc	_	O
+11	with	with	IN	_	17	prep	_	O
+12	medical	medical	JJ	_	13	nmod	_	O
+13	marijuana	marijuana	NN	_	11	pobj	_	O
+14	,	,	,	_	17	punct	_	O
+15	I	I	PRP	_	17	nsubj	_	O
+16	can	can	MD	_	17	aux	_	O
+17	function	function	VB	pos2=NN	2	conj	_	O
+18	and	and	CC	_	17	cc	_	O
+19	also	also	RB	_	17	conj	_	O
+20	...	..	.	pos2=,	17	punct	_	O
+
+1	https://t.co/rtudMxTWGQ	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,27 @@
+1	William	william	NNP	_	2	compound	_	B-PERSON
+2	Dunbar	dunbar	NNP	_	3	nsubj	_	L-PERSON
+3	nailed	nail	VBD	_	0	root	_	O
+4	it	it	PRP	_	3	dobj	_	O
+5	about	about	IN	_	3	prep	_	O
+6	Misha	misha	NNP	_	5	pobj	_	U-PERSON
+7	four	#crd#	CD	_	8	nmod	_	B-DATE
+8	years	year	NNS	_	9	npadvmod	_	I-DATE
+9	ago	ago	RB	_	3	advmod	_	L-DATE
+10	.	.	.	_	3	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	still	still	RB	_	2	advmod	_	O
+4	one	#crd#	CD	_	2	attr	_	U-CARDINAL
+5	of	of	IN	_	4	prep	_	O
+6	the	the	DT	_	12	det	_	O
+7	best	good	JJS	_	12	nmod	_	O
+8	(	(	-LRB-	_	9	punct	_	O
+9	temporary	temporary	JJ	_	7	parataxis	_	O
+10	)	)	-RRB-	_	9	punct	_	O
+11	political	political	JJ	_	12	nmod	_	O
+12	obituaries	obituary	NNS	pos2=NN	5	pobj	_	O
+13	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/bGFyF1ufYc	#hlink#	ADD	_	0	root	_	U-ORG
+

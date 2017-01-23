@@ -1,0 +1,25 @@
+1	Today	today	NN	pos2=NNP	2	nsubj	_	U-DATE
+2	is	be	VBZ	_	0	root	_	O
+3	Black	black	NNP	pos2=JJ	4	compound	_	B-EVENT
+4	Friday	friday	NNP	_	2	attr	_	L-EVENT
+5	or	or	CC	_	2	cc	_	O
+6	,	,	,	_	2	punct	_	O
+7	as	as	IN	_	13	prep	_	O
+8	Donald	donald	NNP	_	9	compound	_	B-PERSON
+9	Trump	trump	NNP	_	7	pobj	_	L-PERSON
+10	and	and	CC	_	9	cc	_	O
+11	Steve	steve	NNP	_	12	compound	_	B-PERSON
+12	Bannon	bannon	NNP	_	9	conj	_	L-PERSON
+13	call	call	VB	pos2=VBP	0	root	_	O
+14	it	it	PRP	_	13	dobj	_	O
+15	,	,	,	_	13	punct	_	O
+16	'	'	''	pos2=``	13	punct	_	O
+17	Make	make	VB	pos2=VBP	13	dep	_	O
+18	It	it	PRP	_	20	nsubj	_	O
+19	Just	just	RB	pos2=NNP	20	advmod	_	O
+20	Friday	friday	NNP	_	13	npadvmod	_	O
+21	Again	again	RB	pos2=NNP	13	advmod	_	O
+22	.	.	.	_	2	punct	_	O
+
+1	'	'	``	pos2=''	0	case	_	O
+

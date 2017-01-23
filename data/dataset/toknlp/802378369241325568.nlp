@@ -1,0 +1,22 @@
+1	Conservatives	conservative	NNS	_	3	nsubj	_	O
+2	are	be	VBP	_	3	aux	_	O
+3	breaking	break	VBG	_	0	root	_	O
+4	things	thing	NNS	_	3	dobj	_	O
+5	too	too	RB	_	3	advmod	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	.	.	.	_	0	punct	_	O
+
+1	#spiritcooking	#spiritcooking	VBG	pos2=UH	5	auxpass	_	O
+2	#PodestaLeaks	#podestaleaks	NNS	pos2=XX	1	dobj	_	O
+3	#pizzagate	#pizzagate	UH	pos2=ADD	1	discourse	_	O
+4	#cometpizza	#cometpizza	UH	pos2=PRP	5	discourse	_	O
+5	got	get	VBD	pos2=UH	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	tje	tje	NN	pos2=VB	5	dep	_	O
+2	righteous	righteous	JJ	_	3	nmod	_	O
+3	indi	indus	NNS	pos2=JJ	1	npadvmod	_	O
+4	…	…	NFP	pos2=-LRB-	5	punct	_	O
+5	https://t.co/u5m6NzKyWB	#hlink#	ADD	pos2=NN	0	root	_	O
+

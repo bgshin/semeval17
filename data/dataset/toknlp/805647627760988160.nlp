@@ -1,0 +1,26 @@
+1	Pope	pope	NNP	_	2	compound	_	O
+2	Francis	francis	NNP	_	6	nsubj	_	U-PERSON
+3	could	could	MD	_	6	aux	_	O
+4	've	have	VB	_	6	aux	_	O
+5	privately	privately	RB	_	6	advmod	_	O
+6	answered	answer	VBN	_	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	5	0	CD	_	6	dobj	_	U-CARDINAL
+9	yes	yes	UH	pos2=NNS	6	discourse	_	O
+10	?	?	.	_	6	punct	_	O
+
+1	/	/	SYM	_	2	punct	_	O
+2	no	no	DT	pos2=UH	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	questions	question	NNS	pos2=VBZ	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	cardinals	cardinal	NNS	_	5	nsubj	_	O
+4	originally	originally	RB	_	5	advmod	_	O
+5	posed	pose	VBD	pos2=VBN	1	relcl	_	O
+6	PRIVATELY	privately	RB	_	5	advmod	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/h5hHIqOiRA	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,26 @@
+1	Cold	cold	JJ	_	2	nmod	_	O
+2	bitches	bitch	NNS	_	3	nsubj	_	O
+3	throw	throw	VBP	pos2=VB	0	root	_	O
+4	curve	curve	NN	_	5	compound	_	O
+5	balls	ball	NNS	_	3	dobj	_	O
+6	better	good	JJR	pos2=RBR	3	advmod	_	O
+7	than	than	IN	_	6	prep	_	O
+8	MLB	mlb	NNP	pos2=JJ	9	compound	_	U-ORG
+9	pitchers	pitcher	NNS	_	7	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	Justin	justin	NNP	_	2	compound	_	B-PERSON
+2	Verlander	verlander	NNP	_	3	nsubj	_	L-PERSON
+3	ai	be	VBZ	pos2=VBP	0	root	_	O
+4	n't	not	RB	_	3	neg	_	O
+5	got	get	VBD	pos2=VBN	3	ccomp	_	O
+6	shit	shit	NN	pos2=RB	5	dobj	_	O
+7	on	on	IN	_	5	prep	_	O
+8	a	a	DT	_	14	det	_	O
+9	boujee	boujee	JJ	pos2=NN	14	nmod	_	O
+10	light	light	JJ	pos2=NN	12	advmod	_	O
+11	-	-	HYPH	_	12	punct	_	O
+12	skinned	skinned	JJ	_	14	nmod	_	O
+13	bitch	bitch	NN	_	14	compound	_	O
+14	fam	fam	NN	pos2=RB	7	pobj	_	O
+

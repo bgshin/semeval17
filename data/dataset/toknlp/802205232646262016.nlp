@@ -1,0 +1,34 @@
+1	@realdonaldtrump	@realdonaldtrump	IN	pos2=UH	0	root	_	O
+2	Ben	ben	NNP	_	3	compound	_	B-PERSON
+3	Carson	carson	NNP	_	5	nmod	_	L-PERSON
+4	/	/	SYM	pos2=HYPH	5	punct	_	O
+5	HUD	hud	NNP	_	1	pobj	_	U-ORG
+6	?	?	.	_	1	punct	_	O
+
+1	No	no	UH	pos2=DT	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	He	he	PRP	_	3	nsubj	_	O
+2	should	should	MD	_	3	aux	_	O
+3	lead	lead	VB	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	NIH	nih	NNP	pos2=NN	3	dobj	_	U-ORG
+6	.	.	.	_	3	punct	_	O
+
+1	Oh	oh	UH	_	0	root	_	O
+2	yeah	yeah	UH	_	1	discourse	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	In	in	IN	_	4	prep	_	O
+2	Trumpland	trumpland	NNP	_	1	pobj	_	U-GPE
+3	one	#crd#	CD	pos2=PRP	4	nsubj	_	O
+4	has	have	VBZ	_	11	ccomp	_	O
+5	only	only	RB	_	7	advmod	_	O
+6	to	to	TO	_	7	aux	_	O
+7	be	be	VB	_	4	xcomp	_	O
+8	loyal	loyal	JJ	_	7	acomp	_	O
+9	;	;	,	pos2=:	11	punct	_	O
+10	not	not	RB	_	11	neg	_	O
+11	qualified	qualified	JJ	_	0	root	_	O
+12	.	.	.	_	11	punct	_	O
+

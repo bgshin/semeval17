@@ -1,0 +1,9 @@
+1	No	no	DT	_	2	det	_	O
+2	mention	mention	NN	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	miasms	miasm	NNS	_	3	pobj	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	#homeopathy	#homeopathy	UH	pos2=ADD	2	discourse	_	O
+2	https://t.co/tGqYk8NqwN	#hlink#	ADD	pos2=NN	0	root	_	O
+

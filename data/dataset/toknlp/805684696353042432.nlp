@@ -1,0 +1,17 @@
+1	@christinahh	@christinahh	UH	pos2=XX	3	discourse	_	O
+2	@MartinHeinrich	@martinheinrich	UH	pos2=WDT	3	discourse	_	O
+3	@POTUS	@potus	NN	pos2=UH	8	vocative	_	O
+4	@realDonaldTrump	@realdonaldtrump	UH	pos2=NN	8	discourse	_	O
+5	I	I	PRP	_	8	nsubj	_	O
+6	ca	can	MD	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	wait	wait	VB	_	0	root	_	O
+9	for	for	IN	_	8	prep	_	O
+10	fracking	fracking	NN	pos2=VBG	9	pobj	_	O
+11	in	in	IN	_	8	prep	_	O
+12	nys	ny	NNS	pos2=NN	11	pobj	_	O
+13	finally	finally	RB	_	14	advmod	_	O
+14	have	have	VBP	pos2=VB	8	conj	_	O
+15	energy	energy	NN	_	16	compound	_	O
+16	independence	independence	NN	_	14	dobj	_	O
+

@@ -1,0 +1,8 @@
+1	#Brexit	#brexit	NNP	pos2=NN	2	compound	_	U-ORG
+2	#UKIP	#ukip	NN	pos2=XX	4	dep	_	O
+3	-	-	:	pos2=,	4	punct	_	O
+4	Follow	follow	VB	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	m	m	NNS	pos2=-LRB-	4	dobj	_	O
+7	oneyhttps://t.co/wlXf4hyEki	#hlink#	ADD	_	2	npadvmod	_	O
+

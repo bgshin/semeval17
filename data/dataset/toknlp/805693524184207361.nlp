@@ -1,0 +1,12 @@
+1	Cristiano	cristiano	NNP	_	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	11	dep	_	L-PERSON
+3	2016/17	0	CD	_	6	nmod	_	U-CARDINAL
+4	-	-	HYPH	pos2=:	5	punct	_	O
+5	Dribbling	dribble	VBG	pos2=NN	6	nmod	_	O
+6	Skills	skill	NNS	pos2=NNPS	2	conj	_	O
+7	,	,	,	_	6	punct	_	O
+8	Assists	assist	NNS	pos2=NNP	6	conj	_	O
+9	&	&	CC	_	8	cc	_	O
+10	Goals	goal	NNS	_	8	conj	_	O
+11	https://t.co/8XiC2iRlha	#hlink#	ADD	pos2=VBP	0	root	_	O
+

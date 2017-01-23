@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det	_	O
+2	latest	late	JJS	_	3	nmod	_	O
+3	Life	life	NN	_	0	nsubjpass	_	O
+4	in	in	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	B-FAC
+6	Grocery	grocery	NNP	pos2=NN	7	compound	_	I-FAC
+7	Line	line	NNP	pos2=NN	4	pobj	_	L-FAC
+8	!	!	.	_	3	punct	_	O
+
+1	https://t.co/PwpzAW1OMf	#hlink#	ADD	_	0	root	_	O
+2	#nationalfastfoodday	#nationalfastfoodday	-RRB-	pos2=UH	1	punct	_	O
+3	#eatthis	#eatthis	UH	pos2=NN	1	discourse	_	O
+

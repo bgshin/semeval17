@@ -1,0 +1,30 @@
+1	Someone	someone	NN	_	2	nsubj	_	O
+2	uploaded	upload	VBD	pos2=VBN	0	root	_	O
+3	Bob	bob	NNP	_	4	compound	_	B-PERSON
+4	Dylan	dylan	NNP	_	9	vocative	_	L-PERSON
+5	/	/	SYM	pos2=HYPH	2	punct	_	O
+6	Tom	tom	NNP	_	7	compound	_	O
+7	Petty	petty	NNP	pos2=JJ	9	nsubj	_	O
+8	-	-	:	pos2=HYPH	9	punct	_	O
+9	Hard	hard	JJ	pos2=NNP	2	advmod	_	O
+10	to	to	TO	pos2=IN	11	aux	_	O
+11	Handle	handle	VB	pos2=NNP	2	xcomp	_	O
+12	on	on	IN	_	11	prep	_	O
+13	YouTube	youtube	NNP	_	12	pobj	_	U-ORG
+14	.	.	.	_	2	punct	_	O
+
+1	Waited	wait	VBD	pos2=NNP	0	root	_	O
+2	forever	forever	RB	_	1	advmod	_	O
+3	to	to	TO	_	4	aux	_	O
+4	see	see	VB	_	1	advcl	_	O
+5	this	this	DT	_	4	dobj	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	Underwhelmed	underwhelmed	JJ	pos2=VBN	6	nmod	_	O
+2	but	but	CC	_	1	cc	_	O
+3	interested	interested	JJ	_	1	conj	_	O
+4	,	,	,	_	6	punct	_	O
+5	weird	weird	JJ	_	6	nmod	_	O
+6	times	time	NNS	_	0	root	_	O
+7	.	.	.	_	6	punct	_	O
+

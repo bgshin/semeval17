@@ -1,0 +1,23 @@
+1	#Hezbollah	#hezbollah	NNP	pos2=UH	3	nsubj	_	U-ORG
+2	shld	shld	MD	pos2=TO	3	aux	_	O
+3	get	get	VB	_	18	ccomp	_	O
+4	the	the	DT	_	5	det	_	O
+5	msg	msg	NN	pos2=NNS	3	dobj	_	O
+6	that	that	WDT	pos2=IN	10	mark	_	O
+7	#Miami	#miami	NNP	_	8	nsubj	_	U-ORG
+8	is	be	VBZ	_	5	relcl	_	O
+9	nt	nt	RB	pos2=IN	8	advmod	_	O
+10	the	the	DT	_	11	det	_	O
+11	place	place	NN	_	8	attr	_	O
+12	to	to	TO	_	13	aux	_	O
+13	do	do	VB	_	11	relcl	_	O
+14	its	its	PRP$	_	16	poss	_	O
+15	dirty	dirty	JJ	_	16	nmod	_	O
+16	biz	biz	NN	_	13	dobj	_	O
+17	,	,	,	_	22	punct	_	O
+18	says	say	VBZ	_	0	root	_	O
+19	@KathyFndzRundle	@kathyfndzrundle	IN	pos2=ADD	18	prep	_	O
+20	https://t.co/3nNjN9QPzp	#hlink#	ADD	pos2=NN	19	pobj	_	O
+21	By	by	IN	_	18	prep	_	O
+22	@DavidOvalle305	@davidovalle0	NN	pos2=NNS	21	pobj	_	U-DATE
+

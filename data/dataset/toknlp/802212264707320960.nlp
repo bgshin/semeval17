@@ -1,0 +1,25 @@
+1	@iHannaa	@ihannaa	NNP	pos2=NN	3	nmod	_	B-ORG
+2	_	_	SYM	pos2=''	3	punct	_	I-ORG
+3	@Neurprotectiv	@neurprotectiv	NNP	pos2=XX	0	root	_	L-ORG
+4	@mohanndov	@mohanndov	UH	pos2=XX	3	discourse	_	O
+5	@nyeveny	@nyeveny	UH	pos2=IN	3	discourse	_	O
+6	@E_i2i	@e_i0i	VBP	pos2=WP	4	meta	_	O
+7	you	you	PRP	_	8	nmod	_	O
+8	guys	guy	NNS	_	6	dobj	_	O
+9	involved	involve	VBN	pos2=JJ	8	acl	_	O
+10	with	with	IN	_	9	prep	_	O
+11	#ISIS	#isis	NN	pos2=NNP	10	pobj	_	O
+12	or	or	CC	_	6	cc	_	O
+13	just	just	RB	_	14	advmod	_	O
+14	#Palestinians	#palestinians	NNPS	pos2=NNS	6	conj	_	O
+15	that	that	WDT	pos2=DT	16	nsubj	_	O
+16	want	want	VBP	_	11	relcl	_	O
+17	to	to	TO	_	18	aux	_	O
+18	burn	burn	VB	_	16	xcomp	_	O
+19	gays	gay	NNS	_	18	dobj	_	O
+20	,	,	,	_	19	punct	_	O
+21	Jews	jew	NNPS	_	19	conj	_	U-NORP
+22	,	,	,	_	21	punct	_	O
+23	etc	etc	FW	_	21	conj	_	O
+24	?	?	.	_	3	punct	_	O
+

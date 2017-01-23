@@ -1,0 +1,18 @@
+1	Venezuela	venezuela	NNP	_	5	compound	_	U-GPE
+2	narcotics	narcotic	NNS	pos2=VBZ	3	compound	_	O
+3	scandal	scandal	NN	_	4	compound	_	O
+4	heaps	heap	NNS	pos2=VBZ	5	compound	_	O
+5	pressure	pressure	NN	pos2=VBP	0	root	_	O
+6	on	on	IN	_	5	prep	_	O
+7	President	president	NNP	_	8	compound	_	O
+8	Maduro	maduro	NNP	_	6	pobj	_	U-PERSON
+9	.	.	.	_	5	punct	_	O
+
+1	Execute	execute	VB	_	0	root	_	O
+2	this	this	DT	_	4	det	_	O
+3	drug	drug	NN	_	4	compound	_	O
+4	scum	scum	NN	_	1	dobj	_	O
+5	!	!	.	_	1	punct	_	O
+
+1	https://t.co/lPoKbn2gV2	#hlink#	ADD	_	0	root	_	U-ORG
+

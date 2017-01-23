@@ -1,0 +1,32 @@
+1	@Alex_Polinsky	@alex_polinsky	NNP	pos2=UH	3	nsubj	_	U-PERSON
+2	Westworld.I	westworld.i	TO	pos2=NNP	3	aux	_	O
+3	think	think	VB	pos2=VBP	0	root	_	O
+4	u	u	PRP	pos2=NNP	6	nsubj	_	O
+5	would	would	MD	_	6	aux	_	O
+6	appreciate	appreciate	VB	_	3	ccomp	_	O
+7	the	the	DT	_	9	det	_	O
+8	amazing	amazing	JJ	_	9	nmod	_	O
+9	acting	acting	NN	pos2=VBG	6	dobj	_	O
+10	in	in	IN	_	6	prep	_	O
+11	that	that	DT	_	12	det	_	O
+12	show	show	NN	pos2=VBP	10	pobj	_	O
+13	.	.	.	_	3	punct	_	O
+
+1	Also	also	RB	_	3	advmod	_	O
+2	,	,	,	_	3	punct	_	O
+3	robots	robot	NNS	_	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+
+1	Speaking	speak	VBG	_	6	advcl	_	O
+2	of	of	IN	_	1	prep	_	O
+3	robots	robot	NNS	_	2	pobj	_	O
+4	,	,	,	_	6	punct	_	O
+5	also	also	RB	_	6	advmod	_	O
+6	check	check	VB	pos2=VBP	0	root	_	O
+7	out	out	RP	_	6	prt	_	O
+8	Mr	mr	NNP	pos2=NN	6	dobj	_	O
+9	.	.	.	_	6	punct	_	O
+
+1	Robot	robot	NN	pos2=NNP	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+

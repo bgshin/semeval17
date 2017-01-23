@@ -1,0 +1,9 @@
+1	#MUSIC	#music	NN	pos2=JJ	8	dep	_	O
+2	#ArianaGrande@karinrino	#arianagrande@karinrino	ADD	pos2=XX	8	dep	_	O
+3	PM16:00Ariana	pm0ariana	NNP	pos2=GW	4	compound	_	O
+4	Grande	grande	NNP	_	8	dep	_	O
+5	-	-	:	pos2=HYPH	8	punct	_	O
+6	Baby	baby	NN	pos2=NNP	8	dep	_	O
+7	I	I	PRP	pos2=GW	8	dep	_	O
+8	https://t.co/VY7fmp6RbY	#hlink#	ADD	pos2=VBP	0	root	_	O
+

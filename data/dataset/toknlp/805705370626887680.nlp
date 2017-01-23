@@ -1,0 +1,19 @@
+1	If	if	IN	_	3	mark	_	O
+2	people	people	NNS	_	3	nsubj	_	O
+3	understood	understand	VBD	_	11	advcl	_	O
+4	this	this	DT	_	6	det	_	O
+5	last	last	JJ	_	6	nmod	_	O
+6	point	point	NN	_	3	dobj	_	O
+7	fully	fully	RB	_	3	advmod	_	O
+8	,	,	,	_	11	punct	_	O
+9	do	do	VBP	_	11	aux	_	O
+10	you	you	PRP	_	11	nsubj	_	O
+11	think	think	VB	_	0	root	_	O
+12	brexit	brexit	NN	pos2=PRP	15	nsubj	_	O
+13	would	would	MD	_	15	aux	_	O
+14	have	have	VB	_	15	aux	_	O
+15	succeeded	succeed	VBN	_	11	ccomp	_	O
+16	?	?	.	_	11	punct	_	O
+
+1	https://t.co/baXeHOEVU3	#hlink#	ADD	_	0	root	_	U-ORG
+

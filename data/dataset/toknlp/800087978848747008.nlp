@@ -1,0 +1,15 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@JackieWoodson	@jackiewoodson	NN	pos2=ADD	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	about	about	JJ	pos2=IN	2	acomp	_	O
+4	to	to	TO	_	5	aux	_	O
+5	read	read	VB	_	3	xcomp	_	O
+6	from	from	IN	_	5	prep	_	O
+7	ANOTHER	another	DT	_	8	det	_	O
+8	BROOKLYN	brooklyn	NNP	pos2=NN	6	pobj	_	U-GPE
+9	at	at	IN	_	5	prep	_	O
+10	#MiamiBookFair2016	#miamibookfair0	NN	pos2=NNP	9	pobj	_	B-FAC
+11	#NBAwards	#nbawards	ADD	pos2=GW	12	punct	_	L-FAC
+12	https://t.co/exoaiCBjoL	#hlink#	ADD	_	2	dep	_	O
+

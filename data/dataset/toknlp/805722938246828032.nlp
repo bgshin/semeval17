@@ -1,0 +1,15 @@
+1	Syrian	syrian	JJ	_	2	nmod	_	U-NORP
+2	forces	force	NNS	_	3	nsubj	_	O
+3	take	take	VBP	pos2=VB	0	root	_	O
+4	new	new	JJ	_	5	nmod	_	O
+5	district	district	NN	_	3	dobj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	control	control	VB	_	3	advcl	_	O
+8	two	#crd#	CD	_	10	nmod	_	B-CARDINAL
+9	-	-	HYPH	_	10	punct	_	I-CARDINAL
+10	thirds	#ord#	NNS	_	7	dobj	_	L-CARDINAL
+11	of	of	IN	_	10	prep	_	O
+12	east	east	NN	pos2=JJ	13	nmod	_	O
+13	Aleppo	aleppo	NNP	_	11	pobj	_	B-GPE
+14	https://t.co/mvQQNTMOzU	#hlink#	ADD	pos2=NN	3	dep	_	L-GPE
+

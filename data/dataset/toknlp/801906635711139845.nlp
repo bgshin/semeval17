@@ -1,0 +1,24 @@
+1	@NTenzer	@ntenzer	VB	pos2=NNP	0	root	_	O
+2	Another	another	DT	_	4	det	_	O
+3	history	history	NN	_	4	compound	_	O
+4	rewriter	rewriter	NN	pos2=VB	1	dobj	_	O
+5	?	?	.	_	1	punct	_	O
+
+1	Saakashvili	saakashvili	NNP	_	2	nsubj	_	U-PERSON
+2	attacked	attack	VBD	_	0	root	_	O
+3	S.	s.	NNP	_	4	compound	_	B-PERSON
+4	Ossetia	ossetia	NNP	_	2	dobj	_	L-PERSON
+5	ON	on	IN	_	2	prep	_	O
+6	THE	the	DT	_	8	det	_	O
+7	DAY	day	NN	pos2=NNP	8	compound	_	O
+8	OLYMPICS	olympics	NNPS	pos2=NNP	5	pobj	_	O
+9	STARTED	start	VBD	pos2=VBN	2	advcl	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	Ca	can	MD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	run	run	VB	_	0	root	_	O
+4	from	from	IN	_	3	prep	_	O
+5	facts	fact	NNS	_	4	pobj	_	O
+6	.	.	.	_	3	punct	_	O
+

@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det	_	O
+2	Flint	flint	NNP	_	3	compound	_	U-ORG
+3	water	water	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	also	also	RB	_	4	advmod	_	O
+6	an	an	DT	_	7	det	_	O
+7	issue	issue	NN	_	4	attr	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	https://t.co/WDpCkH5EDQ	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,16 @@
+1	@utahjazz	@utahjazz	NN	pos2=NNS	0	root	_	O
+2	above	above	IN	pos2=RB	1	prep	_	O
+3	Thunder	thunder	NNP	pos2=NN	2	pobj	_	U-ORG
+4	in	in	IN	_	1	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	Western	western	NNP	pos2=JJ	7	compound	_	O
+7	Conf	conf	NNP	pos2=NN	4	pobj	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	Feels	feel	VBZ	_	0	root	_	O
+2	good	good	JJ	_	1	acomp	_	O
+3	does	do	VBZ	_	0	root	_	O
+4	n't	not	RB	pos2=VB	3	neg	_	O
+5	it	it	PRP	pos2=VB	3	nsubj	_	O
+6	?	?	.	_	3	punct	_	O
+

@@ -1,0 +1,19 @@
+1	Support	support	VB	pos2=NN	0	root	_	O
+2	the	the	DT	_	6	det	_	B-ORG
+3	Orange	orange	NNP	_	4	compound	_	I-ORG
+4	Campaign	campaign	NNP	pos2=NN	18	dep	_	I-ORG
+5	-	-	HYPH	pos2=:	6	punct	_	I-ORG
+6	Change	change	VB	pos2=NNP	1	dobj	_	L-ORG
+7	your	your	PRP$	_	9	poss	_	O
+8	Profile	profile	NN	pos2=NNP	9	compound	_	O
+9	Picture	picture	NN	pos2=NNP	6	dobj	_	O
+10	to	to	TO	_	11	aux	_	O
+11	show	show	VB	_	6	advcl	_	O
+12	your	your	PRP$	_	13	poss	_	O
+13	Support#SpeakUpae	support#speakupae	NNS	pos2=NNP	11	dobj	_	O
+14	#OrangeTheWorld	#orangetheworld	NN	pos2=IN	16	compound	_	O
+15	#	#	NN	pos2=-LRB-	16	compound	_	O
+16	16Days	0days	NNS	pos2=GW	18	dep	_	U-MONEY
+17	…	…	:	pos2=NFP	18	punct	_	O
+18	https://t.co/TmTSk2XFXQ	#hlink#	ADD	pos2=NN	1	dep	_	U-ORG
+

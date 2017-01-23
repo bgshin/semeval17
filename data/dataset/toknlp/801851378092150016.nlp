@@ -1,0 +1,21 @@
+1	#Hezbollah	#hezbollah	XX	pos2=IN	17	dep	_	O
+2	terrorists	terrorist	NNS	_	3	nsubj	_	O
+3	using	use	VBG	_	1	ccomp	_	O
+4	civilians	civilian	NNS	_	3	dobj	_	O
+5	as	as	IN	_	3	prep	_	O
+6	human	human	JJ	_	7	nmod	_	O
+7	shields	shield	NNS	_	5	pobj	_	O
+8	,	,	,	_	7	punct	_	O
+9	1	0	CD	_	11	qmod	_	U-CARDINAL
+10	in	in	IN	_	7	prep	_	O
+11	3	0	CD	_	12	nmod	_	U-CARDINAL
+12	homes	home	NNS	_	10	pobj	_	O
+13	in	in	IN	_	12	prep	_	O
+14	south	south	JJ	pos2=VBG	16	nmod	_	O
+15	Lebanon	lebanon	NNP	_	16	compound	_	U-GPE
+16	villages	village	NNS	_	13	pobj	_	O
+17	are	be	VBP	_	0	root	_	O
+18	military	military	JJ	_	19	nmod	_	O
+19	assets	asset	NNS	_	17	attr	_	O
+20	https://t.co/Uzt6u6YNH6	#hlink#	ADD	_	17	dep	_	O
+

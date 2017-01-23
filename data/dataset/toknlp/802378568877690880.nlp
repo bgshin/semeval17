@@ -1,0 +1,35 @@
+1	deep	deep	JJ	_	3	nmod	_	O
+2	learning	learning	NN	pos2=VBG	3	compound	_	O
+3	people	people	NNS	_	7	vocative	_	O
+4	,	,	,	_	7	punct	_	O
+5	you	you	PRP	_	7	nsubj	_	O
+6	can	can	MD	_	7	aux	_	O
+7	translate	translate	VB	_	13	advcl	_	O
+8	and	and	CC	_	7	cc	_	O
+9	read	read	VB	_	7	conj	_	O
+10	lips	lip	NNS	_	9	dobj	_	O
+11	,	,	,	_	13	punct	_	O
+12	I	I	PRP	_	13	nsubj	_	O
+13	have	have	VBP	_	0	root	_	O
+14	hard	hard	JJ	_	15	nmod	_	O
+15	time	time	NN	_	16	compound	_	O
+16	typing	typing	NN	pos2=VBG	17	nsubj	_	O
+17	cause	cause	VB	pos2=IN	13	ccomp	_	O
+18	it	it	PRP	_	19	nsubj	_	O
+19	hurts	hurt	VBZ	_	17	ccomp	_	O
+20	.	.	.	_	13	punct	_	O
+
+1	can	can	MD	_	3	aux	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	get	get	VB	_	0	root	_	O
+4	"	"	``	pos2=''	5	punct	_	O
+5	voice	voice	NN	_	3	dobj	_	O
+6	to	to	IN	pos2=TO	5	prep	_	O
+7	python	python	NN	pos2=VB	6	pobj	_	O
+8	"	"	''	pos2=``	5	punct	_	O
+9	as	as	IN	_	3	prep	_	O
+10	a	a	DT	_	12	det	_	O
+11	vim	vim	NN	_	12	compound	_	O
+12	plugin	plugin	NN	_	9	pobj	_	O
+13	?	?	.	_	3	punct	_	O
+

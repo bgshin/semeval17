@@ -1,0 +1,15 @@
+1	@rudepundit	@rudepundit	UH	pos2=MD	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	agree	agree	VBP	_	0	root	_	O
+4	wholeheartedly	wholeheartedly	RB	_	3	advmod	_	O
+5	!	!	.	_	3	punct	_	O
+
+1	#notmyprsident	#notmyprsident	UH	pos2=ADD	3	discourse	_	O
+2	#StillWithHer	#stillwithher	ADD	pos2=GW	3	nmod	_	O
+3	#sanders	#sanders	NNS	pos2=UH	0	root	_	O
+4	@DrJillStein	@drjillstein	ADD	pos2=NN	3	advmod	_	O
+5	@HillaryClinton	@hillaryclinton	NNP	pos2=ADD	7	compound	_	U-ORG
+6	@BernieSanders	@berniesanders	NNS	pos2=ADD	7	compound	_	O
+7	@SenSanders	@sensanders	NNS	pos2=ADD	8	compound	_	O
+8	#TGIFriday	#tgifriday	NNP	pos2=ADD	4	pobj	_	O
+

@@ -1,0 +1,20 @@
+1	Fidel	fidel	NNP	_	2	compound	_	B-PERSON
+2	Castro	castro	NNP	_	12	nsubjpass	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	Conventional	conventional	JJ	pos2=NNP	5	nmod	_	O
+5	Dictator	dictator	NN	pos2=NNP	2	appos	_	O
+6	:	:	:	_	12	punct	_	O
+7	Fidel	fidel	NNP	_	8	compound	_	B-PERSON
+8	Castro	castro	NNP	_	10	poss	_	I-PERSON
+9	's	's	POS	_	8	case	_	L-PERSON
+10	ashes	ash	NNS	_	12	nsubjpass	_	O
+11	were	be	VBD	_	12	auxpass	_	O
+12	buried	bury	VBN	_	0	root	_	O
+13	in	in	IN	_	12	prep	_	O
+14	a	a	DT	_	15	det	_	O
+15	sort	sort	NN	_	13	pobj	_	O
+16	of	of	IN	_	15	prep	_	O
+17	boulder	boulder	NN	pos2=GW	16	pobj	_	O
+18	…	…	NFP	pos2=-LRB-	19	punct	_	O
+19	https://t.co/xBkE41I5Nu	#hlink#	ADD	_	12	punct	_	O
+

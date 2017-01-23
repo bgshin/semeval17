@@ -1,0 +1,26 @@
+1	@J_amesp	@j_amesp	XX	pos2=VB	4	dep	_	O
+2	yes	yes	UH	_	0	root	_	O
+3	though	though	IN	pos2=RB	2	advmod	_	O
+4	being	be	VBG	_	3	pcomp	_	O
+5	the	the	DT	_	7	det	_	O
+6	cynical	cynical	JJ	_	7	nmod	_	O
+7	bastard	bastard	NN	_	4	attr	_	O
+8	I	I	PRP	_	10	nsubj	_	O
+9	am	be	VBP	_	10	aux	_	O
+10	wondering	wonder	VBG	_	7	relcl	_	O
+11	whether	whether	IN	_	13	mark	_	O
+12	this	this	DT	_	13	nsubj	_	O
+13	is	be	VBZ	_	10	ccomp	_	O
+14	n't	not	RB	_	13	neg	_	O
+15	a	a	DT	_	16	det	_	O
+16	ploy	ploy	NN	_	13	attr	_	O
+17	:	:	:	_	18	punct	_	O
+18	look	look	VB	pos2=NN	16	acl	_	O
+19	at	at	IN	_	18	prep	_	O
+20	these	these	DT	_	22	det	_	O
+21	gullible	gullible	JJ	_	22	nmod	_	O
+22	liberals	liberal	NNS	_	19	pobj	_	O
+23	RTing	rting	VBG	pos2=NNP	22	acl	_	O
+24	our	our	PRP$	_	25	poss	_	O
+25	bullshit	bullshit	NN	_	23	dobj	_	O
+

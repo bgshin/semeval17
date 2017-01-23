@@ -1,0 +1,25 @@
+1	@Tom_Bacchus	@tom_bacchus	ADD	pos2=NNS	0	root	_	O
+2	except	except	IN	_	1	prep	_	O
+3	for	for	IN	_	2	prep	_	O
+4	trump	trump	NN	_	3	pobj	_	O
+5	is	be	VBZ	_	2	pcomp	_	O
+6	OK	ok	JJ	_	5	acomp	_	O
+7	with	with	IN	_	6	prep	_	O
+8	gay	gay	JJ	pos2=NN	9	nmod	_	O
+9	marriage	marriage	NN	_	7	pobj	_	O
+10	and	and	CC	_	1	cc	_	O
+11	said	say	VBD	pos2=VBN	1	conj	_	O
+12	trans	trans	NNS	pos2=NN	14	nsubj	_	O
+13	can	can	MD	_	14	aux	_	O
+14	use	use	VB	_	11	ccomp	_	O
+15	whatever	whatever	WDT	_	16	det	_	O
+16	bathrooms	bathroom	NNS	_	20	pobj	_	O
+17	they	they	PRP	_	18	nsubj	_	O
+18	are	be	VBP	_	14	ccomp	_	O
+19	comfortable	comfortable	JJ	_	18	acomp	_	O
+20	with	with	IN	_	19	prep	_	O
+21	in	in	IN	_	18	prep	_	O
+22	his	his	PRP$	_	23	poss	_	O
+23	buildings	building	NNS	_	21	pobj	_	O
+24	?	?	.	_	1	punct	_	O
+

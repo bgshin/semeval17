@@ -1,0 +1,18 @@
+1	Link	link	NN	pos2=NNP	5	nsubj	_	O
+2	in	in	IN	_	1	prep	_	O
+3	bio	bio	NN	_	2	pobj	_	O
+4	-	-	HYPH	pos2=,	5	punct	_	O
+5	Come	come	VB	pos2=NNP	0	root	_	O
+6	on	on	IN	_	5	prep	_	O
+7	The	the	DT	_	9	det	_	B-WORK_OF_ART
+8	Walking	walking	NNP	pos2=VBG	9	compound	_	I-WORK_OF_ART
+9	Dead	dead	NNP	_	6	pobj	_	L-WORK_OF_ART
+10	,	,	,	_	11	punct	_	O
+11	get	get	VB	pos2=VBP	5	dep	_	O
+12	it	it	PRP	_	11	dobj	_	O
+13	together	together	RB	_	11	advmod	_	O
+14	.	.	.	_	5	punct	_	O
+
+1	#TheWalkingDead	#thewalkingdead	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/zBrm9PKi2k	#hlink#	ADD	_	0	root	_	O
+

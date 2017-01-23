@@ -1,0 +1,27 @@
+1	@imholdenlol	@imholdenlol	UH	pos2=NNP	14	discourse	_	O
+2	Maybe	maybe	RB	_	3	advmod	_	O
+3	online	online	RB	pos2=JJ	5	advmod	_	O
+4	but	but	CC	_	5	cc	_	O
+5	in	in	IN	_	14	prep	_	O
+6	terms	term	NNS	_	5	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	presence	presence	NN	_	7	pobj	_	O
+9	outside	outside	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	left	left	NN	pos2=JJ	9	pobj	_	O
+12	,	,	,	_	14	punct	_	O
+13	tankies	tankies	NNS	_	14	nsubj	_	O
+14	have	have	VBP	_	0	root	_	O
+15	sane	sane	JJ	_	16	nmod	_	O
+16	leftists	leftist	NNS	_	17	nsubj	_	O
+17	beat	beat	VBP	pos2=VBN	14	ccomp	_	O
+18	.	.	.	_	14	punct	_	O
+
+1	Most	most	JJS	_	2	nmod	_	O
+2	orgs	orgs	NNS	_	4	nsubjpass	_	O
+3	are	be	VBP	_	4	auxpass	_	O
+4	composed	compose	VBN	_	0	root	_	O
+5	of	of	IN	_	4	prep	_	O
+6	tankies	tankies	NNS	_	5	pobj	_	O
+7	.	.	.	_	4	punct	_	O
+

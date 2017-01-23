@@ -1,0 +1,17 @@
+1	@megynkelly	@megynkelly	UH	pos2=RB	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	think	think	VBP	_	0	root	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	forgot	forget	VBD	pos2=VBP	3	ccomp	_	O
+6	to	to	TO	_	7	aux	_	O
+7	follow	follow	VB	_	5	xcomp	_	O
+8	your	your	PRP$	_	10	poss	_	O
+9	own	own	JJ	_	10	nmod	_	O
+10	advice	advice	NN	_	7	dobj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	IMO	imo	RB	pos2=NN	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	@petestavros	@petestavros	UH	pos2=NNS	0	root	_	O
+

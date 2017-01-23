@@ -1,0 +1,25 @@
+1	“	"	``	pos2=SYM	2	punct	_	O
+2	Make	make	VB	pos2=VBP	0	root	_	O
+3	Art	art	NN	pos2=NNP	2	dobj	_	O
+4	,	,	,	_	2	punct	_	O
+5	and	and	CC	_	2	cc	_	O
+6	Fight	fight	VB	pos2=NNP	2	conj	_	O
+7	the	the	DT	_	8	det	_	O
+8	Power	power	NN	pos2=NNP	6	dobj	_	O
+9	”	"	''	_	2	punct	_	O
+10	:	:	:	_	2	punct	_	O
+11	A	a	DT	pos2=NNP	24	dep	_	O
+12	Historically	historically	RB	_	21	advmod	_	O
+13	Black	black	NNP	pos2=JJ	16	compound	_	B-EVENT
+14	National	national	NNP	_	16	compound	_	I-EVENT
+15	Book	book	NNP	_	16	compound	_	I-EVENT
+16	Awards	award	NNPS	pos2=NNP	21	dep	_	L-EVENT
+17	-	-	:	pos2=,	16	punct	_	O
+18	The	the	DT	_	20	det	_	B-ORG
+19	New	new	NNP	_	20	compound	_	I-ORG
+20	Yorker	yorker	NNP	_	21	compound	_	I-ORG
+21	#NBAwards	#nbawards	NNP	pos2=ADD	24	dep	_	L-ORG
+22	|	|	SYM	pos2=,	24	punct	_	O
+23	@scoopit	@scoopit	ADD	pos2=NFP	24	dep	_	O
+24	https://t.co/GWf9O6sleP	#hlink#	ADD	_	2	dep	_	O
+

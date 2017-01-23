@@ -1,0 +1,10 @@
+1	Analyzing	analyze	VBG	_	0	root	_	O
+2	Post-Disaster	post-disaster	JJ	pos2=RB	4	nmod	_	O
+3	#Structural	#structural	NNP	pos2=JJ	4	compound	_	B-ORG
+4	Damage	damage	NNP	pos2=NN	1	dobj	_	I-ORG
+5	Using	use	VBG	_	1	advcl	_	I-ORG
+6	#DeepLearning	#deeplearning	NNP	pos2=GW	7	compound	_	I-ORG
+7	Systems	system	NNS	pos2=NNPS	5	dobj	_	L-ORG
+8	https://t.co/ByMd5netsy	#hlink#	ADD	_	9	nmod	_	O
+9	https://t.co/j6819uxChU	#hlink#	ADD	_	6	appos	_	U-ORG
+

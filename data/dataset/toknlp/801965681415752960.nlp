@@ -1,0 +1,22 @@
+1	Hahahaha	hahahaha	UH	pos2=NNP	3	discourse	_	O
+2	Chanel	chanel	NNP	_	3	nsubj	_	U-ORG
+3	having	have	VBG	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	bitch	bitch	NN	_	6	compound	_	O
+6	fit	fit	NN	pos2=VB	3	dobj	_	O
+7	when	when	WRB	_	10	advmod	_	O
+8	Munsch	munsch	NNP	_	10	nsubj	_	U-PERSON
+9	was	be	VBD	_	10	aux	_	O
+10	removing	remove	VBG	_	3	advcl	_	O
+11	her	her	PRP$	_	12	poss	_	O
+12	points	point	NNS	_	10	dobj	_	O
+13	.	.	.	_	3	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	hilarious	hilarious	JJ	_	2	acomp	_	O
+4	!	!	.	_	2	punct	_	O
+
+1	#ScreamQueens	#screamqueens	ADD	pos2=NNS	2	punct	_	O
+2	https://t.co/d3M8SmAl7g	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,24 @@
+1	Each	each	DT	_	4	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	us	us	PRP	_	2	pobj	_	O
+4	has	have	VBZ	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	vision	vision	NN	_	4	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	good	good	JJ	pos2=NN	7	pobj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	of	of	IN	_	8	conj	_	O
+11	evil	evil	NN	_	10	pobj	_	O
+12	.	.	.	_	4	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	have	have	VBP	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	encourage	encourage	VB	_	2	xcomp	_	O
+5	pe	pe	NN	pos2=NNS	4	dobj	_	O
+6	...	..	.	_	2	punct	_	O
+
+1	#PopeFrancis	#popefrancis	GW	pos2=NN	3	nmod	_	B-PERSON
+2	#aphorisms	#aphorisms	GW	pos2=NNS	3	nmod	_	L-PERSON
+3	https://t.co/qHI2yik2ip	#hlink#	ADD	pos2=NN	0	root	_	O
+

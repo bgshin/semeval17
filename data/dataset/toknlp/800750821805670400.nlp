@@ -1,0 +1,22 @@
+1	At	at	IN	_	13	prep	_	O
+2	the	the	DT	_	3	det	_	O
+3	Connect	connect	NNP	pos2=NN	1	pobj	_	O
+4	(	(	-LRB-	_	3	punct	_	O
+5	)	)	-RRB-	_	3	punct	_	O
+6	;	;	,	_	3	punct	_	O
+7	developer	developer	NN	_	8	compound	_	O
+8	event	event	NN	pos2=RB	13	nsubj	_	O
+9	this	this	DT	_	10	det	_	B-DATE
+10	month	month	NN	_	8	npadvmod	_	L-DATE
+11	,	,	,	_	13	punct	_	O
+12	#Microsoft	#microsoft	NNP	_	13	nsubj	_	U-PERSON
+13	announced	announce	VBD	_	0	root	_	O
+14	that	that	IN	_	17	mark	_	O
+15	it	it	PRP	_	17	nsubj	_	O
+16	is	be	VBZ	_	17	aux	_	O
+17	joining	join	VBG	_	13	ccomp	_	O
+18	the	the	DT	_	17	dep	_	O
+19	#LinuxFoundation	#linuxfoundation	NN	pos2=GW	21	nmod	_	O
+20	-	-	HYPH	pos2=,	21	punct	_	O
+21	https://t.co/vGUmj97rw9	#hlink#	ADD	pos2=NN	17	dobj	_	O
+

@@ -1,0 +1,16 @@
+1	Absolutely!@ABCNetwork	absolutely!@abcnetwork	NN	pos2=XX	3	compound	_	O
+2	@Disney	@disney	NNP	pos2=ADD	3	compound	_	B-PERSON
+3	@DisneyStudios	@disneystudios	NNS	pos2=XX	8	vocative	_	L-PERSON
+4	,	,	,	_	8	punct	_	O
+5	We	we	PRP	_	8	nsubj	_	O
+6	're	be	VBP	_	8	aux	_	O
+7	NOT	not	RB	_	8	neg	_	O
+8	watching	watch	VBG	_	0	root	_	O
+9	@OnceABC	@onceabc	NNS	pos2=NN	8	dobj	_	O
+10	#OUAT	#ouat	NN	pos2=TO	11	compound	_	O
+11	ruin	ruin	NN	pos2=VB	15	dep	_	O
+12	#BeautyAndTheBeast	#beautyandthebeast	XX	pos2=IN	15	dep	_	O
+13	#RumBelle	#rumbelle	GW	pos2=XX	15	nmod	_	U-MONEY
+14	…	…	NFP	pos2=GW	15	punct	_	O
+15	https://t.co/rQm01Vd5d2	#hlink#	ADD	_	8	dep	_	O
+

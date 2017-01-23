@@ -1,0 +1,35 @@
+1	@JudgeJeanine	@judgejeanine	VB	pos2=NNP	0	root	_	O
+2	More	more	JJR	_	3	nmod	_	O
+3	irony	irony	NN	pos2=JJ	1	dobj	_	O
+4	,	,	,	_	1	punct	_	O
+5	Dems	dems	NNPS	pos2=NNP	7	nmod	_	U-NORP
+6	/	/	HYPH	pos2=SYM	7	punct	_	O
+7	liberals	liberal	NNS	_	3	appos	_	O
+8	slamming	slam	VBG	_	7	acl	_	O
+9	DJT	djt	NNP	pos2=NN	8	dobj	_	U-ORG
+10	"	"	``	_	13	punct	_	O
+11	rich	rich	JJ	_	13	nmod	_	O
+12	"	"	''	_	13	punct	_	O
+13	cabinet	cabinet	NN	_	8	dobj	_	O
+14	.	.	.	_	1	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	party	party	NN	_	2	attr	_	O
+5	of	of	IN	_	4	prep	_	O
+6	the	the	DT	_	18	det	_	O
+7	rich	rich	JJ	_	18	nmod	_	O
+8	/	/	SYM	_	13	punct	_	O
+9	Hollywood	hollywood	NNP	pos2=NN	4	appos	_	U-GPE
+10	/	/	SYM	pos2=,	13	punct	_	O
+11	WallStreet	wallstreet	NNP	pos2=NN	17	compound	_	O
+12	/	/	SYM	pos2=,	9	punct	_	O
+13	NY	ny	NN	pos2=NNP	9	npadvmod	_	O
+14	-	-	HYPH	pos2=:	17	punct	_	O
+15	DC	dc	NNP	pos2=NN	17	compound	_	O
+16	-	-	HYPH	pos2=SYM	17	punct	_	O
+17	CA	ca	NNP	pos2=NN	18	compound	_	O
+18	elite	elite	NN	pos2=JJ	5	pobj	_	O
+19	.	.	.	_	2	punct	_	O
+

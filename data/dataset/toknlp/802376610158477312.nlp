@@ -1,0 +1,18 @@
+1	@ABC	@abc	NN	pos2=NFP	3	compound	_	O
+2	Nancy	nancy	NNP	_	3	compound	_	B-PERSON
+3	Pelosi	pelosi	NNP	_	4	nsubj	_	L-PERSON
+4	needs	need	VBZ	_	0	root	_	O
+5	to	to	IN	pos2=TO	4	prep	_	O
+6	the	the	DT	_	9	det	_	O
+7	leave	leave	VB	pos2=NN	9	nmod	_	O
+8	Congress	congress	NNP	_	9	compound	_	U-ORG
+9	period	period	NN	_	5	pobj	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	She	she	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	national	national	JJ	_	5	nmod	_	O
+5	disgrace	disgrace	NN	_	2	attr	_	O
+6	.	.	.	_	2	punct	_	O
+

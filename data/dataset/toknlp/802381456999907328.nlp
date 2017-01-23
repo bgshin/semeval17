@@ -1,0 +1,36 @@
+1	@HandToForehead	@handtoforehead	RB	pos2=VBN	2	advmod	_	O
+2	By	by	IN	_	7	prep	_	O
+3	her	her	PRP$	_	5	poss	_	O
+4	own	own	JJ	_	5	nmod	_	O
+5	admission	admission	NN	_	2	pobj	_	O
+6	he	he	PRP	_	7	nsubj	_	O
+7	tried	try	VBD	_	0	root	_	O
+8	to	to	TO	_	9	aux	_	O
+9	pick	pick	VB	_	7	xcomp	_	O
+10	up	up	RP	_	9	prt	_	O
+11	Melania	melania	NNP	pos2=NN	9	dobj	_	U-PERSON
+12	while	while	IN	_	14	mark	_	O
+13	he	he	PRP	_	14	nsubj	_	O
+14	was	be	VBD	_	7	advcl	_	O
+15	with	with	IN	_	14	prep	_	O
+16	a	a	DT	_	17	det	_	O
+17	date	date	NN	_	15	pobj	_	O
+18	.	.	.	_	7	punct	_	O
+
+1	Trump	trump	NN	pos2=NNP	2	nsubj	_	U-PERSON
+2	is	be	VBZ	_	0	root	_	O
+3	loyal	loyal	JJ	_	2	acomp	_	O
+4	to	to	IN	_	3	prep	_	O
+5	Trump	trump	NNP	pos2=VB	4	pobj	_	U-ORG
+6	.	.	.	_	2	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	it	it	PRP	_	2	attr	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	End	end	NN	_	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	story	story	NN	_	2	pobj	_	O
+4	.	.	.	_	1	punct	_	O
+

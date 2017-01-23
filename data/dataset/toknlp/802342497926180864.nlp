@@ -1,0 +1,15 @@
+1	https://t.co/Rwk40dlsob	#hlink#	ADD	_	7	nsubj	_	O
+2	#ghana	#ghana	-RRB-	pos2=IN	1	punct	_	O
+3	#news	#news	UH	pos2=FW	1	discourse	_	O
+4	@ghanastarnews	@ghanastarnews	POS	pos2=VBZ	1	punct	_	O
+5	Donald	donald	NNP	_	6	compound	_	B-PERSON
+6	Trump	trump	NNP	_	7	nsubj	_	L-PERSON
+7	denies	deny	VBZ	_	0	root	_	O
+8	transition	transition	NN	_	9	compound	_	O
+9	disarray	disarray	NN	_	7	dobj	_	O
+10	after	after	IN	_	7	prep	_	O
+11	sackings	sacking	NNS	_	10	pobj	_	O
+12	Donald	donald	NNP	pos2=GW	14	nmod	_	B-PERSON
+13	…	…	NFP	pos2=VBD	14	punct	_	L-PERSON
+14	https://t.co/uhPBfaMOc3	#hlink#	ADD	_	7	dep	_	O
+

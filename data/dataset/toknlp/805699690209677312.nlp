@@ -1,0 +1,27 @@
+1	@DPJHodges	@dpjhodges	NNS	pos2=VBZ	5	nsubj	_	O
+2	@rfesteadman	@rfesteadman	IN	pos2=POS	1	prep	_	O
+3	Casey	casey	NNP	_	4	compound	_	B-ORG
+4	Oath	oath	NNP	_	2	pobj	_	L-ORG
+5	seems	seem	VBZ	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	be	be	VB	_	5	xcomp	_	O
+8	one	#crd#	CD	_	7	attr	_	U-CARDINAL
+9	in	in	IN	_	8	prep	_	O
+10	favour	favour	NN	_	9	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	gay	gay	JJ	_	13	nmod	_	O
+13	marriage	marriage	NN	_	11	pobj	_	O
+14	and	and	CC	_	13	cc	_	O
+15	miniskirts	miniskirt	NNS	_	13	conj	_	O
+16	-	-	,	pos2=:	20	punct	_	O
+17	not	not	RB	_	18	neg	_	O
+18	sure	sure	JJ	pos2=RB	7	acomp	_	O
+19	that	that	DT	pos2=IN	20	nsubj	_	O
+20	's	's	VBZ	_	18	ccomp	_	O
+21	on	on	IN	_	20	prep	_	O
+22	a	a	DT	_	23	det	_	O
+23	par	par	NN	_	21	pobj	_	O
+24	with	with	IN	_	23	prep	_	O
+25	US	us	NNP	_	26	compound	_	U-GPE
+26	Constitution	constitution	NNP	pos2=NN	24	pobj	_	U-LAW
+

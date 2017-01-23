@@ -1,0 +1,10 @@
+1	Retweeted	retweeted	VBN	pos2=VBD	3	nmod	_	O
+2	Maduro	maduro	NNP	_	3	compound	_	B-ORG
+3	Ardiente	ardiente	NNP	pos2=FW	9	dep	_	L-ORG
+4	(	(	-LRB-	_	5	punct	_	O
+5	@madurobta	@madurobta	NNP	pos2=NFP	3	appos	_	O
+6	)	)	-RRB-	_	5	punct	_	O
+7	:@sexologamartha	:@sexologamartha	GW	pos2=NFP	9	nmod	_	O
+8	https://t.co/p2v08CWWc8	#hlink#	ADD	_	9	nmod	_	O
+9	https://t.co/1aBVF8z5q3	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,25 @@
+1	Russia	russia	NNP	_	2	nsubj	_	U-GPE
+2	tells	tell	VBZ	_	0	root	_	O
+3	U.S.	u.s.	NNP	_	2	dobj	_	U-GPE
+4	to	to	TO	_	5	aux	_	O
+5	get	get	VB	_	2	xcomp	_	O
+6	out	out	IN	_	5	prep	_	O
+7	of	of	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	way	way	NN	_	7	pobj	_	O
+10	in	in	IN	_	9	prep	_	O
+11	Syria	syria	NNP	_	10	pobj	_	U-GPE
+12	https://t.co/Mx8jBeoWMxeveryone's	#hlink#	ADD	pos2=NNP	11	appos	_	O
+13	been	be	VBN	_	14	aux	_	O
+14	looking	look	VBG	_	15	acl	_	O
+15	4	0	CD	_	12	prep	_	U-CARDINAL
+16	an	an	DT	pos2=NNS	19	det	_	O
+17	'	'	``	_	19	punct	_	O
+18	exit	exit	NN	_	19	compound	_	O
+19	strategy	strategy	NN	_	14	dobj	_	O
+20	'	'	''	_	19	punct	_	O
+21	4	0	CD	_	22	nmod	_	U-CARDINAL
+22	decadesPutin	decadesputin	NNS	pos2=NNP	19	appos	_	O
+23	in	in	IN	pos2=RB	22	prep	_	O
+24	??	??	.	_	2	punct	_	O
+

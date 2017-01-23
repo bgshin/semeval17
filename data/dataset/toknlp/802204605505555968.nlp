@@ -1,0 +1,9 @@
+1	@observer	@observer	UH	pos2=WP	4	discourse	_	O
+2	you	you	PRP	_	4	nsubjpass	_	O
+3	're	be	VBP	_	4	auxpass	_	O
+4	owned	own	VBN	_	0	root	_	O
+5	by	by	IN	_	4	agent	_	O
+6	a	a	DT	_	7	det	_	O
+7	nazi	nazi	NN	_	5	pobj	_	O
+8	.	.	.	_	4	punct	_	O
+

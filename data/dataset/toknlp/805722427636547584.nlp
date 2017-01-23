@@ -1,0 +1,15 @@
+1	Eastern	eastern	NNP	pos2=JJ	3	compound	_	B-ORG
+2	Aleppo	aleppo	NNP	_	3	compound	_	I-ORG
+3	Militants	militant	NNPS	pos2=NNS	14	nsubj	_	L-ORG
+4	in	in	IN	_	3	prep	_	O
+5	Talks	talks	NNP	pos2=NNPS	4	pobj	_	B-ORG
+6	With	with	IN	_	5	prep	_	I-ORG
+7	Syrian	syrian	NNP	pos2=JJ	8	compound	_	I-ORG
+8	Army	army	NNP	pos2=NN	6	pobj	_	L-ORG
+9	on	on	IN	_	3	prep	_	O
+10	Terms	term	NNS	pos2=NNPS	9	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	Surrender	surrender	GW	pos2=NN	14	nmod	_	O
+13	https://t.co/MRBuC6i2lU	#hlink#	ADD	_	14	nmod	_	O
+14	https://t.co/qmkNYgovr0	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,17 @@
+1	Top	top	JJ	pos2=NNP	2	nmod	_	O
+2	Reasons	reason	NNS	pos2=NNPS	0	root	_	O
+3	Why	why	WRB	_	6	advmod	_	O
+4	You	you	PRP	pos2=NNP	6	nsubj	_	O
+5	Should	should	MD	_	6	aux	_	O
+6	Visit	visit	VB	_	2	relcl	_	O
+7	Israel	israel	NNP	_	9	compound	_	U-GPE
+8	-	-	HYPH	pos2=:	9	punct	_	O
+9	Voyager	voyager	NNP	_	6	dobj	_	U-PRODUCT
+10	https://t.co/UFBx2XBgUX	#hlink#	ADD	pos2=NNPS	6	dobj	_	O
+11	@meetinisrael	@meetinisrael	-RRB-	pos2=XX	16	punct	_	O
+12	#Israel	#israel	NNP	pos2=-RRB-	14	compound	_	O
+13	#Travel	#travel	NNP	pos2=XX	14	compound	_	O
+14	#Vacation	#vacation	NNP	pos2=ADD	16	compound	_	O
+15	#FamilyTravel	#familytravel	ADD	pos2=NNP	16	compound	_	O
+16	#Jerusalem	#jerusalem	NNP	pos2=ADD	6	dobj	_	O
+

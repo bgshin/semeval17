@@ -1,0 +1,17 @@
+1	@quizderek	@quizderek	UH	pos2=VB	10	discourse	_	O
+2	More👇Mahatma	more👇mahatma	NNP	pos2=NNPS	4	compound	_	O
+3	Gandhi	gandhi	NNP	_	4	compound	_	O
+4	1930Pope	0pope	NNP	pos2=NN	9	compound	_	O
+5	John	john	NNP	_	9	compound	_	B-PERSON
+6	XXIII	xxiii	NNP	pos2=CD	9	compound	_	L-PERSON
+7	1962Pope	0pope	NNP	pos2=NN	9	compound	_	O
+8	Francis	francis	NNP	_	9	compound	_	B-PERSON
+9	2013Finger	0finger	NNP	_	10	nsubj	_	L-PERSON
+10	stuck	stick	VBD	pos2=VBN	0	root	_	O
+11	while	while	IN	_	12	mark	_	O
+12	applyig	applyig	VBG	pos2=XX	10	advcl	_	O
+13	burnol	burnol	NN	pos2=NNP	12	dobj	_	O
+14	?	?	.	_	10	punct	_	O
+
+1	https://t.co/PmAgr4Qi6D	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,17 @@
+1	Stake	stake	NN	pos2=VB	6	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	Voter	voter	NNP	pos2=NN	4	compound	_	O
+4	Registration	registration	NN	pos2=NNP	5	compound	_	O
+5	Deadline	deadline	NN	pos2=NNP	1	conj	_	O
+6	is	be	VBZ	_	10	ccomp	_	O
+7	Monday	monday	NNP	_	6	attr	_	U-DATE
+8	:	:	:	_	10	punct	_	O
+9	Link	link	NN	_	10	nsubj	_	O
+10	Is	be	VBZ	_	0	root	_	O
+11	For	for	IN	pos2=NNP	10	prep	_	O
+12	Online	online	NNP	pos2=JJ	13	compound	_	O
+13	Registration	registration	NNP	pos2=NN	11	pobj	_	O
+14	ht	ht	IN	pos2=NN	10	prep	_	O
+15	…	…	NNP	pos2=NFP	14	pobj	_	O
+16	.	.	.	_	10	punct	_	O
+

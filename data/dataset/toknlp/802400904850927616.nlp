@@ -1,0 +1,22 @@
+1	Retweeted	retweeted	VBN	pos2=VBD	3	nmod	_	O
+2	CS	cs	NNP	pos2=NN	3	compound	_	B-ORG
+3	Monitor	monitor	NNP	pos2=NN	8	nsubj	_	L-ORG
+4	(	(	-LRB-	_	3	punct	_	O
+5	@csmonitor	@csmonitor	NNP	pos2=UH	3	appos	_	O
+6	)	)	-RRB-	_	3	punct	_	O
+7	:Bannon	:bannon	NNP	pos2=NN	8	nsubj	_	O
+8	said	say	VBD	_	0	root	_	O
+9	the	the	DT	_	10	det	_	O
+10	administration	administration	NN	_	11	nsubj	_	O
+11	planned	plan	VBD	pos2=VBN	8	ccomp	_	O
+12	to	to	TO	_	13	aux	_	O
+13	usher	usher	VB	_	11	xcomp	_	O
+14	in	in	IN	_	13	prep	_	O
+15	a	a	DT	_	18	det	_	O
+16	"	"	``	_	18	punct	_	O
+17	new	new	JJ	_	18	nmod	_	O
+18	political	political	JJ	pos2=NN	14	pobj	_	O
+19	...	..	.	_	8	punct	_	O
+
+1	https://t.co/xQdp874Ibb	#hlink#	ADD	_	0	root	_	U-ORG
+

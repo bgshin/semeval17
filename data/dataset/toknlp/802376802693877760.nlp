@@ -1,0 +1,26 @@
+1	Even	even	RB	_	3	advmod	_	O
+2	the	the	DT	_	3	det	_	O
+3	#NYTimes	#nytimes	NNP	pos2=NNS	5	nsubj	_	U-ORG
+4	is	be	VBZ	_	5	aux	_	O
+5	admitting	admit	VBG	_	0	root	_	O
+6	,	,	,	_	5	punct	_	O
+7	via	via	IN	_	5	prep	_	O
+8	Krugman	krugman	NNP	_	10	poss	_	U-ORG
+9	's	's	POS	_	8	case	_	O
+10	nonsense	nonsense	NN	_	7	pobj	_	O
+11	,	,	,	_	5	punct	_	O
+12	that	that	IN	pos2=DT	14	mark	_	O
+13	Trump	trump	NNP	pos2=NN	14	nsubj	_	U-ORG
+14	is	be	VBZ	_	5	ccomp	_	O
+15	why	why	WRB	_	17	advmod	_	O
+16	TPP	tpp	NN	pos2=NNP	17	nsubj	_	O
+17	is	be	VBZ	_	14	ccomp	_	O
+18	dead	dead	JJ	_	17	acomp	_	O
+19	.	.	.	_	5	punct	_	O
+
+1	#DemExit	#demexit	NN	pos2=ADD	5	nmod	_	O
+2	#NotMeUs	#notmeus	ADD	pos2=XX	5	punct	_	O
+3	#RealLeftNow	#realleftnow	ADD	pos2=XX	5	punct	_	O
+4	#ThirdParty	#thirdparty	ADD	pos2=NN	0	root	_	O
+5	#Greens	#greens	NNS	pos2=ADD	4	pobj	_	O
+

@@ -1,0 +1,11 @@
+1	A	a	DT	pos2=NNP	2	det	_	O
+2	Cartoon	cartoon	NNP	pos2=NN	10	nmod	_	U-ORG
+3	from	from	IN	_	2	prep	_	O
+4	The	the	DT	_	6	det	_	B-ORG
+5	New	new	NNP	_	6	compound	_	I-ORG
+6	Yorker	yorker	NNP	_	3	pobj	_	L-ORG
+7	https://t.co/B8byMn4GYP	#hlink#	ADD	pos2=NNP	10	nmod	_	O
+8	via	via	IN	_	2	prep	_	O
+9	@newyorker	@newyorker	-RRB-	pos2=NN	10	punct	_	O
+10	#TrumpTransitionTeam	#trumptransitionteam	NN	pos2=ADD	0	root	_	U-TIME
+

@@ -1,0 +1,15 @@
+1	@atolle81	@atolle0	NN	pos2=XX	0	root	_	O
+2	idk	idk	UH	pos2=NN	1	discourse	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	think	think	VB	_	0	root	_	O
+5	Grayson	grayson	NNP	_	6	compound	_	B-PERSON
+6	Allen	allen	NNP	_	7	nsubj	_	L-PERSON
+7	is	be	VBZ	_	4	ccomp	_	O
+8	that	that	IN	pos2=DT	9	advmod	_	O
+9	attractive	attractive	JJ	_	7	acomp	_	O
+10	.	.	.	_	4	punct	_	O
+

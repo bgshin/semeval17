@@ -1,0 +1,12 @@
+1	Brexit	brexit	VB	pos2=DT	0	root	_	O
+2	concerns	concern	NNS	_	1	dobj	_	O
+3	among	among	IN	_	2	prep	_	O
+4	SMEs	sm	NNS	_	3	pobj	_	O
+5	,	,	,	_	1	punct	_	O
+6	but	but	CC	_	1	cc	_	O
+7	few	few	JJ	_	8	nmod	_	O
+8	planning	planning	NN	pos2=VBG	11	nsubj	_	O
+9	ahead	ahead	RB	_	8	advmod	_	O
+10	https://t.co/jum7ycoodO	#hlink#	ADD	pos2=NN	11	nsubj	_	O
+11	#SmallBiz	#smallbiz	ADD	pos2=-RRB-	1	conj	_	O
+

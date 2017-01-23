@@ -1,0 +1,20 @@
+1	Berry	berry	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Thomas	thomas	NNP	_	5	nsubj	_	L-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	Mathieu	mathieu	NNP	_	2	conj	_	U-PERSON
+5	are	be	VBP	_	0	root	_	O
+6	the	the	DT	_	8	det	_	O
+7	GOLD	gold	NN	pos2=NNP	8	compound	_	O
+8	STANDARD	standard	NN	_	5	attr	_	O
+9	of	of	IN	_	8	prep	_	O
+10	what	what	WP	_	15	attr	_	O
+11	an	an	DT	_	13	det	_	O
+12	NFL	nfl	NNP	pos2=JJ	13	compound	_	U-ORG
+13	safety	safety	NN	_	15	nsubj	_	O
+14	should	should	MD	_	15	aux	_	O
+15	be	be	VB	_	9	pcomp	_	O
+16	in	in	IN	_	15	prep	_	O
+17	this	this	DT	_	19	det	_	O
+18	new	new	JJ	_	19	nmod	_	O
+19	league	league	NN	_	16	pobj	_	O
+

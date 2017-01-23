@@ -1,0 +1,15 @@
+1	@afgrandi	@afgrandi	UH	pos2=NNS	3	discourse	_	O
+2	@KateUpton	@kateupton	MD	pos2=ADD	3	aux	_	O
+3	bring	bring	VB	pos2=VBP	8	advcl	_	O
+4	verlander	verlander	NN	pos2=RB	3	dobj	_	O
+5	,	,	,	_	8	punct	_	O
+6	he	he	PRP	_	8	nsubj	_	O
+7	'd	would	MD	_	8	aux	_	O
+8	be	be	VB	_	0	root	_	O
+9	great	great	JJ	pos2=RB	8	acomp	_	O
+10	on	on	IN	_	8	prep	_	O
+11	the	the	DT	_	13	det	_	B-ORG
+12	Red	red	NNP	_	13	compound	_	I-ORG
+13	Sox	sox	NNP	pos2=NNPS	10	pobj	_	L-ORG
+14	.	.	.	_	8	punct	_	O
+

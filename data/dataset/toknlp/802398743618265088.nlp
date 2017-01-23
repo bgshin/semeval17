@@ -1,0 +1,19 @@
+1	@mzmadmike	@mzmadmike	UH	pos2=VB	5	discourse	_	O
+2	Millions	#crd#	NNS	pos2=NNPS	5	nsubj	_	U-CARDINAL
+3	of	of	IN	_	2	prep	_	O
+4	Venezuelans	venezuelan	NNPS	pos2=NNS	3	pobj	_	U-NORP
+5	await	await	VBP	pos2=VB	0	root	_	O
+6	for	for	IN	_	9	mark	_	O
+7	Maduro	maduro	NNP	_	9	nsubj	_	U-ORG
+8	to	to	TO	_	9	aux	_	O
+9	be	be	VB	_	5	advcl	_	O
+10	a	a	DT	_	12	det	_	O
+11	good	good	JJ	_	12	nmod	_	O
+12	communist	communist	NN	pos2=JJ	9	attr	_	O
+13	and	and	CC	_	9	cc	_	O
+14	follow	follow	VB	_	9	conj	_	O
+15	Fidel	fidel	NNP	_	17	poss	_	U-PERSON
+16	's	's	POS	_	15	case	_	O
+17	example	example	NN	_	14	dobj	_	O
+18	.	.	.	_	5	punct	_	O
+

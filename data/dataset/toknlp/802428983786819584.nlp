@@ -1,0 +1,24 @@
+1	Industry	industry	NN	_	2	compound	_	O
+2	leaders	leader	NNS	_	4	nsubjpass	_	O
+3	were	be	VBD	_	4	auxpass	_	O
+4	stunned	stun	VBN	_	0	root	_	O
+5	by	by	IN	_	4	agent	_	O
+6	the	the	DT	_	7	det	_	O
+7	election	election	NN	_	5	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	Trump	trump	NNP	pos2=NN	8	pobj	_	U-ORG
+10	and	and	CC	_	7	cc	_	O
+11	unprepared	unprepared	JJ	pos2=VBD	7	conj	_	O
+12	for	for	IN	_	11	prep	_	O
+13	plans	plan	NNS	_	12	pobj	_	O
+14	to	to	TO	_	16	aux	_	O
+15	"	"	``	_	16	punct	_	O
+16	repeal	repeal	VB	_	13	acl	_	O
+17	and	and	CC	_	16	cc	_	O
+18	replace	replace	VB	_	16	conj	_	O
+19	"	"	''	pos2=``	18	punct	_	O
+20	Obamacare	obamacare	NNP	_	18	dobj	_	O
+21	.	.	.	_	4	punct	_	O
+
+1	https://t.co/rGXkZAMH6M	#hlink#	ADD	_	0	root	_	U-ORG
+

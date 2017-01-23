@@ -1,0 +1,23 @@
+1	@MarcBrodyreal	@marcbrodyreal	ADD	pos2=XX	2	det	_	O
+2	@MrDane1982	@mrdane0	NN	pos2=NNS	0	root	_	O
+3	at	at	IN	_	2	prep	_	O
+4	the	the	DT	_	6	det	_	B-ORG
+5	Clinton	clinton	NNP	_	6	compound	_	I-ORG
+6	Foundation	foundation	NNP	_	3	pobj	_	L-ORG
+7	?	?	.	_	2	punct	_	O
+
+1	Do	do	VBP	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	work	work	VB	_	0	root	_	O
+4	there	there	RB	_	3	advmod	_	O
+5	?	?	.	_	3	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	seem	seem	VBP	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	have	have	VB	_	2	xcomp	_	O
+5	the	the	DT	_	7	det	_	O
+6	inside	inside	JJ	pos2=NN	7	nmod	_	O
+7	scoop	scoop	NN	_	4	dobj	_	O
+8	.	.	.	_	2	punct	_	O
+

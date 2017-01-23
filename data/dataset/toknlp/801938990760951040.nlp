@@ -1,0 +1,20 @@
+1	Had	have	VBD	_	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	opportunity	opportunity	NN	_	1	dobj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	discuss	discuss	VB	_	3	acl	_	O
+6	#antislavery	#antislavery	NN	pos2=NNS	5	dobj	_	O
+7	and	and	CC	_	1	cc	_	O
+8	#humantrafficking	#humantrafficking	VBG	pos2=NN	1	conj	_	O
+9	with	with	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	@UNODC	@unodc	NN	pos2=NNP	9	pobj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	Vienna	vienna	NNP	_	12	pobj	_	U-GPE
+14	today	today	NN	_	8	npadvmod	_	U-DATE
+15	.	.	.	_	1	punct	_	O
+
+1	#UnitedNations	#unitednations	NNS	pos2=GW	3	nmod	_	O
+2	…	…	NFP	pos2=-LRB-	3	punct	_	O
+3	https://t.co/jJGGyNaogP	#hlink#	ADD	pos2=NN	0	root	_	O
+

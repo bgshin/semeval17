@@ -1,0 +1,22 @@
+1	@dcb72	@dcb0	LS	pos2=NN	7	meta	_	O
+2	@nytimes	@nytimes	IN	pos2=VBZ	7	prep	_	O
+3	further	far	JJ	_	4	nmod	_	O
+4	irony	irony	NN	_	2	pobj	_	O
+5	,	,	,	_	7	punct	_	O
+6	Florida	florida	NNP	_	7	nsubj	_	U-GPE
+7	was	be	VBD	_	0	root	_	O
+8	one	#crd#	CD	_	7	attr	_	U-CARDINAL
+9	of	of	IN	_	8	prep	_	O
+10	GOP	gop	NNP	_	9	pobj	_	U-ORG
+11	led	lead	VBD	_	7	advcl	_	O
+12	states	state	NNS	_	11	dobj	_	O
+13	that	that	WDT	pos2=IN	14	nsubj	_	O
+14	refused	refuse	VBD	_	12	relcl	_	O
+15	money	money	NN	_	14	dobj	_	O
+16	from	from	IN	_	14	prep	_	O
+17	govt	govt	NN	pos2=NNS	16	pobj	_	O
+18	to	to	TO	_	19	aux	_	O
+19	expand	expand	VB	_	14	xcomp	_	O
+20	medicaid	medicaid	NN	pos2=NNS	19	dobj	_	O
+21	.	.	.	_	7	punct	_	O
+

@@ -1,0 +1,21 @@
+1	Happy	happy	JJ	pos2=NNP	3	nmod	_	O
+2	Black	black	NNP	pos2=JJ	3	compound	_	B-EVENT
+3	Friday	friday	NNP	_	0	root	_	L-EVENT
+4	!	!	.	_	3	punct	_	O
+
+1	Here	here	RB	_	2	advmod	_	O
+2	's	's	VBZ	_	7	ccomp	_	O
+3	your	your	PRP$	_	5	poss	_	O
+4	weekend	weekend	NN	_	5	compound	_	U-DATE
+5	activism	activism	NN	_	2	nsubj	_	O
+6	:	:	:	_	2	punct	_	O
+7	join	join	VB	_	0	root	_	O
+8	the	the	DT	_	12	det	_	O
+9	NOT	not	RB	pos2=NNP	10	neg	_	O
+10	BANNON	bannon	NNP	pos2=CD	12	compound	_	U-ORG
+11	postcard	postcard	NN	pos2=VB	12	compound	_	O
+12	avalanche	avalanche	NN	pos2=XX	7	dobj	_	O
+13	.	.	.	_	7	punct	_	O
+
+1	https://t.co/nRmj9q0fZc	#hlink#	ADD	_	0	root	_	U-ORG
+

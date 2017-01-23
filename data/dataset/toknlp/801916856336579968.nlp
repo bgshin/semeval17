@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det	_	O
+2	only	only	JJ	_	3	nmod	_	O
+3	thing	thing	NN	_	12	nsubj	_	O
+4	standing	stand	VBG	_	3	acl	_	O
+5	between	between	IN	_	4	prep	_	O
+6	the	the	DT	_	11	det	_	O
+7	palestine	palestine	NNP	pos2=NN	9	compound	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	israel	israel	NNP	pos2=JJ	11	compound	_	O
+10	peace	peace	NN	_	11	compound	_	O
+11	agreement	agreement	NN	_	5	pobj	_	O
+12	is	be	VBZ	_	0	root	_	O
+13	#hamas	#hamas	NNS	pos2=ADD	12	attr	_	O
+

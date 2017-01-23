@@ -1,0 +1,25 @@
+1	New	new	JJ	_	2	nmod	_	O
+2	favorite	favorite	NN	pos2=JJ	6	dep	_	O
+3	:	:	:	_	6	punct	_	O
+4	Playlist	playlist	NN	pos2=VB	6	compound	_	O
+5	Dark	dark	NNP	pos2=JJ	6	compound	_	O
+6	Folk	folk	NN	pos2=NNP	0	root	_	O
+7	(	(	-LRB-	_	6	punct	_	O
+8	Leonard	leonard	NNP	_	9	compound	_	B-PERSON
+9	Cohen	cohen	NNP	_	6	appos	_	L-PERSON
+10	,	,	,	_	9	punct	_	O
+11	Sufjan	sufjan	NNP	_	12	compound	_	B-PERSON
+12	Stevens	stevens	NNP	_	9	appos	_	L-PERSON
+13	...	..	.	pos2=,	6	punct	_	O
+14	)	)	-RRB-	_	6	punct	_	O
+
+1	by	by	IN	_	9	prep	_	O
+2	Kim	kim	NNP	_	4	compound	_	B-PERSON
+3	-	-	HYPH	pos2=:	4	punct	_	I-PERSON
+4	Indie	indie	NNP	_	1	pobj	_	L-PERSON
+5	/	/	SYM	pos2=NFP	6	punct	_	O
+6	Alternative	alternative	JJ	pos2=GW	7	nmod	_	O
+7	Editor	editor	NN	pos2=GW	4	appos	_	O
+8	https://t.co/qSAq3KUEAJ	#hlink#	ADD	pos2=NN	4	appos	_	O
+9	@DeezerLatam	@deezerlatam	ADD	pos2=-RRB-	0	root	_	U-ORG
+

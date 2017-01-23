@@ -1,0 +1,16 @@
+1	Wikileaks	wikileaks	NNP	pos2=NN	2	compound	_	U-ORG
+2	email	email	NN	_	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	Obama	obama	NNP	_	5	compound	_	B-ORG
+5	Administration	administration	NNP	_	0	root	_	L-ORG
+6	"	"	``	pos2=''	7	punct	_	O
+7	scared	scared	JJ	pos2=VBD	5	nmod	_	O
+8	"	"	''	_	7	punct	_	O
+9	Chief	chief	NNP	pos2=JJ	11	compound	_	O
+10	Justice	justice	NNP	_	11	compound	_	O
+11	Roberts	roberts	NNP	_	5	appos	_	U-PERSON
+12	into	into	IN	_	5	prep	_	O
+13	Obamacare	obamacare	NNP	_	14	compound	_	U-ORG
+14	decision	decision	NN	pos2=GW	12	pobj	_	O
+15	https://t.co/RXUImQnf3v	#hlink#	ADD	pos2=NN	5	appos	_	U-ORG
+

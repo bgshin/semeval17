@@ -1,0 +1,20 @@
+1	Rightists	rightist	NNS	pos2=NNPS	3	nsubj	_	U-NORP
+2	often	often	RB	_	3	advmod	_	O
+3	accuse	accuse	VBP	_	0	root	_	O
+4	people	people	NNS	_	3	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	personal	personal	JJ	_	7	nmod	_	O
+7	irresponsibility	irresponsibility	NN	_	5	pobj	_	O
+8	,	,	,	_	3	punct	_	O
+9	yet	yet	CC	pos2=RB	3	cc	_	O
+10	they	they	PRP	_	11	nsubj	_	O
+11	show	show	VBP	_	3	conj	_	O
+12	extreme	extreme	JJ	_	13	nmod	_	O
+13	irresponsibility	irresponsibility	NN	_	11	dobj	_	O
+14	by	by	IN	_	11	prep	_	O
+15	voting	vote	VBG	pos2=NN	14	pcomp	_	O
+16	for	for	IN	_	15	prep	_	O
+17	climate	climate	NN	pos2=JJ	18	compound	_	O
+18	crisis	crisis	NN	_	19	compound	_	O
+19	deniers	denier	NNS	_	16	pobj	_	O
+

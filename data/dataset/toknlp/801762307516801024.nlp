@@ -1,0 +1,23 @@
+1	https://t.co/MzZjHhekxxMSM=Scouring	#hlink#	ADD	pos2=DT	2	poss	_	U-ORG
+2	country	country	NN	_	0	root	_	O
+3	for	for	IN	_	6	mark	_	O
+4	stories	story	NNS	_	6	nsubj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	extend	extend	VB	_	2	advcl	_	O
+7	life	life	NN	_	6	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	their	their	PRP$	_	11	poss	_	O
+10	anti-Trump	anti-trump	JJ	_	11	nmod	_	U-NORP
+11	narrative	narrative	NN	_	8	pobj	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	Weren	weren	NNP	pos2=UH	3	nmod	_	O
+2	'	'	''	pos2=POS	3	punct	_	O
+3	t	t	NN	pos2=AFX	4	nsubj	_	O
+4	paid	pay	VBD	pos2=VBN	0	root	_	O
+5	riots	riot	NNS	_	4	dobj	_	O
+6	&	&	CC	_	5	cc	_	O
+7	protests	protest	NNS	_	5	conj	_	O
+8	enough	enough	RB	pos2=JJ	4	advmod	_	O
+9	?	?	.	_	4	punct	_	O
+

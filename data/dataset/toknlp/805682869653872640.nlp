@@ -1,0 +1,14 @@
+1	Breaking	break	VBG	pos2=NN	5	advcl	_	O
+2	:	:	:	_	5	punct	_	O
+3	#Obama	#obama	NNP	pos2=NN	4	compound	_	B-PERSON
+4	Admin	admin	NNP	pos2=NN	5	nsubj	_	L-PERSON
+5	Halts	halt	VBZ	pos2=NNPS	0	root	_	O
+6	#DakotaAccessPipeline	#dakotaaccesspipeline	NNP	pos2=POS	7	compound	_	O
+7	Construction	construction	NN	pos2=NNP	5	dobj	_	O
+8	after	after	IN	_	5	prep	_	O
+9	Months	month	NNS	pos2=NNP	8	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Resistance	resistance	NNP	pos2=NN	10	pobj	_	O
+12	https://t.co/rseaVk3we1…	#hlink#	ADD	_	13	nmod	_	O
+13	https://t.co/rqHvoAuFZT	#hlink#	ADD	_	8	pobj	_	O
+

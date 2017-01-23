@@ -1,0 +1,19 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	guest	guest	NN	_	5	nsubj	_	O
+3	Greg	greg	NNP	_	4	compound	_	B-PERSON
+4	Rollett	rollett	NNP	_	2	appos	_	L-PERSON
+5	talked	talk	VBD	_	0	root	_	O
+6	about	about	IN	_	5	prep	_	O
+7	what	what	WP	_	10	pobj	_	O
+8	it	it	PRP	_	9	nsubj	_	O
+9	was	be	VBD	_	6	pcomp	_	O
+10	like	like	IN	pos2=JJ	9	prep	_	O
+11	to	to	TO	pos2=IN	12	aux	_	O
+12	#speak	#speak	VB	pos2=XX	9	xcomp	_	O
+13	at	at	IN	_	12	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	#UnitedNations	#unitednations	NNS	pos2=NNPS	13	pobj	_	O
+16	.	.	.	_	5	punct	_	O
+
+1	https://t.co/0UHHZPLdDw	#hlink#	ADD	_	0	root	_	U-ORG
+

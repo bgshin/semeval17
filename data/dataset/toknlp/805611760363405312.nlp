@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det	_	O
+2	Spanish	spanish	JJ	pos2=NNP	3	nmod	_	U-NORP
+3	treasury	treasury	NN	pos2=NNP	4	nsubj	_	O
+4	plans	plan	VBZ	pos2=NNS	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	hold	hold	VB	_	4	xcomp	_	O
+7	allegations	allegation	NNS	_	6	dobj	_	O
+8	against	against	IN	_	7	prep	_	O
+9	Cristiano	cristiano	NNP	_	10	compound	_	B-PERSON
+10	Ronaldo	ronaldo	NNP	_	8	pobj	_	L-PERSON
+11	appropriately	appropriately	RB	_	6	advmod	_	O
+12	.	.	.	_	4	punct	_	O
+
+1	#reportings	#reportings	NNS	pos2=UH	2	nmod	_	O
+2	porthttps://t.co/6ay95680OV	#hlink#	ADD	_	0	root	_	O
+

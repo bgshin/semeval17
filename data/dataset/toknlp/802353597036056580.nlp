@@ -1,0 +1,13 @@
+1	Tomorrow	tomorrow	NN	_	2	nsubj	_	U-DATE
+2	Is	be	VBZ	_	0	root	_	O
+3	A	a	DT	_	5	det	_	O
+4	Long	long	NNP	pos2=JJ	5	compound	_	B-GPE
+5	Time	time	NNP	pos2=NN	12	npadvmod	_	L-GPE
+6	(	(	-LRB-	_	5	punct	_	O
+7	Bob	bob	NNP	_	8	compound	_	B-PERSON
+8	Dylan	dylan	NNP	_	5	appos	_	L-PERSON
+9	)	)	-RRB-	_	5	punct	_	O
+10	|	|	SYM	pos2=,	12	punct	_	O
+11	Rod	rod	NNP	pos2=NN	12	compound	_	B-PERSON
+12	Stewart	stewart	NNP	_	2	attr	_	L-PERSON
+

@@ -1,0 +1,30 @@
+1	@Uber	@uber	NNP	pos2=VB	0	root	_	U-ORG
+2	seriously	seriously	RB	_	1	advmod	_	O
+3	?	?	.	_	1	punct	_	O
+
+1	You	you	PRP	_	3	nsubj	_	O
+2	are	be	VBP	_	3	aux	_	O
+3	forcing	force	VBG	_	17	ccomp	_	O
+4	us	us	PRP	_	3	dobj	_	O
+5	to	to	TO	pos2=IN	7	aux	_	O
+6	always	always	RB	_	7	advmod	_	O
+7	have	have	VB	pos2=VBP	3	xcomp	_	O
+8	you	you	PRP	_	9	nsubj	_	O
+9	track	track	VBP	pos2=VB	7	ccomp	_	O
+10	your	your	PRP$	_	11	poss	_	O
+11	customers	customer	NNS	_	9	dobj	_	O
+12	or	or	CC	_	11	cc	_	O
+13	the	the	DT	_	14	det	_	O
+14	app	app	NN	_	11	conj	_	O
+15	does	do	VBZ	_	17	aux	_	O
+16	not	not	RB	_	17	neg	_	O
+17	work	work	VB	_	0	root	_	O
+18	?	?	.	_	17	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	dea	dea	NN	pos2=JJ	2	attr	_	O
+5	…	…	NFP	pos2=-LRB-	6	punct	_	O
+6	https://t.co/QiIPPjltS6	#hlink#	ADD	_	2	dep	_	O
+

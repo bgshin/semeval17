@@ -1,0 +1,18 @@
+1	@AndrewYNg	@andrewyng	NN	pos2=VBG	3	nsubj	_	O
+2	Not	not	RB	_	3	neg	_	O
+3	sure	sure	JJ	pos2=UH	8	advmod	_	O
+4	,	,	,	_	8	punct	_	O
+5	what	what	WP	_	6	nsubj	_	O
+6	happens	happen	VBZ	_	8	csubj	_	O
+7	then	then	RB	_	6	advmod	_	O
+8	is	be	VBZ	_	0	root	_	O
+9	that	that	IN	_	12	mark	_	O
+10	certain	certain	JJ	_	11	nmod	_	O
+11	companies	company	NNS	_	12	nsubj	_	O
+12	start	start	VBP	_	8	ccomp	_	O
+13	to	to	TO	_	14	aux	_	O
+14	monopolize	monopolize	VB	_	12	xcomp	_	O
+15	deep	deep	JJ	pos2=NN	16	nmod	_	O
+16	learning	learning	NN	_	14	dobj	_	O
+17	...	..	.	_	8	punct	_	O
+

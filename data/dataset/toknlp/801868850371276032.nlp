@@ -1,0 +1,24 @@
+1	One	#crd#	CD	_	2	nmod	_	U-CARDINAL
+2	Goal	goal	NN	pos2=NNP	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Iran	iran	NNP	_	0	root	_	U-GPE
+2	,	,	,	_	1	punct	_	O
+3	Hamas	hamas	NNP	_	1	conj	_	U-ORG
+4	and	and	CC	_	3	cc	_	O
+5	the	the	DT	_	6	det	_	O
+6	Dance	dance	NNP	pos2=NN	3	conj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Death	death	NN	pos2=NNP	7	pobj	_	O
+9	-	-	HYPH	pos2=:	6	punct	_	O
+10	by	by	IN	_	6	prep	_	O
+11	Khaled	khaled	NNP	_	12	compound	_	B-PERSON
+12	Abu	abu	NNP	_	10	pobj	_	I-PERSON
+13	To	to	IN	pos2=NNP	8	prep	_	L-PERSON
+14	amehhttps://t.co/H72oLLYTr4	#hlink#	ADD	_	19	nmod	_	B-ORG
+15	#Iran	#iran	NNP	pos2=-RRB-	17	compound	_	I-ORG
+16	#Gaza	#gaza	NNP	pos2=POS	17	compound	_	I-ORG
+17	#Hamas	#hamas	NNP	pos2=GW	19	dep	_	L-ORG
+18	…	…	NFP	pos2=-LRB-	19	punct	_	O
+19	https://t.co/BJoYs2EbKT	#hlink#	ADD	_	13	pobj	_	U-ORG
+

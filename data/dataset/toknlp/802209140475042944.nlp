@@ -1,0 +1,11 @@
+1	Putin	putin	NNP	_	2	nsubj	_	U-PERSON
+2	Gives	give	VBZ	_	0	root	_	O
+3	Russian	russian	JJ	pos2=NNP	4	nmod	_	U-NORP
+4	Passport	passport	NN	pos2=NNP	2	dobj	_	O
+5	to	to	IN	_	2	dative	_	O
+6	US	us	NNP	_	7	compound	_	U-GPE
+7	Actor	actor	NNP	pos2=NN	9	compound	_	O
+8	Steven	steven	NNP	_	9	compound	_	B-PERSON
+9	Seagal	seagal	NNP	_	5	pobj	_	L-PERSON
+10	https://t.co/r9eHHKP1x0	#hlink#	ADD	_	7	appos	_	O
+

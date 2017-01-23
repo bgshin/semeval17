@@ -1,0 +1,21 @@
+1	Good	good	JJ	_	2	nmod	_	O
+2	morning	morning	NN	_	5	npadvmod	_	U-TIME
+3	,	,	,	_	5	punct	_	O
+4	#Ukraine	#ukraine	NNP	pos2=PRP	5	nsubj	_	U-ORG
+5	has	have	VBZ	_	0	root	_	O
+6	a	a	DT	_	9	det	_	O
+7	new	new	JJ	_	9	nmod	_	O
+8	political	political	JJ	_	9	nmod	_	O
+9	party	party	NN	_	5	dobj	_	O
+10	,	,	,	_	9	punct	_	O
+11	New	new	NNP	pos2=JJ	12	compound	_	B-ORG
+12	Forces	force	NNPS	pos2=NNS	9	appos	_	L-ORG
+13	with	with	IN	_	12	prep	_	O
+14	old	old	JJ	_	15	nmod	_	O
+15	#Saakashvili	#saakashvili	NNS	pos2=NN	13	pobj	_	O
+16	https://t.co/xtYgl3OsT2	#hlink#	ADD	pos2=POS	17	nsubj	_	O
+17	Fight	fight	VB	pos2=NN	14	advcl	_	O
+18	for	for	IN	_	17	prep	_	O
+19	#Maidan	#maidan	JJ	pos2=NNP	20	nmod	_	O
+20	heritage	heritage	NN	_	18	pobj	_	O
+

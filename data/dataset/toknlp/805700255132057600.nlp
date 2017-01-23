@@ -1,0 +1,22 @@
+1	Philippines	philippines	NNP	pos2=NNPS	2	compound	_	U-GPE
+2	VP	vp	NNP	pos2=NN	3	nsubj	_	O
+3	resigns	resign	VBZ	_	0	root	_	O
+4	from	from	IN	_	3	prep	_	O
+5	cabinet	cabinet	NN	_	4	pobj	_	O
+6	over	over	IN	pos2=RP	3	prep	_	O
+7	'	'	``	pos2=''	8	punct	_	O
+8	differences	difference	NNS	_	6	pobj	_	O
+9	'	'	''	_	8	punct	_	O
+10	with	with	IN	_	8	prep	_	O
+11	Duterte	duterte	NNP	_	10	pobj	_	U-PERSON
+12	,	,	,	_	13	punct	_	O
+13	condemns	condemn	VBZ	_	3	conj	_	O
+14	war	war	NN	_	13	dobj	_	O
+15	on	on	IN	_	14	prep	_	O
+16	drugs	drug	NNS	_	15	pobj	_	O
+17	,	,	,	_	13	punct	_	O
+18	reimposing	reimpose	VBG	_	13	advcl	_	O
+19	death	death	NN	_	20	compound	_	O
+20	penalty	penalty	NN	_	18	dobj	_	O
+21	https://t.co/quAPm9aXyU	#hlink#	ADD	pos2=NN	13	dobj	_	O
+

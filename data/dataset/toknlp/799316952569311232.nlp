@@ -1,0 +1,8 @@
+1	https://t.co/wuxlbdII1h	#hlink#	ADD	_	7	dep	_	B-ORG
+2	Black	black	NNP	pos2=JJ	5	compound	_	I-ORG
+3	Stitched	stitched	NNP	pos2=VBN	5	compound	_	I-ORG
+4	Litter	litter	NNP	pos2=NN	5	compound	_	I-ORG
+5	Bag	bag	NNP	pos2=NN	7	dep	_	L-ORG
+6	#NationalFastFoodDay	#nationalfastfoodday	ADD	pos2=GW	7	punct	_	O
+7	https://t.co/UY4aPwQ3LI	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,20 @@
+1	@stwbass	@stwbass	UH	pos2=XX	9	discourse	_	O
+2	if	if	IN	_	4	mark	_	O
+3	this	this	DT	_	4	nsubj	_	O
+4	were	be	VBD	_	9	advcl	_	O
+5	true	true	JJ	_	4	acomp	_	O
+6	,	,	,	_	9	punct	_	O
+7	it	it	PRP	_	9	nsubj	_	O
+8	would	would	MD	_	9	aux	_	O
+9	be	be	VB	_	0	root	_	O
+10	good	good	JJ	_	9	acomp	_	O
+11	...	..	.	_	9	punct	_	O
+
+1	Because	because	IN	_	4	mark	_	O
+2	Assange	assange	NNP	_	4	nsubj	_	U-PERSON
+3	would	would	MD	_	4	aux	_	O
+4	target	target	VB	_	0	root	_	O
+5	Marine	marine	NNP	pos2=JJ	7	compound	_	B-PERSON
+6	Le	le	NNP	_	7	compound	_	I-PERSON
+7	Pen	pen	NNP	_	4	dobj	_	L-PERSON
+

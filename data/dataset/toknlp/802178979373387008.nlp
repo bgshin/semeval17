@@ -1,0 +1,17 @@
+1	How	how	WRB	_	4	advmod	_	O
+2	students	student	NNS	_	4	nsubj	_	O
+3	are	be	VBP	_	4	aux	_	O
+4	resisting	resist	VBG	_	0	root	_	O
+5	efforts	effort	NNS	_	4	dobj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	normalize	normalize	VB	_	5	acl	_	O
+8	Israeli	israeli	JJ	_	9	nmod	_	U-NORP
+9	apartheid	apartheid	NN	_	7	dobj	_	O
+10	https://t.co/fPhun16BCW	#hlink#	ADD	pos2=NN	16	nmod	_	O
+11	via	via	IN	_	4	prep	_	O
+12	@intifada	@intifada	NNP	pos2=NN	11	pobj	_	O
+13	#gaza	#gaza	UH	pos2=XX	16	discourse	_	O
+14	#palestine	#palestine	UH	pos2=PRP	16	discourse	_	O
+15	#israel	#israel	UH	pos2=MD	16	discourse	_	O
+16	#BDS	#bds	NNS	pos2=UH	11	pobj	_	O
+

@@ -1,0 +1,31 @@
+1	@AussiePeteC	@aussiepetec	UH	pos2=``	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	'm	be	VBP	_	0	root	_	O
+4	well	well	RB	_	5	advmod	_	O
+5	aware	aware	JJ	_	3	acomp	_	O
+6	of	of	IN	_	5	prep	_	O
+7	that	that	DT	_	6	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	If	if	IN	_	4	mark	_	O
+2	gun	gun	NN	_	3	compound	_	O
+3	control	control	NN	_	4	nsubj	_	O
+4	happened	happened	VBD	pos2=VBN	12	advcl	_	O
+5	in	in	IN	_	4	prep	_	O
+6	this	this	DT	_	7	det	_	O
+7	story	story	NN	_	5	pobj	_	O
+8	though	though	RB	_	4	advmod	_	O
+9	,	,	,	_	12	punct	_	O
+10	she	she	PRP	_	12	nsubj	_	O
+11	'd	would	MD	_	12	aux	_	O
+12	be	be	VB	_	0	root	_	O
+13	dead	dead	JJ	_	12	acomp	_	O
+14	.	.	.	_	12	punct	_	O
+
+1	https	http	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	//	//	NFP	pos2=-LRB-	6	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	4yZ2I9uv7s	0yz0i0uv0s	NN	pos2=NNS	0	root	_	O
+

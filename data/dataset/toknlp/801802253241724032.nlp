@@ -1,0 +1,14 @@
+1	Messi	messi	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	renewing	renew	VBG	_	0	root	_	O
+3	better	well	RBR	pos2=JJR	2	advmod	_	O
+4	not	not	RB	_	5	neg	_	O
+5	delays	delay	NNS	pos2=VBZ	2	dobj	_	O
+6	Ivan	ivan	NNP	_	7	compound	_	B-PERSON
+7	Rakitic	rakitic	NNP	_	5	dobj	_	L-PERSON
+8	from	from	IN	_	2	prep	_	O
+9	renewing	renew	VBG	_	8	pcomp	_	O
+10	too	too	RB	_	9	advmod	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	#fcblive	#fcblive	UH	pos2=XX	0	root	_	O
+

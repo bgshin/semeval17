@@ -1,0 +1,15 @@
+1	#tech	#tech	UH	pos2=XX	5	discourse	_	O
+2	#summary	#summary	NN	pos2=FW	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	#bangladesh	#bangladesh	UH	pos2=NNP	5	discourse	_	O
+5	says	say	VBZ	_	0	root	_	O
+6	#uber	#uber	PRP	pos2=NNP	8	nsubj	_	O
+7	'	'	``	_	8	punct	_	O
+8	illegal	illegal	JJ	_	5	ccomp	_	O
+9	'	'	''	_	8	punct	_	O
+10	,	,	,	_	5	punct	_	O
+11	days	day	NNS	_	6	appos	_	O
+12	after	after	IN	_	11	prep	_	O
+13	#launch	#launch	-LRB-	pos2=XX	12	pobj	_	O
+14	https://t.co/tSOZx0RrvF	#hlink#	ADD	pos2=NN	12	pobj	_	O
+

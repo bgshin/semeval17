@@ -1,0 +1,9 @@
+1	@petestavros	@petestavros	UH	pos2=NNS	5	discourse	_	O
+2	@megynkelly	@megynkelly	RB	pos2=NNP	5	advmod	_	O
+3	Well	well	UH	_	5	discourse	_	O
+4	,	,	,	_	5	punct	_	O
+5	good	good	JJ	pos2=RB	0	root	_	O
+6	for	for	IN	_	5	prep	_	O
+7	you	you	PRP	_	6	pobj	_	O
+8	!	!	.	_	5	punct	_	O
+

@@ -1,0 +1,27 @@
+1	@Nchandra615	@nchandra0	NN	pos2=NNS	3	compound	_	O
+2	@Texas_Trump	@texas_trump	NN	pos2=ADD	3	compound	_	O
+3	@Lg4Lg	@lg0lg	NN	pos2=NNS	0	root	_	O
+4	No	no	DT	_	5	det	_	O
+5	place	place	NN	_	3	npadvmod	_	O
+6	too	too	RB	_	7	advmod	_	O
+7	low	low	JJ	_	5	nmod	_	O
+8	to	to	TO	_	9	aux	_	O
+9	go	go	VB	_	7	xcomp	_	O
+10	for	for	IN	_	9	prep	_	O
+11	a	a	DT	_	16	det	_	O
+12	bitter	bitter	JJ	pos2=JJR	16	nmod	_	O
+13	,	,	,	_	16	punct	_	O
+14	less	less	RBR	pos2=CC	15	advmod	_	O
+15	effeminate	effeminate	JJ	_	16	nmod	_	O
+16	version	version	NN	_	10	pobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	Michael	michael	NNP	_	19	compound	_	B-PERSON
+19	Moore	moore	NNP	_	17	pobj	_	L-PERSON
+20	!	!	.	_	3	punct	_	O
+
+1	Rosie	rosie	NNP	_	2	nsubj	_	U-PERSON
+2	knows	know	VBZ	_	0	root	_	O
+3	no	no	DT	_	4	det	_	O
+4	shame	shame	NN	_	2	dobj	_	O
+5	!	!	.	_	2	punct	_	O
+

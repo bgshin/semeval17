@@ -1,0 +1,22 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNS	16	nsubjpass	_	O
+3	1	0	CD	_	5	nmod	_	U-CARDINAL
+4	-	-	HYPH	pos2=:	11	punct	_	O
+5	Emily2	emily0	NN	_	11	compound	_	O
+6	-	-	HYPH	_	11	punct	_	O
+7	Paris3	paris0	NNP	pos2=NN	11	compound	_	O
+8	-	-	HYPH	_	11	punct	_	O
+9	Luke4	luke0	NNP	pos2=NN	11	compound	_	O
+10	-	-	HYPH	pos2=:	11	punct	_	O
+11	Babette	babette	NNP	_	2	appos	_	O
+12	The	the	DT	pos2=NNP	13	det	_	O
+13	BFs	bf	NNPS	pos2=NNS	14	nsubj	_	U-PRODUCT
+14	are	be	VBP	_	16	auxpass	_	O
+15	a	a	DT	_	16	dep	_	O
+16	given	give	VBN	_	0	root	_	O
+17	so	so	IN	pos2=RB	21	mark	_	O
+18	they	they	PRP	_	21	nsubj	_	O
+19	do	do	VBP	_	21	aux	_	O
+20	n't	not	RB	_	21	neg	_	O
+21	count	count	VB	_	16	advcl	_	O
+

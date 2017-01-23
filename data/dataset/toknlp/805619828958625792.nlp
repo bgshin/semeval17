@@ -1,0 +1,22 @@
+1	https://t.co/BtNfJ6xqt4	#hlink#	ADD	pos2=NNP	0	root	_	O
+2	Renzi	renzi	NNP	_	4	nsubj	_	U-PERSON
+3	Resigns	resign	VBZ	pos2=NNP	0	root	_	O
+4	Following	follow	VBG	pos2=NNP	3	prep	_	O
+5	Crushing	crush	VBG	pos2=NNP	7	nmod	_	O
+6	Referendum	referendum	NN	pos2=NNP	7	compound	_	O
+7	Defeat	defeat	NN	pos2=VB	4	pobj	_	O
+8	:	:	:	_	10	punct	_	O
+9	Beppe	beppe	NNP	_	10	compound	_	B-PERSON
+10	Grillo	grillo	NNP	_	5	dobj	_	L-PERSON
+11	,	,	,	_	10	punct	_	O
+12	Marine	marine	NNP	pos2=JJ	13	compound	_	U-ORG
+13	le	le	NN	pos2=NNP	14	compound	_	O
+14	Pen	pen	NNP	_	10	conj	_	O
+15	,	,	,	_	14	punct	_	O
+16	Matteo	matteo	NNP	_	17	compound	_	B-PERSON
+17	Salvina	salvina	NNP	_	18	nsubj	_	L-PERSON
+18	Tweets	tweet	NNS	pos2=NNPS	14	conj	_	O
+19	#Bitcoin	#bitcoin	NNP	pos2=VBP	18	dobj	_	U-DATE
+20	#B	#b	NFP	pos2=NNP	10	punct	_	O
+21	…	…	NFP	pos2=.	10	punct	_	O
+

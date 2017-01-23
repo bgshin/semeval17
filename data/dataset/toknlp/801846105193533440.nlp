@@ -1,0 +1,23 @@
+1	When	when	WRB	_	6	advmod	_	O
+2	fake	fake	JJ	_	4	nmod	_	O
+3	Ua	ua	NNP	pos2=JJ	4	compound	_	U-PERSON
+4	activist	activist	NN	_	6	nsubj	_	O
+5	@noclador	@noclador	XX	pos2=NNP	6	dep	_	O
+6	buys	buy	VBZ	_	10	advcl	_	O
+7	fake	fake	JJ	_	8	nmod	_	O
+8	followers	follower	NNS	_	6	dobj	_	O
+9	then	then	RB	_	10	advmod	_	O
+10	has	have	VBZ	_	0	root	_	O
+11	the	the	DT	_	12	det	_	O
+12	cheek	cheek	NN	_	10	dobj	_	O
+13	to	to	TO	_	14	aux	_	O
+14	call	call	VB	_	12	acl	_	O
+15	out	out	RP	_	14	prt	_	O
+16	fakers	faker	NNS	_	14	dobj	_	O
+17	on	on	IN	_	14	prep	_	O
+18	@twitter	@twitter	NN	pos2=NNP	17	pobj	_	O
+19	!	!	.	_	10	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/H4lq2pEZ5Y	#hlink#	ADD	pos2=NN	0	root	_	O
+

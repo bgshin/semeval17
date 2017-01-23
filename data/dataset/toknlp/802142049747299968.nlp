@@ -1,0 +1,22 @@
+1	Our	our	PRP$	_	3	poss	_	O
+2	only	only	JJ	pos2=RB	3	nmod	_	O
+3	chance	chance	NN	_	5	nsubj	_	O
+4	well	well	RB	pos2=UH	5	advmod	_	O
+5	know	know	VBP	pos2=VB	13	parataxis	_	O
+6	Harvard	harvard	NNP	_	7	compound	_	B-ORG
+7	VR	vr	NNP	pos2=NN	8	compound	_	L-ORG
+8	attorney	attorney	NN	_	3	appos	_	O
+9	behind	behind	IN	pos2=RB	8	prep	_	O
+10	#Recount2016	#recount0	NN	pos2=NNP	9	pobj	_	U-GPE
+11	#AuditTheVote	#auditthevote	MD	pos2=NN	13	aux	_	O
+12	just	just	RB	_	13	advmod	_	O
+13	give	give	VB	_	0	root	_	O
+14	a	a	DT	_	15	det	_	O
+15	buck	buck	NN	_	13	dobj	_	O
+16	..	..	.	pos2=,	13	punct	_	O
+
+1	#stillwithher	#stillwithher	UH	pos2=IN	4	discourse	_	O
+2	I	I	PRP	pos2=GW	4	nmod	_	O
+3	…	…	NFP	pos2=VBP	4	punct	_	O
+4	https://t.co/CMnKzqsxnz	#hlink#	ADD	_	0	root	_	U-ORG
+

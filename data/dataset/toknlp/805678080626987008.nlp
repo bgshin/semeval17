@@ -1,0 +1,19 @@
+1	Marine	marine	NNP	pos2=JJ	3	compound	_	B-ORG
+2	Le	le	NNP	_	3	compound	_	I-ORG
+3	Pen	pen	NNP	_	6	poss	_	I-ORG
+4	's	's	POS	_	3	case	_	L-ORG
+5	campaign	campaign	NN	pos2=JJ	6	compound	_	O
+6	manager	manager	NN	_	7	nsubj	_	O
+7	takes	take	VBZ	_	0	root	_	O
+8	aim	aim	NN	pos2=VBP	7	dobj	_	O
+9	at	at	IN	_	7	prep	_	O
+10	Valls	valls	NNP	_	9	pobj	_	U-ORG
+11	and	and	CC	_	10	cc	_	O
+12	Fillon	fillon	NNP	_	10	conj	_	U-PERSON
+13	:	:	:	_	7	punct	_	O
+14	"	"	``	_	7	punct	_	O
+15	French	french	JJ	pos2=NNP	16	nmod	_	O
+16	Renzis	renzis	NNP	pos2=NNPS	18	nmod	_	O
+17	"	"	''	pos2=GW	18	punct	_	O
+18	https://t.co/hyu10YAt5i	#hlink#	ADD	pos2=NN	7	dobj	_	O
+

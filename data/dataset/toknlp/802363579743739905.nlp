@@ -1,0 +1,11 @@
+1	Natural	natural	JJ	pos2=NNP	2	compound	_	B-ORG
+2	Language	language	NNP	pos2=NN	3	compound	_	I-ORG
+3	Processing	processing	NNP	pos2=NN	10	dep	_	L-ORG
+4	with	with	IN	_	3	prep	_	O
+5	Deep	deep	NNP	pos2=JJ	6	compound	_	B-PERSON
+6	Learning	learning	NNP	pos2=NN	4	pobj	_	L-PERSON
+7	in	in	IN	_	6	prep	_	O
+8	Python☞	python☞	NNP	pos2=GW	7	pobj	_	B-DATE
+9	https://t.co/NYJkq1SEzV	#hlink#	ADD	_	10	nmod	_	I-DATE
+10	https://t.co/GPjhNaSghS	#hlink#	ADD	_	0	root	_	L-DATE
+

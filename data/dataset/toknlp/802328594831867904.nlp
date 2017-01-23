@@ -1,0 +1,22 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@Hillaryclinton	@hillaryclinton	NNP	pos2=IN	5	vocative	_	O
+2	This	this	DT	pos2=NNP	5	nsubj	_	O
+3	would	would	MD	_	5	aux	_	O
+4	not	not	RB	_	5	neg	_	O
+5	happen	happen	VB	_	0	root	_	O
+6	if	if	IN	_	8	mark	_	O
+7	you	you	PRP	_	8	nsubj	_	O
+8	won	win	VBD	pos2=VBP	5	advcl	_	O
+9	!	!	.	_	5	punct	_	O
+
+1	Trump	trump	NN	pos2=NNP	2	nsubj	_	O
+2	unfit	unfit	JJ	_	0	root	_	O
+3	!	!	.	pos2=,	2	punct	_	O
+
+1	#TrumpProtest	#trumpprotest	JJS	pos2=XX	5	nmod	_	O
+2	los	los	GW	pos2=NNS	4	nmod	_	O
+3	angeles	angeles	GW	pos2=NNS	4	nmod	_	O
+4	https://t.co/XBffOOEuY2	#hlink#	ADD	pos2=GW	5	nmod	_	O
+5	https://t.co/NNzAQGDgub	#hlink#	ADD	_	0	root	_	U-ORG
+

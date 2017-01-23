@@ -1,0 +1,25 @@
+1	A	a	DT	_	4	det	_	O
+2	new	new	JJ	_	4	nmod	_	O
+3	coal	coal	NN	_	4	compound	_	O
+4	mine	mine	NN	pos2=PRP	7	nsubjpass	_	O
+5	has	have	VBZ	_	7	aux	_	O
+6	been	be	VBN	_	7	auxpass	_	O
+7	given	give	VBN	_	17	ccomp	_	O
+8	the	the	DT	_	9	det	_	O
+9	go	go	NN	pos2=VB	7	dative	_	O
+10	ahead	ahead	RB	_	9	advmod	_	O
+11	in	in	IN	_	9	prep	_	O
+12	Queensland	queensland	NNP	_	11	pobj	_	U-GPE
+13	-	-	,	pos2=HYPH	17	punct	_	O
+14	should	should	MD	_	17	aux	_	O
+15	we	we	PRP	_	17	nsubj	_	O
+16	be	be	VB	_	17	aux	_	O
+17	continuing	continue	VBG	_	0	root	_	O
+18	with	with	IN	_	17	prep	_	O
+19	fossil	fossil	NN	pos2=JJ	20	nmod	_	O
+20	fuels	fuel	NNS	_	18	pobj	_	O
+21	given	give	VBN	_	17	prep	_	O
+22	...	..	.	pos2=,	17	punct	_	O
+
+1	https://t.co/TLbrUFx6Qj	#hlink#	ADD	_	0	root	_	U-ORG
+

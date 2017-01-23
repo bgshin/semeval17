@@ -1,0 +1,16 @@
+1	Cristiano	cristiano	NNP	_	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	3	nsubj	_	L-PERSON
+3	dismisses	dismiss	VBZ	_	0	root	_	O
+4	homophobic	homophobic	JJ	_	5	nmod	_	O
+5	slurs	slur	NNS	_	3	dobj	_	O
+6	chanted	chant	VBN	pos2=VBD	5	acl	_	O
+7	during	during	IN	_	6	prep	_	O
+8	El	el	NNP	_	9	compound	_	B-WORK_OF_ART
+9	Clasico	clasico	NNP	_	7	pobj	_	L-WORK_OF_ART
+10	https://t.co/uWcu8JrdZ0	#hlink#	ADD	pos2=NNP	12	dep	_	O
+11	(	(	-LRB-	_	12	punct	_	O
+12	News	news	NNP	pos2=NN	15	meta	_	O
+13	)	)	-RRB-	_	12	punct	_	O
+14	#brisbane	#brisbane	CD	pos2=IN	15	nmod	_	U-DATE
+15	#qld	#qld	UH	pos2=FW	3	discourse	_	O
+

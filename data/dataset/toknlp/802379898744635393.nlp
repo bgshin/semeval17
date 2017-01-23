@@ -1,0 +1,6 @@
+1	#BoycottDelta	#boycottdelta	NN	pos2=XX	0	root	_	O
+2	--	--	:	pos2=SYM	1	punct	_	O
+3	no	no	UH	pos2=DT	1	discourse	_	O
+4	deplorables	deplorables	NNS	pos2=NN	1	punct	_	O
+5	tolerated	tolerate	VBN	pos2=VBD	4	root	_	O
+

@@ -1,0 +1,26 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	'll	will	MD	_	3	aux	_	O
+3	put	put	VB	_	0	root	_	O
+4	my	my	PRP$	_	5	poss	_	O
+5	gun	gun	NN	_	3	dobj	_	O
+6	where	where	WRB	_	8	advmod	_	O
+7	I	I	PRP	_	8	nsubj	_	O
+8	want	want	VBP	_	5	relcl	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	'll	will	MD	_	3	aux	_	O
+3	put	put	VB	_	0	root	_	O
+4	it	it	PRP	_	3	dobj	_	O
+5	in	in	IN	_	3	prep	_	O
+6	my	my	PRP$	_	7	poss	_	O
+7	pants	pant	NNS	_	5	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	You	you	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	control	control	VB	_	0	root	_	O
+5	me	me	PRP	_	4	dobj	_	O
+6	.	.	.	_	4	punct	_	O
+

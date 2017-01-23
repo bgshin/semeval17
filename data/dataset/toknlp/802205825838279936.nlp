@@ -1,0 +1,26 @@
+1	smdh	smdh	UH	pos2=VB	4	discourse	_	O
+2	this	this	DT	_	3	det	_	O
+3	country	country	NN	_	4	nsubj	_	O
+4	cares	care	VBZ	_	0	root	_	O
+5	more	more	JJR	pos2=RBR	4	dobj	_	O
+6	about	about	IN	pos2=RB	5	prep	_	O
+7	black	black	JJ	_	8	nmod	_	O
+8	friday	friday	NN	pos2=NNP	6	pobj	_	U-DATE
+9	than	than	IN	_	11	mark	_	O
+10	it	it	PRP	_	11	nsubj	_	O
+11	does	do	VBZ	_	4	advcl	_	O
+12	about	about	RB	pos2=IN	13	advmod	_	O
+13	black	black	JJ	_	14	nmod	_	O
+14	lives	life	NNS	_	11	dobj	_	O
+15	.	.	.	_	4	punct	_	O
+
+1	say	say	VB	pos2=VBP	5	advcl	_	O
+2	it	it	PRP	_	1	dobj	_	O
+3	today	today	NN	_	1	npadvmod	_	U-DATE
+4	,	,	,	_	5	punct	_	O
+5	say	say	VBP	pos2=VB	0	root	_	O
+6	it	it	PRP	_	8	nsubj	_	O
+7	everyday	everyday	RB	pos2=JJ	5	advmod	_	O
+8	#blacklivesmatter	#blacklivesmatter	IN	pos2=XX	5	ccomp	_	O
+9	#blm	#blm	UH	pos2=PRP	8	discourse	_	O
+

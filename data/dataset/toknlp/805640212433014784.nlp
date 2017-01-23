@@ -1,0 +1,27 @@
+1	Say	say	VB	pos2=NNP	0	root	_	O
+2	,	,	,	_	1	punct	_	O
+3	Whaaaaaat	whaaaaaat	NNP	pos2=WP	1	vocative	_	U-PERSON
+4	?	?	.	_	1	punct	_	O
+
+1	Sorry	sorry	UH	pos2=JJ	8	discourse	_	O
+2	,	,	,	_	8	punct	_	O
+3	but	but	CC	_	14	cc	_	O
+4	pedophiles	pedophile	NNS	_	8	nsubjpass	_	O
+5	can	can	MD	_	8	aux	_	O
+6	not	not	RB	_	8	neg	_	O
+7	be	be	VB	_	8	auxpass	_	O
+8	rehabilitated	rehabilitate	VBN	_	0	root	_	O
+9	,	,	,	_	14	punct	_	O
+10	so	so	RB	pos2=CC	14	advmod	_	O
+11	why	why	WRB	_	14	advmod	_	O
+12	should	should	MD	_	14	aux	_	O
+13	they	they	PRP	_	14	nsubj	_	O
+14	get	get	VB	_	0	root	_	O
+15	anything	anything	NN	_	14	dobj	_	O
+16	less	less	JJR	pos2=RBR	21	dep	_	O
+17	the	the	DT	_	19	det	_	O
+18	death	death	NN	_	19	compound	_	O
+19	pena	pena	NN	pos2=GW	21	dep	_	O
+20	…	…	NFP	pos2=-LRB-	21	punct	_	O
+21	https://t.co/5YnEXv4U6F	#hlink#	ADD	_	14	dep	_	O
+

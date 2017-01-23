@@ -1,0 +1,35 @@
+1	@MMehtaNYDN	@mmehtanydn	NNP	pos2=ADD	2	compound	_	O
+2	@nyjets	@nyjets	NNS	pos2=VBZ	4	poss	_	O
+3	@woodyjohnson4	@woodyjohnson0	POS	pos2=CD	2	case	_	O
+4	Odds	odds	NNPS	pos2=NNP	7	nsubj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Woody	woody	NNP	pos2=JJ	5	pobj	_	U-PERSON
+7	building	build	VBG	pos2=NN	0	root	_	O
+8	a	a	DT	_	9	det	_	O
+9	team	team	NN	_	7	dobj	_	O
+10	the	the	DT	_	12	det	_	O
+11	right	right	JJ	_	12	nmod	_	O
+12	way	way	NN	_	7	npadvmod	_	O
+13	:	:	:	_	15	punct	_	O
+14	0.0	0	CD	_	15	nmod	_	B-PERCENT
+15	%	%	NN	_	12	appos	_	L-PERCENT
+16	.	.	.	_	7	punct	_	O
+
+1	But	but	CC	_	3	cc	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	OK	ok	JJ	_	3	acomp	_	O
+5	,	,	,	_	8	punct	_	O
+6	we	we	PRP	_	8	nsubj	_	O
+7	'll	will	MD	_	8	aux	_	O
+8	have	have	VB	_	3	ccomp	_	O
+9	40	0	CD	_	10	nmod	_	U-CARDINAL
+10	y	y	NN	pos2=VB	12	npadvmod	_	O
+11	/	/	HYPH	_	12	punct	_	O
+12	o	o	JJ	pos2=IN	14	nmod	_	O
+13	Tony	tony	NNP	_	14	compound	_	B-PERSON
+14	Romo	romo	NNP	_	8	dobj	_	L-PERSON
+15	next	next	JJ	_	16	nmod	_	B-DATE
+16	year	year	NN	_	8	npadvmod	_	L-DATE
+17	!!	!!	.	_	3	punct	_	O
+

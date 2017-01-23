@@ -1,0 +1,15 @@
+1	#MuhammadAli	#muhammadali	NNP	pos2=XX	3	compound	_	O
+2	Muhammad	muhammad	NNP	_	3	compound	_	B-PERSON
+3	Ali	ali	NNP	_	4	nsubj	_	L-PERSON
+4	Signed	sign	VBD	pos2=NNP	0	root	_	O
+5	Autograph	autograph	NNP	pos2=NN	6	compound	_	O
+6	Framed	framed	NNP	pos2=VBN	14	compound	_	O
+7	Original	original	NNP	pos2=JJ	4	npadvmod	_	O
+8	1974	0	CD	_	4	npadvmod	_	O
+9	Program	program	NNP	pos2=NN	10	compound	_	O
+10	JSA	jsa	NNP	pos2=NN	14	compound	_	O
+11	Authenticated	authenticated	NNP	pos2=VBN	14	nmod	_	O
+12	https://t.co/zkLr2xR7jd	#hlink#	ADD	pos2=NNP	14	dep	_	O
+13	#Legend	#legend	NNP	pos2=-RRB-	14	compound	_	O
+14	#Boxer	#boxer	NNP	pos2=.	4	dobj	_	O
+

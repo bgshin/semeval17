@@ -1,0 +1,13 @@
+1	#Israel	#israel	NNP	_	2	nsubj	_	U-PERSON
+2	Alleges	allege	VBZ	_	0	root	_	O
+3	#UN	#un	NNP	pos2=ADD	4	compound	_	B-PERSON
+4	#Vote	#vote	NNP	_	5	nsubj	_	L-PERSON
+5	Denies	deny	VBZ	_	2	ccomp	_	O
+6	#Jewish	#jewish	NNP	pos2=IN	7	compound	_	B-PERSON
+7	Link	link	NNP	pos2=NN	5	dobj	_	L-PERSON
+8	To	to	IN	pos2=TO	7	prep	_	O
+9	#Jerusalem	#jerusalem	NNP	pos2=PRP	8	pobj	_	O
+10	--	--	:	pos2=.	7	punct	_	O
+11	>	>	-LRB-	pos2=SYM	12	punct	_	O
+12	https://t.co/G7ulGwaclx	#hlink#	ADD	_	7	appos	_	O
+

@@ -1,0 +1,36 @@
+1	@mathewi	@mathewi	UH	pos2=XX	4	discourse	_	O
+2	@stirringthings	@stirringthings	UH	pos2=NNS	4	discourse	_	O
+3	It	it	PRP	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	wall	wall	NN	_	4	attr	_	O
+6	to	to	TO	pos2=IN	7	aux	_	O
+7	wall	wall	VB	pos2=NN	5	relcl	_	O
+8	"	"	``	pos2=''	7	punct	_	O
+9	How	how	WRB	_	11	advmod	_	O
+10	to	to	TO	_	11	aux	_	O
+11	stop	stop	VB	_	7	xcomp	_	O
+12	Trump	trump	NNP	_	11	dobj	_	U-PERSON
+13	,	,	,	_	4	punct	_	O
+14	"	"	''	_	4	punct	_	O
+15	"	"	``	_	17	punct	_	O
+16	Trump	trump	NNP	pos2=NN	18	poss	_	U-PERSON
+17	's	's	POS	pos2=VBZ	16	case	_	O
+18	racist	racist	JJ	pos2=NN	21	nmod	_	O
+19	,	,	,	_	22	punct	_	O
+20	"	"	``	pos2=''	22	punct	_	O
+21	Cabinet	cabinet	NN	pos2=NNP	22	nsubj	_	O
+22	is	be	VBZ	_	4	ccomp	_	O
+23	"	"	``	_	22	punct	_	O
+24	hellish	hellish	JJ	_	22	acomp	_	O
+25	,	,	,	_	22	punct	_	O
+26	"	"	''	_	22	punct	_	O
+27	etc.	etc.	FW	_	24	conj	_	O
+28	..	..	.	pos2=,	4	punct	_	O
+
+1	pro-Russian	pro-russian	JJ	_	0	root	_	U-NORP
+2	?	?	.	_	1	punct	_	O
+
+1	Absurd	absurd	JJ	_	0	root	_	O
+2	on	on	IN	_	1	prep	_	O
+3	face	face	NN	_	2	pobj	_	O
+

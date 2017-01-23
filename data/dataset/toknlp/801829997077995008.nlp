@@ -1,0 +1,14 @@
+1	Shalom	shalom	NNP	pos2=NN	3	compound	_	B-PERSON
+2	Rimma	rimma	NNP	_	3	compound	_	L-PERSON
+3	@Intersymbol	@intersymbol	NNP	_	10	nsubj	_	O
+4	As	as	IN	_	3	prep	_	O
+5	these	these	DT	_	7	det	_	O
+6	terrorist	terrorist	JJ	pos2=NN	7	nmod	_	O
+7	rats	rat	NNS	_	4	pobj	_	O
+8	#Hamas	#hamas	NNP	pos2=NNS	10	nsubj	_	O
+9	will	will	MD	_	10	aux	_	O
+10	have	have	VB	_	0	root	_	O
+11	to	to	TO	_	12	aux	_	O
+12	pay	pay	VB	_	10	xcomp	_	O
+13	dearly	dearly	RB	_	12	advmod	_	O
+

@@ -1,0 +1,28 @@
+1	Saying	say	VBG	_	7	csubj	_	O
+2	that	that	IN	pos2=DT	4	mark	_	O
+3	#WhiteSupremacy	#whitesupremacy	NNP	pos2=NN	4	nsubj	_	U-ORG
+4	voted	vote	VBD	_	1	ccomp	_	O
+5	for	for	IN	_	4	prep	_	O
+6	#Trump	#trump	NNP	pos2=NN	5	pobj	_	U-DATE
+7	is	be	VBZ	_	0	root	_	O
+8	a	a	DT	_	9	det	_	O
+9	deflection	deflection	NN	_	7	attr	_	O
+10	.	.	.	_	7	punct	_	O
+
+1	#WhiteSupremacy	#whitesupremacy	NN	pos2=NNP	2	nsubj	_	O
+2	voted	vote	VBD	pos2=VBN	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	#HRC	#hrc	NNP	pos2=NN	3	pobj	_	U-ORG
+5	also	also	RB	_	7	advmod	_	O
+6	she	she	PRP	_	7	nsubj	_	O
+7	won	win	VBD	_	2	conj	_	O
+8	popular	popular	JJ	_	9	nmod	_	O
+9	vote	vote	NN	_	7	dobj	_	O
+10	by	by	IN	_	7	prep	_	O
+11	2	0	CD	_	12	nmod	_	U-CARDINAL
+12	M	m	NNP	pos2=NN	13	compound	_	U-ORG
+13	votes	vote	NNS	_	10	pobj	_	O
+14	.	.	.	_	7	punct	_	O
+
+1	#STOP	#stop	NN	pos2=VB	0	root	_	O
+

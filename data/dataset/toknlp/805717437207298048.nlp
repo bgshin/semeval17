@@ -1,0 +1,12 @@
+1	#Homeopathy	#homeopathy	NN	pos2=NNP	7	compound	_	O
+2	#Safe	#safe	NNP	pos2=FW	7	compound	_	B-ORG
+3	#Gentle	#gentle	NNP	pos2=POS	7	compound	_	I-ORG
+4	#Chronicdiseases	#chronicdiseases	NNP	pos2=POS	7	compound	_	I-ORG
+5	World	world	NNP	_	7	compound	_	I-ORG
+6	Class	class	NNP	_	7	compound	_	I-ORG
+7	Homeopathy	homeopathy	NNP	pos2=NN	10	poss	_	I-ORG
+8	#Unique	#unique	POS	pos2=NNP	7	case	_	L-ORG
+9	Treatment	treatment	NN	pos2=NNP	10	compound	_	O
+10	Methodology	methodology	NN	pos2=NNP	11	dep	_	O
+11	https://t.co/S1j4pZKdMx	#hlink#	ADD	_	0	root	_	O
+

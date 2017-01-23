@@ -1,0 +1,21 @@
+1	Unless	unless	IN	_	3	mark	_	O
+2	Ukraine	ukraine	NNP	_	3	nsubj	_	U-GPE
+3	resolves	resolve	VBZ	_	15	advcl	_	O
+4	its	its	PRP$	_	6	poss	_	O
+5	political	political	JJ	_	6	nmod	_	O
+6	crisis	crisis	NN	_	3	dobj	_	O
+7	through	through	IN	_	3	prep	_	O
+8	an	an	DT	_	11	det	_	O
+9	early	early	JJ	_	11	nmod	_	O
+10	parliamentary	parliamentary	JJ	_	11	nmod	_	O
+11	election	election	NN	_	7	pobj	_	O
+12	,	,	,	_	15	punct	_	O
+13	it	it	PRP	_	15	nsubj	_	O
+14	may	may	MD	_	15	aux	_	O
+15	undergo	undergo	VB	_	0	root	_	O
+16	a	a	DT	_	17	det	_	O
+17	military	military	NN	pos2=JJ	15	dobj	_	O
+18	...	..	.	_	15	punct	_	O
+
+1	https://t.co/ciYK34oyYi	#hlink#	ADD	_	0	root	_	U-ORG
+

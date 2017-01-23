@@ -1,0 +1,22 @@
+1	@Uman2631	@uman0	NN	pos2=NNS	2	nsubj	_	O
+2	@eileendefreest	@eileendefreest	JJS	pos2=UH	0	root	_	O
+3	@joshtpm	@joshtpm	IN	pos2=UH	2	prep	_	O
+4	Comey	comey	NNP	_	3	pobj	_	U-PERSON
+5	working	work	VBG	_	1	acl	_	O
+6	primarily	primarily	RB	_	5	advmod	_	O
+7	to	to	TO	_	8	aux	_	O
+8	secure	secure	VB	_	5	advcl	_	O
+9	his	his	PRP$	_	10	poss	_	O
+10	place	place	NN	_	8	dobj	_	O
+11	in	in	IN	_	10	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	GOP	gop	NNP	_	14	compound	_	U-ORG
+14	future	future	NN	_	11	pobj	_	O
+15	.	.	.	_	2	punct	_	O
+
+1	He	he	PRP	_	3	nsubj	_	O
+2	deliberately	deliberately	RB	_	3	advmod	_	O
+3	scuttled	scuttle	VBD	_	0	root	_	O
+4	Hillary	hillary	NNP	_	3	dobj	_	U-PERSON
+5	.	.	.	_	3	punct	_	O
+

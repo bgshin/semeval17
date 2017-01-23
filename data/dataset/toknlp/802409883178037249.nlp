@@ -1,0 +1,19 @@
+1	@col_roll	@col_roll	UH	pos2=NNP	2	discourse	_	O
+2	@nerv_burger	@nerv_burger	JJR	pos2=UH	3	nmod	_	O
+3	@ScottAdamsSays	@scottadamssays	NNPS	pos2=VBZ	4	compound	_	O
+4	Well	well	UH	pos2=RB	0	root	_	O
+5	by	by	IN	_	2	prep	_	O
+6	that	that	DT	_	7	det	_	O
+7	definition	definition	NN	_	5	pobj	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	Obamacare	obamacare	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	is	be	VBZ	_	0	root	_	O
+3	Fascism	fascism	NNP	pos2=NN	2	attr	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	To	to	IN	_	0	root	_	O
+2	a	a	DT	_	3	det	_	O
+3	degree	degree	NN	_	1	pobj	_	O
+4	.	.	.	_	1	punct	_	O
+

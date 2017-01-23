@@ -1,0 +1,38 @@
+1	@MarkGaleotti	@markgaleotti	XX	pos2=``	3	dep	_	O
+2	Ukrainians	ukrainian	NNPS	pos2=NNS	3	nsubj	_	U-NORP
+3	tired	tired	JJ	pos2=VBD	0	root	_	O
+4	with	with	IN	_	3	prep	_	O
+5	Saakashvili	saakashvili	NNP	_	4	pobj	_	U-PERSON
+6	.	.	.	_	3	punct	_	O
+
+1	Wee	wee	NNP	pos2=UH	2	nsubj	_	U-PERSON
+2	need	need	VB	pos2=VBP	0	root	_	O
+3	his	his	PRP$	_	4	poss	_	O
+4	deeds	deed	NNS	_	2	dobj	_	O
+5	not	not	RB	_	7	neg	_	O
+6	his	his	PRP$	_	7	poss	_	O
+7	talks	talk	NNS	pos2=NN	4	appos	_	O
+8	alone	alone	RB	pos2=JJ	7	advmod	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	"	"	``	_	4	punct	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	will	will	MD	_	4	aux	_	O
+4	do	do	VB	_	0	root	_	O
+5	this	this	DT	_	4	dobj	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	'll	will	MD	_	3	aux	_	O
+3	do	do	VB	_	0	root	_	O
+4	that	that	DT	_	3	dobj	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	swear	swear	VBP	_	0	root	_	O
+3	"	"	''	pos2=``	2	punct	_	O
+4	-	-	,	pos2=:	2	punct	_	O
+5	and	and	CC	_	2	cc	_	O
+6	what	what	WP	pos2=WDT	2	conj	_	O
+7	?	?	.	_	2	punct	_	O
+

@@ -1,0 +1,38 @@
+1	But	but	CC	_	4	cc	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	'm	be	VBP	_	4	aux	_	O
+4	learning	learn	VBG	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	And	and	CC	_	3	cc	_	O
+2	really	really	RB	_	3	advmod	_	O
+3	trying	try	VBG	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	And	and	CC	_	6	cc	_	O
+2	taking	take	VBG	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	lot	lot	NN	_	2	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	deep	deep	JJ	_	7	nmod	_	O
+7	breaths	breath	NNS	_	5	pobj	_	O
+8	everyday	everyday	RB	pos2=JJ	2	advmod	_	O
+9	.	.	.	_	8	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	love	love	VBP	_	0	root	_	O
+3	him	him	PRP	_	2	dobj	_	O
+4	so	so	RB	_	5	advmod	_	O
+5	much	much	RB	_	2	advmod	_	O
+6	&	&	CC	_	2	cc	_	O
+7	I	I	PRP	_	8	nsubj	_	O
+8	know	know	VBP	_	2	conj	_	O
+9	I	I	PRP	_	10	nsubj	_	O
+10	'm	be	VBP	_	8	ccomp	_	O
+11	the	the	DT	_	13	det	_	O
+12	best	good	JJS	_	13	nmod	_	O
+13	mama	mama	NN	_	10	attr	_	O
+14	for	for	IN	_	13	prep	_	O
+15	him	him	PRP	_	14	pobj	_	O
+16	❤️	❤️	.	pos2=''	8	punct	_	O
+

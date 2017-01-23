@@ -1,0 +1,27 @@
+1	@lhfang	@lhfang	UH	pos2=FW	6	discourse	_	O
+2	@sheilad715	@sheilad0	NN	pos2=CD	6	dep	_	O
+3	@chrislhayes	@chrislhayes	UH	pos2=NNS	6	discourse	_	O
+4	@MazMHussain	@mazmhussain	NNP	pos2=IN	5	compound	_	O
+5	Obama	obama	NNP	_	6	compound	_	U-PERSON
+6	admin	admin	NN	_	0	root	_	O
+7	.	.	.	_	6	punct	_	O
+
+1	did	do	VBD	_	3	aux	_	O
+2	nt	nt	RB	_	3	advmod	_	O
+3	tell	tell	VB	_	0	root	_	O
+4	us	us	PRP	_	3	dobj	_	O
+5	they	they	PRP	_	7	nsubj	_	O
+6	'd	would	MD	pos2=VBD	7	aux	_	O
+7	found	find	VBN	_	3	ccomp	_	O
+8	BinLaden	binladen	NNP	_	7	dobj	_	U-PERSON
+9	either	either	CC	pos2=RB	13	preconj	_	O
+10	;	;	:	pos2=,	13	punct	_	O
+11	not	not	RB	_	13	neg	_	O
+12	a	a	DT	_	13	det	_	O
+13	peep	peep	NN	_	8	appos	_	O
+14	.	.	.	_	3	punct	_	O
+
+1	Secrecy	secrecy	NN	pos2=NNP	3	nmod	_	O
+2	necessary	necessary	JJ	_	3	nmod	_	O
+3	smtimes	smtimes	NNS	pos2=NN	0	root	_	O
+

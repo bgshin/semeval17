@@ -1,0 +1,30 @@
+1	@StefanMolyneux	@stefanmolyneux	XX	pos2=LS	2	dep	_	O
+2	@TrumpsDisciple	@trumpsdisciple	VBP	pos2=IN	0	root	_	O
+3	They	they	PRP	_	4	nsubj	_	O
+4	blame	blame	VBP	_	2	ccomp	_	O
+5	fake	fake	JJ	_	6	nmod	_	O
+6	news	news	NN	_	4	dobj	_	O
+7	4	0	CD	pos2=IN	4	npadvmod	_	U-CARDINAL
+8	her	her	PRP$	pos2=PRP	9	poss	_	O
+9	loss	loss	NN	_	6	appos	_	O
+10	?	?	.	_	2	punct	_	O
+
+1	What	what	WP	_	2	dep	_	O
+2	about	about	IN	_	0	root	_	O
+3	all	all	PDT	_	6	predet	_	O
+4	the	the	DT	_	6	det	_	O
+5	fake	fake	JJ	_	6	nmod	_	O
+6	news	news	NN	_	2	pobj	_	O
+7	about	about	IN	_	6	prep	_	O
+8	Trump	trump	NNP	pos2=NN	7	pobj	_	U-ORG
+9	?	?	.	_	2	punct	_	O
+
+1	Do	do	VBP	pos2=VB	3	aux	_	O
+2	they	they	PRP	_	3	nsubj	_	O
+3	think	think	VB	_	0	root	_	O
+4	it	it	PRP	_	6	nsubj	_	O
+5	only	only	RB	_	6	advmod	_	O
+6	hurts	hurt	VBZ	_	3	ccomp	_	O
+7	Dems	dems	NNPS	pos2=NNP	6	dobj	_	U-NORP
+8	?	?	.	_	3	punct	_	O
+

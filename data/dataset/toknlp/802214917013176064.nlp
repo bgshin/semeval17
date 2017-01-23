@@ -1,0 +1,20 @@
+1	#Libya	#libya	NNP	pos2=XX	2	compound	_	B-PERSON
+2	#Italy	#italy	NNP	pos2=NN	0	root	_	L-PERSON
+3	.	.	.	_	2	punct	_	O
+
+1	NOV	nov	NNP	pos2=NN	2	compound	_	B-DATE
+2	25th	#ord#	NN	pos2=JJ	6	npadvmod	_	L-DATE
+3	,	,	,	_	2	punct	_	O
+4	PC	pc	NN	pos2=NNP	7	poss	_	O
+5	's	's	POS	pos2=AFX	4	case	_	O
+6	#Meitig	#meitig	JJ	pos2=NNP	7	nmod	_	O
+7	visits	visit	NNS	pos2=VBZ	10	nmod	_	O
+8	Italian	italian	JJ	_	10	nmod	_	U-NORP
+9	field	field	NN	_	10	compound	_	O
+10	hospital	hospital	NN	_	0	root	_	O
+11	in	in	IN	_	10	prep	_	O
+12	#Misrata	#misrata	NNP	pos2=NNS	11	pobj	_	U-GPE
+13	.	.	.	_	2	punct	_	O
+
+1	https://t.co/PAP3RBtItC	#hlink#	ADD	_	0	root	_	U-ORG
+

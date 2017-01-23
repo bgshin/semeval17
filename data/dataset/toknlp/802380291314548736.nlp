@@ -1,0 +1,19 @@
+1	i	I	PRP	_	4	nsubj	_	O
+2	ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	believe	believe	VB	_	0	root	_	O
+5	george	george	NNP	pos2=JJ	6	compound	_	B-PERSON
+6	soros	soros	NNP	pos2=NN	8	nsubj	_	L-PERSON
+7	personally	personally	RB	_	8	advmod	_	O
+8	murdered	murder	VBD	pos2=VBN	4	ccomp	_	O
+9	julian	julian	NNP	pos2=JJ	10	compound	_	B-PERSON
+10	assange	assange	NNP	pos2=NN	8	dobj	_	L-PERSON
+11	by	by	IN	_	8	prep	_	O
+12	force	force	NN	_	14	dep	_	O
+13	-	-	HYPH	pos2=,	14	punct	_	O
+14	feeding	feed	VBG	_	11	pcomp	_	O
+15	him	him	PRP	_	14	dative	_	O
+16	money	money	NN	_	14	dobj	_	O
+17	#rip	#rip	XX	pos2=UH	8	dep	_	O
+18	#pizzagate	#pizzagate	UH	pos2=ADD	8	discourse	_	O
+

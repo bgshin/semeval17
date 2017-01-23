@@ -1,0 +1,11 @@
+1	What	what	WP	_	5	dobj	_	O
+2	do	do	VBP	_	5	aux	_	O
+3	Nobel	nobel	NNP	_	4	compound	_	O
+4	Laureates	laureate	NNPS	pos2=NNP	5	nsubj	_	O
+5	say	say	VB	pos2=VBP	0	root	_	O
+6	about	about	IN	_	5	prep	_	O
+7	Homeopathy	homeopathy	NN	pos2=NNP	6	pobj	_	O
+8	?	?	.	_	5	punct	_	O
+
+1	https://t.co/KrRIZAQwTh	#hlink#	ADD	_	0	root	_	U-ORG
+

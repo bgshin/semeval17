@@ -1,0 +1,22 @@
+1	#jocox	#jocox	UH	pos2=PRP$	3	discourse	_	O
+2	death	death	NN	_	3	nsubj	_	O
+3	was	be	VBD	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	#hoax	#hoax	NN	pos2=NNP	3	attr	_	O
+6	she	she	PRP	_	7	nsubj	_	O
+7	was	be	VBD	_	5	relcl	_	O
+8	a	a	DT	_	9	det	_	O
+9	fraud	fraud	NN	_	7	attr	_	O
+10	she	she	PRP	_	11	nsubj	_	O
+11	supported	support	VBD	_	9	relcl	_	O
+12	#hamas	#hamas	NNS	pos2=NNPS	11	dobj	_	O
+13	and	and	CC	_	12	cc	_	O
+14	her	her	PRP$	pos2=PRP	15	poss	_	O
+15	#brendancox	#brendancox	NN	pos2=NNP	17	nsubjpass	_	O
+16	was	be	VBD	_	17	auxpass	_	O
+17	sacked	sack	VBN	_	3	conj	_	O
+18	for	for	IN	_	17	prep	_	O
+19	sexual	sexual	JJ	_	20	nmod	_	O
+20	stuff	stuff	NN	_	18	pobj	_	O
+21	@savechildrenuk	@savechildrenuk	.	pos2=ADD	17	punct	_	O
+

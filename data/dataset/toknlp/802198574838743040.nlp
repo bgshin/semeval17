@@ -1,0 +1,23 @@
+1	@SheriffClarke	@sheriffclarke	NN	pos2=ADD	3	nsubj	_	O
+2	To	to	TO	_	3	aux	_	O
+3	comment	comment	VB	_	0	root	_	O
+4	on	on	IN	_	3	prep	_	O
+5	supremacists	supremacist	NNS	_	4	pobj	_	O
+6	would	would	MD	_	8	aux	_	O
+7	be	be	VB	_	8	aux	_	O
+8	giving	give	VBG	_	3	xcomp	_	O
+9	them	them	PRP	_	8	dative	_	O
+10	undeserved	undeserved	JJ	_	11	nmod	_	O
+11	attention	attention	NN	_	8	dobj	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	These	these	DT	_	2	det	_	O
+2	idiots	idiot	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	7	aux	_	O
+4	best	good	JJS	pos2=RBS	3	acomp	_	O
+5	off	off	IN	pos2=RP	4	prt	_	O
+6	being	be	VBG	_	7	auxpass	_	O
+7	ignored	ignore	VBN	_	0	root	_	O
+8	altogether	altogether	RB	_	7	advmod	_	O
+9	.	.	.	_	7	punct	_	O
+

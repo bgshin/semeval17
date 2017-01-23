@@ -1,0 +1,9 @@
+1	#Rambo	#rambo	XX	pos2=RB	2	aux	_	O
+2	watching	watch	VBG	_	0	root	_	O
+3	more	more	JJR	pos2=RBR	2	dobj	_	O
+4	#znation	#znation	IN	pos2=NN	2	prep	_	O
+5	#netflixuk	#netflixuk	FW	pos2=UH	8	nmod	_	O
+6	#thewalkingdead	#thewalkingdead	FW	pos2=UH	8	nmod	_	O
+7	#zombies	#zombies	FW	pos2=UH	8	nmod	_	O
+8	#residentevil	#residentevil	UH	pos2=FW	2	discourse	_	O
+

@@ -1,0 +1,28 @@
+1	@AnimeDatingUSA	@animedatingusa	NN	pos2=NNP	2	dep	_	O
+2	But	but	CC	_	11	cc	_	O
+3	BECAUSE	because	IN	_	5	mark	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	spent	spend	VBD	_	11	advcl	_	O
+6	hours	hour	NNS	_	5	dobj	_	U-TIME
+7	on	on	IN	_	5	prep	_	O
+8	something	something	NN	_	7	pobj	_	O
+9	you	you	PRP	_	11	nsubj	_	O
+10	will	will	MD	_	11	aux	_	O
+11	be	be	VB	_	0	root	_	O
+12	more	more	RBR	pos2=JJR	13	advmod	_	O
+13	likely	likely	JJ	_	11	acomp	_	O
+14	to	to	TO	_	15	aux	_	O
+15	toss	toss	VB	_	13	xcomp	_	O
+16	money	money	NN	_	15	dobj	_	O
+17	at	at	IN	_	15	prep	_	O
+18	it	it	PRP	_	17	pobj	_	O
+19	.	.	.	_	11	punct	_	O
+
+1	Death	death	NN	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	6	det	_	O
+4	super	super	RB	pos2=JJ	5	advmod	_	O
+5	harsh	harsh	JJ	_	6	nmod	_	O
+6	penalty	penalty	NN	_	2	attr	_	O
+7	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,22 @@
+1	If	if	IN	_	3	mark	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	was	be	VBD	_	8	advcl	_	O
+4	Tim	tim	NNP	_	5	compound	_	B-PERSON
+5	Duncan	duncan	NNP	_	3	attr	_	L-PERSON
+6	I	I	PRP	_	8	nsubj	_	O
+7	would	would	MD	_	8	aux	_	O
+8	spend	spend	VB	_	0	root	_	O
+9	my	my	PRP$	_	10	poss	_	O
+10	retirement	retirement	NN	_	8	dobj	_	O
+11	by	by	IN	_	8	prep	_	O
+12	opening	open	VBG	pos2=NN	11	pcomp	_	O
+13	up	up	RP	_	12	prt	_	O
+14	a	a	DT	_	15	det	_	O
+15	chain	chain	NN	_	12	dobj	_	O
+16	of	of	IN	_	15	prep	_	O
+17	"	"	``	_	18	punct	_	O
+18	Duncan	duncan	NNP	_	20	nmod	_	U-PERSON
+19	"	"	''	_	18	punct	_	O
+20	Donuts	donuts	NNP	pos2=NNS	16	pobj	_	O
+21	.	.	.	_	8	punct	_	O
+

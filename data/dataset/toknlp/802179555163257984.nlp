@@ -1,0 +1,23 @@
+1	Petition	petition	NN	_	4	compound	_	O
+2	update	update	NN	pos2=RB	4	compound	_	O
+3	-	-	HYPH	pos2=:	4	punct	_	O
+4	@UN	@un	NN	pos2=NNP	0	root	_	O
+5	Changing	change	VBG	pos2=NN	4	acl	_	O
+6	Number	number	NN	pos2=NNP	5	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Signatures	signature	NNS	pos2=NNPS	7	pobj	_	O
+9	!	!	.	_	4	punct	_	O
+
+1	Complicity	complicity	NN	_	0	root	_	O
+2	with	with	IN	_	1	prep	_	O
+3	apartheid	apartheid	NN	_	4	compound	_	O
+4	V	v	NN	pos2=IN	5	compound	_	O
+5	Humanity	humanity	NN	pos2=NNP	2	pobj	_	O
+6	4	0	CD	_	7	nmod	_	U-CARDINAL
+7	#Palestine	#palestine	NNS	pos2=NNP	1	npadvmod	_	O
+8	!	!	.	_	1	punct	_	O
+
+1	https://t.co/5BGRC8LRUR	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@Change	@change	NNP	pos2=NN	2	pobj	_	O
+

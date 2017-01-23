@@ -1,0 +1,12 @@
+1	#Yemen	#yemen	NNP	pos2=VB	4	dep	_	O
+2	Another	another	DT	_	4	det	_	O
+3	$	$	$	_	4	nmod	_	O
+4	100,000	0	CD	_	11	dep	_	U-MONEY
+5	lost	lose	VBN	_	4	acl	_	O
+6	or	or	CC	_	5	cc	_	O
+7	damaged	damage	VBN	_	5	conj	_	O
+8	-	-	:	pos2=GW	11	punct	_	O
+9	Hilarious	hilarious	JJ	pos2=GW	10	nmod	_	O
+10	https://t.co/jVeBpVPLVT	#hlink#	ADD	pos2=NN	11	nmod	_	O
+11	https://t.co/4JjUIRsp34	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,17 @@
+1	Yes	yes	UH	_	3	discourse	_	O
+2	@MMFlint	@mmflint	NNP	pos2=UH	3	vocative	_	U-PERSON
+3	Let	let	VB	_	0	root	_	O
+4	's	's	PRP	_	5	nsubj	_	O
+5	discuss	discuss	VB	_	3	ccomp	_	O
+6	it	it	PRP	_	5	dobj	_	O
+7	!	!	.	_	3	punct	_	O
+
+1	@JohnTory	@johntory	ADD	pos2=GW	5	det	_	O
+2	#Toronto	#toronto	IN	pos2=NNP	6	nmod	_	O
+3	#Garbage	#garbage	GW	pos2=NFP	2	pobj	_	O
+4	https://t.co/tQjzCJTTCt	#hlink#	ADD	pos2=GW	6	nmod	_	O
+5	@NatObserver	@natobserver	GW	pos2=ADD	6	nmod	_	O
+6	https://t.co/4KniwC7Le7	#hlink#	ADD	pos2=NN	8	nmod	_	O
+7	#WaterIsLife	#waterislife	ADD	pos2=-RRB-	0	root	_	O
+8	#onpoli	#onpoli	UH	pos2=NNS	7	pobj	_	O
+

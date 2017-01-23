@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det	_	O
+2	Chanelles	chanelles	NNP	pos2=NNPS	5	nsubj	_	U-ORG
+3	in	in	IN	_	2	prep	_	O
+4	#ScreamQueens	#screamqueens	NNS	pos2=NNPS	3	pobj	_	O
+5	are	be	VBP	_	0	root	_	O
+6	more	more	RBR	_	7	advmod	_	O
+7	authentic	authentic	JJ	_	9	nmod	_	O
+8	medical	medical	JJ	_	9	nmod	_	O
+9	practitioners	practitioner	NNS	_	5	attr	_	O
+10	than	than	IN	_	9	prep	_	O
+11	the	the	DT	_	14	det	_	O
+12	Syrian	syrian	JJ	pos2=NNP	14	nmod	_	U-NORP
+13	White	white	NNP	_	14	compound	_	B-ORG
+14	Helmets	helmet	NNPS	pos2=NNS	10	pobj	_	L-ORG
+15	.	.	.	_	5	punct	_	O
+
+1	#FakeNews	#fakenews	NNS	pos2=ADD	0	root	_	O
+

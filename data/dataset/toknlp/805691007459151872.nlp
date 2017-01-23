@@ -1,0 +1,13 @@
+1	US	us	NNP	_	3	nmod	_	U-GPE
+2	electoral	electoral	JJ	_	3	nmod	_	O
+3	college	college	NN	_	4	compound	_	O
+4	a	a	DT	_	6	det	_	O
+5	rubber	rubber	NN	_	6	compound	_	O
+6	stamp	stamp	NN	_	11	nsubj	_	O
+7	,	,	,	_	8	punct	_	O
+8	says	say	VBZ	_	0	root	_	O
+9	Talbott	talbott	NNP	pos2=GW	12	nsubj	_	U-PERSON
+10	https://t.co/NoVPmX3KyC	#hlink#	ADD	pos2=POS	11	nsubj	_	O
+11	#news	#news	VBZ	pos2=-RRB-	8	ccomp	_	O
+12	#timesofindia	#timesofindia	UH	pos2=NN	8	nsubj	_	O
+

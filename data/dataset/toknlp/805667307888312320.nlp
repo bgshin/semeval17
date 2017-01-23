@@ -1,0 +1,24 @@
+1	@BMcCarthy32	@bmccarthy0	NN	pos2=LS	3	compound	_	O
+2	Deportation	deportation	NN	pos2=NNP	3	compound	_	O
+3	force	force	NN	_	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	VP	vp	NNP	pos2=NN	3	appos	_	U-ORG
+6	who	who	WP	_	7	nsubj	_	O
+7	wants	want	VBZ	_	3	relcl	_	O
+8	to	to	TO	_	9	aux	_	O
+9	overturn	overturn	VB	_	7	xcomp	_	O
+10	gay	gay	JJ	_	11	nmod	_	O
+11	marriage	marriage	NN	_	9	dobj	_	O
+12	,	,	,	_	11	punct	_	O
+13	pro-life	pro-life	JJ	_	15	nmod	_	O
+14	SCOTUS	scotus	NNP	pos2=NN	15	compound	_	U-ORG
+15	appointees	appointee	NNS	_	11	conj	_	O
+16	,	,	,	_	15	punct	_	O
+17	climate	climate	NN	_	18	compound	_	O
+18	change	change	NN	_	19	compound	_	O
+19	denialism	denialism	NN	_	15	appos	_	O
+20	,	,	,	_	19	punct	_	O
+21	blatant	blatant	JJ	_	22	nmod	_	O
+22	racism	racism	NN	_	19	appos	_	O
+23	.	.	.	_	3	punct	_	O
+

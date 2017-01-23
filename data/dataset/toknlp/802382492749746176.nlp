@@ -1,0 +1,24 @@
+1	Wait	wait	VB	pos2=NN	0	root	_	O
+2	till	till	IN	_	5	mark	_	O
+3	this	this	DT	_	4	det	_	O
+4	guy	guy	NN	_	5	nsubj	_	O
+5	finds	find	VBZ	_	1	advcl	_	O
+6	out	out	RP	_	5	prt	_	O
+7	Trump	trump	NNP	pos2=NN	8	nsubj	_	U-ORG
+8	cut	cut	VBD	pos2=VB	5	ccomp	_	O
+9	his	his	PRP$	_	10	poss	_	O
+10	Medicaid	medicaid	NNP	_	8	dobj	_	U-ORG
+11	and	and	CC	_	10	cc	_	O
+12	the	the	DT	_	13	det	_	O
+13	funding	funding	NN	_	10	conj	_	O
+14	to	to	IN	_	13	prep	_	O
+15	his	his	PRP$	_	16	poss	_	O
+16	kid	kid	NN	_	18	poss	_	O
+17	's	's	POS	_	16	case	_	O
+18	schools	school	NNS	_	14	pobj	_	O
+19	.	.	.	_	1	punct	_	O
+
+1	#turbulence	#turbulence	UH	pos2=GW	3	discourse	_	O
+2	#DeltaAirlines	#deltaairlines	NNS	pos2=ADD	3	nmod	_	O
+3	https://t.co/FSav9mKPLB	#hlink#	ADD	_	0	root	_	O
+

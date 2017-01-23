@@ -1,0 +1,7 @@
+1	@knightro5	@knightro0	NNP	pos2=``	6	dep	_	O
+2	Five	#crd#	CD	pos2=NNP	4	nmod	_	U-CARDINAL
+3	-	-	HYPH	_	4	punct	_	O
+4	Dash	dash	NN	pos2=NNP	1	npadvmod	_	O
+5	-	-	:	pos2=HYPH	6	punct	_	O
+6	Two	#crd#	CD	pos2=NNP	0	root	_	U-CARDINAL
+

@@ -1,0 +1,20 @@
+1	@Stevenwhirsch99	@stevenwhirsch0	NN	pos2=NNS	2	compound	_	O
+2	@TYCapitalism	@tycapitalism	NN	pos2=NNP	5	nsubj	_	O
+3	And	and	CC	_	2	cc	_	O
+4	everybody	everybody	NN	_	5	nsubj	_	O
+5	wondered	wonder	VBD	_	0	root	_	O
+6	what	what	WDT	pos2=WP	7	det	_	O
+7	kind	kind	NN	_	12	attr	_	O
+8	of	of	IN	_	7	prep	_	O
+9	rabbit	rabbit	NN	_	10	compound	_	O
+10	hole	hole	NN	_	8	pobj	_	O
+11	we	we	PRP	_	13	nsubj	_	O
+12	were	be	VBD	_	13	aux	_	O
+13	going	go	VBG	_	5	ccomp	_	O
+14	down	down	RP	pos2=RB	13	prt	_	O
+15	in	in	IN	_	13	prep	_	O
+16	legalizing	legalize	VBG	_	15	pcomp	_	O
+17	gay	gay	JJ	_	18	nmod	_	O
+18	marriage	marriage	NN	_	16	dobj	_	O
+19	.	.	.	_	5	punct	_	O
+

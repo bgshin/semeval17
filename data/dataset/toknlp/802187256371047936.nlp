@@ -1,0 +1,27 @@
+1	election	election	NN	_	2	compound	_	O
+2	convo	convo	NN	_	5	nsubj	_	O
+3	ca	can	MD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	work	work	VB	_	0	root	_	O
+6	if	if	IN	_	9	mark	_	O
+7	facts	fact	NNS	_	9	nsubjpass	_	O
+8	are	be	VBP	_	9	auxpass	_	O
+9	ignored	ignore	VBN	_	5	advcl	_	O
+10	-	-	:	pos2=HYPH	9	punct	_	O
+11	"	"	``	pos2=SYM	9	punct	_	O
+12	HRC	hrc	NN	pos2=JJ	14	compound	_	O
+13	pop	pop	NN	pos2=JJ	14	compound	_	O
+14	vote	vote	NN	_	9	dobj	_	O
+15	+2	0	CD	_	16	nmod	_	U-CARDINAL
+16	mil	mil	NNS	pos2=NN	14	npadvmod	_	O
+17	because	because	IN	_	9	prep	_	O
+18	of	of	IN	_	17	pcomp	_	O
+19	all	all	PDT	_	21	predet	_	O
+20	the	the	DT	_	21	det	_	O
+21	illegals	illegal	NNS	_	17	pobj	_	O
+22	who	who	WP	_	23	nsubj	_	O
+23	voted	vote	VBD	_	21	relcl	_	O
+24	"	"	``	pos2=''	26	punct	_	O
+25	#smh	#smh	UH	pos2=XX	26	discourse	_	O
+26	#StillWithHer	#stillwithher	NN	pos2=.	23	dobj	_	O
+

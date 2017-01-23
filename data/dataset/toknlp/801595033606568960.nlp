@@ -1,0 +1,14 @@
+1	My	my	PRP$	_	3	poss	_	O
+2	Bizarro	bizarro	NNP	_	3	compound	_	U-ORG
+3	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=CD	5	dep	_	O
+4	:	:	:	_	2	punct	_	O
+5	Mitchum	mitchum	NNP	_	0	root	_	U-PERSON
+6	,	,	,	_	5	punct	_	O
+7	TJ	tj	NNP	_	5	conj	_	U-PERSON
+8	,	,	,	_	7	punct	_	O
+9	Finn	finn	NNP	_	7	conj	_	U-PERSON
+10	,	,	,	_	9	punct	_	O
+11	and	and	CC	_	9	cc	_	O
+12	April	april	NNP	_	9	conj	_	U-DATE
+13	.	.	.	_	12	nmod	_	O
+

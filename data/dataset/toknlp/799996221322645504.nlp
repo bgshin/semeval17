@@ -1,0 +1,15 @@
+1	#TrumpTransitionTeam	#trumptransitionteam	UH	pos2=``	3	discourse	_	O
+2	It	it	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	9	ccomp	_	O
+4	not	not	RB	_	3	neg	_	O
+5	a	a	DT	_	6	det	_	O
+6	government	government	NN	_	3	attr	_	O
+7	,	,	,	_	9	punct	_	O
+8	it	it	PRP	_	9	nsubj	_	O
+9	's	's	VBZ	_	0	root	_	O
+10	a	a	DT	_	12	det	_	O
+11	movement	movement	NN	_	12	compound	_	O
+12	#RightWingRevolution	#rightwingrevolution	NN	pos2=GW	9	attr	_	O
+13	#Fascism	#fascism	GW	pos2=ADD	14	nmod	_	O
+14	https://t.co/cFZEAGTcRV	#hlink#	ADD	pos2=NN	12	appos	_	O
+

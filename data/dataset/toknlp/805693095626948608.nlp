@@ -1,0 +1,26 @@
+1	#sallyfields	#sallyfields	UH	pos2=NNS	4	discourse	_	O
+2	does	do	VBZ	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	understand	understand	VB	_	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	electoral	electoral	JJ	_	7	nmod	_	O
+7	college	college	NN	_	4	dobj	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	Instead	instead	RB	_	2	advmod	_	O
+2	of	of	IN	_	0	root	_	O
+3	blabbing	blab	VBG	_	2	pcomp	_	O
+4	about	about	IN	_	3	prep	_	O
+5	your	your	PRP$	_	7	poss	_	O
+6	stupid	stupid	JJ	_	7	nmod	_	O
+7	opinions	opinion	NNS	_	4	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	Pres.	pres.	NNP	_	10	compound	_	B-PERSON
+10	Trump	trump	NNP	pos2=NN	8	pobj	_	L-PERSON
+11	.	.	.	_	2	punct	_	O
+
+1	go	go	VB	_	0	root	_	O
+2	to	to	IN	_	1	prep	_	O
+3	Prather	prather	NNP	_	4	compound	_	B-ORG
+4	Univ.	univ.	NNP	_	2	pobj	_	L-ORG
+

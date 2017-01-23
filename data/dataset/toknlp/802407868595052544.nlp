@@ -1,0 +1,13 @@
+1	Samsung	samsung	NNP	_	2	compound	_	O
+2	SDI	sdi	NNP	_	3	nsubj	_	O
+3	Lost	lose	VBN	pos2=NNP	0	root	_	O
+4	After	after	IN	pos2=NNP	3	prep	_	O
+5	Galaxy	galaxy	NNP	_	6	compound	_	O
+6	Note	note	NNP	pos2=NN	4	pobj	_	O
+7	7	0	CD	_	8	nmod	_	O
+8	Recall	recall	NN	pos2=VB	12	dep	_	O
+9	https://t.co/uGdhwQfI8v	#hlink#	ADD	_	12	dep	_	O
+10	#Samsung	#samsung	VBG	pos2=NNP	8	prep	_	O
+11	SDI	sdi	NNP	pos2=NN	10	pobj	_	O
+12	https://t.co/S5l9RcmREl	#hlink#	ADD	pos2=NN	3	dep	_	O
+

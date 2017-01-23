@@ -1,0 +1,16 @@
+1	@HCJustinn	@hcjustinn	NNP	pos2=MD	2	nsubj	_	O
+2	Fuck	fuck	VB	pos2=VBP	0	root	_	O
+3	it	it	PRP	_	2	dobj	_	O
+4	,	,	,	_	2	punct	_	O
+5	just	just	RB	_	6	advmod	_	O
+6	skip	skip	VB	_	2	dep	_	O
+7	to	to	IN	_	6	prep	_	O
+8	10:50	0	CD	_	7	pobj	_	U-TIME
+9	and	and	CC	_	6	cc	_	O
+10	pretend	pretend	VB	pos2=VBP	6	conj	_	O
+11	im	im	NN	pos2=PRP	10	dobj	_	O
+12	not	not	RB	_	11	neg	_	O
+13	a	a	DT	_	15	det	_	O
+14	failed	fail	VBN	_	15	nmod	_	O
+15	abortion	abortion	NN	_	11	appos	_	O
+

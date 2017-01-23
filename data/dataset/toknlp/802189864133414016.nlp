@@ -1,0 +1,16 @@
+1	Cynthia	cynthia	NNP	_	2	compound	_	B-PERSON
+2	Mckinney	mckinney	NNP	_	6	dep	_	L-PERSON
+3	:	:	:	_	6	punct	_	O
+4	AIPAC	aipac	NNP	pos2=NN	6	nmod	_	U-ORG
+5	total	total	JJ	_	6	nmod	_	O
+6	control	control	NN	_	15	dep	_	O
+7	of	of	IN	_	6	prep	_	O
+8	US	us	NNP	_	7	pobj	_	U-GPE
+9	Gov't	gov't	ADD	pos2=GW	10	nmod	_	O
+10	https://t.co/xZDwe8aXga	#hlink#	ADD	_	15	nmod	_	O
+11	#aipac	#aipac	-RRB-	pos2=IN	10	punct	_	O
+12	#lobby	#lobby	UH	pos2=VB	15	discourse	_	O
+13	#israel	#israel	UH	pos2=FW	15	discourse	_	O
+14	#palestine	#palestine	UH	pos2=PRP	15	discourse	_	O
+15	#BDS	#bds	NNS	pos2=UH	0	root	_	O
+

@@ -1,0 +1,15 @@
+1	child	child	NN	_	14	dep	_	O
+2	trafficking	traffic	VBG	pos2=NN	1	acl	_	O
+3	a	a	DT	_	5	det	_	O
+4	growing	grow	VBG	pos2=NN	5	nmod	_	O
+5	problem	problem	NN	_	2	dobj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	Iran	iran	NNP	_	6	pobj	_	U-GPE
+8	https://t.co/vjTrk4BAsj	#hlink#	ADD	pos2=NNP	14	nmod	_	O
+9	#iran	#iran	-RRB-	pos2=ADD	8	punct	_	O
+10	#syria	#syria	FW	pos2=UH	14	dep	_	O
+11	#Yemen	#yemen	NNP	pos2=GW	14	nmod	_	B-DATE
+12	#us	#us	GW	pos2=FW	14	nmod	_	I-DATE
+13	#paris	#paris	GW	pos2=-LRB-	14	nmod	_	L-DATE
+14	https://t.co/e3SmDmwsyA	#hlink#	ADD	pos2=NN	0	root	_	O
+

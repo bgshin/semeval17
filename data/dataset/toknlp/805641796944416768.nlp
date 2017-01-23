@@ -1,0 +1,20 @@
+1	@nicktuohy	@nicktuohy	UH	pos2=WRB	6	discourse	_	O
+2	@wannie1956	@wannie0	NN	pos2=CD	3	compound	_	O
+3	@BernardKeane	@bernardkeane	NN	pos2=NNP	7	npadvmod	_	O
+4	-	-	SYM	pos2=:	6	punct	_	O
+5	there	there	EX	_	6	expl	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	no	no	DT	_	9	det	_	O
+8	majority	majority	NN	pos2=JJ	9	compound	_	O
+9	support	support	NN	_	6	attr	_	O
+10	for	for	IN	_	9	prep	_	O
+11	any	any	DT	_	19	det	_	O
+12	conservative	conservative	JJ	_	14	nmod	_	O
+13	Christian	christian	JJ	pos2=NNP	14	nmod	_	U-NORP
+14	positions	position	NNS	_	15	nsubj	_	O
+15	eg	eg	NN	pos2=VBP	16	advmod	_	O
+16	anti	anti	AFX	pos2=FW	17	nmod	_	O
+17	abortion	abortion	NN	_	19	nmod	_	O
+18	,	,	,	_	19	punct	_	O
+19	euthanasia	euthanasia	NN	_	10	pobj	_	O
+

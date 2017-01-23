@@ -1,0 +1,29 @@
+1	Potentially	potentially	RB	_	3	advmod	_	O
+2	oil	oil	NN	pos2=VBP	3	npadvmod	_	O
+3	rich	rich	JJ	_	21	advcl	_	O
+4	,	,	,	_	21	punct	_	O
+5	Venezuela	venezuela	NNP	_	10	nsubj	_	U-GPE
+6	under	under	IN	pos2=NNP	3	advmod	_	O
+7	wo	wo	MD	pos2=IN	10	aux	_	O
+8	n't	not	RB	_	10	neg	_	O
+9	-	-	HYPH	pos2=:	10	punct	_	O
+10	let	let	VB	pos2=VBN	12	relcl	_	O
+11	-	-	HYPH	_	10	punct	_	O
+12	you	you	PRP	_	14	nsubj	_	O
+13	-	-	HYPH	_	14	punct	_	O
+14	recall	recall	NN	pos2=VB	18	compound	_	O
+15	-	-	HYPH	_	10	punct	_	O
+16	me	me	PRP	pos2=NNP	21	npadvmod	_	O
+17	Pres	pres	NNP	_	18	compound	_	B-PERSON
+18	Maduro	maduro	NNP	_	21	nsubj	_	L-PERSON
+19	is	be	VBZ	_	21	aux	_	O
+20	now	now	RB	_	21	advmod	_	O
+21	producing	produce	VBG	_	0	root	_	O
+22	refugees	refugee	NNS	_	21	dobj	_	O
+23	from	from	IN	_	21	prep	_	O
+24	the	the	DT	_	25	det	_	O
+25	misery	misery	NN	_	23	pobj	_	O
+26	.	.	.	_	21	punct	_	O
+
+1	https://t.co/b5TUSvYYxO	#hlink#	ADD	_	0	root	_	U-ORG
+

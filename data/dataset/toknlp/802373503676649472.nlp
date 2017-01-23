@@ -1,0 +1,22 @@
+1	HAHA	haha	UH	_	7	discourse	_	O
+2	,	,	,	_	7	punct	_	O
+3	more	more	RBR	pos2=JJR	4	advmod	_	O
+4	like	like	IN	_	5	qmod	_	O
+5	13	0	CD	_	7	nmod	_	U-CARDINAL
+6	AWESOME	awesome	JJ	pos2=NNP	7	nmod	_	O
+7	Headlines	headline	NNS	pos2=NNPS	0	root	_	O
+8	From	from	IN	_	7	prep	_	O
+9	#Breitbart	#breitbart	NNP	pos2=NN	8	pobj	_	U-ORG
+10	,	,	,	_	9	punct	_	O
+11	the	the	DT	_	13	det	_	O
+12	Site	site	NNP	pos2=NN	13	compound	_	O
+13	Run	run	NNP	pos2=VBN	9	conj	_	O
+14	By	by	IN	pos2=NNP	7	prep	_	O
+15	#Trump	#trump	NNP	_	18	poss	_	U-DATE
+16	's	's	POS	_	15	case	_	O
+17	Top	top	NNP	pos2=JJ	18	compound	_	O
+18	Adviser	adviser	NNP	pos2=NN	14	pobj	_	O
+19	https://t.co/pT7OEBpnck	#hlink#	ADD	_	18	appos	_	O
+20	@ComplexMagLife	@complexmaglife	ADD	pos2=-RRB-	15	nmod	_	O
+21	@Breibart	@breibart	NNP	pos2=NN	20	pobj	_	O
+

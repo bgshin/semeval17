@@ -1,0 +1,26 @@
+1	@MikkiL	@mikkil	MD	pos2=ADD	3	aux	_	O
+2	@Jflo918	@jflo0	NN	pos2=CD	3	nsubj	_	O
+3	Check	check	VB	pos2=NNP	0	root	_	O
+4	Putin	putin	NNP	_	7	poss	_	U-PERSON
+5	's	's	POS	_	4	case	_	O
+6	latest	late	JJS	_	7	nmod	_	O
+7	stance	stance	NN	_	3	dobj	_	O
+8	on	on	IN	_	7	prep	_	O
+9	religion	religion	NN	_	8	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	&	&	CC	_	3	cc	_	O
+2	Obama	obama	NNP	_	3	nsubj	_	U-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	great	great	JJ	_	3	acomp	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	Putin	putin	NNP	_	2	nsubj	_	U-PERSON
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	7	det	_	O
+4	short	short	JJ	_	7	nmod	_	O
+5	,	,	,	_	7	punct	_	O
+6	little	little	JJ	_	7	nmod	_	O
+7	punk	punk	NN	_	2	attr	_	O
+8	.	.	.	_	2	punct	_	O
+

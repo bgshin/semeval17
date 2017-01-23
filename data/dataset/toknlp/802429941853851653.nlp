@@ -1,0 +1,20 @@
+1	"	"	``	pos2=SYM	4	punct	_	O
+2	#China	#china	NNP	pos2=NNS	4	nsubj	_	U-ORG
+3	could	could	MD	_	4	aux	_	O
+4	get	get	VB	_	0	root	_	O
+5	a	a	DT	_	7	det	_	O
+6	#Galaxy	#galaxy	NNP	pos2=NN	7	compound	_	O
+7	Note	note	NN	pos2=VB	4	dobj	_	O
+8	7	0	CD	_	7	nmod	_	U-CARDINAL
+9	with	with	IN	_	4	prep	_	O
+10	6GB	0gb	NN	_	9	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	RAM	ram	NN	pos2=NNP	11	pobj	_	O
+13	and	and	CC	_	12	cc	_	O
+14	128GB	0gb	NN	pos2=JJ	15	compound	_	O
+15	storage	storage	NN	_	12	conj	_	O
+16	"	"	''	pos2=``	4	punct	_	O
+17	#android	#android	FW	pos2=GW	19	nmod	_	O
+18	#mobile	#mobile	IN	pos2=ADD	19	nmod	_	O
+19	https://t.co/FrB67sasvG	#hlink#	ADD	pos2=NN	4	dep	_	O
+

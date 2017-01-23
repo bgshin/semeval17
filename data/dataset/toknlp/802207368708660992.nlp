@@ -1,0 +1,9 @@
+1	#uber	#uber	UH	pos2=NN	8	punct	_	O
+2	in	in	IN	_	8	prep	_	O
+3	legal	legal	JJ	_	4	nmod	_	O
+4	trouble	trouble	NN	_	2	pobj	_	O
+5	,	,	,	_	8	punct	_	O
+6	again	again	RB	_	8	nmod	_	O
+7	:(	:(	NFP	pos2=-LRB-	8	punct	_	O
+8	https://t.co/24zzDfRjxA	#hlink#	ADD	pos2=NN	0	root	_	O
+

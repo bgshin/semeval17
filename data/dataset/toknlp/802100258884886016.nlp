@@ -1,0 +1,17 @@
+1	@zlando	@zlando	UH	pos2=NN	6	discourse	_	O
+2	but	but	CC	_	6	cc	_	O
+3	why	why	WRB	_	6	advmod	_	O
+4	do	do	VBP	_	6	aux	_	O
+5	they	they	PRP	_	6	nsubj	_	O
+6	claim	claim	VB	pos2=VBP	0	root	_	O
+7	#jerusalem	#jerusalem	PRP	pos2=UH	6	dobj	_	O
+8	when	when	WRB	_	12	advmod	_	O
+9	they	they	PRP	_	12	nsubj	_	O
+10	do	do	VBP	_	12	aux	_	O
+11	not	not	RB	_	12	neg	_	O
+12	have	have	VB	_	6	advcl	_	O
+13	any	any	DT	_	15	det	_	O
+14	religious	religious	JJ	_	15	nmod	_	O
+15	association	association	NN	_	12	dobj	_	O
+16	???	??	.	_	6	punct	_	O
+

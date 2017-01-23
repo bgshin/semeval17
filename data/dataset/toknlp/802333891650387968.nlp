@@ -1,0 +1,13 @@
+1	People	people	NNS	_	3	nsubj	_	O
+2	are	be	VBP	_	3	aux	_	O
+3	boycotting	boycott	VBG	_	0	root	_	O
+4	these	these	DT	_	6	det	_	O
+5	50	0	CD	_	6	nmod	_	U-CARDINAL
+6	brands	brand	NNS	_	3	dobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	protest	protest	VB	_	3	advcl	_	O
+9	Trump	trump	NNP	pos2=NN	8	dobj	_	U-ORG
+10	https://t.co/c3B2OYp14E	#hlink#	ADD	pos2=NNP	6	appos	_	O
+11	via	via	IN	_	8	prep	_	O
+12	@dailydot	@dailydot	.	pos2=-RRB-	3	punct	_	O
+

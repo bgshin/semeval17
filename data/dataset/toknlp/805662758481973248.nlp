@@ -1,0 +1,28 @@
+1	This	this	DT	_	3	det	_	O
+2	settler	settler	NN	_	3	compound	_	O
+3	election	election	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	too	too	RB	_	6	advmod	_	O
+6	much	much	JJ	pos2=RB	4	acomp	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	Tribal	tribal	JJ	_	2	nmod	_	O
+2	elections	election	NNS	_	3	nsubj	_	O
+3	look	look	VBP	pos2=VB	0	root	_	O
+4	easy	easy	JJ	_	3	acomp	_	O
+5	in	in	IN	_	3	prep	_	O
+6	comparison	comparison	NN	_	5	pobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	A	a	DT	pos2=LS	2	det	_	O
+2	#recount	#recount	NN	pos2=ADD	4	nsubj	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	makes	make	VBZ	_	0	root	_	O
+5	sense	sense	NN	_	4	dobj	_	O
+6	with	with	IN	_	4	prep	_	O
+7	the	the	DT	_	9	det	_	B-ORG
+8	Electoral	electoral	NNP	pos2=JJ	9	compound	_	I-ORG
+9	College	college	NNP	pos2=NN	6	pobj	_	L-ORG
+10	in	in	IN	_	9	prep	_	O
+11	place	place	NN	_	10	pobj	_	O
+

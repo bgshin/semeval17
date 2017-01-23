@@ -1,0 +1,27 @@
+1	@zdriver85	@zdriver0	NN	pos2=LS	6	nsubj	_	O
+2	No	no	DT	pos2=UH	4	det	_	O
+3	gold	gold	NN	pos2=JJ	4	compound	_	O
+4	standard	standard	NN	pos2=JJ	6	nsubj	_	O
+5	can	can	MD	_	6	aux	_	O
+6	support	support	VB	_	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	needs	need	NNS	_	6	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	a	a	DT	_	13	det	_	O
+11	modern	modern	JJ	_	13	nmod	_	O
+12	monetary	monetary	JJ	_	13	nmod	_	O
+13	economy	economy	NN	_	9	pobj	_	O
+14	.	.	.	_	6	punct	_	O
+
+1	This	this	DT	_	4	det	_	O
+2	"	"	``	_	4	punct	_	O
+3	intrinsic	intrinsic	JJ	_	4	nmod	_	O
+4	value	value	NN	_	9	nsubj	_	O
+5	"	"	''	_	4	punct	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	speak	speak	VBP	_	4	relcl	_	O
+8	of	of	IN	_	7	prep	_	O
+9	is	be	VBZ	_	0	root	_	O
+10	arbitrary	arbitrary	JJ	_	9	acomp	_	O
+11	.	.	.	_	9	punct	_	O
+

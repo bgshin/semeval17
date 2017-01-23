@@ -1,0 +1,22 @@
+1	@MFotster	@mfotster	NN	pos2=ADD	3	compound	_	O
+2	@Harlan	@harlan	NNP	pos2=ADD	3	compound	_	U-GPE
+3	@Veteran4Trump	@veteran0trump	NN	pos2=XX	4	compound	_	O
+4	@newscomauHQ	@newscomauhq	NNP	pos2=XX	7	nsubj	_	O
+5	This	this	DT	pos2=NNP	6	det	_	O
+6	Aussie	aussie	NNP	_	4	appos	_	U-LANGUAGE
+7	had	have	VBD	_	0	root	_	O
+8	no	no	DT	_	9	det	_	O
+9	idea	idea	NN	_	7	dobj	_	O
+10	any	any	DT	_	12	det	_	O
+11	public	public	JJ	_	12	nmod	_	O
+12	money	money	NN	_	14	nsubj	_	O
+13	was	be	VBD	_	14	aux	_	O
+14	finding	find	VBG	_	9	relcl	_	O
+15	its	its	PRP$	_	16	poss	_	O
+16	way	way	NN	_	14	dobj	_	O
+17	to	to	IN	_	16	prep	_	O
+18	the	the	DT	_	20	det	_	O
+19	Clinton	clinton	NNP	_	20	compound	_	U-PERSON
+20	foundation	foundation	NN	_	17	pobj	_	O
+21	.	.	.	_	7	punct	_	O
+

@@ -1,0 +1,24 @@
+1	@EzekielMutua	@ezekielmutua	NN	pos2=NNP	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	"	"	``	_	5	punct	_	O
+4	We	we	PRP	_	5	nsubj	_	O
+5	have	have	VBP	_	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	duty	duty	NN	_	5	dobj	_	O
+8	to	to	TO	pos2=IN	9	aux	_	O
+9	partner	partner	NN	pos2=VB	7	acl	_	O
+10	to	to	TO	_	11	aux	_	O
+11	address	address	VB	_	7	relcl	_	O
+12	content	content	NN	pos2=JJ	13	compound	_	O
+13	issues	issue	NNS	_	11	dobj	_	O
+14	in	in	IN	_	11	prep	_	O
+15	the	the	DT	_	16	det	_	O
+16	interest	interest	NN	_	14	pobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	national	national	JJ	_	20	nmod	_	O
+19	social	social	JJ	_	20	nmod	_	O
+20	stability	stability	NN	_	17	pobj	_	O
+21	,	,	,	_	5	punct	_	O
+22	…	…	NFP	pos2=-LRB-	5	discourse	_	O
+23	https://t.co/A7Vat1ZXqD	#hlink#	ADD	pos2=NN	5	dep	_	O
+

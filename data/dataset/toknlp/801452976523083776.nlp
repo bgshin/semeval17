@@ -1,0 +1,27 @@
+1	From	from	IN	_	17	prep	_	O
+2	anti	anti	AFX	pos2=JJR	4	nmod	_	O
+3	Trump	trump	NNP	pos2=NN	4	compound	_	U-ORG
+4	riots	riot	NNS	_	1	pobj	_	O
+5	to	to	IN	_	1	prep	_	O
+6	writings	writing	NNS	_	5	pobj	_	O
+7	on	on	IN	_	4	prep	_	O
+8	"	"	``	_	11	punct	_	O
+9	Normalizing	normalize	VBG	pos2=NNP	7	pcomp	_	O
+10	Donald	donald	NNP	_	11	compound	_	B-PERSON
+11	Trump	trump	NNP	_	9	dobj	_	L-PERSON
+12	"	"	''	_	9	punct	_	O
+13	,	,	,	_	17	punct	_	O
+14	the	the	DT	_	16	det	_	O
+15	anti-Trump	anti-trump	JJ	_	16	nmod	_	O
+16	movement	movement	NN	_	17	nsubj	_	O
+17	is	be	VBZ	_	0	root	_	O
+18	a	a	DT	_	21	det	_	O
+19	huge	huge	JJ	_	21	nmod	_	O
+20	circle	circle	NN	_	21	compound	_	O
+21	jerk	jerk	NN	_	17	attr	_	O
+22	of	of	IN	_	21	prep	_	O
+23	liberal	liberal	JJ	_	25	nmod	_	O
+24	virtue	virtue	NN	_	25	compound	_	O
+25	signaling	signaling	NN	pos2=VBG	22	pobj	_	O
+26	.	.	.	_	17	punct	_	O
+

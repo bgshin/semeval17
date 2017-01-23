@@ -1,0 +1,31 @@
+1	CAME	come	VBD	pos2=NN	0	root	_	O
+2	T	t	NN	pos2=RB	4	nmod	_	O
+3	/	/	SYM	pos2=HYPH	4	punct	_	O
+4	SOMETHING	something	NN	_	0	root	_	O
+5	INTERESTING	interesting	JJ	_	0	root	_	O
+6	TODAY	today	NN	_	4	npadvmod	_	U-DATE
+7	?	?	.	_	1	punct	_	O
+
+1	ALL	all	DT	_	6	det	_	O
+2	CHARITY	charity	NN	_	6	compound	_	O
+3	F	f	NNP	pos2=NN	6	compound	_	B-ORG
+4	/	/	HYPH	pos2=SYM	6	punct	_	I-ORG
+5	@DTrump	@dtrump	NNP	pos2=RP	6	compound	_	I-ORG
+6	MEDIA	media	NNP	pos2=NNS	8	nsubjpass	_	L-ORG
+7	NEVER	never	RB	_	8	neg	_	O
+8	FOUND	find	VBN	pos2=VB	0	root	_	O
+9	?	?	.	_	8	punct	_	O
+
+1	MAYBE	maybe	RB	_	3	advmod	_	O
+2	QUIETLY	quietly	RB	_	3	advmod	_	O
+3	SHUTTLED	shuttle	VBD	pos2=VBN	0	root	_	O
+4	MELANIA	melania	NNP	pos2=NN	3	dobj	_	B-ORG
+5	&	&	CC	_	4	cc	_	I-ORG
+6	JR	jr	NNP	pos2=NN	4	conj	_	L-ORG
+7	?	?	.	_	3	punct	_	O
+
+1	SHYOF	shyof	NNP	pos2=DT	3	nmod	_	U-ORG
+2	PUBLIC	public	JJ	_	3	nmod	_	O
+3	RECOGNITION	recognition	NN	_	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+

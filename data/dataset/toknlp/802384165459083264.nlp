@@ -1,0 +1,27 @@
+1	@dilemmv	@dilemmv	UH	pos2=XX	8	discourse	_	O
+2	How	how	WRB	_	3	advmod	_	O
+3	brown	brown	JJ	pos2=NNP	8	nsubj	_	O
+4	does	do	VBZ	_	8	aux	_	O
+5	the	the	DT	_	7	det	_	O
+6	Dem	dem	NNP	pos2=NN	7	nmod	_	U-PERSON
+7	electorate	electorate	NN	pos2=NNP	8	nsubj	_	O
+8	have	have	VBP	pos2=VB	0	root	_	O
+9	to	to	TO	_	10	aux	_	O
+10	be	be	VB	_	8	xcomp	_	O
+11	for	for	IN	_	15	mark	_	O
+12	white	white	JJ	pos2=NNP	13	nmod	_	O
+13	Dems	dems	NNPS	pos2=NNP	15	nsubj	_	U-NORP
+14	to	to	TO	_	15	aux	_	O
+15	acknowledge	acknowledge	VB	_	10	advcl	_	O
+16	that	that	IN	_	22	mark	_	O
+17	a	a	DT	_	20	det	_	O
+18	first	#ord#	JJ	pos2=RB	20	nmod	_	U-ORDINAL
+19	non-white	non-white	JJ	_	20	nmod	_	O
+20	VP	vp	NN	pos2=NNP	22	nsubj	_	O
+21	would	would	MD	_	22	aux	_	O
+22	be	be	VB	_	15	ccomp	_	O
+23	helpful	helpful	JJ	_	22	acomp	_	O
+24	for	for	IN	_	23	prep	_	O
+25	votes	vote	NNS	_	24	pobj	_	O
+26	?	?	.	_	8	punct	_	O
+

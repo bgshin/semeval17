@@ -1,0 +1,31 @@
+1	@HillaryClinton	@hillaryclinton	NNP	pos2=ADD	3	vocative	_	U-PERSON
+2	Please	please	UH	_	3	discourse	_	O
+3	call	call	VB	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	a	a	DT	_	6	det	_	O
+6	recount	recount	NN	_	4	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	votes	vote	NNS	_	7	pobj	_	O
+10	in	in	IN	_	6	prep	_	O
+11	the	the	DT	_	13	det	_	O
+12	swing	swing	NN	pos2=JJ	13	compound	_	O
+13	states	state	NNS	pos2=VBZ	10	pobj	_	O
+14	.	.	.	_	3	punct	_	O
+
+1	Even	even	RB	_	6	advmod	_	O
+2	if	if	IN	_	6	mark	_	O
+3	things	thing	NNS	_	6	nsubj	_	O
+4	do	do	VBP	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	change	change	VB	_	9	advcl	_	O
+7	,	,	,	_	9	punct	_	O
+8	you	you	PRP	_	9	nsubj	_	O
+9	gave	give	VBD	_	0	root	_	O
+10	it	it	PRP	_	9	dative	_	O
+11	your	your	PRP$	pos2=RB	12	poss	_	O
+12	all	all	DT	pos2=NN	9	dobj	_	O
+13	.	.	.	_	9	punct	_	O
+
+1	#StillWithHer	#stillwithher	ADD	pos2=NN	0	root	_	O
+

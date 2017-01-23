@@ -1,0 +1,7 @@
+1	#Repost	#repost	NNP	pos2=XX	2	compound	_	O
+2	@billboard	@billboard	NN	pos2=RB	6	dep	_	O
+3	with	with	IN	_	2	prep	_	O
+4	repostapp・・・#nationalfastfoodday	repostapp・・・#nationalfastfoodday	GW	pos2=NNP	3	pobj	_	O
+5	🍟	🍟	NFP	pos2=GW	6	punct	_	O
+6	https://t.co/ZGv5eVi0IP	#hlink#	ADD	pos2=NN	0	root	_	O
+

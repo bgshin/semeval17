@@ -1,0 +1,21 @@
+1	@ali	@ali	UH	pos2=NNS	8	discourse	_	O
+2	@NolteNC	@noltenc	ADD	pos2=NN	8	punct	_	O
+3	@Reince	@reince	NNP	pos2=EX	6	compound	_	O
+4	CA	ca	NN	pos2=MD	6	compound	_	O
+5	voter	voter	NN	_	6	compound	_	O
+6	registration	registration	NN	_	8	nsubj	_	O
+7	actually	actually	RB	_	8	advmod	_	O
+8	encourages	encourage	VBZ	_	0	root	_	O
+9	voter	voter	NN	_	10	compound	_	O
+10	fraud	fraud	NN	_	8	dobj	_	O
+11	.	.	.	_	8	punct	_	O
+
+1	And	and	CC	_	5	cc	_	O
+2	no	no	DT	_	3	det	_	O
+3	one	#crd#	NN	_	5	nsubj	_	O
+4	is	be	VBZ	_	5	aux	_	O
+5	looking	look	VBG	_	0	root	_	O
+6	into	into	IN	_	5	prep	_	O
+7	it	it	PRP	_	6	pobj	_	O
+8	.	.	.	_	5	punct	_	O
+

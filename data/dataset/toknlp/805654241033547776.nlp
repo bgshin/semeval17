@@ -1,0 +1,17 @@
+1	Autographed	autograph	VBN	pos2=NNP	5	nmod	_	O
+2	MUHAMMAD	muhammad	NNP	pos2=NN	5	compound	_	B-PERSON
+3	ALI	ali	NNP	_	5	compound	_	L-PERSON
+4	Signed	signed	NNP	pos2=VBD	5	compound	_	O
+5	Book	book	NNP	_	0	root	_	O
+6	His	his	PRP$	pos2=NNP	7	poss	_	O
+7	Life	life	NNP	pos2=NN	5	appos	_	O
+8	and	and	CC	_	7	cc	_	O
+9	Times	times	NNP	pos2=NNS	7	conj	_	O
+10	..	..	.	_	5	punct	_	O
+
+1	#rt2gain	#rt0gain	NN	pos2=RB	5	nmod	_	O
+2	#teamfollowback	#teamfollowback	UH	pos2=XX	1	discourse	_	O
+3	#followback	#followback	UH	pos2=GW	1	discourse	_	O
+4	#f4f	#f0f	GW	pos2=-LRB-	5	nmod	_	O
+5	https://t.co/4S0JLTgWil	#hlink#	ADD	_	0	root	_	U-ORG
+

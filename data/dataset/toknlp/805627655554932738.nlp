@@ -1,0 +1,24 @@
+1	@PhilipDuncan	@philipduncan	ADD	pos2=XX	4	punct	_	O
+2	@TonyStuart55	@tonystuart0	NN	pos2=VBG	3	compound	_	O
+3	English	english	NNP	_	4	nsubj	_	U-LANGUAGE
+4	was	be	VBD	_	0	root	_	O
+5	anti	anti	AFX	pos2=VBG	6	advmod	_	O
+6	gay	gay	JJ	_	7	nmod	_	O
+7	marriage	marriage	NN	_	4	attr	_	O
+8	3	0	CD	_	9	nmod	_	B-DATE
+9	years	year	NNS	_	14	npadvmod	_	L-DATE
+10	agoThat	agothat	NNP	pos2=WP	11	nsubj	_	U-GPE
+11	's	's	VBZ	pos2=AFX	7	nmod	_	O
+12	not	not	RB	_	11	neg	_	O
+13	that	that	RB	pos2=IN	14	advmod	_	O
+14	long	long	RB	pos2=JJ	11	acomp	_	O
+15	agoI	agoi	PRP	pos2=NNP	17	nsubj	_	O
+16	'd	would	MD	_	17	aux	_	O
+17	want	want	VB	_	11	ccomp	_	O
+18	to	to	TO	_	19	aux	_	O
+19	know	know	VB	_	17	xcomp	_	O
+20	his	his	PRP$	_	21	poss	_	O
+21	attitudes	attitude	NNS	_	23	nsubj	_	O
+22	have	have	VBP	_	23	aux	_	O
+23	changed	change	VBN	_	19	ccomp	_	O
+

@@ -1,0 +1,16 @@
+1	It	it	PRP	_	3	nsubjpass	_	O
+2	's	's	VBZ	_	3	auxpass	_	O
+3	been	be	VBN	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	while	while	NN	_	3	attr	_	O
+6	since	since	IN	_	9	mark	_	O
+7	we	we	PRP	_	9	nsubj	_	O
+8	've	have	VBP	_	9	aux	_	O
+9	had	have	VBN	_	3	advcl	_	O
+10	a	a	DT	_	12	det	_	O
+11	family	family	NN	_	12	compound	_	O
+12	drama	drama	NN	_	9	dobj	_	O
+13	like	like	IN	pos2=UH	12	prep	_	O
+14	#thisisus	#thisisus	XX	pos2=FW	13	pobj	_	O
+15	❤️	❤️	.	pos2=NN	3	punct	_	O
+

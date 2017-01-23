@@ -1,0 +1,14 @@
+1	Ben	ben	NNP	_	2	compound	_	B-PERSON
+2	Carson	carson	NNP	_	6	poss	_	I-PERSON
+3	's	's	POS	_	2	case	_	L-PERSON
+4	"	"	``	pos2=''	6	punct	_	O
+5	mannequin	mannequin	NN	pos2=NNP	6	compound	_	O
+6	challenge	challenge	NN	_	8	nsubj	_	O
+7	"	"	''	_	6	punct	_	O
+8	enters	enter	VBZ	_	0	root	_	O
+9	10th	#ord#	JJ	pos2=NN	10	nmod	_	B-DATE
+10	month	month	NN	_	8	npadvmod	_	L-DATE
+11	...	..	.	_	8	punct	_	O
+
+1	https://t.co/ZrknPytlzi	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,24 @@
+1	Everyone	everyone	NN	_	4	compound	_	O
+2	Google	google	NNP	_	4	compound	_	B-ORG
+3	STEVE	steve	NNP	_	4	compound	_	I-ORG
+4	BANNON	bannon	NNP	_	14	nsubj	_	L-ORG
+5	and	and	CC	_	4	cc	_	O
+6	shock	shock	NN	pos2=VB	4	conj	_	O
+7	,	,	,	_	9	punct	_	O
+8	it	it	PRP	_	9	nsubj	_	O
+9	means	mean	VBZ	_	14	ccomp	_	O
+10	so	so	RB	_	11	advmod	_	O
+11	much	much	RB	pos2=JJ	9	advmod	_	O
+12	,	,	,	_	14	punct	_	O
+13	I	I	PRP	_	14	nsubj	_	O
+14	understood	understand	VBD	_	0	root	_	O
+15	I	I	PRP	_	16	nsubj	_	O
+16	wish	wish	VBP	pos2=VB	14	ccomp	_	O
+17	it	it	PRP	_	18	nsubj	_	O
+18	was	be	VBD	_	16	ccomp	_	O
+19	illegal	illegal	JJ	_	18	acomp	_	O
+20	to	to	IN	_	19	prep	_	O
+21	my	my	PRP$	_	22	poss	_	O
+22	heart	heart	NN	_	20	pobj	_	O
+23	w	w	RB	pos2=XX	18	advmod	_	O
+

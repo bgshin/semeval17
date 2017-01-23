@@ -1,0 +1,30 @@
+1	Thinking	think	VBG	_	0	root	_	O
+2	about	about	IN	_	1	prep	_	O
+3	doing	do	VBG	_	2	pcomp	_	O
+4	a	a	DT	_	6	det	_	O
+5	live	live	JJ	pos2=NN	6	nmod	_	O
+6	feed	feed	NN	_	3	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Google	google	NNP	_	10	compound	_	B-ORG
+9	Earth	earth	NNP	_	10	compound	_	I-ORG
+10	VR	vr	NNP	pos2=NN	7	pobj	_	L-ORG
+11	this	this	DT	_	12	det	_	B-DATE
+12	weekend	weekend	NN	_	3	npadvmod	_	L-DATE
+13	.	.	.	_	1	punct	_	O
+
+1	Talk	talk	VB	pos2=NN	0	root	_	O
+2	about	about	IN	_	1	prep	_	O
+3	my	my	PRP$	_	4	poss	_	O
+4	travels	travel	NNS	pos2=VBZ	2	pobj	_	O
+5	a	a	DT	_	6	det	_	O
+6	bit	bit	NN	_	1	npadvmod	_	O
+7	and	and	CC	_	6	cc	_	O
+8	awesome	awesome	JJ	_	9	nmod	_	O
+9	places	place	NNS	_	6	conj	_	O
+10	to	to	TO	_	11	aux	_	O
+11	go	go	VB	_	9	relcl	_	O
+12	.	.	.	_	1	punct	_	O
+
+1	Thoughts	thought	NNS	_	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+

@@ -1,0 +1,16 @@
+1	Why	why	WRB	_	4	advmod	_	O
+2	did	do	VBD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	zac	zac	VB	pos2=JJ	0	root	_	O
+5	efron	efron	NNP	pos2=GW	7	nsubj	_	O
+6	ever	ever	RB	_	7	advmod	_	O
+7	release	release	VB	pos2=VBP	4	ccomp	_	O
+8	a	a	DT	_	10	det	_	O
+9	solo	solo	JJ	pos2=NN	10	nmod	_	O
+10	album	album	NN	_	7	dobj	_	O
+11	after	after	IN	_	7	prep	_	O
+12	HSM	hsm	NN	pos2=NNP	11	pobj	_	U-ORG
+13	and	and	CC	_	12	cc	_	O
+14	hairpsray	hairpsray	NN	pos2=UH	12	conj	_	O
+15	???	??	.	_	4	punct	_	O
+

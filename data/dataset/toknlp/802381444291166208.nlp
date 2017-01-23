@@ -1,0 +1,21 @@
+1	@EricTrump	@erictrump	ADD	pos2=XX	5	cc	_	O
+2	@GolfMonthly	@golfmonthly	JJ	pos2=RB	4	nmod	_	B-ORG
+3	ERIC	eric	NNP	pos2=JJ	4	compound	_	I-ORG
+4	IM	im	NNP	pos2=NN	5	vocative	_	L-ORG
+5	SURE	sure	VB	pos2=RB	0	root	_	O
+6	YOUR	your	PRP$	_	7	poss	_	O
+7	DADS	dad	NNS	_	5	dobj	_	O
+8	ON	on	IN	_	5	prep	_	O
+9	THIS	this	DT	_	11	det	_	O
+10	RECOUNT	recount	NN	_	11	compound	_	O
+11	SCAM	scam	NN	pos2=NNP	8	pobj	_	O
+12	RITE	rite	NNP	pos2=NN	11	appos	_	U-ORG
+13	?	?	.	_	5	punct	_	O
+
+1	GEORGE	george	NNP	pos2=NN	2	compound	_	B-PERSON
+2	SOROS	soros	NNP	_	5	nsubj	_	L-PERSON
+3	AND	and	CC	_	2	cc	_	O
+4	ALEX	alex	NNP	_	2	conj	_	B-ORG
+5	WOW	wow	UH	pos2=NNP	0	root	_	L-ORG
+6	!	!	.	_	5	punct	_	O
+

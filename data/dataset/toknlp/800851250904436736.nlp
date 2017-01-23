@@ -1,0 +1,25 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	U-ORG
+2	@Acosta	@acosta	NN	pos2=NNS	6	dep	_	O
+3	:	:	:	_	6	punct	_	O
+4	Trump	trump	NNP	pos2=NN	6	compound	_	U-PERSON
+5	transition	transition	NN	pos2=GW	6	compound	_	O
+6	statement	statement	NN	_	0	root	_	O
+7	on	on	IN	_	6	prep	_	O
+8	alt	alt	JJ	pos2=NN	10	nmod	_	O
+9	right	right	JJ	pos2=NN	10	nmod	_	O
+10	conference	conference	NN	_	7	pobj	_	O
+11	where	where	WRB	_	18	advmod	_	O
+12	neo	neo	JJ	pos2=NN	13	nmod	_	O
+13	nazis	nazi	NNS	pos2=NN	18	nsubj	_	O
+14	and	and	CC	_	13	cc	_	O
+15	white	white	JJ	_	16	nmod	_	O
+16	nationalists	nationalist	NNS	pos2=NNPS	13	conj	_	O
+17	were	be	VBD	_	18	aux	_	O
+18	praising	praise	VBG	_	10	relcl	_	O
+19	Trump	trump	NNP	_	22	poss	_	U-ORG
+20	's	's	POS	_	19	case	_	O
+21	election	election	NN	_	22	compound	_	O
+22	https	http	NNS	pos2=NN	18	dobj	_	O
+23	:	:	:	_	6	punct	_	O
+24	…	…	NFP	pos2=NN	6	discourse	_	O
+

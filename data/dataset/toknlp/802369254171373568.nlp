@@ -1,0 +1,20 @@
+1	#SimplyRik	#simplyrik	NNP	pos2=XX	3	compound	_	O
+2	Melania	melania	NNP	_	3	compound	_	B-PERSON
+3	Trump	trump	NNP	pos2=NN	5	nsubjpass	_	L-PERSON
+4	Is	be	VBZ	pos2=NNP	5	auxpass	_	O
+5	Set	set	VBN	_	0	root	_	O
+6	To	to	TO	_	7	aux	_	O
+7	Be	be	VB	_	5	xcomp	_	O
+8	A	a	DT	_	13	det	_	O
+9	Long	long	JJ	pos2=NNP	11	nmod	_	O
+10	-	-	HYPH	_	11	punct	_	O
+11	Distance	distance	NN	pos2=NNP	16	compound	_	O
+12	First	#ord#	NNP	_	13	compound	_	U-ORDINAL
+13	Lady	lady	NNP	pos2=GW	15	vocative	_	O
+14	https://t.co/VOTuNGkIYc	#hlink#	ADD	pos2=NNP	15	nsubj	_	O
+15	Follow	follow	VB	_	5	conj	_	O
+16	me	me	PRP	_	15	dobj	_	O
+17	on	on	IN	pos2=RP	15	prep	_	O
+18	@Rikins	@rikins	NNS	pos2=NNP	17	pobj	_	O
+19	https://t.co/pDEPXRNhee	#hlink#	ADD	_	18	nmod	_	U-ORG
+

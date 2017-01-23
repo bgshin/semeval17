@@ -1,0 +1,24 @@
+1	Ted	ted	NNP	_	2	compound	_	B-PERSON
+2	Cruz	cruz	NNP	_	6	vocative	_	L-PERSON
+3	:	:	:	_	6	punct	_	O
+4	Gov.	gov.	NNP	pos2=JJ	5	compound	_	O
+5	actuaries	actuary	NNS	_	6	nsubj	_	O
+6	say	say	VBP	pos2=VB	0	root	_	O
+7	#ObamaCare	#obamacare	NNP	pos2=EX	9	nsubj	_	U-ORG
+8	will	will	MD	_	9	aux	_	O
+9	increase	increase	VB	_	6	ccomp	_	O
+10	health	health	NN	_	11	compound	_	O
+11	care	care	NN	_	12	compound	_	O
+12	spending	spending	NN	pos2=VBG	9	dobj	_	O
+13	by	by	IN	_	9	prep	_	O
+14	$	$	$	pos2=-LRB-	19	nmod	_	O
+15	621B	0b	NN	pos2=CD	13	pobj	_	U-MONEY
+16	over	over	IN	pos2=AFX	9	prep	_	O
+17	next	next	JJ	_	19	nmod	_	B-DATE
+18	10	0	CD	_	19	nmod	_	I-DATE
+19	yrs	yr	NNS	_	16	pobj	_	L-DATE
+20	https://t.co/jJEivvvipj	#hlink#	ADD	_	21	nmod	_	O
+21	%	%	NN	pos2=-RRB-	23	compound	_	O
+22	u2026	u0	NN	pos2=NNS	23	compound	_	O
+23	#pjnet	#pjnet	NN	pos2=UH	9	dobj	_	O
+

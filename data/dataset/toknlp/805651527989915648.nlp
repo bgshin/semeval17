@@ -1,0 +1,17 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	normally	normally	RB	_	3	advmod	_	O
+3	agree	agree	VBP	_	9	ccomp	_	O
+4	with	with	IN	_	3	prep	_	O
+5	gun	gun	NN	_	6	compound	_	O
+6	control	control	NN	_	4	pobj	_	O
+7	,	,	,	_	9	punct	_	O
+8	I	I	PRP	_	9	nsubj	_	O
+9	use	use	VBP	_	0	root	_	O
+10	two	#crd#	CD	_	11	nmod	_	B-DATE
+11	hands.@flamethrower82	hands.@flamethrower0	NNS	pos2=NN	12	compound	_	L-DATE
+12	@DeplorableJames	@deplorablejames	NNS	pos2=ADD	9	dobj	_	O
+13	@	@	SYM	pos2=CC	16	punct	_	O
+14	3rdReiched	0rdreiched	VBN	pos2=NN	16	nmod	_	O
+15	@ccd9764e57fc4ee	@ccd0e0fc0ee	CD	pos2=NN	14	npadvmod	_	O
+16	@Cernovich	@cernovich	NNP	pos2=NN	9	prep	_	O
+

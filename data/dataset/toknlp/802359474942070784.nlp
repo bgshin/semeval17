@@ -1,0 +1,14 @@
+1	Centuries	century	NNS	pos2=NNP	3	npadvmod	_	O
+2	-	-	HYPH	pos2=:	3	punct	_	O
+3	Old	old	NNP	pos2=JJ	4	compound	_	O
+4	#Shipwreck	#shipwreck	NNP	pos2=NN	5	nsubj	_	O
+5	Recreated	recreate	VBD	pos2=VBN	0	root	_	O
+6	with	with	IN	_	5	prep	_	O
+7	#	#	NN	pos2=$	8	compound	_	O
+8	3DPrinting	0dprinting	NN	pos2=VBG	6	pobj	_	U-MONEY
+9	—	-	:	pos2=HYPH	10	punct	_	O
+10	https://t.co/vS4C4XJjtf	#hlink#	ADD	_	8	appos	_	O
+11	via	via	IN	pos2=GW	10	prep	_	O
+12	@LiveScience	@livescience	NN	pos2=ADD	11	pobj	_	O
+13	https://t.co/nwtNSLqJuX	#hlink#	ADD	pos2=NN	11	pobj	_	U-ORG
+

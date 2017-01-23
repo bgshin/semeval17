@@ -1,0 +1,12 @@
+1	Just	just	RB	_	2	advmod	_	O
+2	saq	saq	VBG	pos2=JJS	3	nmod	_	O
+3	#FantasticBeasts	#fantasticbeasts	NNS	pos2=XX	0	root	_	O
+4	with	with	IN	_	3	prep	_	O
+5	@Marja02253726	@marja0	NN	pos2=NNP	4	pobj	_	B-ORG
+6	&	&	CC	_	5	cc	_	I-ORG
+7	@noneca1	@noneca0	NN	pos2=IN	5	conj	_	L-ORG
+8	IT	it	PRP	pos2=NN	9	nsubj	_	O
+9	WAS	be	VBD	_	0	root	_	O
+10	AMAZING	amazing	JJ	_	9	acomp	_	O
+11	!!!!!!!!!!	!!	.	_	9	punct	_	O
+

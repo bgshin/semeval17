@@ -1,0 +1,25 @@
+1	With	with	IN	_	9	prep	_	O
+2	that	that	DT	_	4	det	_	O
+3	touchdown	touchdown	NN	pos2=JJ	4	compound	_	O
+4	catch	catch	NN	pos2=VB	1	pobj	_	O
+5	,	,	,	_	9	punct	_	O
+6	TE	te	NNP	pos2=NN	8	compound	_	O
+7	Michael	michael	NNP	_	8	compound	_	B-PERSON
+8	Roberts	roberts	NNP	_	9	nsubj	_	L-PERSON
+9	is	be	VBZ	_	0	root	_	O
+10	now	now	RB	_	9	advmod	_	O
+11	the	the	DT	_	14	det	_	O
+12	school	school	NN	_	13	compound	_	O
+13	record	record	NN	_	14	compound	_	O
+14	holder	holder	NN	_	9	attr	_	O
+15	for	for	IN	_	14	prep	_	O
+16	touchdown	touchdown	NN	_	15	pobj	_	O
+17	catches	catch	VBZ	pos2=NNS	9	conj	_	O
+18	in	in	IN	_	17	prep	_	O
+19	a	a	DT	_	20	det	_	O
+20	season	season	NN	_	18	pobj	_	O
+21	passing	pass	VBG	_	17	advcl	_	O
+22	Lance	lance	NNP	_	23	compound	_	B-PERSON
+23	Moore	moore	NNP	_	21	dobj	_	L-PERSON
+24	.	.	.	_	9	punct	_	O
+

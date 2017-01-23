@@ -1,0 +1,20 @@
+1	How	how	WRB	_	6	advmod	_	O
+2	Fidel	fidel	NNP	_	3	compound	_	B-PERSON
+3	Castro	castro	NNP	_	5	poss	_	I-PERSON
+4	's	's	POS	_	3	case	_	L-PERSON
+5	jeep	jeep	NN	_	6	nsubj	_	O
+6	broke	break	VBD	_	0	root	_	O
+7	down	down	RP	pos2=RB	6	prt	_	O
+8	mid	mid	JJ	pos2=RB	9	nmod	_	O
+9	ceremony	ceremony	NN	_	6	dobj	_	O
+10	as	as	IN	_	12	mark	_	O
+11	it	it	PRP	_	12	nsubj	_	O
+12	carried	carry	VBD	_	6	advcl	_	O
+13	his	his	PRP$	_	14	poss	_	O
+14	ashes	ash	NNS	_	12	dobj	_	O
+15	to	to	IN	_	12	prep	_	O
+16	final	final	JJ	pos2=VB	17	nmod	_	O
+17	resting	resting	NN	pos2=VBG	15	pobj	_	O
+18	…	…	NFP	pos2=-LRB-	19	punct	_	O
+19	https://t.co/9oxgScqdaR	#hlink#	ADD	_	17	appos	_	U-ORG
+

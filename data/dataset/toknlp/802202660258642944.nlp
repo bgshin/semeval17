@@ -1,0 +1,14 @@
+1	YTP	ytp	NN	pos2=NNP	3	compound	_	O
+2	-	-	HYPH	pos2=:	3	punct	_	O
+3	Bee	bee	NN	pos2=NNP	4	compound	_	O
+4	Movie	movie	NN	_	0	root	_	O
+5	:	:	:	_	7	punct	_	O
+6	Barry	barry	NNP	_	7	compound	_	B-PERSON
+7	Beetrays	beetrays	NNP	pos2=VBZ	4	appos	_	L-PERSON
+8	the	the	DT	_	10	det	_	O
+9	Nazi	nazi	NNP	_	10	compound	_	U-NORP
+10	Party	party	NNP	_	7	appos	_	O
+11	https://t.co/Denz1Cug2w	#hlink#	ADD	_	6	appos	_	O
+12	via	via	IN	_	7	prep	_	O
+13	@YouTube	@youtube	NNP	pos2=NN	12	pobj	_	O
+

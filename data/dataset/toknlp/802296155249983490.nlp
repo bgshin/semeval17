@@ -1,0 +1,8 @@
+1	CRAVING	crave	VBG	pos2=NN	0	root	_	O
+2	TACOS	taco	NNS	pos2=NN	1	dobj	_	O
+3	AND	and	CC	_	2	cc	_	O
+4	SOME	some	DT	_	6	det	_	O
+5	ICE	ice	NN	_	6	compound	_	O
+6	CREAM	cream	NN	_	2	conj	_	O
+7	!	!	.	_	1	punct	_	O
+

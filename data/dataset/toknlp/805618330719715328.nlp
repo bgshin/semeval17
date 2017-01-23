@@ -1,0 +1,11 @@
+1	Download	download	NN	pos2=VB	2	compound	_	O
+2	Homeopathy	homeopathy	NN	pos2=NNP	7	nsubj	_	O
+3	:	:	:	_	7	punct	_	O
+4	Beyond	beyond	IN	pos2=NNP	5	prep	_	O
+5	#FlatEarth	#flatearth	NNP	pos2=DT	0	root	_	B-ORG
+6	Medicine	medicine	NNP	_	10	dep	_	I-ORG
+7	E-Book	e-book	NNP	_	10	nmod	_	L-ORG
+8	Free	free	JJ	pos2=NNP	10	nmod	_	O
+9	-	-	HYPH	pos2=:	10	punct	_	O
+10	https://t.co/Shz3Q1BJqQ	#hlink#	ADD	pos2=NN	4	pobj	_	O
+

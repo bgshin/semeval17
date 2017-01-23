@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det	_	O
+2	beasts	beast	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	fantastic	fantastic	JJ	_	3	acomp	_	O
+5	and	and	CC	_	3	cc	_	O
+6	so	so	RB	_	7	advmod	_	O
+7	is	be	VBZ	_	3	conj	_	O
+8	the	the	DT	_	9	det	_	O
+9	movie	movie	NN	_	7	nsubj	_	O
+10	!	!	.	_	7	punct	_	O
+
+1	My	my	PRP$	_	2	poss	_	O
+2	review	review	NN	_	6	dep	_	O
+3	of	of	IN	_	2	prep	_	O
+4	#FantasticBeasts	#fantasticbeasts	NNS	_	3	pobj	_	O
+5	:	:	:	_	6	punct	_	O
+6	https://t.co/mmw3YaX9iw	#hlink#	ADD	pos2=NN	0	root	_	O
+

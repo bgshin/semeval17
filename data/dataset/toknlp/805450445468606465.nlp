@@ -1,0 +1,25 @@
+1	@xhnews	@xhnews	UH	pos2=NNS	8	discourse	_	O
+2	after	after	IN	pos2=RB	8	prep	_	O
+3	all	all	PDT	pos2=RB	5	predet	_	O
+4	that	that	DT	pos2=WDT	5	det	_	O
+5	embargo	embargo	NN	pos2=NNP	2	pobj	_	O
+6	Cuba	cuba	NNP	_	8	nsubj	_	U-GPE
+7	still	still	RB	_	8	advmod	_	O
+8	remains	remain	VBZ	_	0	root	_	O
+9	a	a	DT	_	10	det	_	O
+10	nation	nation	NN	_	8	attr	_	O
+11	?	?	.	_	8	punct	_	O
+
+1	WoW	wow	UH	pos2=SYM	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Cuba	cuba	NNP	_	3	nsubj	_	U-GPE
+2	has	have	VBZ	_	3	aux	_	O
+3	survived	survive	VBN	pos2=JJ	0	root	_	O
+4	and	and	CC	_	3	cc	_	O
+5	so	so	RB	_	8	advmod	_	O
+6	will	will	MD	pos2=IN	2	conj	_	O
+7	North	north	NNP	pos2=VB	8	compound	_	B-GPE
+8	Korea	korea	NNP	_	6	nsubj	_	L-GPE
+9	.	.	.	_	3	punct	_	O
+

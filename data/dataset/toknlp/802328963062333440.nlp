@@ -1,0 +1,33 @@
+1	names	name	NNS	_	0	root	_	O
+2	in	in	IN	_	1	prep	_	O
+3	each	each	DT	_	4	det	_	O
+4	state	state	NN	_	2	pobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	Many	many	JJ	_	2	nmod	_	O
+2	people	people	NNS	_	9	nsubj	_	O
+3	who	who	WP	_	6	nsubj	_	O
+4	did	do	VBD	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	like	like	VB	pos2=IN	2	relcl	_	O
+7	ACA	aca	NNP	_	6	dobj	_	U-ORG
+8	,	,	,	_	9	punct	_	O
+9	liked	like	VBD	pos2=VBN	0	root	_	O
+10	Medicaid	medicaid	NNP	_	9	dobj	_	U-ORG
+11	which	which	WDT	_	12	nsubj	_	O
+12	had	have	VBD	_	10	relcl	_	O
+13	a	a	DT	_	15	det	_	O
+14	different	different	JJ	_	15	nmod	_	O
+15	name	name	NN	_	12	dobj	_	O
+16	in	in	IN	_	12	prep	_	O
+17	their	their	PRP$	_	18	poss	_	O
+18	state	state	NN	_	16	pobj	_	O
+19	.	.	.	_	9	punct	_	O
+
+1	Tell	tell	VB	pos2=NNP	0	root	_	O
+2	Trump	trump	NNP	pos2=NN	1	dobj	_	U-PERSON
+3	,	,	,	_	1	punct	_	O
+4	thanks	thanks	NNS	pos2=NN	1	dep	_	O
+5	when	when	WRB	_	6	advmod	_	O
+6	gone	go	VBN	_	1	advcl	_	O
+

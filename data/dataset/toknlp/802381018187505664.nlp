@@ -1,0 +1,11 @@
+1	Scientists	scientist	NNS	_	3	nsubj	_	O
+2	Are	be	VBP	_	3	aux	_	O
+3	Beginning	begin	VBG	_	0	root	_	O
+4	to	to	TO	pos2=IN	5	aux	_	O
+5	Figure	figure	VB	_	3	xcomp	_	O
+6	Out	out	RP	pos2=IN	5	prt	_	O
+7	Why	why	WRB	_	9	advmod	_	O
+8	Conservatives	conservative	NNS	pos2=NNPS	9	nsubj	_	U-NORP
+9	Are…Conservative	are…conservative	VBP	pos2=-LRB-	5	ccomp	_	O
+10	https://t.co/EbZo8wZ82D	#hlink#	ADD	_	9	dobj	_	O
+

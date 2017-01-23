@@ -1,0 +1,10 @@
+1	Soooo	soooo	RB	_	5	advmod	_	O
+2	when	when	WRB	_	5	advmod	_	O
+3	will	will	MD	pos2=VB	5	aux	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	be	be	VB	_	0	root	_	O
+6	Maduro	maduro	NNP	_	8	poss	_	U-ORG
+7	's	's	POS	_	6	case	_	O
+8	turn	turn	NN	pos2=VB	5	attr	_	O
+9	?	?	.	_	5	punct	_	O
+

@@ -1,0 +1,23 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@Idubbbz	@idubbbz	NNP	pos2=XX	2	compound	_	O
+2	@elizabethforma	@elizabethforma	NN	pos2=GW	4	dep	_	O
+3	-	-	:	pos2=HYPH	4	punct	_	O
+4	https://t.co/Q3smZD6tmS:	#hlink#	ADD	pos2=NN	0	root	_	O
+5	30	0	CD	_	6	nmod	_	B-DATE
+6	year	year	NN	_	8	npadvmod	_	I-DATE
+7	-	-	HYPH	_	8	punct	_	I-DATE
+8	old	old	JJ	_	9	nmod	_	L-DATE
+9	man	man	NN	_	2	appos	_	O
+10	who	who	WP	_	11	nsubj	_	O
+11	wants	want	VBZ	_	9	relcl	_	O
+12	to	to	TO	_	13	aux	_	O
+13	lead	lead	VB	_	11	xcomp	_	O
+14	the	the	DT	_	16	det	_	O
+15	greatest	great	JJS	_	16	nmod	_	O
+16	democracy	democracy	NN	_	13	dobj	_	O
+17	on	on	IN	_	16	prep	_	O
+18	the	the	DT	_	19	det	_	O
+19	planet	planet	NN	_	17	pobj	_	O
+20	.	.	.	_	2	punct	_	O
+

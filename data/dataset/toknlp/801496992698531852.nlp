@@ -1,0 +1,18 @@
+1	As	as	IN	_	4	mark	_	O
+2	Indy	indy	NNP	_	4	nsubj	_	U-ORG
+3	once	once	RB	_	4	advmod	_	O
+4	said	say	VBD	_	0	root	_	O
+5	,	,	,	_	4	punct	_	O
+6	"	"	``	_	4	punct	_	O
+7	Alt	alt	NNP	pos2=JJ	9	compound	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	rightists	rightist	NNS	pos2=NNPS	4	nsubj	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	hate	hate	VBP	_	0	root	_	O
+3	these	these	DT	_	4	det	_	O
+4	guys	guy	NNS	_	2	dobj	_	O
+5	.	.	.	pos2=,	2	punct	_	O
+6	"	"	''	_	2	punct	_	O
+

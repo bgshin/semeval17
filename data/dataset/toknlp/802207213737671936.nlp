@@ -1,0 +1,13 @@
+1	WATCH	watch	VB	pos2=NN	0	root	_	O
+2	@VicMensa	@vicmensa	VBG	pos2=IN	12	nmod	_	O
+3	'16	'0	CD	_	4	nmod	_	U-DATE
+4	Shots	shot	NNS	pos2=NNPS	2	dobj	_	O
+5	'	'	''	pos2=POS	2	punct	_	O
+6	by	by	IN	_	2	prep	_	O
+7	@ace_norton	@ace_norton	NNP	pos2=CD	6	pobj	_	O
+8	#musicvideo	#musicvideo	UH	pos2=FW	12	nmod	_	O
+9	#catchup	#catchup	UH	pos2=IN	12	nmod	_	O
+10	#BlackLivesMatter	#blacklivesmatter	GW	pos2=ADD	12	nmod	_	U-PERSON
+11	#indestructableVic	#indestructablevic	GW	pos2=ADD	12	nmod	_	O
+12	https://t.co/ayv59ZIc4h	#hlink#	ADD	pos2=NN	1	dobj	_	O
+

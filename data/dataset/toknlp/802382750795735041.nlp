@@ -1,0 +1,8 @@
+1	Stay	stay	VB	pos2=VBP	0	root	_	O
+2	classy	classy	JJ	_	1	acomp	_	O
+3	,	,	,	_	1	punct	_	O
+4	Deplorables	deplorables	NNP	pos2=NNPS	1	vocative	_	U-GPE
+5	!	!	.	_	1	punct	_	O
+
+1	https://t.co/oXRy8OjthN	#hlink#	ADD	_	0	root	_	U-ORG
+

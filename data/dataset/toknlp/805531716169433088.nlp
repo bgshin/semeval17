@@ -1,0 +1,23 @@
+1	@VORTEX1155	@vortex0	NN	pos2=UH	2	advmod	_	O
+2	exactly	exactly	RB	_	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	Why	why	WRB	_	5	advmod	_	O
+2	are	be	VBP	_	5	aux	_	O
+3	n't	not	RB	_	5	neg	_	O
+4	we	we	PRP	_	5	nsubj	_	O
+5	verifying	verify	VBG	_	0	root	_	O
+6	the	the	DT	_	9	det	_	O
+7	voter	voter	NN	_	8	compound	_	O
+8	registration	registration	NN	_	9	compound	_	O
+9	system	system	NN	_	5	dobj	_	O
+10	?	?	.	_	5	punct	_	O
+
+1	IDs	id	NNS	_	5	nsubj	_	O
+2	for	for	IN	_	1	prep	_	O
+3	noncitizens	noncitizen	NNS	_	2	pobj	_	O
+4	should	should	MD	_	5	aux	_	O
+5	differ	differ	VB	_	0	root	_	O
+6	@aliwojo19	@aliwojo0	CD	pos2=IN	7	dep	_	O
+7	@FemalesForTrump	@femalesfortrump	ADD	pos2=NNS	5	advmod	_	O
+

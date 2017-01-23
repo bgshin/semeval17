@@ -1,0 +1,20 @@
+1	@PeterStefanovi2	@peterstefanovi0	NN	pos2=LS	3	cc	_	O
+2	@DailyMirror	@dailymirror	XX	pos2=GW	3	cc	_	O
+3	so	so	RB	_	4	advmod	_	O
+4	much	much	RB	pos2=JJ	5	advmod	_	O
+5	for	for	IN	_	10	mark	_	O
+6	@Conservatives	@conservatives	NNP	pos2=NNS	7	compound	_	U-DATE
+7	austerity	austerity	NN	_	5	pobj	_	O
+8	for	for	IN	_	7	prep	_	O
+9	worse	bad	JJR	_	13	nmod	_	O
+10	off	off	RP	pos2=NN	9	prt	_	O
+11	,	,	,	_	13	punct	_	O
+12	transforming	transform	VBG	_	0	root	_	O
+13	deficit	deficit	NN	_	12	dobj	_	O
+14	into	into	IN	_	12	prep	_	O
+15	surplus	surplus	NN	_	14	pobj	_	O
+16	,	,	,	_	12	punct	_	O
+17	lowering	lower	VBG	_	12	conj	_	O
+18	uk	uk	NN	pos2=JJ	19	compound	_	O
+19	overdraft	overdraft	NN	_	17	dobj	_	O
+

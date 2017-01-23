@@ -1,0 +1,13 @@
+1	#SouthCarolina	#southcarolina	ADD	pos2=NN	4	nmod	_	O
+2	#SC	#sc	ADD	pos2=XX	0	root	_	O
+3	#MedicalMarijuana	#medicalmarijuana	NN	pos2=IN	4	compound	_	O
+4	Backers	backer	NNS	pos2=NNPS	5	nsubj	_	O
+5	Making	make	VBG	_	2	pcomp	_	O
+6	Big	big	NNP	pos2=JJ	7	compound	_	O
+7	Moves	move	NNS	pos2=NNP	5	dobj	_	O
+8	https://t.co/UTKkZLArEQ	#hlink#	ADD	pos2=RB	11	nsubj	_	U-ORG
+9	via	via	IN	_	5	prep	_	O
+10	@fitsnews	@fitsnews	NNPS	pos2=XX	9	pobj	_	O
+11	#marijuana	#marijuana	UH	pos2=FW	5	discourse	_	O
+12	#cannabis	#cannabis	UH	pos2=.	5	discourse	_	O
+

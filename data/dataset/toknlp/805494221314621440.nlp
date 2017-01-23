@@ -1,0 +1,26 @@
+1	How	how	WRB	_	2	advmod	_	O
+2	stupid	stupid	JJ	_	6	acomp	_	O
+3	can	can	MD	_	6	aux	_	O
+4	you	you	PRP	_	6	nsubj	_	O
+5	possibly	possibly	RB	_	6	advmod	_	O
+6	be	be	VB	_	0	root	_	O
+7	?	?	.	_	6	punct	_	O
+
+1	If	if	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	buy	buy	VBP	_	9	advcl	_	O
+4	from	from	IN	_	3	prep	_	O
+5	too	too	RB	_	6	advmod	_	O
+6	faced	face	VBN	pos2=JJ	4	pobj	_	O
+7	you	you	PRP	_	9	nsubj	_	O
+8	're	be	VBP	_	9	aux	_	O
+9	supporting	support	VBG	_	0	root	_	O
+10	Estée	estée	NNP	_	11	compound	_	O
+11	Lauder	lauder	NNP	_	9	dobj	_	O
+12	&	&	CC	_	9	cc	_	O
+13	supporting	support	VBG	_	9	conj	_	O
+14	animal	animal	NN	_	15	compound	_	O
+15	testin	testin	NN	pos2=GW	13	dobj	_	O
+16	…	…	NFP	pos2=-LRB-	17	punct	_	O
+17	https://t.co/7jogvhd5RZ	#hlink#	ADD	_	14	dep	_	O
+

@@ -1,0 +1,23 @@
+1	No	no	DT	_	2	det	_	O
+2	Candy	candy	NN	pos2=NNP	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Valentines	valentines	NNP	_	5	compound	_	B-DATE
+5	Day	day	NNP	_	3	pobj	_	L-DATE
+6	?	?	.	_	2	punct	_	O
+
+1	No	no	DT	_	2	det	_	O
+2	problem	problem	NN	_	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	-	-	SYM	pos2=,	11	punct	_	O
+2	A	a	DT	pos2=NN	6	det	_	O
+3	food	food	NN	_	5	npadvmod	_	O
+4	-	-	HYPH	_	5	punct	_	O
+5	free	free	JJ	_	6	nmod	_	O
+6	holiday	holiday	NN	_	11	dep	_	O
+7	-	-	:	pos2=HYPH	11	punct	_	O
+8	#eczema	#eczema	GW	pos2=NN	9	nmod	_	O
+9	https://t.co/g9DVBczXYf	#hlink#	ADD	pos2=NN	11	nmod	_	O
+10	#Eczema	#eczema	NNP	pos2=-RRB-	11	compound	_	U-ORG
+11	#Allergies	#allergies	NNS	pos2=.	0	root	_	O
+

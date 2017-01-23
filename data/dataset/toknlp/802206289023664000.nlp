@@ -1,0 +1,10 @@
+1	@hizam_elqahtani	@hizam_elqahtani	UH	pos2=VB	4	discourse	_	O
+2	@AnnCoulter	@anncoulter	WP	pos2=NNP	4	dobj	_	O
+3	He	he	PRP	_	4	nsubj	_	O
+4	has	have	VBZ	_	8	advcl	_	O
+5	Ben	ben	NNP	_	6	compound	_	B-PERSON
+6	Carson	carson	NNP	_	4	dobj	_	L-PERSON
+7	,	,	,	_	8	punct	_	O
+8	retard	retard	VB	_	0	root	_	O
+9	.	.	.	_	8	punct	_	O
+

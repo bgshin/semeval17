@@ -1,0 +1,19 @@
+1	BLACK	black	JJ	pos2=NNP	3	nmod	_	O
+2	FRIDAY	friday	NNP	pos2=NN	3	compound	_	U-DATE
+3	SPECIAL	special	NNP	pos2=NN	0	root	_	O
+4	!!!!!!!!!!!!!!!!!!!!!!!!	!!	.	_	3	punct	_	O
+
+1	Looking	look	VBG	_	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	a	a	DT	_	4	det	_	O
+4	getaway	getaway	NN	_	2	pobj	_	O
+5	with	with	IN	_	4	prep	_	O
+6	someone	someone	NN	_	5	pobj	_	O
+7	special	special	JJ	_	6	nmod	_	O
+8	for	for	IN	_	7	prep	_	O
+9	Valentines	valentines	NNP	_	10	compound	_	B-DATE
+10	Day	day	NNP	pos2=NN	8	pobj	_	L-DATE
+11	?...	?..	.	pos2=XX	1	punct	_	O
+
+1	https://t.co/D2jFjaI1kS	#hlink#	ADD	_	0	root	_	U-ORG
+

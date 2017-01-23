@@ -1,0 +1,8 @@
+1	Prayers	prayer	NNS	pos2=NNPS	3	nsubj	_	O
+2	to	to	IN	pos2=TO	3	aux	_	O
+3	#israel	#israel	VB	pos2=XX	0	root	_	O
+4	#israelisburning	#israelisburning	VBG	pos2=UH	3	xcomp	_	O
+5	#haifa	#haifa	UH	pos2=FW	3	discourse	_	O
+6	#jews	#jews	UH	pos2=NNS	3	discourse	_	O
+7	#jerusalem	#jerusalem	UH	pos2=PRP	3	discourse	_	O
+

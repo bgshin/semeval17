@@ -1,0 +1,5 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	want	want	VBP	_	0	root	_	O
+3	Tony	tony	NNP	_	4	compound	_	B-PERSON
+4	romo	romo	NNP	pos2=RB	1	appos	_	L-PERSON
+

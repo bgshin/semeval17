@@ -1,0 +1,23 @@
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=XX	0	root	_	O
+2	but	but	CC	_	1	cc	_	O
+3	Ben	ben	NNP	_	4	compound	_	B-PERSON
+4	Carson	carson	NNP	_	5	nsubj	_	L-PERSON
+5	has	have	VBZ	_	1	conj	_	O
+6	ZERO	#crd#	CD	_	7	nmod	_	U-CARDINAL
+7	experience	experience	NN	_	5	dobj	_	O
+8	.	.	.	_	5	punct	_	O
+
+1	Experience	experience	NN	pos2=VB	5	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	educational	educational	JJ	_	4	nmod	_	O
+4	training	training	NN	_	1	conj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	important	important	JJ	_	5	acomp	_	O
+7	.	.	.	_	5	punct	_	O
+
+1	Please	please	UH	_	3	discourse	_	O
+2	just	just	RB	pos2=VB	3	advmod	_	O
+3	fire	fire	VB	_	0	root	_	O
+4	yourself	yourself	PRP	_	3	dobj	_	O
+5	.	.	.	_	3	punct	_	O
+

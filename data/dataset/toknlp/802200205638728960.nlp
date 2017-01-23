@@ -1,0 +1,21 @@
+1	MRC	mrc	NN	pos2=NNP	3	nmod	_	O
+2	/	/	SYM	pos2=,	3	punct	_	O
+3	YouGov	yougov	NNP	_	4	compound	_	U-ORG
+4	Poll	poll	NN	pos2=NNP	8	dep	_	O
+5	:	:	:	_	8	punct	_	O
+6	Most	most	JJS	pos2=NNP	7	nmod	_	O
+7	Voters	voter	NNS	pos2=NNPS	8	nsubj	_	O
+8	Saw	see	VBD	pos2=NNP	0	root	_	O
+9	,	,	,	_	10	punct	_	O
+10	Rejected	reject	VBD	pos2=NNP	8	dep	_	O
+11	News	news	NNP	pos2=GW	12	compound	_	O
+12	#Media	#media	NNP	pos2=POS	10	dobj	_	O
+13	Biashttps://t.co/toE24D1NlO	#hlink#	ADD	_	10	dobj	_	O
+14	#msm	#msm	-RRB-	pos2=XX	13	punct	_	O
+15	#tcot	#tcot	UH	pos2=-RRB-	10	discourse	_	O
+16	#uniteblue	#uniteblue	UH	pos2=FW	20	discourse	_	O
+17	#maga	#maga	UH	pos2=FW	20	discourse	_	O
+18	#msmbias	#msmbias	UH	pos2=NNS	20	discourse	_	O
+19	#p2	#p0	UH	pos2=CD	20	discourse	_	O
+20	#liberalmedia	#liberalmedia	UH	pos2=FW	10	discourse	_	O
+

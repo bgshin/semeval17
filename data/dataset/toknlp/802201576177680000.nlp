@@ -1,0 +1,12 @@
+1	We	we	PRP	_	4	nsubj	_	O
+2	wo	wo	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	stop	stop	VB	_	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+
+1	#TrumpTransition	#trumptransition	NN	pos2=ADD	5	nmod	_	O
+2	#TrumpArmy	#trumparmy	GW	pos2=ADD	5	nmod	_	U-ORG
+3	#NeverRomney	#neverromney	GW	pos2=XX	5	nmod	_	O
+4	#draintheswamp	#draintheswamp	GW	pos2=IN	5	nmod	_	O
+5	https://t.co/fC4qRwAcUr	#hlink#	ADD	pos2=NN	0	root	_	O
+

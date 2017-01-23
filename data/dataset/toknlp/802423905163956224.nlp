@@ -1,0 +1,25 @@
+1	@ParamjitGarewal	@paramjitgarewal	ADD	pos2=XX	7	nsubj	_	O
+2	@MailOnline	@mailonline	ADD	pos2=NN	7	dep	_	O
+3	@BobG231	@bobg0	UH	pos2=CC	7	discourse	_	O
+4	no	no	DT	_	5	det	_	O
+5	one	#crd#	NN	pos2=CD	7	nsubj	_	O
+6	yet	yet	RB	pos2=DT	7	advmod	_	O
+7	talks	talk	VBZ	_	0	root	_	O
+8	about	about	IN	pos2=RB	7	prep	_	O
+9	#Pizzagate	#pizzagate	NNP	pos2=NN	8	pobj	_	U-ORG
+10	in	in	IN	_	7	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	open	open	JJ	pos2=NN	10	pobj	_	O
+13	.	.	.	_	7	punct	_	O
+
+1	It	it	PRP	_	3	nsubj	_	O
+2	'll	will	MD	_	3	aux	_	O
+3	fall	fall	VB	_	0	root	_	O
+4	out	out	IN	_	3	prep	_	O
+5	of	of	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	closet	closet	NN	_	5	pobj	_	O
+8	from	from	IN	_	7	prep	_	O
+9	Clinton	clinton	NNP	_	10	compound	_	B-ORG
+10	Foundation	foundation	NNP	_	8	pobj	_	L-ORG
+

@@ -1,0 +1,10 @@
+1	Prints	print	NNS	_	9	dep	_	O
+2	for	for	IN	_	1	prep	_	O
+3	sale	sale	NN	_	2	pobj	_	O
+4	#drawing	#drawing	VBG	pos2=XX	1	acl	_	O
+5	#blackartist	#blackartist	IN	pos2=UH	4	prep	_	O
+6	#blacklivesmatter	#blacklivesmatter	GW	pos2=UH	9	nmod	_	O
+7	#blackartist	#blackartist	GW	pos2=UH	9	nmod	_	O
+8	…	…	NFP	pos2=GW	9	punct	_	O
+9	https://t.co/bmY9ZY79oj	#hlink#	ADD	pos2=NN	0	root	_	O
+

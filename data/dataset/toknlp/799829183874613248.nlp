@@ -1,0 +1,37 @@
+1	@NoctRTW	@noctrtw	ADD	pos2=XX	0	root	_	O
+2	@shoe0nhead	@shoe0nhead	IN	pos2=NNP	1	prep	_	O
+3	What	what	WP	_	4	nsubj	_	O
+4	is	be	VBZ	_	2	pcomp	_	O
+5	Kim	kim	NNP	_	6	compound	_	B-PERSON
+6	Fatty	fatty	NNP	pos2=JJ	4	nsubj	_	L-PERSON
+7	the	the	DT	_	8	det	_	O
+8	Third	#ord#	NNP	pos2=NNPS	6	appos	_	U-ORDINAL
+9	?	?	.	_	1	punct	_	O
+
+1	What	what	WP	_	2	attr	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	Feminist	feminist	JJ	pos2=NNP	2	acomp	_	U-NORP
+4	?	?	.	_	2	punct	_	O
+
+1	What	what	WP	_	2	attr	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	ISlS	isls	NNP	pos2=NNPS	2	nsubj	_	U-PERSON
+4	?	?	.	_	2	punct	_	O
+
+1	What	what	WP	_	2	attr	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	30,000	0	CD	_	4	nmod	_	U-CARDINAL
+4	emails	email	NNS	_	2	nsubj	_	O
+5	?	?	.	_	2	punct	_	O
+
+1	What	what	WP	_	2	attr	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	Google	google	NNP	_	2	nsubj	_	U-ORG
+4	?	?	.	_	2	punct	_	O
+
+1	What	what	WP	_	2	attr	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	Google	google	NNP	_	4	compound	_	B-ORG
+4	…	…	NNP	pos2=NFP	2	nsubj	_	L-ORG
+5	?	?	.	_	2	punct	_	O
+

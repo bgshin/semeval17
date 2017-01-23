@@ -1,0 +1,26 @@
+1	@DesignerDopeBoy	@designerdopeboy	UH	pos2=ADD	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	battled	battle	VBD	_	0	root	_	O
+4	pain	pain	NN	_	3	dobj	_	O
+5	inside	inside	IN	pos2=RB	3	prep	_	O
+6	of	of	IN	_	5	prep	_	O
+7	me	me	PRP	_	6	pobj	_	O
+8	in	in	IN	_	3	prep	_	O
+9	the	the	DT	_	12	det	_	O
+10	most	most	RBS	_	11	advmod	_	O
+11	sensitive	sensitive	JJ	_	12	nmod	_	O
+12	place	place	NN	_	8	pobj	_	O
+13	on	on	IN	_	12	prep	_	O
+14	a	a	DT	_	17	det	_	O
+15	womans	woman	NNS	pos2=AFX	16	compound	_	O
+16	body	body	NN	_	17	compound	_	O
+17	cause	cause	NN	pos2=IN	13	pobj	_	O
+18	of	of	IN	_	17	prep	_	O
+19	abortion	abortion	NN	_	18	pobj	_	O
+20	my	my	PRP$	_	21	poss	_	O
+21	pregancy	pregancy	NN	_	22	nsubj	_	O
+22	is	be	VBZ	_	3	conj	_	O
+23	high	high	JJ	_	24	nmod	_	O
+24	risk	risk	NN	_	22	attr	_	O
+25	now	now	RB	_	22	advmod	_	O
+

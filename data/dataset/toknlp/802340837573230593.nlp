@@ -1,0 +1,22 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=ADD	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	from	from	IN	_	2	prep	_	O
+7	@pressresetearth	@pressresetearth	ADD	pos2=NNP	6	pobj	_	O
+8	https://t.co/0SnwSNDbQl	#hlink#	ADD	pos2=NNP	6	pobj	_	O
+9	Watch	watch	VB	_	5	relcl	_	O
+10	Me	me	PRP	pos2=NNP	6	pobj	_	O
+11	Troll	troll	NNP	pos2=NN	7	attr	_	O
+12	The	the	DT	pos2=NNP	14	det	_	B-NORP
+13	Young	young	NNP	_	14	compound	_	I-NORP
+14	Turks	turk	NNPS	pos2=NNP	11	appos	_	L-NORP
+15	at	at	IN	_	14	prep	_	O
+16	Trump	trump	NNP	_	17	compound	_	B-ORG
+17	Protest	protest	NNP	_	15	pobj	_	L-ORG
+18	in	in	IN	_	17	prep	_	O
+19	NYC	nyc	NNP	_	18	pobj	_	U-GPE
+20	(	(	-LRB-	_	17	punct	_	O
+21	Excerpt	excerpt	NN	pos2=NNP	9	dobj	_	O
+

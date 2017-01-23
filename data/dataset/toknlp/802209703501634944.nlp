@@ -1,0 +1,14 @@
+1	Let	let	VB	_	0	root	_	O
+2	's	's	PRP	_	3	nsubj	_	O
+3	put	put	VB	_	1	ccomp	_	O
+4	Bolton	bolton	NNP	_	3	dobj	_	U-PERSON
+5	back	back	RB	_	3	advmod	_	O
+6	to	to	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	#UnitedNations	#unitednations	NNS	pos2=NNPS	6	pobj	_	O
+9	and	and	CC	_	3	cc	_	O
+10	vote	vote	VB	pos2=NN	3	conj	_	O
+11	for	for	IN	_	10	prep	_	O
+12	@DanaRohrabacher	@danarohrabacher	GW	pos2=ADD	11	pobj	_	O
+13	https://t.co/9dWRfts3v9	#hlink#	ADD	pos2=NN	11	pobj	_	O
+

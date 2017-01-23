@@ -1,0 +1,23 @@
+1	PA	pa	NNP	pos2=NN	3	poss	_	U-ORG
+2	's	's	POS	pos2=AFX	1	case	_	O
+3	@RepCartwright	@repcartwright	NNP	pos2=NN	4	nsubj	_	U-ORG
+4	tapped	tap	VBD	pos2=VBN	0	root	_	O
+5	to	to	IN	pos2=TO	4	prep	_	O
+6	co-chair	co-chair	VB	pos2=NN	8	compound	_	O
+7	Democratic	democratic	JJ	pos2=NNP	8	nmod	_	U-NORP
+8	Policy	policy	NNP	pos2=NN	5	pobj	_	B-ORG
+9	&	&	CC	_	8	cc	_	I-ORG
+10	Comms	comms	NNP	pos2=NNPS	11	compound	_	I-ORG
+11	Committee	committee	NNP	pos2=NN	8	conj	_	L-ORG
+12	--	--	:	_	4	punct	_	O
+13	step	step	NN	pos2=VBP	4	npadvmod	_	O
+14	in	in	IN	_	13	prep	_	O
+15	right	right	JJ	_	16	nmod	_	O
+16	direction	direction	NN	_	14	pobj	_	O
+17	4	0	CD	pos2=IN	19	nmod	_	U-CARDINAL
+18	the	the	DT	_	19	det	_	O
+19	party	party	NN	_	16	appos	_	O
+20	.	.	.	_	4	punct	_	O
+
+1	https://t.co/w6icDn24VI	#hlink#	ADD	_	0	root	_	U-ORG
+

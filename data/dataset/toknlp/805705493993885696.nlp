@@ -1,0 +1,13 @@
+1	@thnewaustralian	@thnewaustralian	UH	pos2=XX	3	discourse	_	O
+2	@guardiannews	@guardiannews	UH	pos2=NNPS	3	discourse	_	O
+3	@guardian	@guardian	UH	pos2=ADD	0	root	_	O
+4	And	and	CC	pos2=NNP	3	cc	_	O
+5	Dragons	dragon	NNPS	pos2=NNS	7	nsubj	_	O
+6	could	could	MD	_	7	aux	_	O
+7	make	make	VB	_	3	conj	_	O
+8	a	a	DT	_	9	det	_	O
+9	comeback	comeback	NN	_	7	dobj	_	O
+10	due	due	IN	pos2=JJ	7	prep	_	O
+11	Brexit	brexit	NNP	pos2=NN	10	pobj	_	U-PERSON
+12	.....	..	.	pos2=,	7	punct	_	O
+

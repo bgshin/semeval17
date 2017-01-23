@@ -1,0 +1,23 @@
+1	Rather	rather	RB	_	2	advmod	_	O
+2	than	than	IN	pos2=RB	0	cc	_	O
+3	build	build	VB	_	2	pcomp	_	O
+4	a	a	DT	_	5	det	_	O
+5	wall	wall	NN	_	3	dobj	_	O
+6	on	on	IN	_	3	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	Mexican	mexican	JJ	pos2=NNP	9	nmod	_	U-NORP
+9	border	border	NN	_	6	pobj	_	O
+10	Trump	trump	NNP	pos2=NN	13	nsubj	_	U-PERSON
+11	should	should	MD	_	13	aux	_	O
+12	just	just	RB	_	13	advmod	_	O
+13	get	get	VB	_	22	ccomp	_	O
+14	Ciaran	ciaran	NNP	_	15	compound	_	B-PERSON
+15	Clark	clark	NNP	_	17	nsubj	_	L-PERSON
+16	to	to	TO	pos2=IN	17	aux	_	O
+17	stand	stand	VB	_	13	ccomp	_	O
+18	on	on	IN	_	17	prep	_	O
+19	it	it	PRP	_	18	pobj	_	O
+20	,	,	,	_	22	punct	_	O
+21	some	some	DT	_	22	det	_	O
+22	boy	boy	NN	pos2=UH	0	root	_	O
+

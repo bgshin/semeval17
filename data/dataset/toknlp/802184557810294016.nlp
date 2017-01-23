@@ -1,0 +1,20 @@
+1	Trump	trump	NN	pos2=NNP	2	compound	_	O
+2	school	school	NN	_	4	compound	_	O
+3	choice:Edu	choice:edu	NNP	pos2=IN	4	compound	_	O
+4	Sec	sec	NNP	_	19	dep	_	O
+5	who	who	WP	_	6	nsubj	_	O
+6	skips	skip	VBZ	_	4	relcl	_	O
+7	out	out	RP	pos2=RB	6	prt	_	O
+8	on	on	IN	_	6	prep	_	O
+9	paying	pay	VBG	_	8	pcomp	_	O
+10	local	local	JJ	_	13	nmod	_	O
+11	school	school	NN	_	13	compound	_	O
+12	district	district	NN	_	13	compound	_	O
+13	taxes	tax	NNS	_	9	dobj	_	O
+14	on	on	IN	_	9	prep	_	O
+15	billionaire	billionaire	NN	_	16	compound	_	O
+16	estate	estate	NN	_	14	pobj	_	O
+17	#p2	#p0	GW	pos2=NN	19	nmod	_	U-NORP
+18	…	…	NFP	pos2=GW	19	punct	_	O
+19	https://t.co/bVusOYe5In	#hlink#	ADD	pos2=NN	0	root	_	O
+

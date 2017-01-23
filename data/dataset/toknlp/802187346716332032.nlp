@@ -1,0 +1,22 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@emmapowell2210	@emmapowell0	NN	pos2=DT	2	nsubj	_	O
+2	asked	ask	VBD	pos2=VBN	0	root	_	O
+3	Jared	jared	NNP	_	4	compound	_	B-PERSON
+4	Harris	harris	NNP	_	2	dobj	_	L-PERSON
+5	(	(	-LRB-	_	4	punct	_	O
+6	son	son	NN	_	4	appos	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Richard	richard	NNP	_	7	pobj	_	U-PERSON
+9	)	)	-RRB-	_	4	punct	_	O
+10	about	about	IN	_	2	prep	_	O
+11	the	the	DT	_	16	det	_	O
+12	whole	whole	JJ	_	16	nmod	_	O
+13	young	young	JJ	_	16	nmod	_	O
+14	Dumbledore	dumbledore	NNP	_	16	nmod	_	U-PERSON
+15	/	/	SYM	pos2=HYPH	16	punct	_	O
+16	#FantasticBeasts	#fantasticbeasts	NNS	pos2=VBZ	19	nmod	_	O
+17	2	0	CD	_	18	nmod	_	U-CARDINAL
+18	situation	situation	NN	_	19	dep	_	O
+19	https://t.co/ni7cKDfOaT	#hlink#	ADD	_	10	pobj	_	U-ORG
+

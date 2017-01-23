@@ -1,0 +1,20 @@
+1	@jjauthor	@jjauthor	CC	pos2=IN	6	cc	_	O
+2	DOJ	doj	NNP	pos2=NN	6	nsubj	_	B-ORG
+3	&	&	CC	_	2	cc	_	I-ORG
+4	DHS	dhs	NNP	pos2=NN	2	conj	_	L-ORG
+5	shld	shld	MD	pos2=TO	6	aux	_	O
+6	obtain	obtain	VB	_	0	root	_	O
+7	voter	voter	NN	_	8	compound	_	O
+8	registration	registration	NN	_	9	compound	_	O
+9	lists	list	NNS	_	6	dobj	_	O
+10	.	.	.	_	6	punct	_	O
+
+1	Then	then	RB	_	4	advmod	_	O
+2	DOJ	doj	NNP	pos2=VB	4	nsubj	_	U-ORG
+3	shld	shld	MD	pos2=TO	4	aux	_	O
+4	prosecute	prosecute	VB	pos2=VBP	0	root	_	O
+5	non-citizens	non-citizens	NNS	_	4	dobj	_	O
+6	who	who	WP	_	7	nsubj	_	O
+7	voted	vote	VBD	_	5	relcl	_	O
+8	.	.	.	_	4	punct	_	O
+

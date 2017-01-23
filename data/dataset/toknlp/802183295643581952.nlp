@@ -1,0 +1,18 @@
+1	Check	check	VB	_	0	root	_	O
+2	out	out	RP	_	1	prt	_	O
+3	NIB	nib	NN	pos2=NNP	6	compound	_	O
+4	Wal	wal	NNP	_	6	compound	_	B-ORG
+5	-	-	HYPH	_	6	punct	_	I-ORG
+6	Mart	mart	NNP	_	8	nmod	_	L-ORG
+7	EXCLUSIVE	exclusive	JJ	pos2=NNP	8	nmod	_	O
+8	#Hatchimals	#hatchimals	NNS	pos2=NNPS	1	dobj	_	B-PERSON
+9	#Burtle	#burtle	NNP	pos2=NNS	8	appos	_	L-PERSON
+10	By	by	IN	_	1	prep	_	O
+11	Spin	spin	NNP	_	16	nmod	_	B-ORG
+12	Master	master	NNP	pos2=NN	16	nmod	_	L-ORG
+13	https://t.co/n7DFP4Em2e	#hlink#	ADD	pos2=NN	16	nmod	_	B-TIME
+14	-	-	HYPH	pos2=SYM	12	punct	_	I-TIME
+15	1	0	CD	_	16	nmod	_	I-TIME
+16	day	day	NN	_	10	pobj	_	L-TIME
+17	left	left	JJ	pos2=VBN	16	nmod	_	O
+

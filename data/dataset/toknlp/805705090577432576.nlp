@@ -1,0 +1,19 @@
+1	Live	live	JJ	pos2=VB	2	nmod	_	O
+2	coverage	coverage	NN	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	today	today	NN	_	8	poss	_	U-DATE
+5	's	's	POS	_	4	case	_	O
+6	Supreme	supreme	NNP	_	7	compound	_	B-ORG
+7	Court	court	NNP	_	8	compound	_	L-ORG
+8	hearing	hearing	NN	pos2=VBG	3	pobj	_	O
+9	on	on	IN	_	8	prep	_	O
+10	whether	whether	IN	pos2=CC	15	mark	_	O
+11	parliament	parliament	NN	_	15	nsubj	_	O
+12	or	or	CC	_	11	cc	_	O
+13	government	government	NN	_	11	conj	_	O
+14	can	can	MD	_	15	aux	_	O
+15	trigger	trigger	VB	_	9	pcomp	_	O
+16	article	article	NN	_	15	dobj	_	O
+17	50	0	CD	_	16	nmod	_	O
+18	https://t.co/baNmacHYBB	#hlink#	ADD	pos2=NNS	16	appos	_	O
+

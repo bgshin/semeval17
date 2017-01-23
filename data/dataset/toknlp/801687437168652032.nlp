@@ -1,0 +1,29 @@
+1	@Umadbro253	@umadbro0	NN	pos2=CD	0	root	_	O
+2	Valencia	valencia	NNP	pos2=NN	0	root	_	B-ORG
+3	/	/	SYM	pos2=HYPH	1	punct	_	I-ORG
+4	Canó	canó	NNP	pos2=NN	8	nmod	_	I-ORG
+5	/	/	SYM	_	8	punct	_	I-ORG
+6	Segura	segura	NNP	pos2=NN	8	nmod	_	I-ORG
+7	/	/	SYM	pos2=,	8	punct	_	I-ORG
+8	Seager	seager	NNP	_	9	nsubj	_	L-ORG
+9	gives	give	VBZ	_	1	relcl	_	O
+10	me	me	PRP	_	9	dative	_	O
+11	hope	hope	NN	_	9	dobj	_	O
+12	.	.	.	_	1	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	a	a	DT	_	6	det	_	O
+4	damn	damn	JJ	pos2=RB	6	nmod	_	O
+5	solid	solid	JJ	_	6	nmod	_	O
+6	infield	infield	NN	_	2	attr	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	Taijuan	taijuan	NNP	_	4	compound	_	O
+2	Walker	walker	NNP	_	4	compound	_	B-PERSON
+3	Cy	cy	NNP	_	4	compound	_	L-PERSON
+4	Young	young	NNP	pos2=JJ	5	compound	_	O
+5	winner	winner	NN	_	6	nsubj	_	O
+6	confirmed	confirm	VBD	pos2=VBN	0	root	_	O
+7	lol	lol	UH	pos2=NN	6	discourse	_	O
+

@@ -1,0 +1,26 @@
+1	@mayankgandhi04	@mayankgandhi0	NN	pos2=LS	6	nsubj	_	O
+2	Unfortunately	unfortunately	RB	_	6	advmod	_	O
+3	this	this	DT	_	4	det	_	O
+4	Govt	govt	NN	pos2=NNP	6	nsubj	_	U-ORG
+5	has	have	VBZ	_	6	aux	_	O
+6	changed	change	VBN	_	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	narrative	narrative	NN	_	6	dobj	_	O
+9	.	.	.	_	6	punct	_	O
+
+1	From	from	IN	_	7	prep	_	O
+2	social	social	JJ	_	3	nmod	_	O
+3	justice	justice	NN	_	1	pobj	_	O
+4	,	,	,	_	7	punct	_	O
+5	it	it	PRP	_	7	nsubj	_	O
+6	has	have	VBZ	_	7	aux	_	O
+7	diverted	divert	VBN	_	0	root	_	O
+8	people	people	NNS	_	10	poss	_	O
+9	's	's	POS	_	8	case	_	O
+10	mind	mind	NN	_	7	dobj	_	O
+11	to	to	IN	_	7	prep	_	O
+12	(	(	-LRB-	_	15	punct	_	O
+13	misplaced	misplaced	JJ	pos2=VBN	15	nmod	_	O
+14	)	)	-RRB-	_	15	punct	_	O
+15	security	security	NN	_	11	pobj	_	O
+

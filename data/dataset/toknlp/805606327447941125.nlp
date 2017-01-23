@@ -1,0 +1,25 @@
+1	Innocent	innocent	JJ	_	2	nmod	_	O
+2	lives	life	NNS	pos2=VBZ	4	nsubjpass	_	O
+3	being	be	VBG	_	4	auxpass	_	O
+4	taken	take	VBN	_	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	these	these	DT	_	8	det	_	O
+7	drone	drone	NN	_	8	compound	_	O
+8	strikes	strike	NNS	_	5	pobj	_	O
+9	are	be	VBP	_	10	aux	_	O
+10	giving	give	VBG	_	6	csubj	_	O
+11	the	the	DT	_	12	det	_	O
+12	people	people	NNS	_	10	dobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	Afghanistan	afghanistan	NNP	_	13	pobj	_	U-GPE
+15	a	a	DT	_	16	det	_	O
+16	reason	reason	NN	_	10	dobj	_	O
+17	to	to	TO	_	18	aux	_	O
+18	become	become	VB	_	16	relcl	_	O
+19	terrorists	terrorist	NNS	_	18	attr	_	O
+20	in	in	IN	_	19	prep	_	O
+21	the	the	DT	_	23	det	_	O
+22	first	#ord#	JJ	_	23	nmod	_	U-ORDINAL
+23	place	place	NN	_	20	pobj	_	O
+24	.	.	.	_	4	punct	_	O
+

@@ -1,0 +1,24 @@
+1	@lollytenny	@lollytenny	UH	pos2=NN	12	discourse	_	O
+2	@AjukaRosemary	@ajukarosemary	NNP	pos2=NN	5	nsubj	_	U-PERSON
+3	Especially	especially	RB	_	12	advmod	_	O
+4	,	,	,	_	12	punct	_	O
+5	our	our	PRP$	_	6	poss	_	O
+6	senators	senator	NNS	_	1	vocative	_	O
+7	and	and	CC	_	6	cc	_	O
+8	rep	rep	NN	_	9	compound	_	O
+9	members	member	NNS	_	6	conj	_	O
+10	,	,	,	_	12	punct	_	O
+11	they	they	PRP	_	12	nsubj	_	O
+12	need	need	VBP	_	0	root	_	O
+13	to	to	TO	_	14	aux	_	O
+14	earn	earn	VB	_	12	xcomp	_	O
+15	within	within	IN	_	14	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	bracket	bracket	NN	_	15	pobj	_	O
+18	of	of	IN	_	17	prep	_	O
+19	the	the	DT	_	22	det	_	O
+20	18k	0k	CD	pos2=NN	22	nmod	_	U-CARDINAL
+21	minimum	minimum	JJ	pos2=NN	22	nmod	_	O
+22	wage	wage	NN	_	18	pobj	_	O
+23	.	.	.	_	12	punct	_	O
+

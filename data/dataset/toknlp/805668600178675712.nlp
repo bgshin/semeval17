@@ -1,0 +1,24 @@
+1	@GMB	@gmb	NN	pos2=XX	2	compound	_	O
+2	UKIP	ukip	NNP	pos2=NN	4	nsubj	_	U-ORG
+3	are	be	VBP	_	4	aux	_	O
+4	moaning	moan	VBG	_	0	root	_	O
+5	at	at	IN	_	4	prep	_	O
+6	parliament	parliament	NN	_	5	pobj	_	O
+7	over	over	IN	pos2=RP	4	prep	_	O
+8	brexit	brexit	DT	pos2=NN	10	det	_	O
+9	court	court	NN	_	10	compound	_	O
+10	case	case	NN	_	7	pobj	_	O
+11	as	as	IN	_	14	mark	_	O
+12	they	they	PRP	_	14	nsubj	_	O
+13	only	only	RB	_	14	advmod	_	O
+14	have	have	VBP	_	4	advcl	_	O
+15	1	0	CD	_	16	nmod	_	U-CARDINAL
+16	MP	mp	NNP	pos2=NN	14	dobj	_	O
+17	!!	!!	.	_	4	punct	_	O
+
+1	UKIP	ukip	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	get	get	VB	pos2=VBP	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	life	life	NN	_	2	dobj	_	O
+5	!!	!!	.	_	2	punct	_	O
+

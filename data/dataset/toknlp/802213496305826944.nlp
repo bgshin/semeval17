@@ -1,0 +1,22 @@
+1	@petestavros	@petestavros	UH	pos2=NNS	5	discourse	_	O
+2	@AlwaysInAmerica	@alwaysinamerica	NNP	pos2=UH	5	vocative	_	U-PERSON
+3	@megynkelly	@megynkelly	UH	pos2=IN	5	discourse	_	O
+4	she	she	PRP	_	5	nsubj	_	O
+5	gets	get	VBZ	_	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	gleam	gleam	NN	_	5	dobj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	her	her	PRP$	_	10	poss	_	O
+10	eyes	eye	NNS	_	8	pobj	_	O
+11	when	when	WRB	_	13	advmod	_	O
+12	she	she	PRP	_	13	nsubj	_	O
+13	finds	find	VBZ	_	5	advcl	_	O
+14	the	the	DT	_	17	det	_	O
+15	juiciest	juicy	JJS	pos2=RBS	17	nmod	_	O
+16	gossipy	gossipy	JJ	_	17	nmod	_	O
+17	bit	bit	NN	_	13	dobj	_	O
+18	and	and	CC	_	13	cc	_	O
+19	becomes	become	VBZ	_	13	conj	_	O
+20	tabloid	tabloid	NN	pos2=RB	21	npadvmod	_	O
+21	based	base	VBN	_	19	acomp	_	O
+

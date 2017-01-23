@@ -1,0 +1,20 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@OliverElner	@oliverelner	CC	pos2=JJR	3	cc	_	O
+2	Muslims	muslim	NNPS	pos2=NNS	3	nsubj	_	U-NORP
+3	have	have	VBP	_	0	root	_	O
+4	a	a	DT	_	7	det	_	O
+5	special	special	JJ	_	7	nmod	_	O
+6	decoding	decoding	NN	_	7	compound	_	O
+7	ring	ring	NN	_	3	dobj	_	O
+8	that	that	WDT	_	9	nsubj	_	O
+9	shows	show	VBZ	_	7	relcl	_	O
+10	#Jerusalem	#jerusalem	NNP	pos2=PRP	9	dobj	_	U-PERSON
+11	in	in	IN	_	9	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	Koran	koran	NNP	pos2=NNPS	14	compound	_	O
+14	🙄@Joyce_Karam	🙄@joyce_karam	NNP	pos2=XX	11	pobj	_	O
+15	@HillelNeuer	@hillelneuer	ADD	pos2=NNP	16	compound	_	O
+16	@Michaelhorowicz	@michaelhorowicz	NNP	pos2=XX	14	appos	_	O
+17	#israel	#israel	UH	pos2=ADD	3	discourse	_	O
+

@@ -1,0 +1,28 @@
+1	@DrJillStein	@drjillstein	NN	pos2=ADD	3	compound	_	O
+2	@realDonaldTrump	@realdonaldtrump	NN	pos2=POS	3	compound	_	O
+3	jill	jill	NN	pos2=NNP	7	vocative	_	O
+4	,	,	,	_	3	punct	_	O
+5	baby	baby	NN	_	3	conj	_	O
+6	,	,	,	_	7	punct	_	O
+7	thanks	thanks	NNS	_	0	root	_	O
+8	to	to	IN	_	7	prep	_	O
+9	your	your	PRP$	_	10	poss	_	O
+10	efforts	effort	NNS	_	8	pobj	_	O
+11	we	we	PRP	_	13	nsubj	_	O
+12	are	be	VBP	_	13	aux	_	O
+13	going	go	VBG	_	7	ccomp	_	O
+14	to	to	TO	pos2=IN	15	aux	_	O
+15	force	force	VB	_	13	xcomp	_	O
+16	voter	voter	NN	_	17	compound	_	O
+17	i.d.	i.d.	NN	pos2=FW	15	dobj	_	O
+18	and	and	CC	_	13	cc	_	O
+19	will	will	MD	pos2=NN	20	aux	_	O
+20	audit	audit	VB	pos2=NN	13	conj	_	O
+21	CA	can	MD	pos2=NN	23	aux	_	O
+22	voter	voter	NN	pos2=VB	23	compound	_	O
+23	registration	registration	NN	_	20	dobj	_	O
+24	.	.	.	_	7	punct	_	O
+
+1	TY	ty	NNP	pos2=NN	0	root	_	U-PERSON
+2	!!	!!	.	_	1	punct	_	O
+

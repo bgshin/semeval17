@@ -1,0 +1,24 @@
+1	@Salon	@salon	NNP	pos2=XX	4	advmod	_	U-ORG
+2	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	4	advmod	_	O
+3	@mike_pence	@mike_pence	IN	pos2=NNP	0	root	_	O
+4	Big	big	JJ	pos2=NNP	5	nmod	_	O
+5	issue	issue	NN	pos2=JJ	7	compound	_	O
+6	tilting	tilting	NN	pos2=VBG	7	compound	_	O
+7	election	election	NN	_	3	pobj	_	O
+8	?	?	.	_	1	punct	_	O
+
+1	Daily	daily	RB	pos2=JJ	2	advmod	_	U-DATE
+2	lies	lie	NNS	pos2=VBZ	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	Fake	fake	NNP	pos2=JJ	5	compound	_	B-ORG
+5	Media	media	NNP	pos2=NNS	3	pobj	_	L-ORG
+6	,	,	,	_	5	punct	_	O
+7	TV	tv	NN	pos2=NNP	5	conj	_	O
+8	,	,	,	_	7	punct	_	O
+9	H'wood	h'wood	NNP	pos2=XX	10	compound	_	O
+10	studios	studio	NNS	pos2=VBZ	7	conj	_	O
+11	hiding	hide	VBG	_	10	acl	_	O
+12	neocons	neocon	NNS	_	11	dobj	_	O
+13	criminal	criminal	JJ	_	14	nmod	_	O
+14	activity	activity	NN	_	11	npadvmod	_	O
+

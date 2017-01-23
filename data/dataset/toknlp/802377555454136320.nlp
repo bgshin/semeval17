@@ -1,0 +1,22 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=GW	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	https://t.co/iCNLpUrduO	#hlink#	ADD	pos2=NNP	2	dep	_	O
+7	Nougat	nougat	NNP	pos2=NN	21	nmod	_	O
+8	7.1	0	CD	_	7	nmod	_	U-CARDINAL
+9	for	for	IN	_	5	prep	_	O
+10	Samsung	samsung	NNP	_	12	compound	_	B-ORG
+11	Galaxy	galaxy	NNP	_	12	compound	_	L-ORG
+12	Note	note	NNP	pos2=NN	9	pobj	_	O
+13	4	0	CD	_	12	nmod	_	O
+14	(	(	-LRB-	_	17	punct	_	O
+15	SM	sm	NNP	pos2=NN	17	compound	_	O
+16	-	-	HYPH	_	17	punct	_	O
+17	N910V	n0v	NN	pos2=NNP	12	appos	_	O
+18	)	)	-RRB-	_	17	punct	_	O
+19	CM	cm	NN	pos2=NNS	21	nmod	_	O
+20	14.1	0	CD	_	21	nmod	_	U-CARDINAL
+21	trltevzw	trltevzw	NN	pos2=NNS	17	oprd	_	O
+

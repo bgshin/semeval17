@@ -1,0 +1,11 @@
+1	Tea	tea	NN	pos2=NNP	2	compound	_	B-ORG
+2	Party	party	NNP	_	3	compound	_	I-ORG
+3	United	united	NNP	_	0	root	_	L-ORG
+4	?	?	.	_	3	punct	_	O
+
+1	RETWEET	retweet	NN	pos2=GW	5	dep	_	O
+2	https://t.co/VcxPkyEUSH	#hlink#	ADD	pos2=:	5	dep	_	U-ORG
+3	#Conservatives	#conservatives	NNS	pos2=VBZ	5	nmod	_	O
+4	#TeaParty	#teaparty	NN	pos2=ADD	5	compound	_	O
+5	#America	#america	NNP	pos2=ADD	0	root	_	O
+

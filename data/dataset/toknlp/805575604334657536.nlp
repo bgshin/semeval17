@@ -1,0 +1,19 @@
+1	After	after	IN	_	0	root	_	O
+2	some	some	DT	pos2=RB	3	qmod	_	B-DATE
+3	4	0	CD	_	4	nmod	_	I-DATE
+4	months	month	NNS	_	1	pobj	_	L-DATE
+5	of	of	IN	_	4	prep	_	O
+6	vegetarianism	vegetarianism	NN	_	5	pobj	_	O
+7	..	..	.	_	6	punct	_	O
+
+1	it	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	all	all	PDT	_	6	predet	_	O
+4	the	the	DT	_	6	det	_	O
+5	same	same	JJ	_	6	nmod	_	O
+6	industry	industry	NN	_	2	attr	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	#cutoutthecrap	#cutoutthecrap	UH	pos2=-LRB-	2	discourse	_	O
+2	https://t.co/4kDbCUGwra	#hlink#	ADD	pos2=NN	0	root	_	O
+

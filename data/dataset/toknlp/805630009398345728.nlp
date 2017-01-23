@@ -1,0 +1,22 @@
+1	@Keith__LFC	@keith__lfc	MD	pos2=NNP	2	aux	_	O
+2	Enjoy	enjoy	VB	_	0	root	_	O
+3	your	your	PRP$	_	4	poss	_	O
+4	wait	wait	NN	pos2=VB	2	dobj	_	O
+5	!	!	.	pos2=,	2	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	have	have	VBP	_	14	ccomp	_	O
+3	Google	google	NNP	_	2	dobj	_	U-ORG
+4	and	and	CC	_	2	cc	_	O
+5	can	can	MD	pos2=NN	6	aux	_	O
+6	type	type	VB	_	2	conj	_	O
+7	in	in	IN	pos2=RP	6	prep	_	O
+8	"	"	``	_	7	punct	_	O
+9	voter	voter	NN	_	10	compound	_	O
+10	suppression	suppression	NN	_	7	pobj	_	O
+11	"	"	''	_	7	punct	_	O
+12	,	,	,	_	14	punct	_	O
+13	I	I	PRP	_	14	nsubj	_	O
+14	presume	presume	VBP	_	0	root	_	O
+15	.	.	.	_	14	punct	_	O
+

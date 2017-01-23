@@ -1,0 +1,25 @@
+1	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	2	det	_	U-GPE
+2	@mike_pence	@mike_pence	NN	pos2=IN	3	nsubj	_	O
+3	@KellyannePolls	@kellyannepolls	VBZ	pos2=IN	21	csubj	_	O
+4	You	you	PRP	_	6	nsubj	_	O
+5	all	all	DT	pos2=RB	4	appos	_	O
+6	need	need	VBP	pos2=NN	3	ccomp	_	O
+7	to	to	TO	_	8	aux	_	O
+8	find	find	VB	_	6	xcomp	_	O
+9	a	a	DT	_	10	det	_	O
+10	spot	spot	NN	_	8	dobj	_	O
+11	in	in	IN	_	10	prep	_	O
+12	your	your	PRP$	_	13	poss	_	O
+13	ADMIN	admin	NN	_	11	pobj	_	O
+14	for	for	IN	_	10	prep	_	O
+15	@GovernorPerry	@governorperry	NN	pos2=NNP	14	pobj	_	O
+16	he	he	PRP	_	17	nsubj	_	O
+17	has	have	VBZ	_	10	relcl	_	O
+18	class	class	NN	pos2=NNS	17	dobj	_	O
+19	/	/	SYM	pos2=,	21	punct	_	O
+20	would	would	MD	_	21	aux	_	O
+21	be	be	VB	_	0	root	_	O
+22	great	great	JJ	_	23	nmod	_	O
+23	asset	asset	NN	_	21	attr	_	O
+24	!	!	.	_	21	punct	_	O
+

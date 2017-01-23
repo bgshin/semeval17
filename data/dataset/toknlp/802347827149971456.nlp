@@ -1,0 +1,26 @@
+1	@HaroldItz	@harolditz	NNP	pos2=ADD	2	compound	_	B-PERSON
+2	Trump	trump	NNP	pos2=NN	5	nsubj	_	L-PERSON
+3	did	do	VBD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	respect	respect	VB	_	0	root	_	O
+6	Obama	obama	NNP	_	5	dobj	_	U-PERSON
+7	.	.	.	_	5	punct	_	O
+
+1	Everytime	everytime	RB	pos2=IN	5	advmod	_	O
+2	Conway	conway	NNP	_	5	nsubj	_	U-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	Trump	trump	NNP	_	2	conj	_	U-PERSON
+5	open	open	JJ	pos2=VBP	0	root	_	O
+6	their	their	PRP$	_	7	poss	_	O
+7	mouth	mouth	NN	_	5	dobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	protest	protest	VB	_	5	advcl	_	O
+10	something	something	NN	_	9	dobj	_	O
+11	its	its	PRP$	_	13	poss	_	O
+12	cuz	cuz	IN	pos2=RP	16	mark	_	O
+13	they	they	PRP	_	16	nsubj	_	O
+14	have	have	VBP	_	16	aux	_	O
+15	already	already	RB	_	16	advmod	_	O
+16	done	do	VBN	_	9	advcl	_	O
+17	it	it	PRP	_	16	dobj	_	O
+

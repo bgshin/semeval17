@@ -1,0 +1,15 @@
+1	#Syria	#syria	NN	pos2=NNP	2	compound	_	O
+2	Report	report	NN	pos2=NNP	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	#Hezbollah	#hezbollah	NNP	_	5	nsubj	_	O
+5	Has	have	VBZ	_	0	root	_	O
+6	1	0	CD	_	9	nmod	_	B-DATE
+7	st	st	NN	pos2=IN	9	nmod	_	L-DATE
+8	Direct	direct	JJ	pos2=NNP	9	nmod	_	O
+9	Meeting	meeting	NN	pos2=NNP	5	dobj	_	O
+10	w	w	IN	pos2=GW	9	prep	_	O
+11	#Russia	#russia	NNP	pos2=XX	12	compound	_	O
+12	Officers	officer	NNS	pos2=NNPS	10	pobj	_	O
+13	https://t.co/tOXsoJGGdA	#hlink#	ADD	pos2=VBP	9	appos	_	O
+14	…	…	-RRB-	pos2=NFP	5	punct	_	U-ORG
+

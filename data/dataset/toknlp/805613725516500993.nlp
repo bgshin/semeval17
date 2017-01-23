@@ -1,0 +1,16 @@
+1	Very	very	RB	_	2	advmod	_	O
+2	promising	promising	JJ	_	3	nmod	_	O
+3	results	result	NNS	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	effectiveness	effectiveness	NN	_	4	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	homeopathy	homeopathy	NN	_	6	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	Thanks	thanks	NN	pos2=NNS	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	sharing	share	VBG	pos2=NN	2	pcomp	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	https://t.co/ch69fEcqAA	#hlink#	ADD	_	0	root	_	U-ORG
+

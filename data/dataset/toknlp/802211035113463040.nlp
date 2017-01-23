@@ -1,0 +1,17 @@
+1	@JudgeJeanine	@judgejeanine	ADD	pos2=JJ	2	compound	_	O
+2	President	president	NNP	_	4	poss	_	O
+3	@realDonaldTrump	@realdonaldtrump	POS	pos2=IN	2	case	_	O
+4	VP	vp	NNP	pos2=NN	16	dep	_	O
+5	@mike_pence	@mike_pence	IN	pos2=NN	4	prep	_	O
+6	@SpeakerRyan	@speakerryan	ADD	pos2=XX	13	poss	_	O
+7	@TGowdySC	@tgowdysc	POS	pos2=IN	6	case	_	O
+8	RADICAL	radical	JJ	_	11	nmod	_	O
+9	OR	or	CC	pos2=NN	8	cc	_	O
+10	ISIS	isis	NNP	pos2=NN	8	conj	_	U-ORG
+11	MEN	man	NNS	pos2=NNPS	13	nmod	_	O
+12	RAPE	rape	NN	pos2=VBP	13	compound	_	O
+13	GIRLS	girl	NNS	pos2=NNPS	5	pobj	_	O
+14	HERE	here	RB	_	13	advmod	_	O
+15	…	…	NFP	pos2=:	16	punct	_	O
+16	https://t.co/Kb7cH5Snry	#hlink#	ADD	_	0	root	_	O
+

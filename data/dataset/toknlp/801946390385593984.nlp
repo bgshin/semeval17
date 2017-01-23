@@ -1,0 +1,14 @@
+1	@USF_Bulls_8_95	@usf_bulls_0_0	NN	pos2=XX	3	compound	_	O
+2	Justin	justin	NNP	_	3	compound	_	B-PERSON
+3	Verlander	verlander	NNP	_	5	nsubj	_	L-PERSON
+4	not	not	RB	_	5	neg	_	O
+5	winning	win	VBG	_	0	root	_	O
+6	the	the	DT	_	8	det	_	B-WORK_OF_ART
+7	Cy	cy	NNP	_	8	compound	_	I-WORK_OF_ART
+8	Young	young	NNP	_	5	dobj	_	L-WORK_OF_ART
+9	.	.	.	_	5	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	thankful	thankful	JJ	_	2	acomp	_	O
+

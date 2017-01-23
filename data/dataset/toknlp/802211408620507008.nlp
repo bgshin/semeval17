@@ -1,0 +1,24 @@
+1	#Russia	#russia	NN	pos2=NNP	3	nsubj	_	O
+2	-	-	HYPH	pos2=:	3	punct	_	O
+3	n	n	JJ	pos2=NN	7	nmod	_	O
+4	and	and	CC	_	3	cc	_	O
+5	Chinese	chinese	JJ	pos2=NNP	3	conj	_	U-NORP
+6	Defense	defense	NNP	_	7	compound	_	O
+7	Ministers	minister	NNPS	pos2=NNS	8	nsubj	_	O
+8	discuss	discuss	VBP	pos2=VB	0	root	_	O
+9	the	the	DT	_	11	det	_	O
+10	latest	late	JJS	_	11	nmod	_	O
+11	development	development	NN	_	8	dobj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	#Libya	#libya	NNP	_	12	pobj	_	U-GPE
+14	,	,	,	_	8	punct	_	O
+15	on	on	IN	_	8	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	margin	margin	NN	_	15	pobj	_	O
+18	of	of	IN	_	17	prep	_	O
+19	a	a	DT	_	21	det	_	O
+20	joint	joint	JJ	pos2=NN	21	nmod	_	O
+21	military	military	JJ	pos2=NN	18	pobj	_	O
+22	…	…	NFP	pos2=-LRB-	23	punct	_	O
+23	https://t.co/1hE6ndB3MF	#hlink#	ADD	_	21	appos	_	O
+

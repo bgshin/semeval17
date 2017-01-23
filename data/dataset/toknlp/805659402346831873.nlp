@@ -1,0 +1,24 @@
+1	Listen	listen	VB	_	0	root	_	O
+2	to	to	IN	_	1	prep	_	O
+3	my	my	PRP$	_	4	poss	_	O
+4	song	song	NN	_	2	pobj	_	O
+5	When	when	WRB	_	8	advmod	_	O
+6	Ya	ya	NNP	pos2=PRP	8	nsubj	_	U-PERSON
+7	'll	will	MD	pos2=NNP	8	aux	_	O
+8	Gone	go	VBN	pos2=NNP	1	advcl	_	O
+9	Learn	learn	VB	pos2=NNP	8	advcl	_	O
+10	Ft.	ft.	NNP	_	12	compound	_	O
+11	Muhammad	muhammad	NNP	_	12	compound	_	B-PERSON
+12	Ali	ali	NNP	_	9	dobj	_	L-PERSON
+13	(	(	-LRB-	_	12	punct	_	O
+14	R.I.P	r.i.p	NNP	pos2=RB	12	appos	_	O
+15	)	)	-RRB-	_	12	punct	_	O
+16	,	,	,	_	12	punct	_	O
+17	CEAZ	ceaz	NNP	pos2=NN	12	conj	_	U-GPE
+18	,	,	,	_	17	punct	_	O
+19	Veezy	veezy	NNP	_	17	conj	_	U-GPE
+20	#np	#np	XX	pos2=NNP	12	appos	_	O
+21	on	on	IN	pos2=GW	20	prep	_	O
+22	#SoundC	#soundc	ADD	pos2=XX	21	pobj	_	B-CARDINAL
+23	loudhttps://t.co/cPGQPvAIFH	#hlink#	ADD	_	21	pobj	_	L-CARDINAL
+

@@ -1,0 +1,25 @@
+1	Only	only	RB	_	3	advmod	_	O
+2	nasty	nasty	JJ	_	3	nmod	_	O
+3	women	woman	NNS	_	8	nsubj	_	O
+4	and	and	CC	_	3	cc	_	O
+5	bad	bad	JJ	_	6	nmod	_	O
+6	hombres	hombre	NNS	_	3	conj	_	O
+7	would	would	MD	_	8	aux	_	O
+8	share	share	VB	_	0	root	_	O
+9	this	this	DT	_	12	det	_	O
+10	very	very	RB	pos2=JJ	11	advmod	_	O
+11	unflattering	unflattering	JJ	_	12	nmod	_	O
+12	picture	picture	NN	_	8	dobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	our	our	PRP$	_	15	poss	_	O
+15	Furhur	furhur	NNP	_	13	pobj	_	U-GPE
+16	.	.	.	_	8	punct	_	O
+
+1	Be	be	VB	_	0	root	_	O
+2	one	#crd#	CD	_	1	attr	_	U-CARDINAL
+3	of	of	IN	_	2	prep	_	O
+4	those	those	DT	_	3	pobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	https://t.co/4JukYG6Kbc	#hlink#	ADD	_	0	root	_	U-ORG
+

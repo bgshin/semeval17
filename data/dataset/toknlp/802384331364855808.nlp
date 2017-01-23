@@ -1,0 +1,16 @@
+1	#Trump	#trump	NNP	pos2=NN	2	nsubj	_	O
+2	nominates	nominate	VBZ	_	0	root	_	O
+3	LIMITED	limited	JJ	pos2=VBN	6	nmod	_	O
+4	GOVT	govt	NN	pos2=NNP	5	compound	_	O
+5	EXPERIENCE	experience	NN	_	6	compound	_	O
+6	lawyer🎃So	lawyer🎃so	NN	pos2=:	2	dobj	_	O
+7	who	who	WP	_	8	nsubj	_	O
+8	needs	need	VBZ	_	6	relcl	_	O
+9	experience	experience	NN	_	8	dobj	_	O
+10	in	in	IN	_	9	prep	_	O
+11	this	this	DT	_	12	det	_	O
+12	🎃admin	🎃admin	NNP	pos2=NN	10	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	clowns🎃#NotMyPresident	clowns🎃#notmypresident	ADD	pos2=NNP	13	pobj	_	O
+15	https://t.co/1b4QSiLzTF	#hlink#	ADD	_	2	dobj	_	O
+

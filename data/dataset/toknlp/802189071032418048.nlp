@@ -1,0 +1,24 @@
+1	@erabrand	@erabrand	UH	pos2=NN	6	discourse	_	O
+2	@Lollardfish	@lollardfish	UH	pos2=NNS	6	discourse	_	O
+3	I	I	PRP	_	6	nsubj	_	O
+4	would	would	MD	_	6	aux	_	O
+5	n’t	not	RB	_	6	neg	_	O
+6	be	be	VB	_	0	root	_	O
+7	surprised	surprised	JJ	_	6	acomp	_	O
+8	.	.	.	_	6	punct	_	O
+
+1	And	and	CC	_	5	cc	_	O
+2	who	who	WP	pos2=RB	3	nsubj	_	O
+3	better	good	JJR	pos2=RBR	5	advmod	_	O
+4	to	to	TO	pos2=IN	5	aux	_	O
+5	gut	gut	VB	_	0	root	_	O
+6	it	it	PRP	_	5	dobj	_	O
+7	than	than	IN	_	5	prep	_	O
+8	his	his	PRP$	_	13	poss	_	O
+9	fellow	fellow	JJ	_	13	nmod	_	O
+10	political	political	JJ	_	13	nmod	_	O
+11	naïf	naïf	NNP	pos2=NN	13	compound	_	O
+12	Ben	ben	NNP	_	13	compound	_	B-PERSON
+13	Carson	carson	NNP	_	7	pobj	_	L-PERSON
+14	?	?	.	_	5	punct	_	O
+

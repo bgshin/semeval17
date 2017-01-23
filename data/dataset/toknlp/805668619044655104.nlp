@@ -1,0 +1,15 @@
+1	Blame	blame	VB	pos2=VBP	7	advcl	_	O
+2	the	the	DT	_	4	det	_	O
+3	identity	identity	NN	_	4	compound	_	O
+4	apostles	apostle	NNS	_	1	dobj	_	O
+5	–	-	:	pos2=,	7	punct	_	O
+6	they	they	PRP	_	7	nsubj	_	O
+7	led	lead	VBD	_	0	root	_	O
+8	us	us	PRP	_	7	dobj	_	O
+9	down	down	IN	pos2=RP	7	prep	_	O
+10	this	this	DT	_	11	det	_	O
+11	path	path	NN	_	9	pobj	_	O
+12	to	to	IN	pos2=TO	11	prep	_	O
+13	#Populism	#populism	NNP	pos2=ADD	12	pobj	_	O
+14	https://t.co/mnLoHBrUAn	#hlink#	ADD	pos2=NN	13	appos	_	O
+

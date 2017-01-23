@@ -1,0 +1,7 @@
+1	@OilandGasPlay	@oilandgasplay	NN	pos2=NNP	2	compound	_	O
+2	Thanks	thanks	NN	pos2=NNS	4	dep	_	O
+3	!>>>	!>>	NFP	pos2=-LRB-	4	punct	_	O
+4	https://t.co/xr5YOIRmoJ#Israel#Jerusalem#JesusIsTheSonOfGod#Psalm83#Yeshua	#hlink#	ADD	pos2=RBR	0	root	_	O
+5	via	via	IN	_	4	prep	_	O
+6	https://t.co/B1vu5DUAk2	#hlink#	ADD	pos2=NN	5	pobj	_	U-ORG
+

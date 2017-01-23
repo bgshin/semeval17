@@ -1,0 +1,12 @@
+1	#Araghun	#araghun	NNP	pos2=PRP$	2	compound	_	O
+2	Paint	paint	NNP	pos2=NN	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	still	still	RB	_	3	advmod	_	O
+5	the	the	DT	_	7	det	_	O
+6	Gold	gold	NNP	pos2=NN	7	compound	_	O
+7	Standard	standard	NNP	pos2=NN	3	attr	_	O
+8	for	for	IN	_	7	prep	_	O
+9	Exterior	exterior	NNP	pos2=GW	10	compound	_	O
+10	Performance	performance	NNP	pos2=NN	8	pobj	_	O
+11	https://t.co/n9254xSslC	#hlink#	ADD	_	3	dep	_	O
+

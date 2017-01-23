@@ -1,0 +1,16 @@
+1	Obama	obama	NNP	_	2	compound	_	B-PERSON
+2	Admin	admin	NNP	pos2=NN	0	root	_	L-PERSON
+3	.	.	.	_	2	punct	_	O
+
+1	Statement	statement	NN	_	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	'	'	''	pos2=``	5	punct	_	O
+4	We	we	PRP	_	5	nsubj	_	O
+5	Stand	stand	VBP	_	0	root	_	O
+6	Behind	behind	IN	pos2=NNP	5	prep	_	O
+7	Our	our	PRP$	pos2=NNP	9	poss	_	O
+8	Election	election	NNP	pos2=NN	9	compound	_	O
+9	Results	result	NNS	pos2=NNP	11	poss	_	O
+10	'	'	POS	pos2=''	9	case	_	O
+11	https://t.co/TAGovXfND4	#hlink#	ADD	pos2=NN	6	pobj	_	O
+

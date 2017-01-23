@@ -1,0 +1,8 @@
+1	@clayfax	@clayfax	DT	pos2=NN	2	det	_	O
+2	Viper	viper	NN	pos2=NNP	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Another	another	DT	_	3	det	_	O
+2	fucking	fucking	JJ	_	3	nmod	_	O
+3	nazi	nazi	NN	pos2=NNS	0	root	_	O
+

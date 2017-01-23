@@ -1,0 +1,26 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	know	know	VBP	_	0	root	_	O
+3	elderly	elderly	JJ	_	4	nmod	_	O
+4	Republicans	republican	NNPS	_	2	dobj	_	U-NORP
+5	who	who	WP	_	6	nsubj	_	O
+6	voted	vote	VBD	_	4	relcl	_	O
+7	for	for	IN	_	6	prep	_	O
+8	Trump	trump	NNP	pos2=NN	7	pobj	_	U-ORG
+9	who	who	WP	_	11	nsubj	_	O
+10	are	be	VBP	_	11	aux	_	O
+11	going	go	VBG	_	8	relcl	_	O
+12	to	to	TO	_	13	aux	_	O
+13	stroke	stroke	VB	_	11	xcomp	_	O
+14	out	out	RP	pos2=RB	13	prt	_	O
+15	and	and	CC	_	2	cc	_	O
+16	for	for	IN	_	21	prep	_	O
+17	mid	mid	JJ	_	18	nmod	_	O
+18	term	term	NN	_	19	compound	_	O
+19	elections	election	NNS	_	16	pobj	_	O
+20	,	,	,	_	21	punct	_	O
+21	put	put	VB	pos2=VBN	2	conj	_	O
+22	in.	in.	NN	pos2=CD	21	dobj	_	O
+23	..	..	.	pos2=,	21	punct	_	O
+
+1	https://t.co/Xlx15X5kUs	#hlink#	ADD	_	0	root	_	U-ORG
+

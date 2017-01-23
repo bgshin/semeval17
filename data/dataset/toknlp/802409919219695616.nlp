@@ -1,0 +1,35 @@
+1	@ABC	@abc	VB	pos2=VBZ	0	root	_	O
+2	a	a	DT	_	4	det	_	O
+3	black	black	JJ	_	4	nmod	_	O
+4	man	man	NN	_	5	nsubj	_	O
+5	killed	kill	VBD	_	1	ccomp	_	O
+6	a	a	DT	_	8	det	_	O
+7	white	white	JJ	_	8	nmod	_	O
+8	cop	cop	NN	_	5	dobj	_	O
+9	!	!	.	_	1	punct	_	O
+
+1	Where	where	WRB	_	2	advmod	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	riots	riot	NNS	_	2	nsubj	_	O
+5	!	!	.	_	2	punct	_	O
+
+1	Where	where	WRB	_	2	advmod	_	O
+2	's	's	VBZ	pos2=WRB	0	root	_	O
+3	Obama	obama	NNP	_	7	advmod	_	U-PERSON
+4	I	I	PRP	pos2=NNP	5	nsubj	_	O
+5	Forgot	forget	VBD	pos2=CC	0	root	_	O
+6	Double	double	NNP	pos2=JJ	7	advmod	_	O
+7	Sided	sided	JJ	pos2=NNP	8	nmod	_	O
+8	Admin	admin	NN	pos2=NNP	5	dobj	_	O
+9	!	!	.	_	2	punct	_	O
+
+1	Where	where	WRB	_	2	advmod	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	that	that	DT	_	4	det	_	O
+4	piece	piece	NN	_	2	nsubj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	shit	shit	NN	_	5	pobj	_	O
+7	@TheRevAl	@thereval	NNP	pos2=XX	8	compound	_	U-GPE
+8	😤😤	😤😤	NN	pos2=.	6	appos	_	O
+

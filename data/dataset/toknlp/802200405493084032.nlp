@@ -1,0 +1,17 @@
+1	Israeli	israeli	JJ	_	2	nmod	_	U-NORP
+2	officer	officer	NN	_	3	nsubj	_	O
+3	kills	kill	VBZ	_	0	root	_	O
+4	Palestinian	palestinian	JJ	pos2=NNP	3	dobj	_	U-NORP
+5	who	who	WP	_	6	nsubj	_	O
+6	tried	try	VBD	_	4	relcl	_	O
+7	to	to	TO	_	8	aux	_	O
+8	stab	stab	VB	_	6	xcomp	_	O
+9	him	him	PRP	_	8	dobj	_	O
+10	-	-	HYPH	pos2=:	11	punct	_	O
+11	police	police	NNS	pos2=NN	8	npadvmod	_	O
+12	|	|	NFP	pos2=-LRB-	16	punct	_	O
+13	https://t.co/ntZtazE43l	#hlink#	ADD	_	16	dep	_	O
+14	|	|	SYM	pos2=-RRB-	16	punct	_	O
+15	#Palestine	#palestine	NFP	pos2=ADD	16	punct	_	O
+16	#Israel	#israel	NNP	pos2=UH	3	dobj	_	O
+

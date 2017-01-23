@@ -1,0 +1,29 @@
+1	Funny	funny	JJ	pos2=NNP	2	nmod	_	O
+2	Leftys	lefty	NNPS	pos2=NNP	4	nsubj	_	U-PRODUCT
+3	are	be	VBP	_	4	aux	_	O
+4	wringing	wring	VBG	_	0	root	_	O
+5	hands	hand	NNS	_	4	dobj	_	O
+6	over	over	IN	pos2=RP	4	prep	_	O
+7	Trump	trump	NNP	_	10	poss	_	U-ORG
+8	's	's	POS	_	7	case	_	O
+9	transition	transition	NN	_	10	compound	_	O
+10	timetable	timetable	NN	_	6	pobj	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	If	if	IN	_	4	mark	_	O
+2	Hillary	hillary	NNP	_	4	nsubj	_	U-PERSON
+3	had	have	VBD	_	4	aux	_	O
+4	won	win	VBN	_	9	advcl	_	O
+5	her	her	PRP$	pos2=PRP	6	poss	_	O
+6	team	team	NN	_	4	dobj	_	O
+7	would	would	MD	_	9	aux	_	O
+8	be	be	VB	_	9	aux	_	O
+9	trying	try	VBG	_	0	root	_	O
+10	to	to	TO	_	11	aux	_	O
+11	awaken	awaken	VB	_	9	xcomp	_	O
+12	her	her	PRP	_	11	dobj	_	O
+13	from	from	IN	_	11	prep	_	O
+14	nap	nap	NN	_	15	compound	_	O
+15	time	time	NN	_	13	pobj	_	O
+16	.	.	.	_	9	punct	_	O
+

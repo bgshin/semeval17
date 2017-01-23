@@ -1,0 +1,9 @@
+1	Ricketts	ricketts	NNP	pos2=GW	3	compound	_	O
+2	Scores	score	NNPS	pos2=NNP	3	compound	_	O
+3	Cash	cash	NNP	_	0	root	_	O
+4	For	for	IN	_	3	prep	_	O
+5	Cubs	cub	NNPS	pos2=NNP	4	pobj	_	U-ORG
+6	..	..	.	pos2=,	3	punct	_	O
+
+1	https://t.co/hlidQlz4kd	#hlink#	ADD	_	0	root	_	U-ORG
+

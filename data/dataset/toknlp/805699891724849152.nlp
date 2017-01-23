@@ -1,0 +1,17 @@
+1	@GoGottaGoNow	@gogottagonow	SYM	pos2=NN	9	punct	_	O
+2	December	december	NNP	_	9	npadvmod	_	B-DATE
+3	19	0	CD	_	2	nmod	_	I-DATE
+4	,	,	,	_	2	punct	_	I-DATE
+5	2016	0	CD	pos2=PDT	2	npadvmod	_	L-DATE
+6	the	the	DT	_	8	det	_	O
+7	electoral	electoral	JJ	_	8	nmod	_	O
+8	college	college	NN	_	9	nsubj	_	O
+9	needs	need	VBZ	pos2=NNS	0	root	_	O
+10	that	that	DT	pos2=WDT	11	nsubj	_	O
+11	's	's	VBZ	_	9	ccomp	_	O
+12	when	when	WRB	_	15	advmod	_	O
+13	it	it	PRP	_	15	nsubj	_	O
+14	'll	will	MD	_	15	aux	_	O
+15	be	be	VB	_	11	advcl	_	O
+16	official	official	JJ	_	15	acomp	_	O
+

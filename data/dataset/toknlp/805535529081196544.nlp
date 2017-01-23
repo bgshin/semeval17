@@ -1,0 +1,12 @@
+1	Ashley	ashley	NNP	_	3	compound	_	B-PERSON
+2	Graham	graham	NNP	_	3	compound	_	L-PERSON
+3	Ai	ai	NNP	pos2=VBZ	5	nsubj	_	O
+4	n’t	not	RB	_	5	neg	_	O
+5	Shy	shy	JJ	pos2=VBD	0	root	_	O
+6	No	no	DT	pos2=NNP	7	neg	_	O
+7	More	more	RBR	pos2=JJR	5	advmod	_	O
+8	!	!	.	_	5	punct	_	O
+
+1	https://t.co/pvZivke4aZ	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/F4FWoiw6Qh	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,11 @@
+1	@smithy25142175	@smithy0	NN	pos2=LS	10	dep	_	O
+2	@PalestineFamily	@palestinefamily	RB	pos2=ADD	10	dep	_	O
+3	@Street2612Gregg	@street0gregg	NN	pos2=GW	10	dep	_	O
+4	#Palestine	#palestine	JJ	pos2=NN	10	dep	_	O
+5	link	link	NN	_	10	dep	_	O
+6	-	-	HYPH	pos2=:	10	punct	_	O
+7	==	==	NFP	pos2=SYM	10	punct	_	O
+8	>	>	GW	pos2=NFP	10	punct	_	O
+9	https://t.co/lpxoOz2pwF	#hlink#	ADD	pos2=GW	10	nmod	_	O
+10	https://t.co/vWdfuLhZz1	#hlink#	ADD	_	0	root	_	U-ORG
+

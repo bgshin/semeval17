@@ -1,0 +1,21 @@
+1	Watching	watch	VBG	_	0	root	_	O
+2	this	this	DT	_	6	det	_	O
+3	lit	light	VBN	pos2=VBD	6	nmod	_	O
+4	af	af	NN	pos2=IN	6	compound	_	O
+5	#ThankYouObama	#thankyouobama	NN	pos2=XX	6	compound	_	O
+6	concert	concert	NN	_	1	dobj	_	O
+7	special	special	JJ	pos2=NN	6	nmod	_	O
+8	on	on	IN	_	7	prep	_	O
+9	BET	bet	NN	pos2=NNP	8	pobj	_	O
+10	&	&	CC	_	7	cc	_	O
+11	getting	get	VBG	_	1	conj	_	O
+12	my	my	PRP$	_	14	poss	_	O
+13	entire	entire	JJ	_	14	nmod	_	O
+14	life	life	NN	_	11	dobj	_	O
+15	right	right	RB	_	16	advmod	_	O
+16	now	now	RB	_	11	advmod	_	O
+17	.	.	.	_	1	punct	_	O
+
+1	#ISeeYouBradleyCooper	#iseeyoubradleycooper	LS	pos2=NN	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

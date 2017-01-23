@@ -1,0 +1,25 @@
+1	my	my	PRP$	_	2	poss	_	O
+2	friends	friend	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	drunk	drunk	JJ	pos2=VBN	3	acomp	_	O
+5	off	off	IN	pos2=RP	4	prep	_	O
+6	of	of	IN	_	5	prep	_	O
+7	soju	soju	NN	pos2=NNP	6	pobj	_	O
+8	from	from	IN	_	4	prep	_	O
+9	gen	gen	NNP	pos2=NN	8	pobj	_	B-ORG
+10	&	&	CC	_	3	cc	_	I-ORG
+11	I	I	PRP	_	12	nsubj	_	L-ORG
+12	feel	feel	VBP	_	3	conj	_	O
+13	like	like	IN	_	12	prep	_	O
+14	a	a	DT	_	15	det	_	O
+15	mama	mama	NN	pos2=FW	13	pobj	_	O
+16	beaw	beaw	VBD	pos2=NN	12	punct	_	O
+17	driving	drive	VBG	_	16	xcomp	_	O
+18	my	my	PRP$	_	21	poss	_	O
+19	wittle	wittle	JJ	pos2=NNS	21	nmod	_	O
+20	beaw	beaw	PRP$	pos2=NN	21	poss	_	O
+21	cubs	cub	NNS	pos2=JJ	17	dobj	_	O
+22	home	home	RB	pos2=NN	17	advmod	_	O
+23	right	right	RB	pos2=JJ	24	advmod	_	O
+24	now🐻	now🐻	RB	pos2=.	17	advmod	_	O
+

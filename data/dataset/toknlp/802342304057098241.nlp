@@ -1,0 +1,27 @@
+1	@fishsports	@fishsports	UH	pos2=NNS	6	discourse	_	O
+2	@ArmandoSalguero	@armandosalguero	UH	pos2=ADD	6	discourse	_	O
+3	@BSO	@bso	NN	pos2=EX	6	nsubj	_	O
+4	Ca	can	MD	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	believe	believe	VB	_	0	root	_	O
+7	he	he	PRP	_	10	nsubj	_	O
+8	could	could	MD	_	10	aux	_	O
+9	n't	not	RB	_	10	neg	_	O
+10	find	find	VB	_	6	ccomp	_	O
+11	a	a	DT	_	14	det	_	O
+12	Joseph	joseph	NNP	_	13	compound	_	B-PERSON
+13	Stalin	stalin	NNP	_	14	compound	_	L-PERSON
+14	shirt	shirt	NN	_	10	dobj	_	O
+15	in	in	IN	_	14	prep	_	O
+16	San	san	NNP	_	17	compound	_	B-GPE
+17	Francisco	francisco	NNP	_	15	pobj	_	L-GPE
+18	.	.	.	_	6	punct	_	O
+
+1	Pelosi	pelosi	NNP	pos2=NN	4	nsubj	_	U-PERSON
+2	could	could	MD	_	4	aux	_	O
+3	probably	probably	RB	_	4	advmod	_	O
+4	lend	lend	VB	_	0	root	_	O
+5	him	him	PRP	_	4	dative	_	O
+6	one	#crd#	NN	pos2=CD	4	dobj	_	O
+7	.	.	.	_	4	punct	_	O
+

@@ -1,0 +1,18 @@
+1	Putin	putin	NNP	_	2	nsubj	_	U-PERSON
+2	calls	call	VBZ	_	0	root	_	O
+3	Saakashvili	saakashvili	NNP	_	5	poss	_	U-PERSON
+4	’s	's	POS	_	3	case	_	O
+5	appointment	appointment	NN	_	2	dobj	_	O
+6	as	as	IN	_	5	prep	_	O
+7	Odessa	odessa	NNP	_	8	compound	_	U-GPE
+8	governor	governor	NN	pos2=NNP	6	pobj	_	O
+9	‘	'	''	pos2=POS	10	punct	_	O
+10	spit	spit	NN	pos2=VB	2	oprd	_	O
+11	in	in	IN	_	10	prep	_	O
+12	Ukraine	ukraine	NNP	_	14	poss	_	U-GPE
+13	’s	's	POS	_	12	case	_	O
+14	face	face	NN	_	11	pobj	_	O
+15	’	'	''	pos2=GW	17	punct	_	O
+16	https://t.co/J2RyKnvbes	#hlink#	ADD	_	17	nmod	_	O
+17	https://t.co/iG3fTfl5lt	#hlink#	ADD	_	2	dep	_	U-ORG
+

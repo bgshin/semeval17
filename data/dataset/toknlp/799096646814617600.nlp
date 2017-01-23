@@ -1,0 +1,25 @@
+1	same	same	JJ	_	2	nmod	_	O
+2	ppl	ppl	NNS	pos2=NN	4	nsubj	_	O
+3	protesting	protest	VBG	pos2=NN	2	acl	_	O
+4	are	be	VBP	_	0	root	_	O
+5	overly	overly	RB	_	6	advmod	_	O
+6	emotional	emotional	JJ	_	8	nmod	_	O
+7	nu	nu	NN	pos2=NNS	8	compound	_	O
+8	fags	fag	NNS	pos2=NN	4	attr	_	O
+9	that	that	WDT	_	10	nsubj	_	O
+10	had	have	VBD	_	8	relcl	_	O
+11	their	their	PRP$	_	12	poss	_	O
+12	life	life	NN	_	13	nsubj	_	O
+13	saved	save	VBN	_	10	ccomp	_	O
+14	by	by	IN	_	13	agent	_	O
+15	a	a	DT	_	17	det	_	O
+16	screamo	screamo	NN	_	17	compound	_	O
+17	band	band	NN	pos2=CC	14	pobj	_	O
+18	i	I	PRP	_	19	nsubj	_	O
+19	hope	hope	VBP	_	17	relcl	_	O
+20	they	they	PRP	_	22	nsubjpass	_	O
+21	get	get	VBP	pos2=VB	22	auxpass	_	O
+22	run	run	VBN	pos2=NN	19	ccomp	_	O
+23	over	over	IN	pos2=RP	22	prep	_	O
+24	#TrumpTransitionTeam	#trumptransitionteam	NNP	pos2=ADD	23	pobj	_	O
+

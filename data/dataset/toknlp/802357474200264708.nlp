@@ -1,0 +1,21 @@
+1	On	on	IN	_	8	prep	_	O
+2	Air	air	NN	pos2=NNP	1	pobj	_	O
+3	:	:	:	_	8	punct	_	O
+4	Bob	bob	NNP	_	7	compound	_	B-PERSON
+5	Dylan	dylan	NNP	_	7	compound	_	I-PERSON
+6	-	-	HYPH	pos2=:	7	punct	_	I-PERSON
+7	Everything	everything	NNP	pos2=NN	8	nsubj	_	L-PERSON
+8	Is	be	VBZ	_	0	root	_	O
+9	Broken	broken	JJ	pos2=VBN	8	acomp	_	O
+10	.	.	.	_	8	punct	_	O
+
+1	Listen	listen	VB	_	0	root	_	O
+2	now	now	RB	_	1	advmod	_	O
+3	AAC	aac	NN	pos2=NNP	1	vocative	_	O
+4	:	:	:	_	1	punct	_	O
+5	https://t.co/qxw8M4lhpo	#hlink#	ADD	pos2=NN	0	root	_	O
+6	or	or	CC	_	5	cc	_	O
+7	MP3	mp0	NN	_	9	dep	_	O
+8	:	:	:	_	9	punct	_	O
+9	https://t.co/YY1IT57txE	#hlink#	ADD	_	1	dep	_	O
+

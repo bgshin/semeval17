@@ -1,0 +1,20 @@
+1	#FrankJackson	#frankjackson	NNP	pos2=XX	3	compound	_	O
+2	Grayson	grayson	NNP	_	3	compound	_	O
+3	Allen	allen	NNP	_	9	nsubj	_	O
+4	&	&	CC	_	3	cc	_	O
+5	Frank	frank	NNP	_	8	compound	_	B-PERSON
+6	Jackson	jackson	NNP	_	8	compound	_	I-PERSON
+7	Duke	duke	NNP	_	8	compound	_	L-PERSON
+8	Full	full	NNP	pos2=JJ	3	conj	_	O
+9	Highlights	highlight	VBZ	pos2=NNPS	0	root	_	O
+10	11.15.16	0	CD	_	9	dobj	_	U-CARDINAL
+11	.	.	.	_	9	punct	_	O
+
+1	vs	vs	CC	pos2=IN	7	punct	_	O
+2	Kansas	kansas	NNP	_	7	dep	_	U-GPE
+3	-	-	HYPH	pos2=,	2	punct	_	O
+4	23	0	CD	pos2=GW	2	nmod	_	O
+5	…	…	NFP	pos2=NNS	7	punct	_	O
+6	https://t.co/TQrtLTobuG	#hlink#	ADD	_	7	nmod	_	O
+7	https://t.co/SF1DuAnL6c	#hlink#	ADD	_	0	root	_	U-ORG
+

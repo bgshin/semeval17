@@ -1,0 +1,24 @@
+1	That	that	DT	_	2	det	_	O
+2	time	time	NN	_	4	npadvmod	_	O
+3	@Snowden	@snowden	NNP	pos2=CD	4	nsubj	_	U-ORG
+4	arrived	arrive	VBD	_	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	#Russia	#russia	NNP	pos2=NN	5	pobj	_	U-GPE
+7	and	and	CC	_	6	cc	_	O
+8	the	the	DT	_	9	det	_	O
+9	FSB	fsb	NNP	pos2=NN	12	poss	_	U-ORG
+10	's	's	POS	_	9	case	_	O
+11	Olga	olga	NNP	_	12	compound	_	B-PERSON
+12	Kostina	kostina	NNP	_	6	conj	_	L-PERSON
+13	was	be	VBD	_	14	aux	_	O
+14	waiting	wait	VBG	_	4	advcl	_	O
+15	at	at	IN	_	14	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	airport	airport	NN	_	15	pobj	_	O
+18	to	to	TO	_	19	aux	_	O
+19	facilitate	facilitate	VB	_	14	advcl	_	O
+20	his	his	PRP$	_	22	poss	_	O
+21	defec	defec	JJ	pos2=NNS	22	nmod	_	O
+22	…	…	NFP	pos2=-LRB-	19	dobj	_	O
+23	https://t.co/0GXELmoCKp	#hlink#	ADD	_	19	dobj	_	O
+

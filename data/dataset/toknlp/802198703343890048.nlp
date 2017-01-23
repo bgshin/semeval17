@@ -1,0 +1,5 @@
+1	24	0	CD	_	2	nmod	_	B-TIME
+2	hours	hour	NNS	_	0	root	_	L-TIME
+3	till	till	IN	_	2	prep	_	O
+4	#TheWalkingDead	#thewalkingdead	NN	pos2=NNS	3	pobj	_	O
+

@@ -1,0 +1,22 @@
+1	@Eyes_of_justice	@eyes_of_justice	NNP	pos2=NN	3	compound	_	U-GPE
+2	@Travelmimi222	@travelmimi0	NN	pos2=NNS	3	compound	_	O
+3	@WDFx2EU8	@wdfx0eu0	NN	pos2=XX	8	nsubj	_	O
+4	@georgesoros	@georgesoros	IN	pos2=NNPS	3	prep	_	O
+5	Pres.	pres.	NNP	pos2=FW	6	compound	_	B-PERSON
+6	Trump	trump	NNP	pos2=NN	4	pobj	_	L-PERSON
+7	should	should	MD	_	8	aux	_	O
+8	detain	detain	VB	_	0	root	_	O
+9	,	,	,	_	8	punct	_	O
+10	&	&	CC	_	8	cc	_	O
+11	hand	hand	VB	_	8	conj	_	O
+12	him	him	PRP	_	11	dobj	_	O
+13	over	over	RP	_	11	prt	_	O
+14	to	to	IN	_	11	prep	_	O
+15	Putin	putin	NNP	_	14	pobj	_	U-PERSON
+16	in	in	IN	_	11	prep	_	O
+17	the	the	DT	_	18	det	_	O
+18	name	name	NN	_	16	pobj	_	O
+19	of	of	IN	_	18	prep	_	O
+20	justice	justice	NN	_	19	pobj	_	O
+21	...	..	.	pos2=,	8	punct	_	O
+

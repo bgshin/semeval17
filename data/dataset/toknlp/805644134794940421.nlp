@@ -1,0 +1,21 @@
+1	More	more	JJR	pos2=RBR	8	advmod	_	O
+2	Pseudo	pseudo	NNP	pos2=JJ	3	compound	_	O
+3	Science	science	NNP	pos2=NN	11	nmod	_	O
+4	"	"	``	pos2=''	8	punct	_	O
+5	Vaccines	vaccine	NNS	_	8	nsubj	_	O
+6	Do	do	VBP	pos2=VB	8	aux	_	O
+7	Not	not	RB	_	8	neg	_	O
+8	Cause	cause	VB	_	11	nmod	_	O
+9	Autism	autism	NN	pos2=NNP	8	dobj	_	O
+10	"	"	''	pos2=``	11	punct	_	O
+11	Study	study	NN	pos2=NNP	0	root	_	O
+12	...	..	.	pos2=,	11	punct	_	O
+
+1	-	-	SYM	pos2=:	2	punct	_	O
+2	Autism	autism	NN	pos2=NNP	0	root	_	O
+3	Raw	raw	JJ	pos2=NNP	4	nmod	_	O
+4	Data	datum	NNS	pos2=NNP	7	nmod	_	O
+5	https://t.co/w0l8RIvMt1	#hlink#	ADD	pos2=VBP	4	acl	_	O
+6	#causesmatter	#causesmatter	-RRB-	pos2=IN	2	punct	_	O
+7	#vaxxed	#vaxxed	UH	pos2=-RRB-	2	discourse	_	O
+

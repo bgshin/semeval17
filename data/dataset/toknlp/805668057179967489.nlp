@@ -1,0 +1,16 @@
+1	A	a	DT	_	3	det	_	O
+2	new	new	JJ	_	3	nmod	_	O
+3	report	report	NN	_	4	nsubj	_	O
+4	finds	find	VBZ	_	0	root	_	O
+5	that	that	IN	pos2=DT	7	mark	_	O
+6	immigration	immigration	NN	_	7	nsubj	_	O
+7	is	be	VBZ	_	4	ccomp	_	O
+8	no	no	DT	_	9	det	_	O
+9	evidence	evidence	NN	_	7	attr	_	O
+10	to	to	TO	pos2=IN	11	aux	_	O
+11	back	back	VB	pos2=RB	9	relcl	_	O
+12	Trump	trump	NNP	pos2=NN	14	poss	_	U-ORG
+13	's	's	POS	_	12	case	_	O
+14	claim	claim	NN	_	11	dobj	_	O
+15	.	.	.	_	4	punct	_	O
+

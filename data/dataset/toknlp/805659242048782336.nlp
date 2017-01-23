@@ -1,0 +1,27 @@
+1	Adios	adios	NNP	pos2=NNS	2	compound	_	B-PERSON
+2	Fidel	fidel	NNP	_	0	root	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	hola	hola	NNP	pos2=XX	6	compound	_	B-PERSON
+5	Cuba	cuba	NNP	_	6	compound	_	I-PERSON
+6	libre	libre	NNP	pos2=FW	2	npadvmod	_	L-PERSON
+7	?	?	.	_	2	punct	_	O
+
+1	:	:	:	pos2=SYM	18	punct	_	O
+2	UNITED	united	NNP	pos2=JJ	3	compound	_	U-ORG
+3	NATIONS	nation	NNS	pos2=NNP	18	dep	_	O
+4	—	-	:	pos2=.	18	punct	_	O
+5	When	when	WRB	pos2=NNP	8	advmod	_	O
+6	Fidel	fidel	NNP	_	7	compound	_	B-PERSON
+7	Castro	castro	NNP	_	8	nsubj	_	L-PERSON
+8	died	die	VBD	_	3	advcl	_	O
+9	at	at	IN	_	8	prep	_	O
+10	age	age	NN	_	9	pobj	_	B-DATE
+11	90	0	CD	_	10	nmod	_	L-DATE
+12	,	,	,	_	8	punct	_	O
+13	perhaps	perhaps	RB	_	18	advmod	_	O
+14	the	the	DT	_	16	det	_	O
+15	greatest	great	JJS	_	16	nmod	_	O
+16	achievement	achievement	NN	_	18	dep	_	O
+17	…	…	NFP	pos2=,	18	punct	_	O
+18	https://t.co/br49lqKjg5	#hlink#	ADD	_	0	root	_	O
+

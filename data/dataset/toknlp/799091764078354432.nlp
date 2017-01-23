@@ -1,0 +1,31 @@
+1	The	the	DT	_	3	det	_	B-ORG
+2	New	new	NNP	_	3	compound	_	I-ORG
+3	Yorker	yorker	NNP	_	0	root	_	L-ORG
+4	,	,	,	_	3	punct	_	O
+5	Nov	nov	NNP	_	3	npadvmod	_	B-DATE
+6	16	0	CD	_	5	nmod	_	I-DATE
+7	,	,	,	_	5	punct	_	I-DATE
+8	2015	0	CD	_	5	npadvmod	_	L-DATE
+9	:	:	:	_	13	punct	_	O
+10	"	"	``	_	13	punct	_	O
+11	The	the	DT	_	12	det	_	O
+12	Hispanics	hispanic	NNPS	pos2=NNP	13	nsubj	_	U-NORP
+13	love	love	VBP	pos2=VBD	0	root	_	O
+14	me	me	PRP	_	13	dobj	_	O
+15	,	,	,	_	13	punct	_	O
+16	"	"	``	pos2=''	13	punct	_	O
+17	despite	despite	IN	_	12	prep	_	O
+18	that	that	IN	pos2=DT	20	mark	_	O
+19	he	he	PRP	_	20	nsubj	_	O
+20	proposes	propose	VBZ	_	17	pcomp	_	O
+21	building	build	VBG	_	20	xcomp	_	O
+22	a	a	DT	_	23	det	_	O
+23	wall	wall	NN	_	21	dobj	_	O
+24	on	on	IN	_	21	prep	_	O
+25	the	the	DT	_	27	det	_	O
+26	Mexican	mexican	JJ	_	27	nmod	_	U-NORP
+27	border	border	NN	_	24	pobj	_	O
+28	....	..	.	pos2=,	13	punct	_	O
+
+1	#DonaldTrumpQuotes	#donaldtrumpquotes	NNS	pos2=ADD	0	root	_	O
+

@@ -1,0 +1,23 @@
+1	#UK	#uk	NN	pos2=JJ	2	compound	_	O
+2	gov	gov	NN	_	3	nsubj	_	O
+3	rejects	reject	VBZ	_	0	root	_	O
+4	critics	critic	NNS	_	17	nsubj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	#Libya	#libya	NNP	pos2=VBG	7	compound	_	U-ORG
+7	attacks	attack	NNS	_	10	poss	_	O
+8	'	'	POS	pos2=``	7	case	_	O
+9	protecting	protect	VBG	_	5	pcomp	_	O
+10	civilians	civilian	NNS	_	14	poss	_	O
+11	'	'	POS	pos2=''	10	case	_	O
+12	9700	0	CD	_	14	nmod	_	U-DATE
+13	#NATO	#nato	NNP	pos2=NN	14	compound	_	U-ORG
+14	sorties	sortie	NNS	_	9	dobj	_	O
+15	7700	0	CD	_	16	nmod	_	U-CARDINAL
+16	bombs	bomb	NNS	_	14	appos	_	O
+17	dropped	drop	VBN	pos2=VBD	3	ccomp	_	O
+18	but	but	CC	_	3	cc	_	O
+19	only	only	RB	_	20	advmod	_	B-CARDINAL
+20	60	0	CD	pos2=GW	22	dep	_	L-CARDINAL
+21	-…	-…	:	pos2=NFP	20	punct	_	O
+22	https://t.co/zflnAGG1tD	#hlink#	ADD	_	3	conj	_	O
+

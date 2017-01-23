@@ -1,0 +1,19 @@
+1	#Cards	#cards	NNP	pos2=NNS	12	nsubj	_	O
+2	2011	0	CD	_	1	npadvmod	_	U-DATE
+3	Panini	panini	NNP	_	7	compound	_	B-ORG
+4	Gold	gold	NNP	pos2=NN	7	compound	_	I-ORG
+5	Standard	standard	NNP	pos2=JJ	7	compound	_	I-ORG
+6	#TimTebow	#timtebow	NNP	pos2=XX	7	compound	_	I-ORG
+7	Auto	auto	NNP	pos2=NN	1	appos	_	L-ORG
+8	with	with	IN	_	7	prep	_	O
+9	Rare	rare	NNP	pos2=JJ	10	compound	_	O
+10	Inscription	inscription	NN	pos2=NNP	8	pobj	_	O
+11	"	"	``	_	10	punct	_	O
+12	Go	go	VB	pos2=NNP	0	root	_	O
+13	#Broncos	#broncos	RB	pos2=NNP	12	advmod	_	O
+14	"	"	''	pos2=GW	12	punct	_	O
+15	1/5	0	CD	pos2=-LRB-	16	dep	_	B-CARDINAL
+16	https://t.co/u8HWgz4Ha9	#hlink#	ADD	_	12	dep	_	L-CARDINAL
+17	#Card	#card	-RRB-	pos2=NNP	16	punct	_	O
+18	#Auction	#auction	NN	pos2=ADD	12	vocative	_	O
+

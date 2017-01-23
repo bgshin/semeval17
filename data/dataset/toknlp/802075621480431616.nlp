@@ -1,0 +1,13 @@
+1	Watch	watch	VB	pos2=NNP	0	root	_	O
+2	The	the	DT	_	9	det	_	O
+3	new	new	JJ	_	9	nmod	_	O
+4	Tesla	tesla	NNP	_	8	compound	_	O
+5	Model	model	NNP	_	8	compound	_	B-ORG
+6	S	s	NNP	pos2=POS	8	compound	_	I-ORG
+7	Electric	electric	NNP	pos2=JJ	8	compound	_	L-ORG
+8	GT	gt	NNP	pos2=NN	9	compound	_	U-PRODUCT
+9	car	car	NN	_	1	dobj	_	O
+10	in	in	IN	_	1	prep	_	O
+11	action	action	NN	_	10	pobj	_	O
+12	https://t.co/mv2I8cp7Ts	#hlink#	ADD	_	9	appos	_	O
+

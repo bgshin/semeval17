@@ -1,0 +1,27 @@
+1	@DanielJHannan	@danieljhannan	NNP	pos2=ADD	4	nmod	_	O
+2	Same	same	JJ	pos2=NNP	4	nmod	_	O
+3	lib	lib	NN	pos2=XX	4	compound	_	O
+4	whingers	whingers	NNS	pos2=XX	21	nsubj	_	O
+5	who	who	WP	_	6	nsubj	_	O
+6	say	say	VBP	_	4	relcl	_	O
+7	Hillary	hillary	NNP	_	9	nsubj	_	U-PERSON
+8	should	should	MD	_	9	aux	_	O
+9	be	be	VB	_	6	ccomp	_	O
+10	POTUS	potus	NNP	pos2=NN	9	attr	_	U-ORG
+11	because	because	IN	_	13	mark	_	O
+12	she	she	PRP	_	13	nsubj	_	O
+13	won	win	VBD	_	9	advcl	_	O
+14	the	the	DT	_	17	det	_	O
+15	"	"	``	_	17	punct	_	O
+16	popular	popular	JJ	_	17	nmod	_	O
+17	vote	vote	NN	_	13	dobj	_	O
+18	"	"	''	_	17	punct	_	O
+19	wo	wo	MD	_	21	aux	_	O
+20	n't	not	RB	_	21	neg	_	O
+21	accept	accept	VB	_	0	root	_	O
+22	the	the	DT	_	25	det	_	O
+23	Brexit	brexit	NNP	pos2=RBS	25	nmod	_	U-CARDINAL
+24	popular	popular	JJ	_	25	nmod	_	O
+25	vote	vote	NN	_	21	dobj	_	O
+26	.	.	.	_	21	punct	_	O
+

@@ -1,0 +1,24 @@
+1	Church	church	NN	pos2=NNP	2	compound	_	O
+2	blocks	block	NNS	pos2=VBZ	4	nmod	_	O
+3	sexual	sexual	JJ	_	4	nmod	_	O
+4	contraception	contraception	NN	_	0	root	_	O
+5	and	and	CC	_	4	cc	_	O
+6	education	education	NN	_	4	conj	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	Government	government	NN	pos2=NNP	2	nsubj	_	O
+2	blocks	block	VBZ	pos2=NNS	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	Death	death	NN	pos2=NNP	5	compound	_	O
+5	Penalty	penalty	NN	pos2=NNP	2	dobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	No	no	DT	_	2	det	_	O
+2	wonder	wonder	NN	_	0	root	_	O
+3	there	there	EX	_	4	expl	_	O
+4	's	's	VBZ	_	2	ccomp	_	O
+5	a	a	DT	_	7	det	_	O
+6	population	population	NN	_	7	compound	_	O
+7	bubble	bubble	NN	_	4	attr	_	O
+8	.	.	.	_	2	punct	_	O
+

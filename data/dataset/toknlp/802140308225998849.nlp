@@ -1,0 +1,27 @@
+1	@	@	SYM	_	7	punct	_	O
+2	21WIRE	0wire	NN	_	7	nsubj	_	O
+3	Not	not	RB	_	7	preconj	_	O
+4	only	only	RB	_	3	advmod	_	O
+5	will	will	MD	_	7	aux	_	O
+6	it	it	PRP	_	7	nsubj	_	O
+7	restore	restore	VB	_	0	root	_	O
+8	Russia	russia	NNP	_	10	compound	_	U-GPE
+9	-	-	HYPH	_	10	punct	_	O
+10	USA	usa	NNP	_	11	compound	_	O
+11	relations	relation	NNS	_	7	dobj	_	O
+12	in	in	IN	_	7	prep	_	O
+13	a	a	DT	_	14	det	_	O
+14	heartbeat	heartbeat	NN	_	12	pobj	_	O
+15	it	it	PRP	_	18	nsubj	_	O
+16	will	will	MD	_	18	aux	_	O
+17	also	also	RB	_	18	advmod	_	O
+18	Destroy	destroy	VB	_	7	conj	_	O
+19	Porky	porky	NNP	_	20	compound	_	B-PERSON
+20	Poroshenko	poroshenko	NNP	_	18	dobj	_	L-PERSON
+21	in	in	IN	_	18	prep	_	O
+22	Ukraine	ukraine	NNP	_	21	pobj	_	U-GPE
+23	.	.	.	_	18	punct	_	O
+
+1	#MH17	#mh0	NN	pos2=NNS	2	compound	_	O
+2	#MH17truth	#mh0truth	NN	pos2=ADD	0	root	_	O
+

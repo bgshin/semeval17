@@ -1,0 +1,16 @@
+1	#ISIS	#isis	NN	pos2=NNS	3	nsubj	_	O
+2	:	:	:	_	3	punct	_	O
+3	Islamic	islamic	JJ	_	0	root	_	U-NORP
+4	or	or	CC	_	3	cc	_	O
+5	not	not	RB	_	3	conj	_	O
+6	?	?	.	_	3	punct	_	O
+
+1	#isis	#isis	UH	pos2=NN	8	discourse	_	O
+2	#tcot	#tcot	UH	pos2=IN	8	discourse	_	O
+3	#trump	#trump	UH	pos2=VB	8	discourse	_	O
+4	#maga	#maga	UH	pos2=FW	8	discourse	_	O
+5	#isis	#isis	UH	pos2=GW	8	nmod	_	O
+6	#tcot	#tcot	GW	pos2=UH	8	nmod	_	O
+7	https://t.co/KymcY3pWRk	#hlink#	ADD	_	8	nmod	_	O
+8	https://t.co/kQHuq1bees	#hlink#	ADD	_	0	root	_	U-ORG
+

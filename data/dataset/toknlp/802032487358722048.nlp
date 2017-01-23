@@ -1,0 +1,21 @@
+1	@SenWarren2020	@senwarren0	NN	pos2=ADD	7	dep	_	O
+2	@elizabethforma	@elizabethforma	UH	pos2=NN	7	discourse	_	O
+3	@SenatorWarren	@senatorwarren	NNP	pos2=ADD	4	compound	_	O
+4	Senator	senator	NNP	_	5	compound	_	O
+5	Warren	warren	NNP	_	7	vocative	_	U-PERSON
+6	please	please	UH	_	7	discourse	_	O
+7	get	get	VB	_	0	root	_	O
+8	out	out	RP	pos2=RB	7	prt	_	O
+9	to	to	IN	pos2=TO	7	prep	_	O
+10	#StandingRock	#standingrock	VB	pos2=ADD	9	pobj	_	O
+11	and	and	CC	_	10	cc	_	O
+12	make	make	VB	pos2=VBP	10	conj	_	O
+13	sttmnt	sttmnt	NN	pos2=NNS	12	dobj	_	O
+14	.	.	.	_	7	punct	_	O
+
+1	#NoDAPL	#nodapl	NN	pos2=ADD	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	#Bernie	#bernie	NNP	pos2=PRP	2	attr	_	U-ORG
+4	alone	alone	RB	pos2=JJ	2	acomp	_	O
+5	??	??	.	_	2	punct	_	O
+

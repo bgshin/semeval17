@@ -1,0 +1,18 @@
+1	Samsung	samsung	NNP	_	2	compound	_	B-ORG
+2	Galaxy	galaxy	NNP	_	3	compound	_	L-ORG
+3	Note	note	NN	pos2=NNP	5	nsubj	_	O
+4	7	0	CD	_	3	npadvmod	_	O
+5	replaced	replace	VBN	pos2=VBD	0	root	_	O
+6	as	as	IN	_	5	prep	_	O
+7	part	part	NN	_	6	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	company	company	NN	_	11	poss	_	O
+10	's	's	POS	_	9	case	_	O
+11	programme	programme	NN	_	8	pobj	_	O
+12	explodes	explode	VBZ	pos2=NNS	5	conj	_	O
+13	on	on	IN	_	12	prep	_	O
+14	plane	plane	NN	_	13	pobj	_	O
+15	https://t.co/AVp00W50gm	#hlink#	ADD	pos2=NN	11	appos	_	O
+16	via	via	IN	_	12	prep	_	O
+17	@Independent	@independent	NNP	pos2=NN	16	pobj	_	O
+

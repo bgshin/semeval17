@@ -1,0 +1,21 @@
+1	Hopefully	hopefully	RB	_	3	advmod	_	O
+2	Venezuelans	venezuelan	NNPS	pos2=VBZ	3	nsubj	_	U-NORP
+3	free	free	VBP	pos2=JJ	0	root	_	O
+4	themselves	themselves	PRP	pos2=NNS	3	dobj	_	O
+5	of	of	IN	_	3	prep	_	O
+6	Maduro	maduro	NNP	_	5	pobj	_	U-PERSON
+7	now	now	RB	_	3	advmod	_	O
+8	that	that	IN	_	10	mark	_	O
+9	Fidel	fidel	NNP	_	10	nsubj	_	U-PERSON
+10	is	be	VBZ	_	7	ccomp	_	O
+11	dead	dead	JJ	pos2=VBN	10	acomp	_	O
+12	so	so	IN	pos2=RB	15	mark	_	O
+13	they	they	PRP	_	15	nsubj	_	O
+14	can	can	MD	_	15	aux	_	O
+15	eat	eat	VB	_	10	advcl	_	O
+16	and	and	CC	_	15	cc	_	O
+17	live	live	VB	_	15	conj	_	O
+18	with	with	IN	_	17	prep	_	O
+19	dignity	dignity	NN	_	18	pobj	_	O
+20	https://t.co/YyVH0FNxHH	#hlink#	ADD	pos2=NN	19	appos	_	O
+

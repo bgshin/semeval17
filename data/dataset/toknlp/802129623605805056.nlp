@@ -1,0 +1,19 @@
+1	Foreign	foreign	NNP	pos2=JJ	2	compound	_	O
+2	Minister	minister	NNP	_	4	compound	_	O
+3	N.	n.	NNP	_	4	compound	_	B-PERSON
+4	Kotzias	kotzias	NNP	_	6	nsubj	_	L-PERSON
+5	to	to	TO	_	6	aux	_	O
+6	visit	visit	VB	_	0	root	_	O
+7	#Libya	#libya	NNP	pos2=NNS	6	dobj	_	U-GPE
+8	on	on	IN	_	6	prep	_	O
+9	Monday	monday	NNP	_	8	pobj	_	U-DATE
+10	,	,	,	_	11	punct	_	O
+11	announces	announce	VBZ	_	0	root	_	O
+12	the	the	DT	_	13	det	_	B-ORG
+13	Ministry	ministry	NNP	_	11	dobj	_	I-ORG
+14	of	of	IN	_	13	prep	_	I-ORG
+15	#ForeignAffairs	#foreignaffairs	NNPS	pos2=NNP	14	pobj	_	I-ORG
+16	of	of	IN	_	15	prep	_	I-ORG
+17	#Greece	#greece	NNP	pos2=ADD	16	pobj	_	L-ORG
+18	https://t.co/ZyIZ4hqRhI	#hlink#	ADD	_	13	appos	_	O
+

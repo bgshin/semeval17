@@ -1,0 +1,21 @@
+1	#Aztecas	#aztecas	NNS	pos2=NNP	4	compound	_	O
+2	#Maya	#maya	NNP	pos2=XX	4	compound	_	B-PERSON
+3	#Indigenous	#indigenous	NNP	pos2=POS	4	compound	_	I-PERSON
+4	Peruanos	peruanos	NNP	_	0	root	_	L-PERSON
+5	.	.	.	_	4	punct	_	O
+
+1	Love	love	VB	pos2=VBP	0	root	_	O
+2	it	it	PRP	_	1	dobj	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	#DAPL	#dapl	NN	pos2=NNP	2	nsubj	_	O
+2	Shows	show	VBZ	pos2=NNP	0	root	_	O
+3	What	what	WP	_	4	nsubj	_	O
+4	Happens	happen	VBZ	_	2	ccomp	_	O
+5	When	when	WRB	_	10	advmod	_	O
+6	Indigenous	indigenous	JJ	pos2=NNP	10	nmod	_	U-NORP
+7	Communities	community	NNPS	pos2=NNS	10	nmod	_	O
+8	Unite	unite	NNP	pos2=GW	10	nmod	_	O
+9	-	-	HYPH	pos2=:	10	punct	_	O
+10	https://t.co/cv65Bu9dHB	#hlink#	ADD	pos2=NNP	0	root	_	O
+

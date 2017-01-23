@@ -1,0 +1,26 @@
+1	@abcnewsNT	@abcnewsnt	NNP	pos2=ADD	2	compound	_	O
+2	Helen	helen	NNP	_	3	nsubj	_	U-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	rabid	rabid	JJ	_	9	nmod	_	O
+5	feminist	feminist	JJ	_	9	nmod	_	O
+6	liar	liar	NN	pos2=RB	8	npadvmod	_	O
+7	-	-	HYPH	pos2=,	8	punct	_	O
+8	vulnerable	vulnerable	JJ	_	9	nmod	_	O
+9	children	child	NNS	_	10	nsubj	_	O
+10	denied	deny	VBD	pos2=VBN	3	conj	_	O
+11	hugs	hug	NNS	_	10	dobj	_	O
+12	by	by	IN	_	11	prep	_	O
+13	male	male	JJ	_	14	nmod	_	O
+14	carers	carer	NNS	_	12	pobj	_	O
+15	?	?	.	_	10	punct	_	O
+
+1	Oh	oh	UH	_	2	discourse	_	O
+2	wait	wait	VB	pos2=NN	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	no	no	DT	_	5	det	_	O
+5	robots	robot	NNS	_	6	nsubj	_	O
+6	available	available	JJ	_	2	ccomp	_	O
+7	for	for	IN	_	6	prep	_	O
+8	caring	care	VBG	pos2=NN	7	pcomp	_	O
+9	.	.	.	_	2	punct	_	O
+

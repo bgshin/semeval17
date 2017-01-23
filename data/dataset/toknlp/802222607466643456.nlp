@@ -1,0 +1,18 @@
+1	Ukraine	ukraine	NNP	_	2	compound	_	U-GPE
+2	Saakashvili	saakashvili	NNP	_	3	nsubj	_	U-PERSON
+3	accuses	accuse	VBZ	_	0	root	_	O
+4	authorities	authority	NNS	_	3	dobj	_	O
+5	to	to	IN	pos2=TO	3	prep	_	O
+6	trying	try	VBG	_	5	pcomp	_	O
+7	to	to	TO	_	8	aux	_	O
+8	disrupt	disrupt	VB	_	6	xcomp	_	O
+9	his	his	PRP$	_	11	poss	_	O
+10	planned	plan	VBN	pos2=JJ	11	nmod	_	O
+11	protest	protest	NN	_	8	dobj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	Kyiv	kyiv	NNP	_	16	compound	_	O
+14	-	-	HYPH	_	16	punct	_	O
+15	Kyiv	kyiv	NNP	_	16	compound	_	O
+16	Post	post	NNP	pos2=GW	12	pobj	_	O
+17	https://t.co/XQUQwyv30F	#hlink#	ADD	_	15	appos	_	O
+

@@ -1,0 +1,14 @@
+1	Aleppo	aleppo	NNP	pos2=FW	13	dep	_	U-GPE
+2	:	:	:	_	13	punct	_	O
+3	24	0	CD	_	4	nmod	_	U-CARDINAL
+4	civilians	civilian	NNS	_	13	nsubj	_	O
+5	killed	kill	VBN	_	4	acl	_	O
+6	by	by	IN	_	5	agent	_	O
+7	Assad	assad	NNP	_	9	advmod	_	B-NORP
+8	-	-	HYPH	_	9	punct	_	I-NORP
+9	Russian	russian	JJ	_	10	nmod	_	L-NORP
+10	attacks	attack	NNS	_	6	pobj	_	O
+11	on	on	IN	_	10	prep	_	O
+12	Sunday	sunday	NNP	_	11	pobj	_	O
+13	https://t.co/HzWg1V9eRJ	#hlink#	ADD	_	0	root	_	O
+

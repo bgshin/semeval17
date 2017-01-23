@@ -1,0 +1,20 @@
+1	COPS	cop	NNS	_	4	nsubjpass	_	O
+2	ARE	be	VBP	_	4	aux	_	O
+3	BEING	be	VBG	_	4	auxpass	_	O
+4	ASSASSINATED	assassinate	VBN	_	0	root	_	O
+5	RIGHT	right	JJ	pos2=NN	3	acomp	_	O
+6	AND	and	CC	_	4	cc	_	O
+7	LEFT@georgesoros	left@georgesoros	NNP	pos2=NNS	8	nsubj	_	U-PERSON
+8	gives	give	VBZ	_	4	conj	_	O
+9	$	$	$	_	11	qmod	_	B-MONEY
+10	70	0	CD	_	11	compound	_	I-MONEY
+11	M	m	CD	pos2=NN	8	dobj	_	L-MONEY
+12	TO	to	TO	pos2=IN	13	aux	_	O
+13	FUND	fund	VB	pos2=NN	8	advcl	_	O
+14	#BlackLivesMatter	#blacklivesmatter	NNP	pos2=RB	16	compound	_	O
+15	TERRORISMyet	terrorismyet	NNP	pos2=ADD	16	compound	_	O
+16	@BarackObama	@barackobama	NNP	pos2=WP	17	nsubj	_	O
+17	BLAMES	blame	VBZ	_	8	conj	_	O
+18	THE	the	DT	_	19	det	_	O
+19	INTERNET	internet	NN	_	17	dobj	_	O
+

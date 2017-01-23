@@ -1,0 +1,14 @@
+1	Not	not	RB	_	3	neg	_	O
+2	so	so	RB	_	3	advmod	_	O
+3	sure	sure	JJ	_	0	root	_	O
+4	that	that	IN	_	9	mark	_	O
+5	David	david	NNP	_	6	compound	_	B-PERSON
+6	Blaine	blaine	NNP	_	9	nsubjpass	_	L-PERSON
+7	can	can	MD	_	9	aux	_	O
+8	be	be	VB	_	9	auxpass	_	O
+9	trusted	trust	VBN	_	3	ccomp	_	O
+10	!!	!!	.	_	3	punct	_	O
+
+1	Important	important	JJ	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+

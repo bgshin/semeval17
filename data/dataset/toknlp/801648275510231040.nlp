@@ -1,0 +1,22 @@
+1	@Devon_Stone8	@devon_stone0	NN	pos2=ADD	2	compound	_	O
+2	@Tarheel_Sports	@tarheel_sports	NNS	pos2=NNPS	7	nsubj	_	O
+3	_	_	SYM	pos2=''	2	punct	_	O
+4	@unc_tarheelfan	@unc_tarheelfan	RP	pos2=MD	2	punct	_	O
+5	lol	lol	UH	_	2	discourse	_	O
+6	just	just	RB	_	7	advmod	_	O
+7	wait	wait	VB	_	0	root	_	O
+8	till	till	IN	_	7	prep	_	O
+9	February	february	NNP	_	8	pobj	_	U-DATE
+10	when	when	WRB	_	13	advmod	_	O
+11	you	you	PRP	_	13	nsubjpass	_	O
+12	get	get	VBP	_	13	auxpass	_	O
+13	spanked	spank	VBN	pos2=JJ	7	advcl	_	O
+14	!	!	.	_	7	punct	_	O
+
+1	Grayson	grayson	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Allen	allen	NNP	_	3	nsubj	_	L-PERSON
+3	>	>	VBD	pos2=SYM	0	root	_	O
+4	Anyone	anyone	NN	_	3	dobj	_	O
+5	on	on	IN	_	4	prep	_	O
+6	Carolina	carolina	NNP	_	5	pobj	_	U-LOC
+

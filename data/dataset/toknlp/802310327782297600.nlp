@@ -1,0 +1,11 @@
+1	Another	another	DT	_	2	det	_	O
+2	one	#crd#	NN	pos2=CD	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	the	the	DT	_	7	det	_	O
+5	Tory	tory	NNP	pos2=JJ	7	compound	_	U-NORP
+6	election	election	NN	_	7	compound	_	O
+7	locker	locker	NN	_	3	pobj	_	O
+8	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/NgWSVYi9fT	#hlink#	ADD	_	0	root	_	U-ORG
+

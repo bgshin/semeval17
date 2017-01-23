@@ -1,0 +1,26 @@
+1	⭐️	⭐️	SYM	pos2=LS	22	punct	_	O
+2	#News	#news	NNP	pos2=NNS	4	compound	_	O
+3	•	-	:	pos2=HYPH	4	punct	_	O
+4	Buyers	buyer	NNS	pos2=NNPS	6	poss	_	O
+5	’	'	POS	_	4	case	_	O
+6	clubs	club	NNS	_	1	attr	_	O
+7	and	and	CC	_	6	cc	_	O
+8	test	test	NN	pos2=VB	9	compound	_	O
+9	labs	lab	NNS	_	6	conj	_	O
+10	for	for	IN	_	6	prep	_	O
+11	death	death	NN	_	12	compound	_	O
+12	drug	drug	NN	_	10	pobj	_	O
+13	:	:	:	_	22	punct	_	O
+14	Right	right	JJ	_	19	nmod	_	O
+15	-	-	HYPH	_	14	punct	_	O
+16	to	to	TO	pos2=IN	18	aux	_	O
+17	-	-	HYPH	_	18	punct	_	O
+18	die	die	VB	pos2=NN	14	xcomp	_	O
+19	campaigner	campaigner	NN	_	21	compound	_	O
+20	Philip	philip	NNP	_	21	compound	_	B-PERSON
+21	Nitschke	nitschke	NNP	_	22	nsubj	_	L-PERSON
+22	says	say	VBZ	_	0	root	_	O
+23	euthanasia	euthanasia	NN	pos2=GW	25	dep	_	O
+24	…	…	NFP	pos2=-LRB-	25	punct	_	O
+25	https://t.co/Ez9c4zEje8	#hlink#	ADD	_	22	ccomp	_	O
+

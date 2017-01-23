@@ -1,0 +1,15 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@elizabethforma	@elizabethforma	UH	pos2=NN	6	discourse	_	O
+2	why	why	WRB	_	6	advmod	_	O
+3	have	have	VBP	_	6	aux	_	O
+4	n't	not	RB	_	6	neg	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	condemned	condemn	VBD	pos2=VBN	0	root	_	O
+7	the	the	DT	_	10	det	_	O
+8	dakota	dakota	JJ	pos2=NN	10	nmod	_	O
+9	access	access	NN	pos2=GW	10	compound	_	O
+10	pipeline	pipeline	NN	_	6	dobj	_	O
+11	yet	yet	RB	_	6	advmod	_	O
+12	?????	??	.	_	6	punct	_	O
+

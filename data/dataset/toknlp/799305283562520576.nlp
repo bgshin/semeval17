@@ -1,0 +1,10 @@
+1	Creations	creation	NNS	pos2=NNPS	4	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	Charleston	charleston	NNP	_	2	pobj	_	U-GPE
+4	is	be	VBZ	_	0	root	_	O
+5	out	out	RB	pos2=RP	4	advmod	_	O
+6	!	!	.	_	4	punct	_	O
+
+1	https://t.co/2QIJsfUAzN	#hlink#	ADD	_	0	root	_	O
+2	#nationalfastfoodday	#nationalfastfoodday	UH	pos2=-RRB-	1	discourse	_	O
+

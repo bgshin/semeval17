@@ -1,0 +1,25 @@
+1	Overt	overt	JJ	pos2=NNP	2	nmod	_	O
+2	#KremlinTrolls	#kremlintrolls	NNS	pos2=NNPS	4	nsubj	_	O
+3	will	will	MD	_	4	aux	_	O
+4	ReTweet	retweet	VB	_	0	root	_	O
+5	covert	covert	JJ	_	6	nmod	_	O
+6	ones	#crd#	NNS	_	4	dobj	_	O
+7	who	who	WP	_	8	nsubj	_	O
+8	bash	bash	VBP	_	6	relcl	_	O
+9	#Ukraine	#ukraine	NNP	pos2=NN	8	dobj	_	U-GPE
+10	,	,	,	_	4	punct	_	O
+11	to	to	TO	_	12	aux	_	O
+12	advance	advance	VB	_	4	advcl	_	O
+13	the	the	DT	_	15	det	_	O
+14	Kremlin	kremlin	NNP	_	15	compound	_	U-ORG
+15	narrative	narrative	NN	_	12	dobj	_	O
+16	.	.	.	_	4	punct	_	O
+
+1	Subtle	subtle	JJ	_	3	acomp	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	not	not	RB	_	3	neg	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	https://t.co/XHQQDjPbHB	#hlink#	ADD	_	0	root	_	U-ORG
+

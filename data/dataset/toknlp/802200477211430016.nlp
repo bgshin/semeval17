@@ -1,0 +1,25 @@
+1	@FCBfemeni	@fcbfemeni	NN	pos2=NNS	0	root	_	O
+2	to	to	TO	pos2=IN	3	aux	_	O
+3	face	face	VB	pos2=NN	1	acl	_	O
+4	Rosengård	rosengård	NNP	pos2=NN	5	compound	_	B-ORG
+5	Women	woman	NNS	pos2=NNP	3	dobj	_	L-ORG
+6	(	(	-LRB-	_	5	punct	_	O
+7	Sweden	sweden	NNP	_	5	appos	_	U-GPE
+8	)	)	-RRB-	_	5	punct	_	O
+9	for	for	IN	_	3	prep	_	O
+10	the	the	DT	_	13	det	_	B-EVENT
+11	quarter	quarter	NN	_	13	compound	_	I-EVENT
+12	-	-	HYPH	_	13	punct	_	I-EVENT
+13	finals	final	NNS	_	9	pobj	_	L-EVENT
+14	of	of	IN	_	13	prep	_	O
+15	the	the	DT	_	16	det	_	O
+16	Women	woman	NNPS	pos2=NNS	19	poss	_	O
+17	's	's	POS	_	16	case	_	O
+18	Champions	champion	NNPS	_	19	compound	_	O
+19	League	league	NNP	_	14	pobj	_	O
+20	.	.	.	_	1	punct	_	O
+
+1	#FCBFemeni	#fcbfemeni	GW	pos2=NNS	3	nmod	_	O
+2	…	…	NFP	pos2=GW	3	punct	_	O
+3	https://t.co/VSb9l8eQiq	#hlink#	ADD	pos2=NN	0	root	_	O
+

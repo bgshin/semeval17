@@ -1,0 +1,23 @@
+1	@KellyannePolls	@kellyannepolls	NNS	pos2=UH	7	vocative	_	O
+2	,	,	,	_	7	punct	_	O
+3	u	u	PRP	pos2=NN	7	nsubj	_	O
+4	and	and	CC	_	3	cc	_	O
+5	Steve	steve	NNP	_	6	compound	_	B-PERSON
+6	Bannon	bannon	NNP	_	3	conj	_	L-PERSON
+7	are	be	VBP	_	0	root	_	O
+8	the	the	DT	_	9	det	_	O
+9	worst	bad	JJS	_	7	attr	_	O
+10	of	of	IN	_	9	prep	_	O
+11	America	america	NNP	_	10	pobj	_	U-GPE
+12	and	and	CC	_	7	cc	_	O
+13	make	make	VB	_	7	conj	_	O
+14	me	me	PRP	_	15	nsubj	_	O
+15	hate	hate	VB	pos2=NN	13	ccomp	_	O
+16	@realDonaldTrump	@realdonaldtrump	VB	pos2=XX	15	xcomp	_	U-CARDINAL
+17	more	more	JJR	pos2=RBR	16	dobj	_	O
+18	.	.	.	_	7	punct	_	O
+
+1	Seemingly	seemingly	RB	_	2	advmod	_	O
+2	impossible	impossible	JJ	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+

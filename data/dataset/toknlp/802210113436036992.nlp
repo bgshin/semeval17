@@ -1,0 +1,20 @@
+1	Love	love	VB	pos2=NN	0	root	_	O
+2	@dagenmcdowell	@dagenmcdowell	PRP	pos2=UH	1	dobj	_	O
+3	!	!	.	_	1	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	see	see	VB	_	2	xcomp	_	O
+5	more	more	JJR	pos2=RBR	4	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	her	her	PRP	pos2=PRP$	6	pobj	_	O
+8	on	on	IN	_	4	prep	_	O
+9	@FoxNews	@foxnews	NNP	pos2=NNS	8	pobj	_	U-ORG
+10	.	.	.	_	2	punct	_	O
+
+1	Maybe	maybe	RB	_	2	advmod	_	O
+2	replace	replace	VB	_	0	root	_	O
+3	@megynkelly	@megynkelly	RB	pos2=NN	2	advmod	_	O
+4	?	?	.	_	2	punct	_	O
+

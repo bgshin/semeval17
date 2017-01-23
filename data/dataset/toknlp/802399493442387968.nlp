@@ -1,0 +1,9 @@
+1	Steve	steve	NNP	_	2	compound	_	B-PERSON
+2	Bannon	bannon	NNP	_	8	dep	_	L-PERSON
+3	on	on	IN	_	2	prep	_	O
+4	The	the	DT	pos2=NNP	7	det	_	O
+5	Rusty	rusty	NNP	_	7	compound	_	O
+6	Humphries	humphries	NNP	_	7	compound	_	O
+7	Show	show	NNP	pos2=GW	3	pobj	_	O
+8	https://t.co/sLhYbgLv1F	#hlink#	ADD	_	0	root	_	O
+

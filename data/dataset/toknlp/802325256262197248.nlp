@@ -1,0 +1,22 @@
+1	Trudeau	trudeau	NNP	_	2	nsubj	_	U-PERSON
+2	Elected	elect	VBN	pos2=NNP	0	root	_	O
+3	by	by	IN	_	2	agent	_	O
+4	the	the	DT	_	8	det	_	O
+5	same	same	JJ	_	8	nmod	_	O
+6	"	"	``	_	8	punct	_	O
+7	Obama	obama	NNP	_	8	compound	_	O
+8	Team	team	NNP	_	3	pobj	_	O
+9	"	"	''	_	8	punct	_	O
+10	M.O.	m.o.	NN	pos2=NNP	21	dep	_	O
+11	https://t.co/QA2IknspNz	#hlink#	ADD	pos2=''	12	nsubj	_	O
+12	Used	use	VBN	pos2=NNP	2	advcl	_	O
+13	Against	against	IN	pos2=NNP	12	prep	_	O
+14	Netanyahu	netanyahu	NNP	_	13	pobj	_	U-PERSON
+15	"	"	``	pos2=IN	18	punct	_	O
+16	OUR	our	PRP$	_	18	poss	_	O
+17	TAX	tax	NN	pos2=JJ	18	compound	_	O
+18	MONEY	money	NN	pos2=NNP	21	dep	_	O
+19	"	"	''	pos2=``	18	punct	_	O
+20	…	…	NFP	pos2=-LRB-	21	punct	_	O
+21	https://t.co/srd8NuLgX1	#hlink#	ADD	_	2	dep	_	O
+

@@ -1,0 +1,18 @@
+1	@HillaryNo1sPres	@hillaryno0spres	NNS	pos2=ADD	6	nsubj	_	O
+2	@GERI1324FAN	@geri0fan	NN	pos2=VBP	3	compound	_	O
+3	@cdldad	@cdldad	NN	pos2=FW	5	compound	_	O
+4	@LawyerRogelio	@lawyerrogelio	NNP	pos2=IN	5	compound	_	B-PERSON
+5	Obama	obama	NNP	_	6	nsubj	_	L-PERSON
+6	expanded	expand	VBD	_	0	root	_	O
+7	Veterans	veteran	NNPS	pos2=NNP	8	compound	_	B-ORG
+8	Centers	center	NNPS	pos2=NNP	6	dobj	_	L-ORG
+9	in	in	IN	_	8	prep	_	O
+10	rural	rural	JJ	_	11	nmod	_	O
+11	areas	area	NNS	_	9	pobj	_	O
+12	&	&	CC	_	6	cc	_	O
+13	fully	fully	RB	_	14	advmod	_	O
+14	funded	fund	VBD	pos2=VBN	6	conj	_	O
+15	the	the	DT	_	17	det	_	B-ORG
+16	Veterans	veteran	NNPS	pos2=NNP	17	compound	_	I-ORG
+17	Admin	admin	NNP	pos2=NN	14	dobj	_	L-ORG
+

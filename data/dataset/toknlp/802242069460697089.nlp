@@ -1,0 +1,11 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	’s	's	VBZ	_	0	root	_	O
+3	weird	weird	JJ	_	2	acomp	_	O
+4	watching	watch	VBG	_	2	xcomp	_	O
+5	the	the	DT	_	6	det	_	O
+6	Spurs	spur	NNPS	pos2=NNS	4	dobj	_	U-ORG
+7	without	without	IN	_	4	prep	_	O
+8	Tim	tim	NNP	_	9	compound	_	B-PERSON
+9	Duncan	duncan	NNP	_	7	pobj	_	L-PERSON
+10	.	.	.	_	2	punct	_	O
+

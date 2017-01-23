@@ -1,0 +1,10 @@
+1	@gold_standard	@gold_standard	NNP	pos2=IN	0	root	_	O
+2	The	the	DT	_	3	det	_	O
+3	shade	shade	NN	_	1	appos	_	O
+4	!	!	.	_	1	punct	_	O
+
+1	Lol	lol	UH	pos2=NNP	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	#MariahsWorld	#mariahsworld	NN	pos2=ADD	0	root	_	O
+

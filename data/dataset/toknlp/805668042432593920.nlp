@@ -1,0 +1,8 @@
+1	Syrian	syrian	JJ	_	2	nmod	_	U-NORP
+2	army	army	NN	_	3	nsubj	_	O
+3	takes	take	VBZ	_	0	root	_	O
+4	new	new	JJ	_	6	nmod	_	O
+5	Aleppo	aleppo	NNP	_	6	compound	_	U-GPE
+6	district	district	NN	pos2=GW	3	dobj	_	O
+7	https://t.co/yezHeNNOSI	#hlink#	ADD	_	3	dep	_	U-GPE
+

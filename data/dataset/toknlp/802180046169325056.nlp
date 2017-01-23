@@ -1,0 +1,16 @@
+1	Beauty	beauty	NN	pos2=NNP	6	nsubj	_	O
+2	And	and	CC	_	1	cc	_	O
+3	The	the	DT	_	4	det	_	O
+4	Beast	beast	NNP	_	1	conj	_	O
+5	Has	have	VBZ	pos2=NNP	6	aux	_	O
+6	Set	set	VBN	pos2=NNP	0	root	_	O
+7	Our	our	PRP$	_	8	poss	_	O
+8	Expectations	expectation	NNS	pos2=NNPS	6	dobj	_	O
+9	High	high	JJ	pos2=NNP	6	oprd	_	O
+10	!	!	.	_	6	punct	_	O
+
+1	#beautyandthebeast	#beautyandthebeast	UH	pos2=GW	4	nmod	_	O
+2	#disney	#disney	GW	pos2=UH	4	nmod	_	O
+3	https://t.co/h3kSRvsyLJ	#hlink#	ADD	pos2=GW	4	nmod	_	O
+4	https://t.co/zzlHvlq6oE	#hlink#	ADD	_	0	root	_	U-ORG
+

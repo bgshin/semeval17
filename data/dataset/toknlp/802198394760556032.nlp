@@ -1,0 +1,19 @@
+1	Check	check	VB	_	0	root	_	O
+2	out	out	RP	_	1	prt	_	O
+3	this	this	DT	_	5	det	_	O
+4	fantastic	fantastic	JJ	_	5	nmod	_	O
+5	review	review	NN	_	1	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	fantastic	fantastic	JJ	_	9	nmod	_	O
+9	return	return	NN	_	6	pobj	_	O
+10	to	to	IN	_	9	prep	_	O
+11	the	the	DT	_	13	det	_	O
+12	wizarding	wizarding	JJ	pos2=VBG	13	nmod	_	O
+13	world	world	NN	_	10	pobj	_	O
+14	#FantasticBeasts	#fantasticbeasts	VBZ	pos2=NNPS	18	dep	_	O
+15	on	on	IN	_	14	prep	_	O
+16	your	your	PRP$	_	17	poss	_	O
+17	…	…	NFP	pos2=-LRB-	15	pobj	_	O
+18	https://t.co/Ia07e1J6Iq	#hlink#	ADD	pos2=NN	13	appos	_	O
+

@@ -1,0 +1,24 @@
+1	@thepoliticalcat	@thepoliticalcat	UH	pos2=IN	3	discourse	_	O
+2	They	they	PRP	_	3	nsubj	_	O
+3	do	do	VBP	_	0	root	_	O
+4	that	that	DT	_	6	det	_	O
+5	promotional	promotional	JJ	_	6	nmod	_	O
+6	bit	bit	NN	_	3	dobj	_	O
+7	on	on	IN	_	6	prep	_	O
+8	msnbc	msnbc	NNP	pos2=NN	7	pobj	_	U-ORG
+9	that	that	WDT	_	10	nsubj	_	O
+10	makes	make	VBZ	_	6	relcl	_	O
+11	me	me	PRP	_	12	nsubj	_	O
+12	sick	sick	JJ	_	10	ccomp	_	O
+13	,	,	,	_	10	punct	_	O
+14	with	with	IN	_	10	prep	_	O
+15	Michael	michael	NNP	_	16	compound	_	B-PERSON
+16	Moore	moore	NNP	_	14	pobj	_	L-PERSON
+17	cowed	cow	VBN	_	16	acl	_	O
+18	by	by	IN	_	17	agent	_	O
+19	these	these	DT	_	21	det	_	O
+20	media	medium	NNS	pos2=NN	21	compound	_	O
+21	castratos	castrato	NNS	_	18	pobj	_	O
+22	all	all	DT	pos2=RB	23	dep	_	O
+23	holding	hold	VBG	pos2=NN	10	advcl	_	O
+

@@ -1,0 +1,25 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	hate	hate	VBP	_	10	ccomp	_	O
+3	when	when	WRB	_	5	advmod	_	O
+4	companies	company	NNS	_	5	nsubj	_	O
+5	create	create	VBP	_	2	advcl	_	O
+6	a	a	DT	_	7	det	_	O
+7	#falsedemand	#falsedemand	NN	pos2=FW	5	dobj	_	O
+8	;	;	:	pos2=,	10	punct	_	O
+9	this	this	DT	_	10	nsubj	_	O
+10	is	be	VBZ	_	0	root	_	O
+11	a	a	DT	_	13	det	_	O
+12	#marketing	#marketing	NN	pos2=JJ	13	compound	_	O
+13	ploy	ploy	NN	_	10	attr	_	O
+14	often	often	RB	_	15	advmod	_	O
+15	utilized	utilize	VBN	pos2=VBD	13	acl	_	O
+16	this	this	DT	_	17	det	_	O
+17	time	time	NN	_	15	npadvmod	_	O
+18	of	of	IN	_	17	prep	_	O
+19	yr.	yr.	NN	pos2=NNP	20	compound	_	O
+20	Examples	example	NNS	_	18	pobj	_	O
+21	:	:	:	_	22	punct	_	O
+22	#Hatchimals	#hatchimals	NNS	pos2=NNP	19	appos	_	B-ORG
+23	&	&	CC	_	22	cc	_	I-ORG
+24	#NintendoNES	#nintendones	NNS	pos2=ADD	22	conj	_	L-ORG
+

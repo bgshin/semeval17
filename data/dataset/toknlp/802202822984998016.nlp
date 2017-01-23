@@ -1,0 +1,25 @@
+1	Oh	oh	UH	_	2	discourse	_	O
+2	great	great	JJ	pos2=UH	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	Both	both	DT	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	idiots	idiot	NNS	_	2	attr	_	O
+4	!	!	.	_	2	punct	_	O
+
+1	Put	put	VB	pos2=VBD	0	root	_	O
+2	capable	capable	JJ	_	3	nmod	_	O
+3	people	people	NNS	_	1	dobj	_	O
+4	instead	instead	RB	pos2=IN	5	advmod	_	O
+5	of	of	IN	_	3	cc	_	O
+6	billionaires	billionaire	NNS	_	3	conj	_	O
+7	,	,	,	_	6	punct	_	O
+8	idiots	idiot	NNS	_	6	conj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	downright	downright	RB	pos2=JJ	11	advmod	_	O
+11	white	white	JJ	_	12	nmod	_	O
+12	supremacists	supremacist	NNS	_	8	conj	_	O
+13	!	!	.	_	1	punct	_	O
+
+1	https://t.co/3bzfKbsp8O	#hlink#	ADD	_	0	root	_	U-ORG
+

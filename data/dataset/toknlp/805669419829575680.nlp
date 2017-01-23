@@ -1,0 +1,9 @@
+1	@Zinvor	@zinvor	NNP	pos2=CC	0	root	_	O
+2	Like	like	IN	pos2=UH	1	prep	_	O
+3	the	the	DT	_	5	det	_	B-FAC
+4	Last	last	NNP	pos2=JJ	5	compound	_	I-FAC
+5	Hospital	hospital	NNP	pos2=NN	2	pobj	_	L-FAC
+6	in	in	IN	_	5	prep	_	O
+7	#Aleppo	#aleppo	NNP	_	6	pobj	_	U-GPE
+8	?	?	.	_	1	punct	_	O
+

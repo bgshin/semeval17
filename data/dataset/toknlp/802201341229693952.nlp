@@ -1,0 +1,28 @@
+1	@seamusrex	@seamusrex	UH	pos2=``	4	discourse	_	O
+2	Great	great	NNP	pos2=JJ	4	vocative	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	voted	vote	VBD	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	someone	someone	NN	_	5	pobj	_	O
+7	else	else	RB	_	6	advmod	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	We	we	PRP	_	3	nsubj	_	O
+2	now	now	RB	_	3	advmod	_	O
+3	live	live	VBP	_	0	root	_	O
+4	with	with	IN	_	3	prep	_	O
+5	that	that	DT	_	6	det	_	O
+6	decision	decision	NN	_	4	pobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	You	you	PRP	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	join	join	VB	_	0	root	_	O
+4	in	in	IN	pos2=RP	3	prep	_	O
+5	watching	watch	VBG	_	4	pcomp	_	O
+6	Trump	trump	NNP	pos2=NN	5	dobj	_	U-ORG
+7	for	for	IN	_	5	prep	_	O
+8	our	our	PRP$	_	9	poss	_	O
+9	democracy	democracy	NN	_	7	pobj	_	O
+10	#StillWithHer	#stillwithher	.	pos2=NN	3	punct	_	O
+

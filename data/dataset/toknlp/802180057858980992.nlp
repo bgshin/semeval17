@@ -1,0 +1,20 @@
+1	Rick	rick	NNP	_	2	compound	_	B-PERSON
+2	Porcello	porcello	NNP	_	3	nsubj	_	L-PERSON
+3	aside	aside	RB	_	9	advmod	_	O
+4	,	,	,	_	9	punct	_	O
+5	the	the	DT	_	6	det	_	O
+6	BBWAA	bbwaa	NNP	_	9	nsubj	_	U-ORG
+7	has	have	VBZ	_	9	aux	_	O
+8	been	be	VBN	_	9	aux	_	O
+9	doing	do	VBG	_	0	root	_	O
+10	a	a	DT	_	12	det	_	O
+11	better	good	JJR	_	12	nmod	_	O
+12	job	job	NN	_	9	dobj	_	O
+13	recently	recently	RB	_	9	advmod	_	O
+14	with	with	IN	_	9	prep	_	O
+15	its	its	PRP$	_	18	poss	_	O
+16	Cy	cy	NNP	pos2=NN	17	compound	_	O
+17	Young	young	NNP	pos2=JJ	18	compound	_	O
+18	voting	voting	NN	pos2=VBG	14	pobj	_	O
+19	https://t.co/AXVPLGzE9d	#hlink#	ADD	pos2=NN	18	appos	_	O
+

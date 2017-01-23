@@ -1,0 +1,17 @@
+1	'	'	``	pos2=POS	4	punct	_	O
+2	The	the	DT	_	4	det	_	O
+3	Walking	walking	NNP	pos2=VBG	4	compound	_	O
+4	Dead	dead	NNP	pos2=JJ	16	dep	_	O
+5	'	'	''	pos2=POS	4	punct	_	O
+6	at	at	IN	_	4	prep	_	O
+7	NYCC	nycc	NNP	pos2=NN	6	pobj	_	U-ORG
+8	:	:	:	_	4	punct	_	O
+9	A	a	DT	_	16	dep	_	O
+10	Bloody	bloody	JJ	pos2=NNP	16	nmod	_	O
+11	Comic	comic	JJ	pos2=NNP	16	nmod	_	O
+12	#thewalkingdead	#thewalkingdead	XX	pos2=NN	16	nmod	_	O
+13	#walkingdead	#walkingdead	GW	pos2=XX	16	nmod	_	O
+14	#thewalkingdeadamc	#thewalkingdeadamc	GW	pos2=NFP	16	nmod	_	O
+15	https://t.co/o0cb9DcCR0	#hlink#	ADD	pos2=GW	16	nmod	_	O
+16	https://t.co/IpV9FN16DD	#hlink#	ADD	_	0	root	_	U-ORG
+

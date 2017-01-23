@@ -1,0 +1,12 @@
+1	Cover	cover	NN	pos2=VB	0	root	_	O
+2	:	:	:	_	1	punct	_	O
+3	"	"	``	_	1	punct	_	O
+4	Leo	leo	NNP	pos2=NN	0	root	_	O
+5	100	0	CD	_	4	nmod	_	O
+6	"	"	''	pos2=NNS	4	punct	_	O
+7	[	[	-LRB-	_	4	punct	_	O
+8	md	md	NN	pos2=FW	4	appos	_	O
+9	]	]	-RRB-	_	4	punct	_	O
+10	#fcblive	#fcblive	IN	pos2=ADD	7	pobj	_	O
+11	https://t.co/FNqQ11e0p0	#hlink#	ADD	pos2=NN	10	pobj	_	U-ORG
+

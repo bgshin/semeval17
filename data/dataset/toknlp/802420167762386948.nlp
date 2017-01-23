@@ -1,0 +1,26 @@
+1	well	well	UH	pos2=RB	12	discourse	_	O
+2	if	if	IN	_	5	mark	_	O
+3	Trump	trump	NNP	_	4	compound	_	B-ORG
+4	AG	ag	NNP	_	5	nsubj	_	L-ORG
+5	goes	go	VBZ	_	12	advcl	_	O
+6	after	after	IN	_	5	prep	_	O
+7	Clinton	clinton	NNP	_	8	compound	_	B-ORG
+8	Foundation	foundation	NNP	_	6	pobj	_	L-ORG
+9	,	,	,	_	12	punct	_	O
+10	Hillary	hillary	NNP	_	12	nsubj	_	U-PERSON
+11	can	can	MD	_	12	aux	_	O
+12	go	go	VB	_	0	root	_	O
+13	after	after	IN	_	12	prep	_	O
+14	the	the	DT	_	16	det	_	O
+15	Trump	trump	NNP	_	16	compound	_	U-ORG
+16	foundation	foundation	NN	pos2=NNP	13	pobj	_	O
+17	&	&	CC	_	16	cc	_	O
+18	the	the	DT	_	20	det	_	O
+19	GOP	gop	NNP	_	20	compound	_	O
+20	AG	ag	NNP	pos2=NN	16	conj	_	O
+21	will	will	MD	_	22	aux	_	O
+22	look	look	VB	_	12	advcl	_	O
+23	li	li	JJ	pos2=GW	22	acomp	_	O
+24	…	…	NFP	pos2=-LRB-	25	punct	_	O
+25	https://t.co/8K1GEmLkxu	#hlink#	ADD	pos2=NN	22	dep	_	O
+

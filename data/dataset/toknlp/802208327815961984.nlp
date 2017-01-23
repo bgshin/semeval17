@@ -1,0 +1,23 @@
+1	GIVING	give	VBG	pos2=NN	0	root	_	O
+2	THANKS	thanks	NN	pos2=NNS	1	dobj	_	O
+3	for	for	IN	_	1	prep	_	O
+4	Dr.	dr.	NNP	_	6	compound	_	O
+5	Ben	ben	NNP	_	6	compound	_	B-PERSON
+6	Carson	carson	NNP	_	3	pobj	_	L-PERSON
+7	:	:	:	_	6	punct	_	O
+8	Our	our	PRP$	_	13	poss	_	O
+9	Favorite	favorite	NNP	pos2=JJ	13	compound	_	O
+10	Trump	trump	NNP	pos2=NN	12	compound	_	O
+11	Supporter	supporter	NNP	pos2=NN	12	compound	_	O
+12	Changes	change	NNPS	pos2=NNS	13	compound	_	O
+13	Mind	mind	NNP	pos2=NN	6	appos	_	O
+14	and	and	CC	_	1	cc	_	O
+15	WILL	will	MD	pos2=NNP	16	aux	_	O
+16	Serve	serve	VB	_	1	conj	_	O
+17	in	in	IN	_	16	prep	_	O
+18	Cabinet	cabinet	NNP	_	19	compound	_	U-ORG
+19	Position	position	NNP	pos2=NN	17	pobj	_	O
+20	....	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/GLwQ48gNcT	#hlink#	ADD	_	0	root	_	U-ORG
+

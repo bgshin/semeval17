@@ -1,0 +1,23 @@
+1	VERY	very	RB	_	2	advmod	_	O
+2	POSSIBLE	possible	JJ	_	5	nmod	_	O
+3	&	&	CC	_	2	cc	_	O
+4	BEST	good	JJS	pos2=JJ	5	nmod	_	O
+5	REASON	reason	NN	_	0	root	_	O
+6	WHY	why	WRB	_	13	advmod	_	O
+7	NEW	new	JJ	_	9	nmod	_	O
+8	ATT	att	NNP	pos2=NN	9	compound	_	O
+9	GENERAL	general	NNP	pos2=NN	11	nsubj	_	O
+10	MUST	must	MD	pos2=NNP	11	aux	_	O
+11	INVESTIGATE	investigate	VB	_	5	relcl	_	O
+12	&	&	CC	_	11	cc	_	O
+13	IMPANEL	impanel	VB	_	11	conj	_	O
+14	GRAND	grand	JJ	pos2=NNP	15	nmod	_	O
+15	JURY	jury	NN	pos2=NNP	13	dobj	_	O
+16	ON	on	IN	_	13	prep	_	O
+17	CLINTON	clinton	NNP	_	18	compound	_	B-ORG
+18	FOUNDATION	foundation	NN	pos2=NNP	16	pobj	_	I-ORG
+19	&	&	CC	_	18	cc	_	I-ORG
+20	BOTH	both	DT	pos2=GW	21	det	_	L-ORG
+21	…	…	NFP	pos2=:	22	punct	_	O
+22	https://t.co/gdJ34NOqKa	#hlink#	ADD	pos2=NN	11	dobj	_	O
+

@@ -1,0 +1,13 @@
+1	Airbus	airbus	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	targeted	target	VBN	pos2=VBD	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Israel	israel	NNP	_	7	compound	_	U-GPE
+5	arms	arm	NNS	pos2=VBZ	6	compound	_	O
+6	trade	trade	NN	pos2=GW	7	compound	_	O
+7	links	link	NNS	_	3	pobj	_	O
+8	https://t.co/b1j9TUbx2J	#hlink#	ADD	pos2=VBP	2	dep	_	O
+9	#gaza	#gaza	-RRB-	pos2=IN	2	punct	_	O
+10	#palestine	#palestine	UH	pos2=PRP	2	discourse	_	O
+11	#israel	#israel	UH	pos2=VB	2	discourse	_	O
+12	#BDS	#bds	NNS	pos2=UH	2	dobj	_	O
+

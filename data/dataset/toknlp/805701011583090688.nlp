@@ -1,0 +1,19 @@
+1	Tweet	tweet	NN	pos2=VB	2	npadvmod	_	O
+2	later	later	RB	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	.	.	.	_	0	punct	_	O
+
+1	.	.	.	_	0	punct	_	O
+
+1	euthanasia	euthanasia	NN	_	2	nsubj	_	O
+2	comes	come	VBZ	_	0	root	_	O
+3	to	to	IN	_	2	prep	_	O
+4	America	america	NNP	_	3	pobj	_	U-GPE
+5	soon	soon	RB	_	2	advmod	_	O
+6	,	,	,	_	2	punct	_	O
+7	and	and	CC	_	2	cc	_	O
+8	Thank	thank	VBP	_	2	conj	_	O
+9	God	god	NNP	_	8	dobj	_	O
+10	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,31 @@
+1	If	if	IN	_	6	mark	_	O
+2	a	a	DT	_	4	det	_	O
+3	"	"	``	_	4	punct	_	O
+4	thing	thing	NN	_	6	nsubj	_	O
+5	"	"	''	_	4	punct	_	O
+6	is	be	VBZ	_	15	advcl	_	O
+7	accessible	accessible	JJ	pos2=VBN	6	acomp	_	O
+8	through	through	IN	_	6	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	Internet	internet	NN	_	8	pobj	_	O
+11	,	,	,	_	15	punct	_	O
+12	someone	someone	NN	_	15	nsubj	_	O
+13	else	else	RB	_	12	advmod	_	O
+14	can	can	MD	_	15	aux	_	O
+15	control	control	VB	_	0	root	_	O
+16	it	it	PRP	_	15	dobj	_	O
+17	,	,	,	_	18	punct	_	O
+18	exploit	exploit	VB	_	15	conj	_	O
+19	it	it	PRP	_	18	dobj	_	O
+20	,	,	,	_	21	punct	_	O
+21	break	break	VB	_	18	conj	_	O
+22	it	it	PRP	_	21	dobj	_	O
+23	,	,	,	_	21	punct	_	O
+24	or	or	CC	_	21	cc	_	O
+25	steal	steal	VB	pos2=VBP	21	conj	_	O
+26	it	it	PRP	_	25	dobj	_	O
+27	.	.	.	_	15	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/sKzkbIuAgp	#hlink#	ADD	pos2=NN	0	root	_	O
+

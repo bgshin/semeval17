@@ -1,0 +1,10 @@
+1	America	america	NNP	_	2	nsubj	_	U-GPE
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	dropped	drop	VBN	pos2=JJ	5	nmod	_	O
+5	ball	ball	NN	_	2	attr	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	#TrumpTransitionTeam	#trumptransitionteam	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/fsjSSqRYZs	#hlink#	ADD	_	0	root	_	O
+

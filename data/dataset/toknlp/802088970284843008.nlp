@@ -1,0 +1,18 @@
+1	Perbandingan	perbandingan	NNP	pos2=JJ	6	compound	_	O
+2	antara	antara	NN	pos2=NNP	6	compound	_	O
+3	Messi	messi	NNP	_	6	compound	_	U-PERSON
+4	dan	dan	NNP	pos2=XX	6	compound	_	O
+5	Michael	michael	NNP	_	6	compound	_	B-PERSON
+6	Jordan	jordan	NNP	_	0	root	_	L-PERSON
+7	.	.	.	_	6	punct	_	O
+
+1	#fcblive	#fcblive	NN	pos2=UH	6	nsubj	_	O
+2	[	[	-LRB-	_	3	punct	_	O
+3	Sport	sport	NNP	pos2=NN	1	appos	_	U-ORG
+4	]	]	-RRB-	_	1	punct	_	O
+5	Just	just	RB	_	6	advmod	_	O
+6	enjoy	enjoy	VB	_	0	root	_	O
+7	this	this	DT	_	8	det	_	O
+8	Data.😀😀	data.😀😀	NNP	pos2=ADD	6	dobj	_	O
+9	https://t.co/TZZqQ9kwHQ	#hlink#	ADD	pos2=NN	6	dep	_	O
+

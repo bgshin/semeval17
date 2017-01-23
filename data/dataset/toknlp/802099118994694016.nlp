@@ -1,0 +1,16 @@
+1	Woah	woah	UH	_	3	discourse	_	O
+2	that	that	DT	pos2=WDT	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	whole	whole	JJ	_	5	nmod	_	O
+5	lot	lot	NN	_	3	attr	_	O
+6	of	of	IN	_	5	prep	_	O
+7	STDs	std	NNS	_	6	pobj	_	O
+8	for	for	IN	_	3	prep	_	O
+9	one	#crd#	CD	_	11	nmod	_	U-CARDINAL
+10	single	single	JJ	_	11	nmod	_	O
+11	woman	woman	NN	_	15	nsubj	_	O
+12	to	to	TO	_	14	aux	_	O
+13	have	have	VB	_	14	aux	_	O
+14	😳😅	😳😅	VBN	pos2=CD	11	relcl	_	B-PERSON
+15	#ScreamQueens	#screamqueens	NNS	pos2=ADD	8	pobj	_	L-PERSON
+

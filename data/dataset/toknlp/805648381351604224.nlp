@@ -1,0 +1,29 @@
+1	@JKH2	@jkh0	NN	pos2=NNP	2	compound	_	O
+2	Berns	berns	NNP	_	3	nsubj	_	U-PERSON
+3	cried	cry	VBD	_	0	root	_	O
+4	rigged	rig	VBN	pos2=JJ	3	advcl	_	O
+5	&	&	CC	_	4	cc	_	O
+6	fraud	fraud	NN	_	4	conj	_	O
+7	when	when	WRB	_	9	advmod	_	O
+8	there	there	EX	_	9	expl	_	O
+9	was	be	VBD	_	4	advcl	_	O
+10	nada	nada	NN	pos2=NNP	9	attr	_	O
+11	&	&	CC	_	10	cc	_	O
+12	voter	voter	NN	_	13	compound	_	O
+13	suppression	suppression	NN	_	10	conj	_	O
+14	when	when	WRB	_	16	advmod	_	O
+15	they	they	PRP	_	16	nsubj	_	O
+16	forgot	forget	VBD	_	9	advcl	_	O
+17	2	0	CD	_	18	nmod	_	U-CARDINAL
+18	register	register	NN	pos2=NNS	16	dobj	_	O
+19	.	.	.	_	3	punct	_	O
+
+1	Muffles	muffle	VBZ	_	0	root	_	O
+2	our	our	PRP$	_	4	poss	_	O
+3	real	real	JJ	_	4	nmod	_	O
+4	cries	cry	NNS	_	1	dobj	_	O
+5	now	now	RB	_	1	advmod	_	O
+6	,	,	,	_	1	punct	_	O
+7	no	no	DT	pos2=UH	1	discourse	_	O
+8	?	?	.	_	1	punct	_	O
+

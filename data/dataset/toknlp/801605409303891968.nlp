@@ -1,0 +1,11 @@
+1	Melania	melania	NNP	pos2=NN	3	nmod	_	U-PERSON
+2	short	short	JJ	_	3	nmod	_	O
+3	circuiting	circuiting	NN	_	0	root	_	O
+4	during	during	IN	_	3	prep	_	O
+5	a	a	DT	_	7	det	_	O
+6	televised	televise	VBN	_	7	nmod	_	O
+7	speech	speech	NN	_	4	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	#KeepsTrumpUpAtNight	#keepstrumpupatnight	ADD	pos2=UH	0	root	_	U-TIME
+

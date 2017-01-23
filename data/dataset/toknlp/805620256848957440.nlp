@@ -1,0 +1,24 @@
+1	2Pac	0pac	NNP	pos2=NN	2	nsubj	_	O
+2	Outsold	outsell	VBD	pos2=NNP	0	root	_	O
+3	Babe	babe	NNP	_	4	compound	_	B-PERSON
+4	Ruth	ruth	NNP	_	2	dobj	_	L-PERSON
+5	,	,	,	_	4	punct	_	O
+6	Michael	michael	NNP	_	7	compound	_	B-PERSON
+7	Jordan	jordan	NNP	_	4	conj	_	L-PERSON
+8	,	,	,	_	7	punct	_	O
+9	Muhammad	muhammad	NNP	_	10	compound	_	B-PERSON
+10	Ali	ali	NNP	_	7	conj	_	L-PERSON
+11	&	&	CC	_	10	cc	_	O
+12	Kobe	kobe	NNP	_	13	compound	_	B-PERSON
+13	Bryant	bryant	NNP	_	10	conj	_	L-PERSON
+14	At	at	IN	_	2	prep	_	O
+15	An	an	DT	pos2=NNP	16	det	_	O
+16	Auction	auction	NN	pos2=NNP	14	pobj	_	O
+17	https://t.co/nzNgpI1ESP	#hlink#	ADD	_	23	dep	_	O
+18	#tupac	#tupac	XX	pos2=IN	23	nmod	_	O
+19	#hiphop	#hiphop	UH	pos2=VB	23	discourse	_	O
+20	#westside	#westside	UH	pos2=FW	23	discourse	_	O
+21	#rap	#rap	UH	pos2=NN	23	discourse	_	O
+22	#	#	NN	pos2=-LRB-	23	compound	_	O
+23	2pac	0pac	NN	pos2=NNP	2	npadvmod	_	U-MONEY
+

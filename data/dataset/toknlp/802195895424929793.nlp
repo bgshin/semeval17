@@ -1,0 +1,26 @@
+1	The	the	DT	_	4	det	_	B-ORG
+2	New	new	NNP	_	3	compound	_	I-ORG
+3	York	york	NNP	_	4	compound	_	I-ORG
+4	Times	times	NNP	_	8	nsubj	_	L-ORG
+5	does	do	VBZ	_	8	aux	_	O
+6	n't	not	RB	_	8	neg	_	O
+7	even	even	RB	_	8	advmod	_	O
+8	pretend	pretend	VB	_	0	root	_	O
+9	to	to	TO	_	10	aux	_	O
+10	cover	cover	VB	_	8	xcomp	_	O
+11	the	the	DT	_	12	det	_	O
+12	news	news	NN	_	10	dobj	_	O
+13	anymore	anymore	RB	_	10	advmod	_	O
+14	.	.	.	_	8	punct	_	O
+
+1	Where	where	WRB	_	2	advmod	_	O
+2	are	be	VBP	_	0	root	_	O
+3	their	their	PRP$	_	4	poss	_	O
+4	articles	article	NNS	_	2	nsubj	_	O
+5	about	about	IN	_	4	prep	_	O
+6	anti-Trump	anti-trump	JJ	_	7	nmod	_	U-ORG
+7	riots	riot	NNS	_	5	pobj	_	O
+8	?	?	.	_	2	punct	_	O
+
+1	https://t.co/9LSPK2kKfY	#hlink#	ADD	_	0	root	_	U-ORG
+

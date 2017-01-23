@@ -1,0 +1,12 @@
+1	#airbnb	#airbnb	NN	pos2=PRP$	2	compound	_	O
+2	trips	trip	NNS	_	3	nsubj	_	O
+3	seems	seem	VBZ	_	0	root	_	O
+4	good	good	JJ	_	3	oprd	_	O
+5	https://t.co/OSRyDNVwQ4	#hlink#	ADD	pos2=GW	7	nmod	_	O
+6	https://t.co/QopRHxnhSS	#hlink#	ADD	_	11	nmod	_	U-ORG
+7	https://t.co/KhUGwL3dLb	#hlink#	ADD	_	8	nsubj	_	U-ORG
+8	#trips	#trips	VBZ	pos2=-RRB-	3	parataxis	_	O
+9	#uber	#uber	GW	pos2=UH	11	nmod	_	O
+10	…	…	NFP	pos2=GW	11	punct	_	O
+11	https://t.co/l3Z98mzGW2	#hlink#	ADD	pos2=NN	8	dobj	_	O
+

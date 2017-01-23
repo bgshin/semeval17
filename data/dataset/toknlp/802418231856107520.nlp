@@ -1,0 +1,30 @@
+1	@t25034	@t0	NN	pos2=LS	11	nsubjpass	_	O
+2	#auspol	#auspol	UH	pos2=MD	4	discourse	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	agree	agree	VBP	_	1	ccomp	_	O
+5	,	,	,	_	4	punct	_	O
+6	but	but	CC	_	4	cc	_	O
+7	18c	0c	NN	pos2=NNP	11	nsubjpass	_	O
+8	has	have	VBZ	_	11	aux	_	O
+9	NOT	not	RB	_	11	neg	_	O
+10	been	be	VBN	_	11	auxpass	_	O
+11	removed	remove	VBN	_	0	root	_	O
+12	.	.	.	_	11	punct	_	O
+
+1	We	we	PRP	_	6	nsubj	_	O
+2	alt	alt	JJ	pos2=VBP	4	advmod	_	O
+3	/	/	SYM	pos2=HYPH	4	punct	_	O
+4	Right	right	JJ	_	5	nmod	_	O
+5	Conservatives	conservative	NNS	pos2=NNPS	1	appos	_	O
+6	need	need	VBP	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	keep	keep	VB	_	6	xcomp	_	O
+9	fighting	fight	VBG	pos2=NN	8	xcomp	_	O
+10	or	or	CC	_	13	cc	_	O
+11	we	we	PRP	_	13	nsubj	_	O
+12	'll	will	MD	_	13	aux	_	O
+13	be	be	VB	_	8	conj	_	O
+14	like	like	IN	pos2=UH	13	prep	_	O
+15	China	china	NNP	_	14	pobj	_	U-GPE
+16	!	!	.	_	6	punct	_	O
+

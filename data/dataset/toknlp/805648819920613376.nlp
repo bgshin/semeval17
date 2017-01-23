@@ -1,0 +1,16 @@
+1	*	*	SYM	_	3	punct	_	O
+2	presses	press	VBZ	pos2=NNS	0	root	_	O
+3	button	button	NN	_	2	dobj	_	O
+4	for	for	IN	_	2	prep	_	O
+5	auto-euthanasia	auto-euthanasia	NN	pos2=JJ	4	pobj	_	O
+6	so	so	RB	_	7	advmod	_	O
+7	hard	hard	RB	pos2=JJ	2	advmod	_	O
+8	the	the	DT	_	10	det	_	O
+9	debounce	debounce	NN	_	10	compound	_	O
+10	routine	routine	NN	_	11	nsubj	_	O
+11	gets	get	VBZ	_	2	conj	_	O
+12	confused	confused	JJ	pos2=VBN	11	acomp	_	O
+13	as	as	IN	pos2=RB	12	prep	_	O
+14	fuck	fuck	NN	_	13	pobj	_	O
+15	*	*	SYM	pos2=PRP	14	punct	_	O
+

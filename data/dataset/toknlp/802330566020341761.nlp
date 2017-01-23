@@ -1,0 +1,15 @@
+1	No	no	UH	pos2=DT	6	discourse	_	O
+2	,	,	,	_	6	punct	_	O
+3	Students	student	NNS	_	6	nsubjpass	_	O
+4	Were	be	VBD	_	6	auxpass	_	O
+5	Not	not	RB	pos2=NNP	6	neg	_	O
+6	Offered	offer	VBN	_	0	root	_	O
+7	Extra-Credit	extra-credit	NN	pos2=NNP	6	dobj	_	O
+8	for	for	IN	_	6	prep	_	O
+9	Attending	attend	VBG	_	8	pcomp	_	O
+10	a	a	DT	_	12	det	_	O
+11	Trump	trump	NNP	pos2=GW	12	compound	_	B-ORG
+12	Protest	protest	NNP	pos2=GW	14	nmod	_	L-ORG
+13	https://t.co/yia4G7HLOe	#hlink#	ADD	_	14	nmod	_	O
+14	https://t.co/SmMQNBzxSq	#hlink#	ADD	_	6	dep	_	U-ORG
+

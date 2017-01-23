@@ -1,0 +1,28 @@
+1	Trump	trump	NN	pos2=NNP	3	nsubj	_	U-ORG
+2	is	be	VBZ	_	3	aux	_	O
+3	putting	put	VBG	_	0	root	_	O
+4	out	out	RP	_	3	prt	_	O
+5	a	a	DT	_	6	det	_	O
+6	tweet	tweet	NN	_	3	dobj	_	O
+7	that	that	WDT	pos2=IN	10	mark	_	O
+8	George	george	NNP	_	9	compound	_	B-PERSON
+9	Soros	soros	NNP	_	10	nsubj	_	L-PERSON
+10	was	be	VBD	_	6	acl	_	O
+11	an	an	DT	_	13	det	_	O
+12	SS	ss	NN	pos2=NNP	13	compound	_	U-ORG
+13	soldiew	soldiew	NN	pos2=XX	10	attr	_	O
+14	with	with	IN	_	13	prep	_	O
+15	HITLER	hitler	NNP	pos2=NN	14	pobj	_	U-PERSON
+16	.	.	.	_	3	punct	_	O
+
+1	Geirge	geirge	NNP	_	2	compound	_	B-PERSON
+2	Soros	soros	NNP	pos2=NNPS	3	nsubj	_	L-PERSON
+3	was	be	VBD	_	0	root	_	O
+4	10	0	CD	_	3	attr	_	U-DATE
+5	at	at	IN	_	3	prep	_	O
+6	he	he	PRP	pos2=CD	7	nmod	_	O
+7	time	time	NN	_	5	pobj	_	O
+8	!	!	.	_	3	punct	_	O
+
+1	FOOL	fool	NN	pos2=VB	0	root	_	O
+

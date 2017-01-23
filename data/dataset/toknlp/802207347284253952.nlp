@@ -1,0 +1,23 @@
+1	Ca	can	MD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	attack	attack	VB	_	0	root	_	O
+4	white	white	JJ	_	5	nmod	_	O
+5	supremacy	supremacy	NN	_	3	dobj	_	O
+6	in	in	IN	_	3	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	same	same	JJ	_	9	nmod	_	O
+9	breath	breath	NN	_	6	pobj	_	O
+10	you	you	PRP	_	11	nsubj	_	O
+11	praise	praise	VBP	_	3	advcl	_	O
+12	a	a	DT	pos2=WP	13	det	_	O
+13	God	god	NNP	_	11	dobj	_	O
+14	that	that	WDT	_	16	nsubjpass	_	O
+15	was	be	VBD	_	16	auxpass	_	O
+16	forced	force	VBN	_	13	relcl	_	O
+17	onto	onto	IN	_	16	prep	_	O
+18	your	your	PRP$	_	19	poss	_	O
+19	ancestors	ancestor	NNS	_	17	pobj	_	O
+20	by	by	IN	_	16	agent	_	O
+21	white	white	JJ	_	22	nmod	_	O
+22	supremacists	supremacist	NNS	_	20	pobj	_	O
+

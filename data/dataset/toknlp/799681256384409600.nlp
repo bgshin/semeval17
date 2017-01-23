@@ -1,0 +1,13 @@
+1	Hey	hey	UH	_	8	discourse	_	O
+2	Kim	kim	NNP	_	3	compound	_	B-PERSON
+3	Fatty	fatty	NNP	_	6	nmod	_	L-PERSON
+4	The	the	DT	_	5	det	_	O
+5	third	#ord#	JJ	pos2=GW	6	nmod	_	U-ORDINAL
+6	u	u	PRP	pos2=NNP	8	nsubj	_	O
+7	there	there	RB	pos2=EX	6	advmod	_	O
+8	:D	:d	NFP	pos2=XX	0	root	_	O
+9	?	?	.	_	8	punct	_	O
+
+1	Fatty	fatty	JJ	pos2=NN	2	nmod	_	O
+2	fatty	fatty	NN	pos2=JJ	0	root	_	O
+

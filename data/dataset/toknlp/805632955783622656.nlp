@@ -1,0 +1,17 @@
+1	@MGC_Pharma	@mgc_pharma	NN	pos2=ADD	2	nsubj	_	O
+2	secures	secure	VBZ	_	0	root	_	O
+3	first	#ord#	JJ	pos2=RB	6	nmod	_	U-ORDINAL
+4	major	major	JJ	_	6	nmod	_	O
+5	sales	sale	NNS	_	6	compound	_	O
+6	order	order	NN	pos2=VBP	2	dobj	_	O
+7	worth	worth	JJ	pos2=RB	6	nmod	_	O
+8	around	around	IN	pos2=RB	11	qmod	_	B-MONEY
+9	$	$	$	_	11	qmod	_	I-MONEY
+10	65,000	0	CD	_	11	compound	_	L-MONEY
+11	#business	#business	CD	pos2=XX	12	nmod	_	O
+12	#news	#news	NNPS	pos2=FW	7	npadvmod	_	O
+13	#investment	#investment	ADD	pos2=UH	16	nmod	_	O
+14	#ASX200	#asx0	GW	pos2=NN	16	nmod	_	B-PERSON
+15	#Pharmaceutical	#pharmaceutical	GW	pos2=-LRB-	16	nmod	_	L-PERSON
+16	https://t.co/HWORttYcaS	#hlink#	ADD	pos2=NN	2	dep	_	O
+

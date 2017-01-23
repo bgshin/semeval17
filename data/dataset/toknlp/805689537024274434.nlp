@@ -1,0 +1,16 @@
+1	Alexandra	alexandra	NNP	_	2	compound	_	B-PERSON
+2	Daddario	daddario	NNP	_	15	dep	_	L-PERSON
+3	on	on	IN	_	2	prep	_	O
+4	Working	work	VBG	pos2=NNP	3	pcomp	_	O
+5	with	with	IN	_	4	prep	_	O
+6	Zac	zac	NNP	_	7	compound	_	B-PERSON
+7	Efron	efron	NNP	_	5	pobj	_	L-PERSON
+8	and	and	CC	_	7	cc	_	O
+9	Dwayne	dwayne	NNP	_	10	compound	_	B-PERSON
+10	Johnson	johnson	NNP	_	7	conj	_	L-PERSON
+11	on	on	IN	_	4	prep	_	O
+12	Baywatch	baywatch	NNP	_	11	pobj	_	B-PERSON
+13	#ZacEfron	#zacefron	GW	pos2=ADD	15	nmod	_	L-PERSON
+14	https://t.co/37bJaRvqWY	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/xusCry14Hz	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,22 @@
+1	@ProFootballTalk	@profootballtalk	UH	pos2=ADD	10	discourse	_	O
+2	ah	ah	UH	_	1	discourse	_	O
+3	,	,	,	_	10	punct	_	O
+4	Tony	tony	NNP	_	5	compound	_	B-PERSON
+5	Romo	romo	NNP	_	10	vocative	_	L-PERSON
+6	,	,	,	_	10	punct	_	O
+7	for	for	IN	_	10	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	team	team	NN	_	7	pobj	_	O
+10	looking	look	VBG	_	0	root	_	O
+11	for	for	IN	_	10	prep	_	O
+12	that	that	DT	_	14	det	_	O
+13	special	special	JJ	_	14	nmod	_	O
+14	someone	someone	NN	_	11	pobj	_	O
+15	for	for	IN	_	14	prep	_	O
+16	their	their	PRP$	_	17	poss	_	O
+17	IR	ir	NN	pos2=NNP	15	pobj	_	O
+18	or	or	CC	_	17	cc	_	O
+19	PUP	pup	NN	_	20	compound	_	O
+20	roster	roster	NN	_	17	conj	_	O
+21	.	.	.	_	10	punct	_	O
+

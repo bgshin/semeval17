@@ -1,0 +1,20 @@
+1	when	when	WRB	_	4	advmod	_	O
+2	you	you	PRP	_	4	nsubjpass	_	O
+3	get	get	VBP	_	4	auxpass	_	O
+4	stranded	strand	VBN	_	0	root	_	O
+5	at	at	IN	_	4	prep	_	O
+6	school	school	NN	pos2=NNP	5	pobj	_	O
+7	for	for	IN	_	4	prep	_	O
+8	half	half	PDT	_	10	predet	_	B-TIME
+9	an	an	DT	_	10	det	_	I-TIME
+10	hour	hour	NN	_	7	pobj	_	L-TIME
+11	because	because	IN	_	14	mark	_	O
+12	the	the	DT	_	13	det	_	O
+13	bus	bus	NN	_	14	nsubj	_	O
+14	is	be	VBZ	_	4	advcl	_	O
+15	late	late	JJ	pos2=RB	14	acomp	_	O
+16	...	..	.	pos2=,	14	punct	_	O
+
+1	#TheWalkingDead	#thewalkingdead	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/9XWuBn2HnD	#hlink#	ADD	_	0	root	_	O
+

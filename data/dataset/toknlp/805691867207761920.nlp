@@ -1,0 +1,11 @@
+1	Death	death	NN	_	2	compound	_	O
+2	penalty	penalty	NN	_	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Shariatpur	shariatpur	NNP	_	5	compound	_	U-GPE
+5	war	war	NN	pos2=NNP	3	pobj	_	O
+6	criminal	criminal	JJ	pos2=NN	7	nmod	_	O
+7	Edris	edris	NNP	pos2=GW	4	appos	_	U-PERSON
+8	https://t.co/rZSk7cmzL5	#hlink#	ADD	pos2=NNP	4	appos	_	O
+9	via	via	IN	_	2	prep	_	O
+10	@dailystarnews	@dailystarnews	.	pos2=UH	2	punct	_	O
+

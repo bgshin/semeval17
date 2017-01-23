@@ -1,0 +1,22 @@
+1	@Telzaim	@telzaim	NNP	pos2=UH	3	vocative	_	O
+2	This	this	DT	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	big	big	JJ	_	6	nmod	_	O
+6	problem	problem	NN	_	3	attr	_	O
+7	with	with	IN	_	6	prep	_	O
+8	conservatives	conservative	NNS	_	7	pobj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	have	have	VBP	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	be	be	VB	_	2	xcomp	_	O
+5	respectful	respectful	JJ	_	4	acomp	_	O
+6	and	and	CC	_	4	cc	_	O
+7	present	present	VB	pos2=JJ	4	conj	_	O
+8	your	your	PRP$	_	9	poss	_	O
+9	argument	argument	NN	_	7	dobj	_	O
+10	intellectually	intellectually	RB	_	7	advmod	_	O
+11	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,32 @@
+1	@SANDRAYYCNW	@sandrayycnw	UH	pos2=MD	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	wish	wish	VBP	_	0	root	_	O
+4	you	you	PRP	_	6	nsubj	_	O
+5	'd	would	MD	pos2=NNP	6	aux	_	O
+6	stayed	stay	VBN	pos2=VB	3	ccomp	_	O
+7	in	in	IN	_	6	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	PC	pc	NN	_	10	compound	_	O
+10	race	race	NN	_	7	pobj	_	O
+11	;	;	,	pos2=:	12	punct	_	O
+12	save	save	VB	_	9	dep	_	O
+13	the	the	DT	_	14	det	_	O
+14	party	party	NN	_	12	dobj	_	O
+15	from	from	IN	_	12	prep	_	O
+16	basket	basket	NN	_	15	pobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	deplorables	deplorables	NNS	pos2=NN	17	pobj	_	O
+19	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	may	may	MD	_	3	aux	_	O
+3	vote	vote	VB	_	0	root	_	O
+4	liberal	liberal	JJ	pos2=NN	8	advmod	_	O
+5	,	,	,	_	3	punct	_	O
+6	for	for	IN	_	3	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	first	#ord#	JJ	_	9	nmod	_	U-ORDINAL
+9	time	time	NN	_	6	pobj	_	O
+10	ever	ever	RB	_	8	advmod	_	O
+11	.	.	.	_	3	punct	_	O
+

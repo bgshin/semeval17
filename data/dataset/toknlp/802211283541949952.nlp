@@ -1,0 +1,31 @@
+1	@megynkelly	@megynkelly	UH	pos2=RB	2	discourse	_	O
+2	@petestavros	@petestavros	UH	pos2=NNPS	0	root	_	O
+3	Because	because	IN	_	5	mark	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	's	's	VBZ	_	2	advcl	_	O
+6	the	the	DT	_	7	det	_	O
+7	TRUTH	truth	NN	pos2=NNP	5	attr	_	O
+8	!	!	.	_	2	punct	_	O
+
+1	Ppl	ppl	NNP	pos2=NNS	4	nsubj	_	U-ORG
+2	will	will	MD	_	4	aux	_	O
+3	not	not	RB	_	4	neg	_	O
+4	see	see	VB	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	truth	truth	NN	_	4	dobj	_	O
+7	or	or	CC	_	6	cc	_	O
+8	the	the	DT	_	9	det	_	O
+9	LIGHT	light	NN	_	6	conj	_	O
+10	with	with	IN	_	9	prep	_	O
+11	blind	blind	JJ	_	12	nmod	_	O
+12	eyes	eye	NNS	_	10	pobj	_	O
+13	.	.	.	_	4	punct	_	O
+
+1	Do	do	VB	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	stop	stop	VB	_	0	root	_	O
+4	using	use	VBG	_	3	xcomp	_	O
+5	ur	ur	JJ	pos2=PRP$	6	nmod	_	O
+6	voice	voice	NN	_	4	dobj	_	O
+7	!	!	.	_	3	punct	_	O
+

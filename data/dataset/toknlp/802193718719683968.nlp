@@ -1,0 +1,22 @@
+1	Get	get	VB	_	0	root	_	O
+2	$	$	$	_	3	nmod	_	O
+3	200	0	CD	_	1	dobj	_	U-MONEY
+4	when	when	WRB	_	6	advmod	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	sigh	sigh	VBP	_	1	advcl	_	O
+7	up	up	RP	pos2=RB	6	prt	_	O
+8	to	to	TO	pos2=IN	9	aux	_	O
+9	Drive	drive	VB	pos2=NNP	6	xcomp	_	O
+10	for	for	IN	_	9	prep	_	O
+11	#uber	#uber	PRP	pos2=NNP	10	pobj	_	O
+12	need	need	VB	pos2=VBP	9	conj	_	O
+13	partners	partner	NNS	_	12	dobj	_	O
+14	in	in	IN	_	13	prep	_	O
+15	your	your	PRP$	_	16	poss	_	O
+16	#city	#city	NN	pos2=``	14	pobj	_	O
+17	No	no	DT	pos2=UH	21	dep	_	O
+18	set	set	NN	pos2=JJ	21	dep	_	O
+19	hours	hour	NNS	pos2=GW	21	nmod	_	O
+20	https://t.co/9wrEH9vVv9	#hlink#	ADD	_	21	nmod	_	O
+21	https://t.co/z7MW9ZtyQ7	#hlink#	ADD	_	1	dep	_	U-ORG
+

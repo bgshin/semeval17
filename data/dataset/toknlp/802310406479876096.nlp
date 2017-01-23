@@ -1,0 +1,18 @@
+1	ICYMI	icymi	NN	_	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Unbiased	unbiased	JJ	_	4	nmod	_	O
+4	Review	review	NN	_	17	dep	_	O
+5	:	:	:	_	4	punct	_	O
+6	Rancho	rancho	NNP	_	17	nmod	_	O
+7	Luna	luna	NNP	_	17	dep	_	O
+8	Maduro	maduro	NNP	_	17	dep	_	O
+9	Robusto	robusto	NNP	_	17	dep	_	O
+10	https://t.co/e7IvYeXuGB	#hlink#	ADD	pos2=NNP	17	dep	_	O
+11	-	-	HYPH	pos2=:	13	punct	_	O
+12	a	a	DT	_	14	det	_	O
+13	solid	solid	JJ	_	14	nmod	_	O
+14	value	value	NN	_	17	dep	_	O
+15	#cigar!#cigarlife	#cigar!#cigarlife	GW	pos2=XX	14	acl	_	B-DATE
+16	…	…	NFP	pos2=GW	17	punct	_	L-DATE
+17	https://t.co/fOiDFTw1TJ	#hlink#	ADD	pos2=NN	0	root	_	O
+

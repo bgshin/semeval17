@@ -1,0 +1,20 @@
+1	Is	be	VBZ	_	0	root	_	O
+2	n't	not	RB	_	1	neg	_	O
+3	it	it	PRP	_	1	nsubj	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	time	time	NN	pos2=VBP	10	npadvmod	_	O
+6	these	these	DT	_	9	det	_	O
+7	fake	fake	JJ	_	9	nmod	_	O
+8	news	news	NN	_	9	compound	_	O
+9	creators	creator	NNS	_	10	nsubj	_	O
+10	stopped	stop	VBD	_	1	ccomp	_	O
+11	feeding	feed	VBG	_	10	xcomp	_	O
+12	the	the	DT	_	13	det	_	O
+13	deplorables	deplorables	NNS	pos2=NN	15	poss	_	O
+14	'	'	POS	_	13	case	_	O
+15	fires	fire	NNS	_	11	dobj	_	O
+16	?	?	.	_	1	punct	_	O
+
+1	#fakenews	#fakenews	UH	pos2=-LRB-	2	discourse	_	O
+2	https://t.co/gQyhikKxIx	#hlink#	ADD	pos2=NN	0	root	_	O
+

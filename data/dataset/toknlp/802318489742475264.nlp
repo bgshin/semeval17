@@ -1,0 +1,25 @@
+1	Another	another	DT	_	3	det	_	O
+2	controversial	controversial	JJ	_	3	nmod	_	O
+3	paper	paper	NN	_	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+
+1	-	-	SYM	pos2=,	5	punct	_	O
+2	Do	do	VBP	pos2=VB	5	aux	_	O
+3	They	they	PRP	_	5	nsubj	_	O
+4	All	all	DT	_	3	appos	_	O
+5	Look	look	VBP	pos2=VB	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	Same	same	JJ	pos2=NNPS	5	attr	_	O
+8	?	?	.	_	5	punct	_	O
+
+1	Deciphering	decipher	VBG	_	10	nmod	_	O
+2	Chinese	chinese	JJ	pos2=NNPS	10	nmod	_	U-NORP
+3	,	,	,	_	2	punct	_	O
+4	Japanese	japanese	JJ	pos2=NNPS	2	conj	_	U-NORP
+5	and	and	CC	_	4	cc	_	O
+6	Koreans	korean	NNPS	pos2=NNP	4	conj	_	U-NORP
+7	by	by	IN	_	1	prep	_	O
+8	Deep	deep	NNP	pos2=JJ	9	compound	_	B-PERSON
+9	Learning	learning	NNP	pos2=GW	7	pobj	_	L-PERSON
+10	https://t.co/UrfbhZepni	#hlink#	ADD	pos2=NNP	0	root	_	O
+

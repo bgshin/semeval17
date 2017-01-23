@@ -1,0 +1,20 @@
+1	25	0	CD	_	2	nmod	_	B-PERCENT
+2	%	%	NN	_	3	compound	_	L-PERCENT
+3	DISCOUNT	discount	NN	_	7	dep	_	O
+4	:	:	:	_	7	punct	_	O
+5	Only	only	RB	_	6	advmod	_	B-CARDINAL
+6	5	0	CD	_	7	nmod	_	L-CARDINAL
+7	seats	seat	NNS	pos2=NN	0	root	_	O
+8	left	leave	VBN	_	7	acl	_	O
+9	in	in	IN	pos2=RP	8	prep	_	O
+10	#project	#project	FW	pos2=NN	9	pobj	_	O
+11	#management	#management	IN	pos2=FW	8	prep	_	O
+12	professional	professional	JJ	_	14	nmod	_	O
+13	prep	prep	NN	pos2=JJ	14	compound	_	O
+14	exam	exam	NN	_	15	compound	_	O
+15	#pmp	#pmp	NN	pos2=IN	11	pobj	_	O
+16	in	in	IN	_	15	prep	_	O
+17	#Tripoli	#tripoli	NNP	pos2=NNS	16	pobj	_	U-GPE
+18	#L	#l	NFP	pos2=POS	7	discourse	_	O
+19	ibyahttps://t.co/8Df9k1iQhm	#hlink#	ADD	_	7	dep	_	O
+

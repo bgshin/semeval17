@@ -1,0 +1,21 @@
+1	@deepsilver	@deepsilver	UH	pos2=NN	12	discourse	_	O
+2	When	when	WRB	_	12	advmod	_	O
+3	will	will	MD	pos2=NN	12	aux	_	O
+4	,	,	,	_	12	punct	_	O
+5	the	the	DT	_	6	det	_	O
+6	theme	theme	NN	_	12	nsubj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	Ryuji	ryuji	NNP	_	7	pobj	_	U-PERSON
+9	from	from	IN	_	6	prep	_	O
+10	Persona	persona	NNP	pos2=NN	9	pobj	_	O
+11	5	0	CD	pos2=MD	10	nmod	_	U-CARDINAL
+12	be	be	VB	pos2=NNS	0	root	_	O
+13	available	available	JJ	_	12	acomp	_	O
+14	in	in	IN	_	12	prep	_	O
+15	Europe	europe	NNP	_	14	pobj	_	U-LOC
+16	?	?	.	_	12	punct	_	O
+
+1	#BetterLateThanNever	#betterlatethannever	ADD	pos2=WRB	3	punct	_	O
+2	#P5	#p0	NN	pos2=CD	3	compound	_	O
+3	#Ryuji	#ryuji	NNS	pos2=NNP	0	root	_	O
+

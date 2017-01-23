@@ -1,0 +1,14 @@
+1	david	david	NNP	pos2=FW	2	compound	_	O
+2	blaine	blaine	NN	pos2=NNP	10	vocative	_	O
+3	you	you	PRP	_	8	nsubj	_	O
+4	crazy	crazy	JJ	pos2=VBP	6	nmod	_	O
+5	mother	mother	NN	_	6	compound	_	O
+6	trucker	trucker	NN	_	3	appos	_	O
+7	why	why	WRB	_	10	advmod	_	O
+8	do	do	VBP	_	10	aux	_	O
+9	you	you	PRP	_	10	nsubj	_	O
+10	do	do	VB	_	0	root	_	O
+11	this	this	DT	_	10	dobj	_	O
+12	to	to	IN	_	10	prep	_	O
+13	me	me	PRP	_	12	pobj	_	O
+

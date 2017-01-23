@@ -1,0 +1,16 @@
+1	My	my	PRP$	_	3	poss	_	O
+2	lovely	lovely	JJ	_	3	nmod	_	O
+3	cat	cat	NN	_	8	vocative	_	O
+4	#Back	#back	NNP	pos2=WDT	3	appos	_	O
+5	❤	❤	NFP	pos2=VBD	8	punct	_	O
+6	#instacats	#instacats	NNS	pos2=UH	8	nsubj	_	O
+7	#lovely	#lovely	RB	pos2=XX	8	advmod	_	O
+8	#cute	#cute	VBP	pos2=UH	0	root	_	O
+9	#binghazi❤	#binghazi❤	CD	pos2=XX	8	dobj	_	U-CARDINAL
+10	#selfie	#selfie	UH	pos2=PRP	8	discourse	_	O
+11	#catselfies	#catselfies	UH	pos2=NNS	8	discourse	_	O
+12	#Libya	#libya	NNP	pos2=UH	15	dep	_	U-PERSON
+13	#charcher	#charcher	UH	pos2=GW	15	discourse	_	O
+14	…	…	NFP	pos2=-LRB-	15	punct	_	O
+15	https://t.co/Rp75N0Vl7e	#hlink#	ADD	_	8	dobj	_	O
+

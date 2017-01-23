@@ -1,0 +1,13 @@
+1	What	what	WP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	better	good	JJR	_	2	acomp	_	O
+4	than	than	IN	_	3	prep	_	O
+5	thanksgiving	thanksgiving	VBG	pos2=JJ	4	pcomp	_	O
+6	day	day	NN	_	7	compound	_	O
+7	dinner	dinner	NN	_	5	dobj	_	O
+8	?	?	.	_	2	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	leftovers	leftover	NNS	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+

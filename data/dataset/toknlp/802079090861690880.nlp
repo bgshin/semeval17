@@ -1,0 +1,22 @@
+1	Nasty	nasty	JJ	_	2	nmod	_	O
+2	women	woman	NNS	_	0	root	_	O
+3	and	and	CC	_	2	cc	_	O
+4	bad	bad	JJ	_	5	nmod	_	O
+5	hombres	hombre	NNS	pos2=FW	2	conj	_	O
+6	celebrating	celebrate	VBG	_	2	acl	_	O
+7	our	our	PRP$	_	8	poss	_	O
+8	diversity	diversity	NN	_	6	dobj	_	O
+9	and	and	CC	_	6	cc	_	O
+10	committing	commit	VBG	pos2=NN	6	conj	_	O
+11	to	to	IN	pos2=TO	10	prep	_	O
+12	action	action	NN	_	11	pobj	_	O
+13	for	for	IN	_	10	prep	_	O
+14	an	an	DT	_	18	det	_	O
+15	empathic	empathic	JJ	_	18	nmod	_	O
+16	and	and	CC	_	15	cc	_	O
+17	kind	kind	JJ	pos2=NN	15	conj	_	O
+18	community	community	NN	_	13	pobj	_	O
+19	.	.	.	_	2	punct	_	O
+
+1	https://t.co/OXtNGu3Ml0	#hlink#	ADD	_	0	root	_	U-ORG
+

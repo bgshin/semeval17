@@ -1,0 +1,19 @@
+1	NHL	nhl	NN	pos2=NNP	18	dep	_	O
+2	:	:	:	_	18	punct	_	O
+3	TarasenkoMLB	tarasenkomlb	NNP	pos2=NN	18	dep	_	O
+4	:	:	:	_	18	punct	_	O
+5	VerlanderNFL	verlandernfl	NNP	pos2=NN	18	dep	_	O
+6	:	:	:	_	18	punct	_	O
+7	Dez	dez	NNP	_	8	compound	_	O
+8	NBA	nba	NNP	pos2=NN	18	dep	_	O
+9	:	:	:	_	18	punct	_	O
+10	Not	not	RB	_	12	neg	_	O
+11	a	a	DT	_	12	det	_	O
+12	sportSoccer	sportsoccer	NN	_	18	dep	_	O
+13	:	:	:	_	18	punct	_	O
+14	Not	not	RB	_	17	neg	_	O
+15	an	an	DT	_	17	det	_	O
+16	American	american	JJ	_	17	nmod	_	U-NORP
+17	sport	sport	NN	_	18	dep	_	O
+18	https://t.co/L9s8sOSh2c	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,12 @@
+1	#onedirection	#onedirection	UH	pos2=NN	5	prep	_	O
+2	#doctorwho	#doctorwho	UH	pos2=FW	5	prep	_	O
+3	#harrystyles	#harrystyles	UH	pos2=VBZ	4	nmod	_	O
+4	Doctor	doctor	NNP	pos2=NN	0	root	_	O
+5	Who	who	WP	pos2=NNP	11	dobj	_	O
+6	London	london	NNP	_	8	compound	_	B-ORG
+7	Telephone	telephone	NNP	_	8	compound	_	I-ORG
+8	Booth	booth	NNP	pos2=GW	11	dep	_	I-ORG
+9	Poster	poster	GW	pos2=NNP	11	nmod	_	L-ORG
+10	https://t.co/6hqBvSmp0k	#hlink#	ADD	_	11	nmod	_	O
+11	https://t.co/MEBllXl5SX	#hlink#	ADD	_	4	relcl	_	U-ORG
+

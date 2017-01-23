@@ -1,0 +1,19 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	U-ORG
+2	@BraddJaffy	@braddjaffy	NN	pos2=CD	8	dep	_	O
+3	:	:	:	_	8	punct	_	O
+4	Maggiano	maggiano	NNP	pos2=NN	7	poss	_	B-ORG
+5	’s	's	POS	_	4	case	_	I-ORG
+6	Little	little	NNP	pos2=JJ	7	compound	_	I-ORG
+7	Italy	italy	NNP	_	8	nsubj	_	L-ORG
+8	apologizes	apologize	VBZ	_	0	root	_	O
+9	after	after	IN	_	8	prep	_	O
+10	hosting	host	VBG	_	9	pcomp	_	O
+11	white	white	JJ	_	13	nmod	_	O
+12	nationalist	nationalist	JJ	pos2=NN	13	nmod	_	O
+13	dinner	dinner	NN	_	10	dobj	_	O
+14	complete	complete	JJ	_	18	dep	_	O
+15	with	with	IN	_	14	prep	_	O
+16	Nazi	nazi	NNP	pos2=JJ	17	compound	_	U-NORP
+17	salute	salute	NN	_	15	pobj	_	O
+18	https://t.co/AsvTlIUgvN…	#hlink#	ADD	pos2=NN	13	npadvmod	_	U-ORG
+

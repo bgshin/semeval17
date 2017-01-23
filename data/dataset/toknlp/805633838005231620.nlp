@@ -1,0 +1,27 @@
+1	Marine	marine	NNP	pos2=JJ	3	compound	_	B-PERSON
+2	Le	le	NNP	_	3	compound	_	I-PERSON
+3	Pen	pen	NNP	_	5	poss	_	I-PERSON
+4	's	's	POS	_	3	case	_	L-PERSON
+5	dad	dad	NN	_	6	nsubj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	savage	savage	NN	pos2=FW	6	attr	_	O
+9	.	.	.	_	6	punct	_	O
+
+1	You	you	PRP	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	tell	tell	VB	_	0	root	_	O
+4	who	who	WP	_	5	nsubj	_	O
+5	is	be	VBZ	_	3	ccomp	_	O
+6	in	in	IN	_	5	prep	_	O
+7	control	control	NN	_	6	pobj	_	O
+8	based	base	VBN	_	5	prep	_	O
+9	on	on	IN	_	8	prep	_	O
+10	who	who	WP	_	14	dobj	_	O
+11	you	you	PRP	_	14	nsubj	_	O
+12	ca	can	MD	_	14	aux	_	O
+13	n't	not	RB	_	14	neg	_	O
+14	offend	offend	VB	_	9	pcomp	_	O
+15	>	>	NFP	pos2=-LRB-	16	punct	_	O
+16	https://t.co/0FfiQnZNsG	#hlink#	ADD	pos2=NN	14	dobj	_	O
+

@@ -1,0 +1,12 @@
+1	Rightists	rightist	NNS	pos2=NNPS	2	nsubj	_	U-NORP
+2	plan	plan	VBP	pos2=NN	0	root	_	O
+3	mega-Jerusalem	mega-jerusalem	RB	pos2=JJ	2	advmod	_	O
+4	in	in	IN	_	2	prep	_	O
+5	2040	0	CD	_	4	pobj	_	U-DATE
+6	-	-	:	pos2=HYPH	2	punct	_	O
+7	with	with	IN	_	2	prep	_	O
+8	invisible	invisible	JJ	_	9	nmod	_	O
+9	Palestinians	palestinian	NNPS	pos2=GW	7	pobj	_	U-NORP
+10	https://t.co/sayValFzGD	#hlink#	ADD	_	11	nmod	_	O
+11	https://t.co/SppBjJoUFV	#hlink#	ADD	_	2	dep	_	U-ORG
+

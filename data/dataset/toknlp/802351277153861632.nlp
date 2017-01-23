@@ -1,0 +1,22 @@
+1	Cody	cody	NNP	pos2=NN	5	nsubj	_	U-PERSON
+2	and	and	CC	_	1	cc	_	O
+3	grandfather	grandfather	NN	_	1	conj	_	O
+4	Col	col	NNP	_	5	nsubj	_	U-PERSON
+5	were	be	VBD	_	0	root	_	O
+6	impressed	impressed	JJ	pos2=VBN	5	acomp	_	O
+7	with	with	IN	_	6	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	Tesla	tesla	NNP	_	10	compound	_	O
+10	Model	model	NNP	_	13	poss	_	O
+11	S	s	POS	pos2=NNP	10	case	_	O
+12	electric	electric	JJ	_	13	nmod	_	O
+13	cars	car	NNS	_	7	pobj	_	O
+14	at	at	IN	_	5	prep	_	O
+15	the	the	DT	_	18	det	_	B-ORG
+16	Narooma	narooma	NNP	_	18	compound	_	I-ORG
+17	Renewable	renewable	NNP	_	18	compound	_	I-ORG
+18	Energy	energy	NNP	pos2=NN	14	pobj	_	L-ORG
+19	...	..	.	pos2=,	5	punct	_	O
+
+1	https://t.co/mr1q2K2q55	#hlink#	ADD	_	0	root	_	U-ORG
+

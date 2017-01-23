@@ -1,0 +1,31 @@
+1	@LouDobbs	@loudobbs	NNS	pos2=ADD	12	prep	_	O
+2	@dcexaminer	@dcexaminer	UH	pos2=IN	1	discourse	_	O
+3	If	if	IN	_	6	mark	_	O
+4	Jeb	jeb	NNP	_	6	nsubj	_	U-PERSON
+5	had	have	VBD	_	6	aux	_	O
+6	won	win	VBN	pos2=NN	12	advcl	_	O
+7	,	,	,	_	12	punct	_	O
+8	he	he	PRP	_	12	nsubj	_	O
+9	would	would	MD	_	12	aux	_	O
+10	still	still	RB	_	12	advmod	_	O
+11	be	be	VB	_	12	aux	_	O
+12	looking	look	VBG	_	0	root	_	O
+13	at	at	IN	_	12	prep	_	O
+14	Cabinet	cabinet	NNP	_	13	pobj	_	U-ORG
+15	.	.	.	_	12	punct	_	O
+
+1	Trump	trump	NN	pos2=NNP	4	nsubj	_	U-ORG
+2	has	have	VBZ	_	4	aux	_	O
+3	already	already	RB	_	4	advmod	_	O
+4	selected	select	VBN	_	0	root	_	O
+5	abt	abt	NN	pos2=IN	4	dobj	_	O
+6	10	0	CD	_	5	nmod	_	U-CARDINAL
+7	just	just	RB	_	8	advmod	_	O
+8	in	in	IN	pos2=RB	4	prep	_	O
+9	3rd	#ord#	JJ	pos2=NN	10	nmod	_	B-DATE
+10	week	week	NN	_	8	pobj	_	L-DATE
+11	.	.	.	_	4	punct	_	O
+
+1	Outworks	outwork	NNS	pos2=VBZ	2	compound	_	O
+2	Jeb	jeb	NNP	pos2=XX	0	root	_	U-PERSON
+

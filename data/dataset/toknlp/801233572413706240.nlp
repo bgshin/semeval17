@@ -1,0 +1,15 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@Microsoft	@microsoft	NNP	pos2=WP	2	nsubj	_	U-ORG
+2	joins	join	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	@LinuxFoundation	@linuxfoundation	NN	pos2=NNP	2	dobj	_	O
+5	::	::	NFP	pos2=,	6	punct	_	O
+6	https://t.co/TNsu6HFGqB	#hlink#	ADD	pos2=NN	4	appos	_	O
+7	via	via	IN	_	2	prep	_	O
+8	@OpenAtMicrosoft	@openatmicrosoft	JJ	pos2=NNP	7	pobj	_	O
+9	||	||	NFP	pos2=.	2	punct	_	O
+10	#Linux	#linux	GW	pos2=XX	12	nmod	_	O
+11	#OpenSource	#opensource	GW	pos2=ADD	12	nmod	_	O
+12	https://t.co/H9tDApBJbW	#hlink#	ADD	pos2=NN	2	dobj	_	O
+

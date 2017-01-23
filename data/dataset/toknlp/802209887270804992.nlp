@@ -1,0 +1,31 @@
+1	AMERICA	america	NNP	pos2=NN	2	nsubj	_	U-GPE
+2	controlled	control	VBN	_	0	root	_	O
+3	by	by	IN	_	2	agent	_	O
+4	KGB	kgb	NNP	_	5	compound	_	U-ORG
+5	moles	mole	NNS	_	3	pobj	_	O
+6	?	?	.	_	2	punct	_	O
+
+1	No	no	DT	_	3	det	_	B-ORG
+2	White	white	NNP	pos2=JJ	3	compound	_	I-ORG
+3	House	house	NNP	_	0	root	_	L-ORG
+4	,	,	,	_	3	punct	_	O
+5	but	but	CC	_	3	cc	_	O
+6	Red	red	NNP	_	7	compound	_	B-ORG
+7	House	house	NNP	_	3	conj	_	L-ORG
+8	?	?	.	_	3	punct	_	O
+
+1	Demand	demand	VB	pos2=NN	0	root	_	O
+2	the	the	DT	_	4	det	_	O
+3	Popular	popular	NNP	pos2=JJ	4	compound	_	U-ORG
+4	Vote	vote	NN	pos2=NNP	1	dobj	_	O
+5	no	no	DT	_	7	det	_	O
+6	Electoral	electoral	JJ	pos2=NNP	7	nmod	_	O
+7	Vote	vote	NN	pos2=NNP	1	dep	_	O
+8	!	!	.	_	1	punct	_	O
+
+1	SAVE	save	VB	_	0	root	_	O
+2	THE	the	DT	_	3	det	_	O
+3	USA	usa	NNP	pos2=NN	1	dobj	_	U-GPE
+4	NOW	now	RB	_	1	advmod	_	O
+5	!	!	.	_	1	punct	_	O
+

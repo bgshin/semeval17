@@ -1,0 +1,19 @@
+1	@MarQs	@marqs	NNS	pos2=UH	5	dep	_	O
+2	__	__	NFP	pos2=SYM	5	punct	_	O
+3	They	they	PRP	_	5	nsubj	_	O
+4	finally	finally	RB	_	5	advmod	_	O
+5	grew	grow	VBD	_	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	spine	spine	NN	_	5	dobj	_	O
+8	and	and	CC	_	5	cc	_	O
+9	stopped	stop	VBD	pos2=VBN	5	conj	_	O
+10	following	follow	VBG	_	9	xcomp	_	O
+11	treasonous	treasonous	JJ	_	12	nmod	_	O
+12	orders	order	NNS	_	10	dobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	not	not	RB	_	15	neg	_	O
+15	retaliating	retaliate	VBG	_	13	pcomp	_	O
+16	by	by	IN	_	15	prep	_	O
+17	Poroshenko	poroshenko	NNP	_	16	pobj	_	U-PERSON
+18	?	?	.	_	5	punct	_	O
+

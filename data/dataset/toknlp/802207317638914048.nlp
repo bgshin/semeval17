@@ -1,0 +1,17 @@
+1	One	#crd#	CD	pos2=NNP	10	nsubjpass	_	U-CARDINAL
+2	by	by	IN	_	1	prep	_	O
+3	One	#crd#	CD	pos2=NNP	2	pobj	_	U-CARDINAL
+4	,	,	,	_	10	punct	_	O
+5	#ISIS	#isis	NNP	pos2=IN	8	compound	_	O
+6	Social	social	NNP	pos2=JJ	7	compound	_	B-ORG
+7	Media	media	NNP	_	8	compound	_	L-ORG
+8	Experts	expert	NNPS	pos2=NNS	10	nsubjpass	_	O
+9	Are	be	VBP	_	10	auxpass	_	O
+10	Killed	kill	VBN	_	0	root	_	O
+11	as	as	IN	_	10	prep	_	O
+12	Result	result	NNP	pos2=NN	11	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	F.B.I.	f.b.i.	NNP	_	15	compound	_	B-ORG
+15	Program	program	NNP	pos2=NN	13	pobj	_	L-ORG
+16	https://t.co/zqLUhlAB71	#hlink#	ADD	_	10	dep	_	O
+

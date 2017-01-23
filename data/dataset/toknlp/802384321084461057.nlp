@@ -1,0 +1,17 @@
+1	@fstdfemme	@fstdfemme	UH	pos2=VB	3	discourse	_	O
+2	like	like	UH	_	3	discourse	_	O
+3	ok	ok	UH	pos2=VB	0	root	_	O
+4	up	up	RP	pos2=IN	3	prt	_	O
+5	his	his	PRP$	_	6	poss	_	O
+6	part	part	NN	_	3	npadvmod	_	O
+7	in	in	IN	_	6	prep	_	O
+8	The	the	DT	_	9	det	_	B-DATE
+9	summer	summer	NN	_	7	pobj	_	L-DATE
+10	of	of	IN	_	9	prep	_	O
+11	chaos	chaos	NN	_	10	pobj	_	O
+12	and	and	CC	_	6	cc	_	O
+13	George	george	NNP	_	14	compound	_	B-PERSON
+14	Soros	soros	NNP	_	11	conj	_	L-PERSON
+15	as	as	RB	pos2=IN	16	advmod	_	O
+16	well	well	RB	_	3	advmod	_	O
+

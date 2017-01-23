@@ -1,0 +1,14 @@
+1	The	the	DT	_	8	det	_	O
+2	latest	late	JJS	_	8	nmod	_	O
+3	Hasem	hasem	NNP	_	5	compound	_	O
+4	Ben	ben	NNP	_	5	compound	_	B-PERSON
+5	Sober	sober	NNP	_	8	poss	_	I-PERSON
+6	's	's	POS	_	5	case	_	L-PERSON
+7	Daily	daily	NNP	pos2=JJ	8	compound	_	B-PERSON
+8	Mulch	mulch	NNP	pos2=NN	0	root	_	L-PERSON
+9	!	!	.	_	8	punct	_	O
+
+1	https://t.co/nOgOWZkxZ7	#hlink#	ADD	_	0	root	_	O
+2	#blackfriday	#blackfriday	-RRB-	pos2=UH	1	punct	_	O
+3	#blacklivesmatter	#blacklivesmatter	UH	pos2=-RRB-	1	discourse	_	O
+

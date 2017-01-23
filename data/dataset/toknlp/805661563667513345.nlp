@@ -1,0 +1,27 @@
+1	@iOnlyWearPants	@ionlywearpants	VBZ	pos2=NNS	0	root	_	O
+2	it	it	PRP	_	1	nsubj	_	O
+3	just	just	RB	_	5	advmod	_	O
+4	fucking	fucking	JJ	pos2=VBG	5	nmod	_	O
+5	blows	blow	NNS	_	1	dobj	_	O
+6	because	because	IN	_	13	mark	_	O
+7	working	work	VBG	_	6	pcomp	_	O
+8	a	a	DT	_	11	det	_	O
+9	minimum	minimum	JJ	pos2=NN	11	nmod	_	O
+10	wage	wage	NN	_	11	compound	_	O
+11	job	job	NN	_	7	dobj	_	O
+12	i	I	PRP	_	13	nsubj	_	O
+13	need	need	VBP	_	1	advcl	_	O
+14	all	all	PDT	_	16	predet	_	O
+15	the	the	DT	_	16	det	_	O
+16	money	money	NN	_	13	dobj	_	O
+17	i	I	PRP	_	19	nsubj	_	O
+18	can	can	MD	_	19	aux	_	O
+19	get	get	VB	_	16	relcl	_	O
+20	.	.	.	_	1	punct	_	O
+
+1	shit	shit	NN	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	nt	nt	RB	_	4	advmod	_	O
+4	cheap	cheap	JJ	_	2	acomp	_	O
+5	.	.	.	_	2	punct	_	O
+

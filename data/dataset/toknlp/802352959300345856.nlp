@@ -1,0 +1,28 @@
+1	Understand	understand	VB	pos2=VBP	0	root	_	O
+2	now	now	RB	_	1	advmod	_	O
+3	why	why	WRB	_	6	advmod	_	O
+4	Melania	melania	NNP	_	5	compound	_	B-PERSON
+5	Trump	trump	NNP	_	6	nsubj	_	L-PERSON
+6	spoke	speak	VBD	_	2	ccomp	_	O
+7	out	out	RP	pos2=IN	6	prt	_	O
+8	against	against	IN	_	6	prep	_	O
+9	bullying	bullying	NN	pos2=VBG	8	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	children	child	NNS	_	10	pobj	_	O
+12	&	&	CC	_	6	cc	_	O
+13	why	why	WRB	_	15	advmod	_	O
+14	she	she	PRP	_	15	nsubj	_	O
+15	wants	want	VBZ	_	6	conj	_	O
+16	to	to	TO	_	17	aux	_	O
+17	stay	stay	VB	_	15	xcomp	_	O
+18	in	in	IN	_	17	prep	_	O
+19	NY	ny	NNP	pos2=NN	18	pobj	_	U-GPE
+20	.	.	.	_	1	punct	_	O
+
+1	Good	good	JJ	pos2=NNP	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	her	her	PRP	_	2	pobj	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	https://t.co/TCxVfskwNm	#hlink#	ADD	_	0	root	_	U-ORG
+

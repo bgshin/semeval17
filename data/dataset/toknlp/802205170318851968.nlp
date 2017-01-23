@@ -1,0 +1,18 @@
+1	LOOOOOOOOL	looooooool	NNP	pos2=NN	3	vocative	_	U-ORG
+2	I	I	PRP	_	3	nsubj	_	O
+3	FORGOT	forget	VBD	pos2=NNP	0	root	_	O
+4	THERES	theres	NNP	pos2=RB	7	nsubj	_	O
+5	A	a	DT	_	7	det	_	O
+6	CATHOLIC	catholic	JJ	_	7	nmod	_	U-NORP
+7	BLESSING	blessing	NN	_	3	ccomp	_	O
+8	OR	or	CC	pos2=NN	7	cc	_	O
+9	W	w	IN	pos2=NN	7	conj	_	O
+10	/	/	HYPH	pos2=SYM	9	punct	_	O
+11	E	e	NN	pos2=NNS	9	pobj	_	O
+12	THAT	that	WDT	_	13	nsubj	_	O
+13	LOOKS	look	VBZ	_	7	relcl	_	O
+14	LIKE	like	IN	_	13	prep	_	O
+15	THE	the	DT	_	17	det	_	O
+16	NAZI	nazi	NNP	pos2=NN	17	compound	_	U-NORP
+17	SALUTE	salute	NN	_	14	pobj	_	O
+

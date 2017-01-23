@@ -1,0 +1,28 @@
+1	New	new	JJ	pos2=NNP	3	nmod	_	O
+2	tumblr	tumblr	NN	pos2=RP	3	compound	_	O
+3	post	post	NN	pos2=AFX	16	dep	_	O
+4	:	:	:	_	3	punct	_	O
+5	"	"	``	pos2=''	3	punct	_	O
+6	@ridesharedating	@ridesharedating	VBG	pos2=NN	16	dep	_	O
+7	:	:	:	_	16	punct	_	O
+8	New	new	JJ	pos2=NNP	10	nmod	_	O
+9	tumblr	tumblr	NN	pos2=RP	10	compound	_	O
+10	post	post	NN	pos2=AFX	16	dep	_	O
+11	:	:	:	_	6	punct	_	O
+12	"	"	``	pos2=''	10	punct	_	O
+13	@Swilly44	@swilly0	NN	pos2=NNS	16	dep	_	O
+14	:	:	:	_	16	punct	_	O
+15	@heatherfard	@heatherfard	JJ	pos2=XX	16	advmod	_	O
+16	yo	yo	JJ	pos2=UH	0	root	_	O
+17	!	!	.	_	16	punct	_	O
+
+1	Hot	hot	JJ	pos2=NNP	3	nmod	_	O
+2	#uber	#uber	PRP$	pos2=NN	3	poss	_	O
+3	driver	driver	NN	_	6	nsubj	_	O
+4	last	last	JJ	_	5	nmod	_	B-TIME
+5	night	night	NN	_	3	npadvmod	_	L-TIME
+6	😝	😝	NNP	pos2=NFP	0	root	_	O
+7	#T	#t	NFP	pos2=GW	6	discourse	_	O
+8	…	…	NFP	pos2=-LRB-	6	discourse	_	O
+9	https://t.co/HcJfRApuV0	#hlink#	ADD	_	6	appos	_	O
+

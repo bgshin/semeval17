@@ -1,0 +1,15 @@
+1	@JoltedToad	@joltedtoad	NN	pos2=ADD	2	compound	_	O
+2	@angela_rye	@angela_rye	NNP	pos2=NN	3	nsubj	_	U-PERSON
+3	did	do	VBD	_	5	aux	_	O
+4	obama	obama	NNP	pos2=VB	5	nsubj	_	U-PERSON
+5	denouce	denouce	VB	pos2=IN	0	root	_	O
+6	black	black	JJ	_	7	nmod	_	O
+7	supremacists	supremacist	NNS	_	5	dobj	_	O
+8	?	?	.	_	5	punct	_	O
+
+1	Black	black	JJ	pos2=NNP	2	nmod	_	O
+2	panthers	panther	NNS	pos2=NN	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	no	no	DT	pos2=UH	0	root	_	O
+

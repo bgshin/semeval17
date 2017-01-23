@@ -1,0 +1,18 @@
+1	tremendous	tremendous	JJ	_	2	nmod	_	O
+2	advances	advance	NNS	_	7	nsubj	_	O
+3	in	in	IN	_	2	prep	_	O
+4	artificial	artificial	JJ	_	5	nmod	_	O
+5	intelligence	intelligence	NN	_	3	pobj	_	O
+6	are	be	VBP	_	7	aux	_	O
+7	powering	power	VBG	_	0	root	_	O
+8	everything	everything	NN	_	7	dobj	_	O
+9	from	from	IN	_	8	prep	_	O
+10	self-driving	self-driving	JJ	pos2=VBG	11	nmod	_	O
+11	cars	car	NNS	_	9	pobj	_	O
+12	to	to	IN	_	7	prep	_	O
+13	apps	app	NNS	_	12	pobj	_	O
+14	that	that	WDT	_	15	nsubj	_	O
+15	help	help	VBP	pos2=NN	13	relcl	_	O
+16	diagnose	diagnose	VB	_	15	xcomp	_	O
+17	cancer	cancer	NN	_	16	dobj	_	O
+

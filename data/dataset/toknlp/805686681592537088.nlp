@@ -1,0 +1,13 @@
+1	Interstate	interstate	NNP	pos2=NN	5	compound	_	B-ORG
+2	Voter	voter	NNP	pos2=NN	3	compound	_	I-ORG
+3	Registration	registration	NNP	pos2=NN	5	compound	_	I-ORG
+4	Crosscheck	crosscheck	NNP	_	5	compound	_	I-ORG
+5	Program	program	NNP	pos2=NN	6	nsubj	_	L-ORG
+6	comes	come	VBZ	_	0	root	_	O
+7	to	to	IN	_	6	prep	_	O
+8	Pennsylvania	pennsylvania	NNP	_	9	compound	_	O
+9	#Crosscheck	#crosscheck	NNP	pos2=POS	12	nmod	_	O
+10	#RecountPA	#recountpa	GW	pos2=NNP	12	nmod	_	O
+11	#AuditTheVote	#auditthevote	ADD	pos2=GW	12	nmod	_	O
+12	https://t.co/oeuiSVe8jH	#hlink#	ADD	_	7	pobj	_	U-ORG
+

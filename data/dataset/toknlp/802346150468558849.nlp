@@ -1,0 +1,18 @@
+1	BEEVERYCREATIVE	beeverycreative	NN	pos2=JJ	0	root	_	O
+2	with	with	IN	_	1	prep	_	O
+3	4	0	CD	_	7	nmod	_	U-CARDINAL
+4	New	new	NNP	pos2=JJ	7	nmod	_	O
+5	3	0	CD	pos2=NNP	7	nmod	_	U-CARDINAL
+6	D	d	NNP	pos2=NN	7	compound	_	O
+7	Printers	printer	NNPS	pos2=NNS	2	pobj	_	O
+8	,	,	,	_	7	punct	_	O
+9	1	0	CD	_	17	nmod	_	U-CARDINAL
+10	New	new	JJ	pos2=NNP	17	nmod	_	O
+11	3	0	CD	_	17	nmod	_	U-CARDINAL
+12	D	d	NNP	pos2=NN	14	compound	_	B-ORG
+13	Printing	printing	NNP	pos2=VBG	17	nmod	_	I-ORG
+14	De	de	NNP	pos2=GW	17	nmod	_	I-ORG
+15	vicehttps://t.co/Ha6mD4Omqn#3DExpertos	#hlink#	ADD	_	17	dep	_	L-ORG
+16	#	#	NN	pos2=-RRB-	17	compound	_	O
+17	3DPrinting	0dprinting	NN	pos2=VBG	7	appos	_	U-MONEY
+

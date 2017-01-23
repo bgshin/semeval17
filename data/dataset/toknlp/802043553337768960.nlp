@@ -1,0 +1,8 @@
+1	Regrann	regrann	NNP	pos2=NN	7	dep	_	U-PERSON
+2	from	from	IN	_	1	prep	_	O
+3	@ricky_martin	@ricky_martin	NNP	pos2=XX	5	compound	_	B-ORG
+4	@FundacionJumex	@fundacionjumex	NNP	pos2=POS	5	compound	_	I-ORG
+5	#Mexico	#mexico	NNP	pos2=GW	2	pobj	_	L-ORG
+6	#art	#art	ADD	pos2=GW	7	dep	_	O
+7	https://t.co/aQFb2AODom	#hlink#	ADD	_	0	root	_	O
+

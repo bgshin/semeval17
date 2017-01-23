@@ -1,0 +1,34 @@
+1	@army1man1	@army0man0	NN	pos2=MD	2	nsubj	_	O
+2	Drain	drain	VB	pos2=VBP	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	swamp	swamp	NN	_	2	dobj	_	O
+5	?	?	.	_	2	punct	_	O
+
+1	Obamacare	obamacare	NNP	pos2=NN	0	root	_	U-PERSON
+2	?	?	.	_	1	punct	_	O
+
+1	Int	int	NN	pos2=VB	2	compound	_	O
+2	allegiances	allegiance	NNS	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	Interrogation	interrogation	NN	_	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+
+1	Climate	climate	NN	pos2=VB	2	compound	_	O
+2	change	change	NN	pos2=VB	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	Clinton	clinton	NNP	_	3	nsubjpass	_	U-PERSON
+2	being	be	VBG	_	3	auxpass	_	O
+3	charged	charge	VBN	_	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+
+1	Gigantic	gigantic	JJ	_	2	nmod	_	O
+2	wall	wall	NN	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	Yeah	yeah	UH	_	3	discourse	_	O
+2	,	,	,	_	3	punct	_	O
+3	exactly	exactly	RB	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+

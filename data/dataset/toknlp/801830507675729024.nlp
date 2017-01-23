@@ -1,0 +1,21 @@
+1	@utahjazz	@utahjazz	UH	pos2=NN	5	discourse	_	O
+2	When	when	WRB	_	5	advmod	_	O
+3	are	be	VBP	_	5	aux	_	O
+4	we	we	PRP	_	5	nsubj	_	O
+5	going	go	VBG	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	sign	sign	VB	_	5	xcomp	_	O
+8	Mr.	mr.	NNP	_	9	compound	_	O
+9	@George_Hill3	@george_hill0	NNP	pos2=NN	7	dobj	_	U-PERSON
+10	to	to	IN	_	7	prep	_	O
+11	his	his	PRP$	_	12	poss	_	O
+12	extention	extention	NN	_	10	pobj	_	O
+13	?	?	.	_	5	punct	_	O
+
+1	Let	let	VB	_	0	root	_	O
+2	's	's	PRP	_	3	nsubj	_	O
+3	get	get	VB	_	1	ccomp	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	done	do	VBN	pos2=JJ	3	ccomp	_	O
+6	!	!	.	_	1	punct	_	O
+

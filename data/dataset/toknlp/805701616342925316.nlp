@@ -1,0 +1,26 @@
+1	Westworld	westworld	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	is	be	VBZ	_	0	root	_	O
+3	also	also	RB	_	2	advmod	_	O
+4	one	#crd#	CD	_	2	attr	_	U-CARDINAL
+5	of	of	IN	_	4	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	few	few	JJ	_	8	nmod	_	O
+8	shows	show	NNS	pos2=VBZ	5	pobj	_	O
+9	that	that	WDT	pos2=IN	14	dobj	_	O
+10	I	I	PRP	_	14	nsubj	_	O
+11	've	have	VBP	_	14	aux	_	O
+12	actually	actually	RB	_	14	advmod	_	O
+13	been	be	VBN	_	14	aux	_	O
+14	keeping	keep	VBG	_	8	relcl	_	O
+15	up	up	RP	_	14	prt	_	O
+16	with	with	IN	_	14	prep	_	O
+17	;	;	,	pos2=:	22	punct	_	O
+18	so	so	IN	pos2=RB	21	mark	_	O
+19	that	that	IN	pos2=DT	21	mark	_	O
+20	much	much	JJ	pos2=RB	21	nmod	_	O
+21	show	show	VBP	pos2=NN	2	advcl	_	O
+22	how	how	WRB	_	23	advmod	_	O
+23	good	good	JJ	_	25	acomp	_	O
+24	it	it	PRP	_	25	nsubj	_	O
+25	is	be	VBZ	_	21	ccomp	_	O
+

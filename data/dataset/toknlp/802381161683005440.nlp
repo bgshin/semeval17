@@ -1,0 +1,22 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	added	add	VBD	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	video	video	NN	_	2	dobj	_	O
+5	to	to	IN	_	2	prep	_	O
+6	a	a	DT	_	8	det	_	O
+7	@YouTube	@youtube	JJ	pos2=CD	8	nmod	_	O
+8	playlist	playlist	NN	_	5	pobj	_	O
+9	https://t.co/hz4skmxT3D	#hlink#	ADD	_	15	nmod	_	O
+10	'	'	POS	pos2=''	15	punct	_	O
+11	Trump	trump	NNP	pos2=NN	15	poss	_	U-ORG
+12	's	's	POS	pos2=VBZ	11	case	_	O
+13	First	#ord#	JJ	pos2=NNP	15	nmod	_	B-DATE
+14	100	0	CD	_	15	nmod	_	I-DATE
+15	Days	day	NNS	pos2=NNPS	19	npadvmod	_	I-DATE
+16	'	'	''	pos2=RB	2	punct	_	L-DATE
+17	:	:	:	_	2	punct	_	O
+18	'	'	``	pos2=''	19	punct	_	O
+19	Fixing	fix	VBG	pos2=NNP	2	ccomp	_	O
+20	'	'	''	_	19	punct	_	O
+21	ObamaCare	obamacare	NNP	pos2=NN	19	dobj	_	U-PRODUCT
+

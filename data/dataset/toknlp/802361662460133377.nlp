@@ -1,0 +1,18 @@
+1	@briever1	@briever0	NN	pos2=LS	8	nsubj	_	O
+2	A	a	DT	_	4	det	_	O
+3	photo	photo	NN	_	4	compound	_	O
+4	search	search	NN	_	1	dobj	_	O
+5	on	on	IN	_	4	prep	_	O
+6	Google	google	NNP	_	5	pobj	_	U-ORG
+7	only	only	RB	_	8	advmod	_	O
+8	returned	return	VBD	pos2=VBN	0	root	_	O
+9	images	image	NNS	_	8	dobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	David	david	NNP	_	12	compound	_	B-PERSON
+12	Cameron	cameron	NNP	_	10	pobj	_	L-PERSON
+13	and	and	CC	_	12	cc	_	O
+14	Kim	kim	NNP	_	17	compound	_	B-PERSON
+15	Jong	jong	NNP	_	17	compound	_	I-PERSON
+16	-	-	HYPH	_	17	punct	_	I-PERSON
+17	un	un	NNP	pos2=NN	12	conj	_	L-PERSON
+

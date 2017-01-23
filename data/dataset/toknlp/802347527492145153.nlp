@@ -1,0 +1,19 @@
+1	Sore	sore	JJ	pos2=NNP	3	nmod	_	O
+2	Loser	loser	NNP	pos2=NN	3	compound	_	O
+3	Dems	dems	NNP	pos2=NNPS	5	nsubj	_	U-NORP
+4	Already	already	RB	pos2=NNP	5	advmod	_	O
+5	Demanding	demand	VBG	pos2=NNP	0	root	_	O
+6	Govt	govt	NNP	pos2=NN	7	compound	_	B-ORG
+7	Investigation	investigation	NNP	pos2=NN	5	dobj	_	L-ORG
+8	into	into	IN	_	7	prep	_	O
+9	Trump	trump	NNP	_	11	compound	_	B-ORG
+10	Transition	transition	NNP	_	11	compound	_	I-ORG
+11	Team	team	NNP	pos2=NN	8	pobj	_	L-ORG
+12	on	on	IN	_	7	prep	_	O
+13	Fox	fox	NNP	_	14	compound	_	U-ORG
+14	news	news	NN	_	12	pobj	_	O
+15	11/25/16	0	CD	_	14	nmod	_	U-CARDINAL
+16	:	:	:	_	17	punct	_	O
+17	https://t.co/UC0OGFJR2u	#hlink#	ADD	pos2=NN	14	acl	_	O
+18	via	via	IN	pos2=FW	17	prep	_	O
+

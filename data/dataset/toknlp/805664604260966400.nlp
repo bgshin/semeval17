@@ -1,0 +1,26 @@
+1	BRAZIL	brazil	NNP	pos2=NN	0	root	_	U-GPE
+2	!	!	.	_	1	punct	_	O
+
+1	Zac	zac	NNP	_	2	compound	_	B-PERSON
+2	Efron	efron	NNP	_	3	nsubj	_	L-PERSON
+3	has	have	VBZ	_	0	root	_	O
+4	something	something	NN	_	3	dobj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	tell	tell	VB	_	4	relcl	_	O
+7	his	his	PRP$	_	9	poss	_	O
+8	Brazilian	brazilian	JJ	_	9	nmod	_	U-NORP
+9	fans	fan	NNS	_	6	dobj	_	O
+10	that	that	WDT	_	13	nsubj	_	O
+11	ca	can	MD	_	13	aux	_	O
+12	n't	not	RB	_	13	neg	_	O
+13	wait	wait	VB	_	6	ccomp	_	O
+14	to	to	TO	_	15	aux	_	O
+15	watch	watch	VB	_	13	xcomp	_	O
+16	"	"	``	_	17	punct	_	O
+17	VIZINHOS	vizinhos	NN	pos2=NNP	15	dobj	_	O
+18	"	"	''	_	17	punct	_	O
+19	(	(	-LRB-	_	17	punct	_	O
+20	Neighbors	neighbor	NNS	pos2=GW	17	appos	_	O
+21	)	)	-RRB-	_	17	punct	_	O
+22	https://t.co/ffPI5EnYh7	#hlink#	ADD	pos2=NN	17	appos	_	O
+

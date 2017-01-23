@@ -1,0 +1,15 @@
+1	UNIVERSO	universo	NN	pos2=NNP	2	compound	_	O
+2	NOKIA	nokia	NN	pos2=NNP	6	dep	_	O
+3	:	:	:	_	6	punct	_	O
+4	Samsung	samsung	NNP	_	5	compound	_	B-ORG
+5	Galaxy	galaxy	NNP	_	6	nsubj	_	L-ORG
+6	Note	note	VBP	pos2=NN	0	root	_	O
+7	7	0	CD	pos2=IN	11	nmod	_	O
+8	Smartphone	smartphone	NNP	pos2=NN	11	compound	_	B-ORG
+9	Scanner	scanner	NNP	pos2=NN	11	compound	_	I-ORG
+10	Iride	iride	NNP	_	11	compound	_	I-ORG
+11	Spe	spe	NNP	_	6	dobj	_	L-ORG
+12	...	..	.	pos2=,	6	punct	_	O
+
+1	https://t.co/Ce408mgedI	#hlink#	ADD	_	0	root	_	U-ORG
+

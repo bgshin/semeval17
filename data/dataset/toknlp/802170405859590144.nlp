@@ -1,0 +1,20 @@
+1	@museumofjerseys	@museumofjerseys	UH	pos2=NNS	2	cc	_	O
+2	so	so	RB	_	3	advmod	_	O
+3	long	long	RB	_	0	root	_	O
+4	as	as	IN	_	8	mark	_	O
+5	tipp	tipp	NN	pos2=NNP	8	nsubj	_	O
+6	do	do	VBP	pos2=VB	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	get	get	VB	_	3	advcl	_	O
+9	ideas	idea	NNS	_	8	dobj	_	O
+10	from	from	IN	_	8	prep	_	O
+11	it	it	PRP	_	10	pobj	_	O
+12	.	.	.	_	7	advmod	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	2014	0	CD	_	3	nmod	_	U-DATE
+3	band	band	NN	_	4	nsubj	_	O
+4	was	be	VBD	_	0	root	_	O
+5	bad	bad	JJ	_	4	acomp	_	O
+6	enough	enough	RB	pos2=JJ	5	advmod	_	O
+

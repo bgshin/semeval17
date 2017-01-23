@@ -1,0 +1,20 @@
+1	Oh	oh	UH	_	6	discourse	_	O
+2	times	time	NNS	pos2=IN	6	nsubj	_	O
+3	they	they	PRP	_	4	nsubj	_	O
+4	have	have	VBP	_	6	aux	_	O
+5	a	a	DT	_	6	dep	_	O
+6	changed	change	VBN	pos2=JJ	0	root	_	O
+7	!	!	.	_	6	punct	_	O
+
+1	They	they	PRP	_	3	nsubj	_	O
+2	are	be	VBP	_	3	aux	_	O
+3	using	use	VBG	_	0	root	_	O
+4	cell	cell	NN	_	5	compound	_	O
+5	phones	phone	NNS	_	3	dobj	_	O
+6	and	and	CC	_	3	cc	_	O
+7	taking	take	VBG	_	3	conj	_	O
+8	#uber	#uber	RP	pos2=NN	7	prt	_	O
+9	on	on	IN	_	7	prep	_	O
+10	#GilmoreGirls	#gilmoregirls	NNS	pos2=ADD	9	pobj	_	O
+11	!	!	.	_	3	punct	_	O
+

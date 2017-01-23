@@ -1,0 +1,24 @@
+1	https://t.co/aXv3B1TwKs#npb	#hlink#	ADD	pos2=NN	0	root	_	O
+2	#DaisukeMatsuzaka	#daisukematsuzaka	NN	pos2=ADD	0	root	_	O
+3	[	[	-LRB-	_	4	punct	_	O
+4	Go	go	VB	pos2=NNP	0	root	_	O
+5	Local	local	JJ	pos2=NNP	0	root	_	O
+6	Worcester	worcester	NNP	_	2	appos	_	U-GPE
+7	]	]	-RRB-	_	4	punct	_	O
+8	300	0	CD	_	4	npadvmod	_	U-CARDINAL
+9	and	and	CC	_	1	cc	_	O
+10	knocked	knock	VBD	_	5	conj	_	O
+11	two	#crd#	CD	_	12	nmod	_	U-CARDINAL
+12	homeruns	homerun	NNS	_	10	dobj	_	O
+13	out	out	RB	pos2=RP	10	advmod	_	O
+14	.	.	.	_	1	punct	_	O
+
+1	When	when	WRB	_	3	advmod	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	think	think	VBP	_	8	advcl	_	O
+4	of	of	IN	_	3	prep	_	O
+5	what	what	WDT	pos2=WP	7	det	_	O
+6	player	player	NN	_	7	compound	_	O
+7	change	change	NN	pos2=VBP	4	pcomp	_	O
+8	…	…	.	pos2=NN	0	root	_	O
+

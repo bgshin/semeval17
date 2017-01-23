@@ -1,0 +1,21 @@
+1	#NBA	#nba	NN	pos2=NNP	2	compound	_	O
+2	#Cards	#cards	NNP	pos2=NNS	20	dep	_	O
+3	2015	0	CD	_	5	qmod	_	B-DATE
+4	-	-	SYM	pos2=HYPH	5	punct	_	I-DATE
+5	16	0	CD	_	20	dep	_	L-DATE
+6	Gold	gold	NN	pos2=NNP	13	compound	_	B-ORG
+7	Standard	standard	NNP	pos2=JJ	13	compound	_	L-ORG
+8	Tim	tim	NNP	_	13	compound	_	O
+9	Duncan	duncan	NNP	_	13	compound	_	O
+10	White	white	NNP	_	13	compound	_	O
+11	Gold	gold	NNP	pos2=NN	13	compound	_	O
+12	Patch	patch	NNP	pos2=NN	13	compound	_	O
+13	#Card	#card	NNP	pos2=NN	20	dep	_	O
+14	/	/	SYM	pos2=,	13	punct	_	O
+15	25	0	CD	_	20	dep	_	O
+16	San	san	NNP	_	17	compound	_	B-GPE
+17	Antonio	antonio	NNP	pos2=GW	20	dep	_	L-GPE
+18	#Spurs	#spurs	GW	pos2=NNP	20	nmod	_	O
+19	https://t.co/0NHMxLrkaf…	#hlink#	ADD	_	20	nmod	_	O
+20	https://t.co/me6unLeOr5	#hlink#	ADD	_	0	root	_	U-ORG
+

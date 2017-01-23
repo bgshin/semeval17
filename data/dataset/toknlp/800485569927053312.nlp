@@ -1,0 +1,23 @@
+1	Is	be	VBZ	_	0	root	_	O
+2	@gicariana	@gicariana	DT	pos2=XX	4	det	_	O
+3	harassing	harass	VBG	_	4	nmod	_	O
+4	@dianefrancis1	@dianefrancis0	NN	pos2=NNS	1	nsubj	_	O
+5	under	under	IN	_	4	prep	_	O
+6	guise	guise	NN	_	5	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	debate	debate	NN	_	7	pobj	_	O
+9	?	?	.	_	1	punct	_	O
+
+1	If	if	IN	_	4	mark	_	O
+2	tables	table	NNS	_	4	nsubjpass	_	O
+3	were	be	VBD	_	4	auxpass	_	O
+4	turned	turn	VBN	_	7	advcl	_	O
+5	Ariana	ariana	NNP	_	7	nsubj	_	U-PERSON
+6	would	would	MD	_	7	aux	_	O
+7	be	be	VB	_	0	root	_	O
+8	on	on	IN	pos2=RB	7	prep	_	O
+9	to	to	IN	pos2=TO	8	prep	_	O
+10	@support	@support	VB	pos2=GW	9	pobj	_	O
+11	…	…	NFP	pos2=-LRB-	7	discourse	_	O
+12	https://t.co/jBUpAJ0OLZ	#hlink#	ADD	pos2=NN	7	dep	_	O
+

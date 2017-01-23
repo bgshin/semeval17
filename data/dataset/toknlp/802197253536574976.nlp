@@ -1,0 +1,7 @@
+1	🏀@KoponenPetteri	🏀@koponenpetteri	NN	pos2=ADD	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	ready	ready	JJ	_	2	acomp	_	O
+4	#fcblive	#fcblive	JJ	pos2=GW	6	nmod	_	O
+5	#GSOFCB	#gsofcb	GW	pos2=NN	6	nmod	_	O
+6	https://t.co/7efRyO7juW	#hlink#	ADD	pos2=NN	2	dep	_	U-ORG
+

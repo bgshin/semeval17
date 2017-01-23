@@ -1,0 +1,11 @@
+1	Homeopathy	homeopathy	NN	pos2=NNP	4	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	chiropractor	chiropractor	NN	_	1	conj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	out	out	RB	pos2=RP	4	advmod	_	O
+6	for	for	IN	_	4	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	dentists	dentist	NNS	_	9	compound	_	O
+9	office	office	NN	pos2=RB	6	pobj	_	O
+10	.	.	.	_	4	punct	_	O
+

@@ -1,0 +1,25 @@
+1	#UBER	#uber	NN	pos2=NNP	2	compound	_	O
+2	#UBER	#uber	NN	pos2=GW	8	dep	_	O
+3	#UBER	#uber	CC	pos2=IN	2	cc	_	O
+4	UK	uk	NNP	pos2=NN	2	conj	_	U-GPE
+5	AND	and	CC	_	4	cc	_	O
+6	EUROPE	europe	NNP	pos2=NN	4	conj	_	O
+7	-	-	HYPH	pos2=:	8	punct	_	O
+8	use	use	VB	pos2=VBP	0	root	_	O
+9	the	the	DT	_	10	det	_	O
+10	code	code	NN	_	8	dobj	_	O
+11	and	and	CC	_	8	cc	_	O
+12	get	get	VB	_	8	conj	_	O
+13	the	the	DT	_	16	det	_	O
+14	discount	discount	NN	_	16	nmod	_	O
+15	same	same	JJ	_	16	nmod	_	O
+16	code	code	NN	_	12	dobj	_	O
+17	for	for	IN	_	12	prep	_	O
+18	£	$	$	_	19	nmod	_	O
+19	'	'	POS	pos2=''	17	pobj	_	U-MONEY
+20	s	s	AFX	pos2=NN	19	nmod	_	O
+21	and	and	CC	_	20	cc	_	O
+22	Euro	euro	NNP	_	24	poss	_	U-ORG
+23	's	's	POS	pos2=VBZ	22	case	_	O
+24	https://t.co/2GXlo2C2cY	#hlink#	ADD	_	20	conj	_	U-ORG
+

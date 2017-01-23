@@ -1,0 +1,26 @@
+1	@Linashamy	@linashamy	NNP	pos2=``	4	nsubj	_	O
+2	May	may	MD	pos2=NNP	4	aux	_	O
+3	God	god	NNP	_	4	nsubj	_	O
+4	grant	grant	VB	pos2=NN	0	root	_	O
+5	victory	victory	NN	_	4	dobj	_	O
+6	2	0	CD	pos2=IN	5	nmod	_	U-CARDINAL
+7	Syrian	syrian	JJ	_	9	nmod	_	U-NORP
+8	freedom	freedom	NN	_	9	compound	_	O
+9	fighters	fighter	NNS	_	4	dobj	_	O
+10	who'r	who'r	IN	pos2=VBP	4	prep	_	O
+11	resisting	resist	VBG	_	10	pcomp	_	O
+12	the	the	DT	_	14	det	_	O
+13	most	most	RBS	_	14	advmod	_	O
+14	loathsome	loathsome	JJ	_	11	dobj	_	O
+15	&	&	CC	_	4	cc	_	O
+16	hated	hate	VBD	pos2=VBN	4	conj	_	O
+17	Assad	assad	NNP	_	16	dobj	_	U-PERSON
+18	and	and	CC	_	17	cc	_	O
+19	Russian	russian	JJ	pos2=NNP	17	conj	_	U-NORP
+20	,	,	,	_	22	punct	_	O
+21	Iran	iran	NNP	_	22	compound	_	U-GPE
+22	thugs	thug	NNS	_	17	appos	_	O
+23	.	.	.	_	4	punct	_	O
+
+1	#Aleppo	#aleppo	NNP	pos2=FW	0	root	_	O
+

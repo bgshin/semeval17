@@ -1,0 +1,26 @@
+1	@mpdillon	@mpdillon	UH	pos2=XX	3	discourse	_	O
+2	@jmpalmieri	@jmpalmieri	UH	pos2=PRP$	0	root	_	O
+3	right	right	JJ	pos2=UH	4	nmod	_	O
+4	wing	wing	NN	_	5	compound	_	O
+5	nuts	nut	NNS	_	2	pobj	_	O
+6	...	..	.	pos2=,	2	punct	_	O
+
+1	has	have	VBZ	_	5	aux	_	O
+2	the	the	DT	_	3	det	_	O
+3	media	medium	NNS	pos2=NN	5	nsubj	_	O
+4	already	already	RB	_	5	advmod	_	O
+5	looked	look	VBD	_	0	root	_	O
+6	up	up	RP	pos2=IN	5	prt	_	O
+7	his	his	PRP$	_	9	poss	_	O
+8	voter	voter	NN	_	9	compound	_	O
+9	registration	registration	NN	_	5	dobj	_	O
+10	for	for	IN	_	9	prep	_	O
+11	party	party	NN	_	12	compound	_	O
+12	affiliation	affiliation	NN	_	10	pobj	_	O
+13	?	?	.	_	5	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	pathetic	pathetic	JJ	_	2	acomp	_	O
+4	!	!	.	_	2	punct	_	O
+

@@ -1,0 +1,16 @@
+1	#Aleppo	#aleppo	NN	pos2=FW	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Opposition	opposition	NN	_	4	nsubj	_	O
+4	killed	kill	VBD	pos2=VBN	0	root	_	O
+5	80	0	CD	_	6	nmod	_	U-CARDINAL
+6	militiamen	militiaman	NNS	pos2=NN	4	dobj	_	O
+7	during	during	IN	_	4	prep	_	O
+8	violent	violent	JJ	_	9	nmod	_	O
+9	battles	battle	NNS	_	7	pobj	_	O
+10	for	for	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	village	village	NN	_	10	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	#Al_Aziza	#al_aziza	NNP	pos2=NN	13	pobj	_	U-GPE
+15	.	.	.	_	4	punct	_	O
+

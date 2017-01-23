@@ -1,0 +1,20 @@
+1	#IsreliForces	#isreliforces	NNS	pos2=ADD	8	nsubj	_	O
+2	in	in	IN	_	1	prep	_	O
+3	shuhafat	shuhafat	NN	pos2=JJ	2	pobj	_	O
+4	#refugee	#refugee	IN	pos2=POS	1	prep	_	O
+5	camp	camp	NN	_	4	pobj	_	O
+6	,	,	,	_	8	punct	_	O
+7	illegally	illegally	RB	_	8	advmod	_	O
+8	annexed	annex	VBN	pos2=VBD	16	ccomp	_	O
+9	#Jerusalem	#jerusalem	NNP	pos2=PRP	8	dobj	_	U-ORG
+10	,	,	,	_	16	punct	_	O
+11	shoot	shoot	VB	pos2=NN	16	advmod	_	O
+12	#Palestinian	#palestinian	CD	pos2=JJ	16	npadvmod	_	U-NORP
+13	man	man	NN	_	15	compound	_	O
+14	-	-	HYPH	pos2=:	15	punct	_	O
+15	condition	condition	NN	_	16	nsubj	_	O
+16	unknown	unknown	JJ	pos2=NN	0	root	_	O
+17	.	.	.	_	16	punct	_	O
+
+1	#apartheid	#apartheid	UH	pos2=FW	0	root	_	O
+

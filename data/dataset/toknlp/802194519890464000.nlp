@@ -1,0 +1,18 @@
+1	Brings	bring	VBZ	pos2=VB	0	root	_	O
+2	new	new	JJ	_	3	nmod	_	O
+3	light	light	NN	_	1	dobj	_	O
+4	to	to	IN	_	1	dative	_	O
+5	the	the	DT	_	6	det	_	O
+6	situation	situation	NN	_	4	pobj	_	O
+7	What	what	WP	pos2=WDT	15	dative	_	O
+8	those	those	DT	_	12	det	_	O
+9	Dakota	dakota	NNP	_	10	compound	_	O
+10	Access	access	NNP	pos2=GW	11	compound	_	U-PRODUCT
+11	Pipeline	pipeline	NN	pos2=NNP	12	compound	_	O
+12	protesters	protester	NNS	_	15	nsubj	_	O
+13	do	do	VBP	_	15	aux	_	O
+14	n’t	not	RB	_	15	neg	_	O
+15	tell	tell	VB	_	0	root	_	O
+16	you	you	PRP	_	15	dobj	_	O
+17	https://t.co/KfDBmkBq9C	#hlink#	ADD	_	15	dobj	_	O
+

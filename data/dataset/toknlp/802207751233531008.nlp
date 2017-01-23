@@ -1,0 +1,7 @@
+1	1	0	CD	_	2	nmod	_	B-DATE
+2	st	st	NN	pos2=NNS	3	nsubj	_	L-DATE
+3	try	try	VB	pos2=VBP	0	root	_	O
+4	😭😭	😭😭	VBG	pos2=NFP	3	xcomp	_	O
+5	#mannequinchallenge	#mannequinchallenge	IN	pos2=GW	4	prep	_	O
+6	https://t.co/JLtwkKJoDe	#hlink#	ADD	pos2=NN	5	pobj	_	O
+

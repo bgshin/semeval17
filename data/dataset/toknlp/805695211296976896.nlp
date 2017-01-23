@@ -1,0 +1,20 @@
+1	#DylannRoof	#dylannroof	NNP	pos2=DT	2	compound	_	O
+2	Federal	federal	NNP	pos2=JJ	5	compound	_	O
+3	Death	death	NN	pos2=NNP	4	compound	_	O
+4	Penalty	penalty	NN	pos2=NNP	5	compound	_	O
+5	Trial	trial	NN	pos2=NNP	13	dep	_	O
+6	:	:	:	_	13	punct	_	O
+7	Jury	jury	NN	pos2=JJ	8	compound	_	O
+8	qualifications	qualification	NNS	_	13	dep	_	O
+9	Day	day	NN	pos2=NNP	8	npadvmod	_	O
+10	6	0	CD	_	9	nmod	_	U-CARDINAL
+11	:	:	:	_	13	punct	_	O
+12	Accused	accuse	VBN	pos2=NNP	13	nmod	_	O
+13	Ema	ema	NNP	pos2=NN	0	root	_	U-PERSON
+14	..	..	.	pos2=,	13	punct	_	O
+
+1	via	via	IN	pos2=GW	0	root	_	O
+2	https://t.co/ZvK3WbuLIe	#hlink#	ADD	pos2=JJ	1	pobj	_	O
+3	#News	#news	IN	pos2=NNS	1	pobj	_	O
+4	https://t.co/u9e7ResLCY	#hlink#	ADD	pos2=NN	3	pobj	_	O
+

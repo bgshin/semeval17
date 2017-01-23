@@ -1,0 +1,13 @@
+1	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	4	prep	_	O
+2	@KellyannePolls	@kellyannepolls	NNS	pos2=ADD	4	nsubj	_	O
+3	#DumpTheEstablishment	#dumptheestablishment	ADD	pos2=NN	4	nsubj	_	O
+4	#DrainTheSwamp	#draintheswamp	VBP	pos2=ADD	0	root	_	O
+5	#NeverRomney	#neverromney	NNP	pos2=NNS	4	punct	_	O
+6	Never	never	RB	_	8	neg	_	O
+7	,	,	,	_	4	punct	_	O
+8	ever	ever	RB	_	4	advmod	_	O
+9	!	!	.	_	4	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/F6ToURbK66	#hlink#	ADD	pos2=NN	0	root	_	O
+

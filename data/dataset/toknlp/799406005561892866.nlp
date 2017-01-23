@@ -1,0 +1,32 @@
+1	@Hope012015	@hope0	NN	pos2=NNP	4	npadvmod	_	O
+2	They	they	PRP	_	4	nsubj	_	O
+3	were	be	VBD	_	4	aux	_	O
+4	interviewing	interview	VBG	_	0	root	_	O
+5	people	people	NNS	_	4	dobj	_	O
+6	on	on	IN	_	4	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	Mexican	mexican	JJ	_	9	nmod	_	U-NORP
+9	side	side	NN	_	6	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	border	border	NN	_	10	pobj	_	O
+13	.	.	.	_	4	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	said	say	VBD	_	0	root	_	O
+3	we	we	PRP	_	6	nsubj	_	O
+4	do	do	VBP	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	care	care	VB	_	2	ccomp	_	O
+7	about	about	IN	_	6	prep	_	O
+8	no	no	DT	_	9	det	_	O
+9	wall	wall	NN	_	7	pobj	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	go	go	VBP	_	0	root	_	O
+3	over	over	IN	pos2=RB	2	prep	_	O
+4	or	or	CC	_	3	cc	_	O
+5	under	under	IN	_	3	conj	_	O
+6	it	it	PRP	_	5	pobj	_	O
+

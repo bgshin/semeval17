@@ -1,0 +1,11 @@
+1	Yo	yo	NN	pos2=UH	10	dep	_	O
+2	when	when	WRB	_	5	advmod	_	O
+3	is	be	VBZ	_	5	aux	_	O
+4	maduro	maduro	FW	pos2=TO	10	dep	_	O
+5	gon	gon	VBG	pos2=FW	10	advcl	_	O
+6	na	to	TO	_	7	aux	_	O
+7	die	die	VB	_	5	xcomp	_	O
+8	tho	tho	NN	pos2=IN	10	compound	_	O
+9	#urnotevenVenezuelan	#urnotevenvenezuelan	NNP	pos2=XX	10	compound	_	U-GPE
+10	#makeVenezuelagr8again	#makevenezuelagr0again	NN	pos2=RB	0	root	_	O
+

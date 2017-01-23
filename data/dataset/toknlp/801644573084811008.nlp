@@ -1,0 +1,21 @@
+1	Grayson	grayson	NNP	_	2	compound	_	B-PERSON
+2	Allen	allen	NNP	_	5	nsubj	_	L-PERSON
+3	could	could	MD	_	5	aux	_	O
+4	've	have	VB	pos2=EX	5	aux	_	O
+5	went	go	VBD	pos2=VBN	0	root	_	O
+6	first	#ord#	JJ	pos2=RB	7	nmod	_	U-ORDINAL
+7	round	round	NN	pos2=RB	5	npadvmod	_	O
+8	after	after	IN	_	7	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	show	show	NN	_	8	pobj	_	O
+11	he	he	PRP	_	12	nsubj	_	O
+12	put	put	VBD	_	10	relcl	_	O
+13	on	on	IN	pos2=RP	12	prep	_	O
+14	his	his	PRP$	_	16	poss	_	B-DATE
+15	freshman	freshman	NN	pos2=JJ	16	compound	_	I-DATE
+16	year	year	NN	_	13	pobj	_	L-DATE
+17	in	in	IN	_	12	prep	_	O
+18	the	the	DT	_	20	det	_	O
+19	NCAA	ncaa	NNP	pos2=NN	20	compound	_	U-ORG
+20	tournament	tournament	NN	_	17	pobj	_	O
+

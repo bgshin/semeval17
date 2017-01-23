@@ -1,0 +1,12 @@
+1	1.	0.	LS	_	2	meta	_	U-CARDINAL
+2	Luke2	luke0	NN	pos2=LS	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Jess3	jess0	NN	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Lane	lane	NNP	pos2=NN	4	compound	_	O
+2	4.	0.	LS	pos2=NNP	4	meta	_	B-PERSON
+3	Taylor	taylor	NNP	_	4	compound	_	L-PERSON
+4	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=ADD	0	root	_	O
+

@@ -1,0 +1,24 @@
+1	@TimWattsMP	@timwattsmp	ADD	pos2=UH	4	dep	_	O
+2	@GrahamPerrettMP	@grahamperrettmp	UH	pos2=NN	4	discourse	_	O
+3	that	that	DT	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	rich	rich	JJ	_	4	acomp	_	O
+6	coming	come	VBG	_	4	advcl	_	O
+7	from	from	IN	_	6	prep	_	O
+8	Labour	labour	NNP	_	7	pobj	_	U-ORG
+9	after	after	IN	_	12	mark	_	O
+10	the	the	DT	_	11	det	_	O
+11	Medicare	medicare	NNP	_	12	nsubj	_	U-ORG
+12	lies	lie	VBZ	_	6	advcl	_	O
+13	you	you	PRP	pos2=PRP$	14	nsubj	_	O
+14	shower	shower	NN	pos2=VBP	12	advcl	_	O
+15	of	of	IN	_	14	prep	_	O
+16	con	con	NN	pos2=JJ	17	compound	_	O
+17	men	man	NNS	_	15	pobj	_	O
+18	lying	lie	VBG	_	12	advcl	_	O
+19	to	to	IN	_	18	prep	_	O
+20	the	the	DT	_	21	det	_	O
+21	elderly	elderly	JJ	_	19	pobj	_	O
+22	for	for	IN	_	18	prep	_	O
+23	shame	shame	NN	_	22	pobj	_	O
+

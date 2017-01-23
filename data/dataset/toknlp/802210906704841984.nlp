@@ -1,0 +1,26 @@
+1	@DailyCaller	@dailycaller	ADD	pos2=JJR	2	det	_	O
+2	@BeachDreamin291	@beachdreamin0	NN	pos2=``	4	dep	_	O
+3	It	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	UNIMPORTANT	unimportant	JJ	pos2=NN	4	acomp	_	O
+6	who	who	WP	_	7	nsubj	_	O
+7	won	win	VBD	pos2=VBZ	4	ccomp	_	O
+8	the	the	DT	_	10	det	_	O
+9	popular	popular	JJ	_	10	nmod	_	O
+10	vote	vote	NN	_	7	dobj	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	THAT	that	DT	_	2	nsubj	_	O
+2	'S	's	VBZ	_	0	root	_	O
+3	NOT	not	RB	_	2	neg	_	O
+4	HOW	how	WRB	pos2=``	6	advmod	_	O
+5	WE	we	PRP	_	6	nsubj	_	O
+6	ELECT	elect	VBP	pos2=VB	2	ccomp	_	O
+7	OUR	our	PRP$	_	8	poss	_	O
+8	PRESIDENT	president	NN	pos2=NNP	6	dobj	_	O
+9	IN	in	IN	_	6	prep	_	O
+10	THE	the	DT	_	12	det	_	B-GPE
+11	UNITED	united	NNP	pos2=JJ	12	compound	_	I-GPE
+12	STATES	state	NNP	pos2=NNS	9	pobj	_	L-GPE
+13	!	!	.	_	2	punct	_	O
+

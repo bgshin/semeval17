@@ -1,0 +1,22 @@
+1	my	my	PRP$	_	2	poss	_	O
+2	proxy	proxy	NN	_	3	nsubj	_	O
+3	has	have	VBZ	_	0	root	_	O
+4	persona	persona	NN	pos2=VBN	2	appos	_	O
+5	5	0	CD	_	4	nmod	_	U-CARDINAL
+6	premium	premium	NN	_	7	compound	_	O
+7	edition	edition	NN	_	3	dobj	_	O
+8	up	up	RP	pos2=NN	13	advmod	_	O
+9	for	for	IN	_	8	prep	_	O
+10	preorder	preorder	NN	pos2=VB	9	pobj	_	O
+11	the	the	DT	_	12	det	_	O
+12	margin	margin	NN	_	13	nsubj	_	O
+13	is	be	VBZ	_	3	conj	_	O
+14	about	about	IN	pos2=RB	13	prep	_	O
+15	the	the	DT	_	20	det	_	O
+16	same	same	JJ	_	19	nmod	_	O
+17	w	w	IN	pos2=NN	12	prep	_	O
+18	/	/	HYPH	_	17	punct	_	O
+19	artbook	artbook	NN	_	20	compound	_	O
+20	price	price	NN	_	17	pobj	_	O
+21	...	..	.	pos2=,	13	punct	_	O
+

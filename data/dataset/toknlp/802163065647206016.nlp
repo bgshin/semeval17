@@ -1,0 +1,22 @@
+1	@MiloVentimiglia	@miloventimiglia	NN	pos2=ADD	2	compound	_	O
+2	thanks	thanks	NNS	pos2=NN	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	bringing	bring	VBG	_	3	pcomp	_	O
+5	Jess	jess	NNP	_	4	dobj	_	U-PERSON
+6	(	(	-LRB-	_	7	punct	_	O
+7	#GilmoreGirlsRevival	#gilmoregirlsrevival	NNP	pos2=ADD	5	appos	_	U-PERSON
+8	)	)	-RRB-	_	7	punct	_	O
+9	back	back	RB	pos2=NN	4	advmod	_	O
+10	and	and	CC	_	9	cc	_	O
+11	also	also	RB	_	9	conj	_	O
+12	introducing	introduce	VBG	_	4	conj	_	O
+13	Jack	jack	NNP	_	12	dobj	_	U-PERSON
+14	(	(	-LRB-	_	15	punct	_	O
+15	#ThisIsUs	#thisisus	ADD	pos2=NNS	13	appos	_	O
+16	)	)	-RRB-	_	15	punct	_	O
+17	this	this	DT	_	18	det	_	B-DATE
+18	year	year	NN	_	12	npadvmod	_	L-DATE
+19	.	.	.	_	2	punct	_	O
+
+1	#mademy2016	#mademy0	NN	pos2=LS	0	root	_	O
+

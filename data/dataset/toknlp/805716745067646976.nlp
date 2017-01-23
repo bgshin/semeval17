@@ -1,0 +1,24 @@
+1	#HealthandWellnesswithDrBhavi	#healthandwellnesswithdrbhavi	NNS	pos2=NN	2	nsubj	_	O
+2	conducted	conduct	VBD	pos2=VBN	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	#Session	#session	NN	pos2=NNP	2	dobj	_	O
+5	on	on	IN	_	4	prep	_	O
+6	Holistic	holistic	JJ	pos2=NNP	7	nmod	_	O
+7	#WeightLoss	#weightloss	NN	pos2=NNS	5	pobj	_	O
+8	with	with	IN	_	2	prep	_	O
+9	#Homeopathy	#homeopathy	NN	pos2=NNP	8	pobj	_	O
+10	at	at	IN	_	2	prep	_	O
+11	a	a	DT	_	12	det	_	O
+12	#Women	#women	NNP	pos2=NN	14	poss	_	O
+13	's	's	POS	_	12	case	_	O
+14	Event	event	NN	pos2=NNP	10	pobj	_	O
+15	.	.	.	_	2	punct	_	O
+
+1	Vis	vis	FW	pos2=NNP	7	nmod	_	O
+2	…	…	NFP	pos2=HYPH	1	discourse	_	O
+3	https:	https:	NFP	pos2=NN	1	discourse	_	O
+4	//	//	NFP	pos2=-LRB-	7	punct	_	O
+5	t.co	#hlink#	ADD	pos2=NN	7	nmod	_	O
+6	/	/	SYM	pos2=-RRB-	7	punct	_	O
+7	3Ff6M7hv84	0ff0m0hv0	NN	pos2=NNS	0	root	_	O
+

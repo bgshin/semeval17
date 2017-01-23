@@ -1,0 +1,33 @@
+1	@billmaher	@billmaher	UH	pos2=NNP	3	discourse	_	O
+2	Where	where	WRB	_	3	advmod	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	press	press	NN	_	3	nsubj	_	O
+6	?	?	.	_	3	punct	_	O
+
+1	Where	where	WRB	_	2	advmod	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	Comey	comey	NNP	_	5	poss	_	U-PERSON
+4	's	's	POS	_	3	case	_	O
+5	investigations	investigation	NNS	_	2	nsubj	_	O
+6	?	?	.	_	2	punct	_	O
+
+1	Where	where	WRB	_	2	advmod	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	American	american	JJ	_	5	nmod	_	U-NORP
+5	heart	heart	NN	_	2	nsubj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	justice	justice	NN	_	6	pobj	_	O
+8	?	?	.	_	2	punct	_	O
+
+1	Where	where	WRB	_	2	advmod	_	O
+2	's	's	VBZ	pos2=POS	0	root	_	O
+3	God	god	NNP	_	2	nsubj	_	O
+4	?	?	.	_	2	punct	_	O
+
+1	Where	where	WRB	_	2	advmod	_	O
+2	's	's	VBZ	pos2=AFX	0	root	_	O
+3	superman	superman	NN	pos2=NNP	2	nsubj	_	O
+4	?	?	.	_	2	punct	_	O
+

@@ -1,0 +1,18 @@
+1	Liberals	liberal	NNS	pos2=NNPS	0	attr	_	O
+2	who	who	WP	_	3	nsubj	_	O
+3	think	think	VBP	_	1	relcl	_	O
+4	Castro	castro	NNP	_	6	nsubjpass	_	U-PERSON
+5	was	be	VBD	_	6	auxpass	_	O
+6	coolLook	coollook	VBN	pos2=NNP	3	ccomp	_	O
+7	no	no	DT	pos2=RB	8	neg	_	O
+8	further	far	RB	pos2=RBR	6	advmod	_	O
+9	than	than	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	Cubans	cuban	NNPS	_	12	nsubj	_	U-NORP
+12	rejoicing	rejoice	VBG	pos2=NN	9	pcomp	_	O
+13	in	in	IN	_	12	prep	_	O
+14	Miami	miami	NNP	_	13	pobj	_	U-GPE
+15	They	they	PRP	pos2=NNP	16	nsubj	_	O
+16	know	know	VBP	_	12	parataxis	_	O
+17	Cuba	cuba	NNP	_	16	dobj	_	U-GPE
+

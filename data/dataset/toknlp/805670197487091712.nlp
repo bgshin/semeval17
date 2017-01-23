@@ -1,0 +1,29 @@
+1	@WesLuthor	@wesluthor	NN	pos2=XX	6	neg	_	O
+2	@sandraclunie	@sandraclunie	UH	pos2=IN	0	root	_	O
+3	@HillaryClinton	@hillaryclinton	NNP	pos2=ADD	10	compound	_	O
+4	Bernie-I-sponsored	bernie-i-sponsored	NNP	pos2=VBN	10	compound	_	O
+5	-	-	HYPH	_	10	punct	_	O
+6	one	#crd#	CD	_	8	nmod	_	O
+7	-	-	HYPH	_	8	punct	_	O
+8	bill	bill	NN	_	10	compound	_	O
+9	-	-	HYPH	pos2=:	10	punct	_	O
+10	Sanders	sanders	NNP	_	2	nsubj	_	O
+11	?	?	.	_	1	punct	_	O
+
+1	Gary	gary	NNP	pos2=NN	5	vocative	_	O
+2	-	-	:	pos2=HYPH	5	punct	_	O
+3	What	what	WP	_	5	attr	_	O
+4	-	-	HYPH	pos2=.	5	punct	_	O
+5	Is	be	VBZ	_	0	root	_	O
+6	-	-	HYPH	_	9	punct	_	O
+7	Aleppo	aleppo	NNP	_	9	compound	_	O
+8	-	-	HYPH	pos2=:	9	punct	_	O
+9	Johnson	johnson	NNP	_	5	nsubj	_	O
+10	?	?	.	_	5	punct	_	O
+
+1	Who	who	WP	_	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+
+1	Honest	honest	JJ	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

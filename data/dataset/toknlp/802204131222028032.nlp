@@ -1,0 +1,7 @@
+1	#TheWalkingDead	#thewalkingdead	VBD	pos2=NN	0	root	_	O
+2	EM	em	NN	pos2=NNP	6	compound	_	O
+3	MEMORIA	memoria	NNP	pos2=NN	6	compound	_	B-PERSON
+4	😳🌸MERLET	😳🌸merlet	NNP	pos2=NN	6	compound	_	I-PERSON
+5	-	-	HYPH	pos2=,	6	punct	_	I-PERSON
+6	DOGLORISOPHIAGLENNABRAHAMBOBJACQUILIZZIETYREESEGOVERNADORSAMBETHNOAHANDREAMIKA	doglorisophiaglennabrahambobjacquilizzietyreesegovernadorsambethnoahandreamika	NNP	_	1	dobj	_	L-PERSON
+

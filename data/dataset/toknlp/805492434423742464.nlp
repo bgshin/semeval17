@@ -1,0 +1,19 @@
+1	Peter	peter	NNP	_	2	compound	_	B-PERSON
+2	Thiel	thiel	NNP	_	3	compound	_	L-PERSON
+3	insider	insider	NN	_	4	nsubj	_	O
+4	picked	pick	VBD	pos2=VBN	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	oversee	oversee	VB	_	4	xcomp	_	O
+7	Trump	trump	NNP	_	11	poss	_	U-ORG
+8	's	's	POS	_	7	case	_	O
+9	Defense	defense	NNP	_	10	compound	_	B-ORG
+10	Department	department	NNP	_	11	compound	_	L-ORG
+11	transition	transition	NN	pos2=GW	6	dobj	_	O
+12	https://t.co/5WtkBGekzp	#hlink#	ADD	pos2=NNP	17	nmod	_	O
+13	Drone	drone	NNP	pos2=NN	14	compound	_	O
+14	strikes	strike	NNS	pos2=VBZ	11	dobj	_	O
+15	against	against	IN	_	14	prep	_	O
+16	pesky	pesky	JJ	_	17	nmod	_	O
+17	journalists	journalist	NNS	_	15	pobj	_	O
+18	?	?	.	_	4	punct	_	O
+

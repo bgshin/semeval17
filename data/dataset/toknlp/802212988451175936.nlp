@@ -1,0 +1,23 @@
+1	The	the	DT	_	4	det	_	B-ORG
+2	Wall	wall	NNP	_	3	compound	_	I-ORG
+3	Street	street	NNP	_	4	compound	_	I-ORG
+4	Journal	journal	NNP	_	5	nsubj	_	L-ORG
+5	jumped	jump	VBD	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	gun	gun	NN	_	5	dobj	_	O
+8	Wednesday	wednesday	NNP	_	5	npadvmod	_	U-DATE
+9	and	and	CC	_	5	cc	_	O
+10	reported	report	VBD	pos2=VBN	5	conj	_	O
+11	that	that	IN	_	18	mark	_	O
+12	Dr.	dr.	NNP	_	15	compound	_	O
+13	Dr.	dr.	NNP	_	15	compound	_	O
+14	Ben	ben	NNP	_	15	compound	_	B-PERSON
+15	Carson	carson	NNP	_	18	nsubj	_	L-PERSON
+16	had	have	VBD	_	18	aux	_	O
+17	officially	officially	RB	_	18	advmod	_	O
+18	accepted	accept	VBN	_	10	ccomp	_	O
+19	the	the	DT	_	18	dobj	_	O
+20	...	..	.	pos2=,	5	punct	_	O
+
+1	https://t.co/a1PyFeVbIB	#hlink#	ADD	_	0	root	_	U-ORG
+

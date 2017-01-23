@@ -1,0 +1,16 @@
+1	@cmbsweden	@cmbsweden	UH	pos2=NNP	5	discourse	_	O
+2	Yes	yes	UH	_	5	discourse	_	O
+3	,	,	,	_	5	punct	_	O
+4	responsibility	responsibility	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	key	key	JJ	_	5	acomp	_	O
+7	.	.	.	_	5	punct	_	O
+
+1	Michael	michael	NNP	_	2	compound	_	B-PERSON
+2	Moore	moore	NNP	_	5	nsubj	_	L-PERSON
+3	should	should	MD	_	5	aux	_	O
+4	've	have	VB	_	5	aux	_	O
+5	known	know	VBN	_	0	root	_	O
+6	better	well	RBR	pos2=JJR	5	advmod	_	O
+7	.	.	.	_	5	punct	_	O
+

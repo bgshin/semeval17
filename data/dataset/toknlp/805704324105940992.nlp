@@ -1,0 +1,21 @@
+1	#Fashion	#fashion	NNP	pos2=ADD	0	root	_	O
+2	#Style	#style	IN	pos2=NNP	1	prep	_	O
+3	The	the	DT	_	4	det	_	O
+4	Paperboy	paperboy	NNP	_	2	pobj	_	U-PERSON
+5	(	(	-LRB-	_	4	punct	_	O
+6	NEW	new	NNP	pos2=JJ	13	compound	_	O
+7	Blu	blu	NNP	_	13	compound	_	O
+8	-	-	HYPH	_	13	punct	_	O
+9	ray	ray	NNP	pos2=NN	10	compound	_	O
+10	Disc	disc	NNP	pos2=NN	20	dep	_	O
+11	)	)	-RRB-	_	12	punct	_	O
+12	Matthew	matthew	NNP	_	13	compound	_	B-PERSON
+13	McConaughey	mcconaughey	NNP	_	20	dep	_	L-PERSON
+14	,	,	,	_	13	punct	_	O
+15	Zac	zac	NNP	_	16	compound	_	B-PERSON
+16	Efron	efron	NNP	_	13	conj	_	L-PERSON
+17	,	,	,	_	16	punct	_	O
+18	#NicoleKidman	#nicolekidman	NNP	pos2=GW	16	conj	_	U-GPE
+19	…	…	NFP	pos2=-LRB-	20	punct	_	O
+20	https://t.co/zgHXBjdBg5	#hlink#	ADD	pos2=NN	4	appos	_	O
+

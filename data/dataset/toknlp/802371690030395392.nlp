@@ -1,0 +1,18 @@
+1	@JohnParshon	@johnparshon	ADD	pos2=XX	0	root	_	O
+2	@thepallister	@thepallister	IN	pos2=UH	1	prep	_	O
+3	@dougf24	@dougf0	NN	pos2=CD	5	compound	_	O
+4	@JuddApatow	@juddapatow	NNP	pos2=POS	5	compound	_	O
+5	POC	poc	NN	pos2=NNP	2	pobj	_	O
+6	,	,	,	_	5	punct	_	O
+7	women	woman	NNS	_	5	conj	_	O
+8	,	,	,	_	7	punct	_	O
+9	people	people	NNS	_	7	conj	_	O
+10	on	on	IN	_	9	prep	_	O
+11	Medicare	medicare	NNP	_	10	pobj	_	U-ORG
+12	or	or	CC	_	11	cc	_	O
+13	close	close	JJ	pos2=RB	11	conj	_	O
+14	to	to	IN	_	13	prep	_	O
+15	it	it	PRP	_	14	pobj	_	O
+16	like	like	IN	pos2=VB	13	prep	_	O
+17	myself	myself	PRP	_	16	pobj	_	O
+

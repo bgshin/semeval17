@@ -1,0 +1,19 @@
+1	#Qatar	#qatar	NNP	pos2=NN	4	nsubj	_	U-ORG
+2	is	be	VBZ	_	4	aux	_	O
+3	not	not	RB	_	4	neg	_	O
+4	competing	compete	VBG	_	12	ccomp	_	O
+5	with	with	IN	_	4	prep	_	O
+6	anyone	anyone	NN	_	5	pobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	sponsor	sponsor	VB	_	6	relcl	_	O
+9	Palestinian	palestinian	JJ	_	10	nmod	_	U-NORP
+10	reconciliation	reconciliation	NN	_	8	dobj	_	O
+11	,	,	,	_	12	punct	_	O
+12	claims	claim	VBZ	pos2=NNS	0	root	_	O
+13	#Erekat	#erekat	IN	pos2=WP	12	prep	_	O
+14	https://t.co/nxDlwizZs6	#hlink#	ADD	pos2=NN	18	dep	_	B-ORG
+15	#Fatah	#fatah	NNP	pos2=-RRB-	18	compound	_	I-ORG
+16	#Egypt	#egypt	NNP	pos2=ADD	18	compound	_	I-ORG
+17	#Gaza	#gaza	NNP	pos2=ADD	18	compound	_	I-ORG
+18	#Hamas	#hamas	NNP	pos2=NNS	13	pobj	_	L-ORG
+

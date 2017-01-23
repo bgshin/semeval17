@@ -1,0 +1,10 @@
+1	Time	time	NN	_	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	art	art	NN	_	2	pobj	_	O
+4	while	while	IN	_	5	mark	_	O
+5	watching	watch	VBG	_	1	advcl	_	O
+6	David	david	NNP	_	7	compound	_	B-PERSON
+7	Blaine	blaine	NNP	_	9	poss	_	L-PERSON
+8	's	's	POS	_	7	case	_	O
+9	show	show	NN	pos2=VBP	5	dobj	_	O
+

@@ -1,0 +1,27 @@
+1	Why	why	WRB	_	2	advmod	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	there	there	EX	_	2	expl	_	O
+4	still	still	RB	_	2	advmod	_	O
+5	a	a	DT	_	9	det	_	O
+6	vaccine	vaccine	NN	_	8	nmod	_	O
+7	/	/	SYM	pos2=HYPH	8	punct	_	O
+8	autism	autism	NN	_	9	compound	_	O
+9	controversy	controversy	NN	_	2	attr	_	O
+10	?	?	.	_	2	punct	_	O
+
+1	Because	because	IN	_	4	mark	_	O
+2	families	family	NNS	_	4	nsubjpass	_	O
+3	are	be	VBP	_	4	auxpass	_	O
+4	blocked	block	VBN	_	0	root	_	O
+5	from	from	IN	_	4	prep	_	O
+6	getting	get	VBG	_	5	pcomp	_	O
+7	into	into	IN	_	6	prep	_	O
+8	a	a	DT	_	10	det	_	O
+9	REAL	real	JJ	_	10	nmod	_	O
+10	court	court	NN	_	7	pobj	_	O
+11	to	to	TO	_	12	aux	_	O
+12	prove	prove	VB	_	6	advcl	_	O
+13	vaccines	vaccine	NNS	_	12	dobj	_	O
+14	cause	cause	VB	pos2=IN	12	ccomp	_	O
+15	autism	autism	NN	_	14	dobj	_	O
+

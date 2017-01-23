@@ -1,0 +1,21 @@
+1	20	0	LS	pos2=CD	0	root	_	U-CARDINAL
+2	.	.	.	pos2=:	1	punct	_	O
+
+1	if	if	IN	_	5	mark	_	O
+2	your	your	PRP$	_	4	poss	_	O
+3	body	body	NN	_	4	compound	_	O
+4	count	count	NN	_	5	nsubj	_	O
+5	was	be	VBD	_	14	advcl	_	O
+6	your	your	PRP$	_	9	poss	_	O
+7	social	social	JJ	_	8	nmod	_	O
+8	security	security	NN	_	9	compound	_	O
+9	number	number	NN	_	5	attr	_	O
+10	,	,	,	_	14	punct	_	O
+11	what	what	WP	_	14	attr	_	O
+12	would	would	MD	_	14	aux	_	O
+13	it	it	PRP	_	14	nsubj	_	O
+14	be	be	VB	_	0	root	_	O
+15	?	?	.	_	14	punct	_	O
+
+1	👀	👀	SYM	pos2=NFP	0	root	_	U-ORG
+

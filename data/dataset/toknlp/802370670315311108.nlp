@@ -1,0 +1,26 @@
+1	@NBA	@nba	NN	pos2=NNP	10	dep	_	O
+2	@cavs	@cavs	UH	pos2=FW	1	discourse	_	O
+3	@dallasmavs	@dallasmavs	UH	pos2=VBZ	1	discourse	_	O
+4	@mcuban	@mcuban	UH	pos2=NNP	1	discourse	_	O
+5	Meanwhile	meanwhile	RB	pos2=UH	1	advmod	_	O
+6	,	,	,	_	10	punct	_	O
+7	it	it	PRP	_	10	nsubjpass	_	O
+8	has	have	VBZ	_	10	aux	_	O
+9	been	be	VBN	_	10	auxpass	_	O
+10	reported	report	VBN	_	0	root	_	O
+11	that	that	IN	_	18	mark	_	O
+12	Mavs	mavs	NNPS	pos2=NNP	13	compound	_	U-ORG
+13	owner	owner	NN	_	18	nsubj	_	O
+14	and	and	CC	_	13	cc	_	O
+15	Trump	trump	NNP	pos2=NN	16	compound	_	U-ORG
+16	antagonist	antagonist	NN	_	13	conj	_	O
+17	MCuban	mcuban	NNP	_	18	nsubj	_	U-ORG
+18	had	have	VBD	_	10	ccomp	_	O
+19	mtg	mtg	NN	pos2=VBN	18	dobj	_	O
+20	in	in	IN	_	19	prep	_	O
+21	NYC	nyc	NNP	_	20	pobj	_	U-GPE
+22	w	w	IN	pos2=NNP	18	prep	_	O
+23	Steve	steve	NNP	_	24	compound	_	B-PERSON
+24	Bannon	bannon	NNP	_	22	pobj	_	L-PERSON
+25	!	!	.	_	10	punct	_	O
+

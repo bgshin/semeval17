@@ -1,0 +1,17 @@
+1	@NerdHeather	@nerdheather	NN	pos2=ADD	3	dep	_	O
+2	*	*	SYM	pos2=NFP	3	punct	_	O
+3	pauses	pause	VBZ	pos2=NNS	0	root	_	O
+4	cutting	cut	VBG	_	3	xcomp	_	O
+5	GG	gg	NNP	pos2=NN	7	compound	_	U-ORG
+6	revival	revival	NN	pos2=JJ	7	compound	_	O
+7	scenes	scene	NNS	_	4	dobj	_	O
+8	to	to	IN	_	4	prep	_	O
+9	Leonard	leonard	NNP	_	10	compound	_	B-PERSON
+10	Cohen	cohen	NNP	_	8	pobj	_	L-PERSON
+11	for	for	IN	_	4	prep	_	O
+12	YouTube	youtube	NNP	_	13	compound	_	U-ORG
+13	videos	video	NNS	pos2=NN	11	pobj	_	O
+14	*	*	SYM	pos2=,	13	punct	_	O
+15	hmm	hmm	UH	pos2=NN	11	pobj	_	O
+16	?	?	.	_	3	punct	_	O
+

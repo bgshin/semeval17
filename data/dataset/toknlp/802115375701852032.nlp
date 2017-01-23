@@ -1,0 +1,21 @@
+1	Retweeted	retweeted	VBN	pos2=VBD	3	nmod	_	O
+2	Voucher	voucher	NNP	pos2=NN	3	compound	_	B-ORG
+3	Angels	angel	NNPS	pos2=NNS	10	nsubj	_	L-ORG
+4	(	(	-LRB-	_	3	punct	_	O
+5	@VoucherAngels	@voucherangels	NNS	pos2=ADD	3	appos	_	O
+6	)	)	-RRB-	_	3	punct	_	O
+7	:QUICK‼️	:quick‼️	NN	pos2=NFP	8	compound	_	O
+8	#FreebieFriday	#freebiefriday	NN	pos2=NNP	10	nsubj	_	O
+9	has	have	VBZ	_	10	aux	_	O
+10	started	start	VBN	_	0	root	_	O
+11	😇	😇	VBG	pos2=``	10	xcomp	_	O
+12	My	my	PRP$	_	13	poss	_	O
+13	#Hatchimals	#hatchimals	NNS	pos2=NNPS	11	dobj	_	O
+14	are	be	VBP	_	15	aux	_	O
+15	waiting	wait	VBG	_	11	ccomp	_	O
+16	to	to	TO	_	17	aux	_	O
+17	be	be	VB	_	15	xcomp	_	O
+18	...	..	.	pos2=,	10	punct	_	O
+
+1	https://t.co/PltxedWO8X	#hlink#	ADD	_	0	root	_	U-ORG
+

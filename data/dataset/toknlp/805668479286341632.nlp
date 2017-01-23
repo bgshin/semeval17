@@ -1,0 +1,10 @@
+1	Global	global	JJ	pos2=NNP	2	nmod	_	O
+2	Mobility	mobility	NN	pos2=NNP	0	root	_	O
+3	&	&	CC	_	2	cc	_	O
+4	Immigration	immigration	NNP	pos2=NN	5	compound	_	O
+5	Expert	expert	NNP	pos2=NN	2	conj	_	O
+6	-	-	:	pos2=HYPH	2	punct	_	O
+7	Coventry	coventry	NNP	_	8	nmod	_	O
+8	https://t.co/PQ5kGjc49i	#hlink#	ADD	pos2=NNP	2	appos	_	O
+9	#job	#job	-RRB-	pos2=ADD	2	punct	_	O
+

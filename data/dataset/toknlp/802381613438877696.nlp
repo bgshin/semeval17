@@ -1,0 +1,21 @@
+1	Democrats	democrat	NNPS	pos2=NNS	10	nsubj	_	U-NORP
+2	,	,	,	_	10	punct	_	O
+3	yer	yer	NN	pos2=RB	4	nsubj	_	O
+4	finished	finish	VBN	pos2=VBD	10	ccomp	_	O
+5	,	,	,	_	10	punct	_	O
+6	George	george	NNP	_	7	compound	_	B-PERSON
+7	Soros	soros	NNP	_	10	nsubj	_	L-PERSON
+8	does	do	VBZ	_	10	aux	_	O
+9	n't	not	RB	_	10	neg	_	O
+10	run	run	VB	_	0	root	_	O
+11	America	america	NNP	_	10	dobj	_	U-GPE
+12	.	.	.	_	10	punct	_	O
+
+1	Wake	wake	VB	pos2=VBP	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	hell	hell	NN	_	1	dobj	_	O
+4	up	up	RP	pos2=RB	1	prt	_	O
+5	.....	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/9PgDDiqsXS	#hlink#	ADD	_	0	root	_	U-ORG
+

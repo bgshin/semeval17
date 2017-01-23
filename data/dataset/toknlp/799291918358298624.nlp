@@ -1,0 +1,11 @@
+1	Hopeful	hopeful	JJ	_	0	root	_	O
+2	this	this	DT	_	3	det	_	B-DATE
+3	day	day	NN	_	4	nsubj	_	L-DATE
+4	goes	go	VBZ	_	1	ccomp	_	O
+5	by	by	RB	pos2=IN	6	advmod	_	O
+6	quick	quick	JJ	pos2=RB	4	advmod	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	😏	😏	SYM	pos2=NFP	2	punct	_	U-ORG
+2	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=ADD	0	root	_	O
+

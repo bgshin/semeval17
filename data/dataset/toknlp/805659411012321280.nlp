@@ -1,0 +1,28 @@
+1	Just	just	RB	_	2	advmod	_	O
+2	for	for	IN	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	fact	fact	NN	_	2	pobj	_	O
+5	that	that	IN	_	9	mark	_	O
+6	a	a	DT	_	7	det	_	O
+7	gun	gun	NN	_	9	nsubjpass	_	O
+8	is	be	VBZ	_	9	auxpass	_	O
+9	involved	involve	VBN	pos2=JJ	4	acl	_	O
+10	....	..	.	pos2=,	8	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	're	be	VBP	_	0	root	_	O
+3	usually	usually	RB	_	2	advmod	_	O
+4	all	all	RB	_	5	advmod	_	O
+5	over	over	IN	_	2	prep	_	O
+6	gun	gun	NN	_	7	compound	_	O
+7	control	control	NN	_	5	pobj	_	O
+8	in	in	IN	_	2	prep	_	O
+9	these	these	DT	_	10	det	_	O
+10	instances	instance	NNS	_	8	pobj	_	O
+11	#msm	#msm	VBP	pos2=POS	2	advcl	_	O
+12	#PizzaGate	#pizzagate	ADD	pos2=NN	2	punct	_	O
+13	but	but	CC	_	2	cc	_	O
+14	not	not	RB	_	16	neg	_	O
+15	even	even	RB	_	16	advmod	_	O
+16	that	that	DT	pos2=IN	2	conj	_	O
+

@@ -1,0 +1,24 @@
+1	Let	let	VB	_	0	root	_	O
+2	's	's	PRP	_	3	nsubj	_	O
+3	be	be	VB	_	1	ccomp	_	O
+4	clear	clear	JJ	_	3	acomp	_	O
+5	,	,	,	_	23	punct	_	O
+6	politicians	politician	NNS	_	7	nsubj	_	O
+7	orchestrating	orchestrate	VBG	_	3	ccomp	_	O
+8	mass	mass	NN	pos2=JJ	9	compound	_	O
+9	protests	protest	NNS	_	7	dobj	_	O
+10	in	in	IN	_	7	prep	_	O
+11	#Ukraine	#ukraine	NNP	pos2=PRP	10	pobj	_	U-GPE
+12	have	have	VBP	pos2=VB	23	dep	_	O
+13	only	only	RB	_	16	advmod	_	O
+14	their	their	PRP$	_	16	poss	_	O
+15	own	own	JJ	_	16	nmod	_	O
+16	interests	interest	NNS	_	12	dobj	_	O
+17	at	at	IN	_	12	prep	_	O
+18	heart	heart	NN	_	17	pobj	_	O
+19	-	-	:	pos2=HYPH	12	punct	_	O
+20	NOT	not	RB	_	21	neg	_	O
+21	Uk	uk	GW	pos2=VB	23	nmod	_	O
+22	…	…	NFP	pos2=GW	23	punct	_	O
+23	https://t.co/2fcnV8BZhF	#hlink#	ADD	_	1	dep	_	O
+

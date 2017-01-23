@@ -1,0 +1,18 @@
+1	https://t.co/7aDHq0iub3	#hlink#	ADD	pos2=RBR	2	nsubj	_	O
+2	True	true	JJ	pos2=NNP	0	root	_	O
+3	,	,	,	_	6	punct	_	O
+4	the	the	DT	_	6	det	_	O
+5	Obama	obama	NNP	_	6	compound	_	U-PERSON
+6	Admin	admin	NN	pos2=NNP	2	dep	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	Squashed	squash	VBD	pos2=VBN	0	root	_	O
+2	the	the	DT	_	5	det	_	B-ORG
+3	Tea	tea	NNP	pos2=NN	4	compound	_	I-ORG
+4	Party	party	NNP	_	5	compound	_	L-ORG
+5	movement	movement	NN	_	1	dobj	_	O
+6	,	,	,	_	5	punct	_	O
+7	unprecedented	unprecedented	JJ	_	8	nmod	_	O
+8	behavior	behavior	NN	_	5	appos	_	O
+9	.	.	.	_	1	punct	_	O
+

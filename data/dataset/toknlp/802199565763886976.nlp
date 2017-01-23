@@ -1,0 +1,13 @@
+1	omg	omg	NN	pos2=NNS	12	dep	_	O
+2	that	that	WDT	pos2=DT	4	nsubj	_	O
+3	would	would	MD	_	4	aux	_	O
+4	be	be	VB	_	1	relcl	_	O
+5	the	the	DT	_	7	det	_	O
+6	funniest	funny	JJS	pos2=NN	7	nmod	_	O
+7	thing	thing	NN	_	4	attr	_	O
+8	ever	ever	RB	_	7	advmod	_	O
+9	#epic	#epic	GW	pos2=XX	12	nmod	_	O
+10	#draintheswamp	#draintheswamp	GW	pos2=UH	12	nmod	_	O
+11	#LockHerUp	#lockherup	GW	pos2=ADD	12	nmod	_	O
+12	https://t.co/8OxYmtWqYw	#hlink#	ADD	pos2=NN	0	root	_	O
+

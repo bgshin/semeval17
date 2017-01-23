@@ -1,0 +1,22 @@
+1	Talkin	talkin	NNP	pos2=NN	4	poss	_	U-PERSON
+2	'	'	POS	pos2=''	1	case	_	O
+3	Tokyo	tokyo	NNP	_	4	compound	_	B-ORG
+4	Immigration	immigration	NNP	_	0	root	_	L-ORG
+5	.	.	.	_	4	punct	_	O
+
+1	@Girl_InBigJapan	@girl_inbigjapan	NN	pos2=NNP	15	dep	_	O
+2	on	on	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	hunt	hunt	NN	_	2	pobj	_	O
+5	for	for	IN	_	4	prep	_	O
+6	the	the	DT	_	11	det	_	O
+7	3	0	CD	_	9	nmod	_	B-DATE
+8	-	-	HYPH	_	9	punct	_	I-DATE
+9	year	year	NN	_	5	pobj	_	L-DATE
+10	Japan	japan	NNP	_	11	compound	_	U-GPE
+11	visa	visa	NN	pos2=GW	15	dep	_	O
+12	https://t.co/gMx4I2eRBr	#hlink#	ADD	_	15	nmod	_	O
+13	#visa	#visa	GW	pos2=IN	15	nmod	_	O
+14	…	…	NFP	pos2=-LRB-	15	punct	_	O
+15	https://t.co/M2ggpqy7IC	#hlink#	ADD	_	0	root	_	O
+

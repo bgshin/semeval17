@@ -1,0 +1,22 @@
+1	Angela	angela	NNP	_	2	compound	_	B-PERSON
+2	Lansbury	lansbury	NNP	_	4	nsubjpass	_	I-PERSON
+3	’s	's	POS	pos2=VBZ	2	case	_	L-PERSON
+4	Confused	confuse	VBN	pos2=NNP	0	root	_	O
+5	By	by	IN	_	4	agent	_	O
+6	#BeautyAndTheBeast	#beautyandthebeast	ADD	pos2=NNP	7	nmod	_	O
+7	Remake	remake	NN	pos2=NNP	5	pobj	_	O
+8	:	:	:	_	4	punct	_	O
+9	‘	'	''	pos2=``	4	punct	_	O
+10	I	I	PRP	_	13	nsubj	_	O
+11	Do	do	VBP	_	13	aux	_	O
+12	n’t	not	RB	_	13	neg	_	O
+13	Know	know	VB	_	9	dep	_	O
+14	Why	why	WRB	pos2=NNP	17	advmod	_	O
+15	They	they	PRP	_	17	nsubj	_	O
+16	’re	be	VBP	_	17	aux	_	O
+17	Doing	do	VBG	_	13	ccomp	_	O
+18	It	it	PRP	_	17	dobj	_	O
+19	’	'	''	pos2=``	21	punct	_	O
+20	https://t.co/ZfuMZwhv9l	#hlink#	ADD	_	21	nmod	_	O
+21	https://t.co/QEmc7afmkx	#hlink#	ADD	_	17	npadvmod	_	U-ORG
+

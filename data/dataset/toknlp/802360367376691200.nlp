@@ -1,0 +1,27 @@
+1	@sovereignsingh	@sovereignsingh	UH	pos2=XX	6	discourse	_	O
+2	@DalKhalsaUK	@dalkhalsauk	UH	pos2=XX	6	discourse	_	O
+3	why	why	WRB	_	6	advmod	_	O
+4	did	do	VBD	_	6	aux	_	O
+5	trump	trump	NN	pos2=VB	6	nsubj	_	O
+6	appoint	appoint	VB	pos2=NN	0	root	_	O
+7	Steve	steve	NNP	_	8	compound	_	B-PERSON
+8	Bannon	bannon	NNP	_	6	dobj	_	L-PERSON
+9	in	in	IN	_	6	prep	_	O
+10	his	his	PRP$	_	11	poss	_	O
+11	cabinet	cabinet	NN	_	9	pobj	_	O
+12	who	who	WP	_	14	nsubj	_	O
+13	openly	openly	RB	pos2=VBP	14	advmod	_	O
+14	racism	racism	NN	pos2=VBP	11	relcl	_	O
+15	and	and	CC	_	14	cc	_	O
+16	support	support	NN	pos2=VB	14	conj	_	O
+17	KKK	kkk	NNP	pos2=NN	16	dobj	_	U-ORG
+18	.	.	.	_	6	punct	_	O
+
+1	This	this	DT	_	2	det	_	O
+2	guy	guy	NN	_	4	nsubj	_	O
+3	will	will	MD	_	4	aux	_	O
+4	save	save	VB	_	0	root	_	O
+5	th	th	DT	pos2=NN	6	det	_	O
+6	wrld	wrld	NN	_	4	dobj	_	O
+7	?	?	.	_	4	punct	_	O
+

@@ -1,0 +1,19 @@
+1	#France	#france	NNP	pos2=NN	4	poss	_	O
+2	’s	's	POS	_	1	case	_	O
+3	au	au	NN	pos2=JJ	4	compound	_	O
+4	revoir	revoir	NN	pos2=FW	9	nsubj	_	O
+5	to	to	IN	pos2=TO	4	prep	_	O
+6	#Sarko	#sarko	NNP	pos2=CD	5	pobj	_	U-GPE
+7	,	,	,	_	9	punct	_	O
+8	#China	#china	NNP	_	9	nsubj	_	U-GPE
+9	defends	defend	VBZ	_	0	root	_	O
+10	#globalization	#globalization	NN	pos2=CD	9	dobj	_	O
+11	,	,	,	_	9	punct	_	O
+12	“	"	``	pos2=''	9	punct	_	O
+13	Fatty	fatty	NNP	pos2=JJ	14	compound	_	B-PERSON
+14	Kim	kim	NNP	_	18	dep	_	L-PERSON
+15	the	the	DT	_	16	det	_	O
+16	Third	#ord#	NNP	pos2=JJ	14	appos	_	U-ORDINAL
+17	”	"	''	pos2=``	18	punct	_	O
+18	https://t.co/d8AvEnphoR	#hlink#	ADD	_	9	dobj	_	O
+

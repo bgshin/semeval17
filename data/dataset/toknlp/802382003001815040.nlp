@@ -1,0 +1,10 @@
+1	Deep	deep	JJ	pos2=NNP	2	nmod	_	O
+2	Learning	learning	NN	pos2=NNP	9	dep	_	O
+3	in	in	IN	_	2	prep	_	O
+4	Aerial	aerial	NNP	pos2=JJ	5	compound	_	B-ORG
+5	Systems	systems	NNP	pos2=NNPS	3	pobj	_	L-ORG
+6	Using	use	VBG	pos2=NNP	2	acl	_	O
+7	Jetson	jetson	NNP	_	6	dobj	_	U-PERSON
+8	https://t.co/3PRbjcZM9p	#hlink#	ADD	_	9	nmod	_	O
+9	https://t.co/Yk6s9VVzaf	#hlink#	ADD	_	0	root	_	U-ORG
+

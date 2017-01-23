@@ -1,0 +1,26 @@
+1	@sweetsyren	@sweetsyren	UH	pos2=XX	2	discourse	_	O
+2	yaaay	yaaay	UH	pos2=NN	0	root	_	O
+3	!!!	!!	.	_	2	punct	_	O
+
+1	tell	tell	VB	_	0	root	_	O
+2	me	me	PRP	_	1	dative	_	O
+3	your	your	PRP$	_	4	poss	_	O
+4	feelings	feeling	NNS	_	1	dobj	_	O
+5	on	on	IN	_	1	prep	_	O
+6	it	it	PRP	_	5	pobj	_	O
+7	when	when	WRB	_	9	advmod	_	O
+8	you	you	PRP	_	9	nsubj	_	O
+9	get	get	VBP	_	15	advcl	_	O
+10	around	around	RB	pos2=RP	9	advmod	_	O
+11	to	to	IN	_	9	prep	_	O
+12	watching	watch	VBG	_	11	pcomp	_	O
+13	bc	bc	NNS	pos2=NN	12	dobj	_	O
+14	you	you	PRP	_	15	nsubj	_	O
+15	’re	be	VBP	_	1	ccomp	_	O
+16	like	like	UH	pos2=IN	15	discourse	_	O
+17	…	…	VBG	pos2=NFP	15	xcomp	_	O
+18	MY	my	PRP$	pos2=GW	21	poss	_	O
+19	ONE	#crd#	CD	pos2=NN	21	nmod	_	U-CARDINAL
+20	WESTWORLD	westworld	NNP	pos2=NN	21	compound	_	U-ORG
+21	OUTLET	outlet	NN	_	17	dobj	_	O
+

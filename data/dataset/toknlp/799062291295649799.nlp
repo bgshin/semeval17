@@ -1,0 +1,23 @@
+1	#TrumpTransitionTeam	#trumptransitionteam	NN	pos2=ADD	8	dep	_	O
+2	"	"	``	pos2=''	8	punct	_	O
+3	Everyone	everyone	NN	_	8	nsubj	_	O
+4	who	who	WP	_	5	nsubj	_	O
+5	knows	know	VBZ	_	3	relcl	_	O
+6	wo	wo	MD	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	talk	talk	VB	_	0	root	_	O
+9	.	.	.	_	8	punct	_	O
+
+1	Everyone	everyone	NN	_	7	nsubj	_	O
+2	who	who	WP	_	4	nsubj	_	O
+3	's	's	VBZ	_	4	aux	_	O
+4	talking	talk	VBG	pos2=NN	1	relcl	_	O
+5	does	do	VBZ	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	know	know	VB	_	0	root	_	O
+8	.	.	.	_	7	punct	_	O
+9	"	"	''	_	7	punct	_	O
+
+1	#TrueStory	#truestory	ADD	pos2=NN	2	det	_	O
+2	#MAGA	#maga	NN	pos2=ADD	0	root	_	O
+

@@ -1,0 +1,20 @@
+1	@SpeakerRyan	@speakerryan	XX	pos2=ADD	8	dep	_	O
+2	The	the	DT	_	4	det	_	O
+3	only	only	JJ	_	4	nmod	_	O
+4	consolation	consolation	NN	_	8	nsubj	_	O
+5	to	to	IN	_	4	prep	_	O
+6	this	this	DT	_	7	det	_	O
+7	nightmare	nightmare	NN	_	5	pobj	_	O
+8	is	be	VBZ	_	0	root	_	O
+9	that	that	IN	pos2=DT	12	mark	_	O
+10	#NotMyPresident	#notmypresident	NNP	pos2=ADD	12	nsubj	_	U-ORG
+11	will	will	MD	_	12	aux	_	O
+12	take	take	VB	_	8	ccomp	_	O
+13	you	you	PRP	_	12	dobj	_	O
+14	&	&	CC	_	12	cc	_	O
+15	@mike_pence	@mike_pence	VB	pos2=RB	12	conj	_	O
+16	down	down	RP	pos2=RB	15	prt	_	O
+17	with	with	IN	_	15	prep	_	O
+18	him	him	PRP	_	17	pobj	_	O
+19	.	.	.	_	8	punct	_	O
+

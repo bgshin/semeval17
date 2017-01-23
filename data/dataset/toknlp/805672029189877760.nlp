@@ -1,0 +1,29 @@
+1	Third	#ord#	RB	pos2=JJ	2	advmod	_	U-ORDINAL
+2	and	and	CC	_	4	cc	_	O
+3	this	this	DT	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	key	key	JJ	pos2=RB	4	acomp	_	O
+6	here	here	RB	_	4	advmod	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	Earning	earn	VBG	_	3	csubj	_	O
+2	money	money	NN	_	1	dobj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	bad	bad	JJ	_	3	acomp	_	O
+5	because	because	IN	_	10	mark	_	O
+6	alt	alt	JJ	pos2=NN	8	nmod	_	O
+7	-	-	HYPH	_	8	punct	_	O
+8	energy	energy	NN	_	13	nmod	_	O
+9	but	but	CC	_	8	cc	_	O
+10	OK	ok	JJ	pos2=UH	8	conj	_	O
+11	because	because	IN	_	10	prep	_	O
+12	fossil	fossil	NN	pos2=JJ	13	compound	_	O
+13	fuels	fuel	NNS	_	14	dep	_	O
+14	?	?	.	_	3	punct	_	O
+
+1	Your	your	PRP$	_	3	poss	_	O
+2	entire	entire	JJ	pos2=NN	3	nmod	_	O
+3	point	point	NN	_	5	dep	_	O
+4	…	…	NFP	pos2=:	5	punct	_	O
+5	https://t.co/95b6XsY6FT	#hlink#	ADD	_	0	root	_	O
+

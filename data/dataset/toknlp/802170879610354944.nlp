@@ -1,0 +1,24 @@
+1	#Yemen	#yemen	NNS	pos2=NN	3	dep	_	O
+2	:	:	:	_	3	punct	_	O
+3	WikiLeaks	wikileaks	NNP	_	0	root	_	U-ORG
+4	on	on	IN	_	3	prep	_	O
+5	Twitter	twitter	NNP	_	4	pobj	_	U-ORG
+6	:	:	:	_	3	punct	_	O
+7	"	"	``	_	3	punct	_	O
+8	The	the	DT	_	10	det	_	O
+9	#Yemen	#yemen	NNP	_	10	compound	_	O
+10	Files	file	NNS	pos2=NNPS	5	dobj	_	O
+11	:	:	:	_	10	punct	_	O
+12	evidence	evidence	NN	_	10	appos	_	O
+13	of	of	IN	_	12	prep	_	O
+14	the	the	DT	_	16	det	_	O
+15	US	us	NNP	_	16	compound	_	U-GPE
+16	arming	arming	NN	pos2=VBG	13	pobj	_	O
+17	,	,	,	_	21	punct	_	O
+18	tra	tra	GW	pos2=NN	21	aux	_	O
+19	…	…	NFP	pos2=GW	21	punct	_	O
+20	https://t.co/C5PoxnWIpi,	#hlink#	ADD	pos2=TO	21	nsubj	_	O
+21	see	see	VB	pos2=VBP	16	prt	_	O
+22	more	more	JJR	pos2=RBR	23	nmod	_	O
+23	https://t.co/AwK6y7c9KL	#hlink#	ADD	pos2=NN	21	dobj	_	O
+

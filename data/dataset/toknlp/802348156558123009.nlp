@@ -1,0 +1,13 @@
+1	Tim	tim	NNP	_	2	compound	_	B-PERSON
+2	Duncan	duncan	NNP	_	4	nsubj	_	L-PERSON
+3	still	still	RB	_	4	advmod	_	O
+4	has	have	VBZ	_	0	root	_	O
+5	a	a	DT	_	7	det	_	O
+6	big	big	JJ	_	7	nmod	_	O
+7	presence	presence	NN	_	4	dobj	_	O
+8	with	with	IN	_	7	prep	_	O
+9	Spurs	spur	NNS	pos2=NNPS	8	pobj	_	O
+10	https://t.co/WntzACpNCE	#hlink#	ADD	pos2=VBP	12	dep	_	O
+11	#gospursgo	#gospursgo	IN	pos2=ADD	7	prep	_	O
+12	https://t.co/xQ1iDsHZR3	#hlink#	ADD	pos2=NN	11	pobj	_	O
+

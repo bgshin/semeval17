@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det	_	O
+2	#Westworld	#westworld	NNP	pos2=MD	3	nsubj	_	U-ORG
+3	need	need	VBP	pos2=NN	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	learn	learn	VB	_	3	xcomp	_	O
+6	much	much	JJ	pos2=RB	5	dobj	_	O
+7	from	from	IN	_	5	prep	_	O
+8	east	east	JJ	pos2=NN	9	nmod	_	O
+9	culture	culture	NN	_	7	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+

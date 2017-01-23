@@ -1,0 +1,20 @@
+1	@GCraughwell	@gcraughwell	UH	pos2=ADD	3	discourse	_	O
+2	there	there	EX	_	3	expl	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	no	no	DT	_	6	det	_	O
+5	such	such	JJ	_	6	nmod	_	O
+6	thing	thing	NN	_	3	attr	_	O
+7	as	as	IN	_	6	prep	_	O
+8	a	a	DT	_	12	det	_	O
+9	"	"	``	_	12	punct	_	O
+10	qualified	qualified	JJ	_	12	nmod	_	O
+11	"	"	''	_	12	punct	_	O
+12	homeopath	homeopath	NN	_	7	pobj	_	O
+13	.	.	.	_	3	punct	_	O
+
+1	Homeopathy	homeopathy	NN	pos2=NNP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	scam	scam	NN	_	2	attr	_	O
+5	.	.	.	_	2	punct	_	O
+

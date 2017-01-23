@@ -1,0 +1,21 @@
+1	Due	due	IN	_	10	prep	_	O
+2	to	to	IN	_	1	pcomp	_	O
+3	concern	concern	NN	_	1	pobj	_	O
+4	for	for	IN	_	3	prep	_	O
+5	prolific	prolific	JJ	pos2=NNP	7	nmod	_	O
+6	Dem	dem	NNP	_	7	compound	_	B-ORG
+7	Donors	donors	NNP	pos2=NNS	4	pobj	_	L-ORG
+8	,	,	,	_	10	punct	_	O
+9	Obama	obama	NNP	_	10	nsubj	_	U-PERSON
+10	allows	allow	VBZ	_	0	root	_	O
+11	this	this	DT	_	12	det	_	O
+12	Wait	wait	NNP	pos2=VB	14	nsubj	_	O
+13	to	to	TO	pos2=IN	14	aux	_	O
+14	fear	fear	VB	pos2=NN	10	ccomp	_	O
+15	&	&	CC	_	14	cc	_	O
+16	protest	protest	VB	pos2=NN	14	conj	_	O
+17	TrumpProtest	trumpprotest	NNP	_	18	compound	_	B-PERSON
+18	Obama	obama	NNP	_	20	dep	_	L-PERSON
+19	now	now	RB	_	20	advmod	_	O
+20	https://t.co/pyGxlD0k0W	#hlink#	ADD	_	16	dobj	_	U-ORG
+

@@ -1,0 +1,28 @@
+1	DJ&PK	dj&pk	NN	pos2=NNS	3	nsubj	_	O
+2	are	be	VBP	_	3	aux	_	O
+3	giving	give	VBG	_	0	root	_	O
+4	away	away	RB	pos2=RP	3	prt	_	O
+5	free	free	JJ	_	3	advcl	_	O
+6	@utahjazz	@utahjazz	IN	pos2=NN	3	prep	_	O
+7	tickets	ticket	NNS	_	6	pobj	_	O
+8	at	at	IN	_	7	prep	_	O
+9	Big	big	NNP	pos2=JJ	10	compound	_	O
+10	O	o	NNP	pos2=NN	11	compound	_	O
+11	Tires	tire	NNS	pos2=NNP	8	pobj	_	O
+12	12600	0	CD	_	15	nmod	_	U-CARDINAL
+13	South	south	NNP	pos2=RB	15	nmod	_	O
+14	4689	0	CD	_	13	npadvmod	_	O
+15	West	west	NNP	pos2=NNS	18	nmod	_	O
+16	until	until	IN	_	3	prep	_	O
+17	10	0	CD	_	18	nmod	_	B-TIME
+18	am	am	NN	_	16	pobj	_	L-TIME
+19	.	.	.	_	3	punct	_	O
+
+1	Get	get	VB	_	0	root	_	O
+2	2	0	CD	_	3	nmod	_	U-CARDINAL
+3	tix	tix	NNS	pos2=NN	1	dobj	_	O
+4	while	while	IN	_	6	mark	_	O
+5	they	they	PRP	_	6	nsubj	_	O
+6	last	last	VBP	pos2=RB	1	advcl	_	O
+7	.	.	.	_	1	punct	_	O
+

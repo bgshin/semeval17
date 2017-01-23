@@ -1,0 +1,20 @@
+1	Many	many	JJ	_	2	nmod	_	O
+2	criminals	criminal	NNS	_	3	nsubj	_	O
+3	believe	believe	VBP	_	12	ccomp	_	O
+4	what	what	WP	pos2=WDT	6	dobj	_	O
+5	they	they	PRP	_	6	nsubj	_	O
+6	say	say	VBP	_	7	csubj	_	O
+7	is	be	VBZ	_	3	ccomp	_	O
+8	true	true	JJ	_	7	acomp	_	O
+9	;	;	:	pos2=,	12	punct	_	O
+10	they	they	PRP	_	12	nsubj	_	O
+11	could	could	MD	_	12	aux	_	O
+12	pass	pass	VB	_	0	root	_	O
+13	a	a	DT	_	14	det	_	O
+14	lie	lie	NN	_	12	dobj	_	O
+15	...	..	.	_	12	punct	_	O
+
+1	#MichaelMoore	#michaelmoore	GW	pos2=ADD	3	nmod	_	O
+2	#citations	#citations	GW	pos2=NNS	3	nmod	_	O
+3	https://t.co/p9YAJ8Dw7p	#hlink#	ADD	pos2=NN	0	root	_	O
+

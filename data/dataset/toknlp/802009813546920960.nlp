@@ -1,0 +1,11 @@
+1	Column	column	NN	_	10	dep	_	O
+2	:	:	:	_	10	punct	_	O
+3	The	the	DT	_	4	det	_	O
+4	#UnitedNations	#unitednations	NNS	pos2=NNPS	8	poss	_	O
+5	’	'	POS	pos2=``	4	case	_	O
+6	#Palestinian	#palestinian	JJ	pos2=NNP	8	nmod	_	O
+7	refugee	refugee	NN	_	8	compound	_	O
+8	industry	industry	NN	_	10	dep	_	O
+9	https://t.co/gnnByNp5qN	#hlink#	ADD	_	10	nsubj	_	O
+10	#UNRWA	#unrwa	ADD	pos2=-RRB-	0	root	_	O
+

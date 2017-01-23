@@ -1,0 +1,15 @@
+1	#Documentaries	#documentaries	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	BBC	bbc	NNP	pos2=NN	6	compound	_	O
+4	Documentary	documentary	NNP	_	6	compound	_	O
+5	North	north	NNP	_	6	compound	_	B-GPE
+6	Korea	korea	NNP	_	14	dep	_	L-GPE
+7	and	and	CC	_	6	cc	_	O
+8	Kim	kim	NNP	_	10	compound	_	B-PERSON
+9	Jong	jong	NNP	_	10	compound	_	L-PERSON
+10	Un	un	NNP	_	6	conj	_	O
+11	(2016)	(0)	CD	pos2=NFP	14	dep	_	O
+12	|	|	NFP	pos2=,	14	punct	_	O
+13	https://t.co/ikOj4Plnm0	#hlink#	ADD	_	14	nmod	_	O
+14	https://t.co/PiDdPphitC	#hlink#	ADD	_	0	root	_	U-ORG
+

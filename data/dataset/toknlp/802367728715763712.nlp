@@ -1,0 +1,26 @@
+1	Is	be	VBZ	_	0	root	_	O
+2	Trump	trump	NNP	pos2=NN	4	poss	_	U-ORG
+3	's	's	POS	_	2	case	_	O
+4	Cabinet	cabinet	NNP	pos2=NN	1	nsubj	_	U-ORG
+5	,	,	,	_	4	punct	_	O
+6	The	the	DT	pos2=NNP	8	det	_	O
+7	David	david	NNP	_	8	compound	_	B-PERSON
+8	Dukes	dukes	NNP	_	4	appos	_	L-PERSON
+9	of	of	IN	_	8	prep	_	O
+10	Pennsylvania	pennsylvania	NNP	_	11	compound	_	B-FAC
+11	Ave.	ave.	NNP	_	9	pobj	_	L-FAC
+12	?	?	.	_	1	punct	_	O
+
+1	Hear	hear	VB	pos2=VBP	0	root	_	O
+2	our	our	PRP$	_	4	poss	_	O
+3	Bob	bob	NNP	_	4	compound	_	B-PERSON
+4	Dylan	dylan	NNP	_	8	dep	_	L-PERSON
+5	:	:	:	_	8	punct	_	O
+6	Trump	trump	NNP	pos2=NN	8	compound	_	U-ORG
+7	protest	protest	NN	_	8	compound	_	O
+8	song	song	NN	_	1	dobj	_	O
+9	.	.	.	_	1	punct	_	O
+
+1	#RobbingUsBarren	#robbingusbarren	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/YBcfV5Wm3J	#hlink#	ADD	_	0	root	_	O
+

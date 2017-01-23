@@ -1,0 +1,15 @@
+1	Video	video	NN	_	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Andre	andre	NNP	_	4	compound	_	B-PERSON
+4	Gomes	gomes	NNP	_	0	root	_	L-PERSON
+5	vs	vs	IN	pos2=CC	4	prep	_	O
+6	Celtic	celtic	NNP	pos2=JJ	5	pobj	_	U-NORP
+7	Away	away	RB	pos2=NNP	4	advmod	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	#fcblive	#fcblive	NN	pos2=UH	3	dep	_	O
+2	[	[	-LRB-	_	3	punct	_	O
+3	@Anass_Edits	@anass_edits	NNS	pos2=GW	0	root	_	O
+4	]	]	-RRB-	_	3	punct	_	O
+5	https://t.co/ibgSJOWmyl	#hlink#	ADD	pos2=NN	3	dep	_	O
+

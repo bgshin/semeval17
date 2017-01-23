@@ -1,0 +1,11 @@
+1	#Uber	#uber	NNP	pos2=NN	8	vocative	_	U-PERSON
+2	and	and	CC	_	1	cc	_	O
+3	#Gautrain	#gautrain	NNP	pos2=NN	1	conj	_	U-PERSON
+4	;	;	,	pos2=:	8	punct	_	O
+5	how	how	WRB	_	8	advmod	_	O
+6	do	do	VBP	_	8	aux	_	O
+7	I	I	PRP	_	8	nsubj	_	O
+8	thank	thank	VBP	pos2=VB	0	root	_	O
+9	thee	thee	PRP	_	8	dobj	_	O
+10	👏🏽🙌🏽😄😭😭😀🎉	👏🏽🙌🏽😄😭😭😀🎉	.	pos2=''	8	punct	_	O
+

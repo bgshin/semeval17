@@ -1,0 +1,21 @@
+1	Donald	donald	NNP	_	2	compound	_	B-PERSON
+2	Trump	trump	NNP	_	6	nsubj	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	Chuck	chuck	NNP	_	5	compound	_	B-PERSON
+5	Todd	todd	NNP	_	2	appos	_	L-PERSON
+6	Agree	agree	VBP	pos2=NNP	0	root	_	O
+7	:	:	:	_	6	punct	_	O
+8	No	no	DT	pos2=NNP	9	det	_	O
+9	Trust	trust	NNP	pos2=NN	13	nsubj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Feds	fed	NNPS	pos2=NNS	10	pobj	_	O
+12	'	'	POS	pos2=''	11	case	_	O
+13	Handling	handle	VBG	pos2=NN	6	ccomp	_	O
+14	Ebola	ebola	NNP	_	13	dobj	_	O
+15	Because	because	IN	_	13	prep	_	O
+16	of	of	IN	_	15	pcomp	_	O
+17	Obama	obama	NNP	_	18	compound	_	B-PERSON
+18	Admin	admin	NNP	pos2=NN	19	compound	_	L-PERSON
+19	Scandals	scandal	NNS	pos2=NNPS	15	pobj	_	O
+20	https://t.co/wqvFz7dDB5	#hlink#	ADD	_	19	npadvmod	_	O
+

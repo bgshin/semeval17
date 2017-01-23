@@ -1,0 +1,6 @@
+1	FKK	fkk	NNP	_	4	compound	_	B-ORG
+2	Club	club	NNP	_	4	compound	_	I-ORG
+3	Sharks	shark	NNPS	pos2=NNP	4	compound	_	L-ORG
+4	#Darmstadt	#darmstadt	NNP	pos2=POS	5	dep	_	O
+5	https://t.co/FDje599d9w	#hlink#	ADD	_	0	root	_	O
+

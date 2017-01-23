@@ -1,0 +1,27 @@
+1	@noblebarnes87	@noblebarnes0	NN	pos2=LS	6	dep	_	O
+2	@IngrahamAngle	@ingrahamangle	ADD	pos2=XX	6	punct	_	O
+3	@nypmetro	@nypmetro	UH	pos2=FW	6	discourse	_	O
+4	@nypost	@nypost	UH	pos2=IN	6	discourse	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	's	's	VBZ	_	0	root	_	O
+7	a	a	DT	_	9	det	_	O
+8	data	data	NN	pos2=NNS	9	compound	_	O
+9	point	point	NN	_	6	attr	_	O
+10	.	.	.	_	6	punct	_	O
+
+1	Being	be	VBG	_	2	auxpass	_	O
+2	triggered	trigger	VBN	_	0	root	_	O
+3	by	by	IN	_	2	agent	_	O
+4	data	datum	NNS	pos2=NN	5	compound	_	O
+5	points	point	NNS	_	3	pobj	_	O
+6	also	also	RB	_	9	advmod	_	O
+7	something	something	NN	pos2=JJ	8	compound	_	O
+8	liberals	liberal	NNS	_	9	nsubj	_	O
+9	do	do	VBP	pos2=VB	4	aux	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	Do	do	VB	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	be	be	VB	_	0	root	_	O
+4	dumb	dumb	JJ	_	3	acomp	_	O
+

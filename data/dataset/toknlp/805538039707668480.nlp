@@ -1,0 +1,16 @@
+1	@DemSocialists	@demsocialists	NNS	pos2=ADD	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	DSA	dsa	NN	pos2=NNP	2	nsubj	_	O
+5	a	a	DT	_	6	det	_	O
+6	party	party	NN	_	2	attr	_	O
+7	that	that	IN	pos2=WDT	10	mark	_	O
+8	one	#crd#	PRP	pos2=CD	10	nsubj	_	O
+9	can	can	MD	_	10	aux	_	O
+10	place	place	VB	_	6	relcl	_	O
+11	on	on	IN	_	10	prep	_	O
+12	a	a	DT	_	14	det	_	O
+13	voter	voter	NN	_	14	compound	_	O
+14	registration	registration	NN	_	11	pobj	_	O
+15	?	?	.	_	2	punct	_	O
+

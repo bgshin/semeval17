@@ -1,0 +1,23 @@
+1	Bernie	bernie	NNP	_	2	compound	_	B-PERSON
+2	Sanders	sanders	NNP	_	4	nsubj	_	L-PERSON
+3	may	may	MD	_	4	aux	_	O
+4	be	be	VB	_	0	root	_	O
+5	a	a	DT	_	7	det	_	O
+6	white	white	JJ	_	7	nmod	_	O
+7	supremacist	supremacist	NN	_	4	attr	_	O
+8	,	,	,	_	9	punct	_	O
+9	dudes	dude	NNS	_	7	conj	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	Has	have	VBZ	_	3	aux	_	O
+2	he	he	PRP	_	3	nsubj	_	O
+3	been	be	VBN	pos2=VBG	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	crypto-Nazi	crypto-nazi	NN	pos2=JJ	3	attr	_	O
+6	all	all	PDT	_	8	predet	_	B-DATE
+7	these	these	DT	_	8	det	_	I-DATE
+8	years	year	NNS	_	3	npadvmod	_	L-DATE
+9	?	?	.	_	3	punct	_	O
+
+1	https://t.co/JW44QX3GuD	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,13 @@
+1	Barcelona	barcelona	NNP	pos2=NN	2	nsubj	_	U-GPE
+2	facing	face	VBG	_	0	root	_	O
+3	disciplinary	disciplinary	JJ	_	4	nmod	_	O
+4	action	action	NN	_	2	dobj	_	O
+5	for	for	IN	_	2	prep	_	O
+6	chants	chant	NNS	_	5	pobj	_	O
+7	directed	direct	VBN	_	6	acl	_	O
+8	at	at	IN	_	7	prep	_	O
+9	Cristiano	cristiano	NNP	_	10	compound	_	B-PERSON
+10	Ron	ron	NNP	pos2=GW	12	nmod	_	L-PERSON
+11	aldohttps://t.co/t7xUfnPQLv	#hlink#	ADD	_	12	nmod	_	O
+12	https://t.co/DqBnnGSUxZ	#hlink#	ADD	_	8	pobj	_	U-ORG
+

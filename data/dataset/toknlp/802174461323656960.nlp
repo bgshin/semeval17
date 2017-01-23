@@ -1,0 +1,28 @@
+1	Lol	lol	UH	pos2=NNP	4	discourse	_	O
+2	now	now	RB	_	4	advmod	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	millions	#crd#	NNS	_	4	attr	_	U-CARDINAL
+6	.	.	.	_	4	punct	_	O
+
+1	Palestine	palestine	NNP	_	3	nsubj	_	U-GPE
+2	never	never	RB	_	3	neg	_	O
+3	existed	existed	VBD	_	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	any	any	DT	_	6	det	_	O
+6	history	history	NN	_	4	pobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	a	a	DT	_	6	det	_	O
+4	glorified	glorified	JJ	pos2=VBN	6	nmod	_	O
+5	refugee	refugee	NN	_	6	compound	_	O
+6	camp	camp	NN	_	2	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Jordanians	jordanian	NNPS	_	7	pobj	_	U-NORP
+9	and	and	CC	_	8	cc	_	O
+10	Egypt	egypt	NNP	_	8	conj	_	U-GPE
+11	…	…	NFP	pos2=POS	12	punct	_	O
+12	https://t.co/22R0AfBnvZ	#hlink#	ADD	_	2	dep	_	U-GPE
+

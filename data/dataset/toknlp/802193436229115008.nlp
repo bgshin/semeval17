@@ -1,0 +1,22 @@
+1	Big	big	JJ	_	2	nmod	_	O
+2	day	day	NN	_	5	npadvmod	_	O
+3	today	today	NN	_	5	npadvmod	_	U-DATE
+4	:	:	:	_	5	punct	_	O
+5	took	take	VBD	_	0	root	_	O
+6	my	my	PRP$	_	8	poss	_	O
+7	first	#ord#	JJ	_	8	nmod	_	U-ORDINAL
+8	@Uber_QC	@uber_qc	NN	pos2=NNP	5	dobj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	my	my	PRP$	_	12	poss	_	O
+11	first	#ord#	JJ	_	12	nmod	_	U-ORDINAL
+12	@TeoMTL	@teomtl	NN	pos2=NNP	8	conj	_	O
+13	.	.	.	_	5	punct	_	O
+
+1	Both	both	DT	pos2=CC	3	det	_	O
+2	great	great	JJ	_	3	nmod	_	O
+3	experiences	experience	NNS	_	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+
+1	#teotaxi	#teotaxi	UH	pos2=XX	2	discourse	_	O
+2	#uber	#uber	UH	pos2=NN	0	root	_	O
+

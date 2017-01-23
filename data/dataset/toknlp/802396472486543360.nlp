@@ -1,0 +1,30 @@
+1	36	0	CD	_	2	nmod	_	B-PERCENT
+2	%	%	NN	_	7	nsubj	_	L-PERCENT
+3	of	of	IN	_	2	prep	_	O
+4	each	each	DT	_	5	det	_	O
+5	paycheck	paycheck	NN	_	3	pobj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	pay	pay	VB	_	0	root	_	O
+8	for	for	IN	_	7	prep	_	O
+9	them	them	PRP	_	8	pobj	_	O
+10	in	in	IN	_	7	prep	_	O
+11	advance	advance	NN	_	10	pobj	_	O
+12	.	.	.	_	7	punct	_	O
+
+1	Social	social	NNP	pos2=JJ	2	compound	_	B-ORG
+2	Security	security	NNP	_	3	compound	_	I-ORG
+3	Disability	disability	NNP	pos2=NN	4	nsubj	_	L-ORG
+4	is	be	VBZ	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	insurance	insurance	NN	_	4	attr	_	O
+7	incase	incase	IN	pos2=NN	9	mark	_	O
+8	they	they	PRP	_	9	nsubj	_	O
+9	become	become	VBP	pos2=VBD	4	advcl	_	O
+10	injured	injured	JJ	pos2=VBN	9	acomp	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	Here	here	RB	_	2	advmod	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	real	real	JJ	pos2=RB	2	nsubj	_	O
+

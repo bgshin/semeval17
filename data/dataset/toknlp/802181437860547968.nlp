@@ -1,0 +1,31 @@
+1	NICE	nice	JJ	pos2=NN	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	all	all	RB	pos2=DT	4	advmod	_	O
+4	about	about	IN	_	2	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	#innercity	#innercity	NN	pos2=NNP	4	pobj	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	|	|	SYM	_	0	root	_	O
+2	"	"	''	pos2=``	1	punct	_	O
+3	...	..	.	pos2=,	1	punct	_	O
+
+1	to	to	IN	pos2=TO	0	root	_	O
+2	making	make	VBG	_	1	pcomp	_	O
+3	our	our	PRP$	_	5	poss	_	O
+4	inner	inner	JJ	_	5	nmod	_	O
+5	cities	city	NNS	_	6	nsubj	_	O
+6	great	great	JJ	pos2=RB	2	ccomp	_	O
+7	for	for	IN	_	6	prep	_	O
+8	everyone	everyone	NN	_	7	pobj	_	O
+9	...	..	.	pos2=,	1	punct	_	O
+10	"	"	''	_	1	punct	_	O
+
+1	-	-	SYM	pos2=NFP	4	punct	_	O
+2	@RealBenCarson	@realbencarson	GW	pos2=NN	4	nmod	_	O
+3	#Riots	#riots	GW	pos2=NNS	4	nmod	_	O
+4	https://t.co/Er5U18dBtW	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,29 @@
+1	@thehill	@thehill	UH	pos2=``	3	discourse	_	O
+2	It	it	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	hard	hard	JJ	_	3	acomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	tell	tell	VB	_	3	xcomp	_	O
+7	which	which	WDT	_	8	nsubj	_	O
+8	are	be	VBP	_	6	ccomp	_	O
+9	the	the	DT	_	11	det	_	O
+10	stupid	stupid	JJ	_	11	nmod	_	O
+11	Americans	american	NNPS	_	8	attr	_	U-NORP
+12	&	&	CC	_	8	cc	_	O
+13	which	which	WDT	_	14	nsubj	_	O
+14	are	be	VBP	_	8	conj	_	O
+15	Putin	putin	NNP	_	17	poss	_	U-PERSON
+16	's	's	POS	_	15	case	_	O
+17	trolls	troll	NNS	_	14	attr	_	O
+18	.	.	.	_	3	punct	_	O
+
+1	Birds	bird	NNS	_	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	a	a	DT	_	4	det	_	O
+4	feather	feather	NN	_	2	pobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	Fools	fool	NNS	pos2=NNPS	2	nsubj	_	O
+2	together	together	RB	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+

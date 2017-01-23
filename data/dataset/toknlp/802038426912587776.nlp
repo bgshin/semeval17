@@ -1,0 +1,9 @@
+1	Jill	jill	NNP	_	2	compound	_	B-PERSON
+2	Scott	scott	NNP	_	3	nsubj	_	L-PERSON
+3	looks	look	VBZ	_	0	root	_	O
+4	great	great	JJ	_	3	acomp	_	O
+5	on	on	IN	_	3	prep	_	O
+6	Love	love	NNP	pos2=NN	5	pobj	_	O
+7	&	&	CC	_	6	cc	_	O
+8	Happiness.#ThankYouObama	happiness.#thankyouobama	NNP	pos2=ADD	6	conj	_	O
+

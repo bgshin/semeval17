@@ -1,0 +1,26 @@
+1	#Westworld	#westworld	NNP	pos2=NN	2	compound	_	O
+2	S01	s0	NN	pos2=NNP	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	nothing	nothing	NN	_	3	attr	_	O
+5	less	less	JJR	_	4	nmod	_	O
+6	than	than	IN	_	5	prep	_	O
+7	a	a	DT	_	8	det	_	O
+8	MASTERPIECE	masterpiece	NN	_	6	pobj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	Phenomenal	phenomenal	JJ	_	2	nmod	_	O
+2	finale	finale	NN	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	And	and	CC	_	3	cc	_	O
+2	im	im	NN	pos2=UH	3	aux	_	O
+3	gon	gon	VBG	pos2=XX	0	root	_	O
+4	na	to	TO	_	5	aux	_	O
+5	stay	stay	VB	_	3	xcomp	_	O
+6	away	away	RB	_	5	advmod	_	O
+7	from	from	IN	_	6	prep	_	O
+8	all	all	PDT	_	10	predet	_	O
+9	the	the	DT	_	10	det	_	O
+10	theories	theory	NNS	_	7	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+

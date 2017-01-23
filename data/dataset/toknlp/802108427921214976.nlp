@@ -1,0 +1,15 @@
+1	Messi	messi	NNP	pos2=NN	6	meta	_	U-PERSON
+2	at	at	IN	_	1	prep	_	O
+3	Adidas	adidas	NNP	_	4	compound	_	U-ORG
+4	event	event	NN	_	2	pobj	_	O
+5	and	and	CC	_	9	det	_	O
+6	presenting	present	VBG	_	0	root	_	O
+7	his	his	PRP$	_	9	poss	_	O
+8	new	new	JJ	_	9	nmod	_	O
+9	boots	boot	NNS	_	6	dobj	_	O
+10	yesterday	yesterday	NN	_	6	npadvmod	_	U-DATE
+11	.	.	.	_	1	punct	_	O
+
+1	#fcblive	#fcblive	UH	pos2=ADD	2	discourse	_	O
+2	https://t.co/POsl0Qy9LG	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,28 @@
+1	"	"	``	_	4	punct	_	O
+2	As	as	RB	pos2=,	4	advmod	_	O
+3	well	well	RB	pos2=UH	4	advmod	_	O
+4	consult	consult	VB	pos2=VBP	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	butcher	butcher	NN	_	4	dobj	_	O
+7	on	on	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	value	value	NN	_	7	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	vegetarianism	vegetarianism	NN	_	10	pobj	_	O
+12	as	as	IN	_	4	prep	_	O
+13	a	a	DT	_	14	det	_	O
+14	doctor	doctor	NN	_	12	pobj	_	O
+15	on	on	IN	_	14	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	worth	worth	NN	pos2=JJ	15	pobj	_	O
+18	of	of	IN	_	17	prep	_	O
+19	vaccination	vaccination	NN	_	18	pobj	_	O
+20	.	.	.	_	4	punct	_	O
+21	"	"	''	_	4	punct	_	O
+
+1	-	-	SYM	pos2=:	4	punct	_	O
+2	George	george	NNP	_	4	compound	_	B-PERSON
+3	Bernard	bernard	NNP	_	4	compound	_	I-PERSON
+4	Shaw	shaw	NNP	_	0	root	_	L-PERSON
+5	#quote	#quote	ADD	pos2=UH	4	appos	_	O
+

@@ -1,0 +1,17 @@
+1	Live	live	VB	pos2=RB	11	advcl	_	O
+2	on	on	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	radio	radio	NN	_	2	pobj	_	O
+5	right	right	RB	_	6	advmod	_	O
+6	now	now	RB	_	1	advmod	_	O
+7	until	until	IN	_	1	prep	_	O
+8	4:00	0	CD	_	9	nmod	_	B-TIME
+9	EST	est	NN	pos2=NNP	7	pobj	_	L-TIME
+10	--	--	:	pos2=,	11	punct	_	O
+11	tune	tune	VB	pos2=NN	0	root	_	O
+12	me	me	PRP	pos2=NN	11	dobj	_	O
+13	in.	in.	.	pos2=GW	11	punct	_	O
+14	https://t.co/bBEILrlHW5	#hlink#	ADD	_	16	nmod	_	O
+15	#ThatFridayFeeling	#thatfridayfeeling	VBG	pos2=-RRB-	16	nmod	_	O
+16	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=ADD	11	prt	_	O
+

@@ -1,0 +1,18 @@
+1	@SocialBehaviors	@socialbehaviors	NNS	pos2=ADD	2	compound	_	O
+2	@ClassySnobbb	@classysnobbb	NN	pos2=EX	3	nsubj	_	O
+3	Is	be	VBZ	_	0	root	_	O
+4	this	this	DT	_	3	nsubj	_	O
+5	an	an	DT	_	8	det	_	O
+6	anti-abortion	anti-abortion	JJ	pos2=NN	8	nmod	_	O
+7	awareness	awareness	NN	_	8	compound	_	O
+8	experiment	experiment	NN	pos2=VB	3	attr	_	O
+9	?	?	.	_	3	punct	_	O
+
+1	Correct	correct	VB	pos2=VBD	0	root	_	O
+2	me	me	PRP	_	1	dobj	_	O
+3	if	if	IN	_	5	mark	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	'm	be	VBP	_	1	advcl	_	O
+6	wrong	wrong	JJ	_	5	acomp	_	O
+7	...	..	.	_	1	punct	_	O
+

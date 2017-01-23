@@ -1,0 +1,12 @@
+1	#Laugh	#laugh	NNP	pos2=XX	0	root	_	O
+2	at	at	IN	_	1	prep	_	O
+3	Ron	ron	NNP	_	6	compound	_	O
+4	White	white	NNP	_	6	compound	_	O
+5	Death	death	NNP	pos2=NN	6	compound	_	O
+6	Penalty	penalty	NNP	pos2=NN	2	pobj	_	O
+7	on	on	IN	_	1	prep	_	O
+8	https://t.co/3OKIUIM0c1	#hlink#	ADD	pos2=NNP	7	pobj	_	O
+9	#comedy	#comedy	IN	pos2=-RRB-	7	pobj	_	O
+10	#funny	#funny	UH	pos2=XX	9	discourse	_	O
+11	#standup	#standup	UH	pos2=NN	9	discourse	_	O
+

@@ -1,0 +1,17 @@
+1	Im	im	NN	pos2=UH	3	nsubj	_	O
+2	still	still	RB	_	3	advmod	_	O
+3	trying	try	VBG	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	get	get	VB	_	3	xcomp	_	O
+6	over	over	IN	pos2=RP	5	prep	_	O
+7	Leonard	leonard	NNP	_	8	compound	_	B-PERSON
+8	Cohen	cohen	NNP	_	6	pobj	_	L-PERSON
+9	dying	die	VBG	_	5	ccomp	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	fucking	fucking	JJ	pos2=VBG	4	advmod	_	O
+4	awesome	awesome	JJ	_	2	acomp	_	O
+5	.	.	.	_	2	punct	_	O
+

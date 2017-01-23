@@ -1,0 +1,15 @@
+1	Green	green	NNP	_	2	compound	_	B-ORG
+2	Party	party	NNP	_	3	nsubj	_	L-ORG
+3	condemns	condemn	VBZ	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	violent	violent	JJ	_	6	nmod	_	O
+6	suppression	suppression	NN	_	3	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Dakota	dakota	NNP	_	9	compound	_	B-ORG
+9	Access	access	NNP	pos2=GW	10	compound	_	I-ORG
+10	Pipeline	pipeline	NN	pos2=GW	11	compound	_	L-ORG
+11	protesters	protester	NNS	pos2=GW	7	pobj	_	O
+12	https://t.co/j9dQBLkfXC	#hlink#	ADD	pos2=VBP	10	appos	_	O
+13	vía	vía	NNP	pos2=-RRB-	10	appos	_	U-ORG
+14	@GreenPartyUS	@greenpartyus	.	pos2=NN	3	punct	_	O
+

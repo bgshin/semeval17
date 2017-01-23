@@ -1,0 +1,22 @@
+1	Thx	thx	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Obamacare	obamacare	NNP	_	0	root	_	L-PERSON
+3	!	!	.	_	2	punct	_	O
+
+1	The	the	DT	_	4	det	_	B-ORG
+2	U.S.	u.s.	NNP	_	4	compound	_	I-ORG
+3	Abortion	abortion	NNP	pos2=NN	4	compound	_	I-ORG
+4	Rate	rate	NNP	pos2=NN	5	nsubj	_	L-ORG
+5	Reached	reach	VBD	_	0	root	_	O
+6	Its	its	PRP$	pos2=NNP	7	poss	_	O
+7	Lowest	low	JJS	pos2=NNP	5	dobj	_	O
+8	Since	since	IN	pos2=NNP	5	prep	_	O
+9	Before	before	NNP	pos2=IN	13	nmod	_	O
+10	Roe	roe	NNP	_	13	nmod	_	B-PERSON
+11	v.	v.	IN	pos2=NNP	10	prep	_	I-PERSON
+12	Wade	wade	NNP	_	11	pobj	_	I-PERSON
+13	https://t.co/eKZolO4JZr	#hlink#	ADD	pos2=NNP	8	pobj	_	I-PERSON
+14	@cspanwj	@cspanwj	-RRB-	pos2=XX	5	punct	_	I-PERSON
+15	#Resist	#resist	-RRB-	pos2=NNP	17	compound	_	L-PERSON
+16	#MAGA	#maga	NN	pos2=ADD	13	det	_	O
+17	#uniteblue	#uniteblue	UH	pos2=NN	16	discourse	_	O
+

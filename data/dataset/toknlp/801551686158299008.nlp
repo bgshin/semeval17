@@ -1,0 +1,24 @@
+1	Kate	kate	NNP	_	2	compound	_	B-PERSON
+2	Upton	upton	NNP	_	3	nsubj	_	L-PERSON
+3	explains	explain	VBZ	_	0	root	_	O
+4	her	her	PRP$	pos2=PRP	9	poss	_	O
+5	infamous	infamous	JJ	_	9	nmod	_	O
+6	Cy	cy	NNP	pos2=NN	8	compound	_	O
+7	Young	young	NNP	_	8	compound	_	O
+8	Twitter	twitter	NNP	_	9	compound	_	O
+9	complaints	complaint	NNS	pos2=VBZ	3	dobj	_	O
+10	and	and	CC	_	3	cc	_	O
+11	she	she	PRP	_	12	nsubj	_	O
+12	has	have	VBZ	_	3	conj	_	O
+13	a	a	DT	_	14	det	_	O
+14	point	point	NN	_	12	dobj	_	O
+15	:	:	:	_	12	punct	_	O
+16	Upton	upton	NNP	_	18	poss	_	U-PERSON
+17	's	's	POS	_	16	case	_	O
+18	fiancee	fiancee	NN	_	14	conj	_	O
+19	,	,	,	_	18	punct	_	O
+20	Justin	justin	NNP	_	21	compound	_	B-PERSON
+21	Verlander	verlander	NNP	_	18	appos	_	L-PERSON
+22	…	…	NFP	pos2=POS	23	punct	_	O
+23	https://t.co/0HKaJxuUIu	#hlink#	ADD	_	18	appos	_	O
+

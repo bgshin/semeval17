@@ -1,0 +1,5 @@
+1	@Adamant_Yves	@adamant_yves	VBZ	pos2=NNS	0	root	_	O
+2	Ashley	ashley	NNP	_	3	compound	_	B-PERSON
+3	graham	graham	NNP	pos2=NN	1	nsubj	_	L-PERSON
+4	!	!	.	_	1	punct	_	O
+

@@ -1,0 +1,13 @@
+1	Great	great	JJ	_	3	nmod	_	O
+2	#Harlow	#harlow	NN	pos2=NNP	3	compound	_	O
+3	#Conservatives	#conservatives	NNS	pos2=POS	4	compound	_	O
+4	dinner	dinner	NN	_	0	root	_	O
+5	last	last	JJ	_	6	nmod	_	B-TIME
+6	night	night	NN	_	4	npadvmod	_	L-TIME
+7	with	with	IN	_	4	prep	_	O
+8	guest	guest	NN	pos2=JJ	9	compound	_	O
+9	speaker	speaker	NN	_	11	compound	_	O
+10	Michael	michael	NNP	_	11	compound	_	B-PERSON
+11	Fallon	fallon	NNP	_	7	pobj	_	L-PERSON
+12	.	.	.	_	4	punct	_	O
+

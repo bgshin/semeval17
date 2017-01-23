@@ -1,0 +1,17 @@
+1	Label	label	NN	_	2	compound	_	O
+2	scan	scan	NN	_	9	nsubj	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Bob	bob	NNP	_	5	compound	_	B-PERSON
+5	Dylan	dylan	NNP	_	8	poss	_	L-PERSON
+6	's	's	POS	_	5	case	_	O
+7	12th	#ord#	RB	pos2=JJ	8	advmod	_	U-ORDINAL
+8	biggest	big	JJS	pos2=RB	9	advmod	_	O
+9	hit	hit	VBN	pos2=NN	0	root	_	O
+10	,	,	,	_	9	punct	_	O
+11	Subterranean	subterranean	NNP	pos2=JJ	13	compound	_	B-ORG
+12	Homesick	homesick	NNP	pos2=JJ	13	compound	_	I-ORG
+13	Blues	blues	NNPS	pos2=NNS	9	dobj	_	L-ORG
+14	.	.	.	_	9	punct	_	O
+
+1	https://t.co/s4FLWbErUY	#hlink#	ADD	_	0	root	_	U-ORG
+

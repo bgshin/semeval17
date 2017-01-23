@@ -1,0 +1,17 @@
+1	@BreitbartNews	@breitbartnews	NNP	pos2=UH	3	vocative	_	U-LOC
+2	That	that	DT	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	hysterical	hysterical	JJ	_	3	acomp	_	O
+5	-	-	:	pos2=,	3	punct	_	O
+6	when	when	WRB	_	9	advmod	_	O
+7	Al	al	NNP	_	8	compound	_	B-ORG
+8	Quida	quida	NNP	_	9	nsubj	_	L-ORG
+9	call	call	VB	pos2=VBP	3	advcl	_	O
+10	Steve	steve	NNP	_	11	compound	_	B-PERSON
+11	Bannon	bannon	NNP	_	9	dobj	_	L-PERSON
+12	"	"	``	pos2=''	16	punct	_	O
+13	anti	anti	AFX	pos2=JJ	14	advmod	_	O
+14	semitic	semitic	JJ	_	16	nmod	_	O
+15	"	"	''	pos2=``	16	punct	_	O
+16	😂😂😂	😂😂😂	NN	pos2=.	9	oprd	_	O
+

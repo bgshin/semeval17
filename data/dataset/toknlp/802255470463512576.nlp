@@ -1,0 +1,22 @@
+1	According	accord	VBG	_	10	prep	_	O
+2	to	to	IN	_	1	prep	_	O
+3	@juniperresearch	@juniperresearch	VB	pos2=UH	2	pobj	_	O
+4	the	the	DT	_	5	det	_	O
+5	figure	figure	NN	_	10	nsubj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	#Selfdriving	#selfdriving	VBG	pos2=NNP	6	pcomp	_	O
+8	cars	car	NNS	_	7	dobj	_	O
+9	will	will	MD	_	10	aux	_	O
+10	reach	reach	VB	_	0	root	_	O
+11	22	0	CD	_	12	compound	_	B-CARDINAL
+12	million	#crd#	CD	_	10	dobj	_	L-CARDINAL
+13	by	by	IN	_	10	prep	_	O
+14	2025	0	CD	_	13	pobj	_	U-DATE
+15	.	.	.	_	10	punct	_	O
+
+1	This	this	DT	_	3	nsubj	_	O
+2	is	be	VBZ	_	3	aux	_	O
+3	promising	promise	VBG	pos2=JJ	0	root	_	O
+4	https://t.co/Vp7B7re3Nc	#hlink#	ADD	pos2=NN	5	nmod	_	O
+5	#ITS	#its	NNS	pos2=ADD	3	dobj	_	O
+

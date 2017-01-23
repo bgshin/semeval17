@@ -1,0 +1,19 @@
+1	❤#Books	❤#books	NNS	pos2=VBZ	0	root	_	O
+2	#Book	#book	IN	pos2=POS	1	prep	_	O
+3	NEW	new	JJ	pos2=RB	5	nmod	_	O
+4	-	-	HYPH	pos2=:	5	punct	_	O
+5	#Yoga	#yoga	NN	pos2=NNP	2	pobj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	Vegetarianism	vegetarianism	NN	pos2=NNP	5	conj	_	O
+8	:	:	:	_	10	punct	_	O
+9	The	the	DT	_	10	det	_	O
+10	Diet	diet	NNP	_	7	appos	_	O
+11	of	of	IN	_	10	prep	_	O
+12	Enlightenment	enlightenment	NNP	_	11	pobj	_	O
+13	by	by	IN	_	10	prep	_	O
+14	Gannon	gannon	NNP	_	13	pobj	_	U-PERSON
+15	,	,	,	_	14	punct	_	O
+16	Sharon	sharon	NNP	_	17	compound	_	B-PERSON
+17	#Bestseller	#bestseller	NNP	pos2=GW	14	appos	_	L-PERSON
+18	https://t.co/iy2FwYmZVe	#hlink#	ADD	pos2=NN	14	appos	_	O
+

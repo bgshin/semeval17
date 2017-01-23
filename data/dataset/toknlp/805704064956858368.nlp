@@ -1,0 +1,17 @@
+1	Five	#crd#	CD	_	3	nmod	_	B-DATE
+2	-	-	HYPH	_	3	punct	_	I-DATE
+3	year	year	NN	_	5	compound	_	I-DATE
+4	-	-	HYPH	_	5	punct	_	I-DATE
+5	olds	old	NNS	_	6	nsubj	_	L-DATE
+6	caged	caged	JJ	pos2=VBN	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	clean	clean	VB	_	6	xcomp	_	O
+9	up	up	RP	_	8	prt	_	O
+10	streets	street	NNS	_	8	dobj	_	O
+11	for	for	IN	_	10	prep	_	O
+12	Pope	pope	NNP	_	13	compound	_	O
+13	Francis	francis	NNP	_	11	pobj	_	O
+14	https://t.co/S9peBqMsNW	#hlink#	ADD	pos2=NNP	16	nmod	_	O
+15	via	via	IN	_	6	prep	_	O
+16	@MailOnline	@mailonline	NN	pos2=NNP	15	pobj	_	O
+

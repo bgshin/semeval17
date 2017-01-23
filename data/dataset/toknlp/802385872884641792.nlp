@@ -1,0 +1,33 @@
+1	@ezlusztig	@ezlusztig	UH	pos2=XX	4	discourse	_	O
+2	@AndyRichter	@andyrichter	IN	pos2=NN	4	mark	_	O
+3	they	they	PRP	_	8	nsubj	_	O
+4	will	will	MD	_	0	root	_	O
+5	-	-	:	pos2=HYPH	4	punct	_	O
+6	because	because	IN	_	8	mark	_	O
+7	Dems	dems	NNPS	pos2=NNS	8	nsubj	_	U-NORP
+8	are	be	VBP	_	2	advcl	_	O
+9	pussies	pussy	NNS	_	8	attr	_	O
+10	.	.	.	_	8	punct	_	O
+
+1	There	there	RB	_	4	advmod	_	O
+2	,	,	,	_	4	punct	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	said	say	VBD	_	0	root	_	O
+5	it	it	PRP	_	4	dobj	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	Republicans	republican	NNPS	pos2=NNS	2	nsubj	_	U-NORP
+2	go	go	VBP	pos2=VB	7	ccomp	_	O
+3	for	for	IN	_	2	prep	_	O
+4	jugular	jugular	JJ	pos2=NN	3	pobj	_	O
+5	,	,	,	_	7	punct	_	O
+6	Dems	dems	NNPS	pos2=NNS	7	nsubj	_	U-NORP
+7	are	be	VBP	_	0	root	_	O
+8	just	just	RB	_	10	advmod	_	O
+9	too	too	RB	_	10	advmod	_	O
+10	nice	nice	JJ	_	7	acomp	_	O
+11	.	.	.	_	7	punct	_	O
+
+1	Sucks	suck	VBZ	pos2=NNS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

@@ -1,0 +1,18 @@
+1	Tinkercad	tinkercad	NNP	pos2=NN	5	compound	_	O
+2	3	0	CD	_	5	nmod	_	U-CARDINAL
+3	D	d	NNP	pos2=NN	5	compound	_	B-ORG
+4	Printing	printing	NNP	pos2=NN	5	compound	_	I-ORG
+5	Tutorial	tutorial	NNP	pos2=NN	9	dep	_	L-ORG
+6	:	:	:	_	5	punct	_	O
+7	How	how	WRB	_	9	advmod	_	O
+8	to	to	TO	_	9	aux	_	O
+9	Create	create	VB	_	0	root	_	O
+10	Your	your	PRP$	_	15	poss	_	O
+11	First	#ord#	JJ	pos2=NNP	15	nmod	_	U-ORDINAL
+12	3	0	CD	_	17	dep	_	U-CARDINAL
+13	D	d	NNP	pos2=NN	15	compound	_	O
+14	Print	print	NN	pos2=NNP	15	compound	_	O
+15	#	#	NN	pos2=.	9	dobj	_	O
+16	3DPrinting	0dprinting	VBG	pos2=NN	15	acl	_	U-MONEY
+17	https://t.co/ZWZFEZw7TM	#hlink#	ADD	pos2=NN	9	dobj	_	O
+

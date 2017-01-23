@@ -1,0 +1,14 @@
+1	Microsoft	microsoft	NNP	_	2	nsubj	_	U-ORG
+2	joins	join	VBZ	_	0	root	_	O
+3	Linux	linux	NNP	_	4	compound	_	U-ORG
+4	foundation	foundation	NN	_	2	dobj	_	O
+5	as	as	IN	_	4	prep	_	O
+6	Platinum	platinum	NNP	pos2=NN	7	compound	_	U-ORG
+7	member	member	NN	_	5	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	Va	va	GW	pos2=NNP	4	nmod	_	O
+2	@RedHatNews	@redhatnews	GW	_	4	nmod	_	O
+3	https://t.co/GTsV5mI9Yr	#hlink#	ADD	pos2=GW	4	nmod	_	O
+4	https://t.co/CsZkuqo7Le	#hlink#	ADD	_	0	root	_	O
+

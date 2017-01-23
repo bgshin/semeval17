@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det	_	B-ORG
+2	Elephant	elephant	NNP	_	5	nsubj	_	I-ORG
+3	&	&	CC	_	2	cc	_	I-ORG
+4	Fly	fly	NNP	pos2=VB	2	conj	_	L-ORG
+5	is	be	VBZ	_	0	root	_	O
+6	out	out	RB	pos2=RP	5	advmod	_	O
+7	!	!	.	_	5	punct	_	O
+
+1	https://t.co/XUBk76wP2n	#hlink#	ADD	_	0	root	_	O
+2	#nationalfastfoodday	#nationalfastfoodday	-RRB-	pos2=UH	1	punct	_	O
+3	#ad	#ad	UH	pos2=NN	1	discourse	_	O
+

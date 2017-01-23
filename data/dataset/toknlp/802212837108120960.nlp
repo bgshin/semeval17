@@ -1,0 +1,20 @@
+1	@FRANCE24	@france0	NN	pos2=XX	7	dep	_	O
+2	@realDonaldTrump	@realdonaldtrump	XX	pos2=ADD	7	nmod	_	O
+3	@mike_pence	@mike_pence	XX	pos2=NN	7	nmod	_	O
+4	@KellyannePolls	@kellyannepolls	XX	pos2=NNS	7	nmod	_	O
+5	@IngrahamAngle	@ingrahamangle	XX	pos2=VBP	7	nmod	_	O
+6	Honest	honest	JJ	pos2=XX	7	nmod	_	O
+7	overhaul	overhaul	NN	_	13	nsubj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	unfair	unfair	JJ	_	11	nmod	_	O
+10	Prison	prison	NNP	pos2=NN	11	compound	_	B-ORG
+11	System	system	NNP	pos2=NN	8	pobj	_	L-ORG
+12	will	will	MD	_	13	aux	_	O
+13	tilt	tilt	VB	_	0	root	_	O
+14	50	0	CD	_	15	nmod	_	B-PERCENT
+15	%	%	NN	_	16	compound	_	L-PERCENT
+16	voters	voter	NNS	_	13	dobj	_	O
+17	:	:	:	_	13	punct	_	O
+18	think	think	VB	pos2=VBP	13	dep	_	O
+19	!	!	.	_	13	punct	_	O
+

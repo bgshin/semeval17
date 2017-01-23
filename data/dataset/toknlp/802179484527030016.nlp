@@ -1,0 +1,17 @@
+1	Miko	miko	NNP	_	2	compound	_	B-PERSON
+2	Peled	peled	NNP	pos2=NN	12	dep	_	L-PERSON
+3	:	:	:	_	2	punct	_	O
+4	Israel	israel	NNP	_	12	dep	_	U-GPE
+5	and	and	CC	_	4	cc	_	O
+6	Gaza	gaza	NNP	_	4	conj	_	U-GPE
+7	:	:	:	_	12	punct	_	O
+8	Six	#crd#	CD	pos2=NNP	12	nmod	_	O
+9	Decades	decades	NNP	pos2=NNS	11	compound	_	B-EVENT
+10	Oppression	oppression	NNP	pos2=GW	11	compound	_	I-EVENT
+11	Resistance	resistance	NNP	pos2=NN	12	dep	_	I-EVENT
+12	https://t.co/m3HRuHzulS	#hlink#	ADD	_	0	root	_	I-EVENT
+13	#gaza	#gaza	-RRB-	pos2=IN	12	punct	_	L-EVENT
+14	#palestine	#palestine	UH	pos2=PRP	12	discourse	_	O
+15	#israel	#israel	UH	pos2=VB	12	discourse	_	O
+16	#BDS	#bds	NNS	pos2=UH	12	dobj	_	O
+

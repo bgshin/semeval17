@@ -1,0 +1,17 @@
+1	Ep	ep	NN	pos2=VB	5	nsubj	_	O
+2	8	0	CD	_	1	nmod	_	U-CARDINAL
+3	of	of	IN	_	1	prep	_	O
+4	#ThisIsUs	#thisisus	NNS	pos2=NNP	3	pobj	_	U-ORG
+5	got	get	VBD	_	0	root	_	O
+6	me	me	PRP	_	5	dobj	_	O
+7	in	in	IN	_	5	prep	_	O
+8	tears	tear	NNS	_	7	pobj	_	O
+9	:/	:/	NFP	pos2=PRP	5	discourse	_	O
+10	Ca	can	MD	_	12	aux	_	O
+11	n't	not	RB	_	12	neg	_	O
+12	wait	wait	VB	_	5	ccomp	_	O
+13	for	for	IN	_	12	prep	_	O
+14	next	next	JJ	_	15	nmod	_	B-DATE
+15	week	week	NN	_	13	pobj	_	L-DATE
+16	!	!	.	_	5	punct	_	O
+

@@ -1,0 +1,37 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	've	have	VBP	_	3	aux	_	O
+3	been	be	VBN	_	0	root	_	O
+4	fan	fan	NN	pos2=VBN	3	attr	_	O
+5	of	of	IN	_	4	prep	_	O
+6	@EdubHipHop	@edubhiphop	NNP	pos2=NN	5	pobj	_	U-ORG
+7	for	for	IN	_	3	prep	_	O
+8	a	a	DT	_	9	det	_	O
+9	while	while	NN	_	7	pobj	_	O
+10	now	now	RB	_	3	advmod	_	O
+11	but	but	CC	_	3	cc	_	O
+12	I	I	PRP	_	13	nsubj	_	O
+13	'm	be	VBP	_	16	aux	_	O
+14	just	just	RB	_	15	advmod	_	O
+15	now	now	RB	_	16	advmod	_	O
+16	hearing	hear	VBG	_	3	conj	_	O
+17	Robots	robot	NNS	pos2=NNPS	16	dobj	_	O
+18	,	,	,	_	16	punct	_	O
+19	Pop	pop	NNP	pos2=NN	20	compound	_	B-ORG
+20	Songs	songs	NNP	pos2=NNS	16	dobj	_	L-ORG
+21	for	for	IN	_	20	prep	_	O
+22	the	the	DT	_	24	det	_	O
+23	first	#ord#	JJ	_	24	nmod	_	U-ORDINAL
+24	time	time	NN	_	21	pobj	_	O
+25	.	.	.	_	3	punct	_	O
+
+1	WHAT	what	WP	pos2=WDT	2	nsubj	_	O
+2	S	s	VBZ	pos2=NN	0	root	_	O
+3	WRONG	wrong	JJ	pos2=NN	2	acomp	_	O
+4	WITH	with	IN	_	3	prep	_	O
+5	ME	me	PRP	pos2=NNP	4	pobj	_	O
+6	?	?	.	_	2	punct	_	O
+
+1	ITS	its	PRP$	_	3	discourse	_	O
+2	SO	so	RB	_	3	advmod	_	O
+3	GOOD	good	JJ	_	0	root	_	O
+

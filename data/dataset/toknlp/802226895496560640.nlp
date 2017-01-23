@@ -1,0 +1,11 @@
+1	Just	just	RB	_	2	advmod	_	O
+2	passed	pass	VBD	pos2=VBN	0	root	_	O
+3	a	a	DT	_	6	det	_	O
+4	Tesla	tesla	NNP	_	6	compound	_	B-ORG
+5	Model	model	NNP	pos2=NN	6	compound	_	I-ORG
+6	S	s	NNP	pos2=NN	2	dobj	_	L-ORG
+7	in	in	IN	_	6	prep	_	O
+8	Fort	fort	NNP	_	9	compound	_	B-GPE
+9	Wayne	wayne	NNP	_	7	pobj	_	L-GPE
+10	👅😅	👅😅	NNP	pos2=.	2	npadvmod	_	O
+

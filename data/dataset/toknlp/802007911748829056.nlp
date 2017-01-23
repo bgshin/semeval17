@@ -1,0 +1,35 @@
+1	Weird	weird	JJ	pos2=NNP	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	see	see	VB	_	1	advcl	_	O
+4	@penguins	@penguins	NNS	pos2=XX	3	dobj	_	O
+5	Sidney	sidney	NNP	_	6	compound	_	B-PERSON
+6	Crosby	crosby	NNP	_	4	appos	_	L-PERSON
+7	with	with	IN	_	6	prep	_	O
+8	the	the	DT	_	11	det	_	B-WORK_OF_ART
+9	Cy	cy	NNP	_	10	compound	_	I-WORK_OF_ART
+10	Young	young	NNP	pos2=JJ	11	compound	_	L-WORK_OF_ART
+11	bid	bid	NN	pos2=FW	7	pobj	_	O
+12	going	go	VBG	_	11	acl	_	O
+13	this	this	DT	_	14	det	_	B-DATE
+14	year	year	NN	_	12	npadvmod	_	L-DATE
+15	.	.	.	_	1	punct	_	O
+
+1	14	0	CD	pos2=LS	2	nmod	_	U-CARDINAL
+2	goals	goal	NNS	_	5	dep	_	O
+3	only	only	RB	_	4	advmod	_	B-CARDINAL
+4	5	0	CD	_	5	nmod	_	L-CARDINAL
+5	assists	assist	NNS	_	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	Averaging	average	VBG	pos2=DT	2	nmod	_	O
+2	goal	goal	NN	pos2=PDT	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	game	game	NN	_	2	appos	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	Yeah	yeah	UH	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	#Pens	#pens	NNS	pos2=VBZ	2	compound	_	O
+2	#NHL	#nhl	NN	pos2=ADD	0	root	_	O
+

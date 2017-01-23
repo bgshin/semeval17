@@ -1,0 +1,16 @@
+1	Women	woman	NNS	pos2=NNP	3	nsubj	_	O
+2	Are	be	VBP	_	3	aux	_	O
+3	Planning	plan	VBG	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	Strike	strike	VB	_	3	xcomp	_	O
+6	to	to	IN	pos2=TO	7	aux	_	O
+7	Protest	protest	VB	pos2=NNP	5	advcl	_	O
+8	Donald	donald	NNP	_	9	compound	_	B-PERSON
+9	Trump	trump	NNP	_	12	poss	_	I-PERSON
+10	’s	's	POS	_	9	case	_	L-PERSON
+11	Election	election	NNP	pos2=NN	12	compound	_	B-ORG
+12	#TrumpProtest	#trumpprotest	NNP	pos2=ADD	7	dobj	_	L-ORG
+13	#NotMyPresident	#notmypresident	GW	pos2=ADD	15	nmod	_	O
+14	#StillWithHer	#stillwithher	GW	pos2=ADD	15	nmod	_	O
+15	https://t.co/W14I8VvdOC	#hlink#	ADD	pos2=NN	3	dep	_	U-ORG
+

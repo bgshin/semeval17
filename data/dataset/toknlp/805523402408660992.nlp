@@ -1,0 +1,12 @@
+1	Petition	petition	NN	_	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	conduct	conduct	VB	_	1	acl	_	O
+4	animal	animal	NN	_	5	compound	_	O
+5	testing	testing	NN	_	3	dobj	_	O
+6	on	on	IN	_	5	prep	_	O
+7	rapist	rapist	NN	_	6	pobj	_	O
+8	instead	instead	RB	pos2=IN	9	advmod	_	O
+9	of	of	IN	_	5	prep	_	O
+10	innocent	innocent	JJ	_	11	nmod	_	O
+11	animals	animal	NNS	_	9	pobj	_	O
+

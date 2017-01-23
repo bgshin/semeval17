@@ -1,0 +1,26 @@
+1	Words	word	NNS	_	2	nsubj	_	O
+2	have	have	VBP	_	0	root	_	O
+3	no	no	DT	_	4	det	_	O
+4	power	power	NN	_	2	dobj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	impress	impress	VB	_	4	acl	_	O
+7	the	the	DT	_	8	det	_	O
+8	mind	mind	NN	_	6	dobj	_	O
+9	without	without	IN	_	6	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	exquisite	exquisite	JJ	_	12	nmod	_	O
+12	horror	horror	NN	_	9	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	their	their	PRP$	_	15	poss	_	O
+15	reality	reality	NN	_	13	pobj	_	O
+16	.	.	.	_	2	punct	_	O
+
+1	Edgar	edgar	NNP	_	3	compound	_	B-PERSON
+2	Allan	allan	NNP	_	3	compound	_	I-PERSON
+3	Poe	poe	NNP	_	0	root	_	L-PERSON
+4	.	.	.	_	3	punct	_	O
+
+1	#resist	#resist	UH	pos2=GW	3	discourse	_	O
+2	…	…	NFP	pos2=-LRB-	3	punct	_	O
+3	https://t.co/mgH7zgBj3g	#hlink#	ADD	pos2=NN	0	root	_	O
+

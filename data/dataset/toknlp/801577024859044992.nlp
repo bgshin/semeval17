@@ -1,0 +1,21 @@
+1	@benjaminrgrant	@benjaminrgrant	UH	pos2=``	5	discourse	_	O
+2	You	you	PRP	_	5	nsubjpass	_	O
+3	've	have	VBP	_	5	aux	_	O
+4	been	be	VBN	_	5	auxpass	_	O
+5	quoted	quote	VBN	_	0	root	_	O
+6	in	in	IN	_	5	prep	_	O
+7	my	my	PRP$	_	9	poss	_	O
+8	Storify	storify	NNP	_	9	compound	_	U-ORG
+9	story	story	NN	_	6	pobj	_	O
+10	“	"	``	_	13	punct	_	O
+11	The	the	DT	_	13	det	_	B-WORK_OF_ART
+12	Overview	overview	NNP	_	13	compound	_	I-WORK_OF_ART
+13	Effect	effect	NNP	pos2=NN	9	appos	_	I-WORK_OF_ART
+14	and	and	CC	_	13	cc	_	I-WORK_OF_ART
+15	the	the	DT	_	16	det	_	I-WORK_OF_ART
+16	Wonders	wonder	NNPS	pos2=NNS	13	conj	_	I-WORK_OF_ART
+17	of	of	IN	_	16	prep	_	I-WORK_OF_ART
+18	#GoogleEarthVR	#googleearthvr	NNP	pos2=NN	17	pobj	_	I-WORK_OF_ART
+19	”	"	``	pos2=''	20	punct	_	L-WORK_OF_ART
+20	https://t.co/REaKF7L6W0	#hlink#	ADD	_	9	appos	_	O
+

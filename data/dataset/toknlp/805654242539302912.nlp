@@ -1,0 +1,26 @@
+1	"	"	``	_	6	punct	_	O
+2	So	so	RB	_	6	advmod	_	O
+3	what	what	WP	_	6	dobj	_	O
+4	do	do	VBP	_	6	aux	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	want	want	VB	_	0	root	_	O
+7	for	for	IN	_	6	prep	_	O
+8	Christmas	christmas	NNP	_	7	pobj	_	U-DATE
+9	?	?	.	_	6	punct	_	O
+
+1	""	""	``	pos2=SYM	10	punct	_	O
+2	I	I	PRP	_	10	nsubj	_	O
+3	du	du	VBP	_	10	aux	_	O
+4	n	n	RB	pos2=FW	10	advmod	_	O
+5	no	no	UH	pos2=RB	10	discourse	_	O
+6	,	,	,	_	10	punct	_	O
+7	minimum	minimum	JJ	pos2=NN	8	nmod	_	O
+8	wage	wage	NN	_	10	nsubj	_	O
+9	would	would	MD	_	10	aux	_	O
+10	be	be	VB	_	0	root	_	O
+11	nice	nice	JJ	_	10	acomp	_	O
+12	.	.	.	_	10	punct	_	O
+13	"	"	''	_	10	punct	_	O
+
+1	#GermanBoss	#germanboss	ADD	pos2=XX	0	root	_	O
+

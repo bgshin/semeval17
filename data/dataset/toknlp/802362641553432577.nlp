@@ -1,0 +1,33 @@
+1	@dagenmcdowell	@dagenmcdowell	UH	pos2=XX	4	discourse	_	O
+2	ThankU	thanku	NNP	pos2=NN	4	nsubj	_	O
+3	4	0	CD	_	7	nmod	_	U-CARDINAL
+4	speaking	speak	VBG	_	0	root	_	O
+5	up	up	RP	pos2=RB	4	prt	_	O
+6	4	0	CD	_	11	nmod	_	U-CARDINAL
+7	Melania	melania	NNP	pos2=NN	11	poss	_	U-ORG
+8	's	's	POS	pos2=VBZ	7	case	_	O
+9	keeping	keep	VBG	_	4	advcl	_	O
+10	her	her	PRP$	_	11	poss	_	O
+11	son	son	NN	_	9	dobj	_	O
+12	in	in	IN	_	9	prep	_	O
+13	his	his	PRP$	_	14	poss	_	O
+14	school	school	NN	_	12	pobj	_	O
+15	'	'	``	pos2=''	18	punct	_	O
+16	THEY	they	PRP	_	18	nsubj	_	O
+17	'	'	''	pos2=``	18	punct	_	O
+18	4get	0get	VBD	pos2=:	20	vocative	_	O
+19	how	how	WRB	_	20	advmod	_	O
+20	much	much	JJ	_	21	nmod	_	O
+21	Trump	trump	NNP	pos2=NN	0	root	_	U-PERSON
+22	$	$	$	pos2=''	23	nsubj	_	O
+23	went	go	VBD	_	18	pcomp	_	O
+24	into	into	IN	_	23	prep	_	O
+25	campaigning	campaign	VBG	pos2=NN	24	pcomp	_	O
+26	$	$	$	_	27	nmod	_	O
+27	3	0	CD	_	28	nmod	_	U-MONEY
+28	mi	mi	NN	pos2=CD	25	dobj	_	O
+29	?	?	.	_	18	punct	_	O
+
+1	plz	plz	UH	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+

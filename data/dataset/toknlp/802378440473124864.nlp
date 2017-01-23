@@ -1,0 +1,38 @@
+1	"	"	``	pos2=SYM	7	punct	_	O
+2	How	how	WRB	_	3	advmod	_	O
+3	many	many	JJ	_	4	nmod	_	O
+4	deaths	death	NNS	_	7	dobj	_	O
+5	will	will	MD	_	7	aux	_	O
+6	it	it	PRP	_	7	nsubj	_	O
+7	take	take	VB	_	0	root	_	O
+8	'	'	''	pos2=``	7	punct	_	O
+9	till	till	IN	_	11	mark	_	O
+10	he	he	PRP	_	11	nsubj	_	O
+11	knows	know	VBZ	_	7	advcl	_	O
+12	that	that	IN	pos2=DT	17	mark	_	O
+13	too	too	RB	_	14	advmod	_	O
+14	many	many	JJ	_	15	nmod	_	O
+15	people	people	NNS	_	17	nsubj	_	O
+16	have	have	VBP	pos2=VB	17	aux	_	O
+17	died	die	VBN	_	11	ccomp	_	O
+18	?	?	.	_	7	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	answer	answer	NN	_	7	nsubj	_	O
+3	,	,	,	_	2	punct	_	O
+4	my	my	PRP$	_	5	poss	_	O
+5	friend	friend	NN	_	2	appos	_	O
+6	,	,	,	_	7	punct	_	O
+7	is	be	VBZ	_	0	root	_	O
+8	blowin	blowin	NN	pos2=IN	7	attr	_	O
+9	'	'	''	pos2=``	7	punct	_	O
+10	in	in	IN	_	7	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	wind	wind	NN	_	10	pobj	_	O
+13	...	..	.	pos2=,	7	punct	_	O
+14	"	"	''	_	7	punct	_	O
+
+1	-	-	SYM	pos2=:	3	punct	_	O
+2	Bob	bob	NNP	_	3	compound	_	B-PERSON
+3	Dylan	dylan	NNP	_	0	root	_	L-PERSON
+

@@ -1,0 +1,21 @@
+1	If	if	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	are	be	VBP	_	8	advcl	_	O
+4	a	a	DT	_	6	det	_	O
+5	#TWD	#twd	NN	pos2=JJ	6	compound	_	O
+6	fan	fan	NN	_	3	attr	_	O
+7	you	you	PRP	_	8	nsubj	_	O
+8	have	have	VBP	_	0	root	_	O
+9	to	to	TO	_	10	aux	_	O
+10	watch	watch	VB	_	8	xcomp	_	O
+11	these	these	DT	_	12	det	_	O
+12	guys	guy	NNS	_	10	dobj	_	O
+13	!!!	!!	.	_	8	punct	_	O
+
+1	@BEAZTmodeNY	@beaztmodeny	ADD	pos2=XX	6	dep	_	O
+2	#TWDfamily	#twdfamily	RB	pos2=XX	6	nmod	_	O
+3	#podcast	#podcast	UH	pos2=IN	6	nmod	_	O
+4	#TWDFans	#twdfans	GW	pos2=NNS	6	nmod	_	U-NORP
+5	#TheWalkingDead	#thewalkingdead	GW	pos2=ADD	6	nmod	_	O
+6	https://t.co/zfb5HaWDJ6	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,29 @@
+1	Dear	dear	JJ	pos2=SYM	7	vocative	_	O
+2	NO	no	DT	_	3	det	_	O
+3	voters	voter	NNS	_	1	dep	_	O
+4	,	,	,	_	7	punct	_	O
+5	are	be	VBP	_	7	aux	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	celebrating	celebrate	VBG	_	0	root	_	O
+8	your	your	PRP$	_	9	poss	_	O
+9	victory	victory	NN	_	7	dobj	_	O
+10	?	?	.	_	7	punct	_	O
+
+1	So	so	RB	_	2	advmod	_	O
+2	are	be	VBP	_	0	root	_	O
+3	Nigel	nigel	NNP	_	4	compound	_	B-PERSON
+4	Farage	farage	NNP	_	2	nsubj	_	L-PERSON
+5	and	and	CC	_	4	cc	_	O
+6	Marine	marine	NNP	pos2=JJ	8	compound	_	B-ORG
+7	Le	le	NNP	_	8	compound	_	I-ORG
+8	Pen	pen	NNP	_	4	conj	_	L-ORG
+9	.	.	.	_	2	punct	_	O
+
+1	Enjoy	enjoy	VB	_	0	root	_	O
+2	the	the	DT	_	4	det	_	O
+3	lovely	lovely	JJ	_	4	nmod	_	O
+4	company	company	NN	_	1	dobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	#ItalyReferendum	#italyreferendum	UH	pos2=ADD	0	root	_	O
+

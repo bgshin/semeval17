@@ -1,0 +1,19 @@
+1	@JaredWyand	@jaredwyand	ADD	pos2=VB	7	prep	_	O
+2	@DrJillStein	@drjillstein	NN	pos2=ADD	7	punct	_	O
+3	A	a	DT	_	4	det	_	O
+4	recount	recount	NN	_	7	nsubj	_	O
+5	does	do	VBZ	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	check	check	VB	_	12	advcl	_	O
+8	voter	voter	NN	_	9	compound	_	O
+9	registration	registration	NN	_	7	dobj	_	O
+10	,	,	,	_	12	punct	_	O
+11	just	just	RB	_	12	advmod	_	O
+12	recounts	recount	VBZ	pos2=VB	0	root	_	O
+13	anonymous	anonymous	JJ	_	14	nmod	_	O
+14	ballots	ballot	NNS	_	12	dobj	_	O
+15	.	.	.	_	12	punct	_	O
+
+1	Pointless	pointless	JJ	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

@@ -1,0 +1,13 @@
+1	420Magazine	0magazine	NN	_	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	ALS	als	NNP	pos2=NN	4	compound	_	U-ORG
+4	Patient	patient	NN	pos2=NNP	5	nsubj	_	O
+5	Uses	use	VBZ	_	0	root	_	O
+6	Medical	medical	NNP	pos2=JJ	7	compound	_	B-ORG
+7	Marijuana	marijuana	NNP	_	5	dobj	_	L-ORG
+8	,	,	,	_	9	punct	_	O
+9	Outlives	outlive	VBZ	_	0	root	_	O
+10	Anti-Marijuana	anti-marijuana	NNP	pos2=JJ	12	nmod	_	O
+11	Doctors	doctor	NNS	pos2=NNPS	12	dep	_	O
+12	https://t.co/GnEGIVzNlo	#hlink#	ADD	pos2=POS	9	dobj	_	O
+

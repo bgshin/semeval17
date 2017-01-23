@@ -1,0 +1,23 @@
+1	Happy	happy	JJ	pos2=NNP	2	nmod	_	O
+2	Thanksgiving	thanksgiving	NNP	_	0	root	_	U-DATE
+3	from	from	IN	_	2	prep	_	O
+4	Turkey	turkey	NNP	_	3	pobj	_	U-GPE
+5	!	!	.	_	2	punct	_	O
+
+1	(	(	-LRB-	_	16	punct	_	O
+2	oh	oh	UH	_	16	discourse	_	O
+3	,	,	,	_	16	punct	_	O
+4	the	the	DT	_	5	det	_	O
+5	puns	pun	NNS	_	16	dep	_	O
+6	😁	😁	NNP	pos2=WDT	5	appos	_	O
+7	)	)	-RRB-	_	2	punct	_	O
+8	Deciphering	decipher	VBG	_	5	acl	_	O
+9	cryptic	cryptic	JJ	_	11	nmod	_	O
+10	wifi	wifi	NN	_	11	compound	_	O
+11	access	access	NN	_	8	dobj	_	O
+12	at	at	IN	_	11	prep	_	O
+13	@istanbulairportOn	@istanbulairporton	NNP	pos2=ADD	12	pobj	_	U-GPE
+14	to	to	IN	pos2=TO	8	prep	_	O
+15	…	…	NFP	pos2=VB	14	pobj	_	O
+16	https://t.co/Utjf1GVSSp	#hlink#	ADD	pos2=NN	0	root	_	O
+

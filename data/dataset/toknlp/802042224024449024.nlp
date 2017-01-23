@@ -1,0 +1,26 @@
+1	This	this	DT	_	4	det	_	O
+2	David	david	NNP	_	3	compound	_	O
+3	Blaine	blaine	NNP	_	4	compound	_	O
+4	special	special	JJ	pos2=RB	7	nsubj	_	O
+5	on	on	IN	_	4	prep	_	O
+6	Netflix	netflix	NNP	_	5	pobj	_	U-ORG
+7	is	be	VBZ	_	0	root	_	O
+8	wild	wild	JJ	_	7	acomp	_	O
+9	.	.	.	_	7	punct	_	O
+
+1	He	he	PRP	_	5	nsubj	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	straight	straight	RB	_	4	advmod	_	O
+4	up	up	RP	pos2=RB	5	advmod	_	O
+5	owns	own	VBZ	_	0	root	_	O
+6	Macklemore	macklemore	NNP	_	5	dobj	_	O
+7	,	,	,	_	6	punct	_	O
+8	Psy	psy	NNP	_	6	conj	_	U-ORG
+9	,	,	,	_	8	punct	_	O
+10	a	a	DT	_	11	det	_	O
+11	doctor	doctor	NN	_	8	appos	_	O
+12	and	and	CC	_	11	cc	_	O
+13	Jaden	jaden	NNP	_	14	compound	_	B-PERSON
+14	Smith	smith	NNP	_	11	conj	_	L-PERSON
+15	.	.	.	_	5	punct	_	O
+

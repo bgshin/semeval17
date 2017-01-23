@@ -1,0 +1,23 @@
+1	The	the	DT	_	2	det	_	O
+2	swamp	swamp	NN	_	4	nsubjpass	_	O
+3	is	be	VBZ	_	4	auxpass	_	O
+4	bought	buy	VBN	_	0	root	_	O
+5	AND	and	CC	_	4	cc	_	O
+6	paid	pay	VBN	_	4	conj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	-	-	HYPH	pos2=:	7	punct	_	O
+9	Major	major	JJ	pos2=NNP	11	nmod	_	O
+10	#gop	#gop	NN	pos2=JJ	11	compound	_	O
+11	donor	donor	NN	_	7	pobj	_	O
+12	Rebekah	rebekah	NNP	_	13	compound	_	B-PERSON
+13	Mercer	mercer	NNP	_	14	compound	_	L-PERSON
+14	part	part	NN	_	11	appos	_	O
+15	of	of	IN	_	14	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	#TrumpTransitionTeam	#trumptransitionteam	NNP	pos2=NN	15	pobj	_	U-ORG
+18	.	.	.	_	4	punct	_	O
+
+1	#ThisIsNotNormal	#thisisnotnormal	GW	pos2=JJ	3	nmod	_	O
+2	…	…	NFP	pos2=GW	3	punct	_	O
+3	https://t.co/MNoaQwo7SC	#hlink#	ADD	pos2=NN	0	root	_	O
+

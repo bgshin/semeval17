@@ -1,0 +1,12 @@
+1	ICYMI	icymi	NN	pos2=NNP	0	root	_	O
+2	...	..	.	pos2=,	1	punct	_	O
+
+1	#Microsoft	#microsoft	NNP	pos2=WP	2	nsubj	_	U-ORG
+2	joins	join	VBZ	pos2=NNS	0	root	_	O
+3	#LinuxFoundation	#linuxfoundation	ADD	pos2=GW	2	dobj	_	B-ORG
+4	https://t.co/EypdhPQRzPvia	#hlink#	ADD	_	2	dobj	_	I-ORG
+5	@TechCrunch	@techcrunch	ADD	pos2=-RRB-	2	dobj	_	I-ORG
+6	#Linux	#linux	NFP	pos2=GW	2	discourse	_	L-ORG
+7	#MSDynComm	#msdyncomm	ADD	pos2=GW	8	punct	_	O
+8	https://t.co/tHr4zFrWqi	#hlink#	ADD	_	2	dobj	_	U-ORG
+

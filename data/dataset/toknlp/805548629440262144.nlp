@@ -1,0 +1,17 @@
+1	For	for	IN	_	0	root	_	O
+2	or	or	CC	_	1	cc	_	O
+3	against	against	IN	_	1	conj	_	O
+4	animal	animal	NN	_	5	compound	_	O
+5	testing	testing	NN	_	3	pobj	_	O
+6	?	?	.	_	1	punct	_	O
+
+1	(	(	-LRB-	_	2	punct	_	O
+2	Quote	quote	VB	pos2=NN	0	root	_	O
+3	with	with	IN	_	2	prep	_	O
+4	reasons	reason	NNS	_	3	pobj	_	O
+5	if	if	IN	_	7	mark	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	want	want	VBP	_	2	advcl	_	O
+8	to	to	TO	_	7	xcomp	_	O
+9	)	)	-RRB-	_	2	punct	_	O
+

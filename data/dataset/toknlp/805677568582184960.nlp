@@ -1,0 +1,15 @@
+1	Hon'ble	hon'ble	JJ	pos2=NNP	5	nmod	_	O
+2	Ali	ali	NNP	_	5	compound	_	B-PERSON
+3	Muhammad	muhammad	NNP	_	5	compound	_	I-PERSON
+4	Khan	khan	NNP	_	5	compound	_	L-PERSON
+5	#Attendance	#attendance	NNP	pos2=POS	14	dep	_	O
+6	during	during	IN	_	5	prep	_	O
+7	#	#	NN	pos2=$	8	compound	_	O
+8	37thSession	0thsession	NN	pos2=NNP	6	pobj	_	U-MONEY
+9	of	of	IN	_	8	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	#NationalAssemblyMore	#nationalassemblymore	NNP	pos2=NN	12	compound	_	U-ORG
+12	details	detail	NNS	_	9	pobj	_	O
+13	…	…	NFP	pos2=:	14	punct	_	O
+14	https://t.co/PlJ45sSj43	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,20 @@
+1	@bakedalaska	@bakedalaska	UH	pos2=``	5	discourse	_	O
+2	We	we	PRP	_	5	nsubj	_	O
+3	should	should	MD	_	5	aux	_	O
+4	be	be	VB	_	5	aux	_	O
+5	pushing	push	VBG	_	0	root	_	O
+6	back	back	RB	pos2=RP	5	advmod	_	O
+7	against	against	IN	_	5	prep	_	O
+8	Libs	libs	NNP	pos2=NNPS	7	pobj	_	U-ORG
+9	and	and	CC	_	8	cc	_	O
+10	Soros	soros	NNP	_	8	conj	_	U-PERSON
+11	via	via	IN	pos2=TO	5	prep	_	O
+12	protest	protest	NN	_	11	pobj	_	O
+13	instead	instead	RB	_	14	advmod	_	O
+14	of	of	IN	_	12	prep	_	O
+15	creating	create	VBG	_	14	pcomp	_	O
+16	"	"	``	_	18	punct	_	O
+17	Trump	trump	NNP	_	18	compound	_	B-EVENT
+18	Cups	cup	NNPS	pos2=NNP	15	dobj	_	I-EVENT
+19	"	"	''	_	18	punct	_	L-EVENT
+

@@ -1,0 +1,10 @@
+1	ben	ben	NN	pos2=NNP	2	compound	_	O
+2	carson	carson	NNP	pos2=NN	3	nsubj	_	U-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	so	so	RB	_	5	advmod	_	O
+5	wild	wild	JJ	_	3	acomp	_	O
+6	i	I	PRP	_	9	nsubj	_	O
+7	ca	can	MD	_	9	aux	_	O
+8	n't	not	RB	_	9	neg	_	O
+9	https://t.co/pR1Z0rCt51	#hlink#	ADD	_	5	ccomp	_	O
+

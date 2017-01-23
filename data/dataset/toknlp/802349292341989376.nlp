@@ -1,0 +1,16 @@
+1	Street	street	NNP	pos2=NN	2	compound	_	O
+2	Level	level	NNP	pos2=NN	15	dep	_	O
+3	Nordstrom	nordstrom	NNP	_	15	dep	_	O
+4	Burnt	burnt	NNP	pos2=VBD	15	dep	_	O
+5	Orange	orange	NNP	_	6	compound	_	O
+6	Leather	leather	NNP	pos2=NN	9	npadvmod	_	O
+7	/	/	SYM	pos2=,	9	punct	_	O
+8	Gold	gold	NNP	pos2=NN	9	compound	_	B-WORK_OF_ART
+9	Studded	studded	NNP	pos2=VBN	12	nmod	_	I-WORK_OF_ART
+10	Crossbody	crossbody	NN	pos2=NNP	12	compound	_	I-WORK_OF_ART
+11	Clutch	clutch	NNP	pos2=NN	12	compound	_	I-WORK_OF_ART
+12	Bag	bag	NN	pos2=NNP	15	dep	_	L-WORK_OF_ART
+13	|	|	,	pos2=SYM	15	punct	_	O
+14	eBay	ebay	NNP	pos2=NFP	15	nmod	_	U-ORG
+15	https://t.co/M5soiWGgyP	#hlink#	ADD	_	0	root	_	O
+

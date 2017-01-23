@@ -1,0 +1,24 @@
+1	bot	bot	NN	_	0	root	_	O
+2	that	that	WDT	pos2=DT	3	nsubj	_	O
+3	blocks	block	VBZ	pos2=NNS	1	relcl	_	O
+4	absolutely	absolutely	RB	_	5	advmod	_	O
+5	everyone	everyone	NN	_	3	dobj	_	O
+6	on	on	IN	_	5	prep	_	O
+7	Twitter	twitter	NNP	_	6	pobj	_	U-ORG
+8	.	.	.	_	1	punct	_	O
+
+1	by	by	IN	_	0	root	_	O
+2	training	training	NN	pos2=VBG	1	pobj	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	grandpa	grandpa	NN	_	0	root	_	O
+2	by	by	IN	_	1	prep	_	O
+3	inclination	inclination	NN	_	2	pobj	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	like	like	VBP	pos2=IN	0	root	_	O
+3	giant	giant	JJ	pos2=NN	4	nmod	_	O
+4	robots	robot	NNS	_	2	dobj	_	O
+5	.	.	.	_	2	punct	_	O
+

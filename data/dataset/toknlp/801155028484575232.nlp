@@ -1,0 +1,26 @@
+1	So	so	RB	_	3	advmod	_	O
+2	that	that	DT	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	Obama	obama	NNP	_	5	compound	_	B-PERSON
+5	Care	care	NNP	pos2=NN	3	attr	_	L-PERSON
+6	,	,	,	_	5	punct	_	O
+7	prosecuting	prosecute	VBG	_	8	compound	_	O
+8	Clinton	clinton	NNP	_	5	conj	_	U-PERSON
+9	&	&	CC	_	8	cc	_	O
+10	the	the	DT	_	13	det	_	O
+11	Mexican	mexican	JJ	pos2=NNP	13	nmod	_	U-NORP
+12	border	border	NN	_	13	compound	_	O
+13	wall	wall	NN	_	8	conj	_	O
+14	that	that	WDT	pos2=IN	19	pobj	_	O
+15	he	he	PRP	_	18	nsubjpass	_	O
+16	's	's	VBZ	_	18	auxpass	_	O
+17	now	now	RB	_	18	advmod	_	O
+18	reneged	renege	VBN	_	3	ccomp	_	O
+19	on	on	IN	pos2=RB	18	prep	_	O
+20	?!	?!	.	_	3	punct	_	O
+
+1	#lies	#lies	UH	pos2=NNS	4	discourse	_	O
+2	#establishment	#establishment	UH	pos2=GW	4	discourse	_	O
+3	…	…	NFP	pos2=-LRB-	4	punct	_	O
+4	https://t.co/Z8mdtMUvJf	#hlink#	ADD	_	0	root	_	O
+

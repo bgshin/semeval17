@@ -1,0 +1,16 @@
+1	Universal	universal	JJ	pos2=NNP	2	nmod	_	O
+2	car	car	NN	_	5	nmod	_	O
+3	mobile	mobile	JJ	pos2=NN	5	nmod	_	O
+4	phone	phone	NN	_	5	compound	_	O
+5	holder	holder	NN	_	6	nsubj	_	O
+6	stand	stand	VB	pos2=VBP	0	root	_	O
+7	windshield	windshield	NN	_	9	compound	_	O
+8	mount	mount	NN	pos2=JJ	9	compound	_	O
+9	holder	holder	NN	_	6	dobj	_	O
+10	for	for	IN	_	9	prep	_	O
+11	xiaomi	xiaomi	NN	pos2=NNS	12	compound	_	O
+12	note	note	NN	pos2=VBP	15	dep	_	O
+13	iphone	iphone	NN	pos2=GW	14	compound	_	O
+14	4s	0s	NNS	pos2=CD	15	dep	_	O
+15	https://t.co/OvfMkk7Qd0	#hlink#	ADD	_	10	pobj	_	O
+

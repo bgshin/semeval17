@@ -1,0 +1,19 @@
+1	@TomiLahren	@tomilahren	NNS	pos2=VB	0	root	_	O
+2	so	so	RB	_	0	root	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	the	the	DT	_	3	det	_	O
+2	only	only	JJ	_	3	nmod	_	O
+3	way	way	NN	_	8	nsubj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	utilize	utilize	VB	_	3	relcl	_	O
+6	fossil	fossil	NN	pos2=JJ	7	compound	_	O
+7	fuels	fuel	NNS	_	5	dobj	_	O
+8	is	be	VBZ	_	0	root	_	O
+9	to	to	TO	pos2=IN	10	aux	_	O
+10	poison	poison	VB	_	8	xcomp	_	O
+11	people	people	NNS	_	13	poss	_	O
+12	's	's	POS	_	11	case	_	O
+13	water	water	NN	_	10	dobj	_	O
+14	https://t.co/e1VEBnX1kM	#hlink#	ADD	pos2=NN	13	appos	_	O
+

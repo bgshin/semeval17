@@ -1,0 +1,19 @@
+1	#DumpTrump	#dumptrump	NN	pos2=ADD	6	nsubjpass	_	O
+2	#WillMissObama	#willmissobama	ADD	pos2=NN	3	det	_	U-NORP
+3	#ThankYouObama	#thankyouobama	NN	pos2=NNP	6	nsubjpass	_	O
+4	gets	get	VBZ	pos2=NNS	6	auxpass	_	O
+5	'	'	``	pos2=''	6	punct	_	O
+6	choked	choke	VBN	pos2=VBD	0	root	_	O
+7	up	up	RP	_	6	prt	_	O
+8	'	'	''	pos2=POS	6	punct	_	O
+9	presenting	present	VBG	_	6	advcl	_	O
+10	Ellen	ellen	NNP	_	11	compound	_	B-PERSON
+11	DeGeneres	degeneres	NNP	_	9	dobj	_	L-PERSON
+12	with	with	IN	_	9	prep	_	O
+13	Medal	medal	NNP	_	12	pobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	Freedom	freedom	NNP	pos2=NN	17	compound	_	O
+16	–	-	HYPH	pos2=,	17	punct	_	O
+17	video	video	NN	pos2=GW	14	pobj	_	O
+18	https://t.co/9vSofzJPmz	#hlink#	ADD	pos2=NN	6	dep	_	O
+

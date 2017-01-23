@@ -1,0 +1,19 @@
+1	Everyone	everyone	NN	_	2	nsubj	_	O
+2	start	start	VB	pos2=VBP	0	root	_	O
+3	tweeting	tweet	VBG	_	2	xcomp	_	O
+4	a	a	DT	_	5	det	_	O
+5	picture	picture	NN	_	3	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	tRump	trump	NN	pos2=NNP	6	pobj	_	O
+8	to	to	IN	_	3	prep	_	O
+9	him	him	PRP	_	8	pobj	_	O
+10	and	and	CC	_	2	cc	_	O
+11	retweet	retweet	VB	pos2=VBD	2	conj	_	O
+12	all	all	DT	_	11	dobj	_	O
+13	that	that	WDT	_	15	dobj	_	O
+14	you	you	PRP	_	15	nsubj	_	O
+15	see	see	VBP	_	12	relcl	_	O
+16	#notmypresident	#notmypresident	UH	pos2=PRP	11	discourse	_	O
+17	#StillWithHer	#stillwithher	ADD	pos2=GW	11	dobj	_	O
+18	#nevertrump	#nevertrump	UH	pos2=NN	11	discourse	_	O
+

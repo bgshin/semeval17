@@ -1,0 +1,25 @@
+1	You	you	PRP	_	2	nmod	_	O
+2	idiots	idiot	NNS	_	4	nsubj	_	O
+3	would	would	MD	_	4	aux	_	O
+4	make	make	VB	_	0	root	_	O
+5	Kim	kim	NNP	_	8	compound	_	B-PERSON
+6	Jong	jong	NNP	_	8	compound	_	I-PERSON
+7	-	-	HYPH	_	8	punct	_	I-PERSON
+8	un	un	NNP	pos2=NN	9	nsubj	_	L-PERSON
+9	jealous	jealous	JJ	_	4	ccomp	_	O
+10	with	with	IN	_	9	prep	_	O
+11	your	your	PRP$	_	12	poss	_	O
+12	delusions	delusion	NNS	_	10	pobj	_	O
+13	.	.	.	_	4	punct	_	O
+
+1	Also	also	RB	_	5	advmod	_	O
+2	Harrison	harrison	NNP	_	3	compound	_	B-PERSON
+3	Ford	ford	NNP	_	5	nsubj	_	L-PERSON
+4	never	never	RB	_	5	neg	_	O
+5	endorsed	endorse	VBD	_	0	root	_	O
+6	that	that	IN	pos2=DT	10	mark	_	O
+7	orange	orange	JJ	pos2=NN	8	nmod	_	O
+8	dipshi	dipshi	NN	pos2=GW	10	dep	_	O
+9	…	…	NFP	pos2=-LRB-	10	punct	_	O
+10	https://t.co/4SDJoAgLi7	#hlink#	ADD	_	5	dobj	_	O
+

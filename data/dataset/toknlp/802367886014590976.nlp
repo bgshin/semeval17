@@ -1,0 +1,18 @@
+1	Medicare	medicare	NNP	pos2=NN	3	compound	_	O
+2	Quality	quality	NNP	pos2=NN	3	compound	_	O
+3	Data	data	NNP	pos2=NNPS	17	dep	_	O
+4	And	and	CC	pos2=NNP	3	cc	_	O
+5	Reporting	report	VBG	pos2=NNP	0	root	_	O
+6	Analyst	analyst	NN	pos2=NNP	7	compound	_	O
+7	Jobs	job	NNS	pos2=NNPS	5	dobj	_	O
+8	in	in	IN	_	5	prep	_	O
+9	Fort	fort	NNP	_	10	compound	_	B-GPE
+10	Lauderdale	lauderdale	NNP	_	8	pobj	_	L-GPE
+11	,	,	,	_	10	punct	_	O
+12	FL	fl	NNP	_	17	dep	_	B-ORG
+13	#FortLauderdale	#fortlauderdale	NNP	pos2=XX	17	dep	_	I-ORG
+14	#FL	#fl	NNP	pos2=GW	17	nmod	_	L-ORG
+15	#jobs	#jobs	GW	pos2=UH	17	nmod	_	O
+16	#jobsearch	#jobsearch	GW	pos2=-LRB-	17	nmod	_	O
+17	https://t.co/gGChVzQB8H	#hlink#	ADD	pos2=NN	0	root	_	O
+

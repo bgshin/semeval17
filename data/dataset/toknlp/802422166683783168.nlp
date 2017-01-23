@@ -1,0 +1,21 @@
+1	As	as	IN	_	3	mark	_	O
+2	Venezuela	venezuela	NNP	_	3	nsubj	_	U-GPE
+3	sinks	sink	VBZ	_	11	advcl	_	O
+4	deeper	deep	JJR	pos2=RB	3	advmod	_	O
+5	into	into	IN	_	3	prep	_	O
+6	political	political	JJ	_	7	nmod	_	O
+7	crisis	crisis	NN	_	5	pobj	_	O
+8	,	,	,	_	11	punct	_	O
+9	its	its	PRP$	_	10	poss	_	O
+10	economy	economy	NN	_	11	nsubj	_	O
+11	is	be	VBZ	_	0	root	_	O
+12	close	close	JJ	_	11	acomp	_	O
+13	to	to	TO	pos2=IN	14	aux	_	O
+14	collapse	collapse	VB	pos2=NN	12	xcomp	_	O
+15	.	.	.	_	11	punct	_	O
+
+1	With	with	IN	_	3	cc	_	O
+2	https://t.co/cL3sFkyQC6	#hlink#	ADD	pos2=NN	1	pobj	_	O
+3	#Business	#business	-RRB-	pos2=IN	0	root	_	O
+4	#SAbiz	#sabiz	ADD	pos2=NN	1	pobj	_	O
+

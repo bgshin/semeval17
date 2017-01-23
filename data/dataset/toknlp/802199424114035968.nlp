@@ -1,0 +1,17 @@
+1	You	you	PRP	_	5	nsubj	_	O
+2	can	can	MD	_	5	aux	_	O
+3	now	now	RB	_	5	advmod	_	O
+4	virtually	virtually	RB	_	5	advmod	_	O
+5	travel	travel	VB	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	planet	planet	NN	_	5	dobj	_	O
+8	as	as	IN	_	11	mark	_	O
+9	#Google	#google	NNP	_	10	compound	_	O
+10	Earth	earth	NNP	_	11	nsubj	_	U-LOC
+11	is	be	VBZ	_	5	advcl	_	O
+12	available	available	JJ	_	11	acomp	_	O
+13	in	in	IN	_	11	prep	_	O
+14	VR.	vr.	NNP	pos2=GW	13	pobj	_	O
+15	https://t.co/xaHpNWSpiW	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/YdCkyWH5Rc	#hlink#	ADD	_	14	appos	_	U-ORG
+

@@ -1,0 +1,20 @@
+1	@CNNPolitics	@cnnpolitics	NNS	pos2=ADD	9	vocative	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	cut	cut	VBP	pos2=VBD	1	relcl	_	O
+4	social	social	JJ	_	5	nmod	_	O
+5	security	security	NN	pos2=NNP	3	dobj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	Medicaid	medicaid	NNP	_	5	conj	_	U-ORG
+8	you	you	PRP	_	9	nsubj	_	O
+9	ruin	ruin	VBP	_	0	root	_	O
+10	retirement	retirement	NN	_	9	dobj	_	O
+11	in	in	IN	_	9	prep	_	O
+12	U.S.forceing	#hlink#	ADD	pos2=JJ	13	nmod	_	O
+13	retirees	retiree	NNS	_	11	pobj	_	O
+14	and	and	CC	_	13	cc	_	O
+15	disabled	disabled	JJ	pos2=VBN	13	conj	_	O
+16	into	into	IN	_	15	prep	_	O
+17	missions	mission	NNS	_	16	pobj	_	O
+18	zero	#crd#	CD	pos2=VBP	19	nmod	_	B-PERSON
+19	savingsNADA	savingsnada	NNP	pos2=NNS	9	npadvmod	_	L-PERSON
+

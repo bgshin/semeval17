@@ -1,0 +1,23 @@
+1	A	a	DT	_	2	det	_	O
+2	woman	woman	NN	_	7	nsubj	_	O
+3	who	who	WP	_	4	nsubj	_	O
+4	praises	praise	VBZ	_	2	relcl	_	O
+5	Fidel	fidel	NNP	_	6	compound	_	B-PERSON
+6	Castro	castro	NNP	_	7	nsubj	_	L-PERSON
+7	has	have	VBZ	_	0	root	_	O
+8	absolutely	absolutely	RB	_	10	advmod	_	O
+9	no	no	DT	_	10	det	_	O
+10	ground	ground	NN	_	7	dobj	_	O
+11	to	to	TO	_	12	aux	_	O
+12	speak	speak	VB	_	10	relcl	_	O
+13	on	on	IN	_	12	prep	_	O
+14	human	human	JJ	_	15	nmod	_	O
+15	rights	right	NNS	_	16	compound	_	O
+16	violations	violation	NNS	_	13	pobj	_	O
+17	.	.	.	_	7	punct	_	O
+
+1	Period	period	NN	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	https://t.co/SuGAgiapCy	#hlink#	ADD	_	0	root	_	U-ORG
+

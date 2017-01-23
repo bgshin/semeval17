@@ -1,0 +1,15 @@
+1	#TrumpTransitionTeam	#trumptransitionteam	NN	pos2=NNS	3	dep	_	O
+2	:	:	:	_	3	punct	_	O
+3	#Lobbyists	#lobbyists	VBZ	pos2=NNS	0	root	_	O
+4	All	all	DT	pos2=NNP	5	advmod	_	O
+5	Purged	purge	VBN	pos2=NNP	8	advcl	_	O
+6	,	,	,	_	8	punct	_	O
+7	#JeffSessions	#jeffsessions	NNS	pos2=NNP	8	nsubj	_	O
+8	Promoted	promote	VBN	pos2=VBD	14	dep	_	O
+9	#DrainTheSwamp	#draintheswamp	RP	pos2=XX	8	prt	_	O
+10	#MAGA	#maga	NN	pos2=$	8	dobj	_	O
+11	#Trump	#trump	NNP	pos2=IN	14	nmod	_	U-ORG
+12	#TrumpFTW	#trumpftw	GW	pos2=XX	14	nmod	_	O
+13	#WIN	#win	GW	pos2=ADD	14	nmod	_	O
+14	NINGhttps://t.co/55nYcQxZFN	#hlink#	ADD	pos2=NN	3	dobj	_	O
+

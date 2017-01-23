@@ -1,0 +1,18 @@
+1	America	america	NNP	pos2=UH	2	nsubj	_	U-GPE
+2	get	get	VB	pos2=VBP	0	root	_	O
+3	ready	ready	JJ	_	2	acomp	_	O
+4	....	..	.	pos2=,	2	punct	_	O
+
+1	unfiltered	unfiltered	JJ	pos2=NN	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	6	det	_	O
+4	new	new	JJ	_	6	nmod	_	O
+5	gold	gold	NN	pos2=JJ	6	compound	_	O
+6	standard	standard	NN	pos2=JJ	2	attr	_	O
+7	in	in	IN	_	6	prep	_	O
+8	talk	talk	NN	_	7	pobj	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	#thepew	#thepew	UH	pos2=-LRB-	2	discourse	_	O
+2	https://t.co/pgy3vmoI3Y	#hlink#	ADD	pos2=NN	0	root	_	O
+

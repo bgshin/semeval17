@@ -1,0 +1,24 @@
+1	We	we	PRP	_	3	nsubj	_	O
+2	are	be	VBP	_	3	aux	_	O
+3	looking	look	VBG	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	our	our	PRP$	_	7	poss	_	O
+6	first	#ord#	JJ	_	7	nmod	_	U-ORDINAL
+7	employee	employee	NN	_	4	pobj	_	O
+8	at	at	IN	_	7	prep	_	O
+9	@OfferMoments£100k	@offermoments0k	NN	pos2=NNS	8	pobj	_	O
+10	per	per	IN	_	7	prep	_	O
+11	yearTesla	yeartesla	NNP	pos2=NN	23	dep	_	O
+12	Model	model	NN	pos2=NNP	13	compound	_	O
+13	S	s	NN	pos2=NNP	23	dep	_	O
+14	/	/	HYPH	pos2=SYM	13	punct	_	O
+15	X	x	IN	pos2=NN	13	prep	_	O
+16	@	@	SYM	pos2=HYPH	18	punct	_	O
+17	6	0	CD	_	18	nmod	_	B-QUANTITY
+18	m	m	NN	pos2=CD	15	prep	_	L-QUANTITY
+19	Home	home	NN	pos2=NNP	13	advmod	_	O
+20	or	or	CC	_	19	cc	_	O
+21	office	office	NN	_	19	conj	_	O
+22	b	b	GW	pos2=NN	23	nmod	_	O
+23	asedhttps://t.co/H0PnJ6U7a5	#hlink#	ADD	pos2=NN	3	dep	_	O
+

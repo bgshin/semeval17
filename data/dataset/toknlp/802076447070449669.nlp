@@ -1,0 +1,26 @@
+1	@ChristopherJM	@christopherjm	NNP	pos2=NNS	4	nsubj	_	U-ORG
+2	Never	never	RB	_	4	neg	_	O
+3	will	will	MD	_	4	aux	_	O
+4	let	let	VB	_	0	root	_	O
+5	-	-	:	pos2=HYPH	4	punct	_	O
+6	via	via	IN	_	4	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	reluctance	reluctance	NN	_	9	compound	_	O
+9	influx	influx	NN	_	6	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	robbed	rob	VBN	_	8	acl	_	O
+12	by	by	IN	_	11	agent	_	O
+13	Poroshenko	poroshenko	NNP	_	14	compound	_	O
+14	Ukrainian	ukrainian	NNP	pos2=JJ	12	pobj	_	U-NORP
+15	,	,	,	_	14	punct	_	O
+16	where	where	WRB	_	20	advmod	_	O
+17	millions	#crd#	NNS	_	20	nsubj	_	U-CARDINAL
+18	of	of	IN	_	17	prep	_	O
+19	families	family	NNS	_	18	pobj	_	O
+20	live	live	VBP	_	14	relcl	_	O
+21	on	on	IN	_	20	prep	_	O
+22	$	$	$	_	23	nmod	_	O
+23	40	0	CD	_	21	pobj	_	U-MONEY
+24	a	a	DT	_	25	det	_	O
+25	month	month	NN	_	23	npadvmod	_	O
+

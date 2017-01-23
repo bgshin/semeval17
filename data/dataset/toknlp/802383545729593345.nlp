@@ -1,0 +1,25 @@
+1	Really	really	RB	_	2	advmod	_	O
+2	worth	worth	JJ	pos2=PDT	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	read	read	NN	_	2	npadvmod	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	Lib	lib	NNP	_	3	compound	_	O
+3	Dems	dems	NNPS	pos2=NNP	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	on	on	IN	_	4	prep	_	O
+6	a	a	DT	_	9	det	_	O
+7	steady	steady	JJ	_	9	nmod	_	O
+8	comeback	comeback	NN	_	9	compound	_	O
+9	trail	trail	NN	_	5	pobj	_	O
+10	and	and	CC	_	4	cc	_	O
+11	Tim	tim	NNP	_	13	nsubj	_	U-PERSON
+12	is	be	VBZ	_	13	aux	_	O
+13	doing	do	VBG	_	4	conj	_	O
+14	us	us	PRP	_	13	dobj	_	O
+15	proud	proud	JJ	pos2=RB	13	advmod	_	O
+16	.	.	.	_	13	punct	_	O
+
+1	https://t.co/KMs4ZVaBdA	#hlink#	ADD	_	0	root	_	U-ORG
+

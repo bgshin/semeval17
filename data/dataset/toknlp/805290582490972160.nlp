@@ -1,0 +1,10 @@
+1	See	see	VB	pos2=UH	0	root	_	O
+2	@theashleygraham	@theashleygraham	PRP	pos2=NN	6	poss	_	O
+3	's	's	POS	_	2	case	_	O
+4	sexiest	sexy	JJS	pos2=JJ	6	nmod	_	O
+5	fashion	fashion	NN	_	6	compound	_	O
+6	looks	look	NNS	pos2=VBZ	1	dobj	_	O
+7	:	:	:	_	1	punct	_	O
+8	https://t.co/MT5QypGNG9	#hlink#	ADD	pos2=NN	9	nmod	_	O
+9	https://t.co/QGV72zF2oA	#hlink#	ADD	_	1	dep	_	U-ORG
+

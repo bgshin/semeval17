@@ -1,0 +1,16 @@
+1	@SwiftOnSecurity	@swiftonsecurity	NNP	pos2=NN	4	vocative	_	U-LOC
+2	You	you	PRP	_	4	nsubj	_	O
+3	can	can	MD	_	4	aux	_	O
+4	go	go	VB	_	0	root	_	O
+5	home	home	RB	_	4	advmod	_	O
+6	now	now	RB	_	4	advmod	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	Nothing	nothing	NN	_	0	root	_	O
+2	left	left	JJ	pos2=VBN	1	nmod	_	O
+3	to	to	IN	pos2=TO	2	prep	_	O
+4	tweet	tweet	NN	pos2=VB	3	pobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	https://t.co/3iO5EyINgq	#hlink#	ADD	_	0	root	_	U-ORG
+

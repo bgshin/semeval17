@@ -1,0 +1,13 @@
+1	OPINION	opinion	NN	_	8	dep	_	O
+2	:	:	:	_	8	punct	_	O
+3	The	the	DT	_	7	det	_	O
+4	Anti	anti	NNP	pos2=AFX	6	compound	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	#Trump	#trump	NNP	pos2=XX	7	compound	_	O
+7	#Riots	#riots	NNS	pos2=NNPS	8	nsubj	_	O
+8	Are	be	VBP	_	0	root	_	O
+9	a	a	DT	_	10	det	_	O
+10	#SmokeScreen	#smokescreen	NN	pos2=NNS	8	attr	_	O
+11	:	:	:	_	8	punct	_	O
+12	https://t.co/Fxxhkonj8N	#hlink#	ADD	_	8	dep	_	O
+

@@ -1,0 +1,17 @@
+1	More	more	JJR	_	3	qmod	_	B-CARDINAL
+2	than	than	IN	_	3	qmod	_	I-CARDINAL
+3	700	0	CD	_	5	nmod	_	L-CARDINAL
+4	UK	uk	NNP	pos2=NN	5	compound	_	U-GPE
+5	artists	artist	NNS	_	6	nsubj	_	O
+6	pledge	pledge	VBP	pos2=NN	0	root	_	O
+7	to	to	TO	pos2=IN	8	aux	_	O
+8	boycott	boycott	VB	_	6	xcomp	_	O
+9	Israel	israel	NNP	_	8	dobj	_	U-GPE
+10	https://t.co/EvvqrXlKfA	#hlink#	ADD	pos2=NNP	8	dobj	_	O
+11	via	via	IN	_	8	prep	_	O
+12	@intifada	@intifada	NNP	pos2=XX	11	pobj	_	O
+13	#gaza	#gaza	UH	pos2=XX	8	discourse	_	O
+14	#palestine	#palestine	UH	pos2=PRP	8	discourse	_	O
+15	#israel	#israel	UH	pos2=MD	8	discourse	_	O
+16	#BDS	#bds	NNS	pos2=UH	8	dobj	_	O
+

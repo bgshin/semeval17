@@ -1,0 +1,14 @@
+1	Note	note	NN	pos2=VB	9	dep	_	O
+2	5	0	CD	_	9	nmod	_	U-CARDINAL
+3	ve	ve	NN	pos2=CD	9	dep	_	O
+4	Galaxy	galaxy	NNP	pos2=NN	9	nmod	_	B-ORG
+5	Tab	tab	NNP	pos2=NN	9	nmod	_	I-ORG
+6	S2	s0	NNP	pos2=NN	7	compound	_	I-ORG
+7	Android	android	NNP	_	9	nmod	_	L-ORG
+8	7.0	0	CD	_	9	nmod	_	U-CARDINAL
+9	Alacak	alacak	NNP	_	0	root	_	U-ORG
+10	!	!	.	_	9	punct	_	O
+
+1	-	-	SYM	pos2=NFP	2	punct	_	O
+2	https://t.co/c8ELIWFEYr	#hlink#	ADD	pos2=NN	0	root	_	O
+

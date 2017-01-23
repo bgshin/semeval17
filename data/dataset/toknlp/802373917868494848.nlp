@@ -1,0 +1,12 @@
+1	Steve	steve	NNP	_	2	compound	_	B-PERSON
+2	Bannon	bannon	NNP	_	4	nsubj	_	L-PERSON
+3	Should	should	MD	_	4	aux	_	O
+4	Stay	stay	VB	_	0	root	_	O
+5	out	out	IN	_	4	prep	_	O
+6	of	of	IN	_	5	prep	_	O
+7	White	white	NNP	_	8	compound	_	B-ORG
+8	House	house	NNP	_	6	pobj	_	L-ORG
+9	:	:	:	_	4	punct	_	O
+10	Attorneys	attorney	NNS	pos2=NNP	11	nmod	_	O
+11	https://t.co/esdGx2L24S	#hlink#	ADD	pos2=NN	4	dep	_	O
+

@@ -1,0 +1,9 @@
+1	Alsace	alsace	NNP	_	2	compound	_	B-GPE
+2	Township	township	NNP	pos2=NN	3	compound	_	L-GPE
+3	planners	planner	NNS	_	4	nsubj	_	O
+4	add	add	VBP	pos2=VB	0	root	_	O
+5	medical	medical	JJ	_	6	nmod	_	O
+6	marijuana	marijuana	NN	_	7	compound	_	O
+7	rules	rule	NNS	_	4	dobj	_	O
+8	https://t.co/Wa8N15PO5z	#hlink#	ADD	pos2=VBP	3	appos	_	O
+

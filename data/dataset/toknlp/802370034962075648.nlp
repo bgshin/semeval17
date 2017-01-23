@@ -1,0 +1,26 @@
+1	Brave	brave	JJ	pos2=NNP	2	nmod	_	O
+2	@fashionista	@fashionista	NN	pos2=PRP	6	nsubj	_	O
+3	wo	wo	MD	_	6	aux	_	O
+4	n't	not	RB	_	6	neg	_	O
+5	be	be	VB	_	6	aux	_	O
+6	covering	cover	VBG	_	0	root	_	O
+7	Melania	melania	NNP	_	6	dobj	_	U-PERSON
+8	as	as	RB	pos2=IN	9	advmod	_	O
+9	much	much	RB	pos2=JJ	6	advmod	_	O
+10	:	:	:	_	6	punct	_	O
+11	"	"	``	_	6	punct	_	O
+12	We	we	PRP	_	13	nsubj	_	O
+13	plan	plan	VBP	_	6	dobj	_	O
+14	on	on	IN	_	13	prep	_	O
+15	having	have	VBG	_	14	pcomp	_	O
+16	no	no	DT	_	17	det	_	O
+17	part	part	NN	_	15	dobj	_	O
+18	in	in	IN	_	15	prep	_	O
+19	normalizing	normalize	VBG	pos2=JJ	18	pcomp	_	O
+20	theTrump	thetrump	PRP$	pos2=JJ	21	poss	_	O
+21	family	family	NN	_	19	dobj	_	O
+22	.	.	.	_	6	punct	_	O
+23	"	"	''	_	6	punct	_	O
+
+1	https://t.co/9eINlkFsUM	#hlink#	ADD	_	0	root	_	U-ORG
+

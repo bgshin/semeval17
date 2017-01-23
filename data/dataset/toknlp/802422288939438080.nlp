@@ -1,0 +1,21 @@
+1	Pretty	pretty	RB	_	2	advmod	_	O
+2	soon	soon	RB	_	6	advmod	_	O
+3	I	I	PRP	_	6	nsubj	_	O
+4	'll	will	MD	_	6	aux	_	O
+5	just	just	RB	_	6	advmod	_	O
+6	do	do	VB	_	0	root	_	O
+7	what	what	WP	_	14	dobj	_	O
+8	the	the	DT	_	9	det	_	O
+9	rest	rest	NN	_	14	nsubj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	conservatives	conservative	NNS	_	10	pobj	_	O
+13	are	be	VBP	_	14	aux	_	O
+14	doing	do	VBG	_	6	ccomp	_	O
+15	and	and	CC	_	6	cc	_	O
+16	just	just	RB	_	18	advmod	_	O
+17	not	not	RB	_	18	neg	_	O
+18	login	login	VB	pos2=NN	6	conj	_	O
+19	anymore	anymore	RB	_	18	advmod	_	O
+20	.	.	.	_	6	punct	_	O
+

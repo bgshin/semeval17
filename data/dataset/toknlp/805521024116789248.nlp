@@ -1,0 +1,9 @@
+1	Fuck	fuck	VB	pos2=UH	0	root	_	O
+2	my	my	PRP$	_	3	poss	_	O
+3	vegetarianism	vegetarianism	NN	_	1	dobj	_	O
+4	cause	cause	VB	pos2=IN	1	dep	_	O
+5	McChickens	mcchickens	NNP	pos2=NNS	3	appos	_	U-PERSON
+6	are	be	VBP	_	8	aux	_	O
+7	literally	literally	RB	_	8	advmod	_	O
+8	crack	crack	VB	pos2=VBP	1	dep	_	O
+

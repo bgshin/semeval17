@@ -1,0 +1,19 @@
+1	@RossMarquand	@rossmarquand	NN	pos2=ADD	3	nsubj	_	O
+2	Please	please	UH	_	3	discourse	_	O
+3	sign	sign	VB	_	0	root	_	O
+4	this	this	DT	_	5	det	_	O
+5	poster	poster	NN	_	3	dobj	_	O
+6	we	we	PRP	_	8	nsubj	_	O
+7	're	be	VBP	_	8	aux	_	O
+8	going	go	VBG	_	5	relcl	_	O
+9	to	to	TO	_	10	aux	_	O
+10	give	give	VB	_	8	xcomp	_	O
+11	it	it	PRP	_	10	dobj	_	O
+12	to	to	IN	_	10	prep	_	O
+13	#TheWalkingDead	#thewalkingdead	VB	pos2=XX	18	dep	_	O
+14	fans	fan	NNS	_	13	dobj	_	O
+15	<	<	NFP	pos2=POS	17	punct	_	O
+16	3	0	CD	_	17	nmod	_	B-DATE
+17	#CCXP2016	#ccxp0	NN	pos2=NNS	18	dep	_	L-DATE
+18	https://t.co/6Z2K8GX3dJ	#hlink#	ADD	pos2=NN	12	pobj	_	O
+

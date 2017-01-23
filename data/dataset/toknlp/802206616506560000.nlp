@@ -1,0 +1,17 @@
+1	@theyshootactors	@theyshootactors	UH	pos2=IN	7	discourse	_	O
+2	The	the	DT	_	4	det	_	O
+3	popular	popular	JJ	_	4	nmod	_	O
+4	vote	vote	NN	_	7	nsubj	_	O
+5	that	that	WDT	_	6	nsubj	_	O
+6	backfires	backfire	VBZ	_	4	relcl	_	O
+7	is	be	VBZ	_	0	root	_	O
+8	this	this	DT	_	9	det	_	O
+9	year	year	NN	_	12	poss	_	U-DATE
+10	's	's	POS	_	9	case	_	O
+11	big	big	JJ	_	12	nmod	_	O
+12	lesson	lesson	NN	_	7	attr	_	O
+13	to	to	IN	_	12	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	elites	elite	NNS	_	13	pobj	_	O
+16	.	.	.	_	7	punct	_	O
+

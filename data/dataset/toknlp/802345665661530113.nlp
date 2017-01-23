@@ -1,0 +1,12 @@
+1	Several	several	JJ	_	3	nmod	_	B-CARDINAL
+2	dozen	dozen	NN	_	3	compound	_	L-CARDINAL
+3	protest	protest	NN	pos2=VBP	5	compound	_	O
+4	Donald	donald	NNP	_	5	compound	_	B-PERSON
+5	Trump	trump	NNP	pos2=NN	11	dep	_	L-PERSON
+6	at	at	IN	_	5	prep	_	O
+7	Friday	friday	NNP	_	9	compound	_	U-DATE
+8	afternoon	afternoon	NN	pos2=NNP	9	compound	_	U-TIME
+9	rally	rally	NN	pos2=GW	6	pobj	_	O
+10	https://t.co/fJIRylPBjn	#hlink#	ADD	_	11	nmod	_	O
+11	https://t.co/fGrIhH6rRv	#hlink#	ADD	_	0	root	_	U-ORG
+

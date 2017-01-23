@@ -1,0 +1,13 @@
+1	https://t.co/HFWhdscWzAThe	#hlink#	ADD	pos2=SYM	0	root	_	O
+2	ULTIMATE	ultimate	JJ	pos2=NN	5	nmod	_	U-ORG
+3	No	no	DT	pos2=UH	4	det	_	O
+4	Makeup	makeup	NN	pos2=UH	0	root	_	O
+5	#Makeup	#makeup	WDT	pos2=NNP	6	nsubj	_	O
+6	Look	look	VB	pos2=VBP	4	relcl	_	O
+7	for	for	IN	_	6	prep	_	O
+8	Indian	indian	JJ	pos2=NNP	9	nmod	_	U-NORP
+9	Skin	skin	NN	pos2=NNP	7	pobj	_	O
+10	I	I	PRP	pos2=CD	11	nsubj	_	O
+11	@Beautyconfessnz#BeautyAndTheBeast	@beautyconfessnz#beautyandthebeast	VBP	pos2=VBD	6	parataxis	_	O
+12	#makeupgiveaway	#makeupgiveaway	UH	pos2=RB	11	discourse	_	O
+

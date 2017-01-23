@@ -1,0 +1,20 @@
+1	Reading	read	VBG	pos2=NN	16	advcl	_	O
+2	"	"	``	_	4	punct	_	O
+3	The	the	DT	_	4	det	_	O
+4	Vegetarian	vegetarian	NNP	pos2=JJ	1	dobj	_	O
+5	"	"	''	_	4	punct	_	O
+6	by	by	IN	_	4	prep	_	O
+7	Han	han	NNP	_	8	compound	_	B-PERSON
+8	Kang	kang	NNP	_	6	pobj	_	L-PERSON
+9	--	--	:	_	4	punct	_	O
+10	and	and	CC	_	8	cc	_	O
+11	the	the	DT	_	13	det	_	O
+12	biggest	big	JJS	_	13	nmod	_	O
+13	risk	risk	NN	_	16	nsubj	_	O
+14	might	might	MD	_	16	aux	_	O
+15	be	be	VB	_	16	aux	_	O
+16	converting	convert	VBG	_	0	root	_	O
+17	to	to	IN	_	16	prep	_	O
+18	vegetarianism	vegetarianism	NN	pos2=GW	17	pobj	_	O
+19	https://t.co/k9xkfmyzIF	#hlink#	ADD	pos2=NN	16	punct	_	O
+

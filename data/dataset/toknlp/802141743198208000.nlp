@@ -1,0 +1,27 @@
+1	@WallaNews	@wallanews	POS	pos2=PRP$	2	nsubj	_	O
+2	reports	report	VBZ	pos2=NNS	0	root	_	O
+3	brush	brush	NN	pos2=VBP	4	compound	_	O
+4	fire	fire	NN	_	2	dobj	_	O
+5	nearing	near	VBG	_	4	acl	_	O
+6	community	community	NN	_	5	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Nataf	nataf	NNP	_	7	pobj	_	U-PERSON
+9	in	in	IN	_	5	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	#Jerusalem	#jerusalem	NNP	pos2=CD	12	compound	_	O
+12	corridor	corridor	NN	_	9	pobj	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	Some	some	DT	_	2	det	_	O
+2	houses	house	NNS	_	5	nsubj	_	O
+3	in	in	IN	pos2=RP	2	prep	_	O
+4	Nataf	nataf	NNP	_	3	pobj	_	U-PERSON
+5	went	go	VBD	_	0	root	_	O
+6	up	up	RP	pos2=RB	5	prt	_	O
+7	in	in	IN	_	5	prep	_	O
+8	flames	flame	NNS	_	7	pobj	_	B-DATE
+9	4	0	CD	_	10	nmod	_	I-DATE
+10	days	day	NNS	_	11	npadvmod	_	I-DATE
+11	ago	ago	RB	_	5	advmod	_	L-DATE
+12	.	.	.	_	5	punct	_	O
+

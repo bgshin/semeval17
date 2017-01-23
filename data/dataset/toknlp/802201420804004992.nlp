@@ -1,0 +1,21 @@
+1	@newstalkflorida	@newstalkflorida	UH	pos2=NN	6	discourse	_	O
+2	Im	im	UH	pos2=NN	6	discourse	_	O
+3	ok	ok	JJ	pos2=UH	4	nmod	_	O
+4	abt	abt	NN	pos2=UH	6	nsubj	_	O
+5	not	not	RB	_	6	neg	_	O
+6	prosecuting	prosecute	VBG	_	0	root	_	O
+7	#Clinton	#clinton	NNP	pos2=XX	6	dobj	_	U-PERSON
+8	but	but	CC	_	6	cc	_	O
+9	I	I	PRP	_	10	nsubj	_	O
+10	want	want	VBP	_	6	conj	_	O
+11	investigation2c	investigation0c	NN	pos2=NNP	10	dobj	_	O
+12	where	where	WRB	_	14	advmod	_	O
+13	theCorruption	thecorruption	NNP	pos2=NN	14	nsubj	_	U-PERSON
+14	leads	lead	VBZ	_	11	relcl	_	O
+15	so	so	RB	pos2=IN	17	advmod	_	O
+16	it	it	PRP	_	17	nsubj	_	O
+17	canBeStopped	canbestopped	MD	pos2=RP	10	advcl	_	O
+18	!	!	.	_	10	punct	_	O
+
+1	#DrainTheSwamp	#draintheswamp	ADD	pos2=XX	0	root	_	O
+

@@ -1,0 +1,31 @@
+1	That	that	DT	_	2	det	_	O
+2	twist	twist	NN	_	6	nsubj	_	O
+3	in	in	IN	_	2	prep	_	O
+4	ep.5	ep.0	NN	pos2=NNP	5	compound	_	U-DATE
+5	s.2	s.0	NN	pos2=FW	3	pobj	_	U-ORG
+6	#ScreamQueens	#screamqueens	VBZ	pos2=XX	0	root	_	O
+7	but	but	CC	_	6	cc	_	O
+8	is	be	VBZ	_	6	conj	_	O
+9	it	it	PRP	_	8	nsubj	_	O
+10	the	the	DT	_	11	det	_	O
+11	anwser	anwser	NN	_	8	attr	_	O
+12	?	?	.	_	6	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	think	think	VB	_	9	ccomp	_	O
+5	so	so	RB	pos2=IN	4	advmod	_	O
+6	though	though	RB	_	4	advmod	_	O
+7	,	,	,	_	9	punct	_	O
+8	It	it	PRP	_	9	nsubj	_	O
+9	's	's	VBZ	_	0	root	_	O
+10	just	just	RB	_	11	advmod	_	O
+11	to	to	IN	pos2=TO	9	prep	_	O
+12	early	early	RB	pos2=JJ	9	acomp	_	O
+13	to	to	TO	pos2=IN	14	aux	_	O
+14	point	point	VB	pos2=NN	9	xcomp	_	O
+15	fingers	finger	NNS	_	14	dobj	_	O
+16	yet	yet	RB	_	14	advmod	_	O
+17	.	.	.	_	9	punct	_	O
+

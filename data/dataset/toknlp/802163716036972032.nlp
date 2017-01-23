@@ -1,0 +1,29 @@
+1	This	this	DT	_	4	det	_	O
+2	1	0	CD	_	3	nmod	_	B-TIME
+3	minute	minute	NN	pos2=JJ	4	compound	_	L-TIME
+4	video	video	NN	_	9	nsubj	_	O
+5	for	for	IN	_	4	prep	_	O
+6	Google	google	NNP	_	8	compound	_	B-ORG
+7	Earth	earth	NNP	_	8	compound	_	I-ORG
+8	VR	vr	NNP	pos2=NN	5	pobj	_	L-ORG
+9	sold	sell	VBD	_	0	root	_	O
+10	me	me	PRP	_	9	dobj	_	O
+11	more	more	RBR	pos2=JJR	9	advmod	_	O
+12	on	on	IN	_	9	prep	_	O
+13	VR	vr	NNP	pos2=NN	12	pobj	_	U-ORG
+14	than	than	IN	_	9	prep	_	O
+15	any	any	DT	_	16	det	_	O
+16	game	game	NN	_	14	pobj	_	O
+17	has	have	VBZ	_	13	advcl	_	O
+18	so	so	RB	_	19	advmod	_	O
+19	far	far	RB	_	17	advmod	_	O
+20	.	.	.	_	17	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	so	so	RB	_	4	advmod	_	O
+4	cool	cool	JJ	_	2	acomp	_	O
+5	!	!	.	_	2	punct	_	O
+
+1	https://t.co/hBtIkPArTE	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,26 @@
+1	If	if	IN	_	3	mark	_	O
+2	not	not	RB	_	3	neg	_	O
+3	for	for	IN	_	13	advcl	_	O
+4	voter	voter	NN	_	5	compound	_	O
+5	suppression	suppression	NN	_	3	pobj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	machine	machine	NN	_	8	compound	_	O
+8	finagling	finagling	NN	_	5	conj	_	O
+9	,	,	,	_	13	punct	_	O
+10	Hillary	hillary	NNP	_	13	nsubj	_	U-PERSON
+11	would	would	MD	_	13	aux	_	O
+12	be	be	VB	_	13	aux	_	O
+13	transitioning	transition	VBG	pos2=JJ	0	root	_	O
+14	.	.	.	_	13	punct	_	O
+
+1	2.5	0	CD	_	2	compound	_	B-CARDINAL
+2	million	#crd#	CD	_	3	nmod	_	L-CARDINAL
+3	votes	vote	NNS	_	4	nsubj	_	O
+4	says	say	VBZ	_	0	root	_	O
+5	so	so	RB	_	4	advmod	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	Pelo	pelo	NNP	pos2=GW	3	nmod	_	B-PERSON
+2	…	…	NFP	pos2=-LRB-	3	punct	_	L-PERSON
+3	https://t.co/6blAQ00x3E	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,17 @@
+1	#VIDEO	#video	NN	pos2=NFP	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	#MosulOffensive	#mosuloffensive	JJ	pos2=ADD	4	nmod	_	O
+4	#Day	#day	NN	pos2=CD	8	dep	_	O
+5	37	0	CD	_	4	npadvmod	_	O
+6	:	:	:	_	8	punct	_	O
+7	#HashdAlShaabi	#hashdalshaabi	NN	pos2=NNP	8	nsubj	_	O
+8	Completes	complete	VBZ	pos2=NNP	0	root	_	O
+9	Siege	siege	NNP	pos2=NN	8	dobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	#Tal	#tal	NNP	pos2=ADD	10	pobj	_	O
+12	Afarhttps://t.co/WPDkgLPyzr#ISIL	#hlink#	ADD	_	16	nmod	_	O
+13	#ISIS	#isis	ADD	pos2=NNP	16	nmod	_	O
+14	#IS	#is	GW	pos2=NFP	16	nmod	_	O
+15	…	…	NFP	pos2=GW	16	punct	_	O
+16	https://t.co/opYzMIKQqo	#hlink#	ADD	_	8	dobj	_	U-ORG
+

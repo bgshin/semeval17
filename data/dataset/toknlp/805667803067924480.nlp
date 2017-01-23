@@ -1,0 +1,33 @@
+1	@realmommagump	@realmommagump	UH	pos2=MD	3	discourse	_	O
+2	Trump	trump	NNP	pos2=NN	3	nsubj	_	U-PERSON
+3	's	's	VBZ	pos2=POS	0	root	_	O
+4	not	not	RB	_	3	neg	_	O
+5	qualified	qualified	JJ	_	3	acomp	_	O
+6	to	to	TO	_	7	aux	_	O
+7	see	see	VB	_	5	xcomp	_	O
+8	promises	promise	NNS	_	7	dobj	_	O
+9	thru	thru	IN	pos2=RB	8	prep	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	bad	bad	JJ	_	2	acomp	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	Hillary	hillary	NNP	_	2	nsubj	_	U-PERSON
+2	IS	be	VBZ	pos2=NNP	0	root	_	O
+3	qualified	qualified	JJ	pos2=VBN	2	acomp	_	O
+4	to	to	TO	_	5	aux	_	O
+5	get	get	VB	_	3	xcomp	_	O
+6	hers	hers	PRP	pos2=NNS	5	dobj	_	O
+7	thru	thru	IN	pos2=RP	5	prep	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	worse	bad	JJR	_	2	acomp	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	#TPP	#tpp	NN	pos2=XX	2	compound	_	O
+2	#Fracking	#fracking	VBG	pos2=NN	0	root	_	O
+

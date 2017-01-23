@@ -1,0 +1,28 @@
+1	@AaronJNS	@aaronjns	NNS	pos2=ADD	11	dep	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	'm	be	VBP	_	4	aux	_	O
+4	praying	pray	VBG	_	1	relcl	_	O
+5	to	to	IN	_	4	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	RPG	rpg	NN	pos2=NNP	8	compound	_	O
+8	gods	god	NNS	_	5	pobj	_	O
+9	that	that	IN	pos2=WDT	11	mark	_	O
+10	XV	xv	NNP	pos2=NN	11	nsubj	_	U-PERSON
+11	is	be	VBZ	_	0	root	_	O
+12	good	good	JJ	_	11	acomp	_	O
+13	.	.	.	_	11	punct	_	O
+
+1	But	but	CC	_	4	cc	_	O
+2	persona	persona	NN	_	4	nsubj	_	O
+3	5	0	CD	_	2	nmod	_	U-CARDINAL
+4	is	be	VBZ	_	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	only	only	JJ	pos2=RB	7	nmod	_	O
+7	one	#crd#	CD	pos2=NN	4	attr	_	O
+8	I	I	PRP	_	10	nsubj	_	O
+9	'd	would	MD	pos2=VBD	10	aux	_	O
+10	put	put	VB	pos2=VBN	7	relcl	_	O
+11	money	money	NN	_	10	dobj	_	O
+12	down	down	RP	pos2=RB	10	prt	_	O
+13	on	on	IN	pos2=RB	10	prep	_	O
+

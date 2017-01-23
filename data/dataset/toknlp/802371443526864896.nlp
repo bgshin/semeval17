@@ -1,0 +1,11 @@
+1	Podesta	podesta	NNP	pos2=NN	7	dep	_	U-PERSON
+2	:	:	:	_	7	punct	_	O
+3	FBI	fbi	NNP	pos2=NN	4	compound	_	U-ORG
+4	leakers	leaker	NNS	_	7	nsubj	_	O
+5	should	should	MD	_	7	aux	_	O
+6	'	'	``	pos2=''	7	punct	_	O
+7	shut	shut	VB	_	0	root	_	O
+8	up	up	RP	_	7	prt	_	O
+9	'	'	''	pos2=POS	7	punct	_	O
+10	https://t.co/evGRblc9Pm	#hlink#	ADD	pos2=NN	7	dobj	_	O
+

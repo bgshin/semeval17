@@ -1,0 +1,8 @@
+1	AP	ap	NN	pos2=JJ	3	compound	_	O
+2	instagram	instagram	NN	pos2=XX	3	compound	_	O
+3	feed	feed	NN	_	7	nsubj	_	O
+4	from	from	IN	_	3	prep	_	O
+5	#MosulOffensive	#mosuloffensive	JJ	pos2=NNP	4	pobj	_	O
+6	#CJTFOIR	#cjtfoir	GW	pos2=NN	4	pobj	_	O
+7	https://t.co/508OceJ1yT	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,27 @@
+1	Minimum	minimum	JJ	pos2=NN	2	nmod	_	O
+2	wage	wage	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	joke	joke	NN	_	3	attr	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	And	and	CC	_	7	cc	_	O
+2	those	those	DT	_	3	det	_	O
+3	pretzels	pretzel	NNS	_	7	nsubj	_	O
+4	at	at	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	mall	mall	NN	_	4	pobj	_	O
+7	are	be	VBP	_	0	root	_	O
+8	way	way	RB	pos2=NN	10	advmod	_	O
+9	too	too	RB	_	10	advmod	_	O
+10	expensive	expensive	JJ	_	7	acomp	_	O
+11	,	,	,	_	14	punct	_	O
+12	are	be	VBP	_	14	aux	_	O
+13	you	you	PRP	_	14	nsubj	_	O
+14	listening	listen	VBG	_	9	parataxis	_	O
+15	auntie	auntie	NN	pos2=NNP	16	compound	_	O
+16	Annie	annie	NNP	_	14	vocative	_	U-PERSON
+17	?	?	.	_	14	punct	_	O
+
+1	https://t.co/j6b4dPuv6x	#hlink#	ADD	_	0	root	_	U-ORG
+

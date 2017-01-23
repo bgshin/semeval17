@@ -1,0 +1,25 @@
+1	Top	top	JJ	pos2=NN	4	nmod	_	O
+2	movie	movie	NN	_	3	compound	_	O
+3	genres:Heist	genres:heist	NN	pos2=XX	4	compound	_	O
+4	moviesMovies	moviesmovies	NNS	pos2=NNP	0	root	_	O
+5	where	where	WRB	_	9	advmod	_	O
+6	1	0	CD	_	7	nmod	_	U-CARDINAL
+7	person	person	NN	_	9	nsubjpass	_	O
+8	is	be	VBZ	_	9	auxpass	_	O
+9	accused	accuse	VBN	_	4	relcl	_	O
+10	of	of	IN	_	9	prep	_	O
+11	killing	kill	VBG	_	10	pcomp	_	O
+12	a	a	DT	_	15	det	_	O
+13	political	political	JJ	_	15	nmod	_	O
+14	figure	figure	NN	_	15	compound	_	O
+15	Movies	movie	NNS	pos2=NNPS	11	dobj	_	O
+16	w	w	IN	_	11	prep	_	O
+17	/	/	HYPH	_	16	punct	_	O
+18	Nazi	nazi	NNP	pos2=NN	24	poss	_	U-NORP
+19	's	's	POS	_	18	case	_	O
+20	as	as	RB	pos2=IN	21	advmod	_	O
+21	bad	bad	JJ	_	24	nmod	_	O
+22	guysThe	guysthe	NNP	pos2=IN	23	compound	_	B-LOC
+23	Rock	rock	NNP	_	24	compound	_	L-LOC
+24	movies	movie	NNS	_	16	pobj	_	O
+

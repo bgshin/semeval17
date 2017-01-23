@@ -1,0 +1,13 @@
+1	White	white	JJ	pos2=NNP	2	nmod	_	O
+2	supremacists	supremacist	NNS	_	0	root	_	O
+3	already	already	RB	_	4	advmod	_	O
+4	on	on	IN	_	2	prep	_	O
+5	CNN	cnn	NNP	_	4	pobj	_	U-ORG
+6	but	but	CC	_	2	cc	_	O
+7	otherwise	otherwise	RB	_	9	advmod	_	O
+8	excellent	excellent	JJ	_	9	nmod	_	O
+9	point	point	NN	_	2	conj	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	https://t.co/Ar1IkWatlK	#hlink#	ADD	_	0	root	_	U-ORG
+

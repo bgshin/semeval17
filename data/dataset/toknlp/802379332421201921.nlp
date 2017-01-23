@@ -1,0 +1,21 @@
+1	@JODYMITIC	@jodymitic	JJ	pos2=ADD	5	dep	_	O
+2	@MacleansMag	@macleansmag	XX	pos2=IN	5	dep	_	O
+3	The	the	DT	_	4	det	_	O
+4	TPP	tpp	NN	pos2=NNP	5	nsubj	_	O
+5	was	be	VBD	_	0	root	_	O
+6	Top	top	JJ	pos2=NNP	7	nmod	_	O
+7	Secret	secret	NNP	pos2=JJ	5	acomp	_	O
+8	.	.	.	_	5	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	appears	appear	VBZ	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	be	be	VB	_	2	xcomp	_	O
+5	the	the	DT	_	7	det	_	O
+6	new	new	JJ	_	7	nmod	_	O
+7	way	way	NN	_	4	attr	_	O
+8	of	of	IN	_	7	prep	_	O
+9	doing	do	VBG	_	8	pcomp	_	O
+10	things	thing	NNS	_	9	dobj	_	O
+11	.	.	.	_	2	punct	_	O
+

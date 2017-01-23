@@ -1,0 +1,22 @@
+1	#Cards	#cards	NNP	pos2=NNS	18	dep	_	B-DATE
+2	2015	0	CD	_	4	qmod	_	I-DATE
+3	-	-	SYM	pos2=HYPH	4	punct	_	I-DATE
+4	16	0	CD	_	18	dep	_	L-DATE
+5	Panini	panini	NNP	pos2=NN	10	compound	_	B-ORG
+6	Gold	gold	NNP	pos2=NN	10	compound	_	I-ORG
+7	Standard	standard	NNP	_	10	compound	_	L-ORG
+8	Oklahoma	oklahoma	NNP	_	9	compound	_	B-GPE
+9	City	city	NNP	_	10	compound	_	L-GPE
+10	#Thunder	#thunder	NNP	pos2=POS	18	dep	_	O
+11	1/2	0	CD	_	18	dep	_	U-CARDINAL
+12	Case	case	NNP	pos2=NN	14	compound	_	B-ORG
+13	Team	team	NNP	pos2=NN	14	compound	_	I-ORG
+14	Break	break	NNP	pos2=VB	18	dep	_	L-ORG
+15	6x	0x	NN	pos2=CD	16	compound	_	O
+16	#	#	NN	pos2=GW	18	dep	_	O
+17	6	0	CD	pos2=GW	16	nmod	_	U-MONEY
+18	https://t.co/OCdTWiti8Y	#hlink#	ADD	_	0	root	_	O
+19	#Card	#card	-RRB-	pos2=IN	18	punct	_	O
+20	…	…	NFP	pos2=-LRB-	18	discourse	_	O
+21	https://t.co/Z9CQ7A7tQA	#hlink#	ADD	pos2=NN	20	pobj	_	O
+

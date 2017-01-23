@@ -1,0 +1,22 @@
+1	@DavidDavisMP	@daviddavismp	XX	pos2=NN	3	dep	_	O
+2	#brexit	#brexit	IN	pos2=XX	0	root	_	O
+3	getting	get	VBG	_	2	pcomp	_	O
+4	critical	critical	JJ	_	3	acomp	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	get	get	VB	pos2=VBP	0	root	_	O
+2	UK	uk	NNP	pos2=VBN	1	dobj	_	U-GPE
+3	out	out	RP	pos2=RB	1	prt	_	O
+4	to	to	IN	pos2=TO	1	prep	_	O
+5	safety	safety	NN	_	4	pobj	_	O
+6	NOW	now	RB	_	1	advmod	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	before	before	IN	pos2=RB	6	mark	_	O
+2	the	the	DT	_	5	det	_	O
+3	whole	whole	JJ	_	5	nmod	_	O
+4	EU	eu	NNP	_	5	compound	_	U-ORG
+5	thing	thing	NN	_	6	nsubj	_	O
+6	collapses	collapse	VBZ	pos2=NNS	7	pobj	_	O
+7	.	.	.	_	0	root	_	O
+

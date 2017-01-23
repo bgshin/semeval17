@@ -1,0 +1,19 @@
+1	#MuhammadAli	#muhammadali	NNP	pos2=NNS	3	compound	_	O
+2	Bob	bob	NNP	_	3	compound	_	B-PERSON
+3	Foster	foster	NNP	_	8	nsubj	_	L-PERSON
+4	(	(	-LRB-	_	5	punct	_	O
+5	d	d	NN	pos2=GW	3	npadvmod	_	O
+6	2015	0	CD	_	5	nmod	_	U-DATE
+7	)	)	-RRB-	_	3	punct	_	O
+8	signed	sign	VBN	pos2=VBD	9	nmod	_	O
+9	index	index	NN	_	18	compound	_	O
+10	Light	light	NNP	pos2=JJ	18	compound	_	O
+11	Heavyweight	heavyweight	NNP	pos2=NNPS	18	compound	_	O
+12	Champion	champion	NNP	_	18	compound	_	O
+13	Boxing	boxing	NNP	_	15	compound	_	O
+14	Muhammad	muhammad	NNP	_	15	compound	_	B-PERSON
+15	Ali	ali	NNP	_	18	dep	_	I-PERSON
+16	https://t.co/cAGV4E7H7N	#hlink#	ADD	pos2=NNP	18	dep	_	I-PERSON
+17	#Legend	#legend	NNP	pos2=-RRB-	18	compound	_	I-PERSON
+18	#Boxer	#boxer	NNP	pos2=.	0	root	_	L-PERSON
+

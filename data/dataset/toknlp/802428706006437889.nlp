@@ -1,0 +1,23 @@
+1	@lauriegrahamNS	@lauriegrahamns	NNS	pos2=ADD	2	nsubj	_	O
+2	@MichaelTGorman	@michaeltgorman	ADD	pos2=NN	0	root	_	O
+3	....	..	.	pos2=,	2	punct	_	O
+
+1	Liberals	liberal	NNS	pos2=NNPS	5	nsubj	_	O
+2	out	out	RP	pos2=RB	1	prep	_	O
+3	in	in	IN	_	2	prep	_	O
+4	force	force	NN	_	3	pobj	_	O
+5	lying	lie	VBG	pos2=NN	0	root	_	O
+6	as	as	IN	_	5	prep	_	O
+7	usual	usual	JJ	_	6	pcomp	_	O
+8	....	..	.	pos2=,	5	punct	_	O
+
+1	the	the	DT	_	2	det	_	O
+2	public	public	NN	pos2=JJ	3	nsubj	_	O
+3	sees	see	VBZ	_	0	root	_	O
+4	through	through	IN	_	3	prep	_	O
+5	your	your	PRP$	_	6	poss	_	O
+6	bs	bs	NN	pos2=NNS	4	pobj	_	O
+7	...	..	.	pos2=,	3	punct	_	O
+
+1	#nspoli	#nspoli	UH	pos2=NNS	0	root	_	O
+

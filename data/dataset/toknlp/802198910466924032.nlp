@@ -1,0 +1,20 @@
+1	Image	image	NN	_	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	Messi	messi	NNP	_	6	nsubjpass	_	U-PERSON
+4	has	have	VBZ	_	6	aux	_	O
+5	been	be	VBN	_	6	auxpass	_	O
+6	voted	vote	VBN	_	0	root	_	O
+7	as	as	IN	_	6	prep	_	O
+8	the	the	DT	_	11	det	_	B-ORG
+9	Champions	champion	NNPS	pos2=NNP	10	compound	_	I-ORG
+10	League	league	NNP	_	11	compound	_	L-ORG
+11	player	player	NN	_	7	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	the	the	DT	_	15	det	_	B-DATE
+14	week	week	NN	_	15	compound	_	L-DATE
+15	#fcblive	#fcblive	NN	pos2=CD	12	pobj	_	O
+16	[	[	-LRB-	_	17	punct	_	O
+17	uefa	uefa	NN	pos2=AFX	6	parataxis	_	O
+18	]	]	-RRB-	_	17	punct	_	O
+19	https://t.co/sMrE3JZvWT	#hlink#	ADD	_	6	dep	_	O
+

@@ -1,0 +1,23 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@SpeakerRyan	@speakerryan	NNS	pos2=NNP	3	nsubj	_	O
+2	never	never	RB	_	3	neg	_	O
+3	thought	think	VBD	_	14	ccomp	_	O
+4	a	a	DT	_	5	det	_	O
+5	pot	pot	NN	_	1	appos	_	O
+6	of	of	IN	_	5	prep	_	O
+7	money	money	NN	_	6	pobj	_	O
+8	he	he	PRP	_	11	nsubj	_	O
+9	did	do	VBD	_	11	aux	_	O
+10	n't	not	RB	_	11	neg	_	O
+11	want	want	VB	_	3	ccomp	_	O
+12	to	to	TO	pos2=IN	11	xcomp	_	O
+13	raidTrump	raidtrump	NNP	pos2=VB	14	nsubj	_	U-ORG
+14	says	say	VBZ	_	0	root	_	O
+15	okThere	okthere	EX	pos2=NNP	16	expl	_	U-ORG
+16	goes	go	VBZ	_	14	ccomp	_	O
+17	another	another	DT	_	19	det	_	O
+18	campaign	campaign	NN	_	20	nmod	_	O
+19	pro	pro	JJ	pos2=NN	20	nmod	_	O
+20	misehttps://t.co/VSsYSQTUL8	#hlink#	ADD	pos2=NN	15	root	_	O
+

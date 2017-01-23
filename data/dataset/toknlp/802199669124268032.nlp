@@ -1,0 +1,22 @@
+1	Betsy	betsy	NNP	_	2	compound	_	B-PERSON
+2	DeVos	devos	NNP	_	9	vocative	_	L-PERSON
+3	as	as	IN	_	2	prep	_	O
+4	education	education	NN	_	5	compound	_	O
+5	secretary	secretary	NN	_	3	pobj	_	O
+6	:	:	:	_	9	punct	_	O
+7	What	what	WP	pos2=WDT	11	dobj	_	O
+8	you	you	PRP	_	9	nsubj	_	O
+9	need	need	VBP	_	0	root	_	O
+10	to	to	TO	_	11	aux	_	O
+11	know	know	VB	_	9	xcomp	_	O
+12	about	about	IN	_	11	prep	_	O
+13	Trump	trump	NNP	pos2=NN	15	poss	_	U-ORG
+14	's	's	POS	_	13	case	_	O
+15	pick	pick	NN	pos2=GW	12	pobj	_	O
+16	https://t.co/ywDKCthxCt	#hlink#	ADD	pos2=RP	15	appos	_	U-ORG
+17	#Trump	#trump	-RRB-	pos2=IN	20	ccomp	_	O
+18	#DrainTHEswamp	#draintheswamp	NN	pos2=UH	17	pobj	_	O
+19	yeah	yeah	UH	_	18	discourse	_	O
+20	right	right	UH	pos2=RB	9	discourse	_	O
+21	!!!	!!	.	_	9	punct	_	O
+

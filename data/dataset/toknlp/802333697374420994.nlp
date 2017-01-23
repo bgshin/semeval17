@@ -1,0 +1,20 @@
+1	Firstpost	firstpost	NNP	pos2=NN	6	dep	_	U-ORG
+2	:	:	:	_	6	punct	_	O
+3	Venezuela	venezuela	NNP	_	5	poss	_	U-GPE
+4	’s	's	POS	pos2=VBZ	3	case	_	O
+5	Maduro	maduro	NNP	_	6	nsubj	_	U-PERSON
+6	calls	call	VBZ	_	0	root	_	O
+7	nephews	nephew	NNS	_	10	poss	_	O
+8	’	'	POS	pos2=``	7	case	_	O
+9	drug	drug	NN	_	10	compound	_	O
+10	conviction	conviction	NN	_	6	dobj	_	O
+11	‘	'	''	pos2=POS	13	punct	_	O
+12	U.S.	u.s.	NNP	_	13	compound	_	U-GPE
+13	imperialism	imperialism	NN	_	6	oprd	_	O
+14	’	'	''	_	13	punct	_	O
+15	|	|	SYM	pos2=-LRB-	19	punct	_	O
+16	Reuters	reuters	NNP	pos2=GW	19	dep	_	U-ORG
+17	…	…	NFP	pos2=GW	19	punct	_	O
+18	https://t.co/6xYdZSyyjF…	#hlink#	ADD	_	19	nmod	_	O
+19	https://t.co/RbMrbC55bs	#hlink#	ADD	_	6	dep	_	U-ORG
+

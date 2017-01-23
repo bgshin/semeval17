@@ -1,0 +1,19 @@
+1	@ccdc_cambridge	@ccdc_cambridge	VB	pos2=PDT	0	root	_	O
+2	An	an	DT	_	3	det	_	O
+3	article	article	NN	_	1	dobj	_	O
+4	that	that	WDT	pos2=DT	6	nsubj	_	O
+5	may	may	MD	_	6	aux	_	O
+6	interest	interest	VB	_	3	relcl	_	O
+7	you	you	PRP	_	6	dobj	_	O
+8	re	re	RP	pos2=RB	6	prt	_	O
+9	.	.	.	_	1	punct	_	O
+
+1	3	0	CD	_	3	nmod	_	U-CARDINAL
+2	D	d	NN	pos2=JJ	3	compound	_	O
+3	printing	printing	NN	_	0	root	_	O
+4	of	of	IN	_	3	prep	_	O
+5	crystal	crystal	NN	pos2=JJ	6	compound	_	O
+6	structures	structure	NNS	_	4	pobj	_	O
+7	https://t.co/m73YqVPkIX	#hlink#	ADD	pos2=VBP	3	appos	_	O
+8	@ijbruno	@ijbruno	UH	pos2=-RRB-	3	prep	_	O
+

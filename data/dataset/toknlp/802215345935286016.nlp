@@ -1,0 +1,22 @@
+1	Everyone	everyone	NN	_	2	nsubj	_	O
+2	's	's	VBZ	pos2=POS	0	root	_	O
+3	thanksgiving	thanksgiving	NN	pos2=VBG	2	attr	_	O
+4	this	this	DT	_	5	det	_	B-DATE
+5	year	year	NN	_	2	npadvmod	_	L-DATE
+6	:	:	:	_	8	punct	_	O
+7	mannequin	mannequin	NN	_	8	compound	_	O
+8	challenge	challenge	NN	_	3	appos	_	O
+9	,	,	,	_	8	punct	_	O
+10	faceswaps	faceswaps	RB	pos2=VBZ	11	advmod	_	O
+11	with	with	IN	_	8	prep	_	O
+12	grandma	grandma	NN	_	16	nmod	_	O
+13	and	and	CC	_	12	cc	_	O
+14	pictures	picture	NNS	_	12	conj	_	O
+15	/	/	,	pos2=SYM	16	punct	_	O
+16	videos	video	NNS	_	11	pobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	the	the	DT	_	19	det	_	O
+19	food	food	NN	_	17	pobj	_	O
+20	they	they	PRP	_	21	nsubj	_	O
+21	ate	eat	VBD	pos2=VBP	19	relcl	_	O
+

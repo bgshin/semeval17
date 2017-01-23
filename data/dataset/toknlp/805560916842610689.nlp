@@ -1,0 +1,18 @@
+1	France	france	NNP	_	5	poss	_	U-GPE
+2	’s	's	POS	pos2=VBZ	1	case	_	O
+3	Next	next	JJ	pos2=NNP	5	nmod	_	O
+4	Revolution?A	revolution?a	NNP	_	5	compound	_	O
+5	Conversation	conversation	NNP	pos2=NN	0	root	_	B-PERSON
+6	With	with	IN	_	5	prep	_	I-PERSON
+7	Marine	marine	NNP	_	9	compound	_	I-PERSON
+8	Le	le	NNP	_	9	compound	_	I-PERSON
+9	Pen	pen	NNP	_	6	pobj	_	L-PERSON
+10	.	.	.	_	5	punct	_	O
+
+1	via	via	IN	_	6	prep	_	O
+2	@ForeignAffairs	@foreignaffairs	NNS	pos2=NNPS	1	pobj	_	O
+3	(	(	-LRB-	_	2	punct	_	O
+4	rh	rh	UH	pos2=AFX	2	discourse	_	O
+5	)	)	-RRB-	_	2	punct	_	O
+6	https://t.co/Fj4VwblJa9	#hlink#	ADD	pos2=NN	0	root	_	O
+

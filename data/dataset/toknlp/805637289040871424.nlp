@@ -1,0 +1,11 @@
+1	@BritishAwake	@britishawake	JJ	pos2=VB	3	nmod	_	O
+2	BBC	bbc	NNP	_	3	compound	_	B-ORG
+3	Bullshit	bullshit	NNP	pos2=NN	4	nsubj	_	L-ORG
+4	Baffles	baffle	VBZ	pos2=NNP	0	root	_	O
+5	BrainsMarine	brainsmarine	NNP	_	7	compound	_	B-PERSON
+6	Le	le	NNP	_	7	compound	_	I-PERSON
+7	Pen	pen	NNP	_	4	dobj	_	L-PERSON
+8	..	..	.	pos2=,	4	punct	_	O
+
+1	https://t.co/rV3j3QX17A	#hlink#	ADD	_	0	root	_	U-ORG
+

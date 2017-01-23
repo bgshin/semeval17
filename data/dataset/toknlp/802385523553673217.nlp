@@ -1,0 +1,22 @@
+1	#DNCLeaks	#dncleaks	NNS	pos2=XX	2	nsubj	_	O
+2	exsposed	exsposed	VBD	pos2=IN	0	root	_	O
+3	corruption	corruption	NN	_	2	dobj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	primaries	primary	NNS	_	4	pobj	_	O
+6	&	&	CC	_	3	cc	_	O
+7	anti-Bernie	anti-bernie	NNP	pos2=JJ	8	compound	_	O
+8	Sanders	sanders	NNP	pos2=NNPS	9	compound	_	O
+9	ploys	ploy	NNS	pos2=VBZ	3	conj	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	Dems	dems	NNS	pos2=NNPS	0	root	_	O
+2	still	still	RB	_	3	advmod	_	O
+3	in	in	IN	_	1	prep	_	O
+4	total	total	JJ	_	6	nmod	_	O
+5	election	election	NN	_	6	compound	_	O
+6	denial	denial	NN	_	3	pobj	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	@VABVOX	@vabvox	NFP	pos2=ADD	2	punct	_	O
+2	https://t.co/tYbxHlqwwK	#hlink#	ADD	pos2=NN	0	root	_	O
+

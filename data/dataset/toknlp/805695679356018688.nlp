@@ -1,0 +1,28 @@
+1	@tomraffin	@tomraffin	NN	pos2=UH	2	compound	_	O
+2	Cubs	cub	NNPS	pos2=NNS	3	nsubj	_	U-ORG
+3	win	win	VBP	pos2=VB	8	ccomp	_	B-EVENT
+4	World	world	NNP	_	5	compound	_	I-EVENT
+5	Series	series	NNP	_	3	dobj	_	L-EVENT
+6	,	,	,	_	8	punct	_	O
+7	Cowboys	cowboy	NNPS	pos2=NNP	8	nsubj	_	U-ORG
+8	are	be	VBP	_	16	ccomp	_	O
+9	11-1	0	CD	_	8	attr	_	U-CARDINAL
+10	,	,	,	_	16	punct	_	O
+11	bucs	bucs	NNS	pos2=CC	15	nsubj	_	O
+12	on	on	IN	_	11	prep	_	O
+13	SNF	snf	NNP	pos2=NN	12	pobj	_	U-ORG
+14	,	,	,	_	16	punct	_	O
+15	trump	trump	NN	_	16	nsubj	_	O
+16	is	be	VBZ	_	0	root	_	O
+17	president	president	NN	pos2=JJ	16	attr	_	O
+18	.	.	.	_	16	punct	_	O
+
+1	What	what	WP	pos2=WDT	6	nsubj	_	O
+2	more	more	RBR	pos2=JJR	3	advmod	_	O
+3	crazy	crazy	JJ	_	4	nmod	_	O
+4	shit	shit	NN	pos2=PRP	6	nsubj	_	O
+5	will	will	MD	_	6	aux	_	O
+6	happen	happen	VB	_	0	root	_	O
+7	this	this	DT	_	8	det	_	B-DATE
+8	year	year	NN	_	6	npadvmod	_	L-DATE
+

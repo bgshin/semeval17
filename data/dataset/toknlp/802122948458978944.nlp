@@ -1,0 +1,14 @@
+1	BOOK	book	NN	pos2=VB	2	compound	_	O
+2	PREVIEW	preview	NN	pos2=VB	4	compound	_	O
+3	#Sovereignty	#sovereignty	NNP	pos2=NN	4	compound	_	B-ORG
+4	Conflicts	conflict	NNS	pos2=NNPS	0	root	_	I-ORG
+5	&	&	CC	pos2=GW	4	cc	_	I-ORG
+6	Solution	solution	NN	pos2=NNP	4	conj	_	L-ORG
+7	https://t.co/vttLlQEFjE	#hlink#	ADD	pos2=VBP	3	appos	_	O
+8	#Rawls	#rawls	NNS	pos2=VBZ	11	compound	_	O
+9	#Jurisprudence	#jurisprudence	NN	pos2=IN	10	compound	_	O
+10	#Malvinas	#malvinas	NNS	pos2=NNPS	11	compound	_	O
+11	#Falklands	#falklands	NNS	pos2=POS	7	ccomp	_	B-PERSON
+12	#Gibraltar	#gibraltar	NNP	pos2=VBP	13	compound	_	I-PERSON
+13	#Jerusalem	#jerusalem	NNP	pos2=PRP	11	appos	_	L-PERSON
+

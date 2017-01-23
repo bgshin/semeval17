@@ -1,0 +1,18 @@
+1	Watching	watch	VBG	pos2=NNP	0	root	_	O
+2	Kaleb	kaleb	NNP	_	3	nsubj	_	U-PERSON
+3	eat	eat	VB	pos2=VBP	1	ccomp	_	O
+4	a	a	DT	_	5	det	_	O
+5	bologna	bologna	NN	pos2=NNP	3	dobj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	ketchup	ketchup	NN	_	5	conj	_	O
+8	and	and	CC	_	1	cc	_	O
+9	it	it	PRP	_	11	nsubj	_	O
+10	seriously	seriously	RB	_	11	advmod	_	O
+11	has	have	VBZ	_	7	parataxis	_	O
+12	me	me	PRP	_	13	nsubj	_	O
+13	wanting	want	VBG	_	11	ccomp	_	O
+14	to	to	TO	_	15	aux	_	O
+15	throw	throw	VB	_	13	xcomp	_	O
+16	up	up	RP	_	15	prt	_	O
+17	😷	😷	.	pos2=NNP	11	punct	_	O
+

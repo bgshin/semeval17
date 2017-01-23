@@ -1,0 +1,14 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	love	love	VBP	_	0	root	_	O
+3	Antoine	antoine	NNP	_	4	compound	_	B-PERSON
+4	Walker	walker	NNP	_	2	dobj	_	L-PERSON
+5	,	,	,	_	2	punct	_	O
+6	"	"	``	pos2=''	2	punct	_	O
+7	Ask	ask	VB	pos2=NNP	2	dep	_	O
+8	Tim	tim	NNP	_	9	compound	_	B-PERSON
+9	Duncan	duncan	NNP	_	7	dobj	_	L-PERSON
+10	about	about	IN	_	9	prep	_	O
+11	us	us	PRP	_	10	pobj	_	O
+12	!	!	.	_	2	punct	_	O
+13	"	"	''	_	2	punct	_	O
+

@@ -1,0 +1,26 @@
+1	@petestavros	@petestavros	UH	pos2=NNS	3	discourse	_	O
+2	@megynkelly	@megynkelly	RB	pos2=UH	3	advmod	_	O
+3	desrespectful	desrespectful	JJ	pos2=NN	0	root	_	O
+4	to	to	IN	pos2=TO	3	prep	_	O
+5	what	what	WP	_	4	pobj	_	O
+6	,	,	,	_	18	punct	_	O
+7	a	a	DT	_	8	det	_	O
+8	piece	piece	NN	_	18	nsubj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	trash	trash	NN	_	9	pobj	_	O
+11	that	that	WDT	_	12	nsubj	_	O
+12	calls	call	VBZ	_	8	relcl	_	O
+13	herself	herself	PRP	_	12	dobj	_	O
+14	a	a	DT	_	16	det	_	O
+15	"	"	``	_	16	punct	_	O
+16	journalist	journalist	NN	_	12	oprd	_	O
+17	"	"	''	_	16	punct	_	O
+18	Shows	show	VBZ	_	0	root	_	O
+19	you	you	PRP	_	18	dobj	_	O
+20	how	how	WRB	_	21	advmod	_	O
+21	low	low	JJ	_	22	acomp	_	O
+22	the	the	DT	_	23	det	_	O
+23	profession	profession	NN	_	25	nsubjpass	_	O
+24	's	's	VBZ	pos2=POS	25	auxpass	_	O
+25	fallen	fall	VBN	pos2=JJ	18	ccomp	_	O
+

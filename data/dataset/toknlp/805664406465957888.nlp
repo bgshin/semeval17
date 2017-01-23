@@ -1,0 +1,16 @@
+1	https://t.co/DIQIfhPreG	#hlink#	ADD	_	5	dep	_	O
+2	|	|	SYM	pos2=,	5	punct	_	O
+3	CIA	cia	NNP	pos2=NN	4	compound	_	U-ORG
+4	whistleblower	whistleblower	NN	_	5	nsubj	_	O
+5	breaks	break	VBZ	_	0	root	_	O
+6	silence	silence	NN	_	11	nmod	_	O
+7	on	on	IN	_	6	prep	_	O
+8	climate	climate	NN	pos2=JJ	9	compound	_	O
+9	engineering	engineering	NN	_	7	pobj	_	O
+10	,	,	,	_	11	punct	_	O
+11	vaccine	vaccine	NN	_	5	dobj	_	O
+12	......	..	.	pos2=,	5	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/tTXqoImNkA	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,24 @@
+1	@PMOIndia	@pmoindia	NN	pos2=ADD	2	meta	_	O
+2	@narendramodi	@narendramodi	FW	pos2=POS	0	root	_	O
+3	sir	sir	NN	pos2=PRP$	5	nmod	_	O
+4	serious	serious	JJ	_	5	nmod	_	O
+5	concern	concern	NN	_	7	nsubj	_	O
+6	must	must	MD	_	7	aux	_	O
+7	take	take	VB	_	1	relcl	_	O
+8	to	to	TO	_	9	aux	_	O
+9	avoid	avoid	VB	_	7	advcl	_	O
+10	fossil	fossil	NN	pos2=JJ	11	nmod	_	O
+11	fuels	fuel	NNS	_	13	nmod	_	O
+12	solar	solar	JJ	_	13	nmod	_	O
+13	cars	car	NNS	_	9	dobj	_	O
+14	and	and	CC	_	7	cc	_	O
+15	so	so	RB	_	16	advmod	_	O
+16	on	on	RB	pos2=PRP	18	advmod	_	O
+17	must	must	MD	_	18	aux	_	O
+18	come	come	VB	_	7	conj	_	O
+19	to	to	IN	_	18	prep	_	O
+20	india	india	NNP	pos2=NN	21	compound	_	U-GPE
+21	jai	jai	NNP	pos2=XX	19	pobj	_	O
+22	hind	hind	RB	pos2=JJ	18	advmod	_	O
+23	.	.	.	_	1	punct	_	O
+

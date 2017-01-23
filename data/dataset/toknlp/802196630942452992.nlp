@@ -1,0 +1,16 @@
+1	#onedirection	#onedirection	NN	pos2=UH	2	compound	_	O
+2	fans	fan	NNS	_	4	nsubj	_	O
+3	might	might	MD	_	4	aux	_	O
+4	be	be	VB	_	0	root	_	O
+5	interested	interested	JJ	_	4	acomp	_	O
+6	in	in	IN	_	5	prep	_	O
+7	this	this	DT	_	9	det	_	O
+8	Lightning	lightning	NNP	pos2=NN	9	compound	_	O
+9	Deal	deal	NNP	pos2=NN	6	pobj	_	O
+10	on	on	IN	_	9	prep	_	O
+11	Amazon	amazon	NNP	_	12	compound	_	U-ORG
+12	UK	uk	NNP	_	10	pobj	_	U-GPE
+13	soon	soon	RB	_	15	advmod	_	O
+14	https://t.co/wzHMZchiT9	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/hTw39MgGWd	#hlink#	ADD	_	4	dep	_	U-ORG
+

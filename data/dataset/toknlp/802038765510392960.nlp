@@ -1,0 +1,11 @@
+1	Ca	can	MD	pos2=NN	3	aux	_	O
+2	nt	nt	RB	_	3	advmod	_	O
+3	stop	stop	VB	_	0	root	_	O
+4	watching	watch	VBG	_	3	xcomp	_	O
+5	David	david	NNP	_	6	compound	_	B-PERSON
+6	blaine	blaine	NNP	pos2=NN	4	dobj	_	L-PERSON
+7	beyond	beyond	IN	_	4	prep	_	O
+8	magic	magic	NN	pos2=JJ	9	compound	_	O
+9	show	show	NN	pos2=VBP	7	pobj	_	O
+10	😋	😋	.	pos2=NN	3	punct	_	O
+

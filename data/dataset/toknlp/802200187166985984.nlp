@@ -1,0 +1,21 @@
+1	Steve	steve	NNP	_	2	compound	_	B-PERSON
+2	Bannon	bannon	NNP	_	5	poss	_	I-PERSON
+3	’s	's	POS	_	2	case	_	L-PERSON
+4	first	#ord#	JJ	_	5	nmod	_	U-ORDINAL
+5	pick	pick	NN	_	8	nsubj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	president	president	NN	_	6	pobj	_	O
+8	was	be	VBD	_	13	ccomp	_	O
+9	n't	not	RB	_	8	neg	_	O
+10	Trump	trump	NNP	pos2=VB	8	attr	_	U-ORG
+11	—	-	:	pos2=HYPH	13	punct	_	O
+12	it	it	PRP	_	13	nsubj	_	O
+13	was	be	VBD	_	0	root	_	O
+14	Palin	palin	NNP	_	13	attr	_	U-PERSON
+15	https://t.co/lC6V0cvAor	#hlink#	ADD	pos2=NNP	13	attr	_	O
+16	via	via	IN	_	13	prep	_	O
+17	@POLITICOMag	@politicomag	NN	pos2=NFP	16	pobj	_	O
+18	|	|	SYM	pos2=NFP	20	punct	_	O
+19	Getty	getty	NNP	pos2=GW	20	nmod	_	O
+20	https://t.co/3EIqw4ZWNY	#hlink#	ADD	pos2=NN	13	dep	_	O
+

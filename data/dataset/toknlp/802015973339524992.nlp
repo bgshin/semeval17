@@ -1,0 +1,19 @@
+1	Tiger	tiger	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Devore	devore	NNP	_	8	dep	_	L-PERSON
+3	:	:	:	_	8	punct	_	O
+4	Understanding	understanding	NN	pos2=VBG	5	compound	_	O
+5	Intersex	intersex	NN	pos2=NNP	8	dep	_	O
+6	:	:	:	_	8	punct	_	O
+7	The	the	DT	_	8	det	_	O
+8	Call	call	NNP	pos2=NN	0	root	_	O
+9	For	for	IN	pos2=NNP	8	prep	_	O
+10	Leaving	leave	VBG	pos2=NNP	9	pcomp	_	O
+11	Bodies	body	NNS	pos2=NNPS	10	dobj	_	O
+12	Be	be	VB	pos2=GW	10	xcomp	_	O
+13	https://t.co/hNzmjUA9eR	#hlink#	ADD	pos2=VBN	12	attr	_	O
+14	via	via	IN	_	13	prep	_	O
+15	@AddThis	@addthis	NN	pos2=NNPS	14	pobj	_	B-LAW
+16	#StopIGM	#stopigm	ADD	pos2=NN	18	punct	_	L-LAW
+17	#UnitedNations	#unitednations	NNS	pos2=ADD	18	compound	_	O
+18	#Intersex	#intersex	NN	pos2=NNP	12	attr	_	O
+

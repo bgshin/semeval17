@@ -1,0 +1,17 @@
+1	@jimmyfallon	@jimmyfallon	XX	pos2=UH	4	nmod	_	O
+2	1.	0.	LS	pos2=CD	8	meta	_	U-CARDINAL
+3	Michell	michell	NNP	_	8	compound	_	O
+4	2.	0.	LS	pos2=NNP	8	meta	_	U-CARDINAL
+5	Sookie	sookie	NNP	pos2=NN	8	nmod	_	O
+6	3.	0.	CD	pos2=VBZ	8	nmod	_	U-CARDINAL
+7	Ms	m	NNS	pos2=NNP	8	compound	_	O
+8	patty	patty	NN	pos2=JJ	9	xcomp	_	O
+9	.	.	.	_	0	root	_	O
+
+1	4.	0.	LS	_	3	meta	_	U-CARDINAL
+2	Ms	m	NNS	pos2=VB	3	compound	_	O
+3	celine	celine	NN	pos2=RB	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNS	0	root	_	O
+

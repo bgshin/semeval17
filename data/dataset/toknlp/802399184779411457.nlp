@@ -1,0 +1,18 @@
+1	One	#crd#	CD	_	0	root	_	U-CARDINAL
+2	of	of	IN	_	1	prep	_	O
+3	the	the	DT	_	5	det	_	O
+4	happiest	happy	JJS	_	5	nmod	_	O
+5	days	day	NNS	_	2	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	my	my	PRP$	_	8	poss	_	O
+8	life	life	NN	_	6	pobj	_	O
+9	.	.	.	_	1	punct	_	O
+
+1	Fidel	fidel	NNP	_	2	nsubj	_	U-PERSON
+2	died	die	VBD	_	0	root	_	O
+3	and	and	CC	_	2	cc	_	O
+4	Maduro	maduro	NNP	_	5	nsubj	_	U-PERSON
+5	is	be	VBZ	_	2	conj	_	O
+6	next	next	JJ	pos2=RB	5	acomp	_	O
+7	!	!	.	_	5	punct	_	O
+

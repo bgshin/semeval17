@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det	_	O
+2	week	week	NN	_	6	poss	_	O
+3	's	's	POS	_	2	case	_	O
+4	top	top	JJ	pos2=NN	6	nmod	_	O
+5	fashion	fashion	NN	_	6	compound	_	O
+6	moments	moment	NNS	_	15	nsubj	_	O
+7	on	on	IN	_	6	prep	_	O
+8	Instagram	instagram	NNP	_	7	pobj	_	U-ORG
+9	,	,	,	_	6	punct	_	O
+10	like	like	IN	pos2=UH	6	prep	_	O
+11	@LilyAldridge	@lilyaldridge	XX	pos2=NNP	15	dep	_	O
+12	rocking	rock	VBG	pos2=GW	14	nmod	_	O
+13	@beaufille	@beaufille	GW	pos2=XX	14	nmod	_	O
+14	https://t.co/hBlpoIutbf	#hlink#	ADD	pos2=GW	15	nmod	_	O
+15	https://t.co/WZ3pF2gL7V	#hlink#	ADD	_	0	root	_	U-ORG
+

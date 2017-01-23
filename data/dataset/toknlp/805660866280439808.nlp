@@ -1,0 +1,22 @@
+1	@meezy_g	@meezy_g	XX	pos2=NNP	13	dep	_	O
+2	@notnatalie	@notnatalie	GW	pos2=NN	5	det	_	O
+3	-	-	HYPH	pos2=:	4	punct	_	O
+4	https://t.co/iEwAIengTO:	#hlink#	ADD	pos2=NN	5	nmod	_	O
+5	democracy	democracy	NN	_	13	nsubj	_	O
+6	at	at	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	whim	whim	NN	_	6	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	electoral	electoral	JJ	_	12	nmod	_	O
+12	college	college	NN	_	9	pobj	_	O
+13	Is	be	VBZ	_	0	root	_	O
+14	nut	nut	NN	_	18	compound	_	O
+15	-	-	HYPH	_	18	punct	_	O
+16	worthy	worthy	JJ	_	18	nmod	_	O
+17	-	-	HYPH	_	18	punct	_	O
+18	@realDonaldTrump	@realdonaldtrump	NN	pos2=NNS	13	attr	_	O
+19	(	(	-LRB-	_	18	punct	_	O
+20	??	??	.	pos2=SYM	13	punct	_	O
+21	)	)	-RRB-	_	13	punct	_	O
+

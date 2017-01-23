@@ -1,0 +1,25 @@
+1	@novorumonovo	@novorumonovo	UH	pos2=FW	11	discourse	_	O
+2	#SYRIA	#syria	NN	pos2=NFP	11	vocative	_	O
+3	Why	why	WRB	_	11	advmod	_	O
+4	should	should	MD	_	11	aux	_	O
+5	the	the	DT	_	7	det	_	O
+6	good	good	JJ	_	7	nmod	_	O
+7	people	people	NNS	_	11	nsubj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	East	east	NNP	pos2=JJ	8	pobj	_	B-NORP
+10	#ALEPPO	#aleppo	TO	pos2=NNP	11	aux	_	L-NORP
+11	leave	leave	VB	pos2=VBP	0	root	_	O
+12	their	their	PRP$	_	13	poss	_	O
+13	homes	home	NNS	_	11	dobj	_	O
+14	under	under	IN	_	11	prep	_	O
+15	an	an	DT	_	17	det	_	O
+16	Assad	assad	NNP	_	17	compound	_	O
+17	Regime	regime	NNP	pos2=NN	14	pobj	_	O
+18	"	"	``	pos2=''	19	punct	_	O
+19	Kneel	kneel	VB	pos2=NNP	23	nmod	_	O
+20	or	or	CC	_	19	cc	_	O
+21	Starve	starve	VB	_	19	conj	_	O
+22	"	"	''	pos2=``	19	punct	_	O
+23	campaign	campaign	NN	_	24	dative	_	O
+24	?	?	.	_	11	punct	_	O
+

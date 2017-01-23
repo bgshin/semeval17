@@ -1,0 +1,9 @@
+1	HILL	hill	NN	pos2=NNP	0	root	_	O
+2	YES	yes	UH	_	1	discourse	_	O
+3	!!	!!	.	_	1	punct	_	O
+
+1	#ImWithHer	#imwithher	GW	pos2=ADD	4	nmod	_	O
+2	#TrumpNeverAnyone'sPresident	#trumpneveranyone'spresident	GW	pos2=JJ	4	nmod	_	O
+3	#UniteBlue	#uniteblue	GW	pos2=ADD	4	nmod	_	O
+4	https://t.co/RD7hPtH1Lz	#hlink#	ADD	pos2=NN	0	root	_	O
+

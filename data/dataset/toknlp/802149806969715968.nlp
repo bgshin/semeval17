@@ -1,0 +1,22 @@
+1	Girl	girl	NN	pos2=UH	2	nsubj	_	O
+2	look	look	VB	pos2=NN	0	root	_	O
+3	at	at	IN	_	2	prep	_	O
+4	body	body	NN	_	3	pobj	_	O
+5	!!	!!	.	_	2	punct	_	O
+
+1	#OMG	#omg	NN	pos2=``	2	compound	_	O
+2	@ricky_martin	@ricky_martin	NNP	pos2=NN	6	npadvmod	_	U-ORG
+3	"	"	''	pos2=``	2	punct	_	O
+4	'	'	``	pos2=POS	6	punct	_	O
+5	Im	im	NN	pos2=NNP	6	npadvmod	_	O
+6	sexy	sexy	JJ	pos2=NN	15	nmod	_	O
+7	and	and	CC	_	6	cc	_	O
+8	I	I	PRP	_	9	nsubj	_	O
+9	know	know	VBP	_	6	conj	_	O
+10	it	it	PRP	_	12	nsubj	_	O
+11	"	"	``	pos2=''	12	punct	_	O
+12	#Hot	#hot	NNP	pos2=ADD	15	dep	_	B-WORK_OF_ART
+13	#sexy	#sexy	UH	pos2=GW	14	discourse	_	I-WORK_OF_ART
+14	#sexyfriday	#sexyfriday	UH	pos2=GW	15	discourse	_	L-WORK_OF_ART
+15	https://t.co/zgekXN8aor	#hlink#	ADD	pos2=UH	0	root	_	O
+

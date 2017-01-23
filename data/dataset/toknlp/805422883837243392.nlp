@@ -1,0 +1,10 @@
+1	@TheBortz	@thebortz	NNP	pos2=XX	4	compound	_	O
+2	Como	como	NNP	_	4	compound	_	B-WORK_OF_ART
+3	Ashley	ashley	NNP	_	4	compound	_	I-WORK_OF_ART
+4	Graham	graham	NNP	_	0	root	_	I-WORK_OF_ART
+5	en	en	IN	pos2=FW	8	advmod	_	I-WORK_OF_ART
+6	Resident	resident	NNP	_	2	appos	_	I-WORK_OF_ART
+7	Evil	evil	NNP	_	6	appos	_	I-WORK_OF_ART
+8	4	0	CD	pos2=NNP	4	npadvmod	_	I-WORK_OF_ART
+9	?	?	.	_	4	punct	_	L-WORK_OF_ART
+

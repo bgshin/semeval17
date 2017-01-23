@@ -1,0 +1,24 @@
+1	Four	#crd#	CD	_	3	nmod	_	U-CARDINAL
+2	new	new	JJ	_	3	nmod	_	O
+3	technologies	technology	NNS	_	23	dep	_	O
+4	impacting	impact	VBG	_	3	acl	_	O
+5	every	every	DT	_	7	det	_	O
+6	business	business	NN	_	7	compound	_	O
+7	industry	industry	NN	_	4	dobj	_	O
+8	in	in	IN	_	4	prep	_	O
+9	the	the	DT	_	11	det	_	O
+10	near	near	JJ	_	11	nmod	_	O
+11	future	future	NN	pos2=JJ	8	pobj	_	O
+12	-	-	:	pos2=,	23	punct	_	O
+13	the	the	DT	_	23	det	_	O
+14	Leonardo	leonardo	NNP	_	15	compound	_	O
+15	DiCaprio	dicaprio	NNP	_	17	npadvmod	_	O
+16	-	-	HYPH	_	17	punct	_	O
+17	augmented	augment	VBN	_	18	nmod	_	O
+18	reality	reality	NN	_	23	nmod	_	O
+19	-3	0	CD	_	23	nmod	_	U-CARDINAL
+20	D	d	NN	pos2=JJ	23	compound	_	O
+21	printing	printing	NN	pos2=VBG	23	compound	_	O
+22	-	-	HYPH	pos2=:	23	punct	_	O
+23	robotics	robotics	NNS	_	0	root	_	O
+

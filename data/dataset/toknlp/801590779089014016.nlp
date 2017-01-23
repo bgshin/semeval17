@@ -1,0 +1,26 @@
+1	12	0	CD	pos2=LS	6	npadvmod	_	U-CARDINAL
+2	,	,	,	_	1	punct	_	O
+3	4	0	CD	pos2=NN	1	conj	_	U-CARDINAL
+4	and	and	CC	_	3	cc	_	O
+5	3	0	CD	_	3	conj	_	U-CARDINAL
+6	to	to	IN	_	10	dative	_	O
+7	Grayson	grayson	NNP	_	8	compound	_	B-PERSON
+8	Allen	allen	NNP	_	6	pobj	_	L-PERSON
+9	at	at	IN	_	12	conj	_	O
+10	the	the	DT	_	11	det	_	O
+11	half	half	NN	_	9	pobj	_	U-CARDINAL
+12	.	.	.	_	0	root	_	O
+
+1	Still	still	RB	_	4	advmod	_	O
+2	not	not	RB	_	4	neg	_	O
+3	100	0	CD	_	4	nmod	_	B-PERCENT
+4	%	%	NN	_	9	advmod	_	L-PERCENT
+5	but	but	CC	_	7	cc	_	O
+6	that	that	DT	_	7	nsubj	_	O
+7	’s	's	VBZ	_	0	root	_	O
+8	a	a	DT	_	11	det	_	O
+9	decent	decent	JJ	_	11	nmod	_	O
+10	first	#ord#	JJ	pos2=RB	11	nmod	_	O
+11	half	half	NN	pos2=RB	7	attr	_	O
+12	.	.	.	_	7	punct	_	O
+

@@ -1,0 +1,18 @@
+1	What	what	WP	pos2=WDT	3	nsubj	_	O
+2	's	's	VBZ	_	3	aux	_	O
+3	happening	happen	VBG	_	6	csubj	_	O
+4	in	in	IN	_	3	prep	_	O
+5	#Yemen	#yemen	NNP	pos2=NNS	4	pobj	_	U-ORG
+6	is	be	VBZ	_	0	root	_	O
+7	nothing	nothing	NN	_	6	attr	_	O
+8	less	less	JJR	_	7	nmod	_	O
+9	than	than	IN	_	8	prep	_	O
+10	government	government	NN	_	12	npadvmod	_	O
+11	-	-	HYPH	_	12	punct	_	O
+12	sanctioned	sanction	VBN	_	14	nmod	_	O
+13	child	child	NN	_	14	compound	_	O
+14	abuse	abuse	NN	_	9	pobj	_	O
+15	.	.	.	_	6	punct	_	O
+
+1	https://t.co/Cf3Kgiauaa	#hlink#	ADD	_	0	root	_	U-ORG
+

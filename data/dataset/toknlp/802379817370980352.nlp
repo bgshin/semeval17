@@ -1,0 +1,11 @@
+1	A	a	DT	_	2	det	_	O
+2	Democrat	democrat	NNP	_	0	root	_	U-NORP
+3	paid	pay	VBN	pos2=VBD	2	acl	_	O
+4	for	for	IN	_	3	prep	_	O
+5	by	by	IN	_	3	agent	_	O
+6	George	george	NNP	_	7	compound	_	B-PERSON
+7	Soros	soros	NNP	_	5	pobj	_	L-PERSON
+8	.	.	.	_	3	punct	_	O
+
+1	https://t.co/Ci0w1lXKZM	#hlink#	ADD	_	0	root	_	U-ORG
+

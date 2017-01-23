@@ -1,0 +1,19 @@
+1	Get	get	VB	_	0	root	_	O
+2	$	$	$	_	3	nmod	_	O
+3	1,000	0	CD	_	1	dobj	_	U-MONEY
+4	off	off	IN	pos2=RP	1	prep	_	O
+5	a	a	DT	_	8	det	_	O
+6	Tesla	tesla	NNP	_	8	compound	_	B-ORG
+7	Model	model	NNP	pos2=NN	8	compound	_	I-ORG
+8	S	s	NNP	pos2=NN	4	pobj	_	L-ORG
+9	or	or	CC	_	8	cc	_	O
+10	X	x	NNP	pos2=NN	8	conj	_	O
+11	!	!	.	_	1	punct	_	O
+
+1	Use	use	VB	_	0	root	_	O
+2	my	my	PRP$	_	4	poss	_	O
+3	promo	promo	NN	_	4	compound	_	O
+4	code	code	NN	_	1	dobj	_	O
+5	:	:	:	_	1	punct	_	O
+6	https://t.co/j2TKzngdpk	#hlink#	ADD	_	1	dep	_	U-ORG
+

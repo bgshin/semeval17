@@ -1,0 +1,21 @@
+1	Ethical	ethical	JJ	_	2	nmod	_	O
+2	ingredients	ingredient	NNS	_	7	nsubj	_	O
+3	and	and	CC	_	2	cc	_	O
+4	no	no	DT	_	6	det	_	O
+5	animal	animal	NN	_	6	compound	_	O
+6	testing	testing	NN	pos2=VBG	2	conj	_	O
+7	play	play	VB	pos2=NN	0	root	_	O
+8	a	a	DT	_	9	det	_	O
+9	role	role	NN	_	7	dobj	_	O
+10	too	too	RB	_	7	advmod	_	O
+11	and	and	CC	_	7	cc	_	O
+12	I	I	PRP	_	15	nsubj	_	O
+13	'd	would	MD	_	15	aux	_	O
+14	rather	rather	RB	_	15	advmod	_	O
+15	pay	pay	VB	_	7	conj	_	O
+16	more	more	JJR	_	17	nmod	_	O
+17	money	money	NN	_	15	dobj	_	O
+18	for	for	IN	_	15	prep	_	O
+19	morality	morality	NN	_	18	pobj	_	O
+20	https://t.co/hAQ1s1TePV	#hlink#	ADD	pos2=NN	17	nmod	_	U-ORG
+

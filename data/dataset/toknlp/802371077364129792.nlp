@@ -1,0 +1,19 @@
+1	Surprised	surprised	JJ	pos2=VBN	0	root	_	O
+2	if	if	IN	_	13	mark	_	O
+3	pro-Zionist	pro-zionist	JJ	_	5	nmod	_	U-NORP
+4	conspiracy	conspiracy	NN	_	5	compound	_	O
+5	nut	nut	NN	_	7	compound	_	O
+6	Aaron	aaron	NNP	_	7	compound	_	B-PERSON
+7	Weisburd	weisburd	NNP	_	13	nsubj	_	L-PERSON
+8	of	of	IN	_	7	prep	_	O
+9	Internet	internet	NNP	pos2=NN	10	compound	_	O
+10	Haganah	haganah	NNP	_	8	pobj	_	O
+11	&	&	CC	_	10	cc	_	O
+12	@KremlinTrolls	@kremlintrolls	NNP	pos2=ADD	10	conj	_	O
+13	is	be	VBZ	_	1	ccomp	_	O
+14	nt	nt	RB	_	13	advmod	_	O
+15	behind	behind	IN	pos2=RB	13	prep	_	O
+16	NeoMcarthyite	neomcarthyite	NNP	pos2=JJ	17	compound	_	U-ORG
+17	blacklist	blacklist	NN	pos2=VBP	15	pobj	_	O
+18	@propornot	@propornot	.	pos2=RB	1	punct	_	O
+

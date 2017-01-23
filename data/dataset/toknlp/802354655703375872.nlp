@@ -1,0 +1,31 @@
+1	"	"	``	_	4	punct	_	O
+2	Post	post	NNP	pos2=AFX	4	compound	_	O
+3	-	-	HYPH	_	4	punct	_	O
+4	news	news	NN	_	0	root	_	O
+5	,	,	,	_	4	punct	_	O
+6	perhaps	perhaps	RB	_	4	advmod	_	O
+7	?	?	.	_	4	punct	_	O
+8	"	"	''	_	4	punct	_	O
+
+1	"	"	``	_	8	punct	_	O
+2	An	an	DT	_	3	det	_	O
+3	image	image	NN	_	8	nsubjpass	_	O
+4	of	of	IN	_	3	prep	_	O
+5	Melania	melania	NNP	_	6	compound	_	B-PERSON
+6	Trump	trump	NNP	_	4	pobj	_	L-PERSON
+7	was	be	VBD	_	8	auxpass	_	O
+8	posted	post	VBN	_	0	root	_	O
+9	on	on	IN	_	8	prep	_	O
+10	Fox	fox	NNP	_	11	compound	_	B-ORG
+11	News	news	NNP	_	9	pobj	_	L-ORG
+12	The	the	DT	pos2=NNP	14	det	_	O
+13	FB	fb	NNP	_	14	compound	_	O
+14	Page	page	NNP	_	11	appos	_	O
+15	,	,	,	_	14	punct	_	O
+16	an	an	DT	_	18	det	_	O
+17	entertainment	entertainment	NN	_	18	compound	_	O
+18	page	page	NN	_	14	appos	_	O
+19	that	that	WDT	pos2=IN	21	dep	_	O
+20	…	…	NFP	pos2=VBD	21	punct	_	O
+21	https://t.co/gjCw9UY5jS	#hlink#	ADD	_	17	relcl	_	O
+

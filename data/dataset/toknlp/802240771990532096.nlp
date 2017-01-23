@@ -1,0 +1,29 @@
+1	“	"	``	_	3	punct	_	O
+2	We	we	PRP	_	3	nsubj	_	O
+3	’re	be	VBP	_	0	root	_	O
+4	an	an	DT	_	6	det	_	O
+5	important	important	JJ	_	6	nmod	_	O
+6	producer	producer	NN	_	3	attr	_	O
+7	in	in	IN	_	6	prep	_	O
+8	that	that	DT	_	9	det	_	O
+9	area	area	NN	_	7	pobj	_	O
+10	and	and	CC	_	3	cc	_	O
+11	we	we	PRP	_	12	nsubj	_	O
+12	have	have	VBP	_	3	conj	_	O
+13	to	to	TO	_	14	aux	_	O
+14	respect	respect	VB	_	12	xcomp	_	O
+15	our	our	PRP$	_	16	poss	_	O
+16	clients	client	NNS	_	14	dobj	_	O
+17	on	on	IN	_	14	prep	_	O
+18	both	both	DT	_	19	det	_	O
+19	sides	side	NNS	_	17	pobj	_	O
+20	of	of	IN	_	19	prep	_	O
+21	the	the	DT	_	22	det	_	O
+22	border	border	NN	_	20	pobj	_	O
+23	,	,	,	_	25	punct	_	O
+24	”	"	''	pos2=``	25	compound	_	O
+25	CEO	ceo	NN	pos2=NNP	22	appos	_	O
+26	...	..	.	pos2=,	12	punct	_	O
+
+1	https://t.co/2xqbH5zYlH	#hlink#	ADD	_	0	root	_	U-ORG
+

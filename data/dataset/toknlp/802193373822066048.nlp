@@ -1,0 +1,11 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@wikileaks	@wikileaks	UH	pos2=NNS	6	discourse	_	O
+2	#Yemen	#yemen	NNP	pos2=UH	5	poss	_	U-ORG
+3	#Vietnam	#vietnam	POS	pos2=NNP	2	case	_	O
+4	scene	scene	NN	_	5	compound	_	O
+5	difference	difference	NN	pos2=VBP	0	root	_	O
+6	scurrying	scurry	VBG	_	5	acl	_	O
+7	to	to	IN	_	6	prep	_	O
+8	#HillaryClinton	#hillaryclinton	NNP	pos2=ADD	7	pobj	_	U-LOC
+

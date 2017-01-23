@@ -1,0 +1,8 @@
+1	Speaking	speak	VBG	pos2=NN	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	#TrumpTransitionTeam	#trumptransitionteam	NNP	pos2=NN	2	pobj	_	U-PERSON
+5	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/3J5OGyVREJ	#hlink#	ADD	_	0	root	_	U-ORG
+

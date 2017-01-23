@@ -1,0 +1,29 @@
+1	#Dems	#dems	NNS	pos2=VBZ	9	nsubj	_	O
+2	like	like	UH	pos2=IN	1	discourse	_	O
+3	#Pelosi	#pelosi	NNP	pos2=NNS	1	appos	_	B-ORG
+4	&	&	CC	_	3	cc	_	I-ORG
+5	#Boxer	#boxer	NNP	pos2=NN	3	conj	_	L-ORG
+6	r	r	NN	pos2=SYM	9	nsubj	_	O
+7	struggling	struggle	VBG	_	6	acl	_	O
+8	2	0	CD	_	9	nsubj	_	U-CARDINAL
+9	hang	hang	VB	pos2=NNS	0	root	_	O
+10	on	on	IN	pos2=RP	9	prep	_	O
+11	2	0	CD	_	10	pobj	_	U-CARDINAL
+12	what	what	WDT	pos2=WP	14	det	_	O
+13	little	little	JJ	_	14	nmod	_	O
+14	power	power	NN	_	17	dobj	_	O
+15	they	they	PRP	_	17	nsubj	_	O
+16	can	can	MD	_	17	aux	_	O
+17	wield	wield	VB	_	9	advcl	_	O
+18	.	.	.	_	9	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	2	0	CD	pos2=TO	7	nmod	_	U-CARDINAL
+4	realise	realise	VBP	pos2=VB	2	dep	_	O
+5	a	a	DT	_	7	det	_	O
+6	younger	young	JJR	_	7	nmod	_	O
+7	generation	generation	NN	_	9	nsubj	_	O
+8	is	be	VBZ	_	9	aux	_	O
+9	waiting	wait	VBG	_	2	ccomp	_	O
+

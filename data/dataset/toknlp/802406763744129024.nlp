@@ -1,0 +1,18 @@
+1	Venezuelan	venezuelan	JJ	_	2	nmod	_	U-NORP
+2	President	president	NNP	_	3	compound	_	O
+3	Maduro	maduro	NNP	_	5	dep	_	U-PERSON
+4	:	:	:	_	5	punct	_	O
+5	Fidel	fidel	NNP	_	10	nsubj	_	U-PERSON
+6	in	in	IN	_	5	prep	_	O
+7	eternal	eternal	JJ	_	8	nmod	_	O
+8	life	life	NN	_	6	pobj	_	O
+9	will	will	MD	_	10	aux	_	O
+10	fight	fight	VB	_	0	root	_	O
+11	on	on	IN	pos2=RP	10	prt	_	O
+12	until	until	IN	_	10	prep	_	O
+13	victory	victory	NN	_	12	pobj	_	O
+14	forever	forever	RB	_	10	advmod	_	O
+15	.	.	.	_	10	punct	_	O
+
+1	https://t.co/puYnpHbRKy	#hlink#	ADD	_	0	root	_	U-ORG
+

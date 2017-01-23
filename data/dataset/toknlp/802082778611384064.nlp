@@ -1,0 +1,9 @@
+1	PLEASE	please	UH	_	2	discourse	_	O
+2	FUCK	fuck	VB	_	0	root	_	O
+3	ME	me	PRP	pos2=RB	2	dobj	_	O
+4	HARD	hard	RB	pos2=JJ	2	advmod	_	O
+5	BY	by	IN	_	2	prep	_	O
+6	RICKY	ricky	NNP	pos2=GW	7	compound	_	B-PERSON
+7	MARTIN	martin	NNP	_	5	pobj	_	L-PERSON
+8	https://t.co/7VjdeMqEFB	#hlink#	ADD	pos2=NNP	6	appos	_	O
+

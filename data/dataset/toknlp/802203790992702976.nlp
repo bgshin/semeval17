@@ -1,0 +1,14 @@
+1	@cineworld	@cineworld	UH	pos2=MD	2	discourse	_	O
+2	#FantasticBeasts	#fantasticbeasts	NNS	pos2=VBZ	5	vocative	_	O
+3	#cheltenham	#cheltenham	UH	pos2=VBP	2	discourse	_	O
+4	#datenight	#datenight	UH	pos2=MD	2	discourse	_	O
+5	#IMAX	#imax	MD	pos2=NN	0	root	_	O
+6	SO	so	RB	_	7	advmod	_	O
+7	EXCITED	excited	JJ	pos2=VB	5	acomp	_	O
+8	TO	to	TO	_	9	aux	_	O
+9	SEE	see	VB	_	7	xcomp	_	O
+10	THIS	this	DT	_	9	dobj	_	O
+11	!	!	.	_	5	punct	_	O
+
+1	https://t.co/SKIisDEBm1	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,18 @@
+1	Save	save	VB	pos2=VBP	0	root	_	O
+2	33	0	CD	_	3	nmod	_	B-PERCENT
+3	%	%	NN	_	1	dobj	_	L-PERCENT
+4	!	!	.	_	1	punct	_	O
+
+1	-	-	SYM	pos2=:	12	punct	_	O
+2	MLB	mlb	NNP	_	5	compound	_	B-ORG
+3	Chicago	chicago	NNP	_	5	compound	_	I-ORG
+4	Cubs	cub	NNPS	pos2=NNP	5	compound	_	L-ORG
+5	Kid	kid	NNP	_	8	poss	_	O
+6	's	's	POS	_	5	case	_	O
+7	Jersey	jersey	NNP	_	8	compound	_	B-WORK_OF_ART
+8	Toothbrush	toothbrush	NNP	pos2=NN	12	dep	_	L-WORK_OF_ART
+9	https://t.co/H2TM15kya2	#hlink#	ADD	_	10	nsubj	_	O
+10	#sports	#sports	VBZ	pos2=-RRB-	12	dep	_	O
+11	#siskiyou	#siskiyou	-LRB-	pos2=IN	12	punct	_	O
+12	https://t.co/GZiooLXw0C	#hlink#	ADD	_	0	root	_	O
+

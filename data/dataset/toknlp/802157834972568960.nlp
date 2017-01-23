@@ -1,0 +1,27 @@
+1	Among	among	IN	_	10	prep	_	O
+2	#Libya	#libya	NNP	pos2=PRP	6	poss	_	U-LOC
+3	’s	's	POS	pos2=VBZ	2	case	_	O
+4	politically	politically	RB	_	5	advmod	_	O
+5	relevant	relevant	JJ	_	6	nmod	_	O
+6	elites	elite	NNS	_	1	pobj	_	O
+7	today	today	NN	_	12	npadvmod	_	U-DATE
+8	,	,	,	_	10	punct	_	O
+9	I	I	PRP	_	10	nsubj	_	O
+10	doubt	doubt	VBP	_	0	root	_	O
+11	there	there	EX	pos2=RB	12	expl	_	O
+12	is	be	VBZ	_	10	ccomp	_	O
+13	1	0	CD	_	14	nmod	_	U-CARDINAL
+14	group	group	NN	_	12	attr	_	O
+15	that	that	WDT	_	18	nsubj	_	O
+16	has	have	VBZ	_	18	aux	_	O
+17	n’t	not	RB	_	18	neg	_	O
+18	committed	commit	VBN	pos2=JJ	14	relcl	_	O
+19	atrocities	atrocity	NNS	_	18	dobj	_	O
+20	;	;	,	pos2=:	10	punct	_	O
+21	so	so	RB	_	10	advmod	_	O
+22	.	.	.	_	10	punct	_	O
+
+1	.	.	.	_	0	punct	_	O
+
+1	https://t.co/XZgshyjZoC	#hlink#	ADD	_	0	root	_	U-ORG
+

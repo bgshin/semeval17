@@ -1,0 +1,16 @@
+1	In	in	IN	_	7	prep	_	O
+2	other	other	JJ	_	3	nmod	_	O
+3	news	news	NN	_	1	pobj	_	O
+4	,	,	,	_	7	punct	_	O
+5	Trump	trump	NNP	pos2=VB	6	compound	_	U-ORG
+6	waves	wave	NNS	pos2=VBZ	7	nsubj	_	O
+7	goodbye	goodbye	VBP	pos2=NN	0	root	_	O
+8	to	to	IN	_	7	prep	_	O
+9	Petro	petro	NNP	_	10	compound	_	B-ORG
+10	Poroshenko	poroshenko	NNP	_	8	pobj	_	L-ORG
+11	,	,	,	_	10	punct	_	O
+12	President	president	NNP	_	10	appos	_	O
+13	of	of	IN	_	12	prep	_	O
+14	Ukraine	ukraine	NNP	_	13	pobj	_	U-GPE
+15	https://t.co/3P0Dhgpaj2	#hlink#	ADD	pos2=NNP	14	appos	_	O
+

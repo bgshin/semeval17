@@ -1,0 +1,17 @@
+1	Presenting	present	VBG	_	0	nsubj	_	O
+2	Seedo	seedo	NNP	pos2=NN	16	dep	_	O
+3	:	:	:	_	16	punct	_	O
+4	World	world	NNP	_	6	poss	_	U-ORG
+5	's	's	POS	_	4	case	_	O
+6	First	#ord#	NNP	_	16	dep	_	U-ORDINAL
+7	Fully	fully	RB	_	9	advmod	_	O
+8	-	-	HYPH	pos2=:	9	punct	_	O
+9	Automated	automate	VBN	pos2=NNP	13	nmod	_	O
+10	Hydroponic	hydroponic	JJ	pos2=NNP	11	nmod	_	O
+11	Marijuana	marijuana	NNP	_	13	compound	_	O
+12	Grow	grow	NNP	pos2=VB	13	compound	_	O
+13	System	system	NNP	pos2=NN	16	dep	_	O
+14	#MedicalCannabis	#medicalcannabis	POS	pos2=GW	13	case	_	O
+15	#MedicalMarijuana	#medicalmarijuana	ADD	pos2=GW	16	nmod	_	O
+16	https://t.co/f9h2dTGPOQ	#hlink#	ADD	_	1	dep	_	O
+

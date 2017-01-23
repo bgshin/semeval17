@@ -1,0 +1,21 @@
+1	@Samir_Madani	@samir_madani	ADD	pos2=NNS	3	punct	_	O
+2	@Lisa_Ward1990	@lisa_ward0	NN	pos2=ADD	3	compound	_	O
+3	@stinga0207	@stinga0	NN	pos2=LS	16	dep	_	O
+4	@anasalhajji	@anasalhajji	UH	pos2=XX	3	discourse	_	O
+5	If	if	IN	_	7	mark	_	O
+6	I	I	PRP	_	7	nsubj	_	O
+7	see	see	VBP	_	16	advcl	_	O
+8	fracking	fracking	VBG	pos2=NN	9	nsubj	_	O
+9	take	take	VB	pos2=VBN	7	ccomp	_	O
+10	place	place	NN	_	9	dobj	_	O
+11	in	in	IN	_	9	prep	_	O
+12	NZ	nz	NNP	_	11	pobj	_	U-GPE
+13	,	,	,	_	16	punct	_	O
+14	I	I	PRP	_	16	nsubj	_	O
+15	'll	will	MD	_	16	aux	_	O
+16	eat	eat	VB	_	0	root	_	O
+17	my	my	PRP$	_	19	poss	_	O
+18	rugby	rugby	NN	_	19	compound	_	O
+19	jersey	jersey	NN	pos2=NNP	16	dobj	_	O
+20	.	.	.	_	16	punct	_	O
+

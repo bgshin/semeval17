@@ -1,0 +1,15 @@
+1	"	"	``	pos2=''	14	punct	_	O
+2	#ChristophWaltz	#christophwaltz	NNS	pos2=NN	14	dep	_	O
+3	,	,	,	_	14	punct	_	O
+4	#Galaxy	#galaxy	NNP	pos2=PRP$	5	compound	_	O
+5	Note	note	NN	pos2=VB	14	dep	_	O
+6	7	0	CD	_	5	nmod	_	U-CARDINAL
+7	,	,	,	_	2	punct	_	O
+8	and	and	CC	_	4	cc	_	O
+9	'	'	``	_	10	punct	_	O
+10	Murica	murica	NNP	_	5	conj	_	U-PERSON
+11	"	"	''	_	10	punct	_	O
+12	#android	#android	FW	pos2=GW	14	dep	_	O
+13	#mobile	#mobile	IN	pos2=ADD	14	nmod	_	O
+14	https://t.co/7vT5CCSFrX	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,18 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	say	say	VBP	_	0	root	_	O
+3	we	we	PRP	_	4	nsubj	_	O
+4	elect	elect	VBP	pos2=VB	2	ccomp	_	O
+5	David	david	NNP	_	6	compound	_	B-PERSON
+6	Blaine	blaine	NNP	_	4	dobj	_	L-PERSON
+7	as	as	IN	_	4	prep	_	O
+8	president	president	NN	pos2=GW	7	pobj	_	O
+9	so	so	IN	pos2=RB	12	mark	_	O
+10	he	he	PRP	_	12	nsubj	_	O
+11	can	can	MD	_	12	aux	_	O
+12	make	make	VB	_	7	pcomp	_	O
+13	all	all	DT	_	17	nsubj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	our	our	PRP$	_	16	poss	_	O
+16	problems	problem	NNS	_	14	pobj	_	O
+17	disappear	disappear	VBP	pos2=VB	12	ccomp	_	O
+

@@ -1,0 +1,20 @@
+1	@MariamVeiszadeh	@mariamveiszadeh	NNP	pos2=ADD	2	compound	_	O
+2	Change	change	NNP	pos2=NN	3	nsubj	_	O
+3	happens	happen	VBZ	_	0	root	_	O
+4	at	at	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	margins	margin	NNS	_	4	pobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	Australians	australian	NNPS	pos2=NNS	2	nsubj	_	U-NORP
+2	are	be	VBP	_	0	root	_	O
+3	n't	not	RB	_	2	neg	_	O
+4	all	all	DT	pos2=RB	2	dep	_	O
+5	like	like	IN	pos2=VB	2	prep	_	O
+6	Dutton	dutton	NNP	_	5	pobj	_	U-PERSON
+7	,	,	,	_	6	punct	_	O
+8	Hanson	hanson	NNP	_	6	conj	_	U-PERSON
+9	,	,	,	_	8	punct	_	O
+10	alt	alt	JJ	_	11	nmod	_	O
+11	rightists	rightist	NNS	_	6	appos	_	O
+

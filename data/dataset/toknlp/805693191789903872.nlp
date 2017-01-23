@@ -1,0 +1,19 @@
+1	In	in	IN	_	13	prep	_	O
+2	the	the	DT	_	5	det	_	O
+3	media	media	NN	pos2=NNS	5	compound	_	O
+4	-	-	HYPH	pos2=:	5	punct	_	O
+5	@thetimes	@thetimes	VBZ	pos2=NN	1	pobj	_	O
+6	:	:	:	_	13	punct	_	O
+7	"	"	``	_	9	punct	_	O
+8	Abortion	abortion	NN	pos2=NNP	9	compound	_	O
+9	rights	right	NNS	_	13	nsubjpass	_	O
+10	‘	'	''	_	9	punct	_	O
+11	could	could	MD	_	13	aux	_	O
+12	be	be	VB	_	13	auxpass	_	O
+13	put	put	VBN	_	0	root	_	O
+14	in	in	IN	pos2=RP	13	prep	_	O
+15	constitution	constitution	NN	_	14	pobj	_	O
+16	'	'	''	pos2=POS	13	punct	_	O
+17	"	"	''	pos2=``	13	punct	_	O
+18	https://t.co/hEXCDMcovw	#hlink#	ADD	pos2=NN	13	dobj	_	O
+

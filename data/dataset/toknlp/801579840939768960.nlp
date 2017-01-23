@@ -1,0 +1,23 @@
+1	Offseason	offseason	NN	pos2=NNP	2	compound	_	O
+2	awards	award	NNS	_	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	a	a	DT	_	5	det	_	O
+5	topic	topic	NN	_	2	appos	_	O
+6	that	that	WDT	_	7	nsubj	_	O
+7	drives	drive	VBZ	_	5	relcl	_	O
+8	everybody	everybody	NN	_	7	dobj	_	O
+9	mad	mad	JJ	_	7	oprd	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	That	that	DT	_	11	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	more	more	JJR	pos2=RBR	1	conj	_	O
+4	in	in	IN	_	1	prep	_	O
+5	@Shaun_TSP	@shaun_tsp	NNP	pos2=NN	8	poss	_	U-ORG
+6	's	's	POS	_	5	case	_	O
+7	latest	late	JJS	_	8	nmod	_	O
+8	Wind	wind	NN	_	4	pobj	_	O
+9	Up	up	RP	pos2=NN	8	prt	_	O
+10	:	:	:	_	11	punct	_	O
+11	https://t.co/IJegpTZ7NY	#hlink#	ADD	pos2=NN	0	root	_	O
+

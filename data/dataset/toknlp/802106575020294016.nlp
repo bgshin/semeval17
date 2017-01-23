@@ -1,0 +1,20 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=ADD	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	from	from	IN	_	2	prep	_	O
+7	@botanicsage	@botanicsage	ADD	pos2=-LRB-	6	pobj	_	O
+8	https://t.co/WOdWmOS3gj	#hlink#	ADD	pos2=NNP	6	pobj	_	O
+9	Touch	touch	VB	pos2=NNP	5	relcl	_	O
+10	My	my	PRP$	_	11	poss	_	O
+11	Coffee	coffee	NN	pos2=NNP	9	dobj	_	O
+12	(	(	-LRB-	_	16	punct	_	O
+13	Eminem	eminem	NNP	pos2=NN	11	appos	_	O
+14	vs	vs	FW	pos2=CC	11	cc	_	O
+15	"	"	``	_	16	punct	_	O
+16	Persona	persona	NN	pos2=NNP	11	appos	_	O
+17	5	0	CD	_	16	npadvmod	_	U-CARDINAL
+18	"	"	''	pos2=NNS	16	punct	_	O
+19	)	)	-RRB-	_	2	punct	_	O
+

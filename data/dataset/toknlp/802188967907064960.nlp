@@ -1,0 +1,21 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	added	add	VBD	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	video	video	NN	_	2	dobj	_	O
+5	to	to	IN	_	2	prep	_	O
+6	a	a	DT	_	8	det	_	O
+7	@YouTube	@youtube	JJ	pos2=CD	8	nmod	_	O
+8	playlist	playlist	NN	_	5	pobj	_	O
+9	https://t.co/ES7UlKJIo7	#hlink#	ADD	pos2=POS	11	compound	_	O
+10	BEN	ben	NNP	pos2=IN	11	compound	_	B-PERSON
+11	CARSON	carson	NNP	pos2=NN	8	appos	_	L-PERSON
+12	speach	speach	NN	_	14	npadvmod	_	O
+13	-	-	HYPH	pos2=:	14	punct	_	O
+14	many	many	JJ	_	15	nmod	_	O
+15	inventions	invention	NNS	_	11	appos	_	O
+16	and	and	CC	_	15	cc	_	O
+17	ideas	idea	NNS	_	15	conj	_	O
+18	from	from	IN	_	15	prep	_	O
+19	Black	black	NNP	pos2=JJ	20	compound	_	O
+20	Americans	american	NNPS	_	18	pobj	_	U-NORP
+

@@ -1,0 +1,11 @@
+1	Google	google	NNP	_	3	compound	_	B-ORG
+2	Earth	earth	NNP	pos2=NN	3	compound	_	I-ORG
+3	VR	vr	NNP	pos2=NN	10	dep	_	L-ORG
+4	|	|	SYM	pos2=,	3	punct	_	O
+5	3	0	CD	_	10	dep	_	U-CARDINAL
+6	D	d	NNP	pos2=NN	10	dep	_	O
+7	Rudder	rudder	NN	pos2=NNP	10	dep	_	O
+8	#autocad	#autocad	XX	pos2=GW	10	nmod	_	O
+9	#blog	#blog	GW	pos2=-LRB-	10	nmod	_	O
+10	https://t.co/gkcnPWFP35	#hlink#	ADD	_	0	root	_	O
+

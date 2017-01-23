@@ -1,0 +1,16 @@
+1	@MikeDruck	@mikedruck	UH	pos2=NN	3	discourse	_	O
+2	@katielaroque	@katielaroque	UH	pos2=VB	3	discourse	_	O
+3	meow	meow	UH	pos2=NN	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+
+1	When	when	WRB	_	5	advmod	_	O
+2	did	do	VBD	_	5	aux	_	O
+3	this	this	DT	_	4	det	_	O
+4	catfight	catfight	NN	_	5	nsubj	_	O
+5	get	get	VB	pos2=VBP	0	root	_	O
+6	so	so	RB	_	7	advmod	_	O
+7	bad	bad	JJ	_	5	acomp	_	O
+8	?	?	.	_	5	punct	_	O
+
+1	https://t.co/OgKHs9pdJ3	#hlink#	ADD	_	0	root	_	U-ORG
+

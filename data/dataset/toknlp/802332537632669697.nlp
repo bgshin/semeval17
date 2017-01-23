@@ -1,0 +1,17 @@
+1	😇❤	😇❤	NFP	pos2=NN	2	dep	_	O
+2	...	..	.	pos2=,	0	punct	_	O
+
+1	just	just	RB	_	4	advmod	_	O
+2	because	because	IN	_	4	mark	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	pos2=POS	0	root	_	O
+5	Friday	friday	NNP	_	6	compound	_	U-DATE
+6	night	night	NN	_	4	attr	_	U-TIME
+7	and	and	CC	_	4	cc	_	O
+8	I	I	PRP	_	11	nsubj	_	O
+9	'm	be	VBP	_	11	aux	_	O
+10	home	home	RB	pos2=NN	11	advmod	_	O
+11	doing	do	VBG	_	4	conj	_	O
+12	nothing	nothing	NN	_	11	dobj	_	O
+13	https://t.co/1jooIgNFg3	#hlink#	ADD	_	11	dobj	_	O
+

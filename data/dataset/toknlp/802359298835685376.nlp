@@ -1,0 +1,24 @@
+1	@KirstenDLCO	@kirstendlco	UH	pos2=ADD	7	discourse	_	O
+2	@Jack_Stone_818	@jack_stone_0	NN	pos2=NNS	3	compound	_	O
+3	@PaladinCornelia	@paladincornelia	NN	pos2=UH	7	dep	_	O
+4	They	they	PRP	_	7	nsubj	_	O
+5	ca	can	MD	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	feed	feed	VB	_	0	root	_	O
+8	people	people	NNS	_	7	dobj	_	O
+9	,	,	,	_	7	punct	_	O
+10	help	help	VB	pos2=NN	7	conj	_	O
+11	with	with	IN	_	10	prep	_	O
+12	Medicare	medicare	NNP	_	11	pobj	_	U-ORG
+13	,	,	,	_	14	punct	_	O
+14	shelter	shelter	VB	pos2=VBP	10	conj	_	O
+15	the	the	DT	_	16	det	_	O
+16	needy	needy	JJ	_	14	dobj	_	O
+17	but	but	CC	_	14	cc	_	O
+18	babysit	babysit	VB	pos2=VBP	14	conj	_	O
+19	a	a	DT	_	21	det	_	O
+20	dull	dull	JJ	_	21	nmod	_	O
+21	trophy	trophy	NN	_	18	dobj	_	O
+22	is	be	VBZ	_	7	conj	_	O
+23	ok	ok	JJ	pos2=UH	22	acomp	_	O
+

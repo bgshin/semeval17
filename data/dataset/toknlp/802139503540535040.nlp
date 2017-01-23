@@ -1,0 +1,22 @@
+1	Tribal	tribal	JJ	pos2=NNP	2	nmod	_	U-NORP
+2	representatives	representative	NNS	_	8	nsubj	_	O
+3	from	from	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	East	east	NNP	_	3	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	#Libya	#libya	NNP	_	6	pobj	_	U-ORG
+8	arrived	arrive	VBD	_	0	root	_	O
+9	in	in	IN	_	8	prep	_	O
+10	Temenhint	temenhint	NNP	_	9	pobj	_	U-GPE
+11	yesterday	yesterday	NN	_	8	npadvmod	_	U-DATE
+12	to	to	TO	_	13	aux	_	O
+13	take	take	VB	_	8	advcl	_	O
+14	in	in	IN	pos2=RP	13	prep	_	O
+15	part	part	NN	_	14	pobj	_	O
+16	in	in	IN	_	13	prep	_	O
+17	resolving	resolve	VBG	_	16	pcomp	_	O
+18	the	the	DT	_	19	det	_	O
+19	trib	trib	NN	pos2=NNS	17	dobj	_	O
+20	…	…	NFP	pos2=,	21	punct	_	O
+21	https://t.co/pjnRGkLhbQ	#hlink#	ADD	_	19	appos	_	O
+

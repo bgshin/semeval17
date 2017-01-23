@@ -1,0 +1,13 @@
+1	Black	black	NNP	pos2=JJ	2	nsubj	_	B-CARDINAL
+2	Lives	live	VBZ	pos2=NNP	0	root	_	I-CARDINAL
+3	Matter	matter	NNP	pos2=NN	4	compound	_	I-CARDINAL
+4	Lesson	lesson	NN	pos2=NNP	5	compound	_	I-CARDINAL
+5	Series	series	NNP	pos2=NN	2	dobj	_	I-CARDINAL
+6	:	:	:	_	5	punct	_	I-CARDINAL
+7	Part	part	NN	pos2=GW	12	nmod	_	I-CARDINAL
+8	1	0	CD	_	7	nmod	_	I-CARDINAL
+9	https://t.co/FSVbWhUwRr	#hlink#	ADD	_	5	appos	_	L-CARDINAL
+10	#BlackLivesMatterInSchools	#blacklivesmatterinschools	NNS	pos2=ADD	7	appos	_	O
+11	#BlackLivesMatter	#blacklivesmatter	ADD	pos2=JJR	9	npadvmod	_	O
+12	#BLM585EDU	#blm0edu	NN	pos2=NNS	11	pobj	_	O
+

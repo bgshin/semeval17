@@ -1,0 +1,27 @@
+1	@JuddLegum	@juddlegum	NNP	pos2=XX	2	nsubj	_	O
+2	Promoting	promote	VBG	_	18	csubj	_	O
+3	the	the	DT	_	4	det	_	O
+4	idea	idea	NN	_	2	dobj	_	O
+5	that	that	IN	pos2=DT	9	mark	_	O
+6	voting	voting	NN	_	9	nsubj	_	O
+7	does	do	VBZ	_	9	aux	_	O
+8	n't	not	RB	_	9	neg	_	O
+9	matter	matter	VB	_	4	acl	_	O
+10	b	b	NN	pos2=JJ	12	nmod	_	O
+11	/	/	SYM	pos2=HYPH	12	punct	_	O
+12	c	c	NN	pos2=VB	9	dobj	_	O
+13	it	it	PRP	_	14	nsubj	_	O
+14	's	's	VBZ	_	16	auxpass	_	O
+15	all	all	DT	pos2=RB	16	advmod	_	O
+16	rigged	rig	VBN	pos2=JJ	18	csubj	_	O
+17	anyway	anyway	RB	pos2=UH	16	advmod	_	O
+18	is	be	VBZ	_	0	root	_	O
+19	the	the	DT	_	22	det	_	O
+20	most	most	RBS	_	21	advmod	_	O
+21	dangerous	dangerous	JJ	_	22	nmod	_	O
+22	form	form	NN	_	18	attr	_	O
+23	of	of	IN	_	22	prep	_	O
+24	v	v	NN	pos2=JJ	23	pobj	_	O
+25	…	…	NFP	pos2=:	26	punct	_	O
+26	https://t.co/mbcU0K7yTT	#hlink#	ADD	_	18	dep	_	O
+

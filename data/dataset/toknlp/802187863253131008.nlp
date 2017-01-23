@@ -1,0 +1,11 @@
+1	some	some	DT	_	9	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	my	my	PRP$	_	6	poss	_	O
+4	new	new	JJ	_	6	nmod	_	O
+5	favorite	favorite	JJ	_	6	nmod	_	O
+6	otps	otps	NNS	pos2=RB	2	pobj	_	O
+7	from	from	IN	_	6	prep	_	O
+8	#fantasticbeasts	#fantasticbeasts	NNS	pos2=AFX	7	pobj	_	O
+9	😍😍	😍😍	NFP	pos2=-LRB-	10	punct	_	O
+10	https://t.co/IT4mSraQaw	#hlink#	ADD	pos2=NN	0	root	_	O
+

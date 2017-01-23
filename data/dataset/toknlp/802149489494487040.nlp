@@ -1,0 +1,27 @@
+1	Barcelona	barcelona	NNP	_	3	nsubj	_	U-GPE
+2	are	be	VBP	_	3	aux	_	O
+3	considering	consider	VBG	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	move	move	NN	_	3	dobj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	Chelsea	chelsea	NNP	_	9	poss	_	U-ORG
+8	's	's	POS	_	7	case	_	O
+9	defender	defender	NN	_	6	pobj	_	O
+10	Ivanovic	ivanovic	NNP	_	9	appos	_	B-PERSON
+11	(32)	(0)	CD	pos2=-RRB-	10	nmod	_	L-PERSON
+12	in	in	IN	_	5	prep	_	O
+13	the	the	DT	_	15	det	_	O
+14	winter	winter	NN	_	15	compound	_	U-DATE
+15	market	market	NN	_	12	pobj	_	O
+16	to	to	TO	_	17	aux	_	O
+17	reinforce	reinforce	VB	_	3	advcl	_	O
+18	the	the	DT	_	23	det	_	O
+19	right	right	JJ	pos2=RB	21	nmod	_	O
+20	-	-	HYPH	_	21	punct	_	O
+21	back	back	NN	pos2=RB	23	compound	_	O
+22	side	side	NN	_	23	compound	_	O
+23	#fcblive	#fcblive	NN	pos2=CD	17	dobj	_	O
+24	[	[	-LRB-	_	25	punct	_	O
+25	ser	ser	NN	pos2=AFX	23	appos	_	O
+26	]	]	-RRB-	_	25	punct	_	O
+

@@ -1,0 +1,16 @@
+1	#TheWalkingDead	#thewalkingdead	NN	pos2=NNS	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	Negan	negan	NNP	_	6	poss	_	U-PERSON
+4	's	's	POS	pos2=VBZ	3	case	_	O
+5	Deep	deep	NNP	pos2=JJ	6	compound	_	B-PERSON
+6	Dig	dig	NNP	pos2=NNPS	13	nsubj	_	L-PERSON
+7	At	at	IN	pos2=NNP	6	prep	_	O
+8	Rick	rick	NNP	_	11	poss	_	U-ORG
+9	's	's	POS	_	8	case	_	O
+10	Past	past	NNP	pos2=JJ	11	compound	_	B-WORK_OF_ART
+11	You	you	NNP	pos2=PRP	7	pobj	_	I-WORK_OF_ART
+12	Probably	probably	RB	pos2=NNP	13	advmod	_	I-WORK_OF_ART
+13	Missed	miss	VBD	pos2=GW	0	root	_	L-WORK_OF_ART
+14	https://t.co/FKJ1jC3iC8	#hlink#	ADD	_	13	dobj	_	O
+15	https://t.co/BRjljF4Vk1	#hlink#	ADD	_	13	dobj	_	U-ORG
+

@@ -1,0 +1,13 @@
+1	@jamescharles	@jamescharles	UH	pos2=NNS	9	discourse	_	O
+2	@motelamour	@motelamour	UH	pos2=FW	9	discourse	_	O
+3	ummm	ummm	UH	_	9	discourse	_	O
+4	literally	literally	RB	_	9	advmod	_	O
+5	so	so	RB	pos2=IN	6	advmod	_	O
+6	many	many	JJ	_	7	nmod	_	O
+7	brands	brand	NNS	_	9	nsubj	_	O
+8	have	have	VBP	_	9	aux	_	O
+9	stopped	stop	VBN	_	0	root	_	O
+10	animal	animal	NN	pos2=VBG	11	compound	_	O
+11	testing	testing	NN	pos2=VBG	9	dobj	_	O
+12	#doyourresearch	#doyourresearch	.	pos2=NN	9	punct	_	O
+

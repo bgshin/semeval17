@@ -1,0 +1,13 @@
+1	Castro	castro	NNP	_	5	nsubj	_	U-PERSON
+2	and	and	CC	_	1	cc	_	O
+3	Maduro	maduro	NNP	_	1	conj	_	U-PERSON
+4	can	can	MD	_	5	aux	_	O
+5	suck	suck	VB	_	0	root	_	O
+6	each	each	DT	_	7	det	_	O
+7	other	other	JJ	_	9	poss	_	O
+8	's	's	POS	_	7	case	_	O
+9	cigars	cigar	NNS	_	5	dobj	_	O
+10	for	for	IN	_	5	prep	_	O
+11	eternity	eternity	NN	_	10	pobj	_	O
+12	.	.	.	_	5	punct	_	O
+

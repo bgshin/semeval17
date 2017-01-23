@@ -1,0 +1,24 @@
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=XX	15	nsubjpass	_	O
+2	you	you	PRP	_	4	nsubjpass	_	O
+3	were	be	VBD	_	4	auxpass	_	O
+4	elected	elect	VBN	_	1	relcl	_	O
+5	with	with	IN	_	4	prep	_	O
+6	promise	promise	NN	pos2=NNS	5	pobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	keep	keep	VB	_	6	acl	_	O
+9	#Medicaid	#medicaid	NNP	pos2=XX	12	compound	_	O
+10	#Medicare	#medicare	NNP	pos2=POS	12	compound	_	O
+11	Paul	paul	NNP	_	12	compound	_	B-PERSON
+12	Ryan	ryan	NNP	_	8	dobj	_	L-PERSON
+13	was	be	VBD	_	15	auxpass	_	O
+14	not	not	RB	_	15	neg	_	O
+15	elected	elect	VBN	_	0	root	_	O
+16	#POTUS	#potus	NN	pos2=PRP	15	oprd	_	O
+17	PLEASE	please	UH	_	20	discourse	_	O
+18	do	do	VB	_	20	aux	_	O
+19	not	not	RB	_	20	neg	_	O
+20	kill	kill	VB	_	15	conj	_	O
+21	w	w	IN	pos2=PRP	20	prep	_	O
+22	his	his	PRP$	_	23	poss	_	O
+23	plan	plan	NN	_	21	pobj	_	O
+

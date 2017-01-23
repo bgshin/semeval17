@@ -1,0 +1,25 @@
+1	Ireland	ireland	NNP	_	4	poss	_	U-GPE
+2	's	's	POS	_	1	case	_	O
+3	minority	minority	NN	_	4	compound	_	O
+4	government	government	NN	_	5	nsubj	_	O
+5	said	say	VBD	_	0	root	_	O
+6	on	on	IN	_	5	prep	_	O
+7	Thursday	thursday	NNP	_	6	pobj	_	U-DATE
+8	that	that	IN	_	12	mark	_	O
+9	it	it	PRP	_	12	nsubj	_	O
+10	would	would	MD	_	12	aux	_	O
+11	not	not	RB	_	12	neg	_	O
+12	block	block	VB	_	5	ccomp	_	O
+13	a	a	DT	_	15	det	_	O
+14	first	#ord#	JJ	_	15	nmod	_	O
+15	reading	reading	NN	_	12	dobj	_	O
+16	of	of	IN	_	15	prep	_	O
+17	a	a	DT	_	18	det	_	O
+18	bill	bill	NN	_	16	pobj	_	O
+19	backed	back	VBN	_	18	acl	_	O
+20	by	by	IN	pos2=RB	19	agent	_	O
+21	all	all	DT	pos2=RB	20	pobj	_	O
+22	...	..	.	pos2=,	5	punct	_	O
+
+1	https://t.co/vjdVAgkHad	#hlink#	ADD	_	0	root	_	U-ORG
+

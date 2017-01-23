@@ -1,0 +1,29 @@
+1	Cuba	cuba	NNP	_	4	poss	_	U-GPE
+2	's	's	POS	pos2=VBZ	1	case	_	O
+3	Fidel	fidel	NNP	_	4	compound	_	B-PERSON
+4	Castro	castro	NNP	_	8	nsubj	_	L-PERSON
+5	,	,	,	_	4	punct	_	O
+6	90	0	CD	_	4	appos	_	U-DATE
+7	,	,	,	_	4	punct	_	O
+8	is	be	VBZ	_	0	root	_	O
+9	dead	dead	JJ	_	8	acomp	_	O
+10	.	.	.	_	8	punct	_	O
+
+1	Survived	survive	VBD	pos2=VBN	0	root	_	O
+2	638	0	CD	_	4	nmod	_	U-CARDINAL
+3	assassination	assassination	NN	_	4	compound	_	O
+4	attempts	attempt	NNS	_	1	dobj	_	O
+5	,	,	,	_	6	punct	_	O
+6	was	be	VBD	_	1	dep	_	O
+7	a	a	DT	_	8	det	_	O
+8	friend	friend	NN	_	6	attr	_	O
+9	to	to	IN	_	8	prep	_	O
+10	Africa	africa	NNP	_	9	pobj	_	U-LOC
+11	and	and	CC	_	6	cc	_	O
+12	pictured	picture	VBN	_	6	conj	_	O
+13	here	here	RB	_	12	advmod	_	O
+14	with	with	IN	_	12	prep	_	O
+15	notable	notable	JJ	_	17	nmod	_	O
+16	African	african	JJ	_	17	nmod	_	U-NORP
+17	leaders	leader	NNS	_	14	pobj	_	O
+

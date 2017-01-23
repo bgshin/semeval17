@@ -1,0 +1,24 @@
+1	@GOPCatLady	@gopcatlady	UH	pos2=NNP	5	discourse	_	O
+2	You	you	PRP	_	5	nsubj	_	O
+3	must	must	MD	_	5	aux	_	O
+4	not	not	RB	_	5	neg	_	O
+5	know	know	VB	_	0	root	_	O
+6	anyone	anyone	NN	_	5	dobj	_	O
+7	who	who	WP	_	8	nsubj	_	O
+8	needs	need	VBZ	_	6	relcl	_	O
+9	Medicare	medicare	NNP	_	8	dobj	_	U-ORG
+10	,	,	,	_	9	punct	_	O
+11	Social	social	NNP	_	12	compound	_	B-ORG
+12	Security	security	NNP	_	9	conj	_	L-ORG
+13	,	,	,	_	14	punct	_	O
+14	SNAP	snap	VB	pos2=NN	5	dep	_	O
+15	(	(	-LRB-	_	14	punct	_	O
+16	like	like	IN	pos2=UH	14	prep	_	O
+17	Veterans	veteran	NNPS	pos2=NNP	18	compound	_	U-NORP
+18	families	family	NNS	_	16	pobj	_	O
+19	)	)	-RRB-	_	14	punct	_	O
+20	,	,	,	_	5	punct	_	O
+21	or	or	CC	_	5	cc	_	O
+22	education	education	NN	_	5	conj	_	O
+23	.	.	.	_	5	punct	_	O
+

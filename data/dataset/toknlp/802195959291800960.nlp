@@ -1,0 +1,16 @@
+1	baby	baby	NN	_	2	compound	_	O
+2	arugula	arugula	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	just	just	RB	_	6	advmod	_	O
+5	as	as	RB	_	6	advmod	_	O
+6	bad	bad	JJ	_	3	acomp	_	O
+7	as	as	IN	pos2=RB	8	mark	_	O
+8	grown	grow	VBN	_	10	nmod	_	O
+9	up	up	RP	pos2=JJ	8	prt	_	O
+10	arugula	arugula	NN	pos2=NNS	5	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	-	-	SYM	pos2=:	3	punct	_	O
+2	Toby	toby	NNP	pos2=GW	3	compound	_	B-PERSON
+3	#ThisIsUs	#thisisus	NN	pos2=NNP	0	root	_	L-PERSON
+

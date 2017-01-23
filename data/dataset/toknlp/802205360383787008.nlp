@@ -1,0 +1,24 @@
+1	#theRealBlackFriday	#therealblackfriday	NNP	pos2=NN	3	nsubj	_	U-ORG
+2	is	be	VBZ	_	3	aux	_	O
+3	starting	start	VBG	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	fill	fill	VB	_	3	xcomp	_	O
+6	up	up	RP	_	5	prt	_	O
+7	!	!	.	_	3	punct	_	O
+
+1	Get	get	VB	_	0	root	_	O
+2	your	your	PRP$	_	6	poss	_	O
+3	Black	black	NNP	pos2=NN	5	npadvmod	_	O
+4	-	-	HYPH	pos2=:	5	punct	_	O
+5	Made	make	VBN	pos2=NNP	6	nmod	_	O
+6	merchandise	merchandise	NN	_	1	dobj	_	O
+7	while	while	IN	_	9	mark	_	O
+8	you	you	PRP	_	9	nsubj	_	O
+9	can	can	MD	_	1	advcl	_	O
+10	!	!	.	_	1	punct	_	O
+
+1	#BlackFriday	#blackfriday	NNP	pos2=ADD	4	nmod	_	B-ORG
+2	#Blexit	#blexit	GW	pos2=NNP	4	nmod	_	L-ORG
+3	…	…	NFP	pos2=GW	4	punct	_	O
+4	https://t.co/VARQbM7Qhh	#hlink#	ADD	_	0	root	_	U-ORG
+

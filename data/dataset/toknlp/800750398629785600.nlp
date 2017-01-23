@@ -1,0 +1,22 @@
+1	@steffendobbert	@steffendobbert	NN	pos2=PRP	4	nsubj	_	O
+2	has	have	VBZ	_	4	aux	_	O
+3	closely	closely	RB	_	4	advmod	_	O
+4	followed	followed	VBN	_	0	root	_	O
+5	Saakashvili	saakashvili	NNP	_	7	poss	_	U-PERSON
+6	's	's	POS	_	5	case	_	O
+7	attempt	attempt	NN	_	4	dobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	reform	reform	VB	_	7	acl	_	O
+10	Ukraine	ukraine	NNP	_	13	poss	_	U-GPE
+11	's	's	POS	_	10	case	_	O
+12	Odesa	odesa	NNP	_	13	compound	_	U-GPE
+13	region	region	NN	_	9	dobj	_	O
+14	.	.	.	_	4	punct	_	O
+
+1	Watch	watch	VB	_	0	root	_	O
+2	our	our	PRP$	_	3	poss	_	O
+3	interview	interview	NN	_	1	dobj	_	O
+4	:	:	:	_	1	punct	_	O
+5	…	…	NFP	pos2=-LRB-	6	punct	_	O
+6	https://t.co/Mk5zXSkd1b	#hlink#	ADD	_	1	dep	_	O
+

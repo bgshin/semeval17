@@ -1,0 +1,14 @@
+1	Hanging	hang	VBG	pos2=JJ	2	nmod	_	O
+2	Hearts	heart	NNS	pos2=NNPS	13	dep	_	O
+3	–	-	:	pos2=HYPH	2	punct	_	O
+4	Valentines	valentines	NNP	pos2=NNS	6	compound	_	O
+5	door	door	NN	pos2=GW	6	compound	_	O
+6	decor	decor	NN	pos2=GW	7	dep	_	O
+7	https://t.co/y8NgJi2Zee	#hlink#	ADD	pos2=IN	13	dep	_	O
+8	My	my	PRP$	_	10	poss	_	O
+9	Etsy	etsy	NNP	pos2=NN	10	compound	_	U-ORG
+10	listings	listing	NNS	_	7	dobj	_	O
+11	:	:	:	_	13	punct	_	O
+12	https://t.co/uvKGadiFbQ	#hlink#	ADD	pos2=NN	13	nmod	_	O
+13	https://t.co/csfV9ZTRo7	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,20 @@
+1	3	0	CD	_	5	nmod	_	U-CARDINAL
+2	D	d	NN	pos2=NNS	4	npadvmod	_	O
+3	-	-	HYPH	pos2=:	4	punct	_	O
+4	printing	print	VBG	pos2=NN	5	nmod	_	O
+5	robots	robot	NNS	_	9	nsubj	_	O
+6	&	&	CC	_	5	cc	_	O
+7	#IoT	#iot	NN	pos2=NNS	5	conj	_	O
+8	are	be	VBP	_	9	aux	_	O
+9	revolutionizing	revolutionize	VBG	_	0	root	_	O
+10	#manufacturing	#manufacturing	NNP	pos2=NN	9	dobj	_	U-ORG
+11	,	,	,	_	10	punct	_	O
+12	which	which	WDT	_	15	nsubj	_	O
+13	is	be	VBZ	_	15	aux	_	O
+14	directly	directly	RB	_	15	advmod	_	O
+15	impacting	impact	VBG	_	10	relcl	_	O
+16	the	the	DT	_	18	det	_	O
+17	#supplychain	#supplychain	GW	pos2=XX	19	nmod	_	O
+18	…	…	NFP	pos2=GW	19	punct	_	O
+19	https://t.co/XMzQnBnWsE	#hlink#	ADD	pos2=NN	15	dobj	_	O
+

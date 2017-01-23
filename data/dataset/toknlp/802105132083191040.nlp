@@ -1,0 +1,16 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	'm	be	VBP	_	4	aux	_	O
+3	officially	officially	RB	_	4	advmod	_	O
+4	giving	give	VBG	_	0	root	_	O
+5	up	up	RP	_	4	prt	_	O
+6	the	the	DT	_	8	det	_	O
+7	#Hatchimals	#hatchimals	NNP	pos2=NNS	8	compound	_	U-GPE
+8	hunt	hunt	NN	_	4	dobj	_	O
+9	now	now	RB	_	4	advmod	_	O
+10	I	I	PRP	_	11	nsubj	_	O
+11	mean	mean	VBP	_	4	parataxis	_	O
+12	it	it	PRP	_	11	dobj	_	O
+13	this	this	DT	_	14	det	_	O
+14	time	time	NN	_	4	npadvmod	_	O
+15	😂	😂	NNP	pos2=,	4	vocative	_	O
+

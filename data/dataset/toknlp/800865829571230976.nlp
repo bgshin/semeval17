@@ -1,0 +1,15 @@
+1	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNS	7	dep	_	O
+2	:	:	:	_	7	punct	_	O
+3	4️⃣Sookie	0️⃣sookie	NN	pos2=CD	7	compound	_	O
+4	3️⃣Taylor	0️⃣taylor	NN	pos2=NNP	7	compound	_	O
+5	2️⃣Richard	0️⃣richard	NN	pos2=NNP	6	compound	_	O
+6	1️⃣	0️⃣	NN	pos2=CD	7	compound	_	O
+7	Ms	ms	NNP	pos2=NNS	0	root	_	U-PERSON
+8	.	.	.	_	7	punct	_	O
+
+1	Patty	patty	NNP	pos2=JJ	2	compound	_	B-PERSON
+2	@jimmyfallon	@jimmyfallon	NNP	pos2=XX	5	dep	_	L-PERSON
+3	#gilmoregirls	#gilmoregirls	UH	pos2=VBZ	5	discourse	_	O
+4	#revival	#revival	UH	pos2=XX	5	discourse	_	O
+5	#rewatchingepisodes	#rewatchingepisodes	UH	pos2=NNS	0	root	_	O
+

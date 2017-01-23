@@ -1,0 +1,14 @@
+1	Gun	gun	NN	pos2=NNP	2	compound	_	O
+2	control	control	NN	_	3	compound	_	O
+3	Regulation	regulation	NN	pos2=NNP	13	dep	_	O
+4	vs	vs	IN	pos2=CC	3	prep	_	O
+5	Prohibition	prohibition	NNP	_	4	pobj	_	O
+6	What	what	WP	pos2=WDT	13	dep	_	O
+7	's	's	VBZ	_	13	dep	_	O
+8	the	the	DT	_	10	det	_	O
+9	Difference?#guncontrol	difference?#guncontrol	NNP	pos2=XX	10	compound	_	O
+10	#gunrights	#gunrights	NNPS	pos2=NNS	13	nmod	_	O
+11	#regulation	#regulation	GW	pos2=UH	13	nmod	_	O
+12	#prohibi	#prohibi	GW	pos2=-LRB-	13	nmod	_	O
+13	tionhttps://t.co/tzm6vZY4dA	#hlink#	ADD	pos2=NN	0	root	_	O
+

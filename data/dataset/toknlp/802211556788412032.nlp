@@ -1,0 +1,26 @@
+1	Come	come	VB	_	0	root	_	O
+2	see	see	VB	_	1	dep	_	O
+3	my	my	PRP$	_	4	poss	_	O
+4	work	work	NN	_	2	dobj	_	O
+5	at	at	IN	_	2	prep	_	O
+6	Etsy	etsy	NNP	_	5	pobj	_	U-ORG
+7	.	.	.	_	1	punct	_	O
+
+1	Frost	frost	NNP	pos2=NN	5	nsubj	_	U-PERSON
+2	on	on	IN	_	1	prep	_	O
+3	a	a	DT	_	4	det	_	O
+4	window	window	NN	_	2	pobj	_	O
+5	mirrored	mirror	VBN	_	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	Come	come	VB	_	0	root	_	O
+2	see	see	VB	_	1	dep	_	O
+3	my	my	PRP$	_	4	poss	_	O
+4	work	work	NN	_	2	dobj	_	O
+5	at	at	IN	_	2	prep	_	O
+6	Etsy	etsy	NNP	_	5	pobj	_	U-ORG
+7	.	.	.	_	1	punct	_	O
+
+1	https://t.co/F2dO3twE8J	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/RmKR3LVlG6	#hlink#	ADD	_	0	root	_	U-ORG
+

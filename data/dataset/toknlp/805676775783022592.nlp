@@ -1,0 +1,17 @@
+1	@DeAIID	@deaiid	NN	pos2=XX	5	nmod	_	O
+2	Im	im	NN	pos2=UH	5	nmod	_	O
+3	not	not	RB	_	5	neg	_	O
+4	pro-fossil	pro-fossil	JJ	pos2=VBG	5	nmod	_	O
+5	fuels	fuel	NNS	_	9	vocative	_	O
+6	,	,	,	_	9	punct	_	O
+7	perhaps	perhaps	RB	_	9	advmod	_	O
+8	that	that	DT	_	9	nsubj	_	O
+9	's	's	VBZ	_	0	root	_	O
+10	where	where	WRB	_	14	advmod	_	O
+11	you	you	PRP	_	14	nsubjpass	_	O
+12	're	be	VBP	_	14	aux	_	O
+13	getting	get	VBG	_	14	auxpass	_	O
+14	confused	confuse	VBN	pos2=JJ	9	advcl	_	O
+15	here	here	RB	_	14	advmod	_	O
+16	.	.	.	_	9	punct	_	O
+

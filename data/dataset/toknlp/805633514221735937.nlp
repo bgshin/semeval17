@@ -1,0 +1,27 @@
+1	Retweeted	retweeted	VBD	pos2=VBN	2	auxpass	_	O
+2	Lost	lose	VBN	_	10	advcl	_	O
+3	In	in	IN	_	2	prep	_	O
+4	History	history	NN	pos2=NNP	3	pobj	_	O
+5	(	(	-LRB-	_	6	punct	_	O
+6	@HistoryToLearn	@historytolearn	ADD	pos2=NN	4	appos	_	O
+7	)	)	-RRB-	_	6	punct	_	O
+8	:Muhammad	:muhammad	NNP	pos2=POS	9	compound	_	B-PERSON
+9	Ali	ali	NNP	_	10	nsubj	_	L-PERSON
+10	hugs	hug	VBZ	_	0	root	_	O
+11	Pelé	pelé	NNP	pos2=NN	10	dobj	_	U-PERSON
+12	at	at	IN	_	10	prep	_	O
+13	his	his	PRP$	_	15	poss	_	O
+14	goodbye	goodbye	NN	pos2=JJ	15	compound	_	O
+15	match	match	NN	pos2=RB	12	pobj	_	O
+16	.	.	.	_	10	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	said	say	VBD	_	0	root	_	O
+3	:	:	:	_	2	punct	_	O
+4	"	"	``	_	2	punct	_	O
+5	My	my	PRP$	_	6	poss	_	O
+6	friend	friend	NN	_	1	appos	_	O
+7	....	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/fJ5KgPkrJy	#hlink#	ADD	_	0	root	_	U-ORG
+

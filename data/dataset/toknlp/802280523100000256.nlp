@@ -1,0 +1,25 @@
+1	@ConsumerReports	@consumerreports	NNS	pos2=ADD	6	punct	_	O
+2	on	on	IN	_	1	prep	_	O
+3	@TeslaMotors	@teslamotors	NNS	pos2=NNP	2	pobj	_	O
+4	X	x	NNP	pos2=NN	5	compound	_	O
+5	#EV	#ev	NNP	pos2=XX	6	compound	_	O
+6	HI	hi	NN	pos2=UH	9	dep	_	O
+7	's	's	AFX	pos2=VBZ	6	nmod	_	O
+8	:	:	:	_	13	punct	_	O
+9	Accel	accel	NNP	_	0	root	_	U-ORG
+10	,	,	,	_	9	punct	_	O
+11	Handling	handling	NNP	pos2=VBG	13	compound	_	B-ORG
+12	Finish	finish	NNP	_	13	compound	_	I-ORG
+13	Oper	oper	NNP	_	9	appos	_	L-ORG
+14	.	.	.	_	1	punct	_	O
+
+1	Costs	cost	NNS	pos2=VBZ	2	compound	_	O
+2	Lows	low	NNS	pos2=NNPS	7	dep	_	O
+3	:	:	:	_	7	punct	_	O
+4	Falcon	falcon	NNP	pos2=NN	5	compound	_	B-WORK_OF_ART
+5	Doors	door	NNPS	pos2=NNP	7	compound	_	I-WORK_OF_ART
+6	Ride	ride	NNP	pos2=VBP	7	compound	_	I-WORK_OF_ART
+7	Reliabilit	reliabilit	NNP	pos2=GW	0	root	_	I-WORK_OF_ART
+8	…	…	NFP	pos2=-LRB-	7	discourse	_	L-WORK_OF_ART
+9	https://t.co/nR4J83eomo	#hlink#	ADD	_	7	appos	_	O
+

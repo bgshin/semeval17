@@ -1,0 +1,16 @@
+1	This	this	DT	_	5	det	_	O
+2	19th	#ord#	JJ	_	4	nmod	_	B-DATE
+3	-	-	HYPH	_	4	punct	_	I-DATE
+4	century	century	NN	_	5	compound	_	L-DATE
+5	wheelbarrow	wheelbarrow	NN	_	7	nsubj	_	O
+6	drunk	drunk	JJ	pos2=NN	5	nmod	_	O
+7	is	be	VBZ	_	0	root	_	O
+8	more	more	JJR	pos2=RBR	9	advmod	_	O
+9	kempt	kempt	JJ	_	7	acomp	_	O
+10	than	than	IN	_	9	prep	_	O
+11	Steve	steve	NNP	_	12	compound	_	B-PERSON
+12	Bannon	bannon	NNP	_	10	pobj	_	L-PERSON
+13	.	.	.	_	7	punct	_	O
+
+1	https://t.co/wP68QMXg4c	#hlink#	ADD	_	0	root	_	U-ORG
+

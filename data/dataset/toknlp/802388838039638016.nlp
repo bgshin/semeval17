@@ -1,0 +1,11 @@
+1	Facebook	facebook	NNP	_	3	nsubj	_	U-ORG
+2	has	have	VBZ	_	3	aux	_	O
+3	banned	ban	VBN	_	0	root	_	O
+4	modeling	model	VBG	pos2=NN	3	advcl	_	O
+5	pictures	picture	NNS	_	4	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	Melania	melania	NNP	_	9	compound	_	B-PERSON
+8	Knauss	knauss	NNP	_	9	compound	_	I-PERSON
+9	Trump	trump	NNP	pos2=GW	6	pobj	_	L-PERSON
+10	https://t.co/F6Tbt0jQfc	#hlink#	ADD	pos2=NNP	3	dobj	_	O
+

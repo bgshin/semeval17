@@ -1,0 +1,13 @@
+1	vaccines	vaccine	NNS	pos2=VBZ	2	nsubj	_	O
+2	cows	cow	VBZ	pos2=NNS	10	ccomp	_	O
+3	power	power	NN	_	4	compound	_	O
+4	point	point	NN	_	6	compound	_	O
+5	PPT	ppt	NN	pos2=NNP	6	compound	_	O
+6	Slides	slide	NNS	pos2=GW	2	dobj	_	O
+7	-	-	:	pos2=,	10	punct	_	O
+8	https://t.co/5OmdV439YV	#hlink#	ADD	pos2=NN	10	nsubj	_	O
+9	#vaccines	#vaccines	NNS	pos2=IN	10	nsubj	_	O
+10	#cows	#cows	VBZ	pos2=UH	0	root	_	O
+11	#power	#power	UH	pos2=JJR	10	discourse	_	O
+12	#point	#point	UH	pos2=NN	10	discourse	_	O
+

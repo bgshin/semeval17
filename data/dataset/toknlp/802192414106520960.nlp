@@ -1,0 +1,18 @@
+1	#Valentines	#valentines	NNS	pos2=NNP	2	compound	_	O
+2	#Gifts	#gifts	NNS	pos2=POS	17	dep	_	O
+3	Lularoe	lularoe	NNP	pos2=VBP	4	compound	_	B-PERSON
+4	#TeddyBear	#teddybear	NNP	pos2=NN	17	dep	_	L-PERSON
+5	and	and	CC	_	4	cc	_	O
+6	Bows	bows	NNP	pos2=NNPS	7	compound	_	B-ORG
+7	Leggings	legging	NNPS	pos2=NNP	4	conj	_	I-ORG
+8	One	#crd#	CD	pos2=NNP	9	nmod	_	L-ORG
+9	Size	size	NN	pos2=NNP	4	npadvmod	_	O
+10	OS	os	FW	pos2=IN	13	compound	_	O
+11	Christmas	christmas	NNP	_	12	compound	_	U-DATE
+12	Gift	gift	NN	pos2=NNP	15	compound	_	O
+13	Black	black	NNP	pos2=JJ	15	compound	_	B-ORG
+14	Red	red	NNP	_	15	compound	_	I-ORG
+15	Brown	brown	NNP	_	4	conj	_	L-ORG
+16	…	…	NFP	pos2=POS	17	punct	_	O
+17	https://t.co/pgTxd0LHHV	#hlink#	ADD	_	0	root	_	O
+

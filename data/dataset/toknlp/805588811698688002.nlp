@@ -1,0 +1,16 @@
+1	Palliative	palliative	JJ	pos2=NN	2	nmod	_	O
+2	care	care	NN	_	3	compound	_	O
+3	doctors	doctor	NNS	_	4	nsubj	_	O
+4	warn	warn	VBP	pos2=VB	0	root	_	O
+5	Victoria	victoria	NNP	_	4	dobj	_	U-PERSON
+6	against	against	IN	_	4	prep	_	O
+7	legalising	legalise	VBG	_	6	pcomp	_	O
+8	euthanasiaPeople	euthanasiapeople	NNP	pos2=NNS	9	nsubj	_	U-PERSON
+9	want	want	VBP	pos2=VB	4	ccomp	_	O
+10	choice	choice	NN	_	11	nsubj	_	O
+11	let	let	VBN	pos2=VB	9	ccomp	_	O
+12	them#au	them#au	PRP	pos2=ADD	13	nsubj	_	O
+13	spolhttps://t.co/dOxlOndS92	#hlink#	ADD	pos2=RP	11	ccomp	_	O
+14	via	via	IN	_	11	prep	_	O
+15	@abcnews	@abcnews	UH	pos2=.	14	discourse	_	O
+

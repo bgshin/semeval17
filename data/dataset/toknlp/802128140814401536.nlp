@@ -1,0 +1,18 @@
+1	Community	community	NN	pos2=NNP	3	compound	_	O
+2	-	-	HYPH	pos2=:	3	punct	_	O
+3	Organizer	organizer	NN	pos2=NNP	15	nmod	_	O
+4	-	-	HYPH	_	3	punct	_	O
+5	in	in	IN	pos2=FW	3	prep	_	O
+6	-	-	HYPH	_	5	punct	_	O
+7	ChiefDivider	chiefdivider	NNP	pos2=NN	5	pobj	_	O
+8	-	-	HYPH	_	7	punct	_	O
+9	in	in	IN	pos2=FW	7	prep	_	O
+10	-	-	HYPH	_	9	punct	_	O
+11	Chief#ThankYouObama	chief#thankyouobama	NNP	pos2=NN	9	pobj	_	O
+12	55	0	CD	_	13	nmod	_	B-TIME
+13	days16	days0	NN	pos2=NNS	15	compound	_	I-TIME
+14	hours27	hours0	NN	pos2=HYPH	15	compound	_	I-TIME
+15	minutes	minute	NNS	_	17	nmod	_	L-TIME
+16	…	…	NFP	pos2=,	17	punct	_	O
+17	https://t.co/qOtohmMMRy	#hlink#	ADD	_	0	root	_	O
+

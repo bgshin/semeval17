@@ -1,0 +1,19 @@
+1	@AE_Hutchinson	@ae_hutchinson	ADD	pos2=NN	10	punct	_	O
+2	@Strozan1	@strozan0	NN	pos2=CD	10	npadvmod	_	O
+3	@HoopingHeaven	@hoopingheaven	ADD	pos2=NNP	8	aux	_	O
+4	@streetsdiscipIe	@streetsdiscipie	NNP	pos2=XX	9	compound	_	U-ORG
+5	@utahjazz	@utahjazz	UH	pos2=XX	6	discourse	_	O
+6	@AFCU	@afcu	ADD	pos2=NN	10	vocative	_	O
+7	@vine	@vine	UH	pos2=PRP	10	discourse	_	B-ORG
+8	Watch	watch	NNP	pos2=VB	9	compound	_	I-ORG
+9	Melo	melo	NNP	_	10	nsubj	_	L-ORG
+10	put	put	VBD	pos2=VB	0	root	_	O
+11	that	that	DT	pos2=IN	12	det	_	O
+12	giant	giant	NN	pos2=JJ	10	dobj	_	O
+13	tattooed	tattoo	VBD	pos2=VBN	10	conj	_	O
+14	COCK	cock	NN	pos2=NNP	13	dobj	_	O
+15	in	in	IN	_	13	prep	_	O
+16	ya	ya	NN	pos2=JJ	17	compound	_	O
+17	asses	ass	NNS	_	15	pobj	_	O
+18	tmr.	tmr.	.	pos2=FW	10	punct	_	O
+

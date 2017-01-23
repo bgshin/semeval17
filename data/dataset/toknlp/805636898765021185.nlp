@@ -1,0 +1,17 @@
+1	A	a	DT	_	2	det	_	O
+2	bird	bird	NN	_	15	nsubjpass	_	O
+3	in	in	IN	_	2	prep	_	O
+4	the	the	DT	_	7	det	_	O
+5	Pope	pope	NNP	_	6	compound	_	O
+6	Francis	francis	NNP	_	7	compound	_	O
+7	trend	trend	NN	_	3	pobj	_	O
+8	like	like	UH	pos2=IN	15	discourse	_	O
+9	actually	actually	RB	_	15	advmod	_	O
+10	,	,	,	_	15	punct	_	O
+11	all	all	DT	_	12	det	_	O
+12	sin	sin	NN	_	15	nsubjpass	_	O
+13	is	be	VBZ	_	15	auxpass	_	O
+14	already	already	RB	_	15	advmod	_	O
+15	forgiven	forgive	VBN	_	0	root	_	O
+16	.	.	.	_	15	punct	_	O
+

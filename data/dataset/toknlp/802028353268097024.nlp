@@ -1,0 +1,28 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@deepsilver	@deepsilver	VB	pos2=UH	0	root	_	O
+2	any	any	DT	_	3	det	_	O
+3	news	news	NN	_	1	dobj	_	O
+4	on	on	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	Persona	persona	NN	pos2=NNP	4	pobj	_	O
+7	5	0	CD	_	9	nmod	_	U-CARDINAL
+8	Ryuji	ryuji	NNP	pos2=NN	9	compound	_	U-PERSON
+9	theme	theme	NN	_	6	appos	_	O
+10	for	for	IN	_	9	prep	_	O
+11	Europe	europe	NNP	_	12	compound	_	U-LOC
+12	PSN	psn	NNP	pos2=NN	10	pobj	_	O
+13	?	?	.	_	1	punct	_	O
+
+1	Been	be	VBN	pos2=VB	2	aux	_	O
+2	checking	check	VBG	_	0	root	_	O
+3	all	all	DT	_	4	det	_	B-DATE
+4	day	day	NN	_	2	npadvmod	_	L-DATE
+5	and	and	CC	_	2	cc	_	O
+6	no	no	DT	_	7	det	_	O
+7	one	#crd#	NN	_	9	nsubj	_	O
+8	anywhere	anywhere	RB	_	9	advmod	_	O
+9	has	have	VBZ	_	2	conj	_	O
+10	an	an	DT	_	11	det	_	O
+11	answer	answer	NN	_	9	dobj	_	O
+

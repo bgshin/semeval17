@@ -1,0 +1,21 @@
+1	Pump	pump	VB	pos2=NN	0	root	_	O
+2	Up	up	RP	pos2=IN	1	prt	_	O
+3	the	the	DT	_	4	det	_	O
+4	volume🎬🎞📽📀Usé	volume🎬🎞📽📀usé	NN	pos2=NNPS	1	dobj	_	O
+5	TrackID™	trackid™	NNP	pos2=NNPS	6	compound	_	U-GPE
+6	para	para	NN	pos2=FW	1	dobj	_	O
+7	buscar	buscar	FW	pos2=IN	12	nmod	_	O
+8	Everybody	everybody	NNP	pos2=NN	9	nsubj	_	O
+9	Knows	know	VBZ	_	1	advcl	_	O
+10	de	de	NNP	pos2=IN	12	compound	_	B-PERSON
+11	Leonard	leonard	NNP	_	12	compound	_	I-PERSON
+12	Cohen	cohen	NNP	_	9	dobj	_	L-PERSON
+13	.	.	.	_	1	punct	_	O
+
+1	https	http	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	//	//	NFP	pos2=-LRB-	6	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	6lLXjOED0A	0llxjoed0a	NN	pos2=NNS	0	root	_	O
+

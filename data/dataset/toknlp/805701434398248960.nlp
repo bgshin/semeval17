@@ -1,0 +1,11 @@
+1	No	no	DT	_	2	det	_	O
+2	one	#crd#	NN	_	3	nsubj	_	O
+3	understands	understand	VBZ	_	0	root	_	O
+4	#Westworld	#westworld	NNP	pos2=MD	3	dobj	_	U-PERSON
+5	not	not	RB	_	10	neg	_	O
+6	even	even	RB	_	8	advmod	_	O
+7	the	the	DT	_	8	det	_	O
+8	actors	actor	NNS	_	4	appos	_	O
+9	Bloody	bloody	JJ	pos2=NNP	10	advmod	_	O
+10	brilliant	brilliant	JJ	_	8	nmod	_	O
+

@@ -1,0 +1,31 @@
+1	@Tjsotomayor	@tjsotomayor	NNP	pos2=CC	2	compound	_	B-GPE
+2	@YouTube	@youtube	NNP	pos2=IN	7	vocative	_	L-GPE
+3	Someone	someone	NN	pos2=NNP	7	nsubj	_	O
+4	did	do	VBD	_	7	aux	_	O
+5	n't	not	RB	_	7	neg	_	O
+6	just	just	RB	_	7	advmod	_	O
+7	ask	ask	VB	_	0	root	_	O
+8	you	you	PRP	_	7	dobj	_	O
+9	that	that	IN	pos2=DT	10	det	_	O
+10	lol	lol	UH	pos2=NN	7	discourse	_	O
+11	.	.	.	_	7	punct	_	O
+
+1	Tommy	tommy	NNP	_	5	vocative	_	U-PERSON
+2	Why	why	WRB	pos2=NNP	5	advmod	_	O
+3	would	would	MD	_	5	aux	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	be	be	VB	_	0	root	_	O
+6	happy	happy	JJ	_	5	acomp	_	O
+7	with	with	IN	_	6	prep	_	O
+8	any	any	DT	_	9	det	_	O
+9	race	race	NN	_	7	pobj	_	O
+10	doing	do	VBG	_	9	acl	_	O
+11	a	a	DT	_	12	det	_	O
+12	crime	crime	NN	_	10	dobj	_	O
+13	.	.	.	_	5	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	Liberals	liberal	NNPS	pos2=NNS	3	nsubj	_	U-NORP
+3	need	need	VBP	_	0	root	_	O
+4	bed🤗	bed🤗	.	pos2=NN	3	punct	_	O
+

@@ -1,0 +1,24 @@
+1	MUST	must	MD	pos2=NN	2	aux	_	O
+2	READ	read	VB	_	0	root	_	O
+3	:	:	:	_	2	punct	_	O
+4	GREAT	great	JJ	_	7	nmod	_	O
+5	summary	summary	NN	_	7	nmod	_	O
+6	/	/	SYM	pos2=,	7	punct	_	O
+7	breakdown	breakdown	NN	_	2	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	most	most	JJS	_	8	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Trump	trump	NNP	pos2=NN	13	poss	_	U-ORG
+12	's	's	POS	_	11	case	_	O
+13	picks	pick	NNS	pos2=VBZ	10	pobj	_	O
+14	up	up	RP	pos2=IN	13	prt	_	O
+15	to	to	IN	_	13	prep	_	O
+16	this	this	DT	_	17	det	_	O
+17	point	point	NN	_	15	pobj	_	O
+18	for	for	IN	_	17	prep	_	O
+19	#TrumpTransitionTeam	#trumptransitionteam	NN	pos2=NNP	18	pobj	_	O
+20	.	.	.	_	2	punct	_	O
+
+1	#NotNormal	#notnormal	ADD	pos2=-LRB-	2	punct	_	O
+2	https://t.co/ruugf5aADE	#hlink#	ADD	_	0	root	_	O
+

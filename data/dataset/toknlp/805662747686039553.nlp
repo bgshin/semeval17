@@ -1,0 +1,12 @@
+1	Castro	castro	NNP	_	3	poss	_	U-PERSON
+2	's	's	POS	_	1	case	_	O
+3	Remains	remains	NNS	pos2=VBZ	4	nsubj	_	O
+4	Buried	bury	VBN	pos2=JJ	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	Private	private	JJ	pos2=NNP	7	nmod	_	O
+7	Ceremony	ceremony	NNP	pos2=NN	5	pobj	_	O
+8	in	in	IN	_	4	prep	_	O
+9	Cuba	cuba	NNP	_	8	pobj	_	U-GPE
+10	https://t.co/zqF8JycvzP	#hlink#	ADD	pos2=NNP	9	appos	_	O
+11	#cuba	#cuba	-RRB-	pos2=ADD	4	punct	_	O
+

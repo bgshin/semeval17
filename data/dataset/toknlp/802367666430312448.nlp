@@ -1,0 +1,22 @@
+1	"	"	``	pos2=SYM	4	punct	_	O
+2	#Samsungs	#samsungs	NNS	pos2=FW	4	compound	_	O
+3	#Galaxy	#galaxy	NNP	pos2=PRP$	4	compound	_	O
+4	Note	note	NN	pos2=VBP	6	nsubj	_	O
+5	7	0	CD	_	4	nmod	_	U-CARDINAL
+6	runs	run	VBZ	pos2=NNS	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	Snapdragon	snapdragon	NNP	_	6	dobj	_	O
+9	820	0	CD	_	8	nmod	_	O
+10	in	in	IN	_	6	prep	_	O
+11	#Canada	#canada	NNP	pos2=NNS	10	pobj	_	U-GPE
+12	rather	rather	RB	_	13	advmod	_	O
+13	than	than	IN	_	8	cc	_	O
+14	its	its	PRP$	_	17	poss	_	O
+15	Exynos	exynos	NNP	_	17	nmod	_	B-PRODUCT
+16	8890	0	CD	_	17	nmod	_	L-PRODUCT
+17	chip	chip	NN	_	13	pobj	_	O
+18	"	"	''	pos2=``	6	punct	_	O
+19	#android	#android	FW	pos2=XX	21	nmod	_	O
+20	#mobile	#mobile	IN	pos2=ADD	21	nmod	_	O
+21	https://t.co/4VI4VqLg5e	#hlink#	ADD	pos2=NN	6	advcl	_	O
+

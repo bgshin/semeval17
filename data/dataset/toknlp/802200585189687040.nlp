@@ -1,0 +1,28 @@
+1	1	0	CD	_	3	nmod	_	B-PERCENT
+2	st	st	NN	_	3	compound	_	L-PERCENT
+3	job	job	NN	_	0	root	_	O
+4	at	at	IN	_	3	prep	_	O
+5	14	0	CD	_	4	pobj	_	U-CARDINAL
+6	,	,	,	_	3	punct	_	O
+7	retired	retired	JJ	pos2=VBD	8	nmod	_	O
+8	65	0	CD	_	3	npadvmod	_	U-CARDINAL
+9	.	.	.	_	3	punct	_	O
+
+1	In	in	IN	_	9	prep	_	O
+2	spite	spite	NN	_	1	pobj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	short	short	JJ	_	5	nmod	_	O
+5	comings	coming	NNS	_	3	pobj	_	O
+6	being	be	VBG	_	9	advcl	_	O
+7	female	female	JJ	pos2=NN	6	acomp	_	O
+8	,	,	,	_	9	punct	_	O
+9	managed	manage	VBD	pos2=JJ	0	root	_	O
+10	white	white	JJ	_	12	nmod	_	O
+11	male	male	JJ	pos2=NN	12	nmod	_	O
+12	supremacists	supremacist	NNS	_	9	dobj	_	O
+13	&	&	CC	_	9	cc	_	O
+14	became	become	VBD	_	9	conj	_	O
+15	success	success	NN	pos2=JJ	14	attr	_	O
+16	…	…	NFP	pos2=:	17	punct	_	O
+17	https://t.co/1v0DmuDuao	#hlink#	ADD	_	12	appos	_	O
+

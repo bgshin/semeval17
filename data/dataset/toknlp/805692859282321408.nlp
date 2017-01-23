@@ -1,0 +1,25 @@
+1	https://t.co/Z83TSNHMyB.	#hlink#	ADD	pos2=SYM	5	dep	_	O
+2	Uncounted	uncounted	JJ	_	5	nmod	_	O
+3	paper	paper	NN	_	4	compound	_	O
+4	ballot	ballot	NN	_	5	compound	_	O
+5	travesty	travesty	NN	_	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	Election	election	NN	_	2	compound	_	O
+2	fraud	fraud	NN	_	0	root	_	O
+3	and	and	CC	_	2	cc	_	O
+4	voter	voter	NN	_	5	compound	_	O
+5	suppression	suppression	NN	_	2	conj	_	O
+6	AGAIN	again	RB	_	5	advmod	_	O
+7	!	!	.	_	2	punct	_	O
+
+1	Just	just	RB	_	4	advmod	_	O
+2	like	like	IN	_	4	mark	_	O
+3	HRC	hrc	NNP	pos2=NN	4	nsubj	_	U-ORG
+4	did	do	VBD	_	0	root	_	O
+5	to	to	IN	pos2=XX	4	prep	_	O
+6	Bernie	bernie	NNP	_	5	pobj	_	U-PERSON
+7	.	.	.	_	4	punct	_	O
+
+1	Turnabout	turnabout	NN	_	0	root	_	O
+

@@ -1,0 +1,25 @@
+1	@jiminest	@jiminest	UH	pos2=XX	7	discourse	_	O
+2	unfortunately	unfortunately	RB	_	7	advmod	_	O
+3	the	the	DT	_	6	det	_	O
+4	gun	gun	NN	_	5	compound	_	O
+5	control	control	NN	_	6	compound	_	O
+6	ship	ship	NN	_	7	nsubj	_	O
+7	sailed	sail	VBD	_	0	root	_	O
+8	when	when	WRB	_	10	advmod	_	O
+9	we	we	PRP	_	10	nsubj	_	O
+10	decided	decide	VBD	_	7	advcl	_	O
+11	that	that	IN	pos2=DT	20	mark	_	O
+12	a	a	DT	_	13	det	_	O
+13	guy	guy	NN	_	14	nsubj	_	O
+14	killing	kill	VBG	_	10	ccomp	_	O
+15	an	an	DT	_	17	det	_	O
+16	entire	entire	JJ	_	17	nmod	_	O
+17	class	class	NN	_	14	dobj	_	O
+18	of	of	IN	_	17	prep	_	O
+19	children	child	NNS	_	18	pobj	_	O
+20	was	be	VBD	_	10	ccomp	_	O
+21	okay	okay	JJ	_	23	advmod	_	O
+22	/	/	SYM	pos2=HYPH	23	punct	_	O
+23	unavoidable	unavoidable	JJ	_	20	acomp	_	O
+24	.	.	.	_	7	punct	_	O
+

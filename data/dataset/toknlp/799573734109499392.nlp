@@ -1,0 +1,10 @@
+1	@billboard	@billboard	NN	pos2=FW	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Happy	happy	JJ	_	4	nmod	_	O
+4	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=RP	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+
+1	🍔	🍔	NFP	pos2=GW	3	punct	_	O
+2	🍟	🍟	NFP	pos2=-LRB-	3	punct	_	O
+3	https://t.co/YcfTFteSPF	#hlink#	ADD	pos2=NN	0	root	_	O
+

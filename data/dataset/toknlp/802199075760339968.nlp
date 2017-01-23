@@ -1,0 +1,11 @@
+1	It	it	PRP	_	3	nsubj	_	O
+2	'll	will	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	blue	blue	JJ	_	6	nmod	_	O
+6	Christmas	christmas	NNP	_	3	attr	_	U-DATE
+7	.	.	.	_	3	punct	_	O
+
+1	#StillWithHer	#stillwithher	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/MqUzpnXFTg	#hlink#	ADD	_	0	root	_	O
+

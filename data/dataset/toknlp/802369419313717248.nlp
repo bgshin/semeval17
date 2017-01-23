@@ -1,0 +1,26 @@
+1	@howardfineman	@howardfineman	UH	pos2=ADD	6	poss	_	O
+2	@jackreacher4524	@jackreacher0	LS	pos2=VBZ	7	meta	_	O
+3	How	how	WRB	_	4	advmod	_	O
+4	long	long	RB	_	7	advmod	_	O
+5	before	before	IN	_	7	mark	_	O
+6	voters	voter	NNS	_	7	nsubj	_	O
+7	realize	realize	VBP	_	0	root	_	O
+8	they	they	PRP	_	11	nsubj	_	O
+9	've	have	VBP	_	11	aux	_	O
+10	been	be	VBN	_	11	aux	_	O
+11	taking	take	VBG	_	7	ccomp	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	OT	ot	NN	pos2=UH	2	compound	_	O
+2	pay	pay	NN	pos2=VB	3	nsubj	_	O
+3	taken	take	VBN	_	0	root	_	O
+4	away	away	RB	_	3	advmod	_	O
+5	this	this	DT	_	6	det	_	B-DATE
+6	week	week	NN	_	3	npadvmod	_	L-DATE
+7	next	next	RB	pos2=JJ	6	advmod	_	O
+8	up	up	IN	pos2=RP	7	prep	_	O
+9	SS	ss	NNP	pos2=NN	10	compound	_	B-ORG
+10	Medicare	medicare	NNP	_	12	compound	_	L-ORG
+11	tax	tax	NN	_	12	compound	_	O
+12	cuts	cut	NNS	_	8	pobj	_	O
+

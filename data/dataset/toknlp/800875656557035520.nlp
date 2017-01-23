@@ -1,0 +1,26 @@
+1	@jeremyduns	@jeremyduns	UH	pos2=NNS	6	discourse	_	O
+2	They	they	PRP	_	6	nsubjpass	_	O
+3	must	must	MD	_	6	aux	_	O
+4	n't	not	RB	_	6	neg	_	O
+5	get	get	VB	_	6	auxpass	_	O
+6	bogged	bog	VBN	_	24	ccomp	_	O
+7	down	down	RP	pos2=RB	6	prt	_	O
+8	in	in	IN	_	6	prep	_	O
+9	the	the	DT	_	12	det	_	O
+10	alt	alt	JJ	pos2=NN	12	nmod	_	O
+11	-	-	HYPH	_	12	punct	_	O
+12	rightists	rightist	NNS	_	8	pobj	_	O
+13	stated	state	VBD	pos2=VBN	6	dep	_	O
+14	view	view	NN	_	13	dobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	20th	#ord#	JJ	_	17	nmod	_	B-DATE
+17	century	century	NN	_	19	nmod	_	L-DATE
+18	fascist	fascist	JJ	pos2=NN	19	nmod	_	O
+19	movements	movement	NNS	_	15	pobj	_	O
+20	;	;	:	pos2=,	24	punct	_	O
+21	they	they	PRP	_	24	nsubj	_	O
+22	'll	will	MD	_	24	aux	_	O
+23	just	just	RB	_	24	advmod	_	O
+24	lie	lie	VB	_	0	root	_	O
+25	.	.	.	_	24	punct	_	O
+

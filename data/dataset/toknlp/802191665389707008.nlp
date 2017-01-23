@@ -1,0 +1,16 @@
+1	2016	0	CD	pos2=LS	3	nmod	_	U-CARDINAL
+2	Prime	prime	NNP	pos2=JJ	3	compound	_	O
+3	Cuts	cut	NNS	pos2=NNPS	15	dep	_	O
+4	JUSTIN	justin	NNP	_	8	compound	_	O
+5	VERLANDER	verlander	NNP	_	7	compound	_	O
+6	Timeline	timeline	NNP	pos2=NN	7	compound	_	O
+7	Game	game	NNP	_	8	compound	_	O
+8	Used	used	NNP	pos2=VBD	15	dep	_	O
+9	2	0	CD	pos2=NNP	15	dep	_	O
+10	Color	color	NNP	pos2=NN	11	compound	_	B-ORG
+11	Button	button	NNP	pos2=NN	12	compound	_	I-ORG
+12	Patch	patch	NNP	pos2=NN	15	dep	_	L-ORG
+13	1/1	0	CD	pos2=GW	15	dep	_	U-CARDINAL
+14	https://t.co/xMBM4gliVS	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/AufIEZckK9	#hlink#	ADD	_	0	root	_	U-ORG
+

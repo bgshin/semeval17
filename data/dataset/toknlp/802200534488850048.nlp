@@ -1,0 +1,26 @@
+1	@Karly2420	@karly0	NN	pos2=NNS	4	discourse	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	'd	would	MD	pos2=VBD	4	aux	_	O
+4	love	love	VB	_	16	ccomp	_	O
+5	if	if	IN	_	11	mark	_	O
+6	some	some	DT	_	11	nsubj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	these	these	DT	_	10	det	_	O
+9	white	white	JJ	_	10	nmod	_	O
+10	supremacists	supremacist	NNS	_	7	pobj	_	O
+11	did	do	VBD	_	4	advcl	_	O
+12	their	their	PRP$	_	13	poss	_	O
+13	DNA	dna	NN	_	11	dobj	_	O
+14	-	-	:	pos2=,	16	punct	_	O
+15	I	I	PRP	_	16	nsubj	_	O
+16	'm	be	VBP	_	0	root	_	O
+17	sure	sure	JJ	_	16	acomp	_	O
+18	they	they	PRP	_	20	nsubj	_	O
+19	'd	would	MD	_	20	aux	_	O
+20	be	be	VB	_	17	ccomp	_	O
+21	in	in	RB	pos2=IN	20	advmod	_	O
+22	for	for	IN	_	20	prep	_	O
+23	some	some	DT	_	24	det	_	O
+24	surprises	surprise	NNS	_	22	pobj	_	O
+25	.	.	.	_	16	punct	_	O
+

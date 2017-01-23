@@ -1,0 +1,27 @@
+1	Bad	bad	JJ	_	2	nmod	_	O
+2	hombres	hombre	NNS	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Grab	grab	VB	_	0	root	_	O
+2	them	them	PRP	_	1	dobj	_	O
+3	by	by	IN	_	1	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	pussy	pussy	NN	_	3	pobj	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	Who	who	WP	_	3	nsubj	_	O
+2	's	's	VBZ	pos2=PRP	3	aux	_	O
+3	gon	gon	VBG	_	0	root	_	O
+4	na	to	TO	_	5	aux	_	O
+5	pay	pay	VB	_	3	xcomp	_	O
+6	the	the	DT	_	7	det	_	O
+7	wall	wall	NN	_	5	dobj	_	O
+8	?	?	.	_	3	punct	_	O
+
+1	Nasty	nasty	JJ	pos2=NNP	2	nmod	_	O
+2	Woman	woman	NN	pos2=NNP	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	👀	👀	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/0l5IDeNJHj	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,20 @@
+1	Trump	trump	NN	pos2=NNP	2	compound	_	O
+2	May	may	NNP	pos2=MD	3	compound	_	U-DATE
+3	Name	name	VB	pos2=NN	0	root	_	O
+4	Anti-Worker	anti-worker	JJ	pos2=NNP	6	nmod	_	O
+5	Billionaire	billionaire	NNP	pos2=NN	6	compound	_	O
+6	Ross	ross	NNP	_	3	dobj	_	O
+7	as	as	IN	_	6	prep	_	O
+8	Com	com	NNP	_	11	compound	_	O
+9	Sec#p2	sec#p0	NNP	pos2=NNPS	11	compound	_	O
+10	#UniteBlue	#uniteblue	NNP	pos2=ADD	11	compound	_	O
+11	#mepolitics	#mepolitics	NNPS	pos2=NNS	7	pobj	_	O
+12	"	"	''	pos2=``	3	punct	_	O
+13	And	and	CC	_	3	cc	_	O
+14	the	the	DT	_	15	det	_	O
+15	swamp	swamp	NN	_	16	nsubj	_	O
+16	keeps	keep	VBZ	_	3	conj	_	O
+17	filling	fill	VBG	pos2=NN	16	xcomp	_	O
+18	"	"	``	pos2=''	19	punct	_	O
+19	https://t.co/o3HIJr5hUC	#hlink#	ADD	pos2=NN	17	dobj	_	O
+

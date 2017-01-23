@@ -1,0 +1,27 @@
+1	Perhaps	perhaps	RB	_	5	advmod	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	'd	would	MD	_	5	aux	_	O
+4	be	be	VB	_	5	aux	_	O
+5	going	go	VBG	_	0	root	_	O
+6	over	over	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	line	line	NN	_	6	pobj	_	O
+9	by	by	IN	_	5	prep	_	O
+10	insinuating	insinuate	VBG	_	9	pcomp	_	O
+11	a	a	DT	_	12	det	_	O
+12	connection	connection	NN	_	10	dobj	_	O
+13	between	between	IN	_	12	prep	_	O
+14	Melania	melania	NNP	_	15	compound	_	B-PERSON
+15	Trump	trump	NNP	_	13	pobj	_	L-PERSON
+16	and	and	CC	_	15	cc	_	O
+17	Vladimir	vladimir	NNP	_	18	compound	_	B-PERSON
+18	Putin	putin	NNP	_	15	conj	_	L-PERSON
+19	.	.	.	_	5	punct	_	O
+
+1	Cuz	cuz	IN	pos2=NNP	3	mark	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	can	can	MD	_	6	advcl	_	O
+4	'	'	''	pos2=``	6	punct	_	O
+5	…	…	NFP	pos2=:	6	punct	_	O
+6	https://t.co/zRpuxA2W78	#hlink#	ADD	_	0	root	_	U-ORG
+

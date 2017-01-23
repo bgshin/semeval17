@@ -1,0 +1,26 @@
+1	There	there	EX	_	2	expl	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	no	no	DT	pos2=RB	5	det	_	O
+4	better	good	JJR	_	5	nmod	_	O
+5	way	way	NN	_	2	attr	_	O
+6	to	to	TO	_	7	aux	_	O
+7	get	get	VB	_	5	relcl	_	O
+8	around	around	RB	pos2=RP	7	advmod	_	O
+9	in	in	IN	_	7	prep	_	O
+10	London	london	NNP	_	9	pobj	_	U-GPE
+11	than	than	IN	_	7	prep	_	O
+12	an	an	DT	_	13	det	_	O
+13	#uber	#uber	NN	pos2=NNP	11	pobj	_	O
+14	with	with	IN	_	13	prep	_	O
+15	Abdulla	abdulla	NNP	_	14	pobj	_	U-PERSON
+16	in	in	IN	_	7	prep	_	O
+17	his	his	PRP$	_	20	poss	_	O
+18	all	all	DT	_	19	advmod	_	O
+19	black	black	JJ	pos2=VBP	20	nmod	_	O
+20	#prius	#prius	IN	pos2=NNS	25	nmod	_	O
+21	banging	bang	VBG	_	20	pcomp	_	O
+22	the	the	DT	_	23	det	_	O
+23	tunes	tune	NNS	_	21	dobj	_	O
+24	…	…	NFP	pos2=-LRB-	25	punct	_	O
+25	https://t.co/Q2D4BWLtXz	#hlink#	ADD	pos2=NN	0	root	_	O
+

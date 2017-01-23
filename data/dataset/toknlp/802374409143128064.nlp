@@ -1,0 +1,20 @@
+1	'	'	``	pos2=SYM	10	punct	_	O
+2	Compromised	compromise	VBN	pos2=JJ	3	nmod	_	O
+3	functionality	functionality	NN	_	0	root	_	O
+4	and	and	CC	_	3	cc	_	O
+5	dismal	dismal	JJ	_	6	nmod	_	O
+6	reliability	reliability	NN	_	3	conj	_	O
+7	'	'	''	pos2=NNS	6	punct	_	O
+8	:	:	:	_	10	punct	_	O
+9	@ConsumerReports	@consumerreports	NNS	pos2=PRP	10	nsubj	_	O
+10	pulls	pull	VBZ	_	0	root	_	O
+11	the	the	DT	_	12	det	_	O
+12	plug	plug	NN	_	10	dobj	_	O
+13	on	on	IN	pos2=RP	10	prep	_	O
+14	#Tesla	#tesla	NNP	_	17	poss	_	U-GPE
+15	's	's	POS	_	14	case	_	O
+16	Model	model	NNP	_	17	compound	_	O
+17	X	x	NNP	pos2=GW	13	pobj	_	O
+18	…	…	NFP	pos2=-LRB-	10	punct	_	O
+19	https://t.co/TQIc9Hk80o	#hlink#	ADD	_	10	dobj	_	O
+

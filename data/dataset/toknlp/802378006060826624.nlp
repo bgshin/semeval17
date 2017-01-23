@@ -1,0 +1,13 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	am	be	VBP	_	0	root	_	O
+3	weekend	weekend	NN	pos2=RB	10	npadvmod	_	B-PERSON
+4	ready!#weekend	ready!#weekend	NNP	pos2=RB	10	vocative	_	L-PERSON
+5	#cigar	#cigar	UH	pos2=XX	10	discourse	_	O
+6	#chateauhautgoujon	#chateauhautgoujon	UH	pos2=ADD	10	discourse	_	O
+7	#TabacaleraPH	#tabacaleraph	UH	pos2=XX	10	discourse	_	O
+8	#Maduro	#maduro	UH	pos2=NNP	10	discourse	_	O
+9	#wine	#wine	UH	pos2=PRP	10	discourse	_	O
+10	#luxuryBig	#luxurybig	VBG	pos2=UH	12	nmod	_	O
+11	…	…	NFP	pos2=-LRB-	12	punct	_	O
+12	https://t.co/N2xsM3oz4i	#hlink#	ADD	_	2	dep	_	O
+

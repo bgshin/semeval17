@@ -1,0 +1,17 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@AndriyParubiy	@andriyparubiy	NN	pos2=NNS	0	root	_	O
+2	:	:	:	_	1	punct	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	@poroshenko	@poroshenko	UH	pos2=RB	5	discourse	_	O
+2	Ready	ready	JJ	pos2=NNP	0	root	_	O
+3	To	to	TO	_	4	aux	_	O
+4	Alter	alter	VB	pos2=NNP	2	xcomp	_	O
+5	Recommendation	recommendation	NN	pos2=NNP	4	dobj	_	O
+6	For	for	IN	_	5	prep	_	O
+7	Appointment	appointment	NN	pos2=NNP	6	pobj	_	O
+8	Of	of	IN	_	7	prep	_	O
+9	CEC	cec	NNP	_	10	compound	_	U-ORG
+10	Members	member	NNS	pos2=NNP	8	pobj	_	O
+

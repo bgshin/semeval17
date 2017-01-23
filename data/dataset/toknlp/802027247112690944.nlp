@@ -1,0 +1,18 @@
+1	@joshtpm	@joshtpm	UH	pos2=PRP	2	discourse	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	there	there	EX	_	2	expl	_	O
+4	any	any	DT	_	5	det	_	O
+5	indication	indication	NN	_	2	attr	_	O
+6	that	that	IN	_	9	mark	_	O
+7	this	this	DT	_	9	nsubj	_	O
+8	will	will	MD	_	9	aux	_	O
+9	happen	happen	VB	_	5	acl	_	O
+10	?	?	.	_	2	punct	_	O
+
+1	@elizabethforma	@elizabethforma	UH	pos2=NN	2	discourse	_	O
+2	@SenSherrodBrown	@sensherrodbrown	NN	pos2=VBN	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	lead	lead	VB	_	2	xcomp	_	O
+5	charge	charge	NN	pos2=VB	4	dobj	_	O
+6	?	?	.	_	2	punct	_	O
+

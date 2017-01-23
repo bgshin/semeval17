@@ -1,0 +1,15 @@
+1	@evertonfc2	@evertonfc0	NN	pos2=LS	5	compound	_	O
+2	@AndyCavster	@andycavster	GW	pos2=NN	0	root	_	O
+3	@Papajoe1407	@papajoe0	NNP	pos2=NN	4	compound	_	B-ORG
+4	Bank	bank	NNP	pos2=NN	5	compound	_	L-ORG
+5	bailouts	bailout	NNS	pos2=VBZ	2	dobj	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	Same	same	JJ	_	2	nmod	_	O
+2	thing	thing	NN	_	3	nsubj	_	O
+3	happened	happened	VBD	_	0	root	_	O
+4	to	to	IN	_	3	prep	_	O
+5	Obama	obama	NNP	_	6	compound	_	U-PERSON
+6	admin	admin	NN	_	4	pobj	_	O
+7	.	.	.	_	3	punct	_	O
+

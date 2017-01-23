@@ -1,0 +1,14 @@
+1	Saakashvili	saakashvili	NNP	_	3	nsubjpass	_	U-PERSON
+2	is	be	VBZ	_	3	auxpass	_	O
+3	committed	commit	VBN	pos2=JJ	0	root	_	O
+4	to	to	TO	pos2=IN	5	aux	_	O
+5	force	force	VB	_	3	xcomp	_	O
+6	new	new	JJ	_	8	nmod	_	O
+7	parliamentary	parliamentary	JJ	_	8	nmod	_	O
+8	elections	election	NNS	_	5	dobj	_	O
+9	https://t.co/33GgQP1OfD	#hlink#	ADD	_	5	appos	_	O
+10	#Ukraine	#ukraine	NNP	pos2=-RRB-	11	compound	_	U-ORG
+11	#politicalstability	#politicalstability	NN	pos2=UH	5	npadvmod	_	O
+12	#reforms	#reforms	UH	pos2=NNS	11	discourse	_	O
+13	#elections	#elections	UH	pos2=NNS	3	discourse	_	O
+

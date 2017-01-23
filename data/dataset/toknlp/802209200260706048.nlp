@@ -1,0 +1,24 @@
+1	@carolinagirl217	@carolinagirl0	NN	pos2=LS	2	dep	_	O
+2	@mikey83x	@mikey0x	LS	pos2=POS	4	meta	_	O
+3	Big	big	JJ	pos2=NNP	4	nmod	_	O
+4	Mistake	mistake	NN	pos2=NNP	0	root	_	O
+5	to	to	TO	pos2=IN	6	aux	_	O
+6	mess	mess	VB	pos2=NN	4	xcomp	_	O
+7	with	with	IN	_	6	prep	_	O
+8	Mr	mr	NNP	_	9	compound	_	O
+9	Putin	putin	NNP	_	7	pobj	_	U-PERSON
+10	!	!	.	_	4	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	from	from	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	trenches	trench	NNS	_	3	pobj	_	O
+6	,	,	,	_	5	punct	_	O
+7	smart	smart	JJ	_	5	nmod	_	O
+8	and	and	CC	_	7	cc	_	O
+9	capable	capable	JJ	_	7	conj	_	O
+10	!	!	.	_	2	punct	_	O
+
+1	@PutinRF_Eng	@putinrf_eng	ADD	pos2=VBG	0	root	_	U-GPE
+

@@ -1,0 +1,22 @@
+1	#YPG	#ypg	NN	pos2=XX	2	compound	_	O
+2	#SDF	#sdf	NN	pos2=IN	19	dep	_	O
+3	allying	ally	VBG	_	2	acl	_	O
+4	with	with	IN	_	3	prep	_	O
+5	#Hezbollah	#hezbollah	NNP	pos2=CC	6	compound	_	U-ORG
+6	terrorists	terrorist	NNS	_	4	pobj	_	O
+7	&	&	CC	_	6	cc	_	O
+8	#ASSad	#assad	NN	pos2=VBN	6	conj	_	O
+9	against	against	IN	_	8	prep	_	O
+10	#NATO	#nato	NNP	pos2=AFX	11	compound	_	U-ORG
+11	ally	ally	NN	pos2=RB	12	compound	_	O
+12	#Turkey	#turkey	NNP	pos2=NN	9	pobj	_	U-ORG
+13	,	,	,	_	12	punct	_	O
+14	Goodjob	goodjob	NNP	_	15	compound	_	B-PERSON
+15	Obama	obama	NNP	_	12	conj	_	L-PERSON
+16	,	,	,	_	19	punct	_	O
+17	Turkey	turkey	NNP	_	19	nsubj	_	U-GPE
+18	should	should	MD	_	19	aux	_	O
+19	resp	resp	VB	pos2=GW	0	root	_	O
+20	…	…	NFP	pos2=-LRB-	19	punct	_	O
+21	https://t.co/EA2bmNz37w	#hlink#	ADD	_	19	dep	_	O
+

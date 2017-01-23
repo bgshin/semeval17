@@ -1,0 +1,8 @@
+1	The	the	DT	_	2	det	_	O
+2	Benefits	benefit	NNS	pos2=NNPS	5	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	Vegetarianism	vegetarianism	NNP	pos2=NN	3	pobj	_	O
+5	https://t.co/vozBiL5L8W	#hlink#	ADD	pos2=NN	0	root	_	O
+6	via	via	IN	_	5	prep	_	O
+7	@YouTube	@youtube	NNP	pos2=NN	6	pobj	_	O
+

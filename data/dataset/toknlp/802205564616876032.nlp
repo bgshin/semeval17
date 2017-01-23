@@ -1,0 +1,11 @@
+1	#BeautyAndthebeast	#beautyandthebeast	NN	pos2=MD	3	npadvmod	_	O
+2	look	look	VB	pos2=VBP	0	root	_	O
+3	lit	light	VBN	pos2=JJ	2	acomp	_	O
+4	but	but	CC	_	2	cc	_	O
+5	is	be	VBZ	_	2	conj	_	O
+6	still	still	RB	_	5	advmod	_	O
+7	satanic	satanic	JJ	_	5	acomp	_	O
+8	as	as	IN	_	7	prep	_	O
+9	shit	shit	NN	pos2=PRP	10	compound	_	O
+10	🤘🏾😈	🤘🏾😈	NN	pos2=NNP	8	pobj	_	O
+

@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det	_	O
+2	importance	importance	NN	_	15	dep	_	O
+3	of	of	IN	_	2	prep	_	O
+4	using	use	VBG	_	3	pcomp	_	O
+5	Surface	surface	NNP	pos2=NN	4	dobj	_	B-ORG
+6	&	&	CC	_	5	cc	_	I-ORG
+7	Deep	deep	JJ	pos2=NNP	8	nmod	_	L-ORG
+8	learning	learning	NN	pos2=VBG	5	conj	_	O
+9	effectively	effectively	RB	_	10	advmod	_	O
+10	with	with	IN	_	4	prep	_	O
+11	PBL.	pbl.	NNP	pos2=NNPS	15	dep	_	O
+12	#pblchat	#pblchat	XX	pos2=UH	15	dep	_	O
+13	#pbl	#pbl	XX	pos2=UH	15	dep	_	O
+14	#lssharksbc	#lssharksbc	XX	pos2=GW	15	nmod	_	O
+15	https://t.co/D9EzoRr5yt	#hlink#	ADD	pos2=XX	0	root	_	O
+

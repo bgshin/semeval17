@@ -1,0 +1,18 @@
+1	Ironic	ironic	JJ	_	0	root	_	O
+2	that	that	IN	pos2=DT	5	mark	_	O
+3	Trump	trump	NNP	pos2=NN	4	compound	_	U-ORG
+4	supporters	supporter	NNS	_	5	nsubj	_	O
+5	are	be	VBP	_	1	ccomp	_	O
+6	angry	angry	JJ	_	5	acomp	_	O
+7	at	at	IN	_	6	prep	_	O
+8	protestors	protestor	NNS	_	7	pobj	_	O
+9	when	when	WRB	_	11	advmod	_	O
+10	Trump	trump	NNP	_	11	nsubj	_	U-ORG
+11	was	be	VBD	_	5	advcl	_	O
+12	the	the	DT	_	16	det	_	O
+13	ultimate	ultimate	JJ	_	16	nmod	_	O
+14	"	"	``	_	16	punct	_	O
+15	protest	protest	NN	pos2=VB	16	compound	_	O
+16	vote	vote	NN	_	11	attr	_	O
+17	"	"	''	_	5	punct	_	O
+

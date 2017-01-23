@@ -1,0 +1,13 @@
+1	Ricky	ricky	NNP	_	2	compound	_	B-PERSON
+2	Martin	martin	NNP	_	5	nsubj	_	L-PERSON
+3	Will	will	MD	_	5	aux	_	O
+4	Be	be	VB	_	5	aux	_	O
+5	Living	live	VBG	_	0	root	_	O
+6	La	la	NNP	_	8	compound	_	O
+7	Vida	vida	NNP	_	8	compound	_	O
+8	Loca	loca	NNP	_	5	dobj	_	O
+9	in	in	IN	_	8	prep	_	O
+10	Las	las	NNP	_	11	compound	_	B-GPE
+11	Vegas	vegas	NNP	_	9	pobj	_	L-GPE
+12	https://t.co/MQti8u53BB	#hlink#	ADD	_	5	dep	_	O
+

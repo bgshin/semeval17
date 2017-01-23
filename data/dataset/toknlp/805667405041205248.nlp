@@ -1,0 +1,12 @@
+1	How	how	WRB	_	2	advmod	_	O
+2	many	many	JJ	_	4	nmod	_	O
+3	more	more	JJR	_	4	nmod	_	O
+4	days	day	NNS	_	0	root	_	O
+5	until	until	IN	_	4	prep	_	O
+6	opening	open	VBG	pos2=NN	7	nmod	_	B-DATE
+7	day	day	NN	_	5	pobj	_	L-DATE
+8	?	?	.	_	4	punct	_	O
+
+1	😩	😩	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/YdAFFesP3B	#hlink#	ADD	pos2=NN	0	root	_	O
+

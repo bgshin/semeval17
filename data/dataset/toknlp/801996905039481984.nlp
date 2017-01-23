@@ -1,0 +1,12 @@
+1	Its	its	PRP$	_	2	poss	_	O
+2	getting	get	VBG	pos2=NN	7	nsubj	_	O
+3	really	really	RB	_	4	advmod	_	O
+4	hard	hard	JJ	pos2=RB	2	acomp	_	O
+5	to	to	TO	_	7	aux	_	O
+6	not	not	RB	_	7	neg	_	O
+7	spoil	spoil	VB	_	0	root	_	O
+8	Persona	persona	NN	pos2=NNP	7	dobj	_	O
+9	5	0	CD	_	8	nmod	_	U-CARDINAL
+10	for	for	IN	_	7	prep	_	O
+11	myself	myself	PRP	_	10	pobj	_	O
+

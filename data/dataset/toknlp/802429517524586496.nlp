@@ -1,0 +1,22 @@
+1	"	"	``	_	5	punct	_	O
+2	This	this	DT	_	3	det	_	O
+3	machine	machine	NN	_	5	nsubj	_	O
+4	also	also	RB	_	5	advmod	_	O
+5	kills	kill	VBZ	_	0	root	_	O
+6	wet	wet	JJ	_	7	nmod	_	O
+7	liberals	liberal	NNS	_	5	dobj	_	O
+8	"	"	``	pos2=''	10	punct	_	O
+9	guitar	guitar	NN	_	10	compound	_	O
+10	stickers	sticker	NNS	_	7	appos	_	O
+11	available	available	JJ	pos2=RB	10	nmod	_	O
+12	now	now	RB	_	11	advmod	_	O
+13	super	super	RB	pos2=JJ	14	advmod	_	O
+14	black	black	JJ	_	15	nmod	_	O
+15	frahdi	frahdi	NNS	pos2=XX	10	appos	_	O
+16	deelz	deelz	XX	pos2=NNS	11	prep	_	O
+17	myhearts	myhearts	NNS	pos2=VBZ	21	nmod	_	O
+18	not	not	RB	_	19	neg	_	O
+19	in	in	IN	_	14	prep	_	O
+20	thisreally	thisreally	RB	pos2=DT	21	nmod	_	O
+21	asyouwere	asyouwere	NN	pos2=RB	19	pobj	_	O
+

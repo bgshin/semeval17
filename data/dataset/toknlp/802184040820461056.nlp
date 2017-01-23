@@ -1,0 +1,19 @@
+1	Malak	malak	NNP	_	4	compound	_	B-PERSON
+2	al	al	NNP	_	4	compound	_	I-PERSON
+3	-	-	HYPH	_	4	punct	_	I-PERSON
+4	Khatib	khatib	NNP	_	6	dep	_	L-PERSON
+5	:	:	:	_	6	punct	_	O
+6	Symbol	symbol	NN	pos2=NNP	10	nsubj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Palestinian	palestinian	JJ	_	9	nmod	_	U-NORP
+9	childhood	childhood	NN	pos2=NNS	7	pobj	_	O
+10	denied	deny	VBD	pos2=VBN	0	root	_	O
+11	https://t.co/tv8Ui7kHYm	#hlink#	ADD	pos2=NN	10	dobj	_	O
+12	via	via	IN	_	10	prep	_	O
+13	@sharethis	@sharethis	NNPS	pos2=XX	12	pobj	_	O
+14	#gaza	#gaza	UH	pos2=NNP	10	discourse	_	O
+15	#palestine	#palestine	UH	pos2=PRP	10	discourse	_	O
+16	#israel	#israel	UH	pos2=MD	10	discourse	_	O
+17	#BDS	#bds	UH	pos2=NNS	10	discourse	_	O
+18	#jerusalem	#jerusalem	UH	pos2=PRP	10	discourse	_	O
+

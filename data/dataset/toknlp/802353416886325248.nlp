@@ -1,0 +1,35 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	'd	would	MD	_	3	aux	_	O
+3	hate	hate	VB	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	see	see	VB	_	3	xcomp	_	O
+6	the	the	DT	_	9	det	_	O
+7	#TPP	#tpp	NN	pos2=NNP	9	compound	_	O
+8	trade	trade	NN	_	9	compound	_	O
+9	agreement	agreement	NN	_	10	nsubj	_	O
+10	fail	fail	VB	pos2=VBP	5	ccomp	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	love	love	VBP	_	0	root	_	O
+3	my	my	PRP$	_	2	punct	_	O
+4	low	low	RB	pos2=JJ	6	advmod	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	priced	price	VBN	_	11	nmod	_	O
+7	Made	make	VBN	pos2=NNP	2	dep	_	O
+8	in	in	IN	_	7	prep	_	O
+9	#Vietnam	#vietnam	NNP	pos2=NN	11	compound	_	U-GPE
+10	running	run	VBG	pos2=JJ	11	compound	_	O
+11	shoes	shoe	NNS	_	8	pobj	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	like	like	IN	pos2=UH	2	prep	_	O
+4	walking	walk	VBG	_	3	pcomp	_	O
+5	on	on	IN	_	4	prep	_	O
+6	clouds	cloud	NNS	_	5	pobj	_	O
+7	!	!	.	_	2	punct	_	O
+
+1	#Asics	#asics	NNS	pos2=NNP	0	root	_	O
+

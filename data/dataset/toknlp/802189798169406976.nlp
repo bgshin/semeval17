@@ -1,0 +1,19 @@
+1	@AdamSerwer	@adamserwer	UH	pos2=EX	3	discourse	_	O
+2	actually	actually	RB	_	3	advmod	_	O
+3	paragraphs	paragraph	NNS	pos2=VBZ	6	nsubj	_	O
+4	below	below	RB	pos2=IN	3	advmod	_	O
+5	always	always	RB	_	6	advmod	_	O
+6	said	say	VBD	pos2=VBN	0	root	_	O
+7	7	0	CD	_	8	nmod	_	B-QUANTITY
+8	m	m	NNS	pos2=FW	4	pobj	_	L-QUANTITY
+9	#dontlookagifthorseinthemouth	#dontlookagifthorseinthemouth	RB	pos2=NN	11	advmod	_	O
+10	As	as	RB	_	11	advmod	_	O
+11	long	long	RB	_	6	advmod	_	O
+12	as	as	IN	_	14	mark	_	O
+13	we	we	PRP	_	14	nsubj	_	O
+14	get	get	VBP	_	11	advcl	_	O
+15	#recount	#recount	NNP	pos2=ADD	14	dobj	_	B-ORG
+16	&	&	CC	_	15	cc	_	I-ORG
+17	#AuditTheVote	#auditthevote	ADD	pos2=NNP	15	conj	_	L-ORG
+18	#stillwithher	#stillwithher	UH	pos2=NN	6	discourse	_	O
+

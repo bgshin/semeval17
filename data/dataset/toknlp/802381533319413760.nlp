@@ -1,0 +1,12 @@
+1	Leonard	leonard	NNP	_	2	compound	_	B-PERSON
+2	Cohen	cohen	NNP	_	0	root	_	L-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	poutine	poutine	NN	pos2=PRP$	5	compound	_	O
+5	references	reference	NNS	pos2=VBZ	2	conj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	the	the	DT	_	10	det	_	O
+8	new	new	JJ	_	10	nmod	_	O
+9	Gilmore	gilmore	NNP	_	10	compound	_	B-ORG
+10	Girls	girl	NNPS	pos2=NNP	6	pobj	_	L-ORG
+11	.	.	.	_	10	punct	_	O
+

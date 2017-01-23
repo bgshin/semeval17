@@ -1,0 +1,32 @@
+1	@WayneDupreeShow	@waynedupreeshow	UH	pos2=ADD	5	discourse	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	believe	believe	VB	_	0	root	_	O
+6	her	her	PRP	_	5	dobj	_	O
+7	for	for	IN	_	5	prep	_	O
+8	a	a	DT	_	9	det	_	O
+9	second	#ord#	JJ	pos2=NN	7	pobj	_	U-ORDINAL
+10	,	,	,	_	13	punct	_	O
+11	she	she	PRP	_	13	nsubj	_	O
+12	's	's	VBZ	_	13	aux	_	O
+13	making	make	VBG	_	5	ccomp	_	O
+14	money	money	NN	_	13	dobj	_	O
+15	off	off	IN	pos2=RP	13	prep	_	O
+16	of	of	IN	_	15	prep	_	O
+17	this	this	DT	_	16	pobj	_	O
+18	,	,	,	_	13	punct	_	O
+19	and	and	CC	_	13	cc	_	O
+20	doing	do	VBG	_	13	conj	_	O
+21	the	the	DT	_	22	det	_	O
+22	dems	dems	NNS	pos2=JJ	24	nmod	_	O
+23	dirty	dirty	JJ	pos2=NN	24	nmod	_	O
+24	work	work	NN	_	20	dobj	_	O
+25	.	.	.	_	5	punct	_	O
+
+1	Prob	prob	NNP	pos2=NN	2	nsubj	_	O
+2	planned	plan	VBD	pos2=VBN	0	root	_	O
+3	this	this	DT	_	2	dobj	_	O
+4	all	all	RB	pos2=DT	5	advmod	_	O
+5	along	along	RB	pos2=IN	2	advmod	_	O
+

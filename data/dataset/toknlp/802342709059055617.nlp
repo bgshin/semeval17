@@ -1,0 +1,19 @@
+1	@wallyball	@wallyball	UH	pos2=-LRB-	3	discourse	_	O
+2	D.Rose	#hlink#	ADD	pos2=RBR	3	nsubj	_	U-ORG
+3	taking	take	VBG	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	page	page	NN	_	3	dobj	_	O
+6	out	out	IN	_	3	prep	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Tim	tim	NNP	_	9	compound	_	B-PERSON
+9	Duncan	duncan	NNP	_	11	poss	_	I-PERSON
+10	's	's	POS	_	9	case	_	L-PERSON
+11	book	book	NN	pos2=VB	7	pobj	_	O
+12	off	off	IN	pos2=RB	11	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	glass	glass	NN	_	12	pobj	_	O
+15	in	in	IN	_	3	prep	_	O
+16	the	the	DT	_	18	det	_	O
+17	clutch	clutch	NN	_	18	compound	_	O
+18	#KNICKSonMSG	#knicksonmsg	NN	pos2=ADD	15	pobj	_	O
+

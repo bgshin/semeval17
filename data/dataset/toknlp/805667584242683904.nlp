@@ -1,0 +1,16 @@
+1	This	this	DT	_	2	det	_	O
+2	graphic	graphic	NN	pos2=JJ	4	nsubj	_	O
+3	clearly	clearly	RB	_	4	advmod	_	O
+4	explains	explain	VBZ	_	0	root	_	O
+5	why	why	WRB	_	8	advmod	_	O
+6	#NotOneMore	#notonemore	EX	pos2=ADD	8	expl	_	O
+7	ought	ought	MD	_	8	aux	_	O
+8	be	be	VB	_	4	ccomp	_	O
+9	Oz	oz	NNP	_	10	compound	_	B-ORG
+10	Immigration	immigration	NNP	pos2=NN	11	compound	_	L-ORG
+11	policy@chloepapas	policy@chloepapas	NNS	pos2=NNPS	8	attr	_	O
+12	@	@	SYM	pos2=NFP	13	punct	_	O
+13	64AnthonyP	0anthonyp	NN	pos2=GW	11	prep	_	U-MONEY
+14	@FreoGazette	@freogazette	ADD	pos2=GW	15	punct	_	O
+15	https://t.co/NJXHDjDbFw	#hlink#	ADD	pos2=NN	12	pobj	_	O
+

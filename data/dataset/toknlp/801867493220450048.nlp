@@ -1,0 +1,15 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	swear	swear	VBP	_	0	root	_	O
+3	one	#crd#	CD	_	2	dobj	_	U-CARDINAL
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	drummers	drummer	NNS	_	4	pobj	_	O
+7	looks	look	VBZ	_	2	ccomp	_	O
+8	like	like	IN	_	7	prep	_	O
+9	Justin	justin	NNP	_	10	compound	_	B-PERSON
+10	Verlander	verlander	NNP	_	8	pobj	_	L-PERSON
+11	.	.	.	_	2	punct	_	O
+
+1	#MINvsDET	#minvsdet	CC	pos2=ADD	2	cc	_	O
+2	LIVE	live	JJ	pos2=VB	0	root	_	O
+

@@ -1,0 +1,11 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	need	need	VB	_	0	root	_	O
+5	Medicaid	medicaid	NNP	_	4	dobj	_	U-ORG
+6	I	I	PRP	_	9	nsubjpass	_	O
+7	always	always	RB	_	9	advmod	_	O
+8	get	get	VBP	_	9	auxpass	_	O
+9	seen	see	VBN	_	4	ccomp	_	O
+10	😎	😎	NNP	pos2=.	9	dobj	_	U-PERSON
+

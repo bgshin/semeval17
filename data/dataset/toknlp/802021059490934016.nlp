@@ -1,0 +1,26 @@
+1	which	which	WDT	_	2	det	_	O
+2	one	#crd#	PRP	pos2=CD	5	nsubj	_	O
+3	would	would	MD	_	5	aux	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	prefer	prefer	VB	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	listen	listen	VB	_	5	xcomp	_	O
+8	to	to	IN	_	7	prep	_	O
+9	for	for	IN	_	7	prep	_	O
+10	a	a	DT	_	12	det	_	B-DATE
+11	whole	whole	JJ	_	12	nmod	_	I-DATE
+12	day	day	NN	_	9	pobj	_	L-DATE
+13	?	?	.	_	5	punct	_	O
+
+1	😍🤘🏼	😍🤘🏼	NN	pos2=NFP	6	dep	_	O
+2	;	;	:	pos2=,	6	punct	_	O
+3	i	I	PRP	_	6	nsubj	_	O
+4	could	could	MD	_	6	aux	_	O
+5	never	never	RB	_	6	neg	_	O
+6	choose	choose	VB	_	0	root	_	O
+7	#arianagrande	#arianagrande	RB	pos2=NNP	6	advmod	_	O
+8	#IntoYou	#intoyou	XX	pos2=ADD	6	dep	_	O
+9	#SideToSide	#sidetoside	XX	pos2=ADD	11	dep	_	O
+10	#songs	#songs	XX	pos2=UH	11	nmod	_	O
+11	#Poll	#poll	XX	pos2=NNP	6	dobj	_	O
+

@@ -1,0 +1,12 @@
+1	Donald	donald	NNP	_	2	compound	_	B-PERSON
+2	Trump	trump	NNP	_	4	poss	_	I-PERSON
+3	’s	's	POS	_	2	case	_	L-PERSON
+4	Team	team	NNP	pos2=NN	5	nsubj	_	O
+5	Shows	show	VBZ	pos2=NNP	0	root	_	O
+6	Few	few	JJ	_	7	nmod	_	O
+7	Signs	sign	NNS	pos2=NNPS	5	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	Post-Election	post-election	JJ	pos2=GW	10	nmod	_	O
+10	Moderation	moderation	NN	pos2=NNP	8	pobj	_	O
+11	https://t.co/1T9dpWVjsK	#hlink#	ADD	pos2=NN	5	dep	_	O
+

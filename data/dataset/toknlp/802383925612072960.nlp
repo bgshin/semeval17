@@ -1,0 +1,19 @@
+1	@BBCBreaking	@bbcbreaking	VBG	pos2=UH	4	prep	_	O
+2	@BBCNews	@bbcnews	NNS	pos2=ADD	1	dobj	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	assume	assume	VBP	_	0	root	_	O
+5	Obama	obama	NNP	_	15	nsubj	_	U-PERSON
+6	and	and	CC	_	5	cc	_	O
+7	a	a	DT	_	9	det	_	O
+8	large	large	JJ	_	9	nmod	_	O
+9	contingency	contingency	NN	_	5	conj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Dems	dems	NNPS	pos2=NNP	10	pobj	_	O
+12	&	&	CC	pos2=HYPH	11	cc	_	O
+13	celebs	celeb	NNS	_	11	conj	_	O
+14	will	will	MD	_	15	aux	_	O
+15	attend	attend	VB	_	4	ccomp	_	O
+16	the	the	DT	_	17	det	_	O
+17	funeral	funeral	NN	_	15	dobj	_	O
+18	.	.	.	_	4	punct	_	O
+

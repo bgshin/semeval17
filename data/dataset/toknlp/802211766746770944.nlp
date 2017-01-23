@@ -1,0 +1,29 @@
+1	@JosephEToomey	@josephetoomey	UH	pos2=NN	3	discourse	_	O
+2	that	that	DT	pos2=WDT	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	one	#crd#	CD	_	5	nmod	_	U-CARDINAL
+5	opinion	opinion	NN	_	3	attr	_	O
+6	!	!	.	_	3	punct	_	O
+
+1	But	but	CC	_	8	cc	_	O
+2	still	still	RB	_	5	advmod	_	O
+3	not	not	RB	_	5	neg	_	O
+4	a	a	DT	_	5	det	_	O
+5	fact	fact	NN	_	8	dep	_	O
+6	:	:	:	_	8	punct	_	O
+7	here	here	RB	_	8	advmod	_	O
+8	's	's	VBZ	_	0	root	_	O
+9	a	a	DT	_	10	det	_	O
+10	fact	fact	NN	_	8	nsubj	_	O
+11	:	:	:	_	13	punct	_	O
+12	HRC	hrc	NNP	pos2=NN	13	nsubj	_	U-ORG
+13	won	win	VBD	_	10	acl	_	O
+14	the	the	DT	_	16	det	_	O
+15	popular	popular	JJ	_	16	nmod	_	O
+16	vote	vote	NN	_	13	dobj	_	O
+17	by	by	IN	_	13	prep	_	O
+18	over	over	IN	pos2=RB	19	qmod	_	O
+19	2000000	0	CD	_	20	nmod	_	U-CARDINAL
+20	votes	vote	NNS	_	17	pobj	_	O
+21	!	!	.	_	13	punct	_	O
+

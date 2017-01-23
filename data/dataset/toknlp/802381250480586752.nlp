@@ -1,0 +1,22 @@
+1	With	with	IN	_	11	prep	_	O
+2	James	james	NNP	_	3	compound	_	B-PERSON
+3	Comey	comey	NNP	_	1	pobj	_	L-PERSON
+4	in	in	IN	_	3	prep	_	O
+5	office	office	NN	_	4	pobj	_	O
+6	,	,	,	_	11	punct	_	O
+7	how	how	WRB	_	11	advmod	_	O
+8	could	could	MD	_	11	aux	_	O
+9	the	the	DT	_	10	det	_	O
+10	US	us	NNP	_	11	nsubj	_	U-GPE
+11	investigate	investigate	VB	_	0	root	_	O
+12	the	the	DT	_	13	det	_	O
+13	Russians	russian	NNPS	_	11	dobj	_	U-NORP
+14	?	?	.	_	11	punct	_	O
+
+1	@FEC	@fec	XX	pos2=NN	6	dep	_	O
+2	@CIA	@cia	NN	pos2=XX	6	dep	_	O
+3	@SenWarren	@senwarren	XX	pos2=GW	6	nmod	_	O
+4	@KamalaHarris	@kamalaharris	GW	pos2=XX	6	nmod	_	O
+5	…	…	NFP	pos2=GW	6	punct	_	O
+6	https://t.co/vX795CArEB	#hlink#	ADD	_	0	root	_	O
+

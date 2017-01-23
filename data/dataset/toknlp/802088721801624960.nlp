@@ -1,0 +1,18 @@
+1	Jennifer	jennifer	NNP	_	2	compound	_	B-PERSON
+2	Lawrence	lawrence	NNP	_	3	nsubj	_	L-PERSON
+3	told	tell	VBD	_	0	root	_	O
+4	David	david	NNP	_	5	compound	_	B-PERSON
+5	Blaine	blaine	NNP	_	3	dobj	_	L-PERSON
+6	,	,	,	_	3	punct	_	O
+7	if	if	IN	_	9	mark	_	O
+8	he	he	PRP	_	9	nsubj	_	O
+9	created	create	VBD	_	15	advcl	_	O
+10	a	a	DT	_	11	det	_	O
+11	religion	religion	NN	_	9	dobj	_	O
+12	,	,	,	_	15	punct	_	O
+13	she	she	PRP	_	15	nsubj	_	O
+14	would	would	MD	_	15	aux	_	O
+15	follow	follow	VB	_	3	ccomp	_	O
+16	it	it	PRP	_	15	dobj	_	O
+17	.	.	.	_	3	punct	_	O
+

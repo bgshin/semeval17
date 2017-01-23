@@ -1,0 +1,25 @@
+1	Sen.	sen.	NNP	_	2	compound	_	O
+2	Warren	warren	NNP	_	3	nsubj	_	U-PERSON
+3	wants	want	VBZ	_	12	ccomp	_	O
+4	investigation	investigation	NN	_	3	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Trump	trump	NNP	pos2=NN	9	poss	_	U-PERSON
+7	's	's	POS	_	6	case	_	O
+8	transition	transition	NN	_	9	compound	_	O
+9	team	team	NN	_	5	pobj	_	O
+10	,	,	,	_	12	punct	_	O
+11	Democrats	democrat	NNPS	pos2=NNS	12	nsubj	_	U-NORP
+12	are	be	VBP	_	0	root	_	O
+13	the	the	DT	_	15	det	_	O
+14	poisinous	poisinous	JJ	_	15	nmod	_	O
+15	snakes	snake	NNS	_	12	attr	_	O
+16	living	live	VBG	_	15	acl	_	O
+17	in	in	IN	_	16	prep	_	O
+18	America	america	NNP	_	17	pobj	_	U-GPE
+19	have	have	VBP	_	20	aux	_	O
+20	proven	prove	VBN	_	12	conj	_	O
+21	it	it	PRP	_	20	dobj	_	O
+22	in	in	IN	_	20	prep	_	O
+23	2016	0	CD	_	22	pobj	_	U-DATE
+24	.	.	.	_	12	punct	_	O
+

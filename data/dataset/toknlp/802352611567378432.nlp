@@ -1,0 +1,23 @@
+1	@ezlusztig	@ezlusztig	UH	pos2=``	2	discourse	_	O
+2	Stay	stay	VB	_	0	root	_	O
+3	right	right	RB	pos2=JJ	4	advmod	_	O
+4	here	here	RB	_	2	advmod	_	O
+5	,	,	,	_	2	punct	_	O
+6	buddy	buddy	NN	pos2=UH	2	vocative	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	There	there	EX	_	2	expl	_	O
+2	are	be	VBP	_	0	root	_	O
+3	lots	lot	NNS	_	2	attr	_	O
+4	of	of	IN	_	3	prep	_	O
+5	nasty	nasty	JJ	_	6	nmod	_	O
+6	women	woman	NNS	_	4	pobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	bad	bad	JJ	_	9	nmod	_	O
+9	hombres	hombre	NNS	_	6	conj	_	O
+10	that	that	WDT	_	12	nsubj	_	O
+11	are	be	VBP	_	12	aux	_	O
+12	staying	stay	VBG	_	3	relcl	_	O
+13	too	too	RB	_	12	advmod	_	O
+14	.	.	.	_	2	punct	_	O
+

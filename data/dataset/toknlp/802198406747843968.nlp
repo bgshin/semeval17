@@ -1,0 +1,31 @@
+1	Details	detail	NNS	_	14	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	the	the	DT	_	5	det	_	O
+4	"	"	``	_	5	punct	_	O
+5	LORD	lord	NNP	pos2=NN	2	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	VERMILION	vermilion	NNP	pos2=NN	8	compound	_	O
+8	Re	re	NNP	pos2=IN	6	pobj	_	O
+9	:3	0	CD	_	11	nmod	_	U-CARDINAL
+10	x	x	SYM	pos2=IN	11	punct	_	O
+11	Persona	persona	NN	pos2=NNP	14	nmod	_	O
+12	5	0	CD	_	13	nmod	_	U-CARDINAL
+13	"	"	''	pos2=``	14	compound	_	O
+14	collab	collab	NN	_	0	root	_	O
+15	.	.	.	_	14	punct	_	O
+
+1	"	"	``	_	3	punct	_	O
+2	Phantom	phantom	NNP	pos2=NN	3	compound	_	O
+3	Campaign	campaign	NNP	pos2=NN	7	nsubjpass	_	O
+4	"	"	''	_	3	punct	_	O
+5	will	will	MD	_	7	aux	_	O
+6	be	be	VB	_	7	auxpass	_	O
+7	announced	announce	VBN	_	0	root	_	O
+8	on	on	IN	_	7	prep	_	O
+9	a	a	DT	_	12	det	_	O
+10	Nov.	nov.	NNP	_	12	nmod	_	B-DATE
+11	30	0	CD	_	10	nmod	_	L-DATE
+12	live	live	JJ	pos2=VBP	8	pobj	_	O
+13	…	…	NFP	pos2=:	7	punct	_	O
+14	https://t.co/UEwhIwfYSN	#hlink#	ADD	_	7	dep	_	U-ORG
+

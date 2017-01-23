@@ -1,0 +1,26 @@
+1	Fidel	fidel	NNP	_	2	compound	_	B-PERSON
+2	Castro	castro	NNP	_	4	poss	_	I-PERSON
+3	's	's	POS	_	2	case	_	L-PERSON
+4	funeral	funeral	NN	_	5	nsubj	_	O
+5	took	take	VBD	_	22	ccomp	_	O
+6	place	place	NN	_	5	dobj	_	O
+7	in	in	IN	_	5	prep	_	O
+8	Santiago	santiago	NNP	_	10	compound	_	O
+9	de	de	NNP	pos2=IN	10	compound	_	O
+10	Cuba	cuba	NNP	_	7	pobj	_	O
+11	after	after	IN	_	5	prep	_	O
+12	a	a	DT	_	16	det	_	O
+13	four	#crd#	CD	_	15	nmod	_	B-DATE
+14	-	-	HYPH	_	15	punct	_	I-DATE
+15	day	day	NN	_	16	compound	_	L-DATE
+16	procession	procession	NN	_	11	pobj	_	O
+17	through	through	IN	_	16	prep	_	O
+18	his	his	PRP$	_	20	poss	_	O
+19	island	island	NN	_	20	compound	_	O
+20	nation	nation	NN	_	17	pobj	_	O
+21	—	-	,	pos2=HYPH	22	punct	_	O
+22	take	take	VB	pos2=NN	0	root	_	O
+23	...	..	.	pos2=,	22	punct	_	O
+
+1	https://t.co/gNwDoH1fyu	#hlink#	ADD	_	0	root	_	U-ORG
+

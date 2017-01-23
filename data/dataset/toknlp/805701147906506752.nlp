@@ -1,0 +1,32 @@
+1	Dear	dear	JJ	_	2	nmod	_	O
+2	writers	writer	NNS	_	7	vocative	_	O
+3	of	of	IN	_	2	prep	_	O
+4	westworld	westworld	NN	pos2=FW	3	pobj	_	O
+5	:	:	:	_	7	punct	_	O
+6	Please	please	UH	_	7	discourse	_	O
+7	make	make	VB	_	0	root	_	O
+8	Dolores	dolores	NNP	_	9	nsubj	_	U-PERSON
+9	say	say	VB	pos2=VBP	7	ccomp	_	O
+10	more	more	JJR	_	11	nmod	_	O
+11	things	thing	NNS	_	9	dobj	_	O
+12	like	like	IN	pos2=UH	11	prep	_	O
+13	'	'	``	pos2=NNS	9	punct	_	O
+14	if	if	IN	_	17	mark	_	O
+15	out	out	RB	pos2=PRP	19	advmod	_	O
+16	there	there	EX	pos2=RB	17	expl	_	O
+17	is	be	VBZ	_	24	advcl	_	O
+18	so	so	RB	_	19	advmod	_	O
+19	great	great	JJ	_	17	acomp	_	O
+20	,	,	,	_	24	punct	_	O
+21	why	why	WRB	_	24	advmod	_	O
+22	are	be	VBP	_	24	aux	_	O
+23	you	you	PRP	_	24	nsubj	_	O
+24	clamoring	clamor	VBG	_	0	root	_	O
+25	to	to	TO	_	26	aux	_	O
+26	get	get	VB	_	24	xcomp	_	O
+27	in	in	RB	pos2=RP	26	advmod	_	O
+28	here	here	RB	_	26	advmod	_	O
+29	?	?	.	_	24	punct	_	O
+
+1	'	'	``	pos2=''	0	case	_	O
+

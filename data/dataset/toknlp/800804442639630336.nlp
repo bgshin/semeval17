@@ -1,0 +1,12 @@
+1	Putin	putin	NNP	_	4	nmod	_	U-PERSON
+2	and	and	CC	_	1	cc	_	O
+3	Obama	obama	NNP	_	1	conj	_	U-PERSON
+4	exchange	exchange	NN	pos2=VB	6	nmod	_	O
+5	awkward	awkward	JJ	_	6	nmod	_	O
+6	handshake	handshake	NN	_	11	dep	_	O
+7	at	at	IN	_	6	prep	_	O
+8	Peru	peru	NNP	_	10	poss	_	U-GPE
+9	summit@MailOnline	summit@mailonline	POS	pos2=GW	8	case	_	O
+10	video	video	NN	pos2=GW	7	pobj	_	O
+11	https://t.co/jRnyJPIwTY	#hlink#	ADD	pos2=NN	0	root	_	O
+

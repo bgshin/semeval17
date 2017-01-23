@@ -1,0 +1,23 @@
+1	@eucopresident	@eucopresident	UH	pos2=ADD	6	discourse	_	O
+2	@donaldtusk	@donaldtusk	UH	pos2=FW	6	discourse	_	O
+3	@poroshenko	@poroshenko	UH	pos2=FW	6	discourse	_	O
+4	@JunckerEU	@junckereu	NNP	pos2=PRP$	5	compound	_	B-PERSON
+5	Tusk	tusk	NNP	pos2=NN	6	nsubj	_	L-PERSON
+6	is	be	VBZ	_	0	root	_	O
+7	such	such	PDT	pos2=JJ	9	predet	_	O
+8	a	a	DT	_	9	det	_	O
+9	twat	twat	NN	_	6	attr	_	O
+10	.	.	.	_	6	punct	_	O
+
+1	But	but	CC	_	4	cc	_	O
+2	not	not	RB	_	4	neg	_	O
+3	as	as	RB	_	4	advmod	_	O
+4	big	big	JJ	_	6	nmod	_	O
+5	a	a	DT	_	6	det	_	O
+6	knob	knob	NN	_	10	dep	_	O
+7	as	as	IN	_	6	prep	_	O
+8	that	that	DT	_	9	det	_	O
+9	pisshead	pisshead	NN	pos2=NNP	7	pobj	_	O
+10	Juncker	juncker	NNP	_	11	meta	_	U-PERSON
+11	!	!	.	_	0	root	_	O
+

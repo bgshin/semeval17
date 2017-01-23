@@ -1,0 +1,12 @@
+1	Not	not	RB	_	2	neg	_	O
+2	for	for	IN	_	6	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	#TrumpTransitionTeam	#trumptransitionteam	NNP	pos2=NN	2	pobj	_	U-PERSON
+5	it	it	PRP	_	6	nsubj	_	O
+6	's	's	VBZ	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	prerequisite	prerequisite	NN	_	6	attr	_	O
+9	.	.	.	_	6	punct	_	O
+
+1	https://t.co/TRgZZOmA4y	#hlink#	ADD	_	0	root	_	U-ORG
+

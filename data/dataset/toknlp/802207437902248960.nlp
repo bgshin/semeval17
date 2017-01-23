@@ -1,0 +1,19 @@
+1	@taylorswift13	@taylorswift0	NN	pos2=UH	4	vocative	_	O
+2	ehh	ehh	UH	_	4	discourse	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	'm	be	VBP	_	0	root	_	O
+5	not	not	RB	_	4	neg	_	O
+6	impressed	impressed	JJ	_	4	acomp	_	O
+7	...	..	.	pos2=,	4	punct	_	O
+
+1	next	next	JJ	_	2	nmod	_	O
+2	time	time	NN	_	3	npadvmod	_	O
+3	get	get	VB	pos2=VBP	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	waves	wave	NNS	_	6	nsubj	_	O
+6	involved	involve	VBN	_	3	ccomp	_	O
+7	in	in	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	#MannequinChallenge	#mannequinchallenge	NN	pos2=GW	7	pobj	_	O
+10	https://t.co/Vx4PUkkvdY	#hlink#	ADD	_	9	appos	_	O
+

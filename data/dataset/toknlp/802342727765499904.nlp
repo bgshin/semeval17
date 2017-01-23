@@ -1,0 +1,9 @@
+1	'	'	``	pos2=SYM	4	punct	_	O
+2	PRECIATE	preciate	NNP	pos2=VBP	4	vocative	_	U-PERSON
+3	YOU	you	PRP	_	4	nsubj	_	O
+4	LOOKING	look	VBG	_	0	root	_	O
+5	OUT	out	RP	pos2=RB	4	prt	_	O
+6	!	!	.	_	4	punct	_	O
+
+1	https://t.co/HPaAPlUwQC	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,17 @@
+1	Flashback	flashback	NN	pos2=NNP	16	dep	_	O
+2	Friday	friday	NNP	_	1	npadvmod	_	B-DATE
+3	5	0	CD	_	4	nmod	_	I-DATE
+4	years	year	NNS	_	5	npadvmod	_	I-DATE
+5	ago	ago	RB	pos2=JJ	1	advmod	_	I-DATE
+6	Nov	nov	NNP	_	16	nmod	_	I-DATE
+7	2011	0	CD	_	6	npadvmod	_	L-DATE
+8	Disneys	disneys	NNP	pos2=NNPS	9	compound	_	O
+9	Beauty	beauty	NNP	_	6	conj	_	B-WORK_OF_ART
+10	and	and	CC	_	9	cc	_	I-WORK_OF_ART
+11	the	the	DT	_	13	det	_	I-WORK_OF_ART
+12	Beast	beast	NNP	pos2=NN	13	compound	_	I-WORK_OF_ART
+13	@GlasgowKings	@glasgowkings	NNPS	pos2=NNS	9	conj	_	I-WORK_OF_ART
+14	#FlashbackFriday	#flashbackfriday	GW	pos2=NNP	16	nmod	_	I-WORK_OF_ART
+15	#BeautyAndTheBeast	#beautyandthebeast	GW	pos2=ADD	16	nmod	_	L-WORK_OF_ART
+16	https://t.co/UlyM9PjE0M	#hlink#	ADD	pos2=NN	0	root	_	O
+

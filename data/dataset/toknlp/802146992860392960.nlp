@@ -1,0 +1,13 @@
+1	https://t.co/k8bZ821x5z	#hlink#	ADD	_	6	nsubj	_	O
+2	<	<	-RRB-	pos2=SYM	4	punct	_	O
+3	-	-	HYPH	pos2=TO	4	punct	_	O
+4	download	download	NN	pos2=VB	5	compound	_	O
+5	kontes	kontes	NNS	pos2=WDT	6	nsubj	_	O
+6	show	show	VBP	pos2=NN	0	root	_	O
+7	memek	memek	RP	pos2=NN	6	prt	_	O
+8	ditaiwan	ditaiwan	NNS	pos2=FW	6	dobj	_	O
+9	#fotomemek	#fotomemek	XX	pos2=UH	6	dep	_	O
+10	#bugil	#bugil	UH	pos2=XX	6	discourse	_	O
+11	#bokep	#bokep	UH	pos2=XX	6	discourse	_	O
+12	#onedirection	#onedirection	UH	pos2=NN	6	discourse	_	O
+

@@ -1,0 +1,12 @@
+1	HAHAHAHA	hahahaha	UH	pos2=NNP	6	discourse	_	O
+2	Chanel	chanel	NNP	pos2=NN	3	compound	_	U-ORG
+3	#	#	NN	_	8	dep	_	O
+4	5	0	CD	pos2=NNP	3	nmod	_	U-MONEY
+5	is	be	VBZ	_	6	aux	_	O
+6	running	run	VBG	_	0	root	_	O
+7	out	out	IN	_	6	prep	_	O
+8	of	of	IN	_	7	prep	_	O
+9	blood	blood	NN	_	8	pobj	_	O
+10	😹	😹	WDT	pos2=NN	11	det	_	U-CARDINAL
+11	#ScreamQueens	#screamqueens	NNS	pos2=ADD	6	advcl	_	O
+

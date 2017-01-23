@@ -1,0 +1,14 @@
+1	ADELE	adele	NNP	pos2=NN	4	compound	_	B-ORG
+2	Blasts	blasts	NNP	pos2=NNS	4	compound	_	I-ORG
+3	Brussels	brussels	NNP	pos2=NNPS	4	compound	_	I-ORG
+4	Terrorists	terrorist	NNPS	_	0	root	_	L-ORG
+5	During	during	IN	pos2=NNP	4	prep	_	O
+6	Live	live	JJ	pos2=NNP	7	nmod	_	O
+7	Performance	performance	NN	pos2=NNP	5	pobj	_	O
+8	!	!	.	_	4	punct	_	O
+
+1	WATCH	watch	VB	pos2=NN	0	root	_	O
+2	HERE	here	RB	_	1	advmod	_	O
+3	https://t.co/hn8lKi5hoY	#hlink#	ADD	pos2=RBR	0	root	_	O
+4	#Adele	#adele	NNP	pos2=NNS	1	vocative	_	O
+

@@ -1,0 +1,31 @@
+1	@thehill	@thehill	UH	pos2=RB	0	root	_	O
+2	@AndieMarie888	@andiemarie0	NN	pos2=VBZ	3	npadvmod	_	O
+3	Beautiful	beautiful	JJ	pos2=NNP	1	dep	_	O
+4	!	!	.	_	1	punct	_	O
+
+1	Hillary	hillary	NNP	_	2	compound	_	B-PERSON
+2	Clinton	clinton	NNP	_	4	vocative	_	L-PERSON
+3	you	you	PRP	_	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	light	light	NN	_	4	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	our	our	PRP$	_	9	poss	_	O
+9	eyes	eye	NNS	_	7	pobj	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	love	love	VBP	_	0	root	_	O
+3	you	you	PRP	_	2	dobj	_	O
+4	so	so	RB	_	5	advmod	_	O
+5	much	much	RB	_	2	advmod	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	Please	please	UH	_	2	discourse	_	O
+2	come	come	VB	_	0	root	_	O
+3	back	back	RB	_	2	advmod	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	#StillWithHer	#stillwithher	ADD	pos2=NN	2	det	_	O
+2	👸🏼🇺🇸	👸🏼🇺🇸	NN	pos2=.	0	root	_	O
+

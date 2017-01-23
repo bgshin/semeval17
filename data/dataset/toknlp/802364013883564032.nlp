@@ -1,0 +1,26 @@
+1	@goombapolice	@goombapolice	IN	pos2=PRP$	4	prep	_	O
+2	Trump	trump	NNP	pos2=NN	4	nsubj	_	U-PERSON
+3	DOES	do	VBZ	pos2=NNP	4	aux	_	O
+4	mean	mean	VB	_	0	root	_	O
+5	well	well	RB	pos2=UH	4	advmod	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	Unfortunately	unfortunately	RB	_	3	advmod	_	O
+2	he	he	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	11	advcl	_	O
+4	a	a	DT	_	6	det	_	O
+5	fucking	fucking	JJ	pos2=VBG	6	nmod	_	O
+6	idiot	idiot	NN	_	3	attr	_	O
+7	and	and	CC	_	6	cc	_	O
+8	his	his	PRP$	_	9	poss	_	O
+9	cabinet	cabinet	NN	_	11	nsubj	_	O
+10	is	be	VBZ	_	11	aux	_	O
+11	gon	gon	VBG	_	0	root	_	O
+12	na	to	TO	_	13	aux	_	O
+13	be	be	VB	_	11	xcomp	_	O
+14	people	people	NNS	_	13	attr	_	O
+15	that	that	WDT	_	16	nsubj	_	O
+16	know	know	VBP	_	14	relcl	_	O
+17	he	he	PRP	_	18	nsubj	_	O
+18	is	be	VBZ	_	16	ccomp	_	O
+

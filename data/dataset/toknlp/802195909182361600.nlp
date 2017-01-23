@@ -1,0 +1,27 @@
+1	Another	another	DT	_	2	det	_	O
+2	reason	reason	NN	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	love	love	VB	_	2	relcl	_	O
+5	@TeslaMotors	@teslamotors	NNS	pos2=NNPS	4	dobj	_	O
+6	...	..	.	pos2=,	2	punct	_	O
+
+1	a	a	DT	_	3	det	_	O
+2	Model	model	NNP	pos2=NN	3	compound	_	O
+3	X	x	NNP	pos2=NN	0	root	_	O
+4	showing	show	VBG	_	3	acl	_	O
+5	just	just	RB	_	10	advmod	_	O
+6	some	some	DT	_	9	nsubj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	it	it	PRP	_	7	pobj	_	O
+9	's	's	VBZ	_	4	ccomp	_	O
+10	wide	wide	JJ	_	11	nmod	_	O
+11	range	range	NN	_	9	attr	_	O
+12	of	of	IN	_	11	prep	_	O
+13	ability	ability	NN	_	12	pobj	_	O
+14	!	!	.	_	3	punct	_	O
+
+1	#EV	#ev	NFP	pos2=XX	4	punct	_	O
+2	#DragRace	#dragrace	GW	pos2=NN	4	nmod	_	O
+3	…	…	NFP	pos2=GW	4	punct	_	O
+4	https://t.co/k3XlmiJBPF	#hlink#	ADD	pos2=NN	0	root	_	O
+

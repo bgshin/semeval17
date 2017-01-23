@@ -1,0 +1,25 @@
+1	Disgraceful	disgraceful	JJ	_	4	nmod	_	O
+2	,	,	,	_	19	punct	_	O
+3	hope	hope	NN	pos2=VB	19	npadvmod	_	O
+4	Trump	trump	NNP	pos2=NN	5	nsubj	_	U-PERSON
+5	dumps	dump	VBZ	_	3	ccomp	_	O
+6	US	us	NNP	pos2=PRP	8	compound	_	U-GPE
+7	puppet	puppet	NN	pos2=VB	8	compound	_	O
+8	@poroshenko	@poroshenko	NN	pos2=RB	5	dobj	_	O
+9	-	-	:	pos2=HYPH	19	punct	_	O
+10	how	how	WRB	_	11	advmod	_	O
+11	many	many	JJ	_	12	nmod	_	O
+12	thousands	#crd#	NNS	_	19	dobj	_	U-CARDINAL
+13	of	of	IN	_	12	prep	_	O
+14	own	own	JJ	_	15	nmod	_	O
+15	citizens	citizen	NNS	_	13	pobj	_	O
+16	has	have	VBZ	_	19	aux	_	O
+17	Kiev	kiev	NNP	_	18	compound	_	U-GPE
+18	regime	regime	NN	_	19	nsubj	_	O
+19	killed	kill	VBN	_	0	root	_	O
+20	?	?	.	_	19	punct	_	O
+
+1	(	(	-LRB-	_	3	punct	_	O
+2	…	…	NFP	pos2=ADD	3	punct	_	O
+3	https://t.co/j1valL4JR1	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,15 @@
+1	Thanks	thanks	NN	pos2=NNS	0	root	_	O
+2	@RonWyden	@ronwyden	NNP	pos2=ADD	1	vocative	_	U-PERSON
+3	for	for	IN	_	1	prep	_	O
+4	standing	stand	VBG	_	3	pcomp	_	O
+5	up	up	RP	_	4	prt	_	O
+6	for	for	IN	_	4	prep	_	O
+7	ALL	all	DT	pos2=NNP	8	det	_	O
+8	Oregon	oregon	NNP	_	10	poss	_	U-GPE
+9	's	's	POS	_	8	case	_	O
+10	families	family	NNS	_	6	pobj	_	O
+11	.	.	.	_	1	punct	_	O
+
+1	#FireBannon	#firebannon	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/h4q2TjYDF6	#hlink#	ADD	_	0	root	_	O
+

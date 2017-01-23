@@ -1,0 +1,16 @@
+1	@utahjazz	@utahjazz	UH	pos2=TO	2	discourse	_	O
+2	win	win	VB	pos2=NN	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	@UNC_Basketball	@unc_basketball	RB	pos2=MD	2	advmod	_	O
+2	too	too	RB	_	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	Great	great	JJ	_	2	nmod	_	B-TIME
+2	night	night	NN	_	0	root	_	L-TIME
+3	!	!	.	_	2	punct	_	O
+
+1	😄	😄	SYM	pos2=NFP	3	punct	_	U-ORG
+2	#JazzNation	#jazznation	NN	pos2=ADD	3	compound	_	O
+3	#GoHeels	#goheels	NNS	pos2=ADD	0	root	_	O
+

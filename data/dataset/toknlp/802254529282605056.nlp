@@ -1,0 +1,15 @@
+1	iRobot	irobot	NNP	pos2=NN	3	nsubj	_	U-ORG
+2	did	do	VBD	_	3	aux	_	O
+3	get	get	VB	_	0	root	_	O
+4	the	the	DT	_	8	det	_	O
+5	self	self	NN	_	6	npadvmod	_	O
+6	driving	drive	VBG	pos2=JJ	7	nmod	_	O
+7	cars	car	NNS	_	8	compound	_	O
+8	thing	thing	NN	pos2=VBG	3	dobj	_	O
+9	right	right	RB	pos2=JJ	3	advmod	_	O
+10	,	,	,	_	3	punct	_	O
+11	though	though	RB	_	3	advmod	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	😨	😨	SYM	pos2=NFP	0	root	_	U-ORG
+

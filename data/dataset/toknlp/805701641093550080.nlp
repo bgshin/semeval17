@@ -1,0 +1,20 @@
+1	‘	'	``	pos2=SYM	19	punct	_	O
+2	A	a	DT	_	3	det	_	O
+3	twist	twist	NN	_	10	nsubj	_	O
+4	within	within	IN	_	3	prep	_	O
+5	a	a	DT	_	6	det	_	O
+6	twist	twist	NN	_	4	pobj	_	O
+7	’	'	''	pos2=NN	10	punct	_	O
+8	:	:	:	_	10	punct	_	O
+9	Fans	fan	NNS	pos2=NNPS	10	nsubj	_	O
+10	react	react	VBP	pos2=VB	19	ccomp	_	O
+11	to	to	IN	pos2=TO	10	prep	_	O
+12	‘	'	``	_	10	punct	_	O
+13	Westworld	westworld	NNP	pos2=UH	15	nmod	_	U-WORK_OF_ART
+14	’	'	''	pos2=POS	15	punct	_	O
+15	season	season	NN	_	11	pobj	_	O
+16	one	#crd#	CD	pos2=GW	17	nmod	_	U-CARDINAL
+17	finale	finale	NN	pos2=GW	19	dep	_	O
+18	https://t.co/szTbEr3xMN	#hlink#	ADD	_	19	nmod	_	O
+19	https://t.co/TOrLL3ROKX	#hlink#	ADD	_	0	root	_	U-ORG
+

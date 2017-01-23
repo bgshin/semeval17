@@ -1,0 +1,28 @@
+1	Remember	remember	VB	_	0	root	_	O
+2	The	the	DT	pos2=NNP	5	det	_	B-ORG
+3	Pretty	pretty	NNP	pos2=JJ	5	compound	_	I-ORG
+4	White	white	NNP	pos2=JJ	5	compound	_	I-ORG
+5	Girls	girl	NNPS	pos2=NNP	1	dobj	_	L-ORG
+6	Who	who	WP	pos2=NNP	7	nsubj	_	O
+7	Became	become	VBD	_	5	relcl	_	O
+8	#ISIS	#isis	NNP	pos2=IN	9	compound	_	O
+9	Terrorists	terrorist	NNPS	pos2=NNS	7	attr	_	O
+10	?	?	.	_	1	punct	_	O
+
+1	You	you	PRP	_	5	nsubj	_	O
+2	May	may	MD	pos2=NNP	5	aux	_	O
+3	Wan	wan	NNP	pos2=VB	5	nsubj	_	B-PERSON
+4	na	to	TO	pos2=NNP	5	aux	_	L-PERSON
+5	Take	take	VB	_	0	root	_	O
+6	A	a	DT	pos2=NNP	7	det	_	O
+7	Look	look	NN	pos2=NNP	5	dobj	_	O
+8	At	at	IN	_	7	prep	_	O
+9	Them	them	PRP	pos2=NNP	8	pobj	_	O
+10	Now	now	RB	_	5	advmod	_	O
+11	....	..	.	pos2=,	5	punct	_	O
+
+1	#OpISIS	#opisis	NN	pos2=UH	0	root	_	O
+2	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/cVOdFgzLRg	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,7 @@
+1	A	a	DT	_	2	det	_	O
+2	lot	lot	NN	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	bad	bad	JJ	_	5	nmod	_	O
+5	hombres	hombre	NNS	pos2=FW	3	pobj	_	O
+6	!	!	.	_	2	punct	_	O
+

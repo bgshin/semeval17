@@ -1,0 +1,9 @@
+1	@girl4Trump	@girl0trump	NN	pos2=XX	0	root	_	O
+2	@megynkelly	@megynkelly	PRP$	pos2=DT	3	poss	_	O
+3	audition	audition	NN	_	1	dobj	_	O
+4	for	for	IN	_	3	prep	_	O
+5	Clinton	clinton	NNP	_	7	compound	_	B-ORG
+6	News	news	NNP	_	7	compound	_	I-ORG
+7	Network	network	NNP	_	4	pobj	_	L-ORG
+8	?	?	.	_	1	punct	_	O
+

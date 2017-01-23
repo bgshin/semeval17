@@ -1,0 +1,25 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	know	know	VBP	_	21	parataxis	_	O
+3	so	so	RB	_	4	advmod	_	O
+4	many	many	JJ	_	7	nmod	_	O
+5	extremely	extremely	RB	_	6	advmod	_	O
+6	intelligent	intelligent	JJ	_	7	nmod	_	O
+7	people	people	NNS	_	21	nsubj	_	O
+8	who	who	WP	_	9	nsubj	_	O
+9	go	go	VBP	_	7	relcl	_	O
+10	to	to	IN	_	9	prep	_	O
+11	church	church	NN	_	10	pobj	_	O
+12	,	,	,	_	11	punct	_	O
+13	the	the	DT	_	14	det	_	O
+14	sort	sort	NN	_	11	appos	_	O
+15	that	that	WDT	_	16	nsubj	_	O
+16	dismiss	dismiss	VBP	pos2=VB	14	relcl	_	O
+17	homeopathy	homeopathy	NN	_	16	dobj	_	O
+18	as	as	IN	_	16	prep	_	O
+19	quackery	quackery	NN	_	18	pobj	_	O
+20	yet	yet	RB	pos2=CC	21	advmod	_	O
+21	believe	believe	VBP	pos2=VB	0	root	_	O
+22	in	in	IN	_	21	prep	_	O
+23	a	a	DT	_	24	det	_	O
+24	mythBewildering	mythbewildering	NN	pos2=JJ	22	pobj	_	O
+

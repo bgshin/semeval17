@@ -1,0 +1,21 @@
+1	Have	have	VBP	pos2=VB	0	root	_	O
+2	ideas	idea	NNS	_	1	dobj	_	O
+3	to	to	TO	_	4	aux	_	O
+4	share	share	VB	_	2	relcl	_	O
+5	with	with	IN	_	4	prep	_	O
+6	#PresidentElectTrump	#presidentelecttrump	NN	pos2=NNP	5	pobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	#TrumpTransitionTeam	#trumptransitionteam	NN	pos2=NNP	6	conj	_	O
+9	?	?	.	_	1	punct	_	O
+
+1	Here	here	RB	_	2	advmod	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	website	website	NN	_	2	nsubj	_	O
+5	that	that	WDT	_	6	nsubj	_	O
+6	includes	include	VBZ	_	4	relcl	_	O
+7	a	a	DT	_	6	dobj	_	O
+8	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/G76brP3L7L	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,14 @@
+1	Clueless	clueless	JJ	pos2=NNP	3	nmod	_	O
+2	Nancy	nancy	NNP	_	3	compound	_	B-PERSON
+3	Pelosi	pelosi	NNP	_	9	dep	_	L-PERSON
+4	:	:	:	_	9	punct	_	O
+5	Too	too	RB	_	6	advmod	_	O
+6	much	much	JJ	pos2=RB	9	nsubjpass	_	O
+7	is	be	VBZ	_	9	aux	_	O
+8	being	be	VBG	_	9	auxpass	_	O
+9	made	make	VBN	_	0	root	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Clinton	clinton	NNP	_	12	compound	_	U-PERSON
+12	emails	email	NNS	pos2=GW	10	pobj	_	O
+13	https://t.co/I4YgrYd1wS	#hlink#	ADD	_	9	dep	_	O
+

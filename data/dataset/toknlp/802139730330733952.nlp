@@ -1,0 +1,8 @@
+1	Fire	fire	NN	pos2=NNP	2	nsubj	_	O
+2	reported	report	VBN	pos2=VBD	0	root	_	O
+3	near	near	IN	_	2	prep	_	O
+4	Maale	maale	NNP	_	5	compound	_	B-GPE
+5	HaHamisha	hahamisha	NNP	_	3	pobj	_	L-GPE
+6	near	near	IN	pos2=RB	2	prep	_	O
+7	#Jerusalem.#IsraelFires	#jerusalem.#israelfires	NNP	pos2=NNS	6	pobj	_	U-GPE
+

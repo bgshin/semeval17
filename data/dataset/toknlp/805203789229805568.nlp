@@ -1,0 +1,19 @@
+1	“	"	``	pos2=''	8	punct	_	O
+2	Plus	plus	CC	pos2=NNP	8	cc	_	O
+3	Size	size	NNP	pos2=NN	4	compound	_	O
+4	Model	model	NNP	pos2=NN	8	nsubj	_	O
+5	”	"	''	pos2=``	8	punct	_	O
+6	Ashley	ashley	NNP	_	7	compound	_	B-PERSON
+7	Graham	graham	NNP	_	8	nsubj	_	L-PERSON
+8	Admits	admit	VBZ	_	0	root	_	O
+9	She	she	PRP	pos2=NNP	10	nsubj	_	O
+10	Wanted	want	VBD	_	8	ccomp	_	O
+11	to	to	TO	_	12	aux	_	O
+12	Be	be	VB	_	10	xcomp	_	O
+13	Thinner	thin	JJR	pos2=NNP	12	acomp	_	O
+14	(	(	-LRB-	_	16	punct	_	O
+15	via	via	IN	_	18	nmod	_	O
+16	etnow	etnow	GW	pos2=CD	15	pobj	_	O
+17	)	)	-RRB-	pos2=GW	18	nmod	_	O
+18	https://t.co/8PZAOUxWb7	#hlink#	ADD	pos2=NN	8	dep	_	O
+

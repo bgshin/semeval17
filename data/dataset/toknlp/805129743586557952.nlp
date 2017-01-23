@@ -1,0 +1,27 @@
+1	@IRaiseUFacts	@iraiseufacts	NNS	pos2=VBZ	4	poss	_	O
+2	@Ebesneezer13	@ebesneezer0	POS	pos2=IN	1	case	_	O
+3	Recreational	recreational	JJ	pos2=NNP	4	nmod	_	O
+4	outrage	outrage	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	ridiculous	ridiculous	JJ	_	5	acomp	_	O
+7	.	.	.	_	5	punct	_	O
+
+1	Are	be	VBP	_	0	root	_	O
+2	you	you	PRP	_	1	nsubj	_	O
+3	as	as	IN	pos2=RB	1	prep	_	O
+4	angry	angry	JJ	_	3	pcomp	_	O
+5	about	about	IN	_	4	prep	_	O
+6	the	the	DT	_	10	det	_	O
+7	$	$	$	_	9	qmod	_	B-MONEY
+8	1.5	0	CD	_	9	compound	_	I-MONEY
+9	TRILLION	#crd#	CD	_	10	nmod	_	L-MONEY
+10	F-35	f-0	NN	pos2=NNS	5	pobj	_	O
+11	?	?	.	_	1	punct	_	O
+
+1	NAFTA	nafta	NNP	pos2=NN	0	root	_	U-ORG
+2	?	?	.	_	1	punct	_	O
+
+1	Drone	drone	NN	pos2=NNP	2	compound	_	O
+2	strikes	strike	NNS	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+

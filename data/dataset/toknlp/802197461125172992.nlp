@@ -1,0 +1,14 @@
+1	Trump	trump	NN	pos2=VB	2	compound	_	U-ORG
+2	plots	plot	NNS	pos2=VBZ	13	nsubj	_	O
+3	more	more	JJR	_	5	nmod	_	O
+4	transition	transition	NN	_	5	compound	_	O
+5	moves	move	NNS	pos2=VBZ	2	dobj	_	O
+6	while	while	IN	_	7	mark	_	O
+7	in	in	IN	_	5	advcl	_	O
+8	Florida	florida	NNP	_	10	compound	_	U-GPE
+9	-	-	HYPH	_	10	punct	_	O
+10	USA	usa	NNP	_	7	pobj	_	O
+11	TODAY	today	NN	pos2=NNP	13	npadvmod	_	U-DATE
+12	https://t.co/Ykf8lQWR7i	#hlink#	ADD	pos2=NNP	13	nsubj	_	B-DATE
+13	#GN	#gn	ADD	pos2=-RRB-	0	root	_	L-DATE
+

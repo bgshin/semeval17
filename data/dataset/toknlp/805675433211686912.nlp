@@ -1,0 +1,17 @@
+1	Slaving	slave	VBG	pos2=NN	7	nsubjpass	_	O
+2	for	for	IN	_	1	prep	_	O
+3	minimum	minimum	JJ	pos2=NN	4	nmod	_	O
+4	wage	wage	NN	_	2	pobj	_	O
+5	,	,	,	_	1	punct	_	O
+6	being	be	VBG	_	7	auxpass	_	O
+7	taunted	taunt	VBN	_	0	root	_	O
+8	and	and	CC	_	7	cc	_	O
+9	rejected	reject	VBN	_	7	conj	_	O
+10	.	.	.	_	7	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	're	be	VBP	_	0	root	_	O
+3	basically	basically	RB	_	2	advmod	_	O
+4	invisible	invisible	JJ	_	2	acomp	_	O
+5	.	.	.	_	2	punct	_	O
+

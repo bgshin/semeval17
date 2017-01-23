@@ -1,0 +1,21 @@
+1	Raw	raw	JJ	_	2	nmod	_	O
+2	video	video	NN	_	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	Grayson	grayson	NNP	_	5	compound	_	B-PERSON
+5	Allen	allen	NNP	_	0	root	_	L-PERSON
+6	,	,	,	_	5	punct	_	O
+7	on	on	IN	_	5	prep	_	O
+8	how	how	WRB	_	12	advmod	_	O
+9	Duke	duke	NNP	_	12	nsubj	_	O
+10	can	can	MD	_	12	aux	_	O
+11	fully	fully	RB	_	12	advmod	_	O
+12	self-evaluate	self-evaluate	VB	_	7	pcomp	_	O
+13	despite	despite	IN	_	5	prep	_	O
+14	missing	miss	VBG	_	13	pcomp	_	O
+15	3	0	CD	_	17	nmod	_	U-CARDINAL
+16	key	key	JJ	pos2=NN	17	nmod	_	O
+17	freshmen	freshman	NNS	pos2=NN	14	dobj	_	O
+18	.	.	.	_	5	punct	_	O
+
+1	https://t.co/iVd3tr3hOv	#hlink#	ADD	_	0	root	_	U-ORG
+

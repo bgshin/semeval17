@@ -1,0 +1,24 @@
+1	@ybmeepl	@ybmeepl	UH	pos2=XX	18	discourse	_	O
+2	@Asa789	@asa0	NN	pos2=CD	18	npadvmod	_	O
+3	@MattMinerXVX	@mattminerxvx	ADD	pos2=XX	18	nsubj	_	O
+4	@ShaunKing	@shaunking	VBG	pos2=ADD	3	acl	_	O
+5	Of	of	RB	pos2=IN	6	advmod	_	O
+6	course	course	RB	pos2=NN	4	advmod	_	O
+7	*	*	SYM	pos2=NFP	18	punct	_	O
+8	smacks	smack	VBZ	_	18	advcl	_	O
+9	forehead	forehead	NN	_	8	npadvmod	_	O
+10	*	*	SYM	pos2=:	18	punct	_	O
+11	b	b	NN	pos2=VB	13	nmod	_	O
+12	/	/	HYPH	pos2=SYM	13	punct	_	O
+13	c	c	JJ	pos2=NN	15	nmod	_	O
+14	white	white	JJ	_	15	nmod	_	O
+15	supremacists	supremacist	NNS	_	18	nsubj	_	O
+16	did	do	VBD	_	18	aux	_	O
+17	n't	not	RB	_	18	neg	_	O
+18	support	support	VB	_	0	root	_	O
+19	Trump	trump	NNP	pos2=NN	18	dobj	_	U-ORG
+20	throughout	throughout	IN	_	18	prep	_	O
+21	his	his	PRP$	_	22	poss	_	O
+22	campaign	campaign	NN	_	20	pobj	_	O
+23	.	.	.	_	18	punct	_	O
+

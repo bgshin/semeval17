@@ -1,0 +1,7 @@
+1	Great	great	JJ	_	2	nmod	_	O
+2	idea	idea	NN	_	0	root	_	O
+3	from	from	IN	_	2	prep	_	O
+4	@realDonaldTrump	@realdonaldtrump	XX	pos2=NNP	3	pobj	_	O
+5	#trumptransitionteam	#trumptransitionteam	XX	pos2=GW	6	nmod	_	O
+6	https://t.co/qv3q7WpWqk	#hlink#	ADD	_	3	pobj	_	O
+

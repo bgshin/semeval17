@@ -1,0 +1,20 @@
+1	@DagnyDelinquent	@dagnydelinquent	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	Agreed	agree	VBD	pos2=NNP	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	TPP	tpp	NN	_	3	nmod	_	O
+2	/	/	SYM	pos2=HYPH	3	punct	_	O
+3	Border	border	NN	pos2=JJ	6	compound	_	O
+4	security	security	NN	_	8	nmod	_	O
+5	/	/	SYM	pos2=,	8	punct	_	O
+6	immigration	immigration	NN	_	4	appos	_	O
+7	/	/	SYM	pos2=,	8	punct	_	O
+8	fair	fair	JJ	_	11	nmod	_	O
+9	trade	trade	NN	_	11	nmod	_	O
+10	/	/	SYM	_	11	punct	_	O
+11	jobs	job	NNS	_	15	nsubj	_	O
+12	/	/	SYM	pos2=,	13	punct	_	O
+13	SC	sc	NN	pos2=RB	11	prep	_	O
+14	more	more	RBR	pos2=AFX	15	advmod	_	O
+15	vital	vital	JJ	_	0	root	_	O
+

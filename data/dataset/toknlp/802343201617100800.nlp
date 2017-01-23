@@ -1,0 +1,21 @@
+1	Seems	seem	VBZ	_	0	root	_	O
+2	everyone	everyone	NN	_	4	nsubj	_	O
+3	is	be	VBZ	_	4	aux	_	O
+4	dusting	dust	VBG	_	1	ccomp	_	O
+5	off	off	RP	pos2=IN	4	prt	_	O
+6	the	the	DT	_	8	det	_	O
+7	"	"	``	_	4	punct	_	O
+8	what	what	WP	_	9	dep	_	O
+9	if	if	IN	pos2=VBZ	4	mark	_	O
+10	....	..	.	pos2=,	1	punct	_	O
+
+1	there	there	EX	_	2	expl	_	O
+2	was	be	VBD	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	nuke	nuke	NN	pos2=VB	6	nmod	_	O
+5	"	"	''	pos2=``	6	punct	_	O
+6	info	info	NN	_	2	attr	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	https://t.co/NN5RBUFo2Y	#hlink#	ADD	_	0	root	_	U-ORG
+

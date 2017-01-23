@@ -1,0 +1,20 @@
+1	Oh	oh	UH	_	5	discourse	_	O
+2	right	right	UH	_	1	discourse	_	O
+3	,	,	,	_	5	punct	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	have	have	VBP	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	save	save	VB	_	5	xcomp	_	O
+8	up	up	RP	pos2=IN	7	prt	_	O
+9	$	$	$	_	10	nmod	_	O
+10	60	0	CD	_	7	dobj	_	U-MONEY
+11	by	by	IN	_	7	prep	_	O
+12	February	february	NNP	_	11	pobj	_	U-DATE
+13	if	if	IN	_	15	mark	_	O
+14	I	I	PRP	_	15	nsubj	_	O
+15	wan	wan	VBP	_	7	advcl	_	O
+16	na	to	TO	_	17	aux	_	O
+17	get	get	VB	_	15	xcomp	_	O
+18	Persona	persona	NNP	pos2=NN	17	dobj	_	O
+19	5.	0.	.	pos2=CD	5	punct	_	U-CARDINAL
+

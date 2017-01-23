@@ -1,0 +1,24 @@
+1	@Im_ConnorKelley	@im_connorkelley	XX	pos2=ADD	4	dep	_	O
+2	@realDonaldTrump	@realdonaldtrump	XX	pos2=VB	3	nmod	_	O
+3	one	#crd#	CD	pos2=PRP	4	nmod	_	U-CARDINAL
+4	what	what	WP	pos2=WDT	0	root	_	O
+5	?	?	.	_	4	punct	_	O
+
+1	too	too	RB	_	2	advmod	_	O
+2	bad	bad	JJ	pos2=RB	0	root	_	O
+3	we	we	PRP	pos2=TO	4	nsubj	_	O
+4	base	base	VBP	_	2	ccomp	_	O
+5	the	the	DT	_	6	det	_	O
+6	win	win	NN	_	4	dobj	_	O
+7	off	off	IN	pos2=RP	4	prep	_	O
+8	of	of	IN	_	7	prep	_	O
+9	electoral	electoral	JJ	_	11	nmod	_	O
+10	college	college	NN	_	11	compound	_	O
+11	votes	vote	NNS	_	8	pobj	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	Therefore	therefore	RB	_	3	advmod	_	O
+2	she	she	PRP	_	3	nsubj	_	O
+3	won	win	VBD	_	0	root	_	O
+4	nothing	nothing	NN	_	3	dobj	_	O
+

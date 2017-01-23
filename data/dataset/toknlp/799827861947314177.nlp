@@ -1,0 +1,27 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	mom	mom	NN	_	3	nsubj	_	O
+3	used	use	VBD	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	say	say	VB	_	3	xcomp	_	O
+6	,	,	,	_	5	punct	_	O
+7	"	"	``	pos2=''	5	punct	_	O
+8	Lay	lie	VB	pos2=NNP	5	xcomp	_	O
+9	down	down	RP	_	8	prt	_	O
+10	with	with	IN	_	8	prep	_	O
+11	dogs	dog	NNS	_	10	pobj	_	O
+12	,	,	,	_	8	punct	_	O
+13	get	get	VB	_	8	dep	_	O
+14	up	up	RP	_	13	prt	_	O
+15	with	with	IN	_	13	prep	_	O
+16	fleas	flea	NNS	_	15	pobj	_	O
+17	.	.	.	_	3	punct	_	O
+18	"	"	''	_	3	punct	_	O
+
+1	Just	just	RB	_	2	advmod	_	O
+2	sayin	sayin	IN	pos2=FW	0	root	_	O
+3	'	'	''	_	2	punct	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	#TrumpTransitionTeam	#trumptransitionteam	ADD	pos2=XX	2	det	_	O
+2	#DrainTheSwamp	#draintheswamp	NN	pos2=ADD	0	root	_	O
+

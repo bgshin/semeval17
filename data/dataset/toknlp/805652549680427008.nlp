@@ -1,0 +1,16 @@
+1	MMTC	mmtc	NN	pos2=NNP	3	nsubj	_	O
+2	to	to	TO	_	3	aux	_	O
+3	tie	tie	VB	pos2=NN	0	root	_	O
+4	-	-	HYPH	_	3	punct	_	O
+5	up	up	RP	pos2=NN	3	prt	_	O
+6	with	with	IN	_	3	prep	_	O
+7	SBI	sbi	NNP	pos2=NN	6	pobj	_	U-ORG
+8	to	to	TO	_	9	aux	_	O
+9	sell	sell	VB	_	3	advcl	_	O
+10	govt	govt	NN	pos2=NNS	9	dobj	_	O
+11	minted	mint	VBN	pos2=VBD	10	acl	_	O
+12	Indian	indian	NNP	pos2=JJ	15	nmod	_	B-ORG
+13	Gold	gold	NNP	pos2=NN	14	compound	_	I-ORG
+14	Coin	coin	NNP	pos2=NN	15	dep	_	L-ORG
+15	https://t.co/MJaU6zQdBW	#hlink#	ADD	_	0	root	_	O
+

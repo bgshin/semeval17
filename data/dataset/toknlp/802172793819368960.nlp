@@ -1,0 +1,5 @@
+1	Just	just	RB	_	2	advmod	_	O
+2	arrived	arrive	VBD	pos2=GW	0	root	_	O
+3	#fcblive	#fcblive	IN	pos2=ADD	2	prep	_	O
+4	https://t.co/jbWga9VYRB	#hlink#	ADD	_	3	pobj	_	O
+

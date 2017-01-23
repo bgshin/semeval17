@@ -1,0 +1,14 @@
+1	Part	part	NN	_	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	@realDonaldTrump	@realdonaldtrump	NNP	pos2=NN	5	poss	_	U-ORG
+4	's	's	POS	_	3	case	_	O
+5	history	history	NN	_	2	pobj	_	O
+6	w	w	IN	_	5	prep	_	O
+7	/	/	HYPH	pos2=GW	6	punct	_	O
+8	Cuba	cuba	NNP	pos2=GW	6	pobj	_	U-GPE
+9	https://t.co/yRgVxfIs0Q,	#hlink#	ADD	pos2=GW	13	nmod	_	O
+10	https://t.co/eJAhtXjoh9,	#hlink#	ADD	_	5	appos	_	U-ORG
+11	https://t.co/IK6bx6Cxnv	#hlink#	ADD	_	8	appos	_	U-ORG
+12	#hypocrite	#hypocrite	-RRB-	pos2=ADD	11	punct	_	O
+13	@marcorubio	@marcorubio	UH	pos2=FW	1	discourse	_	O
+

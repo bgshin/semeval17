@@ -1,0 +1,24 @@
+1	arbys	arbys	NNS	pos2=NN	8	nsubj	_	O
+2	launching	launch	VBG	_	8	csubj	_	O
+3	a	a	DT	_	5	det	_	O
+4	social	social	JJ	_	5	nmod	_	O
+5	campaign	campaign	NN	_	2	dobj	_	O
+6	against	against	IN	_	5	prep	_	O
+7	vegetarianism	vegetarianism	NN	_	6	pobj	_	O
+8	seems	seem	VBZ	_	0	root	_	O
+9	like	like	IN	_	8	prep	_	O
+10	a	a	DT	_	13	det	_	O
+11	shit	shit	NN	pos2=JJ	12	compound	_	O
+12	marketing	marketing	NN	_	13	compound	_	O
+13	decision	decision	NN	_	9	pobj	_	O
+14	,	,	,	_	15	punct	_	O
+15	remember	remember	VB	_	8	parataxis	_	O
+16	this	this	DT	_	17	det	_	O
+17	tweet	tweet	NN	_	15	dobj	_	O
+18	if	if	IN	_	20	mark	_	O
+19	they	they	PRP	_	20	nsubj	_	O
+20	end	end	VBP	_	15	advcl	_	O
+21	up	up	RP	_	20	prt	_	O
+22	a	a	DT	_	23	det	_	O
+23	casestudy	casestudy	NN	pos2=FW	20	dobj	_	O
+

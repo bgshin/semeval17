@@ -1,0 +1,19 @@
+1	You	you	PRP	_	2	nsubj	_	O
+2	know	know	VBP	_	4	parataxis	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	#Friday	#friday	NNP	pos2=$	4	attr	_	U-ORG
+6	when	when	WRB	_	11	advmod	_	O
+7	your	your	PRP$	_	9	poss	_	O
+8	#uber	#uber	PRP$	pos2=NN	9	poss	_	O
+9	driver	driver	NN	_	11	nsubj	_	O
+10	is	be	VBZ	_	11	aux	_	O
+11	playing	play	VBG	_	5	relcl	_	O
+12	#FeelTheBeat	#feelthebeat	VBN	pos2=NNP	4	ccomp	_	O
+13	by	by	IN	_	12	agent	_	O
+14	Darude	darude	NNP	_	13	pobj	_	U-ORG
+15	.	.	.	_	4	punct	_	O
+
+1	#Trance	#trance	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	#FridayFeeling	#fridayfeeling	VBG	pos2=ADD	0	root	_	O
+

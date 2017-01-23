@@ -1,0 +1,28 @@
+1	Donald	donald	NNP	_	2	compound	_	B-PERSON
+2	Trump	trump	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	next	next	JJ	pos2=RB	5	nmod	_	O
+5	President	president	NNP	_	3	attr	_	O
+6	but	but	CC	_	3	cc	_	O
+7	the	the	DT	_	9	det	_	O
+8	biggest	big	JJS	_	9	nmod	_	O
+9	winner	winner	NN	_	10	nsubj	_	O
+10	is	be	VBZ	_	3	conj	_	O
+11	Melania	melania	NNP	_	12	compound	_	B-PERSON
+12	Trump	trump	NNP	pos2=NN	10	attr	_	L-PERSON
+13	.	.	.	_	10	punct	_	O
+
+1	She	she	PRP	_	4	nsubj	_	O
+2	can	can	MD	_	4	aux	_	O
+3	now	now	RB	_	4	advmod	_	O
+4	call	call	VB	_	0	root	_	O
+5	herself	herself	PRP	_	4	dobj	_	O
+6	The	the	DT	_	8	det	_	O
+7	First	#ord#	NNP	_	8	compound	_	U-ORDINAL
+8	Lady	lady	NNP	_	4	dobj	_	O
+9	instead	instead	RB	_	10	advmod	_	O
+10	of	of	IN	_	8	prep	_	O
+11	The	the	DT	_	13	det	_	O
+12	Third	#ord#	NNP	_	13	compound	_	O
+13	Wife	wife	NNP	pos2=NN	10	pobj	_	O
+

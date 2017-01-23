@@ -1,0 +1,24 @@
+1	Northern	northern	NNP	_	2	compound	_	B-ORG
+2	League	league	NNP	_	5	poss	_	I-ORG
+3	’s	's	POS	_	2	case	_	L-ORG
+4	Matteo	matteo	NNP	_	5	compound	_	B-PERSON
+5	Salvini	salvini	NNP	_	10	nsubj	_	L-PERSON
+6	and	and	CC	_	5	cc	_	O
+7	Marine	marine	NNP	pos2=JJ	9	compound	_	B-ORG
+8	Le	le	NNP	_	9	compound	_	I-ORG
+9	Pen	pen	NNP	_	5	conj	_	L-ORG
+10	are	be	VBP	_	12	aux	_	O
+11	both	both	DT	pos2=RB	12	dep	_	O
+12	celebrating	celebrate	VBG	_	0	root	_	O
+13	the	the	DT	pos2=PRP	15	det	_	O
+14	No	no	DT	pos2=NNP	15	det	_	O
+15	vote	vote	NN	_	12	dobj	_	O
+16	in	in	IN	_	12	prep	_	O
+17	the	the	DT	_	20	det	_	O
+18	Italian	italian	JJ	_	20	nmod	_	U-NORP
+19	constitutional	constitutional	JJ	_	20	nmod	_	O
+20	referendum	referendum	NN	_	16	pobj	_	O
+21	.	.	.	_	12	punct	_	O
+
+1	Hmm.	hmm.	NN	pos2=FW	0	root	_	O
+

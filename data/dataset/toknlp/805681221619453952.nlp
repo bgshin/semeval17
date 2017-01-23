@@ -1,0 +1,14 @@
+1	BREAKINGTRUMP	breakingtrump	NNP	pos2=NN	3	poss	_	U-PERSON
+2	'S	's	POS	_	1	case	_	O
+3	CAMPAIGN	campaign	NN	pos2=NNP	4	nsubj	_	O
+4	AWARE	aware	JJ	pos2=NNP	10	advcl	_	O
+5	OF	of	IN	_	4	prep	_	O
+6	VOTER	voter	NN	pos2=NNP	8	poss	_	O
+7	'S	's	POS	_	6	case	_	O
+8	SUPPRESSION	suppression	NN	pos2=NNP	5	pobj	_	O
+9	,	,	,	_	10	punct	_	O
+10	MAKE	make	VB	_	0	root	_	O
+11	THIS	this	DT	_	12	det	_	O
+12	T	t	NN	pos2=GW	13	nsubj	_	O
+13	RENDhttps://t.co/1na9Myh2Dp	#hlink#	ADD	pos2=NN	10	ccomp	_	O
+

@@ -1,0 +1,17 @@
+1	@KellyannePolls	@kellyannepolls	NNS	pos2=ADD	5	vocative	_	O
+2	@maddow	@maddow	UH	pos2=VBP	5	discourse	_	O
+3	@BernieSanders	@berniesanders	NNS	pos2=NNPS	5	nsubj	_	O
+4	@TimRyan	@timryan	MD	pos2=NNS	5	aux	_	O
+5	Go	go	VB	_	0	root	_	O
+6	fuck	fuck	VB	_	5	advcl	_	O
+7	yourself	yourself	PRP	_	6	dobj	_	O
+8	,	,	,	_	6	punct	_	O
+9	skank	skank	NN	pos2=UH	6	vocative	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	Hillary	hillary	NNP	_	2	nsubj	_	U-PERSON
+2	won	win	VBD	pos2=MD	0	root	_	O
+3	popular	popular	JJ	_	4	nmod	_	O
+4	vote	vote	NN	_	2	dobj	_	O
+5	.	.	.	_	2	punct	_	O
+

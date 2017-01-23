@@ -1,0 +1,14 @@
+1	Scream	scream	VB	pos2=NNP	0	root	_	O
+2	Queens	queens	NNP	_	4	nmod	_	U-GPE
+3	|	|	SYM	pos2=,	1	punct	_	O
+4	#Recensione	#recensione	NNP	pos2=ADD	8	compound	_	U-GPE
+5	2×06	0×0	NN	pos2=CD	7	compound	_	O
+6	–	-	HYPH	pos2=:	7	punct	_	O
+7	Blood	blood	NN	pos2=NNP	8	compound	_	O
+8	Drive	drive	NN	pos2=GW	9	dep	_	O
+9	https://t.co/37XcU1oCK4	#hlink#	ADD	_	13	dep	_	O
+10	#recensioni	#recensioni	IN	pos2=-RRB-	0	root	_	O
+11	#screamqueens	#screamqueens	NNS	pos2=NN	13	compound	_	O
+12	#	#	NN	pos2=-LRB-	13	compound	_	O
+13	2x06	0x0	NN	_	10	pobj	_	U-MONEY
+

@@ -1,0 +1,14 @@
+1	@lyonophon	@lyonophon	UH	pos2=NNP	4	discourse	_	O
+2	Yes	yes	UH	_	4	discourse	_	O
+3	,	,	,	_	4	punct	_	O
+4	happened	happened	VBD	_	0	root	_	O
+5	to	to	IN	_	4	prep	_	O
+6	me	me	PRP	_	5	pobj	_	O
+7	too	too	RB	_	4	advmod	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	Enter	enter	VB	pos2=VBP	0	root	_	O
+2	#Uber	#uber	NNP	pos2=NN	1	dobj	_	U-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	#CarToGo	#cartogo	NNP	pos2=ADD	2	conj	_	U-PERSON
+

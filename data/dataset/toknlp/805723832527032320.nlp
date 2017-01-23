@@ -1,0 +1,17 @@
+1	@JimPowersjpp	@jimpowersjpp	PRP$	pos2=NNP	2	poss	_	O
+2	TRUMP	trump	NN	pos2=NNP	3	nsubj	_	B-ORG
+3	WINS	win	VBZ	pos2=NNS	0	root	_	I-ORG
+4	ELECTION	election	NN	pos2=NNP	5	compound	_	I-ORG
+5	NWO	nwo	NNP	pos2=NN	3	dobj	_	I-ORG
+6	&	&	CC	_	5	cc	_	I-ORG
+7	POPE	pope	NNP	pos2=NN	8	compound	_	I-ORG
+8	FRANCIS	francis	NNP	pos2=NN	5	conj	_	L-ORG
+9	AND	and	CC	_	8	cc	_	O
+10	THE	the	DT	_	13	det	_	O
+11	ELITE	elite	JJ	pos2=NNP	13	nmod	_	O
+12	ROTHSCHILD	rothschild	NNP	pos2=GW	13	compound	_	U-PERSON
+13	WARNING	warning	NN	pos2=VBG	8	conj	_	O
+14	https://t.co/3iZT3BMvMZ	#hlink#	ADD	pos2=NN	5	appos	_	O
+15	hey	hey	UH	pos2=JJ	16	discourse	_	O
+16	buddy	buddy	NN	pos2=UH	14	vocative	_	O
+

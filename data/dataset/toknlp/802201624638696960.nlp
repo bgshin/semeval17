@@ -1,0 +1,20 @@
+1	@realDonaldTrump	@realdonaldtrump	UH	pos2=NN	5	discourse	_	O
+2	I	I	PRP	pos2=CD	0	root	_	O
+3	c	c	VBP	pos2=LS	5	aux	_	O
+4	u	u	PRP	pos2=RB	5	nsubj	_	O
+5	decided	decide	VBN	pos2=VBD	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	clog	clog	VB	_	5	xcomp	_	O
+8	the	the	DT	_	9	det	_	O
+9	swamp	swamp	NN	_	7	dobj	_	O
+10	instead	instead	RB	_	11	advmod	_	O
+11	of	of	IN	_	7	prep	_	O
+12	draining	drain	VBG	_	11	pcomp	_	O
+13	it	it	PRP	_	12	dobj	_	O
+14	?	?	.	_	5	punct	_	O
+
+1	#draintheswamp	#draintheswamp	UH	pos2=XX	4	discourse	_	O
+2	#stillwithher	#stillwithher	UH	pos2=IN	4	discourse	_	O
+3	#NotMyPresident	#notmypresident	ADD	pos2=UH	0	root	_	O
+4	#TrumpUniversityFraud	#trumpuniversityfraud	ADD	pos2=UH	3	pobj	_	O
+

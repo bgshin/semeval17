@@ -1,0 +1,19 @@
+1	If	if	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	have	have	VBP	_	10	advcl	_	O
+4	any	any	DT	_	9	det	_	O
+5	specialty	specialty	NN	_	3	dobj	_	O
+6	3	0	CD	_	7	nmod	_	U-DATE
+7	D	d	NN	pos2=NNP	9	compound	_	O
+8	printing	printing	NN	pos2=VBG	9	compound	_	O
+9	needs	need	NNS	_	10	nsubj	_	O
+10	reach	reach	VBP	pos2=VB	0	root	_	O
+11	out	out	RP	pos2=RB	10	prt	_	O
+12	to	to	IN	_	10	prep	_	O
+13	my	my	PRP$	_	14	poss	_	O
+14	friend	friend	NN	_	12	pobj	_	O
+15	Siji	siji	NNP	pos2=''	14	appos	_	U-GPE
+16	at	at	IN	pos2=GW	10	prep	_	O
+17	https://t.co/O4JhJQaTnS	#hlink#	ADD	_	16	pobj	_	U-GPE
+18	https://t.co/KhueRDk8IW	#hlink#	ADD	_	16	pobj	_	U-ORG
+

@@ -1,0 +1,12 @@
+1	Oh	oh	UH	_	5	discourse	_	O
+2	my	my	UH	pos2=PRP$	1	discourse	_	O
+3	gosh	gosh	UH	_	1	discourse	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	's	's	VBZ	_	0	root	_	O
+6	David	david	NNP	_	7	compound	_	B-PERSON
+7	Blaine	blaine	NNP	_	5	attr	_	L-PERSON
+8	!!	!!	.	_	5	punct	_	O
+
+1	stephanie__719	stephanie__0	NN	pos2=-LRB-	2	dep	_	O
+2	https://t.co/Zwe0NFqZ6M	#hlink#	ADD	pos2=NN	0	root	_	O
+

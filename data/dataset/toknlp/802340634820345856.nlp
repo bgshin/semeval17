@@ -1,0 +1,29 @@
+1	@SharylAttkisson	@sharylattkisson	NNP	pos2=ADD	2	compound	_	U-ORG
+2	President	president	NNP	_	3	compound	_	O
+3	Obama	obama	NNP	_	4	nsubj	_	U-PERSON
+4	says	say	VBZ	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	lot	lot	NN	_	3	appos	_	O
+7	of	of	IN	_	6	prep	_	O
+8	things	thing	NNS	_	7	pobj	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	Thank	thank	VBP	_	11	advcl	_	O
+2	GOD	god	NNP	pos2=NN	1	dobj	_	O
+3	that	that	DT	pos2=WDT	5	nsubj	_	O
+4	's	's	VBZ	_	5	aux	_	O
+5	coming	come	VBG	_	1	ccomp	_	O
+6	to	to	IN	_	5	prep	_	O
+7	an	an	DT	_	8	det	_	O
+8	end	end	NN	_	6	pobj	_	O
+9	,	,	,	_	11	punct	_	O
+10	I	I	PRP	_	11	nsubj	_	O
+11	know	know	VBP	_	0	root	_	O
+12	Obama	obama	NNP	_	13	compound	_	U-PERSON
+13	Admin	admin	NNP	pos2=NN	16	nsubj	_	O
+14	have	have	VBP	_	16	aux	_	O
+15	been	be	VBN	_	16	aux	_	O
+16	harassing	harass	VBG	_	11	ccomp	_	O
+17	you	you	PRP	_	16	dobj	_	O
+18	too	too	RB	_	16	advmod	_	O
+

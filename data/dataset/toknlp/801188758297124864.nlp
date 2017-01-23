@@ -1,0 +1,12 @@
+1	@KremlinTrolls	@kremlintrolls	NNS	pos2=UH	6	dep	_	O
+2	sorry	sorry	UH	pos2=JJ	6	discourse	_	O
+3	,	,	,	_	6	punct	_	O
+4	do	do	VBP	_	6	aux	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	have	have	VB	_	0	root	_	O
+7	any	any	DT	_	8	det	_	O
+8	proof	proof	NN	_	6	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	that	that	DT	_	9	pobj	_	O
+11	?	?	.	_	6	punct	_	O
+

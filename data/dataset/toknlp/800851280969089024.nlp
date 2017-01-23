@@ -1,0 +1,27 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	O
+2	@benwerd	@benwerd	NN	pos2=FW	8	dep	_	O
+3	:	:	:	_	8	punct	_	O
+4	Trump	trump	NNP	pos2=NN	5	compound	_	U-ORG
+5	supporters	supporter	NNS	_	8	vocative	_	O
+6	,	,	,	_	8	punct	_	O
+7	please	please	UH	_	8	discourse	_	O
+8	read	read	VB	_	0	root	_	O
+9	this	this	DT	_	10	det	_	O
+10	article	article	NN	_	8	dobj	_	O
+11	.	.	.	_	8	punct	_	O
+
+1	Do	do	VBP	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	support	support	VB	_	0	root	_	O
+4	this	this	DT	_	3	dobj	_	O
+5	?	?	.	_	3	punct	_	O
+
+1	What	what	WDT	pos2=WP	3	det	_	O
+2	possible	possible	JJ	_	3	nmod	_	O
+3	response	response	NN	_	4	attr	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	there	there	EX	pos2=RB	4	expl	_	O
+6	?	?	.	_	4	punct	_	O
+
+1	https://t.co/mfHpTYYRfJ	#hlink#	ADD	_	0	root	_	U-ORG
+

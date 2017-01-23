@@ -1,0 +1,19 @@
+1	@sakrong	@sakrong	UH	pos2=NN	12	discourse	_	O
+2	@Portosj81J	@portosj0j	NN	pos2=XX	12	dep	_	O
+3	@worldgoneweird	@worldgoneweird	UH	pos2=MD	12	discourse	_	O
+4	@YouTube	@youtube	NNP	pos2=UH	5	compound	_	U-PERSON
+5	@nypostHere	@nyposthere	EX	pos2=NNP	9	poss	_	O
+6	's	's	POS	pos2=VBZ	5	case	_	O
+7	another	another	DT	pos2=NN	11	det	_	O
+8	-	-	HYPH	pos2=:	12	punct	_	O
+9	>	>	SYM	pos2=-LRB-	10	punct	_	O
+10	https://t.co/zH8S9ilPuG	#hlink#	ADD	pos2=NN	12	dep	_	O
+11	it	it	PRP	_	12	nsubj	_	O
+12	's	's	VBZ	_	0	root	_	O
+13	a	a	DT	_	15	det	_	O
+14	real	real	JJ	pos2=RB	15	nmod	_	O
+15	good	good	NN	pos2=JJ	12	attr	_	O
+16	on	on	IN	_	15	prep	_	O
+17	…	…	NFP	pos2=-LRB-	16	pobj	_	O
+18	https://t.co/L8y7wLwejo	#hlink#	ADD	_	12	dep	_	O
+

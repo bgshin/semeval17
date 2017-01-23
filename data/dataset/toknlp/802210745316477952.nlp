@@ -1,0 +1,17 @@
+1	Eastern	eastern	NNP	_	5	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	1	0	CD	_	4	nmod	_	B-DATE
+4	st	st	NN	_	5	compound	_	L-DATE
+5	#MannequinChallenge	#mannequinchallenge	NN	pos2=ADD	0	root	_	O
+6	who	who	WP	_	7	nsubj	_	O
+7	's	's	VBZ	_	5	relcl	_	O
+8	next	next	JJ	pos2=RB	7	acomp	_	O
+9	?	?	.	_	5	punct	_	O
+
+1	@debdibbles	@debdibbles	UH	pos2=NNS	3	discourse	_	O
+2	@Adamax89	@adamax0	NN	pos2=NNS	3	compound	_	O
+3	@PapworthMel	@papworthmel	NN	pos2=UH	0	root	_	O
+4	??	??	.	pos2=SYM	3	punct	_	O
+
+1	https://t.co/xmsMhnJZXY	#hlink#	ADD	_	0	root	_	U-ORG
+

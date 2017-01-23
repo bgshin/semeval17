@@ -1,0 +1,31 @@
+1	The	the	DT	_	3	det	_	O
+2	2016	0	CD	_	3	nmod	_	U-DATE
+3	recount	recount	NN	_	11	nsubj	_	O
+4	led	lead	VBN	_	3	acl	_	O
+5	by	by	IN	_	4	agent	_	O
+6	@DrJillStein	@drjillstein	NNP	pos2=NN	5	pobj	_	O
+7	&	&	CC	_	4	cc	_	O
+8	funded	fund	VBN	_	4	conj	_	O
+9	by	by	IN	_	8	agent	_	O
+10	Soros	soros	NNP	_	9	pobj	_	U-PERSON
+11	is	be	VBZ	_	0	root	_	O
+12	why	why	WRB	_	14	advmod	_	O
+13	we	we	PRP	_	14	nsubj	_	O
+14	need	need	VBP	_	11	ccomp	_	O
+15	to	to	TO	_	16	aux	_	O
+16	pass	pass	VB	_	14	xcomp	_	O
+17	voter	voter	NN	_	18	compound	_	O
+18	ID	id	NN	_	16	dobj	_	O
+19	&	&	CC	_	18	cc	_	O
+20	end	end	NN	pos2=VB	21	compound	_	O
+21	liberals	liberal	NNS	_	18	conj	_	O
+22	cheating	cheat	VBG	pos2=NN	18	appos	_	O
+23	.	.	.	_	11	punct	_	O
+
+1	https	http	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	//	//	NFP	pos2=-LRB-	6	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	qtitanAChK	qtitanachk	NN	pos2=ADD	0	root	_	O
+

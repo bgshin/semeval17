@@ -1,0 +1,24 @@
+1	Please	please	UH	_	2	discourse	_	O
+2	stop	stop	VB	_	0	root	_	O
+3	propping	prop	VBG	_	2	xcomp	_	O
+4	up	up	RP	pos2=IN	3	prt	_	O
+5	Marine	marine	NNP	_	7	compound	_	B-ORG
+6	Le	le	NNP	_	7	compound	_	I-ORG
+7	Pen	pen	NNP	_	3	dobj	_	L-ORG
+8	as	as	IN	_	3	prep	_	O
+9	a	a	DT	_	12	det	_	O
+10	standard	standard	JJ	pos2=NN	12	nmod	_	O
+11	-	-	HYPH	_	12	punct	_	O
+12	bearer	bearer	NN	_	8	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	European	european	JJ	_	15	nmod	_	U-NORP
+15	conservatism	conservatism	NN	_	13	pobj	_	O
+16	.	.	.	_	2	punct	_	O
+
+1	She	she	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	no	no	DT	pos2=UH	5	det	_	O
+4	such	such	JJ	_	5	nmod	_	O
+5	thing	thing	NN	_	2	attr	_	O
+6	.	.	.	_	2	punct	_	O
+

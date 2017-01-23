@@ -1,0 +1,11 @@
+1	Animal	animal	NN	pos2=NNP	2	compound	_	O
+2	Testing	testing	NN	pos2=NNP	7	nsubj	_	O
+3	in	in	IN	_	2	prep	_	O
+4	60	0	CD	_	5	nmod	_	B-TIME
+5	Seconds	#ord#	NNS	_	3	pobj	_	L-TIME
+6	Flat	flat	JJ	pos2=GW	7	nmod	_	O
+7	https://t.co/ylxJ9nKjOr	#hlink#	ADD	pos2=NN	0	root	_	O
+8	via	via	IN	_	7	prep	_	O
+9	@YouTube	@youtube	NNP	pos2=ADD	8	pobj	_	U-ORG
+10	😔	😔	NN	pos2=NNP	7	npadvmod	_	O
+

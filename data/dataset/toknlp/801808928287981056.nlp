@@ -1,0 +1,27 @@
+1	Al	al	NNP	_	3	compound	_	B-ORG
+2	-	-	HYPH	_	3	punct	_	I-ORG
+3	Akhbar	akhbar	NNP	_	4	nsubj	_	L-ORG
+4	said	say	VBD	_	0	root	_	O
+5	#Russia	#russia	NNP	pos2=NN	10	nsubj	_	U-ORG
+6	and	and	CC	_	5	cc	_	O
+7	#Hezbollah	#hezbollah	NNP	_	5	conj	_	U-ORG
+8	will	will	MD	_	10	aux	_	O
+9	now	now	RB	_	10	advmod	_	O
+10	maintain	maintain	VB	_	4	ccomp	_	O
+11	ongoing	ongoing	JJ	_	12	nmod	_	O
+12	contact	contact	NN	_	10	dobj	_	O
+13	on	on	IN	_	12	prep	_	O
+14	operational	operational	JJ	_	15	nmod	_	O
+15	issues	issue	NNS	_	13	pobj	_	O
+16	in	in	IN	_	15	prep	_	O
+17	#	#	NN	pos2=-LRB-	18	compound	_	O
+18	Syria	syria	NNP	_	16	pobj	_	U-GPE
+19	.	.	.	_	4	punct	_	O
+
+1	https	http	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	//	//	NFP	pos2=-LRB-	6	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	VEh27IAc89	veh0iac0	NN	pos2=ADD	0	root	_	O
+

@@ -1,0 +1,26 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@realDonaldTrump	@realdonaldtrump	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	promised	promise	VBD	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	best	good	JJS	pos2=RBS	2	dobj	_	O
+5	and	and	CC	_	4	cc	_	O
+6	the	the	DT	_	7	det	_	O
+7	brightest	bright	JJS	pos2=RBS	4	conj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	He	he	PRP	_	3	nsubj	_	O
+2	's	's	VBZ	_	3	aux	_	O
+3	giving	give	VBG	_	0	root	_	O
+4	us	us	PRP	_	3	dative	_	O
+5	mediocre	mediocre	JJ	pos2=NN	3	dobj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	rightists	rightist	NNS	_	5	conj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	America	america	NNP	_	2	nsubj	_	U-GPE
+2	is	be	VBZ	_	0	root	_	O
+3	so	so	RB	_	4	advmod	_	O
+4	screwed	screwed	JJ	pos2=GW	2	acomp	_	O
+5	https://t.co/k8XvBQQp0T	#hlink#	ADD	pos2=RP	0	root	_	U-ORG
+

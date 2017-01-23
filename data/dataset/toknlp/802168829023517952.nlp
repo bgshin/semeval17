@@ -1,0 +1,28 @@
+1	Live	live	VB	pos2=JJ	0	root	_	O
+2	in	in	IN	_	1	prep	_	O
+3	#Amsterdam	#amsterdam	NNP	_	2	pobj	_	U-GPE
+4	?	?	.	_	1	punct	_	O
+
+1	Use	use	VB	_	0	root	_	O
+2	my	my	PRP$	_	3	poss	_	O
+3	promocode	promocode	NN	_	1	dobj	_	O
+4	with	with	IN	_	1	prep	_	O
+5	@UberEATS	@ubereats	NNS	pos2=NNP	4	pobj	_	O
+6	and	and	CC	_	1	cc	_	O
+7	we	we	PRP	_	9	nsubj	_	O
+8	both	both	DT	pos2=CC	7	appos	_	O
+9	get	get	VBP	_	1	conj	_	O
+10	to	to	TO	pos2=IN	11	aux	_	O
+11	spend	spend	VB	_	9	xcomp	_	O
+12	€	$	$	_	13	nmod	_	O
+13	10	0	CD	_	11	dobj	_	U-MONEY
+14	,	,	,	_	9	punct	_	O
+15	-	-	:	pos2=HYPH	18	punct	_	O
+16	:eats	:eats	NNS	pos2=XX	18	npadvmod	_	O
+17	-	-	HYPH	pos2=SYM	18	punct	_	O
+18	uthphcg9ue#ordering	uthphcg0ue#ordering	VBG	pos2=FW	13	nmod	_	O
+19	#food	#food	UH	pos2=XX	18	discourse	_	O
+20	#delivery	#delivery	UH	pos2=FW	18	discourse	_	O
+21	#yay	#yay	UH	pos2=MD	18	punct	_	O
+22	#uber	#uber	UH	pos2=.	18	discourse	_	O
+

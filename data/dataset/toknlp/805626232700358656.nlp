@@ -1,0 +1,22 @@
+1	#Trump	#trump	NNP	pos2=NN	3	poss	_	U-ORG
+2	’s	's	POS	_	1	case	_	O
+3	Meeting	meeting	NN	pos2=NNP	6	nmod	_	O
+4	w	w	IN	_	3	prep	_	O
+5	/	/	HYPH	_	4	punct	_	O
+6	Ex	ex	NN	pos2=NNP	0	root	_	O
+7	-	-	HYPH	pos2=:	8	punct	_	O
+8	#Bank	#bank	NNP	pos2=JJ	9	compound	_	O
+9	CEO	ceo	NN	pos2=NNP	4	pobj	_	O
+10	Who	who	WP	_	11	nsubj	_	O
+11	Wants	want	VBZ	_	9	relcl	_	O
+12	to	to	TO	_	13	aux	_	O
+13	Abolish	abolish	VB	_	11	xcomp	_	O
+14	#FederalReserve	#federalreserve	NNP	pos2=ADD	13	dobj	_	O
+15	&	&	CC	_	13	cc	_	O
+16	Return	return	VB	pos2=NNP	13	conj	_	O
+17	to	to	IN	_	16	prep	_	O
+18	#Gold	#gold	NNP	pos2=VBN	19	compound	_	B-ORG
+19	Standard	standard	NNP	pos2=JJ	17	pobj	_	L-ORG
+20	https://t.co/ffYc7oopko#economy	#hlink#	ADD	pos2=NNP	18	appos	_	O
+21	#silver	#silver	-RRB-	pos2=ADD	3	punct	_	O
+

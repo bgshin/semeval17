@@ -1,0 +1,18 @@
+1	@FoxNews	@foxnews	NNS	pos2=ADD	2	compound	_	O
+2	@KellyannePolls	@kellyannepolls	NNS	pos2=VBZ	0	root	_	O
+3	as	as	IN	_	6	mark	_	O
+4	I	I	PRP	_	6	nsubj	_	O
+5	would	would	MD	_	6	aux	_	O
+6	give	give	VB	_	2	advcl	_	O
+7	a	a	DT	_	8	det	_	O
+8	damn	damn	NN	pos2=RB	6	dobj	_	O
+9	about	about	IN	_	8	prep	_	O
+10	what	what	WP	pos2=WDT	16	dobj	_	O
+11	Nazi	nazi	NNP	_	13	compound	_	U-NORP
+12	-	-	HYPH	pos2=:	13	punct	_	O
+13	Barbie	barbie	NNP	_	14	nsubj	_	O
+14	has	have	VBZ	_	9	pcomp	_	O
+15	to	to	TO	_	16	aux	_	O
+16	say	say	VB	_	14	xcomp	_	O
+17	.	.	.	_	2	punct	_	O
+

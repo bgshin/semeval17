@@ -1,0 +1,15 @@
+1	World	world	NNP	pos2=NN	3	compound	_	B-EVENT
+2	War	war	NNP	_	3	compound	_	I-EVENT
+3	III	iii	NNP	_	5	nsubj	_	L-EVENT
+4	will	will	MD	_	5	aux	_	O
+5	start	start	VB	_	0	root	_	O
+6	by	by	IN	_	5	prep	_	O
+7	Trump	trump	NNP	pos2=NN	6	pobj	_	U-PERSON
+8	calling	call	VBG	_	5	xcomp	_	O
+9	Kim	kim	NNP	_	11	compound	_	B-PERSON
+10	Jong	jong	NNP	_	11	compound	_	L-PERSON
+11	Un	un	NNP	pos2=JJ	12	compound	_	O
+12	fat	fat	NN	pos2=RB	8	dobj	_	O
+13	via	via	IN	_	8	prep	_	O
+14	twitter	twitter	NN	pos2=NNP	13	pobj	_	O
+

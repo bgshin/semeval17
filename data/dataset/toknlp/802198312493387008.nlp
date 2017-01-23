@@ -1,0 +1,10 @@
+1	The	the	DT	_	5	det	_	O
+2	Truth	truth	NNP	pos2=NN	5	compound	_	O
+3	About	about	NNP	pos2=IN	5	compound	_	O
+4	David	david	NNP	_	5	compound	_	B-PERSON
+5	Blaine	blaine	NNP	_	8	poss	_	I-PERSON
+6	's	's	POS	_	5	case	_	L-PERSON
+7	Frog	frog	NNP	_	8	compound	_	B-WORK_OF_ART
+8	Trick	trick	NNP	pos2=NN	9	dep	_	L-WORK_OF_ART
+9	https://t.co/SjlvXlzcZP	#hlink#	ADD	_	0	root	_	O
+

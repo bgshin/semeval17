@@ -1,0 +1,27 @@
+1	@	@	SYM	_	5	punct	_	O
+2	1patrickmcclain	0patrickmcclain	NN	pos2=JJ	4	compound	_	O
+3	@AFan_ofTruth	@afan_oftruth	NNP	pos2=IN	4	compound	_	B-PERSON
+4	Sanders	sanders	NNP	_	5	nsubj	_	L-PERSON
+5	was	be	VBD	_	0	root	_	O
+6	my	my	PRP$	_	7	poss	_	O
+7	fear	fear	NN	_	5	attr	_	O
+8	as	as	RB	_	9	advmod	_	O
+9	far	far	RB	_	5	advmod	_	O
+10	as	as	IN	_	9	prep	_	O
+11	tax	tax	NN	_	12	compound	_	O
+12	hikes	hike	NNS	_	10	pobj	_	O
+13	.	.	.	_	5	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	did	do	VBD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	vote	vote	VB	_	0	root	_	O
+5	trump	trump	NN	_	4	dobj	_	O
+6	btw.	btw.	FW	pos2=NN	4	advmod	_	O
+7	Even	even	RB	_	11	advmod	_	O
+8	though	though	IN	_	11	mark	_	O
+9	Obamacare	obamacare	NNP	_	11	nsubj	_	U-ORG
+10	has	have	VBZ	_	11	aux	_	O
+11	ruined	ruin	VBN	_	4	advcl	_	O
+12	me	me	PRP	_	11	dobj	_	O
+

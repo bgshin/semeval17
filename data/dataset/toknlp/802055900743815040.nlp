@@ -1,0 +1,25 @@
+1	@_	@_	SYM	pos2=NFP	6	punct	_	O
+2	JeffPennington	jeffpennington	NNP	_	3	compound	_	U-ORG
+3	@Henderson1983	@henderson0	NN	pos2=WP	6	vocative	_	O
+4	You	you	PRP	pos2=NNP	5	nmod	_	O
+5	guys	guy	NNS	_	6	nsubj	_	O
+6	are	be	VBP	_	0	root	_	O
+7	white	white	JJ	_	6	acomp	_	O
+8	?	?	.	_	6	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	always	always	RB	_	3	advmod	_	O
+3	imagined	imagine	VBD	_	0	root	_	O
+4	you	you	PRP	_	5	nmod	_	O
+5	guys	guy	NNS	_	3	dobj	_	O
+6	as	as	IN	_	3	prep	_	O
+7	a	a	DT	_	8	det	_	O
+8	buff	buff	NN	_	6	pobj	_	O
+9	Ricky	ricky	NNP	_	10	compound	_	B-PERSON
+10	Martin	martin	NNP	_	14	nmod	_	L-PERSON
+11	and	and	CC	_	10	cc	_	O
+12	Enrique	enrique	NNP	_	13	compound	_	B-PERSON
+13	Iglesias	iglesias	NNP	_	10	conj	_	L-PERSON
+14	duo	duo	NN	pos2=FW	6	pobj	_	O
+15	.	.	.	_	3	punct	_	O
+

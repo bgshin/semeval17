@@ -1,0 +1,9 @@
+1	it	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	bob	bob	NN	pos2=JJ	5	compound	_	O
+5	dylan	dylan	NN	pos2=NNP	2	attr	_	O
+6	kinda	kinda	RB	pos2=GW	7	advmod	_	O
+7	night	night	NN	pos2=RB	2	npadvmod	_	U-TIME
+8	🎧	🎧	.	pos2=NNP	2	punct	_	O
+

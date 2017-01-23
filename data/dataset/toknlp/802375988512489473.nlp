@@ -1,0 +1,10 @@
+1	@sasommer	@sasommer	UH	pos2=PRP	6	discourse	_	O
+2	oh	oh	UH	_	6	discourse	_	O
+3	,	,	,	_	6	punct	_	O
+4	the	the	DT	_	5	det	_	O
+5	deplorables	deplorables	NNS	pos2=TO	6	nsubj	_	O
+6	beg	beg	VBP	pos2=VB	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	differ	differ	VB	_	6	xcomp	_	O
+9	.	.	.	_	6	punct	_	O
+

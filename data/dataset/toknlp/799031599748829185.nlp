@@ -1,0 +1,23 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	more	more	RBR	_	4	advmod	_	O
+4	difficult	difficult	JJ	_	2	acomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	move	move	VB	_	2	xcomp	_	O
+7	to	to	IN	_	6	prep	_	O
+8	Mexico	mexico	NNP	_	7	pobj	_	U-GPE
+9	as	as	IN	_	12	mark	_	O
+10	the	the	DT	_	11	det	_	O
+11	Clintons	clinton	NNPS	pos2=NNP	12	nsubj	_	U-PERSON
+12	built	build	VBD	_	2	advcl	_	O
+13	a	a	DT	_	16	det	_	O
+14	bloody	bloody	JJ	_	16	nmod	_	O
+15	great	great	JJ	_	16	nmod	_	O
+16	fence	fence	NN	_	12	dobj	_	O
+17	all	all	RB	_	18	advmod	_	O
+18	along	along	IN	_	12	prep	_	O
+19	the	the	DT	_	20	det	_	O
+20	Border	border	NNP	pos2=NN	18	pobj	_	U-LOC
+21	…	…	NFP	pos2=POS	22	punct	_	O
+22	https://t.co/LU1AGbIoSw	#hlink#	ADD	_	2	dep	_	O
+

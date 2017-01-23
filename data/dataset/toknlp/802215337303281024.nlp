@@ -1,0 +1,18 @@
+1	aw	aw	UH	_	2	discourse	_	O
+2	!	!	.	_	0	punct	_	O
+
+1	so	so	RB	_	2	advmod	_	O
+2	late	late	JJ	pos2=RB	7	nmod	_	O
+3	but	but	CC	_	2	cc	_	O
+4	Happy	happy	JJ	_	2	conj	_	O
+5	belated	belated	JJ	pos2=VBN	7	nmod	_	O
+6	Thanksgiving	thanksgiving	NNP	pos2=NN	7	compound	_	U-DATE
+7	sis	sis	NN	pos2=FW	0	root	_	O
+8	!	!	.	_	7	punct	_	O
+
+1	Love	love	VBP	pos2=VB	0	root	_	O
+2	you	you	PRP	_	1	dobj	_	O
+3	!	!	.	_	1	punct	_	O
+
+1	https://t.co/4u8Nba6AgC	#hlink#	ADD	_	0	root	_	U-ORG
+

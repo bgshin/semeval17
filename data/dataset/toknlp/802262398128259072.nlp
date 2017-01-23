@@ -1,0 +1,23 @@
+1	Watching	watch	VBG	_	9	csubj	_	O
+2	#BETPresents	#betpresents	NNP	pos2=NNS	3	compound	_	B-ORG
+3	Love	love	NNP	pos2=NN	1	dobj	_	I-ORG
+4	&	&	CC	_	3	cc	_	I-ORG
+5	Happiness	happiness	NNP	pos2=NN	3	conj	_	L-ORG
+6	an	an	DT	_	8	det	_	O
+7	Obama	obama	NNP	_	8	compound	_	O
+8	Celebration	celebration	NN	pos2=NNP	9	nsubj	_	O
+9	brings	bring	VBZ	_	0	root	_	O
+10	tears	tear	NNS	_	9	dobj	_	O
+11	2	0	CD	pos2=IN	15	nmod	_	U-CARDINAL
+12	my	my	PRP$	_	13	poss	_	O
+13	eyes	eye	NNS	_	14	nsubj	_	O
+14	@POTUS	@potus	VBP	pos2=POS	16	aux	_	O
+15	u	u	PRP	pos2=RP	16	nsubj	_	O
+16	led	lead	VBN	pos2=VBD	9	advcl	_	O
+17	this	this	DT	_	18	det	_	O
+18	country	country	NN	_	16	dobj	_	O
+19	w	w	IN	_	16	prep	_	O
+20	/	/	HYPH	_	19	punct	_	O
+21	#dignity&grace	#dignity&grace	NN	pos2=IN	19	pobj	_	O
+22	#ThankYouObama	#thankyouobama	NN	pos2=ADD	16	dep	_	O
+

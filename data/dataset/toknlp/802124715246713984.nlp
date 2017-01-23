@@ -1,0 +1,18 @@
+1	One	#crd#	CD	_	2	nmod	_	B-DATE
+2	week	week	NN	_	6	npadvmod	_	L-DATE
+3	until	until	IN	_	6	mark	_	O
+4	Panto	panto	NNP	pos2=NN	5	compound	_	U-ORG
+5	rehearsals	rehearsal	NNS	_	6	nsubj	_	O
+6	begin	begin	VB	pos2=VBP	0	root	_	O
+7	!!	!!	.	_	6	punct	_	O
+
+1	So	so	RB	_	2	advmod	_	O
+2	excited	excited	JJ	_	0	root	_	O
+3	!!	!!	.	_	2	punct	_	O
+
+1	🎄👸🏻	🎄👸🏻	SYM	pos2=NFP	2	punct	_	U-ORG
+2	#BeautyAndTheBeast	#beautyandthebeast	ADD	pos2=JJS	0	root	_	O
+3	#lowestoft	#lowestoft	UH	pos2=IN	2	discourse	_	O
+4	@MarinaTheatre1	@marinatheatre0	NN	pos2=GW	5	compound	_	O
+5	@PHApantos	@phapantos	NNS	pos2=ADD	2	dobj	_	O
+

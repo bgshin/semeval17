@@ -1,0 +1,24 @@
+1	Alfred	alfred	NNP	_	2	compound	_	B-PERSON
+2	Essa	essa	NNP	_	23	dep	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	VP	vp	NNP	pos2=NN	5	compound	_	B-ORG
+5	Analytics	analytics	NNP	_	2	conj	_	I-ORG
+6	&	&	CC	_	5	cc	_	I-ORG
+7	R&D	r&d	NN	pos2=NNP	23	dep	_	L-ORG
+8	@MHEducation	@mheducation	NN	pos2=NNP	9	compound	_	O
+9	talks	talk	NNS	pos2=VBZ	5	conj	_	O
+10	about	about	IN	_	9	prep	_	O
+11	"	"	``	_	10	punct	_	O
+12	Deep	deep	JJ	pos2=NNP	14	nmod	_	B-WORK_OF_ART
+13	Learning	learning	NNP	pos2=NN	14	compound	_	I-WORK_OF_ART
+14	Primer	primer	NNP	pos2=NN	10	pobj	_	I-WORK_OF_ART
+15	for	for	IN	_	14	prep	_	I-WORK_OF_ART
+16	Business	business	NNP	pos2=NN	17	compound	_	I-WORK_OF_ART
+17	Leaders	leader	NNPS	pos2=NNS	15	pobj	_	I-WORK_OF_ART
+18	"	"	''	pos2=ADD	10	punct	_	L-WORK_OF_ART
+19	@	@	SYM	pos2=-LRB-	23	punct	_	O
+20	#PAChicago	#pachicago	NNP	pos2=ADD	23	nmod	_	B-WORK_OF_ART
+21	N	n	GW	pos2=NNP	23	nmod	_	I-WORK_OF_ART
+22	…	…	GW	pos2=NFP	23	nmod	_	L-WORK_OF_ART
+23	https://t.co/7hs5l7AuD9	#hlink#	ADD	pos2=NN	0	root	_	O
+

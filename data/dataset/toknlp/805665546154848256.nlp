@@ -1,0 +1,21 @@
+1	BUSYBEAGLEhalfmastiff	busybeaglehalfmastiff	NN	pos2=NNS	7	nsubj	_	O
+2	(	(	-LRB-	_	7	punct	_	O
+3	Roku	roku	NNP	pos2=NN	4	compound	_	B-PERSON
+4	MF	mf	NNP	pos2=NN	1	appos	_	L-PERSON
+5	)	)	-RRB-	_	1	punct	_	O
+6	has	have	VBZ	_	7	aux	_	O
+7	finished	finish	VBN	_	0	root	_	O
+8	watching	watch	VBG	_	7	xcomp	_	O
+9	Westworld	westworld	NNP	_	8	dobj	_	O
+10	-	-	:	pos2=,	7	punct	_	O
+11	The	the	DT	_	13	det	_	O
+12	Bicameral	bicameral	JJ	pos2=NNP	13	nmod	_	O
+13	Mind	mind	NNP	pos2=NN	7	dobj	_	O
+14	.	.	.	_	7	punct	_	O
+
+1	(	(	-LRB-	_	5	punct	_	O
+2	90	0	CD	_	3	nmod	_	B-TIME
+3	minutes	minute	NNS	_	5	nmod	_	L-TIME
+4	)	)	-RRB-	_	5	nmod	_	O
+5	https://t.co/nXZeAlnNuG	#hlink#	ADD	_	0	root	_	O
+

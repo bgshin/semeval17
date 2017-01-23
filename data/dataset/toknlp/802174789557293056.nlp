@@ -1,0 +1,22 @@
+1	#TheWalkingDead	#thewalkingdead	NN	pos2=NNP	2	compound	_	O
+2	star	star	NN	_	13	vocative	_	O
+3	,	,	,	_	2	punct	_	O
+4	Tom	tom	NNP	_	5	compound	_	B-PERSON
+5	Payne	payne	NNP	_	2	appos	_	L-PERSON
+6	and	and	CC	_	5	cc	_	O
+7	#JurassicPark	#jurassicpark	NNP	pos2=NN	8	compound	_	U-ORG
+8	legend	legend	NN	pos2=FW	5	conj	_	O
+9	,	,	,	_	13	punct	_	O
+10	Sam	sam	NNP	_	11	compound	_	B-PERSON
+11	Neill	neill	NNP	_	13	nsubjpass	_	L-PERSON
+12	are	be	VBP	_	13	auxpass	_	O
+13	featured	feature	VBN	_	0	root	_	O
+14	in	in	IN	_	13	prep	_	O
+15	this	this	DT	_	14	pobj	_	O
+16	#MindGamers	#mindgamers	VBZ	pos2=PRP$	13	punct	_	O
+17	new	new	JJ	_	18	nmod	_	O
+18	trailer	trailer	NN	_	16	dobj	_	O
+19	....	..	.	pos2=,	13	punct	_	O
+
+1	https://t.co/ehfuiKxGtl	#hlink#	ADD	_	0	root	_	U-ORG
+

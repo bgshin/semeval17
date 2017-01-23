@@ -1,0 +1,20 @@
+1	@cagesideseats	@cagesideseats	PRP$	pos2=NNS	2	poss	_	O
+2	Bull	bull	NN	pos2=NNP	5	nsubj	_	O
+3	vs	vs	CC	pos2=IN	2	cc	_	O
+4	Corbin	corbin	NNP	_	5	nsubj	_	U-PERSON
+5	is	be	VBZ	_	16	ccomp	_	O
+6	the	the	DT	_	8	det	_	O
+7	gold	gold	NN	pos2=JJ	8	compound	_	O
+8	standard	standard	NN	pos2=JJ	5	attr	_	O
+9	for	for	IN	pos2=CC	8	prep	_	O
+10	bad	bad	JJ	_	13	nmod	_	O
+11	no	no	DT	pos2=UH	13	det	_	O
+12	DQ	dq	NNP	pos2=NN	13	compound	_	O
+13	matches	match	NNS	pos2=VBZ	9	pobj	_	O
+14	,	,	,	_	16	punct	_	O
+15	this	this	DT	_	16	nsubj	_	O
+16	was	be	VBD	_	0	root	_	O
+17	a	a	DT	_	19	det	_	O
+18	close	close	JJ	_	19	nmod	_	O
+19	second	#ord#	NN	pos2=JJ	16	attr	_	U-ORDINAL
+

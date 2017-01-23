@@ -1,0 +1,27 @@
+1	Blks	blks	NNS	pos2=VBZ	16	nsubj	_	O
+2	as	as	IN	_	1	prep	_	O
+3	a	a	DT	_	5	det	_	O
+4	community	community	NN	_	5	compound	_	O
+5	praise	praise	NN	pos2=VBP	2	pobj	_	O
+6	Obama	obama	NNP	_	5	appos	_	U-PERSON
+7	,	,	,	_	1	punct	_	O
+8	but	but	CC	_	11	cc	_	O
+9	under	under	IN	_	16	prep	_	O
+10	Obama	obama	NNP	_	12	poss	_	U-PERSON
+11	's	's	POS	_	10	case	_	O
+12	administration	administration	NN	_	9	pobj	_	O
+13	,	,	,	_	16	punct	_	O
+14	America	america	NNP	_	16	nsubj	_	U-GPE
+15	has	have	VBZ	_	16	aux	_	O
+16	bombed	bomb	VBN	_	0	root	_	O
+17	/	/	SYM	pos2=WP	16	punct	_	O
+18	killed	kill	VBN	pos2=VBD	16	dep	_	O
+19	more	more	RBR	pos2=JJR	20	advmod	_	O
+20	Africans	african	NNPS	_	18	dobj	_	U-NORP
+21	than	than	IN	_	19	prep	_	O
+22	any	any	DT	_	24	det	_	O
+23	other	other	JJ	_	24	nmod	_	O
+24	admin	admin	NN	_	21	pobj	_	O
+25	in	in	IN	_	24	prep	_	O
+26	history	history	NN	_	25	pobj	_	O
+

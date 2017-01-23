@@ -1,0 +1,18 @@
+1	BREAKING	breaking	NN	pos2=VBG	17	dep	_	O
+2	:	:	:	_	17	punct	_	O
+3	Paul	paul	NNP	_	4	compound	_	B-ORG
+4	Ryan	ryan	NNP	_	17	dep	_	I-ORG
+5	&	&	CC	_	4	cc	_	I-ORG
+6	GOP	gop	NNP	_	8	compound	_	I-ORG
+7	Announce	announce	NNP	pos2=VBP	8	compound	_	I-ORG
+8	Plan	plan	NNP	pos2=NN	4	conj	_	L-ORG
+9	To	to	TO	pos2=IN	4	npadvmod	_	O
+10	DRASTICALLY	drastically	RB	pos2=NNP	13	advmod	_	O
+11	Cut	cut	NNP	pos2=VB	13	compound	_	O
+12	Health	health	NNP	pos2=NN	13	compound	_	O
+13	Care	care	NNP	pos2=NN	9	pobj	_	O
+14	(	(	-LRB-	_	13	punct	_	O
+15	DETAILS	detail	NNS	pos2=GW	13	appos	_	O
+16	)	)	-RRB-	_	13	punct	_	O
+17	https://t.co/7znWkfuV5t	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,18 @@
+1	@KremlinTrolls	@kremlintrolls	NNS	pos2=ADD	2	compound	_	O
+2	@RFERL	@rferl	NN	pos2=UH	0	root	_	O
+3	that	that	WDT	pos2=DT	4	nsubj	_	O
+4	's	's	VBZ	_	2	relcl	_	O
+5	dumb	dumb	JJ	_	4	acomp	_	O
+6	...	..	.	pos2=,	2	punct	_	O
+
+1	the	the	DT	_	3	det	_	O
+2	American	american	JJ	_	3	nmod	_	U-NORP
+3	ones	#crd#	NNS	_	6	nsubj	_	O
+4	do	do	VBP	_	6	aux	_	O
+5	not	not	RB	_	6	neg	_	O
+6	handle	handle	VB	_	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	terrain	terrain	NN	_	6	dobj	_	O
+9	as	as	RB	_	10	advmod	_	O
+10	well	well	RB	_	6	advmod	_	O
+

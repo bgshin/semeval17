@@ -1,0 +1,24 @@
+1	Trump	trump	NN	pos2=NNP	3	nsubj	_	U-ORG
+2	can	can	MD	_	3	aux	_	O
+3	save	save	VB	_	0	root	_	O
+4	these	these	DT	_	5	det	_	O
+5	jobs	job	NNS	_	3	dobj	_	O
+6	either	either	CC	pos2=RB	8	preconj	_	O
+7	--	--	:	_	5	punct	_	O
+8	Hello	hello	UH	_	5	discourse	_	O
+9	,	,	,	_	5	punct	_	O
+10	self-driving	self-driving	JJ	_	11	nmod	_	O
+11	cars	car	NNS	_	5	conj	_	O
+12	,	,	,	_	11	punct	_	O
+13	and	and	CC	_	11	cc	_	O
+14	goodbye	goodbye	NN	pos2=VBD	11	conj	_	O
+15	to	to	IN	_	3	prep	_	O
+16	4.1	0	CD	_	17	compound	_	B-CARDINAL
+17	million	#crd#	CD	_	18	nmod	_	L-CARDINAL
+18	jobs	job	NNS	_	15	pobj	_	O
+19	?	?	.	_	3	punct	_	O
+
+1	-	-	SYM	pos2=NFP	3	punct	_	O
+2	MarketWatch	marketwatch	NNP	_	3	nmod	_	U-ORG
+3	https://t.co/cSbaob1SKj	#hlink#	ADD	pos2=NN	0	root	_	O
+

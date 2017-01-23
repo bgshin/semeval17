@@ -1,0 +1,18 @@
+1	@vogon	@vogon	UH	pos2=XX	2	discourse	_	O
+2	gon	gon	VBG	pos2=VB	0	root	_	O
+3	na	to	TO	pos2=NN	4	aux	_	O
+4	be	be	VB	_	2	xcomp	_	O
+5	especially	especially	RB	_	6	advmod	_	O
+6	concerning	concern	VBG	pos2=JJ	4	acomp	_	O
+7	when	when	WRB	_	10	advmod	_	O
+8	steve	steve	JJ	pos2=NNP	9	compound	_	O
+9	bannon	bannon	NNP	pos2=NN	10	nsubj	_	O
+10	marks	mark	VBZ	_	6	pobj	_	O
+11	it	it	PRP	_	10	dobj	_	O
+12	for	for	IN	_	10	prep	_	O
+13	deletion	deletion	NN	_	12	pobj	_	O
+14	for	for	IN	_	10	prep	_	O
+15	lack	lack	NN	_	14	pobj	_	O
+16	of	of	IN	_	15	prep	_	O
+17	relevance	relevance	NN	_	16	pobj	_	O
+

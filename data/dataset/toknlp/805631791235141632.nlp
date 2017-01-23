@@ -1,0 +1,15 @@
+1	Lmao	lmao	NNP	pos2=JJ	4	nmod	_	O
+2	medical	medical	JJ	_	3	nmod	_	O
+3	marijuana	marijuana	NN	_	4	compound	_	O
+4	amirite	amirite	NN	pos2=FW	10	nsubj	_	O
+5	(	(	-LRB-	_	4	punct	_	O
+6	fyi	fyi	FW	pos2=RB	10	advmod	_	O
+7	this	this	DT	_	8	det	_	O
+8	bitch	bitch	NN	_	10	nsubj	_	O
+9	never	never	RB	_	10	neg	_	O
+10	texted	text	VBD	_	0	root	_	O
+11	me	me	PRP	_	10	dobj	_	O
+12	back	back	RB	pos2=GW	10	advmod	_	O
+13	)	)	-RRB-	pos2=GW	10	punct	_	O
+14	https://t.co/bcT6tYe9BL	#hlink#	ADD	pos2=NN	10	dep	_	U-DATE
+

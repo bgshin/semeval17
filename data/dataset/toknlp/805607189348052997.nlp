@@ -1,0 +1,14 @@
+1	Renzi	renzi	NNP	_	2	nsubj	_	U-PERSON
+2	Resigns	resign	VBZ	pos2=NNP	0	root	_	O
+3	Following	follow	VBG	pos2=NNP	2	prep	_	O
+4	Crushing	crushing	NNP	pos2=GW	6	compound	_	O
+5	Referendum	referendum	NN	pos2=GW	6	compound	_	O
+6	Defeat	defeat	NN	pos2=GW	3	pobj	_	O
+7	https://t.co/b4Ev9BbdGN	#hlink#	ADD	pos2=NN	13	dep	_	O
+8	#Italy	#italy	NNP	pos2=-RRB-	9	compound	_	U-LANGUAGE
+9	#election	#election	NN	pos2=ADD	13	dep	_	O
+10	#referendum	#referendum	UH	pos2=GW	13	dep	_	O
+11	#Renzi	#renzi	NNP	pos2=GW	13	dep	_	B-PERSON
+12	…	…	NFP	pos2=-LRB-	13	punct	_	L-PERSON
+13	https://t.co/F7yDe4lubF	#hlink#	ADD	_	2	dep	_	O
+

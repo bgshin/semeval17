@@ -1,0 +1,19 @@
+1	Dear	dear	JJ	pos2=NNP	2	nmod	_	O
+2	Angels	angel	NNPS	pos2=NNS	4	poss	_	O
+3	#Angels	#angels	POS	pos2=NNPS	2	case	_	O
+4	#TrumpArmy	#trumparmy	NN	pos2=ADD	6	dep	_	O
+5	#Anonymous	#anonymous	NNP	pos2=CC	9	compound	_	O
+6	Anonymous	anonymous	NNP	pos2=JJ	10	compound	_	O
+7	#TPP	#tpp	NNP	pos2=POS	10	compound	_	O
+8	TPP	tpp	NNP	pos2=NN	10	compound	_	B-PERSON
+9	Trump	trump	NNP	_	10	compound	_	L-PERSON
+10	Pence	penny	NNP	_	14	vocative	_	O
+11	#	#	NN	pos2=-LRB-	12	compound	_	O
+12	3X	0x	NN	_	16	dep	_	U-MONEY
+13	@StopStopHillary	@stopstophillary	GW	pos2=NN	14	punct	_	O
+14	Thank	thank	VBP	_	0	root	_	O
+15	you	you	PRP	_	14	dobj	_	O
+16	https://t.co/SILUJKNUaz	#hlink#	ADD	pos2=VBP	14	vocative	_	O
+17	via	via	IN	_	14	prep	_	O
+18	@YouTube	@youtube	NNP	pos2=ADD	17	pobj	_	O
+

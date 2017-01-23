@@ -1,0 +1,11 @@
+1	KC	kc	NN	pos2=NNP	2	compound	_	O
+2	preparing	prepare	VBG	pos2=NN	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	self-driving	self-driving	JJ	_	5	nmod	_	O
+5	cars	car	NNS	_	3	pobj	_	O
+6	https://t.co/yz27v4P352	#hlink#	ADD	pos2=VBP	10	nmod	_	O
+7	@Road2Tomorrow	@road0tomorrow	NN	pos2=-RRB-	10	nmod	_	U-ORG
+8	@MoDOT	@modot	ADD	pos2=VBD	5	acl	_	O
+9	@MoDOT_KC	@modot_kc	ADD	pos2=XX	10	det	_	O
+10	@TeslaMotors	@teslamotors	NNS	pos2=ADD	8	pobj	_	O
+

@@ -1,0 +1,32 @@
+1	Fun	fun	JJ	pos2=NNP	2	nmod	_	O
+2	Fact	fact	NN	pos2=NNP	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	My	my	PRP$	_	2	poss	_	O
+2	IUD	iud	NN	pos2=NNP	5	nsubj	_	O
+3	would	would	MD	_	5	aux	_	O
+4	have	have	VB	_	5	aux	_	O
+5	cost	cost	VBN	pos2=NN	0	root	_	O
+6	$	$	$	_	7	nmod	_	O
+7	1422	0	CD	_	5	dobj	_	U-MONEY
+8	w/o	w/o	IN	_	5	prep	_	O
+9	Obamacare	obamacare	NNP	_	8	pobj	_	U-ORG
+10	.	.	.	_	5	punct	_	O
+
+1	B	b	NN	pos2=VB	3	nmod	_	O
+2	/	/	SYM	pos2=HYPH	3	punct	_	O
+3	c	c	NN	pos2=NNS	8	dep	_	O
+4	of	of	IN	_	3	prep	_	O
+5	Obamacare	obamacare	NNP	_	4	pobj	_	U-ORG
+6	,	,	,	_	8	punct	_	O
+7	I	I	PRP	_	8	nsubj	_	O
+8	got	get	VBD	_	0	root	_	O
+9	it	it	PRP	_	8	dobj	_	O
+10	for	for	IN	_	8	prep	_	O
+11	free	free	JJ	_	10	pcomp	_	O
+12	and	and	CC	_	8	cc	_	O
+13	am	be	VBP	pos2=NN	14	aux	_	O
+14	preventing	prevent	VBG	_	8	conj	_	O
+15	abortions	abortion	NNS	_	14	dobj	_	O
+16	#ThankYouObama	#thankyouobama	ADD	pos2=NN	8	punct	_	U-TIME
+

@@ -1,0 +1,27 @@
+1	@Trumpmerica	@trumpmerica	NNP	pos2=UH	7	vocative	_	O
+2	You	you	PRP	_	7	nsubj	_	O
+3	deplorables	deplorables	NNS	pos2=MD	2	appos	_	O
+4	have	have	VBP	_	7	aux	_	O
+5	n't	not	RB	_	7	neg	_	O
+6	been	be	VBN	_	7	aux	_	O
+7	saying	say	VBG	_	0	root	_	O
+8	Merry	merry	NNP	pos2=GW	9	compound	_	B-PERSON
+9	Christmas	christmas	NNP	pos2=NNPS	4	dobj	_	L-PERSON
+10	because	because	IN	_	12	mark	_	O
+11	you	you	PRP	_	12	nsubj	_	O
+12	thought	think	VBD	_	7	advcl	_	O
+13	you	you	PRP	_	16	nsubjpass	_	O
+14	were	be	VBD	_	16	auxpass	_	O
+15	n't	not	RB	_	16	neg	_	O
+16	allowed	allow	VBN	_	12	ccomp	_	O
+17	...	..	.	pos2=,	7	punct	_	O
+
+1	bwahahahaha	bwahahahaha	NN	pos2=UH	4	discourse	_	O
+2	now	now	RB	_	4	advmod	_	O
+3	that	that	DT	pos2=WDT	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	funny	funny	JJ	_	4	acomp	_	O
+6	!	!	.	_	4	punct	_	O
+
+1	😂😂😂	😂😂😂	SYM	pos2=NFP	0	root	_	U-ORG
+

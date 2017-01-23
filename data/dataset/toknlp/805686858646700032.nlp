@@ -1,0 +1,22 @@
+1	In	in	IN	pos2=RB	5	prep	_	O
+2	occupied	occupy	VBN	pos2=VBD	3	nmod	_	O
+3	Kashmir	kashmir	NNP	_	1	pobj	_	U-LOC
+4	,	,	,	_	3	punct	_	O
+5	the	the	DT	_	8	det	_	O
+6	joint	joint	JJ	pos2=NN	8	nmod	_	O
+7	resistance	resistance	NN	_	8	compound	_	O
+8	leadership	leadership	NN	_	0	root	_	O
+9	comprising	comprise	VBG	_	8	acl	_	O
+10	Syed	syed	NNP	_	12	compound	_	B-PERSON
+11	Ali	ali	NNP	_	12	compound	_	I-PERSON
+12	Gilani	gilani	NNP	_	9	dobj	_	L-PERSON
+13	,	,	,	_	12	punct	_	O
+14	Mirwaiz	mirwaiz	NNP	_	16	compound	_	B-PERSON
+15	Umar	umar	NNP	_	16	compound	_	I-PERSON
+16	Farooq	farooq	NNP	_	12	conj	_	L-PERSON
+17	and	and	CC	_	16	cc	_	O
+18	Muhammad	muhammad	NNP	_	16	conj	_	U-PERSON
+19	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/O5YCtjfhKF	#hlink#	ADD	_	0	root	_	U-ORG
+

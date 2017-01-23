@@ -1,0 +1,6 @@
+1	ashley	ashley	NN	pos2=JJ	2	compound	_	O
+2	graham	graham	NNP	pos2=NN	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	so	so	RB	_	5	advmod	_	O
+5	pretty	pretty	RB	pos2=JJ	3	acomp	_	O
+

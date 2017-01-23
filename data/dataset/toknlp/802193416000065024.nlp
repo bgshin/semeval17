@@ -1,0 +1,28 @@
+1	10,000	0	CD	pos2=TO	2	nmod	_	U-CARDINAL
+2	vote	vote	NN	_	3	compound	_	O
+3	win	win	NN	_	0	root	_	O
+4	with	with	IN	_	3	prep	_	O
+5	cheating	cheat	VBG	pos2=NN	4	pcomp	_	O
+6	all	all	RB	_	7	advmod	_	O
+7	around	around	RB	_	5	advmod	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	margin	margin	NN	_	2	attr	_	O
+5	of	of	IN	_	4	prep	_	O
+6	that	that	DT	_	8	det	_	O
+7	last	last	JJ	_	8	nmod	_	O
+8	rally	rally	NN	_	5	pobj	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	Steve	steve	NNP	_	2	compound	_	B-PERSON
+2	Bannon	bannon	NNP	_	3	nsubj	_	L-PERSON
+3	earned	earn	VBD	_	0	root	_	O
+4	everything	everything	NN	_	3	dobj	_	O
+5	he	he	PRP	_	6	nsubj	_	O
+6	's	's	VBZ	pos2=GW	4	relcl	_	O
+7	…	…	NFP	pos2=VBG	6	acomp	_	O
+8	https://t.co/Djf1tfovSS	#hlink#	ADD	_	4	appos	_	O
+

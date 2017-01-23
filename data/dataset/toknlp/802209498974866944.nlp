@@ -1,0 +1,23 @@
+1	Has	have	VBZ	_	5	aux	_	O
+2	Putin	putin	NNP	_	5	nsubj	_	U-PERSON
+3	ever	ever	RB	_	5	advmod	_	O
+4	*	*	NFP	pos2=SYM	5	punct	_	O
+5	seen	see	VBN	_	0	root	_	O
+6	*	*	SYM	pos2=NFP	5	punct	_	O
+7	a	a	DT	_	10	det	_	O
+8	Steven	steven	NNP	_	9	compound	_	B-PERSON
+9	Seagal	seagal	NNP	_	10	compound	_	L-PERSON
+10	movie	movie	NN	pos2=VB	5	dobj	_	O
+11	?	?	.	_	5	punct	_	O
+
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	decision	decision	NN	_	2	attr	_	O
+5	he	he	PRP	_	7	nsubj	_	O
+6	could	could	MD	_	7	aux	_	O
+7	live	live	VB	_	4	relcl	_	O
+8	to	to	TO	pos2=IN	9	aux	_	O
+9	regret	regret	VB	_	7	xcomp	_	O
+10	https://t.co/GedlkqwmYH	#hlink#	ADD	_	9	dobj	_	U-ORG
+

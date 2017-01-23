@@ -1,0 +1,23 @@
+1	@brianschatz	@brianschatz	UH	pos2=PRP	5	discourse	_	O
+2	Have	have	VBP	_	5	aux	_	O
+3	you	you	PRP	_	5	nsubj	_	O
+4	openly	openly	RB	_	5	advmod	_	O
+5	denounced	denounce	VBD	_	0	root	_	O
+6	Steve	steve	NNP	_	7	compound	_	B-PERSON
+7	Bannon	bannon	NNP	_	5	dobj	_	L-PERSON
+8	and	and	CC	_	7	cc	_	O
+9	white	white	JJ	_	10	nmod	_	O
+10	supremacy	supremacy	NN	_	7	conj	_	O
+11	,	,	,	_	7	punct	_	O
+12	also	also	RB	_	14	advmod	_	O
+13	the	the	DT	_	14	det	_	O
+14	lack	lack	NN	_	7	appos	_	O
+15	of	of	IN	_	14	prep	_	O
+16	diversity	diversity	NN	_	15	pobj	_	O
+17	in	in	IN	_	14	prep	_	O
+18	Trump	trump	NNP	_	21	poss	_	U-PERSON
+19	’s	's	POS	_	18	case	_	O
+20	transition	transition	NN	_	21	compound	_	O
+21	team	team	NN	_	17	pobj	_	O
+22	?	?	.	_	5	punct	_	O
+

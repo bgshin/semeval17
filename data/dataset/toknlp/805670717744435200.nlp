@@ -1,0 +1,14 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=ADD	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	from	from	IN	_	2	prep	_	O
+7	@MrColionNoir	@mrcolionnoir	ADD	pos2=NNP	6	pobj	_	O
+8	https://t.co/mnX1mbPJyh	#hlink#	ADD	pos2=NNP	10	compound	_	B-ORG
+9	Gun	gun	NNP	_	10	compound	_	I-ORG
+10	Control	control	NNP	pos2=NN	6	pobj	_	L-ORG
+11	and	and	CC	_	10	cc	_	O
+12	Fear	fear	NNP	pos2=NN	13	compound	_	O
+13	Mongering	mongering	NNP	pos2=NN	10	conj	_	O
+

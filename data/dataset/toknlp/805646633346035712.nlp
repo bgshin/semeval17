@@ -1,0 +1,21 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	have	have	VBP	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	write	write	VB	_	2	xcomp	_	O
+5	an	an	DT	_	8	det	_	O
+6	8	0	CD	_	7	nmod	_	U-CARDINAL
+7	page	page	NN	_	8	compound	_	O
+8	essay	essay	NN	_	4	dobj	_	O
+9	on	on	IN	_	8	prep	_	O
+10	vaccines	vaccine	NNS	_	9	pobj	_	O
+11	by	by	IN	_	4	prep	_	O
+12	wednesay	wednesay	NNP	pos2=NN	11	pobj	_	U-DATE
+13	and	and	CC	_	2	cc	_	O
+14	I	I	PRP	_	17	nsubj	_	O
+15	barely	barely	RB	_	17	advmod	_	O
+16	just	just	RB	_	17	advmod	_	O
+17	started	start	VBD	pos2=VBN	2	conj	_	O
+18	the	the	DT	_	19	det	_	O
+19	intro	intro	NN	pos2=GW	17	dobj	_	O
+20	https://t.co/VsOiXMgwXM	#hlink#	ADD	pos2=NN	17	npadvmod	_	O
+

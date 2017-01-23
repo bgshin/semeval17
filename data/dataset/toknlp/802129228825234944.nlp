@@ -1,0 +1,17 @@
+1	Sitzprobe	sitzprobe	NN	pos2=VB	2	compound	_	O
+2	fun	fun	NN	pos2=JJ	0	root	_	O
+3	yesterday	yesterday	NN	_	2	npadvmod	_	U-DATE
+4	!	!	.	_	2	punct	_	O
+
+1	#LiveBand	#liveband	NN	pos2=UH	0	root	_	O
+2	We	we	PRP	_	3	nsubj	_	O
+3	open	open	VBP	pos2=JJ	1	relcl	_	O
+4	next	next	JJ	_	5	nmod	_	B-DATE
+5	week	week	NN	_	1	npadvmod	_	L-DATE
+6	!	!	.	_	1	punct	_	O
+
+1	@watfordpalace	@watfordpalace	UH	pos2=VB	4	nmod	_	O
+2	#Panto	#panto	GW	pos2=NNP	4	nmod	_	U-NORP
+3	#BeautyAndTheBeast	#beautyandthebeast	GW	pos2=ADD	4	nmod	_	O
+4	https://t.co/DNy8jcb7Q8	#hlink#	ADD	pos2=NN	0	root	_	O
+

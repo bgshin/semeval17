@@ -1,0 +1,24 @@
+1	@KremlinTrolls	@kremlintrolls	NNS	pos2=NNP	6	vocative	_	O
+2	But	but	CC	_	1	cc	_	O
+3	,	,	,	_	6	punct	_	O
+4	her	her	PRP$	_	5	poss	_	O
+5	sis	sis	NN	_	6	nsubj	_	O
+6	was	be	VBD	_	0	root	_	O
+7	big	big	JJ	_	6	acomp	_	O
+8	in	in	IN	_	7	prep	_	O
+9	election	election	NN	_	8	pobj	_	O
+10	,	,	,	_	23	punct	_	O
+11	familyRall	familyrall	NNP	pos2=''	12	compound	_	B-PERSON
+12	writers&ACexpert	writers&acexpert	NNP	pos2=NN	21	dep	_	L-PERSON
+13	on	on	IN	_	12	prep	_	O
+14	digi	digi	VBG	pos2=JJ	15	nmod	_	O
+15	media	medium	NNS	pos2=NN	13	pobj	_	O
+16	,	,	,	_	23	punct	_	O
+17	so	so	RB	pos2=IN	18	advmod	_	O
+18	logical	logical	JJ	_	21	nmod	_	O
+19	cd	cd	NN	_	20	compound	_	O
+20	increase	increase	NN	pos2=VB	21	compound	_	O
+21	#	#	NN	pos2=-LRB-	23	dep	_	O
+22	s	s	AFX	pos2=GW	21	nmod	_	O
+23	https://t.co/Wsfrt7mEVd	#hlink#	ADD	pos2=NN	6	dep	_	O
+

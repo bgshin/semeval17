@@ -1,0 +1,17 @@
+1	@lsarsour	@lsarsour	UH	pos2=NNP	8	discourse	_	O
+2	But	but	CC	pos2=NNP	8	cc	_	O
+3	,	,	,	_	8	punct	_	O
+4	but	but	CC	_	8	cc	_	O
+5	,	,	,	_	8	punct	_	O
+6	Michael	michael	NNP	_	7	compound	_	B-PERSON
+7	Moore	moore	NNP	_	8	nsubj	_	L-PERSON
+8	said	say	VBD	_	0	root	_	O
+9	that	that	IN	_	12	advmod	_	O
+10	"	"	``	_	8	punct	_	O
+11	Woman	woman	NNP	pos2=NN	12	compound	_	O
+12	GOOD	good	JJ	pos2=NNP	8	ccomp	_	O
+13	,	,	,	_	15	punct	_	O
+14	men	man	NNS	_	12	appos	_	O
+15	BAD	bad	JJ	pos2=RB	14	nmod	_	O
+16	"	"	''	pos2=``	8	punct	_	O
+

@@ -1,0 +1,27 @@
+1	France	france	NNP	_	5	nmod	_	U-GPE
+2	hard	hard	RB	pos2=JJ	4	advmod	_	O
+3	-	-	HYPH	_	4	punct	_	O
+4	right	right	JJ	_	5	nmod	_	O
+5	politician	politician	NN	_	8	compound	_	O
+6	Marine	marine	NNP	pos2=JJ	8	compound	_	B-ORG
+7	Le	le	NNP	_	8	compound	_	I-ORG
+8	Pen	pen	NNP	_	9	nsubj	_	L-ORG
+9	says	say	VBZ	_	0	root	_	O
+10	she	she	PRP	_	13	nsubj	_	O
+11	has	have	VBZ	_	13	aux	_	O
+12	n't	not	RB	_	13	neg	_	O
+13	made	make	VBN	_	9	ccomp	_	O
+14	up	up	RP	_	13	prt	_	O
+15	‘	'	``	pos2=''	19	punct	_	O
+16	dumb	dumb	JJ	_	19	nmod	_	O
+17	’	'	''	_	19	punct	_	O
+18	tax	tax	NN	_	19	compound	_	O
+19	law	law	NN	_	13	dobj	_	O
+20	to	to	TO	_	21	aux	_	O
+21	fill	fill	VB	_	13	advcl	_	O
+22	hole	hole	NN	_	21	dobj	_	O
+23	in	in	IN	_	21	prep	_	O
+24	her	her	PRP$	pos2=PRP	25	poss	_	O
+25	hans	hans	NN	pos2=NNS	23	pobj	_	O
+26	:	:	:	pos2=.	9	punct	_	O
+

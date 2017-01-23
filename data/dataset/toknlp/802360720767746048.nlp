@@ -1,0 +1,18 @@
+1	How	how	WRB	_	3	advmod	_	O
+2	To	to	TO	_	3	aux	_	O
+3	Train	train	VB	pos2=NNP	0	root	_	O
+4	Your	your	PRP$	pos2=NNP	5	poss	_	O
+5	AI	ai	NN	_	3	dobj	_	O
+6	:	:	:	_	8	punct	_	O
+7	Microsoft	microsoft	NNP	_	8	nsubj	_	U-ORG
+8	Releases	release	VBZ	pos2=NNP	0	root	_	O
+9	Open	open	JJ	pos2=NNP	11	nmod	_	O
+10	-	-	HYPH	pos2=NFP	11	punct	_	O
+11	Source	source	NN	pos2=NNP	14	nmod	_	O
+12	Deep	deep	JJ	pos2=NNP	14	nmod	_	O
+13	Learning	learning	GW	pos2=NNP	14	nmod	_	O
+14	Software	software	NN	pos2=NNP	8	dobj	_	O
+15	https://t.co/ErXJayyJhq	#hlink#	ADD	pos2=NN	17	dep	_	O
+16	via	via	IN	_	8	prep	_	O
+17	@Futurism	@futurism	NNP	pos2=NN	16	pobj	_	O
+

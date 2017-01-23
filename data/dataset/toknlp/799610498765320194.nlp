@@ -1,0 +1,7 @@
+1	@KremlinTrolls	@kremlintrolls	NNS	pos2=ADD	2	nsubj	_	O
+2	@GenFlynn	@genflynn	ADD	pos2=VBP	0	root	_	O
+3	@FBI	@fbi	NFP	pos2=VBP	2	discourse	_	O
+4	good	good	JJ	_	5	nmod	_	O
+5	mans	man	NNS	pos2=NN	6	nmod	_	O
+6	https://t.co/mtd0Fc0hyt	#hlink#	ADD	_	3	root	_	O
+

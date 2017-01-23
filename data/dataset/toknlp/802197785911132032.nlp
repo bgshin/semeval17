@@ -1,0 +1,13 @@
+1	Best	good	JJS	_	2	nmod	_	O
+2	seats	seat	NNS	_	12	dep	_	O
+3	in	in	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	house	house	NN	_	3	pobj	_	O
+6	👌⚡️🐉	👌⚡️🐉	NNP	pos2=WDT	12	dep	_	O
+7	#fantasticbeastsandwheretofindthem	#fantasticbeastsandwheretofindthem	UH	pos2=PRP	10	discourse	_	O
+8	#fantasticbeasts	#fantasticbeasts	UH	pos2=VBZ	10	discourse	_	O
+9	#vue	#vue	UH	pos2=IN	10	discourse	_	O
+10	#cinema	#cinema	UH	pos2=FW	6	discourse	_	O
+11	…	…	NFP	pos2=-LRB-	6	discourse	_	O
+12	https://t.co/WJ9ZdKFpJL	#hlink#	ADD	_	0	root	_	O
+

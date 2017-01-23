@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det	_	O
+2	UK	uk	NNP	_	3	compound	_	U-GPE
+3	Doctor	doctor	NNP	_	20	dep	_	O
+4	Who	who	WP	pos2=NNP	5	nsubj	_	O
+5	Beat	beat	VBD	pos2=NNP	3	relcl	_	O
+6	The	the	DT	_	8	det	_	O
+7	British	british	JJ	pos2=NNP	8	nmod	_	U-NORP
+8	GMC	gmc	NNP	pos2=NN	5	dobj	_	U-ORG
+9	By	by	IN	_	5	prep	_	O
+10	Proving	prove	VBG	pos2=NNP	9	pcomp	_	O
+11	That	that	IN	pos2=DT	13	mark	_	O
+12	Vaccines	vaccine	NNS	pos2=NNPS	13	nsubj	_	O
+13	Are	be	VBP	_	10	ccomp	_	O
+14	n’t	not	RB	_	13	neg	_	O
+15	Necessary	necessary	JJ	_	13	acomp	_	O
+16	To	to	TO	_	17	aux	_	O
+17	Achieve	achieve	VB	pos2=NNP	15	xcomp	_	O
+18	Health	health	NNP	pos2=NN	17	dobj	_	O
+19	…	…	NFP	pos2=NNP	20	punct	_	O
+20	https://t.co/LpUHqYdXYc	#hlink#	ADD	_	0	root	_	O
+

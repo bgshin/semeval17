@@ -1,0 +1,26 @@
+1	Do	do	VBP	pos2=VB	4	aux	_	O
+2	people	people	NNS	_	4	nsubj	_	O
+3	still	still	RB	_	4	advmod	_	O
+4	want	want	VBP	pos2=VB	0	root	_	O
+5	WW3	ww0	NN	pos2=NNP	4	dobj	_	O
+6	?	?	.	_	4	punct	_	O
+
+1	Is	be	VBZ	_	0	root	_	O
+2	that	that	DT	pos2=IN	1	nsubj	_	O
+3	why	why	WRB	pos2=NN	6	advmod	_	O
+4	they	they	PRP	_	6	nsubj	_	O
+5	're	be	VBP	_	6	aux	_	O
+6	paying	pay	VBG	_	1	ccomp	_	O
+7	for	for	IN	_	6	prep	_	O
+8	a	a	DT	_	9	det	_	O
+9	recount	recount	NN	_	7	pobj	_	O
+10	that	that	WDT	_	13	nsubj	_	O
+11	's	's	VBZ	_	13	aux	_	O
+12	not	not	RB	_	13	neg	_	O
+13	happening	happen	VBG	_	9	relcl	_	O
+14	?	?	.	_	1	punct	_	O
+
+1	#Recount2016	#recount0	NN	pos2=-LRB-	3	dep	_	O
+2	https://t.co/pKSrRol6Av	#hlink#	ADD	_	3	nsubj	_	O
+3	#DrainTheSwamp	#draintheswamp	ADD	pos2=-RRB-	0	root	_	O
+

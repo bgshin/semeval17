@@ -1,0 +1,10 @@
+1	@LadyThriller69	@ladythriller0	NN	pos2=NNS	0	root	_	O
+2	@TrumpEmpire	@trumpempire	ADD	pos2=NN	4	nsubj	_	O
+3	>	>	SYM	pos2=-RRB-	4	punct	_	O
+4	Arguing	argue	VBG	_	1	acl	_	O
+5	with	with	IN	_	4	prep	_	O
+6	leftistsNot	leftistsnot	NNP	pos2=RB	5	pobj	_	U-ORG
+7	even	even	RB	_	8	advmod	_	O
+8	once	once	RB	_	4	advmod	_	O
+9	.	.	.	_	1	punct	_	O
+

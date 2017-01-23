@@ -1,0 +1,26 @@
+1	Will	will	MD	_	6	aux	_	O
+2	the	the	DT	_	5	det	_	O
+3	Dakota	dakota	NNP	_	5	compound	_	O
+4	Access	access	NNP	_	5	compound	_	O
+5	pipeline	pipeline	NN	pos2=PRP	6	nsubj	_	O
+6	take	take	VB	pos2=VBP	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	place	place	NN	_	6	dobj	_	O
+9	in	in	IN	_	6	prep	_	O
+10	a	a	DT	_	12	det	_	O
+11	bitter	bitter	JJ	_	12	nmod	_	O
+12	history	history	NN	_	9	pobj	_	O
+13	?	?	.	_	6	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	pipeline	pipeline	NN	_	4	nsubj	_	O
+3	would	would	MD	_	4	aux	_	O
+4	carry	carry	VB	_	0	root	_	O
+5	as	as	RB	_	8	advmod	_	O
+6	much	much	JJ	pos2=RB	8	qmod	_	O
+7	as	as	IN	_	8	qmod	_	O
+8	570,000	0	CD	_	4	dobj	_	O
+9	...	..	.	pos2=,	4	punct	_	O
+
+1	https://t.co/z7sG1hStWf	#hlink#	ADD	_	0	root	_	U-ORG
+

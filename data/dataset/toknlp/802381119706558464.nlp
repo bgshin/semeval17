@@ -1,0 +1,17 @@
+1	@tripgabriel	@tripgabriel	UH	pos2=XX	8	discourse	_	O
+2	@abbygoodnough	@abbygoodnough	UH	pos2=IN	8	discourse	_	O
+3	What	what	WDT	pos2=UH	4	det	_	O
+4	part	part	NN	_	9	pobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	I	I	PRP	_	8	nsubj	_	O
+7	am	be	VBP	_	8	aux	_	O
+8	going	go	VBG	_	0	root	_	O
+9	to	to	TO	_	10	aux	_	O
+10	eliminate	eliminate	VB	_	8	xcomp	_	O
+11	Obamacare	obamacare	NNP	_	10	dobj	_	U-ORG
+12	did	do	VBD	_	15	aux	_	O
+13	you	you	PRP	_	15	nsubj	_	O
+14	not	not	RB	_	15	neg	_	O
+15	understand	understand	VB	_	10	ccomp	_	O
+16	?	?	.	_	8	punct	_	O
+

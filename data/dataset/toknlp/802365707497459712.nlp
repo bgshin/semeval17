@@ -1,0 +1,26 @@
+1	@brucepknight	@brucepknight	UH	pos2=XX	13	discourse	_	O
+2	@FrankLuntz	@frankluntz	ADD	pos2=GW	13	punct	_	O
+3	@TheAtlantic	@theatlantic	NNP	pos2=XX	7	compound	_	O
+4	What	what	WP	pos2=WDT	9	dobj	_	O
+5	Trump	trump	NNP	pos2=NN	9	nsubj	_	B-ORG
+6	&	&	CC	_	5	cc	_	I-ORG
+7	Ryan	ryan	NNP	_	5	conj	_	L-ORG
+8	will	will	MD	_	9	aux	_	O
+9	do	do	VB	_	13	aux	_	O
+10	for	for	IN	_	9	prep	_	O
+11	them	them	PRP	pos2=RB	10	pobj	_	O
+12	-	-	,	pos2=TO	13	punct	_	O
+13	take	take	VB	pos2=VBP	0	root	_	O
+14	their	their	PRP$	_	15	poss	_	O
+15	Medicare	medicare	NNP	pos2=NN	13	dobj	_	U-ORG
+16	,	,	,	_	15	punct	_	O
+17	Social	social	NNP	_	18	compound	_	B-ORG
+18	Security	security	NNP	_	15	conj	_	L-ORG
+19	,	,	,	_	13	punct	_	O
+20	and	and	CC	_	13	cc	_	O
+21	NOT	not	RB	_	22	neg	_	O
+22	create	create	VB	_	13	conj	_	O
+23	any	any	DT	_	24	det	_	O
+24	jobs	job	NNS	_	22	dobj	_	O
+25	.	.	.	_	13	punct	_	O
+

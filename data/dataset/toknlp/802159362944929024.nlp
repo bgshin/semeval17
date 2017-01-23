@@ -1,0 +1,13 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	David	david	NNP	_	4	compound	_	B-PERSON
+4	Blaine	blaine	NNP	_	6	nsubj	_	L-PERSON
+5	to	to	TO	_	6	aux	_	O
+6	make	make	VB	_	2	ccomp	_	O
+7	cards	card	NNS	_	8	nsubj	_	O
+8	come	come	VB	pos2=VBN	6	ccomp	_	O
+9	out	out	IN	_	8	prep	_	O
+10	of	of	IN	_	9	prep	_	O
+11	my	my	PRP$	_	12	poss	_	O
+12	mouth	mouth	NN	_	10	pobj	_	O
+

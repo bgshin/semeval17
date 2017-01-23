@@ -1,0 +1,11 @@
+1	This	this	DT	_	4	det	_	O
+2	David	david	NNP	_	3	compound	_	B-PERSON
+3	Blaine	blaine	NNP	_	4	compound	_	L-PERSON
+4	movie	movie	NN	pos2=NNP	7	nsubj	_	O
+5	is	be	VBZ	_	7	aux	_	O
+6	absolutely	absolutely	RB	_	7	advmod	_	O
+7	blowing	blow	VBG	_	0	root	_	O
+8	my	my	PRP$	_	9	poss	_	O
+9	mind😍	mind😍	NNP	pos2=PRP	7	dobj	_	B-PRODUCT
+10	@davidblaine	@davidblaine	UH	pos2=NN	7	discourse	_	L-PRODUCT
+

@@ -1,0 +1,22 @@
+1	#Spurs	#spurs	NNS	pos2=NNP	2	compound	_	O
+2	#GoSpursGo	#gospursgo	NNP	pos2=RB	0	root	_	O
+3	2010	0	CD	_	5	qmod	_	B-DATE
+4	-	-	SYM	pos2=HYPH	5	punct	_	I-DATE
+5	11	0	CD	_	10	nmod	_	L-DATE
+6	Panini	panini	NNP	pos2=NN	9	compound	_	B-EVENT
+7	Gold	gold	NNP	pos2=NN	9	compound	_	I-EVENT
+8	Standard	standard	NNP	pos2=JJ	9	compound	_	I-EVENT
+9	Gold	gold	NNP	pos2=NN	10	nsubj	_	I-EVENT
+10	Crowns	crown	NNS	pos2=NNP	13	nsubj	_	I-EVENT
+11	#	#	NN	pos2=$	10	npadvmod	_	I-EVENT
+12	23	0	CD	pos2=LS	11	nmod	_	L-EVENT
+13	-	-	:	pos2=HYPH	18	punct	_	O
+14	Tim	tim	NNP	_	15	compound	_	B-PERSON
+15	Duncan	duncan	NNP	_	16	compound	_	L-PERSON
+16	#	#	NN	pos2=GW	11	prep	_	O
+17	182/299	0	CD	pos2=GW	16	nmod	_	U-MONEY
+18	SPURS	spur	NNS	pos2=NNPS	21	nmod	_	O
+19	https://t.co/17c7TIdSpt	#hlink#	ADD	pos2=VBP	15	appos	_	O
+20	#TimDuncan	#timduncan	ADD	pos2=-RRB-	0	root	_	B-PERCENT
+21	#NBA	#nba	NN	pos2=ADD	20	pobj	_	L-PERCENT
+

@@ -1,0 +1,28 @@
+1	NR	nr	NN	pos2=NNP	6	nsubj	_	U-ORG
+2	then	then	RB	_	4	advmod	_	O
+3	:	:	:	_	6	punct	_	O
+4	Muslim	muslim	JJ	pos2=NNP	6	nmod	_	U-NORP
+5	immigration	immigration	NN	_	6	compound	_	O
+6	ban	ban	NN	pos2=FW	0	root	_	O
+7	“	"	``	pos2=''	9	punct	_	O
+8	religious	religious	JJ	_	9	nmod	_	O
+9	scapegoating	scapegoating	NN	_	6	appos	_	O
+10	.	.	.	_	6	punct	_	O
+
+1	”	"	``	pos2=SYM	6	punct	_	O
+2	NR	nr	NN	pos2=NNP	0	root	_	U-ORG
+3	now	now	RB	_	2	advmod	_	O
+4	:	:	:	_	2	punct	_	O
+5	“	"	``	_	6	punct	_	O
+6	Time	time	NN	pos2=NNP	2	appos	_	O
+7	for	for	IN	_	6	prep	_	O
+8	Honest	honest	JJ	pos2=NNP	9	nmod	_	O
+9	Talk	talk	NNP	pos2=NN	7	pobj	_	O
+10	about	about	IN	_	9	prep	_	O
+11	Muslim	muslim	NNP	pos2=JJ	12	compound	_	O
+12	Immigration	immigration	NNP	_	10	pobj	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	”	"	``	pos2=SYM	2	punct	_	O
+2	https://t.co/tNLN2L1eOs	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,24 @@
+1	In	in	IN	_	17	prep	_	O
+2	a	a	DT	_	8	det	_	O
+3	pay	pay	NN	pos2=VB	8	nmod	_	O
+4	-	-	HYPH	_	3	punct	_	O
+5	to	to	IN	pos2=TO	3	prep	_	O
+6	-	-	HYPH	_	5	punct	_	O
+7	play	play	NN	pos2=VB	5	pobj	_	O
+8	scheme	scheme	NN	_	1	pobj	_	O
+9	,	,	,	_	17	punct	_	O
+10	when	when	WRB	_	12	advmod	_	O
+11	there	there	EX	_	12	expl	_	O
+12	’s	's	VBZ	_	17	advcl	_	O
+13	no	no	DT	_	14	det	_	O
+14	player	player	NN	_	12	attr	_	O
+15	,	,	,	_	17	punct	_	O
+16	there	there	EX	_	17	expl	_	O
+17	’s	's	VBZ	_	0	root	_	O
+18	no	no	DT	_	19	det	_	O
+19	payer	payer	NN	_	17	attr	_	O
+20	.	.	.	_	17	punct	_	O
+
+1	#ClintonFoundation	#clintonfoundation	ADD	pos2=NN	2	punct	_	O
+2	https://t.co/VV8rja2rwd	#hlink#	ADD	_	0	root	_	O
+

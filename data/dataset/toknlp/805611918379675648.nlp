@@ -1,0 +1,14 @@
+1	Netflix	netflix	NNP	_	2	nsubj	_	U-ORG
+2	nabs	nab	VBZ	_	0	root	_	O
+3	Daniele	daniele	NNP	_	4	compound	_	B-PERSON
+4	Luchetti	luchetti	NNP	_	8	poss	_	I-PERSON
+5	's	's	POS	_	4	case	_	L-PERSON
+6	Pope	pope	NNP	_	7	compound	_	O
+7	Francis	francis	NNP	_	8	compound	_	U-PERSON
+8	miniseries	miniseries	NNS	pos2=VBZ	9	nsubj	_	O
+9	CALL	call	VBP	pos2=VB	2	ccomp	_	O
+10	ME	me	PRP	pos2=NNP	9	dobj	_	O
+11	FRANCIS	francis	GW	pos2=NNP	12	nmod	_	B-PERSON
+12	https://t.co/KGVWgFTZWk	#hlink#	ADD	_	9	oprd	_	L-PERSON
+13	#TV	#tv	-RRB-	pos2=ADD	2	punct	_	U-ORG
+

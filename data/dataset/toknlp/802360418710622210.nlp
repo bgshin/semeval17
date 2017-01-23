@@ -1,0 +1,29 @@
+1	@Barb4TRUMP	@barb0trump	NN	pos2=XX	2	compound	_	O
+2	@LehighCourts	@lehighcourts	NNS	pos2=NNPS	4	nsubj	_	O
+3	@yashar	@yashar	PRP$	pos2=GW	2	acl	_	O
+4	Trumped	trump	VBN	pos2=NNP	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	No	no	DT	_	2	det	_	O
+2	money	money	NN	_	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Medicare	medicare	NNP	_	3	pobj	_	U-ORG
+5	,	,	,	_	4	punct	_	O
+6	Social	social	NNP	_	7	compound	_	B-ORG
+7	Security	security	NNP	_	4	conj	_	L-ORG
+8	,	,	,	_	7	punct	_	O
+9	Public	public	JJ	pos2=NNP	10	nmod	_	O
+10	schools	school	NNS	_	7	conj	_	O
+11	-	-	,	pos2=:	2	punct	_	O
+12	only	only	RB	pos2=JJ	13	advmod	_	O
+13	for	for	IN	_	10	prep	_	O
+14	tax	tax	NN	_	15	compound	_	O
+15	cuts	cut	NNS	_	13	pobj	_	O
+16	.	.	.	_	2	punct	_	O
+
+1	Make	make	VB	pos2=VBP	0	root	_	O
+2	rich	rich	JJ	_	4	nmod	_	O
+3	richer	rich	JJR	_	4	nmod	_	O
+4	baby	baby	NN	_	1	dobj	_	O
+5	!	!	.	_	1	punct	_	O
+

@@ -1,0 +1,14 @@
+1	@BarackObama	@barackobama	NN	pos2=UH	4	dep	_	O
+2	you	you	PRP	_	4	nsubj	_	O
+3	should	should	MD	_	4	aux	_	O
+4	ask	ask	VB	_	0	root	_	O
+5	other	other	JJ	_	6	nmod	_	O
+6	leaders	leader	NNS	_	4	dobj	_	O
+7	globally	globally	RB	_	4	advmod	_	O
+8	to	to	TO	_	9	aux	_	O
+9	have	have	VB	_	4	xcomp	_	O
+10	their	their	PRP$	_	12	poss	_	O
+11	own	own	JJ	_	12	nmod	_	O
+12	Obamacare	obamacare	NNP	pos2=NN	9	dobj	_	O
+13	.	.	.	_	4	punct	_	O
+

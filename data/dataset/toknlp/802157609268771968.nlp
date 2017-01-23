@@ -1,0 +1,17 @@
+1	We	we	PRP	_	4	nsubj	_	O
+2	would	would	MD	_	4	aux	_	O
+3	totally	totally	RB	_	4	advmod	_	O
+4	accept	accept	VB	_	0	root	_	O
+5	that	that	IN	pos2=DT	8	mark	_	O
+6	challenge…if	challenge…if	NNP	pos2=IN	10	advmod	_	U-GPE
+7	it	it	PRP	_	8	nsubj	_	O
+8	were	be	VBD	_	4	ccomp	_	O
+9	at	at	RB	pos2=IN	10	advmod	_	O
+10	all	all	RB	pos2=DT	8	advmod	_	O
+11	humanly	humanly	RB	_	12	advmod	_	O
+12	possible	possible	JJ	_	8	acomp	_	O
+13	.	.	.	_	4	punct	_	O
+
+1	#ThisIsUs	#thisisus	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/GklGQyuzhs	#hlink#	ADD	_	0	root	_	O
+

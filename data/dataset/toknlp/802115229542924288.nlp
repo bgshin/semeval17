@@ -1,0 +1,14 @@
+1	Fake	fake	JJ	pos2=NN	10	dep	_	O
+2	:	:	:	_	10	punct	_	O
+3	According	accord	VBG	pos2=JJ	10	prep	_	O
+4	to	to	IN	_	3	prep	_	O
+5	@poroshenko	@poroshenko	JJ	pos2=IN	8	nmod	_	O
+6	Ukrainian	ukrainian	JJ	_	8	nmod	_	U-NORP
+7	seat	seat	NN	_	8	compound	_	O
+8	covers	cover	NNS	pos2=VBZ	4	pobj	_	O
+9	will	will	MD	_	10	aux	_	O
+10	revive	revive	VB	_	0	root	_	O
+11	Ukrainian	ukrainian	JJ	_	12	nmod	_	U-NORP
+12	eco	eco	NN	pos2=FW	10	dobj	_	O
+13	nomyhttps://t.co/x4u6T9dEO4	#hlink#	ADD	pos2=NN	8	appos	_	O
+

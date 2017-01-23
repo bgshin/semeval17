@@ -1,0 +1,24 @@
+1	Ben	ben	NNP	_	2	compound	_	B-PERSON
+2	Carson	carson	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	6	auxpass	_	O
+4	n't	not	RB	_	6	neg	_	O
+5	much	much	RB	pos2=JJ	6	advmod	_	O
+6	liked	like	VBN	pos2=VB	0	root	_	O
+7	by	by	IN	_	6	agent	_	O
+8	his	his	PRP$	_	9	poss	_	O
+9	people	people	NNS	_	7	pobj	_	O
+10	I	I	PRP	_	12	nsubj	_	O
+11	've	have	VBP	_	12	aux	_	O
+12	noticed	notice	VBN	_	6	conj	_	O
+13	but	but	CC	_	12	cc	_	O
+14	Mia	mia	NNP	_	16	nsubj	_	U-PERSON
+15	really	really	RB	_	16	advmod	_	O
+16	seems	seem	VBZ	_	12	conj	_	O
+17	down	down	RP	pos2=RB	16	prt	_	O
+18	to	to	IN	_	16	prep	_	O
+19	earth	earth	NN	_	18	pobj	_	O
+20	and	and	CC	_	19	cc	_	O
+21	a	a	DT	_	23	det	_	O
+22	reasonable	reasonable	JJ	_	23	nmod	_	O
+23	Republican	republican	JJ	pos2=NNP	16	oprd	_	U-NORP
+

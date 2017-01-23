@@ -1,0 +1,10 @@
+1	In	in	IN	_	5	prep	_	O
+2	Aleppo	aleppo	NNP	_	1	pobj	_	U-GPE
+3	,	,	,	_	5	punct	_	O
+4	Death	death	NN	_	5	nsubj	_	O
+5	Is	be	VBZ	_	0	root	_	O
+6	Everywhere	everywhere	RB	_	5	advmod	_	O
+7	#UKPolitics	#ukpolitics	GW	pos2=NNS	9	nmod	_	O
+8	https://t.co/3Fr9lRG0XA	#hlink#	ADD	_	9	nmod	_	O
+9	https://t.co/DnXJV1zrqn	#hlink#	ADD	_	5	dep	_	O
+

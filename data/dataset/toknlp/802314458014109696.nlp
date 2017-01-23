@@ -1,0 +1,29 @@
+1	@sportsdes	@sportsdes	UH	pos2=NNS	3	discourse	_	O
+2	that	that	DT	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	amazing😎	amazing😎	JJ	pos2=NNP	3	acomp	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	am	be	VBP	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	tipp	tipp	NN	pos2=NNP	5	compound	_	O
+5	supporter	supporter	NN	_	2	attr	_	O
+6	living	live	VBG	pos2=NN	5	acl	_	O
+7	i	i	IN	pos2=PRP	6	prep	_	O
+8	Sixmilebridge	sixmilebridge	NNP	_	7	pobj	_	U-GPE
+9	for	for	IN	_	6	prep	_	O
+10	35	0	CD	_	11	nmod	_	B-DATE
+11	yr😎s	yr😎s	NNS	pos2=NNPS	9	pobj	_	L-DATE
+12	.	.	.	_	2	punct	_	O
+
+1	Then	then	RB	_	2	advmod	_	O
+2	again	again	RB	_	4	advmod	_	O
+3	there	there	EX	_	4	expl	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	no	no	DT	_	7	det	_	O
+6	convention	convention	NN	_	7	compound	_	O
+7	centre	centre	NN	_	4	attr	_	O
+8	in	in	IN	_	7	prep	_	O
+9	smb😎	smb😎	NNP	pos2=.	8	pobj	_	U-GPE
+

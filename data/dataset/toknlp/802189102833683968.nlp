@@ -1,0 +1,10 @@
+1	THE	the	DT	_	3	det	_	O
+2	A	a	DT	pos2=GW	3	det	_	O
+3	WORD	word	NN	_	0	root	_	O
+4	https://t.co/GPm1SttOBf	#hlink#	ADD	pos2=NN	3	appos	_	O
+5	#apartheid	#apartheid	FW	pos2=XX	3	appos	_	O
+6	#gaza	#gaza	UH	pos2=FW	3	discourse	_	O
+7	#palestine	#palestine	UH	pos2=FW	3	discourse	_	O
+8	#israel	#israel	UH	pos2=FW	3	discourse	_	O
+9	#BDS	#bds	NNS	pos2=UH	3	appos	_	O
+

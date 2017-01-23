@@ -1,0 +1,17 @@
+1	Yes	yes	UH	_	7	discourse	_	O
+2	Mr	mr	NNP	_	3	compound	_	O
+3	Corbyn	corbyn	NNP	_	7	vocative	_	U-PERSON
+4	you	you	PRP	_	7	nsubj	_	O
+5	're	be	VBP	_	7	aux	_	O
+6	probably	probably	RB	_	7	advmod	_	O
+7	thinking	think	VBG	_	0	root	_	O
+8	democracy	democracy	NN	_	13	poss	_	O
+9	s	s	POS	pos2=VBZ	8	case	_	O
+10	u	u	GW	pos2=NNP	13	nmod	_	O
+11	c	c	NN	pos2=GW	13	nmod	_	O
+12	k	k	GW	pos2=NN	13	compound	_	O
+13	s	s	NN	pos2=POS	7	npadvmod	_	O
+14	...	..	.	pos2=,	7	punct	_	O
+
+1	https://t.co/1xlE2XlJFu	#hlink#	ADD	_	0	root	_	U-ORG
+

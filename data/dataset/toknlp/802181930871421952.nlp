@@ -1,0 +1,26 @@
+1	@schestowitz	@schestowitz	IN	pos2=VBG	7	prep	_	O
+2	US	us	NNP	_	5	nmod	_	U-GPE
+3	Main	main	JJ	pos2=NNP	5	nmod	_	O
+4	Stream	stream	NNP	pos2=NN	5	compound	_	O
+5	Media	media	NNP	_	7	nsubjpass	_	O
+6	is	be	VBZ	_	7	auxpass	_	O
+7	controlled	control	VBN	_	16	advcl	_	O
+8	by	by	IN	_	7	agent	_	O
+9	corporate	corporate	JJ	_	10	nmod	_	O
+10	interests	interest	NNS	_	8	pobj	_	O
+11	,	,	,	_	16	punct	_	O
+12	their	their	PRP$	_	14	poss	_	O
+13	propaganda	propaganda	NN	_	14	compound	_	O
+14	machine	machine	NN	_	16	nsubj	_	O
+15	,	,	,	_	16	punct	_	O
+16	avoids	avoid	VBZ	pos2=NNS	0	root	_	O
+17	covering	cover	VBG	_	16	xcomp	_	O
+18	MOST	most	RBS	pos2=JJS	20	advmod	_	O
+19	"	"	``	_	22	punct	_	O
+20	worthy	worthy	JJ	_	22	nmod	_	O
+21	"	"	''	_	22	punct	_	O
+22	news	news	NN	_	17	dobj	_	O
+23	.	.	.	_	16	punct	_	O
+
+1	#Yemen	#yemen	NNP	pos2=NNS	0	root	_	O
+

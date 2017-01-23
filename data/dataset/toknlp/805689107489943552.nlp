@@ -1,0 +1,24 @@
+1	@EdmondScofield	@edmondscofield	ADD	pos2=XX	0	root	_	U-CARDINAL
+2	@GeorgeTakei	@georgetakei	VBG	pos2=IN	5	ccomp	_	O
+3	Your	your	PRP$	_	4	poss	_	O
+4	kidding	kid	VBG	pos2=NN	5	nmod	_	O
+5	right	right	JJ	pos2=RB	1	pcomp	_	O
+6	?	?	.	_	1	punct	_	O
+
+1	Contribute	contribute	VB	pos2=VBP	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	most	most	RBS	pos2=JJS	1	advmod	_	O
+4	?	?	.	_	1	punct	_	O
+
+1	Like	like	IN	pos2=UH	10	prep	_	O
+2	gay	gay	JJ	_	3	nmod	_	O
+3	marriage	marriage	NN	_	8	compound	_	O
+4	Trans	trans	NNP	pos2=JJ	5	compound	_	O
+5	bathrooms	bathroom	NNS	_	9	compound	_	O
+6	PC	pc	NN	pos2=NNP	8	compound	_	O
+7	Obama	obama	NNP	_	8	compound	_	B-PERSON
+8	Hillary	hillary	NNP	_	1	pobj	_	L-PERSON
+9	no	no	DT	_	10	det	_	O
+10	thanks	thanks	NNS	pos2=NN	0	root	_	O
+11	!	!	.	_	10	punct	_	O
+

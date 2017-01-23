@@ -1,0 +1,25 @@
+1	@HadleyFreeman	@hadleyfreeman	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Ppl	ppl	NNP	pos2=NNS	3	compound	_	L-PERSON
+3	upset	upset	NN	pos2=VBD	6	nsubj	_	O
+4	at	at	IN	_	3	prep	_	O
+5	Trump	trump	NNP	pos2=NN	4	pobj	_	U-ORG
+6	tweeting	tweet	VBG	pos2=NN	0	root	_	O
+7	but	but	CC	_	6	cc	_	O
+8	silent	silent	JJ	_	6	conj	_	O
+9	about	about	IN	_	8	prep	_	O
+10	Obama	obama	NNP	_	11	nsubj	_	U-PERSON
+11	killing	kill	VBG	_	9	pcomp	_	O
+12	hundreds	#crd#	NNS	_	11	dobj	_	U-CARDINAL
+13	of	of	IN	_	12	prep	_	O
+14	women	woman	NNS	_	16	nmod	_	O
+15	/	/	SYM	pos2=,	16	punct	_	O
+16	children	child	NNS	_	13	pobj	_	O
+17	in	in	IN	_	11	prep	_	O
+18	drone	drone	NN	_	19	compound	_	O
+19	strikes	strike	NNS	pos2=VBZ	17	pobj	_	O
+20	last	last	JJ	pos2=RB	21	nmod	_	B-DATE
+21	8yrs	0yrs	NNS	_	16	conj	_	L-DATE
+22	,	,	,	_	21	punct	_	O
+23	v.	v.	FW	pos2=CC	24	advmod	_	O
+24	bizarre	bizarre	JJ	pos2=FW	11	advmod	_	O
+

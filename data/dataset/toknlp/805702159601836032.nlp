@@ -1,0 +1,11 @@
+1	@alanapreston452	@alanapreston0	VBD	pos2=VBG	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	man	man	NN	_	1	dobj	_	O
+4	in	in	IN	_	3	prep	_	O
+5	Black	black	NNP	_	8	poss	_	U-GPE
+6	's	's	POS	_	5	case	_	O
+7	real	real	JJ	_	8	nmod	_	O
+8	identity	identity	NN	_	4	pobj	_	O
+9	:o	:o	XX	pos2=CD	10	compound	_	O
+10	#Westworld	#westworld	NNP	pos2=XX	8	appos	_	O
+

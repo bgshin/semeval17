@@ -1,0 +1,20 @@
+1	FCBarcelona	fcbarcelona	NN	pos2=NNP	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	Arda	arda	NNP	_	4	compound	_	B-PERSON
+4	Turan	turan	NNP	_	5	nsubj	_	L-PERSON
+5	missed	miss	VBD	_	0	root	_	O
+6	Friday	friday	NNP	_	9	poss	_	U-DATE
+7	's	's	POS	_	6	case	_	O
+8	training	training	NN	_	9	compound	_	O
+9	session	session	NN	_	5	dobj	_	O
+10	at	at	IN	_	5	prep	_	O
+11	the	the	DT	_	13	det	_	O
+12	Ciutat	ciutat	NNP	_	13	compound	_	O
+13	Esportiva	esportiva	NNP	_	10	pobj	_	O
+14	due	due	IN	_	5	prep	_	O
+15	to	to	IN	_	14	pcomp	_	O
+16	a	a	DT	_	17	det	_	O
+17	fever	fever	NN	_	14	pobj	_	O
+18	#FCBlive	#fcblive	ADD	pos2=GW	19	punct	_	O
+19	https://t.co/1by7GryFPC	#hlink#	ADD	pos2=NN	17	nmod	_	O
+

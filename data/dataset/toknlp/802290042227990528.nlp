@@ -1,0 +1,9 @@
+1	Deep	deep	JJ	pos2=NNP	4	nmod	_	B-ORG
+2	Learning	learning	NNP	pos2=NN	3	compound	_	I-ORG
+3	Research	research	NNP	pos2=NN	4	compound	_	I-ORG
+4	Review	review	NN	pos2=NNP	8	dep	_	L-ORG
+5	:	:	:	_	8	punct	_	O
+6	Reinforcement	reinforcement	NN	pos2=GW	8	dep	_	O
+7	Learning	learning	GW	pos2=VBG	8	nmod	_	O
+8	https://t.co/5OTZosC27X	#hlink#	ADD	pos2=NN	0	root	_	O
+

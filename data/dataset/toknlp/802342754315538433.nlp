@@ -1,0 +1,18 @@
+1	@FoxNews	@foxnews	NNS	pos2=UH	2	nsubj	_	O
+2	@Veteran4Trump	@veteran0trump	VBP	pos2=MD	0	root	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	dare	dare	VBP	_	2	ccomp	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	protest	protest	VBP	pos2=VB	4	ccomp	_	O
+7	in	in	IN	_	6	prep	_	O
+8	front	front	NN	_	7	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	a	a	DT	_	14	det	_	O
+11	rolling	roll	VBG	pos2=JJ	12	nmod	_	O
+12	thunder	thunder	NN	_	14	compound	_	O
+13	biker	biker	NN	_	14	compound	_	O
+14	gang	gang	NN	_	9	pobj	_	O
+15	supporting	support	VBG	_	11	advcl	_	O
+16	TRUMP	trump	NN	_	15	dobj	_	U-ORG
+17	.	.	.	_	2	punct	_	O
+

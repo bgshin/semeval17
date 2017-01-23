@@ -1,0 +1,12 @@
+1	Greece	greece	NN	pos2=NNP	4	dep	_	U-GPE
+2	:	:	:	_	4	punct	_	O
+3	Adult	adult	NN	pos2=JJ	4	compound	_	O
+4	vaccination	vaccination	NN	_	11	dep	_	O
+5	in	in	IN	_	4	prep	_	O
+6	an	an	DT	_	7	det	_	O
+7	age	age	NN	_	5	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	austerity	austerity	NN	pos2=GW	8	pobj	_	O
+10	https://t.co/NO0OepRNws	#hlink#	ADD	_	11	nmod	_	O
+11	https://t.co/QAriOjAJlC	#hlink#	ADD	_	0	root	_	U-ORG
+

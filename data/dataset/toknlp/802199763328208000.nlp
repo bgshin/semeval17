@@ -1,0 +1,18 @@
+1	GRASSROOTS	grassroots	JJ	pos2=NN	2	nmod	_	O
+2	FUROR	furor	NN	_	3	compound	_	O
+3	OVER#ROMNEY	over#romney	NNP	pos2=RB	5	nsubj	_	O
+4	"	"	``	pos2=''	5	punct	_	O
+5	ACKNOWLEDGED	acknowledge	VBN	pos2=VBD	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+7	"	"	''	_	5	punct	_	O
+
+1	DAMN	damn	RB	pos2=JJ	2	advmod	_	O
+2	RIGHT	right	JJ	pos2=RB	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	GO	go	VB	pos2=VBP	2	compound	_	O
+2	PATRAEUS	patraeus	NN	pos2=RB	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	https://t.co/dURyDnLtr6#DrainTheSwamp…	#hlink#	ADD	_	5	nmod	_	O
+5	https://t.co/PSbHRrynV4	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,13 @@
+1	All	all	PDT	_	4	predet	_	O
+2	these	these	DT	_	4	det	_	O
+3	thanksgiving	thanksgiving	NN	pos2=VBG	4	compound	_	O
+4	pictures	picture	NNS	_	11	nsubj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	front	front	NN	_	5	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Christmas	christmas	NNP	_	9	compound	_	U-DATE
+9	trees	tree	NNS	_	7	pobj	_	O
+10	are	be	VBP	_	11	aux	_	O
+11	confusing	confuse	VBG	_	0	root	_	O
+12	me	me	PRP	_	11	dobj	_	O
+

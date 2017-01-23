@@ -1,0 +1,14 @@
+1	#gigs4u	#gigs0u	XX	pos2=NN	10	dep	_	O
+2	#gigs	#gigs	NNS	pos2=XX	10	dep	_	O
+3	3	0	CD	_	10	dep	_	U-CARDINAL
+4	D	d	NNP	pos2=NN	10	dep	_	B-ORG
+5	Printing	printing	NNP	pos2=NN	7	compound	_	I-ORG
+6	-	-	HYPH	pos2=:	7	punct	_	I-ORG
+7	Materials	materials	NNP	pos2=NNPS	9	compound	_	I-ORG
+8	Engineering	engineering	NNP	pos2=GW	9	compound	_	L-ORG
+9	Intern	intern	NNP	pos2=NN	10	dep	_	O
+10	https://t.co/QVGB4rUQhh	#hlink#	ADD	_	0	root	_	O
+11	#SD	#sd	-RRB-	pos2=XX	10	punct	_	O
+12	#sandiego	#sandiego	UH	pos2=FW	10	discourse	_	O
+13	#CA	#ca	NN	pos2=ADD	10	dobj	_	O
+

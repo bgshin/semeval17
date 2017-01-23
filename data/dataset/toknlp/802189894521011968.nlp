@@ -1,0 +1,13 @@
+1	#Yemen	#yemen	NNS	pos2=NN	12	dep	_	O
+2	:	:	:	_	12	punct	_	O
+3	Solar	solar	JJ	pos2=NNP	5	advmod	_	O
+4	-	-	HYPH	_	5	punct	_	O
+5	powered	powered	JJ	pos2=VBN	8	nmod	_	O
+6	water	water	NN	_	7	compound	_	O
+7	supply	supply	NN	_	8	compound	_	O
+8	project	project	NN	_	12	nsubj	_	O
+9	commissioned	commission	VBN	_	8	acl	_	O
+10	in	in	IN	_	9	prep	_	O
+11	#Yemen	#yemen	NNP	pos2=NNS	10	pobj	_	U-GPE
+12	https://t.co/5WvnGrueN6	#hlink#	ADD	pos2=NN	0	root	_	O
+

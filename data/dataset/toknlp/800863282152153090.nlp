@@ -1,0 +1,20 @@
+1	How	how	WRB	_	6	advmod	_	O
+2	time	time	NN	_	3	compound	_	O
+3	changes	change	NNS	pos2=VBZ	6	dep	_	O
+4	:	:	:	_	6	punct	_	O
+5	Microsoft	microsoft	NNP	_	6	nsubj	_	U-ORG
+6	joined	join	VBD	_	0	root	_	O
+7	Linux	linux	NNP	_	8	compound	_	B-ORG
+8	Foundation	foundation	NNP	_	6	dobj	_	L-ORG
+9	as	as	IN	_	6	prep	_	O
+10	platinum	platinum	NN	pos2=JJ	11	compound	_	O
+11	member	member	NN	_	9	pobj	_	O
+12	https://t.co/pz40HWzkTa	#hlink#	ADD	pos2=NN	14	compound	_	O
+13	-	-	HYPH	pos2=,	14	punct	_	O
+14	long	long	RB	pos2=JJ	15	advmod	_	O
+15	gone	go	VBN	pos2=NN	19	acomp	_	O
+16	the	the	DT	_	18	det	_	O
+17	Halloween	halloween	NNP	_	18	compound	_	U-DATE
+18	documents	document	NNS	_	15	dobj	_	O
+19	!	!	.	_	6	punct	_	O
+

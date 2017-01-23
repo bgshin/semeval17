@@ -1,0 +1,13 @@
+1	Oh	oh	UH	_	8	discourse	_	O
+2	my	my	UH	_	1	discourse	_	O
+3	god	god	UH	pos2=NN	1	discourse	_	O
+4	that	that	DT	pos2=IN	7	det	_	O
+5	Thanksgiving	thanksgiving	NNP	_	6	compound	_	U-DATE
+6	#ThisIsUs	#thisisus	NNP	pos2=NNPS	7	compound	_	O
+7	episode	episode	NN	_	8	nsubj	_	O
+8	had	have	VBD	_	0	root	_	O
+9	me	me	PRP	_	8	dobj	_	O
+10	in	in	IN	_	8	prep	_	O
+11	tears	tear	NNS	_	10	pobj	_	O
+12	😭😭😭	😭😭😭	.	pos2=NNP	8	punct	_	O
+

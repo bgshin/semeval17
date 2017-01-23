@@ -1,0 +1,7 @@
+1	Grayson	grayson	NNP	_	2	compound	_	B-PERSON
+2	Allen	allen	NNP	_	3	nsubj	_	L-PERSON
+3	Is	be	VBZ	_	0	root	_	O
+4	Something	something	NN	pos2=NNP	3	attr	_	O
+5	Serious	serious	JJ	_	6	nmod	_	O
+6	💪🏀	💪🏀	NN	pos2=.	4	appos	_	U-PRODUCT
+

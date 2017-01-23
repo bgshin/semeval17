@@ -1,0 +1,16 @@
+1	Sentinel	sentinel	NN	pos2=NNP	2	compound	_	O
+2	Editorial	editorial	NN	pos2=NNP	8	nsubj	_	O
+3	:	:	:	_	6	punct	_	O
+4	FBI	fbi	NNP	_	6	poss	_	U-ORG
+5	’s	's	POS	pos2=VBZ	4	case	_	O
+6	Comey	comey	NNP	_	2	appos	_	U-PERSON
+7	‘	'	''	pos2=POS	6	punct	_	O
+8	had	have	VBD	_	0	root	_	O
+9	no	no	DT	_	10	det	_	O
+10	one	#crd#	NN	pos2=CD	8	dobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	middle	middle	JJ	_	13	nmod	_	O
+13	class	class	NN	_	14	compound	_	O
+14	families	family	NNS	_	11	pobj	_	O
+15	.	.	.	_	8	punct	_	O
+

@@ -1,0 +1,17 @@
+1	We	we	PRP	_	4	nsubj	_	O
+2	can	can	MD	_	4	aux	_	O
+3	NOT	not	RB	_	4	neg	_	O
+4	let	let	VB	_	0	root	_	O
+5	them	them	PRP	_	6	nsubj	_	O
+6	get	get	VB	_	4	ccomp	_	O
+7	away	away	RB	pos2=RP	6	advmod	_	O
+8	with	with	IN	_	6	prep	_	O
+9	this	this	DT	_	12	det	_	O
+10	crap	crap	NN	_	11	compound	_	O
+11	@elizabethforma	@elizabethforma	NN	pos2=FW	12	compound	_	O
+12	@SenSchumer	@senschumer	NN	pos2=XX	8	pobj	_	O
+13	@NancyPelosi	@nancypelosi	GW	pos2=ADD	16	nmod	_	B-WORK_OF_ART
+14	@TheDemocrats	@thedemocrats	GW	pos2=NNS	16	nmod	_	I-WORK_OF_ART
+15	@alfranken	@alfranken	GW	pos2=ADD	16	nmod	_	L-WORK_OF_ART
+16	https://t.co/3jpKet7WxA	#hlink#	ADD	pos2=NN	4	dep	_	O
+

@@ -1,0 +1,16 @@
+1	In	in	IN	_	4	mark	_	O
+2	case	case	NN	_	1	pobj	_	O
+3	someone	someone	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	not	not	RB	_	4	neg	_	O
+6	aware	aware	JJ	_	4	acomp	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Steve	steve	NNP	_	9	compound	_	B-PERSON
+9	#Bannon	#bannon	NNP	_	12	poss	_	I-PERSON
+10	's	's	POS	_	9	case	_	L-PERSON
+11	mental	mental	JJ	_	12	nmod	_	O
+12	issues	issue	NNS	_	7	pobj	_	O
+13	...	..	.	pos2=,	10	punct	_	O
+
+1	https://t.co/gtDpvDHQNq	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,21 @@
+1	Jill	jill	NNP	_	2	compound	_	B-PERSON
+2	Stein	stein	NNP	_	4	nsubj	_	L-PERSON
+3	is	be	VBZ	_	4	aux	_	O
+4	proving	prove	VBG	_	0	root	_	O
+5	that	that	IN	_	7	mark	_	O
+6	she	she	PRP	_	7	nsubj	_	O
+7	's	's	VBZ	_	4	ccomp	_	O
+8	Ben	ben	NNP	_	9	compound	_	B-PERSON
+9	Carson	carson	NNP	_	7	attr	_	L-PERSON
+10	,	,	,	_	4	punct	_	O
+11	but	but	CC	_	4	cc	_	O
+12	with	with	IN	_	11	prep	_	O
+13	a	a	DT	_	17	det	_	O
+14	less	less	RBR	_	15	advmod	_	O
+15	impressive	impressive	JJ	_	17	nmod	_	O
+16	medical	medical	JJ	_	17	nmod	_	O
+17	career	career	NN	_	12	pobj	_	O
+18	.	.	.	_	4	punct	_	O
+
+1	https://t.co/uRdLQzzTBN	#hlink#	ADD	_	0	root	_	U-ORG
+

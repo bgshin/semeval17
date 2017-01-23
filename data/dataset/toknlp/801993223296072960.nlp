@@ -1,0 +1,15 @@
+1	@elizabethforma	@elizabethforma	NN	pos2=UH	4	nsubj	_	O
+2	has	have	VBZ	_	4	aux	_	O
+3	already	already	RB	_	4	advmod	_	O
+4	been	be	VBN	_	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	an	an	DT	_	7	det	_	O
+7	institute	institute	NN	_	5	pobj	_	O
+8	like	like	IN	pos2=UH	7	prep	_	O
+9	10	0	CD	_	10	nmod	_	B-DATE
+10	years	year	NNS	_	11	npadvmod	_	I-DATE
+11	ago	ago	RB	_	4	advmod	_	L-DATE
+12	.	.	.	_	4	punct	_	O
+
+1	https://t.co/uJs0eSTS3I	#hlink#	ADD	_	0	root	_	U-ORG
+

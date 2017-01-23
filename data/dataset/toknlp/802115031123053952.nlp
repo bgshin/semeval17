@@ -1,0 +1,30 @@
+1	Can	can	MD	_	4	aux	_	O
+2	any	any	DT	_	3	det	_	O
+3	one	#crd#	CD	pos2=NN	4	nsubj	_	U-CARDINAL
+4	help	help	VB	pos2=NN	0	root	_	O
+5	me	me	PRP	_	6	nsubj	_	O
+6	find	find	VB	_	4	ccomp	_	O
+7	a	a	DT	_	8	det	_	O
+8	Hatchimal	hatchimal	NNP	pos2=NN	6	dobj	_	U-GPE
+9	?	?	.	_	4	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	one	#crd#	CD	pos2=NN	2	dobj	_	U-CARDINAL
+4	for	for	IN	_	3	prep	_	O
+5	each	each	DT	_	4	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	my	my	PRP$	_	8	poss	_	O
+8	kiddies	kiddy	NNS	_	6	pobj	_	O
+9	!	!	.	_	2	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	find	find	VB	_	0	root	_	O
+5	stock	stock	NN	_	4	dobj	_	O
+6	anywhere	anywhere	RB	pos2=NN	4	advmod	_	O
+7	😰	😰	GW	pos2=NFP	9	nmod	_	U-NORP
+8	#Hatchimals	#hatchimals	NNS	pos2=GW	9	nmod	_	O
+9	https://t.co/3TiLrSYZum	#hlink#	ADD	_	4	dep	_	O
+

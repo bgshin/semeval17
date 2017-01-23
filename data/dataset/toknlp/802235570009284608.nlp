@@ -1,0 +1,12 @@
+1	Obamas	obamas	NNPS	pos2=NNP	2	nsubj	_	U-PERSON
+2	Celebrate	celebrate	VBP	pos2=VB	0	root	_	O
+3	Their	their	PRP$	_	5	poss	_	O
+4	Last	last	JJ	_	5	nmod	_	B-DATE
+5	Thanksgiving	thanksgiving	NNP	_	2	dobj	_	L-DATE
+6	At	at	IN	pos2=NNP	2	prep	_	O
+7	The	the	DT	_	9	det	_	B-ORG
+8	White	white	NNP	_	9	compound	_	I-ORG
+9	House	house	NNP	_	6	pobj	_	L-ORG
+10	#ThankYouObama	#thankyouobama	ADD	pos2=GW	11	dep	_	O
+11	https://t.co/U0LuI5CS3v	#hlink#	ADD	_	2	dep	_	U-GPE
+

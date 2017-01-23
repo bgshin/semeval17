@@ -1,0 +1,9 @@
+1	@MtinaMorgan	@mtinamorgan	ADD	pos2=UH	5	cc	_	U-PERSON
+2	@MrDane1982	@mrdane0	NN	pos2=ADD	1	dobj	_	O
+3	Why	why	WRB	_	4	advmod	_	O
+4	get	get	VB	pos2=VBP	5	auxpass	_	O
+5	rid	rid	VBN	pos2=DT	0	root	_	O
+6	of	of	IN	_	5	prep	_	O
+7	Obamacare	obamacare	NNP	_	6	pobj	_	U-ORG
+8	?	?	.	_	5	punct	_	O
+

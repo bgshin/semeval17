@@ -1,0 +1,6 @@
+1	Little	little	JJ	pos2=NNP	2	nmod	_	B-ORG
+2	Shop	shop	NNP	pos2=NN	0	root	_	I-ORG
+3	Of	of	IN	pos2=RB	2	prep	_	I-ORG
+4	Deplorables	deplorables	NNP	pos2=NNPS	3	pobj	_	L-ORG
+5	#nameapencemusical	#nameapencemusical	UH	pos2=.	2	discourse	_	O
+

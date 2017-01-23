@@ -1,0 +1,21 @@
+1	@billkaboons	@billkaboons	NNS	pos2=UH	2	compound	_	O
+2	@dnelson9411	@dnelson0	NN	pos2=:	3	nsubj	_	O
+3	Watch	watch	VB	pos2=VBP	13	advcl	_	O
+4	this	this	DT	_	3	dobj	_	O
+5	(((	((	NFP	pos2=-LRB-	7	punct	_	O
+6	David	david	NNP	_	7	compound	_	B-PERSON
+7	Blaine	blaine	NNP	_	9	nmod	_	L-PERSON
+8	)))	))	-RRB-	pos2=NFP	7	punct	_	O
+9	trick	trick	NN	_	3	dobj	_	O
+10	,	,	,	_	13	punct	_	O
+11	I	I	PRP	_	13	nsubj	_	O
+12	will	will	MD	_	13	aux	_	O
+13	turn	turn	VB	_	0	root	_	O
+14	sand	sand	NN	pos2=RB	13	dobj	_	O
+15	into	into	IN	_	13	prep	_	O
+16	glass	glass	NN	_	15	pobj	_	O
+17	in	in	IN	_	13	prep	_	O
+18	a	a	DT	_	19	det	_	O
+19	flash	flash	NN	_	17	pobj	_	O
+20	!	!	.	_	13	punct	_	O
+

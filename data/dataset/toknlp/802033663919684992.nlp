@@ -1,0 +1,18 @@
+1	This	this	DT	_	2	det	_	O
+2	week	week	NN	_	4	poss	_	U-DATE
+3	's	's	POS	_	2	case	_	O
+4	episode	episode	NN	_	7	nsubj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	#ScreamQueens	#screamqueens	NNS	pos2=NNP	5	pobj	_	O
+7	was	be	VBD	_	0	root	_	O
+8	so	so	RB	_	9	advmod	_	O
+9	great	great	JJ	_	7	acomp	_	O
+10	I	I	PRP	_	11	nsubj	_	O
+11	had	have	VBD	_	9	ccomp	_	O
+12	to	to	TO	_	13	aux	_	O
+13	watch	watch	VB	_	11	xcomp	_	O
+14	it	it	PRP	_	13	dobj	_	O
+15	again	again	RB	_	13	advmod	_	O
+16	just	just	RB	_	17	advmod	_	O
+17	now😎	now😎	RB	pos2=.	13	advmod	_	O
+

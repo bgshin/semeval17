@@ -1,0 +1,26 @@
+1	ANYONE	anyone	NN	_	12	nsubj	_	O
+2	HAVING	have	VBG	_	1	acl	_	O
+3	A	a	DT	pos2=JJ	4	det	_	O
+4	PROBLEM	problem	NN	_	2	dobj	_	O
+5	W	w	IN	pos2=NN	4	prep	_	O
+6	/	/	HYPH	pos2=SYM	5	punct	_	O
+7	"	"	``	_	9	punct	_	O
+8	TRUMP	trump	NN	pos2=NNP	9	compound	_	O
+9	PROTEST	protest	NN	pos2=NNP	5	pobj	_	O
+10	"	"	''	pos2=``	9	punct	_	O
+11	This	this	DT	_	12	nsubj	_	O
+12	is	be	VBZ	_	0	root	_	O
+13	literally	literally	RB	_	12	advmod	_	O
+14	what	what	WP	_	16	dobj	_	O
+15	Trump	trump	NNP	pos2=NN	16	nsubj	_	U-ORG
+16	called	call	VBD	pos2=VBN	12	ccomp	_	O
+17	4	0	CD	_	16	oprd	_	U-CARDINAL
+18	in	in	IN	_	16	prep	_	O
+19	2012	0	CD	_	18	pobj	_	U-DATE
+20	when	when	WRB	_	23	advmod	_	O
+21	he	he	PRP	_	23	nsubj	_	O
+22	mistakenly	mistakenly	RB	_	23	advmod	_	O
+23	thought	think	VBD	_	16	advcl	_	O
+24	…	…	NFP	pos2=IN	25	punct	_	O
+25	https://t.co/FOBx7SsiVs	#hlink#	ADD	_	23	ccomp	_	O
+

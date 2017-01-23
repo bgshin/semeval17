@@ -1,0 +1,21 @@
+1	@Michigan_SZN	@michigan_szn	ADD	pos2=XX	4	prep	_	U-ORG
+2	@Garrie24	@garrie0	NN	pos2=CD	3	compound	_	O
+3	idiot	idiot	NN	_	4	nsubj	_	O
+4	gon	gon	VBG	pos2=NN	0	root	_	O
+5	na	to	TO	pos2=RP	6	aux	_	O
+6	miss	miss	VB	pos2=AFX	4	xcomp	_	O
+7	thanksgiving	thanksgiving	NN	_	10	nmod	_	O
+8	and	and	CC	_	7	cc	_	O
+9	blitz	blitz	NN	_	7	conj	_	O
+10	promos	promo	NNS	pos2=VBZ	6	dobj	_	O
+11	how	how	WRB	_	12	advmod	_	O
+12	tragic	tragic	JJ	_	6	advcl	_	O
+13	!	!	.	_	4	punct	_	O
+
+1	Already	already	RB	_	2	advmod	_	O
+2	outchea	outchea	VBN	pos2=NN	0	root	_	O
+3	with	with	IN	_	2	prep	_	O
+4	25	0	CD	_	6	nmod	_	U-CARDINAL
+5	blitz	blitz	NN	_	6	compound	_	O
+6	tickets	ticket	NNS	_	3	pobj	_	O
+

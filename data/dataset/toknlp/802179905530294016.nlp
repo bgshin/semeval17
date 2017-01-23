@@ -1,0 +1,29 @@
+1	Do	do	VB	pos2=VBP	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	have	have	VB	_	0	root	_	O
+4	2watch	0watch	NNP	pos2=:	3	dobj	_	U-ORG
+5	a	a	DT	_	6	det	_	O
+6	videothat	videothat	NN	pos2=RBS	1	dative	_	O
+7	a	a	DT	_	8	det	_	O
+8	#RWNJ	#rwnj	NN	pos2=$	13	nsubj	_	O
+9	#Trumpet	#trumpet	NNP	pos2=NN	4	acl	_	U-ORG
+10	iswanting	iswanting	VBG	pos2=VBD	8	acl	_	O
+11	me	me	PRP	_	10	dobj	_	O
+12	2	0	CD	pos2=TO	9	nmod	_	U-CARDINAL
+13	watch	watch	VB	pos2=NN	6	relcl	_	O
+14	2	0	CD	_	18	advmod	_	U-CARDINAL
+15	verify	verify	VB	pos2=WRB	13	dep	_	O
+16	#HillaryClinton	#hillaryclinton	NNP	pos2=ADD	17	nsubj	_	U-PERSON
+17	looks	look	VBZ	pos2=NNS	15	ccomp	_	O
+18	tired	tired	JJ	_	17	acomp	_	O
+19	.	.	.	_	3	punct	_	O
+
+1	Ok	ok	UH	pos2=RB	5	discourse	_	O
+2	-	-	,	pos2=:	5	punct	_	O
+3	obviously	obviously	RB	_	5	advmod	_	O
+4	she	she	PRP	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	#StillWithHer	#stillwithher	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,28 @@
+1	#VR	#vr	NN	pos2=NNP	3	compound	_	O
+2	Digest	digest	NNP	pos2=JJS	3	compound	_	U-ORG
+3	Issue	issue	NN	pos2=NNP	8	dep	_	O
+4	95	0	CD	_	3	nmod	_	U-CARDINAL
+5	:	:	:	_	8	punct	_	O
+6	Black	black	JJ	pos2=NNP	8	nmod	_	B-EVENT
+7	Friday	friday	NNP	_	8	compound	_	L-EVENT
+8	deals	deal	NNS	pos2=VBZ	17	dep	_	O
+9	on	on	IN	_	8	prep	_	O
+10	HTC	htc	NNP	_	11	compound	_	B-ORG
+11	Vive	vive	NNP	_	9	pobj	_	I-ORG
+12	and	and	CC	_	11	cc	_	I-ORG
+13	Oculus	oculus	NNP	_	14	compound	_	I-ORG
+14	Rift	rift	NNP	pos2=NN	11	conj	_	L-ORG
+15	;	;	,	pos2=:	17	punct	_	O
+16	chimp	chimp	NN	_	17	nsubj	_	O
+17	tries	try	VBZ	_	22	ccomp	_	O
+18	out	out	RP	pos2=IN	17	prt	_	O
+19	VR	vr	NN	pos2=NNP	17	dobj	_	O
+20	;	;	,	pos2=:	22	punct	_	O
+21	Google	google	NNP	_	22	nsubj	_	U-ORG
+22	launches	launch	VBZ	_	0	root	_	O
+23	Earth	earth	NNP	pos2=NN	24	compound	_	U-LOC
+24	VR	vr	NNP	pos2=NN	22	dobj	_	O
+25	!	!	.	_	22	punct	_	O
+
+1	https://t.co/V3f6lAVr6A	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,9 @@
+1	@chini_06	@chini_0	NN	pos2=LS	3	nmod	_	O
+2	_	_	SYM	pos2=''	3	punct	_	O
+3	show	show	NN	pos2=VB	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+
+1	Its	its	PRP$	_	3	poss	_	O
+2	Ashley	ashley	NNP	_	3	compound	_	B-PERSON
+3	Graham💁	graham💁	NNP	_	0	root	_	L-PERSON
+

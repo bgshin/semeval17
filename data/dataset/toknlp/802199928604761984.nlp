@@ -1,0 +1,19 @@
+1	@JoyAnnReid	@joyannreid	XX	pos2=ADD	4	dep	_	O
+2	@nytimes	@nytimes	UH	pos2=NNS	0	root	_	O
+3	@NickKristof	@nickkristof	IN	pos2=XX	2	prep	_	O
+4	The	the	DT	_	5	det	_	O
+5	answer	answer	NN	_	3	pobj	_	O
+6	to	to	IN	pos2=TO	7	aux	_	O
+7	@seanspicer	@seanspicer	VB	pos2=NNP	3	advcl	_	O
+8	for	for	IN	_	7	prep	_	O
+9	why	why	WRB	_	15	advmod	_	O
+10	Trump	trump	NNP	pos2=NN	15	nsubj	_	U-PERSON
+11	must	must	MD	_	15	aux	_	O
+12	continually	continually	RB	_	15	advmod	_	O
+13	and	and	CC	_	12	cc	_	O
+14	forcefully	forcefully	RB	_	12	conj	_	O
+15	denounce	denounce	VB	pos2=VBP	8	pcomp	_	O
+16	white	white	JJ	_	17	nmod	_	O
+17	supremacists	supremacist	NNS	_	15	dobj	_	O
+18	.	.	.	_	17	punct	_	O
+

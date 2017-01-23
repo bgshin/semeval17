@@ -1,0 +1,29 @@
+1	@GeorgeTakei	@georgetakei	VB	pos2=ADD	7	discourse	_	O
+2	the	the	DT	_	4	det	_	O
+3	non	non	AFX	_	4	nmod	_	O
+4	equality	equality	NN	_	7	nsubj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	votes	vote	NNS	_	5	pobj	_	O
+7	is	be	VBZ	_	0	root	_	O
+8	an	an	DT	_	10	det	_	O
+9	America	america	NNP	_	10	compound	_	U-GPE
+10	paradox	paradox	NN	_	7	attr	_	O
+11	such	such	JJ	_	12	advmod	_	O
+12	as	as	IN	_	10	prep	_	O
+13	death	death	NN	_	14	compound	_	O
+14	penalty	penalty	NN	_	12	pobj	_	O
+15	and	and	CC	_	14	cc	_	O
+16	racism	racism	NN	_	14	conj	_	O
+17	.	.	.	_	7	punct	_	O
+
+1	Until	until	IN	_	5	mark	_	O
+2	this	this	DT	_	5	nsubjpass	_	O
+3	is	be	VBZ	_	5	auxpass	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	fixed	fix	VBN	_	9	advcl	_	O
+6	America	america	NNP	_	9	nsubj	_	U-GPE
+7	wo	wo	MD	_	9	aux	_	O
+8	n't	not	RB	_	9	neg	_	O
+9	lead	lead	VB	_	0	root	_	O
+10	.	.	.	_	9	punct	_	O
+

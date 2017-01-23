@@ -1,0 +1,22 @@
+1	Retweeted	retweeted	VBN	pos2=VBD	4	nmod	_	O
+2	AFP	afp	NNP	pos2=NN	4	compound	_	U-ORG
+3	news	news	NN	_	4	compound	_	O
+4	agency	agency	NN	_	10	nsubj	_	O
+5	(	(	-LRB-	_	4	punct	_	O
+6	@AFP	@afp	NN	pos2=NFP	4	appos	_	O
+7	)	)	-RRB-	_	4	punct	_	O
+8	:#UPDATE	:#update	NNP	pos2=IN	9	compound	_	O
+9	Maduro	maduro	NNP	_	10	nsubj	_	O
+10	calls	call	VBZ	_	0	root	_	O
+11	US	us	NNP	_	12	compound	_	U-GPE
+12	court	court	NN	_	13	compound	_	O
+13	ruling	ruling	NN	pos2=VBG	10	dobj	_	O
+14	convicting	convict	VBG	_	13	acl	_	O
+15	nephews	nephew	NNS	_	14	dobj	_	O
+16	for	for	IN	_	15	prep	_	O
+17	drug	drug	NN	_	18	compound	_	O
+18	trafficking	trafficking	NN	_	16	pobj	_	O
+19	...	..	.	_	10	punct	_	O
+
+1	https://t.co/4tlrKjn0SY	#hlink#	ADD	_	0	root	_	U-ORG
+

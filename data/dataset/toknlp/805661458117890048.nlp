@@ -1,0 +1,31 @@
+1	@BrowncoatAuror	@browncoatauror	NN	pos2=XX	2	compound	_	O
+2	keith	keith	NN	pos2=NNP	3	nsubj	_	O
+3	was	be	VBD	_	0	root	_	O
+4	armed	armed	JJ	pos2=VBN	3	acomp	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	as	as	RB	_	2	advmod	_	O
+2	far	far	RB	_	9	advmod	_	O
+3	as	as	IN	_	2	prep	_	O
+4	the	the	DT	_	6	det	_	O
+5	abortion	abortion	NN	_	6	compound	_	O
+6	thing	thing	NN	_	3	pobj	_	O
+7	,	,	,	_	9	punct	_	O
+8	I	I	PRP	_	9	nsubj	_	O
+9	think	think	VBP	_	0	root	_	O
+10	that	that	DT	_	11	nsubj	_	O
+11	's	's	VBZ	_	9	ccomp	_	O
+12	extreme	extreme	JJ	pos2=VBN	11	acomp	_	O
+13	however	however	RB	_	15	advmod	_	O
+14	I	I	PRP	_	15	nsubj	_	O
+15	am	be	VBP	_	10	acl	_	O
+16	pro-life	pro-life	JJ	_	15	acomp	_	O
+17	:)	:)	NFP	_	19	discourse	_	O
+18	Not	not	RB	pos2=CC	19	neg	_	O
+19	sure	sure	JJ	_	15	acomp	_	O
+20	why	why	WRB	_	22	advmod	_	O
+21	you	you	PRP	_	22	nsubj	_	O
+22	're	be	VBP	_	19	ccomp	_	O
+23	not	not	RB	_	22	neg	_	O
+24	....	..	.	_	9	punct	_	O
+

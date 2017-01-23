@@ -1,0 +1,16 @@
+1	Do	do	VB	pos2=VBP	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	count	count	VB	_	0	root	_	O
+4	the	the	DT	_	5	det	_	B-DATE
+5	days	day	NNS	_	3	dobj	_	L-DATE
+6	,	,	,	_	3	punct	_	O
+7	make	make	VB	_	3	dep	_	O
+8	the	the	DT	_	9	det	_	B-DATE
+9	days	day	NNS	_	10	nsubj	_	L-DATE
+10	count	count	NN	pos2=VB	7	ccomp	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	-	-	SYM	pos2=NFP	3	punct	_	O
+2	Muhammad	muhammad	NNP	_	3	compound	_	B-PERSON
+3	Ali	ali	NNP	_	0	root	_	L-PERSON
+

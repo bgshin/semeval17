@@ -1,0 +1,12 @@
+1	@mattmfm	@mattmfm	UH	pos2=PRP	6	discourse	_	O
+2	and	and	CC	_	6	cc	_	O
+3	more	more	RBR	pos2=JJR	4	advmod	_	O
+4	crucially	crucially	RB	_	8	advmod	_	O
+5	,	,	,	_	8	punct	_	O
+6	the	the	DT	_	7	det	_	O
+7	media	medium	NNS	pos2=NN	9	poss	_	O
+8	's	's	POS	_	7	case	_	O
+9	response	response	NN	_	0	root	_	O
+10	to	to	IN	_	9	prep	_	O
+11	Comey	comey	NNP	_	10	pobj	_	U-PERSON
+

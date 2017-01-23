@@ -1,0 +1,15 @@
+1	Here	here	RB	_	2	advmod	_	O
+2	Comes	come	VBZ	_	0	root	_	O
+3	Trouble	trouble	NN	pos2=NNP	2	nsubj	_	O
+4	-	-	HYPH	pos2=:	6	punct	_	O
+5	Michael	michael	NNP	_	6	compound	_	B-ORG
+6	Moore	moore	NNP	_	2	nsubj	_	I-ORG
+7	|	|	,	pos2=SYM	6	punct	_	I-ORG
+8	Politics	politics	NNP	pos2=NNS	6	conj	_	I-ORG
+9	&	&	CC	_	8	cc	_	I-ORG
+10	Current	current	JJ	pos2=NNP	8	conj	_	L-ORG
+11	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/JDV7whWxYX	#hlink#	ADD	_	2	nsubj	_	U-ORG
+2	#PoliticsampCurrentEvents	#politicsampcurrentevents	NNS	pos2=ADD	0	root	_	O
+

@@ -1,0 +1,17 @@
+1	My	my	PRP$	_	3	poss	_	O
+2	new	new	JJ	_	3	nmod	_	O
+3	crush	crush	NN	_	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+
+1	😍	😍	NFP	pos2=SYM	11	punct	_	O
+2	#dontputyourfingerthere	#dontputyourfingerthere	UH	pos2=EX	11	dep	_	O
+3	#shebites	#shebites	UH	pos2=NNPS	11	discourse	_	O
+4	#armistice	#armistice	NN	pos2=UH	5	compound	_	O
+5	#	#	NN	pos2=$	11	dep	_	O
+6	#Westworld	#westworld	NNP	pos2=ADD	11	dep	_	O
+7	#WestworldFinale	#westworldfinale	ADD	pos2=NN	11	dep	_	O
+8	@WestworldHBO	@westworldhbo	ADD	pos2=NNP	11	nmod	_	O
+9	@ingridbb	@ingridbb	GW	pos2=UH	11	nmod	_	O
+10	_	_	NFP	pos2=-LRB-	11	punct	_	O
+11	https://t.co/7Xkrvx0JFv	#hlink#	ADD	pos2=NN	0	root	_	O
+

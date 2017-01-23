@@ -1,0 +1,12 @@
+1	#Luxury	#luxury	NNP	pos2=``	4	compound	_	O
+2	Luxe	luxe	NNP	_	4	compound	_	B-ORG
+3	Valentines	valentines	NNP	_	4	compound	_	I-ORG
+4	Options	option	NNPS	pos2=NNP	11	dep	_	L-ORG
+5	in	in	IN	_	4	prep	_	O
+6	Thailand	thailand	NNP	_	5	pobj	_	U-GPE
+7	from	from	IN	_	4	prep	_	O
+8	AKARYN	akaryn	NNP	_	9	compound	_	B-ORG
+9	Hotels	hotel	NNS	pos2=NNPS	7	pobj	_	L-ORG
+10	https://t.co/fMgQtxaX5D	#hlink#	ADD	_	11	nmod	_	O
+11	https://t.co/dkRndp2qrG	#hlink#	ADD	_	0	root	_	U-ORG
+

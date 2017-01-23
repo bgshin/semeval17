@@ -1,0 +1,24 @@
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	why	why	WRB	_	5	advmod	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	push	push	VBP	_	2	ccomp	_	O
+6	people	people	NNS	_	5	dobj	_	O
+7	who	who	WP	_	8	nsubj	_	O
+8	are	be	VBP	_	6	relcl	_	O
+9	vegans	vegan	NNS	_	8	attr	_	O
+10	and	and	CC	_	9	cc	_	O
+11	vegetarians	vegetarian	NNS	_	9	conj	_	O
+12	to	to	TO	_	13	aux	_	O
+13	take	take	VB	_	5	xcomp	_	O
+14	supplements	supplement	NNS	_	13	dobj	_	O
+15	!	!	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	pro	pro	JJ	pos2=RB	2	acomp	_	O
+4	&	&	CC	_	3	cc	_	O
+5	anti	anti	AFX	pos2=JJ	3	conj	_	O
+6	vegetarianism	vegetarianism	NN	_	7	compound	_	O
+7	lol	lol	UH	pos2=NN	2	discourse	_	O
+

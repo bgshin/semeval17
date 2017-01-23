@@ -1,0 +1,19 @@
+1	Indian	indian	JJ	_	2	nmod	_	B-NORP
+2	American	american	NNP	pos2=JJ	3	nsubj	_	L-NORP
+3	makes	make	VBZ	_	0	root	_	O
+4	history	history	NN	_	3	dobj	_	O
+5	by	by	IN	_	3	prep	_	O
+6	becoming	become	VBG	_	5	pcomp	_	O
+7	UN	un	NNP	_	8	compound	_	U-ORG
+8	Ambassador	ambassador	NNP	_	6	attr	_	O
+9	for	for	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	US	us	NNP	_	13	npadvmod	_	U-GPE
+12	-	-	HYPH	pos2=,	13	punct	_	O
+13	selected	select	VBN	_	18	nmod	_	O
+14	by	by	IN	_	13	agent	_	O
+15	Donald	donald	NNP	_	16	compound	_	B-PERSON
+16	#Trump	#trump	NNP	pos2=GW	14	pobj	_	L-PERSON
+17	…	…	NFP	pos2=-LRB-	18	punct	_	O
+18	https://t.co/AXMJuzCkWK	#hlink#	ADD	_	3	dep	_	O
+

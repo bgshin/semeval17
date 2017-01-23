@@ -1,0 +1,13 @@
+1	Grandma	grandma	NNP	pos2=NN	0	root	_	U-PERSON
+2	and	and	CC	_	1	cc	_	O
+3	Grandpa	grandpa	NNP	_	1	conj	_	U-PERSON
+4	.	.	.	_	1	punct	_	O
+
+1	Mig	mig	NNP	pos2=NN	0	root	_	U-PERSON
+2	....	..	.	pos2=,	1	punct	_	O
+
+1	BITCH	bitch	NN	pos2=UH	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	#ThisIsUs	#thisisus	ADD	pos2=NN	0	root	_	O
+

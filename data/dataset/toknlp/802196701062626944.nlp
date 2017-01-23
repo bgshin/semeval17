@@ -1,0 +1,12 @@
+1	My	my	PRP$	_	3	poss	_	O
+2	new	new	JJ	_	3	nmod	_	O
+3	drawing	drawing	NN	_	0	root	_	O
+4	of	of	IN	_	3	prep	_	O
+5	#NormanReedus	#normanreedus	NNP	pos2=ADD	7	poss	_	O
+6	@wwwbigbaldhead	@wwwbigbaldhead	POS	pos2=JJ	5	case	_	O
+7	details	detail	NNS	_	4	pobj	_	O
+8	at	at	IN	_	3	prep	_	O
+9	https://t.co/cHtMbGOgrI	#hlink#	ADD	_	8	pobj	_	B-CARDINAL
+10	#TheWalkingDead	#thewalkingdead	ADD	pos2=GW	8	pobj	_	I-CARDINAL
+11	https://t.co/l5veHZZ2s9	#hlink#	ADD	_	8	pobj	_	L-CARDINAL
+

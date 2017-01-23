@@ -1,0 +1,17 @@
+1	@Regrann	@regrann	NNP	pos2=NN	16	dep	_	U-PERSON
+2	from	from	IN	_	1	prep	_	O
+3	@ckarlos_sevilla	@ckarlos_sevilla	NNP	pos2=NN	5	compound	_	B-ORG
+4	-	-	HYPH	pos2=,	5	punct	_	I-ORG
+5	🍑Shake	🍑shake	NNP	pos2=VB	2	pobj	_	L-ORG
+6	your	your	PRP$	_	7	poss	_	O
+7	Bon	bon	NNP	_	16	dep	_	B-PERSON
+8	-	-	HYPH	_	16	punct	_	I-PERSON
+9	bon	bon	NNP	pos2=NN	16	dep	_	L-PERSON
+10	🍑	🍑	NNP	pos2=HYPH	16	dep	_	O
+11	@ricky_martin	@ricky_martin	NNP	pos2=XX	16	dep	_	O
+12	#rickymartin	#rickymartin	NNP	pos2=UH	16	dep	_	O
+13	#onewor	#onewor	GW	pos2=IN	16	nmod	_	O
+14	…	…	NFP	pos2=GW	16	punct	_	O
+15	https://t.co/FXuvAu6Mgs	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/V5XlV7NULG	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det	_	O
+2	dumbest	dumb	JJS	_	5	nsubj	_	O
+3	among	among	IN	_	2	prep	_	O
+4	us	us	PRP	_	3	pobj	_	O
+5	believe	believe	VBP	pos2=VB	0	root	_	O
+6	this	this	DT	_	8	det	_	O
+7	baseless	baseless	JJ	_	8	nmod	_	O
+8	propaganda	propaganda	NN	_	18	nsubj	_	O
+9	that	that	WDT	_	10	nsubj	_	O
+10	has	have	VBZ	_	8	relcl	_	O
+11	less	less	JJR	_	12	nmod	_	O
+12	foundation	foundation	NN	_	10	dobj	_	O
+13	than	than	IN	_	12	prep	_	O
+14	anything	anything	NN	_	13	pobj	_	O
+15	Alex	alex	NNP	_	16	compound	_	B-PERSON
+16	Jones	jones	NNP	_	18	nsubj	_	L-PERSON
+17	ever	ever	RB	_	18	advmod	_	O
+18	put	put	VBD	pos2=VB	5	ccomp	_	O
+19	ou	ou	FW	pos2=GW	18	npadvmod	_	O
+20	…	…	NFP	pos2=-LRB-	21	punct	_	O
+21	https://t.co/l8t1UHXv1A	#hlink#	ADD	_	18	dobj	_	O
+

@@ -1,0 +1,12 @@
+1	How	how	WRB	_	3	advmod	_	O
+2	to	to	TO	_	3	aux	_	O
+3	Have	have	VB	pos2=VBP	0	root	_	O
+4	Glowing	glow	VBG	pos2=NNP	5	nmod	_	O
+5	#skins	#skins	NNS	pos2=ADD	3	dobj	_	O
+6	https://t.co/BwGDxYo67y#skincare	#hlink#	ADD	pos2=RBR	7	nsubj	_	O
+7	#skinnydip	#skinnydip	IN	pos2=-RRB-	3	prep	_	O
+8	#skintight	#skintight	UH	pos2=-RRB-	7	discourse	_	O
+9	#BeautyAndTheBeast	#beautyandthebeast	GW	pos2=JJS	7	pobj	_	O
+10	…	…	NFP	pos2=GW	11	punct	_	O
+11	https://t.co/RBICtlrAVP	#hlink#	ADD	_	7	pobj	_	O
+

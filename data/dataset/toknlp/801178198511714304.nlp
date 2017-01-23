@@ -1,0 +1,9 @@
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=NNP	4	poss	_	U-DATE
+2	's	's	POS	pos2=AFX	1	case	_	O
+3	#TrumpTransitionTeam	#trumptransitionteam	NNP	pos2=NN	4	compound	_	B-WORK_OF_ART
+4	Runnin	runnin	NNPS	pos2=NNP	0	root	_	L-WORK_OF_ART
+5	the	the	DT	_	6	det	_	O
+6	COUNTRY	country	NN	pos2=NNP	4	appos	_	O
+7	❗️❗️❗️🇺🇸🇺🇸🇺🇸	❗️❗️❗️🇺🇸🇺🇸🇺🇸	NFP	pos2=:	8	punct	_	O
+8	https://t.co/PDFUPRl5q9	#hlink#	ADD	_	4	appos	_	O
+

@@ -1,0 +1,12 @@
+1	https://t.co/kY5EITbzQx	#hlink#	ADD	_	4	nmod	_	O
+2	@ashley_darin	@ashley_darin	NNP	pos2=-RRB-	4	nmod	_	U-ORG
+3	@ashleydarin	@ashleydarin	UH	pos2=XX	4	discourse	_	O
+4	@AllanCookson3	@allancookson0	NN	pos2=UH	0	root	_	O
+5	.....	..	.	pos2=,	4	punct	_	O
+
+1	Good	good	JJ	pos2=NNP	4	nmod	_	O
+2	Old	old	NNP	pos2=JJ	4	compound	_	O
+3	Graham	graham	NNP	_	4	compound	_	B-PERSON
+4	Westley	westley	NNP	_	0	root	_	L-PERSON
+5	!!	!!	.	_	4	punct	_	O
+

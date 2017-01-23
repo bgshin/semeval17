@@ -1,0 +1,23 @@
+1	IFC	ifc	NNP	_	2	nsubj	_	U-ORG
+2	signed	sign	VBD	pos2=VBN	22	nmod	_	O
+3	agreement	agreement	NN	_	2	dobj	_	O
+4	with	with	IN	_	3	prep	_	O
+5	Bank	bank	NNP	_	4	pobj	_	B-ORG
+6	of	of	IN	_	5	prep	_	I-ORG
+7	#Palestine	#palestine	NNP	pos2=PRP	6	pobj	_	L-ORG
+8	to	to	TO	_	9	aux	_	O
+9	scale	scale	VB	_	3	acl	_	O
+10	up	up	RP	_	9	prt	_	O
+11	lending	lending	NN	pos2=VBG	12	compound	_	O
+12	operations	operation	NNS	_	9	dobj	_	O
+13	to	to	IN	_	9	prep	_	O
+14	smaller	small	JJR	_	15	nmod	_	O
+15	firms	firm	NNS	_	13	pobj	_	O
+16	,	,	,	_	15	punct	_	O
+17	especially	especially	RB	_	18	advmod	_	O
+18	women	woman	NNS	pos2=JJ	15	appos	_	O
+19	-	-	HYPH	pos2=:	20	punct	_	O
+20	owne	owne	NN	pos2=VB	15	appos	_	O
+21	…	…	NFP	pos2=-LRB-	22	punct	_	O
+22	https://t.co/pOtFW0qXwE	#hlink#	ADD	pos2=NN	0	root	_	O
+

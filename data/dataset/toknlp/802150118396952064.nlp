@@ -1,0 +1,21 @@
+1	@ChrissyMetz	@chrissymetz	UH	pos2=NNS	3	discourse	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	so	so	RB	_	5	advmod	_	O
+5	beautiful	beautiful	JJ	_	3	acomp	_	O
+6	and	and	CC	_	3	cc	_	O
+7	an	an	DT	_	8	det	_	O
+8	inspiration	inspiration	NN	_	5	conj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	#ThisIsUs	#thisisus	NN	pos2=ADD	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	my	my	PRP$	_	4	poss	_	O
+4	husband	husband	NN	_	1	appos	_	O
+5	's	's	POS	_	4	case	_	O
+6	and	and	CC	_	4	cc	_	O
+7	my	my	PRP$	_	9	poss	_	O
+8	favorite	favorite	JJ	_	9	nmod	_	O
+9	show	show	NN	_	4	conj	_	O
+10	.	.	.	_	2	punct	_	O
+

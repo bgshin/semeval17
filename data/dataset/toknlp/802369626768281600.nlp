@@ -1,0 +1,28 @@
+1	@davidsirota	@davidsirota	UH	pos2=NNP	6	discourse	_	O
+2	How	how	WRB	_	3	advmod	_	O
+3	many	many	JJ	_	5	nmod	_	O
+4	actual	actual	JJ	_	5	nmod	_	O
+5	voters	voter	NNS	_	6	nsubj	_	O
+6	went	go	VBD	_	0	root	_	O
+7	from	from	IN	_	6	prep	_	O
+8	liberals	liberal	NNS	_	7	pobj	_	O
+9	to	to	IN	_	6	prep	_	O
+10	supporting	support	VBG	_	9	pcomp	_	O
+11	a	a	DT	_	13	det	_	O
+12	RW	rw	NNP	pos2=NN	13	compound	_	O
+13	neofascist	neofascist	NN	_	10	dobj	_	O
+14	because	because	IN	_	10	prep	_	O
+15	of	of	IN	_	14	pcomp	_	O
+16	"	"	``	_	18	punct	_	O
+17	fake	fake	JJ	_	18	nmod	_	O
+18	news	news	NN	_	14	pobj	_	O
+19	"	"	''	_	18	punct	_	O
+20	or	or	CC	_	18	cc	_	O
+21	the	the	DT	_	23	det	_	O
+22	Comey	comey	NNP	_	23	compound	_	U-PERSON
+23	letter	letter	NN	_	18	conj	_	O
+24	?	?	.	_	6	punct	_	O
+
+1	None	none	NN	_	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+

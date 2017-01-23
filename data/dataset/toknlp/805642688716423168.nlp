@@ -1,0 +1,29 @@
+1	Fossil	fossil	NN	pos2=JJ	2	compound	_	O
+2	fuels	fuel	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	#	#	NN	pos2=$	6	nmod	_	O
+5	1	0	LS	pos2=CD	4	nmod	_	U-MONEY
+6	cause	cause	NN	pos2=IN	3	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	global	global	JJ	_	9	nmod	_	O
+9	warming	warming	NN	_	7	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	Oil	oil	NN	pos2=NNP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	n't	not	RB	_	2	neg	_	O
+4	that	that	DT	_	8	mark	_	O
+5	special	special	JJ	_	2	acomp	_	O
+6	,	,	,	_	9	punct	_	O
+7	we	we	PRP	_	9	nsubj	_	O
+8	're	be	VBP	_	9	aux	_	O
+9	moving	move	VBG	_	2	ccomp	_	O
+10	on	on	RP	pos2=IN	9	prt	_	O
+11	to	to	IN	_	9	prep	_	O
+12	sustainable	sustainable	JJ	_	13	nmod	_	O
+13	energy	energy	NN	_	11	pobj	_	O
+14	in	in	IN	_	9	prep	_	O
+15	Ameri	ameri	NNP	_	14	pobj	_	U-GPE
+16	…	…	NFP	pos2=-LRB-	9	cc	_	O
+17	https://t.co/S7Grcqw6kC	#hlink#	ADD	_	9	npadvmod	_	U-GPE
+

@@ -1,0 +1,31 @@
+1	@Brookie1953	@brookie0	NN	pos2=NNP	5	discourse	_	O
+2	Normally	normally	RB	_	1	advmod	_	O
+3	,	,	,	_	5	punct	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	works	work	VBZ	_	0	root	_	O
+6	just	just	RB	_	7	advmod	_	O
+7	fine	fine	JJ	_	5	advmod	_	O
+8	,	,	,	_	5	punct	_	O
+9	with	with	IN	_	5	prep	_	O
+10	integrity	integrity	NN	_	9	pobj	_	O
+11	.	.	.	_	5	punct	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	past	past	JJ	pos2=NN	3	nmod	_	O
+3	winners	winner	NNS	_	4	nsubj	_	O
+4	confirm	confirm	VBP	_	0	root	_	O
+5	that	that	DT	_	4	dobj	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	In	in	IN	_	5	prep	_	O
+2	this	this	DT	_	3	det	_	O
+3	instance	instance	NN	_	1	pobj	_	O
+4	,	,	,	_	7	punct	_	O
+5	two	#crd#	CD	_	6	nmod	_	U-CARDINAL
+6	ballots	ballot	NNS	_	9	prep	_	O
+7	minus	minus	CC	pos2=IN	6	cc	_	O
+8	Verlander	verlander	NNP	_	6	conj	_	U-PERSON
+9	?	?	.	_	0	root	_	O
+
+1	Bad	bad	JJ	_	0	root	_	O
+

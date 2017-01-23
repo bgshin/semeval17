@@ -1,0 +1,26 @@
+1	Great	great	JJ	_	2	nmod	_	O
+2	speech	speech	NN	_	0	root	_	O
+3	by	by	IN	_	2	prep	_	O
+4	Pope	pope	NNP	_	5	compound	_	O
+5	Francis	francis	NNP	_	3	pobj	_	U-PERSON
+6	.	.	.	_	2	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	said	say	VBD	_	0	root	_	O
+3	"	"	``	_	2	punct	_	O
+4	The	the	DT	_	5	det	_	O
+5	church	church	NN	_	6	nsubj	_	O
+6	needs	need	VBZ	_	2	ccomp	_	O
+7	Mercy	mercy	NNP	pos2=NN	8	compound	_	B-ORG
+8	Pastors	pastor	NNPS	pos2=NNS	6	dobj	_	L-ORG
+9	who	who	WP	_	12	nsubj	_	O
+10	do	do	VBP	_	12	aux	_	O
+11	n't	not	RB	_	12	neg	_	O
+12	lower	lower	VB	_	8	relcl	_	O
+13	the	the	DT	_	14	det	_	O
+14	standards	standard	NNS	_	12	dobj	_	O
+15	"	"	''	pos2=``	2	punct	_	O
+16	!	!	.	_	2	punct	_	O
+
+1	https://t.co/A2GVRkDdpG	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,43 @@
+1	"	"	``	pos2=SYM	8	punct	_	O
+2	Out	out	RB	pos2=IN	3	advmod	_	O
+3	here	here	RB	_	8	advmod	_	O
+4	the	the	DT	_	5	det	_	O
+5	penalty	penalty	NN	_	8	nsubj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	that	that	DT	_	6	pobj	_	O
+8	is	be	VBZ	_	0	root	_	O
+9	death	death	NN	_	8	attr	_	O
+10	.	.	.	_	8	punct	_	O
+11	"	"	''	_	8	punct	_	O
+
+1	"	"	``	_	3	punct	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	accept	accept	VBP	_	0	root	_	O
+4	that	that	IN	pos2=DT	9	mark	_	O
+5	"	"	``	pos2=''	9	punct	_	O
+6	"	"	``	_	9	punct	_	O
+7	Well	well	UH	_	9	discourse	_	O
+8	I	I	PRP	_	9	nsubj	_	O
+9	do	do	VBP	_	3	ccomp	_	O
+10	n't	not	RB	_	9	neg	_	O
+11	!	!	.	_	3	punct	_	O
+
+1	What	what	WDT	_	2	det	_	O
+2	purpose	purpose	NN	_	5	dobj	_	O
+3	would	would	MD	_	5	aux	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	serve	serve	VB	_	0	root	_	O
+6	?	?	.	_	5	punct	_	O
+
+1	It	it	PRP	_	4	nsubj	_	O
+2	ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	bring	bring	VB	_	0	root	_	O
+5	Cora	cora	NNP	_	4	dobj	_	U-PERSON
+6	back	back	RB	pos2=RP	4	advmod	_	O
+7	now	now	RB	_	4	advmod	_	O
+8	can	can	MD	pos2=VB	3	aux	_	O
+9	it	it	PRP	_	8	nsubj	_	O
+10	?	?	.	_	8	punct	_	O
+11	"	"	''	_	4	punct	_	O
+

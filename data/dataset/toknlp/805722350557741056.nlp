@@ -1,0 +1,16 @@
+1	Please	please	UH	_	2	discourse	_	O
+2	sign	sign	VB	_	0	root	_	O
+3	this	this	DT	_	4	det	_	O
+4	petition	petition	NN	_	2	dobj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	get	get	VB	_	2	advcl	_	O
+7	aid	aid	NN	_	6	dobj	_	O
+8	to	to	IN	_	6	prep	_	O
+9	Aleppo	aleppo	NNP	_	8	pobj	_	U-GPE
+10	...	..	.	pos2=,	2	punct	_	O
+
+1	thnak	thnak	VB	pos2=VBP	0	root	_	O
+2	you	you	PRP	pos2=GW	4	nmod	_	O
+3	x	x	GW	pos2=-LRB-	4	nmod	_	O
+4	https://t.co/3XYqtzYC3w	#hlink#	ADD	pos2=NN	1	dep	_	O
+

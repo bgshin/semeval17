@@ -1,0 +1,20 @@
+1	lythgoepanto	lythgoepanto	NN	pos2=FW	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	10	0	CD	_	4	nmod	_	U-CARDINAL
+4	giorni	giorni	NNS	pos2=NN	0	root	_	O
+5	per	per	IN	_	4	prep	_	O
+6	andare	andare	FW	pos2=NN	9	nmod	_	O
+7	da	da	FW	pos2=NN	9	nmod	_	O
+8	NIALL	niall	NNP	_	9	compound	_	O
+9	HORAN	horan	NNP	_	5	pobj	_	O
+10	!!!	!!	.	_	4	punct	_	O
+
+1	🌟	🌟	NFP	pos2=SYM	8	punct	_	O
+2	#onedirection	#onedirection	UH	pos2=NN	6	discourse	_	O
+3	#niallhoran	#niallhoran	UH	pos2=MD	6	discourse	_	O
+4	#niall	#niall	UH	pos2=MD	6	discourse	_	O
+5	#americanpanto	#americanpanto	UH	pos2=FW	6	discourse	_	O
+6	#pasadena	#pasadena	UH	pos2=GW	8	discourse	_	O
+7	…	…	NFP	pos2=-LRB-	8	punct	_	O
+8	https://t.co/qmcaSlTthT	#hlink#	ADD	_	0	root	_	O
+

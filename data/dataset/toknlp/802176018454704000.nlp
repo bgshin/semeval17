@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det	_	O
+2	@utahjazz	@utahjazz	JJ	pos2=NN	3	nmod	_	O
+3	host	host	NN	pos2=VBP	0	root	_	O
+4	Atlanta	atlanta	NNP	_	3	appos	_	U-GPE
+5	tonight	tonight	NN	_	3	npadvmod	_	U-TIME
+6	.	.	.	_	3	punct	_	O
+
+1	Do	do	VB	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	be	be	VB	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	fan	fan	NN	_	3	attr	_	O
+6	who	who	WP	_	7	nsubj	_	O
+7	shows	show	VBZ	_	5	relcl	_	O
+8	up	up	RP	_	7	prt	_	O
+9	at	at	IN	_	7	prep	_	O
+10	halftime	halftime	NN	_	9	pobj	_	U-TIME
+11	,	,	,	_	16	punct	_	O
+12	the	the	DT	_	14	det	_	O
+13	game	game	NN	_	14	compound	_	O
+14	tips	tip	NNS	pos2=VBZ	9	pobj	_	O
+15	at	at	IN	_	14	prep	_	O
+16	6p	0p	NN	pos2=NNP	15	pobj	_	U-CARDINAL
+17	.	.	.	_	3	punct	_	O
+

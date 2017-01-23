@@ -1,0 +1,25 @@
+1	Italy	italy	NNP	pos2=NN	4	nsubj	_	U-GPE
+2	has	have	VBZ	_	4	aux	_	O
+3	not	not	RB	_	4	neg	_	O
+4	voted	vote	VBN	_	0	root	_	O
+5	on	on	IN	pos2=RP	4	prep	_	O
+6	leaving	leave	VBG	_	5	pcomp	_	O
+7	the	the	DT	_	8	det	_	O
+8	EU	eu	NNP	_	6	dobj	_	U-ORG
+9	.	.	.	_	4	punct	_	O
+
+1	Right	right	JJ	pos2=RB	3	nmod	_	O
+2	leaning	lean	VBG	pos2=JJ	3	nmod	_	O
+3	parties	party	NNS	_	5	nsubj	_	O
+4	have	have	VBP	_	5	aux	_	O
+5	lost	lose	VBN	_	0	root	_	O
+6	influence	influence	NN	_	5	dobj	_	O
+7	in	in	IN	_	6	prep	_	O
+8	Italy	italy	NNP	_	7	pobj	_	U-GPE
+9	and	and	CC	_	8	cc	_	O
+10	Austria	austria	NNP	_	8	conj	_	U-GPE
+11	.	.	.	_	5	punct	_	O
+
+1	#brexit	#brexit	UH	pos2=PRP	2	discourse	_	O
+2	#notmypresident	#notmypresident	UH	pos2=ADD	0	root	_	O
+

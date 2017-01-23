@@ -1,0 +1,29 @@
+1	@ForQ2	@forq0	NN	pos2=NNS	2	compound	_	O
+2	@Samnsara1997	@samnsara0	NN	pos2=NNS	0	root	_	O
+3	If	if	IN	_	6	mark	_	O
+4	the	the	DT	_	5	det	_	O
+5	#GOP	#gop	NNP	pos2=NN	6	nsubj	_	U-ORG
+6	dare	dare	VBP	pos2=NN	13	advcl	_	O
+7	to	to	TO	pos2=IN	8	aux	_	O
+8	touch	touch	VB	_	6	xcomp	_	O
+9	Social	social	NNP	_	10	compound	_	B-ORG
+10	Security	security	NNP	_	8	dobj	_	L-ORG
+11	,	,	,	_	13	punct	_	O
+12	I	I	PRP	pos2=CD	13	nsubj	_	O
+13	call	call	VBP	_	2	parataxis	_	O
+14	for	for	IN	_	13	prep	_	O
+15	a	a	DT	_	19	det	_	O
+16	massive	massive	JJ	_	19	nmod	_	O
+17	class	class	NN	_	18	compound	_	O
+18	action	action	NN	_	19	compound	_	O
+19	suit	suit	NN	_	14	pobj	_	O
+20	.	.	.	_	13	punct	_	O
+
+1	We	we	PRP	_	4	nsubj	_	O
+2	might	might	MD	_	4	aux	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	sink	sink	VB	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	#GOP	#gop	NN	pos2=NNP	4	dobj	_	O
+7	.	.	.	_	4	punct	_	O
+

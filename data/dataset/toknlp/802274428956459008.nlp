@@ -1,0 +1,15 @@
+1	Self-Driving	self-driving	JJ	pos2=NN	2	nmod	_	O
+2	Cars	car	NNS	pos2=NNPS	5	dep	_	O
+3	:	:	:	_	2	punct	_	O
+4	Futurama	futurama	NNP	pos2=NN	5	dep	_	O
+5	2.0	0	CD	_	9	nmod	_	U-CARDINAL
+6	or	or	CC	_	5	cc	_	O
+7	Cities	city	NNS	pos2=NNPS	5	conj	_	O
+8	for	for	IN	_	0	root	_	O
+9	People	people	NNS	pos2=NNPS	8	pobj	_	O
+10	?	?	.	_	2	punct	_	O
+
+1	https://t.co/3t4CiROMry	#hlink#	ADD	_	3	nsubj	_	O
+2	https://t.co/qi4X706aVd	#hlink#	ADD	_	3	nmod	_	B-DATE
+3	#SustainCities	#sustaincities	NNS	pos2=ADD	0	root	_	L-DATE
+

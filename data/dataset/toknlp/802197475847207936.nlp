@@ -1,0 +1,28 @@
+1	@bienafe	@bienafe	UH	pos2=PRP	4	discourse	_	O
+2	Not	not	RB	_	4	neg	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	paying	pay	VBG	_	0	root	_	O
+5	her	her	PRP	_	4	dobj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	babysit	babysit	VB	_	4	xcomp	_	O
+8	her	her	PRP$	_	10	poss	_	O
+9	own	own	JJ	_	10	nmod	_	O
+10	grandchildren	grandchild	NNS	_	7	dobj	_	O
+11	,	,	,	_	4	punct	_	O
+12	but	but	CC	_	4	cc	_	O
+13	$	$	$	pos2=``	14	nmod	_	O
+14	160k	0k	CD	pos2=NN	10	appos	_	U-MONEY
+15	/	/	SYM	pos2=HYPH	16	punct	_	O
+16	yr	yr	NN	_	14	prep	_	O
+17	for	for	IN	_	13	prep	_	O
+18	the	the	DT	_	19	det	_	O
+19	rest	rest	NN	_	17	pobj	_	O
+20	of	of	IN	_	19	prep	_	O
+21	her	her	PRP$	_	22	poss	_	O
+22	life	life	NN	_	20	pobj	_	O
+23	.	.	.	_	4	punct	_	O
+
+1	#draintheswamp	#draintheswamp	UH	pos2=XX	3	discourse	_	O
+2	@OCAmericans	@ocamericans	NNPS	pos2=NNS	3	punct	_	U-NORP
+3	@TPInsidr	@tpinsidr	ADD	pos2=UH	0	root	_	O
+

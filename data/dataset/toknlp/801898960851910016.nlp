@@ -1,0 +1,19 @@
+1	Shoutout	shoutout	NN	pos2=VB	0	root	_	O
+2	to	to	IN	pos2=TO	1	prep	_	O
+3	former	former	JJ	pos2=VB	4	nmod	_	O
+4	Falcon	falcon	NNP	pos2=XX	2	pobj	_	U-ORG
+5	great	great	JJ	pos2=RB	9	nmod	_	O
+6	&	&	CC	_	1	cc	_	O
+7	@OregonMBB	@oregonmbb	TO	pos2=NNP	12	det	_	O
+8	guard	guard	NN	pos2=VB	9	compound	_	O
+9	@Max_Heller2	@max_heller0	NN	pos2=NNS	1	conj	_	O
+10	for	for	IN	_	9	prep	_	O
+11	accepting	accept	VBG	_	10	pcomp	_	O
+12	job	job	NN	_	11	dobj	_	O
+13	with	with	IN	_	12	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	@utahjazz	@utahjazz	NN	pos2=XX	13	pobj	_	O
+16	!	!	.	_	1	punct	_	O
+
+1	#FalconsEverywhere	#falconseverywhere	ADD	pos2=RB	0	root	_	O
+

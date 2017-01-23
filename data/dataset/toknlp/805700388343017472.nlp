@@ -1,0 +1,28 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	time	time	NN	pos2=VBN	2	attr	_	O
+4	the	the	DT	_	6	det	_	O
+5	electoral	electoral	JJ	_	6	nmod	_	O
+6	college	college	NN	_	7	nsubj	_	O
+7	sit	sit	VB	pos2=VBP	3	relcl	_	O
+8	up	up	RP	pos2=RB	7	prt	_	O
+9	and	and	CC	_	7	cc	_	O
+10	stand	stand	VB	_	7	conj	_	O
+11	against	against	IN	_	10	prep	_	O
+12	it	it	PRP	_	11	pobj	_	O
+13	and	and	CC	_	10	cc	_	O
+14	revoke	revoke	VB	pos2=VBP	10	conj	_	O
+15	that	that	DT	pos2=IN	16	det	_	O
+16	declaration	declaration	NN	_	14	dobj	_	O
+17	cause	cause	VB	pos2=IN	14	advcl	_	O
+18	the	the	DT	_	19	det	_	O
+19	world	world	NN	_	21	nsubj	_	O
+20	is	be	VBZ	_	21	aux	_	O
+21	watching	watch	VBG	_	17	ccomp	_	O
+22	.	.	.	_	2	punct	_	O
+
+1	.	.	.	_	0	punct	_	O
+
+1	the	the	DT	_	2	det	_	O
+2	custodians	custodian	NNS	_	0	root	_	O
+

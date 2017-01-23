@@ -1,0 +1,25 @@
+1	@MJoyce2244	@mjoyce0	NN	pos2=ADD	0	root	_	O
+2	&	&	CC	_	1	cc	_	O
+3	now	now	RB	_	11	advmod	_	O
+4	@poroshenko	@poroshenko	UH	pos2=VBP	11	discourse	_	O
+5	,	,	,	_	11	punct	_	O
+6	@carlbildt	@carlbildt	NNP	pos2=PRP	11	nsubj	_	U-ORG
+7	and	and	CC	_	6	cc	_	O
+8	others	other	NNS	_	6	conj	_	O
+9	are	be	VBP	_	11	aux	_	O
+10	conveniently	conveniently	RB	_	11	advmod	_	O
+11	selling	sell	VBG	_	1	conj	_	O
+12	out	out	RP	_	11	prt	_	O
+13	all	all	DT	_	11	dobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	Europe	europe	NNP	_	14	pobj	_	U-LOC
+16	to	to	IN	_	11	prep	_	O
+17	China	china	NNP	_	16	pobj	_	U-GPE
+18	by	by	IN	_	11	prep	_	O
+19	allowing	allow	VBG	_	18	pcomp	_	O
+20	them	them	PRP	_	19	dative	_	O
+21	access	access	NN	_	19	dobj	_	O
+22	to	to	IN	_	21	prep	_	O
+23	Ukraine	ukraine	NNP	_	22	pobj	_	U-GPE
+24	.	.	.	_	11	punct	_	O
+

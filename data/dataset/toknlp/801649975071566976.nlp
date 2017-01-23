@@ -1,0 +1,20 @@
+1	@themag_24	@themag_0	NN	pos2=LS	3	compound	_	O
+2	@joshuamarlow5	@joshuamarlow0	NN	pos2=LS	3	compound	_	O
+3	@Devon_Stone8	@devon_stone0	NN	pos2=GW	0	root	_	O
+4	@unc_tarheelfan	@unc_tarheelfan	UH	pos2=XX	3	discourse	_	O
+5	yeah	yeah	UH	_	3	discourse	_	O
+6	Grayson	grayson	NNP	_	7	compound	_	B-PERSON
+7	Allen	allen	NNP	_	10	nsubj	_	L-PERSON
+8	did	do	VBD	_	10	aux	_	O
+9	n't	not	RB	_	10	neg	_	O
+10	exist	exist	VB	_	3	relcl	_	O
+11	last	last	JJ	_	12	nmod	_	B-DATE
+12	year	year	NN	_	10	npadvmod	_	L-DATE
+13	or	or	CC	_	12	cc	_	O
+14	anything	anything	NN	_	12	conj	_	O
+15	.	.	.	_	3	punct	_	O
+
+1	K	k	DT	pos2=JJ	2	det	_	O
+2	dude	dude	NN	_	0	root	_	O
+3	....	..	.	pos2=,	2	punct	_	O
+

@@ -1,0 +1,14 @@
+1	#Dbacks	#dbacks	NNP	pos2=VBZ	3	compound	_	O
+2	Randy	randy	NNP	_	3	compound	_	B-PERSON
+3	Johnson	johnson	NNP	_	0	root	_	L-PERSON
+4	Arizona	arizona	NNP	_	3	npadvmod	_	B-ORG
+5	#Diamondbacks	#diamondbacks	NNP	pos2=VBZ	3	npadvmod	_	L-ORG
+6	2002	0	CD	_	5	npadvmod	_	U-DATE
+7	Cy	cy	NNP	_	8	compound	_	B-WORK_OF_ART
+8	Young	young	NNP	_	10	compound	_	I-WORK_OF_ART
+9	Award	award	NNP	_	10	compound	_	L-WORK_OF_ART
+10	Bobblehead	bobblehead	NNP	pos2=GW	13	dep	_	O
+11	https://t.co/IPB3RebIYM	#hlink#	ADD	pos2=POS	13	nmod	_	O
+12	#Collectible	#collectible	ADD	pos2=NNP	0	root	_	O
+13	https://t.co/iIYpGviMYT	#hlink#	ADD	_	12	pobj	_	O
+

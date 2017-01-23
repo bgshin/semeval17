@@ -1,0 +1,27 @@
+1	RINOS	rinos	NNP	pos2=NN	26	nmod	_	O
+2	(	(	-LRB-	_	3	punct	_	O
+3	@GovPenceIN	@govpencein	NNP	pos2=NN	14	dep	_	U-GPE
+4	,	,	,	_	3	punct	_	O
+5	REINCE	reince	NNP	_	3	conj	_	U-GPE
+6	,	,	,	_	5	punct	_	O
+7	ConWay	conway	NNP	_	5	conj	_	U-ORG
+8	)	)	-RRB-	_	1	punct	_	O
+9	&	&	CC	_	1	cc	_	O
+10	DEMS	dems	NNS	pos2=NN	7	conj	_	O
+11	:	:	:	_	14	punct	_	O
+12	Flynn	flynn	NNP	_	14	nmod	_	U-PERSON
+13	,	,	,	_	12	punct	_	O
+14	Kushner	kushner	NNP	_	1	conj	_	U-PERSON
+15	who	who	WP	_	17	nsubj	_	O
+16	r	r	VBP	pos2=VBZ	17	aux	_	O
+17	pushing	push	VBG	_	14	relcl	_	O
+18	Trump	trump	NNP	pos2=NN	17	dobj	_	B-ORG
+19	2	0	CD	_	18	nmod	_	L-ORG
+20	hire	hire	VB	pos2=NN	17	xcomp	_	O
+21	Rinos	rinos	NNP	pos2=NNPS	20	dobj	_	U-ORG
+22	,	,	,	_	26	punct	_	O
+23	Dems	dems	NNPS	pos2=NNP	24	compound	_	B-PERSON
+24	@LTC_Hunter	@ltc_hunter	NNP	pos2=XX	26	nmod	_	L-PERSON
+25	@JudgeJeanine	@judgejeanine	GW	pos2=NN	26	nmod	_	O
+26	@realDonaldTrump	@realdonaldtrump	ADD	pos2=NN	0	root	_	O
+

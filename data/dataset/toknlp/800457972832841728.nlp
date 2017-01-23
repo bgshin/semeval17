@@ -1,0 +1,22 @@
+1	@NATOfundedTROLL	@natofundedtroll	UH	pos2=ADD	8	discourse	_	O
+2	@BeatDoctor63	@beatdoctor0	NN	pos2=NNS	8	dep	_	O
+3	@UA_I_have_hope	@ua_i_have_hope	XX	pos2=IN	8	dep	_	O
+4	The	the	DT	_	5	det	_	O
+5	#Kremlintrolls	#kremlintrolls	NNS	pos2=NNPS	8	nsubjpass	_	O
+6	are	be	VBP	_	8	auxpass	_	O
+7	now	now	RB	_	8	advmod	_	O
+8	reduced	reduce	VBN	_	0	root	_	O
+9	to	to	IN	_	8	prep	_	O
+10	pimping	pimp	VBG	pos2=NN	9	pcomp	_	O
+11	moldy	moldy	JJ	pos2=NN	13	nmod	_	O
+12	old	old	JJ	pos2=NN	13	nmod	_	O
+13	lies	lie	NNS	pos2=VBZ	10	dobj	_	O
+14	now	now	RB	_	10	advmod	_	O
+15	that	that	IN	pos2=WDT	17	mark	_	O
+16	JIT	jit	NNP	pos2=NN	17	nsubj	_	U-ORG
+17	nailed	nail	VBD	pos2=VBN	8	ccomp	_	O
+18	RU	ru	NNP	pos2=FW	17	dobj	_	O
+19	.	.	.	_	8	punct	_	O
+
+1	#MH17	#mh0	NN	pos2=NNS	0	root	_	O
+

@@ -1,0 +1,15 @@
+1	Ashley	ashley	NNP	_	2	compound	_	B-PERSON
+2	Graham	graham	NNP	_	3	compound	_	L-PERSON
+3	jus	jus	NN	pos2=NNP	6	nsubj	_	O
+4	wo	wo	MD	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	allow	allow	VB	_	0	root	_	O
+7	b	b	NN	pos2=GW	9	nmod	_	O
+8	2	0	CD	_	7	nmod	_	U-CARDINAL
+9	gr8	gr0	NN	pos2=NNS	6	dobj	_	O
+10	she	she	PRP	_	14	nsubj	_	O
+11	so	so	RB	_	13	advmod	_	O
+12	damn	damn	RB	pos2=JJ	13	advmod	_	O
+13	Sexy	sexy	JJ	pos2=NNP	14	nmod	_	O
+14	😍😍😍	😍😍😍	NN	pos2=.	9	appos	_	O
+

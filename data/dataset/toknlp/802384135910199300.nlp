@@ -1,0 +1,17 @@
+1	Retweeted	retweeted	VBN	pos2=VBD	2	nmod	_	O
+2	Oldman	oldman	NNP	_	6	nsubj	_	U-PERSON
+3	(	(	-LRB-	_	2	punct	_	O
+4	@gary_stone0	@gary_stone0	NN	pos2=NNS	2	appos	_	O
+5	)	)	-RRB-	_	2	punct	_	O
+6	:@Corraandrews	:@corraandrews	VBZ	pos2=NNS	0	root	_	O
+7	@Tee_Quake	@tee_quake	ADD	pos2=NN	6	dobj	_	O
+8	@COlphie	@colphie	ADD	pos2=XX	12	nsubj	_	O
+9	@TeamTrumpAZ	@teamtrumpaz	ADD	pos2=XX	6	advmod	_	O
+10	@trump2021	@trump0	NN	pos2=LS	11	compound	_	O
+11	@DrJillStein	@drjillstein	NN	pos2=ADD	12	nsubj	_	O
+12	ripping	rip	VBG	_	9	ccomp	_	O
+13	off	off	RP	pos2=IN	12	prt	_	O
+14	the	the	DT	_	15	det	_	O
+15	dems	dems	NNS	pos2=NN	12	dobj	_	O
+16	again	again	RB	_	12	advmod	_	O
+

@@ -1,0 +1,24 @@
+1	The	the	DT	_	3	det	_	O
+2	same	same	JJ	_	3	nmod	_	O
+3	people	people	NNS	_	11	nsubj	_	O
+4	who	who	WP	_	5	nsubj	_	O
+5	kept	keep	VBD	_	3	relcl	_	O
+6	harping	harp	VBG	_	5	xcomp	_	O
+7	about	about	IN	pos2=RB	6	prep	_	O
+8	privilege	privilege	NN	_	7	pobj	_	O
+9	are	be	VBP	_	11	aux	_	O
+10	now	now	RB	_	11	advmod	_	O
+11	going	go	VBG	_	0	root	_	O
+12	on	on	RP	_	11	prt	_	O
+13	about	about	IN	_	11	prep	_	O
+14	how	how	WRB	_	19	advmod	_	O
+15	Great	great	NNP	pos2=JJ	17	compound	_	O
+16	Granddad	granddad	NNP	pos2=NN	17	compound	_	O
+17	Clem	clem	NNP	_	19	nsubj	_	U-PERSON
+18	was	be	VBD	_	19	aux	_	O
+19	killing	kill	VBG	_	13	pcomp	_	O
+20	proto-alt	proto-alt	JJ	pos2=HYPH	21	nmod	_	O
+21	rightists	rightist	NNS	_	19	dobj	_	O
+22	at	at	IN	_	19	prep	_	O
+23	Normandy	normandy	NNP	_	22	pobj	_	U-GPE
+

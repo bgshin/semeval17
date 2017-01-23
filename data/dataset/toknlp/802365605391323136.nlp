@@ -1,0 +1,18 @@
+1	@JoyAnnReid	@joyannreid	XX	pos2=ADD	5	dep	_	O
+2	@tribelaw	@tribelaw	UH	pos2=XX	5	discourse	_	O
+3	hahahahahahaha	hahahahahahaha	UH	pos2=WP	5	discourse	_	O
+4	we	we	PRP	_	5	nsubj	_	O
+5	won	win	VBD	pos2=XX	0	root	_	O
+6	!!!!	!!	.	_	5	punct	_	O
+
+1	DEPLORABLES	deplorables	NNP	pos2=NNS	2	compound	_	O
+2	WON	won	NNP	pos2=NN	0	root	_	O
+3	!!!!	!!	.	_	2	punct	_	O
+
+1	DEAL	deal	VB	pos2=NN	0	root	_	O
+2	WITH	with	IN	_	1	prep	_	O
+3	IT	it	PRP	_	2	pobj	_	O
+4	OR	or	CC	_	1	cc	_	O
+5	LEAVE	leave	VB	_	1	conj	_	O
+6	!!!	!!	.	_	1	punct	_	O
+

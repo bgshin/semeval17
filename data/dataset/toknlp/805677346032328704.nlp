@@ -1,0 +1,12 @@
+1	12	0	CD	pos2=LS	3	nmod	_	U-CARDINAL
+2	Hourly	hourly	NNP	pos2=JJ	3	compound	_	U-TIME
+3	Jobs	job	NNPS	pos2=NNS	0	root	_	O
+4	That	that	WDT	pos2=DT	5	nsubj	_	O
+5	Pay	pay	NNP	pos2=VB	3	relcl	_	O
+6	More	more	JJR	pos2=NNP	5	dobj	_	O
+7	Than	than	IN	_	6	prep	_	O
+8	Minimum	minimum	NNP	pos2=JJ	9	compound	_	O
+9	Wage	wage	NNP	pos2=GW	7	pobj	_	O
+10	https://t.co/5Jjo3VHIeW	#hlink#	ADD	_	11	nmod	_	O
+11	https://t.co/bgjnlekLY9	#hlink#	ADD	_	5	dobj	_	U-ORG
+

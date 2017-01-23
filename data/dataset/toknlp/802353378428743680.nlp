@@ -1,0 +1,29 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	time	time	NN	_	2	attr	_	O
+4	for	for	IN	_	8	mark	_	O
+5	Rep.	rep.	NNP	_	6	compound	_	O
+6	Pelosi	pelosi	NNP	_	8	nsubj	_	U-PERSON
+7	to	to	TO	_	8	aux	_	O
+8	move	move	VB	_	3	relcl	_	O
+9	on	on	RB	pos2=RP	8	advmod	_	O
+10	and	and	CC	_	8	cc	_	O
+11	let	let	VB	_	8	conj	_	O
+12	someone	someone	NN	_	14	nsubj	_	O
+13	else	else	RB	pos2=JJ	12	advmod	_	O
+14	take	take	VB	_	11	ccomp	_	O
+15	the	the	DT	_	17	det	_	O
+16	leadership	leadership	NN	_	17	compound	_	O
+17	position	position	NN	_	14	dobj	_	O
+18	.	.	.	_	2	punct	_	O
+
+1	Just	just	RB	_	2	advmod	_	O
+2	bring	bring	VB	pos2=VBG	6	advcl	_	O
+3	in	in	RP	pos2=RB	2	prt	_	O
+4	the	the	DT	_	5	det	_	O
+5	cash	cash	NN	_	2	dobj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	n	n	JJ	pos2=GW	6	acomp	_	O
+8	…	…	NFP	pos2=,	9	punct	_	O
+9	https://t.co/zZhrg0ZyC4	#hlink#	ADD	_	6	dep	_	U-ORG
+

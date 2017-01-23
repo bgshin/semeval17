@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det	_	O
+2	future	future	NN	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	online	online	JJ	pos2=RB	6	nmod	_	O
+5	GEO	geo	NN	pos2=NNP	6	compound	_	O
+6	classes	class	NNS	_	3	pobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	virtual	virtual	JJ	_	10	nmod	_	O
+9	field	field	NN	_	10	compound	_	O
+10	trips	trip	NNS	_	6	conj	_	O
+11	?	?	.	_	2	punct	_	O
+
+1	Google	google	NNP	_	3	compound	_	O
+2	Earth	earth	NNP	_	3	compound	_	O
+3	VR	vr	NNP	pos2=NN	5	dep	_	O
+4	-	-	:	pos2=HYPH	5	punct	_	O
+5	https://t.co/3zCRLq2aj1	#hlink#	ADD	pos2=NN	0	root	_	O
+

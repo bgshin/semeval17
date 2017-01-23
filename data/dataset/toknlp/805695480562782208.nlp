@@ -1,0 +1,28 @@
+1	And	and	CC	_	4	cc	_	O
+2	states	state	NNS	pos2=VBZ	4	nsubj	_	O
+3	should	should	MD	_	4	aux	_	O
+4	push	push	VB	_	0	root	_	O
+5	control	control	NN	pos2=RB	4	dobj	_	O
+6	down	down	IN	pos2=RB	4	prep	_	O
+7	to	to	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	counties	county	NNS	_	7	pobj	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	more	more	RBR	_	3	advmod	_	O
+3	granular	granular	JJ	_	6	advmod	_	O
+4	,	,	,	_	6	punct	_	O
+5	the	the	DT	_	6	advmod	_	O
+6	better	good	JJR	pos2=RBR	0	root	_	O
+7	.	.	.	_	6	punct	_	O
+
+1	Gun	gun	NN	pos2=NNP	2	compound	_	O
+2	rights	right	NNS	_	0	root	_	O
+3	on	on	IN	_	2	prep	_	O
+4	the	the	DT	_	7	det	_	O
+5	most	most	RBS	pos2=JJS	6	advmod	_	O
+6	granular	granular	JJ	_	7	nmod	_	O
+7	level	level	NN	_	3	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+

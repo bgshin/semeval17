@@ -1,0 +1,27 @@
+1	@ricky_martin	@ricky_martin	NNP	pos2=UH	2	compound	_	O
+2	babe	babe	NN	pos2=UH	4	vocative	_	O
+3	i	I	PRP	_	4	nsubj	_	O
+4	thought	think	VBD	_	0	root	_	O
+5	you	you	PRP	_	7	nsubj	_	O
+6	can	can	MD	_	7	aux	_	O
+7	do	do	VB	_	4	ccomp	_	O
+8	whatever	whatever	WP	_	10	dobj	_	O
+9	you	you	PRP	_	10	nsubj	_	O
+10	want	want	VBP	_	7	ccomp	_	O
+11	...	..	.	_	4	punct	_	O
+
+1	But	but	CC	_	6	cc	_	O
+2	,	,	,	_	6	punct	_	O
+3	love	love	NN	pos2=UH	6	punct	_	O
+4	,	,	,	_	6	punct	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	'm	be	VBP	_	0	root	_	O
+7	no	no	RB	_	8	neg	_	O
+8	longer	long	RBR	pos2=RB	6	advmod	_	O
+9	want	want	VBP	pos2=VB	6	conj	_	O
+10	to	to	TO	_	11	aux	_	O
+11	be	be	VB	_	9	xcomp	_	O
+12	without	without	IN	_	11	prep	_	O
+13	you	you	PRP	_	12	pobj	_	O
+14	.	.	.	_	6	punct	_	O
+

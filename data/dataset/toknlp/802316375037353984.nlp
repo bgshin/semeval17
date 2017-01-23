@@ -1,0 +1,26 @@
+1	@SavageNation	@savagenation	NNP	pos2=NN	2	compound	_	O
+2	Obama	obama	NNP	_	3	nsubj	_	U-PERSON
+3	transferred	transfer	VBD	pos2=VBN	0	root	_	O
+4	CENSUS	census	NNP	pos2=NN	5	compound	_	B-ORG
+5	Bureau	bureau	NNP	_	3	dobj	_	L-ORG
+6	to	to	TO	_	7	aux	_	O
+7	be	be	VB	_	3	xcomp	_	O
+8	under	under	IN	pos2=RB	7	prep	_	O
+9	under	under	IN	_	7	prep	_	O
+10	White	white	NNP	_	11	compound	_	B-ORG
+11	House	house	NNP	_	12	compound	_	L-ORG
+12	control	control	NN	pos2=VB	9	pobj	_	O
+13	WHY	why	WRB	pos2=NNP	8	pobj	_	O
+14	?	?	.	_	3	punct	_	O
+
+1	REDISTRICTING	redistricting	NN	_	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+
+1	Happen	happen	VB	_	0	root	_	O
+2	early	early	RB	_	1	advmod	_	O
+3	in	in	IN	_	2	prep	_	O
+4	his	his	PRP$	_	7	poss	_	O
+5	Admin	admin	NNP	pos2=NN	7	nmod	_	B-ORG
+6	Pls	pls	NNPS	pos2=NNP	7	compound	_	L-ORG
+7	club	club	NN	pos2=VB	3	pobj	_	O
+

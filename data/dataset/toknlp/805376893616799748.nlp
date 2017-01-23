@@ -1,0 +1,5 @@
+1	Socorro	socorro	NNP	_	4	nmod	_	U-GPE
+2	,	,	,	_	4	punct	_	O
+3	ashley	ashley	NNP	pos2=JJ	4	compound	_	B-PERSON
+4	graham	graham	NNP	pos2=NN	0	root	_	L-PERSON
+

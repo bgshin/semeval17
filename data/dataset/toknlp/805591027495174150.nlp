@@ -1,0 +1,25 @@
+1	And	and	CC	_	3	cc	_	O
+2	Newton	newton	NNP	_	3	nsubj	_	U-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	about	about	RB	pos2=IN	5	advmod	_	B-DATE
+5	5	0	CD	_	6	nmod	_	I-DATE
+6	years	year	NNS	_	7	npadvmod	_	L-DATE
+7	overdue	overdue	JJ	_	3	acomp	_	O
+8	for	for	IN	_	7	prep	_	O
+9	that	that	DT	_	8	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	Eclipses	eclipse	NNS	pos2=NNP	3	compound	_	O
+2	Cristiano	cristiano	NNP	_	3	compound	_	B-PERSON
+3	Ronaldo	ronaldo	NNP	_	0	root	_	L-PERSON
+4	as	as	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	biggest	big	JJS	_	7	nmod	_	O
+7	prima	prima	NN	_	3	appos	_	O
+8	donna	donna	NNP	pos2=NN	7	appos	_	O
+9	in	in	IN	_	7	prep	_	O
+10	sports	sport	NNS	_	9	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	https://t.co/h1ZQzlvro2	#hlink#	ADD	_	0	root	_	U-ORG
+

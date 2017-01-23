@@ -1,0 +1,25 @@
+1	IMMIGRATION	immigration	NN	pos2=NNP	2	compound	_	O
+2	SEMINARWant	seminarwant	NNP	pos2=NN	4	nsubj	_	U-PERSON
+3	to	to	TO	_	4	aux	_	O
+4	Immigrate	immigrate	VB	_	0	root	_	O
+5	to	to	IN	_	4	prep	_	O
+6	Canada	canada	NNP	_	8	nmod	_	U-GPE
+7	/	/	SYM	pos2=HYPH	8	punct	_	O
+8	Australia	australia	NNP	_	5	pobj	_	U-GPE
+9	in	in	IN	_	4	prep	_	O
+10	12	0	CD	_	11	nmod	_	B-DATE
+11	months	month	NNS	_	9	pobj	_	L-DATE
+12	..	..	.	_	4	punct	_	O
+
+1	!!	!!	.	pos2=SYM	0	predet	_	O
+
+1	Attend	attend	VB	pos2=VBP	0	root	_	O
+2	free	free	JJ	pos2=JJR	3	nmod	_	O
+3	Seminar	seminar	NNP	pos2=NN	1	dobj	_	O
+4	on	on	IN	_	1	prep	_	O
+5	9th	#ord#	JJ	pos2=NN	6	nmod	_	B-DATE
+6	December	december	NNP	_	4	pobj	_	L-DATE
+7	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/lEh8gJAMB6	#hlink#	ADD	_	0	root	_	U-ORG
+

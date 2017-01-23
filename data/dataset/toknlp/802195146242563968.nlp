@@ -1,0 +1,21 @@
+1	#Rick	#rick	NNP	pos2=SYM	2	compound	_	B-PERSON
+2	Grimes	grimes	NNP	pos2=NNPS	13	dep	_	L-PERSON
+3	[	[	-LRB-	_	5	punct	_	O
+4	about	about	IN	pos2=RB	2	prep	_	O
+5	#Beth	#beth	NNP	pos2=CD	4	pobj	_	O
+6	]	]	-RRB-	_	9	punct	_	O
+7	:	:	:	_	13	punct	_	O
+8	She	she	PRP	_	9	nsubj	_	O
+9	dead?#Daryl	dead?#daryl	NNP	pos2=VBZ	10	compound	_	O
+10	Dixon	dixon	NNP	_	13	dep	_	O
+11	:	:	:	_	13	punct	_	O
+12	She	she	PRP	_	13	nsubj	_	O
+13	's	's	VBZ	_	0	root	_	O
+14	just	just	RB	_	16	advmod	_	O
+15	gone.#TheWalkingDeadSeason	gone.#thewalkingdeadseason	NNP	pos2=VBN	16	compound	_	O
+16	4#A30	0#a0	NN	pos2=CD	13	attr	_	O
+17	March	march	NNP	_	13	npadvmod	_	B-DATE
+18	2014	0	CD	_	17	nmod	_	L-DATE
+19	…	…	NFP	pos2=:	20	punct	_	O
+20	https://t.co/gPU9aO8d8d	#hlink#	ADD	_	13	dep	_	O
+

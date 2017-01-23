@@ -1,0 +1,24 @@
+1	@TomiLahren	@tomilahren	NNP	pos2=ADD	3	compound	_	O
+2	Fossil	fossil	NNP	pos2=NN	3	compound	_	O
+3	fuels	fuel	NNS	_	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	the	the	DT	_	9	det	_	O
+6	most	most	RBS	_	8	advmod	_	O
+7	environmentally	environmentally	RB	_	8	advmod	_	O
+8	harmful	harmful	JJ	_	9	nmod	_	O
+9	forms	form	NNS	_	4	attr	_	O
+10	of	of	IN	_	9	prep	_	O
+11	energy	energy	NN	_	10	pobj	_	O
+12	there	there	EX	pos2=RB	13	expl	_	O
+13	are	be	VBP	_	4	conj	_	O
+14	,	,	,	_	13	punct	_	O
+15	and	and	CC	_	13	cc	_	O
+16	they	they	PRP	_	19	nsubj	_	O
+17	are	be	VBP	_	19	aux	_	O
+18	n't	not	RB	_	19	neg	_	O
+19	going	go	VBG	_	13	conj	_	O
+20	to	to	TO	pos2=IN	21	aux	_	O
+21	last	last	VB	pos2=RB	19	xcomp	_	O
+22	forever	forever	RB	_	21	advmod	_	O
+23	.	.	.	_	19	punct	_	O
+

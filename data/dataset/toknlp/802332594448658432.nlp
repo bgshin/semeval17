@@ -1,0 +1,20 @@
+1	#Spurs	#spurs	NNS	pos2=NNP	2	compound	_	O
+2	#GoSpursGo	#gospursgo	NNP	pos2=IN	4	compound	_	O
+3	Tim	tim	NNP	_	4	compound	_	B-PERSON
+4	Duncan	duncan	NNP	_	0	root	_	L-PERSON
+5	1998/99	0	CD	_	4	npadvmod	_	U-CARDINAL
+6	2nd	#ord#	JJ	pos2=NN	8	nmod	_	U-ORDINAL
+7	Yr	yr	NNP	pos2=NN	8	compound	_	O
+8	Starquest	starquest	NNP	_	4	conj	_	O
+9	&	&	CC	_	8	cc	_	O
+10	#Topps	#topps	NNP	pos2=NNS	8	conj	_	O
+11	&	&	CC	_	8	cc	_	O
+12	2000	0	CD	_	8	conj	_	O
+13	Upper	upper	NNP	pos2=JJ	15	compound	_	B-ORG
+14	Deck	deck	NNP	pos2=NN	15	compound	_	I-ORG
+15	Lightning	lightning	NNP	pos2=NN	16	nsubj	_	L-ORG
+16	Strikes	strike	VBZ	pos2=NNPS	1	relcl	_	O
+17	https://t.co/PXsg4Ksrdz	#hlink#	ADD	_	16	dobj	_	U-ORG
+18	#TimDuncan	#timduncan	ADD	pos2=-RRB-	16	prep	_	U-ORG
+19	#NBA	#nba	NN	pos2=ADD	18	pobj	_	O
+

@@ -1,0 +1,26 @@
+1	@dcexaminer	@dcexaminer	PRP$	pos2=NNP	3	poss	_	O
+2	Hop	hop	NNP	pos2=NN	3	compound	_	U-NORP
+3	@realDonaldTrump	@realdonaldtrump	NN	pos2=NNP	6	nsubj	_	O
+4	will	will	MD	_	6	aux	_	O
+5	also	also	RB	_	6	advmod	_	O
+6	nullify	nullify	VB	_	0	root	_	O
+7	mandatory	mandatory	JJ	_	8	nmod	_	O
+8	slew	slew	NN	_	6	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	vaccines	vaccine	NNS	_	9	pobj	_	O
+11	required	require	VBN	_	10	acl	_	O
+12	in	in	IN	pos2=RP	11	prep	_	O
+13	CA	ca	NNP	pos2=NN	12	pobj	_	U-GPE
+14	,	,	,	_	18	punct	_	O
+15	enough	enough	JJ	pos2=RB	10	nmod	_	O
+16	to	to	TO	_	17	aux	_	O
+17	kill	kill	VB	_	15	xcomp	_	O
+18	a	a	DT	_	19	det	_	O
+19	horse	horse	NN	_	17	dobj	_	O
+20	!	!	.	_	6	punct	_	O
+
+1	Autism	autism	NN	pos2=NNP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	rampant	rampant	JJ	_	2	acomp	_	O
+4	.	.	.	_	2	punct	_	O
+

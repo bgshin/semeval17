@@ -1,0 +1,9 @@
+1	@pedos4Muhammad	@pedos0muhammad	NN	pos2=JJ	5	nmod	_	O
+2	LOL	lol	UH	pos2=NN	5	discourse	_	O
+3	muh	muh	NN	pos2=UH	5	nmod	_	O
+4	popular	popular	JJ	_	5	nmod	_	O
+5	vote	vote	NN	_	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	😂😂😂	😂😂😂	SYM	pos2=NFP	0	root	_	U-ORG
+

@@ -1,0 +1,29 @@
+1	@Katiejane360	@katiejane0	NN	pos2=PRP$	2	compound	_	O
+2	Medicaid	medicaid	NNP	_	5	nsubjpass	_	U-ORG
+3	is	be	VBZ	_	5	auxpass	_	O
+4	not	not	RB	_	5	neg	_	O
+5	supposed	suppose	VBN	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	be	be	VB	_	5	xcomp	_	O
+8	a	a	DT	_	9	det	_	O
+9	vehicle	vehicle	NN	_	7	attr	_	O
+10	to	to	IN	pos2=TO	11	aux	_	O
+11	redistrib	redistrib	VB	pos2=NN	9	relcl	_	O
+12	wealth	wealth	NN	_	11	dobj	_	O
+13	.	.	.	_	5	punct	_	O
+
+1	Its	its	PRP$	_	2	poss	_	O
+2	used	use	VBN	pos2=JJ	0	root	_	O
+3	as	as	IN	_	2	prep	_	O
+4	one	#crd#	CD	pos2=NN	3	pobj	_	U-CARDINAL
+5	.	.	.	_	2	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	fraud	fraud	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	fed	fed	JJ	pos2=VBN	6	nmod	_	O
+6	govt	govt	NN	_	3	attr	_	O
+7	abusing	abuse	VBG	_	6	acl	_	O
+8	taxpayers	taxpayer	NNS	_	7	dobj	_	O
+

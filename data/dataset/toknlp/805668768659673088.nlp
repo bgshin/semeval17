@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det	_	O
+2	true	true	JJ	_	3	nmod	_	O
+3	parallel	parallel	NN	_	6	nsubj	_	O
+4	for	for	IN	_	3	prep	_	O
+5	#ItalyReferendum	#italyreferendum	NN	pos2=NNP	4	pobj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	https://t.co/xDr0kSzZ5ynot	#hlink#	ADD	_	12	compound	_	O
+8	brexit	brexit	NN	pos2=-RRB-	6	attr	_	O
+9	,	,	,	_	6	punct	_	O
+10	you	you	PRP	pos2=PRP$	6	dative	_	O
+11	uninformed	uninformed	JJ	pos2=VBD	13	nmod	_	O
+12	drama	drama	NN	_	13	compound	_	O
+13	queens	queen	NNS	pos2=NNP	10	appos	_	O
+14	.	.	.	_	6	punct	_	O
+
+1	We	we	PRP	_	3	nsubj	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	saved	save	VBD	_	0	root	_	O
+4	democracy	democracy	NN	_	3	dobj	_	O
+5	.	.	.	_	3	punct	_	O
+

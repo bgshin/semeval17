@@ -1,0 +1,31 @@
+1	If	if	IN	_	4	mark	_	O
+2	Tony	tony	NNP	_	3	compound	_	B-PERSON
+3	Romo	romo	NNP	_	4	nsubj	_	L-PERSON
+4	goes	go	VBZ	_	14	advcl	_	O
+5	to	to	IN	_	4	prep	_	O
+6	Denver	denver	NNP	_	5	pobj	_	U-GPE
+7	in	in	IN	_	4	prep	_	O
+8	the	the	DT	_	10	det	_	B-DATE
+9	off	off	JJ	pos2=RP	10	nmod	_	I-DATE
+10	season	season	NN	_	7	pobj	_	L-DATE
+11	the	the	DT	_	12	det	_	O
+12	Broncos	bronco	NNPS	_	14	nsubj	_	U-PRODUCT
+13	will	will	MD	_	14	aux	_	O
+14	win	win	VB	_	0	root	_	O
+15	another	another	DT	_	16	det	_	O
+16	SB	sb	NN	pos2=NNP	14	dobj	_	O
+17	if	if	IN	_	20	mark	_	O
+18	their	their	PRP$	_	19	poss	_	O
+19	D	d	NN	pos2=NNP	20	nsubj	_	O
+20	stays	stay	VBZ	_	14	advcl	_	O
+21	the	the	DT	_	22	det	_	O
+22	same	same	JJ	_	20	attr	_	O
+23	.	.	.	_	14	punct	_	O
+
+1	Remember	remember	VB	pos2=VBP	0	root	_	O
+2	they	they	PRP	_	3	nsubj	_	O
+3	knocked	knock	VBD	pos2=VBN	1	ccomp	_	O
+4	cam	cam	NN	pos2=FW	3	dobj	_	O
+5	retarded	retarded	JJ	pos2=VBN	4	nmod	_	O
+6	?	?	.	_	1	punct	_	O
+

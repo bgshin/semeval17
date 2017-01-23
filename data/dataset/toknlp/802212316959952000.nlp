@@ -1,0 +1,13 @@
+1	@BrandonVDixon	@brandonvdixon	ADD	pos2=NN	7	punct	_	O
+2	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	7	nsubj	_	O
+3	@mike_pence	@mike_pence	IN	pos2=NNP	2	prep	_	O
+4	Brandon	brandon	NNP	_	5	compound	_	B-PERSON
+5	Dixon	dixon	NNP	_	3	pobj	_	L-PERSON
+6	will	will	MD	_	7	aux	_	O
+7	go	go	VB	_	0	root	_	O
+8	down	down	RB	pos2=RP	7	advmod	_	O
+9	as	as	IN	pos2=RB	8	prep	_	O
+10	an	an	DT	_	12	det	_	O
+11	opportunistic	opportunistic	JJ	_	12	nmod	_	O
+12	loser	loser	NN	_	9	pobj	_	O
+

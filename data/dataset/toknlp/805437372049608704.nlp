@@ -1,0 +1,9 @@
+1	Ashley	ashley	NNP	_	3	compound	_	B-PERSON
+2	Graham	graham	NNP	_	3	compound	_	L-PERSON
+3	Lingerie	lingerie	NNP	pos2=NN	8	dep	_	O
+4	Collection	collection	NN	pos2=NNP	8	dep	_	O
+5	|	|	SYM	pos2=,	8	punct	_	O
+6	Addition	addition	NN	pos2=NNP	8	dep	_	O
+7	Elle	elle	NNP	pos2=GW	8	nmod	_	U-ORG
+8	https://t.co/PW8DjwIjAc	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,22 @@
+1	@cnnbrk	@cnnbrk	UH	pos2=XX	8	discourse	_	O
+2	@Reuters	@reuters	NNS	pos2=VBZ	4	nmod	_	O
+3	BREAKING	break	VBG	pos2=NN	4	nmod	_	O
+4	NEWS	news	NN	_	8	dep	_	O
+5	:	:	:	_	8	punct	_	O
+6	@realDonaldTrump	@realdonaldtrump	NN	pos2=XX	8	nsubj	_	O
+7	just	just	RB	_	8	advmod	_	O
+8	contracted	contract	VBD	pos2=VBN	0	root	_	O
+9	w	w	IN	pos2=PRP	8	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	Lego	lego	NNP	_	12	compound	_	U-ORG
+12	company	company	NN	pos2=NNP	9	pobj	_	O
+13	to	to	TO	_	14	aux	_	O
+14	build	build	VB	_	8	advcl	_	O
+15	the	the	DT	_	16	det	_	O
+16	wall	wall	NN	_	14	dobj	_	O
+17	on	on	IN	_	14	prep	_	O
+18	Mexican	mexican	JJ	pos2=NNP	19	nmod	_	U-NORP
+19	bo	bo	NN	pos2=GW	17	pobj	_	O
+20	…	…	NFP	pos2=-LRB-	21	punct	_	O
+21	https://t.co/fBwwcx2Yco	#hlink#	ADD	_	8	dep	_	O
+

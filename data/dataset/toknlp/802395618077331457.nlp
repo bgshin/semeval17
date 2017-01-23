@@ -1,0 +1,9 @@
+1	Samsung	samsung	NNP	_	3	compound	_	O
+2	Galaxy	galaxy	NNP	_	3	compound	_	O
+3	Note	note	NNP	pos2=VBP	8	dep	_	O
+4	7	0	CD	_	3	npadvmod	_	U-CARDINAL
+5	officially	officially	RB	_	6	advmod	_	O
+6	discontinued	discontinue	VBN	pos2=VBD	8	nmod	_	O
+7	https://t.co/lbLtiN4BE4	#hlink#	ADD	_	8	nsubj	_	O
+8	#review	#review	ADD	pos2=-RRB-	0	root	_	O
+

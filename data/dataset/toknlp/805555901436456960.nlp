@@ -1,0 +1,28 @@
+1	You	you	PRP	_	2	nsubj	_	O
+2	know	know	VBP	_	4	parataxis	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	not	not	RB	_	4	neg	_	O
+6	a	a	DT	_	8	det	_	O
+7	good	good	JJ	_	8	nmod	_	O
+8	sign	sign	NN	_	4	attr	_	O
+9	when	when	WRB	_	16	advmod	_	O
+10	Nigel	nigel	NNP	_	11	compound	_	B-PERSON
+11	Farage	farage	NNP	_	16	nsubj	_	L-PERSON
+12	and	and	CC	_	11	cc	_	O
+13	Marine	marine	NNP	pos2=JJ	15	compound	_	B-ORG
+14	Le	le	NNP	_	15	compound	_	I-ORG
+15	Pen	pen	NNP	_	11	conj	_	L-ORG
+16	take	take	VB	pos2=VBP	8	relcl	_	O
+17	to	to	IN	_	16	prep	_	O
+18	Twitter	twitter	NNP	_	17	pobj	_	U-ORG
+19	for	for	IN	_	16	prep	_	O
+20	a	a	DT	_	21	det	_	O
+21	gloat	gloat	VB	pos2=NN	19	pobj	_	O
+22	with	with	IN	_	21	prep	_	O
+23	...	..	.	pos2=,	4	punct	_	O
+
+1	https://t.co/epbta8lFKb	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@business	@business	NN	pos2=UH	2	pobj	_	O
+

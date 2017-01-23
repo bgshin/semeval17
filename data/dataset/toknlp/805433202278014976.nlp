@@ -1,0 +1,21 @@
+1	@trump2016fan	@trump0fan	UH	pos2=LS	17	discourse	_	O
+2	@walidshoebat	@walidshoebat	UH	pos2=VB	17	discourse	_	O
+3	if	if	IN	_	5	mark	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	call	call	VBP	_	17	advcl	_	O
+6	myself	myself	PRP	_	5	dobj	_	O
+7	a	a	DT	_	8	det	_	O
+8	vegetarian	vegetarian	JJ	pos2=NN	13	nmod	_	O
+9	and	and	CC	_	5	cc	_	O
+10	then	then	RB	_	11	advmod	_	O
+11	start	start	VB	_	5	conj	_	O
+12	torturing	torture	VBG	_	11	xcomp	_	O
+13	animals	animal	NNS	_	12	dobj	_	O
+14	then	then	RB	_	12	advmod	_	O
+15	does	do	VBZ	_	17	aux	_	O
+16	that	that	DT	pos2=WDT	17	nsubj	_	O
+17	make	make	VB	_	0	root	_	O
+18	vegetarianism	vegetarianism	NN	_	19	compound	_	O
+19	evil	evil	NN	pos2=JJ	17	dobj	_	O
+20	?	?	.	_	17	punct	_	O
+

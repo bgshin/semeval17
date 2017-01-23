@@ -1,0 +1,18 @@
+1	#Iran	#iran	NNP	pos2=MD	2	compound	_	B-PERSON
+2	#Hamas	#hamas	NNP	pos2=NNS	3	nsubj	_	L-PERSON
+3	Aspire	aspire	VB	pos2=VBP	0	root	_	O
+4	to	to	TO	pos2=IN	5	aux	_	O
+5	Destroy	destroy	VB	_	3	xcomp	_	O
+6	#Israel	#israel	NNP	pos2=NNS	5	dobj	_	O
+7	,	,	,	_	8	punct	_	O
+8	give	give	VB	_	3	dep	_	O
+9	Kiss	kiss	NNP	pos2=NN	8	dobj	_	B-WORK_OF_ART
+10	of	of	IN	_	9	prep	_	I-WORK_OF_ART
+11	Death	death	NN	pos2=NNP	10	pobj	_	I-WORK_OF_ART
+12	to	to	IN	pos2=TO	8	dative	_	I-WORK_OF_ART
+13	#Palestinian	#palestinian	NNP	_	14	compound	_	I-WORK_OF_ART
+14	Authority	authority	NNP	_	12	pobj	_	I-WORK_OF_ART
+15	@KhaledAbuToameh	@khaledabutoameh	GW	pos2=XX	8	advmod	_	I-WORK_OF_ART
+16	…	…	NFP	pos2=GW	17	punct	_	L-WORK_OF_ART
+17	https://t.co/3TWufwLGrw	#hlink#	ADD	_	8	dobj	_	O
+

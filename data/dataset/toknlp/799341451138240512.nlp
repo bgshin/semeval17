@@ -1,0 +1,14 @@
+1	#Politics	#politics	NNS	pos2=ADD	6	npadvmod	_	O
+2	@	@	SYM	pos2=NFP	7	punct	_	O
+3	#CNN	#cnn	ADD	pos2=NFP	0	root	_	U-MONEY
+4	https://t.co/mXI2BA6dsQ	#hlink#	ADD	pos2=NN	0	root	_	O
+5	-	-	HYPH	pos2=-RRB-	6	punct	_	O
+6	top	top	JJ	pos2=NN	7	nmod	_	O
+7	stories	story	NNS	_	3	dobj	_	O
+8	by	by	IN	_	7	prep	_	O
+9	@ElissaBeth	@elissabeth	NNP	pos2=NN	8	pobj	_	U-ORG
+10	,	,	,	_	9	punct	_	O
+11	@KremlinTrolls	@kremlintrolls	NNS	pos2=NNP	9	conj	_	O
+12	,	,	,	_	11	punct	_	O
+13	@TerrapinPrints	@terrapinprints	NNS	pos2=VBZ	11	conj	_	O
+

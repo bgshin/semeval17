@@ -1,0 +1,26 @@
+1	@MattMackowiak	@mattmackowiak	UH	pos2=XX	4	discourse	_	O
+2	@samsteinhp	@samsteinhp	UH	pos2=MD	4	discourse	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	think	think	VBP	_	0	root	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	's	's	VBZ	_	4	ccomp	_	O
+7	Team	team	NNP	pos2=NN	8	compound	_	B-ORG
+8	Trump	trump	NNP	_	9	nsubj	_	L-ORG
+9	battling	battle	VBG	_	6	ccomp	_	O
+10	itself	itself	PRP	_	9	dobj	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	Conway	conway	NNP	_	3	compound	_	U-PERSON
+3	wing	wing	NN	pos2=NNP	5	nsubj	_	O
+4	is	be	VBZ	_	5	aux	_	O
+5	undermining	undermine	VBG	_	0	root	_	O
+6	those	those	DT	_	5	dobj	_	O
+7	who	who	WP	_	8	nsubj	_	O
+8	want	want	VBP	_	6	relcl	_	O
+9	adults	adult	NNS	_	8	dobj	_	O
+10	in	in	IN	_	5	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	cabinet	cabinet	NN	_	10	pobj	_	O
+13	.	.	.	_	5	punct	_	O
+

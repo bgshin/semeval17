@@ -1,0 +1,27 @@
+1	@MadameKatacomb	@madamekatacomb	UH	pos2=XX	3	discourse	_	O
+2	yeah	yeah	UH	_	3	discourse	_	O
+3	took	take	VBD	_	0	root	_	O
+4	long	long	RB	pos2=JJ	5	advmod	_	O
+5	enough	enough	JJ	pos2=RB	6	nmod	_	O
+6	lmfao	lmfao	NN	pos2=FW	3	dobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	real	real	JJ	_	3	nmod	_	O
+3	wait	wait	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	Persona	persona	NNP	pos2=NN	4	attr	_	O
+6	5	0	CD	_	5	nmod	_	U-CARDINAL
+7	tho	tho	NN	pos2=NNS	5	appos	_	O
+8	.........	..	.	pos2=,	4	punct	_	O
+
+1	did	do	VBD	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	hear	hear	VB	pos2=VBP	0	root	_	O
+4	ATLUS	atlus	NNP	pos2=NN	5	nsubj	_	U-ORG
+5	delayed	delay	VBD	pos2=VBN	3	ccomp	_	O
+6	it	it	PRP	_	5	dobj	_	O
+7	to	to	IN	_	5	prep	_	O
+8	April	april	NNP	_	7	pobj	_	U-DATE
+9	now	now	RB	_	5	advmod	_	O
+

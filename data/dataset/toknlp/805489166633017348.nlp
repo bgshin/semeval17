@@ -1,0 +1,33 @@
+1	Day	day	NN	pos2=NNP	6	nsubj	_	B-DATE
+2	9	0	CD	_	1	nmod	_	L-DATE
+3	of	of	IN	_	1	prep	_	O
+4	vegetarianism	vegetarianism	NN	_	3	pobj	_	O
+5	has	have	VBZ	_	6	aux	_	O
+6	been	be	VBN	_	0	root	_	O
+7	solid	solid	JJ	pos2=VBN	6	acomp	_	O
+8	so	so	RB	_	9	advmod	_	O
+9	far	far	RB	_	6	advmod	_	O
+10	.	.	.	_	6	punct	_	O
+
+1	Workouts	workout	NNS	pos2=NNPS	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	stable	stable	JJ	_	2	acomp	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	Got	get	VBD	pos2=VBN	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	get	get	VB	_	1	xcomp	_	O
+4	a	a	DT	_	5	det	_	O
+5	little	little	JJ	_	6	npadvmod	_	O
+6	crafty	crafty	JJ	pos2=NN	3	acomp	_	O
+7	on	on	IN	_	3	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	menu	menu	NN	_	7	pobj	_	O
+10	but	but	CC	_	1	cc	_	O
+11	it	it	PRP	_	12	nsubj	_	O
+12	works	work	VBZ	_	1	conj	_	O
+13	.	.	.	_	12	punct	_	O
+
+1	#vegetarian	#vegetarian	UH	pos2=ADD	2	discourse	_	O
+2	#LetsGo	#letsgo	UH	pos2=ADD	0	root	_	O
+

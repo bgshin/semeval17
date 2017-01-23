@@ -1,0 +1,26 @@
+1	@KremlinTrolls	@kremlintrolls	NNS	pos2=NNP	4	attr	_	O
+2	What	what	WDT	pos2=WP	3	det	_	O
+3	yr	yr	NN	pos2=NNP	4	attr	_	O
+4	was	be	VBD	_	0	root	_	O
+5	this	this	DT	_	4	nsubj	_	O
+6	?	?	.	_	4	punct	_	O
+
+1	What	what	WP	pos2=WDT	3	dobj	_	O
+2	ifACjust	ifacjust	NNP	pos2=VBD	3	nsubj	_	U-ORG
+3	had	have	VBD	_	0	root	_	O
+4	this1meeting?ACpromotes	this0meeting?acpromotes	NNS	pos2=XX	5	compound	_	O
+5	Holodomor	holodomor	NNP	_	3	dobj	_	U-PERSON
+6	.	.	.	_	3	punct	_	O
+
+1	Don	don	NNP	_	3	poss	_	U-PERSON
+2	'	'	POS	pos2=''	1	case	_	O
+3	t	t	NN	pos2=PRP	4	nsubj	_	O
+4	think	think	VB	pos2=VBP	0	root	_	O
+5	a	a	DT	pos2=IN	6	det	_	O
+6	KT	kt	NN	pos2=NNP	8	nsubj	_	O
+7	would	would	MD	_	8	aux	_	O
+8	do	do	VB	_	4	ccomp	_	O
+9	that	that	DT	pos2=IN	8	dobj	_	O
+10	:	:	:	_	9	punct	_	O
+11	https://t.co/BsX4k6hJnz	#hlink#	ADD	pos2=NN	9	appos	_	O
+

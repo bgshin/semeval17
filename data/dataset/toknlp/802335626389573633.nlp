@@ -1,0 +1,23 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	11	det	_	O
+4	@YouTube	@youtube	NNP	pos2=JJ	6	nmod	_	U-PRODUCT
+5	video	video	NN	_	6	nmod	_	O
+6	https://t.co/MJqzMLbUUm	#hlink#	NN	pos2=ADD	11	nmod	_	O
+7	3	0	CD	_	8	nmod	_	U-CARDINAL
+8	D	d	NN	pos2=NNP	11	compound	_	O
+9	Pen	pen	NNP	pos2=NN	11	compound	_	O
+10	Phone	phone	NN	pos2=NNP	11	compound	_	O
+11	Case	case	NN	pos2=NNP	2	dobj	_	O
+12	with	with	IN	_	11	prep	_	O
+13	the	the	DT	_	16	det	_	O
+14	Dewang	dewang	NNP	_	16	compound	_	U-ORG
+15	X4	x0	NN	pos2=NNP	16	compound	_	O
+16	Pen	pen	NN	pos2=NNP	12	pobj	_	O
+17	//	//	SYM	pos2=-LRB-	22	punct	_	O
+18	3	0	CD	_	22	nmod	_	U-CARDINAL
+19	D	d	NNP	pos2=NN	22	compound	_	B-ORG
+20	Printing	printing	NNP	pos2=NN	22	compound	_	I-ORG
+21	Pen	pen	NNP	_	22	compound	_	I-ORG
+22	Review	review	NNP	pos2=NN	16	appos	_	L-ORG
+

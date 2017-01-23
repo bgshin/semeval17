@@ -1,0 +1,14 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	like	like	VBP	pos2=UH	0	root	_	O
+3	how	how	WRB	_	7	advmod	_	O
+4	the	the	DT	_	5	det	_	O
+5	Bbc	bbc	NNP	_	7	nsubj	_	U-ORG
+6	always	always	RB	pos2=POS	7	advmod	_	O
+7	loads	load	VBZ	pos2=NNS	2	ccomp	_	O
+8	against	against	IN	_	7	prep	_	O
+9	Brexit	brexit	NNP	_	10	compound	_	B-ORG
+10	VD	vd	NNP	pos2=NN	8	pobj	_	L-ORG
+11	on	on	IN	pos2=RB	7	prep	_	O
+12	now	now	RB	_	11	pcomp	_	O
+13	.	.	.	_	2	punct	_	O
+

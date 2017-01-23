@@ -1,0 +1,25 @@
+1	@bendykoval	@bendykoval	UH	pos2=XX	10	discourse	_	O
+2	Meanwhile	meanwhile	RB	pos2=NNP	10	advmod	_	O
+3	,	,	,	_	10	punct	_	O
+4	Fidel	fidel	NNP	_	6	poss	_	U-PERSON
+5	's	's	POS	_	4	case	_	O
+6	niece	niece	NN	pos2=NNP	10	nsubj	_	O
+7	Mariela	mariela	NNP	_	6	appos	_	U-PERSON
+8	is	be	VBZ	_	10	aux	_	O
+9	currently	currently	RB	_	10	advmod	_	O
+10	expanding	expand	VBG	_	0	root	_	O
+11	transgender	transgender	NN	pos2=JJ	12	compound	_	O
+12	rights	right	NNS	_	10	dobj	_	O
+13	in	in	IN	_	12	prep	_	O
+14	Cuba	cuba	NNP	_	13	pobj	_	U-GPE
+15	.	.	.	_	10	punct	_	O
+
+1	Liberals	liberal	NNS	pos2=NNPS	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	miss	miss	VB	_	0	root	_	O
+4	me	me	PRP	_	3	dobj	_	O
+5	with	with	IN	_	3	prep	_	O
+6	that	that	DT	_	7	det	_	O
+7	hottake	hottake	NN	pos2=XX	5	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+

@@ -1,0 +1,26 @@
+1	@JChatterleyCNBC	@jchatterleycnbc	NN	pos2=MD	6	nsubj	_	O
+2	only	only	RB	_	5	advmod	_	O
+3	Marine	marine	NNP	pos2=JJ	4	compound	_	U-ORG
+4	le	le	NN	pos2=NNP	5	compound	_	O
+5	Pen	pen	NNP	_	6	nsubj	_	O
+6	seems	seem	VBZ	_	0	root	_	O
+7	pleased	pleased	JJ	_	6	oprd	_	O
+8	!	!	.	_	6	punct	_	O
+
+1	Very	very	RB	_	2	advmod	_	O
+2	concerning	concerning	JJ	_	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Europe	europe	NNP	_	3	pobj	_	U-LOC
+5	.	.	.	_	2	punct	_	O
+
+1	Hope	hope	VBP	pos2=VB	0	root	_	O
+2	some	some	DT	_	3	det	_	O
+3	heads	head	NNS	_	4	nsubj	_	O
+4	start	start	VBP	_	1	ccomp	_	O
+5	to	to	TO	_	7	aux	_	O
+6	really	really	RB	_	7	advmod	_	O
+7	work	work	VB	_	4	xcomp	_	O
+8	in	in	IN	_	7	prep	_	O
+9	Brussels	brussels	NNP	_	8	pobj	_	U-GPE
+10	!	!	.	_	1	punct	_	O
+

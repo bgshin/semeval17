@@ -1,0 +1,21 @@
+1	#Jerusalem	#jerusalem	NN	pos2=NNS	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	60,000	0	CD	_	5	nmod	_	U-CARDINAL
+4	Zionist	zionist	JJ	pos2=NNP	5	nmod	_	U-NORP
+5	Israelis	israeli	NNPS	_	6	nsubj	_	U-NORP
+6	evacuated	evacuate	VBN	pos2=VBD	0	root	_	O
+7	from	from	IN	_	6	prep	_	O
+8	#Haifa	#haifa	NNP	pos2=NNS	7	pobj	_	U-GPE
+9	due	due	IN	_	6	prep	_	O
+10	to	to	IN	_	9	pcomp	_	O
+11	massive	massive	JJ	_	13	nmod	_	O
+12	firesDivine	firesdivine	JJ	pos2=NNP	13	nmod	_	O
+13	punishment	punishment	NN	_	9	pobj	_	O
+14	ca	can	MD	_	17	aux	_	O
+15	n't	not	RB	_	17	neg	_	O
+16	be	be	VB	_	17	auxpass	_	O
+17	ruled	rule	VBN	_	0	root	_	O
+18	out	out	RP	pos2=IN	17	prt	_	O
+19	…	…	NFP	pos2=IN	17	discourse	_	O
+20	https://t.co/feqWnjuL4b	#hlink#	ADD	pos2=NN	17	dobj	_	O
+

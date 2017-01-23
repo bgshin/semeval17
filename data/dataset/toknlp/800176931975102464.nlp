@@ -1,0 +1,21 @@
+1	new	new	JJ	_	3	nmod	_	O
+2	tech	tech	NN	_	3	compound	_	O
+3	trends	trend	NNS	_	6	dep	_	O
+4	-	-	:	pos2=,	6	punct	_	O
+5	Microsoft	microsoft	NNP	_	6	nsubj	_	U-ORG
+6	joins	join	VBZ	_	0	root	_	O
+7	the	the	DT	_	14	det	_	B-ORG
+8	Linux	linux	NNP	_	9	compound	_	I-ORG
+9	Foundation	foundation	NNP	_	20	dep	_	L-ORG
+10	-	-	HYPH	pos2=POS	6	punct	_	O
+11	latest	late	JJS	_	14	nmod	_	O
+12	cell	cell	NN	_	13	compound	_	O
+13	phone	phone	NN	_	14	compound	_	O
+14	reviews	review	NNS	pos2=NN	6	dobj	_	O
+15	,	,	,	_	20	punct	_	O
+16	latest	late	JJS	_	18	nmod	_	O
+17	tech	tech	NN	pos2=JJ	18	compound	_	O
+18	gadget	gadget	NN	_	20	dep	_	O
+19	,	,	,	_	20	punct	_	O
+20	https://t.co/tzZt7kv1UQ	#hlink#	ADD	pos2=NN	6	dep	_	U-ORG
+

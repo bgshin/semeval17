@@ -1,0 +1,32 @@
+1	@POTUS	@potus	NN	pos2=UH	2	nsubj	_	O
+2	get	get	VB	_	0	root	_	O
+3	it	it	PRP	_	2	dobj	_	O
+4	?	?	.	_	2	punct	_	O
+
+1	doubled	double	VBD	pos2=VBN	0	root	_	O
+2	down	down	RP	pos2=RB	1	prt	_	O
+3	on	on	IN	_	1	prep	_	O
+4	whorish	whorish	JJ	_	5	nmod	_	O
+5	greed	greed	NN	_	3	pobj	_	O
+6	...	..	.	_	1	punct	_	O
+
+1	if	if	IN	_	5	mark	_	O
+2	only	only	RB	_	5	advmod	_	O
+3	I	I	PRP	_	5	nsubj	_	O
+4	could	could	MD	_	5	aux	_	O
+5	do	do	VB	_	0	root	_	O
+6	that	that	DT	_	5	dobj	_	O
+7	with	with	IN	_	5	prep	_	O
+8	my	my	PRP$	_	10	poss	_	O
+9	#Obamacare	#obamacare	NNP	pos2=JJ	10	compound	_	U-ORG
+10	penalties	penalty	NNS	_	7	pobj	_	O
+11	.	.	.	_	5	punct	_	O
+
+1	Just	just	RB	_	2	advmod	_	O
+2	need	need	VB	pos2=VBP	0	root	_	O
+3	MRI	mri	NN	_	2	dobj	_	O
+4	4	0	CD	_	5	nmod	_	U-CARDINAL
+5	4fkd	0fkd	NN	pos2=CD	6	compound	_	O
+6	vertebrate	vertebrate	NN	pos2=JJ	3	npadvmod	_	O
+7	....	..	.	_	2	punct	_	O
+

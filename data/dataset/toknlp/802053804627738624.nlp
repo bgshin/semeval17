@@ -1,0 +1,19 @@
+1	Tesla	tesla	NNP	_	2	compound	_	B-ORG
+2	Model	model	NNP	pos2=NN	3	compound	_	L-ORG
+3	S	s	NN	pos2=NNP	18	dep	_	O
+4	named	name	VBN	_	3	acl	_	O
+5	'	'	``	pos2=''	8	punct	_	O
+6	Most	most	RBS	_	7	advmod	_	O
+7	important	important	JJ	_	8	nmod	_	O
+8	car	car	NN	_	4	oprd	_	O
+9	of	of	IN	_	8	prep	_	O
+10	the	the	DT	_	13	det	_	B-DATE
+11	last	last	JJ	_	13	nmod	_	I-DATE
+12	20	0	CD	_	13	nmod	_	I-DATE
+13	years	year	NNS	_	9	pobj	_	I-DATE
+14	'	'	''	pos2=VBN	8	punct	_	L-DATE
+15	by	by	IN	_	8	prep	_	O
+16	The	the	DT	pos2=NNP	17	det	_	B-ORG
+17	Telegraph	telegraph	NNP	pos2=NN	15	pobj	_	I-ORG
+18	https://t.co/RSuEIsHnL5	#hlink#	ADD	_	0	root	_	L-ORG
+

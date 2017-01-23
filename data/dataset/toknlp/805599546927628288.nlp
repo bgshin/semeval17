@@ -1,0 +1,9 @@
+1	Day	day	NN	pos2=NNP	6	npadvmod	_	B-DATE
+2	2	0	CD	_	1	nmod	_	L-DATE
+3	of	of	IN	_	1	prep	_	O
+4	vegetarianism	vegetarianism	NN	_	5	compound	_	O
+5	🍏🍐🍓🍇🍌	🍏🍐🍓🍇🍌	NN	pos2=CD	3	pobj	_	O
+6	going	go	VBG	_	0	root	_	O
+7	good	good	JJ	pos2=RB	6	acomp	_	O
+8	😊👍🏻✌🏻️	😊👍🏻✌🏻️	.	pos2=NN	1	punct	_	O
+

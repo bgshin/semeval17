@@ -1,0 +1,28 @@
+1	@CNN	@cnn	NNP	pos2=DT	3	nmod	_	U-CARDINAL
+2	Excellent	excellent	JJ	_	3	nmod	_	O
+3	idea	idea	NN	_	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+
+1	Maybe	maybe	RB	_	6	advmod	_	O
+2	the	the	DT	_	4	det	_	O
+3	electoral	electoral	JJ	_	4	nmod	_	O
+4	college	college	NN	_	6	nsubj	_	O
+5	will	will	MD	_	6	aux	_	O
+6	change	change	VB	_	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	outcome	outcome	NN	_	6	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	election	election	NN	_	9	pobj	_	O
+12	!	!	.	_	6	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	have	have	VBP	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	constitutional	constitutional	JJ	_	5	nmod	_	O
+5	right	right	NN	_	2	dobj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	do	do	VB	_	5	acl	_	O
+8	it	it	PRP	_	7	dobj	_	O
+9	!	!	.	_	2	punct	_	O
+

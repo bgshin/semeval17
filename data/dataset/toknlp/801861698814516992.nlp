@@ -1,0 +1,22 @@
+1	UNITAR	unitar	NNP	pos2=NN	3	compound	_	B-ORG
+2	#UnitedNations	#unitednations	NNP	pos2=NNPS	3	compound	_	I-ORG
+3	Institute	institute	NNP	_	10	nsubj	_	I-ORG
+4	for	for	IN	_	3	prep	_	I-ORG
+5	Training	training	NNP	pos2=NN	4	pobj	_	L-ORG
+6	and	and	CC	_	3	cc	_	O
+7	:	:	:	_	3	punct	_	O
+8	and	and	CC	_	3	cc	_	O
+9	UNDP	undp	NNP	_	3	conj	_	U-ORG
+10	Organized	organize	VBD	pos2=NNP	0	root	_	O
+11	a	a	DT	_	13	det	_	O
+12	Training	training	NNP	pos2=NN	13	compound	_	B-ORG
+13	Workshop	workshop	NNP	pos2=NN	10	dobj	_	L-ORG
+14	on	on	IN	_	10	prep	_	O
+15	Cl	cl	NNP	_	14	pobj	_	U-CARDINAL
+16	...	..	.	pos2=,	10	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	more	more	RBR	pos2=JJR	1	advmod	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/YOmcCEMwHQ	#hlink#	ADD	pos2=NN	1	dep	_	O
+

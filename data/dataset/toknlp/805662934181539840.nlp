@@ -1,0 +1,32 @@
+1	.	.	.	_	0	punct	_	O
+
+1	Jill	jill	NNP	_	2	compound	_	B-PERSON
+2	Stein	stein	NNP	_	4	poss	_	I-PERSON
+3	's	's	POS	_	2	case	_	L-PERSON
+4	praise	praise	NN	_	12	nsubj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Dictator	dictator	NNP	pos2=NN	7	compound	_	O
+7	Castro	castro	NNP	_	5	pobj	_	U-PERSON
+8	:	:	:	_	4	punct	_	O
+9	"	"	``	_	4	punct	_	O
+10	Fidel	fidel	NNP	_	11	compound	_	B-PERSON
+11	Castro	castro	NNP	_	12	nsubj	_	L-PERSON
+12	was	be	VBD	_	0	root	_	O
+13	a	a	DT	_	14	det	_	O
+14	symbol	symbol	NN	_	12	attr	_	O
+15	of	of	IN	_	14	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	struggle	struggle	NN	_	15	pobj	_	O
+18	for	for	IN	_	17	prep	_	O
+19	justice	justice	NN	_	18	pobj	_	O
+20	in	in	IN	_	17	prep	_	O
+21	the	the	DT	_	22	det	_	O
+22	shadow	shadow	NN	_	20	pobj	_	O
+23	of	of	IN	_	22	prep	_	O
+24	empire	empire	NN	_	23	pobj	_	O
+25	.	.	.	_	12	punct	_	O
+
+1	Presente	presente	FW	pos2=NNP	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+3	"	"	''	_	1	punct	_	O
+

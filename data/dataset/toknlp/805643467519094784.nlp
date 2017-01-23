@@ -1,0 +1,29 @@
+1	Even	even	RB	_	2	advmod	_	O
+2	so	so	RB	_	9	advmod	_	O
+3	,	,	,	_	9	punct	_	O
+4	the	the	DT	_	5	det	_	O
+5	pipeline	pipeline	NN	_	9	nsubjpass	_	O
+6	should	should	MD	_	9	aux	_	O
+7	n't	not	RB	_	9	neg	_	O
+8	be	be	VB	_	9	auxpass	_	O
+9	constructed	construct	VBN	_	0	root	_	O
+10	at	at	RB	pos2=IN	11	advmod	_	O
+11	all	all	RB	_	9	advmod	_	O
+12	.	.	.	_	9	punct	_	O
+
+1	We	we	PRP	_	4	nsubj	_	O
+2	should	should	MD	_	4	aux	_	O
+3	be	be	VB	_	4	aux	_	O
+4	moving	move	VBG	_	0	root	_	O
+5	away	away	RB	_	4	advmod	_	O
+6	from	from	IN	_	5	prep	_	O
+7	fossil	fossil	NN	pos2=JJ	8	compound	_	O
+8	fuels	fuel	NNS	_	6	pobj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	threats	threat	NNS	_	8	conj	_	O
+11	to	to	IN	_	10	prep	_	O
+12	our	our	PRP$	_	14	poss	_	O
+13	water	water	NN	_	14	compound	_	O
+14	supplies	supply	NNS	_	11	pobj	_	O
+15	.	.	.	_	4	punct	_	O
+

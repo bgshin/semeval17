@@ -1,0 +1,27 @@
+1	Damned	damned	NNP	pos2=VBN	2	compound	_	O
+2	Trump	trump	NNP	pos2=NN	3	compound	_	U-PERSON
+3	admin	admin	NN	_	0	root	_	O
+4	..	..	.	pos2=,	3	punct	_	O
+
+1	oh	oh	UH	_	3	discourse	_	O
+2	,	,	,	_	3	punct	_	O
+3	wait	wait	VB	pos2=VBP	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	still	still	RB	_	12	advmod	_	O
+6	Obama	obama	NNP	pos2=CD	9	dep	_	U-PERSON
+7	:	:	:	_	9	punct	_	O
+8	Army	army	NNP	_	9	compound	_	B-ORG
+9	Corps	corps	NNP	_	12	nsubj	_	I-ORG
+10	Of	of	IN	pos2=NNP	9	prep	_	I-ORG
+11	Engineers	engineer	NNPS	pos2=NNP	10	pobj	_	I-ORG
+12	Tells	tell	VBZ	pos2=NNP	3	advcl	_	I-ORG
+13	Pipeline	pipeline	NNP	pos2=NN	14	compound	_	I-ORG
+14	Protesters	protester	NNPS	pos2=NNS	12	dobj	_	L-ORG
+15	To	to	TO	pos2=IN	16	aux	_	O
+16	Leave	leave	VB	pos2=NNP	12	xcomp	_	O
+17	Camp	camp	NNP	pos2=NN	16	dobj	_	O
+18	By	by	IN	pos2=NNP	16	prep	_	O
+19	Dec.	dec.	NNP	_	18	pobj	_	O
+20	5	0	CD	_	19	nmod	_	O
+21	https://t.co/ZwCjLmDHFS	#hlink#	ADD	_	19	appos	_	O
+

@@ -1,0 +1,30 @@
+1	@sarahkendzior	@sarahkendzior	UH	pos2=XX	5	discourse	_	O
+2	@gp_wisconsin	@gp_wisconsin	NNP	pos2=POS	5	nsubj	_	O
+3	First	#ord#	RB	pos2=NNP	5	advmod	_	U-ORDINAL
+4	one	#crd#	CD	_	5	nsubj	_	O
+5	hired	hire	VBD	pos2=VBN	0	root	_	O
+6	Steve	steve	NNP	_	7	compound	_	B-PERSON
+7	Bannon	bannon	NNP	_	5	dobj	_	L-PERSON
+8	,	,	,	_	9	punct	_	O
+9	is	be	VBZ	_	0	root	_	O
+10	the	the	DT	_	12	det	_	O
+11	first	#ord#	JJ	_	12	nmod	_	U-ORDINAL
+12	domino	domino	NN	pos2=NNP	9	attr	_	O
+13	that	that	WDT	pos2=DT	20	nsubj	_	O
+14	MUST	must	MD	pos2=NNP	20	aux	_	O
+15	,	,	,	_	17	punct	_	O
+16	I	I	PRP	_	17	nsubj	_	O
+17	repeat	repeat	VBP	pos2=VB	20	parataxis	_	O
+18	,	,	,	_	17	punct	_	O
+19	MUST	must	MD	_	20	aux	_	O
+20	fall	fall	VB	_	12	relcl	_	O
+21	.	.	.	_	9	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	has	have	VBZ	_	0	root	_	O
+3	to	to	TO	pos2=IN	4	aux	_	O
+4	fuckin	fuckin	NN	pos2=VB	2	discourse	_	O
+5	'	'	''	pos2=``	2	punct	_	O
+6	go	go	VB	pos2=NN	2	xcomp	_	O
+7	.	.	.	_	2	punct	_	O
+

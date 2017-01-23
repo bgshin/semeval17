@@ -1,0 +1,17 @@
+1	Zionist	zionist	JJ	pos2=NNP	2	nmod	_	B-ORG
+2	Organization	organization	NNP	_	3	nsubj	_	L-ORG
+3	Tells	tell	VBZ	_	0	root	_	O
+4	Howard	howard	NNP	_	5	compound	_	B-PERSON
+5	Dean	dean	NNP	_	3	dobj	_	L-PERSON
+6	"	"	``	pos2=''	7	punct	_	O
+7	Apologize	apologize	VB	pos2=NNP	3	xcomp	_	O
+8	For	for	IN	pos2=NNP	7	prep	_	O
+9	Disgracefully	disgracefully	RB	pos2=NNP	10	advmod	_	O
+10	Calling	call	VBG	pos2=NNP	8	pcomp	_	O
+11	Steve	steve	NNP	_	12	compound	_	B-PERSON
+12	Bannon	bannon	NNP	_	10	dobj	_	L-PERSON
+13	a	a	DT	pos2=NNP	14	det	_	O
+14	Nazi	nazi	NNP	_	12	appos	_	U-NORP
+15	"	"	''	pos2=``	16	punct	_	O
+16	https://t.co/31yToA1Om4	#hlink#	ADD	pos2=NN	14	nmod	_	O
+

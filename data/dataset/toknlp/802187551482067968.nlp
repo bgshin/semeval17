@@ -1,0 +1,7 @@
+1	Let	let	VB	_	0	root	_	O
+2	s	s	PRP	_	3	nsubj	_	O
+3	watch	watch	VB	_	1	ccomp	_	O
+4	this	this	DT	_	3	dobj	_	O
+5	#FantasticBeasts	#fantasticbeasts	ADD	pos2=GW	6	punct	_	O
+6	https://t.co/GtW90GC940	#hlink#	ADD	pos2=NN	3	dobj	_	O
+

@@ -1,0 +1,13 @@
+1	Pence	penny	NNP	pos2=NNS	3	compound	_	O
+2	Purges	purge	NNS	pos2=NNP	3	compound	_	O
+3	Lobbyists	lobbyist	NNS	pos2=NNPS	6	pobj	_	O
+4	,	,	,	_	8	punct	_	O
+5	Insiders	insider	NNS	pos2=NNPS	0	root	_	O
+6	From	from	IN	_	5	prep	_	O
+7	#TrumpTransitionTeam	#trumptransitionteam	NNP	pos2=XX	8	compound	_	U-ORG
+8	#ChrisChristie	#chrischristie	NN	pos2=NNP	6	pobj	_	O
+9	...	..	.	pos2=,	3	punct	_	O
+
+1	https://t.co/MpAiHc0o9Y	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/WEMb1A54uj	#hlink#	ADD	_	0	root	_	U-ORG
+

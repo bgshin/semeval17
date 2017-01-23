@@ -1,0 +1,36 @@
+1	When	when	WRB	_	3	advmod	_	O
+2	Ryan	ryan	NNP	_	3	nsubj	_	U-PERSON
+3	privatizes	privatize	VBZ	_	21	advcl	_	O
+4	SS	ss	NN	pos2=NNP	3	dobj	_	U-ORG
+5	,	,	,	_	4	punct	_	O
+6	Medicare	medicare	NNP	_	4	conj	_	U-ORG
+7	,	,	,	_	6	punct	_	O
+8	Medicaid	medicaid	NNP	_	6	conj	_	U-ORG
+9	,	,	,	_	6	punct	_	O
+10	&	&	CC	_	3	cc	_	O
+11	does	do	VBZ	_	21	aux	_	O
+12	away	away	RB	_	11	advmod	_	O
+13	with	with	IN	_	11	prep	_	O
+14	ACA	aca	NNP	pos2=NN	13	pobj	_	U-ORG
+15	,	,	,	_	21	punct	_	O
+16	what	what	WP	_	21	dobj	_	O
+17	will	will	MD	_	21	aux	_	O
+18	Trump	trump	NNP	pos2=VB	20	poss	_	U-ORG
+19	's	's	POS	_	18	case	_	O
+20	base	base	NN	_	21	nsubj	_	O
+21	feel	feel	VB	pos2=VBP	0	root	_	O
+22	about	about	IN	_	21	prep	_	O
+23	"	"	``	_	22	punct	_	O
+24	change	change	NN	pos2=VB	22	pobj	_	O
+25	"	"	''	_	22	punct	_	O
+26	then	then	RB	_	21	advmod	_	O
+27	?	?	.	_	21	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	a	a	DT	_	6	det	_	O
+4	big	big	JJ	_	5	nmod	_	O
+5	one	#crd#	NN	pos2=CD	6	compound	_	O
+6	right	right	NN	pos2=RB	2	attr	_	O
+7	?!	?!	.	_	2	punct	_	O
+

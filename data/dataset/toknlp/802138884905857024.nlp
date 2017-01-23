@@ -1,0 +1,30 @@
+1	@HillaryClinton	@hillaryclinton	NNP	pos2=ADD	3	vocative	_	U-PERSON
+2	@elizabethforma	@elizabethforma	UH	pos2=XX	0	root	_	O
+3	@BernieSanders	@berniesanders	NNS	pos2=NNPS	4	compound	_	O
+4	@HumaAbedin	@humaabedin	NNP	pos2=ADD	2	vocative	_	O
+5	!	!	.	_	1	punct	_	O
+
+1	NOT	not	RB	_	3	neg	_	O
+2	JUST	just	RB	_	3	advmod	_	O
+3	WI	wi	NNP	pos2=NN	0	root	_	U-ORG
+4	,	,	,	_	3	punct	_	O
+5	PA	pa	NNP	_	3	conj	_	U-ORG
+6	,	,	,	_	5	punct	_	O
+7	&	&	CC	_	5	cc	_	O
+8	MI	mi	NN	pos2=NNP	5	conj	_	O
+9	!	!	.	_	3	punct	_	O
+
+1	#Audit	#audit	NN	pos2=NNP	2	compound	_	O
+2	#Recount	#recount	NN	pos2=NNP	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	NC	nc	NN	pos2=NNP	13	nmod	_	U-GPE
+5	/	/	SYM	pos2=,	13	punct	_	O
+6	NH	nh	NN	pos2=NNP	13	dep	_	U-GPE
+7	/	/	SYM	pos2=,	2	punct	_	O
+8	IA	ia	NN	pos2=NNP	13	dep	_	B-ORG
+9	/	/	SYM	pos2=,	13	punct	_	I-ORG
+10	AZ	az	NN	pos2=NNP	13	dep	_	I-ORG
+11	/	/	SYM	pos2=,	13	punct	_	I-ORG
+12	…	…	NFP	pos2=-LRB-	13	punct	_	L-ORG
+13	https://t.co/JAzoWY15KE	#hlink#	ADD	pos2=NN	3	pobj	_	O
+

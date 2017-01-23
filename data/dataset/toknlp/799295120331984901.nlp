@@ -1,0 +1,7 @@
+1	Me	me	PRP	_	0	root	_	O
+2	everyday	everyday	RB	pos2=JJ	1	advmod	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	#NationalFastFoodDay	#nationalfastfoodday	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/iNTFAjhOKx	#hlink#	ADD	_	0	root	_	O
+

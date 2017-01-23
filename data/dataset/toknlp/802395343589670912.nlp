@@ -1,0 +1,26 @@
+1	Awesome	awesome	JJ	_	2	nmod	_	O
+2	@seanhannity	@seanhannity	NN	pos2=UH	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	media	medium	NNS	pos2=NN	3	nsubj	_	O
+3	blasted	blast	VBD	_	0	root	_	O
+4	Melania	melania	NNP	_	3	dobj	_	U-PERSON
+5	&	&	CC	_	4	cc	_	O
+6	the	the	DT	_	7	det	_	O
+7	Obama	obama	NNP	_	4	conj	_	U-PERSON
+8	's	's	VBZ	pos2=POS	9	auxpass	_	O
+9	done	do	VBN	_	3	conj	_	O
+10	the	the	DT	_	14	det	_	O
+11	same	same	JJ	_	14	nmod	_	O
+12	"	"	``	_	14	punct	_	O
+13	just	just	RB	pos2=JJ	14	advmod	_	O
+14	words	word	NNS	_	9	dobj	_	O
+15	"	"	''	_	14	punct	_	O
+16	@WendyWilliams	@wendywilliams	NNS	pos2=VBP	14	appos	_	O
+17	U	u	PRP	pos2=NNP	18	nsubj	_	O
+18	put	put	VBD	pos2=VBP	14	relcl	_	O
+19	Melani	melani	NNP	_	18	dobj	_	B-PERSON
+20	…	…	NFP	pos2=NNP	21	punct	_	L-PERSON
+21	https://t.co/9gF2WTrjbj	#hlink#	ADD	_	3	dep	_	O
+

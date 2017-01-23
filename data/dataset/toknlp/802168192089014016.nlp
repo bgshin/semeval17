@@ -1,0 +1,9 @@
+1	Omgoodness	omgoodness	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Kevin	kevin	NNP	_	0	root	_	L-PERSON
+3	that	that	WDT	pos2=DT	4	nsubj	_	O
+4	was	be	VBD	_	2	relcl	_	O
+5	horrible	horrible	JJ	_	4	acomp	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	#ThisIsUs	#thisisus	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,20 @@
+1	@OWawr	@owawr	ADD	pos2=UH	5	punct	_	O
+2	@KremlinTrolls	@kremlintrolls	NNS	pos2=UH	5	vocative	_	O
+3	@YahooNews	@yahoonews	ADD	pos2=NNS	5	punct	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	agree	agree	VBP	_	0	root	_	O
+6	here	here	RB	_	5	advmod	_	O
+7	,	,	,	_	5	punct	_	O
+8	knowing	know	VBG	_	5	advcl	_	O
+9	TO	to	IN	_	8	prep	_	O
+10	she	she	PRP	_	9	pobj	_	O
+11	not	not	RB	_	13	neg	_	O
+12	a	a	DT	pos2=XX	13	det	_	O
+13	Putinista	putinista	NNP	_	18	nsubjpass	_	U-ORG
+14	and	and	CC	_	8	cc	_	O
+15	may	may	MD	_	18	aux	_	O
+16	be	be	VB	_	18	aux	_	O
+17	getting	get	VBG	_	18	auxpass	_	O
+18	set	set	VBN	pos2=NN	8	conj	_	O
+19	up	up	RP	_	18	prt	_	O
+

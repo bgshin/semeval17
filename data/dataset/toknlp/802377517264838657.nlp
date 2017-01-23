@@ -1,0 +1,15 @@
+1	Really	really	RB	_	3	advmod	_	O
+2	would	would	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	satisfied	satisfied	JJ	pos2=VBN	3	acomp	_	O
+5	w	w	IN	pos2=RB	4	prep	_	O
+6	/	/	HYPH	_	5	punct	_	O
+7	a	a	DT	pos2=JJ	8	det	_	O
+8	model	model	NN	_	5	pobj	_	O
+9	S	s	NNP	pos2=NN	10	compound	_	O
+10	Tesla	tesla	NNP	_	8	appos	_	O
+11	(	(	-LRB-	_	10	punct	_	O
+12	black	black	JJ	pos2=NN	8	nmod	_	O
+13	specifically	specifically	RB	_	12	advmod	_	O
+14	)	)	-RRB-	_	10	punct	_	O
+

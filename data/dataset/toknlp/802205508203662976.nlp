@@ -1,0 +1,16 @@
+1	@Mysonne	@mysonne	NNP	pos2=VB	2	compound	_	B-ORG
+2	@NYjusticeleague	@nyjusticeleague	NNP	pos2=NN	15	dep	_	I-ORG
+3	&	&	CC	_	2	cc	_	I-ORG
+4	Faith	faith	NNP	pos2=NN	5	compound	_	I-ORG
+5	Leaders	leader	NNPS	pos2=NNS	7	compound	_	I-ORG
+6	#ShutDown	#shutdown	NNP	pos2=VBP	7	compound	_	I-ORG
+7	Lord	lord	NNP	_	2	conj	_	I-ORG
+8	&	&	CC	_	7	cc	_	I-ORG
+9	Taylor	taylor	NNP	_	7	conj	_	I-ORG
+10	for	for	IN	_	2	prep	_	I-ORG
+11	#EricGarner	#ericgarner	NNP	pos2=ADD	12	compound	_	I-ORG
+12	#DeborahDanner	#deborahdanner	NNP	pos2=ADD	10	pobj	_	L-ORG
+13	and	and	CC	_	2	cc	_	O
+14	…	…	NFP	pos2=-LRB-	2	conj	_	O
+15	https://t.co/02VaghP1xR	#hlink#	ADD	_	0	root	_	O
+

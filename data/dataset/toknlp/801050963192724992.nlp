@@ -1,0 +1,16 @@
+1	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=XX	2	dep	_	O
+2	4.	0.	LS	_	6	meta	_	U-CARDINAL
+3	Mrs.	mrs.	NNP	_	10	compound	_	O
+4	Kim	kim	NNP	_	10	compound	_	O
+5	3.	0.	NNP	pos2=POS	10	compound	_	O
+6	Emily	emily	NNP	_	10	compound	_	B-PERSON
+7	2.	0.	NNP	pos2=CD	10	compound	_	I-PERSON
+8	Luke	luke	NNP	_	10	compound	_	I-PERSON
+9	1.	0.	NNP	pos2=CD	10	compound	_	I-PERSON
+10	Paris	paris	NNP	_	0	root	_	L-PERSON
+11	,	,	,	_	10	punct	_	O
+12	without	without	IN	_	10	prep	_	O
+13	a	a	DT	_	14	det	_	O
+14	doubt	doubt	NN	_	12	pobj	_	O
+15	!	!	.	_	10	punct	_	O
+

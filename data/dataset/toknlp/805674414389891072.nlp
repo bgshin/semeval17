@@ -1,0 +1,25 @@
+1	@SpeakerRyan	@speakerryan	ADD	pos2=JJ	9	nsubj	_	O
+2	@andieiamwhoiam	@andieiamwhoiam	UH	pos2=XX	4	discourse	_	O
+3	Bit	bit	NN	pos2=UH	4	npadvmod	_	O
+4	disingenuous	disingenuous	JJ	pos2=RB	1	acomp	_	O
+5	all	all	RB	pos2=NN	6	advmod	_	O
+6	around	around	IN	pos2=RB	1	prep	_	O
+7	considering	consider	VBG	_	6	pcomp	_	O
+8	O	o	NNP	pos2=NN	9	nsubj	_	O
+9	endorsed	endorse	VBD	pos2=VBN	0	root	_	O
+10	fracking	fracking	NN	pos2=VBG	9	dobj	_	O
+11	for	for	IN	_	10	prep	_	O
+12	his	his	PRP$	_	15	poss	_	O
+13	Wall	wall	NNP	_	14	compound	_	O
+14	St	st	NNP	pos2=NN	15	compound	_	O
+15	buddies	buddy	NNS	_	11	pobj	_	O
+16	.	.	.	_	9	punct	_	O
+
+1	But	but	CC	_	4	cc	_	O
+2	then	then	RB	_	4	advmod	_	O
+3	Ryan	ryan	NNP	_	4	nsubj	_	U-PERSON
+4	is	be	VBZ	_	0	root	_	O
+5	2	0	CD	_	4	attr	_	U-DATE
+6	faced	face	VBN	pos2=NNS	5	acl	_	O
+7	.	.	.	_	4	punct	_	O
+

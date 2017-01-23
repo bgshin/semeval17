@@ -1,0 +1,20 @@
+1	@JunckerEU	@junckereu	XX	pos2=NN	6	dep	_	O
+2	@poroshenko	@poroshenko	UH	pos2=XX	6	discourse	_	O
+3	@EPP	@epp	XX	pos2=UH	6	dep	_	O
+4	@EU_Commission	@eu_commission	XX	pos2=NN	6	dep	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	ignored	ignore	VBD	_	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	dutch	dutch	NN	pos2=JJ	6	dobj	_	O
+9	in	in	IN	_	6	prep	_	O
+10	2005	0	CD	_	9	pobj	_	U-DATE
+11	with	with	IN	_	6	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	Constitution	constitution	NNP	pos2=NN	14	compound	_	U-LAW
+14	referendum	referendum	NN	_	11	pobj	_	O
+15	and	and	CC	_	6	cc	_	O
+16	now	now	RB	_	17	advmod	_	O
+17	again	again	RB	_	18	advmod	_	O
+18	with	with	IN	_	14	prep	_	O
+19	ukraine	ukraine	NN	pos2=NNP	18	pobj	_	O
+

@@ -1,0 +1,20 @@
+1	Absolutely	absolutely	RB	_	2	advmod	_	O
+2	crazy	crazy	JJ	_	3	nmod	_	O
+3	posters	poster	NNS	_	9	nsubj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	Mikheil	mikheil	NNP	_	6	compound	_	B-PERSON
+6	Saakashvili	saakashvili	NNP	_	4	pobj	_	L-PERSON
+7	,	,	,	_	9	punct	_	O
+8	recently	recently	RB	_	9	advmod	_	O
+9	resigned	resign	VBD	pos2=JJ	0	root	_	O
+10	governor	governor	NN	_	9	dobj	_	O
+11	in	in	IN	_	9	prep	_	O
+12	#Odessa	#odessa	NNP	pos2=NN	11	pobj	_	U-GPE
+13	.	.	.	_	9	punct	_	O
+
+1	Inspiration	inspiration	NN	_	0	root	_	O
+2	from	from	IN	_	1	prep	_	O
+3	deplorable	deplorable	JJ	_	2	pobj	_	O
+4	…	…	NFP	pos2=-LRB-	1	discourse	_	O
+5	https://t.co/KHh6XQWf29	#hlink#	ADD	_	1	appos	_	O
+

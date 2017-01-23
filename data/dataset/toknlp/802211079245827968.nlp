@@ -1,0 +1,11 @@
+1	yikessteven	yikessteven	VB	pos2=JJ	0	root	_	O
+2	seagal	seagal	NN	pos2=PRP	3	nsubj	_	O
+3	meets	meet	VBZ	_	1	ccomp	_	O
+4	with	with	IN	_	3	prep	_	O
+5	putin	putin	NNP	pos2=NN	4	pobj	_	U-PERSON
+6	,	,	,	_	7	punct	_	O
+7	gets	get	VBZ	_	1	dep	_	O
+8	russian	russian	JJ	_	9	nmod	_	U-NORP
+9	passport	passport	NN	_	7	dobj	_	O
+10	https://t.co/jOZGThaKKs	#hlink#	ADD	_	1	dep	_	U-ORG
+

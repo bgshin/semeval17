@@ -1,0 +1,19 @@
+1	Tim	tim	NNP	_	2	compound	_	B-PERSON
+2	Duncan	duncan	NNP	_	3	nsubj	_	L-PERSON
+3	Is	be	VBZ	_	0	root	_	O
+4	Back	back	RB	_	3	advmod	_	O
+5	At	at	IN	_	4	prep	_	O
+6	It	it	PRP	_	5	pobj	_	O
+7	,	,	,	_	3	punct	_	O
+8	Once	once	IN	pos2=RB	10	mark	_	O
+9	Absolutely	absolutely	RB	pos2=NNP	10	advmod	_	O
+10	Roasting	roast	VBG	pos2=GW	3	advcl	_	O
+11	A	a	DT	_	13	det	_	O
+12	Former	former	JJ	pos2=NNP	13	nmod	_	O
+13	Teammate	teammate	NNP	pos2=NN	10	dobj	_	O
+14	With	with	IN	_	10	prep	_	O
+15	A	a	DT	pos2=GW	16	det	_	O
+16	Simple	simple	JJ	_	17	nmod	_	O
+17	Texthttps://t.co/et1cAXvTTK	#hlink#	ADD	pos2=NN	18	nmod	_	O
+18	https://t.co/fN7weKTtkO	#hlink#	ADD	_	14	pobj	_	U-ORG
+

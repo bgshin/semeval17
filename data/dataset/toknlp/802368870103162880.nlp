@@ -1,0 +1,11 @@
+1	Donald	donald	NNP	_	2	compound	_	B-PERSON
+2	Trump	trump	NNP	_	4	poss	_	I-PERSON
+3	's	's	POS	_	2	case	_	L-PERSON
+4	Cabinet	cabinet	NNP	pos2=NN	10	dep	_	U-ORG
+5	:	:	:	_	10	punct	_	O
+6	A	a	DT	_	7	det	_	O
+7	guide	guide	NN	pos2=VB	10	dep	_	O
+8	|	|	,	pos2=GW	10	punct	_	O
+9	#Politics	#politics	NNS	pos2=NFP	10	dep	_	U-MONEY
+10	https://t.co/LhqPEfcekM	#hlink#	ADD	_	0	root	_	O
+

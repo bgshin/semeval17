@@ -1,0 +1,12 @@
+1	Introduction	introduction	NN	_	0	root	_	O
+2	to	to	IN	pos2=TO	1	prep	_	O
+3	3	0	CD	_	11	dep	_	U-CARDINAL
+4	D	d	NNP	pos2=NN	11	dep	_	O
+5	Printing	print	VBG	pos2=NN	11	dep	_	O
+6	https://t.co/47zcezZSV2	#hlink#	ADD	pos2=NN	11	nmod	_	O
+7	#	#	NN	pos2=-RRB-	11	dep	_	O
+8	3	0	LS	pos2=CD	11	dep	_	U-MONEY
+9	D	d	NN	pos2=NNS	11	dep	_	O
+10	#Printing	#printing	VBG	pos2=ADD	11	dep	_	O
+11	https://t.co/xbqrmj483b	#hlink#	ADD	pos2=NN	2	pobj	_	O
+

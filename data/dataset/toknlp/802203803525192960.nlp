@@ -1,0 +1,25 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	have	have	VBP	_	3	aux	_	O
+3	encountered	encounter	VBN	_	0	root	_	O
+4	very	very	RB	_	5	advmod	_	O
+5	few	few	JJ	_	6	nmod	_	O
+6	people	people	NNS	_	3	dobj	_	O
+7	in	in	IN	_	3	prep	_	O
+8	the	the	DT	_	11	det	_	O
+9	alt	alt	NN	pos2=JJ	11	compound	_	O
+10	-	-	HYPH	_	11	punct	_	O
+11	right	right	JJ	pos2=NN	7	pobj	_	O
+12	,	,	,	_	3	punct	_	O
+13	including	include	VBG	_	3	prep	_	O
+14	those	those	DT	_	13	pobj	_	O
+15	that	that	WDT	_	18	nsubjpass	_	O
+16	could	could	MD	_	18	aux	_	O
+17	be	be	VB	_	18	auxpass	_	O
+18	classified	classify	VBN	_	14	relcl	_	O
+19	as	as	IN	_	18	prep	_	O
+20	neo-Nazis	neo-nazi	NNS	pos2=NNPS	19	pobj	_	U-NORP
+21	that	that	WDT	_	22	nsubj	_	O
+22	are	be	VBP	_	20	relcl	_	O
+23	white	white	JJ	_	24	nmod	_	O
+24	supremacists	supremacist	NNS	_	22	attr	_	O
+

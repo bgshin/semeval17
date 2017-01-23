@@ -1,0 +1,8 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	FORGOT	forget	VBD	_	0	root	_	O
+3	HIS	his	PRP$	_	4	poss	_	O
+4	TAIL	tail	NN	_	2	dobj	_	O
+5	😂	😂	:	pos2=IN	2	punct	_	B-PERSON
+6	#BeautyAndTheBeast	#beautyandthebeast	ADD	pos2=GW	7	nmod	_	L-PERSON
+7	https://t.co/Va2rBqZX7E	#hlink#	ADD	_	2	dep	_	O
+

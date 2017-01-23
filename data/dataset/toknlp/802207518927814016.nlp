@@ -1,0 +1,14 @@
+1	FAM	fam	NNP	pos2=NN	13	dep	_	U-ORG
+2	MY	my	PRP$	pos2=NNP	3	poss	_	O
+3	NIGGA	nigga	NN	_	5	nsubjpass	_	O
+4	WAS	be	VBD	_	5	auxpass	_	O
+5	BURNT	burn	VBN	_	13	nmod	_	O
+6	@BokiiitaDolla	@bokiiitadolla	NNS	pos2=NN	5	agent	_	O
+7	@chefboyjav	@chefboyjav	UH	pos2=FW	5	discourse	_	O
+8	@shortttstackk	@shortttstackk	UH	pos2=FW	5	discourse	_	O
+9	@whoissancocho	@whoissancocho	UH	pos2=NN	5	punct	_	O
+10	@	@	SYM	pos2=NFP	13	punct	_	O
+11	52_legna	0_legna	GW	pos2=CD	13	nmod	_	U-MONEY
+12	#MannequinChallenge	#mannequinchallenge	GW	pos2=ADD	13	nmod	_	O
+13	https://t.co/US8pNNYBWV	#hlink#	ADD	pos2=NN	0	root	_	O
+

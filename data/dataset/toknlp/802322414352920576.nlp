@@ -1,0 +1,21 @@
+1	@The_OV6	@the_ov0	NN	pos2=NNS	11	nsubj	_	O
+2	but	but	CC	_	1	cc	_	O
+3	look	look	VB	pos2=NN	1	conj	_	O
+4	at	at	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	record	record	NN	pos2=JJ	4	pobj	_	O
+7	lol	lol	UH	pos2=NN	11	discourse	_	O
+8	spurs	spur	NNS	_	11	nsubj	_	O
+9	have	have	VBP	_	11	aux	_	O
+10	n't	not	RB	_	11	neg	_	O
+11	had	have	VBN	_	0	root	_	O
+12	a	a	DT	_	13	det	_	O
+13	season	season	NN	_	11	dobj	_	O
+14	under	under	IN	_	11	prep	_	O
+15	50	0	CD	_	16	nmod	_	U-DATE
+16	wins	win	NNS	pos2=VBZ	14	pobj	_	O
+17	since	since	IN	_	11	prep	_	O
+18	drafting	draft	VBG	pos2=NN	17	pcomp	_	O
+19	tim	tim	NN	pos2=FW	20	compound	_	O
+20	duncan	duncan	NNP	pos2=FW	18	dobj	_	O
+

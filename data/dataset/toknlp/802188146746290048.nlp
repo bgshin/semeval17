@@ -1,0 +1,23 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	think	think	VB	_	0	root	_	O
+5	there	there	EX	pos2=RB	8	expl	_	O
+6	has	have	VBZ	_	8	aux	_	O
+7	ever	ever	RB	_	8	advmod	_	O
+8	been	be	VBN	_	4	ccomp	_	O
+9	a	a	DT	_	10	det	_	O
+10	show	show	NN	_	8	attr	_	O
+11	that	that	WDT	_	12	nsubj	_	O
+12	makes	make	VBZ	_	10	relcl	_	O
+13	me	me	PRP	_	14	nsubj	_	O
+14	cry	cry	VB	_	12	ccomp	_	O
+15	almost	almost	RB	_	17	advmod	_	O
+16	every	every	DT	_	17	det	_	O
+17	minute	minute	NN	_	14	npadvmod	_	O
+18	of	of	IN	_	17	prep	_	O
+19	every	every	DT	_	20	det	_	O
+20	episode	episode	NN	_	18	pobj	_	O
+21	😢❤	😢❤	NFP	pos2=WDT	22	punct	_	O
+22	#ThisIsUs	#thisisus	NN	pos2=ADD	10	appos	_	O
+

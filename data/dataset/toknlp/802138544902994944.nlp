@@ -1,0 +1,27 @@
+1	@justinverlander	@justinverlander	IN	pos2=UH	6	prep	_	O
+2	everyone	everyone	NN	_	1	pobj	_	O
+3	in	in	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	country	country	NN	_	3	pobj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	worried	worried	JJ	pos2=VBN	6	acomp	_	O
+8	about	about	IN	_	7	prep	_	O
+9	our	our	PRP$	_	10	poss	_	O
+10	presidency	presidency	NN	_	8	pobj	_	O
+11	and	and	CC	_	6	cc	_	O
+12	you	you	PRP	_	17	nsubj	_	O
+13	and	and	CC	_	12	cc	_	O
+14	your	your	PRP$	_	15	poss	_	O
+15	girl	girl	NN	_	12	conj	_	O
+16	still	still	RB	_	17	advmod	_	O
+17	whining	whine	VBG	_	6	conj	_	O
+18	about	about	IN	pos2=RB	17	prep	_	O
+19	the	the	DT	_	20	det	_	O
+20	cy	cy	NN	pos2=JJ	18	pobj	_	O
+21	young	young	JJ	pos2=NN	20	nmod	_	O
+22	.	.	.	_	17	punct	_	O
+
+1	shut	shut	VB	pos2=VBD	0	root	_	O
+2	up	up	RP	_	1	prt	_	O
+3	dude	dude	NN	_	1	dobj	_	O
+

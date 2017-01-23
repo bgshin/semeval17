@@ -1,0 +1,20 @@
+1	Finally	finally	RB	_	4	advmod	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	'm	be	VBP	_	4	aux	_	O
+4	gon	gon	VBG	_	0	root	_	O
+5	na	to	TO	_	6	aux	_	O
+6	watch	watch	VB	_	4	xcomp	_	O
+7	all	all	DT	_	8	det	_	O
+8	eps	eps	NNS	_	6	dobj	_	O
+9	that	that	WDT	_	11	dobj	_	O
+10	I	I	PRP	_	11	nsubj	_	O
+11	missed	miss	VBD	_	8	relcl	_	O
+12	#Lucifer	#lucifer	NNP	pos2=$	16	compound	_	B-ORG
+13	#Supernatural	#supernatural	NNP	pos2=JJ	16	compound	_	I-ORG
+14	#Arrow	#arrow	NNP	pos2=POS	16	compound	_	I-ORG
+15	#Flash	#flash	NNP	pos2=POS	16	compound	_	I-ORG
+16	#Class	#class	NNP	pos2=POS	11	dobj	_	L-ORG
+17	#TheWalkingDead	#thewalkingdead	VBD	pos2=ADD	16	det	_	O
+18	#TheBigBangTheory	#thebigbangtheory	ADD	pos2=NNP	19	compound	_	O
+19	😂💝	😂💝	NNP	pos2=NN	17	dobj	_	U-ORG
+

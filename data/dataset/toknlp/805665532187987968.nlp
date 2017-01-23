@@ -1,0 +1,23 @@
+1	Check	check	VB	_	11	advcl	_	O
+2	this	this	DT	_	1	dobj	_	O
+3	-	-	:	pos2=,	2	punct	_	O
+4	With	with	IN	pos2=NNP	1	prep	_	O
+5	One	#crd#	CD	pos2=NNP	6	nmod	_	U-CARDINAL
+6	Episode	episode	NN	_	4	pobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	Go	go	VB	_	1	advcl	_	O
+9	,	,	,	_	11	punct	_	O
+10	Here	here	RB	pos2=NNP	11	advmod	_	O
+11	’s	's	VBZ	_	0	root	_	O
+12	Everything	everything	NN	pos2=NNP	11	nsubj	_	O
+13	We	we	PRP	pos2=NNP	14	nsubj	_	O
+14	Know	know	VBP	_	12	relcl	_	O
+15	about	about	IN	_	14	prep	_	O
+16	‘	'	``	pos2=''	15	punct	_	O
+17	Westworld	westworld	NNP	_	20	poss	_	U-ORG
+18	’s	's	POS	_	17	case	_	O
+19	Biggest	big	JJS	pos2=NNP	20	nmod	_	O
+20	Mysteries	mystery	NNS	pos2=NNPS	15	pobj	_	O
+21	-	-	:	pos2=NFP	22	punct	_	O
+22	https://t.co/J1pTFuoYHr	#hlink#	ADD	pos2=NN	12	appos	_	O
+

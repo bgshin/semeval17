@@ -1,0 +1,31 @@
+1	George	george	NNP	_	2	compound	_	B-PERSON
+2	soros	soros	NNP	pos2=RB	0	root	_	L-PERSON
+3	...	..	.	pos2=,	2	punct	_	O
+
+1	a	a	DT	_	2	det	_	O
+2	member	member	NN	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	the	the	DT	_	9	det	_	O
+5	National	national	NNP	pos2=JJ	9	nmod	_	O
+6	socialist	socialist	JJ	_	9	nmod	_	O
+7	German	german	JJ	pos2=NNP	9	nmod	_	U-NORP
+8	worker	worker	NN	_	9	compound	_	O
+9	party	party	NN	_	3	pobj	_	O
+10	(	(	-LRB-	_	9	punct	_	O
+11	nazi	nazi	JJ	pos2=VBG	12	nmod	_	O
+12	party	party	NN	_	9	appos	_	O
+13	)	)	-RRB-	_	9	punct	_	O
+14	.	.	.	_	2	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	served	serve	VBD	_	10	ccomp	_	O
+3	under	under	IN	_	2	prep	_	O
+4	Hitler	hitler	NNP	_	3	pobj	_	U-PERSON
+5	,	,	,	_	4	punct	_	O
+6	Himmler	himmler	NNP	_	4	conj	_	U-PERSON
+7	,	,	,	_	10	punct	_	O
+8	this	this	DT	_	9	det	_	O
+9	man	man	NN	_	10	nsubj	_	O
+10	said	say	VBD	_	0	root	_	O
+11	...	..	.	pos2=,	10	punct	_	O
+

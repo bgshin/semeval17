@@ -1,0 +1,22 @@
+1	Wow	wow	UH	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	This	this	DT	_	2	det	_	O
+2	one	#crd#	NN	pos2=CD	0	root	_	O
+3	's	's	POS	pos2=VBZ	2	case	_	O
+4	for	for	IN	_	2	prep	_	O
+5	#GinaMiller	#ginamiller	NNP	pos2=NN	4	pobj	_	O
+6	-	-	,	pos2=:	2	punct	_	O
+7	but	but	CC	_	2	cc	_	O
+8	where	where	WRB	_	9	advmod	_	O
+9	are	be	VBP	_	5	relcl	_	O
+10	#Farage	#farage	NNP	pos2=EX	13	poss	_	U-GPE
+11	's	's	POS	_	10	case	_	O
+12	100,000	0	CD	_	13	nmod	_	U-CARDINAL
+13	marchers	marcher	NNS	_	9	nsubj	_	O
+14	?	?	.	_	9	punct	_	O
+
+1	#Brexit	#brexit	GW	pos2=NNP	3	nmod	_	O
+2	#SupremeCourt	#supremecourt	GW	pos2=ADD	3	nmod	_	O
+3	https://t.co/DVMK9UdD3u	#hlink#	ADD	pos2=NN	0	root	_	O
+

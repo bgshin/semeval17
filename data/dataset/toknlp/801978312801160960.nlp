@@ -1,0 +1,22 @@
+1	see	see	VB	pos2=UH	0	root	_	O
+2	if	if	IN	_	5	mark	_	O
+3	you	you	PRP	_	5	nsubj	_	O
+4	can	can	MD	_	5	aux	_	O
+5	kick	kick	VB	_	1	ccomp	_	O
+6	over	over	IN	pos2=RP	5	prep	_	O
+7	trump	trump	NN	pos2=JJ	8	compound	_	O
+8	tower	tower	NN	pos2=NNP	10	compound	_	O
+9	-	-	HYPH	pos2=:	10	punct	_	O
+10	greg	greg	JJ	pos2=NN	6	pobj	_	O
+11	to	to	IN	pos2=TO	5	prep	_	O
+12	brian	brian	NNP	pos2=NN	11	pobj	_	O
+13	,	,	,	_	12	punct	_	O
+14	who	who	WP	_	16	nsubj	_	O
+15	is	be	VBZ	_	16	aux	_	O
+16	using	use	VBG	_	12	relcl	_	O
+17	VR	vr	NN	pos2=NNP	16	dobj	_	U-ORG
+18	to	to	TO	_	19	aux	_	O
+19	explore	explore	VB	_	16	xcomp	_	O
+20	Google	google	NNP	_	21	compound	_	U-ORG
+21	earth	earth	NN	_	19	dobj	_	O
+

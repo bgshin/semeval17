@@ -1,0 +1,9 @@
+1	Belgium	belgium	NNP	pos2=JJ	8	nmod	_	U-GPE
+2	minor	minor	JJ	pos2=NN	7	nmod	_	O
+3	first	#ord#	RB	pos2=JJ	6	advmod	_	U-ORDINAL
+4	to	to	TO	_	6	aux	_	O
+5	be	be	VB	_	6	auxpass	_	O
+6	granted	grant	VBN	_	7	nmod	_	O
+7	euthanasia	euthanasia	NN	_	8	dep	_	O
+8	https://t.co/n31wzFMfe0	#hlink#	ADD	pos2=NN	0	root	_	O
+

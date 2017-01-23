@@ -1,0 +1,21 @@
+1	What	what	WDT	pos2=WP	2	det	_	O
+2	pranks	prank	NNS	pos2=NN	5	nsubjpass	_	O
+3	will	will	MD	_	5	aux	_	O
+4	be	be	VB	_	5	auxpass	_	O
+5	left	leave	VBN	_	0	root	_	O
+6	for	for	IN	_	5	prep	_	O
+7	Trump	trump	NNP	pos2=NN	9	poss	_	U-ORG
+8	's	's	POS	_	7	case	_	O
+9	team	team	NN	_	6	pobj	_	O
+10	?	?	.	pos2=,	5	punct	_	O
+
+1	White	white	NNP	pos2=JJ	2	compound	_	B-ORG
+2	House	house	NNP	_	3	nsubj	_	L-ORG
+3	Vandalized	vandalize	VBD	pos2=VBN	8	advcl	_	O
+4	In	in	IN	pos2=NNP	3	prep	_	O
+5	Transition	transition	NNP	pos2=NN	4	pobj	_	O
+6	,	,	,	_	8	punct	_	O
+7	G.A.O.	g.a.o.	NNP	_	8	nsubj	_	U-ORG
+8	Finds	find	VBZ	pos2=NNPS	0	root	_	O
+9	https://t.co/SPu1pEM4yw	#hlink#	ADD	pos2=NN	8	dobj	_	U-ORG
+

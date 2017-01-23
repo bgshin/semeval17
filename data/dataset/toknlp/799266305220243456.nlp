@@ -1,0 +1,21 @@
+1	Kim	kim	NNP	_	10	nsubj	_	O
+2	“	"	``	pos2=''	10	punct	_	O
+3	Fatty	fatty	NNP	pos2=JJ	4	compound	_	O
+4	Kim	kim	NNP	_	10	nsubj	_	O
+5	the	the	DT	_	9	det	_	O
+6	Third	#ord#	NNP	pos2=JJ	4	appos	_	U-ORDINAL
+7	”	"	``	pos2=''	10	punct	_	O
+8	Jong	jong	NNP	_	9	compound	_	B-PERSON
+9	Un	un	NNP	_	10	nsubj	_	L-PERSON
+10	Gets	get	VBZ	_	0	root	_	O
+11	New	new	NNP	pos2=NNPS	13	compound	_	O
+12	Mean	mean	NNP	pos2=GW	13	compound	_	O
+13	Nickname	nickname	NNP	pos2=NN	20	dep	_	O
+14	After	after	IN	_	20	mark	_	O
+15	Chinese	chinese	NNP	pos2=JJ	18	compound	_	O
+16	Censors	censor	NNPS	pos2=NNP	18	compound	_	O
+17	Block	block	NNP	pos2=VBP	18	compound	_	O
+18	Fat	fat	NNP	pos2=NN	19	compound	_	O
+19	Jokes	joke	NNS	pos2=NNPS	20	dep	_	O
+20	https://t.co/S5Xqn5G4Em	#hlink#	ADD	_	10	dobj	_	O
+

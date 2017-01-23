@@ -1,0 +1,27 @@
+1	@ezlusztig	@ezlusztig	UH	pos2=IN	15	discourse	_	O
+2	The	the	DT	_	3	det	_	O
+3	GRIT	grit	NN	pos2=NNP	15	nsubj	_	O
+4	that	that	WDT	_	5	nsubj	_	O
+5	defeated	defeat	VBD	_	3	relcl	_	O
+6	Nazi	nazi	NNP	_	8	compound	_	U-NORP
+7	war	war	NN	_	8	compound	_	O
+8	machine	machine	NN	_	5	dobj	_	O
+9	in	in	IN	_	5	prep	_	O
+10	Russia	russia	NNP	_	9	pobj	_	U-GPE
+11	,	,	,	_	15	punct	_	O
+12	in	in	IN	_	15	prep	_	O
+13	winter	winter	NN	_	12	pobj	_	U-DATE
+14	,	,	,	_	15	punct	_	O
+15	is	be	VBZ	_	0	root	_	O
+16	something	something	NN	_	15	attr	_	O
+17	to	to	TO	_	19	aux	_	O
+18	be	be	VB	_	19	auxpass	_	O
+19	feared	fear	VBN	_	16	relcl	_	O
+20	,	,	,	_	15	punct	_	O
+21	BUT	but	CC	pos2=DT	15	cc	_	O
+22	same	same	JJ	_	23	nmod	_	O
+23	humans	human	NNS	_	24	nsubj	_	O
+24	throw	throw	VBP	pos2=VB	15	conj	_	O
+25	away	away	RB	pos2=RP	24	advmod	_	O
+26	women&orphans	women&orphans	NNS	pos2=.	24	dobj	_	O
+

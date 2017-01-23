@@ -1,0 +1,12 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	picked	pick	VBD	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	winner	winner	NN	_	2	dobj	_	O
+5	from	from	IN	_	4	prep	_	O
+6	our	our	PRP$	_	8	poss	_	O
+7	#nationalfastfoodday	#nationalfastfoodday	NN	pos2=JJ	8	compound	_	O
+8	contest	contest	NN	pos2=VB	5	pobj	_	O
+9	!	!	.	_	2	punct	_	O
+
+1	https://t.co/vXUhsZeG9s	#hlink#	ADD	_	0	root	_	U-ORG
+

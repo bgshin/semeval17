@@ -1,0 +1,10 @@
+1	wanting	want	VBG	_	0	root	_	O
+2	to	to	TO	_	4	aux	_	O
+3	vicariously	vicariously	RB	_	4	advmod	_	O
+4	live	live	VB	_	1	xcomp	_	O
+5	through	through	IN	_	4	prep	_	O
+6	someone	someone	NN	_	9	poss	_	O
+7	else	else	RB	pos2=NN	6	advmod	_	O
+8	's	's	POS	_	6	case	_	O
+9	abortion	abortion	NN	_	5	pobj	_	O
+

@@ -1,0 +1,29 @@
+1	Mexico	mexico	NNP	_	0	root	_	U-GPE
+2	on	on	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	left	left	NN	pos2=JJ	2	pobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	USA	usa	NNP	pos2=NN	0	root	_	U-GPE
+2	on	on	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	right	right	NN	pos2=JJ	2	pobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	No	no	DT	pos2=UH	4	det	_	O
+2	"	"	``	_	4	punct	_	O
+3	bad	bad	JJ	_	4	nmod	_	O
+4	hombres	hombre	NNS	_	7	nsubjpass	_	O
+5	"	"	''	_	4	punct	_	O
+6	were	be	VBD	_	7	auxpass	_	O
+7	spotted	spot	VBN	_	0	root	_	O
+8	.	.	.	_	7	punct	_	O
+
+1	And	and	CC	_	7	cc	_	O
+2	physically	physically	RB	_	4	advmod	_	O
+3	no	no	DT	_	4	det	_	O
+4	room	room	NN	_	7	dep	_	O
+5	for	for	IN	_	4	prep	_	O
+6	…	…	NFP	pos2=-LRB-	5	pobj	_	O
+7	https://t.co/uCahd8QGax	#hlink#	ADD	pos2=NN	0	root	_	O
+

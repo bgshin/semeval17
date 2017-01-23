@@ -1,0 +1,26 @@
+1	Between	between	IN	_	11	prep	_	B-DATE
+2	1954	0	CD	_	1	pobj	_	I-DATE
+3	and	and	CC	_	2	cc	_	I-DATE
+4	1963	0	CD	_	2	conj	_	L-DATE
+5	,	,	,	_	11	punct	_	O
+6	close	close	JJ	pos2=VB	9	qmod	_	O
+7	to	to	IN	pos2=TO	9	qmod	_	O
+8	98	0	CD	_	9	compound	_	B-CARDINAL
+9	million	#crd#	CD	_	10	nmod	_	L-CARDINAL
+10	Americans	american	NNPS	_	11	nsubj	_	U-NORP
+11	received	receive	VBD	pos2=VBN	0	root	_	O
+12	polio	polio	NN	_	13	compound	_	O
+13	vaccines	vaccine	NNS	_	11	dobj	_	O
+14	contaminated	contaminate	VBN	_	13	acl	_	O
+15	w	w	IN	pos2=RB	14	prep	_	O
+16	/	/	HYPH	pos2=,	15	punct	_	O
+17	a	a	DT	pos2=JJ	20	det	_	O
+18	carcinogenic	carcinogenic	JJ	_	20	nmod	_	O
+19	monkey	monkey	NN	_	20	compound	_	O
+20	virus	virus	NN	_	15	pobj	_	O
+21	,	,	,	_	20	punct	_	O
+22	known	know	VBN	_	20	acl	_	O
+23	as	as	IN	_	22	prep	_	O
+24	SV40	sv0	NN	_	23	pobj	_	U-PRODUCT
+25	.	.	.	_	11	punct	_	O
+

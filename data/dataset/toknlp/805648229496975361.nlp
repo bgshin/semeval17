@@ -1,0 +1,24 @@
+1	Jesuit	jesuit	NNP	pos2=JJ	2	compound	_	U-NORP
+2	MAN	man	NN	pos2=NNP	7	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	SIN	sin	NNP	pos2=NN	5	compound	_	B-PERSON
+5	Pope	pope	NNP	_	3	pobj	_	L-PERSON
+6	https://t.co/kYcVYMf0wC	#hlink#	ADD	pos2=NNP	7	nsubj	_	O
+7	took	take	VBD	_	0	root	_	O
+8	this	this	DT	_	11	det	_	O
+9	complete	complete	JJ	_	11	nmod	_	O
+10	Jesuit	jesuit	NNP	_	11	compound	_	B-ORG
+11	Oath	oath	NNP	pos2=NN	7	dobj	_	I-ORG
+12	of	of	IN	_	11	prep	_	I-ORG
+13	Extreme	extreme	NNP	pos2=JJ	14	compound	_	I-ORG
+14	Induction	induction	NNP	pos2=NN	12	pobj	_	L-ORG
+15	.	.	.	_	7	punct	_	O
+
+1	WHO	who	WP	_	2	attr	_	O
+2	IS	be	VBZ	_	0	root	_	O
+3	THE	the	DT	_	5	det	_	O
+4	ONE	#crd#	CD	pos2=NNP	5	nmod	_	U-CARDINAL
+5	T	t	NN	pos2=GW	2	nsubj	_	O
+6	…	…	NFP	pos2=-LRB-	7	punct	_	O
+7	https://t.co/6KkcS0PD4A	#hlink#	ADD	_	5	appos	_	U-ORG
+

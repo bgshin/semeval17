@@ -1,0 +1,18 @@
+1	#BREAKING#Russia	#breaking#russia	NN	pos2=NNP	2	nsubj	_	O
+2	demanded	demand	VBD	pos2=VBN	0	root	_	O
+3	from	from	IN	_	2	prep	_	O
+4	#Ukraine	#ukraine	NNP	pos2=NN	3	pobj	_	U-ORG
+5	to	to	TO	_	6	aux	_	O
+6	cancel	cancel	VB	_	2	advcl	_	O
+7	the	the	DT	_	9	det	_	O
+8	missile	missile	NN	_	9	compound	_	O
+9	firing	firing	NN	pos2=VBG	6	dobj	_	O
+10	in	in	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	vicinity	vicinity	NN	_	10	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	#Simferopol#nato	#simferopol#nato	NNP	pos2=$	13	pobj	_	U-EVENT
+15	#osce	#osce	GW	pos2=IN	17	nmod	_	O
+16	…	…	NFP	pos2=GW	17	punct	_	O
+17	https://t.co/QSCMW9CaZK	#hlink#	ADD	_	14	appos	_	O
+

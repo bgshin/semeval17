@@ -1,0 +1,27 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	'm	be	VBP	_	3	aux	_	O
+3	sending	send	VBG	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	folks	folk	NNS	_	3	dobj	_	O
+6	who	who	WP	_	7	nsubj	_	O
+7	gave	give	VBD	_	5	relcl	_	O
+8	a	a	DT	_	10	det	_	O
+9	Nobel	nobel	NNP	_	10	compound	_	O
+10	prize	prize	NN	pos2=NNP	7	dobj	_	O
+11	for	for	IN	_	10	prep	_	O
+12	literature	literature	NN	_	11	pobj	_	O
+13	to	to	IN	_	7	dative	_	O
+14	Bob	bob	NNP	_	15	compound	_	B-PERSON
+15	Dylan	dylan	NNP	_	13	pobj	_	L-PERSON
+16	a	a	DT	_	18	det	_	O
+17	cassette	cassette	NN	_	18	compound	_	O
+18	copy	copy	NN	_	7	dobj	_	O
+19	of	of	IN	_	18	prep	_	O
+20	The	the	DT	_	22	det	_	O
+21	Great	great	NNP	pos2=JJ	22	compound	_	O
+22	Adventures	adventure	NNPS	pos2=NNS	19	pobj	_	O
+23	of	of	IN	_	22	prep	_	O
+24	Slick	slick	NNP	pos2=JJ	25	compound	_	B-PERSON
+25	Rick	rick	NNP	_	23	pobj	_	L-PERSON
+26	.	.	.	_	3	punct	_	O
+

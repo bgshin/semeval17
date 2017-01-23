@@ -1,0 +1,18 @@
+1	First	#ord#	RB	pos2=JJ	2	advmod	_	U-ORDINAL
+2	Thanksgiving	thanksgiving	NNP	_	0	root	_	U-DATE
+3	,	,	,	_	2	punct	_	O
+4	Christmas	christmas	NNP	_	2	conj	_	U-DATE
+5	,	,	,	_	4	punct	_	O
+6	New	new	NNP	pos2=JJ	7	compound	_	B-EVENT
+7	Years	years	NNP	pos2=NNPS	4	conj	_	L-EVENT
+8	,	,	,	_	7	punct	_	O
+9	Valentines	valentines	NNP	_	10	compound	_	B-DATE
+10	Day	day	NNP	_	7	conj	_	L-DATE
+11	and	and	CC	_	10	cc	_	O
+12	Birthday	birthday	NNP	pos2=NN	10	conj	_	O
+13	without	without	IN	_	2	prep	_	O
+14	my	my	PRP$	_	16	poss	_	O
+15	Dad	dad	NNP	pos2=NN	16	compound	_	O
+16	😪	😪	NNP	pos2=''	13	pobj	_	O
+17	!	!	.	_	2	punct	_	O
+

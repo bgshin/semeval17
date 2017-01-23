@@ -1,0 +1,9 @@
+1	@utahjazz	@utahjazz	UH	pos2=PRP	2	discourse	_	O
+2	get	get	VB	_	0	root	_	O
+3	on	on	IN	pos2=RP	2	prep	_	O
+4	a	a	DT	_	5	det	_	O
+5	roll	roll	NN	_	3	pobj	_	O
+6	and	and	CC	_	2	cc	_	O
+7	keep	keep	VB	_	2	conj	_	O
+8	winning	win	VBG	pos2=NN	7	xcomp	_	O
+

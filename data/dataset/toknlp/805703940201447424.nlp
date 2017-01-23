@@ -1,0 +1,12 @@
+1	Immigration	immigration	NNP	pos2=NN	2	compound	_	O
+2	Consultant	consultant	NN	pos2=NNP	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Canada	canada	NNP	_	3	pobj	_	U-GPE
+5	,	,	,	_	4	punct	_	O
+6	Australia	australia	NNP	_	4	conj	_	O
+7	&	&	CC	_	6	cc	_	O
+8	New	new	NNP	_	9	compound	_	B-GPE
+9	Zealand	zealand	NNP	pos2=GW	6	conj	_	L-GPE
+10	https://t.co/TxnpFlHF8v	#hlink#	ADD	_	11	nmod	_	O
+11	https://t.co/l0sxOrJNZu	#hlink#	ADD	_	4	appos	_	U-ORG
+

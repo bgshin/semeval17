@@ -1,0 +1,26 @@
+1	Nigeria	nigeria	NNP	_	2	nsubj	_	U-GPE
+2	needs	need	VBZ	_	0	root	_	O
+3	gun	gun	NN	_	4	compound	_	O
+4	control	control	NN	pos2=VB	2	dobj	_	O
+5	@FRSCNigeria	@frscnigeria	NNP	pos2=IN	6	nsubj	_	O
+6	Gaining	gain	VBG	pos2=NNP	2	advcl	_	O
+7	approval	approval	NN	_	6	dobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	carry	carry	VB	_	7	acl	_	O
+10	arms	arm	NNS	_	9	dobj	_	O
+11	!	!	.	_	2	punct	_	O
+
+1	@NGRSenate	@ngrsenate	ADD	pos2=NN	3	nsubj	_	O
+2	should	should	MD	_	3	aux	_	O
+3	reconsider	reconsider	VB	_	0	root	_	O
+4	this	this	DT	_	3	dobj	_	O
+5	..	..	.	_	3	punct	_	O
+
+1	no	no	DT	pos2=UH	2	det	_	O
+2	good	good	NN	pos2=JJ	4	nsubj	_	O
+3	can	can	MD	pos2=NN	4	aux	_	O
+4	come	come	VB	_	0	root	_	O
+5	out	out	IN	_	4	prep	_	O
+6	of	of	IN	_	5	prep	_	O
+7	it	it	PRP	_	6	pobj	_	O
+

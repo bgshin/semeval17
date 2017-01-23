@@ -1,0 +1,31 @@
+1	@POW_no_fracking	@pow_no_fracking	VBG	pos2=NN	5	meta	_	O
+2	In	in	IN	_	1	prep	_	O
+3	other	other	JJ	_	4	nmod	_	O
+4	words	word	NNS	_	2	pobj	_	O
+5	a	a	DT	_	7	det	_	O
+6	full	full	JJ	_	7	nmod	_	O
+7	EIS	eis	NN	pos2=NNP	0	root	_	U-ORG
+8	.	.	.	_	1	punct	_	O
+
+1	Which	which	WDT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	what	what	WP	_	5	nsubjpass	_	O
+4	was	be	VBD	_	5	auxpass	_	O
+5	required	require	VBN	_	2	ccomp	_	O
+6	in	in	IN	_	5	prep	_	O
+7	the	the	DT	_	10	det	_	O
+8	1	0	CD	_	10	nmod	_	B-PERCENT
+9	st	st	NN	_	10	compound	_	L-PERCENT
+10	place	place	NN	_	6	pobj	_	O
+11	+	+	SYM	_	10	punct	_	O
+12	what	what	WP	pos2=WDT	14	nsubj	_	O
+13	will	will	MD	_	14	aux	_	O
+14	be	be	VB	_	2	ccomp	_	O
+15	nearly	nearly	RB	_	16	advmod	_	O
+16	impossible	impossible	JJ	_	14	acomp	_	O
+17	for	for	IN	_	20	mark	_	O
+18	DAPL	dapl	NNP	pos2=NN	20	nsubj	_	U-ORG
+19	to	to	TO	_	20	aux	_	O
+20	obtain	obtain	VB	_	14	advcl	_	O
+21	.	.	.	_	2	punct	_	O
+

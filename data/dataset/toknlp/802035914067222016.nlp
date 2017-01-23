@@ -1,0 +1,9 @@
+1	Now	now	RB	_	3	advmod	_	O
+2	to	to	TO	_	3	aux	_	O
+3	wait	wait	VB	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	persona	persona	NN	_	4	pobj	_	O
+6	5	0	CD	_	5	nmod	_	U-CARDINAL
+7	😩😩😩😩	😩😩😩😩	NFP	pos2=:	8	punct	_	O
+8	https://t.co/q7Z6julbKs	#hlink#	ADD	pos2=NN	3	dep	_	O
+

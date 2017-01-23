@@ -1,0 +1,18 @@
+1	Good	good	JJ	_	2	nmod	_	O
+2	riddance	riddance	NN	_	12	nsubj	_	O
+3	to	to	IN	pos2=TO	2	prep	_	O
+4	#FidelCastro	#fidelcastro	NNP	pos2=ADD	3	pobj	_	U-GPE
+5	,	,	,	_	2	punct	_	O
+6	now	now	RB	_	12	advmod	_	O
+7	can	can	MD	_	12	aux	_	O
+8	that	that	DT	pos2=IN	11	det	_	O
+9	SOB	sob	NNP	pos2=VB	11	compound	_	O
+10	Nicolas	nicolas	NNP	_	11	compound	_	B-PERSON
+11	Maduro	maduro	NNP	_	12	nsubj	_	L-PERSON
+12	be	be	VB	_	0	root	_	O
+13	the	the	DT	_	14	det	_	O
+14	next	next	JJ	pos2=JJR	12	attr	_	O
+15	to	to	TO	_	16	aux	_	O
+16	go	go	VB	_	14	relcl	_	O
+17	?	?	.	_	12	punct	_	O
+

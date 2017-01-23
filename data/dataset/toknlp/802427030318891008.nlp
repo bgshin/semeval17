@@ -1,0 +1,19 @@
+1	Due	due	IN	_	6	prep	_	O
+2	to	to	IN	_	1	pcomp	_	O
+3	Obamacare	obamacare	NNP	_	1	pobj	_	U-ORG
+4	,	,	,	_	6	punct	_	O
+5	Drs	drs	NNP	pos2=NNS	9	nsubj	_	U-ORG
+6	are	be	VBP	_	9	aux	_	O
+7	no	no	RB	_	8	neg	_	O
+8	longer	long	RBR	pos2=RB	9	advmod	_	O
+9	taking	take	VBG	_	0	root	_	O
+10	Medicaid	medicaid	NNP	pos2=NN	9	dobj	_	U-ORG
+11	,	,	,	_	10	punct	_	O
+12	emergency	emergency	NN	_	13	compound	_	O
+13	rooms	room	NNS	_	14	nsubj	_	O
+14	becoming	become	VBG	_	9	dobj	_	O
+15	overwhelmed	overwhelmed	JJ	pos2=VBN	14	acomp	_	O
+16	https://t.co/6ZtzZJ6Keq	#hlink#	ADD	_	18	nmod	_	U-ORG
+17	#TeaPartyToldYouSo	#teapartytoldyouso	ADD	pos2=-RRB-	12	cc	_	U-LANGUAGE
+18	#PJNet	#pjnet	NN	pos2=ADD	17	pobj	_	O
+

@@ -1,0 +1,30 @@
+1	How	how	WRB	_	2	advmod	_	O
+2	many	many	JJ	_	4	nmod	_	O
+3	Black	black	JJ	pos2=NNP	4	nmod	_	O
+4	people	people	NNS	_	5	nsubj	_	O
+5	voted	vote	VBD	pos2=VBN	0	root	_	O
+6	for	for	IN	_	5	prep	_	O
+7	Ben	ben	NNP	_	8	compound	_	B-PERSON
+8	Carson	carson	NNP	_	6	pobj	_	L-PERSON
+9	in	in	IN	_	5	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	primary	primary	NN	pos2=JJ	9	pobj	_	O
+12	?	?	.	_	5	punct	_	O
+
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	such	such	PDT	pos2=JJ	5	predet	_	O
+4	a	a	DT	_	5	det	_	O
+5	strawman	strawman	NN	_	2	attr	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	Black	black	JJ	pos2=NNP	2	nmod	_	O
+2	ppl	ppl	NNS	_	5	nsubj	_	O
+3	are	be	VBP	_	5	aux	_	O
+4	nt	nt	RB	_	5	advmod	_	O
+5	rushing	rush	VBG	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	vote	vote	VB	_	5	xcomp	_	O
+8	…	…	NFP	pos2=-LRB-	5	punct	_	O
+9	https://t.co/RhI53ECXm5	#hlink#	ADD	_	5	dep	_	O
+

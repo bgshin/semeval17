@@ -1,0 +1,13 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	article	article	NN	_	0	root	_	O
+3	about	about	IN	pos2=RB	2	prep	_	O
+4	@IfNotNowOrg	@ifnotnoworg	NNP	pos2=VBG	3	pobj	_	U-ORG
+5	and	and	CC	_	2	cc	_	O
+6	protesting	protest	VBG	_	2	conj	_	O
+7	the	the	DT	_	8	det	_	O
+8	anti-semitism	anti-semitism	NN	_	6	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	Steve	steve	NNP	_	11	compound	_	B-PERSON
+11	Bannon	bannon	NNP	_	9	pobj	_	L-PERSON
+12	https://t.co/w4CfPv7Fh1	#hlink#	ADD	_	2	appos	_	O
+

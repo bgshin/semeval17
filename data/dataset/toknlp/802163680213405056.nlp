@@ -1,0 +1,17 @@
+1	working	work	VBG	_	11	advcl	_	O
+2	on	on	IN	_	1	prep	_	O
+3	the	the	DT	_	5	det	_	B-ORG
+4	New	new	NNP	_	5	compound	_	I-ORG
+5	Years	year	NNPS	pos2=NNP	2	pobj	_	I-ORG
+6	&	&	CC	_	5	cc	_	I-ORG
+7	Valentines	valentines	NNP	pos2=NNS	8	compound	_	I-ORG
+8	collection.😍	collection.😍	NNP	pos2=:	5	conj	_	L-ORG
+9	this	this	DT	_	11	nsubjpass	_	O
+10	is	be	VBZ	_	11	auxpass	_	O
+11	lit	light	VBN	pos2=PRP	14	nsubj	_	O
+12	ca	can	MD	pos2=NN	14	aux	_	O
+13	nt	nt	RB	_	14	advmod	_	O
+14	wait	wait	VB	_	0	root	_	O
+15	to	to	TO	_	16	aux	_	O
+16	reveal	reveal	VB	_	14	xcomp	_	O
+

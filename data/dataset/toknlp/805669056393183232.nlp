@@ -1,0 +1,17 @@
+1	Assad	assad	NNP	pos2=JJ	2	compound	_	U-PERSON
+2	troops	troop	NNS	_	4	nsubj	_	O
+3	have	have	VBP	_	4	aux	_	O
+4	taken	take	VBN	_	14	ccomp	_	O
+5	52	0	CD	_	6	nmod	_	B-PERCENT
+6	percent	percent	NN	_	4	dobj	_	L-PERCENT
+7	of	of	IN	_	6	prep	_	O
+8	rebel	rebel	NN	pos2=RB	10	npadvmod	_	O
+9	-	-	HYPH	_	10	punct	_	O
+10	held	hold	VBN	_	11	nmod	_	O
+11	Aleppo	aleppo	NNP	_	7	pobj	_	U-GPE
+12	,	,	,	_	14	punct	_	O
+13	Russia	russia	NNP	_	14	nsubj	_	U-GPE
+14	says	say	VBZ	_	0	root	_	O
+15	https://t.co/tNofzda0HJ	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/IN7nKpoYNE	#hlink#	ADD	_	14	punct	_	U-ORG
+

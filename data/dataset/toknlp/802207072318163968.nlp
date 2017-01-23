@@ -1,0 +1,25 @@
+1	@Ahurastan	@ahurastan	NNP	pos2=XX	7	vocative	_	O
+2	@kleegrubaugh	@kleegrubaugh	UH	pos2=XX	7	discourse	_	O
+3	@MittRomney	@mittromney	UH	pos2=NNP	7	discourse	_	O
+4	@thehill	@thehill	UH	pos2=MD	7	discourse	_	O
+5	You	you	PRP	_	7	nsubj	_	O
+6	do	do	VBP	_	7	aux	_	O
+7	realize	realize	VB	_	0	root	_	O
+8	he	he	PRP	_	9	nsubj	_	O
+9	lost	lose	VBD	pos2=VBN	7	ccomp	_	O
+10	the	the	DT	_	12	det	_	O
+11	popular	popular	JJ	_	12	nmod	_	O
+12	vote	vote	NN	_	9	dobj	_	O
+13	by	by	IN	_	9	prep	_	O
+14	2	0	CD	_	15	compound	_	B-CARDINAL
+15	million	#crd#	CD	_	13	pobj	_	L-CARDINAL
+16	.	.	.	_	7	punct	_	O
+
+1	Most	most	JJS	pos2=RBS	5	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	that	that	DT	_	4	det	_	O
+4	red	red	NN	pos2=JJ	2	pobj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	land	land	NN	_	5	attr	_	O
+7	.	.	.	_	5	punct	_	O
+

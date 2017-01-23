@@ -1,0 +1,16 @@
+1	TV	tv	NN	_	2	compound	_	O
+2	anchor	anchor	NN	_	9	nsubj	_	O
+3	with	with	IN	_	2	prep	_	O
+4	MS	ms	NN	pos2=NNP	3	pobj	_	O
+5	leaving	leave	VBG	_	2	acl	_	O
+6	Fox	fox	NNP	_	7	compound	_	B-ORG
+7	2	0	CD	_	5	dobj	_	L-ORG
+8	to	to	TO	_	9	aux	_	O
+9	join	join	VB	_	0	root	_	O
+10	medical	medical	JJ	_	11	nmod	_	O
+11	marijuana	marijuana	NN	_	12	compound	_	O
+12	fight	fight	NN	pos2=VB	9	dobj	_	O
+13	https://t.co/SyWe4OdR53	#hlink#	ADD	pos2=NN	8	pobj	_	O
+14	via	via	IN	_	9	prep	_	O
+15	@freep	@freep	NN	pos2=UH	14	pobj	_	O
+

@@ -1,0 +1,25 @@
+1	@thealexvanness	@thealexvanness	UH	pos2=RB	5	discourse	_	O
+2	well	well	UH	pos2=RB	5	discourse	_	O
+3	,	,	,	_	5	punct	_	O
+4	@ikhras	@ikhras	PRP	pos2=FW	5	nsubj	_	O
+5	has	have	VBZ	_	0	root	_	O
+6	no	no	DT	_	7	det	_	O
+7	problem	problem	NN	_	5	dobj	_	O
+8	telling	tell	VBG	_	7	acl	_	O
+9	you	you	PRP	_	8	dobj	_	O
+10	that	that	IN	pos2=WDT	13	mark	_	O
+11	he	he	PRP	_	13	nsubj	_	O
+12	fully	fully	RB	_	13	advmod	_	O
+13	supports	support	VBZ	_	8	ccomp	_	O
+14	#Hamas	#hamas	NNP	pos2=NNS	13	dobj	_	U-ORG
+15	.	.	.	_	5	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	wonder	wonder	VBP	_	0	root	_	O
+3	where	where	WRB	_	7	advmod	_	O
+4	all	all	PDT	_	6	predet	_	O
+5	the	the	DT	_	6	det	_	O
+6	donations	donation	NNS	_	7	nsubj	_	O
+7	go	go	VBP	pos2=VB	2	ccomp	_	O
+8	.	.	.	_	2	punct	_	O
+

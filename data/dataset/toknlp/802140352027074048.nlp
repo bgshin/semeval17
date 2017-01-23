@@ -1,0 +1,16 @@
+1	#DetroitTigers	#detroittigers	NNS	pos2=ADD	2	compound	_	O
+2	#Card	#card	NNP	pos2=VBD	15	dep	_	O
+3	2016	0	CD	_	2	npadvmod	_	U-DATE
+4	TOPPS	topps	NNP	pos2=NNS	7	nmod	_	B-ORG
+5	CHROME	chrome	NNP	pos2=NN	7	nmod	_	I-ORG
+6	JUSTIN	justin	NNP	_	7	nmod	_	I-ORG
+7	VERLANDER	verlander	NNP	_	10	nmod	_	L-ORG
+8	BLUE	blue	JJ	pos2=NNP	9	nmod	_	O
+9	WAVE	wave	NN	pos2=NNP	10	compound	_	O
+10	SSP	ssp	NN	pos2=CD	15	dep	_	O
+11	47/75	0	CD	_	10	nmod	_	U-CARDINAL
+12	DETROIT	detroit	NNP	pos2=GW	15	nmod	_	U-GPE
+13	TIGERS	tigers	GW	pos2=NNS	15	nmod	_	O
+14	https://t.co/C6hxDpSpZe…	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/2S80TchuJZ	#hlink#	ADD	_	0	root	_	U-ORG
+

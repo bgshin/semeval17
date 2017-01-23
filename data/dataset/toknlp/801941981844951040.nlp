@@ -1,0 +1,7 @@
+1	@MalikDixon13	@malikdixon0	NN	pos2=XX	3	compound	_	O
+2	Frank	frank	NNP	_	3	compound	_	B-PERSON
+3	Jackson	jackson	NNP	_	0	root	_	I-PERSON
+4	&	&	CC	_	3	cc	_	I-PERSON
+5	Grayson	grayson	NNP	_	6	compound	_	I-PERSON
+6	Allen	allen	NNP	_	3	conj	_	L-PERSON
+

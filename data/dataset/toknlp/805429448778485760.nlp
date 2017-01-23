@@ -1,0 +1,19 @@
+1	Ashley	ashley	NNP	_	9	compound	_	O
+2	Graham	graham	NNP	_	9	compound	_	O
+3	-	-	HYPH	pos2=:	9	punct	_	O
+4	VH1's	vh0's	NNP	pos2=NNS	9	compound	_	O
+5	Divas	divas	NNP	pos2=NNPS	9	compound	_	O
+6	Holiday	holiday	NNP	_	9	compound	_	O
+7	Unsilent	unsilent	NNP	_	8	compound	_	O
+8	Night	night	NNP	_	9	compound	_	O
+9	Concert	concert	NNP	pos2=NN	18	dep	_	O
+10	in	in	IN	_	9	prep	_	O
+11	NYC	nyc	NNP	_	10	pobj	_	U-GPE
+12	(	(	-LRB-	_	9	punct	_	O
+13	December	december	NNP	_	9	npadvmod	_	B-DATE
+14	2-2016	0	CD	_	13	nmod	_	L-DATE
+15	)	)	-RRB-	_	9	punct	_	O
+16	@theashleygraham	@theashleygraham	GW	pos2=IN	9	punct	_	O
+17	-…	-…	NFP	pos2=GW	9	discourse	_	O
+18	https://t.co/D1rt3IZXeC	#hlink#	ADD	pos2=NN	0	root	_	O
+

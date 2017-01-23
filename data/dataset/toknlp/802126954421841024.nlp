@@ -1,0 +1,12 @@
+1	#UnitedNations	#unitednations	NNS	pos2=ADD	2	nsubj	_	O
+2	planned	plan	VBN	pos2=VBD	0	root	_	O
+3	#GunGrab	#gungrab	NN	pos2=NNS	2	dobj	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	#NRA	#nra	NN	pos2=ADD	6	dep	_	O
+2	#SecondAmendment	#secondamendment	ADD	pos2=NN	6	nmod	_	O
+3	#MolonLabe	#molonlabe	GW	pos2=ADD	6	nmod	_	O
+4	#ComeAndTakeIt	#comeandtakeit	GW	pos2=ADD	6	nmod	_	U-MONEY
+5	#MichaelBloomberg	#michaelbloomberg	GW	pos2=ADD	6	nmod	_	O
+6	https://t.co/VGf5iRL1ei	#hlink#	ADD	pos2=NN	0	root	_	O
+

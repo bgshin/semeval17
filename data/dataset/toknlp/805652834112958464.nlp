@@ -1,0 +1,24 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	tad	tad	NN	pos2=JJ	5	npadvmod	_	O
+5	droll	droll	JJ	pos2=NN	2	acomp	_	O
+6	when	when	WRB	_	9	advmod	_	O
+7	Dateline	dateline	NNP	_	8	compound	_	B-ORG
+8	NBC	nbc	NNP	pos2=NN	9	nsubj	_	L-ORG
+9	quotes	quote	VBZ	_	2	advcl	_	O
+10	a	a	DT	_	12	det	_	O
+11	California	california	NNP	_	12	compound	_	U-GPE
+12	DA	da	NNP	pos2=NN	9	dobj	_	O
+13	talking	talk	VBG	_	12	acl	_	O
+14	tough	tough	JJ	_	13	acomp	_	O
+15	about	about	IN	pos2=RB	14	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	state	state	NN	_	21	poss	_	O
+18	's	's	POS	_	17	case	_	O
+19	"	"	``	_	21	punct	_	O
+20	death	death	NN	_	21	compound	_	O
+21	penalty	penalty	NN	_	15	pobj	_	O
+22	.	.	.	_	2	punct	_	O
+23	"	"	''	_	2	punct	_	O
+

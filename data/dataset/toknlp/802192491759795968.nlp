@@ -1,0 +1,8 @@
+1	Persona	persona	NN	pos2=NNP	5	compound	_	O
+2	5	0	CD	_	7	dep	_	U-CARDINAL
+3	–	-	HYPH	pos2=:	5	punct	_	O
+4	Ann	ann	NNP	_	5	compound	_	B-PERSON
+5	Trailer	trailer	NNP	pos2=NN	7	dep	_	L-PERSON
+6	|	|	,	pos2=SYM	7	punct	_	O
+7	https://t.co/wNMZUbNz28	#hlink#	ADD	pos2=NNP	0	root	_	O
+

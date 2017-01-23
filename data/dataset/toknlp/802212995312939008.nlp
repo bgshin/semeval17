@@ -1,0 +1,11 @@
+1	Tory	tory	NNP	pos2=NN	10	nmod	_	B-ORG
+2	Burch	burch	NNP	_	10	dep	_	I-ORG
+3	Kerrington	kerrington	NNP	_	10	dep	_	I-ORG
+4	Valentines	valentines	NNP	_	10	dep	_	I-ORG
+5	Amore	amore	NNP	_	10	dep	_	I-ORG
+6	Heart	heart	NNP	pos2=NN	10	dep	_	I-ORG
+7	Tote	tote	NNP	pos2=NN	9	nmod	_	L-ORG
+8	-	-	HYPH	pos2=GW	9	punct	_	O
+9	https://t.co/KMoBR2qwT8	#hlink#	ADD	_	10	nmod	_	O
+10	https://t.co/U9ZatQdIiJ	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,21 @@
+1	#Hezbollah	#hezbollah	NNP	pos2=PRP$	3	compound	_	O
+2	soldier	soldier	NN	_	3	compound	_	O
+3	hands	hand	NNS	_	5	nsubjpass	_	O
+4	were	be	VBD	_	5	auxpass	_	O
+5	blown	blow	VBN	_	13	ccomp	_	O
+6	off	off	RP	_	5	prt	_	O
+7	by	by	IN	_	5	agent	_	O
+8	an	an	DT	_	9	det	_	O
+9	IED	ied	NNP	pos2=NN	7	pobj	_	O
+10	in	in	IN	_	9	prep	_	O
+11	February	february	NNP	_	10	pobj	_	U-DATE
+12	,	,	,	_	13	punct	_	O
+13	walked	walk	VBD	_	0	root	_	O
+14	from	from	IN	_	13	prep	_	O
+15	#Najaf	#najaf	NNP	pos2=XX	14	pobj	_	U-GPE
+16	to	to	IN	pos2=TO	13	prep	_	O
+17	#Karbala	#karbala	NNP	_	16	pobj	_	U-GPE
+18	in	in	IN	_	13	prep	_	O
+19	#ArbaeenWalk	#arbaeenwalk	NNP	pos2=GW	18	pobj	_	U-GPE
+20	https://t.co/VyPaFNH1mD	#hlink#	ADD	_	13	dep	_	O
+

@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det	_	O
+2	TPP	tpp	NN	pos2=NNP	3	nsubj	_	O
+3	is	be	VBZ	_	9	ccomp	_	O
+4	dead	dead	JJ	pos2=VBN	3	acomp	_	O
+5	:	:	:	_	9	punct	_	O
+6	we	we	PRP	_	9	nsubj	_	O
+7	the	the	DT	_	8	det	_	O
+8	People	people	NNS	pos2=NNPS	6	appos	_	O
+9	defeated	defeat	VBD	_	0	root	_	O
+10	transnational	transnational	JJ	_	12	nmod	_	O
+11	corporate	corporate	JJ	_	12	nmod	_	O
+12	power	power	NN	pos2=GW	9	dobj	_	O
+13	https://t.co/a5VHR5hPgI	#hlink#	ADD	_	14	nmod	_	O
+14	https://t.co/VEduTMR2te	#hlink#	ADD	_	9	dep	_	U-ORG
+

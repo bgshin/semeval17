@@ -1,0 +1,21 @@
+1	@sbajpai2806	@sbajpai0	NN	pos2=LS	6	nmod	_	O
+2	@TarekFatah	@tarekfatah	UH	pos2=ADD	6	discourse	_	O
+3	@Swamy39	@swamy0	NN	pos2=CD	6	compound	_	O
+4	@newscomauHQ	@newscomauhq	NNP	pos2=IN	5	compound	_	O
+5	Clinton	clinton	NNP	_	6	compound	_	U-PERSON
+6	foundation	foundation	NN	pos2=NNP	7	nsubj	_	O
+7	reminds	remind	VBZ	_	0	root	_	O
+8	me	me	PRP	_	7	dobj	_	O
+9	of	of	IN	_	7	prep	_	O
+10	Maharashtra	maharashtra	NNP	_	12	compound	_	O
+11	CM	cm	NNP	_	12	compound	_	O
+12	Antuley	antuley	NNP	_	14	poss	_	O
+13	's	's	POS	_	12	case	_	O
+14	foundation	foundation	NN	_	9	pobj	_	O
+15	in	in	IN	_	14	prep	_	O
+16	80s	0s	NNS	pos2=CD	15	pobj	_	U-DATE
+17	for	for	IN	_	14	prep	_	O
+18	taking	take	VBG	pos2=NN	17	pcomp	_	O
+19	bribe	bribe	NN	_	18	dobj	_	O
+20	.	.	.	_	7	punct	_	O
+

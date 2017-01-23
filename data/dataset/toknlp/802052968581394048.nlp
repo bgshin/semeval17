@@ -1,0 +1,9 @@
+1	Sergio	sergio	NNP	_	2	compound	_	B-PERSON
+2	Busquets	busquets	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	better	good	JJR	_	3	acomp	_	O
+5	than	than	IN	_	4	prep	_	O
+6	Zinedine	zinedine	NNP	_	7	compound	_	B-PERSON
+7	Zidane	zidane	NNP	_	5	pobj	_	L-PERSON
+8	#fcblive	#fcblive	.	pos2=NNP	3	punct	_	O
+

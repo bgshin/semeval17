@@ -1,0 +1,25 @@
+1	Robots	robot	NNS	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	not	not	RB	_	4	neg	_	O
+4	hold	hold	VB	_	0	root	_	O
+5	on	on	RP	pos2=IN	4	prt	_	O
+6	to	to	IN	_	4	prep	_	O
+7	life	life	NN	_	6	pobj	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	ca	can	MD	_	0	root	_	O
+3	n't	not	RB	_	2	neg	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	have	have	VBP	_	0	root	_	O
+3	nothing	nothing	NN	_	2	dobj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	hold	hold	VB	_	3	relcl	_	O
+6	...	..	.	pos2=,	2	punct	_	O
+
+1	#KarelCapek	#karelcapek	GW	pos2=XX	3	nmod	_	B-PERSON
+2	#quotation	#quotation	GW	pos2=ADD	3	nmod	_	L-PERSON
+3	https://t.co/jbbXtbcIDa	#hlink#	ADD	pos2=NN	0	root	_	O
+

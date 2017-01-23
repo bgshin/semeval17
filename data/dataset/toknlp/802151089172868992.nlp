@@ -1,0 +1,24 @@
+1	We	we	PRP	_	3	nsubj	_	O
+2	must	must	MD	_	3	aux	_	O
+3	catch	catch	VB	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	moments	moment	NNS	_	3	dobj	_	O
+6	while	while	IN	_	8	mark	_	O
+7	we	we	PRP	_	8	nsubj	_	O
+8	're	be	VBP	_	3	advcl	_	O
+9	young	young	JJ	_	8	acomp	_	O
+10	and	and	CC	_	9	cc	_	O
+11	quick	quick	JJ	_	9	conj	_	O
+12	,	,	,	_	8	punct	_	O
+13	for	for	IN	pos2=CC	17	prep	_	O
+14	soon	soon	RB	_	17	advmod	_	O
+15	we	we	PRP	_	17	nsubj	_	O
+16	will	will	MD	_	17	aux	_	O
+17	be	be	VB	_	8	conj	_	O
+18	old	old	JJ	_	17	acomp	_	O
+19	and	and	CC	_	18	cc	_	O
+20	slow	slow	JJ	_	18	conj	_	O
+21	.	.	.	_	3	punct	_	O
+
+1	#ThisIsUs	#thisisus	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,23 @@
+1	There	there	EX	_	2	expl	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	no	no	DT	_	4	det	_	O
+4	law	law	NN	_	2	attr	_	O
+5	in	in	IN	_	4	prep	_	O
+6	this	this	DT	_	7	det	_	O
+7	world	world	NN	_	5	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	As	as	IN	_	5	mark	_	O
+2	we	we	PRP	_	5	nsubj	_	O
+3	ca	can	MD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	have	have	VB	_	0	root	_	O
+6	a	a	DT	_	8	det	_	O
+7	death	death	NN	_	8	compound	_	O
+8	penalty	penalty	NN	_	5	dobj	_	O
+9	here	here	RB	_	5	advmod	_	O
+10	,	,	,	_	5	punct	_	O
+11	of	of	IN	pos2=RB	6	dep	_	O
+12	course	course	NN	_	11	pobj	_	O
+13	.	.	.	_	5	punct	_	O
+

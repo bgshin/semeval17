@@ -1,0 +1,18 @@
+1	Watching	watch	VBG	_	0	root	_	O
+2	Scream	scream	NNP	_	4	compound	_	B-ORG
+3	Queens	queens	NNP	_	4	compound	_	I-ORG
+4	Season	season	NNP	pos2=NN	8	nsubj	_	L-ORG
+5	2	0	CD	_	6	nmod	_	U-CARDINAL
+6	Episode	episode	NN	_	4	npadvmod	_	O
+7	5	0	CD	_	8	nmod	_	U-CARDINAL
+8	'	'	NNS	pos2=``	10	ccomp	_	O
+9	Chanel	chanel	NNP	_	11	compound	_	O
+10	Pour	pour	NNP	pos2=VB	15	nmod	_	O
+11	Homme	homme	NNP	_	13	compound	_	O
+12	-	-	HYPH	pos2=,	13	punct	_	O
+13	icide	icide	NN	_	15	nmod	_	O
+14	'	'	''	pos2=POS	15	punct	_	O
+15	#ScreamQueens	#screamqueens	NNS	pos2=ADD	17	compound	_	U-DATE
+16	#ChanelPourHommeIcide	#chanelpourhommeicide	ADD	pos2=VBP	17	compound	_	B-WORK_OF_ART
+17	@ScreamQueens	@screamqueens	NNS	pos2=ADD	1	dobj	_	L-WORK_OF_ART
+

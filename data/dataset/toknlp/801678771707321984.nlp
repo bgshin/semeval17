@@ -1,0 +1,21 @@
+1	MLB	mlb	NNP	_	11	compound	_	U-ORG
+2	Week	week	NN	pos2=NNP	9	dep	_	U-DATE
+3	-	-	HYPH	_	2	punct	_	O
+4	in	in	IN	_	2	prep	_	O
+5	-	-	HYPH	_	4	punct	_	O
+6	Review	review	NN	pos2=NNP	4	pobj	_	O
+7	:	:	:	_	9	punct	_	O
+8	Astros	astros	NNPS	pos2=NNS	9	compound	_	U-ORG
+9	sign	sign	NN	pos2=VB	11	compound	_	O
+10	Josh	josh	NNP	_	11	compound	_	B-PERSON
+11	Reddick	reddick	NNP	_	14	vocative	_	L-PERSON
+12	,	,	,	_	14	punct	_	O
+13	Marlins	marlin	NNPS	pos2=NNP	14	nsubj	_	U-ORG
+14	want	want	VBP	_	0	root	_	O
+15	Kenley	kenley	NNP	_	16	compound	_	B-PERSON
+16	Jansen	jansen	NNP	_	20	dep	_	L-PERSON
+17	via	via	IN	_	16	prep	_	O
+18	@SportfusionApps	@sportfusionapps	GW	pos2=NNPS	17	pobj	_	O
+19	#MLBTrades	#mlbtrades	ADD	pos2=GW	20	nmod	_	O
+20	Newshttps://t.co/LsnSjlQ2Mf	#hlink#	ADD	_	14	ccomp	_	O
+

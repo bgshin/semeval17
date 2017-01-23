@@ -1,0 +1,21 @@
+1	Very	very	RB	_	2	advmod	_	O
+2	cool	cool	JJ	_	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	Move	move	VB	pos2=NN	9	advcl	_	O
+2	over	over	RB	pos2=RP	1	advmod	_	O
+3	,	,	,	_	9	punct	_	O
+4	self-driving	self-driving	JJ	pos2=VBG	5	nmod	_	O
+5	cars	car	NNS	_	1	dobj	_	O
+6	—	-	:	pos2=HYPH	9	punct	_	O
+7	MIT	mit	NNP	pos2=NN	9	nsubj	_	U-ORG
+8	is	be	VBZ	_	9	aux	_	O
+9	working	work	VBG	_	0	root	_	O
+10	on	on	IN	_	9	prep	_	O
+11	autonomous	autonomous	JJ	_	12	nmod	_	O
+12	boats	boat	NNS	_	10	pobj	_	O
+13	https://t.co/oIcNPuvuUy	#hlink#	ADD	pos2=VBP	9	punct	_	O
+14	#selfdriving	#selfdriving	VBG	pos2=-RRB-	9	advcl	_	O
+15	…	…	NFP	pos2=-LRB-	9	punct	_	O
+16	https://t.co/3M8xh4Qzrp	#hlink#	ADD	_	9	dep	_	O
+

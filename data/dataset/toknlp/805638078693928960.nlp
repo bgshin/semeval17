@@ -1,0 +1,29 @@
+1	Yes	yes	UH	_	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	support	support	VBP	pos2=NN	0	root	_	O
+4	equality	equality	NN	_	3	dobj	_	O
+5	for	for	IN	_	4	prep	_	O
+6	ALL	all	DT	pos2=NN	5	pobj	_	O
+7	and	and	CC	_	4	cc	_	O
+8	love	love	NN	pos2=VBP	4	conj	_	O
+9	gay	gay	JJ	pos2=NN	11	nmod	_	O
+10	marriage	marriage	NN	_	11	compound	_	O
+11	LAW	law	NN	pos2=NNP	8	dobj	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	No	no	UH	pos2=DT	5	discourse	_	O
+2	you	you	PRP	_	5	nsubj	_	O
+3	wo	wo	MD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	overturn	overturn	VB	_	0	root	_	O
+6	it	it	PRP	_	5	dobj	_	O
+7	because	because	IN	_	9	mark	_	O
+8	you	you	PRP	_	9	nsubj	_	O
+9	are	be	VBP	_	5	advcl	_	O
+10	scared	scared	JJ	pos2=VBN	9	acomp	_	O
+11	of	of	IN	_	10	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	LG	lg	NNP	pos2=NN	11	pobj	_	U-ORG
+14	…	…	NFP	pos2=NNP	15	punct	_	O
+15	https://t.co/sZamHEwc2Y	#hlink#	ADD	_	9	dep	_	U-ORG
+

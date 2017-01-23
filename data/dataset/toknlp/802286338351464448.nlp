@@ -1,0 +1,34 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	fully	fully	RB	_	2	advmod	_	O
+4	on	on	IN	_	2	prep	_	O
+5	board	board	NN	_	4	pobj	_	O
+6	for	for	IN	_	2	prep	_	O
+7	self	self	NN	_	8	npadvmod	_	O
+8	driving	drive	VBG	pos2=NN	6	pcomp	_	O
+9	cars	car	NNS	_	8	dobj	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	Set	set	VB	pos2=VBD	0	root	_	O
+2	a	a	DT	_	3	det	_	O
+3	destination	destination	NN	_	1	dobj	_	O
+4	&	&	CC	_	3	cc	_	O
+5	just	just	RB	_	6	advmod	_	O
+6	chill	chill	NN	pos2=VB	3	conj	_	O
+7	or	or	CC	_	1	cc	_	O
+8	get	get	VB	_	1	conj	_	O
+9	yourself	yourself	PRP	_	10	nsubj	_	O
+10	ready	ready	JJ	_	8	ccomp	_	O
+11	or	or	CC	pos2=TO	8	cc	_	O
+12	eat	eat	VB	pos2=VBP	8	conj	_	O
+13	until	until	IN	_	15	mark	_	O
+14	you	you	PRP	_	15	nsubj	_	O
+15	get	get	VBP	pos2=VB	12	advcl	_	O
+16	there	there	RB	_	15	advmod	_	O
+17	.	.	.	_	1	punct	_	O
+
+1	Save	save	VB	_	0	root	_	O
+2	so	so	RB	_	3	advmod	_	O
+3	much	much	JJ	_	4	nmod	_	O
+4	time	time	NN	_	1	dobj	_	O
+

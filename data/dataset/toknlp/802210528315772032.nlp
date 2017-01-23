@@ -1,0 +1,13 @@
+1	@mike_pence	@mike_pence	NN	pos2=``	5	vocative	_	O
+2	Please	please	UH	_	5	discourse	_	O
+3	do	do	VB	pos2=VBP	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	push	push	VB	_	0	root	_	O
+6	for	for	IN	_	5	prep	_	O
+7	Romney	romney	NNP	_	6	pobj	_	U-PERSON
+8	for	for	IN	_	5	prep	_	O
+9	Secretary	secretary	NNP	_	8	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	State	state	NNP	_	10	pobj	_	U-ORG
+12	.	.	.	_	5	punct	_	O
+

@@ -1,0 +1,23 @@
+1	Euthanasia	euthanasia	NN	pos2=NNP	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	alcoholics	alcoholic	NNS	_	2	pobj	_	O
+4	?!	?!	.	_	1	punct	_	O
+
+1	When	when	WRB	_	4	advmod	_	O
+2	life	life	NN	_	4	nsubjpass	_	O
+3	is	be	VBZ	_	4	auxpass	_	O
+4	devalued	devalue	VBN	_	6	advcl	_	O
+5	this	this	DT	_	6	nsubj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	what	what	WP	_	9	nsubj	_	O
+8	can	can	MD	_	9	aux	_	O
+9	happen	happen	VB	_	6	ccomp	_	O
+10	,	,	,	_	13	punct	_	O
+11	all	all	DT	_	12	det	_	O
+12	life	life	NN	_	13	nsubj	_	O
+13	is	be	VBZ	_	6	conj	_	O
+14	valuable	valuable	JJ	_	15	nmod	_	O
+15	@LiveActionNews	@liveactionnews	NNS	pos2=GW	13	attr	_	O
+16	…	…	NFP	pos2=-LRB-	17	punct	_	O
+17	https://t.co/9inKLxXqv5	#hlink#	ADD	pos2=NN	13	punct	_	O
+

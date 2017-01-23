@@ -1,0 +1,18 @@
+1	@AIIAmericanGirI	@aiiamericangiri	ADD	pos2=NN	10	punct	_	O
+2	@flamethrower82	@flamethrower0	NN	pos2=CD	3	compound	_	O
+3	@DeplorableJames	@deplorablejames	NNS	pos2=ADD	1	dobj	_	O
+4	@	@	SYM	pos2=CC	3	punct	_	O
+5	3rdReiched	0rdreiched	VBN	pos2=NN	6	nmod	_	O
+6	@ccd9764e57fc4ee	@ccd0e0fc0ee	NN	pos2=CD	8	compound	_	B-ORG
+7	@Cernovich	@cernovich	NNP	pos2=WDT	8	compound	_	I-ORG
+8	Firecrackers	firecracker	NNPS	pos2=NNS	10	nsubj	_	L-ORG
+9	will	will	MD	_	10	aux	_	O
+10	get	get	VB	_	0	root	_	O
+11	you	you	PRP	_	10	dative	_	O
+12	the	the	DT	_	14	det	_	O
+13	death	death	NN	_	14	compound	_	O
+14	penalty	penalty	NN	_	10	dobj	_	O
+15	in	in	IN	_	10	prep	_	O
+16	CA	ca	NN	pos2=NNP	15	pobj	_	O
+17	!	!	.	_	10	punct	_	O
+

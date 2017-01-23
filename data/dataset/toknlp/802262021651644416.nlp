@@ -1,0 +1,8 @@
+1	Check	check	VB	_	0	root	_	O
+2	out	out	RP	_	1	prt	_	O
+3	this	this	DT	_	6	det	_	O
+4	very	very	RB	_	5	advmod	_	O
+5	nice	nice	JJ	_	6	nmod	_	O
+6	product	product	NN	_	1	dobj	_	O
+7	https://t.co/7BRuLIL3oA	#hlink#	ADD	_	1	dep	_	O
+

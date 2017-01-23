@@ -1,0 +1,29 @@
+1	ICYMI	icymi	NN	_	9	dep	_	O
+2	:	:	:	_	9	punct	_	O
+3	Last	last	JJ	_	4	nmod	_	B-TIME
+4	night	night	NN	_	9	poss	_	I-TIME
+5	's	's	POS	pos2=AFX	4	case	_	L-TIME
+6	'	'	``	pos2=''	9	punct	_	O
+7	All	all	PDT	pos2=NNP	9	predet	_	O
+8	That	that	DT	_	9	det	_	O
+9	Jazz	jazz	NN	pos2=NNP	0	root	_	O
+10	'	'	''	_	9	punct	_	O
+11	with	with	IN	_	9	prep	_	O
+12	@	@	SYM	pos2=CC	13	punct	_	O
+13	1280Spence	0spence	NN	pos2=NNP	11	pobj	_	O
+14	&	&	CC	_	13	cc	_	O
+15	@Davefox2	@davefox0	NN	pos2=NNS	13	conj	_	O
+16	,	,	,	_	9	punct	_	O
+17	to	to	TO	_	18	aux	_	O
+18	celebrate	celebrate	VB	_	9	advcl	_	O
+19	the	the	DT	_	20	det	_	O
+20	@utahjazz	@utahjazz	NNPS	pos2=NNP	22	poss	_	O
+21	's	's	POS	pos2=PRP	20	case	_	O
+22	win	win	VB	pos2=NN	18	conj	_	O
+23	a	a	DT	_	24	det	_	O
+24	little	little	JJ	pos2=NN	25	npadvmod	_	O
+25	more	more	JJR	pos2=RBR	22	dobj	_	O
+26	.	.	.	_	9	punct	_	O
+
+1	https://t.co/VHZdyrB02S	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,29 @@
+1	@chinbeard	@chinbeard	UH	pos2=VB	6	discourse	_	O
+2	How	how	WRB	_	7	advmod	_	O
+3	about	about	IN	pos2=RB	4	qmod	_	O
+4	3	0	CD	_	5	nmod	_	O
+5	D	d	NN	pos2=NNP	9	nmod	_	O
+6	printing	print	VBG	pos2=NN	0	root	_	O
+7	tiny	tiny	JJ	_	9	nmod	_	O
+8	beer	beer	NN	_	9	compound	_	O
+9	cans	can	NNS	_	6	dobj	_	O
+10	for	for	IN	_	6	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	cooler	cool	JJR	pos2=NN	10	pobj	_	O
+13	on	on	IN	_	12	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	roof	roof	NN	_	13	pobj	_	O
+16	...	..	.	pos2=,	12	punct	_	O
+
+1	the	the	DT	_	2	det	_	O
+2	one	#crd#	NN	pos2=CD	8	nsubj	_	O
+3	next	next	RB	pos2=JJ	2	advmod	_	O
+4	to	to	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	car	car	NN	_	4	pobj	_	O
+7	might	might	MD	_	8	aux	_	O
+8	be	be	VB	_	0	root	_	O
+9	too	too	RB	_	10	advmod	_	O
+10	big	big	JJ	_	8	acomp	_	O
+11	:D	:d	NFP	pos2=NN	8	discourse	_	O
+

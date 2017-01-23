@@ -1,0 +1,10 @@
+1	Tandoori	tandoori	NNP	pos2=JJ	2	compound	_	B-ORG
+2	Fries	fry	NNPS	pos2=NNS	9	dep	_	L-ORG
+3	for	for	IN	_	2	prep	_	O
+4	#NationalFastFoodDay	#nationalfastfoodday	NNP	pos2=NN	9	dep	_	B-ORG
+5	#FastFood	#fastfood	NNP	pos2=GW	9	dep	_	I-ORG
+6	#Potatoes	#potatoes	NNP	pos2=GW	9	dep	_	L-ORG
+7	#frenchfries	#frenchfries	GW	pos2=NNS	9	nmod	_	O
+8	https://t.co/QSYltFttIw	#hlink#	ADD	_	9	nmod	_	O
+9	https://t.co/uTrKc1nOcI	#hlink#	ADD	_	0	root	_	U-ORG
+

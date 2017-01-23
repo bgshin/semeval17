@@ -1,0 +1,24 @@
+1	Again	again	RB	_	6	advmod	_	O
+2	,	,	,	_	6	punct	_	O
+3	just	just	RB	_	6	advmod	_	O
+4	so	so	IN	pos2=RB	6	mark	_	O
+5	we	we	PRP	_	6	nsubj	_	O
+6	're	be	VBP	_	0	root	_	O
+7	clear	clear	JJ	_	6	acomp	_	O
+8	.	.	.	_	6	punct	_	O
+
+1	Banning	ban	VBG	_	5	csubj	_	O
+2	abortion	abortion	NN	_	1	dobj	_	O
+3	does	do	VBZ	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	stop	stop	VB	_	11	ccomp	_	O
+6	it	it	PRP	_	7	nsubj	_	O
+7	happening	happen	VBG	_	5	ccomp	_	O
+8	,	,	,	_	11	punct	_	O
+9	it	it	PRP	_	11	nsubj	_	O
+10	just	just	RB	_	11	advmod	_	O
+11	makes	make	VBZ	_	0	root	_	O
+12	it	it	PRP	_	13	nsubj	_	O
+13	unsafe	unsafe	JJ	_	11	ccomp	_	O
+14	.	.	.	_	11	punct	_	O
+

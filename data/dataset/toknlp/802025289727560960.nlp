@@ -1,0 +1,21 @@
+1	One	#crd#	CD	_	2	nmod	_	U-CARDINAL
+2	day	day	NN	_	4	npadvmod	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	want	want	VBP	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	be	be	VB	_	4	xcomp	_	O
+7	as	as	RB	_	8	advmod	_	O
+8	cool	cool	JJ	_	6	acomp	_	O
+9	as	as	IN	_	8	prep	_	O
+10	David	david	NNP	_	11	compound	_	B-PERSON
+11	Blaine	blaine	NNP	_	12	nsubj	_	L-PERSON
+12	walking	walk	VBG	pos2=VBD	9	pcomp	_	O
+13	down	down	IN	_	12	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	street	street	NN	_	13	pobj	_	O
+16	in	in	IN	_	15	prep	_	O
+17	NYC	nyc	NNP	_	16	pobj	_	U-GPE
+18	with	with	IN	_	12	prep	_	O
+19	an	an	DT	_	20	det	_	O
+20	iguana	iguana	NN	_	18	pobj	_	O
+

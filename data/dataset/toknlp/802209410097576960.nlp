@@ -1,0 +1,32 @@
+1	Ask	ask	VB	_	0	root	_	O
+2	any	any	DT	_	4	det	_	O
+3	EU	eu	NNP	pos2=NN	4	compound	_	U-ORG
+4	leader	leader	NN	_	1	dobj	_	O
+5	what	what	WP	_	8	dobj	_	O
+6	they	they	PRP	_	8	nsubj	_	O
+7	'd	would	MD	_	8	aux	_	O
+8	think	think	VB	_	1	ccomp	_	O
+9	if	if	IN	_	11	mark	_	O
+10	Putin	putin	NNP	_	11	nsubj	_	U-PERSON
+11	called	call	VBD	_	8	advcl	_	O
+12	them	them	PRP	_	11	dobj	_	O
+13	genius	genius	NN	_	11	oprd	_	O
+14	and	and	CC	_	11	cc	_	O
+15	was	be	VBD	_	11	conj	_	O
+16	syrupy	syrupy	JJ	_	15	acomp	_	O
+17	.	.	.	_	1	punct	_	O
+
+1	They	they	PRP	_	3	nsubj	_	O
+2	'd	would	MD	_	3	aux	_	O
+3	say	say	VB	_	0	root	_	O
+4	:	:	:	_	3	punct	_	O
+5	danger	danger	NN	_	0	root	_	O
+6	/	/	SYM	pos2=,	7	punct	_	O
+7	hidden	hidden	JJ	pos2=VBN	8	nmod	_	O
+8	agenda	agenda	NN	_	5	appos	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	O	o	UH	pos2=GW	3	discourse	_	O
+2	…	…	NFP	pos2=-LRB-	3	punct	_	O
+3	https://t.co/2wR33bxhPY	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,20 @@
+1	Zac	zac	NNP	_	2	compound	_	B-PERSON
+2	Efron	efron	NNP	_	7	nsubj	_	L-PERSON
+3	&	&	CC	_	2	cc	_	O
+4	Seth	seth	NNP	_	6	compound	_	B-PERSON
+5	Rogen	rogen	NNP	_	6	compound	_	L-PERSON
+6	Both	both	NNP	pos2=DT	2	conj	_	O
+7	Have	have	VBP	pos2=NNP	0	root	_	O
+8	Abs	abs	NNP	pos2=NN	7	dobj	_	O
+9	--	--	:	pos2=SYM	8	punct	_	O
+10	Kinda	kinda	RB	pos2=NNP	19	dep	_	O
+11	--	--	:	pos2=,	8	punct	_	O
+12	In	in	IN	_	19	prep	_	O
+13	First	#ord#	NNP	pos2=JJ	14	compound	_	U-ORDINAL
+14	Official	official	NNP	pos2=JJ	15	compound	_	O
+15	Neighbors	neighbor	NNS	pos2=NNPS	12	pobj	_	O
+16	2	0	CD	pos2=GW	19	dep	_	O
+17	#ZacEfron	#zacefron	GW	pos2=ADD	19	nmod	_	O
+18	https://t.co/Sla7EtUL3f	#hlink#	ADD	_	19	nmod	_	O
+19	https://t.co/zWvLBNcERe	#hlink#	ADD	_	8	appos	_	U-ORG
+

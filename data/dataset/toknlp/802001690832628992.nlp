@@ -1,0 +1,33 @@
+1	((	((	SYM	pos2=NFP	5	punct	_	O
+2	-	-	SYM	pos2=:	5	punct	_	O
+3	Pre-Persona	pre-persona	NNP	pos2=NN	5	nmod	_	O
+4	5	0	CD	_	5	nmod	_	U-CARDINAL
+5	timeline	timeline	NN	_	0	root	_	O
+6	!	!	.	_	5	punct	_	O
+
+1	-	-	SYM	pos2=DT	2	punct	_	O
+2	Multiverse	multiverse	NN	pos2=NNP	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	're	be	VBP	_	0	root	_	O
+3	all	all	PDT	pos2=DT	6	predet	_	O
+4	a	a	DT	_	6	det	_	O
+5	big	big	JJ	_	6	nmod	_	O
+6	family	family	NN	_	2	attr	_	O
+7	!	!	.	_	2	punct	_	O
+
+1	-	-	SYM	pos2=:	4	punct	_	O
+2	Occasional	occasional	JJ	pos2=NNP	4	nmod	_	O
+3	Writer	writer	NN	pos2=NNP	4	compound	_	O
+4	bluff	bluff	NN	pos2=NNP	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	-	-	SYM	pos2=,	2	punct	_	O
+2	Detailed	detailed	JJ	pos2=VBN	7	nmod	_	O
+3	as	as	IN	_	5	mark	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	ar	ar	VBP	pos2=GW	2	advcl	_	O
+6	…	…	NFP	pos2=-LRB-	7	punct	_	O
+7	https://t.co/Lpitf0XpFF	#hlink#	ADD	_	0	root	_	O
+

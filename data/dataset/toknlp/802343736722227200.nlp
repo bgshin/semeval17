@@ -1,0 +1,24 @@
+1	Because	because	IN	_	3	mark	_	O
+2	Trump	trump	NNP	pos2=NN	3	nsubj	_	U-PERSON
+3	won	win	VBD	_	11	advcl	_	O
+4	the	the	DT	_	5	det	_	O
+5	election	election	NN	_	6	compound	_	O
+6	fair	fair	JJ	pos2=NN	3	dobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	square	square	JJ	pos2=VBP	6	conj	_	O
+9	you	you	PRP	_	11	nsubj	_	O
+10	are	be	VBP	_	11	aux	_	O
+11	going	go	VBG	_	0	root	_	O
+12	to	to	TO	_	13	aux	_	O
+13	protest	protest	VB	_	11	xcomp	_	O
+14	and	and	CC	_	13	cc	_	O
+15	disrupt	disrupt	VB	_	13	conj	_	O
+16	.	.	.	_	11	punct	_	O
+
+1	Nice	nice	JJ	pos2=NNP	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Sore	sore	JJ	_	2	nmod	_	O
+2	loser	loser	NN	_	3	dep	_	O
+3	https://t.co/e3YaOWr8o3	#hlink#	ADD	pos2=NN	0	root	_	O
+

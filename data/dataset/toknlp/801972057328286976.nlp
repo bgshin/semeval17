@@ -1,0 +1,25 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@Idubbbz	@idubbbz	NNP	pos2=XX	2	compound	_	O
+2	@elizabethforma	@elizabethforma	NN	pos2=GW	4	dep	_	O
+3	-	-	:	pos2=HYPH	4	punct	_	O
+4	https://t.co/Q3smZD6tmS:	#hlink#	ADD	pos2=NNP	0	root	_	O
+5	If	if	IN	_	9	mark	_	O
+6	you	you	PRP	_	9	nsubj	_	O
+7	do	do	VBP	_	9	aux	_	O
+8	n't	not	RB	_	9	neg	_	O
+9	think	think	VB	_	4	advcl	_	O
+10	this	this	DT	_	11	nsubj	_	O
+11	is	be	VBZ	_	9	ccomp	_	O
+12	how	how	WRB	_	17	advmod	_	O
+13	a	a	DT	_	15	det	_	O
+14	President	president	NNP	_	15	compound	_	O
+15	Trump	trump	NNP	pos2=NN	17	nsubj	_	U-PERSON
+16	would	would	MD	_	17	aux	_	O
+17	say	say	VB	_	11	ccomp	_	O
+18	my	my	PRP$	_	20	poss	_	O
+19	horny	horny	JJ	pos2=NN	20	nmod	_	O
+20	level	level	NN	_	21	nsubj	_	O
+21	is	be	VBZ	_	17	ccomp	_	O
+22	7	0	CD	_	21	attr	_	U-CARDINAL
+

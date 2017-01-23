@@ -1,0 +1,12 @@
+1	When	when	WRB	_	5	advmod	_	O
+2	Kiria	kiria	NNP	pos2=PRP	5	nsubj	_	U-PERSON
+3	ca	can	MD	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	sleep	sleep	VB	_	6	discourse	_	O
+6	guess	guess	VB	_	0	root	_	O
+7	who	who	WP	_	9	dobj	_	O
+8	she	she	PRP	_	9	nsubj	_	O
+9	keep	keep	VB	pos2=VBP	6	ccomp	_	O
+10	up	up	RP	_	9	prt	_	O
+11	🙇🏽‍♀️	🙇🏽‍♀️	.	pos2=NNP	6	punct	_	O
+

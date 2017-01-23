@@ -1,0 +1,17 @@
+1	@PamelaC98005667	@pamelac0	NN	pos2=NNS	5	vocative	_	O
+2	@MariOlsdatter	@mariolsdatter	WP	pos2=NN	5	nsubj	_	O
+3	do	do	VBP	pos2=VB	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	forget	forget	VB	_	0	root	_	O
+6	that	that	DT	pos2=IN	8	det	_	O
+7	minimum	minimum	JJ	_	8	nmod	_	O
+8	wage	wage	NN	_	11	nsubjpass	_	O
+9	is	be	VBZ	_	11	auxpass	_	O
+10	not	not	RB	_	11	neg	_	O
+11	meant	mean	VBN	_	5	ccomp	_	O
+12	to	to	TO	_	13	aux	_	O
+13	be	be	VB	_	11	xcomp	_	O
+14	a	a	DT	_	16	det	_	O
+15	living	living	NN	pos2=VBG	16	compound	_	O
+16	wage	wage	NN	_	13	attr	_	O
+

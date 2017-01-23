@@ -1,0 +1,31 @@
+1	Thank	thank	VBP	_	0	root	_	O
+2	u	u	PRP	pos2=RP	1	dobj	_	O
+3	for	for	IN	_	1	prep	_	O
+4	what	what	WP	_	7	dobj	_	O
+5	,	,	,	_	1	punct	_	O
+6	for	for	IN	_	1	prep	_	O
+7	bailing	bail	VBG	_	6	pcomp	_	O
+8	out	out	RP	_	7	prt	_	O
+9	rogue	rogue	JJ	pos2=NN	10	nmod	_	O
+10	banks	bank	NNS	_	7	dobj	_	O
+11	?	?	.	_	1	punct	_	O
+
+1	For	for	IN	_	18	prep	_	O
+2	negligence	negligence	NN	_	1	pobj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	his	his	PRP$	_	5	poss	_	O
+5	own	own	JJ	pos2=FW	3	pobj	_	O
+6	,	,	,	_	18	punct	_	O
+7	for	for	IN	_	18	prep	_	O
+8	racist	racist	JJ	_	10	nmod	_	O
+9	killer	killer	NN	_	10	compound	_	O
+10	cops	cop	NNS	_	7	pobj	_	O
+11	,	,	,	_	18	punct	_	O
+12	for	for	IN	_	18	prep	_	O
+13	war	war	NN	_	14	compound	_	O
+14	crimes	crime	NNS	_	12	pobj	_	O
+15	,	,	,	_	18	punct	_	O
+16	f	f	GW	pos2=IN	18	nmod	_	O
+17	…	…	NFP	pos2=GW	18	punct	_	O
+18	https://t.co/43yLwDMnHL	#hlink#	ADD	pos2=NN	0	root	_	O
+

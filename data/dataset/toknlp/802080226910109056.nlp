@@ -1,0 +1,15 @@
+1	@DisneyPixar	@disneypixar	XX	pos2=ADD	6	dep	_	O
+2	@DisneyFR	@disneyfr	XX	pos2=ADD	6	dep	_	O
+3	@DisneyStudios	@disneystudios	XX	pos2=NNS	6	dep	_	O
+4	@disney	@disney	XX	pos2=UH	6	dep	_	O
+5	WE	we	PRP	_	6	nsubj	_	O
+6	WANT	want	VBP	_	0	root	_	O
+7	@celinedion	@celinedion	NN	pos2=PRP	6	dobj	_	O
+8	FOR	for	IN	_	7	prep	_	O
+9	THE	the	DT	_	10	det	_	O
+10	SOUNDTRACK	soundtrack	NN	_	8	pobj	_	O
+11	!	!	.	_	6	punct	_	O
+
+1	#BeautyAndTheBeast	#beautyandthebeast	ADD	pos2=XX	0	root	_	O
+2	#disney	#disney	UH	pos2=NN	1	discourse	_	O
+

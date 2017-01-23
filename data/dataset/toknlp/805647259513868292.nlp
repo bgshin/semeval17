@@ -1,0 +1,12 @@
+1	Lol	lol	UH	pos2=NNP	5	discourse	_	O
+2	@	@	SYM	pos2=:	3	punct	_	O
+3	people	people	NNS	_	0	root	_	O
+4	who	who	WP	_	5	nsubj	_	O
+5	think	think	VBP	_	3	relcl	_	O
+6	that	that	IN	_	10	mark	_	O
+7	vaccines	vaccine	NNS	pos2=VBZ	10	nsubj	_	O
+8	just	just	RB	_	10	advmod	_	O
+9	suddenly	suddenly	RB	_	10	advmod	_	O
+10	cause	cause	VB	_	5	ccomp	_	O
+11	autism	autism	NN	_	10	dobj	_	O
+

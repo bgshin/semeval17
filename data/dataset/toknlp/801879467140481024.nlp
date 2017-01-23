@@ -1,0 +1,14 @@
+1	Suarez	suarez	NNP	_	7	dep	_	U-PERSON
+2	on	on	IN	_	1	prep	_	O
+3	twitter	twitter	NN	pos2=NNP	2	pobj	_	O
+4	:	:	:	_	7	punct	_	O
+5	"	"	``	_	7	punct	_	O
+6	YNWA	ynwa	NNP	pos2=NN	7	compound	_	O
+7	#StevenGerrard	#stevengerrard	NN	pos2=''	0	root	_	O
+8	"	"	''	_	7	punct	_	O
+9	[	[	-LRB-	_	10	punct	_	O
+10	@LuisSuarez9	@luissuarez0	NN	pos2=ADD	7	appos	_	O
+11	]	]	-RRB-	_	10	punct	_	O
+12	#FCBlive	#fcblive	ADD	pos2=GW	13	punct	_	O
+13	https://t.co/ADgUx2dGiV	#hlink#	ADD	pos2=NN	7	appos	_	U-ORG
+

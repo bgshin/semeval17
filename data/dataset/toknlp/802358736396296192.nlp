@@ -1,0 +1,29 @@
+1	@SDC0914	@sdc0	NN	pos2=LS	2	compound	_	O
+2	@rejialex7	@rejialex0	NN	pos2=WDT	3	nsubj	_	O
+3	Look	look	VB	pos2=NNP	0	root	_	O
+4	at	at	IN	_	3	prep	_	O
+5	Romney	romney	NNP	_	7	poss	_	U-ORG
+6	's	's	POS	_	5	case	_	O
+7	TL.	tl.	NNP	_	4	pobj	_	O
+8	Not	not	RB	_	9	neg	_	O
+9	one	#crd#	CD	_	10	nmod	_	O
+10	word	word	NN	_	7	appos	_	O
+11	about	about	IN	_	10	prep	_	O
+12	Trump	trump	NNP	pos2=NN	15	poss	_	U-ORG
+13	's	's	POS	_	12	case	_	O
+14	cabinet	cabinet	NN	_	15	compound	_	O
+15	picks	pick	NNS	pos2=VBZ	11	pobj	_	O
+16	.	.	.	_	3	punct	_	O
+
+1	No	no	DT	_	2	det	_	O
+2	congratulations	congratulation	NNS	_	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	nothing	nothing	NN	_	2	appos	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	snake	snake	NN	_	2	attr	_	O
+5	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,22 @@
+1	Uno	uno	NNP	pos2=FW	2	compound	_	U-ORG
+2	menos	menos	NN	pos2=NNP	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Now	now	RB	_	3	advmod	_	O
+2	#Lat	#lat	PRP	pos2=NNP	3	nsubj	_	O
+3	have	have	VBP	_	0	root	_	O
+4	three	#crd#	CD	_	0	root	_	U-CARDINAL
+5	more	more	JJR	pos2=RBR	4	qmod	_	O
+6	left	left	JJ	pos2=NN	4	nmod	_	O
+7	to	to	TO	_	8	aux	_	O
+8	die	die	VB	_	6	xcomp	_	O
+9	:	:	:	_	4	punct	_	O
+10	Raul	raul	NNP	_	7	pcomp	_	U-PERSON
+11	,	,	,	_	10	punct	_	O
+12	Maduro	maduro	NNP	_	10	conj	_	U-PERSON
+13	and	and	CC	_	12	cc	_	O
+14	Morales	morales	NNP	pos2=NNPS	12	conj	_	U-PERSON
+15	.	.	.	_	3	punct	_	O
+
+1	https://t.co/tJtdisvVbr	#hlink#	ADD	_	0	root	_	U-ORG
+

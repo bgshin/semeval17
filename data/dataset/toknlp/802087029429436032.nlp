@@ -1,0 +1,28 @@
+1	1.	0.	LS	_	2	meta	_	U-CARDINAL
+2	Tweet	tweet	VB	pos2=NNP	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	Beauty	beauty	NNP	pos2=NN	2	dobj	_	B-WORK_OF_ART
+5	and	and	CC	_	4	cc	_	I-WORK_OF_ART
+6	the	the	DT	_	8	det	_	I-WORK_OF_ART
+7	Beast	beast	NNP	_	8	compound	_	I-WORK_OF_ART
+8	cast2	cast0	NN	pos2=NNP	4	conj	_	L-WORK_OF_ART
+9	.	.	.	_	2	punct	_	O
+
+1	Request	request	NN	pos2=VB	2	compound	_	O
+2	@celinedion	@celinedion	NN	pos2=ADD	4	nsubj	_	O
+3	to	to	TO	_	4	aux	_	O
+4	sing	sing	VB	_	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	theme	theme	NN	_	7	compound	_	O
+7	song3	song0	NN	pos2=NNP	4	dobj	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	Do	do	VB	pos2=VBP	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	forget	forget	VB	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	use	use	VB	_	3	xcomp	_	O
+6	the	the	DT	_	8	det	_	O
+7	#Beautyandthebeast	#beautyandthebeast	NNP	pos2=NN	8	compound	_	U-PRODUCT
+8	hashtag	hashtag	NN	_	5	dobj	_	O
+

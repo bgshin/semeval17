@@ -1,0 +1,17 @@
+1	Many	many	JJ	_	2	nmod	_	O
+2	rightists	rightist	NNS	_	3	nsubj	_	O
+3	say	say	VBP	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	person	person	NN	_	7	nsubj	_	O
+6	is	be	VBZ	_	7	aux	_	O
+7	reacting	react	VBG	_	3	ccomp	_	O
+8	emotionally	emotionally	RB	_	7	advmod	_	O
+9	when	when	WRB	_	13	advmod	_	O
+10	a	a	DT	_	11	det	_	O
+11	person	person	NN	_	13	nsubj	_	O
+12	is	be	VBZ	_	13	aux	_	O
+13	trying	try	VBG	_	7	advcl	_	O
+14	to	to	TO	_	15	aux	_	O
+15	engage	engage	VB	_	13	xcomp	_	O
+16	.	.	.	_	3	punct	_	O
+

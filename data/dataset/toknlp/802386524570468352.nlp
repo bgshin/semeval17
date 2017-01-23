@@ -1,0 +1,25 @@
+1	@kevinmccauley	@kevinmccauley	UH	pos2=``	3	discourse	_	O
+2	There	there	EX	_	3	expl	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	bunch	bunch	NN	_	6	compound	_	O
+6	but:Pain	but:pain	NN	pos2=NNP	3	attr	_	O
+7	in	in	IN	_	6	prep	_	O
+8	My	my	PRP$	_	9	poss	_	B-ORG
+9	HeartMBDTF	heartmbdtf	NNP	pos2=NN	7	pobj	_	I-ORG
+10	&	&	CC	_	9	cc	_	I-ORG
+11	College	college	NNP	_	12	compound	_	I-ORG
+12	DropoutFreewheelin	dropoutfreewheelin	NNP	_	9	conj	_	I-ORG
+13	'	'	POS	pos2=``	12	case	_	L-ORG
+14	Bob	bob	NNP	_	15	compound	_	O
+15	DylanRidin	dylanridin	NNP	_	17	poss	_	O
+16	'	'	POS	pos2=``	15	case	_	O
+17	Dirty	dirty	NNP	pos2=JJ	21	nmod	_	O
+18	(	(	-LRB-	_	19	punct	_	O
+19	H	h	NN	pos2=NNP	17	appos	_	O
+20	-	-	HYPH	pos2=:	19	punct	_	O
+21	Town	town	NNP	pos2=NN	23	nmod	_	O
+22	)	)	-RRB-	_	23	punct	_	O
+23	Pet	pet	NNP	pos2=NN	24	nsubj	_	O
+24	Sounds	sound	VBZ	pos2=NNS	0	root	_	O
+

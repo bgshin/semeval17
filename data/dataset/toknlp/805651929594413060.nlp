@@ -1,0 +1,21 @@
+1	@TANSTAAFL23	@tanstaafl0	NN	pos2=LS	2	dep	_	O
+2	@QuantumFlux1964	@quantumflux0	LS	pos2=IN	5	meta	_	O
+3	Scotland	scotland	NNP	_	5	nsubj	_	U-GPE
+4	only	only	RB	_	5	advmod	_	O
+5	needed	need	VBD	_	0	root	_	O
+6	one	#crd#	CD	pos2=NN	7	nmod	_	U-CARDINAL
+7	mass	mass	NN	_	8	compound	_	O
+8	shooting	shooting	NN	_	5	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	kids	kid	NNS	_	9	pobj	_	O
+11	to	to	TO	pos2=IN	12	aux	_	O
+12	institute	institute	VB	pos2=JJ	5	advcl	_	O
+13	real	real	JJ	_	15	nmod	_	O
+14	gun	gun	NN	_	15	compound	_	O
+15	control	control	NN	_	12	dobj	_	O
+16	.	.	.	_	5	punct	_	O
+
+1	#Newtown	#newtown	NNP	pos2=XX	2	compound	_	B-PERSON
+2	#Dunblane	#dunblane	NNP	pos2=NN	0	root	_	L-PERSON
+3	#gunsense	#gunsense	UH	pos2=ADD	2	discourse	_	O
+

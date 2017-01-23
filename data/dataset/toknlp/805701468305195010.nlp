@@ -1,0 +1,23 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	need	need	VBP	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	make	make	VB	_	2	xcomp	_	O
+5	a	a	DT	_	6	det	_	O
+6	t-shirt	t-shirt	NN	_	4	dobj	_	O
+7	that	that	WDT	_	8	nsubj	_	O
+8	says	say	VBZ	_	6	relcl	_	O
+9	'	'	``	_	8	punct	_	O
+10	Let	let	VB	_	8	xcomp	_	O
+11	's	's	PRP	_	12	nsubj	_	O
+12	discuss	discuss	VB	_	10	ccomp	_	O
+13	Westworld	westworld	NNP	_	12	dobj	_	O
+14	!	!	.	_	2	punct	_	O
+
+1	'	'	''	pos2=``	6	advmod	_	O
+2	and	and	CC	_	5	cc	_	O
+3	wear	wear	VB	pos2=VBP	0	root	_	O
+4	it	it	PRP	_	3	dobj	_	O
+5	practically	practically	RB	_	6	advmod	_	O
+6	daily	daily	RB	_	3	advmod	_	U-DATE
+7	.	.	.	_	6	punct	_	O
+

@@ -1,0 +1,8 @@
+1	Louie	louie	NNP	pos2=NN	2	compound	_	B-PERSON
+2	😍♥	😍♥	NNP	pos2=VBD	4	compound	_	L-PERSON
+3	#onedirection	#onedirection	ADD	pos2=NN	4	compound	_	O
+4	#MPN	#mpn	NNP	pos2=ADD	7	dep	_	B-ORG
+5	&	&	CC	_	4	cc	_	I-ORG
+6	#MtvStarsNiallHoran	#mtvstarsniallhoran	ADD	pos2=GW	4	conj	_	L-ORG
+7	https://t.co/pIbny1ujJL	#hlink#	ADD	pos2=NN	0	root	_	O
+

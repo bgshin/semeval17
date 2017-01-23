@@ -1,0 +1,26 @@
+1	@justinamash	@justinamash	UH	pos2=XX	7	discourse	_	O
+2	@_	@_	NFP	pos2=-LRB-	7	punct	_	O
+3	christiansnow	christiansnow	UH	pos2=VBZ	2	discourse	_	O
+4	all	all	PDT	pos2=DT	7	predet	_	O
+5	the	the	DT	_	7	det	_	O
+6	'	'	``	_	7	punct	_	O
+7	w	w	NNS	pos2=IN	0	root	_	O
+8	'	'	''	_	7	punct	_	O
+9	from	from	IN	_	7	prep	_	O
+10	keyboards	keyboard	NNS	_	9	pobj	_	O
+11	.	.	.	_	7	punct	_	O
+
+1	#Obama	#obama	NNP	pos2=NN	3	nsubj	_	U-ORG
+2	is	be	VBZ	_	3	aux	_	O
+3	reducing	reduce	VBG	_	0	root	_	O
+4	border	border	NN	pos2=JJ	5	compound	_	O
+5	security	security	NN	_	3	dobj	_	O
+6	with	with	IN	_	3	prep	_	O
+7	huge	huge	JJ	_	8	nmod	_	O
+8	masses	mass	NNS	_	6	pobj	_	O
+9	crossing	cross	VBG	_	8	acl	_	O
+10	over	over	RB	pos2=RP	9	advmod	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+

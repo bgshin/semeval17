@@ -1,0 +1,15 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	wish	wish	VBP	_	0	root	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	had	have	VBD	_	2	ccomp	_	O
+5	thanksgiving	thanksgiving	NN	pos2=VBG	6	compound	_	O
+6	dinner	dinner	NN	_	7	compound	_	O
+7	leftovers	leftover	NNS	_	4	dobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	eat	eat	VB	_	4	xcomp	_	O
+10	but	but	CC	_	4	cc	_	O
+11	I	I	PRP	_	12	nsubj	_	O
+12	ate	eat	VBD	pos2=VBP	4	conj	_	O
+13	all	all	DT	pos2=RB	12	dobj	_	O
+14	yesterday	yesterday	NN	_	12	npadvmod	_	U-DATE
+

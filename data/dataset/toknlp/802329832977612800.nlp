@@ -1,0 +1,19 @@
+1	#NBA	#nba	NN	pos2=ADD	0	root	_	O
+2	#Cards	#cards	IN	pos2=POS	1	prep	_	O
+3	SAN	san	NNP	pos2=NN	6	compound	_	B-GPE
+4	ANTONIO	antonio	NNP	_	6	compound	_	L-GPE
+5	#Spurs	#spurs	NNP	pos2=NNS	6	compound	_	O
+6	#Card	#card	NNP	pos2=POS	7	compound	_	O
+7	LOT	lot	NN	pos2=NNP	16	compound	_	O
+8	TIM	tim	NNP	_	9	compound	_	B-PERSON
+9	DUNCAN	duncan	NNP	_	16	compound	_	I-PERSON
+10	DAVID	david	NNP	_	16	compound	_	I-PERSON
+11	ROBINSON	robinson	NNP	_	16	compound	_	L-PERSON
+12	TONY	tony	NNP	_	16	compound	_	B-ORG
+13	PARKER	parker	NNP	_	16	compound	_	I-ORG
+14	NANDO	nando	NNP	_	16	compound	_	I-ORG
+15	DE	de	NNP	_	16	compound	_	I-ORG
+16	COLO	colo	NNP	pos2=FW	2	pobj	_	L-ORG
+17	+…	+…	IN	pos2=GW	1	prep	_	O
+18	https://t.co/FB8RFJtXye	#hlink#	ADD	_	17	pobj	_	O
+

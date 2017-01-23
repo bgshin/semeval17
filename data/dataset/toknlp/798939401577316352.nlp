@@ -1,0 +1,17 @@
+1	The	the	DT	_	5	det	_	O
+2	Great	great	JJ	pos2=NNP	5	nmod	_	O
+3	Mexican	mexican	JJ	pos2=NNP	5	nmod	_	U-NORP
+4	Wall	wall	NNP	pos2=NN	5	compound	_	O
+5	Deception	deception	NN	pos2=NNP	11	dep	_	O
+6	:	:	:	_	11	punct	_	O
+7	Trump	trump	NNP	_	10	poss	_	O
+8	's	's	POS	_	7	case	_	O
+9	America	america	NNP	_	10	compound	_	O
+10	Already	already	NNP	pos2=RB	11	nsubj	_	O
+11	Exists	exist	VBZ	_	0	root	_	O
+12	on	on	IN	_	11	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	Border	border	NNP	pos2=NN	12	pobj	_	U-LOC
+15	@alternet	@alternet	ADD	pos2=GW	16	nmod	_	O
+16	https://t.co/6vjgAftd2C	#hlink#	ADD	_	11	dep	_	O
+

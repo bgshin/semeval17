@@ -1,0 +1,19 @@
+1	When	when	WRB	_	3	advmod	_	O
+2	People	people	NNS	pos2=NNP	3	nsubj	_	O
+3	Laughed	laugh	VBD	_	11	advcl	_	O
+4	At	at	IN	_	3	prep	_	O
+5	The	the	DT	_	6	det	_	B-ORG
+6	Idea	idea	NNP	pos2=NN	4	pobj	_	I-ORG
+7	Of	of	IN	pos2=RB	6	prep	_	I-ORG
+8	#Trump	#trump	NNP	pos2=WP	7	pobj	_	L-ORG
+9	Actually	actually	RB	pos2=NNP	11	advmod	_	O
+10	Being	be	VBG	pos2=NNP	11	auxpass	_	O
+11	Elected	elect	VBN	pos2=NNP	0	root	_	O
+12	President	president	NNP	_	13	compound	_	O
+13	Compila	compila	NNP	pos2=GW	11	oprd	_	U-PERSON
+14	tionhttps://t.co/b8thk2Kp22	#hlink#	ADD	pos2=NNP	12	appos	_	O
+15	#MSM	#msm	ADD	pos2=XX	11	punct	_	U-ORG
+16	#uniteblue	#uniteblue	UH	pos2=IN	18	discourse	_	O
+17	#maga	#maga	UH	pos2=FW	18	discourse	_	O
+18	#tcot	#tcot	UH	pos2=ADD	15	pobj	_	O
+

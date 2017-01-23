@@ -1,0 +1,26 @@
+1	@AndreaChalupa	@andreachalupa	ADD	pos2=GW	6	cc	_	O
+2	@Gladari	@gladari	NNP	pos2=NNS	6	vocative	_	U-LOC
+3	It	it	PRP	_	6	nsubjpass	_	O
+4	shd	shd	MD	_	6	aux	_	O
+5	be	be	VB	_	6	auxpass	_	O
+6	bcuz	bcuz	VBN	pos2=IN	0	root	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Comey	comey	NNP	_	9	compound	_	U-PERSON
+9	factor	factor	NN	pos2=FW	7	pobj	_	O
+10	,	,	,	_	6	punct	_	O
+11	voter	voter	NN	_	12	compound	_	O
+12	suppression	suppression	NN	_	14	nmod	_	O
+13	/	/	SYM	pos2=CC	14	punct	_	O
+14	intimidation	intimidation	NN	_	19	nsubj	_	O
+15	etc	etc	FW	pos2=NN	6	advmod	_	O
+16	but	but	CC	_	6	cc	_	O
+17	Dec.	dec.	NNP	_	20	nmod	_	B-DATE
+18	19	0	CD	_	17	nmod	_	L-DATE
+19	EC	ec	NNP	pos2=NN	20	compound	_	U-ORG
+20	election	election	NN	_	22	advmod	_	O
+21	as	as	RB	pos2=IN	22	advmod	_	O
+22	good	good	JJ	_	6	conj	_	O
+23	if	if	IN	_	25	mark	_	O
+24	not	not	RB	_	25	neg	_	O
+25	corrupted	corrupt	VBN	_	6	advcl	_	O
+

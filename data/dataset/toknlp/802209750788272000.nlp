@@ -1,0 +1,15 @@
+1	Had	have	VBD	_	0	root	_	O
+2	a	a	DT	_	3	det	_	O
+3	dream	dream	NN	_	1	dobj	_	O
+4	Grayson	grayson	NNP	_	5	compound	_	B-PERSON
+5	Allen	allen	NNP	_	6	nsubj	_	L-PERSON
+6	took	take	VBD	_	3	relcl	_	O
+7	me	me	PRP	_	6	dobj	_	O
+8	on	on	IN	_	6	prep	_	O
+9	a	a	DT	_	10	det	_	O
+10	date	date	NN	_	8	pobj	_	O
+11	..	..	.	pos2=:	1	punct	_	O
+
+1	haha	haha	UH	_	2	discourse	_	O
+2	yeah	yeah	UH	_	0	root	_	O
+

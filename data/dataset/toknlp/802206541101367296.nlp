@@ -1,0 +1,5 @@
+1	Party	party	NNP	pos2=NN	3	compound	_	B-PERSON
+2	Tipp	tipp	NNP	pos2=GW	3	compound	_	I-PERSON
+3	😎😎😎🎶🎶🎶🎉🎉🎉🎉	😎😎😎🎶🎶🎶🎉🎉🎉🎉	NNP	pos2=NFP	4	dep	_	L-PERSON
+4	https://t.co/Bmn4eyPA0L	#hlink#	ADD	_	0	root	_	O
+

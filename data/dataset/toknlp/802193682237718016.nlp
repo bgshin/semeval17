@@ -1,0 +1,16 @@
+1	Chief	chief	JJ	pos2=NNP	2	nmod	_	O
+2	#UnitedNations	#unitednations	NNS	pos2=ADD	3	nsubj	_	O
+3	expresses	express	VBZ	_	0	root	_	O
+4	grave	grave	NN	pos2=JJ	3	dobj	_	O
+5	concerned	concern	VBN	pos2=JJ	4	acl	_	O
+6	over	over	IN	pos2=RP	5	prep	_	O
+7	intensified	intensify	VBN	pos2=JJ	8	nmod	_	O
+8	situation	situation	NN	_	6	pobj	_	O
+9	at	at	IN	_	8	prep	_	O
+10	#LoC	#loc	NNP	pos2=NN	9	pobj	_	U-ORG
+11	between	between	IN	_	8	prep	_	O
+12	#Pakistan	#pakistan	NNP	_	11	pobj	_	B-ORG
+13	&	&	CC	_	12	cc	_	I-ORG
+14	#India	#india	NNP	pos2=ADD	12	conj	_	L-ORG
+15	https://t.co/3NxDHh4bzu	#hlink#	ADD	pos2=NN	12	appos	_	O
+

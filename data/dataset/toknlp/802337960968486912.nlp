@@ -1,0 +1,28 @@
+1	Devils	devil	NNPS	pos2=VBZ	2	compound	_	U-ORG
+2	time	time	NN	_	9	nsubj	_	O
+3	on	on	IN	_	2	prep	_	O
+4	ice	ice	NN	_	5	compound	_	O
+5	leader	leader	NN	_	3	pobj	_	O
+6	through	through	IN	_	2	prep	_	O
+7	two	#crd#	CD	_	8	nmod	_	U-CARDINAL
+8	periods	period	NNS	_	6	pobj	_	O
+9	is	be	VBZ	_	0	root	_	O
+10	Michael	michael	NNP	_	11	compound	_	B-PERSON
+11	Cammalleri	cammalleri	NNP	_	9	attr	_	L-PERSON
+12	(	(	-LRB-	_	11	punct	_	O
+13	14:53	0	CD	_	11	npadvmod	_	U-DATE
+14	)	)	-RRB-	_	11	punct	_	O
+15	.	.	.	_	9	punct	_	O
+
+1	Greene	greene	NNP	_	6	vocative	_	U-PERSON
+2	,	,	,	_	1	punct	_	O
+3	Moore	moore	NNP	_	1	conj	_	U-PERSON
+4	and	and	CC	_	3	cc	_	O
+5	Zajac	zajac	NNP	_	3	conj	_	U-PERSON
+6	also	also	RB	_	7	advmod	_	O
+7	above	above	IN	_	11	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	14:00	0	CD	_	10	nmod	_	B-MONEY
+10	mark	mark	NN	pos2=NNS	7	pobj	_	L-MONEY
+11	.	.	.	_	0	root	_	O
+

@@ -1,0 +1,25 @@
+1	“	"	``	_	5	punct	_	O
+2	Ultimately	ultimately	RB	_	5	advmod	_	O
+3	,	,	,	_	5	punct	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	’s	's	VBZ	_	0	root	_	O
+6	about	about	IN	pos2=RB	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	team	team	NN	_	6	pobj	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	”	"	``	pos2=SYM	14	punct	_	O
+2	@JBarca	@jbarca	NN	pos2=XX	3	compound	_	O
+3	shares	share	NNS	pos2=VBZ	14	dep	_	O
+4	what	what	WP	pos2=WDT	7	dobj	_	O
+5	we	we	PRP	_	7	nsubj	_	O
+6	can	can	MD	_	7	aux	_	O
+7	learn	learn	VB	_	3	ccomp	_	O
+8	about	about	IN	_	7	prep	_	O
+9	#leadership	#leadership	NN	pos2=XX	8	pobj	_	O
+10	from	from	IN	_	9	prep	_	O
+11	Tony	tony	NNP	_	12	compound	_	B-PERSON
+12	Romo	romo	NNP	_	10	pobj	_	L-PERSON
+13	:	:	:	_	14	punct	_	O
+14	https://t.co/hMy4OxUsyy	#hlink#	ADD	pos2=NN	0	root	_	O
+

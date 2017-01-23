@@ -1,0 +1,9 @@
+1	Do	do	VBP	pos2=VB	3	aux	_	O
+2	y'all	y'all	PRP	_	3	nsubj	_	O
+3	feel	feel	VB	_	0	root	_	O
+4	bad	bad	JJ	_	3	acomp	_	O
+5	for	for	IN	_	3	prep	_	O
+6	Tony	tony	NNP	_	7	compound	_	B-PERSON
+7	Romo	romo	NNP	_	5	pobj	_	L-PERSON
+8	?	?	.	_	3	punct	_	O
+

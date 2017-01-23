@@ -1,0 +1,12 @@
+1	One	#crd#	CD	_	4	nmod	_	U-CARDINAL
+2	Tesla	tesla	NNP	_	4	compound	_	B-ORG
+3	Model	model	NNP	_	4	compound	_	I-ORG
+4	S	s	NNP	pos2=NN	5	nsubj	_	L-ORG
+5	is	be	VBZ	_	0	root	_	O
+6	all	all	DT	pos2=RB	5	attr	_	O
+7	I	I	PRP	_	8	nsubj	_	O
+8	need	need	VBP	_	6	relcl	_	O
+9	@	@	NFP	pos2=GW	11	punct	_	O
+10	1kSwingTrader	0kswingtrader	ADD	pos2=NN	11	punct	_	O
+11	https://t.co/KRYOj4zXj3	#hlink#	ADD	_	5	attr	_	U-ORG
+

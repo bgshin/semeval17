@@ -1,0 +1,11 @@
+1	@kelllicopter	@kelllicopter	UH	pos2=``	2	discourse	_	O
+2	Ask	ask	VB	_	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	their	their	PRP$	_	6	poss	_	O
+5	credit	credit	NN	_	6	compound	_	O
+6	scores	score	NNS	_	3	pobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	social	social	JJ	_	9	nmod	_	O
+9	security	security	NN	_	10	compound	_	O
+10	👍🏼	👍🏼	NN	pos2=NNP	6	conj	_	O
+

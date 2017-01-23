@@ -1,0 +1,14 @@
+1	@SamPackardNBA	@sampackardnba	UH	pos2=XX	3	discourse	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	carrying	carry	VBG	_	0	root	_	O
+4	on	on	IN	pos2=RP	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	defensive	defensive	JJ	_	7	nmod	_	O
+7	legacies	legacy	NNS	_	4	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	kg	kg	NNS	pos2=NN	8	pobj	_	O
+10	and	and	CC	_	7	cc	_	O
+11	tim	tim	NN	pos2=FW	13	nmod	_	O
+12	duncan	duncan	JJ	pos2=NNP	13	nmod	_	O
+13	nbd	nbd	NN	pos2=FW	7	conj	_	O
+

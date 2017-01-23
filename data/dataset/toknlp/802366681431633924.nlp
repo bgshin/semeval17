@@ -1,0 +1,8 @@
+1	@GOPCatLady	@gopcatlady	ADD	pos2=GW	4	punct	_	O
+2	https://t.co/cQ7Ar4fVmP	#hlink#	ADD	pos2=JJ	0	root	_	O
+3	WSJ	wsj	NNP	pos2=NN	4	nsubj	_	U-ORG
+4	is	be	VBZ	_	0	root	_	O
+5	not	not	RB	_	4	neg	_	O
+6	liberal	liberal	JJ	_	4	acomp	_	O
+7	.	.	.	_	4	punct	_	O
+

@@ -1,0 +1,21 @@
+1	.	.	.	_	0	punct	_	O
+
+1	Animal	animal	NN	pos2=JJ	2	compound	_	O
+2	testing	testing	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	abhorrent	abhorrent	JJ	_	3	acomp	_	O
+5	and	and	CC	_	3	cc	_	O
+6	breeds	breed	VBZ	_	3	conj	_	O
+7	the	the	DT	_	8	det	_	O
+8	contempt	contempt	NN	_	6	dobj	_	O
+9	for	for	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	feelings	feeling	NNS	_	9	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	others	other	NNS	_	12	pobj	_	O
+14	to	to	IN	_	11	prep	_	O
+15	the	the	DT	_	17	det	_	O
+16	extreme	extreme	JJ	pos2=NN	17	nmod	_	O
+17	#CambridgeKillers	#cambridgekillers	NNS	pos2=NNPS	14	pobj	_	O
+18	https://t.co/MtG9bMHuVF	#hlink#	ADD	_	13	appos	_	O
+

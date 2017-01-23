@@ -1,0 +1,21 @@
+1	#AUTISM	#autism	NN	pos2=NNP	5	nsubjpass	_	B-ORG
+2	&	&	CC	_	1	cc	_	I-ORG
+3	#SIDS	#sids	NNS	pos2=NNP	1	conj	_	L-ORG
+4	are	be	VBP	_	5	auxpass	_	O
+5	listed	list	VBN	_	0	root	_	O
+6	as	as	IN	_	5	prep	_	O
+7	adverse	adverse	JJ	_	8	nmod	_	O
+8	events	event	NNS	_	6	pobj	_	O
+9	reported	report	VBN	pos2=VBD	8	acl	_	O
+10	for	for	IN	_	9	prep	_	O
+11	DTaP	dtap	NN	pos2=NNP	12	compound	_	O
+12	vaccine	vaccine	NN	_	10	pobj	_	O
+13	.	.	.	_	5	punct	_	O
+
+1	Check	check	VB	_	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	insert	insert	NN	_	1	dobj	_	O
+4	:	:	:	_	3	punct	_	O
+5	https://t.co/B8emVfUeNX	#hlink#	ADD	_	6	nmod	_	O
+6	https://t.co/LAZxD2xLhi	#hlink#	ADD	_	3	appos	_	U-ORG
+

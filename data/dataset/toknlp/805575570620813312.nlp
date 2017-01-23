@@ -1,0 +1,26 @@
+1	When	when	WRB	_	4	advmod	_	O
+2	you	you	PRP	_	4	nsubj	_	O
+3	finally	finally	RB	_	4	advmod	_	O
+4	clean	clean	VB	pos2=JJ	0	root	_	O
+5	out	out	RP	_	4	prt	_	O
+6	your	your	PRP$	_	7	poss	_	O
+7	bookbag	bookbag	NN	_	4	dobj	_	O
+8	after	after	IN	_	4	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	election	election	NN	_	8	pobj	_	O
+11	!!!	!!	.	_	4	punct	_	O
+
+1	(	(	-LRB-	_	3	punct	_	O
+2	missing	miss	VBG	pos2=JJ	3	csubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	the	the	DT	_	9	det	_	O
+5	50	0	CD	_	9	nmod	_	U-CARDINAL
+6	+	+	SYM	_	5	punct	_	O
+7	voter	voter	NN	_	8	compound	_	O
+8	registration	registration	NN	_	9	compound	_	O
+9	forms	form	NNS	pos2=VBZ	3	attr	_	O
+10	I	I	PRP	_	13	nsubj	_	O
+11	still	still	RB	_	13	advmod	_	O
+12	…	…	NFP	pos2=VBP	13	punct	_	O
+13	https://t.co/HBktNYAhjK	#hlink#	ADD	_	3	dep	_	U-ORG
+

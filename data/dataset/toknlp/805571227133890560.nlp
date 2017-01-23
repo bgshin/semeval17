@@ -1,0 +1,25 @@
+1	Expanding	expand	VBG	_	16	csubj	_	O
+2	the	the	DT	_	4	det	_	O
+3	drone	drone	NN	_	4	compound	_	O
+4	strikes	strike	NNS	_	1	dobj	_	O
+5	and	and	CC	_	4	cc	_	O
+6	the	the	DT	_	7	det	_	O
+7	NSA	nsa	NNP	pos2=NN	11	poss	_	U-ORG
+8	's	's	POS	_	7	case	_	O
+9	domestic	domestic	JJ	_	11	nmod	_	O
+10	spy	spy	NN	_	11	compound	_	O
+11	program	program	NN	_	4	conj	_	O
+12	under	under	IN	_	11	prep	_	O
+13	Obama	obama	NNP	_	12	pobj	_	U-PERSON
+14	do	do	VBP	pos2=VB	16	aux	_	O
+15	n't	not	RB	_	16	neg	_	O
+16	ring	ring	VB	pos2=VBG	21	ccomp	_	O
+17	a	a	DT	_	18	det	_	O
+18	bell	bell	NN	_	16	dobj	_	O
+19	,	,	,	_	21	punct	_	O
+20	I	I	PRP	_	21	nsubj	_	O
+21	guess	guess	VBP	_	0	root	_	O
+22	.	.	.	_	21	punct	_	O
+
+1	https://t.co/ntn1RTGvHk	#hlink#	ADD	_	0	root	_	U-ORG
+

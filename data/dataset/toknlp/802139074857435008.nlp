@@ -1,0 +1,15 @@
+1	*	*	SYM	_	3	punct	_	O
+2	MTV	mtv	NNP	pos2=NN	3	compound	_	U-ORG
+3	commisions	commisions	NNS	pos2=VBZ	0	root	_	O
+4	new	new	JJ	_	5	nmod	_	O
+5	series	series	NN	pos2=NNS	3	dobj	_	O
+6	"	"	``	pos2=''	7	punct	_	O
+7	16	0	CD	_	5	appos	_	U-CARDINAL
+8	and	and	CC	_	5	cc	_	O
+9	Hatching	hatch	VBG	pos2=NN	14	nmod	_	O
+10	"	"	''	pos2=``	3	punct	_	O
+11	*	*	SYM	pos2=NFP	14	punct	_	O
+12	#MTV	#mtv	GW	pos2=XX	14	nmod	_	O
+13	#Hatchimals	#hatchimals	GW	pos2=NNS	14	nmod	_	O
+14	https://t.co/oNABTUpeaP	#hlink#	ADD	pos2=NN	3	dep	_	O
+

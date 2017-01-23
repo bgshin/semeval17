@@ -1,0 +1,18 @@
+1	Come	come	VB	_	0	root	_	O
+2	ON	on	RP	pos2=RB	1	prt	_	O
+3	,	,	,	_	7	punct	_	O
+4	Electoral	electoral	NNP	pos2=JJ	5	compound	_	B-ORG
+5	College	college	NNP	_	1	vocative	_	L-ORG
+6	,	,	,	_	1	punct	_	O
+7	fix	fix	VB	_	1	dep	_	O
+8	this	this	DT	_	7	dobj	_	O
+9	on	on	IN	_	7	prep	_	O
+10	December	december	NNP	_	11	compound	_	O
+11	19th	#ord#	NN	pos2=JJ	9	pobj	_	O
+12	-	-	HYPH	pos2=:	13	punct	_	O
+13	go	go	VB	pos2=VBP	7	dep	_	O
+14	rogue	rogue	NN	pos2=JJ	13	vocative	_	O
+15	!	!	.	_	1	punct	_	O
+
+1	https://t.co/aPbeFNcdyY	#hlink#	ADD	_	0	root	_	U-ORG
+

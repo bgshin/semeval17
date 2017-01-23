@@ -1,0 +1,16 @@
+1	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=XX	3	compound	_	O
+2	Christiane	christiane	NNP	_	3	compound	_	B-PERSON
+3	Amanpour	amanpour	NNP	_	0	root	_	L-PERSON
+4	,	,	,	_	3	punct	_	O
+5	Sophie	sophie	NNP	_	6	compound	_	B-PERSON
+6	Bloom	bloom	NNP	_	9	nmod	_	L-PERSON
+7	/	/	SYM	pos2=HYPH	9	punct	_	O
+8	Carole	carole	NNP	_	9	compound	_	B-PERSON
+9	King	king	NNP	_	3	appos	_	L-PERSON
+10	,	,	,	_	9	punct	_	O
+11	Madeleine	madeleine	NNP	_	12	compound	_	B-PERSON
+12	Albright	albright	NNP	_	9	appos	_	L-PERSON
+13	,	,	,	_	9	punct	_	O
+14	Barbara	barbara	NNP	_	15	compound	_	B-PERSON
+15	Boxer	boxer	NNP	_	9	appos	_	L-PERSON
+

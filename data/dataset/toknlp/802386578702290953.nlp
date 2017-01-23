@@ -1,0 +1,22 @@
+1	Hacked	hack	VBN	pos2=VBD	3	nmod	_	O
+2	PELOSI	pelosi	NN	pos2=NNP	3	compound	_	O
+3	emails	email	NNS	_	4	nsubj	_	O
+4	CONFIRM	confirm	VBP	pos2=VB	0	root	_	O
+5	Dems	dems	NNP	pos2=NNS	13	nsubj	_	U-ORG
+6	responsible	responsible	JJ	_	5	nmod	_	O
+7	for	for	IN	_	6	prep	_	O
+8	Mayhem	mayhem	NNP	pos2=NN	7	pobj	_	O
+9	in	in	IN	_	8	prep	_	O
+10	Cleveland	cleveland	NNP	_	9	pobj	_	U-GPE
+11	during	during	IN	_	6	prep	_	O
+12	RNC	rnc	NN	pos2=NNP	11	pobj	_	O
+13	proving	prove	VBG	_	4	ccomp	_	O
+14	they	they	PRP	_	15	nsubj	_	O
+15	are	be	VBP	_	13	ccomp	_	O
+16	Party	party	NNP	pos2=NN	15	attr	_	O
+17	of	of	IN	_	16	prep	_	O
+18	DISGUST	disgust	NN	pos2=NNP	17	pobj	_	O
+19	!	!	.	_	4	punct	_	O
+
+1	https://t.co/Zlyv8P6jg4	#hlink#	ADD	_	0	root	_	U-ORG
+

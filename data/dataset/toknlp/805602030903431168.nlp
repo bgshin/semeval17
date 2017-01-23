@@ -1,0 +1,13 @@
+1	@jdub	@jdub	UH	pos2=XX	6	discourse	_	O
+2	@fluffymason	@fluffymason	UH	pos2=NNP	6	discourse	_	O
+3	Apparently	apparently	RB	_	6	advmod	_	O
+4	,	,	,	_	6	punct	_	O
+5	euthanasia	euthanasia	NN	_	6	nsubj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	compulsory	compulsory	JJ	_	6	acomp	_	O
+8	...	..	.	pos2=,	6	punct	_	O
+
+1	or	or	CC	_	2	cc	_	O
+2	something	something	NN	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+

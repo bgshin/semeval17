@@ -1,0 +1,17 @@
+1	history	history	NN	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	like	like	IN	pos2=VB	2	prep	_	O
+4	your	your	PRP$	_	7	poss	_	O
+5	social	social	JJ	pos2=NNP	6	nmod	_	O
+6	Security	security	NNP	pos2=NN	7	compound	_	O
+7	number	number	NN	_	3	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	long	long	JJ	pos2=RB	0	root	_	O
+2	,	,	,	_	1	punct	_	O
+3	useless	useless	JJ	_	1	conj	_	O
+4	,	,	,	_	3	punct	_	O
+5	but	but	CC	_	3	cc	_	O
+6	needed	need	VBN	pos2=VBD	3	conj	_	O
+7	.	.	.	_	1	punct	_	O
+

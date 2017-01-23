@@ -1,0 +1,17 @@
+1	#Turkey	#turkey	NNP	pos2=UH	3	compound	_	B-ORG
+2	#Yemen	#yemen	NNP	pos2=POS	3	compound	_	I-ORG
+3	Passenger	passenger	NNP	pos2=NN	4	compound	_	L-ORG
+4	trains	train	NNS	pos2=NNPS	5	nsubj	_	O
+5	collide	collide	VBP	_	12	advcl	_	O
+6	in	in	IN	_	5	prep	_	O
+7	Iran	iran	NNP	_	6	pobj	_	U-GPE
+8	,	,	,	_	12	punct	_	O
+9	at	at	RB	pos2=IN	10	advmod	_	B-CARDINAL
+10	least	least	JJS	pos2=RBS	11	advmod	_	I-CARDINAL
+11	40	0	CD	_	12	nsubj	_	L-CARDINAL
+12	killed	kill	VBD	pos2=VBN	0	root	_	O
+13	+	+	SYM	pos2=GW	16	punct	_	U-CARDINAL
+14	Videos	video	NNS	pos2=GW	16	dep	_	O
+15	https://t.co/4enuuxkX2K	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/ClqCgSJqzS	#hlink#	ADD	_	12	dobj	_	U-ORG
+

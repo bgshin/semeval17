@@ -1,0 +1,14 @@
+1	Omg	omg	UH	pos2=NN	3	discourse	_	O
+2	I	I	PRP	pos2=CD	3	nsubj	_	O
+3	love	love	VBP	_	0	root	_	O
+4	Jill	jill	NNP	_	5	compound	_	B-PERSON
+5	Scott	scott	NNP	_	3	dobj	_	L-PERSON
+6	why	why	WRB	_	7	advmod	_	O
+7	am	be	VBP	_	11	aux	_	O
+8	I	I	PRP	_	7	nsubj	_	O
+9	just	just	RB	_	10	advmod	_	O
+10	now	now	RB	_	11	advmod	_	O
+11	watching	watch	VBG	_	3	advcl	_	O
+12	#ThankYouObama	#thankyouobama	NN	pos2=XX	13	compound	_	O
+13	😭	😭	NN	pos2=NNP	11	dobj	_	O
+

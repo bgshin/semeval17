@@ -1,0 +1,18 @@
+1	@CllrBSilvester	@cllrbsilvester	NN	pos2=NNP	12	nsubj	_	O
+2	And	and	CC	_	1	cc	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	are	be	VBP	_	1	conj	_	O
+5	quite	quite	RB	_	6	advmod	_	O
+6	familiar	familiar	JJ	_	4	acomp	_	O
+7	with	with	IN	_	6	prep	_	O
+8	judges	judge	NNS	_	7	pobj	_	O
+9	&	&	CC	_	8	cc	_	O
+10	courts	court	NNS	_	8	conj	_	O
+11	,	,	,	_	12	punct	_	O
+12	are	be	VBP	_	0	root	_	O
+13	nt	nt	RB	pos2=VBG	12	advmod	_	O
+14	you	you	PRP	_	12	nsubj	_	O
+15	?	?	.	_	12	punct	_	O
+
+1	#brexit	#brexit	UH	pos2=NN	0	root	_	O
+

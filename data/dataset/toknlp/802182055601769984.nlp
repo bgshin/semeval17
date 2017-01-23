@@ -1,0 +1,30 @@
+1	Only	only	RB	_	3	advmod	_	O
+2	a	a	DT	_	3	qmod	_	O
+3	few	few	JJ	_	4	nmod	_	O
+4	things	thing	NNS	_	5	nsubj	_	O
+5	that	that	WDT	_	0	root	_	O
+6	i	I	PRP	_	7	nsubj	_	O
+7	am	be	VBP	_	4	relcl	_	O
+8	not	not	RB	_	7	neg	_	O
+9	happy	happy	JJ	_	7	acomp	_	O
+10	with	with	IN	_	9	prep	_	O
+11	..	..	.	pos2=,	4	punct	_	O
+
+1	one	#crd#	CD	pos2=NN	2	nsubj	_	U-CARDINAL
+2	is	be	VBZ	_	0	root	_	O
+3	this	this	DT	_	6	det	_	O
+4	Black	black	NNP	pos2=JJ	5	compound	_	B-EVENT
+5	Friday	friday	NNP	_	6	compound	_	L-EVENT
+6	stuff	stuff	NN	_	2	attr	_	O
+7	(	(	-LRB-	_	2	punct	_	O
+8	+	+	SYM	_	6	punct	_	O
+9	Valentines	valentines	NNP	pos2=NNS	17	dep	_	B-DATE
+10	day	day	NN	_	12	nmod	_	L-DATE
+11	+	+	SYM	pos2=:	12	punct	_	O
+12	mothers	mother	NNS	_	17	dep	_	O
+13	n	n	IN	pos2=POS	12	prep	_	O
+14	'	'	''	pos2=``	15	punct	_	O
+15	father	father	NN	pos2=GW	13	pobj	_	O
+16	…	…	NFP	pos2=VBD	17	punct	_	O
+17	https://t.co/HIfJoARmRR	#hlink#	ADD	_	6	appos	_	O
+

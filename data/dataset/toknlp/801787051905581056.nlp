@@ -1,0 +1,22 @@
+1	@HarryDaCreator	@harrydacreator	NN	pos2=ADD	4	npadvmod	_	O
+2	they	they	PRP	_	4	nsubj	_	O
+3	have	have	VBP	_	4	aux	_	O
+4	esperienced	esperienced	VBN	pos2=JJ	0	root	_	O
+5	talent	talent	NN	pos2=JJ	4	dobj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	big	big	JJ	_	8	nmod	_	O
+8	time	time	NN	_	9	compound	_	O
+9	freshman	freshman	NN	_	5	conj	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	grayson	grayson	NN	pos2=FW	2	compound	_	O
+2	allen	allen	NNP	pos2=NN	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	Kennard	kennard	NNP	_	5	compound	_	B-PERSON
+5	jones	jones	NNP	pos2=VBZ	2	conj	_	L-PERSON
+6	and	and	CC	_	5	cc	_	O
+7	Jefferson	jefferson	NNP	_	5	conj	_	U-GPE
+8	with	with	IN	_	7	prep	_	O
+9	stud	stud	NN	pos2=FW	10	compound	_	O
+10	freshman	freshman	NN	_	8	pobj	_	O
+

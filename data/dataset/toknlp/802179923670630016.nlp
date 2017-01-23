@@ -1,0 +1,16 @@
+1	@hrw	@hrw	UH	pos2=XX	15	discourse	_	O
+2	@nature_org	@nature_org	UH	pos2=VBG	15	discourse	_	O
+3	@idclrWorldPeace	@idclrworldpeace	ADD	pos2=NN	15	nmod	_	O
+4	@high_on_glitter	@high_on_glitter	ADD	pos2=NNP	6	aux	_	O
+5	#Israel	#israel	NNP	pos2=CD	6	nsubj	_	O
+6	trying	try	VBG	_	3	advcl	_	O
+7	to	to	TO	_	8	aux	_	O
+8	destroy	destroy	VB	_	6	xcomp	_	O
+9	#Palestine	#palestine	NNP	pos2=CD	8	dobj	_	U-ORG
+10	by	by	IN	_	8	prep	_	O
+11	destroying	destroy	VBG	_	10	pcomp	_	O
+12	all	all	PDT	pos2=DT	14	predet	_	O
+13	their	their	PRP$	_	14	poss	_	O
+14	…	…	NFP	pos2=NNS	15	punct	_	O
+15	https://t.co/ByBvyCO4Bz	#hlink#	ADD	pos2=NN	0	root	_	O
+

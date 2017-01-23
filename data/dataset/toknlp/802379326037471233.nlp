@@ -1,0 +1,30 @@
+1	@nytimes	@nytimes	UH	pos2=NNS	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	need	need	VBP	_	0	root	_	O
+4	Obamacare	obamacare	NNP	pos2=NN	3	dobj	_	U-ORG
+5	after	after	IN	_	3	prep	_	O
+6	disability	disability	NN	_	5	pobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	Private	private	JJ	_	3	nmod	_	O
+2	insurance	insurance	NN	_	3	compound	_	O
+3	7X	0x	NN	_	5	nsubj	_	O
+4	+	+	SYM	_	3	punct	_	O
+5	higher	high	JJR	pos2=RBR	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	Worried	worried	JJ	pos2=VBD	0	root	_	O
+2	about	about	IN	_	1	prep	_	O
+3	buying	buy	VBG	_	2	pcomp	_	O
+4	food	food	NN	_	3	dobj	_	O
+5	&	&	CC	_	4	cc	_	O
+6	emergencies	emergency	NNS	_	4	conj	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	Top	top	JJ	pos2=NNP	2	nmod	_	O
+2	Ramen	ramen	NNP	pos2=NNPS	5	nmod	_	O
+3	&	&	CC	_	2	cc	_	O
+4	dented	dented	JJ	pos2=VBN	5	nmod	_	O
+5	cans	can	NNS	_	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+

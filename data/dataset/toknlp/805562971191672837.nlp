@@ -1,0 +1,8 @@
+1	@FeihcsiimNot	@feihcsiimnot	NNP	pos2=VBD	2	compound	_	O
+2	France	france	NNP	_	0	root	_	U-GPE
+3	,	,	,	_	2	punct	_	O
+4	with	with	IN	_	2	prep	_	O
+5	Marine	marine	NNP	pos2=JJ	6	compound	_	U-ORG
+6	le	le	NN	pos2=NNP	7	compound	_	O
+7	Pen	pen	NNP	pos2=NN	4	pobj	_	O
+

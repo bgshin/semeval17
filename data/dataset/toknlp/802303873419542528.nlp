@@ -1,0 +1,25 @@
+1	The	the	DT	_	7	det	_	O
+2	The	the	DT	pos2=NNP	7	det	_	O
+3	Orlando	orlando	NNP	_	6	compound	_	O
+4	#Python	#python	NNP	_	6	compound	_	O
+5	User	user	NNP	pos2=NN	6	compound	_	O
+6	Group	group	NNP	_	7	compound	_	O
+7	meetup	meetup	NN	pos2=NNP	9	nsubj	_	O
+8	is	be	VBZ	_	9	aux	_	O
+9	hosting	host	VBG	_	0	root	_	O
+10	the	the	DT	_	12	det	_	O
+11	Deep	deep	NNP	pos2=JJ	12	compound	_	O
+12	Learning	learning	NN	pos2=NNP	9	dobj	_	O
+13	with	with	IN	_	12	prep	_	O
+14	#Python	#python	NNP	pos2=NN	13	pobj	_	O
+15	on	on	IN	_	9	prep	_	O
+16	Monday	monday	NNP	_	15	pobj	_	O
+17	after	after	IN	pos2=RB	9	prep	_	O
+18	next	next	RB	pos2=JJ	17	advmod	_	O
+19	.	.	.	_	9	punct	_	O
+
+1	Be	be	VB	_	0	root	_	O
+2	there	there	RB	pos2=EX	1	advmod	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/2oKwHKAOrL	#hlink#	ADD	pos2=NN	1	dep	_	U-ORG
+

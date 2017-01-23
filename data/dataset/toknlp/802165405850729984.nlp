@@ -1,0 +1,22 @@
+1	The	the	DT	_	8	det	_	O
+2	first	#ord#	JJ	_	8	nmod	_	O
+3	#UAE	#uae	NNP	pos2=NN	8	nmod	_	O
+4	/	/	SYM	pos2=HYPH	8	punct	_	O
+5	#UnitedNations	#unitednations	ADD	pos2=IN	17	punct	_	O
+6	High	high	NNP	pos2=JJ	7	compound	_	O
+7	Level	level	NNP	pos2=NN	8	compound	_	O
+8	Forum	forum	NNP	_	17	nsubj	_	O
+9	on	on	IN	_	8	prep	_	O
+10	Space	space	NNP	pos2=NN	9	pobj	_	O
+11	as	as	IN	_	8	prep	_	O
+12	a	a	DT	_	13	det	_	O
+13	Driver	driver	NN	pos2=NNP	11	pobj	_	O
+14	for	for	IN	_	13	prep	_	O
+15	Socio-Economic	socio-economic	NNP	pos2=JJ	16	compound	_	B-ORG
+16	Development	development	NNP	pos2=NN	14	pobj	_	L-ORG
+17	adopts	adopt	VBZ	_	0	root	_	O
+18	“	"	``	_	20	punct	_	B-ORG
+19	Dubai	dubai	NNP	_	20	compound	_	I-ORG
+20	Deceleration	deceleration	NNP	pos2=NN	17	dobj	_	I-ORG
+21	”	"	''	_	20	punct	_	L-ORG
+

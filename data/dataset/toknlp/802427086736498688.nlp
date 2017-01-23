@@ -1,0 +1,20 @@
+1	@NitishKumar	@nitishkumar	NNP	pos2=NN	0	root	_	U-ORG
+2	in	in	IN	_	1	prep	_	O
+3	support	support	NN	_	2	pobj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	#DeMonetisation	#demonetisation	NN	pos2=NNP	4	pobj	_	O
+6	..	..	.	pos2=,	1	punct	_	O
+
+1	soon	soon	RB	_	5	advmod	_	O
+2	the	the	DT	_	3	det	_	O
+3	liberals	liberal	NNS	_	5	nsubj	_	O
+4	will	will	MD	_	5	aux	_	O
+5	tag	tag	VB	_	0	root	_	O
+6	him	him	PRP	_	5	dobj	_	O
+7	as	as	IN	_	5	prep	_	O
+8	Bhakt	bhakt	NNP	_	9	compound	_	B-PERSON
+9	@JagratiShukla29	@jagratishukla0	NN	pos2=NNP	7	pobj	_	L-PERSON
+10	@bainjal	@bainjal	UH	pos2=XX	5	discourse	_	O
+11	@ShekharGupta	@shekhargupta	ADD	pos2=NNP	5	punct	_	O
+12	@sardanarohit	@sardanarohit	UH	pos2=NN	5	discourse	_	O
+

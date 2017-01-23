@@ -1,0 +1,23 @@
+1	Today	today	NN	pos2=NNP	3	poss	_	U-DATE
+2	's	's	POS	_	1	case	_	O
+3	@NBA	@nba	NNP	pos2=NN	0	root	_	O
+4	#PAAnnouncer	#paannouncer	PRP$	pos2=HYPH	3	punct	_	O
+5	line	line	NN	_	7	compound	_	O
+6	-	-	HYPH	_	7	punct	_	O
+7	up	up	RP	pos2=NN	3	advmod	_	O
+8	2/4	0	CD	pos2=''	7	npadvmod	_	U-CARDINAL
+9	.	.	.	_	3	punct	_	O
+
+1	#MikeWalczewski	#mikewalczewski	NNP	pos2=ADD	2	compound	_	U-PERSON
+2	@nyknicks	@nyknicks	NNS	pos2=UH	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	#JohnMason	#johnmason	NNP	pos2=NN	5	compound	_	U-ORG
+5	@DetroitPistons	@detroitpistons	NNS	pos2=NNPS	2	conj	_	O
+6	,	,	,	_	5	punct	_	O
+7	@Grady	@grady	NNP	pos2=''	8	compound	_	B-PERSON
+8	@Pacers	@pacers	NNP	pos2=NNS	5	appos	_	L-PERSON
+9	,	,	,	_	10	punct	_	O
+10	#DanRoberts	#danroberts	VBZ	pos2=NNPS	5	conj	_	O
+11	@utahjazz	@utahjazz	UH	pos2=NN	10	discourse	_	O
+12	.	.	.	_	10	punct	_	O
+

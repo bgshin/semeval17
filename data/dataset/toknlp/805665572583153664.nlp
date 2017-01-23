@@ -1,0 +1,25 @@
+1	@Tipsygamer	@tipsygamer	NNP	pos2=NN	4	punct	_	U-ORG
+2	I	I	PRP	_	4	nsubj	_	O
+3	was	be	VBD	_	4	aux	_	O
+4	referring	refer	VBG	_	0	root	_	O
+5	also	also	RB	_	4	advmod	_	O
+6	to	to	IN	_	4	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	children	child	NNS	_	6	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	nations	nation	NNS	_	9	pobj	_	O
+12	that	that	WDT	_	13	nsubj	_	O
+13	are	be	VBP	_	11	relcl	_	O
+14	the	the	DT	_	15	det	_	O
+15	target	target	NN	_	13	attr	_	O
+16	of	of	IN	_	15	prep	_	O
+17	the	the	DT	_	18	det	_	O
+18	attacks	attack	NNS	_	16	pobj	_	O
+19	,	,	,	_	4	punct	_	O
+20	like	like	IN	pos2=UH	4	discourse	_	O
+21	in	in	IN	_	18	prep	_	O
+22	US	us	NNP	_	24	compound	_	U-GPE
+23	drone	drone	NN	_	24	compound	_	O
+24	strikes	strike	NNS	pos2=VBZ	21	pobj	_	O
+

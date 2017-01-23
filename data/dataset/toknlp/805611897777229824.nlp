@@ -1,0 +1,10 @@
+1	@meehan_francis	@meehan_francis	NN	pos2=PRP$	2	compound	_	B-PERSON
+2	@blake_walston	@blake_walston	NNP	pos2=AFX	6	vocative	_	L-PERSON
+3	@Mitch_Baddour	@mitch_baddour	PRP$	pos2=POS	5	poss	_	O
+4	air	air	NN	pos2=AFX	5	compound	_	O
+5	pope	pope	NN	pos2=NNP	6	nsubj	_	O
+6	respects	respect	VBZ	_	0	root	_	O
+7	the	the	DT	_	9	det	_	O
+8	play	play	NN	pos2=VB	9	compound	_	O
+9	👏🏼👏🏼👏🏼	👏🏼👏🏼👏🏼	NN	pos2=NNP	6	dobj	_	O
+

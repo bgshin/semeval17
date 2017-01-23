@@ -1,0 +1,13 @@
+1	https://t.co/76pO1OgLm1	#hlink#	ADD	pos2=NNP	0	root	_	O
+2	Wyoming	wyoming	NNP	pos2=VBG	5	compound	_	U-GPE
+3	voter	voter	NN	_	4	compound	_	O
+4	Registration	registration	NN	pos2=NNP	5	compound	_	O
+5	stats	stat	NNS	_	1	dobj	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	Other	other	JJ	_	2	nmod	_	O
+2	months	month	NNS	_	5	dep	_	O
+3	here	here	RB	_	2	advmod	_	O
+4	:	:	:	_	5	punct	_	O
+5	https://t.co/ThMYsbVTRf	#hlink#	ADD	pos2=NN	0	root	_	O
+

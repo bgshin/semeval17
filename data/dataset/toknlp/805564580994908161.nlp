@@ -1,0 +1,14 @@
+1	.	.	.	_	0	punct	_	O
+
+1	Please	please	UH	_	2	discourse	_	O
+2	join	join	VB	_	0	root	_	O
+3	#CambridgeKillers	#cambridgekillers	NNS	pos2=ADD	2	dobj	_	O
+4	tweetstorm	tweetstorm	NN	pos2=JJ	11	dep	_	O
+5	to	to	TO	pos2=IN	6	aux	_	O
+6	end	end	VB	pos2=NN	4	xcomp	_	O
+7	animal	animal	NN	_	8	compound	_	O
+8	testing	testing	NN	_	6	dobj	_	O
+9	:	:	:	_	11	punct	_	O
+10	https://t.co/iBKlLg89xF	#hlink#	ADD	_	11	nmod	_	O
+11	https://t.co/O4kFxHU40G	#hlink#	ADD	_	2	dep	_	U-ORG
+

@@ -1,0 +1,26 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	GUARANTEE	guarantee	VB	_	13	ccomp	_	O
+4	U	u	NNP	pos2=RP	5	compound	_	B-PERSON
+5	Romney	romney	NNP	_	3	dobj	_	L-PERSON
+6	will	will	MD	_	8	aux	_	O
+7	NOT	not	RB	_	8	neg	_	O
+8	BE	be	VB	_	3	ccomp	_	O
+9	#SOS	#sos	RB	pos2=NNS	8	advmod	_	O
+10	-	-	:	pos2=SYM	13	punct	_	O
+11	Can	can	MD	_	13	aux	_	O
+12	we	we	PRP	_	13	nsubj	_	O
+13	show	show	VB	pos2=VBP	0	root	_	O
+14	a	a	DT	_	16	det	_	O
+15	little	little	JJ	_	16	nmod	_	O
+16	unity	unity	NN	_	13	dobj	_	O
+17	behind	behind	IN	_	16	prep	_	O
+18	the	the	DT	_	19	det	_	O
+19	Man	man	NN	pos2=NNP	17	pobj	_	O
+20	we	we	PRP	_	21	nsubj	_	O
+21	elected	elect	VBD	_	19	relcl	_	O
+22	to	to	IN	pos2=TO	21	prep	_	O
+23	#draintheswamp	#draintheswamp	VB	pos2=GW	22	pobj	_	O
+24	…	…	NFP	pos2=-LRB-	25	punct	_	O
+25	https://t.co/kL4BfPiwKb	#hlink#	ADD	pos2=NN	13	dobj	_	O
+

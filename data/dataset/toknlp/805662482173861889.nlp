@@ -1,0 +1,29 @@
+1	Abortion	abortion	NN	pos2=NNP	4	nsubj	_	O
+2	does	do	VBZ	_	4	aux	_	O
+3	not	not	RB	_	4	neg	_	O
+4	end	end	VB	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	life	life	NN	_	4	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	a	a	DT	_	11	det	_	O
+9	potential	potential	JJ	_	11	nmod	_	O
+10	human	human	JJ	pos2=NN	11	nmod	_	O
+11	being	being	NN	_	7	pobj	_	O
+12	.	.	.	_	4	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	ends	end	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	life	life	NN	_	9	nsubj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	an	an	DT	_	8	det	_	O
+7	actual	actual	JJ	_	8	nmod	_	O
+8	human	human	NN	pos2=JJ	5	pobj	_	O
+9	being	be	VBG	pos2=NN	2	xcomp	_	O
+10	with	with	IN	_	9	prep	_	O
+11	great	great	JJ	_	15	nmod	_	O
+12	potential	potential	JJ	pos2=NN	14	nmod	_	O
+13	-	-	HYPH	pos2=:	14	punct	_	O
+14	Bryan	bryan	NNP	_	15	compound	_	B-PERSON
+15	Kemper	kemper	NNP	_	10	pobj	_	L-PERSON
+

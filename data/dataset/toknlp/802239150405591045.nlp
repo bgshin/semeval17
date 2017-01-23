@@ -1,0 +1,8 @@
+1	This	this	DT	_	2	det	_	O
+2	line	line	NN	_	5	nsubj	_	O
+3	can	can	MD	_	5	aux	_	O
+4	literally	literally	RB	_	5	advmod	_	O
+5	ruin	ruin	VB	_	0	root	_	O
+6	everything	everything	NN	_	5	dobj	_	O
+7	!	!	.	_	5	punct	_	O
+

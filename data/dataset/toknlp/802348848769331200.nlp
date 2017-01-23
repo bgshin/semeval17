@@ -1,0 +1,14 @@
+1	@Microsoft	@microsoft	NNP	pos2=SYM	3	nmod	_	U-CARDINAL
+2	Neural	neural	JJ	pos2=NNP	3	nmod	_	O
+3	Net	net	NNP	pos2=NN	4	nsubj	_	O
+4	Shows	show	VBZ	pos2=NNPS	0	root	_	O
+5	Deep	deep	JJ	pos2=NNP	6	nmod	_	O
+6	Learning	learning	NNP	pos2=NN	8	nsubj	_	O
+7	Can	can	MD	pos2=NNP	8	aux	_	O
+8	Get	get	VB	_	4	ccomp	_	O
+9	Way	way	NNP	pos2=RB	10	advmod	_	O
+10	Deeper	deep	RBR	pos2=JJR	11	nmod	_	O
+11	https://t.co/eixU0itjS1	#hlink#	ADD	pos2=RBR	8	dobj	_	O
+12	#business	#business	-RRB-	pos2=IN	11	punct	_	O
+13	#machinelearning	#machinelearning	UH	pos2=VBG	8	discourse	_	O
+

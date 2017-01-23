@@ -1,0 +1,17 @@
+1	Looks	look	VBZ	_	0	root	_	O
+2	like	like	IN	_	6	mark	_	O
+3	@AndreaChalupa	@andreachalupa	NNP	pos2=NN	6	nsubj	_	U-ORG
+4	is	be	VBZ	_	6	aux	_	O
+5	still	still	RB	_	6	advmod	_	O
+6	buying	buy	VBG	_	1	advcl	_	O
+7	followers	follower	NNS	_	6	dobj	_	O
+8	using	use	VBG	_	6	advcl	_	O
+9	#AuditTheVote	#auditthevote	NN	pos2=NNP	8	dobj	_	O
+10	as	as	IN	pos2=TO	8	prep	_	O
+11	cover	cover	NN	pos2=VBN	10	pobj	_	O
+12	post	post	IN	pos2=AFX	11	prep	_	O
+13	election	election	NN	_	16	nmod	_	O
+14	@McFaul	@mcfaul	XX	pos2=NN	16	nmod	_	O
+15	@Support	@support	NNP	pos2=XX	16	compound	_	B-PERSON
+16	@noclador@KremlinTrolls	@noclador@kremlintrolls	NNS	pos2=ADD	12	pobj	_	L-PERSON
+

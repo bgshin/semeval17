@@ -1,0 +1,25 @@
+1	Death	death	NN	_	2	compound	_	O
+2	penalty	penalty	NN	_	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	Japan	japan	NNP	_	3	pobj	_	U-GPE
+5	and	and	CC	_	4	cc	_	O
+6	Saudi	saudi	NNP	_	7	nmod	_	B-GPE
+7	Arabia	arabia	NNP	_	4	conj	_	L-GPE
+8	human	human	JJ	_	10	nmod	_	O
+9	right	right	JJ	pos2=NN	10	nmod	_	O
+10	violation	violation	NN	_	2	appos	_	O
+11	;	;	,	pos2=:	2	punct	_	O
+12	senior	senior	JJ	_	14	nmod	_	O
+13	Sem	sem	NNP	_	14	compound	_	U-ORG
+14	presentation	presentation	NN	_	2	appos	_	O
+15	.	.	.	_	2	punct	_	O
+
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	how	how	WRB	_	6	advmod	_	O
+4	I	I	PRP	_	6	nsubj	_	O
+5	'm	be	VBP	_	6	aux	_	O
+6	spending	spend	VBG	_	2	ccomp	_	O
+7	my	my	PRP$	_	8	poss	_	O
+8	night	night	NN	_	6	dobj	_	U-TIME
+

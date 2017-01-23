@@ -1,0 +1,26 @@
+1	@realDonaldTrump	@realdonaldtrump	MD	pos2=ADD	2	aux	_	O
+2	Check	check	VB	_	0	root	_	O
+3	the	the	DT	_	5	det	_	B-ORG
+4	Clinton	clinton	NNP	_	5	compound	_	I-ORG
+5	Foundation	foundation	NNP	_	2	dobj	_	L-ORG
+6	for	for	IN	_	5	prep	_	O
+7	contributions	contribution	NNS	_	6	pobj	_	O
+8	to	to	IN	_	7	prep	_	O
+9	Jill	jill	NNP	_	10	compound	_	B-PERSON
+10	Stein	stein	NNP	_	8	pobj	_	L-PERSON
+11	!	!	.	_	2	punct	_	O
+
+1	There	there	EX	_	2	expl	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	your	your	PRP$	_	4	poss	_	O
+4	problem	problem	NN	_	2	attr	_	O
+5	!	!	.	_	2	punct	_	O
+
+1	Hillary	hillary	NNP	_	7	nsubj	_	U-PERSON
+2	still	still	RB	_	3	advmod	_	O
+3	in	in	IN	_	1	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	game	game	NN	_	3	pobj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	trying	try	VBG	pos2=JJ	0	root	_	O
+

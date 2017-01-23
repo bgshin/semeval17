@@ -1,0 +1,12 @@
+1	@TinyMonsters524	@tinymonsters0	UH	pos2=NN	5	discourse	_	O
+2	You	you	PRP	_	5	nsubj	_	O
+3	're	be	VBP	_	5	aux	_	O
+4	probably	probably	RB	_	5	advmod	_	O
+5	being	be	VBG	_	0	root	_	O
+6	shadow	shadow	NN	pos2=VB	7	nsubjpass	_	O
+7	banned	ban	VBN	_	5	acomp	_	O
+8	like	like	IN	_	7	prep	_	O
+9	many	many	JJ	_	10	nmod	_	O
+10	Conservatives	conservative	NNPS	pos2=NNS	8	pobj	_	U-NORP
+11	.	.	.	_	5	punct	_	O
+

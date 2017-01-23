@@ -1,0 +1,23 @@
+1	North	north	NNP	_	2	compound	_	B-GPE
+2	Korea	korea	NNP	_	3	nsubj	_	L-GPE
+3	asks	ask	VBZ	_	0	root	_	O
+4	China	china	NNP	_	3	dobj	_	U-GPE
+5	to	to	TO	_	6	aux	_	O
+6	block	block	VB	_	3	xcomp	_	O
+7	search	search	NN	_	8	compound	_	O
+8	results	result	NNS	_	6	dobj	_	O
+9	for	for	IN	_	6	prep	_	O
+10	Kim	kim	NNP	_	12	compound	_	B-PERSON
+11	Jong	jong	NNP	_	12	compound	_	L-PERSON
+12	Un	un	NNP	_	13	compound	_	O
+13	nickname	nickname	NN	_	16	poss	_	O
+14	‘	'	POS	pos2=''	13	case	_	O
+15	Kim	kim	NNP	_	16	compound	_	B-PERSON
+16	Fatty	fatty	NNP	pos2=VBD	9	pobj	_	L-PERSON
+17	the	the	DT	_	18	det	_	O
+18	Third	#ord#	NNP	pos2=JJ	16	appos	_	U-ORDINAL
+19	’	'	''	pos2=POS	3	punct	_	O
+20	#censorship	#censorship	UH	pos2=XX	22	dep	_	O
+21	#loser	#loser	IN	pos2=GW	16	cc	_	O
+22	https://t.co/UMYkqlbqeK	#hlink#	ADD	_	21	pobj	_	O
+

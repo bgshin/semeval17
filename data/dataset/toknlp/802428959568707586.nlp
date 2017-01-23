@@ -1,0 +1,29 @@
+1	Ok	ok	UH	pos2=JJ	3	discourse	_	O
+2	so	so	RB	_	3	advmod	_	O
+3	called	call	VBN	pos2=JJ	7	csubj	_	O
+4	liberals	liberal	NNS	pos2=NNPS	5	compound	_	O
+5	tolerance	tolerance	NN	pos2=VBP	6	compound	_	O
+6	level	level	NN	_	3	oprd	_	O
+7	is	be	VBZ	_	0	root	_	O
+8	so	so	RB	_	9	advmod	_	O
+9	poor	poor	JJ	_	7	acomp	_	O
+10	.	.	.	_	7	punct	_	O
+
+1	They	they	PRP	_	4	nsubj	_	O
+2	ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	tolerate	tolerate	VB	_	0	root	_	O
+5	as	as	IN	pos2=RB	4	prep	_	O
+6	harmless	harmless	JJ	_	7	nmod	_	O
+7	tweet	tweet	NN	_	5	pobj	_	O
+8	as	as	IN	_	7	prep	_	O
+9	this	this	DT	_	8	pobj	_	O
+10	!!!	!!	.	_	4	punct	_	O
+
+1	No	no	DT	pos2=UH	3	det	_	O
+2	cuss	cuss	NN	_	3	compound	_	O
+3	words	word	NNS	_	0	root	_	O
+4	ju	ju	XX	pos2=VBP	3	prep	_	O
+5	…	…	NFP	pos2=-LRB-	3	discourse	_	O
+6	https://t.co/FuZhqZfyjF	#hlink#	ADD	_	3	appos	_	O
+

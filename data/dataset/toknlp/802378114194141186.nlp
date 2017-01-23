@@ -1,0 +1,6 @@
+1	leonard	leonard	JJ	pos2=NN	2	nmod	_	O
+2	cohen	cohen	NN	pos2=RB	5	dep	_	O
+3	//	//	NFP	pos2=-LRB-	5	punct	_	O
+4	bobby	bobby	JJ	pos2=XX	5	nmod	_	O
+5	bazini	bazini	NN	pos2=NNP	0	root	_	O
+

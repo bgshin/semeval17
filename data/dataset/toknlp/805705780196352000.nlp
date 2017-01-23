@@ -1,0 +1,26 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@Independent	@independent	JJ	pos2=PRP$	4	nmod	_	O
+2	digi	digi	JJ	pos2=AFX	4	nmod	_	O
+3	front	front	JJ	pos2=NN	4	nmod	_	O
+4	page	page	NN	_	9	dep	_	O
+5	|	|	,	pos2=SYM	9	punct	_	O
+6	Senior	senior	NNP	pos2=JJ	8	nmod	_	O
+7	Brexit	brexit	NNP	_	8	compound	_	O
+8	campaigner	campaigner	NN	_	9	nsubj	_	O
+9	denies	deny	VBZ	_	0	root	_	O
+10	offering	offer	VBG	_	9	xcomp	_	O
+11	six	#crd#	CD	_	13	nmod	_	U-CARDINAL
+12	-	-	HYPH	_	13	punct	_	O
+13	figure	figure	NN	pos2=VB	15	nmod	_	O
+14	'	'	``	pos2=''	15	punct	_	O
+15	bribe	bribe	NN	pos2=VB	10	dobj	_	O
+16	'	'	''	_	15	punct	_	O
+17	to	to	IN	_	10	dative	_	O
+18	MPs	mp	NNS	pos2=NNPS	17	pobj	_	O
+19	(	(	-LRB-	_	15	punct	_	O
+20	@SiobhanFenton	@siobhanfenton	NNP	pos2=ADD	18	appos	_	U-ORG
+21	)	)	-RRB-	_	18	punct	_	O
+22	…	…	NFP	pos2=:	23	punct	_	O
+23	https://t.co/ym4b7OO6bK	#hlink#	ADD	pos2=NN	9	dep	_	O
+

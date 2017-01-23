@@ -1,0 +1,24 @@
+1	If	if	IN	_	3	mark	_	O
+2	You	you	PRP	_	3	nsubj	_	O
+3	Are	be	VBP	_	11	advcl	_	O
+4	In	in	IN	_	3	prep	_	O
+5	China	china	NNP	_	4	pobj	_	U-GPE
+6	,	,	,	_	11	punct	_	O
+7	You	you	PRP	_	11	nsubjpass	_	O
+8	Will	will	MD	_	11	aux	_	O
+9	Not	not	RB	_	11	neg	_	O
+10	Be	be	VB	_	11	auxpass	_	O
+11	Allowed	allow	VBN	_	0	root	_	O
+12	To	to	IN	pos2=TO	11	prep	_	O
+13	Web	web	NNP	pos2=VB	14	compound	_	O
+14	Search	search	NNP	pos2=NN	12	pobj	_	O
+15	"	"	''	pos2=``	17	punct	_	O
+16	Fatty	fatty	NNP	pos2=JJ	17	compound	_	B-PERSON
+17	Kim	kim	NNP	_	23	dep	_	L-PERSON
+18	The	the	DT	pos2=NNP	19	det	_	O
+19	Third	#ord#	NNP	pos2=JJ	17	appos	_	U-ORDINAL
+20	"	"	''	_	17	punct	_	O
+21	:	:	:	_	23	punct	_	O
+22	https://t.co/Vc3yLyCdMG	#hlink#	ADD	_	23	nmod	_	O
+23	https://t.co/0MaLIMkhIL	#hlink#	ADD	_	11	dep	_	U-ORG
+

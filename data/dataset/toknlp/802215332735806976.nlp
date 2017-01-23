@@ -1,0 +1,18 @@
+1	ICYMI	icymi	NN	pos2=NNP	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	SO	so	RB	_	2	advmod	_	O
+2	much	much	JJ	pos2=RB	4	nmod	_	O
+3	celeb	celeb	NN	pos2=JJ	4	compound	_	O
+4	shade	shade	NN	_	6	nsubj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	be	be	VB	_	0	root	_	O
+7	thankful	thankful	JJ	_	6	acomp	_	O
+8	for	for	IN	_	7	prep	_	O
+9	this	this	DT	_	10	det	_	B-DATE
+10	year	year	NN	_	8	pobj	_	L-DATE
+11	!	!	.	_	6	punct	_	O
+
+1	https://t.co/FDmT15tORf	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/vuOl9qj9SJ	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,27 @@
+1	@trigwarnblog	@trigwarnblog	UH	pos2=NNP	11	discourse	_	O
+2	If	if	IN	_	6	mark	_	O
+3	alt	alt	JJ	pos2=NN	5	advmod	_	O
+4	-	-	HYPH	_	5	punct	_	O
+5	right	right	JJ	pos2=NN	6	nsubj	_	O
+6	means	mean	VBZ	pos2=NNS	11	advcl	_	O
+7	racial	racial	JJ	_	8	nmod	_	O
+8	supremacists	supremacist	NNS	_	6	dobj	_	O
+9	then	then	RB	_	11	advmod	_	O
+10	I	I	PRP	_	11	nsubj	_	O
+11	disavow	disavow	VBP	_	0	root	_	O
+12	and	and	CC	_	11	cc	_	O
+13	condemn	condemn	VBP	pos2=VB	11	conj	_	O
+14	them	them	PRP	_	13	dobj	_	O
+15	as	as	RB	_	16	advmod	_	O
+16	well	well	RB	_	13	advmod	_	O
+17	.	.	.	_	11	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	're	be	VBP	_	0	root	_	O
+3	no	no	RB	pos2=UH	4	neg	_	O
+4	better	good	JJR	pos2=RB	2	acomp	_	O
+5	than	than	IN	_	4	prep	_	O
+6	BLM	blm	NNP	pos2=NN	7	compound	_	U-ORG
+7	scum	scum	NN	pos2=NNS	5	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+

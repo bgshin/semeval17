@@ -1,0 +1,21 @@
+1	"	"	``	_	5	punct	_	O
+2	As	as	IN	_	4	mark	_	O
+3	liberals	liberal	NNS	_	4	nsubj	_	O
+4	raised	raise	VBD	_	0	root	_	O
+5	fears	fear	NNS	_	4	dobj	_	O
+6	about	about	IN	pos2=RB	5	prep	_	O
+7	hacked	hack	VBN	pos2=JJ	9	nmod	_	O
+8	voting	voting	NN	pos2=VBG	9	compound	_	O
+9	machines	machine	NNS	_	6	pobj	_	O
+10	..	..	.	pos2=:	9	punct	_	O
+11	"	"	''	_	9	punct	_	O
+
+1	Months	month	NNS	_	2	npadvmod	_	U-DATE
+2	after	after	IN	_	5	mark	_	O
+3	the	the	DT	_	8	det	_	O
+4	donald	donald	NNP	pos2=GW	6	nmod	_	O
+5	did.#AuditThe	did.#auditthe	ADD	pos2=NNP	6	punct	_	O
+6	Votehttps://t.co/p2eyQyFpQL	#hlink#	ADD	_	8	dep	_	O
+7	via	via	IN	_	0	root	_	O
+8	@usatoday	@usatoday	NN	pos2=UH	7	pobj	_	O
+

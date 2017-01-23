@@ -1,0 +1,26 @@
+1	This	this	DT	_	3	nsubj	_	O
+2	may	may	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	reason	reason	NN	_	25	dep	_	O
+6	folks	folk	NNS	_	7	nsubj	_	O
+7	protest	protest	VBP	pos2=NN	5	relcl	_	O
+8	and	and	CC	_	7	cc	_	O
+9	complain	complain	VBP	pos2=VB	7	conj	_	O
+10	but	but	CC	pos2=IN	3	cc	_	O
+11	your	your	PRP$	pos2=PRP	25	poss	_	O
+12	do	do	VB	pos2=VBP	14	aux	_	O
+13	n't	not	RB	_	14	neg	_	O
+14	listen	listen	VB	_	17	advcl	_	O
+15	trump	trump	NN	pos2=VB	14	vocative	_	O
+16	I	I	PRP	_	17	nsubj	_	O
+17	guess	guess	VBP	_	3	conj	_	O
+18	they	they	PRP	_	20	nsubj	_	O
+19	are	be	VBP	_	20	aux	_	O
+20	resorting	resort	VBG	_	17	ccomp	_	O
+21	to	to	IN	_	20	prep	_	O
+22	this	this	DT	_	21	pobj	_	O
+23	I	I	PRP	pos2=GW	25	nmod	_	O
+24	…	…	NFP	pos2=VBP	25	punct	_	O
+25	https://t.co/bDTkU9gdFZ	#hlink#	ADD	_	22	appos	_	U-ORG
+

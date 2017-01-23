@@ -1,0 +1,20 @@
+1	#notjustwarriTrump	#notjustwarritrump	NNP	pos2=WP	2	nsubj	_	U-ORG
+2	Reinstates	reinstate	VBZ	_	0	root	_	O
+3	New	new	NNP	_	4	compound	_	O
+4	York	york	NNP	_	6	compound	_	O
+5	Times	times	NNP	_	6	compound	_	O
+6	Meeting	meeting	NNP	pos2=NNPS	2	dobj	_	O
+7	While	while	IN	_	8	mark	_	O
+8	Pulling	pull	VBG	_	2	advcl	_	O
+9	Back	back	RB	_	8	advmod	_	O
+10	on	on	IN	_	8	prep	_	O
+11	Pursuing	pursue	VBG	pos2=NNP	10	pcomp	_	O
+12	Case	case	NNP	pos2=NN	11	dobj	_	O
+13	Against	against	IN	_	12	prep	_	O
+14	Clinton	clinton	NNP	_	17	compound	_	O
+15	-	-	HYPH	pos2=:	17	punct	_	O
+16	New	new	NNP	_	17	compound	_	B-GPE
+17	York	york	NNP	pos2=GW	13	pobj	_	L-GPE
+18	…	…	NFP	pos2=POS	19	punct	_	O
+19	https://t.co/9aqhNyEjVP	#hlink#	ADD	_	17	appos	_	O
+

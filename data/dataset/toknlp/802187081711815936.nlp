@@ -1,0 +1,13 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	wait	wait	VB	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	NYE	nye	NNP	pos2=NN	7	compound	_	U-ORG
+7	outfits	outfit	NNS	_	5	pobj	_	O
+8	and	and	CC	_	7	cc	_	O
+9	valentines	valentine	NNS	pos2=VBZ	7	conj	_	O
+10	lingerie	lingerie	NN	_	12	nmod	_	O
+11	lol	lol	UH	pos2=NN	12	discourse	_	O
+12	💗😛💰	💗😛💰	NN	pos2=.	9	dobj	_	O
+

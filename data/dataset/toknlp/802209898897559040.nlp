@@ -1,0 +1,21 @@
+1	@realDonaldTrump	@realdonaldtrump	NFP	pos2=XX	3	punct	_	O
+2	Happy	happy	JJ	pos2=NNP	3	nmod	_	O
+3	Thanksgiving	thanksgiving	NNP	_	0	root	_	U-DATE
+4	,	,	,	_	3	punct	_	O
+5	to	to	IN	_	3	prep	_	O
+6	you	you	PRP	_	5	pobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	your	your	PRP$	_	9	poss	_	O
+9	family	family	NN	_	6	conj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	Our	our	PRP$	_	2	poss	_	O
+2	prayers	prayer	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	with	with	IN	_	3	prep	_	O
+5	you	you	PRP	_	4	pobj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	Mike	mike	NNP	_	8	compound	_	B-PERSON
+8	Pence	penny	NNP	_	5	conj	_	L-PERSON
+9	.	.	.	_	3	punct	_	O
+

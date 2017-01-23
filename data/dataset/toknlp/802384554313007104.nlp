@@ -1,0 +1,29 @@
+1	So	so	RB	pos2=CC	5	advmod	_	O
+2	Fidel	fidel	NNP	_	3	compound	_	B-PERSON
+3	Castro	castro	NNP	_	5	nsubj	_	L-PERSON
+4	has	have	VBZ	_	5	aux	_	O
+5	died	die	VBN	pos2=VBD	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	Do	do	VB	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	worry	worry	VB	_	7	advcl	_	O
+4	,	,	,	_	7	punct	_	O
+5	George	george	NNP	_	6	compound	_	B-PERSON
+6	Soros	soros	NNP	_	7	nsubj	_	L-PERSON
+7	is	be	VBZ	_	0	root	_	O
+8	willing	willing	JJ	_	7	acomp	_	O
+9	to	to	TO	_	10	aux	_	O
+10	fill	fill	VB	_	8	xcomp	_	O
+11	his	his	PRP$	_	12	poss	_	O
+12	shoes	shoe	NNS	_	10	dobj	_	O
+13	as	as	IN	pos2=RB	20	mark	_	O
+14	Most	most	RBS	pos2=NNP	15	advmod	_	B-WORK_OF_ART
+15	Wicked	wicked	NNP	pos2=JJ	16	nmod	_	I-WORK_OF_ART
+16	Man	man	NNP	pos2=NN	20	nsubj	_	I-WORK_OF_ART
+17	In	in	IN	_	16	prep	_	I-WORK_OF_ART
+18	The	the	DT	_	19	det	_	I-WORK_OF_ART
+19	World	world	NNP	_	17	pobj	_	I-WORK_OF_ART
+20	#wicked	#wicked	VBD	pos2=POS	7	advcl	_	I-WORK_OF_ART
+21	#publicenemy1	#publicenemy0	NN	pos2=.	20	dobj	_	L-WORK_OF_ART
+

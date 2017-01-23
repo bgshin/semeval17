@@ -1,0 +1,8 @@
+1	@KremlinTrolls	@kremlintrolls	NNS	pos2=ADD	5	nsubj	_	O
+2	@noclador	@noclador	IN	pos2=VBP	1	prep	_	O
+3	@RadioFreeTom	@radiofreetom	NN	pos2=VBP	4	compound	_	O
+4	@IlvesToomas	@ilvestoomas	NNS	pos2=TO	2	pobj	_	O
+5	fuck	fuck	VBP	pos2=VB	0	root	_	O
+6	Russian	russian	JJ	_	7	nmod	_	U-NORP
+7	trolls	troll	NNS	_	5	dobj	_	O
+

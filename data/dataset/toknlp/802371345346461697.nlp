@@ -1,0 +1,25 @@
+1	Medicare	medicare	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	is	be	VBZ	_	0	root	_	O
+3	more	more	RBR	pos2=JJR	6	advmod	_	O
+4	cost	cost	NN	pos2=JJ	6	npadvmod	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	effective	effective	JJ	_	2	acomp	_	O
+7	than	than	IN	_	6	prep	_	O
+8	private	private	JJ	_	9	nmod	_	O
+9	insurers	insurer	NNS	_	7	pobj	_	O
+10	and	and	CC	_	2	cc	_	O
+11	could	could	MD	_	12	aux	_	O
+12	serve	serve	VB	_	2	conj	_	O
+13	as	as	IN	_	12	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	foundation	foundation	NN	_	13	pobj	_	O
+16	for	for	IN	_	15	prep	_	O
+17	a	a	DT	_	21	det	_	O
+18	single	single	JJ	_	20	nmod	_	O
+19	-	-	HYPH	_	20	punct	_	O
+20	payer	payer	NN	_	21	compound	_	O
+21	system	system	NN	_	16	pobj	_	O
+22	.	.	.	_	2	punct	_	O
+
+1	https://t.co/OtXUFpGaey	#hlink#	ADD	_	0	root	_	U-ORG
+

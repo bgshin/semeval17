@@ -1,0 +1,25 @@
+1	@JohnParshon	@johnparshon	NN	pos2=ADD	2	compound	_	O
+2	ruin	ruin	NN	pos2=VB	3	compound	_	O
+3	ACA	aca	NN	pos2=NNP	5	dep	_	U-ORG
+4	,	,	,	_	3	punct	_	O
+5	privatize	privatize	VB	_	0	root	_	O
+6	schools	school	NNS	_	5	dobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	Medicare	medicare	NNP	_	6	conj	_	U-ORG
+9	,	,	,	_	10	punct	_	O
+10	limit	limit	VB	pos2=NN	5	conj	_	O
+11	abortion	abortion	NN	_	12	compound	_	O
+12	choice	choice	NN	_	10	dobj	_	O
+13	,	,	,	_	14	punct	_	O
+14	sell	sell	VB	pos2=VBP	10	conj	_	O
+15	america	america	NNP	pos2=NN	17	poss	_	U-GPE
+16	's	's	POS	_	15	case	_	O
+17	interests	interest	NNS	_	14	dobj	_	O
+18	to	to	TO	_	19	aux	_	O
+19	line	line	VB	_	14	advcl	_	O
+20	his	his	PRP$	_	21	poss	_	O
+21	pockets	pocket	NNS	_	19	dobj	_	O
+22	,	,	,	_	14	punct	_	O
+23	start	start	VB	pos2=NN	14	conj	_	O
+24	wars	war	NNS	_	23	dobj	_	O
+

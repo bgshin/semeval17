@@ -1,0 +1,23 @@
+1	Compare	compare	VB	_	0	root	_	O
+2	your	your	PRP$	_	3	poss	_	O
+3	#fare	#fare	NN	pos2=XX	1	dobj	_	O
+4	earning	earn	VBG	_	3	acl	_	O
+5	with	with	IN	_	4	prep	_	O
+6	ur	ur	NN	pos2=CC	7	compound	_	O
+7	#passengers	#passengers	NNS	pos2=XX	5	pobj	_	O
+8	#charge	#charge	ADD	pos2=UH	4	advmod	_	O
+9	and	and	CC	_	1	cc	_	O
+10	protect	protect	VB	_	1	conj	_	O
+11	ur	ur	PRP$	pos2=NN	12	poss	_	O
+12	rider	rider	NN	_	10	dobj	_	O
+13	from	from	IN	_	10	prep	_	O
+14	being	be	VBG	_	16	auxpass	_	O
+15	over	over	RB	pos2=IN	16	advmod	_	O
+16	charged	charge	VBN	pos2=JJ	13	pcomp	_	O
+17	.	.	.	_	1	punct	_	O
+
+1	#uber	#uber	UH	pos2=PRP	4	discourse	_	O
+2	#lyft	#lyft	UH	pos2=FW	4	discourse	_	O
+3	#uberx	#uberx	UH	pos2=XX	4	discourse	_	O
+4	#uberpool	#uberpool	UH	pos2=.	0	root	_	O
+

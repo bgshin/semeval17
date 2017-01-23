@@ -1,0 +1,25 @@
+1	Donald	donald	NNP	_	2	compound	_	B-PERSON
+2	Trump	trump	NNP	pos2=NN	4	vocative	_	L-PERSON
+3	:	:	:	_	4	punct	_	O
+4	Fight	fight	VB	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	appointment	appointment	NN	_	4	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	hate	hate	NN	_	10	compound	_	O
+9	-	-	HYPH	_	10	punct	_	O
+10	monger	monger	NN	pos2=NNP	12	compound	_	O
+11	Steve	steve	NNP	_	12	compound	_	B-PERSON
+12	Bannon	bannon	NNP	_	7	pobj	_	L-PERSON
+13	to	to	IN	_	6	prep	_	O
+14	the	the	DT	_	17	det	_	O
+15	President	president	NNP	_	17	compound	_	O
+16	-	-	HYPH	pos2=,	17	punct	_	O
+17	Elect	elect	NNP	_	19	poss	_	O
+18	's	's	POS	pos2=AFX	17	case	_	O
+19	administrati	administrati	NN	pos2=NNS	13	pobj	_	O
+20	...	..	.	pos2=,	4	punct	_	O
+
+1	https://t.co/2aS4yfDC4m	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@Change	@change	NNP	pos2=NN	2	pobj	_	O
+

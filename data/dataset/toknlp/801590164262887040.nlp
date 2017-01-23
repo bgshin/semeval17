@@ -1,0 +1,31 @@
+1	Cameron	cameron	NNP	_	2	compound	_	B-PERSON
+2	Crazie	crazie	NNP	_	8	nsubj	_	L-PERSON
+3	in	in	IN	_	2	prep	_	O
+4	Duke	duke	NNP	_	7	poss	_	U-GPE
+5	's	's	POS	_	4	case	_	O
+6	halftime	halftime	NN	_	7	compound	_	O
+7	contest	contest	NN	_	3	pobj	_	O
+8	wearing	wear	VBG	_	0	root	_	O
+9	a	a	DT	_	13	det	_	O
+10	No.	no.	NN	_	13	nmod	_	O
+11	3	0	CD	pos2=NNP	10	nmod	_	U-CARDINAL
+12	Duke	duke	NNP	_	13	compound	_	O
+13	jersey	jersey	NN	pos2=RB	8	dobj	_	O
+14	with	with	IN	_	8	prep	_	O
+15	"	"	``	_	16	punct	_	O
+16	ALLEN	allen	NNP	_	14	pobj	_	U-FAC
+17	"	"	''	_	16	punct	_	O
+18	on	on	IN	_	8	prep	_	O
+19	the	the	DT	_	20	det	_	O
+20	back	back	NN	_	18	pobj	_	O
+21	.	.	.	_	8	punct	_	O
+
+1	Hope	hope	NNP	pos2=VBP	2	compound	_	O
+2	Grayson	grayson	NNP	_	5	poss	_	U-PERSON
+3	's	's	POS	pos2=VBZ	2	case	_	O
+4	making	make	VBG	_	0	root	_	O
+5	something	something	NN	_	4	dobj	_	O
+6	off	off	RP	pos2=IN	4	prt	_	O
+7	that	that	DT	pos2=WDT	4	dobj	_	O
+8	.	.	.	_	4	punct	_	O
+

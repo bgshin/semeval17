@@ -1,0 +1,16 @@
+1	DOPing	dope	VBG	pos2=NN	6	advcl	_	O
+2	Newz	newz	NNP	_	3	compound	_	O
+3	LIVE	live	NNP	pos2=JJ	4	compound	_	O
+4	FEEDS	feed	NNS	pos2=VBZ	1	dobj	_	O
+5	-	-	:	_	6	punct	_	O
+6	Watch	watch	VB	_	0	root	_	O
+7	the	the	DT	_	10	det	_	O
+8	#Infowars	#infowars	NNP	pos2=NNS	10	compound	_	O
+9	Nightly	nightly	NNP	pos2=RB	10	compound	_	O
+10	News	news	NNP	_	6	dobj	_	O
+11	!	!	.	_	6	punct	_	O
+
+1	https://t.co/ISZNevdkU9#TrumpPresident	#hlink#	ADD	_	3	dep	_	O
+2	#MAGA	#maga	NN	pos2=-RRB-	3	compound	_	U-ORG
+3	#Deplorables	#deplorables	NNS	pos2=ADD	0	root	_	O
+

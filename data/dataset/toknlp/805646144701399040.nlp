@@ -1,0 +1,15 @@
+1	Death	death	NN	_	2	compound	_	O
+2	penalty	penalty	NN	_	4	nsubj	_	O
+3	too	too	RB	_	4	advmod	_	O
+4	strong	strong	JJ	_	0	root	_	O
+5	?	?	.	_	4	punct	_	O
+
+1	Think	think	VB	pos2=NN	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	the	the	DT	_	5	det	_	O
+4	gene	gene	NN	_	5	compound	_	O
+5	pool	pool	NN	_	2	pobj	_	O
+6	!	!	.	_	1	punct	_	O
+
+1	https://t.co/DhtbpN5knP	#hlink#	ADD	_	0	root	_	U-ORG
+

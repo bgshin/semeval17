@@ -1,0 +1,8 @@
+1	Internet	internet	NN	_	2	compound	_	O
+2	freedom	freedom	NN	_	3	nsubj	_	O
+3	declines	decline	VBZ	pos2=NNS	0	root	_	O
+4	in	in	IN	pos2=RB	3	prep	_	O
+5	#Libya	#libya	NNP	pos2=NNS	4	pobj	_	U-GPE
+6	https://t.co/d6h6HyXtjs	#hlink#	ADD	_	2	appos	_	O
+7	#netfreedom2016	#netfreedom0	-RRB-	pos2=NN	3	punct	_	O
+

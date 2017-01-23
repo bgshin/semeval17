@@ -1,0 +1,19 @@
+1	@Blogsbloke	@blogsbloke	NNP	pos2=UH	4	nmod	_	U-ORG
+2	@AIIAmericanGirI	@aiiamericangiri	ADD	pos2=VBD	4	nmod	_	O
+3	@flamethrower82	@flamethrower0	NN	pos2=CD	4	compound	_	O
+4	@DeplorableJames	@deplorablejames	NNS	pos2=ADD	0	root	_	O
+5	@	@	SYM	pos2=CC	4	punct	_	O
+6	3rdReiched	0rdreiched	NN	pos2=VBN	4	prep	_	O
+7	@Cernovich	@cernovich	NNP	pos2=WDT	9	vocative	_	O
+8	I	I	PRP	_	10	nsubj	_	O
+9	'm	be	VBP	_	10	aux	_	O
+10	getting	get	VBG	_	4	relcl	_	O
+11	tired	tired	JJ	_	10	acomp	_	O
+12	of	of	IN	_	11	prep	_	O
+13	these	these	DT	_	14	det	_	O
+14	people	people	NNS	_	12	pobj	_	O
+15	and	and	CC	_	10	cc	_	O
+16	their	their	PRP$	_	18	poss	_	O
+17	gun	gun	NN	_	18	compound	_	O
+18	control	control	NN	_	6	dobj	_	O
+

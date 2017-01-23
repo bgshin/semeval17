@@ -1,0 +1,27 @@
+1	Ah	ah	UH	_	6	discourse	_	O
+2	yeah	yeah	UH	_	1	discourse	_	O
+3	,	,	,	_	7	punct	_	O
+4	but	but	CC	_	6	cc	_	O
+5	these	these	DT	_	6	nsubj	_	O
+6	are	be	VBP	_	0	root	_	O
+7	the	the	DT	_	11	det	_	O
+8	*	*	NFP	pos2=SYM	11	punct	_	O
+9	good	good	JJ	pos2=NN	11	nmod	_	O
+10	*	*	NFP	pos2=SYM	11	punct	_	O
+11	immigrants	immigrant	NNS	_	6	attr	_	O
+12	,	,	,	_	11	punct	_	O
+13	nice	nice	JJ	pos2=RB	18	nmod	_	O
+14	well	well	RB	pos2=UH	15	advmod	_	O
+15	spoken	speak	VBN	pos2=JJ	18	nmod	_	O
+16	white	white	JJ	_	18	nmod	_	O
+17	non-Muslim	non-muslim	JJ	_	18	nmod	_	O
+18	boys	boy	NNS	_	11	appos	_	O
+19	.	.	.	_	6	punct	_	O
+
+1	Not	not	RB	_	2	neg	_	O
+2	bad	bad	JJ	_	3	nmod	_	O
+3	hombres	hombre	NNS	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	https://t.co/wXdbqHYULl	#hlink#	ADD	_	0	root	_	U-ORG
+

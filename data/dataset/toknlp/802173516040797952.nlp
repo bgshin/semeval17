@@ -1,0 +1,9 @@
+1	Liam	liam	NNP	_	2	compound	_	B-PERSON
+2	😍🔥	😍🔥	NNP	pos2=HYPH	8	dep	_	L-PERSON
+3	#LiamPayne	#liampayne	ADD	pos2=NNP	8	dep	_	O
+4	#onedirection	#onedirection	ADD	pos2=NN	8	nmod	_	O
+5	@polls4teens	@polls0teens	VBZ	pos2=NNS	8	nmod	_	O
+6	@iesstomlinson	@iesstomlinson	GW	pos2=UH	8	nmod	_	O
+7	@abbyhorannn	@abbyhorannn	GW	pos2=ADD	8	nmod	_	O
+8	https://t.co/7N8pvOCaXb	#hlink#	ADD	pos2=NN	0	root	_	O
+

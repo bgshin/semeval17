@@ -1,0 +1,24 @@
+1	@realDonaldTrump	@realdonaldtrump	ADD	pos2=UH	4	punct	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	'm	be	VBP	_	4	aux	_	O
+4	gon	gon	VBG	_	0	root	_	O
+5	na	to	TO	_	6	aux	_	O
+6	need	need	VB	_	4	xcomp	_	O
+7	you	you	PRP	_	6	dobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	put	put	VB	_	6	advcl	_	O
+10	a	a	DT	_	11	det	_	O
+11	stop	stop	NN	_	9	dobj	_	O
+12	to	to	IN	_	9	prep	_	O
+13	the	the	DT	_	16	det	_	O
+14	Dakota	dakota	NNP	_	16	compound	_	O
+15	Access	access	NNP	_	16	compound	_	O
+16	Pipeline	pipeline	NNP	pos2=NN	12	pobj	_	O
+17	if	if	IN	_	20	mark	_	O
+18	you	you	PRP	_	20	nsubj	_	O
+19	ever	ever	RB	_	20	advmod	_	O
+20	want	want	VBP	pos2=VB	9	advcl	_	O
+21	my	my	PRP$	_	22	poss	_	O
+22	support	support	NN	_	20	dobj	_	O
+23	.	.	.	_	4	punct	_	O
+

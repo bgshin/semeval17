@@ -1,0 +1,17 @@
+1	Imagine	imagine	VB	_	0	root	_	O
+2	being	be	VBG	_	1	xcomp	_	O
+3	the	the	DT	_	4	det	_	O
+4	dude	dude	NN	_	2	attr	_	O
+5	with	with	IN	_	4	prep	_	O
+6	a	a	DT	_	8	det	_	O
+7	recent	recent	JJ	_	8	nmod	_	O
+8	DUI	duo	NN	pos2=NNP	5	pobj	_	O
+9	in	in	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	age	age	NN	_	9	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	self	self	NN	_	14	npadvmod	_	O
+14	driving	drive	VBG	pos2=NN	12	pcomp	_	O
+15	cars	car	NNS	_	14	dobj	_	O
+16	.	.	.	_	1	punct	_	O
+

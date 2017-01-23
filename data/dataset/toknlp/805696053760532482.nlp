@@ -1,0 +1,15 @@
+1	✨✔😘😘Defeat	✨✔😘😘defeat	NNP	pos2=VB	0	root	_	B-WORK_OF_ART
+2	The	the	DT	_	3	det	_	I-WORK_OF_ART
+3	Ghost	ghost	NN	pos2=NNP	1	appos	_	I-WORK_OF_ART
+4	For	for	IN	_	3	prep	_	I-WORK_OF_ART
+5	Me	me	PRP	_	4	pobj	_	L-WORK_OF_ART
+6	!	!	.	_	1	punct	_	O
+
+1	👻	👻	SYM	pos2=NFP	4	punct	_	B-ORG
+2	🔥🐠John	🔥🐠john	NNP	pos2=CC	4	compound	_	I-ORG
+3	Smith🔱🇨🇦:Zac	smith🔱🇨🇦:zac	NNP	pos2=GW	4	compound	_	I-ORG
+4	Efron	efron	NNP	_	0	root	_	I-ORG
+5	&	&	CC	pos2=GW	4	cc	_	I-ORG
+6	beahttps://t.co/5kR4nbliE9	#hlink#	ADD	_	7	nmod	_	L-ORG
+7	https://t.co/j8XdkHbi5A	#hlink#	ADD	_	4	conj	_	U-ORG
+

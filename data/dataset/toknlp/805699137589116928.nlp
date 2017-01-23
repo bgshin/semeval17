@@ -1,0 +1,21 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@peterfeaman	@peterfeaman	UH	pos2=MD	4	discourse	_	O
+2	@lizbethkb	@lizbethkb	MD	pos2=NN	4	aux	_	O
+3	Pls	pls	NNS	pos2=UH	4	nsubj	_	O
+4	vote	vote	VB	_	0	root	_	O
+5	w	w	IN	pos2=RP	4	prep	_	O
+6	/	/	HYPH	pos2=SYM	5	punct	_	O
+7	your	your	PRP$	_	8	poss	_	O
+8	conscience	conscience	NN	_	5	pobj	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	Trump	trump	NN	pos2=NNP	2	nsubj	_	U-PERSON
+2	is	be	VBZ	_	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Trump	trump	NNP	pos2=NN	3	pobj	_	U-ORG
+5	.	.	.	_	2	punct	_	O
+
+1	#MoralElectors	#moralelectors	NNS	pos2=ADD	2	nmod	_	O
+2	https://t.co/NA8dOF4sE2	#hlink#	ADD	_	0	root	_	O
+

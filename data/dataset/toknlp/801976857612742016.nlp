@@ -1,0 +1,8 @@
+1	Omggggg	omggggg	NNP	pos2=VBG	7	nmod	_	O
+2	Taylor	taylor	NNP	_	4	compound	_	B-PERSON
+3	Lautner	lautner	NNP	_	4	compound	_	L-PERSON
+4	#ScreamQueens	#screamqueens	NNP	pos2=VBZ	7	dep	_	O
+5	#DrCassiyCascade	#drcassiycascade	GW	pos2=ADD	7	nmod	_	O
+6	#GreenMeanie	#greenmeanie	GW	pos2=ADD	7	nmod	_	O
+7	https://t.co/DC8DjRYZmY	#hlink#	ADD	pos2=NN	0	root	_	O
+

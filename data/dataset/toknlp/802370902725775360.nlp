@@ -1,0 +1,26 @@
+1	@mitchellvii	@mitchellvii	UH	pos2=``	4	discourse	_	O
+2	It	it	PRP	_	4	nsubjpass	_	O
+3	's	's	VBZ	_	4	auxpass	_	O
+4	called	call	VBN	_	0	root	_	O
+5	George	george	NNP	_	4	oprd	_	B-PERSON
+6	Freaking	freak	VBG	pos2=NNP	7	compound	_	I-PERSON
+7	Soros	soros	NNP	_	4	oprd	_	L-PERSON
+8	.	.	.	_	4	punct	_	O
+
+1	This	this	DT	_	4	nsubjpass	_	O
+2	should	should	MD	_	4	aux	_	O
+3	be	be	VB	_	4	auxpass	_	O
+4	investigated	investigate	VBN	_	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	cavity	cavity	NN	_	7	compound	_	O
+7	search	search	NN	_	8	compound	_	O
+8	proportions	proportion	NNS	_	5	pobj	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	This	this	DT	_	2	nsubj	_	O
+2	happened	happened	VBD	_	0	root	_	O
+3	after	after	IN	_	2	prep	_	O
+4	Soros	soros	NNP	pos2=NNPS	5	compound	_	U-PERSON
+5	meeting	meeting	NN	_	3	pobj	_	O
+6	.	.	.	_	2	punct	_	O
+

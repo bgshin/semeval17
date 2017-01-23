@@ -1,0 +1,15 @@
+1	Hashid	hashid	NNP	pos2=FW	4	compound	_	B-PERSON
+2	al	al	NNP	_	4	compound	_	I-PERSON
+3	-	-	HYPH	_	4	punct	_	I-PERSON
+4	Shaabi	shaabi	NNP	_	5	compound	_	L-PERSON
+5	besiege	besiege	NN	pos2=VBP	7	compound	_	O
+6	Tal	tal	NNP	_	7	compound	_	B-GPE
+7	Afar	afar	NNP	pos2=RB	0	root	_	L-GPE
+8	from	from	IN	_	7	prep	_	O
+9	three	#crd#	CD	_	10	nmod	_	U-CARDINAL
+10	axes	ax	NNS	_	8	pobj	_	O
+11	today	today	NN	_	7	npadvmod	_	U-DATE
+12	...	..	.	pos2=,	7	punct	_	O
+
+1	#MosulOffensive	#mosuloffensive	ADD	pos2=JJ	0	root	_	O
+

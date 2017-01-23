@@ -1,0 +1,13 @@
+1	So	so	RB	_	2	advmod	_	O
+2	sad	sad	JJ	_	6	nsubj	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Tim	tim	NNP	_	5	compound	_	B-PERSON
+5	Duncan	duncan	NNP	_	3	pobj	_	L-PERSON
+6	said	say	VBD	_	0	root	_	O
+7	,	,	,	_	6	punct	_	O
+8	We	we	PRP	_	9	nsubj	_	O
+9	played	play	VBD	_	6	ccomp	_	O
+10	through	through	IN	_	9	prep	_	O
+11	it	it	PRP	_	10	pobj	_	O
+12	.	.	.	_	6	punct	_	O
+

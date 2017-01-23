@@ -1,0 +1,13 @@
+1	@Trump2045896984	@trump0	NN	pos2=NNS	4	nsubj	_	O
+2	@nelsonvelazquez	@nelsonvelazquez	IN	pos2=NNP	1	prep	_	O
+3	Clinton	clinton	NNP	_	2	pobj	_	U-PERSON
+4	is	be	VBZ	_	0	root	_	O
+5	ahead	ahead	RB	_	4	advmod	_	O
+6	over	over	IN	_	8	qmod	_	O
+7	2	0	CD	_	8	compound	_	B-CARDINAL
+8	million	#crd#	CD	_	4	attr	_	L-CARDINAL
+9	in	in	IN	_	8	prep	_	O
+10	popular	popular	JJ	_	11	nmod	_	O
+11	vote	vote	NN	_	9	pobj	_	O
+12	.	.	.	_	4	punct	_	O
+

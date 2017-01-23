@@ -1,0 +1,28 @@
+1	Easily	easily	RB	_	2	advmod	_	O
+2	interpreted	interpret	VBN	pos2=VBD	17	advcl	_	O
+3	as	as	IN	_	2	prep	_	O
+4	this	this	DT	_	3	pobj	_	O
+5	:	:	:	_	4	punct	_	O
+6	if	if	IN	_	8	mark	_	O
+7	you	you	PRP	_	8	nsubj	_	O
+8	are	be	VBP	_	2	advcl	_	O
+9	latino	latino	JJ	_	8	acomp	_	O
+10	or	or	CC	_	9	cc	_	O
+11	black	black	JJ	_	9	conj	_	O
+12	,	,	,	_	17	punct	_	O
+13	your	your	PRP$	_	14	poss	_	O
+14	chances	chance	NNS	_	17	nsubj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	justice	justice	NN	_	15	pobj	_	O
+17	are	be	VBP	_	0	root	_	O
+18	lower	low	JJR	pos2=JJ	17	acomp	_	O
+19	.	.	.	_	17	punct	_	O
+
+1	From	from	IN	_	6	prep	_	O
+2	the	the	DT	_	4	det	_	O
+3	death	death	NN	_	4	compound	_	O
+4	penalty	penalty	NN	_	1	pobj	_	O
+5	in	in	IN	_	0	root	_	O
+6	…	…	NFP	pos2=-LRB-	5	pobj	_	O
+7	https://t.co/IVktyarS14	#hlink#	ADD	pos2=NN	5	pobj	_	O
+

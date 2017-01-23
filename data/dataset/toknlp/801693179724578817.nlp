@@ -1,0 +1,21 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	14	ccomp	_	O
+3	time	time	NN	_	2	attr	_	O
+4	we	we	PRP	_	8	nsubj	_	O
+5	Georgians	georgian	NNPS	_	4	appos	_	U-NORP
+6	did	do	VBD	_	8	aux	_	O
+7	not	not	RB	_	8	neg	_	O
+8	depend	depend	VB	_	3	relcl	_	O
+9	only	only	RB	_	10	advmod	_	O
+10	on	on	IN	_	8	prep	_	O
+11	others	other	NNS	_	10	pobj	_	O
+12	,	,	,	_	14	punct	_	O
+13	it	it	PRP	_	14	nsubj	_	O
+14	is	be	VBZ	_	0	root	_	O
+15	tim	tim	NN	pos2=JJ	14	attr	_	O
+16	...	..	.	pos2=,	14	punct	_	O
+
+1	#MikheilSaakashvili	#mikheilsaakashvili	GW	pos2=NNS	3	nmod	_	B-PERSON
+2	#quotes	#quotes	GW	pos2=NNS	3	nmod	_	L-PERSON
+3	https://t.co/K7itC5f9kZ	#hlink#	ADD	pos2=NN	0	root	_	O
+

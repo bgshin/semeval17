@@ -1,0 +1,27 @@
+1	Following	follow	VBG	_	6	prep	_	O
+2	Trump	trump	NNP	pos2=NN	4	poss	_	U-ORG
+3	’s	's	POS	_	2	case	_	O
+4	advice	advice	NN	_	1	pobj	_	O
+5	:	:	:	_	6	punct	_	O
+6	call	call	VB	pos2=NN	0	root	_	O
+7	something	something	NN	_	6	dobj	_	O
+8	by	by	IN	_	7	prep	_	O
+9	its	its	PRP$	_	11	poss	_	O
+10	true	true	JJ	_	11	nmod	_	O
+11	name	name	NN	_	8	pobj	_	O
+12	and	and	CC	_	6	cc	_	O
+13	then	then	RB	_	14	advmod	_	O
+14	repeat	repeat	VB	_	6	conj	_	O
+15	it	it	PRP	_	14	dobj	_	O
+16	three	#crd#	CD	_	17	nmod	_	U-CARDINAL
+17	times	time	NNS	_	14	npadvmod	_	O
+18	.	.	.	_	6	punct	_	O
+
+1	Lying	lie	VBG	pos2=NN	5	advcl	_	O
+2	,	,	,	_	5	punct	_	O
+3	Fraud	fraud	NNP	_	4	compound	_	O
+4	Trump	trump	NNP	pos2=NN	5	nsubj	_	U-PERSON
+5	is	be	VBZ	_	0	root	_	O
+6	…	…	NFP	pos2=-LRB-	5	discourse	_	O
+7	https://t.co/9QaqNhJZCP	#hlink#	ADD	_	5	attr	_	O
+

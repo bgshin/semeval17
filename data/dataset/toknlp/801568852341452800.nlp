@@ -1,0 +1,23 @@
+1	#HurtFeelingsInChinaToday	#hurtfeelingsinchinatoday	NN	pos2=NNS	3	dep	_	O
+2	:	:	:	_	3	punct	_	O
+3	US	us	NNP	pos2=PRP	5	nsubj	_	U-GPE
+4	should	should	MD	_	5	aux	_	O
+5	butt	butt	VB	_	0	root	_	O
+6	out	out	IN	_	5	prep	_	O
+7	of	of	IN	_	6	prep	_	O
+8	alliances	alliance	NNS	_	7	pobj	_	O
+9	that	that	WDT	_	10	nsubj	_	O
+10	upset	upset	VBD	pos2=JJ	8	relcl	_	O
+11	“	"	``	pos2=''	22	punct	_	O
+12	Kim	kim	NNP	_	13	compound	_	B-PERSON
+13	Fatty	fatty	NNP	_	22	dep	_	L-PERSON
+14	the	the	DT	_	15	det	_	O
+15	Third	#ord#	NNP	pos2=JJ	13	appos	_	U-ORDINAL
+16	"	"	''	pos2=``	13	punct	_	O
+17	&	&	CC	pos2=VBZ	13	cc	_	O
+18	his	his	PRP$	_	19	poss	_	O
+19	bum	bum	NN	_	13	conj	_	O
+20	buddiesBy	buddiesby	NNP	pos2=NFP	19	appos	_	B-WORK_OF_ART
+21	…	…	NFP	pos2=-LRB-	22	punct	_	L-WORK_OF_ART
+22	https://t.co/ghCOQkp5Cm	#hlink#	ADD	_	10	dobj	_	O
+

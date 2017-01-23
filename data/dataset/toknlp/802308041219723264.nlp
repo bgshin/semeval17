@@ -1,0 +1,16 @@
+1	@GuatermelonGum	@guatermelongum	UH	pos2=ADD	4	discourse	_	O
+2	@crazygearz	@crazygearz	UH	pos2=NNP	4	discourse	_	O
+3	That	that	DT	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	Galaxy	galaxy	NNP	_	7	compound	_	U-PRODUCT
+7	Note	note	NN	pos2=NNP	4	attr	_	O
+8	7.	0.	LS	pos2=.	12	meta	_	U-CARDINAL
+9	We	we	PRP	_	12	nsubj	_	O
+10	do	do	VBP	_	12	aux	_	O
+11	n't	not	RB	_	12	neg	_	O
+12	speak	speak	VB	_	4	advcl	_	O
+13	of	of	IN	_	12	prep	_	O
+14	it	it	PRP	_	13	pobj	_	O
+15	.	.	.	_	4	punct	_	O
+

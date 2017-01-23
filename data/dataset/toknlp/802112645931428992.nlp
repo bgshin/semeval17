@@ -1,0 +1,12 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	excited	excited	JJ	pos2=VBN	2	acomp	_	O
+4	for	for	IN	_	3	prep	_	O
+5	persona	persona	NN	_	4	pobj	_	O
+6	5	0	CD	_	7	compound	_	B-DATE
+7	3	0	CD	_	8	nmod	_	I-DATE
+8	years	year	NNS	_	9	npadvmod	_	I-DATE
+9	ago	ago	RB	_	2	advmod	_	L-DATE
+10	😤😤😤😤😤😤😤	😤😤😤😤😤😤😤	NFP	pos2=:	2	discourse	_	O
+11	https://t.co/P4N8MdUxOJ	#hlink#	ADD	_	2	dep	_	O
+

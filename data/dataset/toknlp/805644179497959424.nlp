@@ -1,0 +1,29 @@
+1	#cannabis	#cannabis	UH	pos2=-LRB-	5	discourse	_	O
+2	https://t.co/vrEgo80yKX	#hlink#	ADD	pos2=POS	0	root	_	O
+3	LANSING	lansing	NNP	pos2=NN	2	npadvmod	_	U-GPE
+4	,	,	,	_	3	punct	_	O
+5	Mich	mich	NNP	_	3	appos	_	U-GPE
+6	.	.	.	_	2	punct	_	O
+
+1	(	(	-LRB-	_	8	punct	_	O
+2	WLNS	wlns	NNP	pos2=NNS	8	nmod	_	U-ORG
+3	)	)	-RRB-	_	2	punct	_	O
+4	–	-	:	pos2=,	8	punct	_	O
+5	Medical	medical	JJ	pos2=NNP	7	advmod	_	O
+6	marijuana…a	marijuana…a	HYPH	pos2=NNP	7	punct	_	O
+7	hot	hot	JJ	_	8	nmod	_	O
+8	topic	topic	NN	_	0	root	_	O
+9	for	for	IN	_	8	prep	_	O
+10	quite	quite	RB	pos2=PDT	12	predet	_	O
+11	some	some	DT	_	12	det	_	O
+12	time	time	NN	_	9	pobj	_	O
+13	.	.	.	_	8	punct	_	O
+
+1	Some	some	DT	_	2	det	_	O
+2	people	people	NNS	_	3	nsubj	_	O
+3	say	say	VBP	_	0	root	_	O
+4	they	they	PRP	_	5	nsubj	_	O
+5	're	be	VBP	_	3	ccomp	_	O
+6	again	again	RB	_	5	advmod	_	O
+7	…	…	NFP	pos2=.	3	punct	_	O
+

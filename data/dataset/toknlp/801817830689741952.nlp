@@ -1,0 +1,24 @@
+1	#Russia	#russia	NNP	pos2=NN	4	vocative	_	U-GPE
+2	,	,	,	_	4	punct	_	O
+3	#Hezbollah	#hezbollah	NNP	pos2=TO	4	nsubj	_	U-GPE
+4	begin	begin	VB	pos2=VBP	0	root	_	O
+5	“	"	``	_	9	punct	_	O
+6	official	official	JJ	_	9	nmod	_	O
+7	”	"	''	_	9	punct	_	O
+8	military	military	JJ	pos2=NN	9	nmod	_	O
+9	coordination	coordination	NN	_	4	dobj	_	O
+10	in	in	IN	_	9	prep	_	O
+11	#Syria	#syria	NNP	pos2=NN	10	pobj	_	U-GPE
+12	at	at	IN	_	9	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	behest	behest	NN	_	12	pobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	Moscow	moscow	NNP	_	15	pobj	_	U-GPE
+17	,	,	,	_	4	punct	_	O
+18	according	accord	VBG	_	4	prep	_	O
+19	to	to	IN	_	18	prep	_	O
+20	a	a	DT	_	21	det	_	O
+21	report	report	NN	_	19	pobj	_	O
+22	…	…	NFP	pos2=IN	23	punct	_	O
+23	https://t.co/0Fxt61o8p2	#hlink#	ADD	_	4	dep	_	O
+

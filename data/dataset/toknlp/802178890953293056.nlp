@@ -1,0 +1,20 @@
+1	#DFLP	#dflp	NN	pos2=NNP	3	poss	_	U-ORG
+2	's	's	POS	pos2=VBZ	1	case	_	O
+3	Khaled	khaled	NNP	pos2=NN	5	nsubj	_	U-PERSON
+4	:	:	:	_	7	punct	_	O
+5	Betting	bet	VBG	pos2=NNP	0	root	_	O
+6	on	on	IN	_	5	prep	_	O
+7	Int	int	NNP	pos2=NN	6	pobj	_	U-ORG
+8	.	.	.	_	5	punct	_	O
+
+1	Initiatives	initiative	NNS	pos2=VBZ	2	nsubj	_	O
+2	Futile	futile	JJ	pos2=NNP	0	root	_	O
+3	Without	without	IN	_	2	prep	_	O
+4	Encountering	encounter	VBG	_	3	pcomp	_	O
+5	#Israeli	#israeli	NNP	pos2=PRP$	6	compound	_	O
+6	Occupation	occupation	NNP	pos2=NN	4	dobj	_	U-EVENT
+7	on	on	IN	_	4	prep	_	O
+8	Ground	ground	NNP	pos2=NN	7	pobj	_	O
+9	https://t.co/02z0kL3TMt	#hlink#	ADD	pos2=NNP	10	nmod	_	O
+10	#Palestine	#palestine	NNP	pos2=ADD	0	root	_	O
+

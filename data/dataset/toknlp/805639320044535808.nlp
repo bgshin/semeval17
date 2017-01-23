@@ -1,0 +1,23 @@
+1	@SpeakerRyan	@speakerryan	JJ	pos2=NNP	3	nmod	_	O
+2	Fossil	fossil	JJ	pos2=NNP	3	nmod	_	O
+3	fuels	fuel	NNS	_	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	dead	dead	JJ	_	4	acomp	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	Please	please	UH	_	2	discourse	_	O
+2	get	get	VB	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	fuck	fuck	NN	_	2	dobj	_	O
+5	over	over	IN	pos2=RP	4	prep	_	O
+6	it	it	PRP	_	5	pobj	_	O
+7	already	already	RB	_	9	advmod	_	O
+8	you	you	PRP	pos2=VBZ	9	nsubj	_	O
+9	craven	craven	VBP	pos2=NNP	4	cc	_	O
+10	whore	whore	NN	pos2=RB	9	dobj	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	#NeverTrump	#nevertrump	ADD	pos2=XX	3	punct	_	O
+2	#RussianriggedElection	#russianriggedelection	NN	pos2=ADD	3	dep	_	O
+3	#Illegitimate	#illegitimate	ADD	pos2=NN	0	root	_	O
+

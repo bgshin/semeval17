@@ -1,0 +1,18 @@
+1	Melania	melania	NNP	pos2=NN	5	poss	_	U-PERSON
+2	's	's	POS	_	1	case	_	O
+3	speech	speech	NN	_	4	compound	_	O
+4	hit	hit	NN	pos2=VBD	5	compound	_	O
+5	#	#	NN	_	10	acl	_	O
+6	1	0	CD	pos2=LS	5	nmod	_	U-CARDINAL
+7	on	on	IN	_	5	prep	_	O
+8	Billboard	billboard	NNP	pos2=RB	7	pobj	_	U-ORG
+9	,	,	,	_	13	punct	_	O
+10	something	something	NN	_	0	root	_	O
+11	Nicki	nicki	NNP	_	12	compound	_	B-PERSON
+12	Minaj	minaj	NNP	_	13	nsubj	_	L-PERSON
+13	has	have	VBZ	_	10	relcl	_	O
+14	yet	yet	RB	_	13	advmod	_	O
+15	to	to	TO	_	16	aux	_	O
+16	achieve	achieve	VB	_	13	xcomp	_	O
+17	https://t.co/LQ2TXjTvG6	#hlink#	ADD	pos2=NN	16	dobj	_	U-ORG
+

@@ -1,0 +1,17 @@
+1	@damianchristie	@damianchristie	NN	pos2=UH	0	root	_	O
+2	but	but	CC	_	1	cc	_	O
+3	then	then	RB	_	4	advmod	_	O
+4	what	what	WP	_	1	conj	_	O
+5	?	?	.	_	1	punct	_	O
+
+1	mike	mike	NN	pos2=JJ	2	compound	_	O
+2	pence	penny	NN	pos2=NNS	0	root	_	O
+3	who	who	WP	_	4	nsubj	_	O
+4	is	be	VBZ	_	2	relcl	_	O
+5	arguably	arguably	RB	_	4	advmod	_	O
+6	a	a	DT	_	9	det	_	O
+7	far	far	RB	pos2=NN	8	advmod	_	O
+8	worse	bad	JJR	pos2=JJ	9	nmod	_	O
+9	individual	individual	JJ	pos2=NN	4	attr	_	O
+10	?	?	.	_	2	punct	_	O
+

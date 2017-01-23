@@ -1,0 +1,12 @@
+1	#PicOfTheDay	#picoftheday	NN	pos2=UH	0	root	_	O
+2	No	no	DT	_	3	det	_	O
+3	place	place	NN	_	1	dobj	_	O
+4	anymore	anymore	RB	_	1	advmod	_	O
+5	on	on	IN	_	1	prep	_	O
+6	cemeteries	cemetery	NNS	_	5	pobj	_	O
+7	in	in	IN	_	6	prep	_	O
+8	Aleppo	aleppo	NNP	_	7	pobj	_	U-GPE
+9	.	.	.	_	1	punct	_	O
+
+1	https://t.co/grV7I6Wx0b	#hlink#	ADD	_	0	root	_	U-ORG
+

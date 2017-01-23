@@ -1,0 +1,25 @@
+1	@mistere2000	@mistere0	NN	pos2=LS	7	nsubj	_	O
+2	@georgesoros	@georgesoros	UH	pos2=NNS	1	discourse	_	O
+3	@nytimes	@nytimes	UH	pos2=NNS	7	discourse	_	O
+4	have	have	VBP	pos2=VB	7	aux	_	O
+5	you	you	PRP	_	7	nsubj	_	O
+6	never	never	RB	_	7	neg	_	O
+7	watched	watch	VBD	_	0	root	_	O
+8	him	him	PRP	_	9	nsubj	_	O
+9	speak	speak	VB	_	7	ccomp	_	O
+10	?	?	.	_	7	punct	_	O
+
+1	"	"	``	_	13	punct	_	O
+2	The	the	DT	_	3	det	_	O
+3	blacks	black	NNS	_	0	attr	_	O
+4	"	"	''	_	3	punct	_	O
+5	"	"	``	_	7	punct	_	O
+6	criminal	criminal	JJ	pos2=NN	7	nmod	_	O
+7	Mexicans	mexican	NNPS	_	3	appos	_	U-NORP
+8	"	"	''	_	7	punct	_	O
+9	"	"	``	_	7	punct	_	O
+10	bad	bad	JJ	_	11	nmod	_	O
+11	hombres	hombre	NNS	pos2=FW	7	appos	_	O
+12	"	"	''	pos2=``	7	punct	_	O
+13	lol	lol	UH	_	0	root	_	O
+

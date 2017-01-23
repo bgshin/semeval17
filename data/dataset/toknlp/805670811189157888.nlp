@@ -1,0 +1,15 @@
+1	We	we	PRP	_	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	best	good	JJS	pos2=RBS	1	appos	_	O
+4	,	,	,	_	1	punct	_	O
+5	no	no	DT	pos2=UH	6	det	_	O
+6	Khaled	khaled	NNP	_	3	appos	_	U-PERSON
+7	,	,	,	_	12	punct	_	O
+8	We	we	PRP	_	3	appos	_	O
+9	the	the	DT	_	10	det	_	O
+10	best	good	JJS	pos2=RBS	8	appos	_	O
+11	like	like	IN	_	10	prep	_	O
+12	Ali	ali	NNP	_	14	nmod	_	U-PERSON
+13	,	,	,	_	14	punct	_	O
+14	Muhammad	muhammad	NNP	_	11	pobj	_	O
+

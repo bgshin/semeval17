@@ -1,0 +1,22 @@
+1	@coachglove	@coachglove	UH	pos2=ADD	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	think	think	VBP	_	0	root	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	takes	take	VBZ	_	3	ccomp	_	O
+6	tremendous	tremendous	JJ	_	7	nmod	_	O
+7	teamwork	teamwork	NN	_	5	dobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	achieve	achieve	VB	_	5	advcl	_	O
+10	military	military	JJ	_	11	nmod	_	O
+11	objectives	objective	NNS	_	9	dobj	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	Gold	gold	NN	pos2=JJ	2	compound	_	O
+2	standard	standard	NN	pos2=JJ	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Thus	thus	RB	_	3	advmod	_	O
+2	the	the	DT	_	3	det	_	O
+3	comparison	comparison	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+

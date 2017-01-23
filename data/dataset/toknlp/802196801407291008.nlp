@@ -1,0 +1,8 @@
+1	#onedirection	#onedirection	UH	pos2=NN	7	discourse	_	O
+2	#harrystyles	#harrystyles	UH	pos2=VBZ	7	discourse	_	O
+3	cute	cute	JJ	_	5	nmod	_	O
+4	little	little	JJ	_	5	nmod	_	O
+5	dance	dance	NN	pos2=GW	7	dep	_	O
+6	😉	😉	NFP	pos2=:	5	cc	_	O
+7	https://t.co/hgpZHXDoZc	#hlink#	ADD	_	0	root	_	O
+

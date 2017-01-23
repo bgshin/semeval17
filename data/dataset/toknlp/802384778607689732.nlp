@@ -1,0 +1,21 @@
+1	"	"	``	pos2=SYM	9	punct	_	O
+2	Green	green	NNP	_	3	nmod	_	B-ORG
+3	Party	party	NNP	_	5	nmod	_	L-ORG
+4	presidential	presidential	JJ	_	5	nmod	_	O
+5	candidate	candidate	NN	_	7	compound	_	O
+6	Jill	jill	NNP	_	7	compound	_	B-PERSON
+7	Stein	stein	NNP	_	9	nsubj	_	L-PERSON
+8	has	have	VBZ	_	9	aux	_	O
+9	filed	file	VBN	_	0	root	_	O
+10	a	a	DT	_	11	det	_	O
+11	request	request	NN	_	9	dobj	_	O
+12	for	for	IN	_	11	prep	_	O
+13	a	a	DT	_	14	det	_	O
+14	recount	recount	NN	_	12	pobj	_	O
+15	with	with	IN	_	14	prep	_	O
+16	Wisconsin	wisconsin	NNP	_	17	compound	_	U-GPE
+17	election	election	NN	_	15	pobj	_	O
+18	...	..	.	pos2=,	9	punct	_	O
+
+1	https://t.co/zBAnfjBydQ	#hlink#	ADD	_	0	root	_	U-ORG
+

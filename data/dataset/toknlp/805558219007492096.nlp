@@ -1,0 +1,12 @@
+1	If	if	IN	_	5	mark	_	O
+2	this	this	DT	_	5	nsubj	_	O
+3	does	do	VBZ	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	convert	convert	VB	_	11	advcl	_	O
+6	people	people	NNS	_	5	dobj	_	O
+7	to	to	IN	_	5	prep	_	O
+8	vegetarianism	vegetarianism	NN	pos2=VB	9	compound	_	O
+9	nothing	nothing	NN	_	7	pobj	_	O
+10	will	will	MD	_	11	dep	_	O
+11	https://t.co/K3KWi15v70	#hlink#	ADD	pos2=VB	0	root	_	O
+

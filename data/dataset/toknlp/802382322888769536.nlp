@@ -1,0 +1,15 @@
+1	Keras	keras	NNP	pos2=NNS	2	compound	_	O
+2	Tutorial	tutorial	NN	pos2=NNP	14	dep	_	O
+3	:	:	:	_	14	punct	_	O
+4	The	the	DT	_	6	det	_	O
+5	Ultimate	ultimate	NNP	pos2=JJ	6	compound	_	O
+6	Beginner	beginner	NNP	pos2=NN	8	poss	_	O
+7	's	's	POS	_	6	case	_	O
+8	Guide	guide	NNP	pos2=NN	14	nmod	_	O
+9	to	to	IN	_	8	prep	_	O
+10	Deep	deep	NNP	pos2=JJ	11	compound	_	O
+11	Learning	learning	NNP	pos2=NN	9	pobj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	Python	python	NNP	_	12	pobj	_	O
+14	https://t.co/2Xog2vm1Xz	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,27 @@
+1	@TomiLahren	@tomilahren	ADD	pos2=XX	4	punct	_	O
+2	nobody	nobody	NN	_	4	nsubj	_	O
+3	is	be	VBZ	_	4	aux	_	O
+4	saying	say	VBG	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	go	go	VB	_	4	xcomp	_	O
+7	cold	cold	JJ	pos2=VB	8	nmod	_	O
+8	turkey	turkey	NN	_	6	dobj	_	O
+9	on	on	IN	_	6	prep	_	O
+10	fossil	fossil	NN	pos2=JJ	11	compound	_	O
+11	fuels	fuel	NNS	_	9	pobj	_	O
+12	.	.	.	_	4	punct	_	O
+
+1	Just	just	RB	_	2	advmod	_	O
+2	saying	say	VBG	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	expedite	expedite	VB	_	2	xcomp	_	O
+5	alternatives	alternative	NNS	_	4	dobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	Simple	simple	JJ	_	3	nmod	_	O
+2	minded	minded	JJ	_	3	nmod	_	O
+3	people	people	NNS	_	4	nsubj	_	O
+4	make	make	VBP	pos2=VB	0	root	_	O
+5	straw	straw	NN	pos2=JJ	6	compound	_	O
+6	men	man	NNS	_	4	dobj	_	O
+

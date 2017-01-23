@@ -1,0 +1,17 @@
+1	#BaseBall	#baseball	ADD	pos2=XX	4	prep	_	O
+2	#Buzz	#buzz	NNP	pos2=IN	4	compound	_	O
+3	Justin	justin	NNP	_	4	compound	_	B-PERSON
+4	Verlander	verlander	NNP	_	5	compound	_	L-PERSON
+5	#	#	NN	_	0	root	_	O
+6	35	0	CD	pos2=LS	5	nmod	_	U-MONEY
+7	#Detroit	#detroit	IN	pos2=NN	1	prep	_	O
+8	#Tigers	#tigers	PRP$	pos2=NNP	16	poss	_	O
+9	Majestic	majestic	NNP	pos2=JJ	16	nmod	_	B-ORG
+10	Player	player	NNP	pos2=NN	12	compound	_	I-ORG
+11	T-shirt	t-shirt	NNP	pos2=NN	12	compound	_	I-ORG
+12	Boys	boy	NNPS	pos2=NNS	13	nsubj	_	L-ORG
+13	Large	large	JJ	pos2=GW	14	nmod	_	O
+14	https://t.co/MbclJyf8CI	#hlink#	ADD	pos2=NN	9	appos	_	O
+15	#Forsale	#forsale	-RRB-	pos2=IN	14	punct	_	O
+16	#Deals	#deals	NNS	pos2=ADD	7	pobj	_	O
+

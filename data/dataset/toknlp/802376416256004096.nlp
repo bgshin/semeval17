@@ -1,0 +1,19 @@
+1	Social	social	NNP	pos2=JJ	2	compound	_	B-ORG
+2	Security	security	NNP	_	3	nsubj	_	L-ORG
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	promise	promise	NN	_	3	attr	_	O
+6	that	that	IN	pos2=WDT	8	mark	_	O
+7	we	we	PRP	_	8	nsubj	_	O
+8	can	can	MD	_	5	acl	_	O
+9	not	not	RB	_	8	neg	_	O
+10	and	and	CC	_	8	cc	_	O
+11	must	must	MD	_	13	aux	_	O
+12	not	not	RB	_	13	neg	_	O
+13	break	break	VB	_	8	conj	_	O
+14	....	..	.	_	3	punct	_	O
+
+1	#BernieSanders	#berniesanders	NNS	pos2=GW	3	nmod	_	O
+2	#quotation	#quotation	ADD	pos2=GW	3	punct	_	O
+3	https://t.co/xyAKMT5cI5	#hlink#	ADD	pos2=NN	0	root	_	O
+

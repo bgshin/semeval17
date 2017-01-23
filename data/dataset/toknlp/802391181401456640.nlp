@@ -1,0 +1,12 @@
+1	Michelle	michelle	NNP	_	2	nsubj	_	U-PERSON
+2	said	say	VBD	_	0	root	_	O
+3	"	"	``	_	2	punct	_	O
+4	this	this	DT	_	5	nsubj	_	O
+5	is	be	VBZ	_	2	ccomp	_	O
+6	my	my	PRP$	_	7	poss	_	O
+7	song	song	NN	_	5	attr	_	O
+8	!	!	.	pos2=,	2	punct	_	O
+9	"	"	''	_	2	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+

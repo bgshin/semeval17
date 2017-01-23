@@ -1,0 +1,21 @@
+1	@BootlegGirl	@bootleggirl	XX	pos2=PDT	12	dep	_	O
+2	The	the	DT	_	4	det	_	O
+3	dividing	divide	VBG	pos2=JJ	4	nmod	_	O
+4	lines	line	NNS	_	12	nsubj	_	O
+5	that	that	WDT	pos2=IN	9	dobj	_	O
+6	these	these	DT	_	8	det	_	O
+7	new	new	JJ	_	8	nmod	_	O
+8	fascists	fascist	NNS	_	9	nsubj	_	O
+9	draw	draw	VBP	pos2=VB	4	relcl	_	O
+10	around	around	IN	pos2=RB	9	prep	_	O
+11	themselves	themselves	PRP	_	10	pobj	_	O
+12	are	be	VBP	_	0	root	_	O
+13	bizarre	bizarre	JJ	_	12	acomp	_	O
+14	,	,	,	_	12	punct	_	O
+15	but	but	CC	_	12	cc	_	O
+16	they	they	PRP	_	18	nsubj	_	O
+17	do	do	VBP	_	18	aux	_	O
+18	exist	exist	VB	pos2=VBP	12	conj	_	O
+19	:	:	:	_	18	punct	_	O
+20	https://t.co/ArrFFRotRF	#hlink#	ADD	pos2=NN	18	dep	_	O
+

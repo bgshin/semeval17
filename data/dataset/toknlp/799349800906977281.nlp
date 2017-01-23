@@ -1,0 +1,21 @@
+1	"	"	``	_	12	punct	_	O
+2	Part	part	NN	_	12	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	that	that	DT	_	6	det	_	O
+5	famous	famous	JJ	_	6	nmod	_	O
+6	wall	wall	NN	_	3	pobj	_	O
+7	on	on	IN	_	6	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	Mexican	mexican	JJ	_	10	nmod	_	U-NORP
+10	border	border	NN	_	7	pobj	_	O
+11	will	will	MD	_	12	aux	_	O
+12	be	be	VB	_	0	root	_	O
+13	a	a	DT	_	15	det	_	O
+14	simple	simple	JJ	_	15	nmod	_	O
+15	fence	fence	NN	_	12	attr	_	O
+16	now	now	RB	_	12	advmod	_	O
+17	......	..	.	pos2=,	12	punct	_	O
+18	"	"	''	_	12	punct	_	O
+
+1	https://t.co/b8LtGTwgqs	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,11 @@
+1	@AussiePeteC	@aussiepetec	ADD	pos2=XX	5	det	_	O
+2	@farrm51	@farrm0	NN	pos2=LS	5	poss	_	O
+3	@Linzz_1	@linzz_0	POS	pos2=NN	2	case	_	O
+4	Gun	gun	NNP	pos2=NN	5	compound	_	O
+5	control	control	NN	_	6	nsubj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	counterproductive	counterproductive	JJ	_	6	acomp	_	O
+8	.	.	.	_	6	punct	_	O
+
+1	https://t.co/AiDFmFtwhT	#hlink#	ADD	_	0	root	_	U-ORG
+

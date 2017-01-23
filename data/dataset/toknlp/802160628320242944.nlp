@@ -1,0 +1,18 @@
+1	What	what	WP	_	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+
+1	Randall	randall	NNP	_	3	poss	_	U-PERSON
+2	's	's	POS	_	1	case	_	O
+3	heart	heart	NN	_	5	nsubjpass	_	O
+4	was	be	VBD	_	5	auxpass	_	O
+5	broken	break	VBN	pos2=JJ	0	root	_	O
+6	on	on	IN	pos2=RP	5	prep	_	O
+7	Thanksgiving	thanksgiving	NNP	_	6	pobj	_	U-DATE
+8	???	??	.	_	5	punct	_	O
+
+1	Why	why	WRB	_	0	root	_	O
+2	?!!!	?!!	.	_	1	punct	_	O
+
+1	😩😢😭	😩😢😭	SYM	pos2=NFP	2	punct	_	U-ORG
+2	#ThisIsUs	#thisisus	NN	pos2=NNS	0	root	_	O
+

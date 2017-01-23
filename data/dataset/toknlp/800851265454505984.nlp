@@ -1,0 +1,21 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	U-ORG
+2	@JoyAnnReid	@joyannreid	NN	pos2=FW	4	dep	_	O
+3	:	:	:	_	4	punct	_	O
+4	Tell	tell	VB	_	0	root	_	O
+5	me	me	PRP	_	4	dobj	_	O
+6	again	again	RB	_	4	advmod	_	O
+7	how	how	WRB	_	11	advmod	_	O
+8	the	the	DT	_	11	det	_	O
+9	alt	alt	JJ	pos2=NN	11	advmod	_	O
+10	-	-	HYPH	_	11	punct	_	O
+11	right	right	JJ	pos2=NN	14	advmod	_	O
+12	are	be	VBP	_	17	ccomp	_	O
+13	just	just	RB	_	14	advmod	_	O
+14	benign	benign	JJ	_	16	nmod	_	O
+15	"	"	``	pos2=''	16	punct	_	O
+16	populists	populist	NNS	_	12	attr	_	O
+17	...?	..?	.	pos2=:	4	punct	_	O
+18	"	"	''	_	4	punct	_	O
+
+1	https://t.co/x6YqbvSmol	#hlink#	ADD	_	0	root	_	U-ORG
+

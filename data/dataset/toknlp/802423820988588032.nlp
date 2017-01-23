@@ -1,0 +1,14 @@
+1	@Ji_Boogie	@ji_boogie	NN	pos2=ADD	7	dep	_	O
+2	nah	nah	UH	pos2=VB	7	discourse	_	O
+3	the	the	DT	_	5	det	_	O
+4	social	social	JJ	_	5	nmod	_	O
+5	security	security	NN	pos2=NNP	7	nsubj	_	O
+6	dept.	dept.	NNP	pos2=NN	5	appos	_	O
+7	had	have	VBD	_	0	root	_	O
+8	my	my	PRP$	_	9	poss	_	O
+9	info	info	NN	_	10	nsubj	_	O
+10	mixed	mix	VBN	pos2=VBD	7	ccomp	_	O
+11	up	up	RP	pos2=IN	10	prt	_	O
+12	my	my	PRP$	_	13	poss	_	O
+13	fault	fault	NN	_	10	dobj	_	O
+

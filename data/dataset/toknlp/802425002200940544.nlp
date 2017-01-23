@@ -1,0 +1,19 @@
+1	Better	well	RBR	pos2=JJR	2	advmod	_	O
+2	appoint	appoint	VB	pos2=VBP	0	root	_	O
+3	robots	robot	NNS	_	2	dobj	_	O
+4	for	for	IN	_	2	prep	_	O
+5	round	round	PDT	pos2=IN	9	predet	_	O
+6	the	the	DT	_	9	det	_	O
+7	clock	clock	NN	_	9	compound	_	O
+8	banking	banking	NN	pos2=VBG	9	compound	_	O
+9	service	service	NN	_	4	pobj	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	Human	human	JJ	pos2=NNP	2	nmod	_	O
+2	beings	being	NNS	_	3	nsubj	_	O
+3	have	have	VBP	pos2=VB	0	root	_	O
+4	family	family	NN	_	3	dobj	_	O
+5	&	&	CC	_	4	cc	_	O
+6	commitments	commitment	NNS	_	4	conj	_	O
+7	.	.	.	_	3	punct	_	O
+

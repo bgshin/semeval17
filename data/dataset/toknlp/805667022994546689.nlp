@@ -1,0 +1,36 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	feel	feel	VB	_	0	root	_	O
+5	bad	bad	JJ	_	4	acomp	_	O
+6	for	for	IN	_	4	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	Sox	sox	NNP	pos2=NNPS	6	pobj	_	U-ORG
+9	or	or	CC	_	8	cc	_	O
+10	their	their	PRP$	_	11	poss	_	O
+11	fans	fan	NNS	_	8	conj	_	O
+12	at	at	RB	_	13	advmod	_	O
+13	all	all	RB	_	4	advmod	_	O
+14	.	.	.	_	4	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	glad	glad	JJ	_	2	acomp	_	O
+4	they	they	PRP	_	5	nsubj	_	O
+5	're	be	VBP	_	3	ccomp	_	O
+6	in	in	IN	_	5	prep	_	O
+7	turmoil	turmoil	NN	_	6	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	All	all	PDT	pos2=DT	3	predet	_	O
+2	their	their	PRP$	_	3	poss	_	O
+3	focus	focus	NN	pos2=NNS	9	nsubj	_	O
+4	on	on	IN	_	3	prep	_	O
+5	hating	hate	VBG	_	4	pcomp	_	O
+6	the	the	DT	_	7	det	_	O
+7	Cubs	cub	NNPS	pos2=NNP	5	dobj	_	U-ORG
+8	has	have	VBZ	_	9	aux	_	O
+9	led	lead	VBN	_	0	root	_	O
+10	them	them	PRP	_	9	dobj	_	O
+11	astray	astray	RB	pos2=RP	9	advmod	_	O
+

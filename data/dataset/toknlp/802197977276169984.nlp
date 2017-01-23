@@ -1,0 +1,10 @@
+1	Love	love	VB	pos2=VBP	0	root	_	O
+2	her	her	PRP	_	1	dobj	_	O
+3	!!	!!	.	_	1	punct	_	O
+
+1	#draintheswamp	#draintheswamp	UH	pos2=XX	5	nmod	_	O
+2	#AmericaFirst	#americafirst	GW	pos2=ADD	5	nmod	_	B-MONEY
+3	#MakeAmericaGreatAgain	#makeamericagreatagain	GW	pos2=RB	5	nmod	_	I-MONEY
+4	#JudgeJeanine	#judgejeanine	GW	pos2=ADD	5	nmod	_	L-MONEY
+5	https://t.co/VRSdG9xILX	#hlink#	ADD	pos2=NN	0	root	_	O
+

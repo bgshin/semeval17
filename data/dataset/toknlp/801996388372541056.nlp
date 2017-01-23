@@ -1,0 +1,9 @@
+1	@SenSchumer	@senschumer	NN	pos2=ADD	4	dep	_	O
+2	@keithellison	@keithellison	UH	pos2=XX	1	discourse	_	O
+3	@elizabethforma	@elizabethforma	UH	pos2=FW	1	discourse	_	O
+4	@SenSanders	@sensanders	VB	pos2=NNS	0	root	_	O
+5	Anything	anything	NN	_	4	dobj	_	O
+6	?	?	.	_	4	punct	_	O
+
+1	https://t.co/F9C6MzsK0t	#hlink#	ADD	_	0	root	_	U-ORG
+

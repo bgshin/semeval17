@@ -1,0 +1,22 @@
+1	Reading	read	VBG	pos2=NN	8	advcl	_	O
+2	Marine	marine	NNP	_	4	compound	_	B-ORG
+3	Le	le	NNP	_	4	compound	_	I-ORG
+4	Pen	pen	NNP	_	5	compound	_	L-ORG
+5	tweet	tweet	NN	_	1	dobj	_	O
+6	you	you	PRP	_	8	nsubj	_	O
+7	would	would	MD	_	8	aux	_	O
+8	think	think	VB	_	0	root	_	O
+9	that	that	IN	_	12	mark	_	O
+10	Forza	forza	NNP	_	11	compound	_	B-PERSON
+11	Italia	italia	NNP	_	12	nsubj	_	L-PERSON
+12	was	be	VBD	_	8	ccomp	_	O
+13	the	the	DT	_	15	det	_	O
+14	big	big	JJ	_	15	nmod	_	O
+15	winner	winner	NN	_	12	attr	_	O
+16	#italyreferendumIf	#italyreferendumif	IN	pos2=NNP	15	prep	_	U-NORP
+17	elections	election	NNS	_	16	pobj	_	O
+18	Forza	forza	NNP	_	21	nsubjpass	_	U-ORG
+19	would	would	MD	_	21	aux	_	O
+20	be	be	VB	_	21	auxpass	_	O
+21	annihilated	annihilate	VBN	_	8	conj	_	O
+

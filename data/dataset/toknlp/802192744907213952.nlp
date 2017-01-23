@@ -1,0 +1,21 @@
+1	White	white	JJ	pos2=NNP	3	nmod	_	O
+2	collar	collar	NN	pos2=JJ	3	compound	_	O
+3	supremacists	supremacist	NNS	_	7	vocative	_	O
+4	,	,	,	_	7	punct	_	O
+5	you	you	PRP	_	7	nsubj	_	O
+6	better	well	RBR	pos2=RB	7	advmod	_	O
+7	UNPACK	unpack	VB	pos2=VBP	0	root	_	O
+8	your	your	PRP$	_	10	poss	_	O
+9	white	white	JJ	_	10	nmod	_	O
+10	privilege	privilege	NN	_	7	dobj	_	O
+11	You	you	PRP	_	12	nsubj	_	O
+12	stole	steal	VBD	pos2=VBP	7	conj	_	O
+13	lands	land	NNS	_	12	dobj	_	O
+14	from	from	IN	_	12	prep	_	O
+15	Native	native	NNP	pos2=JJ	20	compound	_	B-NORP
+16	Americans	american	NNPS	_	20	compound	_	L-NORP
+17	#White	#white	NNP	pos2=POS	19	compound	_	B-ORG
+18	-	-	HYPH	_	19	punct	_	I-ORG
+19	Collar	collar	NNP	_	20	compound	_	I-ORG
+20	Supremacy	supremacy	NNP	pos2=NN	14	pobj	_	L-ORG
+

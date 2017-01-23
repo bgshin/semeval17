@@ -1,0 +1,19 @@
+1	Check	check	VB	_	0	root	_	O
+2	out	out	RP	pos2=RB	1	prt	_	O
+3	"	"	``	_	18	punct	_	O
+4	Medical	medical	NNP	pos2=JJ	18	nmod	_	O
+5	Marijuana	marijuana	NNP	_	18	nmod	_	O
+6	Dispensary	dispensary	NNP	pos2=NN	10	nmod	_	O
+7	Training	training	NNP	pos2=NN	11	npadvmod	_	O
+8	-	-	HYPH	pos2=:	7	punct	_	O
+9	8:00	0	CD	pos2=NNP	10	nmod	_	B-TIME
+10	AM	am	NN	pos2=NNP	7	npadvmod	_	L-TIME
+11	Pittsburgh	pittsburgh	NNP	_	18	nmod	_	U-GPE
+12	Class	class	NNP	pos2=NN	14	compound	_	O
+13	-	-	HYPH	pos2=:	14	punct	_	O
+14	Feb	feb	NNP	_	15	compound	_	O
+15	25th	#ord#	NN	pos2=GW	10	npadvmod	_	O
+16	"	"	''	pos2=``	18	punct	_	O
+17	https://t.co/0fdIIEyDqM	#hlink#	ADD	_	18	compound	_	O
+18	@Eventbrite	@eventbrite	NNP	pos2=ADD	1	dobj	_	O
+

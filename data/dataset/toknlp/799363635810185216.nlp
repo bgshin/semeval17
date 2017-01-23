@@ -1,0 +1,15 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	have	have	VBP	_	0	root	_	O
+3	all	all	PDT	_	7	predet	_	O
+4	the	the	DT	_	7	det	_	O
+5	best	good	JJS	_	7	nmod	_	O
+6	burger	burger	NN	_	7	compound	_	O
+7	spots	spot	NNS	_	2	dobj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	California	california	NNP	_	8	pobj	_	U-GPE
+10	.	.	.	_	2	punct	_	O
+
+1	#NationalFastFoodDay	#nationalfastfoodday	GW	pos2=NN	3	nmod	_	O
+2	#suckitNYC	#suckitnyc	GW	pos2=ADD	3	nmod	_	O
+3	https://t.co/gXOiBU9DhX	#hlink#	ADD	pos2=NN	0	root	_	O
+

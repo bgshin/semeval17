@@ -1,0 +1,21 @@
+1	@FraukePetry	@fraukepetry	NN	pos2=XX	2	compound	_	O
+2	Man	man	NN	pos2=NNP	11	nsubj	_	O
+3	who	who	WP	_	4	nsubj	_	O
+4	funded	fund	VBD	_	2	relcl	_	O
+5	anti-Trump	anti-trump	JJ	_	6	nmod	_	U-ORG
+6	riots	riot	NNS	_	4	dobj	_	O
+7	,	,	,	_	6	punct	_	O
+8	Hillary	hillary	NNP	_	6	appos	_	U-PERSON
+9	,	,	,	_	11	punct	_	O
+10	@GeorgeSoros	@georgesoros	NNS	pos2=VBZ	11	nsubj	_	O
+11	funded	fund	VBD	pos2=VBN	18	ccomp	_	O
+12	radicals	radical	NNS	_	11	dobj	_	O
+13	to	to	TO	_	14	aux	_	O
+14	overthrow	overthrow	VB	_	11	advcl	_	O
+15	police	police	NNS	pos2=NN	14	dobj	_	O
+16	,	,	,	_	18	punct	_	O
+17	Ukraine	ukraine	NNP	_	18	nsubj	_	U-GPE
+18	go	go	VBP	pos2=VB	0	root	_	O
+19	…	…	NFP	pos2=-LRB-	18	discourse	_	O
+20	https://t.co/dc2CRBLSBK	#hlink#	ADD	pos2=NN	18	dep	_	U-ORG
+

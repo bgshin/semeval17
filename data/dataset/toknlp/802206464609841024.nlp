@@ -1,0 +1,14 @@
+1	The	the	DT	_	13	dep	_	O
+2	utterly	utterly	RB	_	3	advmod	_	O
+3	brilliant	brilliant	JJ	_	13	nmod	_	O
+4	@langfordrussell	@langfordrussell	UH	pos2=XX	6	discourse	_	O
+5	#Bromley	#bromley	NNP	pos2=WP	6	nsubj	_	O
+6	do	do	VBP	pos2=VB	13	dep	_	O
+7	the	the	DT	_	8	det	_	O
+8	#MannequinChallenge	#mannequinchallenge	NN	pos2=NNP	6	dobj	_	O
+9	,	,	,	_	13	punct	_	O
+10	all	all	DT	pos2=RB	13	nsubj	_	O
+11	for	for	IN	_	10	prep	_	O
+12	@BBCCiN	@bbccin	GW	pos2=NNP	11	pobj	_	U-DATE
+13	https://t.co/JddLaxIhHT	#hlink#	ADD	pos2=NN	0	root	_	O
+

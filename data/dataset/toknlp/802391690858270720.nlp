@@ -1,0 +1,11 @@
+1	Bill	bill	NNP	_	2	compound	_	B-PERSON
+2	Clinton	clinton	NNP	_	3	nsubj	_	L-PERSON
+3	reacts	react	VBZ	_	0	root	_	O
+4	to	to	IN	_	3	prep	_	O
+5	Melania	melania	NNP	_	6	compound	_	B-PERSON
+6	Trump	trump	NNP	_	9	poss	_	I-PERSON
+7	’s	's	POS	_	6	case	_	L-PERSON
+8	bullying	bullying	NN	_	9	compound	_	O
+9	speech	speech	NN	_	4	pobj	_	O
+10	https://t.co/n1wk2zyLbi	#hlink#	ADD	pos2=NN	3	npadvmod	_	U-ORG
+

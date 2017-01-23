@@ -1,0 +1,22 @@
+1	Samsung	samsung	NNP	_	4	nsubj	_	U-ORG
+2	will	will	MD	_	4	aux	_	O
+3	be	be	VB	_	4	aux	_	O
+4	updating	update	VBG	_	0	root	_	O
+5	Note	note	NN	_	6	compound	_	O
+6	5's	0's	NNS	_	4	dobj	_	U-DATE
+7	to	to	IN	_	4	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	Note	note	NN	pos2=NNP	7	pobj	_	O
+10	7	0	CD	pos2=NNP	12	nmod	_	U-CARDINAL
+11	Grace	grace	NNP	pos2=NN	12	compound	_	B-ORG
+12	UI	ui	NNP	pos2=NN	9	appos	_	L-ORG
+13	.	.	.	_	4	punct	_	O
+
+1	Maybe	maybe	RB	_	6	advmod	_	O
+2	the	the	DT	_	3	det	_	O
+3	Galaxy	galaxy	NNP	pos2=NN	5	nsubj	_	O
+4	7	0	CD	pos2=NNP	3	nmod	_	O
+5	as	as	RB	_	6	advmod	_	O
+6	well	well	RB	_	0	root	_	O
+7	!	!	.	_	6	punct	_	O
+

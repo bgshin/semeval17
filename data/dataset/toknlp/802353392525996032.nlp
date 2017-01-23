@@ -1,0 +1,26 @@
+1	@	@	SYM	_	3	punct	_	O
+2	69eyesofficial	0eyesofficial	NN	pos2=NNP	3	nsubj	_	O
+3	Thinking	think	VBG	pos2=NN	0	root	_	O
+4	of	of	IN	_	3	prep	_	O
+5	you	you	PRP	_	4	pobj	_	O
+6	dear	dear	VBP	pos2=JJ	9	parataxis	_	O
+7	Jyrki	jyrki	NNP	_	9	vocative	_	U-PERSON
+8	-	-	,	pos2=HYPH	9	punct	_	O
+9	Have	have	VBP	pos2=NNP	0	root	_	O
+10	a	a	DT	_	12	det	_	O
+11	good	good	JJ	_	12	nmod	_	O
+12	wkd	wkd	NN	pos2=FW	9	dobj	_	O
+13	-	-	,	pos2=:	9	punct	_	O
+14	If	if	IN	_	16	mark	_	O
+15	it	it	PRP	_	16	nsubj	_	O
+16	be	be	VB	_	9	advcl	_	O
+17	Your	your	PRP$	_	22	poss	_	O
+18	will	will	NN	pos2=MD	23	dep	_	O
+19	-	-	HYPH	pos2=:	20	punct	_	O
+20	Leonard	leonard	NNP	_	21	compound	_	B-PERSON
+21	Cohen	cohen	NNP	_	22	compound	_	L-PERSON
+22	Lyrics	lyric	NNS	pos2=NNP	16	attr	_	O
+23	https://t.co/1IHOGSm2qk	#hlink#	ADD	pos2=VBP	22	acl	_	O
+24	via	via	IN	_	16	prep	_	O
+25	@YouTube	@youtube	NN	pos2=NNP	24	pobj	_	O
+

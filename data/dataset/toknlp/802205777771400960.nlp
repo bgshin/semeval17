@@ -1,0 +1,11 @@
+1	#Valentines	#valentines	NNS	pos2=NNP	2	compound	_	O
+2	#Gifts	#gifts	NNS	pos2=POS	10	dep	_	O
+3	HugFun	hugfun	NNP	_	10	dep	_	O
+4	#TeddyBear	#teddybear	NNP	pos2=VBP	10	dep	_	O
+5	Plush	plush	NNP	pos2=JJ	6	compound	_	B-PERSON
+6	Brown	brown	NNP	_	10	dep	_	L-PERSON
+7	https://t.co/idefmoxmAP	#hlink#	ADD	pos2=NNP	10	nmod	_	O
+8	#Valentine	#valentine	NNP	pos2=GW	10	nmod	_	B-PERSON
+9	#Gift	#gift	ADD	pos2=-LRB-	10	punct	_	L-PERSON
+10	https://t.co/wHnnSn6pvq	#hlink#	ADD	_	0	root	_	O
+

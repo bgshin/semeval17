@@ -1,0 +1,10 @@
+1	Must	must	MD	_	2	aux	_	O
+2	be	be	VB	_	0	root	_	O
+3	a	a	DT	_	6	det	_	O
+4	really	really	RB	_	5	advmod	_	O
+5	big	big	JJ	_	6	nmod	_	O
+6	basket	basket	NN	_	2	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	deplorables	deplorables	NNS	pos2=-LRB-	7	pobj	_	O
+9	https://t.co/goKe9t58G1	#hlink#	ADD	_	6	appos	_	O
+

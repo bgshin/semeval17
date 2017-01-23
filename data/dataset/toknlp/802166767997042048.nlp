@@ -1,0 +1,18 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	glad	glad	JJ	_	2	acomp	_	O
+5	Tony	tony	NNP	_	6	compound	_	B-PERSON
+6	Romo	romo	NNP	_	7	nsubj	_	L-PERSON
+7	gets	get	VBZ	_	4	ccomp	_	O
+8	a	a	DT	_	9	det	_	O
+9	little	little	JJ	pos2=RB	10	npadvmod	_	O
+10	sadder	sad	JJR	_	7	acomp	_	O
+11	about	about	IN	_	10	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	QB	qb	NN	pos2=JJ	14	compound	_	O
+14	position	position	NN	_	11	pobj	_	O
+15	every	every	DT	_	16	det	_	O
+16	game	game	NN	_	17	dep	_	O
+17	https://t.co/4c2CUtznlR	#hlink#	ADD	pos2=NN	14	relcl	_	O
+

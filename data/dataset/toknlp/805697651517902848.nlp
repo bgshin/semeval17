@@ -1,0 +1,9 @@
+1	#IAmTinaToo	#iamtinatoo	ADD	pos2=DT	2	nsubj	_	O
+2	Stop	stop	VB	pos2=VBP	0	root	_	O
+3	#Cuadrilla	#cuadrilla	NNP	pos2=VBG	2	dobj	_	U-PERSON
+4	from	from	IN	_	2	prep	_	O
+5	#fracking	#fracking	VBG	pos2=NNP	4	pcomp	_	O
+6	#BankruptCuadrilla	#bankruptcuadrilla	GW	pos2=NNP	8	nmod	_	U-NORP
+7	#ECOCIDE	#ecocide	GW	pos2=ADD	8	nmod	_	O
+8	https://t.co/vKF8MGu0cu	#hlink#	ADD	pos2=NN	2	dep	_	O
+

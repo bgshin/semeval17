@@ -1,0 +1,14 @@
+1	Iraqi	iraqi	JJ	_	2	nmod	_	U-NORP
+2	militias	militia	NNS	_	3	nsubj	_	O
+3	claim	claim	VBP	pos2=NN	0	root	_	O
+4	to	to	TO	pos2=IN	6	aux	_	O
+5	have	have	VB	_	6	aux	_	O
+6	isolated	isolate	VBN	pos2=JJ	3	xcomp	_	O
+7	IS	is	RB	pos2=NN	9	advmod	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	controlled	control	VBN	_	13	nmod	_	O
+10	#Mosul	#mosul	GW	pos2=ADD	13	nmod	_	O
+11	https://t.co/QY0BnQ7HFT	#hlink#	ADD	pos2=GW	13	nmod	_	O
+12	#MosulOffensive	#mosuloffensive	GW	pos2=ADD	13	nmod	_	O
+13	https://t.co/KDCc0D8SPk	#hlink#	ADD	pos2=NN	3	dep	_	O
+

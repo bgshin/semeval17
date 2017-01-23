@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det	_	O
+2	latest	late	JJS	_	5	nsubj	_	O
+3	The	the	DT	_	6	det	_	O
+4	Blonde	blonde	NNP	pos2=JJ	6	compound	_	O
+5	Ambition	ambition	NNP	pos2=NN	6	compound	_	O
+6	Daily	daily	NNP	pos2=RB	0	root	_	O
+7	!	!	.	_	2	punct	_	O
+
+1	https://t.co/KQ1goskDY6	#hlink#	ADD	_	0	root	_	O
+2	#photovoguefestival	#photovoguefestival	-RRB-	pos2=XX	1	punct	_	O
+3	#beautyandthebeast	#beautyandthebeast	UH	pos2=-RRB-	1	discourse	_	O
+

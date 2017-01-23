@@ -1,0 +1,13 @@
+1	Space	space	NN	pos2=JJ	2	compound	_	O
+2	robots	robot	NNS	_	3	nsubj	_	O
+3	help	help	VBP	_	0	root	_	O
+4	clear	clear	VB	_	3	xcomp	_	O
+5	the	the	DT	_	6	det	_	O
+6	road	road	NN	_	4	dobj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	self-driving	self-driving	JJ	pos2=NN	9	nmod	_	O
+9	cars	car	NNS	_	7	pobj	_	O
+10	#autonomouscars	#autonomouscars	GW	pos2=NNS	12	nmod	_	O
+11	https://t.co/t6nJcJuI35	#hlink#	ADD	_	12	nmod	_	O
+12	https://t.co/RSdMKEptSJ	#hlink#	ADD	_	3	dep	_	U-ORG
+

@@ -1,0 +1,25 @@
+1	Vivienne	vivienne	NNP	_	4	nsubj	_	U-PERSON
+2	and	and	CC	_	1	cc	_	O
+3	Turner	turner	NNP	_	1	conj	_	U-PERSON
+4	gave	give	VBD	_	0	root	_	O
+5	His	his	PRP$	pos2=NNP	8	poss	_	O
+6	Holiness	holiness	NNP	pos2=NN	8	compound	_	O
+7	Pope	pope	NNP	_	8	compound	_	O
+8	Francis	francis	NNP	_	4	dative	_	O
+9	a	a	DT	_	10	det	_	O
+10	copy	copy	NN	_	4	dobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	their	their	PRP$	_	13	poss	_	O
+13	children	child	NNS	_	15	poss	_	O
+14	's	's	POS	_	13	case	_	O
+15	book	book	NN	_	11	pobj	_	O
+16	.	.	.	_	4	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	love	love	VBP	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	inscriptions	inscription	NNS	_	2	dobj	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	https://t.co/RoSPdyWpEV	#hlink#	ADD	_	0	root	_	U-ORG
+

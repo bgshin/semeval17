@@ -1,0 +1,29 @@
+1	@CarolCNN	@carolcnn	NNP	pos2=XX	3	compound	_	O
+2	Ben	ben	NNP	_	3	compound	_	B-PERSON
+3	Ferguson	ferguson	NNP	_	5	nsubj	_	L-PERSON
+4	is	be	VBZ	_	5	aux	_	O
+5	BSing	bsing	VBG	_	0	root	_	O
+6	you	you	PRP	_	5	dobj	_	O
+7	.	.	.	_	5	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	think	think	VB	_	0	root	_	O
+5	he	he	PRP	_	7	nsubj	_	O
+6	even	even	RB	_	7	advmod	_	O
+7	knows	know	VBZ	_	4	ccomp	_	O
+8	abt	abt	IN	pos2=NN	7	prep	_	O
+9	Rightists	rightist	NNPS	pos2=NNS	8	pobj	_	U-NORP
+10	in	in	IN	_	9	prep	_	O
+11	Europe	europe	NNP	_	10	pobj	_	U-LOC
+12	and	and	CC	_	11	cc	_	O
+13	Putin	putin	NNP	_	11	conj	_	U-PERSON
+14	paying	pay	VBG	_	13	pcomp	_	O
+15	them	them	PRP	_	14	dobj	_	O
+16	to	to	TO	_	17	aux	_	O
+17	destabilize	destabilize	VB	_	14	advcl	_	O
+18	their	their	PRP$	_	19	poss	_	O
+19	nations	nation	NNS	_	17	dobj	_	O
+20	!	!	.	_	4	punct	_	O
+

@@ -1,0 +1,16 @@
+1	Melania	melania	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Trump	trump	NNP	pos2=NN	5	vocative	_	L-PERSON
+3	:	:	:	_	5	punct	_	O
+4	15	0	CD	_	5	nmod	_	U-CARDINAL
+5	things	thing	NNS	_	0	root	_	O
+6	you	you	PRP	_	9	nsubj	_	O
+7	might	might	MD	_	9	aux	_	O
+8	not	not	RB	_	9	neg	_	O
+9	know	know	VB	_	5	relcl	_	O
+10	about	about	IN	_	9	prep	_	O
+11	Donald	donald	NNP	_	12	compound	_	B-PERSON
+12	Trump	trump	NNP	_	14	poss	_	I-PERSON
+13	's	's	POS	_	12	case	_	L-PERSON
+14	wife	wife	NN	_	10	pobj	_	O
+15	https://t.co/RzHBdU1vNV	#hlink#	ADD	_	5	appos	_	O
+

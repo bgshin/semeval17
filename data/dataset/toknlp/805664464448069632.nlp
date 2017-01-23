@@ -1,0 +1,31 @@
+1	@TomiLahren	@tomilahren	NNS	pos2=NN	4	discourse	_	O
+2	U	u	PRP	pos2=NNP	4	nsubj	_	O
+3	should	should	MD	_	4	aux	_	O
+4	rethink	rethink	VB	_	0	root	_	O
+5	your	your	PRP$	_	6	poss	_	O
+6	beliefs	belief	NNS	pos2=NN	4	dobj	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	To	to	TO	_	2	aux	_	O
+2	believe	believe	VB	_	15	csubj	_	O
+3	in	in	IN	_	2	prep	_	O
+4	God	god	NNP	_	3	pobj	_	O
+5	,	,	,	_	4	punct	_	O
+6	gay	gay	JJ	_	7	nmod	_	O
+7	marriage	marriage	NN	_	4	appos	_	O
+8	and	and	CC	_	2	cc	_	O
+9	be	be	VB	_	2	conj	_	O
+10	pro	pro	JJ	_	11	nmod	_	O
+11	choice	choice	NN	pos2=NNS	9	attr	_	O
+12	AKA	aka	IN	pos2=RB	11	prep	_	O
+13	pro	pro	JJ	pos2=FW	14	nmod	_	O
+14	abortion	abortion	NN	_	12	pobj	_	O
+15	is	be	VBZ	_	0	root	_	O
+16	nonsensical	nonsensical	JJ	_	15	acomp	_	O
+17	.	.	.	_	15	punct	_	O
+
+1	Think	think	VB	_	0	root	_	O
+2	about	about	IN	_	1	prep	_	O
+3	it	it	PRP	_	2	pobj	_	O
+4	.	.	.	_	1	punct	_	O
+

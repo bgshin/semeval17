@@ -1,0 +1,21 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=GW	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	https://t.co/2AJngvDiS1	#hlink#	ADD	pos2=NNP	2	dep	_	O
+7	Channel	channel	NNP	_	2	npadvmod	_	O
+8	4	0	CD	_	7	nmod	_	O
+9	-	-	:	pos2=HYPH	5	punct	_	O
+10	David	david	NNP	_	11	compound	_	B-PERSON
+11	Blaine	blaine	NNP	_	7	appos	_	L-PERSON
+12	-	-	,	pos2=HYPH	11	punct	_	O
+13	Above	above	IN	pos2=NNP	11	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	Below	below	NNP	pos2=NNPS	13	pobj	_	O
+16	(	(	-LRB-	_	19	punct	_	O
+17	Harmony	harmony	NNP	pos2=NN	19	compound	_	B-PERSON
+18	Korine	korine	NNP	_	19	compound	_	L-PERSON
+19	Film	film	NNP	pos2=NN	15	appos	_	O
+20	)	)	-RRB-	_	2	punct	_	O
+

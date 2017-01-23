@@ -1,0 +1,24 @@
+1	@AndrewQuackson	@andrewquackson	UH	pos2=MD	7	discourse	_	O
+2	no	no	DT	_	3	det	_	O
+3	wonder	wonder	NN	_	7	npadvmod	_	O
+4	Kim	kim	NNP	_	6	compound	_	B-PERSON
+5	Jong	jong	NNP	_	6	compound	_	I-PERSON
+6	Un	un	NNP	_	7	nsubj	_	L-PERSON
+7	wrote	write	VBD	_	0	root	_	O
+8	a	a	DT	_	9	det	_	O
+9	letter	letter	NN	_	7	dobj	_	O
+10	saying	say	VBG	_	9	acl	_	O
+11	"	"	``	_	10	punct	_	O
+12	what	what	WP	pos2=WDT	13	dep	_	O
+13	about	about	IN	pos2=RB	10	ccomp	_	O
+14	meeee	meeee	NN	_	13	pobj	_	O
+15	?!	?!	.	_	7	punct	_	O
+
+1	I	I	PRP	_	5	nsubjpass	_	O
+2	can	can	MD	_	5	aux	_	O
+3	not	not	RB	_	5	neg	_	O
+4	be	be	VB	_	5	auxpass	_	O
+5	haxx0r	haxx0r	VBN	pos2=NNP	0	root	_	O
+6	?	?	.	_	5	punct	_	O
+7	"	"	''	_	5	punct	_	O
+

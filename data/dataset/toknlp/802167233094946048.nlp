@@ -1,0 +1,18 @@
+1	#Valentine	#valentine	NNP	pos2=JJ	4	compound	_	O
+2	#Gift	#gift	NNP	pos2=POS	3	compound	_	B-LOC
+3	Island	island	NNP	_	4	compound	_	L-LOC
+4	Alpaca	alpaca	NNP	pos2=NN	17	dep	_	O
+5	8	0	CD	_	4	npadvmod	_	U-CARDINAL
+6	"	"	''	pos2=``	4	punct	_	O
+7	#TeddyBear	#teddybear	NN	pos2=ADD	4	npadvmod	_	O
+8	(	(	-LRB-	_	11	punct	_	O
+9	Martha	martha	NNP	_	11	poss	_	U-PERSON
+10	's	's	POS	_	9	case	_	O
+11	Vineyard	vineyard	NNP	pos2=NN	4	appos	_	U-PRODUCT
+12	)	)	-RRB-	_	11	punct	_	O
+13	NWT	nwt	NNP	pos2=NN	17	dep	_	O
+14	https://t.co/xF3b5jWKuX	#hlink#	ADD	pos2=VBP	17	dep	_	O
+15	#Valentines	#valentines	NNS	pos2=VBZ	17	dep	_	O
+16	#Gifts	#gifts	NNS	pos2=-LRB-	17	dep	_	O
+17	https://t.co/tUYAcNvvM7	#hlink#	ADD	_	0	root	_	O
+

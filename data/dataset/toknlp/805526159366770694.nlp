@@ -1,0 +1,23 @@
+1	2Singapore	0singapore	NN	pos2=JJ	2	compound	_	O
+2	scientists	scientist	NNS	_	4	nsubj	_	O
+3	have	have	VBP	_	4	aux	_	O
+4	become	become	VBN	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	1rst	0rst	NN	pos2=NNP	4	attr	_	O
+7	from	from	IN	_	6	prep	_	O
+8	Asia	asia	NNP	_	7	pobj	_	U-LOC
+9	to	to	TO	pos2=IN	10	aux	_	O
+10	win	win	VB	_	4	advcl	_	O
+11	prestigious	prestigious	JJ	_	12	nmod	_	O
+12	award	award	NN	_	10	dobj	_	O
+13	for	for	IN	_	10	prep	_	O
+14	their	their	PRP$	_	15	poss	_	O
+15	efforts	effort	NNS	_	13	pobj	_	O
+16	to	to	TO	_	17	aux	_	O
+17	eradicate	eradicate	VB	_	15	acl	_	O
+18	animal	animal	NN	_	19	compound	_	O
+19	testing	testing	NN	_	17	dobj	_	O
+20	..	..	.	_	4	punct	_	O
+
+1	@straitstimes	@straitstimes	UH	pos2=NNS	0	root	_	O
+

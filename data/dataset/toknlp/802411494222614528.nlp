@@ -1,0 +1,25 @@
+1	i	I	PRP	_	3	nsubj	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	wonder	wonder	VBP	pos2=VB	0	root	_	O
+4	how	how	WRB	_	5	advmod	_	O
+5	much	much	JJ	pos2=RB	6	nmod	_	O
+6	@DrJillStein	@drjillstein	NN	pos2=NNP	8	nsubjpass	_	O
+7	got	get	VBD	_	8	auxpass	_	O
+8	paid	pay	VBN	_	3	ccomp	_	O
+9	and	and	CC	_	8	cc	_	O
+10	what	what	WDT	pos2=WP	11	det	_	O
+11	position	position	NN	_	14	dobj	_	O
+12	she	she	PRP	_	14	nsubjpass	_	O
+13	was	be	VBD	_	14	auxpass	_	O
+14	offered	offer	VBN	_	8	conj	_	O
+15	-	-	HYPH	pos2=,	24	punct	_	O
+16	may	may	MD	_	17	aux	_	O
+17	be	be	VB	_	3	ccomp	_	O
+18	a	a	DT	_	19	det	_	O
+19	role	role	NN	_	17	attr	_	O
+20	in	in	IN	_	19	prep	_	O
+21	Clinton	clinton	NNP	_	22	compound	_	B-GPE
+22	Foundatio	foundatio	NNP	pos2=GW	20	pobj	_	L-GPE
+23	…	…	NFP	pos2=POS	24	punct	_	O
+24	https://t.co/S5dfzkotxv	#hlink#	ADD	_	3	dep	_	O
+

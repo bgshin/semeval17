@@ -1,0 +1,18 @@
+1	Trump	trump	NN	pos2=NNP	2	compound	_	O
+2	aides	aide	NNS	_	3	nsubj	_	O
+3	mull	mull	VBP	pos2=XX	0	root	_	O
+4	asking	ask	VBG	_	3	xcomp	_	O
+5	Romney	romney	NNP	_	4	dobj	_	U-PERSON
+6	for	for	IN	_	4	prep	_	O
+7	APOLOGY	apology	NN	_	6	pobj	_	O
+8	so	so	IN	pos2=RB	12	mark	_	O
+9	he	he	PRP	_	12	nsubjpass	_	O
+10	can	can	MD	_	12	aux	_	O
+11	be	be	VB	_	12	auxpass	_	O
+12	sec	sec	VBN	pos2=JJ	7	advcl	_	O
+13	.	.	.	_	3	punct	_	O
+
+1	of	of	IN	_	3	nmod	_	O
+2	state	state	NN	_	1	pobj	_	O
+3	https://t.co/8KaY2DsxuD	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,19 @@
+1	@UN	@un	NN	pos2=VB	6	punct	_	O
+2	on	on	IN	_	1	prep	_	O
+3	notice	notice	NN	_	2	pobj	_	O
+4	:	:	:	_	6	punct	_	O
+5	#Iran	#iran	IN	pos2=JJ	10	det	_	O
+6	sending	send	VBG	_	5	pcomp	_	O
+7	arms	arm	NNS	_	6	dobj	_	O
+8	to	to	IN	_	6	prep	_	O
+9	#Hezbollah	#hezbollah	NNP	pos2=VB	0	root	_	U-GPE
+10	#terrorists	#terrorists	POS	pos2=IN	9	case	_	O
+11	using	use	VBG	_	6	advcl	_	O
+12	commercial	commercial	JJ	_	13	nmod	_	O
+13	airlines	airline	NNS	_	11	dobj	_	O
+14	.	.	.	_	1	punct	_	O
+
+1	https://t.co/HUve4Pt4bB	#hlink#	ADD	_	0	root	_	O
+2	@RadioCanadaInfo	@radiocanadainfo	ADD	pos2=-RRB-	0	root	_	O
+3	@LP_LaPresse	@lp_lapresse	ADD	pos2=NN	2	pobj	_	O
+

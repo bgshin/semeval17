@@ -1,0 +1,12 @@
+1	@somebadideas	@somebadideas	UH	pos2=NNS	2	discourse	_	O
+2	@BrendanNyhan	@brendannyhan	NN	pos2=UH	0	root	_	O
+3	but	but	CC	_	2	cc	_	O
+4	also	also	RB	_	3	advmod	_	O
+5	Michael	michael	NNP	_	6	compound	_	B-PERSON
+6	Moore	moore	NNP	_	2	conj	_	L-PERSON
+7	.	.	.	_	1	punct	_	O
+
+1	Weird	weird	JJ	_	2	nmod	_	O
+2	mix	mix	NN	pos2=NNS	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,20 @@
+1	Since	since	IN	_	3	mark	_	O
+2	Trump	trump	NNP	pos2=NN	3	nsubj	_	U-PERSON
+3	became	become	VBD	_	19	advcl	_	O
+4	President	president	NNP	pos2=NN	3	attr	_	O
+5	:	:	:	_	19	punct	_	O
+6	Media	media	NNP	pos2=NNS	9	compound	_	U-ORG
+7	credibility	credibility	NN	_	9	compound	_	O
+8	-	-	HYPH	pos2=:	9	punct	_	O
+9	deadClinton	deadclinton	NNP	pos2=JJ	10	compound	_	O
+10	dynasty	dynasty	NN	_	12	npadvmod	_	O
+11	-	-	HYPH	pos2=:	12	punct	_	O
+12	dead	dead	JJ	_	19	nmod	_	O
+13	TPP	tpp	NN	pos2=NNP	18	compound	_	O
+14	-	-	HYPH	pos2=:	18	punct	_	O
+15	deadFidel	deadfidel	NNP	pos2=NN	18	compound	_	O
+16	Castro	castro	NNP	_	18	compound	_	U-PERSON
+17	-	-	HYPH	pos2=:	18	punct	_	O
+18	dead#MAGA	dead#maga	NNP	pos2=XX	19	compound	_	O
+19	#TRUMP	#trump	NN	pos2=ADD	0	root	_	O
+

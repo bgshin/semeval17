@@ -1,0 +1,20 @@
+1	@ObiedereFrank	@obiederefrank	NN	pos2=VB	11	nsubjpass	_	O
+2	In	in	IN	_	1	prep	_	O
+3	fact	fact	NN	_	2	pobj	_	O
+4	thousands	#crd#	NNS	_	11	nsubjpass	_	U-CARDINAL
+5	of	of	IN	_	4	prep	_	O
+6	eligible	eligible	JJ	_	8	nmod	_	O
+7	voter	voter	NN	pos2=JJ	8	compound	_	O
+8	registration	registration	NN	_	5	pobj	_	O
+9	are	be	VBP	_	11	auxpass	_	O
+10	mistakenly	mistakenly	RB	_	11	advmod	_	O
+11	deleted	delete	VBN	_	0	root	_	O
+12	every	every	DT	_	13	det	_	O
+13	year	year	NN	_	11	npadvmod	_	O
+14	because	because	IN	_	11	prep	_	O
+15	of	of	IN	_	14	pcomp	_	O
+16	change	change	NN	_	14	pobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	address	address	NN	_	19	compound	_	O
+19	conflicts	conflict	NNS	_	17	pobj	_	O
+

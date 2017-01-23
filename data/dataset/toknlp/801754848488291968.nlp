@@ -1,0 +1,16 @@
+1	Emily	emily	NNP	pos2=NN	8	nsubj	_	U-PERSON
+2	,	,	,	_	1	punct	_	O
+3	Paris	paris	NNP	_	1	conj	_	U-GPE
+4	,	,	,	_	3	punct	_	O
+5	Kirk	kirk	NNP	_	3	conj	_	U-PERSON
+6	and	and	CC	_	5	cc	_	O
+7	Michel	michel	NNP	_	5	conj	_	U-PERSON
+8	#GilmoreGirlsTop4	#gilmoregirlstop0	VBP	pos2=NN	0	root	_	O
+9	though	though	IN	pos2=RB	12	mark	_	O
+10	it	it	PRP	_	12	nsubj	_	O
+11	probably	probably	RB	_	12	advmod	_	O
+12	changes	change	VBZ	_	8	advcl	_	O
+13	every	every	DT	_	15	det	_	O
+14	other	other	JJ	_	15	nmod	_	O
+15	episode	episode	NN	_	12	dobj	_	O
+

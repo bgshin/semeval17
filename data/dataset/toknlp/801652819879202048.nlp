@@ -1,0 +1,16 @@
+1	@utahjazz	@utahjazz	DT	pos2=NN	2	det	_	O
+2	Tax	tax	NN	pos2=NNP	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	____	__	SYM	pos2=NFP	2	punct	_	O
+2	5%Tip	0tip	NN	pos2=NNS	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	______	__	SYM	pos2=NFP	6	punct	_	O
+2	100%Total	0total	JJ	pos2=NN	6	nmod	_	O
+3	$	$	$	_	4	nmod	_	O
+4	_____	__	SYM	pos2=NFP	6	punct	_	U-MONEY
+5	(	(	-LRB-	_	6	punct	_	O
+6	Slice	slice	NN	pos2=NNP	0	root	_	O
+7	)	)	-RRB-	_	6	punct	_	O
+

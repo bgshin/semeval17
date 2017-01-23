@@ -1,0 +1,13 @@
+1	@utahjazz	@utahjazz	UH	pos2=XX	2	discourse	_	O
+2	Let	let	VB	_	0	root	_	O
+3	me	me	PRP	_	4	nsubj	_	O
+4	Guest	guest	VB	pos2=NN	2	ccomp	_	O
+5	:	:	:	_	2	punct	_	O
+6	Make	make	VB	_	2	dep	_	O
+7	A	a	DT	pos2=NN	12	det	_	O
+8	Movie	movie	NNP	pos2=NN	12	compound	_	O
+9	Chris	chris	NNP	pos2=NNPS	12	compound	_	B-PERSON
+10	Brown	brown	NNP	_	12	compound	_	I-PERSON
+11	Ft.	ft.	NNP	_	12	compound	_	I-PERSON
+12	Twista	twista	NNP	_	6	dobj	_	L-PERSON
+

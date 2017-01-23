@@ -1,0 +1,14 @@
+1	Found	find	VBD	pos2=VBN	0	root	_	O
+2	my	my	PRP$	_	4	poss	_	O
+3	Bernie	bernie	NNP	_	4	compound	_	U-PERSON
+4	soulmate	soulmate	NN	pos2=JJ	5	nsubj	_	O
+5	🙆🏻🐦	🙆🏻🐦	VBD	pos2=NNP	1	ccomp	_	O
+6	#NODAPL	#nodapl	NN	pos2=ADD	5	dobj	_	O
+7	@	@	SYM	pos2=IN	12	punct	_	O
+8	Dakota	dakota	NNP	pos2=GW	12	compound	_	B-EVENT
+9	Access	access	NNP	pos2=GW	12	compound	_	I-EVENT
+10	Pipeline	pipeline	NNP	pos2=NN	12	compound	_	I-EVENT
+11	Resistance	resistance	NNP	_	12	compound	_	I-EVENT
+12	Camp	camp	NNP	pos2=NN	13	dep	_	I-EVENT
+13	https://t.co/oOheD6wycx	#hlink#	ADD	pos2=NNP	0	root	_	L-EVENT
+

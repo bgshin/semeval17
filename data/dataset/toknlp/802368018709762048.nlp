@@ -1,0 +1,13 @@
+1	First	#ord#	RB	pos2=JJ	2	advmod	_	U-ORDINAL
+2	off	off	RB	pos2=NN	7	advmod	_	O
+3	:	:	:	_	7	punct	_	O
+4	the	the	DT	_	7	det	_	O
+5	Leonard	leonard	NNP	_	6	compound	_	B-PERSON
+6	Cohen	cohen	NNP	_	7	compound	_	L-PERSON
+7	music	music	NN	pos2=NNP	0	root	_	O
+8	..	..	.	pos2=,	7	punct	_	O
+
+1	oh	oh	UH	_	0	root	_	O
+2	my	my	UH	pos2=PRP$	1	discourse	_	O
+3	gosh	gosh	UH	_	1	discourse	_	O
+

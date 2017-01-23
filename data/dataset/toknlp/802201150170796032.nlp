@@ -1,0 +1,26 @@
+1	@realDonaldTrump	@realdonaldtrump	XX	pos2=VB	8	dep	_	O
+2	What	what	WP	pos2=WDT	7	dobj	_	O
+3	Pres.	pres.	NNP	_	5	compound	_	B-ORG
+4	Elec.	elec.	NNP	_	5	compound	_	I-ORG
+5	Trump	trump	NNP	_	7	nsubj	_	L-ORG
+6	is	be	VBZ	_	7	aux	_	O
+7	proposing	propose	VBG	_	8	csubj	_	O
+8	is	be	VBZ	pos2=IN	0	root	_	O
+9	unconscion	unconscion	JJ	pos2=NN	11	advmod	_	O
+10	-	-	HYPH	pos2=,	11	punct	_	O
+11	able	able	JJ	_	8	acomp	_	O
+12	.	.	.	_	8	punct	_	O
+
+1	Against	against	IN	_	0	root	_	O
+2	the	the	DT	_	5	det	_	O
+3	const	const	NN	_	5	compound	_	O
+4	-	-	HYPH	_	5	punct	_	O
+5	itution	itution	NN	_	1	pobj	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	And	and	CC	_	5	cc	_	O
+2	against	against	IN	_	0	root	_	O
+3	t	t	NN	pos2=GW	2	pobj	_	O
+4	…	…	NFP	pos2=GW	5	punct	_	O
+5	https://t.co/DO9SqA8V5A	#hlink#	ADD	_	2	pobj	_	U-ORG
+

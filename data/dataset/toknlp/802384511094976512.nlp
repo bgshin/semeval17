@@ -1,0 +1,31 @@
+1	Nope	nope	UH	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	But	but	CC	_	5	cc	_	O
+2	it	it	PRP	_	5	nsubj	_	O
+3	may	may	MD	_	5	aux	_	O
+4	not	not	RB	_	5	neg	_	O
+5	matter	matter	VB	_	0	root	_	O
+6	as	as	IN	_	8	mark	_	O
+7	Dems	dems	NNPS	pos2=NNP	8	nsubj	_	U-NORP
+8	tend	tend	VBP	pos2=VB	5	advcl	_	O
+9	to	to	TO	_	10	aux	_	O
+10	be	be	VB	_	8	xcomp	_	O
+11	invertebrates	invertebrate	NNS	_	10	attr	_	O
+12	&	&	CC	_	5	cc	_	O
+13	it	it	PRP	_	14	nsubj	_	O
+14	pains	pain	VBZ	_	5	conj	_	O
+15	me	me	PRP	_	14	dobj	_	O
+16	to	to	TO	_	17	aux	_	O
+17	say	say	VB	_	14	xcomp	_	O
+18	this	this	DT	_	17	dobj	_	O
+19	.	.	.	_	14	punct	_	O
+
+1	Lame	lame	JJ	_	3	nmod	_	O
+2	duck	duck	NN	_	3	compound	_	O
+3	session	session	NN	_	5	nsubj	_	O
+4	should	should	MD	_	5	aux	_	O
+5	be	be	VB	_	0	root	_	O
+6	…	…	NFP	pos2=-LRB-	7	punct	_	O
+7	https://t.co/9Cr0qE3HIO	#hlink#	ADD	_	5	attr	_	O
+

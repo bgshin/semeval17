@@ -1,0 +1,22 @@
+1	You	you	PRP	_	2	nsubj	_	O
+2	mean	mean	VBP	pos2=VB	0	root	_	O
+3	the	the	DT	_	6	det	_	O
+4	new	new	JJ	_	6	nmod	_	O
+5	Nazi	nazi	NNP	pos2=JJ	6	compound	_	U-NORP
+6	party	party	NN	_	2	dobj	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	Watch	watch	VB	_	0	root	_	O
+2	them	them	PRP	_	1	dobj	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	They	they	PRP	_	3	nsubjpass	_	O
+2	are	be	VBP	_	3	auxpass	_	O
+3	made	make	VBN	_	0	root	_	O
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	8	det	_	O
+6	same	same	JJ	_	8	nmod	_	O
+7	nasty	nasty	JJ	_	8	nmod	_	O
+8	stuff	stuff	NN	_	4	pobj	_	O
+9	.	.	.	_	3	punct	_	O
+

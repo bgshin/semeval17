@@ -1,0 +1,19 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	@Cubs	@cubs	NNP	pos2=JJR	2	attr	_	O
+4	2034	0	CD	_	3	nmod	_	O
+5	1	0	CD	_	6	nmod	_	O
+6	st	st	NN	_	9	nmod	_	O
+7	round	round	JJ	pos2=NN	9	nmod	_	O
+8	draft	draft	NN	_	9	compound	_	O
+9	pick	pick	NN	_	3	appos	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	Gon	gon	VBG	pos2=VB	0	root	_	O
+2	na	to	TO	pos2=PRP	3	aux	_	O
+3	be	be	VB	_	1	xcomp	_	O
+4	a	a	DT	_	6	det	_	O
+5	strong	strong	JJ	_	6	nmod	_	O
+6	RHP	rhp	NN	pos2=NNP	3	attr	_	O
+7	https://t.co/J7V0kQYXKO	#hlink#	ADD	pos2=NN	6	appos	_	U-WORK_OF_ART
+

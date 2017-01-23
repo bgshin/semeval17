@@ -1,0 +1,15 @@
+1	Poroshenko	poroshenko	NNP	pos2=FW	4	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	office	office	NN	_	4	compound	_	O
+4	names	name	NNS	pos2=VBZ	0	root	_	O
+5	three	#crd#	CD	_	6	nmod	_	U-CARDINAL
+6	points	point	NNS	pos2=VBZ	4	appos	_	O
+7	Ukraine	ukraine	NNP	_	8	nsubj	_	U-GPE
+8	opposed	oppose	VBD	pos2=VBN	6	relcl	_	O
+9	at	at	IN	_	8	prep	_	O
+10	Ukraine	ukraine	NNP	_	12	compound	_	U-GPE
+11	-	-	HYPH	_	12	punct	_	O
+12	EU	eu	NNP	_	13	compound	_	U-ORG
+13	summit	summit	NN	_	9	pobj	_	O
+14	https://t.co/mihhkm3Uef	#hlink#	ADD	pos2=NN	4	appos	_	O
+

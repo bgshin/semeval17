@@ -1,0 +1,28 @@
+1	@RiskyLiberal	@riskyliberal	UH	pos2=MD	5	discourse	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	care	care	VB	_	0	root	_	O
+6	if	if	IN	_	8	mark	_	O
+7	she	she	PRP	_	8	nsubj	_	O
+8	got	get	VBD	_	5	ccomp	_	O
+9	funding	funding	NN	pos2=VBG	8	dobj	_	O
+10	from	from	IN	_	8	prep	_	O
+11	Kim	kim	NNP	_	13	compound	_	B-PERSON
+12	Jong	jong	NNP	_	13	compound	_	I-PERSON
+13	UN	un	NNP	_	10	pobj	_	L-PERSON
+14	...	..	.	pos2=,	5	punct	_	O
+
+1	if	if	IN	_	3	mark	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	finds	find	VBZ	_	8	advcl	_	O
+4	errors	error	NNS	_	3	dobj	_	O
+5	and	and	CC	_	3	cc	_	O
+6	reverses	reverse	VBZ	pos2=NNS	3	conj	_	O
+7	results	result	NNS	_	6	dobj	_	O
+8	Im	im	NNP	pos2=RB	12	prt	_	O
+9	all	all	RB	pos2=DT	10	advmod	_	O
+10	for	for	IN	_	6	prep	_	O
+11	it	it	PRP	_	10	pobj	_	O
+12	.	.	.	_	0	root	_	O
+

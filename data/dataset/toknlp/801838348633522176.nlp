@@ -1,0 +1,12 @@
+1	@CGasparino	@cgasparino	ADD	pos2=UH	6	nsubj	_	O
+2	@BunkerBuster77	@bunkerbuster0	IN	pos2=NN	1	prep	_	O
+3	The	the	DT	_	4	det	_	O
+4	wall	wall	NN	_	2	pobj	_	O
+5	will	will	MD	_	6	aux	_	O
+6	be	be	VB	_	0	root	_	O
+7	35	0	CD	_	9	qmod	_	U-CARDINAL
+8	-	-	SYM	pos2=HYPH	9	punct	_	O
+9	50	0	CD	_	10	nmod	_	O
+10	ft	ft	NNS	pos2=NN	6	attr	_	O
+11	highhttps://t.co/IzS4sKJ9C1	#hlink#	ADD	pos2=NN	6	dep	_	O
+

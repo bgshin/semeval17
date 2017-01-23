@@ -1,0 +1,23 @@
+1	@utahjazz	@utahjazz	DT	pos2=NNP	5	det	_	O
+2	Hill	hill	NNP	pos2=NN	3	nsubj	_	U-ORG
+3	seeing	see	VBG	_	0	root	_	O
+4	money	money	NN	_	5	compound	_	O
+5	signs	sign	NNS	_	3	dobj	_	O
+6	...	..	.	pos2=,	3	punct	_	O
+
+1	we	we	PRP	_	2	nsubj	_	O
+2	go	go	VBP	pos2=VB	0	root	_	O
+3	as	as	RB	_	4	advmod	_	O
+4	far	far	RB	_	2	advmod	_	O
+5	as	as	IN	_	7	mark	_	O
+6	he	he	PRP	_	7	nsubj	_	O
+7	takes	take	VBZ	_	4	advcl	_	O
+8	us	us	PRP	_	7	dobj	_	O
+9	!	!	.	_	2	punct	_	O
+
+1	Fat	fat	NN	pos2=JJ	2	compound	_	O
+2	contract	contract	NN	_	3	nsubj	_	O
+3	coming	come	VBG	_	0	root	_	O
+4	up	up	RP	pos2=RB	3	prt	_	O
+5	!	!	.	_	3	punct	_	O
+

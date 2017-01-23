@@ -1,0 +1,26 @@
+1	The	the	DT	_	3	det	_	O
+2	#liberalelite	#liberalelite	JJ	pos2=TO	3	nmod	_	O
+3	cry	cry	NN	pos2=VBP	25	dep	_	O
+4	about	about	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	kids	kid	NNS	_	4	pobj	_	O
+7	getting	get	VBG	_	8	auxpass	_	O
+8	killed	kill	VBN	_	6	acl	_	O
+9	by	by	IN	_	8	agent	_	O
+10	guns	gun	NNS	_	9	pobj	_	O
+11	,	,	,	_	3	punct	_	O
+12	but	but	CC	_	3	cc	_	O
+13	not	not	RB	_	15	neg	_	O
+14	so	so	RB	_	15	advmod	_	O
+15	much	much	RB	pos2=JJ	19	advmod	_	O
+16	for	for	IN	_	12	prep	_	O
+17	the	the	DT	_	18	det	_	O
+18	kids	kid	NNS	_	16	pobj	_	O
+19	killed	kill	VBN	_	18	acl	_	O
+20	by	by	IN	_	19	agent	_	O
+21	Obamas	obamas	NNPS	pos2=NNP	23	compound	_	U-ORG
+22	drone	drone	NN	pos2=CD	23	compound	_	O
+23	st	st	NN	pos2=GW	20	pobj	_	O
+24	…	…	NFP	pos2=-LRB-	25	punct	_	O
+25	https://t.co/rtBWBtW3FG	#hlink#	ADD	_	0	root	_	O
+

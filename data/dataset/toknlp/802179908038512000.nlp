@@ -1,0 +1,8 @@
+1	Tony	tony	NNP	pos2=JJ	3	vocative	_	B-PERSON
+2	romo	romo	TO	pos2=NNP	3	aux	_	L-PERSON
+3	want	want	VB	pos2=VBP	0	root	_	O
+4	me	me	PRP	_	3	dobj	_	O
+5	out	out	RP	pos2=IN	3	prt	_	O
+6	the	the	DT	_	7	det	_	O
+7	game	game	NN	_	3	dobj	_	O
+

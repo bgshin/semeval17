@@ -1,0 +1,26 @@
+1	Thankful	thankful	JJ	_	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	all	all	PDT	_	6	predet	_	O
+4	the	the	DT	_	6	det	_	O
+5	bad	bad	JJ	_	6	nmod	_	O
+6	hombres	hombre	NNS	_	2	pobj	_	O
+7	out	out	RB	_	8	advmod	_	O
+8	there	there	RB	_	6	advmod	_	O
+9	that	that	WDT	pos2=IN	11	dobj	_	O
+10	I	I	PRP	_	11	nsubj	_	O
+11	know	know	VBP	_	6	relcl	_	O
+12	through	through	IN	_	11	prep	_	O
+13	twitch	twitch	NN	_	12	pobj	_	O
+14	and	and	CC	_	6	cc	_	O
+15	the	the	DT	_	16	det	_	O
+16	ones	#crd#	NNS	_	6	conj	_	O
+17	I	I	PRP	_	18	nsubj	_	O
+18	know	know	VBP	_	16	relcl	_	O
+19	irl	irl	NN	pos2=UH	18	dobj	_	O
+20	!	!	.	_	1	punct	_	O
+
+1	Y'all	y'all	PRP	pos2=UH	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	greatest	great	JJS	_	1	appos	_	O
+4	!	!	.	_	1	punct	_	O
+

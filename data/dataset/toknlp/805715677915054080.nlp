@@ -1,0 +1,28 @@
+1	Pope	pope	NNP	_	2	compound	_	O
+2	Francis	francis	NNP	_	4	nsubj	_	U-PERSON
+3	has	have	VBZ	_	4	aux	_	O
+4	declined	decline	VBN	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	answer	answer	VB	_	4	xcomp	_	O
+7	four	#crd#	CD	_	8	nmod	_	U-CARDINAL
+8	cardinals	cardinal	NNS	_	6	dobj	_	O
+9	’	'	''	pos2=POS	6	punct	_	O
+10	‘	'	``	pos2=''	11	punct	_	O
+11	doubts	doubt	NNS	_	6	dobj	_	O
+12	’	'	''	_	11	punct	_	O
+13	about	about	IN	_	11	prep	_	O
+14	his	his	PRP$	_	15	poss	_	O
+15	teaching	teaching	NN	_	13	pobj	_	O
+16	on	on	IN	_	15	prep	_	O
+17	marriage	marriage	NN	_	16	pobj	_	O
+18	.	.	.	_	4	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	Church	church	NNP	pos2=NN	3	nsubj	_	U-ORG
+3	is	be	VBZ	_	0	root	_	O
+4	now	now	RB	_	3	advmod	_	O
+5	in.	in.	.	pos2=JJ	3	punct	_	O
+6	..	..	.	pos2=NFP	3	punct	_	O
+
+1	https://t.co/olaDaAknyb	#hlink#	ADD	_	0	root	_	U-ORG
+

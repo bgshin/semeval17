@@ -1,0 +1,13 @@
+1	#IraqiForces	#iraqiforces	NNS	pos2=ADD	2	nsubj	_	O
+2	Move	move	VBP	pos2=VB	0	root	_	O
+3	to	to	TO	pos2=IN	4	aux	_	O
+4	Retake	retake	VB	_	2	xcomp	_	O
+5	Another	another	DT	pos2=NNP	9	det	_	B-EVENT
+6	#Mosul	#mosul	NNP	pos2=$	12	dep	_	I-EVENT
+7	Neighborhood#Mosul	neighborhood#mosul	NNP	pos2=XX	12	dep	_	I-EVENT
+8	#Mosuloffensive	#mosuloffensive	NNP	pos2=POS	12	dep	_	I-EVENT
+9	#MosulOp	#mosulop	NNP	pos2=ADD	12	nmod	_	L-EVENT
+10	#Iraq#ISIS	#iraq#isis	GW	pos2=POS	12	nmod	_	O
+11	…	…	NFP	pos2=GW	12	punct	_	O
+12	https://t.co/2oUhKdExuW	#hlink#	ADD	_	4	dobj	_	O
+

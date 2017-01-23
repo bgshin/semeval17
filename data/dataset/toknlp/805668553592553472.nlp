@@ -1,0 +1,21 @@
+1	💥	💥	NFP	pos2=IN	4	punct	_	O
+2	British	british	JJ	_	3	nmod	_	B-TIME
+3	PM	pm	NN	pos2=NNP	6	compound	_	L-TIME
+4	@theresa_may	@theresa_may	NNP	pos2=NN	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	#Bahrain	#bahrain	NNP	pos2=NN	5	pobj	_	U-GPE
+7	to	to	TO	_	8	aux	_	O
+8	attend	attend	VB	_	4	advcl	_	O
+9	GCC	gcc	NN	pos2=NNP	10	compound	_	U-ORG
+10	meeting	meeting	NN	_	8	dobj	_	O
+11	,	,	,	_	9	punct	_	O
+12	cement	cement	NN	_	14	compound	_	O
+13	Gulf	gulf	NNP	pos2=NN	14	compound	_	O
+14	ties	tie	NNS	_	10	conj	_	O
+15	before	before	IN	_	14	prep	_	O
+16	Brexit	brexit	NNP	_	15	pobj	_	U-GPE
+17	.	.	.	_	4	punct	_	O
+
+1	#UK	#uk	NN	pos2=NNP	0	root	_	O
+2	"	"	''	pos2=``	1	punct	_	O
+

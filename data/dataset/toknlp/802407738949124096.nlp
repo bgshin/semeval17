@@ -1,0 +1,26 @@
+1	Australia	australia	NNP	_	4	nsubj	_	U-GPE
+2	has	have	VBZ	_	4	aux	_	O
+3	abruptly	abruptly	RB	_	4	advmod	_	O
+4	ceased	cease	VBN	pos2=VBD	0	root	_	O
+5	all	all	DT	_	6	det	_	O
+6	donations	donation	NNS	_	4	dobj	_	O
+7	to	to	IN	_	4	prep	_	O
+8	the	the	DT	_	10	det	_	B-ORG
+9	Clinton	clinton	NNP	_	10	compound	_	I-ORG
+10	Foundation	foundation	NNP	_	7	pobj	_	L-ORG
+11	.	.	.	_	4	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	wonder	wonder	VBP	_	0	root	_	O
+3	how	how	WRB	_	4	advmod	_	O
+4	much	much	JJ	pos2=RB	9	dobj	_	O
+5	the	the	DT	_	7	det	_	O
+6	Clinton	clinton	NNP	_	7	compound	_	O
+7	Foundation	foundation	NNP	_	9	nsubj	_	O
+8	has	have	VBZ	_	9	aux	_	O
+9	received	receive	VBN	_	2	ccomp	_	O
+10	from	from	IN	_	9	prep	_	O
+11	UK	uk	NNP	_	12	compound	_	B-ORG
+12	Gov	gov	NNP	_	10	pobj	_	L-ORG
+13	?	?	.	_	2	punct	_	O
+

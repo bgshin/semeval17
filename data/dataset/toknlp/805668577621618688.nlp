@@ -1,0 +1,16 @@
+1	Zac	zac	NNP	_	2	compound	_	B-PERSON
+2	Efron	efron	NNP	_	3	nsubj	_	L-PERSON
+3	Flaunts	flaunt	VBZ	pos2=NNPS	0	root	_	O
+4	Fit	fit	NNP	_	5	compound	_	B-PERSON
+5	Abs	abs	NNP	_	3	dobj	_	L-PERSON
+6	in	in	IN	_	5	prep	_	O
+7	New	new	NNP	pos2=JJ	10	poss	_	U-GPE
+8	‘	'	POS	pos2=``	7	case	_	O
+9	Dirty	dirty	NNP	pos2=JJ	10	compound	_	O
+10	Grandpa	grandpa	NNP	_	6	pobj	_	U-PERSON
+11	’	'	''	pos2=POS	3	punct	_	O
+12	...	..	.	pos2=:	3	punct	_	O
+
+1	https://t.co/t5WnYx0hSa	#hlink#	ADD	_	2	nsubj	_	O
+2	#ZacEfron	#zacefron	ADD	pos2=-RRB-	0	root	_	O
+

@@ -1,0 +1,14 @@
+1	#AllStar	#allstar	NNP	pos2=NN	13	dep	_	O
+2	2011	0	CD	_	1	npadvmod	_	O
+3	Panini	panini	NNP	_	7	compound	_	B-ORG
+4	Gold	gold	NNP	pos2=NN	7	compound	_	I-ORG
+5	Standard	standard	NNP	pos2=JJ	7	compound	_	I-ORG
+6	Stars	stars	NNP	pos2=NNPS	7	compound	_	I-ORG
+7	Memorabilia	memorabilia	NNP	pos2=NNS	1	appos	_	L-ORG
+8	19	0	CD	_	7	npadvmod	_	U-CARDINAL
+9	#LaMarcusAldridge	#lamarcusaldridge	NNP	pos2=IN	11	compound	_	B-ORG
+10	Basketball	basketball	NNP	pos2=GW	11	compound	_	L-ORG
+11	#Card	#card	NNP	pos2=GW	13	dep	_	O
+12	https://t.co/FtEwEpSu9S…	#hlink#	ADD	_	13	nmod	_	O
+13	https://t.co/IwkDm4j9dk	#hlink#	ADD	_	0	root	_	U-ORG
+

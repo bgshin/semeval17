@@ -1,0 +1,8 @@
+1	@MDavisbot	@mdavisbot	ADD	pos2=XX	4	prep	_	O
+2	@justanactor	@justanactor	IN	pos2=PRP$	0	root	_	O
+3	Sweet	sweet	NNP	pos2=JJ	4	compound	_	B-PERSON
+4	Jesus	jesus	NNP	_	2	pobj	_	L-PERSON
+5	!	!	.	_	2	punct	_	O
+
+1	#TheWalkingDead	#thewalkingdead	ADD	pos2=XX	0	root	_	O
+

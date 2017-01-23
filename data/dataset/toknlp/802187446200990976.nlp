@@ -1,0 +1,11 @@
+1	Follow	follow	VB	_	0	root	_	O
+2	@HebaShibani	@hebashibani	NN	pos2=NNS	1	dobj	_	O
+3	for	for	IN	_	1	prep	_	O
+4	#HammametConf	#hammametconf	NN	pos2=JJ	5	compound	_	O
+5	coverage	coverage	NN	_	3	pobj	_	O
+6	!	!	.	_	1	punct	_	O
+
+1	@HammametConf	@hammametconf	ADD	pos2=NN	3	punct	_	O
+2	@lyBritish	@lybritish	XX	pos2=NNS	3	compound	_	B-PERSON
+3	#Libya	#libya	NNP	pos2=NNS	0	root	_	L-PERSON
+

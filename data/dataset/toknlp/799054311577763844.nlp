@@ -1,0 +1,20 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@DreaMcCoy	@dreamccoy	UH	pos2=XX	5	discourse	_	O
+2	At	at	IN	pos2=RB	3	advmod	_	O
+3	least	least	JJS	pos2=RBS	5	advmod	_	O
+4	this	this	DT	_	5	nsubj	_	O
+5	indicates	indicate	VBZ	_	0	root	_	O
+6	#TrumpTransitionTeam	#trumptransitionteam	NNP	pos2=PRP	8	nsubj	_	U-ORG
+7	has	have	VBZ	_	8	aux	_	O
+8	figured	figure	VBN	_	5	ccomp	_	O
+9	out	out	RP	_	8	prt	_	O
+10	that	that	IN	pos2=DT	12	mark	_	O
+11	@BetsyDeVos	@betsydevos	NNP	pos2=NNPS	12	nsubj	_	U-ORG
+12	hates	hate	VBZ	_	8	ccomp	_	O
+13	@realDonaldTrump	@realdonaldtrump	ADD	pos2=NN	12	dobj	_	O
+14	.	.	.	_	5	punct	_	O
+
+1	#TBATs	#tbats	NNS	pos2=ADD	2	compound	_	O
+2	@BadassTeachersA	@badassteachersa	NN	pos2=ADD	0	root	_	O
+

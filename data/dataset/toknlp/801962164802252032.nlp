@@ -1,0 +1,28 @@
+1	Oh	oh	UH	_	0	root	_	O
+2	Hester	hester	NNP	_	1	vocative	_	U-PERSON
+3	..	..	.	pos2=,	1	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	love	love	VBP	_	10	ccomp	_	O
+3	you😂Seriously	you😂seriously	NNP	pos2=RB	2	dobj	_	O
+4	@msleamichele	@msleamichele	UH	pos2=XX	2	discourse	_	O
+5	in	in	IN	_	2	prep	_	O
+6	this	this	DT	_	7	det	_	O
+7	role	role	NN	_	5	pobj	_	O
+8	,	,	,	_	10	punct	_	O
+9	it	it	PRP	_	10	nsubj	_	O
+10	's	's	VBZ	_	0	root	_	O
+11	EVERYTHING	everything	NN	_	10	attr	_	O
+12	..	..	.	pos2=:	10	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	mean	mean	VBP	_	4	parataxis	_	O
+3	Rachel	rachel	NNP	_	4	compound	_	B-PERSON
+4	Berry	berry	NNP	_	0	root	_	L-PERSON
+5	to	to	IN	_	4	prep	_	O
+6	Hester	hester	NNP	_	5	pobj	_	U-PERSON
+7	?	?	.	_	4	punct	_	O
+
+1	DAMN	damn	RB	pos2=JJ	2	advmod	_	O
+2	girl👏🏼🙌🏼❤️#ScreamQueens	girl👏🏼🙌🏼❤️#screamqueens	NNS	pos2=NN	0	root	_	O
+

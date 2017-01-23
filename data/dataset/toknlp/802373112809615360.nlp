@@ -1,0 +1,35 @@
+1	Oh	oh	UH	_	3	discourse	_	O
+2	he	he	PRP	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	He	he	PRP	_	4	nsubj	_	O
+2	very	very	RB	_	3	advmod	_	O
+3	much	much	RB	pos2=JJ	4	advmod	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	And	and	CC	_	4	cc	_	O
+2	they	they	PRP	_	4	nsubj	_	O
+3	'll	will	MD	_	4	aux	_	O
+4	take	take	VB	_	0	root	_	O
+5	away	away	RB	pos2=RP	4	advmod	_	O
+6	Medicare	medicare	NNP	_	4	dobj	_	U-ORG
+7	to	to	TO	_	8	aux	_	O
+8	do	do	VB	_	4	advcl	_	O
+9	it	it	PRP	_	8	dobj	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	And	and	CC	_	3	cc	_	O
+2	probably	probably	RB	_	3	advmod	_	O
+3	starve	starve	VB	pos2=VBP	0	root	_	O
+4	some	some	DT	_	6	det	_	O
+5	poor	poor	JJ	_	6	nmod	_	O
+6	children	child	NNS	_	3	dobj	_	O
+7	,	,	,	_	3	punct	_	O
+8	too	too	RB	_	3	advmod	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/0XdRP0F3X5	#hlink#	ADD	pos2=NN	0	root	_	O
+

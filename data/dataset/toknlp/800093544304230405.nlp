@@ -1,0 +1,9 @@
+1	Microsoft	microsoft	NNP	_	2	nsubj	_	U-ORG
+2	joins	join	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	B-ORG
+4	Linux	linux	NNP	_	5	compound	_	I-ORG
+5	Foundation	foundation	NNP	pos2=NN	2	dobj	_	L-ORG
+6	https://t.co/D5Wzbn7qR1	#hlink#	ADD	_	5	appos	_	O
+7	via	via	IN	_	2	prep	_	O
+8	@techcrunch	@techcrunch	NN	pos2=.	7	pobj	_	O
+

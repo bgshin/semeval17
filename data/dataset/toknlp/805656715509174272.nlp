@@ -1,0 +1,12 @@
+1	It	it	PRP	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	decrease	decrease	VB	_	0	root	_	O
+4	anxiety	anxiety	NN	_	3	dobj	_	O
+5	...	..	.	_	3	punct	_	O
+
+1	Read	read	VB	pos2=GW	0	root	_	O
+2	more	more	JJR	pos2=RBR	1	dobj	_	O
+3	>>>	>>	NFP	pos2=GW	5	punct	_	O
+4	https://t.co/YjNK7QHsys	#hlink#	ADD	pos2=GW	5	nmod	_	O
+5	https://t.co/k2Yo75uuIs	#hlink#	ADD	_	1	dobj	_	U-ORG
+

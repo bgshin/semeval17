@@ -1,0 +1,17 @@
+1	The	the	DT	_	3	det	_	O
+2	real	real	JJ	_	3	nmod	_	O
+3	scandal	scandal	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	the	the	DT	_	8	det	_	O
+6	massive	massive	JJ	_	8	nmod	_	O
+7	voter	voter	NN	_	8	compound	_	O
+8	suppression	suppression	NN	_	4	attr	_	O
+9	by	by	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	#PoliceState	#policestate	NN	pos2=NNP	9	pobj	_	O
+12	.	.	.	_	4	punct	_	O
+
+1	https://t.co/eT7JBBQMny	#hlink#	ADD	_	3	nmod	_	O
+2	#BlackLivesMatter	#blacklivesmatter	-RRB-	pos2=ADD	3	punct	_	O
+3	#RestoretheVRA	#restorethevra	NN	pos2=ADD	0	root	_	O
+

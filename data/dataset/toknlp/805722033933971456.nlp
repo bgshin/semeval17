@@ -1,0 +1,10 @@
+1	Fidel	fidel	NNP	_	2	compound	_	B-PERSON
+2	Castro	castro	NNP	_	3	nsubj	_	L-PERSON
+3	dead	dead	JJ	pos2=RB	0	root	_	O
+4	at	at	IN	_	3	prep	_	O
+5	age	age	NN	_	4	pobj	_	B-DATE
+6	90	0	CD	_	5	nmod	_	L-DATE
+7	https://t.co/C6F7G8KgIy	#hlink#	ADD	pos2=NNS	3	npadvmod	_	O
+8	via	via	IN	_	3	prep	_	O
+9	@YouTube	@youtube	NN	pos2=ADD	8	pobj	_	O
+

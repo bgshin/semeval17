@@ -1,0 +1,21 @@
+1	@JeremyEdward7	@jeremyedward0	NN	pos2=NNS	6	dep	_	O
+2	@nytimes	@nytimes	UH	pos2=NNS	1	discourse	_	O
+3	When	when	WRB	_	6	advmod	_	O
+4	did	do	VBD	_	6	aux	_	O
+5	she	she	PRP	pos2=DT	6	nsubj	_	O
+6	state	state	VB	pos2=VBZ	0	root	_	O
+7	that	that	IN	_	10	mark	_	O
+8	she	she	PRP	_	10	nsubj	_	O
+9	would	would	MD	_	10	aux	_	O
+10	implement	implement	VB	_	6	ccomp	_	O
+11	a	a	DT	_	14	det	_	O
+12	mandatory	mandatory	JJ	_	14	nmod	_	O
+13	death	death	NN	_	14	compound	_	O
+14	penalty	penalty	NN	_	10	dobj	_	O
+15	for	for	IN	_	14	prep	_	O
+16	killing	kill	VBG	_	15	pcomp	_	O
+17	a	a	DT	_	19	det	_	O
+18	police	police	NN	_	19	compound	_	O
+19	officer	officer	NN	_	16	dobj	_	O
+20	?	?	.	_	6	punct	_	O
+

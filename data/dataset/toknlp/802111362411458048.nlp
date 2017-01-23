@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det	_	O
+2	Reputation	reputation	NN	pos2=NNP	17	dep	_	O
+3	Doctor	doctor	NNP	pos2=NN	4	nsubj	_	O
+4	weighs	weigh	VBZ	_	2	relcl	_	O
+5	in	in	RP	pos2=IN	4	prt	_	O
+6	on	on	IN	_	4	prep	_	O
+7	Tony	tony	NNP	_	9	compound	_	B-PERSON
+8	Romo	romo	NNP	_	9	compound	_	L-PERSON
+9	#NFL	#nfl	NNP	pos2=POS	6	pobj	_	O
+10	@gordonstrat	@gordonstrat	WP	pos2=NNP	11	nsubj	_	O
+11	joins	join	VBZ	_	2	relcl	_	O
+12	@billcarrolltalk	@billcarrolltalk	XX	pos2=RP	11	dobj	_	O
+13	on	on	IN	pos2=RP	11	prep	_	O
+14	#TheMorningRush	#themorningrush	NNP	pos2=XX	13	pobj	_	U-PERSON
+15	LISTEN	listen	VB	pos2=NN	17	dep	_	O
+16	:	:	:	_	17	punct	_	O
+17	https://t.co/jq4fZS5F4C	#hlink#	ADD	pos2=NN	0	root	_	O
+

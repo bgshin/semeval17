@@ -1,0 +1,27 @@
+1	@rhopper237	@rhopper0	UH	pos2=NN	4	discourse	_	O
+2	Well	well	UH	_	4	discourse	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	hope	hope	VBP	_	0	root	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	're	be	VBP	_	4	ccomp	_	O
+7	right	right	JJ	_	6	acomp	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	And	and	CC	_	6	cc	_	O
+2	hey	hey	UH	_	6	discourse	_	O
+3	,	,	,	_	6	punct	_	O
+4	I	I	PRP	_	6	nsubj	_	O
+5	still	still	RB	_	6	advmod	_	O
+6	have	have	VBP	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	PS4	ps0	NN	_	6	dobj	_	O
+9	for	for	IN	_	8	prep	_	O
+10	Bloodborne	bloodborne	NNP	pos2=JJ	9	pobj	_	B-ORG
+11	&	&	CC	_	10	cc	_	I-ORG
+12	Persona	persona	NNP	pos2=NN	10	conj	_	L-ORG
+13	5	0	CD	_	16	advmod	_	U-CARDINAL
+14	if	if	IN	_	15	mark	_	O
+15	nothing	nothing	NN	_	12	advcl	_	O
+16	else	else	RB	pos2=JJ	15	advmod	_	O
+17	.	.	.	_	6	punct	_	O
+

@@ -1,0 +1,22 @@
+1	Donald	donald	NNP	_	2	compound	_	B-PERSON
+2	Trump	trump	NNP	pos2=NN	4	nsubj	_	L-PERSON
+3	should	should	MD	_	4	aux	_	O
+4	get	get	VB	_	0	root	_	O
+5	Petr	petr	NNP	_	6	compound	_	B-PERSON
+6	Cech	cech	NNP	_	8	nsubj	_	L-PERSON
+7	to	to	TO	_	8	aux	_	O
+8	be	be	VB	_	4	ccomp	_	O
+9	the	the	DT	_	10	det	_	O
+10	wall	wall	NN	_	8	attr	_	O
+11	on	on	IN	_	10	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	Mexican	mexican	JJ	pos2=NNP	14	nmod	_	U-NORP
+14	border	border	NN	_	11	pobj	_	O
+15	.	.	.	_	4	punct	_	O
+
+1	Nothing	nothing	NN	_	3	nsubj	_	O
+2	would	would	MD	_	3	aux	_	O
+3	get	get	VB	_	0	root	_	O
+4	through	through	RB	pos2=RP	3	advmod	_	O
+5	.	.	.	_	3	punct	_	O
+

@@ -1,0 +1,20 @@
+1	@AdrianneCurry	@adriannecurry	VB	pos2=NN	0	root	_	O
+2	because	because	IN	_	5	mark	_	O
+3	Kate	kate	NNP	_	4	compound	_	B-PERSON
+4	upton	upton	NNP	pos2=NN	5	nsubj	_	L-PERSON
+5	is	be	VBZ	_	1	advcl	_	O
+6	too	too	RB	_	7	advmod	_	O
+7	busy	busy	JJ	_	5	acomp	_	O
+8	complaining	complain	VBG	_	7	xcomp	_	O
+9	that	that	IN	_	14	mark	_	O
+10	Justin	justin	NNP	_	11	compound	_	B-PERSON
+11	Verlander	verlander	NNP	_	14	nsubj	_	L-PERSON
+12	should	should	MD	_	14	aux	_	O
+13	have	have	VB	_	14	aux	_	O
+14	won	win	VBN	_	8	ccomp	_	O
+15	the	the	DT	_	18	det	_	B-WORK_OF_ART
+16	CY	cy	NNP	pos2=NN	17	compound	_	I-WORK_OF_ART
+17	Young	young	NNP	pos2=JJ	18	compound	_	I-WORK_OF_ART
+18	award	award	NN	_	14	dobj	_	L-WORK_OF_ART
+19	.	.	.	_	1	punct	_	O
+

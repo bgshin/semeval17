@@ -1,0 +1,40 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	U-ORG
+2	@CharlesMBlow	@charlesmblow	NN	pos2=XX	6	dep	_	O
+3	:	:	:	_	6	punct	_	O
+4	I	I	PRP	_	6	nsubj	_	O
+5	'm	be	VBP	_	6	aux	_	O
+6	getting	get	VBG	_	0	root	_	O
+7	tired	tired	JJ	_	6	acomp	_	O
+8	of	of	IN	_	7	prep	_	O
+9	writing	write	VBG	_	8	pcomp	_	O
+10	"	"	``	_	13	punct	_	O
+11	alt	alt	JJ	pos2=NN	13	advmod	_	O
+12	-	-	HYPH	_	13	punct	_	O
+13	right	right	JJ	pos2=NN	6	acomp	_	O
+14	.	.	.	_	6	punct	_	O
+15	"	"	''	_	6	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	'm	be	VBP	_	3	aux	_	O
+3	going	go	VBG	_	0	root	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	write	write	VB	pos2=VBP	3	xcomp	_	O
+6	"	"	``	pos2=''	9	punct	_	O
+7	racist	racist	JJ	_	9	nmod	_	O
+8	white	white	JJ	_	9	nmod	_	O
+9	nationalists	nationalist	NNS	pos2=NNPS	5	dobj	_	O
+10	.	.	.	_	3	punct	_	O
+11	"	"	''	_	3	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	old	old	JJ	_	4	nmod	_	O
+4	school	school	NN	_	2	attr	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	No	no	DT	pos2=UH	2	det	_	O
+2	need	need	NN	_	0	root	_	O
+3	to	to	TO	pos2=IN	4	aux	_	O
+4	r	r	VB	_	2	acl	_	O
+5	…	…	.	pos2=''	2	punct	_	O
+

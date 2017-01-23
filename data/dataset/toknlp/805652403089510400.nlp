@@ -1,0 +1,25 @@
+1	Medically	medically	RB	_	2	advmod	_	O
+2	caused	cause	VBD	pos2=VBN	0	root	_	O
+3	death	death	NN	_	2	dobj	_	O
+4	in	in	IN	_	2	prep	_	O
+5	America	america	NNP	_	4	pobj	_	U-GPE
+6	-	-	:	pos2=,	2	punct	_	O
+7	Every	every	DT	_	8	det	_	O
+8	case	case	NN	_	13	nsubj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	SIDS	sids	NNP	pos2=NNS	9	pobj	_	O
+11	-	-	,	pos2=:	13	punct	_	O
+12	the	the	DT	_	15	det	_	O
+13	made	make	VBN	pos2=VBD	15	nmod	_	O
+14	up	up	RP	_	13	prt	_	O
+15	phenomena	phenomenon	NN	pos2=NNS	0	root	_	O
+16	to	to	TO	_	17	aux	_	O
+17	cover	cover	VB	_	15	relcl	_	O
+18	up	up	RP	pos2=IN	17	prt	_	O
+19	Death	death	NN	pos2=NNP	17	dobj	_	O
+20	by	by	IN	_	17	prep	_	O
+21	Vaccines	vaccine	NNS	pos2=NNPS	20	pobj	_	O
+22	.	.	.	_	2	punct	_	O
+
+1	https://t.co/xfzyZynKMP	#hlink#	ADD	_	0	root	_	U-ORG
+

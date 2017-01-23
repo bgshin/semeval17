@@ -1,0 +1,29 @@
+1	Went	go	VBD	_	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	see	see	VB	_	1	advcl	_	O
+4	#FantasticBeasts	#fantasticbeasts	NNS	_	3	dobj	_	O
+5	and	and	CC	_	1	cc	_	O
+6	at	at	IN	_	11	prep	_	O
+7	one	#crd#	CD	_	8	nmod	_	U-CARDINAL
+8	point	point	NN	_	6	pobj	_	O
+9	a	a	DT	_	10	det	_	O
+10	character	character	NN	_	11	nsubj	_	O
+11	said	say	VBD	pos2=VBN	1	conj	_	O
+12	"	"	``	_	11	punct	_	O
+13	Until	until	IN	_	11	prep	_	O
+14	then	then	RB	_	13	pcomp	_	O
+15	...	..	.	pos2=,	11	punct	_	O
+16	"	"	''	_	11	punct	_	O
+
+1	and	and	CC	_	4	cc	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	immediately	immediately	RB	_	4	advmod	_	O
+4	thought	think	VBD	_	0	root	_	O
+5	LATER	later	RB	pos2=RBR	4	advmod	_	O
+6	,	,	,	_	7	punct	_	O
+7	WITCHES	witch	NNS	pos2=NNPS	4	dep	_	O
+8	!	!	.	_	4	punct	_	O
+
+1	@ohwitchplease	@ohwitchplease	UH	pos2=VB	2	discourse	_	O
+2	😂	😂	NN	pos2=.	0	root	_	O
+

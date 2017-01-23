@@ -1,0 +1,11 @@
+1	@Dovewoman1	@dovewoman0	NN	pos2=NNS	0	root	_	O
+2	@malamoot	@malamoot	UH	pos2=IN	1	discourse	_	O
+3	@nytpolitics	@nytpolitics	UH	pos2=NNS	1	discourse	_	O
+4	@nytimes	@nytimes	UH	pos2=NNS	1	discourse	_	O
+5	Oh	oh	UH	_	9	discourse	_	O
+6	yeah	yeah	UH	_	5	discourse	_	O
+7	,	,	,	_	8	punct	_	O
+8	Clinton	clinton	NNP	_	9	compound	_	O
+9	Foundation	foundation	NNP	_	1	vocative	_	O
+10	!	!	.	_	1	punct	_	O
+

@@ -1,0 +1,27 @@
+1	@BetteMidler	@bettemidler	NNP	pos2=RBR	8	nsubj	_	O
+2	EXACTLY	exactly	RB	_	8	advmod	_	O
+3	,	,	,	_	8	punct	_	O
+4	THE	the	DT	_	6	det	_	B-ORG
+5	OOMPA	oompa	NNP	pos2=NN	6	compound	_	I-ORG
+6	LOOMPA	loompa	NNP	_	8	nsubj	_	L-ORG
+7	IS	be	VBZ	_	8	aux	_	O
+8	PLAYING	play	VBG	_	0	root	_	O
+9	THE	the	DT	_	10	det	_	O
+10	PRESS	press	NNP	pos2=NN	8	dobj	_	O
+11	LIKE	like	IN	_	8	prep	_	O
+12	A	a	DT	pos2=NNP	13	det	_	O
+13	FIDDLE	fiddle	NN	pos2=NNP	11	pobj	_	O
+14	.	.	.	_	8	punct	_	O
+
+1	HIS	his	PRP$	_	2	poss	_	O
+2	FOLLOWERS	follower	NNS	_	3	nsubj	_	O
+3	ARE	be	VBP	_	0	root	_	O
+4	100	0	CD	_	5	nmod	_	B-PERCENT
+5	%	%	NN	_	6	compound	_	L-PERCENT
+6	DEPLORABLES	deplorables	NNS	pos2=NN	3	attr	_	O
+7	AND	and	CC	_	6	cc	_	O
+8	DUMB	dumb	JJ	pos2=NN	6	conj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	#HESNOTMYPRESIDENT	#hesnotmypresident	ADD	pos2=NN	0	root	_	O
+

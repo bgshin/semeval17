@@ -1,0 +1,14 @@
+1	Story@independe	story@independe	ADD	pos2=-LRB-	3	nmod	_	O
+2	ntrexhttp://goo.gl/F4zcCZ	#hlink#	ADD	pos2=NNP	6	compound	_	O
+3	Vehicle	vehicle	NN	pos2=NNP	0	root	_	O
+4	Carrying	carry	VBG	pos2=NNP	3	acl	_	O
+5	Fidel	fidel	NNP	_	6	compound	_	B-PERSON
+6	Castro	castro	NNP	_	8	poss	_	I-PERSON
+7	's	's	POS	_	6	case	_	L-PERSON
+8	Ashes	ash	NNS	pos2=NNPS	4	dobj	_	O
+9	…	…	NFP	pos2=:	11	punct	_	O
+10	https://t.co/esLrRJrKLX,	#hlink#	ADD	pos2=TO	11	nsubj	_	O
+11	see	see	VB	pos2=VBP	8	acl	_	O
+12	more	more	JJR	pos2=RBR	13	nmod	_	O
+13	https://t.co/446aTsJLRu	#hlink#	ADD	pos2=NN	11	dobj	_	O
+

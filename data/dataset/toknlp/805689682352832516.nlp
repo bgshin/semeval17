@@ -1,0 +1,22 @@
+1	@michaelianblack	@michaelianblack	UH	pos2=LS	18	discourse	_	O
+2	@nashvl	@nashvl	UH	pos2=MD	18	discourse	_	O
+3	also	also	RB	_	18	advmod	_	O
+4	,	,	,	_	18	punct	_	O
+5	the	the	DT	_	6	det	_	O
+6	things	thing	NNS	_	18	nsubj	_	O
+7	Obama	obama	NNP	_	9	nsubjpass	_	U-PERSON
+8	was	be	VBD	_	9	auxpass	_	O
+9	blocked	block	VBN	_	6	relcl	_	O
+10	from	from	IN	_	9	prep	_	O
+11	doing	do	VBG	_	10	pcomp	_	O
+12	,	,	,	_	9	punct	_	O
+13	like	like	IN	_	9	prep	_	O
+14	fixing	fix	VBG	_	13	pcomp	_	O
+15	environment	environment	NN	_	14	dobj	_	O
+16	,	,	,	_	18	punct	_	O
+17	would	would	MD	_	18	aux	_	O
+18	save	save	VB	_	0	root	_	O
+19	far	far	RB	_	20	advmod	_	O
+20	more	more	JJR	pos2=RBR	21	nmod	_	O
+21	https://t.co/0R7AmzMs2R	#hlink#	ADD	pos2=NN	18	dobj	_	U-ORG
+

@@ -1,0 +1,19 @@
+1	Instead	instead	RB	pos2=UH	5	advmod	_	O
+2	we	we	PRP	_	5	nsubj	_	O
+3	must	must	MD	_	5	aux	_	O
+4	really	really	RB	_	5	advmod	_	O
+5	reduce	reduce	VB	_	0	root	_	O
+6	dependence	dependence	NN	_	5	dobj	_	O
+7	on	on	IN	_	6	prep	_	O
+8	fossil	fossil	NN	pos2=JJ	9	compound	_	O
+9	fuels	fuel	NNS	_	7	pobj	_	O
+10	but	but	CC	_	5	cc	_	O
+11	then	then	RB	_	15	advmod	_	O
+12	no	no	DT	_	13	det	_	O
+13	one	#crd#	NN	pos2=PRP	15	nsubj	_	O
+14	really	really	RB	_	15	advmod	_	O
+15	cares	care	VBZ	_	5	conj	_	O
+16	...	..	.	pos2=,	15	punct	_	O
+
+1	https://t.co/5HhrDHrqEU	#hlink#	ADD	_	0	root	_	U-ORG
+

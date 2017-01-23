@@ -1,0 +1,17 @@
+1	Hillary	hillary	NNP	_	2	compound	_	B-PERSON
+2	Clinton	clinton	NNP	_	5	poss	_	I-PERSON
+3	’s	's	POS	_	2	case	_	L-PERSON
+4	Thanksgiving	thanksgiving	NNP	_	5	compound	_	U-DATE
+5	surprise	surprise	NN	_	14	nsubj	_	O
+6	spearheaded	spearhead	VBN	pos2=VBD	5	acl	_	O
+7	by	by	IN	_	6	agent	_	O
+8	6	0	CD	_	10	nmod	_	B-DATE
+9	-	-	HYPH	_	10	punct	_	I-DATE
+10	year	year	NN	_	12	npadvmod	_	I-DATE
+11	-	-	HYPH	_	12	punct	_	I-DATE
+12	old	old	JJ	_	13	nmod	_	L-DATE
+13	boy	boy	NN	_	7	pobj	_	O
+14	https://t.co/i2vOFE96Rc	#hlink#	ADD	_	0	root	_	O
+15	#p2	#p0	-RRB-	pos2=NN	14	punct	_	O
+16	#uniteblue	#uniteblue	UH	pos2=NN	14	discourse	_	O
+

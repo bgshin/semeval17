@@ -1,0 +1,27 @@
+1	@kimberlyconroy	@kimberlyconroy	UH	pos2=XX	4	discourse	_	O
+2	@petestavros	@petestavros	UH	pos2=NNS	4	discourse	_	O
+3	@megynkelly	@megynkelly	UH	pos2=MD	1	discourse	_	O
+4	no	no	DT	pos2=UH	5	det	_	O
+5	hate	hate	NN	_	0	root	_	O
+6	in	in	IN	_	5	prep	_	O
+7	my	my	PRP$	_	8	poss	_	O
+8	heart	heart	NN	_	6	pobj	_	O
+9	!	!	.	_	5	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	like	like	VB	_	0	root	_	O
+5	fake	fake	JJ	_	7	nmod	_	O
+6	people	people	NNS	_	4	dobj	_	O
+7	hypocrites	hypocrite	NNS	_	6	appos	_	O
+8	who	who	WP	_	9	nsubj	_	O
+9	point	point	VBP	_	7	relcl	_	O
+10	there	there	PRP$	pos2=RB	11	poss	_	O
+11	finger	finger	NN	_	9	dobj	_	O
+12	at	at	IN	_	9	prep	_	O
+13	others	other	NNS	_	12	pobj	_	O
+14	to	to	TO	_	15	aux	_	O
+15	gain	gain	VB	_	9	advcl	_	O
+16	$	$	$	pos2=.	15	dobj	_	O
+

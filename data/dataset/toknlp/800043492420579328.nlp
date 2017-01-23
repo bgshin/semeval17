@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det	_	O
+2	latest	late	JJS	_	6	advmod	_	O
+3	THE	the	DT	pos2=NN	4	det	_	O
+4	TEEN	teen	NN	pos2=NNP	5	compound	_	O
+5	EXCLUSIVE	exclusive	JJ	_	0	root	_	O
+6	DAILY	daily	RB	pos2=NNP	5	advmod	_	O
+7	!	!	.	_	2	punct	_	O
+
+1	https://t.co/WMYRD8NpcP	#hlink#	ADD	pos2=NN	0	root	_	O
+2	Thanks	thanks	NNS	pos2=NN	1	npadvmod	_	O
+3	to	to	IN	_	2	prep	_	O
+4	@HassanWageh	@hassanwageh	NNP	pos2=VB	3	pobj	_	U-ORG
+5	@tessarowenalouw	@tessarowenalouw	XX	pos2=UH	7	nmod	_	O
+6	@avlaing	@avlaing	VBG	pos2=UH	2	prep	_	O
+7	#nationalfastfoodday	#nationalfastfoodday	UH	pos2=FW	6	discourse	_	O
+

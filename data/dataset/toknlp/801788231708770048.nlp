@@ -1,0 +1,19 @@
+1	#Palestinian	#palestinian	JJ	pos2=PRP$	3	nmod	_	O
+2	suicide	suicide	NN	_	3	compound	_	O
+3	bombings	bombing	NNS	pos2=NN	6	nsubj	_	O
+4	no	no	RB	_	5	neg	_	O
+5	longer	long	RBR	pos2=RB	6	advmod	_	O
+6	permitted	permit	VBN	_	0	root	_	O
+7	:	:	:	_	6	punct	_	O
+8	#Qaradawi	#qaradawi	NNP	pos2=NN	9	nsubj	_	U-PERSON
+9	proclaims	proclaim	VBZ	_	6	ccomp	_	O
+10	earlier	early	JJR	pos2=RBR	11	nmod	_	O
+11	fatwa	fatwa	NN	pos2=FW	9	dobj	_	O
+12	now	now	RB	_	13	advmod	_	O
+13	retracted	retract	VBN	pos2=VBD	11	acl	_	O
+14	.	.	.	_	6	punct	_	O
+
+1	#Israel	#israel	NNP	pos2=GW	2	compound	_	B-PERSON
+2	#Hamas	#hamas	NNS	pos2=ADD	3	dep	_	L-PERSON
+3	https://t.co/4VfvG2MpRX	#hlink#	ADD	_	0	root	_	U-ORG
+

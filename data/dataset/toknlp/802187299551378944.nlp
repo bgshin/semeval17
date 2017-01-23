@@ -1,0 +1,12 @@
+1	Swear	swear	VB	pos2=VBP	0	root	_	O
+2	to	to	IN	_	1	prep	_	O
+3	God	god	NNP	_	5	compound	_	O
+4	Steve	steve	NNP	_	5	compound	_	B-PERSON
+5	Bannon	bannon	NNP	_	2	pobj	_	L-PERSON
+6	made	make	VBD	_	1	ccomp	_	O
+7	this	this	DT	_	6	dobj	_	O
+8	in	in	IN	_	6	prep	_	O
+9	Microsoft	microsoft	NNP	_	11	nmod	_	U-ORG
+10	Paint	paint	NNP	pos2=NN	11	nmod	_	B-ORG
+11	https://t.co/LBipg78dDq	#hlink#	ADD	_	1	dep	_	L-ORG
+

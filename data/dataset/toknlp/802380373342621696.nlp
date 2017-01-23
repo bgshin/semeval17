@@ -1,0 +1,16 @@
+1	Why	why	WRB	_	5	advmod	_	O
+2	Melania	melania	NNP	_	3	compound	_	B-PERSON
+3	Trump	trump	NNP	_	5	nsubj	_	L-PERSON
+4	should	should	MD	_	5	aux	_	O
+5	avoid	avoid	VB	_	0	root	_	O
+6	Canada	canada	NNP	_	11	poss	_	U-GPE
+7	's	's	POS	_	6	case	_	O
+8	airhead	airhead	NN	pos2=JJ	11	nmod	_	O
+9	greedy	greedy	JJ	_	11	nmod	_	O
+10	-	-	HYPH	pos2=:	11	punct	_	O
+11	guts	gut	NNS	_	5	dobj	_	O
+12	Sophie	sophie	NNP	pos2=GW	13	compound	_	B-PERSON
+13	Kardashian	kardashian	NNP	pos2=GW	15	dep	_	L-PERSON
+14	https://t.co/mjQ9rPYoLL	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/o9wnQ95x8Y	#hlink#	ADD	_	5	dobj	_	U-ORG
+

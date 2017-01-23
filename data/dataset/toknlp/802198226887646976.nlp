@@ -1,0 +1,14 @@
+1	#MMC	#mmc	NN	pos2=NNS	3	nmod	_	B-ORG
+2	/	/	SYM	_	3	punct	_	I-ORG
+3	#YPG	#ypg	NN	pos2=ADD	6	compound	_	I-ORG
+4	#Kabasin	#kabasin	NNP	pos2=NN	6	compound	_	L-ORG
+5	#ISIS	#isis	NN	pos2=POS	6	compound	_	O
+6	clashes	clash	NNS	pos2=VBZ	0	root	_	O
+7	with	with	IN	_	6	prep	_	O
+8	#SDF	#sdf	NN	pos2=NNP	7	pobj	_	O
+9	in	in	IN	_	6	prep	_	O
+10	#Syria	#syria	NNP	pos2=NN	9	pobj	_	U-GPE
+11	.	.	.	_	6	punct	_	O
+
+1	https://t.co/IEZJeRP8Zv	#hlink#	ADD	_	0	root	_	U-ORG
+

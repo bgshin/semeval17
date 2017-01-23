@@ -1,0 +1,25 @@
+1	Half	half	RB	pos2=NN	6	advmod	_	U-CARDINAL
+2	-	-	HYPH	pos2=:	3	punct	_	O
+3	Fairmont	fairmont	NNP	_	5	nmod	_	O
+4	21	0	CD	pos2=NNP	5	nmod	_	O
+5	Tippecanoe	tippecanoe	NNP	pos2=NN	0	root	_	O
+6	18	0	CD	_	5	npadvmod	_	O
+7	.	.	.	_	5	punct	_	O
+
+1	Allison	allison	NNP	_	2	compound	_	B-PERSON
+2	Mader	mader	NNP	_	0	root	_	L-PERSON
+3	with	with	IN	_	2	prep	_	O
+4	14	0	CD	_	5	nmod	_	U-CARDINAL
+5	points	point	NNS	_	3	pobj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	Tipp	tipp	NNP	_	6	pobj	_	U-ORG
+8	,	,	,	_	7	punct	_	O
+9	4	0	CD	pos2=NNP	10	nmod	_	U-CARDINAL
+10	Firehawks	firehawks	NNS	pos2=NNPS	11	nsubj	_	O
+11	balanced	balanced	JJ	pos2=VBD	7	nmod	_	O
+12	each	each	DT	pos2=NN	7	appos	_	O
+13	with	with	IN	_	12	prep	_	O
+14	5	0	CD	_	16	nmod	_	U-CARDINAL
+15	pts.	pts.	NN	pos2=NNS	16	compound	_	O
+16	#DaytonGirlsHoops	#daytongirlshoops	NNS	pos2=ADD	13	pobj	_	O
+

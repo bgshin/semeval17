@@ -1,0 +1,12 @@
+1	Ariana	ariana	NNP	_	7	compound	_	B-ORG
+2	Grande	grande	NNP	_	7	compound	_	I-ORG
+3	White	white	NNP	_	4	compound	_	I-ORG
+4	House	house	NNP	_	7	compound	_	I-ORG
+5	Easter	easter	NNP	_	7	compound	_	I-ORG
+6	Egg	egg	NNP	_	7	compound	_	I-ORG
+7	Roll	roll	NNP	_	11	dep	_	L-ORG
+8	in	in	IN	_	7	prep	_	O
+9	Washington	washington	NNP	_	8	pobj	_	U-GPE
+10	https://t.co/jdjL9swWM8	#hlink#	ADD	pos2=NNP	11	nsubj	_	O
+11	#ArianaGrande	#arianagrande	ADD	pos2=-RRB-	0	root	_	U-GPE
+

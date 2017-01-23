@@ -1,0 +1,13 @@
+1	Northern	northern	NNP	pos2=JJ	2	compound	_	B-GPE
+2	Ireland	ireland	NNP	_	5	compound	_	L-GPE
+3	abortion	abortion	NN	_	4	compound	_	O
+4	campaign	campaign	NN	_	5	compound	_	O
+5	opponents	opponent	NNS	_	6	nsubj	_	O
+6	reveal	reveal	VBP	pos2=VB	0	root	_	O
+7	crisis	crisis	NN	_	8	compound	_	O
+8	pregnancies	pregnancy	NNS	_	6	dobj	_	O
+9	at	at	IN	_	6	prep	_	O
+10	20	0	CD	pos2=GW	9	pobj	_	B-CARDINAL
+11	https://t.co/uxOWvbu2RU	#hlink#	ADD	_	12	nmod	_	I-CARDINAL
+12	https://t.co/426JIvfeYF	#hlink#	ADD	_	9	pobj	_	L-CARDINAL
+

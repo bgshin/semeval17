@@ -1,0 +1,27 @@
+1	Neymar	neymar	NNP	_	2	compound	_	B-PERSON
+2	Jr	jr	NNP	_	3	nsubj	_	L-PERSON
+3	leads	lead	VBZ	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	#UCL	#ucl	NN	pos2=NNP	3	dobj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	assists	assist	NNS	_	6	pobj	_	O
+8	-	-	:	pos2=HYPH	9	punct	_	O
+9	seven	#crd#	CD	_	5	appos	_	U-CARDINAL
+10	so	so	RB	_	11	advmod	_	O
+11	far	far	RB	_	3	advmod	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	We	we	PRP	_	3	nsubj	_	O
+2	've	have	VBP	_	3	aux	_	O
+3	got	get	VBN	pos2=VBD	0	root	_	O
+4	plenty	plenty	NN	pos2=RB	6	nmod	_	O
+5	more	more	JJR	_	4	nmod	_	O
+6	stats	stat	NNS	_	3	dobj	_	O
+7	where	where	WRB	_	10	pobj	_	O
+8	that	that	DT	pos2=WDT	9	nsubj	_	O
+9	came	come	VBD	_	6	relcl	_	O
+10	from	from	IN	_	9	prep	_	O
+11	:	:	:	_	3	punct	_	O
+12	…	…	NFP	pos2=-LRB-	13	punct	_	O
+13	https://t.co/cyl6rlcuNH	#hlink#	ADD	_	3	dep	_	O
+

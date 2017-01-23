@@ -1,0 +1,19 @@
+1	@Reed2242	@reed0	NN	pos2=NNS	0	root	_	O
+2	like	like	IN	pos2=UH	1	prep	_	O
+3	jerry	jerry	NN	pos2=NNP	4	compound	_	O
+4	jones	jones	NNP	pos2=NNS	2	pobj	_	O
+5	and	and	CC	_	4	cc	_	O
+6	tony	tony	JJ	pos2=NNP	7	nmod	_	O
+7	romo	romo	NNP	pos2=NN	4	conj	_	O
+8	do	do	VBP	pos2=VB	11	aux	_	O
+9	every	every	DT	_	11	det	_	O
+10	Sunday	sunday	NNP	_	11	compound	_	U-DATE
+11	night	night	NN	_	1	npadvmod	_	U-TIME
+12	after	after	IN	_	15	mark	_	O
+13	their	their	PRP$	_	14	poss	_	O
+14	wives	wife	NNS	_	15	nsubj	_	O
+15	go	go	VBP	pos2=VB	1	advcl	_	O
+16	to	to	IN	_	15	prep	_	O
+17	bed	bed	NN	_	16	pobj	_	O
+18	?	?	.	_	1	punct	_	O
+

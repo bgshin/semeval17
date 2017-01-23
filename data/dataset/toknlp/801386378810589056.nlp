@@ -1,0 +1,16 @@
+1	Happy	happy	JJ	_	3	nmod	_	O
+2	Iraqi	iraqi	JJ	_	3	nmod	_	U-NORP
+3	soldiers	soldier	NNS	_	4	nsubj	_	O
+4	celebrates	celebrate	VBZ	_	0	root	_	O
+5	pushing	push	VBG	_	4	xcomp	_	O
+6	ISIS	isis	NNP	pos2=NN	7	nsubj	_	U-ORG
+7	destroy	destroy	VB	pos2=NN	5	ccomp	_	O
+8	reporter	reporter	NN	_	10	poss	_	O
+9	's	's	POS	_	8	case	_	O
+10	show.#mosuloffensive	show.#mosuloffensive	NNP	pos2=JJ	7	dobj	_	O
+11	#mosil	#mosil	UH	pos2=IN	7	discourse	_	O
+12	#isis	#isis	UH	pos2=GW	7	discourse	_	O
+13	#iraq	#iraq	UH	pos2=GW	7	discourse	_	O
+14	#war	#war	UH	pos2=GW	7	discourse	_	O
+15	https://t.co/nYJOtq8o6x	#hlink#	ADD	pos2=UH	7	dobj	_	O
+

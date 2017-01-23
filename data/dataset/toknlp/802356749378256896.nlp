@@ -1,0 +1,24 @@
+1	#Spurs	#spurs	NNS	pos2=NNP	2	compound	_	O
+2	#GoSpursGo	#gospursgo	NNP	pos2=RB	6	nmod	_	O
+3	2014	0	CD	_	5	qmod	_	B-DATE
+4	-	-	SYM	pos2=HYPH	5	punct	_	I-DATE
+5	15	0	CD	_	6	nmod	_	L-DATE
+6	Panini	panini	NNP	pos2=NN	9	nmod	_	U-ORG
+7	Flawless	flawless	JJ	pos2=NNP	9	nmod	_	O
+8	Dual	dual	JJ	pos2=NNP	9	nmod	_	O
+9	Gold	gold	NN	pos2=NNP	14	compound	_	O
+10	TIM	tim	NNP	pos2=NN	14	compound	_	O
+11	DUNCAN	duncan	NNP	_	14	compound	_	O
+12	Game	game	NNP	pos2=NN	14	compound	_	B-EVENT
+13	Used	used	NNP	pos2=VBN	14	compound	_	I-EVENT
+14	Patch	patch	NNP	pos2=NN	19	nsubj	_	I-EVENT
+15	/	/	SYM	pos2=,	14	punct	_	I-EVENT
+16	10	0	CD	_	14	nmod	_	L-EVENT
+17	BGS	bgs	NN	pos2=NNS	21	dep	_	O
+18	9.5	0	CD	_	21	dep	_	U-CARDINAL
+19	POP	pop	NN	_	21	dep	_	O
+20	1/1	0	CD	pos2=GW	21	dep	_	U-CARDINAL
+21	https://t.co/fHC6JAx7CP	#hlink#	ADD	_	23	nmod	_	O
+22	#TimDuncan	#timduncan	ADD	pos2=-RRB-	0	root	_	U-ORG
+23	#NBA	#nba	NN	pos2=ADD	22	pobj	_	O
+

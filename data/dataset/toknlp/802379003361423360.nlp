@@ -1,0 +1,24 @@
+1	@PapaESoCo	@papaesoco	ADD	pos2=UH	3	punct	_	U-GPE
+2	@catlover1943	@catlover0	NN	pos2=GW	3	compound	_	O
+3	@AlterNet	@alternet	NN	pos2=ADD	14	nsubj	_	O
+4	Yes	yes	UH	_	3	discourse	_	O
+5	&	&	CC	_	3	cc	_	O
+6	on	on	IN	_	3	conj	_	O
+7	Coal	coal	NN	pos2=NNP	12	compound	_	O
+8	mining	mining	NN	_	12	compound	_	O
+9	-	-	HYPH	pos2=:	12	punct	_	O
+10	Peabody	peabody	NNP	pos2=NN	12	compound	_	O
+11	-	-	HYPH	pos2=:	12	punct	_	O
+12	etc.	etc.	FW	pos2=NN	14	nsubj	_	O
+13	would	would	MD	_	14	aux	_	O
+14	invent	invent	VB	_	0	root	_	O
+15	robots	robot	NNS	_	14	dobj	_	O
+16	for	for	IN	_	14	prep	_	O
+17	mining	mining	NN	pos2=VBG	16	pobj	_	O
+18	before	before	IN	_	20	mark	_	O
+19	they	they	PRP	_	20	nsubj	_	O
+20	hire	hire	VBP	_	14	advcl	_	O
+21	more	more	JJR	_	22	nmod	_	O
+22	workers	worker	NNS	_	20	dobj	_	O
+23	.	.	.	_	14	punct	_	O
+

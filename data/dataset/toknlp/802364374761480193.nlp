@@ -1,0 +1,25 @@
+1	This	this	DT	_	3	nsubj	_	O
+2	will	will	MD	_	3	aux	_	O
+3	cost	cost	VB	_	0	root	_	O
+4	tax	tax	NN	_	5	compound	_	O
+5	payers	payer	NNS	_	3	dative	_	O
+6	$	$	$	_	7	nmod	_	O
+7	1million	0million	CD	_	3	dobj	_	U-MONEY
+8	a	a	DT	_	9	det	_	O
+9	day	day	NN	_	7	npadvmod	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	Over	over	IN	pos2=RB	7	prep	_	O
+2	a	a	DT	_	5	det	_	O
+3	4	0	CD	_	4	nmod	_	B-DATE
+4	year	year	NN	_	5	compound	_	L-DATE
+5	period	period	NN	_	1	pobj	_	O
+6	that	that	WDT	pos2=DT	7	nsubj	_	O
+7	's	's	VBZ	_	0	root	_	O
+8	how	how	WRB	pos2=RB	9	advmod	_	O
+9	much	much	JJ	pos2=RB	5	appos	_	O
+10	?	?	.	_	7	punct	_	O
+
+1	#unacceptable	#unacceptable	UH	pos2=ADD	2	discourse	_	O
+2	https://t.co/SqZFfzWmCb	#hlink#	ADD	pos2=NN	0	root	_	O
+

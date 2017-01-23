@@ -1,0 +1,29 @@
+1	Saakashvili	saakashvili	NNP	_	2	nsubj	_	U-PERSON
+2	talking	talk	VBG	_	0	root	_	O
+3	about	about	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	risk	risk	NN	_	3	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	"	"	``	pos2=SYM	10	punct	_	O
+8	5,000	0	CD	_	9	nmod	_	U-CARDINAL
+9	people	people	NNS	_	10	nsubj	_	O
+10	taking	take	VBG	_	6	pcomp	_	O
+11	over	over	RP	pos2=IN	10	prt	_	O
+12	Kharkiv	kharkiv	NNP	_	10	dobj	_	U-GPE
+13	and	and	CC	_	12	cc	_	O
+14	Odesa	odesa	NNP	_	12	conj	_	U-GPE
+15	"	"	''	_	10	punct	_	O
+16	and	and	CC	_	2	cc	_	O
+17	calls	call	VBZ	pos2=NNS	2	conj	_	O
+18	for	for	IN	_	17	prep	_	O
+19	early	early	JJ	_	20	nmod	_	O
+20	elections	election	NNS	_	18	pobj	_	O
+21	.	.	.	_	2	punct	_	O
+
+1	https	http	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	//	//	NFP	pos2=-LRB-	6	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	X7xihw824v	x0xihw0v	NN	pos2=JJ	0	root	_	O
+

@@ -1,0 +1,16 @@
+1	#Kurdistan	#kurdistan	NNP	pos2=JJ	2	compound	_	U-NORP
+2	president	president	NN	pos2=NNP	3	compound	_	O
+3	Barzani	barzani	NNP	_	9	nsubj	_	U-PERSON
+4	and	and	CC	_	3	cc	_	O
+5	#US	#us	NNP	pos2=NN	8	poss	_	U-ORG
+6	’s	's	POS	pos2=VBZ	5	case	_	O
+7	Ashton	ashton	NNP	_	8	compound	_	B-PERSON
+8	Carter	carter	NNP	_	3	conj	_	L-PERSON
+9	discuss	discuss	VB	pos2=VBP	0	root	_	O
+10	#MosulOffensive	#mosuloffensive	NNP	pos2=CD	9	dobj	_	O
+11	in	in	IN	_	9	prep	_	O
+12	a	a	DT	_	14	det	_	O
+13	phone	phone	NN	_	14	compound	_	O
+14	call	call	NN	_	11	pobj	_	O
+15	...	..	.	_	9	punct	_	O
+

@@ -1,0 +1,17 @@
+1	Let	let	VB	_	0	root	_	O
+2	's	's	PRP	_	4	nsubj	_	O
+3	all	all	DT	pos2=RB	2	appos	_	O
+4	thank	thank	VBP	_	1	ccomp	_	O
+5	Prez	prez	NNP	_	6	compound	_	B-PERSON
+6	Obama	obama	NNP	_	4	dobj	_	L-PERSON
+7	for	for	IN	_	4	prep	_	O
+8	8yrs	0yrs	NNS	pos2=CD	7	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	progress	progress	NN	_	12	compound	_	O
+11	#ThankYouObama	#thankyouobama	NN	pos2=ADD	12	compound	_	O
+12	#	#	NN	pos2=.	9	pobj	_	O
+13	1stBlackPresident	0stblackpresident	JJ	pos2=NN	12	nmod	_	U-MONEY
+14	#MyPresidentisBLACK	#mypresidentisblack	GW	pos2=NN	16	nmod	_	O
+15	…	…	NFP	pos2=GW	16	punct	_	O
+16	https://t.co/U4D5xRs2mz	#hlink#	ADD	pos2=NN	1	dep	_	O
+

@@ -1,0 +1,16 @@
+1	@mike_pence	@mike_pence	NN	pos2=TO	2	compound	_	O
+2	love	love	NN	pos2=VB	6	nsubj	_	O
+3	both	both	DT	pos2=CC	6	nsubj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	you	you	PRP	_	4	pobj	_	O
+6	die	die	VBP	pos2=VB	0	root	_	O
+7	hard	hard	JJ	pos2=RB	9	nmod	_	O
+8	trump	trump	NN	pos2=JJ	9	compound	_	O
+9	train	train	NN	pos2=VBN	6	dobj	_	O
+10	here	here	RB	_	6	advmod	_	O
+11	.	.	.	_	6	punct	_	O
+
+1	pence	penny	NNS	pos2=NN	3	poss	_	O
+2	u	u	POS	pos2=PRP	1	case	_	O
+3	rock	rock	NN	_	0	root	_	O
+

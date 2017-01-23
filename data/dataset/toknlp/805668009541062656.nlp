@@ -1,0 +1,15 @@
+1	@lagendijk16	@lagendijk0	NN	pos2=LS	2	compound	_	B-PERSON
+2	@Politie	@politie	NNP	pos2=NN	6	nsubj	_	L-PERSON
+3	@FKroongetuigen	@fkroongetuigen	ADD	pos2=NNP	2	cc	_	O
+4	@LampjeLEastern	@lampjeleastern	NNP	pos2=ADD	5	compound	_	O
+5	Aleppo	aleppo	NNP	_	3	pobj	_	U-GPE
+6	send	send	VB	pos2=VBP	0	root	_	O
+7	a	a	DT	_	9	det	_	O
+8	final	final	JJ	_	9	nmod	_	O
+9	message	message	NN	_	6	dobj	_	O
+10	before	before	IN	_	12	mark	_	O
+11	SAA	saa	NNP	pos2=NN	12	nsubj	_	U-ORG
+12	eliminated	eliminate	VBD	pos2=VBN	6	advcl	_	O
+13	them	them	PRP	_	12	dobj	_	O
+14	https://t.co/AG0fpITw5Z	#hlink#	ADD	_	9	appos	_	U-ORG
+

@@ -1,0 +1,23 @@
+1	Our	our	PRP$	_	2	poss	_	O
+2	history	history	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	so	so	RB	_	5	advmod	_	O
+5	tentative	tentative	JJ	_	3	acomp	_	O
+6	about	about	IN	_	5	prep	_	O
+7	what	what	WP	_	9	nsubj	_	O
+8	really	really	RB	_	9	advmod	_	O
+9	happened	happened	VBD	_	6	pcomp	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	Caren	caren	NNP	_	2	compound	_	B-PERSON
+2	Stelson	stelson	NNP	pos2=PRP	3	nsubj	_	L-PERSON
+3	sets	set	VBZ	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	stage	stage	NN	_	3	dobj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	her	her	PRP$	_	8	poss	_	O
+8	book	book	NN	_	6	pobj	_	O
+9	SACHIKO	sachiko	NNP	pos2=GW	8	appos	_	B-WORK_OF_ART
+10	…	…	NFP	pos2=:	8	appos	_	L-WORK_OF_ART
+11	https://t.co/4WiMIWkkRH	#hlink#	ADD	_	8	appos	_	O
+

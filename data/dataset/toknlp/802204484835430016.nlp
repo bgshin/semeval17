@@ -1,0 +1,20 @@
+1	@TheRealLukevans	@thereallukevans	NNS	pos2=UH	6	vocative	_	O
+2	@savechildrenuk	@savechildrenuk	UH	pos2=WP	6	discourse	_	O
+3	Can	can	MD	_	6	aux	_	O
+4	I	I	PRP	_	6	nsubj	_	O
+5	please	please	UH	_	6	discourse	_	O
+6	meet	meet	VB	_	0	root	_	O
+7	you	you	PRP	_	6	dobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	give	give	VB	_	6	advcl	_	O
+10	my	my	PRP$	_	14	poss	_	O
+11	#BeautyAndTheBeast	#beautyandthebeast	NN	pos2=JJ	12	compound	_	O
+12	pencil	pencil	NN	pos2=JJ	14	compound	_	O
+13	lead	lead	NN	pos2=VB	14	compound	_	O
+14	carving	carving	NN	pos2=VBG	9	dobj	_	O
+15	...	..	.	pos2=,	6	punct	_	O
+
+1	To	to	IN	pos2=TO	0	root	_	O
+2	…	…	NFP	pos2=VB	1	pobj	_	O
+3	https://t.co/oefavB7cxS	#hlink#	ADD	pos2=NN	1	pobj	_	O
+

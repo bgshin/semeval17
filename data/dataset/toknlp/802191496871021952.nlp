@@ -1,0 +1,25 @@
+1	and	and	CC	_	7	cc	_	O
+2	Murdock	murdock	NNP	_	5	poss	_	U-PERSON
+3	's	's	POS	_	2	case	_	O
+4	ex	ex	NN	pos2=CD	5	compound	_	O
+5	wife	wife	NN	_	7	nsubj	_	O
+6	is	be	VBZ	_	7	aux	_	O
+7	Dating	date	VBG	pos2=NNP	0	root	_	O
+8	Putin	putin	NNP	_	7	dobj	_	U-PERSON
+9	The	the	DT	pos2=NNP	15	det	_	O
+10	Alt	alt	NNP	pos2=JJ	12	compound	_	O
+11	-	-	HYPH	_	12	punct	_	O
+12	Right	right	NNP	pos2=JJ	15	compound	_	O
+13	Nazi	nazi	NNP	_	15	compound	_	O
+14	White	white	NNP	_	15	compound	_	O
+15	Supremacists	supremacist	NNPS	pos2=NNS	16	nsubj	_	O
+16	have	have	VBP	_	21	ccomp	_	O
+17	deep	deep	JJ	pos2=VBN	18	nmod	_	O
+18	ties	tie	NNS	_	16	dobj	_	O
+19	with	with	IN	_	18	prep	_	O
+20	Putin	putin	NNP	_	19	pobj	_	U-PERSON
+21	go	go	VB	pos2=VBP	22	compound	_	O
+22	fi	fi	NN	pos2=RB	24	dep	_	O
+23	…	…	NFP	pos2=-LRB-	24	punct	_	O
+24	https://t.co/gZBiB0JOim	#hlink#	ADD	pos2=NN	7	dep	_	U-ORG
+

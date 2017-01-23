@@ -1,0 +1,8 @@
+1	Google	google	NNP	_	2	compound	_	B-ORG
+2	Earth	earth	NNP	pos2=NN	7	dep	_	L-ORG
+3	in	in	IN	_	2	prep	_	O
+4	virtual	virtual	JJ	_	5	nmod	_	O
+5	reality	reality	NN	_	3	pobj	_	O
+6	:	:	:	_	7	punct	_	O
+7	https://t.co/hgDku4G7nU	#hlink#	ADD	_	0	root	_	O
+

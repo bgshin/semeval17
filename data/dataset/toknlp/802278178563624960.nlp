@@ -1,0 +1,15 @@
+1	trevor	trevor	NN	pos2=NNP	2	nsubj	_	O
+2	hates	hate	VBZ	_	0	root	_	O
+3	michael	michael	NNP	pos2=GW	4	compound	_	B-PERSON
+4	moore	moore	NN	pos2=NNP	2	dobj	_	L-PERSON
+5	so	so	IN	pos2=RB	7	mark	_	O
+6	we	we	PRP	_	7	nsubj	_	O
+7	have	have	VBP	_	2	advcl	_	O
+8	to	to	TO	_	9	aux	_	O
+9	stop	stop	VB	_	7	xcomp	_	O
+10	seeing	see	VBG	_	9	xcomp	_	O
+11	each	each	DT	_	12	det	_	O
+12	other	other	JJ	_	10	dobj	_	O
+13	:	:	:	_	9	punct	_	O
+14	/	/	SYM	_	2	punct	_	O
+

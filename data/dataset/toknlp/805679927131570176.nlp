@@ -1,0 +1,19 @@
+1	Eventually	eventually	RB	_	6	advmod	_	O
+2	facts	fact	NNS	_	6	nsubjpass	_	O
+3	ca	can	MD	_	6	aux	_	O
+4	nt	nt	RB	_	6	advmod	_	O
+5	be	be	VB	_	6	auxpass	_	O
+6	ignored	ignore	VBN	_	0	root	_	O
+7	:	:	:	_	6	punct	_	O
+8	"	"	``	_	6	punct	_	O
+9	Rockefeller	rockefeller	NNP	pos2=JJR	10	compound	_	U-ORG
+10	charity	charity	NN	pos2=NNP	11	nsubj	_	O
+11	withdraws	withdraw	VBZ	_	6	ccomp	_	O
+12	investments	investment	NNS	_	11	dobj	_	O
+13	in	in	IN	_	12	prep	_	O
+14	fossil	fossil	NN	pos2=JJ	15	compound	_	O
+15	fuels	fuel	NNS	_	13	pobj	_	O
+16	"	"	''	pos2=``	11	punct	_	O
+17	#keepitintheground	#keepitintheground	-LRB-	pos2=IN	18	punct	_	O
+18	https://t.co/wW5QgrjG89	#hlink#	ADD	pos2=FW	15	appos	_	O
+

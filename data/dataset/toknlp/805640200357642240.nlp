@@ -1,0 +1,14 @@
+1	Learn	learn	VB	pos2=VBP	0	root	_	O
+2	more	more	JJR	_	1	dobj	_	O
+3	about	about	IN	_	2	prep	_	O
+4	how	how	WRB	_	7	advmod	_	O
+5	medical	medical	JJ	_	6	nmod	_	O
+6	marijuana	marijuana	NN	_	7	nsubj	_	O
+7	eases	ease	VBZ	_	3	pcomp	_	O
+8	suffering	suffering	NN	pos2=VBG	7	dobj	_	O
+9	for	for	IN	_	8	prep	_	O
+10	#Arthritis	#arthritis	NN	pos2=NNS	9	pobj	_	O
+11	:	:	:	_	13	punct	_	O
+12	https://t.co/953uwYC9Tq	#hlink#	ADD	_	13	nmod	_	O
+13	https://t.co/laOoSWKRDB	#hlink#	ADD	_	1	dep	_	U-ORG
+

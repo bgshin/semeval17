@@ -1,0 +1,13 @@
+1	David	david	NNP	_	4	compound	_	B-PERSON
+2	Blaine	blaine	NNP	_	4	compound	_	I-PERSON
+3	Jimmy	jimmy	NNP	_	4	compound	_	I-PERSON
+4	Fallon	fallon	NNP	_	8	dep	_	L-PERSON
+5	2016	0	CD	pos2=NNP	7	nmod	_	U-DATE
+6	Card	card	NNP	pos2=NN	7	compound	_	O
+7	Trick	trick	NNP	pos2=NN	8	dep	_	O
+8	REVEALED	reveal	VBN	pos2=VBD	0	root	_	O
+9	:	:	:	_	8	punct	_	O
+10	https://t.co/2Zaanhznix	#hlink#	ADD	pos2=NN	8	dep	_	O
+11	via	via	IN	_	10	prep	_	O
+12	@YouTube	@youtube	NNP	pos2=NN	11	pobj	_	O
+

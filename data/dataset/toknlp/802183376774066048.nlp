@@ -1,0 +1,8 @@
+1	tony	tony	JJ	pos2=NN	2	nmod	_	O
+2	romo	romo	NNP	pos2=NN	5	nsubj	_	O
+3	would	would	MD	_	5	aux	_	O
+4	have	have	VB	_	5	aux	_	O
+5	made	make	VBN	_	0	root	_	O
+6	that	that	DT	pos2=WDT	7	det	_	O
+7	throw	throw	NN	pos2=VB	5	dobj	_	O
+

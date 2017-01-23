@@ -1,0 +1,26 @@
+1	@danpfeiffer	@danpfeiffer	NN	pos2=XX	12	nsubj	_	O
+2	Re	re	IN	pos2=RB	1	prep	_	O
+3	:	:	:	_	2	punct	_	O
+4	Louisiana	louisiana	NNP	_	6	compound	_	B-ORG
+5	Senate	senate	NNP	_	6	compound	_	I-ORG
+6	Race	race	NNP	pos2=NN	2	pobj	_	L-ORG
+7	,	,	,	_	12	punct	_	O
+8	as	as	IN	_	12	mark	_	O
+9	the	the	DT	_	11	det	_	O
+10	pres	pres	AFX	pos2=NNP	11	nmod	_	O
+11	election	election	NN	_	12	nsubj	_	O
+12	showed	show	VBD	pos2=VBN	0	root	_	O
+13	,	,	,	_	17	punct	_	O
+14	dems	dems	NNS	pos2=PRP	17	nsubj	_	O
+15	are	be	VBP	_	17	aux	_	O
+16	n't	not	RB	_	17	neg	_	O
+17	losing	lose	VBG	_	12	ccomp	_	O
+18	elections	election	NNS	_	17	dobj	_	O
+19	because	because	IN	_	23	mark	_	O
+20	they	they	PRP	_	23	nsubj	_	O
+21	are	be	VBP	_	23	aux	_	O
+22	n't	not	RB	_	23	neg	_	O
+23	spending	spend	VBG	_	17	advcl	_	O
+24	enough	enough	JJ	pos2=RB	25	nmod	_	O
+25	money	money	NN	_	23	dobj	_	O
+

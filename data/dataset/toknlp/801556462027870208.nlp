@@ -1,0 +1,31 @@
+1	We	we	PRP	_	3	nsubj	_	O
+2	all	all	DT	_	1	appos	_	O
+3	are	be	VBP	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	BBC	bbc	NNP	pos2=NN	7	nmod	_	B-ORG
+4	/	/	SYM	pos2=,	7	punct	_	I-ORG
+5	TheScotsman	thescotsman	NNP	pos2=NN	7	nmod	_	I-ORG
+6	/	/	SYM	_	7	punct	_	I-ORG
+7	UKToLab	uktolab	NN	pos2=NNP	2	attr	_	L-ORG
+8	and	and	CC	_	7	cc	_	O
+9	other	other	JJ	pos2=RB	11	nmod	_	O
+10	far	far	JJ	pos2=RB	11	nmod	_	O
+11	rightists	rightist	NNS	_	7	conj	_	O
+12	creating	create	VBG	_	11	acl	_	O
+13	fake	fake	JJ	_	14	nmod	_	O
+14	news	news	NN	_	12	dobj	_	O
+15	.	.	.	_	2	punct	_	O
+
+1	We	we	PRP	_	4	nsubjpass	_	O
+2	should	should	MD	_	4	aux	_	O
+3	be	be	VB	_	4	auxpass	_	O
+4	used	use	VBN	_	0	root	_	O
+5	to	to	IN	_	4	prep	_	O
+6	this	this	DT	_	8	det	_	O
+7	aft	aft	JJ	pos2=RB	8	nmod	_	O
+8	…	…	NFP	pos2=-LRB-	5	pobj	_	O
+9	https://t.co/11MFegfoAs	#hlink#	ADD	_	5	pobj	_	O
+

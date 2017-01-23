@@ -1,0 +1,22 @@
+1	Anybody	anybody	NN	_	2	nsubj	_	O
+2	get	get	VB	pos2=VBP	0	root	_	O
+3	feeling	feel	VBG	pos2=NN	2	xcomp	_	O
+4	that	that	IN	pos2=DT	8	mark	_	O
+5	@DrJillStein	@drjillstein	NNP	pos2=NN	8	nsubjpass	_	U-LOC
+6	is	be	VBZ	_	8	aux	_	O
+7	being	be	VBG	_	8	auxpass	_	O
+8	paid	pay	VBN	_	3	ccomp	_	O
+9	by	by	IN	_	8	agent	_	O
+10	someone	someone	NN	_	9	pobj	_	O
+11	to	to	TO	_	12	aux	_	O
+12	file	file	VB	_	10	relcl	_	O
+13	for	for	IN	_	12	prep	_	O
+14	recount	recount	NN	_	13	pobj	_	O
+15	...	..	.	_	2	punct	_	O
+
+1	George	george	NNP	_	2	compound	_	B-PERSON
+2	Soros	soros	NNP	_	0	root	_	L-PERSON
+3	?	?	.	_	2	punct	_	O
+
+1	#Recount2016	#recount0	NN	pos2=NNS	0	root	_	O
+

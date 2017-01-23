@@ -1,0 +1,26 @@
+1	@pRESIDENT_ALIEN	@president_alien	UH	pos2=ADD	4	discourse	_	O
+2	@MichellesLrgBev	@michelleslrgbev	UH	pos2=NNS	4	discourse	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	am	be	VBP	_	12	advcl	_	O
+5	so	so	RB	_	6	advmod	_	O
+6	sick	sick	JJ	_	4	acomp	_	O
+7	of	of	IN	_	6	prep	_	O
+8	corrupt	corrupt	JJ	_	11	nmod	_	O
+9	,	,	,	_	12	punct	_	O
+10	shit	shit	NN	_	11	compound	_	O
+11	news	news	NN	_	12	nsubj	_	O
+12	ran	run	VBD	pos2=VBN	0	root	_	O
+13	by	by	IN	_	12	prep	_	O
+14	gazillionaire	gazillionaire	NN	_	15	compound	_	O
+15	leftists	leftist	NNS	_	13	pobj	_	O
+16	hiring	hire	VBG	_	15	acl	_	O
+17	pimps	pimp	NNS	_	16	dobj	_	O
+18	,	,	,	_	17	punct	_	O
+19	gays	gay	NNS	_	17	conj	_	O
+20	&	&	CC	_	19	cc	_	O
+21	women	woman	NNS	_	19	conj	_	O
+22	on	on	IN	_	16	prep	_	O
+23	Red	red	NNP	_	24	compound	_	B-ORG
+24	Bull	bull	NNP	_	22	pobj	_	L-ORG
+25	..	..	.	pos2=,	12	punct	_	O
+

@@ -1,0 +1,23 @@
+1	@KARISSAPUKAS	@karissapukas	NNS	pos2=NNP	6	nsubj	_	O
+2	Over	over	IN	pos2=RB	3	advmod	_	O
+3	here	here	RB	_	4	advmod	_	O
+4	regular	regular	JJ	_	5	nmod	_	O
+5	cabs	cab	NNS	_	6	nsubj	_	O
+6	ask	ask	VBP	pos2=VB	0	root	_	O
+7	how	how	WRB	_	8	advmod	_	O
+8	much	much	JJ	pos2=RB	12	dative	_	O
+9	you	you	PRP	_	10	nsubj	_	O
+10	want	want	VBP	_	6	ccomp	_	O
+11	to	to	TO	_	12	aux	_	O
+12	pay	pay	VB	_	10	xcomp	_	O
+13	them	them	PRP	_	12	dobj	_	O
+14	😏	😏	WP	pos2=NFP	15	nsubj	_	O
+15	has	have	VBZ	_	13	relcl	_	O
+16	to	to	TO	_	17	aux	_	O
+17	be	be	VB	_	15	xcomp	_	O
+18	#uber	#uber	PRP	pos2=IN	17	attr	_	O
+19	all	all	PDT	_	21	predet	_	O
+20	the	the	DT	_	21	det	_	O
+21	time	time	NN	_	17	npadvmod	_	O
+22	👌🙏	👌🙏	NNP	pos2=.	17	vocative	_	U-LOC
+

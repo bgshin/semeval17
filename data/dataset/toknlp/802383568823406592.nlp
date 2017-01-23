@@ -1,0 +1,31 @@
+1	HA	ha	UH	pos2=NNP	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	#Giuliani	#giuliani	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	UGE	uge	NNP	pos2=NN	5	compound	_	U-ORG
+5	crook	crook	NN	pos2=FW	2	attr	_	O
+6	!	!	.	_	2	punct	_	O
+
+1	#CrookedRudy	#crookedrudy	NN	pos2=NNS	4	nsubj	_	O
+2	never	never	RB	_	3	neg	_	O
+3	ever	ever	RB	_	4	advmod	_	O
+4	trust	trust	VB	_	8	advcl	_	O
+5	him	him	PRP	_	4	dobj	_	O
+6	,	,	,	_	8	punct	_	O
+7	he	he	PRP	_	8	nsubj	_	O
+8	was	be	VBD	_	0	root	_	O
+9	in	in	IN	_	8	prep	_	O
+10	w	w	IN	pos2=NNP	8	prep	_	O
+11	#Comey	#comey	NNP	pos2=HYPH	12	compound	_	O
+12	#Romey	#romey	NNP	pos2=MD	10	pobj	_	O
+13	be	be	VB	_	8	conj	_	O
+14	a	a	DT	_	19	det	_	O
+15	fair	fair	JJ	pos2=NN	20	nmod	_	O
+16	not	not	RB	_	18	neg	_	O
+17	a	a	DT	_	18	det	_	O
+18	#bigot	#bigot	NN	pos2=XX	20	dep	_	O
+19	…	…	NFP	pos2=-LRB-	20	punct	_	O
+20	https://t.co/CDGHHNWYjZ	#hlink#	ADD	_	13	attr	_	O
+

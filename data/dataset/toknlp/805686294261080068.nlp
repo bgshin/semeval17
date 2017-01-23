@@ -1,0 +1,27 @@
+1	https://t.co/aZyYoctH5R	#hlink#	ADD	pos2=NN	3	discourse	_	O
+2	people	people	NNS	_	3	nsubj	_	O
+3	come	come	VBP	pos2=VB	0	root	_	O
+4	out	out	RP	pos2=RB	3	prt	_	O
+5	to	to	IN	pos2=TO	3	prep	_	O
+6	voice	voice	NN	pos2=VB	5	pobj	_	O
+7	,	,	,	_	3	punct	_	O
+8	hope	hope	VBP	pos2=NN	3	conj	_	O
+9	gay	gay	JJ	pos2=PRP$	10	nmod	_	O
+10	marriage	marriage	NN	_	8	dobj	_	O
+11	through	through	IN	pos2=RP	8	prep	_	O
+12	!	!	.	_	3	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	hope	hope	VBP	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	Taiwan	taiwan	NNP	_	5	compound	_	U-GPE
+5	government	government	NN	_	7	nsubj	_	O
+6	can	can	MD	_	7	aux	_	O
+7	hear	hear	VB	_	2	ccomp	_	O
+8	it	it	PRP	_	7	dobj	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	love	love	VBP	_	0	root	_	O
+3	equality🌈🌈😭😭💞	equality🌈🌈😭😭💞	.	pos2=NNP	2	punct	_	O
+

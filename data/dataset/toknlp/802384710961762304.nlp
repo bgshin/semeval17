@@ -1,0 +1,31 @@
+1	@Jacknonce	@jacknonce	NNP	pos2=NN	8	vocative	_	O
+2	Sorry	sorry	UH	pos2=NNP	8	discourse	_	O
+3	,	,	,	_	8	punct	_	O
+4	the	the	DT	_	5	det	_	O
+5	blacks	black	NNS	_	8	nsubj	_	O
+6	I	I	PRP	_	7	nsubj	_	O
+7	know	know	VBP	_	5	relcl	_	O
+8	are	be	VBP	_	0	root	_	O
+9	actually	actually	RB	_	8	advmod	_	O
+10	great	great	JJ	_	13	nmod	_	O
+11	,	,	,	_	13	punct	_	O
+12	successful	successful	JJ	_	13	nmod	_	O
+13	people	people	NNS	_	8	attr	_	O
+14	.	.	.	_	8	punct	_	O
+
+1	They	they	PRP	_	4	nsubjpass	_	O
+2	are	be	VBP	_	4	auxpass	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	taken	take	VBN	_	0	root	_	O
+5	in	in	RP	pos2=RB	4	prt	_	O
+6	by	by	IN	_	4	agent	_	O
+7	Dems	dems	NNP	pos2=NNPS	8	compound	_	U-NORP
+8	BS.	bs.	NNP	_	6	pobj	_	O
+9	They	they	PRP	_	10	nsubj	_	O
+10	are	be	VBP	_	4	conj	_	O
+11	very	very	RB	_	12	advmod	_	O
+12	smart	smart	JJ	_	14	advmod	_	O
+13	,	,	,	_	14	punct	_	O
+14	educated	educated	JJ	pos2=VBN	10	acomp	_	O
+15	!	!	.	_	10	punct	_	O
+

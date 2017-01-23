@@ -1,0 +1,20 @@
+1	Say	say	VB	pos2=VBP	0	root	_	O
+2	It	it	PRP	_	1	dobj	_	O
+3	Loud	loud	RB	pos2=NNP	1	advmod	_	O
+4	:	:	:	_	1	punct	_	O
+5	Two	#crd#	CD	pos2=NNP	7	nmod	_	U-CARDINAL
+6	New	new	NNP	pos2=JJ	7	compound	_	O
+7	Books	book	NNPS	pos2=NNP	8	compound	_	O
+8	Look	look	NNP	pos2=VBP	3	dep	_	B-WORK_OF_ART
+9	Back	back	RB	_	8	advmod	_	L-WORK_OF_ART
+10	at	at	IN	_	9	prep	_	O
+11	#BlackPower	#blackpower	NNP	pos2=NN	10	pobj	_	U-ORG
+12	from	from	IN	_	8	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	age	age	NN	_	12	pobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	#Trump	#trump	NNP	pos2=NN	15	pobj	_	U-PERSON
+17	and	and	CC	_	8	cc	_	O
+18	#BlackLivesMa	#blacklivesma	ADD	pos2=GW	19	punct	_	U-PERSON
+19	tterhttps://t.co/IsAMOIhEZu	#hlink#	ADD	_	8	conj	_	O
+

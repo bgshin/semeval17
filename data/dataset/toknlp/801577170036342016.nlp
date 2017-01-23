@@ -1,0 +1,15 @@
+1	#BaseBall	#baseball	ADD	pos2=XX	12	dep	_	O
+2	#Buzz	#buzz	NNP	pos2=IN	7	compound	_	O
+3	Justin	justin	NNP	_	7	compound	_	B-PERSON
+4	Verlander	verlander	NNP	_	7	compound	_	L-PERSON
+5	Majestic	majestic	NNP	pos2=JJ	6	compound	_	O
+6	Threads	thread	NNPS	pos2=NNS	7	compound	_	O
+7	#Detroit	#detroit	NNP	pos2=POS	12	dep	_	O
+8	#Tigers	#tigers	POS	pos2=NNP	7	case	_	O
+9	T-Shirt	t-shirt	NN	pos2=NNP	12	nmod	_	O
+10	-	-	HYPH	pos2=,	12	punct	_	O
+11	#MLB	#mlb	GW	pos2=NFP	12	nmod	_	O
+12	https://t.co/wGcmhBtTQ6	#hlink#	ADD	pos2=NN	0	root	_	O
+13	#Forsale	#forsale	-RRB-	pos2=NNP	12	punct	_	O
+14	#Deals	#deals	NNS	pos2=-RRB-	0	root	_	O
+

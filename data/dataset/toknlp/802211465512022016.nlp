@@ -1,0 +1,18 @@
+1	@Kris_Sacrebleu	@kris_sacrebleu	NN	pos2=ADD	3	compound	_	O
+2	@co_rapunzel4	@co_rapunzel0	NN	pos2=LS	3	compound	_	O
+3	@realDonaldTrump	@realdonaldtrump	NN	pos2=XX	4	compound	_	O
+4	@mike_pence	@mike_pence	NNP	pos2=IN	0	root	_	O
+5	Wow	wow	UH	pos2=NNP	4	discourse	_	O
+6	,	,	,	_	4	punct	_	O
+7	more	more	JJR	pos2=RBR	4	discourse	_	O
+8	from	from	IN	_	7	prep	_	O
+9	Germany	germany	NNP	_	8	pobj	_	U-GPE
+10	.	.	.	_	4	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	hits	hit	NNS	pos2=VBZ	4	nsubj	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	keep	keep	VBP	pos2=VB	0	root	_	O
+5	on	on	IN	pos2=RP	4	prt	_	O
+6	coming	come	VBG	_	4	xcomp	_	O
+

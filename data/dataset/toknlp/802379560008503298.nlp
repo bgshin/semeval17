@@ -1,0 +1,12 @@
+1	No	no	DT	_	3	det	_	O
+2	such	such	JJ	_	3	nmod	_	O
+3	thing	thing	NN	_	0	root	_	O
+4	as	as	IN	_	3	prep	_	O
+5	a	a	DT	_	8	det	_	O
+6	better	good	JJR	pos2=RBR	8	nmod	_	O
+7	Obamacare	obamacare	NNP	_	8	compound	_	U-ORG
+8	plan	plan	NN	pos2=VBP	4	pobj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	https://t.co/w5zIuhqdFy	#hlink#	ADD	_	0	root	_	U-ORG
+

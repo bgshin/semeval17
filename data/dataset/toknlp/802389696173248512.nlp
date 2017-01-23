@@ -1,0 +1,11 @@
+1	fidel	fidel	NNP	pos2=NN	4	poss	_	U-PERSON
+2	's	's	POS	pos2=VBZ	1	case	_	O
+3	dead	dead	JJ	_	4	nmod	_	O
+4	maduro	maduro	NNP	pos2=NN	7	nsubj	_	O
+5	or	or	CC	_	4	cc	_	O
+6	donald	donald	NNP	pos2=JJ	4	conj	_	O
+7	trump	trump	NN	pos2=VB	9	vocative	_	O
+8	better	good	JJR	pos2=RB	9	advmod	_	O
+9	be	be	VB	_	0	root	_	O
+10	next	next	JJ	pos2=RB	9	acomp	_	O
+

@@ -1,0 +1,16 @@
+1	@PrisonPlanet	@prisonplanet	ADD	pos2=NN	5	nsubj	_	O
+2	@MotorGong	@motorgong	IN	pos2=VBG	1	prep	_	O
+3	Liberals	liberal	NNPS	pos2=NNS	2	pobj	_	O
+4	never	never	RB	_	5	neg	_	O
+5	do	do	VBP	pos2=VB	0	root	_	O
+6	anything	anything	NN	_	5	dobj	_	O
+7	that	that	WDT	_	8	nsubj	_	O
+8	makes	make	VBZ	_	6	relcl	_	O
+9	sense	sense	NN	_	8	dobj	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	Why	why	WRB	_	2	advmod	_	O
+2	start	start	VB	pos2=VBP	0	root	_	O
+3	now	now	RB	_	2	advmod	_	O
+4	?	?	.	_	2	punct	_	O
+

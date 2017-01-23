@@ -1,0 +1,18 @@
+1	@	@	SYM	_	3	punct	_	O
+2	1TimMurray	0timmurray	NN	pos2=TO	3	compound	_	O
+3	write	write	NN	pos2=VB	0	root	_	O
+4	in	in	IN	pos2=FW	3	prep	_	O
+5	:	:	:	pos2=HYPH	4	punct	_	O
+6	Cy	cy	NNP	_	7	compound	_	O
+7	Young	young	NNP	_	4	pobj	_	O
+8	and	and	CC	_	7	cc	_	O
+9	20	0	CD	_	10	nmod	_	U-CARDINAL
+10	strikeout	strikeout	NN	_	7	conj	_	O
+11	,	,	,	_	14	punct	_	O
+12	20	0	CD	_	14	nmod	_	U-CARDINAL
+13	game	game	NN	_	14	compound	_	O
+14	winner	winner	NN	_	17	dep	_	O
+15	:	:	:	_	17	punct	_	O
+16	Max	max	NNP	_	17	compound	_	B-PERSON
+17	Scherzer	scherzer	NNP	_	0	root	_	L-PERSON
+

@@ -1,0 +1,25 @@
+1	Just	just	RB	_	2	advmod	_	O
+2	donated	donate	VBN	pos2=VBD	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	my	my	PRP$	_	6	poss	_	O
+5	third	#ord#	JJ	pos2=NN	6	nmod	_	U-ORDINAL
+6	time	time	NN	_	3	pobj	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	We	we	PRP	_	3	nsubj	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	need	need	VBP	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	keep	keep	VB	_	3	xcomp	_	O
+6	this	this	DT	_	5	dobj	_	O
+7	up	up	RP	_	5	prt	_	O
+8	for	for	IN	_	5	prep	_	O
+9	one	#crd#	CD	_	11	nmod	_	B-DATE
+10	more	more	JJR	_	11	nmod	_	I-DATE
+11	day	day	NN	_	8	pobj	_	L-DATE
+12	.	.	.	_	3	punct	_	O
+
+1	https://t.co/2xgouRBlDp	#hlink#	ADD	_	0	root	_	U-ORG
+2	#AuditTheVote	#auditthevote	ADD	pos2=-RRB-	0	root	_	U-ORG
+3	#stillwithher	#stillwithher	UH	pos2=NN	2	pobj	_	O
+

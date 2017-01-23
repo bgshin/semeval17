@@ -1,0 +1,18 @@
+1	@nomerasques	@nomerasques	UH	pos2=NNS	9	discourse	_	O
+2	@ScottAdamsSays	@scottadamssays	POS	pos2=NNPS	4	compound	_	O
+3	Nazi	nazi	NNP	pos2=JJ	4	compound	_	U-NORP
+4	philosophy	philosophy	NN	_	9	dep	_	O
+5	defined	define	VBN	_	4	acl	_	O
+6	:	:	:	_	9	punct	_	O
+7	Breathtaking	breathtaking	JJ	pos2=VBG	9	nmod	_	O
+8	douchebag	douchebag	NN	_	9	compound	_	O
+9	stuff	stuff	NN	_	0	root	_	O
+10	.	.	.	_	9	punct	_	O
+
+1	Also	also	RB	_	6	advmod	_	O
+2	,	,	,	_	6	punct	_	O
+3	a	a	DT	_	4	det	_	O
+4	form	form	NN	_	0	root	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Socialism	socialism	NN	pos2=NNP	5	pobj	_	O
+

@@ -1,0 +1,9 @@
+1	7:00	0	CD	pos2=LS	5	dep	_	U-TIME
+2	Now	now	RB	_	1	advmod	_	O
+3	#Isha	#isha	NNP	pos2=PRP$	5	compound	_	O
+4	Prayer	prayer	NNP	pos2=NN	5	compound	_	B-ORG
+5	Time	time	NNP	pos2=NN	0	root	_	I-ORG
+6	for	for	IN	_	5	prep	_	I-ORG
+7	#Sanaa	#sanaa	NNP	pos2=CD	8	compound	_	I-ORG
+8	#Yemen	#yemen	NNP	pos2=NNS	6	pobj	_	L-ORG
+

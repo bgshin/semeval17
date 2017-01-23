@@ -1,0 +1,14 @@
+1	Recap	recap	NN	pos2=VB	13	dep	_	O
+2	from	from	IN	_	1	prep	_	O
+3	last	last	JJ	_	4	nmod	_	B-TIME
+4	night	night	NN	_	7	poss	_	I-TIME
+5	's	's	POS	_	4	case	_	L-TIME
+6	Messi	messi	NNP	_	7	compound	_	U-PERSON
+7	masterclass	masterclass	NN	_	2	pobj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	Glasgow	glasgow	NNP	_	11	compound	_	O
+10	#CelticFCB	#celticfcb	NNP	pos2=POS	11	compound	_	O
+11	#Messi	#messi	NNP	pos2=POS	8	pobj	_	O
+12	#FCBlive	#fcblive	ADD	pos2=GW	13	dep	_	O
+13	https://t.co/oBKrgjxwr1	#hlink#	ADD	_	0	root	_	U-ORG
+

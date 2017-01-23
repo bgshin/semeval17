@@ -1,0 +1,26 @@
+1	Put	put	VB	pos2=VBD	7	advcl	_	O
+2	an	an	DT	_	3	det	_	O
+3	End	end	NN	_	1	dobj	_	O
+4	to	to	IN	_	3	prep	_	O
+5	Eczema	eczema	NN	pos2=NNP	4	pobj	_	O
+6	:	:	:	_	3	punct	_	O
+7	Find	find	VB	_	0	root	_	O
+8	the	the	DT	_	11	det	_	O
+9	Best	good	JJS	pos2=NNP	11	nmod	_	O
+10	Homeopathic	homeopathic	NNP	pos2=JJ	11	compound	_	O
+11	Remedy	remedy	NN	pos2=NNP	7	dobj	_	O
+12	for	for	IN	_	11	prep	_	O
+13	Your	your	PRP$	_	14	poss	_	O
+14	Type	type	NN	_	12	pobj	_	O
+15	&	&	CC	_	14	cc	_	O
+16	Clear	clear	NNP	pos2=VB	14	appos	_	O
+17	Up	up	IN	pos2=RP	11	prep	_	O
+18	Your	your	PRP$	_	19	poss	_	O
+19	Skin	skin	NN	_	17	pobj	_	O
+20	.	.	.	_	7	punct	_	O
+
+1	#health	#health	UH	pos2=NN	4	discourse	_	O
+2	#Holistic	#holistic	JJ	pos2=GW	4	nmod	_	U-NORP
+3	…	…	NFP	pos2=-LRB-	4	punct	_	O
+4	https://t.co/ndCoMXFKZR	#hlink#	ADD	_	0	root	_	O
+

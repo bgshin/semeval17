@@ -1,0 +1,14 @@
+1	520	0	CD	_	2	nmod	_	B-DATE
+2	years	year	NNS	_	0	root	_	L-DATE
+3	?	?	.	_	2	punct	_	O
+
+1	lol	lol	UH	_	9	discourse	_	O
+2	why	why	WRB	_	9	advmod	_	O
+3	not	not	RB	_	9	cc	_	O
+4	just	just	RB	pos2=JJ	6	advmod	_	O
+5	death	death	NN	_	6	compound	_	O
+6	penalty	penalty	NN	pos2=IN	9	dep	_	O
+7	his	his	PRP$	_	8	poss	_	O
+8	ass	ass	NN	_	9	dep	_	O
+9	https://t.co/NYnPRUoKkR	#hlink#	ADD	pos2=NN	0	root	_	O
+

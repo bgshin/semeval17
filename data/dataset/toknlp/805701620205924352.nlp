@@ -1,0 +1,30 @@
+1	Watched	watch	VBD	pos2=VBN	0	root	_	O
+2	the	the	DT	_	4	det	_	O
+3	#Westworld	#westworld	NNP	pos2=NN	4	compound	_	U-ORG
+4	finale	finale	NN	pos2=VB	1	dobj	_	O
+5	?	?	.	_	1	punct	_	O
+
+1	Want	want	VB	pos2=VBP	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	watch	watch	VB	_	1	xcomp	_	O
+4	the	the	DT	_	6	det	_	B-DATE
+5	whole	whole	JJ	_	6	nmod	_	I-DATE
+6	season	season	NN	_	3	dobj	_	L-DATE
+7	all	all	RB	_	9	advmod	_	O
+8	over	over	RB	_	9	advmod	_	O
+9	again	again	RB	_	3	advmod	_	O
+10	.	.	.	_	1	punct	_	O
+
+1	Do	do	VB	pos2=VBP	0	root	_	O
+2	it	it	PRP	_	1	dobj	_	O
+3	!	!	.	_	1	punct	_	O
+
+1	@HBOGO	@hbogo	NN	pos2=NNP	0	root	_	O
+2	and	and	CC	_	1	cc	_	O
+3	@hbonow	@hbonow	NN	pos2=UH	1	conj	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	Also	also	RB	_	2	advmod	_	O
+2	visit	visit	VB	pos2=NN	0	root	_	O
+3	https://t.co/KsLA02RrNE	#hlink#	ADD	_	2	dobj	_	U-ORG
+

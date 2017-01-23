@@ -1,0 +1,14 @@
+1	@poroshenko	@poroshenko	NN	pos2=WP	2	nsubj	_	O
+2	allows	allow	VBZ	_	0	root	_	O
+3	#National	#national	NNP	_	4	compound	_	B-ORG
+4	Council	council	NNP	_	2	dobj	_	L-ORG
+5	to	to	IN	pos2=TO	2	prep	_	O
+6	fine	fine	JJ	pos2=VB	7	nmod	_	O
+7	channels	channel	NNS	_	5	pobj	_	O
+8	for	for	IN	_	7	prep	_	O
+9	calls	call	NNS	_	8	pobj	_	O
+10	for	for	IN	_	9	prep	_	O
+11	#revolution	#revolution	GW	pos2=NFP	10	pobj	_	O
+12	https://t.co/Qo9dBi6XtT	#hlink#	ADD	pos2=GW	13	nmod	_	O
+13	https://t.co/qNd3vlng7B	#hlink#	ADD	_	10	pobj	_	U-ORG
+

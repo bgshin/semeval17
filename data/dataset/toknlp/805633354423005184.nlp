@@ -1,0 +1,11 @@
+1	black	black	JJ	_	2	nmod	_	O
+2	women	woman	NNS	_	3	nsubj	_	O
+3	having	have	VBG	_	0	root	_	O
+4	hardcore	hardcore	JJ	pos2=JJR	8	nmod	_	O
+5	sex	sex	NN	_	7	compound	_	O
+6	#zac	#zac	HYPH	pos2=IN	7	punct	_	O
+7	efron	efron	NN	pos2=GW	8	compound	_	O
+8	butt	butt	NN	pos2=GW	3	dobj	_	O
+9	naked	naked	JJ	_	10	nmod	_	O
+10	https://t.co/CyHKuXZv8S	#hlink#	ADD	pos2=NN	8	appos	_	O
+

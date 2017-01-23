@@ -1,0 +1,27 @@
+1	@LeoSweetwood	@leosweetwood	NN	pos2=UH	6	dep	_	O
+2	@megynkelly	@megynkelly	RB	pos2=UH	6	advmod	_	O
+3	No	no	UH	pos2=RB	6	discourse	_	O
+4	,	,	,	_	6	punct	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	's	's	VBZ	_	0	root	_	O
+7	that	that	IN	pos2=DT	11	mark	_	O
+8	others	other	NNS	_	11	nsubj	_	O
+9	did	do	VBD	_	11	aux	_	O
+10	n't	not	RB	_	11	neg	_	O
+11	have	have	VB	_	6	ccomp	_	O
+12	Roger	roger	NNP	_	13	compound	_	B-PERSON
+13	Ailes	ailes	NNP	_	11	dobj	_	L-PERSON
+14	to	to	TO	_	15	aux	_	O
+15	advance	advance	VB	_	11	advcl	_	O
+16	their	their	PRP$	_	17	poss	_	O
+17	careers	career	NNS	_	15	dobj	_	O
+18	!!!	!!	.	_	6	punct	_	O
+
+1	Only	only	RB	_	4	advmod	_	O
+2	to	to	TO	_	4	aux	_	O
+3	back	back	RB	pos2=VB	4	advmod	_	O
+4	stab	stab	VB	_	0	root	_	O
+5	him	him	PRP	_	4	dobj	_	O
+6	later	later	RB	pos2=RBR	4	advmod	_	O
+7	.	.	.	_	4	punct	_	O
+

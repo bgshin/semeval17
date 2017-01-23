@@ -1,0 +1,11 @@
+1	Palestinians	palestinian	NNPS	pos2=NNS	10	nsubj	_	U-NORP
+2	in	in	IN	pos2=RP	1	prep	_	O
+3	#Lebanon	#lebanon	NNP	_	5	compound	_	O
+4	Say	say	NNP	pos2=VB	5	compound	_	O
+5	Farewell	farewell	NNP	_	2	pobj	_	O
+6	to	to	IN	_	1	prep	_	O
+7	Fidel	fidel	NNP	_	8	compound	_	B-PERSON
+8	Castro	castro	NNP	_	6	pobj	_	L-PERSON
+9	https://t.co/M2zkL21zeM	#hlink#	ADD	_	5	appos	_	O
+10	#News	#news	NNP	pos2=-RRB-	0	root	_	U-ORG
+

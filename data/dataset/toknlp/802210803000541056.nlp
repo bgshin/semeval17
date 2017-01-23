@@ -1,0 +1,31 @@
+1	@DMAE2	@dmae0	NN	pos2=MD	3	nmod	_	O
+2	POPULAR	popular	JJ	_	3	nmod	_	O
+3	VOTE	vote	NN	_	0	root	_	O
+4	OVER	over	IN	pos2=RB	3	prep	_	O
+5	2MILLION	0million	CD	pos2=NN	4	pobj	_	U-CARDINAL
+6	.	.	.	_	3	punct	_	O
+
+1	+	+	SYM	_	2	punct	_	O
+2	STILL	still	RB	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	COUNTINGVOTED	countingvoted	NNP	pos2=VBN	2	compound	_	B-PERSON
+2	CLINTON	clinton	NNP	_	4	nsubj	_	L-PERSON
+3	TO	to	TO	_	4	aux	_	O
+4	BE	be	VB	_	0	root	_	O
+5	PRESIDENT	president	NNP	pos2=NN	4	attr	_	O
+6	..	..	.	pos2=:	4	punct	_	O
+
+1	WE	we	PRP	_	2	nsubj	_	O
+2	DID	do	VBD	_	0	root	_	O
+3	NOT	not	RB	_	2	neg	_	O
+4	!!	!!	.	_	2	punct	_	O
+
+1	VOTE	vote	NN	pos2=VB	5	advcl	_	O
+2	FOR	for	IN	_	1	prep	_	O
+3	TRUMP	trump	NN	pos2=NNP	2	pobj	_	O
+4	HE	he	PRP	pos2=NNP	5	nsubj	_	O
+5	JEOPARDIZES	jeopardize	VBZ	_	0	root	_	O
+6	DEMOCRACY	democracy	NN	_	5	dobj	_	O
+7	!!!!!	!!	.	_	5	punct	_	O
+

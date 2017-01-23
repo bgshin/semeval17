@@ -1,0 +1,20 @@
+1	Positive	positive	JJ	_	4	nmod	_	O
+2	news	news	NN	_	4	compound	_	O
+3	-	-	HYPH	pos2=:	4	punct	_	O
+4	#France	#france	NNP	pos2=NN	6	nsubj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	enforce	enforce	VB	_	0	root	_	O
+7	labeling	labeling	NN	_	6	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	products	product	NNS	_	8	pobj	_	O
+10	produced	produce	VBN	_	9	acl	_	O
+11	in	in	IN	_	10	prep	_	O
+12	illegal	illegal	JJ	_	13	nmod	_	O
+13	#settlements	#settlements	NNS	pos2=NNPS	11	pobj	_	O
+14	,	,	,	_	7	punct	_	O
+15	etc.	etc.	FW	_	7	conj	_	O
+16	:	:	:	_	6	punct	_	O
+17	https://t.co/yMdFIykLqH	#hlink#	ADD	pos2=NN	19	dep	_	O
+18	#Palestine	#palestine	NNP	pos2=-RRB-	19	compound	_	O
+19	#Israel	#israel	NNP	pos2=NN	6	dep	_	O
+

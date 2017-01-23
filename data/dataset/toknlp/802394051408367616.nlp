@@ -1,0 +1,23 @@
+1	@FavThngs	@favthngs	NNS	pos2=ADD	3	compound	_	O
+2	@vivien091011	@vivien0	NN	pos2=VBP	3	compound	_	O
+3	@pinkhamjeremy	@pinkhamjeremy	NN	pos2=UH	4	nsubj	_	O
+4	Troubling	troubling	JJ	pos2=NNP	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	Ironic	ironic	JJ	_	0	root	_	O
+2	that	that	IN	pos2=DT	6	mark	_	O
+3	GOP	gop	NNP	_	4	compound	_	U-ORG
+4	voters	voter	NNS	_	8	nsubj	_	O
+5	often	often	RB	_	10	advmod	_	O
+6	the	the	DT	pos2=VBP	7	det	_	O
+7	people	people	NNS	_	0	root	_	O
+8	who	who	WP	_	9	nsubj	_	O
+9	rely	rely	VBP	_	7	relcl	_	O
+10	most	most	RBS	pos2=JJS	9	advmod	_	O
+11	on	on	IN	_	9	prep	_	O
+12	Medi-Care	medi-care	NNP	pos2=JJ	11	pobj	_	U-GPE
+13	and	and	CC	_	12	cc	_	O
+14	Social	social	NNP	_	15	compound	_	B-ORG
+15	Security	security	NNP	_	12	conj	_	L-ORG
+16	.	.	.	_	1	punct	_	O
+

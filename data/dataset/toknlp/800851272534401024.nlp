@@ -1,0 +1,36 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	U-ORG
+2	@ShaunKing	@shaunking	NN	pos2=XX	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	This	this	DT	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	real	real	JJ	_	5	acomp	_	O
+7	.	.	.	_	5	punct	_	O
+
+1	VERY	very	RB	_	2	advmod	_	O
+2	REAL	real	JJ	pos2=RB	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Alt	alt	JJ	pos2=NN	3	advmod	_	O
+2	-	-	HYPH	pos2=:	3	punct	_	O
+3	Right	right	JJ	pos2=NNP	5	nmod	_	O
+4	Neo	neo	NNP	pos2=IN	5	compound	_	O
+5	Nazis	nazi	NNPS	pos2=NNP	12	nsubj	_	O
+6	loved	love	VBN	pos2=VBD	5	acl	_	O
+7	by	by	IN	_	6	agent	_	O
+8	Trump	trump	NNP	_	11	poss	_	U-ORG
+9	's	's	POS	_	8	case	_	O
+10	Chief	chief	NNP	pos2=JJ	11	compound	_	O
+11	Strategist	strategist	NNP	pos2=NN	7	pobj	_	O
+12	say	say	VB	pos2=VBP	0	root	_	O
+13	"	"	``	_	15	punct	_	O
+14	Hail	hail	NNP	pos2=NN	15	compound	_	O
+15	Trump	trump	NNP	pos2=NN	12	dobj	_	O
+16	"	"	''	_	15	punct	_	O
+17	w	w	IN	pos2=RB	15	cc	_	O
+18	/	/	HYPH	_	17	punct	_	O
+19	Nazi	nazi	NNP	pos2=NN	20	compound	_	O
+20	Salute	salute	NNP	pos2=NN	17	pobj	_	O
+21	.	.	.	_	12	punct	_	O
+
+1	https://…	#hlink#	ADD	_	0	root	_	U-ORG
+

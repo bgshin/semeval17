@@ -1,0 +1,12 @@
+1	to	to	TO	pos2=IN	2	aux	_	O
+2	further	further	VB	pos2=RB	0	predet	_	O
+3	my	my	PRP$	_	4	poss	_	O
+4	agenda	agenda	NN	_	2	dobj	_	O
+5	'	'	''	pos2=POS	2	punct	_	O
+6	#gaza	#gaza	UH	pos2=XX	2	discourse	_	O
+7	#palestine	#palestine	UH	pos2=PRP	2	discourse	_	O
+8	#israel	#israel	UH	pos2=VB	2	discourse	_	O
+9	#BDS	#bds	GW	pos2=UH	11	nmod	_	U-PERSON
+10	#iran	#iran	GW	pos2=UH	11	nmod	_	O
+11	https://t.co/Jn23AjZdKw	#hlink#	ADD	pos2=NN	2	dobj	_	O
+

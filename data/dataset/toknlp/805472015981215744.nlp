@@ -1,0 +1,19 @@
+1	Ashley	ashley	NNP	_	2	compound	_	B-PERSON
+2	Graham	graham	NNP	_	0	root	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	Tami	tami	NNP	_	5	compound	_	B-PERSON
+5	Roman	roman	NNP	pos2=JJ	2	appos	_	L-PERSON
+6	+	+	SYM	_	2	punct	_	O
+7	More	more	NNPS	pos2=NNP	2	npadvmod	_	O
+8	Reveal	reveal	NNP	pos2=VB	2	appos	_	O
+9	Which	which	WDT	pos2=NNP	10	det	_	O
+10	Diva	diva	NNP	_	7	relcl	_	O
+11	They	they	PRP	_	12	nsubj	_	O
+12	're	be	VBP	_	8	ccomp	_	O
+13	Most	most	RBS	pos2=NNP	14	advmod	_	O
+14	Excited	excited	JJ	pos2=NNP	12	acomp	_	O
+15	To	to	TO	pos2=NNP	16	aux	_	O
+16	See	see	VB	pos2=GW	14	xcomp	_	O
+17	https://t.co/pEsmhBo9Et	#hlink#	ADD	_	18	nmod	_	O
+18	https://t.co/0Clr36rGXc	#hlink#	ADD	_	16	dobj	_	U-ORG
+

@@ -1,0 +1,24 @@
+1	@MLEA_Prez	@mlea_prez	VB	pos2=NNP	0	root	_	O
+2	@AHMalcolm	@ahmalcolm	NN	pos2=ADD	1	dobj	_	O
+3	?	?	.	_	1	punct	_	O
+
+1	Vietnam	vietnam	NNP	_	2	compound	_	U-GPE
+2	embargo	embargo	NN	pos2=NNP	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	Cuba	cuba	NNP	_	5	compound	_	U-GPE
+5	embargo	embargo	NN	pos2=NNP	2	appos	_	O
+6	...	..	.	_	2	punct	_	O
+
+1	Nigeria	nigeria	NNP	_	2	compound	_	U-GPE
+2	meetings	meeting	NNS	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	But	but	CC	_	3	cc	_	O
+2	this	this	DT	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	different	different	JJ	_	3	acomp	_	O
+5	?	?	.	_	3	punct	_	O
+
+1	How	how	WRB	_	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+

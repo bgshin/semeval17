@@ -1,0 +1,22 @@
+1	China	china	NNP	_	4	nsubj	_	U-GPE
+2	has	have	VBZ	_	4	aux	_	O
+3	reportedly	reportedly	RB	_	4	advmod	_	O
+4	blocked	block	VBN	_	0	root	_	O
+5	searches	search	NNS	pos2=NN	4	dobj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	'	'	``	_	4	punct	_	O
+8	Fatty	fatty	JJ	pos2=NNP	11	nmod	_	O
+9	Kim	kim	NNP	_	6	pobj	_	B-PERSON
+10	The	the	NNP	pos2=DT	11	compound	_	I-PERSON
+11	Third	#ord#	NNP	pos2=JJ	9	appos	_	L-PERSON
+12	,	,	,	_	9	punct	_	O
+13	'	'	''	_	9	punct	_	O
+14	a	a	DT	_	16	det	_	O
+15	snarky	snarky	JJ	_	16	nmod	_	O
+16	reference	reference	NN	_	9	appos	_	O
+17	to	to	IN	_	16	prep	_	O
+18	Kim	kim	NNP	_	20	compound	_	B-PERSON
+19	Jong	jong	NNP	_	20	compound	_	I-PERSON
+20	Un	un	NNP	_	17	pobj	_	L-PERSON
+21	https://t.co/gkCYlcCHYb	#hlink#	ADD	_	9	appos	_	O
+

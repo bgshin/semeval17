@@ -1,0 +1,23 @@
+1	@michaeldickson	@michaeldickson	UH	pos2=NN	3	discourse	_	O
+2	sicko	sicko	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	too	too	RB	_	5	advmod	_	O
+5	kind	kind	JJ	pos2=RB	3	acomp	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	These	these	DT	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	depraved	depraved	JJ	_	5	nmod	_	O
+4	murderous	murderous	JJ	_	5	nmod	_	O
+5	thugs	thug	NNS	_	2	attr	_	O
+6	acting	act	VBG	_	5	acl	_	O
+7	out	out	RP	pos2=IN	6	prt	_	O
+8	the	the	DT	_	9	det	_	O
+9	education	education	NN	_	6	dobj	_	O
+10	they	they	PRP	_	11	nsubj	_	O
+11	received	receive	VBD	_	9	relcl	_	O
+12	from	from	IN	_	11	prep	_	O
+13	#Fatah	#fatah	NNP	pos2=NN	12	pobj	_	U-GPE
+14	and	and	CC	_	13	cc	_	O
+15	#Hamas	#hamas	NNP	pos2=NNS	13	conj	_	U-GPE
+

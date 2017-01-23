@@ -1,0 +1,16 @@
+1	Do	do	VBP	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	know	know	VB	pos2=VBP	0	root	_	O
+4	#ScreamQueens	#screamqueens	VBZ	pos2=RB	3	ccomp	_	O
+5	well	well	RB	pos2=UH	6	advmod	_	O
+6	enough	enough	JJ	pos2=RB	4	acomp	_	O
+7	to	to	TO	_	8	aux	_	O
+8	be	be	VB	_	6	xcomp	_	O
+9	a	a	DT	_	10	det	_	O
+10	Chanel	chanel	NNP	_	8	attr	_	U-ORG
+11	yourself	yourself	PRP	_	10	appos	_	O
+12	?!	?!	.	_	3	punct	_	O
+
+1	https://t.co/I4aVnvBKnw	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/ZvNeT4j1yB	#hlink#	ADD	_	0	root	_	U-ORG
+

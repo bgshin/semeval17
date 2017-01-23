@@ -1,0 +1,20 @@
+1	If	if	IN	_	5	mark	_	O
+2	Cricket	cricket	NNP	pos2=NN	5	nsubj	_	U-ORG
+3	indeed	indeed	RB	_	5	advmod	_	O
+4	does	do	VBZ	_	5	aux	_	O
+5	replace	replace	VB	_	13	advcl	_	O
+6	umpires	umpire	NNS	_	5	dobj	_	O
+7	with	with	IN	_	5	prep	_	O
+8	robots	robot	NNS	_	7	pobj	_	O
+9	some	some	DT	_	10	det	_	O
+10	day	day	NN	_	5	npadvmod	_	O
+11	,	,	,	_	13	punct	_	O
+12	please	please	UH	_	13	discourse	_	O
+13	give	give	VB	_	0	root	_	O
+14	them	them	PRP	_	13	dative	_	O
+15	the	the	DT	_	16	det	_	O
+16	voice	voice	NN	_	13	dobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	Dharmasena	dharmasena	NNP	_	19	compound	_	B-PERSON
+19	#IndvEng	#indveng	NNP	pos2=ADD	17	pobj	_	L-PERSON
+

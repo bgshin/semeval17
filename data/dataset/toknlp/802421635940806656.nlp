@@ -1,0 +1,15 @@
+1	Can	can	MD	pos2=NN	5	aux	_	O
+2	3	0	CD	pos2=GW	4	nmod	_	U-CARDINAL
+3	D	d	NNP	pos2=NN	4	compound	_	O
+4	Printing	printing	NNP	pos2=VBG	5	nsubj	_	O
+5	Help	help	VB	pos2=NNP	0	root	_	O
+6	In	in	IN	_	5	prep	_	O
+7	The	the	DT	_	10	det	_	O
+8	Syrian	syrian	JJ	pos2=NNP	10	nmod	_	O
+9	Refugee	refugee	NNP	pos2=NN	10	compound	_	O
+10	Crisis	crisis	NNP	pos2=NN	6	pobj	_	O
+11	?	?	.	_	5	punct	_	O
+
+1	https://t.co/12XHSP2R6Z	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/FxbPg3j9N9	#hlink#	ADD	_	0	root	_	U-ORG
+

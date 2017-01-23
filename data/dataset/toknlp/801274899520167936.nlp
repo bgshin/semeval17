@@ -1,0 +1,22 @@
+1	Why	why	WRB	_	7	advmod	_	O
+2	does	do	VBZ	_	7	aux	_	O
+3	Russian	russian	JJ	pos2=NNP	5	nmod	_	U-NORP
+4	think	think	VB	pos2=VBP	5	compound	_	O
+5	tank	tank	NN	_	10	nsubj	_	O
+6	so	so	RB	_	7	advmod	_	O
+7	concerned	concerned	JJ	_	0	root	_	O
+8	with	with	IN	_	7	prep	_	O
+9	UA	ua	NN	pos2=NNP	11	compound	_	O
+10	household	household	NN	_	11	compound	_	O
+11	income	income	NN	_	8	pobj	_	O
+12	and	and	CC	_	5	cc	_	O
+13	not	not	RB	_	14	neg	_	O
+14	with	with	IN	_	7	prep	_	O
+15	Russian	russian	JJ	pos2=NNP	14	pobj	_	U-NORP
+16	?	?	.	_	15	punct	_	O
+
+1	>>>>>	>>	-RRB-	pos2=NFP	4	punct	_	O
+2	#KremlinTrolls	#kremlintrolls	NNS	pos2=GW	4	dep	_	O
+3	…	…	NFP	pos2=-LRB-	4	punct	_	O
+4	https://t.co/1tkF5YuJnY	#hlink#	ADD	pos2=NN	0	root	_	O
+

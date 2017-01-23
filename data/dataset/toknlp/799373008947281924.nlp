@@ -1,0 +1,23 @@
+1	@nike	@nike	UH	pos2=VB	3	discourse	_	O
+2	@UnderArmour	@underarmour	UH	pos2=TO	3	discourse	_	O
+3	get	get	VB	pos2=VBP	0	root	_	O
+4	u2	u0	NN	pos2=NNS	5	nsubj	_	O
+5	buy	buy	VB	pos2=VBP	3	ccomp	_	O
+6	thier	thier	PRP$	pos2=DT	7	poss	_	O
+7	product	product	NN	_	5	dobj	_	O
+8	than	than	IN	_	12	mark	_	O
+9	ur	ur	PRP$	pos2=JJ	10	poss	_	O
+10	parents	parent	NNS	_	12	nsubjpass	_	O
+11	get	get	VBP	pos2=VB	12	auxpass	_	O
+12	ripped	rip	VBN	pos2=VBD	5	advcl	_	O
+13	off	off	RP	pos2=IN	12	prt	_	O
+14	managemnt	managemnt	NN	pos2=JJ	15	compound	_	O
+15	rigs	rig	NNS	_	12	dobj	_	O
+16	it2drop	it0drop	VBP	pos2=WDT	12	prt	_	O
+17	n	n	TO	pos2=PRP	18	aux	_	O
+18	steal	steal	VB	pos2=VBP	16	xcomp	_	O
+19	thier	thier	PRP$	pos2=JJR	18	dobj	_	O
+20	401	0	CD	pos2=GW	22	dep	_	U-CARDINAL
+21	…	…	NFP	pos2=NNS	22	punct	_	O
+22	https://t.co/zJD1GJ9dlb	#hlink#	ADD	_	18	dobj	_	O
+

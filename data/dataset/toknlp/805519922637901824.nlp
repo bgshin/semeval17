@@ -1,0 +1,17 @@
+1	❤❤❤Beauty	❤❤❤beauty	NN	pos2=NNP	16	dep	_	O
+2	without	without	IN	_	1	prep	_	O
+3	compromise❤❤❤No	compromise❤❤❤no	VBG	pos2=NNP	2	pcomp	_	O
+4	talc	talc	NN	_	3	dobj	_	O
+5	,	,	,	_	4	punct	_	O
+6	no	no	DT	_	7	det	_	O
+7	bismuth	bismuth	NN	_	4	appos	_	O
+8	,	,	,	_	16	punct	_	O
+9	no	no	DT	_	11	det	_	O
+10	harmful	harmful	JJ	_	11	nmod	_	O
+11	chemicals	chemical	NNS	_	16	dep	_	O
+12	&	&	CC	_	11	cc	_	O
+13	no	no	DT	_	15	det	_	O
+14	animal	animal	NN	_	15	compound	_	O
+15	testing	testing	NN	pos2=VBG	11	conj	_	O
+16	https://t.co/2kU0MzR2sa	#hlink#	ADD	pos2=NN	0	root	_	O
+

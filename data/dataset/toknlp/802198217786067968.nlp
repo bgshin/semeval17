@@ -1,0 +1,17 @@
+1	Alright	alright	UH	pos2=JJ	8	discourse	_	O
+2	,	,	,	_	8	punct	_	O
+3	#ThisIsUs	#thisisus	NNP	pos2=NN	4	compound	_	U-PERSON
+4	writers	writer	NNS	_	8	vocative	_	O
+5	,	,	,	_	8	punct	_	O
+6	you	you	PRP	_	8	nsubj	_	O
+7	can	can	MD	_	8	aux	_	O
+8	stop	stop	VB	_	0	root	_	O
+9	it	it	PRP	_	8	dobj	_	O
+10	with	with	IN	_	8	prep	_	O
+11	the	the	DT	_	14	det	_	O
+12	tear	tear	NN	pos2=JJ	13	compound	_	O
+13	jerking	jerking	NN	pos2=VBG	14	compound	_	O
+14	episodes	episode	NNS	_	10	pobj	_	O
+15	at	at	IN	pos2=RB	8	prep	_	O
+16	anytime	anytime	RB	pos2=NN	15	pcomp	_	O
+

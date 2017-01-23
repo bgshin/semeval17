@@ -1,0 +1,22 @@
+1	Retweeted	retweeted	VBN	pos2=VBD	3	nmod	_	B-ORG
+2	Medical	medical	NNP	pos2=JJ	3	compound	_	I-ORG
+3	Marijuana	marijuana	NNP	pos2=NN	7	nsubj	_	L-ORG
+4	(	(	-LRB-	_	3	punct	_	O
+5	@AmericanGanja	@americanganja	NNP	pos2=ADD	3	appos	_	U-ORG
+6	)	)	-RRB-	_	3	punct	_	O
+7	:So	:so	VBZ	pos2=IN	0	root	_	O
+8	it	it	PRP	_	9	nsubj	_	O
+9	's	's	VBZ	_	7	ccomp	_	O
+10	legal	legal	JJ	_	9	acomp	_	O
+11	for	for	IN	_	16	mark	_	O
+12	a	a	DT	_	14	det	_	O
+13	single	single	JJ	_	14	nmod	_	O
+14	doctor	doctor	NN	_	16	nsubj	_	O
+15	to	to	TO	_	16	aux	_	O
+16	prescribe	prescribe	VB	_	9	advcl	_	O
+17	these	these	DT	_	18	det	_	O
+18	dangerous	dangerous	JJ	_	16	dobj	_	O
+19	...	..	.	pos2=,	7	punct	_	O
+
+1	https://t.co/Jk8mt3Mw55	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,16 @@
+1	@omggjackiee	@omggjackiee	UH	pos2=VB	4	discourse	_	O
+2	nah	nah	UH	_	4	discourse	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	just	just	RB	_	6	advmod	_	O
+6	zac	zac	JJ	pos2=XX	7	nmod	_	O
+7	efron	efron	NN	pos2=GW	4	attr	_	O
+8	about	about	IN	pos2=RB	7	prep	_	O
+9	to	to	TO	_	10	aux	_	O
+10	resize	resize	VB	_	8	xcomp	_	O
+11	all	all	PDT	pos2=DT	13	predet	_	O
+12	your	your	PRP$	_	13	poss	_	O
+13	holes	hole	NNS	_	10	dobj	_	O
+14	too	too	RB	_	10	advmod	_	O
+15	.	.	.	_	4	punct	_	O
+

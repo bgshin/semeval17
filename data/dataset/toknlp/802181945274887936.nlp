@@ -1,0 +1,22 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	would	would	MD	_	3	aux	_	O
+3	think	think	VB	_	0	root	_	O
+4	Ben	ben	NNP	_	5	compound	_	B-PERSON
+5	Carson	carson	NNP	_	7	nsubj	_	L-PERSON
+6	would	would	MD	_	7	aux	_	O
+7	make	make	VB	_	3	ccomp	_	O
+8	a	a	DT	_	11	det	_	O
+9	better	good	JJR	_	11	nmod	_	O
+10	Surgeon	surgeon	NNP	pos2=NN	11	compound	_	O
+11	General	general	NNP	pos2=JJ	7	dobj	_	O
+12	than	than	IN	_	11	prep	_	O
+13	Housing	housing	NNP	_	17	nmod	_	B-ORG
+14	and	and	CC	_	13	cc	_	I-ORG
+15	Urban	urban	NNP	_	16	compound	_	I-ORG
+16	Development	development	NNP	_	13	conj	_	L-ORG
+17	Secretary	secretary	NNP	_	12	pobj	_	O
+18	,	,	,	_	7	punct	_	O
+19	at	at	IN	_	7	prep	_	O
+20	first	#ord#	JJ	pos2=RB	21	nmod	_	U-ORDINAL
+21	glance	glance	NN	_	19	pobj	_	O
+

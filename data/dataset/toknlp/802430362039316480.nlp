@@ -1,0 +1,25 @@
+1	@MilenialPatriot	@milenialpatriot	UH	pos2=NN	4	discourse	_	O
+2	@Smellycat89	@smellycat0	NNS	pos2=NN	4	dobj	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	know	know	VBP	_	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+
+1	Just	just	RB	_	2	advmod	_	O
+2	like	like	IN	pos2=VB	6	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	way	way	NN	_	0	root	_	O
+5	Republicans	republican	NNPS	_	6	nsubj	_	U-NORP
+6	assume	assume	VBP	_	4	relcl	_	O
+7	liberals	liberal	NNS	_	8	nsubj	_	O
+8	are	be	VBP	_	6	ccomp	_	O
+9	victims	victim	NNS	_	8	attr	_	O
+10	of	of	IN	_	9	prep	_	O
+11	mainstream	mainstream	JJ	pos2=NN	12	nmod	_	O
+12	media	medium	NNS	pos2=NN	10	pobj	_	O
+13	!!	!!	.	_	2	punct	_	O
+
+1	Crazy	crazy	JJ	pos2=NNP	3	advmod	_	O
+2	,	,	,	_	3	punct	_	O
+3	right	right	JJ	pos2=UH	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+

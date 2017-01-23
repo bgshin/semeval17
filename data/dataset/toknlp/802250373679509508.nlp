@@ -1,0 +1,12 @@
+1	@Google	@google	NNP	pos2=VB	3	compound	_	B-ORG
+2	Human	human	NNP	pos2=JJ	3	compound	_	I-ORG
+3	Hurdles	hurdles	NNP	pos2=NNS	11	dep	_	I-ORG
+4	Facing	face	VBG	pos2=NNP	11	nmod	_	I-ORG
+5	Self-Driving	self-driving	NNP	pos2=JJ	6	compound	_	I-ORG
+6	Cars	car	NNPS	pos2=NNS	7	compound	_	I-ORG
+7	@TeslaMotors	@teslamotors	NNPS	pos2=POS	4	dobj	_	L-ORG
+8	@Audi	@audi	GW	pos2=NNP	11	nmod	_	O
+9	#SelfDriving	#selfdriving	GW	pos2=VBG	11	nmod	_	O
+10	Carshttps://t.co/PvKK9NqmgY	#hlink#	ADD	pos2=GW	11	nmod	_	O
+11	https://t.co/giftYQlVhg	#hlink#	ADD	_	0	root	_	U-ORG
+

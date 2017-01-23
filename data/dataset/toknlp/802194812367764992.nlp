@@ -1,0 +1,27 @@
+1	White	white	JJ	pos2=NNP	3	compound	_	B-ORG
+2	-	-	HYPH	_	3	punct	_	I-ORG
+3	Collar	collar	NNP	pos2=NN	5	compound	_	I-ORG
+4	Supremacy	supremacy	NNP	pos2=NN	5	compound	_	I-ORG
+5	LOL	lol	NNP	pos2=NN	0	root	_	L-ORG
+6	@	@	IN	pos2=SYM	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	Supremacists	supremacist	NNPS	pos2=NNS	6	pobj	_	O
+9	including	include	VBG	pos2=IN	8	prep	_	O
+10	Breitbart	breitbart	NNP	_	14	poss	_	U-ORG
+11	's	's	POS	_	10	case	_	O
+12	faux	faux	JJ	pos2=NN	14	nmod	_	O
+13	news	news	NN	_	14	compound	_	O
+14	story	story	NN	_	9	pobj	_	O
+15	"	"	``	_	17	punct	_	O
+16	NYT	nyt	NNP	_	17	nsubj	_	O
+17	Failing	fail	VBG	pos2=NNP	14	acl	_	O
+18	"	"	''	pos2=``	17	punct	_	O
+19	w	w	IN	pos2=RB	14	prep	_	O
+20	/	/	HYPH	pos2=,	19	punct	_	O
+21	their	their	PRP$	_	23	poss	_	O
+22	whining	whining	NN	pos2=VBG	23	compound	_	O
+23	denials	denial	NNS	_	19	pobj	_	O
+24	of	of	IN	_	23	prep	_	O
+25	White	white	NNP	pos2=JJ	26	compound	_	B-ORG
+26	Power	power	NNP	pos2=NN	24	pobj	_	L-ORG
+

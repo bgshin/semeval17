@@ -1,0 +1,24 @@
+1	@BBCWorld	@bbcworld	NN	pos2=NNP	4	nmod	_	O
+2	While	while	IN	_	5	mark	_	O
+3	French	french	JJ	_	4	nmod	_	U-NORP
+4	terrorists	terrorist	NNS	_	5	nsubj	_	O
+5	are	be	VBP	_	0	root	_	O
+6	busy	busy	JJ	_	5	acomp	_	O
+7	in	in	IN	_	6	prep	_	O
+8	spreading	spread	VBG	_	7	pcomp	_	O
+9	terrorism	terrorism	NN	_	8	dobj	_	O
+10	across	across	IN	_	8	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	world	world	NN	_	10	pobj	_	O
+13	from	from	IN	_	8	prep	_	O
+14	#Libya	#libya	NNP	_	13	pobj	_	U-EVENT
+15	to	to	IN	pos2=TO	8	prep	_	O
+16	#Chad	#chad	NNP	pos2=VB	15	pobj	_	U-GPE
+17	and	and	CC	_	16	cc	_	O
+18	other	other	JJ	_	19	nmod	_	O
+19	parts	part	NNS	_	16	conj	_	O
+20	of	of	IN	_	19	prep	_	O
+21	the	the	DT	_	22	det	_	O
+22	world	world	NN	_	20	pobj	_	O
+23	.	.	.	_	1	punct	_	O
+

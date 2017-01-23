@@ -1,0 +1,28 @@
+1	@KentuckyMBB	@kentuckymbb	ADD	pos2=XX	19	punct	_	O
+2	@WalkerAntoine8	@walkerantoine0	NN	pos2=GW	4	poss	_	O
+3	@SECNetwork	@secnetwork	POS	pos2=XX	2	case	_	O
+4	UK	uk	NNP	pos2=RBS	1	nsubj	_	U-GPE
+5	great	great	JJ	pos2=RB	7	nmod	_	O
+6	Antoine	antoine	NNP	_	7	compound	_	B-PERSON
+7	Walker	walker	NNP	_	4	appos	_	L-PERSON
+8	on	on	IN	_	5	prep	_	O
+9	if	if	IN	_	15	mark	_	O
+10	his	his	PRP$	_	13	poss	_	O
+11	96	0	CD	pos2=NN	12	nmod	_	U-CARDINAL
+12	'	'	''	pos2=POS	16	compound	_	O
+13	team	team	NN	_	15	nsubj	_	O
+14	could	could	MD	_	15	aux	_	O
+15	stop	stop	VB	_	19	advcl	_	O
+16	Bam	bam	NNP	pos2=FW	15	dobj	_	U-PERSON
+17	:	:	:	_	15	punct	_	O
+18	"	"	``	_	19	punct	_	O
+19	Ask	ask	VB	pos2=NNP	0	root	_	O
+20	Tim	tim	NNP	_	21	compound	_	B-PERSON
+21	Duncan	duncan	NNP	_	19	dobj	_	L-PERSON
+22	about	about	IN	_	21	prep	_	O
+23	us	us	PRP	_	22	pobj	_	O
+24	.	.	.	_	19	punct	_	O
+25	"	"	''	_	19	punct	_	O
+
+1	#BBN	#bbn	ADD	pos2=NN	0	root	_	U-ORG
+

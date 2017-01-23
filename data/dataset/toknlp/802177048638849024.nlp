@@ -1,0 +1,20 @@
+1	#Hatchimals	#hatchimals	NNS	pos2=ADD	2	compound	_	O
+2	@william_pitts	@william_pitts	NNS	pos2=VBZ	6	vocative	_	O
+3	Why	why	WRB	_	6	advmod	_	O
+4	would	would	MD	_	6	aux	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	give	give	VB	_	0	root	_	O
+7	PR	pr	NN	pos2=NNP	6	dobj	_	O
+8	to	to	IN	_	6	dative	_	O
+9	someone	someone	NN	_	8	pobj	_	O
+10	taking	take	VBG	_	9	acl	_	O
+11	advantage	advantage	NN	_	10	dobj	_	O
+12	of	of	IN	_	10	prep	_	O
+13	the	the	DT	_	15	det	_	B-DATE
+14	Christmas	christmas	NNP	_	15	compound	_	I-DATE
+15	season	season	NN	_	12	pobj	_	L-DATE
+16	.	.	.	_	6	punct	_	O
+
+1	Reprehensible	reprehensible	JJ	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

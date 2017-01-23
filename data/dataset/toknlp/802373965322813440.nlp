@@ -1,0 +1,21 @@
+1	@MaxBlumenthal	@maxblumenthal	VB	pos2=MD	14	discourse	_	O
+2	the	the	DT	_	3	det	_	O
+3	@washingtonpost	@washingtonpost	NN	pos2=NNP	6	poss	_	O
+4	's	's	POS	_	3	case	_	O
+5	@propornot	@propornot	JJ	pos2=NNP	6	nmod	_	O
+6	contact	contact	NN	_	1	dobj	_	O
+7	cited	cite	VBN	_	6	acl	_	O
+8	in	in	IN	_	7	prep	_	O
+9	the	the	DT	_	13	det	_	O
+10	ludicrous	ludicrous	JJ	_	13	nmod	_	O
+11	fake	fake	JJ	_	13	nmod	_	O
+12	news	news	NN	_	13	compound	_	O
+13	piece	piece	NN	_	8	pobj	_	O
+14	is	be	VBZ	_	0	root	_	O
+15	the	the	DT	_	18	det	_	O
+16	same	same	JJ	_	18	nmod	_	O
+17	lonely	lonely	JJ	_	18	nmod	_	O
+18	loon	loon	NN	_	14	attr	_	O
+19	behind	behind	IN	pos2=RB	18	prep	_	O
+20	@KremlinTrolls	@kremlintrolls	NNS	pos2=ADD	19	pobj	_	O
+

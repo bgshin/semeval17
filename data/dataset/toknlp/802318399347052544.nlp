@@ -1,0 +1,23 @@
+1	With	with	IN	_	4	prep	_	O
+2	two	#crd#	CD	_	3	nmod	_	U-CARDINAL
+3	touchdown	touchdown	NN	pos2=JJ	1	pobj	_	O
+4	grabs	grab	VBZ	pos2=NNS	9	ccomp	_	O
+5	tonight	tonight	NN	_	4	npadvmod	_	U-TIME
+6	,	,	,	_	9	punct	_	O
+7	Michael	michael	NNP	_	8	compound	_	B-PERSON
+8	Roberts	roberts	NNP	_	9	nsubj	_	L-PERSON
+9	ties	tie	VBZ	pos2=NNS	0	root	_	O
+10	Lance	lance	NNP	_	11	compound	_	B-PERSON
+11	Moore	moore	NNP	_	17	poss	_	I-PERSON
+12	's	's	POS	_	11	case	_	L-PERSON
+13	2004	0	CD	_	17	nmod	_	U-DATE
+14	single	single	JJ	_	16	nmod	_	O
+15	-	-	HYPH	_	16	punct	_	O
+16	season	season	NN	_	17	compound	_	O
+17	record	record	NN	_	9	dobj	_	O
+18	of	of	IN	_	17	prep	_	O
+19	14	0	CD	_	18	pobj	_	U-CARDINAL
+20	receiving	receive	VBG	pos2=NN	17	acl	_	O
+21	touchdowns	touchdown	NNS	_	20	dobj	_	O
+22	.	.	.	_	9	punct	_	O
+

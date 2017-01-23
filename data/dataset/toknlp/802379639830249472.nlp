@@ -1,0 +1,24 @@
+1	If	if	IN	_	3	mark	_	O
+2	everyone	everyone	NN	_	3	nsubj	_	O
+3	got	get	VBD	_	14	advcl	_	O
+4	over	over	IN	pos2=RP	3	prep	_	O
+5	themselves	themselves	PRP	_	4	pobj	_	O
+6	and	and	CC	_	3	cc	_	O
+7	signed	sign	VBN	pos2=VBD	3	conj	_	O
+8	up	up	RP	_	7	prt	_	O
+9	for	for	IN	_	7	prep	_	O
+10	obamacare	obamacare	NN	pos2=NNP	9	pobj	_	O
+11	would	would	MD	_	14	aux	_	O
+12	n't	not	RB	_	14	neg	_	O
+13	it	it	PRP	_	14	nsubj	_	O
+14	work	work	VB	_	0	root	_	O
+15	and	and	CC	_	14	cc	_	O
+16	be	be	VB	_	14	conj	_	O
+17	cheaper	cheap	JJR	_	16	acomp	_	O
+18	???	??	.	_	14	punct	_	O
+
+1	(	(	-LRB-	_	3	punct	_	O
+2	Actual	actual	JJ	_	3	nmod	_	O
+3	question	question	NN	_	0	root	_	O
+4	)	)	-RRB-	_	3	punct	_	O
+

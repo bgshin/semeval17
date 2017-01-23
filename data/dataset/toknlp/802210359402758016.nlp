@@ -1,0 +1,27 @@
+1	@realDonaldTrump	@realdonaldtrump	XX	pos2=ADD	10	dep	_	O
+2	With	with	IN	_	4	prep	_	O
+3	you	you	PRP	_	2	pobj	_	O
+4	as	as	IN	_	10	mark	_	O
+5	Commander	commander	NNP	pos2=NN	10	nsubj	_	O
+6	-	-	HYPH	_	5	punct	_	O
+7	in	in	IN	_	5	prep	_	O
+8	-	-	HYPH	_	7	punct	_	O
+9	Chief	chief	NNP	pos2=JJ	7	pobj	_	O
+10	believe	believe	VBP	pos2=VB	0	root	_	O
+11	you	you	PRP	_	13	nsubj	_	O
+12	'll	will	MD	_	13	aux	_	O
+13	get	get	VB	_	10	ccomp	_	O
+14	DOD	dod	NNP	pos2=NN	17	nmod	_	B-ORG
+15	/	/	SYM	pos2=,	17	punct	_	I-ORG
+16	Contractor	contractor	NNP	pos2=NN	17	compound	_	I-ORG
+17	Partners	partner	NNPS	pos2=NNP	19	nsubj	_	L-ORG
+18	"	"	``	_	19	punct	_	O
+19	smart	smart	JJ	_	13	acomp	_	O
+20	"	"	''	_	19	punct	_	O
+21	in	in	IN	_	13	prep	_	O
+22	this	this	DT	_	24	det	_	O
+23	key	key	JJ	_	24	nmod	_	O
+24	area	area	NN	_	21	pobj	_	O
+25	…	…	NFP	pos2=:	26	punct	_	O
+26	https://t.co/P2YY4sNkJ5	#hlink#	ADD	_	10	dep	_	O
+

@@ -1,0 +1,19 @@
+1	@TeutonicKnight7	@teutonicknight0	NN	pos2=XX	4	nmod	_	O
+2	what	what	WDT	pos2=WP	4	det	_	O
+3	biological	biological	JJ	_	4	nmod	_	O
+4	differences	difference	NNS	_	0	root	_	O
+5	?	?	.	_	1	punct	_	O
+
+1	Do	do	VBP	pos2=VB	7	aux	_	O
+2	white	white	JJ	_	3	nmod	_	O
+3	Democrats	democrat	NNPS	_	7	nsubj	_	U-NORP
+4	and	and	CC	_	3	cc	_	O
+5	white	white	JJ	_	6	nmod	_	O
+6	supremacists	supremacist	NNS	_	3	conj	_	O
+7	have	have	VBP	_	0	root	_	O
+8	the	the	DT	_	11	det	_	O
+9	same	same	JJ	_	11	nmod	_	O
+10	biological	biological	JJ	_	11	nmod	_	O
+11	DNA	dna	NN	_	7	dobj	_	O
+12	?	?	.	_	7	punct	_	O
+

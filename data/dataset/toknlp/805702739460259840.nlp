@@ -1,0 +1,24 @@
+1	"	"	``	pos2=SYM	5	punct	_	O
+2	Mass	mass	NN	pos2=NNP	3	compound	_	O
+3	immigration	immigration	NN	_	5	nsubj	_	O
+4	has	have	VBZ	_	5	aux	_	O
+5	turned	turn	VBN	_	0	root	_	O
+6	British	british	JJ	_	7	nmod	_	U-NORP
+7	towns	town	NNS	_	5	dobj	_	O
+8	into	into	IN	_	5	prep	_	O
+9	'	'	``	_	10	punct	_	O
+10	ghettos	ghetto	NNS	_	8	pobj	_	O
+11	'	'	''	pos2=POS	10	punct	_	O
+12	as	as	IN	_	15	mark	_	O
+13	bombshell	bombshell	NN	pos2=JJ	14	compound	_	O
+14	report	report	NN	pos2=VB	15	nsubj	_	O
+15	calls	call	VBZ	pos2=NNS	5	advcl	_	O
+16	for	for	IN	_	15	prep	_	O
+17	migrants	migrant	NNS	_	16	pobj	_	O
+18	..	..	.	pos2=:	5	punct	_	O
+19	"	"	''	_	5	punct	_	O
+
+1	https://t.co/NS0FQSGjAL	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@MailOnline	@mailonline	NN	pos2=ADD	2	pobj	_	O
+

@@ -1,0 +1,14 @@
+1	@f9burgess	@f0burgess	NN	pos2=XX	8	dep	_	O
+2	@TakeThatChem	@takethatchem	XX	pos2=ADD	8	dep	_	O
+3	@MichellyLaBelly	@michellylabelly	XX	pos2=RB	8	dep	_	O
+4	@DCClothesline	@dcclothesline	NNP	pos2=XX	8	dep	_	O
+5	And	and	CC	_	4	cc	_	O
+6	vaccines	vaccine	NNS	_	4	conj	_	O
+7	,	,	,	_	8	punct	_	O
+8	let	let	VB	_	0	root	_	O
+9	's	's	PRP	_	11	nsubj	_	O
+10	not	not	RB	_	11	neg	_	O
+11	forget	forget	VB	_	8	ccomp	_	O
+12	vaccines	vaccine	NNS	_	11	dobj	_	O
+13	...	..	.	pos2=,	8	punct	_	O
+

@@ -1,0 +1,24 @@
+1	@djf137	@djf0	NN	pos2=LS	6	nsubj	_	O
+2	@ScavengerEthic	@scavengerethic	ADD	pos2=JJ	6	punct	_	O
+3	@carlzimmer	@carlzimmer	UH	pos2=IN	6	discourse	_	O
+4	@guardian	@guardian	UH	pos2=``	6	discourse	_	O
+5	It	it	PRP	_	6	nsubj	_	O
+6	's	's	VBZ	_	0	root	_	O
+7	only	only	RB	_	11	advmod	_	O
+8	a	a	DT	_	11	det	_	O
+9	small	small	JJ	_	11	nmod	_	O
+10	left	left	JJ	pos2=VBN	11	nmod	_	O
+11	fringe	fringe	NN	_	6	attr	_	O
+12	that	that	WDT	_	13	nsubj	_	O
+13	does	do	VBZ	_	11	relcl	_	O
+14	,	,	,	_	11	punct	_	O
+15	not	not	RB	pos2=CC	11	neg	_	O
+16	the	the	DT	_	18	det	_	O
+17	actual	actual	JJ	_	18	nmod	_	O
+18	mainstream	mainstream	NN	pos2=JJ	23	nmod	_	O
+19	left	left	JJ	pos2=VBN	18	nmod	_	O
+20	,	,	,	_	23	punct	_	O
+21	unlike	unlike	IN	_	0	root	_	O
+22	main	main	JJ	_	23	nmod	_	O
+23	rightists	rightist	NNS	_	21	pobj	_	O
+

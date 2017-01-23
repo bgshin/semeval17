@@ -1,0 +1,9 @@
+1	Justin	justin	NNP	_	3	compound	_	B-PERSON
+2	Verlander	verlander	NNP	_	3	compound	_	L-PERSON
+3	Ultimate	ultimate	NNP	pos2=JJ	6	dep	_	O
+4	2015	0	CD	_	5	nmod	_	U-DATE
+5	Highlights	highlight	NNS	pos2=VBZ	6	dep	_	O
+6	https://t.co/XHKPckgPCa	#hlink#	ADD	_	0	root	_	O
+7	#MLB	#mlb	-RRB-	pos2=ADD	6	punct	_	O
+8	#Verlander	#verlander	-RRB-	pos2=NN	6	punct	_	O
+

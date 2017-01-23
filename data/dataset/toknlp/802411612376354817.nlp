@@ -1,0 +1,21 @@
+1	@DankNFurter	@danknfurter	GW	pos2=NN	7	prep	_	O
+2	@realDonaldTrump	@realdonaldtrump	GW	pos2=NN	4	nmod	_	O
+3	-	-	GW	pos2=:	7	punct	_	O
+4	https://t.co/xBnyMF8PKY:	#hlink#	ADD	pos2=NN	7	nsubj	_	O
+5	I	I	PRP	_	7	nsubj	_	O
+6	am	be	VBP	_	7	aux	_	O
+7	going	go	VBG	_	0	root	_	O
+8	to	to	TO	_	9	aux	_	O
+9	repeal	repeal	VB	_	7	xcomp	_	O
+10	and	and	CC	_	9	cc	_	O
+11	replace	replace	VB	_	9	conj	_	O
+12	ObamaCare	obamacare	NNP	_	11	dobj	_	U-ORG
+13	.	.	.	_	7	punct	_	O
+
+1	We	we	PRP	_	3	nsubj	_	O
+2	will	will	MD	_	3	aux	_	O
+3	kill	kill	VB	_	0	root	_	O
+4	your	your	PRP$	_	5	poss	_	O
+5	mom	mom	NN	_	3	dobj	_	O
+6	tonight	tonight	NN	_	3	npadvmod	_	U-TIME
+

@@ -1,0 +1,25 @@
+1	To	to	IN	_	15	prep	_	O
+2	those	those	DT	_	1	pobj	_	O
+3	who	who	WP	_	4	nsubj	_	O
+4	are	be	VBP	_	2	relcl	_	O
+5	so	so	RB	_	6	advmod	_	O
+6	excited	excited	JJ	_	4	acomp	_	O
+7	about	about	IN	_	6	prep	_	O
+8	Trump	trump	NNP	pos2=NN	7	pobj	_	U-ORG
+9	not	not	RB	_	10	neg	_	O
+10	taking	take	VBG	_	7	pcomp	_	O
+11	the	the	DT	_	13	det	_	O
+12	400K	0k	NN	pos2=CD	13	compound	_	O
+13	salary	salary	NN	_	10	dobj	_	O
+14	-	-	:	pos2=HYPH	15	punct	_	O
+15	Let	let	VB	_	0	root	_	O
+16	me	me	PRP	_	17	nsubj	_	O
+17	post	post	VB	pos2=IN	15	ccomp	_	O
+18	this	this	DT	_	17	dobj	_	O
+19	for	for	IN	_	17	prep	_	O
+20	you	you	PRP	_	19	pobj	_	O
+21	,	,	,	_	17	punct	_	O
+22	again	again	RB	_	17	advmod	_	O
+23	:	:	:	_	15	punct	_	O
+24	https://t.co/DErzC8YpWs	#hlink#	ADD	pos2=NN	20	appos	_	O
+

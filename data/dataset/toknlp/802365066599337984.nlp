@@ -1,0 +1,15 @@
+1	Bob	bob	NNP	_	2	compound	_	B-PERSON
+2	Dylan	dylan	NNP	_	9	poss	_	I-PERSON
+3	's	's	POS	_	2	case	_	L-PERSON
+4	first	#ord#	JJ	_	5	nmod	_	U-ORDINAL
+5	single	single	JJ	_	9	nmod	_	O
+6	Mixed	mix	VBN	pos2=JJ	9	nmod	_	O
+7	-	-	HYPH	_	6	punct	_	O
+8	Up	up	RP	_	6	prt	_	O
+9	Confusion	confusion	NN	_	14	nsubj	_	O
+10	from	from	IN	_	9	prep	_	O
+11	1962	0	CD	_	10	pobj	_	O
+12	-	-	:	pos2=NFP	14	punct	_	O
+13	https://t.co/7YNVuVWwg0	#hlink#	ADD	_	14	nmod	_	O
+14	https://t.co/abxkoazeI4	#hlink#	ADD	_	0	root	_	O
+

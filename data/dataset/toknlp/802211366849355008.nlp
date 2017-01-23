@@ -1,0 +1,23 @@
+1	YOURNEWSTOUR	yournewstour	NN	pos2=NNP	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	EU	eu	NNP	pos2=NN	4	nsubj	_	U-ORG
+4	Declare	declare	VB	pos2=NNP	0	root	_	O
+5	&#	&#	,	pos2=NFP	4	punct	_	O
+6	8216	0	CD	_	4	npadvmod	_	U-DATE
+7	;	;	,	pos2=:	6	punct	_	O
+8	War	war	NNP	pos2=NN	6	conj	_	O
+9	&	&	CC	_	8	cc	_	O
+10	#	#	NN	_	8	conj	_	O
+11	8217	0	CD	pos2=LS	10	nmod	_	U-MONEY
+12	;	;	:	pos2=,	22	punct	_	O
+13	On	on	IN	_	22	prep	_	O
+14	Russia	russia	NNP	_	22	dep	_	U-GPE
+15	&#	&#	XX	pos2=NFP	22	dep	_	O
+16	8211	0	CD	_	22	dep	_	U-DATE
+17	;	;	,	pos2=:	22	punct	_	O
+18	Putin	putin	NNP	_	19	compound	_	O
+19	Issues	issue	NNPS	pos2=NNP	20	compound	_	O
+20	Statement	statement	NN	pos2=NNP	22	dep	_	O
+21	:	:	:	_	22	punct	_	O
+22	https://t.co/Po7nTCYgWd	#hlink#	ADD	_	4	dep	_	O
+

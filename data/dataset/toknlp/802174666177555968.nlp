@@ -1,0 +1,18 @@
+1	THANKSGIVING	thanksgiving	NN	pos2=NNP	2	compound	_	O
+2	UPDATE	update	NN	_	6	dep	_	O
+3	:	:	:	_	2	punct	_	O
+4	Tony	tony	NNP	_	5	compound	_	B-PERSON
+5	Romo	romo	NNP	_	6	nsubj	_	L-PERSON
+6	passes	pass	VBZ	_	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	turkey	turkey	NN	pos2=NNP	6	dobj	_	O
+9	,	,	,	_	6	punct	_	O
+10	intercepted	intercept	VBN	_	6	advcl	_	O
+11	by	by	IN	_	10	agent	_	O
+12	86	0	CD	_	13	nmod	_	B-DATE
+13	yr	yr	NN	pos2=NNS	14	npadvmod	_	I-DATE
+14	old	old	JJ	_	16	nmod	_	L-DATE
+15	Grandma	grandma	NNP	_	16	compound	_	O
+16	Jean	jean	NNP	_	11	pobj	_	O
+17	https://t.co/IImCHuzlRH	#hlink#	ADD	pos2=NNP	6	dep	_	O
+

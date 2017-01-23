@@ -1,0 +1,24 @@
+1	@SteveBlogs1	@steveblogs0	NN	pos2=NNS	12	nsubj	_	O
+2	No	no	UH	pos2=RB	1	discourse	_	O
+3	,	,	,	_	12	punct	_	O
+4	Mo	mo	NNP	pos2=IN	5	compound	_	O
+5	Ansar	ansar	NNP	_	2	vocative	_	O
+6	-	-	HYPH	pos2=:	1	punct	_	O
+7	ever	ever	RB	_	12	advmod	_	O
+8	the	the	DT	_	9	det	_	O
+9	opportunist	opportunist	NN	_	5	appos	_	O
+10	-	-	,	pos2=HYPH	12	punct	_	O
+11	is	be	VBZ	_	12	aux	_	O
+12	looking	look	VBG	_	0	root	_	O
+13	to	to	TO	_	14	aux	_	O
+14	reinvent	reinvent	VB	_	12	xcomp	_	O
+15	himself	himself	PRP	_	14	dobj	_	O
+16	as	as	IN	_	14	prep	_	O
+17	the	the	DT	_	20	det	_	O
+18	new	new	JJ	pos2=NNP	20	nmod	_	O
+19	Leonard	leonard	NNP	_	20	compound	_	B-PERSON
+20	Cohen	cohen	NNP	_	16	pobj	_	L-PERSON
+21	,	,	,	_	12	punct	_	O
+22	hallellujah	hallellujah	UH	pos2=NNP	12	discourse	_	O
+23	.	.	.	_	12	punct	_	O
+

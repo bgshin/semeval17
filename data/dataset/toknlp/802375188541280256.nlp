@@ -1,0 +1,34 @@
+1	@ByYourLogic	@byyourlogic	NNP	pos2=ADD	2	compound	_	B-ORG
+2	QHP	qhp	NNP	pos2=NN	3	nsubj	_	L-ORG
+3	is	be	VBZ	_	0	root	_	O
+4	not	not	RB	_	3	neg	_	O
+5	medicaid	medicaid	NN	pos2=VBN	3	attr	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	she	she	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	not	not	RB	_	2	neg	_	O
+4	poor	poor	JJ	_	2	acomp	_	O
+5	,	,	,	_	2	punct	_	O
+6	lower	low	JJR	pos2=JJ	8	advmod	_	O
+7	-	-	HYPH	_	8	punct	_	O
+8	middle	middle	JJ	pos2=NN	9	nmod	_	O
+9	class	class	NN	_	10	compound	_	O
+10	income	income	NN	_	12	npadvmod	_	O
+11	-	-	HYPH	pos2=:	12	punct	_	O
+12	pre-SS	pre-ss	JJ	pos2=XX	13	nmod	_	O
+13	pensioner	pensioner	NN	_	17	acl	_	O
+14	at	at	IN	_	13	prep	_	O
+15	64	0	CD	_	16	nmod	_	U-CARDINAL
+16	(?)	(?)	NNS	pos2=:	14	pobj	_	O
+17	.	.	.	_	2	punct	_	O
+
+1	i	I	PRP	_	2	nsubj	_	O
+2	hope	hope	VBP	_	0	root	_	O
+3	she	she	PRP	_	4	nsubj	_	O
+4	dies	die	VBZ	_	2	ccomp	_	O
+5	in	in	IN	pos2=RB	4	prep	_	O
+6	significant	significant	JJ	_	7	nmod	_	O
+7	pain	pain	NN	_	5	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+

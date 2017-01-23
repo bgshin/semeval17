@@ -1,0 +1,20 @@
+1	If	if	IN	_	7	mark	_	O
+2	spongebob	spongebob	NN	pos2=NNS	7	nsubj	_	O
+3	and	and	CC	_	2	cc	_	O
+4	squidward	squidward	NN	pos2=NNP	2	conj	_	O
+5	can	can	MD	_	7	aux	_	O
+6	each	each	DT	_	7	dep	_	O
+7	have	have	VB	_	0	root	_	O
+8	a	a	DT	_	9	det	_	O
+9	house	house	NN	_	7	dobj	_	O
+10	working	work	VBG	_	9	acl	_	O
+11	minimum	minimum	JJ	pos2=NN	12	nmod	_	O
+12	wage	wage	NN	_	15	nmod	_	O
+13	fast	fast	JJ	_	14	nmod	_	O
+14	food	food	NN	_	15	compound	_	O
+15	jobs	job	NNS	_	10	dobj	_	O
+16	why	why	WRB	pos2=WDT	18	advmod	_	O
+17	ca	can	MD	pos2=NN	19	aux	_	O
+18	nt	nt	RB	_	14	relcl	_	O
+19	we	we	PRP	_	14	dep	_	O
+

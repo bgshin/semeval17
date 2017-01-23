@@ -1,0 +1,12 @@
+1	Instead	instead	RB	_	2	advmod	_	O
+2	of	of	IN	_	7	prep	_	O
+3	#DrainTheSwamp	#draintheswamp	NNP	pos2=XX	2	pobj	_	U-GPE
+4	,	,	,	_	7	punct	_	O
+5	#Trump	#trump	NNP	pos2=XX	7	nsubj	_	U-GPE
+6	is	be	VBZ	_	7	aux	_	O
+7	filling	fill	VBG	_	0	root	_	O
+8	it	it	PRP	_	7	dobj	_	O
+9	to	to	IN	pos2=TO	7	prep	_	O
+10	#OverFlow	#overflow	ADD	pos2=GW	9	pobj	_	U-NORP
+11	https://t.co/XCyHj8lTEN	#hlink#	ADD	_	9	pobj	_	O
+

@@ -1,0 +1,26 @@
+1	That	that	DT	pos2=IN	6	det	_	O
+2	"	"	``	_	4	punct	_	O
+3	educated	educated	JJ	pos2=VBD	4	nmod	_	O
+4	virgin	virgin	NN	pos2=JJ	6	nmod	_	O
+5	"	"	''	pos2=``	4	punct	_	O
+6	line	line	NN	_	14	nsubj	_	O
+7	from	from	IN	_	6	prep	_	O
+8	"	"	``	_	9	punct	_	O
+9	Sleepwalker	sleepwalker	NN	pos2=NNP	7	pobj	_	O
+10	"	"	''	_	9	punct	_	O
+11	by	by	IN	_	6	prep	_	O
+12	The	the	DT	pos2=NNP	13	det	_	O
+13	Wallflowers	wallflower	NNPS	_	11	pobj	_	U-ORG
+14	is	be	VBZ	_	18	auxpass	_	O
+15	maybe	maybe	RB	_	18	advmod	_	O
+16	my	my	PRP$	_	18	poss	_	O
+17	favorite	favorite	JJ	pos2=NN	18	nmod	_	O
+18	written	write	VBN	_	0	root	_	O
+19	by	by	IN	_	18	agent	_	O
+20	either	either	CC	pos2=DT	24	preconj	_	O
+21	Bob	bob	NNP	_	24	compound	_	U-PERSON
+22	OR	or	NNP	pos2=CC	21	cc	_	O
+23	Jakob	jakob	NNP	_	24	compound	_	B-PERSON
+24	Dylan	dylan	NNP	_	19	pobj	_	L-PERSON
+25	.	.	.	_	18	punct	_	O
+

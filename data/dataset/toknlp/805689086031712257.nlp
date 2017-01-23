@@ -1,0 +1,29 @@
+1	OMG	omg	NN	pos2=NNP	0	root	_	O
+2	!!!	!!	.	_	1	punct	_	O
+
+1	Amazing	amazing	JJ	_	2	nmod	_	O
+2	encounter	encounter	NN	_	0	root	_	O
+3	this	this	DT	_	4	det	_	B-TIME
+4	morning	morning	NN	_	2	npadvmod	_	L-TIME
+5	with	with	IN	_	2	prep	_	O
+6	Noor	noor	NNP	_	5	pobj	_	U-PERSON
+7	and	and	CC	_	6	cc	_	O
+8	her	her	PRP$	_	9	poss	_	O
+9	cubs	cub	NNS	pos2=NN	6	conj	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	Incredible	incredible	JJ	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	framed	frame	VBD	_	0	root	_	O
+3	this	this	DT	_	4	det	_	O
+4	wide	wide	JJ	pos2=NN	2	dobj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	show	show	VB	_	2	advcl	_	O
+7	the	the	DT	_	8	det	_	O
+8	family	family	NN	_	6	dobj	_	O
+9	...	..	.	_	2	punct	_	O
+
+1	https://t.co/9WL2meRiA9	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,23 @@
+1	HAHAHA	hahaha	UH	pos2=NNP	5	discourse	_	O
+2	HA	ha	UH	pos2=NNP	1	discourse	_	O
+3	"	"	``	pos2=''	5	punct	_	O
+4	MUH	muh	NN	pos2=NNP	5	compound	_	O
+5	SS	ss	NN	pos2=FW	0	root	_	O
+6	420	0	CD	_	5	npadvmod	_	U-CARDINAL
+7	"	"	``	pos2=''	5	punct	_	O
+8	MY	my	PRP$	_	11	poss	_	O
+9	SS	ss	NN	pos2=NNP	11	nmod	_	O
+10	420	0	CD	_	9	nmod	_	U-CARDINAL
+11	BLAZE	blaze	NN	pos2=NNP	6	pcomp	_	O
+12	IT	it	PRP	pos2=NN	11	dobj	_	O
+13	.	.	.	_	5	punct	_	O
+
+1	WTF	wtf	NN	pos2=NNP	5	compound	_	O
+2	nazi	nazi	NN	pos2=JJ	5	compound	_	O
+3	drug	drug	NN	_	4	compound	_	O
+4	smoker	smoker	NN	_	5	compound	_	O
+5	niggas	nigga	NNS	_	0	root	_	O
+6	in	in	IN	_	5	prep	_	O
+7	Volvos	volvos	NNP	pos2=NNPS	6	pobj	_	U-GPE
+8	?	?	.	_	5	punct	_	O
+

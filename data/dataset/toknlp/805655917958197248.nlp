@@ -1,0 +1,30 @@
+1	Agree	agree	VB	pos2=VBP	0	root	_	O
+2	w	w	IN	_	1	prep	_	O
+3	/	/	SYM	pos2=HYPH	2	punct	_	O
+4	no	no	DT	_	6	det	_	O
+5	death	death	NN	_	6	compound	_	O
+6	penalty	penalty	NN	_	2	pobj	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	UR	ur	NNP	pos2=NN	2	compound	_	O
+2	cafeteria	cafeteria	NN	pos2=FW	3	compound	_	O
+3	Catholic	catholic	NNP	pos2=JJ	6	nmod	_	O
+4	,	,	,	_	6	punct	_	O
+5	unless	unless	IN	_	7	mark	_	O
+6	U	u	NNP	pos2=JJ	7	nsubj	_	U-ORG
+7	object	object	NN	pos2=VBP	12	advcl	_	O
+8	to	to	IN	_	7	prep	_	O
+9	birth	birth	NN	_	10	compound	_	O
+10	control	control	NN	_	8	pobj	_	O
+11	,	,	,	_	3	punct	_	O
+12	same	same	JJ	_	14	nmod	_	O
+13	sex	sex	NN	_	14	compound	_	O
+14	marriage	marriage	NN	_	0	root	_	O
+15	,	,	,	_	3	punct	_	O
+16	communion	communion	NN	_	3	appos	_	O
+17	for	for	IN	_	16	prep	_	O
+18	divorced	divorced	JJ	pos2=VBN	20	advmod	_	O
+19	/	/	SYM	_	20	punct	_	O
+20	remarried	remarry	VBN	pos2=JJ	17	pobj	_	O
+21	.	.	.	_	3	punct	_	O
+

@@ -1,0 +1,30 @@
+1	@petestavros	@petestavros	UH	pos2=NNS	7	discourse	_	O
+2	@megynkelly	@megynkelly	XX	pos2=RB	7	dep	_	O
+3	lmao	lmao	UH	pos2=NN	7	discourse	_	O
+4	,	,	,	_	7	punct	_	O
+5	his	his	PRP$	_	6	poss	_	O
+6	words	word	NNS	_	7	nsubj	_	O
+7	made	make	VBD	pos2=VBN	0	root	_	O
+8	her	her	PRP	_	10	nsubj	_	O
+9	a	a	DT	_	10	det	_	O
+10	hostage	hostage	NN	_	7	ccomp	_	O
+11	?	?	.	_	7	punct	_	O
+
+1	Wow	wow	UH	_	3	discourse	_	O
+2	that	that	DT	_	3	nsubj	_	O
+3	s	s	VBZ	_	9	ccomp	_	O
+4	pathetic	pathetic	JJ	_	3	acomp	_	O
+5	,	,	,	_	9	punct	_	O
+6	maybe	maybe	RB	_	9	advmod	_	O
+7	she	she	PRP	_	9	nsubj	_	O
+8	should	should	MD	_	9	aux	_	O
+9	interview	interview	VB	_	0	root	_	O
+10	a	a	DT	_	12	det	_	O
+11	real	real	JJ	_	12	nmod	_	O
+12	pow	pow	NN	_	9	dobj	_	O
+13	and	and	CC	_	9	cc	_	O
+14	grow	grow	VB	_	9	conj	_	O
+15	the	the	DT	_	16	det	_	O
+16	f	f	NN	pos2=XX	14	dobj	_	O
+17	up	up	RP	pos2=RB	14	prt	_	O
+

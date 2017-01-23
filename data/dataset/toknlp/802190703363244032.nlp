@@ -1,0 +1,22 @@
+1	#Israeli	#israeli	NNP	pos2=PRP$	2	compound	_	O
+2	Occupation	occupation	NNP	pos2=NN	3	nsubj	_	U-EVENT
+3	shot	shoot	VBD	pos2=NN	0	root	_	O
+4	dead	dead	JJ	pos2=RB	3	oprd	_	O
+5	a	a	DT	_	6	det	_	O
+6	#Palestinian	#palestinian	NN	pos2=NNP	3	dobj	_	O
+7	at	at	IN	_	3	prep	_	O
+8	the	the	DT	_	10	det	_	B-ORG
+9	Shufat	shufat	NNP	_	10	compound	_	I-ORG
+10	Checkpoint	checkpoint	NNP	pos2=NN	7	pobj	_	L-ORG
+11	in	in	IN	pos2=RB	10	prep	_	O
+12	Occupied	occupied	NNP	pos2=VBN	13	compound	_	O
+13	#Jerusalem	#jerusalem	NNP	pos2=NN	11	pobj	_	O
+14	.	.	.	_	3	punct	_	O
+
+1	Victim	victim	NN	_	4	nsubj	_	O
+2	has	have	VBZ	_	4	aux	_	O
+3	not	not	RB	_	4	neg	_	O
+4	been	be	VBN	_	0	root	_	O
+5	…	…	NFP	pos2=VBG	6	punct	_	O
+6	https://t.co/HUdcqH0P33	#hlink#	ADD	_	4	attr	_	U-ORG
+

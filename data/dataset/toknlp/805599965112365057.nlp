@@ -1,0 +1,26 @@
+1	@The_NewRight	@the_newright	NNP	pos2=ADD	7	vocative	_	O
+2	How	how	WRB	_	3	advmod	_	O
+3	many	many	JJ	_	7	nsubj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	Cuba	cuba	NNP	_	6	compound	_	U-GPE
+6	problems	problem	NNS	_	4	pobj	_	O
+7	reflect	reflect	VBP	_	0	root	_	O
+8	US	us	NNP	_	9	compound	_	U-GPE
+9	embargo	embargo	NN	pos2=VB	7	dobj	_	O
+10	?	?	.	_	7	punct	_	O
+
+1	Cuba	cuba	NNP	_	3	nsubj	_	U-GPE
+2	much	much	RB	_	3	advmod	_	O
+3	poorer	poor	JJR	_	0	root	_	O
+4	than	than	IN	_	3	prep	_	O
+5	US	us	NNP	_	4	pobj	_	U-GPE
+6	but	but	CC	_	3	cc	_	O
+7	has	have	VBZ	_	3	conj	_	O
+8	similar	similar	JJ	_	10	nmod	_	O
+9	life	life	NN	_	10	compound	_	O
+10	expectancy	expectancy	NN	_	7	dobj	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	Why	why	WRB	_	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+

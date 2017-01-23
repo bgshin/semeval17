@@ -1,0 +1,19 @@
+1	ICYMI	icymi	NN	pos2=NNP	9	dep	_	O
+2	:	:	:	_	9	punct	_	O
+3	How	how	WRB	_	9	advmod	_	O
+4	a	a	DT	_	8	det	_	O
+5	legendary	legendary	JJ	_	8	nmod	_	O
+6	Tipp	tipp	NNP	_	7	compound	_	B-ORG
+7	Hill	hill	NNP	_	8	compound	_	L-ORG
+8	bar	bar	NN	_	9	nsubj	_	O
+9	helped	help	VBD	_	0	root	_	O
+10	rebuild	rebuild	VB	_	9	xcomp	_	O
+11	a	a	DT	_	12	det	_	O
+12	minister	minister	NN	_	17	poss	_	O
+13	's	's	POS	_	12	case	_	O
+14	burned	burn	VBN	_	17	nmod	_	O
+15	-	-	HYPH	_	14	punct	_	O
+16	out	out	RP	_	14	prt	_	O
+17	home	home	NN	pos2=RB	10	advmod	_	O
+18	https://t.co/7d1fL6Xgtb	#hlink#	ADD	pos2=NN	10	dobj	_	U-TIME
+

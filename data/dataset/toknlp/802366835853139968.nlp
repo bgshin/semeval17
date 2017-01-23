@@ -1,0 +1,13 @@
+1	More	more	JJR	_	3	qmod	_	B-CARDINAL
+2	Than	than	IN	_	3	qmod	_	I-CARDINAL
+3	100	0	CD	_	7	nmod	_	L-CARDINAL
+4	State	state	NNP	pos2=NN	7	nmod	_	U-ORG
+5	and	and	CC	_	4	cc	_	O
+6	Local	local	JJ	pos2=NNP	4	conj	_	O
+7	Governments	government	NNPS	pos2=NNP	8	nsubj	_	O
+8	Considering	consider	VBG	pos2=GW	0	root	_	O
+9	Anti-TPP	anti-tpp	NN	pos2=NNP	8	dobj	_	O
+10	...	..	.	pos2=,	8	punct	_	O
+
+1	https://t.co/o1FE8m2OwB	#hlink#	ADD	_	0	root	_	U-ORG
+

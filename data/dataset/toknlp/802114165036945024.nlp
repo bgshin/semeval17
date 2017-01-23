@@ -1,0 +1,12 @@
+1	https://t.co/yUbO4cAYE6	#hlink#	ADD	_	5	dep	_	O
+2	<	<	-RRB-	pos2=XX	5	punct	_	O
+3	-	-	:	pos2=,	5	punct	_	O
+4	The	the	DT	_	5	det	_	O
+5	Magnificence	magnificence	NN	pos2=NNP	0	root	_	O
+6	Of	of	IN	pos2=NNP	5	prep	_	O
+7	Minka	minka	NNP	_	8	compound	_	O
+8	#nsfw	#nsfw	NNP	pos2=XX	6	pobj	_	O
+9	#bath	#bath	UH	pos2=XX	5	prep	_	O
+10	#bubble	#bubble	UH	pos2=XX	5	prep	_	O
+11	#onedirection	#onedirection	UH	pos2=NN	5	prep	_	O
+

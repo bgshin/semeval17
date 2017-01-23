@@ -1,0 +1,17 @@
+1	#Sports	#sports	VBZ	pos2=NNS	0	root	_	O
+2	Paul	paul	NNP	_	6	compound	_	B-PERSON
+3	Millsap	millsap	NNP	_	6	compound	_	I-PERSON
+4	Al	al	NNP	_	6	compound	_	I-PERSON
+5	Horford	horford	NNP	_	6	compound	_	I-PERSON
+6	Sefolosha	sefolosha	NNP	_	1	nsubj	_	L-PERSON
+7	2015	0	CD	_	9	qmod	_	B-DATE
+8	-	-	SYM	pos2=HYPH	9	punct	_	I-DATE
+9	16	0	CD	_	10	nmod	_	L-DATE
+10	Gold	gold	NN	pos2=NNP	14	nmod	_	O
+11	Standard	standard	JJ	pos2=NNP	14	nmod	_	O
+12	Triple	triple	NNP	_	13	compound	_	O
+13	Trios	trio	NNPS	pos2=NNP	14	compound	_	O
+14	P	p	NN	pos2=GW	15	dep	_	O
+15	https://t.co/dQlLCQX1Dn	#hlink#	ADD	_	0	root	_	O
+16	#Like	#like	-RRB-	pos2=ADD	15	punct	_	O
+

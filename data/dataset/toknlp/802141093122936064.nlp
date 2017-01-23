@@ -1,0 +1,16 @@
+1	Election	election	NN	pos2=NNP	3	compound	_	B-ORG
+2	Interference	interference	NNP	pos2=NN	3	compound	_	I-ORG
+3	Comey	comey	NNP	_	7	nsubj	_	L-ORG
+4	and	and	CC	_	3	cc	_	O
+5	she	she	PRP	_	7	nsubj	_	O
+6	still	still	RB	_	7	advmod	_	O
+7	won	win	VBD	_	0	root	_	O
+8	2million	0million	CD	_	7	dobj	_	U-CARDINAL
+9	+	+	SYM	_	8	punct	_	O
+10	popular	popular	JJ	_	11	nmod	_	O
+11	vote	vote	NN	pos2=FW	7	dobj	_	O
+12	#stillwithher	#stillwithher	IN	pos2=NN	7	prep	_	O
+13	#AuditTheVote	#auditthevote	GW	pos2=ADD	15	nmod	_	B-PERSON
+14	#Recount2016	#recount0	GW	pos2=NN	15	nmod	_	L-PERSON
+15	https://t.co/5ShHx2Moa9	#hlink#	ADD	pos2=NN	7	dep	_	O
+

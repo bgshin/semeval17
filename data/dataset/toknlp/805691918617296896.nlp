@@ -1,0 +1,32 @@
+1	The	the	DT	_	3	det	_	O
+2	other	other	JJ	_	3	nmod	_	O
+3	day	day	NN	_	5	npadvmod	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	went	go	VBD	_	0	root	_	O
+6	on	on	IN	_	5	prep	_	O
+7	a	a	DT	_	8	det	_	O
+8	date	date	NN	_	6	pobj	_	O
+9	&	&	CC	_	5	cc	_	O
+10	this	this	DT	_	11	det	_	O
+11	guy	guy	NN	_	12	nsubj	_	O
+12	asked	ask	VBD	_	5	conj	_	O
+13	me	me	PRP	_	12	dobj	_	O
+14	why	why	WRB	_	15	advmod	_	O
+15	was	be	VBD	_	17	aux	_	O
+16	I	I	PRP	_	17	nsubj	_	O
+17	wearing	wear	VBG	_	12	ccomp	_	O
+18	my	my	PRP$	_	20	poss	_	O
+19	Cubs	cub	NNPS	pos2=NNP	20	compound	_	U-ORG
+20	jersey	jersey	NN	pos2=NNP	17	dobj	_	O
+21	if	if	IN	_	24	mark	_	O
+22	that	that	DT	_	24	nsubj	_	O
+23	already	already	RB	_	24	advmod	_	O
+24	passed	pass	VBN	pos2=VBD	17	advcl	_	O
+25	...	..	.	pos2=,	12	punct	_	O
+
+1	niggaaaaa	niggaaaaa	NN	pos2=NNS	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	you	you	PRP	pos2=VBG	2	nsubj	_	O
+4	fr	fr	JJ	pos2=IN	2	acomp	_	O
+5	rn😐🙄	rn😐🙄	.	pos2=NN	2	punct	_	O
+

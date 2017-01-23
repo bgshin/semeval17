@@ -1,0 +1,29 @@
+1	@PayDownTheDebt	@paydownthedebt	NN	pos2=SYM	2	nsubj	_	O
+2	Awesome	awesome	JJ	pos2=NNP	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	To	to	IN	_	10	prep	_	O
+2	those	those	DT	_	3	det	_	O
+3	seniors	senior	NNS	_	1	pobj	_	O
+4	who	who	WP	_	5	nsubj	_	O
+5	voted	vote	VBD	_	3	relcl	_	O
+6	for	for	IN	_	5	prep	_	O
+7	Trump	trump	NNP	pos2=NN	6	pobj	_	U-PERSON
+8	,	,	,	_	10	punct	_	O
+9	you	you	PRP	_	10	nsubj	_	O
+10	are	be	VBP	_	0	root	_	O
+11	about	about	JJ	pos2=IN	10	acomp	_	O
+12	to	to	TO	_	13	aux	_	O
+13	lose	lose	VB	_	11	xcomp	_	O
+14	your	your	PRP$	_	15	poss	_	O
+15	MEDICARE	medicare	NN	pos2=NNP	13	dobj	_	O
+16	AND	and	CC	_	15	cc	_	O
+17	SOCIAL	social	JJ	pos2=NNP	18	nmod	_	O
+18	SECURITY	security	NN	pos2=NNP	15	conj	_	O
+19	.	.	.	_	10	punct	_	O
+
+1	THINK	think	VB	pos2=NN	0	root	_	O
+2	ABOUT	about	IN	_	1	prep	_	O
+3	THAT	that	DT	pos2=FW	2	pobj	_	O
+4	!	!	.	_	1	punct	_	O
+

@@ -1,0 +1,27 @@
+1	@KremlinTrolls	@kremlintrolls	VBZ	pos2=NNP	0	root	_	O
+2	Putin	putin	NNP	_	3	nsubj	_	U-PERSON
+3	looks	look	VBZ	_	1	ccomp	_	O
+4	like	like	IN	_	6	mark	_	O
+5	he	he	PRP	_	6	nsubj	_	O
+6	got	get	VBD	_	3	advcl	_	O
+7	the	the	DT	_	9	det	_	O
+8	worst	bad	JJS	_	9	nmod	_	O
+9	news	news	NN	_	6	dobj	_	O
+10	a	a	DT	_	12	det	_	O
+11	human	human	JJ	pos2=NN	12	nmod	_	O
+12	being	being	NN	_	15	nsubj	_	O
+13	ever	ever	RB	_	15	advmod	_	O
+14	could	could	MD	_	15	aux	_	O
+15	get	get	VB	_	9	relcl	_	O
+16	,	,	,	_	19	punct	_	O
+17	like	like	IN	pos2=UH	19	mark	_	O
+18	he	he	PRP	_	19	nsubj	_	O
+19	got	get	VBD	_	6	advcl	_	O
+20	the	the	DT	_	21	det	_	O
+21	wind	wind	NN	_	22	nsubj	_	O
+22	knocked	knock	VBD	pos2=VBN	19	ccomp	_	O
+23	out	out	IN	pos2=RP	22	prep	_	O
+24	of	of	IN	_	23	prep	_	O
+25	him	him	PRP	_	24	pobj	_	O
+26	.	.	.	_	1	punct	_	O
+

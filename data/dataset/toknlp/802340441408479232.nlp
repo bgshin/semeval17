@@ -1,0 +1,20 @@
+1	@OPP_HSD	@opp_hsd	NN	pos2=XX	13	npadvmod	_	O
+2	@RIDEcheck	@ridecheck	ADD	pos2=VB	13	punct	_	B-PERSON
+3	@DriveSober	@drivesober	NNP	pos2=IN	5	nmod	_	L-PERSON
+4	@MaddToronto	@maddtoronto	IN	pos2=POS	6	mark	_	O
+5	humans	human	NNS	_	6	nsubj	_	O
+6	are	be	VBP	_	1	advcl	_	O
+7	not	not	RB	_	6	neg	_	O
+8	responsible	responsible	JJ	_	9	nmod	_	O
+9	self	self	NN	_	10	npadvmod	_	O
+10	driving	drive	VBG	pos2=JJ	11	nmod	_	O
+11	cars	car	NNS	_	13	nsubj	_	O
+12	will	will	MD	_	13	aux	_	O
+13	become	become	VB	_	0	root	_	O
+14	safer	safe	JJR	_	13	acomp	_	O
+15	(	(	-LRB-	_	17	punct	_	O
+16	our	our	PRP$	_	17	poss	_	O
+17	future	future	NN	pos2=JJ	14	parataxis	_	O
+18	?	?	.	pos2=,	13	punct	_	O
+19	)	)	-RRB-	_	13	punct	_	O
+

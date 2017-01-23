@@ -1,0 +1,9 @@
+1	@BobbieHill	@bobbiehill	MD	pos2=UH	3	aux	_	O
+2	@freep	@freep	TO	pos2=NFP	3	aux	_	O
+3	Purge	purge	VB	_	8	advcl	_	O
+4	the	the	DT	_	7	det	_	O
+5	voter	voter	NN	_	6	compound	_	O
+6	registration	registration	NN	_	7	compound	_	O
+7	records	record	NNS	pos2=VBZ	3	dobj	_	O
+8	https://t.co/NywW8TAM5S	#hlink#	ADD	pos2=VBP	0	root	_	O
+

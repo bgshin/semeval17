@@ -1,0 +1,15 @@
+1	Review	review	NN	pos2=NNP	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	@HitTheMat	@hitthemat	NNP	pos2=NN	9	compound	_	O
+4	–	-	HYPH	pos2=:	9	punct	_	O
+5	Ashley	ashley	NNP	_	9	compound	_	O
+6	Graham	graham	NNP	_	9	compound	_	O
+7	POV	pov	NNP	_	9	compound	_	O
+8	Boxing	boxing	NNP	pos2=NN	9	compound	_	O
+9	Defeat	defeat	NNP	pos2=NN	2	pobj	_	O
+10	https://t.co/MDA8y6Cvte#Boxing	#hlink#	ADD	_	5	appos	_	O
+11	#Maledom	#maledom	NNP	pos2=-RRB-	12	nsubj	_	O
+12	#Defeated	#defeated	VBD	pos2=GW	1	prep	_	O
+13	…	…	NFP	pos2=-LRB-	12	punct	_	O
+14	https://t.co/1MutxKmFIG	#hlink#	ADD	_	12	pobj	_	O
+

@@ -1,0 +1,32 @@
+1	Assessment	assessment	NN	pos2=NNP	8	dep	_	O
+2	on	on	IN	_	1	prep	_	O
+3	2016	0	CD	_	2	pobj	_	U-DATE
+4	:	:	:	_	8	punct	_	O
+5	So	so	RB	_	6	advmod	_	O
+6	far	far	RB	_	8	advmod	_	O
+7	so	so	RB	_	8	advmod	_	O
+8	good	good	JJ	pos2=RB	0	root	_	O
+9	.	.	.	_	8	punct	_	O
+
+1	Naipasa	naipasa	NNP	pos2=NN	2	compound	_	O
+2	natin	natin	NN	pos2=NNP	4	compound	_	O
+3	ang	ang	VBG	pos2=NN	0	root	_	O
+4	Budget	budget	NNP	pos2=NN	3	dobj	_	O
+5	on	on	IN	_	3	prep	_	O
+6	time	time	NN	_	5	pobj	_	O
+7	for	for	IN	_	3	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	first	#ord#	JJ	_	10	nmod	_	U-ORDINAL
+10	time	time	NN	_	7	pobj	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	Hopefully	hopefully	RB	_	6	advmod	_	O
+2	next	next	RB	pos2=JJ	6	advmod	_	O
+3	,	,	,	_	8	punct	_	O
+4	maipasa	maipasa	VBG	pos2=XX	0	root	_	O
+5	na	na	XX	pos2=JJ	4	dep	_	O
+6	ang	ang	VBG	pos2=XX	8	nmod	_	O
+7	death	death	NN	_	8	compound	_	O
+8	penalty	penalty	NN	_	4	dobj	_	O
+9	.	.	.	_	4	punct	_	O
+

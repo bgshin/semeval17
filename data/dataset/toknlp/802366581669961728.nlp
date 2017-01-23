@@ -1,0 +1,26 @@
+1	@GOPocalypseNow	@gopocalypsenow	UH	pos2=ADD	4	discourse	_	O
+2	@JoyAnnReid	@joyannreid	NN	pos2=ADD	4	discourse	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	heard	hear	VBD	_	0	root	_	O
+5	someone	someone	NN	_	6	nsubj	_	O
+6	say	say	VB	pos2=VBP	4	ccomp	_	O
+7	elections	election	NNS	_	8	nsubj	_	O
+8	have	have	VBP	_	6	ccomp	_	O
+9	consequences	consequence	NNS	_	8	dobj	_	O
+10	....	..	.	_	4	punct	_	O
+
+1	Who	who	WP	_	2	attr	_	O
+2	was	be	VBD	_	0	root	_	O
+3	that	that	DT	_	2	nsubj	_	O
+4	?	?	.	_	2	punct	_	O
+
+1	Reid	reid	NNP	_	0	root	_	U-PERSON
+2	or	or	CC	_	1	cc	_	O
+3	Pelosi	pelosi	NNP	_	1	conj	_	U-PERSON
+4	?	?	.	_	1	punct	_	O
+
+1	oh	oh	UH	_	4	discourse	_	O
+2	yes	yes	UH	_	1	discourse	_	O
+3	,	,	,	_	4	punct	_	O
+4	obama	obama	NN	pos2=FW	0	root	_	O
+

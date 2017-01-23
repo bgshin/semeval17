@@ -1,0 +1,18 @@
+1	Was	be	VBD	_	0	root	_	O
+2	Muhammad	muhammad	NNP	_	5	compound	_	B-PERSON
+3	Ali	ali	NNP	_	5	compound	_	L-PERSON
+4	A	a	NNP	pos2=DT	5	compound	_	O
+5	Prophet	prophet	NNP	_	1	attr	_	O
+6	Or	or	CC	pos2=NNP	5	cc	_	O
+7	A	a	DT	_	8	det	_	O
+8	Phony	phony	JJ	pos2=NNP	5	conj	_	O
+9	?	?	.	_	1	punct	_	O
+
+1	CLICK	click	VB	pos2=NN	0	root	_	O
+2	HERE	here	RB	_	1	advmod	_	O
+3	https://t.co/U84qd6aUwk#Iuic	#hlink#	ADD	pos2=RBR	0	root	_	O
+4	#IsraelunitedinChrist	#israelunitedinchrist	-RRB-	pos2=ADD	3	punct	_	O
+5	#Israel	#israel	NNP	pos2=VB	6	compound	_	O
+6	#Israelites	#israelites	NNS	pos2=NNPS	7	compound	_	O
+7	#Blacktwitter	#blacktwitter	NNP	pos2=.	1	vocative	_	O
+

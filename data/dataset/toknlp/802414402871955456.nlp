@@ -1,0 +1,15 @@
+1	@Will3K85	@will0k0	NN	pos2=XX	0	root	_	O
+2	Much	much	RB	pos2=JJ	3	advmod	_	O
+3	like	like	IN	_	1	prep	_	O
+4	conservatives	conservative	NNS	_	3	pobj	_	O
+5	whining	whine	VBG	_	4	acl	_	O
+6	and	and	CC	_	5	cc	_	O
+7	moaning	moan	VBG	pos2=NN	5	conj	_	O
+8	over	over	IN	pos2=RP	7	prep	_	O
+9	Obama	obama	NNP	_	8	pobj	_	U-PERSON
+10	the	the	DT	_	13	det	_	B-DATE
+11	past	past	JJ	pos2=NN	13	nmod	_	I-DATE
+12	8	0	CD	_	13	nmod	_	I-DATE
+13	years	year	NNS	_	1	npadvmod	_	L-DATE
+14	.	.	.	_	1	punct	_	O
+

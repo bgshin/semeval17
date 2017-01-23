@@ -1,0 +1,33 @@
+1	Found	find	VBN	pos2=VBD	0	root	_	O
+2	:	:	:	_	1	punct	_	O
+3	My	my	PRP$	_	7	poss	_	O
+4	missing	miss	VBG	pos2=JJ	7	nmod	_	O
+5	Social	social	NNP	_	6	compound	_	B-ORG
+6	Security	security	NNP	_	7	compound	_	I-ORG
+7	Card	card	NNP	pos2=NN	1	dep	_	L-ORG
+8	,	,	,	_	7	punct	_	O
+9	my	my	PRP$	_	11	poss	_	O
+10	car	car	NN	_	11	compound	_	O
+11	title	title	NN	_	7	appos	_	O
+12	,	,	,	_	7	punct	_	O
+13	and	and	CC	_	7	cc	_	O
+14	a	a	DT	_	18	det	_	O
+15	$	$	$	_	16	nmod	_	O
+16	8.46	0	CD	_	18	nmod	_	U-MONEY
+17	un-cashed	un-cashed	JJ	pos2=CD	18	nmod	_	O
+18	check	check	NN	pos2=VB	7	conj	_	O
+19	.	.	.	_	1	punct	_	O
+
+1	Still	still	RB	_	2	advmod	_	O
+2	Missing	miss	VBG	pos2=NNP	0	root	_	O
+3	:	:	:	_	2	punct	_	O
+4	A	a	DT	pos2=VB	8	det	_	O
+5	$	$	$	_	6	nmod	_	O
+6	50	0	CD	_	8	nmod	_	U-MONEY
+7	key	key	JJ	pos2=NN	8	nmod	_	O
+8	fob	fob	NN	_	2	dobj	_	O
+9	,	,	,	_	8	punct	_	O
+10	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/F00GjDKTm3	#hlink#	ADD	_	0	root	_	U-ORG
+

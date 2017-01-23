@@ -1,0 +1,15 @@
+1	does	do	VBZ	_	3	aux	_	O
+2	anyone	anyone	NN	_	3	nsubj	_	O
+3	knows	know	VBZ	_	0	root	_	O
+4	where	where	WRB	_	7	advmod	_	O
+5	can	can	MD	_	7	aux	_	O
+6	i	I	PRP	_	7	nsubj	_	O
+7	buy	buy	VB	_	3	ccomp	_	O
+8	#Hatchimals	#hatchimals	NNS	pos2=NNP	7	dobj	_	O
+9	in	in	IN	_	7	prep	_	O
+10	#london	#london	NNP	pos2=NN	9	pobj	_	U-GPE
+11	?	?	.	_	3	punct	_	O
+
+1	#soldouteverywhere	#soldouteverywhere	UH	pos2=RB	2	discourse	_	O
+2	#help	#help	UH	pos2=NN	0	root	_	O
+

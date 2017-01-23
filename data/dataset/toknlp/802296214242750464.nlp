@@ -1,0 +1,21 @@
+1	@moshekasher	@moshekasher	UH	pos2=NN	3	discourse	_	O
+2	for	for	IN	_	0	root	_	O
+3	s	s	POS	pos2=DT	2	pobj	_	O
+4	second	#ord#	RB	pos2=JJ	5	advmod	_	U-ORDINAL
+5	there	there	RB	_	1	advmod	_	O
+6	...	..	.	pos2=,	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	thought	think	VBD	_	0	root	_	O
+3	this	this	DT	_	4	nsubj	_	O
+4	was	be	VBD	_	2	ccomp	_	O
+5	a	a	DT	_	6	det	_	O
+6	picture	picture	NN	_	4	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	kim	kim	NNP	pos2=NN	10	nmod	_	B-PERSON
+9	jong	jong	FW	pos2=NNP	10	nmod	_	I-PERSON
+10	un	un	NNP	pos2=NN	7	pobj	_	L-PERSON
+11	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/j4YSeKfKTq	#hlink#	ADD	_	0	root	_	U-ORG
+

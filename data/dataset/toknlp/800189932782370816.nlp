@@ -1,0 +1,8 @@
+1	"	"	``	pos2=SYM	3	punct	_	O
+2	Fatty	fatty	NNP	pos2=JJ	3	compound	_	B-PERSON
+3	Kim	kim	NNP	_	7	nmod	_	L-PERSON
+4	The	the	DT	pos2=NNP	5	det	_	O
+5	Third	#ord#	NNP	pos2=JJ	3	appos	_	U-ORDINAL
+6	"	"	''	pos2=``	7	punct	_	O
+7	😭😭😭	😭😭😭	NN	pos2=.	0	root	_	O
+

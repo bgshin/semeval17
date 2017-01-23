@@ -1,0 +1,15 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=GW	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	https://t.co/Di8bdnSzKr	#hlink#	ADD	pos2=NNP	1	appos	_	O
+7	CRISTIANO	cristiano	NNP	pos2=NN	10	compound	_	O
+8	RONALDO	ronaldo	NNP	_	10	compound	_	O
+9	Crazy	crazy	NNP	_	10	compound	_	O
+10	Speed	speed	NNP	pos2=NN	5	appos	_	O
+11	's	's	POS	_	10	case	_	O
+12	&	&	CC	pos2=``	10	cc	_	O
+13	Perfect	perfect	JJ	pos2=NNP	14	nmod	_	O
+14	Skills	skill	NNS	pos2=NNPS	10	conj	_	O
+

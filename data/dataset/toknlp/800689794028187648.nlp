@@ -1,0 +1,21 @@
+1	#Russian	#russian	JJ	pos2=NN	2	nmod	_	O
+2	media	medium	NNS	pos2=NN	4	dep	_	O
+3	:	:	:	_	4	punct	_	O
+4	Is	be	VBZ	_	0	root	_	O
+5	Mikheil	mikheil	NNP	_	6	compound	_	B-PERSON
+6	Saakashvili	saakashvili	NNP	_	7	nsubj	_	L-PERSON
+7	planning	plan	VBG	pos2=NN	2	appos	_	O
+8	new	new	JJ	_	9	nmod	_	O
+9	revolution	revolution	NN	_	7	dobj	_	O
+10	in	in	IN	_	9	prep	_	O
+11	Ukraine	ukraine	NNP	_	10	pobj	_	U-GPE
+12	?	?	.	_	4	punct	_	O
+
+1	:	:	:	pos2=SYM	4	punct	_	O
+2	Former	former	JJ	_	4	nmod	_	O
+3	Georgian	georgian	JJ	_	4	nmod	_	U-NORP
+4	President	president	NNP	_	7	nmod	_	O
+5	and	and	CC	_	4	cc	_	O
+6	…	…	NFP	pos2=-LRB-	4	conj	_	O
+7	https://t.co/NqH3IGapHY	#hlink#	ADD	_	0	root	_	O
+

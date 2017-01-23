@@ -1,0 +1,13 @@
+1	Cosmetics	cosmetic	NNS	_	2	compound	_	O
+2	makers	maker	NNS	_	3	nsubj	_	O
+3	continue	continue	VBP	pos2=VB	0	root	_	O
+4	shift	shift	VB	pos2=VBP	3	xcomp	_	O
+5	away	away	RB	_	4	advmod	_	O
+6	from	from	IN	_	5	prep	_	O
+7	animal	animal	NN	_	12	dep	_	O
+8	testing：The	testing：the	NNP	pos2=XX	10	compound	_	B-ORG
+9	Asahi	asahi	NNP	_	10	compound	_	I-ORG
+10	Shimbun	shimbun	NNP	pos2=GW	12	dep	_	L-ORG
+11	https://t.co/K1OpEEhNtr	#hlink#	ADD	_	12	nmod	_	O
+12	https://t.co/2ody9BcFHg	#hlink#	ADD	_	4	dobj	_	U-ORG
+

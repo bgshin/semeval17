@@ -1,0 +1,16 @@
+1	@z9bill	@z0bill	UH	pos2=LS	4	discourse	_	O
+2	@NateSilver538	@natesilver0	UH	pos2=VBP	4	discourse	_	O
+3	she	she	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	buddies	buddy	NNS	_	4	attr	_	O
+6	with	with	IN	_	5	prep	_	O
+7	Putin	putin	NNP	_	6	pobj	_	U-PERSON
+8	-	-	HYPH	pos2=,	12	punct	_	O
+9	she	she	PRP	_	12	nsubj	_	O
+10	ai	be	VBZ	pos2=VBP	12	aux	_	O
+11	n't	not	RB	_	12	neg	_	O
+12	messing	mess	VBG	_	4	advcl	_	O
+13	with	with	IN	_	12	prep	_	O
+14	Trumps	trumps	NNP	pos2=NNPS	15	compound	_	U-PERSON
+15	chances	chance	NNS	_	13	pobj	_	O
+

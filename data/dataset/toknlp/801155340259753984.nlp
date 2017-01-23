@@ -1,0 +1,32 @@
+1	"	"	``	_	3	punct	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	condemn	condemn	VBP	_	0	root	_	O
+4	them	them	PRP	_	3	dobj	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	disavow	disavow	VBP	_	0	root	_	O
+3	and	and	CC	_	2	cc	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	condemn	condemn	VBP	_	2	conj	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	All	all	DT	pos2=RB	5	det	_	O
+2	you	you	PRP	pos2=PRP$	5	nmod	_	O
+3	alt	alt	JJ	pos2=VBP	5	nmod	_	O
+4	-	-	HYPH	_	5	punct	_	O
+5	rightists	rightist	NNS	_	0	appos	_	O
+6	bound	bind	VBN	_	5	acl	_	O
+7	to	to	TO	_	8	aux	_	O
+8	lose	lose	VB	_	6	xcomp	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	times	time	NNS	_	8	dep	_	O
+3	they	they	PRP	_	4	nsubj	_	O
+4	are	be	VBP	_	2	relcl	_	O
+5	a	a	DT	_	6	det	_	O
+6	changin	changin	NN	pos2=JJ	8	nmod	_	O
+7	"	"	''	pos2=``	8	punct	_	O
+8	https://t.co/mnMDUbeYCD	#hlink#	ADD	pos2=NN	0	root	_	O
+

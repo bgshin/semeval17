@@ -1,0 +1,15 @@
+1	@nycsouthpaw	@nycsouthpaw	UH	pos2=IN	5	discourse	_	O
+2	he	he	PRP	_	5	nsubj	_	O
+3	should	should	MD	_	5	aux	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	have	have	VB	_	0	root	_	O
+6	Melania	melania	NNP	pos2=TO	7	nsubj	_	U-PERSON
+7	go	go	VB	pos2=VBP	5	ccomp	_	O
+8	deliver	deliver	VB	pos2=IN	7	advcl	_	O
+9	Obama	obama	NNP	_	13	poss	_	U-ORG
+10	’s	's	POS	_	9	case	_	O
+11	2008	0	CD	_	13	nmod	_	U-DATE
+12	race	race	NN	_	13	compound	_	O
+13	speech	speech	NN	_	8	dobj	_	O
+14	.	.	.	_	5	punct	_	O
+

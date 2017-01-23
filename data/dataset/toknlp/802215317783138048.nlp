@@ -1,0 +1,15 @@
+1	See	see	VB	_	0	root	_	O
+2	how	how	WRB	_	11	advmod	_	O
+3	Eva	eva	NNP	_	4	compound	_	B-PERSON
+4	Longoria	longoria	NNP	_	11	nsubj	_	L-PERSON
+5	,	,	,	_	4	punct	_	O
+6	Gwyneth	gwyneth	NNP	_	7	compound	_	B-PERSON
+7	Paltrow	paltrow	NNP	_	4	conj	_	L-PERSON
+8	and	and	CC	_	7	cc	_	O
+9	other	other	JJ	_	10	nmod	_	O
+10	stars	star	NNS	_	7	conj	_	O
+11	celebrated	celebrate	VBD	pos2=VBN	1	ccomp	_	O
+12	Thanksgiving	thanksgiving	NNP	pos2=GW	14	nmod	_	U-DATE
+13	https://t.co/Cm01wdR8KE	#hlink#	ADD	_	14	nmod	_	O
+14	https://t.co/W1h6JR2r4w	#hlink#	ADD	_	11	dobj	_	U-ORG
+

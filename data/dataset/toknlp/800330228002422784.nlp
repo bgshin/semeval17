@@ -1,0 +1,16 @@
+1	Latest	late	JJS	_	5	nmod	_	O
+2	Russia	russia	NNP	_	3	compound	_	B-ORG
+3	News	news	NNP	pos2=GW	0	root	_	L-ORG
+4	https://t.co/HMTCiKrwRt:	#hlink#	ADD	pos2=NNP	0	root	_	O
+5	Ukraine	ukraine	NNP	_	7	nsubj	_	U-GPE
+6	is	be	VBZ	_	7	aux	_	O
+7	considering	consider	VBG	_	4	ccomp	_	O
+8	extradi	extradi	NNS	pos2=NN	7	dobj	_	O
+9	..	..	.	pos2=,	7	punct	_	O
+
+1	#TISNews	#tisnews	NNS	pos2=UH	0	root	_	O
+2	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/dtFif11OAm	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/eTlrRYHqZY	#hlink#	ADD	_	0	root	_	U-ORG
+

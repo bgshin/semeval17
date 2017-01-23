@@ -1,0 +1,18 @@
+1	most	most	JJS	_	6	nsubjpass	_	O
+2	of	of	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	fires	fire	NNS	_	2	pobj	_	O
+5	were	be	VBD	_	6	auxpass	_	O
+6	caused	cause	VBN	_	0	root	_	O
+7	by	by	IN	_	6	agent	_	O
+8	extreme	extreme	JJ	_	10	nmod	_	O
+9	wind	wind	NN	_	10	compound	_	O
+10	gusts	gust	NNS	_	7	pobj	_	O
+11	and	and	CC	_	10	cc	_	O
+12	drought	drought	NN	_	10	conj	_	O
+13	https://t.co/SSKjTaqicU	#hlink#	ADD	pos2=NN	17	dep	_	O
+14	…	…	NFP	pos2=-RRB-	17	punct	_	O
+15	#Israel	#israel	NNP	pos2=VB	16	compound	_	B-PERSON
+16	#Palestine	#palestine	NNP	pos2=ADD	17	dep	_	L-PERSON
+17	@GolanMay	@golanmay	ADD	pos2=NN	6	punct	_	O
+

@@ -1,0 +1,19 @@
+1	Why	why	WRB	_	6	advmod	_	O
+2	do	do	VBP	_	6	aux	_	O
+3	nt	nt	RB	_	6	advmod	_	O
+4	you	you	PRP	_	6	nsubj	_	O
+5	also	also	RB	_	6	advmod	_	O
+6	publish	publish	VBP	pos2=VB	0	root	_	O
+7	the	the	DT	_	8	det	_	O
+8	views	view	NNS	pos2=NN	6	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	Kim	kim	NNP	_	12	compound	_	B-PERSON
+11	Jong	jong	NNP	_	12	compound	_	I-PERSON
+12	Un	un	NNP	_	9	pobj	_	L-PERSON
+13	,	,	,	_	12	punct	_	O
+14	Kabila	kabila	NNP	_	12	conj	_	U-PERSON
+15	etc	etc	FW	pos2=NNP	14	advmod	_	O
+16	?	?	.	_	6	punct	_	O
+
+1	https://t.co/bORwYZODo0	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,25 @@
+1	Animal	animal	NN	pos2=JJ	2	compound	_	O
+2	testing	testing	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	sadest	sad	JJS	pos2=JJ	6	nmod	_	O
+6	thing	thing	NN	_	3	attr	_	O
+7	I	I	PRP	_	10	nsubj	_	O
+8	have	have	VBP	_	10	aux	_	O
+9	ever	ever	RB	_	10	advmod	_	O
+10	had	have	VBN	_	6	relcl	_	O
+11	to	to	TO	pos2=IN	12	aux	_	O
+12	research	research	VB	pos2=NN	10	xcomp	_	O
+13	and	and	CC	_	3	cc	_	O
+14	I	I	PRP	_	17	nsubj	_	O
+15	've	have	VBP	_	17	aux	_	O
+16	actually	actually	RB	_	17	advmod	_	O
+17	broken	break	VBN	_	3	conj	_	O
+18	into	into	IN	_	17	prep	_	O
+19	tears	tear	NNS	_	18	pobj	_	O
+20	while	while	IN	_	21	mark	_	O
+21	writing	write	VBG	_	17	advcl	_	O
+22	this	this	DT	_	23	det	_	O
+23	paper	paper	NN	_	21	dobj	_	O
+24	.	.	.	_	17	punct	_	O
+

@@ -1,0 +1,11 @@
+1	Niall	niall	NNP	_	3	poss	_	U-PERSON
+2	's	's	POS	_	1	case	_	O
+3	arms	arm	NNS	_	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	perfect	perfect	JJ	_	4	acomp	_	O
+6	!	!	.	_	4	punct	_	O
+
+1	#MPN	#mpn	GW	pos2=NFP	3	nmod	_	O
+2	#OneDirection	#onedirection	GW	pos2=ADD	3	nmod	_	O
+3	https://t.co/1WpEdO3Glb	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

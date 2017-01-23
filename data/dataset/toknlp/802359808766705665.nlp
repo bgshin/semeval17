@@ -1,0 +1,26 @@
+1	@Sabanocchio	@sabanocchio	NNP	pos2=UH	6	nsubj	_	O
+2	Oh	oh	UH	_	6	discourse	_	O
+3	,	,	,	_	6	punct	_	O
+4	there	there	EX	_	6	expl	_	O
+5	's	's	VBZ	_	6	aux	_	O
+6	going	go	VBG	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	be	be	VB	_	6	xcomp	_	O
+9	the	the	DT	_	11	det	_	O
+10	biggest	big	JJS	_	11	nmod	_	O
+11	effort	effort	NN	_	8	attr	_	O
+12	in	in	IN	_	11	prep	_	O
+13	my	my	PRP$	_	14	poss	_	O
+14	lifetime	lifetime	NN	_	12	pobj	_	O
+15	to	to	TO	_	16	aux	_	O
+16	destroy	destroy	VB	_	11	acl	_	O
+17	SS	ss	NN	pos2=NNP	16	dobj	_	U-ORG
+18	and	and	CC	_	17	cc	_	O
+19	Medicare	medicare	NNP	pos2=NN	17	conj	_	U-ORG
+20	.	.	.	_	6	punct	_	O
+
+1	We	we	PRP	_	3	nsubj	_	O
+2	will	will	MD	_	3	aux	_	O
+3	see	see	VB	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+

@@ -1,0 +1,7 @@
+1	https://t.co/km3jJ8vCWUMary	#hlink#	ADD	pos2=NNP	3	nsubj	_	O
+2	Meeker	meeker	NNP	_	3	nsubj	_	U-PERSON
+3	highlights	highlight	VBZ	_	0	root	_	O
+4	US	us	NNP	_	5	compound	_	U-GPE
+5	immigration	immigration	NN	_	6	compound	_	O
+6	hypocrisy@Anaxagoreio	hypocrisy@anaxagoreio	NNP	pos2=.	3	dobj	_	O
+

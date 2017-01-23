@@ -1,0 +1,34 @@
+1	@chriscolfer	@chriscolfer	UH	pos2=DT	0	root	_	O
+2	jealosy	jealosy	NN	pos2=LS	1	vocative	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	remmember	remmember	VBP	pos2=VBD	0	root	_	O
+3	Ricky	ricky	NNP	_	4	compound	_	B-PERSON
+4	Martin	martin	NNP	_	2	dobj	_	L-PERSON
+5	,	,	,	_	4	punct	_	O
+6	The	the	DT	_	7	det	_	O
+7	body	body	NN	_	4	appos	_	O
+8	?	?	.	_	2	punct	_	O
+
+1	Is	be	VBZ	_	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	body	body	NN	_	6	nmod	_	O
+4	os	os	FW	pos2=VBZ	6	nmod	_	O
+5	natural	natural	JJ	_	6	nmod	_	O
+6	force	force	NN	_	1	nsubj	_	O
+7	,	,	,	_	1	punct	_	O
+8	True	true	JJ	_	1	acomp	_	O
+9	?	?	.	_	1	punct	_	O
+
+1	You	you	PRP	_	3	nsubj	_	O
+2	have	have	VBP	_	3	aux	_	O
+3	destroy	destroy	VB	pos2=VBN	0	root	_	O
+4	my	my	PRP$	_	5	poss	_	O
+5	illusion	illusion	NN	_	3	dobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	Because	because	IN	_	0	root	_	O
+2	John	john	NNP	_	0	root	_	U-PERSON
+3	...	..	.	pos2=,	2	punct	_	O
+

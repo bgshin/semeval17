@@ -1,0 +1,16 @@
+1	Kelly	kelly	NNP	_	2	compound	_	B-PERSON
+2	Brook	brook	NNP	_	3	nsubj	_	L-PERSON
+3	reveals	reveal	VBZ	_	0	root	_	O
+4	Baywatch	baywatch	NNP	_	5	compound	_	O
+5	role	role	NN	_	3	dobj	_	O
+6	with	with	IN	_	5	prep	_	O
+7	Zac	zac	NNP	_	8	compound	_	B-PERSON
+8	Efron	efron	NNP	_	6	pobj	_	L-PERSON
+9	and	and	CC	_	8	cc	_	O
+10	The	the	DT	_	11	det	_	O
+11	Rock	rock	NNP	_	8	conj	_	U-ORG
+12	...	..	.	pos2=,	3	punct	_	O
+
+1	https://t.co/fjfVB3X2lD	#hlink#	ADD	_	2	nsubj	_	O
+2	#zacefron	#zacefron	ADD	pos2=-RRB-	0	root	_	O
+

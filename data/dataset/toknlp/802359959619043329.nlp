@@ -1,0 +1,26 @@
+1	@CarolFo40636667	@carolfo0	LS	pos2=VBZ	4	advmod	_	O
+2	My	my	PRP$	_	3	poss	_	O
+3	thoughts	thought	NNS	_	1	dobj	_	O
+4	exactly	exactly	RB	_	0	root	_	O
+5	!	!	.	_	1	punct	_	O
+
+1	Same	same	JJ	_	15	dep	_	O
+2	with	with	IN	_	1	prep	_	O
+3	seniors	senior	NNS	_	2	pobj	_	O
+4	hearing	hear	VBG	_	2	pcomp	_	O
+5	about	about	IN	_	4	prep	_	O
+6	loss	loss	NN	_	5	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	Medicare	medicare	NNP	pos2=NN	7	pobj	_	U-ORG
+9	,	,	,	_	15	punct	_	O
+10	hello	hello	UH	_	15	discourse	_	O
+11	,	,	,	_	15	punct	_	O
+12	did	do	VBD	_	15	aux	_	O
+13	you	you	PRP	_	15	nsubj	_	O
+14	not	not	RB	_	15	neg	_	O
+15	hear	hear	VB	pos2=VBP	0	root	_	O
+16	of	of	IN	_	15	prep	_	O
+17	Paul	paul	NNP	_	18	compound	_	B-PERSON
+18	Ryan	ryan	NNP	_	16	pobj	_	L-PERSON
+19	!?	!?	.	_	15	punct	_	O
+

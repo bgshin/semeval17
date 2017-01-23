@@ -1,0 +1,32 @@
+1	white	white	JJ	_	2	nmod	_	O
+2	supremacists	supremacist	NNS	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	alt	alt	JJ	pos2=NN	3	advmod	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	right	right	JJ	_	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	're	be	VBP	_	0	root	_	O
+3	fucking	fucking	JJ	pos2=VBG	5	nmod	_	O
+4	Nazi	nazi	NNP	_	5	compound	_	U-NORP
+5	scumbags	scumbag	NNS	_	2	attr	_	O
+6	,	,	,	_	2	punct	_	O
+7	or	or	CC	_	2	cc	_	O
+8	as	as	IN	_	10	mark	_	O
+9	I	I	PRP	_	10	nsubj	_	O
+10	like	like	VBP	_	22	advcl	_	O
+11	to	to	TO	_	12	aux	_	O
+12	call	call	VB	_	10	xcomp	_	O
+13	them	them	PRP	_	12	dobj	_	O
+14	"	"	``	pos2=''	20	punct	_	O
+15	anti	anti	AFX	pos2=RB	17	advmod	_	O
+16	-	-	HYPH	_	17	punct	_	O
+17	american	american	JJ	_	20	nmod	_	O
+18	shit	shit	NN	_	20	compound	_	O
+19	-	-	HYPH	_	20	punct	_	O
+20	stain	stain	NN	_	12	oprd	_	O
+21	…	…	NFP	pos2=GW	22	punct	_	O
+22	https://t.co/owrVeLJa1p	#hlink#	ADD	pos2=NN	2	conj	_	O
+

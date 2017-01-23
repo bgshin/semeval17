@@ -1,0 +1,22 @@
+1	Whoever	whoever	WP	_	2	nsubj	_	O
+2	is	be	VBZ	_	17	csubj	_	O
+3	in	in	IN	_	2	prep	_	O
+4	charge	charge	NN	_	3	pobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	leaking	leak	VBG	_	5	pcomp	_	O
+7	fake	fake	JJ	_	8	nmod	_	O
+8	names	name	NNS	_	6	dobj	_	O
+9	to	to	IN	_	6	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	liberal	liberal	JJ	_	12	nmod	_	O
+12	press	press	NN	_	9	pobj	_	O
+13	on	on	IN	_	6	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	#TrumpTransitionTeam	#trumptransitionteam	NNP	pos2=NN	13	pobj	_	U-ORG
+16	is	be	VBZ	_	17	aux	_	O
+17	doing	do	VBG	_	0	root	_	O
+18	a	a	DT	_	20	det	_	O
+19	great	great	JJ	_	20	nmod	_	O
+20	job	job	NN	_	17	dobj	_	O
+21	#Kudos	#kudos	NNS	pos2=.	17	npadvmod	_	O
+

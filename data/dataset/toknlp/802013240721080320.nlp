@@ -1,0 +1,25 @@
+1	White	white	JJ	_	2	nmod	_	O
+2	people	people	NNS	_	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	those	those	DT	_	5	nsubj	_	O
+5	are	be	VBP	_	0	root	_	O
+6	some	some	DT	_	8	det	_	O
+7	bad	bad	JJ	_	8	nmod	_	O
+8	hombres	hombre	NNS	_	5	attr	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	Build	build	VB	_	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	wall	wall	NN	_	1	dobj	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	Maga	maga	NNP	_	7	dep	_	U-PERSON
+2	Also	also	RB	_	3	advmod	_	O
+3	white	white	JJ	_	4	nmod	_	O
+4	people	people	NNS	_	7	dep	_	O
+5	:	:	:	_	7	punct	_	O
+6	Feliz	feliz	NNP	_	7	compound	_	B-PERSON
+7	Navidad	navidad	NNP	_	0	root	_	L-PERSON
+8	my	my	PRP$	_	9	poss	_	O
+9	amigos	amigos	NN	pos2=NNS	7	appos	_	O
+

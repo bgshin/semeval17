@@ -1,0 +1,21 @@
+1	And	and	CC	_	5	cc	_	O
+2	tonight	tonight	NN	_	5	npadvmod	_	U-TIME
+3	,	,	,	_	5	punct	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	release	release	VBP	_	0	root	_	O
+6	a	a	DT	_	9	det	_	O
+7	special	special	JJ	_	9	nmod	_	O
+8	song	song	NN	_	9	compound	_	O
+9	cover	cover	NN	_	5	dobj	_	O
+10	for	for	IN	_	9	prep	_	O
+11	the	the	DT	_	14	det	_	O
+12	late	late	JJ	pos2=NN	14	nmod	_	O
+13	Leonard	leonard	NNP	_	14	compound	_	B-PERSON
+14	Cohen	cohen	NNP	_	10	pobj	_	L-PERSON
+15	and	and	CC	_	14	cc	_	O
+16	King89698	king0	NNP	pos2=NN	14	conj	_	U-ORG
+17	.	.	.	_	5	punct	_	O
+
+1	Enjoy	enjoy	VB	pos2=-LRB-	0	root	_	O
+2	https://t.co/M6w89hpT3h	#hlink#	ADD	pos2=NN	1	dobj	_	U-ORG
+

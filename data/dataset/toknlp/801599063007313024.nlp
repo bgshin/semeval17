@@ -1,0 +1,23 @@
+1	Did	do	VBD	_	6	aux	_	O
+2	n't	not	RB	_	6	neg	_	O
+3	Grayson	grayson	NNP	_	4	compound	_	B-PERSON
+4	Allen	allen	NNP	_	6	nsubjpass	_	L-PERSON
+5	get	get	VB	pos2=VBP	6	auxpass	_	O
+6	eliminated	eliminate	VBN	_	0	root	_	O
+7	from	from	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	election	election	NN	_	7	pobj	_	O
+10	in	in	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	primaries	primary	NNS	_	10	pobj	_	O
+13	?	?	.	_	6	punct	_	O
+
+1	Oh	oh	UH	_	2	discourse	_	O
+2	wait	wait	VB	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Nevermind	nevermind	UH	pos2=RB	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	#fuckduke	#fuckduke	UH	pos2=VB	0	root	_	O
+

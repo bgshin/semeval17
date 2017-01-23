@@ -1,0 +1,19 @@
+1	@caseycdutch	@caseycdutch	UH	pos2=``	3	discourse	_	O
+2	It	it	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	race	race	NN	_	6	npadvmod	_	O
+6	based	base	VBN	pos2=JJ	7	nmod	_	O
+7	movement	movement	NN	_	3	attr	_	O
+8	being	be	VBG	_	10	auxpass	_	O
+9	violently	violently	RB	_	10	advmod	_	O
+10	suppressed	suppress	VBN	_	7	acl	_	O
+11	by	by	IN	_	10	agent	_	O
+12	racist	racist	JJ	_	13	nmod	_	O
+13	establishment	establishment	NN	_	11	pobj	_	O
+14	(	(	-LRB-	_	13	punct	_	O
+15	Obama	obama	NNP	pos2=NN	16	compound	_	U-PERSON
+16	admin	admin	NN	_	13	appos	_	O
+17	)	)	-RRB-	_	13	punct	_	O
+18	.	.	.	_	3	punct	_	O
+

@@ -1,0 +1,14 @@
+1	#MENAHUB	#menahub	NN	pos2=NNS	2	nsubj	_	O
+2	launched	launch	VBN	pos2=VBD	0	root	_	O
+3	with	with	IN	_	2	prep	_	O
+4	participants	participant	NNS	_	3	pobj	_	O
+5	from	from	IN	_	4	prep	_	O
+6	#lebanon	#lebanon	NNP	pos2=XX	13	dep	_	O
+7	#iraq	#iraq	XX	pos2=UH	13	dep	_	O
+8	#libya	#libya	XX	pos2=UH	13	dep	_	O
+9	#tunisia	#tunisia	XX	pos2=UH	13	dep	_	O
+10	@LCPSLebanon	@lcpslebanon	XX	pos2=NNP	13	dep	_	O
+11	@NRGInstitute	@nrginstitute	XX	pos2=GW	13	nmod	_	O
+12	@LinaYounis1	@linayounis0	XX	pos2=GW	13	nmod	_	O
+13	https://t.co/zmwqMdSqoC	#hlink#	ADD	pos2=XX	2	dep	_	O
+

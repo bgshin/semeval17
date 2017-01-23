@@ -1,0 +1,23 @@
+1	Retweeted	retweeted	VBD	pos2=VBN	0	root	_	O
+2	The	the	DT	_	3	det	_	B-ORG
+3	Independent	independent	NNP	pos2=JJ	7	nmod	_	I-ORG
+4	(	(	-LRB-	_	5	punct	_	I-ORG
+5	@Independent	@independent	NNP	pos2=ADD	7	nmod	_	I-ORG
+6	)	)	-RRB-	_	7	punct	_	I-ORG
+7	:China	:china	NNP	pos2=NN	9	nsubj	_	L-ORG
+8	is	be	VBZ	_	9	aux	_	O
+9	censoring	censor	VBG	_	1	ccomp	_	O
+10	people	people	NNS	_	9	dobj	_	O
+11	calling	call	VBG	_	10	acl	_	O
+12	North	north	NNP	_	13	compound	_	B-GPE
+13	Korea	korea	NNP	_	15	poss	_	I-GPE
+14	's	's	POS	_	13	case	_	L-GPE
+15	leader	leader	NN	_	18	poss	_	O
+16	'	'	POS	pos2=''	15	case	_	O
+17	Kim	kim	NNP	_	18	compound	_	B-PERSON
+18	Fatty	fatty	NNP	_	11	dobj	_	L-PERSON
+19	the	the	DT	_	15	advmod	_	O
+20	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/XSE6zFx0kl	#hlink#	ADD	_	0	root	_	U-ORG
+

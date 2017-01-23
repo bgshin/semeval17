@@ -1,0 +1,23 @@
+1	@grist	@grist	UH	pos2=XX	4	discourse	_	O
+2	@billmckibben	@billmckibben	UH	pos2=IN	4	discourse	_	O
+3	It	it	PRP	_	4	nsubj	_	O
+4	demands	demand	VBZ	_	0	root	_	O
+5	an	an	DT	_	6	det	_	O
+6	impeachment	impeachment	NN	_	4	dobj	_	O
+7	....	..	.	pos2=,	4	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	can	can	MD	_	4	aux	_	O
+3	only	only	RB	_	4	advmod	_	O
+4	hope	hope	VB	_	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	electoral	electoral	JJ	_	7	nmod	_	O
+7	college	college	NN	_	8	nsubj	_	O
+8	is	be	VBZ	_	4	ccomp	_	O
+9	functions	function	NNS	_	8	attr	_	O
+10	as	as	IN	_	13	mark	_	O
+11	it	it	PRP	_	13	nsubjpass	_	O
+12	is	be	VBZ	_	13	auxpass	_	O
+13	supposed	suppose	VBN	_	8	advcl	_	O
+14	to	to	TO	_	13	xcomp	_	O
+

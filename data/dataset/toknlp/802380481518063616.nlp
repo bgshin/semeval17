@@ -1,0 +1,31 @@
+1	@katieissweet_99	@katieissweet_0	NN	pos2=LS	0	root	_	O
+2	To	to	IN	_	1	prep	_	O
+3	each	each	DT	pos2=VB	7	det	_	O
+4	her	her	PRP$	pos2=PRP	7	poss	_	O
+5	/	/	SYM	pos2=,	7	punct	_	O
+6	his	his	PRP$	_	7	poss	_	O
+7	own	own	JJ	pos2=NN	2	pobj	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	Most	most	JJS	_	2	nmod	_	O
+2	Conservatives	conservative	NNS	pos2=NNPS	7	pobj	_	O
+3	,	,	,	_	6	punct	_	O
+4	I	I	PRP	_	6	nsubj	_	O
+5	simply	simply	RB	_	6	advmod	_	O
+6	disagree	disagree	VBP	_	0	root	_	O
+7	with	with	IN	_	6	prep	_	O
+8	,	,	,	_	6	punct	_	O
+9	some	some	DT	pos2=UH	14	advmod	_	O
+10	I	I	PRP	pos2=CD	11	nsubj	_	O
+11	distrust	distrust	VBP	pos2=NN	9	relcl	_	O
+12	and	and	CC	_	10	cc	_	O
+13	a	a	DT	_	14	det	_	O
+14	few	few	JJ	_	17	acl	_	O
+15	I	I	PRP	_	16	nsubj	_	O
+16	dispise	dispise	VBP	_	14	relcl	_	O
+17	.	.	.	_	6	punct	_	O
+
+1	Pick	pick	VB	_	0	root	_	O
+2	your	your	PRP$	_	3	poss	_	O
+3	#poison	#poison	NN	pos2=NNS	1	dobj	_	O
+

@@ -1,0 +1,30 @@
+1	@George_Hill3	@george_hill0	NN	pos2=LS	5	nsubj	_	O
+2	@utahjazz	@utahjazz	IN	pos2=``	1	prep	_	O
+3	The	the	DT	_	4	det	_	O
+4	team	team	NN	_	2	pobj	_	O
+5	plays	play	VBZ	_	0	root	_	O
+6	at	at	IN	_	5	prep	_	O
+7	a	a	DT	_	9	det	_	O
+8	different	different	JJ	_	9	nmod	_	O
+9	level	level	NN	_	6	pobj	_	O
+10	when	when	WRB	_	12	advmod	_	O
+11	you	you	PRP	_	12	nsubj	_	O
+12	are	be	VBP	_	5	advcl	_	O
+13	in	in	IN	_	12	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	game	game	NN	_	13	pobj	_	O
+16	.	.	.	_	5	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	great	great	JJ	_	2	acomp	_	O
+4	that	that	IN	pos2=WDT	6	mark	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	're	be	VBP	_	2	ccomp	_	O
+7	back	back	RB	_	6	advmod	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	Happy	happy	JJ	_	2	nmod	_	O
+2	thanksgiving	thanksgiving	NN	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+

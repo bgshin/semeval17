@@ -1,0 +1,27 @@
+1	@StopStopHillary	@stopstophillary	JJ	pos2=ADD	2	nmod	_	O
+2	@KamVTV	@kamvtv	NNP	pos2=MD	3	nsubj	_	O
+3	Have	have	VB	pos2=VBP	0	root	_	O
+4	faith	faith	NN	_	3	dobj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	Steve	steve	NNP	_	7	compound	_	B-PERSON
+7	Bannon	bannon	NNP	_	5	pobj	_	L-PERSON
+8	...	..	.	pos2=,	3	punct	_	O
+
+1	He	he	PRP	_	4	nsubj	_	O
+2	will	will	MD	_	4	aux	_	O
+3	constantly	constantly	RB	_	4	advmod	_	O
+4	remind	remind	VB	_	0	root	_	O
+5	Pres	pres	NNP	_	6	compound	_	B-PERSON
+6	Trump	trump	NNP	_	4	dobj	_	L-PERSON
+7	to	to	TO	_	8	aux	_	O
+8	keep	keep	VB	_	4	xcomp	_	O
+9	draining	drain	VBG	_	8	xcomp	_	O
+10	the	the	DT	_	11	det	_	O
+11	swamp	swamp	NN	_	9	dobj	_	O
+12	.	.	.	_	4	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	willTrump	willtrump	VBZ	pos2=NNP	0	root	_	O
+3	Prebus	prebus	NNP	pos2=XX	2	dobj	_	U-GPE
+4	!	!	.	_	2	punct	_	O
+

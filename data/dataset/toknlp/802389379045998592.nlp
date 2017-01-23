@@ -1,0 +1,13 @@
+1	Sharon	sharon	NNP	_	2	compound	_	U-PERSON
+2	needles	needle	NNS	pos2=VBZ	4	nsubj	_	O
+3	is	be	VBZ	_	4	aux	_	O
+4	doing	do	VBG	_	0	root	_	O
+5	Melania	melania	NNP	pos2=NN	6	compound	_	O
+6	trump	trump	NN	pos2=VB	4	dobj	_	O
+7	n	n	IN	pos2=VBZ	4	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	crowd	crowd	NN	_	7	pobj	_	O
+10	is	be	VBZ	_	11	aux	_	O
+11	chanting	chant	VBG	_	8	nmod	_	O
+12	CULEERAA	culeeraa	NNP	pos2=NN	11	dobj	_	U-ORG
+

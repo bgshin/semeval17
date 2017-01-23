@@ -1,0 +1,24 @@
+1	@ariefriedman	@ariefriedman	UH	pos2=XX	4	discourse	_	O
+2	#hamas	#hamas	UH	pos2=IN	7	discourse	_	O
+3	No	no	DT	pos2=UH	4	det	_	O
+4	way	way	NN	_	0	root	_	O
+5	this	this	DT	_	6	det	_	O
+6	Scottsman	scottsman	NNP	_	7	nsubj	_	U-ORG
+7	is	be	VBZ	_	4	relcl	_	O
+8	a	a	DT	_	9	det	_	O
+9	Jew	jew	NNP	pos2=NN	7	attr	_	U-NORP
+10	for	for	IN	_	7	prep	_	O
+11	what	what	WP	_	17	nsubj	_	O
+12	it	it	PRP	_	13	nsubj	_	O
+13	is	be	VBZ	_	10	pcomp	_	O
+14	worth	worth	JJ	_	13	acomp	_	O
+15	does	do	VBZ	_	17	aux	_	O
+16	not	not	RB	_	17	neg	_	O
+17	matter	matter	VB	_	13	ccomp	_	O
+18	president	president	NN	pos2=TO	23	dep	_	O
+19	elect	elect	VB	pos2=NN	23	nmod	_	O
+20	Trump	trump	NNP	pos2=NN	21	compound	_	U-ORG
+21	repr	repr	NN	pos2=GW	19	dobj	_	O
+22	…	…	NFP	pos2=-LRB-	23	punct	_	O
+23	https://t.co/fQKqa12pQJ	#hlink#	ADD	_	17	dobj	_	O
+

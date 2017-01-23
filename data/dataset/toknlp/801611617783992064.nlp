@@ -1,0 +1,13 @@
+1	@BrocKuerzi	@brockuerzi	XX	pos2=NN	6	dep	_	O
+2	lol	lol	UH	pos2=XX	6	discourse	_	O
+3	Grayson	grayson	NNP	_	4	compound	_	B-PERSON
+4	Allen	allen	NNP	_	6	nsubj	_	L-PERSON
+5	would	would	MD	_	6	aux	_	O
+6	outscore	outscore	VB	_	0	root	_	O
+7	every	every	DT	_	8	det	_	O
+8	guard	guard	NN	_	6	dobj	_	O
+9	on	on	IN	_	6	prep	_	O
+10	UK	uk	NNP	_	12	poss	_	U-GPE
+11	's	's	POS	_	10	case	_	O
+12	team	team	NN	_	9	pobj	_	O
+

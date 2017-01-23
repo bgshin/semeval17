@@ -1,0 +1,19 @@
+1	MLK	mlk	NNP	_	2	compound	_	B-ORG
+2	Jr.	jr.	NNP	_	4	poss	_	I-ORG
+3	’s	's	POS	_	2	case	_	L-ORG
+4	Niece	niece	NNP	pos2=NN	5	nsubj	_	O
+5	BLASTS	blast	VBZ	pos2=NNPS	12	ccomp	_	O
+6	Liberals	liberal	NNPS	pos2=NNS	5	dobj	_	U-NORP
+7	for	for	IN	_	5	prep	_	O
+8	Calling	calling	NNP	pos2=VBG	9	compound	_	O
+9	Trump	trump	NNP	_	11	poss	_	U-ORG
+10	’s	's	POS	_	9	case	_	O
+11	Cabinet	cabinet	NNP	_	7	pobj	_	U-ORG
+12	Picks	pick	VBZ	pos2=NNP	0	root	_	O
+13	“	"	``	_	14	punct	_	O
+14	Racist	racist	JJ	_	12	acomp	_	O
+15	”	"	''	_	14	punct	_	O
+16	!	!	.	_	12	punct	_	O
+
+1	https://t.co/jNAvz0n74m	#hlink#	ADD	_	0	root	_	U-ORG
+

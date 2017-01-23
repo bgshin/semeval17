@@ -1,0 +1,15 @@
+1	Cuba	cuba	NNP	pos2=NN	5	dep	_	U-GPE
+2	in	in	IN	_	1	prep	_	O
+3	Mourning	mourning	NN	pos2=VBG	2	pobj	_	O
+4	:	:	:	_	5	punct	_	O
+5	See	see	VB	_	0	root	_	O
+6	Photos	photo	NNS	_	5	dobj	_	O
+7	from	from	IN	_	6	prep	_	O
+8	Castro	castro	NNP	_	11	poss	_	U-GPE
+9	's	's	POS	_	8	case	_	O
+10	Historic	historic	NNP	pos2=JJ	11	compound	_	B-ORG
+11	Funeral	funeral	NNP	_	7	pobj	_	I-ORG
+12	https://t.co/J2SgZGe83J	#hlink#	ADD	pos2=NNP	6	appos	_	L-ORG
+13	via	via	IN	_	5	prep	_	O
+14	@NatGeo	@natgeo	ADD	pos2=NN	13	pobj	_	O
+

@@ -1,0 +1,9 @@
+1	@tai_walker	@tai_walker	NN	pos2=UH	8	dep	_	O
+2	@stefonson	@stefonson	IN	pos2=POS	1	prep	_	O
+3	good	good	JJ	_	4	nmod	_	O
+4	luck	luck	NN	pos2=JJ	2	pobj	_	O
+5	future	future	JJ	pos2=NN	8	nmod	_	O
+6	Cy	cy	NNP	pos2=IN	7	compound	_	O
+7	Young	young	NNP	pos2=JJ	8	compound	_	O
+8	winner	winner	NN	_	0	root	_	O
+

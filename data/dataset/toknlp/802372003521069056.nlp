@@ -1,0 +1,25 @@
+1	Hard	hard	JJ	pos2=RB	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	tell	tell	VB	_	1	advcl	_	O
+4	if	if	IN	_	6	mark	_	O
+5	this	this	DT	_	6	nsubj	_	O
+6	is	be	VBZ	_	3	ccomp	_	O
+7	Hillary	hillary	NNP	_	8	compound	_	B-PERSON
+8	Clinton	clinton	NNP	_	6	attr	_	L-PERSON
+9	or	or	CC	_	8	cc	_	O
+10	George	george	NNP	_	11	compound	_	B-PERSON
+11	Soros	soros	NNP	_	8	conj	_	L-PERSON
+12	.	.	.	_	1	punct	_	O
+
+1	Kinda	kinda	RB	pos2=RBR	2	advmod	_	O
+2	confusing	confusing	JJ	pos2=VBG	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	But	but	CC	_	4	cc	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	will	will	MD	_	4	aux	_	O
+4	go	go	VB	_	0	root	_	O
+5	with	with	IN	_	4	prep	_	O
+6	Hillz	hillz	NNP	_	5	pobj	_	U-ORG
+7	https://t.co/36DWLTJ5bf	#hlink#	ADD	pos2=NN	2	appos	_	O
+

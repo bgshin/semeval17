@@ -1,0 +1,22 @@
+1	Microsoft	microsoft	NNP	_	0	root	_	U-ORG
+2	and	and	CC	_	1	cc	_	O
+3	The	the	DT	_	7	det	_	B-ORG
+4	Linux	linux	NNP	_	5	compound	_	I-ORG
+5	Foundation	foundation	NNP	_	7	compound	_	L-ORG
+6	-	-	HYPH	pos2=:	7	punct	_	O
+7	friends	friend	NNS	_	1	conj	_	O
+8	at	at	IN	_	5	prep	_	O
+9	last	last	RB	pos2=JJ	8	pcomp	_	O
+10	-	-	,	pos2=:	11	punct	_	O
+11	as	as	IN	_	13	mark	_	O
+12	Satya	satya	NNP	_	13	nsubj	_	U-PERSON
+13	continues	continue	VBZ	_	9	advcl	_	O
+14	to	to	TO	_	15	aux	_	O
+15	focus	focus	VB	_	13	xcomp	_	O
+16	on	on	IN	_	15	prep	_	O
+17	the	the	DT	_	18	det	_	O
+18	future	future	NN	_	16	pobj	_	O
+19	.	.	.	_	16	punct	_	O
+
+1	https://t.co/yMo7d8fRre	#hlink#	ADD	_	0	root	_	U-ORG
+

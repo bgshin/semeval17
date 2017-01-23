@@ -1,0 +1,25 @@
+1	Instead	instead	RB	_	2	advmod	_	O
+2	of	of	IN	_	11	prep	_	O
+3	being	be	VBG	_	2	pcomp	_	O
+4	fully	fully	RB	_	3	advmod	_	O
+5	against	against	IN	_	3	prep	_	O
+6	animal	animal	NN	_	7	compound	_	O
+7	testing	testing	NN	_	5	pobj	_	O
+8	,	,	,	_	11	punct	_	O
+9	we	we	PRP	_	11	nsubj	_	O
+10	must	must	MD	_	11	aux	_	O
+11	understand	understand	VB	_	0	root	_	O
+12	that	that	IN	_	14	mark	_	O
+13	it	it	PRP	_	14	nsubj	_	O
+14	's	's	VBZ	_	11	ccomp	_	O
+15	essential	essential	JJ	_	14	acomp	_	O
+16	to	to	IN	_	15	prep	_	O
+17	furthering	further	VBG	_	16	pcomp	_	O
+18	medical	medical	JJ	_	19	nmod	_	O
+19	advances	advance	NNS	_	17	dobj	_	O
+20	for	for	IN	_	19	prep	_	O
+21	people	people	NNS	_	20	pobj	_	O
+22	and	and	CC	_	21	cc	_	O
+23	animals	animal	NNS	_	21	conj	_	O
+24	.	.	.	_	11	punct	_	O
+

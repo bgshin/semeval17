@@ -1,0 +1,14 @@
+1	https://t.co/eTeqm9V9Uo	#hlink#	ADD	pos2=JJ	0	root	_	O
+2	ADULT	adult	NN	pos2=NNP	1	dep	_	O
+3	Dating	date	VBG	pos2=NN	2	acl	_	O
+4	for	for	IN	_	3	prep	_	O
+5	you	you	PRP	_	4	pobj	_	O
+6	!!!	!!	.	_	1	punct	_	O
+
+1	#LessNoteworthyMovies	#lessnoteworthymovies	NNS	pos2=ADD	6	dep	_	O
+2	#WednesdayWisdom	#wednesdaywisdom	NN	pos2=ADD	3	compound	_	O
+3	#	#	NN	pos2=-LRB-	6	dep	_	O
+4	2016WasTheYearThatIFinally	0wastheyearthatifinally	RB	pos2=GW	6	nmod	_	U-MONEY
+5	…	…	NFP	pos2=-LRB-	6	punct	_	O
+6	https://t.co/s7g5VlqSqa	#hlink#	ADD	_	0	root	_	O
+

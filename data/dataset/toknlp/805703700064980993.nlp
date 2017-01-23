@@ -1,0 +1,10 @@
+1	Immigration	immigration	NN	pos2=NNP	4	nsubj	_	O
+2	in	in	IN	pos2=RP	1	prep	_	O
+3	TXL	txl	NNP	pos2=NN	2	pobj	_	U-ORG
+4	took	take	VBD	_	0	root	_	O
+5	longer	long	RBR	pos2=JJR	4	advmod	_	O
+6	than	than	IN	_	5	prep	_	O
+7	in	in	IN	_	6	prep	_	O
+8	EWR	ewr	NNP	pos2=NN	7	pobj	_	U-GPE
+9	.	.	.	_	4	punct	_	O
+

@@ -1,0 +1,14 @@
+1	Came	come	VBD	_	0	root	_	O
+2	in	in	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	house	house	NN	_	2	pobj	_	O
+5	right	right	RB	pos2=NN	6	advmod	_	O
+6	on	on	IN	_	1	prep	_	O
+7	time	time	NN	_	6	pobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	catch	catch	VB	_	1	advcl	_	O
+10	the	the	DT	_	13	det	_	O
+11	Westworld	westworld	NNP	_	12	compound	_	U-ORG
+12	season	season	NN	_	13	compound	_	O
+13	finale	finale	NN	pos2=NNS	9	dobj	_	O
+

@@ -1,0 +1,12 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	fabulous	fabulous	JJ	_	5	nmod	_	O
+5	admission	admission	NN	_	2	attr	_	O
+6	of	of	IN	_	5	prep	_	O
+7	error#NBAwards	error#nbawards	NNS	pos2=NNP	6	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	@nationalbook	@nationalbook	-LRB-	pos2=UH	2	punct	_	O
+2	https://t.co/ZYsZvhX8gV	#hlink#	ADD	pos2=NN	0	root	_	O
+

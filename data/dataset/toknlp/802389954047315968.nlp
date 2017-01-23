@@ -1,0 +1,19 @@
+1	#Spurs	#spurs	NNS	pos2=VBZ	6	npadvmod	_	O
+2	#GoSpursGo	#gospursgo	IN	pos2=POS	1	prep	_	O
+3	SAN	san	NNP	pos2=FW	4	compound	_	B-GPE
+4	ANTONIO	antonio	NNP	_	5	compound	_	L-GPE
+5	SPURS	spur	NNS	pos2=NNPS	2	pobj	_	O
+6	#Card	#card	NNP	pos2=POS	7	compound	_	O
+7	LOT	lot	NN	pos2=NNP	15	compound	_	O
+8	TIM	tim	NNP	pos2=NN	9	compound	_	B-PERSON
+9	DUNCAN	duncan	NNP	_	15	compound	_	I-PERSON
+10	DAVID	david	NNP	_	15	compound	_	I-PERSON
+11	ROBINSON	robinson	NNP	_	15	compound	_	L-PERSON
+12	MANU	manu	NNP	_	15	compound	_	B-PERSON
+13	GINOBILI	ginobili	NNP	_	15	compound	_	L-PERSON
+14	AVERY	avery	NNP	_	15	compound	_	B-PERSON
+15	JOHNSON	johnson	NNP	_	16	dep	_	L-PERSON
+16	https://t.co/1F1ra4c2de	#hlink#	ADD	pos2=NNP	18	nmod	_	O
+17	#TimDuncan	#timduncan	ADD	pos2=-RRB-	0	root	_	U-ORG
+18	#NBA	#nba	NN	pos2=ADD	17	pobj	_	O
+

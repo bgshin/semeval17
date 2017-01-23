@@ -1,0 +1,19 @@
+1	English	english	NNP	pos2=NN	3	nsubj	_	U-LANGUAGE
+2	has	have	VBZ	_	3	aux	_	O
+3	opposed	oppose	VBN	pos2=JJ	0	root	_	O
+4	abortion	abortion	NN	_	6	nmod	_	O
+5	voluntary	voluntary	JJ	_	6	nmod	_	O
+6	euthanasia	euthanasia	NN	_	3	dobj	_	O
+7	,	,	,	_	9	punct	_	O
+8	physician	physician	NN	_	9	nsubj	_	O
+9	assisted	assist	VBD	pos2=VBN	5	conj	_	O
+10	suicide	suicide	NN	_	9	dobj	_	O
+11	,	,	,	_	10	punct	_	O
+12	civil	civil	JJ	_	13	nmod	_	O
+13	unions	union	NNS	_	10	conj	_	O
+14	and	and	CC	_	13	cc	_	O
+15	the	the	DT	_	16	det	_	O
+16	decriminalisation	decriminalisation	NN	_	13	conj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	prostitution	prostitution	NN	_	17	pobj	_	O
+

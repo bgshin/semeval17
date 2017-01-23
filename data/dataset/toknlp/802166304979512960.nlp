@@ -1,0 +1,18 @@
+1	Residents	resident	NNS	_	9	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	Nataf	nataf	NNP	_	2	pobj	_	U-PERSON
+4	,	,	,	_	3	punct	_	O
+5	town	town	NN	_	3	appos	_	O
+6	near	near	IN	pos2=RB	5	prep	_	O
+7	#Jerusalem	#jerusalem	NNP	_	6	pobj	_	U-GPE
+8	,	,	,	_	3	punct	_	O
+9	evacuated	evacuate	VBN	_	0	root	_	O
+10	due	due	IN	pos2=JJ	9	prep	_	O
+11	to	to	IN	_	10	pcomp	_	O
+12	blaze	blaze	NN	_	10	pobj	_	O
+13	;	;	,	pos2=:	17	punct	_	O
+14	firebombing	firebombing	NN	pos2=VBG	17	dep	_	O
+15	suspe	suspe	GW	pos2=VBD	17	nmod	_	O
+16	ctedhttps://t.co/6P2ikINtph	#hlink#	ADD	pos2=GW	17	nmod	_	O
+17	https://t.co/npoK2f1yCh	#hlink#	ADD	_	9	dep	_	U-ORG
+

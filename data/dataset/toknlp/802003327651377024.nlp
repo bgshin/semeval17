@@ -1,0 +1,21 @@
+1	@ABHanner	@abhanner	ADD	pos2=NN	5	nmod	_	O
+2	@ABFalecbaldwin	@abfalecbaldwin	ADD	pos2=NN	5	cc	_	O
+3	@TheDemocrats	@thedemocrats	NNS	pos2=ADD	5	nmod	_	O
+4	@cnnbrk	@cnnbrk	UH	pos2=VBP	5	discourse	_	O
+5	@SenSanders	@sensanders	NNS	pos2=VBZ	0	root	_	O
+6	@elizabethforma	@elizabethforma	UH	pos2=XX	5	discourse	_	O
+7	how	how	WRB	_	8	advmod	_	O
+8	about	about	IN	_	5	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	states	state	NNS	pos2=NNP	8	pobj	_	O
+11	Hillary	hillary	NNP	_	12	nsubj	_	U-PERSON
+12	won	win	VBD	pos2=VBN	10	relcl	_	O
+13	by	by	IN	pos2=RP	12	prep	_	O
+14	less	less	JJR	pos2=JJS	15	nmod	_	O
+15	votes	vote	NNS	_	13	pobj	_	O
+16	???	??	.	_	5	punct	_	O
+
+1	Them	them	PRP	_	0	root	_	O
+2	too	too	RB	_	1	advmod	_	O
+3	?	?	.	_	1	punct	_	O
+

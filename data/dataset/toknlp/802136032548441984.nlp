@@ -1,0 +1,15 @@
+1	Google#Earth	google#earth	NNP	pos2=UH	3	nsubj	_	U-ORG
+2	just	just	RB	_	3	advmod	_	O
+3	got	get	VBD	_	0	root	_	O
+4	a	a	DT	_	8	det	_	O
+5	stunning	stunning	JJ	_	8	nmod	_	O
+6	free	free	JJ	_	8	nmod	_	O
+7	#VR	#vr	NN	pos2=TO	8	compound	_	O
+8	upgrade	upgrade	NN	pos2=VB	3	dobj	_	O
+9	for	for	IN	_	8	prep	_	O
+10	HTC	htc	NNP	_	11	compound	_	B-ORG
+11	Vive	vive	NNP	pos2=FW	9	pobj	_	I-ORG
+12	https://t.co/CtB40IyFTw	#hlink#	ADD	pos2=NNP	8	appos	_	I-ORG
+13	Cool	cool	NNP	pos2=JJ	8	appos	_	L-ORG
+14	!	!	.	_	3	punct	_	O
+

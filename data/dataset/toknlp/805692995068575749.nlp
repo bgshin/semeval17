@@ -1,0 +1,14 @@
+1	THIS	this	DT	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	SHOULD	should	MD	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	SCARE	scare	NN	pos2=VB	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	YOU	you	PRP	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	https://t.co/Kque395zVi	#hlink#	ADD	_	0	root	_	U-ORG
+

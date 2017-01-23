@@ -1,0 +1,25 @@
+1	@AndiNeglia	@andineglia	UH	pos2=NNP	3	discourse	_	O
+2	she	she	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	20	ccomp	_	O
+4	not	not	RB	_	3	neg	_	O
+5	half	half	RB	pos2=JJ	7	advmod	_	U-CARDINAL
+6	as	as	RB	_	7	advmod	_	O
+7	bad	bad	JJ	_	3	acomp	_	O
+8	as	as	IN	_	7	prep	_	O
+9	the	the	DT	_	11	det	_	O
+10	stupid	stupid	JJ	_	11	nmod	_	O
+11	cow	cow	NN	_	8	pobj	_	O
+12	currently	currently	RB	_	13	advmod	_	O
+13	narrating	narrate	VBG	_	11	acl	_	O
+14	the	the	DT	_	15	det	_	O
+15	trailer	trailer	NN	_	13	dobj	_	O
+16	for	for	IN	_	13	prep	_	O
+17	#thisisus	#thisisus	RB	pos2=NNP	16	pcomp	_	O
+18	-	-	,	pos2=:	20	punct	_	O
+19	just	just	RB	_	20	advmod	_	O
+20	hear	hear	VB	pos2=VBP	0	root	_	O
+21	her	her	PRP$	pos2=PRP	24	poss	_	O
+22	ridiculous	ridiculous	JJ	_	24	nmod	_	O
+23	take	take	VB	pos2=NN	20	ccomp	_	O
+24	#thizizuz	#thizizuz	NNS	pos2=NN	23	dobj	_	O
+

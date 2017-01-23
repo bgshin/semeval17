@@ -1,0 +1,17 @@
+1	@LVNancy	@lvnancy	NN	pos2=XX	6	qmod	_	O
+2	@jjauthor	@jjauthor	NN	pos2=UH	7	compound	_	O
+3	@LeahR77	@leahr0	NN	pos2=GW	0	root	_	O
+4	@S_T_O_P_TERROR	@s_t_o_p_terror	XX	pos2=NN	7	nmod	_	O
+5	@baalter	@baalter	IN	pos2=XX	9	mark	_	O
+6	@SandraTXAS	@sandratxas	XX	pos2=IN	7	nmod	_	O
+7	Liberals	liberal	NNPS	pos2=NNS	9	nsubj	_	U-NORP
+8	would	would	MD	_	9	aux	_	O
+9	allow	allow	VB	_	13	advcl	_	O
+10	them	them	PRP	_	9	dobj	_	O
+11	here	here	RB	_	9	advmod	_	O
+12	,	,	,	_	9	punct	_	O
+13	never	never	RB	_	14	neg	_	O
+14	ever	ever	RB	pos2=JJ	15	advmod	_	O
+15	liberals	liberal	NNS	_	0	root	_	O
+16	.	.	.	_	1	punct	_	O
+

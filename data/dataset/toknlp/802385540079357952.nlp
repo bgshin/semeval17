@@ -1,0 +1,14 @@
+1	@kaigradert	@kaigradert	UH	pos2=ADD	5	cc	_	O
+2	@GeorgeTakei	@georgetakei	NNP	pos2=UH	4	compound	_	B-ORG
+3	@MargaretWallace	@margaretwallace	NNP	pos2=XX	4	compound	_	I-ORG
+4	LOL	lol	NNP	pos2=UH	6	compound	_	L-ORG
+5	when	when	WRB	_	7	advmod	_	O
+6	Dems	dems	NNPS	pos2=NNP	7	nsubj	_	U-NORP
+7	accuse	accuse	VBP	_	0	root	_	O
+8	other	other	JJ	_	9	nmod	_	O
+9	people	people	NNS	_	7	dobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	election	election	NN	_	12	compound	_	O
+12	rigging	rigging	NN	_	10	pobj	_	O
+13	.	.	.	_	12	punct	_	O
+

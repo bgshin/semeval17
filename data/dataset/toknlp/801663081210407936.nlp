@@ -1,0 +1,22 @@
+1	George	george	NNP	_	2	compound	_	B-PERSON
+2	Hill	hill	NNP	_	3	nsubj	_	L-PERSON
+3	returns	return	VBZ	_	0	root	_	O
+4	from	from	IN	_	3	prep	_	O
+5	injury	injury	NN	_	4	pobj	_	O
+6	to	to	TO	pos2=IN	7	aux	_	O
+7	score	score	VB	_	3	advcl	_	O
+8	22	0	CD	_	9	nmod	_	U-CARDINAL
+9	points	point	NNS	_	7	dobj	_	O
+10	in	in	IN	_	7	prep	_	O
+11	the	the	DT	_	15	det	_	O
+12	@utahjazz	@utahjazz	NN	pos2=JJ	15	nmod	_	O
+13	108-83	0	CD	_	14	nmod	_	U-CARDINAL
+14	blowout	blowout	NN	_	15	compound	_	O
+15	win	win	NN	pos2=VB	10	pobj	_	O
+16	over	over	IN	pos2=RP	15	prep	_	O
+17	Denver	denver	NNP	_	16	pobj	_	U-GPE
+18	.	.	.	_	3	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/LUxv0Kqqk7	#hlink#	ADD	pos2=NN	0	root	_	O
+

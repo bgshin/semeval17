@@ -1,0 +1,30 @@
+1	Sucked	suck	VBD	pos2=VBN	0	root	_	O
+2	into	into	IN	_	1	prep	_	O
+3	Up	up	NNP	pos2=``	4	compound	_	O
+4	TV	tv	NN	pos2=NNP	7	poss	_	O
+5	's	's	POS	_	4	case	_	O
+6	"	"	``	pos2=''	7	punct	_	O
+7	Gilmore	gilmore	NNP	_	2	pobj	_	B-WORK_OF_ART
+8	The	the	DT	pos2=NNP	9	det	_	I-WORK_OF_ART
+9	Merrier	merrier	NNP	_	7	appos	_	I-WORK_OF_ART
+10	"	"	''	pos2=``	7	punct	_	I-WORK_OF_ART
+11	Binge-a-thon	binge-a-thon	NNP	pos2=NN	7	appos	_	L-WORK_OF_ART
+12	.	.	.	_	1	punct	_	O
+
+1	Have	have	VBP	pos2=VB	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	amend	amend	VB	_	1	xcomp	_	O
+4	my	my	PRP$	_	5	poss	_	O
+5	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNS	3	dobj	_	O
+6	:	:	:	_	1	punct	_	O
+7	Michel	michel	NNP	_	5	appos	_	U-PERSON
+8	,	,	,	_	7	punct	_	O
+9	Michel	michel	NNP	_	7	conj	_	U-PERSON
+10	,	,	,	_	9	punct	_	O
+11	Trix	trix	NNP	_	14	nmod	_	B-ORG
+12	/	/	SYM	pos2=HYPH	14	punct	_	I-ORG
+13	Gran	gran	NNP	_	14	compound	_	I-ORG
+14	Gilmore	gilmore	NNP	_	9	conj	_	L-ORG
+15	,	,	,	_	14	punct	_	O
+16	Luke	luke	NNP	_	14	conj	_	U-PERSON
+

@@ -1,0 +1,18 @@
+1	Hey	hey	UH	_	4	discourse	_	O
+2	@rubricsinger	@rubricsinger	UH	pos2=RB	4	discourse	_	O
+3	-	-	:	pos2=HYPH	4	punct	_	O
+4	worth	worth	JJ	pos2=NN	17	dep	_	O
+5	checking	check	VBG	_	4	xcomp	_	O
+6	this	this	DT	_	7	det	_	O
+7	week	week	NN	_	9	poss	_	U-DATE
+8	's	's	POS	pos2=VBZ	7	case	_	O
+9	@BBCClick	@bbcclick	NN	pos2=ADD	5	dobj	_	O
+10	on	on	IN	_	17	prep	_	O
+11	what	what	WDT	pos2=WP	12	det	_	O
+12	robots	robot	NNS	_	14	nsubj	_	O
+13	are	be	VBP	_	14	aux	_	O
+14	learning	learn	VBG	_	10	pcomp	_	O
+15	from	from	IN	_	14	prep	_	O
+16	octopuses	octopus	NNS	_	15	pobj	_	O
+17	https://t.co/2gm0cyfcKl	#hlink#	ADD	_	0	root	_	O
+

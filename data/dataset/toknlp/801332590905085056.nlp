@@ -1,0 +1,25 @@
+1	#ISIS	#isis	NN	pos2=ADD	2	compound	_	O
+2	infogrphic	infogrphic	NN	pos2=JJ	24	dep	_	B-DATE
+3	,	,	,	_	2	punct	_	I-DATE
+4	week	week	NN	_	2	npadvmod	_	L-DATE
+5	5	0	CD	_	4	nmod	_	U-CARDINAL
+6	of	of	IN	_	4	prep	_	O
+7	#MosulOffensive	#mosuloffensive	NN	pos2=CD	6	pobj	_	U-CARDINAL
+8	:	:	:	_	24	punct	_	O
+9	claims	claim	NNS	pos2=VBZ	24	dep	_	O
+10	killing	kill	VBG	pos2=NN	9	acl	_	O
+11	487	0	CD	_	12	nmod	_	B-DATE
+12	#ISF	#isf	NN	pos2=NNS	10	dobj	_	L-DATE
+13	&	&	CC	_	12	cc	_	O
+14	#Peshmerga	#peshmerga	NN	pos2=NNP	12	conj	_	O
+15	;	;	,	pos2=:	24	punct	_	O
+16	20	0	CD	_	18	nmod	_	U-CARDINAL
+17	suicide	suicide	NN	_	18	compound	_	O
+18	attacks	attack	NNS	pos2=NN	24	dep	_	O
+19	;	;	,	pos2=:	18	punct	_	O
+20	76	0	CD	_	21	nmod	_	U-CARDINAL
+21	Humvees	humvee	NNS	pos2=NNPS	18	conj	_	U-PRODUCT
+22	,	,	,	_	21	punct	_	O
+23	…	…	NFP	pos2=-LRB-	24	punct	_	O
+24	https://t.co/fpycANiIZO	#hlink#	ADD	pos2=NN	0	root	_	O
+

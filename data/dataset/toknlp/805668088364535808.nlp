@@ -1,0 +1,19 @@
+1	Simulation	simulation	NN	_	3	nsubj	_	O
+2	to	to	TO	_	3	aux	_	O
+3	show	show	VB	_	0	root	_	O
+4	primary	primary	JJ	_	5	nmod	_	O
+5	energy	energy	NN	_	3	dobj	_	O
+6	(	(	-LRB-	_	5	punct	_	O
+7	fossil	fossil	NN	pos2=JJ	8	compound	_	O
+8	fuels	fuel	NNS	pos2=NN	5	appos	_	O
+9	)	)	-RRB-	_	5	punct	_	O
+10	used	use	VBN	_	5	acl	_	O
+11	by	by	IN	_	10	agent	_	O
+12	a	a	DT	_	14	det	_	O
+13	heating	heating	NN	_	14	compound	_	O
+14	system	system	NN	_	11	pobj	_	O
+15	.	.	.	_	3	punct	_	O
+
+1	https://t.co/kqn0B0ehnQ	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/m2StPV9Ljh	#hlink#	ADD	_	0	root	_	U-ORG
+

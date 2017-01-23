@@ -1,0 +1,10 @@
+1	@verynetwork	@verynetwork	UH	pos2=XX	7	discourse	_	O
+2	#hatchimals	#hatchimals	UH	pos2=NNS	7	discourse	_	O
+3	#BlackFriday	#blackfriday	UH	pos2=IN	7	discourse	_	O
+4	My	my	PRP$	_	5	poss	_	O
+5	daughter	daughter	NN	_	7	nsubj	_	O
+6	would	would	MD	_	7	aux	_	O
+7	love	love	VB	_	0	root	_	O
+8	this	this	DT	_	9	det	_	O
+9	😂	😂	NN	pos2=.	7	dobj	_	O
+

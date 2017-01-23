@@ -1,0 +1,26 @@
+1	@StatesRights420	@statesrights0	NN	pos2=XX	3	attr	_	O
+2	It	it	PRP	_	3	nsubj	_	O
+3	was	be	VBD	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	beginning	beginning	NN	_	3	attr	_	O
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	9	det	_	B-EVENT
+8	Civil	civil	NNP	_	9	compound	_	I-EVENT
+9	War	war	NNP	_	6	pobj	_	L-EVENT
+10	just	just	RB	_	11	advmod	_	O
+11	ending	end	VBG	_	3	advcl	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	After	after	IN	_	4	mark	_	O
+2	riots	riot	NNS	_	5	nsubj	_	O
+3	conservatives	conservative	NNS	_	4	nsubj	_	O
+4	went	go	VBD	_	5	aux	_	O
+5	hunting	hunt	VBG	pos2=NN	0	root	_	O
+6	for	for	IN	_	5	prep	_	O
+7	libs	libs	NNS	pos2=NN	6	pobj	_	O
+8	,	,	,	_	5	punct	_	O
+9	lead	lead	VB	pos2=VBP	5	conj	_	O
+10	to	to	IN	_	9	prep	_	O
+11	rebels	rebel	NNS	_	10	pobj	_	O
+12	forming	form	VBG	_	11	acl	_	O
+

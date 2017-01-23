@@ -1,0 +1,16 @@
+1	#NBAwards	#nbawards	XX	pos2=ADD	6	dep	_	O
+2	Winner	winner	NN	pos2=NNP	4	nmod	_	O
+3	@DrIbram	@dribram	XX	pos2=POS	4	nmod	_	O
+4	talks	talk	NNS	pos2=VBZ	6	nsubj	_	O
+5	to	to	IN	pos2=TO	6	aux	_	O
+6	@BookViewNow	@bookviewnow	VB	pos2=XX	0	root	_	O
+7	about	about	IN	pos2=RB	4	prep	_	O
+8	STAMPED	stamp	VBN	pos2=NNP	4	acl	_	O
+9	FROM	from	IN	_	8	prep	_	O
+10	THE	the	DT	_	11	det	_	O
+11	BEGINNING	beginning	NN	_	9	pobj	_	O
+12	.	.	.	_	6	punct	_	O
+
+1	https://t.co/0aswXFSupC	#hlink#	ADD	_	0	root	_	O
+2	@MiamiBookFair	@miamibookfair	-RRB-	pos2=ADD	1	punct	_	O
+

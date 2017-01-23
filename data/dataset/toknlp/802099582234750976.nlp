@@ -1,0 +1,22 @@
+1	@ChristopherJM	@christopherjm	UH	pos2=XX	5	discourse	_	O
+2	@ngumenyuk	@ngumenyuk	UH	pos2=POS	5	discourse	_	O
+3	Poroshenko	poroshenko	NNP	pos2=FW	4	compound	_	U-PERSON
+4	regime	regime	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	still	still	RB	_	5	advmod	_	O
+7	the	the	DT	_	9	det	_	O
+8	same	same	JJ	_	9	nmod	_	O
+9	Kremlin	kremlin	NNP	_	12	poss	_	U-ORG
+10	's	's	POS	_	9	case	_	O
+11	colonial	colonial	JJ	_	12	nmod	_	O
+12	regime	regime	NN	_	5	attr	_	O
+13	of	of	IN	_	12	prep	_	O
+14	Yanukovych	yanukovych	NNP	_	13	pobj	_	U-ORG
+15	after	after	IN	_	5	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	rotation	rotation	NN	_	15	pobj	_	O
+18	.	.	.	_	5	punct	_	O
+
+1	/	/	SYM	_	2	punct	_	O
+2	1	0	CD	_	0	root	_	U-CARDINAL
+

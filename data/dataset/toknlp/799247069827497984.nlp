@@ -1,0 +1,27 @@
+1	Their	their	PRP$	_	2	poss	_	O
+2	building	build	VBG	pos2=NN	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	wall	wall	NN	_	2	dobj	_	O
+5	......	..	.	pos2=,	2	punct	_	O
+
+1	not	not	RB	_	2	neg	_	O
+2	on	on	IN	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	Mexican	mexican	JJ	_	5	nmod	_	U-NORP
+5	border	border	NN	_	2	pobj	_	O
+6	.......	..	.	pos2=,	2	punct	_	O
+
+1	on	on	IN	_	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	seafront	seafront	NN	pos2=JJ	1	pobj	_	O
+4	Strandhill	strandhill	NNP	_	3	appos	_	U-GPE
+5	........	..	.	pos2=,	1	punct	_	O
+
+1	they	they	PRP	_	3	nsubj	_	O
+2	only	only	RB	pos2=DT	3	advmod	_	O
+3	thing	thing	NN	pos2=VBP	0	root	_	O
+4	we	we	PRP	_	3	dobj	_	O
+5	...	..	.	pos2=,	3	punct	_	O
+
+1	https://t.co/DE0WVwrb3u	#hlink#	ADD	_	0	root	_	U-ORG
+

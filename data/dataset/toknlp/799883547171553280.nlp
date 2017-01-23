@@ -1,0 +1,24 @@
+1	Retweeted	retweeted	VBN	pos2=VBD	2	nmod	_	O
+2	AFV	afv	NN	pos2=NNP	14	dep	_	O
+3	(	(	-LRB-	_	2	punct	_	O
+4	@AFVofficial	@afvofficial	NN	pos2=JJ	2	appos	_	O
+5	)	)	-RRB-	_	2	punct	_	O
+6	:	:	:	_	2	punct	_	O
+7	"	"	``	_	2	punct	_	O
+8	Um	um	UH	_	14	discourse	_	O
+9	,	,	,	_	14	punct	_	O
+10	yes	yes	UH	_	14	discourse	_	O
+11	,	,	,	_	14	punct	_	O
+12	I	I	PRP	_	14	nsubj	_	O
+13	'll	will	MD	_	14	aux	_	O
+14	take	take	VB	_	0	root	_	O
+15	it	it	PRP	_	14	dobj	_	O
+16	to	to	TO	_	17	aux	_	O
+17	go	go	VB	_	14	xcomp	_	O
+18	.	.	.	_	14	punct	_	O
+19	"	"	''	_	14	punct	_	O
+
+1	#NationalFastFoodDay	#nationalfastfoodday	GW	pos2=NFP	3	nmod	_	O
+2	https://t.co/gkcqUI5KdD	#hlink#	ADD	pos2=GW	3	nmod	_	O
+3	https://t.co/GvT7jJeZEG	#hlink#	ADD	_	0	root	_	O
+

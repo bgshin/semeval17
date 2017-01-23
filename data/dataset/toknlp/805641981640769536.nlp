@@ -1,0 +1,23 @@
+1	Reading	read	VBG	pos2=NN	10	csubj	_	O
+2	about	about	IN	_	1	prep	_	O
+3	euthanasia	euthanasia	NN	_	4	compound	_	O
+4	stories	story	NNS	_	2	pobj	_	O
+5	for	for	IN	_	1	prep	_	O
+6	people	people	NNS	_	5	pobj	_	O
+7	with	with	IN	_	6	prep	_	O
+8	cerebral	cerebral	JJ	_	9	nmod	_	O
+9	palsy	palsy	NN	_	7	pobj	_	O
+10	reminds	remind	VBZ	_	0	root	_	O
+11	me	me	PRP	_	10	dobj	_	O
+12	how	how	WRB	_	13	advmod	_	O
+13	fortunate	fortunate	JJ	_	15	acomp	_	O
+14	I	I	PRP	_	15	nsubj	_	O
+15	was	be	VBD	_	10	ccomp	_	O
+16	that	that	IN	pos2=WDT	19	mark	_	O
+17	my	my	PRP$	_	18	poss	_	O
+18	parents	parent	NNS	_	19	nsubj	_	O
+19	gave	give	VBD	_	15	ccomp	_	O
+20	a	a	DT	_	21	det	_	O
+21	damn	damn	RB	pos2=NN	19	dobj	_	O
+22	.	.	.	_	10	punct	_	O
+

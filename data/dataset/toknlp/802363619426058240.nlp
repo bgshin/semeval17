@@ -1,0 +1,13 @@
+1	Michael	michael	NNP	_	2	compound	_	B-PERSON
+2	Moore	moore	NNP	_	3	nsubj	_	L-PERSON
+3	Predicts	predict	VBZ	_	0	root	_	O
+4	Donald	donald	NNP	_	5	compound	_	B-PERSON
+5	Trump	trump	NNP	_	7	nsubj	_	L-PERSON
+6	Will	will	MD	pos2=NNP	7	aux	_	O
+7	Win	win	VB	_	3	ccomp	_	O
+8	the	the	DT	_	9	det	_	O
+9	Presidency	presidency	NNP	pos2=NN	7	dobj	_	O
+10	https://t.co/IB2zoWdaRy	#hlink#	ADD	pos2=RBR	7	dobj	_	O
+11	via	via	IN	_	7	prep	_	O
+12	@YouTube	@youtube	NNP	pos2=NN	11	pobj	_	O
+

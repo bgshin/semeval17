@@ -1,0 +1,17 @@
+1	when	when	WRB	_	3	advmod	_	O
+2	u	u	PRP	pos2=TO	3	nsubj	_	O
+3	start	start	VBP	pos2=VB	14	advcl	_	O
+4	eating	eat	VBG	_	3	xcomp	_	O
+5	thanksgiving	thanksgiving	NN	pos2=XX	6	compound	_	O
+6	dinner	dinner	NN	_	4	dobj	_	O
+7	before	before	IN	pos2=RB	9	mark	_	O
+8	u	u	PRP	pos2=NNS	9	nsubj	_	O
+9	say	say	VBP	pos2=VB	3	advcl	_	O
+10	grace	grace	NN	pos2=NNP	9	dobj	_	O
+11	&	&	CC	_	10	cc	_	O
+12	ur	ur	PRP$	pos2=JJ	13	poss	_	O
+13	grandma	grandma	NN	_	10	conj	_	O
+14	catches	catch	VBZ	pos2=NNS	0	root	_	O
+15	u	u	PRP	pos2=GW	14	dobj	_	O
+16	https://t.co/UfDwatK1Nk	#hlink#	ADD	pos2=NN	14	advcl	_	O
+

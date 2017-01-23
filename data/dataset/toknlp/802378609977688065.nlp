@@ -1,0 +1,21 @@
+1	Election	election	NN	pos2=NNP	2	compound	_	O
+2	recount	recount	NN	_	4	nsubj	_	O
+3	will	will	MD	_	4	aux	_	O
+4	take	take	VB	_	0	root	_	O
+5	place	place	NN	_	4	dobj	_	O
+6	in	in	IN	_	4	prep	_	O
+7	Wisconsin	wisconsin	NNP	_	6	pobj	_	U-GPE
+8	,	,	,	_	4	punct	_	O
+9	after	after	IN	_	11	mark	_	O
+10	Stein	stein	NNP	_	11	nsubj	_	U-PERSON
+11	files	file	VBZ	pos2=NNS	4	advcl	_	O
+12	petition	petition	NN	pos2=GW	11	dobj	_	O
+13	https://t.co/cdtLmv57lS	#hlink#	ADD	pos2=NN	14	nsubj	_	O
+14	looks	look	VBZ	_	4	conj	_	O
+15	like	like	IN	_	19	mark	_	O
+16	george	george	NNP	pos2=NN	17	compound	_	B-PERSON
+17	soros	soros	NNP	pos2=NN	19	nsubj	_	L-PERSON
+18	is	be	VBZ	_	19	aux	_	O
+19	funding	fund	VBG	pos2=NN	14	advcl	_	O
+20	this	this	DT	_	19	dobj	_	O
+

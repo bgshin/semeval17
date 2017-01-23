@@ -1,0 +1,24 @@
+1	Regardless	regardless	RB	_	13	advmod	_	O
+2	of	of	IN	_	1	prep	_	O
+3	what	what	WP	_	7	dobj	_	O
+4	@georgesoros	@georgesoros	NNS	pos2=PRP	7	nsubj	_	O
+5	and	and	CC	_	4	cc	_	O
+6	@DrJillStein	@drjillstein	NN	pos2=NNP	4	conj	_	O
+7	think	think	VBP	pos2=VB	2	pcomp	_	O
+8	,	,	,	_	13	punct	_	O
+9	the	the	DT	_	11	det	_	O
+10	liberal	liberal	JJ	_	11	nmod	_	O
+11	agenda	agenda	NN	_	13	nsubjpass	_	O
+12	was	be	VBD	_	13	auxpass	_	O
+13	defeated	defeat	VBN	_	0	root	_	O
+14	.	.	.	_	13	punct	_	O
+
+1	These	these	DT	_	2	det	_	O
+2	deplorables	deplorables	NNS	pos2=WP	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	enemies	enemy	NNS	_	3	attr	_	O
+5	of	of	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	state	state	NN	_	5	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+

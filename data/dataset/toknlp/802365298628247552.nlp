@@ -1,0 +1,17 @@
+1	Michael	michael	NNP	_	2	compound	_	B-PERSON
+2	May	may	NNP	pos2=MD	4	dep	_	L-PERSON
+3	:	:	:	_	4	punct	_	O
+4	https://t.co/ZEuAzmwawH	#hlink#	ADD	pos2=NN	0	root	_	O
+5	#FOREX	#forex	-RRB-	pos2=NNP	4	punct	_	U-ORG
+6	#ECONOMY	#economy	NN	pos2=-RRB-	10	compound	_	O
+7	#MONEY	#money	NN	pos2=ADD	9	compound	_	O
+8	#WORLD	#world	NN	pos2=MD	10	compound	_	O
+9	#HOME	#home	NN	pos2=NNP	10	compound	_	O
+10	#REALTORDOTCOM	#realtordotcom	NN	pos2=XX	12	nsubj	_	O
+11	#EXCHANGE	#exchange	JJ	pos2=XX	13	nmod	_	O
+12	Australian	australian	JJ	pos2=NNP	13	nmod	_	U-NORP
+13	Do	do	NNP	pos2=NN	4	npadvmod	_	O
+14	...	..	.	pos2=,	4	punct	_	O
+
+1	https://t.co/S2n23crPHF	#hlink#	ADD	_	0	root	_	U-ORG
+

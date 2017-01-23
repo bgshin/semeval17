@@ -1,0 +1,17 @@
+1	for	for	IN	_	0	root	_	O
+2	all	all	PDT	pos2=DT	5	predet	_	O
+3	my	my	PRP$	_	5	poss	_	O
+4	nasty	nasty	JJ	_	5	nmod	_	O
+5	women	woman	NNS	_	1	pobj	_	O
+6	&	&	CC	_	5	cc	_	O
+7	bad	bad	JJ	_	8	nmod	_	O
+8	hombres	hombre	NNS	_	5	conj	_	O
+9	.	.	.	_	1	punct	_	O
+
+1	ft.	ft.	NN	pos2=JJ	2	compound	_	O
+2	dog	dog	NN	_	3	compound	_	O
+3	hair	hair	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	https://t.co/ngS36k6Rm7	#hlink#	ADD	_	0	root	_	U-ORG
+

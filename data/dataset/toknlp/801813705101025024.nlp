@@ -1,0 +1,29 @@
+1	🔥	🔥	SYM	pos2=JJ	4	punct	_	O
+2	EMERGENCY	emergency	NN	_	3	compound	_	O
+3	STATE	state	NN	_	4	nsubj	_	O
+4	DECLARED	declare	VBN	pos2=VBD	0	root	_	O
+5	IN	in	IN	_	4	prep	_	O
+6	#HAIFA	#haifa	NN	pos2=NNP	5	pobj	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	#HAMAS	#hamas	VBD	pos2=NNS	0	root	_	O
+2	PRAISE	praise	NN	pos2=VB	1	dobj	_	O
+3	FOR	for	IN	_	1	prep	_	O
+4	MORE	more	JJR	_	5	nmod	_	O
+5	FIRES	fire	NNS	_	3	pobj	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	HEAVY	heavy	JJ	_	2	nmod	_	O
+2	RETALIATION	retaliation	NN	_	13	nsubj	_	O
+3	AND	and	CC	_	2	cc	_	O
+4	SCALATION	scalation	NN	_	2	conj	_	O
+5	TO	to	IN	_	2	prep	_	O
+6	A	a	DT	_	10	det	_	O
+7	FULL	full	JJ	_	10	nmod	_	O
+8	OPEN	open	JJ	pos2=NN	10	nmod	_	O
+9	-	-	HYPH	_	10	punct	_	O
+10	WAR	war	NN	pos2=NNP	5	pobj	_	O
+11	WITH	with	IN	_	10	prep	_	O
+12	#GAZA	#gaza	NNP	pos2=NN	11	pobj	_	U-ORG
+13	EXPECTED	expect	VBN	_	0	root	_	O
+

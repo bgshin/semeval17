@@ -1,0 +1,13 @@
+1	@MalcolmNance	@malcolmnance	NN	pos2=ADD	0	root	_	O
+2	@HillaryClinton	@hillaryclinton	NNP	pos2=ADD	10	dep	_	U-PERSON
+3	@elizabethforma	@elizabethforma	XX	pos2=UH	10	dep	_	O
+4	@AmazonToys	@amazontoys	XX	pos2=NNS	2	nmod	_	O
+5	but	but	CC	_	1	cc	_	O
+6	some	some	DT	_	10	nsubj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	reviews	review	NNS	_	7	pobj	_	O
+10	are	be	VBP	_	1	conj	_	O
+11	good	good	JJ	_	10	acomp	_	O
+12	.	.	.	_	10	punct	_	O
+

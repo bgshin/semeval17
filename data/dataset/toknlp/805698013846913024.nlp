@@ -1,0 +1,9 @@
+1	@BronzeAgePerv	@bronzeageperv	NN	pos2=NNS	3	npadvmod	_	O
+2	there	there	EX	_	3	expl	_	O
+3	are	be	VBP	_	0	root	_	O
+4	no	no	DT	_	5	det	_	O
+5	gains	gain	NNS	_	3	attr	_	O
+6	in	in	IN	_	5	prep	_	O
+7	vegetarianism	vegetarianism	NN	_	6	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+

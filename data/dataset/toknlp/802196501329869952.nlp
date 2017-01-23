@@ -1,0 +1,9 @@
+1	@KellyannePolls	@kellyannepolls	NNS	pos2=ADD	0	root	_	O
+2	@politico	@politico	UH	pos2=XX	1	discourse	_	O
+3	but	but	CC	_	1	cc	_	O
+4	Steve	steve	NNP	_	5	compound	_	B-PERSON
+5	Bannon	bannon	NNP	_	6	nsubj	_	L-PERSON
+6	is	be	VBZ	_	1	conj	_	O
+7	ok	ok	JJ	_	6	acomp	_	O
+8	?!!	?!!	.	_	6	punct	_	O
+

@@ -1,0 +1,15 @@
+1	Other	other	JJ	pos2=RB	0	nsubjpass	_	O
+2	than	than	IN	_	1	prep	_	O
+3	Lorelai	lorelai	NNP	_	2	pobj	_	U-PERSON
+4	and	and	CC	_	3	cc	_	O
+5	Rory	rory	NNP	_	3	conj	_	U-PERSON
+6	,	,	,	_	9	punct	_	O
+7	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=JJ	8	compound	_	O
+8	characters	character	NNS	_	9	nsubj	_	O
+9	are	be	VBP	_	0	root	_	O
+10	:	:	:	_	9	punct	_	O
+11	4.Sookie	#hlink#	ADD	pos2=GW	14	nmod	_	O
+12	3.Kirk	#hlink#	ADD	pos2=GW	14	nmod	_	O
+13	2.Jess	#hlink#	ADD	_	14	nmod	_	O
+14	https://t.co/kN0IXKFJg6	#hlink#	ADD	_	9	punct	_	O
+

@@ -1,0 +1,20 @@
+1	@Bruciebabe	@bruciebabe	NNP	pos2=VB	17	vocative	_	B-PERSON
+2	@SteavonG	@steavong	ADD	pos2=XX	17	nsubj	_	L-PERSON
+3	@billybragg	@billybragg	UH	pos2=IN	2	discourse	_	O
+4	@campbellclaret	@campbellclaret	IN	pos2=JJS	2	prep	_	O
+5	Rightists	rightist	NNPS	pos2=NNS	4	pobj	_	U-NORP
+6	&	&	CC	_	5	cc	_	O
+7	whities	whities	NNS	_	5	conj	_	O
+8	who	who	WP	_	9	nsubj	_	O
+9	ignore	ignore	VBP	_	5	relcl	_	O
+10	the	the	DT	_	11	det	_	O
+11	fact	fact	NN	_	9	dobj	_	O
+12	he	he	PRP	_	13	nsubj	_	O
+13	was	be	VBD	_	11	acl	_	O
+14	a	a	DT	_	16	det	_	O
+15	radicalised	radicalised	JJ	pos2=VBN	16	nmod	_	O
+16	Nazi	nazi	NNP	pos2=NN	13	attr	_	U-NORP
+17	are	be	VBP	_	0	root	_	O
+18	despicable	despicable	JJ	_	17	acomp	_	O
+19	.	.	.	_	17	punct	_	O
+

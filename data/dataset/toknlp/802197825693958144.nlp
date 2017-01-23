@@ -1,0 +1,29 @@
+1	Leftists	leftist	NNS	pos2=NNPS	2	nsubj	_	O
+2	love	love	VBP	_	0	root	_	O
+3	being	be	VBG	_	0	root	_	O
+4	victims	victim	NNS	_	3	attr	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	Rightists	rightist	NNS	pos2=NNPS	2	nsubj	_	U-NORP
+2	love	love	VBP	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	winner	winner	NN	_	2	dobj	_	O
+5	,	,	,	_	2	punct	_	O
+6	more	more	RBR	pos2=JJR	7	advmod	_	O
+7	so	so	RB	pos2=IN	2	advmod	_	O
+8	if	if	IN	_	10	mark	_	O
+9	winner	winner	NN	_	10	nsubj	_	O
+10	was	be	VBD	_	2	advcl	_	O
+11	an	an	DT	_	12	det	_	O
+12	underdog	underdog	NN	_	10	attr	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	We	we	PRP	_	3	nsubj	_	O
+2	are	be	VBP	_	3	aux	_	O
+3	witnessing	witness	VBG	_	0	root	_	O
+4	critical	critical	JJ	_	5	nmod	_	O
+5	mass	mass	NN	_	3	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	both	both	DT	_	6	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+

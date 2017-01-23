@@ -1,0 +1,17 @@
+1	Katie	katie	NNP	_	16	nmod	_	O
+2	Holmes	holmes	NNP	_	16	dep	_	O
+3	Heather	heather	NNP	_	16	dep	_	B-PERSON
+4	Graham	graham	NNP	_	16	dep	_	L-PERSON
+5	Phoebe	phoebe	NNP	_	16	dep	_	B-PERSON
+6	Cates	cates	NNP	_	16	dep	_	L-PERSON
+7	Gretchen	gretchen	NNP	_	16	dep	_	B-PERSON
+8	Mol	mol	NNP	_	16	dep	_	L-PERSON
+9	Alexis	alexis	NNP	_	16	dep	_	B-PERSON
+10	Dziena	dziena	NNP	_	16	dep	_	L-PERSON
+11	Jamie	jamie	NNP	_	15	compound	_	B-PERSON
+12	Lee	lee	NNP	_	15	compound	_	I-PERSON
+13	Curtis	curtis	NNP	_	15	compound	_	I-PERSON
+14	Ashley	ashley	NNP	_	15	compound	_	I-PERSON
+15	Judd	judd	NNP	_	16	dep	_	L-PERSON
+16	https://t.co/IlSonhqpTG	#hlink#	ADD	pos2=NNP	0	root	_	O
+

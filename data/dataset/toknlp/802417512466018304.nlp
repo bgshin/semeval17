@@ -1,0 +1,29 @@
+1	@DrewSmith_33	@drewsmith_0	NN	pos2=NNS	4	discourse	_	O
+2	He	he	PRP	_	4	nsubj	_	O
+3	always	always	RB	_	4	advmod	_	O
+4	said	say	VBD	_	0	root	_	O
+5	he	he	PRP	_	6	nsubj	_	O
+6	wanted	want	VBD	_	4	ccomp	_	O
+7	to	to	TO	_	8	aux	_	O
+8	repeal	repeal	VB	_	6	xcomp	_	O
+9	Obamacare	obamacare	NNP	_	8	dobj	_	U-PERSON
+10	I	I	PRP	_	13	nsubj	_	O
+11	do	do	VBP	pos2=VB	13	aux	_	O
+12	n't	not	RB	_	13	neg	_	O
+13	get	get	VB	_	8	ccomp	_	O
+14	why	why	WRB	_	22	advmod	_	O
+15	20	0	CD	_	16	compound	_	B-CARDINAL
+16	million	#crd#	CD	_	22	nsubj	_	L-CARDINAL
+17	of	of	IN	_	16	prep	_	O
+18	his	his	PRP$	_	19	poss	_	O
+19	voters	voter	NNS	_	17	pobj	_	O
+20	might	might	MD	_	22	aux	_	O
+21	have	have	VB	_	22	aux	_	O
+22	went	go	VBN	pos2=VBD	13	ccomp	_	O
+23	against	against	IN	pos2=RB	22	prep	_	O
+24	best	good	JJS	_	25	nmod	_	O
+25	interest	interest	NN	_	23	pobj	_	O
+26	.	.	.	_	4	punct	_	O
+
+1	🙄	🙄	SYM	pos2=NFP	0	root	_	U-ORG
+

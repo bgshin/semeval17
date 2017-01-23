@@ -1,0 +1,10 @@
+1	Will	will	MD	_	3	aux	_	O
+2	Trump	trump	NNP	pos2=VB	3	nsubj	_	O
+3	Be	be	VB	pos2=NNP	0	root	_	O
+4	Ready	ready	JJ	pos2=NNP	3	acomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	Govern	govern	VB	_	4	xcomp	_	O
+7	?	?	.	_	3	punct	_	O
+
+1	https://t.co/UmjpvdSoe4	#hlink#	ADD	_	0	root	_	U-ORG
+

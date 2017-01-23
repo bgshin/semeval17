@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det	_	O
+2	Bill	bill	NNP	_	3	compound	_	B-PERSON
+3	Clinton	clinton	NNP	_	8	oprd	_	L-PERSON
+4	and	and	CC	_	3	cc	_	O
+5	Barack	barack	NNP	_	7	compound	_	B-PERSON
+6	Obama	obama	NNP	_	7	compound	_	L-PERSON
+7	Legacy	legacy	NNP	_	3	conj	_	O
+8	.	.	.	_	0	root	_	O
+
+1	Japan	japan	NNP	_	2	nsubj	_	U-GPE
+2	lives	live	VBZ	_	0	root	_	O
+3	in	in	IN	pos2=RB	2	prep	_	O
+4	fear	fear	NN	_	3	pobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	crazy	crazy	JJ	_	7	nmod	_	O
+7	regime	regime	NN	_	5	pobj	_	O
+8	in	in	IN	_	4	prep	_	O
+9	North	north	NNP	_	10	compound	_	B-GPE
+10	Korea	korea	NNP	_	8	pobj	_	L-GPE
+11	https://t.co/TR4XX0Udvu	#hlink#	ADD	pos2=NNP	2	dep	_	O
+

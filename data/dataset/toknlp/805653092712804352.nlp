@@ -1,0 +1,17 @@
+1	"	"	``	_	8	punct	_	O
+2	Celebrating	celebrate	VBG	pos2=NNP	8	csubj	_	O
+3	Mercy	mercy	NNP	pos2=NN	2	dobj	_	O
+4	"	"	''	pos2=GW	8	punct	_	O
+5	https://t.co/OAgWtSvb6N	#hlink#	ADD	pos2=NNP	0	root	_	O
+6	Pope	pope	NNP	_	7	compound	_	O
+7	Francis	francis	NNP	_	8	nsubj	_	U-PERSON
+8	extends	extend	VBZ	_	0	root	_	O
+9	last	last	JJ	_	10	nmod	_	B-DATE
+10	year	year	NN	_	12	poss	_	I-DATE
+11	's	's	POS	_	10	case	_	L-DATE
+12	forgiveness	forgiveness	NN	_	8	dobj	_	O
+13	"	"	''	pos2=``	14	punct	_	O
+14	change	change	NN	pos2=VB	12	acl	_	O
+15	.	.	.	_	8	punct	_	O
+16	"	"	''	_	8	punct	_	O
+

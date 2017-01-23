@@ -1,0 +1,19 @@
+1	#ZaynMalik	#zaynmalik	NNP	pos2=NNS	2	nsubj	_	O
+2	GOT	get	VBD	pos2=VBN	0	root	_	O
+3	TA	ta	NNP	pos2=NN	4	compound	_	B-GPE
+4	ZAYN	zayn	NNP	_	5	compound	_	L-GPE
+5	T-SHIRT	t-shirt	NN	pos2=NNP	7	compound	_	O
+6	ZAYN	zayn	NNP	pos2=FW	7	compound	_	B-PERSON
+7	MALIK	malik	NNP	pos2=NN	10	compound	_	L-PERSON
+8	UNISEX	unisex	NN	pos2=JJ	9	compound	_	O
+9	SHIRT	shirt	NN	pos2=NNP	10	compound	_	O
+10	QUOTE	quote	NN	pos2=FW	15	compound	_	O
+11	TUMBLR	tumblr	NNP	pos2=NN	13	compound	_	B-ORG
+12	T	t	NNP	pos2=NN	13	compound	_	I-ORG
+13	SHIRTS	shirt	NNPS	pos2=GW	18	compound	_	I-ORG
+14	TEE	tee	NNP	pos2=NN	15	compound	_	I-ORG
+15	PILLOWTALK	pillowtalk	NNP	pos2=-LRB-	16	dep	_	L-ORG
+16	https://t.co/OWMjpInNUJ	#hlink#	ADD	_	18	dep	_	O
+17	#OneDirection	#onedirection	ADD	pos2=-RRB-	0	root	_	O
+18	#Zayne	#zayne	NNP	pos2=ADD	17	pobj	_	O
+

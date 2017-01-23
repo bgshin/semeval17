@@ -1,0 +1,28 @@
+1	Kim	kim	NNP	_	2	compound	_	B-PERSON
+2	Fatty	fatty	NNP	pos2=JJ	6	nsubj	_	L-PERSON
+3	the	the	DT	_	4	det	_	O
+4	Third	#ord#	NNP	pos2=JJ	2	appos	_	U-ORDINAL
+5	not	not	RB	_	6	neg	_	O
+6	happy	happy	JJ	_	0	root	_	O
+7	!	!	.	_	6	punct	_	O
+
+1	People	people	NNS	pos2=NNP	5	nsubj	_	O
+2	in	in	IN	_	1	prep	_	O
+3	China	china	NNP	_	2	pobj	_	U-GPE
+4	are	be	VBP	_	5	aux	_	O
+5	calling	call	VBG	_	0	root	_	O
+6	Kim	kim	NNP	_	8	compound	_	B-PERSON
+7	Jong	jong	NNP	_	8	compound	_	L-PERSON
+8	Un	un	NNP	_	9	compound	_	O
+9	fat	fat	NN	pos2=NNP	5	dobj	_	O
+10	,	,	,	_	5	punct	_	O
+11	and	and	CC	_	5	cc	_	O
+12	North	north	NNP	_	13	compound	_	B-GPE
+13	Korea	korea	NNP	_	14	nsubj	_	L-GPE
+14	is	be	VBZ	_	5	conj	_	O
+15	n't	not	RB	_	14	neg	_	O
+16	happy	happy	JJ	_	14	acomp	_	O
+17	about	about	IN	_	16	prep	_	O
+18	it	it	PRP	_	17	pobj	_	O
+19	https://t.co/sKbjdfsWIM	#hlink#	ADD	_	18	appos	_	U-ORG
+

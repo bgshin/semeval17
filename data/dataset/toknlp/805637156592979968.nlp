@@ -1,0 +1,19 @@
+1	@dot_brave	@dot_brave	NNP	pos2=IN	2	compound	_	O
+2	Trump	trump	NNP	pos2=NN	3	nsubj	_	U-PERSON
+3	won	win	VBD	pos2=VBN	0	root	_	O
+4	because	because	IN	_	3	prep	_	O
+5	of	of	IN	_	4	pcomp	_	O
+6	voter	voter	NN	_	7	compound	_	O
+7	suppression	suppression	NN	_	4	pobj	_	O
+8	and	and	CC	_	3	cc	_	O
+9	lost	lose	VBD	pos2=VBN	3	conj	_	O
+10	the	the	DT	_	12	det	_	O
+11	popular	popular	JJ	_	12	nmod	_	O
+12	vote	vote	NN	_	9	dobj	_	O
+13	,	,	,	_	3	punct	_	O
+14	but	but	CC	_	3	cc	_	O
+15	thanks	thanks	NNS	pos2=NN	12	conj	_	O
+16	for	for	IN	_	15	prep	_	O
+17	playing	play	VBG	pos2=NN	16	pcomp	_	O
+18	.	.	.	_	3	punct	_	O
+

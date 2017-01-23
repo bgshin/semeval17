@@ -1,0 +1,8 @@
+1	Microsoft	microsoft	NNP	_	2	nsubj	_	U-ORG
+2	Joins	join	VBZ	_	0	root	_	O
+3	The	the	DT	pos2=NNP	5	det	_	B-ORG
+4	Linux	linux	NNP	_	5	compound	_	I-ORG
+5	Foundation	foundation	NNP	pos2=GW	2	dobj	_	L-ORG
+6	https://t.co/VI0R2YdpEd	#hlink#	ADD	_	7	nmod	_	O
+7	https://t.co/hjROORV4Nk	#hlink#	ADD	_	5	appos	_	U-ORG
+

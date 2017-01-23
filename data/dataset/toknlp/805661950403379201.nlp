@@ -1,0 +1,23 @@
+1	and	and	CC	_	5	cc	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	'll	will	MD	_	5	aux	_	O
+4	be	be	VB	_	5	aux	_	O
+5	making	make	VBG	_	0	root	_	O
+6	160k	0k	CD	pos2=NN	5	punct	_	U-CARDINAL
+7	as	as	IN	_	5	prep	_	O
+8	a	a	DT	_	10	det	_	O
+9	corporate	corporate	JJ	_	10	nmod	_	O
+10	lawyer	lawyer	NN	_	7	pobj	_	O
+11	while	while	IN	_	14	mark	_	O
+12	ur	ur	PRP	pos2=FW	14	nsubj	_	O
+13	still	still	RB	_	14	advmod	_	O
+14	living	live	VBG	_	5	advcl	_	O
+15	in	in	IN	_	14	prep	_	O
+16	a	a	DT	_	18	det	_	O
+17	crummy	crummy	JJ	_	18	nmod	_	O
+18	town	town	NN	_	15	pobj	_	O
+19	making	make	VBG	_	14	advcl	_	O
+20	minimum	minimum	JJ	_	22	nmod	_	O
+21	wage	wage	NN	_	22	compound	_	O
+22	😊	😊	NN	pos2=NNP	19	dobj	_	O
+

@@ -1,0 +1,17 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	Valentines	valentines	NNP	pos2=NNS	0	root	_	U-FAC
+3	.	.	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	get	get	VBP	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	spend	spend	VB	_	2	xcomp	_	O
+5	it	it	PRP	_	4	dobj	_	O
+6	alone	alone	RB	pos2=JJ	4	advmod	_	O
+7	since	since	IN	_	9	mark	_	O
+8	I	I	PRP	_	9	nsubj	_	O
+9	have	have	VBP	_	4	advcl	_	O
+10	no	no	DT	_	11	det	_	O
+11	one	#crd#	NN	pos2=GW	9	dobj	_	O
+12	https://t.co/6fy8hhHX8J	#hlink#	ADD	pos2=NN	2	dep	_	U-ORG
+

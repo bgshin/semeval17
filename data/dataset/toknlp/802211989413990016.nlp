@@ -1,0 +1,24 @@
+1	@petestavros	@petestavros	UH	pos2=NNS	2	discourse	_	O
+2	@megynkelly	@megynkelly	VB	pos2=IN	0	root	_	O
+3	her	her	PRP$	_	4	poss	_	O
+4	attack	attack	NN	_	2	dobj	_	O
+5	onTRUMP	ontrump	NNP	pos2=NN	4	appos	_	U-PERSON
+6	for	for	IN	_	2	prep	_	O
+7	"	"	``	_	11	punct	_	O
+8	locker	locker	NN	pos2=JJR	9	compound	_	O
+9	room	room	NN	_	11	nmod	_	O
+10	"	"	''	pos2=``	11	punct	_	O
+11	talk	talk	NN	pos2=VB	6	pobj	_	O
+12	yet	yet	CC	pos2=RB	2	cc	_	O
+13	she	she	PRP	_	14	nsubj	_	O
+14	takes	take	VBZ	_	2	conj	_	O
+15	sexy	sexy	JJ	_	16	nmod	_	O
+16	pictures	picture	NNS	_	14	dobj	_	O
+17	she	she	PRP	_	18	nsubj	_	O
+18	's	's	VBZ	_	14	parataxis	_	O
+19	a	a	DT	_	20	det	_	O
+20	hypocrite	hypocrite	NN	pos2=AFX	18	attr	_	O
+21	What	what	WP	pos2=WDT	23	dep	_	O
+22	…	…	NFP	pos2=VBD	23	punct	_	O
+23	https://t.co/6pZyhbhwsz	#hlink#	ADD	pos2=NN	18	dep	_	O
+

@@ -1,0 +1,26 @@
+1	Call	call	VB	pos2=VBP	0	root	_	O
+2	these	these	DT	_	4	det	_	O
+3	GOP	gop	NNP	pos2=JJ	4	compound	_	U-ORG
+4	Senators	senator	NNPS	pos2=NNS	1	dobj	_	O
+5	and	and	CC	_	1	cc	_	O
+6	ask	ask	VB	pos2=VBP	1	conj	_	O
+7	them	them	PRP	_	6	dobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	stop	stop	VB	_	6	xcomp	_	O
+10	/	/	SYM	pos2=HYPH	9	punct	_	O
+11	block	block	NN	pos2=VB	13	compound	_	O
+12	Michael	michael	NNP	_	13	compound	_	B-PERSON
+13	Flynn	flynn	NNP	_	9	dobj	_	L-PERSON
+14	for	for	IN	_	9	prep	_	O
+15	Nat'l	nat'l	NNP	_	16	compound	_	B-GPE
+16	Sec	sec	NNP	_	14	pobj	_	L-GPE
+17	,	,	,	_	16	punct	_	O
+18	Steve	steve	NNP	_	19	compound	_	B-PERSON
+19	Bannon	bannon	NNP	_	16	appos	_	L-PERSON
+20	for	for	IN	_	19	prep	_	O
+21	Chief	chief	NNP	_	20	pobj	_	O
+22	of	of	IN	_	21	prep	_	O
+23	Strategy	strategy	NNP	pos2=NN	22	pobj	_	O
+24	…	…	NFP	pos2=-LRB-	25	punct	_	O
+25	https://t.co/S2DhEOcC2Z	#hlink#	ADD	_	21	appos	_	O
+

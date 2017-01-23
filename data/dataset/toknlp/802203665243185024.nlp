@@ -1,0 +1,18 @@
+1	🔥	🔥	NNP	pos2=SYM	3	compound	_	B-ORG
+2	Leftist	leftist	NNP	pos2=JJ	3	compound	_	I-ORG
+3	Smurf	smurf	NNP	_	4	nsubj	_	L-ORG
+4	Defaces	deface	VBZ	pos2=NNPS	0	root	_	O
+5	landmark	landmark	NN	_	4	dobj	_	O
+6	with	with	IN	_	5	prep	_	O
+7	anti	anti	AFX	pos2=NN	9	nmod	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	#Trump	#trump	NNP	pos2=NN	10	compound	_	O
+10	lies	lie	NNS	pos2=VBZ	6	pobj	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	#DayAfterThanksgiving	#dayafterthanksgiving	VBG	pos2=ADD	5	nmod	_	O
+2	#AllLivesMatter	#alllivesmatter	GW	pos2=ADD	5	nmod	_	O
+3	#MAGA	#maga	GW	pos2=NN	5	nmod	_	U-MONEY
+4	…	…	GW	pos2=NFP	5	nmod	_	O
+5	https://t.co/R8iTuEo8NT	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,19 @@
+1	@Dwarfpoo	@dwarfpoo	NNP	pos2=UH	2	compound	_	U-ORG
+2	@NAInfidels	@nainfidels	NNS	pos2=ADD	3	nsubj	_	O
+3	@FrankChanged	@frankchanged	VBD	pos2=VBN	0	root	_	O
+4	@TruthIwant2	@truthiwant0	NN	pos2=NNS	3	dobj	_	O
+5	@PrisonPlanet	@prisonplanet	TO	pos2=NN	6	aux	_	O
+6	read	read	VB	pos2=VBD	3	advcl	_	O
+7	my	my	PRP$	_	8	poss	_	O
+8	articles	article	NNS	_	6	dobj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	#Israel	#israel	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	treats	treat	VBZ	pos2=NNS	0	root	_	O
+3	#Hamas	#hamas	NNP	pos2=NNPS	4	compound	_	U-ORG
+4	daughter	daughter	NN	_	2	dobj	_	O
+5	,	,	,	_	2	punct	_	O
+6	people	people	NNS	_	4	appos	_	O
+7	from	from	IN	_	6	prep	_	O
+8	#Gaza	#gaza	NNP	pos2=NNS	7	pobj	_	O
+

@@ -1,0 +1,20 @@
+1	@frioux	@frioux	UH	pos2=NN	2	discourse	_	O
+2	Seems	seem	VBZ	_	0	root	_	O
+3	to	to	IN	_	2	prep	_	O
+4	me	me	PRP	_	3	pobj	_	O
+5	like	like	IN	pos2=VB	10	mark	_	O
+6	at	at	IN	_	5	prep	_	O
+7	this	this	DT	_	8	det	_	O
+8	point	point	NN	pos2=JJ	6	pobj	_	O
+9	liberals	liberal	NNS	_	10	nsubj	_	O
+10	are	be	VBP	_	2	advcl	_	O
+11	hypersuspicious	hypersuspicious	JJ	pos2=NNS	10	acomp	_	O
+12	of	of	IN	_	11	prep	_	O
+13	non-mainstream	non-mainstream	JJ	_	14	nmod	_	O
+14	sources	source	NNS	_	12	pobj	_	O
+15	and	and	CC	_	14	cc	_	O
+16	rightists	rightist	NNS	_	14	conj	_	O
+17	hyper-suspicious	hyper-suspicious	JJ	pos2=IN	14	nmod	_	O
+18	of	of	IN	_	17	prep	_	O
+19	mainstream	mainstream	NN	pos2=JJ	18	pobj	_	O
+

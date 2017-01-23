@@ -1,0 +1,9 @@
+1	@amethystseaML	@amethystseaml	NNS	pos2=UH	2	nsubj	_	O
+2	@morgan_murphy	@morgan_murphy	NFP	pos2=VBP	0	root	_	O
+3	while	while	IN	_	6	mark	_	O
+4	humorless	humorless	JJ	_	5	nmod	_	O
+5	conservatives	conservative	NNS	_	6	nsubj	_	O
+6	are	be	VBP	_	2	advcl	_	O
+7	a	a	DT	_	8	det	_	O
+8	pleonasm	pleonasm	NN	_	6	attr	_	O
+

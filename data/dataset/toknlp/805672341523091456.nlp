@@ -1,0 +1,33 @@
+1	@armyjobs	@armyjobs	UH	pos2=NNS	2	discourse	_	O
+2	Put	put	VB	_	0	root	_	O
+3	your	your	PRP$	_	4	poss	_	O
+4	life	life	NN	_	2	dobj	_	O
+5	at	at	IN	_	2	prep	_	O
+6	risk	risk	NN	_	5	pobj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	minimum	minimum	JJ	_	9	nmod	_	O
+9	wage	wage	NN	_	7	pobj	_	O
+10	!	!	.	_	2	punct	_	O
+
+1	Once	once	IN	pos2=RB	5	mark	_	O
+2	you	you	PRP	_	5	nsubjpass	_	O
+3	've	have	VBP	_	5	aux	_	O
+4	been	be	VBN	_	5	auxpass	_	O
+5	injured	injure	VBN	_	9	advcl	_	O
+6	and	and	CC	_	5	cc	_	O
+7	of	of	IN	_	0	root	_	O
+8	no	no	DT	_	9	det	_	O
+9	use	use	NN	_	7	pobj	_	O
+10	you	you	PRP	_	12	nsubjpass	_	O
+11	are	be	VBP	_	12	auxpass	_	O
+12	abandoned	abandon	VBN	_	5	conj	_	O
+13	or	or	CC	_	12	cc	_	O
+14	left	leave	VBN	pos2=JJ	12	conj	_	O
+15	homeless	homeless	JJ	_	14	oprd	_	O
+16	!	!	.	_	12	punct	_	O
+
+1	Why	why	WRB	_	3	advmod	_	O
+2	not	not	RB	_	3	neg	_	O
+3	join	join	VB	_	0	root	_	O
+4	😂	😂	NNP	pos2=JJR	3	dobj	_	U-ORG
+

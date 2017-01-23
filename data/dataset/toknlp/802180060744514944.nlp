@@ -1,0 +1,7 @@
+1	Boys	boy	NNS	pos2=NNPS	2	nsubj	_	O
+2	looked	look	VBD	_	0	root	_	O
+3	so	so	RB	pos2=IN	6	nmod	_	O
+4	FAF#MPN	faf#mpn	GW	pos2=NNP	6	nmod	_	B-PERSON
+5	#OneDirection	#onedirection	GW	pos2=ADD	6	nmod	_	L-PERSON
+6	https://t.co/UCxe9GNgk1	#hlink#	ADD	pos2=NN	2	acomp	_	O
+

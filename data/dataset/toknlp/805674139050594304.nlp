@@ -1,0 +1,23 @@
+1	#MuhammadAli	#muhammadali	NNS	pos2=NNP	22	nmod	_	O
+2	MUHAMMAD	muhammad	NNP	pos2=NN	3	compound	_	B-PERSON
+3	ALI	ali	NNP	_	4	nsubj	_	L-PERSON
+4	Signed	sign	VBD	pos2=VBN	1	relcl	_	O
+5	IN	in	IN	pos2=NNP	4	prep	_	O
+6	THE	the	DT	_	7	det	_	O
+7	RING	ring	NN	pos2=NNP	5	pobj	_	O
+8	8	0	CD	_	11	nmod	_	U-CARDINAL
+9	x	x	SYM	_	10	punct	_	O
+10	10	0	CD	_	8	prep	_	U-CARDINAL
+11	#Photo	#photo	NNS	pos2=FW	4	dobj	_	O
+12	with	with	IN	_	4	prep	_	O
+13	PSA	psa	NN	_	20	nmod	_	B-ORG
+14	/	/	SYM	pos2=HYPH	20	punct	_	I-ORG
+15	DNA	dna	NN	_	16	compound	_	I-ORG
+16	LOA	loa	NN	pos2=NNP	13	appos	_	I-ORG
+17	&	&	CC	_	16	cc	_	I-ORG
+18	Graded	graded	JJ	pos2=GW	20	nmod	_	L-ORG
+19	10	0	CD	_	20	dep	_	B-CARDINAL
+20	https://t.co/praJrFa524	#hlink#	ADD	_	22	nmod	_	L-CARDINAL
+21	#Legend	#legend	-RRB-	pos2=ADD	20	punct	_	O
+22	#Boxer	#boxer	NN	pos2=-RRB-	0	root	_	O
+

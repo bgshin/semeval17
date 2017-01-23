@@ -1,0 +1,22 @@
+1	@timtriche	@timtriche	UH	pos2=PRP	3	discourse	_	O
+2	@tqchenml	@tqchenml	UH	pos2=MD	3	discourse	_	O
+3	come	come	VB	pos2=VBP	0	root	_	O
+4	to	to	IN	_	3	prep	_	O
+5	my	my	PRP$	_	7	poss	_	O
+6	lightning	lightning	NN	_	7	compound	_	O
+7	talk	talk	NN	pos2=VB	4	pobj	_	O
+8	"	"	``	pos2=''	10	punct	_	O
+9	deep	deep	JJ	pos2=RB	10	nmod	_	O
+10	learning	learning	NN	pos2=VBG	7	appos	_	O
+11	with	with	IN	_	10	prep	_	O
+12	R	r	NNP	pos2=JJ	11	pobj	_	O
+13	"	"	''	_	10	punct	_	O
+14	at	at	IN	_	10	prep	_	O
+15	the	the	DT	_	19	det	_	O
+16	next	next	JJ	_	19	nmod	_	O
+17	LA	la	NNP	_	18	compound	_	O
+18	R	r	NNP	pos2=JJ	19	compound	_	O
+19	meetup	meetup	NN	_	14	pobj	_	O
+20	and	and	CC	_	3	cc	_	O
+21	see	see	VB	pos2=UH	3	conj	_	O
+

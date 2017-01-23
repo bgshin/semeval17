@@ -1,0 +1,29 @@
+1	Anyone	anyone	NN	_	14	nsubj	_	O
+2	who	who	WP	_	4	nsubj	_	O
+3	actually	actually	RB	_	4	advmod	_	O
+4	believes	believe	VBZ	_	1	relcl	_	O
+5	people	people	NNS	_	6	nsubj	_	O
+6	were	be	VBD	_	9	auxpass	_	O
+7	/	/	SYM	pos2=,	9	punct	_	O
+8	are	be	VBP	_	9	auxpass	_	O
+9	paid	pay	VBN	_	4	ccomp	_	O
+10	to	to	TO	_	11	aux	_	O
+11	protest	protest	VB	pos2=NN	9	advcl	_	O
+12	against	against	IN	_	11	prep	_	O
+13	Trump	trump	NNP	pos2=NN	12	pobj	_	U-ORG
+14	are	be	VBP	_	0	root	_	O
+15	the	the	DT	_	16	det	_	O
+16	reason	reason	NN	_	14	attr	_	O
+17	we	we	PRP	_	18	nsubj	_	O
+18	fail	fail	VBP	_	16	relcl	_	O
+19	right	right	RB	_	20	advmod	_	O
+20	now	now	RB	_	18	advmod	_	O
+21	.	.	.	_	14	punct	_	O
+
+1	We	we	PRP	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	A	a	DT	pos2=GW	2	det	_	O
+2	…	…	NFP	pos2=:	3	punct	_	O
+3	https://t.co/lFF1uDVLwV	#hlink#	ADD	pos2=NN	0	root	_	O
+

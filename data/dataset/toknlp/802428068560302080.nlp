@@ -1,0 +1,26 @@
+1	@sahilkapur	@sahilkapur	UH	pos2=XX	7	discourse	_	O
+2	@puppymnkey	@puppymnkey	UH	pos2=NN	7	discourse	_	O
+3	@NPR	@npr	UH	pos2=NNP	7	discourse	_	O
+4	How	how	WRB	_	7	advmod	_	O
+5	can	can	MD	_	7	aux	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	call	call	VB	_	0	root	_	O
+8	something	something	NN	_	7	dobj	_	O
+9	Fake	fake	JJ	_	10	nmod	_	O
+10	news	news	NN	_	8	appos	_	O
+11	when	when	WRB	_	16	advmod	_	O
+12	6	0	CD	_	13	nmod	_	B-PERCENT
+13	%	%	NN	_	16	nsubj	_	L-PERCENT
+14	of	of	IN	_	13	prep	_	O
+15	Americans	american	NNPS	_	14	pobj	_	U-NORP
+16	believe	believe	VBP	_	7	advcl	_	O
+17	the	the	DT	_	19	det	_	O
+18	liberal	liberal	JJ	_	19	nmod	_	O
+19	media	medium	NNS	pos2=NN	14	pobj	_	O
+20	?	?	.	_	7	punct	_	O
+
+1	Boy	boy	NN	pos2=NNP	2	compound	_	O
+2	liberals	liberal	NNS	_	4	nsubj	_	O
+3	R	r	JJ	pos2=VBP	4	nmod	_	O
+4	losing	lose	VBG	pos2=NN	0	root	_	O
+

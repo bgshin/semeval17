@@ -1,0 +1,24 @@
+1	Soros	soros	NNP	pos2=RB	2	nsubj	_	U-PERSON
+2	hoping	hope	VBG	_	0	root	_	O
+3	2	0	CD	_	5	nmod	_	U-CARDINAL
+4	avoid	avoid	VB	pos2=IN	2	ccomp	_	O
+5	prison	prison	NN	_	4	dobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	Like	like	UH	pos2=IN	5	discourse	_	O
+2	we	we	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	know	know	VB	_	0	root	_	O
+6	who	who	WP	_	7	nsubj	_	O
+7	pays	pay	VBZ	_	5	ccomp	_	O
+8	4	0	CD	_	11	nmod	_	U-CARDINAL
+9	paid	pay	VBN	pos2=VBD	11	nmod	_	O
+10	hate	hate	NN	pos2=VBP	11	compound	_	O
+11	riots	riot	NNS	pos2=VBZ	12	compound	_	O
+12	protestors	protestor	NNS	_	7	dobj	_	O
+13	?	?	.	_	5	punct	_	O
+
+1	https://t.co/VMNciMkkwr	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/RLYz2E0OBH	#hlink#	ADD	_	0	root	_	U-ORG
+

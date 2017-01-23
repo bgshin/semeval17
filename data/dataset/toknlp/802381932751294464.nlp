@@ -1,0 +1,23 @@
+1	Trudeau	trudeau	NNP	pos2=JJS	2	compound	_	U-PERSON
+2	Liberals	liberal	NNPS	pos2=NNS	5	nsubj	_	U-NORP
+3	even	even	RB	_	5	advmod	_	O
+4	will	will	MD	_	5	aux	_	O
+5	remove	remove	VB	_	19	ccomp	_	O
+6	mandatory	mandatory	JJ	_	8	nmod	_	O
+7	minimum	minimum	JJ	_	8	nmod	_	O
+8	sentences	sentence	NNS	_	5	dobj	_	O
+9	on	on	IN	_	5	prep	_	O
+10	sex	sex	NN	_	11	compound	_	O
+11	crimes	crime	NNS	_	9	pobj	_	O
+12	against	against	IN	_	11	prep	_	O
+13	children	child	NNS	_	15	compound	_	O
+14	-	-	HYPH	pos2=SYM	15	punct	_	O
+15	😮	😮	NN	pos2=NNP	12	pobj	_	O
+16	-	-	HYPH	pos2=,	19	punct	_	O
+17	did	do	VBD	_	19	aux	_	O
+18	you	you	PRP	_	19	nsubj	_	O
+19	vote	vote	VB	_	0	root	_	O
+20	for	for	IN	_	19	prep	_	O
+21	…	…	NFP	pos2=-LRB-	20	pobj	_	O
+22	https://t.co/iaKgfSbUwg	#hlink#	ADD	pos2=NN	20	pobj	_	O
+

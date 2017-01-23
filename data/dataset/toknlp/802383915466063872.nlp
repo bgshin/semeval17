@@ -1,0 +1,18 @@
+1	New	new	JJ	pos2=NNP	2	nmod	_	O
+2	Low	low	NNP	pos2=JJ	7	nsubj	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Dems	dems	NNPS	pos2=NNP	6	compound	_	U-NORP
+5	-	-	HYPH	pos2=:	6	punct	_	O
+6	@pattonoswalt	@pattonoswalt	NNP	pos2=NN	3	pobj	_	O
+7	encourages	encourage	VBZ	_	0	root	_	O
+8	Terrorists	terrorist	NNPS	pos2=NNS	7	dobj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	attack	attack	VB	_	7	xcomp	_	O
+11	PresidentElect	presidentelect	NNP	_	13	poss	_	U-ORG
+12	's	's	POS	_	11	case	_	O
+13	properties	property	NNS	_	10	dobj	_	O
+14	@FBI	@fbi	VBP	pos2=NNP	17	nmod	_	O
+15	@SecretService	@secretservice	GW	pos2=NNS	17	nmod	_	O
+16	…	…	NFP	pos2=GW	17	punct	_	O
+17	https://t.co/GMCYRGqgaf	#hlink#	ADD	pos2=NN	7	dobj	_	O
+

@@ -1,0 +1,26 @@
+1	Faculties	faculty	NNS	_	3	nsubj	_	O
+2	overwlmngly	overwlmngly	TO	pos2=RB	3	aux	_	O
+3	vote	vote	VB	pos2=NN	7	ccomp	_	O
+4	Dem	dem	NNP	pos2=NN	3	dobj	_	U-PERSON
+5	,	,	,	_	7	punct	_	O
+6	study	study	NN	_	7	nsubj	_	O
+7	finds	find	VBZ	pos2=NNS	0	root	_	O
+8	.	.	.	_	7	punct	_	O
+
+1	Even	even	RB	_	3	advmod	_	O
+2	econ	econ	NN	pos2=JJ	3	compound	_	O
+3	profs	professor	NNS	_	4	nsubj	_	O
+4	go	go	VBP	pos2=VB	0	root	_	O
+5	left	left	JJ	pos2=RB	4	acomp	_	O
+6	,	,	,	_	4	punct	_	O
+7	debunking	debunk	VBG	pos2=NN	4	advcl	_	O
+8	belief	belief	NN	_	7	dobj	_	O
+9	that	that	IN	pos2=WDT	11	mark	_	O
+10	Repubs	repubs	NNP	pos2=NNPS	11	nsubj	_	O
+11	bttr	bttr	IN	pos2=XX	8	acl	_	O
+12	4	0	CD	_	13	nmod	_	U-CARDINAL
+13	biz	biz	NN	pos2=NNS	11	pobj	_	O
+14	.	.	.	_	4	punct	_	O
+
+1	https://t.co/LAkCuXT9vQ	#hlink#	ADD	_	0	root	_	U-ORG
+

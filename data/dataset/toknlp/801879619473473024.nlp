@@ -1,0 +1,29 @@
+1	@ThatSarahKlem	@thatsarahklem	UH	pos2=ADD	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	bet	bet	VBP	pos2=VBD	0	root	_	O
+4	her	her	PRP$	_	6	poss	_	O
+5	hall	hall	NN	_	6	compound	_	O
+6	pass	pass	NN	pos2=VB	7	nsubj	_	O
+7	has	have	VBZ	_	3	ccomp	_	O
+8	Peyton	peyton	NNP	_	9	compound	_	B-PERSON
+9	Manning	manning	NNP	_	7	dobj	_	L-PERSON
+10	,	,	,	_	9	punct	_	O
+11	Megatron	megatron	NNP	_	9	conj	_	O
+12	&	&	CC	_	11	cc	_	O
+13	Justin	justin	NNP	_	14	compound	_	B-PERSON
+14	Verlander	verlander	NNP	_	11	conj	_	L-PERSON
+15	on	on	IN	_	19	prep	_	O
+16	it	it	PRP	_	15	pobj	_	O
+17	maybe	maybe	RB	_	19	advmod	_	O
+18	Barry	barry	NNP	_	19	compound	_	B-PERSON
+19	Sanders	sanders	NNP	_	14	appos	_	L-PERSON
+20	.	.	.	_	3	punct	_	O
+
+1	Sleeves	sleeve	NNS	_	3	nsubj	_	O
+2	like	like	UH	pos2=VBP	3	discourse	_	O
+3	seems	seem	VBZ	pos2=VB	0	root	_	O
+4	a	a	DT	_	7	det	_	O
+5	face	face	NN	_	7	compound	_	O
+6	-	-	HYPH	_	7	punct	_	O
+7	slap	slap	NN	_	3	oprd	_	O
+

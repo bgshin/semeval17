@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det	_	B-ORG
+2	Chicago	chicago	NNP	_	3	compound	_	I-ORG
+3	Alliance	alliance	NNP	_	7	nsubj	_	I-ORG
+4	Against	against	IN	_	3	prep	_	I-ORG
+5	Racism	racism	NNP	_	4	pobj	_	L-ORG
+6	is	be	VBZ	_	7	aux	_	O
+7	protesting	protest	VBG	_	0	root	_	O
+8	.	.	.	_	7	punct	_	O
+
+1	#Deplorables	#deplorables	NNS	pos2=VBZ	0	root	_	O
+

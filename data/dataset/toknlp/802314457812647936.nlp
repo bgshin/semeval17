@@ -1,0 +1,24 @@
+1	@csuwildcat	@csuwildcat	VB	pos2=IN	0	root	_	O
+2	Longer	long	JJR	pos2=NNP	3	nmod	_	O
+3	term	term	NN	_	4	compound	_	O
+4	prediction	prediction	NN	_	1	dobj	_	O
+5	re	re	IN	_	4	prep	_	O
+6	this	this	DT	pos2=NN	5	pobj	_	O
+7	:	:	:	_	6	punct	_	O
+8	self-driving	self-driving	JJ	pos2=NN	9	nmod	_	O
+9	cars	car	NNS	_	11	nsubj	_	O
+10	=	=	SYM	pos2=-LRB-	13	punct	_	O
+11	>	>	SYM	pos2=VBG	12	punct	_	O
+12	lower	low	JJR	pos2=JJ	13	nmod	_	O
+13	car	car	NN	_	15	compound	_	O
+14	ownershipelectric	ownershipelectric	WDT	pos2=JJ	9	cc	_	O
+15	cars	car	NNS	_	19	nsubj	_	O
+16	=	=	SYM	pos2=-LRB-	19	punct	_	O
+17	>	>	SYM	pos2=JJ	18	punct	_	O
+18	swappable	swappable	JJ	_	19	nmod	_	O
+19	parts	part	NNS	pos2=NN	0	root	_	O
+20	=	=	SYM	pos2=,	23	punct	_	O
+21	>	>	SYM	pos2=,	22	punct	_	O
+22	easier	easy	JJR	_	23	nmod	_	O
+23	repairs	repair	NNS	_	14	root	_	O
+

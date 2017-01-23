@@ -1,0 +1,24 @@
+1	@GiGiHadid	@gigihadid	VBD	pos2=XX	0	root	_	O
+2	you	you	PRP	pos2=PRP$	3	poss	_	O
+3	joke	joke	NN	_	4	nsubj	_	O
+4	was	be	VBD	_	1	ccomp	_	O
+5	funny	funny	JJ	pos2=RB	4	acomp	_	O
+6	I	I	PRP	_	7	nsubj	_	O
+7	thought	think	VBD	_	4	advcl	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	Everyone	everyone	NN	_	2	nsubj	_	O
+2	took	take	VBD	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	piss	piss	NN	pos2=VB	2	dobj	_	O
+5	out	out	IN	_	2	prep	_	O
+6	of	of	IN	_	5	prep	_	O
+7	melania	melania	NN	pos2=GW	8	compound	_	O
+8	trump	trump	NN	_	6	pobj	_	O
+9	for	for	IN	_	2	prep	_	O
+10	copying	copy	VBG	pos2=NN	9	pcomp	_	O
+11	Michelle	michelle	NNP	_	13	poss	_	U-PERSON
+12	's	's	POS	_	11	case	_	O
+13	speech	speech	NN	_	10	dobj	_	O
+14	.	.	.	_	2	punct	_	O
+

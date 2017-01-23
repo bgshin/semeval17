@@ -1,0 +1,18 @@
+1	@TrueIndology	@trueindology	NNP	pos2=XX	2	compound	_	O
+2	Americans	american	NNPS	_	3	nsubj	_	O
+3	lost	lose	VBD	_	0	root	_	O
+4	their	their	PRP$	_	6	poss	_	O
+5	moral	moral	JJ	_	6	nmod	_	O
+6	authority	authority	NN	_	3	dobj	_	O
+7	when	when	WRB	_	9	advmod	_	O
+8	they	they	PRP	_	9	nsubj	_	O
+9	issued	issue	VBD	_	3	advcl	_	O
+10	drone	drone	NN	_	11	compound	_	O
+11	strikes	strike	NNS	_	9	dobj	_	O
+12	on	on	IN	_	11	prep	_	O
+13	wedding	wedding	NN	pos2=VBG	14	compound	_	O
+14	parties	party	NNS	_	12	pobj	_	O
+15	and	and	CC	_	3	cc	_	O
+16	funerals@washingtonpost	funerals@washingtonpost	VB	pos2=VBD	3	conj	_	O
+17	@BDUTT	@bdutt	NN	pos2=ADD	16	dobj	_	O
+

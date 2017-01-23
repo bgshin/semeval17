@@ -1,0 +1,27 @@
+1	@bulbafren	@bulbafren	``	pos2=UH	24	punct	_	O
+2	Peaceful	peaceful	JJ	_	3	nmod	_	O
+3	euthanasia	euthanasia	NN	_	11	nsubj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	create	create	VB	_	3	acl	_	O
+6	a	a	DT	_	10	det	_	O
+7	world	world	NN	_	9	npadvmod	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	saving	save	VBG	pos2=NN	10	nmod	_	O
+10	cure	cure	NN	_	5	dobj	_	O
+11	is	be	VBZ	_	24	ccomp	_	O
+12	just	just	RB	_	14	advmod	_	O
+13	as	as	RB	_	14	advmod	_	O
+14	bad	bad	JJ	_	11	acomp	_	O
+15	as	as	IN	_	14	prep	_	O
+16	being	be	VBG	_	15	pcomp	_	O
+17	a	a	DT	_	21	det	_	O
+18	cannibal	cannibal	JJ	pos2=NN	21	nmod	_	O
+19	rapist	rapist	NN	_	21	compound	_	O
+20	cult	cult	NN	pos2=JJ	21	compound	_	O
+21	leader	leader	NN	_	16	attr	_	O
+22	;	;	,	pos2=:	24	punct	_	O
+23	nobody	nobody	NN	_	24	nsubj	_	O
+24	talks	talk	VBZ	pos2=NNS	0	root	_	O
+25	about	about	IN	_	24	prep	_	O
+26	this	this	DT	_	25	pobj	_	O
+

@@ -1,0 +1,8 @@
+1	Thanks	thanks	NN	pos2=NNS	7	dep	_	O
+2	for	for	IN	_	1	prep	_	O
+3	the	the	DT	_	5	det	_	O
+4	sickening	sickening	JJ	_	5	nmod	_	O
+5	update	update	NN	_	2	pobj	_	O
+6	#aleppo	#aleppo	WP	pos2=IN	7	dep	_	O
+7	https://t.co/grjwbKoNv2	#hlink#	ADD	_	0	root	_	O
+

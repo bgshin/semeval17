@@ -1,0 +1,24 @@
+1	@mcuban	@mcuban	UH	pos2=NN	8	discourse	_	O
+2	2	0	LS	_	8	meta	_	U-CARDINAL
+3	)	)	-RRB-	_	2	punct	_	O
+4	Reportedly	reportedly	RB	_	8	advmod	_	O
+5	,	,	,	_	8	punct	_	O
+6	Steve	steve	NNP	_	7	compound	_	B-PERSON
+7	Bannon	bannon	NNP	_	8	nsubj	_	L-PERSON
+8	told	tell	VBD	_	0	root	_	O
+9	Cuban	cuban	JJ	pos2=NNP	8	dobj	_	U-NORP
+10	that	that	IN	_	13	mark	_	O
+11	the	the	DT	_	12	det	_	O
+12	team	team	NN	_	13	nsubj	_	O
+13	needed	need	VBD	_	8	ccomp	_	O
+14	people	people	NNS	_	13	dobj	_	O
+15	around	around	IN	pos2=RB	14	prep	_	O
+16	who	who	WP	_	17	nsubj	_	O
+17	speak	speak	VBP	_	14	relcl	_	O
+18	their	their	PRP$	_	19	poss	_	O
+19	minds	mind	NNS	_	17	dobj	_	O
+20	,	,	,	_	13	punct	_	O
+21	not	not	RB	_	19	neg	_	O
+22	sycophants	sycophant	NNS	_	19	appos	_	O
+23	.	.	.	_	8	punct	_	O
+

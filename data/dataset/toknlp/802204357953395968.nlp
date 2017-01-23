@@ -1,0 +1,8 @@
+1	Negan	negan	NNP	pos2=NN	3	poss	_	U-PERSON
+2	's	's	POS	pos2=VBZ	1	case	_	O
+3	rules	rule	NNS	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	#TheWalkingDead	#thewalkingdead	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/bns9j408M6	#hlink#	ADD	_	0	root	_	O
+

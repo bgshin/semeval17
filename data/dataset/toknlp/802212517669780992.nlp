@@ -1,0 +1,23 @@
+1	@DanScavino	@danscavino	ADD	pos2=UH	3	punct	_	B-PERSON
+2	@realDonaldTrump	@realdonaldtrump	NNP	pos2=``	3	vocative	_	L-PERSON
+3	Let	let	VB	pos2=NNP	10	advcl	_	O
+4	's	's	PRP	_	5	nsubj	_	O
+5	keep	keep	VB	_	3	ccomp	_	O
+6	recounting	recount	VBG	_	5	xcomp	_	O
+7	-	-	:	pos2=,	10	punct	_	O
+8	we	we	PRP	_	10	nsubj	_	O
+9	can	can	MD	_	10	aux	_	O
+10	bury	bury	VB	_	0	root	_	O
+11	this	this	DT	_	14	det	_	O
+12	popular	popular	JJ	_	14	nmod	_	O
+13	vote	vote	NN	_	14	compound	_	O
+14	complaint	complaint	NN	_	10	dobj	_	O
+15	-	-	:	pos2=HYPH	16	punct	_	O
+16	get	get	VB	pos2=VBP	10	conj	_	O
+17	those	those	DT	_	20	det	_	O
+18	extra	extra	JJ	_	20	nmod	_	O
+19	questionable	questionable	JJ	_	20	nmod	_	O
+20	votes	vote	NNS	_	21	nsubj	_	O
+21	removed	remove	VBN	pos2=VBD	16	ccomp	_	O
+22	lol	lol	UH	pos2=NN	10	discourse	_	O
+

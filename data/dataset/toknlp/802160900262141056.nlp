@@ -1,0 +1,18 @@
+1	Powerful	powerful	JJ	_	2	nmod	_	O
+2	words	word	NNS	_	0	root	_	O
+3	on	on	IN	_	2	prep	_	O
+4	sport	sport	NN	_	3	pobj	_	O
+5	and	and	CC	_	4	cc	_	O
+6	life	life	NN	_	4	conj	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	Full	full	JJ	_	2	nmod	_	O
+2	transcript	transcript	NN	_	9	dep	_	O
+3	of	of	IN	_	2	prep	_	O
+4	Tony	tony	NNP	_	5	compound	_	B-PERSON
+5	Romo	romo	NNP	_	7	poss	_	I-PERSON
+6	's	's	POS	_	5	case	_	L-PERSON
+7	statement	statement	NN	_	3	pobj	_	O
+8	:	:	:	_	2	punct	_	O
+9	https://t.co/X6ZFnVXnv8	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,18 @@
+1	@BugsyBradshaw1	@bugsybradshaw0	NN	pos2=NNS	2	nsubj	_	O
+2	sad	sad	JJ	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	say	say	VB	_	2	xcomp	_	O
+5	I	I	PRP	_	7	nsubj	_	O
+6	am	be	VBP	_	7	aux	_	O
+7	bradim	bradim	VBG	pos2=XX	4	ccomp	_	O
+8	the	the	DT	_	10	det	_	O
+9	Tipp	tipp	NNP	_	10	compound	_	U-ORG
+10	people	people	NNS	_	7	dobj	_	O
+11	will	will	MD	_	12	aux	_	O
+12	love	love	VB	_	16	dep	_	O
+13	to	to	TO	_	14	aux	_	O
+14	buy	buy	VB	_	12	xcomp	_	O
+15	me	me	PRP	_	14	dative	_	O
+16	a	a	DT	_	0	root	_	O
+17	pint😄	pint😄	.	pos2=NNP	12	punct	_	O
+

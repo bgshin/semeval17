@@ -1,0 +1,16 @@
+1	Down	down	RB	pos2=RP	0	root	_	O
+2	with	with	IN	_	1	prep	_	O
+3	science	science	NN	_	4	compound	_	O
+4	#TheResistance	#theresistance	NN	pos2=NNP	6	compound	_	O
+5	#draintheswampMyron	#draintheswampmyron	NNP	pos2=NN	6	compound	_	B-PERSON
+6	Ebell	ebell	NNP	_	2	pobj	_	L-PERSON
+7	,	,	,	_	6	punct	_	O
+8	Climate	climate	NNP	_	11	compound	_	B-ORG
+9	Contrarian	contrarian	NNP	pos2=JJ	11	compound	_	I-ORG
+10	Leading	leading	NNP	pos2=VBG	11	compound	_	I-ORG
+11	Trump	trump	NNP	pos2=NN	14	poss	_	I-ORG
+12	's	's	POS	_	11	case	_	L-ORG
+13	EPA	epa	NNP	_	14	compound	_	O
+14	Transition	transition	NNP	pos2=NN	15	dep	_	O
+15	https://t.co/odTseKtTSM	#hlink#	ADD	_	6	appos	_	O
+

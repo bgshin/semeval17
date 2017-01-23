@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det	_	O
+2	electoral	electoral	JJ	_	3	nmod	_	O
+3	college	college	NN	_	6	nsubjpass	_	O
+4	was	be	VBD	_	6	auxpass	_	O
+5	actually	actually	RB	_	6	advmod	_	O
+6	instituted	institute	VBN	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	strengthen	strengthen	VB	_	6	advcl	_	O
+9	the	the	DT	_	10	det	_	O
+10	power	power	NN	_	8	dobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	votes	vote	NNS	_	11	pobj	_	O
+13	from	from	IN	_	12	prep	_	O
+14	slave	slave	NN	_	16	npadvmod	_	O
+15	-	-	HYPH	_	16	punct	_	O
+16	holding	hold	VBG	_	18	nmod	_	O
+17	white	white	JJ	_	18	nmod	_	O
+18	people	people	NNS	_	13	pobj	_	O
+

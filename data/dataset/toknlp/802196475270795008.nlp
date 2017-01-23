@@ -1,0 +1,16 @@
+1	EPISODE	episode	NN	_	15	dep	_	O
+2	15	0	CD	_	1	npadvmod	_	U-CARDINAL
+3	-	-	:	pos2=HYPH	15	punct	_	O
+4	FANTASTIC	fantastic	JJ	_	5	nmod	_	O
+5	BEASTS	beast	NNS	_	1	appos	_	O
+6	AND	and	CC	_	5	cc	_	O
+7	WHERE	where	WRB	pos2=GW	9	advmod	_	O
+8	TO	to	TO	_	9	aux	_	O
+9	FIND	find	VB	_	5	relcl	_	O
+10	THEMhttps://t.co/IS22mZy04p	#hlink#	ADD	pos2=RP	9	dobj	_	O
+11	#FBAWTFT	#fbawtft	-RRB-	pos2=ADD	15	nmod	_	O
+12	#MovieReview	#moviereview	VB	pos2=GW	15	nmod	_	O
+13	#MoviePodcast	#moviepodcast	GW	pos2=ADD	15	nmod	_	O
+14	…	…	NFP	pos2=GW	15	punct	_	O
+15	https://t.co/dXX3FX71lE	#hlink#	ADD	pos2=NN	0	root	_	O
+

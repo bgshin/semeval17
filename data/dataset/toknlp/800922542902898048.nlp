@@ -1,0 +1,14 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@liza_weil	@liza_weil	NNP	pos2=ADD	3	nsubj	_	U-ORG
+2	is	be	VBZ	_	3	aux	_	O
+3	going	go	VBG	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	be	be	VB	_	3	xcomp	_	O
+6	on	on	IN	_	5	prep	_	O
+7	@FallonTonight	@fallontonight	NN	pos2=CD	6	pobj	_	O
+8	tomorrow	tomorrow	NN	_	5	npadvmod	_	U-DATE
+9	.	.	.	_	3	punct	_	O
+
+1	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNS	0	root	_	O
+

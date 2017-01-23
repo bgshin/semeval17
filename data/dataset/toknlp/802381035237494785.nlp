@@ -1,0 +1,27 @@
+1	Stein	stein	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	runs	run	VBZ	pos2=NNS	6	csubj	_	O
+3	around	around	IN	pos2=RB	2	prep	_	O
+4	claiming	claim	VBG	_	3	pcomp	_	O
+5	HRC	hrc	NNP	pos2=NN	4	dobj	_	U-ORG
+6	is	be	VBZ	_	13	ccomp	_	O
+7	worse	bad	JJR	_	6	acomp	_	O
+8	than	than	IN	_	7	prep	_	O
+9	Trump	trump	NNP	pos2=NN	8	pobj	_	U-PERSON
+10	,	,	,	_	13	punct	_	O
+11	then	then	RB	_	13	advmod	_	O
+12	HRC	hrc	NNP	pos2=NN	13	nsubj	_	U-ORG
+13	loses	lose	VBZ	_	0	root	_	O
+14	3	0	CD	_	15	nmod	_	U-CARDINAL
+15	states	state	NNS	_	13	dobj	_	O
+16	w	w	IN	_	13	prep	_	O
+17	/	/	HYPH	pos2=SYM	16	punct	_	O
+18	in	in	IN	pos2=RP	16	prep	_	O
+19	margin	margin	NN	_	18	pobj	_	O
+20	of	of	IN	_	19	prep	_	O
+21	3rd	#ord#	JJ	pos2=NN	24	nmod	_	U-ORDINAL
+22	party	party	NN	_	23	compound	_	O
+23	protest	protest	NN	_	24	compound	_	O
+24	votes	vote	NNS	pos2=VBZ	20	pobj	_	O
+25	…	…	NFP	pos2=-LRB-	26	punct	_	O
+26	https://t.co/7l7rTjz6dS	#hlink#	ADD	_	13	dep	_	U-ORG
+

@@ -1,0 +1,18 @@
+1	team	team	NN	_	0	root	_	O
+2	with	with	IN	_	1	prep	_	O
+3	lebron	lebron	NN	pos2=NNP	4	compound	_	O
+4	jordan	jordan	NNP	pos2=NN	2	pobj	_	O
+5	,	,	,	_	4	punct	_	O
+6	jahlil	jahlil	NNP	pos2=JJ	7	compound	_	B-PERSON
+7	okafor	okafor	NNP	pos2=FW	4	conj	_	L-PERSON
+8	,	,	,	_	7	punct	_	O
+9	Tim	tim	NNP	_	10	compound	_	B-PERSON
+10	duncan	duncan	NNP	_	7	conj	_	L-PERSON
+11	,	,	,	_	10	punct	_	O
+12	Russell	russell	NNP	_	13	compound	_	B-PERSON
+13	westbrook	westbrook	NNP	pos2=VBD	10	conj	_	L-PERSON
+14	,	,	,	_	13	punct	_	O
+15	and	and	CC	_	13	cc	_	O
+16	lawrence	lawrence	NN	pos2=NNP	17	compound	_	O
+17	carnes	carnes	NNS	pos2=NNP	13	conj	_	O
+

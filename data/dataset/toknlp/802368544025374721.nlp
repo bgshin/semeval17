@@ -1,0 +1,11 @@
+1	https://t.co/e9laxZjApoBob	#hlink#	ADD	pos2=NNP	7	discourse	_	O
+2	Dylan	dylan	NNP	_	7	vocative	_	U-PERSON
+3	Not	not	RB	pos2=NNP	7	neg	_	O
+4	Dark	dark	NNP	pos2=JJ	5	compound	_	O
+5	Yetthis	yetthis	NNP	pos2=NNPS	7	nsubj	_	O
+6	'll	will	MD	_	7	aux	_	O
+7	keep	keep	VB	_	0	root	_	O
+8	oneself	oneself	PRP	_	7	dobj	_	O
+9	loving	love	VBG	pos2=JJ	7	xcomp	_	O
+10	life	life	NN	_	9	dobj	_	O
+

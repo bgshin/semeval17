@@ -1,0 +1,18 @@
+1	5	0	CD	pos2=LS	3	nmod	_	U-CARDINAL
+2	Expert	expert	NN	pos2=NNP	3	compound	_	O
+3	Tips	tip	NNS	pos2=NNPS	0	root	_	O
+4	That	that	WDT	pos2=DT	5	nsubj	_	O
+5	Guarantee	guarantee	VBP	pos2=NNP	3	relcl	_	O
+6	Success	success	NN	pos2=NNP	5	dobj	_	O
+7	In	in	IN	_	6	prep	_	O
+8	Marijuana	marijuana	NNP	_	10	compound	_	B-ORG
+9	Dispensary	dispensary	NNP	pos2=NN	10	compound	_	I-ORG
+10	Business	business	NNP	pos2=NN	7	pobj	_	L-ORG
+11	via	via	IN	_	5	prep	_	O
+12	/	/	SYM	pos2=,	15	punct	_	O
+13	r	r	VB	pos2=NNS	15	advmod	_	O
+14	/	/	SYM	pos2=,	10	punct	_	O
+15	medical	medical	JJ	pos2=GW	16	nmod	_	O
+16	https://t.co/ICoEIcvL3z	#hlink#	ADD	pos2=NN	17	nmod	_	O
+17	https://t.co/w74dnPtI1t	#hlink#	ADD	_	11	pobj	_	U-ORG
+

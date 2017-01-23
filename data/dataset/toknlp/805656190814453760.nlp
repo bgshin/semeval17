@@ -1,0 +1,33 @@
+1	Like	like	IN	pos2=UH	0	root	_	O
+2	who	who	WP	_	5	attr	_	O
+3	the	the	DT	_	4	det	_	O
+4	hell	hell	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	1	pcomp	_	O
+6	more	more	RBR	_	7	advmod	_	O
+7	qualified	qualified	JJ	_	5	acomp	_	O
+8	than	than	IN	_	13	pobj	_	O
+9	myself	myself	PRP	_	8	pobj	_	O
+10	to	to	TO	_	12	aux	_	O
+11	get	get	VB	_	12	auxpass	_	O
+12	screamed	scream	VBN	_	7	xcomp	_	O
+13	at	at	IN	pos2=RB	12	prep	_	O
+14	by	by	IN	pos2=RB	12	agent	_	O
+15	pissed	pissed	JJ	_	17	nmod	_	O
+16	soccer	soccer	NN	_	17	compound	_	O
+17	moms	mom	NNS	_	14	pobj	_	O
+18	for	for	IN	_	12	prep	_	O
+19	minimum	minimum	JJ	_	20	nmod	_	O
+20	wage	wage	NN	_	18	pobj	_	O
+21	!	!	.	_	1	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	've	have	VBP	_	3	aux	_	O
+3	been	be	VBN	_	0	root	_	O
+4	a	a	DT	pos2=XX	5	det	_	O
+5	pee	pee	NN	_	3	attr	_	O
+6	on	on	IN	_	5	prep	_	O
+7	my	my	PRP$	_	9	poss	_	O
+8	whole	whole	JJ	_	9	nmod	_	O
+9	life	life	NN	_	6	pobj	_	O
+10	!	!	.	_	3	punct	_	O
+

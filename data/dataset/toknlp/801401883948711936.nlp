@@ -1,0 +1,16 @@
+1	@OurVoicesAR	@ourvoicesar	NNP	pos2=XX	4	nmod	_	O
+2	Many	many	JJ	pos2=NNP	8	nsubjpass	_	O
+3	of	of	IN	_	2	prep	_	O
+4	the	the	DT	_	6	det	_	O
+5	Anti-Trump	anti-trump	JJ	pos2=NNP	6	nmod	_	O
+6	riots	riot	NNS	_	3	pobj	_	O
+7	are	be	VBP	_	8	auxpass	_	O
+8	led	lead	VBN	_	0	root	_	O
+9	by	by	IN	_	8	agent	_	O
+10	REVCOM	revcom	NNP	pos2=NN	9	pobj	_	B-ORG
+11	(	(	-LRB-	_	13	punct	_	I-ORG
+12	Communist	communist	NNP	_	13	compound	_	I-ORG
+13	Party	party	NNP	_	10	appos	_	L-ORG
+14	)	)	-RRB-	_	10	punct	_	O
+15	!!	!!	.	_	8	punct	_	O
+

@@ -1,0 +1,20 @@
+1	@ChatBotTopNws	@chatbottopnws	NNS	pos2=ADD	3	nsubj	_	O
+2	@TheodoraPetkova	@theodorapetkova	RB	pos2=NNP	3	advmod	_	O
+3	hoping	hope	VBG	_	0	root	_	O
+4	our	our	PRP$	_	6	poss	_	O
+5	Fellow	fellow	JJ	pos2=NNP	6	nmod	_	O
+6	Robots	robot	NNS	pos2=NNP	3	dobj	_	O
+7	and	and	CC	_	3	cc	_	O
+8	chat	chat	VB	pos2=VBP	3	conj	_	O
+9	bots	bot	NNS	_	10	nsubj	_	O
+10	learn	learn	VBP	pos2=VB	8	ccomp	_	O
+11	some	some	DT	_	12	det	_	O
+12	manners	manner	NNS	_	10	dobj	_	O
+13	and	and	CC	_	12	cc	_	O
+14	deeper	deep	JJR	_	15	nmod	_	O
+15	understanding	understanding	NN	_	12	conj	_	O
+16	of	of	IN	_	15	prep	_	O
+17	humans	human	NNS	_	16	pobj	_	O
+18	soon	soon	RB	_	10	advmod	_	O
+19	.	.	.	_	3	punct	_	O
+

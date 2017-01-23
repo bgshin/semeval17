@@ -1,0 +1,23 @@
+1	@UF_blog	@uf_blog	NNP	pos2=NN	4	nsubj	_	U-ORG
+2	does	do	VBZ	_	4	aux	_	O
+3	not	not	RB	_	4	neg	_	O
+4	mean	mean	VB	_	0	root	_	O
+5	that	that	IN	_	17	mark	_	O
+6	the	the	DT	_	9	det	_	O
+7	alt	alt	JJ	pos2=NN	9	nmod	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	rightists	rightist	NNS	_	17	nsubj	_	O
+10	and	and	CC	_	9	cc	_	O
+11	the	the	DT	_	12	det	_	O
+12	others	other	NNS	_	9	conj	_	O
+13	on	on	IN	_	12	prep	_	O
+14	the	the	DT	_	16	det	_	O
+15	neo-fascist	neo-fascist	JJ	_	16	nmod	_	O
+16	line	line	NN	_	13	pobj	_	O
+17	are	be	VBP	_	4	ccomp	_	O
+18	not	not	RB	_	17	neg	_	O
+19	in	in	IN	_	17	prep	_	O
+20	a	a	DT	_	22	det	_	O
+21	worse	bad	JJR	_	22	nmod	_	O
+22	state	state	NN	_	19	pobj	_	O
+

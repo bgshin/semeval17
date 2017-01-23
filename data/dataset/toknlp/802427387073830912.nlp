@@ -1,0 +1,18 @@
+1	#DonaldTrump	#donaldtrump	NN	pos2=ADD	4	nsubjpass	_	O
+2	is	be	VBZ	_	4	auxpass	_	O
+3	NOT	not	RB	_	4	neg	_	O
+4	#DrainingTheSwampNOT	#drainingtheswampnot	VBN	pos2=XX	0	root	_	O
+5	bdlg	bdlg	VBG	pos2=PDT	4	advcl	_	O
+6	a	a	DT	_	7	det	_	O
+7	wallNOT	wallnot	NN	pos2=NNP	5	dobj	_	O
+8	getting	get	VBG	_	9	auxpass	_	O
+9	rid	rid	VBN	_	7	acl	_	O
+10	of	of	IN	_	9	prep	_	O
+11	#Obamacare	#obamacare	NNP	pos2=$	12	compound	_	B-ORG
+12	ANDNOT	andnot	NNP	pos2=NN	10	pobj	_	L-ORG
+13	rooting	root	VBG	_	4	advcl	_	O
+14	out	out	RP	pos2=IN	13	prt	_	O
+15	corruption	corruption	NN	_	13	dobj	_	O
+16	…	…	NFP	pos2=-LRB-	17	punct	_	O
+17	https://t.co/IczpColpXt	#hlink#	ADD	_	4	dep	_	O
+

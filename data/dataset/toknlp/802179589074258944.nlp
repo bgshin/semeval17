@@ -1,0 +1,22 @@
+1	Looking	look	VBG	_	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	UK	uk	NNP	pos2=NN	4	compound	_	B-ORG
+4	#Veterans	#veterans	NNP	pos2=NNPS	2	pobj	_	L-ORG
+5	who	who	WP	_	6	nsubj	_	O
+6	served	serve	VBD	_	4	relcl	_	O
+7	in	in	IN	pos2=RP	6	prep	_	O
+8	#Palestine	#palestine	NNP	pos2=CD	7	pobj	_	U-GPE
+9	from	from	IN	_	6	prep	_	O
+10	1945	0	CD	_	9	pobj	_	B-DATE
+11	-	-	SYM	_	12	punct	_	I-DATE
+12	1948	0	CD	_	10	prep	_	L-DATE
+13	for	for	IN	_	6	prep	_	O
+14	a	a	DT	_	15	det	_	O
+15	#Documentary	#documentary	NNP	pos2=NN	13	pobj	_	U-GPE
+16	.	.	.	_	1	punct	_	O
+
+1	Email	email	NN	pos2=VB	2	dep	_	O
+2	Fjollai@outlook.com	#hlink#	ADD	pos2=NN	0	root	_	O
+3	#journorequest	#journorequest	IN	pos2=-RRB-	2	prep	_	O
+4	#tvrequest	#tvrequest	UH	pos2=.	3	discourse	_	O
+

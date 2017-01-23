@@ -1,0 +1,26 @@
+1	@BBCWorld	@bbcworld	NN	pos2=VBN	0	root	_	O
+2	with	with	IN	_	1	prep	_	O
+3	80k	0k	CD	pos2=NN	4	nmod	_	U-CARDINAL
+4	votes	vote	NNS	_	2	pobj	_	O
+5	deciding	decide	VBG	_	4	acl	_	O
+6	the	the	DT	_	8	det	_	B-ORG
+7	Electoral	electoral	NNP	_	8	compound	_	I-ORG
+8	College	college	NNP	_	5	dobj	_	L-ORG
+9	,	,	,	_	12	punct	_	O
+10	you	you	PRP	_	12	nsubj	_	O
+11	could	could	MD	_	12	aux	_	O
+12	make	make	VB	_	0	root	_	O
+13	a	a	DT	_	14	det	_	O
+14	list	list	NN	_	12	dobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	50	0	CD	_	17	nmod	_	U-CARDINAL
+17	things	thing	NNS	_	15	pobj	_	O
+18	and	and	CC	_	12	cc	_	O
+19	cite	cite	VB	pos2=VBP	12	conj	_	O
+20	evidence	evidence	NN	_	19	dobj	_	O
+21	any	any	DT	_	22	det	_	O
+22	one	#crd#	CD	pos2=NN	23	nsubj	_	U-CARDINAL
+23	was	be	VBD	_	20	acl	_	O
+24	THE	the	DT	_	25	det	_	O
+25	one	#crd#	CD	pos2=NN	23	attr	_	U-CARDINAL
+

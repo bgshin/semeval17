@@ -1,0 +1,26 @@
+1	Off	off	RP	pos2=RB	0	prt	_	O
+2	to	to	TO	_	3	aux	_	O
+3	see	see	VB	_	1	xcomp	_	O
+4	Fantastic	fantastic	JJ	pos2=NNP	5	nmod	_	O
+5	Beasts	beast	NNS	pos2=NNPS	3	dobj	_	O
+6	this	this	DT	_	7	det	_	B-DATE
+7	weekend	weekend	NN	_	3	npadvmod	_	L-DATE
+8	?	?	.	_	1	punct	_	O
+
+1	Put	put	VB	_	0	root	_	O
+2	some	some	DT	_	3	det	_	O
+3	fire	fire	NN	_	1	dobj	_	O
+4	in	in	IN	_	1	prep	_	O
+5	your	your	PRP$	_	6	poss	_	O
+6	cauldron	cauldron	NN	_	4	pobj	_	O
+7	with	with	IN	_	1	prep	_	O
+8	a	a	DT	_	11	det	_	O
+9	magical	magical	JJ	_	11	nmod	_	O
+10	Bodega	bodega	NNP	pos2=NN	11	compound	_	O
+11	feast	feast	NN	_	7	pobj	_	O
+12	first	#ord#	RB	pos2=JJ	1	advmod	_	O
+13	!	!	.	_	1	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/zfAMIsO3Ye	#hlink#	ADD	pos2=NN	0	root	_	O
+

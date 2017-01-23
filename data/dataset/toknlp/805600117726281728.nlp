@@ -1,0 +1,27 @@
+1	The	the	DT	_	4	det	_	O
+2	highly	highly	RB	_	3	advmod	_	O
+3	diluted	dilute	VBN	pos2=JJ	4	nmod	_	O
+4	form	form	NN	_	8	nsubj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	homeopathic	homeopathic	JJ	_	7	nmod	_	O
+7	remedies	remedy	NNS	_	5	pobj	_	O
+8	are	be	VBP	_	0	root	_	O
+9	virtually	virtually	RB	_	10	advmod	_	O
+10	safe	safe	JJ	_	8	acomp	_	O
+11	and	and	CC	_	8	cc	_	O
+12	can	can	MD	_	14	aux	_	O
+13	be	be	VB	_	14	auxpass	_	O
+14	given	give	VBN	_	8	conj	_	O
+15	to	to	IN	_	14	dative	_	O
+16	babies	baby	NNS	_	15	pobj	_	O
+17	,	,	,	_	14	punct	_	O
+18	pregnant	pregnant	JJ	_	19	nmod	_	O
+19	women	woman	NNS	_	16	conj	_	O
+20	,	,	,	_	19	punct	_	O
+21	and	and	CC	_	19	cc	_	O
+22	the	the	DT	_	23	det	_	O
+23	elderly	elderly	JJ	_	19	conj	_	O
+24	.	.	.	_	8	punct	_	O
+
+1	#homeopathy	#homeopathy	UH	pos2=NN	0	root	_	O
+

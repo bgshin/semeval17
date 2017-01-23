@@ -1,0 +1,15 @@
+1	FBI	fbi	NNP	_	3	nsubj	_	U-ORG
+2	Is	be	VBZ	_	3	aux	_	O
+3	Doing	do	VBG	_	0	root	_	O
+4	their	their	PRP$	_	5	poss	_	O
+5	Job	job	NN	_	3	dobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	COMEY	comey	NNP	_	2	nsubj	_	O
+2	Works	work	VBZ	pos2=NNPS	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Putin	putin	NNP	_	3	pobj	_	U-PERSON
+5	.	.	.	_	2	punct	_	O
+
+1	https://t.co/WsgkcuD3LV	#hlink#	ADD	_	0	root	_	U-ORG
+

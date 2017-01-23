@@ -1,0 +1,6 @@
+1	@ricky_martin	@ricky_martin	NN	pos2=ADD	0	root	_	O
+2	@	@	IN	pos2=SYM	1	prep	_	O
+3	Versailles	versailles	NNP	_	4	compound	_	B-GPE
+4	City	city	NNP	_	2	pobj	_	L-GPE
+5	https://t.co/oXxa87ltul	#hlink#	ADD	_	1	appos	_	O
+

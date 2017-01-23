@@ -1,0 +1,19 @@
+1	One	#crd#	CD	_	2	nmod	_	U-CARDINAL
+2	direction	direction	NN	_	3	nsubj	_	O
+3	sounds	sound	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	little	little	JJ	pos2=RB	6	npadvmod	_	O
+6	different	different	JJ	_	3	acomp	_	O
+7	#voiceover	#voiceover	IN	pos2=XX	6	prep	_	O
+8	#onedirection	#onedirection	NN	pos2=XX	10	compound	_	O
+9	#jaronsvoice	#jaronsvoice	XX	pos2=IN	7	pobj	_	O
+10	#lo	#lo	UH	pos2=XX	3	discourse	_	O
+11	...	..	.	_	3	punct	_	O
+
+1	(	(	-LRB-	_	6	punct	_	O
+2	Vine	vine	NNP	pos2=NN	6	dep	_	U-ORG
+3	by	by	IN	pos2=GW	2	prep	_	O
+4	@JaronFurches	@jaronfurches	GW	pos2=NNS	3	pobj	_	O
+5	)	)	-RRB-	pos2=GW	6	nmod	_	O
+6	https://t.co/gTicsIaKPK	#hlink#	ADD	pos2=NN	0	root	_	O
+

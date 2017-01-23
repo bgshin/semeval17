@@ -1,0 +1,28 @@
+1	@petestavros	@petestavros	UH	pos2=NNS	5	discourse	_	O
+2	@megynkelly	@megynkelly	RB	pos2=UH	4	advmod	_	O
+3	too	too	RB	_	4	advmod	_	O
+4	many	many	JJ	_	5	nmod	_	O
+5	morons	moron	NNS	_	0	root	_	O
+6	out	out	RB	pos2=IN	7	advmod	_	O
+7	there	there	RB	_	5	advmod	_	O
+8	.	.	.	_	5	punct	_	O
+
+1	Ppl	ppl	NNP	pos2=NNS	3	nsubjpass	_	U-ORG
+2	get	get	VBP	pos2=VB	3	auxpass	_	O
+3	ruffled	ruffle	VBN	pos2=JJ	0	root	_	O
+4	when	when	WRB	_	6	advmod	_	O
+5	someone	someone	NN	_	6	nsubj	_	O
+6	says	say	VBZ	_	3	advcl	_	O
+7	something	something	NN	_	6	dobj	_	O
+8	they	they	PRP	_	11	nsubj	_	O
+9	do	do	VBP	_	11	aux	_	O
+10	n't	not	RB	_	11	neg	_	O
+11	agree	agree	VB	_	7	relcl	_	O
+12	with	with	IN	_	11	prep	_	O
+13	.	.	.	_	3	punct	_	O
+
+1	Want	want	VB	pos2=VBP	0	root	_	O
+2	an	an	DT	_	4	det	_	O
+3	echo	echo	NN	pos2=FW	4	compound	_	O
+4	chamber	chamber	NN	_	1	dobj	_	O
+

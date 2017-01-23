@@ -1,0 +1,18 @@
+1	I	I	PRP	_	5	nsubj	_	O
+2	have	have	VBP	_	5	aux	_	O
+3	not	not	RB	_	5	neg	_	O
+4	yet	yet	RB	_	5	advmod	_	O
+5	seen	see	VBN	_	0	root	_	O
+6	@FantasticBeasts	@fantasticbeasts	NNP	pos2=NNS	5	dobj	_	O
+7	Yeah	yeah	UH	_	10	discourse	_	O
+8	,	,	,	_	10	punct	_	O
+9	I	I	PRP	_	10	nsubj	_	O
+10	know	know	VBP	_	5	parataxis	_	O
+11	I	I	PRP	_	13	nsubj	_	O
+12	'm	be	VBP	_	13	aux	_	O
+13	abusing	abuse	VBG	_	10	ccomp	_	O
+14	it	it	PRP	_	13	dobj	_	O
+15	.	.	.	_	5	punct	_	O
+
+1	#FantasticBeasts	#fantasticbeasts	NNS	pos2=ADD	0	root	_	O
+

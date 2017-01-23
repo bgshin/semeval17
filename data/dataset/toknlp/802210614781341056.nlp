@@ -1,0 +1,21 @@
+1	#Trump	#trump	JJ	pos2=PRP$	2	nmod	_	O
+2	stock	stock	NN	_	6	nsubj	_	O
+3	in	in	IN	_	2	prep	_	O
+4	#DAPL	#dapl	JJ	pos2=DT	5	nmod	_	U-DATE
+5	company	company	NN	_	3	pobj	_	O
+6	raises	raise	VBZ	_	0	root	_	O
+7	concerns	concern	NNS	_	6	dobj	_	O
+8	.	.	.	_	6	punct	_	O
+
+1	#STOPDAPL	#stopdapl	XX	pos2=NN	7	dep	_	O
+2	#StopTrump	#stoptrump	NNS	pos2=XX	7	nsubj	_	O
+3	NOW	now	RB	_	2	advmod	_	O
+4	by	by	IN	_	2	prep	_	O
+5	any	any	DT	_	6	det	_	O
+6	means	mean	NNS	_	4	pobj	_	O
+7	necessary	necessary	JJ	_	0	root	_	O
+8	!	!	.	_	7	punct	_	O
+
+1	#OurRevolution	#ourrevolution	ADD	pos2=NN	2	punct	_	O
+2	https://t.co/012sgqiiki	#hlink#	ADD	_	0	root	_	O
+

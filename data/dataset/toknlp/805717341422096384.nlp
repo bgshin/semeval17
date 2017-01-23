@@ -1,0 +1,28 @@
+1	Not	not	RB	_	3	neg	_	O
+2	so	so	RB	_	3	advmod	_	O
+3	sure	sure	JJ	pos2=RB	0	root	_	O
+4	they	they	PRP	_	5	nsubj	_	O
+5	are	be	VBP	_	3	ccomp	_	O
+6	false	false	JJ	_	7	nmod	_	O
+7	claims	claim	NNS	_	5	attr	_	O
+8	!	!	.	_	3	punct	_	O
+
+1	After	after	RB	pos2=IN	2	advmod	_	O
+2	all	all	RB	pos2=PDT	8	advmod	_	O
+3	when	when	WRB	_	6	advmod	_	O
+4	Fidel	fidel	NNP	_	5	compound	_	B-PERSON
+5	Castro	castro	NNP	_	6	nsubj	_	L-PERSON
+6	votes	vote	VBZ	pos2=NNS	8	advcl	_	O
+7	,	,	,	_	8	punct	_	O
+8	seems	seem	VBZ	_	0	root	_	O
+9	a	a	DT	_	10	det	_	O
+10	little	little	JJ	_	11	npadvmod	_	O
+11	false	false	JJ	_	8	oprd	_	O
+12	,	,	,	_	8	punct	_	O
+13	does	do	VBZ	_	8	dep	_	O
+14	n't	not	RB	pos2=VB	13	neg	_	O
+15	it	it	PRP	pos2=VB	13	nsubj	_	O
+16	?	?	.	_	13	punct	_	O
+
+1	https://t.co/GwpnrzyJSl	#hlink#	ADD	_	0	root	_	U-ORG
+

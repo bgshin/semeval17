@@ -1,0 +1,25 @@
+1	im	im	UH	pos2=NN	4	discourse	_	O
+2	like	like	IN	pos2=UH	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	hawaiian	hawaiian	JJ	_	5	nmod	_	O
+5	roll	roll	NN	_	2	pobj	_	O
+6	still	still	RB	_	7	advmod	_	O
+7	in	in	IN	_	5	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	bag	bag	NN	_	7	pobj	_	O
+10	because	because	IN	_	15	mark	_	O
+11	your	your	PRP$	_	12	poss	_	O
+12	mom	mom	NN	_	15	nsubj	_	O
+13	wo	wo	MD	_	15	aux	_	O
+14	n't	not	RB	_	15	neg	_	O
+15	let	let	VB	_	1	advcl	_	O
+16	you	you	PRP	_	17	nsubj	_	O
+17	open	open	VB	pos2=JJ	15	ccomp	_	O
+18	it	it	PRP	_	17	dobj	_	O
+19	because	because	IN	_	17	prep	_	O
+20	"	"	``	_	23	punct	_	O
+21	they	they	PRP	_	16	nsubj	_	O
+22	for	for	IN	_	21	prep	_	O
+23	thanksgiving	thanksgiving	NN	pos2=VBG	22	pobj	_	O
+24	"	"	''	pos2=``	23	punct	_	O
+

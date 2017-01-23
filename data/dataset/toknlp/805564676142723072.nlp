@@ -1,0 +1,20 @@
+1	.	.	.	_	0	punct	_	O
+
+1	Medical	medical	JJ	pos2=NNP	2	nmod	_	O
+2	authority	authority	NN	_	4	compound	_	O
+3	Dr	dr	NNP	_	4	compound	_	O
+4	Greek	greek	NNP	pos2=JJ	5	nsubj	_	U-NORP
+5	speaking	speak	VBG	_	0	root	_	O
+6	out	out	RP	pos2=RB	5	prt	_	O
+7	against	against	IN	_	5	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	arcane	arcane	JJ	_	10	nmod	_	O
+10	practice	practice	NN	_	7	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	animal	animal	NN	_	13	compound	_	O
+13	testing	testing	NN	_	11	pobj	_	O
+14	.	.	.	_	5	punct	_	O
+
+1	https://t.co/bCEugeD1t3	#hlink#	ADD	_	2	nsubj	_	O
+2	#CambridgeKillers	#cambridgekillers	NNS	pos2=ADD	0	root	_	O
+

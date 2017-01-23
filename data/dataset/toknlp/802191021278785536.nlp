@@ -1,0 +1,17 @@
+1	#MARKETNEWS	#marketnews	NNP	pos2=VBZ	2	compound	_	O
+2	Tesla	tesla	NNP	_	5	poss	_	U-ORG
+3	’s	's	POS	_	2	case	_	O
+4	Model	model	NNP	_	5	compound	_	B-PRODUCT
+5	X	x	NNP	pos2=NN	6	nsubj	_	L-PRODUCT
+6	is	be	VBZ	_	0	root	_	O
+7	‘	'	``	pos2=POS	6	punct	_	O
+8	fast	fast	JJ	_	6	acomp	_	O
+9	and	and	CC	_	8	cc	_	O
+10	flawed	flawed	JJ	_	8	conj	_	O
+11	,	,	,	_	6	punct	_	O
+12	’	'	''	pos2=``	6	punct	_	O
+13	Consumer	consumer	NN	pos2=NNP	14	compound	_	O
+14	Reports	reports	NNP	pos2=NNPS	15	nsubj	_	O
+15	says	say	VBZ	_	6	conj	_	O
+16	https://t.co/BiooY27euV	#hlink#	ADD	_	15	punct	_	O
+

@@ -1,0 +1,15 @@
+1	@rich_jones70	@rich_jones0	NN	pos2=LS	3	poss	_	O
+2	@AjDembroski	@ajdembroski	POS	pos2=XX	1	case	_	O
+3	tim	tim	NN	pos2=FW	7	vocative	_	O
+4	duncan	duncan	NNP	pos2=FW	3	appos	_	U-PERSON
+5	and	and	CC	_	3	cc	_	O
+6	kg	kg	NNS	pos2=UH	3	conj	_	O
+7	also	also	RB	_	9	advmod	_	O
+8	that	that	DT	_	9	nsubj	_	O
+9	's	's	VBZ	_	0	root	_	O
+10	insane	insane	JJ	pos2=VBN	9	acomp	_	O
+11	alone	alone	RB	_	9	advmod	_	O
+12	in	in	IN	_	9	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	nba	nba	NN	pos2=NNP	12	pobj	_	O
+

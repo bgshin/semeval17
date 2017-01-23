@@ -1,0 +1,22 @@
+1	@MariaCorinaYA	@mariacorinaya	NNP	pos2=XX	2	compound	_	O
+2	Children	child	NNS	pos2=NNP	3	nsubj	_	O
+3	dig	dig	VBP	_	0	root	_	O
+4	in	in	IN	pos2=RP	3	prep	_	O
+5	garbage	garbage	NN	_	4	pobj	_	O
+6	for	for	IN	_	3	prep	_	O
+7	food	food	NN	_	6	pobj	_	O
+8	while	while	IN	pos2=WDT	11	mark	_	O
+9	dictator	dictator	NN	pos2=NNP	10	compound	_	O
+10	Maduro	maduro	NNP	_	11	nsubj	_	U-PERSON
+11	pays	pay	VBZ	_	3	advcl	_	O
+12	$	$	$	_	14	qmod	_	B-MONEY
+13	2.6	0	CD	_	14	compound	_	I-MONEY
+14	million	#crd#	CD	_	11	dobj	_	L-MONEY
+15	for	for	IN	_	11	prep	_	O
+16	#Caracas	#caracas	NNP	pos2=NNS	17	compound	_	U-ORG
+17	festival	festival	NN	_	15	pobj	_	O
+18	.	.	.	_	3	punct	_	O
+
+1	#SuenaCorrupto	#suenacorrupto	ADD	pos2=XX	2	det	_	O
+2	@CBCNews	@cbcnews	NNS	pos2=ADD	0	root	_	O
+

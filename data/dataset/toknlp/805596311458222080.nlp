@@ -1,0 +1,19 @@
+1	The	the	DT	_	3	det	_	O
+2	Cuban	cuban	JJ	pos2=NNP	3	nmod	_	U-NORP
+3	embargo	embargo	NN	_	4	nsubj	_	O
+4	remains	remain	VBZ	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	many	many	JJ	_	7	nmod	_	O
+7	sectors	sector	NNS	_	5	pobj	_	O
+8	,	,	,	_	4	punct	_	O
+9	as	as	IN	pos2=RB	11	mark	_	O
+10	trade	trade	NN	_	11	nsubj	_	O
+11	grows	grow	VBZ	_	15	advcl	_	O
+12	slowly	slowly	RB	_	11	advmod	_	O
+13	https://t.co/meWySMFxmF	#hlink#	ADD	_	15	nsubj	_	O
+14	@AmyGuttman1	@amyguttman0	NN	pos2=IN	15	nsubj	_	O
+15	reports	report	VBZ	pos2=NNS	4	conj	_	O
+16	from	from	IN	_	15	prep	_	O
+17	…	…	NFP	pos2=NNP	16	pobj	_	O
+18	https://t.co/DTGAVs4bZ9	#hlink#	ADD	pos2=NN	15	appos	_	O
+

@@ -1,0 +1,18 @@
+1	@Throwing_Club	@throwing_club	``	pos2=UH	4	punct	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	'm	be	VBP	_	0	root	_	O
+4	sure	sure	JJ	pos2=RB	3	acomp	_	O
+5	there	there	EX	_	6	expl	_	O
+6	is	be	VBZ	_	4	ccomp	_	O
+7	also	also	RB	_	6	advmod	_	O
+8	big	big	JJ	_	9	nmod	_	O
+9	similarities	similarity	NNS	_	6	attr	_	O
+10	between	between	IN	_	9	prep	_	O
+11	Verlander	verlander	NNP	_	12	compound	_	U-PERSON
+12	throwing	throw	VBG	pos2=NN	10	pobj	_	O
+13	and	and	CC	_	12	cc	_	O
+14	Serena	serena	NNP	_	15	compound	_	B-PERSON
+15	Williams	williams	NNP	_	12	conj	_	L-PERSON
+16	throwing	throw	VBG	pos2=NN	9	acl	_	O
+17	.	.	.	_	3	punct	_	O
+

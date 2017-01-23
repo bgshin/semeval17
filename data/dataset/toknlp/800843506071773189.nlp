@@ -1,0 +1,11 @@
+1	#Ukraine	#ukraine	NN	pos2=NNP	2	nsubj	_	O
+2	Is	be	VBZ	_	0	root	_	O
+3	‘	'	``	pos2=''	2	punct	_	O
+4	Running	run	VBG	_	2	xcomp	_	O
+5	Against	against	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	Clock	clock	NNP	pos2=NN	10	poss	_	O
+8	’	'	POS	pos2=''	7	case	_	O
+9	https://t.co/2BooCNWTyr	#hlink#	ADD	_	10	nmod	_	O
+10	https://t.co/48IQ6jWjpn	#hlink#	ADD	_	2	dep	_	U-ORG
+

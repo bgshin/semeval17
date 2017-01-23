@@ -1,0 +1,22 @@
+1	@number_one_twit	@number_one_twit	UH	pos2=VB	3	discourse	_	O
+2	so	so	RB	_	6	advmod	_	O
+3	basically	basically	RB	_	6	advmod	_	O
+4	its	its	PRP$	pos2=VBZ	7	poss	_	O
+5	about	about	IN	pos2=JJ	0	root	_	O
+6	global	global	JJ	_	7	nmod	_	O
+7	warming	warming	NN	_	5	pobj	_	O
+8	,	,	,	_	7	punct	_	O
+9	drone	drone	NN	_	10	compound	_	O
+10	strikes	strike	NNS	_	7	conj	_	O
+11	,	,	,	_	10	punct	_	O
+12	fracking	fracking	NN	pos2=VBG	10	conj	_	O
+13	,	,	,	_	12	punct	_	O
+14	and	and	CC	_	12	cc	_	O
+15	just	just	RB	_	18	advmod	_	O
+16	the	the	DT	_	18	det	_	O
+17	american	american	JJ	_	18	nmod	_	U-NORP
+18	government	government	NN	_	12	conj	_	O
+19	all	all	DT	pos2=RB	18	dep	_	O
+20	in	in	IN	_	19	prep	_	O
+21	one	#crd#	CD	_	20	pobj	_	U-CARDINAL
+

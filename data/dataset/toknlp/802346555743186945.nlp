@@ -1,0 +1,23 @@
+1	@tanichu	@tanichu	UH	pos2=``	3	discourse	_	O
+2	This	this	DT	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	7	det	_	O
+5	very	very	RB	_	6	advmod	_	O
+6	suggestive	suggestive	JJ	_	7	nmod	_	O
+7	trend	trend	NN	_	3	attr	_	O
+8	in	in	IN	_	7	prep	_	O
+9	AI	ai	NNP	pos2=NN	8	pobj	_	U-PRODUCT
+10	.	.	.	_	3	punct	_	O
+
+1	Even	even	RB	_	5	advmod	_	O
+2	a	a	DT	_	5	det	_	O
+3	high	high	JJ	_	4	nmod	_	O
+4	school	school	NN	_	5	compound	_	O
+5	student	student	NN	_	7	nsubj	_	O
+6	can	can	MD	_	7	aux	_	O
+7	use	use	VB	_	0	root	_	O
+8	deep	deep	JJ	_	10	nmod	_	O
+9	learning	learning	NN	pos2=JJ	10	compound	_	O
+10	method	method	NN	_	7	dobj	_	O
+11	.	.	.	_	7	punct	_	O
+

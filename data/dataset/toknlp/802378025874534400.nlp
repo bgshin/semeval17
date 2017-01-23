@@ -1,0 +1,15 @@
+1	@Newsweek	@newsweek	NNP	pos2=NN	0	root	_	U-ORG
+2	or	or	CC	_	1	cc	_	O
+3	this	this	DT	_	4	det	_	B-DATE
+4	year	year	NN	_	9	npadvmod	_	L-DATE
+5	,	,	,	_	9	punct	_	O
+6	its	its	PRP$	pos2=VBZ	9	poss	_	O
+7	about	about	IN	pos2=JJ	9	advmod	_	O
+8	russia	russia	NN	pos2=CD	7	pobj	_	O
+9	stupid	stupid	JJ	pos2=FW	1	conj	_	O
+10	.	.	.	_	9	punct	_	O
+
+1	N	n	NNP	pos2=JJ	2	compound	_	O
+2	comey	comey	NN	pos2=NNP	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+

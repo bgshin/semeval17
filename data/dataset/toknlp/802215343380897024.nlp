@@ -1,0 +1,18 @@
+1	@noahrasheta	@noahrasheta	UH	pos2=MD	4	discourse	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	in	in	IN	_	7	npadvmod	_	O
+4	time	time	NN	_	3	pobj	_	O
+5	for	for	IN	_	0	root	_	O
+6	the	the	DT	_	8	det	_	B-DATE
+7	long	long	JJ	_	8	nmod	_	I-DATE
+8	weekend	weekend	NN	_	5	pobj	_	L-DATE
+9	.	.	.	_	5	punct	_	O
+
+1	Happy	happy	JJ	pos2=NNP	2	nmod	_	O
+2	Thanksgiving	thanksgiving	NNP	_	0	root	_	U-DATE
+3	from	from	IN	_	2	prep	_	O
+4	Ohio	ohio	NNP	_	3	pobj	_	U-GPE
+5	.	.	.	_	2	punct	_	O
+
+1	https://t.co/lVv7FnOpZ6	#hlink#	ADD	_	0	root	_	U-ORG
+

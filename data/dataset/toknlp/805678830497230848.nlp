@@ -1,0 +1,16 @@
+1	@really_huh	@really_huh	UH	pos2=CC	5	discourse	_	O
+2	here	here	RB	_	5	advmod	_	O
+3	minimum	minimum	JJ	pos2=NN	4	nmod	_	O
+4	wage	wage	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	same	same	JJ	_	5	attr	_	O
+8	regardless	regardless	RB	_	5	advmod	_	O
+9	of	of	IN	_	8	prep	_	O
+10	age@_little_old_me	age@_little_old_me	NNP	pos2=XX	9	pobj	_	O
+11	@daplusk	@daplusk	UH	pos2=XX	5	discourse	_	O
+12	@diamond_danii	@diamond_danii	CD	pos2=NNP	15	nmod	_	O
+13	@EdDJGex	@eddjgex	ADD	pos2=NNP	15	punct	_	O
+14	@MissMSub	@missmsub	ADD	pos2=XX	15	compound	_	O
+15	@Ozjohn55	@ozjohn0	NN	pos2=NNS	5	attr	_	O
+

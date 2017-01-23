@@ -1,0 +1,24 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	rise	rise	VBP	_	0	root	_	O
+3	and	and	CC	_	2	cc	_	O
+4	fall	fall	VBP	_	2	conj	_	O
+5	as	as	IN	_	4	prep	_	O
+6	one	#crd#	CD	_	5	pobj	_	U-CARDINAL
+7	...	..	.	_	2	punct	_	O
+
+1	We	we	PRP	_	3	nsubj	_	O
+2	will	will	MD	_	3	aux	_	O
+3	arrive	arrive	VB	_	0	root	_	O
+4	together	together	RB	_	3	advmod	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	-	-	SYM	pos2=:	3	punct	_	O
+2	@colsonwhitehead	@colsonwhitehead	NN	pos2=XX	3	nsubj	_	O
+3	reads	read	VBZ	pos2=NNS	0	root	_	O
+4	from	from	IN	_	3	prep	_	O
+5	THE	the	DT	_	7	det	_	O
+6	UNDERGROUND	underground	JJ	pos2=NNP	7	nmod	_	U-FAC
+7	RAILROAD	railroad	NN	pos2=NNP	4	pobj	_	O
+8	…	…	NFP	pos2=:	3	punct	_	O
+9	https://t.co/CbfGXJjJnj	#hlink#	ADD	_	3	dep	_	O
+

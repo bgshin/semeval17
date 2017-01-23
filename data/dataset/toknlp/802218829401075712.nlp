@@ -1,0 +1,6 @@
+1	Sugar	sugar	NNP	pos2=NN	5	nmod	_	O
+2	Girls	girl	NNPS	pos2=NNP	5	nmod	_	O
+3	Aarberg	aarberg	NNP	_	4	compound	_	O
+4	Bianca	bianca	NNP	_	5	dep	_	O
+5	https://t.co/mYiN9hAywI	#hlink#	ADD	_	0	root	_	O
+

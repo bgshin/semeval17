@@ -1,0 +1,16 @@
+1	Poroshenko	poroshenko	NNP	pos2=FW	2	nsubj	_	U-ORG
+2	signed	sign	VBD	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	decree	decree	NN	_	2	dobj	_	O
+5	on	on	IN	_	2	prep	_	O
+6	providing	provide	VBG	_	5	pcomp	_	O
+7	humanitarian	humanitarian	JJ	_	8	nmod	_	O
+8	aid	aid	NN	_	6	dobj	_	O
+9	in	in	IN	_	8	prep	_	O
+10	Israel	israel	NNP	_	9	pobj	_	U-GPE
+11	:	:	:	_	2	punct	_	O
+12	https://t.co/OsgbIoSVxb	#hlink#	ADD	_	13	nmod	_	O
+13	https://t.co/yfNhxOnrOH	#hlink#	ADD	_	15	nmod	_	O
+14	#news	#news	-RRB-	pos2=IN	13	punct	_	O
+15	#Russia	#russia	NN	pos2=NNP	2	dobj	_	O
+

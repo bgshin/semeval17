@@ -1,0 +1,32 @@
+1	#whatif	#whatif	UH	pos2=NN	8	discourse	_	O
+2	when	when	WRB	_	4	advmod	_	O
+3	#trump	#trump	NN	pos2=PRP	4	nsubj	_	O
+4	becomes	become	VBZ	_	8	advcl	_	O
+5	prez	prez	FW	pos2=NN	4	attr	_	O
+6	,	,	,	_	8	punct	_	O
+7	they	they	PRP	_	8	nsubj	_	O
+8	brief	brief	VBD	pos2=VBP	14	ccomp	_	O
+9	him	him	PRP	pos2=NN	8	dobj	_	O
+10	abt	abt	IN	pos2=NN	8	prep	_	O
+11	9/11	0	CD	_	10	pobj	_	U-CARDINAL
+12	:	:	:	_	14	punct	_	O
+13	he	he	PRP	_	14	nsubj	_	O
+14	gets	get	VBZ	_	0	root	_	O
+15	so	so	RB	_	16	advmod	_	O
+16	pissed	pissed	JJ	pos2=IN	14	acomp	_	O
+17	he	he	PRP	_	18	nsubj	_	O
+18	blows	blow	VBZ	_	16	ccomp	_	O
+19	th	th	JJ	pos2=XX	20	nmod	_	O
+20	cover	cover	NN	pos2=RB	18	dobj	_	O
+21	to	to	IN	_	18	prep	_	O
+22	the	the	DT	_	23	det	_	O
+23	country	country	NN	_	21	pobj	_	O
+24	.	.	.	_	14	punct	_	O
+
+1	nazis	nazi	NNS	pos2=NN	4	nsubj	_	O
+2	&	&	CC	_	1	cc	_	O
+3	liberals	liberal	NNS	_	1	conj	_	O
+4	be	be	VBP	pos2=VB	0	root	_	O
+5	like	like	IN	pos2=UH	4	discourse	_	O
+6	WHOA	whoa	UH	pos2=NNP	4	discourse	_	O
+

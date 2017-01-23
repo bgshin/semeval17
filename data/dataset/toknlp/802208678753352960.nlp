@@ -1,0 +1,9 @@
+1	War	war	NNP	pos2=NN	4	nsubj	_	O
+2	&	&	CC	_	1	cc	_	O
+3	Cyber	cyber	NNP	pos2=JJ	1	conj	_	O
+4	#SDF	#sdf	NN	pos2=NNP	8	dep	_	O
+5	#YPG	#ypg	NNP	pos2=GW	8	nmod	_	O
+6	#ISIS	#isis	GW	pos2=NN	8	nmod	_	O
+7	#News	#news	GW	pos2=NNP	8	nmod	_	O
+8	https://t.co/eiD3vhPBIv	#hlink#	ADD	pos2=NN	0	root	_	O
+

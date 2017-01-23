@@ -1,0 +1,14 @@
+1	@JeanieBuss	@jeaniebuss	XX	pos2=ADD	8	dep	_	O
+2	@dennisrodman	@dennisrodman	UH	pos2=XX	8	discourse	_	O
+3	@STAPLESCenter	@staplescenter	XX	pos2=NNP	8	dep	_	O
+4	how	how	WRB	_	8	advmod	_	O
+5	has	have	VBZ	_	8	aux	_	O
+6	trump	trump	NN	pos2=XX	8	nsubj	_	O
+7	not	not	RB	_	8	neg	_	O
+8	tapped	tap	VBN	pos2=VBD	0	root	_	O
+9	him	him	PRP	_	8	dobj	_	O
+10	for	for	IN	_	8	prep	_	O
+11	dream	dream	NN	_	12	compound	_	O
+12	cabinet	cabinet	NN	_	10	pobj	_	O
+13	?	?	.	_	8	punct	_	O
+

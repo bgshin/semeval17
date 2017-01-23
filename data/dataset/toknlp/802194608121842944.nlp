@@ -1,0 +1,25 @@
+1	Muslims	muslim	NNPS	pos2=NNS	2	nsubj	_	U-NORP
+2	are	be	VBP	_	0	root	_	O
+3	news	news	NN	pos2=NNS	4	npadvmod	_	O
+4	worthy	worthy	JJ	pos2=MD	2	acomp	_	O
+5	only	only	RB	_	6	advmod	_	O
+6	when	when	WRB	_	8	advmod	_	O
+7	they	they	PRP	_	8	nsubj	_	O
+8	are	be	VBP	_	2	advcl	_	O
+9	behind	behind	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	gun	gun	NN	_	9	pobj	_	O
+12	,	,	,	_	2	punct	_	O
+13	not	not	RB	_	9	neg	_	O
+14	in	in	IN	_	9	prep	_	O
+15	front	front	NN	_	14	pobj	_	O
+16	of	of	IN	_	15	prep	_	O
+17	the	the	DT	_	18	det	_	O
+18	gun	gun	NN	_	16	pobj	_	O
+19	.	.	.	_	2	punct	_	O
+
+1	#doublestandard	#doublestandard	UH	pos2=NFP	4	nmod	_	O
+2	#Burma	#burma	GW	pos2=NNP	4	nmod	_	U-NORP
+3	#Palestine	#palestine	GW	pos2=ADD	4	nmod	_	O
+4	https://t.co/BVLtIW9cNC	#hlink#	ADD	pos2=NN	0	root	_	O
+

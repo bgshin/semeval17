@@ -1,0 +1,10 @@
+1	New	new	JJ	pos2=NNP	3	nmod	_	O
+2	#BeautyandtheBeast	#beautyandthebeast	NNP	pos2=NN	3	compound	_	O
+3	Photo	photo	NNP	pos2=NN	4	nsubj	_	O
+4	Has	have	VBZ	_	0	root	_	O
+5	Gaston	gaston	NNP	_	6	compound	_	B-PERSON
+6	Wooing	wooing	NNP	pos2=VBG	9	dep	_	I-PERSON
+7	B	b	GW	pos2=NN	9	nmod	_	L-PERSON
+8	ellehttps://t.co/3wVBbuEXnQ	#hlink#	ADD	_	9	nmod	_	O
+9	https://t.co/LKGtD2wt2F	#hlink#	ADD	_	4	dobj	_	U-ORG
+

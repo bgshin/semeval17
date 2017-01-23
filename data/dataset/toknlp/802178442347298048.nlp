@@ -1,0 +1,26 @@
+1	1	0	CD	_	3	nmod	_	B-PERCENT
+2	st	st	NN	_	3	compound	_	L-PERCENT
+3	Pick	pick	NN	pos2=NNP	16	dep	_	O
+4	For	for	IN	_	3	prep	_	O
+5	POTUS	potus	NN	pos2=NNP	4	pobj	_	O
+6	:	:	:	_	16	punct	_	O
+7	the	the	DT	_	8	det	_	O
+8	fact	fact	NN	_	16	nsubj	_	O
+9	that	that	IN	_	11	mark	_	O
+10	Palin	palin	NNP	_	11	nsubj	_	U-PERSON
+11	was	be	VBD	_	8	acl	_	O
+12	Bannon	bannon	NNP	_	15	poss	_	U-PERSON
+13	's	's	POS	_	12	case	_	O
+14	dream	dream	NN	_	15	compound	_	O
+15	candidate	candidate	NN	_	11	attr	_	O
+16	tells	tell	VBZ	_	0	root	_	O
+17	u	u	PRP	pos2=RP	16	dative	_	O
+18	everything	everything	NN	_	16	dobj	_	O
+19	u	u	PRP	pos2=TO	20	nsubj	_	O
+20	need	need	VBP	_	18	relcl	_	O
+21	to	to	TO	_	22	aux	_	O
+22	know	know	VB	_	20	xcomp	_	O
+23	about	about	IN	_	22	prep	_	O
+24	Bannon	bannon	NNP	_	23	pobj	_	B-CARDINAL
+25	https://t.co/BYgVRqiUYI	#hlink#	ADD	pos2=NNP	18	appos	_	L-CARDINAL
+

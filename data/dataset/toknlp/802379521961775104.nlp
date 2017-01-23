@@ -1,0 +1,32 @@
+1	At	at	IN	_	0	root	_	O
+2	39K	0k	NN	pos2=CD	1	pobj	_	U-CARDINAL
+3	on	on	IN	_	2	prep	_	O
+4	my	my	PRP$	_	5	poss	_	O
+5	novel	novel	NN	_	3	pobj	_	O
+6	about	about	IN	_	5	prep	_	O
+7	how	how	WRB	pos2=NN	6	pcomp	_	O
+8	(	(	-LRB-	_	5	punct	_	O
+9	and	and	CC	_	7	cc	_	O
+10	whether	whether	IN	pos2=RB	7	conj	_	O
+11	?	?	.	_	1	punct	_	O
+12	)	)	-RRB-	_	1	punct	_	O
+
+1	robots	robot	NNS	_	5	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	humans	human	NNS	_	1	conj	_	O
+4	can	can	MD	_	5	aux	_	O
+5	live	live	VB	_	0	root	_	O
+6	peacefully	peacefully	RB	_	5	advmod	_	O
+7	together	together	RB	_	5	advmod	_	O
+8	.	.	.	_	5	punct	_	O
+
+1	You	you	PRP	_	3	nsubj	_	O
+2	would	would	MD	_	3	aux	_	O
+3	like	like	VB	_	0	root	_	O
+4	it	it	PRP	_	3	dobj	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	Read	read	VB	pos2=GW	0	root	_	O
+2	…	…	NFP	pos2=-LRB-	1	discourse	_	O
+3	https://t.co/tuFfJoAJup	#hlink#	ADD	pos2=NN	1	dobj	_	O
+

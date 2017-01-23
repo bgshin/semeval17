@@ -1,0 +1,20 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	have	have	VBP	pos2=VB	0	root	_	O
+3	fun	fun	NN	pos2=VBN	2	dobj	_	O
+4	here	here	RB	_	2	advmod	_	O
+5	at	at	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	@SheratonOKC	@sheratonokc	NNP	pos2=NN	5	pobj	_	U-ORG
+8	.	.	.	_	2	punct	_	O
+
+1	Check	check	VB	_	0	root	_	O
+2	out	out	RP	_	1	prt	_	O
+3	our	our	PRP$	_	4	poss	_	O
+4	#MannequinChallenge	#mannequinchallenge	NN	pos2=NNP	1	dobj	_	O
+5	in	in	IN	_	1	prep	_	O
+6	Aria	aria	NNP	_	7	compound	_	B-ORG
+7	Lounge	lounge	NNP	_	5	pobj	_	L-ORG
+8	!	!	.	_	1	punct	_	O
+
+1	https://t.co/2BJsEUSSR1	#hlink#	ADD	_	0	root	_	U-ORG
+

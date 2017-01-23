@@ -1,0 +1,15 @@
+1	Barcelona	barcelona	NNP	pos2=NN	2	nsubj	_	U-GPE
+2	facing	face	VBG	_	0	root	_	O
+3	sanctions	sanction	NNS	_	2	dobj	_	O
+4	after	after	IN	_	6	mark	_	O
+5	supporters	supporter	NNS	_	6	nsubj	_	O
+6	sing	sing	VBP	pos2=VBG	2	advcl	_	O
+7	homophobic	homophobic	JJ	_	8	nmod	_	O
+8	slurs	slur	NNS	_	6	dobj	_	O
+9	towards	towards	IN	_	8	prep	_	O
+10	Cristiano	cristiano	NNP	_	11	compound	_	B-PERSON
+11	Ronaldo	ronaldo	NNP	_	9	pobj	_	L-PERSON
+12	....	..	.	pos2=,	2	punct	_	O
+
+1	#starboy#ballondor#no4#galantgalatico	#starboy#ballondor#no0#galantgalatico	NN	pos2=UH	0	root	_	O
+

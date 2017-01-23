@@ -1,0 +1,11 @@
+1	Native	native	JJ	_	4	nmod	_	B-ORG
+2	American	american	JJ	pos2=NNP	4	nmod	_	I-ORG
+3	Pipeline	pipeline	NNP	pos2=NN	4	compound	_	I-ORG
+4	Protest	protest	NNP	pos2=NN	5	nsubj	_	I-ORG
+5	Halts	halt	VBZ	_	0	root	_	I-ORG
+6	Construction	construction	NNP	pos2=NN	5	dobj	_	L-ORG
+7	in	in	IN	_	6	prep	_	O
+8	N.	n.	NNP	_	9	compound	_	B-GPE
+9	Dakota	dakota	NNP	_	7	pobj	_	L-GPE
+10	https://t.co/vQq5nvZOU1	#hlink#	ADD	pos2=NNP	5	dobj	_	O
+

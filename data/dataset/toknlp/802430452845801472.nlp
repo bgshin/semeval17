@@ -1,0 +1,23 @@
+1	Great	great	NNP	pos2=JJ	2	compound	_	B-ORG
+2	News	news	NNP	pos2=NN	0	root	_	L-ORG
+3	about	about	IN	_	2	prep	_	O
+4	Robots	robot	NNS	pos2=NNP	3	pobj	_	O
+5	,	,	,	_	4	punct	_	O
+6	IOT	iot	NNP	pos2=NN	4	appos	_	U-ORG
+7	and	and	CC	_	6	cc	_	O
+8	AI	ai	NNP	pos2=VB	6	conj	_	O
+9	Daily	daily	RB	pos2=NNP	2	advmod	_	O
+10	!	!	.	_	2	punct	_	O
+
+1	https://t.co/EhirD5Lxut	#hlink#	ADD	_	0	root	_	O
+2	#robots	#robots	NNS	pos2=VBZ	0	root	_	O
+3	#news	#news	UH	pos2=FW	11	discourse	_	O
+4	#AI	#ai	$	pos2=NNP	11	punct	_	O
+5	#technews	#technews	UH	pos2=FW	11	discourse	_	O
+6	#future	#future	UH	pos2=VB	11	discourse	_	O
+7	#IOT	#iot	NNP	pos2=NN	11	cc	_	U-PERSON
+8	#robot	#robot	UH	pos2=ADD	11	discourse	_	O
+9	#makers	#makers	UH	pos2=NNPS	11	discourse	_	O
+10	#DIY	#diy	UH	pos2=$	11	discourse	_	O
+11	#robot	#robot	UH	pos2=ADD	2	pobj	_	O
+

@@ -1,0 +1,26 @@
+1	@TomDickson1	@tomdickson0	NN	pos2=ADD	0	root	_	O
+2	@HerseyJane	@herseyjane	ADD	pos2=XX	1	punct	_	O
+3	@edballs	@edballs	UH	pos2=NNS	6	discourse	_	O
+4	@RachelReevesMP	@rachelreevesmp	UH	pos2=IN	6	discourse	_	O
+5	they	they	PRP	_	6	nsubj	_	O
+6	're	be	VBP	_	2	ccomp	_	O
+7	stupid	stupid	JJ	_	6	acomp	_	O
+8	then	then	RB	_	6	advmod	_	O
+9	.	.	.	_	1	punct	_	O
+
+1	Minimum	minimum	JJ	pos2=NN	2	nmod	_	O
+2	wage	wage	NN	_	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	tax	tax	NN	_	5	compound	_	O
+5	credits	credit	NNS	_	2	appos	_	O
+6	,	,	,	_	5	punct	_	O
+7	new	new	JJ	_	8	nmod	_	O
+8	hospitals	hospital	NNS	_	5	conj	_	O
+9	&	&	CC	_	8	cc	_	O
+10	schools	school	NNS	_	8	conj	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	All	all	DT	pos2=PDT	2	det	_	O
+2	Labour	labour	NNP	_	0	root	_	U-ORG
+3	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,18 @@
+1	4	0	CD	_	2	nmod	_	U-CARDINAL
+2	D	d	NN	pos2=JJ	3	compound	_	O
+3	printing	printing	NN	_	6	dep	_	O
+4	:	:	:	_	8	punct	_	O
+5	Complex	complex	JJ	_	7	nmod	_	O
+6	self-folding	self-folding	JJ	pos2=NN	7	nmod	_	O
+7	structures	structure	NNS	_	0	root	_	O
+8	created	create	VBN	pos2=VBD	7	acl	_	O
+9	with	with	IN	_	8	prep	_	O
+10	3	0	CD	_	14	nmod	_	U-CARDINAL
+11	D	d	NN	pos2=NNP	12	npadvmod	_	O
+12	printed	print	VBN	pos2=VBD	14	nmod	_	O
+13	shape	shape	NN	_	14	compound	_	O
+14	memory	memory	NN	_	9	pobj	_	O
+15	polymers@Vimeo	polymers@vimeo	IN	pos2=NFP	8	prep	_	O
+16	an	an	DT	pos2=GW	14	cc	_	O
+17	https://t.co/d7PyiUJkmH	#hlink#	ADD	pos2=NN	15	pobj	_	O
+

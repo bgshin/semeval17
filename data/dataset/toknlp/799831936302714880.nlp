@@ -1,0 +1,20 @@
+1	@CallofDuty	@callofduty	NNP	pos2=ADD	8	nsubj	_	O
+2	Both	both	DT	pos2=NNP	1	appos	_	O
+3	of	of	IN	_	2	prep	_	O
+4	your	your	PRP$	_	5	poss	_	O
+5	games	game	NNS	_	3	pobj	_	O
+6	this	this	DT	_	7	det	_	B-DATE
+7	year	year	NN	_	8	nsubj	_	L-DATE
+8	is	be	VBZ	_	0	root	_	O
+9	more	more	JJR	_	10	nmod	_	O
+10	Cancer	cancer	NN	_	8	attr	_	O
+11	than	than	IN	_	10	prep	_	O
+12	building	build	VBG	_	11	pcomp	_	O
+13	a	a	DT	_	14	det	_	O
+14	wall	wall	NN	_	12	dobj	_	O
+15	on	on	IN	_	12	prep	_	O
+16	the	the	DT	_	18	det	_	O
+17	Mexican	mexican	JJ	pos2=NNP	18	nmod	_	U-NORP
+18	Border	border	NNP	pos2=NN	15	pobj	_	O
+19	!	!	.	_	8	punct	_	O
+

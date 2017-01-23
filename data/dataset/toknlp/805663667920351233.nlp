@@ -1,0 +1,25 @@
+1	@naenae_calhoun	@naenae_calhoun	NNP	pos2=UH	5	discourse	_	U-PERSON
+2	@Tayla_Gipson	@tayla_gipson	ADD	pos2=NN	7	dep	_	O
+3	lmaooo	lmaooo	RB	pos2=VBP	0	root	_	O
+4	all	all	DT	_	5	det	_	B-DATE
+5	day	day	NN	_	3	npadvmod	_	L-DATE
+6	everyday	everyday	RB	pos2=JJ	2	npadvmod	_	O
+7	‼	‼	.	pos2=NN	1	punct	_	O
+
+1	️	️	NFP	pos2=VB	5	punct	_	O
+2	Her	her	PRP$	_	4	poss	_	O
+3	cougar	cougar	NN	pos2=JJ	4	compound	_	O
+4	self	self	NN	_	5	nsubj	_	O
+5	got	get	VBD	_	0	root	_	O
+6	her	her	PRP$	pos2=PRP	8	poss	_	O
+7	lil	lil	NN	pos2=JJ	8	compound	_	O
+8	cubs	cub	NNS	pos2=FW	5	dobj	_	O
+9	in	in	IN	pos2=RB	5	prep	_	O
+10	check	check	NN	pos2=VBP	9	pobj	_	O
+11	so	so	RB	pos2=IN	13	mark	_	O
+12	it	it	PRP	_	13	nsubj	_	O
+13	's	's	VBZ	_	5	advcl	_	O
+14	only	only	RB	_	16	advmod	_	O
+15	right	right	JJ	pos2=RB	16	nmod	_	O
+16	😊❤️❤️	😊❤️❤️	NN	pos2=.	13	attr	_	U-PRODUCT
+

@@ -1,0 +1,21 @@
+1	@EUAtt	@euatt	NNP	pos2=ADD	2	compound	_	B-PERSON
+2	🇺🇦#Ukraine#yanukovich	🇺🇦#ukraine#yanukovich	NNP	pos2=NN	4	poss	_	I-PERSON
+3	's	's	POS	_	2	case	_	L-PERSON
+4	REGIME	regime	NN	_	10	dep	_	O
+5	:	:	:	_	6	punct	_	O
+6	illicit	illicit	JJ	_	7	nmod	_	O
+7	$	$	$	pos2=NN	8	nmod	_	O
+8	outflows.➤2012	outflows.➤0	NN	pos2=CD	10	dep	_	U-MONEY
+9	:	:	:	_	10	punct	_	O
+10	Min	min	NNP	pos2=NN	0	root	_	U-PERSON
+11	.	.	.	_	10	punct	_	O
+
+1	of	of	IN	_	0	root	_	O
+2	#Economy	#economy	NN	pos2=NNP	4	compound	_	O
+3	-	-	HYPH	pos2=:	4	punct	_	O
+4	#poroshenko!@StateDept	#poroshenko!@statedept	NN	pos2=VBN	8	compound	_	O
+5	@EU_Commission#US	@eu_commission#us	NN	pos2=NNS	8	compound	_	O
+6	#EU	#eu	NN	pos2=XX	8	compound	_	O
+7	#	#	NN	pos2=$	8	compound	_	O
+8	РАДА8	РАДА0	NN	pos2=NNS	1	pobj	_	U-MONEY
+

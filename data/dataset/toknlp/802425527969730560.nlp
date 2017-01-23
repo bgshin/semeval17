@@ -1,0 +1,20 @@
+1	i	I	PRP	_	2	nsubj	_	O
+2	hav	hav	VBP	_	17	ccomp	_	O
+3	so	so	RB	_	4	advmod	_	O
+4	many	many	JJ	_	5	nmod	_	O
+5	liberals	liberal	NNS	_	2	dobj	_	O
+6	/	/	,	pos2=SYM	17	punct	_	O
+7	conservatives	conservative	NNS	_	17	nsubj	_	O
+8	on	on	IN	_	7	prep	_	O
+9	all	all	PDT	pos2=DT	13	predet	_	O
+10	my	my	PRP$	_	13	poss	_	O
+11	other	other	JJ	_	13	nmod	_	O
+12	social	social	JJ	_	13	nmod	_	O
+13	media	medium	NNS	pos2=NN	8	pobj	_	O
+14	ca	can	MD	_	17	aux	_	O
+15	n't	not	RB	_	17	neg	_	O
+16	even	even	RB	_	17	advmod	_	O
+17	post	post	VB	_	0	root	_	O
+18	about	about	IN	pos2=RB	17	prep	_	O
+19	fidel	fidel	NN	pos2=NNP	18	pobj	_	O
+

@@ -1,0 +1,21 @@
+1	TRUMP	trump	NN	pos2=NNP	2	nsubj	_	U-PERSON
+2	SEEMS	seem	VBZ	_	0	root	_	O
+3	TO	to	IN	pos2=TO	2	prep	_	O
+4	B	b	VB	pos2=NN	5	aux	_	O
+5	PICKING	pick	VBG	_	2	xcomp	_	O
+6	HILLARYS	hillarys	NNP	pos2=NNS	5	dobj	_	U-ORG
+7	PICKS	pick	VBZ	pos2=NNS	2	dep	_	O
+8	SO	so	RB	_	7	advmod	_	O
+9	IN	in	IN	_	13	prep	_	O
+10	DECEMBER	december	NNP	_	9	pobj	_	U-DATE
+11	SHE	she	PRP	_	13	nsubj	_	O
+12	CAN	can	MD	_	13	aux	_	O
+13	STEP	step	VB	_	17	ccomp	_	O
+14	IN	in	RB	pos2=RP	13	advmod	_	O
+15	WITH	with	IN	_	13	prep	_	O
+16	A	a	DT	pos2=NNP	18	det	_	O
+17	PICKED	pick	VBN	pos2=JJ	18	nmod	_	O
+18	CABINET	cabinet	NN	pos2=NNP	0	root	_	O
+19	HA	ha	NNP	pos2=UH	18	appos	_	O
+20	?!	?!	.	_	13	punct	_	O
+

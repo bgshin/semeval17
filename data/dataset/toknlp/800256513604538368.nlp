@@ -1,0 +1,19 @@
+1	"	"	``	pos2=SYM	3	punct	_	O
+2	Microsoft	microsoft	NNP	_	3	nsubj	_	U-ORG
+3	joins	join	VBZ	_	8	ccomp	_	O
+4	the	the	DT	_	6	det	_	B-ORG
+5	Linux	linux	NNP	_	6	compound	_	I-ORG
+6	Foundation	foundation	NNP	pos2=NN	3	dobj	_	L-ORG
+7	,	,	,	_	8	punct	_	O
+8	welcomes	welcome	VBZ	_	0	root	_	O
+9	Google	google	NNP	_	8	dobj	_	U-ORG
+10	to	to	IN	pos2=TO	8	prep	_	O
+11	.	.	.	_	8	punct	_	O
+
+1	NET	net	NN	pos2=JJ	2	compound	_	O
+2	community	community	NN	_	6	nsubj	_	O
+3	"	"	''	pos2=``	6	punct	_	O
+4	https://t.co/ZYbRG0Z62R	#hlink#	ADD	_	0	root	_	O
+5	#windowsphone	#windowsphone	-RRB-	pos2=ADD	4	punct	_	O
+6	#feedly	#feedly	RB	pos2=UH	0	root	_	O
+

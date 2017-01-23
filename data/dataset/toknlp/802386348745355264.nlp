@@ -1,0 +1,27 @@
+1	@DrJillStein	@drjillstein	NN	pos2=XX	0	root	_	O
+2	The	the	DT	_	3	det	_	O
+3	people	people	NNS	_	1	dobj	_	O
+4	?	?	.	_	1	punct	_	O
+
+1	Do	do	VBP	pos2=VB	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	consider	consider	VB	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	people	people	NNS	_	3	dobj	_	O
+6	GEORGE	george	NNP	_	7	compound	_	B-PERSON
+7	SOROS	soros	NNP	_	3	vocative	_	L-PERSON
+8	?	?	.	_	3	punct	_	O
+
+1	Do	do	VBP	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	think	think	VB	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	people	people	NNS	_	10	nsubj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	this	this	DT	_	8	det	_	O
+8	country	country	NN	_	6	pobj	_	O
+9	are	be	VBP	_	10	aux	_	O
+10	fucking	fuck	VBG	pos2=RB	3	ccomp	_	O
+11	stupid	stupid	JJ	pos2=FW	10	acomp	_	O
+12	?	?	.	_	3	punct	_	O
+

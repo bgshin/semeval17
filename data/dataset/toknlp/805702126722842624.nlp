@@ -1,0 +1,21 @@
+1	@AllanMargolin	@allanmargolin	ADD	pos2=NNP	10	punct	_	U-PRODUCT
+2	@InSunWeTrust	@insunwetrust	ADD	pos2=XX	10	punct	_	O
+3	@ozy	@ozy	UH	pos2=IN	10	discourse	_	O
+4	@reusehawaii	@reusehawaii	UH	pos2=FW	10	discourse	_	O
+5	@pbshawaii	@pbshawaii	UH	pos2=FW	10	discourse	_	O
+6	@leftocentre	@leftocentre	UH	pos2=VB	10	discourse	_	O
+7	any	any	DT	_	8	det	_	O
+8	Country	country	NN	pos2=NNP	10	nsubj	_	O
+9	can	can	MD	_	10	aux	_	O
+10	be	be	VB	_	0	root	_	O
+11	totally	totally	RB	_	12	advmod	_	O
+12	free	free	JJ	_	10	acomp	_	O
+13	of	of	IN	_	12	prep	_	O
+14	FOSSIL	fossil	NN	pos2=JJ	15	compound	_	O
+15	FUELS	fuel	NNS	pos2=NNPS	13	pobj	_	O
+16	if	if	IN	_	18	mark	_	O
+17	IT	it	PRP	pos2=NNP	18	nsubj	_	O
+18	go	go	VB	pos2=VBP	10	advcl	_	O
+19	FREE	free	JJ	_	20	nmod	_	O
+20	ENERGY	energy	NN	_	18	dobj	_	O
+

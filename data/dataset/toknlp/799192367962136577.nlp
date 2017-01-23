@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det	_	O
+2	latest	late	JJS	_	4	nsubj	_	O
+3	The	the	DT	_	7	det	_	B-ORG
+4	Pink	pink	NNP	pos2=JJ	5	compound	_	I-ORG
+5	Sugar	sugar	NNP	_	7	compound	_	I-ORG
+6	Miami	miami	NNP	_	7	compound	_	I-ORG
+7	Daily	daily	NNP	pos2=RB	0	root	_	L-ORG
+8	!	!	.	_	2	punct	_	O
+
+1	https://t.co/4NMRP7A8vM	#hlink#	ADD	pos2=NN	0	root	_	O
+2	Thanks	thanks	NNS	pos2=NN	1	npadvmod	_	O
+3	to	to	IN	_	2	prep	_	O
+4	@lisafordblog	@lisafordblog	VB	pos2=NNP	3	pobj	_	O
+5	#trumptransitionteam	#trumptransitionteam	UH	pos2=.	1	discourse	_	O
+

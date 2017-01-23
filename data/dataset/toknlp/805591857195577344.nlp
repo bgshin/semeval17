@@ -1,0 +1,9 @@
+1	BRILLIANT	brilliant	JJ	_	6	nmod	_	O
+2	MARINE	marine	JJ	pos2=NNP	3	nmod	_	O
+3	LE	le	NN	pos2=NNP	6	dep	_	O
+4	PEN	pen	NN	pos2=NNP	5	compound	_	O
+5	INTERVIEW	interview	NN	_	6	dep	_	O
+6	https://t.co/TTLatby8dH	#hlink#	ADD	pos2=NN	0	root	_	O
+7	via	via	IN	_	6	prep	_	O
+8	@YouTube	@youtube	NN	pos2=NNP	7	pobj	_	O
+

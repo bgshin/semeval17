@@ -1,0 +1,19 @@
+1	A	a	DT	_	3	det	_	O
+2	letter	letter	NN	_	3	compound	_	O
+3	toWI	towi	NN	pos2=WDT	4	compound	_	O
+4	@SpeakerVos	@speakervos	NNS	pos2=NN	0	root	_	O
+5	:	:	:	_	4	punct	_	O
+6	How	how	WRB	_	7	advmod	_	O
+7	about	about	IN	_	4	prep	_	O
+8	a	a	DT	_	11	det	_	O
+9	Legislator	legislator	NNP	pos2=NN	11	compound	_	O
+10	accountability	accountability	NN	_	11	compound	_	O
+11	system	system	NN	_	7	pobj	_	O
+12	?	?	.	_	7	punct	_	O
+
+1	https://t.co/Rg8nXUZZkQ	#hlink#	ADD	pos2=NNP	5	nsubj	_	O
+2	Still	still	RB	_	5	advmod	_	O
+3	relevant	relevant	JJ	pos2=VBP	4	nmod	_	O
+4	#wipolitics	#wipolitics	NNS	pos2=IN	0	root	_	O
+5	#uniteblue	#uniteblue	UH	pos2=.	0	root	_	O
+

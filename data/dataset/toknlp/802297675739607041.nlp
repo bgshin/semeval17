@@ -1,0 +1,15 @@
+1	@AndrewYNg	@andrewyng	VBG	pos2=VBD	6	csubj	_	O
+2	my	my	PRP$	_	5	poss	_	O
+3	deep	deep	JJ	pos2=NN	5	nmod	_	O
+4	learning	learning	NN	pos2=VBG	5	compound	_	O
+5	algorithm	algorithm	NN	_	1	dobj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	n't	not	RB	_	6	neg	_	O
+8	though	though	RB	pos2=IN	12	advmod	_	O
+9	-	-	HYPH	pos2=,	10	punct	_	O
+10	training	training	NN	_	12	nsubj	_	O
+11	can	can	MD	_	12	aux	_	O
+12	take	take	VB	_	6	ccomp	_	O
+13	time	time	NN	_	12	dobj	_	O
+14	.	.	.	_	6	punct	_	O
+

@@ -1,0 +1,30 @@
+1	Why	why	WRB	_	5	advmod	_	O
+2	would	would	MD	_	5	aux	_	O
+3	rich	rich	JJ	_	4	nmod	_	O
+4	people	people	NNS	_	5	nsubj	_	O
+5	want	want	VBP	pos2=VB	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	job	job	NN	_	5	dobj	_	O
+8	?	?	.	_	5	punct	_	O
+
+1	Expecially	expecially	RB	_	2	advmod	_	O
+2	one	#crd#	CD	pos2=PRP	0	root	_	O
+3	that	that	WDT	pos2=IN	5	mark	_	O
+4	they	they	PRP	_	5	nsubj	_	O
+5	have	have	VBP	_	2	relcl	_	O
+6	NO	no	DT	_	7	det	_	O
+7	experience	experience	NN	_	5	dobj	_	O
+8	?	?	.	_	2	punct	_	O
+
+1	Could	could	MD	_	3	aux	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	be	be	VB	_	0	root	_	O
+4	power	power	NN	pos2=JJ	6	nmod	_	O
+5	/	/	SYM	pos2=,	6	punct	_	O
+6	Greed	greed	NN	pos2=NNP	3	attr	_	O
+7	?	?	.	_	3	punct	_	O
+
+1	#UniteBlue	#uniteblue	GW	pos2=ADD	3	nmod	_	O
+2	…	…	NFP	pos2=GW	3	punct	_	O
+3	https://t.co/lbO1asizAk	#hlink#	ADD	pos2=NN	0	root	_	O
+

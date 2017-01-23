@@ -1,0 +1,11 @@
+1	#Japan	#japan	NNP	pos2=JJ	2	nsubj	_	U-ORG
+2	plans	plan	VBZ	pos2=NNS	0	root	_	O
+3	to	to	TO	pos2=IN	4	aux	_	O
+4	#build	#build	VB	_	2	xcomp	_	O
+5	the	the	DT	_	8	det	_	O
+6	fastest	fast	JJS	pos2=RBS	10	nmod	_	O
+7	#deeplearning	#deeplearning	VBG	pos2=GW	10	nmod	_	O
+8	#supercomputer	#supercomputer	GW	pos2=NFP	10	nmod	_	O
+9	https://t.co/2eJCpoqJLK	#hlink#	ADD	pos2=GW	10	nmod	_	O
+10	https://t.co/pqbJ3zQKAc	#hlink#	ADD	_	4	dobj	_	U-ORG
+

@@ -1,0 +1,13 @@
+1	https://t.co/NhcttIaMbR.	#hlink#	ADD	_	2	nsubj	_	O
+2	Meet	meet	VB	pos2=VBP	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	robots	robot	NNS	_	2	dobj	_	O
+5	improving	improve	VBG	_	4	acl	_	O
+6	Amazon	amazon	NNP	_	7	compound	_	U-ORG
+7	services	service	NNS	_	5	dobj	_	O
+8	even	even	RB	_	9	advmod	_	O
+9	on	on	IN	_	5	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	weekends	weekend	NNS	_	9	pobj	_	O
+12	.	.	.	_	2	punct	_	O
+

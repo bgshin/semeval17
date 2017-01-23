@@ -1,0 +1,9 @@
+1	Luke	luke	NNP	pos2=JJ	2	nsubj	_	U-PERSON
+2	dresses	dress	VBZ	pos2=NNS	0	root	_	O
+3	like	like	IN	_	2	prep	_	O
+4	a	a	DT	_	7	det	_	O
+5	white	white	JJ	_	7	nmod	_	O
+6	Tim	tim	NNP	_	7	compound	_	B-PERSON
+7	Duncan	duncan	NNP	_	3	pobj	_	L-PERSON
+8	.	.	.	_	2	punct	_	O
+

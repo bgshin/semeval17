@@ -1,0 +1,27 @@
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	guy	guy	NN	_	2	attr	_	O
+5	who	who	WP	_	7	nsubj	_	O
+6	now	now	RB	_	7	advmod	_	O
+7	calls	call	VBZ	_	4	relcl	_	O
+8	George	george	NNP	_	9	compound	_	B-PERSON
+9	Soros	soros	NNP	_	7	dobj	_	L-PERSON
+10	a	a	DT	_	13	det	_	O
+11	Nazi	nazi	NNP	pos2=JJ	13	compound	_	U-NORP
+12	ss	ss	NN	_	13	compound	_	O
+13	officer	officer	NN	_	7	oprd	_	O
+14	from	from	IN	_	7	prep	_	O
+15	1940	0	CD	_	14	pobj	_	U-DATE
+16	,	,	,	_	17	punct	_	O
+17	Trumps	trump	VBZ	pos2=NNPS	18	compound	_	O
+18	insecurity	insecurity	NN	_	19	nsubj	_	O
+19	knows	know	VBZ	_	2	parataxis	_	O
+20	no	no	DT	_	21	det	_	O
+21	bounds	bound	NNS	_	23	nsubjpass	_	O
+22	GET	get	VB	pos2=VBP	23	auxpass	_	O
+23	RID	rid	VBN	pos2=GW	26	nmod	_	O
+24	O	o	GW	pos2=UH	26	nmod	_	O
+25	…	…	NFP	pos2=GW	26	punct	_	O
+26	https://t.co/cj4FDqLzEy	#hlink#	ADD	pos2=NN	17	dobj	_	O
+

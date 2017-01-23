@@ -1,0 +1,23 @@
+1	'	'	``	pos2=POS	7	punct	_	O
+2	PICHICHI	pichichi	NN	pos2=NNP	7	nsubj	_	O
+3	OF	of	IN	_	2	prep	_	O
+4	EUROPE	europe	NNP	pos2=NN	3	pobj	_	U-LOC
+5	"	"	''	pos2=``	7	punct	_	O
+6	Messi	messi	NNP	_	7	nsubj	_	U-PERSON
+7	is	be	VBZ	_	0	root	_	O
+8	top	top	JJ	_	9	nmod	_	O
+9	scorer	scorer	NN	_	7	attr	_	O
+10	in	in	IN	_	9	prep	_	O
+11	Liga	liga	NNP	_	10	pobj	_	U-ORG
+12	and	and	CC	_	11	cc	_	O
+13	CL	cl	NNP	pos2=NN	11	conj	_	U-ORG
+14	combined	combine	VBN	_	9	acl	_	O
+15	with	with	IN	_	14	prep	_	O
+16	17	0	CD	_	18	nmod	_	U-CARDINAL
+17	total	total	JJ	pos2=NN	18	nmod	_	O
+18	#fcblive	#fcblive	NN	pos2=NNS	15	pobj	_	O
+19	(	(	-LRB-	_	18	punct	_	O
+20	@mundodeportivo	@mundodeportivo	UH	pos2=AFX	18	appos	_	O
+21	)	)	-RRB-	_	18	punct	_	O
+22	https://t.co/c3Vz3bFha7	#hlink#	ADD	pos2=NN	7	dep	_	O
+

@@ -1,0 +1,20 @@
+1	Conducted	conduct	VBD	pos2=VBN	0	root	_	O
+2	overt	overt	JJ	_	6	nmod	_	O
+3	and	and	CC	_	2	cc	_	O
+4	covert	covert	JJ	_	2	conj	_	O
+5	security	security	NN	_	6	compound	_	O
+6	coverage	coverage	NN	_	1	dobj	_	O
+7	during	during	IN	_	1	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	pay	pay	NN	pos2=VB	7	pobj	_	O
+10	out	out	IN	_	9	prep	_	O
+11	of	of	IN	_	10	prep	_	O
+12	Social	social	NNP	pos2=JJ	13	compound	_	B-ORG
+13	Pension	pension	NNP	pos2=NN	11	pobj	_	I-ORG
+14	for	for	IN	_	9	prep	_	I-ORG
+15	Indigent	indigent	NNP	pos2=JJ	16	compound	_	I-ORG
+16	Senior	senior	NNP	_	14	pobj	_	L-ORG
+17	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/8tm1y494My	#hlink#	ADD	_	0	root	_	U-ORG
+

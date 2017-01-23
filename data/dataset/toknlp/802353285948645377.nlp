@@ -1,0 +1,14 @@
+1	Here	here	RB	_	4	advmod	_	O
+2	Biden	biden	NNP	_	4	nsubj	_	U-PERSON
+3	is	be	VBZ	_	4	aux	_	O
+4	doing	do	VBG	_	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	same	same	JJ	_	7	nmod	_	O
+7	thing	thing	NN	_	4	dobj	_	O
+8	with	with	IN	_	4	prep	_	O
+9	this	this	DT	_	12	det	_	O
+10	little	little	JJ	_	12	nmod	_	O
+11	girl	girl	NN	_	12	compound	_	O
+12	tpp	tpp	NN	pos2=GW	8	pobj	_	O
+13	https://t.co/YURpLJZC1P	#hlink#	ADD	pos2=NN	12	appos	_	O
+

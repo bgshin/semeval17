@@ -1,0 +1,21 @@
+1	@Billstannard1	@billstannard0	NN	pos2=IN	2	compound	_	O
+2	Anarchists	anarchist	NNS	pos2=NNPS	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	bottom	bottom	JJ	_	5	nmod	_	O
+5	feeders	feeder	NNS	_	3	attr	_	O
+6	,	,	,	_	5	punct	_	O
+7	worst	bad	JJS	_	5	appos	_	O
+8	of	of	IN	_	7	prep	_	O
+9	society	society	NN	_	8	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	Like	like	IN	_	6	prep	_	O
+2	domestic	domestic	JJ	_	3	nmod	_	O
+3	terrorists	terrorist	NNS	_	1	pobj	_	O
+4	#BlackLivesMatter	#blacklivesmatter	IN	pos2=VBP	6	mark	_	O
+5	We	we	PRP	_	6	nsubj	_	O
+6	're	be	VBP	_	9	advcl	_	O
+7	a	a	DT	pos2=GW	8	det	_	O
+8	…	…	NFP	pos2=-LRB-	6	attr	_	O
+9	https://t.co/i9jSmzZr3D	#hlink#	ADD	pos2=NN	0	root	_	O
+

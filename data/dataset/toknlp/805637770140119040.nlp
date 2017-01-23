@@ -1,0 +1,15 @@
+1	dream	dream	NN	_	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	rap	rap	JJ	pos2=NN	4	nmod	_	O
+4	twinks	twinks	NNS	pos2=NN	5	nsubj	_	O
+5	sets	set	VBZ	pos2=NNS	0	root	_	O
+6	fire	fire	NN	pos2=VBP	5	dobj	_	O
+7	both	both	DT	pos2=CC	9	det	_	O
+8	end	end	NN	pos2=VBP	9	compound	_	O
+9	uo	uo	NN	pos2=JJ	10	nsubj	_	O
+10	desd	desd	VBD	pos2=JJ	5	conj	_	O
+11	gay	gay	JJ	_	12	nmod	_	O
+12	marriage	marriage	NN	_	10	dobj	_	O
+13	unsolved	unsolved	JJ	pos2=VBN	10	oprd	_	O
+14	?	?	.	_	10	punct	_	O
+

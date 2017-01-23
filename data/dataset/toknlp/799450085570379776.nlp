@@ -1,0 +1,20 @@
+1	Get	get	VB	_	0	root	_	O
+2	your	your	PRP$	_	3	poss	_	O
+3	news	news	NN	_	1	dobj	_	O
+4	about	about	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	#TrumpTransitionTeam	#trumptransitionteam	NN	pos2=NNP	4	pobj	_	O
+7	NOT	not	RB	_	8	neg	_	O
+8	from	from	IN	_	1	prep	_	O
+9	backstabbing	backstabbing	VBG	pos2=NN	8	pcomp	_	O
+10	Commie	commie	NNP	pos2=NN	11	compound	_	U-NORP
+11	liars	liar	NNS	_	9	dobj	_	O
+12	at	at	IN	_	9	prep	_	O
+13	@CNN	@cnn	NNP	pos2=$	12	pobj	_	O
+14	@CBS	@cbs	POS	pos2=GW	13	case	_	O
+15	@MSNBC	@msnbc	ADD	pos2=GW	12	pobj	_	O
+16	https://t.co/ZfXWNIDNpg	#hlink#	ADD	pos2=IN	17	nmod	_	O
+17	Enemies	enemy	NNS	_	15	attr	_	O
+18	of	of	IN	_	17	prep	_	O
+19	USA	usa	NNP	_	18	pobj	_	U-GPE
+

@@ -1,0 +1,23 @@
+1	Ha	ha	UH	_	5	discourse	_	O
+2	somewhat	somewhat	RB	_	5	advmod	_	O
+3	amusing	amusing	JJ	_	5	advmod	_	O
+4	-	-	HYPH	pos2=:	5	punct	_	O
+5	guess	guess	VB	pos2=VBP	0	root	_	O
+6	it	it	PRP	_	7	nsubj	_	O
+7	is	be	VBZ	_	5	ccomp	_	O
+8	an	an	DT	_	10	det	_	O
+9	in-dash	in-dash	JJ	pos2=NN	10	nmod	_	O
+10	tablet	tablet	NN	_	7	attr	_	O
+11	after	after	IN	pos2=RB	7	prep	_	O
+12	all	all	RB	pos2=DT	14	advmod	_	O
+13	//	//	HYPH	pos2=-LRB-	14	punct	_	O
+14	Tempered	temper	VBN	pos2=JJ	17	nmod	_	O
+15	Glass	glass	NNP	pos2=NN	17	compound	_	O
+16	Screen	screen	NNP	pos2=NN	17	compound	_	O
+17	Protector	protector	NNP	pos2=NN	22	dep	_	O
+18	for	for	IN	_	17	prep	_	O
+19	Tesla	tesla	NNP	_	20	compound	_	O
+20	Model	model	NNP	_	18	pobj	_	O
+21	S	s	POS	pos2=NNP	20	case	_	O
+22	https://t.co/wASOAMSOKQ	#hlink#	ADD	pos2=NN	0	root	_	O
+

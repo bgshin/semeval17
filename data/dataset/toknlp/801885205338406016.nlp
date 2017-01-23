@@ -1,0 +1,7 @@
+1	Family	family	NN	pos2=NNP	2	compound	_	O
+2	#unitednations	#unitednations	NNPS	pos2=NNS	6	dep	_	O
+3	#america	#america	UH	pos2=GW	2	discourse	_	O
+4	#germany	#germany	UH	pos2=GW	6	discourse	_	O
+5	#colombia	#colombia	UH	pos2=GW	6	discourse	_	O
+6	https://t.co/OTp0PT4yd1	#hlink#	ADD	pos2=UH	0	root	_	O
+

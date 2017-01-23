@@ -1,0 +1,18 @@
+1	@UM_Slack	@um_slack	UH	pos2=ADD	5	discourse	_	O
+2	@walpoc	@walpoc	UH	pos2=FW	5	discourse	_	O
+3	@KDRocher	@kdrocher	NNP	pos2=WP	5	nsubj	_	O
+4	Still	still	RB	_	5	advmod	_	O
+5	have	have	VBP	_	10	advcl	_	O
+6	Obamacare	obamacare	NNP	_	5	dobj	_	U-PERSON
+7	,	,	,	_	10	punct	_	O
+8	do	do	VB	pos2=VBP	10	aux	_	O
+9	n't	not	RB	_	10	neg	_	O
+10	hear	hear	VB	_	0	root	_	O
+11	about	about	IN	_	10	prep	_	O
+12	death	death	NN	_	13	compound	_	O
+13	panels	panel	NNS	_	11	pobj	_	O
+14	from	from	IN	_	10	prep	_	O
+15	you	you	PRP	_	14	pobj	_	O
+16	idiots	idiot	NNS	pos2=VBP	15	appos	_	O
+17	ever	ever	RB	_	12	advmod	_	O
+

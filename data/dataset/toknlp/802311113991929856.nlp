@@ -1,0 +1,16 @@
+1	Usher	usher	NNP	_	3	nsubj	_	U-ORG
+2	is	be	VBZ	_	3	aux	_	O
+3	putting	put	VBG	_	0	root	_	O
+4	in	in	RP	pos2=IN	3	prt	_	O
+5	WORK	work	NN	pos2=NNP	3	dobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	You	you	PRP	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	see	see	VB	_	0	root	_	O
+4	him	him	PRP	_	5	nsubj	_	O
+5	dripping	drip	VBG	_	3	ccomp	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+

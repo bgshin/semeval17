@@ -1,0 +1,21 @@
+1	@OathKeeper101	@oathkeeper0	NN	pos2=XX	3	compound	_	O
+2	st	st	NN	pos2=LS	3	compound	_	O
+3	@wfnx1990We	@wfnx0we	NNS	pos2=TO	4	nsubj	_	O
+4	need	need	VBP	pos2=VB	0	root	_	O
+5	a	a	DT	_	7	det	_	O
+6	grassroots	grassroots	JJ	_	7	nmod	_	O
+7	effort	effort	NN	_	4	dobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	move	move	VB	_	7	acl	_	O
+10	more	more	JJR	pos2=RBR	11	nmod	_	O
+11	conservatives	conservative	NNS	_	9	dobj	_	O
+12	to	to	IN	pos2=TO	9	prep	_	O
+13	CA	ca	NNP	pos2=NN	12	pobj	_	O
+14	!	!	.	_	4	punct	_	O
+
+1	Reclaim	reclaim	VB	_	0	root	_	O
+2	the	the	DT	_	4	det	_	O
+3	beautiful	beautiful	JJ	_	4	nmod	_	O
+4	state	state	NN	_	1	dobj	_	O
+5	.	.	.	_	1	punct	_	O
+

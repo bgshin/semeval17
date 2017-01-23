@@ -1,0 +1,18 @@
+1	"	"	``	_	3	punct	_	O
+2	Paul	paul	NNP	_	3	compound	_	B-PERSON
+3	Pelosi	pelosi	NNP	_	0	root	_	L-PERSON
+4	"	"	''	_	3	punct	_	O
+5	:	:	:	_	3	punct	_	O
+6	451	0	CD	_	7	nmod	_	U-CARDINAL
+7	views	view	NNS	_	13	dep	_	O
+8	per	per	IN	_	13	dep	_	O
+9	day	day	NN	_	13	dep	_	O
+10	,	,	,	_	13	punct	_	O
+11	quality	quality	NN	_	12	compound	_	O
+12	rating	rating	NN	pos2=VBG	13	nsubj	_	O
+13	18/100	0	CD	_	3	appos	_	U-CARDINAL
+14	.	.	.	_	3	punct	_	O
+
+1	https://t.co/00fBqCRVzE	#hlink#	ADD	_	0	root	_	O
+2	#fixme	#fixme	UH	pos2=-RRB-	1	discourse	_	O
+

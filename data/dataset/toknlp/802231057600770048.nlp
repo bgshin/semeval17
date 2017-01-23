@@ -1,0 +1,25 @@
+1	Well	well	RB	pos2=UH	2	advmod	_	O
+2	done	do	VBN	_	0	root	_	O
+3	to	to	IN	pos2=TO	2	prep	_	O
+4	peter	peter	NNP	pos2=VB	3	pobj	_	O
+5	and	and	CC	_	4	cc	_	O
+6	his	his	PRP$	_	9	poss	_	O
+7	Tipp	tipp	NNP	_	8	compound	_	U-ORG
+8	team	team	NN	_	9	compound	_	O
+9	mates	mate	NNS	pos2=VBZ	4	conj	_	O
+10	playing	play	VBG	_	2	advcl	_	O
+11	for	for	IN	_	10	prep	_	O
+12	2016	0	CD	_	11	pobj	_	U-DATE
+13	all	all	DT	_	15	det	_	O
+14	star	star	NN	pos2=JJ	15	compound	_	O
+15	team	team	NN	_	11	pobj	_	O
+16	today	today	NN	_	10	npadvmod	_	U-DATE
+17	.	.	.	_	2	punct	_	O
+
+1	Fair	fair	JJ	pos2=NNP	3	nmod	_	O
+2	play	play	NN	pos2=VBP	3	compound	_	O
+3	peter	peter	NN	pos2=GW	6	dep	_	O
+4	scoring	score	VBG	pos2=NN	3	acl	_	O
+5	1-2	0	CD	_	6	dep	_	B-CARDINAL
+6	https://t.co/KlmWKcObFV	#hlink#	ADD	pos2=NNS	0	root	_	L-CARDINAL
+

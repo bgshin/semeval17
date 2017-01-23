@@ -1,0 +1,25 @@
+1	@MattYaspan	@mattyaspan	ADD	pos2=UH	6	cc	_	U-GPE
+2	@EdAsante77	@edasante0	NN	pos2=ADD	3	compound	_	O
+3	@WSJ	@wsj	NNP	pos2=NN	6	nsubj	_	O
+4	Often	often	RB	_	6	advmod	_	O
+5	not	not	RB	_	6	neg	_	O
+6	enough	enough	JJ	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	compete	compete	VB	_	6	xcomp	_	O
+9	w	w	IN	_	8	prep	_	O
+10	/	/	HYPH	pos2=SYM	9	punct	_	O
+11	full	full	JJ	_	12	nmod	_	O
+12	range	range	NN	_	9	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	transfers	transfer	NNS	_	13	pobj	_	O
+15	.	.	.	_	6	punct	_	O
+
+1	Disability	disability	NN	pos2=NNP	0	root	_	O
+2	,	,	,	_	1	punct	_	O
+3	medicaid	medicaid	NN	_	1	conj	_	O
+4	,	,	,	_	3	punct	_	O
+5	sect	sect	NN	_	3	conj	_	O
+6	8	0	CD	_	5	nmod	_	U-CARDINAL
+7	,	,	,	_	5	punct	_	O
+8	....	..	.	pos2=,	1	punct	_	O
+

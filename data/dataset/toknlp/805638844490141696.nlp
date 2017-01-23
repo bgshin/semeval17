@@ -1,0 +1,25 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	miss	miss	VBP	_	0	root	_	O
+3	my	my	PRP$	_	5	poss	_	O
+4	baby	baby	NN	_	5	compound	_	O
+5	girl	girl	NN	pos2=XX	2	dobj	_	O
+6	so	so	RB	_	7	advmod	_	O
+7	much	much	RB	pos2=JJ	2	advmod	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	Today	today	NN	_	2	npadvmod	_	U-DATE
+2	was	be	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	hard	hard	JJ	_	5	nmod	_	O
+5	day	day	NN	_	2	attr	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	😭🐾🐾❤️	😭🐾🐾❤️	SYM	pos2=NFP	2	punct	_	U-ORG
+2	#Grief	#grief	PRP	pos2=XX	0	root	_	O
+3	#dogmom	#dogmom	UH	pos2=IN	2	discourse	_	O
+4	#euthanasia	#euthanasia	UH	pos2=FW	2	discourse	_	O
+5	#cushingsdisease	#cushingsdisease	UH	pos2=VB	2	discourse	_	O
+6	#heartbroken	#heartbroken	UH	pos2=GW	2	discourse	_	O
+7	…	…	NFP	pos2=-LRB-	2	discourse	_	O
+8	https://t.co/ndJptRPqiT	#hlink#	ADD	_	2	appos	_	O
+

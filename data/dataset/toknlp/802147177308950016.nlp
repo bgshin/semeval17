@@ -1,0 +1,7 @@
+1	when	when	WRB	_	3	advmod	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	think	think	VBP	_	0	root	_	O
+4	about	about	IN	_	3	prep	_	O
+5	#BeautyAndTheBeast	#beautyandthebeast	ADD	pos2=GW	4	pobj	_	O
+6	https://t.co/VCHQRaoFIw	#hlink#	ADD	_	4	pobj	_	O
+

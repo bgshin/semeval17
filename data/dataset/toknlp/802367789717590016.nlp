@@ -1,0 +1,15 @@
+1	Why	why	WRB	_	9	advmod	_	O
+2	Trump	trump	NNP	_	4	poss	_	U-ORG
+3	's	's	POS	_	2	case	_	O
+4	Appointment	appointment	NN	pos2=NNP	9	nsubj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Steve	steve	NNP	_	7	compound	_	B-PERSON
+7	Bannon	bannon	NNP	_	5	pobj	_	L-PERSON
+8	Has	have	VBZ	pos2=NNP	9	aux	_	O
+9	Raised	raise	VBN	_	0	root	_	O
+10	So	so	RB	_	11	advmod	_	O
+11	Many	many	JJ	pos2=GW	12	nmod	_	O
+12	Alarms	alarm	NNPS	pos2=NNS	9	dobj	_	U-NORP
+13	https://t.co/pYsS0PNWnl	#hlink#	ADD	pos2=VBP	12	appos	_	O
+14	#news	#news	-RRB-	pos2=NNS	9	punct	_	O
+

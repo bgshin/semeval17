@@ -1,0 +1,13 @@
+1	Israel	israel	NNP	_	2	nsubj	_	U-GPE
+2	Threatens	threaten	VBZ	_	0	root	_	O
+3	Int'l	int'l	NNP	_	5	compound	_	B-ORG
+4	Criminal	criminal	NNP	pos2=JJ	5	compound	_	I-ORG
+5	Court	court	NNP	_	2	dobj	_	L-ORG
+6	With	with	IN	_	2	prep	_	O
+7	Retribution	retribution	NN	pos2=NNP	6	pobj	_	O
+8	https://t.co/snDjxOR4yy	#hlink#	ADD	_	9	nsubj	_	O
+9	#gaza	#gaza	IN	pos2=-RRB-	7	prep	_	O
+10	#palestine	#palestine	UH	pos2=PRP	9	discourse	_	O
+11	#israel	#israel	UH	pos2=VB	9	discourse	_	O
+12	#BDS	#bds	NNS	pos2=UH	9	pobj	_	O
+

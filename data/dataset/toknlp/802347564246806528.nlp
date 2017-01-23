@@ -1,0 +1,20 @@
+1	https://t.co/LoAM2JkOcS	#hlink#	ADD	pos2=NNP	4	nsubj	_	O
+2	Microsoft	microsoft	NNP	_	4	nsubj	_	U-ORG
+3	has	have	VBZ	_	4	aux	_	O
+4	invented	invent	VBN	_	0	root	_	O
+5	a	a	DT	_	7	det	_	O
+6	reprogrammable	reprogrammable	JJ	_	7	nmod	_	O
+7	chip	chip	NN	_	4	dobj	_	O
+8	that	that	WDT	_	10	nsubj	_	O
+9	may	may	MD	_	10	aux	_	O
+10	accelerate	accelerate	VB	_	7	relcl	_	O
+11	the	the	DT	_	12	det	_	O
+12	speed	speed	NN	_	10	dobj	_	O
+13	and	and	CC	_	12	cc	_	O
+14	flexibility	flexibility	NN	_	12	conj	_	O
+15	of	of	IN	_	12	prep	_	O
+16	deep	deep	JJ	_	17	nmod	_	O
+17	learning	learning	NN	_	15	pobj	_	O
+18	and	and	CC	_	17	cc	_	O
+19	AI	ai	NN	pos2=NNP	17	conj	_	O
+

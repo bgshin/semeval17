@@ -1,0 +1,19 @@
+1	@Portosj81J	@portosj0j	NN	pos2=XX	2	compound	_	O
+2	@StrangeFunnies	@strangefunnies	NNS	pos2=ADD	3	compound	_	O
+3	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	flying	fly	VBG	pos2=NN	4	pcomp	_	O
+6	in	in	IN	pos2=RP	5	prep	_	O
+7	#Pizza	#pizza	NNP	pos2=NN	6	pobj	_	U-DATE
+8	from	from	IN	_	5	prep	_	O
+9	#Chicago	#chicago	NNP	_	11	poss	_	B-GPE
+10	@Taxpayers	@taxpayers	POS	pos2=PRP$	9	case	_	L-GPE
+11	expense	expense	NN	_	8	pobj	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	$	$	$	_	2	nmod	_	O
+2	65.000	0	CD	_	0	root	_	U-MONEY
+3	to	to	IN	_	2	prep	_	O
+4	another	another	DT	_	5	det	_	O
+5	#Pizzagate	#pizzagate	NNP	pos2=NN	3	pobj	_	U-LOC
+

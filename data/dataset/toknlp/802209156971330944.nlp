@@ -1,0 +1,11 @@
+1	#TaylorSwift	#taylorswift	NN	pos2=NNP	2	nsubj	_	O
+2	Hits	hit	VBZ	pos2=NNPS	8	ccomp	_	B-WORK_OF_ART
+3	The	the	DT	_	4	det	_	I-WORK_OF_ART
+4	Ocean	ocean	NNP	_	2	dobj	_	I-WORK_OF_ART
+5	For	for	IN	_	2	prep	_	I-WORK_OF_ART
+6	#MannequinChallenge	#mannequinchallenge	NN	pos2=NNP	5	pobj	_	I-WORK_OF_ART
+7	:	:	:	_	8	punct	_	I-WORK_OF_ART
+8	Watch	watch	VB	pos2=GW	0	root	_	I-WORK_OF_ART
+9	https://t.co/FyMhYlHxDi	#hlink#	ADD	_	10	nmod	_	L-WORK_OF_ART
+10	https://t.co/qDu8T3hsK2	#hlink#	ADD	_	8	dobj	_	U-ORG
+

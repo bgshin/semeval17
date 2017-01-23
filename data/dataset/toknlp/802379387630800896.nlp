@@ -1,0 +1,25 @@
+1	@jordanp	@jordanp	UH	pos2=XX	17	discourse	_	O
+2	@LukewSavage	@lukewsavage	NN	pos2=UH	17	nsubj	_	O
+3	When	when	WRB	_	5	advmod	_	O
+4	they	they	PRP	_	5	nsubj	_	O
+5	cut	cut	VBD	pos2=VBP	1	advcl	_	O
+6	Social	social	NNP	_	7	compound	_	B-ORG
+7	Security	security	NNP	_	5	dobj	_	L-ORG
+8	and	and	CC	_	7	cc	_	O
+9	Medicaid	medicaid	NNP	_	7	conj	_	U-ORG
+10	,	,	,	_	7	punct	_	O
+11	John	john	NNP	_	12	compound	_	B-PERSON
+12	McCain	mccain	NNP	_	7	conj	_	L-PERSON
+13	and	and	CC	_	12	cc	_	O
+14	Rand	rand	NNP	_	15	compound	_	B-PERSON
+15	Paul	paul	NNP	_	12	conj	_	L-PERSON
+16	will	will	MD	_	17	aux	_	O
+17	have	have	VB	_	0	root	_	O
+18	the	the	DT	_	20	det	_	O
+19	moral	moral	JJ	_	20	nmod	_	O
+20	capital	capital	NN	_	17	dobj	_	O
+21	to	to	TO	_	22	aux	_	O
+22	sell	sell	VB	_	20	relcl	_	O
+23	it	it	PRP	_	22	dobj	_	O
+24	.	.	.	_	17	punct	_	O
+

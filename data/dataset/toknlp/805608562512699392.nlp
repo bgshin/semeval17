@@ -1,0 +1,18 @@
+1	France	france	NNP	pos2=NN	4	dep	_	U-GPE
+2	:	:	:	_	4	punct	_	O
+3	Fillon	fillon	NNP	_	4	nsubj	_	U-PERSON
+4	nominated	nominate	VBD	pos2=VBN	0	root	_	O
+5	to	to	IN	pos2=TO	4	prep	_	O
+6	battle	battle	VB	pos2=NN	5	pobj	_	O
+7	Marine	marine	NNP	_	9	compound	_	B-ORG
+8	Le	le	NNP	_	9	compound	_	I-ORG
+9	Pen	pen	NNP	_	6	dobj	_	L-ORG
+10	in	in	IN	_	6	prep	_	O
+11	new	new	JJ	_	13	nmod	_	O
+12	Presidential	presidential	JJ	_	13	nmod	_	O
+13	elections	election	NNS	_	10	pobj	_	O
+14	|	|	NFP	pos2=,	17	punct	_	O
+15	Economist	economist	NN	pos2=GW	17	dep	_	O
+16	https://t.co/zoe0bj7efd	#hlink#	ADD	_	17	nmod	_	O
+17	https://t.co/zvh5ibAOqy	#hlink#	ADD	_	4	dep	_	U-ORG
+

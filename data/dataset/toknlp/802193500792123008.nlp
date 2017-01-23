@@ -1,0 +1,23 @@
+1	Hahaha	hahaha	UH	_	9	discourse	_	O
+2	#Negan	#negan	NNP	pos2=UH	9	nsubj	_	U-PERSON
+3	#TheWalkingDead	#thewalkingdead	XX	pos2=NN	9	dep	_	O
+4	if	if	IN	_	6	mark	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	watch	watch	VBP	_	9	advcl	_	O
+7	you	you	PRP	_	9	nsubj	_	O
+8	’ll	will	MD	_	9	aux	_	O
+9	know	know	VB	_	0	root	_	O
+10	,	,	,	_	9	punct	_	O
+11	if	if	IN	_	13	mark	_	O
+12	you	you	PRP	_	13	nsubj	_	O
+13	do	do	VBP	_	9	advcl	_	O
+14	n’t	not	RB	_	13	neg	_	O
+15	then	then	RB	_	13	advmod	_	O
+16	what	what	WP	pos2=VB	13	dep	_	O
+17	the	the	DT	_	19	det	_	O
+18	fuck	fuck	NN	pos2=XX	19	compound	_	O
+19	man	man	NN	_	16	nsubj	_	O
+20	!!!!!	!!	.	_	9	punct	_	O
+
+1	https://t.co/iNPgD7bsac	#hlink#	ADD	_	0	root	_	U-ORG
+

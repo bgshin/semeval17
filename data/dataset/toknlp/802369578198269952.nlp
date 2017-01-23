@@ -1,0 +1,28 @@
+1	Me	me	PRP	pos2=NN	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	This	this	DT	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	a	a	DT	_	8	det	_	O
+6	Velvet	velvet	NNP	pos2=NN	8	nmod	_	O
+7	Underground	underground	JJ	pos2=NNP	8	nmod	_	O
+8	song	song	NN	_	4	attr	_	O
+9	!	!	.	pos2=,	4	punct	_	O
+
+1	Courtney	courtney	NNP	pos2=NN	5	vocative	_	U-PERSON
+2	:	:	:	_	5	punct	_	O
+3	Ohh	ohh	UH	pos2=NNP	5	discourse	_	O
+4	,	,	,	_	5	punct	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	that	that	IN	pos2=DT	8	dobj	_	O
+7	Leonard	leonard	NNP	_	8	compound	_	B-PERSON
+8	Cohen	cohen	NNP	_	5	nsubj	_	L-PERSON
+9	?	?	.	_	5	punct	_	O
+
+1	Me	me	PRP	pos2=NN	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	NO	no	UH	pos2=RB	5	discourse	_	O
+4	IT	it	PRP	pos2=NN	5	nsubj	_	O
+5	'S	's	VBZ	_	0	root	_	O
+6	LOU	lou	NNP	_	7	compound	_	B-PERSON
+7	REED	reed	NNP	pos2=NN	5	attr	_	L-PERSON
+

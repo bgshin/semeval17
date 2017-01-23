@@ -1,0 +1,11 @@
+1	@dancekimmidance	@dancekimmidance	UH	pos2=IN	7	discourse	_	O
+2	viet	viet	JJ	pos2=NN	3	nmod	_	O
+3	food	food	NN	_	7	nsubj	_	O
+4	in	in	IN	_	3	prep	_	O
+5	san	san	NNP	pos2=JJ	6	compound	_	O
+6	jose	jose	NNP	pos2=NN	4	pobj	_	O
+7	is	be	VBZ	_	0	root	_	O
+8	the	the	DT	_	10	det	_	O
+9	gold	gold	NN	pos2=JJ	10	compound	_	O
+10	standard	standard	NN	pos2=JJ	7	attr	_	O
+

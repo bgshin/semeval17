@@ -1,0 +1,16 @@
+1	#Israel_Under_Fire	#israel_under_fire	UH	pos2=NN	3	discourse	_	O
+2	,	,	,	_	4	punct	_	O
+3	#IsraelIsBurning	#israelisburning	VBG	pos2=NN	0	root	_	O
+4	always	always	RB	_	3	advmod	_	O
+5	due	due	IN	pos2=JJ	3	prep	_	O
+6	to	to	IN	_	5	pcomp	_	O
+7	terrorism	terrorism	NN	_	5	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	#palestinian	#palestinian	XX	pos2=NNP	14	nmod	_	O
+10	#arabs	#arabs	XX	pos2=UH	14	nmod	_	O
+11	#muslims	#muslims	XX	pos2=UH	14	dep	_	O
+12	like	like	UH	pos2=IN	14	discourse	_	O
+13	#Hamas	#hamas	XX	pos2=NNP	14	nmod	_	O
+14	#PLO	#plo	XX	pos2=UH	8	pobj	_	O
+15	.	.	.	_	12	punct	_	O
+

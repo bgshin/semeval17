@@ -1,0 +1,17 @@
+1	https://t.co/9ofViv4Za0	#hlink#	ADD	pos2=NN	11	dep	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@youtubeGigi	@youtubegigi	NNP	pos2=CD	4	compound	_	O
+4	Hadid	hadid	NNP	_	2	pobj	_	U-PERSON
+5	does	do	VBZ	_	11	aux	_	O
+6	Melania	melania	NNP	_	7	compound	_	B-PERSON
+7	Trump	trump	NNP	pos2=VB	8	compound	_	L-PERSON
+8	impression	impression	NN	_	11	dep	_	O
+9	-	-	:	pos2=HYPH	11	punct	_	O
+10	Full	full	JJ	_	11	nmod	_	O
+11	Monologue	monologue	NN	_	0	root	_	O
+12	at	at	IN	_	11	prep	_	O
+13	the	the	DT	_	16	det	_	O
+14	AMAsdevodid	amasdevodid	NNP	pos2=JJ	16	nmod	_	O
+15	847,841	0	CD	_	16	nmod	_	O
+16	views	view	NNS	_	12	pobj	_	O
+

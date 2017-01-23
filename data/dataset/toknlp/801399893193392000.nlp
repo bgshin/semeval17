@@ -1,0 +1,18 @@
+1	#Mosul	#mosul	NNP	pos2=NN	4	nsubjpass	_	U-ORG
+2	has	have	VBZ	_	4	aux	_	O
+3	been	be	VBN	_	4	auxpass	_	O
+4	cut	cut	VBN	_	13	ccomp	_	O
+5	off	off	RP	_	4	prt	_	O
+6	from	from	IN	_	4	prep	_	O
+7	rest	rest	NN	_	6	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	the	the	DT	_	11	det	_	O
+10	#ISIS	#isis	NN	pos2=NNP	11	compound	_	O
+11	control	control	NN	_	8	pobj	_	O
+12	so	so	RB	pos2=WP	13	advmod	_	O
+13	called	call	VBN	pos2=VBD	0	root	_	O
+14	#Khilafah	#khilafah	NNP	pos2=$	13	oprd	_	O
+15	#TalAfar	#talafar	ADD	pos2=XX	16	nmod	_	O
+16	#MosulOps	#mosulops	NNS	pos2=GW	13	oprd	_	O
+17	#MosulOffensive	#mosuloffensive	ADD	pos2=JJ	13	punct	_	O
+

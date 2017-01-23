@@ -1,0 +1,15 @@
+1	NGO	ngo	NNP	pos2=NN	2	nsubj	_	O
+2	calls	call	VBZ	pos2=NNS	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	'	'	``	_	6	punct	_	O
+5	safe	safe	JJ	_	6	nmod	_	O
+6	exits	exit	NNS	_	3	pobj	_	O
+7	'	'	''	_	6	punct	_	O
+8	for	for	IN	_	6	prep	_	O
+9	Mosul	mosul	NNP	_	12	poss	_	U-GPE
+10	's	's	POS	pos2=VBZ	9	case	_	O
+11	trapped	trap	VBN	_	12	nmod	_	O
+12	ciivlians	ciivlians	NNS	pos2=IN	8	pobj	_	O
+13	https://t.co/QLrMBvHG5H	#hlink#	ADD	_	14	nmod	_	O
+14	#ISIS	#isis	NN	pos2=-RRB-	9	nmod	_	U-ORG
+

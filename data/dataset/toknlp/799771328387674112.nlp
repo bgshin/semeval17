@@ -1,0 +1,24 @@
+1	South	south	NNP	pos2=JJ	2	compound	_	B-GPE
+2	korea	korea	NN	pos2=NNP	3	nsubj	_	L-GPE
+3	is	be	VBZ	_	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	dangerthere	dangerthere	NN	pos2=EX	4	pobj	_	O
+6	are	be	VBP	_	3	ccomp	_	O
+7	many	many	JJ	_	8	nmod	_	O
+8	communists	communist	NNS	_	6	attr	_	O
+9	in	in	IN	_	8	prep	_	O
+10	seoul	seoul	NN	pos2=JJ	9	pobj	_	U-GPE
+11	koreathey	koreathey	TO	pos2=MD	13	aux	_	O
+12	blindly	blindly	RB	_	13	advmod	_	O
+13	follow	follow	VB	_	8	relcl	_	O
+14	kim	kim	NN	pos2=JJ	16	compound	_	O
+15	fatty	fatty	JJ	pos2=NN	11	acomp	_	O
+16	the	the	DT	_	17	det	_	O
+17	third	#ord#	JJ	pos2=NN	15	conj	_	U-ORDINAL
+18	and	and	CC	_	13	cc	_	O
+19	try	try	VB	pos2=VBP	13	conj	_	O
+20	to	to	TO	_	21	aux	_	O
+21	destroy	destroy	VB	_	19	xcomp	_	O
+22	south	south	JJ	pos2=RB	23	nmod	_	O
+23	korea	korea	NN	pos2=NNP	21	dobj	_	U-GPE
+

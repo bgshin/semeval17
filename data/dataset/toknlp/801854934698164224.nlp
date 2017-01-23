@@ -1,0 +1,25 @@
+1	@j_marshak	@j_marshak	UH	pos2=LS	4	discourse	_	O
+2	So	so	RB	pos2=CC	4	advmod	_	O
+3	they	they	PRP	_	4	nsubj	_	O
+4	seem	seem	VBP	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	assume	assume	VB	_	4	xcomp	_	O
+7	same	same	JJ	_	8	nmod	_	O
+8	posture	posture	NN	_	6	dobj	_	O
+9	as	as	IN	_	8	prep	_	O
+10	hardline	hardline	JJ	_	11	nmod	_	O
+11	rightists	rightist	NNS	_	12	compound	_	O
+12	re:minorities	re:minorities	NNS	pos2=VBP	9	pobj	_	O
+13	:	:	:	_	18	punct	_	O
+14	This	this	DT	_	15	det	_	O
+15	bloc	bloc	NN	pos2=FW	18	nsubj	_	O
+16	will	will	MD	_	18	aux	_	O
+17	never	never	RB	pos2=RBR	18	neg	_	O
+18	change	change	VB	_	21	ccomp	_	O
+19	,	,	,	_	21	punct	_	O
+20	they	they	PRP	_	21	nsubj	_	O
+21	're	be	VBP	_	0	root	_	O
+22	not	not	RB	_	21	neg	_	O
+23	really	really	RB	_	24	advmod	_	O
+24	American	american	JJ	_	21	acomp	_	U-NORP
+

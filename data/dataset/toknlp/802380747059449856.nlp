@@ -1,0 +1,14 @@
+1	@CBSNews	@cbsnews	NNS	pos2=UH	10	nsubjpass	_	O
+2	If	if	IN	_	4	mark	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	stays	stay	VBZ	_	10	advcl	_	O
+5	,	,	,	_	10	punct	_	O
+6	the	the	DT	_	7	det	_	O
+7	workers	worker	NNS	_	10	nsubjpass	_	O
+8	will	will	MD	_	10	aux	_	O
+9	be	be	VB	_	10	auxpass	_	O
+10	replaced	replace	VBN	_	0	root	_	O
+11	with	with	IN	_	10	prep	_	O
+12	robots	robot	NNS	_	11	pobj	_	O
+13	.	.	.	_	10	punct	_	O
+

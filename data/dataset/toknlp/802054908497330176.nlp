@@ -1,0 +1,27 @@
+1	Michelle	michelle	NNP	_	4	compound	_	B-PERSON
+2	Obama	obama	NNP	_	4	compound	_	I-PERSON
+3	-	-	HYPH	pos2=:	4	punct	_	I-PERSON
+4	Girl	girl	NNP	_	10	poss	_	I-PERSON
+5	's	's	POS	_	4	case	_	L-PERSON
+6	Education	education	NN	pos2=NNP	10	compound	_	O
+7	-	-	HYPH	pos2=:	10	punct	_	O
+8	Brilliant	brilliant	JJ	pos2=NNP	10	nmod	_	O
+9	-	-	HYPH	pos2=:	10	punct	_	O
+10	Role	role	NN	pos2=NNP	25	dobj	_	O
+11	ModelMelania	modelmelania	NNP	_	6	cc	_	O
+12	Trump	trump	NNP	pos2=NN	16	npadvmod	_	O
+13	-	-	HYPH	pos2=:	16	punct	_	O
+14	Nothing	nothing	NN	pos2=NNP	16	npadvmod	_	O
+15	-	-	HYPH	pos2=:	16	punct	_	O
+16	Stole	steal	VBN	pos2=NN	20	nmod	_	O
+17	speech	speech	NN	_	19	npadvmod	_	O
+18	-	-	HYPH	pos2=,	19	punct	_	O
+19	Married	married	JJ	pos2=NNP	20	nmod	_	O
+20	Trump	trump	NNP	pos2=NN	11	appos	_	U-ORG
+21	<	<	''	pos2=XX	26	advmod	_	O
+22	--	--	:	_	10	punct	_	O
+23	that	that	DT	_	25	nsubj	_	O
+24	's	's	VBZ	_	25	aux	_	O
+25	saying	say	VBG	pos2=JJ	0	root	_	O
+26	enough	enough	RB	pos2=JJ	25	advmod	_	O
+

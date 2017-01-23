@@ -1,0 +1,17 @@
+1	Images	image	NNS	_	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Iniesta	iniesta	NNP	pos2=NN	4	nsubj	_	U-PERSON
+4	trained	train	VBD	pos2=VBN	0	root	_	O
+5	with	with	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	rest	rest	NN	_	5	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	group	group	NN	_	8	pobj	_	O
+11	today	today	NN	_	4	npadvmod	_	U-DATE
+12	#fcblive	#fcblive	IN	pos2=XX	4	prep	_	O
+13	[	[	-LRB-	_	14	punct	_	O
+14	fcb	fcb	NN	pos2=GW	12	pobj	_	O
+15	]	]	-RRB-	_	14	punct	_	O
+16	https://t.co/fDxe2iZPYN	#hlink#	ADD	_	4	npadvmod	_	O
+

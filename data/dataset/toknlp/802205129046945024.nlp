@@ -1,0 +1,24 @@
+1	Good	good	JJ	_	2	nmod	_	O
+2	thread	thread	NN	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Strong	strong	JJ	_	2	nmod	_	O
+2	likelihood	likelihood	NN	_	19	dep	_	O
+3	that	that	IN	_	8	mark	_	O
+4	Tilden	tilden	NNP	_	8	nsubj	_	U-ORG
+5	would	would	MD	_	8	aux	_	O
+6	n't	not	RB	_	8	neg	_	O
+7	have	have	VB	_	8	aux	_	O
+8	won	win	VBN	_	2	acl	_	O
+9	the	the	DT	_	11	det	_	O
+10	popular	popular	JJ	_	11	nmod	_	O
+11	vote	vote	NN	_	8	dobj	_	O
+12	without	without	IN	_	8	prep	_	O
+13	white	white	JJ	_	14	nmod	_	O
+14	supremacists	supremacist	NNS	_	17	poss	_	O
+15	'	'	POS	pos2=''	14	case	_	O
+16	massive	massive	JJ	_	17	nmod	_	O
+17	c	c	NN	pos2=GW	12	pobj	_	O
+18	…	…	NFP	pos2=:	19	punct	_	O
+19	https://t.co/ISvBBYTEAa	#hlink#	ADD	_	0	root	_	O
+

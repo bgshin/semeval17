@@ -1,0 +1,29 @@
+1	@oldtown29	@oldtown0	NN	pos2=LS	2	compound	_	O
+2	@megynkelly	@megynkelly	NN	pos2=RB	0	root	_	O
+3	full	full	JJ	_	2	nmod	_	O
+4	of	of	IN	_	3	prep	_	O
+5	herself	herself	PRP	_	4	pobj	_	O
+6	?	?	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	mean	mean	VBP	_	4	parataxis	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	book	book	NN	_	4	attr	_	O
+7	about	about	IN	_	6	prep	_	O
+8	her	her	PRP$	_	9	poss	_	O
+9	life	life	NN	_	7	pobj	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	Everything	everything	NN	_	9	nsubj	_	O
+2	that	that	WDT	_	3	nsubj	_	O
+3	happened	happened	VBD	_	1	relcl	_	O
+4	w	w	IN	pos2=RB	3	prep	_	O
+5	her	her	PRP	pos2=PRP$	4	pobj	_	O
+6	in	in	IN	_	3	prep	_	O
+7	last	last	JJ	_	8	nmod	_	B-DATE
+8	year	year	NN	_	6	pobj	_	L-DATE
+9	was	be	VBD	_	0	root	_	O
+10	newsworthy	newsworthy	JJ	_	9	acomp	_	O
+

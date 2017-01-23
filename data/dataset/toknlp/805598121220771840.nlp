@@ -1,0 +1,22 @@
+1	@jamescharles	@jamescharles	UH	pos2=VBZ	3	discourse	_	O
+2	It	it	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	not	not	RB	_	3	neg	_	O
+5	okay	okay	JJ	_	3	acomp	_	O
+6	to	to	TO	_	7	aux	_	O
+7	ignore	ignore	VB	_	3	xcomp	_	O
+8	animal	animal	NN	_	9	compound	_	O
+9	testing	testing	NN	pos2=VBG	7	dobj	_	O
+10	just	just	RB	_	13	advmod	_	O
+11	because	because	IN	_	13	mark	_	O
+12	it	it	PRP	_	13	nsubj	_	O
+13	's	's	VBZ	_	7	advcl	_	O
+14	your	your	PRP$	_	15	poss	_	O
+15	opinion	opinion	NN	_	13	attr	_	O
+16	that	that	IN	_	20	dobj	_	O
+17	it	it	PRP	_	20	nsubj	_	O
+18	does	do	VBZ	_	20	aux	_	O
+19	n't	not	RB	_	20	neg	_	O
+20	matter	matter	VB	_	13	ccomp	_	O
+21	.	.	.	_	3	punct	_	O
+

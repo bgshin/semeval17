@@ -1,0 +1,15 @@
+1	Uh	uh	UH	_	2	discourse	_	O
+2	Oh	oh	UH	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Bad	bad	JJ	pos2=NNP	2	nmod	_	O
+2	Hombres	hombres	NNP	pos2=NNS	0	root	_	O
+3	'	'	''	pos2=POS	2	punct	_	O
+4	...	..	.	pos2=:	2	punct	_	O
+
+1	makes	make	VBZ	_	0	root	_	O
+2	ya	ya	PRP	pos2=TO	3	nsubj	_	O
+3	go	go	VB	_	1	ccomp	_	O
+4	Hhmmm.	hhmmm.	NNP	pos2=ADD	3	vocative	_	U-GPE
+5	https://t.co/wZeOAMaa2x	#hlink#	ADD	pos2=NN	1	dep	_	O
+

@@ -1,0 +1,17 @@
+1	Oath	oath	NN	pos2=NNP	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	.	.	.	_	0	punct	_	O
+
+1	Rand	rand	NNP	pos2=VB	2	compound	_	O
+2	Paul	paul	NNP	_	3	nsubj	_	O
+3	Ignores	ignore	VBZ	pos2=NNP	0	root	_	O
+4	Staff	staff	NNP	pos2=NN	3	dobj	_	O
+5	,	,	,	_	3	punct	_	O
+6	Talks	talks	NNP	pos2=NNPS	8	compound	_	B-ORG
+7	Social	social	NNP	_	8	compound	_	I-ORG
+8	Security	security	NNP	_	3	dobj	_	L-ORG
+9	to	to	IN	_	3	prep	_	O
+10	Seniors	senior	NNPS	pos2=NNS	9	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+

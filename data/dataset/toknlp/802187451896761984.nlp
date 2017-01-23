@@ -1,0 +1,6 @@
+1	Mommy	mommy	NNP	pos2=NN	5	poss	_	U-PERSON
+2	's	's	POS	pos2=VBZ	1	case	_	O
+3	here	here	RB	_	2	advmod	_	O
+4	#FBNewt	#fbnewt	ADD	pos2=GW	5	compound	_	B-DATE
+5	#FantasticBeasts	#fantasticbeasts	NNS	pos2=ADD	0	root	_	L-DATE
+

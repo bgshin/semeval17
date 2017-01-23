@@ -1,0 +1,10 @@
+1	@FilthyRichmond	@filthyrichmond	NNP	pos2=NN	3	vocative	_	U-ORDINAL
+2	That	that	DT	pos2=WDT	3	nsubj	_	O
+3	looks	look	VBZ	_	0	root	_	O
+4	like	like	IN	_	3	prep	_	O
+5	Trump	trump	NNP	_	8	poss	_	U-PERSON
+6	's	's	POS	_	5	case	_	O
+7	transition	transition	NN	_	8	compound	_	O
+8	team	team	NN	_	4	pobj	_	O
+9	.	.	.	_	3	punct	_	O
+

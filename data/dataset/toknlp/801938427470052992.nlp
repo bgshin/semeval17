@@ -1,0 +1,20 @@
+1	A	a	DT	_	2	det	_	O
+2	song	song	NN	_	6	nsubj	_	O
+3	from	from	IN	_	2	prep	_	O
+4	Girls	girl	NNS	pos2=NNPS	3	pobj	_	O
+5	Just	just	RB	pos2=NNP	6	advmod	_	O
+6	Want	want	VBP	pos2=VB	0	root	_	O
+7	To	to	TO	pos2=NNP	8	aux	_	O
+8	Have	have	VB	_	6	xcomp	_	O
+9	Fun	fun	NN	pos2=VBN	8	dobj	_	O
+10	on	on	IN	_	8	prep	_	O
+11	#ScreamQueens	#screamqueens	NNS	pos2=NNP	10	pobj	_	O
+12	.	.	.	_	6	punct	_	O
+
+1	Ryan	ryan	NNP	_	2	compound	_	B-PERSON
+2	Murphy	murphy	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	my	my	PRP$	_	5	poss	_	O
+5	hero	hero	NN	_	3	attr	_	O
+6	❤️❤️❤️❤️❤️❤️❤️	❤️❤️❤️❤️❤️❤️❤️	.	pos2=''	3	punct	_	O
+

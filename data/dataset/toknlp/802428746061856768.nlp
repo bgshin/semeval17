@@ -1,0 +1,28 @@
+1	Chris	chris	NNP	_	2	compound	_	B-PERSON
+2	Patten	patten	NNP	_	12	dep	_	L-PERSON
+3	:	:	:	_	12	punct	_	O
+4	“	"	``	_	12	punct	_	O
+5	Anybody	anybody	NN	_	12	nsubj	_	O
+6	welcomed	welcome	VBN	_	5	acl	_	O
+7	by	by	IN	_	6	agent	_	O
+8	the	the	DT	_	11	det	_	B-ORG
+9	Ku	ku	NNP	_	11	compound	_	I-ORG
+10	Klux	klux	NNP	_	11	compound	_	I-ORG
+11	Klan	klan	NNP	_	7	pobj	_	L-ORG
+12	is	be	VBZ	_	0	root	_	O
+13	not	not	RB	_	12	neg	_	O
+14	somebody	somebody	NN	_	12	attr	_	O
+15	I	I	PRP	_	17	nsubj	_	O
+16	’d	would	MD	_	17	aux	_	O
+17	like	like	VB	_	14	relcl	_	O
+18	to	to	TO	_	19	aux	_	O
+19	spend	spend	VB	_	17	xcomp	_	O
+20	an	an	DT	_	21	det	_	O
+21	evening	evening	NN	_	19	dobj	_	U-TIME
+22	with	with	IN	_	19	prep	_	O
+23	.	.	.	_	12	punct	_	O
+
+1	”	"	``	pos2=''	3	punct	_	O
+2	#SteveBannon	#stevebannon	ADD	pos2=GW	3	nmod	_	O
+3	https://t.co/FORZEbutL7	#hlink#	ADD	_	0	root	_	O
+

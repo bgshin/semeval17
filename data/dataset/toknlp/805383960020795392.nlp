@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det	_	O
+2	Kind	kind	NNP	_	3	compound	_	O
+3	Diet	diet	NNP	pos2=NN	0	root	_	U-ORG
+4	,	,	,	_	3	punct	_	O
+5	a	a	DT	_	8	det	_	O
+6	very	very	RB	_	7	advmod	_	O
+7	interesting	interesting	JJ	_	8	nmod	_	O
+8	read	read	NN	pos2=VBN	3	appos	_	O
+9	so	so	RB	_	10	advmod	_	O
+10	far	far	RB	_	8	advmod	_	O
+11	!	!	.	_	3	punct	_	O
+
+1	A	a	DT	_	2	det	_	O
+2	look	look	NN	pos2=VBP	8	dep	_	O
+3	into	into	IN	_	2	prep	_	O
+4	vegetarianism	vegetarianism	NN	_	3	pobj	_	O
+5	and	and	CC	_	4	cc	_	O
+6	veganism	veganism	NN	pos2=GW	4	conj	_	O
+7	🐄🐷🐑	🐄🐷🐑	NFP	pos2=-LRB-	2	prep	_	O
+8	https://t.co/vLHMiHPFyH	#hlink#	ADD	_	0	root	_	O
+

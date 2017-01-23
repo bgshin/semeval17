@@ -1,0 +1,22 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	am	be	VBP	pos2=VBZ	0	root	_	O
+3	my	my	PRP$	_	4	poss	_	O
+4	8yo	0yo	NN	pos2=CD	5	nsubj	_	O
+5	talks	talk	VBZ	pos2=NNS	2	attr	_	O
+6	to	to	IN	_	5	prep	_	O
+7	me	me	PRP	_	6	pobj	_	O
+8	about	about	IN	pos2=RB	5	prep	_	O
+9	3	0	CD	_	13	nmod	_	O
+10	D	d	NNP	pos2=NNS	5	prep	_	O
+11	printing	print	VBG	pos2=NN	8	pcomp	_	O
+12	new	new	JJ	_	13	nmod	_	O
+13	airways	airway	NNS	_	11	dobj	_	O
+14	for	for	IN	_	11	dative	_	O
+15	me	me	PRP	_	14	pobj	_	O
+16	.	.	.	_	2	punct	_	O
+
+1	#hewillgoplaces	#hewillgoplaces	UH	pos2=NNS	4	discourse	_	O
+2	#lovehimtopieces	#lovehimtopieces	UH	pos2=NNS	4	discourse	_	O
+3	#TBM	#tbm	UH	pos2=$	4	discourse	_	O
+4	#justbreathe	#justbreathe	UH	pos2=PRP	0	root	_	O
+

@@ -1,0 +1,17 @@
+1	Elon	elon	NNP	_	3	compound	_	B-ORG
+2	Musk	musk	NNP	pos2=NN	3	compound	_	I-ORG
+3	Video	video	NNP	_	4	nsubj	_	L-ORG
+4	Reveals	reveal	VBZ	_	0	root	_	O
+5	How	how	WRB	_	12	advmod	_	O
+6	the	the	DT	_	11	det	_	O
+7	Self-Driving	self-driving	NNP	pos2=JJ	8	compound	_	O
+8	Tesla	tesla	NNP	_	16	dep	_	B-ORG
+9	Model	model	NNP	pos2=NN	16	dep	_	I-ORG
+10	S	s	NNP	pos2=NN	16	dep	_	L-ORG
+11	Will	will	NNP	pos2=MD	12	aux	_	O
+12	Avoid	avoid	VB	pos2=NNP	4	ccomp	_	O
+13	Crashes	crash	NNS	pos2=NNP	12	dobj	_	O
+14	|	|	,	pos2=SYM	16	punct	_	O
+15	Inverse	inverse	JJ	pos2=GW	16	nmod	_	O
+16	https://t.co/dBEgaU3vs8	#hlink#	ADD	pos2=NN	12	dobj	_	U-ORG
+

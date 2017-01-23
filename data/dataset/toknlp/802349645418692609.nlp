@@ -1,0 +1,20 @@
+1	The	the	DT	_	3	det	_	O
+2	3	0	CD	_	3	nmod	_	U-CARDINAL
+3	d	d	NN	pos2=NNS	6	nsubj	_	O
+4	printing	print	VBG	pos2=NN	5	nmod	_	O
+5	Daily	daily	NNP	pos2=RB	6	nsubj	_	U-ORG
+6	is	be	VBZ	_	0	root	_	O
+7	out	out	RB	pos2=RP	6	advmod	_	O
+8	!	!	.	_	6	punct	_	O
+
+1	https://t.co/nid65wYqEn	#hlink#	ADD	pos2=NN	2	compound	_	O
+2	Stories	story	NNS	pos2=NNPS	0	root	_	O
+3	via	via	IN	_	2	prep	_	O
+4	@FerrariSim	@ferrarisim	NN	pos2=CD	10	nmod	_	O
+5	@PrimeImaging	@primeimaging	NN	pos2=VBG	7	compound	_	O
+6	#	#	NN	pos2=-LRB-	10	nmod	_	O
+7	3dprinting	0dprinting	NN	pos2=VBG	8	compound	_	U-MONEY
+8	#	#	NN	_	10	nmod	_	O
+9	3	0	CD	pos2=LS	10	nmod	_	B-QUANTITY
+10	d	d	NNS	pos2=NN	3	pobj	_	L-QUANTITY
+

@@ -1,0 +1,22 @@
+1	'	'	``	_	4	punct	_	O
+2	Do	do	VB	pos2=VBP	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	go	go	VB	_	0	root	_	O
+5	there	there	RB	_	4	advmod	_	O
+6	!	!	.	_	4	punct	_	O
+
+1	'	'	``	pos2=POS	5	punct	_	O
+2	Palliative	palliative	JJ	pos2=NNP	3	nmod	_	O
+3	Care	care	NNP	pos2=NN	4	compound	_	O
+4	Specialists	specialist	NNS	pos2=NNPS	5	nsubj	_	O
+5	warn	warn	VBP	_	0	root	_	O
+6	Victorian	victorian	JJ	pos2=NNP	9	nmod	_	O
+7	Premier	premier	NNP	pos2=NN	9	compound	_	O
+8	-	-	HYPH	pos2=:	9	punct	_	O
+9	HOPE	hope	NN	pos2=VBP	13	dep	_	O
+10	:	:	:	_	13	punct	_	O
+11	No	no	DT	pos2=GW	12	det	_	O
+12	Euthanasia	euthanasia	NN	pos2=NNP	13	dep	_	O
+13	https://t.co/fd0bPKI1sT	#hlink#	ADD	pos2=NN	0	root	_	O
+14	#springst	#springst	-RRB-	pos2=ADD	13	punct	_	O
+

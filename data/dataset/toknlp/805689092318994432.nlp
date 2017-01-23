@@ -1,0 +1,25 @@
+1	Marine	marine	NNP	pos2=JJ	3	compound	_	B-PERSON
+2	Le	le	NNP	_	3	compound	_	I-PERSON
+3	Pen	pen	NNP	_	9	nsubj	_	L-PERSON
+4	,	,	,	_	3	punct	_	O
+5	Fr.	fr.	NNP	_	7	compound	_	B-ORG
+6	National	national	NNP	_	7	compound	_	I-ORG
+7	Front	front	NNP	_	3	appos	_	L-ORG
+8	,	,	,	_	3	punct	_	O
+9	welcomed	welcome	VBD	_	0	root	_	O
+10	Italian	italian	JJ	_	12	nmod	_	U-NORP
+11	referendum	referendum	NN	_	12	compound	_	O
+12	result	result	NN	_	9	dobj	_	O
+13	,	,	,	_	9	punct	_	O
+14	congratulating	congratulate	VBG	_	9	advcl	_	O
+15	“	"	``	_	14	punct	_	O
+16	our	our	PRP$	_	17	poss	_	O
+17	friend	friend	NN	_	14	dobj	_	O
+18	”	"	''	_	14	punct	_	O
+19	Salvini	salvini	NNP	_	17	appos	_	U-PERSON
+20	who	who	WP	_	21	nsubj	_	O
+21	shares	share	VBZ	_	19	relcl	_	O
+22	her	her	PRP$	_	24	poss	_	O
+23	Eurosceptic	eurosceptic	JJ	_	24	nmod	_	U-NORP
+24	stance	stance	NN	_	21	dobj	_	O
+

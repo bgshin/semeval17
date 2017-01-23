@@ -1,0 +1,19 @@
+1	Explosion	explosion	NN	_	0	root	_	O
+2	today	today	NN	_	1	npadvmod	_	U-DATE
+3	near	near	IN	_	1	prep	_	O
+4	Bazwia	bazwia	NNP	_	6	compound	_	B-FAC
+5	-	-	HYPH	pos2=:	6	punct	_	I-FAC
+6	Gogjali	gogjali	NNP	_	3	pobj	_	L-FAC
+7	,	,	,	_	6	punct	_	O
+8	east	east	FW	pos2=NN	9	advmod	_	O
+9	Mosul	mosul	NNP	_	6	npadvmod	_	U-GPE
+10	.	.	.	_	1	punct	_	O
+
+1	With	with	IN	_	7	prep	_	O
+2	@mlazmrebin	@mlazmrebin	NN	pos2=NNP	7	nmod	_	O
+3	and	and	CC	_	2	cc	_	O
+4	@CampbellMacD	@campbellmacd	GW	pos2=XX	7	nmod	_	B-CARDINAL
+5	#Iraq	#iraq	GW	pos2=NNP	7	nmod	_	I-CARDINAL
+6	#MosulOffensive	#mosuloffensive	GW	pos2=ADD	7	nmod	_	I-CARDINAL
+7	https://t.co/3GuU8feQMK	#hlink#	ADD	pos2=NN	0	root	_	L-CARDINAL
+

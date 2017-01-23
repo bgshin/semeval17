@@ -1,0 +1,18 @@
+1	Migrants	migrant	NNS	pos2=NNPS	2	nsubj	_	O
+2	surge	surge	VBP	pos2=VBD	0	root	_	O
+3	north	north	NN	pos2=RB	2	npadvmod	_	O
+4	,	,	,	_	2	punct	_	O
+5	hoping	hope	VBG	_	2	advcl	_	O
+6	to	to	TO	_	7	aux	_	O
+7	reach	reach	VB	_	5	xcomp	_	O
+8	USA	usa	NNP	_	7	dobj	_	U-GPE
+9	before	before	IN	pos2=RB	7	prep	_	O
+10	#Trump	#trump	NNP	pos2=VBG	11	compound	_	U-NORP
+11	inaugura	inaugura	NN	pos2=GW	9	pobj	_	O
+12	tionhttps://t.co/zlzKzuceWr	#hlink#	ADD	_	13	nsubj	_	O
+13	#tcot	#tcot	IN	pos2=-RRB-	7	prep	_	O
+14	#uniteblue	#uniteblue	UH	pos2=VB	13	discourse	_	O
+15	#trumpwon	#trumpwon	UH	pos2=FW	13	discourse	_	O
+16	#maga	#maga	UH	pos2=FW	13	discourse	_	O
+17	#Trumpwall	#trumpwall	UH	pos2=NNP	13	discourse	_	O
+

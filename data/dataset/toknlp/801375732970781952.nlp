@@ -1,0 +1,17 @@
+1	Reporter	reporter	NN	_	0	root	_	O
+2	visiting	visit	VBG	_	1	acl	_	O
+3	Islamic	islamic	JJ	pos2=NNP	5	nmod	_	U-NORP
+4	state	state	NN	_	5	compound	_	O
+5	terrirory	terrirory	NN	_	2	dobj	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	#mosuloffensive	#mosuloffensive	UH	pos2=XX	9	discourse	_	O
+2	#mosul	#mosul	UH	pos2=FW	9	discourse	_	O
+3	#isis	#isis	UH	pos2=FW	9	discourse	_	O
+4	#iraq	#iraq	UH	pos2=FW	9	discourse	_	O
+5	#syria	#syria	UH	pos2=FW	9	discourse	_	O
+6	#war	#war	UH	pos2=GW	9	discourse	_	O
+7	#islamicstate	#islamicstate	UH	pos2=ADD	9	discourse	_	O
+8	#funny	#funny	UH	pos2=ADD	9	discourse	_	O
+9	https://t.co/wURxQnw49x	#hlink#	ADD	pos2=UH	0	root	_	O
+

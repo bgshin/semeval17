@@ -1,0 +1,27 @@
+1	@Reaganista	@reaganista	NNP	pos2=ADD	6	nmod	_	B-PERSON
+2	@iowahawkblog	@iowahawkblog	ADD	pos2=NN	0	root	_	L-PERSON
+3	@	@	SYM	pos2=IN	4	punct	_	O
+4	14ymedio	0ymedio	NN	pos2=NNP	2	prep	_	O
+5	For	for	IN	_	4	prep	_	O
+6	anyone	anyone	NN	_	5	pobj	_	O
+7	who	who	WP	_	8	nsubj	_	O
+8	asks	ask	VBZ	_	6	relcl	_	O
+9	if	if	IN	_	14	mark	_	O
+10	the	the	DT	_	11	det	_	O
+11	embargo	embargo	NN	_	14	nsubj	_	O
+12	against	against	IN	_	11	prep	_	O
+13	Cuba	cuba	NNP	_	12	pobj	_	U-GPE
+14	was	be	VBD	_	8	ccomp	_	O
+15	worth	worth	JJ	_	14	acomp	_	O
+16	it	it	PRP	_	15	npadvmod	_	O
+17	.	.	.	_	1	punct	_	O
+
+1	Show	show	VB	_	0	root	_	O
+2	them	them	PRP	_	1	dative	_	O
+3	this	this	DT	_	4	det	_	O
+4	picture	picture	NN	_	1	dobj	_	O
+5	and	and	CC	_	1	cc	_	O
+6	laugh	laugh	VB	_	1	conj	_	O
+7	YES	yes	UH	pos2=RB	6	discourse	_	O
+8	!!	!!	.	_	1	punct	_	O
+

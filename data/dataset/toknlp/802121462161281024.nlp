@@ -1,0 +1,21 @@
+1	Thx	thx	NN	pos2=NNP	4	nmod	_	O
+2	4	0	CD	_	4	nmod	_	U-CARDINAL
+3	Folow'ng	folow'ng	NNS	pos2=NNP	4	compound	_	O
+4	@LizaFarinacci	@lizafarinacci	NNS	pos2=ADD	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	This	this	DT	_	14	dep	_	O
+2	from	from	IN	_	11	prep	_	O
+3	#Jerusalem	#jerusalem	NNP	pos2=CD	14	dep	_	O
+4	-	-	HYPH	pos2=:	14	punct	_	O
+5	a	a	DT	pos2=NNP	7	det	_	O
+6	#contemporary	#contemporary	JJ	pos2=NN	7	nmod	_	O
+7	take	take	NN	pos2=VB	2	pobj	_	O
+8	on	on	IN	pos2=RP	7	prep	_	O
+9	prayer	prayer	NN	_	10	compound	_	O
+10	beads	bead	NNS	_	8	pobj	_	O
+11	#art	#art	VBP	pos2=WDT	14	dep	_	O
+12	#culture	#culture	GW	pos2=UH	14	nmod	_	O
+13	…	…	NFP	pos2=GW	14	punct	_	O
+14	https://t.co/wWy2EXxdy2	#hlink#	ADD	pos2=NN	0	root	_	O
+

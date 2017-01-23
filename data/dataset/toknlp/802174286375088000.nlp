@@ -1,0 +1,7 @@
+1	@Schautz47	@schautz0	NN	pos2=DT	3	compound	_	B-WORK_OF_ART
+2	Night	night	NNP	pos2=NN	3	compound	_	I-WORK_OF_ART
+3	Train	train	NNP	pos2=NN	0	root	_	L-WORK_OF_ART
+4	and	and	CC	_	3	cc	_	O
+5	Tony	tony	NNP	_	6	compound	_	B-PERSON
+6	Romo	romo	NNP	_	3	conj	_	L-PERSON
+

@@ -1,0 +1,16 @@
+1	@MaxBarnett1515	@maxbarnett0	NN	pos2=NNS	2	compound	_	O
+2	@FoxNews	@foxnews	NNS	pos2=VBZ	3	nsubj	_	O
+3	@KatTimpf	@kattimpf	MD	pos2=XX	6	ccomp	_	O
+4	so	so	RB	_	6	advmod	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	's	's	VBZ	pos2=POS	0	root	_	O
+7	#DrainTheSwamp	#draintheswamp	ADD	pos2=NNP	6	attr	_	O
+8	of	of	IN	_	7	prep	_	O
+9	lobbyists	lobbyist	NNS	_	8	pobj	_	O
+10	unless	unless	IN	_	12	mark	_	O
+11	you	you	PRP	_	12	nsubj	_	O
+12	're	be	VBP	_	6	advcl	_	O
+13	Rudy	rudy	NNP	_	14	compound	_	B-PERSON
+14	Giuliani	giuliani	NNP	_	12	attr	_	L-PERSON
+15	?	?	.	_	6	punct	_	O
+

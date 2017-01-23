@@ -1,0 +1,5 @@
+1	2x5	0x0	NN	pos2=CD	3	nsubj	_	O
+2	now	now	RB	_	3	advmod	_	O
+3	#ScreamQueens	#screamqueens	VBZ	pos2=ADD	0	root	_	U-DATE
+4	🍸	🍸	.	pos2=NN	3	punct	_	O
+

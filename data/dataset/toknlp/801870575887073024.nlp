@@ -1,0 +1,12 @@
+1	#Hezbollah	#hezbollah	NNP	pos2=UH	11	nmod	_	O
+2	,	,	,	_	11	punct	_	O
+3	#Russian	#russian	JJ	pos2=IN	4	nmod	_	O
+4	terrorists	terrorist	NNS	_	11	dep	_	O
+5	in	in	IN	_	4	prep	_	O
+6	direct	direct	JJ	_	7	nmod	_	O
+7	meeting	meeting	NN	_	5	pobj	_	O
+8	https://t.co/pNvj15eQWz#Orient	#hlink#	ADD	_	11	nmod	_	O
+9	#Syria	#syria	-RRB-	pos2=GW	8	punct	_	B-PERSON
+10	#Lebanon	#lebanon	ADD	pos2=NNP	11	punct	_	L-PERSON
+11	https://t.co/ELUjhUrWH0	#hlink#	ADD	_	0	root	_	O
+

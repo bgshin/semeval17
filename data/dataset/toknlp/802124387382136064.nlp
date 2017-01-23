@@ -1,0 +1,18 @@
+1	📸	📸	NFP	pos2=NN	3	punct	_	O
+2	|	|	SYM	pos2=,	3	punct	_	O
+3	Iniesta	iniesta	NNP	_	0	root	_	U-PERSON
+4	with	with	IN	_	3	prep	_	O
+5	Youth	youth	NNP	pos2=NN	4	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	San	san	NNP	_	8	compound	_	B-ORG
+8	Diego	diego	NNP	_	10	compound	_	I-ORG
+9	Football	football	NNP	_	10	compound	_	I-ORG
+10	Centre	centre	NNP	_	6	pobj	_	L-ORG
+11	.	.	.	_	3	punct	_	O
+
+1	[	[	-LRB-	_	2	punct	_	O
+2	@forca_fcb	@forca_fcb	NN	pos2=NNP	5	dep	_	O
+3	]	]	-RRB-	_	2	punct	_	O
+4	#FCBlive	#fcblive	ADD	pos2=GW	5	punct	_	O
+5	https://t.co/49zFk63IDt	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

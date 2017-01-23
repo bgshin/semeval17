@@ -1,0 +1,16 @@
+1	To	to	IN	_	15	prep	_	O
+2	Donald	donald	NNP	_	3	compound	_	B-PERSON
+3	Trump	trump	NNP	_	1	pobj	_	L-PERSON
+4	:	:	:	_	15	punct	_	O
+5	National	national	NNP	pos2=JJ	6	compound	_	O
+6	Security	security	NNP	_	8	compound	_	O
+7	Memorandum	memorandum	NNP	pos2=NN	8	compound	_	O
+8	Number	number	NNP	pos2=NN	15	nmod	_	O
+9	One	#crd#	CD	_	13	advmod	_	O
+10	-	-	HYPH	pos2=:	13	punct	_	O
+11	https://t.co/d662zkBsJ5	#hlink#	ADD	pos2=NN	13	nmod	_	O
+12	-	-	HYPH	pos2=.	13	punct	_	O
+13	#Alternative	#alternative	JJ	pos2=NNP	15	nmod	_	O
+14	#Matrix	#matrix	NNP	pos2=NN	15	compound	_	U-GPE
+15	#Vaccines	#vaccines	NNS	pos2=NNP	0	root	_	O
+

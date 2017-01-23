@@ -1,0 +1,21 @@
+1	Latest	late	JJS	_	3	nmod	_	O
+2	#Yemen	#yemen	JJ	pos2=NN	3	nmod	_	O
+3	initiative	initiative	NN	_	5	nsubj	_	O
+4	may	may	MD	_	5	aux	_	O
+5	be	be	VB	_	17	ccomp	_	O
+6	the	the	DT	_	8	det	_	O
+7	last	last	JJ	_	8	nmod	_	O
+8	chance	chance	NN	_	5	attr	_	O
+9	to	to	TO	_	10	aux	_	O
+10	end	end	VB	_	8	acl	_	O
+11	the	the	DT	_	12	det	_	O
+12	conflict	conflict	NN	_	10	dobj	_	O
+13	before	before	IN	_	15	mark	_	O
+14	it	it	PRP	_	15	nsubj	_	O
+15	metastasizes	metastasize	VBZ	_	10	advcl	_	O
+16	,	,	,	_	17	punct	_	O
+17	says	say	VBZ	_	0	root	_	O
+18	@a_seche	@a_seche	IN	pos2=PRP	17	prep	_	O
+19	…	…	NFP	pos2=-LRB-	20	punct	_	O
+20	https://t.co/lgVJo33FdN	#hlink#	ADD	_	17	dep	_	O
+

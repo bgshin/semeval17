@@ -1,0 +1,22 @@
+1	it	it	PRP	_	2	nsubj	_	O
+2	seem	seem	VBP	pos2=VB	0	root	_	O
+3	like	like	IN	pos2=UH	2	prep	_	O
+4	everyone	everyone	NN	_	3	pobj	_	O
+5	and	and	CC	_	2	cc	_	O
+6	they	they	PRP	_	2	conj	_	O
+7	momma	momma	NN	pos2=WP	8	nsubj	_	O
+8	did	do	VBD	_	4	relcl	_	O
+9	the	the	DT	_	12	det	_	O
+10	thanksgiving	thanksgiving	NN	pos2=NNP	11	compound	_	O
+11	mannequin	mannequin	NN	pos2=NNP	12	compound	_	O
+12	challenge	challenge	NN	pos2=UH	8	dobj	_	O
+13	but	but	CC	_	8	cc	_	O
+14	I	I	PRP	_	15	nsubj	_	O
+15	think	think	VBP	_	8	conj	_	O
+16	ours	ours	PRP	pos2=PRP$	17	nsubj	_	O
+17	takes	take	VBZ	_	15	ccomp	_	O
+18	the	the	DT	_	19	det	_	O
+19	cake	cake	NN	_	17	dobj	_	O
+20	…	…	NFP	pos2=,	21	punct	_	O
+21	https://t.co/oK2WJ81Cuy	#hlink#	ADD	_	16	appos	_	O
+

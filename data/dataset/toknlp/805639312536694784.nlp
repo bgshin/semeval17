@@ -1,0 +1,25 @@
+1	The	the	DT	_	3	det	_	O
+2	last	last	JJ	_	3	nmod	_	O
+3	thing	thing	NN	_	11	nsubj	_	O
+4	we	we	PRP	_	7	nsubj	_	O
+5	should	should	MD	_	7	aux	_	O
+6	be	be	VB	_	7	aux	_	O
+7	doing	do	VBG	_	3	relcl	_	O
+8	when	when	WRB	_	11	advmod	_	O
+9	our	our	PRP$	_	10	poss	_	O
+10	climate	climate	NN	_	11	nsubj	_	O
+11	is	be	VBZ	_	0	root	_	O
+12	at	at	IN	_	11	prep	_	O
+13	such	such	PDT	pos2=JJ	17	predet	_	O
+14	a	a	DT	_	17	det	_	O
+15	critical	critical	JJ	_	17	nmod	_	O
+16	turning	turning	NN	_	17	compound	_	O
+17	point	point	NN	_	12	pobj	_	O
+18	is	be	VBZ	_	19	aux	_	O
+19	making	make	VBG	_	15	qmod	_	O
+20	fossil	fossil	NN	pos2=JJ	21	compound	_	O
+21	fuels	fuel	NNS	_	19	dobj	_	O
+22	...	..	.	pos2=,	11	punct	_	O
+
+1	https://t.co/UGT2yHxkfO	#hlink#	ADD	_	0	root	_	U-ORG
+

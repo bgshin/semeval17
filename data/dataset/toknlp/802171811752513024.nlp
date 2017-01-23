@@ -1,0 +1,26 @@
+1	35	0	CD	_	2	nmod	_	B-DATE
+2	years	year	NNS	_	3	npadvmod	_	I-DATE
+3	ago	ago	RB	_	7	advmod	_	L-DATE
+4	,	,	,	_	7	punct	_	O
+5	Rollie	rollie	NNP	_	6	compound	_	B-PERSON
+6	Fingers	fingers	NNP	pos2=NNPS	7	nsubj	_	L-PERSON
+7	wins	win	VBZ	_	0	root	_	O
+8	the	the	DT	_	11	det	_	O
+9	AL	al	NNP	_	11	compound	_	B-PERSON
+10	Cy	cy	NNP	_	11	compound	_	I-PERSON
+11	Young	young	NNP	_	7	dobj	_	L-PERSON
+12	and	and	CC	_	11	cc	_	O
+13	MVP	mvp	NN	pos2=NNP	14	compound	_	O
+14	awards	award	NNS	_	11	conj	_	O
+15	-	-	,	pos2=:	7	punct	_	O
+16	becoming	become	VBG	_	7	advcl	_	O
+17	the	the	DT	_	21	det	_	O
+18	first	#ord#	JJ	_	21	nmod	_	U-ORDINAL
+19	ever	ever	RB	pos2=JJ	18	advmod	_	O
+20	baseball	baseball	NN	_	21	compound	_	O
+21	reliever	reliever	NN	_	16	attr	_	O
+22	to	to	TO	_	23	aux	_	O
+23	win	win	VB	_	21	relcl	_	O
+24	…	…	NFP	pos2=-LRB-	25	punct	_	O
+25	https://t.co/373nBQJOFH	#hlink#	ADD	pos2=NN	23	dobj	_	O
+

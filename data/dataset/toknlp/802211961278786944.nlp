@@ -1,0 +1,15 @@
+1	@FoxNews	@foxnews	NNS	pos2=ADD	5	nsubj	_	O
+2	@KatTimpf	@kattimpf	ADD	pos2=XX	5	punct	_	O
+3	@realDonaldTrump	@realdonaldtrump	MD	pos2=VBP	5	aux	_	O
+4	@mike_pence	@mike_pence	NNS	pos2=TO	5	nsubj	_	O
+5	SAY	say	VB	_	0	root	_	O
+6	NO	no	DT	pos2=RB	8	qmod	_	O
+7	TO	to	IN	pos2=TO	8	aux	_	O
+8	@MittRomney	@mittromney	VB	pos2=$	5	xcomp	_	O
+9	#NoToMittRomney	#notomittromney	NN	pos2=NNP	8	dobj	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	HELL	hell	NN	pos2=UH	0	root	_	O
+2	NO	no	UH	pos2=DT	1	discourse	_	O
+3	!!!	!!	.	_	1	punct	_	O
+

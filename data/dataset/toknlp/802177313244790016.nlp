@@ -1,0 +1,12 @@
+1	Inside	inside	IN	pos2=RB	11	nmod	_	O
+2	Trump	trump	NNP	pos2=NN	5	poss	_	U-ORG
+3	's	's	POS	_	2	case	_	O
+4	Financial	financial	NNP	pos2=JJ	5	compound	_	B-ORG
+5	Connection	connection	NNP	pos2=NN	1	pobj	_	L-ORG
+6	to	to	IN	_	5	prep	_	O
+7	Dakota	dakota	NNP	_	10	nmod	_	B-ORG
+8	Access	access	NNP	pos2=GW	11	nmod	_	I-ORG
+9	Pipeline	pipeline	GW	pos2=NNP	10	nmod	_	L-ORG
+10	https://t.co/Om8ipUa2xL	#hlink#	ADD	_	11	nmod	_	O
+11	https://t.co/kK0snvO1TJ	#hlink#	ADD	_	0	root	_	U-GPE
+

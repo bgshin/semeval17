@@ -1,0 +1,13 @@
+1	Direct	direct	JJ	pos2=VB	3	nmod	_	O
+2	donate	donate	NN	pos2=VB	3	compound	_	O
+3	link	link	NN	_	11	nsubj	_	O
+4	for	for	IN	_	3	prep	_	O
+5	that	that	DT	_	7	det	_	O
+6	senate	senate	NN	pos2=NNP	7	compound	_	O
+7	seat	seat	NN	pos2=IN	8	compound	_	O
+8	DEMS	dems	NNPS	pos2=NNP	11	nsubj	_	U-ORG
+9	CAN	can	MD	_	11	aux	_	O
+10	STILL	still	RB	_	11	advmod	_	O
+11	WIN	win	VB	pos2=GW	0	root	_	O
+12	https://t.co/G8Qv6dyXl6	#hlink#	ADD	pos2=RP	11	dobj	_	U-ORG
+

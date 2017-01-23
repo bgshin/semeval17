@@ -1,0 +1,18 @@
+1	"	"	``	_	13	punct	_	O
+2	the	the	DT	_	4	det	_	O
+3	unstoppable	unstoppable	JJ	_	4	nmod	_	O
+4	force	force	NN	_	13	nmod	_	O
+5	of	of	IN	_	4	prep	_	O
+6	non-technical	non-technical	JJ	_	7	nmod	_	O
+7	certitude	certitude	NN	_	5	pobj	_	O
+8	about	about	IN	pos2=RB	4	prep	_	O
+9	deeply	deeply	RB	_	10	advmod	_	O
+10	technical	technical	JJ	_	11	nmod	_	O
+11	subjects	subject	NNS	_	8	pobj	_	O
+12	"	"	''	pos2=``	11	punct	_	O
+13	dystopia	dystopia	NN	_	17	nsubj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	self-driving	self-driving	JJ	_	16	nmod	_	O
+16	cars	car	NNS	_	14	pobj	_	O
+17	https://t.co/cShsLg9JND	#hlink#	ADD	_	0	root	_	O
+

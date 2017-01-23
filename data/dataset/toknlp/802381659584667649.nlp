@@ -1,0 +1,15 @@
+1	@InstaRevealedOntario	@instarevealedontario	ADD	pos2=XX	5	cc	_	O
+2	#Liberals	#liberals	NNS	pos2=NNPS	4	compound	_	O
+3	#Premier	#premier	NNP	pos2=RBR	4	compound	_	B-PERSON
+4	#KathleenWynne	#kathleenwynne	NNP	pos2=NN	5	nsubj	_	L-PERSON
+5	helped	help	VBD	_	0	root	_	O
+6	#AG	#ag	VB	pos2=NNP	5	xcomp	_	U-ORG
+7	@M_Meilleur	@m_meilleur	TO	pos2=PRP$	8	aux	_	O
+8	escape	escape	VB	_	6	xcomp	_	O
+9	her	her	PRP	pos2=PRP$	8	dobj	_	O
+10	#FailureOfDuties	#failureofduties	NNS	pos2=ADD	8	dobj	_	O
+11	!	!	.	_	5	punct	_	O
+
+1	via	via	IN	pos2=GW	0	root	_	O
+2	https://t.co/hgrrNeyw1x	#hlink#	ADD	pos2=NN	1	pobj	_	U-ORG
+

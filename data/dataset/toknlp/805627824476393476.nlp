@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det	_	O
+2	Bible	bible	NNP	_	3	nsubj	_	O
+3	Shows	show	VBZ	_	0	root	_	O
+4	Us	us	NNP	pos2=PRP	3	dobj	_	O
+5	How	how	WRB	pos2=RB	7	advmod	_	O
+6	-	-	HYPH	pos2=,	7	punct	_	O
+7	Accepting	accept	VBG	pos2=NNP	11	csubj	_	O
+8	Gay	gay	NNP	pos2=JJ	9	compound	_	O
+9	Marriage	marriage	NN	pos2=NNP	7	dobj	_	O
+10	https://t.co/FkuddQZfgA	#hlink#	ADD	pos2=NN	11	nsubj	_	O
+11	Visit	visit	VB	_	3	ccomp	_	O
+12	us	us	PRP	_	11	dobj	_	O
+13	at	at	IN	_	11	prep	_	O
+14	https://t.co/yI2HG40Ozt	#hlink#	ADD	_	13	pobj	_	U-GPE
+

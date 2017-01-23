@@ -1,0 +1,23 @@
+1	The	the	DT	_	6	det	_	O
+2	RWR	rwr	NN	pos2=NNP	6	nmod	_	O
+3	x	x	SYM	pos2=MD	7	nsubj	_	O
+4	MODIFY	modify	VB	pos2=NN	0	root	_	O
+5	Watch	watch	NNP	pos2=NN	6	compound	_	O
+6	Collection	collection	NNP	pos2=NN	4	dobj	_	O
+7	is	be	VBZ	_	0	root	_	O
+8	here	here	RB	_	7	advmod	_	O
+9	!	!	.	_	7	punct	_	O
+
+1	Let	let	VB	pos2=VBD	0	root	_	O
+2	everyone	everyone	NN	_	3	nsubj	_	O
+3	know	know	VB	pos2=VBP	1	ccomp	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	's	's	VBZ	_	3	ccomp	_	O
+6	always	always	RB	_	5	advmod	_	O
+7	time	time	NN	pos2=JJ	5	attr	_	O
+8	to	to	TO	_	9	aux	_	O
+9	stay	stay	VB	_	7	relcl	_	O
+10	#fresh	#fresh	GW	pos2=NFP	12	nmod	_	O
+11	https://t.co/jV0928FADk	#hlink#	ADD	pos2=GW	12	nmod	_	O
+12	https://t.co/gpTojRz2Wv	#hlink#	ADD	_	9	dobj	_	U-ORG
+

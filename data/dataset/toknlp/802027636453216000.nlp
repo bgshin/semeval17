@@ -1,0 +1,7 @@
+1	@IAMovies	@iamovies	NNS	pos2=VBZ	6	dep	_	O
+2	the	the	DT	_	3	det	_	O
+3	#MuslimBrotherhood	#muslimbrotherhood	NN	pos2=NNS	6	nsubj	_	O
+4	created	create	VBN	pos2=VBD	3	acl	_	O
+5	#Hamas	#hamas	ADD	pos2=NNS	6	nmod	_	B-CARDINAL
+6	https://t.co/wXmvkNXOsW	#hlink#	ADD	_	0	root	_	L-CARDINAL
+

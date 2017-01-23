@@ -1,0 +1,25 @@
+1	SERCO	serco	NNP	_	2	compound	_	O
+2	Smuggle	smuggle	NNP	pos2=VB	3	compound	_	O
+3	Drugs	drug	NNS	pos2=NNPS	0	root	_	O
+4	/	/	SYM	pos2=,	5	punct	_	O
+5	Weapons	weapon	NNS	pos2=NNPS	3	appos	_	O
+6	/	/	,	pos2=SYM	7	punct	_	O
+7	Children	child	NNS	pos2=NNP	3	appos	_	O
+8	?	?	.	_	3	punct	_	O
+
+1	Connects	connect	VBZ	pos2=NNS	0	root	_	O
+2	w	w	IN	_	1	prep	_	O
+3	/	/	HYPH	_	2	punct	_	O
+4	Julian	julian	NNP	_	2	pobj	_	O
+5	,	,	,	_	4	punct	_	O
+6	HRC	hrc	NNP	pos2=NN	4	conj	_	U-ORG
+7	,	,	,	_	6	punct	_	O
+8	Obama	obama	NNP	_	6	conj	_	U-PERSON
+9	,	,	,	_	8	punct	_	O
+10	COMEY	comey	NNP	_	11	compound	_	B-ORG
+11	#PizzaGate	#pizzagate	NNP	pos2=ADD	8	conj	_	I-ORG
+12	#wheresjulian	#wheresjulian	IN	pos2=GW	1	prep	_	I-ORG
+13	#Proofoflife	#proofoflife	NNP	pos2=GW	12	pobj	_	L-ORG
+14	…	…	NFP	pos2=-LRB-	15	punct	_	O
+15	https://t.co/ttvyYC05hK	#hlink#	ADD	_	1	dep	_	U-ORG
+

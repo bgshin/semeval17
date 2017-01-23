@@ -1,0 +1,14 @@
+1	Jogadores	jogadores	NNP	pos2=FW	13	nmod	_	O
+2	que	que	FW	pos2=XX	3	advmod	_	O
+3	se	se	FW	_	13	nmod	_	O
+4	aposentaram	aposentaram	NN	pos2=XX	7	nmod	_	O
+5	em	em	NN	pos2=PRP	13	compound	_	O
+6	2016:Kobe	0:kobe	XX	pos2=NN	5	dep	_	O
+7	BryantTim	bryanttim	NNP	pos2=XX	12	compound	_	O
+8	DuncanKevin	duncankevin	NNP	_	12	compound	_	O
+9	GarnettMo	garnettmo	NNP	pos2=XX	12	compound	_	O
+10	WilliamsRay	williamsray	NNP	_	12	compound	_	O
+11	AllenKevin	allenkevin	NNP	_	12	compound	_	O
+12	MartinElton	martinelton	NNP	_	13	compound	_	B-ORG
+13	Brand	brand	NN	pos2=NNP	0	root	_	L-ORG
+

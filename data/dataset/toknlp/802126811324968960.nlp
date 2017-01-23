@@ -1,0 +1,12 @@
+1	@eeynouf	@eeynouf	UH	pos2=XX	3	discourse	_	O
+2	@ChrisAbrell	@chrisabrell	UH	pos2=ADD	3	discourse	_	O
+3	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	keeping	keep	VBG	_	4	pcomp	_	O
+6	our	our	PRP$	_	7	poss	_	O
+7	premiums	premium	NNS	_	5	dobj	_	O
+8	high	high	JJ	pos2=RB	5	oprd	_	O
+9	!	!	.	_	3	punct	_	O
+
+1	#CHANGE	#change	NN	pos2=XX	0	root	_	O
+

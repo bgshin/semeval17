@@ -1,0 +1,8 @@
+1	thanks	thanks	NNS	pos2=NN	0	root	_	O
+2	retards	retard	NNS	pos2=VBZ	1	vocative	_	O
+3	!	!	.	_	1	punct	_	O
+
+1	#BlackLivesMatter	#blacklivesmatter	GW	pos2=XX	3	nmod	_	B-PERSON
+2	#blacktwitter	#blacktwitter	GW	pos2=IN	3	nmod	_	L-PERSON
+3	https://t.co/KWO1ybcDCw	#hlink#	ADD	pos2=NN	0	root	_	O
+

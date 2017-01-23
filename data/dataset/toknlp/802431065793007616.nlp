@@ -1,0 +1,27 @@
+1	@washingtonpost	@washingtonpost	NN	pos2=UH	8	nsubj	_	O
+2	After	after	IN	_	1	prep	_	O
+3	60	0	CD	_	2	pobj	_	B-CARDINAL
+4	plus	plus	CC	_	3	qmod	_	L-CARDINAL
+5	controls	control	NNS	pos2=VBZ	3	conj	_	O
+6	by	by	IN	_	1	prep	_	O
+7	Liberals	liberal	NNPS	pos2=NNS	8	nsubj	_	U-NORP
+8	control	control	VBP	pos2=NN	0	root	_	O
+9	,	,	,	_	14	punct	_	O
+10	they	they	PRP	_	14	nsubj	_	O
+11	still	still	RB	_	14	advmod	_	O
+12	can	can	MD	_	14	aux	_	O
+13	not	not	RB	_	14	neg	_	O
+14	see	see	VB	_	0	root	_	O
+15	the	the	DT	_	16	det	_	O
+16	picture	picture	NN	_	14	dobj	_	O
+17	.	.	.	_	14	punct	_	O
+
+1	This	this	DT	_	4	nsubj	_	O
+2	would	would	MD	pos2=NN	4	aux	_	O
+3	of	of	IN	pos2=VB	0	aux	_	O
+4	been	be	VBN	_	8	nmod	_	O
+5	true	true	JJ	_	4	acomp	_	O
+6	,	,	,	_	8	punct	_	O
+7	objective	objective	JJ	pos2=NN	8	nmod	_	O
+8	reporting	reporting	NN	pos2=VBG	3	pobj	_	O
+

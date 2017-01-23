@@ -1,0 +1,24 @@
+1	Skeptics	skeptic	NNS	pos2=NNP	12	nsubj	_	O
+2	Underground	underground	JJ	pos2=NNP	6	nmod	_	O
+3	today	today	NN	_	1	npadvmod	_	U-DATE
+4	at	at	IN	_	1	prep	_	O
+5	2	0	CD	_	6	nmod	_	B-TIME
+6	pm	pm	NN	_	4	pobj	_	L-TIME
+7	at	at	IN	_	1	prep	_	O
+8	@JeremiahTap	@jeremiahtap	NNP	pos2=ADD	9	compound	_	O
+9	Today	today	NNP	pos2=NN	11	poss	_	U-DATE
+10	's	's	POS	_	9	case	_	O
+11	topic	topic	NN	_	7	pobj	_	O
+12	is	be	VBZ	_	0	root	_	O
+13	vegetarianism	vegetarianism	NN	_	12	attr	_	O
+14	.	.	.	_	12	punct	_	O
+
+1	Should	should	MD	_	2	aux	_	O
+2	be	be	VB	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	good	good	JJ	_	5	nmod	_	O
+5	one	#crd#	NN	pos2=CD	2	attr	_	O
+6	!	!	.	_	2	punct	_	O
+
+1	https://t.co/0J2aenqcQh	#hlink#	ADD	_	0	root	_	U-ORG
+

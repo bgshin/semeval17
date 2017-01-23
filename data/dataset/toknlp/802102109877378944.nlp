@@ -1,0 +1,13 @@
+1	Hi	hi	UH	_	4	discourse	_	O
+2	@Niallofficial	@niallofficial	NNP	pos2=MD	1	vocative	_	U-PERSON
+3	owchh	owchh	TO	pos2=UH	4	aux	_	O
+4	hug	hug	VB	pos2=VBP	0	root	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	babeee	babeee	VBP	pos2=RB	4	parataxis	_	O
+7	<	<	SYM	pos2=XX	8	punct	_	O
+8	3	0	CD	_	4	npadvmod	_	U-CARDINAL
+9	;;	;;	SYM	pos2=-LRB-	4	punct	_	O
+10	*	*	SYM	pos2=NFP	12	punct	_	O
+11	#	#	NN	pos2=SYM	12	compound	_	O
+12	#OneDirection	#onedirection	NN	pos2=ADD	4	dobj	_	U-MONEY
+

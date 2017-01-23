@@ -1,0 +1,14 @@
+1	@limey_tank	@limey_tank	UH	pos2=MD	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	understand	understand	VBP	_	0	root	_	O
+4	some	some	DT	_	5	det	_	O
+5	GP	gp	NNP	pos2=NN	9	poss	_	U-ORG
+6	's	's	POS	pos2=PRP	5	case	_	O
+7	also	also	RB	_	9	nmod	_	O
+8	practise	practise	NN	pos2=VBP	9	compound	_	O
+9	Homeopathy	homeopathy	NN	pos2=NNP	3	dobj	_	O
+10	are	be	VBP	_	3	dep	_	O
+11	they	they	PRP	_	12	nsubj	_	O
+12	QUACKS	quack	NNS	pos2=VBZ	10	attr	_	O
+13	?	?	.	_	10	punct	_	O
+

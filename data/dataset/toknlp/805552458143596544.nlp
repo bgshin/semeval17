@@ -1,0 +1,28 @@
+1	@MLP_officiel	@mlp_officiel	UH	pos2=ADD	4	discourse	_	O
+2	@zerohedge	@zerohedge	UH	pos2=XX	4	discourse	_	O
+3	hey	hey	UH	_	4	discourse	_	O
+4	zerohedge	zerohedge	UH	pos2=VB	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+
+1	Marine	marine	NNP	pos2=JJ	3	compound	_	B-PERSON
+2	Le	le	NNP	_	3	compound	_	I-PERSON
+3	Pen	pen	NNP	_	4	nsubj	_	L-PERSON
+4	is	be	VBZ	_	18	ccomp	_	O
+5	at	at	IN	_	4	prep	_	O
+6	30	0	CD	_	7	nmod	_	B-PERCENT
+7	%	%	NN	_	5	pobj	_	L-PERCENT
+8	and	and	CC	_	4	cc	_	O
+9	had	have	VBD	_	4	conj	_	O
+10	no	no	DT	_	12	det	_	O
+11	political	political	JJ	_	12	nmod	_	O
+12	space	space	NN	_	9	dobj	_	O
+13	to	to	TO	_	14	aux	_	O
+14	go	go	VB	_	12	relcl	_	O
+15	further	far	RB	pos2=RBR	14	advmod	_	O
+16	,	,	,	_	18	punct	_	O
+17	France	france	NNP	_	18	nsubj	_	U-GPE
+18	is	be	VBZ	_	0	root	_	O
+19	not	not	RB	_	18	neg	_	O
+20	Italy	italy	NNP	pos2=JJ	18	attr	_	U-GPE
+21	.	.	.	_	18	punct	_	O
+

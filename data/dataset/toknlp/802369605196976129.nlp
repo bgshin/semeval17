@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det	_	O
+2	crazy	crazy	JJ	_	3	nmod	_	O
+3	thing	thing	NN	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	so	so	RB	_	6	advmod	_	O
+6	many	many	JJ	_	8	nmod	_	O
+7	white	white	JJ	_	8	nmod	_	O
+8	leftists	leftist	NNS	_	9	nsubj	_	O
+9	believe	believe	VBP	_	4	conj	_	O
+10	this	this	DT	_	11	det	_	O
+11	bullshit	bullshit	NN	_	12	dep	_	O
+12	https://t.co/kjkquXSt6A	#hlink#	ADD	pos2=RP	9	ccomp	_	O
+

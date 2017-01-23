@@ -1,0 +1,22 @@
+1	If	if	IN	_	4	mark	_	O
+2	you	you	PRP	_	4	nsubj	_	O
+3	've	have	VBP	_	4	aux	_	O
+4	smiled	smile	VBN	_	17	advcl	_	O
+5	through	through	IN	_	4	prep	_	O
+6	Thanksgiving	thanksgiving	NNP	_	5	pobj	_	U-DATE
+7	,	,	,	_	4	punct	_	O
+8	but	but	CC	_	4	cc	_	O
+9	on	on	IN	_	14	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	inside	inside	NN	_	9	pobj	_	O
+12	,	,	,	_	14	punct	_	O
+13	are	be	VBP	_	14	aux	_	O
+14	dying	die	VBG	_	4	conj	_	O
+15	,	,	,	_	17	punct	_	O
+16	please	please	UH	_	17	discourse	_	O
+17	listen	listen	VB	_	0	root	_	O
+18	.	.	.	_	17	punct	_	O
+
+1	https://t.co/OZ7k58xjwS…	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/FgnADKbRVm	#hlink#	ADD	_	0	root	_	U-ORG
+

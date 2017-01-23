@@ -1,0 +1,28 @@
+1	There	there	EX	_	2	expl	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	nothing	nothing	NN	_	2	attr	_	O
+4	new	new	JJ	_	3	nmod	_	O
+5	about	about	IN	_	3	prep	_	O
+6	the	the	DT	_	12	det	_	O
+7	so	so	RB	_	9	advmod	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	called	call	VBN	_	12	nmod	_	O
+10	"	"	``	pos2=''	12	punct	_	O
+11	alt	alt	JJ	pos2=RB	12	nmod	_	O
+12	right	right	NN	pos2=RB	5	pobj	_	O
+13	.	.	.	_	2	punct	_	O
+14	"	"	''	_	2	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	're	be	VBP	_	0	root	_	O
+3	just	just	RB	_	9	advmod	_	O
+4	the	the	DT	_	9	det	_	O
+5	latest	late	JJS	pos2=RBS	6	advmod	_	O
+6	dressed	dress	VBN	_	9	nmod	_	O
+7	up	up	RP	pos2=IN	6	prt	_	O
+8	white	white	JJ	_	9	nmod	_	O
+9	supremacists	supremacist	NNS	_	2	attr	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	https://t.co/eU0rOXsEG6	#hlink#	ADD	_	0	root	_	U-ORG
+

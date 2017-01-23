@@ -1,0 +1,28 @@
+1	And	and	CC	_	4	cc	_	O
+2	it	it	PRP	_	4	nsubj	_	O
+3	officially	officially	RB	_	4	advmod	_	O
+4	starts	start	VBZ	_	0	root	_	O
+5	!!	!!	.	_	4	punct	_	O
+
+1	Winter	winter	NNP	pos2=NN	2	compound	_	O
+2	Sports	sport	NNS	pos2=NNPS	3	nsubj	_	O
+3	kick	kick	VB	pos2=NN	0	root	_	O
+4	off	off	RP	pos2=RB	3	prt	_	O
+5	today	today	NN	_	3	npadvmod	_	U-DATE
+6	!!	!!	.	_	3	punct	_	O
+
+1	Lady	lady	NNP	pos2=NN	3	compound	_	B-ORG
+2	Red	red	NNP	_	3	compound	_	I-ORG
+3	Devils	devil	NNPS	pos2=NNP	7	nmod	_	L-ORG
+4	at	at	IN	_	7	nmod	_	O
+5	Fairmont	fairmont	NNP	_	7	nmod	_	O
+6	6/7:30	0	CD	_	7	nmod	_	B-TIME
+7	pm	pm	NN	_	0	root	_	L-TIME
+8	.	.	.	_	7	punct	_	O
+
+1	Go	go	VB	_	0	root	_	O
+2	Tipp	tipp	NNP	_	1	vocative	_	U-GPE
+3	!!	!!	.	_	1	punct	_	O
+
+1	https://t.co/ggApMEKgb6	#hlink#	ADD	_	0	root	_	U-ORG
+

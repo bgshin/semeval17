@@ -1,0 +1,24 @@
+1	@DailySabah	@dailysabah	UH	pos2=XX	5	discourse	_	O
+2	@HaraldDoornbos	@haralddoornbos	NNS	pos2=``	0	root	_	O
+3	We	we	PRP	_	5	nsubj	_	O
+4	have	have	VBP	_	5	aux	_	O
+5	received	receive	VBN	_	2	relcl	_	O
+6	only	only	RB	_	7	advmod	_	B-CARDINAL
+7	30	0	CD	_	9	nmod	_	L-CARDINAL
+8	+	+	SYM	_	7	punct	_	O
+9	votes	vote	NNS	_	5	dobj	_	O
+10	and	and	CC	_	5	cc	_	O
+11	they	they	PRP	_	12	nsubj	_	O
+12	say	say	VBP	_	5	conj	_	O
+13	these	these	DT	_	14	det	_	O
+14	votes	vote	NNS	_	15	nsubj	_	O
+15	are	be	VBP	_	12	ccomp	_	O
+16	from	from	IN	_	15	prep	_	O
+17	ultra	ultra	JJ	pos2=AFX	18	nmod	_	O
+18	rightists	rightist	NNS	_	16	pobj	_	O
+19	which	which	WDT	_	21	nsubj	_	O
+20	actually	actually	RB	_	21	advmod	_	O
+21	want	want	VBP	_	18	relcl	_	O
+22	to	to	TO	pos2=IN	21	xcomp	_	O
+23	1	0	CD	_	22	pobj	_	U-CARDINAL
+

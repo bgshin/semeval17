@@ -1,0 +1,15 @@
+1	New	new	JJ	_	2	nmod	_	O
+2	photo	photo	NN	_	14	dep	_	O
+3	of	of	IN	_	2	prep	_	O
+4	Billie	billie	NNP	_	3	pobj	_	U-PERSON
+5	&	&	CC	_	4	cc	_	O
+6	her	her	PRP$	_	7	poss	_	O
+7	sister	sister	NN	_	4	conj	_	O
+8	#HappyThanksgiving	#happythanksgiving	VBG	pos2=ADD	2	prep	_	O
+9	🦃	🦃	NN	pos2=NFP	10	compound	_	U-PERSON
+10	#ScreamQueens	#screamqueens	NNS	pos2=ADD	8	pobj	_	O
+11	#BillieLourd	#billielourd	NFP	pos2=VBN	2	punct	_	O
+12	:	:	:	_	2	punct	_	O
+13	https://t.co/wwErvNTV20	#hlink#	ADD	_	14	nmod	_	O
+14	https://t.co/sFMVHHE9Hc	#hlink#	ADD	_	0	root	_	U-ORG
+

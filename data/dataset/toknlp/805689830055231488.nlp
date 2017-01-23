@@ -1,0 +1,26 @@
+1	Sexual	sexual	JJ	_	2	nmod	_	O
+2	liberation	liberation	NN	_	25	dep	_	O
+3	,	,	,	_	2	punct	_	O
+4	gay	gay	JJ	pos2=NN	5	nmod	_	O
+5	marriage	marriage	NN	_	2	appos	_	O
+6	,	,	,	_	2	punct	_	O
+7	no	no	DT	_	9	det	_	O
+8	fault	fault	NN	_	9	compound	_	O
+9	divorce	divorce	NN	_	2	appos	_	O
+10	,	,	,	_	2	punct	_	O
+11	chem	chem	NN	pos2=JJ	12	compound	_	O
+12	sex	sex	NN	_	2	appos	_	O
+13	,	,	,	_	2	punct	_	O
+14	child	child	NN	_	16	compound	_	O
+15	sex	sex	NN	_	16	compound	_	O
+16	victimhood	victimhood	NN	_	2	appos	_	O
+17	,	,	,	_	2	punct	_	O
+18	false	false	JJ	_	20	nmod	_	O
+19	rape	rape	NN	_	20	compound	_	O
+20	accusations	accusation	NNS	_	2	appos	_	O
+21	and	and	CC	_	20	cc	_	O
+22	the	the	DT	_	23	det	_	O
+23	h	h	NN	pos2=GW	20	conj	_	O
+24	…	…	NFP	pos2=-LRB-	25	punct	_	O
+25	https://t.co/bH05TaOFR6	#hlink#	ADD	_	0	root	_	O
+

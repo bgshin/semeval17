@@ -1,0 +1,15 @@
+1	@ScoopWellington	@scoopwellington	NNP	pos2=ADD	2	nsubj	_	U-PERSON
+2	is	be	VBZ	_	0	root	_	O
+3	that	that	IN	pos2=DT	8	mark	_	O
+4	in	in	IN	_	8	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	driving	driving	NN	pos2=VBG	4	pobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	get	get	VB	_	2	ccomp	_	O
+9	there	there	RB	_	8	advmod	_	O
+10	or	or	CC	_	8	cc	_	O
+11	the	the	DT	_	12	det	_	O
+12	parking	parking	NN	_	8	conj	_	O
+13	itself	itself	PRP	_	12	appos	_	O
+14	?	?	.	_	2	punct	_	O
+

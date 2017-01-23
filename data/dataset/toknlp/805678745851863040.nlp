@@ -1,0 +1,17 @@
+1	#MatchFinancial	#matchfinancial	NNP	pos2=XX	3	compound	_	O
+2	Rand	rand	NNP	_	3	compound	_	B-PERSON
+3	Paul	paul	NNP	_	4	nsubj	_	I-PERSON
+4	right	right	JJ	pos2=RB	0	root	_	L-PERSON
+5	to	to	TO	_	6	aux	_	O
+6	be	be	VB	_	4	xcomp	_	O
+7	concerned	concerned	JJ	pos2=VBN	6	acomp	_	O
+8	about	about	IN	_	7	prep	_	O
+9	drone	drone	NN	_	10	compound	_	O
+10	strikes	strike	NNS	_	8	pobj	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	Blog	blog	NN	pos2=NNP	1	dobj	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/X0QKYgApb6	#hlink#	ADD	pos2=NN	1	dep	_	O
+

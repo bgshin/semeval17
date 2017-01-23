@@ -1,0 +1,26 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	34	0	CD	_	2	attr	_	U-CARDINAL
+4	,	,	,	_	2	punct	_	O
+5	what	what	WDT	pos2=WP	7	det	_	O
+6	social	social	JJ	_	7	nmod	_	O
+7	security	security	NN	pos2=NNP	2	attr	_	O
+8	?	?	.	_	2	punct	_	O
+
+1	My	my	PRP$	_	2	poss	_	O
+2	generation	generation	NN	_	6	nsubjpass	_	O
+3	and	and	CC	_	2	cc	_	O
+4	younger	young	JJR	_	6	nsubjpass	_	O
+5	are	be	VBP	_	6	auxpass	_	O
+6	fucked	fuck	VBN	pos2=JJ	0	root	_	O
+7	.	.	.	_	6	punct	_	O
+
+1	Thanks	thanks	NNS	pos2=NN	0	root	_	O
+2	to	to	IN	_	1	prep	_	O
+3	Baby	baby	NNP	pos2=NN	5	nmod	_	O
+4	Booming	boom	VBG	pos2=JJ	5	nmod	_	O
+5	assholes	asshole	NNS	_	2	pobj	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	https://t.co/zYZfdRH6Cc	#hlink#	ADD	_	0	root	_	U-ORG
+

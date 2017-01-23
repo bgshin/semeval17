@@ -1,0 +1,14 @@
+1	Uplifting	uplifting	JJ	pos2=VBG	2	nmod	_	O
+2	reading	reading	NN	pos2=VBG	0	root	_	O
+3	from	from	IN	_	2	prep	_	O
+4	@guardian	@guardian	XX	pos2=NNP	3	pobj	_	O
+5	#earth	#earth	XX	pos2=UH	13	dep	_	O
+6	#climate	#climate	XX	pos2=UH	13	dep	_	O
+7	#robots	#robots	XX	pos2=UH	13	dep	_	O
+8	#unitednations	#unitednations	XX	pos2=NNS	13	dep	_	O
+9	#soil	#soil	XX	pos2=UH	13	dep	_	O
+10	#extinction	#extinction	XX	pos2=GW	13	dep	_	O
+11	#trump	#trump	XX	pos2=GW	13	nmod	_	O
+12	#timetopulltogether	#timetopulltogether	XX	pos2=GW	13	nmod	_	O
+13	https://t.co/KXB45i6XiR	#hlink#	ADD	pos2=XX	3	pobj	_	O
+

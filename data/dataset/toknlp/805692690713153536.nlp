@@ -1,0 +1,22 @@
+1	“	"	``	_	6	punct	_	O
+2	Pharmaceutical	pharmaceutical	JJ	pos2=NN	3	nmod	_	O
+3	companies	company	NNS	_	6	nsubjpass	_	O
+4	are	be	VBP	_	6	aux	_	O
+5	being	be	VBG	_	6	auxpass	_	O
+6	affected	affect	VBN	_	0	root	_	O
+7	by	by	IN	_	6	agent	_	O
+8	these	these	DT	_	10	det	_	O
+9	lower	low	JJR	pos2=JJ	10	nmod	_	O
+10	numbers	number	NNS	_	7	pobj	_	O
+11	in	in	IN	_	6	prep	_	O
+12	so	so	RB	_	13	advmod	_	O
+13	many	many	JJ	_	14	nmod	_	O
+14	states	state	NNS	_	11	pobj	_	O
+15	across	across	IN	_	14	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	country	country	NN	_	15	pobj	_	O
+18	.	.	.	_	6	punct	_	O
+
+1	”	"	``	pos2=SYM	2	punct	_	O
+2	https://t.co/Sip0iVUrX0	#hlink#	ADD	pos2=NN	0	root	_	O
+

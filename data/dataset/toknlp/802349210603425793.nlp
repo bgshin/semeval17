@@ -1,0 +1,16 @@
+1	Pelosi	pelosi	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	broadens	broaden	VBZ	_	0	root	_	O
+3	leadership	leadership	NN	_	4	compound	_	O
+4	team	team	NN	_	2	dobj	_	O
+5	https://t.co/MZNXmSXDMx	#hlink#	ADD	_	4	appos	_	O
+6	#outoftouch	#outoftouch	IN	pos2=WDT	2	prep	_	O
+7	west	west	JJ	pos2=NN	8	nmod	_	O
+8	coast	coast	NN	pos2=JJ	9	compound	_	O
+9	liberal	liberal	JJ	pos2=NN	4	nmod	_	O
+10	does	do	VBZ	_	12	aux	_	O
+11	n't	not	RB	_	12	neg	_	O
+12	get	get	VB	_	2	conj	_	O
+13	it	it	PRP	_	15	nsubj	_	O
+14	#reelectpelosi	#reelectpelosi	XX	pos2=.	15	dep	_	O
+15	👁👃🏻👁#floodtheswamp	👁👃🏻👁#floodtheswamp	XX	pos2=.	12	ccomp	_	O
+

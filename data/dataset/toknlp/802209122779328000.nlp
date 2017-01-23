@@ -1,0 +1,24 @@
+1	@PITBULL95	@pitbull0	NN	pos2=LS	4	discourse	_	O
+2	@megynkelly	@megynkelly	UH	pos2=IN	4	discourse	_	O
+3	she	she	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	a	a	DT	_	7	det	_	O
+6	great	great	JJ	_	7	nmod	_	O
+7	journalist	journalist	NN	_	4	attr	_	O
+8	,	,	,	_	7	punct	_	O
+9	not	not	RB	_	10	neg	_	O
+10	sure	sure	JJ	pos2=RB	7	appos	_	O
+11	where	where	WRB	_	13	advmod	_	O
+12	you	you	PRP	_	13	nsubj	_	O
+13	get	get	VBP	_	10	ccomp	_	O
+14	the	the	DT	_	16	det	_	O
+15	'	'	``	pos2=JJS	16	punct	_	O
+16	piece	piece	NN	_	13	dobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	trash	trash	NN	_	17	pobj	_	O
+19	'	'	''	_	16	punct	_	O
+20	you	you	PRP	_	22	nsubj	_	O
+21	are	be	VBP	_	22	aux	_	O
+22	talking	talk	VBG	_	16	relcl	_	O
+23	about	about	IN	_	22	prep	_	O
+

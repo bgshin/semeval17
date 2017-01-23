@@ -1,0 +1,26 @@
+1	man	man	NN	pos2=UH	0	root	_	O
+2	that	that	WDT	pos2=DT	3	nsubj	_	O
+3	westworld	westworld	VBD	pos2=NN	1	relcl	_	O
+4	finale	finale	NN	_	3	dobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	it	it	PRP	_	3	nsubj	_	O
+2	only	only	RB	_	3	advmod	_	O
+3	took	take	VBD	_	0	root	_	O
+4	10	0	CD	_	6	nmod	_	B-TIME
+5	+	+	SYM	_	4	punct	_	I-TIME
+6	hours	hour	NNS	_	3	dobj	_	L-TIME
+7	but	but	CC	_	3	cc	_	O
+8	i	I	PRP	_	11	nsubj	_	O
+9	can	can	MD	_	11	aux	_	O
+10	finally	finally	RB	_	11	advmod	_	O
+11	say	say	VB	_	3	conj	_	O
+12	i	I	PRP	_	13	nsubj	_	O
+13	know	know	VBP	_	11	ccomp	_	O
+14	the	the	DT	_	15	det	_	O
+15	plot	plot	NN	_	13	dobj	_	O
+16	of	of	IN	_	15	prep	_	O
+17	the	the	DT	_	18	det	_	O
+18	show	show	NN	_	16	pobj	_	O
+19	.	.	.	_	11	punct	_	O
+

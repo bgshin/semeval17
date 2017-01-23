@@ -1,0 +1,30 @@
+1	Duke	duke	NNP	pos2=NN	11	npadvmod	_	O
+2	88	0	CD	_	1	nmod	_	U-CARDINAL
+3	,	,	,	_	1	punct	_	O
+4	William	william	NNP	_	7	nsubj	_	O
+5	&	&	CC	_	4	cc	_	O
+6	Mary	mary	NNP	_	4	conj	_	B-PERSON
+7	67	0	CD	_	1	nmod	_	L-PERSON
+8	:	:	:	_	11	punct	_	O
+9	Grayson	grayson	NNP	_	10	compound	_	B-PERSON
+10	Allen	allen	NNP	_	11	nsubj	_	L-PERSON
+11	scored	score	VBD	_	0	root	_	O
+12	17	0	CD	_	13	nmod	_	U-CARDINAL
+13	points	point	NNS	_	11	dobj	_	O
+14	to	to	TO	_	15	aux	_	O
+15	help	help	VB	_	11	xcomp	_	O
+16	No.	no.	NN	pos2=NNP	15	dobj	_	O
+17	6	0	CD	pos2=NNP	16	nmod	_	U-CARDINAL
+18	Duke	duke	NNP	_	19	nsubj	_	U-PERSON
+19	beat	beat	VBD	pos2=NN	11	conj	_	O
+20	William	william	NNP	_	19	dobj	_	U-PERSON
+21	&	&	CC	_	20	cc	_	O
+22	Mary	mary	NNP	_	20	conj	_	O
+23	88	0	CD	pos2=NNP	19	punct	_	B-DATE
+24	-	-	SYM	pos2=HYPH	25	punct	_	I-DATE
+25	67	0	CD	_	23	prep	_	L-DATE
+26	.	.	.	_	19	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/EtlRHylgPH	#hlink#	ADD	pos2=NN	0	root	_	O
+

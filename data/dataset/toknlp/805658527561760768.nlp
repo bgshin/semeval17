@@ -1,0 +1,20 @@
+1	@an041989	@an0	NN	pos2=LS	2	nsubj	_	O
+2	@FoxNews	@foxnews	VBZ	pos2=NNS	5	csubj	_	O
+3	@DrJillStein	@drjillstein	NNP	pos2=ADD	2	dobj	_	U-PERSON
+4	Here	here	RB	_	2	advmod	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	the	the	DT	_	10	det	_	O
+7	California	california	NNP	_	8	compound	_	O
+8	Voter	voter	NNP	pos2=NN	10	compound	_	O
+9	Registration	registration	NN	pos2=NNP	10	compound	_	O
+10	Form	form	NN	pos2=NNP	5	nsubj	_	O
+11	.	.	.	_	5	punct	_	O
+
+1	#illigal	#illigal	JJ	pos2=MD	2	nmod	_	O
+2	immigrants	immigrant	NNS	_	3	nsubj	_	O
+3	vote	vote	VBP	pos2=RB	0	root	_	O
+4	here	here	RB	_	3	advmod	_	O
+5	like	like	IN	pos2=UH	3	prep	_	O
+6	…	…	NFP	pos2=-LRB-	5	pobj	_	O
+7	https://t.co/lFFsTwvOnC	#hlink#	ADD	_	5	pobj	_	O
+

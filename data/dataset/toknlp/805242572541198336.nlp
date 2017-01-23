@@ -1,0 +1,7 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	wish	wish	VBP	_	0	root	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	was	be	VBD	_	2	ccomp	_	O
+5	Ashley	ashley	NNP	_	6	compound	_	B-PERSON
+6	Graham	graham	NNP	_	4	attr	_	L-PERSON
+

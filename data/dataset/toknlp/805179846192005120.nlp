@@ -1,0 +1,20 @@
+1	"	"	``	pos2=SYM	3	punct	_	O
+2	Fact	fact	NN	pos2=NNP	3	compound	_	O
+3	checks	check	NNS	pos2=VBZ	16	nsubj	_	O
+4	,	,	,	_	3	punct	_	O
+5	"	"	''	_	3	punct	_	O
+6	with	with	IN	_	3	prep	_	O
+7	neoliberal	neoliberal	JJ	_	9	nmod	_	O
+8	operating	operating	NN	_	9	compound	_	O
+9	assumptions	assumption	NNS	_	6	pobj	_	O
+10	,	,	,	_	3	punct	_	O
+11	grossly	grossly	RB	_	12	advmod	_	O
+12	downplaying	downplay	VBG	_	3	acl	_	O
+13	the	the	DT	_	14	det	_	O
+14	embargo	embargo	NN	pos2=NNS	12	dobj	_	O
+15	etc.	etc.	FW	_	19	nmod	_	O
+16	See	see	VB	pos2=VBP	0	root	_	O
+17	:	:	:	_	16	punct	_	O
+18	…	…	NFP	pos2=-LRB-	19	punct	_	O
+19	https://t.co/qyhDr4SUBr	#hlink#	ADD	pos2=NN	16	dep	_	O
+

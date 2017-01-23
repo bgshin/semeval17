@@ -1,0 +1,16 @@
+1	Ashley	ashley	NNP	_	2	compound	_	B-PERSON
+2	Graham	graham	NNP	_	3	nsubj	_	L-PERSON
+3	wants	want	VBZ	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	get	get	VB	_	3	xcomp	_	O
+6	rid	rid	VBN	pos2=JJ	5	acomp	_	O
+7	of	of	IN	_	6	prep	_	O
+8	the	the	DT	_	13	det	_	O
+9	'	'	``	pos2=''	13	punct	_	O
+10	plus	plus	CC	pos2=JJ	6	prep	_	O
+11	size	size	NN	_	13	nmod	_	O
+12	'	'	''	_	13	punct	_	O
+13	label	label	NN	pos2=GW	7	pobj	_	O
+14	https://t.co/opRhHubvva	#hlink#	ADD	_	13	appos	_	U-ORG
+15	https://t.co/7ZPAcMfAcc	#hlink#	ADD	_	10	pobj	_	U-ORG
+

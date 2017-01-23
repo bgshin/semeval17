@@ -1,0 +1,14 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=GW	5	compound	_	U-PRODUCT
+5	video	video	NN	pos2=GW	2	dobj	_	O
+6	https://t.co/JhAyW5ffcs	#hlink#	NNP	pos2=ADD	8	compound	_	O
+7	Archie	archie	NNP	_	8	compound	_	B-PERSON
+8	Bunker	bunker	NNP	_	10	poss	_	I-PERSON
+9	's	's	POS	_	8	case	_	L-PERSON
+10	Editorial	editorial	NNP	pos2=JJ	5	appos	_	O
+11	on	on	IN	_	10	prep	_	O
+12	Gun	gun	NNP	_	13	compound	_	B-ORG
+13	Control	control	NNP	pos2=NN	11	pobj	_	L-ORG
+

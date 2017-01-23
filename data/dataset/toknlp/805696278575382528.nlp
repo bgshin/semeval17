@@ -1,0 +1,15 @@
+1	@AngryBlackLady	@angryblacklady	NN	pos2=UH	4	nsubj	_	O
+2	meanwhile	meanwhile	RB	_	4	advmod	_	O
+3	obviously	obviously	RB	_	4	advmod	_	O
+4	discriminatory	discriminatory	JJ	_	0	root	_	O
+5	and	and	CC	_	4	cc	_	O
+6	election	election	NN	_	11	nsubjpass	_	O
+7	costing	cost	VBG	_	6	acl	_	O
+8	voter	voter	NN	_	9	compound	_	O
+9	suppression	suppression	NN	_	7	dobj	_	O
+10	is	be	VBZ	_	11	auxpass	_	O
+11	put	put	VBN	pos2=VB	4	conj	_	O
+12	on	on	IN	pos2=RP	11	prep	_	O
+13	back	back	NN	pos2=RB	14	compound	_	O
+14	burner	burner	NN	_	12	pobj	_	O
+

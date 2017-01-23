@@ -1,0 +1,13 @@
+1	(	(	-LRB-	_	2	punct	_	O
+2	REVISED	revise	VBN	_	12	nmod	_	O
+3	)	)	-RRB-	_	2	punct	_	O
+4	#PepeTheFrog	#pepethefrog	NN	pos2=ADD	5	compound	_	U-DATE
+5	#SteveBannon	#stevebannon	NN	pos2=XX	12	dep	_	O
+6	#AltRight	#altright	ADD	pos2=MD	12	dep	_	O
+7	#WhiteSupremacy	#whitesupremacy	NN	pos2=ADD	12	dep	_	O
+8	#DonaldTrump	#donaldtrump	ADD	pos2=XX	12	dep	_	O
+9	#DavidDuke	#davidduke	ADD	pos2=GW	12	nmod	_	O
+10	#MattFurie	#mattfurie	GW	pos2=ADD	12	nmod	_	O
+11	…	…	NFP	pos2=GW	12	punct	_	O
+12	https://t.co/OWe2ovz3NV	#hlink#	ADD	_	0	root	_	O
+

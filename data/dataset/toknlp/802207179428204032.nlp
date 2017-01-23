@@ -1,0 +1,22 @@
+1	@MrsESK	@mrsesk	ADD	pos2=NN	0	root	_	O
+2	#BlackLivesMatter	#blacklivesmatter	IN	pos2=NN	1	prep	_	O
+3	proving	prove	VBG	_	2	pcomp	_	O
+4	they	they	PRP	_	5	nsubj	_	O
+5	are	be	VBP	_	3	ccomp	_	O
+6	indeed	indeed	RB	_	5	advmod	_	O
+7	racist	racist	JJ	_	5	acomp	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	Appreciate	appreciate	VBP	_	0	root	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	letting	let	VBG	_	1	ccomp	_	O
+4	the	the	DT	_	5	det	_	O
+5	world	world	NN	_	6	nsubj	_	O
+6	know	know	VBP	pos2=VB	3	ccomp	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	This	this	DT	_	4	nsubjpass	_	O
+2	will	will	MD	_	4	aux	_	O
+3	be	be	VB	_	4	auxpass	_	O
+4	tetweeted	tetweeted	VBN	pos2=JJ	0	root	_	O
+

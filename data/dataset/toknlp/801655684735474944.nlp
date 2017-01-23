@@ -1,0 +1,29 @@
+1	Watched	watch	VBD	pos2=VBN	0	root	_	O
+2	a	a	DT	_	5	det	_	O
+3	sad	sad	JJ	_	1	discourse	_	O
+4	@nuggets	@nuggets	PRP$	pos2=NNS	5	poss	_	O
+5	team	team	NN	_	6	nsubj	_	O
+6	lose	lose	VB	pos2=VBP	1	ccomp	_	O
+7	to	to	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	@utahjazz	@utahjazz	NN	pos2=NNP	7	pobj	_	O
+10	tonight	tonight	NN	_	6	npadvmod	_	U-TIME
+11	.	.	.	_	1	punct	_	O
+
+1	How	how	WRB	_	5	advmod	_	O
+2	did	do	VBD	_	5	aux	_	O
+3	my	my	PRP$	_	4	poss	_	O
+4	@chicagobulls	@chicagobulls	NNS	pos2=UH	5	nsubj	_	O
+5	lose	lose	VB	pos2=VBP	0	root	_	O
+6	to	to	IN	_	5	prep	_	O
+7	these	these	DT	_	8	det	_	O
+8	guys	guy	NNS	_	6	pobj	_	O
+9	last	last	JJ	pos2=DT	10	nmod	_	B-TIME
+10	night	night	NN	_	5	npadvmod	_	L-TIME
+11	?	?	.	_	5	punct	_	O
+
+1	#Altitude	#altitude	NNP	pos2=VB	0	root	_	U-PERSON
+2	?	?	.	_	1	punct	_	O
+
+1	#cmonman	#cmonman	UH	pos2=ADD	0	root	_	O
+

@@ -1,0 +1,13 @@
+1	Venezuelan	venezuelan	JJ	pos2=NNP	2	nmod	_	U-NORP
+2	Congress	congress	NNP	_	3	nsubj	_	U-ORG
+3	Declares	declare	VBZ	_	0	root	_	O
+4	President	president	NNP	_	5	compound	_	O
+5	Maduro	maduro	NNP	_	7	nsubj	_	U-PERSON
+6	Has	have	VBZ	pos2=NNP	7	aux	_	O
+7	Staged	stage	VBN	_	3	ccomp	_	O
+8	a	a	DT	_	11	det	_	O
+9	Coup	coup	NN	pos2=NNP	11	nmod	_	O
+10	|	|	SYM	pos2=,	11	punct	_	O
+11	TIME	time	NN	_	7	dobj	_	O
+12	https://t.co/O4H8aM6x2Z	#hlink#	ADD	pos2=NN	7	dep	_	U-ORG
+

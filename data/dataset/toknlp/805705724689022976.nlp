@@ -1,0 +1,21 @@
+1	@Transsomething	@transsomething	VBG	pos2=NNP	0	root	_	O
+2	that	that	DT	_	3	nsubj	_	O
+3	's	's	VBZ	_	1	ccomp	_	O
+4	what	what	WP	_	6	dobj	_	O
+5	they	they	PRP	_	6	nsubj	_	O
+6	said	say	VBD	_	3	ccomp	_	O
+7	about	about	IN	pos2=RB	6	prep	_	O
+8	brexit	brexit	NN	pos2=NNS	7	pobj	_	O
+9	,	,	,	_	3	punct	_	O
+10	and	and	CC	_	3	cc	_	O
+11	trump	trump	NN	_	8	conj	_	O
+12	.	.	.	_	1	punct	_	O
+
+1	I	I	PRP	_	4	nsubjpass	_	O
+2	'll	will	MD	_	4	aux	_	O
+3	get	get	VB	_	4	auxpass	_	O
+4	started	start	VBN	_	0	root	_	O
+5	just	just	RB	_	6	advmod	_	O
+6	in	in	IN	_	4	prep	_	O
+7	case	case	NN	_	6	pobj	_	O
+

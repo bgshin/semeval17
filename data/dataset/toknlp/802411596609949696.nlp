@@ -1,0 +1,13 @@
+1	@tomhardly	@tomhardly	UH	pos2=RB	3	discourse	_	O
+2	that	that	DT	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	not	not	RB	_	3	neg	_	O
+5	true	true	JJ	_	3	acomp	_	O
+6	but	but	CC	_	3	cc	_	O
+7	the	the	DT	_	9	det	_	O
+8	clinton	clinton	NNP	_	9	compound	_	U-PERSON
+9	foundation	foundation	NN	_	11	nsubj	_	O
+10	did	do	VBD	_	11	aux	_	O
+11	mishandle	mishandle	VB	_	3	conj	_	O
+12	haiti	haiti	NN	pos2=NNS	11	dobj	_	O
+

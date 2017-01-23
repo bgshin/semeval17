@@ -1,0 +1,12 @@
+1	Meet	meet	VB	_	0	root	_	B-PRODUCT
+2	the	the	DT	_	3	det	_	I-PRODUCT
+3	Model	model	NNP	pos2=NN	1	dobj	_	I-PRODUCT
+4	3	0	CD	_	3	nmod	_	L-PRODUCT
+5	,	,	,	_	3	punct	_	O
+6	Tesla	tesla	NNP	_	10	poss	_	U-ORG
+7	’s	's	POS	_	6	case	_	O
+8	Most	most	RBS	pos2=NNP	9	advmod	_	O
+9	Important	important	JJ	_	10	nmod	_	O
+10	Car	car	NN	pos2=NNP	5	pobj	_	O
+11	https://t.co/hSSG7o1FHD	#hlink#	ADD	pos2=NN	10	appos	_	O
+

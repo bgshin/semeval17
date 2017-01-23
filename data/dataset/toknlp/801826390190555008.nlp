@@ -1,0 +1,12 @@
+1	@Lucaswfalk	@lucaswfalk	NNP	pos2=UH	6	vocative	_	U-PERSON
+2	@utahjazz	@utahjazz	UH	pos2=IN	6	discourse	_	O
+3	I	I	PRP	_	6	nsubj	_	O
+4	was	be	VBD	_	6	aux	_	O
+5	just	just	RB	_	6	advmod	_	O
+6	thinking	think	VBG	_	0	root	_	O
+7	this	this	DT	_	6	dobj	_	O
+8	the	the	DT	_	10	det	_	O
+9	other	other	JJ	_	10	nmod	_	O
+10	day	day	NN	_	6	npadvmod	_	O
+11	!	!	.	_	6	punct	_	O
+

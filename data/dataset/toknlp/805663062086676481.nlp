@@ -1,0 +1,16 @@
+1	Vanessa	vanessa	NNP	_	3	compound	_	B-WORK_OF_ART
+2	Hudgens	hudgens	NNP	_	3	compound	_	I-WORK_OF_ART
+3	Say	say	NNP	pos2=VB	13	dep	_	I-WORK_OF_ART
+4	Ok	ok	UH	pos2=NNP	6	discourse	_	I-WORK_OF_ART
+5	Music	music	NNP	pos2=NN	6	compound	_	I-WORK_OF_ART
+6	Video	video	NNP	pos2=NN	13	dep	_	L-WORK_OF_ART
+7	(	(	-LRB-	_	8	punct	_	O
+8	Official	official	JJ	pos2=NNP	6	appos	_	O
+9	with	with	IN	_	8	prep	_	O
+10	Zac	zac	NNP	_	11	compound	_	B-PERSON
+11	Efron	efron	NNP	_	9	pobj	_	L-PERSON
+12	)	)	-RRB-	_	8	punct	_	O
+13	https://t.co/skDBKtIFaC	#hlink#	ADD	pos2=VBP	0	root	_	O
+14	vía	vía	-RRB-	pos2=NNP	13	punct	_	O
+15	@YouTube	@youtube	NN	pos2=ADD	13	npadvmod	_	O
+

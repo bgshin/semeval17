@@ -1,0 +1,25 @@
+1	@mrscorie	@mrscorie	UH	pos2=NN	2	discourse	_	O
+2	are	be	VBP	_	7	aux	_	O
+3	the	the	DT	_	6	det	_	O
+4	8	0	CD	_	5	nmod	_	U-CARDINAL
+5	countries	country	NNS	_	7	nsubj	_	O
+6	Obamas	obamas	NNPS	pos2=NNP	7	nsubj	_	U-ORG
+7	bombed	bomb	VBD	pos2=VBN	0	root	_	O
+8	and	and	CC	_	7	cc	_	O
+9	all	all	PDT	_	13	predet	_	O
+10	the	the	DT	_	13	det	_	O
+11	illegal	illegal	JJ	_	13	nmod	_	O
+12	drone	drone	NN	_	13	compound	_	O
+13	strikes	strike	NNS	_	18	ccomp	_	O
+14	,	,	,	_	13	punct	_	O
+15	NOT	not	RB	pos2=CC	17	neg	_	O
+16	Obamas	obamas	NNPS	pos2=JJ	17	compound	_	U-LOC
+17	fault	fault	NN	pos2=VB	13	conj	_	O
+18	either	either	RB	pos2=CC	19	meta	_	O
+19	?	?	.	_	7	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	great	great	JJ	_	2	acomp	_	O
+4	!	!	.	_	2	punct	_	O
+

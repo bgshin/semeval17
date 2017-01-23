@@ -1,0 +1,24 @@
+1	THIS	this	DT	_	4	nsubjpass	_	O
+2	Was	be	VBD	pos2=NNP	4	auxpass	_	O
+3	Just	just	RB	pos2=NNP	4	advmod	_	O
+4	Revealed	reveal	VBN	pos2=NNP	19	ccomp	_	O
+5	About	about	IN	pos2=NNP	4	prep	_	O
+6	Hillary	hillary	NNP	_	14	poss	_	U-PERSON
+7	’s	's	POS	_	6	case	_	O
+8	So	so	RB	_	10	advmod	_	O
+9	-	-	HYPH	_	10	punct	_	O
+10	Called	call	VBN	pos2=NNP	14	nmod	_	O
+11	‘	'	``	pos2=''	14	punct	_	O
+12	Popular	popular	NNP	pos2=JJ	14	compound	_	O
+13	Vote	vote	NNP	pos2=NN	14	compound	_	O
+14	Win	win	NNP	pos2=NNPS	5	pobj	_	O
+15	’	'	''	pos2=POS	14	punct	_	O
+16	,	,	,	_	19	punct	_	O
+17	She	she	PRP	pos2=NNP	19	nsubjpass	_	O
+18	’s	's	VBZ	_	19	auxpass	_	O
+19	BUSTED	bust	VBN	pos2=NNP	0	root	_	O
+20	!	!	.	_	19	punct	_	O
+
+1	https://t.co/W0ubV2RZ9j	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/9O2gH6mRBe	#hlink#	ADD	_	0	root	_	U-ORG
+

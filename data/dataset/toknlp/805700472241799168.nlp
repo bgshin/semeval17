@@ -1,0 +1,17 @@
+1	Happy	happy	JJ	pos2=NNP	4	nmod	_	O
+2	Birthday	birthday	NNP	pos2=NN	4	compound	_	O
+3	Pope	pope	NNP	_	4	compound	_	O
+4	Francis	francis	NNP	_	0	root	_	U-PERSON
+5	!	!	.	_	4	punct	_	O
+
+1	"	"	``	_	2	punct	_	O
+2	christos	christos	NN	pos2=NNS	5	nmod	_	O
+3	"	"	''	_	2	punct	_	O
+4	12/17/2016	0	CD	_	5	nmod	_	U-DATE
+5	@news_va_en	@news_va_en	NNS	pos2=NNP	10	dep	_	O
+6	@vatican_va_en	@vatican_va_en	VBN	pos2=ADD	5	acl	_	O
+7	@Pontifex	@pontifex	NNP	pos2=CD	9	compound	_	U-ORG
+8	@LaNouvelleEve	@lanouvelleeve	NN	pos2=ADD	9	compound	_	O
+9	#	#	NN	_	0	root	_	O
+10	80	0	CD	_	9	nmod	_	U-MONEY
+

@@ -1,0 +1,22 @@
+1	#MuhammadAli	#muhammadali	NNS	pos2=``	2	nsubj	_	O
+2	RARE	rare	JJ	_	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	Muhammad	muhammad	NNP	_	2	compound	_	B-PERSON
+2	Ali	ali	NNP	_	3	nsubj	_	L-PERSON
+3	signed	sign	VBD	_	0	root	_	O
+4	BOTH	both	PDT	pos2=CC	6	predet	_	O
+5	his	his	PRP$	_	6	poss	_	O
+6	names	name	NNS	_	3	dobj	_	O
+7	aka	aka	IN	pos2=RB	3	prep	_	O
+8	Cassius	cassius	NNP	_	9	compound	_	B-PERSON
+9	Clay	clay	NNP	pos2=NN	7	pobj	_	L-PERSON
+10	w	w	IN	_	3	prep	_	O
+11	/	/	HYPH	pos2=,	10	punct	_	O
+12	Certification	certification	NN	_	10	pobj	_	O
+13	!	!	.	_	3	punct	_	O
+
+1	https://t.co/CNviBiO0eN	#hlink#	ADD	_	0	root	_	O
+2	#Legend	#legend	-RRB-	pos2=NNP	1	punct	_	O
+3	#Boxer	#boxer	-RRB-	pos2=NN	1	punct	_	O
+

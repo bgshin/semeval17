@@ -1,0 +1,18 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	did	do	VBD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	plagiarize	plagiarize	VB	_	9	ccomp	_	O
+5	that	that	DT	pos2=IN	6	det	_	O
+6	speech	speech	NN	_	4	dobj	_	O
+7	,	,	,	_	9	punct	_	O
+8	it	it	PRP	_	9	nsubj	_	O
+9	was	be	VBD	_	0	root	_	O
+10	just	just	RB	_	15	advmod	_	O
+11	a	a	DT	_	15	det	_	O
+12	little	little	JJ	_	15	nmod	_	O
+13	Melania	melania	NNP	_	15	compound	_	B-PERSON
+14	-	-	HYPH	_	15	punct	_	I-PERSON
+15	ed.#UsefulNewVerbs#FridayFondue@efoxband	ed.#usefulnewverbs#fridayfondue@efoxband	NNP	pos2=NN	9	attr	_	L-PERSON
+16	@KaceyecaK	@kaceyecak	ADD	pos2=XX	17	compound	_	O
+17	@HashtagRoundup	@hashtagroundup	NN	pos2=ADD	9	attr	_	O
+

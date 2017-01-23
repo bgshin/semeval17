@@ -1,0 +1,18 @@
+1	Will	will	MD	_	5	aux	_	O
+2	US	us	NNP	_	7	compound	_	B-ORG
+3	Energy	energy	NNP	pos2=NN	7	compound	_	I-ORG
+4	Policy	policy	NNP	pos2=NN	7	compound	_	I-ORG
+5	Push	push	NNP	pos2=VB	7	compound	_	I-ORG
+6	Fossil	fossil	NNP	_	7	compound	_	I-ORG
+7	Fuels	fuel	NNPS	pos2=NNS	11	dep	_	I-ORG
+8	or	or	CC	_	7	cc	_	I-ORG
+9	Renewable	renewable	NNP	pos2=JJ	10	compound	_	I-ORG
+10	Energy	energy	NNP	pos2=NN	7	conj	_	L-ORG
+11	?	?	.	_	0	root	_	O
+
+1	Six	#crd#	CD	pos2=NNP	3	nmod	_	O
+2	Essential	essential	JJ	pos2=NNP	3	nmod	_	O
+3	Reads	read	NNS	pos2=VBZ	0	root	_	O
+4	https://t.co/S8XIJrUGut	#hlink#	ADD	_	3	npadvmod	_	O
+5	#Green	#green	-RRB-	pos2=ADD	3	punct	_	O
+

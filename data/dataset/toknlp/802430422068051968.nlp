@@ -1,0 +1,18 @@
+1	Alphys	alphys	NNP	pos2=DT	4	poss	_	U-PERSON
+2	’s	's	POS	_	1	case	_	O
+3	history	history	NN	_	4	compound	_	O
+4	books	book	NNS	_	5	nsubj	_	O
+5	made	make	VBD	pos2=VBN	0	root	_	O
+6	me	me	PRP	_	7	nsubj	_	O
+7	think	think	VB	_	5	ccomp	_	O
+8	humans	human	NNS	_	10	nsubj	_	O
+9	were	be	VBD	_	10	aux	_	O
+10	cool……with	cool……with	VBG	pos2=IN	7	ccomp	_	O
+11	their	their	PRP$	_	13	poss	_	O
+12	giant	giant	JJ	pos2=NN	13	nmod	_	O
+13	robots	robot	NNS	_	10	dobj	_	O
+14	and	and	CC	_	13	cc	_	O
+15	flowery	flowery	JJ	_	16	nmod	_	O
+16	swordswomen	swordswomen	NN	pos2=NNS	13	conj	_	O
+17	.	.	.	_	5	punct	_	O
+

@@ -1,0 +1,9 @@
+1	SATANIC	satanic	JJ	_	2	nmod	_	O
+2	TEMPLES	temple	NNS	pos2=NN	3	nsubj	_	O
+3	STRIKES	strike	VBZ	pos2=NNS	0	root	_	O
+4	OUT	out	RP	pos2=IN	3	prt	_	O
+5	TEXAS	texas	NNP	pos2=CD	7	compound	_	U-GPE
+6	LAW	law	NN	pos2=NNP	7	compound	_	O
+7	ABORTION	abortion	NN	_	3	dobj	_	O
+8	https://t.co/Xg3d5ocspY	#hlink#	ADD	pos2=NN	3	dep	_	O
+

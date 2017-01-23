@@ -1,0 +1,20 @@
+1	Scientists	scientist	NNS	_	2	nsubj	_	O
+2	play	play	VBP	pos2=VB	13	ccomp	_	O
+3	a	a	DT	_	5	det	_	O
+4	key	key	JJ	_	5	nmod	_	O
+5	role	role	NN	_	2	dobj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	solving	solve	VBG	_	6	pcomp	_	O
+8	global	global	JJ	_	9	nmod	_	O
+9	problems	problem	NNS	_	7	dobj	_	O
+10	,	,	,	_	13	punct	_	O
+11	Pope	pope	NNP	_	12	compound	_	O
+12	#Francis	#francis	NNP	pos2=NNPS	13	nsubj	_	O
+13	says	say	VBZ	_	0	root	_	O
+14	|	|	SYM	pos2=,	15	punct	_	O
+15	Christian	christian	JJ	pos2=NNP	13	nsubj	_	U-NORP
+16	...	..	.	pos2=,	13	punct	_	O
+
+1	https://t.co/8gd2inb78H	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/NdKwZJ27T7	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,9 @@
+1	@realDonaldTrump	@realdonaldtrump	VB	pos2=NNP	4	nsubj	_	O
+2	This	this	DT	_	1	dobj	_	O
+3	too	too	RB	_	4	advmod	_	O
+4	happened	happened	VBD	pos2=JJ	0	root	_	O
+5	#draintheswamp	#draintheswamp	IN	pos2=XX	8	nmod	_	O
+6	#MAGA	#maga	GW	pos2=NN	8	nmod	_	O
+7	#NeverRomney	#neverromney	GW	pos2=ADD	8	nmod	_	U-MONEY
+8	https://t.co/cnzQgOidXM	#hlink#	ADD	pos2=NN	4	dep	_	O
+

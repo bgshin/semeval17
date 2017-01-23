@@ -1,0 +1,13 @@
+1	Update:@atlanta_hawks	update:@atlanta_hawks	NNS	pos2=XX	12	dep	_	O
+2	at	at	IN	_	1	prep	_	O
+3	@utahjazz	@utahjazz	NNP	pos2=XX	5	compound	_	O
+4	Tiago	tiago	NNP	_	5	compound	_	B-PERSON
+5	Splitter	splitter	NNP	pos2=GW	2	pobj	_	L-PERSON
+6	out	out	RP	pos2=RB	7	advmod	_	O
+7	indefinitely	indefinitely	RB	_	1	advmod	_	O
+8	(	(	-LRB-	_	9	punct	_	O
+9	Hamstring	hamstring	NN	pos2=NNP	1	appos	_	O
+10	)	)	-RRB-	_	1	punct	_	O
+11	#sportsbetting	#sportsbetting	VBG	pos2=GW	12	nmod	_	O
+12	https://t.co/b1u5Dji42P	#hlink#	ADD	pos2=NN	0	root	_	O
+

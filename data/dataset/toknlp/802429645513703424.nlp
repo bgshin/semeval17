@@ -1,0 +1,26 @@
+1	@Mediaite	@mediaite	NNP	pos2=NNS	16	nsubj	_	O
+2	And	and	CC	_	1	cc	_	O
+3	once	once	RB	_	4	advmod	_	O
+4	again	again	RB	_	16	advmod	_	O
+5	,	,	,	_	16	punct	_	O
+6	whiny	whiny	JJ	_	9	nmod	_	O
+7	rich	rich	JJ	_	9	nmod	_	O
+8	white	white	JJ	_	9	nmod	_	O
+9	liberals	liberal	NNS	_	16	nsubj	_	O
+10	with	with	IN	_	9	prep	_	O
+11	their	their	PRP$	_	12	poss	_	O
+12	parent	parent	NN	_	15	poss	_	O
+13	's	's	POS	_	12	case	_	O
+14	credit	credit	NN	_	15	compound	_	O
+15	cards	card	NNS	_	10	pobj	_	O
+16	are	be	VBP	_	0	root	_	O
+17	out	out	PRP$	pos2=IN	18	poss	_	O
+18	money	money	NN	_	16	attr	_	O
+19	.	.	.	_	16	punct	_	O
+
+1	And	and	CC	_	3	cc	_	O
+2	today	today	NN	_	3	npadvmod	_	U-DATE
+3	was	be	VBD	_	0	root	_	O
+4	…	…	NFP	pos2=-LRB-	3	discourse	_	O
+5	https://t.co/G6DEpfNTum	#hlink#	ADD	_	3	attr	_	O
+

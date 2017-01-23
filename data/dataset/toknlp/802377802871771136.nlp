@@ -1,0 +1,23 @@
+1	@JohnGalvano	@johngalvano	UH	pos2=ADD	4	discourse	_	O
+2	@DrJillStein	@drjillstein	NNP	pos2=UH	4	vocative	_	O
+3	She	she	PRP	pos2=NNP	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	under	under	IN	_	4	prep	_	O
+6	the	the	DT	_	9	det	_	O
+7	Clinton	clinton	NNP	_	8	compound	_	O
+8	Foundation	foundation	NNP	_	9	compound	_	O
+9	umbrella	umbrella	NN	pos2=NNS	5	pobj	_	O
+10	now	now	RB	_	4	advmod	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	Only	only	RB	pos2=JJ	2	advmod	_	O
+2	explanation	explanation	NN	pos2=VB	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	her	her	PRP$	pos2=PRP	5	poss	_	O
+5	change	change	NN	_	3	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	heart	heart	NN	_	6	pobj	_	O
+8	towards	towards	IN	_	5	prep	_	O
+9	Hillary	hillary	NNP	_	8	pobj	_	U-PERSON
+10	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,16 @@
+1	You	you	PRP	_	4	nsubj	_	O
+2	Ca	can	MD	_	4	aux	_	O
+3	n’t	not	RB	_	4	neg	_	O
+4	Take	take	VB	_	0	root	_	O
+5	an	an	DT	_	7	det	_	O
+6	Uber	uber	NNP	_	7	compound	_	B-ORG
+7	Home	home	NNP	pos2=NN	4	dobj	_	L-ORG
+8	From	from	IN	_	4	prep	_	O
+9	These	these	DT	pos2=NNP	10	det	_	O
+10	Airports	airport	NNS	pos2=NNPS	8	pobj	_	O
+11	https://t.co/wjSsvLbezD	#hlink#	ADD	pos2=VBP	12	nsubj	_	O
+12	#traveltips	#traveltips	VBZ	pos2=NNS	4	advcl	_	O
+13	#travel	#travel	UH	pos2=GW	12	discourse	_	O
+14	#uber	#uber	UH	pos2=GW	12	discourse	_	O
+15	https://t.co/64TRIoxhTG	#hlink#	ADD	_	12	dobj	_	O
+

@@ -1,0 +1,21 @@
+1	Caught	catch	VBN	pos2=VBD	7	advcl	_	O
+2	on	on	IN	_	1	prep	_	O
+3	camera	camera	NN	_	2	pobj	_	O
+4	:	:	:	pos2=,	7	punct	_	O
+5	3	0	CD	_	6	nmod	_	U-CARDINAL
+6	Muslims	muslim	NNPS	pos2=NNS	7	nsubj	_	U-NORP
+7	seem	seem	VBP	_	0	root	_	O
+8	to	to	TO	_	9	aux	_	O
+9	start	start	VB	_	7	xcomp	_	O
+10	fire	fire	NN	_	9	dobj	_	O
+11	outside	outside	IN	pos2=RB	9	prep	_	O
+12	a	a	DT	_	14	det	_	O
+13	Jewish	jewish	JJ	_	14	nmod	_	U-NORP
+14	village	village	NN	_	11	pobj	_	O
+15	near	near	IN	pos2=RB	14	prep	_	O
+16	#Jerusalem	#jerusalem	NNP	pos2=NN	15	pobj	_	U-GPE
+17	...	..	.	pos2=,	7	punct	_	O
+
+1	https://t.co/XxW0IRjvGo	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/ru0kEGa5iF	#hlink#	ADD	_	0	root	_	U-ORG
+

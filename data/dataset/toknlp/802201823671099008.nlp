@@ -1,0 +1,31 @@
+1	If	if	IN	_	3	mark	_	O
+2	u	u	PRP	pos2=DT	3	nsubj	_	O
+3	request	request	VBP	pos2=NN	5	advcl	_	O
+4	#uberpool	#uberpool	XX	pos2=MD	3	prep	_	O
+5	n	n	VBG	pos2=POS	0	root	_	O
+6	u	u	XX	pos2=GW	5	dep	_	O
+7	r	r	XX	pos2=NN	3	dobj	_	O
+8	not	not	RB	_	9	neg	_	O
+9	in	in	IN	_	5	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	car	car	NN	_	9	pobj	_	O
+12	in	in	IN	_	7	prep	_	O
+13	2	0	CD	_	14	nmod	_	U-CARDINAL
+14	#minutes	#minutes	NNS	pos2=FW	12	pobj	_	O
+15	after	after	IN	_	7	prep	_	O
+16	arrival	arrival	NN	_	15	pobj	_	O
+17	.	.	.	_	16	punct	_	O
+
+1	Ur	ur	VB	pos2=NNP	5	discourse	_	O
+2	$	$	$	_	3	nmod	_	O
+3	2	0	CD	_	4	nmod	_	U-MONEY
+4	trip	trip	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	now	now	RB	_	5	advmod	_	O
+7	$	$	$	pos2=XX	9	qmod	_	O
+8	4.	0.	CD	pos2=LS	9	compound	_	U-MONEY
+9	#timeisvaluable	#timeisvaluable	CD	pos2=UH	5	attr	_	O
+10	#uber	#uber	UH	pos2=JJR	5	discourse	_	O
+11	#uberpool	#uberpool	UH	pos2=FW	5	discourse	_	O
+12	#respect	#respect	UH	pos2=.	5	discourse	_	O
+

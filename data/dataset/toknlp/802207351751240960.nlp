@@ -1,0 +1,19 @@
+1	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	6	prep	_	O
+2	@mike_pence	@mike_pence	IN	pos2=NN	1	prep	_	O
+3	@SpeakerRyan	@speakerryan	ADD	pos2=JJ	2	pobj	_	O
+4	@SenateMajLdr	@senatemajldr	ADD	pos2=XX	2	pobj	_	O
+5	@HouseGOP	@housegop	ADD	pos2=XX	2	pobj	_	O
+6	@SenateGOP	@senategop	ADD	pos2=XX	0	root	_	O
+7	@SenateDems	@senatedems	NNS	pos2=ADD	6	pobj	_	O
+8	That	that	DT	pos2=WDT	11	nsubj	_	O
+9	did	do	VBD	_	11	aux	_	O
+10	n't	not	RB	_	11	neg	_	O
+11	take	take	VB	_	7	relcl	_	O
+12	long	long	JJ	pos2=RB	14	nmod	_	O
+13	-	-	HYPH	_	14	punct	_	O
+14	GOP	gop	NNP	pos2=NN	16	advmod	_	U-ORG
+15	=	=	SYM	pos2=NN	17	punct	_	O
+16	Special	special	JJ	_	17	nmod	_	O
+17	interest	interest	NN	_	11	dobj	_	O
+18	.	.	.	_	1	punct	_	O
+

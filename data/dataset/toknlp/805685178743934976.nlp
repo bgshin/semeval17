@@ -1,0 +1,19 @@
+1	@JoyAnnReid	@joyannreid	FW	pos2=XX	4	dep	_	O
+2	@funder	@funder	IN	pos2=UH	4	mark	_	O
+3	@FBI	@fbi	NNP	pos2=NN	4	nsubj	_	O
+4	Owes	owe	VBZ	_	0	root	_	O
+5	American	american	JJ	pos2=NNP	6	nmod	_	U-NORP
+6	people	people	NNS	_	4	dative	_	O
+7	investigation	investigation	NN	pos2=VBP	4	dobj	_	O
+8	into	into	IN	_	7	prep	_	O
+9	Trump	trump	NNP	pos2=NN	10	compound	_	U-ORG
+10	affairs	affair	NNS	_	8	pobj	_	O
+11	as	as	RB	_	13	advmod	_	O
+12	well	well	RB	_	13	advmod	_	O
+13	as	as	IN	_	7	cc	_	O
+14	charges	charge	NNS	pos2=VBZ	10	conj	_	O
+15	on	on	IN	_	14	prep	_	O
+16	Cuba	cuba	NNP	_	17	compound	_	U-GPE
+17	Embargo	embargo	NNP	_	18	compound	_	O
+18	violations	violation	NNS	_	15	pobj	_	O
+

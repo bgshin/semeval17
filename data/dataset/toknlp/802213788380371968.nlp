@@ -1,0 +1,21 @@
+1	#FFRNN	#ffrnn	NN	pos2=ADD	4	compound	_	O
+2	#CLASSROOM	#classroom	NN	pos2=POS	3	compound	_	O
+3	GUEST	guest	NN	_	4	compound	_	O
+4	LECTURER	lecturer	NN	pos2=NNP	6	compound	_	O
+5	Neil	neil	NNP	_	6	compound	_	B-PERSON
+6	Cavuto	cavuto	NNP	_	8	dep	_	L-PERSON
+7	;	;	:	pos2=,	8	punct	_	O
+8	Apple	apple	NNP	_	0	root	_	U-ORG
+9	vs.	vs.	IN	pos2=CC	8	prep	_	O
+10	Government	government	NNP	pos2=NN	9	pobj	_	O
+11	(	(	-LRB-	_	8	punct	_	O
+12	A	a	DT	pos2=NNP	13	det	_	O
+13	Company	company	NNP	pos2=NN	8	appos	_	U-ORG
+14	that	that	WDT	_	15	nsubj	_	O
+15	Cares	care	VBZ	_	8	relcl	_	O
+16	vs	vs	CC	pos2=IN	15	cc	_	O
+17	#Obamacare	#obamacare	LS	pos2=AFX	15	conj	_	U-MONEY
+18	)	)	-RRB-	pos2=GW	17	punct	_	O
+19	https://t.co/ZMbbkCppjq	#hlink#	ADD	_	15	dep	_	O
+20	#uniteblue	#uniteblue	-RRB-	pos2=UH	19	punct	_	O
+

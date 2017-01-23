@@ -1,0 +1,18 @@
+1	"	"	``	pos2=SYM	3	punct	_	O
+2	Public	public	JJ	pos2=NNP	3	nmod	_	O
+3	Opinion	opinion	NN	pos2=NNP	0	root	_	O
+4	on	on	IN	_	3	prep	_	O
+5	Gay	gay	NNP	pos2=JJ	6	compound	_	B-ORG
+6	Marriage	marriage	NNP	pos2=NN	4	pobj	_	I-ORG
+7	in	in	IN	_	6	prep	_	I-ORG
+8	the	the	DT	_	13	det	_	I-ORG
+9	U.S.	u.s.	NNP	_	13	dep	_	I-ORG
+10	|	|	SYM	pos2=,	13	punct	_	I-ORG
+11	Pew	pew	NNP	_	13	compound	_	I-ORG
+12	Research	research	NNP	_	13	compound	_	I-ORG
+13	Center	center	NNP	_	7	pobj	_	I-ORG
+14	"	"	''	pos2=GW	3	punct	_	L-ORG
+15	(	(	-LRB-	_	16	punct	_	O
+16	https://t.co/iHw2sB4anU	#hlink#	ADD	_	3	appos	_	O
+17	)	)	-RRB-	_	16	punct	_	O
+

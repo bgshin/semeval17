@@ -1,0 +1,31 @@
+1	Trump	trump	NNP	pos2=NN	6	nsubjpass	_	U-ORG
+2	has	have	VBZ	_	6	aux	_	O
+3	n't	not	RB	_	6	neg	_	O
+4	even	even	RB	_	6	advmod	_	O
+5	been	be	VBN	_	6	auxpass	_	O
+6	sworn	swear	VBN	_	0	root	_	O
+7	in	in	RP	pos2=IN	6	prt	_	O
+8	yet	yet	RB	pos2=CC	6	advmod	_	O
+9	&	&	CC	_	6	cc	_	O
+10	the	the	DT	_	11	det	_	O
+11	media	medium	NNS	pos2=NN	12	nsubj	_	O
+12	wants	want	VBZ	_	6	conj	_	O
+13	to	to	TO	_	14	aux	_	O
+14	call	call	VB	_	12	xcomp	_	O
+15	potential	potential	JJ	pos2=NN	16	nmod	_	O
+16	saves	save	NNS	_	14	dobj	_	O
+17	,	,	,	_	16	punct	_	O
+18	failures	failure	NNS	_	16	conj	_	O
+19	.	.	.	_	12	punct	_	O
+
+1	Meanwhile	meanwhile	RB	_	6	advmod	_	O
+2	,	,	,	_	6	punct	_	O
+3	Obama	obama	NNP	_	4	compound	_	U-PERSON
+4	admin	admin	NN	_	6	nsubj	_	O
+5	still	still	RB	_	6	advmod	_	O
+6	blaming	blame	VBG	_	0	root	_	O
+7	sh*t	sh*t	PRP	pos2=NNS	6	dobj	_	O
+8	on	on	IN	_	6	prep	_	O
+9	Bush	bush	NNP	_	8	pobj	_	U-PERSON
+10	.	.	.	_	6	punct	_	O
+

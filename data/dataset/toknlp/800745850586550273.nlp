@@ -1,0 +1,31 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@DonaldJTrumpJr	@donaldjtrumpjr	VB	pos2=XX	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	@ScotGovFM	@scotgovfm	NN	pos2=NNP	4	nsubj	_	O
+4	is	be	VBZ	_	1	ccomp	_	O
+5	prepared	prepared	JJ	pos2=VBN	4	acomp	_	O
+6	to	to	TO	_	7	aux	_	O
+7	do	do	VB	_	5	xcomp	_	O
+8	a	a	DT	_	12	det	_	O
+9	deal	deal	NN	pos2=VB	11	compound	_	O
+10	-	-	HYPH	_	11	punct	_	O
+11	u	u	RP	pos2=POS	12	compound	_	O
+12	axe	axe	NN	pos2=JJ	7	dobj	_	O
+13	ur	ur	PRP$	pos2=JJ	14	poss	_	O
+14	wall	wall	NN	_	9	npadvmod	_	O
+15	on	on	IN	_	14	prep	_	O
+16	Mexican	mexican	JJ	_	17	nmod	_	U-NORP
+17	border	border	NN	_	15	pobj	_	O
+18	and	and	CC	_	4	cc	_	O
+19	we	we	PRP	_	21	nsubj	_	O
+20	'll	will	MD	_	21	aux	_	O
+21	get	get	VB	_	4	conj	_	O
+22	rid	rid	VBN	pos2=JJ	21	acomp	_	O
+23	of	of	IN	_	22	prep	_	O
+24	wind	wind	NN	_	25	compound	_	O
+25	farms	farm	NNS	_	23	pobj	_	O
+26	in	in	IN	_	25	prep	_	O
+27	Aberdeen	aberdeen	NNP	_	26	pobj	_	U-GPE
+28	!	!	.	_	21	punct	_	O
+

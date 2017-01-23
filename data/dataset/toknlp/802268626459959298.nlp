@@ -1,0 +1,17 @@
+1	Self-Driving	self-driving	JJ	pos2=VBG	2	nmod	_	O
+2	Cars	car	NNPS	pos2=NNS	5	nsubj	_	O
+3	Wo	wo	MD	_	5	aux	_	O
+4	n’t	not	RB	_	5	neg	_	O
+5	Work	work	VB	_	0	root	_	O
+6	Until	until	IN	_	8	mark	_	O
+7	We	we	PRP	_	8	nsubj	_	O
+8	Change	change	VBP	pos2=NNP	5	advcl	_	O
+9	Our	our	PRP$	pos2=NNP	10	poss	_	O
+10	Roads	road	NNS	pos2=NNPS	8	dobj	_	O
+11	—	-	,	pos2=:	5	punct	_	O
+12	And	and	CC	_	5	cc	_	O
+13	Attitudes	attitude	NNS	pos2=NNPS	16	dep	_	O
+14	-	-	:	pos2=.	16	punct	_	O
+15	>	>	SYM	pos2=-LRB-	16	punct	_	O
+16	https://t.co/eW1hA31uQX	#hlink#	ADD	pos2=NN	12	dep	_	O
+

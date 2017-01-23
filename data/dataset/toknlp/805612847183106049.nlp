@@ -1,0 +1,23 @@
+1	"	"	``	_	6	punct	_	O
+2	The	the	DT	_	3	det	_	O
+3	truth	truth	NN	_	0	root	_	O
+4	about	about	IN	_	3	prep	_	O
+5	Pope	pope	NNP	_	6	compound	_	O
+6	Francis	francis	NNP	_	4	pobj	_	U-PERSON
+7	and	and	CC	_	6	cc	_	O
+8	the	the	DT	_	10	det	_	B-ORG
+9	Jesuit	jesuit	NNP	_	10	compound	_	I-ORG
+10	Order	order	NNP	pos2=NN	6	conj	_	I-ORG
+11	"	"	''	pos2=``	10	punct	_	L-ORG
+12	Pastor	pastor	NNP	pos2=NN	14	compound	_	O
+13	Doug	doug	NNP	_	14	compound	_	B-PERSON
+14	Batch	batch	NNP	pos2=GW	15	dep	_	L-PERSON
+15	elorhttps://t.co/WmNM7l721NShare	#hlink#	ADD	pos2=CD	10	acl	_	O
+16	The	the	DT	_	17	det	_	O
+17	word	word	NN	_	15	dobj	_	O
+18	of	of	IN	_	17	prep	_	O
+19	GODTWEET	godtweet	NNP	pos2=NN	18	pobj	_	U-PERSON
+20	,	,	,	_	19	punct	_	O
+21	FRIENDS	friend	NNS	pos2=NNPS	19	conj	_	O
+22	,	,	,	_	21	punct	_	O
+

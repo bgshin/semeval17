@@ -1,0 +1,21 @@
+1	#GilmoreGirlsRevival	#gilmoregirlsrevival	NNP	pos2=ADD	2	compound	_	U-ORG
+2	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=XX	3	dep	_	O
+3	1.	0.	LS	pos2=NNP	16	meta	_	U-CARDINAL
+4	Luke	luke	NNP	_	8	nmod	_	O
+5	2.	0.	CD	pos2=NNP	4	nmod	_	U-CARDINAL
+6	Miss	miss	NNP	_	11	compound	_	O
+7	Patty	patty	NNP	_	9	compound	_	U-PERSON
+8	3.	0.	NNP	pos2=CD	13	compound	_	U-CARDINAL
+9	Mrs.	mrs.	NNP	_	13	compound	_	O
+10	Kim	kim	NNP	_	13	compound	_	U-PERSON
+11	4.	0.	NNP	pos2=POS	13	compound	_	U-CARDINAL
+12	Paul	paul	NNP	_	13	compound	_	B-PERSON
+13	Anka	anka	NNP	_	16	nsubj	_	L-PERSON
+14	Ca	can	MD	pos2=NNP	16	aux	_	O
+15	n't	not	RB	_	16	neg	_	O
+16	wait	wait	VB	_	0	root	_	O
+17	for	for	IN	_	16	prep	_	O
+18	this	this	DT	_	20	det	_	O
+19	Friday	friday	NNP	_	20	compound	_	O
+20	😁😁😁😁	😁😁😁😁	NNP	pos2=NN	17	pobj	_	O
+

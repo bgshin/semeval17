@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det	_	O
+2	feeling	feeling	NN	pos2=VBG	9	nsubj	_	O
+3	that	that	IN	pos2=WDT	6	mark	_	O
+4	you	you	PRP	_	6	nsubj	_	O
+5	really	really	RB	_	6	advmod	_	O
+6	MISS	miss	VBP	pos2=NNP	2	acl	_	O
+7	the	the	DT	_	8	det	_	O
+8	boys	boy	NNS	_	6	dobj	_	O
+9	@onedirection	@onedirection	VBP	pos2=POS	0	root	_	O
+10	#OneDirection	#onedirection	NN	pos2=ADD	9	dobj	_	O
+

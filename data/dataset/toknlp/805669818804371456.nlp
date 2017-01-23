@@ -1,0 +1,15 @@
+1	What	what	WP	_	4	dobj	_	O
+2	You	you	PRP	_	4	nsubj	_	O
+3	Should	should	MD	_	4	aux	_	O
+4	Know	know	VB	_	0	root	_	O
+5	About	about	IN	pos2=NNP	4	prep	_	O
+6	Flu	flu	NNP	pos2=NN	7	compound	_	O
+7	Vaccines	vaccine	NNS	pos2=NNP	5	pobj	_	O
+8	For	for	IN	_	4	prep	_	O
+9	Children	child	NNS	pos2=NNP	8	pobj	_	O
+10	by	by	IN	_	4	prep	_	O
+11	Juanita	juanita	NNP	_	12	compound	_	B-PERSON
+12	Swindell	swindell	NNP	_	10	pobj	_	L-PERSON
+13	https://t.co/hoH7xu4B3w	#hlink#	ADD	pos2=NNP	10	pobj	_	O
+14	#getconnected	#getconnected	-RRB-	pos2=ADD	4	punct	_	O
+

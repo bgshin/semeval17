@@ -1,0 +1,30 @@
+1	#NowPlaying	#nowplaying	VBG	pos2=``	9	nmod	_	O
+2	Bad	bad	JJ	pos2=NNP	3	nmod	_	O
+3	Hombres	hombres	NNP	pos2=NNS	7	nmod	_	U-PERSON
+4	,	,	,	_	7	punct	_	O
+5	Nasty	nasty	JJ	pos2=NNP	6	nmod	_	O
+6	Women	woman	NNS	pos2=NNP	7	compound	_	O
+7	Mix	mix	NNP	pos2=NN	9	nmod	_	O
+8	(	(	-LRB-	_	9	punct	_	O
+9	feat	feat	NN	_	0	root	_	O
+10	.	.	.	_	9	punct	_	O
+
+1	"	"	``	_	3	punct	_	O
+2	Weird	weird	JJ	pos2=NNP	3	nmod	_	O
+3	Al	al	NNP	_	18	nmod	_	O
+4	"	"	''	pos2=``	3	punct	_	O
+5	Yankovic	yankovic	NNP	_	3	appos	_	O
+6	)	)	-RRB-	pos2=''	3	punct	_	O
+7	by	by	IN	_	3	prep	_	O
+8	The	the	DT	pos2=NNP	10	det	_	B-ORG
+9	Gregory	gregory	NNP	_	10	compound	_	I-ORG
+10	Brothers	brother	NNPS	pos2=NNP	7	pobj	_	L-ORG
+11	,	,	,	_	10	punct	_	O
+12	"	"	``	pos2=''	10	punct	_	O
+13	Weird	weird	JJ	pos2=NNP	14	nmod	_	O
+14	Al	al	NNP	_	16	nmod	_	O
+15	"	"	''	pos2=``	16	punct	_	O
+16	Yankovic	yankovic	NNP	_	10	appos	_	O
+17	♫	♫	NFP	pos2=VBD	18	punct	_	O
+18	https://t.co/L64a2gVG0Q	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,19 @@
+1	#TrumpTransitionTeamTrump	#trumptransitionteamtrump	PRP$	pos2=NNP	2	poss	_	O
+2	Team	team	NNP	pos2=NN	3	nsubj	_	B-ORG
+3	Releases	release	VBZ	pos2=NNP	0	root	_	I-ORG
+4	Readout	readout	NNP	pos2=NN	3	dobj	_	I-ORG
+5	of	of	IN	_	4	prep	_	I-ORG
+6	Sat	sat	NNP	_	5	pobj	_	L-ORG
+7	.	.	.	_	3	punct	_	O
+
+1	’s	's	POS	pos2=VBZ	10	punct	_	O
+2	Meetings	meeting	NNS	pos2=NNPS	1	nsubj	_	O
+3	With	with	IN	_	2	prep	_	O
+4	Industry	industry	NNP	pos2=NN	3	pobj	_	O
+5	,	,	,	_	4	punct	_	O
+6	Defense	defense	NNP	pos2=NN	4	conj	_	O
+7	,	,	,	_	6	punct	_	O
+8	Education	education	NNP	pos2=NN	9	compound	_	U-ORG
+9	Leaders	leader	NNS	pos2=NNPS	10	dep	_	O
+10	https://t.co/BocI9SoCaj	#hlink#	ADD	pos2=VBP	0	root	_	O
+

@@ -1,0 +1,14 @@
+1	@JohnFugelsang	@johnfugelsang	ADD	pos2=XX	2	det	_	O
+2	@jeannemac01	@jeannemac0	NN	pos2=CD	12	dobj	_	O
+3	@jaketapper	@jaketapper	UH	pos2=IN	2	discourse	_	O
+4	@megynkelly	@megynkelly	UH	pos2=RB	2	discourse	_	O
+5	@chucktodd	@chucktodd	UH	pos2=IN	2	discourse	_	O
+6	Media	media	NNP	pos2=NNS	2	appos	_	U-ORG
+7	What	what	WP	pos2=WDT	9	det	_	O
+8	More	more	JJR	pos2=NNP	9	nmod	_	O
+9	Proof	proof	NN	pos2=NNP	12	dobj	_	O
+10	Do	do	VBP	_	12	aux	_	O
+11	You	you	PRP	_	12	nsubj	_	O
+12	Need	need	VB	_	0	root	_	O
+13	?	?	.	_	12	punct	_	O
+

@@ -1,0 +1,7 @@
+1	Love	love	NN	pos2=VB	6	dep	_	O
+2	and	and	CC	_	1	cc	_	O
+3	Books	book	NNS	pos2=NNP	1	conj	_	O
+4	and	and	CC	_	3	cc	_	O
+5	Valentines	valentine	NNS	pos2=NNP	3	conj	_	O
+6	https://t.co/dBQ9w3ZYeO	#hlink#	ADD	pos2=NNP	0	root	_	O
+

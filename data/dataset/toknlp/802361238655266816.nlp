@@ -1,0 +1,20 @@
+1	Obama	obama	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	expanded	expand	VBD	_	0	root	_	O
+3	the	the	DT	_	6	det	_	O
+4	Papahanaumokuakea	papahanaumokuakea	NNP	_	6	compound	_	O
+5	underwater	underwater	NN	pos2=JJ	6	compound	_	O
+6	reserve	reserve	NN	_	2	dobj	_	O
+7	by	by	IN	_	2	prep	_	O
+8	442,781	0	CD	_	10	nmod	_	B-QUANTITY
+9	sq	sq	NN	pos2=XX	10	compound	_	I-QUANTITY
+10	miles	mile	NNS	_	7	pobj	_	L-QUANTITY
+11	making	make	VBG	_	2	advcl	_	O
+12	it	it	PRP	_	13	nsubj	_	O
+13	one	#crd#	CD	_	11	ccomp	_	O
+14	of	of	IN	_	13	prep	_	O
+15	world	world	NN	_	19	poss	_	O
+16	’s	's	POS	_	15	case	_	O
+17	largest	large	JJS	_	19	nmod	_	O
+18	marine	marine	JJ	pos2=NN	19	nmod	_	O
+19	reserves#ThankYouObama	reserves#thankyouobama	NN	pos2=NNS	14	pobj	_	O
+

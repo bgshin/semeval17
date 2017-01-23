@@ -1,0 +1,21 @@
+1	Also	also	RB	_	12	advmod	_	O
+2	,	,	,	_	12	punct	_	O
+3	anyone	anyone	NN	_	12	nsubj	_	O
+4	who	who	WP	_	5	nsubj	_	O
+5	dares	dare	VBZ	_	3	relcl	_	O
+6	spoil	spoil	NN	pos2=VB	5	dobj	_	O
+7	the	the	DT	_	8	det	_	O
+8	ending	ending	NN	_	12	nsubj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	Westworld	westworld	NNP	_	9	pobj	_	U-ORG
+11	will	will	MD	_	12	aux	_	O
+12	suffer	suffer	VB	_	0	root	_	O
+13	a	a	DT	_	14	det	_	O
+14	fate	fate	NN	_	12	dobj	_	O
+15	worse	bad	JJR	_	12	advmod	_	O
+16	than	than	IN	_	15	prep	_	O
+17	a	a	DT	_	18	qmod	_	B-CARDINAL
+18	thousand	#crd#	CD	_	19	nmod	_	L-CARDINAL
+19	deaths	death	NNS	_	16	pobj	_	O
+20	...	..	.	pos2=:	12	punct	_	O
+

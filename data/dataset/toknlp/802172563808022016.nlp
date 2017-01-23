@@ -1,0 +1,24 @@
+1	These	these	DT	_	3	det	_	O
+2	gas	gas	NN	_	3	compound	_	O
+3	stations	station	NNS	_	4	nsubj	_	O
+4	need	need	VBP	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	have	have	VB	_	4	xcomp	_	O
+7	some	some	DT	_	9	det	_	O
+8	#blackfriday	#blackfriday	JJR	pos2=NN	9	nmod	_	O
+9	prices	price	NNS	_	6	dobj	_	O
+10	for	for	IN	_	9	prep	_	O
+11	#uber	#uber	PRP$	pos2=JJR	12	poss	_	O
+12	drivers	driver	NNS	_	16	poss	_	O
+13	#lbvs	#lbvs	POS	pos2=PRP	12	case	_	O
+14	Use	use	VB	pos2=VBP	23	dep	_	O
+15	my	my	PRP$	_	16	poss	_	O
+16	link	link	NN	_	14	dobj	_	O
+17	for	for	IN	_	14	prep	_	O
+18	$	$	$	_	19	nmod	_	O
+19	200	0	CD	_	23	dep	_	U-MONEY
+20	extra	extra	NN	pos2=CD	23	dep	_	O
+21	:	:	:	_	23	punct	_	O
+22	…	…	NFP	pos2=-LRB-	23	punct	_	O
+23	https://t.co/RffmjycDCQ	#hlink#	ADD	_	0	root	_	O
+

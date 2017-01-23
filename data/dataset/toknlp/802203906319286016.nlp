@@ -1,0 +1,17 @@
+1	Keep	keep	VB	_	8	advcl	_	O
+2	it	it	PRP	_	1	dobj	_	O
+3	up	up	RP	pos2=IN	1	prt	_	O
+4	#BlackLivesMatter	#blacklivesmatter	RB	pos2=NNP	1	advmod	_	U-ORDINAL
+5	,	,	,	_	8	punct	_	O
+6	you	you	PRP	_	8	nsubj	_	O
+7	'll	will	MD	_	8	aux	_	O
+8	ensure	ensure	VB	_	0	root	_	O
+9	a	a	DT	_	11	det	_	O
+10	@realDonaldTrump	@realdonaldtrump	NN	pos2=XX	11	compound	_	O
+11	victory	victory	NN	_	8	dobj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	2020	0	CD	_	14	nmod	_	B-TIME
+14	😉	😉	NNS	pos2=:	12	pobj	_	L-TIME
+15	#MAGA	#maga	ADD	pos2=NN	16	punct	_	O
+16	https://t.co/us4L3LR8Xx	#hlink#	ADD	_	11	nmod	_	O
+

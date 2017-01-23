@@ -1,0 +1,15 @@
+1	Georgia	georgia	NNP	pos2=NN	2	compound	_	U-GPE
+2	lawmaker	lawmaker	NN	_	3	nsubj	_	O
+3	proposes	propose	VBZ	_	8	ccomp	_	O
+4	hijab	hijab	NN	_	5	compound	_	O
+5	ban	ban	NN	pos2=FW	3	dobj	_	O
+6	,	,	,	_	8	punct	_	O
+7	then	then	RB	_	8	advmod	_	O
+8	withdraws	withdraw	VBZ	_	0	root	_	O
+9	after	after	IN	_	8	prep	_	O
+10	backlash	backlash	NN	_	9	pobj	_	O
+11	...	..	.	pos2=,	8	punct	_	O
+
+1	#NationalFastFoodDay	#nationalfastfoodday	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/rPTJ0Rdm0h	#hlink#	ADD	_	0	root	_	O
+

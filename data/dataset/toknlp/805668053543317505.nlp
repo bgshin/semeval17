@@ -1,0 +1,25 @@
+1	@GiGisMeBlog	@gigismeblog	NNP	pos2=VBG	2	compound	_	U-QUANTITY
+2	Things	thing	NNS	pos2=NNPS	4	nsubj	_	O
+3	are	be	VBP	_	4	aux	_	O
+4	hotting	hotting	VBG	_	0	root	_	O
+5	up	up	RP	pos2=RB	4	prt	_	O
+6	in	in	IN	_	4	prep	_	O
+7	Europe	europe	NNP	_	6	pobj	_	U-LOC
+8	too	too	RB	_	4	advmod	_	O
+9	...	..	.	_	4	punct	_	O
+
+1	people	people	NNS	_	3	nsubjpass	_	O
+2	are	be	VBP	_	3	auxpass	_	O
+3	fed	feed	VBN	pos2=VBG	0	root	_	O
+4	up	up	RP	_	3	prt	_	O
+5	with	with	IN	_	3	prep	_	O
+6	the	the	DT	_	9	det	_	O
+7	mass	mass	NN	pos2=JJ	8	compound	_	O
+8	immigration	immigration	NN	_	9	compound	_	O
+9	madness	madness	NN	_	5	pobj	_	O
+10	and	and	CC	_	9	cc	_	O
+11	the	the	DT	_	13	det	_	O
+12	Eurozone	eurozone	NNP	_	13	compound	_	U-ORG
+13	experiment	experiment	NN	_	9	conj	_	O
+14	.	.	.	_	3	punct	_	O
+

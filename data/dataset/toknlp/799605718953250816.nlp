@@ -1,0 +1,15 @@
+1	#NationalFastFoodDay	#nationalfastfoodday	UH	pos2=NN	5	discourse	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	care	care	VB	_	11	advcl	_	O
+6	,	,	,	_	11	punct	_	O
+7	I	I	PRP	_	11	nsubj	_	O
+8	do	do	VBP	_	11	aux	_	O
+9	n't	not	RB	_	11	neg	_	O
+10	really	really	RB	_	11	advmod	_	O
+11	like	like	VB	pos2=IN	0	root	_	O
+12	fast	fast	JJ	_	13	nmod	_	O
+13	food	food	NN	_	11	dobj	_	O
+14	...	..	.	pos2=,	11	punct	_	O
+

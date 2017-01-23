@@ -1,0 +1,9 @@
+1	Pichichi	pichichi	NNP	pos2=NN	8	dep	_	O
+2	of	of	IN	_	1	prep	_	O
+3	Europe	europe	NNP	_	4	compound	_	U-LOC
+4	#fcblive	#fcblive	NN	pos2=XX	2	pobj	_	O
+5	[	[	-LRB-	_	6	punct	_	O
+6	md	md	NN	pos2=GW	8	dep	_	O
+7	]	]	-RRB-	pos2=GW	6	punct	_	O
+8	https://t.co/YnZL1L5us9	#hlink#	ADD	_	0	root	_	O
+

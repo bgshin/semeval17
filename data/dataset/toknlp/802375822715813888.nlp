@@ -1,0 +1,8 @@
+1	watching	watch	VBG	_	0	root	_	O
+2	Michael	michael	NNP	_	3	compound	_	B-PERSON
+3	Moore	moore	NNP	_	1	dobj	_	L-PERSON
+4	in	in	IN	_	1	prep	_	O
+5	TrumpLand	trumpland	NNP	_	4	pobj	_	U-GPE
+6	on	on	IN	_	1	prep	_	O
+7	@Showtime	@showtime	NNP	pos2=NN	6	pobj	_	O
+

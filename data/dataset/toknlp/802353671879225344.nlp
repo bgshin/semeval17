@@ -1,0 +1,25 @@
+1	Interesting	interesting	JJ	_	2	nmod	_	O
+2	juxtaposition	juxtaposition	NN	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	story	story	NN	_	3	pobj	_	O
+5	&	&	CC	_	4	cc	_	O
+6	image	image	NN	_	4	conj	_	O
+7	as	as	IN	_	14	mark	_	O
+8	Kim	kim	NNP	_	11	compound	_	B-PERSON
+9	Jong	jong	NNP	_	11	compound	_	I-PERSON
+10	-	-	HYPH	_	11	punct	_	I-PERSON
+11	un	un	NNP	_	14	nsubj	_	L-PERSON
+12	has	have	VBZ	_	14	aux	_	O
+13	just	just	RB	_	14	advmod	_	O
+14	demanded	demand	VBN	_	2	advcl	_	O
+15	more	more	RBR	pos2=JJR	16	advmod	_	O
+16	involuntary	involuntary	JJ	_	18	nmod	_	O
+17	volunteer	volunteer	NN	_	18	compound	_	O
+18	work	work	NN	_	14	dobj	_	O
+19	from	from	IN	_	18	prep	_	O
+20	Women	women	NNP	pos2=NNS	22	poss	_	B-ORG
+21	's	's	POS	_	20	case	_	I-ORG
+22	Union	union	NNP	_	19	pobj	_	L-ORG
+23	vs.	vs.	CC	pos2=IN	18	cc	_	O
+24	sanctions	sanction	NNS	_	18	conj	_	O
+

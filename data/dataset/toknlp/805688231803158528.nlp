@@ -1,0 +1,20 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	have	have	VBP	_	0	root	_	O
+3	four	#crd#	CD	_	4	nmod	_	U-CARDINAL
+4	priorities	priority	NNS	_	2	dobj	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	Give	give	VB	_	0	root	_	O
+2	back	back	RB	pos2=RP	1	advmod	_	O
+3	to	to	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	French	french	NNP	pos2=NNPS	3	pobj	_	U-NORP
+6	their	their	PRP$	_	7	poss	_	O
+7	sovereignty	sovereignty	NN	_	1	dobj	_	O
+8	over	over	RB	pos2=IN	1	advmod	_	O
+9	...	..	.	pos2=,	1	punct	_	O
+
+1	#MarineLePen	#marinelepen	GW	pos2=XX	3	nmod	_	B-PERSON
+2	#quotes	#quotes	GW	pos2=NNS	3	nmod	_	L-PERSON
+3	https://t.co/YooAkKS38o	#hlink#	ADD	pos2=NN	0	root	_	O
+

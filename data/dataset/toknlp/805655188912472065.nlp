@@ -1,0 +1,15 @@
+1	@Chippum	@chippum	NNP	pos2=UH	7	vocative	_	B-ORG
+2	_	_	SYM	pos2=''	7	punct	_	L-ORG
+3	@H4ppySt1ck	@h0ppyst0ck	NN	pos2=NNP	7	dep	_	O
+4	did	do	VBD	_	7	aux	_	O
+5	n't	not	RB	_	7	neg	_	O
+6	he	he	PRP	_	7	nsubj	_	O
+7	move	move	VB	_	0	root	_	O
+8	because	because	IN	_	11	mark	_	O
+9	Gay	gay	NNP	pos2=JJ	10	compound	_	B-ORG
+10	Marriage	marriage	NNP	pos2=NN	11	nsubj	_	L-ORG
+11	is	be	VBZ	_	7	advcl	_	O
+12	legal	legal	JJ	pos2=RB	11	acomp	_	O
+13	now	now	RB	_	11	advmod	_	O
+14	?	?	.	_	7	punct	_	O
+

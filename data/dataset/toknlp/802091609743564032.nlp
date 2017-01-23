@@ -1,0 +1,10 @@
+1	The	the	DT	_	4	det	_	O
+2	latest	late	JJS	_	4	nmod	_	O
+3	Fashion	fashion	NN	pos2=NNP	4	compound	_	O
+4	Hub	hub	NNP	pos2=NN	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+
+1	https://t.co/3gtXiK7eUj	#hlink#	ADD	_	0	root	_	O
+2	#mannequinchallenge	#mannequinchallenge	-RRB-	pos2=XX	1	punct	_	O
+3	#beautyandthebeast	#beautyandthebeast	UH	pos2=-RRB-	1	discourse	_	O
+

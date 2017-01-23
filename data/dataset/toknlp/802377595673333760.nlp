@@ -1,0 +1,20 @@
+1	@surgesoda	@surgesoda	UH	pos2=ADD	6	discourse	_	O
+2	@Key2112E	@key0e	NN	pos2=GW	6	dep	_	O
+3	@MsBlaireWhite	@msblairewhite	ADD	pos2=JJ	6	punct	_	O
+4	obamacare	obamacare	NN	pos2=NNP	6	nsubj	_	O
+5	has	have	VBZ	_	6	aux	_	O
+6	weakened	weaken	VBN	_	0	root	_	O
+7	and	and	CC	_	6	cc	_	O
+8	put	put	VBN	pos2=VB	6	conj	_	O
+9	costs	cost	NNS	pos2=VBZ	8	dobj	_	O
+10	up	up	RB	pos2=IN	8	advmod	_	O
+11	of	of	IN	_	10	prep	_	O
+12	medicaid	medicaid	NN	pos2=NNP	11	pobj	_	O
+13	was	be	VBD	_	8	advcl	_	O
+14	allways	allways	RB	pos2=NNS	15	advmod	_	O
+15	there	there	RB	pos2=EX	13	advmod	_	O
+16	plan	plan	VB	pos2=VBP	13	advcl	_	O
+17	to	to	TO	_	18	aux	_	O
+18	kill	kill	VB	_	16	xcomp	_	O
+19	medicaid	medicaid	NN	pos2=NNS	18	dobj	_	O
+

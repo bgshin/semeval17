@@ -1,0 +1,24 @@
+1	Fossil	fossil	JJ	pos2=NN	2	nmod	_	O
+2	fuels	fuel	NNS	_	5	nsubj	_	O
+3	will	will	MD	_	5	aux	_	O
+4	still	still	RB	_	5	advmod	_	O
+5	provide	provide	VB	_	14	ccomp	_	O
+6	80	0	CD	_	7	nmod	_	B-PERCENT
+7	%	%	NN	_	5	dobj	_	L-PERCENT
+8	of	of	IN	_	7	prep	_	O
+9	global	global	JJ	_	11	nmod	_	O
+10	#energy	#energy	NN	pos2=FW	11	compound	_	O
+11	supply	supply	NN	_	8	pobj	_	O
+12	in	in	IN	_	5	prep	_	O
+13	2035	0	CD	_	12	pobj	_	U-DATE
+14	said	say	VBD	_	0	root	_	O
+15	Dr.	dr.	NNP	_	17	compound	_	O
+16	Eveloy	eveloy	NNP	_	17	compound	_	B-PERSON
+17	@PI_UAE	@pi_uae	NNP	pos2=POS	23	dep	_	L-PERSON
+18	at	at	IN	_	17	prep	_	O
+19	Network	network	NNP	_	21	poss	_	U-ORG
+20	’s	's	POS	_	19	case	_	O
+21	workshop	workshop	NN	pos2=GW	18	pobj	_	O
+22	…	…	NFP	pos2=-LRB-	23	punct	_	O
+23	https://t.co/s35sFtsTyE	#hlink#	ADD	_	14	ccomp	_	U-WORK_OF_ART
+

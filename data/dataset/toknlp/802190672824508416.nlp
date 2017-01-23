@@ -1,0 +1,23 @@
+1	New	new	JJ	pos2=NNP	2	nmod	_	O
+2	post	post	NN	pos2=IN	12	nsubjpass	_	O
+3	(	(	-LRB-	_	2	punct	_	O
+4	2013	0	CD	_	8	nmod	_	U-DATE
+5	Tesla	tesla	NNP	_	6	compound	_	B-ORG
+6	Model	model	NNP	pos2=NN	8	poss	_	I-ORG
+7	S	s	POS	pos2=NNP	6	case	_	I-ORG
+8	Review	review	NNP	pos2=NN	2	appos	_	L-ORG
+9	)	)	-RRB-	_	2	punct	_	O
+10	has	have	VBZ	_	12	aux	_	O
+11	been	be	VBN	_	12	auxpass	_	O
+12	published	publish	VBN	_	0	root	_	O
+13	on	on	IN	_	12	prep	_	O
+14	Auto	auto	NNP	_	15	compound	_	O
+15	Trend	trend	NNP	pos2=NN	16	compound	_	O
+16	US	us	NNP	_	13	pobj	_	O
+17	By	by	IN	_	12	agent	_	O
+18	Nauman	nauman	NNP	_	19	compound	_	B-PERSON
+19	Farooq	farooq	NNP	_	17	pobj	_	L-PERSON
+20	...	..	.	_	12	punct	_	O
+
+1	https://t.co/nXzofQI2p8	#hlink#	ADD	_	0	root	_	U-ORG
+

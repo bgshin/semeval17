@@ -1,0 +1,18 @@
+1	Having	have	VBG	_	10	csubj	_	O
+2	#carers	#carers	NNS	pos2=VBN	1	dobj	_	O
+3	on	on	IN	_	2	prep	_	O
+4	zero	#crd#	CD	_	6	nmod	_	B-TIME
+5	-	-	HYPH	_	6	punct	_	I-TIME
+6	hours	hour	NNS	pos2=JJ	7	compound	_	L-TIME
+7	contracts	contract	NNS	pos2=NN	3	pobj	_	O
+8	is	be	VBZ	_	10	aux	_	O
+9	not	not	RB	_	10	neg	_	O
+10	going	go	VBG	_	0	root	_	O
+11	to	to	TO	_	12	aux	_	O
+12	help	help	VB	_	10	xcomp	_	O
+13	the	the	DT	_	14	det	_	O
+14	#caresector	#caresector	GW	pos2=ADD	15	nmod	_	O
+15	https://t.co/wLx97UpSCZ	#hlink#	ADD	pos2=NN	12	dobj	_	O
+16	#healthcare	#healthcare	-RRB-	pos2=IN	10	punct	_	O
+17	#socialcare	#socialcare	UH	pos2=NN	10	discourse	_	O
+

@@ -1,0 +1,17 @@
+1	PURE	pure	JJ	_	2	nmod	_	O
+2	COMEDY	comedy	NN	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	From	from	IN	_	0	root	_	O
+2	a	a	DT	_	3	det	_	O
+3	supporter	supporter	NN	_	1	pobj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	#Hamas	#hamas	NNP	pos2=NNPS	4	pobj	_	B-ORG
+6	and	and	CC	_	5	cc	_	I-ORG
+7	Islamic	islamic	NNP	_	8	compound	_	I-ORG
+8	Jihad	jihad	NNP	_	5	conj	_	L-ORG
+9	.	.	.	_	8	punct	_	O
+
+1	@aliabunimah	@aliabunimah	UH	pos2=-LRB-	2	discourse	_	O
+2	https://t.co/2DZUL7LFI8	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,29 @@
+1	PHOTOS	photo	NNS	pos2=NN	13	dep	_	O
+2	:	:	:	_	13	punct	_	O
+3	From	from	IN	_	13	prep	_	O
+4	the	the	DT	_	6	det	_	B-ORG
+5	Rio	rio	NNP	_	6	compound	_	I-ORG
+6	Olympics	olympics	NNPS	pos2=NNP	3	pobj	_	L-ORG
+7	to	to	IN	_	3	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	Cubs	cub	NNPS	pos2=NNP	11	poss	_	U-ORG
+10	'	'	POS	pos2=''	9	case	_	O
+11	win	win	NN	pos2=VB	7	pobj	_	O
+12	,	,	,	_	13	punct	_	O
+13	take	take	VB	_	0	root	_	O
+14	a	a	DT	_	15	det	_	O
+15	look	look	NN	_	13	dobj	_	O
+16	back	back	RB	_	15	advmod	_	O
+17	at	at	IN	_	15	prep	_	O
+18	the	the	DT	_	21	det	_	O
+19	big	big	JJ	_	21	nmod	_	O
+20	sports	sport	NNS	_	21	compound	_	O
+21	events	event	NNS	_	17	pobj	_	O
+22	of	of	IN	_	21	prep	_	O
+23	2016	0	CD	_	22	pobj	_	U-DATE
+24	.	.	.	_	13	punct	_	O
+
+1	#yearinreview	#yearinreview	UH	pos2=GW	3	discourse	_	O
+2	…	…	NFP	pos2=-LRB-	3	punct	_	O
+3	https://t.co/uRwE6RB7Df	#hlink#	ADD	pos2=NN	0	root	_	O
+

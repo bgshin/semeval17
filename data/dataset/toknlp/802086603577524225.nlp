@@ -1,0 +1,34 @@
+1	TRUMP	trump	NN	_	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	Sanctions	sanction	NNS	_	5	nsubj	_	O
+4	will	will	MD	_	5	aux	_	O
+5	have	have	VB	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	go	go	VB	_	5	xcomp	_	O
+8	.	.	.	_	5	punct	_	O
+
+1	Putin	putin	NNP	_	2	nsubj	_	U-PERSON
+2	's	's	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	great	great	JJ	_	5	nmod	_	O
+5	guy	guy	NN	_	2	attr	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	POROSHENKO	poroshenko	NN	pos2=FW	5	dep	_	U-PERSON
+2	:	:	:	_	5	punct	_	O
+3	I	I	PRP	_	5	nsubj	_	O
+4	'll	will	MD	_	5	aux	_	O
+5	give	give	VB	_	0	root	_	O
+6	you	you	PRP	_	5	dative	_	O
+7	a	a	DT	_	9	det	_	O
+8	chocolate	chocolate	NN	_	9	compound	_	O
+9	factory	factory	NN	_	5	dobj	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	TRUMP	trump	NN	_	3	dep	_	O
+2	:	:	:	_	3	punct	_	O
+3	DEATH	death	NN	_	0	root	_	O
+4	TO	to	IN	_	3	prep	_	O
+5	PUTIN	putin	NNP	_	4	pobj	_	U-PERSON
+6	!	!	.	_	3	punct	_	O
+

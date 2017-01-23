@@ -1,0 +1,15 @@
+1	@LincolnDBalart	@lincolndbalart	ADD	pos2=NN	2	nsubj	_	O
+2	@TXCupCake	@txcupcake	VBP	pos2=VB	0	root	_	O
+3	Out	out	IN	_	2	prep	_	O
+4	of	of	IN	_	3	prep	_	O
+5	curiosity	curiosity	NN	_	4	pobj	_	O
+6	,	,	,	_	5	punct	_	O
+7	where	where	WRB	_	10	advmod	_	O
+8	does	do	VBZ	_	10	aux	_	O
+9	Maduro	maduro	NNP	_	10	nsubj	_	U-PERSON
+10	sit	sit	VB	_	5	relcl	_	O
+11	on	on	IN	_	10	prep	_	O
+12	this	this	DT	_	13	det	_	O
+13	scale	scale	NN	_	11	pobj	_	O
+14	?	?	.	_	2	punct	_	O
+

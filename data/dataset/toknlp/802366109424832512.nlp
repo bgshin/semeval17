@@ -1,0 +1,21 @@
+1	Who	who	WP	_	3	nsubj	_	O
+2	will	will	MD	_	3	aux	_	O
+3	serve	serve	VB	_	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	President	president	NNP	_	7	compound	_	O
+6	-	-	HYPH	_	7	punct	_	O
+7	elect	elect	NNP	_	8	compound	_	O
+8	Trump	trump	NNP	pos2=NN	10	poss	_	U-ORG
+9	's	's	POS	_	8	case	_	O
+10	Cabinet	cabinet	NNP	_	4	pobj	_	U-ORG
+11	?	?	.	_	3	punct	_	O
+
+1	11-25-16	0	CD	pos2=LS	3	dep	_	U-CARDINAL
+2	-	-	HYPH	pos2=:	3	punct	_	O
+3	News	news	NNP	pos2=NN	8	dep	_	O
+4	US	us	NNP	_	8	dep	_	U-GPE
+5	UK	uk	NNP	_	8	dep	_	U-GPE
+6	CA	ca	NNP	pos2=GW	7	compound	_	O
+7	AU	au	NNP	pos2=GW	8	nmod	_	O
+8	https://t.co/d3WgCOxy9A	#hlink#	ADD	pos2=NN	0	root	_	O
+

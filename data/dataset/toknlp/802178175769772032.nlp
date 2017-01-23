@@ -1,0 +1,17 @@
+1	@ben300	@ben0	NN	pos2=LS	2	dep	_	O
+2	@ocaritna	@ocaritna	LS	pos2=IN	11	meta	_	O
+3	Little	little	JJ	pos2=NNP	6	nmod	_	O
+4	early	early	RB	pos2=JJ	1	advmod	_	O
+5	for	for	IN	_	4	prep	_	O
+6	valentines	valentine	NNS	_	5	pobj	_	O
+7	,	,	,	_	2	punct	_	O
+8	but	but	CC	_	2	cc	_	O
+9	I	I	PRP	_	11	nsubj	_	O
+10	'll	will	MD	_	11	aux	_	O
+11	take	take	VB	_	0	root	_	O
+12	it	it	PRP	_	11	dobj	_	O
+13	!	!	.	_	11	punct	_	O
+
+1	<	<	SYM	_	2	punct	_	O
+2	3	0	CD	_	0	root	_	O
+

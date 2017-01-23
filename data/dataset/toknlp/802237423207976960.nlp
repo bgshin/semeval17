@@ -1,0 +1,15 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	Grateful	grateful	JJ	_	2	acomp	_	O
+4	for	for	IN	_	3	prep	_	O
+5	8	0	CD	_	6	nmod	_	B-DATE
+6	Yrs	yr	NNS	_	4	pobj	_	L-DATE
+7	of	of	IN	_	6	prep	_	O
+8	President	president	NNP	_	9	compound	_	O
+9	Obama	obama	NNP	_	10	compound	_	U-PERSON
+10	T-shirt	t-shirt	NN	pos2=NNP	7	pobj	_	O
+11	https://t.co/pScljiLtyU	#hlink#	ADD	_	10	appos	_	O
+12	#obama	#obama	-RRB-	pos2=IN	11	punct	_	O
+13	#thankyouobama	#thankyouobama	UH	pos2=FW	2	discourse	_	O
+14	#presidentobama	#presidentobama	UH	pos2=NN	2	discourse	_	O
+

@@ -1,0 +1,25 @@
+1	Buy	buy	VB	pos2=NNP	0	root	_	O
+2	VAMAA	vamaa	NN	pos2=NNP	1	dobj	_	O
+3	3	0	CD	_	24	dep	_	U-CARDINAL
+4	D	d	NNP	pos2=NN	24	dep	_	B-ORG
+5	Printing	printing	NNP	pos2=NN	24	dep	_	I-ORG
+6	Pen	pen	NNP	_	24	dep	_	L-ORG
+7	1.75	0	CD	_	8	nmod	_	B-QUANTITY
+8	mm	mm	NNS	pos2=NN	10	compound	_	L-QUANTITY
+9	ABS	abs	NNP	pos2=NN	10	compound	_	B-ORG
+10	Filament	filament	NN	pos2=NNP	24	dep	_	L-ORG
+11	10	0	CD	_	12	nmod	_	B-QUANTITY
+12	m	m	NNS	pos2=CD	10	npadvmod	_	L-QUANTITY
+13	(	(	-LRB-	_	15	punct	_	O
+14	0.25*40	0*0	NN	pos2=CD	15	compound	_	O
+15	Strands	strand	NNS	pos2=NNP	12	appos	_	O
+16	)	)	-RRB-	_	15	punct	_	O
+17	(	(	-LRB-	_	19	punct	_	O
+18	Snow	snow	NNP	pos2=NN	19	compound	_	B-PERSON
+19	White	white	NNP	pos2=JJ	10	appos	_	L-PERSON
+20	)	)	-RRB-	_	19	punct	_	O
+21	at	at	IN	_	1	prep	_	O
+22	Rs.	rs.	NNP	_	21	pobj	_	O
+23	299.00	0	CD	_	24	dep	_	U-MONEY
+24	https://t.co/Kf9xcJr4uG	#hlink#	ADD	_	1	dep	_	O
+

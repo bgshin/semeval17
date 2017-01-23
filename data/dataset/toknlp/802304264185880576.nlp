@@ -1,0 +1,19 @@
+1	#Spurs	#spurs	NNS	pos2=VBZ	2	nsubj	_	O
+2	#GoSpursGo	#gospursgo	VBD	pos2=VBP	0	root	_	O
+3	2008	0	CD	_	5	nmod	_	U-CARDINAL
+4	Fleer	fleer	NNP	pos2=NN	5	compound	_	U-ORG
+5	#	#	NN	_	2	npadvmod	_	O
+6	116	0	CD	pos2=LS	5	nmod	_	U-MONEY
+7	Tim	tim	NNP	_	8	compound	_	B-PERSON
+8	Duncan	duncan	NNP	_	9	compound	_	L-PERSON
+9	PSA	psa	NN	pos2=NNP	10	nsubj	_	O
+10	10	0	CD	_	5	nmod	_	U-CARDINAL
+11	Gem	gem	NNP	pos2=NN	12	nmod	_	B-ORG
+12	Mint	mint	NNP	pos2=NN	14	nmod	_	L-ORG
+13	Low	low	JJ	pos2=NNP	14	nmod	_	O
+14	POP	pop	NN	_	18	nmod	_	O
+15	4	0	CD	pos2=GW	16	dep	_	U-CARDINAL
+16	https://t.co/13k9wRurKU	#hlink#	ADD	_	18	nmod	_	O
+17	#TimDuncan	#timduncan	ADD	pos2=-RRB-	0	root	_	U-ORG
+18	#NBA	#nba	NN	pos2=ADD	17	pobj	_	O
+

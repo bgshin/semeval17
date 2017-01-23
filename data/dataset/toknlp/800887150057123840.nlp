@@ -1,0 +1,32 @@
+1	Hey	hey	UH	_	3	discourse	_	O
+2	#TrumpTransitionTeam	#trumptransitionteam	NN	pos2=ADD	3	compound	_	O
+3	thanks	thanks	NNS	pos2=NN	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	follow	follow	NN	_	4	pobj	_	O
+7	!	!	.	_	3	punct	_	O
+
+1	We	we	PRP	_	3	nsubj	_	O
+2	must	must	MD	_	3	aux	_	O
+3	do	do	VB	_	0	root	_	O
+4	all	all	DT	_	3	dobj	_	O
+5	we	we	PRP	_	6	nsubj	_	O
+6	can	can	MD	_	4	relcl	_	O
+7	to	to	TO	_	8	aux	_	O
+8	stop	stop	VB	_	3	advcl	_	O
+9	Soros	soros	NNP	pos2=NNPS	8	dobj	_	U-PERSON
+10	and	and	CC	_	9	cc	_	O
+11	the	the	DT	_	12	det	_	O
+12	establishment	establishment	NN	_	9	conj	_	O
+13	!	!	.	_	3	punct	_	O
+
+1	follow	follow	VB	_	0	root	_	O
+2	me	me	PRP	_	1	dobj	_	O
+3	on	on	IN	_	1	prep	_	O
+4	gab	gab	NN	_	3	pobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	ai	be	VBP	pos2=VB	0	root	_	O
+2	stopsorosnow	stopsorosnow	NN	pos2=RB	1	nsubj	_	O
+3	.	.	.	_	1	punct	_	O
+

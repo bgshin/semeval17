@@ -1,0 +1,9 @@
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	2	compound	_	O
+2	#thankyouJesus	#thankyoujesus	NNP	pos2=NNS	5	nsubj	_	O
+3	May	may	MD	pos2=NNP	5	aux	_	O
+4	God	god	NNP	_	5	nsubj	_	O
+5	Bless	bless	VB	pos2=NNP	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	Obamas	obamas	NNPS	pos2=NNP	5	dobj	_	U-NORP
+8	https://t.co/z6wMxp1cFZ	#hlink#	ADD	_	5	dobj	_	O
+

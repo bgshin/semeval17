@@ -1,0 +1,26 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	liked	like	VBD	_	0	root	_	O
+4	“	"	``	_	3	punct	_	O
+5	THE	the	DT	_	6	det	_	O
+6	FREEWHEELIN	freewheelin	NNP	pos2=NN	9	poss	_	U-PERSON
+7	'	'	POS	pos2=''	6	case	_	O
+8	MUSIC	music	NN	pos2=JJ	9	compound	_	O
+9	DOCUMENTARY	documentary	NN	pos2=NNP	19	nsubj	_	O
+10	:	:	:	_	12	punct	_	O
+11	D.A.	d.a.	NNP	_	12	compound	_	O
+12	PENNEBAKER	pennebaker	NNP	pos2=NN	9	appos	_	O
+13	ON	on	IN	pos2=NNP	12	prep	_	O
+14	BOB	bob	NNP	_	15	compound	_	B-PERSON
+15	DYLAN	dylan	NNP	_	13	pobj	_	L-PERSON
+16	AND	and	CC	_	20	aux	_	O
+17	DO	do	VB	pos2=VBP	19	aux	_	O
+18	NT	nt	RB	pos2=VBN	19	advmod	_	O
+19	LOOK	look	VB	_	3	ccomp	_	O
+20	BACK	back	RB	pos2=NN	19	advmod	_	O
+21	”	"	''	pos2=``	19	punct	_	O
+22	on	on	IN	_	19	prep	_	O
+23	#Vimeo	#vimeo	NNP	pos2=CD	22	pobj	_	O
+24	:	:	:	_	19	punct	_	O
+25	https://t.co/Z5YyDFtdfD	#hlink#	ADD	pos2=NN	19	dep	_	O
+

@@ -1,0 +1,15 @@
+1	Sodastream:.How	sodastream:.how	NNP	pos2=NN	3	nsubj	_	U-ORG
+2	to	to	TO	_	3	aux	_	O
+3	profit	profit	VB	pos2=NN	0	root	_	O
+4	from	from	IN	_	3	prep	_	O
+5	Occupation	occupation	NNP	pos2=NN	4	pobj	_	U-EVENT
+6	,	,	,	_	5	punct	_	O
+7	Oppression	oppression	NNP	pos2=NN	5	conj	_	O
+8	,	,	,	_	7	punct	_	O
+9	Apartheid	apartheid	NN	pos2=NNP	10	dep	_	O
+10	https://t.co/K47bTCNFnp	#hlink#	ADD	pos2=NN	5	appos	_	O
+11	#gaza	#gaza	IN	pos2=-RRB-	10	prep	_	O
+12	#palestine	#palestine	UH	pos2=PRP	11	discourse	_	O
+13	#israel	#israel	UH	pos2=VB	11	discourse	_	O
+14	#BDS	#bds	NNS	pos2=UH	11	pobj	_	O
+

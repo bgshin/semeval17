@@ -1,0 +1,13 @@
+1	@Its_Tolerance	@its_tolerance	NN	pos2=ADD	6	discourse	_	O
+2	@OMGItsBirdman	@omgitsbirdman	ADD	pos2=NN	6	punct	_	B-PERSON
+3	@Noteful	@noteful	NNP	pos2=FW	6	punct	_	L-PERSON
+4	_	_	SYM	pos2=-RRB-	6	punct	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	want	want	VBP	_	0	root	_	O
+7	Zac	zac	NNP	_	8	compound	_	B-PERSON
+8	Efron	efron	NNP	_	10	nsubj	_	L-PERSON
+9	to	to	TO	_	10	aux	_	O
+10	play	play	VB	_	6	ccomp	_	O
+11	me	me	PRP	_	10	dobj	_	O
+12	.	.	.	_	6	punct	_	O
+

@@ -1,0 +1,13 @@
+1	#newhavenbulldogs	#newhavenbulldogs	UH	pos2=NNS	3	discourse	_	O
+2	#mannequinchallenge	#mannequinchallenge	UH	pos2=NN	3	discourse	_	O
+3	have	have	VB	pos2=VBP	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	little	little	JJ	_	6	nmod	_	O
+6	fun	fun	NN	_	3	dobj	_	O
+7	after	after	IN	_	3	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	hard	hard	JJ	_	10	nmod	_	O
+10	work	work	NN	pos2=GW	7	pobj	_	O
+11	…	…	NFP	pos2=-LRB-	12	punct	_	O
+12	https://t.co/gNc6JSxlJm	#hlink#	ADD	_	3	dep	_	U-ORG
+

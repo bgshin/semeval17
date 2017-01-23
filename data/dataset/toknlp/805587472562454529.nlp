@@ -1,0 +1,29 @@
+1	@Shane106320	@shane0	NN	pos2=NNS	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Holy	holy	JJ	pos2=NNP	4	nmod	_	O
+4	fuck	fuck	NN	pos2=UH	6	dep	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	're	be	VBP	_	0	root	_	O
+7	stupid	stupid	JJ	_	6	acomp	_	O
+8	.	.	.	_	6	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	link	link	NN	_	3	nsubj	_	O
+3	was	be	VBD	_	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	Tweet	tweet	NNP	pos2=NN	4	pobj	_	U-PRODUCT
+7	u	u	PRP	pos2=NN	8	nsubj	_	O
+8	quoted	quote	VBD	pos2=VBN	3	advcl	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	Have	have	VBP	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	considered	consider	VBN	_	0	root	_	O
+4	Colorado	colorado	NNP	_	8	poss	_	U-GPE
+5	's	's	POS	_	4	case	_	O
+6	new	new	JJ	_	8	nmod	_	O
+7	euthanasia	euthanasia	NN	_	8	compound	_	O
+8	program	program	NN	_	3	dobj	_	O
+9	?	?	.	_	3	punct	_	O
+

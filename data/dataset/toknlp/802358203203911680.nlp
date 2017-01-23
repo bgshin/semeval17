@@ -1,0 +1,32 @@
+1	@yashar	@yashar	UH	pos2=XX	4	discourse	_	O
+2	@Delta	@delta	UH	pos2=NNP	4	discourse	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	think	think	VBP	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	#recount	#recount	NN	pos2=NNP	7	nsubj	_	O
+7	got	get	VBD	_	4	ccomp	_	O
+8	the	the	DT	_	9	det	_	O
+9	deplorables	deplorables	NNS	pos2=NN	7	dobj	_	O
+10	a	a	DT	_	11	det	_	O
+11	bit	bit	NN	_	7	npadvmod	_	O
+12	on	on	IN	_	7	prep	_	O
+13	edge	edge	NN	_	12	pobj	_	O
+14	.	.	.	_	4	punct	_	O
+
+1	There	there	EX	_	2	expl	_	O
+2	are	be	VBP	_	0	root	_	O
+3	more	more	JJR	_	2	attr	_	O
+4	of	of	IN	_	3	prep	_	O
+5	us	us	PRP	pos2=NNP	4	pobj	_	O
+6	,	,	,	_	2	punct	_	O
+7	honey	honey	NN	_	2	vocative	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	Did	do	VBD	_	4	aux	_	O
+2	n't	not	RB	_	4	neg	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	hear	hear	VB	_	0	root	_	O
+5	?	?	.	_	4	punct	_	O
+
+1	#notmypresident	#notmypresident	UH	pos2=ADD	0	root	_	O
+

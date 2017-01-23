@@ -1,0 +1,19 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	time	time	NN	_	2	attr	_	O
+4	for	for	IN	_	3	prep	_	O
+5	Nancy	nancy	NNP	_	6	compound	_	B-PERSON
+6	Pelosi	pelosi	NNP	_	4	pobj	_	L-PERSON
+7	and	and	CC	_	6	cc	_	O
+8	Dem	dem	NNP	pos2=NN	6	conj	_	U-PERSON
+9	.	.	.	_	2	punct	_	O
+
+1	House	house	NNP	pos2=NN	2	compound	_	U-ORG
+2	leadership	leadership	NN	_	0	root	_	O
+3	to	to	IN	pos2=TO	2	prep	_	O
+4	go.#p2	go.#p0	NNP	pos2=CD	5	compound	_	B-PERSON
+5	#UniteBlue	#uniteblue	NNP	pos2=NN	3	pobj	_	L-PERSON
+6	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/sICy6RVlkp	#hlink#	ADD	_	0	root	_	U-ORG
+

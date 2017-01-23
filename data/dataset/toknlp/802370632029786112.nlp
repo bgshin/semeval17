@@ -1,0 +1,24 @@
+1	@amjoyshow	@amjoyshow	UH	pos2=VB	7	discourse	_	O
+2	@SpeakerRyan	@speakerryan	UH	pos2=VB	7	discourse	_	O
+3	what	what	WP	pos2=WDT	5	det	_	O
+4	a	a	DT	_	5	det	_	O
+5	joke	joke	NN	_	7	attr	_	O
+6	this	this	DT	_	7	nsubj	_	O
+7	is	be	VBZ	_	0	root	_	O
+8	&	&	CC	_	7	cc	_	O
+9	trump	trump	NN	_	10	nsubj	_	O
+10	says	say	VBZ	_	7	conj	_	O
+11	@realDonaldTrump	@realdonaldtrump	IN	pos2=``	15	mark	_	O
+12	I	I	PRP	_	15	nsubj	_	O
+13	will	will	MD	_	15	aux	_	O
+14	not	not	RB	_	15	neg	_	O
+15	touch	touch	VB	_	10	ccomp	_	O
+16	medicare	medicare	NN	pos2=RBR	15	dobj	_	O
+17	or	or	CC	_	16	cc	_	O
+18	social	social	JJ	_	19	nmod	_	O
+19	security	security	NN	_	16	conj	_	O
+20	which	which	WDT	_	21	det	_	O
+21	one	#crd#	CD	pos2=NN	22	nsubj	_	O
+22	is	be	VBZ	_	18	ccomp	_	O
+23	it	it	PRP	_	22	nsubj	_	O
+

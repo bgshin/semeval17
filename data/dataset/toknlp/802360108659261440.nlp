@@ -1,0 +1,25 @@
+1	the	the	DT	_	2	det	_	O
+2	problem	problem	NN	_	6	attr	_	O
+3	w	w	IN	pos2=RB	2	prep	_	O
+4	/	/	HYPH	pos2=:	3	punct	_	O
+5	this	this	DT	_	6	nsubj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	it	it	PRP	_	8	nsubj	_	O
+8	gives	give	VBZ	_	6	ccomp	_	O
+9	Trump	trump	NNP	_	8	dative	_	U-ORG
+10	a	a	DT	_	11	det	_	O
+11	motivation	motivation	NN	_	8	dobj	_	O
+12	to	to	TO	_	13	aux	_	O
+13	keep	keep	VB	_	11	acl	_	O
+14	Melania	melania	NNP	pos2=NN	13	dobj	_	U-PERSON
+15	in	in	IN	_	13	prep	_	O
+16	Trump	trump	NNP	_	17	compound	_	B-ORG
+17	Tower	tower	NNP	_	15	pobj	_	L-ORG
+18	if	if	IN	_	21	mark	_	O
+19	he	he	PRP	_	21	nsubj	_	O
+20	might	might	MD	_	21	aux	_	O
+21	profit	profit	VB	_	24	advcl	_	O
+22	from	from	IN	_	21	prep	_	O
+23	it	it	PRP	_	22	pobj	_	O
+24	https://t.co/NM0TtTJEp4	#hlink#	ADD	_	0	root	_	O
+

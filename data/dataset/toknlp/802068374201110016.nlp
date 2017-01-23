@@ -1,0 +1,16 @@
+1	Early	early	RB	pos2=JJ	2	advmod	_	O
+2	start	start	VB	pos2=NN	0	root	_	O
+3	4	0	CD	_	4	nmod	_	U-CARDINAL
+4	@karlkingov	@karlkingov	NNS	pos2=RB	2	dobj	_	O
+5	this	this	DT	_	6	det	_	B-TIME
+6	morning	morning	NN	_	2	npadvmod	_	L-TIME
+7	chatting	chat	VBG	_	2	xcomp	_	O
+8	about	about	IN	pos2=RB	7	prep	_	O
+9	@SPARIreland	@sparireland	NNP	pos2=$	8	pobj	_	O
+10	#panto	#panto	IN	pos2=UH	7	prep	_	O
+11	#beautyandthebeast	#beautyandthebeast	XX	pos2=NN	10	pobj	_	O
+12	with	with	IN	_	7	prep	_	O
+13	@pjgallagher	@pjgallagher	GW	pos2=XX	12	pobj	_	O
+14	…	…	NFP	pos2=GW	15	punct	_	O
+15	https://t.co/Qd85AsX6By	#hlink#	ADD	pos2=NN	2	dep	_	O
+

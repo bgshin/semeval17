@@ -1,0 +1,18 @@
+1	@LifeLessonsOK	@lifelessonsok	VB	pos2=JJ	0	root	_	O
+2	social	social	JJ	_	3	nmod	_	O
+3	security	security	NN	_	4	compound	_	O
+4	card	card	NN	_	1	dobj	_	O
+5	?	?	.	_	1	punct	_	O
+
+1	Bank	bank	NNP	pos2=NN	2	compound	_	U-ORG
+2	account	account	NN	pos2=VB	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	Just	just	RB	_	2	advmod	_	O
+2	throwing	throw	VBG	_	0	root	_	O
+3	some	some	DT	_	4	det	_	O
+4	options	option	NNS	_	2	dobj	_	O
+5	out	out	RB	pos2=IN	6	advmod	_	O
+6	there	there	RB	_	2	advmod	_	O
+7	.	.	.	_	2	punct	_	O
+

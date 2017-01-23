@@ -1,0 +1,12 @@
+1	Ukraine	ukraine	NNP	_	2	nsubj	_	U-GPE
+2	pres	pres	VBZ	pos2=NNP	0	root	_	O
+3	Poroshenko	poroshenko	NNP	pos2=FW	4	npadvmod	_	U-ORG
+4	confident	confident	JJ	pos2=NN	2	acomp	_	O
+5	of	of	IN	_	4	prep	_	O
+6	US	us	NNP	_	7	compound	_	U-GPE
+7	support	support	NN	pos2=VBP	5	pobj	_	O
+8	after	after	IN	_	7	prep	_	O
+9	Trump	trump	NNP	pos2=NN	10	compound	_	U-PERSON
+10	victory	victory	NN	_	8	pobj	_	O
+11	https://t.co/sjknp1xdb9	#hlink#	ADD	_	2	dobj	_	O
+

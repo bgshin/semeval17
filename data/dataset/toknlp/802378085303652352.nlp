@@ -1,0 +1,25 @@
+1	#RIP16	#rip0	NN	pos2=NNS	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Glen	glen	NNP	_	4	compound	_	B-PERSON
+4	Frey	frey	NNP	_	0	root	_	L-PERSON
+5	,	,	,	_	4	punct	_	O
+6	David	david	NNP	_	7	compound	_	B-PERSON
+7	Bowie	bowie	NNP	_	4	appos	_	L-PERSON
+8	,	,	,	_	7	punct	_	O
+9	PRINCE	prince	NNP	pos2=NN	7	conj	_	O
+10	,	,	,	_	9	punct	_	O
+11	Leonard	leonard	NNP	_	12	compound	_	B-PERSON
+12	Cohen	cohen	NNP	_	9	conj	_	L-PERSON
+13	,	,	,	_	12	punct	_	O
+14	Leon	leon	NNP	_	15	compound	_	B-PERSON
+15	Russell	russell	NNP	_	12	conj	_	L-PERSON
+16	,	,	,	_	15	punct	_	O
+17	Gwen	gwen	NNP	_	18	compound	_	B-PERSON
+18	Ifill	ifill	NNP	_	15	conj	_	L-PERSON
+19	,	,	,	_	18	punct	_	O
+20	Florence	florence	NNP	_	21	compound	_	B-PERSON
+21	Henderson	henderson	NNP	_	18	conj	_	L-PERSON
+22	.	.	.	_	4	punct	_	O
+
+1	🎼🙏🏼👊🏼👏🏻	🎼🙏🏼👊🏼👏🏻	SYM	pos2=NFP	0	root	_	U-ORG
+

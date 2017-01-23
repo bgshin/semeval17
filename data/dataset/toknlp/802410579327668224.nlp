@@ -1,0 +1,23 @@
+1	Venezuelan	venezuelan	JJ	_	2	nmod	_	U-NORP
+2	President	president	NNP	_	3	compound	_	O
+3	Maduro	maduro	NNP	_	4	nsubj	_	U-PERSON
+4	says	say	VBZ	_	0	root	_	O
+5	has	have	VBZ	_	6	aux	_	O
+6	called	call	VBN	_	4	ccomp	_	O
+7	Cuban	cuban	JJ	pos2=NNP	8	nmod	_	U-NORP
+8	President	president	NNP	_	10	compound	_	O
+9	Raul	raul	NNP	_	10	compound	_	B-PERSON
+10	Castro	castro	NNP	_	6	oprd	_	L-PERSON
+11	,	,	,	_	12	punct	_	O
+12	expresses	express	VBZ	_	9	dep	_	O
+13	solidarity	solidarity	NN	_	12	dobj	_	O
+14	with	with	IN	_	13	prep	_	O
+15	Cuba	cuba	NNP	_	14	pobj	_	U-GPE
+16	.	.	.	_	4	punct	_	O
+
+1	Sad	sad	JJ	_	2	nmod	_	O
+2	day	day	NN	_	5	dep	_	O
+3	i	I	PRP	pos2=GW	5	nmod	_	O
+4	…	…	NFP	pos2=VBP	5	punct	_	O
+5	https://t.co/mIGdl3Dn8U	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det	_	O
+2	deplorables	deplorables	NNS	pos2=NN	4	nsubj	_	O
+3	have	have	VBP	_	4	aux	_	O
+4	faced	face	VBN	_	0	root	_	O
+5	much	much	RB	_	6	advmod	_	O
+6	worse	bad	JJR	_	4	advmod	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	pure	pure	JJ	_	5	nmod	_	O
+4	psychological	psychological	JJ	_	5	nmod	_	O
+5	warfare	warfare	NN	_	2	attr	_	O
+6	,	,	,	_	5	punct	_	O
+7	designed	design	VBN	_	5	acl	_	O
+8	to	to	TO	_	9	aux	_	O
+9	make	make	VB	_	7	xcomp	_	O
+10	us	us	PRP	_	11	nsubj	_	O
+11	believe	believe	VB	_	9	ccomp	_	O
+12	what	what	WP	_	14	dobj	_	O
+13	they	they	PRP	_	14	nsubj	_	O
+14	do	do	VBP	_	11	ccomp	_	O
+15	…	…	NFP	pos2=-LRB-	16	punct	_	O
+16	https://t.co/dLtswCQowu	#hlink#	ADD	_	2	dep	_	O
+

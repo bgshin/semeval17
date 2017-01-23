@@ -1,0 +1,13 @@
+1	Well	well	UH	_	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	think	think	VBP	_	0	root	_	O
+4	he	he	PRP	_	6	nsubj	_	O
+5	does	do	VBZ	_	6	aux	_	O
+6	need	need	VB	_	3	ccomp	_	O
+7	a	a	DT	_	9	det	_	O
+8	good	good	JJ	_	9	nmod	_	O
+9	fracking	fracking	NN	_	6	dobj	_	O
+10	!	!	.	_	3	punct	_	O
+
+1	https://t.co/xKO4geMMvx	#hlink#	ADD	_	0	root	_	U-ORG
+

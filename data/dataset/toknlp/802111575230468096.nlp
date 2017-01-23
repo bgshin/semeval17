@@ -1,0 +1,23 @@
+1	Great	great	JJ	_	2	nmod	_	O
+2	news	news	NN	_	0	root	_	O
+3	from	from	IN	_	2	prep	_	O
+4	meeting	meeting	NN	pos2=VBG	3	pobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	@poroshenko	@poroshenko	XX	pos2=FW	5	pobj	_	O
+7	@JunckerEU	@junckereu	XX	pos2=NN	5	pobj	_	O
+8	and	and	CC	_	2	cc	_	O
+9	@donaldtusk	@donaldtusk	UH	pos2=XX	5	discourse	_	O
+10	,	,	,	_	5	punct	_	O
+11	#Ukraine	#ukraine	NNP	pos2=PRP	9	dep	_	U-GPE
+12	soon	soon	RB	_	14	advmod	_	O
+13	to	to	TO	_	14	aux	_	O
+14	get	get	VB	_	11	xcomp	_	O
+15	visa	visa	NN	_	17	npadvmod	_	O
+16	-	-	HYPH	_	17	punct	_	O
+17	free	free	JJ	_	19	nmod	_	O
+18	#Schengen	#schengen	NNP	pos2=NN	19	compound	_	U-ORG
+19	access	access	NN	_	14	dobj	_	O
+20	.	.	.	_	2	punct	_	O
+
+1	https://t.co/oHOaBakFYS	#hlink#	ADD	_	0	root	_	U-ORG
+

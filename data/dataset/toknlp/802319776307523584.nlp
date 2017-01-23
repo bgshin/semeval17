@@ -1,0 +1,14 @@
+1	Lady	lady	NNP	pos2=NN	2	compound	_	O
+2	Firebirds	firebird	NNPS	pos2=NNP	3	nsubj	_	O
+3	lead	lead	VBP	pos2=VB	0	root	_	O
+4	Tipp	tipp	NNP	_	3	dobj	_	O
+5	21	0	CD	_	7	qmod	_	B-DATE
+6	-	-	SYM	pos2=HYPH	7	punct	_	I-DATE
+7	18	0	CD	_	9	nmod	_	L-DATE
+8	at	at	IN	_	3	prep	_	O
+9	half	half	NN	pos2=RB	8	pobj	_	U-CARDINAL
+10	.	.	.	_	3	punct	_	O
+
+1	@GWOC	@gwoc	XX	pos2=NN	2	nmod	_	O
+2	#gobirds	#gobirds	NNS	pos2=UH	0	root	_	O
+

@@ -1,0 +1,15 @@
+1	@MikeHudema	@mikehudema	NN	pos2=NNP	3	nsubj	_	O
+2	Yep	yep	UH	pos2=NNP	3	discourse	_	O
+3	true	true	JJ	pos2=UH	0	root	_	O
+4	,	,	,	_	6	punct	_	O
+5	that	that	DT	_	6	nsubj	_	O
+6	's	's	VBZ	_	0	root	_	O
+7	why	why	WRB	_	9	advmod	_	O
+8	they	they	PRP	_	9	nsubj	_	O
+9	partied	party	VBD	_	6	advcl	_	O
+10	hard	hard	RB	pos2=JJ	9	advmod	_	O
+11	!	!	.	_	6	punct	_	O
+
+1	:)	:)	NFP	_	2	punct	_	O
+2	https://t.co/V7DIUn1VPZ	#hlink#	ADD	pos2=NN	0	root	_	O
+

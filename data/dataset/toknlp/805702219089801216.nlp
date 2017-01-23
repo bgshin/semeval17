@@ -1,0 +1,12 @@
+1	POWERFUL	powerful	JJ	_	3	nmod	_	O
+2	#AUDIO	#audio	NN	pos2=NNS	3	compound	_	O
+3	#TEACHINGS	#teachings	NNS	pos2=NN	5	nsubj	_	O
+4	=	=	SYM	_	5	punct	_	O
+5	#ConservativeReview	#conservativereview	ADD	pos2=VB	0	root	_	U-MONEY
+6	#MarkLevin	#marklevin	ADD	pos2=GW	11	dep	_	O
+7	#CommonCore	#commoncore	NN	pos2=ADD	11	dep	_	O
+8	#Immigration	#immigration	NNP	pos2=ADD	11	nmod	_	B-ORG
+9	#Conservatism	#conservatism	GW	pos2=NNP	11	nmod	_	L-ORG
+10	#DanielHorowitz	#danielhorowitz	GW	pos2=ADD	11	nmod	_	O
+11	https://t.co/MNUBUSR6iO	#hlink#	ADD	pos2=NN	5	dep	_	U-ORG
+

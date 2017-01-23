@@ -1,0 +1,5 @@
+1	Matt	matt	NNP	_	2	nsubj	_	U-PERSON
+2	dislikes	dislike	VBZ	pos2=VBD	0	root	_	O
+3	obamacare	obamacare	NN	pos2=JJ	4	compound	_	O
+4	removal	removal	NN	_	2	dobj	_	O
+

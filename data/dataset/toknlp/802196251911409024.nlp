@@ -1,0 +1,16 @@
+1	#isis	#isis	IN	pos2=PRP$	5	prep	_	O
+2	Slaughter	slaughter	NNP	pos2=NN	1	pobj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	innocents	innocent	NNS	pos2=NNPS	3	pobj	_	O
+5	continues	continue	VBZ	_	0	root	_	O
+6	in	in	IN	_	5	prep	_	O
+7	battle	battle	NN	_	6	pobj	_	O
+8	for	for	IN	_	7	prep	_	O
+9	Mosul	mosul	NNP	_	11	compound	_	U-GPE
+10	-	-	HYPH	pos2=:	11	punct	_	O
+11	CNN	cnn	NNP	_	8	pobj	_	U-ORG
+12	https://t.co/N7fKGeKJ9v	#hlink#	ADD	pos2=NNP	15	nmod	_	O
+13	#isis	#isis	GW	pos2=IN	15	nmod	_	U-ORG
+14	#breaking	#breaking	VBG	pos2=GW	15	nmod	_	O
+15	https://t.co/Ski2gB1Evp	#hlink#	ADD	pos2=NN	5	dep	_	U-ORG
+

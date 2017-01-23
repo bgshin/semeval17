@@ -1,0 +1,18 @@
+1	@MareHole	@marehole	ADD	pos2=XX	14	nsubj	_	U-PRODUCT
+2	@MagnumForamen	@magnumforamen	ADD	pos2=GW	6	dobj	_	B-ORG
+3	@Baylor	@baylor	NNP	pos2=IN	4	compound	_	I-ORG
+4	@UTAustin	@utaustin	NNP	pos2=ADD	5	dep	_	I-ORG
+5	@TheTexianDM	@thetexiandm	ADD	pos2=XX	6	dobj	_	L-ORG
+6	@txst	@txst	UH	pos2=IN	14	discourse	_	O
+7	@DanPatrick	@danpatrick	``	pos2=ADD	14	punct	_	O
+8	I	I	PRP	pos2=CD	12	nmod	_	O
+9	thot	thot	RB	pos2=VBD	11	advmod	_	O
+10	"	"	``	pos2=''	12	punct	_	O
+11	bad	bad	JJ	_	12	nmod	_	O
+12	hombres	hombre	NNS	pos2=FW	14	nsubj	_	O
+13	"	"	''	_	12	punct	_	O
+14	was	be	VBD	_	0	root	_	O
+15	racist	racist	JJ	pos2=VBN	14	acomp	_	O
+16	now	now	RB	_	14	advmod	_	O
+17	.	.	.	_	14	punct	_	O
+

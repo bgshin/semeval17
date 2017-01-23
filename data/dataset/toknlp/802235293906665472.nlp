@@ -1,0 +1,23 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@MensJournal	@mensjournal	NN	pos2=NNP	2	nsubj	_	O
+2	pushed	push	VBD	pos2=VBN	0	root	_	O
+3	the	the	DT	_	6	det	_	O
+4	#Tesla	#tesla	NNP	pos2=NNS	6	compound	_	U-PRODUCT
+5	#modelSP100	#modelsp0	NN	pos2=NNP	6	compound	_	O
+6	D	d	NNP	pos2=NN	2	dobj	_	O
+7	to	to	IN	_	2	prep	_	O
+8	its	its	PRP$	_	9	poss	_	O
+9	limits	limit	NNS	pos2=NN	7	pobj	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	Their	their	PRP$	_	2	poss	_	O
+2	verdicts	verdict	NNS	_	6	nsubj	_	O
+3	'	'	''	_	2	punct	_	O
+4	:	:	:	_	6	punct	_	O
+5	https://t.co/ahz767NPbx	#hlink#	ADD	_	6	nsubj	_	O
+6	#autonews	#autonews	VBZ	pos2=-RRB-	0	root	_	O
+7	#testdrive	#testdrive	UH	pos2=VB	6	discourse	_	O
+8	#automodel	#automodel	UH	pos2=FW	6	discourse	_	O
+9	#EVs	#evs	NNS	pos2=UH	6	dobj	_	O
+

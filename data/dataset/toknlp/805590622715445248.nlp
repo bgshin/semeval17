@@ -1,0 +1,20 @@
+1	VIRAL	viral	JJ	pos2=NN	7	dep	_	O
+2	:	:	:	_	7	punct	_	O
+3	Cristiano	cristiano	NNP	_	4	compound	_	B-PERSON
+4	Ronaldo	ronaldo	NNP	_	7	poss	_	I-PERSON
+5	’s	's	POS	_	4	case	_	L-PERSON
+6	Balls	ball	NNPS	pos2=NNP	7	compound	_	O
+7	Bounce	bounce	NNP	pos2=VBP	0	root	_	O
+8	in	in	IN	_	7	prep	_	O
+9	Underwear	underwear	NN	pos2=NNP	11	npadvmod	_	O
+10	-	-	HYPH	_	11	punct	_	O
+11	Clad	clothe	VBN	pos2=NNP	13	nmod	_	O
+12	Poker	poker	NN	pos2=NNP	13	compound	_	O
+13	Advert	advert	NN	_	8	pobj	_	O
+14	[	[	-LRB-	_	15	punct	_	O
+15	Video	video	NN	pos2=NNP	7	parataxis	_	O
+16	]	]	-RRB-	_	15	punct	_	O
+17	https://t.co/C3ibk64zQ1	#hlink#	ADD	pos2=VBZ	13	appos	_	O
+18	via	via	IN	_	7	prep	_	O
+19	@cocktalkblog	@cocktalkblog	UH	pos2=NNP	18	pobj	_	O
+

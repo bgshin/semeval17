@@ -1,0 +1,27 @@
+1	probably	probably	RB	_	2	advmod	_	O
+2	going	go	VBG	_	0	root	_	O
+3	to	to	IN	pos2=TO	2	prep	_	O
+4	hell	hell	NN	pos2=VB	3	pobj	_	O
+5	for	for	IN	_	2	prep	_	O
+6	this	this	DT	_	5	pobj	_	O
+7	as	as	RB	_	8	advmod	_	O
+8	well	well	RB	_	2	advmod	_	O
+9	but	but	CC	pos2=IN	2	cc	_	O
+10	pope	pope	NN	pos2=VBZ	11	compound	_	O
+11	francis	francis	NN	pos2=NNP	13	nsubj	_	O
+12	seriously	seriously	RB	_	13	advmod	_	O
+13	needs	need	VBZ	_	2	conj	_	O
+14	some	some	DT	_	17	det	_	O
+15	crest	crest	NN	_	17	compound	_	O
+16	whitening	whitening	NN	pos2=VBG	17	compound	_	O
+17	strips	strip	NNS	_	13	dobj	_	O
+18	.	.	.	_	13	punct	_	O
+
+1	send	send	VB	pos2=VBP	0	root	_	O
+2	it	it	PRP	_	1	dobj	_	O
+3	to	to	IN	_	1	prep	_	O
+4	the	the	DT	_	7	det	_	O
+5	vatican	vatican	JJ	pos2=NN	7	nmod	_	O
+6	merry	merry	NN	pos2=JJ	7	compound	_	O
+7	christmas	christmas	NN	pos2=NNS	3	pobj	_	O
+

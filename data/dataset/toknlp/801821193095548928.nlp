@@ -1,0 +1,16 @@
+1	Russia	russia	NNP	pos2=NN	3	nsubj	_	U-GPE
+2	successfully	successfully	RB	_	3	advmod	_	O
+3	tests	test	VBZ	_	0	root	_	O
+4	intercontinental	intercontinental	JJ	_	6	nmod	_	O
+5	ballistic	ballistic	JJ	_	6	nmod	_	O
+6	missiles	missile	NNS	_	3	dobj	_	O
+7	that	that	WDT	pos2=DT	8	nsubj	_	O
+8	fire	fire	VBP	pos2=NN	6	relcl	_	O
+9	from	from	IN	_	8	prep	_	O
+10	"	"	``	_	12	punct	_	O
+11	nuclear	nuclear	JJ	_	12	nmod	_	O
+12	trains	train	NNS	_	9	pobj	_	O
+13	"	"	''	pos2=GW	12	punct	_	O
+14	…	…	NFP	pos2=-LRB-	3	punct	_	O
+15	https://t.co/SclzDs3pj5	#hlink#	ADD	_	3	dep	_	O
+

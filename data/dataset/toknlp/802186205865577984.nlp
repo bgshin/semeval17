@@ -1,0 +1,17 @@
+1	When	when	WRB	_	4	advmod	_	O
+2	all	all	DT	_	3	det	_	O
+3	eyes	eye	NNS	_	4	nsubj	_	O
+4	are	be	VBP	_	10	advcl	_	O
+5	on	on	IN	_	4	prep	_	O
+6	you	you	PRP	_	5	pobj	_	O
+7	,	,	,	_	10	punct	_	O
+8	#Wink	#wink	NNP	pos2=VB	9	compound	_	B-PERSON
+9	#WinkFamily	#winkfamily	NNP	pos2=RB	10	nsubj	_	L-PERSON
+10	#BeautyAndTheBeast	#beautyandthebeast	VBD	pos2=ADD	0	root	_	O
+11	#Beast	#beast	NNP	pos2=JJS	12	compound	_	B-PERSON
+12	#Love	#love	NNP	pos2=IN	10	dobj	_	L-PERSON
+13	#LoveHer	#loveher	GW	pos2=NNP	16	nmod	_	O
+14	#lovers	#lovers	GW	pos2=NNS	16	nmod	_	O
+15	…	…	NFP	pos2=GW	16	punct	_	O
+16	https://t.co/ZQDJkkZfoL	#hlink#	ADD	pos2=NN	10	dep	_	O
+

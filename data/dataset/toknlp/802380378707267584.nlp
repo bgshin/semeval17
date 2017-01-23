@@ -1,0 +1,32 @@
+1	What	what	WP	_	5	pobj	_	O
+2	are	be	VBP	_	4	aux	_	O
+3	they	they	PRP	_	4	nsubj	_	O
+4	waiting	wait	VBG	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	?	?	.	_	4	punct	_	O
+
+1	Comey	comey	NNP	_	3	nsubj	_	U-PERSON
+2	to	to	TO	_	3	aux	_	O
+3	leave	leave	VB	_	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+
+1	Loretta	loretta	NNP	_	2	compound	_	B-PERSON
+2	Lynch	lynch	NNP	_	4	nsubj	_	L-PERSON
+3	to	to	TO	_	4	aux	_	O
+4	leave	leave	VB	_	0	root	_	O
+5	?	?	.	_	4	punct	_	O
+
+1	How	how	WRB	_	2	advmod	_	O
+2	many	many	JJ	_	4	nsubjpass	_	O
+3	are	be	VBP	_	4	auxpass	_	O
+4	involved	involve	VBN	_	0	root	_	O
+5	?	?	.	_	4	punct	_	O
+
+1	How	how	WRB	_	2	advmod	_	O
+2	many	many	JJ	_	5	nsubjpass	_	O
+3	are	be	VBP	_	5	aux	_	O
+4	being	be	VBG	_	5	auxpass	_	O
+5	blackm	blackm	VBN	pos2=JJ	0	root	_	O
+6	…	…	NFP	pos2=-LRB-	5	punct	_	O
+7	https://t.co/LZfnuRFQKf	#hlink#	ADD	_	5	dep	_	O
+

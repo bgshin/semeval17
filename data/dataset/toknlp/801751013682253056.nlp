@@ -1,0 +1,31 @@
+1	Luis	luis	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Enrique	enrique	NNP	_	5	dep	_	L-PERSON
+3	:	:	:	_	5	punct	_	O
+4	Gerard	gerard	NNP	_	5	compound	_	B-PERSON
+5	Pique	pique	NNP	pos2=NN	6	nsubjpass	_	L-PERSON
+6	substituted	substitute	VBN	_	0	root	_	O
+7	?	?	.	_	6	punct	_	O
+
+1	"	"	``	_	4	punct	_	O
+2	Gerard	gerard	NNP	_	3	compound	_	B-PERSON
+3	Pique	pique	NNP	pos2=''	4	nsubj	_	L-PERSON
+4	received	receive	VBD	_	13	ccomp	_	O
+5	a	a	DT	_	6	det	_	O
+6	knock	knock	NN	_	4	dobj	_	O
+7	to	to	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	foot	foot	NN	_	7	pobj	_	O
+10	,	,	,	_	13	punct	_	O
+11	so	so	RB	pos2=CC	13	advmod	_	O
+12	it	it	PRP	_	13	nsubj	_	O
+13	was	be	VBD	_	0	root	_	O
+14	to	to	TO	_	15	aux	_	O
+15	give	give	VB	_	13	xcomp	_	O
+16	him	him	PRP	_	15	dative	_	O
+17	a	a	DT	_	18	det	_	O
+18	rest	rest	NN	_	15	dobj	_	O
+19	.	.	.	_	13	punct	_	O
+20	"	"	''	_	13	punct	_	O
+
+1	#fcblive	#fcblive	UH	pos2=XX	0	root	_	O
+

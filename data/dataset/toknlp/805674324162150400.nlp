@@ -1,0 +1,16 @@
+1	Retweeted	retweeted	VBN	pos2=VBD	2	nmod	_	O
+2	CaptainsLog2016	captainslog0	NN	pos2=NNP	0	root	_	U-PERSON
+3	(	(	-LRB-	_	2	punct	_	O
+4	@CaptainsLog2016	@captainslog0	NN	pos2=NNS	2	appos	_	O
+5	)	)	-RRB-	_	2	punct	_	O
+6	:Voter	:voter	IN	pos2=PRP$	2	prep	_	O
+7	Suppression	suppression	NN	pos2=NNP	12	nmod	_	O
+8	/	/	SYM	pos2=,	12	punct	_	O
+9	FraudFake	fraudfake	NNP	_	12	compound	_	O
+10	NewsRussian	newsrussian	NNP	pos2=WRB	12	compound	_	O
+11	HackersFBI	hackersfbi	NNP	_	12	compound	_	B-PERSON
+12	Witch	witch	NNP	_	6	pobj	_	L-PERSON
+13	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/V1VE2ytdno	#hlink#	ADD	_	0	root	_	U-ORG
+

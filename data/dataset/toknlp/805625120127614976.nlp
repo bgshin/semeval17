@@ -1,0 +1,27 @@
+1	@RockyMntnMike	@rockymntnmike	UH	pos2=NNP	6	discourse	_	O
+2	She	she	PRP	_	6	nsubj	_	O
+3	just	just	RB	_	6	advmod	_	O
+4	did	do	VBD	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	get	get	VB	_	0	root	_	O
+7	them	them	PRP	_	6	dobj	_	O
+8	in	in	IN	_	6	prep	_	O
+9	areas	area	NNS	_	8	pobj	_	O
+10	were	be	VBD	_	6	ccomp	_	O
+11	she	she	PRP	_	12	nsubj	_	O
+12	needed	need	VBD	_	10	ccomp	_	O
+13	them	them	PRP	_	12	dobj	_	O
+14	.	.	.	_	6	punct	_	O
+
+1	Lots	lot	NNS	_	5	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	voter	voter	NN	_	4	compound	_	O
+4	suppression	suppression	NN	_	2	pobj	_	O
+5	going	go	VBG	_	0	root	_	O
+6	on	on	RP	pos2=RB	5	prt	_	O
+7	.	.	.	_	5	punct	_	O
+
+1	Hacking	hack	VBG	pos2=NN	0	root	_	O
+2	&	&	CC	_	1	cc	_	O
+3	tampering💙	tampering💙	JJR	pos2=NNP	1	conj	_	O
+

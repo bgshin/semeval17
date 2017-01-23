@@ -1,0 +1,16 @@
+1	#sexy	#sexy	NN	pos2=JJ	2	compound	_	O
+2	girls	girl	NNS	_	4	nsubjpass	_	O
+3	get	get	VBP	pos2=VB	4	auxpass	_	O
+4	fucked	fuck	VBN	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	first	#ord#	JJ	_	7	nmod	_	U-ORDINAL
+7	time	time	NN	_	5	pobj	_	O
+8	zac	zac	NNP	pos2=XX	9	compound	_	B-PERSON
+9	efron	efron	NNP	pos2=NN	13	nsubj	_	L-PERSON
+10	and	and	CC	_	9	cc	_	O
+11	vanessa	vanessa	NNP	pos2=NN	9	conj	_	U-PERSON
+12	hugens	hugens	VBZ	pos2=VBD	13	aux	_	O
+13	having	have	VBG	_	15	ccomp	_	O
+14	sex	sex	NN	_	13	dobj	_	O
+15	https://t.co/tNS6bPCbii	#hlink#	ADD	pos2=NN	4	dep	_	U-ORG
+

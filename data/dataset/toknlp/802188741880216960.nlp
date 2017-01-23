@@ -1,0 +1,9 @@
+1	Ca	can	MD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	wait	wait	VB	_	0	root	_	O
+4	till	till	IN	_	3	prep	_	O
+5	Christmas	christmas	NNP	_	4	pobj	_	U-DATE
+6	and	and	CC	_	3	cc	_	O
+7	valentines	valentine	NNS	pos2=NNP	8	compound	_	O
+8	day😊	day😊	NNP	pos2=.	3	conj	_	O
+

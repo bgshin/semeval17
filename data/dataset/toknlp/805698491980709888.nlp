@@ -1,0 +1,19 @@
+1	@luckythespider	@luckythespider	UH	pos2=XX	2	discourse	_	O
+2	sheeeeiiiiittttt	sheeeeiiiiittttt	LS	pos2=UH	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Morning	morning	NN	pos2=NNP	0	root	_	U-TIME
+2	after	after	IN	_	1	prep	_	O
+3	pill	pill	NN	_	2	pobj	_	O
+4	?	?	.	_	1	punct	_	O
+
+1	Or	or	CC	_	3	cc	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	abortion	abortion	NN	_	0	root	_	O
+4	if	if	IN	_	6	mark	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	's	's	VBZ	_	3	advcl	_	O
+7	a	a	DT	_	8	det	_	O
+8	winner	winner	NN	_	6	attr	_	O
+9	?	?	.	_	3	punct	_	O
+

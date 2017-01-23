@@ -1,0 +1,31 @@
+1	@FryMcCain	@frymccain	UH	pos2=XX	6	discourse	_	O
+2	@johnpavlovitz	@johnpavlovitz	UH	pos2=IN	6	discourse	_	O
+3	We	we	PRP	_	6	nsubj	_	O
+4	do	do	VBP	_	6	aux	_	O
+5	nt	nt	RB	_	6	advmod	_	O
+6	get	get	VB	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	play	play	VB	_	6	xcomp	_	O
+9	God	god	NNP	_	8	dobj	_	O
+10	&	&	CC	pos2=-LRB-	8	cc	_	O
+11	say	say	VB	pos2=NN	8	conj	_	O
+12	abortion	abortion	NN	_	13	nsubj	_	O
+13	is	be	VBZ	_	11	ccomp	_	O
+14	murder	murder	NN	pos2=IN	16	compound	_	O
+15	death	death	NN	_	16	compound	_	O
+16	penalty	penalty	NN	_	17	nsubj	_	O
+17	is	be	VBZ	_	13	ccomp	_	O
+18	nt	nt	RB	_	17	advmod	_	O
+19	.	.	.	_	6	punct	_	O
+
+1	No	no	RB	_	2	neg	_	O
+2	matter	matter	RB	_	0	root	_	O
+3	what	what	WP	_	6	dobj	_	O
+4	you	you	PRP	_	6	nsubj	_	O
+5	've	have	VBP	_	6	aux	_	O
+6	heard	hear	VBN	_	2	ccomp	_	O
+7	from	from	IN	_	6	prep	_	O
+8	a	a	DT	_	9	det	_	O
+9	pulpit	pulpit	NN	_	7	pobj	_	O
+10	.	.	.	_	5	acomp	_	O
+

@@ -1,0 +1,22 @@
+1	Saiqa	saiqa	NNP	pos2=NN	2	compound	_	U-PERSON
+2	forces	force	NNS	_	3	nsubj	_	O
+3	take	take	VBP	pos2=VB	0	root	_	O
+4	over	over	RP	pos2=IN	3	prt	_	O
+5	several	several	JJ	_	6	nmod	_	O
+6	areas	area	NNS	_	3	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	western	western	JJ	_	9	nmod	_	O
+9	#Benghazi	#benghazi	NNP	pos2=NNS	7	pobj	_	O
+10	from	from	IN	_	3	prep	_	O
+11	#ISIS	#isis	NNP	pos2=NN	10	pobj	_	U-ORG
+12	as	as	IN	_	14	mark	_	O
+13	clashes	clash	NNS	_	14	nsubj	_	O
+14	continue	continue	VBP	pos2=VB	3	advcl	_	O
+15	on	on	IN	_	14	prep	_	O
+16	Friday	friday	NNP	_	15	pobj	_	U-DATE
+17	.	.	.	_	3	punct	_	O
+
+1	#Libya	#libya	NNP	pos2=GW	3	nmod	_	B-PERSON
+2	…	…	NFP	pos2=-LRB-	3	punct	_	L-PERSON
+3	https://t.co/MoRRWkSAkV	#hlink#	ADD	_	0	root	_	O
+

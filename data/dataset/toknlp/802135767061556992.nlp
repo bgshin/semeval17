@@ -1,0 +1,13 @@
+1	#ifonly	#ifonly	UH	pos2=RB	4	discourse	_	O
+2	#stillwithher	#stillwithher	UH	pos2=IN	4	discourse	_	O
+3	#presidenthillaryclinton	#presidenthillaryclinton	UH	pos2=FW	4	discourse	_	O
+4	#monsinnyc	#monsinnyc	UH	pos2=PRP	0	root	_	O
+5	while	while	IN	_	6	mark	_	O
+6	walking	walk	VBG	_	12	advcl	_	O
+7	down	down	IN	pos2=RB	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	street	street	NN	_	7	pobj	_	O
+10	on	on	IN	_	6	prep	_	O
+11	…	…	NFP	pos2=-LRB-	10	pobj	_	O
+12	https://t.co/TZjmtD1R6Q	#hlink#	ADD	_	0	root	_	O
+

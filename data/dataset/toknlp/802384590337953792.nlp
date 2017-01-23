@@ -1,0 +1,21 @@
+1	The	the	DT	_	3	det	_	O
+2	biggest	big	JJS	_	3	nmod	_	O
+3	cause	cause	NN	_	7	nsubj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	Hitler	hitler	NNP	_	4	pobj	_	U-PERSON
+6	2.0	0	CD	_	5	nmod	_	U-CARDINAL
+7	was	be	VBD	_	0	root	_	O
+8	:	:	:	_	7	punct	_	O
+9	Comey	comey	NNP	_	11	poss	_	U-ORG
+10	's	's	POS	_	9	case	_	O
+11	FBI	fbi	NNP	_	7	attr	_	U-ORG
+12	.	.	.	_	7	punct	_	O
+
+1	Not	not	RB	_	3	neg	_	O
+2	an	an	DT	_	3	det	_	O
+3	election	election	NN	_	7	dep	_	O
+4	but	but	CC	pos2=IN	3	cc	_	O
+5	a	a	DT	_	6	det	_	O
+6	coup	coup	NN	_	3	conj	_	O
+7	https://t.co/fFyPVFblRE	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

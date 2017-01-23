@@ -1,0 +1,19 @@
+1	@elizabethforma	@elizabethforma	UH	pos2=NN	2	discourse	_	O
+2	fakahontas	fakahontas	VBZ	pos2=NNS	0	root	_	O
+3	at	at	IN	_	2	prep	_	O
+4	it	it	PRP	_	3	pobj	_	O
+5	again	again	RB	_	2	advmod	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	Keep	keep	VB	_	0	root	_	O
+2	it	it	PRP	_	1	dobj	_	O
+3	up	up	RP	pos2=RB	1	prt	_	O
+4	and	and	CC	_	1	cc	_	O
+5	u	u	PRP	pos2=GW	6	nmod	_	O
+6	demorats	demorats	NNS	pos2=VBP	8	nsubj	_	O
+7	will	will	MD	_	8	aux	_	O
+8	lose	lose	VB	_	1	conj	_	O
+9	the	the	DT	_	11	det	_	O
+10	next	next	JJ	_	11	nmod	_	O
+11	election	election	NN	_	8	dobj	_	O
+

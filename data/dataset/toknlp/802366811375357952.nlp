@@ -1,0 +1,21 @@
+1	SERCO	serco	NNP	_	2	compound	_	O
+2	Smuggle	smuggle	NNP	pos2=VB	3	compound	_	O
+3	Drugs	drug	NNS	pos2=NNPS	0	root	_	O
+4	/	/	SYM	pos2=,	5	punct	_	O
+5	Weapons	weapon	NNS	pos2=NNPS	3	appos	_	O
+6	/	/	,	pos2=SYM	7	punct	_	O
+7	Children	child	NNS	pos2=NNP	3	appos	_	O
+8	?	?	.	_	3	punct	_	O
+
+1	Connection	connection	NN	_	0	root	_	O
+2	w	w	IN	pos2=RB	1	prep	_	O
+3	/	/	HYPH	_	2	punct	_	O
+4	Julian	julian	NNP	_	9	compound	_	B-PERSON
+5	Assange	assange	NNP	_	11	dep	_	I-PERSON
+6	HRC	hrc	NNP	_	9	compound	_	I-PERSON
+7	Comey	comey	NNP	_	9	compound	_	L-PERSON
+8	Obama	obama	NNP	_	9	compound	_	O
+9	#Pizzagate	#pizzagate	NNP	pos2=POS	11	dep	_	O
+10	#ProofoflifeRead➡️	#proofofliferead➡️	ADD	pos2=GW	11	dep	_	O
+11	https://t.co/td6HnRV7Pv⬅️	#hlink#	ADD	_	2	pobj	_	O
+

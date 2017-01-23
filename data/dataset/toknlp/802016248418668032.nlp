@@ -1,0 +1,23 @@
+1	@IAMovies	@iamovies	NNS	pos2=ADD	7	nsubj	_	O
+2	@TCoop6231	@tcoop0	VBG	pos2=VBP	1	acl	_	O
+3	your	your	PRP$	_	5	poss	_	O
+4	"	"	``	_	5	punct	_	O
+5	source	source	NN	_	2	dobj	_	O
+6	"	"	''	_	5	punct	_	O
+7	amounted	amount	VBD	_	0	root	_	O
+8	to	to	IN	_	7	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	Monarchy	monarchy	NNP	pos2=NN	8	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	Qatar	qatar	NNP	_	11	pobj	_	U-GPE
+13	,	,	,	_	7	punct	_	O
+14	which	which	WDT	_	15	nsubj	_	O
+15	owns	own	VBZ	_	12	relcl	_	O
+16	the	the	DT	_	17	det	_	O
+17	network	network	NN	_	15	dobj	_	O
+18	and	and	CC	_	15	cc	_	O
+19	sponsors	sponsor	VBZ	pos2=NNS	15	conj	_	O
+20	Terrorism	terrorism	NN	pos2=NNP	19	dobj	_	O
+21	by	by	IN	_	19	prep	_	O
+22	#Hamas	#hamas	NNP	pos2=NNS	21	pobj	_	O
+

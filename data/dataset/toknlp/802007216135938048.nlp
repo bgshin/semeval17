@@ -1,0 +1,21 @@
+1	Emily	emily	NNP	pos2=NN	0	root	_	U-PERSON
+2	,	,	,	_	1	punct	_	O
+3	Paris	paris	NNP	_	1	conj	_	U-GPE
+4	,	,	,	_	3	punct	_	O
+5	Kirk	kirk	NNP	_	3	conj	_	U-PERSON
+6	,	,	,	_	5	punct	_	O
+7	and	and	CC	_	5	cc	_	O
+8	TJ.#GilmoreGirlsTop4	tj.#gilmoregirlstop0	NNP	pos2=NN	10	compound	_	U-GPE
+9	#SookietheInvisible5th	#sookietheinvisible0th	NN	pos2=VBP	10	compound	_	O
+10	#teamLOGAN	#teamlogan	NNP	pos2=NN	5	conj	_	U-GPE
+11	(	(	-LRB-	_	10	punct	_	O
+12	Yes	yes	UH	_	15	discourse	_	O
+13	,	,	,	_	15	punct	_	O
+14	I	I	PRP	_	15	nsubj	_	O
+15	know	know	VBP	_	19	parataxis	_	O
+16	,	,	,	_	15	punct	_	O
+17	an	an	DT	_	19	det	_	O
+18	unpopular	unpopular	JJ	_	19	nmod	_	O
+19	opinion	opinion	NN	_	1	appos	_	O
+20	)	)	-RRB-	_	1	punct	_	O
+

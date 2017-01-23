@@ -1,0 +1,25 @@
+1	@GeorgeTakei	@georgetakei	NNP	pos2=XX	8	nsubj	_	U-ORG
+2	even	even	RB	_	5	advmod	_	O
+3	WWII	wwii	NNP	pos2=CD	5	compound	_	U-EVENT
+4	veteran	veteran	NN	pos2=JJ	5	compound	_	O
+5	gramps	gramps	NNS	pos2=NNP	8	nsubj	_	O
+6	did	do	VBD	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	give	give	VB	_	23	ccomp	_	O
+9	a	a	DT	_	10	det	_	O
+10	damn	damn	NN	pos2=RB	8	dobj	_	O
+11	about	about	IN	_	10	prep	_	O
+12	gay	gay	JJ	_	13	nmod	_	O
+13	marriage	marriage	NN	_	11	pobj	_	O
+14	,	,	,	_	8	punct	_	O
+15	if	if	IN	_	19	mark	_	O
+16	it	it	PRP	_	19	nsubj	_	O
+17	did	do	VBD	_	19	aux	_	O
+18	n't	not	RB	_	19	neg	_	O
+19	affect	affect	VB	_	8	advcl	_	O
+20	him	him	PRP	_	19	dobj	_	O
+21	,	,	,	_	23	punct	_	O
+22	it	it	PRP	_	23	nsubj	_	O
+23	was	be	VBD	_	0	root	_	O
+24	fine	fine	JJ	_	23	acomp	_	O
+

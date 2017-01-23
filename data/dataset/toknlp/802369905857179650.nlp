@@ -1,0 +1,19 @@
+1	@Bez	@bez	NNP	pos2=NNS	3	vocative	_	U-PERSON
+2	I	I	PRP	_	3	nsubj	_	O
+3	heard	hear	VBD	_	0	root	_	O
+4	Steve	steve	NNP	_	5	compound	_	B-PERSON
+5	bannon	bannon	NNP	_	7	nsubj	_	I-PERSON
+6	's	's	POS	_	5	case	_	L-PERSON
+7	is	be	VBZ	_	3	ccomp	_	O
+8	so	so	RB	_	9	advmod	_	O
+9	thin	thin	JJ	_	7	acomp	_	O
+10	if	if	IN	_	12	mark	_	O
+11	he	he	PRP	_	12	nsubj	_	O
+12	gets	get	VBZ	_	9	advcl	_	O
+13	a	a	DT	_	14	det	_	O
+14	boner	boner	NN	pos2=WP	12	dobj	_	O
+15	it	it	PRP	_	17	nsubj	_	O
+16	can	can	MD	_	17	aux	_	O
+17	split	split	VB	pos2=VBN	14	relcl	_	O
+18	atoms	atom	NNS	_	17	dobj	_	O
+

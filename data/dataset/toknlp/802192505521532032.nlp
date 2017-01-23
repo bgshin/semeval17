@@ -1,0 +1,25 @@
+1	#DylannRoof	#dylannroof	XX	pos2=NNP	4	dep	_	O
+2	People	people	NNS	pos2=NNPS	4	nsubj	_	O
+3	are	be	VBP	_	4	aux	_	O
+4	saying	say	VBG	_	0	root	_	O
+5	,	,	,	_	4	punct	_	O
+6	if	if	IN	_	9	mark	_	O
+7	Dylann	dylann	NNP	_	8	compound	_	B-PERSON
+8	Roof	roof	NNP	pos2=NN	9	nsubj	_	L-PERSON
+9	gets	get	VBZ	_	20	advcl	_	O
+10	the	the	DT	_	12	det	_	O
+11	death	death	NN	_	12	compound	_	O
+12	sentence	sentence	NN	_	9	dobj	_	O
+13	,	,	,	_	15	punct	_	O
+14	Breitbart	breitbart	NNP	_	15	compound	_	B-ORG
+15	News	news	NNP	_	12	appos	_	L-ORG
+16	and	and	CC	_	15	cc	_	O
+17	Steve	steve	NNP	_	18	compound	_	B-PERSON
+18	Bannon	bannon	NNP	_	15	conj	_	L-PERSON
+19	will	will	MD	_	20	aux	_	O
+20	demand	demand	VB	_	4	ccomp	_	O
+21	national	national	JJ	_	22	nmod	_	O
+22	day	day	NN	_	20	dobj	_	O
+23	of	of	IN	_	22	prep	_	O
+24	mourning	mourning	NN	pos2=VBG	23	pobj	_	O
+

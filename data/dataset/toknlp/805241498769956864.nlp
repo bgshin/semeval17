@@ -1,0 +1,13 @@
+1	Ashley	ashley	NNP	_	2	compound	_	B-PERSON
+2	Graham	graham	NNP	_	3	nsubj	_	L-PERSON
+3	Puts	put	VBZ	pos2=NNP	0	root	_	O
+4	Kim	kim	NNP	_	5	compound	_	B-PERSON
+5	Kardashian	kardashian	NNP	_	7	poss	_	I-PERSON
+6	's	's	POS	_	5	case	_	L-PERSON
+7	Booty	booty	NNP	_	3	dobj	_	B-WORK_OF_ART
+8	To	to	TO	pos2=NNP	3	prep	_	I-WORK_OF_ART
+9	Shame	shame	NNP	pos2=VB	8	pobj	_	L-WORK_OF_ART
+10	https://t.co/kvlNsd8OEQ	#hlink#	ADD	pos2=VBP	7	appos	_	O
+11	#cr7	#cr0	-RRB-	pos2=XX	3	punct	_	O
+12	#pornhub	#pornhub	UH	pos2=-RRB-	3	discourse	_	O
+

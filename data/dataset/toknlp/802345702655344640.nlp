@@ -1,0 +1,28 @@
+1	Next	next	JJ	pos2=RB	2	nmod	_	O
+2	presentation	presentation	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	about	about	IN	pos2=RB	3	prep	_	O
+5	"	"	``	_	4	punct	_	O
+6	sign	sign	NN	pos2=VB	4	pobj	_	O
+7	"	"	''	_	4	punct	_	O
+8	#	#	NN	pos2=-LRB-	11	compound	_	O
+9	あいちゃれ	あいちゃれ	NNP	pos2=''	11	nmod	_	U-MONEY
+10	"	"	``	pos2=''	13	punct	_	O
+11	AI	ai	NN	pos2=NNP	13	nsubj	_	O
+12	can	can	MD	_	13	aux	_	O
+13	recognize	recognize	VB	_	0	root	_	O
+14	sign	sign	NN	pos2=VB	13	dobj	_	O
+15	using	use	VBG	_	14	acl	_	O
+16	several	several	JJ	_	17	nmod	_	O
+17	modalities	modality	NNS	_	15	dobj	_	O
+18	like	like	IN	_	17	prep	_	O
+19	human	human	JJ	pos2=NN	18	pobj	_	O
+20	.	.	.	_	3	punct	_	O
+21	"	"	''	_	3	punct	_	O
+
+1	He	he	PRP	_	3	nsubj	_	O
+2	is	be	VBZ	_	3	aux	_	O
+3	using	use	VBG	_	0	root	_	O
+4	…	…	NFP	pos2=-LRB-	3	punct	_	O
+5	https://t.co/LOwiXOCWbu	#hlink#	ADD	pos2=NN	3	dobj	_	O
+

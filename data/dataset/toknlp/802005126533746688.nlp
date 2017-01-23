@@ -1,0 +1,15 @@
+1	@gop_nusa	@gop_nusa	NN	pos2=LS	3	nsubjpass	_	O
+2	Get	get	VB	_	3	auxpass	_	O
+3	rid	rid	VBN	_	12	ccomp	_	O
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	Republican	republican	JJ	pos2=NNP	7	nmod	_	O
+7	party	party	NN	_	4	pobj	_	O
+8	,	,	,	_	12	punct	_	O
+9	no	no	DT	_	11	det	_	O
+10	intelligent	intelligent	JJ	_	11	nmod	_	O
+11	person	person	NN	_	12	nsubj	_	O
+12	likes	like	VBZ	_	0	root	_	O
+13	rightists	rightist	NNS	_	12	dobj	_	O
+14	.	.	.	_	12	punct	_	O
+

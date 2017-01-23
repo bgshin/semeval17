@@ -1,0 +1,30 @@
+1	2016	0	CD	_	3	dep	_	U-DATE
+2	:	:	:	_	3	punct	_	O
+3	YEAR	year	NN	_	6	nsubj	_	O
+4	OF	of	IN	pos2=WRB	3	prep	_	O
+5	DEATHIt	deathit	NN	pos2=NNP	4	pobj	_	O
+6	continues	continue	VBZ	_	0	root	_	O
+7	..	..	.	pos2=,	6	punct	_	O
+
+1	Jimmy	jimmy	NNP	_	2	compound	_	O
+2	Perry	perry	NNP	_	0	root	_	O
+3	(86)	(0)	CD	pos2=POS	2	npadvmod	_	O
+4	Leonard	leonard	NNP	_	5	compound	_	B-PERSON
+5	Cohen	cohen	NNP	_	2	appos	_	L-PERSON
+6	(82)	(0)	CD	pos2=NNPS	2	npadvmod	_	O
+7	And	and	CC	_	2	cc	_	O
+8	now	now	RB	_	6	conj	_	O
+9	..	..	.	pos2=,	2	punct	_	O
+
+1	Fidel	fidel	NNP	_	2	compound	_	B-PERSON
+2	Castro	castro	NNP	_	10	vocative	_	L-PERSON
+3	(99)	(0)	CD	pos2=POS	2	punct	_	O
+4	Dear	dear	JJ	pos2=NNP	5	nmod	_	O
+5	God	god	NNP	_	2	appos	_	O
+6	,	,	,	_	10	punct	_	O
+7	when	when	WRB	_	10	advmod	_	O
+8	will	will	MD	pos2=VB	10	aux	_	O
+9	it	it	PRP	_	10	nsubj	_	O
+10	end	end	VB	_	0	root	_	O
+11	..	..	.	pos2=NFP	10	punct	_	O
+

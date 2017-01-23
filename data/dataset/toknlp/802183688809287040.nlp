@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det	_	O
+2	fact	fact	NN	_	0	root	_	O
+3	that	that	IN	_	5	mark	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	have	have	VBP	_	2	acl	_	O
+6	no	no	DT	_	7	det	_	O
+7	kids	kid	NNS	_	5	dobj	_	O
+8	and	and	CC	_	5	cc	_	O
+9	am	be	VBP	_	11	auxpass	_	O
+10	still	still	RB	_	11	advmod	_	O
+11	stressed	stress	VBN	pos2=VBD	5	conj	_	O
+12	out	out	RP	pos2=IN	11	prt	_	O
+13	about	about	IN	pos2=RB	11	prep	_	O
+14	#hatchimals	#hatchimals	NNS	pos2=NNPS	13	pobj	_	O
+15	😩	😩	.	pos2=CD	2	punct	_	O
+

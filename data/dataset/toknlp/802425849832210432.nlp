@@ -1,0 +1,21 @@
+1	If	if	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	look	look	VBP	_	18	advcl	_	O
+4	at	at	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	one	#crd#	CD	_	7	nmod	_	U-CARDINAL
+7	thing	thing	NN	_	4	pobj	_	O
+8	that	that	WDT	_	10	dobj	_	O
+9	conservatives	conservative	NNS	pos2=VBZ	10	nsubj	_	O
+10	#value	#value	VBP	pos2=VBD	7	relcl	_	O
+11	,	,	,	_	18	punct	_	O
+12	that	that	IN	pos2=DT	18	mark	_	O
+13	liberals	liberal	NNS	_	14	nsubj	_	O
+14	do	do	VBP	_	18	advcl	_	O
+15	not	not	RB	_	14	neg	_	O
+16	,	,	,	_	18	punct	_	O
+17	it	it	PRP	_	18	nsubj	_	O
+18	is	be	VBZ	_	0	root	_	O
+19	truth	truth	NN	_	18	attr	_	O
+20	.	.	.	_	18	punct	_	O
+

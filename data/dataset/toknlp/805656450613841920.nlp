@@ -1,0 +1,27 @@
+1	@	@	SYM	_	2	punct	_	O
+2	gerfingerpoken	gerfingerpoken	NN	pos2=LS	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Abortion	abortion	NN	pos2=NNP	2	nsubj	_	O
+2	KILLS	kill	VBZ	_	0	root	_	O
+3	3000	0	CD	_	4	nmod	_	U-CARDINAL
+4	HUMANS	human	NNS	_	2	dobj	_	O
+5	/	/	SYM	pos2=,	6	punct	_	O
+6	dayIf	dayif	NN	pos2=TO	4	prep	_	O
+7	do	do	VBP	pos2=VB	9	aux	_	O
+8	n't	not	RB	_	9	neg	_	O
+9	START	start	VB	_	2	conj	_	O
+10	with	with	IN	_	9	prep	_	O
+11	ABORTIONYOU	abortionyou	NNP	pos2=PRP	10	pobj	_	U-PERSON
+12	'RE	be	VBP	pos2=NNP	9	advcl	_	O
+13	just	just	RB	_	15	advmod	_	O
+14	a	a	DT	_	15	det	_	O
+15	poser	poser	NN	_	12	attr	_	O
+16	with	with	IN	_	15	prep	_	O
+17	gun	gun	NN	_	18	compound	_	O
+18	control	control	NN	_	16	pobj	_	O
+19	or	or	CC	_	15	cc	_	O
+20	lives	live	VBZ	pos2=NNS	15	conj	_	O
+21	matter#MAGA	matter#maga	NN	pos2=RB	20	dobj	_	O
+22	.	.	.	_	12	punct	_	O
+

@@ -1,0 +1,24 @@
+1	@JoeDoubleYou	@joedoubleyou	ADD	pos2=XX	3	det	_	O
+2	@EJDionne	@ejdionne	NN	pos2=GW	3	compound	_	O
+3	@NormOrnstein	@normornstein	NN	pos2=ADD	10	nsubj	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	mean	mean	VBP	_	10	parataxis	_	O
+6	,	,	,	_	10	punct	_	O
+7	there	there	EX	_	10	expl	_	O
+8	have	have	VBP	_	10	aux	_	O
+9	already	already	RB	_	10	advmod	_	O
+10	been	be	VBN	_	0	root	_	O
+11	anti-Trump	anti-trump	JJ	_	12	nmod	_	O
+12	riots	riot	NNS	_	10	attr	_	O
+13	.	.	.	_	10	punct	_	O
+
+1	And	and	CC	_	3	cc	_	O
+2	they	they	PRP	_	3	nsubj	_	O
+3	follow	follow	VBP	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	pattern	pattern	NN	_	3	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	Sorosite	sorosite	NNP	pos2=JJ	9	compound	_	U-NORP
+8	color	color	NN	_	9	compound	_	O
+9	revs.	revs.	NN	pos2=NNS	6	pobj	_	O
+

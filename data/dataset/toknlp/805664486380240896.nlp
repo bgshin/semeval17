@@ -1,0 +1,22 @@
+1	The	the	DT	_	3	det	_	O
+2	gold	gold	NN	pos2=JJ	3	compound	_	O
+3	standard	standard	NN	_	11	nsubj	_	O
+4	in	in	IN	_	3	prep	_	O
+5	Christmas	christmas	NNP	_	6	compound	_	U-DATE
+6	caroling	caroling	NN	_	4	pobj	_	O
+7	:	:	:	_	11	punct	_	O
+8	Detroit	detroit	NNP	_	11	compound	_	B-ORG
+9	Mar	mar	NNP	_	11	compound	_	I-ORG
+10	Thoma	thoma	NNP	_	11	compound	_	I-ORG
+11	Church	church	NNP	_	0	root	_	L-ORG
+12	.	.	.	_	11	punct	_	O
+
+1	No	no	DT	pos2=RB	2	det	_	O
+2	doubt	doubt	NN	pos2=RB	0	root	_	O
+3	about	about	IN	_	2	prep	_	O
+4	it	it	PRP	_	3	pobj	_	O
+5	!	!	.	_	2	punct	_	O
+
+1	🏆🎄	🏆🎄	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/mjFxkeHP1B	#hlink#	ADD	pos2=NN	0	root	_	O
+

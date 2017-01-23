@@ -1,0 +1,25 @@
+1	Pope	pope	NNP	_	2	compound	_	O
+2	Francis	francis	NNP	_	3	nsubj	_	U-PERSON
+3	reminds	remind	VBZ	_	0	root	_	O
+4	us	us	PRP	_	3	dobj	_	O
+5	that	that	IN	_	9	mark	_	O
+6	the	the	DT	_	7	det	_	O
+7	time	time	NN	_	9	nsubj	_	O
+8	has	have	VBZ	_	9	aux	_	O
+9	come	come	VBN	_	3	ccomp	_	O
+10	for	for	IN	_	14	mark	_	O
+11	us	us	PRP	_	14	nsubj	_	O
+12	Catholics	catholic	NNPS	_	11	appos	_	U-NORP
+13	to	to	TO	_	14	aux	_	O
+14	bite	bite	VB	_	9	advcl	_	O
+15	the	the	DT	_	16	det	_	O
+16	bullet	bullet	NN	_	14	dobj	_	O
+17	,	,	,	_	14	punct	_	O
+18	and	and	CC	_	14	cc	_	O
+19	prove	prove	VB	_	14	conj	_	O
+20	our	our	PRP$	_	21	poss	_	O
+21	mettle	mettle	NN	pos2=NNS	19	dobj	_	O
+22	.	.	.	_	3	punct	_	O
+
+1	https://t.co/24k7Au0aps	#hlink#	ADD	_	0	root	_	U-ORG
+

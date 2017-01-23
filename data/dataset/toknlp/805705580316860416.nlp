@@ -1,0 +1,16 @@
+1	News	news	NN	pos2=NNP	2	compound	_	O
+2	agenda	agenda	NN	_	5	compound	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	-	-	HYPH	pos2=:	5	punct	_	O
+5	Brexit	brexit	NNP	_	3	attr	_	O
+6	,	,	,	_	5	punct	_	O
+7	Trump	trump	NNP	_	5	conj	_	U-ORG
+8	,	,	,	_	7	punct	_	O
+9	Italy	italy	NNP	_	7	conj	_	U-GPE
+10	,	,	,	_	9	punct	_	O
+11	Le	le	NNP	_	12	compound	_	B-ORG
+12	Pen	pen	NNP	_	9	conj	_	L-ORG
+13	,	,	,	_	12	punct	_	O
+14	Germany	germany	NNP	_	12	conj	_	U-GPE
+15	.	.	.	_	3	punct	_	O
+

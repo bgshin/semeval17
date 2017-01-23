@@ -1,0 +1,34 @@
+1	Oh	oh	UH	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	my	my	PRP$	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	God	god	NNP	pos2=UH	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Bernie	bernie	NNP	_	2	nsubj	_	U-PERSON
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	white	white	JJ	_	5	nmod	_	O
+5	supremacist	supremacist	NN	_	2	attr	_	O
+6	Nazi	nazi	NNP	pos2=NN	5	appos	_	U-NORP
+7	.	.	.	_	2	punct	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	warning	warning	NN	pos2=VBG	3	compound	_	O
+3	signs	sign	NNS	_	5	nsubj	_	O
+4	have	have	VBP	_	5	aux	_	O
+5	been	be	VBN	_	0	root	_	O
+6	there	there	RB	_	5	advmod	_	O
+7	for	for	IN	_	5	prep	_	O
+8	years	year	NNS	_	7	pobj	_	U-DATE
+9	and	and	CC	_	5	cc	_	O
+10	we	we	PRP	_	12	nsubj	_	O
+11	never	never	RB	_	12	neg	_	O
+12	noticed	notice	VBD	pos2=VBN	5	conj	_	O
+13	!!	!!	.	_	12	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/darrUFwEmR	#hlink#	ADD	pos2=NN	0	root	_	O
+

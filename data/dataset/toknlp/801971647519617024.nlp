@@ -1,0 +1,32 @@
+1	it	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	a	a	DT	_	6	det	_	O
+4	tiny	tiny	JJ	_	6	nmod	_	O
+5	little	little	JJ	_	6	nmod	_	O
+6	friend	friend	NN	_	2	attr	_	O
+7	all	all	RB	pos2=DT	8	advmod	_	O
+8	wrapped	wrap	VBD	pos2=VBN	2	ccomp	_	O
+9	up	up	RP	_	8	prt	_	O
+10	in	in	IN	_	8	prep	_	O
+11	a	a	DT	_	14	det	_	O
+12	hot	hot	JJ	_	14	nmod	_	O
+13	pink	pink	JJ	_	14	nmod	_	O
+14	tuxedo	tuxedo	NN	_	10	pobj	_	O
+15	..	..	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	think	think	VBP	_	0	root	_	O
+3	about	about	IN	_	2	prep	_	O
+4	it	it	PRP	_	3	pobj	_	O
+5	morning	morning	NN	_	2	npadvmod	_	O
+6	,	,	,	_	5	punct	_	O
+7	noon	noon	NN	_	5	conj	_	U-TIME
+8	,	,	,	_	7	punct	_	O
+9	&	&	CC	_	7	cc	_	O
+10	nite	nite	NN	pos2=RB	7	conj	_	O
+11	...	..	.	pos2=,	2	punct	_	O
+
+1	#ScreamQueens	#screamqueens	NNS	pos2=ADD	3	compound	_	O
+2	#Adderall	#adderall	NNP	pos2=VBP	3	compound	_	B-PERSON
+3	😂😂	😂😂	NN	pos2=.	0	root	_	L-PERSON
+

@@ -1,0 +1,17 @@
+1	#MosulOffensive	#mosuloffensive	NN	pos2=XX	3	dep	_	O
+2	:	:	:	_	7	punct	_	O
+3	The	the	DT	_	5	det	_	O
+4	tense	tense	JJ	_	5	nmod	_	O
+5	moment	moment	NN	_	9	nsubj	_	O
+6	an	an	DT	_	9	det	_	O
+7	#ISIS	#isis	NNP	pos2=NN	9	compound	_	U-ORG
+8	militant	militant	NN	pos2=JJ	9	compound	_	O
+9	surrenders	surrender	NNS	pos2=VBZ	13	prep	_	O
+10	to	to	IN	_	9	prep	_	O
+11	Kurdish	kurdish	JJ	_	12	nmod	_	U-NORP
+12	soldiers	soldier	NNS	_	10	pobj	_	O
+13	.	.	.	_	0	root	_	O
+
+1	#IslamicState	#islamicstate	ADD	pos2=-LRB-	2	punct	_	O
+2	https://t.co/QQWr2aTy70	#hlink#	ADD	_	0	root	_	O
+

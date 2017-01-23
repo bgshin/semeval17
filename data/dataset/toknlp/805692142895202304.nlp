@@ -1,0 +1,28 @@
+1	The	the	DT	_	3	det	_	O
+2	Styx	styx	NNP	_	3	compound	_	O
+3	Pride	pride	NNP	_	6	nsubj	_	O
+4	have	have	VBP	_	6	aux	_	O
+5	been	be	VBN	_	6	aux	_	O
+6	moving	move	VBG	_	0	root	_	O
+7	between	between	IN	_	6	prep	_	O
+8	our	our	PRP$	_	9	poss	_	O
+9	dam	dam	NN	_	7	pobj	_	O
+10	and	and	CC	_	9	cc	_	O
+11	then	then	RB	_	16	advmod	_	O
+12	to	to	IN	_	7	conj	_	O
+13	the	the	DT	_	14	det	_	O
+14	East	east	NNP	_	12	pobj	_	U-LOC
+15	quite	quite	RB	_	16	advmod	_	O
+16	regularly	regularly	RB	_	6	advmod	_	O
+17	.	.	.	_	6	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	cubs	cub	NNS	pos2=NNPS	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	more	more	RBR	pos2=JJR	5	advmod	_	O
+5	mobile	mobile	JJ	_	3	acomp	_	O
+6	,	,	,	_	3	punct	_	O
+7	...	..	.	pos2=,	3	punct	_	O
+
+1	https://t.co/ikY6ur4HCQ	#hlink#	ADD	_	0	root	_	U-ORG
+

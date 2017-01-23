@@ -1,0 +1,14 @@
+1	#UN	#un	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	ACCUSES	accuse	VBZ	_	0	root	_	O
+3	#MYANMAR	#myanmar	NN	pos2=NNP	2	dobj	_	O
+4	OF	of	IN	pos2=RB	2	prep	_	O
+5	#ETHNICCLEANSING	#ethniccleansing	VBG	pos2=$	4	pcomp	_	O
+6	#asean	#asean	UH	pos2=IN	7	discourse	_	O
+7	#unitednations	#unitednations	NNS	pos2=UH	13	dep	_	O
+8	#rohingya	#rohingya	UH	pos2=FW	7	discourse	_	O
+9	#rakhinestate	#rakhinestate	UH	pos2=VBP	11	discourse	_	O
+10	#rakhine	#rakhine	UH	pos2=PRP	11	discourse	_	O
+11	#burningvillages	#burningvillages	UH	pos2=NNS	7	discourse	_	O
+12	…	…	NFP	pos2=-LRB-	13	punct	_	O
+13	https://t.co/SUl85pbtDk	#hlink#	ADD	_	2	dep	_	O
+

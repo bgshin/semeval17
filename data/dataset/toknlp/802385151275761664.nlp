@@ -1,0 +1,14 @@
+1	Trump	trump	NNP	pos2=NN	2	compound	_	B-ORG
+2	Transition	transition	NNP	_	3	nsubj	_	L-ORG
+3	Says	say	VBZ	_	0	root	_	O
+4	He	he	PRP	pos2=NNP	5	nsubj	_	O
+5	Plans	plan	VBZ	pos2=NNPS	3	ccomp	_	O
+6	to	to	TO	_	7	aux	_	O
+7	Dismantle	dismantle	VB	_	5	xcomp	_	O
+8	Dodd	dodd	NNP	_	10	compound	_	U-PERSON
+9	-	-	HYPH	pos2=:	10	punct	_	O
+10	Frank	frank	NNP	_	7	dobj	_	O
+11	https://t.co/dJ5BgVK0aI	#hlink#	ADD	pos2=NNP	7	dobj	_	O
+12	via	via	IN	_	7	prep	_	O
+13	@YouTube	@youtube	NNP	pos2=NN	12	pobj	_	O
+

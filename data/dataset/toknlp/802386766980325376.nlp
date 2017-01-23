@@ -1,0 +1,10 @@
+1	@CandyRandy_DJ	@candyrandy_dj	NNP	pos2=``	3	nmod	_	O
+2	Corporate	corporate	JJ	_	3	nmod	_	O
+3	dictatorship	dictatorship	NN	_	5	nsubj	_	O
+4	has	have	VBZ	_	5	aux	_	O
+5	arrived	arrive	VBN	_	0	root	_	O
+6	even	even	RB	_	7	advmod	_	O
+7	without	without	IN	_	5	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	TPP.	tpp.	NNP	pos2=NN	7	pobj	_	O
+

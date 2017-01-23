@@ -1,0 +1,24 @@
+1	#Spurs	#spurs	NNS	pos2=NNP	2	compound	_	O
+2	#GoSpursGo	#gospursgo	NNP	pos2=RB	7	npadvmod	_	O
+3	2011	0	CD	_	5	qmod	_	B-DATE
+4	-	-	SYM	pos2=HYPH	5	punct	_	I-DATE
+5	12	0	CD	_	8	nmod	_	L-DATE
+6	Panini	panini	NNP	pos2=NN	7	compound	_	O
+7	Black	black	NNP	pos2=JJ	9	compound	_	O
+8	Box	box	NN	pos2=NNP	9	compound	_	O
+9	#	#	NN	_	10	xcomp	_	O
+10	/	/	SYM	_	0	root	_	O
+11	99	0	CD	_	18	nmod	_	U-CARDINAL
+12	TIM	tim	NNP	pos2=NN	16	nmod	_	B-ORG
+13	DUNCAN	duncan	NNP	_	16	nmod	_	I-ORG
+14	Black	black	NNP	pos2=JJ	16	nmod	_	I-ORG
+15	Status	status	NNP	pos2=NN	16	nmod	_	I-ORG
+16	Elite	elite	NNP	_	18	nmod	_	L-ORG
+17	Rare	rare	JJ	pos2=NNP	18	nmod	_	O
+18	SPURS	spur	NNS	pos2=NNPS	2	appos	_	U-CARDINAL
+19	!!!!	!!	.	_	2	punct	_	O
+
+1	https://t.co/w8N11Mxox1	#hlink#	ADD	_	0	root	_	U-ORG
+2	#TimDuncan	#timduncan	ADD	pos2=-RRB-	0	root	_	U-ORG
+3	#NBA	#nba	NN	pos2=ADD	2	pobj	_	O
+

@@ -1,0 +1,10 @@
+1	@OutnumberedFNC	@outnumberedfnc	MD	pos2=``	2	aux	_	O
+2	KEEP	keep	VB	pos2=VBP	0	root	_	O
+3	PRAISING	praise	VBG	_	2	xcomp	_	O
+4	YOUR	your	PRP$	_	7	poss	_	O
+5	RACIST	racist	JJ	pos2=NN	7	nmod	_	B-ORG
+6	NEO	neo	NNP	pos2=NN	7	compound	_	I-ORG
+7	NAZI	nazi	NNP	pos2=NN	9	nmod	_	L-ORG
+8	CHOSEN	choose	VBN	pos2=NNP	9	nmod	_	O
+9	LEADER	leader	NN	_	3	dobj	_	O
+

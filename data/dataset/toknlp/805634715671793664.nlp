@@ -1,0 +1,28 @@
+1	@CCFA	@ccfa	NN	pos2=IN	2	compound	_	O
+2	Patients	patient	NNS	_	4	nsubj	_	O
+3	should	should	MD	_	4	aux	_	O
+4	focus	focus	VB	_	0	root	_	O
+5	on	on	IN	_	4	prep	_	O
+6	evidence	evidence	NN	_	8	npadvmod	_	O
+7	-	-	HYPH	_	8	punct	_	O
+8	based	base	VBN	_	9	nmod	_	O
+9	medicine	medicine	NN	_	5	pobj	_	O
+10	,	,	,	_	9	punct	_	O
+11	not	not	RB	_	9	neg	_	O
+12	magic	magic	NN	pos2=JJ	9	appos	_	O
+13	.	.	.	_	4	punct	_	O
+
+1	Homeopathy	homeopathy	NN	pos2=NNP	2	nsubj	_	O
+2	offers	offer	VBZ	_	0	root	_	O
+3	no	no	DT	_	5	det	_	O
+4	clinical	clinical	JJ	_	5	nmod	_	O
+5	benefits	benefit	NNS	_	2	dobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	At	at	IN	pos2=RB	2	advmod	_	O
+2	least	least	JJS	pos2=RBS	4	advmod	_	O
+3	yoga	yoga	NN	_	4	nsubj	_	O
+4	reduces	reduce	VBZ	_	0	root	_	O
+5	stress	stress	NN	_	4	dobj	_	O
+6	.	.	.	_	4	punct	_	O
+

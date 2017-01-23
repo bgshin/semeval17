@@ -1,0 +1,11 @@
+1	Ashley	ashley	NNP	_	2	compound	_	B-PERSON
+2	Graham	graham	NNP	_	10	nsubj	_	L-PERSON
+3	better	good	JJR	_	5	qmod	_	O
+4	than	than	IN	_	5	qmod	_	O
+5	90	0	CD	_	6	nmod	_	B-PERCENT
+6	%	%	NN	_	2	appos	_	L-PERCENT
+7	of	of	IN	_	6	prep	_	O
+8	these	these	DT	_	9	det	_	O
+9	models	model	NNS	_	7	pobj	_	O
+10	outchea	outchea	NN	pos2=VBP	0	root	_	O
+

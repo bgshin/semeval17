@@ -1,0 +1,26 @@
+1	AFRICOM	africom	NN	pos2=NNP	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	our	our	PRP$	_	5	poss	_	O
+4	attack	attack	NN	_	5	compound	_	O
+5	fighters	fighter	NNS	_	6	nsubj	_	O
+6	destroyed	destroy	VBD	_	0	root	_	O
+7	29	0	CD	_	8	nmod	_	U-CARDINAL
+8	targets	target	NNS	_	6	dobj	_	O
+9	affiliated	affiliate	VBN	_	8	acl	_	O
+10	to	to	IN	pos2=TO	9	prep	_	O
+11	"	"	``	_	14	punct	_	O
+12	ISIS	isis	NNP	pos2=NN	14	nmod	_	U-ORG
+13	"	"	''	_	14	punct	_	O
+14	elements	element	NNS	_	10	pobj	_	O
+15	on	on	IN	_	14	prep	_	O
+16	the	the	DT	_	17	det	_	B-DATE
+17	22nd	#ord#	NN	_	15	pobj	_	I-DATE
+18	of	of	IN	_	17	prep	_	I-DATE
+19	November	november	NNP	_	18	pobj	_	I-DATE
+20	,	,	,	_	19	punct	_	I-DATE
+21	2016	0	CD	_	19	npadvmod	_	L-DATE
+22	.	.	.	_	6	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/jlIFp0Ckho	#hlink#	ADD	pos2=NN	0	root	_	O
+

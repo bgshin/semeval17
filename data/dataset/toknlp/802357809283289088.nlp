@@ -1,0 +1,16 @@
+1	90's-00's	0's-0's	NNS	_	3	compound	_	O
+2	Bob	bob	NNP	_	3	compound	_	B-PERSON
+3	Dylan	dylan	NNP	_	5	nsubj	_	L-PERSON
+4	just	just	RB	_	5	advmod	_	O
+5	put	put	VBD	pos2=VB	0	root	_	O
+6	out	out	RP	_	5	prt	_	O
+7	10	0	CD	_	9	nmod	_	U-CARDINAL
+8	-	-	HYPH	pos2=SYM	9	punct	_	O
+9	track	track	NN	_	10	compound	_	O
+10	heaters	heater	NNS	_	5	dobj	_	O
+11	for	for	IN	_	5	prep	_	O
+12	albums	album	NNS	_	11	pobj	_	O
+13	that	that	WDT	pos2=IN	14	nsubj	_	O
+14	shit	shit	VBP	pos2=VBD	12	relcl	_	O
+15	legendary	legendary	JJ	_	10	relcl	_	O
+

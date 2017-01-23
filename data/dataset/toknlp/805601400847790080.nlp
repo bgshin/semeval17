@@ -1,0 +1,26 @@
+1	Not	not	RB	_	2	neg	_	O
+2	being	be	VBG	_	10	csubj	_	O
+3	vegan	vegan	JJ	pos2=RB	2	acomp	_	O
+4	and	and	CC	_	2	cc	_	O
+5	not	not	RB	_	6	neg	_	O
+6	caring	care	VBG	_	2	conj	_	O
+7	about	about	IN	pos2=RB	6	prep	_	O
+8	animal	animal	NN	_	9	compound	_	O
+9	testing	testing	NN	_	7	pobj	_	O
+10	are	be	VBP	_	0	root	_	O
+11	two	#crd#	CD	_	12	nmod	_	U-CARDINAL
+12	WAY	way	NN	pos2=RB	14	nmod	_	O
+13	different	different	JJ	_	14	nmod	_	O
+14	things	thing	NNS	_	10	attr	_	O
+15	.	.	.	_	10	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	latter	latter	NN	pos2=JJ	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	just	just	RB	_	6	advmod	_	O
+5	straight	straight	RB	pos2=JJ	6	advmod	_	O
+6	up	up	JJ	pos2=RP	3	acomp	_	O
+7	sh	sh	GW	pos2=IN	9	nmod	_	O
+8	…	…	NFP	pos2=GW	9	punct	_	O
+9	https://t.co/NG5Wtk65cx	#hlink#	ADD	pos2=NN	3	dep	_	U-ORG
+

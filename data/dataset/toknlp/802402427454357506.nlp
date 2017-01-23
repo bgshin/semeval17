@@ -1,0 +1,25 @@
+1	@TheRickWilson	@therickwilson	NN	pos2=ADD	0	root	_	O
+2	but	but	CC	_	1	cc	_	O
+3	with	with	IN	_	1	conj	_	O
+4	none	none	NN	_	3	pobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	legitimacy	legitimacy	NN	_	5	pobj	_	O
+8	.	.	.	_	6	advmod	_	O
+
+1	Compare	compare	VB	pos2=NNP	0	root	_	O
+2	Maduro	maduro	NNP	_	1	dobj	_	U-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	Chavez	chavez	NNP	_	2	conj	_	U-PERSON
+5	.	.	.	_	1	punct	_	O
+
+1	Hopefully	hopefully	RB	_	3	advmod	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	signals	signal	VBZ	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	collapse	collapse	NN	_	3	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	regime	regime	NN	_	6	pobj	_	O
+9	.	.	.	_	3	punct	_	O
+

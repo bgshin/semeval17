@@ -1,0 +1,8 @@
+1	On	on	IN	_	0	root	_	O
+2	#PopeFrancis	#popefrancis	NN	pos2=PRP$	4	nmod	_	U-DATE
+3	#Vatican	#vatican	JJ	pos2=POS	4	nmod	_	O
+4	reforms	reform	NNS	_	1	pobj	_	O
+5	and	and	CC	_	4	cc	_	O
+6	#communication	#communication	ADD	pos2=GW	7	nmod	_	O
+7	https://t.co/2Vz5PzVrh9	#hlink#	ADD	_	4	conj	_	O
+

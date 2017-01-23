@@ -1,0 +1,18 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	'm	be	VBP	_	3	aux	_	O
+3	doing	do	VBG	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	speech	speech	NN	_	3	dobj	_	O
+6	on	on	IN	_	5	prep	_	O
+7	animal	animal	NN	_	8	compound	_	O
+8	testing	testing	NN	_	6	pobj	_	O
+9	and	and	CC	_	3	cc	_	O
+10	it	it	PRP	_	11	nsubj	_	O
+11	is	be	VBZ	_	3	conj	_	O
+12	so	so	RB	_	13	advmod	_	O
+13	fucking	fucking	JJ	pos2=RB	17	nmod	_	O
+14	horrible	horrible	JJ	_	11	acomp	_	O
+15	oh	oh	UH	_	11	punct	_	O
+16	my	my	UH	_	15	discourse	_	O
+17	god	god	UH	_	15	discourse	_	O
+

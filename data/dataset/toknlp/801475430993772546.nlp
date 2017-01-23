@@ -1,0 +1,14 @@
+1	Left	left	JJ	_	3	nmod	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	wing	wing	NN	_	4	compound	_	O
+4	activists	activist	NNS	_	5	nsubj	_	O
+5	chide	chide	VBP	pos2=VB	0	root	_	O
+6	police	police	NNS	pos2=NN	5	dobj	_	O
+7	for	for	IN	pos2=CC	5	prep	_	O
+8	...	..	.	pos2=:	5	punct	_	O
+
+1	doing	do	VBG	_	4	advcl	_	O
+2	their	their	PRP$	_	3	poss	_	O
+3	job	job	NN	pos2=GW	1	dobj	_	O
+4	https://t.co/1Cjb09PaJ4	#hlink#	ADD	pos2=NN	0	root	_	O
+

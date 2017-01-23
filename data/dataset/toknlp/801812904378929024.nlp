@@ -1,0 +1,15 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@Google	@google	NNP	pos2=IN	2	compound	_	O
+2	Earth	earth	NNP	pos2=NN	3	nsubj	_	U-LOC
+3	brings	bring	VBZ	_	0	root	_	O
+4	its	its	PRP$	_	6	poss	_	O
+5	breathtaking	breathtaking	JJ	_	6	nmod	_	O
+6	views	view	NNS	_	3	dobj	_	O
+7	into	into	IN	_	3	prep	_	O
+8	#VR	#vr	NN	pos2=NNS	7	pobj	_	U-ORG
+9	via	via	IN	pos2=GW	3	prep	_	O
+10	@TechCrunch	@techcrunch	GW	pos2=ADD	9	pobj	_	O
+11	https://t.co/bCCezSnPo5	#hlink#	ADD	_	12	nmod	_	O
+12	https://t.co/lu2XPwEL1r	#hlink#	ADD	_	9	pobj	_	O
+

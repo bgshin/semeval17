@@ -1,0 +1,21 @@
+1	Populists	populist	NNS	pos2=NNPS	2	nsubj	_	U-NORP
+2	are	be	VBP	_	11	ccomp	_	O
+3	on	on	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	march	march	NN	_	3	pobj	_	O
+6	-	-	:	pos2=,	11	punct	_	O
+7	Can	can	MD	pos2=NNP	11	aux	_	O
+8	Marine	marine	NNP	pos2=JJ	10	compound	_	O
+9	Le	le	NNP	_	10	compound	_	O
+10	Pen	pen	NNP	_	11	nsubj	_	O
+11	replicate	replicate	VB	_	0	root	_	O
+12	their	their	PRP$	_	13	poss	_	O
+13	success	success	NN	_	11	dobj	_	O
+14	?	?	.	_	11	punct	_	O
+
+1	-	-	NFP	pos2=SYM	5	punct	_	O
+2	Frank	frank	NNP	pos2=GW	3	compound	_	B-PERSON
+3	Davies	davies	NNP	pos2=GW	5	dep	_	L-PERSON
+4	https://t.co/vYC3ZwwMx7	#hlink#	ADD	_	5	nmod	_	O
+5	https://t.co/DvNn0kkmT3	#hlink#	ADD	_	0	root	_	U-ORG
+

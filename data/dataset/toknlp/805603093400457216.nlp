@@ -1,0 +1,26 @@
+1	@jjauthor	@jjauthor	UH	pos2=NN	5	discourse	_	O
+2	@KrisKobach1787	@kriskobach0	IN	pos2=NN	0	root	_	O
+3	This	this	DT	_	4	det	_	O
+4	guy	guy	NN	_	5	nsubj	_	O
+5	will	will	NN	pos2=MD	2	pobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	Kansas	kansas	NNP	_	2	nsubj	_	U-GPE
+2	has	have	VBZ	_	0	root	_	O
+3	super	super	RB	pos2=JJ	6	nmod	_	O
+4	voter	voter	NN	pos2=JJ	5	compound	_	O
+5	registration	registration	NN	_	6	compound	_	O
+6	laws	law	NNS	pos2=NN	2	dobj	_	O
+7	&	&	CC	_	6	cc	_	O
+8	almost	almost	RB	_	9	advmod	_	B-CARDINAL
+9	0	0	CD	_	10	nmod	_	L-CARDINAL
+10	fraud	fraud	NN	_	6	conj	_	O
+11	!	!	.	_	2	punct	_	O
+
+1	If	if	IN	_	3	mark	_	O
+2	they	they	PRP	_	3	nsubj	_	O
+3	put	put	VBD	pos2=VBP	5	advcl	_	O
+4	Kri	kri	NNP	pos2=GW	3	dobj	_	B-PERSON
+5	…	…	NFP	pos2=-LRB-	6	punct	_	L-PERSON
+6	https://t.co/yga5uMbLKS	#hlink#	ADD	_	0	root	_	O
+

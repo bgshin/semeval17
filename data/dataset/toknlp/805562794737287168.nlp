@@ -1,0 +1,14 @@
+1	Using	use	VBG	_	0	root	_	O
+2	...	..	.	pos2=,	1	punct	_	O
+
+1	gasp	gasp	NN	pos2=UH	0	root	_	O
+2	...	..	.	_	1	punct	_	O
+
+1	math	math	NN	_	3	nsubj	_	O
+2	to	to	TO	_	3	aux	_	O
+3	explain	explain	VB	_	0	root	_	O
+4	homeopathy	homeopathy	NN	_	3	dobj	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	https://t.co/vpQlJjED4u	#hlink#	ADD	_	0	root	_	U-ORG
+

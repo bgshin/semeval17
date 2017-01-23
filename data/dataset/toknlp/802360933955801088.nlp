@@ -1,0 +1,16 @@
+1	Bday	bday	NN	pos2=NNP	2	compound	_	O
+2	whiskeys	whiskey	NNS	_	15	nsubj	_	O
+3	@	@	SYM	pos2=,	4	punct	_	O
+4	3030DundasWest	0dundaswest	NN	pos2=JJS	2	prep	_	O
+5	with	with	IN	_	2	prep	_	O
+6	local	local	JJ	_	7	nmod	_	O
+7	baskets	basket	NNS	_	5	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	deplorables	deplorables	NNS	pos2=XX	8	pobj	_	O
+10	@thatuser	@thatuser	WDT	pos2=IN	11	nsubj	_	O
+11	@AdamWishinski	@adamwishinski	VBP	pos2=NNP	7	relcl	_	O
+12	@legalbagel	@legalbagel	UH	pos2=NFP	15	nmod	_	O
+13	@TalBortniker	@talbortniker	GW	pos2=$	15	nmod	_	O
+14	…	…	NFP	pos2=GW	15	punct	_	O
+15	https://t.co/kCbzBlrkDu	#hlink#	ADD	_	0	root	_	O
+

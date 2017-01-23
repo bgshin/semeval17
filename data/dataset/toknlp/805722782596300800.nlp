@@ -1,0 +1,25 @@
+1	alhamduliLLAH	alhamdulillah	UH	pos2=NN	0	root	_	O
+2	....	..	.	pos2=,	1	punct	_	O
+
+1	there	there	EX	pos2=RB	2	expl	_	O
+2	had	have	VBD	pos2=VBN	0	root	_	O
+3	since	since	RB	pos2=IN	2	advmod	_	O
+4	this	this	DT	_	5	det	_	B-TIME
+5	morning	morning	NN	_	2	npadvmod	_	L-TIME
+6	many	many	JJ	_	7	nmod	_	O
+7	operations	operation	NNS	_	8	nsubj	_	O
+8	started	start	VBD	pos2=VBN	2	conj	_	O
+9	:	:	:	_	8	punct	_	O
+10	Aleppo	aleppo	NNP	_	8	npadvmod	_	U-GPE
+11	...	..	.	pos2=,	8	punct	_	O
+
+1	Nubul	nubul	NNP	pos2=UH	0	root	_	U-PERSON
+2	...	..	.	pos2=,	1	punct	_	O
+
+1	Zahra	zahra	NNP	pos2=NN	0	root	_	U-PERSON
+2	...	..	.	pos2=,	1	punct	_	O
+
+1	airbase	airbase	NN	pos2=VB	2	compound	_	O
+2	Hama	hama	NNP	_	0	root	_	U-GPE
+3	...	..	.	pos2=,	2	punct	_	O
+

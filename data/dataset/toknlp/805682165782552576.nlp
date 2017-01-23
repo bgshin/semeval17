@@ -1,0 +1,14 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@DrBobSears	@drbobsears	NNS	pos2=NNP	2	nsubj	_	O
+2	explains	explain	VBZ	_	0	root	_	O
+3	some	some	DT	_	4	det	_	O
+4	reasons	reason	NNS	_	2	dobj	_	O
+5	behind	behind	IN	_	4	prep	_	O
+6	his	his	PRP$	_	9	poss	_	O
+7	alternative	alternative	JJ	_	9	nmod	_	O
+8	vaccination	vaccination	NN	_	9	compound	_	O
+9	schedule	schedule	NN	pos2=GW	5	pobj	_	O
+10	https://t.co/2IwUnl48CJ	#hlink#	ADD	pos2=NN	8	appos	_	O
+11	#vaxfax	#vaxfax	-RRB-	pos2=NN	2	punct	_	O
+

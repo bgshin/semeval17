@@ -1,0 +1,13 @@
+1	Aid	aid	NN	pos2=NNP	2	compound	_	O
+2	shipment	shipment	NN	_	3	nsubj	_	O
+3	arrives	arrive	VBZ	_	0	root	_	O
+4	to	to	IN	_	3	prep	_	O
+5	families	family	NNS	_	4	pobj	_	O
+6	who	who	WP	_	7	nsubj	_	O
+7	left	leave	VBD	_	5	relcl	_	O
+8	Aleppo	aleppo	NNP	_	7	dobj	_	U-GPE
+9	eastern	eastern	JJ	_	10	nmod	_	O
+10	neighborhoods	neighborhood	NNS	_	8	appos	_	O
+11	#Syria	#syria	ADD	pos2=NFP	12	punct	_	U-NORP
+12	https://t.co/TokDYzQtRD	#hlink#	ADD	pos2=NN	8	appos	_	O
+

@@ -1,0 +1,23 @@
+1	Retweeted	retweeted	VBN	pos2=VBD	3	nmod	_	O
+2	Jeronimo	jeronimo	NNP	_	3	compound	_	B-PERSON
+3	Zucco	zucco	NNP	_	13	nsubj	_	L-PERSON
+4	(	(	-LRB-	_	3	punct	_	O
+5	@jczucco	@jczucco	UH	pos2=NNP	3	discourse	_	O
+6	)	)	-RRB-	_	3	punct	_	O
+7	:Microsoft	:microsoft	NNP	pos2=NN	13	nsubj	_	O
+8	—	-	:	pos2=HYPH	7	punct	_	O
+9	yes	yes	UH	_	13	discourse	_	O
+10	,	,	,	_	13	punct	_	O
+11	Microsoft	microsoft	NNP	_	13	nsubj	_	U-ORG
+12	—	-	:	pos2=,	13	punct	_	O
+13	joins	join	VBZ	_	0	root	_	O
+14	the	the	DT	_	19	det	_	B-ORG
+15	Linux	linux	NNP	_	16	compound	_	I-ORG
+16	Foundation	foundation	NNP	pos2=NN	13	dobj	_	I-ORG
+17	|	|	SYM	pos2=,	19	punct	_	I-ORG
+18	Ars	ars	NNP	_	19	compound	_	I-ORG
+19	Technica	technica	NNP	_	16	appos	_	L-ORG
+20	...	..	.	pos2=,	13	punct	_	O
+
+1	https://t.co/0zhXbFfU2m	#hlink#	ADD	_	0	root	_	U-ORG
+

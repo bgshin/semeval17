@@ -1,0 +1,10 @@
+1	The	the	DT	_	3	det	_	O
+2	crazy	crazy	JJ	_	3	nmod	_	O
+3	#milesfamily	#milesfamily	NNP	pos2=NN	4	nsubj	_	U-ORG
+4	attempted	attempt	VBD	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	#mannequinchallenge	#mannequinchallenge	NN	pos2=NNP	4	dobj	_	O
+7	while	while	IN	_	8	mark	_	O
+8	…	…	NFP	pos2=VBG	9	punct	_	O
+9	https://t.co/SX2OtSI849	#hlink#	ADD	pos2=NN	4	dep	_	O
+

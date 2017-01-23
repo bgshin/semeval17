@@ -1,0 +1,13 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	think	think	VBP	_	0	root	_	O
+3	we	we	PRP	_	5	nsubj	_	O
+4	should	should	MD	_	5	aux	_	O
+5	give	give	VB	_	2	ccomp	_	O
+6	all	all	DT	pos2=PDT	8	det	_	O
+7	#ISIS	#isis	NNP	pos2=NN	8	compound	_	U-ORG
+8	members	member	NNS	_	5	dative	_	O
+9	a	a	DT	_	10	det	_	O
+10	Bible	bible	NNP	_	5	dative	_	U-WORK_OF_ART
+11	this	this	DT	_	12	det	_	O
+12	#Christmas	#christmas	NNP	pos2=VBZ	5	dative	_	O
+

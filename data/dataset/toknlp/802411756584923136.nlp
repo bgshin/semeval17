@@ -1,0 +1,22 @@
+1	@SouthernPundit	@southernpundit	NN	pos2=NNP	2	compound	_	O
+2	Fidel	fidel	NNP	_	5	nsubj	_	U-PERSON
+3	must	must	MD	_	5	aux	_	O
+4	have	have	VB	_	5	aux	_	O
+5	died	die	VBN	_	0	root	_	O
+6	in	in	IN	_	5	prep	_	O
+7	prison	prison	NN	_	6	pobj	_	O
+8	,	,	,	_	10	punct	_	O
+9	he	he	PRP	_	10	nsubj	_	O
+10	was	be	VBD	_	5	advcl	_	O
+11	a	a	DT	_	12	det	_	O
+12	criminal	criminal	JJ	pos2=NN	10	attr	_	O
+13	,	,	,	_	10	punct	_	O
+14	as	as	RB	_	16	advmod	_	O
+15	well	well	RB	_	16	advmod	_	O
+16	as	as	IN	_	12	cc	_	O
+17	Nicolas	nicolas	NNP	_	18	compound	_	B-PERSON
+18	Maduro	maduro	NNP	_	21	dep	_	L-PERSON
+19	in	in	IN	_	18	prep	_	O
+20	#Venezuela	#venezuela	NNP	pos2=-LRB-	19	pobj	_	U-GPE
+21	https://t.co/T3G828NZpg	#hlink#	ADD	_	10	dep	_	O
+

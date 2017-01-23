@@ -1,0 +1,14 @@
+1	Classic	classic	NNP	pos2=JJ	3	compound	_	O
+2	Homeopathic	homeopathic	NNP	_	3	compound	_	O
+3	Medicine	medicine	NNP	_	13	dep	_	O
+4	&	&	CC	_	3	cc	_	O
+5	the	the	DT	_	6	det	_	O
+6	Treatment	treatment	NN	pos2=NNP	3	conj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	#Eczemaby	#eczemaby	NNP	_	11	compound	_	O
+9	Robert	robert	NNP	_	11	compound	_	B-PERSON
+10	J.	j.	NNP	_	11	compound	_	I-PERSON
+11	Sig	sig	NNP	pos2=GW	7	pobj	_	L-PERSON
+12	norehttps://t.co/AVbTNVIeQr#Homeopathy	#hlink#	ADD	_	13	dep	_	O
+13	https://t.co/hSPXaI0E4L	#hlink#	ADD	_	0	root	_	U-ORG
+

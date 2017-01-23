@@ -1,0 +1,19 @@
+1	As	as	IN	_	2	mark	_	O
+2	Standing	stand	VBG	pos2=NNP	5	advcl	_	O
+3	Rock	rock	NNP	_	4	compound	_	O
+4	Protests	protest	NNS	pos2=NNPS	5	nsubj	_	O
+5	Turn	turn	VBP	pos2=NNP	0	root	_	O
+6	Bloodier	bloody	JJR	pos2=NNP	5	acomp	_	O
+7	,	,	,	_	9	punct	_	O
+8	Trump	trump	NNP	pos2=NN	9	nsubj	_	O
+9	Stands	stand	VBZ	pos2=NNP	5	conj	_	O
+10	To	to	IN	pos2=NNP	9	prep	_	O
+11	Cash	cash	VB	pos2=NNP	10	pobj	_	O
+12	In	in	RP	_	11	prt	_	O
+13	On	on	IN	pos2=NNP	11	prep	_	O
+14	Dakota	dakota	NNP	_	15	compound	_	O
+15	Pipeline	pipeline	NNP	pos2=NN	13	pobj	_	O
+16	https://t.co/0yCbF72VXA	#hlink#	ADD	_	18	nmod	_	O
+17	#NotMyPresident	#notmypresident	ADD	pos2=-RRB-	14	nmod	_	O
+18	#BoycottTrump	#boycotttrump	NN	pos2=ADD	17	pobj	_	O
+

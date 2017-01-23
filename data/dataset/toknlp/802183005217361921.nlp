@@ -1,0 +1,22 @@
+1	@DMC_Ryan	@dmc_ryan	ADD	pos2=JJ	3	det	_	O
+2	@MaggieTheBoxer	@maggietheboxer	NNP	pos2=IN	3	compound	_	B-PERSON
+3	Kool	kool	NNP	_	5	vocative	_	L-PERSON
+4	,	,	,	_	5	punct	_	O
+5	hope	hope	VBP	pos2=VB	0	root	_	O
+6	Maggy	maggy	NNP	_	8	nsubj	_	U-PERSON
+7	's	's	VBZ	pos2=POS	8	aux	_	O
+8	doing	do	VBG	_	5	ccomp	_	O
+9	fine	fine	RB	pos2=JJ	8	advmod	_	O
+10	!	!	.	_	5	punct	_	O
+
+1	Mentioned	mention	VBN	pos2=VBD	0	root	_	O
+2	&	&	CC	_	1	cc	_	O
+3	Linked	link	VBN	pos2=VBD	1	conj	_	O
+4	you	you	PRP	_	3	dobj	_	O
+5	in	in	IN	_	3	prep	_	O
+6	my	my	PRP$	_	8	poss	_	O
+7	latest	late	JJS	pos2=NN	8	nmod	_	O
+8	post	post	NN	pos2=IN	5	pobj	_	O
+9	:	:	:	_	1	punct	_	O
+10	https://t.co/V7DIUn1VPZ	#hlink#	ADD	_	1	dep	_	O
+

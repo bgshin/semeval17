@@ -1,0 +1,16 @@
+1	VID	vid	NN	pos2=NNP	2	nsubj	_	O
+2	Hide	hide	VB	pos2=NNP	0	root	_	O
+3	Your	your	PRP$	_	4	poss	_	O
+4	Valuables	valuables	NNS	pos2=NNP	2	dobj	_	O
+5	Inside	inside	IN	pos2=RB	2	prep	_	O
+6	a	a	DT	_	10	det	_	O
+7	Hollowed	hollow	VBN	pos2=NNP	10	nmod	_	O
+8	Out	out	RP	pos2=NNP	7	prt	_	O
+9	Decorative	decorative	JJ	pos2=NNP	10	nmod	_	O
+10	Candle	candle	NN	pos2=NNP	5	pobj	_	O
+11	32416	0	CD	_	12	dep	_	U-CARDINAL
+12	https://t.co/Op3hKPqX2F	#hlink#	ADD	_	10	appos	_	O
+13	#tpp	#tpp	IN	pos2=-RRB-	12	prep	_	O
+14	#blacklivesmatter	#blacklivesmatter	FW	pos2=UH	13	pobj	_	O
+15	#atr	#atr	UH	pos2=FW	2	discourse	_	O
+

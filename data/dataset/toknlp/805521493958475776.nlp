@@ -1,0 +1,18 @@
+1	@realDonaldTrump	@realdonaldtrump	UH	pos2=NNP	15	discourse	_	O
+2	Maybe	maybe	RB	_	15	advmod	_	O
+3	if	if	IN	_	7	mark	_	O
+4	you	you	PRP	_	7	nsubj	_	O
+5	had	have	VBD	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	violated	violate	VBN	_	15	advcl	_	O
+8	the	the	DT	_	9	det	_	O
+9	embargo	embargo	NN	_	7	dobj	_	O
+10	against	against	IN	_	9	prep	_	O
+11	Cuba	cuba	NNP	_	10	pobj	_	U-GPE
+12	,	,	,	_	15	punct	_	O
+13	I	I	PRP	_	15	nsubj	_	O
+14	'd	would	MD	_	15	aux	_	O
+15	believe	believe	VB	_	0	root	_	O
+16	you	you	PRP	_	15	dobj	_	O
+17	.	.	.	_	15	punct	_	O
+

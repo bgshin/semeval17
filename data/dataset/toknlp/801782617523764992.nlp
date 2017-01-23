@@ -1,0 +1,14 @@
+1	The	the	DT	_	4	det	_	O
+2	Rocket	rocket	NNP	pos2=NN	3	compound	_	O
+3	Richard	richard	NNP	_	4	compound	_	O
+4	race	race	NN	pos2=NNP	0	root	_	O
+5	or	or	CC	_	4	cc	_	O
+6	the	the	DT	_	9	det	_	B-WORK_OF_ART
+7	Cy	cy	NNP	pos2=JJ	8	compound	_	I-WORK_OF_ART
+8	Young	young	NNP	pos2=JJ	9	compound	_	L-WORK_OF_ART
+9	race	race	NN	_	4	conj	_	O
+10	?	?	.	_	9	punct	_	O
+
+1	#NHL	#nhl	NFP	pos2=ADD	2	punct	_	O
+2	https://t.co/Pm9BIhkiIR	#hlink#	ADD	pos2=NN	0	root	_	O
+

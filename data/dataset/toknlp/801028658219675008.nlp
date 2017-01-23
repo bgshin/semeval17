@@ -1,0 +1,15 @@
+1	#Iraq	#iraq	NN	pos2=NNS	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	69,000	0	CD	_	4	nmod	_	U-CARDINAL
+4	people	people	NNS	_	5	nsubj	_	O
+5	displaced	displace	VBN	pos2=VBD	0	root	_	O
+6	#Mosul	#mosul	NNP	pos2=$	4	appos	_	U-DATE
+7	#humanitarian	#humanitarian	UH	pos2=FW	5	discourse	_	O
+8	.	.	.	_	5	punct	_	O
+
+1	#Mosuloffensive	#mosuloffensive	NNP	pos2=JJ	5	nmod	_	B-ORG
+2	#MosulOp	#mosulop	GW	pos2=XX	5	nmod	_	L-ORG
+3	#Iraq#ISIS#IslamicState	#iraq#isis#islamicstate	GW	pos2=ADD	5	nmod	_	O
+4	…	…	NFP	pos2=GW	5	punct	_	O
+5	https://t.co/0fkazKwNRP	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,9 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	love	love	VBP	_	0	root	_	O
+3	my	my	PRP$	_	4	poss	_	O
+4	Cubs	cub	NNPS	pos2=NNS	2	dobj	_	U-ORG
+5	!	!	.	_	2	punct	_	O
+
+1	https://t.co/9v0R7p37Y3	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/VSqCnbqQ19	#hlink#	ADD	_	0	root	_	U-ORG
+

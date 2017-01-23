@@ -1,0 +1,15 @@
+1	@WMoulthrope	@wmoulthrope	ADD	pos2=XX	7	cc	_	O
+2	@katalin_pota	@katalin_pota	GW	pos2=NNP	4	nmod	_	O
+3	@BasemntDwllng	@basemntdwllng	VBG	pos2=GW	4	nmod	_	O
+4	@SenWarren2020	@senwarren0	NN	pos2=GW	9	dobj	_	O
+5	@elizabethforma	@elizabethforma	MD	pos2=UH	7	aux	_	O
+6	@SenatorWarren	@senatorwarren	NNP	pos2=GW	7	nsubj	_	B-ORG
+7	Wait	wait	VB	pos2=NNP	0	root	_	I-ORG
+8	&	&	CC	_	7	cc	_	I-ORG
+9	See	see	VB	pos2=NNP	7	conj	_	L-ORG
+10	,	,	,	_	7	punct	_	O
+11	but	but	CC	_	7	cc	_	O
+12	NEVER	never	RB	_	13	neg	_	O
+13	#CROOKEDHillary	#crookedhillary	VB	pos2=JJ	7	conj	_	O
+14	!	!	.	_	7	punct	_	O
+

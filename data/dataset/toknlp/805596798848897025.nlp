@@ -1,0 +1,26 @@
+1	@LucyXIV	@lucyxiv	UH	pos2=``	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	'm	be	VBP	_	0	root	_	O
+4	pretty	pretty	RB	_	5	advmod	_	O
+5	sure	sure	JJ	_	3	acomp	_	O
+6	if	if	IN	_	8	mark	_	O
+7	I	I	PRP	_	8	nsubj	_	O
+8	had	have	VBD	_	5	ccomp	_	O
+9	a	a	DT	_	10	det	_	O
+10	disease	disease	NN	_	8	dobj	_	O
+11	where	where	WRB	_	14	advmod	_	O
+12	I	I	PRP	_	14	nsubj	_	O
+13	was	be	VBD	_	14	aux	_	O
+14	going	go	VBG	_	10	relcl	_	O
+15	to	to	TO	_	16	aux	_	O
+16	lose	lose	VB	_	14	xcomp	_	O
+17	all	all	DT	_	19	det	_	O
+18	motor	motor	NN	_	19	compound	_	O
+19	functions	function	NNS	_	16	dobj	_	O
+20	I	I	PRP	_	22	nsubj	_	O
+21	'd	would	MD	_	22	aux	_	O
+22	prefer	prefer	VB	_	10	relcl	_	O
+23	euthanasia	euthanasia	NN	_	22	dobj	_	O
+24	,	,	,	_	25	punct	_	O
+25	#NOZOMBIE	#nozombie	NN	pos2=NNP	10	appos	_	O
+

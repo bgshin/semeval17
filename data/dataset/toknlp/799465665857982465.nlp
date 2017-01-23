@@ -1,0 +1,17 @@
+1	So	so	RB	_	2	advmod	_	O
+2	proud	proud	JJ	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	way	way	NN	pos2=RB	3	pobj	_	O
+5	@realDonaldTrump	@realdonaldtrump	RB	pos2=NNP	2	advmod	_	B-ORG
+6	&	&	CC	_	2	cc	_	I-ORG
+7	#trumpTransitionteam	#trumptransitionteam	NNP	pos2=NN	2	conj	_	L-ORG
+8	are	be	VBP	_	9	aux	_	O
+9	molding	mold	VBG	pos2=NN	7	nsubjpass	_	O
+10	strong	strong	JJ	_	12	nmod	_	O
+11	leadership	leadership	NN	_	12	compound	_	O
+12	group	group	NN	_	9	dobj	_	O
+13	for	for	IN	_	9	prep	_	O
+14	#America	#america	NNP	pos2=$	16	nmod	_	O
+15	#TeamTrump	#teamtrump	XX	pos2=POS	16	dep	_	O
+16	#MakeAmericaGreatAgain	#makeamericagreatagain	ADD	pos2=RB	13	pobj	_	O
+

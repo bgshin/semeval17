@@ -1,0 +1,26 @@
+1	cuba	cuba	NN	pos2=NNS	2	nsubj	_	O
+2	deserved	deserve	VBD	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	embargo	embargo	NN	_	2	dobj	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	you	you	PRP	_	3	nsubj	_	O
+2	almost	almost	RB	_	3	advmod	_	O
+3	start	start	VBP	pos2=VB	0	root	_	O
+4	world	world	NN	_	5	compound	_	O
+5	war	war	NN	_	3	dobj	_	O
+6	3	0	CD	pos2=NNP	5	nmod	_	U-CARDINAL
+7	?	?	.	_	3	punct	_	O
+
+1	we	we	PRP	_	3	nsubj	_	O
+2	are	be	VBP	_	3	aux	_	O
+3	going	go	VBG	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	ignore	ignore	VB	_	3	xcomp	_	O
+6	you	you	PRP	_	5	dobj	_	O
+7	forever	forever	RB	_	5	advmod	_	O
+8	,	,	,	_	5	punct	_	O
+9	fuck	fuck	VB	pos2=VBP	5	dep	_	O
+10	you	you	PRP	_	9	dobj	_	O
+11	!	!	.	_	3	punct	_	O
+

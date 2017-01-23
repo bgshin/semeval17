@@ -1,0 +1,15 @@
+1	@yakelovitz	@yakelovitz	UH	pos2=SYM	3	discourse	_	O
+2	reagan	reagan	NN	pos2=NNP	3	nsubj	_	U-PERSON
+3	was	be	VBD	_	0	root	_	O
+4	gona	gona	NN	pos2=TO	5	nsubj	_	O
+5	bring	bring	VB	pos2=VBP	3	ccomp	_	O
+6	back	back	RB	_	5	advmod	_	O
+7	gold	gold	NN	pos2=JJ	8	compound	_	O
+8	standard	standard	NN	pos2=JJ	5	dobj	_	O
+9	after	after	IN	_	12	mark	_	O
+10	he	he	PRP	_	12	nsubj	_	O
+11	never	never	RB	_	12	neg	_	O
+12	mention	mention	VBP	pos2=VB	5	advcl	_	O
+13	it	it	PRP	_	12	dobj	_	O
+14	again	again	RB	_	12	advmod	_	O
+

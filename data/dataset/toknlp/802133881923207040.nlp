@@ -1,0 +1,21 @@
+1	#Libya	#libya	NNP	pos2=IN	2	compound	_	O
+2	Prayer	prayer	NNP	pos2=NN	6	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	Absent	absent	NNP	pos2=NNPS	3	pobj	_	O
+6	held	hold	VBN	pos2=VBD	0	root	_	O
+7	in	in	IN	pos2=RP	6	prep	_	O
+8	#Tripoli	#tripoli	NNP	pos2=NNS	7	pobj	_	U-GPE
+9	for	for	IN	_	6	prep	_	O
+10	#AQIM	#aqim	NNP	pos2=NN	11	compound	_	U-ORG
+11	leader	leader	NN	_	9	pobj	_	O
+12	killed	kill	VBN	pos2=VBD	11	acl	_	O
+13	in	in	IN	_	12	prep	_	O
+14	Air	air	NNP	pos2=NN	15	compound	_	B-ORG
+15	Attack	attack	NNP	pos2=NN	13	pobj	_	L-ORG
+16	in	in	IN	_	15	prep	_	O
+17	#Sebha	#sebha	NNP	_	16	pobj	_	U-GPE
+18	.	.	.	_	6	punct	_	O
+
+1	https://t.co/u0ks3gfz0t	#hlink#	ADD	_	0	root	_	U-ORG
+

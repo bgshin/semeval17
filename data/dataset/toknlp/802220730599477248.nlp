@@ -1,0 +1,17 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	ca	can	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	wait	wait	VB	_	0	root	_	O
+5	till	till	IN	_	8	mark	_	O
+6	self-driving	self-driving	JJ	pos2=NN	7	nmod	_	O
+7	cars	car	NNS	_	8	nsubj	_	O
+8	become	become	VBP	pos2=VB	4	advcl	_	O
+9	the	the	DT	_	10	det	_	O
+10	norm	norm	NN	_	8	attr	_	O
+11	.	.	.	_	4	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	hate	hate	VBP	_	0	root	_	O
+3	driving	drive	VBG	pos2=NN	2	xcomp	_	O
+4	.	.	.	_	2	punct	_	O
+

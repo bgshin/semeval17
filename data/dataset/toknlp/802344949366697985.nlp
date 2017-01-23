@@ -1,0 +1,27 @@
+1	So	so	RB	pos2=IN	5	advmod	_	O
+2	that	that	IN	pos2=DT	5	mark	_	O
+3	NYMag	nymag	NNP	pos2=NN	4	compound	_	U-ORG
+4	article	article	NN	_	5	nsubj	_	O
+5	was	be	VBD	_	12	advcl	_	O
+6	right	right	JJ	pos2=RB	5	acomp	_	O
+7	,	,	,	_	12	punct	_	O
+8	Obama	obama	NNP	_	9	compound	_	U-PERSON
+9	admin	admin	NN	_	12	nsubj	_	O
+10	does	do	VBZ	_	12	aux	_	O
+11	not	not	RB	_	12	neg	_	O
+12	want	want	VB	_	0	root	_	O
+13	HRC	hrc	NN	pos2=NNP	15	nsubj	_	U-ORG
+14	to	to	TO	_	15	aux	_	O
+15	challenge	challenge	VB	pos2=NN	12	ccomp	_	O
+16	results	result	NNS	_	15	dobj	_	O
+17	.	.	.	_	12	punct	_	O
+
+1	Not	not	RB	_	4	neg	_	O
+2	that	that	IN	pos2=RB	4	mark	_	O
+3	she	she	PRP	_	4	nsubj	_	O
+4	wanted	want	VBD	_	0	root	_	O
+5	to	to	TO	_	4	xcomp	_	O
+6	anyways	anyways	RB	pos2=UH	8	nmod	_	O
+7	…	…	NFP	pos2=-LRB-	8	punct	_	O
+8	https://t.co/YI7vK2l4RN	#hlink#	ADD	_	4	xcomp	_	O
+

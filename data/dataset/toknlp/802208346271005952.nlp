@@ -1,0 +1,15 @@
+1	Check	check	VB	_	0	root	_	O
+2	out	out	RP	_	1	prt	_	O
+3	a	a	DT	_	5	det	_	O
+4	different	different	JJ	_	5	nmod	_	O
+5	kind	kind	NN	_	1	dobj	_	O
+6	of	of	IN	pos2=RB	5	prep	_	O
+7	#MannequinChallenge	#mannequinchallenge	NN	pos2=XX	6	pobj	_	O
+8	with	with	IN	_	5	prep	_	O
+9	these	these	DT	_	11	det	_	O
+10	@SchittsCreek	@schittscreek	VBN	pos2=JJ	11	nmod	_	O
+11	outtakes	outtake	NNS	pos2=GW	8	pobj	_	O
+12	…	…	NFP	pos2=GW	14	punct	_	O
+13	https://t.co/BiTZvFiaig	#hlink#	ADD	pos2=GW	14	nmod	_	O
+14	https://t.co/V1MEGfiRrb	#hlink#	ADD	_	1	dep	_	U-ORG
+

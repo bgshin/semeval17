@@ -1,0 +1,18 @@
+1	@truthglow	@truthglow	UH	pos2=XX	12	discourse	_	O
+2	@katalin_pota	@katalin_pota	UH	pos2=GW	12	discourse	_	O
+3	@BasemntDwllng	@basemntdwllng	VBG	pos2=UH	4	nmod	_	O
+4	@SenWarren2020	@senwarren0	NN	pos2=ADD	8	mark	_	O
+5	@elizabethforma	@elizabethforma	UH	pos2=NN	12	discourse	_	O
+6	@SenatorWarren	@senatorwarren	NNP	pos2=UH	8	mark	_	O
+7	She	she	PRP	_	12	nsubj	_	O
+8	will	will	MD	_	12	aux	_	O
+9	more	more	RBR	_	12	advmod	_	O
+10	than	than	IN	_	9	prep	_	O
+11	likely	likely	RB	pos2=JJ	10	pcomp	_	O
+12	go	go	VB	_	0	root	_	O
+13	to	to	IN	_	12	prep	_	O
+14	work4	work0	NN	pos2=NNP	16	compound	_	O
+15	Wells	wells	NNP	_	16	compound	_	B-ORG
+16	Fargo	fargo	NNP	_	13	pobj	_	L-ORG
+17	!	!	.	_	12	punct	_	O
+

@@ -1,0 +1,23 @@
+1	@N8tiveDreamr	@n0tivedreamr	NN	pos2=UH	0	root	_	O
+2	Ah	ah	UH	_	1	discourse	_	O
+3	yes	yes	UH	_	2	discourse	_	O
+4	,	,	,	_	1	punct	_	O
+5	another	another	DT	_	7	det	_	O
+6	liberal	liberal	JJ	_	7	nmod	_	O
+7	buzzphrase	buzzphrase	NN	_	1	appos	_	O
+8	that	that	WDT	pos2=DT	9	nsubj	_	O
+9	is	be	VBZ	_	7	relcl	_	O
+10	moronic	moronic	JJ	_	9	acomp	_	O
+11	.	.	.	_	1	punct	_	O
+
+1	Leftists	leftist	NNS	pos2=NNPS	4	nsubj	_	U-NORP
+2	are	be	VBP	_	4	aux	_	O
+3	always	always	RB	_	4	advmod	_	O
+4	looking	look	VBG	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	an	an	DT	_	7	det	_	O
+7	avenue	avenue	NN	_	5	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	victimhood	victimhood	NN	_	8	pobj	_	O
+10	.	.	.	_	4	punct	_	O
+

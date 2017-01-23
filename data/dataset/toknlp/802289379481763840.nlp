@@ -1,0 +1,26 @@
+1	Moore	moore	NNP	pos2=JJR	2	nsubj	_	U-PERSON
+2	claims	claim	VBZ	_	0	root	_	O
+3	people	people	NNS	_	4	nsubj	_	O
+4	scared	scared	JJ	pos2=VBD	2	ccomp	_	O
+5	b	b	IN	pos2=NN	4	prep	_	O
+6	/	/	HYPH	pos2=SYM	5	punct	_	O
+7	c	c	NN	pos2=IN	5	pobj	_	O
+8	Trump	trump	NNP	pos2=NN	9	nsubj	_	U-PERSON
+9	said	say	VBD	_	2	ccomp	_	O
+10	he	he	PRP	_	12	nsubj	_	O
+11	will	will	MD	_	12	aux	_	O
+12	deport	deport	VB	_	9	ccomp	_	O
+13	convicted	convict	VBN	_	16	nmod	_	O
+14	violent	violent	JJ	pos2=NN	13	oprd	_	O
+15	,	,	,	_	20	punct	_	O
+16	criminals	criminal	NNS	_	12	dobj	_	O
+17	who	who	WP	_	18	nsubj	_	O
+18	are	be	VBP	_	16	relcl	_	O
+19	in	in	IN	_	18	prep	_	O
+20	the	the	DT	_	21	det	_	O
+21	US	us	NNP	_	19	pobj	_	U-GPE
+22	illegally	illegally	RB	_	18	advmod	_	O
+23	.	.	.	_	2	punct	_	O
+
+1	https://t.co/LlcjU5NTni	#hlink#	ADD	_	0	root	_	U-ORG
+

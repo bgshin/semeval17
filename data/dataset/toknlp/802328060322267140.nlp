@@ -1,0 +1,20 @@
+1	Samsung	samsung	NNP	_	2	nsubj	_	U-ORG
+2	Unveils	unveil	VBZ	pos2=NNP	0	root	_	O
+3	The	the	DT	_	6	det	_	O
+4	New	new	NNP	_	5	compound	_	O
+5	Galaxy	galaxy	NNP	_	6	compound	_	O
+6	Note	note	NNP	pos2=NN	2	dobj	_	O
+7	7	0	CD	pos2=,	6	nmod	_	U-CARDINAL
+8	And	and	CC	_	2	cc	_	O
+9	You	you	PRP	pos2=NNP	11	nsubj	_	O
+10	Can	can	MD	_	11	aux	_	O
+11	Unlock	unlock	VB	_	2	conj	_	O
+12	It	it	PRP	_	11	dobj	_	O
+13	With	with	IN	_	11	prep	_	O
+14	Your	your	PRP$	_	15	poss	_	O
+15	Eyes	eye	NNS	_	13	pobj	_	O
+16	https://t.co/5YC5J3GLvd	#hlink#	ADD	pos2=VBP	19	nmod	_	O
+17	via	via	IN	_	11	prep	_	O
+18	@Tech	@tech	NNP	pos2=CD	19	compound	_	O
+19	Nerd	nerd	NN	pos2=NNP	17	pobj	_	O
+

@@ -1,0 +1,21 @@
+1	@AIIAmericanGirI	@aiiamericangiri	ADD	pos2=NN	2	nmod	_	O
+2	@DeplorableJames	@deplorablejames	NNS	pos2=ADD	0	root	_	O
+3	@	@	SYM	pos2=-LRB-	5	punct	_	O
+4	3rdReiched	0rdreiched	NN	pos2=VBD	5	compound	_	O
+5	@ccd9764e57fc4ee	@ccd0e0fc0ee	NN	pos2=CD	2	prep	_	O
+6	@Cernovich	@cernovich	WDT	pos2=NNP	9	pobj	_	O
+7	I	I	PRP	_	8	nsubj	_	O
+8	live	live	VBP	_	2	relcl	_	O
+9	in	in	IN	_	8	prep	_	O
+10	MD.	md.	NNP	_	15	nmod	_	O
+11	3rd	#ord#	JJ	pos2=RB	12	advmod	_	U-ORDINAL
+12	strictest	strict	JJS	_	15	nmod	_	O
+13	gun	gun	NN	_	15	nmod	_	O
+14	"	"	``	pos2=''	15	punct	_	O
+15	control	control	NN	_	9	pobj	_	O
+16	"	"	''	_	15	punct	_	O
+17	in	in	IN	_	8	prep	_	O
+18	the	the	DT	_	19	det	_	O
+19	country	country	NN	_	17	pobj	_	O
+20	.	.	.	_	2	punct	_	O
+

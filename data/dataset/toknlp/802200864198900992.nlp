@@ -1,0 +1,16 @@
+1	I	I	PRP	_	5	nsubj	_	O
+2	ca	can	MD	_	5	aux	_	O
+3	n't	not	RB	_	5	neg	_	O
+4	even	even	RB	_	5	advmod	_	O
+5	imagine	imagine	VB	_	0	root	_	O
+6	why@realDonaldTrump	why@realdonaldtrump	PRP	pos2=NN	8	nsubj	_	O
+7	would	would	MD	_	8	aux	_	O
+8	want	want	VB	_	5	ccomp	_	O
+9	Romney	romney	NNP	_	8	dobj	_	U-PERSON
+10	when	when	WRB	_	12	advmod	_	O
+11	he	he	PRP	_	12	nsubj	_	O
+12	promised	promise	VBD	_	8	advcl	_	O
+13	to	to	IN	pos2=TO	12	dative	_	O
+14	#draintheswamp	#draintheswamp	VB	pos2=ADD	13	pobj	_	O
+15	https://t.co/hvXLOXF2qP	#hlink#	ADD	pos2=NN	13	pobj	_	O
+

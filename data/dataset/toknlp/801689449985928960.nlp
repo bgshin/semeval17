@@ -1,0 +1,18 @@
+1	@tvaziri	@tvaziri	UH	pos2=NN	4	discourse	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	could	could	MD	_	4	aux	_	O
+4	sit	sit	VB	_	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	Google	google	NNP	_	8	compound	_	B-ORG
+7	Earth	earth	NNP	_	8	compound	_	I-ORG
+8	VR	vr	NNP	pos2=NN	5	pobj	_	L-ORG
+9	for	for	IN	_	4	prep	_	O
+10	hours	hour	NNS	_	9	pobj	_	U-TIME
+11	on	on	IN	_	10	prep	_	O
+12	end	end	NN	_	11	pobj	_	O
+13	..	..	.	_	4	punct	_	O
+
+1	absolutely	absolutely	RB	_	2	advmod	_	O
+2	magic	magic	JJ	pos2=NN	3	nmod	_	O
+3	experience	experience	NN	_	0	root	_	O
+

@@ -1,0 +1,17 @@
+1	@danioehring13	@danioehring0	UH	pos2=NN	3	discourse	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	free	free	JJ	_	3	acomp	_	O
+5	with	with	IN	_	4	prep	_	O
+6	insurance	insurance	NN	_	5	pobj	_	O
+7	because	because	IN	_	3	prep	_	O
+8	of	of	IN	_	7	pcomp	_	O
+9	Obamacare	obamacare	NNP	_	7	pobj	_	U-ORG
+10	,	,	,	_	9	punct	_	O
+11	which	which	WDT	_	12	det	_	O
+12	trump	trump	NN	pos2=VBP	13	nsubj	_	O
+13	wants	want	VBZ	_	9	relcl	_	O
+14	to	to	TO	_	15	aux	_	O
+15	repeal	repeal	VB	_	13	xcomp	_	O
+16	🙃	🙃	NN	pos2=.	15	dobj	_	O
+

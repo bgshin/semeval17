@@ -1,0 +1,16 @@
+1	Convicted	convict	VBN	pos2=JJ	4	nmod	_	O
+2	Anti-Christian	anti-christian	JJ	pos2=NNP	4	nmod	_	B-ORG
+3	Domestic	domestic	NNP	pos2=JJ	4	compound	_	I-ORG
+4	Terrorist	terrorist	NNP	_	5	nsubj	_	L-ORG
+5	Sentenced	sentence	VBN	pos2=NNP	0	root	_	O
+6	to	to	IN	_	5	prep	_	O
+7	25	0	CD	_	8	nmod	_	B-DATE
+8	Years	year	NNS	_	6	pobj	_	L-DATE
+9	in	in	IN	_	8	prep	_	O
+10	Prison	prison	NNP	pos2=NN	12	compound	_	B-PERSON
+11	-	-	HYPH	pos2=,	12	punct	_	I-PERSON
+12	Breitbart	breitbart	NNP	_	9	pobj	_	L-PERSON
+13	https://t.co/zVDyxhRehm	#hlink#	ADD	pos2=NNP	15	dep	_	O
+14	via	via	IN	_	5	prep	_	O
+15	@BreitbartNews	@breitbartnews	NNP	pos2=ADD	14	pobj	_	U-ORG
+

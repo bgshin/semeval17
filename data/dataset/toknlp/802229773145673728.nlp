@@ -1,0 +1,21 @@
+1	After	after	IN	_	7	prep	_	O
+2	the	the	DT	_	3	det	_	O
+3	break	break	NN	_	1	pobj	_	O
+4	on	on	IN	pos2=RP	3	prep	_	O
+5	#StraightTalk	#straighttalk	NNP	pos2=ADD	6	compound	_	O
+6	@cahilljackie	@cahilljackie	NN	pos2=WP	4	pobj	_	O
+7	catches	catch	VBZ	_	0	root	_	O
+8	up	up	RP	pos2=RB	7	prt	_	O
+9	with	with	IN	_	7	prep	_	O
+10	@pasaint	@pasaint	NN	pos2=NNP	9	pobj	_	B-ORG
+11	&	&	CC	_	10	cc	_	I-ORG
+12	@Gar_Ryan22	@gar_ryan0	NN	pos2=NNS	10	conj	_	L-ORG
+13	on	on	IN	_	7	prep	_	O
+14	their	their	PRP$	_	15	poss	_	O
+15	decision	decision	NN	_	13	pobj	_	O
+16	2	0	CD	_	15	npadvmod	_	U-CARDINAL
+17	retire	retire	VB	pos2=VBP	7	advcl	_	O
+18	#Tipp	#tipp	NNP	pos2=IN	20	nmod	_	U-ORG
+19	intercounty	intercounty	JJ	pos2=NN	20	nmod	_	O
+20	scene	scene	NN	_	17	dobj	_	O
+

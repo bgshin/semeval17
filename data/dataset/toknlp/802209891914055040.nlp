@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det	_	O
+2	latest	late	JJS	_	6	advmod	_	O
+3	The	the	DT	pos2=NNP	6	det	_	B-ORG
+4	Knitting	knitting	NNP	_	5	compound	_	I-ORG
+5	Star	star	NNP	_	6	compound	_	I-ORG
+6	Daily	daily	NNP	pos2=RB	0	root	_	L-ORG
+7	!	!	.	_	2	punct	_	O
+
+1	https://t.co/2zIqTD3j9M	#hlink#	ADD	pos2=NN	0	root	_	O
+2	Thanks	thanks	NNS	pos2=NN	1	npadvmod	_	O
+3	to	to	IN	_	4	aux	_	O
+4	@asksarahshaw	@asksarahshaw	VB	pos2=XX	1	advcl	_	O
+5	#mannequinchallenge	#mannequinchallenge	UH	pos2=XX	4	discourse	_	O
+6	#thisiswhatyoucamefor	#thisiswhatyoucamefor	UH	pos2=.	4	discourse	_	O
+

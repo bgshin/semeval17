@@ -1,0 +1,14 @@
+1	Watch	watch	VB	pos2=NNP	0	root	_	O
+2	Drake	drake	NNP	_	1	dobj	_	U-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	Dave	dave	NNP	_	5	compound	_	B-PERSON
+5	Chappelle	chappelle	NNP	_	2	conj	_	L-PERSON
+6	Lose	lose	VB	pos2=VBP	1	dep	_	O
+7	It	it	PRP	pos2=NNP	6	dobj	_	O
+8	Over	over	IN	pos2=GW	6	prep	_	O
+9	a	a	DT	_	12	det	_	O
+10	David	david	NNP	_	12	compound	_	B-PERSON
+11	Blaine	blaine	NNP	_	12	compound	_	L-PERSON
+12	Trick	trick	NNP	pos2=NN	8	pobj	_	O
+13	https://t.co/AK4qTKN1R0	#hlink#	ADD	_	1	dep	_	O
+

@@ -1,0 +1,15 @@
+1	https://t.co/CC5jnnf9U3	#hlink#	ADD	_	2	nsubj	_	O
+2	Looks	look	VBZ	_	0	root	_	O
+3	like	like	IN	_	2	prep	_	O
+4	Spain	spain	NNP	_	3	pobj	_	U-GPE
+5	and	and	CC	_	4	cc	_	O
+6	Airbus	airbus	NNP	_	4	conj	_	U-ORG
+7	were	be	VBD	_	2	conj	_	O
+8	part	part	NN	_	7	attr	_	O
+9	of	of	IN	_	8	prep	_	O
+10	military	military	JJ	_	11	nmod	_	O
+11	shipments	shipment	NNS	_	9	pobj	_	O
+12	to	to	IN	pos2=TO	11	prep	_	O
+13	#Yemen	#yemen	NNP	pos2=NNS	12	pobj	_	O
+14	https://t.co/MyjXcte2Iv	#hlink#	ADD	pos2=NN	13	appos	_	O
+

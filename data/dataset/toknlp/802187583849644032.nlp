@@ -1,0 +1,14 @@
+1	Why	why	WRB	_	3	advmod	_	O
+2	Israel	israel	NNP	_	3	nsubj	_	U-GPE
+3	Is	be	VBZ	_	0	root	_	O
+4	A	a	DT	_	5	det	_	O
+5	Threat	threat	NN	pos2=NNP	3	attr	_	O
+6	To	to	IN	_	5	prep	_	O
+7	World	world	NNP	_	8	compound	_	O
+8	Peace	peace	NNP	pos2=NN	9	nmod	_	O
+9	https://t.co/obFG14Qr8G	#hlink#	ADD	pos2=NNP	6	pobj	_	O
+10	#gaza	#gaza	-RRB-	pos2=IN	13	punct	_	O
+11	#palestine	#palestine	UH	pos2=PRP	13	discourse	_	O
+12	#israel	#israel	UH	pos2=VB	13	discourse	_	O
+13	#BDS	#bds	NNS	pos2=UH	0	root	_	O
+

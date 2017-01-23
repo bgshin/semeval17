@@ -1,0 +1,30 @@
+1	termites	termite	NNS	_	2	nsubj	_	O
+2	release	release	VBP	pos2=VB	0	root	_	O
+3	far	far	RB	_	4	advmod	_	O
+4	more	more	JJR	_	5	nmod	_	O
+5	CO2	co0	NN	_	2	dobj	_	O
+6	annually	annually	RB	_	2	advmod	_	U-DATE
+7	(	(	-LRB-	_	2	punct	_	O
+8	and	and	CC	_	2	cc	_	O
+9	by	by	IN	_	6	conj	_	O
+10	several	several	JJ	_	11	nmod	_	O
+11	orders	order	NNS	_	9	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	magnitude	magnitude	NN	_	12	pobj	_	O
+14	)	)	-RRB-	_	2	punct	_	O
+15	than	than	IN	_	10	prep	_	O
+16	all	all	PDT	_	18	predet	_	O
+17	the	the	DT	_	18	det	_	O
+18	burning	burning	NN	_	15	pobj	_	O
+19	of	of	IN	_	18	prep	_	O
+20	fossil	fossil	NN	pos2=JJ	21	compound	_	O
+21	fuels	fuel	NNS	_	19	pobj	_	O
+22	.	.	.	_	2	punct	_	O
+
+1	https	http	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	//	//	NFP	pos2=-LRB-	6	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	3BJAsYk8JC	0bjasyk0jc	NN	pos2=ADD	0	root	_	O
+

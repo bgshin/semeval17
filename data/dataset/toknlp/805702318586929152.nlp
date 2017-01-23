@@ -1,0 +1,16 @@
+1	Hahahahahah	hahahahahah	UH	pos2=XX	3	discourse	_	O
+2	so	so	RB	_	3	advmod	_	O
+3	much	much	JJ	pos2=RB	8	nsubj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	this	this	DT	_	7	det	_	O
+6	#westworld	#westworld	JJ	pos2=NN	7	nmod	_	O
+7	season	season	NN	_	4	pobj	_	O
+8	was	be	VBD	_	0	root	_	O
+9	me	me	PRP	_	10	nsubj	_	O
+10	screaming	scream	VBG	_	8	ccomp	_	O
+11	expletives	expletive	NNS	_	10	dobj	_	O
+12	at	at	IN	_	10	prep	_	O
+13	this	this	DT	_	14	det	_	O
+14	idiot	idiot	NN	_	12	pobj	_	O
+15	https://t.co/mCEK4oKZiz	#hlink#	ADD	pos2=NN	14	appos	_	O
+

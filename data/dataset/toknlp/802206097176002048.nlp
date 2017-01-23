@@ -1,0 +1,18 @@
+1	Egypt	egypt	NNP	_	3	poss	_	U-GPE
+2	's	's	POS	_	1	case	_	O
+3	support	support	NN	_	8	nsubj	_	O
+4	to	to	IN	_	3	prep	_	O
+5	Haftar	haftar	NNP	_	7	poss	_	U-ORG
+6	's	's	POS	_	5	case	_	O
+7	army	army	NN	_	4	pobj	_	O
+8	is	be	VBZ	_	0	root	_	O
+9	a	a	DT	_	11	det	_	O
+10	national	national	JJ	_	11	nmod	_	O
+11	priority	priority	NN	_	8	attr	_	O
+12	,	,	,	_	17	punct	_	O
+13	President	president	NNP	_	17	compound	_	O
+14	al	al	NNP	pos2=GW	16	dep	_	B-PERSON
+15	-	-	HYPH	_	16	punct	_	L-PERSON
+16	Sisihttps://t.co/ANTKMUNiPK#Libya	#hlink#	ADD	pos2=NNP	11	appos	_	O
+17	#News	#news	NNP	pos2=NNS	0	root	_	U-ORG
+

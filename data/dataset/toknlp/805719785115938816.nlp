@@ -1,0 +1,10 @@
+1	Ken	ken	NNP	_	2	compound	_	B-PERSON
+2	Livingstone	livingstone	NNP	_	6	dep	_	L-PERSON
+3	:	:	:	_	6	punct	_	O
+4	Fidel	fidel	NNP	_	5	compound	_	B-PERSON
+5	#Castro	#castro	NNP	_	6	nsubj	_	L-PERSON
+6	was	be	VBD	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	hero	hero	NN	_	6	attr	_	O
+9	https://t.co/lBAH9FMNvZ	#hlink#	ADD	_	6	dep	_	O
+

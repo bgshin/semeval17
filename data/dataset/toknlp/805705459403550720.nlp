@@ -1,0 +1,26 @@
+1	@BBCNews	@bbcnews	NNS	pos2=ADD	5	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	@SkyNews	@skynews	NNPS	pos2=NNP	1	conj	_	U-ORG
+4	desperately	desperately	RB	_	5	advmod	_	O
+5	trying	try	VBG	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	create	create	VB	_	5	xcomp	_	O
+8	brexit	brexit	NN	pos2=DT	9	compound	_	O
+9	anxiety	anxiety	NN	_	7	dobj	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	Best	good	JJS	_	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	ignore	ignore	VB	_	1	advcl	_	O
+4	mainstream	mainstream	NN	pos2=JJ	5	compound	_	O
+5	media	medium	NNS	pos2=NN	3	dobj	_	O
+6	and	and	CC	_	3	cc	_	O
+7	laugh	laugh	VB	_	3	conj	_	O
+8	them	them	PRP	_	7	dobj	_	O
+9	off	off	RP	_	7	prt	_	O
+10	for	for	IN	_	7	prep	_	O
+11	what	what	WP	_	13	attr	_	O
+12	they	they	PRP	_	13	nsubj	_	O
+13	are	be	VBP	_	10	pcomp	_	O
+14	.	.	.	_	1	punct	_	O
+

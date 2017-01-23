@@ -1,0 +1,17 @@
+1	Farsoon	farsoon	NNP	_	4	nmod	_	U-ORG
+2	High	high	JJ	pos2=NNP	4	nmod	_	O
+3	-	-	HYPH	_	4	punct	_	O
+4	tech	tech	NN	_	5	nsubj	_	O
+5	sees	see	VBZ	_	0	root	_	O
+6	huge	huge	JJ	_	7	nmod	_	O
+7	growth	growth	NN	_	5	dobj	_	O
+8	ahead	ahead	RB	_	5	advmod	_	O
+9	in	in	IN	_	5	prep	_	O
+10	3	0	CD	_	16	dep	_	U-DATE
+11	D	d	NN	pos2=NNP	16	dep	_	O
+12	printing	printing	NN	pos2=VBG	16	dep	_	O
+13	-	-	:	pos2=HYPH	16	punct	_	O
+14	China	china	NNP	_	16	nmod	_	B-ORG
+15	Daily	daily	NNP	pos2=RB	16	nmod	_	L-ORG
+16	https://t.co/xEZDnynSOI	#hlink#	ADD	pos2=NN	9	pobj	_	O
+

@@ -1,0 +1,16 @@
+1	They	they	PRP	_	2	nsubj	_	O
+2	run	run	VBP	pos2=VBD	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	risk	risk	NN	_	2	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	medical	medical	JJ	_	7	nmod	_	O
+7	negligence	negligence	NN	_	8	compound	_	O
+8	claims	claim	NNS	pos2=VBZ	5	pobj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	disciplinary	disciplinary	JJ	_	11	nmod	_	O
+11	action	action	NN	_	8	conj	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	#homeopathy	#homeopathy	UH	pos2=ADD	2	discourse	_	O
+2	https://t.co/VA9Y6dCrOM	#hlink#	ADD	pos2=NN	0	root	_	O
+

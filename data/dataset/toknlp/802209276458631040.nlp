@@ -1,0 +1,26 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	scary	scary	JJ	_	5	nmod	_	O
+4	stuff	stuff	NN	_	5	compound	_	O
+5	ppl.	ppl.	NN	pos2=NNP	6	nsubj	_	O
+6	Worse	bad	RBR	pos2=NNP	7	advmod	_	O
+7	yet	yet	RB	pos2=CC	9	advmod	_	O
+8	there	there	EX	_	9	expl	_	O
+9	's	's	VBZ	_	2	advcl	_	O
+10	Intel	intel	NNP	_	11	compound	_	O
+11	evdnce	evdnce	NNP	pos2=NN	9	attr	_	O
+12	&	&	CC	_	11	cc	_	O
+13	DT	dt	NNP	pos2=NN	11	conj	_	O
+14	STILL	still	RB	_	15	advmod	_	O
+15	maintains	maintain	VBZ	_	9	conj	_	O
+16	a	a	DT	_	18	det	_	O
+17	pro-Putin	pro-putin	JJ	_	18	nmod	_	U-NORP
+18	stance	stance	NN	_	15	dobj	_	O
+19	.	.	.	_	2	punct	_	O
+
+1	Exemplary	exemplary	JJ	_	2	nmod	_	O
+2	dmocrcy	dmocrcy	NN	pos2=GW	5	dep	_	O
+3	o	o	GW	pos2=UH	5	nmod	_	O
+4	…	…	GW	pos2=NFP	5	nmod	_	O
+5	https://t.co/LsYEbL4Hk9	#hlink#	ADD	pos2=NN	0	root	_	O
+

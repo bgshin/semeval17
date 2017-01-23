@@ -1,0 +1,19 @@
+1	@jaimeshade	@jaimeshade	UH	pos2=NN	6	det	_	O
+2	*	*	SYM	pos2=NFP	1	punct	_	O
+3	from	from	IN	_	0	root	_	O
+4	under	under	IN	_	3	prep	_	O
+5	Mike	mike	NNP	_	6	compound	_	B-PERSON
+6	Pence	penny	NNP	_	9	poss	_	I-PERSON
+7	's	's	POS	_	6	case	_	L-PERSON
+8	legislative	legislative	JJ	_	9	nmod	_	O
+9	boot	boot	NN	_	4	pobj	_	O
+10	*	*	RP	pos2=:	11	punct	_	O
+11	yeah	yeah	UH	_	1	discourse	_	O
+12	!	!	.	_	1	punct	_	O
+
+1	that	that	DT	pos2=WDT	3	nsubj	_	O
+2	'll	will	MD	_	3	aux	_	O
+3	show	show	VB	_	0	root	_	O
+4	him	him	PRP	_	3	dobj	_	O
+5	!	!	.	_	3	punct	_	O
+

@@ -1,0 +1,12 @@
+1	Congress	congress	NNP	pos2=NN	3	nsubj	_	U-ORG
+2	will	will	MD	_	3	aux	_	O
+3	abandon	abandon	VB	_	10	ccomp	_	O
+4	Trans-Pacific	trans-pacific	JJ	pos2=NNP	6	nmod	_	O
+5	Partnership	partnership	NNP	pos2=NN	6	compound	_	O
+6	deal	deal	NN	_	3	dobj	_	O
+7	,	,	,	_	10	punct	_	O
+8	White	white	NNP	_	9	compound	_	B-ORG
+9	House	house	NNP	_	10	nsubj	_	L-ORG
+10	concedes	concede	VBZ	_	0	root	_	O
+11	https://t.co/bTFUXl4Fue	#hlink#	ADD	_	10	dobj	_	U-ORG
+

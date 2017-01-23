@@ -1,0 +1,21 @@
+1	👉This	👉this	DT	pos2=PRP$	2	det	_	O
+2	map	map	NN	_	3	nsubj	_	O
+3	shows	show	VBZ	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	huge	huge	JJ	_	6	nmod	_	O
+6	span	span	NN	_	3	dobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	the	the	DT	_	11	det	_	O
+9	Dakota	dakota	NNP	_	11	compound	_	O
+10	Access	access	NNP	_	11	compound	_	O
+11	Pipeline	pipeline	NNP	pos2=NN	7	pobj	_	O
+12	&	&	CC	_	11	cc	_	O
+13	its	its	PRP$	_	16	poss	_	O
+14	22	0	CD	_	16	nmod	_	U-CARDINAL
+15	water	water	NN	_	16	compound	_	O
+16	crossings	crossing	NNS	_	11	conj	_	O
+17	.	.	.	_	3	punct	_	O
+
+1	#NoDAPL	#nodapl	ADD	pos2=-LRB-	2	punct	_	O
+2	https://t.co/rHp2puDtJi	#hlink#	ADD	_	0	root	_	O
+

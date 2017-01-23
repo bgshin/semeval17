@@ -1,0 +1,16 @@
+1	The	the	DT	_	2	det	_	O
+2	cause	cause	NN	_	3	nsubj	_	O
+3	requires	require	VBZ	_	0	root	_	O
+4	their	their	PRP$	_	5	poss	_	O
+5	abortion	abortion	NN	_	3	dobj	_	O
+6	,	,	,	_	3	punct	_	O
+7	even	even	RB	_	11	advmod	_	O
+8	though	though	IN	_	11	mark	_	O
+9	those	those	DT	_	10	det	_	O
+10	idiots	idiot	NNS	_	11	nsubj	_	O
+11	refuse	refuse	VBP	_	3	advcl	_	O
+12	to	to	TO	_	13	aux	_	O
+13	understand	understand	VB	_	11	xcomp	_	O
+14	it	it	PRP	_	13	dobj	_	O
+15	.	.	.	_	3	punct	_	O
+

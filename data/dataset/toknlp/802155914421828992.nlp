@@ -1,0 +1,22 @@
+1	As	as	IN	_	3	prep	_	O
+2	kuffar	kuffar	NN	pos2=RB	1	pobj	_	O
+3	tell	tell	VB	pos2=VBP	0	root	_	O
+4	me	me	PRP	_	3	dobj	_	O
+5	why	why	WRB	_	7	advmod	_	O
+6	lefties	lefty	NNS	_	7	nsubj	_	O
+7	support	support	VBP	_	3	ccomp	_	O
+8	racist	racist	JJ	_	10	advmod	_	O
+9	fascist	fascist	JJ	_	10	advmod	_	O
+10	murderous	murderous	JJ	_	14	nmod	_	O
+11	anti	anti	AFX	pos2=NN	12	advmod	_	O
+12	gay	gay	JJ	pos2=NN	14	nmod	_	O
+13	anti	anti	AFX	pos2=JJ	14	nmod	_	O
+14	women	woman	NNS	_	7	dobj	_	O
+15	anti	anti	AFX	pos2=VBP	16	nmod	_	O
+16	democracy	democracy	NN	_	18	npadvmod	_	O
+17	anti	anti	AFX	pos2=VBG	18	advmod	_	O
+18	free	free	JJ	_	19	nmod	_	O
+19	speech	speech	NN	_	20	compound	_	O
+20	#Hamas	#hamas	NNP	pos2=NNS	21	compound	_	U-WORK_OF_ART
+21	#palestine	#palestine	UH	pos2=NN	3	discourse	_	O
+

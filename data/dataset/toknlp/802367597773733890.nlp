@@ -1,0 +1,16 @@
+1	Melania	melania	NNP	_	2	compound	_	B-PERSON
+2	Trump	trump	NNP	_	3	nsubj	_	L-PERSON
+3	sues	sue	VBZ	_	0	root	_	O
+4	Daily	daily	NNP	_	5	compound	_	B-ORG
+5	Mail	mail	NNP	pos2=NN	3	dobj	_	L-ORG
+6	,	,	,	_	5	punct	_	O
+7	blogger	blogger	NN	_	5	appos	_	O
+8	over	over	IN	pos2=RP	7	prep	_	O
+9	'	'	``	_	12	punct	_	O
+10	defamatory	defamatory	JJ	_	12	nmod	_	O
+11	'	'	''	_	12	punct	_	O
+12	stories	story	NNS	_	8	pobj	_	O
+13	https://t.co/4OmbEc3hux	#hlink#	ADD	pos2=VBP	12	acl	_	O
+14	via	via	IN	_	3	prep	_	O
+15	@Reuters	@reuters	NNS	pos2=NNP	14	pobj	_	O
+

@@ -1,0 +1,15 @@
+1	Obama	obama	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	is	be	VBZ	_	0	root	_	O
+3	disrespectful	disrespectful	JJ	_	2	acomp	_	O
+4	&	&	CC	_	3	cc	_	O
+5	saddening	saddening	JJ	pos2=VBG	3	conj	_	O
+6	Obama	obama	NNP	_	7	nsubj	_	U-PERSON
+7	does	do	VBZ	_	2	conj	_	O
+8	what	what	WP	_	13	dobj	_	O
+9	Dems	dems	NNPS	pos2=NNP	10	nsubj	_	U-NORP
+10	FEAR	fear	NN	pos2=NNP	7	ccomp	_	O
+11	Trump	trump	NNP	pos2=NN	13	nsubj	_	U-ORG
+12	may	may	MD	_	13	aux	_	O
+13	do	do	VB	_	10	ccomp	_	O
+14	https://t.co/KRsItmuXw3	#hlink#	ADD	_	7	dobj	_	O
+

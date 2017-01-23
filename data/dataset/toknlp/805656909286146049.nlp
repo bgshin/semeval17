@@ -1,0 +1,14 @@
+1	@MarketAnarchy	@marketanarchy	NN	pos2=JJ	3	compound	_	O
+2	gun	gun	NN	_	3	compound	_	O
+3	control	control	NN	_	5	nsubjpass	_	O
+4	was	be	VBD	_	5	auxpass	_	O
+5	born	bear	VBN	_	0	root	_	O
+6	trying	try	VBG	_	5	advcl	_	O
+7	to	to	TO	_	8	aux	_	O
+8	keep	keep	VB	_	6	xcomp	_	O
+9	blacks	black	NNS	_	8	dobj	_	O
+10	from	from	IN	_	8	prep	_	O
+11	having	have	VBG	_	10	pcomp	_	O
+12	guns	gun	NNS	_	11	dobj	_	O
+13	.	.	.	_	5	punct	_	O
+

@@ -1,0 +1,20 @@
+1	it	it	PRP	_	2	nsubj	_	O
+2	makes	make	VBZ	_	0	root	_	O
+3	me	me	PRP	_	5	nsubj	_	O
+4	so	so	RB	_	5	advmod	_	O
+5	mad	mad	JJ	_	2	ccomp	_	O
+6	that	that	IN	pos2=WDT	10	mark	_	O
+7	I	I	PRP	_	10	nsubj	_	O
+8	did	do	VBD	_	10	aux	_	O
+9	n't	not	RB	_	10	neg	_	O
+10	realize	realize	VB	_	5	ccomp	_	O
+11	it	it	PRP	_	12	nsubj	_	O
+12	was	be	VBD	_	10	ccomp	_	O
+13	n't	not	RB	_	12	neg	_	O
+14	Zac	zac	NNP	_	15	compound	_	B-PERSON
+15	efron	efron	NNP	_	17	poss	_	I-PERSON
+16	's	's	POS	_	15	case	_	L-PERSON
+17	voice	voice	NN	_	12	attr	_	O
+18	in	in	IN	_	17	prep	_	O
+19	HSM	hsm	NN	pos2=NNP	18	pobj	_	O
+

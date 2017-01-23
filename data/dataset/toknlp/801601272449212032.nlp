@@ -1,0 +1,30 @@
+1	Grayson	grayson	NNP	_	2	compound	_	B-PERSON
+2	Allen	allen	NNP	_	4	nsubj	_	L-PERSON
+3	just	just	RB	_	4	advmod	_	O
+4	threw	throw	VBD	_	0	root	_	O
+5	up	up	RP	pos2=RB	4	prt	_	O
+6	one	#crd#	CD	_	4	dobj	_	U-CARDINAL
+7	of	of	IN	_	6	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	ugliest	ugly	JJS	_	10	nmod	_	O
+10	shots	shot	NNS	_	7	pobj	_	O
+11	I	I	PRP	_	14	nsubj	_	O
+12	've	have	VBP	_	14	aux	_	O
+13	ever	ever	RB	_	14	advmod	_	O
+14	seen	see	VBN	_	10	relcl	_	O
+15	.	.	.	_	4	punct	_	O
+
+1	Dude	dude	NN	pos2=UH	3	nsubj	_	O
+2	really	really	RB	_	3	advmod	_	O
+3	needs	need	VBZ	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	develop	develop	VB	_	3	xcomp	_	O
+6	at	at	IN	pos2=RB	7	advmod	_	O
+7	least	least	RBS	pos2=JJS	9	advmod	_	O
+8	some	some	DT	_	9	det	_	O
+9	kind	kind	NN	_	5	dobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	lefty	lefty	NN	pos2=JJ	12	compound	_	O
+12	finish	finish	NN	_	10	pobj	_	O
+13	.	.	.	_	3	punct	_	O
+

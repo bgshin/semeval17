@@ -1,0 +1,17 @@
+1	#BaseBall	#baseball	NN	pos2=XX	16	dep	_	O
+2	#Buzz	#buzz	NNP	pos2=VBG	16	nmod	_	O
+3	2012	0	CD	_	2	npadvmod	_	U-CARDINAL
+4	OFFICIAL	official	JJ	pos2=NN	8	nmod	_	O
+5	WORLD	world	NN	pos2=NNP	6	compound	_	B-EVENT
+6	SERIES	series	NN	pos2=NNP	7	compound	_	L-EVENT
+7	PROGRAM	program	NN	_	8	compound	_	O
+8	BRAND	brand	NN	_	2	appos	_	O
+9	NEW	new	JJ	pos2=NNP	8	nmod	_	O
+10	#Detroit	#detroit	NNP	pos2=IN	15	compound	_	B-PERSON
+11	#Tigers	#tigers	NNP	pos2=NNS	13	compound	_	I-PERSON
+12	VERLANDER	verlander	NNP	pos2=GW	13	compound	_	I-PERSON
+13	CABRERA	cabrera	NNP	pos2=GW	16	dep	_	L-PERSON
+14	https://t.co/YgY1s4cqt8	#hlink#	ADD	pos2=NNP	16	dep	_	O
+15	#Forsale	#forsale	NNP	pos2=-RRB-	16	compound	_	U-ORG
+16	#Deals	#deals	NNS	pos2=ADD	0	root	_	O
+

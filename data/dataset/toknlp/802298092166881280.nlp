@@ -1,0 +1,18 @@
+1	Kim	kim	NNP	_	3	compound	_	B-PERSON
+2	Jong	jong	NNP	_	3	compound	_	I-PERSON
+3	Un	un	NNP	_	5	nsubj	_	L-PERSON
+4	can	can	MD	_	5	aux	_	O
+5	watch	watch	VB	_	0	root	_	O
+6	it	it	PRP	_	5	dobj	_	O
+7	....	..	.	_	5	punct	_	O
+
+1	but	but	CC	_	5	cc	_	O
+2	Germany	germany	NNP	_	5	nsubj	_	U-GPE
+3	and	and	CC	_	2	cc	_	O
+4	China	china	NNP	_	2	conj	_	U-GPE
+5	ca	can	MD	_	0	root	_	O
+6	n't	not	RB	_	5	neg	_	O
+7	?	?	.	_	5	punct	_	O
+
+1	https://t.co/0qY67ocFON	#hlink#	ADD	_	0	root	_	U-ORG
+

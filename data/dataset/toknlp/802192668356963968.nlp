@@ -1,0 +1,15 @@
+1	Inside	inside	IN	pos2=RB	14	prep	_	O
+2	Expa	expa	NNP	_	3	compound	_	B-ORG
+3	Labs	lab	NNPS	pos2=NNS	1	pobj	_	L-ORG
+4	,	,	,	_	14	punct	_	O
+5	#uber	#uber	PRP$	pos2=IN	6	poss	_	O
+6	co-founder	co-founder	NN	_	8	poss	_	O
+7	’s	's	POS	pos2=VBZ	6	case	_	O
+8	take	take	NN	pos2=VB	14	dep	_	O
+9	on	on	IN	pos2=RP	8	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	#startup	#startup	GW	pos2=NFP	14	nmod	_	O
+12	accelerator	accelerator	GW	pos2=NN	14	nmod	_	O
+13	https://t.co/bBLBWV6xUK	#hlink#	ADD	pos2=GW	14	nmod	_	O
+14	https://t.co/2CIG0Q4yFk	#hlink#	ADD	_	0	root	_	U-ORG
+

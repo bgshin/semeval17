@@ -1,0 +1,37 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	O
+2	@mradamscott	@mradamscott	NN	pos2=AFX	4	dep	_	O
+3	:	:	:	pos2=``	4	punct	_	O
+4	Remember	remember	VB	pos2=NNP	0	root	_	O
+5	"	"	``	_	4	punct	_	O
+6	Alt	alt	NNP	pos2=JJ	8	npadvmod	_	O
+7	-	-	HYPH	_	8	punct	_	O
+8	Right	right	JJ	pos2=NNP	13	nmod	_	O
+9	"	"	''	_	8	punct	_	O
+10	-	-	,	pos2=:	4	punct	_	O
+11	a	a	DT	_	12	det	_	O
+12	name	name	NN	_	4	dobj	_	O
+13	they	they	PRP	_	14	nsubj	_	O
+14	gave	give	VBD	_	12	relcl	_	O
+15	themselves	themselves	PRP	_	14	dobj	_	O
+16	,	,	,	_	12	punct	_	O
+17	re	re	IN	pos2=RB	22	nmod	_	O
+18	-	-	HYPH	_	17	punct	_	O
+19	branding	branding	NN	pos2=VBG	17	pobj	_	O
+20	"	"	``	_	22	punct	_	O
+21	White	white	NNP	_	22	compound	_	O
+22	Supremacists	supremacist	NNPS	pos2=NNS	24	nmod	_	O
+23	"	"	''	_	22	punct	_	O
+24	.	.	.	_	4	punct	_	O
+
+1	Bullshit	bullshit	NN	pos2=PRP	5	nsubjpass	_	O
+2	ca	can	MD	_	5	aux	_	O
+3	n't	not	RB	_	5	neg	_	O
+4	get	get	VB	_	5	auxpass	_	O
+5	normalized	normalize	VBN	pos2=JJ	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	Let	let	VB	_	0	root	_	O
+2	's	's	PRP	_	3	nsubj	_	O
+3	ca	ca	VB	pos2=MD	1	ccomp	_	O
+4	…	…	.	pos2=VBN	1	punct	_	O
+

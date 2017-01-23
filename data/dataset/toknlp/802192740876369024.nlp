@@ -1,0 +1,19 @@
+1	UNIDO	unido	NN	pos2=NNP	0	root	_	O
+2	#UnitedNations	#unitednations	IN	pos2=NNS	1	prep	_	O
+3	Industrial	industrial	NNP	pos2=JJ	5	compound	_	B-ORG
+4	Development	development	NNP	pos2=NN	5	compound	_	I-ORG
+5	Orga	orga	NNP	pos2=NNPS	2	pobj	_	L-ORG
+6	:	:	:	_	1	punct	_	O
+7	and	and	CC	_	1	cc	_	O
+8	the	the	DT	_	10	det	_	O
+9	Turkish	turkish	JJ	pos2=NNP	10	nmod	_	U-NORP
+10	Cooperation	cooperation	NNP	pos2=NN	1	conj	_	U-ORG
+11	and	and	CC	_	10	cc	_	O
+12	Coordination	coordination	NNP	pos2=NN	10	conj	_	U-ORG
+13	...	..	.	_	1	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	more	more	RBR	pos2=JJR	1	advmod	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/GlVekDdHpG	#hlink#	ADD	pos2=NN	1	dep	_	O
+

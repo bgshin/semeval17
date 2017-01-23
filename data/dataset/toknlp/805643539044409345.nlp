@@ -1,0 +1,17 @@
+1	Vaccines	vaccine	NNS	_	2	nsubj	_	O
+2	deliver	deliver	VBP	pos2=VB	13	ccomp	_	O
+3	4,925	0	CD	_	4	nmod	_	U-CARDINAL
+4	mcg	mcg	NNS	pos2=NN	2	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	aluminum	aluminum	NN	_	5	pobj	_	O
+7	by	by	IN	_	2	prep	_	O
+8	18	0	CD	_	9	nmod	_	B-DATE
+9	months	month	NNS	_	7	pobj	_	L-DATE
+10	,	,	,	_	13	punct	_	O
+11	safe	safe	JJ	_	12	nmod	_	O
+12	limit	limit	NN	_	13	nsubj	_	O
+13	is	be	VBZ	_	0	root	_	O
+14	25	0	CD	_	15	nmod	_	U-CARDINAL
+15	mcg	mcg	NNS	_	13	attr	_	O
+16	https://t.co/fSAvgXyCf6	#hlink#	ADD	pos2=NN	13	dep	_	O
+

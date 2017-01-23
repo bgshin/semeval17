@@ -1,0 +1,14 @@
+1	SPLC	splc	NNP	pos2=NN	4	poss	_	U-ORG
+2	's	's	POS	pos2=VBZ	1	case	_	O
+3	Christian	christian	JJ	pos2=NNP	4	nmod	_	U-NORP
+4	Killer	killer	NNP	pos2=NN	5	nsubj	_	O
+5	gets	get	VBZ	_	0	root	_	O
+6	25	0	CD	_	7	nmod	_	B-DATE
+7	years	year	NNS	_	5	dobj	_	L-DATE
+8	but	but	CC	_	5	cc	_	O
+9	SPLC	splc	NNP	pos2=NN	10	nsubj	_	U-ORG
+10	gets	get	VBZ	_	5	conj	_	O
+11	a	a	DT	_	12	det	_	O
+12	pass	pass	NN	pos2=VB	10	dobj	_	O
+13	https://t.co/Xx60CCTxaF	#hlink#	ADD	pos2=NN	10	dep	_	U-ORG
+

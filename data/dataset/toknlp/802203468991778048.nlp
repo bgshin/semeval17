@@ -1,0 +1,11 @@
+1	The	the	DT	_	2	det	_	O
+2	latest	late	JJS	_	5	advmod	_	O
+3	The	the	DT	pos2=NNP	5	det	_	B-ORG
+4	Humanitarian	humanitarian	NNP	pos2=JJ	5	compound	_	I-ORG
+5	Daily	daily	NNP	pos2=RB	0	root	_	L-ORG
+6	!	!	.	_	2	punct	_	O
+
+1	https://t.co/19t4pnYc9l	#hlink#	ADD	_	0	root	_	O
+2	#blacklivesmatter	#blacklivesmatter	-RRB-	pos2=IN	1	punct	_	O
+3	#notmypresident	#notmypresident	UH	pos2=NN	1	discourse	_	O
+

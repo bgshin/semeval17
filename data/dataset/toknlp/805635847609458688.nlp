@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det	_	O
+2	movie	movie	NN	_	9	nsubj	_	O
+3	where	where	WRB	_	6	advmod	_	O
+4	Zac	zac	NNP	_	5	compound	_	B-PERSON
+5	Efron	efron	NNP	_	6	nsubj	_	L-PERSON
+6	is	be	VBZ	_	2	relcl	_	O
+7	a	a	DT	_	8	det	_	O
+8	DJ	dj	NN	pos2=NNP	6	attr	_	O
+9	is	be	VBZ	_	0	root	_	O
+10	super	super	RB	pos2=JJ	11	advmod	_	O
+11	fucking	fucking	JJ	_	12	nmod	_	O
+12	rad	rad	NN	pos2=NNS	9	attr	_	O
+

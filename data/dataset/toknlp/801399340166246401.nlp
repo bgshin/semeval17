@@ -1,0 +1,27 @@
+1	@OttawaMorning	@ottawamorning	NN	pos2=NNP	6	advmod	_	O
+2	Can	can	MD	_	4	aux	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	plse	plse	VB	pos2=JJ	0	root	_	O
+5	do	do	VB	pos2=VBP	4	xcomp	_	O
+6	fewer	few	JJR	_	7	nmod	_	O
+7	stories	story	NNS	_	5	dobj	_	O
+8	on	on	IN	_	7	prep	_	O
+9	victims	victim	NNS	_	8	pobj	_	O
+10	and	and	CC	_	7	cc	_	O
+11	more	more	RBR	pos2=JJR	12	advmod	_	O
+12	hard	hard	JJ	pos2=RB	13	advmod	_	O
+13	hitting	hit	VBG	pos2=NN	14	nmod	_	O
+14	news	news	NN	_	9	nmod	_	O
+15	like	like	IN	_	14	prep	_	O
+16	media	medium	NNS	pos2=NN	17	compound	_	O
+17	bias	bias	NN	_	15	pobj	_	O
+18	,	,	,	_	16	punct	_	O
+19	#blm	#blm	UH	pos2=NN	16	discourse	_	O
+20	,	,	,	_	16	punct	_	O
+21	anti	anti	AFX	pos2=FW	23	nmod	_	O
+22	Trump	trump	NN	pos2=NNP	23	compound	_	O
+23	riots	riot	NNS	_	17	conj	_	O
+24	,	,	,	_	23	punct	_	O
+25	etc.	etc.	FW	_	23	conj	_	O
+26	..	..	.	pos2=,	25	punct	_	O
+

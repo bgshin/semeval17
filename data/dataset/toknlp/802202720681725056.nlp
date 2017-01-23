@@ -1,0 +1,18 @@
+1	#ObamasLegacy	#obamaslegacy	NN	pos2=NNS	3	dep	_	O
+2	:	:	:	_	3	punct	_	O
+3	The	the	DT	_	4	det	_	O
+4	decimation	decimation	NN	_	0	root	_	O
+5	of	of	IN	_	4	prep	_	O
+6	the	the	DT	_	8	det	_	B-ORG
+7	#Democratic	#democratic	NNP	_	8	compound	_	I-ORG
+8	Party	party	NNP	pos2=NN	5	pobj	_	L-ORG
+9	,	,	,	_	4	punct	_	O
+10	visual	visual	JJ	_	11	nmod	_	O
+11	izedhttps://t.co/Oq1rNYUuoW	#hlink#	ADD	pos2=NN	8	appos	_	O
+12	#tcot	#tcot	IN	pos2=-RRB-	11	prep	_	O
+13	#uniteblue	#uniteblue	UH	pos2=VB	12	discourse	_	O
+14	#maga	#maga	UH	pos2=FW	12	discourse	_	O
+15	#pjnet	#pjnet	UH	pos2=ADD	12	discourse	_	O
+16	#p2	#p0	UH	pos2=NN	12	discourse	_	O
+17	#LiberalLogic	#liberallogic	ADD	pos2=UH	12	pobj	_	O
+

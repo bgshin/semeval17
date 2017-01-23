@@ -1,0 +1,21 @@
+1	Top	top	JJ	pos2=NN	2	nmod	_	O
+2	story	story	NN	_	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	TekUniverse	tekuniverse	NNP	pos2=JJR	5	nsubj	_	O
+5	Slashes	slash	VBZ	pos2=NNS	0	root	_	O
+6	Prices	price	NNS	pos2=NNPS	5	dobj	_	O
+7	On	on	IN	_	6	prep	_	O
+8	The	the	DT	_	13	det	_	O
+9	DreamCreator	dreamcreator	NNP	_	13	nmod	_	O
+10	3	0	CD	pos2=NNP	15	nmod	_	O
+11	D	d	NNP	pos2=NN	13	compound	_	B-ORG
+12	Printing	printing	NNP	pos2=NN	13	compound	_	I-ORG
+13	Pen	pen	NNP	_	7	pobj	_	I-ORG
+14	For	for	IN	_	13	prep	_	I-ORG
+15	T	t	NNP	pos2=NN	14	pobj	_	L-ORG
+16	…	…	NFP	pos2=-LRB-	18	punct	_	O
+17	https://t.co/fzKKC7NFtB,	#hlink#	ADD	_	18	nsubj	_	U-ORG
+18	see	see	VB	pos2=VBP	5	advcl	_	O
+19	more	more	JJR	pos2=RBR	20	nmod	_	O
+20	https://t.co/TXHMWfMdwP	#hlink#	ADD	pos2=NN	18	dobj	_	O
+

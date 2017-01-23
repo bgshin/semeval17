@@ -1,0 +1,16 @@
+1	@HeerJeet	@heerjeet	ADD	pos2=NN	5	punct	_	O
+2	@AndyRichter	@andyrichter	NN	pos2=ADD	3	compound	_	O
+3	@stephenfhayes	@stephenfhayes	NNS	pos2=IN	0	root	_	O
+4	Long	long	RB	pos2=NNP	5	advmod	_	O
+5	planned	plan	VBN	pos2=VBD	3	acl	_	O
+6	and	and	CC	_	5	cc	_	O
+7	intentional	intentional	JJ	_	5	conj	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	Just	just	RB	_	2	advmod	_	O
+2	like	like	IN	_	0	root	_	O
+3	his	his	PRP$	_	5	poss	_	O
+4	Drone	drone	NN	pos2=NNP	5	compound	_	O
+5	strikes	strike	NNS	pos2=VBZ	2	pobj	_	O
+6	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,33 @@
+1	@Salon	@salon	NNP	pos2=NN	9	vocative	_	U-PERSON
+2	please	please	UH	_	9	discourse	_	O
+3	,	,	,	_	9	punct	_	O
+4	please	please	UH	_	9	discourse	_	O
+5	,	,	,	_	9	punct	_	O
+6	please	please	UH	_	9	discourse	_	O
+7	,	,	,	_	9	punct	_	O
+8	i	I	PRP	_	9	nsubj	_	O
+9	beg	beg	VBP	_	0	root	_	O
+10	you	you	PRP	_	9	dobj	_	O
+11	,	,	,	_	9	punct	_	O
+12	keep	keep	VB	pos2=VBP	9	conj	_	O
+13	demonizing	demonize	VBG	_	12	xcomp	_	O
+14	the	the	DT	_	17	det	_	O
+15	white	white	JJ	_	17	nmod	_	O
+16	voter	voter	NN	_	17	compound	_	O
+17	block	block	NN	_	13	dobj	_	O
+18	until	until	IN	_	13	prep	_	O
+19	2018	0	CD	_	18	pobj	_	U-DATE
+20	.	.	.	_	9	punct	_	O
+
+1	Pretty	pretty	RB	_	2	advmod	_	O
+2	soon	soon	RB	_	6	advmod	_	O
+3	all	all	DT	pos2=RB	4	det	_	O
+4	dems	dems	NNS	pos2=NNPS	6	nsubj	_	O
+5	will	will	MD	_	6	aux	_	O
+6	have	have	VB	_	10	advmod	_	O
+7	is	be	VBZ	pos2=VBN	0	root	_	O
+8	Ca	ca	NNP	pos2=VBN	7	attr	_	O
+9	and	and	CC	_	8	cc	_	O
+10	NY	ny	NNP	pos2=NN	8	conj	_	U-GPE
+11	.	.	.	_	7	punct	_	O
+

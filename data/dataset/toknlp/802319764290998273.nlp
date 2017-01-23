@@ -1,0 +1,18 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	had	have	VBD	_	3	aux	_	O
+3	wanted	want	VBN	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	add	add	VB	_	3	xcomp	_	O
+6	Kim	kim	NNP	_	8	compound	_	B-PERSON
+7	jong	jong	NNP	pos2=FW	8	compound	_	I-PERSON
+8	un	un	NNP	pos2=NN	5	dobj	_	L-PERSON
+9	.	.	.	_	3	punct	_	O
+
+1	Should	should	MD	_	3	aux	_	O
+2	have	have	VB	_	3	aux	_	O
+3	swapped	swap	VBN	_	0	root	_	O
+4	him	him	PRP	_	3	dobj	_	O
+5	with	with	IN	_	3	prep	_	O
+6	Mussolini	mussolini	NNP	_	5	pobj	_	U-PERSON
+7	https://t.co/hsRjIDscT2	#hlink#	ADD	_	3	advcl	_	O
+

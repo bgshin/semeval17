@@ -1,0 +1,12 @@
+1	True	true	JJ	_	11	nmod	_	O
+2	Thanksgiving	thanksgiving	NNP	_	11	dep	_	U-PERSON
+3	family	family	NN	_	4	compound	_	O
+4	saga	saga	NN	_	11	dep	_	O
+5	-	-	HYPH	pos2=,	4	punct	_	O
+6	of	of	IN	pos2=JJ	4	prep	_	O
+7	love	love	NN	_	6	pobj	_	O
+8	and	and	CC	_	7	cc	_	O
+9	fistfights	fistfight	NNS	_	7	conj	_	O
+10	--	--	:	pos2=.	4	punct	_	O
+11	https://t.co/57qFR8EgVq	#hlink#	ADD	pos2=NN	0	root	_	O
+

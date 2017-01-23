@@ -1,0 +1,11 @@
+1	You	you	PRP	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	watch	watch	VB	_	0	root	_	O
+4	the	the	DT	_	7	det	_	O
+5	entire	entire	JJ	_	7	nmod	_	O
+6	#NBAwards	#nbawards	JJ	pos2=XX	7	nmod	_	O
+7	ceremony	ceremony	NN	_	3	dobj	_	O
+8	at	at	IN	_	3	prep	_	O
+9	https://t.co/Ta0R9JT7zQ	#hlink#	ADD	_	8	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+

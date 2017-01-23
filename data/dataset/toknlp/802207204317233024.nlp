@@ -1,0 +1,21 @@
+1	Hmmmmm	hmmmmm	UH	_	3	discourse	_	O
+2	where	where	WRB	_	3	advmod	_	O
+3	are	be	VBP	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	#BlackLivesMatter	#blacklivesmatter	NNP	pos2=NN	3	nsubj	_	U-ORG
+6	when	when	WRB	_	11	advmod	_	O
+7	matters	matter	NNS	pos2=VBZ	11	nsubj	_	O
+8	like	like	IN	_	7	prep	_	O
+9	this	this	DT	_	8	pobj	_	O
+10	a	a	DT	_	11	det	_	O
+11	rise	rise	NN	_	12	acl	_	O
+12	...	..	.	_	3	punct	_	O
+
+1	kids	kid	NNS	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	disgrace	disgrace	NN	_	2	attr	_	O
+5	!!	!!	.	_	2	punct	_	O
+
+1	https://t.co/aPrB0VtvCN	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,10 @@
+1	Ca	can	MD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	wait	wait	VB	_	0	root	_	O
+4	until	until	IN	_	3	prep	_	O
+5	2017	0	CD	_	4	pobj	_	U-DATE
+6	!!	!!	.	_	3	punct	_	O
+
+1	⚾️	⚾️	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/cTi5otC0tM	#hlink#	ADD	pos2=NN	0	root	_	O
+

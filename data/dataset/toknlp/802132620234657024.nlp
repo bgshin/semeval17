@@ -1,0 +1,24 @@
+1	@adrianjcl123	@adrianjcl0	VBG	pos2=LS	8	csubj	_	O
+2	a	a	DT	_	5	det	_	O
+3	common	common	JJ	_	4	nmod	_	O
+4	sense	sense	NN	_	5	compound	_	O
+5	thing	thing	NN	_	1	dobj	_	O
+6	to	to	TO	pos2=IN	7	aux	_	O
+7	do	do	VB	_	5	relcl	_	O
+8	is	be	VBZ	_	0	root	_	O
+9	to	to	TO	_	10	aux	_	O
+10	read	read	VB	_	8	xcomp	_	O
+11	the	the	DT	_	12	det	_	O
+12	instructions	instruction	NNS	_	10	dobj	_	O
+13	&	&	CC	_	12	cc	_	O
+14	gaidelines	gaidelines	NNS	pos2=RB	12	conj	_	O
+15	before	before	IN	pos2=RB	10	prep	_	O
+16	writing	write	VBG	_	15	pcomp	_	O
+17	nonsense	nonsense	NN	pos2=DT	18	compound	_	O
+18	opinion	opinion	NN	_	16	dobj	_	O
+19	.	.	.	_	8	punct	_	O
+
+1	wind	wind	NN	_	2	nsubj	_	O
+2	blows	blow	VBZ	pos2=NNS	0	root	_	O
+3	#OneDirection	#onedirection	NN	pos2=ADD	2	dobj	_	O
+

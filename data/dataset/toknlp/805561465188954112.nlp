@@ -1,0 +1,19 @@
+1	Mission	mission	NN	pos2=NNP	2	nsubj	_	O
+2	Unstoppable	unstoppable	JJ	_	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	From	from	IN	_	3	prep	_	O
+2	Drone	drone	NNP	pos2=NN	1	pobj	_	O
+3	Strikes	strike	VBZ	pos2=NNPS	0	root	_	O
+4	To	to	IN	_	3	prep	_	O
+5	Prison	prison	NNP	_	7	compound	_	B-ORG
+6	Torture	torture	NNP	pos2=NN	7	compound	_	I-ORG
+7	CIA	cia	NNP	_	4	pobj	_	L-ORG
+8	Runs	run	VBZ	_	3	conj	_	O
+9	US	us	NNP	_	11	compound	_	B-ORG
+10	Forein	forein	NNP	_	11	compound	_	I-ORG
+11	Policy	policy	NNP	pos2=NN	8	dobj	_	L-ORG
+12	!	!	.	_	8	punct	_	O
+
+1	https://t.co/uLsnZDTHZU	#hlink#	ADD	_	0	root	_	U-ORG
+

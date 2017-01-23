@@ -1,0 +1,17 @@
+1	#TrumpTransitionTeam	#trumptransitionteam	UH	pos2=NN	12	discourse	_	O
+2	no	no	RB	pos2=DT	3	neg	_	O
+3	matter	matter	RB	pos2=NN	12	advmod	_	O
+4	who	who	WP	_	6	nsubjpass	_	O
+5	get	get	VBP	pos2=VB	6	auxpass	_	O
+6	hired	hire	VBN	pos2=JJ	3	relcl	_	O
+7	or	or	CC	_	6	cc	_	O
+8	what	what	WP	_	9	nsubj	_	O
+9	happens	happen	VBZ	_	6	conj	_	O
+10	,	,	,	_	12	punct	_	O
+11	GOD	god	NNP	pos2=NN	12	nsubj	_	U-ORG
+12	is	be	VBZ	_	0	root	_	O
+13	still	still	RB	_	12	advmod	_	O
+14	in	in	IN	_	12	prep	_	O
+15	control	control	NN	_	14	pobj	_	O
+16	🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏	🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏	NNP	pos2=.	12	vocative	_	U-GPE
+

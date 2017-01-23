@@ -1,0 +1,18 @@
+1	@Cherylsway	@cherylsway	NNP	pos2=UH	2	compound	_	O
+2	@DLoesch	@dloesch	NN	pos2=XX	3	compound	_	O
+3	4.	0.	LS	_	7	meta	_	U-CARDINAL
+4	Careful	careful	JJ	pos2=VB	0	root	_	O
+5	what	what	WP	_	7	dobj	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	say	say	VBP	_	4	ccomp	_	O
+8	about	about	IN	_	7	prep	_	O
+9	Melania	melania	NNP	_	13	poss	_	U-PERSON
+10	's	's	POS	_	9	case	_	O
+11	favorite	favorite	JJ	_	13	nmod	_	O
+12	speech	speech	NN	_	13	compound	_	O
+13	writer	writer	NN	_	8	pobj	_	O
+14	,	,	,	_	13	punct	_	O
+15	Michelle	michelle	NNP	_	16	compound	_	B-PERSON
+16	Obama	obama	NNP	_	13	appos	_	L-PERSON
+17	.	.	.	_	4	punct	_	O
+

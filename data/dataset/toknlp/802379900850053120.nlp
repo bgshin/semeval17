@@ -1,0 +1,12 @@
+1	AI	ai	NN	pos2=NNP	4	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	robots	robot	NNS	_	1	conj	_	O
+4	line	line	VBP	pos2=NN	0	root	_	O
+5	up	up	RP	pos2=IN	4	prt	_	O
+6	for	for	IN	_	4	prep	_	O
+7	battlefield	battlefield	NN	_	8	compound	_	O
+8	service	service	NN	_	6	pobj	_	O
+9	https://t.co/zld1ZHnrEl	#hlink#	ADD	pos2=NN	11	nmod	_	U-ORG
+10	via	via	IN	_	4	prep	_	O
+11	@FT	@ft	NN	pos2=ADD	10	pobj	_	O
+

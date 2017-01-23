@@ -1,0 +1,14 @@
+1	Women	woman	NNS	pos2=NNP	3	nsubj	_	O
+2	Are	be	VBP	_	3	aux	_	O
+3	Donating	donate	VBG	_	0	root	_	O
+4	To	to	IN	pos2=NNP	3	prep	_	O
+5	Planned	planned	NNP	pos2=VBN	6	compound	_	B-ORG
+6	Parenthood	parenthood	NNP	pos2=NN	4	pobj	_	L-ORG
+7	In	in	IN	pos2=NNP	3	prep	_	O
+8	Honor	honor	NNP	_	7	pobj	_	O
+9	Of	of	IN	pos2=NNP	8	prep	_	O
+10	Mike	mike	NNP	_	11	compound	_	B-PERSON
+11	Pence	penny	NNP	pos2=GW	9	pobj	_	L-PERSON
+12	https://t.co/HV5FZuyCnD	#hlink#	ADD	_	13	nmod	_	O
+13	https://t.co/Qp2SfSnUW8	#hlink#	ADD	_	3	advcl	_	U-ORG
+

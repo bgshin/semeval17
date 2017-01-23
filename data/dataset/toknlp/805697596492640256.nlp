@@ -1,0 +1,19 @@
+1	Post	post	NN	pos2=NNP	2	nsubj	_	O
+2	Edited	edit	VBN	_	0	root	_	O
+3	:	:	:	_	2	punct	_	O
+4	Will	will	MD	_	9	aux	_	O
+5	the	the	DT	_	6	det	_	O
+6	mass	mass	NN	_	9	nsubj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	earth	earth	NN	_	7	pobj	_	O
+9	reduce	reduce	VB	pos2=VBP	2	dep	_	O
+10	due	due	IN	_	9	prep	_	O
+11	to	to	IN	_	10	pcomp	_	O
+12	extraction	extraction	NN	_	10	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	fossil	fossil	NN	pos2=JJ	15	compound	_	O
+15	fuels	fuel	NNS	_	13	pobj	_	O
+16	?	?	.	_	2	punct	_	O
+
+1	https://t.co/ShwLmyI1CM	#hlink#	ADD	_	0	root	_	U-ORG
+

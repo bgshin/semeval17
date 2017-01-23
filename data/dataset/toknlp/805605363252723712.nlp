@@ -1,0 +1,18 @@
+1	France	france	NNP	pos2=NN	6	dep	_	U-GPE
+2	:	:	:	_	6	punct	_	O
+3	Marine	marine	NNP	pos2=JJ	5	compound	_	B-ORG
+4	Le	le	NNP	_	5	compound	_	I-ORG
+5	Pen	pen	NNP	_	6	nsubj	_	L-ORG
+6	hopes	hope	VBZ	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	be	be	VB	_	6	xcomp	_	O
+9	new	new	JJ	_	10	nmod	_	O
+10	President	president	NNP	_	8	attr	_	O
+11	,	,	,	_	10	punct	_	O
+12	talks	talk	NNS	pos2=VBZ	10	appos	_	O
+13	abt	abt	IN	pos2=NN	12	prep	_	O
+14	Trump	trump	NNP	pos2=NN	13	pobj	_	U-PERSON
+15	and	and	CC	_	14	cc	_	O
+16	globalism	globalism	NN	_	14	conj	_	O
+17	https://t.co/eP30IRYrBh	#hlink#	ADD	pos2=NN	14	appos	_	O
+

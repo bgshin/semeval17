@@ -1,0 +1,21 @@
+1	OH	oh	UH	pos2=JJ	2	discourse	_	O
+2	GOD	god	NNP	pos2=UH	5	vocative	_	O
+3	WHAT	what	WP	pos2=WDT	5	attr	_	O
+4	EVEN	even	RB	_	5	advmod	_	O
+5	IS	be	VBZ	_	0	root	_	O
+6	EDDIE	eddie	NNP	_	7	compound	_	B-PERSON
+7	REDMAYNE	redmayne	NNP	_	5	nsubj	_	L-PERSON
+8	?	?	.	_	5	punct	_	O
+
+1	can	can	MD	_	3	aux	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	pack	pack	VB	_	0	root	_	O
+4	him	him	PRP	_	3	dobj	_	O
+5	in	in	IN	_	3	prep	_	O
+6	a	a	DT	_	7	det	_	O
+7	suitcase	suitcase	NN	_	5	pobj	_	O
+8	?	?	.	_	3	punct	_	O
+
+1	😭😭	😭😭	NFP	pos2=SYM	2	punct	_	O
+2	#fantasticbeasts	#fantasticbeasts	NNS	pos2=UH	0	root	_	O
+

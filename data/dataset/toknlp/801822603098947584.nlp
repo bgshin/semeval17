@@ -1,0 +1,34 @@
+1	Today	today	NN	pos2=NNP	4	poss	_	U-DATE
+2	's	's	POS	_	1	case	_	O
+3	Game	game	NNP	pos2=NN	4	compound	_	O
+4	Plan	plan	NNP	pos2=NN	15	nsubj	_	O
+5	for	for	IN	_	4	prep	_	O
+6	Survival	survival	NN	pos2=NNP	5	pobj	_	O
+7	:	:	:	_	9	punct	_	O
+8	Opposite	opposite	JJ	pos2=NNP	9	nmod	_	O
+9	Day	day	NNP	pos2=NN	11	npadvmod	_	U-PERSON
+10	"	"	``	pos2=''	12	punct	_	O
+11	The	the	DT	_	12	det	_	O
+12	cast	cast	NN	_	15	nsubj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	Hamilton	hamilton	NNP	_	13	pobj	_	U-PERSON
+15	was	be	VBD	_	0	root	_	O
+16	OUT	out	IN	pos2=RB	15	prep	_	O
+17	OF	of	IN	_	16	prep	_	O
+18	LINE	line	NN	_	17	pobj	_	O
+19	!!	!!	.	_	15	punct	_	O
+
+1	""	""	``	pos2=SYM	3	punct	_	O
+2	Everyone	everyone	NN	_	3	nsubj	_	O
+3	Needs	need	VBZ	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	MOVE	move	VB	_	3	xcomp	_	O
+6	ON	on	RB	pos2=IN	5	advmod	_	O
+7	!!	!!	.	_	3	punct	_	O
+
+1	""	""	``	pos2=SYM	3	punct	_	O
+2	Bad	bad	JJ	pos2=NNP	3	nmod	_	O
+3	Hombres	hombres	NNP	pos2=NNS	0	root	_	O
+4	!!!!!!!	!!	.	_	3	punct	_	O
+5	"	"	''	_	3	punct	_	O
+

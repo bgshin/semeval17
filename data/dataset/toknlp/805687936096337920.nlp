@@ -1,0 +1,16 @@
+1	Muhammad	muhammad	NNP	_	2	compound	_	B-PERSON
+2	Ali	ali	NNP	_	3	nsubj	_	L-PERSON
+3	Crying	cry	VBG	pos2=NNP	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	His	his	PRP$	_	7	poss	_	O
+6	Friend	friend	NNP	pos2=NN	7	compound	_	O
+7	Cosell	cosell	NNP	_	4	pobj	_	O
+8	Before	before	IN	_	3	prep	_	O
+9	His	his	PRP$	_	10	poss	_	O
+10	Passing	passing	NN	pos2=VBG	8	pobj	_	O
+11	,	,	,	_	15	punct	_	O
+12	Powerful	powerful	JJ	_	13	nmod	_	O
+13	Footage	footage	NN	pos2=GW	15	dep	_	O
+14	https://t.co/vyZANNtN0n	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/Du7UNfo3r3	#hlink#	ADD	_	3	dep	_	U-ORG
+

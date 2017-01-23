@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det	_	O
+2	earth	earth	NN	_	4	nsubjpass	_	U-LOC
+3	is	be	VBZ	_	4	auxpass	_	O
+4	run	run	VBN	_	0	root	_	O
+5	by	by	IN	_	4	agent	_	O
+6	psychopathsKids	psychopathskids	NNP	pos2=NNS	5	pobj	_	U-ORG
+7	could	could	MD	_	9	aux	_	O
+8	be	be	VB	_	9	auxpass	_	O
+9	exposed	expose	VBN	_	4	conj	_	O
+10	to	to	IN	_	9	prep	_	O
+11	this#pornharms	this#pornharms	NNS	pos2=GW	10	pobj	_	O
+12	#draintheswamp	#draintheswamp	IN	pos2=-LRB-	9	prep	_	O
+13	https://t.co/m3RUDsWS8s	#hlink#	ADD	pos2=NN	12	pobj	_	U-ORG
+

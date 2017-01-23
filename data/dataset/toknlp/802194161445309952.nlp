@@ -1,0 +1,13 @@
+1	The	the	DT	_	4	det	_	B-FAC
+2	United	united	NNP	_	3	compound	_	I-FAC
+3	Nations	nations	NNP	_	4	compound	_	I-FAC
+4	Building	building	NNP	_	12	nsubj	_	L-FAC
+5	from	from	IN	_	4	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	Hudson.#un	hudson.#un	NNP	_	8	compound	_	O
+8	#unitednations	#unitednations	NNS	pos2=NNPS	5	pobj	_	O
+9	#nyc	#nyc	XX	pos2=UH	12	nmod	_	O
+10	#esterbauerhoneymoon	#esterbauerhoneymoon	GW	pos2=XX	12	nmod	_	O
+11	@…	@…	NFP	pos2=GW	12	punct	_	O
+12	https://t.co/cQZfhe0n7B	#hlink#	ADD	pos2=NN	0	root	_	O
+

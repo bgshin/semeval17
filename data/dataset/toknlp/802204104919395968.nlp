@@ -1,0 +1,13 @@
+1	#Mannequinchallenge	#mannequinchallenge	NNP	pos2=UH	5	nsubj	_	O
+2	#fail	#fail	IN	pos2=MD	1	prep	_	O
+3	A	a	DT	_	4	det	_	O
+4	fly	fly	NN	_	2	pobj	_	O
+5	was	be	VBD	_	0	root	_	O
+6	about	about	JJ	pos2=RB	5	acomp	_	O
+7	to	to	TO	_	8	aux	_	O
+8	get	get	VB	_	6	xcomp	_	O
+9	them	them	PRP	_	10	nsubj	_	O
+10	yams	yam	NNS	_	8	ccomp	_	O
+11	lol	lol	UH	pos2=GW	10	discourse	_	O
+12	https://t.co/qWXKYGekM1	#hlink#	ADD	pos2=NN	10	dobj	_	O
+

@@ -1,0 +1,13 @@
+1	Big	big	JJ	_	3	nmod	_	O
+2	tit	tit	NN	pos2=JJ	3	compound	_	O
+3	redhead	redhead	NN	_	5	compound	_	O
+4	Ashley	ashley	NNP	_	5	compound	_	B-PERSON
+5	Graham	graham	NNP	_	6	nsubj	_	L-PERSON
+6	gets	get	VBZ	_	0	root	_	O
+7	a	a	DT	_	9	det	_	O
+8	sensual	sensual	JJ	_	9	nmod	_	O
+9	massage	massage	NN	_	6	dobj	_	O
+10	and	and	CC	_	9	cc	_	O
+11	fuck	fuck	NN	pos2=VB	9	conj	_	O
+12	https://t.co/efchWKdm8M	#hlink#	ADD	pos2=NN	6	dep	_	U-ORG
+

@@ -1,0 +1,25 @@
+1	in	in	IN	_	17	prep	_	O
+2	the	the	DT	_	4	det	_	O
+3	Oregon	oregon	NNP	_	4	compound	_	U-GPE
+4	experiment	experiment	NN	_	1	pobj	_	O
+5	,	,	,	_	17	punct	_	O
+6	10,000	0	CD	_	10	nmod	_	U-CARDINAL
+7	previously	previously	RB	_	9	advmod	_	O
+8	-	-	HYPH	pos2=,	9	punct	_	O
+9	excluded	exclude	VBN	_	10	nmod	_	O
+10	people	people	NNS	_	17	nsubjpass	_	O
+11	(	(	-LRB-	_	10	punct	_	O
+12	poor	poor	JJ	_	10	nmod	_	O
+13	&	&	CC	_	12	cc	_	O
+14	childless	childless	JJ	_	12	conj	_	O
+15	)	)	-RRB-	_	10	punct	_	O
+16	were	be	VBD	_	17	auxpass	_	O
+17	given	give	VBN	_	0	root	_	O
+18	access	access	NN	_	17	dobj	_	O
+19	to	to	IN	_	18	prep	_	O
+20	Medicaid	medicaid	NNP	_	19	pobj	_	U-ORG
+21	for	for	IN	_	17	prep	_	O
+22	the	the	DT	_	24	det	_	O
+23	first	#ord#	JJ	_	24	nmod	_	U-ORDINAL
+24	time	time	NN	_	21	pobj	_	O
+

@@ -1,0 +1,25 @@
+1	@Mark_J_Perry	@mark_j_perry	NN	pos2=VB	4	npadvmod	_	O
+2	@FriedrichHayek	@friedrichhayek	ADD	pos2=XX	4	punct	_	O
+3	@nytimes	@nytimes	NNS	pos2=UH	4	nsubj	_	O
+4	Wish	wish	VBP	pos2=VB	0	root	_	O
+5	#Chavez	#chavez	NNP	pos2=NNS	6	nsubj	_	U-ORG
+6	were	be	VBD	_	4	ccomp	_	O
+7	still	still	RB	_	6	advmod	_	O
+8	alive	alive	JJ	_	6	acomp	_	O
+9	so	so	RB	pos2=IN	14	advmod	_	O
+10	this	this	DT	_	14	nsubjpass	_	O
+11	could	could	MD	_	14	aux	_	O
+12	all	all	RB	pos2=DT	14	advmod	_	O
+13	be	be	VB	_	14	auxpass	_	O
+14	laid	lay	VBN	_	6	advcl	_	O
+15	at	at	IN	_	14	prep	_	O
+16	this	this	DT	_	17	det	_	O
+17	feet	foot	NNS	pos2=NN	15	pobj	_	O
+18	,	,	,	_	14	punct	_	O
+19	not	not	RB	_	20	neg	_	O
+20	blamed	blame	VBN	_	14	dep	_	O
+21	on	on	IN	_	20	prep	_	O
+22	#Maduro	#maduro	NNP	pos2=PRP$	23	compound	_	U-ORG
+23	failure	failure	NN	_	21	pobj	_	O
+24	.	.	.	_	4	punct	_	O
+

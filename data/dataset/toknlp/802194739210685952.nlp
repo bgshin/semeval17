@@ -1,0 +1,12 @@
+1	@TorontoLydia	@torontolydia	NN	pos2=UH	5	discourse	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	may	may	MD	_	5	aux	_	O
+4	have	have	VB	_	5	aux	_	O
+5	seen	see	VBN	_	0	root	_	O
+6	too	too	RB	_	7	advmod	_	O
+7	many	many	JJ	_	8	nmod	_	O
+8	episodes	episode	NNS	_	5	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	#TheWalkingDead	#thewalkingdead	NN	pos2=NNP	9	pobj	_	O
+11	.	.	.	_	5	punct	_	O
+

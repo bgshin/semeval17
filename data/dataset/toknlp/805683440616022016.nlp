@@ -1,0 +1,20 @@
+1	#Sporting	#sporting	VBG	pos2=NNP	19	dep	_	O
+2	#Card	#card	NNP	pos2=$	1	dobj	_	O
+3	2015	0	CD	_	5	qmod	_	B-DATE
+4	-	-	SYM	pos2=HYPH	5	punct	_	I-DATE
+5	16	0	CD	_	19	dep	_	L-DATE
+6	Gold	gold	NN	pos2=NNP	19	dep	_	B-ORG
+7	Standard	standard	NNP	pos2=JJ	9	compound	_	L-ORG
+8	Joe	joe	NNP	_	9	compound	_	B-PERSON
+9	Young	young	NNP	pos2=JJ	19	dep	_	L-PERSON
+10	auto	auto	NN	_	12	nmod	_	O
+11	Dual	dual	JJ	pos2=NNP	12	nmod	_	O
+12	patch	patch	NN	_	19	dep	_	O
+13	/	/	SYM	pos2=,	12	punct	_	O
+14	149	0	CD	_	15	nmod	_	B-DATE
+15	#Indiana	#indiana	NNS	pos2=NN	19	dep	_	L-DATE
+16	#Pacers	#pacers	NNS	pos2=GW	19	nmod	_	O
+17	Rc	rc	GW	pos2=NNP	19	nmod	_	O
+18	https://t.co/ddRLpR5tBS…	#hlink#	ADD	pos2=GW	19	nmod	_	O
+19	https://t.co/sPtzJ6gwWL	#hlink#	ADD	_	0	root	_	U-ORG
+

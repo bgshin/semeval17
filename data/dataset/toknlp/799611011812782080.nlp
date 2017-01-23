@@ -1,0 +1,17 @@
+1	Vladimir	vladimir	NNP	_	2	compound	_	B-PERSON
+2	Putin	putin	NNP	_	3	nsubj	_	L-PERSON
+3	Knows	know	VBZ	_	0	root	_	O
+4	More	more	JJR	pos2=NNP	3	dobj	_	O
+5	About	about	IN	pos2=RB	4	prep	_	O
+6	Donald	donald	NNP	_	7	compound	_	B-PERSON
+7	Trump	trump	NNP	_	9	poss	_	I-PERSON
+8	’s	's	POS	_	7	case	_	L-PERSON
+9	Plans	plan	NNPS	pos2=NNP	5	pobj	_	O
+10	Than	than	IN	pos2=NNP	15	mark	_	O
+11	U.S.	u.s.	NNP	_	12	compound	_	U-GPE
+12	Officials	official	NNS	pos2=NNPS	15	nsubj	_	O
+13	Do	do	VBP	_	15	aux	_	O
+14	https://t.co/gDdw2NnZLk	#hlink#	ADD	_	15	nsubj	_	O
+15	#TrumpTransitionTeam	#trumptransitionteam	VB	pos2=ADD	3	advcl	_	O
+16	#TrumpPutin	#trumpputin	NN	pos2=ADD	15	dobj	_	O
+

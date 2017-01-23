@@ -1,0 +1,20 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	believe	believe	VB	_	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	death	death	NN	_	8	compound	_	O
+8	penalty	penalty	NN	_	5	pobj	_	O
+9	but	but	CC	_	4	cc	_	O
+10	I	I	PRP	_	11	nsubj	_	O
+11	hope	hope	VBP	_	4	conj	_	O
+12	someone	someone	NN	_	14	nsubj	_	O
+13	really	really	RB	_	14	advmod	_	O
+14	gives	give	VBZ	_	11	ccomp	_	O
+15	him	him	PRP	_	14	dative	_	O
+16	hell	hell	NN	pos2=UH	14	dobj	_	O
+17	in	in	IN	_	16	prep	_	O
+18	jail	jail	NN	_	17	pobj	_	O
+19	https://t.co/qjF8Y4Lhsd	#hlink#	ADD	pos2=NN	18	appos	_	U-GPE
+

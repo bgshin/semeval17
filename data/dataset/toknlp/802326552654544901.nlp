@@ -1,0 +1,12 @@
+1	Japan	japan	NNP	_	2	nsubj	_	U-GPE
+2	warns	warn	VBZ	_	0	root	_	O
+3	to	to	IN	_	2	prep	_	O
+4	Prep	prep	NNP	pos2=VB	3	pobj	_	U-ORG
+5	for	for	IN	_	2	prep	_	O
+6	possible	possible	JJ	_	10	nmod	_	O
+7	N	n	JJ	pos2=NN	10	nmod	_	O
+8	Korean	korean	JJ	pos2=NNP	10	nmod	_	U-NORP
+9	Nuke	nuke	NNP	pos2=GW	10	compound	_	O
+10	Attack	attack	NN	pos2=NNP	5	pobj	_	O
+11	https://t.co/tnsvZZbysO	#hlink#	ADD	pos2=NN	10	appos	_	U-ORG
+

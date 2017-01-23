@@ -1,0 +1,8 @@
+1	@OrbSparta	@orbsparta	NNS	pos2=MD	2	nsubj	_	O
+2	GO	go	VB	pos2=VBP	0	root	_	O
+3	TO	to	IN	_	2	prep	_	O
+4	LOCAL	local	JJ	_	7	nmod	_	O
+5	SOCIAL	social	JJ	pos2=NNP	6	nmod	_	O
+6	SECURITY	security	NN	pos2=NNP	7	compound	_	O
+7	UNEMPLOYMENT	unemployment	NN	_	3	pobj	_	O
+

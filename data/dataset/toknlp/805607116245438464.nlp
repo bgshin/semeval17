@@ -1,0 +1,25 @@
+1	@rolandsmartin	@rolandsmartin	UH	pos2=NFP	10	discourse	_	O
+2	Why	why	WRB	_	10	advmod	_	O
+3	ca	can	MD	_	10	aux	_	O
+4	n't	not	RB	_	10	neg	_	O
+5	the	the	DT	_	6	det	_	O
+6	ideologue	ideologue	NN	_	10	nsubj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	Black	black	JJ	pos2=NNP	9	nmod	_	O
+9	folks	folk	NNS	_	7	pobj	_	O
+10	be	be	VB	pos2=VBP	0	root	_	O
+11	the	the	DT	_	15	det	_	O
+12	maximize	maximize	VB	pos2=PDT	10	xcomp	_	O
+13	our	our	PRP$	_	15	poss	_	O
+14	voting	voting	NN	pos2=VBG	15	compound	_	O
+15	block	block	NN	_	12	dobj	_	O
+16	by	by	IN	_	12	prep	_	O
+17	funding	fund	VBG	pos2=NN	16	pcomp	_	O
+18	voter	voter	NN	_	19	compound	_	O
+19	registration	registration	NN	_	17	dobj	_	O
+20	&	&	CC	_	17	cc	_	O
+21	getting	get	VBG	_	17	conj	_	O
+22	out	out	RP	pos2=RB	21	prt	_	O
+23	the	the	DT	_	24	det	_	O
+24	vote	vote	NN	_	21	dobj	_	O
+

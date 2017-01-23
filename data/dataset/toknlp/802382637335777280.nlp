@@ -1,0 +1,18 @@
+1	@MaxTerhune	@maxterhune	ADD	pos2=NNP	0	root	_	O
+2	@richgalen	@richgalen	UH	pos2=XX	1	discourse	_	O
+3	@jpodhoretz	@jpodhoretz	UH	pos2=VB	1	discourse	_	O
+4	if	if	IN	_	6	mark	_	O
+5	#Calexit	#calexit	NNP	pos2=PRP	6	nsubj	_	U-ORG
+6	happens	happen	VBZ	_	10	advcl	_	O
+7	dems	dems	NNS	pos2=PRP	10	nsubj	_	O
+8	would	would	MD	_	10	aux	_	O
+9	n't	not	RB	_	10	neg	_	O
+10	win	win	VB	_	1	ccomp	_	O
+11	EC	ec	NNP	pos2=NN	10	dobj	_	U-ORG
+12	or	or	CC	_	11	cc	_	O
+13	pop	pop	NN	pos2=VB	11	conj	_	O
+14	for	for	IN	_	10	prep	_	O
+15	next	next	JJ	_	17	nmod	_	B-DATE
+16	20	0	CD	_	17	nmod	_	I-DATE
+17	years	year	NNS	_	14	pobj	_	L-DATE
+

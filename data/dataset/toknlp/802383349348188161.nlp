@@ -1,0 +1,11 @@
+1	#RejectedDecorations	#rejecteddecorations	NNS	pos2=ADD	3	nmod	_	O
+2	-	-	SYM	pos2=HYPH	3	punct	_	O
+3	Chestnuts	chestnut	NNS	pos2=NNPS	0	root	_	O
+4	roasting	roast	VBG	pos2=NN	3	acl	_	O
+5	over	over	IN	_	4	prep	_	O
+6	a	a	DT	_	8	det	_	O
+7	Galaxy	galaxy	NNP	pos2=NN	8	compound	_	U-PRODUCT
+8	Note	note	NN	pos2=NNP	5	pobj	_	O
+9	7@HashtagRoundup	0@hashtagroundup	XX	pos2=NN	10	nmod	_	O
+10	@SandmanTags	@sandmantags	NNS	pos2=XX	4	dobj	_	O
+

@@ -1,0 +1,17 @@
+1	Stephen	stephen	NNP	_	3	compound	_	B-PERSON
+2	Bannon	bannon	NNP	_	3	compound	_	L-PERSON
+3	Hit	hit	NNP	pos2=VBD	0	root	_	O
+4	With	with	IN	_	3	prep	_	O
+5	Serious	serious	JJ	pos2=NNP	10	nmod	_	O
+6	FBI	fbi	NNP	_	9	compound	_	B-LAW
+7	Federal	federal	NNP	_	9	compound	_	I-LAW
+8	Election	election	NNP	_	9	compound	_	I-LAW
+9	Law	law	NNP	_	10	compound	_	L-LAW
+10	Complaint	complaint	NN	pos2=NNP	4	pobj	_	O
+11	By	by	IN	_	10	prep	_	O
+12	Democratic	democratic	JJ	pos2=NNP	13	nmod	_	U-NORP
+13	Coalition	coalition	NNP	pos2=NN	11	pobj	_	O
+14	https://t.co/RdrAZx11aH	#hlink#	ADD	_	13	appos	_	O
+15	#TrumpTransitionTeam	#trumptransitionteam	ADD	pos2=-RRB-	16	compound	_	U-ORG
+16	#GOP	#gop	NN	pos2=ADD	3	npadvmod	_	O
+

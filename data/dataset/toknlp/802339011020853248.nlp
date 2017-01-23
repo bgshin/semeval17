@@ -1,0 +1,8 @@
+1	A	a	DT	_	2	det	_	O
+2	beauty	beauty	NN	_	7	nsubj	_	O
+3	by	by	IN	_	2	prep	_	O
+4	Curt	curt	NNP	_	6	compound	_	B-PERSON
+5	Montana	montana	NNP	_	6	compound	_	I-PERSON
+6	Moore	moore	NNP	_	3	pobj	_	L-PERSON
+7	https://t.co/Fgt9PHhIbZ	#hlink#	ADD	_	0	root	_	O
+

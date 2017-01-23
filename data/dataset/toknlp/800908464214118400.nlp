@@ -1,0 +1,30 @@
+1	"	"	``	_	5	punct	_	O
+2	How	how	WRB	_	5	advmod	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	do	do	VB	pos2=VBP	0	root	_	O
+6	,	,	,	_	5	punct	_	O
+7	fellow	fellow	JJ	pos2=VB	10	nmod	_	O
+8	alt	alt	JJ	pos2=NN	10	nmod	_	O
+9	-	-	HYPH	_	10	punct	_	O
+10	Rightists	rightist	NNPS	pos2=NNS	5	vocative	_	O
+11	?	?	.	_	5	punct	_	O
+
+1	Say	say	VB	pos2=NNP	0	root	_	O
+2	,	,	,	_	1	punct	_	O
+3	any	any	DT	_	17	nmod	_	O
+4	of	of	IN	_	3	prep	_	O
+5	you	you	PRP	pos2=PRP$	4	pobj	_	O
+6	revolutionaries	revolutionary	NNS	pos2=VBZ	5	appos	_	O
+7	up	up	RP	pos2=IN	3	prep	_	O
+8	for	for	IN	_	7	prep	_	O
+9	an	an	DT	_	10	det	_	O
+10	op	op	NN	_	8	pobj	_	O
+11	against	against	IN	_	10	prep	_	O
+12	a	a	DT	_	14	det	_	O
+13	designated	designate	VBN	pos2=JJ	14	nmod	_	O
+14	target	target	NN	_	11	pobj	_	O
+15	late	late	JJ	pos2=RB	16	nmod	_	O
+16	…	…	NFP	pos2=-LRB-	17	punct	_	O
+17	https://t.co/qQK1fygkQc	#hlink#	ADD	_	1	dep	_	O
+

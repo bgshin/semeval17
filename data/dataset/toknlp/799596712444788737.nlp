@@ -1,0 +1,10 @@
+1	this	this	DT	_	4	nsubj	_	O
+2	should	should	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	be	be	VB	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	thing	thing	NN	_	4	attr	_	O
+7	...	..	.	pos2=,	4	punct	_	O
+
+1	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=UH	0	root	_	U-DATE
+

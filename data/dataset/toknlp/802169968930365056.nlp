@@ -1,0 +1,20 @@
+1	Trump	trump	NNP	pos2=NN	2	compound	_	B-ORG
+2	Tower	tower	NNP	_	3	compound	_	L-ORG
+3	security	security	NN	_	5	nsubj	_	O
+4	may	may	MD	_	5	aux	_	O
+5	take	take	VB	_	0	root	_	O
+6	over	over	RP	pos2=IN	5	prt	_	O
+7	2	0	CD	_	8	nmod	_	U-CARDINAL
+8	floors	floor	NNS	_	5	dobj	_	O
+9	--	--	:	_	5	punct	_	O
+10	and	and	CC	_	5	cc	_	O
+11	cost	cost	VBP	pos2=VB	5	conj	_	O
+12	millions	#crd#	NNS	_	11	dobj	_	U-CARDINAL
+13	https://t.co/X0h562RAqF	#hlink#	ADD	_	11	dative	_	U-ORG
+14	via	via	IN	_	11	prep	_	O
+15	nypmetro	nypmetro	CD	pos2=JJ	14	pobj	_	O
+16	#DonaldTrump	#donaldtrump	ADD	pos2=XX	11	dobj	_	O
+17	#UniteBlue	#uniteblue	ADD	pos2=NNP	19	compound	_	O
+18	#MAGA	#maga	NN	pos2=ADD	15	qmod	_	O
+19	#college	#college	UH	pos2=ADD	18	discourse	_	O
+

@@ -1,0 +1,23 @@
+1	@Vino_NY	@vino_ny	NN	pos2=XX	15	dep	_	O
+2	in	in	IN	_	1	prep	_	O
+3	a	a	DT	_	5	det	_	O
+4	post-truth	post-truth	JJ	_	5	nmod	_	O
+5	world	world	NN	_	2	pobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	propaganda	propaganda	NN	_	6	pobj	_	O
+8	and	and	CC	_	7	cc	_	O
+9	organized	organize	VBN	pos2=JJ	11	nmod	_	O
+10	voter	voter	NN	_	11	compound	_	O
+11	suppression	suppression	NN	_	7	conj	_	O
+12	,	,	,	_	15	punct	_	O
+13	can	can	MD	_	15	aux	_	O
+14	you	you	PRP	_	15	nsubj	_	O
+15	make	make	VB	_	0	root	_	O
+16	progress	progress	NN	_	15	dobj	_	O
+17	without	without	IN	_	15	prep	_	O
+18	using	use	VBG	_	17	pcomp	_	O
+19	the	the	DT	_	21	det	_	O
+20	same	same	JJ	_	21	nmod	_	O
+21	tools	tool	NNS	_	18	dobj	_	O
+22	)	)	-RRB-	_	15	punct	_	O
+

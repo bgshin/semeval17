@@ -1,0 +1,26 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	watched	watch	VBD	_	0	root	_	O
+3	some	some	DT	_	5	det	_	O
+4	Christmas	christmas	NNP	_	5	compound	_	U-DATE
+5	goodies	goody	NNS	_	2	dobj	_	O
+6	and	and	CC	_	2	cc	_	O
+7	ventured	venture	VBD	pos2=VBN	2	conj	_	O
+8	to	to	IN	_	7	prep	_	O
+9	showtime	showtime	NN	pos2=NNP	8	pobj	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	"	"	``	_	3	punct	_	O
+2	Michael	michael	NNP	_	3	compound	_	B-PERSON
+3	Moore	moore	NNP	_	0	root	_	L-PERSON
+4	in	in	IN	_	3	prep	_	O
+5	Trumpland	trumpland	NNP	_	4	pobj	_	U-GPE
+6	"	"	''	pos2=``	3	punct	_	O
+7	On	on	IN	pos2=NNP	3	prep	_	O
+8	of	of	IN	_	7	prep	_	O
+9	the	the	DT	_	11	det	_	O
+10	first	#ord#	JJ	_	11	nmod	_	U-ORDINAL
+11	quotes	quote	NNS	pos2=VBZ	8	pobj	_	O
+12	?...	?..	.	pos2=:	3	punct	_	O
+
+1	https://t.co/yY799QYRIR	#hlink#	ADD	_	0	root	_	U-ORG
+

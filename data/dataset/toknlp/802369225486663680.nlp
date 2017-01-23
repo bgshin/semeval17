@@ -1,0 +1,23 @@
+1	Good	good	JJ	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	used	use	VBD	_	0	root	_	O
+3	Ivy	ivy	NNP	_	4	compound	_	O
+4	League	league	NNP	pos2=NN	5	compound	_	O
+5	lawyers	lawyer	NNS	_	2	dobj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	biz	biz	NN	pos2=JJ	8	compound	_	O
+8	litigation	litigation	NN	_	6	pobj	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	Never	never	RB	_	2	neg	_	O
+2	again	again	RB	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	suck	suck	VBP	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	https://t.co/Fsmhpp4ICI	#hlink#	ADD	_	0	root	_	U-ORG
+

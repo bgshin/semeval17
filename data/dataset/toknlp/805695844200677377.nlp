@@ -1,0 +1,28 @@
+1	😻@jenniferbeals	😻@jenniferbeals	NNS	pos2=VBZ	2	compound	_	O
+2	YAY	yay	NN	pos2=NNP	5	dep	_	O
+3	,	,	,	_	5	punct	_	O
+4	#LoveTrumpsAll!💗This	#lovetrumpsall!💗this	NNP	pos2=NN	5	nsubj	_	U-ORG
+5	warms	warm	VBZ	_	0	root	_	O
+6	my	my	PRP$	_	7	poss	_	O
+7	soul	soul	NN	_	5	dobj	_	O
+8	when	when	WRB	_	10	advmod	_	O
+9	I	I	PRP	_	10	nsubj	_	O
+10	needed	need	VBD	_	5	advcl	_	O
+11	it	it	PRP	_	10	dobj	_	O
+12	the	the	DT	_	13	det	_	O
+13	most	most	RBS	pos2=JJS	10	advmod	_	O
+14	...	..	.	_	5	punct	_	O
+
+1	now	now	RB	pos2=UH	2	advmod	_	O
+2	am	be	VBP	_	0	root	_	O
+3	I	I	PRP	_	2	nsubj	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	CRAZY	crazy	JJ	pos2=NNP	2	acomp	_	O
+6	to	to	TO	pos2=IN	7	aux	_	O
+7	hope	hope	VB	_	5	xcomp	_	O
+8	Electoral	electoral	NNP	_	9	compound	_	O
+9	College	college	NNP	_	10	nsubj	_	O
+10	pulls	pull	VBZ	_	7	ccomp	_	O
+11	thru	thru	IN	pos2=RP	10	advmod	_	O
+12	?	?	.	_	2	punct	_	O
+

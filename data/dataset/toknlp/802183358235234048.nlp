@@ -1,0 +1,12 @@
+1	PalestinianAuthority	palestinianauthority	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	send	send	VB	pos2=VBP	0	root	_	O
+3	four	#crd#	CD	_	5	nmod	_	U-CARDINAL
+4	firefighting	firefighting	JJ	pos2=NN	5	nmod	_	O
+5	teams	team	NNS	_	2	dobj	_	O
+6	https://t.co/I8szSLJ99G	#hlink#	ADD	pos2=VBP	5	appos	_	O
+7	#israelisburning	#israelisburning	VBG	pos2=-RRB-	2	advcl	_	O
+8	#PalestineBurning	#palestineburning	VBG	pos2=$	7	xcomp	_	O
+9	#Palestine	#palestine	NNP	pos2=PRP	10	compound	_	B-PERSON
+10	#Israel	#israel	NNP	pos2=POS	11	compound	_	L-PERSON
+11	#Israelfires	#israelfires	NNS	pos2=NNP	8	dobj	_	O
+

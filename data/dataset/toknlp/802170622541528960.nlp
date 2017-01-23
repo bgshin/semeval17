@@ -1,0 +1,14 @@
+1	@JerrieTrash	@jerrietrash	XX	pos2=VB	6	compound	_	O
+2	libby	libby	RB	pos2=NN	5	vocative	_	B-PERSON
+3	#StillWithHer	#stillwithher	NNP	pos2=XX	5	vocative	_	L-PERSON
+4	Hi	hi	UH	pos2=NNP	5	discourse	_	O
+5	Congrats	congrats	VBZ	pos2=NNS	0	root	_	O
+6	your	your	PRP$	_	11	poss	_	O
+7	picked	pick	VBN	pos2=VBD	5	conj	_	O
+8	Go	go	VB	pos2=NNP	7	xcomp	_	O
+9	to	to	IN	_	8	prep	_	O
+10	our	our	PRP$	_	11	poss	_	O
+11	site	site	NN	_	9	pobj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	description	description	NN	_	12	pobj	_	O
+

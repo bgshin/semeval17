@@ -1,0 +1,22 @@
+1	Best	well	RBS	pos2=JJS	2	advmod	_	O
+2	censured	censure	VBN	pos2=JJ	3	nmod	_	O
+3	name	name	NN	_	0	root	_	O
+4	yet	yet	RB	_	3	advmod	_	O
+5	for	for	IN	_	3	prep	_	O
+6	a	a	DT	_	8	det	_	O
+7	national	national	JJ	_	8	nmod	_	O
+8	leader	leader	NN	_	5	pobj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	Kim	kim	NNP	_	2	compound	_	B-PERSON
+2	Fatty	fatty	NNP	pos2=JJ	0	root	_	L-PERSON
+3	the	the	DT	_	4	det	_	O
+4	Third	#ord#	NNP	pos2=NNPS	2	appos	_	U-ORDINAL
+5	,	,	,	_	2	punct	_	O
+6	or	or	CC	_	2	cc	_	O
+7	just	just	RB	_	11	advmod	_	O
+8	Kim	kim	NNP	_	11	compound	_	B-PERSON
+9	Fat	fat	NNP	_	11	compound	_	I-PERSON
+10	Fat	fat	NNP	pos2=NN	11	compound	_	I-PERSON
+11	Fat	fat	NNP	pos2=NN	2	conj	_	L-PERSON
+

@@ -1,0 +1,10 @@
+1	Jank	jank	NNP	pos2=NN	6	dep	_	U-PERSON
+2	or	or	CC	_	1	cc	_	O
+3	dank	dank	NN	pos2=VB	1	conj	_	O
+4	:	:	:	_	6	punct	_	O
+5	a	a	DT	_	6	det	_	O
+6	future	future	NN	pos2=JJ	0	root	_	O
+7	involving	involve	VBG	_	6	acl	_	O
+8	self-driving	self-driving	JJ	_	9	nmod	_	O
+9	cars	car	NNS	_	7	dobj	_	O
+

@@ -1,0 +1,16 @@
+1	#MuhammadAli	#muhammadali	NNP	pos2=XX	7	compound	_	O
+2	Joe	joe	NNP	_	3	compound	_	B-PERSON
+3	Frazier	frazier	NNP	_	7	compound	_	L-PERSON
+4	Vs	vs	NNP	pos2=IN	7	compound	_	O
+5	MUHAMMAD	muhammad	NNP	_	7	compound	_	B-ORG
+6	Ali	ali	NNP	_	7	compound	_	I-ORG
+7	Boxing	boxing	NNP	_	8	nsubj	_	L-ORG
+8	Signed	sign	VBD	pos2=NNP	0	root	_	O
+9	16x20	0x0	NN	pos2=CD	12	compound	_	O
+10	#Photo	#photo	NNP	pos2=IN	12	compound	_	O
+11	SSG	ssg	NN	pos2=GW	12	compound	_	O
+12	COA	coa	NN	pos2=NNP	8	dobj	_	O
+13	https://t.co/ohHLdSDxd9	#hlink#	ADD	_	12	appos	_	O
+14	#Legend	#legend	-RRB-	pos2=NNP	13	punct	_	O
+15	#Boxer	#boxer	-RRB-	pos2=NN	8	punct	_	O
+

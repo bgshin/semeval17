@@ -1,0 +1,6 @@
+1	@gerfingerpoken2	@gerfingerpoken0	LS	pos2=NN	5	punct	_	O
+2	Comey	comey	NNP	pos2=RB	3	compound	_	B-PERSON
+3	CROOKED	crooked	NNP	pos2=JJ	0	root	_	L-PERSON
+4	as	as	IN	_	3	prep	_	O
+5	HRC	hrc	NNP	pos2=NN	4	pobj	_	U-ORG
+

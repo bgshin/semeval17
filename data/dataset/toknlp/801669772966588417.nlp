@@ -1,0 +1,22 @@
+1	https://t.co/uaEPy32z1t	#hlink#	ADD	_	0	root	_	O
+2	A	a	DT	_	4	det	_	O
+3	poor	poor	JJ	_	4	nmod	_	O
+4	fool	fool	NN	_	1	dobj	_	O
+5	living	live	VBG	pos2=NN	4	acl	_	O
+6	in	in	IN	_	5	prep	_	O
+7	euphoria	euphoria	NN	_	6	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	his	his	PRP$	_	11	poss	_	O
+10	own	own	JJ	_	11	nmod	_	O
+11	importance	importance	NN	_	8	pobj	_	O
+12	soon	soon	RB	_	13	advmod	_	O
+13	2	0	CD	_	14	nmod	_	U-CARDINAL
+14	fall	fall	NN	pos2=NNS	11	appos	_	O
+15	@	@	SYM	pos2=IN	16	punct	_	O
+16	wayside	wayside	NN	_	14	prep	_	O
+17	of	of	IN	_	16	prep	_	O
+18	Kiev	kiev	NNP	_	20	compound	_	U-GPE
+19	chaos	chaos	NN	_	20	compound	_	O
+20	@vicktop55	@vicktop0	NN	pos2=CD	17	pobj	_	O
+21	@marcelsardo	@marcelsardo	UH	pos2=FW	5	discourse	_	O
+

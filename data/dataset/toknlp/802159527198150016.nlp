@@ -1,0 +1,17 @@
+1	Happy	happy	JJ	_	2	nmod	_	O
+2	funeral	funeral	NN	_	0	root	_	O
+3	to	to	IN	_	2	prep	_	O
+4	all	all	DT	pos2=PDT	5	det	_	O
+5	Liam	liam	NNP	_	7	poss	_	U-PERSON
+6	's	's	POS	_	5	case	_	O
+7	girls	girl	NNS	_	3	pobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	AM	am	NN	pos2=VBP	7	compound	_	O
+2	ÈM	èm	NNP	pos2=:	6	compound	_	O
+3	LIAM	liam	NNP	pos2=NN	6	compound	_	B-PERSON
+4	PAYNE	payne	NNP	_	6	compound	_	L-PERSON
+5	#MtvStarsNiallHoran	#mtvstarsniallhoran	NNP	pos2=ADD	6	compound	_	O
+6	#MPN	#mpn	NNP	pos2=ADD	7	dep	_	O
+7	#OneDirection	#onedirection	ADD	pos2=NN	0	root	_	O
+

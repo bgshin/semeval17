@@ -1,0 +1,14 @@
+1	Drama	drama	NN	_	7	dep	_	O
+2	:	:	:	_	7	punct	_	O
+3	Donald	donald	NNP	_	5	compound	_	B-PERSON
+4	#Trump	#trump	NNP	_	5	compound	_	I-PERSON
+5	Jr.	jr.	NNP	_	7	nsubjpass	_	L-PERSON
+6	was	be	VBD	_	7	auxpass	_	O
+7	killed	kill	VBN	_	0	root	_	O
+8	by	by	IN	_	7	agent	_	O
+9	Melania	melania	NNP	_	10	compound	_	B-PERSON
+10	#Trump	#trump	NNP	_	8	pobj	_	L-PERSON
+11	!	!	.	_	7	punct	_	O
+
+1	#TheBaitBot	#thebaitbot	ADD	pos2=NN	0	root	_	U-WORK_OF_ART
+

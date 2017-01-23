@@ -1,0 +1,10 @@
+1	@politico	@politico	UH	pos2=XX	3	discourse	_	O
+2	@MatthewNussbaum	@matthewnussbaum	NN	pos2=POS	3	compound	_	O
+3	brb	brb	NN	pos2=NNS	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	BAWLING	bawl	VBG	pos2=NN	3	acl	_	O
+6	on	on	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	train	train	NN	_	6	pobj	_	O
+9	#StillWithHer	#stillwithher	.	pos2=NN	3	punct	_	O
+

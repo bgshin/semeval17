@@ -1,0 +1,20 @@
+1	In	in	IN	_	19	prep	_	O
+2	pictures	picture	NNS	_	1	pobj	_	O
+3	:	:	:	_	7	punct	_	O
+4	Palestinian	palestinian	JJ	pos2=NNP	7	nmod	_	B-ORG
+5	Civil	civil	NNP	pos2=JJ	6	compound	_	I-ORG
+6	Defense	defense	NNP	pos2=NN	7	compound	_	L-ORG
+7	assists	assist	NNS	pos2=VBZ	19	dep	_	O
+8	in	in	IN	_	7	prep	_	O
+9	putting	put	VBG	_	8	pcomp	_	O
+10	out	out	RP	_	9	prt	_	O
+11	fires	fire	NNS	_	9	dobj	_	O
+12	in	in	IN	pos2=RP	9	prep	_	O
+13	#Haifa	#haifa	NNP	pos2=NN	12	pobj	_	U-GPE
+14	,	,	,	_	13	punct	_	O
+15	#Jerusalem	#jerusalem	NNP	pos2=XX	17	compound	_	B-ORG
+16	#Palestine	#palestine	NNP	pos2=POS	17	compound	_	I-ORG
+17	#Israel	#israel	NNP	pos2=GW	13	conj	_	L-ORG
+18	…	…	NFP	pos2=-LRB-	19	punct	_	O
+19	https://t.co/qKYKRykEae	#hlink#	ADD	_	0	root	_	U-ORG
+

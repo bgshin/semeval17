@@ -1,0 +1,31 @@
+1	@DrJillStein	@drjillstein	UH	pos2=NN	3	discourse	_	O
+2	that	that	DT	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	true	true	JJ	_	3	acomp	_	O
+5	...	..	.	pos2=,	3	punct	_	O
+
+1	you	you	PRP	_	3	nsubj	_	O
+2	are	be	VBP	_	3	aux	_	O
+3	working	work	VBG	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	some	some	DT	_	6	det	_	O
+6	people	people	NNS	_	4	pobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	Aka	aka	NNP	pos2=IN	3	compound	_	B-PERSON
+2	George	george	NNP	_	3	compound	_	I-PERSON
+3	Soros	soros	NNP	_	0	root	_	L-PERSON
+4	.	.	.	_	3	punct	_	O
+
+1	Answer	answer	VB	pos2=VBP	0	root	_	O
+2	our	our	PRP$	_	3	poss	_	O
+3	questions	question	NNS	_	1	dobj	_	O
+4	and	and	CC	_	1	cc	_	O
+5	quit	quit	VBD	pos2=VB	1	conj	_	O
+6	insulting	insult	VBG	_	5	xcomp	_	O
+7	us	us	PRP	_	6	dobj	_	O
+8	with	with	IN	_	6	prep	_	O
+9	jokes	joke	NNS	_	8	pobj	_	O
+10	,	,	,	_	11	punct	_	O
+11	Jill	jill	NNP	_	6	vocative	_	U-PERSON
+

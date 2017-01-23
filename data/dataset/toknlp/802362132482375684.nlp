@@ -1,0 +1,25 @@
+1	@ActonInstitute	@actoninstitute	ADD	pos2=NN	10	cc	_	O
+2	"	"	``	pos2=''	10	punct	_	O
+3	why	why	WRB	_	10	advmod	_	O
+4	wo	wo	MD	pos2=VBP	10	aux	_	O
+5	n't	not	RB	_	10	neg	_	O
+6	you	you	PRP	_	10	nsubj	_	O
+7	evil	evil	JJ	_	8	nmod	_	O
+8	leftists	leftist	NNS	_	6	appos	_	O
+9	just	just	RB	_	10	advmod	_	O
+10	consider	consider	VBP	pos2=VB	0	root	_	O
+11	that	that	IN	pos2=DT	14	mark	_	O
+12	young	young	JJ	_	13	nmod	_	O
+13	children	child	NNS	_	14	nsubj	_	O
+14	are	be	VBP	_	10	ccomp	_	O
+15	good	good	JJ	_	16	nmod	_	O
+16	workers	worker	NNS	_	14	attr	_	O
+17	because	because	IN	_	19	mark	_	O
+18	they	they	PRP	_	19	nsubj	_	O
+19	're	be	VBP	_	14	advcl	_	O
+20	easier	easy	JJR	_	19	acomp	_	O
+21	to	to	TO	_	22	aux	_	O
+22	manipulate	manipulate	VB	_	20	xcomp	_	O
+23	!	!	.	pos2=,	10	punct	_	O
+24	"	"	''	_	10	punct	_	O
+

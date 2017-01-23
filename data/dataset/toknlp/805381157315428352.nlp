@@ -1,0 +1,20 @@
+1	Variables	variable	NNS	_	3	nsubj	_	O
+2	until	until	IN	pos2=WDT	3	mark	_	O
+3	realize	realize	VBP	pos2=VB	0	root	_	O
+4	somewhere	somewhere	RB	_	3	advmod	_	O
+5	about	about	RB	pos2=IN	6	advmod	_	O
+6	at	at	IN	_	10	prep	_	O
+7	what	what	WDT	pos2=WP	8	det	_	O
+8	time	time	NN	_	6	pcomp	_	O
+9	himself	himself	PRP	_	10	nsubj	_	O
+10	amass	amass	VBP	pos2=VBZ	3	ccomp	_	O
+11	vegetarianism	vegetarianism	NN	_	13	compound	_	O
+12	catalog	catalog	NN	_	13	compound	_	O
+13	capsules	capsule	NNS	_	10	dobj	_	O
+14	after	after	IN	_	19	prep	_	O
+15	which	which	WDT	_	14	pobj	_	O
+16	the	the	DT	_	17	det	_	O
+17	interthreading	interthreading	NN	pos2=VBG	19	dep	_	O
+18	:	:	:	_	19	punct	_	O
+19	MpmPDMst	mpmpdmst	NNP	pos2=NN	0	root	_	O
+

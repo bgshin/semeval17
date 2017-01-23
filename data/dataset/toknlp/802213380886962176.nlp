@@ -1,0 +1,19 @@
+1	Tesla	tesla	NNP	_	2	nsubj	_	U-ORG
+2	wants	want	VBZ	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	swap	swap	VB	_	2	xcomp	_	O
+5	your	your	PRP$	_	7	poss	_	O
+6	current	current	JJ	_	7	nmod	_	O
+7	vehicle	vehicle	NN	_	4	dobj	_	O
+8	with	with	IN	_	4	prep	_	O
+9	a	a	DT	_	10	det	_	O
+10	Model	model	NN	pos2=NNP	8	pobj	_	O
+11	S	s	NNP	pos2=NN	10	nmod	_	U-PRODUCT
+12	for	for	IN	_	10	prep	_	O
+13	a	a	DT	pos2=CD	14	det	_	B-DATE
+14	week	week	NN	_	12	pobj	_	L-DATE
+15	in	in	IN	_	10	prep	_	O
+16	Europe	europe	NNP	_	17	compound	_	B-PERSON
+17	#DrivetoBelieve	#drivetobelieve	NNP	pos2=POS	15	pobj	_	L-PERSON
+18	https://t.co/UKCdptqnLV	#hlink#	ADD	_	14	nmod	_	O
+

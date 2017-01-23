@@ -1,0 +1,11 @@
+1	Financial	financial	JJ	pos2=NNP	2	nmod	_	O
+2	sector	sector	NN	_	3	nsubj	_	O
+3	struggles	struggle	VBZ	pos2=NNS	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	find	find	VB	_	3	xcomp	_	O
+6	common	common	JJ	_	7	nmod	_	O
+7	vision	vision	NN	_	5	dobj	_	O
+8	for	for	IN	_	7	prep	_	O
+9	Brexit	brexit	NNP	pos2=GW	8	pobj	_	O
+10	https://t.co/1Ebo1MoROL	#hlink#	ADD	pos2=NN	9	appos	_	O
+

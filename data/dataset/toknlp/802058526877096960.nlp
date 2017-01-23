@@ -1,0 +1,18 @@
+1	Watching	watch	VBG	_	12	advcl	_	O
+2	David	david	NNP	_	3	compound	_	B-PERSON
+3	Blaine	blaine	NNP	_	1	dobj	_	L-PERSON
+4	on	on	IN	_	1	prep	_	O
+5	@NetflixANZ	@netflixanz	NNP	pos2=XX	4	pobj	_	U-DATE
+6	from	from	IN	_	1	prep	_	O
+7	behind	behind	IN	pos2=RB	6	prep	_	O
+8	a	a	DT	_	9	det	_	O
+9	cushion	cushion	NN	_	7	pobj	_	O
+10	but	but	CC	_	12	cc	_	O
+11	there	there	EX	_	12	expl	_	O
+12	's	's	VBZ	_	0	root	_	O
+13	Jessie	jessie	NNP	_	12	attr	_	U-PERSON
+14	!	!	.	_	12	punct	_	O
+
+1	😍	😍	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/5faP714UhN	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,16 @@
+1	Galaxy	galaxy	NNP	pos2=NN	2	compound	_	O
+2	Note	note	NN	pos2=VBP	15	dep	_	O
+3	7	0	CD	pos2=IN	5	nmod	_	U-CARDINAL
+4	Leather	leather	NN	pos2=NNP	5	compound	_	O
+5	Sleeve	sleeve	NNP	pos2=NN	7	nmod	_	O
+6	MULTIPLE	multiple	JJ	_	7	nmod	_	O
+7	CHOICE	choice	NN	_	15	dep	_	O
+8	|	|	,	pos2=SYM	15	punct	_	O
+9	https://t.co/NUXVqWqC4u	#hlink#	ADD	_	15	dep	_	O
+10	|	|	SYM	pos2=-RRB-	15	punct	_	O
+11	#Note7#Galaxy	#note0#galaxy	NN	pos2=NNS	15	compound	_	O
+12	#Note7	#note0	NN	pos2=CD	15	compound	_	O
+13	#Note7Sleeve	#note0sleeve	NN	pos2=XX	15	compound	_	O
+14	#Note7Case	#note0case	NN	pos2=XX	15	compound	_	O
+15	#Note7Pouch	#note0pouch	NN	pos2=XX	0	root	_	O
+

@@ -1,0 +1,26 @@
+1	People	people	NNS	_	3	nsubj	_	O
+2	here	here	RB	_	1	advmod	_	O
+3	get	get	VBP	_	0	root	_	O
+4	mad	mad	JJ	_	3	acomp	_	O
+5	when	when	WRB	_	8	advmod	_	O
+6	their	their	PRP$	_	7	poss	_	O
+7	packages	package	NNS	_	8	nsubj	_	O
+8	arrive	arrive	VBP	_	3	advcl	_	O
+9	late	late	JJ	pos2=RB	13	nmod	_	O
+10	but	but	CC	_	3	cc	_	O
+11	people	people	NNS	_	14	nsubj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	Aleppo	aleppo	NNP	_	12	pobj	_	U-GPE
+14	get	get	VBP	pos2=VB	3	conj	_	O
+15	mad	mad	JJ	_	14	acomp	_	O
+16	when	when	WRB	_	19	advmod	_	O
+17	homes	home	NNS	_	19	nsubjpass	_	O
+18	are	be	VBP	_	19	auxpass	_	O
+19	destroyed	destroy	VBN	pos2=JJ	14	advcl	_	O
+20	and	and	CC	_	19	cc	_	O
+21	family	family	NN	_	22	nsubj	_	O
+22	killed	kill	VBN	pos2=VBD	19	conj	_	O
+23	.	.	.	_	14	punct	_	O
+
+1	#perspective	#perspective	UH	pos2=JJ	0	root	_	O
+

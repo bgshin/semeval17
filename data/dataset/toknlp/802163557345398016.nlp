@@ -1,0 +1,12 @@
+1	@elizabethforma	@elizabethforma	MD	pos2=UH	3	aux	_	O
+2	God	god	NNP	_	3	nsubj	_	O
+3	bless	bless	VB	_	0	root	_	O
+4	you	you	PRP	_	3	dobj	_	O
+5	thank	thank	VBP	_	3	xcomp	_	O
+6	you	you	PRP	_	5	dobj	_	O
+7	for	for	IN	_	5	prep	_	O
+8	fighting	fight	VBG	_	7	pcomp	_	O
+9	bigoted	bigoted	JJ	_	11	nmod	_	O
+10	Orange	orange	NNP	pos2=NN	11	compound	_	B-ORG
+11	Hitler	hitler	NNP	_	8	dobj	_	L-ORG
+

@@ -1,0 +1,14 @@
+1	#what	#what	UH	pos2=WP	2	discourse	_	O
+2	are	be	VBP	_	0	root	_	O
+3	all	all	PDT	_	7	predet	_	O
+4	the	the	DT	_	7	det	_	O
+5	different	different	JJ	_	7	nmod	_	O
+6	sex	sex	NN	_	7	compound	_	O
+7	positions	position	NNS	_	2	nsubj	_	O
+8	ashley	ashley	JJ	pos2=VBP	11	nmod	_	O
+9	graham	graham	FW	pos2=NNP	11	nmod	_	O
+10	sex	sex	NN	pos2=FW	11	compound	_	O
+11	fuck	fuck	NN	pos2=VBP	13	nmod	_	O
+12	sexy	sexy	JJ	_	13	nmod	_	O
+13	mom	mom	NN	_	2	vocative	_	O
+

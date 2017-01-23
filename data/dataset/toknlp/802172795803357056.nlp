@@ -1,0 +1,23 @@
+1	Funds	fund	NNS	_	10	nsubj	_	O
+2	raised	raise	VBN	pos2=VBD	1	acl	_	O
+3	for	for	IN	_	2	prep	_	O
+4	recount	recount	NN	_	3	pobj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	WI	wi	NN	pos2=NNP	8	nmod	_	O
+7	+	+	SYM	_	2	punct	_	O
+8	PA	pa	NN	pos2=NNP	5	pobj	_	O
+9	-	-	:	pos2=,	10	punct	_	O
+10	keep	keep	VB	pos2=VBP	0	root	_	O
+11	going	go	VBG	_	10	xcomp	_	O
+12	to	to	TO	_	13	aux	_	O
+13	help	help	VB	_	11	xcomp	_	O
+14	MI	mi	NNP	pos2=NN	15	nsubj	_	U-ORG
+15	done	do	VBN	_	13	ccomp	_	O
+16	!	!	.	_	10	punct	_	O
+
+1	--	--	:	pos2=SYM	2	punct	_	O
+2	https://t.co/BCSRIZrZS2	#hlink#	ADD	pos2=NN	0	root	_	O
+3	#nevertrump	#nevertrump	IN	pos2=-RRB-	2	prep	_	O
+4	#AuditTheVote	#auditthevote	NN	pos2=ADD	5	compound	_	O
+5	#StillWithHer	#stillwithher	NN	pos2=ADD	3	pobj	_	O
+

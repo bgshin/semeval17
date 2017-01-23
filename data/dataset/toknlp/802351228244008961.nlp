@@ -1,0 +1,13 @@
+1	Artificial	artificial	JJ	pos2=NNP	2	nmod	_	O
+2	#Intelligence	#intelligence	NN	pos2=NNP	12	dep	_	O
+3	,	,	,	_	2	punct	_	O
+4	#deeplearning	#deeplearning	NN	pos2=VBG	2	conj	_	O
+5	,	,	,	_	4	punct	_	O
+6	and	and	CC	_	4	cc	_	O
+7	Neural	neural	JJ	pos2=NNP	8	nmod	_	O
+8	Networks	network	NNS	pos2=NNP	4	conj	_	O
+9	,	,	,	_	12	punct	_	O
+10	Expla	expla	NNP	pos2=GW	12	nmod	_	U-NORP
+11	inedhttps://t.co/xJOoySXWjl	#hlink#	ADD	_	12	nmod	_	O
+12	https://t.co/iIxVTwnQkz	#hlink#	ADD	_	0	root	_	U-ORG
+

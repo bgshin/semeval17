@@ -1,0 +1,23 @@
+1	#Islam	#islam	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	ideology	ideology	NN	_	2	attr	_	O
+5	,	,	,	_	4	punct	_	O
+6	theology	theology	NN	_	4	conj	_	O
+7	,	,	,	_	6	punct	_	O
+8	and	and	CC	_	6	cc	_	O
+9	psychology	psychology	NN	_	6	conj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	terrorism	terrorism	NN	_	10	pobj	_	O
+12	,	,	,	_	11	punct	_	O
+13	hypocrisy	hypocrisy	NN	_	11	conj	_	O
+14	and	and	CC	_	13	cc	_	O
+15	deceit	deceit	NN	_	13	conj	_	O
+16	.	.	.	_	2	punct	_	O
+
+1	#islamic	#islamic	UH	pos2=JJ	5	discourse	_	O
+2	#palestine	#palestine	UH	pos2=GW	5	nmod	_	O
+3	#ISIS	#isis	GW	pos2=NN	5	nmod	_	O
+4	#hamas	#hamas	GW	pos2=UH	5	nmod	_	O
+5	https://t.co/Ska6OOhehf	#hlink#	ADD	pos2=NN	0	root	_	O
+

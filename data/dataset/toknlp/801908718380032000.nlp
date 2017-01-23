@@ -1,0 +1,15 @@
+1	#UN	#un	NNP	pos2=IN	6	compound	_	U-ORG
+2	Secretary	secretary	NNP	_	5	compound	_	O
+3	-	-	HYPH	_	5	punct	_	O
+4	General	general	NNP	_	5	compound	_	O
+5	Addresses	address	NNPS	pos2=NNS	6	compound	_	O
+6	#Disarmament	#disarmament	NNP	pos2=POS	7	compound	_	O
+7	Event	event	NN	pos2=NNP	14	dep	_	O
+8	at	at	IN	_	7	prep	_	O
+9	NYU	nyu	NNP	_	8	pobj	_	U-ORG
+10	@nyuniversity	@nyuniversity	IN	pos2=GW	7	prep	_	O
+11	https://t.co/Kiyapz5za9	#hlink#	ADD	_	14	nmod	_	O
+12	#UNSG	#unsg	GW	pos2=-RRB-	14	nmod	_	O
+13	…	…	NFP	pos2=-LRB-	14	punct	_	O
+14	https://t.co/JOxckLneai	#hlink#	ADD	_	0	root	_	O
+

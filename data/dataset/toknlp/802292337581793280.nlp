@@ -1,0 +1,12 @@
+1	White	white	NNP	pos2=JJ	2	compound	_	B-ORG
+2	House	house	NNP	_	3	nsubj	_	L-ORG
+3	rolls	roll	VBZ	_	0	root	_	O
+4	out	out	RP	pos2=IN	3	prt	_	O
+5	guidelines	guideline	NNS	_	3	dobj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	self-driving	self-driving	JJ	_	8	nmod	_	O
+8	cars	car	NNS	_	6	pobj	_	O
+9	https://t.co/CLdwDjdp4z	#hlink#	ADD	_	11	nmod	_	O
+10	https://t.co/c8TMZQAp1l	#hlink#	ADD	_	11	nmod	_	U-ORG
+11	https://t.co/EWwFJ15gyS	#hlink#	ADD	_	3	dep	_	U-ORG
+

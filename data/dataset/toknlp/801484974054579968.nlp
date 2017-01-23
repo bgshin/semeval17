@@ -1,0 +1,13 @@
+1	Confirmed	confirm	VBN	pos2=VBD	3	nmod	_	O
+2	-	-	HYPH	pos2=:	3	punct	_	O
+3	#ISIS	#isis	NN	pos2=NNP	4	compound	_	O
+4	#IS	#is	NN	pos2=NNS	12	nsubj	_	O
+5	surrounded	surround	VBN	_	4	acl	_	O
+6	in	in	IN	_	5	prep	_	O
+7	#Mosul	#mosul	NNP	pos2=NN	9	compound	_	O
+8	-	-	HYPH	pos2=,	9	punct	_	O
+9	#MosulOp	#mosulop	NNP	pos2=XX	6	pobj	_	O
+10	#MosulOffensive	#mosuloffensive	GW	pos2=JJ	12	nmod	_	O
+11	#MosulOperation	#mosuloperation	GW	pos2=ADD	12	nmod	_	O
+12	https://t.co/22uJyM9LCK	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

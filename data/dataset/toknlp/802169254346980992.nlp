@@ -1,0 +1,28 @@
+1	@Channel4	@channel0	NN	pos2=VBG	11	nsubjpass	_	O
+2	whoever	whoever	WP	_	4	nsubj	_	O
+3	is	be	VBZ	_	4	aux	_	O
+4	narrating	narrate	VBG	_	9	csubj	_	O
+5	the	the	DT	_	6	det	_	O
+6	trailer	trailer	NN	_	4	dobj	_	O
+7	for	for	IN	_	4	prep	_	O
+8	#thisisus	#thisisus	NN	pos2=NNS	7	pobj	_	O
+9	should	should	MD	_	11	aux	_	O
+10	be	be	VB	_	11	auxpass	_	O
+11	sacked	sack	VBN	_	0	root	_	O
+12	!	!	.	_	11	punct	_	O
+
+1	Silly	silly	JJ	pos2=RB	2	nmod	_	O
+2	c*w	c*w	NNP	pos2=PRP	3	nsubj	_	U-PERSON
+3	thinks	think	VBZ	_	0	root	_	O
+4	saying	say	VBG	pos2=NN	3	advcl	_	O
+5	'	'	``	_	6	punct	_	O
+6	thizizuz	thizizuz	NN	pos2=NNS	8	nsubj	_	O
+7	'	'	''	_	6	punct	_	O
+8	is	be	VBZ	_	4	ccomp	_	O
+9	perhaps	perhaps	RB	_	10	advmod	_	O
+10	alluring	alluring	JJ	_	8	acomp	_	O
+11	!	!	.	_	3	punct	_	O
+
+1	Wrong	wrong	JJ	pos2=UH	0	root	_	O
+2	!!	!!	.	_	1	punct	_	O
+

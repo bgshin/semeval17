@@ -1,0 +1,26 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	O
+2	@NYDailyNews	@nydailynews	NNS	pos2=AFX	0	root	_	O
+3	:	:	:	_	2	punct	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	@ShaunKing	@shaunking	NN	pos2=VBG	8	dep	_	O
+2	:	:	:	_	8	punct	_	O
+3	The	the	DT	_	7	det	_	O
+4	alt	alt	JJ	pos2=NN	6	advmod	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	right	right	JJ	pos2=NN	7	nmod	_	O
+7	movement	movement	NN	_	8	nsubj	_	O
+8	goes	go	VBZ	_	0	root	_	O
+9	full	full	JJ	pos2=RB	10	nmod	_	O
+10	Nazi	nazi	NNP	pos2=NN	8	npadvmod	_	U-NORP
+11	as	as	IN	_	14	mark	_	O
+12	Steve	steve	NNP	_	13	compound	_	B-PERSON
+13	Bannon	bannon	NNP	_	14	nsubj	_	L-PERSON
+14	prepares	prepare	VBZ	_	8	advcl	_	O
+15	to	to	TO	_	16	aux	_	O
+16	enter	enter	VB	_	14	xcomp	_	O
+17	the	the	DT	_	19	det	_	B-ORG
+18	White	white	NNP	_	19	compound	_	I-ORG
+19	House	house	NNP	_	16	dobj	_	L-ORG
+20	https://t.co/RqOWKFCA…	#hlink#	ADD	_	8	dep	_	O
+

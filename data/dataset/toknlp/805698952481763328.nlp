@@ -1,0 +1,12 @@
+1	@narendramodi	@narendramodi	UH	pos2=VB	5	discourse	_	O
+2	Its	its	PRP$	pos2=PRP	0	root	_	O
+3	very	very	RB	_	4	advmod	_	O
+4	much	much	RB	_	5	advmod	_	O
+5	needed	need	VBN	pos2=VBD	0	root	_	O
+6	when	when	WRB	_	9	advmod	_	O
+7	fossil	fossil	NN	pos2=JJ	8	compound	_	O
+8	fuels	fuel	NNS	_	9	nsubj	_	O
+9	are	be	VBP	_	5	advcl	_	O
+10	fast	fast	JJ	pos2=RB	11	nmod	_	O
+11	vanishing	vanishing	NN	pos2=VBG	9	acomp	_	O
+

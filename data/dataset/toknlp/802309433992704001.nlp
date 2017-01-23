@@ -1,0 +1,29 @@
+1	Not	not	RB	_	14	neg	_	O
+2	if	if	IN	_	14	mark	_	O
+3	The	the	DT	_	5	det	_	B-GPE
+4	United	united	NNP	_	5	compound	_	I-GPE
+5	States	state	NNP	_	14	nsubj	_	L-GPE
+6	,	,	,	_	5	punct	_	O
+7	Planet	planet	NNP	_	8	compound	_	B-PERSON
+8	Earth	earth	NNP	_	5	conj	_	L-PERSON
+9	,	,	,	_	8	punct	_	O
+10	&	&	CC	_	8	cc	_	O
+11	The	the	DT	pos2=NNP	13	det	_	O
+12	Freedom	freedom	NNP	_	13	compound	_	O
+13	Fighters	fighter	NNPS	pos2=NNS	14	nsubj	_	O
+14	have	have	VBP	_	0	root	_	O
+15	a	a	DT	_	16	det	_	O
+16	thing	thing	NN	_	14	dobj	_	O
+17	to	to	TO	_	18	aux	_	O
+18	say	say	VB	_	16	relcl	_	O
+19	about	about	IN	_	18	prep	_	O
+20	it	it	PRP	_	19	pobj	_	O
+21	:	:	:	_	16	punct	_	O
+22	"	"	``	pos2=''	24	punct	_	O
+23	Michael	michael	NNP	_	24	compound	_	B-PERSON
+24	Moore	moore	NNP	_	16	appos	_	L-PERSON
+25	The	the	DT	pos2=NNP	20	appos	_	O
+26	...	..	.	pos2=,	14	punct	_	O
+
+1	https://t.co/VEnEre5Gp7	#hlink#	ADD	_	0	root	_	U-ORG
+

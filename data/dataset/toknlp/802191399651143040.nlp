@@ -1,0 +1,18 @@
+1	#LGBT	#lgbt	NN	pos2=ADD	5	nsubj	_	O
+2	#p2	#p0	IN	pos2=POS	1	prep	_	O
+3	LGBT	lgbt	JJ	pos2=NN	4	nmod	_	U-NORP
+4	students	student	NNS	_	2	pobj	_	O
+5	explain	explain	VBP	pos2=VB	0	root	_	O
+6	why	why	WRB	_	8	advmod	_	O
+7	they	they	PRP	_	8	nsubj	_	O
+8	chose	choose	VBD	_	5	ccomp	_	O
+9	to	to	TO	_	10	aux	_	O
+10	leave	leave	VB	_	8	xcomp	_	O
+11	BYU	byu	NNP	_	10	dobj	_	B-ORG
+12	-	-	HYPH	pos2=:	13	punct	_	I-ORG
+13	Daily	daily	NNP	_	14	compound	_	I-ORG
+14	Herald	herald	NNP	pos2=GW	17	nmod	_	L-ORG
+15	https://t.co/u7rv2NgOTk	#hlink#	ADD	pos2=GW	17	nmod	_	O
+16	#UniteBlue	#uniteblue	ADD	pos2=GW	11	appos	_	O
+17	https://t.co/3ma1uxegUf	#hlink#	ADD	_	16	pobj	_	O
+

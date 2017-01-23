@@ -1,0 +1,15 @@
+1	@hillaryclinton	@hillaryclinton	UH	pos2=XX	7	discourse	_	O
+2	@brianefallon	@brianefallon	UH	pos2=FW	7	discourse	_	O
+3	@johnpodesta	@johnpodesta	UH	pos2=FW	7	discourse	_	O
+4	@repgutierrez	@repgutierrez	UH	pos2=FW	7	discourse	_	O
+5	@TX18CongWOMAN	@tx0congwoman	MD	pos2=NN	7	aux	_	O
+6	@elizabethforma	@elizabethforma	PRP	pos2=UH	7	nsubj	_	O
+7	TAKE	take	VB	_	0	root	_	O
+8	A	a	DT	_	9	det	_	O
+9	LOOK	look	NN	_	7	dobj	_	O
+10	AT	at	IN	_	9	prep	_	O
+11	YOURSELVES	yourself	NNS	pos2=PRP	10	pobj	_	O
+12	!!	!!	.	_	7	punct	_	O
+
+1	https://t.co/1RXA05h7tn	#hlink#	ADD	_	0	root	_	U-ORG
+

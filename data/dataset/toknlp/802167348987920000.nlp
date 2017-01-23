@@ -1,0 +1,9 @@
+1	The	the	DT	_	5	det	_	O
+2	best	good	JJS	_	3	nmod	_	O
+3	era	era	NN	_	4	compound	_	O
+4	#	#	NN	pos2=.	5	compound	_	O
+5	3YearsofMidnightMemories	0yearsofmidnightmemories	NNS	pos2=ADD	6	nsubj	_	U-MONEY
+6	#MPN	#mpn	ADD	pos2=VBP	0	root	_	O
+7	#OneDirection	#onedirection	NN	pos2=ADD	8	dep	_	O
+8	#MtvStarsNiallHoran	#mtvstarsniallhoran	ADD	pos2=NN	6	pobj	_	O
+

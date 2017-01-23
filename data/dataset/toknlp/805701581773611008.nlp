@@ -1,0 +1,8 @@
+1	@PechaanKon	@pechaankon	UH	pos2=ADD	6	discourse	_	O
+2	i	I	PRP	_	3	nsubj	_	O
+3	mean	mean	VBP	_	6	parataxis	_	O
+4	lecture	lecture	NN	pos2=JJ	5	compound	_	O
+5	chor	chor	NN	pos2=NNS	2	appos	_	O
+6	do	do	VBP	pos2=VB	0	root	_	O
+7	:p	:p	.	pos2=XX	3	punct	_	O
+

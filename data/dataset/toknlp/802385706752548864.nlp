@@ -1,0 +1,26 @@
+1	@ScottAdamsSays	@scottadamssays	VB	pos2=VBZ	0	root	_	O
+2	your	your	PRP$	_	3	poss	_	O
+3	boost	boost	NN	_	6	nsubj	_	O
+4	in	in	IN	_	3	prep	_	O
+5	votes	vote	NNS	_	4	pobj	_	O
+6	were	be	VBD	_	1	ccomp	_	O
+7	from	from	IN	_	6	prep	_	O
+8	people	people	NNS	_	7	pobj	_	O
+9	who	who	WP	_	10	nsubj	_	O
+10	wanted	want	VBD	_	8	relcl	_	O
+11	no	no	DT	pos2=RB	12	det	_	O
+12	TPP	tpp	NN	pos2=NNP	10	dobj	_	O
+13	,	,	,	_	12	punct	_	O
+14	election	election	NN	_	15	compound	_	O
+15	reform	reform	NN	_	12	conj	_	O
+16	,	,	,	_	15	punct	_	O
+17	etc.	etc.	FW	_	15	conj	_	O
+18	Trump	trump	NN	pos2=NNP	19	nsubj	_	U-PERSON
+19	was	be	VBD	_	6	conj	_	O
+20	closer	close	JJR	pos2=RBR	19	acomp	_	O
+21	to	to	IN	_	20	prep	_	O
+22	Bernie	bernie	NNP	_	21	pobj	_	U-PERSON
+23	than	than	IN	_	20	prep	_	O
+24	Hillary	hillary	NNP	_	23	pobj	_	U-PERSON
+25	.	.	.	_	1	punct	_	O
+

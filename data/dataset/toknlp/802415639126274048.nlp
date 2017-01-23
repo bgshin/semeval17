@@ -1,0 +1,23 @@
+1	COTUS	cotus	NNP	pos2=NN	2	compound	_	U-ORG
+2	framers	framer	NNS	_	3	nsubj	_	O
+3	were	be	VBD	_	0	root	_	O
+4	classic	classic	JJ	_	5	nmod	_	O
+5	conservatives	conservative	NNS	_	3	attr	_	O
+6	who	who	WP	_	7	nsubj	_	O
+7	were	be	VBD	_	5	relcl	_	O
+8	leery	leery	JJ	_	7	acomp	_	O
+9	about	about	IN	_	8	prep	_	O
+10	pure	pure	JJ	_	11	nmod	_	O
+11	democracy	democracy	NN	_	9	pobj	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	EC	ec	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	was	be	VBD	_	0	root	_	O
+3	to	to	TO	_	5	aux	_	O
+4	be	be	VB	_	5	auxpass	_	O
+5	safeguard	safeguard	VBN	pos2=VB	2	xcomp	_	O
+6	against	against	IN	_	5	prep	_	O
+7	someon	someon	NN	pos2=GW	6	pobj	_	O
+8	…	…	NFP	pos2=-LRB-	5	prep	_	O
+9	https://t.co/TosB8uQLIp	#hlink#	ADD	_	8	pobj	_	O
+

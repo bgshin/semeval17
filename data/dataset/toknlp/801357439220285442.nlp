@@ -1,0 +1,19 @@
+1	Hilfiger	hilfiger	NNP	_	2	nsubj	_	U-ORG
+2	defends	defend	VBZ	_	0	root	_	O
+3	'	'	``	_	2	punct	_	O
+4	beautiful	beautiful	JJ	_	7	nmod	_	O
+5	'	'	''	pos2=POS	2	punct	_	O
+6	Melania	melania	NNP	pos2=GW	7	compound	_	B-PERSON
+7	Trump	trump	NNP	pos2=GW	2	dobj	_	L-PERSON
+8	https://t.co/7PZZ2iRrKZ	#hlink#	ADD	pos2=POS	7	appos	_	O
+9	you	you	PRP	_	10	nsubj	_	O
+10	mean	mean	VBP	pos2=VB	12	parataxis	_	O
+11	illegal	illegal	JJ	_	12	nmod	_	O
+12	immigrant	immigrant	NN	pos2=JJ	8	dobj	_	O
+13	?	?	.	_	2	punct	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	speech	speech	NN	_	3	compound	_	O
+3	stealer	stealer	NN	pos2=NNP	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+

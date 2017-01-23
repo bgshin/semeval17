@@ -1,0 +1,25 @@
+1	Shura	shura	NNP	_	2	compound	_	B-ORG
+2	Council	council	NNP	_	3	compound	_	L-ORG
+3	leader	leader	NN	_	10	nsubj	_	O
+4	,	,	,	_	3	punct	_	O
+5	Mohamed	mohamed	NNP	_	8	compound	_	B-PERSON
+6	al	al	NNP	_	8	compound	_	I-PERSON
+7	-	-	HYPH	_	8	punct	_	I-PERSON
+8	Drissi	drissi	NNP	_	3	appos	_	L-PERSON
+9	,	,	,	_	3	punct	_	O
+10	admits	admit	VBZ	_	0	root	_	O
+11	alliance	alliance	NN	_	10	dobj	_	O
+12	with	with	IN	_	11	prep	_	O
+13	#ISIS	#isis	NN	pos2=NNP	12	pobj	_	O
+14	against	against	IN	_	13	prep	_	O
+15	the	the	DT	_	17	det	_	O
+16	Libyan	libyan	JJ	_	17	nmod	_	U-NORP
+17	army	army	NN	_	14	pobj	_	O
+18	in	in	IN	_	10	prep	_	O
+19	#Benghazi	#benghazi	NNP	pos2=NN	18	pobj	_	U-GPE
+20	.	.	.	_	10	punct	_	O
+
+1	#Libya	#libya	NNP	pos2=GW	3	nmod	_	B-PERSON
+2	…	…	NFP	pos2=-LRB-	3	punct	_	L-PERSON
+3	https://t.co/aiHQc2mo87	#hlink#	ADD	_	0	root	_	O
+

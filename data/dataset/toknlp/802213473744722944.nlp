@@ -1,0 +1,8 @@
+1	#ISIS	#isis	NNP	pos2=NN	7	dep	_	B-ORG
+2	Magazine	magazine	NNP	pos2=NN	7	dep	_	L-ORG
+3	DABIQ	dabiq	NNP	pos2=NN	5	compound	_	O
+4	-	-	HYPH	pos2=:	5	punct	_	O
+5	ISSUE	issue	NN	pos2=NNP	7	dep	_	O
+6	8	0	CD	pos2=GW	7	dep	_	B-CARDINAL
+7	https://t.co/JF9wos9esV	#hlink#	ADD	pos2=NN	0	root	_	L-CARDINAL
+

@@ -1,0 +1,26 @@
+1	#Fires	#fires	NNS	pos2=VBZ	0	root	_	O
+2	around	around	RB	pos2=IN	1	advmod	_	O
+3	#Jerusalem	#jerusalem	NNP	pos2=PRP	1	vocative	_	U-GPE
+4	!	!	.	_	1	punct	_	O
+
+1	#Terror	#terror	NNP	pos2=PRP$	2	compound	_	O
+2	Molotov	molotov	NNP	pos2=NN	3	compound	_	O
+3	cocktail	cocktail	NN	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	cause	cause	NN	_	3	dobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	20	0	CD	pos2=LS	2	nmod	_	U-CARDINAL
+2	aircraft	aircraft	NN	_	3	compound	_	O
+3	operating	operating	NN	pos2=VBG	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Friends	friend	NNS	pos2=NNPS	4	nsubj	_	O
+2	in	in	IN	_	1	prep	_	O
+3	#Nataf	#nataf	NNP	pos2=NNS	2	pobj	_	U-GPE
+4	evacuated	evacuate	VBN	pos2=VBD	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/UyIH1QS6pT	#hlink#	ADD	pos2=NN	0	root	_	O
+

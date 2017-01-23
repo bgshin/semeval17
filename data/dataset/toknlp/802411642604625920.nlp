@@ -1,0 +1,30 @@
+1	Wow	wow	UH	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Read	read	VB	_	0	root	_	O
+2	this	this	DT	_	1	dobj	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	-	-	SYM	pos2=:	3	punct	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	thought	think	VBD	_	0	root	_	O
+4	my	my	PRP$	_	5	poss	_	O
+5	uncle	uncle	NN	_	7	nsubj	_	O
+6	would	would	MD	_	7	aux	_	O
+7	help	help	VB	_	3	ccomp	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	4	nsubj	_	O
+2	did	do	VBD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	know	know	VB	_	0	root	_	O
+5	he	he	PRP	_	6	nsubj	_	O
+6	was	be	VBD	_	4	ccomp	_	O
+7	KKK.	kkk.	NNP	pos2=JJ	9	dep	_	O
+8	-	-	HYPH	pos2=:	9	punct	_	O
+9	https://t.co/7KfgzZK42F	#hlink#	ADD	pos2=NNP	6	attr	_	O
+10	#racism	#racism	-RRB-	pos2=XX	9	punct	_	O
+11	#isms	#isms	NNPS	pos2=UH	6	attr	_	O
+12	#history	#history	UH	pos2=ADD	6	discourse	_	O
+13	#context	#context	UH	pos2=RB	4	discourse	_	O
+

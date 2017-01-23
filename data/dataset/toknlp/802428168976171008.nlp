@@ -1,0 +1,29 @@
+1	@cathynewman	@cathynewman	UH	pos2=VB	6	discourse	_	O
+2	sure	sure	JJ	pos2=UH	0	root	_	O
+3	us	us	PRP	_	4	nmod	_	O
+4	liberals	liberal	NNS	_	6	nsubj	_	O
+5	can	can	MD	_	6	aux	_	O
+6	be	be	VB	_	2	ccomp	_	O
+7	annoying	annoying	JJ	_	6	acomp	_	O
+8	,	,	,	_	6	punct	_	O
+9	but	but	CC	_	13	cc	_	O
+10	this	this	DT	_	13	nsubj	_	O
+11	does	do	VBZ	_	13	aux	_	O
+12	n't	not	RB	_	13	neg	_	O
+13	negate	negate	VB	_	8	expl	_	O
+14	issues	issue	NNS	_	13	dobj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	inequality	inequality	NN	_	15	pobj	_	O
+17	.	.	.	_	13	punct	_	O
+
+1	He	he	PRP	_	3	nsubjpass	_	O
+2	is	be	VBZ	_	3	auxpass	_	O
+3	locked	lock	VBN	_	0	root	_	O
+4	onto	onto	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	same	same	JJ	_	7	nmod	_	O
+7	pts	pt	NNS	pos2=NN	4	pobj	_	O
+8	over	over	RB	pos2=IN	3	advmod	_	O
+9	&	&	CC	_	8	cc	_	O
+10	over	over	RB	pos2=IN	8	conj	_	O
+

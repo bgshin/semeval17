@@ -1,0 +1,25 @@
+1	@trumwill	@trumwill	UH	pos2=MD	14	discourse	_	O
+2	@karol	@karol	IN	pos2=UH	19	prep	_	O
+3	India	india	NNP	_	5	poss	_	U-GPE
+4	's	's	POS	_	3	case	_	O
+5	system	system	NN	_	2	pobj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	electing	elect	VBG	_	6	pcomp	_	O
+8	the	the	DT	_	13	det	_	O
+9	(	(	-LRB-	_	13	punct	_	O
+10	similarly	similarly	RB	_	11	advmod	_	O
+11	powerless	powerless	JJ	_	13	nmod	_	O
+12	)	)	-RRB-	_	13	punct	_	O
+13	President	president	NNP	pos2=NN	7	dobj	_	O
+14	is	be	VBZ	_	0	root	_	O
+15	particularly	particularly	RB	_	16	advmod	_	O
+16	lulzy	lulzy	JJ	pos2=NN	14	acomp	_	O
+17	,	,	,	_	19	punct	_	O
+18	there	there	EX	_	19	expl	_	O
+19	is	be	VBZ	_	0	root	_	O
+20	an	an	DT	_	22	det	_	O
+21	electoral	electoral	JJ	_	22	nmod	_	O
+22	college	college	NN	_	19	attr	_	O
+23	,	,	,	_	19	punct	_	O
+24	...	..	.	pos2=,	19	punct	_	O
+

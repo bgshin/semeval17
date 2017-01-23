@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det	_	O
+2	relevant	relevant	JJ	_	3	nmod	_	O
+3	meeting	meeting	NN	_	6	nsubjpass	_	O
+4	is	be	VBZ	_	6	aux	_	O
+5	being	be	VBG	_	6	auxpass	_	O
+6	held	hold	VBN	_	10	ccomp	_	O
+7	on	on	IN	_	6	prep	_	O
+8	Wednesday	wednesday	NNP	_	7	pobj	_	U-DATE
+9	;	;	:	pos2=,	10	punct	_	O
+10	https://t.co/AKuUWCS8iP	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

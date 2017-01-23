@@ -1,0 +1,27 @@
+1	@Bakari_Sellers	@bakari_sellers	NNS	pos2=ADD	3	vocative	_	O
+2	pls	pls	UH	pos2=NNS	3	discourse	_	O
+3	put	put	VB	pos2=VBD	0	root	_	O
+4	pressure	pressure	NN	_	3	dobj	_	O
+5	on	on	IN	_	3	prep	_	O
+6	Rep	rep	NNP	pos2=NN	5	pobj	_	U-ORG
+7	for	for	IN	_	3	prep	_	O
+8	cross	cross	NN	pos2=XX	9	compound	_	O
+9	checking	checking	NN	pos2=VBG	7	pobj	_	O
+10	..	..	.	_	3	punct	_	O
+
+1	voter	voter	NN	_	2	compound	_	O
+2	suppression	suppression	NN	_	4	compound	_	O
+3	voter	voter	NN	_	4	compound	_	O
+4	fraud	fraud	NN	_	0	root	_	O
+5	and	and	CC	_	4	cc	_	O
+6	support	support	NN	pos2=VB	4	conj	_	O
+7	Jill	jill	NNP	_	8	compound	_	B-PERSON
+8	Stein	stein	NNP	_	10	poss	_	I-PERSON
+9	's	's	POS	_	8	case	_	L-PERSON
+10	RECOUNT	recount	NN	pos2=NNP	6	dobj	_	O
+11	...	..	.	pos2=:	4	punct	_	O
+
+1	she	she	PRP	_	2	nsubj	_	O
+2	needs	need	VBZ	_	0	root	_	O
+3	it	it	PRP	_	2	dobj	_	O
+

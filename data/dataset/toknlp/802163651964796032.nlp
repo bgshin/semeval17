@@ -1,0 +1,14 @@
+1	Hey	hey	UH	pos2=NNP	2	discourse	_	O
+2	Colts	colt	NNPS	pos2=NNS	13	nsubj	_	U-PERSON
+3	,	,	,	_	13	punct	_	O
+4	nice	nice	JJ	_	6	nmod	_	O
+5	backup	backup	JJ	pos2=NN	6	nmod	_	O
+6	Quarterback	quarterback	NN	pos2=NNP	2	appos	_	O
+7	,	,	,	_	6	punct	_	O
+8	bro.	bro.	NN	pos2=FW	9	compound	_	O
+9	S	s	NN	_	6	appos	_	O
+10	/	/	HYPH	pos2=SYM	12	punct	_	O
+11	Tony	tony	NNP	_	12	compound	_	B-PERSON
+12	Romo	romo	NNP	_	6	appos	_	L-PERSON
+13	#jaymohrsports	#jaymohrsports	VBZ	pos2=POS	0	root	_	O
+

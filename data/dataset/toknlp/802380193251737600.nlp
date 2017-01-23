@@ -1,0 +1,14 @@
+1	Leonard	leonard	NNP	_	2	compound	_	B-PERSON
+2	Cohen	cohen	NNP	_	3	nsubj	_	L-PERSON
+3	thought	think	VBD	_	0	root	_	O
+4	we	we	PRP	_	5	nsubj	_	O
+5	were	be	VBD	_	8	aux	_	O
+6	all	all	DT	pos2=RB	5	dep	_	O
+7	just	just	RB	_	8	advmod	_	O
+8	hustling	hustle	VBG	pos2=NN	3	ccomp	_	O
+9	on	on	IN	_	8	prep	_	O
+10	Boogie	boogie	NNP	_	11	compound	_	B-FAC
+11	Street	street	NNP	pos2=NN	9	pobj	_	L-FAC
+12	:	:	:	_	3	punct	_	O
+13	https://t.co/AgG3reiZfW	#hlink#	ADD	pos2=NN	3	dep	_	O
+

@@ -1,0 +1,27 @@
+1	Taijuan	taijuan	NNP	pos2=NN	5	nsubj	_	U-GPE
+2	will	will	MD	_	5	aux	_	O
+3	now	now	RB	pos2=VB	5	advmod	_	O
+4	probs	probs	NNS	pos2=VBZ	5	nsubj	_	O
+5	develop	develop	VB	pos2=VBP	0	root	_	O
+6	into	into	IN	_	5	prep	_	O
+7	a	a	DT	_	10	det	_	O
+8	Cy	cy	NNP	pos2=NN	9	compound	_	O
+9	Young	young	NNP	pos2=JJ	10	compound	_	O
+10	pitcher	pitcher	NN	_	6	pobj	_	O
+11	,	,	,	_	5	punct	_	O
+12	but	but	CC	_	5	cc	_	O
+13	we	we	PRP	_	15	nsubj	_	O
+14	all	all	DT	pos2=RB	13	appos	_	O
+15	know	know	VBP	_	5	conj	_	O
+16	given	give	VBN	pos2=IN	13	prep	_	O
+17	the	the	DT	_	20	det	_	O
+18	Mariners	mariner	NNPS	pos2=NNP	20	compound	_	U-ORG
+19	track	track	NN	pos2=VBP	20	compound	_	O
+20	record	record	NN	_	16	pobj	_	O
+21	that	that	WDT	pos2=DT	25	nsubj	_	O
+22	would	would	MD	_	25	aux	_	O
+23	never	never	RB	_	25	neg	_	O
+24	have	have	VB	_	25	aux	_	O
+25	happened	happened	VBN	_	20	relcl	_	O
+26	here	here	RB	_	25	advmod	_	O
+

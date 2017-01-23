@@ -1,0 +1,7 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	feel	feel	VBP	_	0	root	_	O
+3	like	like	IN	_	2	prep	_	O
+4	Muhammad	muhammad	NNP	_	5	compound	_	B-PERSON
+5	Ali	ali	NNP	_	3	pobj	_	L-PERSON
+6	..	..	.	pos2=,	2	punct	_	O
+

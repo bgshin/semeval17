@@ -1,0 +1,15 @@
+1	@wikileaks	@wikileaks	UH	pos2=NNS	3	discourse	_	O
+2	@RitaPanahi	@ritapanahi	ADD	pos2=NNP	3	nsubj	_	O
+3	Looks	look	VBZ	pos2=NNP	0	root	_	O
+4	like	like	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	Australian	australian	JJ	pos2=NNP	7	nmod	_	U-NORP
+7	Government	government	NNP	pos2=NN	4	pobj	_	O
+8	were	be	VBD	_	9	aux	_	O
+9	colluding	collude	VBG	_	3	advcl	_	O
+10	with	with	IN	_	9	prep	_	O
+11	the	the	DT	_	14	det	_	B-ORG
+12	Clinton	clinton	NNP	_	14	compound	_	I-ORG
+13	Foundation	foundation	NNP	_	14	compound	_	L-ORG
+14	#PayToPlay	#paytoplay	NNP	pos2=ADD	10	pobj	_	O
+

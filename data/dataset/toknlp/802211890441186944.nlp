@@ -1,0 +1,13 @@
+1	Neither	neither	CC	pos2=DT	2	preconj	_	O
+2	#romney	#romney	UH	pos2=NN	10	discourse	_	O
+3	nor	nor	CC	_	2	cc	_	O
+4	#Giuliani	#giuliani	NNP	pos2=XX	2	conj	_	O
+5	For	for	IN	_	4	prep	_	O
+6	Sec	sec	NNP	_	5	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	StatePick	statepick	NNP	_	7	pobj	_	O
+9	someone	someone	NN	_	10	nsubj	_	O
+10	else@KellyannePolls	else@kellyannepolls	VBZ	pos2=ADD	0	root	_	B-DATE
+11	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	12	nmod	_	L-DATE
+12	@mike_pence	@mike_pence	NN	pos2=ADD	10	dobj	_	O
+

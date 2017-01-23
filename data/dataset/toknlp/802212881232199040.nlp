@@ -1,0 +1,17 @@
+1	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	3	prep	_	O
+2	@SenatorSessions	@senatorsessions	NNS	pos2=ADD	3	nsubj	_	O
+3	@mike_pence	@mike_pence	VBP	pos2=IN	0	root	_	O
+4	@GenFlynn	@genflynn	ADD	pos2=NNP	3	punct	_	O
+5	@Scaramucci	@scaramucci	NNP	pos2=NNS	6	compound	_	B-PERSON
+6	🚨Romney	🚨romney	NNP	pos2=NN	7	nsubj	_	L-PERSON
+7	is	be	VBZ	_	3	ccomp	_	O
+8	a	a	DT	_	10	det	_	O
+9	Trump	trump	NNP	pos2=NN	10	compound	_	U-ORG
+10	competitor	competitor	NN	_	7	attr	_	O
+11	,	,	,	_	10	punct	_	O
+12	not	not	RB	_	10	neg	_	O
+13	Trumpworthy	trumpworthy	NNP	pos2=JJ	10	appos	_	O
+14	!	!	.	_	3	punct	_	O
+
+1	https://t.co/lWcHqk9G0n	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,7 @@
+1	Vegetarianism	vegetarianism	NN	pos2=NNP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	murder	murder	NN	_	2	attr	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	#FakeVeganFacts	#fakeveganfacts	NNS	pos2=ADD	0	root	_	O
+

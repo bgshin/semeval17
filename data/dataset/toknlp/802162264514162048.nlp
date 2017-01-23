@@ -1,0 +1,21 @@
+1	POTUS	potus	NNP	pos2=NN	3	dobj	_	U-ORG
+2	You	you	PRP	_	3	nsubj	_	O
+3	mean	mean	VBP	pos2=VB	8	parataxis	_	O
+4	all	all	PDT	_	6	predet	_	O
+5	the	the	DT	_	6	det	_	O
+6	ones	#crd#	NNS	_	0	root	_	O
+7	you	you	PRP	_	8	nsubj	_	O
+8	created	create	VBD	_	6	relcl	_	O
+9	through	through	IN	_	8	prep	_	O
+10	your	your	PRP$	_	12	poss	_	O
+11	illegal	illegal	JJ	_	12	nmod	_	O
+12	wars	war	NNS	_	9	pobj	_	O
+13	&	&	CC	_	12	cc	_	O
+14	genocide	genocide	NN	_	12	conj	_	O
+15	across	across	IN	_	12	prep	_	O
+16	the	the	DT	_	20	det	_	B-LOC
+17	Middle	middle	NNP	pos2=JJ	18	compound	_	I-LOC
+18	East?#Libya	east?#libya	NNP	_	20	compound	_	L-LOC
+19	#Syria	#syria	NNP	pos2=POS	20	compound	_	O
+20	#Yemen	#yemen	NNP	pos2=ADD	15	pobj	_	O
+

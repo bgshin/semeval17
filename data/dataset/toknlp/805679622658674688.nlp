@@ -1,0 +1,27 @@
+1	@drg1985	@drg0	``	pos2=LS	6	punct	_	O
+2	My	my	PRP$	_	4	poss	_	O
+3	"	"	``	_	4	punct	_	O
+4	favourite	favourite	NN	pos2=JJ	6	nmod	_	O
+5	"	"	''	_	4	punct	_	O
+6	conspiracy	conspiracy	NN	_	10	dep	_	O
+7	:	:	:	_	10	punct	_	O
+8	contraceptive	contraceptive	JJ	_	9	nmod	_	O
+9	pill	pill	NN	_	10	nsubj	_	O
+10	causes	cause	VBZ	_	0	root	_	O
+11	genetic	genetic	JJ	_	12	nmod	_	O
+12	damage	damage	NN	_	10	dobj	_	O
+13	to	to	IN	_	12	prep	_	O
+14	kids	kid	NNS	_	13	pobj	_	O
+15	so	so	IN	pos2=RB	18	mark	_	O
+16	vaccines	vaccine	NNS	_	18	nsubj	_	O
+17	can	can	MD	_	18	aux	_	O
+18	cause	cause	VB	_	10	advcl	_	O
+19	autism	autism	NN	_	18	dobj	_	O
+20	.	.	.	_	10	punct	_	O
+
+1	But	but	CC	_	4	cc	_	O
+2	homeopathy	homeopathy	NN	_	4	nsubj	_	O
+3	can	can	MD	_	4	aux	_	O
+4	cure	cure	VB	_	0	root	_	O
+5	!	!	.	_	4	punct	_	O
+

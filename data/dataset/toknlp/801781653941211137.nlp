@@ -1,0 +1,16 @@
+1	Vandalism	vandalism	NN	_	0	root	_	O
+2	OK	ok	UH	pos2=JJ	7	discourse	_	O
+3	as	as	RB	_	4	advmod	_	O
+4	long	long	RB	_	7	advmod	_	O
+5	as	as	IN	_	1	prep	_	O
+6	protest	protest	NN	pos2=VB	7	compound	_	O
+7	#PresidentElectTrump	#presidentelecttrump	NN	pos2=XX	5	pobj	_	O
+8	!?!?	!?!?	.	pos2=SYM	4	advcl	_	O
+
+1	#DrainTheSwamp	#draintheswamp	ADD	pos2=XX	4	nmod	_	O
+2	#AmericaFirst	#americafirst	GW	pos2=RB	4	nmod	_	O
+3	#maga	#maga	GW	pos2=ADD	4	nmod	_	O
+4	https://t.co/7q9SNNHlPv	#hlink#	ADD	pos2=NN	0	root	_	O
+5	via	via	IN	pos2=GW	4	prep	_	O
+6	@LifeZette	@lifezette	NN	pos2=ADD	5	pobj	_	O
+

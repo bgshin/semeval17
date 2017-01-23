@@ -1,0 +1,23 @@
+1	#BREAKING	#breaking	NN	pos2=VBG	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	Philippines	philippines	NNP	_	5	compound	_	U-GPE
+4	Vice	vice	NNP	_	5	compound	_	O
+5	President	president	NNP	_	6	nsubj	_	O
+6	resigns	resign	VBZ	_	0	root	_	O
+7	from	from	IN	_	6	prep	_	O
+8	Duterte	duterte	NNP	_	9	compound	_	U-ORG
+9	cabinet	cabinet	NN	pos2=NNP	7	pobj	_	O
+10	.	.	.	_	6	punct	_	O
+
+1	She	she	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	against	against	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	war	war	NN	_	3	pobj	_	O
+6	on	on	IN	_	5	prep	_	O
+7	drugs	drug	NNS	_	6	pobj	_	O
+8	and	and	CC	_	2	cc	_	O
+9	re-introduc	re-introduc	GW	pos2=NN	11	nmod	_	O
+10	…	…	NFP	pos2=GW	11	punct	_	O
+11	https://t.co/GyL5y54hU0	#hlink#	ADD	pos2=NN	2	conj	_	O
+

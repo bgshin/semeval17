@@ -1,0 +1,29 @@
+1	@parismarx	@parismarx	VB	pos2=UH	0	root	_	O
+2	its	its	PRP$	pos2=PRP	4	poss	_	O
+3	about	about	IN	pos2=JJ	0	root	_	O
+4	automation	automation	NN	_	3	pobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	e.g.	e.g.	RB	pos2=FW	3	advmod	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	keep	keep	VBP	_	0	root	_	O
+4	meeting	meet	VBG	pos2=NN	3	xcomp	_	O
+5	drivers	driver	NNS	_	4	dobj	_	O
+6	who	who	WP	_	9	nsubj	_	O
+7	have	have	VBP	_	9	aux	_	O
+8	never	never	RB	_	9	neg	_	O
+9	heard	hear	VBN	_	5	relcl	_	O
+10	of	of	IN	_	9	prep	_	O
+11	self	self	NN	_	12	npadvmod	_	O
+12	driving	drive	VBG	pos2=NN	10	pcomp	_	O
+13	cars	car	NNS	_	12	dobj	_	O
+14	.	.	.	_	3	punct	_	O
+
+1	The	the	DT	_	4	det	_	O
+2	silver	silver	NN	pos2=JJ	4	compound	_	O
+3	collar	collar	NN	_	4	compound	_	O
+4	worker	worker	NN	pos2=NNP	6	nsubj	_	O
+5	is	be	VBZ	_	6	aux	_	O
+6	coming	come	VBG	_	0	root	_	O
+7	!	!	.	_	6	punct	_	O
+

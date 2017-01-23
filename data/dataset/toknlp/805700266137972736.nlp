@@ -1,0 +1,27 @@
+1	Marine	marine	NNP	pos2=JJ	3	compound	_	B-ORG
+2	Le	le	NNP	_	3	compound	_	I-ORG
+3	Pen	pen	NNP	_	4	compound	_	L-ORG
+4	storms	storm	NNS	pos2=VBZ	0	root	_	O
+5	into	into	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	lead	lead	NN	_	5	pobj	_	O
+8	in	in	IN	_	4	prep	_	O
+9	French	french	JJ	pos2=NNP	11	nmod	_	U-NORP
+10	election	election	NN	_	11	compound	_	O
+11	polls	poll	NNS	_	8	pobj	_	O
+12	|	|	SYM	pos2=,	18	punct	_	O
+13	World	world	NNP	pos2=NN	18	dep	_	B-ORG
+14	|	|	SYM	pos2=HYPH	18	punct	_	I-ORG
+15	News	news	NNP	_	18	dep	_	I-ORG
+16	|	|	SYM	pos2=,	18	punct	_	I-ORG
+17	Daily	daily	NNP	_	18	compound	_	I-ORG
+18	Express	express	NNP	_	19	dep	_	L-ORG
+19	...	..	.	pos2=,	4	punct	_	O
+
+1	crows	crow	VBZ	pos2=NNS	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	Express	express	NNP	_	1	dobj	_	U-ORG
+4	.	.	.	_	1	punct	_	O
+
+1	https://t.co/gH8m3yxHOk	#hlink#	ADD	_	0	root	_	U-ORG
+

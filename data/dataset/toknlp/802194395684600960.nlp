@@ -1,0 +1,18 @@
+1	@verynetwork	@verynetwork	UH	pos2=MD	2	discourse	_	O
+2	Love	love	VB	pos2=VBP	0	root	_	O
+3	It	it	PRP	_	2	dobj	_	O
+4	!	!	.	_	2	punct	_	O
+
+1	Following	follow	VBG	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	Retweeted	retweeted	VBN	pos2=VBD	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	#WIN	#win	NN	pos2=NNP	6	dep	_	O
+2	Oh	oh	UH	_	6	discourse	_	O
+3	fantastic	fantastic	JJ	_	5	nmod	_	O
+4	💖💖	💖💖	NN	pos2=.	5	compound	_	O
+5	#Hatchimals	#hatchimals	NNS	pos2=ADD	6	dobj	_	O
+6	#BlackFriday	#blackfriday	ADD	pos2=NN	0	root	_	U-DATE
+

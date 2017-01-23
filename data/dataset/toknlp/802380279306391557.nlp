@@ -1,0 +1,30 @@
+1	How	how	WRB	_	6	advmod	_	O
+2	are	be	VBP	_	4	aux	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	going	go	VBG	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	unite	unite	VB	_	4	xcomp	_	O
+7	the	the	DT	_	8	det	_	O
+8	millions	#crd#	NNS	_	6	dobj	_	U-CARDINAL
+9	of	of	IN	_	8	prep	_	O
+10	"	"	``	_	11	punct	_	O
+11	leftists	leftist	NNS	_	9	pobj	_	O
+12	wasting	waste	VBG	_	4	xcomp	_	O
+13	their	their	PRP$	_	14	poss	_	O
+14	time	time	NN	_	12	dobj	_	O
+15	?	?	.	pos2=,	4	punct	_	O
+16	"	"	''	_	4	punct	_	O
+
+1	Sounds	sound	VBZ	pos2=NNS	0	root	_	O
+2	like	like	IN	_	5	mark	_	O
+3	you	you	PRP	_	5	nsubj	_	O
+4	're	be	VBP	_	5	aux	_	O
+5	doing	do	VBG	_	1	advcl	_	O
+6	a	a	DT	_	8	det	_	O
+7	great	great	JJ	_	8	nmod	_	O
+8	job	job	NN	_	5	dobj	_	O
+9	.....	..	.	_	1	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/lSTWnBb7yf	#hlink#	ADD	pos2=NN	0	root	_	O
+

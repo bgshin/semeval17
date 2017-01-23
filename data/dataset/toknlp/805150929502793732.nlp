@@ -1,0 +1,16 @@
+1	InStyle	instyle	NNP	pos2=NN	0	root	_	U-ORG
+2	:	:	:	_	1	punct	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	TheAshleyGraham	theashleygraham	NNP	pos2=PRP	5	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	red	red	JJ	_	4	nmod	_	O
+4	velvet	velvet	NN	_	5	compound	_	O
+5	dress	dress	NN	_	6	nsubj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	the	the	DT	_	10	det	_	O
+8	perfect	perfect	JJ	_	10	nmod	_	O
+9	holiday	holiday	NN	pos2=GW	10	compound	_	O
+10	outfit	outfit	NN	_	6	attr	_	O
+11	https://t.co/f6QH0R7wYm	#hlink#	ADD	pos2=NN	10	appos	_	O
+

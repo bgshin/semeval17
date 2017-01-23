@@ -1,0 +1,10 @@
+1	Did	do	VBD	_	5	aux	_	O
+2	any	any	DT	_	4	det	_	O
+3	bad	bad	JJ	_	4	nmod	_	O
+4	hombres	hombre	NNS	_	5	nsubj	_	O
+5	show	show	VBP	pos2=VB	0	root	_	O
+6	up	up	RP	pos2=IN	5	prt	_	O
+7	to	to	IN	_	5	prep	_	O
+8	Thanksgiving	thanksgiving	NNP	_	7	pobj	_	U-EVENT
+9	?	?	.	_	5	punct	_	O
+

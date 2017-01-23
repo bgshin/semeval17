@@ -1,0 +1,22 @@
+1	@raijinshuus	@raijinshuus	UH	pos2=ADD	5	discourse	_	O
+2	https://t.co/imiCD1t82m	#hlink#	ADD	pos2=VBP	5	dep	_	O
+3	ye	ye	PRP	pos2=XX	4	compound	_	O
+4	ursa	ursa	NN	pos2=RB	5	nsubj	_	O
+5	went	go	VBD	_	0	root	_	O
+6	and	and	CC	_	5	cc	_	O
+7	got	get	VBD	_	8	auxpass	_	O
+8	married	marry	VBN	pos2=JJ	5	conj	_	O
+9	to	to	IN	_	8	prep	_	O
+10	her	her	PRP$	_	12	poss	_	O
+11	former	former	JJ	_	12	nmod	_	O
+12	lover	lover	NN	_	9	pobj	_	O
+13	before	before	IN	pos2=RB	15	mark	_	O
+14	ozai	ozai	NN	pos2=NNS	15	nsubj	_	O
+15	went	go	VBD	_	8	advcl	_	O
+16	*	*	SYM	pos2=NFP	19	punct	_	O
+17	melania	melania	NN	pos2=AFX	19	compound	_	O
+18	trump	trump	NN	_	19	compound	_	O
+19	voice	voice	NN	_	14	appos	_	O
+20	*	*	SYM	pos2=:	19	punct	_	O
+21	hello	hello	UH	_	19	discourse	_	O
+

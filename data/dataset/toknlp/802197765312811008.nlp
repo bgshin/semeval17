@@ -1,0 +1,30 @@
+1	A	a	DT	_	3	det	_	O
+2	subway	subway	NN	_	3	compound	_	O
+3	wall	wall	NN	_	6	nsubj	_	O
+4	in	in	IN	_	3	prep	_	O
+5	NYC	nyc	NNP	_	4	pobj	_	U-ORG
+6	offers	offer	VBZ	_	0	root	_	O
+7	some	some	DT	_	8	det	_	O
+8	solace	solace	NN	_	6	dobj	_	O
+9	to	to	IN	_	6	dative	_	O
+10	those	those	DT	_	11	det	_	O
+11	#StillWithHer	#stillwithher	NNS	pos2=NNP	9	pobj	_	O
+12	.	.	.	_	6	punct	_	O
+
+1	#Grieve	#grieve	NNP	pos2=LS	0	root	_	U-ORG
+2	.	.	.	_	1	punct	_	O
+
+1	#Organize	#organize	LS	pos2=NNP	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	#	#	NN	pos2=SYM	2	compound	_	O
+2	Resist	resist	VB	pos2=NNP	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	https	http	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	//	//	NFP	pos2=-LRB-	6	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	93kSnw0cUK	0ksnw0cuk	NN	pos2=ADD	0	root	_	O
+

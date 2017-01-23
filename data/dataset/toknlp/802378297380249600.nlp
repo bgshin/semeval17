@@ -1,0 +1,26 @@
+1	@HuffingtonPost	@huffingtonpost	ADD	pos2=JJS	3	discourse	_	O
+2	@ariannahuff	@ariannahuff	UH	pos2=WP	3	discourse	_	O
+3	Read	read	VB	_	0	root	_	O
+4	this	this	DT	_	5	det	_	O
+5	headline	headline	NN	_	3	dobj	_	O
+6	...	..	.	pos2=,	3	punct	_	O
+
+1	Romney	romney	NNP	_	5	nsubj	_	U-PERSON
+2	and	and	CC	_	1	cc	_	O
+3	Ross	ross	NNP	_	1	conj	_	U-PERSON
+4	both	both	DT	pos2=CC	1	appos	_	O
+5	went	go	VBD	_	0	root	_	O
+6	to	to	IN	_	5	prep	_	O
+7	Harvard	harvard	NNP	_	6	pobj	_	U-ORG
+8	!	!	.	_	5	punct	_	O
+
+1	And	and	CC	_	3	cc	_	O
+2	Ross	ross	NNP	_	3	nsubj	_	U-PERSON
+3	went	go	VBD	_	0	root	_	O
+4	to	to	IN	_	3	prep	_	O
+5	Yale	yale	NNP	_	4	pobj	_	U-ORG
+6	too	too	RB	_	3	advmod	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	https://t.co/KTtOdH0uzQ	#hlink#	ADD	_	0	root	_	U-ORG
+

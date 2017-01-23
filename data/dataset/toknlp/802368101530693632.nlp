@@ -1,0 +1,31 @@
+1	@jonhartmannjazz	@jonhartmannjazz	UH	pos2=NN	2	discourse	_	O
+2	WRONG	wrong	JJ	pos2=NN	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	Obama	obama	NNP	_	5	nsubj	_	B-ORG
+2	&	&	CC	_	1	cc	_	I-ORG
+3	Lynch	lynch	NNP	_	4	compound	_	I-ORG
+4	DOJ	doj	NNP	pos2=NN	1	conj	_	L-ORG
+5	protected	protect	VBN	pos2=VBD	8	ccomp	_	O
+6	Hillary	hillary	NNP	_	5	dobj	_	U-PERSON
+7	;	;	,	pos2=:	8	punct	_	O
+8	told	tell	VBD	_	0	root	_	O
+9	Comey	comey	NNP	_	10	compound	_	U-PERSON
+10	FBI	fbi	NNP	_	8	dobj	_	U-ORG
+11	not	not	RB	_	13	neg	_	O
+12	to	to	TO	_	13	aux	_	O
+13	Indict	indict	VB	_	8	xcomp	_	O
+14	her	her	PRP	_	13	dobj	_	O
+15	!	!	.	_	8	punct	_	O
+
+1	His	his	PRP$	_	2	poss	_	O
+2	hands	hand	NNS	_	3	nsubj	_	O
+3	tied	tie	VBN	pos2=VBD	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	did	do	VBD	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	best	good	JJS	_	5	dobj	_	O
+8	he	he	PRP	_	9	nsubj	_	O
+9	could	could	MD	_	7	relcl	_	O
+10	.	.	.	_	3	punct	_	O
+

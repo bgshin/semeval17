@@ -1,0 +1,30 @@
+1	@tonyabbottmhr	@tonyabbottmhr	UH	pos2=IN	5	discourse	_	O
+2	A	a	DT	_	3	det	_	O
+3	man	man	NN	_	0	root	_	O
+4	who	who	WP	_	5	nsubj	_	O
+5	gave	give	VBD	_	3	relcl	_	O
+6	NZ	nz	NNP	pos2=NN	8	nmod	_	U-ORG
+7	gay	gay	JJ	_	8	nmod	_	O
+8	marriage	marriage	NN	_	5	dobj	_	O
+9	,	,	,	_	8	punct	_	O
+10	a	a	DT	_	11	det	_	O
+11	price	price	NN	_	5	dobj	_	O
+12	on	on	IN	_	11	prep	_	O
+13	carbon	carbon	NN	_	12	pobj	_	O
+14	and	and	CC	_	5	cc	_	O
+15	wanted	want	VBD	_	5	conj	_	O
+16	a	a	DT	_	18	det	_	O
+17	new	new	JJ	_	18	nmod	_	O
+18	flag	flag	NN	_	15	dobj	_	O
+19	without	without	IN	_	15	prep	_	O
+20	your	your	PRP$	_	23	poss	_	O
+21	precious	precious	JJ	pos2=FW	23	nmod	_	O
+22	Union	union	NNP	_	23	compound	_	B-ORG
+23	Jack	jack	NNP	_	19	pobj	_	L-ORG
+24	.	.	.	_	23	punct	_	O
+
+1	A	a	DT	_	3	det	_	O
+2	real	real	JJ	_	3	nmod	_	O
+3	leader	leader	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+

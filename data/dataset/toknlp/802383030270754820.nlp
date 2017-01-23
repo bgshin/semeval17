@@ -1,0 +1,27 @@
+1	@morgan_murphy	@morgan_murphy	VB	pos2=UH	17	advcl	_	O
+2	funny	funny	JJ	_	1	acomp	_	O
+3	how	how	WRB	_	6	advmod	_	O
+4	the	the	DT	_	5	det	_	O
+5	#lefttards	#lefttards	NNS	pos2=NNPS	6	nsubj	_	O
+6	are	be	VBP	_	1	advcl	_	O
+7	the	the	DT	_	8	det	_	O
+8	ones	#crd#	NNS	_	6	attr	_	O
+9	pushing	push	VBG	_	8	acl	_	O
+10	the	the	DT	_	12	det	_	O
+11	KKK	kkk	NNP	_	12	compound	_	U-ORG
+12	narrative	narrative	NN	_	9	dobj	_	O
+13	,	,	,	_	17	punct	_	O
+14	oh	oh	UH	_	17	discourse	_	O
+15	,	,	,	_	17	punct	_	O
+16	that	that	DT	_	17	nsubj	_	O
+17	's	's	VBZ	_	22	ccomp	_	O
+18	right	right	JJ	_	17	acomp	_	O
+19	,	,	,	_	22	punct	_	O
+20	the	the	DT	_	21	det	_	O
+21	Dems	dems	NNPS	pos2=NNP	22	nsubj	_	U-NORP
+22	founded	found	VBD	_	0	root	_	O
+23	the	the	DT	_	24	det	_	O
+24	KKK	kkk	NNP	pos2=NN	22	dobj	_	U-ORG
+25	after	after	RB	pos2=IN	26	advmod	_	O
+26	all	all	RB	pos2=PDT	22	advmod	_	O
+

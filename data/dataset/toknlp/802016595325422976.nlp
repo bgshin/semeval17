@@ -1,0 +1,10 @@
+1	Oh	oh	UH	_	3	discourse	_	O
+2	so	so	RB	_	3	advmod	_	O
+3	sorry	sorry	JJ	pos2=UH	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	#UnitedNations	#unitednations	NNS	pos2=ADD	2	nsubj	_	O
+2	stop	stop	VB	pos2=VBP	0	root	_	O
+3	#Russia	#russia	VBG	pos2=-LRB-	2	xcomp	_	O
+4	https://t.co/jbfYlHV7RN	#hlink#	ADD	pos2=NN	2	dobj	_	U-ORG
+

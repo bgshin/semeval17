@@ -1,0 +1,24 @@
+1	My	my	PRP$	_	4	poss	_	O
+2	top	top	JJ	_	4	nmod	_	O
+3	sports	sport	NNS	_	4	compound	_	O
+4	teams	team	NNS	_	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+
+1	-	-	SYM	pos2=:	12	punct	_	O
+2	Toronto	toronto	NNP	_	12	compound	_	U-GPE
+3	blue	blue	JJ	pos2=NN	4	nmod	_	O
+4	jays	jay	NNS	pos2=NN	6	compound	_	O
+5	-	-	HYPH	pos2=:	6	punct	_	O
+6	Chicago	chicago	NNP	_	7	compound	_	U-GPE
+7	bulls	bull	NNS	_	16	dep	_	O
+8	-	-	HYPH	pos2=:	12	punct	_	O
+9	Colorado	colorado	NNP	_	10	compound	_	U-GPE
+10	rockies	rockies	NNS	pos2=NNPS	12	compound	_	O
+11	-	-	HYPH	pos2=:	12	punct	_	O
+12	Denver	denver	NNP	_	13	compound	_	U-GPE
+13	broncos	bronco	NNS	pos2=RB	16	dep	_	O
+14	-	-	:	pos2=HYPH	16	punct	_	O
+15	Chicago	chicago	NNP	_	16	compound	_	U-GPE
+16	cubs	cub	NNS	pos2=RB	0	root	_	O
+17	😊👍	😊👍	.	pos2=NNP	16	punct	_	O
+

@@ -1,0 +1,20 @@
+1	#Sports	#sports	NNS	pos2=VBZ	2	compound	_	O
+2	#Card	#card	NNP	pos2=VBD	19	dep	_	O
+3	201-12	0	CD	_	4	nmod	_	U-CARDINAL
+4	panini	panini	NN	pos2=NNS	9	compound	_	O
+5	Gold	gold	NNP	pos2=NN	7	compound	_	B-ORG
+6	Standard	standard	NNP	pos2=JJ	7	compound	_	L-ORG
+7	Base	base	NNP	pos2=NN	9	compound	_	O
+8	Card	card	NN	pos2=NNP	9	compound	_	O
+9	#	#	NN	_	2	npadvmod	_	O
+10	100	0	CD	pos2=NFP	9	nmod	_	U-MONEY
+11	Vince	vince	NNP	_	13	compound	_	B-PERSON
+12	Carter	carter	NNP	_	13	compound	_	L-PERSON
+13	#Dallas	#dallas	NNP	pos2=POS	14	compound	_	O
+14	#Mavericks	#mavericks	NNS	pos2=NNP	2	appos	_	O
+15	#d	#d	AFX	pos2=NN	17	advmod	_	O
+16	/	/	SYM	pos2=,	17	punct	_	O
+17	299	0	CD	_	19	dep	_	B-DATE
+18	…	…	NFP	pos2=:	19	punct	_	L-DATE
+19	https://t.co/sjaRGYsY18	#hlink#	ADD	pos2=NN	0	root	_	O
+

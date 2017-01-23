@@ -1,0 +1,28 @@
+1	Just	just	RB	_	2	advmod	_	O
+2	tried	try	VBD	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	VR	vr	NNP	pos2=NN	5	compound	_	U-ORG
+5	edition	edition	NN	_	2	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	Google	google	NNP	_	8	compound	_	B-ORG
+8	Earth	earth	NNP	_	6	pobj	_	L-ORG
+9	.	.	.	_	2	punct	_	O
+
+1	Was	be	VBD	_	3	auxpass	_	O
+2	genuinely	genuinely	RB	_	3	advmod	_	O
+3	moved	move	VBN	pos2=VBD	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	"	"	``	pos2=SYM	2	punct	_	O
+2	Welcome	welcome	VBP	pos2=JJ	7	ccomp	_	O
+3	to	to	IN	_	2	prep	_	O
+4	Earth	earth	NNP	_	3	pobj	_	U-LOC
+5	"	"	''	_	7	punct	_	O
+6	it	it	PRP	_	7	nsubj	_	O
+7	says	say	VBZ	_	0	root	_	O
+8	.	.	.	_	7	punct	_	O
+
+1	Is	be	VBZ	_	0	root	_	O
+2	cool	cool	JJ	_	1	acomp	_	O
+3	.	.	.	_	1	punct	_	O
+

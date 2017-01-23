@@ -1,0 +1,23 @@
+1	donut	donut	NN	_	2	compound	_	O
+2	parade	parade	NN	_	5	nsubj	_	O
+3	most	most	RBS	_	4	advmod	_	O
+4	likely	likely	RB	pos2=JJ	5	advmod	_	O
+5	closed	close	VBN	pos2=JJ	0	root	_	O
+6	due	due	IN	pos2=RB	5	prep	_	O
+7	to	to	IN	_	6	pcomp	_	O
+8	the	the	DT	_	9	det	_	O
+9	fact	fact	NN	_	6	pobj	_	O
+10	that	that	IN	_	12	mark	_	O
+11	people	people	NNS	_	12	nsubj	_	O
+12	keep	keep	VBP	_	9	acl	_	O
+13	voting	vote	VBG	pos2=NN	12	xcomp	_	O
+14	to	to	IN	pos2=TO	13	prep	_	O
+15	fucking	fucking	JJ	pos2=VBG	16	nmod	_	O
+16	raise	raise	VB	pos2=NN	14	pobj	_	O
+17	minimum	minimum	JJ	pos2=NN	18	nmod	_	O
+18	wage	wage	NN	_	16	dobj	_	O
+19	and	and	CC	_	18	cc	_	O
+20	small	small	JJ	_	21	nmod	_	O
+21	businesses	business	NNS	_	18	conj	_	O
+22	-	-	:	pos2=.	5	punct	_	O
+

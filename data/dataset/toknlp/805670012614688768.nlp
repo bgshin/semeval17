@@ -1,0 +1,15 @@
+1	2016	0	CD	pos2=LS	12	dep	_	O
+2	World	world	NNP	_	4	compound	_	O
+3	Series	series	NNP	_	4	compound	_	O
+4	Champions	champion	NNPS	pos2=NNS	7	compound	_	O
+5	-	-	HYPH	pos2=:	7	punct	_	O
+6	Chicago	chicago	NNP	_	7	compound	_	O
+7	Cubs	cub	NNPS	pos2=NNP	11	poss	_	O
+8	~	~	POS	pos2=SYM	7	case	_	O
+9	Major	major	NNP	_	10	compound	_	B-ORG
+10	League	league	NNP	_	11	compound	_	I-ORG
+11	Base	base	NNP	pos2=NN	12	nmod	_	I-ORG
+12	ballhttps://t.co/tFkcE4XzImSports	#hlink#	ADD	pos2=NNP	0	root	_	I-ORG
+13	&	&	CC	_	12	cc	_	I-ORG
+14	Outdoors	outdoors	RB	pos2=NNPS	12	conj	_	L-ORG
+

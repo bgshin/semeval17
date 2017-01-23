@@ -1,0 +1,20 @@
+1	@MickyRosenfeld	@mickyrosenfeld	ADD	pos2=XX	3	punct	_	O
+2	#Trump	#trump	NNP	pos2=IN	3	compound	_	O
+3	#Bds	#bds	NNS	pos2=NNP	0	root	_	O
+4	#Palestine	#palestine	NNP	pos2=ADD	5	compound	_	B-PERSON
+5	#ps4blackfriday	#ps0blackfriday	NNP	pos2=NN	3	appos	_	L-PERSON
+6	...	..	.	pos2=,	1	punct	_	O
+
+1	here	here	RB	_	2	advmod	_	O
+2	more	more	JJR	pos2=RBR	5	advmod	_	O
+3	about	about	IN	_	2	prep	_	O
+4	zionists	zionist	NNS	pos2=NN	3	pobj	_	O
+5	lies	lie	VBZ	pos2=NNS	0	root	_	O
+6	...	..	.	_	5	punct	_	O
+
+1	link	link	NN	_	5	dep	_	O
+2	-	-	SYM	pos2=:	5	punct	_	O
+3	>	>	SYM	pos2=GW	4	punct	_	O
+4	…	…	NFP	pos2=GW	5	punct	_	O
+5	https://t.co/Tjw8FAycLc	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,17 @@
+1	With	with	IN	_	7	prep	_	O
+2	#PresElectTrump	#preselecttrump	NN	pos2=NNP	1	pobj	_	O
+3	we	we	PRP	_	7	nsubj	_	O
+4	can	can	MD	_	7	aux	_	O
+5	DefundPP	defundpp	NNP	pos2=VB	7	nsubj	_	O
+6	&	&	CC	_	4	cc	_	O
+7	work	work	VB	pos2=NN	0	root	_	O
+8	to	to	TO	_	9	aux	_	O
+9	stop	stop	VB	_	7	advcl	_	O
+10	#Abortion	#abortion	NNP	pos2=CD	11	compound	_	U-FAC
+11	#AbortionKillsBabies	#abortionkillsbabies	NNS	pos2=ADD	9	dobj	_	O
+12	#ChooseLife	#chooselife	ADD	pos2=XX	16	dep	_	O
+13	#ProLife	#prolife	ADD	pos2=GW	16	nmod	_	O
+14	#Adopt	#adopt	GW	pos2=IN	16	nmod	_	O
+15	…	…	NFP	pos2=GW	16	punct	_	O
+16	https://t.co/RxbmWCBgur	#hlink#	ADD	_	11	relcl	_	O
+

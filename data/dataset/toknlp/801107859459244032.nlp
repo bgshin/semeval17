@@ -1,0 +1,19 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@repjohnlewis	@repjohnlewis	UH	pos2=PRP$	7	discourse	_	O
+2	#NBAwards	#nbawards	POS	pos2=JJ	4	nmod	_	O
+3	acceptance	acceptance	NN	_	4	compound	_	O
+4	speech	speech	NN	_	7	nsubjpass	_	O
+5	has	have	VBZ	_	7	aux	_	O
+6	been	be	VBN	_	7	auxpass	_	O
+7	viewed	view	VBN	_	0	root	_	O
+8	over	over	IN	_	7	prep	_	O
+9	1.6	0	CD	_	10	compound	_	B-CARDINAL
+10	million	#crd#	CD	_	11	nmod	_	L-CARDINAL
+11	times	time	NNS	_	8	pobj	_	O
+12	at	at	IN	_	7	prep	_	O
+13	@qz	@qz	NNP	pos2=NNS	12	pobj	_	O
+14	!	!	.	_	7	punct	_	O
+
+1	https://t.co/J4G82xjUge	#hlink#	ADD	_	0	root	_	U-ORG
+

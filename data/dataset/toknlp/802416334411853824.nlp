@@ -1,0 +1,21 @@
+1	Retweeted	retweeted	VBN	pos2=VBD	2	nmod	_	O
+2	TheMuslimLawyer	themuslimlawyer	NNP	pos2=NN	7	poss	_	U-PERSON
+3	(	(	-LRB-	_	4	punct	_	O
+4	@faisalkutty	@faisalkutty	NNP	pos2=UH	2	appos	_	O
+5	)	)	-RRB-	_	4	punct	_	O
+6	:White	:white	POS	pos2=JJ	2	case	_	O
+7	nationalists	nationalist	NNS	_	8	nsubj	_	O
+8	see	see	VBP	pos2=VB	0	root	_	O
+9	advocate	advocate	NN	pos2=VBP	8	dobj	_	O
+10	in	in	IN	_	8	prep	_	O
+11	Steve	steve	NNP	_	12	compound	_	B-PERSON
+12	Bannon	bannon	NNP	_	10	pobj	_	L-PERSON
+13	who	who	WP	_	15	nsubj	_	O
+14	will	will	MD	_	15	aux	_	O
+15	hold	hold	VB	_	12	relcl	_	O
+16	Trump	trump	NNP	pos2=NN	15	dobj	_	U-ORG
+17	to	to	IN	pos2=TO	15	prep	_	O
+18	...	..	.	pos2=,	8	punct	_	O
+
+1	https://t.co/tI0TWvIfpf	#hlink#	ADD	_	0	root	_	U-ORG
+

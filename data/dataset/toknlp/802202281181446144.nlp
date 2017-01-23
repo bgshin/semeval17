@@ -1,0 +1,21 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	come	come	VBP	_	0	root	_	O
+3	alive	alive	JJ	pos2=RB	2	acomp	_	O
+4	in	in	IN	_	2	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	fall	fall	NN	_	7	compound	_	O
+7	time	time	NN	_	4	pobj	_	O
+8	😨Coffee	😨coffee	NNP	pos2=,	7	appos	_	U-ORG
+9	and	and	CC	_	2	cc	_	O
+10	Sniped	snipe	VBD	pos2=NNP	2	conj	_	O
+11	Photo	photo	NN	pos2=NNP	12	compound	_	O
+12	cred	cred	NN	_	10	dobj	_	O
+13	:	:	:	_	14	punct	_	O
+14	mom	mom	NN	_	2	vocative	_	O
+15	@	@	IN	pos2=SYM	14	prep	_	O
+16	Tipp	tipp	NNP	_	17	compound	_	B-GPE
+17	City	city	NNP	_	15	pobj	_	L-GPE
+18	,	,	,	_	17	punct	_	O
+19	Ohio	ohio	NNP	_	17	appos	_	U-GPE
+20	https://t.co/RTmM1omojQ	#hlink#	ADD	pos2=NNP	14	appos	_	O
+

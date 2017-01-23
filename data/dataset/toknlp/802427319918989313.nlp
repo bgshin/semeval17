@@ -1,0 +1,23 @@
+1	Even	even	RB	_	2	advmod	_	O
+2	#BillClinton	#billclinton	NNP	pos2=ADD	3	nsubj	_	U-ORG
+3	agrees	agree	VBZ	_	0	root	_	O
+4	w	w	IN	pos2=RB	3	prep	_	O
+5	/	/	HYPH	pos2=,	4	punct	_	O
+6	#Trump	#trump	IN	pos2=NN	4	pcomp	_	O
+7	that	that	IN	pos2=DT	9	mark	_	O
+8	#Obamacare	#obamacare	NNP	pos2=PRP$	9	nsubj	_	U-ORG
+9	needs	need	VBZ	_	3	ccomp	_	O
+10	to	to	TO	_	12	aux	_	O
+11	be	be	VB	_	12	auxpass	_	O
+12	reformed	reform	VBN	pos2=JJ	9	xcomp	_	O
+13	.	.	.	_	3	punct	_	O
+
+1	People	people	NNS	_	3	nsubj	_	O
+2	should	should	MD	_	3	aux	_	O
+3	have	have	VB	_	0	root	_	O
+4	AFFORDABLE	affordable	JJ	_	5	nmod	_	O
+5	healthcare	healthcare	NN	_	3	dobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	https://t.co/7wAIseasTx	#hlink#	ADD	_	0	root	_	U-ORG
+

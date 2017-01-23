@@ -1,0 +1,30 @@
+1	@AhkAustin	@ahkaustin	NNP	pos2=VB	0	root	_	U-ORG
+2	its	its	PRP$	pos2=VBZ	8	poss	_	O
+3	a	a	DT	_	8	det	_	O
+4	3	0	CD	_	6	qmod	_	U-CARDINAL
+5	to	to	IN	_	6	qmod	_	O
+6	4	0	CD	_	8	nmod	_	U-CARDINAL
+7	page	page	NN	_	8	compound	_	O
+8	paper	paper	NN	_	1	dobj	_	O
+9	on	on	IN	_	8	prep	_	O
+10	Why	why	WRB	pos2=NNP	18	advmod	_	O
+11	or	or	CC	_	10	cc	_	O
+12	why	why	WRB	_	10	conj	_	O
+13	not	not	RB	_	18	neg	_	O
+14	should	should	MD	_	18	aux	_	O
+15	the	the	DT	_	17	det	_	B-GPE
+16	United	united	NNP	_	17	compound	_	I-GPE
+17	States	state	NNP	_	18	nsubj	_	L-GPE
+18	build	build	VB	pos2=VBP	9	pcomp	_	O
+19	a	a	DT	_	21	det	_	O
+20	bigger	big	JJR	_	21	nmod	_	O
+21	wall	wall	NN	_	18	dobj	_	O
+22	along	along	IN	_	21	prep	_	O
+23	the	the	DT	_	25	det	_	O
+24	Mexican	mexican	JJ	pos2=NNP	25	nmod	_	U-NORP
+25	Border	border	NNP	pos2=NN	22	pobj	_	O
+26	?	?	.	_	1	punct	_	O
+
+1	Apa	apa	NNP	pos2=NN	2	compound	_	U-PERSON
+2	format	format	NN	_	0	root	_	O
+

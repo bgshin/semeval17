@@ -1,0 +1,18 @@
+1	#ThisIsUs	#thisisus	XX	pos2=CC	6	dep	_	O
+2	The	the	DT	_	4	det	_	O
+3	freedom	freedom	NN	_	4	compound	_	O
+4	movement	movement	NN	_	6	nsubj	_	O
+5	is	be	VBZ	_	6	aux	_	O
+6	going	go	VBG	_	0	root	_	O
+7	strong	strong	JJ	pos2=RB	6	advmod	_	O
+8	and	and	CC	_	6	cc	_	O
+9	sweeping	sweep	VBG	pos2=JJ	6	conj	_	O
+10	the	the	DT	_	13	det	_	O
+11	whole	whole	JJ	pos2=NN	13	nmod	_	O
+12	world.🌎Next	world.🌎next	NN	pos2=NNP	13	compound	_	O
+13	stop	stop	NN	pos2=VB	9	dobj	_	O
+14	:	:	:	_	13	punct	_	O
+15	FRANCE	france	NNP	pos2=NN	17	nmod	_	U-GPE
+16	🇫🇷#MarineLePen	🇫🇷#marinelepen	GW	pos2=ADD	17	nmod	_	O
+17	https://t.co/cKPqQWNIl7	#hlink#	ADD	pos2=NN	6	dep	_	U-ORG
+

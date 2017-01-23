@@ -1,0 +1,31 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	U-ORG
+2	@KJMoore87	@kjmoore0	NN	pos2=NNS	10	dep	_	O
+3	:	:	:	_	10	punct	_	O
+4	The	the	DT	_	5	det	_	O
+5	people	people	NNS	_	10	nsubj	_	O
+6	who	who	WP	_	7	nsubj	_	O
+7	support	support	VBP	_	5	relcl	_	O
+8	this	this	DT	_	9	det	_	O
+9	man	man	NN	_	7	dobj	_	O
+10	are	be	VBP	_	0	root	_	O
+11	Nazi	nazi	NNP	pos2=JJ	13	compound	_	U-NORP
+12	-	-	HYPH	_	13	punct	_	O
+13	sympathizers	sympathizer	NNS	pos2=NNPS	10	attr	_	O
+14	.	.	.	_	10	punct	_	O
+
+1	No	no	DT	_	3	det	_	O
+2	other	other	JJ	_	3	nmod	_	O
+3	explanation	explanation	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Alt	alt	JJ	pos2=NN	3	nmod	_	B-ORG
+2	-	-	HYPH	pos2=:	3	punct	_	I-ORG
+3	Right	right	NNP	pos2=JJ	4	nsubj	_	L-ORG
+4	is	be	VBZ	_	0	root	_	O
+5	a	a	DT	_	7	det	_	O
+6	PC	pc	NN	pos2=JJ	7	compound	_	O
+7	way	way	NN	_	4	attr	_	O
+8	to	to	TO	_	9	aux	_	O
+9	say	say	VB	_	7	relcl	_	O
+10	Neo-Nazi	neo-nazi	JJ	pos2=NNP	7	nmod	_	U-NORP
+

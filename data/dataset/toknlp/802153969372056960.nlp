@@ -1,0 +1,17 @@
+1	Spoiler	spoiler	NN	_	2	compound	_	O
+2	alert	alert	NN	pos2=JJ	5	dep	_	O
+3	:	:	:	_	5	punct	_	O
+4	this	this	DT	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	what	what	WP	_	7	nsubj	_	O
+7	's	's	VBZ	_	5	ccomp	_	O
+8	inside	inside	RB	pos2=IN	7	advmod	_	O
+9	of	of	IN	_	8	prep	_	O
+10	your	your	PRP$	_	11	poss	_	O
+11	Hatchimal	hatchimal	NNP	pos2=NN	9	pobj	_	U-GPE
+12	.	.	.	_	5	punct	_	O
+
+1	#ruinedchristmas	#ruinedchristmas	UH	pos2=GW	3	discourse	_	O
+2	#Hatchimals	#hatchimals	NNS	pos2=ADD	3	nmod	_	O
+3	https://t.co/Elo7BfkaaF	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,11 @@
+1	Mfs	mfs	NNP	pos2=PRP	2	nsubj	_	U-ORG
+2	win	win	VB	pos2=VBP	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	fight	fight	NN	_	2	dobj	_	O
+5	&	&	CC	_	2	cc	_	O
+6	think	think	VBP	pos2=VB	2	conj	_	O
+7	they	they	PRP	_	6	ccomp	_	O
+8	Muhammad	muhammad	NNP	_	10	compound	_	B-PERSON
+9	Ali	ali	NNP	_	10	compound	_	L-PERSON
+10	😂💀	😂💀	NNP	pos2=.	6	ccomp	_	O
+

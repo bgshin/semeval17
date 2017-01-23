@@ -1,0 +1,27 @@
+1	1.	0.	LS	_	2	meta	_	U-CARDINAL
+2	Shes	shes	VBZ	pos2=NNS	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	model	model	NN	_	2	dobj	_	O
+5	not	not	RB	_	4	neg	_	O
+6	a	a	DT	_	7	det	_	O
+7	comedian	comedian	NN	_	4	appos	_	O
+8	2.	0.	.	pos2=WP	2	punct	_	O
+9	It	it	PRP	_	10	nsubj	_	O
+10	was	be	VBD	_	0	root	_	O
+11	political	political	JJ	_	12	nmod	_	O
+12	agenda	agenda	NN	_	10	attr	_	O
+13	at	at	IN	_	10	prep	_	O
+14	a	a	DT	_	16	det	_	O
+15	music	music	NN	_	16	compound	_	O
+16	award	award	NN	_	13	pobj	_	O
+17	3.Melania	#hlink#	ADD	pos2=NNP	18	nsubj	_	O
+18	is	be	VBZ	_	10	conj	_	O
+19	the	the	DT	_	21	det	_	O
+20	cheap	cheap	JJ	_	21	nmod	_	O
+21	shot	shot	NN	_	18	attr	_	O
+22	,	,	,	_	21	punct	_	O
+23	ridicule	ridicule	NN	pos2=VB	24	compound	_	O
+24	Tr	tr	NNP	pos2=GW	26	dep	_	B-PERSON
+25	…	…	NFP	pos2=-LRB-	26	punct	_	L-PERSON
+26	https://t.co/5eeJtHVNno	#hlink#	ADD	_	21	appos	_	O
+

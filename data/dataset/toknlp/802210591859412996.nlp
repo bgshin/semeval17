@@ -1,0 +1,20 @@
+1	Another	another	DT	_	2	det	_	O
+2	case	case	NN	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	Internet	internet	NN	pos2=NNP	3	pobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Things	thing	NNS	pos2=NNPS	7	compound	_	O
+7	devices	device	NNS	pos2=VBZ	8	nsubj	_	O
+8	being	be	VBG	_	5	pcomp	_	O
+9	vulnerable	vulnerable	JJ	_	8	acomp	_	O
+10	to	to	IN	_	9	prep	_	O
+11	#cyberattacks	#cyberattacks	NNS	pos2=PRP	10	pobj	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	https://t.co/vqcyq5H6CC	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@HackRead	@hackread	NN	pos2=ADD	2	pobj	_	B-LAW
+4	#IoT	#iot	ADD	pos2=NN	6	punct	_	I-LAW
+5	#Tesla	#tesla	NNP	pos2=XX	6	compound	_	L-LAW
+6	#encryption	#encryption	NN	pos2=ADD	2	pobj	_	O
+

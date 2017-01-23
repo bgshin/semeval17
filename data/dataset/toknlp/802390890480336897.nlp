@@ -1,0 +1,25 @@
+1	U.S.	u.s.	NNP	_	2	compound	_	U-GPE
+2	Officials	official	NNS	pos2=NNPS	3	nsubj	_	O
+3	Defend	defend	VBP	_	0	root	_	O
+4	Integrity	integrity	NNP	pos2=NN	3	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Vote	vote	NNP	pos2=NN	5	pobj	_	O
+7	,	,	,	_	3	punct	_	O
+8	Despite	despite	IN	pos2=NNP	3	prep	_	O
+9	Hacking	hack	VBG	_	10	nmod	_	O
+10	Fears	fear	NNS	pos2=NNP	8	pobj	_	O
+11	https://t.co/JUSz1jHDeA	#hlink#	ADD	_	6	appos	_	O
+12	/	/	SYM	pos2=,	10	punct	_	O
+13	MAYBE	maybe	RB	_	15	advmod	_	O
+14	OBAMA	obama	NNP	pos2=NN	15	compound	_	U-PERSON
+15	ADMIN	admin	NN	_	10	acl	_	O
+16	.	.	.	_	3	punct	_	O
+
+1	SHOULD	should	MD	_	2	aux	_	O
+2	MIND	mind	VB	pos2=NN	0	root	_	O
+3	IT	it	PRP	_	4	nsubj	_	O
+4	'S	's	VBZ	pos2=POS	2	ccomp	_	O
+5	OWN	own	JJ	_	6	nmod	_	O
+6	BUSINESS	business	NN	pos2=NNP	4	attr	_	O
+7	---	--	:	pos2=.	2	punct	_	O
+

@@ -1,0 +1,21 @@
+1	Rally	rally	NNP	pos2=NN	4	nsubj	_	O
+2	in	in	IN	_	1	prep	_	O
+3	#Toronto	#toronto	NNP	_	2	pobj	_	U-GPE
+4	condemns	condemn	VBZ	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	massacre	massacre	NN	_	4	dobj	_	O
+7	in	in	IN	_	6	prep	_	O
+8	#Aleppo	#aleppo	NNP	pos2=FW	7	pobj	_	O
+9	&	&	CC	_	4	cc	_	O
+10	urges	urge	VBZ	pos2=NNS	4	conj	_	O
+11	#Canada	#canada	NNP	pos2=NNS	10	dobj	_	U-PERSON
+12	to	to	IN	pos2=TO	10	prep	_	O
+13	#StandwithAleppo	#standwithaleppo	NNP	pos2=VB	12	pobj	_	O
+14	&	&	CC	_	13	cc	_	O
+15	act	act	NN	pos2=VBP	13	conj	_	O
+16	to	to	TO	_	17	aux	_	O
+17	stop	stop	VB	_	10	xcomp	_	O
+18	the	the	DT	_	19	det	_	O
+19	bombings	bombing	NNS	_	17	dobj	_	O
+20	https://t.co/OYaCgCW8N9	#hlink#	ADD	_	16	pobj	_	O
+

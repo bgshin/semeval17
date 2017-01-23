@@ -1,0 +1,24 @@
+1	It	it	PRP	_	4	nsubj	_	O
+2	could	could	MD	_	4	aux	_	O
+3	all	all	RB	pos2=DT	4	advmod	_	O
+4	be	be	VB	_	0	root	_	O
+5	true	true	JJ	_	4	acomp	_	O
+6	and	and	CC	_	4	cc	_	O
+7	@BarackObama	@barackobama	NNP	pos2=NN	8	compound	_	B-GPE
+8	@POTUS	@potus	NNP	pos2=POS	10	compound	_	L-GPE
+9	Drone	drone	NN	pos2=NNP	10	compound	_	O
+10	strikes	strike	NNS	pos2=VBZ	12	nsubj	_	O
+11	&	&	CC	_	9	cc	_	O
+12	flying	fly	VBG	_	4	conj	_	O
+13	around	around	RB	pos2=RP	12	advmod	_	O
+14	on	on	IN	_	12	prep	_	O
+15	Air	air	NNP	_	16	compound	_	B-ORG
+16	Force	force	NNP	_	17	compound	_	L-ORG
+17	1	0	NNP	pos2=,	14	pobj	_	O
+18	has	have	VBZ	_	19	aux	_	O
+19	caused	cause	VBN	_	16	dep	_	O
+20	it	it	PRP	_	19	dobj	_	O
+21	!	!	.	_	4	punct	_	O
+
+1	https://t.co/ZBrxcJmGsx	#hlink#	ADD	_	0	root	_	U-ORG
+

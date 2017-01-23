@@ -1,0 +1,12 @@
+1	Nobody	nobody	NN	_	4	nsubj	_	O
+2	could	could	MD	_	4	aux	_	O
+3	've	have	VB	_	4	aux	_	O
+4	played	play	VBN	_	0	root	_	O
+5	Muhammad	muhammad	NNP	_	6	compound	_	B-PERSON
+6	Ali	ali	NNP	_	4	dobj	_	L-PERSON
+7	better	good	JJR	pos2=RB	4	advmod	_	O
+8	than	than	IN	_	7	prep	_	O
+9	Will	will	NNP	_	10	compound	_	B-PERSON
+10	Smith	smith	NNP	_	8	pobj	_	L-PERSON
+11	.	.	.	_	4	punct	_	O
+

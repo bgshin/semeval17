@@ -1,0 +1,9 @@
+1	Help	help	NN	pos2=VB	0	root	_	O
+2	Stop	stop	VB	pos2=NNP	1	xcomp	_	O
+3	Animal	animal	NNP	pos2=NN	4	compound	_	O
+4	Testing	testing	NNP	pos2=NN	2	dobj	_	O
+5	Now	now	RB	_	2	advmod	_	O
+6	!	!	.	_	1	punct	_	O
+
+1	https://t.co/fSmlWGEzjF	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,25 @@
+1	White	white	JJ	pos2=NNP	3	nmod	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	collar	collar	NN	_	4	compound	_	O
+4	supremacy	supremacy	NN	_	0	root	_	O
+5	?	?	.	_	4	punct	_	O
+
+1	White	white	JJ	pos2=NNP	2	nmod	_	O
+2	supremacists	supremacist	NNS	_	5	nsubj	_	O
+3	have	have	VBP	_	5	aux	_	O
+4	always	always	RB	_	5	advmod	_	O
+5	been	be	VBN	_	0	root	_	O
+6	suit	suit	NN	pos2=RB	5	attr	_	O
+7	&	&	CC	_	5	cc	_	O
+8	tie	tie	VB	pos2=NN	5	conj	_	O
+9	wearing	wear	VBG	pos2=NN	8	xcomp	_	O
+10	pseudo-intellectuals	pseudo-intellectuals	NNS	_	9	dobj	_	O
+11	.	.	.	_	5	punct	_	O
+
+1	NY	ny	NNP	_	2	compound	_	B-ORG
+2	Times	times	NNP	pos2=NNS	4	nsubj	_	L-ORG
+3	just	just	RB	_	4	advmod	_	O
+4	wants	want	VBZ	_	0	root	_	O
+5	hits	hit	NNS	pos2=VBZ	4	dobj	_	O
+6	lol	lol	UH	pos2=NN	4	discourse	_	O
+

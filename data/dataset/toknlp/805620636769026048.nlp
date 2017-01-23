@@ -1,0 +1,18 @@
+1	BIOMETRIC	biometric	JJ	_	3	nmod	_	O
+2	VOTER	voter	NN	_	3	compound	_	O
+3	REGISTRATION	registration	NN	_	17	dep	_	O
+4	AND	and	CC	_	3	cc	_	O
+5	VOTER	voter	NN	_	6	compound	_	O
+6	IDENTIFICATION	identification	NN	_	7	compound	_	O
+7	SYSTEM	system	NN	_	3	conj	_	O
+8	FOR	for	IN	_	7	prep	_	O
+9	MIDTERM	midterm	NN	pos2=NNP	10	compound	_	O
+10	ELECTIONS*THE	elections*the	NNP	pos2=RB	8	pobj	_	U-PERSON
+11	BEST	good	JJS	pos2=RB	17	nmod	_	O
+12	OF	of	IN	_	11	prep	_	O
+13	TECH	tech	NNP	pos2=NN	15	nmod	_	O
+14	SEPERATE	seperate	JJ	pos2=NNP	15	nmod	_	O
+15	SYSTEM	system	NN	pos2=NNP	12	pobj	_	O
+16	…	…	NFP	pos2=:	17	punct	_	O
+17	https://t.co/fefweGBKLB	#hlink#	ADD	_	0	root	_	O
+

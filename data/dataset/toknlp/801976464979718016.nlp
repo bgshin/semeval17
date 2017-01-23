@@ -1,0 +1,13 @@
+1	we	we	PRP	_	3	nsubj	_	O
+2	've	have	VBP	_	3	aux	_	O
+3	lost	lose	VBN	_	9	ccomp	_	O
+4	a	a	DT	_	5	det	_	O
+5	lot	lot	NN	_	3	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	blood	blood	NN	_	6	pobj	_	O
+8	so	so	RB	pos2=TO	9	advmod	_	O
+9	donate	donate	VB	pos2=VBP	0	root	_	O
+10	yours	yours	PRP$	pos2=PRP	9	dobj	_	O
+11	lmaooo	lmaooo	RP	pos2=NN	12	nmod	_	O
+12	#ScreamQueens	#screamqueens	NNS	pos2=ADD	9	dobj	_	O
+

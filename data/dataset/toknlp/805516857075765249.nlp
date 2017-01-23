@@ -1,0 +1,25 @@
+1	If	if	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	're	be	VBP	_	9	advcl	_	O
+4	against	against	IN	_	3	prep	_	O
+5	animal	animal	NN	_	6	compound	_	O
+6	testing	testing	NN	_	4	pobj	_	O
+7	then	then	RB	_	9	advmod	_	O
+8	you	you	PRP	_	9	nsubj	_	O
+9	're	be	VBP	_	18	ccomp	_	O
+10	against	against	IN	_	9	prep	_	O
+11	animal	animal	NN	_	12	compound	_	O
+12	testing	testing	NN	_	10	pobj	_	O
+13	ALWAYS	always	RB	_	9	advmod	_	O
+14	-	-	:	pos2=,	18	punct	_	O
+15	not	not	RB	_	18	neg	_	O
+16	until	until	IN	_	18	mark	_	O
+17	MAC	mac	NNP	pos2=NN	18	nsubj	_	U-ORG
+18	release	release	VB	pos2=NN	0	root	_	O
+19	a	a	DT	_	23	det	_	O
+20	really	really	RB	_	21	advmod	_	O
+21	nice	nice	JJ	_	23	nmod	_	O
+22	colour	colour	NN	_	23	compound	_	O
+23	lipstick	lipstick	NN	_	18	dobj	_	O
+24	lol	lol	UH	pos2=NN	18	discourse	_	O
+

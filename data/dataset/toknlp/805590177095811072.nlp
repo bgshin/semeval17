@@ -1,0 +1,29 @@
+1	More	more	RBR	pos2=JJR	2	advmod	_	O
+2	happy	happy	JJ	_	3	nmod	_	O
+3	tails	tail	NNS	_	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+
+1	Gino	gino	NNP	pos2=NN	6	nsubjpass	_	U-PERSON
+2	and	and	CC	_	1	cc	_	O
+3	Rex	rex	NNP	_	1	conj	_	U-PERSON
+4	have	have	VBP	_	6	aux	_	O
+5	been	be	VBN	_	6	auxpass	_	O
+6	adopted	adopt	VBN	_	0	root	_	O
+7	!	!	.	pos2=,	6	punct	_	O
+
+1	Gino	gino	NNP	_	3	nsubj	_	U-PERSON
+2	narrowly	narrowly	RB	_	3	advmod	_	O
+3	escaped	escape	VBD	_	0	root	_	O
+4	euthanasia	euthanasia	NN	_	3	dobj	_	O
+5	by	by	IN	_	3	prep	_	O
+6	heartstick	heartstick	NNP	pos2=NN	5	pobj	_	U-GPE
+7	.	.	.	_	3	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	now	now	RB	_	2	advmod	_	O
+4	the	the	DT	_	2	attr	_	O
+5	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/VeuwNfmCmi	#hlink#	ADD	_	0	root	_	U-ORG
+

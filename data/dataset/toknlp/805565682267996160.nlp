@@ -1,0 +1,13 @@
+1	.	.	.	_	0	punct	_	O
+
+1	Why	why	WRB	_	6	advmod	_	O
+2	animal	animal	NN	pos2=JJ	3	compound	_	O
+3	testing	testing	NN	_	6	nsubj	_	O
+4	does	do	VBZ	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	work	work	VB	_	0	root	_	O
+7	!	!	.	_	6	punct	_	O
+
+1	https://t.co/SR9oCXRC2o	#hlink#	ADD	_	2	nsubj	_	O
+2	#CambridgeKillers	#cambridgekillers	NNS	pos2=ADD	0	root	_	O
+

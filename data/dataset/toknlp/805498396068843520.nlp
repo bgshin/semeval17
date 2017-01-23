@@ -1,0 +1,10 @@
+1	Even	even	RB	_	2	advmod	_	O
+2	vegans	vegan	NNS	_	3	nsubj	_	O
+3	confuse	confuse	VBP	pos2=VB	0	root	_	O
+4	vegetarianism	vegetarianism	NN	_	3	dobj	_	O
+5	with	with	IN	_	4	prep	_	O
+6	veganism	veganism	NN	_	5	pobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	#FakeVeganFacts	#fakeveganfacts	NNS	pos2=ADD	0	root	_	O
+

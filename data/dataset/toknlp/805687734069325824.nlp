@@ -1,0 +1,17 @@
+1	@SenGillibrand	@sengillibrand	NN	pos2=ADD	0	root	_	O
+2	@chuckschumer	@chuckschumer	IN	pos2=PRP$	1	prep	_	O
+3	Experimental	experimental	JJ	pos2=NNP	4	nmod	_	O
+4	Vaccines	vaccine	NNS	pos2=NNPS	2	pobj	_	O
+5	Unleashed	unleash	VBN	_	4	acl	_	O
+6	on	on	IN	_	5	prep	_	O
+7	Public	public	NNP	pos2=JJ	6	pobj	_	O
+8	?	?	.	_	1	punct	_	O
+
+1	Lame	lame	JJ	pos2=NNP	7	nmod	_	O
+2	Duck	duck	NNP	pos2=NN	3	compound	_	O
+3	Congress	congress	NNP	_	7	dep	_	O
+4	Fast	fast	NNP	pos2=JJ	6	compound	_	O
+5	Tracking	tracking	NNP	pos2=GW	6	compound	_	O
+6	Bill	bill	NNP	_	7	dep	_	O
+7	https://t.co/4xizzPhAjl	#hlink#	ADD	pos2=NNP	0	root	_	O
+

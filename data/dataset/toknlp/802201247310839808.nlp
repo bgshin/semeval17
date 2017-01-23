@@ -1,0 +1,25 @@
+1	What	what	WP	_	5	dobj	_	O
+2	's	's	VBZ	_	4	aux	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	like	like	IN	pos2=VB	0	root	_	O
+5	taking	take	VBG	_	4	pcomp	_	O
+6	a	a	DT	_	9	det	_	O
+7	#Tesla	#tesla	NNP	pos2=NN	9	compound	_	O
+8	road	road	NN	_	9	compound	_	O
+9	trip	trip	NN	_	5	dobj	_	O
+10	from	from	IN	_	9	prep	_	O
+11	London	london	NNP	_	10	pobj	_	U-GPE
+12	to	to	IN	_	5	prep	_	O
+13	Berlin	berlin	NNP	_	12	pobj	_	U-GPE
+14	?	?	.	_	9	punct	_	O
+
+1	Read	read	VBN	pos2=VB	0	root	_	O
+2	here	here	RB	_	1	advmod	_	O
+3	:	:	:	_	9	punct	_	O
+4	https://t.co/PI58c9nj12	#hlink#	ADD	pos2=NN	9	nmod	_	O
+5	$	$	$	pos2=-RRB-	9	ccomp	_	O
+6	tsla	tsla	NN	pos2=CD	7	compound	_	U-MONEY
+7	#teslamotors	#teslamotors	NNS	pos2=XX	9	dep	_	O
+8	#teslamodels	#teslamodels	UH	pos2=VBZ	9	dep	_	O
+9	#elonmusk	#elonmusk	UH	pos2=.	1	discourse	_	O
+

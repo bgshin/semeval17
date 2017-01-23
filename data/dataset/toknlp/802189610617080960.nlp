@@ -1,0 +1,21 @@
+1	No	no	DT	pos2=UH	2	det	_	O
+2	rockets	rocket	NNS	_	5	nsubjpass	_	O
+3	were	be	VBD	_	5	auxpass	_	O
+4	ever	ever	RB	_	5	advmod	_	O
+5	fired	fire	VBN	_	0	root	_	O
+6	from	from	IN	_	5	prep	_	O
+7	UNRWA	unrwa	NNP	_	8	compound	_	U-ORG
+8	schools	school	NNS	_	6	pobj	_	O
+9	in	in	IN	_	8	prep	_	O
+10	Gaza	gaza	NNP	_	9	pobj	_	U-GPE
+11	during	during	IN	_	5	prep	_	O
+12	'	'	``	pos2=POS	14	punct	_	O
+13	Cast	cast	NNP	pos2=NN	14	compound	_	O
+14	Lead	lead	NNP	pos2=''	11	pobj	_	O
+15	'	'	''	pos2=POS	14	punct	_	O
+16	https://t.co/mhFmK7Y0dQ	#hlink#	ADD	_	14	appos	_	O
+17	#gaza	#gaza	-RRB-	pos2=IN	5	punct	_	O
+18	#palestine	#palestine	UH	pos2=PRP	5	discourse	_	O
+19	#israel	#israel	UH	pos2=VB	5	discourse	_	O
+20	#BDS	#bds	NNS	pos2=UH	5	dobj	_	O
+

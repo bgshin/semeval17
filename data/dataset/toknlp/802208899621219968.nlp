@@ -1,0 +1,9 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	grandpa	grandpa	NN	_	8	nsubj	_	O
+3	at	at	IN	_	2	prep	_	O
+4	the	the	DT	_	6	det	_	O
+5	end	end	NN	_	6	compound	_	O
+6	lmao	lmao	NN	pos2=GW	3	pobj	_	O
+7	#MannequinChallenge	#mannequinchallenge	GW	pos2=NN	8	nmod	_	O
+8	https://t.co/XuSCNgk7xZ	#hlink#	ADD	pos2=NN	0	root	_	U-GPE
+

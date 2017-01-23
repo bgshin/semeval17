@@ -1,0 +1,8 @@
+1	@CBSLA	@cbsla	NN	pos2=IN	3	compound	_	O
+2	death	death	NN	_	3	compound	_	O
+3	penalty	penalty	NN	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	this	this	DT	_	7	det	_	O
+6	dumb	dumb	JJ	_	7	nmod	_	O
+7	fawk	fawk	NN	pos2=.	4	pobj	_	O
+

@@ -1,0 +1,12 @@
+1	And	and	CC	_	5	cc	_	O
+2	the	the	DT	_	3	det	_	O
+3	Obama	obama	NNP	_	7	poss	_	U-PERSON
+4	's	's	POS	_	3	case	_	O
+5	know	know	VBP	pos2=VB	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	lyrics	lyric	NNS	_	5	dobj	_	O
+8	.	.	.	_	5	punct	_	O
+
+1	YESSSSSSSS	yessssssss	NN	pos2=NNP	2	compound	_	O
+2	#ThankYouObama	#thankyouobama	NN	pos2=NNS	0	root	_	O
+

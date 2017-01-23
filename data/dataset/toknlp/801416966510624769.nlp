@@ -1,0 +1,21 @@
+1	@CNN	@cnn	NNP	pos2=NN	2	discourse	_	U-PERSON
+2	Really	really	RB	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	Hillary	hillary	NNP	_	2	compound	_	B-PERSON
+2	Clinton	clinton	NNP	_	6	nsubj	_	L-PERSON
+3	nor	nor	CC	_	2	cc	_	O
+4	Obama	obama	NNP	_	2	conj	_	U-PERSON
+5	have	have	VBP	_	6	aux	_	O
+6	disavowed	disavow	VBN	_	0	root	_	O
+7	the	the	DT	_	12	det	_	O
+8	violent	violent	JJ	_	12	nmod	_	O
+9	destructive	destructive	JJ	_	12	nmod	_	O
+10	anti	anti	AFX	pos2=NN	11	nmod	_	O
+11	Trump	trump	NN	pos2=NNP	12	compound	_	O
+12	riots	riot	NNS	pos2=VBZ	6	dobj	_	O
+13	either	either	RB	_	6	advmod	_	O
+14	.	.	.	_	6	punct	_	O
+
+1	Hypocrisy	hypocrisy	NN	pos2=UH	0	root	_	O
+

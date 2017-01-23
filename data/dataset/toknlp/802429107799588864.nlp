@@ -1,0 +1,19 @@
+1	Which	which	WDT	_	4	nsubj	_	O
+2	altogether	altogether	RB	_	4	advmod	_	O
+3	uncommonly	uncommonly	RB	pos2=JJ	4	advmod	_	O
+4	wants	want	VBZ	_	0	root	_	O
+5	so	so	RB	pos2=IN	8	mark	_	O
+6	as	as	IN	_	8	mark	_	O
+7	to	to	TO	_	8	aux	_	O
+8	go	go	VB	_	4	advcl	_	O
+9	through	through	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	candor	candor	NN	_	9	pobj	_	O
+12	regarding	regard	VBG	_	11	prep	_	O
+13	needful	needful	JJ	_	15	nmod	_	O
+14	trafficking	trafficking	NN	pos2=VBG	15	compound	_	O
+15	robots	robot	NNS	_	12	pobj	_	O
+16	:	:	:	_	18	punct	_	O
+17	oEJe	oeje	-LRB-	pos2=GW	18	punct	_	B-CARDINAL
+18	https://t.co/R2gbLs5yAN	#hlink#	ADD	_	15	appos	_	L-CARDINAL
+

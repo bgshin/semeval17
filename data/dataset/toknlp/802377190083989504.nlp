@@ -1,0 +1,35 @@
+1	@FLpatriotchick	@flpatriotchick	UH	pos2=NN	6	discourse	_	O
+2	@YouTube	@youtube	UH	pos2=ADD	6	discourse	_	O
+3	I	I	PRP	_	6	nsubj	_	O
+4	do	do	VBP	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	like	like	VB	_	0	root	_	O
+7	Michael	michael	NNP	_	8	compound	_	B-PERSON
+8	Moore	moore	NNP	_	6	dobj	_	L-PERSON
+9	but	but	CC	_	6	cc	_	O
+10	I	I	PRP	_	12	nsubj	_	O
+11	did	do	VBD	_	12	aux	_	O
+12	like	like	VB	pos2=UH	6	conj	_	O
+13	this	this	DT	_	12	dobj	_	O
+14	!	!	.	_	12	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	spot	spot	RB	pos2=VB	2	advmod	_	O
+4	on	on	RB	pos2=IN	2	advmod	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	saw	see	VBD	_	0	root	_	O
+3	this	this	DT	_	2	dobj	_	O
+4	a	a	DT	_	5	det	_	O
+5	month	month	NN	_	2	npadvmod	_	O
+6	before	before	IN	pos2=RB	2	prep	_	O
+7	11/8	0	CD	_	6	pobj	_	U-CARDINAL
+8	and	and	CC	_	2	cc	_	O
+9	sent	send	VBD	pos2=VB	2	conj	_	O
+10	it	it	PRP	_	9	dobj	_	O
+11	to	to	IN	pos2=RB	9	dative	_	O
+12	many	many	JJ	_	11	pobj	_	O
+13	.	.	.	_	2	punct	_	O
+

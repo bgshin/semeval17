@@ -1,0 +1,13 @@
+1	Adam	adam	NNP	_	2	compound	_	B-PERSON
+2	@justinhartley	@justinhartley	NNP	pos2=RB	4	nsubj	_	L-PERSON
+3	should	should	MD	_	4	aux	_	O
+4	come	come	VB	_	0	root	_	O
+5	back	back	RB	_	4	advmod	_	O
+6	&	&	CC	_	4	cc	_	O
+7	take	take	VB	_	4	conj	_	O
+8	Christian	christian	JJ	pos2=NNP	7	dobj	_	U-NORP
+9	to	to	IN	pos2=TO	7	prep	_	O
+10	#thisisus	#thisisus	VB	pos2=XX	7	conj	_	O
+11	#FridayFeeling😂❤️	#fridayfeeling😂❤️	XX	pos2=NNP	10	dep	_	O
+12	#yr	#yr	UH	pos2=XX	10	discourse	_	O
+

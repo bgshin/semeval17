@@ -1,0 +1,21 @@
+1	Makes	make	VBZ	_	0	root	_	O
+2	me	me	PRP	_	4	nsubj	_	O
+3	so	so	RB	_	4	advmod	_	O
+4	proud	proud	JJ	_	1	ccomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	be	be	VB	_	4	xcomp	_	O
+7	an	an	DT	_	8	det	_	O
+8	American	american	JJ	pos2=NNP	6	attr	_	U-NORP
+9	!	!	.	_	1	punct	_	O
+
+1	Finally	finally	RB	_	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	Alleluia	alleluia	NNP	pos2=NN	3	nmod	_	O
+2	#TrumpPence	#trumppence	XX	pos2=NN	3	nmod	_	O
+3	#KarenRocks	#karenrocks	NNS	pos2=UH	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+
+1	@mike_pence	@mike_pence	ADD	pos2=-LRB-	2	punct	_	O
+2	https://t.co/oqzYqDrUTS	#hlink#	ADD	_	0	root	_	O
+

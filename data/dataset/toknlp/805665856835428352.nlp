@@ -1,0 +1,10 @@
+1	Cristiano	cristiano	NNP	_	3	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	3	compound	_	I-PERSON
+3	u	u	NNP	pos2=PRP	4	nsubj	_	L-PERSON
+4	won	win	VBD	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	heart	heart	NN	_	4	dobj	_	O
+7	<	<	SYM	pos2=XX	8	punct	_	O
+8	3	0	CD	_	9	dep	_	O
+9	https://t.co/xTlIyClvbE	#hlink#	ADD	pos2=NN	4	dobj	_	O
+

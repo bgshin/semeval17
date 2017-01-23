@@ -1,0 +1,23 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	celebrated	celebrate	VBD	_	0	root	_	O
+3	#NationalFastFoodDay	#nationalfastfoodday	NNP	pos2=NN	2	dobj	_	U-PERSON
+4	by	by	IN	_	2	prep	_	O
+5	indulging	indulge	VBG	_	4	pcomp	_	O
+6	in	in	IN	pos2=RP	5	prep	_	O
+7	some	some	DT	_	9	det	_	O
+8	delicious	delicious	JJ	_	9	nmod	_	O
+9	hamburgers	hamburger	NNS	_	6	pobj	_	O
+10	!	!	.	_	2	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	fun	fun	NN	pos2=JJ	5	compound	_	O
+5	treat	treat	NN	pos2=WDT	2	attr	_	O
+6	enjoyed	enjoy	VBN	_	5	acl	_	O
+7	by	by	IN	_	6	agent	_	O
+8	many	many	JJ	_	7	pobj	_	O
+9	!	!	.	_	2	punct	_	O
+
+1	https://t.co/zETWGKkZB6	#hlink#	ADD	_	0	root	_	U-ORG
+

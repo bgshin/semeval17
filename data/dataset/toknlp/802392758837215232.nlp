@@ -1,0 +1,20 @@
+1	@Anthglony	@anthglony	NNP	pos2=NN	3	nsubj	_	O
+2	60	0	CD	_	1	nmod	_	O
+3	is	be	VBZ	_	9	ccomp	_	O
+4	too	too	RB	_	5	advmod	_	O
+5	high	high	JJ	_	3	acomp	_	O
+6	,	,	,	_	9	punct	_	O
+7	hed	hed	NN	pos2=MD	9	nsubj	_	O
+8	be	be	VB	pos2=IN	9	aux	_	O
+9	asking	ask	VBG	_	0	root	_	O
+10	for	for	IN	_	9	prep	_	O
+11	social	social	JJ	_	12	nmod	_	O
+12	security	security	NN	_	13	compound	_	O
+13	payments	payment	NNS	_	10	pobj	_	O
+14	not	not	RB	_	15	neg	_	O
+15	paypal	paypal	JJ	pos2=RB	18	ccomp	_	O
+16	,	,	,	_	18	punct	_	O
+17	maybe	maybe	RB	_	18	advmod	_	O
+18	50	0	CD	_	9	dep	_	U-CARDINAL
+19	?	?	.	_	9	punct	_	O
+

@@ -1,0 +1,13 @@
+1	TESLA	tesla	NNP	pos2=NN	3	compound	_	U-ORG
+2	ACCELERATION	acceleration	NN	_	3	compound	_	O
+3	SPEED	speed	NN	_	4	nsubj	_	O
+4	CATCHES	catch	VBZ	pos2=NNS	0	root	_	O
+5	UP	up	IN	pos2=RP	4	prep	_	O
+6	TO	to	IN	pos2=TO	5	prep	_	O
+7	LAFERRARI	laferrari	NNP	pos2=NN	6	pobj	_	O
+8	AFTER	after	IN	_	4	prep	_	O
+9	SOFTWARE	software	NN	pos2=NNP	10	compound	_	O
+10	UPDATE	update	NN	pos2=GW	8	pobj	_	O
+11	https://t.co/QRsc929RKr	#hlink#	ADD	pos2=NNP	12	nsubj	_	U-ORG
+12	#LaFerrari	#laferrari	ADD	pos2=-RRB-	4	advcl	_	U-ORG
+

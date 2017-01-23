@@ -1,0 +1,23 @@
+1	how	how	WRB	pos2=RB	2	advmod	_	O
+2	disappointing	disappointing	JJ	_	9	dep	_	O
+3	,	,	,	_	9	punct	_	O
+4	now	now	RB	_	9	advmod	_	O
+5	we	we	PRP	_	9	nsubj	_	O
+6	ca	can	MD	_	9	aux	_	O
+7	n't	not	RB	_	9	neg	_	O
+8	always	always	RB	_	9	advmod	_	O
+9	look	look	VB	_	0	root	_	O
+10	at	at	IN	_	9	prep	_	O
+11	what	what	WP	_	17	pobj	_	O
+12	Kim	kim	NNP	_	14	compound	_	B-PERSON
+13	Jong	jong	NNP	_	14	compound	_	L-PERSON
+14	Un	un	NNP	_	16	nsubj	_	O
+15	is	be	VBZ	_	16	aux	_	O
+16	looking	look	VBG	_	10	pcomp	_	O
+17	at	at	IN	_	16	prep	_	O
+18	(	(	-LRB-	_	16	punct	_	O
+19	#NorthKorean	#northkorean	JJ	pos2=ADD	20	nmod	_	U-NORP
+20	meta	meta	NN	_	22	dep	_	O
+21	!)	!)	NFP	pos2=ADD	22	punct	_	O
+22	https://t.co/VAnK2jfKYc	#hlink#	ADD	_	9	dep	_	O
+

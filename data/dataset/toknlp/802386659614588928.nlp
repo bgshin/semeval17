@@ -1,0 +1,18 @@
+1	Maybe	maybe	RB	_	3	advmod	_	O
+2	a	a	DT	_	6	det	_	O
+3	generous	generous	JJ	_	6	nmod	_	O
+4	sugar	sugar	NN	_	6	compound	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	daddy	daddy	NN	_	10	nsubj	_	O
+7	named	name	VBN	pos2=VBD	6	acl	_	O
+8	George	george	NNP	_	9	compound	_	B-PERSON
+9	Soros	soros	NNP	_	7	oprd	_	L-PERSON
+10	?	?	.	_	0	root	_	O
+
+1	Just	just	RB	_	3	advmod	_	O
+2	a	a	DT	_	3	det	_	O
+3	thought	thought	NN	_	0	root	_	O
+4	...	..	.	_	3	punct	_	O
+
+1	https://t.co/BVdWua4AbL	#hlink#	ADD	_	0	root	_	U-ORG
+

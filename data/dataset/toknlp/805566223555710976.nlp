@@ -1,0 +1,19 @@
+1	.	.	.	_	0	punct	_	O
+
+1	Humans	human	NNS	pos2=NNPS	2	nsubj	_	O
+2	suffer	suffer	VBP	pos2=VB	0	root	_	O
+3	too	too	RB	_	2	advmod	_	O
+4	from	from	IN	_	2	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	inaccuracies	inaccuracy	NNS	_	4	pobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	delays	delay	NNS	_	6	conj	_	O
+9	of	of	IN	_	6	prep	_	O
+10	treatments	treatment	NNS	_	9	pobj	_	O
+11	due	due	IN	_	2	prep	_	O
+12	to	to	IN	_	11	pcomp	_	O
+13	animal	animal	NN	_	14	compound	_	O
+14	testing	testing	NN	pos2=VBG	15	compound	_	O
+15	#CambridgeKillers	#cambridgekillers	NNS	pos2=GW	11	pobj	_	O
+16	https://t.co/U3cNG8SlOC	#hlink#	ADD	_	2	dep	_	O
+

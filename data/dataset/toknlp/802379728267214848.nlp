@@ -1,0 +1,31 @@
+1	C'mon	c'mon	UH	pos2=NN	3	discourse	_	O
+2	,	,	,	_	3	punct	_	O
+3	Silver	silver	NNP	pos2=NN	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	"	"	``	_	2	punct	_	O
+2	Probabaly	probabaly	RB	_	0	root	_	O
+3	?	?	.	pos2=,	2	punct	_	O
+4	"	"	''	_	2	punct	_	O
+
+1	Hard	hard	JJ	pos2=RB	0	root	_	O
+2	to	to	TO	pos2=IN	3	aux	_	O
+3	weight	weight	VB	pos2=NN	1	advcl	_	O
+4	the	the	DT	_	8	det	_	O
+5	slow	slow	JJ	pos2=NN	8	nmod	_	O
+6	,	,	,	_	8	punct	_	O
+7	sustained	sustained	JJ	pos2=VBN	8	nmod	_	O
+8	drip	drip	NN	_	3	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	Wikileaks	wikileaks	NNP	pos2=NNPS	9	pobj	_	U-ORG
+11	vs	vs	CC	pos2=IN	8	cc	_	O
+12	the	the	DT	_	14	det	_	O
+13	poignant	poignant	JJ	_	14	nmod	_	O
+14	timing	timing	NN	_	8	conj	_	O
+15	of	of	IN	_	14	prep	_	O
+16	Comey	comey	NNP	_	15	pobj	_	U-PERSON
+17	.	.	.	_	1	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/sClvoIhfAK	#hlink#	ADD	pos2=NN	0	root	_	O
+

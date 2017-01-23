@@ -1,0 +1,12 @@
+1	Russia	russia	NNP	pos2=NN	7	nsubj	_	U-GPE
+2	and	and	CC	_	1	cc	_	O
+3	#Hezbollah	#hezbollah	NNP	pos2=ADD	1	conj	_	U-ORG
+4	'	'	``	pos2=''	5	punct	_	O
+5	officially	officially	RB	_	7	advmod	_	O
+6	'	'	''	pos2=``	11	punct	_	O
+7	working	work	VBG	_	0	root	_	O
+8	together	together	RB	pos2=RP	7	advmod	_	O
+9	in	in	IN	_	7	prep	_	O
+10	#Syria	#syria	NNP	pos2=-LRB-	9	pobj	_	U-GPE
+11	https://t.co/c10MArGaVv	#hlink#	ADD	_	7	dep	_	O
+

@@ -1,0 +1,27 @@
+1	"	"	``	pos2=''	14	punct	_	O
+2	IN	in	IN	pos2=FW	14	prep	_	O
+3	the	the	DT	_	5	det	_	B-DATE
+4	past	past	JJ	_	5	nmod	_	I-DATE
+5	year	year	NN	_	2	pobj	_	I-DATE
+6	alone	alone	RB	_	5	advmod	_	L-DATE
+7	,	,	,	_	14	punct	_	O
+8	over	over	IN	_	9	qmod	_	O
+9	100	0	CD	_	10	nmod	_	U-CARDINAL
+10	women	woman	NNS	_	14	nsubj	_	O
+11	from	from	IN	_	10	prep	_	O
+12	Limerick	limerick	NNP	_	11	pobj	_	U-GPE
+13	have	have	VBP	_	14	aux	_	O
+14	travelled	travel	VBN	_	0	root	_	O
+15	to	to	IN	_	14	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	UK	uk	NNP	_	15	pobj	_	U-GPE
+18	to	to	TO	_	19	aux	_	O
+19	get	get	VB	_	14	advcl	_	O
+20	access	access	NN	_	19	dobj	_	O
+21	to	to	IN	_	20	prep	_	O
+22	abortion	abortion	NN	_	23	compound	_	O
+23	services	service	NNS	_	21	pobj	_	O
+24	...	..	.	pos2=,	14	punct	_	O
+
+1	https://t.co/F4z2T7Z2Un	#hlink#	ADD	_	0	root	_	U-ORG
+

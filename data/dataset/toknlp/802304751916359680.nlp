@@ -1,0 +1,16 @@
+1	@Brian_Was_Here	@brian_was_here	NN	pos2=ADD	3	nsubj	_	O
+2	_	_	SYM	pos2=''	3	punct	_	O
+3	I	I	PRP	pos2=NNP	9	nsubj	_	O
+4	,	,	,	_	3	punct	_	O
+5	Kim	kim	NNP	_	7	compound	_	B-PERSON
+6	Jong	jong	NNP	_	7	compound	_	I-PERSON
+7	Un	un	NNP	_	3	appos	_	L-PERSON
+8	,	,	,	_	9	punct	_	O
+9	wish	wish	VBP	pos2=VBZ	0	root	_	O
+10	to	to	TO	_	11	aux	_	O
+11	volunteer	volunteer	VB	pos2=NN	9	xcomp	_	O
+12	for	for	IN	_	11	prep	_	O
+13	this	this	DT	_	15	det	_	O
+14	recount	recount	NN	_	15	compound	_	O
+15	business	business	NN	_	12	pobj	_	O
+

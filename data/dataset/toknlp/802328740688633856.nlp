@@ -1,0 +1,21 @@
+1	@FoxNewsSydMUN16	@foxnewssydmun0	NN	pos2=UH	5	dep	_	O
+2	you	you	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	need	need	VB	_	0	root	_	O
+6	coffee	coffee	NN	_	5	dobj	_	O
+7	when	when	WRB	_	15	advmod	_	O
+8	the	the	DT	_	9	det	_	O
+9	spirit	spirit	NN	_	15	nsubj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Kim	kim	NNP	_	14	compound	_	B-PERSON
+12	Jong	jong	NNP	_	14	compound	_	I-PERSON
+13	-	-	HYPH	_	14	punct	_	I-PERSON
+14	un	un	NNP	_	10	pobj	_	L-PERSON
+15	is	be	VBZ	_	5	advcl	_	O
+16	there	there	RB	pos2=EX	15	advmod	_	O
+17	to	to	TO	_	18	aux	_	O
+18	keep	keep	VB	_	15	advcl	_	O
+19	you	you	PRP	_	18	dobj	_	O
+20	awake	awake	JJ	_	18	oprd	_	O
+

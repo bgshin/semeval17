@@ -1,0 +1,34 @@
+1	It	it	PRP	_	3	nsubjpass	_	O
+2	's	's	VBZ	_	3	auxpass	_	O
+3	been	be	VBN	_	22	ccomp	_	O
+4	a	a	DT	_	6	det	_	O
+5	hard	hard	JJ	_	6	nmod	_	O
+6	year	year	NN	_	3	attr	_	O
+7	:	:	:	_	3	punct	_	O
+8	in	in	IN	_	3	prep	_	O
+9	addition	addition	NN	_	8	pobj	_	O
+10	to	to	IN	_	9	prep	_	O
+11	losing	lose	VBG	_	10	pcomp	_	O
+12	Leonard	leonard	NNP	_	13	compound	_	B-PERSON
+13	Cohen	cohen	NNP	_	11	dobj	_	L-PERSON
+14	and	and	CC	_	13	cc	_	O
+15	David	david	NNP	_	16	compound	_	B-PERSON
+16	Bowie	bowie	NNP	_	13	conj	_	L-PERSON
+17	in	in	IN	_	11	prep	_	O
+18	2016	0	CD	_	17	pobj	_	U-DATE
+19	,	,	,	_	22	punct	_	O
+20	Californians	californian	NNPS	_	22	nsubj	_	U-NORP
+21	also	also	RB	_	22	advmod	_	O
+22	lost	lose	VBD	_	0	root	_	O
+23	Peter	peter	NNP	_	24	compound	_	B-PERSON
+24	Tosh	tosh	NNP	_	26	poss	_	I-PERSON
+25	's	's	POS	_	24	case	_	L-PERSON
+26	"	"	``	_	27	punct	_	O
+27	Legalize	legalize	VB	pos2=NNP	22	dobj	_	O
+28	It	it	PRP	_	27	dobj	_	O
+29	"	"	''	_	27	punct	_	O
+30	.	.	.	_	22	punct	_	O
+
+1	RIP	rip	NN	pos2=VB	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+

@@ -1,0 +1,29 @@
+1	Hey	hey	UH	pos2=JJ	0	root	_	O
+2	kids	kid	NNS	_	1	vocative	_	O
+3	!	!	.	_	1	punct	_	O
+
+1	Very	very	RB	_	2	advmod	_	O
+2	pleased	pleased	JJ	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	say	say	VB	_	2	xcomp	_	O
+5	we	we	PRP	_	7	nsubj	_	O
+6	have	have	VBP	_	7	aux	_	O
+7	confirmed	confirm	VBN	_	4	ccomp	_	O
+8	a	a	DT	_	9	det	_	O
+9	venue	venue	NN	_	7	dobj	_	O
+10	for	for	IN	_	9	prep	_	O
+11	our	our	PRP$	_	15	poss	_	O
+12	Feb	feb	NNP	_	13	compound	_	B-DATE
+13	18th	#ord#	NN	pos2=JJ	15	compound	_	L-DATE
+14	Valentines	valentines	NNP	_	15	compound	_	O
+15	party	party	NN	pos2=NNP	10	pobj	_	O
+16	!	!	.	_	2	punct	_	O
+
+1	It	it	PRP	_	4	nsubj	_	O
+2	'll	will	MD	_	4	aux	_	O
+3	definitely	definitely	RB	_	4	advmod	_	O
+4	be	be	VB	_	0	root	_	O
+5	fully	fully	RB	_	6	advmod	_	O
+6	accessible	accessible	JJ	_	4	acomp	_	O
+7	.	.	.	_	4	punct	_	O
+

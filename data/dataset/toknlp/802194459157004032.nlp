@@ -1,0 +1,25 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@soledadobrien	@soledadobrien	UH	pos2=VB	17	discourse	_	O
+2	@CharlesMBlow	@charlesmblow	UH	pos2=NNP	1	discourse	_	O
+3	And	and	CC	_	17	cc	_	O
+4	despite	despite	IN	_	17	prep	_	O
+5	her	her	PRP$	pos2=PRP	6	poss	_	O
+6	estimate	estimate	NN	pos2=JJ	4	pobj	_	O
+7	,	,	,	_	17	punct	_	O
+8	white	white	JJ	_	9	nmod	_	O
+9	supremacists	supremacist	NNS	_	17	nsubj	_	O
+10	,	,	,	_	9	punct	_	O
+11	among	among	IN	_	9	prep	_	O
+12	them	them	PRP	_	11	pobj	_	O
+13	Dylan	dylan	NNP	_	14	compound	_	B-PERSON
+14	Roof	roof	NNP	_	17	nsubj	_	L-PERSON
+15	,	,	,	_	17	punct	_	O
+16	have	have	VBP	_	17	aux	_	O
+17	killed	kill	VBN	_	0	root	_	O
+18	plenty	plenty	JJ	pos2=NN	20	nmod	_	O
+19	US	us	NNP	_	20	compound	_	U-GPE
+20	civilians	civilian	NNS	_	17	dobj	_	O
+21	&	&	CC	_	20	cc	_	O
+22	police	police	NNS	pos2=NN	20	conj	_	O
+

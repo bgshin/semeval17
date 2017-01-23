@@ -1,0 +1,16 @@
+1	Dr.	dr.	NNP	_	3	compound	_	O
+2	Ben	ben	NNP	_	3	compound	_	B-PERSON
+3	Carson	carson	NNP	_	4	nsubj	_	L-PERSON
+4	Calls	call	VBZ	pos2=NNP	0	root	_	O
+5	on	on	IN	_	4	prep	_	O
+6	Mainstream	mainstream	NNP	pos2=JJ	7	compound	_	B-ORG
+7	Media	media	NNP	pos2=NNS	5	pobj	_	L-ORG
+8	to	to	TO	pos2=IN	9	aux	_	O
+9	Hold	hold	VB	pos2=NNP	4	xcomp	_	O
+10	National	national	NNP	pos2=JJ	11	compound	_	B-EVENT
+11	Summit	summit	NNP	_	15	dep	_	L-EVENT
+12	|	|	SYM	pos2=,	15	punct	_	O
+13	Conservative	conservative	JJ	pos2=NNP	14	nmod	_	O
+14	Byte	byte	NN	pos2=NNP	15	dep	_	O
+15	https://t.co/JR4NHpWk1u	#hlink#	ADD	pos2=NN	9	dobj	_	O
+

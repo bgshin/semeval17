@@ -1,0 +1,27 @@
+1	Marion	marion	NNP	_	5	compound	_	B-PERSON
+2	Maréchal	maréchal	NNP	_	5	compound	_	I-PERSON
+3	-	-	HYPH	pos2=:	5	punct	_	I-PERSON
+4	Le	le	NNP	_	5	compound	_	I-PERSON
+5	Pen	pen	NNP	_	15	nsubj	_	L-PERSON
+6	,	,	,	_	5	punct	_	O
+7	niece	niece	NN	_	5	appos	_	O
+8	of	of	IN	_	7	prep	_	O
+9	FN	fn	NNP	pos2=JJ	10	compound	_	U-ORG
+10	president	president	NN	pos2=NNP	13	compound	_	O
+11	Marine	marine	NNP	_	13	compound	_	B-ORG
+12	Le	le	NNP	_	13	compound	_	I-ORG
+13	Pen	pen	NNP	_	8	pobj	_	L-ORG
+14	,	,	,	_	15	punct	_	O
+15	met	meet	VBD	_	0	root	_	O
+16	Poklonskaya	poklonskaya	NNP	_	15	dobj	_	U-PERSON
+17	at	at	IN	_	15	prep	_	O
+18	Russia	russia	NNP	_	21	poss	_	U-GPE
+19	's	's	POS	_	18	case	_	O
+20	State	state	NNP	pos2=NN	21	compound	_	B-ORG
+21	Duma	duma	NNP	_	17	pobj	_	L-ORG
+22	and	and	CC	_	15	cc	_	O
+23	was	be	VBD	_	24	auxpass	_	O
+24	invited	invite	VBN	_	15	conj	_	O
+25	…	…	NFP	pos2=-LRB-	26	punct	_	O
+26	https://t.co/51FP2ViSFq	#hlink#	ADD	_	24	dobj	_	O
+

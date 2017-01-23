@@ -1,0 +1,21 @@
+1	@Anderso09791611	@anderso0	NN	pos2=NNS	3	compound	_	O
+2	@Holydiver757	@holydiver0	NN	pos2=NNS	3	compound	_	O
+3	@DebraWinters28	@debrawinters0	NN	pos2=NNS	4	compound	_	O
+4	#Hillary	#hillary	NNP	pos2=WDT	5	nsubj	_	U-ORG
+5	lost	lose	VBD	pos2=VBN	12	ccomp	_	O
+6	PA	pa	NNP	pos2=NN	5	dobj	_	U-ORG
+7	because	because	IN	_	9	mark	_	O
+8	#Dems	#dems	NNP	pos2=NNS	9	nsubj	_	U-ORG
+9	voted	vote	VBD	_	5	advcl	_	O
+10	#Trump	#trump	NNP	pos2=IN	11	compound	_	O
+11	Hillary	hillary	NNP	_	12	nsubj	_	U-PERSON
+12	said	say	VBD	_	0	root	_	O
+13	NO	no	DT	pos2=NNP	14	det	_	O
+14	Jobs	job	NNS	pos2=NNPS	20	dep	_	O
+15	for	for	IN	_	14	prep	_	O
+16	#Coal	#coal	NNP	pos2=``	15	pobj	_	O
+17	NO	no	DT	pos2=NNP	18	det	_	O
+18	Jobs	job	NNS	pos2=NNPS	20	dep	_	O
+19	NO	no	DT	pos2=NNP	20	det	_	O
+20	Votes	vote	NNS	pos2=NNPS	12	ccomp	_	O
+

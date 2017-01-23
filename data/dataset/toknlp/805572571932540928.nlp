@@ -1,0 +1,26 @@
+1	@Reince	@reince	NNP	pos2=IN	3	nmod	_	O
+2	Federal	federal	JJ	pos2=NNP	3	nmod	_	O
+3	offices	office	NNS	_	7	nsubj	_	O
+4	as	as	IN	_	3	prep	_	O
+5	POTUS	potus	NNP	pos2=NN	4	pobj	_	U-ORG
+6	"	"	``	pos2=''	7	punct	_	O
+7	NEED	need	VBP	pos2=VB	17	ccomp	_	O
+8	FEDERAL	federal	JJ	pos2=NNP	9	nmod	_	O
+9	REGULATIONS	regulation	NNS	pos2=NNPS	7	dobj	_	O
+10	,	,	,	_	9	punct	_	O
+11	NOT	not	RB	pos2=CC	13	neg	_	O
+12	STATE	state	NN	pos2=NNP	13	compound	_	O
+13	LAWS	law	NNS	pos2=NN	9	appos	_	O
+14	"	"	''	pos2=``	7	punct	_	O
+15	~	~	SYM	pos2=NFP	17	punct	_	O
+16	This	this	DT	pos2=NNP	17	nsubj	_	O
+17	needs	need	VBZ	_	0	root	_	O
+18	to	to	TO	_	19	aux	_	O
+19	change	change	VB	_	17	xcomp	_	O
+20	to	to	IN	_	19	prep	_	O
+21	federal	federal	JJ	_	22	nmod	_	O
+22	rules	rule	NNS	_	20	pobj	_	O
+23	!	!	.	_	17	punct	_	O
+
+1	https://t.co/bozz1PJGyy	#hlink#	ADD	_	0	root	_	U-ORG
+

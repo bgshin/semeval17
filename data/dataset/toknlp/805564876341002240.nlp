@@ -1,0 +1,15 @@
+1	.	.	.	_	0	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	reason	reason	NN	_	12	nsubj	_	O
+3	why	why	WRB	_	6	advmod	_	O
+4	animal	animal	NN	_	5	compound	_	O
+5	testing	testing	NN	_	6	nsubj	_	O
+6	is	be	VBZ	_	2	relcl	_	O
+7	a	a	DT	_	11	det	_	O
+8	morally	morally	RB	_	9	advmod	_	O
+9	bankrupt	bankrupt	JJ	_	11	nmod	_	O
+10	stance	stance	NN	_	11	compound	_	O
+11	#CambridgeKillers	#cambridgekillers	NNS	pos2=ADD	6	attr	_	O
+12	https://t.co/SpZBSjR6UO	#hlink#	ADD	_	0	root	_	O
+

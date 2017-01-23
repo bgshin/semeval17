@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det	_	O
+2	numbers	number	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	7	ccomp	_	O
+4	in	in	IN	_	3	prep	_	O
+5	:	:	:	_	4	punct	_	O
+6	#Trump	#trump	NNP	pos2=WP	7	nsubj	_	U-GPE
+7	wins	win	VBZ	pos2=NNS	0	root	_	O
+8	Michigan	michigan	NNP	_	7	dobj	_	U-GPE
+9	by	by	IN	_	7	prep	_	O
+10	10,704	0	CD	_	9	pobj	_	B-CARDINAL
+11	https://t.co/jIBongpPNT	#hlink#	ADD	pos2=NNS	17	nmod	_	L-CARDINAL
+12	#tcot	#tcot	-RRB-	pos2=IN	11	punct	_	O
+13	#uniteblue	#uniteblue	UH	pos2=VB	7	discourse	_	O
+14	#trumpwon	#trumpwon	UH	pos2=GW	7	discourse	_	O
+15	#maga	#maga	UH	pos2=GW	7	discourse	_	O
+16	…	…	NFP	pos2=-LRB-	17	punct	_	O
+17	https://t.co/Keux9y23Qx	#hlink#	ADD	_	7	dobj	_	O
+

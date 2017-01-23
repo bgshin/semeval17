@@ -1,0 +1,14 @@
+1	@V_of_Europe	@v_of_europe	ADD	pos2=XX	5	nsubj	_	O
+2	@Euro_Faschismus	@euro_faschismus	ADD	pos2=NN	5	nsubj	_	O
+3	@MLP_officiel	@mlp_officiel	NNP	pos2=IN	4	compound	_	O
+4	France	france	NNP	_	2	pobj	_	U-GPE
+5	is	be	VBZ	_	0	root	_	O
+6	next	next	JJ	pos2=RB	5	acomp	_	O
+7	.	.	.	_	5	punct	_	O
+
+1	Vive	vive	NNP	pos2=FW	4	compound	_	B-PERSON
+2	Marine	marine	NNP	_	4	compound	_	I-PERSON
+3	Le	le	NNP	_	4	compound	_	I-PERSON
+4	Pen	pen	NNP	_	0	root	_	L-PERSON
+5	!	!	.	_	4	punct	_	O
+

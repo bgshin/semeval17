@@ -1,0 +1,18 @@
+1	siri	siri	NN	pos2=VB	6	vocative	_	O
+2	how	how	WRB	_	6	advmod	_	O
+3	did	do	VBD	_	6	aux	_	O
+4	david	david	NNP	pos2=FW	5	compound	_	B-PERSON
+5	blaine	blaine	NNP	pos2=NN	6	nsubj	_	L-PERSON
+6	stab	stab	VB	pos2=VBD	0	root	_	O
+7	an	an	DT	_	9	det	_	O
+8	ice	ice	NN	_	9	compound	_	O
+9	pick	pick	NN	pos2=VB	6	dobj	_	O
+10	through	through	IN	_	6	prep	_	O
+11	his	his	PRP$	_	12	poss	_	O
+12	hand	hand	NN	_	10	pobj	_	O
+13	without	without	IN	_	6	prep	_	O
+14	any	any	DT	_	17	det	_	O
+15	lasting	last	VBG	pos2=JJ	17	nmod	_	O
+16	nerve	nerve	NN	_	17	compound	_	O
+17	damage	damage	NN	_	13	pobj	_	O
+

@@ -1,0 +1,22 @@
+1	Congratulations	congratulation	NNS	_	0	root	_	O
+2	new	new	JJ	_	4	nmod	_	O
+3	appointed	appoint	VBN	pos2=JJ	0	root	_	O
+4	president	president	NN	pos2=FW	10	compound	_	O
+5	cbc	cbc	NN	pos2=FW	6	compound	_	O
+6	ward	ward	NN	pos2=FW	3	oprd	_	O
+7	2	0	CD	_	6	npadvmod	_	U-CARDINAL
+8	Mazher	mazher	NNP	_	10	compound	_	O
+9	Ali	ali	NNP	_	10	compound	_	B-PERSON
+10	Awan	awan	NNP	_	13	nsubj	_	L-PERSON
+11	and	and	CC	_	10	cc	_	O
+12	ward	ward	NN	pos2=VB	10	conj	_	O
+13	3	0	CD	pos2=NNP	0	root	_	U-CARDINAL
+14	Agha	agha	NNP	_	18	compound	_	B-PERSON
+15	Zulfiqar	zulfiqar	NNP	_	18	compound	_	I-PERSON
+16	Muhammad	muhammad	NNP	_	18	compound	_	I-PERSON
+17	Salman	salman	NNP	_	18	compound	_	I-PERSON
+18	Khan	khan	NNP	_	12	dobj	_	L-PERSON
+19	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/ZD4e90IuW8	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,21 @@
+1	Lady	lady	NNP	pos2=NN	2	compound	_	O
+2	Gaga	gaga	NNP	_	12	nsubj	_	O
+3	On	on	IN	pos2=NNP	2	prep	_	O
+4	Melania	melania	NNP	_	7	poss	_	U-PERSON
+5	's	's	POS	_	4	case	_	O
+6	Anti-Bully	anti-bully	NNP	pos2=JJ	7	compound	_	O
+7	Speech	speech	NN	pos2=NNP	3	pobj	_	O
+8	:	:	:	_	2	punct	_	O
+9	‘	'	''	pos2=``	2	punct	_	O
+10	Your	your	PRP$	_	11	poss	_	O
+11	Husband	husband	NN	_	12	nsubj	_	O
+12	Is	be	VBZ	_	0	root	_	O
+13	1	0	CD	pos2=NN	12	attr	_	U-CARDINAL
+14	Of	of	IN	_	13	prep	_	O
+15	The	the	DT	_	18	det	_	O
+16	Most	most	RBS	pos2=NNP	17	advmod	_	O
+17	Notorious	notorious	JJ	pos2=NNP	20	nmod	_	O
+18	Bullies	bully	NNPS	pos2=NNS	20	poss	_	U-NORP
+19	'	'	POS	pos2=''	18	case	_	O
+20	https://t.co/5E7hX0kvov	#hlink#	ADD	pos2=NN	14	pobj	_	O
+

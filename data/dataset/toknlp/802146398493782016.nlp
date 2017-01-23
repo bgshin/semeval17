@@ -1,0 +1,13 @@
+1	Latest	late	JJS	pos2=NN	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	Kate	kate	NNP	_	4	compound	_	B-PERSON
+4	Upton	upton	NNP	_	5	nsubj	_	L-PERSON
+5	clarifies	clarify	VBZ	_	0	root	_	O
+6	her	her	PRP$	pos2=PRP	10	poss	_	O
+7	NSFW	nsfw	NNP	pos2=NN	8	nmod	_	O
+8	Cy	cy	NNP	pos2=IN	10	nmod	_	O
+9	Young	young	JJ	pos2=NNP	10	nmod	_	O
+10	rant	rant	NN	_	5	dobj	_	O
+11	https://t.co/j18fdcjIwx	#hlink#	ADD	pos2=NN	10	appos	_	O
+12	#Sport	#sport	-RRB-	pos2=NNP	5	punct	_	O
+

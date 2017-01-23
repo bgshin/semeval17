@@ -1,0 +1,23 @@
+1	@sterlingwords1	@sterlingwords0	NN	pos2=LS	2	compound	_	O
+2	@S_Cooper0404	@s_cooper0	NNS	pos2=LS	3	nsubj	_	O
+3	Get	get	VB	pos2=VBP	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	$	$	$	pos2=NN	2	appos	_	O
+6	from	from	IN	_	5	prep	_	O
+7	Clinton	clinton	NNP	_	8	compound	_	U-ORG
+8	foundation	foundation	NN	pos2=NNP	6	pobj	_	O
+9	?	?	.	_	3	punct	_	O
+
+1	How	how	WRB	_	2	advmod	_	O
+2	appropriate	appropriate	JJ	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Islamic	islamic	JJ	_	5	nmod	_	U-NORP
+2	anti	anti	AFX	pos2=JJ	3	advmod	_	O
+3	human	human	JJ	pos2=NN	4	nmod	_	O
+4	rights	right	NNS	_	5	compound	_	O
+5	buddies	buddy	NNS	_	6	nsubj	_	O
+6	contributed	contribute	VBD	pos2=VBN	0	root	_	O
+7	to	to	IN	_	6	prep	_	O
+8	it	it	PRP	_	7	pobj	_	O
+

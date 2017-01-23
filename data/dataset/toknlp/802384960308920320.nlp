@@ -1,0 +1,14 @@
+1	@ConniChr	@connichr	NNP	pos2=PRP	3	nsubj	_	U-ORG
+2	would	would	MD	_	3	aux	_	O
+3	swap	swap	VB	_	0	root	_	O
+4	our	our	PRP$	_	5	poss	_	O
+5	deplorables	deplorables	NNS	pos2=NN	3	dobj	_	O
+6	for	for	IN	_	3	prep	_	O
+7	him	him	PRP	pos2=CD	8	nmod	_	O
+8	anyday	anyday	NN	_	6	pobj	_	O
+9	...	..	.	pos2=,	3	punct	_	O
+
+1	:)	:)	NFP	_	2	discourse	_	O
+2	:)	:)	NFP	_	0	root	_	O
+3	:)	:)	NFP	_	1	discourse	_	O
+

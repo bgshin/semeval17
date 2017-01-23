@@ -1,0 +1,9 @@
+1	@devreal	@devreal	UH	pos2=XX	7	discourse	_	O
+2	@VeryAngryHobbit	@veryangryhobbit	ADD	pos2=NN	7	vocative	_	O
+3	@leapgerbils	@leapgerbils	UH	pos2=NNS	7	discourse	_	O
+4	@Telecaster58	@telecaster0	NN	pos2=NNP	7	npadvmod	_	O
+5	Dem	dem	NNP	pos2=NN	6	compound	_	U-PERSON
+6	drone	drone	NN	_	7	nsubj	_	O
+7	strikes	strike	VBZ	pos2=NNS	0	root	_	O
+8	doe	doe	NN	pos2=FW	7	dobj	_	O
+

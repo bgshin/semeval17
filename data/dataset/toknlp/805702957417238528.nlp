@@ -1,0 +1,34 @@
+1	Been	be	VBN	pos2=NNP	3	aux	_	O
+2	"	"	``	_	3	punct	_	O
+3	growing	grow	VBG	_	0	root	_	O
+4	"	"	''	_	3	punct	_	O
+5	for	for	IN	_	3	prep	_	O
+6	tens	#crd#	NNS	_	5	pobj	_	B-DATE
+7	of	of	IN	_	6	prep	_	I-DATE
+8	years	year	NNS	_	7	pobj	_	L-DATE
+9	.	.	.	_	3	punct	_	O
+
+1	Look	look	VB	_	0	root	_	O
+2	around	around	RB	_	1	advmod	_	O
+3	,	,	,	_	1	punct	_	O
+4	see	see	VB	_	1	dep	_	O
+5	the	the	DT	_	6	det	_	O
+6	areas	area	NNS	_	4	dobj	_	O
+7	blighted	blight	VBN	_	6	acl	_	O
+8	by	by	IN	_	7	agent	_	O
+9	mass	mass	NN	pos2=JJ	10	compound	_	O
+10	immigration	immigration	NN	_	8	pobj	_	O
+11	.	.	.	_	1	punct	_	O
+
+1	Blighted	blight	VBN	pos2=JJ	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	ALL	all	DT	pos2=NNP	2	pobj	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	Oh	oh	UH	_	4	discourse	_	O
+2	btw	btw	RB	pos2=UH	4	advmod	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	AM	be	VBP	_	0	root	_	O
+5	…	…	NFP	pos2=VBG	4	discourse	_	O
+6	https://t.co/eyN1OVgpN7	#hlink#	ADD	_	4	dep	_	O
+

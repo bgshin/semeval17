@@ -1,0 +1,10 @@
+1	#RetailBroadway	#retailbroadway	NNP	pos2=NN	2	compound	_	B-ORG
+2	Target	target	NNP	pos2=NN	0	root	_	L-ORG
+3	of	of	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	Opera	opera	NNP	_	3	pobj	_	U-ORG
+6	(	(	-LRB-	_	8	punct	_	O
+7	Mike	mike	NNP	_	8	compound	_	B-PERSON
+8	Pence	penny	NNP	_	5	appos	_	L-PERSON
+9	)	)	-RRB-	_	2	punct	_	O
+

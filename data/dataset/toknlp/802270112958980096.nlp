@@ -1,0 +1,14 @@
+1	Manchester	manchester	NNP	_	7	compound	_	B-ORG
+2	United	united	NNP	_	4	compound	_	I-ORG
+3	–	-	HYPH	pos2=:	4	punct	_	I-ORG
+4	West	west	NNP	_	5	compound	_	I-ORG
+5	Ham	ham	NNP	_	7	compound	_	I-ORG
+6	United	united	NNP	_	7	compound	_	L-ORG
+7	Tipp	tipp	NNP	_	9	dep	_	O
+8	27.11.2016	0	CD	_	9	dep	_	O
+9	https://t.co/XCt8QweRTy	#hlink#	ADD	_	0	root	_	O
+10	#sportwetten	#sportwetten	-RRB-	pos2=ADD	9	punct	_	O
+11	#bonus	#bonus	FW	pos2=UH	9	npadvmod	_	O
+12	#wetttipps	#wetttipps	UH	pos2=FW	9	discourse	_	O
+13	#wettbonus	#wettbonus	UH	pos2=FW	9	discourse	_	O
+

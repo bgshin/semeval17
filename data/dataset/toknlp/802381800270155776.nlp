@@ -1,0 +1,26 @@
+1	Yes	yes	UH	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	What	what	WP	_	2	attr	_	O
+2	was	be	VBD	_	5	aux	_	O
+3	the	the	DT	_	4	det	_	O
+4	deal	deal	NN	_	5	nsubj	_	O
+5	going	go	VBG	_	0	root	_	O
+6	on	on	RP	pos2=IN	5	prt	_	O
+7	inside	inside	RB	pos2=IN	5	advmod	_	O
+8	?	?	.	_	5	punct	_	O
+
+1	How	how	WRB	_	4	advmod	_	O
+2	did	do	VBD	_	4	aux	_	O
+3	Rudy	rudy	NNP	_	4	nsubj	_	U-PERSON
+4	know	know	VB	_	0	root	_	O
+5	about	about	IN	_	4	prep	_	O
+6	the	the	DT	_	10	det	_	O
+7	FBI	fbi	NNP	_	10	nmod	_	U-ORG
+8	leak	leak	NN	_	10	nmod	_	O
+9	/	/	SYM	pos2=HYPH	10	punct	_	O
+10	release	release	NN	pos2=VB	5	pobj	_	O
+11	?	?	.	_	4	punct	_	O
+
+1	https://t.co/aN060knewj	#hlink#	ADD	_	0	root	_	U-ORG
+

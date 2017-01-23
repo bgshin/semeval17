@@ -1,0 +1,22 @@
+1	Feels	feel	VBZ	_	0	root	_	O
+2	weird	weird	JJ	_	1	acomp	_	O
+3	hearing	hear	VBG	pos2=NN	1	xcomp	_	O
+4	it	it	PRP	_	3	dobj	_	O
+5	again	again	RB	_	3	advmod	_	O
+6	after	after	IN	pos2=RB	3	prep	_	O
+7	all	all	PDT	_	9	predet	_	B-DATE
+8	these	these	DT	_	9	det	_	I-DATE
+9	years	year	NNS	_	6	pobj	_	L-DATE
+10	.	.	.	_	1	punct	_	O
+
+1	So	so	RB	_	2	advmod	_	O
+2	many	many	JJ	_	4	nmod	_	O
+3	new	new	JJ	_	4	nmod	_	O
+4	targets	target	NNS	_	0	root	_	O
+5	for	for	IN	_	8	mark	_	O
+6	conservatives	conservative	NNS	_	8	nsubj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	go	go	VB	_	4	relcl	_	O
+9	for	for	IN	_	8	prep	_	O
+10	...	..	.	pos2=NFP	4	punct	_	O
+

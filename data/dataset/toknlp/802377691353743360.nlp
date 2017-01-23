@@ -1,0 +1,23 @@
+1	Hillary	hillary	NNP	_	2	compound	_	B-PERSON
+2	Clinton	clinton	NNP	_	4	nsubj	_	L-PERSON
+3	is	be	VBZ	_	4	aux	_	O
+4	wishing	wish	VBG	_	22	ccomp	_	O
+5	Wisconsin	wisconsin	NNP	_	4	dobj	_	U-GPE
+6	were	be	VBD	_	4	ccomp	_	O
+7	a	a	DT	_	10	det	_	O
+8	Clinton	clinton	NNP	_	9	compound	_	B-ORG
+9	Foundation	foundation	NNP	_	10	compound	_	L-ORG
+10	donor	donor	NN	_	6	attr	_	O
+11	-	-	:	pos2=HYPH	22	punct	_	O
+12	a	a	DT	_	14	det	_	O
+13	foreign	foreign	JJ	_	14	nmod	_	O
+14	state	state	NN	_	10	appos	_	O
+15	that	that	WDT	_	17	nsubj	_	O
+16	would	would	MD	_	17	aux	_	O
+17	serve	serve	VB	_	14	relcl	_	O
+18	her	her	PRP	_	17	dobj	_	O
+19	on	on	IN	_	17	prep	_	O
+20	silver	silver	NN	_	21	compound	_	O
+21	platter	platter	NN	_	19	pobj	_	O
+22	#RecounttheVote	#recountthevote	ADD	pos2=NN	0	root	_	O
+

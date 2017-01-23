@@ -1,0 +1,26 @@
+1	For	for	IN	_	22	prep	_	O
+2	anyone	anyone	NN	_	1	pobj	_	O
+3	that	that	WDT	pos2=DT	4	nsubj	_	O
+4	's	's	VBZ	_	2	relcl	_	O
+5	not	not	RB	_	4	neg	_	O
+6	clear	clear	JJ	_	4	acomp	_	O
+7	on	on	IN	_	4	prep	_	O
+8	the	the	DT	_	11	det	_	O
+9	Dakota	dakota	NNP	_	11	compound	_	O
+10	Access	access	NNP	_	11	compound	_	O
+11	Pipeline	pipeline	NNP	pos2=NN	7	pobj	_	O
+12	-	-	,	pos2=:	11	punct	_	O
+13	and	and	CC	_	11	cc	_	O
+14	the	the	DT	_	17	det	_	O
+15	Native	native	JJ	_	17	nmod	_	B-NORP
+16	American	american	JJ	_	17	nmod	_	L-NORP
+17	protest	protest	NN	_	22	nsubj	_	O
+18	against	against	IN	_	17	prep	_	O
+19	it	it	PRP	pos2=RB	18	pobj	_	O
+20	-	-	HYPH	pos2=,	21	punct	_	O
+21	here	here	RB	_	22	advmod	_	O
+22	's	's	VBZ	pos2=AFX	0	root	_	O
+23	...	..	.	pos2=,	22	punct	_	O
+
+1	https://t.co/G556ON4vp0	#hlink#	ADD	_	0	root	_	U-ORG
+

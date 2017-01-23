@@ -1,0 +1,16 @@
+1	@truthglow	@truthglow	UH	pos2=XX	8	discourse	_	O
+2	@katalin_pota	@katalin_pota	UH	pos2=GW	8	discourse	_	O
+3	@BasemntDwllng	@basemntdwllng	VBG	pos2=UH	4	nmod	_	O
+4	@SenWarren2020	@senwarren0	NN	pos2=ADD	8	nsubj	_	O
+5	@elizabethforma	@elizabethforma	UH	pos2=FW	8	discourse	_	O
+6	@SenatorWarren	@senatorwarren	NNP	pos2=VBN	7	nmod	_	U-PERSON
+7	$	$	$	pos2=-RRB-	8	nsubj	_	O
+8	wants	want	VBZ	_	0	root	_	O
+9	America	america	NNP	_	11	nsubj	_	U-GPE
+10	to	to	TO	_	11	aux	_	O
+11	wait	wait	VB	_	8	ccomp	_	O
+12	&	&	CC	_	11	cc	_	O
+13	F**k	f**k	NNP	pos2=XX	14	compound	_	O
+14	Warren	warren	NNP	_	10	pobj	_	O
+15	,,,,	,,	,	pos2=.	8	punct	_	O
+

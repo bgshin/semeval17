@@ -1,0 +1,15 @@
+1	Watch	watch	VB	pos2=NNP	0	root	_	O
+2	@BookViewNow	@bookviewnow	NNP	pos2=XX	4	poss	_	U-ORG
+3	's	's	POS	_	2	case	_	O
+4	interviews	interview	NNS	_	1	dobj	_	O
+5	with	with	IN	_	4	prep	_	O
+6	#NBAwards	#nbawards	NNP	pos2=``	7	compound	_	B-ORG
+7	Finalists	finalist	NNPS	pos2=NNS	5	pobj	_	L-ORG
+8	and	and	CC	_	7	cc	_	O
+9	other	other	JJ	_	11	nmod	_	O
+10	amazing	amazing	JJ	_	11	nmod	_	O
+11	authors	author	NNS	_	7	conj	_	O
+12	from	from	IN	_	11	prep	_	O
+13	#MiamiBookFair2016	#miamibookfair0	NN	pos2=NNS	12	pobj	_	B-CARDINAL
+14	https://t.co/tcahmCodLN	#hlink#	ADD	pos2=NN	1	dep	_	L-CARDINAL
+

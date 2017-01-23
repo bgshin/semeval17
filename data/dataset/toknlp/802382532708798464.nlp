@@ -1,0 +1,11 @@
+1	Deep	deep	JJ	pos2=NNP	2	nmod	_	O
+2	Learning	learning	NN	pos2=NNP	3	nsubj	_	O
+3	Makes	make	VBZ	pos2=NNP	0	root	_	O
+4	Driverless	driverless	NNP	pos2=JJ	5	compound	_	O
+5	Cars	car	NNPS	pos2=NNS	6	nsubj	_	U-PRODUCT
+6	Better	good	JJR	pos2=RBR	3	ccomp	_	O
+7	at	at	IN	_	6	prep	_	O
+8	Spotting	spot	VBG	pos2=NNP	7	pcomp	_	O
+9	Pedestrians	pedestrian	NNS	pos2=NNPS	8	dobj	_	O
+10	https://t.co/rzFoyMZGjL	#hlink#	ADD	pos2=POS	5	appos	_	O
+

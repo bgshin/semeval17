@@ -1,0 +1,12 @@
+1	Grayson	grayson	NNP	_	2	compound	_	B-PERSON
+2	Allen	allen	NNP	_	3	nsubj	_	L-PERSON
+3	passed	pass	VBD	_	0	root	_	O
+4	Antonio	antonio	NNP	_	5	compound	_	O
+5	Lang	lang	NNP	_	3	dobj	_	O
+6	&	&	CC	_	5	cc	_	O
+7	Andre	andre	NNP	_	8	compound	_	B-PERSON
+8	Dawkins	dawkins	NNP	_	5	conj	_	L-PERSON
+9	into	into	IN	_	3	prep	_	O
+10	62nd	#ord#	JJ	pos2=NN	11	nmod	_	O
+11	#DukeScoringList	#dukescoringlist	NN	pos2=NNP	9	pobj	_	O
+

@@ -1,0 +1,21 @@
+1	London	london	NNP	_	6	nmod	_	O
+2	,	,	,	_	1	punct	_	O
+3	United	united	NNP	_	4	compound	_	O
+4	Kingdom	kingdom	NNP	_	0	root	_	O
+5	|	|	SYM	pos2=HYPH	4	cc	_	O
+6	AFP	afp	NNP	pos2=NN	11	dep	_	B-ORG
+7	|	|	SYM	pos2=:	12	punct	_	I-ORG
+8	Manchester	manchester	NNP	_	9	compound	_	I-ORG
+9	United	united	NNP	_	10	compound	_	L-ORG
+10	manager	manager	NN	_	12	compound	_	O
+11	Jose	jose	NNP	_	12	compound	_	B-PERSON
+12	Mourinho	mourinho	NNP	_	0	root	_	L-PERSON
+13	and	and	CC	_	12	cc	_	O
+14	Real	real	NNP	pos2=JJ	15	compound	_	B-ORG
+15	Madrid	madrid	NNP	_	16	compound	_	L-ORG
+16	superstar	superstar	NN	pos2=NNP	17	compound	_	O
+17	Cristiano	cristiano	NNP	_	12	conj	_	U-PERSON
+18	...	..	.	pos2=,	17	punct	_	O
+
+1	https://t.co/fLqc9v6oCv	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,15 @@
+1	And	and	CC	_	4	cc	_	O
+2	so	so	RB	_	4	advmod	_	O
+3	they	they	PRP	_	4	nsubj	_	O
+4	call	call	VBP	_	0	root	_	O
+5	him	him	PRP	_	4	dobj	_	O
+6	Kim	kim	NNP	_	7	compound	_	B-PERSON
+7	Fatty	fatty	NNP	pos2=JJ	4	oprd	_	L-PERSON
+8	the	the	DT	_	10	det	_	O
+9	Fourth	#ord#	NNP	pos2=JJ	10	compound	_	O
+10	金四胖	金四胖	NNP	pos2=NFP	7	appos	_	O
+11	now	now	RB	_	9	advmod	_	O
+12	https://t.co/LRGCVoronS	#hlink#	ADD	pos2=NNP	14	nmod	_	U-ORG
+13	,	,	,	_	14	punct	_	O
+14	https://t.co/I66mpfI6dI兩岸/54996/內地禁說-金三胖-網民-鑫胖-金四胖-都是你的名字	#hlink#	ADD	pos2=NN	4	dep	_	U-ORG
+

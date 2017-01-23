@@ -1,0 +1,31 @@
+1	@moosehickey	@moosehickey	UH	pos2=XX	5	discourse	_	O
+2	@petestavros	@petestavros	UH	pos2=NNS	5	discourse	_	O
+3	@megynkelly	@megynkelly	PRP$	pos2=``	4	poss	_	O
+4	Face	face	NN	pos2=NNP	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	crooked	crooked	JJ	pos2=VBN	5	acomp	_	O
+7	?	?	.	_	5	punct	_	O
+
+1	Please	please	UH	_	4	discourse	_	O
+2	,	,	,	_	4	punct	_	O
+3	she	she	PRP	_	4	nsubj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	stunning	stunning	JJ	_	4	acomp	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	You	you	PRP	_	3	nsubj	_	O
+2	'd	would	MD	_	3	aux	_	O
+3	crawl	crawl	VB	pos2=NN	0	root	_	O
+4	thru	thru	IN	pos2=RB	3	prep	_	O
+5	3	0	CD	_	6	nmod	_	B-QUANTITY
+6	miles	mile	NNS	_	4	pobj	_	L-QUANTITY
+7	of	of	IN	_	6	prep	_	O
+8	dog	dog	NN	_	9	compound	_	O
+9	poop	poop	NN	_	7	pobj	_	O
+10	for	for	IN	_	3	prep	_	O
+11	10	0	CD	_	12	nmod	_	U-CARDINAL
+12	sec	sec	NNS	pos2=NN	10	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	her	her	PRP$	_	15	poss	_	O
+15	time	time	NN	_	13	pobj	_	O
+

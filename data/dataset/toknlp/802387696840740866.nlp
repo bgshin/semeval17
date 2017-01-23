@@ -1,0 +1,14 @@
+1	Trump	trump	NNP	pos2=NN	3	compound	_	B-ORG
+2	Transition	transition	NNP	pos2=NN	3	compound	_	I-ORG
+3	Team	team	NNP	pos2=NN	4	nsubj	_	L-ORG
+4	Appoints	appoint	VBZ	_	0	root	_	O
+5	2	0	CD	_	4	dobj	_	U-CARDINAL
+6	,	,	,	_	5	punct	_	O
+7	Split	split	VBN	pos2=VB	4	conj	_	O
+8	on	on	IN	_	7	prep	_	O
+9	Secretary	secretary	NNP	_	8	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	State	state	NNP	pos2=GW	10	pobj	_	U-ORG
+12	https://t.co/e29EkdXrqi	#hlink#	ADD	_	13	nmod	_	O
+13	https://t.co/lUOaonCsbt"	#hlink#	ADD	_	4	dep	_	U-ORG
+

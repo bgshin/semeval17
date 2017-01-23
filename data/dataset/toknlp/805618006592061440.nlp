@@ -1,0 +1,18 @@
+1	#Millennial	#millennial	NNP	pos2=XX	3	compound	_	O
+2	Pope	pope	NNP	_	3	compound	_	O
+3	Francis	francis	NNP	_	7	dep	_	U-PERSON
+4	:	:	:	_	7	punct	_	O
+5	Drug	drug	NN	pos2=NNP	6	compound	_	O
+6	Addiction	addiction	NN	pos2=NNP	7	nsubj	_	O
+7	is	be	VBZ	_	0	root	_	O
+8	a	a	DT	_	9	det	_	O
+9	Type	type	NN	_	7	attr	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Slavery	slavery	NNP	pos2=NN	10	pobj	_	O
+12	.	.	.	_	7	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	Blog	blog	NN	pos2=NNP	1	dobj	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/HrCkJKtQwu	#hlink#	ADD	pos2=NN	1	dep	_	O
+

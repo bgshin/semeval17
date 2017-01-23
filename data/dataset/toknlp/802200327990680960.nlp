@@ -1,0 +1,12 @@
+1	@realDonaldTrump	@realdonaldtrump	LS	pos2=NN	0	root	_	U-CARDINAL
+2	.	.	.	_	1	punct	_	O
+
+1	Absolutely	absolutely	RB	_	2	advmod	_	O
+2	ben	ben	JJ	pos2=NNP	3	nmod	_	B-PERSON
+3	carson	carson	NNP	pos2=NN	6	vocative	_	L-PERSON
+4	,	,	,	_	6	punct	_	O
+5	we	we	PRP	_	6	nsubj	_	O
+6	love	love	VBP	_	0	root	_	O
+7	him	him	PRP	_	6	dobj	_	O
+8	.	.	.	_	6	punct	_	O
+

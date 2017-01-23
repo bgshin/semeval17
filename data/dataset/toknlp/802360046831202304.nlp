@@ -1,0 +1,15 @@
+1	The	the	DT	_	8	det	_	O
+2	latest	late	JJS	_	4	nmod	_	O
+3	#NoTPP	#notpp	NNP	pos2=NN	0	root	_	O
+4	Today	today	NN	pos2=NNP	3	npadvmod	_	O
+5	(	(	-LRB-	_	10	punct	_	O
+6	https://t.co/vd7t22SVe7)!	#hlink#	ADD	_	4	appos	_	O
+7	https://t.co/8q31GdFdKS	#hlink#	ADD	pos2=NN	4	appos	_	U-ORG
+8	Thanks	thanks	NNS	pos2=-RRB-	0	root	_	O
+9	to	to	IN	_	8	prep	_	O
+10	@GreenJaneMann	@greenjanemann	NNP	pos2=VB	9	pobj	_	O
+11	@ibiru1234456	@ibiru0	CD	pos2=POS	10	nmod	_	O
+12	@doug_herr	@doug_herr	XX	pos2=ADD	8	prep	_	O
+13	#stoptpp	#stoptpp	UH	pos2=XX	8	discourse	_	O
+14	#tpp	#tpp	UH	pos2=.	8	discourse	_	O
+

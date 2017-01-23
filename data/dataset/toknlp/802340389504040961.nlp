@@ -1,0 +1,16 @@
+1	Birds	bird	NNS	_	2	nsubj	_	O
+2	defeat	defeat	VBP	pos2=VB	0	root	_	O
+3	Tipp	tipp	NNP	_	2	dobj	_	U-PERSON
+4	in	in	IN	_	2	prep	_	O
+5	their	their	PRP$	_	7	poss	_	O
+6	home	home	NN	_	7	compound	_	O
+7	opener	opener	NN	_	4	pobj	_	O
+8	38	0	CD	_	3	nmod	_	U-CARDINAL
+9	-	-	SYM	pos2=HYPH	10	punct	_	O
+10	28	0	CD	_	8	prep	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	#	#	NN	_	2	dep	_	O
+2	1-0	0	LS	pos2=CD	3	meta	_	B-DATE
+3	🏀	🏀	NN	pos2=:	0	root	_	L-DATE
+

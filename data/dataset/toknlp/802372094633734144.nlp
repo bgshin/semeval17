@@ -1,0 +1,14 @@
+1	@FoxNewsSydMUN16	@foxnewssydmun0	NN	pos2=UH	5	vocative	_	O
+2	You	you	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	need	need	VB	_	0	root	_	O
+6	them	them	PRP	_	5	dobj	_	O
+7	when	when	WRB	_	9	advmod	_	O
+8	you	you	PRP	_	9	nsubj	_	O
+9	have	have	VBP	_	5	advcl	_	O
+10	Kim	kim	NNP	_	13	compound	_	B-PERSON
+11	Jong	jong	NNP	_	13	compound	_	I-PERSON
+12	-	-	HYPH	_	13	punct	_	I-PERSON
+13	un	un	NNP	pos2=NN	9	dobj	_	L-PERSON
+

@@ -1,0 +1,18 @@
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=PRP	2	nsubj	_	U-TIME
+2	needs	need	VBZ	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	revamp	revamp	VB	_	2	xcomp	_	O
+5	Obamacare	obamacare	NNP	_	4	dobj	_	O
+6	big	big	JJ	_	7	nmod	_	O
+7	time	time	NN	_	4	npadvmod	_	O
+8	as	as	RB	_	9	advmod	_	O
+9	well	well	RB	_	4	advmod	_	O
+10	!!	!!	.	_	2	punct	_	O
+
+1	Perfect	perfect	JJ	_	2	nmod	_	O
+2	person	person	NN	_	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	job	job	NN	_	3	pobj	_	O
+6	.	.	.	_	2	punct	_	O
+

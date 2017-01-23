@@ -1,0 +1,19 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	on	on	IN	pos2=RB	2	prep	_	O
+4	!	!	.	_	2	punct	_	O
+
+1	>	>	SYM	pos2=NFP	2	punct	_	O
+2	UPDATE	update	NN	_	6	dep	_	O
+3	:	:	:	_	6	punct	_	O
+4	Stein	stein	NNP	_	6	nsubj	_	U-PERSON
+5	Will	will	MD	pos2=NNP	6	aux	_	O
+6	Pay	pay	VB	_	0	root	_	O
+7	For	for	IN	_	6	prep	_	O
+8	Presidential	presidential	JJ	pos2=NNP	9	nmod	_	O
+9	Recount	recount	NN	pos2=NNP	7	pobj	_	O
+10	https://t.co/S4UbdFOwNM	#hlink#	ADD	_	13	dep	_	O
+11	#Recount2016	#recount0	-RRB-	pos2=NN	10	punct	_	O
+12	#wiunion	#wiunion	NN	pos2=ADD	13	compound	_	O
+13	#UniteBlue	#uniteblue	NN	pos2=ADD	8	appos	_	O
+

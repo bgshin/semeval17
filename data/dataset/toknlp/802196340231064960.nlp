@@ -1,0 +1,7 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	really	really	RB	_	3	advmod	_	O
+3	wan	wan	VBP	_	0	root	_	O
+4	na	to	TO	_	5	aux	_	O
+5	watch	watch	VB	_	3	xcomp	_	O
+6	#FantasticBeasts	#fantasticbeasts	NNS	pos2=ADD	5	dobj	_	O
+

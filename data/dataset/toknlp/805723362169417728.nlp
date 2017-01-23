@@ -1,0 +1,24 @@
+1	There	there	EX	_	2	expl	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	not	not	RB	_	2	neg	_	O
+4	much	much	JJ	pos2=RB	7	nmod	_	O
+5	left	left	JJ	_	23	nmod	_	O
+6	4	0	CD	_	7	nmod	_	U-CARDINAL
+7	people	people	NNS	_	2	attr	_	O
+8	in	in	IN	_	7	prep	_	O
+9	Hanano	hanano	NNP	_	10	compound	_	U-GPE
+10	east	east	NN	pos2=RB	12	compound	_	O
+11	#Aleppo	#aleppo	NNP	pos2=XX	12	compound	_	O
+12	@UNICEF	@unicef	NNP	pos2=NN	8	pobj	_	O
+13	&	&	CC	_	12	cc	_	O
+14	@SYRedCrescent	@syredcrescent	JJ	pos2=ADD	15	nmod	_	O
+15	trucking	trucking	NN	_	12	conj	_	O
+16	in	in	IN	_	7	prep	_	O
+17	vital	vital	JJ	_	19	nmod	_	O
+18	safe	safe	JJ	_	19	nmod	_	O
+19	water	water	NN	_	16	pobj	_	O
+20	&	&	CC	_	19	cc	_	O
+21	provi	provi	NN	pos2=GW	19	conj	_	O
+22	…	…	NFP	pos2=-LRB-	23	punct	_	O
+23	https://t.co/m9pLoL15f9	#hlink#	ADD	_	19	appos	_	O
+

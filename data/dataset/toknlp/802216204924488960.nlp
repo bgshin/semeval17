@@ -1,0 +1,32 @@
+1	No	no	UH	pos2=DT	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	After	after	IN	_	18	prep	_	O
+2	the	the	DT	_	3	det	_	O
+3	role	role	NN	_	1	pobj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	your	your	PRP$	_	6	poss	_	O
+6	network	network	NN	_	4	pobj	_	O
+7	in	in	IN	_	3	prep	_	O
+8	spreading	spread	VBG	pos2=NN	7	pcomp	_	O
+9	lies	lie	NNS	pos2=VBZ	8	dobj	_	O
+10	about	about	IN	pos2=RB	8	prep	_	O
+11	#Libya	#libya	NNP	pos2=NNS	10	pobj	_	O
+12	in	in	IN	_	8	prep	_	O
+13	2011	0	CD	_	12	pobj	_	U-DATE
+14	,	,	,	_	18	punct	_	O
+15	you	you	PRP	_	18	nsubj	_	O
+16	do	do	VBP	_	18	aux	_	O
+17	n't	not	RB	_	18	neg	_	O
+18	get	get	VB	_	0	root	_	O
+19	to	to	TO	_	20	aux	_	O
+20	call	call	VB	_	18	xcomp	_	O
+21	out	out	RP	_	20	prt	_	O
+22	"	"	``	_	24	punct	_	O
+23	fake	fake	JJ	_	24	nmod	_	O
+24	news	news	NN	_	20	dobj	_	O
+25	"	"	''	_	24	punct	_	O
+26	or	or	CC	_	18	cc	_	O
+27	…	…	NFP	pos2=-LRB-	28	punct	_	O
+28	https://t.co/lifLdltEri	#hlink#	ADD	_	24	acl	_	U-ORG
+

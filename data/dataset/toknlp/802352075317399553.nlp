@@ -1,0 +1,34 @@
+1	Mooreder	mooreder	NNP	_	11	dep	_	U-PERSON
+2	When	when	WRB	_	5	advmod	_	O
+3	Michael	michael	NNP	_	4	compound	_	B-PERSON
+4	Moore	moore	NNP	_	5	nsubj	_	L-PERSON
+5	picks	pick	VBZ	_	11	advcl	_	O
+6	up	up	RP	pos2=IN	5	prt	_	O
+7	your	your	PRP$	_	8	poss	_	O
+8	cause	cause	NN	_	5	dobj	_	O
+9	,	,	,	_	11	punct	_	O
+10	then	then	RB	_	11	advmod	_	O
+11	wrecks	wreck	VBZ	pos2=NNS	0	root	_	O
+12	you	you	PRP	_	11	dobj	_	O
+13	.	.	.	_	11	punct	_	O
+
+1	"	"	``	pos2=SYM	4	punct	_	O
+2	He	he	PRP	_	4	nsubj	_	O
+3	so	so	RB	_	4	advmod	_	O
+4	called	call	VBD	_	0	root	_	O
+5	out	out	RP	_	4	prt	_	O
+6	the	the	DT	_	7	det	_	O
+7	DNC	dnc	NN	pos2=NNP	4	dobj	_	U-ORG
+8	!	!	.	_	4	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	mooreder	mooreder	WP	pos2=VBN	2	attr	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	tells	tell	VBZ	pos2=VBP	2	ccomp	_	O
+6	ya	ya	PRP	pos2=RP	5	dobj	_	O
+7	!	!	.	_	2	punct	_	O
+8	"	"	''	_	2	punct	_	O
+
+1	#UsefulNewVerbs	#usefulnewverbs	NNS	pos2=ADD	0	root	_	O
+

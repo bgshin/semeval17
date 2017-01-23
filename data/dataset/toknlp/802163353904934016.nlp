@@ -1,0 +1,19 @@
+1	NBC	nbc	NNP	_	3	poss	_	U-ORG
+2	's	's	POS	pos2=AFX	1	case	_	O
+3	#ThisisUs	#thisisus	NNP	pos2=NN	0	root	_	U-ORG
+4	,	,	,	_	3	punct	_	O
+5	a	a	DT	_	6	det	_	O
+6	vision	vision	NN	_	3	appos	_	O
+7	of	of	IN	_	6	prep	_	O
+8	healing	healing	NN	pos2=VBG	7	pobj	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	https	http	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	//	//	NFP	pos2=-LRB-	6	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=,	6	punct	_	O
+6	hi4OLtkxBi	hi0oltkxbi	NN	pos2=NNS	0	root	_	O
+7	via	via	IN	_	6	prep	_	O
+8	@BostonGlobe	@bostonglobe	NN	pos2=NNP	7	pobj	_	O
+

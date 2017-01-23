@@ -1,0 +1,24 @@
+1	@thehill	@thehill	UH	pos2=RB	18	discourse	_	O
+2	@realDonaldTrump	@realdonaldtrump	NN	pos2=VB	18	nsubj	_	O
+3	@mike_pence	@mike_pence	NNP	pos2=DT	5	compound	_	B-PERSON
+4	Way	way	NNP	pos2=NN	5	compound	_	I-PERSON
+5	Romney	romney	NNP	_	6	nsubj	_	L-PERSON
+6	talked	talk	VBD	_	2	relcl	_	O
+7	about	about	IN	pos2=RB	6	prep	_	B-PERCENT
+8	98	0	CD	_	9	nmod	_	I-PERCENT
+9	%	%	NN	_	7	pobj	_	L-PERCENT
+10	that	that	WDT	pos2=DT	13	nsubj	_	O
+11	does	do	VBZ	_	13	aux	_	O
+12	not	not	RB	_	13	neg	_	O
+13	have	have	VB	_	9	relcl	_	O
+14	wealth	wealth	NN	_	13	dobj	_	O
+15	like	like	IN	_	13	discourse	_	O
+16	him	him	PRP	_	15	pobj	_	O
+17	will	will	MD	_	18	aux	_	O
+18	turn	turn	VB	_	0	root	_	O
+19	into	into	IN	_	18	prep	_	O
+20	a	a	DT	_	21	det	_	O
+21	nightmare	nightmare	NN	_	19	pobj	_	O
+22	for	for	IN	_	21	prep	_	O
+23	People	people	NNS	pos2=NNP	22	pobj	_	O
+

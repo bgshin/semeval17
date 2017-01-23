@@ -1,0 +1,15 @@
+1	V	v	NN	pos2=PRP	11	dep	_	O
+2	happy	happy	JJ	_	1	nmod	_	O
+3	to	to	TO	_	4	aux	_	O
+4	go	go	VB	_	2	xcomp	_	O
+5	back	back	RB	_	4	advmod	_	O
+6	to	to	IN	_	5	prep	_	O
+7	vegetarianism	vegetarianism	NN	_	6	pobj	_	O
+8	,	,	,	_	11	punct	_	O
+9	vegan	vegan	JJ	_	10	nmod	_	O
+10	life	life	NN	_	11	nsubj	_	O
+11	was	be	VBD	_	0	root	_	O
+12	not	not	RB	_	11	neg	_	O
+13	the	the	DT	_	14	det	_	O
+14	one✌🏼️🐷🐮🐔🐤🐥	one✌🏼️🐷🐮🐔🐤🐥	NNP	pos2=NN	11	attr	_	U-ORG
+

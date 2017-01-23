@@ -1,0 +1,39 @@
+1	@golennox	@golennox	``	pos2=NNP	19	punct	_	O
+2	Random	random	JJ	pos2=NNP	3	nmod	_	O
+3	factoid	factoid	NN	_	19	dep	_	O
+4	from	from	IN	_	3	prep	_	O
+5	my	my	PRP$	_	6	poss	_	O
+6	brain	brain	NN	_	4	pobj	_	O
+7	:	:	:	_	19	punct	_	O
+8	Ovechkin	ovechkin	NNP	_	17	nmod	_	O
+9	05	0	CD	_	11	qmod	_	U-CARDINAL
+10	-	-	SYM	pos2=HYPH	11	punct	_	O
+11	11	0	CD	_	12	nmod	_	O
+12	goals	goal	NNS	_	17	nmod	_	O
+13	-	-	HYPH	pos2=:	12	punct	_	O
+14	to	to	IN	pos2=TO	12	prep	_	O
+15	-	-	HYPH	_	14	punct	_	O
+16	assists	assist	NNS	_	17	nmod	_	O
+17	ratio	ratio	NN	_	19	nsubj	_	O
+18	=	=	SYM	_	19	punct	_	O
+19	0.96	0	CD	pos2=LS	0	root	_	U-CARDINAL
+20	.	.	.	_	19	punct	_	O
+
+1	11	0	CD	pos2=LS	0	root	_	U-CARDINAL
+2	-	-	SYM	pos2=HYPH	3	punct	_	O
+3	17	0	CD	_	1	prep	_	O
+4	?	?	.	_	1	punct	_	O
+
+1	1.79	0	CD	pos2=LS	0	root	_	U-CARDINAL
+2	!	!	.	pos2=,	1	punct	_	O
+
+1	He	he	PRP	_	3	nsubjpass	_	O
+2	's	's	VBZ	_	3	auxpass	_	O
+3	turned	turn	VBN	_	0	root	_	O
+4	into	into	IN	_	3	prep	_	O
+5	a	a	DT	_	8	det	_	O
+6	Cy	cy	NNP	pos2=NN	7	compound	_	O
+7	Young	young	NNP	pos2=JJ	8	compound	_	O
+8	pitcher	pitcher	NN	_	4	pobj	_	O
+9	.	.	.	_	3	punct	_	O
+

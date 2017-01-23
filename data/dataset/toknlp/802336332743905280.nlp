@@ -1,0 +1,31 @@
+1	Paul	paul	NNP	_	2	compound	_	B-PERSON
+2	Ryan	ryan	NNP	_	4	nsubj	_	L-PERSON
+3	is	be	VBZ	_	4	aux	_	O
+4	attacking	attack	VBG	_	0	root	_	O
+5	food	food	NN	_	6	compound	_	O
+6	stamps	stamp	NNS	_	4	dobj	_	O
+7	,	,	,	_	6	punct	_	O
+8	Medicare	medicare	NNP	_	6	appos	_	U-ORG
+9	,	,	,	_	8	punct	_	O
+10	Medicaid	medicaid	NNP	_	8	conj	_	U-ORG
+11	,	,	,	_	10	punct	_	O
+12	ACA	aca	NNP	pos2=NN	10	conj	_	U-ORG
+13	,	,	,	_	12	punct	_	O
+14	Social	social	NNP	_	15	compound	_	B-ORG
+15	Security	security	NNP	_	12	conj	_	L-ORG
+16	.	.	.	_	4	punct	_	O
+
+1	This	this	DT	_	4	nsubj	_	O
+2	in	in	IN	_	4	prep	_	O
+3	fact	fact	NN	_	2	pobj	_	O
+4	threatens	threaten	VBZ	_	0	root	_	O
+5	lives	life	NNS	pos2=VBZ	4	dobj	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	This	this	DT	_	4	nsubjpass	_	O
+2	must	must	MD	_	4	aux	_	O
+3	be	be	VB	_	4	auxpass	_	O
+4	stopped	stop	VBN	_	0	root	_	O
+5	now	now	RB	_	4	advmod	_	O
+6	.	.	.	_	4	punct	_	O
+

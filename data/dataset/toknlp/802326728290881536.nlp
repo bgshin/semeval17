@@ -1,0 +1,11 @@
+1	Does	do	VBZ	_	3	aux	_	O
+2	anyone	anyone	NN	_	3	nsubj	_	O
+3	care	care	VB	pos2=NN	0	root	_	O
+4	what	what	WP	pos2=WDT	7	dobj	_	O
+5	Michael	michael	NNP	_	6	compound	_	B-PERSON
+6	Moore	moore	NNP	_	7	nsubj	_	L-PERSON
+7	thinks	think	VBZ	_	3	ccomp	_	O
+8	?	?	.	_	3	punct	_	O
+
+1	https://t.co/mKjnzUtGjh	#hlink#	ADD	_	0	root	_	U-ORG
+

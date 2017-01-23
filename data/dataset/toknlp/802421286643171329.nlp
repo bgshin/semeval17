@@ -1,0 +1,10 @@
+1	@wfnx1990	@wfnx0	NN	pos2=LS	2	compound	_	O
+2	Pity	pity	NN	pos2=NNP	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	conservatives	conservative	NNS	_	1	dobj	_	O
+5	in	in	IN	_	4	prep	_	O
+6	SF	sf	NNP	pos2=NN	5	pobj	_	U-GPE
+7	!	!	.	_	2	punct	_	O
+
+1	Lol	lol	UH	pos2=NNP	0	root	_	O
+

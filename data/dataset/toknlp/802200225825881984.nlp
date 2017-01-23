@@ -1,0 +1,20 @@
+1	Listening	listen	VBG	_	11	advcl	_	O
+2	to	to	IN	pos2=TO	1	prep	_	O
+3	@MarkSteynOnline	@marksteynonline	NNP	pos2=VB	2	pobj	_	U-ORG
+4	hosting	host	VBG	_	1	advcl	_	O
+5	for	for	IN	_	4	prep	_	O
+6	Limbaugh	limbaugh	NNP	_	5	pobj	_	U-PERSON
+7	:	:	:	_	11	punct	_	O
+8	the	the	DT	_	9	det	_	O
+9	#DNC	#dnc	NNP	pos2=NN	11	nsubj	_	U-ORG
+10	has	have	VBZ	_	11	aux	_	O
+11	reclassified	reclassify	VBN	_	0	root	_	O
+12	#feelthebern	#feelthebern	FW	pos2=ADD	11	advmod	_	O
+13	and	and	CC	_	11	cc	_	O
+14	Howard	howard	NNP	_	15	compound	_	B-PERSON
+15	Dean	dean	NNP	_	10	dobj	_	L-PERSON
+16	as	as	IN	_	15	prep	_	O
+17	white	white	JJ	_	18	nmod	_	O
+18	supremacists	supremacist	NNS	_	16	pobj	_	O
+19	.	.	.	_	11	punct	_	O
+

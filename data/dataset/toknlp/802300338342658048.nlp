@@ -1,0 +1,18 @@
+1	@DMC_Ryan	@dmc_ryan	NN	pos2=NNS	0	root	_	U-DATE
+2	On	on	IN	_	1	prep	_	O
+3	Model	model	NN	pos2=NNP	5	nmod	_	O
+4	3	0	CD	_	3	nmod	_	U-CARDINAL
+5	delivery	delivery	NN	_	2	pobj	_	O
+6	...	..	.	pos2=,	1	punct	_	O
+
+1	One	#crd#	CD	_	2	nmod	_	U-CARDINAL
+2	man	man	NN	_	4	poss	_	O
+3	's	's	POS	_	2	case	_	O
+4	opinion	opinion	NN	_	0	root	_	O
+5	,	,	,	_	4	punct	_	O
+6	but	but	CC	_	4	cc	_	O
+7	yikes	yikes	NNS	pos2=UH	4	conj	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	https://t.co/IYBxQwsBxC	#hlink#	ADD	_	0	root	_	U-ORG
+

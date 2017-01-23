@@ -1,0 +1,27 @@
+1	@Hard_Specs	@hard_specs	NNS	pos2=XX	0	qmod	_	O
+2	What	what	WP	pos2=WDT	8	dobj	_	O
+3	else	else	RB	_	2	advmod	_	O
+4	are	be	VBP	_	6	aux	_	O
+5	we	we	PRP	_	6	nsubj	_	O
+6	going	go	VBG	_	1	ccomp	_	O
+7	to	to	TO	_	8	aux	_	O
+8	get	get	VB	_	6	xcomp	_	O
+9	out	out	IN	_	8	prep	_	O
+10	of	of	IN	_	9	prep	_	O
+11	Brexit	brexit	NNP	pos2=NN	10	pobj	_	U-ORG
+12	but	but	CC	_	6	cc	_	O
+13	immigration	immigration	NN	pos2=NNP	6	conj	_	O
+14	?	?	.	_	1	punct	_	O
+
+1	Nothing	nothing	NN	_	3	nsubj	_	O
+2	else	else	RB	pos2=JJ	1	advmod	_	O
+3	seems	seem	VBZ	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	be	be	VB	_	3	xcomp	_	O
+6	on	on	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	table	table	NN	_	6	pobj	_	O
+9	any	any	DT	pos2=RB	10	advmod	_	O
+10	more	more	RBR	pos2=JJR	5	advmod	_	O
+11	.	.	.	_	3	punct	_	O
+

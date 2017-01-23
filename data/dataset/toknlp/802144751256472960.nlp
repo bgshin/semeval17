@@ -1,0 +1,31 @@
+1	@MontyWerner1	@montywerner0	NN	pos2=NNS	5	advmod	_	O
+2	Do	do	VBP	pos2=VB	5	aux	_	O
+3	u	u	PRP	pos2=NNS	5	nsubj	_	O
+4	honestly	honestly	RB	_	5	advmod	_	O
+5	think	think	VBP	pos2=VB	0	root	_	O
+6	Romo	romo	NNP	_	7	nsubj	_	U-PERSON
+7	is	be	VBZ	_	5	ccomp	_	O
+8	better	good	JJR	_	7	acomp	_	O
+9	than	than	IN	_	8	prep	_	O
+10	Dak	dak	NNP	_	9	pobj	_	U-PERSON
+11	as	as	IN	_	8	prep	_	O
+12	a	a	DT	_	15	det	_	O
+13	all	all	RB	pos2=DT	14	advmod	_	O
+14	around	around	IN	pos2=RB	11	prep	_	O
+15	qb	qb	NN	pos2=NNS	14	pobj	_	O
+16	?	?	.	_	5	punct	_	O
+
+1	Look	look	VB	_	0	root	_	O
+2	at	at	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	record	record	NN	_	2	pobj	_	O
+5	,	,	,	_	4	punct	_	O
+6	turnovers	turnover	NNS	pos2=VBZ	7	compound	_	O
+7	ratio	ratio	NN	pos2=RB	4	conj	_	O
+8	,	,	,	_	7	punct	_	O
+9	n	n	CC	pos2=NN	7	cc	_	O
+10	where	where	WRB	_	13	advmod	_	O
+11	tony	tony	JJ	pos2=NN	13	nsubjpass	_	O
+12	is	be	VBZ	_	13	auxpass	_	O
+13	seated	seat	VBN	_	1	advcl	_	O
+

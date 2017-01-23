@@ -1,0 +1,17 @@
+1	UN	un	NNP	_	3	compound	_	B-ORG
+2	Security	security	NNP	_	3	compound	_	I-ORG
+3	Council	council	NNP	_	5	nsubj	_	L-ORG
+4	to	to	TO	_	5	aux	_	O
+5	vote	vote	VB	_	0	root	_	O
+6	Monday	monday	NNP	_	5	npadvmod	_	U-DATE
+7	on	on	IN	pos2=RB	5	prep	_	O
+8	proposed	propose	VBN	pos2=JJ	9	nmod	_	O
+9	ceasefire	ceasefire	NN	_	7	pobj	_	O
+10	in	in	IN	_	9	prep	_	O
+11	Syria	syria	NNP	_	13	poss	_	U-GPE
+12	's	's	POS	_	11	case	_	O
+13	Aleppo	aleppo	NNP	_	10	pobj	_	U-GPE
+14	.	.	.	_	12	punct	_	O
+
+1	https://t.co/9Etm2xgRjQ	#hlink#	ADD	_	0	root	_	U-ORG
+

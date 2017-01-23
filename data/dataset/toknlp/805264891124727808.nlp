@@ -1,0 +1,19 @@
+1	Sure	sure	UH	pos2=RB	5	discourse	_	O
+2	-	-	:	pos2=HYPH	5	punct	_	O
+3	enough	enough	RB	pos2=JJ	5	advmod	_	O
+4	positively	positively	RB	_	5	advmod	_	O
+5	get	get	VB	pos2=VBP	0	root	_	O
+6	an	an	DT	_	9	det	_	O
+7	earful	earful	NN	pos2=JJ	8	compound	_	O
+8	vegetarianism	vegetarianism	NN	_	9	compound	_	O
+9	loans	loan	NNS	pos2=VBZ	5	dobj	_	O
+10	wavelike	wavelike	JJ	_	9	nmod	_	O
+11	among	among	IN	_	10	prep	_	O
+12	miserable	miserable	JJ	_	14	nmod	_	O
+13	notation	notation	NN	_	14	compound	_	O
+14	list	list	NN	_	11	pobj	_	O
+15	!	!	.	_	5	punct	_	O
+
+1	:	:	:	pos2=SYM	2	punct	_	O
+2	AKQw	akqw	NNS	pos2=NN	0	root	_	O
+

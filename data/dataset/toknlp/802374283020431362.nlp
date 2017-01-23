@@ -1,0 +1,24 @@
+1	@JoyAnnReid	@joyannreid	ADD	pos2=XX	6	cc	_	O
+2	@DebDingell	@debdingell	UH	pos2=ADD	6	discourse	_	O
+3	@DebbieStabenow	@debbiestabenow	UH	pos2=ADD	6	discourse	_	O
+4	We	we	PRP	_	6	nsubj	_	O
+5	must	must	MD	_	6	aux	_	O
+6	unite	unite	VB	_	0	root	_	O
+7	&	&	CC	_	6	cc	_	O
+8	fight	fight	VB	_	6	conj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	prevent	prevent	VB	_	8	advcl	_	O
+11	changes	change	NNS	_	10	dobj	_	O
+12	to	to	IN	_	11	prep	_	O
+13	Medicare	medicare	NNP	_	12	pobj	_	B-ORG
+14	&	&	CC	_	13	cc	_	I-ORG
+15	Social	social	NNP	_	16	compound	_	I-ORG
+16	Security	security	NNP	_	13	conj	_	L-ORG
+17	.	.	.	_	6	punct	_	O
+
+1	These	these	DT	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	good	good	JJ	_	4	nmod	_	O
+4	programs	program	NNS	_	2	attr	_	O
+5	!	!	.	_	2	punct	_	O
+

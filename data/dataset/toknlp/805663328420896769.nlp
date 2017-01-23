@@ -1,0 +1,9 @@
+1	The	the	DT	_	3	det	_	B-ORG
+2	Electoral	electoral	NNP	pos2=JJ	3	compound	_	I-ORG
+3	College	college	NNP	pos2=NN	4	nsubj	_	L-ORG
+4	Is	be	VBZ	_	0	root	_	O
+5	Anything	anything	NN	pos2=NNP	4	attr	_	O
+6	But	but	CC	pos2=NNP	5	prep	_	O
+7	Outdated	outdated	JJ	pos2=GW	8	nmod	_	O
+8	https://t.co/I0WjAO34ec	#hlink#	ADD	pos2=NN	6	pobj	_	U-ORG
+

@@ -1,0 +1,26 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	wan	wan	VBP	_	0	root	_	O
+3	na	to	TO	pos2=NN	4	aux	_	O
+4	be	be	VB	_	2	xcomp	_	O
+5	16	0	CD	_	4	attr	_	U-CARDINAL
+6	again	again	RB	_	4	advmod	_	O
+7	with	with	IN	_	4	prep	_	O
+8	no	no	DT	_	10	det	_	O
+9	real	real	JJ	_	10	nmod	_	O
+10	responsibilities	responsibility	NNS	_	7	pobj	_	O
+11	but	but	CC	pos2=RB	4	cc	_	O
+12	to	to	TO	_	13	aux	_	O
+13	work	work	VB	_	4	conj	_	O
+14	a	a	DT	_	17	det	_	O
+15	minimum	minimum	JJ	pos2=NN	17	nmod	_	O
+16	wage	wage	NN	_	17	compound	_	O
+17	job	job	NN	_	13	dobj	_	O
+18	and	and	CC	_	13	cc	_	O
+19	buy	buy	VB	pos2=VBP	13	conj	_	O
+20	makeup	makeup	NN	_	19	dobj	_	O
+21	&	&	CC	pos2=-LRB-	20	cc	_	O
+22	clothes	clothes	NNS	_	20	conj	_	O
+23	with	with	IN	_	19	prep	_	O
+24	every	every	DT	_	25	det	_	O
+25	check😭😭	check😭😭	NN	pos2=NNP	23	pobj	_	O
+

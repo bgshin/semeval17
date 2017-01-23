@@ -1,0 +1,18 @@
+1	ICYMI	icymi	NN	_	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Here	here	RB	_	4	advmod	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	Noam	noam	NNP	_	6	compound	_	B-PERSON
+6	Chomsky	chomsky	NNP	_	4	nsubj	_	L-PERSON
+7	on	on	IN	_	4	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	election	election	NN	_	7	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	@realDonaldTrump	@realdonaldtrump	NN	pos2=NNP	10	pobj	_	O
+12	.	.	.	_	4	punct	_	O
+
+1	https://t.co/y4VGeP5ThV	#hlink#	ADD	_	0	root	_	U-ORG
+2	#UniteBlue	#uniteblue	ADD	pos2=-RRB-	0	root	_	U-ORG
+3	#p2	#p0	NN	pos2=CD	4	compound	_	O
+4	#Elections2016	#elections0	NN	pos2=NNS	2	pobj	_	O
+

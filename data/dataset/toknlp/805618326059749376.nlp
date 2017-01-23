@@ -1,0 +1,26 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	wish	wish	VBP	_	0	root	_	O
+3	they	they	PRP	_	4	nsubj	_	O
+4	were	be	VBD	_	2	ccomp	_	O
+5	as	as	RB	pos2=IN	6	advmod	_	O
+6	careful	careful	JJ	_	4	acomp	_	O
+7	with	with	IN	_	6	prep	_	O
+8	drugs	drug	NNS	_	7	pobj	_	O
+9	such	such	JJ	_	10	advmod	_	O
+10	as	as	IN	_	8	prep	_	O
+11	thalidomide	thalidomide	NN	_	10	pobj	_	O
+12	,	,	,	_	2	punct	_	O
+13	but	but	CC	_	2	cc	_	O
+14	I	I	PRP	_	15	nsubj	_	O
+15	guess	guess	VBP	_	2	conj	_	O
+16	that	that	DT	_	18	nsubj	_	O
+17	would	would	MD	_	18	aux	_	O
+18	mean	mean	VB	_	15	ccomp	_	O
+19	handing	hand	VBG	pos2=NN	18	xcomp	_	O
+20	over	over	RP	pos2=IN	19	prt	_	O
+21	rights	right	NNS	_	19	dobj	_	O
+22	and	and	CC	_	19	cc	_	O
+23	...	..	.	pos2=,	15	punct	_	O
+
+1	https://t.co/sMtydULrPC	#hlink#	ADD	_	0	root	_	U-ORG
+

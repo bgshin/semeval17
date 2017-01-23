@@ -1,0 +1,25 @@
+1	So	so	RB	_	5	advmod	_	O
+2	,	,	,	_	5	punct	_	O
+3	media	medium	NNS	pos2=NN	5	nsubj	_	O
+4	still	still	RB	_	5	advmod	_	O
+5	saying	say	VBG	_	0	root	_	O
+6	#HillaryClinton	#hillaryclinton	NNP	_	7	nsubj	_	U-ORG
+7	won	win	VBD	_	5	ccomp	_	O
+8	the	the	DT	_	10	det	_	O
+9	popular	popular	JJ	_	10	nmod	_	O
+10	vote	vote	NN	_	7	dobj	_	O
+11	?	?	.	_	5	punct	_	O
+
+1	How	how	WRB	_	4	advmod	_	O
+2	can	can	MD	_	4	aux	_	O
+3	anyone	anyone	NN	_	4	nsubj	_	O
+4	believe	believe	VB	_	0	root	_	O
+5	these	these	DT	_	6	det	_	O
+6	traitors	traitor	NNS	_	4	dobj	_	O
+7	?	?	.	_	4	punct	_	O
+
+1	#PopularVote	#popularvote	ADD	pos2=UH	4	punct	_	O
+2	#MSM	#msm	NN	pos2=ADD	4	compound	_	O
+3	#Trump	#trump	NNP	pos2=XX	4	compound	_	U-ORG
+4	#Protestors	#protestors	NNS	pos2=ADD	0	root	_	O
+

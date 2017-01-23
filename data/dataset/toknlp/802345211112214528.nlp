@@ -1,0 +1,24 @@
+1	NANCY	nancy	NNP	pos2=NN	2	compound	_	B-ORG
+2	PELOSI	pelosi	NNP	_	7	nsubj	_	I-ORG
+3	&	&	CC	_	2	cc	_	I-ORG
+4	HARRY	harry	NNP	_	5	compound	_	I-ORG
+5	REID	reid	NNP	_	2	conj	_	L-ORG
+6	HAVE	have	VBP	_	7	aux	_	O
+7	BEEN	be	VBN	_	0	root	_	O
+8	TWO	#crd#	CD	_	7	attr	_	U-CARDINAL
+9	OF	of	IN	_	8	prep	_	O
+10	THE	the	DT	_	12	det	_	O
+11	BIGGEST	big	JJS	_	12	nmod	_	O
+12	BENEFICIARIES	beneficiary	NNS	_	9	pobj	_	O
+13	AMONG	among	IN	_	12	prep	_	O
+14	UNTOLD	untold	JJ	_	15	nmod	_	O
+15	OTHERS	other	NNS	_	13	pobj	_	O
+16	FROM	from	IN	_	15	prep	_	O
+17	BOTH	both	DT	_	18	det	_	O
+18	PARTIES	party	NNS	_	16	pobj	_	O
+19	!	!	.	_	7	punct	_	O
+
+1	DINO&RI	dino&ri	NFP	pos2=GW	3	punct	_	O
+2	…	…	NFP	pos2=GW	3	punct	_	O
+3	https://t.co/XuZRu2DNgS	#hlink#	ADD	pos2=NN	0	root	_	O
+

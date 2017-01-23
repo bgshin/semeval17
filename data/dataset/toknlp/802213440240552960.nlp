@@ -1,0 +1,12 @@
+1	LIVE	live	VB	pos2=JJ	0	root	_	O
+2	on	on	IN	_	1	prep	_	O
+3	#Periscope	#periscope	NN	pos2=NNP	2	pobj	_	O
+4	:	:	:	_	5	punct	_	O
+5	Justice	justice	NNP	pos2=NN	1	vocative	_	U-ORG
+6	for	for	IN	_	5	prep	_	O
+7	Kenneth	kenneth	NNP	_	9	compound	_	B-PERSON
+8	Chamberlin	chamberlin	NNP	_	9	compound	_	I-PERSON
+9	Sr.	sr.	NNP	_	6	pobj	_	L-PERSON
+10	#blacklivesmatter	#blacklivesmatter	GW	pos2=IN	11	nmod	_	O
+11	https://t.co/y34jEiVVhh	#hlink#	ADD	_	5	appos	_	O
+

@@ -1,0 +1,7 @@
+1	Bob	bob	NNP	_	2	compound	_	B-PERSON
+2	Dylan	dylan	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	greatest	great	JJS	_	3	attr	_	O
+6	.	.	.	_	3	punct	_	O
+

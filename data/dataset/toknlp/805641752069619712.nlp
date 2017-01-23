@@ -1,0 +1,26 @@
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=UH	4	nsubj	_	O
+2	so	so	RB	pos2=IN	4	advmod	_	O
+3	what	what	WP	_	4	nsubj	_	O
+4	happened	happened	VBD	_	0	root	_	O
+5	to	to	IN	_	4	prep	_	O
+6	your	your	PRP$	_	7	poss	_	O
+7	wall	wall	NN	_	5	pobj	_	O
+8	?	?	.	_	4	punct	_	O
+
+1	and	and	CC	_	3	cc	_	O
+2	what	what	WP	_	3	dep	_	O
+3	about	about	IN	_	0	root	_	O
+4	investigating	investigate	VBG	_	3	pcomp	_	O
+5	Clinton	clinton	NNP	_	4	dobj	_	U-PERSON
+6	?	?	.	_	3	punct	_	O
+
+1	gay	gay	JJ	pos2=NN	2	nmod	_	O
+2	marriage	marriage	NN	_	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	small	small	JJ	_	2	nmod	_	O
+2	govt	govt	NN	pos2=NNS	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	#GOPCON	#gopcon	NN	pos2=ADD	0	root	_	O
+

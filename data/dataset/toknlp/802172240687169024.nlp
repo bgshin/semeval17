@@ -1,0 +1,7 @@
+1	#gutshabbos	#gutshabbos	UH	pos2=NNS	6	dep	_	O
+2	#Jerusalem	#jerusalem	NN	pos2=NNP	6	dep	_	O
+3	@	@	SYM	pos2=IN	5	punct	_	O
+4	Old	old	NNP	pos2=JJ	5	compound	_	B-GPE
+5	City	city	NNP	pos2=NN	0	root	_	L-GPE
+6	https://t.co/J00RNCSUaK	#hlink#	ADD	_	5	appos	_	O
+

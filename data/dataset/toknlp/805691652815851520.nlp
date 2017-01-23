@@ -1,0 +1,19 @@
+1	@BoothsCountry	@boothscountry	NN	pos2=ADD	4	nmod	_	O
+2	"	"	``	pos2=''	4	punct	_	O
+3	unrivalled	unrivalled	JJ	_	4	nmod	_	O
+4	selection	selection	NN	_	8	nsubj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	local	local	JJ	_	7	nmod	_	O
+7	produce	produce	NN	pos2=VB	5	pobj	_	O
+8	sourced	source	VBN	_	0	root	_	O
+9	from	from	IN	_	8	prep	_	O
+10	Lancashire	lancashire	NNP	_	9	pobj	_	U-GPE
+11	,	,	,	_	10	punct	_	O
+12	Yorkshire	yorkshire	NNP	_	10	conj	_	U-GPE
+13	,	,	,	_	12	punct	_	O
+14	Cheshire	cheshire	NNP	_	12	conj	_	U-GPE
+15	and	and	CC	_	14	cc	_	O
+16	Cumbria	cumbria	NNP	pos2=GW	14	conj	_	B-PERSON
+17	…	…	NFP	pos2=-LRB-	18	punct	_	L-PERSON
+18	https://t.co/9mIqijJKHC	#hlink#	ADD	_	0	root	_	O
+

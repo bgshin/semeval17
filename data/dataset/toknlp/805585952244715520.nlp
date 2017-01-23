@@ -1,0 +1,9 @@
+1	Ashley	ashley	NNP	_	2	compound	_	B-PERSON
+2	Graham	graham	NNP	_	3	nsubj	_	L-PERSON
+3	covers	cover	VBZ	_	0	root	_	O
+4	Cosmopolitan	cosmopolitan	JJ	pos2=NNP	6	nmod	_	O
+5	UK	uk	NNP	_	6	compound	_	U-GPE
+6	January	january	NNP	_	3	npadvmod	_	O
+7	2017	0	CD	_	8	dep	_	O
+8	https://t.co/4QdpDzeTgG	#hlink#	ADD	_	3	dobj	_	O
+

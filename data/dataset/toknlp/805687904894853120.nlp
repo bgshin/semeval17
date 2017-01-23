@@ -1,0 +1,33 @@
+1	...	..	.	pos2=NFP	0	predet	_	O
+
+1	the	the	DT	_	3	det	_	O
+2	death	death	NN	_	3	compound	_	O
+3	penalty	penalty	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	In	in	IN	_	14	prep	_	O
+2	1876	0	CD	_	1	pobj	_	U-DATE
+3	,	,	,	_	14	punct	_	O
+4	the	the	DT	_	5	det	_	O
+5	court	court	NN	_	14	nsubj	_	O
+6	reviewing	review	VBG	_	5	acl	_	O
+7	the	the	DT	_	8	det	_	O
+8	case	case	NN	_	6	dobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	Yang	yang	NNP	_	11	compound	_	B-PERSON
+11	naiwu	naiwu	NNP	pos2=NN	9	pobj	_	L-PERSON
+12	,	,	,	_	14	punct	_	O
+13	Yang	yang	NNP	_	14	nsubj	_	U-PERSON
+14	naiwu	naiwu	VBD	pos2=POS	0	root	_	O
+15	wrongs	wrong	NNS	_	14	dobj	_	O
+16	righted	right	VBN	pos2=VBD	15	acl	_	O
+17	,	,	,	_	14	punct	_	O
+18	acquitted	acquit	VBN	_	14	conj	_	O
+19	.	.	.	_	14	punct	_	O
+
+1	1914	0	CD	pos2=LS	3	nmod	_	U-DATE
+2	Yang	yang	NNP	_	3	compound	_	U-PERSON
+3	naiwu	naiwu	NN	pos2=XX	4	nsubj	_	O
+4	died	die	VBD	_	0	root	_	O
+5	...	..	.	pos2=:	4	punct	_	O
+

@@ -1,0 +1,20 @@
+1	How	how	WRB	_	10	advmod	_	O
+2	the	the	DT	_	4	det	_	O
+3	Archaeological	archaeological	NNP	pos2=JJ	4	compound	_	O
+4	Review	review	NNP	pos2=NN	10	nsubj	_	O
+5	Behind	behind	IN	_	4	prep	_	O
+6	the	the	DT	_	9	det	_	B-ORG
+7	Dakota	dakota	NNP	_	9	compound	_	I-ORG
+8	Access	access	NNP	_	9	compound	_	I-ORG
+9	Pipeline	pipeline	NNP	pos2=NN	5	pobj	_	L-ORG
+10	Went	go	VBD	pos2=NNP	14	ccomp	_	O
+11	Wrong	wrong	JJ	pos2=NNP	10	acomp	_	O
+12	;	;	:	pos2=,	14	punct	_	O
+13	thoughtful	thoughtful	JJ	_	14	nmod	_	O
+14	take	take	NN	pos2=VB	0	root	_	O
+15	by	by	IN	pos2=RB	14	prep	_	O
+16	@drchipcolwell	@drchipcolwell	NNP	pos2=PRP	15	pobj	_	U-ORG
+17	.	.	.	_	14	punct	_	O
+
+1	https://t.co/3QOiFkdAb9	#hlink#	ADD	_	0	root	_	U-ORG
+

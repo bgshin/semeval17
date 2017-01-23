@@ -1,0 +1,22 @@
+1	Cristiano	cristiano	NNP	_	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	3	nsubj	_	L-PERSON
+3	●	●	VBD	pos2=NNP	0	root	_	O
+4	All	all	DT	pos2=NNP	6	det	_	O
+5	61	0	CD	pos2=NNP	6	nmod	_	U-CARDINAL
+6	Goals	goal	NNS	pos2=NNPS	3	dobj	_	O
+7	●	●	NFP	pos2=WDT	6	acl	_	O
+8	2014/2015	0	CD	_	9	nmod	_	U-CARDINAL
+9	HD	hd	NN	_	21	dep	_	O
+10	:	:	:	_	21	punct	_	O
+11	CR7	cr0	NN	_	21	dep	_	O
+12	All	all	DT	pos2=NNP	13	det	_	O
+13	goals	goal	NNS	_	21	dep	_	O
+14	in	in	IN	_	13	prep	_	O
+15	season	season	NN	_	14	pobj	_	O
+16	2014	0	CD	_	18	qmod	_	B-DATE
+17	-	-	SYM	pos2=:	18	punct	_	I-DATE
+18	2015	0	CD	_	21	dep	_	L-DATE
+19	some	some	DT	pos2=GW	20	det	_	O
+20	…	…	:	pos2=NFP	21	punct	_	O
+21	https://t.co/HKwW5dxEB7	#hlink#	ADD	pos2=NN	3	dep	_	U-ORG
+

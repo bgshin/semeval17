@@ -1,0 +1,17 @@
+1	Liam	liam	NNP	pos2=NN	0	vocative	_	U-PERSON
+2	...	..	.	pos2=,	1	punct	_	O
+
+1	just	just	RB	_	0	root	_	O
+2	...	..	.	pos2=,	1	punct	_	O
+
+1	OMG!❤️😍	omg!❤️😍	NN	pos2=XX	8	compound	_	O
+2	#ARIASONEDIRECTION	#ariasonedirection	NN	pos2=ADD	8	compound	_	O
+3	#onedirection	#onedirection	NN	pos2=IN	8	compound	_	O
+4	#LiamPayne	#liampayne	NN	pos2=CD	8	compound	_	O
+5	#	#	NN	pos2=-LRB-	8	compound	_	O
+6	1DDayAnniversary	0ddayanniversary	NN	pos2=JJ	8	compound	_	U-MONEY
+7	#	#	NN	pos2=-LRB-	8	compound	_	O
+8	1DWeMissYouPleaseComeBack	0dwemissyoupleasecomeback	NN	pos2=GW	10	dep	_	U-MONEY
+9	…	…	NFP	pos2=-LRB-	10	punct	_	O
+10	https://t.co/E7qGyMxpI8	#hlink#	ADD	_	0	root	_	O
+

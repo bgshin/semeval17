@@ -1,0 +1,18 @@
+1	Swampbitch	swampbitch	NNP	pos2=``	3	compound	_	O
+2	Nasty	nasty	NNP	pos2=JJ	3	compound	_	B-PERSON
+3	Pelosi	pelosi	NNP	_	4	nsubj	_	L-PERSON
+4	loves	love	VBZ	_	0	root	_	O
+5	yelling	yell	VBG	pos2=NN	4	xcomp	_	O
+6	'	'	``	_	7	punct	_	O
+7	Fire	fire	NN	pos2=NNP	5	dobj	_	O
+8	'	'	''	_	7	punct	_	O
+9	in	in	IN	_	5	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	crowded	crowded	JJ	_	12	nmod	_	O
+12	swamp	swamp	NN	_	9	pobj	_	O
+13	.	.	.	_	4	punct	_	O
+
+1	#blackfriday	#blackfriday	UH	pos2=GW	3	nmod	_	O
+2	@DRUDGE	@drudge	GW	pos2=ADD	3	nmod	_	O
+3	https://t.co/PVyubJFLzU	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

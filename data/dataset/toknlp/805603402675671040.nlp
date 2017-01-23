@@ -1,0 +1,22 @@
+1	#KobeBryant	#kobebryant	NN	pos2=ADD	21	dep	_	O
+2	#Cards	#cards	NNP	pos2=VBZ	21	nmod	_	O
+3	2011	0	CD	_	2	npadvmod	_	U-DATE
+4	Panini	panini	NNP	_	12	compound	_	B-ORG
+5	Gold	gold	NNP	pos2=NN	12	compound	_	I-ORG
+6	Standard	standard	NNP	_	12	compound	_	L-ORG
+7	Kobe	kobe	NNP	_	12	compound	_	O
+8	Bryant	bryant	NNP	_	12	compound	_	O
+9	Rare	rare	NNP	pos2=JJ	12	compound	_	O
+10	Auto	auto	NNP	pos2=NN	11	compound	_	O
+11	Lakers	lakers	NNPS	pos2=NNP	12	compound	_	O
+12	Jersey	jersey	NNP	_	2	appos	_	O
+13	On	on	IN	pos2=NNP	12	prep	_	O
+14	Card	card	NN	pos2=NNP	15	compound	_	O
+15	#	#	NN	_	13	pobj	_	O
+16	17/49	0	CD	pos2=GW	15	nmod	_	B-DATE
+17	…	…	:	pos2=NFP	21	punct	_	L-DATE
+18	https://t.co/ELZSwxhbQ3	#hlink#	ADD	_	21	nmod	_	B-ORG
+19	#Kobe	#kobe	NNP	pos2=ADD	20	compound	_	I-ORG
+20	#Card	#card	NNP	pos2=-RRB-	21	compound	_	L-ORG
+21	#Deals	#deals	NNS	pos2=ADD	0	root	_	O
+

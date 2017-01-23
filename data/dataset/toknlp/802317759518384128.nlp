@@ -1,0 +1,19 @@
+1	#Sport	#sport	NNP	pos2=NN	14	npadvmod	_	O
+2	#Goods	#goods	IN	pos2=POS	1	prep	_	O
+3	SAN	san	NNP	_	4	compound	_	O
+4	ANTONIO	antonio	NNP	_	10	compound	_	O
+5	#Spurs	#spurs	NNP	pos2=POS	10	compound	_	O
+6	TIM	tim	NNP	_	10	compound	_	B-PERSON
+7	DUNCAN	duncan	NNP	_	10	compound	_	L-PERSON
+8	MATTEL	mattel	NNP	_	10	compound	_	B-ORG
+9	SUPER	super	NNP	_	10	compound	_	I-ORG
+10	STAR	star	NNP	pos2=NN	2	pobj	_	I-ORG
+11	&	&	CC	_	10	cc	_	I-ORG
+12	PRO	pro	JJ	pos2=NNP	13	nmod	_	L-ORG
+13	HOOPS	hoop	NNS	pos2=NNPS	10	conj	_	O
+14	#NBA	#nba	VBP	pos2=WDT	18	dep	_	O
+15	#BasketBall	#basketball	MD	pos2=NNP	18	punct	_	O
+16	FIGURE	figure	NN	pos2=VB	18	dep	_	O
+17	…	…	:	pos2=NFP	18	punct	_	O
+18	https://t.co/acyO33Iazx	#hlink#	ADD	_	0	root	_	U-ORG
+

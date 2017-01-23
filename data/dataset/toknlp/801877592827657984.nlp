@@ -1,0 +1,19 @@
+1	Ability	ability	NN	_	0	root	_	O
+2	with	with	IN	_	1	prep	_	O
+3	a	a	DT	_	5	det	_	O
+4	Disability	disability	NN	pos2=NNP	5	nmod	_	O
+5	Exhibit	exhibit	NNP	pos2=NN	2	pobj	_	O
+6	Coming	come	VBG	_	1	acl	_	O
+7	Up	up	RP	_	6	prt	_	O
+8	On	on	IN	_	6	prep	_	O
+9	Dec	dec	NNP	_	8	pobj	_	B-DATE
+10	2	0	CD	_	9	nmod	_	L-DATE
+11	@	@	IN	pos2=SYM	6	prep	_	O
+12	The	the	DT	pos2=NNP	15	det	_	O
+13	Ben	ben	NNP	_	15	compound	_	O
+14	Navaee	navaee	NNP	_	15	compound	_	O
+15	Gallery#Disability	gallery#disability	NNP	_	11	pobj	_	O
+16	#art	#art	GW	pos2=XX	18	nmod	_	O
+17	#unitednations	#unitednations	GW	pos2=ADD	18	nmod	_	O
+18	https://t.co/4KjWVfwtKb	#hlink#	ADD	pos2=NN	1	dep	_	O
+

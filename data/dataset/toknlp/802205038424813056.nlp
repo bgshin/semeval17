@@ -1,0 +1,8 @@
+1	@JoyAnnReid	@joyannreid	FW	pos2=XX	6	advmod	_	O
+2	@nytimes	@nytimes	UH	pos2=NNS	0	root	_	O
+3	not	not	RB	_	4	neg	_	O
+4	supremacists	supremacist	NNS	pos2=VBZ	6	nsubj	_	O
+5	just	just	RB	_	6	advmod	_	O
+6	survivalist	survivalist	JJ	pos2=RB	2	root	_	O
+7	!	!	.	_	6	punct	_	O
+

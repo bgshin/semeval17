@@ -1,0 +1,18 @@
+1	You	you	PRP	_	2	nsubj	_	O
+2	have	have	VBP	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	watch	watch	VB	_	2	xcomp	_	O
+5	Michael	michael	NNP	_	6	compound	_	B-PERSON
+6	Moore	moore	NNP	_	4	dobj	_	L-PERSON
+7	in	in	IN	_	4	prep	_	O
+8	Trumpland	trumpland	NNP	_	7	pobj	_	B-DATE
+9	2016	0	CD	pos2=NNP	8	nmod	_	L-DATE
+10	.	.	.	_	2	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	caught	catch	VBD	_	0	root	_	O
+3	it	it	PRP	_	2	dobj	_	O
+4	on	on	IN	pos2=RP	2	prep	_	O
+5	SHO2	sho0	NN	pos2=NNP	4	pobj	_	O
+6	.	.	.	_	2	punct	_	O
+

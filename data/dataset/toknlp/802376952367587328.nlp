@@ -1,0 +1,14 @@
+1	Hillary	hillary	NNP	_	2	compound	_	B-PERSON
+2	Clinton	clinton	NNP	_	3	nsubj	_	L-PERSON
+3	was	be	VBD	_	0	root	_	O
+4	waaaay	waaaay	RB	_	6	advmod	_	O
+5	too	too	RB	_	6	advmod	_	O
+6	conservative	conservative	JJ	_	3	acomp	_	O
+7	on	on	IN	_	6	prep	_	O
+8	her	her	PRP$	_	9	poss	_	O
+9	percentage	percentage	NN	_	7	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	deplorables	deplorables	NNS	pos2=JJ	10	pobj	_	O
+12	eatimate	eatimate	VBP	pos2=-LRB-	13	nmod	_	O
+13	https://t.co/ejoGG8vxkK	#hlink#	ADD	_	3	dep	_	O
+

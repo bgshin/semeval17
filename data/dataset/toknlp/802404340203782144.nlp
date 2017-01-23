@@ -1,0 +1,14 @@
+1	Fidel	fidel	NNP	_	2	compound	_	B-PERSON
+2	Castro	castro	NNP	_	5	nsubj	_	L-PERSON
+3	must	must	MD	pos2=IN	6	aux	_	O
+4	of	of	IN	pos2=VB	6	advmod	_	O
+5	had	have	VBD	pos2=VBN	0	root	_	O
+6	information	information	NN	_	5	dobj	_	O
+7	on	on	IN	_	6	prep	_	O
+8	the	the	DT	_	10	det	_	B-ORG
+9	Clinton	clinton	NNP	_	10	compound	_	I-ORG
+10	Foundation	foundation	NNP	_	7	pobj	_	L-ORG
+11	in	in	IN	_	10	prep	_	O
+12	Cuba	cuba	NNP	_	11	pobj	_	U-GPE
+13	.	.	.	_	11	punct	_	O
+

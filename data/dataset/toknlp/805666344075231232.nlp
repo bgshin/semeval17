@@ -1,0 +1,36 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	Cubs	cub	NNPS	pos2=NNS	6	nsubj	_	U-ORG
+3	to	to	TO	pos2=IN	5	aux	_	O
+4	-	-	HYPH	pos2=SYM	5	punct	_	O
+5	do	do	NN	pos2=VB	6	compound	_	O
+6	list	list	NN	_	0	root	_	O
+7	:	:	:	_	6	punct	_	O
+8	Sign	sign	VB	pos2=NNP	6	dep	_	O
+9	Tyson	tyson	NNP	_	10	compound	_	B-PERSON
+10	Ross	ross	NNP	_	8	dobj	_	L-PERSON
+11	.	.	.	_	6	punct	_	O
+
+1	Sign	sign	VB	pos2=NN	0	root	_	O
+2	Kenley	kenley	NNP	_	3	compound	_	B-PERSON
+3	Jansen	jansen	NNP	_	1	dobj	_	L-PERSON
+4	.	.	.	_	1	punct	_	O
+
+1	Do	do	VB	pos2=VBP	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	care	care	VB	_	0	root	_	O
+4	about	about	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	money	money	NN	_	4	pobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	Trade	trade	NN	pos2=NNP	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	Chris	chris	NNP	_	4	compound	_	B-PERSON
+4	Archer	archer	NNP	_	2	pobj	_	L-PERSON
+5	.	.	.	_	1	punct	_	O
+
+1	Trade	trade	NNP	pos2=NN	2	compound	_	O
+2	Soler	soler	NNP	_	0	root	_	U-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	Arrieta	arrieta	NNP	_	2	conj	_	U-PERSON
+

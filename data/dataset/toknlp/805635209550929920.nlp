@@ -1,0 +1,20 @@
+1	#NFL	#nfl	NN	pos2=NNP	19	dep	_	O
+2	2011	0	CD	pos2=LS	1	npadvmod	_	U-DATE
+3	Panini	panini	NNP	_	9	compound	_	B-ORG
+4	Gold	gold	NNP	pos2=NN	5	compound	_	I-ORG
+5	Standard	standard	NNP	pos2=JJ	6	compound	_	L-ORG
+6	#	#	NN	_	19	dep	_	O
+7	27	0	CD	pos2=LS	6	nmod	_	U-MONEY
+8	Vincent	vincent	NNP	_	9	compound	_	B-PERSON
+9	Brown	brown	NNP	_	19	dep	_	L-PERSON
+10	/	/	SYM	pos2=HYPH	9	punct	_	O
+11	25	0	CD	_	19	dep	_	O
+12	San	san	NNP	_	13	compound	_	O
+13	Diego	diego	NNP	_	16	compound	_	O
+14	#Chargers	#chargers	NNP	pos2=POS	16	compound	_	O
+15	Auto	auto	NNP	_	16	compound	_	O
+16	#Card	#card	NNP	pos2=GW	19	dep	_	O
+17	1i0	0i0	NN	pos2=GW	19	dep	_	O
+18	https://t.co/e143FhVwXX	#hlink#	ADD	_	19	nmod	_	O
+19	https://t.co/gCN57a4zks	#hlink#	ADD	_	0	root	_	U-ORG
+

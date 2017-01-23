@@ -1,0 +1,18 @@
+1	Tonight	tonight	NN	_	2	nsubj	_	U-TIME
+2	feels	feel	VBZ	_	0	root	_	O
+3	like	like	IN	_	2	prep	_	O
+4	a	a	DT	_	6	det	_	O
+5	coffee	coffee	NN	_	6	compound	_	O
+6	cake	cake	NN	_	3	pobj	_	O
+7	kinda	kinda	RB	pos2=CC	8	advmod	_	O
+8	night	night	NN	pos2=RB	2	npadvmod	_	U-TIME
+9	.	.	.	_	2	punct	_	O
+
+1	Let	let	VB	_	0	root	_	O
+2	's	's	PRP	_	3	nsubj	_	O
+3	beat	beat	VB	pos2=VBN	1	ccomp	_	O
+4	#NationalFastFoodDay	#nationalfastfoodday	NNP	pos2=RP	3	dobj	_	U-PERSON
+5	!!	!!	.	_	1	punct	_	O
+
+1	https://t.co/6e55kQuWdY	#hlink#	ADD	_	0	root	_	U-ORG
+

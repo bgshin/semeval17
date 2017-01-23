@@ -1,0 +1,9 @@
+1	Using	use	VBG	_	0	root	_	O
+2	robots	robot	NNS	_	1	dobj	_	O
+3	to	to	TO	pos2=IN	4	aux	_	O
+4	interview	interview	VB	pos2=NN	1	xcomp	_	O
+5	children	child	NNS	_	4	dobj	_	O
+6	about	about	IN	pos2=RB	4	prep	_	O
+7	#bullying	#bullying	VBG	pos2=-LRB-	6	pobj	_	O
+8	https://t.co/15Dn6yIL4t	#hlink#	ADD	pos2=NN	3	pobj	_	O
+

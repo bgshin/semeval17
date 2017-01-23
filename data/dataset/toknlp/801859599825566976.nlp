@@ -1,0 +1,25 @@
+1	On	on	IN	_	8	prep	_	O
+2	my	my	PRP$	_	3	poss	_	O
+3	way	way	NN	_	1	pobj	_	O
+4	to	to	IN	pos2=TO	3	prep	_	O
+5	#Iraq	#iraq	NNP	pos2=XX	4	pobj	_	U-GPE
+6	>>	>>	-RRB-	pos2=``	10	dobj	_	O
+7	#MosulOffensiveI	#mosuloffensivei	TO	pos2=NNS	8	aux	_	O
+8	expect	expect	VB	pos2=VBP	0	root	_	O
+9	to	to	TO	pos2=IN	10	aux	_	O
+10	touchdown	touchdown	VB	pos2=NN	8	xcomp	_	O
+11	in	in	IN	_	10	prep	_	O
+12	Erbil	erbil	NNP	_	11	pobj	_	U-GPE
+13	5	0	CD	_	14	nmod	_	B-TIME
+14	pm	pm	NN	_	12	npadvmod	_	I-TIME
+15	EST	est	NN	pos2=NNP	20	nsubj	_	L-TIME
+16	today	today	NN	_	10	npadvmod	_	U-DATE
+17	via	via	IN	_	10	prep	_	O
+18	IstanbulI	istanbuli	NNP	pos2=PRP	17	pobj	_	O
+19	'll	will	MD	_	20	aux	_	O
+20	be	be	VB	_	8	conj	_	O
+21	live	live	JJ	pos2=VB	24	nmod	_	O
+22	stre	stre	JJ	pos2=GW	21	nsubj	_	O
+23	…	…	NFP	pos2=-LRB-	24	punct	_	O
+24	https://t.co/MEtrik0voh	#hlink#	ADD	pos2=NN	20	attr	_	O
+

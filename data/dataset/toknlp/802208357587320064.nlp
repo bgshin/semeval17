@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det	_	B-GPE
+2	Big	big	NNP	_	3	compound	_	I-GPE
+3	Bang	bang	NNP	_	4	nsubj	_	L-GPE
+4	blew	blow	VBD	_	0	root	_	O
+5	up	up	RP	pos2=IN	4	prt	_	O
+6	Ben	ben	NNP	_	7	compound	_	B-PERSON
+7	Carson	carson	NNP	_	9	poss	_	I-PERSON
+8	's	's	POS	_	7	case	_	L-PERSON
+9	brain	brain	NN	_	4	dobj	_	O
+10	https://t.co/6fKttCfasa	#hlink#	ADD	pos2=NN	4	dep	_	O
+

@@ -1,0 +1,20 @@
+1	🎶	🎶	``	pos2=LS	2	punct	_	O
+2	Browse	browse	VB	pos2=NNP	0	root	_	O
+3	this	this	DT	_	4	det	_	O
+4	site	site	NN	_	2	dobj	_	O
+5	https://t.co/0hJ7UpFtKI	#hlink#	ADD	pos2=NN	2	punct	_	U-ORG
+6	for	for	IN	_	2	prep	_	O
+7	more	more	JJR	_	8	nmod	_	O
+8	information	information	NN	_	6	pobj	_	O
+9	on	on	IN	_	8	prep	_	O
+10	Dallas	dallas	NNP	_	9	pobj	_	O
+11	3	0	CD	_	13	nmod	_	O
+12	D	d	NNP	pos2=NN	13	compound	_	O
+13	Printing	printing	NNP	pos2=NN	10	appos	_	O
+14	.	.	.	_	2	punct	_	O
+
+1	This	this	DT	_	2	det	_	O
+2	...	..	.	pos2=,	0	nsubjpass	_	O
+
+1	https://t.co/RHP7GqCQGv	#hlink#	ADD	_	0	root	_	U-ORG
+

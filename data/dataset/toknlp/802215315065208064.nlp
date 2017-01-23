@@ -1,0 +1,12 @@
+1	Wife	wife	NN	pos2=NNP	2	nsubj	_	O
+2	kills	kill	VBZ	_	0	root	_	O
+3	Her	her	PRP$	_	4	poss	_	O
+4	Husband	husband	NN	pos2=NNP	2	dobj	_	O
+5	shortly	shortly	RB	_	6	advmod	_	O
+6	after	after	IN	_	2	prep	_	O
+7	having	have	VBG	_	6	pcomp	_	O
+8	Thanksgiving	thanksgiving	NNP	pos2=GW	9	compound	_	O
+9	dinner	dinner	NN	pos2=GW	7	dobj	_	O
+10	https://t.co/GYiNdO2ZFe	#hlink#	ADD	_	11	nmod	_	O
+11	https://t.co/j8udVPBXKC	#hlink#	ADD	_	2	dep	_	U-ORG
+

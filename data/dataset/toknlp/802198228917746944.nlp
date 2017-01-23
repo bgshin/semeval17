@@ -1,0 +1,23 @@
+1	@The_Anti_Fox	@the_anti_fox	ADD	pos2=XX	3	det	_	O
+2	@nurserenee1	@nurserenee0	NN	pos2=LS	3	compound	_	O
+3	@LadyThriller69	@ladythriller0	NN	pos2=ADD	0	root	_	O
+4	he	he	PRP	_	7	nsubj	_	O
+5	's	's	VBZ	_	7	aux	_	O
+6	not	not	RB	_	7	neg	_	O
+7	hiring	hire	VBG	_	3	relcl	_	O
+8	white	white	JJ	_	9	nmod	_	O
+9	supremacists	supremacist	NNS	_	7	dobj	_	O
+10	snowflake	snowflake	NN	_	7	npadvmod	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	Try	try	VB	_	0	root	_	O
+2	again	again	RB	_	1	advmod	_	O
+3	and	and	CC	_	1	cc	_	O
+4	do	do	VB	pos2=VBP	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	believe	believe	VB	_	1	conj	_	O
+7	the	the	DT	_	9	det	_	O
+8	sycophant	sycophant	NN	_	9	compound	_	O
+9	media	medium	NNS	pos2=NN	6	dobj	_	O
+10	.	.	.	_	1	punct	_	O
+

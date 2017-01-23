@@ -1,0 +1,17 @@
+1	Marco	marco	NNP	_	2	compound	_	B-PERSON
+2	Rubio	rubio	NNP	_	3	nsubj	_	L-PERSON
+3	Urges	urge	VBZ	_	0	root	_	O
+4	Tolerance	tolerance	NN	pos2=NNP	3	dobj	_	O
+5	for	for	IN	_	4	prep	_	O
+6	LGBT	lgbt	NNP	pos2=NN	7	compound	_	U-NORP
+7	People	people	NNS	pos2=NNPS	5	pobj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	Orlando	orlando	NNP	_	10	compound	_	U-GPE
+10	Speech	speech	NNP	pos2=NN	8	pobj	_	O
+11	to	to	IN	_	3	prep	_	O
+12	Christian	christian	JJ	pos2=NNP	13	nmod	_	U-NORP
+13	Conservatives	conservative	NNS	pos2=NNPS	11	pobj	_	O
+14	:	:	:	_	3	punct	_	O
+15	WATCH	watch	VB	pos2=NN	3	xcomp	_	O
+16	https://t.co/0e6je9XXYb	#hlink#	ADD	pos2=NN	15	dobj	_	O
+

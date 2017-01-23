@@ -1,0 +1,13 @@
+1	Just	just	RB	_	2	advmod	_	O
+2	in	in	IN	pos2=RB	5	prep	_	O
+3	:	:	:	_	2	punct	_	O
+4	#Putin	#putin	NNP	pos2=WP	5	nsubj	_	U-ORG
+5	undermined	undermine	VBD	pos2=VBN	0	root	_	O
+6	American	american	JJ	_	7	nmod	_	U-NORP
+7	democracy	democracy	NN	_	5	dobj	_	O
+8	by	by	IN	_	5	prep	_	O
+9	stealing	steal	VBG	_	8	pcomp	_	O
+10	Casey	casey	NNP	_	11	compound	_	B-PERSON
+11	Rybeck	rybeck	NNP	_	9	dobj	_	L-PERSON
+12	https://t.co/eFHtT2A7gL	#hlink#	ADD	_	9	dobj	_	O
+

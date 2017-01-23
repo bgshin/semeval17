@@ -1,0 +1,21 @@
+1	Obamacare	obamacare	NNP	_	2	nsubj	_	O
+2	Raised	raise	VBD	pos2=NNP	0	root	_	O
+3	Premiums	premium	NNS	pos2=NNP	2	dobj	_	O
+4	&	&	CC	_	3	cc	_	O
+5	Taxes	tax	NNS	pos2=NNPS	3	conj	_	O
+6	To	to	IN	pos2=TO	2	prep	_	O
+7	Combat	combat	NNP	pos2=VB	6	pobj	_	U-ORG
+8	...	..	.	pos2=,	2	punct	_	O
+
+1	RISING	rise	VBG	_	2	nmod	_	O
+2	PREMIUMS	premium	NNS	_	0	root	_	O
+3	&	&	CC	_	2	cc	_	O
+4	TAXES	tax	NNS	_	2	conj	_	O
+5	!?	!?	.	_	2	punct	_	O
+
+1	https://t.co/lkLB3pYQyP	#hlink#	ADD	_	5	dep	_	O
+2	@DCExaminer	@dcexaminer	-RRB-	pos2=ADD	5	punct	_	U-ORG
+3	#TeaParty	#teaparty	NN	pos2=ADD	5	nmod	_	O
+4	#tcot	#tcot	UH	pos2=ADD	5	discourse	_	O
+5	#PJNet	#pjnet	NN	pos2=ADD	0	root	_	O
+

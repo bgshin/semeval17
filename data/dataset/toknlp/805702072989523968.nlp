@@ -1,0 +1,22 @@
+1	migrants	migrant	NNS	_	3	nsubj	_	O
+2	should	should	MD	_	3	aux	_	O
+3	pledge	pledge	VB	pos2=NN	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	follow	follow	VB	_	3	xcomp	_	O
+6	British	british	JJ	_	7	nmod	_	U-NORP
+7	values	value	NNS	_	5	dobj	_	O
+8	https://t.co/mr5kaCLZK2	#hlink#	ADD	pos2=VBP	7	acl	_	O
+9	real	real	JJ	_	10	nmod	_	O
+10	problems	problem	NNS	_	7	conj	_	O
+11	but	but	CC	_	3	cc	_	O
+12	always	always	RB	_	13	advmod	_	O
+13	branded	brand	VBN	pos2=VBD	3	conj	_	O
+14	'	'	``	_	15	punct	_	O
+15	racists	racist	NNS	_	13	dobj	_	O
+16	'	'	''	_	15	punct	_	O
+17	until	until	IN	_	19	mark	_	O
+18	it	it	PRP	_	19	nsubj	_	O
+19	's	's	VBZ	_	13	advcl	_	O
+20	too	too	RB	_	21	advmod	_	O
+21	late	late	JJ	pos2=RB	19	acomp	_	O
+

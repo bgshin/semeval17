@@ -1,0 +1,28 @@
+1	Aye	aye	NNP	pos2=NN	4	compound	_	B-PERSON
+2	Marine	marine	NNP	_	4	compound	_	I-PERSON
+3	Le	le	NNP	_	4	compound	_	I-PERSON
+4	Pen	pen	NNP	_	5	nsubj	_	L-PERSON
+5	is	be	VBZ	_	0	root	_	O
+6	delighted	delighted	JJ	pos2=VBN	5	acomp	_	O
+7	with	with	IN	_	6	prep	_	O
+8	it	it	PRP	_	7	pobj	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	Typically	typically	RB	_	2	advmod	_	O
+2	twisting	twist	VBG	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	result	result	NN	_	2	dobj	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	This	this	DT	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	vote	vote	NN	_	2	attr	_	O
+5	on	on	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	constitution	constitution	NN	_	5	pobj	_	O
+8	not	not	RB	_	9	neg	_	O
+9	th	th	JJ	pos2=GW	11	nmod	_	O
+10	…	…	NFP	pos2=-LRB-	11	punct	_	O
+11	https://t.co/V9VkDvrLji	#hlink#	ADD	_	2	dep	_	O
+

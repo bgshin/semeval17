@@ -1,0 +1,9 @@
+1	@GraysonJAllen	@graysonjallen	UH	pos2=ADD	3	discourse	_	O
+2	we	we	PRP	_	3	nsubj	_	O
+3	're	be	VBP	_	0	root	_	O
+4	thankful	thankful	JJ	_	3	acomp	_	O
+5	for	for	IN	_	4	prep	_	O
+6	Grayson	grayson	NNP	_	7	compound	_	B-PERSON
+7	Allen	allen	NNP	_	5	pobj	_	L-PERSON
+8	TBH	tbh	UH	pos2=NNP	3	discourse	_	O
+

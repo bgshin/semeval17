@@ -1,0 +1,14 @@
+1	Is	be	VBZ	_	0	root	_	O
+2	this	this	DT	_	1	nsubj	_	O
+3	the	the	DT	_	6	det	_	O
+4	best	good	JJS	_	6	nmod	_	O
+5	George	george	NNP	_	6	compound	_	B-PERSON
+6	soros	soros	NNP	pos2=PRP	8	nsubj	_	L-PERSON
+7	could	could	MD	_	8	aux	_	O
+8	come	come	VB	_	1	ccomp	_	O
+9	up	up	RP	pos2=RB	8	prt	_	O
+10	lots	lot	NNS	_	8	advcl	_	O
+11	of	of	IN	_	10	prep	_	O
+12	love	love	NN	pos2=VBP	11	pobj	_	O
+13	https://t.co/SpJKyfX9eN	#hlink#	ADD	pos2=NN	8	npadvmod	_	U-GPE
+

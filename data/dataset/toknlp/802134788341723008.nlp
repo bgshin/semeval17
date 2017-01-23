@@ -1,0 +1,26 @@
+1	Another	another	DT	_	3	det	_	O
+2	#oil	#oil	NNP	pos2=JJ	3	compound	_	O
+3	producer	producer	NN	_	6	poss	_	O
+4	's	's	POS	pos2=VBZ	3	case	_	O
+5	under	under	IN	pos2=JJ	0	root	_	O
+6	pressure	pressure	NN	_	5	pobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	devalue	devalue	VB	_	6	acl	_	O
+9	its	its	PRP$	_	10	poss	_	O
+10	currency	currency	NN	_	8	dobj	_	O
+11	&	&	CC	_	8	cc	_	O
+12	fight	fight	VB	pos2=NN	8	conj	_	O
+13	a	a	DT	_	16	det	_	O
+14	booming	booming	JJ	pos2=VBG	16	nmod	_	O
+15	black	black	JJ	pos2=NN	16	nmod	_	O
+16	market	market	NN	_	12	dobj	_	O
+17	for	for	IN	_	12	prep	_	O
+18	#dollars	#dollars	NNS	pos2=NNPS	17	pobj	_	O
+19	.	.	.	_	3	punct	_	O
+
+1	#Libya	#libya	LS	pos2=NNP	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/3QRAzOt9wB	#hlink#	ADD	pos2=NN	0	root	_	O
+

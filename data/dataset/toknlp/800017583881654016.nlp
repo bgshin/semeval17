@@ -1,0 +1,15 @@
+1	Congratulations	congratulation	NNS	_	0	root	_	O
+2	to	to	IN	_	1	prep	_	O
+3	the	the	DT	_	6	det	_	O
+4	2016	0	CD	_	6	nmod	_	U-DATE
+5	#NBAwards	#nbawards	NNP	pos2=NNS	6	compound	_	O
+6	Winners	winner	NNS	pos2=NNPS	2	pobj	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	@colsonwhitehead	@colsonwhitehead	UH	pos2=XX	6	discourse	_	O
+2	@DrIbram	@dribram	NN	pos2=ADD	6	dep	_	O
+3	@repjohnlewis	@repjohnlewis	UH	pos2=GW	6	nmod	_	O
+4	#DanielBorzutzky	#danielborzutzky	GW	pos2=UH	6	nmod	_	O
+5	…	…	NFP	pos2=GW	6	punct	_	O
+6	https://t.co/YA4Av5WkNQ	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,28 @@
+1	@heathmari	@heathmari	UH	pos2=NNP	4	discourse	_	O
+2	Did	do	VBD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	know	know	VB	_	0	root	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	was	be	VBD	_	4	ccomp	_	O
+7	possible	possible	JJ	_	8	nmod	_	O
+8	2B	0b	NN	pos2=NNS	6	attr	_	O
+9	turned	turn	VBN	pos2=VBD	8	acl	_	O
+10	on	on	RP	pos2=IN	9	prt	_	O
+11	that	that	DT	_	12	advmod	_	O
+12	early	early	RB	pos2=JJ	9	advmod	_	O
+13	.	.	.	_	4	punct	_	O
+
+1	😄	😄	NNP	pos2=NN	5	nsubj	_	O
+2	btw	btw	RB	_	5	advmod	_	O
+3	,	,	,	_	5	punct	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	comes	come	VBZ	_	0	root	_	O
+6	up	up	RP	_	5	prt	_	O
+7	automatically	automatically	RB	_	5	advmod	_	O
+8	when	when	WRB	_	10	advmod	_	O
+9	you	you	PRP	_	10	nsubj	_	O
+10	use	use	VBP	_	5	advcl	_	O
+11	the	the	DT	_	12	det	_	O
+12	hashtag	hashtag	NN	_	10	dobj	_	O
+13	#TheWalkingDead	#thewalkingdead	ADD	pos2=NN	5	punct	_	O
+

@@ -1,0 +1,10 @@
+1	Loser	loser	NN	pos2=NNP	5	nsubj	_	O
+2	in	in	IN	_	1	prep	_	O
+3	Chief	chief	NNP	pos2=JJ	4	compound	_	O
+4	😡#trumptransitionteam	😡#trumptransitionteam	NNP	pos2=POS	2	pobj	_	O
+5	#notmypresident	#notmypresident	ADD	pos2=UH	0	root	_	O
+6	#fucktrump	#fucktrump	IN	pos2=UH	5	prep	_	O
+7	#jewishresistance	#jewishresistance	GW	pos2=IN	6	pobj	_	O
+8	…	…	NFP	pos2=GW	9	punct	_	O
+9	https://t.co/EIplLmrRBb	#hlink#	ADD	pos2=NN	6	pobj	_	O
+

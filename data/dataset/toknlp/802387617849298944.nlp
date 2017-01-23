@@ -1,0 +1,16 @@
+1	Bob	bob	NNP	_	4	compound	_	B-PERSON
+2	Dylan	dylan	NNP	_	4	compound	_	I-PERSON
+3	-	-	HYPH	pos2=:	4	punct	_	I-PERSON
+4	How	how	NNP	pos2=WRB	6	nsubj	_	L-PERSON
+5	to	to	TO	_	6	aux	_	O
+6	Cultivate	cultivate	VB	_	0	root	_	O
+7	the	the	DT	_	9	det	_	O
+8	Perfect	perfect	JJ	pos2=NNP	9	nmod	_	O
+9	Environment	environment	NNP	pos2=NN	6	dobj	_	O
+10	for	for	IN	_	6	prep	_	O
+11	Creative	creative	JJ	pos2=NNP	12	nmod	_	O
+12	Work	work	NN	pos2=NNP	10	pobj	_	O
+13	https://t.co/EFKe39t9fb	#hlink#	ADD	pos2=NN	9	appos	_	O
+14	via	via	IN	_	6	prep	_	O
+15	@brainpicker	@brainpicker	NN	pos2=.	14	pobj	_	O
+

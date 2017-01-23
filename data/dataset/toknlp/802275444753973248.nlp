@@ -1,0 +1,18 @@
+1	@guardian_sydmun	@guardian_sydmun	NNP	pos2=XX	5	compound	_	O
+2	Kim	kim	NNP	_	5	compound	_	B-PERSON
+3	Jong	jong	NNP	_	5	compound	_	I-PERSON
+4	-	-	HYPH	_	5	punct	_	I-PERSON
+5	un	un	NNP	pos2=NN	7	nsubj	_	L-PERSON
+6	can	can	MD	_	7	aux	_	O
+7	help	help	VB	_	0	root	_	O
+8	you	you	PRP	_	7	dobj	_	O
+9	.	.	.	_	7	punct	_	O
+
+1	He	he	PRP	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	show	show	VB	_	0	root	_	O
+4	you	you	PRP	_	3	dative	_	O
+5	the	the	DT	_	6	det	_	O
+6	way	way	NN	_	3	dobj	_	O
+7	.	.	.	_	3	punct	_	O
+

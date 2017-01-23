@@ -1,0 +1,29 @@
+1	@memnosoncos	@memnosoncos	UH	pos2=NNS	7	discourse	_	O
+2	And	and	CC	_	7	cc	_	O
+3	looking	look	VBG	_	7	csubj	_	O
+4	at	at	IN	_	3	prep	_	O
+5	what	what	WDT	pos2=FW	6	det	_	O
+6	homeopathy	homeopathy	NN	_	4	pcomp	_	O
+7	IS	be	VBZ	pos2=EX	0	root	_	O
+8	should	should	MD	_	9	aux	_	O
+9	be	be	VB	_	7	ccomp	_	O
+10	enough	enough	JJ	_	9	acomp	_	O
+11	to	to	TO	_	12	aux	_	O
+12	dismiss	dismiss	VB	_	10	xcomp	_	O
+13	it	it	PRP	_	12	dobj	_	O
+14	out	out	IN	_	12	prep	_	O
+15	of	of	IN	_	14	prep	_	O
+16	hand	hand	NN	_	15	pobj	_	O
+17	.	.	.	_	7	punct	_	O
+
+1	Chemistry	chemistry	NN	pos2=NNP	5	nsubj	_	O
+2	just	just	RB	_	5	advmod	_	O
+3	does	do	VBZ	_	5	aux	_	O
+4	not	not	RB	_	5	neg	_	O
+5	work	work	VB	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	way	way	NN	_	5	npadvmod	_	O
+8	they	they	PRP	_	9	nsubj	_	O
+9	claim	claim	VBP	_	7	relcl	_	O
+10	.	.	.	_	5	punct	_	O
+

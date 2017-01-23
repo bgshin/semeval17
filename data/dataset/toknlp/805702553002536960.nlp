@@ -1,0 +1,27 @@
+1	Minimum	minimum	JJ	pos2=NN	2	nmod	_	O
+2	wage	wage	NN	_	3	nsubj	_	O
+3	went	go	VBD	_	0	root	_	O
+4	up	up	RP	pos2=RB	3	prt	_	O
+5	in	in	IN	_	3	prep	_	O
+6	co	co	NNP	pos2=NN	5	pobj	_	O
+7	Outside	outside	IN	pos2=NNP	3	prep	_	O
+8	of	of	IN	_	7	prep	_	O
+9	people	people	NNS	_	8	pobj	_	O
+10	making	make	VBG	_	9	acl	_	O
+11	minimum	minimum	JJ	_	12	nmod	_	O
+12	wage	wage	NN	_	10	dobj	_	O
+13	where	where	WRB	_	15	advmod	_	O
+14	I	I	PRP	_	15	nsubj	_	O
+15	work	work	VBP	_	12	relcl	_	O
+16	the	the	DT	_	17	det	_	O
+17	owner	owner	NN	_	20	nsubj	_	O
+18	was	be	VBD	_	20	aux	_	O
+19	only	only	RB	_	20	advmod	_	O
+20	planning	plan	VBG	pos2=NN	3	advcl	_	O
+21	in	in	IN	_	20	prep	_	O
+22	giving	give	VBG	_	21	pcomp	_	O
+23	ten	#crd#	CD	pos2=JJ	24	nmod	_	B-MONEY
+24	cent	cent	NN	_	22	dobj	_	L-MONEY
+25	raises	raise	VBZ	pos2=NNS	3	conj	_	O
+26	for	for	IN	_	25	prep	_	O
+

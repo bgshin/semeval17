@@ -1,0 +1,18 @@
+1	Late	late	RB	pos2=JJ	5	advmod	_	O
+2	to	to	IN	_	1	prep	_	O
+3	this	this	DT	_	2	pobj	_	O
+4	but	but	CC	_	5	cc	_	O
+5	incredible	incredible	JJ	_	9	nmod	_	O
+6	Trump	trump	NNP	pos2=NN	8	nmod	_	B-ORG
+7	/	/	SYM	pos2=HYPH	8	punct	_	I-ORG
+8	Bannon	bannon	NNP	_	9	compound	_	L-ORG
+9	insight	insight	NN	_	0	root	_	O
+10	in	in	IN	_	9	prep	_	O
+11	this	this	DT	_	12	det	_	O
+12	piece	piece	NN	_	10	pobj	_	O
+13	by	by	IN	_	9	prep	_	O
+14	@MichaelWolffNYC	@michaelwolffnyc	NNP	pos2=ADD	13	pobj	_	U-DATE
+15	https://t.co/PrwvsRCnk7	#hlink#	ADD	pos2=RBR	13	pobj	_	O
+16	via	via	IN	_	9	prep	_	O
+17	@THR	@thr	NN	pos2=NNP	16	pobj	_	O
+

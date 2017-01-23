@@ -1,0 +1,8 @@
+1	Arlington	arlington	NNP	_	5	vocative	_	U-GPE
+2	,	,	,	_	5	punct	_	O
+3	TX	tx	NNP	pos2=JJ	4	compound	_	U-GPE
+4	students	student	NNS	_	5	nsubj	_	O
+5	protest	protest	VBP	pos2=VB	0	root	_	O
+6	Trump	trump	NNP	pos2=NN	7	nmod	_	O
+7	https://t.co/0szLaxe8Vl	#hlink#	ADD	pos2=NNP	5	dobj	_	O
+

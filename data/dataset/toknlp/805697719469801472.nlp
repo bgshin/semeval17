@@ -1,0 +1,24 @@
+1	@JohnnoFox	@johnnofox	``	pos2=NN	23	punct	_	O
+2	@PeacefulPill	@peacefulpill	ADD	pos2=NN	23	nmod	_	O
+3	'	'	``	pos2=POS	23	punct	_	O
+4	Barbiturates	barbiturate	NNS	pos2=NNPS	23	nmod	_	O
+5	'	'	POS	pos2=''	4	case	_	O
+6	first	#ord#	RB	pos2=JJ	7	advmod	_	O
+7	synthesised	synthesise	VBN	_	4	acl	_	O
+8	by	by	IN	_	7	agent	_	O
+9	von	von	NNP	_	10	compound	_	B-PERSON
+10	Baeyer	baeyer	NNP	_	8	pobj	_	L-PERSON
+11	on	on	IN	_	7	prep	_	O
+12	feast	feast	NN	_	11	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	St	st	NNP	_	15	compound	_	B-PERSON
+15	Barbara	barbara	NNP	_	13	pobj	_	L-PERSON
+16	,	,	,	_	23	punct	_	O
+17	4th	#ord#	JJ	_	18	nmod	_	U-ORDINAL
+18	Dec	dec	NNP	_	23	dep	_	B-EVENT
+19	1863	0	CD	_	21	nmod	_	L-EVENT
+20	-	-	HYPH	pos2=:	21	punct	_	O
+21	sacr	sacr	NN	pos2=GW	23	dep	_	O
+22	…	…	NFP	pos2=ADD	23	punct	_	O
+23	https://t.co/31CL5glFpp	#hlink#	ADD	pos2=NN	0	root	_	O
+

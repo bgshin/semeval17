@@ -1,0 +1,32 @@
+1	@Endo_Spoonie	@endo_spoonie	NNP	pos2=DT	2	compound	_	U-ORG
+2	wife	wife	NN	_	3	nsubj	_	O
+3	volunteered	volunteer	VBD	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	bring	bring	VB	_	3	xcomp	_	O
+6	in	in	RB	pos2=RP	5	advmod	_	O
+7	4	0	CD	_	8	nmod	_	U-CARDINAL
+8	pups	pup	NNS	_	5	dobj	_	O
+9	that	that	WDT	_	10	nsubj	_	O
+10	are	be	VBP	_	8	relcl	_	O
+11	2	0	CD	_	12	nmod	_	U-CARDINAL
+12	wks	wk	NNS	_	13	npadvmod	_	O
+13	old	old	JJ	_	10	acomp	_	O
+14	.	.	.	_	3	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	were	be	VBD	_	0	root	_	O
+3	up	up	RB	pos2=RP	2	advmod	_	O
+4	for	for	IN	_	2	prep	_	O
+5	euthanasia	euthanasia	NN	_	4	pobj	_	O
+6	at	at	IN	_	2	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	shelter	shelter	NN	pos2=NNP	6	pobj	_	O
+9	but	but	CC	pos2=IN	2	cc	_	O
+10	she	she	PRP	_	11	nsubj	_	O
+11	works	work	VBZ	_	2	conj	_	O
+12	11	0	CD	_	13	nmod	_	B-TIME
+13	hrs	hr	NNS	_	11	npadvmod	_	L-TIME
+14	a	a	DT	_	15	det	_	O
+15	day	day	NN	_	13	npadvmod	_	O
+16	!	!	.	_	11	punct	_	O
+

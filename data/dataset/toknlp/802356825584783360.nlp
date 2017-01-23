@@ -1,0 +1,11 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	'm	be	VBP	_	3	aux	_	O
+3	crying	cry	VBG	_	0	root	_	O
+4	over	over	IN	pos2=RP	3	prep	_	O
+5	Richard	richard	NNP	_	4	pobj	_	U-PERSON
+6	and	and	CC	_	5	cc	_	O
+7	Leonard	leonard	NNP	_	9	compound	_	B-PERSON
+8	Cohen	cohen	NNP	_	9	compound	_	L-PERSON
+9	😭😭😭	😭😭😭	NNP	pos2=POS	5	conj	_	O
+10	#GilmoreGirlsRevival	#gilmoregirlsrevival	ADD	pos2=NNP	3	punct	_	O
+

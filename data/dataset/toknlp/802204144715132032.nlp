@@ -1,0 +1,9 @@
+1	You	you	PRP	_	3	nsubj	_	O
+2	better	well	RBR	pos2=RB	3	advmod	_	O
+3	nominate	nominate	VB	pos2=VBP	0	root	_	O
+4	@KeEquityBank	@keequitybank	NN	pos2=NNS	3	dobj	_	O
+5	for	for	IN	_	3	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	#MannequinChallenge	#mannequinchallenge	NN	pos2=NNP	5	pobj	_	O
+8	https://t.co/UE7uJkF2Kd	#hlink#	ADD	_	3	dep	_	O
+

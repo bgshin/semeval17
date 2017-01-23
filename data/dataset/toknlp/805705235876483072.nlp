@@ -1,0 +1,17 @@
+1	#University	#university	NN	pos2=NNP	5	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	#California	#california	NNP	pos2=NNS	2	pobj	_	U-ORG
+4	will	will	MD	_	5	aux	_	O
+5	refuse	refuse	VB	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	assist	assist	VB	_	5	xcomp	_	O
+8	federal	federal	JJ	_	10	nmod	_	O
+9	#immigration	#immigration	NN	pos2=NNP	10	compound	_	O
+10	agents	agent	NNS	_	7	dobj	_	O
+11	seeking	seek	VBG	_	10	acl	_	O
+12	#students	#students	NNS	pos2=FW	11	dobj	_	O
+13	without	without	IN	_	11	prep	_	O
+14	legal	legal	JJ	_	15	nmod	_	O
+15	status	status	NN	_	13	pobj	_	O
+16	https://t.co/haIqfQG8kZ	#hlink#	ADD	_	12	nmod	_	U-ORG
+

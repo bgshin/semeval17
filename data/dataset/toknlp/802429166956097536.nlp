@@ -1,0 +1,22 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	really	really	RB	_	4	advmod	_	O
+4	shameful	shameful	JJ	_	2	acomp	_	O
+5	that	that	IN	pos2=WDT	13	mark	_	O
+6	@SitaramYechury	@sitaramyechury	NNP	pos2=NN	13	nsubj	_	O
+7	&	&	CC	_	6	cc	_	O
+8	parts	part	NNS	_	6	conj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	Indian	indian	JJ	_	11	nmod	_	U-NORP
+11	liberals	liberal	NNS	_	9	pobj	_	O
+12	are	be	VBP	_	13	aux	_	O
+13	glorifying	glorify	VBG	_	2	ccomp	_	O
+14	such	such	PDT	_	17	predet	_	O
+15	a	a	DT	_	17	det	_	O
+16	brutal	brutal	JJ	_	17	nmod	_	O
+17	regime	regime	NN	_	13	dobj	_	O
+18	.	.	.	_	2	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/3qj13K1BBS	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,10 @@
+1	@StoneLarry	@stonelarry	JJ	pos2=DT	3	nmod	_	O
+2	top	top	JJ	_	3	nmod	_	O
+3	candidate	candidate	NN	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	NL	nl	NNP	pos2=JJ	7	compound	_	B-PERSON
+6	Cy	cy	NNP	pos2=NN	7	compound	_	I-PERSON
+7	Young	young	NNP	_	4	pobj	_	L-PERSON
+8	inevitably	inevitably	RB	_	3	advmod	_	O
+9	...	..	.	pos2=,	3	punct	_	O
+

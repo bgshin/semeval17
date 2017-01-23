@@ -1,0 +1,21 @@
+1	@ricky_martin	@ricky_martin	NNP	pos2=UH	5	vocative	_	O
+2	@miguelrios	@miguelrios	IN	pos2=NNPS	1	prep	_	O
+3	Miguel	miguel	NNP	_	2	pobj	_	O
+4	,	,	,	_	5	punct	_	O
+5	tell	tell	VB	_	0	root	_	O
+6	me	me	PRP	_	5	dobj	_	O
+7	about	about	IN	_	5	prep	_	O
+8	this	this	DT	_	9	det	_	O
+9	guy	guy	NN	_	7	pobj	_	O
+10	,	,	,	_	5	punct	_	O
+11	and	and	CC	_	5	cc	_	O
+12	what	what	WP	_	14	dobj	_	O
+13	he	he	PRP	_	14	nsubj	_	O
+14	means	mean	VBZ	_	5	ccomp	_	O
+15	to	to	IN	_	14	prep	_	O
+16	you	you	PRP	_	15	pobj	_	O
+17	as	as	IN	_	14	prep	_	O
+18	a	a	DT	_	19	det	_	O
+19	fellow	fellow	NN	pos2=JJ	17	pobj	_	O
+20	PuertoRiqueño	puertoriqueño	NNP	pos2=NN	19	appos	_	U-ORG
+

@@ -1,0 +1,23 @@
+1	Trump	trump	NN	pos2=NNP	3	nsubj	_	U-ORG
+2	will	will	MD	_	3	aux	_	O
+3	announce	announce	VB	_	13	ccomp	_	O
+4	Ben	ben	NNP	_	3	dobj	_	U-PERSON
+5	as	as	IN	_	3	prep	_	O
+6	his	his	PRP$	_	9	poss	_	O
+7	new	new	JJ	_	9	nmod	_	O
+8	man	man	NN	_	9	compound	_	O
+9	servant	servant	NN	pos2=JJ	5	pobj	_	O
+10	today	today	NN	_	3	npadvmod	_	U-DATE
+11	,	,	,	_	13	punct	_	O
+12	Carson	carson	NNP	_	13	nsubj	_	U-PERSON
+13	got	get	VBD	_	0	root	_	O
+14	confused	confused	JJ	pos2=VBN	13	acomp	_	O
+15	not	not	RB	_	19	neg	_	O
+16	Housing	housing	NNP	pos2=VBG	17	compound	_	O
+17	Secretary	secretary	NNP	_	18	compound	_	O
+18	House	house	NNP	_	19	nsubj	_	O
+19	Keeping	keep	VBG	pos2=NNP	13	advcl	_	O
+20	Secr	secr	NNP	pos2=GW	19	dobj	_	O
+21	…	…	NFP	pos2=-LRB-	19	oprd	_	O
+22	https://t.co/NsZqmCG6o8	#hlink#	ADD	_	19	dobj	_	O
+

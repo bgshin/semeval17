@@ -1,0 +1,12 @@
+1	#FlashBackFriday	#flashbackfriday	NN	pos2=NNP	5	nmod	_	O
+2	"	"	``	pos2=''	5	punct	_	O
+3	Best	good	JJS	pos2=NNP	4	nmod	_	O
+4	friend	friend	NN	_	5	compound	_	O
+5	Party	party	NNP	pos2=NN	7	nmod	_	U-ORG
+6	"	"	''	pos2=``	5	punct	_	O
+7	#MannequinChallenge	#mannequinchallenge	NN	pos2=XX	8	compound	_	O
+8	LITTTT	litttt	NNP	pos2=NN	11	dep	_	B-WORK_OF_ART
+9	🙌🏾🙌🏾🔥🔥	🙌🏾🙌🏾🔥🔥	NFP	pos2=GW	11	nmod	_	I-WORK_OF_ART
+10	@maxlevellounge	@maxlevellounge	GW	pos2=ADD	11	nmod	_	L-WORK_OF_ART
+11	https://t.co/msh7OPDRRv	#hlink#	ADD	pos2=NN	0	root	_	O
+

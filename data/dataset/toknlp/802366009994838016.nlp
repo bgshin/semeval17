@@ -1,0 +1,21 @@
+1	Some	some	DT	_	3	det	_	O
+2	transition	transition	NN	_	3	compound	_	O
+3	thoughts	thought	NNS	_	8	dep	_	O
+4	:	:	:	_	8	punct	_	O
+5	Trump	trump	NNP	pos2=NN	7	poss	_	U-ORG
+6	's	's	POS	_	5	case	_	O
+7	NASA	nasa	NNP	_	8	nsubj	_	U-ORG
+8	looks	look	VBZ	_	0	root	_	O
+9	good	good	JJ	_	8	acomp	_	O
+10	for	for	IN	_	9	prep	_	O
+11	human	human	JJ	_	13	nmod	_	O
+12	space	space	NN	_	13	compound	_	O
+13	exploration	exploration	NN	_	10	pobj	_	O
+14	and	and	CC	_	13	cc	_	O
+15	terrible	terrible	JJ	_	13	conj	_	O
+16	for	for	IN	_	15	prep	_	O
+17	Earth	earth	NNP	pos2=NN	18	compound	_	U-LOC
+18	science	science	NN	pos2=GW	16	pobj	_	O
+19	https://t.co/tXMZRDysVt	#hlink#	ADD	_	17	appos	_	O
+20	@Verge	@verge	NNP	pos2=-RRB-	8	vocative	_	O
+

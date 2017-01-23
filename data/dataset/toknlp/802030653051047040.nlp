@@ -1,0 +1,9 @@
+1	so	so	RB	_	3	advmod	_	O
+2	i	I	PRP	_	3	nsubj	_	O
+3	'm	be	VBP	_	0	root	_	O
+4	newly	newly	RB	_	5	advmod	_	O
+5	obsessed	obsessed	JJ	pos2=VBN	3	acomp	_	O
+6	with	with	IN	_	5	prep	_	O
+7	david	david	NNP	pos2=FW	8	compound	_	B-PERSON
+8	blaine	blaine	NNP	pos2=NN	6	pobj	_	L-PERSON
+

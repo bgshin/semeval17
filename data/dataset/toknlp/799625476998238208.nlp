@@ -1,0 +1,27 @@
+1	Chinese	chinese	JJ	pos2=NNP	3	nmod	_	U-NORP
+2	Web	web	NN	pos2=NNP	3	compound	_	O
+3	Sites	site	NNPS	pos2=NNS	5	nsubj	_	O
+4	are	be	VBP	_	5	aux	_	O
+5	censuring	censure	VBG	_	0	root	_	O
+6	"	"	``	pos2=''	8	punct	_	O
+7	Kim	kim	NNP	_	8	compound	_	B-PERSON
+8	Fatty	fatty	NNP	_	5	dobj	_	L-PERSON
+9	the	the	DT	_	10	det	_	O
+10	Third	#ord#	NNP	pos2=JJ	8	appos	_	U-ORDINAL
+11	"	"	''	_	8	punct	_	O
+12	,	,	,	_	8	punct	_	O
+13	a	a	DT	_	14	det	_	O
+14	nickname	nickname	NN	_	8	appos	_	O
+15	given	give	VBN	_	14	acl	_	O
+16	to	to	TO	_	17	aux	_	O
+17	disparage	disparage	VB	_	15	advcl	_	O
+18	N.	n.	NNP	pos2=JJ	20	nmod	_	O
+19	Korean	korean	JJ	pos2=NNP	20	nmod	_	U-NORP
+20	leader	leader	NN	_	17	dobj	_	O
+21	,	,	,	_	20	punct	_	O
+22	Kim	kim	NNP	_	25	compound	_	B-PERSON
+23	Jong	jong	NNP	_	25	compound	_	I-PERSON
+24	-	-	HYPH	_	25	punct	_	I-PERSON
+25	un	un	NNP	_	20	appos	_	L-PERSON
+26	....	..	.	_	5	punct	_	O
+

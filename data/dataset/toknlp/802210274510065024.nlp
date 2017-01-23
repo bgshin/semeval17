@@ -1,0 +1,26 @@
+1	#Turkey	#turkey	NNP	pos2=NN	3	compound	_	B-ORG
+2	-	-	HYPH	pos2=:	3	punct	_	I-ORG
+3	EU	eu	NNP	_	6	dep	_	L-ORG
+4	:	:	:	_	6	punct	_	O
+5	forced	force	VBN	pos2=VBD	6	nmod	_	O
+6	marriage	marriage	NN	_	0	root	_	O
+7	.	.	.	_	6	punct	_	O
+
+1	#Erdogan	#erdogan	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	continues	continue	VBZ	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	abuse	abuse	VB	_	2	xcomp	_	O
+5	the	the	DT	_	6	det	_	O
+6	#EU	#eu	NN	pos2=NNP	4	dobj	_	O
+7	by	by	IN	_	4	prep	_	O
+8	both	both	DT	pos2=CC	10	det	_	O
+9	supporting	support	VBG	_	10	nmod	_	O
+10	#ISIS	#isis	NN	pos2=NNP	7	pobj	_	O
+11	and	and	CC	_	2	cc	_	O
+12	creating	create	VBG	_	2	conj	_	O
+13	one	#crd#	CD	pos2=PRP	14	nmod	_	U-CARDINAL
+14	#refugeecrisis	#refugeecrisis	NN	pos2=FW	12	dobj	_	O
+15	after	after	IN	_	12	prep	_	O
+16	another	another	DT	_	15	pobj	_	O
+17	.	.	.	_	2	punct	_	O
+

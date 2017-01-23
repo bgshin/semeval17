@@ -1,0 +1,15 @@
+1	@ottdogbuns	@ottdogbuns	UH	pos2=NNS	4	discourse	_	O
+2	@RyanSheebs	@ryansheebs	NNS	pos2=UH	4	vocative	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	assumed	assume	VBD	_	0	root	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	were	be	VBD	_	4	ccomp	_	O
+7	a	a	DT	_	8	det	_	O
+8	victim	victim	NN	_	6	attr	_	O
+9	of	of	IN	_	8	prep	_	O
+10	animal	animal	NN	_	11	compound	_	O
+11	testing	testing	NN	_	9	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	hair	hair	NN	_	14	compound	_	O
+14	volumizer	volumizer	NN	pos2=FW	12	pobj	_	O
+

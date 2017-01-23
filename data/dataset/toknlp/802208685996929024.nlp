@@ -1,0 +1,17 @@
+1	@Aarias1840	@aarias0	NN	pos2=NNS	16	dep	_	O
+2	@cat_1012000	@cat_0	NN	pos2=LS	3	compound	_	O
+3	@Military4Trump	@military0trump	NN	pos2=XX	16	dep	_	O
+4	@Independent	@independent	JJ	pos2=ADD	5	nmod	_	O
+5	result	result	NN	_	3	npadvmod	_	O
+6	of	of	IN	_	5	prep	_	O
+7	libs	libs	NNS	pos2=FW	8	compound	_	O
+8	experiments	experiment	NNS	_	6	pobj	_	O
+9	:	:	:	_	14	punct	_	O
+10	millions	#crd#	NNS	_	11	nsubj	_	U-CARDINAL
+11	dead	dead	JJ	_	14	ccomp	_	O
+12	,	,	,	_	14	punct	_	O
+13	countries	country	NNS	_	14	nsubj	_	O
+14	destroye	destroye	JJ	pos2=VBP	16	dep	_	O
+15	…	…	NFP	pos2=-LRB-	14	punct	_	O
+16	https://t.co/crlRSyehy5	#hlink#	ADD	pos2=NN	0	root	_	O
+

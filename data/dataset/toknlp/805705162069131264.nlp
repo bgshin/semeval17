@@ -1,0 +1,18 @@
+1	Pope	pope	NNP	pos2=NN	2	compound	_	O
+2	Francis	francis	NNP	_	14	vocative	_	U-PERSON
+3	:	:	:	_	14	punct	_	O
+4	“	"	``	_	14	punct	_	O
+5	If	if	IN	_	7	mark	_	O
+6	I	I	PRP	_	7	nsubj	_	O
+7	speak	speak	VBP	_	14	advcl	_	O
+8	of	of	IN	_	7	prep	_	O
+9	Islamic	islamic	JJ	pos2=NNP	10	nmod	_	U-NORP
+10	violence	violence	NN	_	8	pobj	_	O
+11	,	,	,	_	14	punct	_	O
+12	I	I	PRP	_	14	nsubj	_	O
+13	must	must	MD	_	14	aux	_	O
+14	speak	speak	VB	_	0	root	_	O
+15	of	of	IN	_	14	prep	_	O
+16	…	…	NFP	pos2=NNP	15	pobj	_	O
+17	https://t.co/TssXz7AsLN	#hlink#	ADD	pos2=NN	14	dep	_	O
+

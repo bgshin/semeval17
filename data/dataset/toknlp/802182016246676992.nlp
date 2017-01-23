@@ -1,0 +1,16 @@
+1	Zionists	zionist	NNPS	pos2=NNS	2	nsubj	_	U-NORP
+2	sink	sink	VBP	pos2=VB	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	SS	ss	NNP	pos2=NN	5	compound	_	O
+5	Patria	patria	NNP	_	2	dobj	_	O
+6	in	in	IN	_	2	prep	_	O
+7	1940	0	CD	_	6	pobj	_	U-DATE
+8	murdering	murder	VBG	_	2	advcl	_	O
+9	267	0	CD	_	10	nmod	_	U-CARDINAL
+10	people	people	NNS	_	8	dobj	_	O
+11	https://t.co/JZUZBNObcf	#hlink#	ADD	pos2=VBP	8	appos	_	O
+12	#gaza	#gaza	-RRB-	pos2=PRP	2	punct	_	O
+13	#palestine	#palestine	UH	pos2=PRP	2	discourse	_	O
+14	#israel	#israel	UH	pos2=VB	2	discourse	_	O
+15	#BDS	#bds	NNS	pos2=UH	2	dobj	_	O
+

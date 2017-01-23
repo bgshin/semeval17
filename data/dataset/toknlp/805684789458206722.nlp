@@ -1,0 +1,23 @@
+1	When	when	WRB	_	5	advmod	_	O
+2	you	you	PRP	_	5	nsubj	_	O
+3	've	have	VBP	_	5	aux	_	O
+4	been	be	VBN	_	5	aux	_	O
+5	looking	look	VBG	_	22	advcl	_	O
+6	forward	forward	RB	_	5	advmod	_	O
+7	to	to	IN	_	5	prep	_	O
+8	@UniversalPics	@universalpics	VB	pos2=PRP$	7	pcomp	_	O
+9	monster	monster	NN	_	10	compound	_	O
+10	reboot	reboot	NN	_	8	dobj	_	O
+11	for	for	IN	_	8	prep	_	O
+12	months	month	NNS	_	11	pobj	_	U-DATE
+13	and	and	CC	_	5	cc	_	O
+14	they	they	PRP	_	15	nsubj	_	O
+15	put	put	VBD	pos2=VBP	5	conj	_	O
+16	out	out	RP	_	15	prt	_	O
+17	this	this	DT	_	19	det	_	O
+18	Michael	michael	NNP	_	19	compound	_	B-PERSON
+19	Bay	bay	NNP	_	15	dobj	_	L-PERSON
+20	look	look	VBP	pos2=VB	22	discourse	_	O
+21	…	…	NFP	pos2=IN	22	punct	_	O
+22	https://t.co/izt16c9jRX	#hlink#	ADD	_	0	root	_	O
+

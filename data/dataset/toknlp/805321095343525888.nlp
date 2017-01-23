@@ -1,0 +1,21 @@
+1	@CAM_AnnaMac	@cam_annamac	POS	pos2=RB	4	det	_	O
+2	fastest	fast	JJS	_	4	nmod	_	O
+3	growth	growth	NN	_	4	compound	_	O
+4	rate	rate	NN	_	9	nsubj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	vegetarianism	vegetarianism	NN	_	5	pobj	_	O
+7	in	in	IN	_	6	prep	_	O
+8	Europe	europe	NNP	_	7	pobj	_	U-LOC
+9	is	be	VBZ	_	0	root	_	O
+10	in	in	IN	_	9	prep	_	O
+11	Germany	germany	NNP	_	10	pobj	_	U-GPE
+12	(	(	-LRB-	_	15	punct	_	O
+13	I	I	PRP	_	15	nsubj	_	O
+14	'm	be	VBP	_	15	aux	_	O
+15	going	go	VBG	_	9	ccomp	_	O
+16	to	to	TO	_	17	aux	_	O
+17	assume	assume	VB	_	15	xcomp	_	O
+18	veganism	veganism	NN	_	17	dobj	_	O
+19	also	also	RB	_	17	advmod	_	O
+20	)	)	-RRB-	_	9	punct	_	O
+

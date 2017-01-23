@@ -1,0 +1,17 @@
+1	@leilaluheshi	@leilaluheshi	JJ	pos2=FW	3	nmod	_	O
+2	BBC	bbc	NNP	_	3	compound	_	B-ORG
+3	News	news	NNP	_	5	nsubj	_	L-ORG
+4	always	always	RB	_	5	advmod	_	O
+5	reporting	report	VBG	_	10	csubj	_	O
+6	about	about	IN	pos2=RB	5	prep	_	O
+7	negative	negative	JJ	_	8	nmod	_	O
+8	immigration	immigration	NN	_	6	pobj	_	O
+9	never	never	RB	_	10	neg	_	O
+10	promotes	promote	VBZ	_	0	root	_	O
+11	harmony	harmony	NN	_	15	nmod	_	O
+12	or	or	CC	_	11	cc	_	O
+13	justice	justice	NN	_	11	conj	_	O
+14	just	just	RB	_	15	advmod	_	O
+15	division	division	NN	_	10	dobj	_	O
+16	.	.	.	_	10	punct	_	O
+

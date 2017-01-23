@@ -1,0 +1,7 @@
+1	Of	of	RB	pos2=IN	2	advmod	_	O
+2	course	course	RB	_	6	advmod	_	O
+3	#clownshoes	#clownshoes	UH	pos2=NNS	6	discourse	_	O
+4	#altright	#altright	UH	pos2=GW	6	discourse	_	O
+5	#IllinoisNazis	#illinoisnazis	ADD	pos2=GW	6	punct	_	O
+6	https://t.co/UgRjYB6WiD	#hlink#	ADD	_	0	root	_	O
+

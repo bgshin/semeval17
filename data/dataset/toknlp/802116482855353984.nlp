@@ -1,0 +1,26 @@
+1	You	you	PRP	_	2	nsubj	_	O
+2	were	be	VBD	_	0	root	_	O
+3	better	good	JJR	_	2	acomp	_	O
+4	than	than	IN	_	3	prep	_	O
+5	my	my	PRP$	_	7	poss	_	O
+6	wildest	wild	JJS	_	7	nmod	_	O
+7	dreams	dream	NNS	_	4	pobj	_	O
+8	but	but	CC	_	2	cc	_	O
+9	I	I	PRP	_	10	nsubj	_	O
+10	'm	be	VBP	_	2	conj	_	O
+11	still	still	RB	_	10	advmod	_	O
+12	not	not	RB	_	10	neg	_	O
+13	happy	happy	JJ	_	10	acomp	_	O
+14	..	..	.	pos2=,	10	punct	_	O
+
+1	Kate	kate	NNP	_	0	root	_	U-PERSON
+2	to	to	IN	_	1	prep	_	O
+3	Toby	toby	NNP	_	2	pobj	_	U-PERSON
+4	.	.	.	_	1	punct	_	O
+
+1	Poor	poor	JJ	pos2=NNP	2	nmod	_	O
+2	Toby	toby	NNP	_	0	root	_	U-PERSON
+3	.	.	.	_	2	punct	_	O
+
+1	😢#ThisIsUs	😢#thisisus	ADD	pos2=NN	0	root	_	O
+

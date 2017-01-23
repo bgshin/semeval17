@@ -1,0 +1,15 @@
+1	Happy	happy	JJ	pos2=NNP	2	nmod	_	O
+2	Thanksgiving	thanksgiving	NNP	_	0	root	_	U-DATE
+3	to	to	IN	_	2	prep	_	O
+4	all	all	PDT	_	7	predet	_	O
+5	the	the	DT	_	7	det	_	O
+6	bad	bad	JJ	_	7	nmod	_	O
+7	hombres	hombre	NNS	_	3	pobj	_	O
+8	and	and	CC	_	7	cc	_	O
+9	nasty	nasty	JJ	_	10	nmod	_	O
+10	women	woman	NNS	_	7	conj	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	https://t.co/RIcH11DmmJ	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/aRbQrXECvM	#hlink#	ADD	_	0	root	_	U-ORG
+

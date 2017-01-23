@@ -1,0 +1,25 @@
+1	Im	im	UH	pos2=NN	2	discourse	_	O
+2	glad	glad	JJ	pos2=UH	0	root	_	O
+3	that	that	IN	pos2=DT	6	mark	_	O
+4	gay	gay	JJ	pos2=NN	5	nmod	_	O
+5	marriage	marriage	NN	_	6	nsubj	_	O
+6	is	be	VBZ	_	2	ccomp	_	O
+7	now	now	RB	_	6	advmod	_	O
+8	legal	legal	JJ	_	6	acomp	_	O
+9	,	,	,	_	11	punct	_	O
+10	just	just	RB	_	11	advmod	_	O
+11	have	have	VB	pos2=VBP	6	dep	_	O
+12	to	to	TO	_	13	aux	_	O
+13	figure	figure	VB	_	11	xcomp	_	O
+14	out	out	RP	_	13	prt	_	O
+15	how	how	WRB	_	17	advmod	_	O
+16	to	to	TO	_	17	aux	_	O
+17	force	force	VB	_	13	xcomp	_	O
+18	chance	chance	NN	pos2=VB	17	dobj	_	O
+19	the	the	DT	_	20	det	_	O
+20	rapper	rapper	NN	_	22	nsubj	_	O
+21	to	to	TO	_	22	aux	_	O
+22	marry	marry	VB	_	17	xcomp	_	O
+23	me	me	PRP	_	22	dobj	_	O
+24	!!	!!	.	_	11	punct	_	O
+

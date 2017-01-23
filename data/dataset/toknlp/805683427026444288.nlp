@@ -1,0 +1,23 @@
+1	L	l	JJ	pos2=NNP	2	nmod	_	O
+2	L	l	NN	pos2=JJ	3	dep	_	O
+3	#ZacEfron	#zacefron	ADD	pos2=NN	0	root	_	O
+4	#Fashion	#fashion	NNP	pos2=IN	3	dobj	_	O
+5	The	the	DT	_	12	det	_	O
+6	Lucky	lucky	NNP	_	12	compound	_	O
+7	One	#crd#	NNP	pos2=CD	10	compound	_	O
+8	Blu	blu	NNP	_	10	compound	_	O
+9	-	-	HYPH	_	10	punct	_	O
+10	Ray	ray	NNP	_	12	compound	_	O
+11	DVD	dvd	NN	pos2=NNP	12	compound	_	O
+12	Movie	movie	NNP	pos2=NN	4	appos	_	O
+13	with	with	IN	_	12	prep	_	O
+14	Zac	zac	NNP	_	17	compound	_	O
+15	Efron	efron	NNP	_	17	advmod	_	O
+16	-	-	HYPH	pos2=POS	17	punct	_	O
+17	EXCELLENT	excellent	JJ	_	18	nmod	_	O
+18	CONDITION	condition	NN	_	13	pobj	_	O
+19	!	!	.	_	2	punct	_	O
+
+1	……	……	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/m8aTi9SO6Q	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,13 @@
+1	Ringing	ring	VBG	pos2=NN	12	advcl	_	O
+2	in	in	IN	_	1	prep	_	O
+3	the	the	DT	_	6	det	_	O
+4	greatest	great	JJS	_	6	nmod	_	O
+5	non-Chanel-O-Ween	non-chanel-o-ween	JJ	pos2=VBN	6	nmod	_	O
+6	holiday	holiday	NN	_	2	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	B-DATE
+9	year	year	NN	_	7	pobj	_	I-DATE
+10	#BlackFriday	#blackfriday	NNP	pos2=GW	12	nmod	_	I-DATE
+11	#ScreamQueens	#screamqueens	ADD	pos2=VBZ	12	nmod	_	L-DATE
+12	https://t.co/Me7TpuAMNt	#hlink#	ADD	_	0	root	_	O
+

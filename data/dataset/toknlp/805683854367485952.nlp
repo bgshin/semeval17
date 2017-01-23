@@ -1,0 +1,16 @@
+1	@GPB5UK	@gpb0uk	NN	pos2=XX	2	nsubj	_	O
+2	Is	be	VBZ	_	0	root	_	O
+3	there	there	EX	pos2=RB	2	expl	_	O
+4	anything	anything	NN	_	2	attr	_	O
+5	we	we	PRP	_	7	nsubj	_	O
+6	can	can	MD	_	7	aux	_	O
+7	help	help	VB	_	4	relcl	_	O
+8	with	with	IN	pos2=RP	7	prep	_	O
+9	at	at	RB	pos2=IN	10	advmod	_	O
+10	all	all	RB	pos2=DT	7	advmod	_	O
+11	Graham	graham	NNP	_	7	vocative	_	U-PERSON
+12	?	?	.	_	2	punct	_	O
+
+1	^	^	SYM	_	2	punct	_	B-PERSON
+2	Ashley	ashley	NNP	_	0	root	_	L-PERSON
+

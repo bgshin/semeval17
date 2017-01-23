@@ -1,0 +1,28 @@
+1	@aravosis	@aravosis	NN	pos2=UH	9	dep	_	O
+2	For	for	IN	_	1	prep	_	O
+3	past	past	JJ	_	5	nmod	_	B-DATE
+4	8	0	CD	_	5	nmod	_	I-DATE
+5	years	year	NNS	_	2	pobj	_	L-DATE
+6	under	under	IN	_	1	prep	_	O
+7	Obama	obama	NNP	_	6	pobj	_	U-PERSON
+8	we	we	PRP	_	9	nsubj	_	O
+9	had	have	VBD	_	0	root	_	O
+10	no	no	DT	_	11	det	_	O
+11	peace	peace	NN	_	9	dobj	_	O
+12	but	but	CC	_	11	cc	_	O
+13	more	more	JJR	pos2=RBR	15	nmod	_	O
+14	major	major	JJ	_	15	nmod	_	O
+15	conflicts	conflict	NNS	_	11	conj	_	O
+16	and	and	CC	_	15	cc	_	O
+17	Obama	obama	NNP	_	18	nsubj	_	U-PERSON
+18	led	lead	VBD	_	9	conj	_	O
+19	the	the	DT	_	20	det	_	O
+20	destruction	destruction	NN	_	18	dobj	_	O
+21	of	of	IN	_	20	prep	_	O
+22	#Libya	#libya	NNP	pos2=NN	21	pobj	_	U-ORG
+23	.	.	.	_	18	punct	_	O
+
+1	And	and	CC	_	2	cc	_	O
+2	#Yemen	#yemen	NNP	pos2=NNS	0	root	_	U-GPE
+3	.	.	.	_	2	punct	_	O
+

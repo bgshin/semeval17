@@ -1,0 +1,12 @@
+1	is	be	VBZ	_	0	root	_	O
+2	thisa	thisa	LS	pos2=RB	1	nsubj	_	O
+3	)	)	-RRB-	_	1	punct	_	O
+4	Ben	ben	NNP	_	5	compound	_	B-PERSON
+5	Carsonorb	carsonorb	NNP	_	0	root	_	L-PERSON
+6	)	)	-RRB-	_	1	punct	_	O
+7	Jill	jill	NNP	_	8	compound	_	B-PERSON
+8	Stein	stein	NNP	_	1	nsubj	_	L-PERSON
+9	.	.	.	_	1	punct	_	O
+
+1	https://t.co/6gPDZzs95K	#hlink#	ADD	_	0	root	_	U-ORG
+

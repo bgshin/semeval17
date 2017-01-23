@@ -1,0 +1,15 @@
+1	@magbedu	@magbedu	UH	pos2=XX	3	discourse	_	O
+2	@chikatwerks1	@chikatwerks0	NN	pos2=UH	3	compound	_	O
+3	@MaDailyGist	@madailygist	NN	pos2=UH	5	dep	_	O
+4	hi	hi	UH	pos2=JJ	5	discourse	_	O
+5	love	love	VB	pos2=NN	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	tweet	tweet	NN	_	5	dobj	_	O
+8	,	,	,	_	5	punct	_	O
+9	got	get	VBD	_	5	conj	_	O
+10	stuff	stuff	NN	_	9	dobj	_	O
+11	on	on	IN	_	9	prep	_	O
+12	social	social	JJ	_	13	nmod	_	O
+13	security	security	NN	_	14	compound	_	O
+14	tweet	tweet	NN	_	11	pobj	_	O
+

@@ -1,0 +1,9 @@
+1	why	why	WRB	_	4	advmod	_	O
+2	am	be	VBP	_	4	aux	_	O
+3	i	I	PRP	_	4	nsubj	_	O
+4	seeing	see	VBG	_	0	root	_	O
+5	so	so	RB	_	6	advmod	_	O
+6	many	many	JJ	_	8	nmod	_	O
+7	westworld	westworld	NN	pos2=JJ	8	compound	_	O
+8	tweets	tweet	NNS	_	4	dobj	_	O
+

@@ -1,0 +1,24 @@
+1	@drtinahahn	@drtinahahn	UH	pos2=XX	7	discourse	_	O
+2	@ACLU	@aclu	XX	pos2=$	7	dep	_	O
+3	@nytimes	@nytimes	UH	pos2=NNS	7	discourse	_	O
+4	We	we	PRP	_	7	nsubj	_	O
+5	have	have	VBP	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	forgotten	forget	VBN	_	0	root	_	O
+8	.	.	.	_	7	punct	_	O
+
+1	Still	still	RB	_	2	advmod	_	O
+2	litigating	litigate	VBG	_	0	root	_	O
+3	multiple	multiple	JJ	_	4	nmod	_	O
+4	cases	case	NNS	_	2	dobj	_	O
+5	while	while	IN	_	8	mark	_	O
+6	Obama	obama	NNP	_	7	compound	_	U-PERSON
+7	admin	admin	NN	_	8	nsubj	_	O
+8	says	say	VBZ	_	2	advcl	_	O
+9	courts	court	NNS	_	12	nsubj	_	O
+10	do	do	VBP	_	12	aux	_	O
+11	n't	not	RB	_	12	neg	_	O
+12	have	have	VB	_	8	ccomp	_	O
+13	jurisdiction	jurisdiction	NN	_	12	dobj	_	O
+14	.	.	.	_	2	punct	_	O
+

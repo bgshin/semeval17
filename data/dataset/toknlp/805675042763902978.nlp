@@ -1,0 +1,13 @@
+1	Problem	problem	NN	_	4	nsubj	_	O
+2	with	with	IN	_	1	prep	_	O
+3	this	this	DT	_	2	pobj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	voter	voter	NN	_	7	compound	_	O
+7	suppression	suppression	NN	_	4	attr	_	O
+8	going	go	VBG	_	7	acl	_	O
+9	on	on	RP	pos2=RB	8	prt	_	O
+10	..	..	.	pos2=,	4	punct	_	O
+
+1	https://t.co/DNleIDAWR2	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,16 @@
+1	@joey__pena	@joey__pena	UH	pos2=NN	5	discourse	_	O
+2	@yulissa__pena	@yulissa__pena	UH	pos2=NN	5	discourse	_	O
+3	😂😂😂😂😂	😂😂😂😂😂	NFP	pos2=IN	5	punct	_	O
+4	he	he	PRP	_	5	nsubj	_	O
+5	needs	need	VBZ	_	0	root	_	O
+6	full	full	JJ	_	7	nmod	_	O
+7	name	name	NN	_	5	dobj	_	O
+8	,	,	,	_	7	punct	_	O
+9	number	number	NN	_	7	conj	_	O
+10	,	,	,	_	9	punct	_	O
+11	address	address	NN	pos2=VB	9	conj	_	O
+12	,	,	,	_	11	punct	_	O
+13	and	and	CC	_	11	cc	_	O
+14	social	social	JJ	_	15	nmod	_	O
+15	security	security	NN	_	11	conj	_	O
+

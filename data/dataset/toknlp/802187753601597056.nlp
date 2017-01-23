@@ -1,0 +1,18 @@
+1	The	the	DT	_	2	det	_	O
+2	world	world	NN	_	0	root	_	O
+3	we	we	PRP	_	4	nsubj	_	O
+4	live	live	VBP	_	2	relcl	_	O
+5	...	..	.	pos2=,	2	punct	_	O
+
+1	😢	😢	NFP	pos2=SYM	11	punct	_	O
+2	#palestine	#palestine	UH	pos2=PRP	9	discourse	_	O
+3	#arabs	#arabs	UH	pos2=FW	9	discourse	_	O
+4	#muslims	#muslims	UH	pos2=NNPS	9	discourse	_	O
+5	#turkey	#turkey	UH	pos2=FW	9	discourse	_	O
+6	#saudiarabia	#saudiarabia	UH	pos2=FW	9	discourse	_	O
+7	#bbc	#bbc	UH	pos2=FW	9	discourse	_	O
+8	#cnn	#cnn	UH	pos2=FW	9	discourse	_	O
+9	#aljazeera	#aljazeera	UH	pos2=GW	11	discourse	_	O
+10	…	…	NFP	pos2=-LRB-	11	punct	_	O
+11	https://t.co/S33PfFE2LG	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,25 @@
+1	@deep_throat	@deep_throat	NNP	pos2=NN	8	vocative	_	O
+2	__	__	NFP	pos2=XX	8	punct	_	O
+3	Mr.	mr.	NNP	_	5	compound	_	O
+4	@realDonaldTrump	@realdonaldtrump	NNP	pos2=POS	5	compound	_	O
+5	FARC	farc	NNP	_	8	nsubj	_	U-ORG
+6	will	will	MD	_	8	aux	_	O
+7	always	always	RB	_	8	advmod	_	O
+8	be	be	VB	_	0	root	_	O
+9	a	a	DT	_	11	det	_	O
+10	terrorist	terrorist	JJ	pos2=NN	11	nmod	_	O
+11	group	group	NN	_	8	attr	_	O
+12	.	.	.	_	8	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	the	the	DT	_	6	det	_	O
+4	real	real	JJ	pos2=RB	6	nmod	_	O
+5	Bad	bad	NNP	pos2=JJ	6	compound	_	O
+6	Hombres	hombres	NNP	pos2=NNS	2	attr	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	@Gr_Naranjo	@gr_naranjo	ADD	pos2=XX	3	punct	_	O
+2	@RosLehtinen	@roslehtinen	ADD	pos2=GW	0	root	_	O
+3	@MarioDB	@mariodb	ADD	pos2=NNS	2	pobj	_	O
+

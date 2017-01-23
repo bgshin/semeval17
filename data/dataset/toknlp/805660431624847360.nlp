@@ -1,0 +1,25 @@
+1	@DianaforHillary	@dianaforhillary	ADD	pos2=NNP	2	compound	_	O
+2	@JKH2	@jkh0	NN	pos2=ADD	13	dep	_	O
+3	&	&	CC	_	2	cc	_	O
+4	to	to	IN	_	13	prep	_	O
+5	this	this	DT	_	6	det	_	O
+6	day	day	NN	_	4	pobj	_	O
+7	every	every	DT	_	8	det	_	O
+8	convo	convo	NN	_	2	conj	_	O
+9	w	w	IN	pos2=RB	8	prep	_	O
+10	/	/	HYPH	_	9	punct	_	O
+11	Berner	berner	NNP	pos2=IN	9	pobj	_	O
+12	you	you	PRP	_	13	nsubj	_	O
+13	have	have	VBP	_	0	root	_	O
+14	to	to	TO	_	15	aux	_	O
+15	redefine	redefine	VB	_	13	xcomp	_	O
+16	'	'	''	pos2=``	15	punct	_	O
+17	voter	voter	NN	_	18	compound	_	O
+18	suppression	suppression	NN	_	15	dobj	_	O
+19	'	'	''	_	15	punct	_	O
+20	before	before	IN	_	23	mark	_	O
+21	we	we	PRP	_	23	nsubj	_	O
+22	can	can	MD	_	23	aux	_	O
+23	continue	continue	VB	_	15	advcl	_	O
+24	.	.	.	_	13	punct	_	O
+

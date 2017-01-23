@@ -1,0 +1,10 @@
+1	When	when	WRB	_	4	advmod	_	O
+2	Jesse	jesse	NNP	_	3	compound	_	B-PERSON
+3	Jackson	jackson	NNP	_	4	nsubj	_	L-PERSON
+4	Cozied	cozy	VBD	pos2=NNP	9	advcl	_	O
+5	Up	up	RP	pos2=NNP	4	prt	_	O
+6	to	to	IN	_	4	prep	_	O
+7	Fidel	fidel	NNP	_	8	compound	_	B-PERSON
+8	Castro	castro	NNP	_	6	pobj	_	L-PERSON
+9	https://t.co/8POF9uVbXF	#hlink#	ADD	_	0	root	_	O
+

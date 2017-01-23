@@ -1,0 +1,16 @@
+1	Walsh	walsh	NNP	_	0	predet	_	U-PERSON
+2	,	,	,	_	1	punct	_	O
+3	15	0	CD	_	1	appos	_	U-DATE
+4	,	,	,	_	1	punct	_	O
+5	30th	#ord#	JJ	pos2=NN	6	nmod	_	B-DATE
+6	May	may	NNP	_	1	conj	_	L-DATE
+7	,	,	,	_	6	punct	_	O
+8	Pink	pink	NNP	pos2=JJ	6	conj	_	O
+9	,	,	,	_	8	punct	_	O
+10	Ashley	ashley	NNP	_	11	compound	_	B-PERSON
+11	TD	td	NNP	pos2=NN	8	conj	_	L-PERSON
+12	and	and	CC	_	11	cc	_	O
+13	Theo	theo	NNP	pos2=GW	14	compound	_	B-PERSON
+14	Graham😛	graham😛	NNP	pos2=GW	11	conj	_	L-PERSON
+15	https://t.co/8mwDFG4Ks5	#hlink#	ADD	_	1	appos	_	O
+

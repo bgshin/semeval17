@@ -1,0 +1,11 @@
+1	John	john	NNP	_	3	compound	_	B-PERSON
+2	Lewis	lewis	NNP	_	3	compound	_	L-PERSON
+3	Won	won	NNP	pos2=VBD	9	nsubj	_	O
+4	The	the	DT	pos2=NNP	7	det	_	B-WORK_OF_ART
+5	National	national	NNP	_	7	compound	_	I-WORK_OF_ART
+6	Book	book	NNP	_	7	compound	_	I-WORK_OF_ART
+7	Award	award	NNP	_	3	appos	_	L-WORK_OF_ART
+8	https://t.co/6wKzheNtv5	#hlink#	ADD	_	9	nsubj	_	O
+9	#johnlewis	#johnlewis	VBZ	pos2=IN	0	root	_	O
+10	#nbawards	#nbawards	UH	pos2=NNS	9	discourse	_	O
+

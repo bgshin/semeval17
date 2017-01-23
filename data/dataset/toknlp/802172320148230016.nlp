@@ -1,0 +1,27 @@
+1	All	all	DT	_	5	det	_	O
+2	auto	auto	NN	_	5	compound	_	O
+3	#Ola	#ola	NNP	pos2=NN	4	compound	_	B-GPE
+4	#Uber	#uber	NNP	pos2=PRP$	5	compound	_	L-GPE
+5	drivers	driver	NNS	_	0	root	_	O
+6	,	,	,	_	5	punct	_	O
+7	shopkeepers	shopkeeper	NNS	_	5	conj	_	O
+8	,	,	,	_	5	punct	_	O
+9	Veg	veg	NNP	pos2=NN	10	compound	_	O
+10	vendors	vendor	NNS	pos2=VBZ	5	appos	_	O
+11	i	I	PRP	_	12	nsubj	_	O
+12	came	come	VBD	_	10	relcl	_	O
+13	across	across	IN	pos2=RB	12	prep	_	O
+14	not	not	RB	_	15	neg	_	O
+15	1unhappy	0unhappy	JJ	pos2=HYPH	17	nmod	_	O
+16	vid	vid	NN	pos2=FW	17	compound	_	O
+17	#DeMonetisation	#demonetisation	NN	pos2=ADD	13	pobj	_	O
+18	.	.	.	_	5	punct	_	O
+
+1	@quizderek	@quizderek	UH	pos2=XX	4	discourse	_	O
+2	#Trinamool	#trinamool	NN	pos2=NFP	4	nsubj	_	O
+3	=	=	SYM	pos2=-LRB-	4	punct	_	O
+4	grassroots	grassroots	JJ	pos2=NNS	0	root	_	O
+5	?	?	.	_	4	punct	_	O
+
+1	haha	haha	UH	_	0	root	_	O
+

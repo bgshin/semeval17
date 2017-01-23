@@ -1,0 +1,17 @@
+1	Yes	yes	UH	_	4	discourse	_	O
+2	,	,	,	_	4	punct	_	O
+3	prudently	prudently	RB	_	4	advmod	_	O
+4	invested	invest	VBD	pos2=VBN	0	root	_	O
+5	contributions	contribution	NNS	_	4	dobj	_	O
+6	to	to	IN	_	5	prep	_	O
+7	the	the	DT	_	11	det	_	O
+8	Social	social	NNP	_	9	compound	_	B-ORG
+9	Security	security	NNP	_	10	compound	_	L-ORG
+10	fund	fund	NN	_	11	compound	_	O
+11	ma	ma	NN	pos2=NNS	6	pobj	_	O
+12	...	..	.	pos2=,	4	punct	_	O
+
+1	#DanielInouye	#danielinouye	UH	pos2=GW	3	discourse	_	O
+2	#citation	#citation	ADD	pos2=GW	3	punct	_	O
+3	https://t.co/uG7OJOcux9	#hlink#	ADD	pos2=NN	0	root	_	O
+

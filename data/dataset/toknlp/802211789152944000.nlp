@@ -1,0 +1,26 @@
+1	@elizabethforma	@elizabethforma	UH	pos2=NNP	5	discourse	_	O
+2	Trump	trump	NNP	pos2=NN	5	nsubj	_	U-ORG
+3	may	may	MD	_	5	aux	_	O
+4	indeed	indeed	RB	_	5	advmod	_	O
+5	fail	fail	VB	_	0	root	_	O
+6	,	,	,	_	5	punct	_	O
+7	but	but	CC	_	5	cc	_	O
+8	YOU	you	PRP	_	9	nsubj	_	O
+9	endorsed	endorse	VBD	_	5	conj	_	O
+10	a	a	DT	_	12	det	_	O
+11	corrupt	corrupt	JJ	_	12	nmod	_	O
+12	warmonger	warmonger	NN	_	9	dobj	_	O
+13	,	,	,	_	9	punct	_	O
+14	now	now	RB	_	16	advmod	_	O
+15	closely	closely	RB	_	16	advmod	_	O
+16	affiliated	affiliate	VBN	pos2=JJ	9	conj	_	O
+17	with	with	IN	_	16	prep	_	O
+18	a	a	DT	_	22	det	_	O
+19	DC	dc	NNP	pos2=NN	22	compound	_	U-ORG
+20	pedophile	pedophile	NN	_	22	compound	_	O
+21	sex	sex	NN	_	22	compound	_	O
+22	ring	ring	NN	_	17	pobj	_	O
+23	?	?	.	_	9	punct	_	O
+
+1	#HugeFail	#hugefail	ADD	pos2=NN	0	root	_	O
+

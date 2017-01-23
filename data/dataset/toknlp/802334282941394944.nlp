@@ -1,0 +1,13 @@
+1	#TrumpTransitionTeam	#trumptransitionteam	ADD	pos2=XX	4	aux	_	O
+2	#Boycott	#boycott	NNP	pos2=MD	3	compound	_	U-ORG
+3	@kayJewelers	@kayjewelers	NNS	pos2=NNPS	4	nsubj	_	O
+4	hire	hire	VBP	pos2=VB	0	root	_	O
+5	Muslims	muslim	NNPS	_	6	nsubj	_	U-NORP
+6	denied	deny	VBD	pos2=VBN	4	ccomp	_	O
+7	#VeteranSpouses	#veteranspouses	IN	pos2=NNPS	6	prep	_	O
+8	employment	employment	NN	_	7	pobj	_	O
+9	…	…	NFP	pos2=NNP	12	nmod	_	O
+10	#MAGA	#maga	GW	pos2=NN	12	nmod	_	U-MONEY
+11	#Conservative	#conservative	GW	pos2=JJ	12	nmod	_	O
+12	https://t.co/qh0MXavR45	#hlink#	ADD	pos2=NN	4	dep	_	O
+

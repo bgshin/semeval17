@@ -1,0 +1,31 @@
+1	@JohnLegere	@johnlegere	UH	pos2=ADD	4	discourse	_	O
+2	@TMobile	@tmobile	ADD	pos2=UH	4	advmod	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	was	be	VBD	_	9	advcl	_	O
+5	two	#crd#	CD	_	6	nmod	_	B-DATE
+6	weeks	week	NNS	_	7	npadvmod	_	I-DATE
+7	early	early	RB	pos2=JJ	4	advmod	_	L-DATE
+8	I	I	PRP	_	9	nsubj	_	O
+9	traded	trade	VBD	_	0	root	_	O
+10	my	my	PRP$	_	12	poss	_	O
+11	old	old	JJ	_	12	nmod	_	O
+12	note	note	NN	_	9	dobj	_	O
+13	for	for	IN	_	9	prep	_	O
+14	a	a	DT	_	15	det	_	O
+15	galaxy	galaxy	NN	_	13	pobj	_	O
+16	7	0	CD	pos2=NNP	15	nmod	_	U-CARDINAL
+17	wish	wish	VBP	pos2=NN	12	appos	_	O
+18	I	I	PRP	_	19	nsubj	_	O
+19	had	have	VBD	_	17	ccomp	_	O
+20	the	the	DT	_	23	det	_	O
+21	new	new	JJ	_	23	nmod	_	O
+22	vr	vr	NN	pos2=JJ	23	compound	_	O
+23	gear	gear	NN	_	19	dobj	_	O
+24	.	.	.	_	9	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	love	love	VBP	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	first	#ord#	JJ	_	5	nmod	_	U-ORDINAL
+5	one	#crd#	CD	pos2=NN	2	dobj	_	U-CARDINAL
+

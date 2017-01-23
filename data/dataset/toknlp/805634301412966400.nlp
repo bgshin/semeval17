@@ -1,0 +1,15 @@
+1	Stop	stop	VB	_	0	root	_	O
+2	Cosmetic	cosmetic	JJ	pos2=NNP	4	nmod	_	O
+3	Animal	animal	NNP	pos2=NN	4	compound	_	O
+4	Testing	testing	NN	pos2=NNP	1	dobj	_	O
+5	(	(	-LRB-	_	6	punct	_	O
+6	CRS	crs	NN	pos2=NNP	1	parataxis	_	O
+7	225	0	CD	_	6	nmod	_	U-CARDINAL
+8	)	)	-RRB-	_	6	punct	_	O
+9	@HSI_Canada	@hsi_canada	ADD	pos2=NNS	14	dep	_	O
+10	@PETA_Latino	@peta_latino	XX	pos2=ADD	14	nmod	_	O
+11	@peta	@peta	UH	pos2=GW	14	nmod	_	O
+12	@peta2	@peta0	GW	pos2=NN	14	nmod	_	B-DATE
+13	@nutrition_facts	@nutrition_facts	GW	pos2=NNS	14	nmod	_	L-DATE
+14	https://t.co/YpKcw8uxGl	#hlink#	ADD	pos2=NN	1	dep	_	O
+

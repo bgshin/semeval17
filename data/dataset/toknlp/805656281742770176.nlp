@@ -1,0 +1,20 @@
+1	@AIIAmericanGirI	@aiiamericangiri	ADD	pos2=NN	3	meta	_	O
+2	@flamethrower82	@flamethrower0	NN	pos2=CD	3	compound	_	O
+3	@DeplorableJames	@deplorablejames	NNS	pos2=ADD	0	root	_	O
+4	@	@	SYM	pos2=NFP	3	punct	_	O
+5	3rdReiched	0rdreiched	JJ	pos2=VBD	6	nmod	_	O
+6	@Cernovich	@cernovich	NNP	pos2=AFX	3	appos	_	O
+7	-	-	,	pos2=:	3	punct	_	O
+8	And	and	CC	pos2=NNP	3	cc	_	O
+9	yet	yet	RB	pos2=CC	16	advmod	_	O
+10	all	all	PDT	_	12	predet	_	O
+11	the	the	DT	_	12	det	_	O
+12	countries	country	NNS	_	16	nsubj	_	O
+13	with	with	IN	_	12	prep	_	O
+14	gun	gun	NN	_	15	compound	_	O
+15	control	control	NN	_	13	pobj	_	O
+16	have	have	VBP	pos2=VB	3	conj	_	O
+17	less	less	JJR	_	19	nmod	_	O
+18	gun	gun	NN	pos2=JJ	19	compound	_	O
+19	deaths	death	NNS	_	16	dobj	_	O
+

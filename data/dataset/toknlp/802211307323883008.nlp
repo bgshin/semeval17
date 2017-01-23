@@ -1,0 +1,9 @@
+1	Mike	mike	NNP	_	2	compound	_	B-PERSON
+2	Pence	penny	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	Trumps	trump	NNPS	pos2=VBZ	7	nmod	_	U-PERSON
+5	permanent	permanent	JJ	_	7	nmod	_	O
+6	bulletproof	bulletproof	JJ	_	7	nmod	_	O
+7	vest	vest	NN	_	3	attr	_	O
+8	.	.	.	_	3	punct	_	O
+

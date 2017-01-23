@@ -1,0 +1,21 @@
+1	@undocuqueer	@undocuqueer	UH	pos2=VB	2	discourse	_	O
+2	Funny	funny	JJ	pos2=UH	11	dep	_	O
+3	since	since	IN	_	5	mark	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	is	be	VBZ	_	2	advcl	_	O
+6	easy	easy	JJ	_	5	acomp	_	O
+7	to	to	TO	_	8	aux	_	O
+8	prevent	prevent	VB	_	5	xcomp	_	O
+9	fraud	fraud	NN	_	8	dobj	_	O
+10	:	:	:	_	11	punct	_	O
+11	Ensure	ensure	VB	_	0	root	_	O
+12	social	social	JJ	_	13	nmod	_	O
+13	security	security	NN	_	14	compound	_	O
+14	number	number	NN	_	15	nsubj	_	O
+15	exists	exist	VBZ	_	11	ccomp	_	O
+16	before	before	IN	_	15	prep	_	O
+17	allowing	allow	VBG	_	16	pcomp	_	O
+18	voter	voter	NN	_	19	compound	_	O
+19	registration	registration	NN	_	17	dobj	_	O
+20	.	.	.	_	11	punct	_	O
+

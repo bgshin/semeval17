@@ -1,0 +1,31 @@
+1	@realDonaldTrump	@realdonaldtrump	VB	pos2=IN	6	advcl	_	O
+2	Mr.	mr.	NNP	_	3	compound	_	O
+3	President	president	NNP	_	1	dobj	_	O
+4	,	,	,	_	6	punct	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	am	be	VBP	_	0	root	_	O
+7	an	an	DT	_	8	det	_	O
+8	immigrant	immigrant	NN	_	6	attr	_	O
+9	in	in	IN	_	8	prep	_	O
+10	CA	ca	NNP	pos2=NN	9	pobj	_	O
+11	&	&	CC	_	8	cc	_	O
+12	b4	b0	NN	_	8	conj	_	O
+13	I	I	PRP	pos2=NNP	15	nsubj	_	O
+14	even	even	RB	_	15	advmod	_	O
+15	had	have	VBD	_	8	relcl	_	O
+16	green	green	JJ	_	17	nmod	_	O
+17	card	card	NN	_	15	dobj	_	O
+18	I	I	PRP	_	19	nsubj	_	O
+19	got	get	VBD	pos2=VBP	6	conj	_	O
+20	my	my	PRP$	_	22	poss	_	O
+21	voter	voter	NN	_	22	compound	_	O
+22	registration	registration	NN	_	19	dobj	_	O
+23	&	&	CC	_	22	cc	_	O
+24	jury	jury	NN	_	25	compound	_	O
+25	duty	duty	NN	_	22	conj	_	O
+26	!	!	.	_	19	punct	_	O
+
+1	Plz	plz	UH	_	2	discourse	_	O
+2	change	change	VB	_	0	root	_	O
+3	that	that	DT	pos2=WDT	2	dobj	_	O
+

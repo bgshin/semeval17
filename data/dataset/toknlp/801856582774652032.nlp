@@ -1,0 +1,14 @@
+1	Kate	kate	NNP	_	2	compound	_	B-PERSON
+2	Upton	upton	NNP	_	3	nsubj	_	L-PERSON
+3	continues	continue	VBZ	_	0	root	_	O
+4	with	with	IN	_	3	prep	_	O
+5	the	the	DT	_	9	det	_	O
+6	AL	al	NNP	pos2=NN	8	compound	_	O
+7	Cy	cy	NNP	_	8	compound	_	O
+8	Young	young	NNP	pos2=JJ	9	compound	_	O
+9	debate	debate	NN	_	4	pobj	_	O
+10	...	..	.	_	3	punct	_	O
+
+1	🙄	🙄	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/inuEU0AwEX	#hlink#	ADD	pos2=NN	0	root	_	O
+

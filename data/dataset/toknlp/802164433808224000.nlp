@@ -1,0 +1,11 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	've	have	VBP	_	3	aux	_	O
+3	created	create	VBN	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	quiz	quiz	NN	_	3	dobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	#OneDirection	#onedirection	GW	pos2=NNP	2	nmod	_	O
+2	Singles	single	NNS	pos2=GW	3	nmod	_	O
+3	https://t.co/5VFkBV16nv	#hlink#	ADD	pos2=NN	0	root	_	O
+

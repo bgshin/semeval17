@@ -1,0 +1,23 @@
+1	Harms	harm	VBZ	pos2=NNP	0	root	_	O
+2	foster	foster	NN	pos2=JJ	3	compound	_	O
+3	kids	kid	NNS	_	1	dobj	_	O
+4	-	-	:	pos2=SYM	1	punct	_	O
+5	>	>	SYM	_	3	punct	_	O
+6	Medicaid	medicaid	NNP	pos2=NN	7	compound	_	O
+7	Block	block	NN	pos2=NNP	8	compound	_	O
+8	Grants	grant	NNS	pos2=NNPS	1	dobj	_	O
+9	:	:	:	_	8	punct	_	O
+10	A	a	DT	_	11	det	_	O
+11	System	system	NN	pos2=NNP	8	appos	_	O
+12	of	of	IN	_	11	prep	_	O
+13	Rationing	rationing	NN	pos2=NNP	12	pobj	_	O
+14	,	,	,	_	13	punct	_	O
+15	Inequity	inequity	NN	pos2=NNP	13	conj	_	O
+16	,	,	,	_	15	punct	_	O
+17	and	and	CC	_	15	cc	_	O
+18	Harm	harm	NN	pos2=NNP	20	compound	_	O
+19	–	-	HYPH	pos2=:	20	punct	_	O
+20	Voices4Kids	voices0kids	NNP	pos2=NNS	15	conj	_	O
+21	…	…	NFP	pos2=GW	22	punct	_	O
+22	https://t.co/5fCDSTX4Ci	#hlink#	ADD	pos2=NN	1	dep	_	U-ORG
+

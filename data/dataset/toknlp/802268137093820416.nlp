@@ -1,0 +1,20 @@
+1	No	no	UH	_	4	discourse	_	O
+2	,	,	,	_	4	punct	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	0	root	_	O
+5	not	not	RB	_	4	neg	_	O
+6	democratic	democratic	JJ	_	4	acomp	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	Being	be	VBG	_	2	auxpass	_	O
+2	blocked	block	VBN	_	5	csubj	_	O
+3	by	by	IN	_	2	agent	_	O
+4	@poroshenko	@poroshenko	NNP	pos2=ADD	3	pobj	_	U-ORG
+5	is	be	VBZ	pos2=MD	0	root	_	O
+6	n't	not	RB	_	5	neg	_	O
+7	democracy	democracy	NN	pos2=JJ	5	attr	_	O
+8	either	either	RB	pos2=CC	5	advmod	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	https://t.co/sepgXLQqDa	#hlink#	ADD	_	0	root	_	U-ORG
+

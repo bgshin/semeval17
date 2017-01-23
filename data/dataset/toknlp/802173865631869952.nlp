@@ -1,0 +1,26 @@
+1	@TURNUP504	@turnup0	NN	pos2=NNS	2	nsubj	_	O
+2	dropped	drop	VBD	_	0	root	_	O
+3	that	that	IN	pos2=DT	5	det	_	O
+4	heat	heat	NN	_	5	compound	_	O
+5	🔥🔥🔥🔥	🔥🔥🔥🔥	NN	pos2=CD	0	root	_	O
+6	..	..	.	pos2=,	2	punct	_	O
+
+1	#uber	#uber	UH	pos2=NN	2	dep	_	O
+2	..	..	.	pos2=,	0	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	'm	be	VBP	_	3	aux	_	O
+3	fw	fw	VBG	pos2=XX	0	root	_	O
+4	that	that	DT	pos2=RB	3	dobj	_	O
+5	..	..	.	pos2=,	3	punct	_	O
+
+1	link	link	NN	_	0	root	_	O
+2	in	in	IN	_	1	prep	_	O
+3	his	his	PRP$	_	4	poss	_	O
+4	bio	bio	NN	pos2=FW	2	pobj	_	O
+5	🏧💰	🏧💰	NNP	pos2=HYPH	4	appos	_	O
+6	#omg	#omg	UH	pos2=XX	1	discourse	_	O
+7	#therealbfa	#therealbfa	UH	pos2=GW	1	discourse	_	O
+8	…	…	NFP	pos2=-LRB-	1	punct	_	O
+9	https://t.co/wXckLut2AT	#hlink#	ADD	_	1	appos	_	O
+

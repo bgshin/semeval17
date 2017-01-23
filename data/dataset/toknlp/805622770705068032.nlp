@@ -1,0 +1,10 @@
+1	Home	home	NNP	pos2=NN	2	compound	_	O
+2	Medicine	medicine	NNP	pos2=NN	9	dep	_	O
+3	for	for	IN	_	2	prep	_	O
+4	High	high	NNP	pos2=JJ	6	compound	_	O
+5	Blood	blood	NN	pos2=NNP	6	compound	_	O
+6	Pressure	pressure	NN	pos2=GW	9	dep	_	O
+7	#homeopathy	#homeopathy	GW	pos2=NN	9	punct	_	O
+8	https://t.co/SNBPLecCFw	#hlink#	ADD	pos2=GW	9	nmod	_	O
+9	https://t.co/iUHS43HCDm	#hlink#	ADD	_	0	root	_	U-ORG
+

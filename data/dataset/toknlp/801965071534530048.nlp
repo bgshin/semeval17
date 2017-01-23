@@ -1,0 +1,22 @@
+1	#RealNews	#realnews	NNS	pos2=NN	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	It	it	PRP	_	4	nsubj	_	O
+4	’s	's	VBZ	_	13	ccomp	_	O
+5	now	now	RB	_	4	advmod	_	O
+6	official	official	JJ	pos2=NN	4	acomp	_	O
+7	;	;	,	pos2=:	13	punct	_	O
+8	#Russia	#russia	NNP	pos2=NN	13	nsubj	_	B-ORG
+9	&	&	CC	_	8	cc	_	I-ORG
+10	#Hezbollah	#hezbollah	NNP	pos2=NNS	8	conj	_	L-ORG
+11	are	be	VBP	_	13	aux	_	O
+12	now	now	RB	_	13	advmod	_	O
+13	coordinating	coordinate	VBG	_	0	root	_	O
+14	operations	operation	NNS	_	13	dobj	_	O
+15	in	in	IN	_	13	prep	_	O
+16	#Syria	#syria	NNP	pos2=NN	15	pobj	_	U-DATE
+17	⬅️	⬅️	NFP	pos2=POS	21	punct	_	O
+18	Great	great	JJ	pos2=NNP	19	nmod	_	O
+19	news	news	NN	_	21	dep	_	O
+20	😎	😎	NFP	pos2=IN	21	punct	_	O
+21	https://t.co/58SRD1riqa	#hlink#	ADD	_	13	dep	_	U-ORG
+

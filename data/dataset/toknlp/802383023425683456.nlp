@@ -1,0 +1,30 @@
+1	What	what	WP	pos2=WDT	3	det	_	O
+2	an	an	DT	_	3	det	_	O
+3	ass	ass	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Dems	dems	NNPS	pos2=NNP	4	nsubj	_	U-NORP
+2	did	do	VBD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	think	think	VB	_	12	ccomp	_	O
+5	they	they	PRP	_	6	nsubj	_	O
+6	needed	need	VBD	pos2=VBN	4	ccomp	_	O
+7	fix	fix	NN	pos2=VB	9	compound	_	O
+8	Nov	nov	NNP	_	9	compound	_	B-DATE
+9	8th	#ord#	NN	_	6	dobj	_	L-DATE
+10	,	,	,	_	12	punct	_	O
+11	now	now	RB	_	12	advmod	_	O
+12	got	get	VBD	pos2=VBP	0	root	_	O
+13	Jill	jill	NNP	_	14	nsubj	_	U-PERSON
+14	shilling	shill	VBG	pos2=NN	12	ccomp	_	O
+15	for	for	IN	_	14	prep	_	O
+16	#HRC.	#hrc.	NNP	pos2=NN	15	pobj	_	O
+17	The	the	DT	_	19	det	_	O
+18	same	same	JJ	_	19	nmod	_	O
+19	woman	woman	NN	_	21	nsubj	_	O
+20	Stein	stein	NNP	_	19	appos	_	U-PERSON
+21	said	say	VBD	_	12	conj	_	O
+22	w	w	IN	pos2=GW	21	prep	_	O
+23	…	…	NFP	pos2=HYPH	22	pobj	_	O
+24	https://t.co/Qchcvsc7av	#hlink#	ADD	pos2=NN	19	appos	_	O
+

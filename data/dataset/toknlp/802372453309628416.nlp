@@ -1,0 +1,25 @@
+1	TRUMP	trump	NN	pos2=NNP	3	compound	_	B-ORG
+2	Cabinet	cabinet	NNP	pos2=NN	3	compound	_	L-ORG
+3	member	member	NN	_	4	nsubj	_	O
+4	says	say	VBZ	_	0	root	_	O
+5	:	:	:	_	4	punct	_	O
+6	"	"	``	_	4	punct	_	O
+7	Yes	yes	UH	_	10	discourse	_	O
+8	,	,	,	_	10	punct	_	O
+9	WikiLeaks	wikileaks	NNP	_	10	nsubj	_	U-ORG
+10	Is	be	VBZ	_	4	ccomp	_	O
+11	a	a	DT	_	13	det	_	O
+12	Terrorist	terrorist	NNP	pos2=JJ	13	compound	_	B-ORG
+13	Organization	organization	NNP	pos2=NN	10	attr	_	L-ORG
+14	and	and	CC	_	13	cc	_	O
+15	the	the	DT	_	16	det	_	O
+16	Time	time	NNP	pos2=NN	13	conj	_	U-ORG
+17	to	to	TO	pos2=IN	18	aux	_	O
+18	Act	act	NNP	pos2=VB	16	relcl	_	O
+19	Is	be	VBZ	_	23	dep	_	O
+20	NOW	now	RB	_	19	advmod	_	O
+21	"	"	''	pos2=``	19	punct	_	O
+22	|	|	,	pos2=SYM	23	punct	_	O
+23	https://t.co/sxnBsuKm2Z	#hlink#	ADD	_	18	dep	_	B-DATE
+24	#McFarland	#mcfarland	-RRB-	pos2=ADD	19	punct	_	L-DATE
+

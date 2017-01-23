@@ -1,0 +1,31 @@
+1	which	which	WDT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	why	why	WRB	_	6	advmod	_	O
+4	this	this	DT	_	5	det	_	O
+5	president	president	NN	_	6	nsubj	_	O
+6	deserved	deserve	VBD	pos2=VBN	2	advcl	_	O
+7	to	to	TO	_	8	aux	_	O
+8	be	be	VB	_	6	xcomp	_	O
+9	hers	hers	PRP	pos2=NNS	8	attr	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	she	she	PRP	_	2	nsubj	_	O
+2	carried	carry	VBD	_	0	root	_	O
+3	weight	weight	NN	_	2	dobj	_	O
+4	for	for	IN	_	2	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	clinton	clinton	NNP	pos2=NN	7	compound	_	U-PERSON
+7	admin.	admin.	NNP	pos2=NN	4	pobj	_	O
+8	,	,	,	_	7	punct	_	O
+9	weight	weight	NN	_	7	appos	_	O
+10	for	for	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	obama	obama	NN	pos2=NNP	10	pobj	_	O
+13	admin.	admin.	NNP	pos2=NN	12	appos	_	O
+14	,	,	,	_	2	punct	_	O
+15	and	and	CC	_	2	cc	_	O
+16	it	it	PRP	_	17	nsubj	_	O
+17	was	be	VBD	_	2	conj	_	O
+18	her	her	PRP$	pos2=PRP	19	poss	_	O
+19	turn	turn	NN	pos2=VB	17	attr	_	O
+

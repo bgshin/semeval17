@@ -1,0 +1,17 @@
+1	A	a	DT	_	2	det	_	O
+2	Review	review	NN	pos2=NNP	16	dep	_	O
+3	of	of	IN	_	2	prep	_	O
+4	@VirologyComics	@virologycomics	NNS	pos2=ADD	3	pobj	_	O
+5	#graphicmedicine	#graphicmedicine	NN	pos2=POS	6	compound	_	O
+6	work	work	NN	pos2=VBP	16	dep	_	O
+7	:	:	:	_	16	punct	_	O
+8	#Vaccines	#vaccines	NNS	pos2=VBZ	16	dep	_	O
+9	https://t.co/gP0KzlspSRby	#hlink#	ADD	_	16	dep	_	O
+10	@	@	SYM	pos2=IN	16	punct	_	O
+11	NoetheMatt	noethematt	NNP	pos2=RB	10	pobj	_	U-ORG
+12	from	from	IN	_	9	prep	_	O
+13	@	@	SYM	pos2=NFP	14	punct	_	O
+14	UMMSLi	ummsli	NNS	pos2=NNP	12	pobj	_	O
+15	…	…	NFP	pos2=-LRB-	16	punct	_	O
+16	https://t.co/hbRE0Ire3r	#hlink#	ADD	pos2=NN	0	root	_	O
+

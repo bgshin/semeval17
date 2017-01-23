@@ -1,0 +1,20 @@
+1	@newswatcher2	@newswatcher0	NN	pos2=NNS	5	nmod	_	O
+2	@HugeBeaumont	@hugebeaumont	ADD	pos2=GW	5	nmod	_	O
+3	@JohnABusinger	@johnabusinger	GW	pos2=JJR	5	nmod	_	O
+4	@S3nt13ntB31	@s0nt0ntb0	NN	pos2=TO	5	compound	_	O
+5	ng	ng	NN	pos2=LS	6	vocative	_	O
+6	Let	let	VB	pos2=NNP	0	root	_	O
+7	's	's	PRP	_	8	nsubj	_	O
+8	call	call	VB	_	6	ccomp	_	O
+9	them	them	PRP	_	8	dobj	_	O
+10	what	what	WP	_	12	attr	_	O
+11	they	they	PRP	_	12	nsubj	_	O
+12	are	be	VBP	_	8	ccomp	_	O
+13	...	..	.	pos2=,	6	punct	_	O
+
+1	White	white	JJ	pos2=NNP	2	nmod	_	B-ORG
+2	Supremacists	supremacist	NNPS	pos2=NNS	0	root	_	I-ORG
+3	/	/	SYM	pos2=HYPH	2	punct	_	I-ORG
+4	Nazis	nazi	NNPS	pos2=NNS	2	appos	_	L-ORG
+5	.	.	.	_	2	punct	_	O
+

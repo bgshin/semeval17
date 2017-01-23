@@ -1,0 +1,20 @@
+1	CCS	ccs	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	completed	complete	VBD	pos2=VBN	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	mannequin	mannequin	NN	_	5	compound	_	O
+5	challenge	challenge	NN	pos2=VB	2	dobj	_	O
+6	today	today	NN	_	2	npadvmod	_	U-DATE
+7	!	!	.	_	2	punct	_	O
+
+1	Take	take	VB	_	0	root	_	O
+2	a	a	DT	_	3	det	_	O
+3	look	look	NN	_	1	dobj	_	O
+4	at	at	IN	_	3	prep	_	O
+5	our	our	PRP$	_	7	poss	_	O
+6	unique	unique	JJ	_	7	nmod	_	O
+7	poses	pose	NNS	pos2=VBZ	4	pobj	_	O
+8	#EducateTogether	#educatetogether	IN	pos2=GW	3	prep	_	O
+9	#MannequinChallenge	#mannequinchallenge	NN	pos2=GW	10	compound	_	O
+10	#	#	NN	pos2=-LRB-	8	pobj	_	O
+11	CCShttps://t.co/I8yglQkalK	#hlink#	ADD	_	10	nmod	_	U-ORG
+

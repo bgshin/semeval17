@@ -1,0 +1,9 @@
+1	New	new	JJ	pos2=NNP	3	nmod	_	O
+2	#android	#android	NN	pos2=FW	3	compound	_	O
+3	#app	#app	NN	pos2=XX	8	dep	_	O
+4	:	:	:	_	8	punct	_	O
+5	Cristiano	cristiano	NNP	_	7	compound	_	B-PERSON
+6	Ronaldo	ronaldo	NNP	_	7	compound	_	L-PERSON
+7	Wallpapers	wallpapers	NNP	pos2=NNPS	8	dep	_	O
+8	https://t.co/G1jCNXI9Ms	#hlink#	ADD	_	0	root	_	O
+

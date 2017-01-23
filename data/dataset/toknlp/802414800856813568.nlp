@@ -1,0 +1,20 @@
+1	@RavenHUWolf	@ravenhuwolf	ADD	pos2=NNP	6	punct	_	O
+2	#Venezuelan	#venezuelan	NNP	pos2=ADD	5	compound	_	O
+3	😷President	😷president	NNP	pos2=POS	5	compound	_	O
+4	Nicolas	nicolas	NNP	_	5	compound	_	B-PERSON
+5	Maduro	maduro	NNP	_	6	nsubj	_	L-PERSON
+6	called	call	VBD	pos2=VBN	0	root	_	O
+7	Cuban	cuban	NNP	pos2=JJ	8	compound	_	U-NORP
+8	Raul	raul	NNP	_	6	oprd	_	U-PERSON
+9	,	,	,	_	6	punct	_	O
+10	expresses	express	VBZ	_	6	conj	_	O
+11	solidarity	solidarity	NN	_	10	dobj	_	O
+12	with	with	IN	_	11	prep	_	O
+13	Cuban	cuban	JJ	_	14	nmod	_	U-NORP
+14	ppl	ppl	NNS	pos2=NN	12	pobj	_	O
+15	following	follow	VBG	_	10	prep	_	O
+16	death	death	NN	_	15	pobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	#FidelCastro	#fidelcastro	NNP	pos2=NN	17	pobj	_	U-GPE
+19	.	.	.	_	6	punct	_	O
+

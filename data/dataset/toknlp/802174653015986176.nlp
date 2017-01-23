@@ -1,0 +1,20 @@
+1	@Sysreq9000	@sysreq0	NN	pos2=NNS	9	dep	_	O
+2	@AnnCoulter	@anncoulter	ADD	pos2=GW	7	vocative	_	O
+3	@vnuek	@vnuek	JJ	pos2=UH	4	discourse	_	O
+4	wait	wait	VB	pos2=NN	0	root	_	O
+5	-	-	:	pos2=,	9	punct	_	O
+6	what	what	WP	_	10	pobj	_	O
+7	are	be	VBP	_	9	aux	_	O
+8	we	we	PRP	_	9	nsubj	_	O
+9	talking	talk	VBG	_	0	root	_	O
+10	about	about	IN	_	9	prep	_	O
+11	?	?	.	_	9	punct	_	O
+
+1	Syrian	syrian	JJ	_	2	nmod	_	U-NORP
+2	refugees	refugee	NNS	_	0	root	_	O
+3	or	or	CC	_	2	cc	_	O
+4	anti	anti	AFX	pos2=NN	5	nmod	_	O
+5	trump	trump	NN	pos2=JJ	6	compound	_	O
+6	riots	riot	NNS	_	2	conj	_	O
+7	?	?	.	_	2	punct	_	O
+

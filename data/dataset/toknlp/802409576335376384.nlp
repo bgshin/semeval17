@@ -1,0 +1,17 @@
+1	Social	social	NNP	pos2=JJ	2	compound	_	B-ORG
+2	Security	security	NNP	_	3	nsubj	_	L-ORG
+3	Went	go	VBD	pos2=NNP	0	root	_	O
+4	In	in	RP	pos2=NNP	3	prt	_	O
+5	On	on	IN	_	3	prep	_	O
+6	This	this	DT	_	8	det	_	O
+7	Check	check	NNP	pos2=VB	8	compound	_	O
+8	Smh.	smh.	NNP	_	5	pobj	_	O
+9	Like	like	IN	pos2=NNP	3	prep	_	O
+10	A	a	DT	pos2=NNP	13	det	_	O
+11	Whole	whole	JJ	pos2=NNP	13	nmod	_	B-MONEY
+12	$	$	$	_	13	nmod	_	I-MONEY
+13	60	0	CD	_	9	pobj	_	L-MONEY
+14	For	for	IN	_	13	prep	_	O
+15	What	what	WP	pos2=WDT	14	pobj	_	O
+16	😩😩	😩😩	.	pos2=NN	3	punct	_	O
+

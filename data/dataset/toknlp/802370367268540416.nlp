@@ -1,0 +1,36 @@
+1	Does	do	VBZ	_	4	aux	_	O
+2	Donald	donald	NNP	_	3	compound	_	B-PERSON
+3	Trump	trump	NNP	pos2=VB	4	compound	_	L-PERSON
+4	love	love	NN	pos2=VB	0	root	_	O
+5	Melania	melania	NNP	_	4	dobj	_	U-PERSON
+6	?	?	.	_	4	punct	_	O
+
+1	Has	have	VBZ	_	4	aux	_	O
+2	he	he	PRP	_	4	nsubj	_	O
+3	ever	ever	RB	_	4	advmod	_	O
+4	been	be	VBN	_	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	love	love	NN	_	5	pobj	_	O
+7	?	?	.	_	4	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	not	not	RB	_	2	neg	_	O
+4	sure	sure	JJ	pos2=RB	2	acomp	_	O
+5	and	and	CC	_	2	cc	_	O
+6	I	I	PRP	_	7	nsubj	_	O
+7	lean	lean	VBP	pos2=JJ	2	conj	_	O
+8	towards	towards	IN	_	7	prep	_	O
+9	no	no	UH	pos2=DT	8	discourse	_	O
+10	,	,	,	_	8	punct	_	O
+11	my	my	PRP$	_	12	poss	_	O
+12	model	model	NN	_	8	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	his	his	PRP$	_	16	poss	_	O
+15	inner	inner	JJ	_	16	nmod	_	O
+16	life	life	NN	_	13	pobj	_	O
+17	is	be	VBZ	_	7	advcl	_	O
+18	repulsive	repulsive	JJ	_	17	acomp	_	O
+19	to	to	IN	_	18	prep	_	O
+20	me	me	PRP	_	19	pobj	_	O
+

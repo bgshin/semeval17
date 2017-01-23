@@ -1,0 +1,22 @@
+1	Taylor	taylor	NNP	_	2	compound	_	B-WORK_OF_ART
+2	Shit	shit	NNP	pos2=NN	3	nsubj	_	L-WORK_OF_ART
+3	doing	do	VBG	_	14	csubj	_	O
+4	the	the	DT	_	5	det	_	O
+5	#mannequinchallenge	#mannequinchallenge	NN	pos2=NNPS	3	dobj	_	O
+6	here	here	RB	_	3	advmod	_	O
+7	in	in	IN	_	3	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	great	great	JJ	_	10	nmod	_	O
+10	state	state	NN	_	7	pobj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	Rhode	rhode	NNP	_	13	compound	_	B-GPE
+13	Island	island	NNP	_	11	pobj	_	L-GPE
+14	means	mean	VBZ	_	0	root	_	O
+15	that	that	IN	_	20	mark	_	O
+16	the	the	DT	_	18	det	_	O
+17	mannequin	mannequin	NN	pos2=NNP	18	compound	_	O
+18	challenge	challenge	NN	_	20	nsubjpass	_	O
+19	is	be	VBZ	_	20	auxpass	_	O
+20	#cancelled	#cancelled	VBN	pos2=JJ	14	ccomp	_	O
+21	.	.	.	_	14	punct	_	O
+

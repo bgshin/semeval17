@@ -1,0 +1,19 @@
+1	#Putin	#putin	NNP	pos2=NN	3	nsubj	_	U-ORG
+2	has	have	VBZ	_	3	aux	_	O
+3	had	have	VBN	pos2=VBD	0	root	_	O
+4	it	it	PRP	_	3	dobj	_	O
+5	with	with	IN	_	3	prep	_	O
+6	#Obama	#obama	NNP	pos2=NN	5	pobj	_	U-ORG
+7	and	and	CC	_	3	cc	_	O
+8	has	have	VBZ	_	9	aux	_	O
+9	decided	decide	VBN	_	3	conj	_	O
+10	to	to	TO	_	11	aux	_	O
+11	throw	throw	VB	_	9	xcomp	_	O
+12	#America	#america	NNP	pos2=PRP	11	dobj	_	U-PERSON
+13	out	out	IN	_	11	prep	_	O
+14	of	of	IN	_	13	prep	_	O
+15	#Syria	#syria	NNP	pos2=GW	14	pobj	_	U-GPE
+16	negotiat	negotiat	GW	pos2=WP	18	nmod	_	O
+17	ionshttps://t.co/z4CBIDDU11	#hlink#	ADD	_	18	nmod	_	O
+18	https://t.co/2g5tjPdpdA	#hlink#	ADD	_	15	appos	_	U-ORG
+

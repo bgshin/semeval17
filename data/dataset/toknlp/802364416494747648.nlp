@@ -1,0 +1,15 @@
+1	#Trump	#trump	NNP	pos2=VB	4	compound	_	B-PERSON
+2	MEMORABILIA#BlackFriday	memorabilia#blackfriday	NNP	pos2=NN	4	compound	_	I-PERSON
+3	-	-	HYPH	_	4	punct	_	I-PERSON
+4	UP	up	NNP	pos2=IN	11	dep	_	L-PERSON
+5	TO	to	IN	_	4	prep	_	O
+6	40	0	CD	_	7	nmod	_	O
+7	%	%	NN	_	9	compound	_	O
+8	OFFUse	offuse	NNP	pos2=NN	9	compound	_	O
+9	Code	code	NN	pos2=NNP	5	pobj	_	O
+10	:	:	:	_	11	punct	_	O
+11	BLACKFRISAVE#DrainTheSwamp	blackfrisave#draintheswamp	XX	pos2=GW	0	root	_	B-MONEY
+12	#Deplorables	#deplorables	NNS	pos2=GW	14	nmod	_	L-MONEY
+13	…	…	NFP	pos2=-LRB-	14	punct	_	O
+14	https://t.co/ExhZVim9cW	#hlink#	ADD	_	11	appos	_	O
+

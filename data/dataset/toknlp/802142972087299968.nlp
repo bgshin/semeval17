@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det	_	O
+2	@RoyalAirForce	@royalairforce	NNP	pos2=XX	3	nsubj	_	O
+3	Exporting	export	VBG	pos2=NNP	0	root	_	O
+4	British	british	JJ	_	5	nmod	_	U-NORP
+5	values	value	NNS	_	3	dobj	_	O
+6	since	since	IN	_	3	prep	_	O
+7	1918	0	CD	_	6	pobj	_	U-DATE
+8	.	.	.	_	3	punct	_	O
+
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	what	what	WP	_	8	pobj	_	O
+4	liberty	liberty	NN	_	7	nsubj	_	O
+5	and	and	CC	_	4	cc	_	O
+6	democracy	democracy	NN	_	4	conj	_	O
+7	look	look	VB	pos2=VBP	2	punct	_	O
+8	like	like	IN	_	7	prep	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	#Libya	#libya	-LRB-	pos2=ADD	2	punct	_	O
+2	https://t.co/LL7sdLsS0H	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

@@ -1,0 +1,28 @@
+1	@moosehickey	@moosehickey	UH	pos2=``	4	discourse	_	O
+2	@megynkelly	@megynkelly	UH	pos2=ADD	1	discourse	_	O
+3	'	'	''	pos2=``	4	punct	_	O
+4	grab	grab	VB	pos2=VBZ	0	root	_	O
+5	her	her	PRP	_	4	dobj	_	O
+6	in	in	IN	_	4	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	pussy	pussy	NN	_	6	pobj	_	O
+9	because	because	IN	_	11	mark	_	O
+10	I	I	PRP	_	11	nsubj	_	O
+11	can	can	MD	_	4	advcl	_	O
+12	'	'	''	pos2=``	4	punct	_	O
+13	is	be	VBZ	_	0	root	_	O
+14	not	not	RB	_	13	neg	_	O
+15	locker	locker	NN	pos2=JJ	16	compound	_	O
+16	room	room	NN	_	17	compound	_	O
+17	talk	talk	NN	pos2=VB	13	attr	_	O
+18	.	.	.	_	13	punct	_	O
+
+1	Does	do	VBZ	_	4	aux	_	O
+2	n't	not	RB	_	4	neg	_	O
+3	even	even	RB	_	4	advmod	_	O
+4	compare	compare	VB	_	0	root	_	O
+5	to	to	IN	_	4	prep	_	O
+6	sexy	sexy	JJ	_	7	nmod	_	O
+7	pictures	picture	NNS	_	5	pobj	_	O
+8	.	.	.	_	4	punct	_	O
+

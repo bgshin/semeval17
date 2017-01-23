@@ -1,0 +1,13 @@
+1	Medical	medical	JJ	_	2	nmod	_	O
+2	marijuana	marijuana	NN	_	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	children	child	NNS	_	3	pobj	_	O
+5	with	with	IN	_	4	prep	_	O
+6	developmental	developmental	JJ	_	9	nmod	_	O
+7	and	and	CC	_	6	cc	_	O
+8	behavioral	behavioral	JJ	_	6	conj	_	O
+9	disorders	disorder	NNS	_	5	pobj	_	O
+10	?	?	.	_	2	punct	_	O
+
+1	https://t.co/A45f8J42SF	#hlink#	ADD	_	0	root	_	U-ORG
+

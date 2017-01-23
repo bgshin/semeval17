@@ -1,0 +1,25 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	tried	try	VBD	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Started	start	VBD	pos2=VBN	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	drift	drift	VB	_	1	xcomp	_	O
+4	off	off	RP	pos2=RB	3	prt	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	Will	will	MD	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	read	read	VB	_	0	root	_	O
+4	this	this	DT	_	3	dobj	_	O
+5	and	and	CC	_	3	cc	_	O
+6	explain	explain	VB	_	3	conj	_	O
+7	it	it	PRP	_	6	dobj	_	O
+8	to	to	IN	_	6	prep	_	O
+9	me	me	PRP	_	8	pobj	_	O
+10	please	please	UH	_	6	discourse	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	#Medicaid	#medicaid	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/fK0n2mqVOU	#hlink#	ADD	pos2=NN	0	root	_	O
+

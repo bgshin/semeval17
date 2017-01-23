@@ -1,0 +1,13 @@
+1	TeacherCast	teachercast	NN	pos2=NNP	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Programming	programming	NN	pos2=VBG	4	compound	_	O
+4	Robots	robot	NNS	pos2=NNP	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	2nd	#ord#	JJ	_	8	nmod	_	U-ORDINAL
+7	Grade	grade	NN	pos2=NNP	8	compound	_	O
+8	STEM	stem	NN	pos2=NNP	5	pobj	_	O
+9	by	by	IN	_	4	prep	_	O
+10	SamPatue	sampatue	NNP	_	9	pobj	_	U-ORG
+11	https://t.co/hjfQyFoEhR	#hlink#	ADD	pos2=NNP	9	pobj	_	O
+12	#edtech	#edtech	-RRB-	pos2=UH	4	punct	_	O
+

@@ -1,0 +1,25 @@
+1	4-6-2009Are	0are	NN	pos2=VB	5	nsubj	_	O
+2	all	all	PDT	_	4	predet	_	O
+3	those	those	DT	_	4	det	_	O
+4	runs	run	NNS	_	0	punct	_	O
+5	charged	charge	VBN	pos2=VBD	4	acl	_	O
+6	to	to	IN	_	5	prep	_	O
+7	Verlander	verlander	NNP	_	6	pobj	_	U-PERSON
+8	?	?	.	_	1	punct	_	O
+
+1	How	how	WRB	_	2	advmod	_	O
+2	long	long	RB	pos2=JJ	6	advmod	_	O
+3	till	till	IN	_	5	mark	_	O
+4	fans	fan	NNS	_	5	nsubj	_	O
+5	start	start	VBP	pos2=VB	0	root	_	O
+6	panicking	panic	VBG	_	5	xcomp	_	O
+7	over	over	IN	_	6	prep	_	O
+8	Verlander	verlander	NNP	_	7	pobj	_	U-PERSON
+9	?	?	.	_	2	punct	_	O
+
+1	Some	some	DT	_	2	det	_	O
+2	things	thing	NNS	_	4	nsubj	_	O
+3	never	never	RB	_	4	neg	_	O
+4	change	change	VBP	pos2=VB	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+

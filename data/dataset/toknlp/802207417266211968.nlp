@@ -1,0 +1,23 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	seen	see	VBD	pos2=VBN	15	ccomp	_	O
+3	a	a	DT	_	4	det	_	O
+4	lady	lady	NN	_	2	dobj	_	O
+5	on	on	IN	_	4	prep	_	O
+6	an	an	DT	_	8	det	_	O
+7	oxygen	oxygen	NN	_	8	compound	_	O
+8	tank	tank	NN	_	5	pobj	_	O
+9	doing	do	VBG	_	8	acl	_	O
+10	the	the	DT	_	11	det	_	O
+11	#mannequinchallenge	#mannequinchallenge	NN	pos2=NNP	9	dobj	_	O
+12	,	,	,	_	15	punct	_	O
+13	she	she	PRP	_	15	nsubj	_	O
+14	was	be	VBD	_	15	aux	_	O
+15	shaking	shake	VBG	_	0	root	_	O
+16	so	so	RB	_	17	advmod	_	O
+17	bad	bad	JJ	pos2=RB	15	advmod	_	O
+18	....	..	.	pos2=,	15	punct	_	O
+
+1	po	po	FW	pos2=UH	3	poss	_	O
+2	'	'	POS	pos2=''	1	case	_	O
+3	baby	baby	NN	_	0	root	_	O
+

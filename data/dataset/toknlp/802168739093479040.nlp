@@ -1,0 +1,19 @@
+1	@HillaryforOH	@hillaryforoh	DT	pos2=NN	3	det	_	O
+2	entire	entire	JJ	_	3	nmod	_	O
+3	team	team	NN	_	4	nsubj	_	O
+4	was	be	VBD	_	0	root	_	O
+5	amazing	amazing	JJ	_	4	acomp	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	The	the	DT	_	7	det	_	O
+2	most	most	RBS	_	3	advmod	_	O
+3	enthusiastic	enthusiastic	JJ	_	7	nmod	_	O
+4	,	,	,	_	7	punct	_	O
+5	intelligent	intelligent	JJ	_	7	nmod	_	O
+6	hardworking	hardworking	JJ	pos2=VBG	7	nmod	_	O
+7	people	people	NNS	_	0	root	_	O
+8	.	.	.	_	7	punct	_	O
+
+1	#StillWithHer	#stillwithher	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/kld7iAa6uK	#hlink#	ADD	_	0	root	_	O
+

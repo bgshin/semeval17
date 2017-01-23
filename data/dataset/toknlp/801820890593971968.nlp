@@ -1,0 +1,22 @@
+1	@KateUpton	@kateupton	ADD	pos2=NNP	13	punct	_	O
+2	@MLB	@mlb	NN	pos2=XX	1	pobj	_	O
+3	if	if	IN	_	5	mark	_	O
+4	Justin	justin	NNP	_	5	nsubj	_	U-ORG
+5	won	win	VBD	_	13	advcl	_	O
+6	22	0	CD	_	7	nmod	_	U-CARDINAL
+7	games	game	NNS	_	5	dobj	_	O
+8	,	,	,	_	13	punct	_	O
+9	not	not	RB	_	13	preconj	_	O
+10	only	only	RB	_	9	advmod	_	O
+11	would	would	MD	_	13	aux	_	O
+12	he	he	PRP	_	13	nsubj	_	O
+13	expect	expect	VB	_	0	root	_	O
+14	the	the	DT	_	16	det	_	O
+15	cy	cy	NNP	pos2=NN	16	compound	_	O
+16	young	young	JJ	pos2=NN	21	nmod	_	O
+17	,	,	,	_	20	punct	_	O
+18	he	he	PRP	_	20	nsubj	_	O
+19	would	would	MD	_	20	aux	_	O
+20	want	want	VB	_	13	ccomp	_	O
+21	Mvp	mvp	NNP	pos2=NN	20	dobj	_	O
+

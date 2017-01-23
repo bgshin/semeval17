@@ -1,0 +1,25 @@
+1	Anyone	anyone	NN	_	3	nsubj	_	O
+2	else	else	RB	pos2=JJ	1	advmod	_	O
+3	ends	end	VBZ	_	0	root	_	O
+4	up	up	RP	_	3	prt	_	O
+5	ending	end	VBG	_	3	xcomp	_	O
+6	their	their	PRP$	_	7	poss	_	O
+7	career	career	NN	_	5	dobj	_	O
+8	and	and	CC	_	3	cc	_	O
+9	possibly	possibly	RB	_	10	advmod	_	O
+10	in	in	IN	_	5	prep	_	O
+11	jail	jail	NN	_	10	pobj	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	But	but	CC	_	3	cc	_	O
+2	well	well	RB	pos2=UH	3	advmod	_	O
+3	connected	connect	VBN	pos2=JJ	4	nmod	_	O
+4	leftists	leftist	NNS	_	6	nsubjpass	_	O
+5	are	be	VBP	_	6	auxpass	_	O
+6	given	give	VBN	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	pass	pass	NN	_	6	dobj	_	O
+9	.	.	.	_	6	punct	_	O
+
+1	https://t.co/t2krvO0634	#hlink#	ADD	_	0	root	_	U-ORG
+

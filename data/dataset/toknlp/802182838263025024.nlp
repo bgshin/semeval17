@@ -1,0 +1,23 @@
+1	#Valentines	#valentines	NNS	pos2=VBZ	5	poss	_	O
+2	#Gifts	#gifts	POS	pos2=NNS	1	case	_	U-NORP
+3	Real	real	JJ	pos2=NNP	5	nmod	_	O
+4	Soft	soft	NNP	pos2=JJ	5	compound	_	O
+5	White	white	NNP	_	0	root	_	O
+6	,	,	,	_	5	punct	_	O
+7	Dressed	dressed	NNP	pos2=VBN	8	compound	_	B-PERSON
+8	#TeddyBear	#teddybear	NNP	pos2=XX	5	appos	_	L-PERSON
+9	,	,	,	_	5	punct	_	O
+10	1988	0	CD	_	11	nmod	_	U-DATE
+11	WDW	wdw	NN	pos2=NNP	5	npadvmod	_	O
+12	1	0	CD	_	13	nmod	_	B-PERCENT
+13	st	st	NN	pos2=IN	8	npadvmod	_	L-PERCENT
+14	Annual	annual	JJ	pos2=NNP	16	nmod	_	U-DATE
+15	#TeddyBear	#teddybear	NNP	pos2=XX	16	compound	_	O
+16	Conv	conv	NNP	pos2=NN	5	appos	_	U-ORG
+17	.	.	.	_	5	punct	_	O
+
+1	w	w	DT	pos2=IN	2	det	_	O
+2	pin	pin	NN	pos2=GW	4	dep	_	O
+3	…	…	NFP	pos2=-LRB-	4	punct	_	O
+4	https://t.co/JWDrTCRcXl	#hlink#	ADD	_	0	root	_	O
+

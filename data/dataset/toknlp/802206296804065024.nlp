@@ -1,0 +1,13 @@
+1	POTUS	potus	NN	pos2=NNP	2	nsubj	_	O
+2	expands	expand	VBZ	_	0	root	_	O
+3	JSOC	jsoc	NNP	pos2=NN	4	compound	_	U-ORG
+4	authorities	authority	NNS	_	2	dobj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	continue	continue	VB	_	2	advcl	_	O
+7	the	the	DT	_	8	det	_	O
+8	hunt	hunt	NN	_	6	dobj	_	O
+9	for	for	IN	_	8	prep	_	O
+10	#ISIS	#isis	NN	pos2=CD	11	compound	_	O
+11	fighters	fighter	NNS	_	9	pobj	_	O
+12	https://t.co/MAeqSR3KDz	#hlink#	ADD	pos2=VBP	10	appos	_	O
+

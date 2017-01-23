@@ -1,0 +1,17 @@
+1	@TheAuracl3	@theauracl0	NN	pos2=ADD	7	nsubj	_	O
+2	@judeinlondon	@judeinlondon	ADD	pos2=UH	7	punct	_	O
+3	"	"	``	pos2=''	7	punct	_	O
+4	Cristiano	cristiano	NNP	_	5	compound	_	B-PERSON
+5	Ronaldo	ronaldo	NNP	_	7	nsubj	_	L-PERSON
+6	has	have	VBZ	_	7	aux	_	O
+7	diverted	divert	VBN	_	0	root	_	O
+8	150	0	CD	_	9	compound	_	B-QUANTITY
+9	m	m	CD	pos2=JJ	10	nmod	_	L-QUANTITY
+10	euros	euro	NNS	_	7	dobj	_	O
+11	to	to	IN	_	7	prep	_	O
+12	Caribbean	caribbean	NNP	pos2=JJ	14	compound	_	U-LOC
+13	tax	tax	NN	pos2=NNP	14	compound	_	O
+14	haven	haven	NN	pos2=NNP	11	pobj	_	O
+15	"	"	''	pos2=``	7	punct	_	O
+16	https://t.co/qyKcfu3jzx	#hlink#	ADD	pos2=NN	7	dobj	_	O
+

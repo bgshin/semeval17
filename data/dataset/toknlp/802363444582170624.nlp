@@ -1,0 +1,13 @@
+1	@foxnews	@foxnews	UH	pos2=FW	6	discourse	_	O
+2	@realdonaldtrump	@realdonaldtrump	JJ	pos2=NN	3	nmod	_	O
+3	CORRECTION	correction	NN	_	6	dep	_	O
+4	:	:	:	_	6	punct	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	MEANT	mean	VBD	_	0	root	_	O
+7	MEDICARE	medicare	NNP	pos2=NN	6	dobj	_	U-ORG
+8	,	,	,	_	7	punct	_	O
+9	NOT	not	RB	pos2=CC	7	neg	_	O
+10	SOCIAL	social	JJ	pos2=NNP	11	nmod	_	O
+11	SECURITY	security	NN	pos2=NNP	7	appos	_	O
+12	.	.	.	_	6	punct	_	O
+

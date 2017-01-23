@@ -1,0 +1,22 @@
+1	Leonard	leonard	NNP	_	2	compound	_	B-PERSON
+2	Cohen	cohen	NNP	_	0	root	_	L-PERSON
+3	.	.	.	_	2	punct	_	O
+
+1	12	0	CD	_	7	nmod	_	U-CARDINAL
+2	x	x	SYM	_	3	punct	_	O
+3	9	0	CD	_	1	prep	_	B-QUANTITY
+4	inch	inch	NN	_	7	compound	_	L-QUANTITY
+5	graphite	graphite	NN	_	6	compound	_	O
+6	pencil	pencil	NN	_	7	compound	_	O
+7	commission	commission	NN	_	0	root	_	O
+8	.	.	.	_	7	punct	_	O
+
+1	#JunePiety	#junepiety	NN	pos2=ADD	8	dep	_	O
+2	#HelicStudio	#helicstudio	ADD	pos2=XX	8	dep	_	O
+3	#art	#art	UH	pos2=IN	8	dep	_	O
+4	#portrait	#portrait	UH	pos2=FW	8	discourse	_	O
+5	#pencil	#pencil	UH	pos2=MD	8	nmod	_	O
+6	#Strathmore	#strathmore	GW	pos2=NNP	8	nmod	_	O
+7	…	…	NFP	pos2=GW	8	punct	_	O
+8	https://t.co/ScHV0SVUkz	#hlink#	ADD	_	0	root	_	O
+

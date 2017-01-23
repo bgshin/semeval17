@@ -1,0 +1,15 @@
+1	#eleanorRoosevelt	#eleanorroosevelt	NN	pos2=XX	2	compound	_	B-PERSON
+2	#Firstlady	#firstlady	NNP	pos2=XX	14	dep	_	L-PERSON
+3	#respect	#respect	ADD	pos2=UH	14	dep	_	O
+4	#Fighter	#fighter	NNP	pos2=IN	3	pobj	_	B-ORG
+5	#elegance	#elegance	IN	pos2=ADD	4	prep	_	I-ORG
+6	#grace	#grace	NNP	pos2=PRP$	7	compound	_	I-ORG
+7	Founder	founder	NNP	pos2=NN	5	pobj	_	I-ORG
+8	of	of	IN	_	7	prep	_	I-ORG
+9	#UnitedNations	#unitednations	NNPS	pos2=NNS	8	pobj	_	I-ORG
+10	#MyDay	#myday	NNP	pos2=POS	12	compound	_	L-ORG
+11	newspaper	newspaper	NN	_	12	compound	_	O
+12	column	column	NN	pos2=GW	2	appos	_	O
+13	…	…	NFP	pos2=CD	14	punct	_	O
+14	https://t.co/5Mxi29B9QJ	#hlink#	ADD	_	0	root	_	O
+

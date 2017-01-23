@@ -1,0 +1,20 @@
+1	@TrueCharLen	@truecharlen	ADD	pos2=XX	15	nsubj	_	O
+2	@sweetatertot2	@sweetatertot0	NN	pos2=CD	3	compound	_	O
+3	@mike_pence	@mike_pence	NN	pos2=IN	5	compound	_	O
+4	@realDonaldTrumptrust	@realdonaldtrumptrust	NNP	pos2=CC	5	compound	_	B-PERSON
+5	Romney	romney	NNP	_	1	dobj	_	L-PERSON
+6	or	or	CC	_	5	cc	_	O
+7	not	not	RB	_	5	conj	_	O
+8	,	,	,	_	1	punct	_	O
+9	rubbing	rub	VBG	_	15	csubj	_	O
+10	his	his	PRP$	_	11	poss	_	O
+11	face	face	NN	_	9	dobj	_	O
+12	in	in	IN	_	9	prep	_	O
+13	his	his	PRP$	_	14	poss	_	O
+14	wordsJust	wordsjust	NNP	pos2=NN	12	pobj	_	U-ORG
+15	makes	make	VBZ	_	0	root	_	O
+16	for	for	IN	_	15	prep	_	O
+17	ill	ill	JJ	_	18	nmod	_	O
+18	feelings	feeling	NNS	_	16	pobj	_	O
+19	.	.	.	_	15	punct	_	O
+

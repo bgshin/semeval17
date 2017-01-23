@@ -1,0 +1,12 @@
+1	my	my	PRP$	_	2	poss	_	O
+2	sister	sister	NN	_	3	nsubj	_	O
+3	pronounced	pronounce	VBD	pos2=VBN	0	root	_	O
+4	homeopathy	homeopathy	NN	_	3	dobj	_	O
+5	as	as	IN	_	3	prep	_	O
+6	homo	homo	NN	pos2=NNP	7	compound	_	O
+7	therapy	therapy	NN	pos2=NNP	5	pobj	_	O
+8	and	and	CC	_	3	cc	_	O
+9	i	I	PRP	_	7	conj	_	O
+10	just	just	RB	_	6	conj	_	O
+11	???????	??	.	_	3	punct	_	O
+

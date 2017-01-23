@@ -1,0 +1,26 @@
+1	@pussy_galore	@pussy_galore	UH	pos2=LS	6	discourse	_	O
+2	_	_	NFP	pos2=SYM	6	punct	_	O
+3	anyways	anyways	UH	pos2=RB	6	discourse	_	O
+4	u	u	PRP	pos2=NN	6	nsubj	_	O
+5	can	can	MD	_	6	aux	_	O
+6	assume	assume	VB	_	0	root	_	O
+7	I	I	PRP	pos2=NN	10	nsubj	_	O
+8	&	&	CC	_	7	cc	_	O
+9	others	other	NNS	_	7	conj	_	O
+10	have	have	VBP	_	6	ccomp	_	O
+11	the	the	DT	_	13	det	_	O
+12	best	good	JJS	_	13	nmod	_	O
+13	intentions	intention	NNS	_	10	dobj	_	O
+14	&	&	CC	_	10	cc	_	O
+15	would	would	MD	_	17	aux	_	O
+16	nt	nt	RB	_	17	advmod	_	O
+17	advocate	advocate	VB	_	10	conj	_	O
+18	nonconsentual	nonconsentual	JJ	_	19	nmod	_	O
+19	testing	testing	NN	pos2=VBG	17	dobj	_	O
+20	for	for	IN	_	19	prep	_	O
+21	anyone	anyone	NN	_	20	pobj	_	O
+22	,	,	,	_	21	punct	_	O
+23	human	human	JJ	pos2=NN	21	nmod	_	O
+24	or	or	CC	_	23	cc	_	O
+25	animal	animal	NN	_	23	conj	_	O
+

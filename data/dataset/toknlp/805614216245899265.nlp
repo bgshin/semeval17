@@ -1,0 +1,11 @@
+1	#teens	#teens	VBZ	pos2=NNS	0	root	_	O
+2	with	with	IN	_	1	prep	_	O
+3	fat	fat	NN	pos2=JJ	4	compound	_	O
+4	pussys	pussy	NNS	pos2=CC	2	pobj	_	O
+5	zac	zac	JJ	pos2=NNP	6	nmod	_	O
+6	efron	efron	NN	pos2=NNP	9	nsubj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	vanessa	vanessa	NN	pos2=NNP	6	conj	_	O
+9	have	have	VBP	pos2=VB	1	conj	_	O
+10	sex	sex	NN	_	9	dobj	_	O
+

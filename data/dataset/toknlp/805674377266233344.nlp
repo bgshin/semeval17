@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det	_	O
+2	#Earthquake	#earthquake	NNP	_	7	dep	_	O
+3	Today	today	NN	pos2=NNP	5	npadvmod	_	O
+4	|	|	SYM	pos2=,	8	punct	_	O
+5	Latest	late	JJS	pos2=NNP	6	nmod	_	O
+6	Updates	update	NNS	pos2=GW	7	dep	_	O
+7	https://t.co/qzsyGHydrK	#hlink#	ADD	pos2=VBP	8	compound	_	O
+8	Stories	story	NNS	pos2=NNPS	0	root	_	O
+9	via	via	IN	_	6	prep	_	O
+10	@ThomasSarahC	@thomassarahc	NN	pos2=$	9	pobj	_	O
+11	@l_mo	@l_mo	CD	pos2=IN	12	nmod	_	B-DATE
+12	@ghwelker3	@ghwelker0	NNS	pos2=NN	8	conj	_	L-DATE
+13	#fracking	#fracking	VBG	pos2=UH	8	acl	_	O
+14	#tsunami	#tsunami	NNS	pos2=UH	13	dobj	_	O
+

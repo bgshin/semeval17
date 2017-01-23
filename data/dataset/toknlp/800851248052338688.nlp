@@ -1,0 +1,28 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	U-ORG
+2	@SolomonAnna	@solomonanna	NN	pos2=NNS	9	dep	_	O
+3	:	:	:	_	9	punct	_	O
+4	So	so	RB	_	9	advmod	_	O
+5	the	the	DT	_	9	det	_	O
+6	"	"	``	_	9	punct	_	O
+7	alt	alt	JJ	pos2=NN	9	advmod	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	right	right	JJ	_	0	root	_	O
+10	"	"	''	pos2=``	9	punct	_	O
+11	named	name	VBN	pos2=VBD	9	acl	_	O
+12	itself	itself	PRP	_	11	oprd	_	O
+13	.	.	.	_	9	punct	_	O
+
+1	And	and	CC	_	3	cc	_	O
+2	we	we	PRP	_	3	nsubj	_	O
+3	repeated	repeat	VBD	pos2=VBN	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Time	time	NN	_	5	nsubj	_	O
+2	for	for	IN	_	1	prep	_	O
+3	correction	correction	NN	_	2	pobj	_	O
+4	=	=	SYM	pos2=HYPH	5	punct	_	O
+5	Neo-Nazis	neo-nazi	NNS	_	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	https://t.co/pmrOEUusUt	#hlink#	ADD	_	0	root	_	U-ORG
+

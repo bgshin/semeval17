@@ -1,0 +1,10 @@
+1	Tim	tim	NNP	_	2	compound	_	B-PERSON
+2	Duncan	duncan	NNP	_	4	nsubj	_	L-PERSON
+3	still	still	RB	_	4	advmod	_	O
+4	providing	provide	VBG	_	0	root	_	O
+5	leadership	leadership	NN	_	4	dobj	_	O
+6	for	for	IN	_	4	prep	_	O
+7	#Spurs	#spurs	NNS	pos2=NNP	6	pobj	_	O
+8	https://t.co/oX0BuZYmlg	#hlink#	ADD	pos2=VBP	5	appos	_	O
+9	#gospursgo	#gospursgo	-RRB-	pos2=UH	4	punct	_	O
+

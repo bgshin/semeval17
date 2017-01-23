@@ -1,0 +1,13 @@
+1	@icntmx	@icntmx	UH	pos2=XX	4	discourse	_	O
+2	@redsteeze	@redsteeze	UH	pos2=NN	4	discourse	_	O
+3	#Republicans	#republicans	NNS	pos2=NNPS	4	nsubj	_	O
+4	were	be	VBD	_	0	root	_	O
+5	pretty	pretty	RB	pos2=JJ	6	advmod	_	O
+6	OK	ok	JJ	pos2=RB	4	acomp	_	O
+7	with	with	IN	_	6	prep	_	O
+8	surveillance	surveillance	NN	_	7	pobj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	drone	drone	NN	_	11	compound	_	O
+11	strikes	strike	NNS	_	8	conj	_	O
+12	.	.	.	_	4	punct	_	O
+

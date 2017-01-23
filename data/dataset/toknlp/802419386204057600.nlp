@@ -1,0 +1,23 @@
+1	@amjoyshow	@amjoyshow	SYM	pos2=VB	7	punct	_	O
+2	Unbelievable	unbelievable	JJ	_	4	nmod	_	O
+3	Many	many	JJ	_	4	nmod	_	O
+4	seniors	senior	NNS	_	7	nsubj	_	O
+5	can	can	MD	_	7	aux	_	O
+6	barely	barely	RB	_	7	advmod	_	O
+7	survive	survive	VB	_	0	root	_	O
+8	on	on	IN	_	7	prep	_	O
+9	social	social	JJ	_	10	nmod	_	O
+10	security	security	NN	pos2=NNP	8	pobj	_	O
+11	&	&	CC	_	7	cc	_	O
+12	now	now	RB	_	14	advmod	_	O
+13	he	he	PRP	_	14	nsubj	_	O
+14	wants	want	VBZ	_	7	conj	_	O
+15	2	0	CD	pos2=TO	16	nsubj	_	U-CARDINAL
+16	raise	raise	VB	pos2=VBP	14	ccomp	_	O
+17	their	their	PRP$	_	18	poss	_	O
+18	premiums	premium	NNS	_	16	dobj	_	O
+19	@SpeakerRyan	@speakerryan	NNP	pos2=ADD	20	nsubj	_	U-ORG
+20	is	be	VBZ	_	14	conj	_	O
+21	an	an	DT	_	22	det	_	O
+22	ass	ass	NN	_	20	attr	_	O
+

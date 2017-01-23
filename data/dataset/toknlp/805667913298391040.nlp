@@ -1,0 +1,25 @@
+1	To	to	TO	_	2	aux	_	O
+2	get	get	VB	_	15	advcl	_	O
+3	the	the	DT	_	4	det	_	O
+4	WH	wh	NNP	pos2=NN	2	dobj	_	U-ORG
+5	for	for	IN	_	2	prep	_	O
+6	DT	dt	NNP	pos2=JJ	5	pobj	_	U-ORG
+7	main	main	JJ	_	8	nmod	_	O
+8	members	member	NNS	_	15	nsubj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	his	his	PRP$	_	11	poss	_	O
+11	campaign	campaign	NN	_	9	pobj	_	O
+12	&	&	CC	_	11	cc	_	O
+13	DT	dt	NNP	pos2=NN	11	conj	_	O
+14	himself	himself	PRP	_	13	appos	_	O
+15	engaged	engage	VBD	pos2=JJ	0	root	_	O
+16	in	in	IN	_	15	prep	_	O
+17	unseen	unseen	JJ	_	24	nmod	_	O
+18	,	,	,	_	24	punct	_	O
+19	preCivilWar	precivilwar	NN	pos2=NNP	21	npadvmod	_	O
+20	-	-	HYPH	_	21	punct	_	O
+21	like	like	JJ	pos2=IN	23	nmod	_	O
+22	voter	voter	NN	_	23	compound	_	O
+23	suppression	suppression	NN	_	24	dep	_	O
+24	https://t.co/WeIJFZGyTI	#hlink#	ADD	pos2=NN	15	dep	_	O
+

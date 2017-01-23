@@ -1,0 +1,32 @@
+1	@	@	SYM	_	3	punct	_	O
+2	69eyesofficial	0eyesofficial	TO	pos2=MD	3	advmod	_	O
+3	wish	wish	VBP	pos2=VB	0	root	_	O
+4	u	u	PRP	pos2=NN	6	nsubj	_	O
+5	could	could	MD	_	6	aux	_	O
+6	do	do	VB	_	3	ccomp	_	O
+7	a	a	DT	_	9	det	_	O
+8	Leonard	leonard	NNP	_	9	compound	_	B-PERSON
+9	Cohen	cohen	NNP	_	10	nsubj	_	L-PERSON
+10	cover	cover	VB	pos2=NN	6	dobj	_	O
+11	like	like	IN	_	10	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	song	song	NN	_	11	pobj	_	O
+14	i	I	PRP	_	16	nsubj	_	O
+15	just	just	RB	_	16	advmod	_	O
+16	sent	send	VBD	_	13	relcl	_	O
+17	u	u	PRP	pos2=RP	16	dobj	_	O
+18	;)	;)	NFP	pos2=:	16	dative	_	O
+19	you	you	PRP	_	21	nsubj	_	O
+20	wld	wld	MD	pos2=VBP	21	aux	_	O
+21	sound	sound	VB	_	18	ccomp	_	O
+22	perfect	perfect	JJ	_	21	acomp	_	O
+23	for	for	IN	_	21	prep	_	O
+24	it	it	PRP	_	23	pobj	_	O
+25	.	.	.	_	3	punct	_	O
+
+1	sending	send	VBG	_	0	root	_	O
+2	love	love	NN	pos2=RB	1	dobj	_	O
+3	&	&	CC	_	2	cc	_	O
+4	prayers	prayer	NNS	_	2	conj	_	O
+5	!	!	.	_	1	punct	_	O
+

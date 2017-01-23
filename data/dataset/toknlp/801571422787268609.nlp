@@ -1,0 +1,17 @@
+1	@trump2021	@trump0	LS	pos2=NN	6	meta	_	O
+2	The	the	DT	_	6	det	_	O
+3	common	common	JJ	_	6	nmod	_	O
+4	,	,	,	_	6	punct	_	O
+5	core	core	NN	pos2=JJ	6	compound	_	O
+6	belief	belief	NN	_	0	root	_	O
+7	that	that	IN	pos2=WDT	9	mark	_	O
+8	we	we	PRP	_	9	nsubj	_	O
+9	need	need	VBP	_	6	acl	_	O
+10	a	a	DT	_	11	det	_	O
+11	wall	wall	NN	_	9	dobj	_	O
+12	on	on	IN	_	11	prep	_	O
+13	the	the	DT	_	15	det	_	O
+14	Mexican	mexican	JJ	pos2=NNP	15	nmod	_	U-NORP
+15	border	border	NN	_	12	pobj	_	O
+16	.	.	.	_	6	punct	_	O
+

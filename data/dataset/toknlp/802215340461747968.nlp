@@ -1,0 +1,14 @@
+1	our	our	PRP$	_	3	poss	_	O
+2	family	family	NN	_	3	compound	_	O
+3	thanksgiving	thanksgiving	NN	pos2=NNP	7	nsubj	_	O
+4	has	have	VBZ	_	7	aux	_	O
+5	n't	not	RB	_	7	neg	_	O
+6	even	even	RB	_	7	advmod	_	O
+7	started	start	VBN	pos2=VB	0	root	_	O
+8	and	and	CC	_	7	cc	_	O
+9	i	I	PRP	pos2=CD	10	nsubj	_	O
+10	wan	wan	VBP	_	7	conj	_	O
+11	na	to	TO	_	12	aux	_	O
+12	leave	leave	VB	_	10	xcomp	_	O
+13	...	..	.	pos2=,	10	punct	_	O
+

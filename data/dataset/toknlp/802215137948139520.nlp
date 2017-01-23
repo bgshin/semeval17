@@ -1,0 +1,30 @@
+1	@jimyeoman	@jimyeoman	UH	pos2=XX	3	discourse	_	O
+2	@PedallingVeg	@pedallingveg	NNP	pos2=PRP$	3	compound	_	O
+3	Bollocks	bollocks	NNP	pos2=UH	0	root	_	O
+4	....	..	.	pos2=,	3	punct	_	O
+
+1	then	then	RB	_	3	advmod	_	O
+2	there	there	EX	_	3	expl	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	Ian	ian	NNP	_	5	compound	_	O
+5	Brady	brady	NNP	_	3	attr	_	O
+6	&	&	CC	_	5	cc	_	O
+7	Myra	myra	NNP	_	8	compound	_	B-PERSON
+8	Hindley	hindley	NNP	_	5	conj	_	L-PERSON
+9	.	.	.	_	3	punct	_	O
+
+1	Some	some	DT	_	3	det	_	O
+2	bad	bad	JJ	_	3	nmod	_	O
+3	hombres	hombre	NNS	_	0	root	_	O
+4	from	from	IN	_	3	prep	_	O
+5	that	that	DT	_	6	det	_	O
+6	city	city	NN	_	4	pobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	See	see	VB	pos2=UH	0	root	_	O
+2	what	what	WP	_	4	dobj	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	did	do	VBD	_	1	ccomp	_	O
+5	there	there	RB	pos2=EX	4	advmod	_	O
+6	?	?	.	_	1	punct	_	O
+

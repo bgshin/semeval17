@@ -1,0 +1,16 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	have	have	VBP	_	0	root	_	O
+3	lifelong	lifelong	JJ	_	4	nmod	_	O
+4	leftists	leftist	NNS	_	2	dobj	_	O
+5	bashing	bash	VBG	_	4	acl	_	O
+6	CPIM	cpim	NN	pos2=NNP	5	dobj	_	O
+7	on	on	IN	_	5	prep	_	O
+8	my	my	PRP$	_	10	poss	_	O
+9	FB	fb	NNP	pos2=NN	10	compound	_	O
+10	feed	feed	NN	_	7	pobj	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	Dil	dil	NNP	_	2	compound	_	B-PERSON
+2	Khush	khush	NNP	pos2=XX	3	compound	_	L-PERSON
+3	#DeMonetisation	#demonetisation	NN	pos2=ADD	0	root	_	O
+

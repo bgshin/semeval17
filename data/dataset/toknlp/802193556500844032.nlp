@@ -1,0 +1,25 @@
+1	Couple	couple	NN	_	6	nsubj	_	O
+2	from	from	IN	_	1	prep	_	O
+3	#Wyoming	#wyoming	NNP	pos2=VBG	4	compound	_	O
+4	Said	said	NNP	pos2=VBD	2	pobj	_	U-PERSON
+5	:	:	:	_	6	punct	_	O
+6	Voted	vote	VBD	pos2=NNP	14	ccomp	_	O
+7	for	for	IN	_	6	prep	_	O
+8	Trump	trump	NNP	pos2=NN	7	pobj	_	U-ORG
+9	,	,	,	_	14	punct	_	O
+10	Steve	steve	NNP	_	11	compound	_	B-PERSON
+11	Bannon	bannon	NNP	_	14	nsubj	_	L-PERSON
+12	Must	must	MD	pos2=NNP	14	aux	_	O
+13	Graciously	graciously	RB	pos2=NNP	14	advmod	_	O
+14	Step	step	VB	_	0	root	_	O
+15	Down	down	RP	pos2=NNP	14	prt	_	O
+16	On	on	IN	_	14	prep	_	O
+17	His	his	PRP$	_	18	poss	_	O
+18	own	own	JJ	_	16	pobj	_	O
+19	to	to	TO	pos2=IN	20	aux	_	O
+20	Support	support	VB	pos2=NNP	14	advcl	_	O
+21	@realDonaldTrump	@realdonaldtrump	NN	pos2=MD	22	nsubj	_	O
+22	Start	start	VB	pos2=NNP	20	ccomp	_	O
+23	Right	right	RB	pos2=JJ	22	advmod	_	O
+24	!	!	.	_	14	punct	_	O
+

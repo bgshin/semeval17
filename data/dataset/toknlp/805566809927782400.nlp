@@ -1,0 +1,19 @@
+1	.	.	.	_	0	punct	_	O
+
+1	ANIMAL	animal	NN	pos2=JJ	2	compound	_	O
+2	TESTING	testing	NN	_	16	nsubj	_	O
+3	,	,	,	_	2	punct	_	O
+4	the	the	DT	_	6	det	_	O
+5	grim	grim	JJ	_	6	nmod	_	O
+6	harvest	harvest	NN	pos2=VB	2	appos	_	O
+7	the	the	DT	_	9	det	_	O
+8	tourist	tourist	NN	_	9	compound	_	O
+9	board	board	NN	_	12	nsubj	_	O
+10	does	do	VBZ	_	12	aux	_	O
+11	n't	not	RB	_	12	neg	_	O
+12	tell	tell	VB	_	6	relcl	_	O
+13	you	you	PRP	_	12	dobj	_	O
+14	about	about	IN	_	12	prep	_	O
+15	#CambridgeKillers	#cambridgekillers	NNS	pos2=GW	14	pobj	_	O
+16	https://t.co/SDbCo3TF0l	#hlink#	ADD	_	0	root	_	O
+

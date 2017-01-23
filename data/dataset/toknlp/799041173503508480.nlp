@@ -1,0 +1,21 @@
+1	#TrumpTransitionTeam	#trumptransitionteam	NN	pos2=ADD	7	dep	_	O
+2	To	to	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	#FailingNYTimes	#failingnytimes	NNS	pos2=NNPS	2	pobj	_	O
+5	--	--	:	_	7	punct	_	O
+6	It	it	PRP	_	7	nsubj	_	O
+7	took	take	VBD	_	0	root	_	O
+8	#WorstPresidentEver	#worstpresidentever	RP	pos2=RB	7	prt	_	O
+9	#Obama	#obama	NNP	pos2=VBG	7	dobj	_	O
+10	THREE	#crd#	CD	_	11	nmod	_	B-DATE
+11	weeks	week	NNS	_	12	npadvmod	_	L-DATE
+12	after	after	IN	_	7	prep	_	O
+13	his	his	PRP$	_	15	poss	_	O
+14	2008	0	CD	_	15	nmod	_	U-DATE
+15	election	election	NN	_	12	pobj	_	O
+16	to	to	TO	_	17	aux	_	O
+17	name	name	VB	_	7	xcomp	_	O
+18	his	his	PRP$	_	19	poss	_	O
+19	cabinet	cabinet	NN	_	17	dobj	_	O
+20	!	!	.	_	7	punct	_	O
+

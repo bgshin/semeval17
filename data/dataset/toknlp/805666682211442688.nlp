@@ -1,0 +1,18 @@
+1	vaccines	vaccine	NNS	_	2	nsubj	_	O
+2	kill	kill	VBP	pos2=VB	0	root	_	O
+3	!!	!!	.	_	2	punct	_	O
+
+1	fuck	fuck	VB	pos2=UH	0	root	_	O
+2	all	all	DT	_	5	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	you	you	PRP	_	3	pobj	_	O
+5	dupes	dupe	NNS	pos2=VBZ	1	dobj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	whores	whore	NNS	_	5	conj	_	O
+8	ofinept	ofinept	VBP	pos2=RBS	1	conj	_	O
+9	corrupt	corrupt	JJ	_	12	nmod	_	O
+10	psychopathic	psychopathic	JJ	_	11	nmod	_	O
+11	vaccine	vaccine	NN	_	12	compound	_	O
+12	industry	industry	NN	_	13	dep	_	O
+13	https://t.co/gNUQBYDOcK	#hlink#	ADD	_	8	dobj	_	O
+

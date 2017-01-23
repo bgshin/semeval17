@@ -1,0 +1,6 @@
+1	Is	be	VBZ	_	0	root	_	O
+2	Justin	justin	NNP	_	4	compound	_	B-PERSON
+3	verlander	verlander	NN	pos2=NNP	4	compound	_	L-PERSON
+4	drumming	drumming	NN	pos2=VBG	1	nsubj	_	O
+5	?	?	.	_	1	punct	_	O
+

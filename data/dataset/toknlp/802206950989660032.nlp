@@ -1,0 +1,26 @@
+1	White	white	JJ	pos2=NNP	2	nmod	_	O
+2	supremacists	supremacist	NNS	_	3	nsubj	_	O
+3	claimed	claim	VBD	_	0	root	_	O
+4	they	they	PRP	_	6	nsubj	_	O
+5	will	will	MD	_	6	aux	_	O
+6	make	make	VB	_	3	ccomp	_	O
+7	twitter	twitter	NN	pos2=JJR	8	compound	_	O
+8	accounts	account	NNS	pos2=VBZ	6	dobj	_	O
+9	as	as	IN	_	6	prep	_	O
+10	black	black	JJ	_	11	nmod	_	O
+11	people	people	NNS	_	9	pobj	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	So	so	RB	_	5	advmod	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	'm	be	VBP	_	5	aux	_	O
+4	not	not	RB	_	5	neg	_	O
+5	responding	respond	VBG	_	0	root	_	O
+6	to	to	IN	_	5	prep	_	O
+7	any	any	DT	_	11	det	_	O
+8	coon	coon	NN	pos2=JJ	10	npadvmod	_	O
+9	-	-	HYPH	_	10	punct	_	O
+10	ish	ish	JJ	pos2=NN	11	nmod	_	O
+11	tweets	tweet	NNS	_	6	pobj	_	O
+12	.	.	.	_	5	punct	_	O
+

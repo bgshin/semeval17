@@ -1,0 +1,10 @@
+1	Check	check	VB	_	0	root	_	O
+2	out	out	RP	pos2=RB	1	prt	_	O
+3	@ScissorSister2	@scissorsister0	CD	pos2=NN	5	nmod	_	O
+4	great	great	JJ	_	5	nmod	_	O
+5	#MannequinChallenge	#mannequinchallenge	NN	pos2=NNS	1	dobj	_	O
+6	!	!	.	_	1	punct	_	O
+
+1	https://t.co/o9Od9p2p5n	#hlink#	ADD	_	0	root	_	O
+2	#Belfasthour	#belfasthour	-RRB-	pos2=NNP	1	punct	_	O
+

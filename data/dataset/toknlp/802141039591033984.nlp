@@ -1,0 +1,19 @@
+1	There	there	EX	_	2	expl	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	no	no	DT	_	4	det	_	O
+4	one	#crd#	NN	pos2=CD	2	attr	_	O
+5	else	else	RB	pos2=NN	4	advmod	_	O
+6	that	that	WDT	_	10	nsubj	_	O
+7	could	could	MD	_	10	aux	_	O
+8	or	or	CC	_	10	cc	_	O
+9	should	should	MD	_	10	aux	_	O
+10	sing	sing	VB	_	4	relcl	_	O
+11	#BeautyAndTheBeast	#beautyandthebeast	WP	pos2=IN	16	dative	_	O
+12	We	we	PRP	_	13	nsubj	_	O
+13	want	want	VBP	_	4	relcl	_	O
+14	@celinedion	@celinedion	PRP	pos2=ADD	16	nsubj	_	O
+15	to	to	TO	_	16	aux	_	O
+16	sing	sing	VB	_	13	ccomp	_	O
+17	it	it	PRP	_	16	dobj	_	O
+18	!	!	.	_	2	punct	_	O
+

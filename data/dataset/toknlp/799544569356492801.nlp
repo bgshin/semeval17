@@ -1,0 +1,13 @@
+1	Our	our	PRP$	_	5	poss	_	O
+2	Graphic	graphic	JJ	pos2=NNP	5	nmod	_	O
+3	Arts	art	NNPS	pos2=NNP	5	compound	_	B-ORG
+4	Media	media	NNP	_	5	compound	_	I-ORG
+5	Courier	courier	NNP	pos2=NN	6	nsubj	_	L-ORG
+6	is	be	VBZ	_	0	root	_	O
+7	out	out	RB	pos2=RP	6	advmod	_	O
+8	!	!	.	_	6	punct	_	O
+
+1	https://t.co/hJG0pboht1	#hlink#	ADD	_	0	root	_	O
+2	#nationalfastfoodday	#nationalfastfoodday	-RRB-	pos2=UH	1	punct	_	O
+3	#noir	#noir	UH	pos2=-RRB-	1	discourse	_	O
+

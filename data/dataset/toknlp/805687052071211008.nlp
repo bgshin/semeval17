@@ -1,0 +1,18 @@
+1	The	the	DT	_	3	det	_	O
+2	latest	late	JJS	_	3	nmod	_	O
+3	Politicos	politico	NNS	pos2=NNPS	7	nsubj	_	O
+4	,	,	,	_	3	punct	_	O
+5	political	political	JJ	_	0	root	_	O
+6	,	,	,	_	5	punct	_	O
+7	politique	politique	NN	pos2=FW	5	conj	_	O
+8	,	,	,	_	7	punct	_	O
+9	!	!	.	pos2=SYM	3	punct	_	O
+
+1	https://t.co/LnN2VtIXV0	#hlink#	ADD	pos2=NN	0	root	_	O
+2	Thanks	thanks	NNS	pos2=NN	1	npadvmod	_	O
+3	to	to	IN	_	4	aux	_	O
+4	@fjavilopez	@fjavilopez	VB	pos2=NNP	1	advcl	_	O
+5	@CristinaNarbona	@cristinanarbona	NNP	pos2=NN	6	compound	_	U-PERSON
+6	@natadeandres	@natadeandres	NNS	pos2=UH	4	dobj	_	O
+7	#fracking	#fracking	VBG	pos2=UH	4	advcl	_	O
+

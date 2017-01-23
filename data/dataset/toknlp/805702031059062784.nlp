@@ -1,0 +1,8 @@
+1	@Peterson33Izzy	@peterson0izzy	NNP	pos2=ADD	2	compound	_	B-PERSON
+2	@realDennisLynch	@realdennislynch	NNP	pos2=NN	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	he	he	PRP	_	6	nsubj	_	O
+5	still	still	RB	_	6	advmod	_	O
+6	pro-immigration	pro-immigration	JJ	pos2=RB	3	acomp	_	O
+7	?	?	.	_	3	punct	_	O
+

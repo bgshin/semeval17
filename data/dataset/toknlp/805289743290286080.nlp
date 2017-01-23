@@ -1,0 +1,26 @@
+1	Instead	instead	RB	_	2	advmod	_	O
+2	of	of	IN	_	5	prep	_	O
+3	studying	study	VBG	_	2	pcomp	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	looked	look	VBD	_	0	root	_	O
+6	into	into	IN	_	5	prep	_	O
+7	vegetarianism	vegetarianism	NN	_	6	pobj	_	O
+8	and	and	CC	_	5	cc	_	O
+9	realized	realize	VBD	pos2=VBN	5	conj	_	O
+10	I	I	PRP	_	11	nsubj	_	O
+11	'm	be	VBP	_	9	ccomp	_	O
+12	a	a	DT	_	14	det	_	O
+13	horrible	horrible	JJ	_	14	nmod	_	O
+14	vegetarian	vegetarian	JJ	pos2=NN	11	attr	_	O
+15	and	and	CC	_	11	cc	_	O
+16	feel	feel	VBP	pos2=VB	11	conj	_	O
+17	like	like	IN	_	19	mark	_	O
+18	there	there	EX	_	19	expl	_	O
+19	's	's	VBZ	_	16	advcl	_	O
+20	no	no	DT	_	21	det	_	O
+21	point	point	NN	_	19	attr	_	O
+22	now	now	RB	_	19	advmod	_	O
+23	.	.	.	_	5	punct	_	O
+
+1	😭	😭	SYM	pos2=NFP	0	root	_	U-ORG
+

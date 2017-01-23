@@ -1,0 +1,19 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	father	father	NN	_	6	nsubj	_	O
+3	and	and	CC	_	2	cc	_	O
+4	I	I	PRP	_	2	conj	_	O
+5	always	always	RB	_	6	advmod	_	O
+6	talk	talk	VBP	_	0	root	_	O
+7	like	like	IN	_	10	mark	_	O
+8	the	the	DT	_	9	det	_	O
+9	world	world	NN	_	10	nsubj	_	O
+10	listens	listen	VBZ	_	6	advcl	_	O
+11	–	-	HYPH	pos2=:	12	punct	_	O
+12	@nsabugsme	@nsabugsme	NN	pos2=JJ	13	compound	_	O
+13	reading	reading	NN	pos2=VBG	10	dobj	_	O
+14	from	from	IN	_	13	prep	_	O
+15	LOOK	look	NN	pos2=NNP	14	pobj	_	O
+16	#MiamiBookFair2016	#miamibookfair0	IN	pos2=GW	10	prep	_	U-NORP
+17	#NBAwards	#nbawards	ADD	pos2=NNS	16	pobj	_	O
+18	https://t.co/iTFCWGjSRV	#hlink#	ADD	_	6	dep	_	O
+

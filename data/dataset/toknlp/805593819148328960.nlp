@@ -1,0 +1,17 @@
+1	Economically	economically	RB	_	4	advmod	_	O
+2	,	,	,	_	4	punct	_	O
+3	there	there	EX	_	4	expl	_	O
+4	was	be	VBD	_	0	root	_	O
+5	the	the	DT	_	8	det	_	O
+6	self	self	NN	_	7	npadvmod	_	O
+7	regulating	regulate	VBG	_	8	nmod	_	O
+8	market	market	NN	_	4	attr	_	O
+9	and	and	CC	_	4	cc	_	O
+10	,	,	,	_	4	punct	_	O
+11	internationally	internationally	RB	_	4	advmod	_	O
+12	,	,	,	_	4	punct	_	O
+13	the	the	DT	_	15	det	_	O
+14	gold	gold	NN	pos2=JJ	15	compound	_	O
+15	standard	standard	NN	_	4	attr	_	O
+16	.	.	.	_	4	punct	_	O
+

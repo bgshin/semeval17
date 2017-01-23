@@ -1,0 +1,22 @@
+1	@AppSame	@appsame	ADD	pos2=UH	4	cc	_	O
+2	@DrJillStein	@drjillstein	NN	pos2=ADD	4	cc	_	O
+3	@HillaryClinton	@hillaryclinton	XX	pos2=GW	0	root	_	O
+4	So	so	RB	_	5	advmod	_	O
+5	much	much	RB	pos2=JJ	3	dobj	_	O
+6	for	for	IN	_	1	prep	_	O
+7	her	her	PRP$	pos2=PRP	8	poss	_	O
+8	preaching	preaching	NN	pos2=VBG	6	pobj	_	O
+9	to	to	IN	_	8	prep	_	O
+10	Trump	trump	NNP	_	9	pobj	_	U-ORG
+11	to	to	TO	_	12	aux	_	O
+12	accept	accept	VB	_	8	acl	_	O
+13	the	the	DT	_	14	det	_	O
+14	outcome	outcome	NN	_	12	dobj	_	O
+15	🙄	🙄	NNP	pos2=NN	18	nmod	_	O
+16	&	&	CC	_	15	cc	_	O
+17	peaceful	peaceful	JJ	_	15	conj	_	O
+18	transition	transition	NN	_	14	appos	_	O
+19	of	of	IN	_	18	prep	_	O
+20	power	power	NN	_	19	pobj	_	O
+21	.	.	.	_	1	punct	_	O
+

@@ -1,0 +1,17 @@
+1	#Muslims	#muslims	NNS	pos2=NNP	0	pobj	_	O
+2	-	-	:	pos2=,	5	punct	_	O
+3	The	the	DT	_	5	det	_	B-ORG
+4	Principal	principal	NNP	pos2=JJ	5	compound	_	I-ORG
+5	Victims	victim	NNPS	pos2=NNS	1	appos	_	I-ORG
+6	of	of	IN	_	5	prep	_	I-ORG
+7	#Wahhabism	#wahhabism	NNP	pos2=NFP	6	pobj	_	L-ORG
+8	https://t.co/2lO21peLML	#hlink#	ADD	_	7	appos	_	O
+9	#HeartofAsia	#heartofasia	ADD	pos2=-RRB-	5	prep	_	O
+10	#Pakistan	#pakistan	NNP	pos2=IN	16	compound	_	O
+11	#Quran	#quran	NNP	pos2=ADD	16	compound	_	O
+12	#Westworld	#westworld	NNP	pos2=ADD	16	compound	_	O
+13	#ISIS	#isis	NNP	pos2=POS	16	compound	_	O
+14	#Daesh	#daesh	NNP	pos2=POS	16	compound	_	O
+15	#Iraq	#iraq	NNP	pos2=POS	16	compound	_	O
+16	#Syria	#syria	NNP	pos2=ADD	9	pobj	_	O
+

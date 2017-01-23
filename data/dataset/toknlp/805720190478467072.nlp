@@ -1,0 +1,12 @@
+1	#AshleyGraham	#ashleygraham	ADD	pos2=UH	5	nsubj	_	O
+2	#dumped	#dumped	XX	pos2=VBN	5	nsubj	_	O
+3	for	for	IN	_	2	prep	_	O
+4	her	her	PRP	pos2=PRP$	3	pobj	_	O
+5	being	be	VBG	pos2=NN	0	root	_	O
+6	as	as	RB	pos2=IN	7	advmod	_	O
+7	#fat	#fat	RB	pos2=XX	5	advmod	_	O
+8	as	as	IN	_	7	prep	_	O
+9	her	her	PRP$	pos2=PRP	11	poss	_	O
+10	#mo	#mo	ADD	pos2=GW	11	nmod	_	O
+11	therhttps://t.co/BOnabQrEhr	#hlink#	ADD	pos2=NN	8	pobj	_	O
+

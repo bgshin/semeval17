@@ -1,0 +1,18 @@
+1	Women	woman	NNS	_	2	nsubj	_	O
+2	have	have	VBP	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	choice	choice	NN	_	2	dobj	_	O
+5	if	if	IN	_	14	mark	_	O
+6	and	and	CC	_	2	cc	_	O
+7	when	when	WRB	_	9	advmod	_	O
+8	they	they	PRP	_	9	nsubj	_	O
+9	become	become	VBP	_	14	advcl	_	O
+10	parents	parent	NNS	_	9	attr	_	O
+11	,	,	,	_	14	punct	_	O
+12	why	why	WRB	_	14	advmod	_	O
+13	not	not	RB	_	14	neg	_	O
+14	men	man	NNS	_	15	advcl	_	O
+15	?	?	.	_	2	punct	_	O
+
+1	https://t.co/iKglVxNp60	#hlink#	ADD	_	0	root	_	U-ORG
+

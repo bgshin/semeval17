@@ -1,0 +1,25 @@
+1	ya	ya	PRP	pos2=UH	2	nsubj	_	O
+2	know	know	VBP	pos2=VB	5	parataxis	_	O
+3	,	,	,	_	5	punct	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	's	's	VBZ	_	0	root	_	O
+6	funny	funny	JJ	_	5	acomp	_	O
+7	how	how	WRB	_	11	advmod	_	O
+8	people	people	NNS	_	9	nsubj	_	O
+9	like	like	VBP	_	5	ccomp	_	O
+10	to	to	TO	_	11	aux	_	O
+11	say	say	VB	_	9	xcomp	_	O
+12	that	that	IN	_	14	mark	_	O
+13	Melania	melania	NNP	_	14	nsubj	_	U-PERSON
+14	plagarized	plagarized	VBD	pos2=VBN	11	ccomp	_	O
+15	Michelle	michelle	NNP	_	17	poss	_	U-PERSON
+16	's	's	POS	_	15	case	_	O
+17	speech	speech	NN	_	14	dobj	_	O
+18	when	when	WRB	_	20	advmod	_	O
+19	trump	trump	NN	_	20	nsubj	_	O
+20	plagarized	plagarized	VBD	pos2=VBN	14	advcl	_	O
+21	Reagan	reagan	NNP	_	23	poss	_	U-PERSON
+22	's	's	POS	_	21	case	_	O
+23	…	…	NFP	pos2=CD	20	dobj	_	O
+24	https://t.co/EAwVFntNZv	#hlink#	ADD	pos2=NN	20	dobj	_	O
+

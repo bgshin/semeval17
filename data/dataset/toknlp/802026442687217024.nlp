@@ -1,0 +1,14 @@
+1	Ariana	ariana	NNP	_	3	compound	_	B-EVENT
+2	Grande	grande	NNP	_	3	compound	_	I-EVENT
+3	Private	private	NNP	pos2=JJ	4	compound	_	I-EVENT
+4	Event	event	NN	pos2=NNP	13	dep	_	L-EVENT
+5	for	for	IN	_	4	prep	_	O
+6	Coach	coach	NN	pos2=NNP	5	pobj	_	O
+7	in	in	IN	_	6	prep	_	O
+8	Japan	japan	NNP	_	7	pobj	_	U-GPE
+9	,	,	,	_	4	punct	_	O
+10	August	august	NNP	_	13	npadvmod	_	B-DATE
+11	2015	0	CD	_	13	dep	_	I-DATE
+12	https://t.co/5DCmT5HkrF	#hlink#	ADD	pos2=NNS	13	nsubj	_	I-DATE
+13	#ArianaGrande	#arianagrande	ADD	pos2=-RRB-	0	root	_	L-DATE
+

@@ -1,0 +1,25 @@
+1	Pocahontas	pocahontas	NNP	_	3	nsubj	_	U-GPE
+2	is	be	VBZ	_	3	aux	_	O
+3	looking	look	VBG	_	10	ccomp	_	O
+4	out	out	RP	pos2=IN	3	prt	_	O
+5	4	0	CD	_	6	nmod	_	U-CARDINAL
+6	America	america	NNP	_	3	dobj	_	U-GPE
+7	,	,	,	_	10	punct	_	O
+8	she	she	PRP	_	10	nsubj	_	O
+9	just	just	RB	_	10	advmod	_	O
+10	wants	want	VBZ	_	0	root	_	O
+11	2	0	CD	_	12	nmod	_	U-CARDINAL
+12	B	b	NN	pos2=CD	13	npadvmod	_	O
+13	sure	sure	JJ	pos2=RB	15	advmod	_	O
+14	Trump	trump	NNP	_	16	poss	_	U-ORG
+15	's	's	POS	_	14	case	_	O
+16	transition	transition	NN	_	18	nsubj	_	O
+17	is	be	VBZ	_	18	aux	_	O
+18	moving	move	VBG	_	10	ccomp	_	O
+19	at	at	IN	_	18	prep	_	O
+20	an	an	DT	_	22	det	_	O
+21	acceptable	acceptable	JJ	_	22	nmod	_	O
+22	click	click	NN	pos2=VB	19	pobj	_	O
+23	&…	&…	IN	pos2=NFP	22	prep	_	O
+24	https://t.co/LxvQPG8yCA	#hlink#	ADD	_	23	pobj	_	O
+

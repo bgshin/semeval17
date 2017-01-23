@@ -1,0 +1,14 @@
+1	@BlairImani	@blairimani	ADD	pos2=NNS	4	det	_	O
+2	@NateSilver538	@natesilver0	NN	pos2=NNS	1	pobj	_	O
+3	@monaeltahawy	@monaeltahawy	IN	pos2=NNP	0	root	_	O
+4	Putin	putin	NNP	_	6	nsubj	_	U-PERSON
+5	's	's	POS	pos2=VBZ	4	case	_	O
+6	getting	get	VBG	_	3	pcomp	_	O
+7	an	an	DT	_	10	det	_	O
+8	outstanding	outstanding	JJ	_	10	nmod	_	O
+9	Christmas	christmas	NNP	_	10	compound	_	U-DATE
+10	present	present	NN	pos2=JJ	6	dobj	_	O
+11	this	this	DT	_	12	det	_	B-DATE
+12	year	year	NN	_	6	npadvmod	_	L-DATE
+13	!	!	.	_	1	punct	_	O
+

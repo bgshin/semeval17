@@ -1,0 +1,31 @@
+1	NOT	not	RB	_	3	neg	_	O
+2	OVER	over	IN	pos2=RB	3	advmod	_	O
+3	YET	yet	RB	pos2=NNP	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	If	if	IN	_	4	mark	_	O
+2	Germans	german	NNPS	pos2=NNS	4	nsubj	_	U-NORP
+3	had	have	VBD	_	4	aux	_	O
+4	resisted	resist	VBN	_	15	advcl	_	O
+5	Hitler	hitler	NNP	_	7	poss	_	U-PERSON
+6	's	's	POS	_	5	case	_	O
+7	rise	rise	NN	_	4	dobj	_	O
+8	to	to	IN	_	7	prep	_	O
+9	power	power	NN	_	8	pobj	_	O
+10	,	,	,	_	15	punct	_	O
+11	millions	#crd#	NNS	_	15	nsubj	_	U-CARDINAL
+12	would	would	MD	_	15	aux	_	O
+13	not	not	RB	_	15	neg	_	O
+14	have	have	VB	_	15	aux	_	O
+15	died	die	VBN	_	0	root	_	O
+16	.	.	.	_	15	punct	_	O
+
+1	Trump	trump	NN	pos2=NNP	2	nsubj	_	U-ORG
+2	wants	want	VBZ	_	0	root	_	O
+3	$$	$$	NN	pos2=NFP	2	dobj	_	O
+4	,	,	,	_	2	punct	_	O
+5	not	not	RB	_	6	neg	_	O
+6	re	re	IN	pos2=GW	2	prep	_	O
+7	…	…	NFP	pos2=-LRB-	6	punct	_	O
+8	https://t.co/tzYbWlm1Jt	#hlink#	ADD	_	6	pobj	_	O
+

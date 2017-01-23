@@ -1,0 +1,29 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	O
+2	@jasondhorowitz	@jasondhorowitz	NN	pos2=XX	4	dep	_	O
+3	:	:	:	_	4	punct	_	O
+4	Pointing	point	VBG	_	0	root	_	O
+5	out	out	RP	_	4	prt	_	O
+6	that	that	IN	pos2=DT	8	mark	_	O
+7	@mviser	@mviser	PRP	pos2=NN	8	nsubj	_	O
+8	is	be	VBZ	_	4	ccomp	_	O
+9	not	not	RB	_	8	neg	_	O
+10	the	the	DT	_	14	det	_	O
+11	Alt	alt	NNP	pos2=JJ	13	advmod	_	O
+12	-	-	HYPH	_	13	punct	_	O
+13	Right	right	JJ	pos2=NNP	14	nmod	_	O
+14	leader	leader	NN	_	8	attr	_	O
+15	.	.	.	_	4	punct	_	O
+
+1	He	he	PRP	_	3	nsubj	_	O
+2	always	always	RB	_	3	advmod	_	O
+3	recognizes	recognize	VBZ	_	0	root	_	O
+4	my	my	PRP$	_	5	poss	_	O
+5	personhood	personhood	NN	pos2=NNS	3	dobj	_	O
+6	,	,	,	_	3	punct	_	O
+7	except	except	IN	_	3	prep	_	O
+8	when	when	WRB	_	10	advmod	_	O
+9	I	I	PRP	_	10	nsubj	_	O
+10	say	say	VBP	_	7	pcomp	_	O
+11	something	something	NN	_	10	dobj	_	O
+12	…	…	''	pos2=.	3	punct	_	U-DATE
+

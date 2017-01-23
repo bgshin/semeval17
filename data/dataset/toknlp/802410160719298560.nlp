@@ -1,0 +1,21 @@
+1	This	this	DT	_	3	det	_	O
+2	Cambridge	cambridge	NNP	_	3	compound	_	U-GPE
+3	startup	startup	NN	_	5	nsubj	_	O
+4	will	will	MD	_	5	aux	_	O
+5	be	be	VB	_	0	root	_	O
+6	the	the	DT	_	8	det	_	O
+7	first	#ord#	JJ	_	8	nmod	_	U-ORDINAL
+8	company	company	NN	_	5	attr	_	O
+9	to	to	TO	_	10	aux	_	O
+10	test	test	VB	_	8	relcl	_	O
+11	self-driving	self-driving	JJ	_	12	nmod	_	O
+12	cars	car	NNS	_	10	dobj	_	O
+13	on	on	IN	_	10	prep	_	O
+14	Boston	boston	NNP	_	16	poss	_	U-GPE
+15	’s	's	POS	_	14	case	_	O
+16	s	s	NN	pos2=POS	13	pobj	_	O
+17	...	..	.	pos2=,	5	punct	_	O
+
+1	https://t.co/t7v4PAGeDZ	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/cFpvywggUr	#hlink#	ADD	_	0	root	_	U-ORG
+

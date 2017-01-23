@@ -1,0 +1,16 @@
+1	#Breaking	#breaking	VBG	pos2=NNP	2	nmod	_	O
+2	#ISIS#IraqiForces	#isis#iraqiforces	NNS	pos2=ADD	15	dep	_	B-PERSON
+3	#Mosul	#mosul	NNP	pos2=POS	4	nsubj	_	L-PERSON
+4	#IraqRepelled	#iraqrepelled	VBD	pos2=VBN	2	relcl	_	O
+5	#Rafidi	#rafidi	NNP	pos2=POS	7	compound	_	O
+6	Mobilization	mobilization	NNP	pos2=NN	7	compound	_	O
+7	Attempt	attempt	NNP	pos2=NN	4	dobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	Advance	advance	VB	pos2=NNP	4	xcomp	_	O
+10	on	on	IN	pos2=RP	9	prep	_	O
+11	#Masayid	#masayid	NNP	pos2=CD	12	compound	_	B-FAC
+12	Village	village	NNP	_	13	compound	_	I-FAC
+13	Nort	nort	NNP	pos2=RB	10	pobj	_	L-FAC
+14	…	…	NFP	pos2=NNP	15	punct	_	O
+15	https://t.co/94Df4mHHVs	#hlink#	ADD	_	0	root	_	O
+

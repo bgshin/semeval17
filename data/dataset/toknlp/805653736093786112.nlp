@@ -1,0 +1,27 @@
+1	So	so	RB	pos2=CC	6	advmod	_	O
+2	Austria	austria	NNP	_	5	poss	_	U-GPE
+3	's	's	POS	_	2	case	_	O
+4	new	new	JJ	_	5	nmod	_	O
+5	president	president	NN	pos2=NNP	6	nsubj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	proponent	proponent	NN	_	6	attr	_	O
+9	of	of	IN	_	8	prep	_	O
+10	divorce	divorce	NN	_	9	pobj	_	O
+11	,	,	,	_	10	punct	_	O
+12	gay	gay	JJ	pos2=CC	13	nmod	_	O
+13	marriage	marriage	NN	_	10	conj	_	O
+14	and	and	CC	_	13	cc	_	O
+15	smoking	smoking	NN	pos2=VBG	13	conj	_	O
+16	until	until	IN	_	18	mark	_	O
+17	it	it	PRP	_	18	nsubj	_	O
+18	kills	kill	VBZ	_	6	advcl	_	O
+19	you	you	PRP	_	18	dobj	_	O
+20	?	?	.	_	6	punct	_	O
+
+1	Still	still	RB	_	2	advmod	_	O
+2	worried	worried	JJ	_	0	root	_	O
+3	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/9nd1JZ5NuQ	#hlink#	ADD	_	0	root	_	U-ORG
+

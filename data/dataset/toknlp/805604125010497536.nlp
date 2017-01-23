@@ -1,0 +1,18 @@
+1	@The420RadioShow	@the0radioshow	NNP	pos2=XX	4	dep	_	O
+2	This	this	DT	_	4	nsubj	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	in	in	IN	pos2=RB	8	dep	_	O
+5	:	:	:	_	4	punct	_	O
+6	Texas	texas	NNP	_	8	nsubj	_	U-GPE
+7	may	may	MD	_	8	aux	_	O
+8	legalize	legalize	VB	_	0	root	_	O
+9	weed	weed	NN	pos2=RB	8	dobj	_	O
+10	in	in	IN	_	8	prep	_	O
+11	the	the	DT	_	14	det	_	B-DATE
+12	next	next	JJ	_	14	nmod	_	I-DATE
+13	2	0	CD	_	14	nmod	_	I-DATE
+14	years	year	NNS	_	10	pobj	_	L-DATE
+15	.	.	.	_	8	punct	_	O
+
+1	https://t.co/dMlarDfiEH	#hlink#	ADD	_	0	root	_	U-ORG
+

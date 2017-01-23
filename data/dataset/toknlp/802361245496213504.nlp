@@ -1,0 +1,28 @@
+1	These	these	DT	_	2	det	_	O
+2	Formula	formula	NNP	pos2=NN	0	root	_	U-ORG
+3	racing	race	VBG	pos2=NN	4	compound	_	O
+4	champs	champ	NNS	_	5	nsubj	_	O
+5	use	use	VB	pos2=NN	2	acl	_	O
+6	3	0	CD	_	11	nmod	_	U-CARDINAL
+7	D	d	NN	pos2=NNP	8	compound	_	O
+8	printing	printing	NN	pos2=VBG	5	dobj	_	O
+9	as	as	IN	_	8	prep	_	O
+10	a	a	DT	_	12	det	_	O
+11	key	key	JJ	_	12	nmod	_	O
+12	part	part	NN	_	9	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	their	their	PRP$	_	16	poss	_	O
+15	racing	racing	NN	_	16	compound	_	O
+16	strategy	strategy	NN	_	13	pobj	_	O
+17	.	.	.	_	2	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	the	the	DT	_	5	det	_	O
+4	perfect	perfect	JJ	_	5	nmod	_	O
+5	tool	tool	NN	_	2	attr	_	O
+6	with	with	IN	_	5	prep	_	O
+7	only	only	RB	_	8	advmod	_	O
+8	…	…	NFP	pos2=-LRB-	6	pobj	_	O
+9	https://t.co/2cXDlQeEju	#hlink#	ADD	_	6	pobj	_	O
+

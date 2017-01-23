@@ -1,0 +1,30 @@
+1	Pay	pay	VB	pos2=NN	0	root	_	O
+2	to	to	IN	pos2=TO	1	prep	_	O
+3	Play	play	VB	pos2=NNP	2	pobj	_	O
+4	,	,	,	_	1	punct	_	O
+5	Mr.	mr.	NNP	_	6	compound	_	O
+6	Trump	trump	NNP	_	1	vocative	_	U-PERSON
+7	?	?	.	_	1	punct	_	O
+
+1	FOR	for	IN	_	4	prep	_	O
+2	SALE	sale	NN	_	1	pobj	_	O
+3	-	-	:	pos2=HYPH	7	punct	_	O
+4	White	white	NNP	_	5	compound	_	B-ORG
+5	House	house	NNP	_	7	compound	_	L-ORG
+6	Cabinet	cabinet	NNP	_	7	compound	_	O
+7	Positions	position	NNPS	pos2=NNS	8	dative	_	O
+8	.	.	.	_	0	root	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	has	have	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	history	history	NN	_	2	dobj	_	O
+5	w	w	IN	_	4	prep	_	O
+6	/	/	HYPH	_	5	punct	_	O
+7	Pay	pay	NN	pos2=NNP	5	pobj	_	O
+8	for	for	IN	_	7	prep	_	O
+9	Play	play	NN	pos2=NNP	8	pobj	_	O
+10	.	.	.	_	2	punct	_	O
+
+1	https://t.co/w7RUYmSUEV	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,19 @@
+1	NBA	nba	NNP	pos2=NN	2	compound	_	U-ORG
+2	star	star	NN	pos2=VB	4	compound	_	O
+3	LeBron	lebron	NNP	_	4	compound	_	B-PERSON
+4	James	james	NNP	_	0	root	_	L-PERSON
+5	giving	give	VBG	_	4	acl	_	O
+6	$	$	$	_	8	qmod	_	B-MONEY
+7	2.5	0	CD	_	8	compound	_	I-MONEY
+8	million	#crd#	CD	_	5	dobj	_	L-MONEY
+9	to	to	IN	pos2=TO	5	dative	_	O
+10	Muhammad	muhammad	NNP	_	11	compound	_	B-PERSON
+11	Ali	ali	NNP	_	12	compound	_	L-PERSON
+12	exhibit	exhibit	NN	pos2=VBP	9	pobj	_	O
+13	https://t.co/vYAADmpD7r	#hlink#	ADD	pos2=NN	16	dep	_	O
+14	:	:	:	_	16	punct	_	O
+15	Auto	auto	NN	pos2=NNP	16	compound	_	O
+16	pickup	pickup	NN	_	5	dobj	_	O
+17	by	by	IN	_	16	prep	_	O
+18	wikyou	wikyou	NN	pos2=NNP	17	pobj	_	U-DATE
+

@@ -1,0 +1,33 @@
+1	Torii	torii	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Hunter	hunter	NNP	_	15	nsubj	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	22nd	#ord#	JJ	pos2=NN	2	appos	_	U-ORDINAL
+5	among	among	IN	_	4	prep	_	O
+6	Box	box	NNP	pos2=NN	8	compound	_	O
+7	-	-	HYPH	_	8	punct	_	O
+8	Toppers	toppers	NNP	pos2=NNPS	5	pobj	_	O
+9	'	'	''	pos2=POS	12	punct	_	O
+10	"	"	``	pos2=''	12	punct	_	O
+11	big	big	JJ	_	12	nmod	_	O
+12	dippers	dipper	NNS	_	2	appos	_	O
+13	,	,	,	_	15	punct	_	O
+14	"	"	''	pos2=``	15	punct	_	O
+15	drops	drop	VBZ	pos2=NNS	0	root	_	O
+16	8.0	0	CD	_	20	nmod	_	U-CARDINAL
+17	B	b	NN	pos2=CD	19	compound	_	O
+18	-	-	HYPH	_	19	punct	_	O
+19	T	t	NN	pos2=NNP	20	compound	_	O
+20	pts	pt	NNS	pos2=NN	15	dobj	_	O
+21	from	from	IN	_	15	prep	_	O
+22	'15	'0	CD	pos2=NN	21	pobj	_	U-DATE
+23	.	.	.	_	15	punct	_	O
+
+1	He	he	PRP	_	2	nsubj	_	O
+2	retired	retire	VBD	_	0	root	_	O
+3	from	from	IN	_	2	prep	_	O
+4	#Twins	#twins	NNP	pos2=NNS	3	pobj	_	U-ORG
+5	after	after	IN	_	2	prep	_	O
+6	'15	'0	CD	pos2=NN	5	pobj	_	U-DATE
+7	—	-	:	pos2=HYPH	8	punct	_	O
+8	https://t.co/K8TrAchsjE	#hlink#	ADD	pos2=NN	2	dep	_	O
+

@@ -1,0 +1,17 @@
+1	Very	very	RB	_	2	advmod	_	O
+2	dense	dense	JJ	_	3	nmod	_	O
+3	fog	fog	NN	_	16	dep	_	O
+4	and	and	CC	_	3	cc	_	O
+5	some	some	DT	_	7	det	_	O
+6	icy	icy	JJ	pos2=NN	7	nmod	_	O
+7	patches	patch	NNS	_	3	conj	_	O
+8	on	on	IN	_	7	prep	_	O
+9	roads	road	NNS	_	8	pobj	_	O
+10	in	in	IN	_	9	prep	_	O
+11	North	north	NNP	_	12	compound	_	B-LOC
+12	Tipp	tipp	NNP	_	10	pobj	_	L-LOC
+13	and	and	CC	_	12	cc	_	O
+14	Offaly	offaly	NNP	_	12	conj	_	U-GPE
+15	tonight	tonight	NN	_	16	npadvmod	_	U-TIME
+16	#drivecarefully	#drivecarefully	RB	pos2=.	0	root	_	O
+

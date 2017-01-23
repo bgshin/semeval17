@@ -1,0 +1,14 @@
+1	Cristiano	cristiano	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	4	compound	_	L-PERSON
+3	|	|	SYM	pos2=,	2	punct	_	O
+4	Perfume	perfume	NN	pos2=NNP	5	compound	_	O
+5	Legacy	legacy	NNP	pos2=NN	0	root	_	B-WORK_OF_ART
+6	The	the	DT	_	8	det	_	I-WORK_OF_ART
+7	Private	private	NNP	pos2=JJ	8	compound	_	I-WORK_OF_ART
+8	Edition	edition	NNP	pos2=NN	5	appos	_	I-WORK_OF_ART
+9	|	|	,	pos2=SYM	8	punct	_	I-WORK_OF_ART
+10	Campaign	campaign	NNP	pos2=NN	8	appos	_	L-WORK_OF_ART
+11	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/z7DSvISupm	#hlink#	ADD	_	0	root	_	U-ORG
+

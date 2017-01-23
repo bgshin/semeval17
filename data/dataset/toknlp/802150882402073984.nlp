@@ -1,0 +1,27 @@
+1	@DeepSilverUK	@deepsilveruk	UH	pos2=XX	6	discourse	_	O
+2	@AtlusUSA	@atlususa	UH	pos2=MD	6	discourse	_	O
+3	I	I	PRP	_	6	nsubj	_	O
+4	do	do	VBP	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	think	think	VB	_	0	root	_	O
+7	that	that	IN	pos2=DT	14	mark	_	O
+8	free	free	JJ	_	9	nmod	_	O
+9	Persona	persona	NN	pos2=NNP	11	nmod	_	O
+10	5	0	CD	_	11	nmod	_	U-CARDINAL
+11	theme	theme	NN	_	14	nsubj	_	O
+12	is	be	VBZ	_	14	aux	_	O
+13	ever	ever	RB	_	14	advmod	_	O
+14	coming	come	VBG	_	6	ccomp	_	O
+15	to	to	IN	_	14	prep	_	O
+16	Europe	europe	NNP	_	15	pobj	_	U-LOC
+17	.	.	.	_	6	punct	_	O
+
+1	Atlus	atlus	NNP	_	3	nsubj	_	U-ORG
+2	has	have	VBZ	_	3	aux	_	O
+3	lied	lie	VBN	_	0	root	_	O
+4	to	to	IN	_	3	prep	_	O
+5	us	us	PRP	_	4	pobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	https://t.co/UFn5WjREpn	#hlink#	ADD	_	0	root	_	U-ORG
+

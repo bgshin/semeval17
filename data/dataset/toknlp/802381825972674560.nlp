@@ -1,0 +1,20 @@
+1	@hateful_heretic	@hateful_heretic	UH	pos2=JJ	5	discourse	_	O
+2	@gueseissen	@gueseissen	UH	pos2=WRB	5	discourse	_	O
+3	@Bulbasaur_TRS	@bulbasaur_trs	NNS	pos2=UH	5	vocative	_	O
+4	we	we	PRP	_	5	nsubj	_	O
+5	need	need	VBP	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	put	put	VB	_	5	xcomp	_	O
+8	"	"	``	_	10	punct	_	O
+9	white	white	JJ	_	10	nmod	_	O
+10	liberals	liberal	NNS	pos2=NNPS	7	dobj	_	O
+11	"	"	''	_	10	punct	_	O
+12	in	in	IN	_	7	prep	_	O
+13	labor	labor	NN	_	14	compound	_	O
+14	camps	camp	NNS	_	12	pobj	_	O
+15	separated	separate	VBN	_	10	acl	_	O
+16	by	by	IN	_	15	agent	_	O
+17	sex	sex	NN	_	16	pobj	_	O
+18	for	for	IN	_	15	prep	_	O
+19	life	life	NN	_	18	pobj	_	O
+

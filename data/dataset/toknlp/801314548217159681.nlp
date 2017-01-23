@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det	_	O
+2	Anti-Trump	anti-trump	NNP	pos2=JJ	3	compound	_	O
+3	Riots	riot	NNPS	pos2=NNS	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	a	a	DT	_	6	det	_	O
+6	Smokescreen	smokescreen	NN	pos2=NNP	4	attr	_	O
+7	to	to	TO	_	8	aux	_	O
+8	Abolish	abolish	VB	_	6	acl	_	O
+9	the	the	DT	_	11	det	_	O
+10	Electoral	electoral	JJ	pos2=NNP	11	nmod	_	O
+11	college	college	NN	_	8	dobj	_	O
+12	:	:	:	_	4	punct	_	O
+13	https://t.co/WKcNdUg4VQ	#hlink#	ADD	_	4	dep	_	O
+

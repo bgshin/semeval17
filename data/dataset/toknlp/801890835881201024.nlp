@@ -1,0 +1,26 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	know	know	VBP	_	0	root	_	O
+3	people	people	NNS	_	4	nsubj	_	O
+4	got	get	VBD	pos2=VBP	2	ccomp	_	O
+5	all	all	DT	pos2=RB	4	dobj	_	O
+6	up	up	RP	pos2=RB	4	prt	_	O
+7	in	in	IN	_	4	prep	_	O
+8	arms	arm	NNS	_	7	pobj	_	O
+9	about	about	IN	_	4	prep	_	O
+10	Porcello	porcello	NNP	_	9	pobj	_	U-ORG
+11	winning	win	VBG	_	4	advcl	_	O
+12	the	the	DT	_	14	det	_	O
+13	Cy	cy	NNP	_	14	compound	_	O
+14	Young	young	NNP	_	11	dobj	_	O
+15	over	over	IN	_	11	prep	_	O
+16	Verlander	verlander	NNP	_	15	pobj	_	U-PERSON
+17	but	but	CC	_	2	cc	_	O
+18	I	I	PRP	_	19	nsubj	_	O
+19	think	think	VBP	_	2	conj	_	O
+20	Britton	britton	NNP	_	23	nsubj	_	U-PERSON
+21	should	should	MD	_	23	aux	_	O
+22	have	have	VB	_	23	aux	_	O
+23	won	win	VBN	_	19	ccomp	_	O
+24	it	it	PRP	_	23	dobj	_	O
+25	.	.	.	_	19	punct	_	O
+

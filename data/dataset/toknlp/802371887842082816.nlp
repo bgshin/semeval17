@@ -1,0 +1,18 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	7	ccomp	_	O
+3	cool	cool	JJ	_	2	acomp	_	O
+4	with	with	IN	_	3	prep	_	O
+5	recount	recount	NN	_	4	pobj	_	O
+6	,	,	,	_	7	punct	_	O
+7	imagine	imagine	VB	pos2=VBP	0	root	_	O
+8	mud	mud	NN	_	7	dobj	_	O
+9	in	in	IN	_	7	prep	_	O
+10	dems	dems	PRP$	pos2=JJ	11	poss	_	O
+11	eyes	eye	NNS	_	9	pobj	_	O
+12	when	when	WRB	_	15	advmod	_	O
+13	Trump	trump	NNP	_	15	nsubj	_	U-ORG
+14	STILL	still	RB	pos2=NNP	15	advmod	_	O
+15	wins	win	VBZ	_	7	advcl	_	O
+16	lol	lol	UH	pos2=GW	15	discourse	_	O
+17	https://t.co/Y2q3A5555l	#hlink#	ADD	pos2=NN	15	dobj	_	O
+

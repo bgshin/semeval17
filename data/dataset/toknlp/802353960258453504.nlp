@@ -1,0 +1,21 @@
+1	Trump	trump	NN	pos2=NNP	2	nsubj	_	O
+2	hit	hit	VBN	pos2=NN	0	root	_	O
+3	by	by	IN	_	2	agent	_	O
+4	media	medium	NNS	pos2=NN	3	pobj	_	O
+5	for	for	IN	_	2	prep	_	O
+6	choosing	choose	VBG	_	5	pcomp	_	O
+7	billionaires	billionaire	NNS	_	6	dobj	_	O
+8	for	for	IN	_	7	prep	_	O
+9	Cabinet	cabinet	NNP	pos2=NN	11	compound	_	U-ORG
+10	-	-	HYPH	pos2=,	11	punct	_	O
+11	Member	member	NNP	_	8	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	transition	transition	NN	_	14	compound	_	O
+14	team	team	NN	_	16	compound	_	O
+15	Anthony	anthony	NNP	_	16	compound	_	B-PERSON
+16	Scaramucci	scaramucci	NNP	_	12	pobj	_	L-PERSON
+17	weighs	weigh	VBZ	_	2	conj	_	O
+18	...	..	.	pos2=,	17	punct	_	O
+
+1	https://t.co/gRdmfUDnDQ	#hlink#	ADD	_	0	root	_	U-ORG
+

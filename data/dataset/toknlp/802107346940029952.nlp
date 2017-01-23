@@ -1,0 +1,20 @@
+1	#Burundi	#burundi	NNS	pos2=PRP$	2	compound	_	O
+2	opposition	opposition	NN	_	3	nsubj	_	O
+3	urges	urge	VBZ	pos2=NNS	0	root	_	O
+4	#UnitedNations	#unitednations	NNS	pos2=ADD	3	dobj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	take	take	VB	_	3	xcomp	_	O
+7	over	over	RP	_	6	prt	_	O
+8	#EAC	#eac	NN	pos2=NNP	9	compound	_	O
+9	talks	talk	NNS	_	6	dobj	_	O
+10	and	and	CC	_	6	cc	_	O
+11	send	send	VB	_	6	conj	_	O
+12	troops	troop	NNS	_	11	dobj	_	O
+13	'	'	''	pos2=POS	3	punct	_	O
+14	to	to	TO	_	15	aux	_	O
+15	protect	protect	VB	_	3	xcomp	_	O
+16	civilians	civilian	NNS	_	19	poss	_	O
+17	'	'	POS	pos2=''	16	case	_	O
+18	@UN	@un	GW	pos2=NN	19	nmod	_	O
+19	https://t.co/Ha95yGqpC5	#hlink#	ADD	pos2=NN	15	dobj	_	U-ORG
+

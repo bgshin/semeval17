@@ -1,0 +1,21 @@
+1	How	how	WRB	_	5	advmod	_	O
+2	have	have	VBP	pos2=VB	5	aux	_	O
+3	I	I	PRP	_	5	nsubj	_	O
+4	not	not	RB	_	5	neg	_	O
+5	seen	see	VBN	_	0	root	_	O
+6	these	these	DT	_	5	dobj	_	O
+7	??	??	.	pos2=,	5	punct	_	O
+
+1	Is	be	VBZ	_	3	aux	_	O
+2	everyone	everyone	NN	_	3	nsubj	_	O
+3	trying	try	VBG	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	get	get	VB	_	3	xcomp	_	O
+6	one	#crd#	CD	pos2=PRP	5	dobj	_	U-CARDINAL
+7	??	??	.	_	3	punct	_	O
+
+1	🤔	🤔	NFP	pos2=GW	4	punct	_	O
+2	#hatchimals	#hatchimals	GW	pos2=NNS	4	nmod	_	O
+3	https://t.co/pyeEWoxq0t	#hlink#	ADD	pos2=GW	4	nmod	_	O
+4	https://t.co/VMx1A991Hi	#hlink#	ADD	_	0	root	_	U-ORG
+

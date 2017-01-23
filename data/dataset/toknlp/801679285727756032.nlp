@@ -1,0 +1,17 @@
+1	We	we	PRP	_	3	nsubj	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	tried	try	VBD	_	0	root	_	O
+4	@googleearth	@googleearth	$	pos2=XX	5	nmod	_	O
+5	#VR	#vr	NN	pos2=XX	3	dobj	_	O
+6	in	in	IN	_	3	prep	_	O
+7	our	our	PRP$	_	8	poss	_	O
+8	@htcvive	@htcvive	NN	pos2=CD	6	pobj	_	O
+9	and	and	CC	_	3	cc	_	O
+10	loved	love	VBD	_	3	conj	_	O
+11	everything	everything	NN	_	10	dobj	_	O
+12	about	about	IN	_	11	prep	_	O
+13	it	it	PRP	_	12	pobj	_	O
+14	!	!	.	_	3	punct	_	O
+
+1	https://t.co/TbrBW2fwx6	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,21 @@
+1	Am	be	VBP	pos2=VB	0	root	_	O
+2	apreciat	apreciat	JJ	pos2=VBN	5	nmod	_	O
+3	un	un	JJ	pos2=NN	5	nmod	_	O
+4	videoclip	videoclip	NN	_	5	compound	_	O
+5	pe	pe	NN	pos2=XX	6	compound	_	O
+6	@YouTube	@youtube	NNP	pos2=NN	1	nsubj	_	O
+7	,	,	,	_	6	punct	_	O
+8	https://t.co/J6NEfUDP37	#hlink#	NNP	pos2=ADD	12	compound	_	O
+9	Cristiano	cristiano	NNP	_	12	compound	_	B-PERSON
+10	Ronaldo	ronaldo	NNP	_	12	compound	_	L-PERSON
+11	►	►	NNP	pos2=VBD	12	compound	_	O
+12	Magic	magic	NNP	_	13	compound	_	O
+13	Goals	goal	NNS	pos2=VBZ	6	npadvmod	_	O
+14	2016/17	0	CD	_	15	nmod	_	U-CARDINAL
+15	Skills	skill	NNS	pos2=NNPS	13	conj	_	B-ORG
+16	&	&	CC	_	15	cc	_	I-ORG
+17	Goals	goal	NNS	_	15	conj	_	L-ORG
+18	|	|	SYM	pos2=NFP	15	cc	_	O
+19	HD	hd	NN	pos2=NNP	15	appos	_	O
+20	|	|	SYM	pos2=,	15	punct	_	O
+

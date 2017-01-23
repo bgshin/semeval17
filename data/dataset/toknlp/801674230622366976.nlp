@@ -1,0 +1,15 @@
+1	@rockmonster1232	@rockmonster0	NN	pos2=NNS	2	compound	_	O
+2	@DavidDJJames	@daviddjjames	NNS	pos2=ADD	6	vocative	_	O
+3	@utahjazz	@utahjazz	UH	pos2=XX	2	discourse	_	O
+4	@BYUbasketball	@byubasketball	UH	pos2=MD	6	discourse	_	O
+5	I	I	PRP	_	6	nsubj	_	O
+6	'm	be	VBP	_	0	root	_	O
+7	sure	sure	JJ	_	6	acomp	_	O
+8	it	it	PRP	_	9	nsubj	_	O
+9	's	's	VBZ	pos2=POS	7	ccomp	_	O
+10	Coach	coach	NNP	pos2=NN	11	compound	_	B-PERSON
+11	K	k	NNP	_	13	poss	_	I-PERSON
+12	's	's	POS	_	11	case	_	L-PERSON
+13	fault	fault	NN	_	9	attr	_	O
+14	🤔	🤔	''	pos2=.	6	punct	_	O
+

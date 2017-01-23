@@ -1,0 +1,27 @@
+1	"	"	``	_	3	punct	_	O
+2	He	he	PRP	_	3	nsubj	_	O
+3	wants	want	VBZ	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	break	break	VB	_	3	xcomp	_	O
+6	up	up	RP	_	5	prt	_	O
+7	the	the	DT	_	8	det	_	O
+8	country	country	NN	_	11	poss	_	O
+9	’s	's	POS	_	8	case	_	O
+10	biggest	big	JJS	_	11	nmod	_	O
+11	companies	company	NNS	_	5	dobj	_	O
+12	,	,	,	_	5	punct	_	O
+13	meet	meet	VB	pos2=VBP	5	conj	_	O
+14	with	with	IN	_	13	prep	_	O
+15	Nort	nort	JJ	pos2=NNP	17	nmod	_	O
+16	Korean	korean	JJ	_	17	nmod	_	O
+17	leader	leader	NN	_	20	compound	_	O
+18	Kim	kim	NNP	_	20	compound	_	O
+19	Jong	jong	NNP	_	20	compound	_	O
+20	Un	un	NNP	_	14	pobj	_	O
+21	&	&	CC	_	13	cc	_	O
+22	throw	throw	VB	pos2=NN	13	conj	_	O
+23	President	president	NNP	pos2=NN	26	nmod	_	O
+24	P	p	GW	pos2=NN	26	nmod	_	B-PERSON
+25	…	…	NFP	pos2=GW	26	punct	_	L-PERSON
+26	https://t.co/VFHwxAsJpE	#hlink#	ADD	pos2=NN	22	dobj	_	O
+

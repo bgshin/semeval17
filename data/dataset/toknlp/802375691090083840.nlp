@@ -1,0 +1,26 @@
+1	@SarahT_in_Prov	@saraht_in_prov	ADD	pos2=XX	2	det	_	O
+2	@BroderickGreer	@broderickgreer	NN	pos2=ADD	0	root	_	O
+3	and	and	CC	_	2	cc	_	O
+4	we	we	PRP	_	7	nsubj	_	O
+5	've	have	VBP	_	7	aux	_	O
+6	never	never	RB	_	7	neg	_	O
+7	crossed	cross	VBN	_	2	conj	_	O
+8	paths	path	NNS	_	7	dobj	_	O
+9	or	or	CC	_	8	cc	_	O
+10	tweets	tweet	NNS	_	8	conj	_	O
+11	before	before	RB	pos2=IN	7	advmod	_	O
+12	but	but	CC	_	7	cc	_	O
+13	now	now	RB	_	16	advmod	_	O
+14	we	we	PRP	_	16	nsubj	_	O
+15	never	never	RB	_	16	neg	_	O
+16	will	will	MD	pos2=VBP	7	conj	_	O
+17	.	.	.	_	16	punct	_	O
+
+1	Blocked	block	VBN	pos2=VBD	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	Go	go	VB	_	0	root	_	O
+2	fuck	fuck	VB	pos2=NN	1	advcl	_	O
+3	Steve	steve	NNP	_	4	compound	_	B-PERSON
+4	Bannon	bannon	NNP	_	2	dobj	_	L-PERSON
+

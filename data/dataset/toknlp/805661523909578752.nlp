@@ -1,0 +1,24 @@
+1	@ShoebridgeMLC	@shoebridgemlc	XX	pos2=NNS	4	dep	_	O
+2	he	he	PRP	_	4	nsubjpass	_	O
+3	got	get	VBD	_	4	auxpass	_	O
+4	kicked	kick	VBN	pos2=VBD	0	root	_	O
+5	out	out	RP	_	4	prt	_	O
+6	because	because	IN	_	8	mark	_	O
+7	he	he	PRP	_	8	nsubj	_	O
+8	tried	try	VBD	_	4	advcl	_	O
+9	to	to	TO	pos2=IN	10	aux	_	O
+10	present	present	VB	pos2=JJ	8	xcomp	_	O
+11	half	half	PDT	pos2=NN	13	predet	_	U-CARDINAL
+12	the	the	DT	_	13	det	_	O
+13	argument	argument	NN	_	10	dobj	_	O
+14	,	,	,	_	15	punct	_	O
+15	something	something	NN	_	13	appos	_	O
+16	the	the	DT	pos2=JJ	17	det	_	O
+17	greens	green	NNS	_	22	nsubj	_	O
+18	and	and	CC	_	17	cc	_	O
+19	gun	gun	NN	_	20	compound	_	O
+20	control	control	NN	pos2=VBP	17	conj	_	O
+21	Australia	australia	NNP	_	20	appos	_	U-GPE
+22	specialise	specialise	VB	pos2=VBP	15	relcl	_	O
+23	in	in	IN	pos2=RP	22	prep	_	O
+

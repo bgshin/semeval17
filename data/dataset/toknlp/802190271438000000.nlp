@@ -1,0 +1,22 @@
+1	@verynetwork	@verynetwork	UH	pos2=XX	8	discourse	_	O
+2	ohh	ohh	UH	_	8	discourse	_	O
+3	yes	yes	UH	_	8	discourse	_	O
+4	please	please	UH	_	8	discourse	_	O
+5	my	my	PRP$	_	6	poss	_	O
+6	faughyer	faughyer	NN	pos2=NNS	8	nsubj	_	O
+7	would	would	MD	_	8	aux	_	O
+8	love	love	VB	_	0	root	_	O
+9	one	#crd#	CD	_	8	dobj	_	U-CARDINAL
+10	of	of	IN	_	9	prep	_	O
+11	these	these	DT	_	10	pobj	_	O
+12	i	I	PRP	_	15	nsubj	_	O
+13	ca	can	MD	_	15	aux	_	O
+14	nt	nt	RB	_	15	advmod	_	O
+15	get	get	VB	_	8	conj	_	O
+16	one	#crd#	CD	pos2=PRP	21	nmod	_	U-CARDINAL
+17	anywhere	anywhere	RB	_	18	advmod	_	O
+18	😔	😔	VBN	pos2=HYPH	19	nmod	_	O
+19	#Win	#win	NNP	pos2=ADD	21	nmod	_	O
+20	#blackfriday	#blackfriday	UH	pos2=FW	21	discourse	_	O
+21	#Hatchimals	#hatchimals	NNS	pos2=.	15	dobj	_	O
+

@@ -1,0 +1,25 @@
+1	Sadly	sadly	RB	pos2=JJ	3	advmod	_	O
+2	immigration	immigration	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	real	real	JJ	_	6	nmod	_	O
+6	fear	fear	NN	_	3	attr	_	O
+7	for	for	IN	_	6	prep	_	O
+8	many	many	JJ	_	9	nmod	_	O
+9	people	people	NNS	_	7	pobj	_	O
+10	that	that	WDT	_	13	nsubj	_	O
+11	do	do	VBP	_	13	aux	_	O
+12	n't	not	RB	_	13	neg	_	O
+13	want	want	VB	_	9	relcl	_	O
+14	to	to	TO	_	15	aux	_	O
+15	be	be	VB	_	13	xcomp	_	O
+16	be	be	VB	pos2=VBN	11	dep	_	O
+17	here	here	RB	_	16	advmod	_	O
+18	illegally	illegally	RB	_	16	advmod	_	O
+19	but	but	CC	pos2=IN	3	cc	_	O
+20	their	their	PRP$	_	21	poss	_	O
+21	conditions	condition	NNS	_	22	nsubj	_	O
+22	leave	leave	VBP	pos2=VB	3	conj	_	O
+23	…	…	NFP	pos2=-LRB-	22	punct	_	O
+24	https://t.co/8TFbEgLlAD	#hlink#	ADD	_	22	dobj	_	U-GPE
+

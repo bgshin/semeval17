@@ -1,0 +1,20 @@
+1	More	more	RBR	pos2=JJR	2	advmod	_	O
+2	Fantastic	fantastic	JJ	_	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	#IMAX	#imax	NNP	pos2=NN	3	pobj	_	U-GPE
+5	!	!	.	_	2	punct	_	O
+
+1	Do	do	VB	pos2=VBP	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	miss	miss	VB	_	0	root	_	O
+4	#FantasticBeasts	#fantasticbeasts	NNS	pos2=XX	3	dobj	_	O
+5	at	at	IN	_	3	prep	_	O
+6	the	the	DT	_	9	det	_	B-ORG
+7	Airbus	airbus	NNP	_	9	compound	_	I-ORG
+8	#IMAX	#imax	NNP	_	9	compound	_	I-ORG
+9	Theater	theater	NNP	pos2=NN	5	pobj	_	L-ORG
+10	.	.	.	_	3	punct	_	O
+
+1	https://t.co/RhFPHZTtmc	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/HRCbufHPXy	#hlink#	ADD	_	0	root	_	U-ORG
+

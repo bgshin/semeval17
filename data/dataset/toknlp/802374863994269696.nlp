@@ -1,0 +1,22 @@
+1	Melania	melania	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Trump	trump	NNP	pos2=NN	4	nsubj	_	L-PERSON
+3	will	will	MD	_	4	aux	_	O
+4	be	be	VB	_	0	root	_	O
+5	a	a	DT	_	7	det	_	O
+6	long	long	JJ	_	7	nmod	_	O
+7	distance	distance	NN	_	4	attr	_	O
+8	FLOTUS	flotus	NNP	pos2=NN	7	appos	_	U-ORG
+9	.	.	.	_	4	punct	_	O
+
+1	Perhaps	perhaps	RB	_	8	advmod	_	O
+2	her	her	PRP$	_	3	poss	_	O
+3	inability	inability	NN	_	8	nsubj	_	O
+4	to	to	TO	_	5	aux	_	O
+5	speak	speak	VB	_	3	acl	_	O
+6	coherently	coherently	RB	_	5	advmod	_	O
+7	extemporaneously	extemporaneously	RB	_	8	advmod	_	O
+8	is	be	VBZ	_	0	root	_	O
+9	a	a	DT	_	10	det	_	O
+10	factor	factor	NN	_	8	attr	_	O
+11	.	.	.	_	8	punct	_	O
+

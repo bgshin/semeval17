@@ -1,0 +1,23 @@
+1	Saakashvili	saakashvili	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	calls	call	VBZ	pos2=NNS	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	join	join	VB	_	2	xcomp	_	O
+5	the	the	DT	_	7	det	_	O
+6	rally	rally	NN	_	7	compound	_	O
+7	ag	ag	NN	pos2=XX	4	dobj	_	O
+8	@verkhovna_rada	@verkhovna_rada	NNP	pos2=XX	7	appos	_	O
+9	on	on	IN	_	4	prep	_	O
+10	Sunday	sunday	NNP	_	9	pobj	_	U-DATE
+11	.	.	.	_	2	punct	_	O
+
+1	Joins	join	VBZ	_	0	root	_	O
+2	a	a	DT	_	4	det	_	O
+3	distinguished	distinguished	JJ	_	4	nmod	_	O
+4	company	company	NN	_	1	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Tymoshenko&Oppoblock	tymoshenko&oppoblock	NNP	_	5	pobj	_	U-ORG
+7	that	that	WDT	pos2=DT	8	det	_	O
+8	rally	rally	NN	pos2=VBP	4	relcl	_	O
+9	these	these	DT	_	10	det	_	B-DATE
+10	days	day	NNS	_	8	npadvmod	_	L-DATE
+

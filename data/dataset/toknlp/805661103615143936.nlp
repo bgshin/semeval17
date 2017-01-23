@@ -1,0 +1,26 @@
+1	with	with	IN	_	15	prep	_	O
+2	the	the	DT	_	4	det	_	B-ORG
+3	Electoral	electoral	NNP	pos2=JJ	4	compound	_	I-ORG
+4	College	college	NNP	_	6	nsubjpass	_	L-ORG
+5	being	be	VBG	_	6	auxpass	_	O
+6	decided	decide	VBN	_	1	pcomp	_	O
+7	by	by	IN	_	6	agent	_	O
+8	0.06	0	CD	_	9	nmod	_	B-PERCENT
+9	%	%	NN	_	7	pobj	_	L-PERCENT
+10	of	of	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	vote	vote	NN	_	10	pobj	_	O
+13	,	,	,	_	15	punct	_	O
+14	there	there	EX	_	15	expl	_	O
+15	's	's	VBZ	_	0	root	_	O
+16	no	no	DT	_	17	det	_	O
+17	way	way	NN	_	15	attr	_	O
+18	you	you	PRP	_	20	nsubj	_	O
+19	can	can	MD	_	20	aux	_	O
+20	trace	trace	VB	_	17	relcl	_	O
+21	it	it	PRP	_	20	dobj	_	O
+22	to	to	IN	_	20	prep	_	O
+23	any	any	DT	_	25	det	_	O
+24	one	#crd#	CD	pos2=NN	25	nmod	_	O
+25	cause	cause	NN	_	22	pobj	_	O
+

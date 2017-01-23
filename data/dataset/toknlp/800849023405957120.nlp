@@ -1,0 +1,26 @@
+1	The	the	DT	_	3	det	_	O
+2	Other	other	JJ	pos2=NNP	3	nmod	_	O
+3	Crisis	crisis	NNP	pos2=NN	18	nsubj	_	O
+4	on	on	IN	_	3	prep	_	O
+5	the	the	DT	_	9	det	_	O
+6	Mexican	mexican	JJ	pos2=NNP	9	nmod	_	U-NORP
+7	Border	border	NNP	pos2=NN	9	compound	_	O
+8	-	-	HYPH	pos2=:	9	punct	_	O
+9	Issue	issue	NN	pos2=NNP	4	pobj	_	O
+10	35	0	CD	_	9	nmod	_	U-CARDINAL
+11	:	:	:	_	18	punct	_	O
+12	Boundaries	boundary	NNS	pos2=NNP	9	appos	_	O
+13	-	-	:	pos2=HYPH	18	punct	_	O
+14	Nautilus	nautilus	NNP	pos2=GW	9	appos	_	U-PRODUCT
+15	https://t.co/Kkkj5Fn431	#hlink#	ADD	pos2=NNP	17	nmod	_	O
+16	A	a	DT	pos2=NNP	17	det	_	O
+17	wall	wall	NN	_	18	nsubj	_	O
+18	is	be	VBZ	_	0	root	_	O
+19	a	a	DT	_	21	det	_	O
+20	bad	bad	JJ	_	21	nmod	_	O
+21	idea	idea	NN	_	18	attr	_	O
+22	for	for	IN	_	21	prep	_	O
+23	animals	animal	NNS	_	22	pobj	_	O
+24	too	too	RB	_	18	advmod	_	O
+25	!	!	.	_	18	punct	_	O
+

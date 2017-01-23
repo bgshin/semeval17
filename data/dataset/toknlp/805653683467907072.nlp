@@ -1,0 +1,21 @@
+1	@Leo_Getts69	@leo_getts0	NN	pos2=LS	0	root	_	O
+2	@zesty_leftwing	@zesty_leftwing	VBG	pos2=IN	1	acl	_	O
+3	Everyone	everyone	NN	_	2	dobj	_	O
+4	with	with	IN	_	3	prep	_	O
+5	a	a	DT	_	7	det	_	O
+6	sane	sane	JJ	_	7	nmod	_	O
+7	mind	mind	NN	_	4	pobj	_	O
+8	.	.	.	_	1	punct	_	O
+
+1	Because	because	IN	_	3	mark	_	O
+2	that	that	DT	_	3	nsubj	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	where	where	WRB	_	10	pobj	_	O
+5	gerrymandering	gerrymandering	NN	_	9	nsubj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	voter	voter	NN	_	8	compound	_	O
+8	suppression	suppression	NN	_	5	conj	_	O
+9	comes	come	VBZ	_	3	ccomp	_	O
+10	from	from	IN	_	9	prep	_	O
+11	.	.	.	_	3	punct	_	O
+

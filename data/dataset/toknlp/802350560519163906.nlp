@@ -1,0 +1,14 @@
+1	People	people	NNS	_	3	nsubj	_	O
+2	are	be	VBP	_	3	aux	_	O
+3	going	go	VBG	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	protest	protest	VB	_	3	xcomp	_	O
+6	trump	trump	NN	_	5	dobj	_	O
+7	for	for	IN	_	5	prep	_	O
+8	4	0	CD	_	9	nmod	_	B-DATE
+9	years	year	NNS	_	7	pobj	_	L-DATE
+10	and	and	CC	_	3	cc	_	O
+11	will	will	MD	_	12	aux	_	O
+12	accomplish	accomplish	VB	_	3	conj	_	O
+13	nothing	nothing	NN	_	12	dobj	_	O
+

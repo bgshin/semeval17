@@ -1,0 +1,18 @@
+1	@GeorgeMcMilla15	@georgemcmilla0	NN	pos2=NNS	5	compound	_	O
+2	@SeanLTheWriter	@seanlthewriter	GW	pos2=ADD	5	nmod	_	O
+3	@fishsports	@fishsports	VBZ	pos2=UH	0	root	_	O
+4	@BSO	@bso	NN	pos2=$	5	compound	_	O
+5	@ArmandoSalguero	@armandosalguero	NN	pos2=NNP	3	dobj	_	O
+6	that	that	WDT	_	7	nsubj	_	O
+7	has	have	VBZ	_	5	relcl	_	O
+8	nothing	nothing	NN	_	7	dobj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	do	do	VB	_	8	relcl	_	O
+11	with	with	IN	_	10	prep	_	O
+12	your	your	PRP$	_	14	poss	_	O
+13	original	original	JJ	pos2=NN	14	nmod	_	O
+14	comment	comment	NN	_	11	pobj	_	O
+15	about	about	IN	_	14	prep	_	O
+16	Obama	obama	NNP	pos2=CD	17	compound	_	U-PERSON
+17	admin	admin	NN	_	15	pobj	_	O
+

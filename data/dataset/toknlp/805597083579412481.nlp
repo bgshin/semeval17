@@ -1,0 +1,10 @@
+1	Watching	watch	VBG	_	0	root	_	O
+2	#MariahsWorld	#mariahsworld	NN	pos2=XX	1	dobj	_	O
+3	learning	learn	VBG	pos2=NN	2	acl	_	O
+4	how	how	WRB	_	6	advmod	_	O
+5	to	to	TO	_	6	aux	_	O
+6	be	be	VB	_	3	xcomp	_	O
+7	the	the	DT	_	9	det	_	O
+8	most	most	RBS	_	9	advmod	_	O
+9	extra	extra	JJ	_	6	attr	_	O
+

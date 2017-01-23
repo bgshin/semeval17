@@ -1,0 +1,8 @@
+1	@mitchellvii	@mitchellvii	UH	pos2=CD	4	discourse	_	O
+2	george	george	NN	pos2=JJ	3	compound	_	O
+3	soros	soros	NNP	pos2=VBZ	4	nsubj	_	U-PERSON
+4	written	write	VBN	pos2=VBD	0	root	_	O
+5	all	all	RB	pos2=DT	6	advmod	_	O
+6	over	over	IN	pos2=RB	4	prep	_	O
+7	it	it	PRP	_	6	pobj	_	O
+

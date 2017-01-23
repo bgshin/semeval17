@@ -1,0 +1,19 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	really	really	RB	_	3	advmod	_	O
+3	like	like	VBP	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	iPad	ipad	NNP	pos2=NN	3	dobj	_	U-PRODUCT
+6	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	think	think	VBP	_	0	root	_	O
+3	that	that	DT	_	4	nsubj	_	O
+4	's	's	VBZ	_	2	ccomp	_	O
+5	pretty	pretty	RB	_	6	advmod	_	O
+6	cool	cool	JJ	_	4	acomp	_	O
+7	....	..	.	pos2=,	2	punct	_	O
+
+1	#JustinVerlander	#justinverlander	GW	pos2=XX	3	nmod	_	B-PERSON
+2	#aphorisms	#aphorisms	GW	pos2=NNS	3	nmod	_	L-PERSON
+3	https://t.co/HoqHyuISui	#hlink#	ADD	pos2=NN	0	root	_	O
+

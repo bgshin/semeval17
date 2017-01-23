@@ -1,0 +1,16 @@
+1	The	the	DT	_	3	det	_	O
+2	#Photo	#photo	NNP	_	3	compound	_	O
+3	Desk	desk	NN	pos2=NNP	15	nsubj	_	O
+4	on	on	IN	_	3	prep	_	O
+5	Flipboard	flipboard	NNP	_	9	compound	_	O
+6	-	-	HYPH	pos2=,	9	punct	_	O
+7	>	>	SYM	pos2=NNP	9	punct	_	O
+8	Fidel	fidel	NNP	_	9	compound	_	B-PERSON
+9	Castro	castro	NNP	_	4	pobj	_	L-PERSON
+10	,	,	,	_	9	punct	_	O
+11	a	a	DT	_	12	det	_	O
+12	life	life	NN	_	9	appos	_	O
+13	in	in	IN	_	12	prep	_	O
+14	pictures	picture	NNS	_	13	pobj	_	O
+15	https://t.co/RF8DHAkZc9	#hlink#	ADD	_	0	root	_	O
+

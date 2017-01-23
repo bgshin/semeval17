@@ -1,0 +1,21 @@
+1	Ca	can	MD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	wait	wait	VB	_	0	root	_	O
+4	til	til	IN	pos2=FW	3	prep	_	O
+5	@realDonaldTrump	@realdonaldtrump	NN	pos2=XX	8	nsubj	_	O
+6	starts	start	VBZ	pos2=NNS	8	aux	_	O
+7	twitter	twitter	RB	pos2=RBR	8	advmod	_	O
+8	beefing	beef	VBG	pos2=JJ	3	ccomp	_	O
+9	with	with	IN	_	8	prep	_	O
+10	Kim	kim	NNP	_	13	compound	_	B-PERSON
+11	Jong	jong	NNP	_	13	compound	_	I-PERSON
+12	-	-	HYPH	_	13	punct	_	I-PERSON
+13	un	un	NNP	_	9	pobj	_	L-PERSON
+14	from	from	IN	_	8	prep	_	O
+15	the	the	DT	_	19	det	_	O
+16	official	official	JJ	pos2=NN	19	nmod	_	O
+17	@POTUS	@potus	NNP	pos2=NN	19	compound	_	U-ORG
+18	twitter	twitter	NN	pos2=JJR	19	compound	_	O
+19	account	account	NN	_	14	pobj	_	O
+20	.	.	.	_	3	punct	_	O
+

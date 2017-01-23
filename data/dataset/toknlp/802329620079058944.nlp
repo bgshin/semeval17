@@ -1,0 +1,11 @@
+1	Trump	trump	NN	pos2=NNP	2	compound	_	O
+2	Supporters	supporter	NNS	pos2=NNPS	3	nsubj	_	O
+3	Protest	protest	VBP	pos2=VB	0	root	_	O
+4	CNN	cnn	NNP	_	3	dobj	_	U-ORG
+5	in	in	IN	_	4	prep	_	O
+6	Los	los	NNP	_	7	compound	_	B-GPE
+7	Angeles	angeles	NNP	pos2=GW	5	pobj	_	L-GPE
+8	https://t.co/eOPY6Zkj2o	#hlink#	ADD	pos2=NNP	4	appos	_	O
+9	via	via	IN	_	3	prep	_	O
+10	@YouTube	@youtube	NNP	pos2=NN	9	pobj	_	O
+

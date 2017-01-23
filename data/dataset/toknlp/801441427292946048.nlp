@@ -1,0 +1,18 @@
+1	Watch	watch	VB	_	0	root	_	O
+2	our	our	PRP$	_	3	poss	_	O
+3	#NBAwards	#nbawards	NNS	pos2=``	6	det	_	O
+4	Teen	teen	NNP	_	6	compound	_	B-ORG
+5	Press	press	NNP	pos2=NN	6	compound	_	I-ORG
+6	Conference	conference	NNP	_	1	dobj	_	L-ORG
+7	,	,	,	_	1	punct	_	O
+8	featuring	feature	VBG	_	1	advcl	_	O
+9	the	the	DT	_	11	det	_	O
+10	Young	young	NNP	_	11	compound	_	O
+11	People	people	NNPS	pos2=NNP	14	poss	_	O
+12	's	's	POS	_	11	case	_	O
+13	Literature	literature	NNP	pos2=NN	14	compound	_	O
+14	Finalists	finalist	NNPS	pos2=NNS	8	dobj	_	O
+15	.	.	.	_	1	punct	_	O
+
+1	https://t.co/tvJ5vsj9t5	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,17 @@
+1	@sircomespect	@sircomespect	UH	pos2=ADD	7	discourse	_	O
+2	@RossCrombie	@rosscrombie	UH	pos2=VB	7	discourse	_	O
+3	yes	yes	UH	_	7	discourse	_	O
+4	indeed	indeed	RB	pos2=UH	7	advmod	_	O
+5	,	,	,	_	7	punct	_	O
+6	he	he	PRP	_	7	nsubj	_	O
+7	's	's	VBZ	_	0	root	_	O
+8	hopeful	hopeful	JJ	_	7	acomp	_	O
+9	of	of	IN	_	8	prep	_	O
+10	global	global	JJ	_	12	nmod	_	O
+11	free	free	JJ	_	12	nmod	_	O
+12	trade	trade	NN	_	9	pobj	_	O
+13	and	and	CC	_	12	cc	_	O
+14	more	more	JJR	pos2=RBR	15	nmod	_	O
+15	immigration	immigration	NN	_	12	conj	_	O
+16	https://t.co/sEIhNiblXa	#hlink#	ADD	pos2=NN	7	dep	_	O
+

@@ -1,0 +1,24 @@
+1	From	from	IN	_	9	prep	_	O
+2	last	last	JJ	_	3	nmod	_	B-TIME
+3	night	night	NN	_	1	pobj	_	L-TIME
+4	:	:	:	_	9	punct	_	O
+5	George	george	NNP	_	6	compound	_	B-PERSON
+6	Hill	hill	NNP	_	8	poss	_	I-PERSON
+7	's	's	POS	_	6	case	_	L-PERSON
+8	return	return	NN	_	9	nsubj	_	O
+9	sparked	spark	VBD	_	0	root	_	O
+10	a	a	DT	_	13	det	_	O
+11	big	big	JJ	_	13	nmod	_	O
+12	offensive	offensive	JJ	pos2=NN	13	nmod	_	O
+13	night	night	NN	_	9	dobj	_	O
+14	for	for	IN	_	9	prep	_	O
+15	the	the	DT	_	16	det	_	O
+16	@UtahJazz	@utahjazz	NN	pos2=NNP	14	pobj	_	O
+17	in	in	IN	_	9	prep	_	O
+18	108-83	0	CD	_	19	nmod	_	U-CARDINAL
+19	win	win	NN	pos2=VBP	17	pobj	_	O
+20	over	over	IN	pos2=RP	19	prep	_	O
+21	@nuggets	@nuggets	NNS	pos2=GW	20	pobj	_	O
+22	…	…	NFP	pos2=-LRB-	23	punct	_	O
+23	https://t.co/jmCIKVPgnF	#hlink#	ADD	_	9	dep	_	O
+

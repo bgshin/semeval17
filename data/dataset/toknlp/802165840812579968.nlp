@@ -1,0 +1,16 @@
+1	This	this	DT	_	3	det	_	O
+2	#Hatchimals	#hatchimals	NNP	pos2=ADD	3	compound	_	O
+3	craze	craze	NN	_	5	nsubj	_	O
+4	has	have	VBZ	_	5	aux	_	O
+5	brought	bring	VBN	_	0	root	_	O
+6	out	out	RP	_	5	prt	_	O
+7	the	the	DT	_	8	det	_	O
+8	ugly	ugly	JJ	pos2=NN	5	dobj	_	O
+9	in	in	IN	_	5	prep	_	O
+10	people	people	NNS	_	9	pobj	_	O
+11	!	!	.	_	5	punct	_	O
+
+1	#crazy	#crazy	UH	pos2=XX	3	discourse	_	O
+2	#nasty	#nasty	UH	pos2=NN	3	discourse	_	O
+3	#holidaysshouldbehappy	#holidaysshouldbehappy	UH	pos2=.	0	root	_	O
+

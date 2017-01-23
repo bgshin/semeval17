@@ -1,0 +1,6 @@
+1	Leonard	leonard	NNP	_	2	compound	_	B-PERSON
+2	Cohen	cohen	NNP	_	3	nsubj	_	L-PERSON
+3	passed	pass	VBD	_	0	root	_	O
+4	away	away	RP	pos2=RB	3	prt	_	O
+5	#TheScreamingStarted	#thescreamingstarted	ADD	pos2=VBN	3	dobj	_	U-NORP
+

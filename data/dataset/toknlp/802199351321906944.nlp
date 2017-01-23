@@ -1,0 +1,17 @@
+1	Fantastic	fantastic	JJ	_	2	nmod	_	O
+2	Pokemon	pokemon	NNP	pos2=NN	16	dep	_	U-ORG
+3	and	and	CC	_	2	cc	_	O
+4	where	where	WRB	_	6	advmod	_	O
+5	to	to	TO	_	6	aux	_	O
+6	find	find	VB	_	2	relcl	_	O
+7	them	them	PRP	_	8	nsubj	_	O
+8	@jk_rowling	@jk_rowling	VBG	pos2=$	6	ccomp	_	O
+9	@ew	@ew	XX	pos2=UH	8	dep	_	O
+10	@BuzzFeed	@buzzfeed	XX	pos2=VBN	16	dep	_	O
+11	@IGN	@ign	XX	pos2=$	16	dep	_	O
+12	#Pokemon	#pokemon	XX	pos2=NNP	16	dep	_	O
+13	#FantasticBeasts	#fantasticbeasts	XX	pos2=GW	16	dep	_	O
+14	#JKRowling	#jkrowling	VBG	pos2=GW	16	nmod	_	O
+15	…	…	NFP	pos2=-LRB-	16	punct	_	O
+16	https://t.co/eDlYNWb797	#hlink#	ADD	_	0	root	_	O
+

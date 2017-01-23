@@ -1,0 +1,16 @@
+1	#SteveBannon	#stevebannon	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	is	be	VBZ	_	0	root	_	O
+3	the	the	DT	_	8	det	_	O
+4	Racist	racist	NNP	pos2=JJ	15	nmod	_	O
+5	Far	far	RB	pos2=NNP	7	advmod	_	O
+6	-	-	HYPH	pos2=:	7	punct	_	O
+7	Right	right	JJ	pos2=NNP	8	nmod	_	O
+8	Internet	internet	NN	pos2=NNP	9	nsubj	_	O
+9	Personified	personify	VBN	pos2=NNP	13	ccomp	_	O
+10	—	-	,	pos2=HYPH	2	punct	_	O
+11	and	and	CC	_	2	cc	_	O
+12	He	he	PRP	pos2=NNP	15	nmod	_	O
+13	Ha	ha	UH	pos2=NNP	15	discourse	_	O
+14	…	…	NFP	pos2=-LRB-	13	discourse	_	O
+15	https://t.co/mGjZvetk5D	#hlink#	ADD	_	11	oprd	_	O
+

@@ -1,0 +1,23 @@
+1	@elonmusk	@elonmusk	XX	pos2=NN	12	dep	_	O
+2	yo	yo	NN	pos2=UH	1	nsubj	_	O
+3	,	,	,	_	2	punct	_	O
+4	writing	write	VBG	_	2	conj	_	O
+5	a	a	DT	_	6	det	_	O
+6	paper	paper	NN	_	4	dobj	_	O
+7	on	on	IN	_	6	prep	_	O
+8	automation	automation	NN	_	7	pobj	_	O
+9	,	,	,	_	12	punct	_	O
+10	can	can	MD	_	12	aux	_	O
+11	you	you	PRP	_	12	nsubj	_	O
+12	send	send	VB	_	0	root	_	O
+13	me	me	PRP	_	12	dative	_	O
+14	stats	stat	NNS	_	12	dobj	_	O
+15	on	on	IN	pos2=RP	14	prep	_	O
+16	accidents	accident	NNS	_	15	pobj	_	O
+17	in	in	IN	_	16	prep	_	O
+18	self	self	NN	_	19	npadvmod	_	O
+19	driving	drive	VBG	pos2=NN	17	pcomp	_	O
+20	cars	car	NNS	_	19	dobj	_	O
+21	thx	thx	NN	pos2=XX	22	compound	_	O
+22	bb	bb	NN	pos2=FW	17	pobj	_	O
+

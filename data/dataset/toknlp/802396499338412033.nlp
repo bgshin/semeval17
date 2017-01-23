@@ -1,0 +1,11 @@
+1	3	0	CD	_	2	nmod	_	U-CARDINAL
+2	d	d	NNS	pos2=NN	4	compound	_	O
+3	-	-	HYPH	pos2=:	4	punct	_	O
+4	printing	printing	NN	pos2=VBG	10	dep	_	O
+5	Curiosity	curiosity	NN	pos2=NNP	10	dep	_	O
+6	rover	rover	NN	pos2=IN	7	compound	_	O
+7	wheels	wheel	NNS	pos2=GW	10	dep	_	O
+8	-	-	:	pos2=,	10	punct	_	O
+9	https://t.co/t5M6hiAenO	#hlink#	ADD	pos2=NN	10	nmod	_	O
+10	https://t.co/HmdWyX2bp0	#hlink#	ADD	_	0	root	_	U-ORG
+

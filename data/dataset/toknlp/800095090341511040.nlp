@@ -1,0 +1,17 @@
+1	The	the	DT	_	4	det	_	O
+2	10	0	CD	pos2=NNP	4	nmod	_	U-CARDINAL
+3	Best	good	JJS	pos2=NNP	4	nmod	_	O
+4	Quotes	quote	NNS	pos2=NNPS	16	nsubj	_	O
+5	at	at	IN	_	4	prep	_	O
+6	the	the	DT	_	10	det	_	O
+7	National	national	NNP	_	10	compound	_	O
+8	Book	book	NNP	_	10	compound	_	O
+9	Award	award	NNP	_	10	compound	_	O
+10	Ceremony	ceremony	NNP	pos2=NN	5	pobj	_	O
+11	-	-	:	pos2=HYPH	16	punct	_	O
+12	https://t.co/W0aF2IjTW6	#hlink#	ADD	_	16	nmod	_	O
+13	#NBAwards	#nbawards	NNS	pos2=VBZ	16	dep	_	O
+14	via	via	IN	_	13	prep	_	O
+15	@KarinaYanGlaser	@karinayanglaser	NNP	pos2=NN	14	pobj	_	O
+16	@BookRiot	@bookriot	ADD	pos2=NN	0	root	_	O
+

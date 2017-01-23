@@ -1,0 +1,15 @@
+1	Kate	kate	NNP	_	2	compound	_	B-PERSON
+2	Upton	upton	NNP	_	4	nsubj	_	L-PERSON
+3	not	not	RB	_	4	neg	_	O
+4	backing	back	VBG	_	0	root	_	O
+5	off	off	RP	_	4	prt	_	O
+6	on	on	IN	_	4	prep	_	O
+7	Cy	cy	NNP	pos2=PRP$	8	compound	_	O
+8	Young	young	NNP	pos2=JJ	9	compound	_	O
+9	talk	talk	NN	pos2=VB	6	pobj	_	O
+10	(	(	-LRB-	_	12	punct	_	O
+11	Yahoo	yahoo	NNP	_	12	compound	_	B-ORG
+12	Sports	sport	NNPS	pos2=NNS	9	appos	_	L-ORG
+13	)	)	-RRB-	pos2=GW	12	punct	_	O
+14	https://t.co/VGcTHgGpDM	#hlink#	ADD	_	4	dobj	_	O
+

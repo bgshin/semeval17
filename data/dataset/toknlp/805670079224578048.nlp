@@ -1,0 +1,20 @@
+1	#WhereIsBana	#whereisbana	NN	pos2=NNS	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Twitter	twitter	NNP	_	4	compound	_	U-ORG
+4	account	account	NN	_	13	nsubj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	7	0	CD	_	8	nmod	_	B-DATE
+7	-	-	HYPH	_	8	punct	_	I-DATE
+8	year	year	NN	_	10	npadvmod	_	I-DATE
+9	-	-	HYPH	_	10	punct	_	I-DATE
+10	old	old	JJ	_	12	nmod	_	L-DATE
+11	Syrian	syrian	JJ	_	12	nmod	_	U-NORP
+12	girl	girl	NN	_	5	pobj	_	O
+13	disappears	disappear	VBZ	_	0	root	_	O
+14	#Syria	#syria	NNP	pos2=IN	17	nmod	_	O
+15	#StandWithAleppo	#standwithaleppo	GW	pos2=XX	17	nmod	_	O
+16	#Aleppo	#aleppo	GW	pos2=ADD	17	nmod	_	O
+17	https://t.co/c9NiqTSRfO	#hlink#	ADD	pos2=NN	12	appos	_	O
+18	via	via	IN	_	13	prep	_	O
+19	@nbcnews	@nbcnews	UH	pos2=.	18	pobj	_	O
+

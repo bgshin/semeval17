@@ -1,0 +1,40 @@
+1	@JMcDonald_SAEN	@jmcdonald_saen	NN	pos2=ADD	0	root	_	O
+2	yep	yep	UH	_	1	discourse	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	Plus	plus	CC	_	3	cc	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	11	ccomp	_	O
+4	funny	funny	JJ	_	3	acomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	say	say	VB	_	3	xcomp	_	O
+7	,	,	,	_	11	punct	_	O
+8	"	"	''	pos2=``	11	punct	_	O
+9	Tim	tim	NNP	_	10	compound	_	B-PERSON
+10	Duncan	duncan	NNP	_	11	nsubj	_	L-PERSON
+11	did	do	VBD	_	0	root	_	O
+12	it	it	PRP	_	11	dobj	_	O
+13	,	,	,	_	11	punct	_	O
+14	c'mon	c'mon	NNP	pos2=FW	15	compound	_	B-PERSON
+15	Kawhi	kawhi	NNP	_	11	vocative	_	L-PERSON
+16	.	.	.	_	11	punct	_	O
+17	"	"	''	_	11	punct	_	O
+
+1	That	that	DT	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	akin	akin	JJ	pos2=VBN	2	acomp	_	O
+4	to	to	TO	pos2=IN	6	aux	_	O
+5	"	"	``	_	6	punct	_	O
+6	Go	go	VB	_	2	xcomp	_	O
+7	be	be	VB	_	6	dep	_	O
+8	one	#crd#	CD	_	7	attr	_	U-CARDINAL
+9	of	of	IN	_	8	prep	_	O
+10	the	the	DT	_	13	det	_	O
+11	10	0	CD	_	13	nmod	_	U-CARDINAL
+12	best	good	JJS	_	13	nmod	_	O
+13	players	player	NNS	_	9	pobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	all	all	DT	_	16	det	_	O
+16	time	time	NN	_	14	pobj	_	O
+17	"	"	''	pos2=``	6	punct	_	O
+

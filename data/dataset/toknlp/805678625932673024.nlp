@@ -1,0 +1,28 @@
+1	Why	why	WRB	_	2	advmod	_	O
+2	are	be	VBP	_	0	root	_	O
+3	some	some	DT	_	4	det	_	O
+4	vaccines	vaccine	NNS	_	2	nsubj	_	O
+5	optional	optional	JJ	_	2	acomp	_	O
+6	?	?	.	_	2	punct	_	O
+
+1	What	what	WP	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	be	be	VB	_	0	root	_	O
+4	the	the	DT	_	7	det	_	O
+5	ill	ill	JJ	_	7	nmod	_	O
+6	-	-	HYPH	_	7	punct	_	O
+7	effects	effect	NNS	_	3	attr	_	O
+8	if	if	IN	_	12	mark	_	O
+9	I	I	PRP	_	12	nsubj	_	O
+10	do	do	VBP	_	12	aux	_	O
+11	n't	not	RB	_	12	neg	_	O
+12	get	get	VB	_	3	advcl	_	O
+13	my	my	PRP$	_	14	poss	_	O
+14	child	child	NN	_	15	nsubj	_	O
+15	immunised	immunise	VBN	_	12	ccomp	_	O
+16	with	with	IN	_	15	prep	_	O
+17	optional	optional	JJ	_	18	nmod	_	O
+18	vaccine	vaccine	NN	_	16	pobj	_	O
+19	…	…	NFP	pos2=,	20	punct	_	O
+20	https://t.co/BO6XRsCbQx	#hlink#	ADD	_	18	appos	_	O
+

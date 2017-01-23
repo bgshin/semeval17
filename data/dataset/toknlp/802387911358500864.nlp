@@ -1,0 +1,23 @@
+1	Bob	bob	NNP	_	2	compound	_	B-PERSON
+2	Dylan	dylan	NNP	_	3	nsubj	_	L-PERSON
+3	sings	sing	VBZ	_	0	root	_	O
+4	his	his	PRP$	_	5	poss	_	O
+5	3rd	#ord#	NN	pos2=JJ	7	nsubj	_	U-ORDINAL
+6	highest	high	RBS	pos2=JJS	7	advmod	_	O
+7	charting	chart	VBG	_	3	ccomp	_	O
+8	single	single	JJ	pos2=NN	22	nmod	_	O
+9	,	,	,	_	22	punct	_	O
+10	Lay	lay	NNP	pos2=VB	12	compound	_	B-WORK_OF_ART
+11	Lady	lady	NNP	_	12	compound	_	I-WORK_OF_ART
+12	Lay	lay	NNP	pos2=VBD	22	dep	_	I-WORK_OF_ART
+13	live	live	RB	pos2=VBP	12	advmod	_	I-WORK_OF_ART
+14	on	on	IN	_	12	prep	_	I-WORK_OF_ART
+15	the	the	DT	_	18	det	_	I-WORK_OF_ART
+16	Rolling	rolling	NNP	pos2=VBG	18	compound	_	I-WORK_OF_ART
+17	Thunder	thunder	NNP	_	18	compound	_	I-WORK_OF_ART
+18	Tour	tour	NNP	_	14	pobj	_	L-WORK_OF_ART
+19	in	in	IN	_	12	prep	_	O
+20	1975	0	CD	_	19	pobj	_	U-DATE
+21	-	-	:	pos2=HYPH	22	punct	_	O
+22	https://t.co/QxfsGkihfY	#hlink#	ADD	pos2=NN	3	dep	_	O
+

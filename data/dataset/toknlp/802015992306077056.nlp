@@ -1,0 +1,19 @@
+1	@streetsdiscipIe	@streetsdiscipie	NNP	pos2=NN	2	compound	_	B-PERSON
+2	@HoopingHeaven	@hoopingheaven	NNP	pos2=ADD	4	vocative	_	L-PERSON
+3	@utahjazz	@utahjazz	UH	pos2=XX	4	discourse	_	O
+4	@AFCU	@afcu	NNP	pos2=NN	10	nsubjpass	_	U-PERSON
+5	@vine	@vine	IN	pos2=UH	4	prep	_	O
+6	This	this	DT	_	7	det	_	O
+7	nigga	nigga	NN	_	5	pobj	_	O
+8	HoopingHeaven	hoopingheaven	NNP	_	10	nsubjpass	_	U-ORG
+9	is	be	VBZ	_	10	auxpass	_	O
+10	known	know	VBN	_	0	root	_	O
+11	as	as	IN	_	10	prep	_	O
+12	the	the	DT	_	15	det	_	O
+13	worst	bad	JJS	_	15	nmod	_	O
+14	basketball	basketball	NN	_	15	compound	_	O
+15	page	page	NN	_	11	pobj	_	O
+16	I	I	PRP	_	17	nsubj	_	O
+17	wonder	wonder	VBP	_	10	conj	_	O
+18	why	why	WRB	_	17	advmod	_	O
+

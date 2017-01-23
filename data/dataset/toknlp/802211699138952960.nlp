@@ -1,0 +1,16 @@
+1	Japan	japan	NNP	_	4	nmod	_	U-GPE
+2	and	and	CC	_	1	cc	_	O
+3	Russia	russia	NNP	_	1	conj	_	U-GPE
+4	tensions	tension	NNS	_	5	nsubj	_	O
+5	set	set	VBN	pos2=VBD	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	IMPLODE	implode	VB	_	5	xcomp	_	O
+8	as	as	IN	_	10	mark	_	O
+9	Putin	putin	NNP	_	10	nsubj	_	U-PERSON
+10	deploys	deploy	VBZ	_	7	advcl	_	O
+11	missiles	missile	NNS	_	10	dobj	_	O
+12	on	on	IN	_	10	prep	_	O
+13	Japanese	japanese	JJ	_	14	nmod	_	U-NORP
+14	islands	island	NNS	_	12	pobj	_	O
+15	https://t.co/HY4hlnzd4U	#hlink#	ADD	_	14	appos	_	O
+

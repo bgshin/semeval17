@@ -1,0 +1,16 @@
+1	Alfis	alfis	NNP	pos2=GW	2	compound	_	B-PERSON
+2	Analisa	analisa	NNP	_	5	vocative	_	L-PERSON
+3	>>	>>	-RRB-	pos2=HYPH	2	punct	_	O
+4	Australian	australian	JJ	pos2=NNP	5	nmod	_	U-NORP
+5	Dollar	dollar	NN	pos2=NNP	15	dep	_	O
+6	at	at	IN	_	5	prep	_	O
+7	Risk	risk	NN	pos2=NNP	6	pobj	_	O
+8	on	on	IN	_	7	prep	_	O
+9	US	us	NNP	_	10	compound	_	B-ORG
+10	Data	data	NNP	pos2=NNS	8	pobj	_	L-ORG
+11	,	,	,	_	15	punct	_	O
+12	Trump	trump	NNP	_	13	compound	_	B-ORG
+13	Cabinet	cabinet	NNP	_	14	compound	_	L-ORG
+14	Appointments	appointment	NNS	pos2=NNPS	15	dep	_	O
+15	https://t.co/pQlhrl4f7M	#hlink#	ADD	_	0	root	_	O
+

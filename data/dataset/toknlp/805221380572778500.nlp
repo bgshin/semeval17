@@ -1,0 +1,30 @@
+1	@NBCNews	@nbcnews	NNP	pos2=VBZ	2	compound	_	O
+2	BHO	bho	NNP	pos2=NN	3	nsubj	_	U-ORG
+3	goes	go	VBZ	_	0	root	_	O
+4	to	to	IN	_	3	prep	_	O
+5	Cuba	cuba	NNP	_	4	pobj	_	U-GPE
+6	drops	drop	VBZ	pos2=NNS	3	advcl	_	O
+7	the	the	DT	_	8	det	_	O
+8	embargo	embargo	NN	_	6	dobj	_	O
+9	which	which	WDT	_	10	nsubj	_	O
+10	was	be	VBD	_	8	relcl	_	O
+11	at	at	RB	pos2=IN	12	advmod	_	B-DATE
+12	least	least	RBS	pos2=JJS	13	advmod	_	I-DATE
+13	50	0	CD	_	14	nmod	_	I-DATE
+14	yrs	yr	NNS	_	15	npadvmod	_	I-DATE
+15	old	old	JJ	_	10	acomp	_	L-DATE
+16	it	it	PRP	_	17	nsubj	_	O
+17	's	's	VBZ	_	3	conj	_	O
+18	ok	ok	JJ	_	17	acomp	_	O
+19	!	!	.	_	17	punct	_	O
+
+1	Trump	trump	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	recieved	recieved	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	phone	phone	NN	_	5	compound	_	O
+5	call	call	NN	_	6	compound	_	O
+6	heads	head	NNS	_	2	dobj	_	O
+7	exploded	explode	VBD	_	2	advcl	_	O
+8	WTF	wtf	NNP	pos2=NN	7	dobj	_	U-ORG
+9	?	?	.	_	2	punct	_	O
+

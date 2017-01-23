@@ -1,0 +1,21 @@
+1	A	a	DT	_	2	det	_	O
+2	tribute	tribute	NN	_	0	root	_	O
+3	by	by	IN	_	2	prep	_	O
+4	Pakistani	pakistani	JJ	_	6	nmod	_	U-NORP
+5	labour	labour	NN	pos2=NNP	6	compound	_	O
+6	activists	activist	NNS	_	3	pobj	_	O
+7	to	to	IN	_	2	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	significance	significance	NN	_	7	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	the	the	DT	_	13	det	_	B-EVENT
+12	Cuban	cuban	NNP	pos2=JJ	13	compound	_	I-EVENT
+13	Revolution	revolution	NNP	pos2=NN	10	pobj	_	L-EVENT
+14	,	,	,	_	2	punct	_	O
+15	and	and	CC	_	2	cc	_	O
+16	Fidel	fidel	NNP	_	17	compound	_	B-PERSON
+17	Castro	castro	NNP	_	2	conj	_	L-PERSON
+18	.	.	.	_	2	punct	_	O
+
+1	https://t.co/ctVagBUb1B	#hlink#	ADD	_	0	root	_	U-ORG
+

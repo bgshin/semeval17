@@ -1,0 +1,13 @@
+1	#friday	#friday	UH	pos2=FW	12	discourse	_	O
+2	#itsfriday	#itsfriday	UH	pos2=FW	12	discourse	_	O
+3	#blackfriday	#blackfriday	UH	pos2=FW	12	dep	_	O
+4	#dayafterthanksgiving	#dayafterthanksgiving	VBG	pos2=UH	12	dep	_	O
+5	hope	hope	NN	pos2=VBP	12	dep	_	O
+6	everyone	everyone	NN	_	7	nsubj	_	O
+7	has	have	VBZ	_	5	ccomp	_	O
+8	a	a	DT	_	10	det	_	O
+9	wonderful	wonderful	JJ	_	10	nmod	_	O
+10	thanksgiving	thanksgiving	NN	pos2=GW	7	dobj	_	O
+11	…	…	NFP	pos2=:	12	punct	_	O
+12	https://t.co/Vr7RCl2I19	#hlink#	ADD	_	0	root	_	O
+

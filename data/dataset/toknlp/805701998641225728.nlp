@@ -1,0 +1,9 @@
+1	#Westworld	#westworld	NN	pos2=NNP	5	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	a	a	DT	_	5	det	_	O
+4	hot	hot	JJ	_	5	nmod	_	O
+5	bowl	bowl	NN	_	0	root	_	O
+6	of	of	IN	_	5	prep	_	O
+7	meh	meh	UH	pos2=NN	6	discourse	_	O
+8	.	.	.	_	5	punct	_	O
+

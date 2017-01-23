@@ -1,0 +1,18 @@
+1	@ABC	@abc	NN	pos2=XX	2	compound	_	O
+2	@ABCPolitics	@abcpolitics	NNS	pos2=XX	3	compound	_	O
+3	@ABCWorldNews	@abcworldnews	NNS	pos2=ADD	7	vocative	_	O
+4	@ABCNetwork	@abcnetwork	TO	pos2=MD	5	aux	_	O
+5	have	have	VBP	pos2=VB	7	aux	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	seen	see	VBN	_	0	root	_	O
+8	these	these	DT	_	10	det	_	O
+9	fake	fake	JJ	_	10	nmod	_	O
+10	stories	story	NNS	_	7	dobj	_	O
+11	attributed	attribute	VBN	_	10	acl	_	O
+12	to	to	IN	_	11	prep	_	O
+13	you	you	PRP	_	12	pobj	_	O
+14	?	?	.	_	7	punct	_	O
+
+1	https://t.co/dOcYww9fWD	#hlink#	ADD	pos2=NN	0	root	_	O
+2	??	??	.	_	1	punct	_	O
+

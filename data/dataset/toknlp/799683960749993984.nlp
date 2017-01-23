@@ -1,0 +1,24 @@
+1	When	when	WRB	_	3	advmod	_	O
+2	@realDonaldTrump	@realdonaldtrump	NNP	pos2=ADD	3	nsubj	_	U-PERSON
+3	sets	set	VBZ	_	15	advcl	_	O
+4	up	up	RP	pos2=IN	3	prt	_	O
+5	his	his	PRP$	_	8	poss	_	O
+6	wall	wall	NN	_	8	nmod	_	O
+7	/	/	SYM	pos2=,	8	punct	_	O
+8	fence	fence	NN	_	3	dobj	_	O
+9	on	on	IN	_	3	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	Mexican	mexican	JJ	pos2=NNP	12	nmod	_	U-NORP
+12	border	border	NN	_	9	pobj	_	O
+13	,	,	,	_	15	punct	_	O
+14	I	I	PRP	_	15	nsubj	_	O
+15	hope	hope	VBP	_	0	root	_	O
+16	he	he	PRP	_	18	nsubj	_	O
+17	’s	's	VBZ	_	18	aux	_	O
+18	going	go	VBG	_	15	ccomp	_	O
+19	to	to	TO	_	20	aux	_	O
+20	include	include	VB	_	18	xcomp	_	O
+21	hedgehog	hedgehog	NN	pos2=JJ	22	compound	_	O
+22	highways	highway	NNS	_	20	dobj	_	O
+23	.	.	.	_	15	punct	_	O
+

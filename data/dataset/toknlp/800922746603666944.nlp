@@ -1,0 +1,18 @@
+1	OMG	omg	NN	pos2=NNP	2	nsubj	_	O
+2	3	0	CD	_	0	root	_	U-CARDINAL
+3	out	out	IN	_	2	prep	_	O
+4	of	of	IN	_	3	prep	_	O
+5	@jimmyfallon	@jimmyfallon	NNP	pos2=NN	7	poss	_	U-ORG
+6	's	's	POS	_	5	case	_	O
+7	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNS	4	pobj	_	O
+8	will	will	MD	_	9	aux	_	O
+9	be	be	VB	_	0	root	_	O
+10	on	on	IN	_	9	prep	_	O
+11	@FallonTonight	@fallontonight	NN	pos2=NNP	10	pobj	_	O
+12	!!!	!!	.	_	9	punct	_	O
+
+1	#Hyperventilating	#hyperventilating	VBG	pos2=NNP	0	root	_	O
+2	😃😃😃🙃🙃🙃	😃😃😃🙃🙃🙃	NFP	pos2=NN	3	nmod	_	O
+3	@GilmoreGirls	@gilmoregirls	NNS	pos2=GW	1	dobj	_	O
+4	@netflix	@netflix	UH	pos2=ADD	1	discourse	_	O
+

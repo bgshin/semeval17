@@ -1,0 +1,15 @@
+1	Odd	odd	JJ	pos2=UH	0	root	_	O
+2	....	..	.	pos2=:	1	punct	_	O
+
+1	white	white	JJ	_	2	nmod	_	O
+2	supremacists	supremacist	NNS	_	0	root	_	O
+3	fighting	fight	VBG	pos2=NN	2	acl	_	O
+4	for	for	IN	_	3	prep	_	O
+5	deals	deal	NNS	_	4	pobj	_	O
+6	on	on	IN	_	5	prep	_	O
+7	Black	black	NNP	_	8	compound	_	B-PERSON
+8	Friday	friday	NNP	_	6	pobj	_	L-PERSON
+9	....	..	.	pos2=,	2	punct	_	O
+
+1	hmmm	hmmm	UH	_	0	root	_	O
+

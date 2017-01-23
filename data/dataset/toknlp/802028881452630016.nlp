@@ -1,0 +1,16 @@
+1	it	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	12:58	0	CD	_	4	nmod	_	B-TIME
+4	AM	am	NN	pos2=NNP	2	attr	_	L-TIME
+5	and	and	CC	_	2	cc	_	O
+6	I	I	PRP	_	7	nsubj	_	O
+7	'm	be	VBP	_	2	conj	_	O
+8	drunk	drunk	JJ	_	7	acomp	_	O
+9	watching	watch	VBG	_	7	advcl	_	O
+10	David	david	NNP	_	11	compound	_	B-PERSON
+11	Blaine	blaine	NNP	_	13	poss	_	I-PERSON
+12	's	's	POS	_	11	case	_	L-PERSON
+13	magic	magic	NN	pos2=JJ	14	compound	_	O
+14	special	special	JJ	pos2=NN	9	ccomp	_	O
+15	.	.	.	_	7	punct	_	O
+

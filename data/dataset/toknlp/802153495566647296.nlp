@@ -1,0 +1,28 @@
+1	@UKLabour	@uklabour	XX	pos2=NNP	6	dep	_	O
+2	@jeremycorbyn	@jeremycorbyn	IN	pos2=UH	0	root	_	O
+3	One	#crd#	CD	pos2=NNP	4	nmod	_	O
+4	day	day	NN	_	6	compound	_	O
+5	General	general	NNP	pos2=JJ	6	compound	_	O
+6	strike	strike	NN	pos2=VB	2	pobj	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	No	no	DT	pos2=RB	2	neg	_	O
+2	more	more	RBR	pos2=RB	3	advmod	_	O
+3	talking	talk	VBG	pos2=JJ	0	root	_	O
+4	to	to	IN	_	3	prep	_	O
+5	the	the	DT	_	8	det	_	O
+6	CBI	cbi	NNP	pos2=NN	8	compound	_	U-ORG
+7	class	class	NN	_	8	compound	_	O
+8	enemy	enemy	NN	_	4	pobj	_	O
+9	Jeremy	jeremy	NNP	_	8	appos	_	U-PERSON
+10	.	.	.	_	3	punct	_	O
+
+1	Get	get	VB	_	0	root	_	O
+2	rid	rid	VBN	pos2=JJ	1	xcomp	_	O
+3	of	of	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	rightists	rightist	NNS	_	3	pobj	_	O
+6	in	in	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	PLP.	plp.	NNP	pos2=NN	6	pobj	_	O
+

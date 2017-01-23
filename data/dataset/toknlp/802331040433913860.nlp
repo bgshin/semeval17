@@ -1,0 +1,16 @@
+1	In	in	IN	_	15	prep	_	O
+2	China	china	NNP	_	1	pobj	_	U-GPE
+3	,	,	,	_	15	punct	_	O
+4	#Obama	#obama	NNP	pos2=NN	15	nmod	_	U-GPE
+5	and	and	CC	_	4	cc	_	O
+6	Kim	kim	NNP	_	10	compound	_	B-PERSON
+7	Jong	jong	NNP	_	10	compound	_	L-PERSON
+8	Un	un	NNP	_	10	compound	_	O
+9	Are	are	NNP	pos2=VBP	10	compound	_	O
+10	Actors	actor	NNPS	pos2=NNS	4	conj	_	O
+11	and	and	CC	_	10	cc	_	O
+12	Best	good	JJS	pos2=NNP	15	nmod	_	O
+13	Fri	fri	GW	pos2=NNP	15	nmod	_	O
+14	endshttps://t.co/VisWZ3HHrV	#hlink#	ADD	_	15	nmod	_	O
+15	https://t.co/02PFKxLAKa	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,22 @@
+1	Never	never	RB	_	2	neg	_	O
+2	expected	expect	VBD	pos2=VBN	0	root	_	O
+3	@Uber	@uber	NNP	pos2=PRP$	4	compound	_	O
+4	drivers	driver	NNS	_	6	nsubj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	make	make	VB	_	2	ccomp	_	O
+7	you	you	PRP	_	10	nsubj	_	O
+8	an	an	DT	_	10	det	_	O
+9	@NespressoUK	@nespressouk	XX	pos2=NNP	10	nmod	_	O
+10	espresso	espresso	NN	pos2=RB	6	ccomp	_	O
+11	whilst	whilst	IN	pos2=WDT	12	mark	_	O
+12	waiting	wait	VBG	_	6	advcl	_	O
+13	!	!	.	_	2	punct	_	O
+
+1	Loving	love	VBG	pos2=NNP	0	root	_	O
+2	Liverpool	liverpool	NNP	_	1	dobj	_	U-GPE
+3	and	and	CC	_	2	cc	_	O
+4	Craig	craig	NNP	_	2	conj	_	U-PERSON
+5	out	out	RP	pos2=IN	1	prt	_	O
+6	#uber	#uber	IN	pos2=PRP$	1	prep	_	O
+7	driver	driver	NN	_	6	pobj	_	O
+

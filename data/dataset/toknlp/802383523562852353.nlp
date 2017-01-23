@@ -1,0 +1,30 @@
+1	When	when	WRB	_	3	advmod	_	O
+2	Trump	trump	NNP	_	3	nsubj	_	U-PERSON
+3	said	say	VBD	_	16	advcl	_	O
+4	he	he	PRP	_	7	nsubj	_	O
+5	might	might	MD	_	7	aux	_	O
+6	not	not	RB	_	7	neg	_	O
+7	honor	honor	VB	_	3	ccomp	_	O
+8	the	the	DT	_	10	det	_	O
+9	election	election	NN	_	10	compound	_	O
+10	count	count	NN	pos2=VB	7	dobj	_	O
+11	if	if	IN	_	13	mark	_	O
+12	he	he	PRP	_	13	nsubj	_	O
+13	lost	lose	VBD	_	7	advcl	_	O
+14	,	,	,	_	16	punct	_	O
+15	Dems	dems	NNPS	pos2=NNP	16	nsubj	_	U-NORP
+16	criticized	criticize	VBD	pos2=VBN	0	root	_	O
+17	him	him	PRP	_	16	dobj	_	O
+18	.	.	.	_	16	punct	_	O
+
+1	But	but	CC	_	3	cc	_	O
+2	he	he	PRP	_	3	nsubj	_	O
+3	won	win	VBD	_	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	now	now	RB	_	6	advmod	_	O
+6	Dems	dems	NNPS	pos2=NNP	10	dep	_	U-NORP
+7	in	in	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	…	…	NFP	pos2=-LRB-	7	pobj	_	O
+10	https://t.co/lRxL1hs29d	#hlink#	ADD	_	3	dep	_	O
+

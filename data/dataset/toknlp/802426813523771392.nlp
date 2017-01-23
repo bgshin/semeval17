@@ -1,0 +1,22 @@
+1	[	[	-LRB-	_	7	punct	_	O
+2	SocJus	socjus	NNP	pos2=NN	4	nmod	_	U-ORG
+3	]	]	-RRB-	_	7	punct	_	O
+4	Conservatives	conservative	NNS	pos2=NNPS	7	nsubjpass	_	O
+5	are	be	VBP	_	7	auxpass	_	O
+6	not	not	RB	_	7	neg	_	O
+7	allowed	allow	VBN	_	0	root	_	O
+8	to	to	TO	_	9	aux	_	O
+9	be	be	VB	_	7	xcomp	_	O
+10	gay	gay	JJ	_	9	acomp	_	O
+11	.	.	.	_	7	punct	_	O
+
+1	More	more	JJR	pos2=RBR	2	nmod	_	O
+2	doublethink	doublethink	NN	pos2=JJ	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	double	double	JJ	_	5	nmod	_	O
+5	standards	standard	NNS	_	2	appos	_	O
+6	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/Ie0V3dqcx4	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/JYACdv0XrU	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,41 @@
+1	@Cato_of_Utica	@cato_of_utica	NNP	pos2=XX	5	nmod	_	B-MONEY
+2	$	$	$	_	4	qmod	_	I-MONEY
+3	15	0	CD	_	4	compound	_	I-MONEY
+4	min	min	CD	pos2=NN	5	nmod	_	L-MONEY
+5	wage	wage	NN	_	0	root	_	O
+6	?	?	.	_	5	punct	_	O
+
+1	"	"	``	_	3	punct	_	O
+2	Well	well	UH	_	0	root	_	O
+3	actually	actually	RB	_	2	advmod	_	O
+4	...	..	,	pos2=.	2	punct	_	O
+5	"	"	''	_	3	punct	_	O
+
+1	Tuition	tuition	NN	_	3	npadvmod	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	free	free	JJ	_	4	nmod	_	O
+4	college	college	NN	_	0	root	_	O
+5	?	?	.	_	4	punct	_	O
+
+1	"	"	``	_	4	punct	_	O
+2	Well	well	UH	_	4	discourse	_	O
+3	only	only	RB	_	4	advmod	_	O
+4	for	for	IN	pos2=RB	0	root	_	O
+5	...	..	.	pos2=:	4	punct	_	O
+6	"	"	''	_	4	punct	_	O
+
+1	TPP	tpp	NN	pos2=NNP	5	dep	_	O
+2	"	"	``	pos2=''	5	punct	_	O
+3	Well	well	UH	_	5	discourse	_	O
+4	we	we	PRP	_	5	nsubj	_	O
+5	have	have	VBP	pos2=VB	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	consider	consider	VB	_	5	xcomp	_	O
+8	...	..	.	pos2=,	5	punct	_	O
+9	"	"	''	_	5	punct	_	O
+
+1	S	s	NN	pos2=NNP	4	compound	_	O
+2	T	t	NN	pos2=NNP	3	compound	_	O
+3	O	o	NN	pos2=GW	4	compound	_	O
+4	P	p	NN	_	0	root	_	O
+

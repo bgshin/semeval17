@@ -1,0 +1,14 @@
+1	Why	why	WRB	_	2	advmod	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	#ThisIsUs	#thisisus	NNP	pos2=PDT	2	nsubj	_	U-PERSON
+4	a	a	DT	_	7	det	_	O
+5	big	big	JJ	_	7	nmod	_	O
+6	network	network	NN	_	7	compound	_	O
+7	hit	hit	NN	pos2=VBN	2	nsubj	_	O
+8	?	?	.	_	2	punct	_	O
+
+1	https://t.co/yiOHefoP5P	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	pos2=GW	1	prep	_	O
+3	@BostonGlobe	@bostonglobe	ADD	pos2=-LRB-	2	pobj	_	O
+4	https://t.co/d6doBwOTiZ	#hlink#	ADD	_	2	pobj	_	O
+

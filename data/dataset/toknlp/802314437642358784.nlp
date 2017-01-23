@@ -1,0 +1,30 @@
+1	@JoeFreedomLove	@joefreedomlove	ADD	pos2=SYM	4	punct	_	O
+2	@holdem00	@holdem0	NN	pos2=NNS	4	dep	_	O
+3	--	--	:	pos2=,	4	punct	_	O
+4	tell	tell	VB	pos2=VBP	0	root	_	O
+5	obama	obama	NN	pos2=CD	6	compound	_	O
+6	admin	admin	NN	pos2=JJ	4	dobj	_	O
+7	"	"	''	pos2=``	4	punct	_	O
+8	kiss	kiss	VB	pos2=VBP	4	xcomp	_	O
+9	our	our	PRP$	_	10	poss	_	O
+10	arse	arse	NN	_	8	dobj	_	O
+11	...	..	.	pos2=,	4	punct	_	O
+
+1	see	see	VB	pos2=VBP	7	advcl	_	O
+2	you	you	PRP	_	1	dobj	_	O
+3	in	in	IN	_	1	prep	_	O
+4	court	court	NN	_	3	pobj	_	O
+5	"	"	``	pos2=''	7	punct	_	O
+6	These	these	DT	_	7	nsubj	_	O
+7	are	be	VBP	_	0	root	_	O
+8	state	state	NN	_	9	compound	_	O
+9	issues	issue	NNS	_	7	attr	_	O
+10	...	..	.	pos2=,	7	punct	_	O
+
+1	55	0	CD	_	3	nmod	_	B-DATE
+2	more	more	JJR	_	3	nmod	_	I-DATE
+3	days	day	NNS	_	0	root	_	L-DATE
+4	of	of	IN	_	3	prep	_	O
+5	this	this	DT	_	6	det	_	O
+6	admin	admin	NN	_	4	pobj	_	O
+

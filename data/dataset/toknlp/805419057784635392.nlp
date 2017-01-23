@@ -1,0 +1,23 @@
+1	@auto_af	@auto_af	XX	pos2=ADD	5	nmod	_	O
+2	@OfficialSPGB	@officialspgb	XX	pos2=ADD	5	nmod	_	O
+3	@realDonaldTrump	@realdonaldtrump	XX	pos2=IN	4	aux	_	O
+4	calling	call	VBG	_	0	root	_	O
+5	Taiwan	taiwan	NNP	_	4	dobj	_	U-GPE
+6	(	(	-LRB-	_	4	punct	_	O
+7	against	against	IN	_	4	prep	_	O
+8	policy	policy	NN	_	7	pobj	_	O
+9	)	)	-RRB-	_	4	punct	_	O
+10	because	because	IN	_	8	det	_	O
+11	of	of	IN	_	10	pcomp	_	O
+12	business	business	NN	_	13	compound	_	O
+13	deal	deal	NN	_	10	pobj	_	O
+14	.	.	.	_	13	punct	_	O
+
+1	Did	do	VBD	_	2	aux	_	O
+2	bus	bus	NN	pos2=VB	0	root	_	O
+3	with	with	IN	_	2	prep	_	O
+4	Cuba	cuba	NNP	_	3	pobj	_	U-GPE
+5	during	during	IN	_	2	prep	_	O
+6	embargo	embargo	NN	pos2=NNP	5	pobj	_	O
+7	.	.	.	_	2	punct	_	O
+

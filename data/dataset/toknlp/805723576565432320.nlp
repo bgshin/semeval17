@@ -1,0 +1,23 @@
+1	"	"	``	_	4	punct	_	O
+2	We	we	PRP	_	4	nsubj	_	O
+3	have	have	VBP	_	4	aux	_	O
+4	lost	lose	VBN	_	0	root	_	O
+5	everything	everything	NN	_	4	dobj	_	O
+6	"	"	''	pos2=``	4	punct	_	O
+7	:	:	:	_	4	punct	_	O
+8	Syrians	syrian	NNPS	_	9	nsubj	_	U-NORP
+9	return	return	VBP	pos2=VB	4	dobj	_	O
+10	to	to	IN	_	9	prep	_	O
+11	ravaged	ravage	VBN	pos2=VBD	12	nmod	_	O
+12	Aleppo	aleppo	NNP	_	10	pobj	_	U-GPE
+13	,	,	,	_	9	punct	_	O
+14	@bmroue	@bmroue	IN	pos2=XX	9	prep	_	O
+15	reports	report	NNS	pos2=VBZ	14	pobj	_	O
+16	.	.	.	_	4	punct	_	O
+
+1	https://t.co/MmiMmOnPeL	#hlink#	ADD	pos2=NN	0	root	_	O
+2	by	by	IN	_	1	prep	_	O
+3	#AP	#ap	NN	pos2=NNP	2	pobj	_	O
+4	via	via	IN	pos2=FW	1	prep	_	O
+5	@c0nvey	@c0nvey	NN	pos2=CD	4	pobj	_	O
+

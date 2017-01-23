@@ -1,0 +1,12 @@
+1	Cristiano	cristiano	NNP	_	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	4	nsubj	_	L-PERSON
+3	only	only	RB	_	4	advmod	_	O
+4	has	have	VBZ	_	0	root	_	O
+5	FOUR	#crd#	CD	_	6	nmod	_	U-CARDINAL
+6	friends	friend	NNS	_	4	dobj	_	O
+7	at	at	IN	_	4	prep	_	O
+8	#RealMadrid	#realmadrid	NNP	pos2=NN	7	pobj	_	U-ORG
+9	...	..	.	pos2=,	4	punct	_	O
+
+1	https://t.co/hCfmeph3BU	#hlink#	ADD	_	0	root	_	U-ORG
+

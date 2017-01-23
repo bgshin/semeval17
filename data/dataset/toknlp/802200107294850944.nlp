@@ -1,0 +1,17 @@
+1	Electronic	electronic	JJ	_	2	nmod	_	O
+2	voting	voting	NN	_	5	dep	_	O
+3	-	-	:	pos2=HYPH	5	punct	_	O
+4	Wikipedia	wikipedia	NNP	_	5	compound	_	O
+5	Good	good	NNP	pos2=JJ	0	root	_	O
+6	to	to	IN	_	5	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	last	last	JJ	_	9	nmod	_	O
+9	word	word	NN	_	6	pobj	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	#AuditTheVote	#auditthevote	UH	pos2=ADD	5	discourse	_	O
+2	#audittheresult	#audittheresult	UH	pos2=NN	5	dep	_	O
+3	#AuditTheElections	#audittheelections	NNS	pos2=GW	5	nmod	_	O
+4	#StillWithHer	#stillwithher	ADD	pos2=GW	5	punct	_	O
+5	https://t.co/TwE5IfUfjS	#hlink#	ADD	_	0	root	_	O
+

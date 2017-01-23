@@ -1,0 +1,26 @@
+1	@janmnick1	@janmnick0	NN	pos2=LS	4	prep	_	O
+2	Here	here	RB	_	1	advmod	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	thought	think	VBD	_	0	root	_	O
+5	nursing	nursing	NN	pos2=VBG	7	nsubj	_	O
+6	was	be	VBD	_	7	aux	_	O
+7	going	go	VBG	_	4	ccomp	_	O
+8	to	to	TO	_	9	aux	_	O
+9	be	be	VB	_	7	xcomp	_	O
+10	on	on	IN	_	9	prep	_	O
+11	of	of	IN	_	10	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	professions	profession	NNS	_	11	pobj	_	O
+14	that	that	WDT	_	18	nsubjpass	_	O
+15	can	can	MD	_	18	aux	_	O
+16	not	not	RB	_	18	neg	_	O
+17	be	be	VB	_	18	auxpass	_	O
+18	replaced	replace	VBN	_	13	relcl	_	O
+19	by	by	IN	_	18	agent	_	O
+20	robots	robot	NNS	_	22	nmod	_	O
+21	/	/	SYM	pos2=,	22	punct	_	O
+22	machines	machine	NNS	_	19	pobj	_	O
+23	.	.	.	_	4	punct	_	O
+
+1	#DrNickInformsEBP	#drnickinformsebp	NN	pos2=ADD	0	root	_	O
+

@@ -1,0 +1,10 @@
+1	Hell	hell	UH	pos2=NN	3	discourse	_	O
+2	yeah	yeah	UH	_	3	discourse	_	O
+3	Steak	steak	NN	pos2=NNP	0	root	_	O
+4	n	n	POS	pos2=NN	5	advmod	_	O
+5	Shake	shake	NN	pos2=NNP	3	conj	_	O
+6	!	!	.	_	3	punct	_	O
+
+1	#NationalFastFoodDay	#nationalfastfoodday	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/vIufNx6IGL	#hlink#	ADD	_	0	root	_	O
+

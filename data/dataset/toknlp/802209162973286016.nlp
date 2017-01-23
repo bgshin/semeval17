@@ -1,0 +1,23 @@
+1	...	..	.	pos2=NFP	0	predet	_	O
+
+1	hmmm	hmmm	UH	_	2	dep	_	O
+2	...	..	.	pos2=,	0	dative	_	O
+
+1	so	so	RB	pos2=CC	4	advmod	_	O
+2	trump	trump	NN	pos2=UH	4	nsubj	_	O
+3	actually	actually	RB	_	4	advmod	_	O
+4	won	win	VBD	_	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	poular	poular	JJ	_	7	nmod	_	O
+7	vote	vote	NN	_	4	dobj	_	O
+8	..	..	.	_	4	punct	_	O
+
+1	among	among	IN	_	0	root	_	O
+2	legal	legal	JJ	_	3	nmod	_	O
+3	voters	voter	NNS	_	1	pobj	_	O
+4	....	..	.	_	1	punct	_	O
+
+1	..	..	.	pos2=NFP	0	predet	_	O
+
+1	https://t.co/0bbtLOiYfj	#hlink#	ADD	_	0	root	_	U-ORG
+

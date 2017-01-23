@@ -1,0 +1,31 @@
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=NFP	3	compound	_	O
+2	Ben	ben	NNP	_	3	compound	_	B-PERSON
+3	Carson	carson	NNP	_	9	vocative	_	I-PERSON
+4	~	~	SYM	pos2=POS	9	punct	_	L-PERSON
+5	"	"	``	pos2=''	9	punct	_	O
+6	I	I	PRP	_	9	nsubj	_	O
+7	would	would	MD	_	9	aux	_	O
+8	not	not	RB	_	9	neg	_	O
+9	advocate	advocate	VB	_	0	root	_	O
+10	that	that	IN	pos2=WDT	12	mark	_	O
+11	we	we	PRP	_	12	nsubj	_	O
+12	put	put	VBP	pos2=VBD	9	ccomp	_	O
+13	a	a	DT	_	14	det	_	O
+14	Muslim	muslim	NNP	pos2=NN	12	dobj	_	U-NORP
+15	in	in	IN	_	12	prep	_	O
+16	charge	charge	NN	_	15	pobj	_	O
+17	of	of	IN	_	16	prep	_	O
+18	this	this	DT	_	19	det	_	O
+19	nation	nation	NN	_	17	pobj	_	O
+20	.	.	.	_	9	punct	_	O
+
+1	I	I	PRP	_	5	nsubj	_	O
+2	absolutely	absolutely	RB	_	5	advmod	_	O
+3	would	would	MD	_	5	aux	_	O
+4	not	not	RB	_	5	neg	_	O
+5	agree	agree	VB	_	0	root	_	O
+6	with	with	IN	_	5	prep	_	O
+7	that	that	DT	_	6	pobj	_	O
+8	.	.	.	_	5	punct	_	O
+9	"	"	''	_	5	punct	_	O
+

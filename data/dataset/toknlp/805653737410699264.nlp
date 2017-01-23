@@ -1,0 +1,18 @@
+1	@AndreBlimey	@andreblimey	UH	pos2=ADD	2	discourse	_	O
+2	@AESTHETlCMAMI	@aesthetlcmami	NNS	pos2=UH	0	root	_	O
+3	@nicholeduhe	@nicholeduhe	UH	pos2=PRP	2	discourse	_	O
+4	@ThatEricAlper	@thatericalper	RB	pos2=NN	7	advmod	_	O
+5	not	not	RB	_	7	neg	_	O
+6	as	as	RB	_	7	advmod	_	O
+7	embarrassing	embarrassing	JJ	_	2	nmod	_	O
+8	as	as	IN	_	7	prep	_	O
+9	thinking	think	VBG	_	8	pcomp	_	O
+10	26	0	CD	_	11	nmod	_	U-CARDINAL
+11	people	people	NNS	_	9	dobj	_	O
+12	were	be	VBD	_	13	auxpass	_	O
+13	killed	kill	VBN	_	9	ccomp	_	O
+14	to	to	TO	_	15	aux	_	O
+15	promote	promote	VB	_	13	advcl	_	O
+16	gun	gun	NN	_	17	compound	_	O
+17	control	control	NN	pos2=NNS	15	dobj	_	O
+

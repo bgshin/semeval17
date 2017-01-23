@@ -1,0 +1,25 @@
+1	@HanadiZain	@hanadizain	ADD	pos2=NN	6	expl	_	U-GPE
+2	@haifa216	@haifa0	NN	pos2=CD	4	compound	_	O
+3	@Israellycool	@israellycool	NNP	pos2=LS	4	compound	_	O
+4	@Ostrov_A	@ostrov_a	NNP	pos2=ADD	6	vocative	_	O
+5	There	there	EX	_	6	expl	_	O
+6	are	be	VBP	_	0	root	_	O
+7	no	no	DT	_	9	det	_	O
+8	innocent	innocent	JJ	_	9	nmod	_	O
+9	Pals	pal	NNS	pos2=NNPS	6	attr	_	O
+10	.	.	.	_	6	punct	_	O
+
+1	They	they	PRP	_	4	nsubjpass	_	O
+2	are	be	VBP	_	4	auxpass	_	O
+3	all	all	RB	pos2=DT	4	advmod	_	O
+4	taught	teach	VBN	pos2=JJ	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	hate	hate	VB	_	4	xcomp	_	O
+7	and	and	CC	_	6	cc	_	O
+8	kill	kill	VB	_	6	conj	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	#IS	#is	NN	pos2=ADD	2	compound	_	O
+2	#Hamas	#hamas	NNS	pos2=NNP	3	compound	_	O
+3	#terrorists	#terrorists	NNS	pos2=UH	0	root	_	O
+

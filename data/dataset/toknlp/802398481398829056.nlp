@@ -1,0 +1,21 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	wonder	wonder	VBP	_	0	root	_	O
+3	how	how	WRB	_	9	advmod	_	O
+4	the	the	DT	_	5	det	_	O
+5	Venezuelans	venezuelan	NNPS	_	7	nsubj	_	U-NORP
+6	are	be	VBP	_	7	aux	_	O
+7	going	go	VBG	_	2	ccomp	_	O
+8	to	to	TO	_	9	aux	_	O
+9	celebrate	celebrate	VB	_	7	xcomp	_	O
+10	when	when	WRB	_	12	advmod	_	O
+11	Maduro	maduro	NNP	_	12	nsubj	_	U-PERSON
+12	dies	die	VBZ	_	9	advcl	_	O
+13	...	..	.	pos2=:	2	punct	_	O
+
+1	more	more	RBR	pos2=JJR	5	advmod	_	O
+2	or	or	CC	_	1	cc	_	O
+3	less	less	RBR	pos2=JJR	1	conj	_	O
+4	that	that	IN	pos2=DT	0	root	_	O
+5	cubans	cuban	NNS	pos2=NNPS	0	root	_	O
+6	?	?	.	_	1	punct	_	O
+

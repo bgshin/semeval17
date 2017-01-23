@@ -1,0 +1,18 @@
+1	Where	where	WRB	_	6	advmod	_	O
+2	the	the	DT	_	3	det	_	O
+3	Desire	desire	NNP	pos2=NN	6	nsubj	_	O
+4	&	&	CC	_	3	cc	_	O
+5	Strategy	strategy	NNP	pos2=NN	3	conj	_	O
+6	Derived	derive	VBN	pos2=VBD	0	root	_	O
+7	:	:	:	_	6	punct	_	O
+8	Steve	steve	NNP	_	9	compound	_	B-PERSON
+9	#Bannon	#bannon	NNP	_	12	poss	_	I-PERSON
+10	’s	's	POS	_	9	case	_	L-PERSON
+11	First	#ord#	NNP	pos2=JJ	12	compound	_	B-ORG
+12	Pick	pick	NNP	pos2=NN	17	dep	_	I-ORG
+13	For	for	IN	_	12	prep	_	I-ORG
+14	President	president	NNP	_	15	compound	_	L-ORG
+15	@POLITICO	@politico	NNP	pos2=GW	13	pobj	_	B-PERSON
+16	#Trump	#trump	ADD	pos2=NNP	17	dep	_	L-PERSON
+17	https://t.co/hWTH9uKwhn	#hlink#	ADD	_	6	dep	_	O
+

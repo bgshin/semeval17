@@ -1,0 +1,22 @@
+1	@BenjaminNorton	@benjaminnorton	NNP	pos2=NN	3	compound	_	O
+2	-	-	HYPH	pos2=:	3	punct	_	O
+3	@propornot	@propornot	NNP	pos2=JJ	4	compound	_	O
+4	loon	loon	NN	pos2=FW	15	nsubj	_	O
+5	listing	list	VBG	pos2=NN	4	acl	_	O
+6	@bellingcat	@bellingcat	NN	pos2=XX	5	dobj	_	O
+7	,	,	,	_	6	punct	_	O
+8	@Interpreter_Mag	@interpreter_mag	NN	pos2=NNP	6	conj	_	O
+9	&	&	CC	_	8	cc	_	O
+10	others	other	NNS	_	8	conj	_	O
+11	as	as	IN	_	5	prep	_	O
+12	"	"	``	_	13	punct	_	O
+13	allies	ally	NNS	_	11	pobj	_	O
+14	"	"	''	_	13	punct	_	O
+15	is	be	VBZ	_	0	root	_	O
+16	same	same	JJ	_	18	nmod	_	O
+17	crazy	crazy	JJ	_	18	nmod	_	O
+18	guy	guy	NN	_	15	attr	_	O
+19	operating	operate	VBG	pos2=NN	18	acl	_	O
+20	@KremlinTrolls	@kremlintrolls	NNS	pos2=IN	19	dobj	_	O
+21	1/2	0	CD	_	18	npadvmod	_	U-CARDINAL
+

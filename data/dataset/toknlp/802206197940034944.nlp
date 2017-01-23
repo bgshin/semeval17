@@ -1,0 +1,23 @@
+1	The	the	DT	_	5	det	_	O
+2	"	"	``	_	7	punct	_	O
+3	We	we	PRP	pos2=NNP	4	nsubj	_	O
+4	Created	create	VBD	pos2=VBN	0	root	_	O
+5	WhatWe	whatwe	NNP	pos2=WP	4	dobj	_	O
+6	Are	be	VBP	pos2=NNP	7	aux	_	O
+7	Fighting	fight	VBG	_	4	ccomp	_	O
+8	Right	right	RB	pos2=NNP	9	advmod	_	O
+9	Now	now	RB	_	7	advmod	_	O
+10	.	.	.	_	4	punct	_	O
+11	"	"	''	_	4	punct	_	O
+
+1	As	as	IN	pos2=RB	2	mark	_	O
+2	True	true	JJ	pos2=NNP	6	advcl	_	O
+3	for	for	IN	_	2	prep	_	O
+4	#ISISas	#isisas	NNS	pos2=ADD	3	pobj	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	for	for	IN	_	6	prep	_	O
+8	#AlQ	#alq	ADD	pos2=GW	7	pobj	_	O
+9	aedahttps://t.co/fVX9JBLI7E@brett_mcgurk	#hlink#	ADD	_	10	nsubj	_	O
+10	@BreitbartXM	@breitbartxm	ADD	pos2=-RRB-	7	pobj	_	O
+

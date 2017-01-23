@@ -1,0 +1,20 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	'm	be	VBP	_	3	aux	_	O
+3	listening	listen	VBG	_	0	root	_	O
+4	to	to	IN	pos2=TO	3	prep	_	O
+5	"	"	``	_	3	punct	_	O
+6	The	the	DT	_	7	det	_	O
+7	Learning	learning	NNP	pos2=NN	4	pobj	_	O
+8	(	(	-LRB-	_	7	punct	_	O
+9	Burn	burn	NNP	pos2=VB	7	appos	_	O
+10	)	)	-RRB-	_	7	punct	_	O
+11	"	"	''	pos2=``	7	punct	_	O
+12	by	by	IN	_	7	prep	_	O
+13	@MobbDeep	@mobbdeep	NNP	pos2=NNS	12	pobj	_	U-PERSON
+14	on	on	IN	_	7	prep	_	O
+15	@pandora_radio	@pandora_radio	NNP	pos2=XX	14	pobj	_	U-PERSON
+16	.	.	.	_	3	punct	_	O
+
+1	#pandora	#pandora	UH	pos2=-LRB-	2	discourse	_	O
+2	https://t.co/oNqbAKcUgh	#hlink#	ADD	pos2=NN	0	root	_	O
+

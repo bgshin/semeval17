@@ -1,0 +1,16 @@
+1	The	the	DT	_	5	det	_	O
+2	eternal	eternal	JJ	_	5	nmod	_	O
+3	Nazi	nazi	NNP	pos2=NN	5	compound	_	U-NORP
+4	-	-	HYPH	pos2=:	5	punct	_	O
+5	German	german	NNP	pos2=JJ	8	nsubjpass	_	O
+6	must	must	MD	pos2=NN	8	aux	_	O
+7	be	be	VB	_	8	auxpass	_	O
+8	kept	keep	VBN	_	0	root	_	O
+9	down	down	RP	pos2=RB	8	prt	_	O
+10	at	at	IN	pos2=RB	8	prep	_	O
+11	all	all	DT	pos2=RB	12	det	_	O
+12	costs	cost	NNS	_	10	pobj	_	O
+13	.	.	.	_	8	punct	_	O
+
+1	https://t.co/g0onVHKQZT	#hlink#	ADD	_	0	root	_	U-ORG
+

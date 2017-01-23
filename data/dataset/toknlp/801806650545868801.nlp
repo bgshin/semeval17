@@ -1,0 +1,17 @@
+1	#TrumpTransitionTeam	#trumptransitionteam	NNP	pos2=PRP$	2	compound	_	U-ORG
+2	Promises	promise	NNS	pos2=VBZ	3	nsubj	_	O
+3	HATE	hate	VBP	pos2=NN	0	root	_	O
+4	CRIMES	crime	NNS	pos2=NNP	3	dobj	_	O
+5	Will	will	MD	pos2=NNP	6	aux	_	O
+6	Rise	rise	VB	_	3	ccomp	_	O
+7	No	no	DT	pos2=NNP	8	det	_	O
+8	Accountability	accountability	NN	_	6	dobj	_	O
+9	for	for	IN	_	8	prep	_	O
+10	Neither	neither	CC	pos2=NNP	11	preconj	_	O
+11	Police	police	NNP	pos2=NNS	9	pobj	_	U-ORG
+12	or	or	CC	_	11	cc	_	O
+13	Nazi	nazi	NNP	_	14	compound	_	U-NORP
+14	Vigilantes	vigilante	NNPS	pos2=NNS	11	conj	_	U-NORP
+15	…	…	NFP	pos2=POS	16	punct	_	O
+16	https://t.co/Bwtmmz5Urp	#hlink#	ADD	_	11	appos	_	O
+

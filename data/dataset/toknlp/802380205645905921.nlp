@@ -1,0 +1,22 @@
+1	@dunnkath	@dunnkath	UH	pos2=XX	5	discourse	_	O
+2	@infidelbyfaith	@infidelbyfaith	UH	pos2=NN	5	discourse	_	O
+3	@HayleyKeller	@hayleykeller	DT	pos2=PRP$	0	root	_	O
+4	wrong	wrong	JJ	pos2=NN	3	root	_	O
+5	again	again	RB	_	4	advmod	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	U	u	PRP	pos2=NNP	2	nsubj	_	O
+2	suck	suck	VBP	pos2=VB	0	root	_	O
+3	at	at	IN	_	2	prep	_	O
+4	research	research	NN	pos2=NNP	3	pobj	_	O
+5	Just	just	RB	pos2=NNP	6	advmod	_	O
+6	accept	accept	VB	pos2=IN	2	conj	_	O
+7	fact	fact	NN	_	8	compound	_	O
+8	Hillary	hillary	NNP	_	9	nsubj	_	U-PERSON
+9	is	be	VBZ	_	6	ccomp	_	O
+10	a	a	DT	_	11	det	_	O
+11	crook	crook	NN	_	9	attr	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	https://t.co/mtbkEeYNKk	#hlink#	ADD	_	0	root	_	U-ORG
+

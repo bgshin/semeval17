@@ -1,0 +1,27 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	only	only	RB	_	4	advmod	_	O
+4	on	on	IN	_	2	prep	_	O
+5	Season	season	NN	pos2=NNP	4	pobj	_	O
+6	4	0	CD	_	5	nmod	_	U-CARDINAL
+7	of	of	IN	_	5	prep	_	O
+8	#TheWalkingDead	#thewalkingdead	NNP	pos2=NN	7	pobj	_	O
+9	&	&	CC	_	2	cc	_	O
+10	i	I	PRP	_	11	nsubj	_	O
+11	wish	wish	VBP	_	2	conj	_	O
+12	they	they	PRP	_	14	nsubj	_	O
+13	would	would	MD	_	14	aux	_	O
+14	kill	kill	VB	_	11	ccomp	_	O
+15	this	this	DT	_	18	det	_	O
+16	big	big	JJ	_	18	nmod	_	O
+17	black	black	JJ	_	18	nmod	_	O
+18	dude	dude	NN	_	14	dobj	_	O
+19	Ty	ty	NNP	pos2=NN	18	appos	_	U-PERSON
+20	...	..	.	pos2=,	11	punct	_	O
+
+1	He	he	PRP	_	4	nsubj	_	O
+2	too	too	RB	_	4	advmod	_	O
+3	damn	damn	RB	pos2=JJ	4	advmod	_	O
+4	sensitive	sensitive	JJ	_	0	root	_	O
+5	😂	😂	.	pos2=NN	4	punct	_	O
+

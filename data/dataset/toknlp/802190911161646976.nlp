@@ -1,0 +1,13 @@
+1	Hundreds	#crd#	NNS	_	7	nsubj	_	U-CARDINAL
+2	of	of	IN	_	1	prep	_	O
+3	Dakota	dakota	NNP	_	4	compound	_	O
+4	Access	access	NNP	_	6	compound	_	O
+5	Pipeline	pipeline	NN	pos2=NNP	6	compound	_	O
+6	protesters	protester	NNS	_	2	pobj	_	O
+7	gather	gather	VBP	pos2=VB	0	root	_	O
+8	on	on	IN	_	7	prep	_	O
+9	Thanksgiving	thanksgiving	NNP	_	8	pobj	_	U-DATE
+10	https://t.co/vkZyrZyCFh	#hlink#	ADD	pos2=NNP	8	pobj	_	O
+11	via	via	IN	_	7	prep	_	O
+12	@MailOnline	@mailonline	NN	pos2=NNP	11	pobj	_	O
+

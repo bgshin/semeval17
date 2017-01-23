@@ -1,0 +1,19 @@
+1	"	"	``	pos2=SYM	3	punct	_	O
+2	24	0	CD	pos2=LS	3	nmod	_	B-TIME
+3	Hours	hour	NNS	pos2=NNPS	0	root	_	L-TIME
+4	with	with	IN	_	3	prep	_	O
+5	the	the	DT	_	8	det	_	B-ORG
+6	#Samsung	#samsung	NNP	pos2=NN	7	compound	_	I-ORG
+7	#Galaxy	#galaxy	NNP	pos2=POS	8	compound	_	L-ORG
+8	Note	note	NN	pos2=VB	4	pobj	_	O
+9	7	0	CD	_	8	nmod	_	U-CARDINAL
+10	:	:	:	_	8	punct	_	O
+11	Oh	oh	UH	pos2=NNP	8	discourse	_	O
+12	Yeah	yeah	UH	_	11	discourse	_	O
+13	!	!	.	_	11	punct	_	O
+14	"	"	''	_	11	punct	_	O
+
+1	#android	#android	UH	pos2=FW	3	discourse	_	O
+2	#mobile	#mobile	UH	pos2=IN	3	discourse	_	O
+3	https://t.co/DXZCOwuAOb	#hlink#	ADD	pos2=UH	0	root	_	O
+

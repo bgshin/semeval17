@@ -1,0 +1,18 @@
+1	Can	can	MD	_	3	aux	_	O
+2	we	we	PRP	_	3	nsubj	_	O
+3	make	make	VB	_	0	root	_	O
+4	not	not	RB	_	5	neg	_	O
+5	shaving	shave	VBG	_	3	ccomp	_	O
+6	a	a	DT	_	7	det	_	O
+7	protest	protest	NN	_	5	dobj	_	O
+8	against	against	IN	_	7	prep	_	O
+9	trump	trump	NN	_	10	compound	_	O
+10	bc	bc	NN	pos2=WP	8	pobj	_	O
+11	I	I	PRP	_	12	nsubj	_	O
+12	'm	be	VBP	_	3	parataxis	_	O
+13	so	so	RB	_	14	advmod	_	O
+14	ahead	ahead	RB	_	12	advmod	_	O
+15	of	of	IN	_	14	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	game	game	NN	_	15	pobj	_	O
+

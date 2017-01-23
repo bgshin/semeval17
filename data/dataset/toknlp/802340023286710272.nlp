@@ -1,0 +1,9 @@
+1	Leonard	leonard	NNP	_	2	compound	_	B-PERSON
+2	Cohen	cohen	NNP	_	3	compound	_	L-PERSON
+3	albums	album	NNS	pos2=VBZ	4	nsubj	_	O
+4	sell	sell	VBP	pos2=VB	0	root	_	O
+5	fast	fast	RB	pos2=JJ	4	advmod	_	O
+6	in	in	IN	_	4	prep	_	O
+7	Montreal	montreal	NNP	_	6	pobj	_	U-GPE
+8	https://t.co/OWBVo2VXIz	#hlink#	ADD	pos2=NNP	4	dep	_	O
+

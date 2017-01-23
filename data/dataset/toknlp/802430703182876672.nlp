@@ -1,0 +1,16 @@
+1	Damn	damn	JJ	_	2	nmod	_	O
+2	liberals	liberal	NNS	_	3	nsubj	_	O
+3	hear	hear	VBP	pos2=VB	0	root	_	O
+4	KKK	kkk	NNP	_	3	dobj	_	U-ORG
+5	and	and	CC	_	3	cc	_	O
+6	immediately	immediately	RB	_	7	advmod	_	O
+7	think	think	VB	pos2=VBP	3	conj	_	O
+8	#racism	#racism	NN	pos2=XX	3	punct	_	O
+9	(	(	-LRB-	_	11	punct	_	O
+10	not	not	RB	_	11	neg	_	O
+11	#communityservice	#communityservice	RB	pos2=NN	8	parataxis	_	O
+12	)	)	-RRB-	_	11	punct	_	O
+13	.	.	.	_	3	punct	_	O
+
+1	https://t.co/ETMsOsbMVF	#hlink#	ADD	_	0	root	_	U-ORG
+

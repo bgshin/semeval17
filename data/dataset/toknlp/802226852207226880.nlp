@@ -1,0 +1,20 @@
+1	Self-driving	self-driving	JJ	pos2=VBG	2	nmod	_	O
+2	cars	car	NNS	_	4	nsubj	_	O
+3	may	may	MD	_	4	aux	_	O
+4	be	be	VB	_	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	future	future	JJ	pos2=NN	7	nmod	_	O
+7	commuter	commuter	NN	_	4	attr	_	O
+8	,	,	,	_	4	punct	_	O
+9	but	but	CC	_	4	cc	_	O
+10	what	what	WP	_	13	dobj	_	O
+11	does	do	VBZ	_	13	aux	_	O
+12	that	that	DT	_	13	nsubj	_	O
+13	mean	mean	VB	_	4	conj	_	O
+14	for	for	IN	_	13	prep	_	O
+15	#infrastructure	#infrastructure	NN	pos2=NNP	14	pobj	_	O
+16	?	?	.	_	13	punct	_	O
+
+1	https://t.co/DyYz47PFDB	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/QNkaZJmql4	#hlink#	ADD	_	0	root	_	U-ORG
+

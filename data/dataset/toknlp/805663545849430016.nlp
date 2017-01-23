@@ -1,0 +1,26 @@
+1	So	so	RB	_	4	advmod	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	'm	be	VBP	_	4	aux	_	O
+4	writing	write	VBG	_	0	root	_	O
+5	an	an	DT	_	7	det	_	O
+6	argumentative	argumentative	JJ	_	7	nmod	_	O
+7	essay	essay	NN	_	4	dobj	_	O
+8	about	about	IN	_	7	prep	_	O
+9	abortion	abortion	NN	_	8	pobj	_	O
+10	,	,	,	_	4	punct	_	O
+11	and	and	CC	_	4	cc	_	O
+12	this	this	DT	_	14	det	_	O
+13	pro-life	pro-life	JJ	_	14	nmod	_	O
+14	article	article	NN	_	15	nsubj	_	O
+15	is	be	VBZ	_	4	conj	_	O
+16	disgusting	disgusting	JJ	_	15	acomp	_	O
+17	,	,	,	_	15	punct	_	O
+18	because	because	IN	_	21	mark	_	O
+19	this	this	DT	_	20	det	_	O
+20	guy	guy	NN	_	21	nsubj	_	O
+21	says	say	VBZ	_	15	advcl	_	O
+22	that	that	IN	pos2=DT	25	mark	_	O
+23	abortion	abortion	NN	_	25	nsubj	_	O
+24	should	should	MD	_	25	aux	_	O
+25	be	be	VB	_	21	ccomp	_	O
+

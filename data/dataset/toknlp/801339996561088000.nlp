@@ -1,0 +1,25 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNS	20	nmod	_	O
+3	not	not	RB	_	4	neg	_	O
+4	including	include	VBG	_	2	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	GGs	ggs	NNS	_	4	pobj	_	O
+7	themselves	themselves	PRP	_	6	appos	_	O
+8	,	,	,	_	2	punct	_	O
+9	or	or	CC	_	2	cc	_	O
+10	any	any	DT	_	2	conj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	their	their	PRP$	_	13	poss	_	O
+13	guys	guy	NNS	_	11	pobj	_	O
+14	:	:	:	_	10	punct	_	O
+15	4	0	LS	pos2=CD	20	meta	_	U-CARDINAL
+16	)	)	-RRB-	_	15	punct	_	O
+17	Kirk	kirk	NNP	pos2=NN	20	nmod	_	U-PERSON
+18	3	0	CD	pos2=LS	17	npadvmod	_	U-CARDINAL
+19	)	)	-RRB-	_	17	punct	_	O
+20	Sookie2	sookie0	NN	pos2=-LRB-	22	nmod	_	O
+21	)	)	-RRB-	_	20	punct	_	O
+22	Jackson1	jackson0	NN	pos2=NNP	24	nmod	_	O
+23	)	)	-RRB-	_	22	punct	_	O
+24	Michel	michel	NNP	pos2=NN	0	root	_	O
+

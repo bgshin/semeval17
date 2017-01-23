@@ -1,0 +1,22 @@
+1	@Adam_Swain	@adam_swain	ADD	pos2=XX	2	det	_	O
+2	@poroshenko	@poroshenko	UH	pos2=WP	0	root	_	O
+3	Because	because	IN	_	6	mark	_	O
+4	the	the	DT	_	5	det	_	O
+5	latter	latter	NN	pos2=JJ	6	nsubj	_	O
+6	is	be	VBZ	_	2	advcl	_	O
+7	a	a	DT	_	8	det	_	O
+8	coward	coward	NN	_	6	attr	_	O
+9	,	,	,	_	8	punct	_	O
+10	a	a	DT	_	13	det	_	O
+11	very	very	RB	_	12	advmod	_	O
+12	insecure	insecure	JJ	_	14	nmod	_	O
+13	individual	individual	JJ	pos2=NN	8	appos	_	O
+14	deep	deep	RB	pos2=JJ	15	advmod	_	O
+15	inside	inside	RB	_	13	advmod	_	O
+16	,	,	,	_	18	punct	_	O
+17	who	who	WP	_	18	nsubj	_	O
+18	has	have	VBZ	_	8	relcl	_	O
+19	no	no	DT	_	20	det	_	O
+20	integrity	integrity	NN	_	18	dobj	_	O
+21	.	.	.	_	2	punct	_	O
+

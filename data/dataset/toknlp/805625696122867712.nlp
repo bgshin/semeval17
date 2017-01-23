@@ -1,0 +1,23 @@
+1	@GeorgiaLogCabin	@georgialogcabin	ADD	pos2=NN	9	nsubj	_	O
+2	@lynn_weiser	@lynn_weiser	PRP$	pos2=JJR	3	poss	_	O
+3	Signs	sign	NNS	_	1	dobj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	Nature	nature	NN	pos2=NNP	4	pobj	_	O
+6	:	:	:	_	9	punct	_	O
+7	Pope	pope	NNP	_	8	compound	_	O
+8	Francis	francis	NNP	_	9	nsubj	_	U-PERSON
+9	releases	release	VBZ	_	21	ccomp	_	O
+10	doves	dove	NNS	_	9	dobj	_	O
+11	and	and	CC	_	10	cc	_	O
+12	black	black	JJ	_	13	nmod	_	O
+13	birds	bird	NNS	_	10	conj	_	O
+14	attack	attack	VBP	_	9	advcl	_	O
+15	them	them	PRP	_	14	dobj	_	O
+16	;	;	:	pos2=,	21	punct	_	O
+17	Casto	casto	NNP	_	18	compound	_	O
+18	funeral	funeral	NN	pos2=NNP	21	nsubj	_	O
+19	and	and	CC	_	18	cc	_	O
+20	jeep	jeep	NN	pos2=VB	18	conj	_	O
+21	stops	stop	VBZ	pos2=NNS	0	root	_	O
+22	working	work	VBG	_	21	xcomp	_	O
+

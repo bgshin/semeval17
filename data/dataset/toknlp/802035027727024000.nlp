@@ -1,0 +1,30 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	want	want	VBP	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	PS4	ps0	NN	_	2	dobj	_	O
+5	but	but	CC	_	2	cc	_	O
+6	there	there	EX	_	7	expl	_	O
+7	are	be	VBP	_	2	conj	_	O
+8	no	no	DT	_	10	det	_	O
+9	video	video	NN	pos2=JJ	10	compound	_	O
+10	games	game	NNS	_	7	attr	_	O
+11	I	I	PRP	_	12	nsubj	_	O
+12	want	want	VBP	_	10	relcl	_	O
+13	to	to	TO	_	14	aux	_	O
+14	play	play	VB	_	12	xcomp	_	O
+15	on	on	IN	_	14	prep	_	O
+16	it	it	PRP	_	15	pobj	_	O
+17	.	.	.	_	7	punct	_	O
+
+1	Is	be	VBZ	_	0	root	_	O
+2	that	that	DT	_	1	nsubj	_	O
+3	weird	weird	JJ	_	1	acomp	_	O
+4	?	?	.	_	1	punct	_	O
+
+1	Is	be	VBZ	_	0	root	_	O
+2	Persona	persona	NNP	pos2=NN	1	nsubj	_	O
+3	5	0	CD	pos2=VBZ	2	nmod	_	U-CARDINAL
+4	out	out	RP	pos2=RB	3	prt	_	O
+5	yet	yet	RB	_	1	advmod	_	O
+6	?	?	.	_	1	punct	_	O
+

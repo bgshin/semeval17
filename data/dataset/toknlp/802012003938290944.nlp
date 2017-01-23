@@ -1,0 +1,22 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	interaction	interaction	NN	_	0	root	_	O
+3	with	with	IN	_	2	prep	_	O
+4	@UN	@un	NNP	_	10	compound	_	U-ORG
+5	Secretary	secretary	NNP	_	6	compound	_	O
+6	General	general	NNP	_	10	compound	_	O
+7	Ban	ban	NNP	_	10	compound	_	B-PERSON
+8	Ki	ki	NNP	_	10	compound	_	I-PERSON
+9	-	-	HYPH	_	10	punct	_	I-PERSON
+10	moon	moon	NNP	pos2=NN	3	pobj	_	L-PERSON
+11	at	at	IN	_	2	prep	_	O
+12	New	new	NNP	_	13	compound	_	B-ORG
+13	York	york	NNP	_	14	compound	_	I-ORG
+14	University	university	NNP	_	11	pobj	_	L-ORG
+15	!	!	.	pos2=,	2	punct	_	O
+
+1	#un	#un	UH	pos2=XX	2	discourse	_	O
+2	#UnitedNations	#unitednations	NNS	pos2=ADD	0	root	_	O
+3	#nyu	#nyu	UH	pos2=GW	2	discourse	_	O
+4	#NewYork	#newyork	ADD	pos2=GW	5	punct	_	O
+5	https://t.co/kP6CXiiYQb	#hlink#	ADD	_	2	dobj	_	O
+

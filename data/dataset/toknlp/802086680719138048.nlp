@@ -1,0 +1,12 @@
+1	@VoucherAngels	@voucherangels	NNS	pos2=ADD	2	compound	_	O
+2	#Hatchimals	#hatchimals	NNS	pos2=ADD	6	nsubj	_	O
+3	#	#	NN	pos2=-LRB-	4	compound	_	O
+4	Hatch	hatch	NNP	pos2=NN	6	vocative	_	U-ORG
+5	these	these	DT	_	6	nsubj	_	O
+6	are	be	VBP	_	0	root	_	O
+7	like	like	IN	pos2=UH	6	prep	_	O
+8	gold	gold	NN	pos2=JJ	9	compound	_	O
+9	dust	dust	NN	_	7	pobj	_	O
+10	now	now	RB	_	6	advmod	_	O
+11	💚💚	💚💚	.	pos2=NNP	6	punct	_	U-DATE
+

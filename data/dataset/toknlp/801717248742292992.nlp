@@ -1,0 +1,8 @@
+1	Found	find	VBD	pos2=VBN	0	root	_	O
+2	this	this	DT	_	1	dobj	_	O
+3	on	on	IN	pos2=RP	1	prep	_	O
+4	@steam_games	@steam_games	NNP	pos2=IN	6	compound	_	O
+5	Google	google	NNP	_	6	compound	_	O
+6	Earth	earth	NNP	_	3	pobj	_	O
+7	VRhttps://t.co/t30h8ML2rQ	#hlink#	ADD	pos2=NNP	2	appos	_	O
+

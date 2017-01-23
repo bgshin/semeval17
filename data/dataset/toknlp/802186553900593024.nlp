@@ -1,0 +1,16 @@
+1	@Hyenamancer	@hyenamancer	NNP	pos2=CC	2	nmod	_	B-PERSON
+2	@Growlithography	@growlithography	NNP	pos2=WRB	6	nmod	_	L-PERSON
+3	sweet	sweet	JJ	pos2=VBD	5	nmod	_	O
+4	jesus	jesus	NN	pos2=NNP	5	compound	_	O
+5	valentines	valentine	NNS	pos2=NNP	6	compound	_	O
+6	day	day	NN	_	8	nsubj	_	O
+7	is	be	VBZ	_	8	aux	_	O
+8	gon	gon	VBG	_	0	root	_	O
+9	na	to	TO	_	10	aux	_	O
+10	be	be	VB	_	8	xcomp	_	O
+11	a	a	DT	_	15	det	_	O
+12	too	too	RB	_	13	advmod	_	O
+13	lewd	lewd	JJ	_	10	acomp	_	O
+14	for	for	IN	_	13	prep	_	O
+15	titter	titter	NN	pos2=JJR	14	pobj	_	O
+

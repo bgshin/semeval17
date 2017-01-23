@@ -1,0 +1,18 @@
+1	@transition2017	@transition0	NN	pos2=LS	2	compound	_	O
+2	@mike_pence	@mike_pence	NN	pos2=IN	8	dep	_	O
+3	@RealBenCarson	@realbencarson	ADD	pos2=XX	8	punct	_	O
+4	@KellyannePolls	@kellyannepolls	NNS	pos2=VBZ	3	dobj	_	O
+5	@seanhannity	@seanhannity	UH	pos2=NN	8	discourse	_	O
+6	@ReinceGOP	@reincegop	UH	pos2=VBP	8	discourse	_	O
+7	we	we	PRP	_	8	nsubj	_	O
+8	want	want	VBP	_	0	root	_	O
+9	Rudy	rudy	NNP	_	10	compound	_	B-PERSON
+10	Giuliani	giuliani	NNP	_	7	appos	_	L-PERSON
+11	4	0	CD	_	12	nmod	_	U-CARDINAL
+12	Secretary	secretary	NNP	_	10	appos	_	O
+13	of	of	IN	_	12	prep	_	O
+14	State	state	NNP	_	13	pobj	_	U-ORG
+15	!	!	.	_	8	punct	_	O
+
+1	#NeverRomney	#neverromney	ADD	pos2=UH	0	root	_	O
+

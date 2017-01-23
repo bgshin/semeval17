@@ -1,0 +1,27 @@
+1	@jimmyfallon	@jimmyfallon	UH	pos2=XX	3	discourse	_	O
+2	how	how	WRB	_	3	advmod	_	O
+3	's	's	VBZ	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	@GilmoreGirls	@gilmoregirls	NNS	pos2=XX	6	compound	_	O
+6	binge	binge	NN	_	1	pcomp	_	O
+7	watching	watch	VBG	pos2=NN	6	acl	_	O
+8	going	go	VBG	pos2=JJ	7	xcomp	_	O
+9	?	?	.	_	3	punct	_	O
+
+1	Ca	can	MD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	believe	believe	VB	_	0	root	_	O
+4	your	your	PRP$	_	5	poss	_	O
+5	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNS	8	nsubj	_	O
+6	did	do	VBD	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	include	include	VB	_	3	ccomp	_	O
+9	Emily	emily	NNP	_	8	dobj	_	U-PERSON
+10	or	or	CC	_	9	cc	_	O
+11	Richard	richard	NNP	_	9	conj	_	U-PERSON
+12	!	!	.	_	3	punct	_	O
+
+1	Love	love	VB	pos2=VBP	0	root	_	O
+2	her	her	PRP	_	1	dobj	_	O
+3	!	!	.	_	1	punct	_	O
+

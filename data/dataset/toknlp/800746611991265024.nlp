@@ -1,0 +1,22 @@
+1	#GilmoreGirlsTop4	#gilmoregirlstop0	NN	pos2=NNS	3	dep	_	O
+2	:	:	:	_	5	punct	_	O
+3	1.	0.	LS	pos2=CD	5	meta	_	U-CARDINAL
+4	Emily	emily	NNP	_	5	compound	_	B-PERSON
+5	Gilmore	gilmore	NNP	_	0	root	_	L-PERSON
+6	,	,	,	_	5	punct	_	O
+7	2.	0.	CD	pos2=NNP	5	npadvmod	_	U-CARDINAL
+8	Paul	paul	NNP	_	9	compound	_	B-PERSON
+9	Anka	anka	NNP	_	5	conj	_	L-PERSON
+10	(	(	-LRB-	_	12	punct	_	O
+11	the	the	DT	_	12	det	_	O
+12	dog	dog	NN	pos2=NNP	9	parataxis	_	O
+13	)	)	-RRB-	_	12	punct	_	O
+14	,	,	,	_	9	punct	_	O
+15	3.	0.	LS	pos2=CD	17	meta	_	U-CARDINAL
+16	Paris	paris	NNP	_	17	compound	_	B-PERSON
+17	Geller	geller	NNP	_	9	conj	_	L-PERSON
+18	,	,	,	_	17	punct	_	O
+19	4.	0.	CD	pos2=NNP	21	nmod	_	U-CARDINAL
+20	Miss	miss	NNP	_	21	compound	_	O
+21	Celine	celine	NNP	_	17	conj	_	U-PERSON
+

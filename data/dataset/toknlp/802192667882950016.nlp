@@ -1,0 +1,7 @@
+1	Catching	catch	VBG	_	0	root	_	O
+2	up	up	RP	_	1	prt	_	O
+3	on	on	IN	_	1	prep	_	O
+4	TWD	twd	NNP	pos2=NN	3	pobj	_	U-ORG
+5	#amc	#amc	IN	pos2=XX	1	prep	_	O
+6	#TheWalkingDead	#thewalkingdead	ADD	pos2=NN	5	pobj	_	O
+

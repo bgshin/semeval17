@@ -1,0 +1,25 @@
+1	Let	let	VB	_	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	Government	government	NN	pos2=NNP	4	nsubj	_	O
+4	know	know	VBP	pos2=VB	1	ccomp	_	O
+5	we	we	PRP	_	6	nsubj	_	O
+6	are	be	VBP	_	4	ccomp	_	O
+7	with	with	IN	_	6	prep	_	O
+8	Doctors	doctor	NNS	pos2=NNPS	7	pobj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	Nurses	nurse	NNS	pos2=NNPS	8	conj	_	O
+11	on	on	IN	_	8	prep	_	O
+12	this	this	DT	_	13	det	_	O
+13	#LipaKamaTender	#lipakamatender	NN	pos2=ADD	11	pobj	_	O
+14	&	&	CC	_	6	cc	_	O
+15	stop	stop	VB	pos2=NN	6	conj	_	O
+16	stealing	steal	VBG	_	15	xcomp	_	O
+17	funds	fund	NNS	_	16	dobj	_	O
+18	for	for	IN	_	17	prep	_	O
+19	vaccines	vaccine	NNS	_	18	pobj	_	O
+20	,	,	,	_	19	punct	_	O
+21	hospitals	hospital	NNS	_	19	conj	_	O
+22	,	,	,	_	21	punct	_	O
+23	equipment	equipment	NN	_	21	conj	_	O
+24	!	!	.	_	1	punct	_	O
+

@@ -1,0 +1,20 @@
+1	#TrumpTransitionTeam	#trumptransitionteam	ADD	pos2=NN	12	punct	_	O
+2	"	"	``	pos2=''	12	punct	_	O
+3	Members	member	NNS	pos2=NNPS	12	nsubj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	President	president	NNP	_	7	compound	_	O
+6	-	-	HYPH	_	7	punct	_	O
+7	elect	elect	NNP	_	8	compound	_	O
+8	Trump	trump	NNP	pos2=NN	11	poss	_	U-PERSON
+9	's	's	POS	_	8	case	_	O
+10	transition	transition	NN	_	11	compound	_	O
+11	team	team	NN	_	4	pobj	_	O
+12	announced	announce	VBD	pos2=VBN	0	root	_	O
+13	Wednesday	wednesday	NNP	_	14	compound	_	O
+14	evening	evening	NN	_	12	npadvmod	_	U-TIME
+15	that	that	IN	_	16	dobj	_	O
+16	they	they	PRP	_	12	ccomp	_	O
+17	...	..	.	pos2=,	12	punct	_	O
+
+1	https://t.co/eIqXZCn5JB	#hlink#	ADD	_	0	root	_	U-ORG
+

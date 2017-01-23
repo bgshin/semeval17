@@ -1,0 +1,36 @@
+1	@Rosie	@rosie	NNP	pos2=UH	5	vocative	_	U-ORG
+2	,	,	,	_	5	punct	_	O
+3	are	be	VBP	_	5	aux	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	watcing	watcing	VBG	_	0	root	_	O
+6	#ThisIsUs	#thisisus	ADD	pos2=NNP	5	dobj	_	O
+7	?	?	.	_	5	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	feel	feel	VBP	_	0	root	_	O
+3	like	like	IN	_	5	mark	_	O
+4	it	it	PRP	_	5	nsubj	_	O
+5	's	's	VBZ	_	2	advcl	_	O
+6	a	a	DT	_	7	det	_	O
+7	show	show	NN	_	5	attr	_	O
+8	you	you	PRP	_	10	nsubj	_	O
+9	'd	would	MD	_	10	aux	_	O
+10	enjoy	enjoy	VB	_	7	relcl	_	O
+11	.	.	.	_	2	punct	_	O
+
+1	Wife	wife	NN	pos2=NNP	4	nsubj	_	O
+2	and	and	CC	_	1	cc	_	O
+3	I	I	PRP	_	1	conj	_	O
+4	love	love	VBP	_	0	root	_	O
+5	it	it	PRP	_	4	dobj	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	Our	our	PRP$	_	4	poss	_	O
+2	favorite	favorite	JJ	_	4	nmod	_	O
+3	new	new	JJ	_	4	nmod	_	O
+4	show	show	NN	_	0	root	_	O
+5	of	of	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	season	season	NN	_	5	pobj	_	O
+8	.	.	.	_	4	punct	_	O
+

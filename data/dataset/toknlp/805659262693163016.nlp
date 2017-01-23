@@ -1,0 +1,18 @@
+1	@bulbafren	@bulbafren	UH	pos2=NNS	4	discourse	_	O
+2	@BaltimoreMatt	@baltimorematt	NNP	pos2=IN	3	compound	_	O
+3	Nothing	nothing	NN	pos2=NNP	4	nsubj	_	O
+4	says	say	VBZ	_	0	root	_	O
+5	racial	racial	JJ	pos2=IN	6	nmod	_	O
+6	justice	justice	NN	_	3	appos	_	O
+7	like	like	IN	_	6	prep	_	O
+8	defending	defend	VBG	_	7	pcomp	_	O
+9	voter	voter	NN	_	10	compound	_	O
+10	suppression	suppression	NN	_	8	dobj	_	O
+11	as	as	IN	pos2=RB	8	prep	_	O
+12	good	good	JJ	pos2=NN	11	pcomp	_	O
+13	when	when	WRB	_	15	advmod	_	O
+14	democrats	democrat	NNS	pos2=NNPS	15	nsubj	_	U-NORP
+15	do	do	VBP	_	4	advcl	_	O
+16	it	it	PRP	_	15	dobj	_	O
+17	.	.	.	_	4	punct	_	O
+

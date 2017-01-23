@@ -1,0 +1,9 @@
+1	James	james	NNP	_	2	compound	_	B-PERSON
+2	Comey	comey	NNP	_	3	nsubj	_	L-PERSON
+3	told	tell	VBD	_	0	root	_	O
+4	him	him	PRP	_	3	dobj	_	O
+5	of	of	IN	_	3	prep	_	O
+6	young	young	JJ	_	7	nmod	_	O
+7	people	people	NNS	_	5	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+

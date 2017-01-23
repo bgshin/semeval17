@@ -1,0 +1,17 @@
+1	#Shiite	#shiite	JJ	pos2=NNP	2	nmod	_	O
+2	forces	force	NNS	_	7	nsubj	_	O
+3	with	with	IN	_	2	prep	_	O
+4	around	around	RB	pos2=IN	5	advmod	_	O
+5	140,000	0	CD	_	6	nmod	_	U-CARDINAL
+6	fighters	fighter	NNS	_	3	pobj	_	O
+7	say	say	VBP	pos2=VB	0	root	_	O
+8	fourth	#ord#	JJ	_	9	nmod	_	U-ORDINAL
+9	stage	stage	NN	_	15	nsubj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	#MosulOffensive	#mosuloffensive	NNP	pos2=NN	10	pobj	_	U-GPE
+12	against	against	IN	_	9	prep	_	O
+13	#ISIS	#isis	NNP	pos2=NN	12	pobj	_	U-ORG
+14	has	have	VBZ	_	15	aux	_	O
+15	begun	begin	VBN	_	7	ccomp	_	O
+16	https://t.co/Zw3h6ucFvn	#hlink#	ADD	_	15	dobj	_	O
+

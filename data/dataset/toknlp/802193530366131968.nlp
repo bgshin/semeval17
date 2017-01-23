@@ -1,0 +1,16 @@
+1	@DayanaraDelacr3	@dayanaradelacr0	NN	pos2=NNS	5	dep	_	O
+2	@Hardbutter	@hardbutter	CC	pos2=``	1	cc	_	O
+3	No	no	UH	pos2=DT	5	discourse	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	love	love	VBP	_	0	root	_	O
+6	tall	tall	JJ	pos2=VBP	8	nmod	_	O
+7	blonde	blonde	JJ	_	8	nmod	_	O
+8	men	man	NNS	_	5	dobj	_	O
+9	,	,	,	_	8	punct	_	O
+10	white	white	JJ	_	11	nmod	_	O
+11	supremacists	supremacist	NNS	_	8	conj	_	O
+12	and	and	CC	_	11	cc	_	O
+13	Christian	christian	JJ	pos2=NNP	14	nmod	_	U-NORP
+14	fundamentalist	fundamentalist	NN	pos2=JJ	11	conj	_	O
+15	.	.	.	_	5	punct	_	O
+

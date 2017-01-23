@@ -1,0 +1,14 @@
+1	@Artfull01	@artfull0	NN	pos2=NNS	13	dep	_	O
+2	When	when	WRB	_	6	advmod	_	O
+3	their	their	PRP$	_	5	poss	_	O
+4	official	official	JJ	pos2=NN	5	nmod	_	O
+5	policy	policy	NN	_	6	nsubj	_	O
+6	is	be	VBZ	_	1	advcl	_	O
+7	to	to	TO	_	8	aux	_	O
+8	do	do	VB	_	6	xcomp	_	O
+9	stuff	stuff	NN	_	8	dobj	_	O
+10	like	like	IN	_	9	prep	_	O
+11	that	that	DT	_	10	pobj	_	O
+12	:	:	:	_	13	punct	_	O
+13	https://t.co/zXzdBNkeXT	#hlink#	ADD	pos2=NN	0	root	_	O
+

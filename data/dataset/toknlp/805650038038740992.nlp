@@ -1,0 +1,18 @@
+1	Trump	trump	NN	pos2=NNP	2	nsubj	_	U-ORG
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	real	real	JJ	_	5	nmod	_	O
+5	threat	threat	NN	_	2	attr	_	O
+6	to	to	IN	_	5	prep	_	O
+7	public	public	JJ	_	8	nmod	_	O
+8	health	health	NN	_	6	pobj	_	O
+9	,	,	,	_	5	punct	_	O
+10	especially	especially	RB	_	12	advmod	_	O
+11	the	the	DT	_	12	det	_	O
+12	lives	life	NNS	_	5	appos	_	O
+13	of	of	IN	_	12	prep	_	O
+14	children	child	NNS	_	13	pobj	_	O
+15	.	.	.	_	2	punct	_	O
+
+1	https://t.co/I3Rh9AnZyV	#hlink#	ADD	_	0	root	_	U-ORG
+

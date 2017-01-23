@@ -1,0 +1,9 @@
+1	‘	'	``	pos2=POS	8	punct	_	O
+2	Kim	kim	NNP	_	3	compound	_	B-PERSON
+3	Fatty	fatty	NNP	pos2=VBD	8	dep	_	L-PERSON
+4	the	the	DT	_	5	det	_	O
+5	Third	#ord#	NNP	pos2=JJ	3	appos	_	O
+6	’	'	''	pos2=POS	8	punct	_	O
+7	https://t.co/XVuKSD7wqn	#hlink#	ADD	_	8	nmod	_	O
+8	https://t.co/HhtpoTXM3P	#hlink#	ADD	_	0	root	_	U-ORG
+

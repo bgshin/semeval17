@@ -1,0 +1,12 @@
+1	Dear	dear	JJ	pos2=NNP	4	nmod	_	O
+2	Electoral	electoral	NNP	pos2=JJ	3	compound	_	B-ORG
+3	College	college	NNP	_	4	compound	_	L-ORG
+4	member	member	NN	_	0	root	_	O
+5	,	,	,	_	4	punct	_	O
+6	How	how	WRB	_	7	advmod	_	O
+7	much	much	RB	pos2=JJ	8	advmod	_	O
+8	more	more	JJR	pos2=RBR	4	appos	_	O
+9	?	?	.	_	4	punct	_	O
+
+1	https://t.co/0v4fhBeucp	#hlink#	ADD	_	0	root	_	U-ORG
+

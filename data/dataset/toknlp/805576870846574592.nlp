@@ -1,0 +1,11 @@
+1	When	when	WRB	_	8	advmod	_	O
+2	Beppe	beppe	NNP	_	3	compound	_	B-PERSON
+3	Grillo	grillo	NNP	_	8	nsubj	_	L-PERSON
+4	and	and	CC	_	3	cc	_	O
+5	Marine	marine	NNP	pos2=JJ	7	compound	_	B-ORG
+6	Le	le	NNP	_	7	compound	_	I-ORG
+7	Pen	pen	NNP	_	3	conj	_	L-ORG
+8	are	be	VBP	_	10	advcl	_	O
+9	happy	happy	JJ	_	8	acomp	_	O
+10	https://t.co/nPuthVDLff	#hlink#	ADD	pos2=NN	0	root	_	O
+

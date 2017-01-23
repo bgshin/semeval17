@@ -1,0 +1,18 @@
+1	#tech	#tech	UH	pos2=XX	7	discourse	_	O
+2	#summary	#summary	NN	pos2=FW	7	dep	_	O
+3	:	:	:	_	2	punct	_	O
+4	#uber	#uber	UH	pos2=PRP	7	discourse	_	O
+5	#rival	#rival	UH	pos2=WRB	7	discourse	_	O
+6	#ola	#ola	NNP	pos2=UH	7	nsubj	_	U-PERSON
+7	said	say	VBD	pos2=VBN	0	root	_	O
+8	to	to	TO	_	10	aux	_	O
+9	be	be	VB	_	10	aux	_	O
+10	seeking	seek	VBG	_	7	xcomp	_	O
+11	#funds	#funds	NNS	pos2=RB	10	dobj	_	O
+12	at	at	IN	_	10	prep	_	O
+13	40	0	CD	_	14	nmod	_	B-PERCENT
+14	%	%	NN	_	15	npadvmod	_	L-PERCENT
+15	lower	low	JJR	pos2=JJ	16	nmod	_	O
+16	#value	#value	NN	pos2=NNS	12	pobj	_	O
+17	https://t.co/7ze6v6evI7	#hlink#	ADD	pos2=NN	16	appos	_	O
+

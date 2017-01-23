@@ -1,0 +1,29 @@
+1	Marlon	marlon	NNP	pos2=NN	6	vocative	_	U-PERSON
+2	:	:	:	_	6	punct	_	O
+3	"	"	``	_	6	punct	_	O
+4	I	I	PRP	_	6	nsubj	_	O
+5	’ll	will	MD	_	6	aux	_	O
+6	take	take	VB	_	0	root	_	O
+7	away	away	RB	_	6	advmod	_	O
+8	this	this	DT	_	9	det	_	O
+9	shirt	shirt	NN	_	6	dobj	_	O
+10	,	,	,	_	11	punct	_	O
+11	get	get	VB	_	6	conj	_	O
+12	my	my	PRP$	_	14	poss	_	O
+13	team	team	NN	_	14	compound	_	O
+14	mates	mate	NNS	pos2=VBZ	16	nsubj	_	O
+15	to	to	TO	_	16	aux	_	O
+16	sign	sign	VB	_	11	ccomp	_	O
+17	it	it	PRP	_	16	dobj	_	O
+18	and	and	CC	_	16	cc	_	O
+19	then	then	RB	_	20	advmod	_	O
+20	hang	hang	VB	_	16	conj	_	O
+21	it	it	PRP	_	20	dobj	_	O
+22	on	on	IN	_	20	prep	_	O
+23	the	the	DT	_	24	det	_	O
+24	wall	wall	NN	_	22	pobj	_	O
+25	.	.	.	_	6	punct	_	O
+26	"	"	''	_	6	punct	_	O
+
+1	#fcblive	#fcblive	UH	pos2=XX	0	root	_	O
+

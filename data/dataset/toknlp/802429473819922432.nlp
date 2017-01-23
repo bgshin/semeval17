@@ -1,0 +1,17 @@
+1	TheStartupTimes	thestartuptimes	NNS	pos2=NN	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Samsung	samsung	NNP	_	4	nsubj	_	U-ORG
+4	says	say	VBZ	_	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	Galaxy	galaxy	NNP	pos2=NN	7	compound	_	O
+7	S7	s0	NNP	pos2=NN	10	nsubj	_	O
+8	wo	wo	MD	_	10	aux	_	O
+9	n’t	not	RB	_	10	neg	_	O
+10	explode	explode	VB	_	4	ccomp	_	O
+11	like	like	IN	_	10	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	Galaxy	galaxy	NNP	_	14	compound	_	O
+14	Note	note	NNP	pos2=NN	11	pobj	_	O
+15	7	0	CD	_	16	dep	_	O
+16	https://t.co/c7uVE87Kl3	#hlink#	ADD	_	10	dobj	_	O
+

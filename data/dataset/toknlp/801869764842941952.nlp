@@ -1,0 +1,18 @@
+1	OMG	omg	NN	pos2=NNP	0	root	_	O
+2	!!	!!	.	_	1	punct	_	O
+
+1	Best	good	JJS	_	2	nmod	_	O
+2	FIFA	fifa	NN	pos2=NNP	0	root	_	O
+3	17	0	CD	pos2=LS	4	nmod	_	U-CARDINAL
+4	Goal	goal	NN	pos2=NNP	0	root	_	O
+5	Ever	ever	RB	_	4	advmod	_	O
+6	!!!	!!	.	_	2	punct	_	O
+
+1	#fifa17	#fifa0	NN	pos2=UH	7	dep	_	O
+2	#psn	#psn	UH	pos2=FW	1	discourse	_	O
+3	#goal	#goal	UH	pos2=FW	1	discourse	_	O
+4	#fcbarcelona	#fcbarcelona	UH	pos2=FW	1	discourse	_	O
+5	#neymar	#neymar	UH	pos2=GW	1	discourse	_	O
+6	#FCBlive	#fcblive	ADD	pos2=GW	7	punct	_	O
+7	https://t.co/kXQOf9sv7V	#hlink#	ADD	_	0	root	_	O
+

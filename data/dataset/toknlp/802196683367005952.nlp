@@ -1,0 +1,26 @@
+1	@Neera_jah	@neera_jah	UH	pos2=NNP	4	discourse	_	O
+2	@PrimlyStable	@primlystable	POS	pos2=JJ	4	nmod	_	O
+3	Single	single	JJ	pos2=NNP	4	nmod	_	O
+4	mothers	mother	NNS	_	12	vocative	_	O
+5	,	,	,	_	4	punct	_	O
+6	white	white	JJ	_	7	nmod	_	O
+7	supremacists	supremacist	NNS	_	4	conj	_	O
+8	,	,	,	_	7	punct	_	O
+9	eh	eh	UH	_	7	discourse	_	O
+10	,	,	,	_	12	punct	_	O
+11	what	what	WP	_	12	attr	_	O
+12	's	's	VBZ	_	0	root	_	O
+13	the	the	DT	_	14	det	_	O
+14	difference	difference	NN	_	12	nsubj	_	O
+15	?	?	.	_	12	punct	_	O
+
+1	Who	who	WP	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	say	say	VB	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Who	who	WP	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	say	say	VB	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+

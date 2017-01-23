@@ -1,0 +1,20 @@
+1	Gold	gold	NN	pos2=JJ	3	compound	_	O
+2	heart	heart	NN	_	3	compound	_	O
+3	earrings	earring	NNS	_	9	nsubj	_	O
+4	,	,	,	_	3	punct	_	O
+5	Textured	textured	JJ	pos2=VBN	8	nmod	_	O
+6	gold	gold	NN	pos2=JJ	8	compound	_	O
+7	heart	heart	NN	_	8	compound	_	O
+8	charm	charm	NN	_	3	appos	_	O
+9	dangle	dangle	VBP	pos2=VB	0	root	_	O
+10	earrings	earring	NNS	_	9	dobj	_	O
+11	,	,	,	_	10	punct	_	O
+12	heart	heart	NN	_	13	compound	_	O
+13	jewelry	jewelry	NN	_	10	conj	_	O
+14	,	,	,	_	13	punct	_	O
+15	valentines	valentine	NNS	pos2=UH	13	conj	_	O
+16	..	..	.	pos2=,	9	punct	_	O
+
+1	https://t.co/6Y6pX5hU2X…	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/0PiZH6jxN8	#hlink#	ADD	_	0	root	_	U-ORG
+

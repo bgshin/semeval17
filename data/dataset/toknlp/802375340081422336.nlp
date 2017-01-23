@@ -1,0 +1,21 @@
+1	Get	get	VB	_	0	root	_	O
+2	a	a	DT	_	3	det	_	O
+3	#FREE	#free	NN	pos2=$	1	dative	_	B-MONEY
+4	$	$	$	_	5	nmod	_	I-MONEY
+5	25	0	CD	_	20	dep	_	L-MONEY
+6	Amazon	amazon	NNP	_	7	compound	_	U-ORG
+7	gift	gift	NN	pos2=GW	20	dep	_	O
+8	cardSurvey	cardsurvey	NNP	pos2=-LRB-	20	dep	_	O
+9	https://t.co/kBSbeMYKfC	#hlink#	ADD	pos2=XX	20	dep	_	O
+10	if	if	IN	_	15	mark	_	O
+11	your	your	PRP$	_	13	poss	_	O
+12	health	health	NN	_	13	compound	_	O
+13	insurance	insurance	NN	_	15	nsubj	_	O
+14	NOT	not	RB	_	15	neg	_	O
+15	thru	thru	IN	_	20	advcl	_	O
+16	employer	employer	NN	_	15	pobj	_	O
+17	or	or	CC	_	15	cc	_	O
+18	Me	me	PRP	_	15	conj	_	O
+19	…	…	NFP	pos2=-LRB-	20	punct	_	O
+20	https://t.co/QEx9bMubvr	#hlink#	ADD	_	1	dep	_	O
+

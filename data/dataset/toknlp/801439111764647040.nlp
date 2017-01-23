@@ -1,0 +1,26 @@
+1	Iraqi	iraqi	JJ	_	3	nmod	_	U-NORP
+2	special	special	JJ	_	3	nmod	_	O
+3	forces	force	NNS	_	5	poss	_	O
+4	'	'	POS	pos2=''	3	case	_	O
+5	members	member	NNS	_	12	nsubj	_	O
+6	taking	take	VBG	_	5	acl	_	O
+7	a	a	DT	_	9	det	_	B-TIME
+8	few	few	JJ	_	9	nmod	_	I-TIME
+9	minutes	minute	NNS	_	6	dobj	_	L-TIME
+10	out	out	RP	pos2=RB	6	prt	_	O
+11	to	to	TO	_	12	aux	_	O
+12	have	have	VB	_	0	root	_	O
+13	a	a	DT	_	15	det	_	O
+14	quick	quick	JJ	_	15	nmod	_	O
+15	meal	meal	NN	_	12	dobj	_	O
+16	before	before	IN	_	12	prep	_	O
+17	returning	return	VBG	_	16	pcomp	_	O
+18	to	to	IN	_	17	prep	_	O
+19	battle	battle	NN	pos2=VB	18	pobj	_	O
+20	in	in	IN	_	19	prep	_	O
+21	#Mosul	#mosul	NNP	pos2=NNS	20	pobj	_	U-GPE
+22	.	.	.	_	12	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/eB4sdi1YUN	#hlink#	ADD	pos2=NN	0	root	_	O
+

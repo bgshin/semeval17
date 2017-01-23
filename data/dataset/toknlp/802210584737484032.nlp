@@ -1,0 +1,16 @@
+1	@MotherJones	@motherjones	NNS	pos2=VBZ	2	compound	_	O
+2	Putin	putin	NNP	_	9	dep	_	U-PERSON
+3	:	:	:	_	9	punct	_	O
+4	US	us	NNP	pos2=NN	6	compound	_	U-GPE
+5	/	/	HYPH	pos2=SYM	6	punct	_	O
+6	NATO	nato	NNP	_	9	nsubj	_	U-ORG
+7	is	be	VBZ	_	9	aux	_	O
+8	irreversibly	irreversibly	RB	_	9	advmod	_	O
+9	pushing	push	VBG	_	0	root	_	O
+10	the	the	DT	_	11	det	_	O
+11	world	world	NN	_	9	dobj	_	O
+12	towards	towards	IN	_	9	prep	_	O
+13	nuclear	nuclear	JJ	_	14	nmod	_	O
+14	war	war	NN	_	12	pobj	_	O
+15	https://t.co/2rn23QKbV8	#hlink#	ADD	_	9	dep	_	O
+

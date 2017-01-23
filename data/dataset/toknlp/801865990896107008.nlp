@@ -1,0 +1,7 @@
+1	@ChMasad	@chmasad	NN	pos2=ADD	2	compound	_	O
+2	@Th2shay	@th0shay	NN	pos2=NNP	3	compound	_	O
+3	#Hamas	#hamas	NNP	pos2=NNS	4	nsubj	_	U-ORG
+4	is	be	VBZ	_	0	root	_	O
+5	inept	inept	JJ	_	4	acomp	_	O
+6	!!	!!	.	_	4	punct	_	O
+

@@ -1,0 +1,13 @@
+1	@jacobjbg	@jacobjbg	VBG	pos2=SYM	2	nmod	_	O
+2	KD	kd	NN	pos2=NNP	0	punct	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Kim	kim	NNP	_	7	compound	_	B-PERSON
+5	Jong	jong	NNP	_	7	compound	_	I-PERSON
+6	-	-	HYPH	_	7	punct	_	I-PERSON
+7	un	un	NNP	_	3	pobj	_	L-PERSON
+8	,	,	,	_	7	punct	_	O
+9	who	who	WP	_	10	nsubj	_	O
+10	says	say	VBZ	_	0	root	_	O
+11	no	no	DT	pos2=UH	10	dobj	_	O
+12	?	?	.	_	10	punct	_	O
+

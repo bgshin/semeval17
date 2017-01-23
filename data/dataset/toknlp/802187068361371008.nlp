@@ -1,0 +1,18 @@
+1	#FF	#ff	NN	pos2=XX	2	compound	_	O
+2	@ThoseBackPages	@thosebackpages	NNS	pos2=ADD	3	compound	_	O
+3	@MelRises	@melrises	NNS	pos2=ADD	12	nsubj	_	O
+4	and	and	CC	_	3	cc	_	O
+5	last	last	JJ	pos2=VB	10	nmod	_	O
+6	but	but	CC	_	5	cc	_	O
+7	definitely	definitely	RB	_	12	advmod	_	O
+8	not	not	RB	_	9	neg	_	O
+9	least	least	JJS	pos2=RBS	10	advmod	_	O
+10	@BlaineRincon	@blainerincon	IN	pos2=XX	12	prep	_	O
+11	these	these	DT	_	10	pobj	_	O
+12	are	be	VBP	_	0	root	_	O
+13	my	my	PRP$	_	14	poss	_	O
+14	people	people	NNS	_	12	attr	_	O
+15	!	!	.	_	12	punct	_	O
+
+1	#TheWalkingDead	#thewalkingdead	ADD	pos2=XX	0	root	_	O
+

@@ -1,0 +1,18 @@
+1	@SebGorka	@sebgorka	ADD	pos2=NN	6	prep	_	B-PERSON
+2	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	1	pobj	_	L-PERSON
+3	@GenFlynn	@genflynn	ADD	pos2=XX	0	root	_	O
+4	@AJDelgado13	@ajdelgado0	NN	pos2=ADD	6	compound	_	O
+5	@mike_pence	@mike_pence	NN	pos2=LS	6	compound	_	O
+6	@DonaldJTrumpJr	@donaldjtrumpjr	NN	pos2=XX	8	nsubj	_	O
+7	not	not	RB	_	8	neg	_	O
+8	sure	sure	JJ	_	3	root	_	O
+9	if	if	IN	_	11	mark	_	O
+10	we	we	PRP	_	11	nsubj	_	O
+11	have	have	VBP	_	8	ccomp	_	O
+12	room	room	NN	_	11	dobj	_	O
+13	for	for	IN	_	12	prep	_	O
+14	sebastian	sebastian	NN	pos2=NNS	13	pobj	_	O
+15	on	on	IN	_	12	prep	_	O
+16	the	the	DT	_	17	det	_	O
+17	bandwagon	bandwagon	NN	_	15	pobj	_	O
+

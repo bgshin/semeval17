@@ -1,0 +1,13 @@
+1	sakit	sakit	NN	pos2=JJ	9	compound	_	O
+2	cen	cen	NN	pos2=FW	9	compound	_	O
+3	wong	wong	NN	pos2=JJ	9	compound	_	O
+4	iki	iki	NN	pos2=XX	9	compound	_	O
+5	#ABCGO	#abcgo	NN	pos2=XX	7	compound	_	O
+6	—	-	HYPH	pos2=:	7	punct	_	O
+7	watching	watch	VBG	_	9	compound	_	O
+8	David	david	NNP	_	9	compound	_	B-PERSON
+9	Blaine	blaine	NNP	_	12	dep	_	L-PERSON
+10	:	:	:	_	12	punct	_	O
+11	Beyond	beyond	IN	pos2=NNP	0	root	_	O
+12	Magic	magic	NNP	pos2=NN	11	pobj	_	U-FAC
+

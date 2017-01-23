@@ -1,0 +1,22 @@
+1	@hotrocksyes	@hotrocksyes	UH	pos2=VBZ	20	discourse	_	O
+2	How	how	WRB	_	8	advmod	_	O
+3	these	these	DT	_	5	det	_	O
+4	scumbag	scumbag	NN	pos2=JJ	5	compound	_	O
+5	animals	animal	NNS	_	8	nsubj	_	O
+6	are	be	VBP	_	8	aux	_	O
+7	not	not	RB	_	8	neg	_	O
+8	receiving	receive	VBG	_	1	pcomp	_	O
+9	the	the	DT	_	11	det	_	O
+10	death	death	NN	_	11	compound	_	O
+11	penalty	penalty	NN	_	8	dobj	_	O
+12	by	by	IN	_	8	prep	_	O
+13	a	a	DT	_	14	det	_	O
+14	jury	jury	NN	_	12	pobj	_	O
+15	for	for	IN	_	14	prep	_	O
+16	this	this	DT	_	15	pobj	_	O
+17	I	I	PRP	pos2=NN	20	nsubj	_	O
+18	do	do	VBP	_	20	aux	_	O
+19	not	not	RB	_	20	neg	_	O
+20	know	know	VB	_	0	root	_	O
+21	.	.	.	_	20	punct	_	O
+

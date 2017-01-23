@@ -1,0 +1,19 @@
+1	This	this	DT	_	5	det	_	O
+2	new	new	JJ	pos2=VBD	5	nmod	_	O
+3	Ted	ted	NNP	_	4	compound	_	B-PERSON
+4	Cruz	cruz	NNP	_	5	compound	_	L-PERSON
+5	video	video	NN	pos2=NNP	6	nsubj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	the	the	DT	_	10	det	_	O
+8	last	last	JJ	_	10	nmod	_	O
+9	Obamacare	obamacare	NNP	_	10	compound	_	U-ORG
+10	fact	fact	NN	_	11	nsubj	_	O
+11	check	check	VB	pos2=NN	6	ccomp	_	O
+12	you	you	PRP	_	15	nsubj	_	O
+13	will	will	MD	_	15	aux	_	O
+14	ever	ever	RB	_	15	advmod	_	O
+15	need	need	VB	_	11	ccomp	_	O
+16	!	!	.	_	6	punct	_	O
+
+1	https://t.co/RReaPB2za7	#hlink#	ADD	_	0	root	_	U-ORG
+

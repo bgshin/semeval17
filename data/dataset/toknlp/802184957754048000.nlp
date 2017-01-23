@@ -1,0 +1,8 @@
+1	#RejectedBlackFridayDeals	#rejectedblackfridaydeals	NNS	pos2=VBZ	3	compound	_	O
+2	Tony	tony	NNP	_	3	compound	_	B-PERSON
+3	Romo	romo	NNP	_	0	root	_	L-PERSON
+4	for	for	IN	_	3	prep	_	O
+5	a	a	DT	pos2=CD	7	det	_	O
+6	ball	ball	NN	_	7	compound	_	O
+7	boy	boy	NN	pos2=UH	4	pobj	_	O
+

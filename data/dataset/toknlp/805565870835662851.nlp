@@ -1,0 +1,28 @@
+1	Translation	translation	NN	_	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	Long	long	RB	pos2=JJ	4	advmod	_	O
+4	live	live	VBP	pos2=VB	0	root	_	O
+5	Trump	trump	NNP	pos2=NN	4	nsubj	_	U-ORG
+6	,	,	,	_	5	punct	_	O
+7	long	long	RB	pos2=JJ	8	advmod	_	O
+8	live	live	VBP	pos2=VB	12	ccomp	_	O
+9	Putin	putin	NNP	_	8	nsubj	_	U-PERSON
+10	,	,	,	_	12	punct	_	O
+11	long	long	RB	pos2=JJ	12	advmod	_	O
+12	live	live	VB	pos2=VBP	0	root	_	O
+13	Marine	marine	NNP	pos2=JJ	14	compound	_	U-ORG
+14	le	le	NN	pos2=NNP	15	compound	_	O
+15	Pen	pen	NNP	_	12	dobj	_	O
+16	,	,	,	_	12	punct	_	O
+17	and	and	CC	_	12	cc	_	O
+18	long	long	RB	pos2=JJ	19	advmod	_	O
+19	live	live	VB	pos2=VBP	12	conj	_	O
+20	the	the	DT	_	24	det	_	O
+21	[	[	-LRB-	_	24	punct	_	O
+22	Northern	northern	NNP	pos2=JJ	24	nmod	_	B-ORG
+23	]	]	-RRB-	pos2=NNPS	24	punct	_	I-ORG
+24	League	league	NNP	pos2=NN	19	nsubj	_	L-ORG
+25	!	!	.	_	8	punct	_	O
+
+1	https://t.co/bs7d6pDf6O	#hlink#	ADD	_	0	root	_	U-ORG
+

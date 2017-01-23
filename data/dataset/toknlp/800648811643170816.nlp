@@ -1,0 +1,26 @@
+1	Funny	funny	JJ	pos2=LS	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	@Newsweek	@newsweek	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	uses	use	VBZ	_	0	root	_	O
+3	corrupt	corrupt	JJ	_	5	nmod	_	O
+4	ex-Georgian	ex-georgian	JJ	pos2=NNP	5	nmod	_	U-NORP
+5	president	president	NN	pos2=NNP	6	compound	_	O
+6	Saakashvili	saakashvili	NNP	_	2	dobj	_	U-PERSON
+7	as	as	IN	pos2=VBZ	2	prep	_	O
+8	some	some	DT	_	9	det	_	O
+9	sort	sort	NN	_	7	pobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	an	an	DT	_	12	det	_	O
+12	expert	expert	NN	_	10	pobj	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	This	this	DT	_	2	det	_	O
+2	guy	guy	NN	_	4	nsubj	_	O
+3	is	be	VBZ	_	4	aux	_	O
+4	dodging	dodge	VBG	_	0	root	_	O
+5	extradition	extradition	NN	_	6	compound	_	O
+6	hiding	hiding	NN	pos2=VBG	4	dobj	_	O
+7	in	in	IN	_	6	prep	_	O
+8	Ukraine	ukraine	NNP	_	7	pobj	_	U-GPE
+

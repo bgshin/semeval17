@@ -1,0 +1,23 @@
+1	Words	word	NNS	_	3	nsubj	_	O
+2	had	have	VBD	pos2=VBN	3	aux	_	O
+3	turned	turn	VBN	_	0	root	_	O
+4	to	to	IN	pos2=TO	3	prep	_	O
+5	ash	ash	NN	pos2=VB	4	pobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	-	-	SYM	pos2=:	4	punct	_	O
+2	Caren	caren	NNP	_	3	compound	_	B-PERSON
+3	Stelson	stelson	NNP	pos2=PRP	4	nsubj	_	L-PERSON
+4	reading	read	VBG	pos2=NN	0	root	_	O
+5	from	from	IN	_	4	prep	_	O
+6	SACHIKO	sachiko	NNP	_	5	pobj	_	U-ORG
+7	:	:	:	_	4	punct	_	O
+8	A	a	DT	_	11	det	_	O
+9	NAGASAKI	nagasaki	NNP	_	10	compound	_	U-GPE
+10	BOMB	bomb	NN	pos2=NNP	11	compound	_	O
+11	SURVIVOR	survivor	NNP	pos2=NN	15	poss	_	U-PERSON
+12	'S	's	POS	_	11	case	_	O
+13	STORY	story	NN	pos2=NNP	14	compound	_	O
+14	#MiamiBookFair2016	#miamibookfair0	NN	pos2=CC	15	compound	_	O
+15	#NBAwards	#nbawards	NNS	pos2=ADD	4	dep	_	O
+

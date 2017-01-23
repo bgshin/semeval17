@@ -1,0 +1,20 @@
+1	Cristiano	cristiano	NNP	_	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	6	nsubj	_	L-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	Lionel	lionel	NNP	_	5	compound	_	B-PERSON
+5	Messi	messi	NNP	_	2	conj	_	L-PERSON
+6	●	●	VBD	pos2=POS	13	ccomp	_	O
+7	Great	great	JJ	pos2=NNP	8	nmod	_	B-ORG
+8	Friends	friend	NNPS	pos2=NNS	6	dobj	_	L-ORG
+9	●	●	NFP	pos2=POS	6	discourse	_	O
+10	2016	0	CD	_	11	nmod	_	U-DATE
+11	HD	hd	NN	_	13	dep	_	O
+12	:	:	:	_	13	punct	_	O
+13	Subscribe	subscribe	VB	_	0	root	_	O
+14	to	to	IN	_	13	prep	_	O
+15	my	my	PRP$	_	17	poss	_	O
+16	FIFA	fifa	NNP	pos2=NN	17	compound	_	U-ORG
+17	channel	channel	NN	pos2=GW	14	pobj	_	O
+18	…	…	NFP	pos2=-LRB-	19	punct	_	O
+19	https://t.co/NaVX2vS1bs	#hlink#	ADD	_	13	dep	_	O
+

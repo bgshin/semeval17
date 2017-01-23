@@ -1,0 +1,23 @@
+1	This	this	DT	_	3	det	_	B-DATE
+2	holiday	holiday	NN	_	3	compound	_	I-DATE
+3	season	season	NN	_	6	poss	_	I-DATE
+4	's	's	POS	_	3	case	_	L-DATE
+5	hot	hot	JJ	_	6	nmod	_	O
+6	toy	toy	NN	_	7	nsubj	_	O
+7	are	be	VBP	_	0	root	_	O
+8	#Hatchimals	#hatchimals	NNS	pos2=CD	7	attr	_	O
+9	,	,	,	_	7	punct	_	O
+10	but	but	CC	_	7	cc	_	O
+11	they	they	PRP	_	13	nsubj	_	O
+12	'll	will	MD	_	13	aux	_	O
+13	be	be	VB	_	7	conj	_	O
+14	tough	tough	JJ	_	13	acomp	_	O
+15	to	to	TO	_	16	aux	_	O
+16	find	find	VB	_	13	xcomp	_	O
+17	on	on	IN	pos2=RP	16	prep	_	O
+18	#BlackFriday	#blackfriday	NNP	pos2=NN	17	pobj	_	U-DATE
+19	.	.	.	_	13	punct	_	O
+
+1	https://t.co/Ge0IyzgAqA	#hlink#	ADD	_	2	nmod	_	O
+2	https://t.co/ZvqHotD0BY	#hlink#	ADD	_	0	root	_	U-ORG
+

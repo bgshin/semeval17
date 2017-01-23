@@ -1,0 +1,19 @@
+1	#NBA	#nba	NN	pos2=NFP	18	dep	_	O
+2	TIM	tim	NNP	pos2=NN	6	nmod	_	B-PERSON
+3	DUNCAN	duncan	NNP	_	6	nmod	_	L-PERSON
+4	/	/	SYM	pos2=,	6	punct	_	O
+5	TONY	tony	NNP	pos2=JJ	6	compound	_	O
+6	PARKER	parker	NNP	pos2=NN	18	dep	_	O
+7	2015/16	0	CD	_	18	dep	_	B-CARDINAL
+8	15/16	0	CD	_	18	dep	_	L-CARDINAL
+9	BLACK	black	JJ	pos2=NN	10	nmod	_	O
+10	GOLD	gold	NN	_	12	nmod	_	O
+11	DUAL	dual	JJ	_	12	nmod	_	O
+12	GAME	game	NN	_	18	dep	_	O
+13	#Jersey	#jersey	NN	pos2=NNP	18	dep	_	O
+14	#	#	NN	_	18	dep	_	O
+15	06/99	0	CD	pos2=GW	14	nmod	_	U-MONEY
+16	G4074	g0	NN	pos2=GW	18	dep	_	O
+17	https://t.co/7Q4JQsK0nW…	#hlink#	ADD	pos2=NN	18	nmod	_	O
+18	https://t.co/swSWeb9Hrr	#hlink#	ADD	_	0	root	_	U-ORG
+

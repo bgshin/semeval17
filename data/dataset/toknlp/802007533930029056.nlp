@@ -1,0 +1,10 @@
+1	Welcome	welcome	UH	pos2=VBP	0	root	_	O
+2	@googleearth	@googleearth	IN	pos2=RP	1	prep	_	O
+3	VR	vr	NNP	pos2=NN	2	pobj	_	U-ORG
+4	back	back	RB	_	1	advmod	_	O
+5	to	to	IN	_	4	prep	_	O
+6	Earth	earth	NNP	_	5	pobj	_	U-LOC
+7	!!	!!	.	_	1	punct	_	O
+
+1	https://t.co/J4LfmjEobP	#hlink#	ADD	_	0	root	_	U-ORG
+

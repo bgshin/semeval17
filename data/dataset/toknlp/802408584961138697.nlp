@@ -1,0 +1,13 @@
+1	Every	every	DT	_	4	det	_	O
+2	Social	social	NNP	pos2=JJ	3	compound	_	B-ORG
+3	Media	media	NNP	pos2=NNPS	4	compound	_	L-ORG
+4	user	user	NN	_	6	nsubj	_	O
+5	must	must	MD	_	6	aux	_	O
+6	take	take	VB	_	0	root	_	O
+7	#Cybersecurity	#cybersecurity	NNP	pos2=NN	10	compound	_	B-ORG
+8	seriously.#SocialMedia	seriously.#socialmedia	NNP	pos2=.	10	compound	_	I-ORG
+9	#Network	#network	NNP	pos2=XX	10	compound	_	I-ORG
+10	#Security	#security	NNP	pos2=GW	6	dobj	_	L-ORG
+11	#hacking	#hacking	VBG	pos2=ADD	6	advcl	_	O
+12	https://t.co/zVxpGKq43Q	#hlink#	ADD	_	11	pobj	_	U-ORG
+

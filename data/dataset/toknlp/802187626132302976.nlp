@@ -1,0 +1,19 @@
+1	@monerty1	@monerty0	NN	pos2=TO	3	nsubj	_	O
+2	ill	ill	JJ	pos2=RB	1	acomp	_	O
+3	have	have	VBP	pos2=VB	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	read	read	VB	pos2=VBN	3	xcomp	_	O
+6	but	but	CC	_	3	cc	_	O
+7	..	..	.	pos2=,	3	punct	_	O
+
+1	cmon	cmon	NN	pos2=UH	0	root	_	O
+2	..	..	.	pos2=,	1	punct	_	O
+
+1	still	still	RB	_	2	advmod	_	O
+2	makes	make	VBZ	_	0	root	_	O
+3	a	a	DT	_	6	det	_	O
+4	great	great	JJ	_	5	nmod	_	O
+5	valentines	valentine	NNS	pos2=NN	6	compound	_	O
+6	poem	poem	NN	_	2	dobj	_	O
+7	;)	;)	NFP	pos2=RB	2	discourse	_	O
+

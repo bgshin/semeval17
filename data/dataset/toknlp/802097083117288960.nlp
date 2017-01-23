@@ -1,0 +1,10 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	family	family	NN	pos2=RB	4	compound	_	O
+4	❤️	❤️	NNP	pos2=IN	9	nmod	_	O
+5	#fcblive	#fcblive	UH	pos2=XX	9	nmod	_	O
+6	#FCB	#fcb	GW	pos2=NNP	9	nmod	_	O
+7	#messi	#messi	UH	pos2=GW	9	nmod	_	O
+8	#Barcelona	#barcelona	GW	pos2=ADD	9	nmod	_	O
+9	https://t.co/4ydIdds8KN	#hlink#	ADD	pos2=NN	2	dep	_	U-ORG
+

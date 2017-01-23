@@ -1,0 +1,13 @@
+1	Niall	niall	NNP	_	8	vocative	_	B-ORG
+2	&	&	CC	_	1	cc	_	I-ORG
+3	Louis	louis	NNP	_	1	conj	_	L-ORG
+4	,	,	,	_	8	punct	_	O
+5	the	the	DT	_	7	det	_	O
+6	same	same	JJ	_	7	nmod	_	O
+7	shirts	shirt	NNS	_	8	nsubj	_	O
+8	♥#MPN	♥#mpn	VBP	pos2=XX	0	root	_	O
+9	#onedirection	#onedirection	NNP	pos2=NN	12	nmod	_	O
+10	&	&	CC	pos2=GW	9	cc	_	O
+11	#MtvStarsNiallHoran	#mtvstarsniallhoran	ADD	pos2=GW	9	conj	_	O
+12	https://t.co/5IvOPqZ5r7	#hlink#	ADD	pos2=NN	8	dobj	_	O
+

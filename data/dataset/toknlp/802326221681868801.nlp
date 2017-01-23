@@ -1,0 +1,30 @@
+1	Manasseh	manasseh	NNP	_	0	root	_	U-PERSON
+2	,	,	,	_	1	punct	_	O
+3	Amon	amon	NNP	_	1	conj	_	U-PERSON
+4	,	,	,	_	3	punct	_	O
+5	Josiah	josiah	NNP	_	3	appos	_	U-PERSON
+6	.	.	.	_	1	punct	_	O
+
+1	Pray	pray	VB	pos2=NNP	5	discourse	_	O
+2	Kim	kim	NNP	_	4	compound	_	B-PERSON
+3	Jong	jong	NNP	_	4	compound	_	I-PERSON
+4	Un	un	NNP	_	5	nsubj	_	L-PERSON
+5	follows	follow	VBZ	_	10	ccomp	_	O
+6	Josiah	josiah	NNP	_	8	poss	_	U-PERSON
+7	's	's	POS	_	6	case	_	O
+8	example	example	NN	_	5	dobj	_	O
+9	-	-	:	pos2=HYPH	10	punct	_	O
+10	find	find	VB	pos2=VBP	0	root	_	O
+11	the	the	DT	_	12	det	_	O
+12	book	book	NN	_	10	dobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	the	the	DT	_	15	det	_	O
+15	Law	law	NNP	pos2=NN	13	pobj	_	U-PERSON
+16	discarded	discard	VBN	_	12	acl	_	O
+17	by	by	IN	_	16	agent	_	O
+18	ancestors	ancestor	NNS	_	17	pobj	_	O
+19	.	.	.	_	10	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/0fwENAqR66	#hlink#	ADD	pos2=NN	0	root	_	O
+

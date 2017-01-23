@@ -1,0 +1,15 @@
+1	#PalliativeCare	#palliativecare	NN	pos2=JJ	2	compound	_	O
+2	doctors	doctor	NNS	_	3	nsubj	_	O
+3	warn	warn	VBP	pos2=VB	0	root	_	O
+4	against	against	IN	_	3	prep	_	O
+5	legalising	legalise	VBG	_	4	pcomp	_	O
+6	#euthanasia	#euthanasia	NN	pos2=NNP	5	dobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	#assistedsuicide	#assistedsuicide	NN	pos2=RB	6	conj	_	O
+9	in	in	IN	_	5	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	State	state	NNP	pos2=NN	9	pobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	#Victoria	#victoria	NNP	pos2=ADD	12	pobj	_	O
+14	https://t.co/lHxIOddZ6p	#hlink#	ADD	_	3	dep	_	O
+

@@ -1,0 +1,26 @@
+1	@exxonmobil	@exxonmobil	UH	pos2=PRP$	5	discourse	_	O
+2	Gender	gender	NN	pos2=NNP	5	nsubj	_	O
+3	does	do	VBZ	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	release	release	VB	_	0	root	_	O
+6	ur	ur	PRP$	pos2=JJ	7	poss	_	O
+7	responsibility	responsibility	NN	_	5	dobj	_	O
+8	to	to	IN	_	7	prep	_	O
+9	Earth	earth	NNP	_	8	pobj	_	U-LOC
+10	!	!	.	_	5	punct	_	O
+
+1	Fossil	fossil	NN	pos2=JJ	2	compound	_	O
+2	fuels	fuel	NNS	_	4	nsubj	_	O
+3	are	be	VBP	_	4	aux	_	O
+4	killing	kill	VBG	_	0	root	_	O
+5	little	little	JJ	_	6	nmod	_	O
+6	girls	girl	NNS	_	4	dobj	_	O
+7	everywhere	everywhere	RB	_	4	advmod	_	O
+8	Use	use	VB	pos2=VBP	4	advcl	_	O
+9	ur	ur	NN	pos2=FW	8	dobj	_	O
+10	$	$	$	pos2=NN	9	nmod	_	O
+11	for	for	IN	_	8	prep	_	O
+12	green	green	JJ	_	13	nmod	_	O
+13	industry	industry	NN	_	11	pobj	_	O
+14	!	!	.	_	4	punct	_	O
+

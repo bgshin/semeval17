@@ -1,0 +1,9 @@
+1	@KevinWFaris	@kevinwfaris	NNS	pos2=NN	0	root	_	O
+2	@buzzbaker	@buzzbaker	UH	pos2=IN	7	discourse	_	O
+3	@SECNetwork	@secnetwork	NNP	pos2=VBP	5	compound	_	O
+4	Tim	tim	NNP	_	5	compound	_	B-PERSON
+5	Duncan	duncan	NNP	_	7	nsubj	_	L-PERSON
+6	still	still	RB	_	7	advmod	_	O
+7	has	have	VBZ	_	1	ccomp	_	O
+8	money	money	NN	_	7	dobj	_	O
+

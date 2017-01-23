@@ -1,0 +1,15 @@
+1	#FuckTrump	#fucktrump	ADD	pos2=VB	0	root	_	O
+2	@MicroRubio	@microrubio	NNP	pos2=IN	3	compound	_	O
+3	America	america	NNP	_	5	poss	_	U-GPE
+4	's	's	POS	_	3	case	_	O
+5	Nightmare	nightmare	NNP	pos2=NN	1	dobj	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	🇺🇸😱💤	🇺🇸😱💤	NFP	pos2=SYM	7	punct	_	O
+2	#trumptransitionteam	#trumptransitionteam	UH	pos2=XX	5	discourse	_	O
+3	#notmypresident	#notmypresident	UH	pos2=ADD	5	discourse	_	O
+4	#fucktrump	#fucktrump	UH	pos2=NFP	5	discourse	_	O
+5	#nohateinwhitehou	#nohateinwhitehou	UH	pos2=FW	7	discourse	_	O
+6	…	…	NFP	pos2=-LRB-	7	punct	_	O
+7	https://t.co/VFNMU8vLh2	#hlink#	ADD	_	0	root	_	O
+

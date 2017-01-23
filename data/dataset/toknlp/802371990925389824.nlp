@@ -1,0 +1,14 @@
+1	nothin	nothin	NN	pos2=UH	8	nsubj	_	O
+2	'	'	''	pos2=``	1	punct	_	O
+3	like	like	IN	pos2=UH	1	prep	_	O
+4	a	a	DT	_	6	det	_	O
+5	closet	closet	NN	_	6	compound	_	O
+6	bigot	bigot	NN	_	3	pobj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	lead	lead	VB	_	0	root	_	O
+9	the	the	DT	_	10	det	_	O
+10	dems	dems	NNS	pos2=NN	8	dobj	_	O
+11	.	.	.	_	8	punct	_	O
+
+1	https://t.co/j3do7zdsiQ	#hlink#	ADD	_	0	root	_	U-ORG
+

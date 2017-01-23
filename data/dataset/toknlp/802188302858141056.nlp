@@ -1,0 +1,29 @@
+1	Ben	ben	NNP	_	2	compound	_	B-PERSON
+2	Carson	carson	NNP	_	7	vocative	_	L-PERSON
+3	:	:	:	_	7	punct	_	O
+4	Running	run	VBG	_	7	csubj	_	O
+5	HUD	hud	NNP	_	4	dobj	_	U-ORG
+6	Would	would	MD	_	7	aux	_	O
+7	Be	be	VB	_	0	root	_	O
+8	A	a	DT	_	9	det	_	O
+9	Cinch	cinch	NN	pos2=NNP	7	attr	_	O
+10	For	for	IN	_	9	prep	_	O
+11	A	a	DT	_	12	det	_	O
+12	Guy	guy	NNP	pos2=NN	10	pobj	_	O
+13	Like	like	IN	_	12	prep	_	O
+14	Me	me	PRP	pos2=NNP	13	pobj	_	O
+15	!	!	.	_	7	punct	_	O
+
+1	-	-	NFP	pos2=SYM	2	punct	_	O
+2	https://t.co/iboJDbZ8pU	#hlink#	ADD	pos2=NN	5	nsubj	_	O
+3	The	the	DT	_	4	det	_	O
+4	intent	intent	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	liquidate	liquidate	VB	_	5	xcomp	_	O
+8	HUD	hud	NNP	_	9	compound	_	U-ORG
+9	assets	asset	NNS	_	7	dobj	_	O
+10	to	to	IN	_	7	prep	_	O
+11	Wall	wall	NNP	_	12	compound	_	O
+12	Street	street	NNP	_	10	pobj	_	O
+

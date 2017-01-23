@@ -1,0 +1,34 @@
+1	For	for	IN	_	0	root	_	O
+2	those	those	DT	_	1	pobj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	you	you	PRP	_	3	pobj	_	O
+5	who	who	WP	_	6	nsubj	_	O
+6	have	have	VBP	_	2	relcl	_	O
+7	yet	yet	RB	_	6	advmod	_	O
+8	to	to	TO	_	9	aux	_	O
+9	see	see	VB	_	6	xcomp	_	O
+10	.	.	.	_	7	acl	_	O
+
+1	BTW	btw	RB	_	18	advmod	_	O
+2	,	,	,	_	18	punct	_	O
+3	the	the	DT	_	6	det	_	O
+4	"	"	``	_	6	punct	_	O
+5	white	white	JJ	_	6	nmod	_	O
+6	guy	guy	NN	_	18	nsubj	_	O
+7	"	"	''	_	6	punct	_	O
+8	&	&	CC	_	6	cc	_	O
+9	Steve	steve	NNP	_	10	compound	_	B-PERSON
+10	Bannon	bannon	NNP	_	6	conj	_	L-PERSON
+11	(	(	-LRB-	_	6	punct	_	O
+12	Trump	trump	NNP	pos2=NN	16	poss	_	U-ORG
+13	's	's	POS	_	12	case	_	O
+14	right	right	JJ	_	15	nmod	_	O
+15	hand	hand	NN	_	16	compound	_	O
+16	man	man	NN	_	10	appos	_	O
+17	)	)	-RRB-	_	10	punct	_	O
+18	are	be	VBP	_	0	root	_	O
+19	tight	tight	JJ	_	18	acomp	_	O
+20	.	.	.	_	18	punct	_	O
+
+1	https://t.co/aMcRQdUaO5	#hlink#	ADD	_	0	root	_	U-ORG
+

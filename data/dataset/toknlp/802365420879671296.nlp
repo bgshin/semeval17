@@ -1,0 +1,16 @@
+1	B.	b.	NNP	pos2=LS	2	compound	_	B-PERSON
+2	Comey	comey	NNP	_	4	poss	_	I-PERSON
+3	’s	's	POS	_	2	case	_	L-PERSON
+4	failure	failure	NN	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	solve	solve	VB	_	4	acl	_	O
+7	them	them	PRP	_	6	dobj	_	O
+8	,	,	,	_	4	punct	_	O
+9	not	not	RB	_	14	neg	_	O
+10	a	a	DT	_	14	det	_	O
+11	very	very	RB	_	12	advmod	_	O
+12	disturbing	disturbing	JJ	_	14	nmod	_	O
+13	—	-	HYPH	_	14	punct	_	O
+14	record	record	NN	_	6	dobj	_	O
+15	.	.	.	_	4	punct	_	O
+

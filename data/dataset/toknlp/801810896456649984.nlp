@@ -1,0 +1,11 @@
+1	@George_Hill3	@george_hill0	NN	pos2=NNS	3	nsubj	_	O
+2	@utahjazz	@utahjazz	UH	pos2=TO	3	discourse	_	O
+3	extend	extend	VB	pos2=VBP	0	root	_	O
+4	this	this	DT	_	5	det	_	O
+5	man	man	NN	_	7	poss	_	O
+6	's	's	POS	_	5	case	_	O
+7	contract	contract	NN	_	3	dobj	_	O
+8	!	!	.	_	3	punct	_	O
+
+1	#TheFuture	#thefuture	NN	pos2=ADD	0	root	_	O
+

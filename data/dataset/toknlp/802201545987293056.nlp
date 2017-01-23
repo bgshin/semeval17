@@ -1,0 +1,13 @@
+1	I	I	PRP	_	4	nsubj	_	O
+2	'm	be	VBP	_	4	aux	_	O
+3	not	not	RB	_	4	neg	_	O
+4	drinking	drink	VBG	_	0	root	_	O
+5	hate	hate	NN	pos2=VB	4	dobj	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	#DrainTheSwamp	#draintheswamp	ADD	pos2=XX	5	nmod	_	O
+2	#BoycottPepsi	#boycottpepsi	GW	pos2=ADD	5	nmod	_	O
+3	#NeverRomney	#neverromney	GW	pos2=ADD	5	nmod	_	B-WORK_OF_ART
+4	#MAGA	#maga	GW	pos2=NFP	5	nmod	_	L-WORK_OF_ART
+5	https://t.co/CIwW6t4xCJ	#hlink#	ADD	pos2=NN	0	root	_	O
+

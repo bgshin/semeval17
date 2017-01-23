@@ -1,0 +1,30 @@
+1	#GilmoreGirlstop4	#gilmoregirlstop0	NN	pos2=UH	5	punct	_	O
+2	yes	yes	UH	_	5	discourse	_	O
+3	,	,	,	_	5	punct	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	'm	be	VBP	_	0	root	_	O
+6	behind	behind	RB	pos2=JJ	5	advmod	_	O
+7	.	.	.	_	5	punct	_	O
+
+1	(	(	-LRB-	_	4	punct	_	O
+2	Secret	secret	JJ	pos2=NNP	3	nmod	_	O
+3	5	0	CD	_	4	nsubj	_	U-CARDINAL
+4	is	be	VBZ	_	0	root	_	O
+5	Dave	dave	NNP	_	6	compound	_	B-PERSON
+6	Rygalski	rygalski	NNP	_	4	attr	_	L-PERSON
+7	)	)	-RRB-	_	4	punct	_	O
+8	4	0	LS	pos2=CD	11	meta	_	U-CARDINAL
+9	)	)	-RRB-	_	8	punct	_	O
+10	The	the	DT	_	11	det	_	O
+11	Harpist	harpist	NN	pos2=NNP	4	attr	_	O
+12	from	from	IN	_	11	prep	_	O
+13	season	season	NN	_	12	pobj	_	O
+14	13	0	CD	_	13	nmod	_	O
+15	)	)	-RRB-	_	11	punct	_	O
+16	Babette2	babette0	NN	pos2=NNS	18	nmod	_	O
+17	)	)	-RRB-	_	4	punct	_	O
+18	Luke1	luke0	NN	pos2=NNP	13	npadvmod	_	O
+19	)	)	-RRB-	_	18	punct	_	O
+20	Emily	emily	NNP	pos2=RB	21	compound	_	B-PERSON
+21	#teamJess	#teamjess	NNP	pos2=.	0	root	_	L-PERSON
+

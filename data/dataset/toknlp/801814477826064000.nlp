@@ -1,0 +1,22 @@
+1	US	us	NNP	pos2=NN	2	compound	_	U-GPE
+2	chicken	chicken	NN	_	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	flour	flour	NN	_	2	appos	_	O
+5	sold	sell	VBN	_	4	acl	_	O
+6	in	in	IN	pos2=RP	5	prep	_	O
+7	#DRCongo	#drcongo	NNP	pos2=NN	6	pobj	_	U-LOC
+8	via	via	IN	_	5	prep	_	O
+9	blacklisted	blacklist	VBN	pos2=VBD	10	nmod	_	O
+10	Tajideen	tajideen	NNP	pos2=NNPS	8	pobj	_	U-PERSON
+11	.	.	.	_	2	punct	_	O
+
+1	Great	great	JJ	_	2	nmod	_	O
+2	piece	piece	NN	_	9	dep	_	O
+3	in	in	IN	_	2	prep	_	O
+4	WSJ	wsj	NNP	_	3	pobj	_	U-ORG
+5	@rob_barry	@rob_barry	IN	pos2=NNP	2	prep	_	O
+6	@csstewart	@csstewart	NN	pos2=XX	5	pobj	_	O
+7	:	:	:	_	2	punct	_	O
+8	https://t.co/aHDpr6sDu3"	#hlink#	ADD	_	9	compound	_	O
+9	#Hezbollah	#hezbollah	NNP	pos2=ADD	0	root	_	O
+

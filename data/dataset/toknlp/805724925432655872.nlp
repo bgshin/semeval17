@@ -1,0 +1,20 @@
+1	The	the	DT	_	3	det	_	O
+2	AMERICAN	american	JJ	pos2=NNP	3	nmod	_	O
+3	INSTITUTE	institute	NNP	pos2=NN	7	nsubj	_	O
+4	OF	of	IN	_	3	prep	_	O
+5	HOMEOPATHY	homeopathy	NN	pos2=NNP	4	pobj	_	O
+6	just	just	RB	_	7	advmod	_	O
+7	demonstrated	demonstrate	VBD	_	0	root	_	O
+8	their	their	PRP$	_	10	poss	_	O
+9	profound	profound	JJ	_	10	nmod	_	O
+10	incompetence	incompetence	NN	_	7	dobj	_	O
+11	.	.	.	_	7	punct	_	O
+
+1	comedy	comedy	NN	pos2=JJ	2	compound	_	O
+2	gold	gold	NN	_	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	https://t.co/itruuyceww	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@edzardernst	@edzardernst	NN	pos2=JJ	2	pobj	_	O
+

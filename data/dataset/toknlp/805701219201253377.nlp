@@ -1,0 +1,11 @@
+1	And	and	CC	_	4	cc	_	O
+2	now	now	RB	_	4	advmod	_	O
+3	:	:	:	_	4	punct	_	O
+4	Ramin	ramin	NNP	_	5	compound	_	B-PERSON
+5	Djawadi	djawadi	NNP	_	0	root	_	L-PERSON
+6	-	-	,	pos2=:	5	punct	_	O
+7	The	the	DT	pos2=NNP	8	det	_	O
+8	Maze	maze	NNP	pos2=NN	5	appos	_	O
+9	https://t.co/8bIecDhGQ2	#hlink#	ADD	pos2=NNP	10	compound	_	O
+10	#Westworld	#westworld	NNP	pos2=-RRB-	5	appos	_	O
+

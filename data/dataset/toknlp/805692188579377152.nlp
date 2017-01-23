@@ -1,0 +1,19 @@
+1	UK	uk	NNP	_	2	compound	_	B-ORG
+2	Department	department	NNP	_	7	nsubj	_	I-ORG
+3	for	for	IN	_	2	prep	_	I-ORG
+4	International	international	NNP	_	5	compound	_	I-ORG
+5	Development	development	NNP	_	3	pobj	_	L-ORG
+6	has	have	VBZ	_	7	aux	_	O
+7	given	give	VBN	_	0	root	_	O
+8	@gavi	@gavi	VBN	pos2=PRP$	11	nmod	_	O
+9	highest	high	JJS	pos2=RBS	11	nmod	_	O
+10	possible	possible	JJ	_	11	nmod	_	O
+11	rating	rating	NN	_	7	dobj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	its	its	PRP$	_	17	poss	_	O
+14	latest	late	JJS	_	17	nmod	_	O
+15	Multilateral	multilateral	NNP	pos2=JJ	17	compound	_	B-ORG
+16	Development	development	NNP	pos2=NN	17	compound	_	I-ORG
+17	Review	review	NNP	pos2=NNPS	12	pobj	_	L-ORG
+18	#vaccines	#vaccines	POS	pos2=ADD	17	case	_	O
+

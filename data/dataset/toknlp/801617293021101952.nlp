@@ -1,0 +1,8 @@
+1	google	google	NNP	pos2=JJ	2	compound	_	O
+2	earth	earth	NN	_	3	compound	_	O
+3	VR	vr	NNP	pos2=NN	5	nsubj	_	U-ORG
+4	will	will	MD	_	5	aux	_	O
+5	fuck	fuck	VB	_	0	root	_	O
+6	u	u	PRP	pos2=RP	5	dobj	_	O
+7	up	up	RP	pos2=RB	5	prt	_	O
+

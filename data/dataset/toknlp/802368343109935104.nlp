@@ -1,0 +1,19 @@
+1	@CraigRBrittain	@craigrbrittain	ADD	pos2=NN	4	nsubj	_	O
+2	@StoptheBullUSA	@stopthebullusa	IN	pos2=ADD	1	prep	_	O
+3	This	this	DT	_	2	pobj	_	O
+4	is	be	VBZ	_	0	root	_	O
+5	Hillary	hillary	NNP	_	6	nsubj	_	U-PERSON
+6	being	be	VBG	_	4	ccomp	_	O
+7	vindictive	vindictive	JJ	_	6	acomp	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	Meanwhile	meanwhile	RB	_	7	advmod	_	O
+2	,	,	,	_	7	punct	_	O
+3	Trump	trump	NNP	_	5	poss	_	U-ORG
+4	's	's	POS	_	3	case	_	O
+5	transition	transition	NN	_	7	nsubj	_	O
+6	is	be	VBZ	_	7	aux	_	O
+7	going	go	VBG	_	0	root	_	O
+8	well	well	RB	_	7	advmod	_	O
+9	.	.	.	_	7	punct	_	O
+

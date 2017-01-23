@@ -1,0 +1,13 @@
+1	Chavez	chavez	NNP	_	0	root	_	U-PERSON
+2	,	,	,	_	1	punct	_	O
+3	Castro	castro	NNP	_	1	appos	_	U-PERSON
+4	...	..	.	pos2=,	1	punct	_	O
+
+1	feeling	feel	VBG	pos2=NN	0	root	_	O
+2	nervous	nervous	JJ	_	1	acomp	_	O
+3	,	,	,	_	1	punct	_	O
+4	Maduro	maduro	NNP	_	1	vocative	_	U-PERSON
+5	?	?	.	_	1	punct	_	O
+
+1	https://t.co/2fjTwVqqvu	#hlink#	ADD	_	0	root	_	U-ORG
+

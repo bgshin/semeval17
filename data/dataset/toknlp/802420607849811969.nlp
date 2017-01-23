@@ -1,0 +1,24 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	agree	agree	VBP	_	0	root	_	O
+3	wiv	wiv	IN	pos2=JJ	2	prep	_	O
+4	verifications	verification	NNS	_	3	pobj	_	O
+5	and	and	CC	_	4	cc	_	O
+6	all	all	DT	pos2=RB	7	advmod	_	O
+7	but	but	CC	pos2=RB	2	cc	_	O
+8	let	let	VB	pos2=VBP	2	conj	_	O
+9	s	s	PRP	_	11	nsubj	_	O
+10	not	not	RB	_	11	neg	_	O
+11	forget	forget	VB	_	8	ccomp	_	O
+12	its	its	PRP$	pos2=PRP	15	poss	_	O
+13	just	just	RB	_	15	advmod	_	O
+14	a	a	DT	_	15	det	_	O
+15	means	means	NN	pos2=NNS	11	dobj	_	O
+16	of	of	IN	_	15	prep	_	O
+17	social	social	JJ	_	18	nmod	_	O
+18	security	security	NN	_	16	pobj	_	O
+19	just	just	RB	_	21	advmod	_	O
+20	to	to	TO	_	21	aux	_	O
+21	get	get	VB	_	11	xcomp	_	O
+22	ppl	ppl	NNS	pos2=GW	21	dobj	_	O
+23	goinhttps://t.co/fMxBw0FCJW	#hlink#	ADD	_	18	appos	_	O
+

@@ -1,0 +1,22 @@
+1	During	during	IN	_	17	prep	_	O
+2	pres.	pres.	FW	pos2=CC	5	nmod	_	O
+3	campaign	campaign	NN	_	2	pobj	_	O
+4	when	when	WRB	_	7	advmod	_	O
+5	Trump	trump	NNP	pos2=NN	7	nsubj	_	U-ORG
+6	was	be	VBD	_	7	aux	_	O
+7	telling	tell	VBG	_	17	advcl	_	O
+8	Clinton	clinton	NNP	_	7	dobj	_	U-PERSON
+9	to	to	TO	pos2=IN	10	aux	_	O
+10	return	return	VB	_	7	xcomp	_	O
+11	$	$	$	pos2=RB	10	advmod	_	O
+12	to	to	IN	_	10	prep	_	O
+13	Saudi	saudi	NNP	_	14	compound	_	B-GPE
+14	Arabia	arabia	NNP	_	12	pobj	_	L-GPE
+15	,	,	,	_	17	punct	_	O
+16	Trump	trump	NNP	_	17	nsubj	_	U-ORG
+17	registered	register	VBD	_	0	root	_	O
+18	8	0	CD	_	19	nmod	_	U-CARDINAL
+19	companies	company	NNS	_	17	dobj	_	O
+20	t	t	IN	pos2=GW	17	prep	_	O
+21	herehttps://t.co/MvuZREAGN4	#hlink#	ADD	pos2=NN	20	pobj	_	O
+

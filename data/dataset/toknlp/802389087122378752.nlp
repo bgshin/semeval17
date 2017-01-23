@@ -1,0 +1,20 @@
+1	@IanHartley	@ianhartley	UH	pos2=NNP	6	discourse	_	O
+2	_	_	SYM	pos2=''	6	punct	_	O
+3	@AP	@ap	RP	pos2=IN	6	mark	_	O
+4	WE	we	PRP	_	6	nsubj	_	O
+5	could	could	MD	_	6	aux	_	O
+6	add	add	VB	_	0	root	_	O
+7	Henry	henry	NNP	_	8	compound	_	B-PERSON
+8	Kissinger	kissinger	NNP	_	6	dobj	_	L-PERSON
+9	the	the	DT	_	10	det	_	O
+10	Rothschild	rothschild	NNP	_	8	appos	_	U-PERSON
+11	's	's	POS	_	10	case	_	O
+12	,	,	,	_	8	punct	_	O
+13	the	the	DT	_	14	det	_	O
+14	Rockefeller	rockefeller	NNP	_	11	meta	_	U-ORG
+15	's	's	POS	pos2=NNP	14	case	_	O
+16	&	&	CC	_	14	cc	_	O
+17	George	george	NNP	_	18	compound	_	B-PERSON
+18	Soros	soros	NNP	_	14	conj	_	L-PERSON
+19	!	!	.	_	6	punct	_	O
+

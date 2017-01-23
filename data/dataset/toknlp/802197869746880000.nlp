@@ -1,0 +1,22 @@
+1	@quyyum10	@quyyum0	NN	pos2=LS	2	compound	_	O
+2	@EcoSexuality	@ecosexuality	NN	pos2=ADD	4	compound	_	O
+3	@realDonaldTrump	@realdonaldtrump	NNP	pos2=NN	4	compound	_	B-ORG
+4	Bull	bull	NNP	pos2=NN	0	root	_	L-ORG
+5	.	.	.	_	4	punct	_	O
+
+1	#Trump	#trump	NN	pos2=NNP	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	at	at	IN	_	2	prep	_	O
+4	Mar-A-Lago	mar-a-lago	NNP	_	3	pobj	_	U-FAC
+5	all	all	DT	_	6	det	_	B-DATE
+6	weekend	weekend	NN	_	2	npadvmod	_	L-DATE
+7	--	--	:	pos2=,	2	punct	_	O
+8	probably	probably	RB	_	9	advmod	_	O
+9	playing	play	VBG	_	2	advcl	_	O
+10	#golf	#golf	PRP	pos2=NNP	9	dobj	_	O
+11	with	with	IN	_	9	prep	_	O
+12	"	"	``	_	13	punct	_	O
+13	elites	elite	NNS	_	11	pobj	_	O
+14	"	"	''	_	13	punct	_	O
+15	#DrainTheSwamp	#draintheswamp	NN	pos2=ADD	9	npadvmod	_	O
+

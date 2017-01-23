@@ -1,0 +1,14 @@
+1	@WinniFaulring	@winnifaulring	LS	pos2=NN	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	TIME	time	NN	_	2	compound	_	U-ORG
+2	man	man	NN	pos2=UH	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	B-DATE
+5	year	year	NN	_	3	pobj	_	L-DATE
+6	.	.	.	_	2	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	Deplorables	deplorables	NNP	pos2=NNPS	0	root	_	U-ORG
+3	.	.	.	_	2	punct	_	O
+

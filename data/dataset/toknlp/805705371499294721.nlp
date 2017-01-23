@@ -1,0 +1,15 @@
+1	Separating	separate	VBG	_	0	root	_	O
+2	Fact	fact	NN	pos2=NNP	1	dobj	_	O
+3	from	from	IN	_	1	prep	_	O
+4	Fiction	fiction	NN	pos2=NNP	6	compound	_	B-ORG
+5	-	-	HYPH	_	6	punct	_	I-ORG
+6	Voter	voter	NNP	pos2=NN	7	compound	_	L-ORG
+7	Suppression	suppression	NN	pos2=NNP	3	pobj	_	O
+8	-	-	:	pos2=,	14	punct	_	O
+9	the	the	DT	_	14	det	_	B-ORG
+10	Real	real	NNP	pos2=JJ	11	compound	_	I-ORG
+11	Election	election	NNP	pos2=NN	14	nmod	_	I-ORG
+12	Rigging	rigging	GW	pos2=VBG	14	nmod	_	L-ORG
+13	https://t.co/mlNcB7FlNx	#hlink#	ADD	pos2=NNP	14	nmod	_	O
+14	@AriBerman	@ariberman	ADD	pos2=-RRB-	1	dep	_	U-ORG
+

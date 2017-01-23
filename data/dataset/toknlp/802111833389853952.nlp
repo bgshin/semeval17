@@ -1,0 +1,7 @@
+1	3	0	CD	_	2	nmod	_	B-DATE
+2	yrs	yr	NNS	_	6	dep	_	L-DATE
+3	already	already	RB	_	4	advmod	_	O
+4	😭😭😭#3yearofMidnightmemories	😭😭😭0yearofmidnightmemories	VBZ	pos2=VBP	6	nmod	_	O
+5	#onedirection	#onedirection	ADD	pos2=GW	6	punct	_	O
+6	https://t.co/beqXMnUN3C	#hlink#	ADD	_	0	root	_	O
+

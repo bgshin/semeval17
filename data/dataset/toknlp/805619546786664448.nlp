@@ -1,0 +1,27 @@
+1	Millions	#crd#	NNS	pos2=NNPS	3	nmod	_	O
+2	$	$	$	pos2=-RRB-	3	nmod	_	O
+3	s	s	CD	pos2=PRP	0	root	_	O
+4	spent	spend	VBN	_	3	acl	_	O
+5	on	on	IN	_	4	prep	_	O
+6	pall	pall	NN	pos2=JJ	7	compound	_	O
+7	care	care	NN	_	5	pobj	_	O
+8	in	in	IN	_	4	prep	_	O
+9	Aus	aus	NNP	_	8	pobj	_	U-GPE
+10	.	.	.	_	6	punct	_	O
+
+1	Time	time	NN	pos2=NNP	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	spend	spend	VB	_	1	relcl	_	O
+4	on	on	IN	pos2=RP	3	prep	_	O
+5	#AssistedDying	#assisteddying	VBG	pos2=$	4	pcomp	_	O
+6	#VoluntaryEuthansia	#voluntaryeuthansia	NN	pos2=NNP	5	dobj	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	want	want	VBP	_	0	root	_	O
+3	both	both	DT	pos2=RB	2	advmod	_	O
+4	!	!	.	_	2	punct	_	O
+
+1	https://t.co/yKTyZa2Q67	#hlink#	ADD	_	0	root	_	O
+2	@abcnews	@abcnews	UH	pos2=-RRB-	1	discourse	_	O
+

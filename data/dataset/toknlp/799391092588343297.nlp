@@ -1,0 +1,20 @@
+1	Happy	happy	JJ	_	3	nmod	_	O
+2	belated	belated	JJ	pos2=VBN	3	nmod	_	O
+3	#NationalFastFoodDay!I	#nationalfastfoodday!i	NNS	pos2=NN	4	nsubj	_	O
+4	want	want	VBP	pos2=VB	0	root	_	O
+5	our	our	PRP$	_	6	poss	_	O
+6	#McDonalds	#mcdonalds	NNS	pos2=NN	4	dobj	_	O
+7	with	with	IN	_	4	prep	_	O
+8	#McDelivery	#mcdelivery	NNP	pos2=NN	7	pobj	_	B-ORG
+9	&	&	CC	_	8	cc	_	I-ORG
+10	#ShrimpBurgers	#shrimpburgers	NNS	pos2=ADD	8	conj	_	L-ORG
+11	like	like	UH	pos2=IN	4	discourse	_	O
+12	in	in	IN	pos2=FW	4	prep	_	O
+13	#Seoul	#seoul	NNP	pos2=FW	12	pobj	_	U-GPE
+14	!	!	.	_	4	punct	_	O
+
+1	My	my	PRP$	_	2	poss	_	O
+2	fav	fav	NN	pos2=GW	4	dep	_	O
+3	…	…	NFP	pos2=,	4	punct	_	O
+4	https://t.co/VF9TvcCmKO	#hlink#	ADD	_	0	root	_	U-GPE
+

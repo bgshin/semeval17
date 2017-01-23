@@ -1,0 +1,16 @@
+1	HOT	hot	JJ	pos2=NN	2	nmod	_	O
+2	eNews	enews	NNP	pos2=NN	7	nsubj	_	O
+3	Now	now	RB	_	2	advmod	_	O
+4	:	:	:	_	7	punct	_	O
+5	Donald	donald	NNP	_	6	compound	_	B-PERSON
+6	Trump	trump	NNP	_	7	nsubj	_	L-PERSON
+7	Appoints	appoint	VBZ	_	0	root	_	O
+8	2	0	CD	_	9	nmod	_	O
+9	Females	female	NNS	pos2=NNPS	7	dobj	_	O
+10	in	in	IN	_	9	prep	_	O
+11	Cabinet	cabinet	NNP	_	12	compound	_	B-PRODUCT
+12	Selecti	selecti	NNP	_	10	pobj	_	L-PRODUCT
+13	...	..	.	pos2=,	7	punct	_	O
+
+1	https://t.co/1si8xbqXrs	#hlink#	ADD	_	0	root	_	U-ORG
+

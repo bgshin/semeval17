@@ -1,0 +1,30 @@
+1	i	I	PRP	_	2	nsubj	_	O
+2	'm	be	VBP	_	0	root	_	O
+3	not	not	RB	_	2	neg	_	O
+4	even	even	RB	_	5	advmod	_	O
+5	catholic	catholic	JJ	_	2	acomp	_	O
+6	,	,	,	_	2	punct	_	O
+7	but	but	CC	_	2	cc	_	O
+8	pope	pope	NN	pos2=IN	9	compound	_	O
+9	francis	francis	NN	pos2=NNP	10	nsubj	_	O
+10	is	be	VBZ	_	2	conj	_	O
+11	my	my	PRP$	_	12	poss	_	O
+12	dude	dude	NN	_	10	attr	_	O
+13	.	.	.	_	10	punct	_	O
+
+1	like	like	UH	pos2=IN	4	discourse	_	O
+2	i	I	PRP	_	4	nsubj	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	need	need	VBP	pos2=VB	0	root	_	O
+5	him	him	PRP	_	4	dobj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	hug	hug	VB	_	4	xcomp	_	O
+8	me	me	PRP	_	7	dobj	_	O
+9	and	and	CC	_	7	cc	_	O
+10	tell	tell	VB	_	7	conj	_	O
+11	me	me	PRP	_	10	dative	_	O
+12	everything	everything	NN	_	13	nsubj	_	O
+13	is	be	VBZ	_	10	ccomp	_	O
+14	okay	okay	JJ	_	13	acomp	_	O
+15	.	.	.	_	4	punct	_	O
+

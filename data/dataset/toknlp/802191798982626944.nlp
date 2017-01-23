@@ -1,0 +1,17 @@
+1	you	you	PRP	_	3	nsubj	_	O
+2	did	do	VBD	_	3	aux	_	O
+3	have	have	VB	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	valentines	valentine	NNS	pos2=NNP	3	dobj	_	O
+6	last	last	JJ	_	7	nmod	_	B-DATE
+7	year	year	NN	_	8	compound	_	L-DATE
+8	tho	tho	NN	pos2=RB	3	punct	_	O
+9	.	.	.	_	3	punct	_	O
+
+1	😕🤔	😕🤔	NN	pos2=NNP	0	root	_	O
+2	but	but	CC	_	1	cc	_	O
+3	that	that	DT	_	4	nsubj	_	O
+4	's	's	VBZ	_	1	conj	_	O
+5	cool	cool	JJ	pos2=RB	4	acomp	_	O
+6	too	too	RB	_	4	advmod	_	O
+

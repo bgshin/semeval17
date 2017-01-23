@@ -1,0 +1,20 @@
+1	Riding	ride	VBG	pos2=NN	7	csubj	_	O
+2	in	in	IN	_	1	prep	_	O
+3	this	this	DT	_	5	det	_	O
+4	Tesla	tesla	NNP	_	5	compound	_	U-ORG
+5	model	model	NN	pos2=NNP	2	pobj	_	O
+6	s	s	POS	pos2=NN	5	case	_	O
+7	is	be	VBZ	_	0	root	_	O
+8	pretty	pretty	RB	_	9	advmod	_	O
+9	nice	nice	JJ	_	7	acomp	_	O
+10	.	.	.	_	7	punct	_	O
+
+1	Almost	almost	RB	_	3	advmod	_	O
+2	as	as	RB	_	3	advmod	_	O
+3	nice	nice	JJ	_	0	root	_	O
+4	as	as	IN	_	3	prep	_	O
+5	my	my	PRP$	_	8	poss	_	O
+6	2010	0	CD	_	8	nmod	_	U-DATE
+7	Nissan	nissan	NNP	_	8	compound	_	U-ORG
+8	Altima	altima	NNP	_	4	pobj	_	U-PRODUCT
+

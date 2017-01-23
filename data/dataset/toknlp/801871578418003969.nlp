@@ -1,0 +1,18 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=JJ	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	https://t.co/RWDhWTcl0s	#hlink#	ADD	pos2=NN	5	appos	_	O
+7	Anti-Trump	anti-trump	NNP	pos2=JJ	8	compound	_	O
+8	Riots	riot	NNS	pos2=NNPS	4	pobj	_	O
+9	,	,	,	_	8	punct	_	O
+10	Left	left	JJ	pos2=NNP	12	compound	_	O
+11	-	-	HYPH	_	12	punct	_	O
+12	Coast	coast	NNP	pos2=NN	13	compound	_	O
+13	Secession	secession	NNP	pos2=NN	8	appos	_	O
+14	,	,	,	_	8	punct	_	O
+15	and	and	CC	_	2	cc	_	O
+16	Katy	katy	NNP	_	17	compound	_	B-PERSON
+17	Perry	perry	NNP	_	8	appos	_	L-PERSON
+

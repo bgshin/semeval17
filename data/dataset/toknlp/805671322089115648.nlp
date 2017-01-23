@@ -1,0 +1,17 @@
+1	#california	#california	NNP	pos2=UH	3	compound	_	O
+2	Sonoma	sonoma	NNP	_	3	compound	_	B-GPE
+3	County	county	NNP	_	5	nsubj	_	L-GPE
+4	to	to	TO	_	5	aux	_	O
+5	take	take	VB	_	0	root	_	O
+6	up	up	RP	_	5	prt	_	O
+7	pivotal	pivotal	JJ	_	8	nmod	_	O
+8	decision	decision	NN	_	5	dobj	_	O
+9	over	over	IN	pos2=RP	8	prep	_	O
+10	medical	medical	JJ	_	12	nmod	_	O
+11	#marijuana	#marijuana	GW	pos2=NN	12	nmod	_	O
+12	regulation	regulation	NN	pos2=GW	9	pobj	_	O
+13	https://t.co/FdHvPKfMFX	#hlink#	ADD	pos2=NN	8	acl	_	O
+14	via	via	IN	_	5	prep	_	O
+15	@marinij	@marinij	XX	pos2=PRP	14	pobj	_	O
+16	#cannabis	#cannabis	UH	pos2=XX	5	discourse	_	O
+

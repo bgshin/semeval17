@@ -1,0 +1,14 @@
+1	Oakland	oakland	NNP	_	2	compound	_	U-GPE
+2	Police	police	NNP	pos2=NNS	6	nsubj	_	O
+3	Under	under	IN	pos2=NNP	2	prep	_	O
+4	Fire	fire	NNP	pos2=NN	3	pobj	_	O
+5	for	for	IN	_	0	root	_	O
+6	Breaking	break	VBG	_	5	pcomp	_	O
+7	Up	up	RP	_	6	prt	_	O
+8	Violent	violent	JJ	pos2=NNP	10	nmod	_	O
+9	Anti-Trump	anti-trump	JJ	pos2=NNP	10	nmod	_	O
+10	Riots	riot	NNS	pos2=NNPS	6	dobj	_	O
+11	https://t.co/3DiauWtm99	#hlink#	ADD	pos2=VBP	6	npadvmod	_	O
+12	via	via	IN	_	6	prep	_	O
+13	@LifeZette	@lifezette	NN	pos2=ADD	12	pobj	_	O
+

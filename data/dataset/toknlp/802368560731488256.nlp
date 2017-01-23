@@ -1,0 +1,25 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	understand	understand	VBP	_	0	root	_	O
+3	he	he	PRP	_	6	nsubjpass	_	O
+4	has	have	VBZ	_	6	aux	_	O
+5	been	be	VBN	_	6	auxpass	_	O
+6	asked	ask	VBN	_	2	ccomp	_	O
+7	to	to	TO	pos2=IN	8	aux	_	O
+8	interview	interview	VB	pos2=NN	6	xcomp	_	O
+9	for	for	IN	_	8	prep	_	O
+10	a	a	DT	_	13	det	_	O
+11	#Trump	#trump	NNP	pos2=JJ	13	compound	_	U-ORG
+12	cabinet	cabinet	NN	_	13	compound	_	O
+13	position	position	NN	_	9	pobj	_	O
+14	.	.	.	_	2	punct	_	O
+
+1	he	he	PRP	_	5	nsubj	_	O
+2	should	should	MD	_	5	dep	_	O
+3	--	--	:	_	5	punct	_	O
+4	he	he	PRP	_	5	nsubj	_	O
+5	's	's	VBZ	_	0	root	_	O
+6	a	a	DT	pos2=GW	7	det	_	O
+7	#TrumpPosterChild	#trumpposterchild	NN	pos2=GW	5	attr	_	O
+8	…	…	NFP	pos2=-LRB-	9	punct	_	O
+9	https://t.co/0oq7q7ZgsJ	#hlink#	ADD	_	5	dep	_	O
+

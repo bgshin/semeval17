@@ -1,0 +1,11 @@
+1	@NYMag	@nymag	ADD	pos2=NNS	6	nsubj	_	O
+2	@ed_kilgore	@ed_kilgore	IN	pos2=VBP	1	prep	_	O
+3	A	a	DT	_	5	det	_	O
+4	better	good	JJR	_	5	nmod	_	O
+5	plan	plan	NN	_	2	pobj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	just	just	RB	_	9	advmod	_	O
+8	mass	mass	NN	pos2=JJ	9	compound	_	O
+9	euthanasia	euthanasia	NN	_	6	attr	_	O
+10	.	.	.	_	6	punct	_	O
+

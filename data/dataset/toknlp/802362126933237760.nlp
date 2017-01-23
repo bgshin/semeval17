@@ -1,0 +1,29 @@
+1	@rtoberl	@rtoberl	UH	pos2=MD	5	discourse	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	HAVE	have	VBP	_	5	aux	_	O
+4	ALWAYS	always	RB	_	5	advmod	_	O
+5	KNOWN	know	VBN	pos2=JJ	0	root	_	O
+6	THT	tht	IN	_	8	mark	_	O
+7	THIS	this	DT	_	8	nsubj	_	O
+8	WAS	be	VBD	pos2=NN	5	ccomp	_	O
+9	A	a	DT	_	10	det	_	O
+10	HOAX	hoax	NN	_	8	attr	_	O
+11	SINCE	since	IN	_	13	mark	_	O
+12	IT	it	PRP	pos2=NNP	13	nsubj	_	O
+13	STARTD	start	VBD	pos2=VBZ	8	advcl	_	O
+14	TO	to	TO	_	16	aux	_	O
+15	BE	be	VB	_	16	auxpass	_	O
+16	PROMOTED	promote	VBN	_	13	xcomp	_	O
+17	BY	by	IN	_	16	agent	_	O
+18	THE	the	DT	_	20	det	_	O
+19	MEDIAS	media	NNS	pos2=NN	20	compound	_	O
+20	LEFTISTS	leftist	NNS	pos2=NNPS	17	pobj	_	O
+21	&	&	CC	_	20	cc	_	O
+22	ECO-LEFTISTS	eco-leftists	NNS	pos2=NN	20	conj	_	O
+23	.	.	.	_	5	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	've	have	VBP	_	3	aux	_	O
+3	studied	study	VBN	pos2=VBD	0	root	_	O
+4	Geology	geology	NN	pos2=NNP	3	dobj	_	O
+

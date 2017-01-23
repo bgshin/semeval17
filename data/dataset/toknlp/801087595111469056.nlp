@@ -1,0 +1,27 @@
+1	…	…	NFP	pos2=UH	4	discourse	_	O
+2	but	but	CC	_	4	cc	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	’m	be	VBP	_	16	ccomp	_	O
+5	still	still	RB	_	4	advmod	_	O
+6	surprised	surprised	JJ	_	4	acomp	_	O
+7	anybody	anybody	NN	_	8	nsubj	_	O
+8	cares	care	VBZ	_	6	ccomp	_	O
+9	about	about	IN	_	8	prep	_	O
+10	my	my	PRP$	_	11	poss	_	O
+11	work	work	NN	_	9	pobj	_	O
+12	at	at	RB	_	13	advmod	_	O
+13	all	all	RB	_	8	advmod	_	O
+14	,	,	,	_	16	punct	_	O
+15	”	"	''	_	16	punct	_	O
+16	said	say	VBD	_	0	root	_	O
+17	Daniel	daniel	NNP	_	18	compound	_	B-PERSON
+18	Borzutzky	borzutzky	NNP	_	16	nsubj	_	L-PERSON
+19	,	,	,	_	18	punct	_	O
+20	who	who	WP	_	21	nsubj	_	O
+21	won	win	VBD	_	18	relcl	_	O
+22	#NBAwards	#nbawards	NNS	pos2=XX	21	dobj	_	O
+23	for	for	IN	_	21	prep	_	O
+24	Poetry	poetry	NN	_	23	pobj	_	O
+25	:	:	:	_	16	punct	_	O
+26	https://t.co/BEKLzIadt3	#hlink#	ADD	_	16	dep	_	O
+

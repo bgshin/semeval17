@@ -1,0 +1,25 @@
+1	@Rachael_Swindon	@rachael_swindon	ADD	pos2=CC	6	nsubj	_	O
+2	nasty	nasty	JJ	_	6	advcl	_	O
+3	and	and	CC	_	2	cc	_	O
+4	offensive	offensive	JJ	pos2=NN	2	conj	_	O
+5	-	-	:	pos2=HYPH	6	punct	_	O
+6	assumes	assume	VBZ	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	foreigner	foreigner	NN	_	10	nsubj	_	O
+9	DID	do	VBD	pos2=NNP	10	aux	_	O
+10	take	take	VB	_	6	ccomp	_	O
+11	a	a	DT	_	13	det	_	O
+12	local	local	JJ	_	13	nmod	_	O
+13	job	job	NN	_	10	dobj	_	O
+14	...	..	.	_	6	punct	_	O
+
+1	and	and	CC	_	2	cc	_	O
+2	says	say	VBZ	_	0	root	_	O
+3	nothing	nothing	NN	_	2	dobj	_	O
+4	about	about	IN	_	3	prep	_	O
+5	failure	failure	NN	_	4	pobj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	enforce	enforce	VB	_	5	acl	_	O
+8	minimum	minimum	JJ	pos2=NN	9	nmod	_	O
+9	wage	wage	NN	_	7	dobj	_	O
+

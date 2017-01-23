@@ -1,0 +1,11 @@
+1	@KTHopkins	@kthopkins	VBZ	pos2=NNS	0	root	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	shows	show	VBZ	_	1	ccomp	_	O
+4	you	you	PRP	_	3	dobj	_	O
+5	what	what	WP	_	8	dobj	_	O
+6	people	people	NNS	_	8	nsubj	_	O
+7	really	really	RB	_	8	advmod	_	O
+8	think	think	VBP	pos2=VB	3	ccomp	_	O
+9	about	about	IN	_	8	prep	_	O
+10	immigration	immigration	NN	_	9	pobj	_	O
+

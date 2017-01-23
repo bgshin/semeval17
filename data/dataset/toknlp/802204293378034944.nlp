@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det	_	O
+2	world	world	NN	_	3	nsubj	_	O
+3	needs	need	VBZ	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	know	know	VB	_	3	xcomp	_	O
+6	that	that	IN	_	10	mark	_	O
+7	The	the	DT	_	9	det	_	B-ORG
+8	Other	other	NNP	pos2=JJ	9	compound	_	I-ORG
+9	Guys	guy	NNPS	pos2=NNS	10	nsubj	_	L-ORG
+10	did	do	VBD	_	5	ccomp	_	O
+11	the	the	DT	_	13	det	_	O
+12	first	#ord#	JJ	pos2=RB	13	nmod	_	U-ORDINAL
+13	#mannequinchallenge	#mannequinchallenge	NN	pos2=.	10	dobj	_	O
+

@@ -1,0 +1,16 @@
+1	30	0	CD	pos2=LS	2	nmod	_	B-QUANTITY
+2	Min	min	NNS	pos2=NNP	0	root	_	L-QUANTITY
+3	into	into	IN	_	2	prep	_	O
+4	the	the	DT	_	7	det	_	O
+5	Westworld	westworld	NNP	_	7	compound	_	O
+6	-	-	HYPH	pos2=:	7	punct	_	O
+7	Finale	finale	NNP	_	3	pobj	_	O
+8	and	and	CC	_	7	cc	_	O
+9	I	I	PRP	_	10	nsubj	_	O
+10	’m	be	VBP	_	5	relcl	_	O
+11	already	already	RB	_	10	advmod	_	O
+12	like	like	IN	pos2=VB	10	prep	_	O
+13	Holy	holy	NNP	pos2=JJ	14	compound	_	B-PERSON
+14	Shit	shit	NNP	pos2=NN	12	pobj	_	L-PERSON
+15	!	!	.	_	10	punct	_	O
+

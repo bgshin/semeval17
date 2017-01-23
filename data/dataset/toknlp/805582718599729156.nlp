@@ -1,0 +1,27 @@
+1	@CptHollingworth	@cpthollingworth	NNP	pos2=XX	3	vocative	_	U-EVENT
+2	There	there	EX	_	3	expl	_	O
+3	was	be	VBD	_	0	root	_	O
+4	a	a	DT	_	7	det	_	O
+5	long	long	JJ	_	7	nmod	_	O
+6	email	email	NN	_	7	compound	_	O
+7	thread	thread	NN	_	3	attr	_	O
+8	that	that	WDT	_	9	nsubj	_	O
+9	predated	predate	VBD	_	7	relcl	_	O
+10	posting	post	VBG	pos2=NN	9	xcomp	_	O
+11	it	it	PRP	_	10	dobj	_	O
+12	to	to	IN	_	10	prep	_	O
+13	LJ.	lj.	NNP	_	12	pobj	_	O
+14	There	there	EX	pos2=NNP	15	expl	_	O
+15	was	be	VBD	_	7	acl	_	O
+16	also	also	RB	_	15	advmod	_	O
+17	Jen	jen	NNP	_	20	poss	_	U-PERSON
+18	's	's	POS	_	17	case	_	O
+19	gold	gold	NN	pos2=JJ	20	compound	_	O
+20	standard	standard	NN	pos2=JJ	15	attr	_	O
+21	'	'	``	pos2=''	20	punct	_	O
+22	My	my	PRP$	_	24	poss	_	B-WORK_OF_ART
+23	Little	little	NNP	pos2=JJ	24	compound	_	I-WORK_OF_ART
+24	Pony	pony	NNP	pos2=NN	26	poss	_	I-WORK_OF_ART
+25	'	'	POS	pos2=''	24	case	_	L-WORK_OF_ART
+26	fanfic	fanfic	NN	pos2=JJ	20	appos	_	O
+

@@ -1,0 +1,24 @@
+1	The	the	DT	_	2	det	_	O
+2	fact	fact	NN	_	18	nsubj	_	O
+3	that	that	IN	_	6	mark	_	O
+4	Zac	zac	NNP	_	5	compound	_	B-PERSON
+5	Efron	efron	NNP	_	6	nsubj	_	L-PERSON
+6	was	be	VBD	_	2	acl	_	O
+7	n't	not	RB	_	6	neg	_	O
+8	Troy	troy	NNP	_	11	poss	_	U-PERSON
+9	's	's	POS	_	8	case	_	O
+10	singing	singing	NN	pos2=VBG	11	compound	_	O
+11	voice	voice	NN	_	6	attr	_	O
+12	in	in	IN	_	11	prep	_	O
+13	the	the	DT	_	17	det	_	O
+14	first	#ord#	JJ	pos2=RBS	17	nmod	_	U-ORDINAL
+15	High	high	NNP	pos2=JJ	16	compound	_	B-ORG
+16	School	school	NNP	_	17	compound	_	I-ORG
+17	Musical	musical	NNP	pos2=NN	12	pobj	_	L-ORG
+18	is	be	VBZ	_	0	root	_	O
+19	why	why	WRB	_	21	advmod	_	O
+20	I	I	PRP	_	21	nsubj	_	O
+21	have	have	VBP	_	18	ccomp	_	O
+22	trust	trust	NN	pos2=VBN	23	compound	_	O
+23	issues	issue	NNS	_	21	dobj	_	O
+

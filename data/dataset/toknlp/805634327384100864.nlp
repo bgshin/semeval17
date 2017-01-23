@@ -1,0 +1,19 @@
+1	Dr.	dr.	NNP	_	3	compound	_	O
+2	Tim	tim	NNP	_	3	compound	_	B-PERSON
+3	Robinson	robinson	NNP	_	4	nsubj	_	L-PERSON
+4	Believes	believe	VBZ	_	0	root	_	O
+5	that	that	IN	_	13	mark	_	O
+6	Integrating	integrate	VBG	pos2=NNP	13	csubj	_	O
+7	#Homeopathy	#homeopathy	NNP	pos2=NN	6	dobj	_	U-PERSON
+8	into	into	IN	_	6	prep	_	O
+9	His	his	PRP$	_	11	poss	_	O
+10	Medical	medical	NNP	pos2=JJ	11	compound	_	B-ORG
+11	Practice	practice	NNP	pos2=NN	8	pobj	_	L-ORG
+12	has	have	VBZ	_	13	aux	_	O
+13	Made	make	VBN	_	4	ccomp	_	O
+14	Him	him	PRP	pos2=NNP	18	nsubj	_	O
+15	a	a	DT	_	17	det	_	O
+16	Better	good	JJR	pos2=NNP	18	nmod	_	O
+17	Do	do	NNP	pos2=-LRB-	18	nmod	_	O
+18	ctorhttps://t.co/eCGIdN2xRL	#hlink#	ADD	_	13	ccomp	_	O
+

@@ -1,0 +1,16 @@
+1	@PrisonPlanet	@prisonplanet	NN	pos2=ADD	2	compound	_	O
+2	@RandieK	@randiek	NNS	pos2=MD	3	nsubj	_	O
+3	GIVE	give	VBP	pos2=VB	0	root	_	O
+4	COPS	cop	NNS	_	3	dobj	_	O
+5	BACK	back	RB	pos2=RP	3	prt	_	O
+6	THEIR	their	PRP$	_	7	poss	_	O
+7	DIGNITY	dignity	NN	_	3	dobj	_	O
+8	STRIPPED	strip	VBN	_	7	acl	_	O
+9	BY	by	IN	_	8	agent	_	O
+10	@BarackObama	@barackobama	NNP	pos2=NN	13	compound	_	B-GPE
+11	S	s	NNP	pos2=NN	9	pobj	_	L-GPE
+12	#BlackLivesMatter	#blacklivesmatter	HYPH	pos2=NNP	8	punct	_	O
+13	UP	up	RP	pos2=NNP	12	prt	_	O
+14	THEIR	their	PRP$	_	15	poss	_	O
+15	PAY	pay	NN	pos2=NNP	12	dobj	_	O
+

@@ -1,0 +1,19 @@
+1	Samuel	samuel	NNP	_	2	compound	_	B-PERSON
+2	Eto	eto	NNP	_	3	nsubj	_	L-PERSON
+3	faces	face	VBZ	_	0	root	_	O
+4	10	0	CD	_	5	nmod	_	B-DATE
+5	years	year	NNS	_	7	compound	_	L-DATE
+6	jail	jail	NN	pos2=GW	7	compound	_	O
+7	term	term	NN	_	3	dobj	_	O
+8	https://t.co/xq99Hk26B4	#hlink#	ADD	_	3	dep	_	O
+9	#fcb	#fcb	IN	pos2=XX	8	prep	_	O
+10	#fcblive	#fcblive	UH	pos2=XX	9	discourse	_	O
+11	#inter	#inter	UH	pos2=FW	9	discourse	_	O
+12	#laliga	#laliga	UH	pos2=FW	9	discourse	_	O
+13	#efc	#efc	UH	pos2=FW	9	discourse	_	O
+14	#pl	#pl	UH	pos2=MD	9	discourse	_	O
+15	#serieA	#seriea	UH	pos2=NNP	9	discourse	_	O
+16	#soccer	#soccer	UH	pos2=PRP	9	discourse	_	O
+17	#football	#football	UH	pos2=MD	9	discourse	_	O
+18	#Cameroon	#cameroon	NNP	pos2=UH	9	pobj	_	U-PERSON
+

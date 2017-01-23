@@ -1,0 +1,21 @@
+1	Ever	ever	RB	_	2	advmod	_	O
+2	heard	hear	VBN	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	turkey	turkey	NN	pos2=DT	3	pobj	_	O
+5	fried	fry	VBN	_	6	nmod	_	O
+6	chicken	chicken	NN	_	4	conj	_	O
+7	?	?	.	_	2	punct	_	O
+
+1	A	a	DT	_	2	det	_	O
+2	little	little	JJ	pos2=RB	3	npadvmod	_	O
+3	late	late	JJ	pos2=NN	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=NNP	4	pobj	_	U-DATE
+6	but	but	CC	_	4	cc	_	O
+7	still	still	RB	_	8	advmod	_	O
+8	hilarious	hilarious	JJ	_	3	conj	_	O
+9	!	!	.	_	3	punct	_	O
+
+1	https://t.co/YgLNb41AGZ	#hlink#	ADD	_	2	nsubj	_	O
+2	#FastFood	#fastfood	ADD	pos2=-RRB-	0	root	_	O
+

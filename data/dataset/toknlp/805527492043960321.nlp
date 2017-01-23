@@ -1,0 +1,23 @@
+1	#Trump	#trump	NNP	pos2=NN	3	nsubjpass	_	U-ORG
+2	was	be	VBD	_	3	auxpass	_	O
+3	put	put	VBN	_	0	root	_	O
+4	into	into	IN	_	3	prep	_	O
+5	office	office	NN	_	4	pobj	_	O
+6	mainly	mainly	RB	_	7	advmod	_	O
+7	by	by	IN	_	3	agent	_	O
+8	people	people	NNS	_	7	pobj	_	O
+9	who	who	WP	_	10	nsubj	_	O
+10	have	have	VBP	_	8	relcl	_	O
+11	a	a	DT	_	14	det	_	O
+12	voter	voter	NN	_	13	compound	_	O
+13	registration	registration	NN	_	14	compound	_	O
+14	card	card	NN	_	10	dobj	_	O
+15	but	but	CC	_	10	cc	_	O
+16	have	have	VBP	_	18	aux	_	O
+17	never	never	RB	_	18	neg	_	O
+18	had	have	VBN	_	10	conj	_	O
+19	a	a	DT	_	21	det	_	O
+20	library	library	NN	_	21	compound	_	O
+21	card@AnUncivilPhD	card@anuncivilphd	NN	pos2=NNP	18	dobj	_	O
+22	@TheStacksCat	@thestackscat	ADD	pos2=NN	18	advmod	_	O
+

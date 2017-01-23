@@ -1,0 +1,14 @@
+1	Theo	theo	NNP	pos2=GW	2	compound	_	B-PERSON
+2	@Cubs	@cubs	NNP	pos2=IN	5	vocative	_	L-PERSON
+3	we	we	PRP	_	5	nsubj	_	O
+4	should	should	MD	_	5	aux	_	O
+5	get	get	VB	_	0	root	_	O
+6	this	this	DT	_	7	det	_	O
+7	man	man	NN	_	5	dobj	_	O
+8	@ChrisArcher22	@chrisarcher0	RP	pos2=NN	5	prt	_	O
+9	on	on	IN	_	5	prep	_	O
+10	our	our	PRP$	_	11	poss	_	O
+11	team	team	NN	_	9	pobj	_	O
+12	for	for	IN	_	5	prep	_	O
+13	sure	sure	JJ	_	12	pcomp	_	O
+

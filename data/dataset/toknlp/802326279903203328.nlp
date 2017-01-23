@@ -1,0 +1,21 @@
+1	Support	support	NN	pos2=VB	2	compound	_	O
+2	@ThePCJF	@thepcjf	NN	pos2=NNP	5	poss	_	O
+3	's	's	POS	pos2=VBZ	2	case	_	O
+4	essential	essential	JJ	_	5	nmod	_	O
+5	work	work	NN	_	15	nsubj	_	O
+6	defending	defend	VBG	_	5	acl	_	O
+7	the	the	DT	_	8	det	_	O
+8	right	right	NN	_	6	dobj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	protest	protest	VB	_	8	acl	_	O
+11	#Trump	#trump	NNP	pos2=NN	10	dobj	_	U-ORG
+12	,	,	,	_	15	punct	_	O
+13	as	as	IN	_	15	mark	_	O
+14	gov't	gov't	NNP	pos2=JJ	15	nsubj	_	O
+15	moves	move	VBZ	pos2=NNS	0	root	_	O
+16	to	to	TO	_	17	aux	_	O
+17	restrict	restrict	VB	_	15	xcomp	_	O
+18	political	political	JJ	_	19	nmod	_	O
+19	action	action	NN	_	17	dobj	_	O
+20	https://t.co/PIqq4YYFJJ	#hlink#	ADD	_	17	dobj	_	O
+

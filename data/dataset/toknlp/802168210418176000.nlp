@@ -1,0 +1,13 @@
+1	watching	watch	VBG	_	0	root	_	O
+2	every	every	DT	_	6	det	_	O
+3	single	single	JJ	pos2=NN	6	nmod	_	O
+4	1	0	CD	_	6	nmod	_	O
+5	d	d	NN	pos2=JJ	6	compound	_	O
+6	interview	interview	NN	_	1	dobj	_	O
+7	today	today	NN	_	12	npadvmod	_	U-DATE
+8	#	#	NN	pos2=.	9	compound	_	O
+9	3YearsofMidnightMemories	0yearsofmidnightmemories	NNS	pos2=ADD	12	dep	_	U-MONEY
+10	#MtvStarsNiallHoran	#mtvstarsniallhoran	ADD	pos2=MD	12	punct	_	O
+11	#MPN	#mpn	NN	pos2=$	12	compound	_	O
+12	#OneDirection	#onedirection	NN	pos2=ADD	1	dep	_	O
+

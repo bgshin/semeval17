@@ -1,0 +1,9 @@
+1	Inspiring	inspiring	JJ	pos2=VBG	2	nmod	_	O
+2	speech	speech	NN	_	0	root	_	O
+3	by	by	IN	_	2	prep	_	O
+4	John	john	NNP	_	5	compound	_	B-PERSON
+5	Lewis	lewis	NNP	_	3	pobj	_	L-PERSON
+6	at	at	IN	_	2	prep	_	O
+7	#NBAwards	#nbawards	ADD	pos2=NNP	6	pobj	_	U-TIME
+8	https://t.co/LVoaXubYIj	#hlink#	ADD	_	6	pobj	_	O
+

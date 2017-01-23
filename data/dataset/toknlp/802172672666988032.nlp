@@ -1,0 +1,14 @@
+1	We	we	PRP	_	4	nsubj	_	O
+2	can	can	MD	_	4	aux	_	O
+3	not	not	RB	_	4	neg	_	O
+4	afford	afford	VB	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	ignore	ignore	VB	_	4	xcomp	_	O
+7	the	the	DT	_	8	det	_	O
+8	conflict	conflict	NN	_	6	dobj	_	O
+9	in	in	IN	_	8	prep	_	O
+10	#Yemen	#yemen	NNP	pos2=NNS	9	pobj	_	B-DATE
+11	#protecthumanity	#protecthumanity	GW	pos2=UH	13	nmod	_	I-DATE
+12	#stopindifference	#stopindifference	GW	pos2=IN	13	nmod	_	L-DATE
+13	https://t.co/NuAUY5PwTz	#hlink#	ADD	pos2=NN	4	dep	_	O
+

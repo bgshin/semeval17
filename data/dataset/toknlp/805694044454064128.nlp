@@ -1,0 +1,18 @@
+1	and	and	CC	_	6	cc	_	O
+2	that	that	DT	pos2=IN	6	nsubj	_	O
+3	CA	can	MD	pos2=NNP	5	nmod	_	O
+4	minimum	minimum	JJ	pos2=NN	5	nmod	_	O
+5	wage	wage	NN	_	6	nsubj	_	O
+6	goes	go	VBZ	_	0	root	_	O
+7	up	up	RB	pos2=RP	6	advmod	_	O
+8	on	on	IN	_	6	prep	_	O
+9	the	the	DT	_	10	det	_	O
+10	first	#ord#	JJ	pos2=NN	8	pobj	_	U-ORDINAL
+11	for	for	IN	_	6	prep	_	O
+12	the	the	DT	_	15	det	_	B-DATE
+13	next	next	JJ	_	15	nmod	_	I-DATE
+14	5	0	CD	_	15	nmod	_	I-DATE
+15	years	year	NNS	_	11	pobj	_	L-DATE
+16	ayyy	ayyy	RB	pos2=JJ	6	advmod	_	O
+17	😋	😋	.	pos2=NN	6	punct	_	O
+

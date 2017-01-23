@@ -1,0 +1,31 @@
+1	@kenklippenstein	@kenklippenstein	UH	pos2=NN	3	discourse	_	O
+2	she	she	PRP	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	obviously	obviously	RB	_	5	advmod	_	O
+5	right	right	JJ	_	3	acomp	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	putin	putin	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	does	do	VBZ	_	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	same	same	JJ	_	2	dobj	_	O
+5	with	with	IN	_	2	prep	_	O
+6	le	le	NN	pos2=FW	7	compound	_	O
+7	pen	pen	NN	pos2=NNP	5	pobj	_	O
+8	,	,	,	_	7	punct	_	O
+9	fpö	fpö	NNP	pos2=NN	7	appos	_	U-ORG
+10	.	.	.	_	2	punct	_	O
+
+1	afd	afd	NN	pos2=FW	0	root	_	O
+2	etc.	etc.	FW	_	1	nmod	_	O
+3	in	in	IN	_	1	prep	_	O
+4	europa	europa	NN	pos2=NNS	3	pobj	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	you	you	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	now	now	RB	_	2	advmod	_	O
+4	the	the	DT	_	6	det	_	O
+5	same	same	JJ	_	6	nmod	_	O
+6	@KyleKulinski	@kylekulinski	NN	pos2=NNS	2	attr	_	O
+

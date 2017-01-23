@@ -1,0 +1,24 @@
+1	ALL	all	DT	_	2	det	_	O
+2	NATIONS	nation	NNS	pos2=NNPS	3	nsubj	_	O
+3	UNITE	unite	VB	pos2=NN	0	root	_	O
+4	....	..	.	pos2=:	3	punct	_	O
+
+1	HUMAN	human	JJ	pos2=NN	2	nmod	_	O
+2	BEINGS	being	NNS	_	3	nsubj	_	O
+3	STANDING	stand	VBG	_	0	root	_	O
+4	UP	up	RP	pos2=IN	3	prt	_	O
+5	TOGETHER	together	RB	_	3	advmod	_	O
+6	WILL	will	MD	_	7	aux	_	O
+7	FORCE	force	VB	_	3	advcl	_	O
+8	THE	the	DT	_	9	det	_	O
+9	CHANGE	change	NN	_	7	dobj	_	O
+10	FROM	from	IN	_	9	prep	_	O
+11	FOSSIL	fossil	NN	pos2=JJ	12	compound	_	O
+12	FUELS	fuel	NNS	_	10	pobj	_	O
+13	TO	to	TO	pos2=IN	14	aux	_	O
+14	CLEAN	clean	VB	pos2=JJ	7	xcomp	_	O
+15	ENERGY	energy	NN	pos2=NNP	14	dobj	_	O
+16	...	..	.	pos2=:	3	punct	_	O
+
+1	https://t.co/nIZBhQe4AJ	#hlink#	ADD	_	0	root	_	U-ORG
+

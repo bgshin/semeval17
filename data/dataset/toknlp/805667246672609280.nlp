@@ -1,0 +1,31 @@
+1	Social	social	JJ	pos2=NNP	2	nmod	_	O
+2	science	science	NN	_	10	dep	_	O
+3	in	in	IN	_	2	prep	_	O
+4	action	action	NN	_	3	pobj	_	O
+5	,	,	,	_	2	punct	_	O
+6	case	case	NN	_	7	compound	_	O
+7	study	study	NN	_	10	dep	_	O
+8	:	:	:	_	10	punct	_	O
+9	Oregon	oregon	NNP	_	10	compound	_	U-GPE
+10	voting	voting	NN	pos2=VBG	0	root	_	O
+11	.	.	.	_	10	punct	_	O
+
+1	Opt	opt	VB	_	3	compound	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	out	out	NN	pos2=RB	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	not	not	RB	_	6	neg	_	O
+6	opt	opt	VB	pos2=JJ	8	compound	_	O
+7	-	-	HYPH	pos2=:	8	punct	_	O
+8	in	in	NN	pos2=RB	3	appos	_	O
+9	,	,	,	_	3	punct	_	O
+10	to	to	TO	_	11	aux	_	O
+11	achieve	achieve	VB	_	6	xcomp	_	O
+12	high	high	JJ	_	13	nmod	_	O
+13	rates	rate	NNS	_	11	dobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	participation	participation	NN	_	14	pobj	_	O
+16	.	.	.	_	3	punct	_	O
+
+1	https://t.co/4wFI10Q19n	#hlink#	ADD	_	0	root	_	U-ORG
+

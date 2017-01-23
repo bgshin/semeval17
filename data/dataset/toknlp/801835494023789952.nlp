@@ -1,0 +1,14 @@
+1	#Hezbollah	#hezbollah	NN	pos2=NNP	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	A	a	DT	_	6	det	_	O
+4	declassified	declassify	VBN	pos2=JJ	6	nmod	_	O
+5	interactive	interactive	JJ	_	6	nmod	_	O
+6	report	report	NN	_	0	root	_	O
+7	by	by	IN	_	6	prep	_	O
+8	the	the	DT	_	11	det	_	B-ORG
+9	#Israel	#israel	NNP	_	11	compound	_	I-ORG
+10	Defense	defense	NNP	_	11	compound	_	I-ORG
+11	Forces	force	NNPS	pos2=NNS	7	pobj	_	L-ORG
+12	https://t.co/PAVmoG641F	#hlink#	ADD	pos2=NNP	11	appos	_	O
+13	@IDFSpokesperson	@idfspokesperson	ADD	pos2=-RRB-	6	punct	_	O
+

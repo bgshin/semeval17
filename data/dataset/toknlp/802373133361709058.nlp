@@ -1,0 +1,14 @@
+1	10	0	CD	pos2=LS	2	nmod	_	U-CARDINAL
+2	Photos	photo	NNS	_	7	dep	_	O
+3	of	of	IN	_	2	prep	_	O
+4	MELANIA	melania	NNP	pos2=NN	3	pobj	_	U-PERSON
+5	,	,	,	_	7	punct	_	O
+6	TRUMP	trump	NNP	pos2=NN	7	nsubj	_	U-PERSON
+7	Wishes	wish	VBZ	pos2=NNP	0	root	_	O
+8	We	we	PRP	_	10	nsubj	_	O
+9	'd	would	MD	_	10	aux	_	O
+10	Forget	forget	VB	_	7	ccomp	_	O
+11	https://t.co/XLqWKTY4Ch	#hlink#	ADD	pos2=RP	10	dobj	_	U-ORG
+12	via	via	IN	_	10	prep	_	O
+13	@YouTube	@youtube	NN	pos2=NNP	12	pobj	_	O
+

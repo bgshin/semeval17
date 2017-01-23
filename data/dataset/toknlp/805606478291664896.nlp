@@ -1,0 +1,16 @@
+1	Got	get	VBD	pos2=VBP	0	root	_	O
+2	ta	ta	TO	pos2=PRP	3	aux	_	O
+3	Have	have	VB	pos2=VBP	1	xcomp	_	O
+4	My	my	PRP$	_	6	poss	_	O
+5	Smoke@weed	smoke@weed	VBN	pos2=NN	6	nmod	_	O
+6	@Legalizeit	@legalizeit	NNP	pos2=IN	3	dobj	_	O
+7	@potlife	@potlife	FW	pos2=UH	15	dep	_	O
+8	@hightimes	@hightimes	IN	pos2=UH	3	prep	_	O
+9	@medical	@medical	JJ	pos2=FW	11	nmod	_	O
+10	marijuana	marijuana	NN	_	11	compound	_	O
+11	@potgrowers	@potgrowers	NNS	pos2=XX	8	pobj	_	O
+12	@potworld	@potworld	FW	pos2=MD	13	nmod	_	O
+13	@weedsmokers	@weedsmokers	NNS	pos2=FW	15	dep	_	O
+14	@	@	SYM	pos2=-LRB-	15	punct	_	O
+15	https://t.co/dfxmjH2RbK	#hlink#	ADD	pos2=NN	1	dep	_	O
+

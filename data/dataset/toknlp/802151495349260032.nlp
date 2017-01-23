@@ -1,0 +1,26 @@
+1	@willcain	@willcain	``	pos2=VB	5	punct	_	O
+2	Those	those	DT	_	7	det	_	O
+3	"	"	``	pos2=''	5	punct	_	O
+4	Tony	tony	NNP	_	5	compound	_	B-PERSON
+5	Romo	romo	NNP	_	7	nmod	_	L-PERSON
+6	"	"	''	_	5	punct	_	O
+7	socks	sock	NNS	_	10	dep	_	O
+8	,	,	,	_	10	punct	_	O
+9	that	that	DT	_	10	nsubj	_	O
+10	's	's	VBZ	_	11	parataxis	_	O
+11	a	a	DT	pos2=``	0	root	_	O
+12	no	no	DT	pos2=NN	13	det	_	O
+13	go	go	NN	pos2=VB	10	attr	_	O
+14	.	.	.	_	10	punct	_	O
+
+1	Package	package	VB	_	0	root	_	O
+2	them	them	PRP	_	1	dobj	_	O
+3	up	up	RP	_	1	prt	_	O
+4	,	,	,	_	1	punct	_	O
+5	send	send	VB	_	1	dep	_	O
+6	them	them	PRP	_	5	dobj	_	O
+7	to	to	IN	pos2=TO	8	aux	_	O
+8	Skip	skip	VB	pos2=NNP	5	advcl	_	O
+9	Bayless	bayless	NNP	_	8	dobj	_	U-PERSON
+10	.	.	.	_	1	punct	_	O
+

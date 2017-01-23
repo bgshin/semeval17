@@ -1,0 +1,15 @@
+1	https://t.co/lBUnFSsDMI	#hlink#	ADD	_	3	nsubj	_	O
+2	This	this	DT	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	9	det	_	O
+5	MUST	must	MD	pos2=NN	6	aux	_	O
+6	WATCH	watch	VB	_	3	attr	_	O
+7	#DAPL	#dapl	$	pos2=XX	14	nmod	_	O
+8	#DakotaAccessPipeline	#dakotaaccesspipeline	GW	pos2=VB	14	nmod	_	B-TIME
+9	@JoeBiden	@joebiden	GW	pos2=VBN	14	nmod	_	L-TIME
+10	@SenSanders	@sensanders	GW	pos2=NNS	14	nmod	_	O
+11	@FLOTUS	@flotus	GW	pos2=NN	14	nmod	_	U-ORG
+12	@POTUS	@potus	GW	pos2=NN	14	nmod	_	O
+13	@elizabethforma	@elizabethforma	GW	pos2=UH	14	nmod	_	O
+14	@elonmusk	@elonmusk	UH	pos2=NN	6	discourse	_	O
+

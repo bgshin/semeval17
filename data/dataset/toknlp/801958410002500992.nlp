@@ -1,0 +1,11 @@
+1	¡Gobble	¡gobble	JJ	pos2=NNP	2	nmod	_	O
+2	gobble	gobble	NN	pos2=UH	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	idiot	idiot	NN	pos2=JJ	5	compound	_	O
+5	hookers	hooker	NNS	_	2	vocative	_	O
+6	!	!	.	_	2	punct	_	O
+
+1	#Thanksgiving	#thanksgiving	VBG	pos2=GW	3	nmod	_	O
+2	#ScreamQueens	#screamqueens	ADD	pos2=NNS	3	punct	_	O
+3	https://t.co/YAeWAZDLnQ	#hlink#	ADD	_	0	root	_	U-ORG
+

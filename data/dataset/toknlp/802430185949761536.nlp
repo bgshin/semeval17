@@ -1,0 +1,21 @@
+1	@mineu999	@mineu0	NN	pos2=LS	3	nmod	_	O
+2	@jamiesont	@jamiesont	UH	pos2=ADD	3	discourse	_	O
+3	@rashid7053	@rashid0	NN	pos2=CD	6	nsubj	_	O
+4	No	no	DT	pos2=UH	5	det	_	O
+5	Warren	warren	NNP	_	6	nsubj	_	U-PERSON
+6	is	be	VBZ	_	0	root	_	O
+7	Hillary	hillary	NNP	pos2=JJ	8	compound	_	U-PERSON
+8	light	light	NN	pos2=JJ	6	attr	_	O
+9	another	another	DT	_	12	det	_	O
+10	born	bear	VBN	_	8	acl	_	O
+11	again	again	RB	_	10	advmod	_	O
+12	Republican	republican	JJ	pos2=NNP	7	appos	_	U-NORP
+13	that	that	WDT	pos2=DT	14	nsubj	_	O
+14	came	come	VBD	_	12	relcl	_	O
+15	to	to	TO	_	16	aux	_	O
+16	save	save	VB	_	14	advcl	_	O
+17	liberals	liberal	NNS	_	16	dobj	_	O
+18	from	from	IN	_	16	prep	_	O
+19	themselves	themselves	PRP	_	18	pobj	_	O
+20	.	.	.	_	6	punct	_	O
+

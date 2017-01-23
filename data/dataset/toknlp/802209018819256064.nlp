@@ -1,0 +1,33 @@
+1	Y'all	y'all	PRP	_	2	nsubj	_	O
+2	realize	realize	VBP	pos2=VB	0	root	_	O
+3	Jill	jill	NNP	_	4	compound	_	B-PERSON
+4	Stein	stein	NNP	_	5	nsubj	_	L-PERSON
+5	is	be	VBZ	_	2	ccomp	_	O
+6	a	a	DT	_	8	det	_	O
+7	fucking	fucking	JJ	pos2=VBG	8	nmod	_	O
+8	idiot	idiot	NN	_	5	attr	_	O
+9	right	right	JJ	pos2=NN	5	acomp	_	O
+10	?	?	.	_	2	punct	_	O
+
+1	And	and	CC	_	4	cc	_	O
+2	she	she	PRP	_	4	nsubjpass	_	O
+3	was	be	VBD	_	4	auxpass	_	O
+4	chillin	chillin	VBN	pos2=JJ	0	root	_	O
+5	with	with	IN	_	4	prep	_	O
+6	Putin	putin	NNP	_	5	pobj	_	U-PERSON
+7	like	like	IN	pos2=UH	9	mark	_	O
+8	it	it	PRP	_	9	nsubj	_	O
+9	's	's	VBZ	_	4	advcl	_	O
+10	no	no	DT	pos2=RB	12	det	_	O
+11	big	big	JJ	_	12	nmod	_	O
+12	deal	deal	NN	_	9	attr	_	O
+13	in	in	IN	_	12	prep	_	O
+14	pictures	picture	NNS	_	13	pobj	_	O
+15	.	.	.	_	4	punct	_	O
+
+1	Do	do	VB	pos2=VBP	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	rely	rely	VB	_	0	root	_	O
+4	on	on	IN	_	3	prep	_	O
+5	her	her	PRP	pos2=PRP$	4	pobj	_	O
+

@@ -1,0 +1,32 @@
+1	Why	why	WRB	_	4	advmod	_	O
+2	not	not	RB	_	4	neg	_	O
+3	"	"	``	pos2=''	4	punct	_	O
+4	Made	make	VBN	pos2=VB	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	USA	usa	NNP	_	5	pobj	_	U-GPE
+7	"	"	''	_	4	punct	_	O
+8	?	?	.	_	4	punct	_	O
+
+1	Oh	oh	UH	_	5	discourse	_	O
+2	yes	yes	UH	_	1	discourse	_	O
+3	,	,	,	_	5	punct	_	O
+4	too	too	RB	_	5	advmod	_	O
+5	expensive	expensive	JJ	_	0	root	_	O
+6	and	and	CC	_	5	cc	_	O
+7	why	why	WRB	_	8	advmod	_	O
+8	bother	bother	VB	pos2=VBP	5	conj	_	O
+9	giving	give	VBG	_	8	xcomp	_	O
+10	the	the	DT	_	13	det	_	O
+11	american	american	JJ	_	12	nmod	_	U-NORP
+12	people	people	NNS	_	13	compound	_	O
+13	jobs	job	NNS	_	9	dobj	_	O
+14	.	.	.	_	5	punct	_	O
+
+1	Let	let	VB	_	0	root	_	O
+2	them	them	PRP	_	4	nsubj	_	O
+3	just	just	RB	_	4	advmod	_	O
+4	suffer	suffer	VB	pos2=VBP	1	ccomp	_	O
+5	m	m	GW	pos2=NNS	4	dobj	_	O
+6	…	…	NFP	pos2=GW	7	punct	_	O
+7	https://t.co/r3hAiFQUyM	#hlink#	ADD	pos2=NN	4	dobj	_	O
+

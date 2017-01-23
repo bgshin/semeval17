@@ -1,0 +1,30 @@
+1	@SpeakerRyan	@speakerryan	UH	pos2=MD	5	discourse	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	believe	believe	VB	_	0	root	_	O
+6	you	you	PRP	_	5	dobj	_	O
+7	when	when	WRB	_	9	advmod	_	O
+8	you	you	PRP	_	9	nsubj	_	O
+9	talk	talk	VBP	_	5	advcl	_	O
+10	of	of	IN	_	9	prep	_	O
+11	unifying	unify	VBG	_	10	pcomp	_	O
+12	the	the	DT	_	13	det	_	O
+13	country	country	NN	_	11	dobj	_	O
+14	.	.	.	_	5	punct	_	O
+
+1	Stand	stand	VB	pos2=VBP	0	root	_	O
+2	up	up	RP	_	1	prt	_	O
+3	for	for	IN	_	1	prep	_	O
+4	all	all	DT	_	5	det	_	O
+5	Americans	american	NNPS	_	3	pobj	_	U-NORP
+6	.	.	.	_	1	punct	_	O
+
+1	How	how	WRB	_	4	advmod	_	O
+2	can	can	MD	_	4	aux	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	defend	defend	VB	_	0	root	_	O
+5	Steve	steve	NNP	_	6	compound	_	B-PERSON
+6	Bannon	bannon	NNP	_	4	dobj	_	L-PERSON
+7	?	?	.	_	4	punct	_	O
+

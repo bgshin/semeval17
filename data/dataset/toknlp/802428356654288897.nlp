@@ -1,0 +1,29 @@
+1	@cnnbrk	@cnnbrk	UH	pos2=MD	7	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	know	know	VBP	_	7	parataxis	_	O
+4	you	you	PRP	pos2=PRP$	5	nsubj	_	O
+5	limousine	limousine	VBP	pos2=NN	0	root	_	O
+6	liberals	liberal	NNS	_	7	nsubj	_	O
+7	love	love	VBP	_	0	root	_	O
+8	him	him	PRP	_	7	dobj	_	O
+9	.	.	.	_	7	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	hate	hate	VBP	_	0	root	_	O
+3	him	him	PRP	_	2	dobj	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	JFK	jfk	NNP	pos2=NN	4	nsubj	_	U-PERSON
+2	should	should	MD	_	4	aux	_	O
+3	've	have	VB	_	4	aux	_	O
+4	provided	provided	VBN	_	0	root	_	O
+5	air	air	NN	_	6	compound	_	O
+6	support	support	NN	_	4	dobj	_	O
+7	during	during	IN	_	4	prep	_	O
+8	the	the	DT	_	9	det	_	B-EVENT
+9	Bay	bay	NNP	pos2=NN	7	pobj	_	I-EVENT
+10	of	of	IN	_	9	prep	_	I-EVENT
+11	Pigs	pig	NNPS	pos2=NNP	10	pobj	_	L-EVENT
+12	invasion	invasion	NN	_	7	pobj	_	O
+13	.	.	.	_	4	punct	_	O
+

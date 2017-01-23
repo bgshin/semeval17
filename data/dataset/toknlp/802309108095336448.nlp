@@ -1,0 +1,12 @@
+1	Taken	take	VBN	_	0	root	_	O
+2	on	on	IN	pos2=RP	1	prep	_	O
+3	Samsung	samsung	NNP	_	4	compound	_	B-ORG
+4	Galaxy	galaxy	NNP	_	5	compound	_	L-ORG
+5	Note	note	NN	pos2=NNP	2	pobj	_	O
+6	7	0	CD	_	7	nmod	_	U-CARDINAL
+7	🔥	🔥	NNS	pos2=NN	11	dep	_	O
+8	@	@	IN	pos2=SYM	7	prep	_	O
+9	Blue	blue	JJ	pos2=NNP	10	nmod	_	O
+10	Pools	pool	NNS	pos2=NNPS	8	pobj	_	O
+11	https://t.co/El07mCYwJ1	#hlink#	ADD	_	1	dep	_	O
+

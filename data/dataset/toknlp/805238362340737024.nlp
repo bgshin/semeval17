@@ -1,0 +1,20 @@
+1	@AndyMcCanse	@andymccanse	ADD	pos2=NN	3	nsubj	_	O
+2	@mattyglesias	@mattyglesias	UH	pos2=NNS	3	discourse	_	O
+3	@stephenfhayes	@stephenfhayes	VBZ	pos2=POS	0	root	_	O
+4	pesky	pesky	JJ	_	5	nmod	_	O
+5	nukes	nuke	NNS	_	3	dobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	Do	do	VB	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	forget	forget	VB	_	0	root	_	O
+4	Trump	trump	NNP	pos2=NN	5	nsubj	_	U-ORG
+5	skirted	skirt	VBN	pos2=VBD	6	nmod	_	O
+6	embargo	embargo	NN	_	3	dobj	_	O
+7	in	in	IN	_	6	prep	_	O
+8	Cuba	cuba	NNP	_	7	pobj	_	U-GPE
+9	.	.	.	_	3	punct	_	O
+
+1	Sad	sad	JJ	pos2=UH	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+

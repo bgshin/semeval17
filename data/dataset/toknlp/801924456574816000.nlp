@@ -1,0 +1,18 @@
+1	https://t.co/f61UwAHgaz	#hlink#	ADD	_	6	punct	_	O
+2	the	the	DT	_	4	det	_	O
+3	hole	hole	NN	pos2=JJ	4	compound	_	O
+4	world	world	NN	_	6	nsubj	_	O
+5	is	be	VBZ	_	6	aux	_	O
+6	watching	watch	VBG	_	0	root	_	O
+7	21	0	CD	_	6	dobj	_	U-CARDINAL
+8	of	of	IN	_	7	prep	_	O
+9	Nov#DaveArchambaultII	nov#davearchambaultii	NNP	pos2=NNS	8	pobj	_	U-GPE
+10	at	at	IN	_	6	prep	_	O
+11	#UnitedNations	#unitednations	NNS	pos2=NNP	10	pobj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	Geneva	geneva	NNP	_	12	pobj	_	U-GPE
+14	in	in	IN	_	6	prep	_	O
+15	Sep	sep	NNP	_	14	pobj	_	O
+16	…	…	NFP	pos2=-LRB-	6	punct	_	O
+17	https://t.co/lzoPhsdwGJ	#hlink#	ADD	_	6	dep	_	O
+

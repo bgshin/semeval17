@@ -1,0 +1,13 @@
+1	Fuck	fuck	VB	pos2=UH	0	root	_	O
+2	all	all	DT	_	1	dobj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	people	people	NNS	_	3	pobj	_	O
+6	who	who	WP	_	9	nsubj	_	O
+7	do	do	VBP	_	9	aux	_	O
+8	n't	not	RB	_	9	neg	_	O
+9	like	like	VB	_	5	relcl	_	O
+10	Tony	tony	NNP	_	12	nmod	_	B-PERSON
+11	romo	romo	GW	pos2=NNP	12	nmod	_	L-PERSON
+12	https://t.co/wn6g9RlFbo	#hlink#	ADD	_	1	dep	_	O
+

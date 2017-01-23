@@ -1,0 +1,24 @@
+1	Japan	japan	NNP	pos2=JJ	2	compound	_	U-GPE
+2	earthquake	earthquake	NN	_	7	dep	_	O
+3	:	:	:	_	7	punct	_	O
+4	Charlie	charlie	NNP	_	5	compound	_	O
+5	Rose	rose	NNP	_	7	dep	_	O
+6	-	-	:	pos2=HYPH	7	punct	_	O
+7	Earthquake	earthquake	NN	pos2=NNP	23	dep	_	O
+8	in	in	IN	_	7	prep	_	O
+9	Japan	japan	NNP	_	11	nmod	_	U-GPE
+10	/	/	SYM	pos2=,	5	punct	_	O
+11	Mikheil	mikheil	NNP	_	12	compound	_	B-PERSON
+12	Saakashvili	saakashvili	NNP	_	23	dep	_	L-PERSON
+13	/	/	SYM	pos2=NFP	12	punct	_	O
+14	Peter	peter	NNP	_	15	compound	_	B-PERSON
+15	Guber	guber	NNP	_	8	pobj	_	L-PERSON
+16	(	(	-LRB-	_	12	punct	_	O
+17	March	march	NNP	_	7	npadvmod	_	B-DATE
+18	11	0	CD	_	17	nmod	_	I-DATE
+19	,	,	,	_	17	punct	_	I-DATE
+20	2011	0	CD	_	17	npadvmod	_	L-DATE
+21	)	)	-RRB-	_	7	punct	_	O
+22	:	:	:	_	23	punct	_	O
+23	https://t.co/bjKlUpTEfZ	#hlink#	ADD	pos2=NN	0	root	_	O
+

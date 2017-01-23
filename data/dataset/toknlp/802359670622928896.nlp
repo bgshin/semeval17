@@ -1,0 +1,11 @@
+1	Lord	lord	NNP	_	2	compound	_	O
+2	Monckton	monckton	NNP	_	7	dep	_	U-PERSON
+3	:	:	:	_	7	punct	_	O
+4	The	the	DT	_	6	det	_	O
+5	Leftists	leftist	NNPS	pos2=NNS	6	compound	_	O
+6	System	system	NNP	pos2=NN	7	nsubj	_	O
+7	Is	be	VBZ	_	0	root	_	O
+8	Political	political	JJ	pos2=NNP	9	nmod	_	O
+9	Satanism	satanism	NNP	_	7	attr	_	O
+10	https://t.co/RbXFrIRmBl	#hlink#	ADD	pos2=NN	9	appos	_	O
+

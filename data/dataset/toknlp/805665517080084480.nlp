@@ -1,0 +1,12 @@
+1	Epic	epic	NNP	pos2=JJ	3	compound	_	O
+2	pause	pause	NN	_	3	compound	_	O
+3	moment	moment	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	FINALLY	finally	RB	_	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	#Westworld	#westworld	NNP	pos2=NFP	3	nmod	_	B-PERSON
+2	@WestworldHBO	@westworldhbo	ADD	pos2=GW	3	punct	_	L-PERSON
+3	https://t.co/oVYUItIvLy	#hlink#	ADD	_	0	root	_	O
+

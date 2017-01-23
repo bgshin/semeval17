@@ -1,0 +1,18 @@
+1	Black	black	NNP	pos2=JJ	2	nsubj	_	B-WORK_OF_ART
+2	Lives	live	VBZ	pos2=NNP	0	root	_	I-WORK_OF_ART
+3	Matter	matter	NNP	pos2=NN	2	npadvmod	_	I-WORK_OF_ART
+4	5280	0	CD	_	3	nmod	_	I-WORK_OF_ART
+5	Recaps	recap	VBZ	pos2=NNS	0	root	_	I-WORK_OF_ART
+6	Trip	trip	NN	pos2=NNP	5	dobj	_	I-WORK_OF_ART
+7	to	to	IN	_	6	prep	_	I-WORK_OF_ART
+8	Standing	standing	NNP	pos2=VBG	9	compound	_	I-WORK_OF_ART
+9	Rock	rock	NNP	_	7	pobj	_	I-WORK_OF_ART
+10	to	to	TO	pos2=IN	11	aux	_	I-WORK_OF_ART
+11	Oppose	oppose	VB	_	5	advcl	_	I-WORK_OF_ART
+12	Oil	oil	NNP	pos2=NN	13	compound	_	I-WORK_OF_ART
+13	Pipeline	pipeline	NNP	pos2=NN	15	compound	_	I-WORK_OF_ART
+14	-	-	HYPH	pos2=GW	15	punct	_	I-WORK_OF_ART
+15	Westword	westword	NNP	pos2=GW	17	nmod	_	L-WORK_OF_ART
+16	https://t.co/FyBEzP3uOt…	#hlink#	ADD	_	17	nmod	_	O
+17	https://t.co/WOvAtE6pR3	#hlink#	ADD	_	11	dobj	_	U-ORG
+

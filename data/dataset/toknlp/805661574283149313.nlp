@@ -1,0 +1,32 @@
+1	lmao	lmao	NN	pos2=UH	0	root	_	O
+2	at	at	IN	pos2=RB	1	prep	_	O
+3	all	all	PDT	_	5	predet	_	O
+4	the	the	DT	_	5	det	_	O
+5	libs	libs	NNS	_	2	pobj	_	O
+6	who	who	WP	_	7	nsubj	_	O
+7	are	be	VBP	_	5	relcl	_	O
+8	worried	worried	JJ	_	7	acomp	_	O
+9	about	about	IN	_	8	prep	_	O
+10	what	what	WP	_	12	nsubj	_	O
+11	s	s	VBZ	pos2=PRP	12	aux	_	O
+12	gon	gon	VBG	pos2=XX	9	pcomp	_	O
+13	na	to	TO	_	14	aux	_	O
+14	happen	happen	VB	_	12	xcomp	_	O
+15	to	to	IN	pos2=TO	14	prep	_	O
+16	gun	gun	NN	pos2=VB	17	compound	_	O
+17	control	control	NN	_	15	pobj	_	O
+18	...	..	.	pos2=,	1	punct	_	O
+
+1	my	my	PRP$	_	2	poss	_	O
+2	dudes	dude	NNS	_	4	vocative	_	O
+3	we	we	PRP	_	4	nsubj	_	O
+4	are	be	VBP	_	0	root	_	O
+5	way	way	RB	pos2=NN	6	advmod	_	O
+6	past	past	IN	pos2=JJ	4	prep	_	O
+7	that	that	DT	pos2=IN	8	det	_	O
+8	level	level	NN	_	6	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	effete	effete	JJ	_	12	nmod	_	O
+11	value	value	NN	_	12	compound	_	O
+12	signals	signal	NNS	_	9	pobj	_	O
+

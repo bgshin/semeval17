@@ -1,0 +1,28 @@
+1	@AndrewDocklands	@andrewdocklands	VBZ	pos2=ADD	4	aux	_	O
+2	Everyone	everyone	NN	pos2=NNP	4	nsubj	_	O
+3	's	's	POS	pos2=VBZ	2	case	_	O
+4	thinking	think	VBG	pos2=NN	0	root	_	O
+5	far	far	RB	pos2=RBS	9	advmod	_	O
+6	too	too	RB	_	9	advmod	_	O
+7	short	short	JJ	pos2=RB	9	advmod	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	termed	term	VBN	_	4	ccomp	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	When	when	WRB	_	5	advmod	_	O
+2	all	all	DT	_	4	det	_	O
+3	fossil	fossil	JJ	pos2=NN	4	nmod	_	O
+4	fuels	fuel	NNS	_	5	nsubj	_	O
+5	run	run	VBP	pos2=VBN	15	advcl	_	O
+6	out	out	RP	pos2=RB	5	prt	_	O
+7	with	with	IN	_	5	prep	_	O
+8	no	no	DT	_	9	det	_	O
+9	substitutes	substitute	NNS	_	7	pobj	_	O
+10	,	,	,	_	15	punct	_	O
+11	then	then	RB	_	15	advmod	_	O
+12	the	the	DT	_	13	det	_	O
+13	crisis	crisis	NN	_	15	nsubj	_	O
+14	will	will	MD	_	15	aux	_	O
+15	come	come	VB	_	0	root	_	O
+16	.	.	.	_	15	punct	_	O
+

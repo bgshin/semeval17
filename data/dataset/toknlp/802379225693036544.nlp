@@ -1,0 +1,32 @@
+1	@Reuters	@reuters	NNP	pos2=VBZ	2	compound	_	B-PERSON
+2	Clinton	clinton	NNP	_	5	nsubj	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	not	not	RB	_	5	neg	_	O
+5	wanting	want	VBG	_	12	advcl	_	O
+6	her	her	PRP$	_	7	poss	_	O
+7	name	name	NN	_	5	dobj	_	O
+8	attached	attach	VBN	_	7	acl	_	O
+9	to	to	IN	_	8	prep	_	O
+10	this	this	DT	_	9	pobj	_	O
+11	,	,	,	_	12	punct	_	O
+12	paid	pay	VBD	pos2=VBN	0	root	_	O
+13	some	some	DT	_	16	det	_	O
+14	Clinton	clinton	NNP	_	16	compound	_	U-ORG
+15	foundation	foundation	NN	_	16	compound	_	O
+16	money	money	NN	_	12	dobj	_	O
+17	for	for	IN	_	12	prep	_	O
+18	this	this	DT	_	17	pobj	_	O
+19	lol	lol	UH	pos2=NN	12	discourse	_	O
+20	...	..	.	pos2=,	12	punct	_	O
+
+1	it	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	OVER	over	RB	pos2=NNP	2	advmod	_	O
+4	,	,	,	_	2	punct	_	O
+5	DONE	do	VBN	pos2=JJ	2	dep	_	O
+6	,	,	,	_	7	punct	_	O
+7	FIN	fin	NN	pos2=NNP	5	dep	_	O
+8	!!	!!	.	_	2	punct	_	O
+
+1	Libtards	libtards	NNP	pos2=NNS	0	root	_	U-PERSON
+

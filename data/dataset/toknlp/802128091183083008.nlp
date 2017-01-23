@@ -1,0 +1,21 @@
+1	>	>	SYM	_	2	punct	_	O
+2	Persona	persona	NN	pos2=NNP	6	nsubj	_	O
+3	5	0	CD	_	4	nmod	_	U-CARDINAL
+4	OST	ost	NN	pos2=NNP	6	nsubj	_	O
+5	will	will	MD	_	6	aux	_	O
+6	have	have	VB	_	0	root	_	O
+7	110	0	CD	_	8	nmod	_	U-CARDINAL
+8	tracks	track	NNS	_	6	dobj	_	O
+9	from	from	IN	_	8	prep	_	O
+10	the	the	DT	_	13	det	_	O
+11	gameOh	gameoh	NNP	pos2=``	13	nmod	_	O
+12	sweet	sweet	JJ	_	13	nmod	_	O
+13	mother	mother	NN	_	9	pobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	god	god	NN	pos2=NNS	14	pobj	_	O
+16	have	have	VBP	pos2=VB	6	dep	_	O
+17	mercy	mercy	NN	_	16	dobj	_	O
+18	on	on	IN	_	16	prep	_	O
+19	my	my	PRP$	_	20	poss	_	O
+20	wallet	wallet	NN	_	18	pobj	_	O
+

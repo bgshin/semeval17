@@ -1,0 +1,20 @@
+1	'	'	``	pos2=''	12	punct	_	O
+2	The	the	DT	_	4	det	_	O
+3	only	only	JJ	_	4	nmod	_	O
+4	leaders	leader	NNS	_	12	nsubj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	church	church	NN	_	5	pobj	_	O
+7	who	who	WP	_	9	nsubj	_	O
+8	would	would	MD	_	9	aux	_	O
+9	support	support	VB	_	4	relcl	_	O
+10	gay	gay	JJ	_	11	nmod	_	O
+11	marriage	marriage	NN	_	9	dobj	_	O
+12	is	be	VBZ	_	0	root	_	O
+13	churches	church	NNS	_	12	attr	_	O
+14	of	of	IN	_	13	prep	_	O
+15	Satan	satan	NNP	_	17	poss	_	O
+16	'	'	POS	pos2=''	15	case	_	O
+17	Pmsl	pmsl	NNP	pos2=GW	14	pobj	_	B-PERSON
+18	#ItsSoTrue	#itssotrue	ADD	pos2=GW	19	punct	_	L-PERSON
+19	https://t.co/98C35H94Ho	#hlink#	ADD	_	12	dep	_	O
+

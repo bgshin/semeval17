@@ -1,0 +1,11 @@
+1	@lucyesk1	@lucyesk0	NN	pos2=LS	2	nsubj	_	O
+2	@megynkelly	@megynkelly	RB	pos2=UH	0	root	_	O
+3	when	when	WRB	_	6	advmod	_	O
+4	did	do	VBD	_	6	aux	_	O
+5	she	she	PRP	_	6	nsubj	_	O
+6	say	say	VB	_	1	relcl	_	O
+7	she	she	PRP	_	8	nsubj	_	O
+8	supported	support	VBD	_	6	ccomp	_	O
+9	him	him	PRP	_	8	dobj	_	O
+10	?	?	.	_	1	punct	_	O
+

@@ -1,0 +1,14 @@
+1	So	so	RB	_	2	advmod	_	O
+2	true	true	JJ	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	#DrainTheSwamp	#draintheswamp	NN	pos2=ADD	0	root	_	O
+2	&	&	CC	_	1	cc	_	O
+3	start	start	VB	pos2=NN	1	conj	_	O
+4	with	with	IN	_	3	prep	_	O
+5	#NeverRomney	#neverromney	NN	pos2=NNP	4	pobj	_	O
+6	.	.	.	_	1	punct	_	O
+
+1	@transition2017	@transition0	NN	pos2=-LRB-	2	dep	_	O
+2	https://t.co/NJsZDBR6Pw	#hlink#	ADD	pos2=NN	0	root	_	O
+

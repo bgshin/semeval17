@@ -1,0 +1,23 @@
+1	Hackers	hacker	NNS	_	3	nsubj	_	O
+2	can	can	MD	_	3	aux	_	O
+3	replace	replace	VB	_	0	root	_	O
+4	original	original	JJ	_	5	nmod	_	O
+5	Android	android	NNP	pos2=NN	9	nmod	_	U-PRODUCT
+6	and	and	CC	_	5	cc	_	O
+7	iOS	io	NNS	pos2=NNP	5	conj	_	O
+8	Telsa	telsa	NNP	pos2=DT	9	compound	_	O
+9	apps	app	NNS	pos2=VBZ	3	dobj	_	O
+10	with	with	IN	_	3	prep	_	O
+11	a	a	DT	_	13	det	_	O
+12	malicious	malicious	JJ	_	13	nmod	_	O
+13	one	#crd#	NN	pos2=CD	10	pobj	_	O
+14	,	,	,	_	15	punct	_	O
+15	steal	steal	VB	pos2=VBP	3	conj	_	O
+16	login	login	NN	_	17	compound	_	O
+17	credentials	credential	NNS	_	15	dobj	_	O
+18	stored	store	VBN	_	19	nmod	_	O
+19	in.	in.	NN	pos2=.	15	conj	_	O
+20	..	..	.	pos2=,	3	punct	_	O
+
+1	https://t.co/YjZ1o2pC2L	#hlink#	ADD	_	0	root	_	U-ORG
+

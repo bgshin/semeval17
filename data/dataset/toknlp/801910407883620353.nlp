@@ -1,0 +1,13 @@
+1	#Russia	#russia	NNP	pos2=NN	3	nmod	_	U-PERSON
+2	'	'	``	pos2=POS	3	punct	_	O
+3	brainwashing	brainwashing	NN	pos2=VBG	5	nmod	_	O
+4	'	'	''	pos2=``	3	punct	_	O
+5	Europeans	european	NNPS	_	6	nsubj	_	U-NORP
+6	says	say	VBZ	_	0	root	_	O
+7	Lithuanian	lithuanian	JJ	pos2=NNP	10	nmod	_	U-NORP
+8	FM	fm	NNP	pos2=FW	10	compound	_	O
+9	@LinkeviciusL@BBCHARDtalk	@linkeviciusl@bbchardtalk	NN	pos2=XX	10	compound	_	O
+10	video	video	NN	_	12	dep	_	O
+11	:	:	:	_	12	punct	_	O
+12	https://t.co/s8TXZnOKMZ	#hlink#	ADD	_	6	dep	_	O
+

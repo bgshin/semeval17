@@ -1,0 +1,23 @@
+1	Interesting	interesting	JJ	_	2	nmod	_	O
+2	take	take	NN	pos2=VB	0	root	_	O
+3	on	on	IN	pos2=RP	2	prep	_	O
+4	why	why	WRB	_	7	advmod	_	O
+5	not	not	RB	_	7	neg	_	O
+6	to	to	TO	_	7	aux	_	O
+7	protest	protest	VB	_	3	pcomp	_	O
+8	Trump	trump	NNP	pos2=NN	9	nsubj	_	U-ORG
+9	winning	win	VBG	_	7	ccomp	_	O
+10	the	the	DT	_	11	det	_	O
+11	presidency	presidency	NN	_	9	dobj	_	O
+12	right	right	RB	_	13	advmod	_	O
+13	now	now	RB	_	9	advmod	_	O
+14	.	.	.	_	2	punct	_	O
+
+1	The	the	DT	_	3	det	_	O
+2	Right	right	JJ	pos2=NNP	3	nmod	_	O
+3	Way	way	NN	pos2=NNP	7	nsubj	_	O
+4	to	to	TO	pos2=IN	5	aux	_	O
+5	Resist	resist	VB	pos2=NNP	3	relcl	_	O
+6	Trump	trump	NNP	pos2=NN	5	dobj	_	O
+7	https://t.co/aLIaY5LDk4	#hlink#	ADD	pos2=NNP	0	root	_	O
+

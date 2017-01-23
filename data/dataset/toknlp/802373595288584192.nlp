@@ -1,0 +1,21 @@
+1	@crampell	@crampell	UH	pos2=XX	15	discourse	_	O
+2	@tripgabriel	@tripgabriel	UH	pos2=XX	15	discourse	_	O
+3	@nytimes	@nytimes	IN	pos2=UH	9	prep	_	O
+4	Moving	move	VBG	_	3	pcomp	_	O
+5	10,000,000	0	CD	_	4	dobj	_	U-CARDINAL
+6	to	to	IN	_	4	prep	_	O
+7	Medicaid	medicaid	NNP	_	8	compound	_	U-ORG
+8	welfare	welfare	NN	_	6	pobj	_	O
+9	ai	be	VBP	pos2=MD	15	ccomp	_	O
+10	n't	not	RB	_	9	neg	_	O
+11	healthcare	healthcare	NN	_	12	compound	_	O
+12	reform	reform	NN	pos2=VB	9	attr	_	O
+13	;	;	:	pos2=,	15	punct	_	O
+14	it	it	PRP	_	15	nsubj	_	O
+15	's	's	VBZ	_	0	root	_	O
+16	a	a	DT	_	18	det	_	O
+17	big	big	JJ	_	18	nmod	_	O
+18	lie	lie	NN	_	20	dep	_	O
+19	:	:	:	_	20	punct	_	O
+20	https://t.co/PHYhPvpkAo	#hlink#	ADD	_	15	dep	_	O
+

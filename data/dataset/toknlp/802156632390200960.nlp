@@ -1,0 +1,19 @@
+1	Catch	catch	VB	pos2=VBP	0	root	_	O
+2	up	up	RP	_	1	prt	_	O
+3	on	on	IN	_	1	prep	_	O
+4	the	the	DT	_	8	det	_	O
+5	top	top	JJ	pos2=NN	8	nmod	_	O
+6	5	0	CD	_	8	nmod	_	U-CARDINAL
+7	business	business	NN	_	8	compound	_	O
+8	articles	article	NNS	_	3	pobj	_	O
+9	from	from	IN	_	8	prep	_	O
+10	11/23	0	CD	_	9	pobj	_	O
+11	#uber	#uber	IN	pos2=NNS	8	prep	_	O
+12	#airbnb	#airbnb	XX	pos2=VBG	1	dep	_	O
+13	$	$	$	_	8	prep	_	O
+14	URBN	urbn	NNP	pos2=CD	18	nmod	_	O
+15	#urbanoutfitters	#urbanoutfitters	XX	pos2=VBZ	17	nmod	_	O
+16	$	$	$	pos2=GW	17	nmod	_	O
+17	CTRP	ctrp	NNP	pos2=-LRB-	18	nmod	_	O
+18	https://t.co/Kg9DN9Rer4	#hlink#	ADD	_	1	dep	_	O
+

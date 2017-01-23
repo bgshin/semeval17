@@ -1,0 +1,14 @@
+1	#Luxury	#luxury	NNP	pos2=``	2	compound	_	B-ORG
+2	Dolce	dolce	NNP	_	9	nsubj	_	I-ORG
+3	&	&	CC	_	2	cc	_	I-ORG
+4	Gabbana?s	gabbana?s	NNP	pos2=PRP$	6	compound	_	I-ORG
+5	New	new	NNP	pos2=JJ	6	compound	_	I-ORG
+6	Bag	bag	NNP	pos2=NN	2	conj	_	L-ORG
+7	And	and	CC	_	6	cc	_	O
+8	T-Shirts	t-shirt	NNS	pos2=NNPS	6	conj	_	O
+9	Celebrate	celebrate	VBP	pos2=VB	0	root	_	O
+10	Gay	gay	NNP	pos2=JJ	11	compound	_	O
+11	Marriage	marriage	NNP	pos2=NN	9	dobj	_	O
+12	https://t.co/CveP80BtTc	#hlink#	ADD	_	13	nmod	_	O
+13	https://t.co/QOtBVLVL1O	#hlink#	ADD	_	9	dobj	_	U-ORG
+

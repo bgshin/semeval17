@@ -1,0 +1,18 @@
+1	https://t.co/wutU83dBXk	#hlink#	ADD	_	2	nsubj	_	O
+2	#nowplaying	#nowplaying	VBG	pos2=-RRB-	0	root	_	O
+3	#enreproduccion	#enreproduccion	IN	pos2=NN	2	prep	_	O
+4	Ricky	ricky	NNP	_	5	compound	_	B-PERSON
+5	Martin	martin	NNP	_	6	compound	_	L-PERSON
+6	feat	feat	NN	_	3	pobj	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	Pitbull	pitbull	NNP	pos2=NN	4	nmod	_	O
+2	-	-	:	pos2=HYPH	7	punct	_	O
+3	"	"	``	pos2=''	5	punct	_	O
+4	Mr.	mr.	NNP	_	5	compound	_	O
+5	Put	put	NNP	pos2=VB	0	root	_	U-PERSON
+6	It	it	PRP	_	5	dobj	_	O
+7	Down	down	RP	pos2=RB	5	prt	_	O
+8	"	"	''	pos2=``	9	punct	_	O
+9	#RadioDance	#radiodance	NN	pos2=ADD	5	advmod	_	O
+

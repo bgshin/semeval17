@@ -1,0 +1,30 @@
+1	are	be	VBP	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	gon	gon	VBG	_	0	root	_	O
+4	na	to	TO	_	5	aux	_	O
+5	say	say	VB	_	3	xcomp	_	O
+6	"	"	``	pos2=''	5	punct	_	O
+7	suck	suck	VB	pos2=VBP	5	xcomp	_	O
+8	it	it	PRP	_	7	dobj	_	O
+9	bitch	bitch	NN	pos2=UH	7	oprd	_	O
+10	"	"	''	pos2=``	5	punct	_	O
+11	to	to	IN	_	5	prep	_	O
+12	the	the	DT	_	13	det	_	O
+13	people	people	NNS	_	11	pobj	_	O
+14	he	he	PRP	pos2=VBP	15	nmod	_	O
+15	mass	mass	NN	pos2=VBZ	16	advmod	_	O
+16	deported	deport	VBN	_	13	relcl	_	O
+17	?	?	.	_	3	punct	_	O
+
+1	the	the	DT	_	2	det	_	O
+2	people	people	NNS	_	11	nsubj	_	O
+3	who	who	WP	_	6	nsubjpass	_	O
+4	've	have	VBP	_	6	aux	_	O
+5	been	be	VBN	_	6	auxpass	_	O
+6	terrorized	terrorize	VBN	_	2	relcl	_	O
+7	by	by	IN	_	6	agent	_	O
+8	drone	drone	NN	_	9	compound	_	O
+9	strike	strike	NN	pos2=VB	7	pobj	_	O
+10	…	…	NFP	pos2=-LRB-	11	punct	_	O
+11	https://t.co/HsZ7YDTsML	#hlink#	ADD	_	0	root	_	O
+

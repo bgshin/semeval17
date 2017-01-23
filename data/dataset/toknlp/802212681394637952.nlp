@@ -1,0 +1,23 @@
+1	@wsoctv	@wsoctv	UH	pos2=MD	2	discourse	_	O
+2	Call	call	VB	pos2=NN	0	root	_	O
+3	from	from	IN	_	2	prep	_	O
+4	every	every	DT	_	5	det	_	O
+5	State	state	NNP	pos2=NN	3	pobj	_	U-ORG
+6	after	after	IN	pos2=RB	9	mark	_	O
+7	all	all	RB	pos2=PDT	8	advmod	_	O
+8	Democrates	democrat	NNPS	pos2=NNS	9	nsubj	_	U-NORP
+9	are	be	VBP	_	2	advcl	_	O
+10	the	the	DT	_	12	det	_	O
+11	Technical	technical	JJ	pos2=NNP	12	nmod	_	O
+12	winner	winner	NN	_	9	attr	_	O
+13	of	of	IN	_	12	prep	_	O
+14	this	this	DT	_	15	det	_	O
+15	election	election	NN	_	13	pobj	_	O
+16	with	with	IN	_	12	prep	_	O
+17	a	a	DT	_	21	det	_	O
+18	2,000,000	0	CD	_	20	nmod	_	U-CARDINAL
+19	+	+	SYM	_	18	punct	_	O
+20	majo	majo	NN	pos2=FW	22	dep	_	O
+21	…	…	NFP	pos2=-LRB-	22	punct	_	O
+22	https://t.co/0sItgkEXgO	#hlink#	ADD	pos2=NN	16	pobj	_	U-GPE
+

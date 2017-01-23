@@ -1,0 +1,33 @@
+1	Contact	contact	VB	pos2=NN	0	root	_	O
+2	electoral	electoral	JJ	_	3	nmod	_	O
+3	college	college	NN	_	1	dobj	_	O
+4	.	.	.	_	1	punct	_	O
+
+1	Not	not	RB	_	3	neg	_	O
+2	so	so	RB	_	3	advmod	_	O
+3	hard	hard	JJ	pos2=RB	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	tweet	tweet	VB	_	3	advcl	_	O
+6	a	a	DT	_	7	det	_	O
+7	bunch	bunch	NN	_	5	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	them	them	PRP	_	8	pobj	_	O
+10	.	.	.	_	3	punct	_	O
+
+1	do	do	VB	pos2=VBP	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	do	do	VB	_	0	root	_	O
+4	more	more	JJR	_	6	qmod	_	O
+5	than	than	IN	_	6	qmod	_	O
+6	10	0	CD	_	3	dobj	_	O
+7	at	at	IN	_	3	prep	_	O
+8	a	a	DT	_	9	det	_	O
+9	time	time	NN	_	7	pobj	_	O
+10	so	so	RB	pos2=IN	13	advmod	_	O
+11	ur	ur	IN	pos2=RB	13	nsubj	_	O
+12	not	not	RB	_	13	neg	_	O
+13	locked	lock	VBN	_	3	advcl	_	O
+14	.	.	.	_	3	punct	_	O
+
+1	https://t.co/fadvwsULNJ	#hlink#	ADD	_	0	root	_	U-ORG
+

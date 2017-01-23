@@ -1,0 +1,15 @@
+1	When	when	WRB	_	4	advmod	_	O
+2	@SlNPAl	@slnpal	NNP	pos2=WP	4	nsubj	_	U-ORG
+3	Actually	actually	RB	pos2=NNP	4	advmod	_	O
+4	Thinks	think	VBZ	_	0	root	_	O
+5	You	you	PRP	pos2=NNP	6	nsubj	_	O
+6	Gave	give	VBD	pos2=NNP	4	ccomp	_	O
+7	Away	away	NNP	pos2=RB	6	dative	_	O
+8	Your	your	PRP$	_	11	poss	_	O
+9	Social	social	NNP	_	10	compound	_	B-ORG
+10	Security	security	NNP	pos2=NN	11	compound	_	L-ORG
+11	Number	number	NN	pos2=NNP	6	dobj	_	O
+12	:	:	:	_	11	punct	_	O
+13	The	the	DT	_	14	det	_	O
+14	Experience	experience	NN	pos2=NNP	11	appos	_	O
+

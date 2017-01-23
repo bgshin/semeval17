@@ -1,0 +1,34 @@
+1	Yes	yes	UH	_	0	root	_	O
+2	!!	!!	.	_	1	punct	_	O
+
+1	Melania	melania	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	says	say	VBZ	_	0	root	_	O
+3	she	she	PRP	_	6	nsubj	_	O
+4	did	do	VBD	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	give	give	VB	_	2	ccomp	_	O
+7	him	him	PRP	_	6	dative	_	O
+8	her	her	PRP$	_	10	poss	_	O
+9	phone	phone	NN	_	10	compound	_	O
+10	#	#	NN	_	6	dobj	_	O
+11	b	b	IN	pos2=LS	10	prep	_	O
+12	/	/	HYPH	pos2=,	11	punct	_	O
+13	c	c	NN	pos2=IN	11	pobj	_	O
+14	he	he	PRP	_	15	nsubj	_	O
+15	was	be	VBD	_	6	advcl	_	O
+16	with	with	IN	_	15	prep	_	O
+17	a	a	DT	_	18	det	_	O
+18	date	date	NN	_	16	pobj	_	O
+19	...	..	.	pos2=:	2	punct	_	O
+
+1	but	but	CC	_	4	cc	_	O
+2	Melania	melania	NNP	_	4	nsubj	_	U-PERSON
+3	also	also	RB	_	4	advmod	_	O
+4	said	say	VBD	_	0	root	_	O
+5	she	she	PRP	_	6	nsubj	_	O
+6	wrote	write	VBD	_	4	ccomp	_	O
+7	the	the	DT	_	8	det	_	O
+8	Mi	mi	NNP	pos2=GW	6	dobj	_	U-GPE
+9	…	…	NFP	pos2=-LRB-	10	punct	_	O
+10	https://t.co/fIlZOPkAMC	#hlink#	ADD	_	8	appos	_	U-GPE
+

@@ -1,0 +1,19 @@
+1	Another	another	DT	_	3	det	_	O
+2	EU	eu	NNP	pos2=NN	3	compound	_	U-ORG
+3	crisis	crisis	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Count	count	NN	pos2=VB	3	compound	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	down	down	NN	pos2=RB	0	root	_	O
+4	to	to	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	cheers	cheer	NNS	_	4	pobj	_	O
+7	from	from	IN	_	6	prep	_	O
+8	Marine	marine	NNP	pos2=JJ	10	compound	_	B-ORG
+9	Le	le	NNP	_	10	compound	_	I-ORG
+10	Pen	pen	NNP	_	7	pobj	_	L-ORG
+11	.	.	.	_	3	punct	_	O
+
+1	https://t.co/rstjga7A2K	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,25 @@
+1	Black	black	NNP	pos2=JJ	2	compound	_	B-EVENT
+2	Friday	friday	NNP	_	0	root	_	L-EVENT
+3	?	?	.	_	2	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	mean	mean	VBP	pos2=VB	3	parataxis	_	O
+3	VOLT	volt	NN	pos2=NNP	0	root	_	O
+4	GREEN	green	NNP	pos2=JJ	5	compound	_	B-DATE
+5	Friday	friday	NNP	_	3	npadvmod	_	L-DATE
+6	!	!	.	_	3	punct	_	O
+
+1	Join	join	VB	_	0	root	_	O
+2	us	us	PRP	_	1	dobj	_	O
+3	tonight	tonight	NN	_	4	npadvmod	_	U-TIME
+4	730e	0e	NN	pos2=NNP	1	dobj	_	O
+5	from	from	IN	_	1	prep	_	O
+6	SLC	slc	NNP	pos2=NN	5	pobj	_	U-ORG
+7	!	!	.	_	1	punct	_	O
+
+1	@ATLHawks	@atlhawks	NNS	pos2=ADD	0	root	_	O
+2	vs	vs	CC	pos2=VBZ	1	cc	_	O
+3	@utahjazz	@utahjazz	NN	pos2=NNS	1	conj	_	O
+4	on	on	IN	_	1	prep	_	O
+5	@HawksOnFSSE	@hawksonfsse	ADD	pos2=NNP	4	pobj	_	O
+

@@ -1,0 +1,11 @@
+1	do	do	VBP	pos2=VB	3	aux	_	O
+2	jews	jew	NNS	pos2=NN	3	nsubj	_	O
+3	admit	admit	VB	pos2=VBP	0	root	_	O
+4	alt	alt	NN	pos2=JJ	6	compound	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	rightists	rightist	NNS	_	3	dobj	_	O
+7	into	into	IN	_	3	prep	_	O
+8	ADL	adl	NNP	pos2=NN	9	compound	_	U-ORG
+9	meetings	meeting	NNS	_	7	pobj	_	O
+10	?	?	.	_	3	punct	_	O
+

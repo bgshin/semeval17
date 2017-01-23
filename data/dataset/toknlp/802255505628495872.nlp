@@ -1,0 +1,20 @@
+1	#Microsoft	#microsoft	NNP	pos2=PRP	2	nsubj	_	U-ORG
+2	joins	join	VBZ	_	0	root	_	O
+3	#Linux	#linux	NNP	pos2=NNPS	4	compound	_	O
+4	Foundation	foundation	NNP	pos2=NN	2	dobj	_	O
+5	.	.	.	_	2	punct	_	O
+
+1	Is	be	VBZ	_	0	root	_	O
+2	the	the	DT	_	3	det	_	O
+3	move	move	NN	_	1	attr	_	O
+4	taken	take	VBN	_	3	acl	_	O
+5	mainly	mainly	RB	_	4	advmod	_	O
+6	for	for	IN	_	4	prep	_	O
+7	improvement	improvement	NN	_	6	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	#Azure	#azure	NN	pos2=NNP	10	compound	_	O
+10	platform	platform	NN	_	8	pobj	_	O
+11	?	?	.	_	1	punct	_	O
+
+1	https://t.co/1ciboUKZp4	#hlink#	ADD	_	0	root	_	U-ORG
+

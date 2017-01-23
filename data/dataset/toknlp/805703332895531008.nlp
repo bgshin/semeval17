@@ -1,0 +1,15 @@
+1	Seminar	seminar	NN	pos2=NNP	0	root	_	O
+2	on	on	IN	_	1	prep	_	O
+3	Scope	scope	NN	pos2=NNP	2	pobj	_	O
+4	and	and	CC	_	3	cc	_	O
+5	Prospects	prospect	NNS	pos2=NNPS	3	conj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	Canadian	canadian	JJ	pos2=NNP	8	nmod	_	B-NORP
+8	ImmigrationArranged	immigrationarranged	NNP	pos2=VBN	6	pobj	_	L-NORP
+9	by	by	IN	pos2=RB	1	prep	_	O
+10	-	-	HYPH	pos2=:	9	punct	_	O
+11	Asia	asia	NNP	_	14	compound	_	B-ORG
+12	Pacific	pacific	NNP	_	14	compound	_	I-ORG
+13	Immigration	immigration	NNP	_	14	compound	_	I-ORG
+14	Services	service	NNPS	pos2=NNS	9	pobj	_	L-ORG
+

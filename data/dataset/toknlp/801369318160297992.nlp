@@ -1,0 +1,25 @@
+1	@HifiWafel	@hifiwafel	NNP	pos2=XX	2	compound	_	O
+2	Russia	russia	NNP	_	3	nsubj	_	U-GPE
+3	had	have	VBD	_	0	root	_	O
+4	peacekeepers	peacekeeper	NNS	_	3	dobj	_	O
+5	stationed	station	VBN	_	4	acl	_	O
+6	in	in	IN	_	5	prep	_	O
+7	Georgia	georgia	NNP	_	6	pobj	_	U-GPE
+8	who	who	WP	_	10	nsubjpass	_	O
+9	were	be	VBD	_	10	auxpass	_	O
+10	shelled	shell	VBN	_	4	relcl	_	O
+11	by	by	IN	_	10	agent	_	O
+12	Saakashvili	saakashvili	NNP	_	11	pobj	_	U-PERSON
+13	.	.	.	_	3	punct	_	O
+
+1	Ukraine	ukraine	NNP	_	2	nsubj	_	U-GPE
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	9	det	_	O
+4	civil	civil	JJ	pos2=NNP	5	nmod	_	O
+5	war	war	NN	_	6	compound	_	O
+6	assistance	assistance	NN	pos2=IN	9	compound	_	O
+7	US	us	NNP	pos2=NN	9	compound	_	U-GPE
+8	-	-	HYPH	_	9	punct	_	O
+9	style	style	NN	pos2=NNS	2	attr	_	O
+10	.	.	.	_	2	punct	_	O
+

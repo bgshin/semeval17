@@ -1,0 +1,22 @@
+1	Ca	can	MD	_	3	aux	_	O
+2	n't	not	RB	_	3	neg	_	O
+3	wait	wait	VB	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	the	the	DT	_	9	det	_	O
+6	Tai	tai	NNP	_	9	compound	_	B-PERSON
+7	Walker	walker	NNP	_	9	compound	_	I-PERSON
+8	Cy	cy	NNP	_	9	compound	_	I-PERSON
+9	Young	young	NNP	_	4	pobj	_	L-PERSON
+10	and	and	CC	_	9	cc	_	O
+11	Marte	marte	NNP	_	13	compound	_	B-ORG
+12	Gold	gold	NNP	pos2=NN	13	compound	_	I-ORG
+13	Glove	glove	NNP	pos2=NN	9	conj	_	L-ORG
+14	in	in	IN	_	3	prep	_	O
+15	two	#crd#	CD	_	16	nmod	_	B-DATE
+16	years	year	NNS	_	14	pobj	_	L-DATE
+17	!	!	.	_	3	punct	_	O
+
+1	#GoMs	#goms	NNS	pos2=GW	3	nmod	_	O
+2	#TheMarinerWay	#themarinerway	GW	pos2=ADD	3	nmod	_	O
+3	https://t.co/BIzJIDIbou	#hlink#	ADD	pos2=NN	0	root	_	O
+

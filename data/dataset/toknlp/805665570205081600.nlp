@@ -1,0 +1,25 @@
+1	think	think	VB	pos2=VBP	0	root	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	am	be	VBP	_	4	aux	_	O
+4	going	go	VBG	_	1	ccomp	_	O
+5	to	to	IN	pos2=TO	4	prep	_	O
+6	dream	dream	NN	pos2=VB	5	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	#EvanRachelWould	#evanrachelwould	NNP	pos2=ADD	10	poss	_	U-ORG
+9	's	's	POS	_	8	case	_	O
+10	mind	mind	NN	_	7	pobj	_	O
+11	blowing	blow	VBG	pos2=NN	12	nmod	_	O
+12	performance	performance	NN	_	8	nmod	_	O
+13	as	as	IN	_	12	prep	_	O
+14	Delores	delores	NNP	_	16	nmod	_	O
+15	+	+	SYM	pos2=NNP	16	punct	_	O
+16	Wyatt	wyatt	NNP	_	13	pobj	_	O
+17	for	for	IN	_	4	prep	_	O
+18	a	a	DT	_	20	det	_	O
+19	few	few	JJ	_	20	nmod	_	O
+20	nights	night	NNS	_	17	pobj	_	O
+21	.	.	.	_	1	punct	_	O
+
+1	#Westworld	#westworld	NNP	pos2=XX	0	root	_	O
+2	#cantstoptweeting	#cantstoptweeting	UH	pos2=VBG	1	discourse	_	O
+

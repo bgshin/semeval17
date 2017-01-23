@@ -1,0 +1,29 @@
+1	It	it	PRP	_	4	nsubj	_	O
+2	would	would	MD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	make	make	VB	_	0	root	_	O
+5	you	you	PRP	_	6	nsubj	_	O
+6	feel	feel	VB	pos2=VBP	4	ccomp	_	O
+7	shameful	shameful	JJ	_	6	acomp	_	O
+8	if	if	IN	_	10	mark	_	O
+9	there	there	EX	_	10	expl	_	O
+10	was	be	VBD	_	6	advcl	_	O
+11	n't	not	RB	_	10	neg	_	O
+12	some	some	DT	_	13	det	_	O
+13	part	part	NN	_	10	attr	_	O
+14	of	of	IN	_	13	prep	_	O
+15	you	you	PRP	_	14	pobj	_	O
+16	that	that	WDT	_	17	nsubj	_	O
+17	knew	know	VBD	_	13	relcl	_	O
+18	it	it	PRP	_	19	nsubj	_	O
+19	was	be	VBD	_	17	ccomp	_	O
+20	wrong	wrong	JJ	_	19	acomp	_	O
+21	.	.	.	_	4	punct	_	O
+
+1	Abortion	abortion	NN	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	cruelty	cruelty	NN	pos2=VBG	4	compound	_	O
+4	aga	aga	NN	pos2=GW	2	attr	_	O
+5	…	…	NFP	pos2=-LRB-	2	punct	_	O
+6	https://t.co/yPR1JTvRBn	#hlink#	ADD	_	2	dep	_	O
+

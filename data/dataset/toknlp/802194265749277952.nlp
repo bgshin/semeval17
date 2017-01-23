@@ -1,0 +1,22 @@
+1	PLS	pls	NNS	pos2=UH	2	compound	_	O
+2	S&S	s&s	NNS	pos2=VB	4	dep	_	O
+3	|	|	SYM	pos2=,	4	punct	_	O
+4	Stand	stand	VB	pos2=NN	0	root	_	O
+5	with	with	IN	_	4	prep	_	O
+6	the	the	DT	_	8	det	_	O
+7	#Native	#native	JJ	pos2=CD	8	nmod	_	O
+8	people	people	NNS	_	5	pobj	_	O
+9	!	!	.	_	4	punct	_	O
+
+1	Stop	stop	VB	_	0	root	_	O
+2	the	the	DT	_	5	det	_	O
+3	Dakota	dakota	NNP	_	5	compound	_	O
+4	Access	access	NNP	_	5	compound	_	O
+5	Pipeline	pipeline	NNP	pos2=NN	1	dobj	_	O
+6	!	!	.	_	1	punct	_	O
+
+1	#NoDapl	#nodapl	XX	pos2=ADD	4	nmod	_	O
+2	#NoDakotaAccess	#nodakotaaccess	GW	pos2=XX	4	nmod	_	B-PERSON
+3	#RezpectOurWater	#rezpectourwater	GW	pos2=ADD	4	nmod	_	L-PERSON
+4	https://t.co/hCfJM5ltJB	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,22 @@
+1	The	the	DT	_	4	det	_	B-ORG
+2	Progressive	progressive	NNP	pos2=JJ	4	compound	_	I-ORG
+3	Student	student	NNP	_	4	compound	_	I-ORG
+4	Union	union	NNP	_	5	nsubj	_	L-ORG
+5	organized	organize	VBD	_	0	root	_	O
+6	an	an	DT	_	8	det	_	O
+7	anti-trump	anti-trump	JJ	_	8	nmod	_	O
+8	protest	protest	NN	_	5	dobj	_	O
+9	at	at	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	B-ORG
+11	University	university	NNP	_	9	pobj	_	I-ORG
+12	of	of	IN	_	11	prep	_	I-ORG
+13	Texas	texas	NNP	_	12	pobj	_	L-ORG
+14	at	at	IN	_	11	prep	_	O
+15	Arlington	arlington	NNP	_	14	pobj	_	U-GPE
+16	,	,	,	_	8	punct	_	O
+17	Nov.	nov.	NNP	_	5	npadvmod	_	B-DATE
+18	13	0	CD	_	17	nmod	_	L-DATE
+19	.	.	.	_	5	punct	_	O
+
+1	https://t.co/HUHczOJ1Xd	#hlink#	ADD	_	0	root	_	U-ORG
+

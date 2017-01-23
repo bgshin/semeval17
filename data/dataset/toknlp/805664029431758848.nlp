@@ -1,0 +1,29 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@klustout	@klustout	UH	pos2=NN	5	discourse	_	O
+2	@VanJones68	@vanjones0	IN	pos2=VBZ	5	prep	_	O
+3	Our	our	PRP$	_	4	poss	_	O
+4	country	country	NN	_	2	pobj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	battle	battle	NN	_	5	attr	_	O
+8	of	of	IN	_	7	prep	_	O
+9	"	"	``	_	13	punct	_	O
+10	fundamentally	fundamentally	RB	_	11	advmod	_	O
+11	polar	polar	JJ	_	13	nmod	_	O
+12	"	"	''	_	13	punct	_	O
+13	ideologies	ideology	NNS	_	8	pobj	_	O
+14	(	(	-LRB-	_	13	punct	_	O
+15	i.e	i.e	FW	pos2=NN	13	punct	_	O
+16	Abortion	abortion	NN	pos2=NNP	15	pobj	_	O
+17	vs.	vs.	IN	pos2=CC	16	prep	_	O
+18	Pro	pro	NNP	pos2=JJ	19	compound	_	B-ORG
+19	Life	life	NNP	pos2=NN	17	pobj	_	L-ORG
+20	)	)	-RRB-	_	13	punct	_	O
+21	where	where	WRB	_	22	advmod	_	O
+22	is	be	VBZ	_	5	conj	_	O
+23	the	the	DT	_	25	det	_	O
+24	meeting	meeting	NN	_	25	compound	_	O
+25	point	point	NN	_	22	nsubj	_	O
+26	?	?	.	_	22	punct	_	O
+

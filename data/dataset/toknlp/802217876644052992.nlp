@@ -1,0 +1,22 @@
+1	@loogunda	@loogunda	UH	pos2=NN	5	discourse	_	O
+2	@poroshenko	@poroshenko	IN	pos2=FW	4	mark	_	O
+3	Putin	putin	NNP	_	4	nsubj	_	U-PERSON
+4	abducted	abduct	VBD	pos2=VBN	0	root	_	O
+5	Ukrainian	ukrainian	JJ	_	6	nmod	_	U-NORP
+6	citizens	citizen	NNS	_	4	dobj	_	O
+7	in	in	IN	_	4	prep	_	O
+8	occupied	occupy	VBN	pos2=JJ	9	nmod	_	O
+9	territories	territory	NNS	_	7	pobj	_	O
+10	&	&	CC	_	4	cc	_	O
+11	mobilized	mobilize	VBD	pos2=VBN	4	conj	_	O
+12	them	them	PRP	pos2=RB	11	dobj	_	O
+13	/	/	SYM	pos2=,	10	punct	_	O
+14	human	human	JJ	pos2=NN	15	nmod	_	O
+15	shield	shield	NN	_	11	dobj	_	O
+16	against	against	IN	_	15	prep	_	O
+17	Ukraine	ukraine	NNP	pos2=NN	16	pobj	_	U-GPE
+18	=	=	SYM	pos2=HYPH	19	punct	_	O
+19	war	war	NN	pos2=JJ	20	compound	_	O
+20	crime	crime	NN	pos2=NNS	17	appos	_	O
+21	.	.	.	_	19	punct	_	O
+

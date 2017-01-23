@@ -1,0 +1,20 @@
+1	why	why	WRB	_	4	advmod	_	O
+2	does	do	VBZ	_	4	aux	_	O
+3	everyone	everyone	NN	_	4	nsubj	_	O
+4	keep	keep	VB	pos2=VBP	0	root	_	O
+5	saying	say	VBG	_	4	xcomp	_	O
+6	white	white	JJ	_	7	nmod	_	O
+7	supremacists	supremacist	NNS	_	8	compound	_	O
+8	care	care	NN	pos2=VBP	4	dobj	_	O
+9	about	about	IN	_	4	prep	_	O
+10	middle	middle	JJ	_	11	advmod	_	O
+11	eastern	eastern	JJ	_	12	nmod	_	O
+12	christians	christian	NNS	pos2=NNPS	9	pobj	_	O
+13	when	when	WRB	pos2=RB	15	advmod	_	O
+14	that	that	DT	_	15	nsubj	_	O
+15	's	's	VBZ	_	4	advcl	_	O
+16	clearly	clearly	RB	_	15	advmod	_	O
+17	not	not	RB	_	15	neg	_	O
+18	the	the	DT	_	19	det	_	O
+19	case	case	NN	_	15	attr	_	O
+

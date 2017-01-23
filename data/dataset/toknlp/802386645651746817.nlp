@@ -1,0 +1,19 @@
+1	so	so	RB	pos2=CC	2	advmod	_	O
+2	wait	wait	VB	pos2=NN	0	root	_	O
+3	is	be	VBZ	_	5	auxpass	_	O
+4	tpp	tpp	NN	pos2=XX	5	nsubjpass	_	O
+5	supposed	suppose	VBN	_	0	root	_	O
+6	to	to	TO	_	8	aux	_	O
+7	be	be	VB	_	8	aux	_	O
+8	going	go	VBG	_	5	xcomp	_	O
+9	through	through	IN	_	8	prep	_	O
+10	victory	victory	NN	pos2=FW	9	pobj	_	O
+11	short	short	JJ	_	12	nmod	_	O
+12	walk	walk	NN	pos2=VB	8	npadvmod	_	O
+13	?	?	.	_	2	punct	_	O
+
+1	wtf	wtf	NN	pos2=NNS	4	discourse	_	O
+2	are	be	VBP	_	4	aux	_	O
+3	they	they	PRP	_	4	nsubj	_	O
+4	doing	do	VBG	_	0	root	_	O
+

@@ -1,0 +1,24 @@
+1	they	they	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	10	ccomp	_	O
+3	n't	not	RB	_	2	neg	_	O
+4	anti	anti	AFX	pos2=VBG	5	nmod	_	O
+5	trump	trump	NN	_	2	attr	_	O
+6	they	they	PRP	_	7	nsubj	_	O
+7	are	be	VBP	_	10	ccomp	_	O
+8	pro	pro	JJ	pos2=FW	9	nmod	_	O
+9	soros	soros	NNS	pos2=RB	7	attr	_	O
+10	let	let	VB	pos2=VBP	0	root	_	O
+11	s	s	PRP	pos2=RP	13	nsubj	_	O
+12	over	over	RB	pos2=RP	13	advmod	_	O
+13	throw	throw	VB	pos2=VBP	10	ccomp	_	O
+14	the	the	DT	_	16	det	_	O
+15	US	us	NNP	_	16	compound	_	U-GPE
+16	riots	riot	NNS	_	13	dobj	_	O
+17	/	/	SYM	pos2=,	18	punct	_	O
+18	Call	call	VB	pos2=VBP	13	dep	_	O
+19	it	it	PRP	_	18	dobj	_	O
+20	what	what	WP	_	22	attr	_	O
+21	it	it	PRP	_	22	nsubj	_	O
+22	is	be	VBZ	_	18	ccomp	_	O
+23	https://t.co/HJSU8dCDLD	#hlink#	ADD	_	10	dep	_	U-ORG
+

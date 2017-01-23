@@ -1,0 +1,26 @@
+1	yesterday	yesterday	NN	_	2	npadvmod	_	U-DATE
+2	was	be	VBD	_	20	ccomp	_	O
+3	#NationalFastFoodDay	#nationalfastfoodday	NNP	pos2=VBN	2	nsubj	_	U-ORG
+4	,	,	,	_	3	punct	_	O
+5	a	a	DT	_	6	det	_	O
+6	day	day	NN	_	3	appos	_	O
+7	where	where	WRB	_	9	advmod	_	O
+8	one	#crd#	CD	pos2=NN	9	nsubj	_	O
+9	celebrates	celebrate	VBZ	_	6	relcl	_	O
+10	,	,	,	_	9	punct	_	O
+11	praises	praise	NNS	pos2=VBZ	9	conj	_	O
+12	,	,	,	_	3	punct	_	O
+13	and	and	CC	_	2	cc	_	O
+14	eventually	eventually	RB	_	15	advmod	_	O
+15	eats	eat	VBZ	_	2	conj	_	O
+16	unhealthy	unhealthy	JJ	_	17	nmod	_	O
+17	food	food	NN	_	15	dobj	_	O
+18	,	,	,	_	20	punct	_	O
+19	this	this	DT	_	20	nsubj	_	O
+20	is	be	VBZ	_	0	root	_	O
+21	a	a	DT	_	23	det	_	O
+22	new	new	JJ	_	23	nmod	_	O
+23	low	low	NN	pos2=JJ	20	attr	_	O
+24	for	for	IN	_	23	prep	_	O
+25	humanity	humanity	NN	_	24	pobj	_	O
+

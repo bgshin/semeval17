@@ -1,0 +1,11 @@
+1	How	how	WRB	_	4	advmod	_	O
+2	did	do	VBD	_	4	aux	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	become	become	VB	pos2=VBP	0	root	_	O
+5	THAT	that	DT	pos2=IN	6	det	_	O
+6	MOM	mom	NN	_	4	attr	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	ISO	iso	NNP	pos2=NN	2	compound	_	U-ORG
+2	#hatchimals	#hatchimals	NNS	pos2=UH	0	root	_	O
+

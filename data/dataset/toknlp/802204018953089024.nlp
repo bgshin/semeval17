@@ -1,0 +1,18 @@
+1	President	president	NNP	pos2=NN	3	compound	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	elect	elect	NNP	pos2=VB	4	compound	_	O
+4	@realDonaldTrump	@realdonaldtrump	NNP	pos2=NN	5	nsubj	_	U-ORG
+5	has	have	VBZ	_	0	root	_	O
+6	a	a	DT	_	7	det	_	O
+7	conflict	conflict	NN	_	5	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	interest	interest	NN	_	8	pobj	_	O
+10	in	in	IN	_	9	prep	_	O
+11	Dakota	dakota	NNP	_	13	compound	_	B-ORG
+12	Access	access	NNP	_	13	compound	_	I-ORG
+13	Pipeline	pipeline	NNP	pos2=NN	10	pobj	_	L-ORG
+14	.	.	.	_	5	punct	_	O
+
+1	#IStandWithStandingRock	#istandwithstandingrock	ADD	pos2=-LRB-	2	punct	_	O
+2	https://t.co/9CTWQUf8dQ	#hlink#	ADD	_	0	root	_	O
+

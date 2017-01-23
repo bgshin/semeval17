@@ -1,0 +1,34 @@
+1	@PRyan	@pryan	MD	pos2=NN	4	punct	_	O
+2	Please	please	UH	_	4	discourse	_	O
+3	do	do	VB	_	4	aux	_	O
+4	cut	cut	VB	pos2=VBN	0	root	_	O
+5	Medicare	medicare	NNP	pos2=NN	4	dobj	_	U-ORG
+6	.	.	.	_	4	punct	_	O
+
+1	You	you	PRP	_	3	nsubj	_	O
+2	are	be	VBP	_	3	aux	_	O
+3	causing	cause	VBG	_	0	root	_	O
+4	so	so	RB	_	5	advmod	_	O
+5	much	much	JJ	pos2=RB	6	nmod	_	O
+6	anxiety	anxiety	NN	_	3	dobj	_	O
+7	.	.	.	_	3	punct	_	O
+
+1	Do	do	VBP	pos2=VB	4	aux	_	O
+2	n't	not	RB	_	4	neg	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	understand	understand	VB	pos2=VBP	0	root	_	O
+5	SS	ss	NN	pos2=NNP	4	dobj	_	B-ORG
+6	&	&	CC	_	5	cc	_	I-ORG
+7	Medicare	medicare	NNP	_	5	conj	_	L-ORG
+8	are	be	VBP	_	12	aux	_	O
+9	all	all	PDT	pos2=RB	11	predet	_	O
+10	some	some	DT	_	11	det	_	O
+11	people	people	NNS	_	12	nsubj	_	O
+12	have	have	VB	pos2=VBP	0	root	_	O
+13	?	?	.	_	12	punct	_	O
+
+1	Have	have	VB	pos2=VBP	0	root	_	O
+2	a	a	DT	_	3	det	_	O
+3	heart	heart	NN	_	1	dobj	_	O
+4	!	!	.	_	1	punct	_	O
+

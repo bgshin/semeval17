@@ -1,0 +1,6 @@
+1	@retronic_sxe	@retronic_sxe	XX	pos2=VB	4	dep	_	O
+2	kim	kim	NNP	pos2=XX	4	compound	_	B-PERSON
+3	Jong	jong	NNP	_	4	compound	_	I-PERSON
+4	Un	un	NNP	_	0	root	_	L-PERSON
+5	?	?	.	_	4	punct	_	O
+

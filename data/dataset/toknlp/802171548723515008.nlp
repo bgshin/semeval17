@@ -1,0 +1,13 @@
+1	[	[	-LRB-	pos2=SYM	2	punct	_	O
+2	1/2	0	CD	pos2=LS	12	dep	_	U-CARDINAL
+3	]	]	-RRB-	_	2	punct	_	O
+4	Today	today	NN	pos2=NNP	8	poss	_	U-DATE
+5	's	's	POS	_	4	case	_	O
+6	training	training	NN	_	7	compound	_	O
+7	session	session	NN	_	8	compound	_	O
+8	#fcblive	#fcblive	NN	pos2=CD	12	dep	_	O
+9	[	[	-LRB-	_	10	punct	_	O
+10	fcb	fcb	NN	pos2=GW	8	appos	_	O
+11	]	]	-RRB-	pos2=GW	10	punct	_	O
+12	https://t.co/xES5sACYhv	#hlink#	ADD	_	0	root	_	O
+

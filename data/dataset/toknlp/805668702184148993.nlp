@@ -1,0 +1,15 @@
+1	only	only	RB	pos2=JJ	5	advmod	_	O
+2	USA	usa	NNP	_	4	compound	_	U-GPE
+3	UK	uk	NNP	_	4	compound	_	U-GPE
+4	Israel	israel	NNP	_	5	nsubj	_	U-GPE
+5	say	say	VBP	pos2=VB	0	root	_	O
+6	Vatican	vatican	NNP	_	10	compound	_	O
+7	Pope	pope	NNP	_	10	compound	_	O
+8	Francis	francis	NNP	_	10	compound	_	B-PERSON
+9	viel	viel	NNP	pos2=NN	10	compound	_	I-PERSON
+10	Glueck	glueck	NNP	_	11	nsubj	_	L-PERSON
+11	fuers	fuers	VBZ	pos2=VBD	5	ccomp	_	O
+12	Leben	leben	NNP	_	13	compound	_	O
+13	sagt	sagt	NN	pos2=IN	14	compound	_	O
+14	Gott	gott	NNP	_	11	dobj	_	O
+

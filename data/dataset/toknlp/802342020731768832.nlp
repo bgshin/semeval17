@@ -1,0 +1,22 @@
+1	Lover	lover	NN	pos2=NNP	3	compound	_	O
+2	Lover	lover	NNP	pos2=NN	3	compound	_	O
+3	Lover	lover	NNP	pos2=NN	7	nsubj	_	O
+4	by	by	IN	_	3	prep	_	O
+5	Leonard	leonard	NNP	_	6	compound	_	B-PERSON
+6	Cohen	cohen	NNP	_	4	pobj	_	L-PERSON
+7	is	be	VBZ	_	0	root	_	O
+8	totally	totally	RB	_	9	advmod	_	O
+9	about	about	IN	pos2=RB	7	prep	_	O
+10	being	be	VBG	_	9	pcomp	_	O
+11	a	a	DT	_	13	det	_	O
+12	trans	trans	JJ	pos2=JJR	13	nmod	_	O
+13	girl	girl	NN	_	10	attr	_	O
+14	like	like	UH	pos2=MD	15	discourse	_	O
+15	come	come	VB	_	7	xcomp	_	O
+16	on	on	IN	_	15	prep	_	O
+17	it	it	PRP	_	18	nsubj	_	O
+18	's	's	VBZ	_	15	parataxis	_	O
+19	not	not	RB	_	18	neg	_	O
+20	even	even	RB	_	21	advmod	_	O
+21	subtle	subtle	JJ	_	18	acomp	_	O
+

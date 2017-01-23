@@ -1,0 +1,21 @@
+1	ICIEC	iciec	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	reinsures	reinsure	VBZ	pos2=NNS	0	root	_	O
+3	EKF	ekf	NN	pos2=NNP	2	dobj	_	O
+4	on	on	IN	_	2	prep	_	O
+5	wind	wind	NN	_	6	compound	_	O
+6	farm	farm	NN	_	7	compound	_	O
+7	projects	project	NNS	_	4	pobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	ease	ease	VB	_	2	advcl	_	O
+10	Turkey	turkey	NNP	_	12	poss	_	U-GPE
+11	’s	's	POS	_	10	case	_	O
+12	dependence	dependence	NN	_	9	dobj	_	O
+13	on	on	IN	_	12	prep	_	O
+14	fossil	fossil	NN	pos2=JJ	15	compound	_	O
+15	fuels	fuel	NNS	_	13	pobj	_	O
+16	#EKF	#ekf	VBP	pos2=POS	20	dep	_	O
+17	#Reinsurance	#reinsurance	NNP	pos2=IN	20	nmod	_	O
+18	#Windfarm	#windfarm	GW	pos2=NNP	20	nmod	_	O
+19	…	…	NFP	pos2=GW	20	punct	_	O
+20	https://t.co/t1RWZCiNp0	#hlink#	ADD	_	2	dep	_	O
+

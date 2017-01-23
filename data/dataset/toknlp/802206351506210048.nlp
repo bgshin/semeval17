@@ -1,0 +1,22 @@
+1	Hillary	hillary	NNP	_	2	nsubj	_	U-PERSON
+2	won	win	VBD	_	0	root	_	O
+3	popular	popular	JJ	_	4	nmod	_	O
+4	vote	vote	NN	_	2	dobj	_	O
+5	by	by	IN	_	2	prep	_	O
+6	2million	0million	CD	pos2=NNP	5	pobj	_	U-CARDINAL
+7	.	.	.	_	2	punct	_	O
+
+1	No	no	DT	_	3	det	_	O
+2	Trump	trump	NN	pos2=NNP	3	compound	_	U-PERSON
+3	mandate	mandate	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Beat	beat	VB	pos2=NNP	0	root	_	O
+2	Bernie	bernie	NNP	_	3	compound	_	U-PERSON
+3	sans	sans	NNS	pos2=NNP	1	dobj	_	O
+4	Super	super	NNP	_	5	compound	_	B-ORG
+5	Delgates	delgates	NNPS	pos2=NNP	0	root	_	L-ORG
+6	@melimel521	@melimel0	CD	pos2=POS	1	prep	_	O
+7	@SallyAlbright	@sallyalbright	ADD	pos2=MD	6	pobj	_	B-ORG
+8	@BernieUpstateNY	@bernieupstateny	ADD	pos2=NN	7	pobj	_	L-ORG
+

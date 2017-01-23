@@ -1,0 +1,12 @@
+1	Michael	michael	NNP	_	2	compound	_	B-PERSON
+2	Moore	moore	NNP	_	3	nsubj	_	L-PERSON
+3	pans	pan	VBZ	pos2=NNS	0	root	_	O
+4	Trump	trump	NNP	pos2=NN	5	compound	_	B-ORG
+5	Cabinet	cabinet	NNP	_	6	nsubj	_	L-ORG
+6	pick	pick	VB	pos2=NN	3	ccomp	_	O
+7	Betsy	betsy	NNP	_	8	compound	_	B-PERSON
+8	DeVos	devos	NNP	_	11	dep	_	L-PERSON
+9	|	|	SYM	pos2=,	11	punct	_	O
+10	#Politics	#politics	NNS	pos2=ADD	11	dep	_	O
+11	https://t.co/lWrw2Wpk5F	#hlink#	ADD	_	6	dobj	_	O
+

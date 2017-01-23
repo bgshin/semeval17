@@ -1,0 +1,26 @@
+1	When	when	WRB	_	4	advmod	_	O
+2	the	the	DT	_	3	det	_	O
+3	pilot	pilot	NN	_	4	nsubj	_	O
+4	says	say	VBZ	_	15	advcl	_	O
+5	"	"	``	_	4	punct	_	O
+6	if	if	IN	_	8	mark	_	O
+7	you	you	PRP	_	8	nsubj	_	O
+8	have	have	VBP	_	15	advcl	_	O
+9	a	a	DT	_	12	det	_	O
+10	Samsung	samsung	NNP	_	12	compound	_	U-ORG
+11	galaxy	galaxy	NN	pos2=NNP	12	compound	_	O
+12	note	note	NN	_	8	dobj	_	O
+13	7	0	CD	_	12	nmod	_	U-CARDINAL
+14	,	,	,	_	15	punct	_	O
+15	get	get	VB	_	0	root	_	O
+16	off	off	IN	pos2=RP	15	prep	_	O
+17	the	the	DT	_	18	det	_	O
+18	plane	plane	NN	_	16	pobj	_	O
+19	"	"	``	pos2=''	15	punct	_	O
+20	#lol	#lol	UH	pos2=XX	15	discourse	_	O
+21	#flying	#flying	UH	pos2=VBG	15	discourse	_	O
+22	#samsung	#samsung	UH	pos2=FW	15	discourse	_	O
+23	#faa	#faa	UH	pos2=FW	15	discourse	_	O
+24	#tsa	#tsa	UH	pos2=FW	15	discourse	_	O
+25	#dot	#dot	UH	pos2=.	15	discourse	_	O
+

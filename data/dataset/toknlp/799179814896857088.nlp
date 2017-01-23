@@ -1,0 +1,11 @@
+1	The	the	DT	_	3	det	_	B-ORG
+2	Dispatch	dispatch	NNP	pos2=NN	3	compound	_	I-ORG
+3	Resister	resister	NNP	pos2=NN	4	nsubj	_	L-ORG
+4	is	be	VBZ	_	0	root	_	O
+5	out	out	RB	pos2=RP	4	advmod	_	O
+6	!	!	.	_	4	punct	_	O
+
+1	https://t.co/10q66IClkS	#hlink#	ADD	_	0	root	_	O
+2	#olemiss	#olemiss	-RRB-	pos2=IN	1	punct	_	O
+3	#trumptransitionteam	#trumptransitionteam	UH	pos2=NN	1	discourse	_	O
+

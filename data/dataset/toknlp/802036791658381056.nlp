@@ -1,0 +1,14 @@
+1	whew	whew	UH	_	6	discourse	_	O
+2	god	god	UH	pos2=NN	6	discourse	_	O
+3	damn	damn	JJ	pos2=RB	5	nmod	_	O
+4	lea	lea	NN	pos2=FW	5	compound	_	O
+5	michele	michele	NN	pos2=NNP	6	nsubj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	so	so	RB	_	8	advmod	_	O
+8	sexy	sexy	JJ	_	6	acomp	_	O
+9	https://t.co/5k4zyk9vN0	#hlink#	ADD	pos2=NN	5	appos	_	U-ORG
+10	#LeaMichele	#leamichele	ADD	pos2=-RRB-	6	punct	_	U-ORG
+11	#ScreamQueens	#screamqueens	NNS	pos2=ADD	10	pobj	_	O
+12	#Hester	#hester	ADD	pos2=NNP	8	cc	_	B-PERSON
+13	#Booty	#booty	NNP	pos2=NN	12	pobj	_	L-PERSON
+

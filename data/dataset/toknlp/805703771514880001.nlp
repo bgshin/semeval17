@@ -1,0 +1,20 @@
+1	Theo	theo	NNP	pos2=NN	5	nsubj	_	U-PERSON
+2	and	and	CC	_	1	cc	_	O
+3	Jed	jed	NNP	_	1	conj	_	U-PERSON
+4	calmly	calmly	RB	_	5	advmod	_	O
+5	waiting	wait	VBG	_	0	root	_	O
+6	for	for	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	results	result	NNS	_	6	pobj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	#wintermeetings	#wintermeetings	NNS	pos2=JJ	12	compound	_	O
+12	snowman	snowman	NN	_	9	pobj	_	O
+13	making	make	VBG	pos2=NN	5	advcl	_	O
+14	contest	contest	NN	_	13	dobj	_	O
+15	.	.	.	_	5	punct	_	O
+
+1	#MLB	#mlb	GW	pos2=NFP	3	nmod	_	B-PERSON
+2	#Cubs	#cubs	GW	pos2=NNS	3	nmod	_	L-PERSON
+3	https://t.co/9IUZXXT0mj	#hlink#	ADD	pos2=NN	0	root	_	O
+

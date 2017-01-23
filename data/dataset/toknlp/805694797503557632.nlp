@@ -1,0 +1,15 @@
+1	brick	brick	NN	pos2=VB	6	nsubj	_	O
+2	by	by	IN	_	1	prep	_	O
+3	ben	ben	JJ	pos2=NNP	4	nmod	_	U-PERSON
+4	folds	fold	VBZ	pos2=NNS	2	pobj	_	O
+5	five	#crd#	CD	_	6	nsubj	_	U-CARDINAL
+6	is	be	VBZ	_	0	root	_	O
+7	objectively	objectively	RB	_	6	advmod	_	O
+8	the	the	DT	_	10	det	_	O
+9	best	good	JJS	_	10	nmod	_	O
+10	song	song	NN	_	6	attr	_	O
+11	ever	ever	RB	_	12	advmod	_	O
+12	written	write	VBN	_	10	acl	_	O
+13	about	about	IN	_	12	prep	_	O
+14	abortion	abortion	NN	_	13	pobj	_	O
+

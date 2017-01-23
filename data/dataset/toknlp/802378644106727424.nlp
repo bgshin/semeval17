@@ -1,0 +1,25 @@
+1	@GRAYGHOST77	@grayghost0	NN	pos2=XX	4	nsubj	_	O
+2	@nytimes	@nytimes	IN	pos2=NNS	1	prep	_	O
+3	DJT	djt	NNP	pos2=NN	2	pobj	_	U-ORG
+4	proposes	propose	VBZ	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	add	add	VB	_	4	xcomp	_	O
+7	a	a	DT	_	8	qmod	_	O
+8	couple	couple	NN	_	11	npadvmod	_	B-MONEY
+9	more	more	JJR	pos2=RBR	10	qmod	_	I-MONEY
+10	trillion	#crd#	CD	pos2=NN	8	dobj	_	L-MONEY
+11	to	to	IN	_	6	prep	_	O
+12	that	that	DT	_	14	det	_	O
+13	debt	debt	NN	_	14	compound	_	O
+14	load	load	NN	_	11	pobj	_	O
+15	.	.	.	_	4	punct	_	O
+
+1	And	and	CC	_	3	cc	_	O
+2	gut	gut	NN	pos2=JJ	3	compound	_	O
+3	ACA	aca	NN	pos2=NNP	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	Medicare	medicare	NNP	_	3	conj	_	U-ORG
+6	,	,	,	_	5	punct	_	O
+7	Medicaid	medicaid	NNP	_	5	conj	_	U-ORG
+8	..	..	.	pos2=,	3	punct	_	O
+

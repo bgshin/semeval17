@@ -1,0 +1,18 @@
+1	Hairspray	hairspray	NNP	pos2=NN	2	compound	_	O
+2	Live	live	NNP	pos2=RB	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+
+1	Previews	preview	NNS	pos2=NNPS	0	root	_	O
+2	at	at	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	Macy	macy	NNP	_	8	poss	_	U-ORG
+5	's	's	POS	_	4	case	_	O
+6	Thanksgiving	thanksgiving	NNP	_	7	compound	_	B-EVENT
+7	Day	day	NNP	_	8	compound	_	I-EVENT
+8	Parade	parade	NNP	pos2=NN	2	pobj	_	L-EVENT
+9	!	!	.	_	1	punct	_	O
+
+1	https://t.co/GaFTqInolL	#hlink#	ADD	_	0	root	_	O
+2	#arianagrande	#arianagrande	-RRB-	pos2=IN	1	punct	_	O
+3	#televisionnbc	#televisionnbc	UH	pos2=NN	1	discourse	_	O
+

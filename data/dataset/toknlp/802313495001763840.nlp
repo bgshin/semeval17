@@ -1,0 +1,19 @@
+1	@Olivianuzzi	@olivianuzzi	NNP	pos2=UH	5	vocative	_	O
+2	Hey	hey	UH	_	5	discourse	_	O
+3	,	,	,	_	5	punct	_	O
+4	I	I	PRP	_	5	nsubj	_	O
+5	'm	be	VBP	_	0	root	_	O
+6	still	still	RB	_	5	advmod	_	O
+7	perplexed	perplexed	JJ	pos2=VBN	5	acomp	_	O
+8	about	about	IN	_	7	prep	_	O
+9	Dennis	dennis	NNP	_	10	compound	_	B-PERSON
+10	Rodman	rodman	NNP	_	17	poss	_	L-PERSON
+11	&	&	CC	_	10	cc	_	O
+12	Kim	kim	NNP	_	15	compound	_	B-PERSON
+13	Jong	jong	NNP	_	15	compound	_	I-PERSON
+14	-	-	HYPH	_	15	punct	_	I-PERSON
+15	Un	un	NNP	_	10	conj	_	L-PERSON
+16	loving	love	VBG	pos2=NN	17	nmod	_	O
+17	basketball	basketball	NN	_	8	pobj	_	O
+18	.	.	.	_	5	punct	_	O
+

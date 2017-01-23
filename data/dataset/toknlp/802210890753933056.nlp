@@ -1,0 +1,18 @@
+1	Yet	yet	CC	pos2=RB	5	cc	_	O
+2	Satanyahu	satanyahu	NNP	pos2=DT	5	nsubj	_	U-PERSON
+3	claim	claim	NN	pos2=VBP	4	compound	_	O
+4	Palestinians	palestinian	NNPS	_	5	nsubj	_	U-NORP
+5	started	start	VBD	_	0	root	_	O
+6	it	it	PRP	_	5	dobj	_	O
+7	!!	!!	.	_	5	punct	_	O
+
+1	It	it	PRP	_	3	nsubj	_	O
+2	's	's	VBZ	_	3	aux	_	O
+3	#PalestineBurning	#palestineburning	VBG	pos2=ADD	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	Occupied	occupy	VBN	pos2=NNP	6	nmod	_	O
+6	#Palestine	#palestine	NNP	pos2=PRP	3	dobj	_	U-ORG
+7	NOT	not	RB	_	8	neg	_	O
+8	#IsraelIsBurning	#israelisburning	VBG	pos2=GW	3	dep	_	O
+9	https://t.co/bMV08olaPl	#hlink#	ADD	_	8	dobj	_	U-ORG
+

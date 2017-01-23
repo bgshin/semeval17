@@ -1,0 +1,27 @@
+1	OKAY	okay	UH	pos2=JJ	3	discourse	_	O
+2	THIS	this	DT	_	3	nsubj	_	O
+3	MAKES	make	VBZ	_	0	root	_	O
+4	ME	me	PRP	_	5	nsubj	_	O
+5	SOUND	sound	VB	pos2=NN	3	ccomp	_	O
+6	SO	so	RB	pos2=CC	11	advmod	_	O
+7	EMO	emo	NN	pos2=NNP	2	appos	_	O
+8	BUT	but	CC	_	7	cc	_	O
+9	IM	im	NN	pos2=NNP	7	conj	_	O
+10	GOING	go	VBG	_	5	xcomp	_	O
+11	BACK	back	RB	_	10	advmod	_	O
+12	TO	to	IN	_	11	prep	_	O
+13	FOLIE	folie	NN	pos2=NNP	12	pobj	_	O
+14	A	a	DT	pos2=FW	16	det	_	B-DATE
+15	DUEX	duex	NNP	pos2=NN	16	compound	_	I-DATE
+16	DAYS	day	NNS	pos2=NNPS	10	npadvmod	_	L-DATE
+17	AND	and	CC	_	10	cc	_	O
+18	THE	the	DT	_	23	det	_	O
+19	(	(	-LRB-	_	15	punct	_	O
+20	SHIPPED	ship	VBN	pos2=NNP	23	nmod	_	O
+21	)	)	-RRB-	_	26	punct	_	O
+22	GOLD	gold	NN	_	23	compound	_	O
+23	STANDARD	standard	NN	pos2=NNP	24	nsubj	_	O
+24	IS	be	VBZ	_	19	parataxis	_	O
+25	SO	so	RB	_	26	advmod	_	O
+26	GOOD	good	JJ	_	24	acomp	_	O
+

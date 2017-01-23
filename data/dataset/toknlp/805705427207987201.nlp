@@ -1,0 +1,20 @@
+1	"	"	``	_	4	punct	_	O
+2	They	they	PRP	_	4	nsubj	_	O
+3	're	be	VBP	_	4	aux	_	O
+4	doing	do	VBG	_	10	ccomp	_	O
+5	everything	everything	NN	_	4	dobj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	overthrow	overthrow	VB	_	4	advcl	_	O
+8	#Brexit	#brexit	NNP	pos2=NN	7	dobj	_	U-PERSON
+9	"	"	``	pos2=''	10	punct	_	O
+10	say	say	VB	pos2=VBP	0	root	_	O
+11	protesters	protester	NNS	_	10	dobj	_	O
+12	ahead	ahead	RB	_	10	advmod	_	O
+13	of	of	IN	_	12	prep	_	O
+14	Supreme	supreme	NNP	_	15	compound	_	B-ORG
+15	Court	court	NNP	_	18	compound	_	L-ORG
+16	hearing	hearing	NN	pos2=VBG	17	compound	_	O
+17	govt	govt	NN	pos2=GW	18	compound	_	O
+18	appeal	appeal	NN	pos2=VB	13	pobj	_	O
+19	https://t.co/FaQyysY8zM	#hlink#	ADD	pos2=NN	10	dep	_	O
+

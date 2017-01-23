@@ -1,0 +1,8 @@
+1	WESTWORLD	westworld	NNP	pos2=NN	0	root	_	U-ORG
+2	.	.	.	_	1	punct	_	O
+
+1	HOLY	holy	JJ	pos2=NNP	3	nmod	_	O
+2	FUCKING	fucking	JJ	_	3	nmod	_	O
+3	SHIT	shit	NN	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+

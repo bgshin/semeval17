@@ -1,0 +1,11 @@
+1	THANK	thank	VBP	_	0	root	_	O
+2	YOU	you	PRP	_	1	dobj	_	O
+3	,	,	,	_	1	punct	_	O
+4	MR.	mr.	NNP	pos2=JJ	5	compound	_	O
+5	PRESIDENT	president	NNP	pos2=NN	10	dep	_	O
+6	https://t.co/15TDGwimXw#ThankYouObama	#hlink#	ADD	_	10	dep	_	O
+7	#PresidentObama#ProudOfObama	#presidentobama#proudofobama	ADD	pos2=NNP	10	nmod	_	U-ORG
+8	#UniteBlue	#uniteblue	GW	pos2=ADD	10	nmod	_	O
+9	…	…	NFP	pos2=GW	10	punct	_	O
+10	https://t.co/OPSMJkrGVB	#hlink#	ADD	_	1	dep	_	O
+

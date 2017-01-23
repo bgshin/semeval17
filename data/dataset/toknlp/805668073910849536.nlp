@@ -1,0 +1,14 @@
+1	Minimum	minimum	JJ	pos2=NN	2	nmod	_	O
+2	wage	wage	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	bandaid	bandaid	NN	_	3	attr	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	Minimum	minimum	JJ	pos2=NN	2	nmod	_	O
+2	income	income	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	goal	goal	NN	_	3	attr	_	O
+6	.	.	.	_	3	punct	_	O
+

@@ -1,0 +1,13 @@
+1	@JeffGrubb	@jeffgrubb	NNP	pos2=XX	2	compound	_	B-PERSON
+2	Tiltbrush	tiltbrush	NNP	_	7	nsubj	_	L-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	Google	google	NNP	_	6	compound	_	B-ORG
+5	Earth	earth	NNP	_	6	compound	_	I-ORG
+6	VR	vr	NNP	pos2=NN	2	conj	_	L-ORG
+7	were	be	VBD	_	0	root	_	O
+8	religious	religious	JJ	_	9	nmod	_	O
+9	experiences	experience	NNS	_	7	attr	_	O
+10	over	over	IN	pos2=RB	11	advmod	_	O
+11	here	here	RB	_	7	advmod	_	O
+12	.	.	.	_	7	punct	_	O
+

@@ -1,0 +1,30 @@
+1	@ghostinmarble	@ghostinmarble	UH	pos2=IN	3	discourse	_	O
+2	he	he	PRP	_	3	nsubj	_	O
+3	says	say	VBZ	_	0	root	_	O
+4	museums	museum	NNS	_	7	nsubj	_	O
+5	wo	wo	MD	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	display	display	VB	_	3	ccomp	_	O
+8	it	it	PRP	_	7	dobj	_	O
+9	bcuz	bcuz	IN	pos2=NN	7	prep	_	O
+10	of	of	IN	_	9	prep	_	O
+11	nazi	nazi	JJ	pos2=NN	12	nmod	_	O
+12	symbolism	symbolism	NN	_	10	pobj	_	O
+13	and	and	CC	_	12	cc	_	O
+14	gay	gay	JJ	pos2=NN	15	nmod	_	O
+15	sex	sex	NN	_	12	conj	_	O
+16	.	.	.	_	3	punct	_	O
+
+1	this	this	DT	_	2	nsubj	_	O
+2	makes	make	VBZ	_	0	root	_	O
+3	me	me	PRP	_	4	nsubj	_	O
+4	doubt	doubt	VB	pos2=NN	2	ccomp	_	O
+5	he	he	PRP	_	9	nsubjpass	_	O
+6	's	's	VBZ	_	9	auxpass	_	O
+7	ever	ever	RB	_	9	advmod	_	O
+8	actually	actually	RB	_	9	advmod	_	O
+9	been	be	VBN	_	4	ccomp	_	O
+10	inside	inside	IN	pos2=RB	9	prep	_	O
+11	one	#crd#	CD	pos2=NN	10	pobj	_	U-CARDINAL
+12	.	.	.	_	2	punct	_	O
+

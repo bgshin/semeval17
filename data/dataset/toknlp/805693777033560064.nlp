@@ -1,0 +1,31 @@
+1	if	if	IN	_	4	mark	_	O
+2	Muhammad	muhammad	NNP	_	3	compound	_	B-PERSON
+3	Ali	ali	NNP	_	4	nsubj	_	L-PERSON
+4	said	say	VBD	_	9	advcl	_	O
+5	it	it	PRP	_	4	dobj	_	O
+6	,	,	,	_	9	punct	_	O
+7	you	you	PRP	_	9	nsubj	_	O
+8	better	well	RBR	pos2=RB	9	advmod	_	O
+9	believe	believe	VB	pos2=VBP	0	root	_	O
+10	it	it	PRP	_	9	dobj	_	O
+11	..	..	.	pos2=,	9	punct	_	O
+
+1	You	you	PRP	_	3	nsubj	_	O
+2	dnt	dnt	VBP	pos2=RB	3	dep	_	O
+3	become	become	VBP	pos2=VB	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	"	"	``	_	6	punct	_	O
+6	Greatest	great	JJS	pos2=NNP	3	attr	_	O
+7	"	"	''	pos2=``	6	punct	_	O
+8	if	if	IN	_	11	mark	_	O
+9	you	you	PRP	_	11	nsubj	_	O
+10	dnt	dnt	VBP	pos2=RB	11	aux	_	O
+11	believe	believe	VB	pos2=VBP	6	relcl	_	O
+12	..	..	.	pos2=,	3	punct	_	O
+
+1	true	true	JJ	_	2	nmod	_	O
+2	Legend	legend	NN	pos2=NNP	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	https://t.co/RBC2In9K0l	#hlink#	ADD	_	0	root	_	U-ORG
+

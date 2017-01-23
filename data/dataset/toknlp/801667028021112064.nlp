@@ -1,0 +1,17 @@
+1	All	all	PDT	pos2=DT	3	predet	_	O
+2	my	my	PRP$	_	3	poss	_	O
+3	teams	team	NNS	pos2=NN	4	nsubj	_	O
+4	won	win	VBD	_	0	root	_	O
+5	today	today	NN	_	4	npadvmod	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	good	good	JJ	_	5	nmod	_	O
+5	Wednesday	wednesday	NNP	_	2	attr	_	U-DATE
+6	.	.	.	_	2	punct	_	O
+
+1	@utahjazz	@utahjazz	UH	pos2=XX	2	discourse	_	O
+2	@UVUmbb	@uvumbb	ADD	pos2=UH	0	root	_	U-PERSON
+

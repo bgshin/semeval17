@@ -1,0 +1,9 @@
+1	Govt	govt	NN	pos2=NNP	2	nsubj	_	U-ORG
+2	declares	declare	VBZ	_	0	root	_	O
+3	#Uber	#uber	NNP	pos2=IN	6	nsubj	_	U-ORG
+4	an	an	DT	_	6	det	_	O
+5	illegal	illegal	JJ	_	6	nmod	_	O
+6	service	service	NN	_	2	ccomp	_	O
+7	in	in	IN	_	6	prep	_	O
+8	Bangladesh	bangladesh	NNP	_	7	pobj	_	U-GPE
+

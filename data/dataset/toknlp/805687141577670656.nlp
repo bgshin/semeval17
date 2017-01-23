@@ -1,0 +1,28 @@
+1	Today	today	NN	pos2=NNP	3	poss	_	U-DATE
+2	's	's	POS	_	1	case	_	O
+3	DN	dn	NN	pos2=NNS	0	root	_	O
+4	full	full	JJ	pos2=AFX	3	nmod	_	O
+5	of	of	IN	_	4	prep	_	O
+6	terrible	terrible	JJ	_	8	nmod	_	O
+7	news	news	NN	_	8	compound	_	O
+8	stories	story	NNS	_	5	pobj	_	O
+9	about	about	IN	_	8	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	health	health	NN	_	12	compound	_	O
+12	sector	sector	NN	_	9	pobj	_	O
+13	.	.	.	_	3	punct	_	O
+
+1	Abt	abt	NN	pos2=NNP	3	nmod	_	U-ORG
+2	fake	fake	JJ	_	3	nmod	_	O
+3	drugs	drug	NNS	_	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	vaccines	vaccine	NNS	pos2=VBZ	3	conj	_	O
+6	that	that	WDT	pos2=IN	7	nsubj	_	O
+7	paralyzed	paralyzed	JJ	pos2=VBD	8	nmod	_	O
+8	kids	kid	NNS	_	5	conj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	the	the	DT	_	12	det	_	O
+11	health	health	NN	_	12	compound	_	O
+12	strike	strike	NN	_	8	conj	_	O
+13	.	.	.	_	3	punct	_	O
+

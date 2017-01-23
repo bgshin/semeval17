@@ -1,0 +1,9 @@
+1	Obamacare	obamacare	NNP	pos2=UH	0	root	_	U-ORG
+2	which	which	WDT	_	3	nsubj	_	O
+3	is	be	VBZ	_	1	relcl	_	O
+4	quick	quick	JJ	pos2=RB	5	advmod	_	O
+5	intense	intense	JJ	pos2=NN	3	acomp	_	O
+6	and	and	CC	_	5	cc	_	O
+7	emotionally	emotionally	RB	_	5	conj	_	O
+8	.	.	.	_	4	punct	_	O
+

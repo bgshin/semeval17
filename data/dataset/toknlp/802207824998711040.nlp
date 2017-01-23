@@ -1,0 +1,24 @@
+1	How	how	WRB	_	4	advmod	_	O
+2	was	be	VBD	_	0	root	_	O
+3	everyone	everyone	NN	_	5	poss	_	O
+4	's	's	POS	pos2=VBZ	3	case	_	O
+5	Thanksgiving	thanksgiving	NNP	_	0	root	_	U-EVENT
+6	?!	?!	.	_	2	punct	_	O
+
+1	Dr.	dr.	NNP	_	2	compound	_	O
+2	Boston	boston	NNP	_	6	nsubj	_	U-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	his	his	PRP$	_	5	poss	_	O
+5	family	family	NN	_	2	conj	_	O
+6	spent	spend	VBD	_	0	root	_	O
+7	their	their	PRP$	_	8	poss	_	O
+8	day	day	NN	_	6	dobj	_	O
+9	doing	do	VBG	_	6	xcomp	_	O
+10	a	a	DT	_	11	det	_	O
+11	#MannequinChallenge	#mannequinchallenge	NN	pos2=XX	9	dobj	_	O
+12	at	at	IN	_	9	prep	_	O
+13	the	the	DT	_	12	pobj	_	O
+14	...	..	.	_	6	punct	_	O
+
+1	https://t.co/2d9YZxeXaG	#hlink#	ADD	_	0	root	_	U-ORG
+

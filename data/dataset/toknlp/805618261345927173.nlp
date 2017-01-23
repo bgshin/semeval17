@@ -1,0 +1,11 @@
+1	@NewsHour	@newshour	NNP	pos2=WP	2	nsubj	_	U-ORG
+2	Blamed	blame	VBD	pos2=VBN	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	embargo	embargo	NN	_	2	dobj	_	O
+5	that	that	WDT	_	6	nsubj	_	O
+6	did	do	VBD	_	4	relcl	_	O
+7	nothing	nothing	NN	_	6	dobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	https://t.co/R5nTvmNyB6	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,22 @@
+1	@Key2112E	@key0e	NN	pos2=ADD	2	compound	_	O
+2	@MsBlaireWhite	@msblairewhite	NNP	pos2=IN	8	vocative	_	O
+3	How	how	WRB	_	8	advmod	_	O
+4	does	do	VBZ	_	8	aux	_	O
+5	*	*	NFP	pos2=SYM	8	punct	_	O
+6	everyone	everyone	NN	_	8	nsubj	_	O
+7	*	*	SYM	pos2=NFP	8	punct	_	O
+8	pay	pay	VB	pos2=NN	0	root	_	O
+9	for	for	IN	_	8	prep	_	O
+10	my	my	PRP$	_	13	poss	_	O
+11	health	health	NN	_	12	compound	_	O
+12	care	care	NN	_	13	compound	_	O
+13	plan	plan	NN	pos2=VB	9	pobj	_	O
+14	exactly	exactly	RB	_	8	advmod	_	O
+15	?	?	.	_	8	punct	_	O
+
+1	Obamacare	obamacare	NNP	pos2=NN	4	nsubjpass	_	U-ORG
+2	is	be	VBZ	_	4	auxpass	_	O
+3	NOT	not	RB	_	4	neg	_	O
+4	medicaid	medicaid	VBN	pos2=NN	0	root	_	O
+5	...	..	.	pos2=,	4	punct	_	O
+

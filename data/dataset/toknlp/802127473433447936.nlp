@@ -1,0 +1,11 @@
+1	Geography	geography	NN	pos2=NNP	3	nsubj	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	got	get	VBD	_	0	root	_	O
+4	a	a	DT	_	6	det	_	O
+5	whole	whole	JJ	pos2=NN	6	nmod	_	O
+6	lot	lot	NN	_	7	npadvmod	_	O
+7	better	good	JJR	_	3	acomp	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	https://t.co/L2qVHIUkHH	#hlink#	ADD	_	0	root	_	U-ORG
+

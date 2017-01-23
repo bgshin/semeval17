@@ -1,0 +1,17 @@
+1	@KremlinTrolls	@kremlintrolls	NNS	pos2=ADD	4	npadvmod	_	O
+2	@AndreaChalupa	@andreachalupa	ADD	pos2=GW	4	punct	_	B-PERSON
+3	@Support	@support	NNP	pos2=VBP	4	nsubj	_	L-PERSON
+4	@StopFakingNews	@stopfakingnews	VBZ	pos2=VBD	0	root	_	O
+5	no	no	DT	pos2=UH	10	dobj	_	O
+6	the	the	DT	_	7	det	_	O
+7	fsb	fsb	NN	pos2=NNS	8	nsubj	_	O
+8	decided	decide	VBD	_	4	ccomp	_	O
+9	to	to	TO	_	10	aux	_	O
+10	give	give	VB	_	8	xcomp	_	O
+11	by	by	IN	pos2=RP	10	prep	_	O
+12	dr	dr	NN	pos2=JJ	13	compound	_	O
+13	credibility	credibility	NN	_	11	pobj	_	O
+14	the	the	DT	_	16	det	_	O
+15	total	total	JJ	_	16	nmod	_	O
+16	frauds	fraud	NNS	_	10	dobj	_	O
+

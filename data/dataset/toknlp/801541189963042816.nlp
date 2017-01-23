@@ -1,0 +1,24 @@
+1	Saakashvili	saakashvili	NNP	_	2	nsubj	_	U-PERSON
+2	invites	invite	VBZ	_	0	root	_	O
+3	'	'	''	pos2=POS	2	punct	_	O
+4	democrat	democrat	NN	pos2=UH	2	dobj	_	U-NORP
+5	.	.	.	_	2	punct	_	O
+
+1	forces	force	NNS	_	17	dep	_	O
+2	'	'	''	_	1	punct	_	O
+3	to	to	IN	_	1	prep	_	O
+4	an	an	DT	pos2=NN	6	det	_	O
+5	&	&	CC	pos2=``	1	cc	_	O
+6	quot	quot	NN	pos2=RB	3	pobj	_	O
+7	;	;	,	pos2=:	17	punct	_	O
+8	open	open	JJ	pos2=VB	9	nmod	_	O
+9	council&quot	council&quot	NN	pos2=RB	17	dep	_	O
+10	;	;	,	pos2=:	17	punct	_	O
+11	for	for	IN	_	17	prep	_	O
+12	Sunday	sunday	NNP	_	13	compound	_	U-DATE
+13	afternoon	afternoon	NN	_	11	pobj	_	U-TIME
+14	in	in	IN	_	13	prep	_	O
+15	downtown	downtown	NN	pos2=GW	16	compound	_	O
+16	Kyiv	kyiv	NNP	_	14	pobj	_	O
+17	https://t.co/h6ZT641i3Z	#hlink#	ADD	_	0	root	_	O
+

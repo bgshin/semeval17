@@ -1,0 +1,34 @@
+1	@DavidCornDC	@davidcorndc	NNP	pos2=NNS	4	dep	_	U-DATE
+2	Like	like	IN	pos2=UH	4	mark	_	O
+3	he	he	PRP	_	4	nsubj	_	O
+4	said	say	VBD	_	0	root	_	O
+5	he	he	PRP	_	7	nsubj	_	O
+6	can	can	MD	_	7	aux	_	O
+7	shoot	shoot	VB	_	4	ccomp	_	O
+8	someone	someone	NN	_	7	dobj	_	O
+9	in	in	IN	_	7	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	head	head	NN	_	9	pobj	_	O
+12	and	and	CC	_	7	cc	_	O
+13	not	not	RB	_	14	neg	_	O
+14	lose	lose	VB	_	7	conj	_	O
+15	his	his	PRP$	_	16	poss	_	O
+16	deplorables	deplorables	NNS	pos2=NN	14	dobj	_	O
+17	.	.	.	_	4	punct	_	O
+
+1	Such	such	JJ	pos2=PDT	5	nmod	_	O
+2	one	#crd#	CD	pos2=JJ	4	advmod	_	U-CARDINAL
+3	-	-	HYPH	_	4	punct	_	O
+4	sided	sided	JJ	pos2=NN	5	nmod	_	O
+5	system	system	NN	_	0	root	_	O
+6	.	.	.	_	5	punct	_	O
+
+1	GOP	gop	NNP	pos2=NN	3	nsubj	_	U-ORG
+2	still	still	RB	_	3	advmod	_	O
+3	support	support	VBP	pos2=VB	0	root	_	O
+4	him	him	PRP	_	3	dobj	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	OMG	omg	NN	pos2=NNP	0	root	_	O
+2	!!	!!	.	_	1	punct	_	O
+

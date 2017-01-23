@@ -1,0 +1,14 @@
+1	@Cernovich	@cernovich	NNP	pos2=XX	2	compound	_	O
+2	Scalia	scalia	NNP	_	4	nsubj	_	U-PERSON
+3	was	be	VBD	_	4	aux	_	O
+4	trying	try	VBG	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	normalize	normalize	VB	_	4	xcomp	_	O
+7	it	it	PRP	_	6	dobj	_	O
+8	when	when	WRB	_	11	advmod	_	O
+9	gay	gay	JJ	_	10	nmod	_	O
+10	marriage	marriage	NN	_	11	nsubj	_	O
+11	went	go	VBD	_	6	advcl	_	O
+12	through	through	RB	pos2=IN	11	advmod	_	O
+13	.	.	.	_	4	punct	_	O
+

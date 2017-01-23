@@ -1,0 +1,9 @@
+1	#MiamiBookFair2016	#miamibookfair0	NN	pos2=NNS	2	nsubj	_	O
+2	#NBAwards	#nbawards	VBZ	pos2=IN	0	root	_	O
+3	A	a	DT	pos2=NNP	5	det	_	O
+4	Long	long	NNP	pos2=JJ	5	compound	_	B-GPE
+5	Way	way	NNP	pos2=GW	8	nmod	_	L-GPE
+6	Back	back	RB	pos2=GW	8	nmod	_	O
+7	https://t.co/d4Ff43DDGt	#hlink#	ADD	_	8	nmod	_	O
+8	https://t.co/EB3w4a9Jzr	#hlink#	ADD	_	2	dobj	_	U-ORG
+

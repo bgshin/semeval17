@@ -1,0 +1,13 @@
+1	Ariana	ariana	NNP	_	2	compound	_	O
+2	Grande	grande	NNP	_	7	dep	_	O
+3	-	-	HYPH	pos2=:	2	punct	_	O
+4	2015	0	CD	_	2	nmod	_	O
+5	NYC	nyc	NNP	_	7	compound	_	O
+6	Pride	pride	NNP	pos2=NN	7	compound	_	O
+7	Dance	dance	NNP	_	12	dep	_	O
+8	On	on	IN	_	7	prep	_	O
+9	The	the	DT	pos2=NNP	10	det	_	B-FAC
+10	Pier	pier	NNP	pos2=NN	8	pobj	_	I-FAC
+11	https://t.co/9xelKJuPOe	#hlink#	ADD	_	10	appos	_	I-FAC
+12	#ArianaGrande	#arianagrande	ADD	pos2=-RRB-	0	root	_	L-FAC
+

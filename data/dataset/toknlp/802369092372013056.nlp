@@ -1,0 +1,8 @@
+1	Bob	bob	NNP	_	4	compound	_	B-PERSON
+2	Dylan	dylan	NNP	_	4	compound	_	I-PERSON
+3	—	-	HYPH	pos2=:	4	punct	_	I-PERSON
+4	Tombstone	tombstone	NNP	_	5	compound	_	L-PERSON
+5	Blues	blues	NNPS	pos2=NNS	7	nmod	_	O
+6	#WNRNradio	#wnrnradio	GW	pos2=NNP	7	nmod	_	O
+7	https://t.co/ccGEaZHpNU	#hlink#	ADD	_	0	root	_	O
+

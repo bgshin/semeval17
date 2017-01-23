@@ -1,0 +1,21 @@
+1	Have	have	VBP	_	4	aux	_	O
+2	you	you	PRP	_	4	nsubj	_	O
+3	ever	ever	RB	_	4	advmod	_	O
+4	wanted	want	VBD	pos2=VBN	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	see	see	VB	_	4	xcomp	_	O
+7	what	what	WDT	pos2=WP	9	det	_	O
+8	self-driving	self-driving	JJ	pos2=NN	9	nmod	_	O
+9	cars	car	NNS	_	10	nsubj	_	O
+10	see	see	VB	pos2=VBP	6	ccomp	_	O
+11	?	?	.	_	4	punct	_	O
+
+1	#Tesla	#tesla	NNP	pos2=PRP	2	nsubj	_	U-ORG
+2	provides	provide	VBZ	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	demo	demo	NN	_	2	dobj	_	O
+5	https://t.co/DHQVFpUJhR	#hlink#	ADD	pos2=NN	2	dobj	_	O
+6	via	via	IN	_	2	prep	_	O
+7	@verge	@verge	XX	pos2=PRP	6	pobj	_	O
+8	#automatedvehicles	#automatedvehicles	UH	pos2=NNS	2	discourse	_	O
+

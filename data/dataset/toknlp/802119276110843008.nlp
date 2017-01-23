@@ -1,0 +1,18 @@
+1	Anyone	anyone	NN	_	2	nsubj	_	O
+2	watch	watch	VB	_	0	root	_	O
+3	#ThisIsUs	#thisisus	NN	pos2=NNS	2	dobj	_	U-PERSON
+4	?	?	.	_	2	punct	_	O
+
+1	Pretty	pretty	RB	pos2=JJ	2	advmod	_	O
+2	cool	cool	JJ	_	3	nmod	_	O
+3	show	show	NN	pos2=VBP	0	root	_	O
+4	with	with	IN	_	3	prep	_	O
+5	Mandy	mandy	NNP	_	6	compound	_	B-PERSON
+6	Moore	moore	NNP	_	4	pobj	_	L-PERSON
+7	and	and	CC	_	6	cc	_	O
+8	Milo	milo	NNP	_	9	compound	_	B-PERSON
+9	Ventimiglia	ventimiglia	NNP	_	6	conj	_	L-PERSON
+10	in	in	IN	_	3	prep	_	O
+11	it	it	PRP	_	10	pobj	_	O
+12	.	.	.	_	3	punct	_	O
+

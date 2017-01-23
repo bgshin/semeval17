@@ -1,0 +1,16 @@
+1	Who	who	WP	_	8	pobj	_	O
+2	does	do	VBZ	_	5	aux	_	O
+3	Ben	ben	NNP	_	4	compound	_	B-PERSON
+4	Carson	carson	NNP	_	5	nsubj	_	L-PERSON
+5	get	get	VB	_	0	root	_	O
+6	his	his	PRP$	_	7	poss	_	O
+7	Xanax	xanax	NNP	_	5	dobj	_	O
+8	from	from	IN	_	5	prep	_	O
+9	?	?	.	_	5	punct	_	O
+
+1	Asking	ask	VBG	_	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	a	a	DT	_	4	det	_	O
+4	friend	friend	NN	_	2	pobj	_	O
+5	.	.	.	_	1	punct	_	O
+

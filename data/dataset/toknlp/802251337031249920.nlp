@@ -1,0 +1,19 @@
+1	Gregg	gregg	NNP	_	2	compound	_	B-PERSON
+2	Popovich	popovich	NNP	_	10	nsubj	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	San	san	NNP	_	6	compound	_	B-ORG
+5	Antonio	antonio	NNP	_	6	compound	_	I-ORG
+6	Spurs	spur	NNPS	pos2=NNP	7	compound	_	L-ORG
+7	coach	coach	NN	_	2	appos	_	O
+8	,	,	,	_	2	punct	_	O
+9	still	still	RB	_	10	advmod	_	O
+10	misses	miss	VBZ	_	0	root	_	O
+11	Tim	tim	NNP	_	12	compound	_	B-PERSON
+12	D	d	NNP	pos2=NN	10	dobj	_	I-PERSON
+13	...	..	.	pos2=,	10	punct	_	L-PERSON
+
+1	https://t.co/AXhpOLgtbH	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	pos2=GW	1	prep	_	O
+3	@Tom_NBA	@tom_nba	ADD	pos2=-LRB-	2	pobj	_	O
+4	https://t.co/GqYiJUQq9f	#hlink#	ADD	_	2	pobj	_	O
+

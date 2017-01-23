@@ -1,0 +1,11 @@
+1	@CloneManga	@clonemanga	ADD	pos2=``	0	root	_	O
+2	IT	it	PRP	pos2=NNP	3	nsubj	_	O
+3	'S	's	VBZ	_	1	ccomp	_	O
+4	TIME	time	NN	pos2=NNP	3	attr	_	O
+5	FOR	for	IN	_	8	mark	_	O
+6	ME	me	PRP	pos2=NNP	8	nsubj	_	O
+7	TO	to	TO	_	8	aux	_	O
+8	SELL	sell	VB	_	4	relcl	_	O
+9	MY	my	PRP$	_	10	poss	_	O
+10	ROBOTS	robot	NNS	_	8	dobj	_	O
+

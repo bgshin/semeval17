@@ -1,0 +1,24 @@
+1	“	"	``	_	3	punct	_	O
+2	Conservatives	conservative	NNS	pos2=NNPS	3	nsubj	_	O
+3	urged	urge	VBD	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	Government	government	NNP	pos2=NN	3	dobj	_	U-ORG
+6	to	to	TO	_	7	aux	_	O
+7	say	say	VB	_	3	xcomp	_	O
+8	whether	whether	IN	_	17	mark	_	O
+9	Lord	lord	NNP	_	10	compound	_	O
+10	Goldsmith	goldsmith	NNP	_	17	nsubj	_	O
+11	,	,	,	_	10	punct	_	O
+12	the	the	DT	_	14	det	_	O
+13	Attorney	attorney	NNP	_	14	compound	_	O
+14	General	general	NNP	pos2=NN	10	appos	_	O
+15	,	,	,	_	17	punct	_	O
+16	had	have	VBD	_	17	aux	_	O
+17	given	give	VBN	_	7	ccomp	_	O
+18	legal	legal	JJ	_	19	nmod	_	O
+19	approval	approval	NN	_	17	dobj	_	O
+20	for	for	IN	_	19	prep	_	O
+21	military	military	JJ	_	22	nmod	_	O
+22	action	action	NN	_	20	pobj	_	O
+23	to	to	IN	pos2=TO	22	prep	_	O
+

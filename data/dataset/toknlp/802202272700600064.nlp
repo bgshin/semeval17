@@ -1,0 +1,6 @@
+1	Perfect	perfect	JJ	pos2=NNP	0	root	_	O
+2	!	!	.	_	1	punct	_	O
+
+1	Jeeze🙄	jeeze🙄	-LRB-	pos2=NFP	2	punct	_	O
+2	https://t.co/13YMTFtatT	#hlink#	ADD	pos2=NN	0	root	_	O
+

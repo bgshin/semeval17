@@ -1,0 +1,14 @@
+1	Obama	obama	NNP	_	4	poss	_	U-PERSON
+2	's	's	POS	_	1	case	_	O
+3	latest	late	JJS	_	4	nmod	_	O
+4	#BlackLivesMatter	#blacklivesmatter	NN	pos2=JJ	0	root	_	O
+5	recruiting	recruit	VBG	pos2=NN	4	acl	_	O
+6	videoWelcome	videowelcome	NNP	pos2=:	5	dobj	_	U-PERSON
+7	to	to	IN	_	5	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	Modesto	modesto	NNP	_	10	compound	_	U-GPE
+10	mall	mall	NN	pos2=NNP	7	pobj	_	O
+11	...	..	.	pos2=,	4	punct	_	O
+
+1	https://t.co/7SW39COWAF#MAGA	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,23 @@
+1	#Prophet	#prophet	NNP	pos2=ADD	2	compound	_	B-PERSON
+2	#Muhammad	#muhammad	NNP	pos2=NN	4	nsubj	_	L-PERSON
+3	was	be	VBD	_	4	aux	_	O
+4	treating	treat	VBG	_	0	root	_	O
+5	every	every	DT	_	6	det	_	O
+6	one	#crd#	CD	pos2=NN	4	dobj	_	U-CARDINAL
+7	of	of	IN	_	6	prep	_	O
+8	his	his	PRP$	pos2=PRP	9	poss	_	O
+9	#companions	#companions	NNS	pos2=UH	7	pobj	_	O
+10	as	as	IN	_	14	mark	_	O
+11	if	if	IN	_	14	mark	_	O
+12	he	he	PRP	_	14	nsubj	_	O
+13	most	most	RBS	pos2=JJS	14	advmod	_	O
+14	#beloved	#beloved	XX	pos2=MD	9	advcl	_	O
+15	one	#crd#	CD	pos2=NN	10	pobj	_	O
+16	to	to	IN	_	15	prep	_	O
+17	him	him	PRP	_	16	pobj	_	O
+18	.	.	.	_	4	punct	_	O
+
+1	https://t.co/2Awp5Jt3qI	#hlink#	ADD	_	0	root	_	U-ORG
+2	#Ep06	#ep0	NN	pos2=NNS	0	root	_	O
+3	_	_	''	pos2=SYM	2	punct	_	O
+

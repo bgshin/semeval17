@@ -1,0 +1,19 @@
+1	https://t.co/rdDhDmt28G	#hlink#	ADD	_	3	nmod	_	O
+2	#jocox	#jocox	-RRB-	pos2=XX	1	punct	_	O
+3	supporter	supporter	NN	_	18	nsubj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	#hamas	#hamas	NNS	pos2=NNPS	4	pobj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	#fabian	#fabian	JJ	pos2=NNS	5	conj	_	O
+8	and	and	CC	_	3	cc	_	O
+9	#hoax	#hoax	PRP$	pos2=JJ	10	poss	_	O
+10	death	death	NN	_	3	conj	_	O
+11	to	to	TO	_	12	aux	_	O
+12	try	try	VB	_	7	xcomp	_	O
+13	and	and	CC	_	12	cc	_	O
+14	stop	stop	VB	_	12	conj	_	O
+15	#brexitthe	#brexitthe	DT	pos2=FW	17	det	_	O
+16	#remain	#remain	JJ	pos2=PRP$	17	nmod	_	O
+17	cancer	cancer	NN	_	14	dobj	_	O
+18	lost	lose	VBN	pos2=VBD	0	root	_	O
+

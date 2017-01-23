@@ -1,0 +1,26 @@
+1	All	all	PDT	pos2=DT	3	predet	_	O
+2	my	my	PRP$	_	3	poss	_	O
+3	relatives	relative	NNS	_	4	nsubj	_	O
+4	are	be	VBP	_	12	ccomp	_	O
+5	from	from	IN	_	4	prep	_	O
+6	Limerick	limerick	NNP	_	5	pobj	_	U-GPE
+7	(	(	-LRB-	_	4	punct	_	O
+8	hon	hon	NN	pos2=NNP	9	compound	_	O
+9	tipp	tipp	NN	pos2=NNP	6	appos	_	O
+10	!(	!(	,	pos2=NFP	12	punct	_	O
+11	I	I	PRP	_	12	nsubj	_	O
+12	hate	hate	VBP	_	0	root	_	O
+13	sports	sport	NNS	_	12	dobj	_	O
+14	))	))	NFP	pos2=-RRB-	12	punct	_	O
+15	&	&	CC	_	12	cc	_	O
+16	Limerick	limerick	NNP	_	17	compound	_	O
+17	slang	slang	NN	_	18	nsubj	_	O
+18	sounds	sound	VBZ	pos2=NNS	12	conj	_	O
+19	like	like	IN	_	18	prep	_	O
+20	home	home	NN	pos2=RB	19	pobj	_	O
+21	,	,	,	_	18	punct	_	O
+22	'	'	''	pos2=``	25	punct	_	O
+23	Cmereiwantcha	cmereiwantcha	NNP	pos2=UH	25	nmod	_	U-PERSON
+24	'	'	''	pos2=POS	25	punct	_	O
+25	😂	😂	NN	pos2=''	20	neg	_	U-DATE
+

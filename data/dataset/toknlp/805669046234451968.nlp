@@ -1,0 +1,18 @@
+1	Jihadis	jihadi	NNS	pos2=NNPS	4	nsubj	_	O
+2	in	in	IN	_	1	prep	_	O
+3	Aleppo	aleppo	NNP	_	2	pobj	_	U-GPE
+4	complaining	complain	VBG	_	13	advcl	_	O
+5	they	they	PRP	_	7	nsubj	_	O
+6	are	be	VBP	_	7	aux	_	O
+7	running	run	VBG	_	4	ccomp	_	O
+8	out	out	IN	_	7	prep	_	O
+9	of	of	IN	_	8	prep	_	O
+10	munition	munition	NN	_	9	pobj	_	O
+11	,	,	,	_	13	punct	_	O
+12	still	still	RB	_	13	advmod	_	O
+13	shoot	shoot	VB	pos2=VBP	0	root	_	O
+14	indiscriminately	indiscriminately	RB	_	13	advmod	_	O
+15	.	.	.	_	13	punct	_	O
+
+1	https://t.co/3pML1WNOdk	#hlink#	ADD	_	0	root	_	U-ORG
+

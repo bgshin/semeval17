@@ -1,0 +1,16 @@
+1	The	the	DT	_	5	det	_	O
+2	Evelyn	evelyn	NNP	_	5	compound	_	O
+3	McCPeters	mccpeters	NNP	pos2=NNPS	5	compound	_	O
+4	Art	art	NNP	_	5	compound	_	O
+5	Journal	journal	NNP	_	6	nsubj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	out	out	RB	pos2=RP	6	advmod	_	O
+8	!	!	.	_	6	punct	_	O
+
+1	https://t.co/L7ZVbw5Ilk	#hlink#	ADD	pos2=NN	0	root	_	O
+2	Stories	story	NNS	pos2=NNPS	0	root	_	O
+3	via	via	IN	_	2	prep	_	O
+4	@neelygomezart	@neelygomezart	NNP	pos2=XX	3	pobj	_	U-FAC
+5	#thanksgiving	#thanksgiving	VBG	pos2=FW	2	acl	_	O
+6	#nbawards	#nbawards	UH	pos2=NNS	5	discourse	_	O
+

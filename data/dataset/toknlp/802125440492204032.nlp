@@ -1,0 +1,28 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	crowded	crowded	JJ	pos2=VBN	2	acomp	_	O
+4	at	at	IN	_	2	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	market	market	NN	_	4	pobj	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	’s	's	VBZ	_	0	root	_	O
+3	Sunday	sunday	NNP	_	2	attr	_	U-DATE
+4	and	and	CC	_	3	cc	_	O
+5	life	life	NN	_	3	conj	_	O
+6	in	in	IN	_	10	prep	_	O
+7	this	this	DT	_	9	det	_	O
+8	religious	religious	JJ	_	9	nmod	_	O
+9	town	town	NN	_	6	pobj	_	O
+10	is	be	VBZ	_	2	ccomp	_	O
+11	back	back	RB	_	10	advmod	_	O
+12	on	on	IN	_	11	prep	_	O
+13	track	track	NN	_	12	pobj	_	O
+14	after	after	IN	_	10	prep	_	O
+15	Sabbath	sabbath	NNP	_	14	pobj	_	U-DATE
+16	.	.	.	_	2	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/Ehtjaen9He	#hlink#	ADD	pos2=NN	0	root	_	O
+

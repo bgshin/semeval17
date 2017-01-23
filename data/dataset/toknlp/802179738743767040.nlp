@@ -1,0 +1,14 @@
+1	Israel	israel	NNP	_	7	nsubj	_	U-GPE
+2	first	#ord#	RB	pos2=JJ	7	advmod	_	U-ORDINAL
+3	,	,	,	_	1	punct	_	O
+4	racist	racist	JJ	_	7	nmod	_	O
+5	,	,	,	_	13	punct	_	O
+6	government	government	NN	_	7	compound	_	O
+7	psyoper	psyoper	NN	pos2=RB	13	dep	_	O
+8	,	,	,	_	7	punct	_	O
+9	and	and	CC	_	7	cc	_	O
+10	altrighter	altrighter	IN	pos2=GW	7	conj	_	O
+11	🤔	🤔	NFP	pos2=GW	13	nmod	_	O
+12	@Pamgeller	@pamgeller	GW	pos2=NFP	13	nmod	_	O
+13	https://t.co/2MaSDQq73w	#hlink#	ADD	pos2=NN	0	root	_	O
+

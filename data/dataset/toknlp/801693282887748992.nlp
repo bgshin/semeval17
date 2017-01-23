@@ -1,0 +1,16 @@
+1	#Israel	#israel	NNP	pos2=WP	2	nsubj	_	U-ORG
+2	accuses	accuse	VBZ	_	0	root	_	O
+3	#Iran	#iran	NNP	pos2=NNS	2	dobj	_	U-ORG
+4	of	of	IN	_	2	prep	_	O
+5	using	use	VBG	_	4	pcomp	_	O
+6	commercial	commercial	JJ	_	7	nmod	_	O
+7	airline	airline	NN	_	5	dobj	_	O
+8	to	to	TO	pos2=IN	9	aux	_	O
+9	transport	transport	VB	pos2=NN	5	xcomp	_	O
+10	weapons	weapon	NNS	_	9	dobj	_	O
+11	to	to	IN	pos2=TO	12	aux	_	O
+12	#HezbollahTV7	#hezbollahtv0	VB	pos2=NNP	9	advcl	_	O
+13	Israel	israel	NNP	_	14	compound	_	B-ORG
+14	News	news	NNP	pos2=GW	12	dobj	_	L-ORG
+15	https://t.co/4QXkedxrn0	#hlink#	ADD	_	2	dep	_	O
+

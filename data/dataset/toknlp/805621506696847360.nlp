@@ -1,0 +1,19 @@
+1	@TrumptyDump	@trumptydump	XX	pos2=ADD	18	dep	_	O
+2	@billmckibben	@billmckibben	UH	pos2=XX	18	discourse	_	O
+3	@POTUS	@potus	NNP	pos2=XX	2	vocative	_	O
+4	With	with	IN	_	3	prep	_	O
+5	ya	ya	PRP	pos2=NN	4	pobj	_	O
+6	on	on	IN	_	1	prep	_	O
+7	thisCountry	thiscountry	NNP	pos2=NN	6	pobj	_	U-GPE
+8	in	in	IN	_	5	prep	_	O
+9	increasing	increase	VBG	_	10	nmod	_	O
+10	turmoil	turmoil	NN	_	8	pobj	_	O
+11	re	re	IN	pos2=CC	10	prep	_	O
+12	voter	voter	NN	_	13	compound	_	O
+13	suppression	suppression	NN	_	11	pobj	_	O
+14	,	,	,	_	18	punct	_	O
+15	voter	voter	NN	_	16	compound	_	O
+16	fraud@POTUS	fraud@potus	NN	pos2=XX	18	dep	_	O
+17	pls	pls	UH	pos2=NNS	18	discourse	_	O
+18	#AuditTheVote	#auditthevote	ADD	pos2=.	0	root	_	U-NORP
+

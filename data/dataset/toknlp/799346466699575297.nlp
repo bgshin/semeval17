@@ -1,0 +1,9 @@
+1	https://t.co/8LvlPqekkP	#hlink#	ADD	_	8	dep	_	O
+2	Black	black	NNP	pos2=JJ	3	compound	_	B-PERSON
+3	Sonoma	sonoma	NNP	pos2=NN	8	dep	_	I-PERSON
+4	2	0	CD	pos2=NNP	8	dep	_	I-PERSON
+5	Door	door	NNP	pos2=NN	6	compound	_	I-PERSON
+6	Armoire	armoire	NNP	pos2=NN	8	dep	_	L-PERSON
+7	#NationalFastFoodDay	#nationalfastfoodday	ADD	pos2=GW	8	dep	_	O
+8	https://t.co/exKOi9WrPt	#hlink#	ADD	_	0	root	_	O
+

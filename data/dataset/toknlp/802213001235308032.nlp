@@ -1,0 +1,24 @@
+1	@petestavros	@petestavros	UH	pos2=NNS	8	discourse	_	O
+2	@AlwaysInAmerica	@alwaysinamerica	UH	pos2=NNP	8	discourse	_	O
+3	@megynkelly	@megynkelly	UH	pos2=RB	8	discourse	_	O
+4	actually	actually	RB	_	8	advmod	_	O
+5	I	I	PRP	_	8	nsubj	_	O
+6	do	do	VBP	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	care	care	VB	_	0	root	_	O
+9	about	about	IN	_	8	prep	_	O
+10	her	her	PRP$	pos2=PRP	12	poss	_	O
+11	pc	pc	NN	pos2=JJ	12	compound	_	O
+12	anything	anything	NN	_	9	pobj	_	O
+13	I	I	PRP	pos2=JJ	14	nsubj	_	O
+14	care	care	VBP	_	12	relcl	_	O
+15	about	about	IN	_	14	prep	_	O
+16	integrity	integrity	NN	_	15	pobj	_	O
+17	when	when	WRB	_	18	advmod	_	O
+18	reporting	report	VBG	pos2=NN	14	advcl	_	O
+19	.	.	.	_	8	punct	_	O
+
+1	she	she	PRP	_	2	nsubj	_	O
+2	does	do	VBZ	_	0	root	_	O
+3	n't	not	RB	_	2	neg	_	O
+

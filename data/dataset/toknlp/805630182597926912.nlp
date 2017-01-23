@@ -1,0 +1,26 @@
+1	@DeanMiller1978	@deanmiller0	NN	pos2=NNS	2	compound	_	O
+2	@GeorgeTakei	@georgetakei	NNS	pos2=NN	8	nsubjpass	_	O
+3	As	as	IN	_	2	prep	_	O
+4	gay	gay	JJ	_	5	nmod	_	O
+5	man	man	NN	_	3	pobj	_	O
+6	I	I	PRP	_	8	nsubjpass	_	O
+7	'm	be	VBP	_	8	auxpass	_	O
+8	appalled	appal	VBN	pos2=JJ	0	root	_	O
+9	at	at	IN	_	8	prep	_	O
+10	Democrats	democrat	NNPS	_	9	pobj	_	U-NORP
+11	doing	do	VBG	_	10	acl	_	O
+12	nothing	nothing	NN	_	11	dobj	_	O
+13	.	.	.	_	8	punct	_	O
+
+1	Gay	gay	JJ	pos2=NNP	2	nmod	_	O
+2	marriage	marriage	NN	_	3	compound	_	O
+3	Hillary	hillary	NNP	_	6	nsubj	_	U-PERSON
+4	&	&	CC	_	3	cc	_	O
+5	Obama	obama	NNP	_	3	conj	_	U-PERSON
+6	were	be	VBD	_	0	root	_	O
+7	against	against	IN	_	6	prep	_	O
+8	until	until	IN	_	10	mark	_	O
+9	it	it	PRP	_	10	nsubj	_	O
+10	was	be	VBD	_	6	advcl	_	O
+11	safe	safe	JJ	_	10	acomp	_	O
+

@@ -1,0 +1,13 @@
+1	@contentprison	@contentprison	UH	pos2=NN	5	discourse	_	O
+2	@Anonymoose2017	@anonymoose0	NN	pos2=POS	3	npadvmod	_	O
+3	Sure	sure	JJ	pos2=UH	5	advmod	_	O
+4	beats	beat	VBZ	pos2=NNS	0	root	_	O
+5	working	work	VBG	_	4	dobj	_	O
+6	for	for	IN	_	5	prep	_	O
+7	"	"	``	_	8	punct	_	O
+8	Obamacare	obamacare	NNP	_	6	pobj	_	O
+9	"	"	''	_	8	punct	_	O
+10	eh	eh	UH	_	5	discourse	_	O
+11	Dr	dr	NNP	_	4	vocative	_	O
+12	?	?	.	_	4	punct	_	O
+

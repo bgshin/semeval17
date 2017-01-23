@@ -1,0 +1,20 @@
+1	@Holkirk	@holkirk	NNP	pos2=NN	2	compound	_	B-ORG
+2	TP100	tp0	NN	_	7	nsubj	_	I-ORG
+3	&	&	CC	_	2	cc	_	I-ORG
+4	Mission	mission	NNP	_	5	compound	_	I-ORG
+5	Microwave	microwave	NNP	pos2=NN	6	compound	_	L-ORG
+6	Ku-55	ku-0	NN	pos2=NNP	2	conj	_	O
+7	achieving	achieve	VBG	_	0	root	_	O
+8	a	a	DT	_	10	det	_	O
+9	solid	solid	JJ	_	10	nmod	_	O
+10	9Mbps	0mbps	NNS	pos2=NN	7	dobj	_	O
+11	over	over	IN	pos2=RB	10	prep	_	O
+12	@bbcnewsgops	@bbcnewsgops	PRP$	pos2=NNS	14	poss	_	O
+13	VSAT	vsat	NN	pos2=NNP	14	compound	_	O
+14	system	system	NN	_	11	pobj	_	O
+15	from	from	IN	_	14	prep	_	O
+16	Erbil	erbil	NNP	_	15	pobj	_	U-GPE
+17	for	for	IN	_	7	prep	_	O
+18	…	…	NFP	pos2=-LRB-	19	punct	_	O
+19	https://t.co/aTRzhVwdde	#hlink#	ADD	pos2=NN	17	pobj	_	O
+

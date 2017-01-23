@@ -1,0 +1,9 @@
+1	@LThomasDraper	@lthomasdraper	VB	pos2=PRP$	0	root	_	O
+2	damn	damn	JJ	pos2=RB	3	nmod	_	O
+3	liberals	liberal	NNS	_	1	dobj	_	O
+4	probably	probably	RB	_	1	advmod	_	O
+5	.	.	.	_	1	punct	_	O
+
+1	Obama	obama	NNP	pos2=LS	0	root	_	U-PERSON
+2	.	.	.	_	1	punct	_	O
+

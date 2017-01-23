@@ -1,0 +1,11 @@
+1	Report	report	NN	pos2=NNP	2	nsubj	_	O
+2	says	say	VBZ	_	0	root	_	O
+3	migrants	migrant	NNS	_	5	nsubj	_	O
+4	should	should	MD	_	5	aux	_	O
+5	pledge	pledge	VB	_	2	ccomp	_	O
+6	to	to	TO	_	7	aux	_	O
+7	follow	follow	VB	_	5	xcomp	_	O
+8	British	british	JJ	_	9	nmod	_	U-NORP
+9	values	value	NNS	_	7	dobj	_	O
+10	https://t.co/0AlqEAYoPG	#hlink#	ADD	_	9	acl	_	O
+

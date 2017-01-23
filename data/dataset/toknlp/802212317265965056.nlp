@@ -1,0 +1,22 @@
+1	@AlwaysInAmerica	@alwaysinamerica	UH	pos2=NNP	4	discourse	_	O
+2	@megynkelly	@megynkelly	UH	pos2=RB	4	discourse	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	'm	be	VBP	_	0	root	_	O
+5	sure	sure	JJ	_	4	acomp	_	O
+6	you	you	PRP	_	7	nsubj	_	O
+7	understand	understand	VBP	_	5	ccomp	_	O
+8	how	how	WRB	_	9	advmod	_	O
+9	powerful	powerful	JJ	_	13	acomp	_	O
+10	his	his	PRP$	_	11	poss	_	O
+11	words	word	NNS	_	13	nsubj	_	O
+12	can	can	MD	_	13	aux	_	O
+13	be	be	VB	_	7	ccomp	_	O
+14	,	,	,	_	4	punct	_	O
+15	especially	especially	RB	_	16	advmod	_	O
+16	with	with	IN	_	4	prep	_	O
+17	some	some	DT	_	16	pobj	_	O
+18	of	of	IN	_	17	prep	_	O
+19	his	his	PRP$	_	20	poss	_	O
+20	supporters	supporter	NNS	_	18	pobj	_	O
+21	.	.	.	_	4	punct	_	O
+

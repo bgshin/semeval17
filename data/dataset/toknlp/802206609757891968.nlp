@@ -1,0 +1,25 @@
+1	@CherylJstwin	@cheryljstwin	NN	pos2=UH	11	nsubj	_	O
+2	@megynkelly	@megynkelly	UH	pos2=RB	11	discourse	_	O
+3	what	what	WP	_	5	dobj	_	O
+4	do	do	VBP	pos2=VB	11	aux	_	O
+5	these	these	DT	_	9	det	_	O
+6	'	'	''	pos2=``	9	punct	_	O
+7	1/2	0	CD	_	9	nmod	_	U-CARDINAL
+8	naked	naked	JJ	_	9	nmod	_	O
+9	pics	pic	NNS	_	11	nsubj	_	O
+10	'	'	''	pos2=,	11	punct	_	O
+11	have	have	VBP	pos2=VB	0	root	_	O
+12	to	to	TO	_	13	aux	_	O
+13	do	do	VB	_	11	xcomp	_	O
+14	with	with	IN	_	13	prep	_	O
+15	anything	anything	NN	_	14	pobj	_	O
+16	?	?	.	_	11	punct	_	O
+
+1	They	they	PRP	_	2	nsubj	_	O
+2	're	be	VBP	_	0	root	_	O
+3	not	not	RB	_	2	neg	_	O
+4	even	even	RB	_	5	advmod	_	O
+5	like	like	IN	pos2=VB	2	prep	_	O
+6	that	that	DT	_	5	pobj	_	O
+7	.	.	.	_	2	punct	_	O
+

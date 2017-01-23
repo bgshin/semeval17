@@ -1,0 +1,27 @@
+1	Bill	bill	NNP	_	2	compound	_	B-PERSON
+2	English	english	NNP	_	3	nsubj	_	L-PERSON
+3	voted	vote	VBD	_	0	root	_	O
+4	against	against	IN	_	3	prep	_	O
+5	gay	gay	JJ	pos2=NN	6	nmod	_	O
+6	marriage	marriage	NN	_	4	pobj	_	O
+7	,	,	,	_	3	punct	_	O
+8	is	be	VBZ	_	3	conj	_	O
+9	anti-abortion	anti-abortion	JJ	_	8	acomp	_	O
+10	,	,	,	_	11	punct	_	O
+11	anti-euthanasia	anti-euthanasia	JJ	pos2=NN	14	nmod	_	O
+12	;	;	,	pos2=:	8	punct	_	O
+13	with	with	IN	_	8	prep	_	O
+14	Key	key	NNP	pos2=JJ	15	nsubj	_	U-ORG
+15	gone	go	VBN	pos2=NN	13	pcomp	_	O
+16	we	we	PRP	_	21	nsubj	_	O
+17	up	up	RP	pos2=RB	16	prt	_	O
+18	with	with	IN	_	15	prep	_	O
+19	a	a	DT	_	22	det	_	O
+20	religious	religious	JJ	_	22	nmod	_	O
+21	social	social	JJ	pos2=NN	22	nmod	_	O
+22	conservative	conservative	NN	pos2=JJ	18	pobj	_	O
+23	.	.	.	_	3	punct	_	O
+
+1	Sigh	sigh	NN	pos2=UH	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

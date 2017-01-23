@@ -1,0 +1,10 @@
+1	@Marion_M_Le_Pen	@marion_m_le_pen	NNP	pos2=ADD	2	vocative	_	O
+2	Are	be	VBP	_	0	root	_	O
+3	you	you	PRP	pos2=PRP$	2	nsubj	_	O
+4	sister	sister	NN	_	2	attr	_	O
+5	of	of	IN	_	4	prep	_	O
+6	Marine	marine	NNP	pos2=JJ	8	compound	_	B-ORG
+7	Le	le	NNP	_	8	compound	_	I-ORG
+8	Pen	pen	NNP	_	5	pobj	_	L-ORG
+9	?	?	.	_	2	punct	_	O
+

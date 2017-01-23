@@ -1,0 +1,12 @@
+1	Alt	alt	JJ	pos2=NN	3	advmod	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	right	right	JJ	pos2=NN	5	nsubj	_	O
+4	=	=	SYM	pos2=HYPH	5	punct	_	O
+5	racists	racist	NNS	_	0	root	_	O
+6	/	/	SYM	pos2=,	5	punct	_	O
+7	white	white	JJ	_	10	nmod	_	O
+8	supremacistsbut	supremacistsbut	JJ	pos2=NN	10	nmod	_	O
+9	decent	decent	JJ	_	10	nmod	_	O
+10	article	article	NN	_	5	appos	_	O
+11	https://t.co/11ChVDqRrv	#hlink#	ADD	_	5	dep	_	O
+

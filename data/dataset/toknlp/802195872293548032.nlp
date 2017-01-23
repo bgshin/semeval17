@@ -1,0 +1,18 @@
+1	THANK	thank	VBP	pos2=SYM	0	root	_	O
+2	GOD	god	NNP	_	5	compound	_	O
+3	Donald	donald	NNP	_	5	compound	_	B-PERSON
+4	J.	j.	NNP	_	5	compound	_	I-PERSON
+5	Trump	trump	NNP	_	8	nsubj	_	L-PERSON
+6	did	do	VBD	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	appoint	appoint	VB	_	1	ccomp	_	O
+9	Dr.	dr.	NNP	_	11	compound	_	O
+10	Ben	ben	NNP	_	11	compound	_	B-PERSON
+11	Carson	carson	NNP	_	8	dobj	_	L-PERSON
+12	to	to	IN	pos2=TO	8	prep	_	O
+13	Surgeon	surgeon	NNP	_	14	compound	_	O
+14	General	general	NNP	_	12	pobj	_	O
+15	!	!	.	_	1	punct	_	O
+
+1	https://t.co/Dz2vD2WpZk	#hlink#	ADD	_	0	root	_	U-ORG
+

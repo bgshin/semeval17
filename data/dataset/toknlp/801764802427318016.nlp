@@ -1,0 +1,19 @@
+1	Lionel	lionel	NNP	_	2	compound	_	B-PERSON
+2	Messi	messi	NNP	_	3	nsubj	_	L-PERSON
+3	belongs	belong	VBZ	_	0	root	_	O
+4	to	to	IN	_	3	prep	_	O
+5	Barcelona	barcelona	NNP	_	7	compound	_	U-GPE
+6	-	-	HYPH	pos2=:	7	punct	_	O
+7	Mourinho	mourinho	NNP	_	4	pobj	_	O
+8	https://t.co/YiqHuQinCk	#hlink#	ADD	pos2=NNP	7	appos	_	O
+9	#soccer	#soccer	-RRB-	pos2=IN	3	punct	_	O
+10	#football	#football	UH	pos2=-RRB-	18	discourse	_	O
+11	#fcb	#fcb	UH	pos2=XX	18	discourse	_	O
+12	#fcblive	#fcblive	UH	pos2=FW	18	discourse	_	O
+13	#mufc	#mufc	UH	pos2=FW	18	discourse	_	O
+14	#mcfc	#mcfc	UH	pos2=FW	18	discourse	_	O
+15	#rmfc	#rmfc	UH	pos2=FW	18	discourse	_	O
+16	#pl	#pl	UH	pos2=FW	18	discourse	_	O
+17	#lfp	#lfp	UH	pos2=VB	18	discourse	_	O
+18	#laliga	#laliga	UH	pos2=FW	3	discourse	_	O
+

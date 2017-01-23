@@ -1,0 +1,18 @@
+1	@tripgabriel	@tripgabriel	UH	pos2=XX	6	discourse	_	O
+2	@ManMet80	@manmet0	NN	pos2=GW	6	nsubj	_	O
+3	@nytimes	@nytimes	IN	pos2=UH	2	prep	_	O
+4	Kentucky	kentucky	NNP	_	5	compound	_	U-GPE
+5	governor	governor	NN	_	3	pobj	_	O
+6	did	do	VBD	_	0	root	_	O
+7	horrible	horrible	JJ	_	6	advmod	_	O
+8	to	to	IN	_	7	prep	_	O
+9	people	people	NNS	_	8	pobj	_	O
+10	with	with	IN	_	9	prep	_	O
+11	obamacare	obamacare	NN	pos2=NNP	10	pobj	_	O
+12	and	and	CC	_	11	cc	_	O
+13	ky	ky	NN	pos2=NNP	11	conj	_	O
+14	went	go	VBD	_	6	conj	_	O
+15	for	for	IN	_	14	prep	_	O
+16	Trump	trump	NNP	pos2=NN	15	pobj	_	U-ORG
+17	too	too	RB	_	14	advmod	_	O
+

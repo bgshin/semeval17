@@ -1,0 +1,19 @@
+1	why	why	WRB	_	4	advmod	_	O
+2	did	do	VBD	_	4	aux	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	choose	choose	VB	_	0	root	_	O
+5	animal	animal	NN	_	6	compound	_	O
+6	testing	testing	NN	_	4	dobj	_	O
+7	as	as	IN	_	6	prep	_	O
+8	my	my	PRP$	_	10	poss	_	O
+9	speech	speech	NN	_	10	compound	_	O
+10	topic	topic	NN	pos2=NNS	7	pobj	_	O
+11	I	I	PRP	_	13	nsubj	_	O
+12	am	be	VBP	_	13	aux	_	O
+13	crying	cry	VBG	_	18	ccomp	_	O
+14	looking	look	VBG	_	13	xcomp	_	O
+15	at	at	IN	_	14	prep	_	O
+16	these	these	DT	_	17	det	_	O
+17	images	image	NNS	_	15	pobj	_	O
+18	😭	😭	.	pos2=,	4	punct	_	O
+

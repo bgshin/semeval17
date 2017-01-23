@@ -1,0 +1,13 @@
+1	@VaxCalc	@vaxcalc	XX	pos2=NNP	6	dep	_	O
+2	Only	only	RB	_	5	advmod	_	O
+3	the	the	DT	_	5	det	_	O
+4	Nazi	nazi	NNP	pos2=JJ	5	compound	_	U-NORP
+5	Leftists	leftist	NNPS	pos2=NNS	6	nsubj	_	U-NORP
+6	want	want	VBP	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	force	force	VB	_	6	xcomp	_	O
+9	vaccines	vaccine	NNS	_	8	dobj	_	O
+10	on	on	IN	_	8	prep	_	O
+11	people	people	NNS	_	10	pobj	_	O
+12	.	.	.	_	6	punct	_	O
+

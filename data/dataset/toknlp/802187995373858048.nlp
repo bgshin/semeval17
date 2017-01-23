@@ -1,0 +1,22 @@
+1	Classic	classic	JJ	pos2=NNP	5	nmod	_	O
+2	3rd	#ord#	JJ	pos2=NN	5	nmod	_	U-ORDINAL
+3	world	world	NN	_	4	compound	_	O
+4	dictator	dictator	NN	_	5	compound	_	O
+5	move	move	NN	pos2=VB	7	dep	_	O
+6	,	,	,	_	7	punct	_	O
+7	surround	surround	VB	pos2=VBP	0	root	_	O
+8	yourself	yourself	PRP	_	7	dobj	_	O
+9	with	with	IN	_	7	prep	_	O
+10	unquailfied	unquailfied	JJ	pos2=VBN	11	nmod	_	O
+11	loyalist	loyalist	NN	pos2=JJ	9	pobj	_	O
+12	that	that	WDT	_	14	nsubj	_	O
+13	will	will	MD	_	14	aux	_	O
+14	be	be	VB	_	11	relcl	_	O
+15	yes	yes	UH	pos2=JJ	14	discourse	_	O
+16	men	man	NNS	_	14	attr	_	O
+17	to	to	IN	pos2=TO	16	prep	_	O
+18	an	an	DT	_	17	pobj	_	O
+19	...	..	.	_	7	punct	_	O
+
+1	https://t.co/TqlUQha9qD	#hlink#	ADD	_	0	root	_	U-ORG
+

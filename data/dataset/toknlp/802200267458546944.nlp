@@ -1,0 +1,14 @@
+1	The	the	DT	_	5	det	_	O
+2	latest	late	JJS	_	5	nmod	_	O
+3	BETT	bett	NNP	pos2=NN	5	poss	_	U-ORG
+4	'S	's	POS	_	3	case	_	O
+5	WORLD	world	NN	pos2=NNP	0	root	_	O
+6	!	!	.	_	5	punct	_	O
+
+1	https://t.co/zAz764fuu2	#hlink#	ADD	pos2=NN	0	root	_	O
+2	Via	via	IN	pos2=NNP	1	prep	_	O
+3	@TheNatlInterest	@thenatlinterest	JJS	pos2=ADD	2	pobj	_	O
+4	@railjournal	@railjournal	UH	pos2=XX	2	pobj	_	O
+5	#yemencrisis	#yemencrisis	UH	pos2=FW	2	pobj	_	O
+6	#yemen	#yemen	UH	pos2=.	2	pobj	_	O
+

@@ -1,0 +1,27 @@
+1	Bob	bob	NNP	_	2	compound	_	B-PERSON
+2	Dylan	dylan	NNP	_	3	nsubj	_	L-PERSON
+3	sings	sing	VBZ	_	0	root	_	O
+4	his	his	PRP$	_	7	poss	_	O
+5	7th	#ord#	JJ	pos2=NN	6	advmod	_	U-ORDINAL
+6	biggest	big	JJS	pos2=NN	7	nmod	_	O
+7	hit	hit	NN	pos2=VBN	3	dobj	_	O
+8	,	,	,	_	7	punct	_	O
+9	Got	get	VBN	pos2=NNP	7	appos	_	O
+10	ta	ta	TO	pos2=MD	11	aux	_	O
+11	Serve	serve	VB	pos2=NNP	9	xcomp	_	O
+12	Somebody	somebody	NN	_	13	nsubj	_	O
+13	live	live	VB	pos2=JJ	11	ccomp	_	O
+14	on	on	IN	_	13	prep	_	O
+15	the	the	DT	_	18	det	_	O
+16	1980	0	CD	_	18	nmod	_	U-DATE
+17	Grammy	grammy	NNP	_	18	compound	_	B-WORK_OF_ART
+18	Awards	award	NNPS	pos2=NNS	14	pobj	_	L-WORK_OF_ART
+19	.	.	.	_	3	punct	_	O
+
+1	Intro	intro	NN	pos2=NNP	0	root	_	O
+2	by	by	IN	_	1	prep	_	O
+3	Kenny	kenny	NNP	_	4	compound	_	B-PERSON
+4	Rogers	rogers	NNP	_	6	dep	_	I-PERSON
+5	-	-	HYPH	pos2=:	6	punct	_	L-PERSON
+6	https://t.co/hVJRkzHZeV	#hlink#	ADD	pos2=NNP	2	pobj	_	O
+

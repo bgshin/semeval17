@@ -1,0 +1,19 @@
+1	https://t.co/NSCvYPGbuj	#hlink#	ADD	pos2=NN	8	dep	_	O
+2	:	:	:	pos2=-RRB-	8	punct	_	O
+3	#GalaxyNote7	#galaxynote0	NN	pos2=CD	8	compound	_	O
+4	#Smartphone	#smartphone	NNP	pos2=NN	7	compound	_	O
+5	-	-	HYPH	pos2=:	6	punct	_	O
+6	Samsung	samsung	NNP	_	7	compound	_	O
+7	Galaxy	galaxy	NNP	_	8	compound	_	O
+8	Note	note	NN	pos2=VB	0	root	_	O
+9	7	0	CD	_	10	nmod	_	U-CARDINAL
+10	updates	update	NNS	_	8	dobj	_	O
+11	:	:	:	_	10	punct	_	O
+12	Samsung	samsung	NNP	_	13	compound	_	B-ORG
+13	France	france	NNP	_	10	appos	_	L-ORG
+14	offering	offer	VBG	pos2=NN	10	acl	_	O
+15	free	free	JJ	_	17	nmod	_	O
+16	12	0	CD	_	18	dep	_	U-CARDINAL
+17	…	…	NFP	pos2=-LRB-	18	punct	_	O
+18	https://t.co/SdzjVaEEpw	#hlink#	ADD	pos2=NN	14	dobj	_	O
+

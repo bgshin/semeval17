@@ -1,0 +1,21 @@
+1	rumor	rumor	NN	_	2	compound	_	O
+2	#trump	#trump	NN	pos2=UH	4	nsubj	_	O
+3	will	will	MD	_	4	aux	_	O
+4	import	import	VB	_	0	root	_	O
+5	the	the	DT	_	7	det	_	O
+6	Great	great	NNP	pos2=JJ	7	compound	_	O
+7	Wall	wall	NNP	pos2=NN	4	dobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	China	china	NNP	_	8	pobj	_	O
+10	,	,	,	_	4	punct	_	O
+11	and	and	CC	_	4	cc	_	O
+12	install	install	VB	_	4	conj	_	O
+13	it	it	PRP	_	12	dobj	_	O
+14	on	on	IN	_	12	prep	_	O
+15	the	the	DT	_	17	det	_	O
+16	Mexican	mexican	JJ	pos2=NNP	17	nmod	_	U-NORP
+17	Border	border	NNP	pos2=NN	14	pobj	_	O
+18	#maga	#maga	GW	pos2=POS	20	nmod	_	O
+19	#Mexicanwall	#mexicanwall	GW	pos2=-LRB-	20	nmod	_	O
+20	https://t.co/JJV6BdjKDw	#hlink#	ADD	pos2=NN	4	dep	_	O
+

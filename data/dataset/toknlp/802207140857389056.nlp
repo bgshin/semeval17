@@ -1,0 +1,11 @@
+1	💯	💯	NN	pos2=PRP$	2	compound	_	O
+2	percent	percent	NN	_	3	nsubj	_	O
+3	AGREE	agree	VBP	pos2=VB	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+
+1	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	5	dep	_	O
+2	@mike_pence	@mike_pence	IN	pos2=GW	5	nmod	_	O
+3	@KellyannePolls	@kellyannepolls	NNS	pos2=GW	2	pobj	_	O
+4	#NeverRomney	#neverromney	ADD	pos2=GW	5	punct	_	O
+5	https://t.co/53UPvM8vzt	#hlink#	ADD	_	0	root	_	O
+

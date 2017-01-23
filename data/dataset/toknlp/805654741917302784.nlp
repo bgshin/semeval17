@@ -1,0 +1,26 @@
+1	#	#	NN	pos2=SYM	2	compound	_	O
+2	3Novices	0novices	NNS	pos2=NN	4	dep	_	O
+3	:	:	:	_	8	punct	_	O
+4	Demonetisation	demonetisation	NN	pos2=NNP	9	dep	_	O
+5	:	:	:	_	10	punct	_	O
+6	ED	ed	NN	pos2=JJ	7	compound	_	O
+7	arrests	arrest	NNS	pos2=VBZ	0	root	_	O
+8	2	0	CD	_	11	nmod	_	O
+9	Axis	axis	NNP	_	10	compound	_	B-ORG
+10	Bank	bank	NNP	_	11	compound	_	L-ORG
+11	officers	officer	NNS	_	7	appos	_	O
+12	in	in	IN	_	11	prep	_	O
+13	a	a	DT	_	16	det	_	O
+14	money	money	NN	_	15	compound	_	O
+15	laundering	laundering	NN	pos2=VBG	16	compound	_	O
+16	case	case	NN	_	12	pobj	_	O
+17	https://t.co/GNuSAbsjgI	#hlink#	ADD	pos2=IN	22	nsubj	_	O
+18	A	a	DT	_	20	det	_	O
+19	gold	gold	NN	_	20	compound	_	O
+20	bar	bar	NN	_	16	appos	_	O
+21	,	,	,	_	24	punct	_	O
+22	part	part	NN	_	20	appos	_	O
+23	of	of	IN	_	22	prep	_	O
+24	alleged	alleged	JJ	pos2=VBN	23	pobj	_	O
+25	…	…	.	pos2=NN	7	punct	_	O
+

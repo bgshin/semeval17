@@ -1,0 +1,9 @@
+1	@SlNPAl	@slnpal	UH	pos2=MD	3	discourse	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	bet	bet	VBP	_	0	root	_	O
+4	u	u	PRP	pos2=RP	3	dative	_	O
+5	one	#crd#	CD	_	8	nmod	_	U-CARDINAL
+6	social	social	JJ	_	7	nmod	_	O
+7	security	security	NN	_	8	compound	_	O
+8	payment	payment	NN	_	3	dobj	_	O
+

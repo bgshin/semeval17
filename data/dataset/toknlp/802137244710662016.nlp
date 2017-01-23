@@ -1,0 +1,11 @@
+1	@VoucherAngels	@voucherangels	NNS	pos2=ADD	5	vocative	_	O
+2	#FreebieFriday	#freebiefriday	MD	pos2=NNP	5	aux	_	O
+3	#Hatchimals	#hatchimals	NNS	pos2=RBR	5	nsubj	_	O
+4	-	-	SYM	pos2=HYPH	5	punct	_	O
+5	need	need	VB	pos2=NN	0	root	_	O
+6	these	these	DT	_	8	det	_	O
+7	to	to	TO	pos2=IN	8	aux	_	O
+8	hatch	hatch	VB	pos2=NN	5	advcl	_	O
+9	today	today	NN	_	8	npadvmod	_	U-DATE
+10	!	!	.	_	5	punct	_	O
+

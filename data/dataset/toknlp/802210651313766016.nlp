@@ -1,0 +1,18 @@
+1	Vladimir	vladimir	NNP	_	2	compound	_	B-PERSON
+2	Putin	putin	NNP	_	4	nsubj	_	L-PERSON
+3	just	just	RB	_	4	advmod	_	O
+4	made	make	VBD	_	0	root	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	official	official	JJ	pos2=NN	4	ccomp	_	O
+7	with	with	IN	_	6	prep	_	O
+8	actor	actor	NN	_	10	compound	_	O
+9	Steven	steven	NNP	_	10	compound	_	B-PERSON
+10	Seagal	seagal	NNP	_	13	poss	_	L-PERSON
+11	's	's	POS	_	10	case	_	O
+12	Russian	russian	JJ	_	13	nmod	_	U-NORP
+13	passport	passport	NN	_	7	pobj	_	O
+14	https://t.co/X7kkTdGaHi	#hlink#	ADD	_	13	appos	_	O
+15	#Washington	#washington	NNP	pos2=ADD	16	compound	_	O
+16	#Post	#post	NNP	pos2=VBD	13	appos	_	O
+17	#news	#news	UH	pos2=ADD	16	discourse	_	O
+

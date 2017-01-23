@@ -1,0 +1,29 @@
+1	@BeatHillarynow	@beathillarynow	NNP	pos2=XX	2	compound	_	O
+2	Hillary	hillary	NNP	_	3	nsubj	_	U-PERSON
+3	got	get	VBD	_	0	root	_	O
+4	quite	quite	PDT	pos2=RB	6	qmod	_	O
+5	a	a	DT	_	6	qmod	_	O
+6	few	few	JJ	_	8	nmod	_	O
+7	more	more	JJR	_	8	nmod	_	O
+8	votes	vote	NNS	_	3	dobj	_	O
+9	but	but	CC	pos2=IN	3	cc	_	O
+10	your	your	PRP$	_	11	poss	_	O
+11	man	man	NN	_	12	nsubj	_	O
+12	won	win	VBD	_	3	conj	_	O
+13	the	the	DT	_	16	det	_	O
+14	electoral	electoral	JJ	_	16	nmod	_	O
+15	college	college	NN	_	16	compound	_	O
+16	vote	vote	NN	_	12	dobj	_	O
+17	.	.	.	_	12	punct	_	O
+
+1	It	it	PRP	_	4	nsubj	_	O
+2	does	do	VBZ	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	follow	follow	VB	_	0	root	_	O
+5	that	that	IN	pos2=DT	8	mark	_	O
+6	Repubs	repubs	NNP	pos2=NNPS	8	nsubj	_	U-PERSON
+7	'	'	``	pos2=POS	8	punct	_	O
+8	crushed	crush	VBN	pos2=VBD	10	nmod	_	O
+9	'	'	''	_	10	punct	_	O
+10	Dems	dems	NNPS	pos2=NNP	4	dobj	_	U-NORP
+

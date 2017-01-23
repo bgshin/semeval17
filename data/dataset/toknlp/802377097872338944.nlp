@@ -1,0 +1,18 @@
+1	Bob	bob	NNP	_	2	compound	_	B-PERSON
+2	Dylan	dylan	NNP	_	3	nsubj	_	L-PERSON
+3	sings	sing	VBZ	_	0	root	_	O
+4	Just	just	RB	pos2=NNP	5	advmod	_	O
+5	Like	like	IN	_	3	prep	_	O
+6	A	a	DT	pos2=NNP	7	det	_	O
+7	Woman	woman	NN	pos2=NNP	5	pobj	_	O
+8	live	live	VB	pos2=RB	3	advmod	_	O
+9	at	at	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	Concert	concert	NNP	pos2=NN	9	pobj	_	O
+12	for	for	IN	_	11	prep	_	O
+13	Bangladesh	bangladesh	NNP	_	12	pobj	_	O
+14	in	in	IN	_	8	prep	_	O
+15	1971	0	CD	_	14	pobj	_	U-DATE
+16	-	-	:	pos2=HYPH	17	punct	_	O
+17	https://t.co/tg2u7ChTnz	#hlink#	ADD	pos2=NN	13	appos	_	O
+

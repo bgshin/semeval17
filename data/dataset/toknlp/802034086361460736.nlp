@@ -1,0 +1,31 @@
+1	is	be	VBZ	_	0	root	_	O
+2	it	it	PRP	_	1	nsubj	_	O
+3	ok	ok	JJ	_	1	acomp	_	O
+4	to	to	TO	_	5	aux	_	O
+5	avoid	avoid	VB	_	1	xcomp	_	O
+6	the	the	DT	_	7	det	_	O
+7	person	person	NN	_	5	dobj	_	O
+8	you	you	PRP	_	9	nsubj	_	O
+9	sexted	sexted	VBD	pos2=VBP	7	relcl	_	O
+10	once	once	RB	pos2=IN	9	advmod	_	O
+11	when	when	WRB	_	13	advmod	_	O
+12	u	u	PRP	pos2=NNP	13	nsubj	_	O
+13	wanted	want	VBD	_	9	advcl	_	O
+14	to	to	TO	_	15	aux	_	O
+15	get	get	VB	_	13	xcomp	_	O
+16	off	off	RP	pos2=RB	15	prt	_	O
+17	now	now	RB	_	15	advmod	_	O
+18	that	that	IN	_	20	mark	_	O
+19	you	you	PRP	_	20	nsubj	_	O
+20	're	be	VBP	_	17	ccomp	_	O
+21	in	in	IN	_	20	prep	_	O
+22	a	a	DT	_	23	det	_	O
+23	relationship	relationship	NN	_	21	pobj	_	O
+24	.	.	.	_	1	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	make	make	VBP	pos2=VB	0	root	_	O
+3	bad	bad	JJ	_	4	nmod	_	O
+4	decisions	decision	NNS	_	5	compound	_	O
+5	hombres	hombre	NNS	pos2=FW	2	dobj	_	O
+

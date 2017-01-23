@@ -1,0 +1,24 @@
+1	.	.	.	_	0	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	end	end	NN	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	animal	animal	NN	_	5	compound	_	O
+5	testing	testing	NN	_	3	pobj	_	O
+6	?	?	.	_	2	punct	_	O
+
+1	Human	human	JJ	pos2=NN	3	nmod	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	organs	organ	NNS	_	8	nsubj	_	O
+4	-	-	HYPH	_	3	punct	_	O
+5	on	on	IN	pos2=RB	3	prep	_	O
+6	-	-	HYPH	_	5	punct	_	O
+7	chips	chip	NNS	_	5	pobj	_	O
+8	win	win	VBP	pos2=NN	0	root	_	O
+9	Design	design	NN	pos2=NNP	8	dobj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	B-DATE
+12	Year	year	NNP	pos2=NN	10	pobj	_	I-DATE
+13	https://t.co/lvYs3qBnfW	#hlink#	ADD	pos2=NNP	14	nmod	_	I-DATE
+14	#CambridgeKillers	#cambridgekillers	NNS	pos2=ADD	8	npadvmod	_	L-DATE
+

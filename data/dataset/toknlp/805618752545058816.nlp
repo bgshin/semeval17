@@ -1,0 +1,20 @@
+1	Broadcasting	broadcast	VBG	pos2=NN	0	root	_	O
+2	#LiveNow	#livenow	RB	pos2=GW	1	advmod	_	O
+3	on	on	IN	_	1	prep	_	O
+4	https://t.co/hRjT0o5jaG	#hlink#	ADD	pos2=NNP	3	pobj	_	B-ORG
+5	Are	are	NNP	pos2=VBP	6	compound	_	I-ORG
+6	Today	today	NNP	pos2=NN	8	poss	_	I-ORG
+7	's	's	POS	_	6	case	_	L-ORG
+8	#Muslims	#muslims	NNPS	pos2=NNP	9	nsubj	_	U-NORP
+9	aware	aware	JJ	_	1	advcl	_	O
+10	of	of	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	teachings	teaching	NNS	_	10	pobj	_	O
+13	of	of	IN	_	12	prep	_	O
+14	P	p	NN	pos2=NNP	15	compound	_	O
+15	#Muhammad	#muhammad	NNP	pos2=NN	13	pobj	_	O
+16	?	?	.	_	1	punct	_	O
+
+1	#ProphetMohammad	#prophetmohammad	ADD	pos2=XX	2	det	_	B-PERSON
+2	#Mohammad	#mohammad	NN	pos2=NNP	0	root	_	L-PERSON
+

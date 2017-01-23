@@ -1,0 +1,29 @@
+1	@Trump4Hope	@trump0hope	NN	pos2=XX	0	root	_	O
+2	Yes	yes	UH	_	1	discourse	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	Thank	thank	VBP	_	0	root	_	O
+2	you	you	PRP	_	1	dobj	_	O
+3	Wikileaks	wikileaks	NNP	_	1	vocative	_	U-PERSON
+4	for	for	IN	_	1	prep	_	O
+5	being	be	VBG	_	4	pcomp	_	O
+6	the	the	DT	_	8	det	_	O
+7	honest	honest	JJ	_	8	nmod	_	O
+8	provider	provider	NN	_	5	attr	_	O
+9	of	of	IN	_	8	prep	_	O
+10	facts	fact	NNS	_	9	pobj	_	O
+11	in	in	IN	_	8	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	2016	0	CD	_	14	nmod	_	U-DATE
+14	election	election	NN	_	11	pobj	_	O
+15	.	.	.	_	1	punct	_	O
+
+1	You	you	PRP	_	2	nsubj	_	O
+2	saved	save	VBD	_	0	root	_	O
+3	us	us	PRP	_	2	dobj	_	O
+4	from	from	IN	_	2	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	TPP	tpp	NN	pos2=NNP	4	pobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	Islamization	islamization	NNP	pos2=NN	6	conj	_	O
+

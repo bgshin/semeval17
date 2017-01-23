@@ -1,0 +1,19 @@
+1	TGIF	tgif	NN	pos2=NNP	2	compound	_	O
+2	DRIVE	drive	NN	pos2=VB	18	dep	_	O
+3	#sensual	#sensual	RB	pos2=UH	2	advmod	_	O
+4	#redlight	#redlight	UH	pos2=FW	2	discourse	_	O
+5	#uber	#uber	UH	pos2=IN	2	discourse	_	O
+6	#uberlife	#uberlife	UH	pos2=FW	2	discourse	_	O
+7	#eyeswideshut	#eyeswideshut	UH	pos2=NN	2	discourse	_	O
+8	#	#	NN	pos2=$	2	npadvmod	_	O
+9	👀	👀	LS	pos2=NFP	8	nmod	_	U-MONEY
+10	#tgif	#tgif	UH	pos2=IN	2	discourse	_	O
+11	#friday	#friday	UH	pos2=FW	2	discourse	_	O
+12	#look	#look	UH	pos2=VB	2	discourse	_	O
+13	#mirrors	#mirrors	UH	pos2=NNS	2	discourse	_	O
+14	#portrait	#portrait	UH	pos2=FW	2	discourse	_	O
+15	#lights	#lights	UH	pos2=NNS	2	discourse	_	O
+16	#pari	#pari	UH	pos2=GW	2	discourse	_	O
+17	…	…	NFP	pos2=-LRB-	2	discourse	_	O
+18	https://t.co/HrihFMA2i4	#hlink#	ADD	_	0	root	_	O
+

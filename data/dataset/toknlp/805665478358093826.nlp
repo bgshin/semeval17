@@ -1,0 +1,14 @@
+1	Trump	trump	NN	pos2=NNP	3	nsubj	_	O
+2	to	to	TO	_	3	aux	_	O
+3	fight	fight	VB	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	vaccines	vaccine	NNS	_	3	dobj	_	O
+6	,	,	,	_	5	punct	_	O
+7	good	good	JJ	_	5	nmod	_	O
+8	or	or	CC	_	7	cc	_	O
+9	bad	bad	JJ	_	7	conj	_	O
+10	idea	idea	NN	_	3	dobj	_	O
+11	?	?	.	_	3	punct	_	O
+
+1	https://t.co/E8lobIpIcv	#hlink#	ADD	_	0	root	_	U-ORG
+

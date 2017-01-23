@@ -1,0 +1,31 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	O
+2	@valentinemiele	@valentinemiele	NN	pos2=AFX	4	dep	_	O
+3	:	:	:	_	4	punct	_	O
+4	Contact	contact	NN	pos2=VB	5	compound	_	O
+5	@cnnbrk	@cnnbrk	NN	pos2=NNP	9	nsubj	_	O
+6	,	,	,	_	5	punct	_	O
+7	@CNNPolitics	@cnnpolitics	NNS	pos2=NN	5	conj	_	O
+8	,	,	,	_	7	punct	_	O
+9	@CNN	@cnn	NNP	pos2=NN	10	expl	_	O
+10	/	/	SYM	pos2=HYPH	0	root	_	O
+11	other	other	JJ	_	13	nmod	_	O
+12	media	medium	NNS	pos2=NN	13	compound	_	O
+13	outlets	outlet	NNS	_	9	conj	_	O
+14	and	and	CC	_	13	cc	_	O
+15	demand	demand	NN	pos2=VBP	13	conj	_	O
+16	they	they	PRP	_	17	nsubj	_	O
+17	cease	cease	VBP	pos2=VB	15	ccomp	_	O
+18	using	use	VBG	_	17	xcomp	_	O
+19	the	the	DT	_	25	det	_	O
+20	"	"	``	_	25	punct	_	O
+21	alt	alt	JJ	pos2=NN	23	advmod	_	O
+22	-	-	HYPH	_	23	punct	_	O
+23	right	right	JJ	_	25	nmod	_	O
+24	"	"	''	_	25	punct	_	O
+25	euphemism	euphemism	NN	_	18	dobj	_	O
+26	.	.	.	_	21	punct	_	O
+
+1	These	these	DT	_	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	…	…	.	pos2=JJR	2	punct	_	O
+

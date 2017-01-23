@@ -1,0 +1,13 @@
+1	one	#crd#	CD	pos2=PRP	4	nmod	_	U-CARDINAL
+2	too	too	RB	_	3	advmod	_	O
+3	many	many	JJ	_	4	nmod	_	O
+4	mornings	morning	NNS	_	12	dep	_	O
+5	Bob	bob	NNP	_	10	compound	_	B-ORG
+6	Dylan	dylan	NNP	_	10	compound	_	I-ORG
+7	-	-	HYPH	pos2=,	10	punct	_	I-ORG
+8	London	london	NNP	_	10	compound	_	I-ORG
+9	BBC	bbc	NNP	_	10	compound	_	I-ORG
+10	Studios	studios	NNP	pos2=NNPS	12	dep	_	L-ORG
+11	1965-06-01	0	CD	_	12	dep	_	O
+12	https://t.co/fFretYi0Vc	#hlink#	ADD	_	0	root	_	O
+

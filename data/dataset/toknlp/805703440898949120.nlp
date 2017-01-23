@@ -1,0 +1,18 @@
+1	UK	uk	NNP	_	3	compound	_	B-ORG
+2	Immigration	immigration	NNP	pos2=NN	3	compound	_	I-ORG
+3	Ebriefing	ebriefing	NNP	_	8	dep	_	L-ORG
+4	:	:	:	_	3	punct	_	O
+5	New	new	NNP	_	7	compound	_	B-ORG
+6	Home	home	NNP	_	7	compound	_	I-ORG
+7	Office	office	NNP	_	8	compound	_	L-ORG
+8	powers	power	NNS	pos2=VBZ	0	root	_	O
+9	to	to	IN	pos2=TO	10	aux	_	O
+10	Close	close	VB	pos2=NNP	8	acl	_	O
+11	Businesses	business	NNS	pos2=NNPS	13	nmod	_	O
+12	-	-	HYPH	pos2=:	13	punct	_	O
+13	Publications	publication	NNS	pos2=NNPS	17	dep	_	O
+14	-	-	HYPH	pos2=:	17	punct	_	O
+15	Eversheds	eversheds	NNP	_	17	nmod	_	B-ORG
+16	International	international	NNP	pos2=JJ	17	nmod	_	L-ORG
+17	https://t.co/yYRtDZIVNx	#hlink#	ADD	pos2=NNP	10	dobj	_	O
+

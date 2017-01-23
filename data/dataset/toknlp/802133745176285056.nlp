@@ -1,0 +1,34 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@Beau_fish	@beau_fish	NN	pos2=XX	8	nsubj	_	O
+2	Getting	get	VBG	_	3	auxpass	_	O
+3	rid	rid	VBN	_	1	acl	_	O
+4	of	of	IN	_	3	prep	_	O
+5	#Gaddafi	#gaddafi	NNP	pos2=NNS	4	pobj	_	O
+6	in	in	IN	_	3	prep	_	O
+7	#Libya	#libya	NNP	pos2=NNS	6	pobj	_	U-GPE
+8	meant	mean	VBD	pos2=VBN	0	root	_	O
+9	near	near	IN	pos2=JJ	8	prep	_	O
+10	civil	civil	JJ	pos2=NNP	11	nmod	_	O
+11	war	war	NN	_	9	pobj	_	O
+12	&	&	CC	_	11	cc	_	O
+13	#ISIS	#isis	NN	pos2=ADD	15	nmod	_	O
+14	/	/	SYM	pos2=,	15	punct	_	O
+15	#AlQaeda	#alqaeda	NN	pos2=NNP	11	conj	_	O
+16	in	in	IN	_	11	prep	_	O
+17	Libya	libya	NNP	_	16	pobj	_	U-GPE
+18	.	.	.	_	8	punct	_	O
+
+1	US	us	NNP	_	4	nsubj	_	B-ORG
+2	&	&	CC	_	1	cc	_	I-ORG
+3	UK	uk	NNP	pos2=NNS	1	conj	_	L-ORG
+4	know	know	VBP	_	0	root	_	O
+5	this	this	DT	_	4	dobj	_	O
+6	(	(	-LRB-	_	4	punct	_	O
+7	also	also	RB	_	4	advmod	_	O
+8	Hillary	hillary	NNP	_	10	poss	_	U-PERSON
+9	's	's	POS	_	8	case	_	O
+10	baby	baby	NN	_	11	nsubj	_	O
+11	!)	!)	NFP	pos2=''	4	discourse	_	O
+12	.	.	.	_	4	punct	_	O
+

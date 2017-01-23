@@ -1,0 +1,20 @@
+1	@TheObamanista	@theobamanista	ADD	pos2=XX	7	punct	_	O
+2	@amnesty	@amnesty	UH	pos2=IN	7	discourse	_	O
+3	@POTUS	@potus	NN	pos2=ADD	4	compound	_	O
+4	@NDAA2012	@ndaa0	NN	pos2=LS	7	dep	_	O
+5	@NSAGov	@nsagov	XX	pos2=RBR	7	dep	_	O
+6	He	he	PRP	_	7	nsubj	_	O
+7	signed	sign	VBD	_	0	root	_	O
+8	it	it	PRP	_	7	dobj	_	O
+9	.	.	.	_	7	punct	_	O
+
+1	what	what	WP	_	3	dobj	_	O
+2	he	he	PRP	_	3	nsubj	_	O
+3	supports	support	VBZ	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	#NDAA2012	#ndaa0	NN	pos2=NNS	9	nmod	_	O
+6	and	and	CC	_	5	cc	_	O
+7	drone	drone	NN	_	5	conj	_	O
+8	strikes	strike	NNS	pos2=VBZ	9	compound	_	O
+9	kids	kid	NNS	_	3	dobj	_	O
+

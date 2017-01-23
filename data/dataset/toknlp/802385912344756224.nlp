@@ -1,0 +1,15 @@
+1	#Nowplaying	#nowplaying	VBG	pos2=NNP	0	root	_	O
+2	Traveling	travel	VBG	_	6	nmod	_	O
+3	Light	light	NNP	pos2=JJ	6	compound	_	O
+4	-	-	HYPH	_	5	punct	_	O
+5	Leonard	leonard	NNP	_	6	compound	_	B-PERSON
+6	Cohen	cohen	NNP	_	1	dobj	_	L-PERSON
+7	(	(	-LRB-	_	9	punct	_	O
+8	You	you	PRP	pos2=NNP	9	nsubj	_	O
+9	Want	want	VBP	pos2=VB	6	parataxis	_	O
+10	It	it	PRP	_	11	nsubj	_	O
+11	Darker	dark	JJR	pos2=NNP	9	ccomp	_	O
+12	)	)	-RRB-	_	9	punct	_	O
+13	#LeonardCohen	#leonardcohen	ADD	pos2=GW	14	punct	_	O
+14	https://t.co/Iuqx3pGcTj	#hlink#	ADD	pos2=NN	6	appos	_	O
+

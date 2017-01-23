@@ -1,0 +1,16 @@
+1	Sign	sign	NN	pos2=VB	5	dep	_	O
+2	Here	here	RB	_	1	advmod	_	O
+3	:	:	:	_	5	punct	_	O
+4	Putin	putin	NNP	_	5	nsubj	_	U-PERSON
+5	presents	present	VBZ	_	0	root	_	O
+6	Steven	steven	NNP	_	7	compound	_	B-PERSON
+7	Seagal	seagal	NNP	_	5	dobj	_	L-PERSON
+8	with	with	IN	_	5	prep	_	O
+9	his	his	PRP$	_	12	poss	_	O
+10	new	new	JJ	_	12	nmod	_	O
+11	Russian	russian	JJ	_	12	nmod	_	U-NORP
+12	passport	passport	NN	_	8	pobj	_	O
+13	https://t.co/CwPHCqKTYX	#hlink#	ADD	pos2=NN	8	pobj	_	O
+14	via	via	IN	_	5	prep	_	O
+15	@YouTube	@youtube	NN	pos2=NNP	14	pobj	_	O
+

@@ -1,0 +1,23 @@
+1	East	east	NNP	pos2=JJ	3	compound	_	B-GPE
+2	Carolina	carolina	NNP	_	3	compound	_	L-GPE
+3	Pirates	pirate	NNPS	pos2=NNS	9	dep	_	O
+4	-	-	:	pos2=HYPH	9	punct	_	O
+5	Mercer	mercer	NNP	_	9	compound	_	O
+6	Bears	bears	NNP	pos2=NNPS	9	compound	_	O
+7	Wett	wett	NNP	_	9	compound	_	O
+8	-	-	HYPH	pos2=:	9	punct	_	O
+9	Tipp	tipp	NNP	_	0	root	_	O
+10	.	.	.	_	9	punct	_	O
+
+1	Lies	lie	VBZ	pos2=NNS	0	root	_	O
+2	hier	hi	JJR	pos2=GW	1	nsubj	_	O
+3	>>	>>	-RRB-	pos2=-LRB-	2	punct	_	O
+4	https://t.co/Sr8g3v1QAK.	#hlink#	ADD	pos2=NNP	11	nmod	_	B-FAC
+5	College	college	NNP	_	10	compound	_	I-FAC
+6	Basketball	basketball	NNP	_	10	compound	_	I-FAC
+7	Einladungsturnier	einladungsturnier	NNP	_	10	compound	_	I-FAC
+8	im	im	NNP	pos2=IN	10	compound	_	I-FAC
+9	Civic	civic	NNP	_	10	compound	_	I-FAC
+10	Center	center	NNP	_	11	compound	_	L-FAC
+11	v	v	NN	pos2=FW	1	nsubj	_	O
+

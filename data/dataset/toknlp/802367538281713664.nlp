@@ -1,0 +1,24 @@
+1	Mostly	mostly	RB	_	4	advmod	_	O
+2	the	the	DT	_	4	det	_	O
+3	2006	0	CD	_	4	nmod	_	U-DATE
+4	interview	interview	NN	_	0	root	_	O
+5	....	..	.	pos2=,	4	punct	_	O
+
+1	Via	via	IN	pos2=NNP	4	prep	_	O
+2	@NPR	@npr	NN	pos2=CD	1	pobj	_	O
+3	:	:	:	_	4	punct	_	O
+4	#LeonardCohen	#leonardcohen	NN	pos2=NNS	17	dep	_	O
+5	On	on	IN	_	4	prep	_	O
+6	Poetry	poetry	NN	pos2=NNP	5	pobj	_	O
+7	,	,	,	_	6	punct	_	O
+8	Music	music	NNP	pos2=NN	6	conj	_	O
+9	And	and	CC	_	8	cc	_	O
+10	Why	why	WRB	_	12	advmod	_	O
+11	He	he	PRP	pos2=NNP	12	nsubj	_	O
+12	Left	leave	VBD	pos2=NNP	17	advcl	_	O
+13	The	the	DT	_	15	det	_	B-ORG
+14	Zen	zen	NNP	_	15	compound	_	I-ORG
+15	Monastery	monastery	NNP	pos2=NN	12	dobj	_	L-ORG
+16	#freshair	#freshair	ADD	pos2=GW	17	dep	_	O
+17	https://t.co/3wDevg5FHj	#hlink#	ADD	_	0	root	_	O
+

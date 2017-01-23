@@ -1,0 +1,24 @@
+1	apparently	apparently	RB	_	7	advmod	_	O
+2	galaxy	galaxy	NN	pos2=PRP$	3	compound	_	O
+3	note	note	NN	_	4	compound	_	O
+4	7's	0's	NNS	_	7	nsubj	_	O
+5	have	have	VBP	_	7	aux	_	O
+6	been	be	VBN	_	7	aux	_	O
+7	exploding	explode	VBG	_	0	root	_	O
+8	on	on	IN	_	7	prep	_	O
+9	planes	plane	NNS	_	8	pobj	_	O
+10	so	so	RB	pos2=IN	7	cc	_	O
+11	everyone	everyone	NN	_	14	nsubj	_	O
+12	who	who	WP	_	13	nsubj	_	O
+13	has	have	VBZ	_	11	relcl	_	O
+14	one	#crd#	PRP	pos2=CD	17	nsubj	_	O
+15	ca	can	MD	pos2=NN	17	aux	_	O
+16	nt	nt	RB	_	17	advmod	_	O
+17	carry	carry	VB	_	7	conj	_	O
+18	it	it	PRP	_	17	dobj	_	O
+19	on	on	IN	_	17	prep	_	O
+20	the	the	DT	_	21	det	_	O
+21	plane	plane	NN	_	19	pobj	_	O
+22	LOL	lol	NNP	pos2=NN	17	vocative	_	U-ORG
+23	.	.	.	_	17	punct	_	O
+

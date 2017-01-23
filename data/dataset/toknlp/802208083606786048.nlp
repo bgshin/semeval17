@@ -1,0 +1,13 @@
+1	California	california	NNP	pos2=FW	12	dep	_	U-GPE
+2	vs.	vs.	IN	pos2=CC	1	prep	_	O
+3	Trumpland	trumpland	NNP	pos2=RB	5	compound	_	O
+4	-	-	HYPH	_	5	punct	_	O
+5	Liberal	liberal	JJ	pos2=NNP	6	nmod	_	O
+6	success	success	NN	_	2	pobj	_	O
+7	vs.	vs.	IN	pos2=CC	6	prep	_	O
+8	Conservative	conservative	JJ	pos2=NNP	10	nmod	_	O
+9	failed	fail	VBD	pos2=VBN	10	nmod	_	O
+10	states	state	NNS	pos2=VBZ	7	pobj	_	O
+11	https://t.co/BVsbEikcN2	#hlink#	ADD	_	12	nsubj	_	O
+12	#UniteBlue	#uniteblue	ADD	pos2=-RRB-	0	root	_	U-ORG
+

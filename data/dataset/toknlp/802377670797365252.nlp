@@ -1,0 +1,24 @@
+1	This	this	DT	_	2	det	_	O
+2	story	story	NN	_	3	nsubj	_	O
+3	includes	include	VBZ	_	0	root	_	O
+4	Oil	oil	NN	pos2=NNP	3	dobj	_	O
+5	,	,	,	_	4	punct	_	O
+6	Mossad	mossad	NNP	_	4	conj	_	U-ORG
+7	,	,	,	_	6	punct	_	O
+8	Giuliani	giuliani	NNP	_	6	conj	_	U-PERSON
+9	,	,	,	_	8	punct	_	O
+10	Comey	comey	NNP	_	8	conj	_	U-PERSON
+11	,	,	,	_	10	punct	_	O
+12	donations	donation	NNS	_	10	conj	_	O
+13	,	,	,	_	12	punct	_	O
+14	a	a	DT	_	17	det	_	O
+15	controversial	controversial	JJ	_	17	nmod	_	O
+16	predidential	predidential	JJ	pos2=NN	17	nmod	_	O
+17	pardon	pardon	NN	_	12	conj	_	O
+18	by	by	IN	_	17	prep	_	O
+19	Bill	bill	NNP	_	20	compound	_	B-PERSON
+20	Clinton	clinton	NNP	_	18	pobj	_	L-PERSON
+21	&	&	CC	_	20	cc	_	O
+22	more	more	JJR	pos2=RBR	23	nmod	_	O
+23	https://t.co/O13brS1a1O	#hlink#	ADD	pos2=NN	4	appos	_	O
+

@@ -1,0 +1,26 @@
+1	#Platz	#platz	NNS	pos2=NNP	3	nmod	_	O
+2	/	/	SYM	_	3	punct	_	O
+3	#Place	#place	NN	pos2=FW	7	dep	_	O
+4	:	:	:	_	7	punct	_	O
+5	4	0	CD	_	7	nmod	_	U-CARDINAL
+6	Vente	vente	NNP	pos2=FW	7	compound	_	O
+7	Pa	pa	NNP	pos2=NN	0	root	_	O
+8	'	'	''	pos2=``	7	punct	_	O
+9	Ca	ca	NN	pos2=NNP	7	npadvmod	_	O
+10	(	(	-LRB-	_	11	punct	_	O
+11	feat	feat	NN	_	7	npadvmod	_	O
+12	.	.	.	_	7	punct	_	O
+
+1	Maluma	maluma	NNP	pos2=LS	6	dep	_	O
+2	)	)	-RRB-	_	5	punct	_	O
+3	-	-	:	pos2=NFP	6	punct	_	O
+4	Ricky	ricky	NNP	_	5	compound	_	B-PERSON
+5	Martin	martin	NNP	_	6	dep	_	L-PERSON
+6	https://t.co/hqIXSzAQ2J	#hlink#	ADD	pos2=NNP	11	dep	_	O
+7	#top100	#top0	-RRB-	pos2=XX	6	punct	_	O
+8	#musik	#musik	UH	pos2=-RRB-	12	discourse	_	O
+9	#music	#music	UH	pos2=FW	12	discourse	_	O
+10	#charts	#charts	UH	pos2=NNS	8	discourse	_	O
+11	#Spain	#spain	NNP	pos2=UH	12	compound	_	B-PERSON
+12	#Spanien	#spanien	NNP	pos2=ADD	0	root	_	L-PERSON
+

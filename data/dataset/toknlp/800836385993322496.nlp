@@ -1,0 +1,27 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	8	ccomp	_	O
+3	not	not	RB	_	2	neg	_	O
+4	a	a	DT	_	5	det	_	O
+5	joke	joke	NN	_	2	attr	_	O
+6	,	,	,	_	8	punct	_	O
+7	please	please	UH	_	8	discourse	_	O
+8	try	try	VB	_	0	root	_	O
+9	not	not	RB	_	11	neg	_	O
+10	to	to	TO	_	11	aux	_	O
+11	laugh	laugh	VB	_	8	xcomp	_	O
+12	"	"	``	_	26	punct	_	O
+13	China	china	NNP	_	14	compound	_	U-GPE
+14	websites	website	NNS	pos2=VBZ	15	nsubj	_	O
+15	block	block	VBP	pos2=NN	11	ccomp	_	O
+16	searches	search	NNS	pos2=VBZ	15	dobj	_	O
+17	for	for	IN	_	16	prep	_	O
+18	'	'	``	pos2=''	22	punct	_	O
+19	Fatty	fatty	JJ	pos2=NNP	20	nmod	_	B-PERSON
+20	Kim	kim	NNP	_	26	dep	_	L-PERSON
+21	the	the	DT	_	22	det	_	O
+22	Third	#ord#	NNP	pos2=JJ	20	appos	_	U-ORDINAL
+23	'	'	''	pos2=POS	26	punct	_	O
+24	"	"	''	pos2=GW	26	punct	_	O
+25	-	-	,	pos2=:	26	punct	_	O
+26	https://t.co/neQ5oby53C	#hlink#	ADD	pos2=NN	11	dep	_	O
+

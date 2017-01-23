@@ -1,0 +1,24 @@
+1	#Obama	#obama	NNP	pos2=NN	5	poss	_	B-ORG
+2	&	&	CC	_	1	cc	_	I-ORG
+3	#Hillary	#hillary	NNP	_	1	conj	_	I-ORG
+4	’s	's	POS	_	3	case	_	L-ORG
+5	deception	deception	NN	_	0	root	_	O
+6	on	on	IN	_	5	prep	_	O
+7	Syrian	syrian	JJ	pos2=NNP	9	nmod	_	U-NORP
+8	WMD	wmd	NNP	pos2=NN	9	compound	_	O
+9	reve	reve	NN	pos2=GW	6	pobj	_	O
+10	aledhttps://t.co/MReqhgC5pB	#hlink#	ADD	pos2=NNP	9	appos	_	O
+11	Yep	yep	UH	pos2=NNP	13	discourse	_	O
+12	,	,	,	_	9	punct	_	O
+13	both	both	DT	pos2=CC	14	det	_	O
+14	#Democrats	#democrats	NNS	pos2=NNPS	5	npadvmod	_	O
+15	.	.	.	_	5	punct	_	O
+
+1	Go	go	VB	_	0	root	_	O
+2	figger	figger	NN	pos2=RB	1	vocative	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	#TCOT	#tcot	NN	pos2=NNP	0	root	_	O
+2	#GOP	#gop	XX	pos2=NN	3	dep	_	O
+3	#uniteblue	#uniteblue	UH	pos2=XX	1	discourse	_	O
+

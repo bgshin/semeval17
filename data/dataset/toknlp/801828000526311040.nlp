@@ -1,0 +1,30 @@
+1	@AndrewDBailey	@andrewdbailey	XX	pos2=ADD	3	dep	_	O
+2	@Lucaswfalk	@lucaswfalk	XX	pos2=NNP	3	dep	_	O
+3	@utahjazz	@utahjazz	XX	pos2=IN	0	root	_	O
+4	The	the	DT	_	5	det	_	O
+5	game	game	NN	_	3	appos	_	O
+6	in	in	IN	_	5	prep	_	O
+7	NY	ny	NNP	_	6	pobj	_	U-GPE
+8	when	when	WRB	_	10	advmod	_	O
+9	Hayward	hayward	NNP	_	10	nsubj	_	U-PERSON
+10	came	come	VBD	_	5	relcl	_	O
+11	back	back	RB	_	10	advmod	_	O
+12	...	..	.	pos2=:	11	punct	_	O
+
+1	this	this	DT	_	3	nsubjpass	_	O
+2	was	be	VBD	_	3	auxpass	_	O
+3	brought	bring	VBN	_	0	root	_	O
+4	up	up	RP	_	3	prt	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	You	you	PRP	_	2	nmod	_	O
+2	guys	guy	NNS	_	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	late	late	JJ	pos2=RB	3	acomp	_	O
+5	to	to	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	show	show	NN	_	5	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	:)	:)	NFP	pos2=SYM	0	root	_	O
+

@@ -1,0 +1,26 @@
+1	Are	be	VBP	_	3	aux	_	O
+2	you	you	PRP	pos2=PRP$	3	nsubj	_	O
+3	hunting	hunt	VBG	_	0	root	_	O
+4	for	for	IN	_	3	prep	_	O
+5	one	#crd#	CD	_	4	pobj	_	U-CARDINAL
+6	of	of	IN	_	5	prep	_	O
+7	THESE	these	DT	_	6	pobj	_	O
+8	?	?	.	_	3	punct	_	O
+
+1	@FOXNashville	@foxnashville	NNP	pos2=NNS	2	nsubj	_	U-ORG
+2	got	get	VBD	_	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	#Hatchimals	#hatchimals	NNS	pos2=ADD	2	dobj	_	O
+5	and	and	CC	_	2	cc	_	O
+6	we	we	PRP	_	9	nsubj	_	O
+7	'll	will	MD	_	9	aux	_	O
+8	be	be	VB	_	9	aux	_	O
+9	telling	tell	VBG	_	2	conj	_	O
+10	you	you	PRP	_	9	dobj	_	O
+11	how	how	WRB	_	13	advmod	_	O
+12	to	to	TO	_	13	aux	_	O
+13	get	get	VB	_	9	xcomp	_	O
+14	it	it	PRP	_	13	dobj	_	O
+15	…	…	NFP	pos2=-LRB-	16	punct	_	O
+16	https://t.co/ZQlXZAWMHe	#hlink#	ADD	_	13	npadvmod	_	U-ORG
+

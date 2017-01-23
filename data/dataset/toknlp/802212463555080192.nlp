@@ -1,0 +1,21 @@
+1	Always	always	RB	_	2	advmod	_	O
+2	wonder	wonder	VB	pos2=VBP	0	root	_	O
+3	what	what	WP	_	4	nsubj	_	O
+4	causes	cause	VBZ	_	2	ccomp	_	O
+5	traffic	traffic	NN	_	4	dobj	_	O
+6	?	?	.	_	2	punct	_	O
+
+1	Here	here	RB	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	what	what	WP	_	5	nsubj	_	O
+4	may	may	MD	_	5	aux	_	O
+5	be	be	VB	_	2	ccomp	_	O
+6	our	our	PRP$	_	8	poss	_	O
+7	only	only	JJ	pos2=RB	8	nmod	_	O
+8	solution	solution	NN	_	5	attr	_	O
+9	out	out	IN	_	8	prep	_	O
+10	of	of	IN	_	9	prep	_	O
+11	this	this	DT	_	12	det	_	O
+12	Jam	jam	NNP	pos2=NN	10	pobj	_	O
+13	https://t.co/eeCiTBpoYJ	#hlink#	ADD	pos2=NN	12	appos	_	O
+

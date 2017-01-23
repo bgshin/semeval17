@@ -1,0 +1,25 @@
+1	Comey	comey	NNP	_	3	poss	_	U-PERSON
+2	’s	's	POS	_	1	case	_	O
+3	letter	letter	NN	_	12	nsubj	_	O
+4	swung	swung	JJ	pos2=VBD	6	nmod	_	O
+5	public	public	JJ	_	6	nmod	_	O
+6	opinion	opinion	NN	_	3	npadvmod	_	O
+7	,	,	,	_	11	punct	_	O
+8	it	it	PRP	_	11	nsubj	_	O
+9	would	would	MD	_	11	aux	_	O
+10	not	not	RB	_	11	neg	_	O
+11	have	have	VB	_	12	aux	_	O
+12	cost	cost	VB	pos2=VBN	0	root	_	O
+13	her	her	PRP	_	12	dative	_	O
+14	the	the	DT	_	15	det	_	O
+15	election	election	NN	_	12	dobj	_	O
+16	.	.	.	_	12	punct	_	O
+
+1	Voter	voter	NN	pos2=NNP	2	compound	_	O
+2	suppression	suppression	NN	_	3	nsubj	_	O
+3	did	do	VBD	_	0	root	_	O
+4	that	that	DT	_	3	dobj	_	O
+5	.	.	.	_	3	punct	_	O
+
+1	https://t.co/biIYE9vje8	#hlink#	ADD	_	0	root	_	U-ORG
+

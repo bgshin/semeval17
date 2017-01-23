@@ -1,0 +1,22 @@
+1	@Evan_McMullin	@evan_mcmullin	NNP	pos2=UH	6	nsubj	_	O
+2	Yes	yes	UH	_	6	discourse	_	O
+3	,	,	,	_	6	punct	_	O
+4	white	white	JJ	_	5	nmod	_	O
+5	supremacists	supremacist	NNS	_	6	nsubj	_	O
+6	are	be	VBP	_	0	root	_	O
+7	America	america	NNP	_	10	poss	_	U-GPE
+8	's	's	POS	_	7	case	_	O
+9	greatest	great	JJS	_	10	nmod	_	O
+10	problem	problem	NN	_	6	attr	_	O
+11	ever	ever	RB	_	10	advmod	_	O
+12	.	.	.	_	6	punct	_	O
+
+1	OMG	omg	NN	pos2=NNP	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+
+1	GET	get	VB	pos2=VBP	0	root	_	O
+2	REAL	real	JJ	pos2=RB	1	acomp	_	O
+3	.	.	.	_	1	punct	_	O
+
+1	#GOAWAY	#goaway	NN	pos2=UH	0	root	_	O
+

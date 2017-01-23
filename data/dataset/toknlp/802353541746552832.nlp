@@ -1,0 +1,28 @@
+1	@Stallone	@stallone	NNP	pos2=``	2	compound	_	O
+2	Democrats	democrat	NNPS	pos2=NNP	5	nsubj	_	U-NORP
+3	will	will	MD	_	5	aux	_	O
+4	always	always	RB	_	5	advmod	_	O
+5	b	b	VB	pos2=RB	0	root	_	O
+6	on	on	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	defensive	defensive	NN	pos2=JJ	6	pobj	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	Warren	warren	NNP	_	2	nsubj	_	U-PERSON
+2	said	say	VBD	_	0	root	_	O
+3	she	she	PRP	_	5	nsubj	_	O
+4	would	would	MD	_	5	aux	_	O
+5	protest	protest	VB	_	2	ccomp	_	O
+6	changes	change	NNS	pos2=VBZ	5	dobj	_	O
+7	Trump	trump	NNP	pos2=NN	8	nsubj	_	U-ORG
+8	seeks	seek	VBZ	_	5	advcl	_	O
+9	2	0	CD	pos2=TO	10	nsubj	_	U-CARDINAL
+10	make	make	VB	pos2=NN	8	ccomp	_	O
+11	2	0	CD	_	16	dobj	_	U-CARDINAL
+12	the	the	DT	_	13	det	_	O
+13	agency	agency	NN	_	10	dobj	_	O
+14	she	she	PRP	_	15	nsubj	_	O
+15	helped	help	VBD	_	13	relcl	_	O
+16	create	create	VB	_	15	xcomp	_	O
+17	.	.	.	_	2	punct	_	O
+

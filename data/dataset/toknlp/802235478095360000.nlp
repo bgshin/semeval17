@@ -1,0 +1,31 @@
+1	Pop	pop	NN	pos2=NNP	2	nsubj	_	O
+2	say	say	VBP	pos2=VB	0	root	_	O
+3	Tim	tim	NNP	_	4	compound	_	B-PERSON
+4	Duncan	duncan	NNP	_	6	nsubj	_	L-PERSON
+5	sometimes	sometimes	RB	_	6	advmod	_	O
+6	works	work	VBZ	_	2	ccomp	_	O
+7	with	with	IN	_	6	prep	_	O
+8	General	general	NNP	pos2=JJ	9	compound	_	O
+9	Manager	manager	NNP	pos2=NN	11	compound	_	O
+10	R.C.	r.c.	NNP	_	11	compound	_	B-PERSON
+11	Buford	buford	NNP	_	7	pobj	_	L-PERSON
+12	.	.	.	_	2	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	could	could	MD	_	3	aux	_	O
+3	see	see	VB	_	0	root	_	O
+4	him	him	PRP	_	3	dobj	_	O
+5	in	in	IN	_	3	prep	_	O
+6	a	a	DT	_	11	det	_	O
+7	behind	behind	IN	pos2=RB	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	scenes	scene	NNS	_	7	pobj	_	O
+10	roster	roster	NN	_	11	compound	_	O
+11	role	role	NN	_	5	pobj	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	Like	like	IN	pos2=UH	0	root	_	O
+2	Jerry	jerry	NNP	_	3	compound	_	B-PERSON
+3	West	west	NNP	_	1	pobj	_	L-PERSON
+4	.	.	.	_	1	punct	_	O
+

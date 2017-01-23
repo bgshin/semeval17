@@ -1,0 +1,33 @@
+1	Why	why	WRB	_	4	advmod	_	O
+2	do	do	VBP	_	4	aux	_	O
+3	people	people	NNS	_	4	nsubj	_	O
+4	go	go	VB	pos2=VBP	0	root	_	O
+5	to	to	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	effort	effort	NN	_	5	pobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	define	define	VB	_	7	acl	_	O
+10	alt	alt	NN	pos2=JJ	12	compound	_	O
+11	-	-	HYPH	_	12	punct	_	O
+12	rightists	rightist	NNS	_	9	dobj	_	O
+13	as	as	IN	_	9	prep	_	O
+14	Nazis	nazi	NNPS	pos2=NNP	13	pobj	_	U-NORP
+15	?	?	.	_	4	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	term	term	NN	_	10	nsubj	_	O
+3	"	"	``	_	6	punct	_	O
+4	alt	alt	JJ	pos2=RB	6	advmod	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	right	right	JJ	_	2	appos	_	O
+7	"	"	''	pos2=``	6	punct	_	O
+8	should	should	MD	_	10	aux	_	O
+9	already	already	RB	_	10	advmod	_	O
+10	have	have	VB	_	0	root	_	O
+11	enough	enough	JJ	pos2=NN	10	dobj	_	O
+12	of	of	IN	_	11	prep	_	O
+13	a	a	DT	_	15	det	_	O
+14	negative	negative	JJ	_	15	nmod	_	O
+15	connotation	connotation	NN	_	12	pobj	_	O
+16	.	.	.	_	10	punct	_	O
+

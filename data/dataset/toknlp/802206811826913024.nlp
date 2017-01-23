@@ -1,0 +1,18 @@
+1	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	5	prep	_	O
+2	@mike_pence	@mike_pence	IN	pos2=NN	1	prep	_	O
+3	@SpeakerRyan	@speakerryan	ADD	pos2=JJ	6	nmod	_	O
+4	@SenateMajLdr	@senatemajldr	XX	pos2=ADD	7	dep	_	O
+5	@HouseGOP	@housegop	ADD	pos2=XX	0	root	_	O
+6	@SenateGOP	@senategop	XX	pos2=NNP	7	dep	_	O
+7	Let	let	VB	_	5	root	_	O
+8	the	the	DT	_	9	det	_	O
+9	screwing	screwing	NN	_	17	nsubj	_	O
+10	of	of	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	poor	poor	JJ	_	10	pobj	_	O
+13	,	,	,	_	7	punct	_	O
+14	and	and	CC	_	7	cc	_	O
+15	our	our	PRP$	_	16	poss	_	O
+16	…	…	NFP	pos2=-LRB-	17	punct	_	O
+17	https://t.co/VAYFii96JD	#hlink#	ADD	pos2=NN	14	dep	_	O
+

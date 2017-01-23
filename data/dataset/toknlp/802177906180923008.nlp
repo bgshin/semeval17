@@ -1,0 +1,16 @@
+1	If	if	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	want	want	VBP	_	10	advcl	_	O
+4	to	to	TO	_	5	aux	_	O
+5	help	help	VB	_	3	xcomp	_	O
+6	the	the	DT	_	7	det	_	O
+7	protest	protest	NN	_	5	dobj	_	O
+8	,	,	,	_	10	punct	_	O
+9	there	there	EX	_	10	expl	_	O
+10	are	be	VBP	_	0	root	_	O
+11	options	option	NNS	_	10	attr	_	O
+12	...	..	.	_	10	punct	_	O
+
+1	#PrayWithStandingRock	#praywithstandingrock	ADD	pos2=-LRB-	2	punct	_	O
+2	https://t.co/eS2vASqGXp	#hlink#	ADD	_	0	root	_	O
+

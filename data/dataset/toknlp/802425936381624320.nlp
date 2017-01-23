@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det	_	O
+2	problem	problem	NN	_	9	nsubj	_	O
+3	with	with	IN	_	2	prep	_	O
+4	bad	bad	JJ	_	5	nmod	_	O
+5	leaders	leader	NNS	_	3	pobj	_	O
+6	(	(	-LRB-	_	5	punct	_	O
+7	dictators	dictator	NNS	_	5	appos	_	O
+8	)	)	-RRB-	_	5	punct	_	O
+9	is	be	VBZ	_	0	root	_	O
+10	that	that	IN	_	13	mark	_	O
+11	they	they	PRP	_	13	nsubj	_	O
+12	always	always	RB	_	13	advmod	_	O
+13	have	have	VBP	_	9	ccomp	_	O
+14	mentees	mentee	NNS	_	13	dobj	_	O
+15	who	who	WP	_	17	nsubj	_	O
+16	will	will	MD	_	17	aux	_	O
+17	continue	continue	VB	_	14	relcl	_	O
+18	where	where	WRB	_	20	advmod	_	O
+19	they	they	PRP	_	20	nsubj	_	O
+20	stopped	stop	VBD	_	17	advcl	_	O
+21	(	(	-LRB-	_	24	punct	_	O
+22	Ch	ch	UH	pos2=NNP	24	discourse	_	O
+23	…	…	NFP	pos2=-LRB-	24	punct	_	O
+24	https://t.co/fuPPW47VTs	#hlink#	ADD	pos2=NN	13	dep	_	O
+

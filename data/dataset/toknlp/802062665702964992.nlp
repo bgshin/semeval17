@@ -1,0 +1,8 @@
+1	Ricky	ricky	NNP	_	4	compound	_	B-PERSON
+2	Martin	martin	NNP	_	4	compound	_	I-PERSON
+3	-	-	HYPH	pos2=:	4	punct	_	I-PERSON
+4	Stop	stop	NNP	pos2=VB	5	compound	_	L-PERSON
+5	time	time	NN	_	7	dep	_	O
+6	tonight	tonight	NN	_	7	npadvmod	_	U-TIME
+7	https://t.co/rDBzoRZgre	#hlink#	ADD	_	0	root	_	U-ORG
+

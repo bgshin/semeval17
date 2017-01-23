@@ -1,0 +1,24 @@
+1	OBVIOUSLY	obviously	RB	_	2	advmod	_	O
+2	NEW	new	JJ	_	3	nmod	_	O
+3	FORM	form	NN	_	0	root	_	O
+4	OF	of	IN	_	3	prep	_	O
+5	#TERRORISM	#terrorism	NN	pos2=NNP	4	pobj	_	O
+6	FROM	from	IN	_	3	prep	_	O
+7	#HAMAS	#hamas	NNP	pos2=NNS	6	pobj	_	O
+8	&	&	CC	_	7	cc	_	O
+9	THEIR	their	PRP$	_	10	poss	_	O
+10	OPERATIVES	operative	NNS	_	7	conj	_	O
+11	.	.	.	_	10	punct	_	O
+
+1	CALLING	call	VBG	pos2=NN	6	csubj	_	O
+2	#Israeliburning	#israeliburning	VBG	pos2=NNP	3	nmod	_	O
+3	SUPS	sup	NNS	pos2=NNP	1	dobj	_	O
+4	#vile	#vile	POS	pos2=,	3	case	_	O
+5	is	be	VBZ	_	6	aux	_	O
+6	being	be	VBG	_	0	root	_	O
+7	kind	kind	RB	pos2=JJ	6	acomp	_	O
+8	.	.	.	_	6	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/QbDYWwE1xC	#hlink#	ADD	pos2=NN	0	root	_	O
+

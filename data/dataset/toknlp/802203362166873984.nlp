@@ -1,0 +1,25 @@
+1	@jackson_miller3	@jackson_miller0	NN	pos2=NNS	4	vocative	_	O
+2	@SuperSlayinn	@superslayinn	ADD	pos2=XX	4	vocative	_	O
+3	@thatbitchtaina	@thatbitchtaina	UH	pos2=MD	4	discourse	_	O
+4	@MochaCamille	@mochacamille	VB	pos2=UH	0	root	_	O
+5	if	if	IN	_	7	mark	_	O
+6	u	u	PRP	pos2=TO	7	nsubj	_	O
+7	support	support	VBP	pos2=VB	14	advcl	_	O
+8	a	a	DT	_	10	det	_	O
+9	racist	racist	JJ	pos2=NN	10	nmod	_	O
+10	nazi	nazi	NN	pos2=NNS	7	dobj	_	O
+11	u	u	PRP	pos2=NN	14	nsubj	_	O
+12	ca	can	MD	_	14	aux	_	O
+13	nt	nt	RB	_	14	advmod	_	O
+14	claim	claim	VB	_	4	ccomp	_	O
+15	u	u	PRP	pos2=TO	18	nsubj	_	O
+16	do	do	VBP	pos2=VB	18	aux	_	O
+17	nt	nt	RB	pos2=VB	18	advmod	_	O
+18	support	support	VB	_	14	ccomp	_	O
+19	racism	racism	NN	_	18	dobj	_	O
+20	and	and	CC	_	19	cc	_	O
+21	nazi	nazi	NN	pos2=JJ	23	compound	_	O
+22	-	-	HYPH	_	23	punct	_	O
+23	ism	ism	NN	_	19	conj	_	O
+24	.	.	.	_	4	punct	_	O
+

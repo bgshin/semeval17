@@ -1,0 +1,17 @@
+1	#AuditTheVote	#auditthevote	UH	pos2=ADD	4	discourse	_	O
+2	#RecountColorado	#recountcolorado	NNP	pos2=POS	3	compound	_	O
+3	Elector	elector	NNP	_	4	nsubj	_	O
+4	Plans	plan	VBZ	pos2=NNPS	0	root	_	O
+5	to	to	TO	pos2=IN	6	aux	_	O
+6	Sue	sue	NNP	pos2=VB	4	xcomp	_	U-PERSON
+7	So	so	RB	pos2=NNP	10	mark	_	O
+8	He	he	PRP	_	10	nsubj	_	O
+9	Can	can	MD	_	10	aux	_	O
+10	Unbind	unbind	VB	_	4	advcl	_	O
+11	From	from	IN	_	10	prep	_	O
+12	Clinton	clinton	NNP	_	11	pobj	_	U-PERSON
+13	to	to	TO	pos2=IN	14	aux	_	O
+14	Protest	protest	VB	pos2=NNP	10	advcl	_	O
+15	#ElectoralCollege	#electoralcollege	NNP	pos2=GW	14	dobj	_	O
+16	https://t.co/atdLDQHJhb	#hlink#	ADD	_	14	dobj	_	O
+

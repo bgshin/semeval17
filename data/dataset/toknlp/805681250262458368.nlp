@@ -1,0 +1,19 @@
+1	Half	half	NN	pos2=NNP	6	nsubj	_	U-CARDINAL
+2	of	of	IN	_	1	prep	_	O
+3	South	south	JJ	_	4	advmod	_	B-NORP
+4	African	african	JJ	_	5	nmod	_	L-NORP
+5	workers	worker	NNS	_	2	pobj	_	O
+6	earn	earn	VBP	_	0	root	_	O
+7	less	less	JJR	_	6	dobj	_	O
+8	than	than	IN	_	7	prep	_	O
+9	the	the	DT	_	6	dobj	_	O
+10	proposed	propose	VBN	_	13	nmod	_	O
+11	R3500	r0	NN	_	13	nmod	_	B-DATE
+12	/	/	SYM	pos2=HYPH	13	punct	_	I-DATE
+13	month	month	NN	pos2=JJ	18	dep	_	L-DATE
+14	national	national	JJ	_	16	nmod	_	O
+15	minimum	minimum	JJ	pos2=NN	16	nmod	_	O
+16	wage	wage	NN	pos2=GW	18	dep	_	O
+17	https://t.co/Z1DFcVNZtg	#hlink#	ADD	_	18	nmod	_	O
+18	https://t.co/ekBA5ypvoB	#hlink#	ADD	_	6	dobj	_	U-ORG
+

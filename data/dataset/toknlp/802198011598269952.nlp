@@ -1,0 +1,15 @@
+1	Merlin	merlin	NNP	_	3	poss	_	U-ORG
+2	's	's	POS	_	1	case	_	O
+3	beard	beard	NN	pos2=NNP	0	root	_	O
+4	!	!	.	_	3	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	was	be	VBD	_	0	root	_	O
+3	fantastic	fantastic	JJ	_	2	acomp	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	#fantasticbeasts	#fantasticbeasts	UH	pos2=NNS	4	discourse	_	O
+2	#fantasticbeastsandwheretofindthem	#fantasticbeastsandwheretofindthem	UH	pos2=GW	4	discourse	_	O
+3	…	…	NFP	pos2=-LRB-	4	punct	_	O
+4	https://t.co/fnK5hnAEaA	#hlink#	ADD	_	0	root	_	O
+

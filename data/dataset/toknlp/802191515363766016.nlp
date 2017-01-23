@@ -1,0 +1,24 @@
+1	White	white	JJ	pos2=NNP	3	compound	_	B-ORG
+2	-	-	HYPH	_	3	punct	_	I-ORG
+3	Collar	collar	NNP	pos2=NN	7	compound	_	I-ORG
+4	Supremacy	supremacy	NNP	pos2=NN	7	compound	_	I-ORG
+5	LMFAO	lmfao	NNP	pos2=NN	7	compound	_	I-ORG
+6	White	white	NNP	_	7	compound	_	I-ORG
+7	Supremacists	supremacist	NNPS	pos2=NNS	8	nsubj	_	L-ORG
+8	making	make	VBG	_	0	root	_	O
+9	White	white	NNP	pos2=JJ	11	compound	_	B-ORG
+10	-	-	HYPH	_	11	punct	_	I-ORG
+11	Collar	collar	NNP	_	12	compound	_	I-ORG
+12	Supremacy	supremacy	NNP	pos2=NN	13	compound	_	L-ORG
+13	trend	trend	NN	_	8	ccomp	_	O
+14	whining	whine	VBG	pos2=NN	8	advcl	_	O
+15	they	they	PRP	_	16	nsubj	_	O
+16	're	be	VBP	_	14	ccomp	_	O
+17	really	really	RB	_	16	advmod	_	O
+18	NOT	not	RB	_	16	neg	_	O
+19	White	white	JJ	_	21	compound	_	O
+20	-	-	HYPH	_	21	punct	_	O
+21	Collar	collar	NNP	pos2=NN	22	compound	_	O
+22	Supremacists	supremacist	NNPS	pos2=NNS	16	attr	_	O
+23	.	.	.	_	8	punct	_	O
+

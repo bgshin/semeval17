@@ -1,0 +1,12 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@KremlinTrolls	@kremlintrolls	NNS	pos2=VBZ	9	nmod	_	O
+2	November	november	NNP	_	3	compound	_	B-DATE
+3	24th	#ord#	NN	pos2=JJ	1	npadvmod	_	L-DATE
+4	2016	0	CD	_	5	nmod	_	O
+5	@JuanManSantos	@juanmansantos	NNS	pos2=NNPS	1	npadvmod	_	O
+6	@infopresidencia	@infopresidencia	FW	pos2=IN	9	nmod	_	O
+7	@FuerzasMilCol	@fuerzasmilcol	GW	pos2=XX	9	nmod	_	B-PERSON
+8	@PoliciaColombia	@policiacolombia	GW	pos2=ADD	9	nmod	_	L-PERSON
+9	https://t.co/IKk3ltDtqw	#hlink#	ADD	pos2=NN	0	root	_	O
+

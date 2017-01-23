@@ -1,0 +1,19 @@
+1	A	a	DT	_	2	qmod	_	B-MONEY
+2	million	#crd#	CD	_	3	nmod	_	I-MONEY
+3	dollars	dollar	NNS	_	0	root	_	L-MONEY
+4	a	a	DT	_	5	det	_	O
+5	day	day	NN	_	3	npadvmod	_	O
+6	?	?	.	_	3	punct	_	O
+
+1	How	how	WRB	_	4	advmod	_	O
+2	the	the	DT	_	3	det	_	O
+3	hell	hell	NN	_	1	npadvmod	_	O
+4	are	be	VBP	_	0	root	_	O
+5	we	we	PRP	_	4	nsubj	_	O
+6	okay	okay	JJ	pos2=UH	4	acomp	_	O
+7	with	with	IN	_	6	prep	_	O
+8	this	this	DT	_	7	pobj	_	O
+9	.	.	.	_	4	punct	_	O
+
+1	https://t.co/tNiH79sPrt	#hlink#	ADD	_	0	root	_	U-ORG
+

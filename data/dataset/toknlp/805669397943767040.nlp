@@ -1,0 +1,8 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	are	be	VBP	_	5	aux	_	O
+3	still	still	RB	_	2	advmod	_	O
+4	just	just	RB	_	5	advmod	_	O
+5	watching	watch	VBG	_	0	root	_	O
+6	#Aleppo	#aleppo	-LRB-	pos2=NNP	7	punct	_	U-NORP
+7	https://t.co/a4D1Uys6uB	#hlink#	ADD	_	5	dobj	_	U-ORG
+

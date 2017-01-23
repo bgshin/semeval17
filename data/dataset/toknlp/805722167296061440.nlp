@@ -1,0 +1,33 @@
+1	We	we	PRP	_	2	nsubj	_	O
+2	spoke	speak	VBD	_	0	root	_	O
+3	to	to	IN	_	2	prep	_	O
+4	9	0	CD	_	5	nmod	_	B-DATE
+5	year	year	NN	_	6	npadvmod	_	I-DATE
+6	old	old	JJ	_	7	nmod	_	L-DATE
+7	Judy	judy	NNP	_	3	pobj	_	U-PERSON
+8	in	in	IN	_	2	prep	_	O
+9	eastern	eastern	JJ	_	10	nmod	_	O
+10	#Aleppo	#aleppo	NNP	pos2=NN	8	pobj	_	U-GPE
+11	again	again	RB	_	2	advmod	_	O
+12	"	"	``	pos2=''	2	punct	_	O
+13	I	I	PRP	_	14	nsubj	_	O
+14	want	want	VBP	_	2	ccomp	_	O
+15	2	0	CD	pos2=TO	16	nsubj	_	U-CARDINAL
+16	go	go	VB	pos2=VBP	14	ccomp	_	O
+17	to	to	IN	_	16	prep	_	O
+18	school	school	NN	_	17	pobj	_	O
+19	I	I	PRP	_	20	nsubj	_	O
+20	’m	be	VBP	_	16	parataxis	_	O
+21	not	not	RB	_	20	neg	_	O
+22	happy	happy	JJ	_	20	acomp	_	O
+23	like	like	IN	_	22	prep	_	O
+24	this	this	DT	_	23	pobj	_	O
+25	.	.	.	_	2	punct	_	O
+
+1	At	at	IN	_	4	prep	_	O
+2	school	school	NN	_	1	pobj	_	O
+3	we	we	PRP	_	4	nsubj	_	O
+4	h	h	VBP	pos2=GW	0	root	_	O
+5	…	…	NFP	pos2=-LRB-	4	discourse	_	O
+6	https://t.co/EjgEd3qXRT	#hlink#	ADD	_	4	dep	_	O
+

@@ -1,0 +1,20 @@
+1	Donald	donald	NNP	_	2	compound	_	B-PERSON
+2	Trump	trump	NNP	_	4	poss	_	I-PERSON
+3	’s	's	POS	_	2	case	_	L-PERSON
+4	Cabinet	cabinet	NNP	_	5	nsubj	_	U-ORG
+5	is	be	VBZ	_	0	root	_	O
+6	on	on	IN	_	5	prep	_	O
+7	track	track	NN	_	6	pobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	be	be	VB	_	5	advcl	_	O
+10	the	the	DT	_	12	det	_	O
+11	least	least	RBS	_	12	advmod	_	O
+12	experienced	experienced	JJ	pos2=VBN	9	attr	_	O
+13	in	in	IN	_	12	prep	_	O
+14	modern	modern	JJ	_	15	nmod	_	O
+15	history	history	NN	_	13	pobj	_	O
+16	https://t.co/H6gn5JZVGU	#hlink#	ADD	pos2=RBR	19	nsubj	_	O
+17	via	via	IN	_	9	prep	_	O
+18	@HuffPostPol	@huffpostpol	NNP	pos2=NN	17	pobj	_	O
+19	#StillWithHer	#stillwithher	ADD	pos2=NN	17	pobj	_	O
+

@@ -1,0 +1,25 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	liked	like	VBD	_	15	ccomp	_	O
+3	a	a	DT	_	5	det	_	O
+4	@YouTube	@youtube	NNP	pos2=ADD	5	compound	_	U-PRODUCT
+5	video	video	NN	_	2	dobj	_	O
+6	from	from	IN	_	2	prep	_	O
+7	@realitycheckvr	@realitycheckvr	ADD	pos2=-LRB-	6	pobj	_	O
+8	https://t.co/JOsqYEx4O3	#hlink#	ADD	pos2=IN	6	pobj	_	O
+9	Google	google	NNP	_	11	compound	_	O
+10	Earth	earth	NNP	_	11	compound	_	U-LOC
+11	VR	vr	NNP	pos2=NN	6	pobj	_	O
+12	-	-	:	pos2=,	15	punct	_	O
+13	This	this	DT	pos2=NNP	15	nsubj	_	O
+14	Is	be	VBZ	_	15	aux	_	O
+15	Going	go	VBG	_	0	root	_	O
+16	To	to	TO	pos2=IN	17	aux	_	O
+17	Change	change	VB	pos2=NNP	15	xcomp	_	O
+18	The	the	DT	_	19	det	_	O
+19	World	world	NNP	pos2=NN	17	dobj	_	O
+20	!	!	.	_	15	punct	_	O
+
+1	(	(	-LRB-	_	3	punct	_	O
+2	Oculus	oculus	NNP	pos2=NN	0	root	_	O
+3	+	+	SYM	pos2=-RRB-	2	punct	_	O
+

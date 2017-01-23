@@ -1,0 +1,12 @@
+1	See	see	VB	_	0	root	_	O
+2	@MrMMarsh	@mrmmarsh	NN	pos2=NNS	1	dobj	_	U-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	@DoctorKarl	@doctorkarl	NNP	pos2=NN	2	conj	_	U-PERSON
+5	on	on	IN	_	1	prep	_	O
+6	TV	tv	NN	pos2=NNP	5	pobj	_	O
+7	talking	talk	VBG	_	2	acl	_	O
+8	about	about	IN	_	7	prep	_	O
+9	#Homeopathy	#homeopathy	NNP	pos2=VBG	10	compound	_	U-GPE
+10	#ten23	#ten0	NN	pos2=-LRB-	8	pobj	_	O
+11	https://t.co/jRphe28QYC	#hlink#	ADD	_	1	dep	_	U-ORG
+

@@ -1,0 +1,9 @@
+1	@JuddLegumTruth.#NotMyPresident	@juddlegumtruth.#notmypresident	ADD	pos2=JJ	4	prep	_	B-PERSON
+2	#Resistance	#resistance	NNP	pos2=IN	1	pobj	_	L-PERSON
+3	#NeverTrump	#nevertrump	ADD	pos2=XX	0	root	_	O
+4	#StillWithHer	#stillwithher	ADD	pos2=GW	3	pobj	_	O
+5	#PopularVote	#popularvote	ADD	pos2=UH	3	pobj	_	O
+6	#ElectoralCollege	#electoralcollege	ADD	pos2=NNP	5	pobj	_	O
+7	#FaithlessElector	#faithlesselector	ADD	pos2=GW	6	pobj	_	O
+8	#AuditTheVote	#auditthevote	ADD	pos2=UH	6	pobj	_	O
+

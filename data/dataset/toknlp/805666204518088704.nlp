@@ -1,0 +1,15 @@
+1	The	the	DT	_	2	det	_	B-DATE
+2	day	day	NN	_	5	npadvmod	_	L-DATE
+3	Jonathan	jonathan	NNP	_	4	compound	_	B-PERSON
+4	Cahn	cahn	NNP	_	5	nsubj	_	L-PERSON
+5	gave	give	VBD	_	0	root	_	O
+6	a	a	DT	_	8	det	_	O
+7	prophetic	prophetic	JJ	_	8	nmod	_	O
+8	sign	sign	NN	_	5	dobj	_	O
+9	to	to	IN	_	5	dative	_	O
+10	Fidel	fidel	NNP	_	11	compound	_	B-PERSON
+11	Castro	castro	NNP	_	9	pobj	_	L-PERSON
+12	https://t.co/AqlguPRok5	#hlink#	ADD	pos2=NNP	9	pobj	_	O
+13	via	via	IN	_	5	prep	_	O
+14	@worldnetdaily	@worldnetdaily	RB	pos2=.	13	pobj	_	O
+

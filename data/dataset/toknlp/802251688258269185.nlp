@@ -1,0 +1,23 @@
+1	Dear	dear	JJ	_	2	nmod	_	O
+2	FP	fp	NN	pos2=NNP	4	dep	_	O
+3	:	:	:	_	4	punct	_	O
+4	Give	give	VB	_	0	root	_	O
+5	#trumptransitionteam	#trumptransitionteam	PRP	pos2=CD	4	dative	_	O
+6	a	a	DT	_	7	det	_	O
+7	chance	chance	NN	_	4	dobj	_	O
+8	FIRST	#ord#	RB	pos2=JJ	7	advmod	_	U-ORDINAL
+9	>	>	SYM	pos2=-RRB-	14	punct	_	O
+10	Will	will	MD	pos2=NNP	14	aux	_	O
+11	Foreign	foreign	NNP	pos2=JJ	12	compound	_	O
+12	Aid	aid	NNP	pos2=NN	14	nsubjpass	_	O
+13	Get	get	VB	pos2=NNP	14	auxpass	_	O
+14	Cut	cut	VBN	pos2=NNP	7	acl	_	O
+15	on	on	IN	pos2=RP	14	prep	_	O
+16	Trump	trump	NNP	pos2=NN	19	poss	_	U-ORG
+17	’s	's	POS	_	16	case	_	O
+18	Chopping	chopping	NNP	pos2=NN	19	compound	_	O
+19	Block	block	NNP	pos2=NN	15	pobj	_	O
+20	?	?	.	_	4	punct	_	O
+
+1	https://t.co/suTljuFKQj	#hlink#	ADD	_	0	root	_	U-ORG
+

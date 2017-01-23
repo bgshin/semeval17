@@ -1,0 +1,38 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	U-ORG
+2	@MiriamElder	@miriamelder	NN	pos2=AFX	4	dep	_	O
+3	:	:	:	_	4	punct	_	O
+4	Was	be	VBD	pos2=NNP	0	root	_	O
+5	“	"	``	_	6	punct	_	O
+6	fascist	fascist	JJ	pos2=NN	4	acomp	_	O
+7	”	"	''	_	6	punct	_	O
+8	as	as	IN	pos2=RB	6	prep	_	O
+9	awful	awful	JJ	_	11	nmod	_	O
+10	a	a	DT	_	11	det	_	O
+11	word	word	NN	_	8	pobj	_	O
+12	when	when	WRB	_	14	advmod	_	O
+13	it	it	PRP	_	14	nsubj	_	O
+14	appeared	appear	VBD	_	4	advcl	_	O
+15	?	?	.	_	4	punct	_	O
+
+1	“	"	``	_	2	punct	_	O
+2	Nazi	nazi	NNP	pos2=NN	0	root	_	U-NORP
+3	”	"	''	_	2	punct	_	O
+4	?	?	.	_	2	punct	_	O
+
+1	No	no	UH	_	5	discourse	_	O
+2	,	,	,	_	5	punct	_	O
+3	these	these	DT	_	4	det	_	O
+4	terms	term	NNS	_	5	nsubj	_	O
+5	prove	prove	VBP	pos2=VB	0	root	_	O
+6	their	their	PRP$	_	7	poss	_	O
+7	horror	horror	NN	_	5	dobj	_	O
+8	through	through	IN	_	5	prep	_	O
+9	action	action	NN	_	11	nmod	_	O
+10	/	/	SYM	pos2=,	11	punct	_	O
+11	rhetoric	rhetoric	NN	_	8	pobj	_	O
+12	.	.	.	_	5	punct	_	O
+
+1	Like	like	IN	pos2=UH	0	root	_	O
+2	a	a	DT	_	3	det	_	O
+3	…	…	NN	pos2=JJR	1	pobj	_	O
+

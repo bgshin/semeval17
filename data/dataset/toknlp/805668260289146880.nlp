@@ -1,0 +1,18 @@
+1	Raids	raid	NNS	_	2	nsubj	_	O
+2	kill	kill	VBP	pos2=VB	0	root	_	O
+3	dozens	dozen	NNS	_	2	dobj	_	U-CARDINAL
+4	in	in	IN	_	3	prep	_	O
+5	Syria	syria	NNP	_	7	poss	_	U-GPE
+6	's	's	POS	_	5	case	_	O
+7	Idlib	idlib	NNP	_	4	pobj	_	U-GPE
+8	,	,	,	_	9	punct	_	O
+9	UN	un	NNP	_	7	appos	_	U-ORG
+10	to	to	TO	_	11	aux	_	O
+11	vote	vote	VB	_	2	advcl	_	O
+12	on	on	IN	pos2=RP	11	prep	_	O
+13	ceasefire	ceasefire	NN	_	16	compound	_	O
+14	-	-	HYPH	_	16	punct	_	O
+15	Yahoo7	yahoo0	NNP	_	16	compound	_	B-ORG
+16	News	news	NNP	pos2=NN	12	pobj	_	L-ORG
+17	https://t.co/ITJBIguGAk	#hlink#	ADD	_	15	appos	_	O
+

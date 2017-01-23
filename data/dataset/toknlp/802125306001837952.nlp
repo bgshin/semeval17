@@ -1,0 +1,14 @@
+1	New	new	JJ	_	2	nmod	_	O
+2	picture	picture	NN	_	7	nsubj	_	O
+3	from	from	IN	_	2	prep	_	O
+4	#BeautyAndTheBeast	#beautyandthebeast	NNP	pos2=ADD	6	compound	_	O
+5	#DisneyLiveAction	#disneyliveaction	NNP	pos2=POS	6	compound	_	O
+6	Gaston	gaston	NNP	_	3	pobj	_	O
+7	courts	court	VBZ	pos2=NNS	0	root	_	O
+8	Belle	belle	NNP	_	7	dobj	_	U-PERSON
+9	with	with	IN	_	7	prep	_	O
+10	flowers	flower	NNS	_	9	pobj	_	O
+11	...	..	.	pos2=,	7	punct	_	O
+
+1	https://t.co/WQZ58R6TKP	#hlink#	ADD	_	0	root	_	U-ORG
+

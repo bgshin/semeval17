@@ -1,0 +1,22 @@
+1	@StuckonSW	@stuckonsw	NNP	pos2=XX	5	nsubj	_	O
+2	The	the	DT	_	3	det	_	O
+3	@SPLC	@splc	NNP	pos2=NN	1	appos	_	U-PERSON
+4	once	once	RB	pos2=IN	5	advmod	_	O
+5	labeled	label	VBD	pos2=VBN	0	root	_	O
+6	Dr.	dr.	NNP	_	8	compound	_	O
+7	Ben	ben	NNP	_	8	compound	_	B-PERSON
+8	Carson	carson	NNP	_	5	dobj	_	L-PERSON
+9	as	as	IN	_	5	prep	_	O
+10	an	an	DT	_	11	det	_	O
+11	extremist	extremist	NN	_	9	pobj	_	O
+12	which	which	WDT	_	13	nsubj	_	O
+13	took	take	VBD	_	11	relcl	_	O
+14	away	away	RB	pos2=RP	13	advmod	_	O
+15	the	the	DT	_	17	det	_	O
+16	little	little	JJ	_	17	nmod	_	O
+17	credibility	credibility	NN	_	13	dobj	_	O
+18	they	they	PRP	_	20	nsubj	_	O
+19	still	still	RB	_	20	advmod	_	O
+20	had	have	VBD	_	17	relcl	_	O
+21	.	.	.	_	5	punct	_	O
+

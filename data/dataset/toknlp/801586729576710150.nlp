@@ -1,0 +1,24 @@
+1	@Varneyco	@varneyco	NNP	pos2=UH	13	vocative	_	B-ORG
+2	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	0	root	_	L-ORG
+3	@PeteHegseth	@petehegseth	IN	pos2=NNP	6	mark	_	O
+4	I	I	PRP	_	6	nsubj	_	O
+5	can	can	MD	_	6	aux	_	O
+6	c	c	VB	pos2=GW	13	advcl	_	O
+7	his	his	PRP$	_	8	poss	_	O
+8	point	point	NN	_	6	dobj	_	O
+9	anti	anti	AFX	pos2=FW	10	nmod	_	O
+10	trump	trump	NN	pos2=JJ	11	compound	_	O
+11	people	people	NNS	_	13	nsubj	_	O
+12	may	may	MD	_	13	aux	_	O
+13	start	start	VB	_	0	root	_	O
+14	small	small	JJ	_	15	nmod	_	O
+15	riots	riot	NNS	_	13	dobj	_	O
+16	around	around	IN	_	15	prep	_	O
+17	the	the	DT	_	18	det	_	O
+18	country	country	NN	_	16	pobj	_	O
+19	FBI	fbi	NNP	_	21	nsubj	_	U-ORG
+20	should	should	MD	_	21	aux	_	O
+21	b	b	VB	_	13	parataxis	_	O
+22	the	the	DT	_	23	det	_	O
+23	ones	#crd#	NNS	_	21	dobj	_	O
+

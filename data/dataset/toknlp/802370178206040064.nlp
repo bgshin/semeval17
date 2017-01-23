@@ -1,0 +1,25 @@
+1	@CNN	@cnn	RB	pos2=NN	2	advmod	_	O
+2	good	good	JJ	pos2=RB	4	discourse	_	O
+3	,	,	,	_	4	punct	_	O
+4	keep	keep	VB	pos2=VBP	0	root	_	O
+5	them	them	PRP	_	4	dobj	_	O
+6	away	away	RB	_	4	advmod	_	O
+7	from	from	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	deplorables	deplorables	NNS	pos2=NN	7	pobj	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	Thank	thank	VBP	_	0	root	_	O
+2	you	you	PRP	_	1	dobj	_	O
+3	President	president	NNP	_	4	compound	_	O
+4	Obama	obama	NNP	_	1	vocative	_	U-PERSON
+5	for	for	IN	_	1	prep	_	O
+6	8	0	CD	_	7	nmod	_	B-DATE
+7	years	year	NNS	_	5	pobj	_	L-DATE
+8	of	of	IN	_	7	prep	_	O
+9	peace	peace	NN	_	8	pobj	_	O
+10	.	.	.	_	1	punct	_	O
+
+1	#trumplandia	#trumplandia	UH	pos2=FW	2	discourse	_	O
+2	#dumptrump	#dumptrump	UH	pos2=NN	0	root	_	O
+

@@ -1,0 +1,21 @@
+1	China	china	NNP	_	4	nsubj	_	U-GPE
+2	Does	do	VBZ	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	Want	want	VB	_	0	root	_	O
+5	Its	its	PRP$	pos2=NNP	6	poss	_	O
+6	Citizens	citizen	NNS	pos2=NNPS	8	nsubj	_	O
+7	to	to	TO	_	8	aux	_	O
+8	Call	call	VB	pos2=NNP	4	ccomp	_	O
+9	North	north	NNP	_	10	compound	_	B-GPE
+10	Korea	korea	NNP	_	12	poss	_	I-GPE
+11	's	's	POS	_	10	case	_	L-GPE
+12	Leader	leader	NNP	pos2=NN	16	poss	_	O
+13	'	'	POS	pos2=''	12	case	_	O
+14	Kim	kim	NNP	_	16	compound	_	B-PERSON
+15	Jong	jong	NNP	_	16	compound	_	I-PERSON
+16	Fatty	fatty	NNP	pos2=JJ	8	dobj	_	L-PERSON
+17	the	the	DT	_	18	det	_	O
+18	Third	#ord#	NNP	pos2=JJ	16	appos	_	U-ORDINAL
+19	'	'	''	pos2=POS	20	punct	_	O
+20	https://t.co/efQyAad9St@@@	#hlink#	ADD	pos2=NN	15	pobj	_	U-DATE
+

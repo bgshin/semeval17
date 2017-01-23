@@ -1,0 +1,27 @@
+1	@MrJamesonNeat	@mrjamesonneat	XX	pos2=ADD	2	dep	_	O
+2	keep	keep	VB	pos2=VBP	0	root	_	O
+3	dreaming	dream	VBG	_	2	xcomp	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	Here	here	RB	_	5	advmod	_	O
+2	in	in	IN	_	1	prep	_	O
+3	America	america	NNP	_	2	pobj	_	U-GPE
+4	we	we	PRP	_	5	nsubj	_	O
+5	go	go	VBP	_	0	root	_	O
+6	by	by	IN	_	5	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	electoral	electoral	JJ	_	9	nmod	_	O
+9	vote	vote	NN	_	6	pobj	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	And	and	CC	_	4	cc	_	O
+2	we	we	PRP	_	4	nsubj	_	O
+3	're	be	VBP	_	4	aux	_	O
+4	going	go	VBG	_	0	root	_	O
+5	to	to	TO	pos2=IN	6	aux	_	O
+6	audit	audit	VB	_	4	xcomp	_	O
+7	California	california	NNP	_	9	compound	_	U-GPE
+8	voter	voter	NN	_	9	compound	_	O
+9	registration	registration	NN	_	6	dobj	_	O
+10	.	.	.	_	4	punct	_	O
+

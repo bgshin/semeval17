@@ -1,0 +1,25 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	bet	bet	VBP	pos2=VBD	0	root	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	ask	ask	VBP	pos2=VB	2	ccomp	_	O
+5	yourself	yourself	PRP	_	4	dobj	_	O
+6	when	when	WRB	_	9	advmod	_	O
+7	#SarahPalin	#sarahpalin	NNP	pos2=ADD	9	nsubj	_	U-ORG
+8	will	will	MD	_	9	aux	_	O
+9	join	join	VB	_	4	ccomp	_	O
+10	#TrumpTransitionTeam	#trumptransitionteam	NNP	pos2=ADD	9	dobj	_	U-ORG
+11	.	.	.	_	2	punct	_	O
+
+1	She	she	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	already	already	RB	_	2	advmod	_	O
+4	in	in	IN	pos2=RB	2	prep	_	O
+5	,	,	,	_	2	punct	_	O
+6	sewing	sew	VBG	pos2=VB	2	advcl	_	O
+7	the	the	DT	_	8	det	_	O
+8	hoods	hood	NNS	_	6	dobj	_	O
+9	for	for	IN	_	6	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	…	…	NFP	pos2=-LRB-	9	pobj	_	O
+12	https://t.co/vD7j9vC0jS	#hlink#	ADD	_	2	dep	_	O
+

@@ -1,0 +1,12 @@
+1	@_	@_	SYM	pos2=NFP	2	punct	_	O
+2	klou23	klou0	NN	pos2=NNS	0	root	_	O
+3	but	but	CC	_	2	cc	_	O
+4	where	where	WRB	_	2	conj	_	O
+5	are	be	VBP	_	0	root	_	O
+6	bad	bad	JJ	_	7	nmod	_	O
+7	hombres	hombre	NNS	_	5	nsubj	_	O
+8	on	on	IN	_	7	prep	_	O
+9	that	that	DT	_	10	det	_	O
+10	list	list	NN	_	8	pobj	_	O
+11	?	?	.	_	5	punct	_	O
+

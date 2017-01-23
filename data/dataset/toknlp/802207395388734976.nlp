@@ -1,0 +1,21 @@
+1	@dbongino	@dbongino	UH	pos2=XX	3	discourse	_	O
+2	He	he	PRP	_	3	nsubj	_	O
+3	lost	lose	VBD	_	0	root	_	O
+4	the	the	DT	_	6	det	_	O
+5	popular	popular	JJ	_	6	nmod	_	O
+6	vote	vote	NN	_	3	dobj	_	O
+7	by	by	IN	_	6	prep	_	O
+8	the	the	DT	_	10	det	_	O
+9	largest	large	JJS	_	10	nmod	_	O
+10	margin	margin	NN	_	7	pobj	_	O
+11	EVER	ever	RB	_	10	advmod	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	Amazing	amazing	JJ	pos2=UH	5	dep	_	O
+2	you	you	PRP	_	5	nsubj	_	O
+3	do	do	VBP	_	5	aux	_	O
+4	n't	not	RB	_	5	neg	_	O
+5	find	find	VB	_	0	root	_	O
+6	that	that	DT	pos2=IN	7	nsubj	_	O
+7	troubling	troubling	JJ	_	5	ccomp	_	O
+

@@ -1,0 +1,16 @@
+1	What	what	WP	_	2	attr	_	O
+2	are	be	VBP	_	0	root	_	O
+3	your	your	PRP$	_	4	poss	_	O
+4	thoughts	thought	NNS	_	2	nsubj	_	O
+5	on	on	IN	_	4	prep	_	O
+6	gay	gay	JJ	_	7	nmod	_	O
+7	marriage	marriage	NN	_	5	pobj	_	O
+8	?	?	.	_	2	punct	_	O
+
+1	—	-	SYM	pos2=HYPH	6	punct	_	O
+2	Mi	mi	NNP	pos2=NN	6	dep	_	O
+3	hoy	hoy	NN	pos2=XX	6	dep	_	O
+4	mi	mi	FW	pos2=GW	6	dep	_	O
+5	noy	noy	NN	pos2=FW	6	dep	_	O
+6	https://t.co/lQowbtVbm6	#hlink#	ADD	pos2=FW	0	root	_	O
+

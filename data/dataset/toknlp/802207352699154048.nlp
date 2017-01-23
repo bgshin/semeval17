@@ -1,0 +1,21 @@
+1	@CNN	@cnn	ADD	pos2=NN	7	cc	_	U-ORG
+2	@FoxNews	@foxnews	NNS	pos2=VBZ	7	vocative	_	O
+3	@wolfblitzer	@wolfblitzer	UH	pos2=IN	7	discourse	_	O
+4	@megynkelly	@megynkelly	UH	pos2=RB	7	discourse	_	O
+5	@MSNBC	@msnbc	UH	pos2=NFP	7	discourse	_	O
+6	WHY	why	WRB	_	7	advmod	_	O
+7	ARE	be	VBP	_	10	aux	_	O
+8	YOU	you	PRP	_	10	nsubj	_	O
+9	NOT	not	RB	_	10	neg	_	O
+10	TALKING	talk	VBG	_	0	root	_	O
+11	ABOUT	about	IN	_	10	prep	_	O
+12	THE	the	DT	_	13	det	_	O
+13	COUNTRY	country	NN	pos2=NNP	11	pobj	_	O
+14	WIDE	wide	JJ	pos2=NNP	15	nmod	_	O
+15	#ARSON	#arson	NN	pos2=IN	16	nsubj	_	O
+16	HAPPENING	happen	VBG	pos2=NN	13	relcl	_	O
+17	.	.	.	_	10	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/WjxjzjXoMt	#hlink#	ADD	pos2=NN	0	root	_	O
+

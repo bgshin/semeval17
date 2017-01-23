@@ -1,0 +1,13 @@
+1	@TheScriptLab	@thescriptlab	NNP	pos2=NN	5	vocative	_	O
+2	Sadly	sadly	RB	pos2=NNP	5	advmod	_	O
+3	,	,	,	_	5	punct	_	O
+4	this	this	DT	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	how	how	WRB	_	9	advmod	_	O
+7	Steve	steve	NNP	_	8	compound	_	B-PERSON
+8	Bannon	bannon	NNP	_	9	nsubj	_	L-PERSON
+9	sees	see	VBZ	_	5	ccomp	_	O
+10	all	all	DT	_	11	det	_	O
+11	Jews	jew	NNPS	_	9	dobj	_	U-NORP
+12	.	.	.	_	5	punct	_	O
+

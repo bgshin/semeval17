@@ -1,0 +1,14 @@
+1	Racists	racist	NNS	pos2=VBZ	2	compound	_	O
+2	masochists	masochist	NNS	pos2=VBZ	3	nsubj	_	O
+3	fascist	fascist	VBP	pos2=JJ	0	root	_	O
+4	all	all	PDT	_	7	predet	_	O
+5	the	the	DT	_	7	det	_	O
+6	hate	hate	NN	pos2=VBP	7	compound	_	O
+7	words	word	NNS	_	3	dobj	_	O
+8	we	we	PRP	_	10	nsubj	_	O
+9	deplorables	deplorables	NNS	pos2=VBP	8	appos	_	O
+10	are	be	VBP	_	7	relcl	_	O
+11	.	.	.	_	3	punct	_	O
+
+1	https://t.co/vKKxbKq0GC	#hlink#	ADD	_	0	root	_	U-ORG
+

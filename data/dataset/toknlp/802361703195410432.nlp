@@ -1,0 +1,27 @@
+1	@itschappy	@itschappy	UH	pos2=NNP	3	discourse	_	O
+2	California	california	NNP	_	3	nsubj	_	U-GPE
+3	has	have	VBZ	_	0	root	_	O
+4	Disneyland	disneyland	NNP	_	3	dobj	_	U-GPE
+5	,	,	,	_	4	punct	_	O
+6	Apple	apple	NNP	_	4	conj	_	U-ORG
+7	,	,	,	_	6	punct	_	O
+8	and	and	CC	_	6	cc	_	O
+9	a	a	DT	_	10	det	_	O
+10	bunch	bunch	NN	_	6	conj	_	O
+11	of	of	IN	_	10	prep	_	O
+12	lettuce	lettuce	NN	_	13	compound	_	O
+13	farms	farm	NNS	_	11	pobj	_	O
+14	and	and	CC	_	13	cc	_	O
+15	stuff	stuff	NN	_	13	conj	_	O
+16	.	.	.	_	3	punct	_	O
+
+1	It	it	PRP	_	2	nsubj	_	O
+2	's	's	VBZ	_	0	root	_	O
+3	totally	totally	RB	_	4	advmod	_	O
+4	worth	worth	JJ	_	2	acomp	_	O
+5	dealing	deal	VBG	_	4	xcomp	_	O
+6	with	with	IN	_	5	prep	_	O
+7	President	president	NNP	_	8	compound	_	O
+8	Pelosi	pelosi	NNP	_	6	pobj	_	U-PERSON
+9	.	.	.	_	2	punct	_	O
+

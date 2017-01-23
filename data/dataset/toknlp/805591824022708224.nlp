@@ -1,0 +1,20 @@
+1	@eireseeker	@eireseeker	UH	pos2=NN	6	discourse	_	O
+2	@NiceChess757	@nicechess0	NN	pos2=NNP	6	nsubj	_	O
+3	Unfortunately	unfortunately	RB	_	6	advmod	_	O
+4	,	,	,	_	6	punct	_	O
+5	Obama	obama	NNP	_	6	nsubj	_	U-PERSON
+6	validated	validate	VBD	pos2=VBN	0	root	_	O
+7	torture	torture	NN	_	6	dobj	_	O
+8	,	,	,	_	7	punct	_	O
+9	un-sanctioned	un-sanctioned	JJ	_	10	nmod	_	O
+10	bombings	bombing	NNS	_	7	conj	_	O
+11	&	&	CC	_	10	cc	_	O
+12	drone	drone	NN	_	13	compound	_	O
+13	strikes	strike	NNS	_	10	conj	_	O
+14	&	&	CC	_	13	cc	_	O
+15	phone	phone	NN	_	16	compound	_	O
+16	monitoring	monitoring	NN	_	13	conj	_	O
+17	before	before	IN	_	19	mark	_	O
+18	he	he	PRP	_	19	nsubj	_	O
+19	left	leave	VBD	pos2=RB	6	advcl	_	O
+

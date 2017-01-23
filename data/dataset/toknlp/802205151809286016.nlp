@@ -1,0 +1,32 @@
+1	@BillCrowson	@billcrowson	NN	pos2=ADD	2	compound	_	O
+2	@ScottInSC	@scottinsc	NN	pos2=ADD	6	dep	_	O
+3	*	*	SYM	_	6	punct	_	O
+4	Neo	neo	NNP	pos2=XX	6	compound	_	B-ORG
+5	-	-	HYPH	_	6	punct	_	I-ORG
+6	Nazi	nazi	NNP	_	0	root	_	I-ORG
+7	's	's	POS	pos2=''	6	case	_	L-ORG
+8	.	.	.	_	6	punct	_	O
+
+1	Richard	richard	NNP	_	2	compound	_	B-PERSON
+2	Spencer	spencer	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	founder	founder	NN	_	3	attr	_	O
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	10	det	_	O
+8	alt	alt	JJ	pos2=NN	10	advmod	_	O
+9	-	-	HYPH	_	10	punct	_	O
+10	right	right	JJ	pos2=NN	6	pobj	_	O
+11	as	as	IN	_	12	mark	_	O
+12	defined	define	VBN	_	3	advcl	_	O
+13	by	by	IN	_	12	agent	_	O
+14	breitbart	breitbart	NNP	pos2=NN	13	pobj	_	O
+15	btw	btw	RB	_	12	advmod	_	O
+16	...	..	.	pos2=,	3	punct	_	O
+
+1	in	in	IN	pos2=DT	4	prep	_	O
+2	case	case	NN	_	1	pobj	_	O
+3	you	you	PRP	pos2=PRP$	4	nsubj	_	O
+4	care	care	VBP	pos2=NN	0	root	_	O
+5	.	.	.	_	4	punct	_	O
+

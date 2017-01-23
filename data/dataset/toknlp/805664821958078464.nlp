@@ -1,0 +1,16 @@
+1	@yadavtejashwi	@yadavtejashwi	UH	pos2=XX	15	discourse	_	O
+2	@NitishKumar	@nitishkumar	GW	pos2=XX	15	nmod	_	U-PERSON
+3	@HealthCareGov	@healthcaregov	GW	pos2=ADD	15	nmod	_	O
+4	@GovtofBihar	@govtofbihar	GW	pos2=ADD	15	nmod	_	U-PERSON
+5	@MoHFW_INDIA	@mohfw_india	GW	pos2=NN	15	det	_	O
+6	@htTweets	@httweets	POS	pos2=PRP$	7	nmod	_	O
+7	villagers	villager	NNS	pos2=GW	8	nsubj	_	O
+8	r	r	VBP	pos2=MD	5	ccomp	_	O
+9	not	not	RB	_	8	neg	_	O
+10	aware	aware	JJ	_	8	acomp	_	O
+11	Abt	abt	NNP	pos2=NN	13	compound	_	U-ORG
+12	rotravirus	rotravirus	NN	pos2=XX	13	compound	_	O
+13	nd	nd	NN	pos2=FW	10	ccomp	_	O
+14	other	other	JJ	_	15	nmod	_	O
+15	vaccines	vaccine	NNS	_	0	root	_	O
+

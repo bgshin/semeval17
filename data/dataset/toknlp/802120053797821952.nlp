@@ -1,0 +1,18 @@
+1	@lmaomaxi	@lmaomaxi	UH	pos2=NNS	5	discourse	_	O
+2	That	that	DT	_	5	nsubj	_	O
+3	'd	would	MD	pos2=NNP	5	aux	_	O
+4	Definitely	definitely	RB	_	5	advmod	_	O
+5	Be	be	VB	_	0	root	_	O
+6	Trump	trump	NNP	pos2=JJ	5	attr	_	U-ORG
+7	.	.	.	_	5	punct	_	O
+
+1	Googling	google	VBG	pos2=NNP	3	advcl	_	O
+2	What	what	WP	_	7	dobj	_	O
+3	Does	do	VBZ	_	7	aux	_	O
+4	The	the	DT	_	5	det	_	O
+5	President	president	NNP	_	6	compound	_	O
+6	Do#StillWithHer	do#stillwithher	NNP	pos2=ADD	1	dobj	_	B-PERSON
+7	#StrongerTogether	#strongertogether	ADD	pos2=NNP	9	dobj	_	L-PERSON
+8	#NotMyPresident	#notmypresident	ADD	pos2=NNP	0	root	_	O
+9	#LoveTrumpsHate	#lovetrumpshate	ADD	pos2=NN	8	pobj	_	O
+

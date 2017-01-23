@@ -1,0 +1,28 @@
+1	Jill	jill	NNP	_	3	poss	_	U-PERSON
+2	's	's	POS	_	1	case	_	O
+3	supporters	supporter	NNS	_	8	nsubj	_	O
+4	,	,	,	_	6	punct	_	O
+5	they	they	PRP	_	6	nsubj	_	O
+6	report	report	VBP	_	0	root	_	O
+7	more	more	RBR	_	8	advmod	_	O
+8	fake	fake	JJ	_	10	nmod	_	O
+9	new	new	JJ	_	10	nmod	_	O
+10	reports	report	NNS	_	6	dobj	_	O
+11	.	.	.	_	6	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	feel	feel	VBP	_	0	root	_	O
+3	it	it	PRP	_	4	nsubj	_	O
+4	is	be	VBZ	_	2	ccomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	destroy	destroy	VB	_	4	xcomp	_	O
+7	credit	credit	NN	_	6	dobj	_	O
+8	if	if	IN	_	10	mark	_	O
+9	anything	anything	NN	_	10	nsubj	_	O
+10	is	be	VBZ	_	4	advcl	_	O
+11	there	there	EX	pos2=RB	10	expl	_	O
+12	w	w	IN	_	10	attr	_	O
+13	/	/	HYPH	pos2=,	12	punct	_	O
+14	Soros	soros	NNP	pos2=NNPS	15	nmod	_	U-PERSON
+15	https://t.co/hzPWoDJQZF	#hlink#	ADD	pos2=NN	12	appos	_	O
+

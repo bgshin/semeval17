@@ -1,0 +1,23 @@
+1	@JWeismonger	@jweismonger	NNP	pos2=DT	2	nsubj	_	O
+2	Show	show	VB	pos2=VBP	0	root	_	O
+3	me	me	PRP	_	2	dobj	_	O
+4	on	on	IN	_	2	prep	_	O
+5	google	google	NNP	pos2=JJ	6	compound	_	U-CARDINAL
+6	maps	map	NNS	pos2=NN	4	pobj	_	O
+7	where	where	WRB	_	11	advmod	_	O
+8	the	the	DT	_	10	det	_	O
+9	FEMA	fema	NNP	_	10	compound	_	U-ORG
+10	camps	camp	NNS	_	11	nsubj	_	O
+11	are	be	VBP	_	6	relcl	_	O
+12	.	.	.	_	2	punct	_	O
+
+1	Otherwise	otherwise	RB	_	3	advmod	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	're	be	VBP	_	0	root	_	O
+4	a	a	DT	pos2=XX	8	det	_	O
+5	MSM	msm	NN	pos2=NNP	8	nmod	_	O
+6	nazi	nazi	JJ	pos2=NN	8	nmod	_	O
+7	democrat	democrat	JJ	pos2=NN	8	nmod	_	U-NORP
+8	propagandist	propagandist	NN	_	3	attr	_	O
+9	!	!	.	_	3	punct	_	O
+

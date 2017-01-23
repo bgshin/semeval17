@@ -1,0 +1,26 @@
+1	@MrDane1982	@mrdane0	NN	pos2=NNP	2	compound	_	O
+2	Nancy	nancy	NNP	_	3	nsubj	_	U-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	boss	boss	NN	_	3	attr	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	She	she	PRP	_	2	nsubj	_	O
+2	knows	know	VBZ	_	0	root	_	O
+3	how	how	WRB	_	5	advmod	_	O
+4	to	to	TO	_	5	aux	_	O
+5	work	work	VB	_	2	xcomp	_	O
+6	the	the	DT	_	7	det	_	O
+7	house	house	NN	_	5	dobj	_	O
+8	.	.	.	_	2	punct	_	O
+
+1	Praying	pray	VBG	_	3	nmod	_	O
+2	sexist	sexist	JJ	_	3	nmod	_	O
+3	Dems	dems	NNPS	pos2=NNS	6	nsubj	_	U-NORP
+4	do	do	VBP	pos2=VB	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	fuck	fuck	VB	_	0	root	_	O
+7	this	this	DT	_	6	dobj	_	O
+8	up	up	RP	pos2=NN	6	prt	_	O
+9	...	..	.	pos2=,	6	punct	_	O
+

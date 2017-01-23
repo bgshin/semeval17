@@ -1,0 +1,5 @@
+1	Forbes	forbes	NNP	pos2=GW	2	compound	_	B-PERSON
+2	Wel	wel	NNP	pos2=GW	4	dep	_	L-PERSON
+3	comehttps://t.co/WqplQX2Na8	#hlink#	ADD	_	4	nmod	_	O
+4	https://t.co/emiEyLrMQP	#hlink#	ADD	_	0	root	_	U-ORG
+

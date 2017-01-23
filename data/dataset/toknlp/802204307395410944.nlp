@@ -1,0 +1,20 @@
+1	U.S.	u.s.	NNP	_	4	compound	_	U-GPE
+2	president	president	NN	pos2=NNP	4	compound	_	O
+3	-	-	HYPH	pos2=:	4	punct	_	O
+4	elect	elect	NN	pos2=NNP	5	nsubj	_	O
+5	owns	own	VBZ	pos2=NNS	0	root	_	O
+6	more	more	JJR	_	8	qmod	_	B-MONEY
+7	than	than	IN	_	4	prep	_	I-MONEY
+8	$	$	$	pos2=HYPH	9	nmod	_	I-MONEY
+9	50K	0k	NN	pos2=CD	5	dobj	_	L-MONEY
+10	in	in	IN	pos2=RP	9	prep	_	O
+11	stock	stock	NN	_	10	pobj	_	O
+12	in	in	IN	_	7	prep	_	O
+13	Texas	texas	NNP	_	15	npadvmod	_	U-GPE
+14	-	-	HYPH	_	15	punct	_	O
+15	based	base	VBN	_	18	nmod	_	O
+16	Energy	energy	NNP	pos2=NN	18	compound	_	B-ORG
+17	Transfer	transfer	NNP	pos2=GW	18	compound	_	I-ORG
+18	Partners	partner	NNPS	pos2=NNS	12	pobj	_	L-ORG
+19	https://t.co/mtBLHqimkT	#hlink#	ADD	_	18	appos	_	O
+

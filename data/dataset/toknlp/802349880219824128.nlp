@@ -1,0 +1,20 @@
+1	Obama	obama	NNP	pos2=NN	2	compound	_	U-PERSON
+2	admin	admin	NN	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	rushes	rush	VBZ	pos2=NNS	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	protect	protect	VB	_	1	xcomp	_	O
+4	public	public	JJ	_	5	nmod	_	O
+5	lands	land	NNS	_	3	dobj	_	O
+6	before	before	IN	_	8	mark	_	O
+7	Trump	trump	NNP	pos2=NN	8	nsubj	_	U-ORG
+8	takes	take	VBZ	_	3	advcl	_	O
+9	office	office	NN	_	8	dobj	_	O
+10	@guardian	@guardian	TO	pos2=NN	12	aux	_	O
+11	please	please	UH	_	12	discourse	_	O
+12	consider	consider	VB	_	8	xcomp	_	O
+13	#NoDAPL	#nodapl	GW	pos2=NNS	15	nmod	_	U-ORG
+14	@POTUS	@potus	GW	pos2=ADD	15	nmod	_	O
+15	https://t.co/2XMYFbOg4P	#hlink#	ADD	pos2=NN	12	dobj	_	U-ORG
+

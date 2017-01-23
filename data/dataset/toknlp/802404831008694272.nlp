@@ -1,0 +1,14 @@
+1	What	what	WP	_	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+
+1	They	they	PRP	_	4	nsubj	_	O
+2	did	do	VBD	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	ask	ask	VB	_	0	root	_	O
+5	for	for	IN	_	4	prep	_	O
+6	a	a	DT	_	7	det	_	O
+7	refund	refund	NN	_	5	pobj	_	O
+8	?	?	.	_	4	punct	_	O
+
+1	https://t.co/EqayycVLdB	#hlink#	ADD	_	0	root	_	U-ORG
+

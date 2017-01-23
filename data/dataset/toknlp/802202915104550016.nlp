@@ -1,0 +1,18 @@
+1	@mrjamesob	@mrjamesob	UH	pos2=XX	6	discourse	_	O
+2	@LBC	@lbc	IN	pos2=MD	0	root	_	B-ORG
+3	The	the	DT	_	5	det	_	I-ORG
+4	Daily	daily	NNP	_	5	compound	_	I-ORG
+5	Fail	fail	NNP	_	8	poss	_	I-ORG
+6	's	's	POS	pos2=VBZ	5	case	_	L-ORG
+7	long	long	JJ	_	8	nmod	_	O
+8	association	association	NN	_	2	pobj	_	O
+9	with	with	IN	_	8	prep	_	O
+10	Nazi	nazi	NNP	pos2=JJ	11	compound	_	U-NORP
+11	ideology	ideology	NN	_	9	pobj	_	O
+12	a	a	DT	_	13	det	_	O
+13	reason	reason	NN	_	10	appos	_	O
+14	?	?	.	_	2	punct	_	O
+
+1	Perhaps	perhaps	RB	_	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+

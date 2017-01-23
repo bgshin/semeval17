@@ -1,0 +1,24 @@
+1	#OnCNBCTV18	#oncnbctv0	NN	pos2=ADD	2	compound	_	O
+2	@UBS	@ubs	NNP	pos2=NN	3	nsubj	_	U-PERSON
+3	Says	say	VBZ	_	18	ccomp	_	O
+4	Important	important	JJ	pos2=NNP	3	ccomp	_	O
+5	For	for	IN	_	8	mark	_	O
+6	Investors	investor	NNS	pos2=NNPS	8	nsubj	_	O
+7	To	to	TO	pos2=IN	8	aux	_	O
+8	Note	note	VB	_	3	advcl	_	O
+9	That	that	DT	pos2=IN	11	det	_	O
+10	Italian	italian	JJ	_	11	nmod	_	U-NORP
+11	Referendum	referendum	NN	_	8	dobj	_	O
+12	Is	be	VBZ	_	18	ccomp	_	O
+13	Unlike	unlike	IN	pos2=WRB	12	prep	_	O
+14	#brexit	#brexit	PRP	pos2=NN	13	pobj	_	O
+15	;	;	,	pos2=:	18	punct	_	O
+16	Do	do	VB	pos2=VBP	18	aux	_	O
+17	Not	not	RB	_	18	neg	_	O
+18	See	see	VB	_	0	root	_	O
+19	Huge	huge	JJ	pos2=NNP	20	nmod	_	O
+20	Downside	downside	NN	pos2=NNP	18	dobj	_	O
+21	For	for	IN	_	18	prep	_	O
+22	The	the	DT	_	23	det	_	O
+23	Markets	market	NNS	pos2=NNPS	21	pobj	_	O
+

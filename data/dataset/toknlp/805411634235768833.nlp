@@ -1,0 +1,19 @@
+1	Lauren	lauren	NNP	_	2	compound	_	B-PERSON
+2	Graham	graham	NNP	_	3	nsubj	_	L-PERSON
+3	Responds	respond	VBZ	pos2=NNP	0	root	_	O
+4	To	to	IN	pos2=NNP	3	prep	_	O
+5	Lin	lin	NNP	_	8	compound	_	B-PERSON
+6	-	-	HYPH	pos2=:	8	punct	_	I-PERSON
+7	Manuel	manuel	NNP	_	8	compound	_	I-PERSON
+8	Miranda	miranda	NNP	_	12	poss	_	I-PERSON
+9	's	's	POS	_	8	case	_	L-PERSON
+10	'	'	``	pos2=''	12	punct	_	O
+11	Gilmore	gilmore	NNP	_	12	compound	_	B-ORG
+12	Girls	girl	NNPS	pos2=NNP	18	poss	_	I-ORG
+13	'	'	POS	pos2=''	12	case	_	L-ORG
+14	tweet	tweet	NN	_	16	compound	_	O
+15	-	-	HYPH	_	16	punct	_	O
+16	beautiful!@fallonthornley	beautiful!@fallonthornley	NNP	pos2=GW	18	nmod	_	O
+17	@ashley	@ashley	GW	pos2=ADD	18	nmod	_	O
+18	https://t.co/CA3Zu2bewD	#hlink#	ADD	pos2=NN	4	pobj	_	O
+

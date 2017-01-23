@@ -1,0 +1,19 @@
+1	Rio	rio	NNP	_	5	compound	_	B-PERSON
+2	Bravo	bravo	NNP	_	5	compound	_	I-PERSON
+3	-	-	HYPH	pos2=:	5	punct	_	I-PERSON
+4	Dean	dean	NNP	_	5	compound	_	I-PERSON
+5	Martin	martin	NNP	_	16	dep	_	L-PERSON
+6	&	&	CC	_	5	cc	_	O
+7	Ricky	ricky	NNP	_	8	compound	_	B-PERSON
+8	Nelson	nelson	NNP	_	5	conj	_	L-PERSON
+9	&	&	CC	pos2=VBD	8	cc	_	O
+10	Walter	walter	NNP	_	11	compound	_	B-PERSON
+11	Brennan	brennan	NNP	_	8	conj	_	L-PERSON
+12	(	(	-LRB-	_	11	punct	_	O
+13	High	high	JJ	pos2=NNP	14	nmod	_	O
+14	Quality	quality	NN	pos2=NNP	11	appos	_	O
+15	)	)	-RRB-	pos2=GW	11	punct	_	O
+16	https://t.co/CB0avAlZsL	#hlink#	ADD	pos2=NN	0	root	_	O
+17	via	via	IN	_	16	prep	_	O
+18	@YouTube	@youtube	NN	pos2=NNP	17	pobj	_	O
+

@@ -1,0 +1,24 @@
+1	#Eurozone	#eurozone	NN	pos2=NNP	2	compound	_	O
+2	BREAKING	breaking	NN	pos2=VBG	6	dep	_	O
+3	:	:	:	_	6	punct	_	O
+4	Angela	angela	NNP	_	5	compound	_	B-PERSON
+5	Merkel	merkel	NNP	_	6	nsubj	_	L-PERSON
+6	admits	admit	VBZ	_	0	root	_	O
+7	that	that	IN	_	9	mark	_	O
+8	she	she	PRP	_	9	nsubj	_	O
+9	is	be	VBZ	_	6	ccomp	_	O
+10	inferior	inferior	JJ	_	9	acomp	_	O
+11	to	to	IN	_	10	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	divine	divine	JJ	_	14	nmod	_	O
+14	power	power	NN	_	11	pobj	_	O
+15	that	that	WDT	_	16	nsubj	_	O
+16	is	be	VBZ	_	14	relcl	_	O
+17	Kim	kim	NNP	_	20	compound	_	B-PERSON
+18	Jong	jong	NNP	_	20	compound	_	I-PERSON
+19	-	-	HYPH	_	20	punct	_	I-PERSON
+20	un	un	NNP	_	16	attr	_	L-PERSON
+21	.	.	.	_	6	punct	_	O
+
+1	#SydMUN16	#sydmun0	NN	pos2=ADD	0	root	_	O
+

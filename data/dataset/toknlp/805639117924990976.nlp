@@ -1,0 +1,20 @@
+1	Check	check	VB	_	0	root	_	O
+2	out	out	RP	_	1	prt	_	O
+3	the	the	DT	_	5	det	_	O
+4	electropop	electropop	NN	pos2=JJ	5	compound	_	O
+5	duo	duo	NN	pos2=NNS	1	dobj	_	O
+6	playing	play	VBG	_	5	acl	_	O
+7	for	for	IN	_	6	prep	_	O
+8	Pope	pope	NNP	_	9	compound	_	B-ORG
+9	Francis	francis	NNP	_	7	pobj	_	L-ORG
+10	and	and	CC	_	6	cc	_	O
+11	tackling	tackle	VBG	_	6	conj	_	O
+12	the	the	DT	_	16	det	_	O
+13	most	most	RBS	pos2=JJS	14	advmod	_	O
+14	pressing	pressing	JJ	pos2=VBG	16	nmod	_	O
+15	social	social	JJ	_	16	nmod	_	O
+16	issues	issue	NNS	_	11	dobj	_	O
+17	and	and	CC	_	1	cc	_	O
+18	…	…	NFP	pos2=-LRB-	19	punct	_	O
+19	https://t.co/qHMCb0rmWK	#hlink#	ADD	_	1	conj	_	O
+

@@ -1,0 +1,12 @@
+1	@Timmbarton123T	@timmbarton0t	NN	pos2=XX	5	cc	_	O
+2	The	the	DT	_	3	det	_	O
+3	majority	majority	NN	_	0	root	_	O
+4	of	of	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	deplorables	deplorables	NNS	pos2=NN	4	pobj	_	O
+7	that	that	WDT	pos2=DT	8	nsubj	_	O
+8	voted	vote	VBD	_	6	relcl	_	O
+9	for	for	IN	_	8	prep	_	O
+10	Trump	trump	NNP	_	11	compound	_	B-ORG
+11	Dumb	dumb	NNP	pos2=JJ	9	pobj	_	L-ORG
+

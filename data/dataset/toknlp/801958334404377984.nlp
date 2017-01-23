@@ -1,0 +1,12 @@
+1	#Trump	#trump	XX	pos2=NNP	2	dep	_	O
+2	picks	pick	VBZ	pos2=NNS	0	root	_	O
+3	#NikkiHaley	#nikkihaley	XX	pos2=PRP	2	dep	_	O
+4	to	to	TO	_	5	aux	_	O
+5	be	be	VB	_	2	xcomp	_	O
+6	his	his	PRP$	_	7	poss	_	O
+7	#UnitedNations	#unitednations	NNS	pos2=NNP	5	attr	_	O
+8	Ambassador	ambassador	NNP	pos2=NN	5	attr	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	https://t.co/attq2N09HB	#hlink#	ADD	_	0	root	_	U-ORG
+

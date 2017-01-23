@@ -1,0 +1,21 @@
+1	Essential	essential	JJ	_	2	nmod	_	O
+2	report	report	NN	_	20	dep	_	O
+3	from	from	IN	_	2	prep	_	O
+4	@IRR_News	@irr_news	NNP	pos2=NNS	3	pobj	_	U-ORG
+5	connecting	connect	VBG	_	2	acl	_	O
+6	policy	policy	NN	_	7	compound	_	O
+7	discourses	discourse	NNS	_	5	dobj	_	O
+8	on	on	IN	_	5	prep	_	O
+9	race	race	NN	_	8	pobj	_	O
+10	,	,	,	_	9	punct	_	O
+11	religion	religion	NN	_	9	conj	_	O
+12	&	&	CC	_	11	cc	_	O
+13	migration	migration	NN	_	11	conj	_	O
+14	to	to	IN	_	5	prep	_	O
+15	a	a	DT	_	16	det	_	O
+16	spike	spike	NN	_	14	pobj	_	O
+17	in	in	IN	pos2=FW	16	prep	_	O
+18	hate	hate	NN	pos2=VBP	19	compound	_	O
+19	crimes	crime	NNS	_	17	pobj	_	O
+20	https://t.co/kPGSCWMTj0	#hlink#	ADD	_	0	root	_	O
+

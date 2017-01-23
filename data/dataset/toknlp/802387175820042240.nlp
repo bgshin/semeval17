@@ -1,0 +1,19 @@
+1	@nick_dangr	@nick_dangr	UH	pos2=XX	3	discourse	_	O
+2	@sweetharturbald	@sweetharturbald	UH	pos2=MD	3	discourse	_	O
+3	@Looney_27	@looney_0	NN	pos2=CD	0	root	_	O
+4	@garrett_finesy	@garrett_finesy	UH	pos2=XX	3	discourse	_	O
+5	@lexsIoan	@lexsioan	NNP	pos2=IN	7	compound	_	O
+6	Nancy	nancy	NNP	_	7	compound	_	B-PERSON
+7	Pelosi	pelosi	NNP	_	3	appos	_	L-PERSON
+8	and	and	CC	_	3	cc	_	O
+9	soooo	soooo	RB	_	10	advmod	_	O
+10	many	many	JJ	_	11	advmod	_	O
+11	more	more	JJR	pos2=RBR	14	nmod	_	O
+12	w	w	IN	_	7	prep	_	O
+13	Obama	obama	NNP	_	14	nsubj	_	U-PERSON
+14	masquerading	masquerade	VBG	_	12	pcomp	_	O
+15	as	as	IN	_	14	prep	_	O
+16	a	a	DT	_	17	det	_	O
+17	Moderate	moderate	NNP	pos2=JJ	15	pobj	_	O
+18	.	.	.	_	3	punct	_	O
+

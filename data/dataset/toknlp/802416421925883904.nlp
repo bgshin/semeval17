@@ -1,0 +1,13 @@
+1	Illicit	illicit	JJ	_	2	nmod	_	O
+2	drug	drug	NN	_	3	compound	_	O
+3	sales	sale	NNS	_	7	nsubj	_	O
+4	through	through	IN	_	3	prep	_	O
+5	social	social	JJ	_	6	nmod	_	O
+6	media	medium	NNS	pos2=NN	4	pobj	_	O
+7	growing	grow	VBG	pos2=NN	10	nmod	_	O
+8	,	,	,	_	11	punct	_	O
+9	security	security	NN	_	10	compound	_	O
+10	expert	expert	NN	_	11	nsubj	_	O
+11	says	say	VBZ	_	0	root	_	O
+12	https://t.co/6lZorHE0VP	#hlink#	ADD	_	11	punct	_	U-ORG
+

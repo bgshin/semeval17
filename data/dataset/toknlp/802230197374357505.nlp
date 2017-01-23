@@ -1,0 +1,20 @@
+1	#Tipp	#tipp	NNP	pos2=PRP$	2	compound	_	B-ORG
+2	World	world	NNP	pos2=NN	19	dep	_	L-ORG
+3	of	of	IN	_	2	prep	_	O
+4	Fishing	fishing	NN	pos2=NNP	3	pobj	_	O
+5	:	:	:	_	13	punct	_	O
+6	5	0	CD	_	13	nmod	_	B-MONEY
+7	Euro	euro	NNP	pos2=NN	8	compound	_	L-MONEY
+8	Rabatt	rabatt	NNP	_	9	compound	_	O
+9	gewinnen	gewinnen	NN	pos2=WRB	13	dep	_	O
+10	:	:	:	_	13	punct	_	O
+11	Um	um	UH	pos2=NNP	13	discourse	_	O
+12	euer	euer	NN	pos2=WDT	13	compound	_	B-ORG
+13	Equipment	equipment	NNP	pos2=NN	4	appos	_	L-ORG
+14	in	in	IN	_	13	prep	_	O
+15	World	world	NNP	pos2=NN	14	pobj	_	B-EVENT
+16	of	of	IN	_	15	prep	_	I-EVENT
+17	Fishing	fishing	NNP	pos2=NN	16	pobj	_	L-EVENT
+18	…	…	NFP	pos2=-LRB-	19	punct	_	O
+19	https://t.co/KMGw9UGEiJ	#hlink#	ADD	_	0	root	_	O
+

@@ -1,0 +1,16 @@
+1	Taylor	taylor	NNP	_	2	compound	_	B-PERSON
+2	Swift	swift	NNP	_	6	nsubj	_	L-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	Todrick	todrick	NNP	_	5	compound	_	B-WORK_OF_ART
+5	Hall	hall	NNP	_	2	conj	_	I-WORK_OF_ART
+6	Celebrate	celebrate	VB	pos2=NNP	0	root	_	I-WORK_OF_ART
+7	Thanksgiving	thanksgiving	NNP	_	6	dobj	_	I-WORK_OF_ART
+8	With	with	IN	_	6	prep	_	I-WORK_OF_ART
+9	an	an	DT	_	12	det	_	I-WORK_OF_ART
+10	Epic	epic	NNP	_	12	compound	_	I-WORK_OF_ART
+11	Mannequin	mannequin	NNP	_	12	compound	_	I-WORK_OF_ART
+12	Challenge	challenge	NNP	pos2=NN	8	pobj	_	L-WORK_OF_ART
+13	https://t.co/vkD5BXfRu2	#hlink#	ADD	pos2=NNP	11	appos	_	O
+14	via	via	IN	_	6	prep	_	O
+15	@popsugaruk	@popsugaruk	.	pos2=NN	6	punct	_	O
+

@@ -1,0 +1,27 @@
+1	Havin	havin	NNP	pos2=UH	0	root	_	U-PERSON
+2	'	'	''	pos2=``	1	punct	_	O
+3	a	a	DT	_	4	det	_	O
+4	bit	bit	NN	_	1	appos	_	O
+5	of	of	IN	_	4	prep	_	O
+6	fun	fun	NN	pos2=JJ	5	pobj	_	O
+7	today	today	NN	_	0	root	_	U-DATE
+8	!	!	.	_	7	punct	_	O
+
+1	Do	do	VBP	pos2=VB	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	love	love	VB	pos2=VBP	0	root	_	O
+4	these	these	DT	_	5	det	_	O
+5	guys	guy	NNS	_	3	dobj	_	O
+6	too	too	RB	_	3	advmod	_	O
+7	!?	!?	.	_	3	punct	_	O
+
+1	Have	have	VB	pos2=VBP	0	root	_	O
+2	a	a	DT	_	4	det	_	O
+3	great	great	JJ	_	4	nmod	_	O
+4	weekend	weekend	NN	_	1	dobj	_	O
+5	!	!	.	_	1	punct	_	O
+
+1	https://t.co/DXUdYsfIvA	#hlink#	ADD	_	0	root	_	O
+2	#mannequinchallenge	#mannequinchallenge	-RRB-	pos2=XX	1	punct	_	O
+3	#luketheboxer	#luketheboxer	UH	pos2=-RRB-	1	discourse	_	O
+

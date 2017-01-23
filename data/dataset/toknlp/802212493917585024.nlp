@@ -1,0 +1,8 @@
+1	Agreed	agree	VBN	pos2=VBD	0	root	_	O
+2	!!!	!!	.	_	1	punct	_	O
+
+1	@KellyannePolls	@kellyannepolls	NNS	pos2=ADD	4	nmod	_	O
+2	@jaredkushner	@jaredkushner	GW	pos2=UH	4	nmod	_	O
+3	@mike_pence	@mike_pence	GW	pos2=-LRB-	4	nmod	_	O
+4	https://t.co/0qYjKyvEU6	#hlink#	ADD	pos2=NN	0	root	_	O
+

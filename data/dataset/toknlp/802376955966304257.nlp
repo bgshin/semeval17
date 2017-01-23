@@ -1,0 +1,21 @@
+1	i	I	PRP	_	3	nsubj	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	found	find	VBD	_	0	root	_	O
+4	a	a	DT	pos2=RBR	8	det	_	O
+5	dennis	dennis	NN	pos2=JJ	8	nmod	_	O
+6	rodman	rodman	NN	pos2=NNP	8	nmod	_	O
+7	/	/	SYM	pos2=HYPH	8	punct	_	O
+8	kim	kim	NN	pos2=JJ	3	dobj	_	O
+9	jong	jong	JJ	pos2=FW	11	nmod	_	O
+10	un	un	JJ	pos2=NN	11	nmod	_	O
+11	fanfic	fanfic	NN	_	8	appos	_	O
+12	on	on	IN	_	11	prep	_	O
+13	my	my	PRP$	_	15	poss	_	O
+14	old	old	JJ	_	15	nmod	_	O
+15	phone	phone	NN	_	12	pobj	_	O
+16	.	.	.	_	3	punct	_	O
+
+1	WHAT	what	WP	_	2	attr	_	O
+2	AM	be	VBP	pos2=NN	0	root	_	O
+3	I	I	PRP	_	2	nsubj	_	O
+

@@ -1,0 +1,15 @@
+1	#MuhammadAli	#muhammadali	NNP	pos2=XX	14	compound	_	O
+2	Muhammad	muhammad	NNP	_	14	compound	_	B-PERSON
+3	Ali	ali	NNP	_	14	compound	_	L-PERSON
+4	Signed	signed	NNP	pos2=VBD	14	compound	_	O
+5	Ring	ring	NNP	_	11	compound	_	O
+6	Side	side	NNP	_	11	compound	_	O
+7	Bell	bell	NNP	_	11	compound	_	O
+8	Ola	ola	NNP	_	11	compound	_	O
+9	Coa	coa	NNP	_	11	compound	_	O
+10	Online	online	NNP	_	11	compound	_	O
+11	Authentics	authentics	NNP	pos2=NNPS	14	dep	_	O
+12	https://t.co/kGEGqPNkfW	#hlink#	ADD	pos2=POS	14	dep	_	O
+13	#Legend	#legend	NNP	pos2=-RRB-	14	compound	_	O
+14	#Boxer	#boxer	NNP	pos2=.	0	root	_	O
+

@@ -1,0 +1,15 @@
+1	Economic	economic	JJ	_	2	nmod	_	O
+2	crisis	crisis	NN	_	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	Europe	europe	NNP	_	3	pobj	_	U-LOC
+5	.	.	.	_	2	punct	_	O
+
+1	U.S.	u.s.	NNP	_	2	nsubj	_	U-GPE
+2	establishes	establish	VBZ	_	0	root	_	O
+3	gold	gold	NN	pos2=JJ	4	compound	_	O
+4	standard	standard	NN	pos2=JJ	2	dobj	_	O
+5	(1873)	(0)	CD	pos2=NN	2	punct	_	U-CARDINAL
+6	.	.	.	_	2	punct	_	O
+
+1	#HIST125MWF	#hist0mwf	NN	pos2=XX	0	root	_	O
+

@@ -1,0 +1,25 @@
+1	Thankful	thankful	JJ	_	0	root	_	O
+2	that	that	DT	pos2=IN	8	mark	_	O
+3	last	last	JJ	_	4	nmod	_	B-TIME
+4	night	night	NN	_	5	compound	_	L-TIME
+5	politics	politics	NNS	_	8	nsubj	_	O
+6	did	do	VBD	_	8	aux	_	O
+7	n't	not	RB	_	8	neg	_	O
+8	come	come	VB	pos2=VBN	1	ccomp	_	O
+9	up	up	RP	pos2=IN	8	prt	_	O
+10	until	until	IN	_	15	mark	_	O
+11	after	after	IN	_	10	prep	_	O
+12	dessert	dessert	NN	_	11	pobj	_	O
+13	and	and	CC	_	12	cc	_	O
+14	everyone	everyone	NN	_	15	nsubj	_	O
+15	was	be	VBD	_	8	advcl	_	O
+16	on	on	IN	_	15	prep	_	O
+17	the	the	DT	_	19	det	_	O
+18	same	same	JJ	_	19	nmod	_	O
+19	page	page	NN	_	16	pobj	_	O
+20	as	as	IN	_	15	prep	_	O
+21	me	me	PRP	_	20	pobj	_	O
+22	.	.	.	_	1	punct	_	O
+
+1	#stillwithher	#stillwithher	UH	pos2=NN	0	root	_	O
+

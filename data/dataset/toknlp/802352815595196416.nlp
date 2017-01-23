@@ -1,0 +1,27 @@
+1	@savipaige	@savipaige	UH	pos2=VB	5	discourse	_	O
+2	@TPP_of_Suffolk	@tpp_of_suffolk	UH	pos2=GW	5	discourse	_	O
+3	@SheriffClarke	@sheriffclarke	UH	pos2=ADD	5	discourse	_	O
+4	He	he	PRP	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	one	#crd#	CD	_	5	attr	_	U-CARDINAL
+7	of	of	IN	_	6	prep	_	O
+8	my	my	PRP$	_	9	poss	_	O
+9	heroes	hero	NNS	_	7	pobj	_	O
+10	.	.	.	_	5	punct	_	O
+
+1	So	so	RB	_	2	advmod	_	O
+2	grounded	ground	VBN	pos2=JJ	0	root	_	O
+3	in	in	IN	_	2	prep	_	O
+4	common	common	JJ	_	5	nmod	_	O
+5	sense	sense	NN	_	3	pobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	would	would	MD	_	3	aux	_	O
+3	follow	follow	VB	_	0	root	_	O
+4	this	this	DT	_	5	det	_	O
+5	guy	guy	NN	_	3	dobj	_	O
+6	into	into	IN	_	3	prep	_	O
+7	battle	battle	NN	_	6	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+

@@ -1,0 +1,14 @@
+1	Coming	come	VBG	_	11	advcl	_	O
+2	to	to	IN	pos2=TO	1	prep	_	O
+3	terms	term	NNS	_	2	pobj	_	O
+4	with	with	IN	_	3	prep	_	O
+5	the	the	DT	_	7	det	_	O
+6	imperfect	imperfect	JJ	_	7	nmod	_	O
+7	feminism	feminism	NN	_	4	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	#Disney	#disney	NNP	pos2=NN	8	pobj	_	O
+10	:	:	:	_	11	punct	_	O
+11	https://t.co/xEIpETk0pl	#hlink#	ADD	_	0	root	_	O
+12	#beautyandthebeast	#beautyandthebeast	IN	pos2=ADD	11	prep	_	O
+13	https://t.co/2oo4MXT4uV	#hlink#	ADD	pos2=NN	12	pobj	_	O
+

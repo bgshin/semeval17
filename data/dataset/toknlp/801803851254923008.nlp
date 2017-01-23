@@ -1,0 +1,17 @@
+1	Why	why	WRB	_	2	advmod	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	a	a	DT	_	5	det	_	O
+4	AAAA	aaaa	NN	pos2=NNP	5	compound	_	U-ORG
+5	reliever	reliever	NN	_	2	nsubj	_	O
+6	on	on	IN	_	5	prep	_	O
+7	a	a	DT	_	8	det	_	O
+8	picture	picture	NN	_	6	pobj	_	O
+9	with	with	IN	_	8	prep	_	O
+10	Trout	trout	NNP	pos2=NN	9	pobj	_	U-PERSON
+11	and	and	CC	_	10	cc	_	O
+12	Verlander	verlander	NNP	_	10	conj	_	U-PERSON
+13	and	and	CC	_	12	cc	_	O
+14	other	other	JJ	_	15	nmod	_	O
+15	superstars	superstar	NNS	_	12	conj	_	O
+16	https://t.co/NRe8hEV3Nx	#hlink#	ADD	pos2=VBP	5	appos	_	O
+

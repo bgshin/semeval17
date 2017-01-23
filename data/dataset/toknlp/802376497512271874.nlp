@@ -1,0 +1,15 @@
+1	Post-election	post-election	JJ	pos2=NN	3	nmod	_	O
+2	Trump	trump	NN	pos2=NNP	3	compound	_	O
+3	protest	protest	NN	_	0	root	_	O
+4	,	,	,	_	3	punct	_	O
+5	NYC.	nyc.	NNP	pos2=NN	3	npadvmod	_	O
+6	11/13/2016	0	CD	_	5	nmod	_	U-DATE
+7	.	.	.	_	3	punct	_	O
+
+1	#ICPwethepeople	#icpwethepeople	ADD	pos2=NNS	6	dep	_	O
+2	#flakphotoresistance	#flakphotoresistance	IN	pos2=UH	6	nmod	_	O
+3	#lensculturestreets	#lensculturestreets	NNS	pos2=UH	2	pobj	_	O
+4	@ICPhotog	@icphotog	GW	pos2=VBG	6	nmod	_	O
+5	…	…	NFP	pos2=GW	6	punct	_	O
+6	https://t.co/yeELld4DRz	#hlink#	ADD	pos2=NN	0	root	_	O
+

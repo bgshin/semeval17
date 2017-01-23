@@ -1,0 +1,17 @@
+1	This	this	DT	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	Iraqi	iraqi	JJ	pos2=NNP	4	nmod	_	U-NORP
+4	Armyhumanity	armyhumanity	NNP	_	2	attr	_	U-PERSON
+5	and	and	CC	_	4	cc	_	O
+6	kindness	kindness	NN	_	4	conj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	protectionNo	protectionno	NNP	pos2=VB	6	conj	_	U-ORG
+9	more	more	JJR	pos2=RBR	10	nmod	_	O
+10	#ISISISIS	#isisisis	NN	pos2=NNP	12	nsubj	_	O
+11	is	be	VBZ	_	12	aux	_	O
+12	passing	pass	VBG	_	2	dep	_	O
+13	and	and	CC	_	12	cc	_	O
+14	dissipate#MosulOffensive	dissipate#mosuloffensive	JJ	pos2=GW	12	conj	_	U-NORP
+15	…	…	NFP	pos2=-LRB-	12	cc	_	O
+16	https://t.co/mOonf3jEEu	#hlink#	ADD	_	12	dep	_	O
+

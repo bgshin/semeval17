@@ -1,0 +1,27 @@
+1	Why	why	WRB	_	3	advmod	_	O
+2	tf	tf	NNS	pos2=NN	3	nsubj	_	O
+3	are	be	VBP	_	0	root	_	O
+4	tanks	tank	NNS	_	3	attr	_	O
+5	at	at	IN	_	3	prep	_	O
+6	a	a	DT	_	10	det	_	O
+7	black	black	JJ	_	8	nmod	_	O
+8	lives	life	NNS	pos2=VBZ	9	compound	_	O
+9	matter	matter	NN	pos2=RB	10	compound	_	O
+10	protest	protest	NN	pos2=VBP	5	pobj	_	O
+11	but	but	CC	_	3	cc	_	O
+12	they	they	PRP	_	16	nsubjpass	_	O
+13	nowhere	nowhere	RB	_	16	advmod	_	O
+14	to	to	TO	_	16	aux	_	O
+15	be	be	VB	_	16	auxpass	_	O
+16	found	find	VBN	_	3	conj	_	O
+17	when	when	WRB	_	21	advmod	_	O
+18	the	the	DT	_	19	det	_	O
+19	kkk	kkk	NNP	pos2=NN	21	nsubj	_	U-ORG
+20	is	be	VBZ	_	21	aux	_	O
+21	celebrating	celebrate	VBG	_	16	advcl	_	O
+22	trump	trump	NN	_	24	poss	_	O
+23	's	's	POS	_	22	case	_	O
+24	v	v	NN	pos2=GW	21	dobj	_	O
+25	…	…	NFP	pos2=:	26	punct	_	O
+26	https://t.co/QsE7QMPQiE	#hlink#	ADD	_	3	dep	_	O
+

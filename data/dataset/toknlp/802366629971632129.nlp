@@ -1,0 +1,24 @@
+1	Label	label	NN	_	2	compound	_	O
+2	scan	scan	NN	_	15	advcl	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Bob	bob	NNP	_	5	compound	_	B-PERSON
+5	Dylan	dylan	NNP	_	10	poss	_	I-PERSON
+6	's	's	POS	_	5	case	_	L-PERSON
+7	16th	#ord#	JJ	pos2=RB	10	nmod	_	U-ORDINAL
+8	highest	high	RBS	pos2=JJS	9	advmod	_	O
+9	charting	chart	VBG	_	10	nmod	_	O
+10	single	single	JJ	pos2=NN	11	nmod	_	O
+11	Tonight	tonight	NN	_	2	npadvmod	_	U-TIME
+12	I	I	PRP	_	15	nsubj	_	O
+13	'll	will	MD	_	15	aux	_	O
+14	Be	be	VB	_	15	aux	_	O
+15	Staying	stay	VBG	pos2=NNP	0	root	_	O
+16	Here	here	RB	_	15	advmod	_	O
+17	With	with	IN	_	15	prep	_	O
+18	You	you	PRP	pos2=NNP	17	pobj	_	O
+19	from	from	IN	_	15	prep	_	O
+20	1969	0	CD	_	19	pobj	_	U-CARDINAL
+21	.	.	.	_	15	punct	_	O
+
+1	https://t.co/p5vffjBLdI	#hlink#	ADD	_	0	root	_	U-ORG
+

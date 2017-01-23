@@ -1,0 +1,36 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	wan	wan	VBP	_	0	root	_	O
+3	na	to	TO	_	4	aux	_	O
+4	see	see	VB	_	2	xcomp	_	O
+5	some	some	DT	_	6	det	_	O
+6	memes	meme	NNS	_	4	dobj	_	O
+7	with	with	IN	_	6	prep	_	O
+8	Donald	donald	NNP	_	9	compound	_	B-PERSON
+9	Trump	trump	NNP	_	7	pobj	_	L-PERSON
+10	and	and	CC	_	9	cc	_	O
+11	Mike	mike	NNP	_	12	compound	_	B-PERSON
+12	Pence	penny	NNP	_	9	conj	_	L-PERSON
+13	.	.	.	_	2	punct	_	O
+
+1	Donald	donald	NNP	pos2=NN	4	dep	_	U-PERSON
+2	:	:	:	_	4	punct	_	O
+3	youre	youre	NN	_	4	nsubj	_	O
+4	doin	do	VBZ	pos2=VBG	10	aux	_	O
+5	such	such	PDT	pos2=JJ	9	predet	_	O
+6	a	a	DT	_	9	det	_	O
+7	BRILLIANT	brilliant	JJ	_	9	nmod	_	O
+8	job	job	NN	_	9	compound	_	O
+9	cmon	cmon	NN	pos2=TO	10	nsubj	_	O
+10	lem	lem	VB	pos2=XX	0	root	_	O
+11	me	me	PRP	_	12	nsubj	_	O
+12	give	give	VB	pos2=VBP	10	ccomp	_	O
+13	ya	ya	PRP	pos2=RP	12	dative	_	O
+14	a	a	DT	_	15	det	_	O
+15	kissMike	kissmike	NN	pos2=NNP	12	dobj	_	O
+16	:	:	:	_	10	punct	_	O
+17	haha	haha	UH	_	10	discourse	_	O
+18	no	no	UH	pos2=DT	10	discourse	_	O
+19	.	.	.	_	10	punct	_	O
+
+1	..	..	.	pos2=NFP	0	predet	_	O
+

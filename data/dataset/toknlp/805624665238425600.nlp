@@ -1,0 +1,20 @@
+1	@youcountsheep	@youcountsheep	IN	pos2=SYM	6	prep	_	O
+2	Widescale	widescale	JJ	_	4	nmod	_	O
+3	voter	voter	NN	_	4	compound	_	O
+4	fraud	fraud	NN	_	1	pobj	_	O
+5	would	would	MD	_	6	aux	_	O
+6	leave	leave	VB	_	0	root	_	O
+7	some	some	DT	_	8	det	_	O
+8	evidence	evidence	NN	_	6	dobj	_	O
+9	.	.	.	_	6	punct	_	O
+
+1	Laws	law	NNS	_	5	nsubj	_	O
+2	to	to	TO	_	3	aux	_	O
+3	prevent	prevent	VB	_	1	relcl	_	O
+4	it	it	PRP	_	3	dobj	_	O
+5	are	be	VBP	_	0	root	_	O
+6	blatant	blatant	JJ	_	8	nmod	_	O
+7	voter	voter	NN	_	8	compound	_	O
+8	suppression	suppression	NN	_	5	attr	_	O
+9	.	.	.	_	5	punct	_	O
+

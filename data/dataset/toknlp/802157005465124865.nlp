@@ -1,0 +1,23 @@
+1	"	"	``	_	5	punct	_	O
+2	The	the	DT	_	4	det	_	O
+3	alleged	alleged	JJ	pos2=VBN	4	nmod	_	O
+4	cyberattack	cyberattack	NN	_	5	nsubj	_	O
+5	came	come	VBD	_	0	root	_	O
+6	the	the	DT	_	8	det	_	B-DATE
+7	same	same	JJ	_	8	nmod	_	I-DATE
+8	day	day	NN	_	5	npadvmod	_	L-DATE
+9	that	that	IN	pos2=WDT	14	mark	_	O
+10	Ukrainian	ukrainian	JJ	_	11	nmod	_	U-NORP
+11	President	president	NNP	_	13	compound	_	O
+12	Petro	petro	NNP	_	13	compound	_	B-PERSON
+13	Poroshenko	poroshenko	NNP	_	14	nsubj	_	L-PERSON
+14	met	meet	VBD	_	5	advcl	_	O
+15	with	with	IN	_	14	prep	_	O
+16	EU	eu	NNP	_	17	compound	_	U-ORG
+17	leaders	leader	NNS	_	15	pobj	_	O
+18	for	for	IN	_	14	prep	_	O
+19	a	a	DT	_	20	det	_	O
+20	summ	summ	NN	_	18	pobj	_	O
+21	…	…	NFP	pos2=-LRB-	22	punct	_	O
+22	https://t.co/P4qF60TaJK	#hlink#	ADD	_	17	nmod	_	O
+

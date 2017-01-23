@@ -1,0 +1,17 @@
+1	Evidence	evidence	NN	_	9	nsubj	_	O
+2	from	from	IN	_	1	prep	_	O
+3	#Texas	#texas	NNP	pos2=NNS	5	poss	_	U-ORG
+4	@ContraceptionJl	@contraceptionjl	POS	pos2=NN	3	case	_	O
+5	shows	show	NNS	pos2=VBZ	2	pobj	_	O
+6	support	support	NN	pos2=VBP	9	nsubj	_	O
+7	for	for	IN	_	6	prep	_	O
+8	#abortion	#abortion	NN	pos2=ADD	7	pobj	_	O
+9	grows	grow	VBZ	_	0	root	_	O
+10	as	as	IN	_	13	mark	_	O
+11	#abortion	#abortion	NN	pos2=NNP	12	compound	_	O
+12	laws	law	NNS	_	13	nsubj	_	O
+13	become	become	VBP	pos2=VBN	9	advcl	_	O
+14	more	more	RBR	_	15	advmod	_	O
+15	restrictive	restrictive	JJ	_	13	acomp	_	O
+16	https://t.co/KjzELtkHhy	#hlink#	ADD	pos2=NN	13	dep	_	O
+

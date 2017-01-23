@@ -1,0 +1,19 @@
+1	#Marijuana	#marijuana	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	is	be	VBZ	_	0	root	_	O
+3	medicine	medicine	NN	_	2	attr	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	4	0	CD	pos2=LS	13	dep	_	U-CARDINAL
+2	a	a	DT	_	6	det	_	O
+3	very	very	RB	_	4	advmod	_	O
+4	authoritative	authoritative	JJ	_	6	nmod	_	O
+5	medical	medical	JJ	_	6	nmod	_	O
+6	review	review	NN	_	13	dep	_	O
+7	of	of	IN	_	6	prep	_	O
+8	#cannabis	#cannabis	ADD	pos2=NNS	7	pobj	_	O
+9	https://t.co/9VlyPQTnGT	#hlink#	ADD	pos2=NN	13	dep	_	O
+10	No	no	DT	pos2=NNP	12	det	_	O
+11	Exp	exp	NN	pos2=JJ	12	compound	_	O
+12	date	date	NN	_	13	dep	_	O
+13	https://t.co/5bnrMFchFf	#hlink#	ADD	pos2=NN	0	root	_	O
+

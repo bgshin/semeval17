@@ -1,0 +1,22 @@
+1	@memoxnz	@memoxnz	UH	pos2=NNP	4	discourse	_	O
+2	Yup	yup	UH	pos2=NNP	4	discourse	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	know	know	VBP	_	0	root	_	O
+5	him	him	PRP	_	4	dobj	_	O
+6	so	so	RB	pos2=IN	11	advmod	_	O
+7	why	why	WRB	_	12	advmod	_	O
+8	do	do	VBP	_	12	aux	_	O
+9	n't	not	RB	_	12	neg	_	O
+10	you	you	PRP	_	12	nsubj	_	O
+11	just	just	RB	_	12	advmod	_	O
+12	tweet	tweet	NN	pos2=RB	0	root	_	O
+13	from	from	IN	_	12	prep	_	O
+14	a	a	DT	_	17	det	_	O
+15	huge	huge	JJ	_	17	nmod	_	O
+16	#Hamas	#hamas	NNP	pos2=NNS	17	compound	_	U-ORG
+17	account	account	NN	pos2=VB	13	pobj	_	O
+18	?	?	.	_	4	punct	_	O
+
+1	@eranevenkesef	@eranevenkesef	UH	pos2=SYM	2	discourse	_	O
+2	@HenMazzig	@henmazzig	UH	pos2=NN	0	root	_	O
+

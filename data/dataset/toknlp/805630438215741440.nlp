@@ -1,0 +1,12 @@
+1	Lots	lot	NNS	_	0	root	_	O
+2	and	and	CC	_	1	cc	_	O
+3	lots	lot	NNS	_	1	conj	_	O
+4	of	of	IN	_	3	prep	_	O
+5	Muhammad	muhammad	NNP	_	7	compound	_	B-PERSON
+6	Ali	ali	NNP	_	7	compound	_	I-PERSON
+7	Art	art	NNP	pos2=NN	4	pobj	_	L-PERSON
+8	all	all	RB	pos2=DT	9	advmod	_	O
+9	over	over	IN	_	1	prep	_	O
+10	Basel	basel	NNP	_	9	pobj	_	U-GPE
+11	.	.	.	_	1	punct	_	O
+

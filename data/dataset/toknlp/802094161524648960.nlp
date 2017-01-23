@@ -1,0 +1,17 @@
+1	#NowPlaying	#nowplaying	ADD	pos2=VBG	3	poss	_	O
+2	'	'	POS	pos2=``	1	case	_	O
+3	#OneDirection	#onedirection	NN	pos2=CD	6	dep	_	O
+4	-	-	:	pos2=,	6	punct	_	O
+5	What	what	WP	_	6	nsubj	_	O
+6	Makes	make	VBZ	_	0	root	_	O
+7	You	you	PRP	pos2=NNP	8	nsubj	_	O
+8	Beautiful	beautiful	JJ	pos2=NNP	6	ccomp	_	O
+9	'	'	''	pos2=``	6	punct	_	O
+10	on	on	IN	_	6	prep	_	O
+11	The	the	DT	_	12	det	_	O
+12	Cheese	cheese	NN	pos2=NNP	10	pobj	_	O
+13	.	.	.	_	6	punct	_	O
+
+1	Visit	visit	VB	pos2=NN	0	root	_	O
+2	https://t.co/yB0jLPdetU	#hlink#	ADD	pos2=NN	1	dobj	_	U-ORG
+

@@ -1,0 +1,30 @@
+1	@RountreeBrandon	@rountreebrandon	NNP	pos2=NN	2	nsubj	_	U-ORG
+2	traded	trade	VBD	pos2=VBN	0	root	_	O
+3	a	a	DT	_	4	det	_	O
+4	portion	portion	NN	_	2	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	rotation	rotation	NN	_	5	pobj	_	O
+8	and	and	CC	_	2	cc	_	O
+9	picked	pick	VBD	pos2=VBN	2	conj	_	O
+10	up	up	RP	_	9	prt	_	O
+11	a	a	DT	_	15	det	_	O
+12	fucking	fucking	JJ	pos2=VBG	15	nmod	_	O
+13	short	short	JJ	pos2=NN	15	nmod	_	O
+14	-	-	HYPH	_	15	punct	_	O
+15	stop	stop	NN	pos2=VB	9	dobj	_	O
+16	.	.	.	_	2	punct	_	O
+
+1	What	what	WP	pos2=WDT	4	det	_	O
+2	a	a	DT	_	4	det	_	O
+3	dumb	dumb	JJ	_	4	nmod	_	O
+4	move	move	NN	_	7	dep	_	O
+5	honestly	honestly	RB	_	4	advmod	_	O
+6	,	,	,	_	7	punct	_	O
+7	watch	watch	VB	pos2=VBP	0	root	_	O
+8	Walker	walker	NNP	pos2=NN	9	nsubj	_	U-PERSON
+9	win	win	VB	pos2=VBP	7	ccomp	_	O
+10	Cy	cy	NNP	_	12	compound	_	B-PERSON
+11	Young	young	NNP	pos2=JJ	12	compound	_	L-PERSON
+12	😪	😪	NNP	pos2=NN	9	dobj	_	O
+

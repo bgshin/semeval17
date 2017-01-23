@@ -1,0 +1,15 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	mean	mean	VBP	_	6	parataxis	_	O
+3	,	,	,	_	6	punct	_	O
+4	what	what	WDT	pos2=WP	5	det	_	O
+5	harm	harm	NN	_	6	dobj	_	O
+6	have	have	VBP	_	0	root	_	O
+7	Austrian	austrian	JJ	_	8	nmod	_	U-NORP
+8	rightists	rightist	NNS	_	6	dobj	_	O
+9	ever	ever	RB	_	10	advmod	_	O
+10	caused	cause	VBN	pos2=VBD	8	relcl	_	O
+11	before	before	IN	pos2=RB	10	advmod	_	O
+12	?	?	.	_	6	punct	_	O
+
+1	https://t.co/W3wEErDKzE	#hlink#	ADD	_	0	root	_	U-ORG
+

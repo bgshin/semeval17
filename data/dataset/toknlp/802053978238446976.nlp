@@ -1,0 +1,18 @@
+1	School	school	NN	pos2=NNP	2	compound	_	O
+2	musical	musical	NN	pos2=JJ	3	nsubj	_	O
+3	went	go	VBD	_	0	root	_	O
+4	amazingly	amazingly	RB	_	3	advmod	_	O
+5	!	!	.	_	3	punct	_	O
+
+1	Gon	gon	VBG	pos2=VB	11	nmod	_	O
+2	na	to	TO	pos2=RP	3	aux	_	O
+3	miss	miss	VB	pos2=AFX	1	xcomp	_	O
+4	my	my	PRP$	_	7	poss	_	O
+5	silly	silly	JJ	_	7	nmod	_	O
+6	girl	girl	NN	_	7	compound	_	O
+7	costume	costume	NN	_	3	dobj	_	O
+8	so	so	RB	pos2=IN	11	nmod	_	O
+9	much😭	much😭	GW	pos2=JJ	11	nmod	_	O
+10	#BeautyAndTheBeast	#beautyandthebeast	GW	pos2=ADD	11	nmod	_	O
+11	https://t.co/dpqbGo9cQ7	#hlink#	ADD	pos2=NN	0	root	_	O
+

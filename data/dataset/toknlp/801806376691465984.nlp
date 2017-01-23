@@ -1,0 +1,24 @@
+1	Media	medium	NNS	pos2=NNP	6	nsubj	_	O
+2	connected	connect	VBN	pos2=VBD	1	acl	_	O
+3	to	to	IN	pos2=TO	2	prep	_	O
+4	#Palestinian	#palestinian	NNP	pos2=VB	5	compound	_	B-PERSON
+5	#Hamas	#hamas	NNP	pos2=NNPS	3	pobj	_	L-PERSON
+6	says	say	VBZ	_	0	root	_	O
+7	"	"	``	_	6	punct	_	O
+8	60,000	0	CD	_	9	nmod	_	U-CARDINAL
+9	settlers	settler	NNS	_	11	nsubj	_	O
+10	"	"	''	_	6	punct	_	O
+11	evacuated	evacuate	VBN	_	6	ccomp	_	O
+12	due	due	JJ	pos2=IN	11	oprd	_	O
+13	2	0	CD	_	14	nmod	_	O
+14	fires	fire	NNS	_	12	npadvmod	_	O
+15	in	in	IN	_	14	prep	_	O
+16	#Israel	#israel	NNP	pos2=NN	15	pobj	_	U-GPE
+17	;	;	,	pos2=:	23	punct	_	O
+18	4	0	CD	_	23	dep	_	U-CARDINAL
+19	them	them	PRP	_	23	dep	_	O
+20	every1	every0	NN	pos2=GW	23	nmod	_	O
+21	n	n	GW	pos2=POS	23	nmod	_	O
+22	…	…	GW	pos2=NFP	23	nmod	_	O
+23	https://t.co/rypdx7yj07	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

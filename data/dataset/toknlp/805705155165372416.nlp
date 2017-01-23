@@ -1,0 +1,26 @@
+1	Having	have	VBG	_	2	aux	_	O
+2	learned	learn	VBN	_	14	advcl	_	O
+3	from	from	IN	_	2	prep	_	O
+4	Brexit	brexit	NNP	_	3	pobj	_	O
+5	first	#ord#	RB	_	2	advmod	_	O
+6	&	&	CC	_	2	cc	_	O
+7	then	then	RB	_	8	advmod	_	O
+8	Trumps	trump	VBZ	pos2=NNPS	2	conj	_	O
+9	win	win	NN	pos2=VBP	8	dobj	_	O
+10	,	,	,	_	14	punct	_	O
+11	the	the	DT	_	12	det	_	O
+12	Italians	italian	NNPS	_	14	nsubj	_	U-NORP
+13	have	have	VBP	_	14	aux	_	O
+14	realised	realize	VBN	_	0	root	_	O
+15	what	what	WP	_	16	nsubj	_	O
+16	's	's	VBZ	_	14	ccomp	_	O
+17	at	at	IN	pos2=JJ	16	prep	_	O
+18	stake	stake	NN	_	17	pobj	_	O
+19	,	,	,	_	14	punct	_	O
+20	as	as	IN	_	23	mark	_	O
+21	the	the	DT	_	22	det	_	O
+22	world	world	NN	_	23	nsubj	_	O
+23	awakens	awaken	VBZ	_	14	advcl	_	O
+24	…	…	NFP	pos2=:	23	prep	_	O
+25	https://t.co/mtIFY6I0Kd	#hlink#	ADD	pos2=NN	23	dobj	_	O
+

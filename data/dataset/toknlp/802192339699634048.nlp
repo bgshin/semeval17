@@ -1,0 +1,20 @@
+1	Breaking	breaking	NN	pos2=VBG	4	dep	_	O
+2	:	:	:	_	4	punct	_	O
+3	WikiLeaks	wikileaks	NNP	_	4	nsubj	_	U-ORG
+4	releases	release	VBZ	_	0	root	_	O
+5	The	the	DT	pos2=NNP	7	det	_	O
+6	Yemen	yemen	NNP	_	7	compound	_	O
+7	Files	file	NNPS	pos2=NNP	4	dobj	_	O
+8	.	.	.	_	4	punct	_	O
+
+1	https://t.co/BA25sxT1EG	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@LukeWeAreChange	@lukewearechange	JJ	pos2=NNP	5	nmod	_	O
+4	#Yemen	#yemen	NNP	pos2=NNS	5	compound	_	U-GPE
+5	#UNGA	#unga	NN	pos2=ADD	2	pobj	_	U-TIME
+6	#UN	#un	NNP	pos2=XX	10	compound	_	B-ORG
+7	#Syria	#syria	NNP	pos2=FW	10	compound	_	I-ORG
+8	#Aleppo	#aleppo	NNP	pos2=POS	10	compound	_	I-ORG
+9	#Iraq	#iraq	NNP	pos2=POS	10	compound	_	I-ORG
+10	#Mosul	#mosul	NNP	pos2=.	2	pobj	_	L-ORG
+

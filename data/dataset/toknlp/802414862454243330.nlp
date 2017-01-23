@@ -1,0 +1,11 @@
+1	Sprightliness	sprightliness	NN	pos2=VB	3	nmod	_	O
+2	social	social	JJ	_	3	nmod	_	O
+3	security	security	NN	_	10	dep	_	O
+4	,	,	,	_	3	punct	_	O
+5	gps	gps	NN	pos2=NNS	3	appos	_	O
+6	other	other	JJ	_	7	nmod	_	O
+7	sars	sars	NNS	pos2=NN	3	appos	_	O
+8	:	:	:	_	10	punct	_	O
+9	IOfdvc	iofdvc	-LRB-	pos2=NN	10	punct	_	O
+10	https://t.co/sJSfbjvwMh	#hlink#	ADD	_	0	root	_	O
+

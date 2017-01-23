@@ -1,0 +1,25 @@
+1	Olivia	olivia	NNP	_	2	compound	_	B-PERSON
+2	Newton	newton	NNP	_	3	compound	_	I-PERSON
+3	John	john	NNP	_	18	nsubj	_	L-PERSON
+4	,	,	,	_	18	punct	_	O
+5	If	if	IN	_	7	mark	_	O
+6	Not	not	RB	pos2=NNP	7	neg	_	O
+7	For	for	IN	_	18	advcl	_	O
+8	You	you	PRP	pos2=NNP	7	pobj	_	O
+9	(	(	-LRB-	_	8	punct	_	O
+10	bob	bob	NN	pos2=NNP	11	compound	_	O
+11	Dylan	dylan	NNP	_	8	appos	_	O
+12	)	)	-RRB-	_	8	punct	_	O
+13	,	,	,	_	18	punct	_	O
+14	7	0	CD	_	16	nmod	_	U-CARDINAL
+15	"	"	``	pos2=''	18	punct	_	O
+16	Vinyl	vinyl	NNP	pos2=NN	18	nsubj	_	O
+17	https://t.co/tENZ41g4ih	#hlink#	ADD	pos2=NNP	18	nsubj	_	O
+18	≈	≈	VBZ	pos2=NFP	0	root	_	O
+19	38	0	CD	_	20	nmod	_	B-TIME
+20	hours	hour	NNS	_	24	dep	_	L-TIME
+21	GBP	gbp	NN	_	20	npadvmod	_	O
+22	0.75	0	CD	_	24	dep	_	B-WORK_OF_ART
+23	#BobDylan	#bobdylan	ADD	pos2=NNS	24	dep	_	L-WORK_OF_ART
+24	https://t.co/zfw5JeqV0H	#hlink#	ADD	_	18	dobj	_	O
+

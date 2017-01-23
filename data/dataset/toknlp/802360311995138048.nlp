@@ -1,0 +1,12 @@
+1	@FiendMalik	@fiendmalik	NNP	pos2=XX	3	compound	_	O
+2	Tim	tim	NNP	_	3	compound	_	B-PERSON
+3	Duncan	duncan	NNP	_	7	nsubj	_	L-PERSON
+4	and	and	CC	_	3	cc	_	O
+5	Kareem	kareem	NNP	_	3	conj	_	U-PERSON
+6	both	both	DT	pos2=CC	3	appos	_	O
+7	had	have	VBD	_	0	root	_	O
+8	better	good	JJR	_	9	nmod	_	O
+9	careers	career	NNS	_	7	dobj	_	O
+10	than	than	IN	_	9	prep	_	O
+11	Kobe	kobe	NNP	_	10	pobj	_	U-GPE
+

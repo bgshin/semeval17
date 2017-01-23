@@ -1,0 +1,12 @@
+1	@GinaDameron	@ginadameron	ADD	pos2=NN	3	nmod	_	O
+2	@WaldoWilbur	@waldowilbur	GW	pos2=ADD	0	root	_	O
+3	@realDonaldTrump	@realdonaldtrump	TO	pos2=NN	8	dep	_	O
+4	finally	finally	RB	_	9	advmod	_	O
+5	someone	someone	NN	_	2	attr	_	O
+6	who	who	WP	_	7	nsubj	_	O
+7	understands	understand	VBZ	_	5	relcl	_	O
+8	the	the	DT	_	10	det	_	O
+9	electoral	electoral	JJ	_	10	nmod	_	O
+10	college	college	NN	_	7	dobj	_	O
+11	!	!	.	_	1	punct	_	O
+

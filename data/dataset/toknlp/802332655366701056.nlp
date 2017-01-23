@@ -1,0 +1,26 @@
+1	Operated	operate	VBN	_	0	root	_	O
+2	by	by	IN	_	1	agent	_	O
+3	Imura	imura	NNP	_	4	compound	_	B-ORG
+4	Works	works	NNP	pos2=NNPS	2	pobj	_	I-ORG
+5	of	of	IN	_	4	prep	_	I-ORG
+6	Imura	imura	NNP	_	5	pobj	_	L-ORG
+7	has	have	VBZ	_	9	aux	_	O
+8	been	be	VBN	_	9	aux	_	O
+9	working	work	VBG	_	4	relcl	_	O
+10	to	to	TO	_	11	aux	_	O
+11	protect	protect	VB	_	9	advcl	_	O
+12	the	the	DT	_	13	det	_	O
+13	freedom	freedom	NN	_	11	dobj	_	O
+14	of	of	IN	_	13	prep	_	O
+15	gun	gun	NN	_	16	compound	_	O
+16	rights	right	NNS	_	14	pobj	_	O
+17	and	and	CC	_	13	cc	_	O
+18	3	0	CD	_	19	nmod	_	U-CARDINAL
+19	D	d	NN	pos2=NNP	20	compound	_	O
+20	printing	printing	NN	pos2=VBG	13	conj	_	O
+21	workPlease	workplease	TO	pos2=WDT	22	aux	_	O
+22	support	support	VB	pos2=VBP	11	advcl	_	O
+23	the	the	DT	_	24	det	_	O
+24	activities	activity	NNS	_	22	dobj	_	O
+25	!!	!!	.	_	9	punct	_	O
+

@@ -1,0 +1,21 @@
+1	@realDonaldTrump	@realdonaldtrump	UH	pos2=``	2	discourse	_	O
+2	Remember	remember	VB	_	0	root	_	O
+3	when	when	WRB	_	5	advmod	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	mentioned	mention	VBD	_	2	ccomp	_	O
+6	Wright	wright	NNP	_	8	compound	_	B-ORG
+7	-	-	HYPH	pos2=SYM	8	punct	_	I-ORG
+8	Patterson	patterson	NNP	_	9	compound	_	I-ORG
+9	AFB	afb	NNP	pos2=NN	12	nmod	_	I-ORG
+10	/	/	SYM	pos2=HYPH	12	punct	_	I-ORG
+11	USAF	usaf	NNP	_	12	compound	_	I-ORG
+12	Museum	museum	NNP	pos2=NN	5	dobj	_	L-ORG
+13	on	on	IN	_	5	prep	_	O
+14	the	the	DT	_	16	det	_	O
+15	Campaign	campaign	NNP	pos2=NN	16	compound	_	O
+16	trail	trail	NN	_	13	pobj	_	O
+17	?	?	.	_	2	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/JA3mafDTN6	#hlink#	ADD	pos2=NN	0	root	_	O
+

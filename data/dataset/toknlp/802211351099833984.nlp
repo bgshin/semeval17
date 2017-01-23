@@ -1,0 +1,17 @@
+1	America	america	NNP	pos2=NN	3	nsubj	_	U-GPE
+2	has	have	VBZ	_	3	aux	_	O
+3	done	do	VBN	_	0	root	_	O
+4	exactly	exactly	RB	_	5	advmod	_	O
+5	what	what	WP	pos2=WDT	7	dobj	_	O
+6	Putin	putin	NNP	_	7	nsubj	_	U-PERSON
+7	wants	want	VBZ	_	3	ccomp	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	Are	be	VBP	_	0	root	_	O
+2	n't	not	RB	_	1	neg	_	O
+3	we	we	PRP	_	1	nsubj	_	O
+4	proud	proud	JJ	pos2=VB	1	acomp	_	O
+5	?	?	.	_	1	punct	_	O
+
+1	https://t.co/adZ17xWCUz	#hlink#	ADD	_	0	root	_	U-ORG
+

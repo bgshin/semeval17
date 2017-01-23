@@ -1,0 +1,19 @@
+1	FastBigBowie	fastbigbowie	NNP	pos2=NN	0	root	_	B-ORG
+2	&	&	CC	_	1	cc	_	I-ORG
+3	PunchAction	punchaction	NNP	_	1	conj	_	I-ORG
+4	NotQuickest	notquickest	NNP	pos2=JJS	5	compound	_	I-ORG
+5	#HAMAS	#hamas	NNPS	pos2=ADD	1	appos	_	I-ORG
+6	BegsToBeDestroyedSameAs	begstobedestroyedsameas	NNPS	pos2=NNP	8	compound	_	I-ORG
+7	#ISIS	#isis	NNP	pos2=POS	8	compound	_	I-ORG
+8	VIVA	viva	NNP	pos2=FW	1	appos	_	L-ORG
+9	!	!	.	_	1	punct	_	O
+
+1	Samson	samson	NNP	_	0	root	_	U-PERSON
+2	!	!	.	_	1	punct	_	O
+
+1	#Israel	#israel	NNP	pos2=UH	2	compound	_	B-PERSON
+2	#IStandWithIsrael	#istandwithisrael	NNP	pos2=ADD	0	root	_	L-PERSON
+3	!	!	.	_	2	punct	_	O
+
+1	https://t.co/OyaAOq8Zrl	#hlink#	ADD	_	0	root	_	U-ORG
+

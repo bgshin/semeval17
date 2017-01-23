@@ -1,0 +1,25 @@
+1	Abysmally	abysmally	RB	_	2	advmod	_	O
+2	dumb	dumb	JJ	_	3	nmod	_	O
+3	leftists	leftist	NNS	_	0	root	_	O
+4	.	.	.	_	3	punct	_	O
+
+1	Blind	blind	JJ	_	2	nmod	_	O
+2	sheep	sheep	NN	pos2=NNS	0	root	_	O
+3	aping	ape	VBG	pos2=NN	2	acl	_	O
+4	#Hillary	#hillary	JJ	pos2=PRP$	5	nmod	_	O
+5	propaganda	propaganda	NN	_	3	dobj	_	O
+6	.	.	.	_	2	punct	_	O
+
+1	Trump	trump	NN	pos2=NNP	2	nsubj	_	U-PERSON
+2	has	have	VBZ	_	0	root	_	O
+3	no	no	DT	_	4	det	_	O
+4	history	history	NN	_	2	dobj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	extremism	extremism	NN	_	5	pobj	_	O
+7	in	in	IN	_	4	prep	_	O
+8	his	his	PRP$	_	10	poss	_	O
+9	entire	entire	JJ	_	10	nmod	_	O
+10	lif	lif	NN	pos2=JJ	7	pobj	_	O
+11	…	…	NFP	pos2=-LRB-	12	punct	_	O
+12	https://t.co/Tc52x78AUk	#hlink#	ADD	_	10	appos	_	O
+

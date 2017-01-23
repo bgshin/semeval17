@@ -1,0 +1,11 @@
+1	ca	can	MD	pos2=NN	3	aux	_	O
+2	nt	nt	RB	_	3	advmod	_	O
+3	lie	lie	VB	_	0	root	_	O
+4	tony	tony	JJ	pos2=NNP	5	nmod	_	O
+5	romo	romo	NNP	pos2=NN	6	nsubj	_	O
+6	is	be	VBZ	_	3	ccomp	_	O
+7	a	a	DT	pos2=EX	9	det	_	O
+8	no	no	DT	pos2=NN	9	det	_	O
+9	show	show	NN	_	6	attr	_	O
+10	lol	lol	UH	pos2=NN	3	discourse	_	O
+

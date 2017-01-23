@@ -1,0 +1,23 @@
+1	@MoveOn	@moveon	ADD	pos2=XX	3	advmod	_	O
+2	@RepRaulGrijalva	@repraulgrijalva	NNP	pos2=NN	3	nsubj	_	U-PERSON
+3	Standing	stand	VBG	_	0	root	_	O
+4	against	against	IN	_	3	prep	_	O
+5	what	what	WP	_	4	pobj	_	O
+6	?	?	.	_	3	punct	_	O
+
+1	Steve	steve	NNP	_	2	compound	_	B-PERSON
+2	Bannon	bannon	NNP	_	3	nsubj	_	L-PERSON
+3	has	have	VBZ	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	job	job	NN	_	3	dobj	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	Nothing	nothing	NN	_	0	root	_	O
+2	this	this	DT	_	3	det	_	O
+3	congressman	congressman	NN	_	5	nsubj	_	O
+4	can	can	MD	_	5	aux	_	O
+5	do	do	VB	_	1	relcl	_	O
+6	to	to	TO	_	7	aux	_	O
+7	stop	stop	VB	_	5	advcl	_	O
+8	it	it	PRP	_	7	dobj	_	O
+

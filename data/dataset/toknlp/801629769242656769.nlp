@@ -1,0 +1,27 @@
+1	"	"	``	pos2=SYM	4	punct	_	O
+2	Putin	putin	NNP	_	4	nsubj	_	U-PERSON
+3	only	only	RB	_	4	advmod	_	O
+4	has	have	VBZ	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	sit	sit	VB	_	4	xcomp	_	O
+7	on	on	IN	_	6	prep	_	O
+8	the	the	DT	_	9	det	_	O
+9	fence	fence	NN	_	7	pobj	_	O
+10	and	and	CC	_	6	cc	_	O
+11	wait	wait	VB	_	6	conj	_	O
+12	until	until	IN	_	14	mark	_	O
+13	Ukraine	ukraine	NNP	_	14	nsubj	_	U-GPE
+14	kills	kill	VBZ	_	11	advcl	_	O
+15	itself	itself	PRP	_	14	dobj	_	O
+16	”	"	``	pos2=''	17	punct	_	O
+17	Yeah	yeah	UH	_	14	discourse	_	O
+18	,	,	,	_	17	punct	_	O
+19	or	or	CC	_	17	cc	_	O
+20	until	until	IN	_	24	mark	_	O
+21	Saakashvili	saakashvili	NNP	_	24	nsubj	_	B-ORG
+22	&	&	CC	_	21	cc	_	I-ORG
+23	Tymoshenko	tymoshenko	NNP	_	21	conj	_	L-ORG
+24	do	do	VBP	_	14	advcl	_	O
+25	…	…	NFP	pos2=-LRB-	26	punct	_	O
+26	https://t.co/HvvXFb7o32	#hlink#	ADD	_	24	dobj	_	O
+

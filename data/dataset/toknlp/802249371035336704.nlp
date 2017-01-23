@@ -1,0 +1,13 @@
+1	Straight	straight	JJ	pos2=NNP	2	nmod	_	O
+2	Talk	talk	NN	pos2=NNP	0	root	_	O
+3	with	with	IN	_	2	prep	_	O
+4	Jackie	jackie	NNP	_	5	compound	_	B-PERSON
+5	Cahill	cahill	NNP	_	3	pobj	_	L-PERSON
+6	https://t.co/4qArjK6BtJ	#hlink#	ADD	pos2=POS	4	appos	_	O
+7	#GAA	#gaa	NNP	pos2=ADD	5	npadvmod	_	U-ORG
+8	(	(	-LRB-	_	11	punct	_	O
+9	via	via	IN	_	2	prep	_	O
+10	Tipp	tipp	NNP	_	11	compound	_	B-ORG
+11	FM	fm	NNP	pos2=FW	9	pobj	_	L-ORG
+12	)	)	-RRB-	_	2	punct	_	O
+

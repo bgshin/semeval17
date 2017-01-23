@@ -1,0 +1,14 @@
+1	Entertainment	entertainment	NN	_	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	Chinese	chinese	JJ	_	4	nmod	_	U-NORP
+4	websites	website	NNS	_	6	compound	_	O
+5	block	block	NN	pos2=VBP	6	compound	_	O
+6	searche	searche	NN	_	0	root	_	O
+7	..	..	.	pos2=,	6	punct	_	O
+
+1	#TISNews	#tisnews	NNP	pos2=VBZ	2	compound	_	O
+2	Link	link	NNP	pos2=NN	5	dep	_	O
+3	-	-	:	pos2=GW	5	punct	_	O
+4	https://t.co/aJsIMfUk7h	#hlink#	ADD	_	5	nmod	_	O
+5	https://t.co/65aQtxsowM	#hlink#	ADD	_	0	root	_	U-ORG
+

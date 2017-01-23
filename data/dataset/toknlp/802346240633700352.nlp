@@ -1,0 +1,26 @@
+1	Instead	instead	RB	_	2	advmod	_	O
+2	of	of	IN	_	15	prep	_	O
+3	being	be	VBG	_	4	auxpass	_	O
+4	aghast	aghast	VBN	pos2=JJ	2	pcomp	_	O
+5	at	at	IN	_	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	spectacle	spectacle	NN	_	5	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	Trump	trump	NNP	pos2=NN	11	poss	_	U-ORG
+10	's	's	POS	_	9	case	_	O
+11	transition	transition	NN	_	8	pobj	_	O
+12	,	,	,	_	15	punct	_	O
+13	liberals	liberal	NNS	_	15	nsubj	_	O
+14	should	should	MD	_	15	aux	_	O
+15	try	try	VB	_	0	root	_	O
+16	a	a	DT	_	21	det	_	O
+17	more	more	JJR	pos2=RBR	21	nmod	_	O
+18	level	level	NN	_	20	npadvmod	_	O
+19	-	-	HYPH	_	20	punct	_	O
+20	headed	head	VBN	_	21	nmod	_	O
+21	approach	approach	NN	_	15	dobj	_	O
+22	.	.	.	_	15	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/rwjdMwO5SX	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,27 @@
+1	Google	google	NNP	_	2	compound	_	B-ORG
+2	Earth	earth	NNP	_	6	nsubj	_	L-ORG
+3	in	in	IN	_	2	prep	_	O
+4	VR	vr	NNP	pos2=NN	3	pobj	_	U-ORG
+5	,	,	,	_	6	punct	_	O
+6	interesting	interesting	JJ	_	0	root	_	O
+7	...	..	.	_	6	punct	_	O
+
+1	But	but	CC	_	5	cc	_	O
+2	I	I	PRP	_	5	nsubj	_	O
+3	'm	be	VBP	_	5	aux	_	O
+4	still	still	RB	_	5	advmod	_	O
+5	waiting	wait	VBG	_	0	root	_	O
+6	for	for	IN	_	5	prep	_	O
+7	the	the	DT	_	10	det	_	O
+8	true	true	JJ	_	10	nmod	_	O
+9	killer	killer	NN	_	10	compound	_	O
+10	applications	application	NNS	_	6	pobj	_	O
+11	.	.	.	_	5	punct	_	O
+
+1	Possibiities	possibiities	NNS	pos2=NNPS	2	nsubj	_	O
+2	are	be	VBP	_	0	root	_	O
+3	endless	endless	JJ	_	2	acomp	_	O
+4	.	.	.	_	2	punct	_	O
+
+1	https://t.co/7pZ5SMUDNH	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,25 @@
+1	@SlazoYT	@slazoyt	NNP	pos2=ADD	5	prep	_	U-PERSON
+2	"	"	``	pos2=''	6	punct	_	O
+3	the	the	DT	_	4	det	_	O
+4	times	time	NNS	_	9	npadvmod	_	O
+5	they	they	PRP	_	6	nsubj	_	O
+6	are	be	VBP	_	4	relcl	_	O
+7	a	a	DT	pos2=``	8	det	_	O
+8	changin	changin	NN	pos2=NNP	6	attr	_	O
+9	'	'	''	pos2=NN	17	punct	_	O
+10	"	"	''	pos2=``	17	punct	_	O
+11	by	by	IN	_	8	prep	_	O
+12	bob	bob	NNP	pos2=FW	13	compound	_	O
+13	dylan	dylan	NNP	_	11	pobj	_	O
+14	,	,	,	_	17	punct	_	O
+15	"	"	``	pos2=''	17	punct	_	O
+16	the	the	DT	_	17	det	_	O
+17	watchtower	watchtower	NN	_	20	nmod	_	O
+18	"	"	''	pos2=``	17	punct	_	O
+19	Bobbi	bobbi	NNP	_	20	compound	_	B-PERSON
+20	Hendrix	hendrix	NNP	_	0	root	_	L-PERSON
+21	,	,	,	_	20	punct	_	O
+22	n	n	NNP	pos2=IN	24	compound	_	O
+23	Phil	phil	NNP	_	24	compound	_	B-PERSON
+24	Collins	collins	NNP	_	20	conj	_	L-PERSON
+

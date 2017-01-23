@@ -1,0 +1,17 @@
+1	The	the	DT	_	2	det	_	O
+2	latest	late	JJS	_	5	nsubj	_	O
+3	The	the	DT	_	6	det	_	B-ORG
+4	TC	tc	NNP	pos2=NN	6	compound	_	I-ORG
+5	Apologetics	apologetics	NNP	pos2=NNPS	6	compound	_	I-ORG
+6	Daily	daily	NNP	pos2=RB	0	root	_	L-ORG
+7	!	!	.	_	2	punct	_	O
+
+1	https://t.co/GhfHJWzNR8	#hlink#	ADD	pos2=NN	0	root	_	O
+2	Thanks	thanks	NNS	pos2=NN	1	npadvmod	_	O
+3	to	to	IN	_	2	prep	_	O
+4	@FreemarketJay	@freemarketjay	VB	pos2=NNP	3	pcomp	_	O
+5	@DrCraigAEvans	@drcraigaevans	NNS	pos2=NNPS	4	dobj	_	U-DATE
+6	@BreakPointCC	@breakpointcc	ADD	pos2=XX	8	det	_	O
+7	#euthanasia	#euthanasia	UH	pos2=FW	6	discourse	_	O
+8	#harvard	#harvard	UH	pos2=NN	1	discourse	_	O
+

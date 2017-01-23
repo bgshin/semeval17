@@ -1,0 +1,16 @@
+1	Google	google	NNP	_	3	compound	_	B-ORG
+2	Earth	earth	NNP	_	3	compound	_	I-ORG
+3	VR	vr	NNP	pos2=NN	4	nsubj	_	L-ORG
+4	is	be	VBZ	_	0	root	_	O
+5	awesome	awesome	JJ	_	6	advmod	_	O
+6	crazy	crazy	JJ	_	4	acomp	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	via	via	IN	_	7	nmod	_	O
+2	/	/	SYM	pos2=,	7	punct	_	O
+3	r	r	VB	pos2=NNS	7	nmod	_	O
+4	/	/	SYM	pos2=GW	7	punct	_	O
+5	Vive	vive	GW	pos2=FW	7	nmod	_	O
+6	https://t.co/WnjpanFMhg	#hlink#	ADD	pos2=GW	7	nmod	_	O
+7	https://t.co/BDwkn151ri	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

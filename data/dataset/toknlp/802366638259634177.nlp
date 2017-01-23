@@ -1,0 +1,24 @@
+1	Several	several	JJ	_	3	nmod	_	O
+2	media	medium	NNS	pos2=NN	3	compound	_	O
+3	outlets	outlet	NNS	_	4	nsubj	_	O
+4	say	say	VBP	_	0	root	_	O
+5	the	the	DT	_	6	det	_	O
+6	same	same	JJ	_	4	ccomp	_	O
+7	.	.	.	_	4	punct	_	O
+
+1	A	a	DT	_	2	det	_	O
+2	member	member	NN	_	7	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	his	his	PRP$	_	6	poss	_	O
+5	transition	transition	NN	_	6	compound	_	O
+6	team	team	NN	_	3	pobj	_	O
+7	tells	tell	VBZ	_	0	root	_	O
+8	critics	critic	NNS	_	7	dobj	_	O
+9	to	to	TO	_	10	aux	_	O
+10	get	get	VB	_	7	xcomp	_	O
+11	a	a	DT	_	12	det	_	O
+12	life	life	NN	_	10	dobj	_	O
+13	.	.	.	_	7	punct	_	O
+
+1	https://t.co/ZoegQASSGz	#hlink#	ADD	_	0	root	_	U-ORG
+

@@ -1,0 +1,20 @@
+1	Anti	anti	AFX	pos2=RB	3	advmod	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	#Trump	#trump	NNP	pos2=NN	4	compound	_	O
+4	Riots	riot	NNS	pos2=NNPS	5	nsubj	_	O
+5	are	be	VBP	_	0	root	_	O
+6	a	a	DT	_	8	det	_	O
+7	Smoke	smoke	NNP	pos2=NN	8	compound	_	O
+8	Screen	screen	NN	pos2=NNP	5	attr	_	O
+9	for	for	IN	_	8	prep	_	O
+10	an	an	DT	_	11	det	_	O
+11	attempt	attempt	NN	_	9	pobj	_	O
+12	by	by	IN	_	11	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	#RadicalLeft	#radicalleft	NN	pos2=NNP	12	pobj	_	O
+15	to	to	TO	_	16	aux	_	O
+16	steamroll	steamroll	VB	_	11	acl	_	O
+17	#Constitution	#constitution	NNP	pos2=GW	16	dobj	_	B-PERSON
+18	#ElectoralCollege	#electoralcollege	ADD	pos2=GW	19	punct	_	L-PERSON
+19	https://t.co/56e7GHOUfG	#hlink#	ADD	_	5	dep	_	O
+

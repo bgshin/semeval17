@@ -1,0 +1,14 @@
+1	So	so	RB	_	2	advmod	_	O
+2	TRUE	true	JJ	_	0	root	_	O
+3	!!	!!	.	_	2	punct	_	O
+
+1	#NeverRomney	#neverromney	NNP	pos2=UH	2	nsubj	_	O
+2	Reject	reject	VB	pos2=VBP	0	root	_	O
+3	ROMNEY	romney	NNP	pos2=NN	2	dobj	_	U-PERSON
+4	!!!	!!	.	_	2	punct	_	O
+
+1	@realDonaldTrump	@realdonaldtrump	ADD	pos2=XX	4	nmod	_	O
+2	@EricTrump	@erictrump	GW	pos2=XX	4	nmod	_	B-PERSON
+3	@mike_pence	@mike_pence	GW	pos2=ADD	4	nmod	_	L-PERSON
+4	https://t.co/fjtu3bsQ0w	#hlink#	ADD	pos2=NN	0	root	_	O
+

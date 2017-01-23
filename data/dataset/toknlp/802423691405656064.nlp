@@ -1,0 +1,24 @@
+1	@greenhousenyt	@greenhousenyt	UH	pos2=VB	5	discourse	_	O
+2	@GreatDismal	@greatdismal	JJ	pos2=ADD	4	nmod	_	O
+3	@NPR	@npr	JJ	pos2=NN	4	nmod	_	O
+4	conservatives	conservative	NNS	_	0	appos	_	O
+5	used	use	VBN	pos2=VBD	4	acl	_	O
+6	to	to	TO	pos2=IN	7	aux	_	O
+7	pride	pride	VB	_	5	xcomp	_	O
+8	themselves	themselves	PRP	_	7	dobj	_	O
+9	on	on	IN	pos2=RP	7	prep	_	O
+10	being	be	VBG	_	11	auxpass	_	O
+11	grounded	ground	VBN	_	9	pcomp	_	O
+12	,	,	,	_	20	punct	_	O
+13	practical	practical	JJ	pos2=UH	20	nmod	_	O
+14	,	,	,	_	20	punct	_	O
+15	down	down	RB	pos2=IN	11	advmod	_	O
+16	to	to	IN	_	15	prep	_	O
+17	earth	earth	NN	_	16	pobj	_	O
+18	,	,	,	_	17	punct	_	O
+19	not	not	RB	_	20	neg	_	O
+20	fantasists	fantasist	NNS	_	17	appos	_	O
+21	.	.	.	_	20	punct	_	O
+
+1	#change	#change	UH	pos2=XX	0	root	_	O
+

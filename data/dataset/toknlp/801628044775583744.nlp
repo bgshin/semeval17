@@ -1,0 +1,30 @@
+1	#Saakashvilli	#saakashvilli	NNS	pos2=NNP	7	nsubj	_	O
+2	,	,	,	_	7	punct	_	O
+3	like	like	IN	pos2=UH	7	prep	_	O
+4	#Tymoshenko	#tymoshenko	NNP	pos2=CD	3	pobj	_	U-GPE
+5	,	,	,	_	7	punct	_	O
+6	is	be	VBZ	_	7	aux	_	O
+7	looking	look	VBG	_	0	root	_	O
+8	out	out	RP	_	7	prt	_	O
+9	for	for	IN	_	7	prep	_	O
+10	#	#	NN	_	9	pobj	_	O
+11	1	0	CD	_	10	nmod	_	U-MONEY
+12	,	,	,	_	7	punct	_	O
+13	and	and	CC	_	7	cc	_	O
+14	not	not	RB	_	17	neg	_	O
+15	the	the	DT	_	17	det	_	O
+16	best	good	JJS	_	17	nmod	_	O
+17	interests	interest	NNS	_	22	prep	_	O
+18	of	of	IN	_	17	prep	_	O
+19	#Ukraine	#ukraine	NNP	pos2=NN	18	pobj	_	U-NORP
+20	or	or	CC	_	19	cc	_	O
+21	Ukrainians	ukrainian	NNPS	pos2=NNP	19	conj	_	U-NORP
+22	.	.	.	_	7	punct	_	O
+
+1	https	http	NNS	pos2=NN	6	dep	_	O
+2	:	:	:	_	6	punct	_	O
+3	//	//	NFP	pos2=-LRB-	6	punct	_	O
+4	t.co	#hlink#	ADD	pos2=NN	6	nmod	_	O
+5	/	/	SYM	pos2=-RRB-	6	punct	_	O
+6	lzFhWxzLCf	lzfhwxzlcf	NN	pos2=ADD	0	root	_	O
+

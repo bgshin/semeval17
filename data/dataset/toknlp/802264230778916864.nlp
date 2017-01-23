@@ -1,0 +1,13 @@
+1	Tim	tim	NNP	_	2	compound	_	B-PERSON
+2	Duncan	duncan	NNP	_	0	root	_	L-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	Gregg	gregg	NNP	_	5	compound	_	B-PERSON
+5	Popovich	popovich	NNP	_	2	conj	_	L-PERSON
+6	.	.	.	_	2	punct	_	O
+
+1	Two	#crd#	CD	_	2	nmod	_	U-CARDINAL
+2	legends	legend	NNS	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	https://t.co/qMrlmYWxHP	#hlink#	ADD	_	0	root	_	U-ORG
+

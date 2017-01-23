@@ -1,0 +1,14 @@
+1	Walker	walker	NNP	pos2=NN	2	nsubj	_	U-PERSON
+2	is	be	VBZ	_	0	root	_	O
+3	1	0	CD	_	4	nmod	_	B-DATE
+4	year	year	NN	pos2=NNS	5	npadvmod	_	L-DATE
+5	away	away	RB	_	2	advmod	_	O
+6	from	from	IN	_	5	prep	_	O
+7	being	be	VBG	_	6	pcomp	_	O
+8	a	a	DT	_	13	det	_	O
+9	legit	legit	JJ	_	13	nmod	_	O
+10	Cy	cy	NNP	pos2=NN	11	compound	_	O
+11	Young	young	NNP	pos2=JJ	12	compound	_	O
+12	caliber	caliber	NN	_	13	compound	_	O
+13	pitcher	pitcher	NN	_	7	attr	_	O
+

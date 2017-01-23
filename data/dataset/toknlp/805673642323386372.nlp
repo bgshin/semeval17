@@ -1,0 +1,21 @@
+1	@anthraxxxx	@anthraxxxx	UH	pos2=VB	5	discourse	_	O
+2	yes	yes	UH	_	5	discourse	_	O
+3	yes	yes	UH	_	5	discourse	_	O
+4	,	,	,	_	5	punct	_	O
+5	call	call	VB	_	0	root	_	O
+6	the	the	DT	_	7	det	_	O
+7	bomoh	bomoh	NN	_	5	dobj	_	O
+8	all	all	DT	pos2=RB	5	oprd	_	O
+9	.	.	.	_	5	punct	_	O
+
+1	use	use	VB	pos2=NN	0	root	_	O
+2	homeopathy	homeopathy	NN	_	1	dobj	_	O
+3	for	for	IN	_	1	prep	_	O
+4	the	the	DT	_	6	det	_	O
+5	extreme	extreme	JJ	pos2=NN	6	nmod	_	O
+6	illnesses	illness	NNS	_	3	pobj	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	bagus	bagus	FW	pos2=CD	2	nmod	_	O
+2	sangat	sangat	NN	pos2=FW	0	root	_	O
+

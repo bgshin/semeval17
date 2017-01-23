@@ -1,0 +1,10 @@
+1	Vice	vice	NNP	pos2=NN	2	compound	_	O
+2	President	president	NNP	_	9	dep	_	O
+3	Mike	mike	NNP	_	6	nmod	_	B-WORK_OF_ART
+4	"	"	``	pos2=''	6	punct	_	I-WORK_OF_ART
+5	Fag	fag	NNP	_	6	compound	_	I-WORK_OF_ART
+6	Punisher	punisher	NNP	_	9	dep	_	I-WORK_OF_ART
+7	"	"	''	_	6	punct	_	L-WORK_OF_ART
+8	Pence	penny	NNP	pos2=GW	9	nmod	_	O
+9	https://t.co/GfqIIw7vEt	#hlink#	ADD	_	0	root	_	O
+

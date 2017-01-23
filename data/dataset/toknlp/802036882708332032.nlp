@@ -1,0 +1,20 @@
+1	Fell	fall	VBD	pos2=NNP	17	advcl	_	O
+2	into	into	IN	_	1	prep	_	O
+3	a	a	DT	_	7	det	_	O
+4	david	david	FW	pos2=NNP	7	nmod	_	O
+5	blaine	blaine	NN	pos2=NNP	7	compound	_	O
+6	rabbit	rabbit	NN	_	7	compound	_	O
+7	hole	hole	NN	_	2	pobj	_	O
+8	and	and	CC	_	1	cc	_	O
+9	watched	watch	VBD	pos2=VBN	1	conj	_	O
+10	the	the	DT	_	13	det	_	O
+11	most	most	RBS	_	12	advmod	_	O
+12	recent	recent	JJ	_	13	nmod	_	O
+13	one	#crd#	NN	pos2=CD	9	dobj	_	O
+14	and	and	CC	_	17	cc	_	O
+15	this	this	DT	_	16	det	_	O
+16	guy	guy	NN	_	17	nsubj	_	O
+17	is	be	VBZ	_	0	root	_	O
+18	just	just	RB	_	19	advmod	_	O
+19	amazing	amazing	JJ	_	17	acomp	_	O
+

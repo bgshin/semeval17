@@ -1,0 +1,17 @@
+1	As	as	IN	_	6	prep	_	O
+2	Wildfires	wildfires	NNP	pos2=NNS	3	compound	_	O
+3	Rage	rage	NNP	pos2=NN	1	pobj	_	O
+4	,	,	,	_	6	punct	_	O
+5	Israel	israel	NNP	_	6	nsubj	_	U-GPE
+6	Suggests	suggest	VBZ	_	0	root	_	O
+7	Arson	arson	NN	pos2=NNP	6	dobj	_	O
+8	and	and	CC	_	6	cc	_	O
+9	Asks	ask	VBZ	pos2=NNP	6	conj	_	O
+10	for	for	IN	_	9	prep	_	O
+11	Foreign	foreign	JJ	pos2=NNP	12	nmod	_	O
+12	Helphttps://t.co/IAaI45nKju	#hlink#	ADD	pos2=NN	10	pobj	_	O
+13	#tcot	#tcot	IN	pos2=-RRB-	9	prep	_	O
+14	#uniteblue	#uniteblue	UH	pos2=VB	13	discourse	_	O
+15	#IsraelUnderAttack	#israelunderattack	ADD	pos2=VB	16	nmod	_	O
+16	#IsraelNews	#israelnews	NNS	pos2=ADD	13	pobj	_	O
+

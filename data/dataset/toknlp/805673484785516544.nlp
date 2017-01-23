@@ -1,0 +1,18 @@
+1	@Nuchole	@nuchole	NNP	pos2=MD	3	nsubj	_	U-ORG
+2	also	also	RB	_	3	advmod	_	O
+3	look	look	VB	pos2=VBD	0	root	_	O
+4	up	up	RP	pos2=IN	3	prt	_	O
+5	the	the	DT	_	7	det	_	O
+6	polio	polio	NN	_	7	compound	_	O
+7	epidemic	epidemic	NN	_	3	dobj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	Makes	make	VBZ	_	0	root	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	realize	realize	VB	pos2=VBP	1	ccomp	_	O
+4	how	how	WRB	_	5	advmod	_	O
+5	essential	essential	JJ	_	6	nmod	_	O
+6	vaccines	vaccine	NNS	_	7	nsubj	_	O
+7	are	be	VBP	_	3	ccomp	_	O
+8	.	.	.	_	1	punct	_	O
+

@@ -1,0 +1,17 @@
+1	There	there	EX	_	2	expl	_	O
+2	was	be	VBD	_	0	root	_	O
+3	over	over	RB	pos2=IN	2	advmod	_	O
+4	400	0	CD	_	3	npadvmod	_	O
+5	on	on	IN	_	2	prep	_	O
+6	Day	day	NN	pos2=NNP	5	pobj	_	B-DATE
+7	2	0	CD	_	6	nmod	_	L-DATE
+8	of	of	IN	_	6	prep	_	O
+9	the	the	DT	_	11	det	_	O
+10	anti-Trump	anti-trump	JJ	_	11	nmod	_	O
+11	riots	riot	NNS	_	8	pobj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	Portland	portland	NNP	_	12	pobj	_	U-GPE
+14	.	.	.	_	2	punct	_	O
+
+1	https://t.co/jzUiz5Hzhr	#hlink#	ADD	_	0	root	_	U-ORG
+

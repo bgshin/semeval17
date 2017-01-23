@@ -1,0 +1,21 @@
+1	@BrieAggressive	@brieaggressive	NNP	pos2=UH	4	vocative	_	U-DATE
+2	They	they	PRP	_	4	nsubj	_	O
+3	'd	would	MD	pos2=VBD	4	aux	_	O
+4	look	look	VB	_	0	root	_	O
+5	kinda	kinda	RB	_	6	advmod	_	O
+6	cute	cute	JJ	_	4	acomp	_	O
+7	together	together	RB	pos2=NN	4	advmod	_	O
+8	and	and	CC	_	4	cc	_	O
+9	atleast	atleast	RB	_	11	advmod	_	O
+10	she	she	PRP	_	11	nsubj	_	O
+11	's	's	VBZ	_	4	conj	_	O
+12	not	not	RB	_	11	neg	_	O
+13	a	a	DT	_	15	det	_	O
+14	racist	racist	JJ	_	15	nmod	_	O
+15	nazi	nazi	NN	pos2=NNS	11	attr	_	O
+16	so	so	IN	pos2=RB	18	mark	_	O
+17	that	that	DT	_	18	nsubj	_	O
+18	's	's	VBZ	_	11	advcl	_	O
+19	an	an	DT	_	20	det	_	O
+20	upgrade	upgrade	NN	_	18	attr	_	O
+

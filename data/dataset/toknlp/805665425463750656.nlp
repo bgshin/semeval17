@@ -1,0 +1,20 @@
+1	Y'all	y'all	PRP	pos2=MD	3	nsubj	_	O
+2	be	be	VB	pos2=VBP	3	aux	_	O
+3	voting	vote	VBG	pos2=NN	0	root	_	O
+4	to	to	TO	pos2=IN	5	aux	_	O
+5	raise	raise	VB	_	3	xcomp	_	O
+6	minimum	minimum	JJ	pos2=NN	7	nmod	_	O
+7	wage	wage	NN	_	5	dobj	_	O
+8	,	,	,	_	10	punct	_	O
+9	then	then	RB	_	10	advmod	_	O
+10	complain	complain	VB	pos2=VBP	0	root	_	O
+11	that	that	IN	_	15	mark	_	O
+12	McDonalds	mcdonalds	NNP	_	15	nsubj	_	U-ORG
+13	do	do	VBP	_	15	aux	_	O
+14	n't	not	RB	_	15	neg	_	O
+15	have	have	VB	_	10	ccomp	_	O
+16	a	a	DT	_	19	det	_	O
+17	dollar	dollar	NN	_	18	compound	_	O
+18	menu	menu	NN	_	19	compound	_	O
+19	😂😂	😂😂	NN	pos2=.	15	dobj	_	O
+

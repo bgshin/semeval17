@@ -1,0 +1,6 @@
+1	Adventures	adventure	NNS	pos2=VBZ	5	dep	_	O
+2	in	in	IN	_	1	prep	_	O
+3	Vegetarianism	vegetarianism	NNP	pos2=NN	2	pobj	_	O
+4	https://t.co/7Zh7vW4hm8	#hlink#	ADD	_	5	nmod	_	O
+5	https://t.co/lqhocmfIWz	#hlink#	ADD	_	0	root	_	U-ORG
+

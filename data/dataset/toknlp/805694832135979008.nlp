@@ -1,0 +1,18 @@
+1	#CubsTalk	#cubstalk	ADD	pos2=VB	4	compound	_	O
+2	#Cubbies	#cubbies	NNS	pos2=VBZ	7	nsubj	_	O
+3	#CubsNation	#cubsnation	ADD	pos2=NN	4	compound	_	O
+4	#Signed	#signed	NNP	pos2=VBD	6	compound	_	B-ORG
+5	Chicago	chicago	NNP	_	6	compound	_	I-ORG
+6	Cubs	cub	NNPS	pos2=NNP	0	root	_	L-ORG
+7	autographed	autograph	VBD	pos2=JJ	11	nmod	_	O
+8	official	official	JJ	pos2=NN	11	nmod	_	O
+9	Major	major	NNP	_	10	compound	_	B-ORG
+10	League	league	NNP	pos2=NN	11	compound	_	L-ORG
+11	team	team	NN	_	14	compound	_	O
+12	world	world	NN	pos2=NNP	13	compound	_	O
+13	series	series	NN	pos2=NNS	14	compound	_	O
+14	basebal	basebal	NN	pos2=RB	6	appos	_	O
+15	...	..	.	pos2=,	1	punct	_	O
+
+1	https://t.co/l9D6PaNhn1	#hlink#	ADD	_	0	root	_	U-ORG
+

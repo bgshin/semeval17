@@ -1,0 +1,9 @@
+1	didi	didi	NN	pos2=JJ	2	compound	_	O
+2	pickles	pickle	NNS	pos2=VBZ	4	nsubj	_	O
+3	definitely	definitely	RB	_	4	advmod	_	O
+4	believes	believe	VBZ	_	0	root	_	O
+5	that	that	IN	_	7	mark	_	O
+6	vaccines	vaccine	NNS	pos2=JJ	7	nsubj	_	O
+7	cause	cause	VBP	pos2=VB	4	ccomp	_	O
+8	autism	autism	NN	_	7	dobj	_	O
+

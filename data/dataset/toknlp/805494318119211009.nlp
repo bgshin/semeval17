@@ -1,0 +1,6 @@
+1	animal	animal	NN	_	2	compound	_	O
+2	testing	testing	NN	_	5	nsubj	_	O
+3	would	would	MD	_	5	aux	_	O
+4	finally	finally	RB	_	5	advmod	_	O
+5	end	end	VB	_	0	root	_	O
+

@@ -1,0 +1,14 @@
+1	slightly	slightly	RB	_	2	advmod	_	O
+2	upset	upset	JJ	pos2=VBD	4	nmod	_	O
+3	Zac	zac	NNP	_	4	compound	_	B-PERSON
+4	Efron	efron	NNP	_	7	nsubj	_	L-PERSON
+5	is	be	VBZ	_	7	aux	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	playing	play	VBG	_	0	root	_	O
+8	his	his	PRP$	_	9	poss	_	O
+9	character	character	NN	_	7	dobj	_	O
+10	in	in	IN	_	7	prep	_	O
+11	Hairspray	hairspray	NNP	_	10	pobj	_	U-WORK_OF_ART
+12	live	live	RB	pos2=VBP	7	advmod	_	O
+13	..	..	.	pos2=:	7	punct	_	O
+

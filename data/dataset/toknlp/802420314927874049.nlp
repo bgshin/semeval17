@@ -1,0 +1,31 @@
+1	@shanselman	@shanselman	UH	pos2=NN	12	discourse	_	O
+2	when	when	WRB	_	9	advmod	_	O
+3	3	0	CD	pos2=DT	4	nmod	_	U-CARDINAL
+4	D	d	NN	pos2=NNP	6	compound	_	O
+5	printing	printing	NN	pos2=VBG	6	compound	_	O
+6	metal	metal	NN	_	9	nsubjpass	_	O
+7	is	be	VBZ	_	9	auxpass	_	O
+8	reasonably	reasonably	RB	_	9	advmod	_	O
+9	priced	price	VBN	pos2=JJ	12	advcl	_	O
+10	I	I	PRP	_	12	nsubj	_	O
+11	'll	will	MD	_	12	aux	_	O
+12	be	be	VB	_	0	root	_	O
+13	all	all	RB	pos2=DT	14	advmod	_	O
+14	over	over	IN	_	12	prep	_	O
+15	it	it	PRP	_	14	pobj	_	O
+16	to	to	TO	pos2=IN	17	aux	_	O
+17	print	print	VB	pos2=NN	12	xcomp	_	O
+18	bespoke	bespoke	JJ	_	19	nmod	_	O
+19	parts	part	NNS	_	17	dobj	_	O
+20	.	.	.	_	12	punct	_	O
+
+1	Do	do	VB	pos2=VBP	4	aux	_	O
+2	plastic	plastic	JJ	pos2=NN	3	nmod	_	O
+3	parts	part	NNS	_	4	nsubj	_	O
+4	stand	stand	VBP	pos2=VB	0	root	_	O
+5	up	up	RP	pos2=RB	4	prt	_	O
+6	to	to	TO	pos2=IN	8	aux	_	O
+7	daily	daily	RB	pos2=JJ	8	advmod	_	O
+8	use	use	VB	pos2=NN	4	advcl	_	O
+9	?	?	.	_	4	punct	_	O
+

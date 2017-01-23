@@ -1,0 +1,9 @@
+1	Thanksgiving	thanksgiving	NNP	pos2=NN	2	compound	_	U-DATE
+2	food	food	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	better	good	JJR	pos2=RBR	3	acomp	_	O
+5	the	the	DT	_	7	det	_	B-DATE
+6	second	#ord#	JJ	_	7	nmod	_	I-DATE
+7	day	day	NN	_	3	npadvmod	_	L-DATE
+8	🦃😍	🦃😍	.	pos2=NNP	3	punct	_	O
+

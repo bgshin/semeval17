@@ -1,0 +1,14 @@
+1	President	president	NNP	pos2=NN	3	compound	_	O
+2	-	-	HYPH	_	3	punct	_	O
+3	elect	elect	NNP	_	4	compound	_	O
+4	Trump	trump	NNP	pos2=NN	7	poss	_	U-ORG
+5	’s	's	POS	_	4	case	_	O
+6	Transition	transition	NNP	pos2=NN	7	compound	_	B-ORG
+7	Team	team	NNP	pos2=NN	8	nsubj	_	L-ORG
+8	encourages	encourage	VBZ	_	0	root	_	O
+9	people	people	NNS	_	8	dobj	_	O
+10	to	to	TO	_	11	aux	_	O
+11	send	send	VB	_	8	xcomp	_	O
+12	suggestions	suggestion	NNS	_	11	dobj	_	O
+13	https://t.co/HzEUlzBvmL	#hlink#	ADD	_	11	dobj	_	O
+

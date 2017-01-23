@@ -1,0 +1,14 @@
+1	https://t.co/KTk7C3uncC	#hlink#	ADD	_	3	nsubj	_	O
+2	WHOEVR	whoevr	WP	pos2=NN	3	nsubj	_	U-ORG
+3	KILLS	kill	VBZ	_	5	csubj	_	O
+4	LEO	leo	NNP	pos2=NN	5	nsubj	_	O
+5	DESERVES	deserve	VBZ	_	0	root	_	O
+6	DEATH	death	NN	_	7	compound	_	O
+7	PENALTY	penalty	NN	_	5	dobj	_	O
+8	@realDonaldTrump	@realdonaldtrump	XX	pos2=NN	13	nmod	_	O
+9	@mike_pence	@mike_pence	XX	pos2=IN	13	nmod	_	O
+10	@GOP	@gop	XX	pos2=NFP	13	nmod	_	O
+11	@SheriffClarke	@sheriffclarke	XX	pos2=ADD	13	nmod	_	O
+12	@TGowdySC	@tgowdysc	XX	pos2=ADD	13	nmod	_	O
+13	@SenatorSessions	@senatorsessions	NNS	pos2=XX	7	appos	_	O
+

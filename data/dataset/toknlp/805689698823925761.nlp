@@ -1,0 +1,19 @@
+1	BuzzFeedNews	buzzfeednews	NNS	pos2=NN	9	dep	_	O
+2	:	:	:	_	9	punct	_	O
+3	This	this	DT	_	7	det	_	O
+4	church	church	NN	_	6	npadvmod	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	funded	fund	VBN	_	7	nmod	_	O
+7	cafe	cafe	NN	_	9	nsubj	_	O
+8	is	be	VBZ	_	9	aux	_	O
+9	raising	raise	VBG	_	0	root	_	O
+10	money	money	NN	_	9	dobj	_	O
+11	for	for	IN	_	9	prep	_	O
+12	the	the	DT	_	14	det	_	O
+13	anti-abortion	anti-abortion	JJ	_	14	nmod	_	O
+14	clinic	clinic	NN	_	11	pobj	_	O
+15	next	next	JJ	_	16	nmod	_	O
+16	door	door	NN	_	14	npadvmod	_	O
+17	…	…	NFP	pos2=,	18	punct	_	O
+18	https://t.co/IurQ8m6eJv	#hlink#	ADD	_	9	dep	_	O
+

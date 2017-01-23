@@ -1,0 +1,9 @@
+1	The	the	DT	_	3	det	_	O
+2	Popular	popular	NNP	pos2=JJ	3	compound	_	O
+3	Vote	vote	NN	pos2=NNP	8	dep	_	O
+4	vs.	vs.	IN	pos2=CC	3	prep	_	O
+5	the	the	DT	_	7	det	_	B-ORG
+6	Electoral	electoral	NNP	pos2=JJ	7	compound	_	I-ORG
+7	College	college	NNP	_	4	pobj	_	L-ORG
+8	https://t.co/qk9Hzq84hw	#hlink#	ADD	_	0	root	_	O
+

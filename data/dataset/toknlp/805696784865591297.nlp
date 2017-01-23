@@ -1,0 +1,8 @@
+1	@sidetosaccone	@sidetosaccone	NN	pos2=UH	4	dep	_	O
+2	18	0	CD	pos2=LS	1	nmod	_	U-QUANTITY
+3	I	I	PRP	_	4	nsubj	_	O
+4	'm	be	VBP	_	0	root	_	O
+5	on	on	IN	pos2=JJ	4	prep	_	O
+6	minimum	minimum	JJ	pos2=NN	7	nmod	_	O
+7	wage	wage	NN	_	5	pobj	_	O
+

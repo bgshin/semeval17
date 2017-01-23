@@ -1,0 +1,8 @@
+1	This	this	DT	_	2	det	_	O
+2	car	car	NN	_	3	nsubj	_	O
+3	smells	smell	VBZ	_	0	root	_	O
+4	like	like	IN	pos2=JJ	3	prep	_	O
+5	piss	piss	VB	pos2=NN	0	root	_	O
+6	😷😷😷	😷😷😷	HYPH	pos2=NNP	5	punct	_	U-NORP
+7	#uber	#uber	UH	pos2=NN	5	discourse	_	O
+

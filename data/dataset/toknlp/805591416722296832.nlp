@@ -1,0 +1,24 @@
+1	THE	the	DT	_	2	det	_	O
+2	FIGHT	fight	NN	_	21	dep	_	O
+3	OF	of	IN	_	2	prep	_	O
+4	Lionel	lionel	NNP	_	5	compound	_	B-PERSON
+5	Messi	messi	NNP	_	3	pobj	_	L-PERSON
+6	vs	vs	IN	pos2=CC	2	prep	_	O
+7	Cristiano	cristiano	NNP	_	8	compound	_	B-PERSON
+8	Ronaldo	ronaldo	NNP	_	6	pobj	_	L-PERSON
+9	//	//	-LRB-	pos2=HYPH	10	punct	_	O
+10	goals	goal	NNS	_	21	dep	_	O
+11	,	,	,	_	10	punct	_	O
+12	skills	skill	NNS	_	10	conj	_	O
+13	,	,	,	_	12	punct	_	O
+14	dribbling	dribbling	NN	pos2=VBG	21	dep	_	O
+15	///	//	SYM	pos2=-LRB-	17	punct	_	O
+16	Epic	epic	NNP	_	17	compound	_	O
+17	Battle	battle	NNP	pos2=NN	21	dep	_	O
+18	2016	0	CD	_	21	dep	_	O
+19	HD	hd	NN	_	21	dep	_	O
+20	:	:	:	_	21	punct	_	O
+21	https://t.co/7g3M5b5eWR	#hlink#	ADD	_	0	root	_	O
+22	via	via	IN	_	21	prep	_	O
+23	@YouTube	@youtube	NNP	pos2=NN	22	pobj	_	O
+

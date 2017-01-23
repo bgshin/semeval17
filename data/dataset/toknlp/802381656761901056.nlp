@@ -1,0 +1,14 @@
+1	Protest	protest	VB	pos2=NN	4	nsubj	_	O
+2	against	against	IN	_	1	prep	_	O
+3	Trump	trump	NNP	pos2=NN	2	pobj	_	U-ORG
+4	breaks	break	VBZ	pos2=NNS	0	root	_	O
+5	out	out	RP	pos2=RB	4	prt	_	O
+6	on	on	IN	_	4	prep	_	O
+7	Black	black	NNP	_	8	compound	_	B-EVENT
+8	Friday	friday	NNP	_	6	pobj	_	L-EVENT
+9	in	in	IN	_	4	prep	_	O
+10	US	us	NNP	_	9	pobj	_	U-GPE
+11	https://t.co/JZaVgUx4of	#hlink#	ADD	pos2=IN	10	appos	_	O
+12	LiveLeak	liveleak	NNP	_	13	compound	_	B-ORG
+13	#News	#news	NNP	pos2=.	8	appos	_	L-ORG
+

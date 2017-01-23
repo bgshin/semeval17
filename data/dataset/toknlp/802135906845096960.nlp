@@ -1,0 +1,8 @@
+1	With	with	IN	_	0	root	_	O
+2	@UriShaked	@urishaked	NNP	pos2=ADD	1	pobj	_	U-PERSON
+3	and	and	CC	_	2	cc	_	O
+4	@saniyusuf	@saniyusuf	NNP	pos2=XX	2	conj	_	U-PERSON
+5	in	in	IN	pos2=GW	2	prep	_	O
+6	#Jerusalem	#jerusalem	NNP	pos2=-LRB-	5	pobj	_	U-GPE
+7	https://t.co/aWeh6iZUUK	#hlink#	ADD	_	2	appos	_	O
+

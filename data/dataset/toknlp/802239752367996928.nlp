@@ -1,0 +1,28 @@
+1	FINALLY	finally	RB	_	2	advmod	_	O
+2	watching	watch	VBG	_	0	root	_	O
+3	Love	love	NNP	pos2=NN	2	dobj	_	B-ORG
+4	&	&	CC	_	3	cc	_	I-ORG
+5	Happiness	happiness	NNP	pos2=NN	3	conj	_	L-ORG
+6	!!!	!!	.	_	2	punct	_	O
+
+1	This	this	DT	_	2	det	_	O
+2	country	country	NN	_	4	nsubj	_	O
+3	is	be	VBZ	_	4	aux	_	O
+4	going	go	VBG	_	0	root	_	O
+5	to	to	TO	_	6	aux	_	O
+6	miss	miss	VB	_	4	xcomp	_	O
+7	your	your	PRP$	_	8	poss	_	O
+8	family	family	NN	_	10	poss	_	O
+9	's	's	POS	_	8	case	_	O
+10	class	class	NN	_	6	dobj	_	O
+11	,	,	,	_	10	punct	_	O
+12	wisdom	wisdom	NN	_	10	conj	_	O
+13	,	,	,	_	12	punct	_	O
+14	love	love	NN	pos2=VBP	12	conj	_	O
+15	,	,	,	_	14	punct	_	O
+16	and	and	CC	_	14	cc	_	O
+17	patience	patience	NN	_	14	conj	_	O
+18	.	.	.	_	4	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	NN	pos2=ADD	0	root	_	O
+

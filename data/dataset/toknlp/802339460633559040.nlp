@@ -1,0 +1,12 @@
+1	Meanwhile	meanwhile	RB	_	0	root	_	O
+2	...	..	.	pos2=:	1	punct	_	O
+
+1	Obama	obama	NNP	_	2	compound	_	U-PERSON
+2	Admin	admin	NN	pos2=NNP	3	nsubj	_	O
+3	made	make	VBD	_	0	root	_	O
+4	them	them	PRP	_	5	nsubj	_	O
+5	refugees	refugee	NNS	_	3	ccomp	_	O
+6	:	:	:	_	8	punct	_	O
+7	https://t.co/5yjV9vvPLA	#hlink#	ADD	pos2=NN	8	nmod	_	O
+8	https://t.co/jqZzhJRrFw	#hlink#	ADD	_	3	dep	_	U-ORG
+

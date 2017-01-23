@@ -1,0 +1,27 @@
+1	Conservatives	conservative	NNS	pos2=NNPS	2	nsubj	_	O
+2	do	do	VBP	pos2=VB	7	ccomp	_	O
+3	something	something	NN	_	2	dobj	_	O
+4	stupid	stupid	JJ	pos2=FW	3	nmod	_	O
+5	:	:	:	_	7	punct	_	O
+6	it	it	PRP	_	7	nsubj	_	O
+7	's	's	VBZ	_	0	root	_	O
+8	because	because	IN	_	10	mark	_	O
+9	they	they	PRP	_	10	nsubj	_	O
+10	are	be	VBP	_	7	advcl	_	O
+11	dumb	dumb	JJ	_	10	acomp	_	O
+12	.	.	.	_	7	punct	_	O
+
+1	Liberals	liberal	NNS	pos2=NNPS	2	nsubj	_	O
+2	do	do	VBP	pos2=VB	6	ccomp	_	O
+3	it	it	PRP	_	2	dobj	_	O
+4	:	:	:	_	6	punct	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	's	's	VBZ	_	0	root	_	O
+7	a	a	DT	_	8	det	_	O
+8	tragedy	tragedy	NN	_	6	attr	_	O
+9	of	of	IN	_	8	prep	_	O
+10	our	our	PRP$	_	12	poss	_	O
+11	modern	modern	JJ	_	12	nmod	_	O
+12	times	time	NNS	_	9	pobj	_	O
+13	.	.	.	_	6	punct	_	O
+

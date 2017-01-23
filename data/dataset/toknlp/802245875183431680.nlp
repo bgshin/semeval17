@@ -1,0 +1,25 @@
+1	Ukraine	ukraine	NNP	pos2=DT	2	compound	_	U-GPE
+2	tweeter	tweeter	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	sarcastic	sarcastic	JJ	_	3	acomp	_	O
+5	after	after	IN	_	10	mark	_	O
+6	the	the	DT	_	7	det	_	O
+7	EU	eu	NNP	_	9	poss	_	U-ORG
+8	's	's	POS	_	7	case	_	O
+9	Juncker	juncker	NNP	_	10	nsubj	_	U-ORG
+10	said	say	VBD	pos2=NNP	3	advcl	_	O
+11	Poroshenko	poroshenko	NNP	_	12	nsubj	_	U-ORG
+12	is	be	VBZ	_	10	ccomp	_	O
+13	to	to	TO	_	14	aux	_	O
+14	cancel	cancel	VB	_	12	xcomp	_	O
+15	wood	wood	NN	_	16	compound	_	O
+16	export	export	NN	_	17	compound	_	O
+17	ban	ban	NN	pos2=FW	14	dobj	_	O
+18	.	.	.	_	3	punct	_	O
+
+1	Futuristic	futuristic	JJ	_	2	nmod	_	O
+2	pic	pic	NN	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	…	…	NFP	pos2=-LRB-	3	pobj	_	O
+5	https://t.co/JJWAXmHRIT	#hlink#	ADD	pos2=NN	3	pobj	_	O
+

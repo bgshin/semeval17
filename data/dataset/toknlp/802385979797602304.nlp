@@ -1,0 +1,12 @@
+1	What	what	WP	pos2=WDT	6	dobj	_	O
+2	Clinton	clinton	NNP	_	6	nsubj	_	U-PERSON
+3	or	or	CC	_	2	cc	_	O
+4	Trump	trump	NNP	_	2	conj	_	U-PERSON
+5	Would	would	MD	pos2=NNP	6	aux	_	O
+6	Mean	mean	VB	_	0	root	_	O
+7	for	for	IN	_	6	prep	_	O
+8	Trade	trade	NNP	pos2=NN	7	pobj	_	O
+9	https://t.co/YQCmNbx0XH	#hlink#	ADD	pos2=NNP	7	pobj	_	O
+10	via	via	IN	_	6	prep	_	O
+11	@wwd	@wwd	NN	pos2=.	10	pobj	_	O
+

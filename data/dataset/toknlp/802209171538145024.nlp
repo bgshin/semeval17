@@ -1,0 +1,11 @@
+1	Please	please	UH	_	2	discourse	_	O
+2	suspend	suspend	VB	_	0	root	_	O
+3	#ISIS	#isis	NN	pos2=$	4	compound	_	U-ORG
+4	accounts@safety	accounts@safety	NN	pos2=WRB	2	dobj	_	O
+5	@Support	@support	NNP	pos2=NN	10	nmod	_	O
+6	@da3	@da0	NN	pos2=CD	10	nmod	_	O
+7	m	m	GW	pos2=FW	10	nmod	_	O
+8	@jack	@jack	GW	pos2=UH	10	nmod	_	O
+9	@twitter	@twitter	GW	pos2=IN	10	nmod	_	O
+10	https://t.co/xV7AkByqlOhttps://t.co/LtLwdMJg9l	#hlink#	ADD	pos2=NN	2	dep	_	O
+

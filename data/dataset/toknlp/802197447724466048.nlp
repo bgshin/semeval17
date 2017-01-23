@@ -1,0 +1,22 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	was	be	VBD	_	10	ccomp	_	O
+3	'	'	``	pos2=''	2	punct	_	O
+4	part	part	NN	_	2	attr	_	O
+5	of	of	IN	_	4	prep	_	O
+6	a	a	DT	_	8	det	_	O
+7	terror	terror	NN	_	8	compound	_	O
+8	organization	organization	NN	_	5	pobj	_	O
+9	'	'	''	_	10	punct	_	O
+10	says	say	VBZ	_	0	root	_	O
+11	Israeli	israeli	JJ	_	12	nmod	_	U-NORP
+12	pilot	pilot	NN	_	13	nsubj	_	O
+13	turned	turn	VBD	pos2=JJ	10	ccomp	_	O
+14	activist	activist	NN	pos2=JJ	13	attr	_	O
+15	https://t.co/1Vrp5KlTwF	#hlink#	ADD	pos2=NN	21	nmod	_	O
+16	via	via	IN	_	13	prep	_	O
+17	@intifada	@intifada	NNP	pos2=NN	16	pobj	_	O
+18	#gaza	#gaza	UH	pos2=XX	21	discourse	_	O
+19	#palestine	#palestine	UH	pos2=PRP	21	discourse	_	O
+20	#israel	#israel	UH	pos2=MD	21	discourse	_	O
+21	#BDS	#bds	NNS	pos2=UH	13	advcl	_	O
+

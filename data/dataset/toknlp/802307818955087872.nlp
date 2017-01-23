@@ -1,0 +1,15 @@
+1	https://t.co/qGSEXQkhk5	#hlink#	ADD	pos2=NN	14	dep	_	O
+2	2004	0	CD	pos2=LS	14	compound	_	U-DATE
+3	Nike	nike	NNP	_	14	compound	_	B-ORG
+4	Total	total	NNP	pos2=JJ	7	compound	_	I-ORG
+5	Air	air	NNP	pos2=NN	6	compound	_	L-ORG
+6	Foamposite	foamposite	NNP	_	10	compound	_	O
+7	Max	max	NNP	_	10	compound	_	B-PERSON
+8	Tim	tim	NNP	_	10	compound	_	I-PERSON
+9	Duncan	duncan	NNP	_	10	compound	_	I-PERSON
+10	White	white	NNP	_	14	dep	_	L-PERSON
+11	/	/	SYM	pos2=HYPH	12	punct	_	O
+12	black	black	JJ	pos2=NN	13	nmod	_	O
+13	Size	size	NN	_	10	appos	_	O
+14	9.5	0	CD	_	0	root	_	U-CARDINAL
+

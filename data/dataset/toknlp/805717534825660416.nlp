@@ -1,0 +1,8 @@
+1	@GardJohanna	@gardjohanna	ADD	pos2=NN	7	punct	_	O
+2	@CNN	@cnn	NNP	pos2=ADD	7	dep	_	U-ORG
+3	@ABC	@abc	NN	pos2=POS	5	nmod	_	O
+4	other	other	JJ	_	5	nmod	_	O
+5	news	news	NN	_	7	dep	_	O
+6	disagree	disagree	VBP	pos2=VB	7	nmod	_	O
+7	https://t.co/Ayu8R8BhU7	#hlink#	ADD	_	0	root	_	U-ORG
+

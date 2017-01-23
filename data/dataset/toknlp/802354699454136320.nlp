@@ -1,0 +1,16 @@
+1	That	that	DT	_	2	det	_	O
+2	guy	guy	NN	_	3	nsubj	_	O
+3	looks	look	VBZ	_	0	root	_	O
+4	life	life	NN	pos2=JJ	3	dobj	_	O
+5	if	if	IN	_	13	mark	_	O
+6	a	a	DT	_	8	det	_	O
+7	wax	wax	NN	_	8	compound	_	O
+8	statue	statue	NN	_	13	nsubj	_	O
+9	of	of	IN	_	8	prep	_	O
+10	Kim	kim	NNP	_	12	compound	_	B-PERSON
+11	Jong	jong	NNP	_	12	compound	_	I-PERSON
+12	Un	un	NNP	_	9	pobj	_	L-PERSON
+13	got	get	VBD	_	3	advcl	_	O
+14	sick	sick	JJ	pos2=JJR	13	acomp	_	O
+15	.	.	.	_	3	punct	_	O
+

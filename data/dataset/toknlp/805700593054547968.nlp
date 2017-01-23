@@ -1,0 +1,18 @@
+1	@ShawnNobis	@shawnnobis	ADD	pos2=NNS	2	compound	_	O
+2	@Parker9	@parker0	NN	pos2=NNS	5	nsubj	_	O
+3	_	_	''	pos2=SYM	2	punct	_	O
+4	@GriesBurger	@griesburger	WDT	pos2=ADD	0	root	_	O
+5	@realDonaldTrump	@realdonaldtrump	XX	pos2=VBP	4	nsubj	_	O
+6	Glad	glad	JJ	pos2=NNP	5	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	see	see	VB	_	6	xcomp	_	O
+9	you	you	PRP	_	10	nsubj	_	O
+10	agree	agree	VBP	pos2=VB	8	ccomp	_	O
+11	that	that	IN	_	15	mark	_	O
+12	the	the	DT	_	14	det	_	O
+13	electoral	electoral	JJ	_	14	nmod	_	O
+14	college	college	NN	_	15	nsubj	_	O
+15	is	be	VBZ	_	10	ccomp	_	O
+16	BS.	bs.	NNP	pos2=JJ	17	compound	_	O
+17	:]	:]	XX	pos2=.	15	dep	_	O
+

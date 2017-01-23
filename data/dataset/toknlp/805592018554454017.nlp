@@ -1,0 +1,23 @@
+1	@JumpVote	@jumpvote	NNP	pos2=NN	8	compound	_	U-ORG
+2	End	end	NN	pos2=NNP	4	compound	_	O
+3	motor	motor	NN	_	4	compound	_	O
+4	Voter	voter	NNP	pos2=NN	8	dep	_	O
+5	,	,	,	_	4	punct	_	O
+6	roving	roving	JJ	pos2=VBG	8	nmod	_	O
+7	registration	registration	NN	_	8	compound	_	O
+8	drives	drive	NNS	pos2=VBZ	0	root	_	O
+9	.	.	.	_	8	punct	_	O
+
+1	Make	make	VB	pos2=NN	0	root	_	O
+2	registration	registration	NN	_	5	nsubj	_	O
+3	a	a	DT	_	5	det	_	O
+4	purposeful	purposeful	JJ	_	5	nmod	_	O
+5	thing	thing	NN	_	1	ccomp	_	O
+6	at	at	IN	_	5	prep	_	O
+7	Court	court	NNP	_	8	compound	_	U-ORG
+8	house	house	NN	_	6	pobj	_	O
+9	or	or	CC	_	8	cc	_	O
+10	city	city	NN	_	11	compound	_	O
+11	hall	hall	NN	_	8	conj	_	O
+12	.	.	.	_	1	punct	_	O
+

@@ -1,0 +1,13 @@
+1	When	when	WRB	_	4	advmod	_	O
+2	a	a	DT	_	3	det	_	O
+3	legend	legend	NN	_	4	nsubj	_	O
+4	speaks	speak	VBZ	_	12	advcl	_	O
+5	about	about	IN	pos2=RB	4	prep	_	O
+6	another	another	DT	_	7	det	_	O
+7	Legend	legend	NNP	pos2=NN	10	poss	_	O
+8	❤	❤	POS	pos2=HYPH	7	case	_	O
+9	#Gerrard	#gerrard	NNP	pos2=$	10	compound	_	B-PERSON
+10	#Messi	#messi	NNP	pos2=GW	5	pobj	_	L-PERSON
+11	#FCBLive	#fcblive	ADD	pos2=GW	12	dep	_	O
+12	https://t.co/lDsWMBlNuc	#hlink#	ADD	_	0	root	_	O
+

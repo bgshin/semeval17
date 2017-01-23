@@ -1,0 +1,18 @@
+1	"	"	``	pos2=SYM	13	punct	_	O
+2	#Samsung	#samsung	VBG	pos2=NNP	13	prep	_	O
+3	#Galaxy	#galaxy	NNP	pos2=PRP$	4	compound	_	O
+4	Note	note	NN	pos2=VB	2	dobj	_	O
+5	7	0	CD	pos2=IN	7	nmod	_	U-CARDINAL
+6	Iris	iris	NNP	pos2=NN	7	compound	_	O
+7	Scanner	scanner	NN	pos2=NNP	13	dep	_	O
+8	In	in	IN	_	7	prep	_	O
+9	Detail	detail	NN	pos2=NNP	8	pobj	_	O
+10	:	:	:	_	13	punct	_	O
+11	Not	not	RB	_	13	neg	_	O
+12	a	a	DT	_	13	det	_	O
+13	Gimmick	gimmick	NNP	pos2=NN	17	dep	_	O
+14	"	"	''	pos2=``	13	punct	_	O
+15	#android	#android	FW	pos2=GW	17	dep	_	O
+16	#mobile	#mobile	IN	pos2=ADD	17	nmod	_	O
+17	https://t.co/59B4Q7h7QD	#hlink#	ADD	pos2=NN	0	root	_	O
+

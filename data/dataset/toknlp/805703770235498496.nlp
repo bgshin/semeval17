@@ -1,0 +1,26 @@
+1	@robwilliamsNY	@robwilliamsny	NN	pos2=NNP	4	nsubj	_	O
+2	does	do	VBZ	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	seem	seem	VB	_	22	ccomp	_	O
+5	likely	likely	JJ	pos2=RB	4	oprd	_	O
+6	that	that	IN	_	10	mark	_	O
+7	any	any	DT	_	8	det	_	O
+8	reforms	reform	NNS	_	10	nsubj	_	O
+9	will	will	MD	_	10	aux	_	O
+10	take	take	VB	_	4	ccomp	_	O
+11	place	place	NN	_	10	dobj	_	O
+12	w	w	IN	_	8	prep	_	O
+13	/	/	HYPH	_	12	punct	_	O
+14	H1	h0	NN	_	16	compound	_	O
+15	-	-	HYPH	pos2=SYM	16	punct	_	O
+16	B	b	NN	pos2=JJ	17	compound	_	O
+17	visas	visa	NNS	_	12	pobj	_	O
+18	,	,	,	_	22	punct	_	O
+19	what	what	WP	_	22	dobj	_	O
+20	do	do	VBP	_	22	aux	_	O
+21	you	you	PRP	_	22	nsubj	_	O
+22	think	think	VB	_	0	root	_	O
+23	?	?	.	_	22	punct	_	O
+
+1	https://t.co/TFGwgQLi6k	#hlink#	ADD	_	0	root	_	U-ORG
+

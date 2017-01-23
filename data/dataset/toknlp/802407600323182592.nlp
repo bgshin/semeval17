@@ -1,0 +1,8 @@
+1	https://t.co/hIQkBwFjz7Glenn	#hlink#	ADD	pos2=NNP	3	discourse	_	O
+2	Beck	beck	NNP	_	3	nsubj	_	U-PERSON
+3	sounds	sound	VBZ	_	0	root	_	O
+4	alarm	alarm	NN	pos2=JJ	3	dobj	_	O
+5	about	about	IN	_	4	prep	_	O
+6	Steve	steve	NNP	_	7	compound	_	B-PERSON
+7	Bannon	bannon	NNP	_	5	pobj	_	L-PERSON
+

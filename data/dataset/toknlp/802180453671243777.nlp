@@ -1,0 +1,13 @@
+1	Instagram	instagram	NNP	pos2=NN	4	nsubj	_	U-ORG
+2	copying	copy	VBG	pos2=NN	4	csubj	_	O
+3	Snapchat	snapchat	NNP	pos2=WP	2	dobj	_	U-ORG
+4	is	be	VBZ	_	0	root	_	O
+5	like	like	IN	_	4	prep	_	O
+6	Melania	melania	NNP	_	7	compound	_	B-PERSON
+7	Trump	trump	NNP	_	5	pobj	_	L-PERSON
+8	copying	copy	VBG	pos2=NN	4	advcl	_	O
+9	Michelle	michelle	NNP	_	10	compound	_	B-PERSON
+10	Obama	obama	NNP	_	12	poss	_	I-PERSON
+11	's	's	POS	_	10	case	_	L-PERSON
+12	speech	speech	NN	_	8	dobj	_	O
+

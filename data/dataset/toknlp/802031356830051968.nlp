@@ -1,0 +1,18 @@
+1	Israel	israel	NNP	pos2=NN	15	dep	_	U-GPE
+2	:	:	:	_	5	punct	_	O
+3	Iran	iran	NNP	_	5	nsubj	_	U-GPE
+4	is	be	VBZ	_	5	aux	_	O
+5	Smuggling	smuggle	VBG	pos2=NNP	15	csubj	_	O
+6	Missile	missile	NNP	_	7	compound	_	B-ORG
+7	Technology	technology	NNP	pos2=NN	5	dobj	_	L-ORG
+8	to	to	IN	pos2=TO	5	prep	_	O
+9	#Hezbollah	#hezbollah	NNP	pos2=VB	8	pobj	_	B-ORG
+10	Inside	inside	IN	pos2=NNP	9	prep	_	I-ORG
+11	Commercial	commercial	NNP	pos2=JJ	12	compound	_	I-ORG
+12	Flights	flight	NNPS	pos2=NNS	10	pobj	_	L-ORG
+13	https://t.co/GS3LS3nCT4	#hlink#	ADD	pos2=POS	15	nsubj	_	O
+14	#Iran	#iran	NNP	pos2=-RRB-	15	nsubj	_	U-ORG
+15	is	be	VBZ	_	0	root	_	O
+16	incredibly	incredibly	RB	_	17	advmod	_	O
+17	#dangerous	#dangerous	JJ	pos2=.	15	acomp	_	O
+

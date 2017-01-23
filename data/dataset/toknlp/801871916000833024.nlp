@@ -1,0 +1,31 @@
+1	Barca	barca	NNP	pos2=NN	5	nsubj	_	U-PERSON
+2	have	have	VBP	pos2=VB	0	root	_	O
+3	more	more	RBR	pos2=JJR	4	advmod	_	O
+4	away	away	RB	pos2=JJ	2	advmod	_	O
+5	wins	win	NNS	pos2=VBZ	2	dobj	_	O
+6	than	than	IN	_	5	prep	_	O
+7	any	any	DT	_	9	det	_	O
+8	other	other	JJ	_	9	nmod	_	O
+9	club	club	NN	_	6	pobj	_	O
+10	in	in	IN	_	9	prep	_	O
+11	the	the	DT	_	14	det	_	B-ORG
+12	Champions	champion	NNPS	pos2=NNP	13	compound	_	I-ORG
+13	League	league	NNP	_	14	compound	_	L-ORG
+14	era	era	NN	_	10	pobj	_	O
+15	,	,	,	_	9	punct	_	O
+16	48	0	CD	_	9	appos	_	U-CARDINAL
+17	.	.	.	_	2	punct	_	O
+
+1	Club	club	NNP	pos2=NN	4	nsubj	_	U-ORG
+2	has	have	VBZ	_	4	aux	_	O
+3	also	also	RB	_	4	advmod	_	O
+4	won	win	VBN	pos2=VBD	0	root	_	O
+5	more	more	JJR	_	6	nmod	_	O
+6	groups	group	NNS	_	4	dobj	_	O
+7	than	than	IN	_	6	prep	_	O
+8	another	another	DT	_	9	det	_	O
+9	else	else	RB	pos2=JJ	7	pobj	_	O
+10	,	,	,	_	12	punct	_	O
+11	18	0	CD	_	12	nmod	_	U-CARDINAL
+12	#fcblive	#fcblive	NNS	pos2=XX	9	appos	_	O
+

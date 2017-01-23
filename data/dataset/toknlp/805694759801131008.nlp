@@ -1,0 +1,17 @@
+1	Read	read	VB	pos2=VBD	0	root	_	O
+2	Martha	martha	NNP	_	3	compound	_	B-PERSON
+3	Wyatt	wyatt	NNP	_	5	poss	_	I-PERSON
+4	's	's	POS	_	3	case	_	L-PERSON
+5	letter	letter	NN	_	1	dobj	_	O
+6	to	to	IN	_	1	prep	_	O
+7	members	member	NNS	_	6	pobj	_	O
+8	of	of	IN	_	7	prep	_	O
+9	the	the	DT	_	11	det	_	B-ORG
+10	Electoral	electoral	NNP	_	11	compound	_	I-ORG
+11	College	college	NNP	_	8	pobj	_	L-ORG
+12	.	.	.	_	1	punct	_	O
+
+1	#asktheelectors	#asktheelectors	NNS	pos2=UH	3	nmod	_	O
+2	#electoralcollege	#electoralcollege	GW	pos2=ADD	3	nmod	_	O
+3	https://t.co/9XtkGUS6iO	#hlink#	ADD	pos2=NN	0	root	_	O
+

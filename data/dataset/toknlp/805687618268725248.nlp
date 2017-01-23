@@ -1,0 +1,23 @@
+1	Anyone	anyone	NN	_	6	nsubj	_	O
+2	who	who	WP	_	4	nsubj	_	O
+3	has	have	VBZ	_	4	aux	_	O
+4	seen	see	VBN	_	1	relcl	_	O
+5	me	me	PRP	_	4	dobj	_	O
+6	watch	watch	VB	_	0	root	_	O
+7	a	a	DT	_	9	det	_	O
+8	Cubs	cubs	NNP	pos2=NNPS	9	compound	_	U-ORG
+9	game	game	NN	_	6	dobj	_	O
+10	has	have	VBZ	_	11	aux	_	O
+11	seen	see	VBN	_	6	advcl	_	O
+12	me	me	PRP	_	13	nsubj	_	O
+13	look	look	VB	_	11	ccomp	_	O
+14	exactly	exactly	RB	_	15	advmod	_	O
+15	like	like	IN	pos2=UH	13	prep	_	O
+16	this	this	DT	_	15	pobj	_	O
+17	throughout	throughout	IN	_	13	prep	_	O
+18	the	the	DT	_	19	det	_	O
+19	game	game	NN	_	17	pobj	_	O
+20	.	.	.	_	6	punct	_	O
+
+1	https://t.co/rIBLjyJqre	#hlink#	ADD	_	0	root	_	U-ORG
+

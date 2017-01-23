@@ -1,0 +1,31 @@
+1	Going	go	VBG	_	7	advcl	_	O
+2	to	to	IN	_	1	prep	_	O
+3	bed	bed	NN	_	2	pobj	_	O
+4	,	,	,	_	7	punct	_	O
+5	hopefully	hopefully	RB	_	7	advmod	_	O
+6	there	there	EX	_	7	expl	_	O
+7	are	be	VBP	_	0	root	_	O
+8	moves	move	NNS	_	7	attr	_	O
+9	that	that	WDT	_	10	nsubj	_	O
+10	make	make	VBP	pos2=VB	8	relcl	_	O
+11	tmrw	tmrw	RB	pos2=NN	12	advmod	_	O
+12	interesting	interesting	JJ	_	10	ccomp	_	O
+13	.	.	.	_	7	punct	_	O
+
+1	#cubs	#cubs	UH	pos2=NNS	4	discourse	_	O
+2	#Archer	#archer	NNP	pos2=CC	3	compound	_	B-PERSON
+3	#Ross	#ross	NNP	pos2=IN	4	nsubj	_	L-PERSON
+4	#trades	#trades	VBZ	pos2=UH	9	advcl	_	O
+5	anything	anything	NN	_	4	dobj	_	O
+6	,	,	,	_	9	punct	_	O
+7	I	I	PRP	_	9	nsubjpass	_	O
+8	'm	be	VBP	_	9	auxpass	_	O
+9	hyped	hype	VBN	pos2=JJ	0	root	_	O
+10	to	to	TO	_	11	aux	_	O
+11	see	see	VB	_	9	advcl	_	O
+12	what	what	WP	_	15	dobj	_	O
+13	the	the	DT	_	14	det	_	O
+14	FO	fo	NNP	pos2=NN	15	nsubj	_	U-ORG
+15	does	do	VBZ	_	11	ccomp	_	O
+16	.	.	.	_	9	punct	_	O
+

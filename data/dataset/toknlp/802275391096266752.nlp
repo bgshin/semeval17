@@ -1,0 +1,15 @@
+1	Guest	guest	NN	pos2=NNP	2	compound	_	O
+2	Post	post	NNP	pos2=AFX	14	dep	_	U-ORG
+3	(	(	-LRB-	_	2	punct	_	O
+4	Part	part	NN	pos2=NNP	5	compound	_	O
+5	I	i	NN	pos2=PRP	2	appos	_	O
+6	)	)	-RRB-	_	2	punct	_	O
+7	:	:	:	_	14	punct	_	O
+8	Demystifying	demystify	VBG	_	11	nmod	_	O
+9	Deep	deep	JJ	pos2=NNP	10	nmod	_	O
+10	Reinforcement	reinforcement	NN	pos2=NNP	11	compound	_	O
+11	Learning	learning	NN	pos2=GW	14	dep	_	O
+12	-	-	:	pos2=HYPH	14	punct	_	O
+13	Nervana	nervana	NNP	pos2=GW	14	nmod	_	O
+14	https://t.co/WNZiqMSiB8	#hlink#	ADD	pos2=NN	0	root	_	O
+

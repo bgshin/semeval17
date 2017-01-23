@@ -1,0 +1,19 @@
+1	Deep	deep	JJ	pos2=NNP	2	nmod	_	O
+2	Learning	learning	NN	pos2=NNP	6	nsubj	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Visual	visual	JJ	pos2=NNP	5	nmod	_	O
+5	Question	question	NN	pos2=NNP	3	pobj	_	O
+6	Answering	answer	VBG	pos2=NNP	0	root	_	O
+7	(	(	-LRB-	_	6	punct	_	O
+8	VAQ	vaq	NN	pos2=NNP	6	parataxis	_	O
+9	)	)	-RRB-	_	8	punct	_	O
+10	using	use	VBG	_	5	acl	_	O
+11	KerasA	kerasa	NNP	pos2=WP	10	dobj	_	U-ORG
+12	really	really	RB	_	13	advmod	_	O
+13	nice	nice	JJ	_	15	nmod	_	O
+14	blog	blog	NN	_	15	compound	_	O
+15	post	post	NN	pos2=RB	10	dobj	_	O
+16	by	by	IN	_	10	prep	_	O
+17	@avisingh599	@avisingh0	CD	pos2=GW	16	pobj	_	U-DATE
+18	https://t.co/ewooMsFiam	#hlink#	ADD	pos2=NN	16	pobj	_	U-ORG
+

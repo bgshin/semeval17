@@ -1,0 +1,17 @@
+1	@POTUS	@potus	NN	pos2=ADD	2	compound	_	U-ORG
+2	@BarackObama	@barackobama	NN	pos2=GW	3	nsubj	_	O
+3	@FoxNews	@foxnews	VBZ	pos2=POS	0	root	_	O
+4	Traitor	traitor	NNP	pos2=NN	5	compound	_	O
+5	closet	closet	NN	pos2=VB	6	compound	_	O
+6	👳🏿🖕🏻🐍Obama	👳🏿🖕🏻🐍obama	NNP	pos2=WDT	7	nsubj	_	O
+7	Sends	send	VBZ	_	3	ccomp	_	O
+8	Sickening	sickening	JJ	pos2=NNP	9	nmod	_	O
+9	Surprise	surprise	NN	pos2=NNP	7	dobj	_	O
+10	to	to	IN	_	9	prep	_	O
+11	Town	town	NNP	_	10	pobj	_	U-ORG
+12	That	that	WDT	pos2=NNP	13	nsubj	_	O
+13	Rejected	rejected	NNP	pos2=VBN	14	compound	_	O
+14	Mosque	mosque	NNP	_	15	dep	_	O
+15	https://t.co/QV5rU7MOWS…	#hlink#	ADD	_	11	appos	_	O
+16	#tcot	#tcot	-RRB-	pos2=ADD	15	punct	_	O
+

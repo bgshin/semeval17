@@ -1,0 +1,14 @@
+1	Was	be	VBD	_	0	root	_	O
+2	able	able	JJ	_	1	acomp	_	O
+3	to	to	TO	_	4	aux	_	O
+4	get	get	VB	_	2	xcomp	_	O
+5	#hatchimals	#hatchimals	NNS	pos2=UH	4	dobj	_	O
+6	but	but	CC	_	1	cc	_	O
+7	no	no	DT	_	8	det	_	O
+8	luck	luck	NN	_	13	dep	_	O
+9	with	with	IN	_	8	prep	_	O
+10	the	the	DT	_	12	det	_	B-ORG
+11	#NintendoClassicMini	#nintendoclassicmini	NNP	pos2=NNS	12	compound	_	I-ORG
+12	😡	😡	NNP	pos2=POS	9	pobj	_	I-ORG
+13	#blackfridayshopping	#blackfridayshopping	UH	pos2=ADD	1	discourse	_	L-ORG
+

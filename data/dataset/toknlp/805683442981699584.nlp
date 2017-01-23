@@ -1,0 +1,17 @@
+1	Interview	interview	NN	pos2=VB	0	root	_	O
+2	w	w	IN	_	1	prep	_	O
+3	/	/	HYPH	pos2=:	2	punct	_	O
+4	Dr.	dr.	NNP	_	6	compound	_	O
+5	Peter	peter	NNP	_	6	compound	_	B-PERSON
+6	Fisher	fisher	NNP	_	2	pobj	_	L-PERSON
+7	,	,	,	_	6	punct	_	O
+8	Homeopath	homeopath	NNP	pos2=NN	6	conj	_	B-ORG
+9	&	&	CC	_	8	cc	_	I-ORG
+10	Physician	physician	NN	pos2=NNP	8	conj	_	L-ORG
+11	to	to	IN	_	1	prep	_	O
+12	HM	hm	NNP	_	16	nmod	_	O
+13	Queen	queen	NNP	_	14	compound	_	O
+14	Elizabeth	elizabeth	NNP	pos2=GW	16	dep	_	B-PERSON
+15	IIhttps://t.co/7UPiXtvj7K#Homeopathy	#hlink#	ADD	_	16	nmod	_	L-PERSON
+16	https://t.co/VzV4XrfxOo	#hlink#	ADD	_	11	pobj	_	U-ORG
+

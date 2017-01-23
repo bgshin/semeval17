@@ -1,0 +1,15 @@
+1	Did	do	VBD	_	4	aux	_	O
+2	anybody	anybody	NN	_	4	nsubj	_	O
+3	else	else	RB	_	2	advmod	_	O
+4	know	know	VB	pos2=VBP	0	root	_	O
+5	that	that	IN	_	9	mark	_	O
+6	the	the	DT	_	8	det	_	O
+7	green	green	JJ	_	8	nmod	_	O
+8	meanie	meanie	NN	pos2=NNP	9	nsubj	_	O
+9	was	be	VBD	_	4	ccomp	_	O
+10	Taylor	taylor	NNP	_	11	compound	_	B-PERSON
+11	Lautner	lautner	NNP	_	9	attr	_	L-PERSON
+12	??	??	.	_	4	punct	_	O
+
+1	#ScreamQueens	#screamqueens	NNS	pos2=ADD	0	root	_	U-DATE
+

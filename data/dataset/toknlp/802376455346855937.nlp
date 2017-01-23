@@ -1,0 +1,24 @@
+1	A	a	DT	_	3	det	_	O
+2	transient	transient	JJ	_	3	nmod	_	O
+3	night	night	NN	_	8	nsubjpass	_	O
+4	with	with	IN	_	3	prep	_	O
+5	strangers	stranger	NNS	_	4	pobj	_	O
+6	can	can	MD	_	8	aux	_	O
+7	be	be	VB	_	8	auxpass	_	O
+8	held	hold	VBN	_	0	root	_	O
+9	forever	forever	RB	_	8	advmod	_	O
+10	in	in	IN	_	8	prep	_	O
+11	music	music	NN	_	10	pobj	_	O
+12	.	.	.	_	8	punct	_	O
+
+1	Leonard	leonard	NNP	_	2	compound	_	B-PERSON
+2	Cohen	cohen	NNP	_	10	dep	_	L-PERSON
+3	on	on	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	O
+5	inspiration	inspiration	NN	_	3	pobj	_	O
+6	behind	behind	IN	pos2=JJ	5	prep	_	O
+7	song	song	NN	_	6	pobj	_	O
+8	:	:	:	_	2	punct	_	O
+9	…	…	NFP	pos2=-LRB-	10	punct	_	O
+10	https://t.co/CfYFhl4PFf	#hlink#	ADD	_	0	root	_	O
+

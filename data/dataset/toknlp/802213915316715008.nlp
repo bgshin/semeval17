@@ -1,0 +1,18 @@
+1	#Libya	#libya	NNP	pos2=NNS	3	compound	_	B-ORG
+2	#Libyen	#libyen	NNP	pos2=POS	3	compound	_	I-ORG
+3	FM	fm	NNP	pos2=FW	4	nsubj	_	L-ORG
+4	heads	head	VBZ	pos2=NNS	9	ccomp	_	O
+5	to	to	IN	_	4	prep	_	O
+6	Libya	libya	NNP	_	5	pobj	_	U-GPE
+7	;	;	:	pos2=,	9	punct	_	O
+8	reports	report	NNS	pos2=VBZ	9	nsubj	_	O
+9	say	say	VBP	pos2=JJ	0	root	_	O
+10	embassy	embassy	NN	pos2=NNS	12	nsubj	_	O
+11	may	may	MD	_	12	aux	_	O
+12	reopen	reopen	VB	_	9	ccomp	_	O
+13	-	-	:	pos2=HYPH	17	punct	_	O
+14	Kathimerini	kathimerini	NNP	pos2=GW	17	compound	_	O
+15	https://t.co/SNX7TYzaB1	#hlink#	ADD	_	17	dep	_	O
+16	#Libia	#libia	NNP	pos2=-RRB-	17	compound	_	O
+17	#Libye	#libye	NNP	pos2=UH	12	dobj	_	O
+

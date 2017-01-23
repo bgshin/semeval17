@@ -1,0 +1,33 @@
+1	#Trumppolicy	#trumppolicy	NNP	pos2=NN	6	discourse	_	U-PERSON
+2	as	as	IN	_	4	mark	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	see	see	VBP	_	6	advcl	_	O
+5	it	it	PRP	_	6	nsubj	_	O
+6	is	be	VBZ	_	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	bring	bring	VB	_	6	xcomp	_	O
+9	back	back	RB	pos2=RP	8	advmod	_	O
+10	the	the	DT	_	11	det	_	O
+11	'50s	'0s	NNS	pos2=NN	8	dobj	_	O
+12	.	.	.	_	6	punct	_	O
+
+1	Taiwan	taiwan	NNP	_	0	root	_	U-GPE
+2	not	not	RB	_	3	neg	_	O
+3	China	china	NNP	_	1	appos	_	U-GPE
+4	.	.	.	_	1	punct	_	O
+
+1	Embargo	embargo	NN	pos2=NNP	0	root	_	O
+2	with	with	IN	_	1	prep	_	O
+3	Cuba	cuba	NNP	_	2	pobj	_	U-GPE
+4	.	.	.	_	1	punct	_	O
+
+1	antisemitism	antisemitism	NN	_	0	root	_	O
+2	,	,	,	_	1	punct	_	O
+3	racism	racism	NN	_	1	conj	_	O
+4	,	,	,	_	3	punct	_	O
+5	homophobia	homophobia	NN	_	3	conj	_	O
+6	,	,	,	_	5	punct	_	O
+7	&	&	CC	_	5	cc	_	O
+8	sexism	sexism	NN	_	5	conj	_	O
+9	.	.	.	_	1	punct	_	O
+

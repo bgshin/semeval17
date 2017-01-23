@@ -1,0 +1,23 @@
+1	@Lloyd_Ash	@lloyd_ash	XX	pos2=UH	4	dep	_	O
+2	@PrisonPlanet	@prisonplanet	ADD	pos2=XX	4	attr	_	O
+3	@DrJillStein	@drjillstein	NNP	pos2=XX	4	nsubj	_	O
+4	Was	be	VBD	_	0	root	_	O
+5	it	it	PRP	_	4	nsubj	_	O
+6	the	the	DT	_	7	det	_	O
+7	@DNC	@dnc	NNP	pos2=NN	4	attr	_	U-ORG
+8	,	,	,	_	7	punct	_	O
+9	@ClintonFdn	@clintonfdn	NNP	pos2=XX	7	conj	_	U-GPE
+10	,	,	,	_	9	punct	_	O
+11	Saudi	saudi	NNP	_	12	compound	_	B-GPE
+12	Arabia	arabia	NNP	_	9	conj	_	L-GPE
+13	,	,	,	_	12	punct	_	O
+14	#ISIS	#isis	NNP	pos2=NN	12	conj	_	U-GPE
+15	or	or	CC	_	14	cc	_	O
+16	@georgesoros	@georgesoros	NNS	pos2=XX	14	conj	_	O
+17	who	who	WP	_	18	nsubj	_	O
+18	gave	give	VBD	_	16	relcl	_	O
+19	@DrJillStein	@drjillstein	NNP	pos2=RP	18	dative	_	O
+20	the	the	DT	_	21	det	_	O
+21	monies	monies	NNS	_	18	dobj	_	O
+22	?	?	.	_	4	punct	_	O
+

@@ -1,0 +1,14 @@
+1	Completed	complete	VBD	pos2=VBN	0	root	_	O
+2	watching	watch	VBG	pos2=NN	1	xcomp	_	O
+3	Persona	persona	NN	pos2=NNP	2	dobj	_	O
+4	5	0	CD	_	3	nmod	_	U-CARDINAL
+5	the	the	DT	_	6	det	_	O
+6	Animation	animation	NN	pos2=NNP	13	dep	_	O
+7	:	:	:	_	13	punct	_	O
+8	The	the	DT	_	10	det	_	B-DATE
+9	Day	day	NNP	_	10	compound	_	I-DATE
+10	Breakers	breaker	NNPS	pos2=NNS	13	nmod	_	I-DATE
+11	,	,	,	_	13	punct	_	I-DATE
+12	9/10	0	CD	_	13	dep	_	L-DATE
+13	https://t.co/xkrjL2y0Q7	#hlink#	ADD	pos2=NNS	1	dep	_	O
+

@@ -1,0 +1,27 @@
+1	They	they	PRP	_	4	nsubj	_	O
+2	're	be	VBP	_	4	aux	_	O
+3	still	still	RB	_	4	advmod	_	O
+4	hollering	holler	VBG	_	0	root	_	O
+5	about	about	IN	pos2=RB	4	prep	_	O
+6	the	the	DT	_	7	det	_	O
+7	DNC	dnc	NN	pos2=NNP	5	pobj	_	U-ORG
+8	and	and	CC	_	4	cc	_	O
+9	ignoring	ignore	VBG	_	4	conj	_	O
+10	genuine	genuine	JJ	_	12	nmod	_	O
+11	voter	voter	NN	_	12	compound	_	O
+12	suppression	suppression	NN	_	9	dobj	_	O
+13	right	right	RB	_	14	advmod	_	O
+14	now	now	RB	_	9	advmod	_	O
+15	.	.	.	_	4	punct	_	O
+
+1	If	if	IN	_	3	mark	_	O
+2	it	it	PRP	_	3	nsubj	_	O
+3	's	's	VBZ	_	8	advcl	_	O
+4	not	not	RB	_	3	neg	_	O
+5	their	their	PRP$	_	6	poss	_	O
+6	guy	guy	NN	_	3	attr	_	O
+7	,	,	,	_	10	punct	_	O
+8	they	they	PRP	_	0	root	_	O
+9	…	…	NFP	pos2=VBP	10	punct	_	O
+10	https://t.co/yJmNBw2lQD	#hlink#	ADD	pos2=VBP	8	appos	_	O
+

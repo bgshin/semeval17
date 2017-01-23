@@ -1,0 +1,23 @@
+1	@SpeakerRyan	@speakerryan	ADD	pos2=UH	5	punct	_	O
+2	ummm	ummm	UH	_	5	discourse	_	O
+3	@realDonaldTrump	@realdonaldtrump	NN	pos2=ADD	5	nsubj	_	O
+4	should	should	MD	_	5	aux	_	O
+5	be	be	VB	_	0	root	_	O
+6	in	in	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	middle	middle	NN	pos2=JJ	6	pobj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	@mike_pence	@mike_pence	NN	pos2=NNP	8	conj	_	O
+11	on	on	IN	_	5	prep	_	O
+12	DJT	djt	NNP	pos2=NN	14	nmod	_	U-ORG
+13	right	right	JJ	_	14	nmod	_	O
+14	side	side	NN	_	11	pobj	_	O
+15	.	.	.	_	5	punct	_	O
+
+1	At	at	RB	pos2=IN	2	advmod	_	O
+2	least	least	JJS	pos2=RBS	5	advmod	_	O
+3	Paul	paul	NNP	_	4	compound	_	U-PERSON
+4	u	u	PRP	pos2=NNP	5	nsubj	_	O
+5	got	get	VBD	_	0	root	_	O
+6	#MakeAmericaGreatAgain	#makeamericagreatagain	RB	pos2=ADD	5	advmod	_	O
+

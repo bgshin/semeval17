@@ -1,0 +1,17 @@
+1	#world	#world	UH	pos2=FW	12	discourse	_	O
+2	#news	#news	IN	pos2=POS	8	prep	_	O
+3	UNIAN	unian	NN	pos2=NNP	2	pobj	_	U-ORG
+4	:	:	:	_	8	punct	_	O
+5	Poroshenko	poroshenko	NNP	_	8	poss	_	U-ORG
+6	’s	's	POS	_	5	case	_	O
+7	office	office	NN	_	8	compound	_	O
+8	names	name	NNS	pos2=VBZ	12	nsubj	_	O
+9	three	#crd#	CD	_	10	nmod	_	U-CARDINAL
+10	points	point	NNS	pos2=VBZ	8	appos	_	O
+11	Ukraine	ukraine	NNP	_	12	nsubj	_	U-GPE
+12	opposed	oppose	VBD	pos2=VBN	0	root	_	O
+13	at	at	IN	_	12	prep	_	O
+14	…	…	NFP	pos2=NNP	13	pobj	_	O
+15	https://t.co/ApHaC6jdLg…	#hlink#	ADD	_	16	nmod	_	O
+16	https://t.co/5HyEPp7pOk	#hlink#	ADD	_	13	pobj	_	O
+

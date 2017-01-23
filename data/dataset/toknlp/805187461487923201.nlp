@@ -1,0 +1,27 @@
+1	Topics	topic	NNS	_	0	root	_	O
+2	described	describe	VBN	pos2=VBD	1	acl	_	O
+3	as	as	IN	pos2=RB	2	prep	_	O
+4	too	too	RB	_	5	advmod	_	O
+5	classified	classified	JJ	pos2=VBN	3	pcomp	_	O
+6	for	for	IN	_	5	prep	_	O
+7	#Raphel	#raphel	NNP	pos2=NNS	6	pobj	_	U-DATE
+8	to	to	IN	pos2=TO	5	prep	_	O
+9	discuss:	discuss:	VB	pos2=XX	11	compound	_	O
+10	-	-	HYPH	pos2=:	11	punct	_	O
+11	#drone	#drone	NN	pos2=JJ	12	compound	_	O
+12	strikes	strike	NNS	_	14	compound	_	O
+13	-	-	HYPH	pos2=:	14	punct	_	O
+14	coup	coup	NN	_	15	compound	_	O
+15	rumors	rumor	NNS	_	8	pobj	_	O
+16	-	-	:	pos2=HYPH	18	punct	_	O
+17	#Taliban	#taliban	JJ	pos2=XX	18	nmod	_	O
+18	reconciliation	reconciliation	NN	_	3	pobj	_	O
+19	..	..	.	pos2=,	18	punct	_	O
+
+1	All	all	DT	pos2=RB	6	nsubj	_	O
+2	in	in	IN	_	1	prep	_	O
+3	the	the	DT	_	4	det	_	O
+4	news	news	NN	_	2	pobj	_	O
+5	every	every	DT	_	6	det	_	B-DATE
+6	day	day	NN	_	0	root	_	L-DATE
+

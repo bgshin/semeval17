@@ -1,0 +1,18 @@
+1	@MatthewdAncona	@matthewdancona	NNP	pos2=UH	9	vocative	_	U-EVENT
+2	Actually	actually	RB	_	4	advmod	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	do	do	VBP	_	9	ccomp	_	O
+5	n’t	not	RB	_	4	neg	_	O
+6	the	the	DT	_	7	det	_	O
+7	polling	polling	NN	_	9	nsubj	_	O
+8	does	do	VBZ	_	9	aux	_	O
+9	show	show	VB	pos2=NN	0	root	_	O
+10	Leave	leave	VB	pos2=NNP	13	compound	_	O
+11	supporters	supporter	NNS	_	12	nsubj	_	O
+12	put	put	VB	pos2=VBD	9	ccomp	_	O
+13	immigration	immigration	NN	_	12	dobj	_	O
+14	above	above	IN	_	12	prep	_	O
+15	economic	economic	JJ	_	16	nmod	_	O
+16	prosperity	prosperity	NN	_	14	pobj	_	O
+17	.	.	.	_	9	punct	_	O
+

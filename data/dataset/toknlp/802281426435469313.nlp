@@ -1,0 +1,23 @@
+1	NOT	not	RB	_	5	neg	_	O
+2	JUST	just	RB	_	5	advmod	_	O
+3	A	a	DT	_	5	det	_	O
+4	BLACK	black	JJ	pos2=NNP	5	nmod	_	O
+5	BOX	box	NN	pos2=NNP	17	dep	_	O
+6	;	;	,	pos2=:	5	punct	_	O
+7	INTERPRETABLE	interpretable	JJ	_	9	nmod	_	O
+8	DEEP	deep	JJ	pos2=NN	9	nmod	_	O
+9	LEARNING	learning	NN	_	5	appos	_	O
+10	FOR	for	IN	_	9	prep	_	O
+11	GENOMICS	genomics	NNS	pos2=NNP	10	pobj	_	U-ORG
+12	-	-	:	pos2=HYPH	17	punct	_	O
+13	Silicon	silicon	NNP	_	14	compound	_	B-LOC
+14	Valley	valley	NNP	_	17	compound	_	L-LOC
+15	Big	big	NNP	_	17	compound	_	B-ORG
+16	Data	data	NNP	pos2=NNPS	17	compound	_	L-ORG
+17	Scien	scien	NNP	_	0	root	_	O
+18	...	..	.	pos2=,	17	punct	_	O
+
+1	https://t.co/zQicGxVPQY	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@SVTechEvents	@svtechevents	NNS	pos2=ADD	2	pobj	_	O
+

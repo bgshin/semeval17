@@ -1,0 +1,13 @@
+1	Karan	karan	NNP	_	2	compound	_	B-PERSON
+2	Mahajan	mahajan	NNP	_	3	nsubj	_	L-PERSON
+3	reading	read	VBG	pos2=NN	0	root	_	O
+4	from	from	IN	_	3	prep	_	O
+5	THE	the	DT	_	6	det	_	B-ORG
+6	ASSOCIATION	association	NNP	pos2=NN	4	pobj	_	I-ORG
+7	OF	of	IN	_	6	prep	_	I-ORG
+8	SMALL	small	JJ	pos2=NNP	9	nmod	_	I-ORG
+9	BOMBS	bomb	NNS	_	7	pobj	_	L-ORG
+10	#MiamiBookFair2016	#miamibookfair0	VBP	pos2=GW	12	dep	_	O
+11	#NBAwards	#nbawards	NNS	pos2=ADD	12	nmod	_	O
+12	https://t.co/AAZ2DE51UX	#hlink#	ADD	_	3	dep	_	O
+

@@ -1,0 +1,19 @@
+1	the	the	DT	_	2	det	_	O
+2	explanation	explanation	NN	_	15	nsubj	_	O
+3	as	as	IN	_	2	prep	_	O
+4	to	to	IN	_	3	prep	_	O
+5	why	why	WRB	_	8	advmod	_	O
+6	dems	dems	NNS	pos2=PRP	8	nsubjpass	_	O
+7	got	get	VBD	_	8	auxpass	_	O
+8	blown	blow	VBN	_	4	pcomp	_	O
+9	out	out	IN	_	8	prep	_	O
+10	of	of	IN	_	9	prep	_	O
+11	the	the	DT	_	12	det	_	O
+12	water	water	NN	_	10	pobj	_	O
+13	in	in	IN	_	8	prep	_	O
+14	2016	0	CD	_	13	pobj	_	U-DATE
+15	is	be	VBZ	_	0	root	_	O
+16	full	full	JJ	_	15	acomp	_	O
+17	of	of	IN	_	16	prep	_	O
+18	tautologies	tautology	NNS	_	17	pobj	_	O
+

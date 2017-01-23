@@ -1,0 +1,20 @@
+1	#NBA	#nba	NNP	pos2=NN	5	nmod	_	B-DATE
+2	2015	0	CD	_	4	qmod	_	I-DATE
+3	-	-	SYM	pos2=HYPH	4	punct	_	I-DATE
+4	16	0	CD	_	5	nmod	_	L-DATE
+5	Panini	panini	NNP	pos2=NN	0	root	_	U-ORG
+6	Flawless	flawless	JJ	pos2=NNP	8	compound	_	O
+7	TIM	tim	NNP	pos2=NN	8	compound	_	B-PERSON
+8	DUNCAN	duncan	NNP	_	12	nsubj	_	L-PERSON
+9	/	/	SYM	pos2=HYPH	5	punct	_	O
+10	KAWHI	kawhi	NNP	pos2=NN	11	compound	_	B-PERSON
+11	LEONARD	leonard	NNP	_	15	compound	_	L-PERSON
+12	SAPPHIRE	sapphire	NN	pos2=NNP	15	compound	_	O
+13	DUAL	dual	NNP	pos2=JJ	15	compound	_	O
+14	Patch	patch	NN	pos2=NNP	15	compound	_	O
+15	#	#	NN	_	19	dep	_	O
+16	5/10	0	CD	pos2=GW	15	nmod	_	U-MONEY
+17	https://t.co/JSKajZ2CWr	#hlink#	ADD	pos2=:	19	nmod	_	O
+18	#AllStar	#allstar	ADD	pos2=GW	0	root	_	O
+19	https://t.co/vcUkGUOdq2	#hlink#	ADD	_	18	pobj	_	O
+

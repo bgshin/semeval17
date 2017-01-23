@@ -1,0 +1,17 @@
+1	@thelateempire	@thelateempire	IN	pos2=SYM	3	prep	_	O
+2	Castro	castro	NNP	_	3	nsubj	_	U-PERSON
+3	supported	support	VBD	_	0	root	_	O
+4	Obama	obama	NNP	_	3	dobj	_	U-PERSON
+5	.	.	.	_	3	punct	_	O
+
+1	Transition	transition	NN	pos2=VB	6	nsubj	_	O
+2	to	to	IN	_	1	prep	_	O
+3	greater	great	JJR	_	4	nmod	_	O
+4	freedoms	freedom	NNS	_	2	pobj	_	O
+5	will	will	MD	_	6	aux	_	O
+6	be	be	VB	_	0	root	_	O
+7	easier	easy	JJR	pos2=VBN	6	acomp	_	O
+8	under	under	IN	_	6	prep	_	O
+9	Trump	trump	NNP	pos2=NN	8	pobj	_	U-ORG
+10	.	.	.	_	6	punct	_	O
+

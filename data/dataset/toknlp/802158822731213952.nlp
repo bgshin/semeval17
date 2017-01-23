@@ -1,0 +1,24 @@
+1	I	I	PRP	_	3	nsubj	_	O
+2	just	just	RB	_	3	advmod	_	O
+3	called	call	VBD	_	0	root	_	O
+4	Tony	tony	NNP	_	5	compound	_	B-PERSON
+5	Romo	romo	NNP	_	3	dobj	_	L-PERSON
+6	"	"	``	pos2=''	11	punct	_	O
+7	a	a	DT	_	8	det	_	O
+8	crackheads	crackhead	NNS	_	11	poss	_	O
+9	'	'	POS	pos2=''	8	case	_	O
+10	Bret	bret	NNP	_	11	compound	_	B-PERSON
+11	Favre	favre	NNP	_	3	oprd	_	L-PERSON
+12	"	"	''	pos2=``	11	punct	_	O
+13	on	on	IN	_	3	prep	_	O
+14	Facebook	facebook	NNP	_	13	pobj	_	U-ORG
+15	.	.	.	_	3	punct	_	O
+
+1	Facebook	facebook	NNP	_	2	nsubj	_	U-ORG
+2	was	be	VBD	_	0	root	_	O
+3	n't	not	RB	_	2	neg	_	O
+4	worthy	worthy	JJ	_	2	acomp	_	O
+5	of	of	IN	_	4	prep	_	O
+6	that	that	DT	_	7	det	_	O
+7	😄	😄	NNP	pos2=NN	5	pobj	_	U-ORG
+

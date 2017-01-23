@@ -1,0 +1,24 @@
+1	America	america	NNP	_	4	poss	_	U-GPE
+2	's	's	POS	_	1	case	_	O
+3	Election	election	NNP	pos2=NN	4	compound	_	B-ORG
+4	HQ	hq	NNP	pos2=NN	0	root	_	L-ORG
+5	Nov	nov	NNP	_	4	npadvmod	_	B-DATE
+6	25	0	CD	_	5	nmod	_	I-DATE
+7	,	,	,	_	5	punct	_	I-DATE
+8	16	0	CD	_	5	npadvmod	_	L-DATE
+9	Trump	trump	NNP	pos2=NN	12	poss	_	U-ORG
+10	's	's	POS	_	9	case	_	O
+11	Cabinet	cabinet	NNP	_	12	compound	_	O
+12	Choices	choice	NNPS	pos2=NNS	4	appos	_	O
+13	;	;	,	pos2=:	16	punct	_	O
+14	RPT	rpt	NNP	pos2=NN	15	compound	_	B-PERSON
+15	Romney	romney	NNP	_	16	nsubj	_	L-PERSON
+16	Considered	consider	VBN	pos2=NNP	0	root	_	O
+17	for	for	IN	_	16	prep	_	O
+18	Secy	secy	NNP	_	17	pobj	_	B-ORG
+19	of	of	IN	_	18	prep	_	I-ORG
+20	State	state	NNP	pos2=NN	19	pobj	_	L-ORG
+21	:	:	:	_	16	punct	_	O
+22	https://t.co/ao4r1tjlxA	#hlink#	ADD	_	16	punct	_	O
+23	via	via	IN	pos2=FW	16	prep	_	O
+

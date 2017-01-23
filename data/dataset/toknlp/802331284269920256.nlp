@@ -1,0 +1,16 @@
+1	@SarahWoodwriter	@sarahwoodwriter	NNP	pos2=ADD	5	nmod	_	O
+2	Yeah	yeah	UH	_	5	discourse	_	O
+3	,	,	,	_	8	punct	_	O
+4	ima	ima	TO	pos2=NN	8	prep	_	O
+5	respect	respect	NN	pos2=VB	4	pobj	_	O
+6	this	this	DT	_	7	det	_	O
+7	Admin	admin	NN	pos2=NNP	5	dobj	_	O
+8	as	as	RB	_	9	advmod	_	O
+9	much	much	RB	pos2=JJ	0	root	_	O
+10	as	as	IN	_	12	mark	_	O
+11	they	they	PRP	_	12	nsubj	_	O
+12	respected	respect	VBD	_	9	advcl	_	O
+13	Obama	obama	NNP	_	15	poss	_	U-PERSON
+14	's	's	POS	_	13	case	_	O
+15	https://t.co/V7mIC3Tlo4	#hlink#	ADD	pos2=NN	12	dobj	_	O
+

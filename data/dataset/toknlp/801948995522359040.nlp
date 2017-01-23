@@ -1,0 +1,27 @@
+1	@kirstiealley	@kirstiealley	UH	pos2=RB	4	discourse	_	O
+2	I	I	PRP	_	4	nsubj	_	O
+3	'm	be	VBP	_	4	aux	_	O
+4	admiring	admire	VBG	_	0	root	_	O
+5	your	your	PRP$	_	7	poss	_	O
+6	beautiful	beautiful	JJ	_	7	nmod	_	O
+7	physique	physique	NN	_	4	dobj	_	O
+8	on	on	IN	_	4	prep	_	O
+9	#ScreamQueens	#screamqueens	NNS	pos2=NNP	8	pobj	_	O
+10	.	.	.	_	4	punct	_	O
+
+1	Any	any	DT	_	4	det	_	O
+2	particular	particular	JJ	_	4	nmod	_	O
+3	nutrition	nutrition	NN	_	4	compound	_	O
+4	plan	plan	NN	pos2=VBP	7	dobj	_	O
+5	you	you	PRP	_	7	nsubj	_	O
+6	're	be	VBP	_	7	aux	_	O
+7	following	follow	VBG	_	0	root	_	O
+8	?	?	.	_	7	punct	_	O
+
+1	Also	also	RB	_	4	advmod	_	O
+2	,	,	,	_	4	punct	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	're	be	VBP	_	0	root	_	O
+5	hilarious	hilarious	JJ	_	4	acomp	_	O
+6	!	!	.	_	4	punct	_	O
+

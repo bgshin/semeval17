@@ -1,0 +1,27 @@
+1	Do	do	VBP	_	3	aux	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	know	know	VB	_	0	root	_	O
+4	what	what	WP	_	5	nsubj	_	O
+5	's	's	VBZ	_	3	ccomp	_	O
+6	mad	mad	JJ	_	5	acomp	_	O
+7	?	?	.	_	3	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	solution	solution	NN	_	5	nsubj	_	O
+3	being	be	VBG	_	4	auxpass	_	O
+4	offered	offer	VBN	_	2	acl	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	to	to	TO	_	7	aux	_	O
+7	look	look	VB	_	5	xcomp	_	O
+8	for	for	IN	_	7	prep	_	O
+9	signs	sign	NNS	_	8	pobj	_	O
+10	that	that	IN	pos2=WDT	13	mark	_	O
+11	CHILDREN	child	NNS	pos2=NNP	13	nsubj	_	O
+12	are	be	VBP	_	13	aux	_	O
+13	planning	plan	VBG	_	9	acl	_	O
+14	MASS	mass	NN	pos2=NNP	15	compound	_	O
+15	SHOOTINGS	shooting	NNS	_	13	dobj	_	O
+16	,	,	,	_	18	punct	_	O
+17	…	…	NFP	pos2=-LRB-	18	punct	_	O
+18	https://t.co/3kiUxESSWw	#hlink#	ADD	pos2=NN	13	dep	_	O
+

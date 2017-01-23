@@ -1,0 +1,34 @@
+1	@realDonaldTrump	@realdonaldtrump	NN	pos2=NNS	0	root	_	O
+2	And	and	CC	_	1	cc	_	O
+3	another	another	DT	_	4	det	_	O
+4	1	0	CD	pos2=NN	1	conj	_	U-CARDINAL
+5	...	..	.	pos2=,	1	punct	_	O
+
+1	they	they	PRP	_	5	nsubj	_	O
+2	,	,	,	_	5	punct	_	O
+3	the	the	DT	_	4	det	_	O
+4	deplorables	deplorables	NNS	pos2=NN	5	nsubj	_	O
+5	made	make	VBD	_	0	root	_	O
+6	it	it	PRP	_	8	nsubj	_	O
+7	so	so	RB	_	8	advmod	_	O
+8	easy	easy	JJ	pos2=RB	5	ccomp	_	O
+9	4	0	CD	_	10	nmod	_	U-DATE
+10	U	u	PRP	pos2=NNP	8	dobj	_	O
+11	!	!	.	_	5	punct	_	O
+
+1	"	"	``	_	3	punct	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	love	love	VBP	_	0	root	_	O
+4	my	my	PRP$	_	12	poss	_	O
+5	uneducated	uneducated	JJ	_	12	nmod	_	O
+6	"	"	``	pos2=''	12	punct	_	O
+7	B	b	NN	_	9	nmod	_	O
+8	/	/	SYM	pos2=HYPH	9	punct	_	O
+9	C	c	NN	pos2=NNP	12	compound	_	O
+10	they	they	NN	pos2=PRP	12	compound	_	O
+11	R	r	VBP	pos2=GW	12	compound	_	O
+12	U	u	NN	pos2=NNP	3	dobj	_	O
+13	!	!	.	_	3	punct	_	O
+
+1	https://t.co/01zzxlu5WJ	#hlink#	ADD	_	0	root	_	U-ORG
+

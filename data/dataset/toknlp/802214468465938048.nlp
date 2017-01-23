@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det	_	O
+2	cast	cast	NN	_	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	onstage	onstage	RB	pos2=JJ	3	advmod	_	O
+5	and	and	CC	_	3	cc	_	O
+6	sounding	sound	VBG	_	4	conj	_	O
+7	great	great	JJ	pos2=RB	6	acomp	_	O
+8	!	!	.	_	3	punct	_	O
+
+1	#BeautyandtheBeast	#beautyandthebeast	NN	pos2=ADD	2	nsubj	_	O
+2	opens	open	VBZ	_	0	root	_	O
+3	next	next	JJ	_	4	nmod	_	B-DATE
+4	week	week	NN	_	2	npadvmod	_	L-DATE
+5	!	!	.	_	2	punct	_	O
+
+1	For	for	IN	_	6	prep	_	O
+2	tickets	ticket	NNS	_	1	pobj	_	O
+3	and	and	CC	_	2	cc	_	O
+4	more	more	JJR	pos2=RBR	5	nmod	_	O
+5	visit	visit	NN	pos2=VB	2	conj	_	O
+6	https://t.co/jKRS6OnQWg	#hlink#	ADD	pos2=NN	0	root	_	O
+

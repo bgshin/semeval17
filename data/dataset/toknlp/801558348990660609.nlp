@@ -1,0 +1,30 @@
+1	This	this	DT	_	3	nsubj	_	O
+2	is	be	VBZ	_	3	aux	_	O
+3	holding	hold	VBG	_	0	root	_	O
+4	these	these	DT	_	5	det	_	O
+5	groups	group	NNS	_	3	dobj	_	O
+6	back	back	RB	pos2=RP	3	prt	_	O
+7	,	,	,	_	3	punct	_	O
+8	the	the	DT	_	9	det	_	O
+9	aura	aura	NN	_	4	appos	_	O
+10	of	of	IN	_	9	prep	_	O
+11	corruption	corruption	NN	_	10	pobj	_	O
+12	especially	especially	RB	_	13	advmod	_	O
+13	on	on	IN	_	9	prep	_	O
+14	p&t	p&t	NNP	pos2=XX	13	pobj	_	U-ORG
+15	,	,	,	_	9	punct	_	O
+16	esp	esp	RB	pos2=UH	9	conj	_	O
+17	.	.	.	_	3	punct	_	O
+
+1	3W	0w	NN	pos2=NNP	0	root	_	U-ORG
+2	,	,	,	_	1	punct	_	O
+3	which	which	WDT	_	6	nsubj	_	O
+4	even	even	RB	_	5	advmod	_	O
+5	rightists	rightist	NNS	_	6	nsubj	_	O
+6	are	be	VBP	_	1	relcl	_	O
+7	open	open	JJ	_	6	acomp	_	O
+8	to	to	TO	_	9	aux	_	O
+9	listen	listen	VB	_	7	xcomp	_	O
+10	about	about	IN	pos2=RB	9	prep	_	O
+11	.	.	.	_	1	punct	_	O
+

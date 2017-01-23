@@ -1,0 +1,21 @@
+1	@IndiaToday	@indiatoday	NNP	pos2=NN	2	compound	_	B-PERSON
+2	Pak	pak	NNP	pos2=XX	3	nsubj	_	L-PERSON
+3	hide	hide	VB	pos2=NN	0	root	_	O
+4	behind	behind	IN	_	3	prep	_	O
+5	foreign	foreign	JJ	_	6	nmod	_	O
+6	countries	country	NNS	_	4	pobj	_	O
+7	rippled	ripple	VBD	pos2=VBN	3	advcl	_	O
+8	with	with	IN	_	7	prep	_	O
+9	religious	religious	JJ	_	10	nmod	_	O
+10	wars	war	NNS	_	8	pobj	_	O
+11	rhetoric	rhetoric	NN	_	7	dobj	_	O
+12	for	for	IN	_	11	prep	_	O
+13	drone	drone	NN	_	14	compound	_	O
+14	strikes	strike	NNS	pos2=VBZ	12	pobj	_	O
+15	that	that	WDT	pos2=DT	16	nsubj	_	O
+16	radicalise	radicalise	VBP	_	14	relcl	_	O
+17	every	every	DT	_	18	det	_	O
+18	community	community	NN	_	16	dobj	_	O
+19	upon	upon	IN	_	16	prep	_	O
+20	wh	wh	UH	pos2=NN	19	discourse	_	O
+

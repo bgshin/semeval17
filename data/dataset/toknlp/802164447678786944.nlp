@@ -1,0 +1,6 @@
+1	Christmas	christmas	NNP	_	2	compound	_	B-DATE
+2	🎄	🎄	NNP	pos2=NN	4	nsubj	_	L-DATE
+3	then	then	RB	_	4	advmod	_	O
+4	valentines	valentines	VBZ	pos2=NNS	0	root	_	O
+5	💝	💝	NNP	pos2=.	4	dobj	_	O
+

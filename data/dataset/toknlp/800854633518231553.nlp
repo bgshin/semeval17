@@ -1,0 +1,21 @@
+1	Spencer	spencer	NNP	pos2=NN	3	compound	_	U-PERSON
+2	-	-	HYPH	_	3	punct	_	O
+3	type	type	NN	pos2=VB	6	compound	_	O
+4	alt	alt	NN	pos2=JJ	6	compound	_	O
+5	-	-	HYPH	_	6	punct	_	O
+6	rightists	rightist	NNS	_	8	nsubj	_	O
+7	are	be	VBP	_	8	aux	_	O
+8	normalizing	normalize	VBG	_	0	root	_	O
+9	themselves	themselves	PRP	_	8	dobj	_	O
+10	by	by	IN	_	8	prep	_	O
+11	not	not	RB	_	13	neg	_	O
+12	being	be	VBG	_	13	aux	_	O
+13	screaming	scream	VBG	_	10	pcomp	_	O
+14	jackbooted	jackbooted	JJ	_	15	nmod	_	O
+15	skinheads	skinhead	NNS	_	13	dobj	_	O
+16	.	.	.	_	8	punct	_	O
+
+1	Much	much	RB	pos2=JJ	2	advmod	_	O
+2	scarier	scary	JJR	pos2=RBR	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+

@@ -1,0 +1,34 @@
+1	@TheTraceTaylor	@thetracetaylor	NNP	pos2=XX	2	compound	_	O
+2	Obama	obama	NNP	_	3	nsubj	_	U-PERSON
+3	WARNED	warn	VBD	_	0	root	_	O
+4	us	us	PRP	_	3	dobj	_	O
+5	that	that	IN	_	20	mark	_	O
+6	if	if	IN	_	11	mark	_	O
+7	the	the	DT	_	8	det	_	O
+8	U.S.	u.s.	NNP	_	11	nsubj	_	U-GPE
+9	does	do	VBZ	_	11	aux	_	O
+10	n't	not	RB	_	11	neg	_	O
+11	step	step	VB	_	20	advcl	_	O
+12	in	in	RB	pos2=RP	11	advmod	_	O
+13	&	&	CC	_	11	cc	_	O
+14	help	help	VB	pos2=NN	11	conj	_	O
+15	write	write	VB	_	14	xcomp	_	O
+16	TPP	tpp	NN	pos2=NNP	17	compound	_	O
+17	rules	rule	NNS	_	15	dobj	_	O
+18	,	,	,	_	20	punct	_	O
+19	China	china	NNP	_	20	nsubj	_	U-GPE
+20	will	will	MD	_	3	ccomp	_	O
+21	!	!	.	_	3	punct	_	O
+
+1	Who	who	WP	_	4	dobj	_	O
+2	should	should	MD	_	4	aux	_	O
+3	we	we	PRP	_	4	nsubj	_	O
+4	trust	trust	VB	_	0	root	_	O
+5	?	?	.	_	4	punct	_	O
+
+1	Now	now	RB	_	3	advmod	_	O
+2	TPP	tpp	NNP	pos2=NN	3	nsubj	_	U-ORG
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	goner	goner	NN	_	3	attr	_	O
+

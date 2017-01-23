@@ -1,0 +1,26 @@
+1	@davidaxelrod	@davidaxelrod	UH	pos2=NNP	11	discourse	_	O
+2	Interestingly	interestingly	RB	pos2=NNP	11	advmod	_	O
+3	,	,	,	_	11	punct	_	O
+4	during	during	IN	_	11	prep	_	O
+5	pro	pro	JJ	pos2=FW	6	nmod	_	O
+6	west	west	NN	pos2=FW	7	compound	_	O
+7	Saakashvili	saakashvili	NNP	_	4	pobj	_	U-PERSON
+8	,	,	,	_	11	punct	_	O
+9	this	this	DT	_	10	det	_	O
+10	project	project	NN	_	11	nsubj	_	O
+11	halted	halt	VBD	pos2=VBN	0	root	_	O
+12	.	.	.	_	11	punct	_	O
+
+1	Now	now	RB	_	9	advmod	_	O
+2	with	with	IN	_	9	prep	_	O
+3	Putin	putin	NNP	_	6	nmod	_	U-PERSON
+4	loyalist	loyalist	NN	pos2=JJ	6	nmod	_	O
+5	Georgian	georgian	JJ	pos2=NNP	6	nmod	_	U-NORP
+6	government	government	NN	_	2	pobj	_	O
+7	,	,	,	_	9	punct	_	O
+8	it	it	PRP	_	9	nsubj	_	O
+9	's	's	VBZ	_	0	root	_	O
+10	back	back	RB	_	9	advmod	_	O
+11	on	on	RB	pos2=IN	9	advmod	_	O
+12	.	.	.	_	9	punct	_	O
+

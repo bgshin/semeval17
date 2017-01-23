@@ -1,0 +1,13 @@
+1	It	it	PRP	_	2	nsubj	_	O
+2	is	be	VBZ	_	0	root	_	O
+3	very	very	RB	_	4	advmod	_	O
+4	important	important	JJ	_	2	acomp	_	O
+5	to	to	TO	_	6	aux	_	O
+6	know	know	VB	_	2	xcomp	_	O
+7	that	that	IN	pos2=DT	11	mark	_	O
+8	vaccines	vaccine	NNS	_	11	nsubj	_	O
+9	do	do	VBP	_	11	aux	_	O
+10	not	not	RB	_	11	neg	_	O
+11	cause	cause	VB	_	6	ccomp	_	O
+12	autism	autism	NN	_	11	dobj	_	O
+

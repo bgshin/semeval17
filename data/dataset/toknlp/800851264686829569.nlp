@@ -1,0 +1,18 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	U-ORG
+2	@RealGDT	@realgdt	NN	pos2=XX	11	dep	_	O
+3	:	:	:	_	11	punct	_	O
+4	The	the	DT	_	5	det	_	O
+5	term	term	NN	_	11	nsubj	_	O
+6	"	"	``	_	9	punct	_	O
+7	Alt	alt	NNP	pos2=JJ	9	npadvmod	_	O
+8	-	-	HYPH	_	9	punct	_	O
+9	right	right	JJ	_	5	appos	_	O
+10	"	"	''	_	9	punct	_	O
+11	is	be	VBZ	_	0	root	_	O
+12	,	,	,	_	11	punct	_	O
+13	in	in	IN	_	11	prep	_	O
+14	itself	itself	PRP	_	13	pobj	_	O
+15	,	,	,	_	11	punct	_	O
+16	normalization	normalization	NN	_	11	attr	_	O
+17	.	.	.	_	11	punct	_	O
+

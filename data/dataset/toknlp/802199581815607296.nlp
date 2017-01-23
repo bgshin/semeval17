@@ -1,0 +1,25 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@eu_eeas	@eu_eeas	NNS	pos2=``	7	nsubj	_	O
+2	@FedericaMog	@federicamog	VBG	pos2=ADD	1	acl	_	O
+3	"	"	``	pos2=''	4	punct	_	O
+4	Violence	violence	NN	pos2=NNP	2	dobj	_	O
+5	against	against	IN	_	4	prep	_	O
+6	women	woman	NNS	_	5	pobj	_	O
+7	is	be	VBZ	_	0	root	_	O
+8	violence	violence	NN	pos2=RB	7	attr	_	O
+9	against	against	IN	_	8	prep	_	O
+10	entire	entire	JJ	_	11	nmod	_	O
+11	society	society	NN	_	9	pobj	_	O
+12	"	"	''	pos2=``	7	punct	_	O
+13	REALLY	really	RB	_	7	advmod	_	O
+14	??	??	.	pos2=,	7	punct	_	O
+
+1	please	please	UH	_	2	discourse	_	O
+2	tell	tell	VB	_	0	root	_	O
+3	this	this	DT	_	2	dobj	_	O
+4	to	to	IN	_	2	dative	_	O
+5	you	you	PRP	_	4	pobj	_	O
+6	…	…	NFP	pos2=-LRB-	7	punct	_	O
+7	https://t.co/KVtRlDesr9	#hlink#	ADD	_	4	pobj	_	O
+

@@ -1,0 +1,20 @@
+1	#Holocaust	#holocaust	NNP	pos2=ADD	2	compound	_	O
+2	Survivor	survivor	NN	pos2=NNP	10	dep	_	O
+3	:	:	:	_	10	punct	_	O
+4	UN	un	NNP	_	6	poss	_	U-ORG
+5	’s	's	POS	pos2=AFX	4	case	_	O
+6	#Jewish	#jewish	NNP	pos2=NN	9	poss	_	O
+7	‘	'	POS	pos2=``	6	case	_	O
+8	Temple	temple	NNP	_	9	compound	_	B-PERSON
+9	Denial	denial	NNP	pos2=NN	10	nsubj	_	L-PERSON
+10	Is	be	VBZ	_	0	root	_	O
+11	Worse	bad	JJR	_	10	acomp	_	O
+12	Than	than	IN	pos2=NNP	11	prep	_	O
+13	Holocaust	holocaust	NNP	_	14	compound	_	O
+14	Denial	denial	NNP	pos2=NN	17	poss	_	O
+15	’	'	POS	pos2=''	14	case	_	O
+16	https://t.co/kXcZNoYkPc	#hlink#	ADD	_	19	nmod	_	O
+17	#UNESCO	#unesco	NNP	pos2=-RRB-	12	pobj	_	O
+18	#TempleMount	#templemount	ADD	pos2=VB	14	cc	_	O
+19	#Jerusalem	#jerusalem	NNP	pos2=ADD	18	pobj	_	O
+

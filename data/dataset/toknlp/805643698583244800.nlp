@@ -1,0 +1,17 @@
+1	@joshtpm	@joshtpm	UH	pos2=NNS	2	discourse	_	O
+2	Was	be	VBD	pos2=NNP	0	root	_	O
+3	still	still	RB	pos2=DT	2	advmod	_	O
+4	way	way	RB	pos2=NN	5	advmod	_	O
+5	lower	low	JJR	_	2	acomp	_	O
+6	than	than	IN	_	9	mark	_	O
+7	it	it	PRP	_	9	nsubj	_	O
+8	should	should	MD	_	9	aux	_	O
+9	be	be	VB	_	5	advcl	_	O
+10	bc	bc	NNS	pos2=VBN	9	attr	_	O
+11	of	of	IN	_	10	prep	_	O
+12	insane	insane	JJ	_	15	nmod	_	O
+13	voter	voter	NN	_	14	compound	_	O
+14	suppression	suppression	NN	_	15	compound	_	O
+15	tactics	tactic	NNS	_	11	pobj	_	O
+16	.	.	.	_	2	punct	_	O
+

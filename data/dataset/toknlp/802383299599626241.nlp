@@ -1,0 +1,8 @@
+1	@lukekook	@lukekook	UH	pos2=EX	2	discourse	_	O
+2	are	be	VBP	_	0	root	_	O
+3	you	you	PRP	_	2	nsubj	_	O
+4	actually	actually	RB	_	2	advmod	_	O
+5	Bob	bob	NNP	_	6	compound	_	B-PERSON
+6	Dylan	dylan	NNP	_	7	dep	_	L-PERSON
+7	https://t.co/JuCpTyROhD	#hlink#	ADD	_	2	dep	_	O
+

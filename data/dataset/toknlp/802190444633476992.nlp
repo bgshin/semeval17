@@ -1,0 +1,12 @@
+1	@jawwatts	@jawwatts	UH	pos2=NNS	3	discourse	_	O
+2	@washingtonpost	@washingtonpost	UH	pos2=MD	3	discourse	_	O
+3	ask	ask	VB	pos2=VBP	0	root	_	O
+4	Ben	ben	NNP	_	5	compound	_	B-PERSON
+5	Carson	carson	NNP	_	8	poss	_	I-PERSON
+6	's	's	POS	_	5	case	_	L-PERSON
+7	campaign	campaign	NN	_	8	compound	_	O
+8	pushers	pusher	NNS	pos2=NN	3	dobj	_	O
+9	:/	:/	NFP	pos2=:	3	discourse	_	O
+10	#scavengers	#scavengers	NNS	pos2=UH	8	appos	_	O
+11	#prey	#prey	UH	pos2=.	3	discourse	_	O
+

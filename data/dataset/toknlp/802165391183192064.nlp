@@ -1,0 +1,16 @@
+1	Arabs	arab	NNPS	pos2=NNS	2	nsubj	_	U-NORP
+2	Celebrate	celebrate	VBP	pos2=VB	0	root	_	O
+3	as	as	IN	_	7	mark	_	O
+4	Israel	israel	NNP	_	5	compound	_	U-GPE
+5	B	b	NNP	pos2=GW	3	pobj	_	O
+6	urnshttps://t.co/EoNSDQaHir@camanpour	#hlink#	ADD	_	7	nsubj	_	O
+7	sips	sip	VBZ	pos2=NNS	2	advcl	_	O
+8	latte#P2	latte#p0	NN	pos2=XX	7	dobj	_	O
+9	#tcot	#tcot	UH	pos2=ADD	7	discourse	_	O
+10	#sgp	#sgp	UH	pos2=IN	7	discourse	_	O
+11	#mtv	#mtv	UH	pos2=FW	7	dobj	_	O
+12	#uniteblue	#uniteblue	UH	pos2=VB	7	dobj	_	O
+13	#jcot	#jcot	UH	pos2=PRP	7	dobj	_	O
+14	#teaparty	#teaparty	UH	pos2=FW	7	discourse	_	O
+15	#progressive	#progressive	UH	pos2=.	7	discourse	_	O
+

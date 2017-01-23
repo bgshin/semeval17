@@ -1,0 +1,25 @@
+1	@segalmr	@segalmr	UH	pos2=XX	5	discourse	_	O
+2	@OrinKerr	@orinkerr	UH	pos2=NN	5	discourse	_	O
+3	@lessig	@lessig	UH	pos2=WP	5	nsubj	_	O
+4	Completely	completely	RB	_	5	advmod	_	O
+5	irrelevant	irrelevant	JJ	_	0	root	_	O
+6	,	,	,	_	5	punct	_	O
+7	FBI	fbi	NNP	_	8	compound	_	U-ORG
+8	Comey	comey	NNP	_	18	npadvmod	_	U-PERSON
+9	the	the	DT	_	11	det	_	O
+10	Hatch	hatch	NNP	_	11	compound	_	U-ORG
+11	act	act	NN	pos2=NNP	8	appos	_	O
+12	,	,	,	_	8	punct	_	O
+13	Antony	antony	NNP	_	14	compound	_	B-PERSON
+14	Wiener	wiener	NNP	_	18	poss	_	I-PERSON
+15	's	's	POS	_	14	case	_	L-PERSON
+16	laptop	laptop	NN	_	18	npadvmod	_	O
+17	-	-	HYPH	_	18	punct	_	O
+18	relevant	relevant	JJ	pos2=NN	5	conj	_	O
+19	,	,	,	_	18	punct	_	O
+20	but	but	CC	_	18	cc	_	O
+21	not	not	RB	_	22	neg	_	O
+22	to	to	IN	pos2=TO	18	conj	_	O
+23	electoral	electoral	JJ	pos2=VB	24	nmod	_	O
+24	college	college	NN	_	22	pobj	_	O
+

@@ -1,0 +1,27 @@
+1	I	I	PRP	_	2	nsubj	_	O
+2	think	think	VBP	_	18	ccomp	_	O
+3	this	this	DT	_	4	det	_	O
+4	guy	guy	NN	_	5	nsubj	_	O
+5	was	be	VBD	_	2	ccomp	_	O
+6	a	a	DT	_	8	det	_	O
+7	reasonable	reasonable	JJ	_	8	nmod	_	O
+8	person	person	NN	_	5	attr	_	O
+9	involved	involve	VBN	pos2=JJ	8	acl	_	O
+10	in	in	IN	_	9	prep	_	O
+11	the	the	DT	_	14	det	_	O
+12	Alt	alt	NNP	pos2=JJ	14	compound	_	O
+13	-	-	HYPH	_	14	punct	_	O
+14	right	right	JJ	pos2=RB	10	pobj	_	O
+15	;	;	,	pos2=:	18	punct	_	O
+16	he	he	PRP	_	18	nsubj	_	O
+17	's	's	VBZ	_	18	aux	_	O
+18	dropping	drop	VBG	_	0	root	_	O
+19	the	the	DT	_	20	det	_	O
+20	label	label	NN	_	18	dobj	_	O
+21	since	since	IN	_	18	prep	_	O
+22	the	the	DT	_	24	det	_	O
+23	Nazi	nazi	NNP	_	24	compound	_	U-NORP
+24	salute	salute	NN	_	21	pobj	_	O
+25	…	…	NFP	pos2=-LRB-	26	punct	_	O
+26	https://t.co/2C0buGG6ED	#hlink#	ADD	_	18	dep	_	O
+

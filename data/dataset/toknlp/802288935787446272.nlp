@@ -1,0 +1,21 @@
+1	@_	@_	SYM	pos2=``	4	punct	_	O
+2	BEPS1	beps0	NN	pos2=MD	4	dep	_	O
+3	i	I	PRP	pos2=EX	4	nsubj	_	O
+4	have	have	VBP	_	0	root	_	O
+5	galaxy	galaxy	NN	pos2=XX	6	compound	_	O
+6	s7	s0	NN	pos2=NNP	4	dobj	_	O
+7	and	and	CC	_	6	cc	_	O
+8	its	its	PRP$	_	9	poss	_	O
+9	fine	fine	JJ	pos2=NN	6	conj	_	O
+10	...	..	.	pos2=,	4	punct	_	O
+
+1	its	its	PRP$	pos2=VBZ	4	poss	_	O
+2	the	the	DT	_	4	det	_	O
+3	galaxy	galaxy	NN	_	4	compound	_	O
+4	note	note	NN	pos2=VBP	0	advmod	_	O
+5	7	0	CD	_	4	nmod	_	U-CARDINAL
+6	that	that	WDT	pos2=DT	7	nsubj	_	O
+7	blows	blow	VBZ	_	4	relcl	_	O
+8	up	up	RP	_	7	prt	_	O
+9	lol	lol	UH	pos2=NN	4	discourse	_	O
+

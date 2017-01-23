@@ -1,0 +1,25 @@
+1	@krystalball	@krystalball	UH	pos2=XX	9	discourse	_	O
+2	@PoliticsPeach	@politicspeach	ADD	pos2=NN	9	punct	_	O
+3	@Milbank	@milbank	NNP	pos2=$	5	compound	_	B-PERSON
+4	@RepTimRyan	@reptimryan	NNP	pos2=IN	5	compound	_	I-PERSON
+5	Pelosi	pelosi	NNP	_	9	nsubj	_	L-PERSON
+6	and	and	CC	_	5	cc	_	O
+7	alikes	alikes	NNS	_	5	conj	_	O
+8	have	have	VBP	_	9	aux	_	O
+9	turned	turn	VBN	_	0	root	_	O
+10	into	into	IN	_	9	prep	_	O
+11	cancer	cancer	NN	_	12	compound	_	O
+12	tumors	tumor	NNS	_	10	pobj	_	O
+13	.	.	.	_	9	punct	_	O
+
+1	The	the	DT	_	2	det	_	O
+2	must	must	MD	_	4	aux	_	O
+3	have	have	VB	_	4	aux	_	O
+4	gotten	get	VBN	_	0	root	_	O
+5	out	out	RP	pos2=RB	4	prt	_	O
+6	YESTERDAY	yesterday	NN	_	4	npadvmod	_	U-DATE
+7	.	.	.	_	4	punct	_	O
+
+1	GTHO	gtho	NN	pos2=NNP	0	root	_	O
+2	.	.	.	_	1	punct	_	O
+

@@ -1,0 +1,28 @@
+1	Jill	jill	NNP	_	2	compound	_	B-PERSON
+2	Stein	stein	NNP	_	3	nsubj	_	L-PERSON
+3	gets	get	VBZ	_	0	root	_	O
+4	1	0	CD	_	5	nmod	_	B-PERCENT
+5	%	%	NN	_	3	dobj	_	L-PERCENT
+6	of	of	IN	_	5	prep	_	O
+7	Trump	trump	NNP	pos2=NN	9	poss	_	U-ORG
+8	's	's	POS	_	7	case	_	O
+9	votes	vote	NNS	_	6	pobj	_	O
+10	in	in	IN	_	3	prep	_	O
+11	Wisconsin	wisconsin	NNP	_	10	pobj	_	U-GPE
+12	but	but	CC	_	3	cc	_	O
+13	demands	demand	VBZ	_	3	conj	_	O
+14	a	a	DT	_	15	det	_	O
+15	recount	recount	NN	_	13	dobj	_	O
+16	?	?	.	_	3	punct	_	O
+
+1	BS	bs	NN	_	5	dep	_	O
+2	-	-	,	pos2=:	5	punct	_	O
+3	she	she	PRP	_	5	nsubj	_	O
+4	is	be	VBZ	_	5	aux	_	O
+5	getting	get	VBG	_	0	root	_	O
+6	Clinton	clinton	NNP	_	10	nmod	_	B-ORG
+7	Foundation	foundation	NNP	_	10	nmod	_	L-ORG
+8	mon	mon	GW	pos2=IN	10	nmod	_	O
+9	…	…	NFP	pos2=GW	10	punct	_	O
+10	https://t.co/PH50iqKWBB	#hlink#	ADD	_	5	dobj	_	O
+

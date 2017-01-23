@@ -1,0 +1,18 @@
+1	ISRAEL	israel	NNP	pos2=NN	7	dep	_	U-GPE
+2	|	|	SYM	pos2=,	7	punct	_	O
+3	Emergency	emergency	NN	pos2=NNP	4	compound	_	O
+4	forces	force	NNS	_	7	nsubj	_	O
+5	at	at	IN	_	4	prep	_	O
+6	#Shuafat	#shuafat	NNP	pos2=HYPH	5	pobj	_	U-ORG
+7	crossing	cross	VBG	pos2=NN	0	root	_	O
+8	after	after	IN	_	7	prep	_	O
+9	shooting	shoot	VBG	pos2=NN	8	pcomp	_	O
+10	of	of	IN	_	9	prep	_	O
+11	knife	knife	NN	_	10	pobj	_	O
+12	weilding	weilding	VBG	pos2=JJ	7	advcl	_	O
+13	assailant	assailant	NN	_	12	dobj	_	O
+14	in	in	IN	_	12	prep	_	O
+15	East	east	NNP	pos2=JJ	16	compound	_	B-GPE
+16	#Jerusalem	#jerusalem	NNP	pos2=POS	14	pobj	_	L-GPE
+17	https://t.co/JABcnm0eY5	#hlink#	ADD	_	7	dep	_	O
+

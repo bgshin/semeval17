@@ -1,0 +1,11 @@
+1	@JaclynLEIGHK	@jaclynleighk	XX	pos2=ADD	2	dep	_	O
+2	nope	nope	UH	_	0	root	_	O
+3	.	.	.	_	2	punct	_	O
+
+1	Sounds	sound	VBZ	_	0	root	_	O
+2	like	like	IN	_	1	prep	_	O
+3	a	a	DT	_	5	det	_	O
+4	personal	personal	JJ	_	5	nmod	_	O
+5	problem	problem	NN	_	2	pobj	_	O
+6	.	.	.	_	1	punct	_	O
+

@@ -1,0 +1,20 @@
+1	They	they	PRP	_	3	nsubj	_	O
+2	actually	actually	RB	_	3	advmod	_	O
+3	were	be	VBD	_	0	root	_	O
+4	n't	not	RB	_	3	neg	_	O
+5	too	too	RB	_	6	advmod	_	O
+6	keen	keen	JJ	_	3	acomp	_	O
+7	on	on	IN	_	6	prep	_	O
+8	a	a	DT	_	11	det	_	O
+9	Black	black	NNP	pos2=JJ	10	compound	_	B-EVENT
+10	Friday	friday	NNP	_	11	compound	_	L-EVENT
+11	sale	sale	NN	_	7	pobj	_	O
+12	because	because	IN	_	14	mark	_	O
+13	they	they	PRP	_	14	nsubj	_	O
+14	're	be	VBP	_	3	advcl	_	O
+15	white	white	JJ	_	16	nmod	_	O
+16	supremacists	supremacist	NNS	_	14	attr	_	O
+17	.	.	.	_	3	punct	_	O
+
+1	https://t.co/Emnlub1snr	#hlink#	ADD	_	0	root	_	U-ORG
+

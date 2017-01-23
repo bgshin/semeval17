@@ -1,0 +1,19 @@
+1	Just	just	RB	_	2	advmod	_	O
+2	me	me	PRP	_	0	root	_	O
+3	or	or	CC	_	2	cc	_	O
+4	is	be	VBZ	_	2	conj	_	O
+5	there	there	EX	_	4	expl	_	O
+6	a	a	DT	_	8	det	_	O
+7	cosmic	cosmic	JJ	_	8	nmod	_	O
+8	connection	connection	NN	_	4	attr	_	O
+9	between	between	IN	_	8	prep	_	O
+10	Cubs	cub	NNPS	pos2=NNP	17	poss	_	U-ORG
+11	winning	win	VBG	_	17	nmod	_	O
+12	World	world	NNP	_	13	compound	_	B-EVENT
+13	Series	series	NNP	_	11	dobj	_	L-EVENT
+14	and	and	CC	_	11	cc	_	O
+15	trump	trump	NN	pos2=VB	16	compound	_	O
+16	wining	wining	NN	pos2=VBG	17	compound	_	O
+17	election	election	NN	_	9	pobj	_	O
+18	?	?	.	_	4	punct	_	O
+

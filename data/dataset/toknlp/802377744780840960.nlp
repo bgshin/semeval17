@@ -1,0 +1,28 @@
+1	Giving	give	VBG	pos2=NN	8	prep	_	O
+2	Thanks	thanks	NN	pos2=NNS	1	dobj	_	O
+3	for	for	IN	_	1	prep	_	O
+4	Foster	foster	NNP	_	5	compound	_	B-PERSON
+5	Campbell	campbell	NNP	_	3	pobj	_	L-PERSON
+6	,	,	,	_	8	punct	_	O
+7	We	we	PRP	_	8	nsubj	_	O
+8	need	need	VBP	_	0	root	_	O
+9	1	0	CD	_	11	nmod	_	U-CARDINAL
+10	more	more	JJR	pos2=RBR	11	nmod	_	O
+11	Dem	dem	NN	pos2=NNP	8	dobj	_	O
+12	in	in	IN	_	11	prep	_	O
+13	the	the	DT	_	14	det	_	O
+14	Senate	senate	NNP	_	12	pobj	_	U-ORG
+15	to	to	TO	_	16	aux	_	O
+16	save	save	VB	_	8	advcl	_	O
+17	Soc	soc	NNP	_	18	compound	_	B-GPE
+18	Sec	sec	NNP	_	16	dobj	_	L-GPE
+19	,	,	,	_	18	punct	_	O
+20	Medicare	medicare	NNP	_	18	conj	_	B-ORG
+21	&	&	CC	_	20	cc	_	I-ORG
+22	Medicaid	medicaid	NNP	_	20	conj	_	L-ORG
+23	.	.	.	_	8	punct	_	O
+
+1	https://t.co/34UILEKTS1	#hlink#	ADD	pos2=JJ	2	nsubj	_	O
+2	VOTE	vote	NN	pos2=VB	0	root	_	O
+3	!	!	.	_	2	punct	_	O
+

@@ -1,0 +1,14 @@
+1	The	the	DT	_	3	det	_	O
+2	#REAL	#real	JJ	pos2=NNP	3	nmod	_	O
+3	effect	effect	NN	_	0	root	_	O
+4	of	of	IN	_	3	prep	_	O
+5	#FAKEnews	#fakenews	NNS	pos2=NNP	4	pobj	_	O
+6	on	on	IN	_	3	prep	_	O
+7	the	the	DT	_	9	det	_	O
+8	rabid	rabid	JJ	_	9	nmod	_	O
+9	right	right	NN	pos2=RB	6	pobj	_	O
+10	!	!	.	_	3	punct	_	O
+
+1	#br	#br	UH	pos2=-LRB-	2	discourse	_	O
+2	exithttps://t.co/Lm0vjiKlrj	#hlink#	ADD	pos2=NN	0	root	_	O
+

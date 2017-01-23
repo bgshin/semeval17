@@ -1,0 +1,27 @@
+1	@elizabethforma	@elizabethforma	UH	pos2=NN	4	discourse	_	O
+2	@AFLCIO	@aflcio	NN	pos2=MD	4	punct	_	O
+3	Please	please	UH	_	4	discourse	_	O
+4	let	let	VB	_	0	root	_	O
+5	go	go	VB	pos2=NN	4	xcomp	_	O
+6	of	of	IN	_	5	prep	_	O
+7	the	the	DT	_	8	det	_	O
+8	hatred	hatred	NN	_	6	pobj	_	O
+9	and	and	CC	_	8	cc	_	O
+10	anger	anger	NN	_	8	conj	_	O
+11	and	and	CC	_	4	cc	_	O
+12	quit	quit	VBD	pos2=VBP	4	conj	_	O
+13	bullying	bully	VBG	_	12	xcomp	_	O
+14	our	our	PRP$	_	15	poss	_	O
+15	president	president	NN	_	16	nsubj	_	O
+16	elect	elect	VB	pos2=NN	12	advcl	_	O
+17	.	.	.	_	4	punct	_	O
+
+1	America	america	NNP	pos2=NN	2	nsubj	_	U-GPE
+2	needs	need	VBZ	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	help	help	VB	_	2	xcomp	_	O
+5	him	him	PRP	_	6	nsubj	_	O
+6	help	help	VB	_	4	ccomp	_	O
+7	us	us	PRP	_	6	dobj	_	O
+8	.	.	.	_	2	punct	_	O
+

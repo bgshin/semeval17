@@ -1,0 +1,24 @@
+1	When	when	WRB	_	10	advmod	_	O
+2	all	all	PDT	pos2=DT	5	predet	_	O
+3	the	the	DT	_	5	det	_	O
+4	poor	poor	JJ	_	5	nmod	_	O
+5	whites	white	NNS	_	10	nsubj	_	O
+6	who	who	WP	_	7	nsubj	_	O
+7	voted	vote	VBD	_	5	relcl	_	O
+8	for	for	IN	_	7	prep	_	O
+9	Trump	trump	NNP	pos2=NN	8	pobj	_	U-PERSON
+10	get	get	VB	pos2=VBP	17	advcl	_	O
+11	their	their	PRP$	_	12	poss	_	O
+12	Medicaid	medicaid	NNP	pos2=NN	13	nsubj	_	U-ORG
+13	taken	take	VBN	_	10	ccomp	_	O
+14	from	from	IN	_	13	prep	_	O
+15	them	them	PRP	_	14	pobj	_	O
+16	I'ma	i'ma	PRP	pos2=MD	17	nsubj	_	O
+17	be	be	VB	pos2=VBP	0	root	_	O
+18	like	like	IN	pos2=UH	17	prep	_	O
+19	¯\_	¯\_	NNP	pos2=CD	18	pobj	_	O
+20	(ツ)	(ツ)	NFP	pos2=POS	17	discourse	_	O
+21	_	_	''	pos2=NFP	17	punct	_	O
+22	/	/	SYM	pos2=,	17	punct	_	O
+23	¯	¯	NFP	pos2=NN	17	discourse	_	O
+

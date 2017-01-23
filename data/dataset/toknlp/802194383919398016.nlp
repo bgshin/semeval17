@@ -1,0 +1,12 @@
+1	Military	military	JJ	pos2=NN	2	nmod	_	O
+2	hardware	hardware	NN	_	11	dep	_	O
+3	heading	head	VBG	pos2=NN	2	acl	_	O
+4	to	to	IN	_	3	prep	_	O
+5	#Yemen	#yemen	NNP	pos2=VB	4	pobj	_	O
+6	from	from	IN	_	3	prep	_	O
+7	Helicopters	helicopter	NNS	pos2=NNPS	6	pobj	_	O
+8	to	to	IN	_	6	prep	_	O
+9	small	small	JJ	_	10	nmod	_	O
+10	boats	boat	NNS	_	8	pobj	_	O
+11	https://t.co/bXQlDUDd3p	#hlink#	ADD	_	0	root	_	O
+

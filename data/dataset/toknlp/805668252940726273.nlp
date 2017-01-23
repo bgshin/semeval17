@@ -1,0 +1,26 @@
+1	@katesmckinnon	@katesmckinnon	UH	pos2=XX	4	discourse	_	O
+2	yeah	yeah	UH	_	4	discourse	_	O
+3	you	you	PRP	_	4	nsubj	_	O
+4	're	be	VBP	_	0	root	_	O
+5	right	right	JJ	_	4	acomp	_	O
+6	.	.	.	_	4	punct	_	O
+
+1	Luckily	luckily	RB	_	3	advmod	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	live	live	VBP	_	0	root	_	O
+4	in	in	IN	_	3	prep	_	O
+5	the	the	DT	_	8	det	_	O
+6	most	most	RBS	pos2=JJS	7	advmod	_	O
+7	liberal	liberal	JJ	_	8	nmod	_	O
+8	state	state	NN	_	4	pobj	_	O
+9	in	in	IN	_	8	prep	_	O
+10	the	the	DT	_	11	det	_	O
+11	country	country	NN	_	9	pobj	_	O
+12	.	.	.	_	3	punct	_	O
+
+1	First	#ord#	RB	pos2=JJ	3	advmod	_	U-ORDINAL
+2	to	to	TO	_	3	aux	_	O
+3	legalize	legalize	VB	_	0	root	_	O
+4	gay	gay	JJ	_	5	nmod	_	O
+5	marriage	marriage	NN	_	3	dobj	_	O
+

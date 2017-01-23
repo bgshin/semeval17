@@ -1,0 +1,23 @@
+1	Two	#crd#	CD	_	2	nmod	_	B-TIME
+2	years	year	NNS	_	3	npadvmod	_	I-TIME
+3	ago	ago	RB	_	12	advmod	_	I-TIME
+4	last	last	JJ	_	5	nmod	_	I-TIME
+5	night	night	NN	_	3	npadvmod	_	L-TIME
+6	,	,	,	_	12	punct	_	O
+7	police	police	NNS	pos2=NN	12	nsubj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	Ferguson	ferguson	NNP	_	11	compound	_	O
+10	Missouri	missouri	NNP	_	11	compound	_	U-GPE
+11	tear	tear	NN	pos2=VBP	8	pobj	_	O
+12	gassed	gas	VBN	pos2=VBD	0	root	_	O
+13	and	and	CC	_	12	cc	_	O
+14	attacked	attack	VBN	pos2=VBD	12	conj	_	O
+15	three	#crd#	CD	_	17	nmod	_	U-CARDINAL
+16	safe	safe	JJ	_	17	nmod	_	O
+17	zones	zone	NNS	_	14	dobj	_	O
+18	.	.	.	_	12	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	still	still	RB	_	3	advmod	_	O
+3	remember!#BlackLivesMatter	remember!#blacklivesmatter	VBP	pos2=.	0	root	_	O
+

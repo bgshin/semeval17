@@ -1,0 +1,19 @@
+1	If	if	IN	_	5	mark	_	O
+2	robots	robot	NNS	_	5	nsubj	_	O
+3	and	and	CC	_	2	cc	_	O
+4	computers	computer	NNS	_	2	conj	_	O
+5	wind	wind	VBP	pos2=NN	15	advcl	_	O
+6	up	up	RP	pos2=IN	5	prt	_	O
+7	making	make	VBG	_	5	xcomp	_	O
+8	everything	everything	NN	_	7	dobj	_	O
+9	,	,	,	_	15	punct	_	O
+10	then	then	RB	_	15	advmod	_	O
+11	the	the	DT	_	12	det	_	O
+12	thing	thing	NN	_	15	nsubj	_	O
+13	to	to	TO	_	14	aux	_	O
+14	do	do	VB	_	12	relcl	_	O
+15	is	be	VBZ	_	0	root	_	O
+16	own	own	JJ	pos2=VB	17	nmod	_	O
+17	resources	resource	NNS	_	15	attr	_	O
+18	.	.	.	_	15	punct	_	O
+

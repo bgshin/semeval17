@@ -1,0 +1,20 @@
+1	For	for	IN	_	0	root	_	O
+2	some	some	DT	_	3	det	_	O
+3	reason	reason	NN	_	1	pobj	_	O
+4	I	I	PRP	_	7	nsubj	_	O
+5	've	have	VBP	_	7	aux	_	O
+6	been	be	VBN	_	7	aux	_	O
+7	staying	stay	VBG	_	3	relcl	_	O
+8	up	up	RP	pos2=RB	7	prt	_	O
+9	late	late	RB	pos2=JJ	7	advmod	_	O
+10	watching	watch	VBG	_	7	advcl	_	O
+11	David	david	NNP	_	12	compound	_	B-PERSON
+12	Blaine	blaine	NNP	_	13	compound	_	L-PERSON
+13	videos	video	NNS	pos2=VBZ	10	dobj	_	O
+14	on	on	IN	_	10	prep	_	O
+15	Netflix	netflix	NNP	_	14	pobj	_	U-ORG
+16	.	.	.	_	15	punct	_	O
+
+1	What	what	WP	_	0	root	_	O
+2	?	?	.	_	1	punct	_	O
+

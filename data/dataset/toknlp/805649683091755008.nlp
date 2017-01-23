@@ -1,0 +1,9 @@
+1	Anyone	anyone	NN	_	0	root	_	O
+2	but	but	CC	pos2=IN	1	cc	_	O
+3	Marine	marine	NNP	pos2=JJ	5	compound	_	B-ORG
+4	Le	le	NNP	_	5	compound	_	I-ORG
+5	Pen	pen	NNP	_	1	conj	_	L-ORG
+6	in	in	IN	_	5	prep	_	O
+7	France	france	NNP	_	6	pobj	_	U-GPE
+8	.	.	.	_	1	punct	_	O
+

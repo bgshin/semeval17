@@ -1,0 +1,22 @@
+1	#Outnumbered	#outnumbered	VBN	pos2=VBD	2	nmod	_	O
+2	STFU	stfu	NN	pos2=NNP	0	root	_	O
+3	@julieroginsky	@julieroginsky	IN	pos2=UH	5	mark	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	're	be	VBP	_	1	advcl	_	O
+6	a	a	DT	_	8	det	_	O
+7	toxic	toxic	JJ	_	8	nmod	_	O
+8	Democrat	democrat	NNP	_	5	attr	_	U-NORP
+9	who	who	WP	_	10	nsubj	_	O
+10	is	be	VBZ	_	8	relcl	_	O
+11	the	the	DT	_	13	det	_	O
+12	LAST	last	JJ	_	13	nmod	_	O
+13	person	person	NN	_	10	attr	_	O
+14	who	who	WP	_	15	nsubj	_	O
+15	needs	need	VBZ	_	13	relcl	_	O
+16	to	to	TO	_	18	aux	_	O
+17	be	be	VB	_	18	aux	_	O
+18	talking	talk	VBG	_	15	xcomp	_	O
+19	about	about	IN	_	18	prep	_	O
+20	#DrainTheSwamp	#draintheswamp	NN	pos2=NNS	19	pobj	_	O
+21	!	!	.	_	2	punct	_	O
+

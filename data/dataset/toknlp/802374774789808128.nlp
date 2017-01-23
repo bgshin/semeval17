@@ -1,0 +1,27 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@neeratanden	@neeratanden	UH	pos2=XX	5	discourse	_	O
+2	@aravosis	@aravosis	UH	pos2=NN	5	discourse	_	O
+3	Did	do	VBD	_	5	aux	_	O
+4	you	you	PRP	_	5	nsubj	_	O
+5	speak	speak	VB	pos2=VBP	0	root	_	O
+6	out	out	RP	pos2=IN	5	prt	_	O
+7	against	against	IN	_	5	prep	_	O
+8	pay	pay	NN	pos2=VB	7	pobj	_	O
+9	for	for	IN	_	8	prep	_	O
+10	play	play	NN	pos2=VBP	12	compound	_	O
+11	Clinton	clinton	NNP	_	12	compound	_	B-ORG
+12	Foundation	foundation	NNP	_	13	compound	_	L-ORG
+13	scandals	scandal	NNS	_	9	pobj	_	O
+14	?	?	.	_	5	punct	_	O
+
+1	I	I	PRP	_	3	nsubj	_	O
+2	'm	be	VBP	_	3	aux	_	O
+3	guessing	guess	VBG	_	0	root	_	O
+4	Cruz	cruz	NNP	_	3	dobj	_	U-PERSON
+5	did	do	VBD	_	6	aux	_	O
+6	bc	bc	VB	pos2=XX	3	ccomp	_	O
+7	it	it	PRP	_	9	nsubj	_	O
+8	actually	actually	RB	_	9	advmod	_	O
+9	happened	happened	VBD	_	3	conj	_	O
+

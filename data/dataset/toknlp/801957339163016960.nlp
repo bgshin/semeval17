@@ -1,0 +1,20 @@
+1	Never	never	RB	_	2	neg	_	O
+2	change	change	VB	pos2=VBP	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	offseason	offseason	NN	_	5	compound	_	O
+5	award	award	NN	pos2=JJ	6	compound	_	O
+6	season	season	NN	_	2	dobj	_	O
+7	.	.	.	_	2	punct	_	O
+
+1	That	that	DT	_	11	dep	_	O
+2	and	and	CC	_	1	cc	_	O
+3	plenty	plenty	NN	pos2=VB	1	conj	_	O
+4	more	more	JJR	pos2=RBR	3	nmod	_	O
+5	in	in	IN	_	3	prep	_	O
+6	@Shaun_TSP	@shaun_tsp	NNP	pos2=NN	8	poss	_	U-GPE
+7	's	's	POS	_	6	case	_	O
+8	Wind	wind	NN	pos2=NNP	5	pobj	_	O
+9	Up	up	RP	pos2=IN	8	prt	_	O
+10	:	:	:	_	11	punct	_	O
+11	https://t.co/IJegpTZ7NY	#hlink#	ADD	pos2=NN	0	root	_	O
+

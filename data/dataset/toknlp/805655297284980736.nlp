@@ -1,0 +1,11 @@
+1	@glittermoons	@glittermoons	UH	pos2=NNS	7	discourse	_	O
+2	zac	zac	JJ	pos2=FW	6	nmod	_	O
+3	efron	efron	NNP	pos2=NN	6	poss	_	O
+4	n	n	POS	pos2=IN	3	case	_	O
+5	vanessa	vanessa	NN	pos2=NNP	6	compound	_	O
+6	hudgens	hudgens	NNS	pos2=NNP	7	nsubj	_	O
+7	are	be	VBP	_	0	root	_	O
+8	back	back	RB	_	7	advmod	_	O
+9	together	together	RB	_	7	advmod	_	O
+10	????!	??!	.	pos2=''	7	punct	_	O
+

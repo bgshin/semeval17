@@ -1,0 +1,6 @@
+1	Everybody	everybody	NN	_	3	nsubjpass	_	O
+2	is	be	VBZ	_	3	auxpass	_	O
+3	broken	break	VBN	pos2=JJ	0	root	_	O
+4	#TheWalkingDead	#thewalkingdead	RP	pos2=JJ	3	prt	_	O
+5	S7	s0	NN	_	3	dobj	_	U-PRODUCT
+

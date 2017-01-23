@@ -1,0 +1,12 @@
+1	@WallaNews	@wallanews	POS	pos2=PRP$	2	nsubj	_	O
+2	reports	report	VBZ	pos2=NNS	0	root	_	O
+3	wedding	wedding	NN	_	4	compound	_	O
+4	guests	guest	NNS	_	5	nsubj	_	O
+5	evacuated	evacuate	VBN	_	2	ccomp	_	O
+6	during	during	IN	_	5	prep	_	O
+7	celebration	celebration	NN	_	6	pobj	_	O
+8	in	in	IN	_	7	prep	_	O
+9	#Jerusalem	#jerusalem	NNP	_	10	compound	_	B-GPE
+10	Hills	hills	NNP	pos2=NNPS	8	pobj	_	L-GPE
+11	.	.	.	_	2	punct	_	O
+

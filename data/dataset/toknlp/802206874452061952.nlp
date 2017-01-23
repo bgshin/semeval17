@@ -1,0 +1,16 @@
+1	@TheDemocrats	@thedemocrats	PRP$	pos2=NNS	2	poss	_	O
+2	advice	advice	NN	_	0	root	_	O
+3	of	of	IN	_	2	prep	_	O
+4	the	the	DT	_	5	det	_	B-DATE
+5	year	year	NN	_	3	pobj	_	L-DATE
+6	!	!	.	_	2	punct	_	O
+
+1	@HillaryClinton	@hillaryclinton	NNP	pos2=ADD	4	compound	_	U-GPE
+2	@BarackObama	@barackobama	NN	pos2=ADD	3	compound	_	O
+3	@MichelleObama	@michelleobama	NN	pos2=ADD	4	compound	_	O
+4	@KingJames	@kingjames	NNS	pos2=XX	0	root	_	O
+5	@katyperry	@katyperry	IN	pos2=GW	4	prep	_	O
+6	@GeorgeTakei	@georgetakei	GW	pos2=NNP	5	pobj	_	O
+7	…	…	NFP	pos2=GW	8	punct	_	O
+8	https://t.co/jhjppwB325	#hlink#	ADD	pos2=NN	4	dep	_	O
+

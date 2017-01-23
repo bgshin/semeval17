@@ -1,0 +1,21 @@
+1	Cristiano	cristiano	NNP	_	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	7	dep	_	L-PERSON
+3	,	,	,	_	2	punct	_	O
+4	Georgina	georgina	NNP	_	7	compound	_	B-ORG
+5	Rodriguez	rodriguez	NNP	_	7	compound	_	I-ORG
+6	Engagement	engagement	NNP	_	7	compound	_	I-ORG
+7	News	news	NNP	pos2=NN	15	nsubj	_	L-ORG
+8	and	and	CC	_	7	cc	_	O
+9	Updates	update	NNS	pos2=NNPS	7	conj	_	O
+10	:	:	:	_	9	punct	_	O
+11	Real	real	NNP	pos2=JJ	13	compound	_	B-ORG
+12	Madrid	madrid	NNP	_	13	compound	_	I-ORG
+13	Star	star	NNP	_	15	nsubj	_	L-ORG
+14	Has	have	VBZ	pos2=NNP	15	aux	_	O
+15	Introduced	introduce	VBN	_	0	root	_	O
+16	New	new	NNP	pos2=JJ	15	dobj	_	O
+17	...	..	.	pos2=,	15	punct	_	O
+
+1	-…	-…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/5MQL8bANzV	#hlink#	ADD	pos2=NN	0	root	_	O
+

@@ -1,0 +1,15 @@
+1	@vighu96	@vighu0	NN	pos2=UH	2	compound	_	O
+2	@ChiragRamAhir	@chiragramahir	NN	pos2=NNP	5	dep	_	O
+3	Yes	yes	UH	_	5	discourse	_	O
+4	@Nitibha_Kaul	@nitibha_kaul	NN	pos2=ADD	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	real	real	JJ	_	7	nmod	_	O
+7	id	id	NN	_	5	attr	_	O
+8	of	of	IN	_	7	prep	_	O
+9	#NitibhaKaul	#nitibhakaul	NNP	pos2=ADD	10	compound	_	O
+10	Handle	handle	NNP	pos2=VB	8	pobj	_	O
+11	by	by	IN	_	5	prep	_	O
+12	nitu	nitu	PRP$	pos2=VBG	13	poss	_	O
+13	father	father	NN	_	11	pobj	_	O
+14	...	..	.	pos2=,	5	punct	_	O
+

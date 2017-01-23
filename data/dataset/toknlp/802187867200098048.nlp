@@ -1,0 +1,18 @@
+1	Need	need	VB	pos2=VBP	0	root	_	O
+2	me	me	PRP	_	1	dative	_	O
+3	a	a	DT	_	4	det	_	O
+4	niffler	niffler	NN	pos2=NNP	1	dobj	_	O
+5	to	to	TO	_	6	aux	_	O
+6	pay	pay	VB	_	4	relcl	_	O
+7	for	for	IN	_	6	prep	_	O
+8	my	my	PRP$	_	11	poss	_	O
+9	last	last	JJ	_	11	nmod	_	B-DATE
+10	2	0	CD	_	11	nmod	_	I-DATE
+11	years	year	NNS	_	7	pobj	_	L-DATE
+12	of	of	IN	_	11	prep	_	O
+13	pharmacy	pharmacy	NN	_	14	compound	_	O
+14	school	school	NN	_	12	pobj	_	O
+15	.	.	.	_	1	punct	_	O
+
+1	#FantasticBeasts	#fantasticbeasts	NNS	pos2=ADD	0	root	_	O
+

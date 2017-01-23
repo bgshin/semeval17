@@ -1,0 +1,27 @@
+1	@BarackObama	@barackobama	ADD	pos2=MD	5	poss	_	O
+2	the	the	DT	_	3	det	_	O
+3	next	next	JJ	_	5	nmod	_	O
+4	us	us	PRP	pos2=NN	5	compound	_	O
+5	president	president	NN	_	7	nsubj	_	O
+6	will	will	MD	_	7	aux	_	O
+7	continue	continue	VB	_	15	ccomp	_	O
+8	with	with	IN	_	7	prep	_	O
+9	Obamacare	obamacare	NNP	_	8	pobj	_	U-PERSON
+10	,	,	,	_	15	punct	_	O
+11	trump	trump	NN	pos2=FW	15	nsubj	_	O
+12	will	will	MD	_	15	aux	_	O
+13	not	not	RB	_	15	neg	_	O
+14	certainly	certainly	RB	_	15	advmod	_	O
+15	take	take	VB	_	0	root	_	O
+16	oath	oath	NN	_	15	dobj	_	O
+17	as	as	IN	pos2=RB	15	prep	_	O
+18	next	next	JJ	pos2=IN	20	nmod	_	O
+19	us	us	PRP	_	20	compound	_	O
+20	president	president	NN	_	17	pobj	_	O
+21	.	.	.	_	15	punct	_	O
+
+1	keep	keep	VB	_	0	root	_	O
+2	in	in	IN	_	1	prep	_	O
+3	mind	mind	NN	_	2	pobj	_	O
+4	.	.	.	_	1	punct	_	O
+

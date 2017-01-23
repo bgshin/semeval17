@@ -1,0 +1,13 @@
+1	Claro	claro	NNP	pos2=FW	3	dep	_	O
+2	y	y	FW	pos2=POS	3	nmod	_	O
+3	directo	directo	FW	pos2=NN	0	root	_	O
+4	:	:	:	_	6	punct	_	O
+5	Galaxy	galaxy	NNP	pos2=NN	6	compound	_	O
+6	Note	note	NN	pos2=VB	8	nsubj	_	O
+7	7	0	CD	_	6	nmod	_	U-CARDINAL
+8	forbidden	forbid	VBN	pos2=JJ	0	root	_	O
+9	on	on	IN	pos2=RB	8	prep	_	O
+10	-	-	HYPH	pos2=,	9	punct	_	O
+11	board	board	NN	_	9	pobj	_	O
+12	.	.	.	_	8	punct	_	O
+

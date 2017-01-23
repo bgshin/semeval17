@@ -1,0 +1,26 @@
+1	@LifeNewsHQ	@lifenewshq	NN	pos2=JJ	2	compound	_	O
+2	CHIP	chip	NN	_	3	nsubj	_	U-ORG
+3	defines	define	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	child	child	NN	_	3	dobj	_	O
+6	at	at	IN	_	5	prep	_	O
+7	conception	conception	NN	_	6	pobj	_	O
+8	.	.	.	_	3	punct	_	O
+
+1	Some	some	DT	_	2	det	_	O
+2	Democrats	democrat	NNPS	_	3	nsubj	_	U-NORP
+3	want	want	VBP	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	end	end	VB	_	3	xcomp	_	O
+6	CHIP	chip	NN	_	5	dobj	_	O
+7	by	by	IN	_	5	prep	_	O
+8	folding	fold	VBG	_	7	pcomp	_	O
+9	it	it	PRP	_	8	dobj	_	O
+10	into	into	IN	_	8	prep	_	O
+11	Medicaid	medicaid	NNP	_	10	pobj	_	U-ORG
+12	.	.	.	_	3	punct	_	O
+
+1	Should	should	MD	_	3	aux	_	O
+2	…	…	NFP	pos2=VB	3	punct	_	O
+3	https://t.co/To21fCSHkO	#hlink#	ADD	_	0	root	_	O
+

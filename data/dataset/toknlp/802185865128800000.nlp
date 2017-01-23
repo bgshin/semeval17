@@ -1,0 +1,18 @@
+1	LOT	lot	NN	_	9	nsubj	_	O
+2	of	of	IN	_	1	prep	_	O
+3	2	0	CD	_	8	nmod	_	U-CARDINAL
+4	Allen	allen	NNP	_	6	compound	_	B-PERSON
+5	Edmonds	edmonds	NNP	_	6	compound	_	I-PERSON
+6	Grayson	grayson	NNP	_	8	compound	_	L-PERSON
+7	leather	leather	NN	pos2=JJR	8	compound	_	O
+8	dress	dress	NN	_	2	pobj	_	O
+9	loafters	loafters	VBZ	pos2=IN	0	root	_	O
+10	Brown	brown	NNP	pos2=JJ	17	nmod	_	U-PERSON
+11	/	/	SYM	pos2=HYPH	12	punct	_	O
+12	Black	black	JJ	pos2=NNP	14	nmod	_	O
+13	career	career	NN	_	14	compound	_	O
+14	office	office	NN	_	10	appos	_	O
+15	#AllenEdmonds	#allenedmonds	GW	pos2=XX	17	nmod	_	B-PERSON
+16	#Grays	#grays	GW	pos2=NNS	17	nmod	_	L-PERSON
+17	https://t.co/MwrmfDat5S	#hlink#	ADD	pos2=NN	9	dobj	_	O
+

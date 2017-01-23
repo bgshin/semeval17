@@ -1,0 +1,21 @@
+1	@ThatEricAlper	@thatericalper	NN	pos2=ADD	2	nsubj	_	O
+2	@sandyhook	@sandyhook	VBD	pos2=IN	0	root	_	O
+3	the	the	DT	_	4	det	_	O
+4	video	video	NN	_	7	nsubjpass	_	O
+5	was	be	VBD	_	7	auxpass	_	O
+6	n't	not	RB	_	7	neg	_	O
+7	aimed	aim	VBN	_	2	ccomp	_	O
+8	about	about	IN	_	7	prep	_	O
+9	gun	gun	NN	_	10	compound	_	O
+10	control	control	NN	_	8	pobj	_	O
+11	rather	rather	RB	pos2=IN	12	advmod	_	O
+12	mental	mental	JJ	_	13	nmod	_	O
+13	issues	issue	NNS	_	10	conj	_	O
+14	that	that	WDT	pos2=IN	19	pobj	_	O
+15	this	this	DT	_	18	det	_	O
+16	young	young	JJ	_	18	nmod	_	O
+17	boy	boy	NN	_	18	compound	_	O
+18	struggle	struggle	NN	pos2=VB	13	appos	_	O
+19	w	w	IN	_	18	prep	_	O
+20	/	/	HYPH	pos2=.	19	punct	_	O
+

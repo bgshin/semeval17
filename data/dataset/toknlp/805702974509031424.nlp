@@ -1,0 +1,15 @@
+1	@nia4_trump	@nia0_trump	NN	pos2=XX	0	root	_	O
+2	@latinaafortrump	@latinaafortrump	UH	pos2=XX	1	discourse	_	O
+3	@Cernovich	@cernovich	NNP	pos2=WDT	8	nmod	_	U-PERSON
+4	@JaredWyand	@jaredwyand	ADD	pos2=XX	1	punct	_	O
+5	@KamVTV	@kamvtv	ADD	pos2=XX	1	punct	_	O
+6	@WDFx2EU18	@wdfx0eu0	NN	pos2=ADD	10	npadvmod	_	O
+7	@RepublicanChick	@republicanchick	ADD	pos2=NNP	12	prt	_	O
+8	@AmericanMex067	@americanmex0	NN	pos2=ADD	11	poss	_	O
+9	@nytimes	@nytimes	POS	pos2=IN	8	case	_	O
+10	gay	gay	JJ	_	11	nmod	_	O
+11	marriage	marriage	NN	_	7	dobj	_	O
+12	then	then	RB	_	13	advmod	_	O
+13	this	this	DT	_	14	dep	_	O
+14	....	..	.	pos2=,	1	punct	_	O
+

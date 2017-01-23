@@ -1,0 +1,12 @@
+1	Please	please	UH	_	4	discourse	_	O
+2	do	do	VB	_	4	aux	_	O
+3	n't	not	RB	_	4	neg	_	O
+4	leave	leave	VB	_	0	root	_	O
+5	us	us	PRP	_	4	dobj	_	O
+6	with	with	IN	_	4	prep	_	O
+7	him	him	PRP	_	6	pobj	_	O
+8	!	!	.	_	4	punct	_	O
+
+1	#ThankYouObama	#thankyouobama	ADD	pos2=GW	2	punct	_	O
+2	https://t.co/fErQqh4Vlf	#hlink#	ADD	_	0	root	_	O
+

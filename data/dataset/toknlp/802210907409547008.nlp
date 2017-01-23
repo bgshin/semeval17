@@ -1,0 +1,33 @@
+1	@WhooliganG	@whooligang	ADD	pos2=NNP	6	punct	_	O
+2	@Change	@change	NNP	pos2=IN	3	compound	_	O
+3	WP	wp	NNP	pos2=NN	6	nsubj	_	O
+4	does	do	VBZ	_	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	do	do	VB	_	0	root	_	O
+7	garbage	garbage	NN	_	6	dobj	_	O
+8	.	.	.	_	6	punct	_	O
+
+1	If	if	IN	_	6	mark	_	O
+2	you	you	PRP	_	6	nsubj	_	O
+3	really	really	RB	_	6	advmod	_	O
+4	do	do	VBP	pos2=VB	6	aux	_	O
+5	n't	not	RB	_	6	neg	_	O
+6	see	see	VB	_	14	advcl	_	O
+7	Putin	putin	NNP	_	9	poss	_	U-PERSON
+8	's	's	POS	_	7	case	_	O
+9	manipulation	manipulation	NN	_	6	dobj	_	O
+10	here	here	RB	_	6	advmod	_	O
+11	,	,	,	_	14	punct	_	O
+12	you	you	PRP	_	14	nsubj	_	O
+13	're	be	VBP	_	14	aux	_	O
+14	choosing	choose	VBG	_	0	root	_	O
+15	not	not	RB	_	16	neg	_	O
+16	to	to	TO	pos2=IN	14	xcomp	_	O
+17	.	.	.	_	14	punct	_	O
+
+1	imho	imho	UH	pos2=RB	4	discourse	_	O
+2	,	,	,	_	4	punct	_	O
+3	of	of	IN	pos2=RB	0	root	_	O
+4	course	course	NN	_	3	pobj	_	O
+5	.	.	.	_	3	punct	_	O
+

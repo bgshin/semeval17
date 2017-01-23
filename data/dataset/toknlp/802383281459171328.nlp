@@ -1,0 +1,20 @@
+1	In	in	IN	_	6	prep	_	O
+2	Emerald	emerald	NNP	_	3	compound	_	B-GPE
+3	City	city	NNP	_	1	pobj	_	L-GPE
+4	,	,	,	_	6	punct	_	O
+5	Trump	trump	NNP	_	6	nsubj	_	U-ORG
+6	is	be	VBZ	_	0	root	_	O
+7	the	the	DT	_	9	det	_	O
+8	wicked	wicked	JJ	_	9	nmod	_	O
+9	witch	witch	NN	_	15	nsubj	_	O
+10	and	and	CC	_	9	cc	_	O
+11	his	his	PRP$	_	13	poss	_	O
+12	cabinet	cabinet	NN	_	13	compound	_	O
+13	members	member	NNS	_	9	conj	_	O
+14	are	be	VBP	_	15	aux	_	O
+15	flying	fly	VBG	_	17	acl	_	O
+16	monkeys	monkey	NNS	_	15	dobj	_	O
+17	.	.	.	_	6	punct	_	O
+
+1	#notpresidential	#notpresidential	UH	pos2=JJ	0	root	_	O
+

@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det	_	O
+2	consequences	consequence	NNS	_	7	nsubj	_	O
+3	of	of	IN	_	2	prep	_	O
+4	an	an	DT	_	6	det	_	O
+5	EU	eu	NNP	pos2=NN	6	compound	_	U-ORG
+6	implosion	implosion	NN	_	3	pobj	_	O
+7	are	be	VBP	_	0	root	_	O
+8	unknown	unknown	JJ	_	7	acomp	_	O
+9	.	.	.	_	7	punct	_	O
+
+1	There	there	EX	_	2	expl	_	O
+2	seems	seem	VBZ	_	0	root	_	O
+3	to	to	TO	_	4	aux	_	O
+4	be	be	VB	_	2	xcomp	_	O
+5	an	an	DT	_	6	det	_	O
+6	air	air	NN	_	4	attr	_	O
+7	of	of	IN	_	6	prep	_	O
+8	triumphalism	triumphalism	NN	_	7	pobj	_	O
+9	in	in	IN	_	6	prep	_	O
+10	some	some	DT	_	11	det	_	O
+11	quarters	quarter	NNS	_	9	pobj	_	O
+12	today	today	NN	_	4	npadvmod	_	U-DATE
+13	.	.	.	_	2	punct	_	O
+
+1	https://t.co/aqlmHaVcY4	#hlink#	ADD	_	0	root	_	U-ORG
+

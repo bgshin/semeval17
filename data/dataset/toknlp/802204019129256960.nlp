@@ -1,0 +1,20 @@
+1	Israeli	israeli	JJ	_	2	nmod	_	U-NORP
+2	demolition	demolition	NN	_	19	dep	_	O
+3	of	of	IN	_	2	prep	_	O
+4	Palestinian	palestinian	JJ	_	5	nmod	_	U-NORP
+5	woman	woman	NN	pos2=NNP	7	poss	_	O
+6	's	's	POS	_	5	case	_	O
+7	home	home	NN	_	3	pobj	_	O
+8	'	'	''	pos2=``	7	punct	_	O
+9	a	a	DT	_	11	det	_	O
+10	double	double	JJ	_	11	nmod	_	O
+11	crime	crime	NN	_	19	nsubj	_	O
+12	'	'	''	pos2=POS	11	punct	_	O
+13	https://t.co/ePrMYRgAy3	#hlink#	ADD	pos2=NN	11	appos	_	O
+14	via	via	IN	_	2	prep	_	O
+15	@intifada	@intifada	NNP	pos2=PRP	14	pobj	_	O
+16	#gaza	#gaza	UH	pos2=XX	19	discourse	_	O
+17	#palestine	#palestine	UH	pos2=PRP	16	discourse	_	O
+18	#israel	#israel	UH	pos2=MD	16	discourse	_	O
+19	#BDS	#bds	NNS	pos2=UH	0	root	_	O
+

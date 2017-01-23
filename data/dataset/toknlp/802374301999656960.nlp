@@ -1,0 +1,31 @@
+1	So	so	RB	_	4	advmod	_	O
+2	if	if	IN	_	4	mark	_	O
+3	I	I	PRP	_	4	nsubj	_	O
+4	get	get	VBP	_	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	a	a	DT	_	8	det	_	O
+7	twitter	twitter	NN	pos2=JJR	8	compound	_	O
+8	beef	beef	NN	_	5	pobj	_	O
+9	with	with	IN	_	4	prep	_	O
+10	Drumpf	drumpf	NNP	_	9	pobj	_	U-PERSON
+11	...	..	.	pos2=,	9	punct	_	O
+
+1	do	do	VBP	_	3	aux	_	O
+2	I	I	PRP	_	3	nsubj	_	O
+3	become	become	VB	_	0	root	_	O
+4	famous	famous	JJ	pos2=RB	3	acomp	_	O
+5	too	too	RB	_	3	advmod	_	O
+6	?	?	.	_	3	punct	_	O
+
+1	Or	or	CC	_	2	cc	_	O
+2	does	do	VBZ	_	0	root	_	O
+3	Comey	comey	NNP	_	2	nsubj	_	U-PERSON
+4	and	and	CC	_	3	cc	_	O
+5	Putin	putin	NNP	_	3	conj	_	U-PERSON
+6	....	..	.	_	2	punct	_	O
+
+1	come	come	VB	_	0	root	_	O
+2	for	for	IN	_	1	prep	_	O
+3	me	me	PRP	_	2	pobj	_	O
+4	?	?	.	_	1	punct	_	O
+

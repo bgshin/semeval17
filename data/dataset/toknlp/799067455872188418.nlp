@@ -1,0 +1,12 @@
+1	#TrumpTransitionTeam	#trumptransitionteam	NNP	pos2=ADD	3	vocative	_	O
+2	This	this	DT	pos2=NNP	3	nsubj	_	O
+3	is	be	VBZ	_	0	root	_	O
+4	like	like	IN	_	3	prep	_	O
+5	the	the	DT	_	6	det	_	O
+6	opening	opening	NN	_	4	pobj	_	O
+7	of	of	IN	_	6	prep	_	O
+8	a	a	DT	_	10	det	_	O
+9	dystopian	dystopian	JJ	_	10	nmod	_	O
+10	satire	satire	NN	_	7	pobj	_	O
+11	.	.	.	_	3	punct	_	O
+

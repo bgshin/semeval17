@@ -1,0 +1,18 @@
+1	@nytimes	@nytimes	IN	pos2=UH	6	prep	_	O
+2	The	the	DT	_	3	det	_	O
+3	protesting	protesting	NN	pos2=VBG	1	pobj	_	O
+4	against	against	IN	_	3	prep	_	O
+5	Trump	trump	NNP	pos2=NN	4	pobj	_	U-ORG
+6	are	be	VBP	_	0	root	_	O
+7	as	as	RB	pos2=IN	8	advmod	_	O
+8	organic	organic	JJ	_	6	acomp	_	O
+9	as	as	IN	_	8	prep	_	O
+10	the	the	DT	_	12	det	_	O
+11	spontaneous	spontaneous	JJ	_	12	nmod	_	O
+12	Protest	protest	NN	pos2=NNP	9	pobj	_	O
+13	in	in	IN	_	12	prep	_	O
+14	Benghazi	benghazi	NNP	_	13	pobj	_	U-GPE
+15	over	over	IN	_	12	prep	_	O
+16	a	a	DT	_	17	det	_	O
+17	video#SorosProtestors	video#sorosprotestors	NNS	pos2=ADD	15	pobj	_	O
+

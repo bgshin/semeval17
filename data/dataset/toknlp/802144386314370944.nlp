@@ -1,0 +1,25 @@
+1	My	my	PRP$	_	2	poss	_	O
+2	bartender	bartender	NN	_	4	nsubj	_	O
+3	today	today	NN	_	2	npadvmod	_	U-DATE
+4	is	be	VBZ	_	0	root	_	O
+5	my	my	PRP$	_	7	poss	_	O
+6	new	new	JJ	_	7	nmod	_	O
+7	bff.	bff.	NNP	pos2=NN	4	attr	_	O
+8	She	she	PRP	pos2=NNP	9	nsubj	_	O
+9	called	call	VBD	_	4	ccomp	_	O
+10	Romo	romo	NNP	_	9	dobj	_	U-PERSON
+11	"	"	``	_	13	punct	_	O
+12	Tony	tony	NNP	_	13	compound	_	B-PERSON
+13	Homo	homo	NNP	_	10	appos	_	L-PERSON
+14	"	"	''	_	13	punct	_	O
+15	before	before	IN	_	17	mark	_	O
+16	I	I	PRP	_	17	nsubj	_	O
+17	could	could	MD	_	9	advcl	_	O
+18	AND	and	CC	_	4	cc	_	O
+19	she	she	PRP	_	20	nsubj	_	O
+20	is	be	VBZ	_	4	conj	_	O
+21	a	a	DT	_	23	det	_	O
+22	Saints	saint	NNPS	pos2=NNS	23	compound	_	O
+23	fan	fan	NN	pos2=RB	20	attr	_	O
+24	!	!	.	_	20	punct	_	O
+

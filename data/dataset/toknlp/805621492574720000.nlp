@@ -1,0 +1,19 @@
+1	Featured	feature	VBD	pos2=VBN	0	root	_	O
+2	#Medical	#medical	NNP	pos2=$	3	compound	_	B-PERSON
+3	#Marijuana	#marijuana	NNP	pos2=NN	4	compound	_	L-PERSON
+4	#Stock	#stock	NN	pos2=NNP	18	dep	_	O
+5	:	:	:	_	18	punct	_	O
+6	#ProfileSolutions	#profilesolutions	NNS	pos2=NNP	18	dep	_	O
+7	(	(	-LRB-	_	11	punct	_	O
+8	OTC	otc	NN	pos2=NNP	11	dep	_	O
+9	:	:	:	_	11	punct	_	O
+10	$	$	$	pos2=-LRB-	11	nmod	_	O
+11	PSIQ	psiq	NN	pos2=NNP	6	appos	_	U-MONEY
+12	)	)	-RRB-	_	6	punct	_	O
+13	#MedSafe	#medsafe	:	pos2=NN	18	punct	_	O
+14	Secure	secure	JJ	pos2=VB	18	nmod	_	B-ORG
+15	#Biometric	#biometric	NNP	pos2=IN	17	compound	_	I-ORG
+16	Pharmaceutical	pharmaceutical	NNP	pos2=JJ	17	compound	_	L-ORG
+17	Safe	safe	NNP	pos2=JJ	18	dep	_	O
+18	https://t.co/1VPGZ3Lqvm	#hlink#	ADD	_	1	dobj	_	O
+

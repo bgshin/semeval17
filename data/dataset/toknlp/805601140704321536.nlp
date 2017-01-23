@@ -1,0 +1,15 @@
+1	Cristiano	cristiano	NNP	_	2	compound	_	B-PERSON
+2	Ronaldo	ronaldo	NNP	_	3	nsubj	_	L-PERSON
+3	gets	get	VBZ	_	0	root	_	O
+4	the	the	DT	_	5	det	_	O
+5	better	good	JJR	_	3	dobj	_	O
+6	of	of	IN	_	5	prep	_	O
+7	Lionel	lionel	NNP	_	8	compound	_	B-PERSON
+8	Messi	messi	NNP	_	6	pobj	_	L-PERSON
+9	on	on	IN	_	3	prep	_	O
+10	social	social	JJ	pos2=NNP	9	pobj	_	O
+11	...	..	.	pos2=,	3	punct	_	O
+
+1	https://t.co/OdS6NHQrEk	#hlink#	ADD	_	2	nsubj	_	O
+2	#LionelMessi	#lionelmessi	ADD	pos2=NNS	0	root	_	O
+

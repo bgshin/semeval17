@@ -1,0 +1,21 @@
+1	Against	against	IN	_	4	prep	_	O
+2	no	no	DT	_	3	det	_	O
+3	team	team	NN	_	1	pobj	_	O
+4	has	have	VBZ	_	7	aux	_	O
+5	Luis	luis	NNP	_	6	compound	_	B-PERSON
+6	Enrique	enrique	NNP	_	7	nsubj	_	L-PERSON
+7	lost	lose	VBD	_	0	root	_	O
+8	more	more	JJR	pos2=JJ	9	nmod	_	O
+9	games	game	NNS	_	7	dobj	_	O
+10	as	as	IN	_	7	prep	_	O
+11	a	a	DT	_	12	det	_	O
+12	manager	manager	NN	_	10	pobj	_	O
+13	than	than	IN	_	9	prep	_	O
+14	against	against	IN	_	13	prep	_	O
+15	Real	real	NNP	pos2=JJ	16	compound	_	B-ORG
+16	Sociedad	sociedad	NNP	pos2=NNPS	17	compound	_	L-ORG
+17	#fcblive	#fcblive	NN	pos2=ADD	14	pobj	_	O
+18	[	[	-LRB-	_	19	punct	_	O
+19	opta	opta	NN	pos2=FW	7	parataxis	_	O
+20	]	]	-RRB-	_	19	punct	_	O
+

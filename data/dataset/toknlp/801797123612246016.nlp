@@ -1,0 +1,23 @@
+1	According	accord	VBG	_	6	prep	_	O
+2	to	to	IN	_	1	prep	_	O
+3	AlAkhbar	alakhbar	NNP	_	2	pobj	_	U-ORG
+4	which	which	WDT	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	close	close	JJ	pos2=RB	5	acomp	_	O
+7	to	to	IN	pos2=TO	6	prep	_	O
+8	#Hezbollah	#hezbollah	NNP	pos2=NN	7	pobj	_	U-GPE
+9	.	.	.	_	1	punct	_	O
+
+1	Note	note	NN	pos2=VB	2	nsubj	_	O
+2	reported	report	VBD	pos2=VBN	0	root	_	O
+3	Russian	russian	JJ	_	4	nmod	_	U-NORP
+4	praise	praise	NN	_	2	dobj	_	O
+5	for	for	IN	_	2	prep	_	O
+6	Hezb	hezb	NNP	_	8	nmod	_	U-ORG
+7	military	military	JJ	_	8	nmod	_	O
+8	performance	performance	NN	_	5	pobj	_	O
+9	.	.	.	_	2	punct	_	O
+
+1	…	…	NFP	pos2=-LRB-	2	punct	_	O
+2	https://t.co/qwfriFO48D	#hlink#	ADD	pos2=NN	0	root	_	O
+

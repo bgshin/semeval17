@@ -1,0 +1,31 @@
+1	@nytimes	@nytimes	NNS	pos2=UH	0	root	_	O
+2	and	and	CC	_	1	cc	_	O
+3	this	this	DT	_	4	nsubj	_	O
+4	is	be	VBZ	_	1	conj	_	O
+5	the	the	DT	_	6	det	_	O
+6	news	news	NN	_	4	attr	_	O
+7	for	for	IN	_	6	prep	_	O
+8	Sunday	sunday	NNP	_	7	pobj	_	U-DATE
+9	.	.	.	_	4	punct	_	O
+
+1	Tax	tax	NN	pos2=NNP	2	compound	_	O
+2	returns	return	NNS	pos2=VBZ	0	root	_	O
+3	?	?	.	_	2	punct	_	O
+
+1	Visit	visit	VB	pos2=NN	0	root	_	O
+2	to	to	IN	_	1	prep	_	O
+3	Cuba	cuba	NNP	_	2	pobj	_	U-GPE
+4	during	during	IN	_	1	prep	_	O
+5	an	an	DT	_	6	det	_	O
+6	embargo	embargo	NN	_	4	pobj	_	O
+7	.	.	.	_	1	punct	_	O
+
+1	Conversations	conversation	NNS	_	6	dep	_	O
+2	with	with	IN	_	1	prep	_	O
+3	Putin	putin	NNP	_	4	compound	_	U-PERSON
+4	Taiwan	taiwan	NNP	_	2	pobj	_	U-GPE
+5	I	I	PRP	_	6	nsubj	_	O
+6	hope	hope	VBP	_	0	root	_	O
+7	they	they	PRP	_	6	ccomp	_	O
+8	all	all	DT	pos2=RB	7	appos	_	O
+

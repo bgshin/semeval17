@@ -1,0 +1,19 @@
+1	#Iraq:#Ameri	#iraq:#ameri	ADD	pos2=NNP	0	root	_	O
+2	"	"	``	pos2=''	9	punct	_	O
+3	the	the	DT	_	5	det	_	O
+4	security	security	NN	_	5	compound	_	O
+5	forces	force	NNS	_	9	nsubj	_	O
+6	and	and	CC	_	5	cc	_	O
+7	the	the	DT	_	8	det	_	O
+8	#PMU	#pmu	NN	pos2=NNS	5	conj	_	O
+9	are	be	VBP	_	1	ccomp	_	O
+10	coherent	coherent	JJ	_	11	nmod	_	O
+11	bloc	bloc	NN	pos2=FW	9	attr	_	O
+12	,	,	,	_	9	punct	_	O
+13	#Iraqi_people	#iraqi_people	JJ	pos2=NNP	14	advmod	_	O
+14	stand	stand	VB	pos2=NN	9	dep	_	O
+15	behind	behind	IN	_	14	prep	_	O
+16	them	them	PRP	_	15	pobj	_	O
+17	…	…	NFP	pos2=-LRB-	18	punct	_	O
+18	https://t.co/Yw09lsOgms	#hlink#	ADD	_	9	dep	_	O
+

@@ -1,0 +1,13 @@
+1	Survey	survey	NN	pos2=NNP	2	nsubj	_	O
+2	shows	show	VBZ	pos2=NNS	0	root	_	O
+3	Poroshenko	poroshenko	NNP	pos2=FW	5	nsubj	_	U-PERSON
+4	has	have	VBZ	_	5	aux	_	O
+5	lost	lose	VBN	_	2	ccomp	_	O
+6	considerable	considerable	JJ	_	8	nmod	_	O
+7	electoral	electoral	JJ	_	8	nmod	_	O
+8	support	support	NN	_	5	dobj	_	O
+9	in	in	IN	_	5	prep	_	O
+10	two	#crd#	CD	_	11	nmod	_	B-DATE
+11	years	year	NNS	_	9	pobj	_	L-DATE
+12	https://t.co/FQMXeUuPLs	#hlink#	ADD	_	11	appos	_	O
+

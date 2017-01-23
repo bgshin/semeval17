@@ -1,0 +1,15 @@
+1	#humanrights	#humanrights	NNS	pos2=UH	0	root	_	O
+2	#UnitedNations	#unitednations	POS	pos2=NNS	1	case	_	O
+3	Palestinian	palestinian	JJ	_	4	nmod	_	U-NORP
+4	capable	capable	JJ	pos2=NN	1	nmod	_	O
+5	of	of	IN	_	4	prep	_	O
+6	overcoming	overcome	VBG	_	5	pcomp	_	O
+7	aches	ache	NNS	pos2=NN	6	dobj	_	O
+8	to	to	TO	_	9	aux	_	O
+9	help	help	VB	_	6	advcl	_	O
+10	humanitarian	humanitarian	JJ	pos2=VB	11	nmod	_	O
+11	aids	aids	NNS	_	9	dobj	_	O
+12	!	!	.	_	1	punct	_	O
+
+1	https://t.co/VdOspkxRml	#hlink#	ADD	_	0	root	_	U-ORG
+

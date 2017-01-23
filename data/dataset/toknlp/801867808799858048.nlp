@@ -1,0 +1,31 @@
+1	Pitchers	pitcher	NNS	pos2=NNPS	2	nsubj	_	O
+2	are	be	VBP	_	11	ccomp	_	O
+3	a	a	DT	_	5	det	_	O
+4	different	different	JJ	_	5	nmod	_	O
+5	world	world	NN	_	2	attr	_	O
+6	,	,	,	_	11	punct	_	O
+7	my	my	PRP$	_	8	poss	_	O
+8	friend	friend	NN	_	11	nsubj	_	O
+9	Cy	cy	NNP	_	10	compound	_	B-PERSON
+10	Young	young	NNP	_	8	appos	_	L-PERSON
+11	tells	tell	VBZ	_	0	root	_	O
+12	me	me	PRP	_	11	dobj	_	O
+13	.	.	.	_	11	punct	_	O
+
+1	Larry	larry	NNP	_	2	compound	_	B-PERSON
+2	Walker	walker	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	up	up	RB	_	5	advmod	_	O
+5	there	there	RB	_	3	advmod	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	Have	have	VBP	pos2=VB	0	root	_	O
+2	to	to	TO	_	3	aux	_	O
+3	compare	compare	VB	_	1	xcomp	_	O
+4	stats	stat	NNS	_	3	dobj	_	O
+5	,	,	,	_	1	punct	_	O
+6	and	and	CC	_	1	cc	_	O
+7	d	d	GW	pos2=NN	9	nmod	_	O
+8	…	…	NFP	pos2=GW	9	punct	_	O
+9	https://t.co/7VeMQuptdk	#hlink#	ADD	_	1	conj	_	O
+

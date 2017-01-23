@@ -1,0 +1,20 @@
+1	Chelsea	chelsea	NNP	_	2	compound	_	B-ORG
+2	Hotel	hotel	NNP	pos2=NN	0	root	_	L-ORG
+3	(	(	-LRB-	_	4	punct	_	O
+4	Song	song	NNP	pos2=NN	2	appos	_	O
+5	for	for	IN	_	4	prep	_	O
+6	JANIS	janis	NNP	_	7	compound	_	B-PERSON
+7	JOPLIN	joplin	NNP	_	5	pobj	_	L-PERSON
+8	)	)	-RRB-	_	4	punct	_	O
+9	by	by	IN	_	2	prep	_	O
+10	Leonard	leonard	NNP	_	11	compound	_	B-PERSON
+11	Cohen	cohen	NNP	_	9	pobj	_	L-PERSON
+12	(	(	-LRB-	_	14	punct	_	O
+13	Her	her	PRP$	_	14	poss	_	O
+14	ex-boyfriend	ex-boyfriend	NN	_	11	appos	_	O
+15	...	..	.	pos2=,	2	punct	_	O
+
+1	https://t.co/9wLhdTVB1X	#hlink#	ADD	pos2=NN	0	root	_	O
+2	via	via	IN	_	1	prep	_	O
+3	@YouTube	@youtube	NN	pos2=NNP	2	pobj	_	O
+

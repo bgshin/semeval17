@@ -1,0 +1,21 @@
+1	PMF	pmf	NN	pos2=NNP	3	nmod	_	O
+2	/	/	SYM	pos2=HYPH	3	punct	_	O
+3	PMU	pmu	NN	pos2=NNP	4	compound	_	O
+4	Forces	force	NNS	pos2=NNPS	5	nsubj	_	O
+5	met	meet	VBD	pos2=VBN	0	root	_	O
+6	with	with	IN	_	5	prep	_	O
+7	Peshmerga	peshmerga	NNP	pos2=NN	6	pobj	_	U-GPE
+8	in	in	IN	_	7	prep	_	O
+9	Sinjar	sinjar	NNP	_	8	pobj	_	U-GPE
+10	,	,	,	_	5	punct	_	O
+11	effectively	effectively	RB	_	12	advmod	_	O
+12	closing	close	VBG	_	5	advcl	_	O
+13	the	the	DT	_	17	det	_	O
+14	Mosul	mosul	NNP	_	16	nmod	_	U-GPE
+15	/	/	SYM	pos2=HYPH	16	punct	_	O
+16	Raqqa	raqqa	NNP	_	17	compound	_	U-GPE
+17	corridor	corridor	NN	pos2=GW	12	dobj	_	O
+18	#PMF	#pmf	GW	pos2=NN	20	nmod	_	U-GPE
+19	#MosulOffensive	#mosuloffensive	GW	pos2=ADD	20	nmod	_	O
+20	https://t.co/2j3YzvhZKS	#hlink#	ADD	pos2=NN	5	dep	_	O
+

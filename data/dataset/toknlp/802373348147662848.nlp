@@ -1,0 +1,27 @@
+1	"	"	``	pos2=SYM	5	punct	_	O
+2	favorite	favorite	JJ	pos2=NN	4	nmod	_	O
+3	mannequin	mannequin	NN	pos2=NNP	4	compound	_	O
+4	challenge	challenge	NN	_	5	nsubj	_	O
+5	is	be	VBZ	_	0	root	_	O
+6	the	the	DT	_	8	det	_	O
+7	Obama	obama	NNP	_	8	compound	_	U-PERSON
+8	admin	admin	NN	_	5	attr	_	O
+9	standing	stand	VBG	pos2=NN	8	acl	_	O
+10	still	still	RB	_	9	advmod	_	O
+11	while	while	IN	_	15	mark	_	O
+12	human	human	JJ	_	13	nmod	_	O
+13	rights	right	NNS	_	14	compound	_	O
+14	atrocities	atrocity	NNS	_	15	nsubj	_	O
+15	take	take	VB	pos2=VBP	9	advcl	_	O
+16	place	place	NN	_	15	dobj	_	O
+17	at	at	IN	_	15	prep	_	O
+18	Standing	standing	NNP	pos2=VBG	19	compound	_	B-ORG
+19	Rock	rock	NNP	_	17	pobj	_	I-ORG
+20	(	(	-LRB-	_	19	punct	_	I-ORG
+21	&	&	CC	pos2=``	19	cc	_	I-ORG
+22	Flint	flint	NNP	_	19	conj	_	L-ORG
+23	)	)	-RRB-	_	5	punct	_	O
+24	"	"	''	_	5	punct	_	O
+25	-	-	,	pos2=:	26	punct	_	O
+26	Beydoun	beydoun	NNP	_	23	vocative	_	U-PERSON
+

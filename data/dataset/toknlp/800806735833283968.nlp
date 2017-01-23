@@ -1,0 +1,13 @@
+1	Inside	inside	IN	_	12	prep	_	O
+2	the	the	DT	_	4	det	_	O
+3	street	street	NN	_	4	compound	_	O
+4	battles	battle	NNS	_	1	pobj	_	O
+5	for	for	IN	_	4	prep	_	O
+6	#Mosul	#mosul	NNP	pos2=$	12	dep	_	B-DATE
+7	#BBC#Mosuloffensive	#bbc#mosuloffensive	XX	pos2=NNP	12	dep	_	I-DATE
+8	#MosulOp	#mosulop	XX	pos2=NNP	12	dep	_	L-DATE
+9	#Iraq#ISIS#IslamicState	#iraq#isis#islamicstate	XX	pos2=ADD	12	dep	_	O
+10	#mosulops	#mosulops	XX	pos2=GW	12	nmod	_	O
+11	…	…	NFP	pos2=XX	12	punct	_	O
+12	https://t.co/ftV1t5eOWa	#hlink#	ADD	_	0	root	_	O
+

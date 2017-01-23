@@ -1,0 +1,15 @@
+1	#JohnAbroonM.d	#johnabroonm.d	NNP	pos2=MD	2	nsubj	_	O
+2	Prepare	prepare	VB	pos2=VBP	0	root	_	O
+3	for	for	IN	_	2	prep	_	O
+4	Your	your	PRP$	_	5	poss	_	O
+5	Vacation	vacation	NN	pos2=NNP	3	pobj	_	O
+6	with	with	IN	_	5	prep	_	O
+7	Travel	travel	NNP	pos2=NN	8	compound	_	B-ORG
+8	Vaccines	vaccine	NNPS	pos2=NNS	6	pobj	_	L-ORG
+9	.	.	.	_	2	punct	_	O
+
+1	Read	read	VB	pos2=VBN	0	root	_	O
+2	Blog	blog	NN	pos2=NNP	1	dobj	_	O
+3	:	:	:	_	1	punct	_	O
+4	https://t.co/2R2m4d9pgA	#hlink#	ADD	pos2=NN	1	dep	_	O
+

@@ -1,0 +1,19 @@
+1	IMPORTANT	important	JJ	pos2=NN	3	dep	_	O
+2	MUST	must	MD	pos2=NN	3	aux	_	O
+3	DO	do	VB	_	0	root	_	O
+4	:	:	:	_	3	punct	_	O
+5	@Transition2017	@transition0	NN	pos2=CD	6	compound	_	O
+6	@realDonaldTrump	@realdonaldtrump	NN	pos2=NNS	8	nsubj	_	O
+7	MUST	must	MD	_	8	aux	_	O
+8	Withdraw	withdraw	VB	_	3	dep	_	O
+9	From	from	IN	_	8	prep	_	O
+10	Climate	climate	NNP	_	11	compound	_	B-ORG
+11	Convention	convention	NNP	_	9	pobj	_	L-ORG
+12	.	.	.	_	3	punct	_	O
+
+1	MUST	must	MD	pos2=NN	2	aux	_	O
+2	READ	read	VB	pos2=VBN	0	root	_	O
+3	:	:	:	_	2	punct	_	O
+4	https://t.co/ETZ332XC50	#hlink#	ADD	pos2=NN	5	nmod	_	O
+5	@Mike_Pence	@mike_pence	NN	pos2=ADD	2	dobj	_	O
+

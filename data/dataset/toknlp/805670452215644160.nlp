@@ -1,0 +1,10 @@
+1	Dr.	dr.	NNP	_	4	compound	_	O
+2	Suzanne	suzanne	NNP	_	4	compound	_	B-PERSON
+3	Humphries	humphries	NNP	_	4	compound	_	L-PERSON
+4	Lecture	lecture	NNP	pos2=NN	9	dep	_	O
+5	on	on	IN	_	4	prep	_	O
+6	#Vaccines	#vaccines	NNP	pos2=NNPS	5	pobj	_	O
+7	&	&	CC	_	6	cc	_	O
+8	Health	health	NNP	pos2=NN	6	conj	_	O
+9	https://t.co/asnEtYYAK8#LearnTheRisk	#hlink#	ADD	pos2=NN	0	root	_	O
+

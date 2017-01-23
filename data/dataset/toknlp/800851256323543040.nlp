@@ -1,0 +1,26 @@
+1	RT	rt	NN	pos2=JJ	2	compound	_	U-ORG
+2	@SteveLemongello	@stevelemongello	NN	pos2=AFX	15	dep	_	O
+3	:	:	:	_	15	punct	_	O
+4	When	when	WRB	_	8	advmod	_	O
+5	they	they	PRP	_	8	nsubj	_	O
+6	're	be	VBP	_	8	aux	_	O
+7	literally	literally	RB	_	8	advmod	_	O
+8	doing	do	VBG	_	15	advcl	_	O
+9	a	a	DT	_	11	det	_	O
+10	Nazi	nazi	NNP	pos2=JJ	11	compound	_	U-NORP
+11	salute	salute	NN	_	8	dobj	_	O
+12	you	you	PRP	_	15	nsubj	_	O
+13	do	do	VBP	_	15	aux	_	O
+14	n't	not	RB	_	15	neg	_	O
+15	have	have	VB	_	0	root	_	O
+16	to	to	TO	pos2=IN	17	aux	_	O
+17	fudge	fudge	VB	_	15	xcomp	_	O
+18	and	and	CC	_	17	cc	_	O
+19	call	call	VB	_	17	conj	_	O
+20	them	them	PRP	_	19	dobj	_	O
+21	"	"	``	pos2=''	25	punct	_	O
+22	alt	alt	JJ	pos2=RB	25	nmod	_	O
+23	right	right	JJ	pos2=RB	25	nmod	_	O
+24	"	"	''	_	25	punct	_	O
+25	https://t.co/5t4QaWE7Uz	#hlink#	ADD	pos2=NN	20	appos	_	O
+

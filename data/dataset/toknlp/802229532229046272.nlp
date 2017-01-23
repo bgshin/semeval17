@@ -1,0 +1,21 @@
+1	STARTUP	startup	NN	_	13	dep	_	O
+2	2	0	CD	_	0	root	_	B-CARDINAL
+3	456	0	CD	pos2=LS	1	nmod	_	L-CARDINAL
+4	)	)	-RRB-	_	1	punct	_	O
+5	#Self	#self	NN	pos2=CD	0	root	_	O
+6	-	-	:	pos2=HYPH	13	punct	_	O
+7	#driving	#driving	VBG	pos2=FW	11	nmod	_	O
+8	#car	#car	NN	pos2=CD	11	compound	_	O
+9	#	#	NN	pos2=-LRB-	11	compound	_	O
+10	startup	startup	NN	_	11	compound	_	O
+11	#nuTonomy	#nutonomy	NN	pos2=NNP	13	nsubj	_	O
+12	will	will	MD	_	13	aux	_	O
+13	#begin	#begin	VB	pos2=XX	0	root	_	O
+14	#testing	#testing	VBG	_	13	xcomp	_	O
+15	its	its	PRP$	_	16	poss	_	O
+16	#cars	#cars	NNS	pos2=XX	14	dobj	_	O
+17	in	in	IN	_	14	prep	_	O
+18	#Boston	#boston	NNP	_	17	pobj	_	U-GPE
+19	#soon	#soon	ADD	pos2=GW	20	punct	_	O
+20	https://t.co/LITydD5DrG	#hlink#	ADD	_	13	dep	_	O
+

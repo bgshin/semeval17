@@ -1,0 +1,12 @@
+1	#Shia	#shia	NN	pos2=IN	2	compound	_	O
+2	militias	militia	NNS	_	3	nsubj	_	O
+3	abduct	abduct	VBP	pos2=VB	0	root	_	O
+4	families	family	NNS	_	3	dobj	_	O
+5	from	from	IN	_	4	prep	_	O
+6	#TelAfar	#telafar	NNP	pos2=GW	5	pobj	_	B-MONEY
+7	https://t.co/KPdF0UtlWM	#hlink#	ADD	_	11	nmod	_	I-MONEY
+8	#MosulOps	#mosulops	NNS	pos2=VBZ	11	nmod	_	L-MONEY
+9	#MosulOffensive	#mosuloffensive	ADD	pos2=JJ	11	punct	_	O
+10	#Daesh	#daesh	NNP	pos2=XX	11	compound	_	U-ORG
+11	#PMF	#pmf	NN	pos2=ADD	3	npadvmod	_	O
+

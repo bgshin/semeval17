@@ -1,0 +1,13 @@
+1	Clearly	clearly	RB	_	3	advmod	_	O
+2	an	an	DT	_	3	det	_	O
+3	attempt	attempt	NN	_	0	root	_	O
+4	to	to	TO	_	5	aux	_	O
+5	scare	scare	VB	_	3	acl	_	O
+6	people	people	NNS	_	7	compound	_	O
+7	people	people	NNS	_	5	dobj	_	O
+8	into	into	IN	_	5	prep	_	O
+9	supporting	support	VBG	_	8	pcomp	_	O
+10	more	more	JJR	_	12	nmod	_	O
+11	gun	gun	NN	_	12	compound	_	O
+12	control	control	NN	_	9	dobj	_	O
+

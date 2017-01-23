@@ -1,0 +1,28 @@
+1	First	#ord#	RB	pos2=JJ	9	advmod	_	B-ORG
+2	#Hugo	#hugo	NNP	pos2=XX	4	compound	_	L-ORG
+3	chavez	chavez	NNP	pos2=WP	4	compound	_	O
+4	Died	died	NNP	pos2=VBD	9	nsubj	_	O
+5	&	&	CC	_	4	cc	_	O
+6	now	now	RB	_	9	advmod	_	O
+7	#Fidel	#fidel	NNP	pos2=PRP$	8	compound	_	B-PERSON
+8	Castro	castro	NNP	_	9	nsubj	_	L-PERSON
+9	follows	follow	VBZ	_	0	root	_	O
+10	.	.	.	_	9	punct	_	O
+
+1	We	we	PRP	_	2	nsubj	_	O
+2	remain	remain	VBP	_	0	root	_	O
+3	with	with	IN	_	2	prep	_	O
+4	#Evo	#evo	NNP	_	5	compound	_	B-PERSON
+5	Morales	morales	NNP	_	3	pobj	_	L-PERSON
+6	,	,	,	_	5	punct	_	O
+7	#Rafael	#rafael	NNP	_	8	compound	_	B-PERSON
+8	Correa	correa	NNP	_	5	conj	_	L-PERSON
+9	,	,	,	_	8	punct	_	O
+10	#Nicholas	#nicholas	NNP	_	11	compound	_	B-ORG
+11	Maduro	maduro	NNP	_	8	conj	_	I-ORG
+12	&	&	CC	_	11	cc	_	I-ORG
+13	#Kristina	#kristina	NNP	pos2=FW	15	compound	_	I-ORG
+14	de	de	NNP	pos2=IN	15	compound	_	I-ORG
+15	Kirchner	kirchner	NNP	_	11	conj	_	L-ORG
+16	.	.	.	_	2	punct	_	O
+

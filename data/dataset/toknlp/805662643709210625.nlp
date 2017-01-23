@@ -1,0 +1,12 @@
+1	Cuba	cuba	NNP	pos2=NN	3	nmod	_	U-GPE
+2	:	:	:	_	4	punct	_	O
+3	Crowds	crowd	NNS	pos2=NNP	4	nsubj	_	O
+4	gather	gather	VBP	pos2=VB	0	root	_	O
+5	in	in	IN	_	4	prep	_	O
+6	final	final	JJ	_	7	nmod	_	O
+7	farewell	farewell	NN	_	5	pobj	_	O
+8	to	to	IN	_	4	prep	_	O
+9	Fidel	fidel	NNP	_	10	compound	_	B-PERSON
+10	Castro	castro	NNP	_	8	pobj	_	L-PERSON
+11	https://t.co/r484hUYe1J	#hlink#	ADD	_	4	dep	_	O
+

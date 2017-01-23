@@ -1,0 +1,22 @@
+1	.	.	.	_	0	punct	_	O
+
+1	@AlakhbarNews	@alakhbarnews	POS	pos2=PRP$	6	punct	_	O
+2	reports	report	NNS	pos2=VBZ	3	compound	_	O
+3	#Hezbollah	#hezbollah	NNP	pos2=:	6	nsubj	_	B-ORG
+4	&	&	CC	_	3	cc	_	I-ORG
+5	#Russia	#russia	NNP	pos2=RB	3	conj	_	L-ORG
+6	held	hold	VBD	_	0	root	_	O
+7	1	0	CD	_	12	nmod	_	B-PERCENT
+8	st	st	NN	pos2=FW	10	nmod	_	L-PERCENT
+9	official	official	JJ	_	10	nmod	_	O
+10	meeting	meeting	NN	pos2=VBG	6	dobj	_	O
+11	in	in	IN	_	10	prep	_	O
+12	#Aleppo	#aleppo	NNP	pos2=FW	11	pobj	_	U-GPE
+13	,	,	,	_	6	punct	_	O
+14	will	will	MD	_	16	aux	_	O
+15	now	now	RB	_	16	advmod	_	O
+16	have	have	VB	pos2=VBP	6	conj	_	O
+17	continuous	continuous	JJ	_	18	nmod	_	O
+18	comms	comms	NNS	_	16	dobj	_	O
+19	https://t.co/MAi0uElvyL	#hlink#	ADD	pos2=NN	16	npadvmod	_	O
+

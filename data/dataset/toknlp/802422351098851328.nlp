@@ -1,0 +1,28 @@
+1	far	far	RB	pos2=UH	2	advmod	_	O
+2	be	be	VB	_	0	root	_	O
+3	it	it	PRP	_	2	nsubj	_	O
+4	for	for	IN	_	7	mark	_	O
+5	me	me	PRP	_	7	nsubj	_	O
+6	to	to	TO	_	7	aux	_	O
+7	agree	agree	VB	_	2	advcl	_	O
+8	with	with	IN	_	7	prep	_	O
+9	white	white	JJ	_	10	nmod	_	O
+10	conservatives	conservative	NNS	_	8	pobj	_	O
+11	on	on	IN	_	7	prep	_	O
+12	anything	anything	NN	_	11	pobj	_	O
+13	.	.	.	_	2	punct	_	O
+
+1	because	because	IN	_	11	mark	_	O
+2	even	even	RB	_	6	advmod	_	O
+3	when	when	WRB	_	6	advmod	_	O
+4	you	you	PRP	_	5	nmod	_	O
+5	motherfuckers	motherfucker	NNS	_	6	nsubj	_	O
+6	are	be	VBP	_	11	advcl	_	O
+7	right	right	JJ	pos2=RB	6	acomp	_	O
+8	,	,	,	_	11	punct	_	O
+9	you	you	PRP	_	11	nsubj	_	O
+10	're	be	VBP	_	11	aux	_	O
+11	fucking	fuck	VBG	pos2=RB	0	root	_	O
+12	wrong	wrong	NN	pos2=JJ	11	dobj	_	O
+13	.	.	.	_	11	punct	_	O
+

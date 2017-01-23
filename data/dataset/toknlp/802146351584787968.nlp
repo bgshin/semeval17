@@ -1,0 +1,25 @@
+1	If	if	IN	_	3	mark	_	O
+2	you	you	PRP	_	3	nsubj	_	O
+3	wan	wan	VBP	_	12	advcl	_	O
+4	na	to	TO	_	5	aux	_	O
+5	have	have	VB	pos2=VBP	3	xcomp	_	O
+6	some	some	DT	_	8	det	_	O
+7	seasonal	seasonal	JJ	_	8	nmod	_	O
+8	fun	fun	NN	_	11	nmod	_	O
+9	&	&	CC	_	8	cc	_	O
+10	#teachecon	#teachecon	NN	pos2=IN	8	conj	_	O
+11	#Hatchimals	#hatchimals	NNS	pos2=NNPS	12	nsubj	_	O
+12	are	be	VBP	_	0	root	_	O
+13	today	today	NN	_	17	poss	_	U-DATE
+14	's	's	POS	_	13	case	_	O
+15	Cabbage	cabbage	NNP	pos2=NN	17	compound	_	B-ORG
+16	Patch	patch	NNP	_	17	compound	_	I-ORG
+17	Kids	kid	NNPS	pos2=NNP	12	attr	_	I-ORG
+18	&	&	CC	_	12	cc	_	I-ORG
+19	Tickle	tickle	VB	pos2=NNP	12	conj	_	L-ORG
+20	Me	me	PRP	_	19	dobj	_	O
+21	Elmo	elmo	NNP	pos2=GW	22	compound	_	B-PERSON
+22	Christ	christ	NNP	_	24	dep	_	L-PERSON
+23	…	…	NFP	pos2=VBD	24	punct	_	O
+24	https://t.co/qjardIKjzG	#hlink#	ADD	_	12	dep	_	O
+

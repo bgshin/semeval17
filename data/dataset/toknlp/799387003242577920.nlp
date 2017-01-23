@@ -1,0 +1,23 @@
+1	Missed	miss	VBN	pos2=VBD	2	nmod	_	O
+2	#NationalFastFoodDay	#nationalfastfoodday	NN	pos2=ADD	0	root	_	O
+3	,	,	,	_	2	punct	_	O
+4	but	but	CC	_	2	cc	_	O
+5	righting	right	VBG	_	20	advcl	_	O
+6	that	that	DT	pos2=IN	10	det	_	O
+7	wrong	wrong	JJ	pos2=NN	8	nmod	_	O
+8	now.#McDonalds	now.#mcdonalds	NNS	pos2=NNP	10	nmod	_	O
+9	small	small	JJ	_	10	nmod	_	O
+10	fry	fry	NN	pos2=NNS	5	dobj	_	O
+11	&	&	CC	_	10	cc	_	O
+12	a	a	DT	_	14	det	_	O
+13	cheeseburger.I	cheeseburger.i	NNP	pos2=NN	14	compound	_	U-ORG
+14	know	know	NN	pos2=VBP	10	conj	_	O
+15	,	,	,	_	20	punct	_	O
+16	does	do	VBZ	_	20	aux	_	O
+17	n't	not	RB	_	20	neg	_	O
+18	even	even	RB	pos2=VB	20	advmod	_	O
+19	really	really	RB	_	20	advmod	_	O
+20	count	count	VB	pos2=VBP	2	conj	_	O
+21	as	as	IN	_	20	prep	_	O
+22	ff.	ff.	NN	pos2=NNS	21	pobj	_	O
+

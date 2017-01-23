@@ -1,0 +1,12 @@
+1	The	the	DT	_	2	det	_	O
+2	latest	late	JJS	_	6	nsubj	_	O
+3	The	the	DT	pos2=NNP	7	det	_	B-ORG
+4	Rabeeya	rabeeya	NNP	_	7	compound	_	I-ORG
+5	S.	s.	NNP	_	7	compound	_	I-ORG
+6	Siddiqui	siddiqui	NNP	_	7	compound	_	I-ORG
+7	Daily	daily	NNP	pos2=RB	0	root	_	L-ORG
+8	!	!	.	_	2	punct	_	O
+
+1	https://t.co/AZnde14ePO	#hlink#	ADD	_	0	root	_	O
+2	#westworld	#westworld	UH	pos2=-RRB-	1	discourse	_	O
+

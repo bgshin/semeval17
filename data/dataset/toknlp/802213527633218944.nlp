@@ -1,0 +1,16 @@
+1	A	a	DT	pos2=NNP	2	det	_	O
+2	Battle	battle	NNP	pos2=NN	6	nsubj	_	U-PERSON
+3	to	to	TO	pos2=IN	4	aux	_	O
+4	Change	change	VB	pos2=NNP	2	acl	_	O
+5	Medicare	medicare	NNP	_	4	dobj	_	U-ORG
+6	Is	be	VBZ	pos2=NNP	0	root	_	O
+7	Brewing	brewing	NNP	pos2=NN	6	attr	_	O
+8	,	,	,	_	6	punct	_	O
+9	Whether	whether	IN	pos2=NNP	11	mark	_	O
+10	Trump	trump	NNP	_	11	nsubj	_	U-ORG
+11	Wants	want	VBZ	_	6	advcl	_	O
+12	It	it	PRP	_	11	dobj	_	O
+13	or	or	CC	_	11	cc	_	O
+14	Nothttps://t.co/SYFgzYscjy#uniteblue	#hlink#	ADD	_	11	conj	_	O
+15	#notmypresident	#notmypresident	ADD	pos2=-RRB-	11	conj	_	O
+

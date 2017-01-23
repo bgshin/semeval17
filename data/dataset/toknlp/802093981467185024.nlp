@@ -1,0 +1,18 @@
+1	QUIZ	quiz	NN	_	7	dep	_	O
+2	:	:	:	_	1	punct	_	O
+3	Which	which	WDT	_	4	det	_	O
+4	member	member	NN	_	7	nsubj	_	O
+5	of	of	IN	_	4	prep	_	O
+6	#OneDirection	#onedirection	NNP	pos2=NN	5	pobj	_	U-ORG
+7	is	be	VBZ	_	0	root	_	O
+8	your	your	PRP$	_	10	poss	_	O
+9	spirit	spirit	NN	_	10	compound	_	O
+10	animal	animal	NN	_	7	attr	_	O
+11	?	?	.	_	7	punct	_	O
+
+1	https://t.co/DzHF2nQOvj	#hlink#	ADD	pos2=NN	5	dep	_	O
+2	#	#	NN	pos2=-RRB-	5	dep	_	O
+3	1	0	LS	pos2=CD	5	dep	_	U-MONEY
+4	D	d	NN	pos2=NNS	5	dep	_	O
+5	https://t.co/7YHGZhDZcz	#hlink#	ADD	pos2=NN	0	root	_	U-ORG
+

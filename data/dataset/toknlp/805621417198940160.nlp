@@ -1,0 +1,20 @@
+1	Lifting	lifting	NN	pos2=VBG	0	root	_	O
+2	of	of	IN	_	1	prep	_	O
+3	U.S.	u.s.	NNP	_	4	compound	_	U-GPE
+4	Embargo	embargo	NNP	_	8	compound	_	B-ORG
+5	May	may	NNP	pos2=MD	8	compound	_	I-ORG
+6	Impact	impact	NNP	pos2=VB	8	compound	_	I-ORG
+7	Chinese	chinese	NNP	pos2=NNPS	8	compound	_	I-ORG
+8	Investment	investment	NNP	pos2=NN	2	pobj	_	L-ORG
+9	in	in	IN	_	8	prep	_	O
+10	#Cuba	#cuba	NNP	_	9	pobj	_	U-GPE
+11	..	..	.	pos2=,	1	punct	_	O
+
+1	Until	until	IN	pos2=NNP	7	prep	_	O
+2	Then	then	RB	_	1	pcomp	_	O
+3	its	its	PRP$	pos2=VBZ	7	poss	_	O
+4	a	a	DT	_	6	det	_	O
+5	Free	free	JJ	pos2=NNP	6	nmod	_	O
+6	Ride	ride	NNP	pos2=NN	7	nmod	_	O
+7	https://t.co/0tQTjfTR7n	#hlink#	ADD	_	0	root	_	O
+

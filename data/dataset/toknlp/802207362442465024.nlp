@@ -1,0 +1,26 @@
+1	As	as	IN	pos2=RB	6	prep	_	O
+2	Soon	soon	NNP	pos2=RB	1	pobj	_	O
+3	As	as	IN	pos2=NNP	6	mark	_	O
+4	Mike	mike	NNP	_	5	compound	_	B-PERSON
+5	Pence	penny	NNP	_	6	nsubj	_	L-PERSON
+6	Posted	post	VBD	pos2=NNP	11	advcl	_	O
+7	This	this	DT	_	8	det	_	O
+8	Photo	photo	NN	pos2=NNP	6	dobj	_	O
+9	,	,	,	_	11	punct	_	O
+10	We	we	PRP	pos2=NNP	11	nsubj	_	O
+11	Knew	know	VBD	_	0	root	_	O
+12	There	there	EX	pos2=NNP	13	expl	_	O
+13	Was	be	VBD	pos2=VBZ	11	ccomp	_	O
+14	Something	something	NN	pos2=NNP	13	attr	_	O
+15	Terribly	terribly	RB	_	16	advmod	_	O
+16	Wrong	wrong	JJ	pos2=NNP	14	nmod	_	O
+17	.	.	.	_	11	punct	_	O
+
+1	Do	do	VBP	pos2=VB	3	aux	_	O
+2	You	you	PRP	_	3	nsubj	_	O
+3	See	see	VB	_	0	root	_	O
+4	It	it	PRP	_	3	dobj	_	O
+5	?	?	.	_	3	punct	_	O
+
+1	https://t.co/sbaLtHjBKv	#hlink#	ADD	_	0	root	_	U-ORG
+

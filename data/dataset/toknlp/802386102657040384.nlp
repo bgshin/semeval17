@@ -1,0 +1,19 @@
+1	@ed_hooley	@ed_hooley	NNP	pos2=SYM	2	compound	_	B-PERSON
+2	Romney	romney	NNP	_	3	nsubj	_	L-PERSON
+3	is	be	VBZ	_	0	root	_	O
+4	a	a	DT	_	5	det	_	O
+5	JOKE	joke	NN	_	3	attr	_	O
+6	.	.	.	_	3	punct	_	O
+
+1	I	I	PRP	_	2	nsubj	_	O
+2	hope	hope	VBP	_	0	root	_	O
+3	he	he	PRP	_	4	nsubj	_	O
+4	's	's	VBZ	_	2	ccomp	_	O
+5	not	not	RB	_	4	neg	_	O
+6	in	in	IN	_	4	prep	_	O
+7	Trump	trump	NNP	pos2=NN	9	poss	_	U-ORG
+8	's	's	POS	_	7	case	_	O
+9	cabinet	cabinet	NN	_	6	pobj	_	O
+10	anytime	anytime	RB	pos2=NN	11	advmod	_	O
+11	soon	soon	RB	_	4	advmod	_	O
+

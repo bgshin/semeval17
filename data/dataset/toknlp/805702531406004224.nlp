@@ -1,0 +1,6 @@
+1	Go	go	VB	_	0	root	_	O
+2	to	to	IN	_	1	prep	_	O
+3	bed	bed	NN	_	5	compound	_	O
+4	Muhammad	muhammad	NNP	_	5	compound	_	B-PERSON
+5	Ali	ali	NNP	_	2	pobj	_	L-PERSON
+

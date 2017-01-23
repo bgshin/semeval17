@@ -1,0 +1,14 @@
+1	Yep	yep	UH	_	0	root	_	O
+2	...	..	.	pos2=,	1	punct	_	O
+
+1	they	they	PRP	_	4	nsubjpass	_	O
+2	are	be	VBP	_	3	aux	_	O
+3	staying	stay	VBG	_	0	root	_	O
+4	put	put	VBN	pos2=NN	3	xcomp	_	O
+5	...	..	.	pos2=,	3	punct	_	O
+
+1	Amazing	amazing	JJ	_	2	nmod	_	O
+2	work	work	NN	_	4	compound	_	O
+3	Mike	mike	NNP	_	4	compound	_	B-PERSON
+4	Pence	penny	NNP	_	0	root	_	L-PERSON
+

@@ -1,0 +1,14 @@
+1	Japan	japan	NNP	_	3	compound	_	B-ORG
+2	Issues	issues	NNP	pos2=NNPS	3	compound	_	I-ORG
+3	Booklet	booklet	NNP	_	5	nsubj	_	L-ORG
+4	to	to	TO	pos2=IN	5	aux	_	O
+5	Prepare	prepare	VB	pos2=NNP	0	root	_	O
+6	Citizens	citizen	NNS	pos2=NNPS	5	dobj	_	B-EVENT
+7	for	for	IN	_	6	prep	_	I-EVENT
+8	Nuclear	nuclear	NNP	pos2=JJ	9	compound	_	I-EVENT
+9	War	war	NNP	_	7	pobj	_	L-EVENT
+10	With	with	IN	_	9	prep	_	O
+11	North	north	NNP	_	12	compound	_	B-GPE
+12	Korea	korea	NNP	_	10	pobj	_	L-GPE
+13	https://t.co/2NUu5QKhpH	#hlink#	ADD	pos2=NNP	0	root	_	O
+

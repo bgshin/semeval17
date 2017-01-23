@@ -1,0 +1,15 @@
+1	If	if	IN	_	3	mark	_	O
+2	we	we	PRP	_	3	nsubj	_	O
+3	are	be	VBP	_	8	advcl	_	O
+4	the	the	DT	_	5	det	_	O
+5	#Deplorables	#deplorables	NNS	pos2=NNPS	3	attr	_	O
+6	,	,	,	_	5	punct	_	O
+7	that	that	WDT	pos2=DT	8	nsubj	_	O
+8	makes	make	VBZ	_	0	root	_	O
+9	them	them	PRP	_	10	nsubj	_	O
+10	#Despicables	#despicables	NNS	pos2=NNP	8	ccomp	_	O
+11	,	,	,	_	10	punct	_	O
+12	#Unelectables	#unelectables	NNP	pos2=NNS	10	conj	_	B-ORG
+13	&	&	CC	_	12	cc	_	I-ORG
+14	#Failures	#failures	NNS	pos2=NNP	12	conj	_	L-ORG
+

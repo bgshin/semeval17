@@ -1,0 +1,23 @@
+1	@rchayden	@rchayden	UH	pos2=VB	6	discourse	_	O
+2	so	so	RB	pos2=IN	6	advmod	_	O
+3	an	an	DT	_	5	det	_	O
+4	inbred	inbred	JJ	_	5	nmod	_	O
+5	neo-nazi	neo-nazi	NN	pos2=JJ	6	nsubj	_	O
+6	wants	want	VBZ	pos2=NNS	0	root	_	O
+7	to	to	TO	_	8	aux	_	O
+8	play	play	VB	_	6	xcomp	_	O
+9	too	too	RB	_	8	advmod	_	O
+10	eh	eh	UH	pos2=RB	8	discourse	_	O
+11	?	?	.	_	6	punct	_	O
+
+1	Do	do	VBP	pos2=VB	3	aux	_	O
+2	You	you	PRP	_	3	nsubj	_	O
+3	Dare	dare	VB	_	0	root	_	O
+4	?	?	.	_	3	punct	_	O
+
+1	@summersstine	@summersstine	UH	pos2=PRP	5	discourse	_	O
+2	@SyriaResurgence	@syriaresurgence	NN	pos2=ADD	5	compound	_	O
+3	@FelixLeiter2	@felixleiter0	NN	pos2=NNS	5	compound	_	O
+4	@jsummers_1	@jsummers_0	NN	pos2=CD	5	compound	_	O
+5	@Jon2Lundgren	@jon0lundgren	NN	pos2=NNS	0	root	_	O
+

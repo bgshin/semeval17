@@ -1,0 +1,26 @@
+1	today	today	NN	_	4	npadvmod	_	U-DATE
+2	,	,	,	_	4	punct	_	O
+3	i	I	PRP	_	4	nsubj	_	O
+4	'm	be	VBP	_	0	root	_	O
+5	pretty	pretty	RB	_	6	advmod	_	O
+6	sure	sure	JJ	_	7	nmod	_	O
+7	doctors	doctor	NNS	_	4	attr	_	O
+8	who	who	WP	_	9	nsubj	_	O
+9	got	get	VBD	_	7	relcl	_	O
+10	Cs	cs	NNP	pos2=NNS	9	dobj	_	O
+11	in	in	IN	_	9	prep	_	O
+12	medical	medical	JJ	_	13	nmod	_	O
+13	school	school	NN	_	11	pobj	_	O
+14	just	just	RB	_	15	advmod	_	O
+15	became	become	VBD	_	4	conj	_	O
+16	the	the	DT	_	17	det	_	O
+17	doctors	doctor	NNS	_	15	attr	_	O
+18	who	who	WP	_	19	nsubj	_	O
+19	hand	hand	VBP	pos2=VBD	17	relcl	_	O
+20	out	out	RP	_	19	prt	_	O
+21	medical	medical	JJ	_	22	nmod	_	O
+22	marijuana	marijuana	NN	_	23	compound	_	O
+23	recs	rec	NNS	pos2=NN	19	dobj	_	O
+24	in	in	IN	_	19	prep	_	O
+25	california	california	NN	pos2=NNP	24	pobj	_	U-GPE
+
